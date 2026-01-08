@@ -4,11 +4,11 @@
 
 Risk Summary
 
-Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4), Clinical Considerations].
+Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4), Clinical Considerations)].
 There are reports of respiratory depression when oxycodone is used during labor and delivery [see Clinical Considerations].
 There are no available data with ROXYBOND in pregnant women to inform a drug-associated risk for adverse developmental outcomes.
 Animal reproduction studies with oral administrations of oxycodone hydrochloride in rats and rabbits during the period of organogenesis, at doses 2.6 and 8.1 times, respectively, the human dose of 60 mg/day did not reveal evidence of teratogenicity or embryo-fetal toxicity.
-In several published studies, treatment of pregnant rats with oxycodone at clinically relevant doses and below, resulted in neurobehavioral effects in offspring [see Data].
+In several published studies, treatment of pregnant rats with oxycodone at clinically relevant doses and below, resulted in neurobehavioral effects in offspring [see Data)].
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
 The risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -28,7 +28,7 @@ Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage 
 Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 ROXYBOND is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
 Opioid analgesics, including ROXYBOND, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
@@ -56,10 +56,10 @@ Risk Summary
 
 Available data from lactation studies indicate that oxycodone is present in breastmilk and that doses of less than 60 mg/day of the immediate-release formulation are unlikely to result in clinically relevant exposures in breastfed infants.
 A pharmacokinetics study utilizing opportunistic sampling of 76 lactating women receiving oxycodone immediate-release products for postpartum pain management showed that oxycodone concentrates in breastmilk with an average milk to plasma ratio of 3.2.
-The relative infant dose was low, approximately 1.3% of a weight-adjusted maternal dose (see Data).
+The relative infant dose was low, approximately 1.3% of a weight-adjusted maternal dose [see Data)].
 
 In the same study, among the 70 infants exposed to oxycodone in breastmilk, no adverse events were attributed to oxycodone.
-However, based on known adverse effects in adults, infants should be monitored for signs of excess sedation and respiratory depression (see Clinical Considerations).
+However, based on known adverse effects in adults, infants should be monitored for signs of excess sedation and respiratory depression [see Clinical Considerations)].
 There are no data on the effects of the oxycodone on milk production.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ROXYBOND and any potential adverse effects on the breastfed infant from ROXYBOND or from the underlying maternal condition.
@@ -82,7 +82,7 @@ These concentrations are 100 to 1000 times lower than concentrations observed in
 Infertility
 
 Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), and Nonclinical Toxicology (13.1)].
+It is not known whether these effects on fertility are reversible [see Clinical Pharmacology (12.2), and Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

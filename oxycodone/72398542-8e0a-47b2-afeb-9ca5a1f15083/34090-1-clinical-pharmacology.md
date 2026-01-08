@@ -26,7 +26,7 @@ Effects on Gastrointestinal Tract and Other Smooth Muscle
 Oxycodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum, stomach, and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on Cardiovascular System
 
@@ -50,12 +50,12 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration–Efficacy Relationships
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
-The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.4)].
+The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.4), Warnings and Precautions (5.7)].
 
 Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing oxycodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3), Warnings and Precautions (5.7)].
 
 ## 12.3 Pharmacokinetics
 
@@ -68,7 +68,7 @@ In the fasted state, the extent of absorption (AUC) is equivalent, the rate of a
 Table 4.
 Pharmacokinetic Parameters (Mean ± SD)
 
-| Dose\Parameters | AUC0-t (ng∙hr/mL) | AUC0-inf (ng∙hr/mL) | Cmax (ng/mL) | Tmax (hr) | Half Life (hr) |
+| Dose\Parameters | AUC0-t (ng∙hr/mL) | AUC0-inf(ng∙hr/mL) | Cmax (ng/mL) | Tmax (hr) | Half Life (hr) |
 | --- | --- | --- | --- | --- | --- |
 | Single Dose Pharmacokinetics Study |  |  |  |  |  |
 | ROXYBOND 5 mg tab (fasted) | 45.5±15.4 | 49.0±16.1 | 8.3±2.1 | 1.5a (0.7 to 5.0) | 3.9±1.2 |
@@ -87,9 +87,7 @@ Dose proportionality of oxycodone has been established using the ROXYBOND 5 mg, 
 It takes approximately 18 to 24 hours to reach steady-state plasma concentrations of oxycodone with oxycodone hydrochloride.
 
 Figure 2.
-Mean Oxycodone Pharmacokinetic Profiles of 5-, 15-, 30-mg ROXYBOND Tablets
-
-(n=51)
+Mean Oxycodone Pharmacokinetic Profiles of 5-, 15-, 30-mg ROXYBOND Tablets (n=51)
 
 Food Effect
 

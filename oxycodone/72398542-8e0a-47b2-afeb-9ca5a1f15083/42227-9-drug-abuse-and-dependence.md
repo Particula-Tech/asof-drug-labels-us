@@ -117,15 +117,15 @@ Tolerance is a physiological state characterized by a reduced response to a drug
 
 Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 
-Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
-Do not abruptly discontinue ROXYBOND in a patient physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue ROXYBOND in a patient physically dependent on opioids.
 Rapid tapering of ROXYBOND in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 
 When discontinuing ROXYBOND, gradually taper the dosage using a patient-specific plan that considers the following: the dose of ROXYBOND the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
 To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.
-In patients taking opioids for an extended period of time at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.5), and Warnings and Precautions (5.14)].
+In patients taking opioids for an extended period of time at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.4, 2.5), and Warnings and Precautions (5.14)].
 
-Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].
+Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
