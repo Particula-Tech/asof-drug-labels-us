@@ -25,4 +25,4 @@ Patents at www.padagis.com/patents
 
 Cleocin is a registered trademark of Pharmacia & Upjohn Company.
 
-2S000 RC SUB PH7
+2S000 RC PH7
