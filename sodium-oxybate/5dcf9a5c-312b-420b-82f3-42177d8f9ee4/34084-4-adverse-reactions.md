@@ -1,0 +1,92 @@
+# 6 ADVERSE REACTIONS
+
+The following clinically significant adverse reactions appear in other sections of the labeling:
+
+- CNS depression [see Warnings and Precautions (5.1)]
+- Abuse and Misuse [see Warnings and Precautions (5.2)]
+- Respiratory Depression and Sleep-Disordered Breathing [see Warnings and Precautions (5.4)]
+- Depression and Suicidality [see Warnings and Precautions (5.5)]
+- Other Behavioral or Psychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
+- Parasomnias [see Warnings and Precautions (5.7)]
+- Use in Patients Sensitive to High Sodium Intake [see Warnings and Precautions (5.8)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+Adult Patients
+
+Sodium oxybate oral solution was studied in three placebo-controlled clinical trials (Trials N1, N3, and N4, described in Sections 14.1 and 14.2) in 611 patients with narcolepsy (398 subjects treated with sodium oxybate oral solution, and 213 with placebo).
+A total of 781 patients with narcolepsy were treated with sodium oxybate oral solution in controlled and uncontrolled clinical trials.
+
+Section 6.1 and Table 4 present adverse reactions from three pooled, controlled trials (N1, N3, N4) in patients with narcolepsy.
+
+Adverse Reactions Leading to Treatment Discontinuation:
+
+Of the 398 patients with narcolepsy treated with sodium oxybate oral solution, 10.3% of patients discontinued because of adverse reactions compared with 2.8% of patients receiving placebo.
+The most common adverse reaction leading to discontinuation was nausea (2.8%).
+The majority of adverse reactions leading to discontinuation began during the first few weeks of treatment.
+
+Commonly Observed Adverse Reactions in Controlled Clinical Trials:
+
+The most common adverse reactions (incidence ≥5% and twice the rate seen with placebo) in patients treated with sodium oxybate oral solution were nausea, dizziness, vomiting, somnolence, enuresis, and tremor.
+
+Adverse Reactions Occurring at an Incidence of 2% or Greater:
+
+Table 4 lists adverse reactions that occurred at a frequency of 2% or more in any treatment group for three controlled trials and were more frequent in any sodium oxybate oral solution treatment group than with placebo.
+Adverse reactions are summarized by dose at onset.
+Nearly all patients in these studies initiated treatment at 4.5 g per night.
+In patients who remained on treatment, adverse reactions tended to occur early and to diminish over time.
+
+Table 4 Adverse Reactions Occurring in ≥2% of Adult Patients and More Frequently with Sodium oxybate oral solution than Placebo in Three Controlled Trials (N1, N3, N4) by Body System and Dose at Onset
+
+| Adverse Reaction | Placebo(n=213)% | Sodium oxybate oral solution 4.5g(n=185)% | Sodium oxybate oral solution 6g(n=258)% | Sodium oxybate oral solution 9g(n=178)% |
+| --- | --- | --- | --- | --- |
+| ANY ADVERSE REACTION | 62 | 45 | 55 | 70 |
+| GASTROINTESTINAL DISORDERS |  |  |  |  |
+| Nausea | 3 | 8 | 13 | 20 |
+| Vomiting | 1 | 2 | 4 | 11 |
+| Diarrhea | 2 | 4 | 3 | 4 |
+| Abdominal pain upper | 2 | 3 | 1 | 2 |
+| Dry mouth | 2 | 1 | 2 | 1 |
+| GENERAL DISORDERS AND ADMINISTRATIVE SITE CONDITIONS |  |  |  |  |
+| Pain | 1 | 1 | <1 | 3 |
+| Feeling drunk | 1 | 0 | <1 | 3 |
+| Edema peripheral | 1 | 3 | 0 | 0 |
+| MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS |  |  |  |  |
+| Cataplexy | 1 | 1 | 1 | 2 |
+| Muscle spasms | 2 | 2 | <1 | 2 |
+| Pain in extremity | 1 | 3 | 1 | 1 |
+| NERVOUS SYSTEM DISORDERS |  |  |  |  |
+| Dizziness | 4 | 9 | 11 | 15 |
+| Somnolence | 4 | 1 | 3 | 8 |
+| Tremor | 0 | 0 | 2 | 5 |
+| Disturbance in attention | 0 | 1 | 0 | 4 |
+| Paresthesia | 1 | 2 | 1 | 3 |
+| Sleep paralysis | 1 | 0 | 1 | 3 |
+| PSYCHIATRIC DISORDERS |  |  |  |  |
+| Disorientation | 1 | 1 | 2 | 3 |
+| Irritability | 1 | 0 | <1 | 3 |
+| Sleepwalking | 0 | 0 | 0 | 3 |
+| Anxiety | 1 | 1 | 1 | 2 |
+| RENAL AND URINARY DISORDERS |  |  |  |  |
+| Enuresis | 1 | 3 | 3 | 7 |
+| SKIN AND SUBCUTANEOUS TISSUE DISORDERS |  |  |  |  |
+| Hyperhidrosis | 0 | 1 | 1 | 3 |
+
+Dose-Response Information
+
+In clinical trials in narcolepsy, a dose-response relationship was observed for nausea, vomiting, paresthesia, disorientation, irritability, disturbance in attention, feeling drunk, sleepwalking, and enuresis.
+The incidence of all these reactions was notably higher at 9 g per night.
+
+In controlled trials in narcolepsy, discontinuations of treatment due to adverse reactions were greater at higher doses of sodium oxybate oral solution.
+
+Pediatric use information is approved for Jazz Pharmaceuticals Inc.’s XYREM (sodium oxybate) Oral Solution.
+However, due to Jazz Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of sodium oxybate oral solution.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
+
+arthralgia, decreased appetite, fall*, fluid retention, hangover, headache, hypersensitivity, hypertension, memory impairment, nocturia, panic attack, vision blurred, and weight decreased. *The sudden onset of sleep in patients taking sodium oxybate, including in a standing position or while rising from bed, has led to falls complicated by injuries, in some cases requiring hospitalization.

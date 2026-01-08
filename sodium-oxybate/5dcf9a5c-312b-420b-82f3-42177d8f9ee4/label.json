@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210523"
+  ],
+  "inn": "sodium-oxybate",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-891-18"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "sodium oxybate",
+      "name": "sodium oxybate"
+    }
+  ],
+  "setid": "5dcf9a5c-312b-420b-82f3-42177d8f9ee4",
+  "source": "dailymed"
+}
