@@ -1,11 +1,8 @@
 # HOW SUPPLIED
 
-Polymyxin B sulfate and trimethoprim ophthalmic solution, USP* containing 10,000 polymyxin B units and 1 mg trimethoprim per mL, is supplied in a plastic bottle with a controlled drop tip and a natural cap in the following size:
+Polymyxin B sulfate and trimethoprim ophthalmic solution, USP* is supplied in a plastic bottle with a controlled drop tip in the following size:
 
 NDC 24208-315-10 10 mL
-
-| DO NOT USE IF IMPRINTED NECKBAND IS NOT INTACT. |
-| --- |
 
 Storage:
 
@@ -20,8 +17,8 @@ Distributed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA
 
 Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA
 
-© 2023 Bausch & Lomb Incorporated or its affiliates
+© 2025 Bausch & Lomb Incorporated or its affiliates
 
-Revised: June 2023
+Revised: October 2025
 
-9117804 (Folded) 9117904 (Flat)
+9117805 (Folded) 9117905 (Flat)

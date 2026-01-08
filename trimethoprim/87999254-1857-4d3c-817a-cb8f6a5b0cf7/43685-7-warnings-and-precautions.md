@@ -1,7 +1,9 @@
 # WARNINGS
 
 NOT FOR INJECTION INTO THE EYE.
-If a sensitivity reaction to polymyxin B sulfate and trimethoprim ophthalmic solution occurs, discontinue use.
+
+If a hypersensitivity reaction to polymyxin B sulfate and trimethoprim ophthalmic solution occurs, discontinue use.
+
 Polymyxin B sulfate and trimethoprim ophthalmic solution is not indicated for the prophylaxis or treatment of ophthalmia neonatorum.
 
 # PRECAUTIONS
@@ -13,15 +15,22 @@ If superinfection occurs, appropriate therapy should be initiated.
 
 ## Information for Patients
 
+Avoid contaminating the applicator tip with material from the eye, fingers, or other source.
+This precaution is necessary if the sterility of the drops is to be maintained.
+
+If hypersensitivity reactions such as redness, irritation, swelling or pain persists or increases, discontinue use immediately and contact your physician.
+
+Patients should be advised not to wear contact lenses if they have signs and symptoms of ocular bacterial infections.
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenesis: Long-term studies in animals to evaluate carcinogenic potential have not been conducted with polymyxin B sulfate or trimethoprim.
+Carcinogenesis:Long-term studies in animals to evaluate carcinogenic potential have not been conducted with polymyxin B sulfate or trimethoprim.
 
-Mutagenesis: Trimethoprim was demonstrated to be non-mutagenic in the Ames assay.
+Mutagenesis:Trimethoprim was demonstrated to be non-mutagenic in the Ames assay.
 In studies at two laboratories no chromosomal damage was detected in cultured Chinese hamster ovary cells at concentrations approximately 500 times human plasma levels after oral administration; at concentrations approximately 1,000 times human plasma levels after oral administration in these same cells, a low level of chromosomal damage was induced at one of the laboratories.
 Studies to evaluate mutagenic potential have not been conducted with polymyxin B sulfate.
 
-Impairment of Fertility: Polymyxin B sulfate has been reported to impair the motility of equine sperm, but its effects on male or female fertility are unknown.
+Impairment of Fertility:Polymyxin B sulfate has been reported to impair the motility of equine sperm, but its effects on male or female fertility are unknown.
 
 No adverse effects on fertility or general reproductive performance were observed in rats given trimethoprim in oral dosages as high as 70 mg/kg/day for males and 14 mg/kg/day for females.
 

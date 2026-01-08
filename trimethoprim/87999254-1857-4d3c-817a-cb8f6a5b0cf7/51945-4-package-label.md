@@ -1,6 +1,6 @@
 # Principal Display Panel
 
-NDC 24208-315-10
+NDC24208-315-10
 
 Polymyxin B Sulfate and Trimethoprim Ophthalmic Solution, USP* (Sterile)
 
