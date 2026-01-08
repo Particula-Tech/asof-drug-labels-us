@@ -82,8 +82,8 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 ## 2.5 Safe Reduction or Discontinuation of OXAYDO
 
 Do not rapidly reduce or abruptly discontinue OXAYDO in patients who may be physically dependent on opioids.
-Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
-Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Rapid reduction or abrupt discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid reduction or abrupt discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
 When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking OXAYDO, there are a variety of factors that should be considered, including the total daily dose of opioid (including OXAYDO) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.

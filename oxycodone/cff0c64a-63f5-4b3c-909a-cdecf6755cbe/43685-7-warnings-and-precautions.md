@@ -8,13 +8,13 @@ As an opioid, OXAYDO exposes users to the risks of addiction, abuse, and misuse 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed OXAYDO.
 Addiction can occur at recommended dosages and if the drug is misused or abused.
 The risk of opioid-related overdose or overdose-related death is increased with higher opioid doses, and this risk persists over the course of therapy.
-In postmarketing studies, addiction, abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use [see Postmarketing Experience (6.2)].
+In postmarketing studies, addiction, abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use [see Adverse Reactions (6.2)].
 
 Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing OXAYDO, and reassess all patients receiving OXAYDO for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as OXAYDO but use in such patients necessitates intensive counseling about the risks and proper use of OXAYDO along with frequent reevaluation for signs of addiction, abuse, and misuse.
-Consider prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
+Consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
 
 Opioids are sought for nonmedical use and are subject to diversion from legitimate prescribed use.
 Consider these risks when prescribing or dispensing OXAYDO.
@@ -25,7 +25,7 @@ Contact the local state professional licensing board or state-controlled substan
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agents, depending on the patient’s clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of OXAYDO, the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -57,7 +57,7 @@ Emphasize the importance of calling 911 or getting emergency medical help, even 
 
 ## 5.3 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of OXAYDO with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids, other opioids, alcohol).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of OXAYDO with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], other opioids, alcohol).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -68,7 +68,7 @@ In patients already receiving an opioid analgesic, prescribe a lower initial dos
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Inform patients and caregivers of this potential interaction and educate them on the signs and symptoms of respiratory depression (including sedation).
 
-If concomitant use is warranted, consider prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.3), Overdosage (10)].
+If concomitant use is warranted, consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.3), Overdosage (10)].
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when OXAYDO is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
@@ -168,7 +168,7 @@ Regularly evaluate patients with biliary tract disease, including acute pancreat
 
 Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
 The risk of OIED may increase as the dose and/or duration of opioids increases.
-Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain), and if necessary, adjust opioid therapy as clinically appropriate.
+Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain), and if necessary, adjust opioid therapy as clinically appropriate [see Clinical Pharmacology (12.2)].
 
 ## 5.13 Increased Risk of Seizures in Patients with Seizure Disorders
 
@@ -177,7 +177,7 @@ Regularly evaluate patients with a history of seizure disorders for worsened sei
 
 ## 5.14 Withdrawal
 
-Do not abruptly discontinue OXAYDO in a patient physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue OXAYDO in a patient physically dependent on opioids.
 When discontinuing OXAYDO in a physically dependent patient, gradually taper the dosage.
 Rapid tapering of OXAYDO in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.5), Drug Abuse and Dependence (9.3)].
 

@@ -1,8 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling
-
-(Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Storage and Disposal:
 
@@ -29,7 +27,7 @@ Inform patients that accidental ingestion, especially by children, may result in
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if OXAYDO is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if OXAYDO is used with benzodiazepines or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids), and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
@@ -142,6 +140,4 @@ Zyla Life Sciences US LLC Lake Forest, IL
 © 2020 Zyla Life Sciences.
 All rights reserved.
 
-08/2025
-
-LBL #: 201.08
+12/2025 LBL #: 201.09
