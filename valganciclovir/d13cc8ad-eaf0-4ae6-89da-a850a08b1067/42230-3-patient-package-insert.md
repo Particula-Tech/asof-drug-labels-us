@@ -142,14 +142,10 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 All other trademark names are the property of their respective owners.
 
-Marketed by:
+Product of India
 
-Ajanta Pharma USA Inc.
+Manufactured by: Ajanta Pharma Limited, India Marketed by: Ajanta Pharma USA Inc. Bridgewater, NJ 08807.
 
-Bridgewater, NJ 08807.
-
-Made in India.
-
-Revised: 01/2022
+Revised: 11/2025
 
 For more information, call Ajanta Pharma USA Inc. at 855-664-7744.

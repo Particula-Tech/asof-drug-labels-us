@@ -43,12 +43,8 @@ Inform patients to take valganciclovir with food to maximize bioavailability.
 
 All other trademark names are the property of their respective owners.
 
-Marketed by:
+Product of India
 
-Ajanta Pharma USA Inc.
-
-Bridgewater, NJ 08807.
-
-Made in India.
+Manufactured by: Ajanta Pharma Limited, India Marketed by: Ajanta Pharma USA Inc. Bridgewater, NJ 08807.
 
 For more information, call Ajanta Pharma USA Inc. at 855-664-7744.
