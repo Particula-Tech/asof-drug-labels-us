@@ -18,6 +18,10 @@ Unit Dose (blister pack of 30) ………………………NDC 0078-0649-30
 
 Unit Dose (carton box including 3 blister packs of 10)…………NDC 0078-0649-13
 
+Very dark yellow to brownish orange, film-coated tablets, ovaloid, biconvex with bevelled edges, debossed with “400” on one side and score on the other side with “SL” on each side of the score.
+
+Unit Dose (carton box including 3 blister packs of 10)………....NDC 0078-1490-13
+
 Storage and Handling
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
