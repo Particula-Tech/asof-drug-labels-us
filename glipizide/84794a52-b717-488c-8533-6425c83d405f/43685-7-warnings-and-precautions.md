@@ -41,5 +41,4 @@ There have been no clinical studies establishing conclusive evidence of macrovas
 
 ## 5.5 Gastrointestinal Obstruction
 
-There have been reports of obstructive symptoms in patients with known strictures in association with the ingestion of another drug with this extended release formulation.
-Avoid use of glipizide extended-release tablets in patients with preexisting severe gastrointestinal narrowing (pathologic or iatrogenic).
+There have been reports of obstructivesymptomsinpatientswithknownstricturesinassociationwiththe ingestion of anotherdrugwiththisextendedreleaseformulation.Avoiduse of glipizide extended-release tablets inpatientswithpreexistingseveregastrointestinalnarrowing(pathologic or iatrogenic).

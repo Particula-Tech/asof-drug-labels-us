@@ -1,9 +1,9 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed in more detail below and elsewhere in the labeling:
+The followingserious adverse reactions are discussedinmoredetail below and elsewhereinthe labeling:
 
 - Hypoglycemia [see Warnings and Precautions (5.1)]
-- Hemolytic anemia [see Warnings and Precautions (5.2)]
+- Hemolyticanemia[see Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -27,8 +27,7 @@ Hypoglycemia was not reported for any placebo patients.
 Gastrointestinal Reactions In clinical trials, the incidence of gastrointestinal (GI) side effects (nausea, vomiting, constipation, dyspepsia), occurred in less than 3% of glipizide extended-release tablets-treated patients and were more common in glipizide extended-release tablets-treated patients than those receiving placebo.
 Dermatologic Reactions In clinical trials, allergic skin reactions, i.e., urticaria occurred in less than 1.5% of treated patients and were more common in glipizide extended-release tablets treated patients than those receiving placebo.
 These may be transient and may disappear despite continued use of glipizide XL; if skin reactions persist, the drug should be discontinued.
-Laboratory Tests Mild to moderate elevations of ALT, LDH, alkaline phosphatase, BUN and creatinine have been noted.
-The relationship of these abnormalities to glipizide is uncertain.
+Laboratory Tests Mildtomoderateelevations of ALT, LDH, alkalinephosphatase, BUN andcreatininehave been noted.Therelationship of theseabnormalitiestoglipizideisuncertain.
 
 ## 6.2 Postmarketing Experience
 
