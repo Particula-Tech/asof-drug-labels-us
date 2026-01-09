@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-Tizanidine hydrochloride capsules are for the treatment of spasticity in adults.
+Tizanidine capsules are indicated for the treatment of spasticity in adults.

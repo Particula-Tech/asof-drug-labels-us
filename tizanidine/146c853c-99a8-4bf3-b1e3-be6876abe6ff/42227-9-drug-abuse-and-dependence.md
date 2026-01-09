@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance
 
-Tizanidine hydrochloride capsules contains tizanidine, which is not a controlled substance.
+Tizanidine capsules contains tizanidine, which is not a controlled substance.
 
 ## 9.2 Abuse
 

@@ -2,7 +2,7 @@
 
 NDC 70710-1111-8 in bottles of 150 capsules
 
-Tizanidine Hydrochloride Capsules, 2 mg
+Tizanidine Capsules, 2 mg
 
 150 Capsules
 
@@ -12,7 +12,7 @@ Zydus
 
 NDC 70710-1112-8 in bottles of 150 capsules
 
-Tizanidine Hydrochloride Capsules, 4 mg
+Tizanidine Capsules, 4 mg
 
 150 Capsules
 
@@ -22,7 +22,7 @@ Zydus
 
 NDC 70710-1113-8 in bottles of 150 capsules
 
-Tizanidine Hydrochloride Capsules, 6 mg
+Tizanidine Capsules, 6 mg
 
 150 Capsules
 
