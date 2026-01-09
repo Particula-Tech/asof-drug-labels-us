@@ -9,4 +9,4 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Storage Advise patients to keep prucalopride in the original container to protect from moisture.
 Manufactured by: MSN laboratories Private Limited Telangana - 509 228, INDIA Distributed by: Novadoz Pharmaceuticals LLC Piscataway, NJ 08854 -3714 For more information, go to www.novadozpharma.com or call novadoz at 1-855-668-2369.
 The brands listed are trademarks or registered trademarks of their respective owners and are not affiliated with and do not endorse Novadoz Pharmaceuticals LLC.
-Revised: 08/2025
+Revised: 01/2025

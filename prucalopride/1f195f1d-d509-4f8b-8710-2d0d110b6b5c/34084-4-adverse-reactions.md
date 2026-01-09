@@ -22,7 +22,7 @@ Table 2: Common Adverse Reactions* in Double-Blind Placebo-Controlled Trials of 
 | Fatigue | 2 | 1 |
 
 *Reported in ≥2% of patients receiving prucalopride and a rate higher than patients receiving placebo. †Includes 93 patients who started on prucalopride 1 mg and increased to prucalopride 2 mg. ‡Includes abdominal pain, upper abdominal pain, lower abdominal pain, abdominal tenderness, abdominal discomfort, and epigastric discomfort.
-Less Common Adverse Reactions Less common adverse reactions occurring in <2% of patients receiving prucalopride 2 mg once daily include: Gastrointestinal disorders: Abnormal gastrointestinal sounds Metabolism and nutrition disorders: Decreased appetite Nervous system disorders: Migraine Renal and urinary disorders: Pollakiuria Diarrhea Of the patients who reported diarrhea, 70% (110 out of 157) reported it in the first week of treatment.
+Less Common Adverse Reactions Less common adverse reactions occurring in <2% of patients receiving prucalopride 2 mg once daily include: Gastrointestinal disorders: abnormal gastrointestinal sounds Metabolism and nutrition disorders: decreased appetite Nervous system disorders: migraine Renal and urinary disorders: pollakiuria Diarrhea Of the patients who reported diarrhea, 70% (110 out of 157) reported it in the first week of treatment.
 Diarrhea typically resolved within a few days in 73% (80 out of 110) of those patients.
 Severe diarrhea was reported in 1.8% of patients treated with prucalopride 2 mg compared to 1% of patients in the placebo group, and had a similar onset and duration as diarrhea overall.
 Headache Of the patients who reported headache, 66% (157 out of 237) treated with prucalopride 2 mg once daily reported onset in the first 2 days of treatment.
@@ -45,5 +45,5 @@ The 95% confidence interval for the pooled estimate of the SIRR did not demonstr
 
 The following adverse reactions have been identified during post-approval use of prucalopride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Hypersensitivity reactions: Dyspnea, rash, pruritus, urticaria, and facial edema [see Contraindications (4)].
+Hypersensitivity reactions: dyspnea, rash, pruritus, urticaria, and facial edema [see Contraindications (4)].
 Psychiatric disorders: Suicide, suicide attempts, suicidal ideation, self-injurious ideation, depression, anxiety, insomnia, nightmares, and visual hallucinations [see Warnings and Precautions (5.1)].
