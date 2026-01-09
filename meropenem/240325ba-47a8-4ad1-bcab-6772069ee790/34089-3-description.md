@@ -7,7 +7,7 @@ Its structural formula is:
 
 Meropenem is soluble in 5% monobasic potassium phosphate solution, sparingly soluble in water, very slightly soluble in hydrated ethanol, and practically insoluble in acetone or ether.
 
-Meropenem for Injection, is a white to pale yellow sterile powder for intravenous administration.
+Meropenem for Injection is a white to pale yellow sterile powder for intravenous administration.
 Each vial contains meropenem equivalent to 2 grams and 416 mg of sodium bicarbonate, anhydrous.
 When re-constituted as instructed Meropenem for Injection will deliver 2 grams of meropenem (on anhydrous basis) and approximately 180 mg of sodium as sodium carbonate (7.8 mEq) [see Dosage and Administration (2.2)].
 The solution varies from colorless to yellow depending on the concentration.

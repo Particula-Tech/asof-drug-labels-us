@@ -2,15 +2,16 @@
 
 The following are discussed in greater detail in other sections of labeling:
 
-1. •Hypersensitivity Reactions [see Warnings and Precautions(5.1)]
-2. •Severe Cutaneous Adverse Reactions [see Warnings and Precautions(5.2)]
-3. •Seizure Potential [see Warnings and Precautions(5.3)]
-4. •Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid [see Warnings and Precautions (5.4)]
-5. •Clostridioides difficile – Associated Diarrhea [see Warnings and Precautions(5.5)]
-6. •Development of Drug-Resistant Bacteria [see Warnings and Precautions(5.6)]
-7. •Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions(5.7)]
-8. •Thrombocytopenia [see Warnings and Precautions (5.8)]
-9. •Potential for Neuromotor Impairment [see Warnings and Precautions(5.9)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)]
+- •Rhabdomyolysis [see Warnings and Precautions (5.3)]
+- •Seizure Potential [see Warnings and Precautions (5.4)]
+- •Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid [see Warnings and Precautions (5.5)]
+- •Clostridioides difficile – Associated Diarrhea [see Warnings and Precautions (5.6)]
+- •Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.7)]
+- •Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions (5.8)]
+- •Thrombocytopenia [see Warnings and Precautions (5.9)]
+- •Potential for Neuromotor Impairment [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -21,10 +22,10 @@ Adverse Reactions in Pediatric Patients with Bacterial Meningitis
 Meropenem for injection was studied in 321 pediatric patients (3 months to less than 17 years of age) with bacterial meningitis at a dosage of 40 mg/kg every 8 hours.
 The most common adverse reactions and their rates of occurrence were as follows:
 
-1. Diarrhea 4.7%
-2. Rash (mostly diaper area moniliasis) 3.1%
-3. Oral Moniliasis 1.9%
-4. Glossitis 1%
+- Diarrhea 4.7%
+- Rash (mostly diaper area moniliasis) 3.1%
+- Oral Moniliasis 1.9%
+- Glossitis 1%
 
 In these studies, the rates of seizure activity during therapy were comparable between patients with no CNS abnormalities who received meropenem for injection and those who received comparator agents (either cefotaxime or ceftriaxone).
 In the meropenem for injection-treated group, 12/15 patients with seizures had late onset seizures (seizures that occurred on day 3 or later) versus 7/20 patients in the comparator arm.
@@ -83,7 +84,7 @@ Urinalysis: presence of red blood cells
 
 ## 6.2 Post-marketing Experience
 
-The following adverse reactions have been identified during post-approval use of meropenem for injection.
+The following adverse reactions have been identified during post-approval use of meropenem, including meropenem for injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Worldwide post-marketing adverse reactions not otherwise listed under the Clinical Trials Experience subsection [see Adverse Reactions (6.1)] and reported as possibly, probably, or definitely drug related are listed within each body system in order of decreasing severity.
@@ -93,3 +94,5 @@ Blood and Lymphatic System Disorders: agranulocytosis, neutropenia, and leukopen
 Immune System Disorders: angioedema
 
 Skin and Subcutaneous Disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), erythema multiforme and acute generalized exanthematous pustulosis.
+
+Musculoskeletal Disorders: rhabdomyolysis
