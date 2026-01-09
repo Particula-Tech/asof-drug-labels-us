@@ -2,14 +2,14 @@
 
 The following serious adverse reactions were reported in postmarketing experience and are discussed in greater detail in other sections of the labeling:
 
-- Neuropsychiatric Adverse Events including Suicidality [see Warnings and Precautions (5.1)]
-- Seizures [see Warnings and Precautions (5.2)]
-- Interaction with Alcohol [see Warnings and Precautions (5.3)]
-- Accidental Injury [see Warnings and Precautions (5.4)]
-- Cardiovascular Events [see Warnings and Precautions (5.5)]
-- Somnambulism [see Warnings and Precautions (5.6)]
-- Angioedema and Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
-- Serious Skin Reactions [see Warnings and Precautions (5.8)]
+- •Neuropsychiatric Adverse Events including Suicidality [see Warnings and Precautions (5.1)]
+- •Seizures [see Warnings and Precautions (5.2)]
+- •Interaction with Alcohol [see Warnings and Precautions (5.3)]
+- •Accidental Injury [see Warnings and Precautions (5.4)]
+- •Cardiovascular Events [see Warnings and Precautions (5.5)]
+- •Somnambulism [see Warnings and Precautions (5.6)]
+- •Angioedema and Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+- •Serious Skin Reactions [see Warnings and Precautions (5.8)]
 
 In the placebo-controlled premarketing studies, the most common adverse events associated with varenicline tablets (>5% and twice the rate seen in placebo-treated patients) were nausea, abnormal (vivid, unusual, or strange) dreams, constipation, flatulence, and vomiting.
 

@@ -92,16 +92,12 @@ Advise breastfeeding women to monitor the infant for seizures and vomiting [see 
 This product's label may have been updated.
 For full prescribing information, please visit www.glenmarkpharma-us.com
 
-Medication Guide available at:
-
-www.glenmarkpharma-us.com/medguides
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
-
-Made In India
+Elmwood Park, NJ 07407
 
 Code No.: HP/Drugs/N-MNB/17/194
 
-Revised: August 2023
+Revised: August 2025

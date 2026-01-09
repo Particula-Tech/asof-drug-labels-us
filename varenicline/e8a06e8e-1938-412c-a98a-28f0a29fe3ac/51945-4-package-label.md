@@ -50,9 +50,7 @@ Varenicline Tablets
 
 Dispense the Medication Guide provided separately to each patient.
 
-56 Tablets
-
-Rx only
+Rx only 56 Tablets
 
 PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
 
@@ -65,39 +63,5 @@ Varenicline Tablets
 Dispense the Medication Guide provided separately to each patient.
 
 56 Tablets
-
-Rx only
-
-PRINCIPAL DISPLAY PANEL - 1 mg x 56 Tablet Continuing Pack
-
-NDC 68462-894-04
-
-Varenicline Tablets
-
-Dispense the Medication Guide provided separately to each patient.
-
-CONTINUING PACK
-
-Contains:
-
-4 Continuing Weeks (1 mg†x 56 tablets)
-
-Rx only
-
-PRINCIPAL DISPLAY PANEL - 1 mg x 56 Tablet Continuing Month Box
-
-NDC 68462-894-04
-
-Varenicline Tablets
-
-Dispense the Medication Guide provided separately to each patient.
-
-CONTINUING MONTH BOX
-
-(Your next 4 weeks)
-
-Contains:
-
-4 Continuing Weeks (1 mg† x 56 tablets)
 
 Rx only
