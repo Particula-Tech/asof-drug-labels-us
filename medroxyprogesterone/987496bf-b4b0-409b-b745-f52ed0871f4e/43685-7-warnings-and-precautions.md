@@ -8,8 +8,7 @@ It is unknown if use of MPA Injectable Suspension, USP by younger women will red
 
 A study to assess the reversibility of loss of BMD in adolescents was conducted with MPA Injectable Suspension, USP.
 After discontinuing MPA Injectable Suspension, USP in these adolescents, mean BMD loss at the total hip and femoral neck did not fully recover by 5 years (60 months) post-treatment in the sub-group of adolescents who were treated for more than 2 years [see Clinical Studies (14.3)].
-Similarly, in adults, there was only partial recovery of mean BMD at the total hip, femoral neck and lumbar spine towards baseline by 2 years post-treatment.
-[see Clinical Studies (14.2)].
+Similarly, in adults, there was only partial recovery of mean BMD at the total hip, femoral neck, and lumbar spine towards baseline by 2 years post-treatment [see Clinical Studies (14.2)].
 
 The use of MPA Injectable Suspension, USP is not recommended as a long-term (i.e., longer than 2 years) birth control method unless other options are considered inadequate.
 BMD should be evaluated when a woman needs to continue to use MPA Injectable Suspension, USP long-term.
@@ -56,35 +55,41 @@ Other Cancers
 
 Long-term case-controlled surveillance of users of MPA Injectable Suspension, USP found no overall increased risk of ovarian or liver cancer.
 
-## 5.4 Ectopic Pregnancy
+## 5.4 Meningioma
+
+Cases of meningiomas have been reported following repeated administration of medroxyprogesterone acetate, primarily with long term use.
+Monitor patients on MPA Injectable Suspension, USP for signs and symptoms of meningioma.
+Discontinue MPA Injectable Suspension, USP if a meningioma is diagnosed.
+
+## 5.5 Ectopic Pregnancy
 
 Be alert to the possibility of an ectopic pregnancy among women using MPA Injectable Suspension, USP who become pregnant or complain of severe abdominal pain.
 
-## 5.5 Anaphylaxis and Anaphylactoid Reaction
+## 5.6 Anaphylaxis and Anaphylactoid Reaction
 
 Anaphylaxis and anaphylactoid reaction have been reported with the use of MPA Injectable Suspension, USP.
 Institute emergency medical treatment if an anaphylactic reaction occurs.
 
-## 5.6 Injection Site Reactions
+## 5.7 Injection Site Reactions
 
 Injection site reactions have been reported with use of MPA Injectable Suspension, USP [see Adverse Reactions (6.2)].
 Persistent injection site reactions may occur after administration of MPA Injectable Suspension, USP due to inadvertent subcutaneous administration or release of the drug into the subcutaneous space while removing the needle [see Dosage and Administration (2.1)].
 
-## 5.7 Liver Function
+## 5.8 Liver Function
 
 Discontinue MPA Injectable Suspension, USP use if jaundice or acute or chronic disturbances of liver function develop.
 Do not resume use until markers of liver function return to normal and MPA Injectable Suspension, USP causation has been excluded.
 
-## 5.8 Convulsions
+## 5.9 Convulsions
 
 There have been a few reported cases of convulsions in patients who were treated with MPA Injectable Suspension, USP.
 Association with drug use or pre-existing conditions is not clear.
 
-## 5.9 Depression
+## 5.10 Depression
 
 Monitor patients who have a history of depression and do not re-administer MPA Injectable Suspension, USP if depression recurs.
 
-## 5.10 Bleeding Irregularities
+## 5.11 Bleeding Irregularities
 
 Most women using MPA Injectable Suspension, USP experience disruption of menstrual bleeding patterns.
 Altered menstrual bleeding patterns include amenorrhea, irregular or unpredictable bleeding or spotting, prolonged spotting or bleeding, and heavy bleeding.
@@ -93,7 +98,7 @@ Rule out the possibility of organic pathology if abnormal bleeding persists or i
 As women continue using MPA Injectable Suspension, USP, fewer experience irregular bleeding and more experience amenorrhea.
 In clinical studies of MPA Injectable Suspension, USP, by month 12 amenorrhea was reported by 55% of women, and by month 24, amenorrhea was reported by 68% of women using MPA Injectable Suspension, USP.
 
-## 5.11 Weight Gain
+## 5.12 Weight Gain
 
 Women tend to gain weight while on therapy with MPA Injectable Suspension, USP.
 From an initial average body weight of 136 lb, women who completed 1 year of therapy with MPA Injectable Suspension, USP gained an average of 5.4 lb.
@@ -102,16 +107,16 @@ Women who completed 4 years gained an average of 13.8 lb.
 Women who completed 6 years gained an average of 16.5 lb.
 Two percent of women withdrew from a large-scale clinical trial because of excessive weight gain.
 
-## 5.12 Carbohydrate Metabolism
+## 5.13 Carbohydrate Metabolism
 
 A decrease in glucose tolerance has been observed in some patients on MPA Injectable Suspension, USP treatment.
 Monitor diabetic patients carefully while receiving MPA Injectable Suspension, USP.
 
-## 5.13 Fluid Retention
+## 5.14 Fluid Retention
 
 Because progestational drugs including MPA Injectable Suspension, USP may cause some degree of fluid retention, monitor patients with conditions that might be influenced by this condition, such as epilepsy, migraine, asthma, and cardiac or renal dysfunction.
 
-## 5.14 Return of Fertility
+## 5.15 Return of Fertility
 
 Return to ovulation and fertility is likely to be delayed after stopping MPA Injectable Suspension, USP.
 In a large US study of women who discontinued use of MPA Injectable Suspension, USP to become pregnant, data are available for 61% of them.
@@ -120,14 +125,14 @@ Based on Life-Table analysis of these data, it is expected that 68% of women who
 The median time to conception for those who do conceive is 10 months following the last injection with a range of 4 to 31 months, and is unrelated to the duration of use.
 No data are available for 39% of the patients who discontinued MPA Injectable Suspension, USP to become pregnant and who were lost to follow-up or changed their mind.
 
-## 5.15 Sexually Transmitted Infections
+## 5.16 Sexually Transmitted Infections
 
-Patients should be counseled that MPA Injectable Suspension, USP does not protect against HIV infection (AIDS) and other sexually transmitted infection.
+Patients should be counseled that MPA Injectable Suspension, USP does not protect against HIV infection (AIDS) and other sexually transmitted infections.
 
-## 5.16 Monitoring
+## 5.17 Monitoring
 
 A woman who is taking hormonal contraceptive should have a yearly visit with her healthcare professional for a blood pressure check and for other indicated healthcare.
 
-## 5.17 Interference with Laboratory Tests
+## 5.18 Interference with Laboratory Tests
 
 The use of MPA Injectable Suspension, USP may change the results of some laboratory tests, such as coagulation factors, lipids, glucose tolerance, and binding proteins [see Drug Interactions (7.2)].

@@ -5,9 +5,9 @@ The following important adverse reactions observed with the use of MPA Injectabl
 - •Loss of Bone Mineral Density [see Warnings and Precautions (5.1)]
 - •Thromboembolic disease [see Warnings and Precautions (5.2)]
 - •Breast Cancer [see Warnings and Precautions (5.3)]
-- •Anaphylaxis and Anaphylactoid Reactions [see Warnings and Precautions (5.5)]
-- •Bleeding Irregularities [see Warnings and Precautions (5.10)]
-- •Weight Gain [see Warnings and Precautions (5.11)]
+- •Anaphylaxis and Anaphylactoid Reactions [see Warnings and Precautions (5.6)]
+- •Bleeding Irregularities [see Warnings and Precautions (5.11)]
+- •Weight Gain [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -44,7 +44,7 @@ Adverse Reactions that Were Reported by between 1 and 5% of Subjects
 
 Adverse reactions leading to study discontinuation in ≥2% of subjects: bleeding (8.2%), amenorrhea (2.1%), weight gain (2.0%).
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-Marketing Experience
 
 The following adverse reactions have been identified during post approval use of MPA Injectable Suspension, USP.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

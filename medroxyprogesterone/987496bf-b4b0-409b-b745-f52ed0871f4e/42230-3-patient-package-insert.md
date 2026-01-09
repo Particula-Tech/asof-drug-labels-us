@@ -71,6 +71,7 @@ Before taking MPA Injectable Suspension, USP, tell your healthcare professional 
 - •breast cancer now or in the past, or think you have breast cancer
 - •a family history of breast cancer
 - •an abnormal mammogram (breast X-ray), lumps in your breasts, or bleeding from your nipples
+- •have or have ever had a type of usually benign brain tumor called a meningioma
 - •kidney problems
 - •high blood pressure
 - •had a stroke
@@ -112,15 +113,15 @@ What are the possible side effects of MPA Injectable Suspension, USP?
 
 MPA Injectable Suspension, USP can cause serious side effects, including:
 
-- •Effect on the bones: See ”What is the most important information I should know about MPA Injectable Suspension, USP?”.
+- •Effect on the bones: See “What is the most important information I should know about MPA Injectable Suspension, USP?”.
 - Teenage years are the most important years to gain bone strength.
   The decrease in calcium in your bones is of most concern if you are a teenager or have the following problems:
-- •bone disease
-- •an eating disorder (anorexia nervosa)
-- •a strong family history of osteoporosis
-- •you take a drug that can lower the amount of calcium in your bones (drugs for epilepsy or steroid drugs)
-- •you drink a lot of alcohol (more than 2 drinks a day)
-- •you smoke
+  1. •bone disease
+  2. •an eating disorder (anorexia nervosa)
+  3. •a strong family history of osteoporosis
+  4. •you take a drug that can lower the amount of calcium in your bones (drugs for epilepsy or steroid drugs)
+  5. •you drink a lot of alcohol (more than 2 drinks a day)
+  6. •you smoke
 - If you need a birth control method for more than 2 years, your healthcare professional may switch you to another birth control method instead of using MPA Injectable Suspension, USP.
   If you continue using MPA Injectable Suspension, USP, your healthcare professional may ask you to have a bone test, especially if you have other risks for weak bones.
 - When MPA Injectable Suspension, USP is stopped, your bones may start to regain calcium.
@@ -137,6 +138,7 @@ MPA Injectable Suspension, USP can cause serious side effects, including:
   Severe allergic reactions have been reported in some women using MPA Injectable Suspension, USP.
 - •loss of vision or other eye problems
 - •migraine headaches
+- •possible increased risk for growth of a meningioma (a usually benign brain tumor), primarily when the product is used for a long time.
 - •depression
 - •convulsions or seizures
 - •liver problems
@@ -203,7 +205,7 @@ How will MPA Injectable Suspension, USP change my periods?
 - •Missed period.
   During the time you are using MPA Injectable Suspension, USP for birth controls, you may skip a period, or your periods may stop completely.
   If you have been receiving your shot of MPA Injectable Suspension, USP regularly every 3 months, then you are probably not pregnant.
-  However, if you think that you may be pregnant, see your healthcare professional
+  However, if you think that you may be pregnant, see your healthcare professional.
 
 Unusually heavy or continuous bleeding is not a usual effect of MPA Injectable Suspension, USP and if this happens you should see your healthcare professional right away.
 
@@ -234,6 +236,6 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Distributed by: Prasco Laboratories Mason, OH 45040 USA
 
-LAB-1463-4.0
+LAB-1463-5.0
 
-Revised: August 2024
+Revised: December 2025
