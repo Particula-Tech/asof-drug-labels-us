@@ -3,7 +3,7 @@
 Minocycline hydrochloride, a semi-synthetic derivative of tetracycline, is [4S‑(4α,4aα,5aα,12aα)] 4,7-bis(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,10,12,12a‑tetrahydroxy-1,11-dioxo-2-naphthacenecarboxamide monohydrochloride.
 The structural formula is represented below:
 
-C23H27N3O7•HClM.
+C 23H 27N 3O 7•HClM.
 W. 493.94
 
 Each gram of ZILXI contains micronized 15 mg minocycline equivalent to 16 mg minocycline hydrochloride in a yellow suspension foam.

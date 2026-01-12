@@ -21,9 +21,9 @@ Tissue Hyperpigmentation
 
 Inform patients that ZILXI may cause discoloration of skin, scars, teeth or gums based on observations with oral minocycline.
 
-Clostridioides difficile Associated Diarrhea
+Clostridioides difficileAssociated Diarrhea
 
-Advise patients that Clostridioides difficile associated diarrhea can occur with oral minocycline therapy.
+Advise patients that Clostridioides difficileassociated diarrhea can occur with oral minocycline therapy.
 Advise patients to seek medical attention if they develop watery or bloody stools while using ZILXI.
 
 Hepatotoxicity

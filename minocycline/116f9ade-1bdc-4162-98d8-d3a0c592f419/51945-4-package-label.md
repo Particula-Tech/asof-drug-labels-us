@@ -4,7 +4,7 @@ ZILXI Trade Labels for Country-of-Origin Portugal
 
 NDC 72356-103-03
 
-zilxi®
+zilxi ®
 
 (minocycline) topical foam, 1.5%
 
@@ -16,7 +16,7 @@ Rx only
 
 NDC 72356-103-03
 
-zilxi®
+zilxi ®
 
 (minocycline) topical foam, 1.5%
 
@@ -32,7 +32,7 @@ NDC 72356-103-90
 
 Physician Sample Not for Sale
 
-zilxi®
+zilxi ®
 
 (minocycline) topical foam, 1.5%
 
@@ -46,7 +46,7 @@ NDC 72356-103-90
 
 Physician Sample Not for Sale
 
-zilxi®
+zilxi ®
 
 (minocycline) topical foam, 1.5%
 
@@ -60,7 +60,7 @@ ZILXI Trade Labels for Country-of-Origin Switzerland
 
 NDC 72356-103-03
 
-zilxi®
+zilxi ®
 
 (minocycline) topical foam, 1.5%
 
@@ -72,7 +72,7 @@ Rx only
 
 NDC 72356-103-03
 
-zilxi®
+zilxi ®
 
 (minocycline) topical foam, 1.5%
 
@@ -88,7 +88,7 @@ NDC 72356-103-90
 
 Physician Sample Not for Sale
 
-zilxi®
+zilxi ®
 
 (minocycline) topical foam, 1.5%
 
@@ -102,7 +102,7 @@ NDC 72356-103-90
 
 Physician Sample Not for Sale
 
-zilxi®
+zilxi ®
 
 (minocycline) topical foam, 1.5%
 

@@ -13,7 +13,7 @@ The mean age was 50.0 years and ages ranged from 18 to 86 years.
 The most common adverse reaction reported by ≥1% of subjects treated with ZILXI and more frequently than in subjects treated with vehicle was diarrhea (1% vs. 0%), respectively.
 
 During the two Phase 3 trials, local tolerability evaluations were conducted at each study visit by assessment of erythema, telangiectasia, burning/stinging, flushing/blushing, dryness, itching, peeling and hyperpigmentation.
-Table 1 presents local tolerance assessments by incidence rate (%) and severity grade.
+Table 1presents local tolerance assessments by incidence rate (%) and severity grade.
 
 Subjects treated with ZILXI had improved local tolerability signs and symptoms at Week 12 when compared with corresponding baseline values.
 These occurred at a similar frequency and severity as subjects treated with the vehicle component of ZILXI.

@@ -19,7 +19,7 @@ Table 2 Efficacy of ZILXI at Week 12
 |  | Trial 1 |  | Trial 2 |  |
 | --- | --- | --- | --- | --- |
 |  | ZILXI(N=495) | Vehicle(N=256) | ZILXI(N=514) | Vehicle(N=257) |
-| IGA Success (1) | 52.1% | 43.0% | 49.1% | 39.0% |
+| IGA Success(1) | 52.1% | 43.0% | 49.1% | 39.0% |
 | Treatment Difference (95% CI) (2) | 9.0%(1.3%, 16.8%) |  | 10.2%(3.1%, 17.4%) |  |
 | Inflammatory Lesion Count |  |  |  |  |
 | Mean Absolute Change from Baseline (3) | -17.6 | -15.4 | -18.4 | -14.5 |
