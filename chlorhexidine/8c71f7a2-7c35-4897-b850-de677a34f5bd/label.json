@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA075006"
+  ],
+  "inn": "chlorhexidine",
+  "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+  "package_ndcs": [
+    "68999-650-24",
+    "68999-650-51"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "chlorhexidine gluconate 0.12% oral rinse",
+      "name": "Chlorhexidine Gluconate 0.12% Oral Rinse"
+    }
+  ],
+  "setid": "8c71f7a2-7c35-4897-b850-de677a34f5bd",
+  "source": "dailymed"
+}
