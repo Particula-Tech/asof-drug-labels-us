@@ -6,13 +6,11 @@ This Medication Guide does not take the place of talking to your doctor about yo
 
 What is the most important information I should know about ramelteon tablets?
 
-Ramelteon tablets may cause severe allergic reactions.
-Symptoms include swelling of the tongue or throat, trouble breathing, and nausea and vomiting.
+Ramelteon tablets may cause severe allergic reactions.Symptoms include swelling of the tongue or throat, trouble breathing, and nausea and vomiting.
 Get emergency medical help if you get these symptoms after taking ramelteon tablets.
 
 After taking ramelteon tablets, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing.
-The next morning, you may not remember that you did anything during the night.
-You have a higher chance for doing these activities if you drink alcohol or take other medicines that make you sleepy with ramelteon tablets.
+The next morning, you may not remember that you did anything during the night.You have a higher chance for doing these activities if you drink alcohol or take other medicines that make you sleepy with ramelteon tablets.
 Activities may include:
 
 - driving a car ("sleep-driving")
@@ -25,10 +23,10 @@ Call your doctor right away if you find out that you have done any of the above 
 
 Important:
 
-- 1.Take ramelteon tablets exactly as prescribed
+- Take ramelteon tablets exactly as prescribed
   - Do not take more ramelteon tablets than prescribed.
   - Take ramelteon tablets within 30 minutes of going to bed, not sooner.
-- 2.Do not take ramelteon tablets if you:
+- Do not take ramelteon tablets if you:
   - drink alcohol
   - take other medicines that can make you sleepy.
     Talk to your doctor about all of your medicines.
@@ -77,27 +75,21 @@ How should I take ramelteon tablets?
   Do not take more ramelteon tablets than prescribed for you.
 - Do not break the tablets.
   They should be swallowed whole.
-- Take ramelteon tablets within 30 minutes of going to bed.
-  After taking ramelteon tablets only do activities to get ready for bed.
+- Take ramelteon tablets within 30 minutes of going to bed.After taking ramelteon tablets only do activities to get ready for bed.
 - Do not take ramelteon tablets with or right after a meal.
 - Do not take ramelteon tablets unless you are able to get a full night's sleep before you must be active again.
-- Call your doctor if your insomnia worsens or is not better within 7 to 10 days.
-  This may mean that there is another condition causing your sleep problems.
+- Call your doctor if your insomnia worsens or is not better within 7 to 10 days.This may mean that there is another condition causing your sleep problems.
 - If you take too much ramelteon tablets or overdose, call your doctor or poison control center right away, or get emergency treatment.
 
 What are the possible side effects of ramelteon tablets?
 
 Possible serious side effects of ramelteon tablets include:
 
-- severe allergic reactions.
-  Symptoms include swelling of the tongue or throat, trouble breathing, and nausea and vomiting.
+- severe allergic reactions.Symptoms include swelling of the tongue or throat, trouble breathing, and nausea and vomiting.
   Get emergency medical help if you get these symptoms after taking ramelteon tablets.
-- getting out of bed while not being fully awake and do an activity that you do not know you are doing.
-  (See "What is the most important information I should know about ramelteon tablets?")
-- abnormal thoughts and behavior.
-  Symptoms include worsening of depression, suicidal thoughts or actions, nightmares, and hallucinations.
-- hormone effects.
-  Ramelteon tablets can decrease testosterone levels and increase prolactin levels in the blood.
+- getting out of bed while not being fully awake and do an activity that you do not know you are doing.(See " What is the most important information I should know about ramelteon tablets?")
+- abnormal thoughts and behavior.Symptoms include worsening of depression, suicidal thoughts or actions, nightmares, and hallucinations.
+- hormone effects.Ramelteon tablets can decrease testosterone levels and increase prolactin levels in the blood.
   Symptoms of low testosterone or high prolactin levels are:
   - decreased interest in sex
   - problems getting pregnant
@@ -139,9 +131,9 @@ For more information about ramelteon tablets, please call Upsher-Smith Laborator
 
 What are the ingredients in ramelteon tablets?
 
-Active Ingredient: ramelteon
+Active Ingredient:ramelteon
 
-Inactive Ingredients: hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, povidone, pregelatinized starch, titanium dioxide and yellow iron oxide.
+Inactive Ingredients:hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, povidone, pregelatinized starch, titanium dioxide and yellow iron oxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

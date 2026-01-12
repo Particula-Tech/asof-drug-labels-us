@@ -1,16 +1,16 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+12.1 Mechanism of Action
 
-Ramelteon is a melatonin receptor agonist with both high affinity for melatonin MT1 and MT2 receptors and relative selectivity over the MT3 receptor.
+Ramelteon is a melatonin receptor agonist with both high affinity for melatonin MT 1and MT 2receptors and relative selectivity over the MT 3receptor.
 
-The activity of ramelteon at the MT1 and MT2 receptors is believed to contribute to its sleep- promoting properties, as these receptors, acted upon by endogenous melatonin, are thought to be involved in the maintenance of the circadian rhythm underlying the normal sleep-wake cycle.
+The activity of ramelteon at the MT 1and MT 2receptors is believed to contribute to its sleep- promoting properties, as these receptors, acted upon by endogenous melatonin, are thought to be involved in the maintenance of the circadian rhythm underlying the normal sleep-wake cycle.
 
 Ramelteon has no appreciable affinity for the GABA receptor complex or for receptors that bind neuropeptides, cytokines, serotonin, dopamine, noradrenaline, acetylcholine, and opiates.
 
 Ramelteon also does not interfere with the activity of a number of selected enzymes in a standard panel.
 
-The major metabolite of ramelteon, M-II, is pharmacologically active and has approximately one tenth and one fifth the binding affinity of the parent molecule for the human MT1 and MT2 receptors, respectively.
+The major metabolite of ramelteon, M-II, is pharmacologically active and has approximately one tenth and one fifth the binding affinity of the parent molecule for the human MT 1and MT 2receptors, respectively.
 However, M-II circulates at higher concentrations than the parent producing 20- to 100-fold greater mean systemic exposure when compared to ramelteon.
 Similar to ramelteon, M-II does not interfere with the activity of a number of endogenous enzymes.
 
@@ -20,7 +20,7 @@ All other known metabolites of ramelteon are inactive.
 
 The pharmacokinetic profile of ramelteon has been evaluated in healthy subjects as well as in subjects with hepatic or renal impairment.
 When administered orally to humans in doses ranging from 4 to 64 mg, ramelteon undergoes rapid, high first-pass metabolism, and exhibits linear pharmacokinetics.
-Maximal serum concentration (Cmax) and area under the concentration-time curve (AUC) data show substantial intersubject variability, consistent with the high first-pass effect; the coefficient of variation for these values is approximately 100%.
+Maximal serum concentration (C max) and area under the concentration-time curve (AUC) data show substantial intersubject variability, consistent with the high first-pass effect; the coefficient of variation for these values is approximately 100%.
 Several metabolites have been identified in human serum and urine.
 
 Absorption
@@ -30,7 +30,7 @@ Although the total absorption of ramelteon is at least 84%, the absolute oral bi
 
 Distribution
 
-In vitro protein binding of ramelteon is approximately 82% in human serum, independent of concentration.
+In vitroprotein binding of ramelteon is approximately 82% in human serum, independent of concentration.
 Binding to albumin accounts for most of that binding, since 70% of the drug is bound in human serum albumin.
 Ramelteon is not distributed selectively to red blood cells.
 
@@ -58,8 +58,8 @@ Serum concentrations of the parent drug and its metabolites in humans are at or 
 
 Effect of Food
 
-When administered with a high-fat meal, the AUC0-inf for a single 16 mg dose of ramelteon was 31% higher and the Cmax was 22% lower than when given in a fasted state.
-Median Tmax was delayed by approximately 45 minutes when ramelteon was administered with food.
+When administered with a high-fat meal, the AUC 0-inffor a single 16 mg dose of ramelteon was 31% higher and the C maxwas 22% lower than when given in a fasted state.
+Median T maxwas delayed by approximately 45 minutes when ramelteon was administered with food.
 Effects of food on the AUC values for M-II were similar.
 It is therefore recommended that ramelteon not be taken with or immediately after a high-fat meal [see Dosage and Administration (2.1)].
 
@@ -67,10 +67,10 @@ It is therefore recommended that ramelteon not be taken with or immediately afte
 
 Age
 
-In a group of 24 elderly subjects aged 63 to 79 years administered a single ramelteon 16 mg dose, the mean Cmax and AUC0-inf values were 11.6 ng/mL (SD, 13.8) and 18.7 ng∙hr/mL (SD, 19.4), respectively.
+In a group of 24 elderly subjects aged 63 to 79 years administered a single ramelteon 16 mg dose, the mean C maxand AUC 0-infvalues were 11.6 ng/mL (SD, 13.8) and 18.7 ng∙hr/mL (SD, 19.4), respectively.
 The elimination half-life was 2.6 hours (SD, 1.1).
-Compared with younger adults, the total exposure (AUC0-inf) and Cmax of ramelteon were 97% and 86% higher, respectively, in elderly subjects.
-The AUC0-inf and Cmax of M-II were increased by 30% and 13%, respectively, in elderly subjects.
+Compared with younger adults, the total exposure (AUC 0-inf) and C maxof ramelteon were 97% and 86% higher, respectively, in elderly subjects.
+The AUC 0-infand C maxof M-II were increased by 30% and 13%, respectively, in elderly subjects.
 
 Gender
 
@@ -84,52 +84,52 @@ The pharmacokinetics of ramelteon have not been evaluated in subjects with sever
 
 Renal Impairment
 
-The pharmacokinetic characteristics of ramelteon were studied after administering a 16 mg dose to subjects with mild, moderate, or severe renal impairment based on predose creatinine clearance (53 to 95, 35 to 49, or 15 to 30 mL/min/1.73 m2, respectively), and in subjects who required chronic hemodialysis.
+The pharmacokinetic characteristics of ramelteon were studied after administering a 16 mg dose to subjects with mild, moderate, or severe renal impairment based on predose creatinine clearance (53 to 95, 35 to 49, or 15 to 30 mL/min/1.73 m 2, respectively), and in subjects who required chronic hemodialysis.
 Wide intersubject variability was seen in ramelteon exposure parameters.
-However, no effects on Cmax or AUC0-t of parent drug or M-II were seen in any of the treatment groups; the incidence of adverse events was similar across groups.
+However, no effects on C maxor AUC 0-tof parent drug or M-II were seen in any of the treatment groups; the incidence of adverse events was similar across groups.
 These results are consistent with the negligible renal clearance of ramelteon, which is principally eliminated via hepatic metabolism.
-No adjustment of ramelteon dosage is required in patients with renal impairment, including patients with severe renal impairment (creatinine clearance of ≤30 mL/min/1.73 m2) and patients who require chronic hemodialysis.
+No adjustment of ramelteon dosage is required in patients with renal impairment, including patients with severe renal impairment (creatinine clearance of ≤30 mL/min/1.73 m 2) and patients who require chronic hemodialysis.
 
 ## 12.5 Drug-Drug Interactions
 
-Ramelteon has a highly variable intersubject pharmacokinetic profile (approximately 100% coefficient of variation in Cmax and AUC).
+Ramelteon has a highly variable intersubject pharmacokinetic profile (approximately 100% coefficient of variation in C maxand AUC).
 As noted above, CYP1A2 is the major isozyme involved in the metabolism of ramelteon; the CYP2C subfamily and CYP3A4 isozymes are also involved to a minor degree.
 
 Effects of Other Drugs on Ramelteon Metabolism
 
 Fluvoxamine (strong CYP1A2 inhibitor)
 
-When fluvoxamine 100 mg twice daily was administered for three days prior to single-dose coadministration of ramelteon 16 mg and fluvoxamine, the AUC0-inf for ramelteon increased approximately 190-fold, and the Cmax increased approximately 70-fold, compared to ramelteon administered alone.
+When fluvoxamine 100 mg twice daily was administered for three days prior to single-dose coadministration of ramelteon 16 mg and fluvoxamine, the AUC 0-inffor ramelteon increased approximately 190-fold, and the C maxincreased approximately 70-fold, compared to ramelteon administered alone.
 Ramelteon should not be used in combination with fluvoxamine.
 Other less strong CYP1A2 inhibitors have not been adequately studied.
 Ramelteon should be administered with caution to patients taking less strong CYP1A2 inhibitors [see Contraindications (4), Drug Interactions (7)].
 
 Rifampin (strong CYP enzyme inducer)
 
-Administration of rifampin 600 mg once daily for 11 days resulted in a mean decrease of approximately 80% (40% to 90%) in total exposure to ramelteon and metabolite M-II, (both AUC0-inf and Cmax) after a single 32 mg dose of ramelteon.
+Administration of rifampin 600 mg once daily for 11 days resulted in a mean decrease of approximately 80% (40% to 90%) in total exposure to ramelteon and metabolite M-II, (both AUC 0-infand C max) after a single 32 mg dose of ramelteon.
 Efficacy may be reduced when ramelteon is used in combination with strong CYP enzyme inducers such as rifampin [see Drug Interactions (7)].
 
 Ketoconazole (strong CYP3A4 inhibitor)
 
-The AUC0-inf and Cmax of ramelteon increased by approximately 84% and 36%, respectively, when a single 16 mg dose of ramelteon was administered on the fourth day of ketoconazole 200 mg twice daily administration, compared to administration of ramelteon alone.
+The AUC 0-infand C maxof ramelteon increased by approximately 84% and 36%, respectively, when a single 16 mg dose of ramelteon was administered on the fourth day of ketoconazole 200 mg twice daily administration, compared to administration of ramelteon alone.
 Similar increases were seen in M-II pharmacokinetic variables.
 Ramelteon should be administered with caution in subjects taking strong CYP3A4 inhibitors such as ketoconazole [see Drug Interactions (7)].
 
 Fluconazole (strong CYP2C9 inhibitor)
 
-The total and peak systemic exposure (AUC0-inf and Cmax) of ramelteon after a single 16 mg dose of ramelteon was increased by approximately 150% when administered with fluconazole.
+The total and peak systemic exposure (AUC 0-infand C max) of ramelteon after a single 16 mg dose of ramelteon was increased by approximately 150% when administered with fluconazole.
 Similar increases were also seen in M-II exposure.
 Ramelteon should be administered with caution in subjects taking strong CYP2C9 inhibitors such as fluconazole [see Drug Interactions (7)].
 
 Donepezil
 
-Administration of donepezil 10 mg once daily for 26 days resulted in a mean increase of approximately 100% in overall exposure to ramelteon, (AUC0-inf) and a mean increase of approximately 87% in maximum exposure to ramelteon (Cmax) after a single 8 mg dose of ramelteon tablets.
+Administration of donepezil 10 mg once daily for 26 days resulted in a mean increase of approximately 100% in overall exposure to ramelteon, (AUC 0-inf) and a mean increase of approximately 87% in maximum exposure to ramelteon (C max) after a single 8 mg dose of ramelteon tablets.
 No change was seen in M-II exposure.
 Patients should be closely monitored when ramelteon is coadministered with donepezil [see Drug Interactions (7)].
 
 Doxepin
 
-Administration of doxepin 10 mg once daily for 23 days resulted in a mean increase of approximately 66% in overall exposure to ramelteon, (AUC0-inf) and a mean increase of approximately 69% in maximum exposure to ramelteon (Cmax) after a single 8 mg dose of ramelteon tablets.
+Administration of doxepin 10 mg once daily for 23 days resulted in a mean increase of approximately 66% in overall exposure to ramelteon, (AUC 0-inf) and a mean increase of approximately 69% in maximum exposure to ramelteon (C max) after a single 8 mg dose of ramelteon tablets.
 No change was seen in M-II exposure.
 Patients should be closely monitored when ramelteon is coadministered with doxepin [see Drug Interactions (7)].
 
@@ -139,7 +139,7 @@ Effects of Ramelteon on Metabolism of Other Drugs
 
 Zolpidem
 
-Administration of ramelteon 8 mg once daily for 11 days resulted in an increase in median Tmax of zolpidem by approximately 20 minutes and exposure to zolpidem (both AUC0-inf and Cmax) was unchanged after a single 10 mg dose of zolpidem.
+Administration of ramelteon 8 mg once daily for 11 days resulted in an increase in median T maxof zolpidem by approximately 20 minutes and exposure to zolpidem (both AUC 0-infand C max) was unchanged after a single 10 mg dose of zolpidem.
 Ordinarily zolpidem should not be given in a patient taking ramelteon.
 
 Concomitant administration of ramelteon with omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), midazolam (CYP3A4 substrate), theophylline (CYP1A2 substrate), digoxin (p-glycoprotein substrate), warfarin (CYP2C9 [S]/CYP1A2 [R] substrate), venlafaxine, fluvoxamine, donepezil, doxepin, sertraline, escitalopram, and gabapentin did not produce clinically meaningful changes in peak and total exposures to these drugs.

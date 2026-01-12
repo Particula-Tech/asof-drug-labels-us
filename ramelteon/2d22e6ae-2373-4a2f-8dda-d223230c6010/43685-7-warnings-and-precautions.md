@@ -11,8 +11,7 @@ Patients who develop angioedema after treatment with ramelteon tablets should no
 ## 5.2 Need to Evaluate for Comorbid Diagnoses
 
 Since sleep disturbances may be the presenting manifestation of a physical and/or psychiatric disorder, symptomatic treatment of insomnia should be initiated only after a careful evaluation of the patient.
-The failure of insomnia to remit after 7 to 10 days of treatment may indicate the presence of a primary psychiatric and/or medical illness that should be evaluated.
-Worsening of insomnia, or the emergence of new cognitive or behavioral abnormalities, may be the result of an unrecognized underlying psychiatric or physical disorder and requires further evaluation of the patient.
+The failure of insomnia to remit after 7 to 10 days of treatment may indicate the presence of a primary psychiatric and/or medical illness that should be evaluated.Worsening of insomnia, or the emergence of new cognitive or behavioral abnormalities, may be the result of an unrecognized underlying psychiatric or physical disorder and requires further evaluation of the patient.
 Exacerbation of insomnia and emergence of cognitive and behavioral abnormalities were seen with ramelteon during the clinical development program.
 
 ## 5.3 Abnormal Thinking and Behavioral Changes
@@ -59,4 +58,4 @@ For patients presenting with unexplained amenorrhea, galactorrhea, decreased lib
 Interference with Laboratory Tests
 
 Ramelteon is not known to interfere with commonly used clinical laboratory tests.
-In addition, in vitro data indicate that ramelteon does not cause false-positive results for benzodiazepines, opiates, barbiturates, cocaine, cannabinoids, or amphetamines in two standard urine drug screening methods in vitro.
+In addition, in vitrodata indicate that ramelteon does not cause false-positive results for benzodiazepines, opiates, barbiturates, cocaine, cannabinoids, or amphetamines in two standard urine drug screening methods in vitro.

@@ -5,7 +5,7 @@
 Risk Summary
 
 Available data from postmarketing reports with ramelteon use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
-In animal studies, ramelteon produced evidence of developmental toxicity, including teratogenic effects, in rats at doses greater than 36 times the recommended human dose (RHD) of 8 mg/day based on body surface area (mg/m2) (see Data).
+In animal studies, ramelteon produced evidence of developmental toxicity, including teratogenic effects, in rats at doses greater than 36 times the recommended human dose (RHD) of 8 mg/day based on body surface area (mg/m 2) (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -16,11 +16,11 @@ Data
 Animal Data
 
 Oral administration of ramelteon (10, 40, 150 or 600 mg/kg/day) to pregnant rats during the period of organogenesis was associated with increased incidences of fetal structural abnormalities (malformations and variations) at doses greater than 40 mg/kg/day.
-The no-effect dose is approximately 50 times the RHD based on mg/m2.
-Treatment of pregnant rabbits during the period of organogenesis produced no evidence of embryo-fetal toxicity at oral doses of up to 300 mg/kg/day (or up to 720 times the RHD based on mg/m2).
+The no-effect dose is approximately 50 times the RHD based on mg/m 2.
+Treatment of pregnant rabbits during the period of organogenesis produced no evidence of embryo-fetal toxicity at oral doses of up to 300 mg/kg/day (or up to 720 times the RHD based on mg/m 2).
 
 When rats were orally administered ramelteon (30, 100, or 300 mg/kg/day) throughout gestation and lactation, growth retardation, developmental delay, and behavioral changes were observed in the offspring at doses greater than 30 mg/kg/day.
-The no-effect dose is 36 times the RHD based on mg/m2.
+The no-effect dose is 36 times the RHD based on mg/m 2.
 Increased incidences of malformation and death among offspring were seen at the highest dose.
 
 ## 8.2 Lactation
@@ -55,7 +55,7 @@ The effects on night balance in the elderly cannot be definitively known from th
 
 ## 8.6 Chronic Obstructive Pulmonary Disease
 
-The respiratory depressant effect of ramelteon was evaluated in a crossover design study of subjects (n=26) with mild to moderate COPD after administering a single 16 mg dose or placebo, and in a separate study (n=25), the effects of ramelteon on respiratory parameters were evaluated after administering an 8 mg dose or placebo in a crossover design to patients with moderate to severe COPD, defined as patients who had forced expiratory volume at one second (FEV1)/forced vital capacity ratio of <70%, and a FEV1 <80% of predicted with <12% reversibility to albuterol.
+The respiratory depressant effect of ramelteon was evaluated in a crossover design study of subjects (n=26) with mild to moderate COPD after administering a single 16 mg dose or placebo, and in a separate study (n=25), the effects of ramelteon on respiratory parameters were evaluated after administering an 8 mg dose or placebo in a crossover design to patients with moderate to severe COPD, defined as patients who had forced expiratory volume at one second (FEV 1)/forced vital capacity ratio of <70%, and a FEV 1<80% of predicted with <12% reversibility to albuterol.
 Treatment with a single dose of ramelteon has no demonstrable respiratory depressant effects in subjects with mild to severe COPD, as measured by arterial O2 saturation (SaO2).
 There is no available information on the respiratory effects of multiple doses of ramelteon in patients with COPD.
 The respiratory depressant effects in patients with COPD cannot be definitively known from this study.
@@ -79,5 +79,5 @@ Ramelteon is not recommended in patients with severe hepatic impairment.
 
 ## 8.9 Renal Impairment
 
-No effects on Cmax and AUC0-t of parent drug or M-II were seen.
+No effects on C maxand AUC 0-tof parent drug or M-II were seen.
 No adjustment of ramelteon tablets dosage is required in patients with renal impairment [see Clinical Pharmacology (12.4)].
