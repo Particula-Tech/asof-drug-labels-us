@@ -41,19 +41,19 @@ Dispense in a tight, light-resistant container as defined in the USP.
 
 Manufactured by:
 
+Esjay Pharma Private Limited
+
+Sipcot Industrial Park, Kanchipuram,
+
+Tamilnadu, India – 602117
+
+Distributed by:
+
 Novitium Pharma LLC
 
-70 Lake Drive, East Windsor
+East Windsor, NJ 08520
 
-New Jersey 08520
+P3319/00/25
 
-Issued: 08/2021
-
-LB4375-00
-
-REFERENCES
-
-1) Lubbe, WF, and Hodge, JV: New Zealand Med J, 94 (691) 169-172,1981.
-
-2) Davey, DA, and Dommisse, J: SA.
-Med J, Oct.4, 1980 (551-556).
+Rev.
+05/25
