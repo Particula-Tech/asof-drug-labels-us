@@ -133,6 +133,6 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 
 Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054
+Distributed By: Actavis Pharma LLC Parsippany, NJ 07054
 
-©2025 Teva Pharmaceuticals USA, Inc.
+©2026 Teva Pharmaceuticals USA, Inc.
