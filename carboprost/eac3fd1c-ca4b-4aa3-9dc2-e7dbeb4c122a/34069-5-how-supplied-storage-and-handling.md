@@ -6,6 +6,8 @@ Carboprost Tromethamine Injection USP, 250 mcg/mL is supplied as a clear, colorl
 
 1 mL Single-dose Vial: NDC 70121-1680-1
 
+1 Vial in 1 Carton: NDC 70121-1680-1
+
 10 Vials in 1 Carton: NDC 70121-1680-7
 
 Each mL of carboprost tromethamine injection, USP contains carboprost tromethamine, USP equivalent to 250 mcg of carboprost.
@@ -43,4 +45,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-02-2025-01
+10-2025-02
