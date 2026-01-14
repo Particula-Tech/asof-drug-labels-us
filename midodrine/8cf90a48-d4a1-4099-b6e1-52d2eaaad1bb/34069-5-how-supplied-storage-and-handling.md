@@ -20,10 +20,11 @@ Dispense in a tight, light-resistant container as defined in the USP, using a ch
 
 To report SUSPECTED ADVERSE REACTIONS, contact FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Distributed By Advagen Pharma Ltd 666 Plainsboro Road Suite 605 Plainsboro, NJ, 08536, USA.
+Distributed By Advagen Pharma Ltd East Windsor, NJ 08520, USA
 
-Manufactured by: Rubicon Research Private Limited Ambernath, Dist: Thane, 421506 India
+Manufactured by: Rubicon Research Ltd, Thane 421506, India
 
 Rx Only
 
-Rev.00, 09/2019
+Rev.
+12/2025

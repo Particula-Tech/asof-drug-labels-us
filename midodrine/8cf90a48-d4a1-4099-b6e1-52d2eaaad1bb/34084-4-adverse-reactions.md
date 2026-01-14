@@ -6,7 +6,7 @@ The frequency of these events in a 3-week placebo-controlled trial is shown in t
 
 Adverse Events
 
-|  | P lacebo n=88 |  | M idodrine n=82 |  |
+|  | Placebo n=88 |  | Midodrine n=82 |  |
 | --- | --- | --- | --- | --- |
 | Event | #of reports | % of patients | #of reports | % of patients |
 | Total #of reports | 22 |  | 77 |  |
@@ -18,11 +18,11 @@ Adverse Events
 | Chills | 0 | 0 | 4 | 4.9 |
 | Pain 5 | 0 | 0 | 4 | 4.9 |
 | Rash | 1 | 1.1 | 2 | 2.4 |
-| 1 Includes hyperesthesia and scalp paresthesia |  |  |  |  |
-| 2 Includes dysuria (1), increased urinary frequency (2), impaired urination (1), urinary retention (5), urinary urgency (2) |  |  |  |  |
-| 3 Includes scalp pruritus |  |  |  |  |
-| 4 Includes patients who experienced an increase in supine hypertension |  |  |  |  |
-| 5 Includes abdominal pain and pain increase |  |  |  |  |
+| 1Includes hyperesthesia and scalp paresthesia |  |  |  |  |
+| 2Includes dysuria (1), increased urinary frequency (2), impaired urination (1), urinary retention (5), urinary urgency (2) |  |  |  |  |
+| 3Includes scalp pruritus |  |  |  |  |
+| 4Includes patients who experienced an increase in supine hypertension |  |  |  |  |
+| 5Includes abdominal pain and pain increase |  |  |  |  |
 
 Less frequent adverse reactions were headache; feeling of pressure/fullness in the head; vasodilation/flushing face; confusion/thinking abnormality; dry mouth; nervousness/anxiety and rash.
 Other adverse reactions that occurred rarely were visual field defect; dizziness; skin hyperesthesia; insomnia; somnolence; erythema multiforme; canker sore; dry skin; dysuria; impaired urination; asthenia; backache; pyrosis; nausea; gastrointestinal distress; flatulence and leg cramps.

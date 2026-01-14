@@ -10,7 +10,7 @@ It is essential to monitor supine and sitting blood pressures in patients mainta
 
 # PRECAUTIONS
 
-General: The potential for supine and sitting hypertension should be evaluated at the beginning of Midodrine hydrochloride therapy.
+General:The potential for supine and sitting hypertension should be evaluated at the beginning of Midodrine hydrochloride therapy.
 Supine hypertension can often be controlled by preventing the patient from becoming fully supine, i.e., sleeping with the head of the bed elevated.
 The patient should be cautioned to report symptoms of supine hypertension immediately.
 Symptoms may include cardiac awareness, pounding in the ears, headache, blurred vision, etc. The patient should be advised to discontinue the medication immediately if supine hypertension persists.
@@ -32,13 +32,13 @@ Renal function should be assessed prior to initial use of Midodrine hydrochlorid
 Midodrine hydrochloride use has not been studied in patients with hepatic impairment.
 Midodrine hydrochloride should be used with caution in patients with hepatic impairment, as the liver has a role in the metabolism of midodrine.
 
-Information for Patients: Patients should be told that certain agents in over-the-counter products, such as cold remedies and diet aids, can elevate blood pressure, and therefore, should be used cautiously with Midodrine hydrochloride, as they may enhance or potentiate the pressor effects of Midodrine hydrochloride (see Drug Interactions).
+Information for Patients:Patients should be told that certain agents in over-the-counter products, such as cold remedies and diet aids, can elevate blood pressure, and therefore, should be used cautiously with Midodrine hydrochloride, as they may enhance or potentiate the pressor effects of Midodrine hydrochloride (see Drug Interactions).
 Patients should also be made aware of the possibility of supine hypertension.
 They should be told to avoid taking their dose if they are to be supine for any length of time, i.e., they should take their last daily dose of Midodrine hydrochloride 3 to 4 hours before bedtime to minimize nighttime supine hypertension.
 
-Laboratory Tests: Since desglymidodrine is eliminated by the kidneys and the liver has a role in its metabolism, evaluation of the patient should include assessment of renal and hepatic function prior to initiating therapy and subsequently, as appropriate.
+Laboratory Tests:Since desglymidodrine is eliminated by the kidneys and the liver has a role in its metabolism, evaluation of the patient should include assessment of renal and hepatic function prior to initiating therapy and subsequently, as appropriate.
 
-Drug Interactions: When administered concomitantly with Midodrine hydrochloride, cardiac glycosides may enhance or precipitate bradycardia, A.V. block or arrhythmia.
+Drug Interactions:When administered concomitantly with Midodrine hydrochloride, cardiac glycosides may enhance or precipitate bradycardia, A.V. block or arrhythmia.
 
 The risk of hypertension increases with concomitant administration of drugs that increase blood pressure (phenylephrine, pseudoephedrine, ephedrine, dihydroergotamine, thyroid hormones, or droxidopa).
 Avoid concomitant use of drugs that increase blood pressure.
@@ -50,19 +50,19 @@ Midodrine hydrochloride has been used in patients concomitantly treated with sal
 The potential for supine hypertension should be carefully monitored in these patients and may be minimized by either reducing the dose of fludrocortisone acetate or decreasing the salt intake prior to initiation of treatment with Midodrine hydrochloride.
 Alpha-adrenergic blocking agents, such as prazosin, terazosin, and doxazosin, can antagonize the effects of Midodrine hydrochloride.
 
-Potential for Drug Interaction: It appears possible, although there is no supporting experimental evidence, that the high renal clearance of desyglymidodrine (a base) is due to active tubular secretion by the base-secreting system also responsible for the secretion of such drugs as metformin, cimetidine, ranitidine, procainamide, triamterene, flecainide, and quinidine.
+Potential for Drug Interaction:It appears possible, although there is no supporting experimental evidence, that the high renal clearance of desyglymidodrine (a base) is due to active tubular secretion by the base-secreting system also responsible for the secretion of such drugs as metformin, cimetidine, ranitidine, procainamide, triamterene, flecainide, and quinidine.
 Thus there may be a potential for drug-drug interactions with these drugs.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility: Long-term studies have been conducted in rats and mice at dosages 3 to 4 times the maximum recommended daily human dose on a mg/m 2 basis, with no indication of carcinogenic effects related to Midodrine hydrochloride.
+Carcinogenesis, Mutagenesis, Impairment of Fertility:Long-term studies have been conducted in rats and mice at dosages 3 to 4 times the maximum recommended daily human dose on a mg/m 2basis, with no indication of carcinogenic effects related to Midodrine hydrochloride.
 Studies investigating the mutagenic potential of Midodrine hydrochloride revealed no evidence of mutagenicity.
 Other than the dominant lethal assay in male mice, where no impairment of fertility was observed, there have been no studies on the effects of Midodrine hydrochloride on fertility.
 
-Pregnancy: Midodrine hydrochloride increased the rate of embryo resorption, reduced fetal body weight in rats and rabbits, and decreased fetal survival in rabbits when given in doses 13 (rat) and 7 (rabbit) times the maximum human dose based on body surface area (mg/m 2).
+Pregnancy:Midodrine hydrochloride increased the rate of embryo resorption, reduced fetal body weight in rats and rabbits, and decreased fetal survival in rabbits when given in doses 13 (rat) and 7 (rabbit) times the maximum human dose based on body surface area (mg/m 2).
 There are no adequate and well-controlled studies in pregnant women.
 Midodrine hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 No teratogenic effects have been observed in studies in rats and rabbits.
 
-Nursing Mothers: It is not known whether this drug is excreted in human milk.
+Nursing Mothers:It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when Midodrine hydrochloride is administered to a nursing woman.
 
-Pediatric Use: Safety and effectiveness in pediatric patients have not been established.
+Pediatric Use:Safety and effectiveness in pediatric patients have not been established.

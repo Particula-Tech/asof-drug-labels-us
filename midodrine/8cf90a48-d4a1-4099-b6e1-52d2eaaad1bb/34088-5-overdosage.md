@@ -7,7 +7,7 @@ The other patient ingested 205 mg of Midodrine hydrochloride (41 5-mg tablets), 
 Gastric lavage was performed, and the patient recovered fully by the next day without sequelae.
 
 The single doses that would be associated with symptoms of overdosage or would be potentially life-threatening are unknown.
-The oral LD 50 is approximately 30 to 50 mg/kg in rats, 675 mg/kg in mice, and 125 to 160 mg/kg in dogs.
+The oral LD 5
 
 Desglymidodrine is dialyzable.
 
