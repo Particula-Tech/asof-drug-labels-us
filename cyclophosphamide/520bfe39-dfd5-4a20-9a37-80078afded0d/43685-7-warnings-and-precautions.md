@@ -3,14 +3,14 @@
 ## 5.1 Myelosuppression, Immunosuppression, Bone Marrow Failure and Infections
 
 Cyclophosphamide can cause myelosuppression (leukopenia, neutropenia, thrombocytopenia and anemia), bone marrow failure, and severe immunosuppression which may lead to serious and sometimes fatal infections, including sepsis and septic shock.
-Latent infections can be reactivated [see Adverse Reactions (6.2)].
+Latent infections can be reactivated [see Adverse Reactions (6.1)].
 
 Antimicrobial prophylaxis may be indicated in certain cases of neutropenia at the discretion of the managing physician.
 In case of neutropenic fever, antibiotic therapy is indicated.
 Antimycotics and/or antivirals may also be indicated.
 
 Monitoring of complete blood counts is essential during cyclophosphamide treatment so that the dose can be adjusted, if needed.
-Cyclophosphamide should not be administered to patients with neutrophils ≤1,500/mm3 and platelets < 50,000/mm3.
+Cyclophosphamide should not be administered to patients with neutrophils ≤ 1,500/mm3 and platelets < 50,000/mm3.
 Cyclophosphamide treatment may not be indicated, or should be interrupted, or the dose reduced, in patients who have or who develop a serious infection.
 G-CSF may be administered to reduce the risks of neutropenia complications associated with cyclophosphamide use.
 Primary and secondary prophylaxis with G-CSF should be considered in all patients considered to be at increased risk for neutropenia complications.
@@ -69,20 +69,22 @@ Other risk factors predisposing to the development of VOD include preexisting di
 
 ## 5.7 Embryo-Fetal Toxicity
 
-Cyclophosphamide can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1), and Nonclinical Toxicology (13.1)].
 Exposure to cyclophosphamide during pregnancy may cause birth defects, miscarriage, fetal growth retardation, and fetotoxic effects in the newborn.
 Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys.
 
-Advise female patients of reproductive potential to avoid becoming pregnant and to use highly effective contraception during treatment and for up to 1 year after completion of therapy [see Use in Specific Populations (8.6)].
+Advise pregnant women and females of reproductive potential of the potential risk to a fetus [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during treatment with cyclophosphamide for injection and for up to 1 year after completion of therapy.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment with cyclophosphamide for injection and for 4 months after completion of therapy [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.8 Infertility
 
-Male and female reproductive function and fertility may be impaired in patients being treated with cyclophosphamide.
+Male and female reproductive function and fertility may be impaired in patients being treated with cyclophosphamide for injection.
 Cyclophosphamide interferes with oogenesis and spermatogenesis.
 It may cause sterility in both sexes.
 Development of sterility appears to depend on the dose of cyclophosphamide, duration of therapy, and the state of gonadal function at the time of treatment.
 Cyclophosphamide-induced sterility may be irreversible in some patients.
-Advise patients on the potential risks for infertility [see Use in Specific Populations (8.4 and 8.6)].
+Advise patients on the potential risks for infertility [see Use in Specific Populations (8.3, 8.4)].
 
 ## 5.9 Impairment of Wound Healing
 

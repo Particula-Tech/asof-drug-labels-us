@@ -2,14 +2,17 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D
-
 Risk Summary
 
-Cyclophosphamide can cause fetal harm when administered to a pregnant woman based on its mechanism of action and published reports of effects in pregnant patients or animals.
-Exposure to cyclophosphamide during pregnancy may cause fetal malformations, miscarriage, fetal growth retardation, and toxic effects in the newborn.
-Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to a fetus.
+Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide for injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
+Exposure to cyclophosphamide during pregnancy may cause fetal malformations, miscarriage, fetal growth retardation, and toxic effects in the newborn [see Data].
+Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys [see Data].
+Advise pregnant women and females of reproductive potential of the potential risk to the fetus.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects is 2% to 4% and miscarriage is 15% to 20% of clinically recognized pregnancies.
+
+Data
 
 Human Data
 
@@ -20,36 +23,31 @@ Animal Data
 
 Administration of cyclophosphamide to pregnant mice, rats, rabbits and monkeys during the period of organogenesis at doses at or below the dose in patients based on body surface area resulted in various malformations, which included neural tube defects, limb and digit defects and other skeletal anomalies, cleft lip and palate, and reduced skeletal ossification.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
+
+Risk summary
 
 Cyclophosphamide is present in breast milk.
 Neutropenia, thrombocytopenia, low hemoglobin, and diarrhea have been reported in infants breast fed by women treated with cyclophosphamide.
-Because of the potential for serious adverse reactions in nursing infants from cyclophosphamide, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for serious adverse reactions in a breastfed child, advise lactating women not to breastfeed during treatment with cyclophosphamide for injection and for 1 week after the last dose.
 
-## 8.4 Pediatric Use
+## 8.3 Females and Males of Reproductive Potential
 
-Pre-pubescent girls treated with cyclophosphamide generally develop secondary sexual characteristics normally and have regular menses.
-Ovarian fibrosis with apparently complete loss of germ cells after prolonged cyclophosphamide treatment in late pre-pubescence has been reported.
-Girls treated with cyclophosphamide who have retained ovarian function after completing treatment are at increased risk of developing premature menopause.
+Cyclophosphamide for injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 
-Pre-pubescent boys treated with cyclophosphamide develop secondary sexual characteristics normally, but may have oligospermia or azoospermia and increased gonadotropin secretion.
-Some degree of testicular atrophy may occur.
-Cyclophosphamide-induced azoospermia is reversible in some patients, though the reversibility may not occur for several years after cessation of therapy.
+Pregnancy Testing
 
-## 8.5 Geriatric Use
-
-There is insufficient data from clinical studies of cyclophosphamide available for patients 65 years of age and older to determine whether they respond differently than younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac functioning, and of concomitant disease or other drug therapy.
-
-## 8.6 Females and Males of Reproductive Potential
+Verify the pregnancy status of females of reproductive potential prior to the initiation of cyclophosphamide for injection.
 
 Contraception
 
-Pregnancy should be avoided during treatment with cyclophosphamide because of the risk of fetal harm [see Use in Specific Populations (8.1)].
+Females
 
-Female patients of reproductive potential should use highly effective contraception during and for up to 1 year after completion of treatment.
+Advise females of reproductive potential to use effective contraception during treatment with Cyclophosphamide for injection and for up to 1 year after completion of therapy.
 
-Male patients who are sexually active with female partners who are or may become pregnant should use a condom during and for at least 4 months after treatment.
+Males
+
+Based on findings in genetic toxicity and animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide for injection and for 4 months after completion of therapy [see Nonclinical Toxicology (13.1)].
 
 Infertility
 
@@ -67,17 +65,32 @@ Males
 
 Men treated with cyclophosphamide may develop oligospermia or azoospermia which are normally associated with increased gonadotropin but normal testosterone secretion.
 
-## 8.7 Use in Patients with Renal Impairment
+## 8.4 Pediatric Use
 
-In patients with severe renal impairment, decreased renal excretion may result in increased plasma levels of cyclophosphamide and its metabolites.
-This may result in increased toxicity [see Clinical Pharmacology (12.3)].
-Monitor patients with severe renal impairment (CrCl =10 mL/min to 24 mL/min) for signs and symptoms of toxicity.
+The safety and effectiveness of cyclophosphamide have been established in pediatric patients and information on this use is discussed throughout the labeling.
 
-Cyclophosphamide and its metabolites are dialyzable although there are probably quantitative differences
+Pre-pubescent females who receive cyclophosphamide generally develop secondary sexual characteristics normally and have regular menses.
+Ovarian fibrosis with apparently complete loss of germ cells after prolonged administration of cyclophosphamide in late pre-pubescence has been reported.
+Females who received cyclophosphamide who have retained ovarian function after completing treatment are at increased risk of developing premature menopause.
 
-depending upon the dialysis system being used.
-In patients requiring dialysis, use of a consistent interval between cyclophosphamide administration and dialysis should be considered.
+Pre-pubescent males who receive cyclophosphamide develop secondary sexual characteristics normally, but may have oligospermia or azoospermia and increased gonadotropin secretion.
+Some degree of testicular atrophy may occur.
+Cyclophosphamide-induced azoospermia is reversible in some patients, though the reversibility may not occur for several years after cessation of therapy.
 
-## 8.8 Use in Patients with Hepatic Impairment
+## 8.5 Geriatric Use
+
+There is insufficient data from clinical studies of cyclophosphamide available for patients 65 years of age and older to determine whether they respond differently than younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac functioning, and of concomitant disease or other drug therapy.
+
+## 8.6 Renal Impairment
+
+In patients with severe renal impairment, decreased renal excretion may result in increased plasma levels of cyclophosphamide and its metabolites, which may increase toxicity [see Clinical Pharmacology (12.3)].
+Monitor patients with severe renal impairment (creatinine clearance (CLcr)=10 mL/min to 24 mL/min) for signs and symptoms of toxicity.
+
+Cyclophosphamide and its metabolites are dialyzable although there are probably quantitative differences depending upon the dialysis system.
+In patients requiring dialysis, consider using a consistent interval between cyclophosphamide administration and dialysis.
+
+## 8.7 Hepatic Impairment
 
 Patients with severe hepatic impairment have reduced conversion of cyclophosphamide to the active 4-hydroxyl metabolite, potentially reducing efficacy [see Clinical Pharmacology (12.3)].
+Monitor patients with severe hepatic impairment (total bilirubin > 3 x ULN and any aspartate aminotransferase (AST)) for reduced effectiveness of cyclophosphamide.
