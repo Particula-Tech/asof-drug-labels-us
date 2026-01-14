@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.2 Important Dosage and Administration Instructions
+## 2.1 Important Dosage and Administration Instructions
 
 Buprenorphine sublingual tablets are administered sublingually as a single daily dose.
 
@@ -11,18 +11,21 @@ The use of buprenorphine sublingual tablets for unsupervised administration shou
 Medication should be prescribed in consideration of the frequency of visits.
 Provision of multiple refills is not advised early in treatment or without appropriate patient follow-up visits.
 
-## 2.3 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
-Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with buprenorphine sublingual tablets.
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.2)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent.
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider recommending or prescribing an overdose reversal agent for the emergency treatment of opioid overdose, both when initiating and renewing treatment with buprenorphine sublingual tablets.
+Also consider recommending or prescribing such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.2)].
 
-Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with buprenorphine sublingual tablets itself.
-Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of buprenorphine sublingual tablets and its affinity for the mu-opioid receptor [see Overdosage (10)].
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.2)].
 
-Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
-## 2.4 Induction
+Advise patients and caregivers that opioid overdose reversal agents, such as naloxone or nalmefene may also be administered for a known or suspected overdose with buprenorphine sublingual tablets itself.
+Higher than normal doses and repeated administration of an opioid overdose reversal agent may be necessary due to the long duration of action of buprenorphine sublingual tablets and its affinity for the mu-opioid receptor [see Overdosage (10)].
+
+## 2.3 Induction
 
 Prior to induction, consideration should be given to the type of opioid dependence (i.e., long- or short-acting opioid products), the time since last opioid use, and the degree or level of opioid dependence.
 
@@ -46,7 +49,7 @@ There is little controlled experience with the transfer of methadone-maintained 
 Available evidence suggests that withdrawal signs and symptoms are possible during induction onto buprenorphine.
 Withdrawal appears more likely in patients maintained on higher doses of methadone (>30 mg) and when the first buprenorphine dose is administered shortly after the last methadone dose.
 
-## 2.5 Maintenance
+## 2.4 Maintenance
 
 - Buprenorphine and naloxone is preferred for maintenance treatment.
 - Where buprenorphine is used in maintenance in patients who cannot tolerate the presence of naloxone, the dosage of buprenorphine should be progressively adjusted in increments/decrements of 2 mg or 4 mg buprenorphine to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
@@ -57,7 +60,7 @@ Withdrawal appears more likely in patients maintained on higher doses of methado
 - There is no maximum recommended duration of maintenance treatment.
   Patients may require treatment indefinitely and should continue for as long as patients are benefiting and the use of buprenorphine sublingual tablets contributes to the intended treatment goals.
 
-## 2.6 Method of Administration
+## 2.5 Method of Administration
 
 Buprenorphine sublingual tablets must be administered whole.
 Do not cut, chew, or swallow buprenorphine sublingual tablets.
@@ -73,7 +76,7 @@ Proper administration technique should be demonstrated to the patient.
 Advise patients to do the following after the product has completely dissolved in the oral mucosa: take a sip of water, swish gently around the teeth and gums, and swallow.
 Advise patients to wait for at least one hour after taking buprenorphine sublingual tablets before brushing teeth [see Warnings and Precautions (5.13), Postmarketing Experience (6.2), Information for Patients (17), and the Medication Guide].
 
-## 2.7 Clinical Supervision
+## 2.6 Clinical Supervision
 
 Treatment should be initiated with supervised administration, progressing to unsupervised administration as the patient’s clinical stability permits.
 The use of buprenorphine for unsupervised administration should be limited to those patients who cannot tolerate buprenorphine and naloxone, for example those patients with known hypersensitivity to naloxone.
@@ -97,11 +100,11 @@ Continuation or modification of pharmacotherapy should be based on the healthcar
 
 If treatment goals are not being achieved, the healthcare provider should re-evaluate the appropriateness of continuing the current treatment.
 
-## 2.8 Patients with Severe Hepatic Impairment
+## 2.7 Patients with Severe Hepatic Impairment
 
 Consider reducing the starting and titration incremental dose by half and monitor for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine.
 
-## 2.9 Unstable Patients
+## 2.8 Unstable Patients
 
 Healthcare providers will need to decide when they cannot appropriately provide further management for particular patients.
 For example, some patients may be abusing or dependent on various drugs, or unresponsive to psychosocial intervention such that the healthcare provider does not feel that he/she has the expertise to manage the patient.
@@ -110,7 +113,7 @@ Decisions should be based on a treatment plan established and agreed upon with t
 
 Patients who continue to misuse, abuse, or divert buprenorphine products or other opioids should be provided with, or referred to, more intensive and structured treatment.
 
-## 2.10 Discontinuing Treatment
+## 2.9 Discontinuing Treatment
 
 The decision to discontinue therapy with buprenorphine and naloxone or buprenorphine after a period of maintenance should be made as part of a comprehensive treatment plan.
 Advise patients of the potential to relapse to illicit drug use following discontinuation of opioid agonist/partial agonist medication-assisted treatment.
