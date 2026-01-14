@@ -32,12 +32,12 @@ Manufactured for:
 
 Somerset Therapeutics, LLC
 
-Hollywood, FL 33024
+Somerset, NJ 08873
 
 Made in India
 
 Code No.: KR/DRUGS/KTK/28/289/97
 
-ST-PIL/P/01
+ST-PIL/P/02
 
-PSSO0482
+1201313
