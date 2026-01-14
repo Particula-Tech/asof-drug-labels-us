@@ -6,4 +6,4 @@ Overdosage has been reported with timolol maleate tablets.
 A 30-year-old female ingested 650 mg of timolol maleate tablets (maximum recommended oral daily dose is 60 mg) and experienced second and third degree heart block.
 She recovered without treatment but approximately two months later developed irregular heartbeat, hypertension, dizziness, tinnitus, faintness, increased pulse rate, and borderline first degree heart block.
 
-An in vitro hemodialysis study, using 14C timolol added to human plasma or whole blood, showed that timolol was readily dialyzed from these fluids; however, a study of patients with renal failure showed that timolol did not dialyze readily.
+An in vitrohemodialysis study, using 14C timolol added to human plasma or whole blood, showed that timolol was readily dialyzed from these fluids; however, a study of patients with renal failure showed that timolol did not dialyze readily.

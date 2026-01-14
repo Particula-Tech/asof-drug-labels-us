@@ -1,8 +1,8 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 0187-1498-25 Rx only
+NDC0187-1498-25 Rx only
 
-TIMOPTIC® in OCUDOSE®
+TIMOPTIC ®in OCUDOSE ®
 
 (timolol maleate ophthalmic solution)
 
@@ -24,11 +24,11 @@ BAUSCH + LOMB
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 0187-1496-05
+NDC0187-1496-05
 
 Rx only
 
-TIMOPTIC® in OCUDOSE®
+TIMOPTIC ®in OCUDOSE ®
 
 (timolol maleate ophthalmic solution)
 

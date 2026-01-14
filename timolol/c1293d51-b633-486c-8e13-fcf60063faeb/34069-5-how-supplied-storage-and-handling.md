@@ -1,16 +1,16 @@
 # HOW SUPPLIED
 
-Preservative-free Sterile Ophthalmic Solution TIMOPTIC® in OCUDOSE® is a clear, colorless to light yellow solution.
+Preservative-free Sterile Ophthalmic Solution TIMOPTIC ®in OCUDOSE ®is a clear, colorless to light yellow solution.
 
 Preservative-free TIMOPTIC, 0.25% timolol equivalent, is supplied in OCUDOSE, a clear low density polyethylene unit dose container.
 Each individual unit contains 0.3 mL of solution, and is available in a foil laminate overwrapped pouch as follows:
 
-NDC 0187-1498-25; 60 Individual Unit Doses.
+NDC0187-1498-25; 60 Individual Unit Doses.
 
 Preservative-free TIMOPTIC, 0.5% timolol equivalent, is supplied in OCUDOSE, a clear low density polyethylene unit dose container.
 Each individual unit contains 0.3 mL of solution, and is available in a foil laminate overwrapped pouch as follows:
 
-NDC 0187-1496-05; 60 Individual Unit Doses.
+NDC0187-1496-05; 60 Individual Unit Doses.
 
 Storage
 

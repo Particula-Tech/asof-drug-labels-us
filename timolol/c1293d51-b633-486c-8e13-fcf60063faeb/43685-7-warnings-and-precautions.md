@@ -9,7 +9,7 @@ Cardiac Failure
 
 Sympathetic stimulation may be essential for support of the circulation in individuals with diminished myocardial contractility, and its inhibition by beta-adrenergic receptor blockade may precipitate more severe failure.
 
-In Patients without a History of Cardiac Failure continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
+In Patients without a History of Cardiac Failurecontinued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
 At the first sign or symptom of cardiac failure, Preservative-free TIMOPTIC in OCUDOSE should be discontinued.
 
 Obstructive Pulmonary Disease
@@ -45,15 +45,15 @@ If signs or symptoms suggesting reduced cerebral blood flow develop following in
 
 Choroidal detachment after filtration procedures has been reported with the administration of aqueous suppressant therapy (e.g., timolol).
 
-Angle-closure glaucoma: In patients with angle-closure glaucoma, the immediate objective of treatment is to reopen the angle.
+Angle-closure glaucoma:In patients with angle-closure glaucoma, the immediate objective of treatment is to reopen the angle.
 This requires constricting the pupil.
 Timolol maleate has little or no effect on the pupil.
 TIMOPTIC in OCUDOSE should not be used alone in the treatment of angle-closure glaucoma.
 
-Anaphylaxis: While taking beta-blockers, patients with a history of atopy or a history of severe anaphylactic reactions to a variety of allergens may be more reactive to repeated accidental, diagnostic, or therapeutic challenge with such allergens.
+Anaphylaxis:While taking beta-blockers, patients with a history of atopy or a history of severe anaphylactic reactions to a variety of allergens may be more reactive to repeated accidental, diagnostic, or therapeutic challenge with such allergens.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat anaphylactic reactions.
 
-Muscle weakness: Beta-adrenergic blockade has been reported to potentiate muscle weakness consistent with certain myasthenic symptoms (e.g., diplopia, ptosis, and generalized weakness).
+Muscle weakness:Beta-adrenergic blockade has been reported to potentiate muscle weakness consistent with certain myasthenic symptoms (e.g., diplopia, ptosis, and generalized weakness).
 Timolol has been reported rarely to increase muscle weakness in some patients with myasthenia gravis or myasthenic symptoms.
 
 ## Information for Patients
@@ -68,21 +68,21 @@ Patients with bronchial asthma, a history of bronchial asthma, severe chronic ob
 
 Although TIMOPTIC (timolol maleate ophthalmic solution) used alone has little or no effect on pupil size, mydriasis resulting from concomitant therapy with TIMOPTIC (timolol maleate ophthalmic solution) and epinephrine has been reported occasionally.
 
-Beta-adrenergic blocking agents: Patients who are receiving a beta-adrenergic blocking agent orally and Preservative-free TIMOPTIC in OCUDOSE should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure.
+Beta-adrenergic blocking agents:Patients who are receiving a beta-adrenergic blocking agent orally and Preservative-free TIMOPTIC in OCUDOSE should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure.
 The concomitant use of two topical beta-adrenergic blocking agents is not recommended.
 
-Calcium antagonists: Caution should be used in the coadministration of beta-adrenergic blocking agents, such as Preservative-free TIMOPTIC in OCUDOSE, and oral or intravenous calcium antagonists, because of possible atrioventricular conduction disturbances, left ventricular failure, and hypotension.
+Calcium antagonists:Caution should be used in the coadministration of beta-adrenergic blocking agents, such as Preservative-free TIMOPTIC in OCUDOSE, and oral or intravenous calcium antagonists, because of possible atrioventricular conduction disturbances, left ventricular failure, and hypotension.
 In patients with impaired cardiac function, coadministration should be avoided.
 
-Catecholamine-depleting drugs: Close observation of the patient is recommended when a beta-blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine, because of possible additive effects and the production of hypotension and/or marked bradycardia, which may result in vertigo, syncope, or postural hypotension.
+Catecholamine-depleting drugs:Close observation of the patient is recommended when a beta-blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine, because of possible additive effects and the production of hypotension and/or marked bradycardia, which may result in vertigo, syncope, or postural hypotension.
 
-Digitalis and calcium antagonists: The concomitant use of beta-adrenergic blocking agents with digitalis and calcium antagonists may have additive effects in prolonging atrioventricular conduction time.
-CYP2D6 inhibitors: Potentiated systemic beta-blockade (e.g., decreased heart rate, depression) has been reported during combined treatment with CYP2D6 inhibitors (e.g., quinidine, SSRIs) and timolol.
+Digitalis and calcium antagonists:The concomitant use of beta-adrenergic blocking agents with digitalis and calcium antagonists may have additive effects in prolonging atrioventricular conduction time.
+CYP2D6 inhibitors:Potentiated systemic beta-blockade (e.g., decreased heart rate, depression) has been reported during combined treatment with CYP2D6 inhibitors (e.g., quinidine, SSRIs) and timolol.
 
-Clonidine: Oral beta-adrenergic blocking agents may exacerbate the rebound hypertension which can follow the withdrawal of clonidine.
+Clonidine:Oral beta-adrenergic blocking agents may exacerbate the rebound hypertension which can follow the withdrawal of clonidine.
 There have been no reports of exacerbation of rebound hypertension with ophthalmic timolol maleate.
 
-Injectable epinephrine: (See PRECAUTIONS, General, Anaphylaxis)
+Injectable epinephrine:(See PRECAUTIONS, General, Anaphylaxis)
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -96,7 +96,7 @@ The increased occurrence of mammary adenocarcinomas was associated with elevatio
 An increased incidence of mammary adenocarcinomas in rodents has been associated with administration of several other therapeutic agents that elevate serum prolactin, but no correlation between serum prolactin levels and mammary tumors has been established in humans.
 Furthermore, in adult human female subjects who received oral dosages of up to 60 mg of timolol maleate (the maximum recommended human oral dosage), there were no clinically meaningful changes in serum prolactin.
 
-Timolol maleate was devoid of mutagenic potential when tested in vivo (mouse) in the micronucleus test and cytogenetic assay (doses up to 800 mg/kg) and in vitro in a neoplastic cell transformation assay (up to 100 mcg/mL).
+Timolol maleate was devoid of mutagenic potential when tested in vivo(mouse) in the micronucleus test and cytogenetic assay (doses up to 800 mg/kg) and in vitroin a neoplastic cell transformation assay (up to 100 mcg/mL).
 In Ames tests the highest concentrations of timolol employed, 5,000 or 10,000 mcg/plate, were associated with statistically significant elevations of revertants observed with tester strain TA100 (in seven replicate assays), but not in the remaining three strains.
 In the assays with tester strain TA100, no consistent dose response relationship was observed, and the ratio of test to control revertants did not reach 2.
 A ratio of 2 is usually considered the criterion for a positive Ames test.
