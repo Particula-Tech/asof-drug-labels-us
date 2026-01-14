@@ -88,4 +88,4 @@ Manufactured by:
 Tris Pharma, Inc. Monmouth Junction, NJ 08852
 
 LB8684 Rev.
-02
+04

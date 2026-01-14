@@ -11,7 +11,7 @@ Educate patients and their families about these risks and proper disposal of any
 Advise patients to store DYANAVEL XR in a safe place, preferably locked, and instruct patients to not give DYANAVEL XR to anyone else.
 Throughout DYANAVEL XR treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction.
 
-## 5.2 Risks to Patients with Serious Cardiac Disease
+## 5.2 Risks for Patients with Serious Cardiac Disease
 
 Sudden death has been reported in patients with structural cardiac abnormalities or other serious cardiac disease who were treated with CNS stimulants at the recommended ADHD dosages.
 
@@ -45,7 +45,7 @@ If such symptoms occur, consider discontinuing DYANAVEL XR.
 DYANAVEL XR is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
-Closely monitor growth (weight and height) in DYANAVEL XR treated pediatric patients treated with CNS stimulants.
+Closely monitor growth (weight and height) in DYANAVEL XR-treated pediatric patients treated with CNS stimulants.
 
 Pediatric patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
 

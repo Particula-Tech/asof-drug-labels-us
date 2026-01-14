@@ -12,6 +12,32 @@ Shake Well Before Use
 
 # PRINCIPAL DISPLAY PANEL
 
+NDC 24478-102-02
+
+Dyanavel® XR CII (amphetamine) extended-release oral suspension
+
+2.5 mg/mL
+
+Shake Well Before Use
+
+60 mL Rx only
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 24478-102-02
+
+Dyanavel® XR CII
+
+(amphetamine) extended-release oral suspension
+
+2.5 mg/mL
+
+Shake Well Before Use
+
+60 mL Rx only
+
+# PRINCIPAL DISPLAY PANEL
+
 NDC 24478-106-01
 
 Dyanavel®XR CII

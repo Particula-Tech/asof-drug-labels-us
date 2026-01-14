@@ -15,4 +15,4 @@
 | What are the ingredients in DYANAVEL XR? DYANAVEL XR extended-release oral suspension: Active Ingredients: amphetamine, dextroamphetamine sulfate and amphetamine aspartate. Inactive Ingredients: anhydrous citric acid, bubblegum flavor, glycerin, methylparaben, modified starch, polysorbate 80, povidone, polyvinyl acetate, propylparaben, sodium lauryl sulfate, sodium polystyrene sulfonate, sucralose, triacetin and xanthan gum. DYANAVEL XR extended-release tablets: Active Ingredients: amphetamine, dextroamphetamine sulfate and amphetamine aspartate. Inactive Ingredients: bubblegum flavor, crospovidone, guar gum, magnesium stearate, mannitol, microcrystalline cellulose, polyvinyl acetate, povidone, silicon dioxide, sodium polystyrene sulfonate, sucralose, talc, triacetin and xanthan gum. Manufactured by: Tris Pharma, Inc., Monmouth Junction, NJ 08852 For more information about DYANAVEL XR go to www.dyanavelxr.com or call 1-732-940-0358. |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised:09/2025
+Revised: 09/2025
