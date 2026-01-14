@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA209022"
+  ],
+  "inn": "fluticasone",
+  "labeler": "Paratek Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "71715-003-31",
+    "71715-003-32",
+    "71715-003-33"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "fluticasone propionate",
+      "name": "XHANCE"
+    }
+  ],
+  "setid": "44fcea33-8cfa-3a5c-e063-6394a90aafb2",
+  "source": "dailymed"
+}
