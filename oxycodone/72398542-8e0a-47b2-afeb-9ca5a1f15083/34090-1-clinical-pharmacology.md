@@ -63,7 +63,7 @@ The activity of ROXYBOND tablets is primarily due to the parent drug oxycodone.
 ROXYBOND tablets are designed to provide immediate-release of oxycodone.
 
 Oxycodone pharmacokinetics are similar for ROXYBOND and oxycodone immediate-release tablets.
-In the fasted state, the extent of absorption (AUC) is equivalent, the rate of absorption (Cmax) is similar, and median Tmax is slightly longer (1.0 to 1.8 h).
+In the fasted state, the extent of absorption (AUC) is equivalent, the rate of absorption (C max) is similar, and median T maxis slightly longer (1.0 to 1.8 h).
 
 Table 4.
 Pharmacokinetic Parameters (Mean ± SD)
@@ -71,19 +71,19 @@ Pharmacokinetic Parameters (Mean ± SD)
 | Dose\Parameters | AUC0-t (ng∙hr/mL) | AUC0-inf(ng∙hr/mL) | Cmax (ng/mL) | Tmax (hr) | Half Life (hr) |
 | --- | --- | --- | --- | --- | --- |
 | Single Dose Pharmacokinetics Study |  |  |  |  |  |
-| ROXYBOND 5 mg tab (fasted) | 45.5±15.4 | 49.0±16.1 | 8.3±2.1 | 1.5a (0.7 to 5.0) | 3.9±1.2 |
-| ROXYBOND 15 mg tab (fasted) | 127.5±38.1 | 131.6±39.0 | 22.0±5.8 | 1.7a (1.0 to 12.0) | 4.1±0.8 |
-| ROXYBOND 30 mg tab (fasted) | 277.0±89.6 | 285.8±94.1 | 48.5±15.9 | 1.5a (1.0 to 8.0) | 4.3±1.0 |
+| ROXYBOND 5 mg tab (fasted) | 45.5±15.4 | 49.0±16.1 | 8.3±2.1 | 1.5 a (0.7 to 5.0) | 3.9±1.2 |
+| ROXYBOND 15 mg tab (fasted) | 127.5±38.1 | 131.6±39.0 | 22.0±5.8 | 1.7 a (1.0 to 12.0) | 4.1±0.8 |
+| ROXYBOND 30 mg tab (fasted) | 277.0±89.6 | 285.8±94.1 | 48.5±15.9 | 1.5 a (1.0 to 8.0) | 4.3±1.0 |
 | Single Dose Food-Effect Study |  |  |  |  |  |
-| ROXYBOND 30 mg tab (fasted) | 287.4±65.8 | 292.7±67.4 | 57.8±18.0 | 1.8a (0.8 to 5.0) | 3.8±0.7 |
-| ROXYBOND 30 mg tab (fed) | 354.2±82.5 | 361.9±86.7 | 68.0±20.1 | 2.0a (1.0 to 6.1) | 3.9±0.6 |
-| a Median (range) |  |  |  |  |  |
+| ROXYBOND 30 mg tab (fasted) | 287.4±65.8 | 292.7±67.4 | 57.8±18.0 | 1.8 a (0.8 to 5.0) | 3.8±0.7 |
+| ROXYBOND 30 mg tab (fed) | 354.2±82.5 | 361.9±86.7 | 68.0±20.1 | 2.0 a (1.0 to 6.1) | 3.9±0.6 |
+| aMedian (range) |  |  |  |  |  |
 
 Absorption
 
 About 60% to 87% of an oral dose of oxycodone reaches the systemic circulation in comparison to a parenteral dose.
 This high oral bioavailability (compared to other oral opioids) is due to lower presystemic and/or first-pass metabolism of oxycodone.
-Dose proportionality of oxycodone has been established using the ROXYBOND 5 mg, 15 mg, and 30 mg tablets based on maximum plasma concentration (Cmax) and extent of absorption (AUC) (Figure 2).
+Dose proportionality of oxycodone has been established using the ROXYBOND 5 mg, 15 mg, and 30 mg tablets based on maximum plasma concentration (C max) and extent of absorption (AUC) (Figure 2).
 It takes approximately 18 to 24 hours to reach steady-state plasma concentrations of oxycodone with oxycodone hydrochloride.
 
 Figure 2.
@@ -92,8 +92,8 @@ Mean Oxycodone Pharmacokinetic Profiles of 5-, 15-, 30-mg ROXYBOND Tablets (n=51
 Food Effect
 
 A single-dose food effect study was conducted in normal volunteers using the 30-mg tablet.
-The concurrent intake of a high fat meal was shown to enhance the extent (23% increase in AUC), and the rate (18% increase in Cmax) of oxycodone absorption from the 30-mg tablet (Table 4).
-In addition, food caused a slight delay in Tmax (1.8 to 2 hours).
+The concurrent intake of a high fat meal was shown to enhance the extent (23% increase in AUC), and the rate (18% increase in C max) of oxycodone absorption from the 30-mg tablet (Table 4).
+In addition, food caused a slight delay in T max(1.8 to 2 hours).
 Similar effects of food are expected with the 5-mg and 15-mg tablets.
 
 Distribution

@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Table 1 includes clinically significant drug interactions with ROXYBOND.
+Table 1includes clinically significant drug interactions with ROXYBOND.
 
 Table 1.
 Clinically Significant Drug Interactions with ROXYBOND

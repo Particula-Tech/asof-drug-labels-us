@@ -26,7 +26,7 @@ Contact local state professional licensing board or state-controlled substances 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
 Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agent, depending on the patient's clinical status [see Overdosage (10)].
-Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+Carbon dioxide (CO 2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of ROXYBOND, the risk is greatest during the initiation of therapy or following a dosage increase.
 
@@ -147,7 +147,7 @@ Avoid use of ROXYBOND in patients with circulatory shock.
 
 ## 5.11 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
-In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), ROXYBOND may reduce the respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+In patients who may be susceptible to the intracranial effects of CO 2retention (e.g., those with evidence of increased intracranial pressure or brain tumors), ROXYBOND may reduce the respiratory drive, and the resultant CO 2retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with ROXYBOND.
 
 Opioids may obscure the clinical course in a patient with a head injury.
