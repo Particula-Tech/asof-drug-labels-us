@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA077629"
+  ],
+  "inn": "citalopram",
+  "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+  "package_ndcs": [
+    "68999-540-10",
+    "68999-540-24"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "citalopram",
+      "name": "Citalopram"
+    }
+  ],
+  "setid": "3114274f-d81f-4b1f-8f17-35db9eee2ffe",
+  "source": "dailymed"
+}
