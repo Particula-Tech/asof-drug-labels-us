@@ -1,4 +1,4 @@
-# Package Inner and Outer Labels
+# PACKAGE INNER AND OUTER LABELS
 
 Outer labels are exterior to the radiation shielding for the product vial and contain the direct labeling information.
 There is an inner label that can be printed and applied in advance to avoid radiation dose to the operators and is small enough to affix to the vial.
@@ -7,14 +7,4 @@ The outer label contains complete package label information and all dose informa
 
 ## 10 mL Vial Outer Label
 
-10 mL Vial Outer Label
-
-## 10 mL Syringe Outer Label
-
-10 mL Syringe Outer Label
-
-## 5 mL Syringe Outer Label
-
-5 mL Syringe Outer Label
-
-## Inner Label, All
+## Inner Label (all)
