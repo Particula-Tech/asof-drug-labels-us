@@ -2,20 +2,18 @@
 
 ## 14.1 Prophylaxis of Organ Rejection in Renal Transplant Patients
 
-Sirolimus Oral Solution
-
-The safety and efficacy of Sirolimus Oral Solution for the prevention of organ rejection following renal transplantation were assessed in two randomized, double-blind, multicenter, controlled trials.
-These studies compared two dose levels of Sirolimus Oral Solution (2 mg and 5 mg, once daily) with azathioprine (Study 1) or placebo (Study 2) when administered in combination with cyclosporine and corticosteroids.
+Sirolimus Oral Solution The safety and efficacy of sirolimus oral solution for the prevention of organ rejection following renal transplantation were assessed in two randomized, double-blind, multicenter, controlled trials.
+These studies compared two dose levels of sirolimus oral solution (2 mg and 5 mg, once daily) with azathioprine (Study 1) or placebo (Study 2) when administered in combination with cyclosporine and corticosteroids.
 Study 1 was conducted in the United States at 38 sites.
-Seven hundred nineteen (719) patients were enrolled in this trial and randomized following transplantation; 284 were randomized to receive Sirolimus Oral Solution 2 mg/day; 274 were randomized to receive Sirolimus Oral Solution 5 mg/day, and 161 to receive azathioprine 2-3 mg/kg/day.
+Seven hundred nineteen (719) patients were enrolled in this trial and randomized following transplantation; 284 were randomized to receive sirolimus oral solution 2 mg/day; 274 were randomized to receive sirolimus oral solution 5 mg/day, and 161 to receive azathioprine 2-3 mg/kg/day.
 Study 2 was conducted in Australia, Canada, Europe, and the United States, at a total of 34 sites.
-Five hundred seventy-six (576) patients were enrolled in this trial and randomized before transplantation; 227 were randomized to receive Sirolimus Oral Solution 2 mg/day; 219 were randomized to receive Sirolimus Oral Solution 5 mg/day, and 130 to receive placebo.
-In both studies, the use of antilymphocyte antibody induction therapy was prohibited.
+Five hundred seventy-six (576) patients were enrolled in this trial and randomized before transplantation; 227 were randomized to receive sirolimus oral solution 2 mg/day; 219 were randomized to receive sirolimus oral solution 5 mg/day, and 130 to receive placebo.
+In both studies, the use of anti-lymphocyte antibody induction therapy was prohibited.
 In both studies, the primary efficacy endpoint was the rate of efficacy failure in the first 6 months after transplantation.
 Efficacy failure was defined as the first occurrence of an acute rejection episode (confirmed by biopsy), graft loss, or death.
 
 The tables below summarize the results of the primary efficacy analyses from these trials.
-Sirolimus Oral Solution, at doses of 2 mg/day and 5 mg/day, significantly reduced the incidence of efficacy failure (statistically significant at the < 0.025 level; nominal significance level adjusted for multiple [2] dose comparisons) at 6 months following transplantation compared with both azathioprine and placebo.
+Sirolimus oral solution, at doses of 2 mg/day and 5 mg/day, significantly reduced the incidence of efficacy failure (statistically significant at the < 0.025 level; nominal significance level adjusted for multiple [2] dose comparisons) at 6 months following transplantation compared with both azathioprine and placebo.
 
 | TABLE 8: INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 24 MONTHS FOR STUDY 1a,b |  |  |  |
 | --- | --- | --- | --- |
@@ -32,7 +30,7 @@ Sirolimus Oral Solution, at doses of 2 mg/day and 5 mg/day, significantly reduce
 | Graft loss | 3.9 | 4.7 | 3.1 |
 | Death | 4.2 | 3.3 | 0 |
 | Lost to follow-up | 1.1 | 0.4 | 0.6 |
-| aPatients received cyclosporine and corticosteroids.bIncludes patients who prematurely discontinued treatment.cPrimary endpoint. |  |  |  |
+| a: Patients received cyclosporine and corticosteroids.b: Includes patients who prematurely discontinued treatment.c: Primary endpoint. |  |  |  |
 
 | TABLE 9: INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 36 MONTHS FOR STUDY 2a,b |  |  |  |
 | --- | --- | --- | --- |
@@ -49,7 +47,7 @@ Sirolimus Oral Solution, at doses of 2 mg/day and 5 mg/day, significantly reduce
 | Graft loss | 6.2 | 7.3 | 4.6 |
 | Death | 5.7 | 5.9 | 5.4 |
 | Lost to follow-up | 0 | 0.9 | 0.8 |
-| aPatients received cyclosporine and corticosteroids.bIncludes patients who prematurely discontinued treatment.cPrimary endpoint. |  |  |  |
+| a: Patients received cyclosporine and corticosteroids.b: Includes patients who prematurely discontinued treatment.c: Primary endpoint. |  |  |  |
 
 Patient and graft survival at 1 year were co-primary endpoints.
 The following table shows graft and patient survival at 1 and 2 years in Study 1, and 1 and 3 years in Study 2.
@@ -72,13 +70,13 @@ The graft and patient survival rates were similar in patients treated with sirol
 | Patient survival |  |  |  |  |
 | Month 12 | 96.5 | 95.0 |  | 94.6 |
 | Month 36 | 90.3 | 89.5 |  | 90.8 |
-| aPatients received cyclosporine and corticosteroids.bIncludes patients who prematurely discontinued treatment. |  |  |  |  |
+| a: Patients received cyclosporine and corticosteroids.b: Includes patients who prematurely discontinued treatment. |  |  |  |  |
 
 The reduction in the incidence of first biopsy-confirmed acute rejection episodes in patients treated with sirolimus compared with the control groups included a reduction in all grades of rejection.
 
-In Study 1, which was prospectively stratified by race within center, efficacy failure was similar for Sirolimus Oral Solution 2 mg/day and lower for Sirolimus Oral Solution 5 mg/day compared with azathioprine in Black patients.
-In Study 2, which was not prospectively stratified by race, efficacy failure was similar for both Sirolimus Oral Solution doses compared with placebo in Black patients.
-The decision to use the higher dose of Sirolimus Oral Solution in Black patients must be weighed against the increased risk of dose-dependent adverse events that were observed with the Sirolimus Oral Solution 5-mg dose [see Adverse Reactions (6.1)].
+In Study 1, which was prospectively stratified by race within center, efficacy failure was similar for sirolimus oral solution 2 mg/day and lower for sirolimus oral solution 5 mg/day compared with azathioprine in Black patients.
+In Study 2, which was not prospectively stratified by race, efficacy failure was similar for both sirolimus oral solution doses compared with placebo in Black patients.
+The decision to use the higher dose of sirolimus oral solution in Black patients must be weighed against the increased risk of dose-dependent adverse events that were observed with the sirolimus oral solution 5-mg dose [see Adverse Reactions (6.1)].
 
 | TABLE 11: PERCENTAGE OF EFFICACY FAILURE BY RACE AT 6 MONTHSa,b |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -89,10 +87,10 @@ The decision to use the higher dose of Sirolimus Oral Solution in Black patients
 | Study 2 |  |  |  |  |
 | Black (n=66) | 30.8 (n=26) | 33.7 (n=27) |  | 38.5 (n=13) |
 | Non-black (n=510) | 29.9 (n=201) | 24.5 (n=192) |  | 48.7 (n=117) |
-| aPatients received cyclosporine and corticosteroids.bIncludes patients who prematurely discontinued treatment. |  |  |  |  |
+| a: Patients received cyclosporine and corticosteroids.b: Includes patients who prematurely discontinued treatment. |  |  |  |  |
 
 Mean glomerular filtration rates (GFR) post-transplant were calculated by using the Nankivell equation at 12 and 24 months for Study 1, and 12 and 36 months for Study 2.
-Mean GFR was lower in patients treated with cyclosporine and Sirolimus Oral Solution compared with those treated with cyclosporine and the respective azathioprine or placebo control.
+Mean GFR was lower in patients treated with cyclosporine and sirolimus oral solution compared with those treated with cyclosporine and the respective azathioprine or placebo control.
 
 | TABLE 12: OVERALL CALCULATED GLOMERULAR FILTRATION RATES(Mean ± SEM, cc/min) BY NANKIVELL EQUATION POST-TRANSPLANTa,b |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -103,7 +101,7 @@ Mean GFR was lower in patients treated with cyclosporine and Sirolimus Oral Solu
 | Study 2 |  |  |  |  |
 | Month 12 | 52.4 ± 1.5(n = 211) | 51.5 ± 1.5(n = 199) |  | 58.0 ± 2.1(n = 117) |
 | Month 36 | 48.1 ± 1.8(n = 183) | 46.1 ± 2.0(n = 177) |  | 53.4 ± 2.7(n = 102) |
-| aIncludes patients who prematurely discontinued treatment.bPatients who had a graft loss were included in the analysis with GFR set to 0.0. |  |  |  |  |
+| a: Includes patients who prematurely discontinued treatment.b: Patients who had a graft loss were included in the analysis with GFR set to 0.0. |  |  |  |  |
 
 Within each treatment group in Studies 1 and 2, mean GFR at one-year post-transplant was lower in patients who experienced at least one episode of biopsy-proven acute rejection, compared with those who did not.
 
@@ -123,7 +121,7 @@ This study compared patients who were administered sirolimus, cyclosporine, and 
 During cyclosporine withdrawal, the sirolimus dosages were adjusted to achieve targeted sirolimus whole blood trough concentration ranges (16 to 24 ng/mL until month 12, then 12 to 20 ng/mL thereafter, expressed as chromatographic assay values).
 At 3 months, 430 patients were equally randomized to either continue sirolimus with cyclosporine therapy or to receive sirolimus as a maintenance regimen following cyclosporine withdrawal.
 
-Eligibility for randomization included no Banff Grade 3 acute rejection or vascular rejection episode in the 4 weeks before random assignment, serum creatinine þ 4.5 mg/dL, and adequate renal function to support cyclosporine withdrawal (in the opinion of the investigator).
+Eligibility for randomization included no Banff Grade 3 acute rejection or vascular rejection episode in the 4 weeks before random assignment, serum creatinine ≤ 4.5 mg/dL, and adequate renal function to support cyclosporine withdrawal (in the opinion of the investigator).
 The primary efficacy endpoint was graft survival at 12 months after transplantation.
 Secondary efficacy endpoints were the rate of biopsy-confirmed acute rejection, patient survival, incidence of efficacy failure (defined as the first occurrence of either biopsy-proven acute rejection, graft loss, or death), and treatment failure (defined as the first occurrence of either discontinuation, acute rejection, graft loss, or death).
 
@@ -141,7 +139,7 @@ At 12, 24, and 36 months, graft and patient survival were similar for both group
 | Month 12 | 97.2 | 98.1 |
 | Month 24 | 94.4 | 95.8 |
 | Month 36d | 91.6 | 94.0 |
-| aIncludes patients who prematurely discontinued treatment.bPrimary efficacy endpoint.cSurvival including loss to follow-up as an event.dInitial planned duration of the study. |  |  |
+| a: Includes patients who prematurely discontinued treatment.b: Primary efficacy endpoint.c: Survival including loss to follow-up as an event.d: Initial planned duration of the study. |  |  |
 
 The following table summarizes the results of first biopsy-proven acute rejection at 12 and 36 months.
 There was a significant difference in first biopsy-proven rejection rates between the two groups after randomization and through 12 months.
@@ -155,7 +153,7 @@ Most of the post-randomization acute rejections occurred in the first 3 months f
 | Post-randomization from 12 to 36 months | 1.4 | 0.5 |
 | Post-randomization through 36 months | 5.6 | 10.2 |
 | Total at 36 months | 14.9 | 20.5 |
-| aIncludes patients who prematurely discontinued treatment.bAll patients received corticosteroids.cRandomization occurred at 3 months ± 2 weeks. |  |  |
+| a: Includes patients who prematurely discontinued treatment.b: All patients received corticosteroids.c: Randomization occurred at 3 months ± 2 weeks. |  |  |
 
 Patients receiving renal allografts with ≥ 4 HLA mismatches experienced significantly higher rates of acute rejection following randomization to the cyclosporine withdrawal group, compared with patients who continued cyclosporine (15.3% versus 3.0%).
 Patients receiving renal allografts with ≤ 3 HLA mismatches demonstrated similar rates of acute rejection between treatment groups (6.8% versus 7.7%) following randomization.
@@ -168,7 +166,7 @@ The following table summarizes the mean calculated GFR in Study 3 (cyclosporine 
 | Month 12Mean ± SEM | 53.2 ± 1.5(n = 208) | 59.3 ± 1.5(n = 203) |
 | Month 24Mean ± SEM | 48.4 ± 1.7(n = 203) | 58.4 ± 1.6(n = 201) |
 | Month 36Mean ± SEM | 47.0 ± 1.8(n = 196) | 58.5 ± 1.9(n = 199) |
-| aIncludes patients who prematurely discontinued treatment.bPatients who had a graft loss were included in the analysis and had their GFR set to 0.0.cAll patients received corticosteroids. |  |  |
+| a: Includes patients who prematurely discontinued treatment.b: Patients who had a graft loss were included in the analysis and had their GFR set to 0.0.c: All patients received corticosteroids. |  |  |
 
 The mean GFR at 12, 24, and 36 months, calculated by the Nankivell equation, was significantly higher for patients receiving sirolimus as a maintenance regimen following cyclosporine withdrawal than for those in the sirolimus with cyclosporine therapy group.
 Patients who had an acute rejection prior to randomization had a significantly higher GFR following cyclosporine withdrawal compared to those in the sirolimus with cyclosporine group.
@@ -196,12 +194,12 @@ The table below summarizes the result of these endpoints.
 | Efficacy Failure (%) | 23.2 |
 | Graft Loss or Death (%) | 9.8 |
 | Renal function (mean ± SEM)a,b | 52.6 ± 1.6 (n=222) |
-| aCalculated glomerular filtration rate by Nankivell equation.bPatients who had graft loss were included in this analysis with GFR set to 0. |  |
+| a:Calculated glomerular filtration rate by Nankivell equation.b:Patients who had graft loss were included in this analysis with GFR set to 0. |  |
 
 Patient survival at 12 months was 94.6%.
 The incidence of biopsy-confirmed acute rejection was 17.4% and the majority of the episodes of acute rejection were mild in severity.
 
-## 14.4 Conversion from Calcineurin Inhibitors to Sirolimus in Maintenance Renal Transplant Patients
+## 14.4 Conversion from Calcineurin Inhibitors to sirolimus in Maintenance Renal Transplant Patients
 
 Conversion from calcineurin inhibitors (CNI) to sirolimus was assessed in maintenance renal transplant patients 6 months to 10 years post-transplant (Study 5).
 This study was a randomized, multicenter, controlled trial conducted at 111 centers globally, including US and Europe, and was intended to show that renal function was improved by conversion from CNI to sirolimus.
@@ -271,3 +269,19 @@ The cumulative incidence of efficacy failure up to 36 months was 45.3% in the si
 There was one death in each group.
 The use of sirolimus in combination with calcineurin inhibitors and corticosteroids was associated with an increased risk of deterioration of renal function, serum lipid abnormalities (including, but not limited to, increased serum triglycerides and cholesterol), and urinary tract infections [see Warnings and Precautions (5.8)].
 This study does not support the addition of sirolimus to calcineurin-inhibitor-based immunosuppressive therapy in this subpopulation of pediatric renal transplant patients.
+
+## 14.7 Lymphangioleiomyomatosis Patients
+
+The safety and efficacy of sirolimus for treatment of lymphangioleiomyomatosis (LAM) were assessed in a randomized, double-blind, multicenter, controlled trial.
+This study compared sirolimus (dose-adjusted to maintain blood trough concentrations between 5-15 ng/mL) with placebo for a 12-month treatment period, followed by a 12-month observation period.
+Eighty-nine (89) patients were enrolled; 43 patients were randomized to receive placebo and 46 patients to receive sirolimus.
+The primary endpoint was the difference between the groups in the rate of change (slope) per month in forced expiratory volume in 1 second (FEV1).
+During the treatment period, the FEV1 slope was -12±2 mL per month in the placebo group and 1±2 mL per month in the sirolimus group (treatment difference = 13 mL (95% CI: 7, 18).
+The absolute between-group difference in the mean change in FEV1 during the 12-month treatment period was 153 mL, or approximately 11% of the mean FEV1 at enrollment.
+Similar improvements were seen for forced vital capacity (FVC).
+After discontinuation of sirolimus, the decline in lung function resumed in the sirolimus group and paralleled that in the placebo group (see Figure 1).
+
+FIGURE 1: CHANGE IN FORCED EXPIRATORY VOLUME IN 1 SECOND (FEV1) DURING THE TREATMENT AND OBSERVATION PHASES OF THE STUDY IN LAM PATIENTS
+
+The rate of change over 12 months of vascular endothelial growth factor-D (VEGF-D), a lymphangiogenic growth factor which has been shown to be elevated in patients with LAM, was significantly different in the sirolimus-treated group (-88.0 ± 16.6 pg/mL/month) compared to placebo (-2.42 ± 17.2 pg/mL/month) with a treatment difference of -86 pg/mL/month (95% CI: -133, -39).
+The absolute between-group difference in the mean change in VEGF-D during the 12-month treatment period was -1017.2, or approximately 50% of the mean VEGF-D at enrollment.

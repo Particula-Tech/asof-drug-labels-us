@@ -18,4 +18,8 @@ In pediatric patients, the safety and efficacy of Sirolimus Oral Solution have n
 
 The safety and efficacy of de novo use of Sirolimus Oral Solution without cyclosporine have not been established in renal transplant patients [see Warnings and Precautions (5.12)].
 
-The safety and efficacy of conversion from calcineurin inhibitors to Sirolimus Oral Solution in maintenance renal transplantpatients have not been established [see Clinical Studies (14.4)].
+The safety and efficacy of conversion from calcineurin inhibitors to Sirolimus Oral Solution in maintenance renal transplant patients have not been established [see Clinical Studies (14.4)].
+
+## 1.3 Treatment of Patients with Lymphangioleiomyomatosis
+
+Sirolimus is indicated for the treatment of patients with lymphangioleiomyomatosis (LAM).

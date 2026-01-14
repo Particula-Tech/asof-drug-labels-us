@@ -19,7 +19,10 @@ The following adverse reactions are discussed in greater detail in other section
 
 The most common (≥ 30%) adverse reactions observed with sirolimus in clinical studies for organ rejection prophylaxis in recipients of renal transplantation are: peripheral edema, hypertriglyceridemia, hypertension, hypercholesterolemia, creatinine increased, constipation, abdominal pain, diarrhea, headache, fever, urinary tract infection, anemia, nausea, arthralgia, pain, and thrombocytopenia.
 
+The most common (≥20%) adverse reactions observed with sirolimus in the clinical study for the treatment of LAM are: stomatitis, diarrhea, abdominal pain, nausea, nasopharyngitis, acne, chest pain, peripheral edema, upper respiratory tract infection, headache, dizziness, myalgia, and hypercholesterolemia.
+
 The following adverse reactions resulted in a rate of discontinuation of > 5% in clinical trials for renal transplant rejection prophylaxis: creatinine increased, hypertriglyceridemia, and TTP.
+In patients with LAM, 11% of subjects discontinued due to adverse reactions, with no single adverse reaction leading to discontinuation in more than one patient being treated with sirolimus.
 
 ## 6.1 Clinical Studies Experience in Prophylaxis of Organ Rejection Following Renal Transplantation
 
@@ -62,7 +65,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 | Acne | 22 | 22 | 19 |
 | Rash | 10 | 20 | 6 |
 | Edema | 20 | 18 | 15 |
-| aPatients received cyclosporine and corticosteroids. |  |  |  |
+| a: Patients received cyclosporine and corticosteroids. |  |  |  |
 
 The following adverse reactions were reported less frequently (≥ 3%, but < 20%)
 
@@ -110,7 +113,7 @@ At 24 months (Study 1) and 36 months (Study 2) post-transplant, there were no si
 | Miscellaneous/Not Specified | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.8 |
 | Total | 1.1 | 4.4 | 3.3 | 4.1 | 4.3 | 7.7 |
 | Other Malignancy | 1.1 | 2.2 | 1.5 | 1.4 | 0.6 | 2.3 |
-| aPatients received cyclosporine and corticosteroids.bIncludes patients who prematurely discontinued treatment.cPatients may be counted in more than one category. |  |  |  |  |  |  |
+| a: Patients received cyclosporine and corticosteroids.b: Includes patients who prematurely discontinued treatment.c: Patients may be counted in more than one category. |  |  |  |  |  |  |
 
 ## 6.2 Sirolimus Following Cyclosporine Withdrawal
 
@@ -138,11 +141,11 @@ In addition, more patients in the sirolimus with cyclosporine group had a pre-tr
 | Skin Carcinoma |  |  |  |
 | Any Squamous Cellc | 3.2 | 3.3 | 2.3 |
 | Any Basal Cellc | 3.2 | 6.5 | 2.3 |
-| Melanoma | 0 | 0.5 | 0 |
-| Miscellaneous/Not Specified | 1.1 | 0.9 | 0 |
+| Melanoma | 0.0 | 0.5 | 0.0 |
+| Miscellaneous/Not Specified | 1.1 | 0.9 | 0.0 |
 | Total | 4.2 | 7.9 | 3.7 |
 | Other Malignancy | 3.2 | 3.3 | 1.9 |
-| aPatients received cyclosporine and corticosteroids.bIncludes patients who prematurely discontinued treatment.cPatients may be counted in more than one category. |  |  |  |
+| a:Patients received cyclosporine and corticosteroids.b:Includes patients who prematurely discontinued treatment.c:Patients may be counted in more than one category. |  |  |  |
 
 ## 6.3 High-Immunologic Risk Renal Transplant Patients
 
@@ -171,6 +174,12 @@ There was also no benefit with respect to renal function and a greater incidence
 Safety was assessed in a controlled clinical trial in pediatric (< 18 years of age) renal transplant patients considered at high-immunologic risk, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy [see Clinical Studies (14.6)].
 The use of sirolimus in combination with calcineurin inhibitors and corticosteroids was associated with a higher incidence of deterioration of renal function (creatinine increased) compared to calcineurin inhibitor-based therapy, serum lipid abnormalities (including, but not limited to, increased serum triglycerides and cholesterol), and urinary tract infections.
 
+## 6.6 Patients with Lymphangioleiomyomatosis
+
+Safety was assessed in a controlled trial involving 89 patients with lymphangioleiomyomatosis, 46 of whom were treated with sirolimus [see Clinical Studies (14.7)].
+The adverse drug reactions observed in this trial were consistent with the known safety profile for renal transplant patients receiving sirolimus, with the addition of weight decreased which was reported at a greater incidence with sirolimus when compared to placebo.
+Adverse reactions occurring at a frequency of ≥20% in the sirolimus treatment group and greater than placebo include stomatitis, diarrhea, abdominal pain, nausea, nasopharyngitis, acne, chest pain, peripheral edema, upper respiratory tract infection, headache, dizziness, myalgia, and hypercholesterolemia.
+
 ## 6.7 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of sirolimus in transplant patients.
@@ -192,6 +201,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Respiratory – Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including sirolimus.
   In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of sirolimus.
   The risk may be increased as the sirolimus trough concentration increases [see Warnings and Precautions (5.11)]; pulmonary hemorrhage; pleural effusion; alveolar proteinosis.
-- Skin – Neuroendocrine carcinoma of the skin (Merkel cell carcinoma) [see Warnings and Precautions (5.17)], exfoliative dermatitis [see Warnings and Precautions (5.4)].
+- Skin – Neuroendocrine carcinoma of the skin (Merkel cell carcinoma) [see Warnings and Precautions (5.18)], exfoliative dermatitis [see Warnings and Precautions (5.4)].
 - Urogenital – Nephrotic syndrome, proteinuria, focal segmental glomerulosclerosis, ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
   Azoospermia has been reported with the use of sirolimus and has been reversible upon discontinuation of sirolimus in most cases.

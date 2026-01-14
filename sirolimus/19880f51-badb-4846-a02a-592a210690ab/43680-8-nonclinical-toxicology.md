@@ -1,9 +1,9 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis and Mutagenesis and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenicity studies were conducted in mice and rats.
-In an 86-week female mouse study at sirolimus doses 30 to 120 timeshigher than the 2 mg daily clinical dose (adjusted for body surface area), there was a statistically significant increase in malignant lymphoma at all dose levels compared with controls.
+In an 86-week female mouse study at sirolimus doses 30 to 120 times higher than the 2 mg daily clinical dose (adjusted for body surface area), there was a statistically significant increase in malignant lymphoma at all dose levels compared with controls.
 In a second mouse study at dosages that were approximately 3 to 16 times the clinical dose (adjusted for body surface area), hepatocellular adenoma and carcinoma in males were considered sirolimus-related.
 In the 104-week rat study at dosages equal to or lower than the clinical dose of 2 mg daily (adjusted for body surface area), there were no significant findings.
 

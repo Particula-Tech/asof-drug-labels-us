@@ -36,6 +36,9 @@ Your doctor will decide:
 
 It is not known if sirolimus is safe and effective in children under 13 years of age.
 
+Sirolimus is a prescription medicine also used to treat lymphangioleiomyomatosis (LAM).
+LAM is a rare progressive lung disease that affects predominantly women of childbearing age.
+
 Who should not take sirolimus?
 
 Do not take Sirolimus Oral Solution if you are allergic to sirolimus or any of the other ingredients in Sirolimus Oral Solution.
@@ -55,7 +58,7 @@ Before taking sirolimus, tell your doctor if you:
   Talk with your doctor about what birth control method is right for you during this time.
   Tell your doctor right away if you become pregnant or think you are pregnant during treatment with sirolimus or within 12 weeks after your final dose of sirolimus.
 - It is not known whether sirolimus passes into breast milk; however there is a risk of serious side effects in breastfed infants.
-  You and your doctor should decide about the best way to feed your baby if you take Sirolimus.
+  You and your doctor should decide about the best way to feed your baby if you take sirolimus.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Using sirolimus with certain medicines may affect each other causing serious side effects.
@@ -72,8 +75,10 @@ Especially tell your doctor if you take:
 - medicines used to treat stomach acid, ulcers, or other gastrointestinal problems
 - bromocriptine mesylate (Parlodel, Cycloset)
 - danazol
+- letermovir (Prevymis)
 - medicines to treat HIV or hepatitis C
 - St. John’s Wort
+- cannabidiol (Epidiolex)
 
 How should I take sirolimus?
 
@@ -149,8 +154,8 @@ Sirolimus may cause serious side effects, including:
   Tell your doctor if you get any unexplained bleeding or bruising.
 - Possible harm to your unborn baby.
   Sirolimus can harm your unborn baby.
-  You should not become pregnant during treatment with Sirolimus and for 12 weeks after ending treatment with Sirolimus.
-  See "What should I tell my doctor before taking Sirolimus?".
+  You should not become pregnant during treatment with sirolimus and for 12 weeks after ending treatment with sirolimus.
+  See "What should I tell my doctor before taking sirolimus?".
 
 The most common side effects of sirolimus in people with renal transplant include:
 
@@ -164,6 +169,20 @@ The most common side effects of sirolimus in people with renal transplant includ
 - nausea
 - low platelet count (cells that help blood to clot)
 - high blood sugar (diabetes)
+
+The most common side effects of sirolimus in people with LAM include:
+
+- mouth sores
+- chest pain
+- diarrhea
+- upper respiratory tract infection
+- stomach pain
+- headache
+- nausea
+- dizziness
+- sore throat
+- sore muscles
+- acne
 
 Other side effects that may occur with sirolimus:
 

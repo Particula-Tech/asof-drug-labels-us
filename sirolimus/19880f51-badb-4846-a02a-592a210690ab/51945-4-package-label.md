@@ -14,7 +14,7 @@ Also contains a mixture of propylene glycol and phosphatidylcholine derived from
 
 Pharmacist: Dispense the Medication Guide provided separately to each patient
 
-VistaPharm
+VistaPharm A PAI Pharma Company
 
 Rx Only
 
@@ -38,11 +38,11 @@ Also contains a mixture of propylene glycol and phosphatidylcholine derived from
 
 Pharmacist: Dispense the Medication Guide provided separately to each patient
 
-VistaPharm
+VistaPharm A PAI Pharma Company
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL -Patient Kit
+# PRINCIPAL DISPLAY PANEL - Patient Kit
 
 NDC 66689-347-02
 
@@ -62,6 +62,6 @@ Also contains a mixture of propylene glycol and phosphatidylcholine derived from
 
 Pharmacist: Dispense the Medication Guide provided separately to each patient
 
-VistaPharm
+VistaPharm A PAI Pharma Company
 
 Rx Only
