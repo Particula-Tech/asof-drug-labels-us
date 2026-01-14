@@ -16,13 +16,17 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Fetal/neonatal adverse reactions Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Fetal/neonatal adverse reactions
+
+Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
 Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
 
-Labor and Delivery Opioids cross the placenta and may produce respiratory depression in neonates.
-An opioid antagonist such as naloxone must be available for reversal of opioid-induced respiratory depression in the neonate.
+Labor and Delivery
+
+Opioids cross the placenta and may produce respiratory depression and psychophysiologic effects in neonates.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 BUTRANS is not recommended for use in women immediately prior to labor, when shorter acting analgesics or other analgesic techniques are more appropriate.
 Opioid analgesics, including BUTRANS, can prolong labor through actions that temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.
@@ -59,7 +63,7 @@ Withdrawal symptoms can occur in breastfed infants when maternal administration 
 Infertility
 
 Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Preclinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -72,7 +76,7 @@ However, definitive conclusions are not possible because of the small sample siz
 Of the total number of subjects in the clinical trials (5,415), BUTRANS was administered to 1,377 patients aged 65 years and older.
 Of those, 457 patients were 75 years of age and older.
 In the clinical program, the incidences of selected BUTRANS-related AEs were higher in older subjects.
-The incidences of application site AEs were slightly higher among subjects < 65 years of age than those ≥ 65 years of age for both BUTRANS and placebo treatment groups.
+The incidences of application site AEs were slightly higher among subjects <65 years of age than those ≥65 years of age for both BUTRANS and placebo treatment groups.
 
 In a single-dose study of healthy elderly and healthy young subjects treated with BUTRANS 10 mcg/hour, the pharmacokinetics were similar.
 In a separate dose-escalation safety study, the pharmacokinetics in the healthy elderly and hypertensive elderly subjects taking thiazide diuretics were similar to those in the healthy young adults.

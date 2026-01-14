@@ -16,40 +16,56 @@ Buprenorphine causes miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
 Marked mydriasis rather than miosis may be seen with worsening hypoxia in overdose situations.
 
-Effects on the Gastrointestinal Tract and Other Smooth Muscle Buprenorphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
+Effects on the Gastrointestinal Tract and Other Smooth Muscle
+
+Buprenorphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
-Effects on the Cardiovascular System Buprenorphine produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
+Effects on the Cardiovascular System
+
+Buprenorphine produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
 Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
 
-Effects on Cardiac Electrophysiology The effect of BUTRANS 10 mcg/hour and 2 x BUTRANS 20 mcg/hour on QTc interval was evaluated in a double-blind (BUTRANS vs. placebo), randomized, placebo and active-controlled (moxifloxacin 400 mg, open label), parallel-group, dose-escalating, single-dose study in 132 healthy male and female subjects aged 18 to 55 years.
+Effects on Cardiac Electrophysiology
+
+The effect of BUTRANS 10 mcg/hour and 2 x BUTRANS 20 mcg/hour on QTc interval was evaluated in a double-blind (BUTRANS vs. placebo), randomized, placebo and active-controlled (moxifloxacin 400 mg, open label), parallel-group, dose-escalating, single-dose study in 132 healthy male and female subjects aged 18 to 55 years.
 The dose escalation sequence for BUTRANS during the titration period was: BUTRANS 5 mcg/hour for 3 days, then BUTRANS 10 mcg/hour for 3 days, then BUTRANS 20 mcg/hour for 3 days, then 2 x BUTRANS 20 mcg/hour for 4 days.
 The QTc evaluation was performed during the third day of BUTRANS 10 mcg/hour and the fourth day of 2 x BUTRANS 20 mcg/hour when the plasma levels of buprenorphine were at steady state for the corresponding doses [see Warnings and Precautions (5.17)].
 
 There was no clinically meaningful effect on mean QTc with a BUTRANS dose of 10 mcg/hour.
 A BUTRANS dose of 40 mcg/hour (given as two 20 mcg/hour BUTRANS Transdermal Systems) prolonged mean QTc by a maximum of 9.2 (90% CI: 5.2-13.3) msec across the 13 assessment time points.
 
-Effects on the Endocrine System Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
+Effects on the Endocrine System
+
+Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
 Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
-Effects on the Immune System Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
+Effects on the Immune System
+
+Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-Concentration–Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
+Concentration–Efficacy Relationships
+
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
 The minimum effective analgesic concentration of buprenorphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.4)].
 
-Concentration–Adverse Reaction Relationships There is a relationship between increasing buprenorphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
+Concentration–Adverse Reaction Relationships
+
+There is a relationship between increasing buprenorphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
 In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3, 2.4)].
 
 ## 12.3 Pharmacokinetics
 
-Absorption Each BUTRANS system provides delivery of buprenorphine for 7 days.
+Absorption
+
+Each BUTRANS system provides delivery of buprenorphine for 7 days.
 Steady state was achieved during the first application by Day 3 (see Figure 2).
 
 Figure 2 Mean (SD) Buprenorphine Plasma Concentrations Following Three Consecutive Applications of BUTRANS 10 mcg/hour (N = 36 Healthy Subjects)
@@ -73,11 +89,15 @@ In clinical pharmacology studies, the median time for BUTRANS 10 mcg/hour to del
 
 The absolute bioavailability of BUTRANS relative to IV administration, following a 7-day application, is approximately 15% for all doses (BUTRANS 5, 10, and 20 mcg/hour).
 
-Effects of Application Site A study in healthy subjects demonstrated that the pharmacokinetic profile of buprenorphine delivered by BUTRANS 10 mcg/hour is similar when applied to the upper outer arm, upper chest, upper back, or the side of the chest [see Dosage and Administration (2.7)].
+Effects of Application Site
+
+A study in healthy subjects demonstrated that the pharmacokinetic profile of buprenorphine delivered by BUTRANS 10 mcg/hour is similar when applied to the upper outer arm, upper chest, upper back, or the side of the chest [see Dosage and Administration (2.7)].
 
 The reapplication of BUTRANS 10 mcg/hour after various rest periods to the same application site in healthy subjects showed that the minimum rest period needed to avoid variability in drug absorption is 3 weeks (21 days) [see Dosage and Administration (2.7)].
 
-Effects of Heat In a study of healthy subjects, application of a heating pad directly on the BUTRANS 10 mcg/hour system caused a 26% - 55% increase in blood concentrations of buprenorphine.
+Effects of Heat
+
+In a study of healthy subjects, application of a heating pad directly on the BUTRANS 10 mcg/hour system caused a 26% - 55% increase in blood concentrations of buprenorphine.
 Concentrations returned to normal within 5 hours after the heat was removed.
 For this reason, instruct patients not to apply heating pads directly to the BUTRANS system during system wear [see Warnings and Precautions (5.6)].
 
@@ -86,7 +106,9 @@ As a result, febrile patients are at increased risk for the possibility of BUTRA
 Monitor patients with febrile illness for adverse effects and consider dose adjustment [see Warnings and Precautions (5.7)].
 In a crossover study of healthy subjects receiving endotoxin or placebo challenge during BUTRANS 10 mcg/hour wear, the AUC and Cmax were similar despite a physiologic response of mild fever to endotoxin.
 
-Distribution Buprenorphine is approximately 96% bound to plasma proteins, mainly to alpha- and beta-globulin.
+Distribution
+
+Buprenorphine is approximately 96% bound to plasma proteins, mainly to alpha- and beta-globulin.
 
 Studies of IV buprenorphine have shown a large volume of distribution (approximately 430 L), implying extensive distribution of buprenorphine.
 
@@ -94,7 +116,9 @@ CSF buprenorphine concentrations appear to be approximately 15-25% of concurrent
 
 Elimination
 
-Metabolism Buprenorphine metabolism in the skin following BUTRANS application is negligible.
+Metabolism
+
+Buprenorphine metabolism in the skin following BUTRANS application is negligible.
 
 Buprenorphine primarily undergoes N-dealkylation by CYP3A4 to norbuprenorphine and glucuronidation by UGT-isoenzymes (mainly UGT1A1 and 2B7) to buprenorphine 3β-O-glucuronide.
 Norbuprenorphine, the major metabolite, is also glucuronidated (mainly UGT1A3) prior to excretion.
@@ -102,7 +126,9 @@ Norbuprenorphine, the major metabolite, is also glucuronidated (mainly UGT1A3) p
 Norbuprenorphine is the only known active metabolite of buprenorphine.
 It has been shown to be a respiratory depressant in rats, but only at concentrations at least 50-fold greater than those observed following application to humans of BUTRANS 20 mcg/hour.
 
-Excretion Following IV administration, buprenorphine and its metabolites are secreted into bile and excreted in urine.
+Excretion
+
+Following IV administration, buprenorphine and its metabolites are secreted into bile and excreted in urine.
 
 Following intramuscular administration of 2 mcg/kg dose of buprenorphine, approximately 70% of the dose was excreted in feces within 7 days.
 Approximately 27% was excreted in urine.
@@ -110,12 +136,13 @@ Approximately 27% was excreted in urine.
 Following transdermal application, buprenorphine is eliminated via hepatic metabolism, with subsequent biliary excretion and renal excretion of soluble metabolites.
 After removal of BUTRANS, mean buprenorphine concentrations decrease approximately 50% within 10-24 hours, followed by decline with an apparent terminal half-life of approximately 26 hours.
 Since metabolism and excretion of buprenorphine occur mainly via hepatic elimination, reductions in hepatic blood flow induced by some general anesthetics (e.g., halothane) and other drugs may result in a decreased rate of hepatic elimination of the drug, leading to increased plasma concentrations.
-
 The total clearance of buprenorphine is approximately 55 L/hour in postoperative patients.
 
 Drug Interaction Studies
 
-Effect of CYP3A4 inhibitors In a drug-drug interaction study, BUTRANS 10 mcg/hour (single dose x 7 days) was co-administered with 200 mg ketoconazole, a strong CYP3A4 inhibitor or ketoconazole placebo twice daily for 11 days and the pharmacokinetics of buprenorphine and its metabolites were evaluated.
+Effect of CYP3A4 Inhibitors
+
+In a drug-drug interaction study, BUTRANS 10 mcg/hour (single dose x 7 days) was co-administered with 200 mg ketoconazole, a strong CYP3A4 inhibitor or ketoconazole placebo twice daily for 11 days and the pharmacokinetics of buprenorphine and its metabolites were evaluated.
 Plasma buprenorphine concentrations did not accumulate during co-medication with ketoconazole 200 mg twice daily.
 Based on the results from this study, metabolism during therapy with BUTRANS is not expected to be affected by co-administration of CYP3A4 inhibitors [see Drug Interactions (7)].
 
@@ -127,25 +154,35 @@ Patients in this study reported increased sedation, and symptoms of opiate exces
 It should be noted that atazanavir is both a CYP3A4 and UGT1A1 inhibitor.
 As such, the drug-drug interaction potential for buprenorphine with CYP3A4 inhibitors is likely to be dependent on the route of administration as well as the specificity of enzyme inhibition [see Drug Interactions (7)].
 
-Effect of CYP3A4 Inducers The interaction between buprenorphine and CYP3A4 inducers has not been studied.
+Effect of CYP3A4 Inducers
+
+The interaction between buprenorphine and CYP3A4 inducers has not been studied.
 
 Specific Populations
 
-Age: Geriatric Patients Following a single application of BUTRANS 10 mcg/hour to 12 healthy young adults (mean age 32 years) and 12 healthy elderly subjects (mean age 72 years), the pharmacokinetic profile of BUTRANS was similar in healthy elderly and healthy young adult subjects, though the elderly subjects showed a trend toward higher plasma concentrations immediately after BUTRANS removal.
+Age: Geriatric Patients
+
+Following a single application of BUTRANS 10 mcg/hour to 12 healthy young adults (mean age 32 years) and 12 healthy elderly subjects (mean age 72 years), the pharmacokinetic profile of BUTRANS was similar in healthy elderly and healthy young adult subjects, though the elderly subjects showed a trend toward higher plasma concentrations immediately after BUTRANS removal.
 Both groups eliminated buprenorphine at similar rates after system removal [see Use in Specific Populations (8.5)].
 
 In a study of healthy young subjects, healthy elderly subjects, and elderly subjects treated with thiazide diuretics, BUTRANS at a fixed dose-escalation schedule (BUTRANS 5 mcg/hour for 3 days, followed by BUTRANS 10 mcg/hour for 3 days and BUTRANS 20 mcg/hour for 7 days) produced similar mean plasma concentration vs. time profiles for each of the three subject groups.
 There were no significant differences between groups in buprenorphine Cmax or AUC [see Use in Specific Populations (8.5)].
 
-Sex In a pooled data analysis utilizing data from several studies that administered BUTRANS 10 mcg/hour to healthy subjects, no differences in buprenorphine Cmax and AUC or body-weight normalized Cmax and AUC were observed between males and females treated with BUTRANS.
+Sex
 
-Hepatic Impairment The pharmacokinetics of buprenorphine following an IV infusion of 0.3 mg of buprenorphine were compared in 8 patients with mild impairment (Child-Pugh A), 4 patients with moderate impairment (Child-Pugh B) and 12 subjects with normal hepatic function.
+In a pooled data analysis utilizing data from several studies that administered BUTRANS 10 mcg/hour to healthy subjects, no differences in buprenorphine Cmax and AUC or body-weight normalized Cmax and AUC were observed between males and females treated with BUTRANS.
+
+Hepatic Impairment
+
+The pharmacokinetics of buprenorphine following an IV infusion of 0.3 mg of buprenorphine were compared in 8 patients with mild impairment (Child-Pugh A), 4 patients with moderate impairment (Child-Pugh B) and 12 subjects with normal hepatic function.
 Buprenorphine and norbuprenorphine exposure did not increase in the mild and moderate hepatic impairment patients.
 
 BUTRANS has not been evaluated in patients with severe (Child-Pugh C) hepatic impairment.
 [see Warnings and Precautions (5.14), Use in Specific Populations (8.6)].
 
-Renal Impairment No studies in patients with renal impairment have been performed with BUTRANS.
+Renal Impairment
+
+No studies in patients with renal impairment have been performed with BUTRANS.
 
 In an independent study, the effect of impaired renal function on buprenorphine pharmacokinetics after IV bolus and after continuous IV infusion administrations was evaluated.
 It was found that plasma buprenorphine concentrations were similar in patients with normal renal function and in patients with impaired renal function or renal failure.

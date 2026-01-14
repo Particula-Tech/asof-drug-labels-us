@@ -1,10 +1,12 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of BUTRANS has been evaluated in four 12-week double-blind, controlled clinical trials in opioid-naïve and opioid-experienced patients with moderate to severe chronic low back pain or osteoarthritis using pain scores as the primary efficacy variable.
+The efficacy of BUTRANS has been evaluated in four 12-week double-blind, controlled clinical trials in patients who were not opioid tolerant and opioid-experienced patients with moderate to severe chronic low back pain or osteoarthritis using pain scores as the primary efficacy variable.
 Two of these studies, described below, demonstrated efficacy in patients with low back pain.
 One study in low back pain and one study in osteoarthritis did not show a statistically significant pain reduction for either BUTRANS or the respective active comparators.
 
-12-Week Study in Opioid-Naïve Patients with Chronic Low Back Pain A total of 1,024 patients with chronic low back pain who were suboptimally responsive to their non-opioid therapy entered an open-label, dose-titration period for up to four weeks.
+12-Week Study in Patients who were not Opioid Tolerant with Chronic Low Back Pain
+
+A total of 1,024 patients with chronic low back pain who were suboptimally responsive to their non-opioid therapy entered an open-label, dose-titration period for up to four weeks.
 Patients initiated therapy with three days of treatment with BUTRANS 5 mcg/hour.
 After three days, if adverse events were tolerated, the dose was increased to BUTRANS 10 mcg/hour.
 If adverse effects were tolerated but adequate analgesia was not reached, the dose was increased to BUTRANS 20 mcg/hour for an additional 10-12 days.
@@ -26,7 +28,9 @@ The proportion of patients with various degrees of improvement, from screening t
 
 Figure 3: Percent Reduction in Pain Intensity
 
-12-Week Study in Opioid-Experienced Patients with Chronic Low Back Pain One thousand one hundred and sixty (1,160) patients on chronic opioid therapy (total daily dose 30-80 mg morphine equivalent) entered an open-label, dose-titration period with BUTRANS for up to 3 weeks, following taper of prior opioids.
+12-Week Study in Opioid-Experienced Patients with Chronic Low Back Pain
+
+One thousand one hundred and sixty (1,160) patients on chronic opioid therapy (total daily dose 30-80 mg morphine equivalent) entered an open-label, dose-titration period with BUTRANS for up to 3 weeks, following taper of prior opioids.
 Patients initiated therapy with BUTRANS 10 mcg/hour for three days.
 After three days, if the patient tolerated the adverse effects, the dose was increased to BUTRANS 20 mcg/hour for up to 18 days.
 Patients with adequate analgesia and tolerable adverse effects on BUTRANS 20 mcg/hour were randomized to remain on BUTRANS 20 mcg/hour or were switched to a low-dose control (BUTRANS 5 mcg/hour) or an active control.
