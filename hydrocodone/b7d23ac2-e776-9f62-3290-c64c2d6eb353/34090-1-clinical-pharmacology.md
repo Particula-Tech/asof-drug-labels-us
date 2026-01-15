@@ -33,7 +33,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Hydrocodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System
 
@@ -68,7 +68,7 @@ In opioid-tolerant patients, the situation may be altered by the development of 
 Absorption
 
 HYSINGLA ER is a single-entity extended-release formulation of hydrocodone that yields a gradual increase in plasma hydrocodone concentrations with a median Tmax of 14 – 16 hours noted for different dose strengths.
-Peak plasma levels may occur in the range of 6 -30 hours after single dose HYSINGLA ER administration.
+Peak plasma levels may occur in the range of 6 -30 hours after single-dose HYSINGLA ER administration.
 
 Systemic exposure (AUC and Cmax) increased linearly with doses from 20 to 120 mg.
 Both Cmax and AUC increased slightly more than dose proportionally (Table 6).
@@ -86,8 +86,7 @@ Table 6 Mean (SD) Single-Dose Pharmacokinetic Parameters of HYSINGLA ER
 
 As compared to an immediate-release hydrocodone combination product, HYSINGLA ER at the same daily dose results in similar bioavailability but with lower maximum concentrations at steady state (Figure 3).
 
-Figure 3.
-Mean Steady-State Plasma Hydrocodone Concentration Profile
+Figure 3: Mean Steady-State Plasma Hydrocodone Concentration Profile
 
 Steady-state plasma hydrocodone concentrations were confirmed on day 3 of once-daily dosing of HYSINGLA ER.
 The extent of accumulation of systemic exposure was 1.3 and 1.1 fold with respect to AUC and Cmax at steady-state.
@@ -95,7 +94,8 @@ The mean terminal half-life (t1/2) at steady state was 7 hours.
 Median Tmax values were 14 hours (range: 12 to 24 hours) on both Day 1 and Day 5 following once daily administration of HYSINGLA ER for five days.
 Daily fluctuation in peak to trough plasma levels of hydrocodone were higher at 80 mg and 120 mg doses of HYSINGLA ER compared to 30 mg dose (Table 7).
 
-Table 7 Mean (SD) Steady-State Hydrocodone Pharmacokinetic Parameters
+Table 7.
+Mean (SD) Steady-State Hydrocodone Pharmacokinetic Parameters
 
 | Regimen | AUC24,ss (ng∙h/mL) | Cmax,ss (ng/mL) | Cmin,ss (ng/mL) | %FluctuationMean (minimum, maximum); Percentage fluctuation in plasma concentration is derived as (Cmax,ss – Cmin, ss)*100/Cavg,ss. |
 | --- | --- | --- | --- | --- |

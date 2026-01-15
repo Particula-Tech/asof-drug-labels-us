@@ -122,8 +122,7 @@ Approximately 80% (n = 28) of subjects had some reduction in drug liking with ch
 Approximately 69% (n = 24) of subjects had a reduction of at least 30% in drug liking with chewed HYSINGLA ER compared with hydrocodone solution, and approximately 60% (n = 21) of subjects had a reduction of at least 50% in drug liking with chewed HYSINGLA ER compared with hydrocodone solution.
 Approximately 20% (n = 7) of subjects had no reduction in drug liking with chewed HYSINGLA ER relative to hydrocodone solution.
 
-Figure 2.
-Percent Reduction Profiles for Emax of Drug Liking VAS for Chewed HYSINGLA ER vs. Hydrocodone Solution, N = 35 Following Oral Administration
+Figure 2: Percent Reduction Profiles for Emax of Drug Liking VAS for Chewed HYSINGLA ER vs. Hydrocodone Solution, N = 35 Following Oral Administration
 
 The results of a similar analysis of drug liking for intact HYSINGLA ER relative to hydrocodone solution were comparable to the results of chewed HYSINGLA ER relative to hydrocodone solution.
 Approximately 83% (n = 29) of subjects had some reduction in drug liking with intact HYSINGLA ER relative to hydrocodone solution.
@@ -147,10 +146,10 @@ Tolerance is a physiological state characterized by a reduced response to a drug
 
 Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 
-Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
-Do not abruptly discontinue HYSINGLA ER in a patient physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue HYSINGLA ER in a patient physically dependent on opioids.
 Rapid tapering of HYSINGLA ER in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 

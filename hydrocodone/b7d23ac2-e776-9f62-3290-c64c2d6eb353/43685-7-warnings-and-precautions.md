@@ -4,16 +4,16 @@
 
 HYSINGLA ER contains hydrocodone, a Schedule II controlled substance.
 As an opioid, HYSINGLA ER exposes users to the risks of addiction, abuse, and misuse.
-Because extended-release products such as HYSINGLA ER deliver the opioid over an extended period of time, there is a greater risk for overdose and death due to the larger amount of hydrocodone present [see Drug Abuse and Dependence (9)].
-
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed HYSINGLA ER.
 Addiction can occur at recommended doses and if the drug is misused or abused.
+The risk of opioid-related overdose or overdose-related death is increased with higher opioid doses, and this risk persists over the course of therapy.
+In postmarketing studies, addiction, abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use [see Adverse Reactions (6.2)].
 
 Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing HYSINGLA ER, and reassess all patients receiving HYSINGLA ER for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the prescribing of HYSINGLA ER for the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as HYSINGLA ER, but use in such patients necessitates intensive counseling about the risks and proper use of HYSINGLA ER along with frequent reevaluation for signs of addiction, abuse, and misuse.
-Consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
+Consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
 
 Abuse or misuse of HYSINGLA ER by crushing, chewing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of the hydrocodone and can result in overdose and death [see Drug Abuse and Dependence (9.2), Overdosage (10)].
 
@@ -26,7 +26,7 @@ Contact local state professional licensing board or state-controlled substances 
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agents, depending on the patient's clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of HYSINGLA ER, the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -42,18 +42,23 @@ Opioids can cause sleep-related breathing disorders including central sleep apne
 Opioid use increases the risk of CSA in a dose-dependent fashion.
 In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
 
-Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose: Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with HYSINGLA ER.
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered.
+Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose:
 
-Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
-If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.3), Overdosage (10)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+The presence of risk factors for overdose should not prevent the management of pain in any patient [Warnings and Precautions (5.1, 5.3)].
+
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program).
+
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
+
+Educate patients and caregivers on how to recognize respiratory depression, and how to use an opioid overdose reversal agent for the emergency treatment of opioid overdose.
+Emphasize the importance of calling 911 or getting emergency medical help, even if an opioid overdose reversal agent is administered [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.3), Overdosage (10)].
 
 ## 5.3 Risks of Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of HYSINGLA ER with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of HYSINGLA ER with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -64,7 +69,7 @@ In patients already receiving an opioid analgesic, prescribe a lower initial dos
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Inform patients and caregivers of this potential interaction and educate them on the signs and symptoms of respiratory depression (including sedation).
 
-If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.2), Overdosage (10)].
+If concomitant use is warranted, consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.2), Overdosage (10)].
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when HYSINGLA ER is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
@@ -119,7 +124,7 @@ The use of HYSINGLA ER in patients with acute or severe bronchial asthma in an u
 
 Patients with Chronic Pulmonary Disease: HYSINGLA ER-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of HYSINGLA ER [see Warnings and Precautions (5.2)].
 
-Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
+Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
 Regularly evaluate patients, particularly when initiating and titrating HYSINGLA ER and when HYSINGLA ER is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2, 5.3), Drug Interactions (7)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
@@ -170,13 +175,17 @@ Consider use of an alternative analgesic in patients who have difficulty swallow
 
 Pediatric patients may be at increased risk of esophageal obstruction, dysphagia, and choking because of a smaller gastrointestinal lumen if they ingest HYSINGLA ER [see Use in Specific Populations (8.4)].
 
-## 5.14 Risks of Use in Patients with Gastrointestinal Conditions
+## 5.14 Risks of Gastrointestinal Complications
 
 HYSINGLA ER is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
 The hydrocodone in HYSINGLA ER may cause spasm of the sphincter of Oddi.
 Opioids may cause increases in serum amylase.
 Regularly evaluate patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
+The risk of OIED may increase as the dose and/or duration of opioids increases.
+Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain) and, if necessary, adjust opioid therapy as clinically appropriate [see Clinical Pharmacology (12.2)].
 
 ## 5.15 Increased Risk of Seizures in Patients with Seizure Disorders
 
@@ -185,7 +194,7 @@ Regularly evaluate patients with a history of seizure disorders for worsened sei
 
 ## 5.16 Withdrawal
 
-Do not abruptly discontinue HYSINGLA ER in a patient physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue HYSINGLA ER in a patient physically dependent on opioids.
 When discontinuing HYSINGLA ER in a physically dependent patient, gradually taper the dosage.
 Rapid tapering of hydrocodone in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.7), Drug Abuse and Dependence (9.3)].
 
