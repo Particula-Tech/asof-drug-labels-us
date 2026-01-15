@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA219638"
+  ],
+  "inn": "eltrombopag",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-837-01",
+    "70069-838-01",
+    "70069-839-01",
+    "70069-840-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "eltrombopag olamine",
+      "name": "Eltrombopag olamine"
+    }
+  ],
+  "setid": "604f663c-4933-402a-8105-5921713cf3c8",
+  "source": "dailymed"
+}
