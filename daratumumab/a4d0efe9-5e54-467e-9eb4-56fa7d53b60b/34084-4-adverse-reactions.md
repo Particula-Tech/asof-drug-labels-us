@@ -297,16 +297,16 @@ Table 17: Adverse Reactions (≥15%) in Patients Who Received DARZALEX in Combin
 
 Adverse Reactions Occurring at a Frequency of < 15%
 
-- Blood and lymphatic system disorders:neutropenia, lymphopenia, leukopenia, febrile neutropenia
-- Cardiac disorders:atrial fibrillation
-- Gastrointestinal disorders:vomiting, constipation
-- General disorders and administration site conditions:peripheral edema, asthenia, chills
-- Infections:influenza, urinary tract infection, sepsis, septic shock
-- Metabolism and nutrition disorders:decreased appetite, hyperglycemia, hypocalcemia, dehydration
-- Musculoskeletal and connective tissue disorders:muscle spasms, arthralgia, musculoskeletal chest pain
-- Nervous system disorders:headache, dizziness, peripheral sensory neuropathy, paresthesia, posterior reversible encephalopathy syndrome
-- Respiratory, thoracic and mediastinal disorders:pulmonary edema
-- Skin and subcutaneous tissue disorders:rash, pruritus
+- Blood and lymphatic system disorders: neutropenia, lymphopenia, leukopenia, febrile neutropenia
+- Cardiac disorders: atrial fibrillation
+- Gastrointestinal disorders: vomiting, constipation
+- General disorders and administration site conditions: peripheral edema, asthenia, chills
+- Infections: influenza, urinary tract infection, sepsis, septic shock
+- Metabolism and nutrition disorders: decreased appetite, hyperglycemia, hypocalcemia, dehydration
+- Musculoskeletal and connective tissue disorders: muscle spasms, arthralgia, musculoskeletal chest pain
+- Nervous system disorders: headache, dizziness, peripheral sensory neuropathy, paresthesia, posterior reversible encephalopathy syndrome
+- Respiratory, thoracic and mediastinal disorders: pulmonary edema
+- Skin and subcutaneous tissue disorders: rash, pruritus
 
 Combination Treatment with Once-Weekly (20/70 mg/m 2) Carfilzomib and Dexamethasone
 
@@ -363,15 +363,15 @@ Table 18: Adverse Reactions (≥15%) of Patients Who Received DARZALEX in Combin
 
 Adverse Reactions Occurring at a Frequency of < 15%
 
-- Blood and lymphatic system disorders:leukopenia, febrile neutropenia
-- Cardiac disorders:atrial fibrillation
-- Gastrointestinal disorders:pancreatitis
-- General disorders and administration site conditions:peripheral edema, chills
-- Infections:pneumonia, urinary tract infection, sepsis, septic shock
-- Metabolism and nutrition disorders:decreased appetite, hyperglycemia, dehydration, hypocalcemia
-- Musculoskeletal and connective tissue disorders:muscle spasms, musculoskeletal chest pain, arthralgia
-- Nervous system disorders:dizziness, paresthesia, peripheral sensory neuropathy
-- Skin and subcutaneous tissue disorders:pruritus, rash
+- Blood and lymphatic system disorders: leukopenia, febrile neutropenia
+- Cardiac disorders: atrial fibrillation
+- Gastrointestinal disorders: pancreatitis
+- General disorders and administration site conditions: peripheral edema, chills
+- Infections: pneumonia, urinary tract infection, sepsis, septic shock
+- Metabolism and nutrition disorders: decreased appetite, hyperglycemia, dehydration, hypocalcemia
+- Musculoskeletal and connective tissue disorders: muscle spasms, musculoskeletal chest pain, arthralgia
+- Nervous system disorders: dizziness, paresthesia, peripheral sensory neuropathy
+- Skin and subcutaneous tissue disorders: pruritus, rash
 
 Combination Treatment with Pomalidomide and Dexamethasone
 
@@ -511,7 +511,7 @@ Infections
 
 Grade 3 or 4 infections were reported as follows:
 
-- Relapsed/refractory patient studies: DVd: 21% vs. Vd: 19%; DRd: 28% vs. Rd: 23%; DPd: 28%; DKd where carfilzomib 20/56 mg/m 2 was administered twice-weekly: 37%, Kd: 29%; DKd where carfilzomib 20/70 mg/m 2 was administered once-weekly: 21%
+- Relapsed/refractory patient studies: DVd: 21% vs. Vd: 19%; DRd: 28% vs. Rd: 23%; DPd: 28%; DKd where carfilzomib 20/56 mg/m2 was administered twice-weekly: 37%, Kd: 29%; DKd where carfilzomib 20/70 mg/m2 was administered once-weekly: 21%
 - Newly diagnosed patient studies: D-VMP: 23%, VMP: 15%; DRd: 32%, Rd: 23%; DVTd: 22%; VTd: 20%.
 
 Pneumonia was the most commonly reported severe (Grade 3 or 4) infection across studies.
@@ -533,15 +533,15 @@ Other Clinical Trials Experience
 
 The following adverse reactions have been reported following administration of daratumumab and hyaluronidase for subcutaneous injection:
 
-Nervous System disorders:Syncope
+Nervous System disorders: Syncope
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of daratumumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune System disorders:Anaphylactic reaction, IRR (including deaths)
+Immune System disorders: Anaphylactic reaction, IRR (including deaths)
 
-Gastrointestinal disorders:Pancreatitis
+Gastrointestinal disorders: Pancreatitis
 
-Infections:Cytomegalovirus, Listeriosis
+Infections: Cytomegalovirus, Listeriosis

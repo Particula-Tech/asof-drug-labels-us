@@ -29,7 +29,7 @@ Median OS had not been reached for either arm.
 
 After a median follow-up of 89 months, the median OS was 90.3 months (95% CI: 80.8, NE) in the DRd arm and 64.1 months (95% CI: 56.0, 70.8) in the Rd arm.
 
-| Figure 2: Kaplan-Meier Curve of OS in MAIA OS median follow-up of 56 months |
+| Figure 2: Kaplan-Meier Curve of OS in MAIAOS median follow-up of 56 months |
 | --- |
 
 Additional efficacy results from MAIA are presented in Table 23.
@@ -48,7 +48,7 @@ Table 23: Additional Efficacy Results From MAIA Based on intent-to-treat populat
 | p-value | <0.0001 |  |
 | VGPR or better (sCR + CR + VGPR) | 292 (79.3%) | 196 (53.1%) |
 | p-value | <0.0001 |  |
-| MRD negativity rate,Based on threshold of 10 -5 using a next-generation sequencing assay (clonoSEQ). n(%) | 89 (24.2%) | 27 (7.3%) |
+| MRD negativity rate,Based on threshold of 10-5 using a next-generation sequencing assay (clonoSEQ).n(%) | 89 (24.2%) | 27 (7.3%) |
 | 95% CI (%) | (19.9%, 28.9%) | (4.9%, 10.5%) |
 | p-value p-value from Fisherʼs exact test. | <0.0001 |  |
 | MRD negativity rate in patients with CR or better |  |  |
@@ -100,7 +100,7 @@ Table 24: Additional Efficacy Results From ALCYONE
 | Complete response (CR) | 86 (24.6%) | 62 (17.4%) |
 | Very good partial response (VGPR) | 100 (28.6%) | 90 (25.3%) |
 | Partial response (PR) | 69 (19.7%) | 86 (24.2%) |
-| MRD negativity rate,Based on threshold of 10 -5 using a next-generation sequencing assay (clonoSEQ). n(%) | 78 (22.3%) | 22 (6.2%) |
+| MRD negativity rate,Based on threshold of 10-5 using a next-generation sequencing assay (clonoSEQ). n(%) | 78 (22.3%) | 22 (6.2%) |
 | 95% CI (%) | (18.0, 27.0) | (3.9, 9.2) |
 | p-value p-value from Fisher's exact test. | <0.0001 |  |
 | MRD negativity rate in patients with CR or better |  |  |
@@ -117,7 +117,7 @@ Combination Treatment with Bortezomib, Thalidomide and Dexamethasone in Patients
 CASSIOPEIA (NCT02541383), an open-label, randomized, active-controlled trial compared induction and consolidation treatment with DARZALEX 16 mg/kg in combination with bortezomib, thalidomide and dexamethasone (DVTd) to treatment with bortezomib, thalidomide and dexamethasone (VTd) in patients with newly diagnosed multiple myeloma eligible for ASCT.
 The consolidation phase of treatment began a minimum of 30 days post-ASCT, when the patient had recovered sufficiently, and engraftment was complete.
 The trial was limited to patients 65 years of age and younger.
-Bortezomib was administered by subcutaneous (SC) injection or intravenous (IV) injection at a dose of 1.3 mg/m 2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 28-day (4-week) induction treatment cycles (Cycles 1–4) and two consolidation cycles (Cycles 5 and 6) following ASCT after Cycle 4.
+Bortezomib was administered by subcutaneous (SC) injection or intravenous (IV) injection at a dose of 1.3 mg/m 2body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 28-day (4-week) induction treatment cycles (Cycles 1–4) and two consolidation cycles (Cycles 5 and 6) following ASCT after Cycle 4.
 Thalidomide was administered orally at 100 mg daily during the six bortezomib cycles.
 Dexamethasone (oral or intravenous) was administered at 40 mg on Days 1, 2, 8, 9, 15, 16, 22 and 23 of Cycles 1 and 2, and at 40 mg on Days 1–2 and 20 mg on subsequent dosing days (Days 8, 9, 15, 16) of Cycles 3–4.
 Dexamethasone 20 mg was administered on Days 1, 2, 8, 9, 15, 16 in Cycles 5 and 6.
@@ -254,7 +254,7 @@ Randomization was stratified by the ISS (stage 1 or 2 vs stage 3) at screening, 
 
 DARZALEX was administered intravenously at a dose of 8 mg/kg in Cycle 1 on Days 1 and 2.
 Thereafter, DARZALEX was administered intravenously at a dose of 16 mg/kg on Days 8, 15 and 22 of Cycle 1; Days 1, 8 and 15 and 22 of Cycle 2; Days 1 and 15 of Cycles 3 to 6; and Day 1 of each 28-day cycle until disease progression.
-Carfilzomib was administered intravenously at a dose of 20 mg/m 2 in Cycle 1 on Days 1 and 2; at a dose of 56 mg/m 2 in Cycle 1 on Days 8, 9, 15, and 16; and at a dose 56 mg/m 2 on Days 1, 2, 8, 9, 15, and 16 of each 28-day cycle thereafter.
+Carfilzomib was administered intravenously at a dose of 20 mg/m 2in Cycle 1 on Days 1 and 2; at a dose of 56 mg/m 2 in Cycle 1 on Days 8, 9, 15, and 16; and at a dose 56 mg/m 2 on Days 1, 2, 8, 9, 15, and 16 of each 28-day cycle thereafter.
 Dexamethasone 20 mg was administered orally or intravenously on Days 1, 2, 8, 9, 15 and 16 and then 40 mg orally or intravenously on Day 22 of each 28-day cycle.
 For patients >75 years on a reduced dexamethasone dose of 20 mg, the entire 20 mg dose was given as a DARZALEX pre-infusion medication on days when DARZALEX was administered.
 Dosing of dexamethasone was otherwise split across days when carfilzomib was administered in both study arms.
@@ -285,7 +285,7 @@ Table 28: Additional Efficacy Results From CANDOR (Intent-to-Treat Population)
 | Complete response (CR) | 89 (28%) | 16 (10%) |
 | Very good partial response (VGPR) | 127 (41%) | 59 (38%) |
 | Partial response (PR) | 47 (15%) | 40 (26%) |
-| MRD [-] CR rate at 12 months n(%) MRD[-]CR (at a 10 -5 level) is defined as achievement of CR per IMWG-URC and MRD[-] status as assessed by the next-generation sequencing assay (ClonoSEQ). | 39 (12%) | 2 (1.3%) |
+| MRD [-] CR rate at 12 months n(%) MRD[-]CR (at a 10-5 level) is defined as achievement of CR per IMWG-URC and MRD[-] status as assessed by the next-generation sequencing assay (ClonoSEQ). | 39 (12%) | 2 (1.3%) |
 | 95% CI (%) | (9, 17) | (0.2, 4.6) |
 | p-value (1-sided) | <0.0001 |  |
 | MRD [-] CR | 43 (14%) | 5 (3.2%) |
