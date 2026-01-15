@@ -1,4 +1,4 @@
-# 5WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Hyponatremia
 
@@ -36,9 +36,9 @@ The reporting rate of TEN and SJS associated with oxcarbazepine use, which is ge
 Estimates of the background incidence rate for these serious skin reactions in the general population range between 0.5 to 6 cases per million-person years.
 Therefore, if a patient develops a skin reaction while taking oxcarbazepine, consideration should be given to discontinuing oxcarbazepine use and prescribing another antiepileptic medication.
 
-Association with HLAB*1502
+Association with HLA-B*1502
 
-Patients carrying the HL-A-B*1502 allele may be at increased risk for SJS/TEN with oxcarbazepine treatment.
+Patients carrying the HLA-B*1502 allele may be at increased risk for SJS/TEN with oxcarbazepine treatment.
 
 Human Leukocyte Antigen (HLA) allele B*1502 increases the risk for developing SJS/TEN in patients treated with carbamazepine.
 The chemical structure of oxcarbazepine is similar to that of carbamazepine.
@@ -51,7 +51,7 @@ The frequency of the HLA-B*1502 allele is negligible in people from European des
 Testing for the presence of the HLA-B*1502 allele should be considered in patients with ancestry in genetically at-risk populations, prior to initiating treatment with oxcarbazepine.
 The use of oxcarbazepine should be avoided in patients positive for HLA-B*1502 unless the benefits clearly outweigh the risks.
 Consideration should also be given to avoid the use of other drugs associated with SJS/TEN in HLA-B*1502 positive patients, when alternative therapies are otherwise equally acceptable.
-Screening is not generally recommended in patients from populations in which the prevalence of HLAB*1502 is low, or in current Oxcarbazepine users, as the risk of SJS/TEN is largely confined to the first few months of therapy, regardless of HLAB*1502 status.
+Screening is not generally recommended in patients from populations in which the prevalence of HLAB*1502 is low, or in current Oxcarbazepine users, as the risk of SJS/TEN is largely confined to the first few months of therapy, regardless of HLA-B*1502 status.
 
 The use of HLA-B*1502 genotyping has important limitations and must never substitute for appropriate clinical vigilance and patient management.
 The role of other possible factors in the development of, and morbidity from, SJS/TEN, antiepileptic drug (AED) dose, compliance, concomitant medications, comorbidities, and the level of dermatologic monitoring have not been well characterized.

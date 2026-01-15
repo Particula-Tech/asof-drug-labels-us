@@ -1,4 +1,4 @@
-# 14CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 The effectiveness of oxcarbazepine as adjunctive and monotherapy for partial-onset seizures in adults, and as adjunctive therapy in children aged 2 to 16 years was established in seven multicenter, randomized, controlled trials.
 
@@ -68,11 +68,11 @@ Table 8: Summary of Percentage Change in Partial-Onset Seizure Frequency from Ba
 | Trial | Treatment Group |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  | N |  | Baseline Median Seizure Rate* |  | Median % Reduction |
-| 1 (pediatrics) | Oxcarbazepine | 136 |  | 12.5 |  | 34.81 |
+| 1 (pediatrics) | Oxcarbazepine | 136 |  | 12.5 |  | 34.8 1 |
 |  | Placebo | 128 |  | 13.1 |  | 9.4 |
-| 2 (adults) | Oxcarbazepine 2400 mg/day | 174 |  | 10.0 |  | 49.91 |
-|  | Oxcarbazepine 1200 mg/day | 177 |  | 9.8 |  | 40.21 |
-|  | Oxcarbazepine 600 mg/day | 168 |  | 9.6 |  | 26.41 |
+| 2 (adults) | Oxcarbazepine 2400 mg/day | 174 |  | 10.0 |  | 49.9 1 |
+|  | Oxcarbazepine 1200 mg/day | 177 |  | 9.8 |  | 40.2 1 |
+|  | Oxcarbazepine 600 mg/day | 168 |  | 9.6 |  | 26.4 1 |
 |  | Placebo | 173 |  | 8.6 |  | 7.6 |
 
 1p = 0.0001; *=number of seizures per 28 days

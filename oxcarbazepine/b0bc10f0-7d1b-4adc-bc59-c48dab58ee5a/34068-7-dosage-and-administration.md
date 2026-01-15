@@ -1,4 +1,4 @@
-# 2DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Adjunctive Therapy for Adults
 
@@ -6,7 +6,7 @@ Initiate oxcarbazepine with a dose of 600 mg/day, given twice-a-day.
 If clinically indicated, the dose may be increased by a maximum of 600 mg/day at approximately weekly intervals; the maximum recommended daily dose is 1200 mg/day.
 Daily doses above 1200 mg/day show somewhat greater effectiveness in controlled trials, but most patients were not able to tolerate the 2400 mg/day dose, primarily because of CNS effects.
 
-Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1, 7.2)].
+Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1,7.2)].
 
 ## 2.2 Conversion to Monotherapy for Adults
 
@@ -43,12 +43,12 @@ In the clinical trial in pediatric patients (2 to 4 years of age) in which the i
 
 Under adjunctive therapy (with and without enzyme-inducing AEDs), when normalized by body weight, apparent clearance (L/hr/kg) decreased when age increased such that children 2 to < 4 years of age may require up to twice the oxcarbazepine dose per body weight compared to adults; and children 4 to ≤ 12 years of age may require a 50% higher oxcarbazepine dose per body weight compared to adults.
 
-Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1, 7.2)].
+Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1,7.2)].
 
 ## 2.5 Conversion to Monotherapy for Pediatric Patients (Aged 4-16 Years)
 
 Patients receiving concomitant antiepileptic drugs may be converted to monotherapy by initiating treatment with oxcarbazepine at approximately 8 to 10 mg/kg/day given twice-a-day, while simultaneously initiating the reduction of the dose of the concomitant antiepileptic drugs.
-The concomitant antiepileptic drugs can be completely withdrawn over 3 to 6 weeks, while oxcarbazepine may be increased as clinically indicated by a maximum increment of 10 mg/kg/day at approximately weekly intervals to achieve the recommended daily dose.
+The concomitant antiepileptic drugs can be completely withdrawn over 3 to 6 weeks while oxcarbazepine may be increased as clinically indicated by a maximum increment of 10 mg/kg/day at approximately weekly intervals to achieve the recommended daily dose.
 Patients should be observed closely during this transition phase.
 
 The recommended total daily dose of oxcarbazepine is shown in Table 1.
@@ -56,7 +56,7 @@ The recommended total daily dose of oxcarbazepine is shown in Table 1.
 ## 2.6 Initiation of Monotherapy for Pediatric Patients (Aged 4-16 Years)
 
 Patients not currently being treated with antiepileptic drugs may have monotherapy initiated with oxcarbazepine.
-In these patients, initiate oxcarbazepine. at a dose of 8 to 10 mg/kg/day given twice-a-day.
+In these patients, initiate oxcarbazepine at a dose of 8 to 10 mg/kg/day given twice-a-day.
 The dose should be increased by 5 mg/kg/day every third day to the recommended daily dose shown in the table below.
 
 Table 1: Range of Maintenance Doses of Oxcarbazepine for Pediatrics by Weight During Monotherapy

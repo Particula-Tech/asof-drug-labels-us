@@ -1,4 +1,4 @@
-# 12CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -25,8 +25,8 @@ Absorption
 
 Based on MHD concentrations, oxcarbazepine tablets and suspension were shown to have similar bioavailability.
 
-After single-dose administration of oxcarbazepine tablets to healthy male volunteers under fasted conditions, the median tmax was 4.5 (range 3 to 13) hours.
-After single-dose administration of oxcarbazepine to healthy male volunteers under fasted conditions, the median tmax was 6 hours.
+After single-dose administration of oxcarbazepine tablets to healthy male volunteers under fasted conditions, the median t maxwas 4.5 (range 3 to 13) hours.
+After single-dose administration of oxcarbazepine to healthy male volunteers under fasted conditions, the median t maxwas 6 hours.
 
 Steady-state plasma concentrations of MHD are reached within 2 to 3 days in patients when oxcarbazepine is given twice-a-day.
 At steady state the pharmacokinetics of MHD are linear and show dose proportionality over the dose range of 300 to 2400 mg/day.
@@ -83,7 +83,7 @@ No specific studies have been conducted to assess what effect, if any, race may 
 Renal Impairment
 
 There is a linear correlation between creatinine clearance and the renal clearance of MHD.
-When oxcarbazepine is administered as a single 300 mg dose in renally-impaired patients (creatinine clearance < 30 mL/min), the elimination half-life of MHD is prolonged to 19 hours, with a 2-fold increase in AUC [see Dosage and Administration (2.7) and [Use in Specific Populations (8.6)].
+When oxcarbazepine is administered as a single 300 mg dose in renally-impaired patients (creatinine clearance < 30 mL/min), the elimination half-life of MHD is prolonged to 19 hours, with a 2-fold increase in AUC [see Dosage and Administration (2.7)and [Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 
@@ -92,7 +92,7 @@ Mild-to-moderate hepatic impairment did not affect the pharmacokinetics of oxcar
 
 Pregnancy
 
-Due to physiological changes during pregnancy, MHD plasma levels may gradually decrease throughout pregnancy [see Use in Specific Populations(8.1)].
+Due to physiological changes during pregnancy, MHD plasma levels may gradually decrease throughout pregnancy [seeUse in Specific Populations (8.1)].
 
 Drug Interactions:
 
@@ -120,17 +120,17 @@ As binding of MHD to plasma proteins is low (40%), clinically significant intera
 Other Antiepileptic Drugs
 
 Potential interactions between oxcarbazepine and other AEDs were assessed in clinical studies.
-The effect of these interactions on mean AUCs and Cmin are summarized in Table 7 [see Drug Interactions (7.1, 7.2)].
+The effect of these interactions on mean AUCs and C minare summarized in Table 7 [see Drug Interactions (7.1,7.2)].
 
 Table 7: Summary of AED Interactions with Oxcarbazepine
 
-| AED Coadministered | Dose of AED (mg/day) | Oxcarbazepine Dose (mg/day) | Influence of Oxcarbazepine on AED Concentration (Mean Change, 90% Confidence Interval) | Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval) |
+| AED Coadministered | Dose of AED (mg/day) | Oxcarbazepine Dose (mg/day) | Influence of Oxcarbazepineon AED Concentration (Mean Change, 90% Confidence Interval) | Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval) |
 | --- | --- | --- | --- | --- |
-| Carbamazepine | 400-2000 | 900 | nc1 | 40% decrease [CI: 17% decrease, 57% decrease] |
+| Carbamazepine | 400-2000 | 900 | nc 1 | 40% decrease [CI: 17% decrease, 57% decrease] |
 | Phenobarbital | 100-150 | 600-1800 | 14% increase [CI: 2% increase, 24% increase] | 25% decrease [CI: 12% decrease, 51% decrease] |
-| Phenytoin | 250-500 | 600-1800 > 1200-2400 | nc1,2 up to 40% increase3 [CI: 12% increase, 60% increase] | 30% decrease [CI: 3% decrease, 48% decrease] |
-| Valproic acid | 400-2800 | 600-1800 | nc1 | 18% decrease [CI: 13% decrease, 40% decrease] |
-| Lamotrigine | 200 | 1200 | nc1 | nc1 |
+| Phenytoin | 250-500 | 600-1800 > 1200-2400 | nc 1,2 up to 40% increase 3 [CI: 12% increase, 60% increase] | 30% decrease [CI: 3% decrease, 48% decrease] |
+| Valproic acid | 400-2800 | 600-1800 | nc 1 | 18% decrease [CI: 13% decrease, 40% decrease] |
+| Lamotrigine | 200 | 1200 | nc 1 | nc 1 |
 
 1nc denotes a mean change of less than 10%
 

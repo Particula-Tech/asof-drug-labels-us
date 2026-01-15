@@ -1,4 +1,4 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
@@ -16,10 +16,10 @@ Anaphylactic Reactions and Angioedema
 Anaphylactic reactions and angioedema may occur during treatment with oxcarbazepine.
 Advise patients to report immediately signs and symptoms suggesting angioedema (swelling of the face, eyes, lips, tongue or difficulty in swallowing or breathing) and to stop taking the drug until they have consulted with their physician [see Warnings and Precautions (5.2)].
 
-Cross Hypersensitivity Reaction to Carbamazepine
+CrossHypersensitivity Reaction to Carbamazepine
 
 Inform patients who have exhibited hypersensitivity reactions to carbamazepine that approximately 25% to 30% of these patients may experience hypersensitivity reactions with oxcarbazepine.
-Patients should be advised that if they experience a hypersensitivity reaction while taking oxcarbazepine they should consult with their physician immediately[see Warnings and Precautions (5.3)].
+Patients should be advised that if they experience a hypersensitivity reaction while taking oxcarbazepine they should consult with their physician immediately [see Warnings and Precautions (5.3)].
 
 Serious Dermatological Reactions
 
@@ -34,7 +34,7 @@ Behaviors of concern should be reported immediately to healthcare providers [see
 Driving and Operating Machinery
 
 Advise patients that oxcarbazepine may cause adverse reactions such as dizziness, somnolence, ataxia, visual disturbances, and depressed level of consciousness.
-Accordingly, advise patients not to drive or operate machinery until they have gained sufficient experience on oxcarbazepine to gauge whether it adversely affects their ability to drive or operate machinery [see Warnings and Precautions (5.7) and Adverse Reactions (6)].
+Accordingly, advise patients not to drive or operate machinery until they have gained sufficient experience on oxcarbazepine to gauge whether it adversely affects their ability to drive or operate machinery [see Warnings and Precautions (5.7)and Adverse Reactions (6)].
 
 Multi-Organ Hypersensitivity
 
@@ -47,7 +47,7 @@ Instruct patients to immediately consult with their physician if they experience
 
 Drug Interactions
 
-Caution female patients of reproductive potential that the concurrent use of oxcarbazepine with hormonal contraceptives may render this method of contraception less effective [see Drug Interactions (7.2) and Use in Specific Populations (8.1)].
+Caution female patients of reproductive potential that the concurrent use of oxcarbazepine with hormonal contraceptives may render this method of contraception less effective [see Drug Interactions (7.2)and Use in Specific Populations (8.1)].
 Additional non-hormonal forms of contraception are recommended when using oxcarbazepine.
 
 Caution should be exercised if alcohol is taken in combination with oxcarbazepine, due to a possible additive sedative effect.
@@ -57,7 +57,9 @@ Pregnancy Registry
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
 
-Distributed By: Advagen Pharma Ltd., 666 Plainsboro Road, Suite 605 Plainsboro, NJ 08536, USA.
-Manufactured by: Rubicon Research Private Limited Ambernath, Dist: Thane, 421506 India.
+Distributed By: Advagen Pharma Ltd., East Windsor, NJ 08520, USA,
+
+Manufactured by: Rubicon Research Ltd., Thane 421506, India.
+
 Rev.
-03/2021
+05/2024

@@ -1,4 +1,4 @@
-# 8USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -29,15 +29,15 @@ Data from published registries have reported craniofacial defects such as oral c
 
 Animal Data
 
-When pregnant rats were given oxcarbazepine (0, 30, 300, or 1000 mg/kg/day) orally throughout the period of organogenesis, increased incidences of fetal malformations (craniofacial, cardiovascular, and skeletal) and variations were observed at the intermediate and high doses (approximately 1.2 and 4 times, respectively, the MRHD on a mg/m2 basis).
+When pregnant rats were given oxcarbazepine (0, 30, 300, or 1000 mg/kg/day) orally throughout the period of organogenesis, increased incidences of fetal malformations (craniofacial, cardiovascular, and skeletal) and variations were observed at the intermediate and high doses (approximately 1.2 and 4 times, respectively, the MRHD on a mg/m 2basis).
 Increased embryofetal death and decreased fetal body weights were seen at the high dose.
 Doses ≥300 mg/kg/day were also maternally toxic (decreased body weight gain, clinical signs), but there is no evidence to suggest that teratogenicity was secondary to the maternal effects.
 
-In a study in which pregnant rabbits were orally administered MHD (0, 20, 100, or 200 mg/kg/day) during organogenesis, embryofetal mortality was increased at the highest dose (1.5 times the MRHD on a mg/m2 basis).
+In a study in which pregnant rabbits were orally administered MHD (0, 20, 100, or 200 mg/kg/day) during organogenesis, embryofetal mortality was increased at the highest dose (1.5 times the MRHD on a mg/m 2basis).
 This dose produced only minimal maternal toxicity.
 
-In a study in which female rats were dosed orally with oxcarbazepine (0, 25, 50, or 150 mg/kg/day) during the latter part of gestation and throughout the lactation period, a persistent reduction in body weights and altered behavior (decreased activity) were observed in offspring exposed to the highest dose (less than the MRHD on a mg/m2 basis).
-Oral administration of MHD (0, 25, 75, or 250 mg/kg/day) to rats during gestation and lactation resulted in a persistent reduction in offspring weights at the highest dose (equivalent to the MRHD on a mg/m2 basis).
+In a study in which female rats were dosed orally with oxcarbazepine (0, 25, 50, or 150 mg/kg/day) during the latter part of gestation and throughout the lactation period, a persistent reduction in body weights and altered behavior (decreased activity) were observed in offspring exposed to the highest dose (less than the MRHD on a mg/m 2basis).
+Oral administration of MHD (0, 25, 75, or 250 mg/kg/day) to rats during gestation and lactation resulted in a persistent reduction in offspring weights at the highest dose (equivalent to the MRHD on a mg/m 2basis).
 
 ## 8.2 Lactation
 
@@ -52,7 +52,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 Contraception
 
 Use of oxcarbazepine with hormonal contraceptives containing ethinylestradiol or levonorgestrel is associated with decreased plasma concentrations of these hormones and may result in a failure of the therapeutic effect of the oral contraceptive drug.
-Advise women of reproductive potential taking oxcarbazepine who are using a contraceptive containing ethinylestradiol or levonorgestrel to use additional or alternative non-hormonal birth control [see Drug interactions (7.3) and Clinical Pharmacology (12.3)].
+Advise women of reproductive potential taking oxcarbazepine who are using a contraceptive containing ethinylestradiol or levonorgestrel to use additional or alternative non-hormonal birth control [see Drug interactions (7.3)and Clinical Pharmacology (12.3)].
 
 ## 8.4 Pediatric Use
 
@@ -75,4 +75,4 @@ Close monitoring of sodium levels is required in elderly patients at risk for hy
 
 ## 8.6 Renal Impairment
 
-Dose adjustment is recommended for renally impaired patients (CLcr < 30 mL/min) [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
+Dose adjustment is recommended for renally impaired patients (CLcr < 30 mL/min) [see Dosage and Administration (2.7)and Clinical Pharmacology (12.3)].
