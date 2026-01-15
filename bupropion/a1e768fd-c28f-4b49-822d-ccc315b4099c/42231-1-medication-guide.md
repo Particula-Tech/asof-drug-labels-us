@@ -1,5 +1,3 @@
-Dispense with Medication Guide available at: www.tevausa.com/medguides
-
 | MEDICATION GUIDEBupropion Hydrochloride (bue proeʹ pee on hyeʺ droe klorʹ ide) Extended-Release Tablets (XL) |  |
 | --- | --- |
 | IMPORTANT: Be sure to read the three sections of this Medication Guide. The first section is about the risk of suicidal thoughts and actions with antidepressant medicines; the second section is about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with medicines used to quit smoking; and the third section is entitled “What Other Important Information Should I Know About Bupropion Hydrochloride Extended-Release Tablets (XL)?” |  |
@@ -23,4 +21,4 @@ Dispense with Medication Guide available at: www.tevausa.com/medguides
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Rev.
-F 2/2025
+G 11/2025

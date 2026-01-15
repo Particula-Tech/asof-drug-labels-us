@@ -201,7 +201,7 @@ Leg cramps, fever/rhabdomyolysis, and muscle weakness.
 
 Nervous System
 
-Abnormal coordination, depersonalization, emotional lability, hyperkinesia, hypertonia, hypesthesia, vertigo, amnesia, ataxia, derealization, abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hypokinesia, increased libido, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, and unmasking tardive dyskinesia.
+Abnormal coordination, depersonalization, emotional lability, hyperkinesia, hypertonia, hypesthesia, vertigo, amnesia, ataxia, derealization, abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hypokinesia, increased libido, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, unmasking tardive dyskinesia and aseptic meningitis.
 
 Respiratory
 
@@ -209,7 +209,7 @@ Bronchospasm and pneumonia.
 
 Skin and Subcutaneous Tissue Disorders
 
-Maculopapular rash, alopecia, angioedema, exfoliative dermatitis, hirsutism, acute generalized exanthematous pustulosis, and drug reaction with eosinophilias and system symptoms (DRESS).
+Maculopapular rash, alopecia, angioedema, exfoliative dermatitis, hirsutism, acute generalized exanthematous pustulosis, and drug reaction with eosinophilias and systemic symptoms (DRESS).
 
 Special Senses
 

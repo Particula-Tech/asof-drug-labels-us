@@ -61,9 +61,7 @@ Bupropion hydrochloride extended-release tablets (XL) should be administered in 
 
 Brands listed are the trademarks of their respective owners.
 
-Dispense with Medication Guide available at: www.tevausa.com/medguides
-
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-G 2/2025
+H 11/2025
