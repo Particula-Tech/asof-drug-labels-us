@@ -27,7 +27,7 @@ Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage 
 Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Morphine sulfate extended-release tablets are not recommended for use in pregnant women during or immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
 Opioid analgesics, including morphine sulfate extended-release tablets, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
@@ -50,7 +50,7 @@ A no adverse effect level was not defined in this study and the findings cannot 
 Neural tube defects (exencephaly), axial skeletal fusions, and cryptorchidism were reported following a single subcutaneous (SC) injection of morphine sulfate to pregnant mice (100 to 500 mg/kg) on Gestation Day 8 or 9 at 200 mg/kg or greater (16 times the HDD) and fetal resorption at 400 mg/kg or higher (32 times the HDD).
 No adverse effects were noted following 100 mg/kg morphine in this model (8 times the HDD).
 In one study, following continuous subcutaneous infusion of doses greater than or equal to 2.72 mg/kg to mice (0.2 times the HDD), exencephaly, hydronephrosis, intestinal hemorrhage, split supraoccipital, malformed sternebrae, and malformed xiphoid were noted.
-The effects were reduced with increasing daily dose; possibly due to rapid induction of tolerance under these infusion conditions.
+The effects were reduced with increasing daily dose, possibly due to rapid induction of tolerance under these infusion conditions.
 The clinical significance of this report is not clear.
 
 Decreased fetal weights were observed in pregnant rats treated with 20 mg/kg/day morphine sulfate (3.2 times the HDD) from Gestation Day 7 to 9.
@@ -79,7 +79,7 @@ Risk Summary
 Morphine is present in breast milk.
 Published lactation studies report variable concentrations of morphine in breast milk with administration of immediate-release morphine to nursing mothers in the early postpartum period with a milk-to-plasma morphine AUC ratio of 2.5:1 measured in one lactation study.
 However, there is insufficient information to determine the effects of morphine on the breastfed infant and the effects of morphine on milk production.
-Lactation studies have not been conducted with extended–release morphine, including morphine sulfate extended -release tablets.
+Lactation studies have not been conducted with extended–release morphine, including morphine sulfate extended-release tablets.
 Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with morphine sulfate extended-release tablets.
 
 Clinical Considerations
@@ -92,7 +92,7 @@ Withdrawal symptoms can occur in breastfed infants when maternal administration 
 Infertility
 
 Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)]].
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].
 
 In published animal studies, morphine administration adversely effected fertility and reproductive endpoints in male rats and prolonged estrus cycle in female rats [see Nonclinical Toxicology (13)].
 

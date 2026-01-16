@@ -30,7 +30,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Morphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and in the duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include reduction in biliary and pancreatic secretions, spasm of the sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include reduction in biliary and pancreatic secretions, spasm of the sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System
 
@@ -54,7 +54,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration-Efficacy Relationships
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
-The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)]
+The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
 
 Concentration–Adverse Reaction Relationships
 
@@ -76,7 +76,7 @@ When morphine sulfate extended-release tablets are given on a fixed dosing regim
 Food Effect
 
 The effect of food upon the systemic bioavailability of morphine sulfate extended-release tablets has not been systematically evaluated for all strengths.
-One study, conducted with the 30 mg morphine sulfate extended-release tablets, showed no significant differences in Cmax and AUC (0-24h) values, whether the tablet was taken while fasting or with a high-fat breakfast.
+One study, conducted with the 30 mg morphine sulfate extended-release tablets, showed no significant differences in Cmax and AUC(0-24h) values, whether the tablet was taken while fasting or with a high-fat breakfast.
 
 Distribution
 
