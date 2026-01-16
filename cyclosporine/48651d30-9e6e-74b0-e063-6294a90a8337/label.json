@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA214965"
+  ],
+  "inn": "cyclosporine",
+  "labeler": "Harrow Eye, LLC",
+  "package_ndcs": [
+    "82667-014-01"
+  ],
+  "products": [
+    {
+      "form": "EMULSION",
+      "generic": "cyclosporine",
+      "name": "Verkazia"
+    }
+  ],
+  "setid": "48651d30-9e6e-74b0-e063-6294a90a8337",
+  "source": "dailymed"
+}
