@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA216281"
+  ],
+  "inn": "eltrombopag",
+  "labeler": "Zydus Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "70710-1395-3",
+    "70710-1396-3",
+    "70710-1397-3",
+    "70710-1397-7",
+    "70710-1398-3"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "eltrombopag",
+      "name": "ELTROMBOPAG"
+    }
+  ],
+  "setid": "1cfdd1fa-d687-41f9-a160-9491f0beac1e",
+  "source": "dailymed"
+}
