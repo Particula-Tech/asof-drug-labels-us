@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA212884"
+  ],
+  "inn": "eltrombopag",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "60219-1414-3",
+    "60219-1415-3",
+    "60219-1416-3",
+    "60219-1417-3"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "eltrombopag",
+      "name": "Eltrombopag Olamine"
+    }
+  ],
+  "setid": "05acf38e-7870-4809-a045-fc38e66b1110",
+  "source": "dailymed"
+}
