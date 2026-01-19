@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA220250"
+  ],
+  "inn": "eltrombopag",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-156-30",
+    "72205-157-30",
+    "72205-158-19",
+    "72205-158-30",
+    "72205-159-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "eltrombopag olamine",
+      "name": "eltrombopag"
+    }
+  ],
+  "setid": "5a9ec8c8-3c0b-4f11-848c-c04ccee0d44f",
+  "source": "dailymed"
+}
