@@ -140,7 +140,7 @@ The most commonly reported adverse reactions (incidence ≥ 3% and greater than 
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been reported in postmarketing experience for ezetimibe and/or bempedoic acid.
+The following adverse reactions have been identified during post approval use of ezetimibe and/or bempedoic acid.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Blood Disorders: thrombocytopenia
