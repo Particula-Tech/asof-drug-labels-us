@@ -9,18 +9,14 @@ J. Med.
 293: 1300-1302, Dec.
 18, 1975.
 
-† Lotz, M.; Potts, J.T. and Bartter, F.C.: Brit.
+†Lotz, M.; Potts, J.T. and Bartter, F.C.: Brit.
 Med.
 J. 2: 521, Aug.
 28, 1965 (in Medical Memoranda).
 
-Distributed by:
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Bausch Health US, LLC Bridgewater, NJ 08807 USA
-
-Manufactured by:
-
-Cohance Lifesciences Limited Telangana, India 502307
+Manufactured by: Cohance Lifesciences Limited Telangana, India 502307
 
 M.L.No.: 24/MD/AP/2009/F/CC
 

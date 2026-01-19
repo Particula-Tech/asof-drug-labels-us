@@ -8,10 +8,10 @@ The above laboratory studies should then be promptly repeated.
 
 Leukopenia and thrombocytopenia have been reported to occur in up to 5% of patients during penicillamine therapy.
 Leukopenia is of the granulocytic series and may or may not be associated with an increase in eosinophils.
-A confirmed reduction in White Blood Cells (WBC) below 3500/mm3 mandates discontinuance of penicillamine therapy.
+A confirmed reduction in White Blood Cells (WBC) below 3500/mm 3mandates discontinuance of penicillamine therapy.
 Thrombocytopenia may be on an idiosyncratic basis, with decreased or absent megakaryocytes in the marrow, when it is part of an aplastic anemia.
 In other cases, the thrombocytopenia is presumably on an immune basis since the number of megakaryocytes in the marrow has been reported to be normal or sometimes increased.
-The development of a platelet count below 100,000/mm3, even in the absence of clinical bleeding, requires at least temporary cessation of penicillamine therapy.
+The development of a platelet count below 100,000/mm 3, even in the absence of clinical bleeding, requires at least temporary cessation of penicillamine therapy.
 A progressive fall in either platelet count or WBC count in three successive determinations, even though values are still within the normal range, likewise requires at least temporary cessation.
 
 Proteinuria and/or hematuria may develop during therapy and may be warning signs of membranous glomerulopathy which can progress to a nephrotic syndrome.
@@ -160,7 +160,7 @@ Reinstitution of full therapy should be delayed until wound healing is complete.
 Long-term animal carcinogenicity studies have not been done with penicillamine.
 There is a report that five of ten autoimmune disease-prone New Zealand black (NZB) hybrid mice developed lymphocytic leukemia after 6 months’ intraperitoneal treatment with a dose of 400 mg/kg penicillamine 5 days per week.
 
-Penicillamine is directly mutagenic to S. typhimurium strain TA92 in the Ames test; mutagenicity is enhanced by kidney postmitochondrial subcellular fraction 9.
+Penicillamine is directly mutagenic to S. typhimuriumstrain TA92 in the Ames test; mutagenicity is enhanced by kidney postmitochondrial subcellular fraction 9.
 Penicillamine does not induce gene mutations in Chinese hamster V79 cells.
 
 Penicillamine induces sister-chromatid exchanges and chromosome aberrations in cultivated mammalian cells.

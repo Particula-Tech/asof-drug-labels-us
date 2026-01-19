@@ -1,10 +1,10 @@
 # PRINCIPAL DISPLAY PANEL - 100 mg Capsules Label
 
-NDC 25010-705-15
+NDC25010-705-15
 
 Rx only
 
-Cuprimine® (penicillamine) Capsules, USP
+Cuprimine ® (penicillamine) Capsules, USP
 
 250 mg 100 Capsules
 

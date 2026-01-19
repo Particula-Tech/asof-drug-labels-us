@@ -8,7 +8,7 @@ Although its configuration is D, it is levorotatory as usually measured:
 
 calculated on a dried basis.
 
-The empirical formula is C5H11NO2S, giving it a molecular weight of 149.21.
+The empirical formula is C 5H 11NO 2S, giving it a molecular weight of 149.21.
 The structural formula is:
 
 It reacts readily with formaldehyde or acetone to form a thiazolidine-carboxylic acid.
