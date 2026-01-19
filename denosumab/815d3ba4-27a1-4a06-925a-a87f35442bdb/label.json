@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761439"
+  ],
+  "inn": "denosumab",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9165-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "denosumab-qbde",
+      "name": "ENOBY"
+    }
+  ],
+  "setid": "815d3ba4-27a1-4a06-925a-a87f35442bdb",
+  "source": "dailymed"
+}
