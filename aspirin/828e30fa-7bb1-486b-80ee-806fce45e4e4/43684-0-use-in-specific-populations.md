@@ -55,8 +55,8 @@ Labor or Delivery
 There are no studies on the effects of BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE during labor or delivery.
 In animal studies, NSAIDS, including aspirin, inhibit prostaglandin synthesis, caused delayed parturition, and increase the incidence of stillbirth.
 
-Opioids such as codeine cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
 Opioid analgesics, including BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
@@ -107,97 +107,3 @@ This dose is 1.6 times the maximum recommended human dose of 180 mg/day on a bod
 Caffeine:
 
 In studies performed in adult animals, caffeine (as caffeine base) administered to pregnant mice as sustained release pellets at 50 mg/kg (less than the maximum recommended daily dose on a mg/m2 basis), during the period of organogenesis, caused a low incidence of cleft palate and exencephaly in the fetuses.
-
-## 8.2 Lactation
-
-Risk Summary
-
-Codeine and its active metabolite, morphine, are present in human milk.
-There are published studies and cases that have reported excessive sedation, respiratory depression, and death in infants exposed to codeine via breast milk.
-Women who are ultra-rapid metabolizers of codeine achieve higher than expected serum levels of morphine, potentially leading to higher levels of morphine in breast milk that can be dangerous in their breastfed infants.
-In women with normal codeine metabolism (normal CYP2D6 activity), the amount of codeine secreted into human milk is low and dose-dependent.
-
-There is no information on the effects of the codeine on milk production.
-Because of the potential for serious adverse reactions, including excess sedation, respiratory depression, and death in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE (see Warnings and Precautions, (5.7)).
-
-The aspirin and caffeine in BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE, are also excreted in breast milk in small amounts.
-
-Adverse effects on platelet function in the nursing infant exposed to aspirin in breast milk may be a potential risk.
-Furthermore, nursing women are advised against aspirin use because of the possible development of Reye's Syndrome in their babies.
-
-Barbiturates and caffeine are also excreted in breast milk in small amounts.
-Because of potential for serious adverse reactions in nursing infants from Butalbital, aspirin, caffeine, and codeine phosphate capsules, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-
-Clinical Considerations
-
-If infants are exposed to BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE, through breast milk, they should be monitored for excess sedation and respiratory depression.
-Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
-
-## 8.3 Females and Males of Reproductive Potential
-
-Infertility
-
-Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2)], Nonclinical Toxicology (13.1)].
-
-Females
-
-Based on the mechanism of action, the use of prostaglandin-mediated NSAIDs, including aspirin, may delay or prevent rupture of ovarian follicles, which has been associated with reversible infertility in some women.
-Published animal studies have shown that administration of prostaglandin synthesis inhibitors has the potential to disrupt prostaglandin-mediated follicular rupture required for ovulation.
-Small studies in women treated with NSAIDs have also shown a reversible delay in ovulation.
-Consider withdrawal of NSAIDs, including aspirin, in women who have difficulties conceiving or who are undergoing investigation of infertility.
-
-## 8.4 Pediatric Use
-
-Preparations containing aspirin should be kept out of the reach of children.
-Reye's Syndrome is a rare condition that affects the brain and liver and is most often observed in children given aspirin during a viral illness.
-Safety and effectiveness in pediatric patients have not been established.
-
-The safety and effectiveness of BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE in pediatric patients have not been established.
-
-Life-threatening respiratory depression and death have occurred in children who received codeine [see Warnings and Precautions (5.6)].
-In most of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and many of the children had evidence of being ultra-rapid metabolizers of codeine (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
-Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of codeine.
-Because of the risk of life-threatening respiratory depression and death:
-
-- BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE is contraindicated for all children younger than 12 years of age [see Contraindications (4)].
-- BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE is contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
-- Avoid the use of BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
-  Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
-  [see Warnings and Precautions (5.6)].
-
-## 8.5 Geriatric Use
-
-Clinical studies of BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-
-Butalbital is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
-
-Elderly patients (aged 65 years or older) may have increased sensitivity to BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE.
-In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
-
-Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.9)].
-
-Components of this product are known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
-
-Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions.
-If the anticipated benefit for the elderly patient outweighs these potential risks, dose selection should start at the low end of the dosing range, and monitor patients for adverse effects [see Warnings and Precautions(5)].
-
-## 8.6 Hepatic Impairment
-
-No formal studies have been conducted in patients with hepatic impairment so the pharmacokinetics of aspirin, codeine and butalbital in this patient population are unknown.
-Start these patients cautiously with lower doses of BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE or with longer dosing intervals and titrate slowly while carefully monitoring for side effects.
-In patients with severe hepatic disease, monitor effects of therapy with serial liver function tests.
-
-## 8.7 Renal Impairment
-
-BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE contains aspirin, which should be avoided in patients with severe renal failure (glomerular filtration rate less than 10 mL/minute).
-
-Codeine pharmacokinetics may be altered in patients with renal failure.
-Clearance may be decreased and the metabolites may accumulate to much higher plasma levels in patients with renal failure as compared to patients with normal renal function.
-Start these patients cautiously with lower doses of BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE or with longer dosing intervals and titrate slowly while carefully monitoring for side effects.
-In patients with renal disease, monitor effects of therapy with serial renal function tests.

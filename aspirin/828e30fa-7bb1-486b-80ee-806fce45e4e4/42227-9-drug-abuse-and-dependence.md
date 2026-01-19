@@ -45,35 +45,16 @@ Parenteral drug abuse is commonly associated with transmission of infectious dis
 Butalbital
 
 Barbiturates may be habit-forming.
-Tolerance, psychological dependence, and physical
-
-dependence may occur especially following prolonged use of high doses of barbiturates.
+Tolerance, psychological dependence, and physical dependence may occur especially following prolonged use of high doses of barbiturates.
 The average daily dose for the barbiturate addict is usually about 1,500 mg.
-As tolerance to
-
-barbiturates develops, the amount needed to maintain the same level of intoxication increases;
-
-tolerance to a fatal dosage, however, does not increase more than twofold.
-As this occurs, the
-
-margin between an intoxication dosage and fatal dosage becomes smaller.
-The lethal dose of a
-
-barbiturate is far less if alcohol is also ingested.
-Major withdrawal symptoms (convulsions and
-
-delirium) may occur within 16 hours and last up to 5 days after abrupt cessation of these drugs.
-
+As tolerance to barbiturates develops, the amount needed to maintain the same level of intoxication increases; tolerance to a fatal dosage, however, does not increase more than twofold.
+As this occurs, the margin between an intoxication dosage and fatal dosage becomes smaller.
+The lethal dose of a barbiturate is far less if alcohol is also ingested.
+Major withdrawal symptoms (convulsions and delirium) may occur within 16 hours and last up to 5 days after abrupt cessation of these drugs.
 Intensity of withdrawal symptoms gradually declines over a period of approximately 15 days.
-
 Treatment of barbiturate dependence consists of cautious and gradual withdrawal of the drug.
-
-Barbiturate-dependent patients can be withdrawn by using a number of different withdrawal
-
-regimens.
-One method involves initiating treatment at the patient's regular dosage level and
-
-gradually decreasing the daily dosage as tolerated by the patient.
+Barbiturate-dependent patients can be withdrawn by using a number of different withdrawal regimens.
+One method involves initiating treatment at the patient's regular dosage level and gradually decreasing the daily dosage as tolerated by the patient.
 
 ## 9.3 Dependence
 
@@ -83,15 +64,15 @@ Tolerance is a physiological state characterized by a reduced response to a drug
 
 Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 
-Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
-Do not abruptly discontinue BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE in a patient physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE in a patient physically dependent on opioids.
 Rapid tapering of BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 
 When discontinuing BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE, gradually taper the dosage using a patient-specific plan that considers the following: the dose of BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
 To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.
-In patients taking opioids for an extended period of time at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (0), Warnings and Precautions (5.16)].
+In patients taking opioids for an extended period of time at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.4), Warnings and Precautions (5.16)].
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1, 8.2)].
