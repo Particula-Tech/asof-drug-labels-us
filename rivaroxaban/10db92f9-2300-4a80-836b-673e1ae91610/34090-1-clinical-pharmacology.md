@@ -98,10 +98,6 @@ Race
 Healthy Japanese subjects were found to have 20 to 40% on average higher exposures compared to other ethnicities including Chinese.
 However, these differences in exposure are reduced when values are corrected for body weight.
 
-Elderly
-
-The terminal elimination half-life is 11 to 13 hours in the elderly subjects aged 60 to 76 years [see Use in Specific Populations (8.5)].
-
 Hemodialysis in ESRD subjects:Systemic exposure to rivaroxaban administered as a single 15 mg dose in ESRD subjects dosed 3 hours after the completion of a 4-hour hemodialysis session (post-dialysis) is 56% higher when compared to subjects with normal renal function (see Table 18).
 The systemic exposure to rivaroxaban administered 2 hours prior to a 4-hour hemodialysis session with a dialysate flow rate of 600 mL/min and a blood flow rate in the range of 320 to 400 mL/min is 47% higher compared to those with normal renal function.
 The extent of the increase is similar to the increase in patients with CrCl 15 to 50 mL/min taking XARELTO 15 mg.
@@ -109,6 +105,10 @@ Hemodialysis had no significant impact on rivaroxaban exposure.
 Protein binding was similar (86% to 89%) in healthy controls and ESRD subjects in this study.
 
 Pediatric Patients:Limited clinical data are available in children 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m 2) or in children younger than 1 year with serum creatinine results above 97.5th percentile [see Dosage and Administration (2.2)and Use in Specific Populations (8.6)].
+
+Elderly
+
+The terminal elimination half-life is 11 to 13 hours in the elderly subjects aged 60 to 76 years [see Use in Specific Populations (8.5)].
 
 Pediatric Patients
 
