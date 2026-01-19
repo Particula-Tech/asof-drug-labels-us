@@ -2,17 +2,21 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Importance of Adequate Hydration: Patients should be advised to maintain adequate hydration.
+Severe Cutaneous Adverse Reactions Inform patients that severe skin reactions including acute generalized exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS), toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), and erythema multiforme (EM) have been reported with valacyclovir.
+Advise patients to immediately contact their healthcare provider if they develop a rash.
+Instruct patients to immediately stop taking valacyclovir tablets and seek medical attention if a painful rash with mucosal involvement develops [see Contraindications (4), Warnings and Precautions (5.4), Adverse Reactions (6.3)].
 
-Missed Dose: Instruct patients that if they miss a dose of valacyclovir tablets, to take it as soon as they remember.
+Importance of Adequate Hydration Patients should be advised to maintain adequate hydration.
+
+Missed Dose Instruct patients that if they miss a dose of valacyclovir tablets, to take it as soon as they remember.
 Advise patients not to double their next dose or take more than the prescribed dose.
 
-Cold Sores (Herpes Labialis): Patients should be advised to initiate treatment at the earliest symptom of a cold sore (e.g., tingling, itching, or burning).
+Cold Sores (Herpes Labialis) Patients should be advised to initiate treatment at the earliest symptom of a cold sore (e.g., tingling, itching, or burning).
 There are no data on the effectiveness of treatment initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle, or ulcer).
 Patients should be instructed that treatment for cold sores should not exceed 1 day (2 doses) and that their doses should be taken about 12 hours apart.
 Patients should be informed that valacyclovir tablets are not a cure for cold sores.
 
-Genital Herpes: Patients should be informed that valacyclovir tablets are not a cure for genital herpes.
+Genital Herpes Patients should be informed that valacyclovir tablets are not a cure for genital herpes.
 Because genital herpes is a sexually transmitted disease, patients should avoid contact with lesions or intercourse when lesions and/or symptoms are present to avoid infecting partners.
 Genital herpes is frequently transmitted in the absence of symptoms through asymptomatic viral shedding.
 Therefore, patients should be counseled to use safer sex practices in combination with suppressive therapy with valacyclovir tablets.
@@ -26,9 +30,9 @@ If medical management of a genital herpes recurrence is indicated, patients shou
 There are no data on the effectiveness of treatment initiated more than 72 hours after the onset of signs and symptoms of a first episode of genital herpes or more than 24 hours after the onset of signs and symptoms of a recurrent episode.
 
 There are no data on the safety or effectiveness of chronic suppressive therapy of more than 1 year’s duration in otherwise healthy patients.
-There are no data on the safety or effectiveness of chronic suppressive therapy of more than 6 months’ duration in HIV-1–infected patients.
+There are no data on the safety or effectiveness of chronic suppressive therapy of more than 6 months’ duration in HIV-1-infected patients.
 
-Herpes Zoster: There are no data on treatment initiated more than 72 hours after onset of the zoster rash.
+Herpes Zoster There are no data on treatment initiated more than 72 hours after onset of the zoster rash.
 Patients should be advised to initiate treatment as soon as possible after a diagnosis of herpes zoster.
 
-Chickenpox: Patients should be advised to initiate treatment at the earliest sign or symptom of chickenpox.
+Chickenpox Patients should be advised to initiate treatment at the earliest sign or symptom of chickenpox.

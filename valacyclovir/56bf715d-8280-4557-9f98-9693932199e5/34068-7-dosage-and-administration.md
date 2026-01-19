@@ -72,7 +72,7 @@ Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) should be prepared in lots o
 - •Make the suspension to volume (100 mL) with SSV and shake thoroughly to mix.
 - •Transfer the suspension to an amber glass medicine bottle with a child-resistant closure.
 - •The prepared suspension should be labeled with the following information “Shake well before using.
-  Store suspension between 2° to 8°C (36° to 46°F) in a refrigerator.
+  Store suspension between 2°C to 8°C (36°F to 46°F) in a refrigerator.
   Discard after 28 days.”
 
 *The amount of cherry flavor added is as instructed by the suppliers of the cherry flavor.

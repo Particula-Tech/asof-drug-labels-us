@@ -5,6 +5,7 @@ The following serious adverse reactions are discussed in greater detail in other
 - •Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome [see Warnings and Precautions (5.1)].
 - •Acute Renal Failure [see Warnings and Precautions (5.2)].
 - •Central Nervous System Effects [see Warnings and Precautions (5.3)].
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.4)].
 
 The most common adverse reactions reported in at least 1 indication by greater than 10% of adult subjects treated with valacyclovir tablets and observed more frequently with valacyclovir tablets compared with placebo are headache, nausea, and abdominal pain.
 The only adverse reaction reported in greater than 10% of pediatric subjects aged less than 18 years was headache.
@@ -31,16 +32,12 @@ For the incidence of laboratory abnormalities see Table 2.
 In 3 clinical trials for the episodic treatment of recurrent genital herpes, the adverse reactions reported by greater than or equal to 5% of subjects receiving valacyclovir tablets 500 mg twice daily for 3 days (n = 402), valacyclovir tablets 500 mg twice daily for 5 days (n = 1,136), or placebo (n = 259), respectively, included headache (16%, 11%, 14%) and nausea (5%, 4%, 5%).
 For the incidence of laboratory abnormalities see Table 2.
 
-#### Suppressive Therapy
-
-##### Suppression of Recurrent Genital Herpes in Immunocompetent Adults
+#### Suppressive Therapy: Suppression of Recurrent Genital Herpes in Immunocompetent Adults
 
 In a clinical trial for the suppression of recurrent genital herpes infections, the adverse reactions reported by subjects receiving valacyclovir tablets 1 gram once daily (n = 269), valacyclovir tablets 500 mg once daily (n = 266), or placebo (n = 134), respectively, included headache (35%, 38%, 34%), nausea (11%, 11%, 8%), abdominal pain (11%, 9%, 6%), dysmenorrhea (8%, 5%, 4%), depression (7%, 5%, 5%), arthralgia (6%, 5%, 4%), vomiting (3%, 3%, 2%), and dizziness (4%, 2%, 1%).
 For the incidence of laboratory abnormalities see Table 2.
 
-##### Suppression of Recurrent Genital Herpes in HIV-1–Infected Subjects
-
-In HIV-1–infected subjects, frequently reported adverse reactions for valacyclovir tablets (500 mg twice daily; n = 194, median days on therapy = 172) and placebo (n = 99, median days on therapy = 59), respectively, included headache (13%, 8%), fatigue (8%, 5%), and rash (8%, 1%).
+Suppression of Recurrent Genital Herpes in HIV-1-Infected Subjects In HIV-1-infected subjects, frequently reported adverse reactions for valacyclovir tablets (500 mg twice daily; n = 194, median days on therapy = 172) and placebo (n = 99, median days on therapy = 59), respectively, included headache (13%, 8%), fatigue (8%, 5%), and rash (8%, 1%).
 Post-randomization laboratory abnormalities that were reported more frequently in valacyclovir subjects versus placebo included elevated alkaline phosphatase (4%, 2%), elevated ALT (14%, 10%), elevated AST (16%, 11%), decreased neutrophil counts (18%, 10%), and decreased platelet counts (3%, 0%), respectively.
 
 #### Reduction of Transmission
@@ -73,11 +70,11 @@ The remaining 112 pediatric subjects, aged 1 month to less than 12 years, partic
 Fifty-one of these 112 pediatric subjects received oral suspension for 3 to 6 days.
 The frequency, intensity, and nature of clinical adverse reactions and laboratory abnormalities were similar to those seen in adults.
 
-### Pediatric Subjects Aged 12 to Less Than 18 Years (Cold Sores)
+### Pediatric Subjects Aged 12 to Less than 18 Years (Cold Sores)
 
 In clinical trials for the treatment of cold sores, the adverse reactions reported by adolescent subjects receiving valacyclovir tablets 2 grams twice daily for 1 day, or valacyclovir tablets 2 grams twice daily for 1 day followed by 1 gram twice daily for 1 day (n = 65, across both dosing groups), or placebo (n = 30), respectively, included headache (17%, 3%) and nausea (8%, 0%).
 
-### Pediatric Subjects Aged 1 Month to Less Than 12 Years
+### Pediatric Subjects Aged 1 Month to Less than 12 Years
 
 Adverse events reported in more than 1 subject across the 3 pharmacokinetic and safety trials in children aged 1 month to less than 12 years were diarrhea (5%), pyrexia (4%), dehydration (2%), herpes simplex (2%), and rhinorrhea (2%).
 No clinically meaningful changes in laboratory values were observed.
@@ -88,20 +85,38 @@ In addition to adverse events reported from clinical trials, the following event
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to valacyclovir tablets.
 
-General: Facial edema, hypertension, tachycardia.
+### General
 
-Allergic: Acute hypersensitivity reactions including anaphylaxis, angioedema, dyspnea, pruritus, rash, and urticaria [see Contraindications (4)].
+Facial edema, hypertension, tachycardia.
 
-Central Nervous System (CNS) Symptoms: Aggressive behavior; agitation; ataxia; coma; confusion; decreased consciousness; dysarthria; encephalopathy; mania; and psychosis, including auditory and visual hallucinations, seizures, tremors [see Warnings and Precautions (5.3), Use in Specific Populations (8.5, 8.6)].
+### Allergic
 
-Eye: Visual abnormalities.
+Acute hypersensitivity reactions including anaphylaxis, angioedema, dyspnea, pruritus, rash, and urticaria [see Contraindications (4)].
 
-Gastrointestinal: Diarrhea.
+### Central Nervous System (CNS) Symptoms
 
-Hepatobiliary Tract and Pancreas: Liver enzyme abnormalities, hepatitis.
+Aggressive behavior; agitation; ataxia; coma; confusion; decreased consciousness; dysarthria; encephalopathy; mania; and psychosis, including auditory and visual hallucinations, seizures, tremors [see Warnings and Precautions (5.3), Use in Specific Populations (8.5, 8.6)].
 
-Renal: Renal failure, renal pain (may be associated with renal failure) [see Warnings and Precautions (5.2), Use in Specific Populations (8.5, 8.6)].
+### Eye
 
-Hematologic: Thrombocytopenia, aplastic anemia, leukocytoclastic vasculitis, TTP/HUS [see Warnings and Precautions (5.1)].
+Visual abnormalities.
 
-Skin: Erythema multiforme, rashes including photosensitivity, alopecia.
+### Gastrointestinal
+
+Diarrhea.
+
+### Hepatobiliary Tract and Pancreas
+
+Liver enzyme abnormalities, hepatitis.
+
+### Renal
+
+Renal failure, renal pain (may be associated with renal failure) [see Warnings and Precautions (5.2), Use in Specific Populations (8.5, 8.6)].
+
+### Hematologic
+
+Thrombocytopenia, aplastic anemia, leukocytoclastic vasculitis, TTP/HUS [see Warnings and Precautions (5.1)].
+
+### Skin and Subcutaneous Tissue Disorders
+
+Acute generalized exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS), toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), erythema multiforme (EM), rashes including photosensitivity, alopecia [see Contraindications (4), Warnings and Precautions (5.4)].

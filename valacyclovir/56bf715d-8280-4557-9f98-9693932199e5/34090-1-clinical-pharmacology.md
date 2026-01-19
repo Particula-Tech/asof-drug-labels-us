@@ -12,7 +12,7 @@ The pharmacokinetics of valacyclovir and acyclovir after oral administration of 
 
 #### Absorption and Bioavailability
 
-After oral administration, valacyclovir hydrochloride is rapidly absorbed from the gastrointestinal tract and nearly completely converted to acyclovir and L-valineby first-pass intestinal and/or hepatic metabolism.
+After oral administration, valacyclovir hydrochloride is rapidly absorbed from the gastrointestinal tract and nearly completely converted to acyclovir and L-valine by first-pass intestinal and/or hepatic metabolism.
 
 The absolute bioavailability of acyclovir after administration of valacyclovir tablets is 54.5% ± 9.1% as determined following a 1-gram oral dose of valacyclovir tablets and a 350-mg intravenous acyclovir dose to 12 healthy volunteers.
 Acyclovir bioavailability from the administration of valacyclovir tablets is not altered by administration with food (30 minutes after an 873 Kcal breakfast, which included 51 grams of fat).
@@ -27,7 +27,7 @@ Mean (± SD) Plasma Acyclovir Pharmacokinetic Parameters Following Administratio
 
 | Dose | Single-Dose Administration(N = 8) |  | Multiple-Dose AdministrationAdministered 4 times daily for 11 days.(N = 24, 8 per treatment arm) |  |
 | --- | --- | --- | --- | --- |
-| Cmax (± SD)(mcg/mL) | AUC (± SD) (hr • mcg/mL) | Cmax (± SD) (mcg/mL) | AUC (± SD) (hr • mcg/mL) |  |
+| Cmax (± SD)(mcg/mL) | AUC (± SD) (h • mcg/mL) | Cmax (± SD) (mcg/mL) | AUC (± SD) (h • mcg/mL) |  |
 | 100 mg | 0.83 (± 0.14) | 2.28 (± 0.40) | ND | ND |
 | 250 mg | 2.15 (± 0.50) | 5.76 (± 0.60) | 2.11 (± 0.33) | 5.66 (± 1.09) |
 | 500 mg | 3.28 (± 0.83) | 11.59 (± 1.79) | 3.69 (± 0.87) | 9.88 (± 2.01) |
@@ -92,9 +92,9 @@ Acyclovir pharmacokinetic parameter estimates following a 20-mg/kg dose are prov
 Table 4.
 Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameter Estimates Following First-Dose Administration of 20 mg/kg Valacyclovir Oral Suspension to Pediatric Subjects vs. 1-Gram Single Dose of Valacyclovir Tablets to Adults
 
-| Parameter | Pediatric Subjects(20 mg/kg Oral Suspension) |  |  | Adults1-gram Solid Dose of Valacyclovir TabletsHistorical estimates using pediatric pharmacokinetic sampling schedule.(N = 15) |
+| Parameter | Pediatric Subjects(20 mg/kg Oral Suspension) |  |  | Adults1-gram Solid Dose of Valacyclovir TabletsHistorical estimates using pediatric pharmacokinetic sampling schedule.(n = 15) |
 | --- | --- | --- | --- | --- |
-| 1 - < 2 year(N = 6) | 2 - < 6 year(N = 12) | 6 - < 12 year(N = 8) |  |  |
+| 1 - < 2 year(n = 6) | 2 - < 6 year(n = 12) | 6 - < 12 year(n = 8) |  |  |
 | AUC (mcg•hr/mL) | 14.4 (± 6.26) | 10.1 (± 3.35) | 13.1 (± 3.43) | 17.2 (± 3.10) |
 | Cmax (mcg/mL) | 4.03 (± 1.37) | 3.75 (± 1.14) | 4.71 (± 1.20) | 4.72 (± 1.37) |
 
@@ -111,7 +111,7 @@ The pharmacokinetics of acyclovir after a single dose of valacyclovir tablets (1
 
 Acyclovir Cmax and AUC following a single dose of valacyclovir tablets (1 gram) increased by 8% and 32%, respectively, after a single dose of cimetidine (800 mg).
 
-#### Cimetidine Plus Probenecid
+#### Cimetidine plus Probenecid
 
 Acyclovir Cmax and AUC following a single dose of valacyclovir tablets (1 gram) increased by 30% and 78%, respectively, after a combination of cimetidine and probenecid, primarily due to a reduction in renal clearance of acyclovir.
 
@@ -186,7 +186,7 @@ Summary of Acyclovir Resistance-Associated Amino Acid Substitutions Observed in 
 | HSV-2 | POL | E250Q, D307N, K533E, A606V, C625R, R628C, E678G, A724V, S725G, S729N, I731F, Q732R, D785N, M789K/T, V818A, N820S, Y823C, Q829R, T843A, M910T, D912N/V, A915V, F923L, T934A,R964H |
 | Note: Many additional pathways to acyclovir resistance likely exist. |  |  |
 
-### Cross Resistance
+### Cross-Resistance
 
 Cross-resistance has been observed among HSV isolates carrying frameshift mutations and resistance-associated substitutions, which confer reduced susceptibility to penciclovir (PCV), famciclovir (FCV), and foscarnet (FOS) (Table 7).
 
