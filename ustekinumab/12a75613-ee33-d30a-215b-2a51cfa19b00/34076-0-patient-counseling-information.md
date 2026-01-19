@@ -10,9 +10,10 @@ Malignancies
 
 Inform patients of the risk of developing malignancies while receiving YESINTEK [see Warnings and Precautions (5.4)].
 
-Hypersensitivity Reactions
+Serious Hypersensitivity and Reactions
 
-- Advise patients to seek immediate medical attention if they experience any signs or symptoms of serious hypersensitivity reactions and discontinue YESINTEK [see Warnings and Precautions (5.5)].
+- Inform patients that serious hypersensitivity reactions have been reported with intravenous and subcutaneous administration of ustekinumab products.
+  Instruct patients to discontinue YESINTEK and seek immediate medical attention if they experience any signs or symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
 
 Posterior Reversible Encephalopathy Syndrome (PRES)
 
@@ -38,6 +39,6 @@ U.S. License No. 2324
 
 Product of India
 
-© 2024 Biocon Biologics Inc.
+© 2026 Biocon Biologics Inc.
 
-Revised: 11/2024
+Revised: 01/2026

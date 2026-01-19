@@ -24,7 +24,7 @@ Single-dose Vial
 
 - 130 mg/26 mL (5 mg/mL) (NDC 83257-026-11)
 
-Storage and Handling
+Storage and Stability
 
 Store YESINTEK vials and prefilled syringes refrigerated between 2°C to 8°C (36°F to 46°F).
 Store YESINTEK vials upright.
