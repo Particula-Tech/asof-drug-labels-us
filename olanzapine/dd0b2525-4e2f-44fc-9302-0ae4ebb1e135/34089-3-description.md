@@ -13,3 +13,5 @@ Olanzapine orally disintegrating tablets, USP are intended for oral administrati
 Each orally disintegrating tablet contains olanzapine, USP equivalent to 5 mg (16 micromol), 10 mg (32 micromol), 15 mg (48 micromol) or 20 mg (64 micromol).
 It begins disintegrating in the mouth within seconds, allowing its contents to be subsequently swallowed with or without liquid.
 Olanzapine orally disintegrating tablets, USP also contain the following inactive ingredients: aspartame powder, colloidal silicon dioxide, crospovidone, magnesium stearate, mannitol, microcrystalline cellulose, sodium stearyl fumarate, strawberry flavor and xylitol.
+
+Meets USP Disintegration Test 2.

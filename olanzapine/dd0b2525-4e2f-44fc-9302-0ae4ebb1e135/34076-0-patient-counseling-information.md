@@ -94,9 +94,7 @@ The decision to prescribe atypical antipsychotic medication will depend upon the
 
 Brands listed are the trademarks of their respective owners.
 
-Dispense with Medication Guide available at: www.tevausa.com/medguides
-
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-J 3/2025
+K 11/2025
