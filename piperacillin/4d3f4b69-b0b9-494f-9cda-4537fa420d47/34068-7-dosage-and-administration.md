@@ -114,7 +114,8 @@ Reconstituted piperacillin and tazobactam solutions for single-dose vials should
 1. 1.Calculate patient dose as described in Table 2 above [see Dosage and Administration (2.4)].
 2. 2.Reconstitute vial with a compatible reconstitution diluent, as listed above under the subheading “Compatible Reconstitution Diluents for Single-Dose Vials,” using the appropriate volume of diluent, as listed in Table 3 below.
    Following the addition of the diluent, swirl the single-dose vial until the powder is completely dissolved.
-3. Table 3: Reconstitution of Single-Dose Vials and Resulting Concentration
+
+Table 3: Reconstitution of Single-Dose Vials and Resulting Concentration
 
 | Strength per Single-Dose Vial | Volume of Diluent to be Added to the Vial | Concentration of the Reconstituted Product |
 | --- | --- | --- |
