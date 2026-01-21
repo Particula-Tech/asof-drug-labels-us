@@ -1,6 +1,6 @@
 Patient Information
 
-Losartan Potassium (low-SAHR-tan poe-TASS-ee-uhm) Tablets USP
+Losartan Potassium (loe sar'tan poe tas' ee um) Tablets
 
 25 mg, 50 mg, 100 mg
 
@@ -12,9 +12,9 @@ This leaflet does not take the place of talking with your doctor about your cond
 
 What is the most important information I should know about losartan potassium tablets?
 
-- Do not take losartan potassium tablets if you are pregnant or plan to become pregnant. losartan potassium tablets can harm your unborn baby causing injury and even death.
-  Stop taking losartan potassium tablets if you become pregnant and call your doctor right away.
-  If you plan to become pregnant, talk to your doctor about other treatment options before taking losartan potassium tablets.
+- Losartan potassium tablets can cause harm or death to an unborn baby.
+- Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
+- If you get pregnant while taking losartan potassium tablets, tell your doctor right away.
 
 What is losartan potassium tablet?
 
@@ -66,8 +66,11 @@ Especially tell your doctor if you are taking:
 
 - potassium supplements
 - salt substitutes containing potassium
+- other medicines that may increase serum potassium
 - water pills (diuretics)
+- lithium (a medicine used to treat a certain kind of depression)
 - medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
+- other medicines to reduce blood pressure
 
 How should I take losartan potassium tablets?
 
@@ -88,12 +91,12 @@ Losartan potassium tablets may cause the following side effects that may be seri
 - Allergic reaction.
   Symptoms of an allergic reaction are swelling of the face, lips, throat or tongue.
   Get emergency medical help right away and stop taking losartan potassium tablets.
-- Low blood pressure (hypotension).
-  Low blood pressure may cause you to feel faint or dizzy.
+- Low blood pressure (hypotension).Low blood pressure may cause you to feel faint or dizzy.
 - Lie down if you feel faint or dizzy.
   Call your doctor right away.
 - For people who already have kidney problems, you may see a worsening in how well your kidneys work.
   Call your doctor if you get swelling in your feet, ankles, or hands, or unexplained weight gain.
+- High blood levels of potassium
 
 The most common side effects of losartan potassium tablets in people with high blood pressure are:
 
@@ -154,4 +157,4 @@ United States
 
 MADE IN INDIA
 
-Revised: August 2025 ID#: 280990
+Revised: January 2026 ID#: 282850

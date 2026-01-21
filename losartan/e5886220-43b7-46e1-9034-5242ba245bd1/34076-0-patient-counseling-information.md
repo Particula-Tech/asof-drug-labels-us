@@ -24,6 +24,6 @@ United States
 
 MADE IN INDIA.
 
-Revised: August 2025
+Revised: January 2026
 
 The trademarks depicted herein are owned by their respective companies.

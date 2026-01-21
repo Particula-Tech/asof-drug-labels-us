@@ -4,7 +4,7 @@
 
 Adult Hypertension
 
-The usual starting dose of losartan potassium tablets USP are 50 mg once daily.
+The usual starting dose of losartan potassium tablets are 50 mg once daily.
 The dosage can be increased to a maximum dose of 100 mg once daily as needed to control blood pressure [see CLINICAL STUDIES (14.1)].
 A starting dose of 25 mg is recommended for patients with possible intravascular depletion (e.g., on diuretic therapy).
 
@@ -28,8 +28,8 @@ The dose should be increased to 100 mg once daily based on blood pressure respon
 
 ## 2.4 Dosage Modifications in Patients with Hepatic Impairment
 
-In patients with mild-to-moderate hepatic impairment the recommended starting dose of losartan potassium tablet USP is 25 mg once daily.
-Losartan potassium tablet USP has not been studied in patients with severe hepatic impairment [see USE IN SPECIFIC POPULATIONS (8.8) and CLINICAL PHARMACOLOGY (12.3)].
+In patients with mild-to-moderate hepatic impairment the recommended starting dose of losartan potassium tablet is 25 mg once daily.
+Losartan potassium tablet has not been studied in patients with severe hepatic impairment [see USE IN SPECIFIC POPULATIONS (8.8) and CLINICAL PHARMACOLOGY (12.3)].
 
 ## 2.5 Preparation of Suspension (for 200 mL of a 2.5 mg/mL suspension)
 
