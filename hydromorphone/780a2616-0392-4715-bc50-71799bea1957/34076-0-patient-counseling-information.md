@@ -28,7 +28,7 @@ Inform patients that accidental ingestion, especially by children, may result in
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if hydromorphone hydrochloride extended-release tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if hydromorphone hydrochloride extended-release tablets are used with benzodiazepines or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids), and not to use these concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
@@ -43,8 +43,8 @@ Explain to patients and caregivers that effects of opioid overdose reversal agen
 
 Advise patients and caregivers:
 
-- •how to treat with the overdose reversal agent in the event of an opioid overdose
-- •to tell family and friends about the opioid overdose reversal agent, and to keep it in a place where family and friends can access it in an emergency.
+- •how to treat with the overdose reversal agent in the event of an opioid overdose.
+- •to tell family and friends about their opioid overdose reversal agent, and to keep it in a place where family and friends can access it in an emergency.
 - •to read the Patient Information (or other educational material) that will come with their opioid overdose reversal agent.
   Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
@@ -68,10 +68,9 @@ Important Administration Instructions
 
 Instruct patients how to properly take hydromorphone hydrochloride extended-release tablets, including the following:
 
-Hydromorphone hydrochloride extended-release tablets are designed to work properly only if swallowed intact.
-Taking cut, broken, chewed, crushed, or dissolved hydromorphone hydrochloride extended-release tablets can result in a fatal overdose [see Dosage and Administration (2.1)].
-
-Using hydromorphone hydrochloride extended-release tablets exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression)
+- •Hydromorphone hydrochloride extended-release tablets are designed to work properly only if swallowed intact.
+  Taking cut, broken, chewed, crushed, or dissolved hydromorphone hydrochloride extended-release tablets can result in a fatal overdose [see Dosage and Administration (2.1)].
+- •Using hydromorphone hydrochloride extended-release tablets exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression)
 
 Important Discontinuation Instructions
 
@@ -127,13 +126,9 @@ Infertility
 Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
-Manufactured by Padagis®
+Manufactured by Padagis® Minneapolis, MN 55427 www.padagis.com
 
-Minneapolis, MN 55427
-
-www.padagis.com
-
-Rev 08-25
+Revision: MM/YYYY
 
 PHARMACIST: Dispense a separate Medication Guide to each patient.
 Dispense with Medication Guide available at www.padagis.com/medguide/HDMRTabs

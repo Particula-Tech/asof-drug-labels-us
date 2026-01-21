@@ -17,7 +17,7 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Hydromorphone hydrochloride extended-release tablets were administered to a total of 2,524 patients in 15 controlled and uncontrolled clinical studies.
+Hydromorphone hydrochloride extended-release tablets was administered to a total of 2,524 patients in 15 controlled and uncontrolled clinical studies.
 Of these, 423 patients were exposed to hydromorphone hydrochloride extended-release tablets for greater than 6 months and 141 exposed for greater than one year.
 
 The most common adverse reactions leading to study discontinuation were nausea, vomiting, constipation, somnolence, and dizziness.
@@ -93,7 +93,7 @@ Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients wit
 | Chest Pain | 51 (2) |
 | * Reflux esophagitis, gastroesophageal reflux disease and Barrett’s esophagus were grouped and reported with dyspepsia |  |
 
-The following Adverse Reactions occurred in patients with an overall frequency of <2% and are listed in descending order within each System Organ Class:
+The following Adverse Reactions occurred in patients with an overall frequency of < 2% and are listed in descending order within each System Organ Class:
 
 Cardiac disorders: palpitations, tachycardia, bradycardia, extrasystoles
 
@@ -147,14 +147,14 @@ Androgen deficiency: Cases of androgen deficiency have occurred with use of opio
 Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.6)].
 
 Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
-Most reports were in patients with at least one predisposing risk factor (e.g. diabetes).
+Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
 
-Opioid-induced esophageal dysfunction (OIED): Cases of OIED have been reported in patients taking opioids, and may occur more frequently in patients taking higher doses of opioid, and/or in patients taking opioids longer term [see Warnings and Precautions (5.11)].
+Opioid-induced esophageal dysfunction (OIED): Cases of OIED have been reported in patients taking opioids, and may occur more frequently in patients taking higher doses of opioids, and/or in patients taking opioids longer term [see Warnings and Precautions (5.11)].
 
 Adverse Reactions from Observational Studies
 
 A prospective, observational cohort study estimated the risks of addiction, abuse, and misuse in patients initiating long-term use of Schedule II opioid analgesics between 2017 and 2021.
-Study participants included in one or more analyses had been enrolled in selected insurance plans or health systems for at least one year, were free of at least one outcome at baseline, completed a minimum number of follow-up assessments, and either: 1) filled multiple extended-release/long-acting opioid analgesic prescriptions during a 90 day period (n=978); or 2) filled any Schedule II opioid analgesic for at least 70 of 90 days (n=1,244).
+Study participants included in one or more analyses had been enrolled in selected insurance plans or health systems for at least one year, were free of at least one outcome at baseline, completed a minimum number of follow-up assessments, and either: 1) filled multiple extended-release/long-acting opioid analgesic prescriptions during a 90-day period (n=978); or 2) filled any Schedule II opioid analgesic prescriptions covering at least 70 of 90 days (n=1,244).
 Those included also had no dispensing of the qualifying opioids in the previous 6 months.
 
 Over 12 months:

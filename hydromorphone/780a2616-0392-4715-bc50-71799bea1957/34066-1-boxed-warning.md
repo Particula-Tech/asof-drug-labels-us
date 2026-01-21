@@ -8,7 +8,7 @@ Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression may occur with use of hydromorphone hydrochloride extended-release tablets, especially during initiation or following a dosage increase.
 To reduce the risk of respiratory depression, proper dosing and titration of hydromorphone hydrochloride extended-release tablets are essential.
-Instruct patients to swallow hydromorphone hydrochloride extended-release tablets whole; crushing, chewing, or dissolving hydromorphone hydrochloride extended-release tablets can cause rapid release and absorption of a potentially fatal dose of hydromorphone [see Warnings and Precautions (5.2)].
+Instruct patients to swallow hydromorphone hydrochloride extended-release tablets whole to avoid exposure to a potentially fatal dose of hydromorphone[see Warnings and Precautions (5.2)].
 
 Accidental Ingestion
 
@@ -26,4 +26,4 @@ Ensure that management by neonatology experts will be available at delivery [see
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
-Healthcare providers are strongly encouraged to complete a REMS-compliant education program, and to counsel patients and caregivers on serious risks, safe use, and the importance of reading the Medication Guide with each prescription [see Warnings and Precautions (5.5)].
+Healthcare providers are strongly encouraged to complete a REMS-compliant education program and to counsel patients and caregivers on serious risks, safe use, and the importance of reading the Medication Guide with each prescription [see Warnings and Precautions (5.5)].

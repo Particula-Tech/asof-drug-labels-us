@@ -2,19 +2,19 @@
 
 ## 5.1 Addiction, Abuse, and Misuse
 
-Hydromorphone hydrochloride extended-release tablets contain hydromorphone, a Schedule II controlled substance.
-As an opioid, hydromorphone hydrochloride extended-release tablets expose users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
+Hydromorphone hydrochloride extended-release tablets contains hydromorphone, a Schedule II controlled substance.
+As an opioid, hydromorphone hydrochloride extended-release tablets exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed hydromorphone hydrochloride extended-release tablets and in those who obtain the drug illicitly.
 Addiction can occur at recommended doses and if the drug is misused or abused.
 The risk of opioid-related overdose or overdose-related death is increased with higher opioid doses, and this risk persists over the course of therapy.
-In postmarketing studies, addiction, abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use [see Postmarketing Experience (6.2)].
+In postmarketing studies, addiction, abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use [see Adverse Reactions (6.2)].
 
 Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing hydromorphone hydrochloride extended-release tablets, and reassess all patients receiving hydromorphone hydrochloride extended-release tablets for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol addiction or abuse) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the prescribing of hydromorphone hydrochloride extended-release tablets for the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as hydromorphone hydrochloride extended-release tablets, but use in such patients necessitates intensive counseling about the risks and proper use of hydromorphone hydrochloride extended-release tablets along with frequent reevaluation for signs of addiction, abuse, and misuse.
-Consider prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
+Consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
 
 Abuse or misuse of hydromorphone hydrochloride extended-release tablets by crushing, chewing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of hydromorphone and can result in overdose and death [see Overdosage (10)].
 
@@ -27,7 +27,7 @@ Contact local state professional licensing board or state-controlled substances 
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of modified-release opioids, even when used as recommended.
 Respiratory depression from opioid use, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agents, depending on the patient’s clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of hydromorphone hydrochloride extended-release tablets, the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -59,7 +59,7 @@ Emphasize the importance of calling 911 or getting emergency medical help, even 
 
 ## 5.3 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of hydromorphone hydrochloride extended-release tablets with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids, and other opioids).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of hydromorphone hydrochloride extended-release tablets with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -70,7 +70,7 @@ In patients already receiving an opioid analgesic, prescribe a lower initial dos
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Inform patients and caregivers of this potential interaction, educate them on the signs and symptoms of respiratory depression (including sedation).
 
-If concomitant use is warranted, consider prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.2), Overdosage (10)].
+If concomitant use is warranted, consider recommending or prescribing an opioid overdose reversal agent[see Dosage and Administration (2.2), Warnings and Precautions (5.2), Overdosage (10)].
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when hydromorphone hydrochloride extended-release tablets are used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
@@ -83,7 +83,7 @@ Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
 Advise pregnant women using opioids for an extended period of time of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 
-## 5.5 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
+## 5.5 Risk Evaluation and Mitigation Strategy (REMS)
 
 To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
@@ -122,7 +122,7 @@ Elderly, Cachectic, or Debilitated Patients:
 
 Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
-Regularly evaluate such patients closely, particularly when initiating and titrating hydromorphone hydrochloride extended-release tablets and when hydromorphone hydrochloride extended-release tablets are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5), Drug Interactions (7)].
+Regularly evaluate patients, particularly when initiating and titrating hydromorphone hydrochloride extended-release tablets and when hydromorphone hydrochloride extended-release tablets are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5), Drug Interactions (7)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
 
 ## 5.8 Adrenal Insufficiency
@@ -168,16 +168,16 @@ Regularly evaluate patients with biliary tract disease, including acute pancreat
 
 Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
 The risk of OIED may increase as the dose and/or duration of opioids increases.
-Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain), and if necessary, adjust opioid therapy as clinically appropriate.
+Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain) and, if necessary, adjust opioid therapy as clinically appropriate [see Clinical Pharmacology (12.2)].
 
 ## 5.12 Increased Risk of Seizures in Patients with Seizure Disorders
 
 The hydromorphone in hydromorphone hydrochloride extended-release tablets may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings associated with seizures.
-Regularly evaluate patients with a history of seizure disorders for worsened seizure control during hydromorphone hydrochloride extended-release tablet therapy.
+Regularly evaluate patients with a history of seizure disorders for worsened seizure control during hydromorphone hydrochloride extended-release tablets therapy.
 
 ## 5.13 Withdrawal
 
-Do not abruptly discontinue hydromorphone hydrochloride extended-release tablets in a patient physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue hydromorphone hydrochloride extended-release tablets in a patient physically dependent on opioids.
 When discontinuing hydromorphone hydrochloride extended-release tablets in a physically dependent patient, gradually taper the dosage.
 Rapid tapering of hydromorphone in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.5), Drug Abuse and Dependence (9.3)].
 
