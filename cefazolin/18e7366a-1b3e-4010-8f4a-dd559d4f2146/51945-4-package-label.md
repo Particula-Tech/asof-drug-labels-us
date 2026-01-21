@@ -18,7 +18,7 @@ SANDOZ – A Novartis Division
 
 # 1 g Carton
 
-NDC 0781-3451-96
+NDC 0781-3451-95
 
 Cefazolin for Injection, USP
 
@@ -30,6 +30,6 @@ For I.M. or I.V. use
 
 Sterile
 
-25 x 1 g Vials
+10 x 1 g Vials
 
-SANDOZ – A Novartis Division
+SANDOZ
