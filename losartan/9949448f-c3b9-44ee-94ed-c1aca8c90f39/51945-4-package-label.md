@@ -17,7 +17,7 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
 
-NDC 78206-122-01
+NDC 78206-122-02
 
 Cozaar® (Losartan Potassium Tablets)
 
@@ -30,11 +30,11 @@ Protect from light.
 
 Rx only
 
-30 Tablets
+90 Tablets
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
-NDC 78206-123-01
+NDC 78206-123-02
 
 Cozaar® (Losartan Potassium Tablets)
 
@@ -47,4 +47,4 @@ Protect from light.
 
 Rx only
 
-30 Tablets
+90 Tablets
