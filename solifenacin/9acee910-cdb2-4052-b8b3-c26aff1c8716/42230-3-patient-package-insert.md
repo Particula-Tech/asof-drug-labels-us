@@ -12,5 +12,5 @@
 | What are the ingredients in VESIcare?Active ingredient: solifenacin succinateInactive ingredients: lactose monohydrate, corn starch, hypromellose 2910, magnesium stearate, talc, polyethylene glycol 8000 and titanium dioxide with yellow ferric oxide (5 mg VESIcare tablet) or red ferric oxide (10 mg VESIcare tablet) |
 | What is overactive bladder?Overactive bladder occurs when you cannot control your bladder contractions. When these muscle contractions happen too often or cannot be controlled you can get symptoms of overactive bladder, which are urinary frequency, urinary urgency, and urinary incontinence (leakage). Marketed and Distributed by:Astellas Pharma US, Inc.Northbrook, Illinois 60062 VESIcare is a registered trademark of Astellas Pharma Inc. © 2004 – 2022 Astellas Pharma US, Inc. For more information, call 1-800-727-7003. 361078-VES |
 
-1. This Patient Information has been approved by the U.S. Food and Drug Administration.
-   Revised: 10/2022
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+Revised: 10/2022
