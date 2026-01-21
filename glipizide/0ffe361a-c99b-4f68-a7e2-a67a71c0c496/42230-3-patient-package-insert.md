@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Glipizide Extended-Release Tablets (GLIP i zide)
+Glipizide Extended-Release Tablets, USP (GLIP i zide)
 
 What are Glipizide Extended-Release Tablets?
 
@@ -59,7 +59,7 @@ How should I take Glipizide Extended-Release Tablets?
   If your blood sugar level is not under control, call your healthcare provider.
   Do not change your dose unless your healthcare provider tells you to.
 - If you take too much glipizide extended-release tablets, call your healthcare provider or go to the nearest emergency room right away.
-- Your healthcare provider may tell you to take glipizide extended-release tablet with other diabetes medicines.
+  Your healthcare provider may tell you to take glipizide extended-release tablet with other diabetes medicines.
   Low blood sugar can happen more often when glipizide extended-release tablet is taken with other diabetes medicines.
   See “What are the possible side effects of Glipizide Extended-Release Tablets?”
 - Check your blood sugar as your healthcare provider tells you to.
@@ -117,7 +117,7 @@ This Patient Information summarizes the most important information about glipizi
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about glipizide extended-release tablets that is written for healthcare professionals.
 
-For more information about glipizide extended-release tablets please call 1-(844)-874-7464
+For more information about glipizide extended-release tablets please call 1-844-874-7464
 
 What are the ingredients in Glipizide Extended-Release Tablets?
 Active ingredient: glipizide Inactive ingredients: cellulose acetate, ferrosoferric oxide, hypromellose, magnesium stearate, polyethylene glycol, polyethylene oxide, propylene glycol, red ferric oxide, shellac, sodium chloride, titanium dioxide.
@@ -129,6 +129,6 @@ Distributed by:
 
 Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
 
-141698
+142877
 
-Revised: 05/2025
+Revised: 11/2025

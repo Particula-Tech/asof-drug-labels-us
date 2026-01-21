@@ -34,7 +34,7 @@ There are no data on the effects of glipizide on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for glipizide extended-release tablets and any potential adverse effects on the breastfed child from glipizide extended-release tablets or from the underlying maternal condition.
 Clinical Considerations Monitoring for adverse reactions Monitor breastfed infants for signs of hypoglycemia (e.g., jitters, cyanosis, apnea, hypothermia, excessive sleepiness, poor feeding, seizures).
 
-## 8.4. Pediatric Use
+## 8.4 Pediatric Use
 
 Safety and effectiveness in children have not been established.
 

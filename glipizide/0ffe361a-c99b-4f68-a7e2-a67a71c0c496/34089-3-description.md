@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Glipizide extended-release tablets contain glipizide which is an oral sulfonylurea.
+Glipizide extended-release tablets,USP contain glipizide which is an oral sulfonylurea.
 
 The Chemical Abstracts name of glipizide is 1-cyclohexyl-3-[[p-[2-(5-methylpyrazinecarboxamido) ethyl] phenyl]sulfonyl]urea.
 The molecular formula is C21H27N5O4S; the molecular weight is 445.55; the structural formula is shown below:
