@@ -11,7 +11,7 @@ Talk to your doctor if you have any questions about risedronate sodium tablets, 
 
 What is the most important information I should know about risedronate sodium tablets?
 
-Risedronate sodium tablet scan cause serious side effects including:
+Risedronate sodium tablets can cause serious side effects including:
 
 1. Esophagus problems
 2. Low calcium levels in your blood (hypocalcemia)
@@ -58,10 +58,10 @@ Bone, joint, or muscle pain.
 Some people who take risedronate sodium tablets develop severe bone, joint, or muscle pain.
 
 5.
-Unusual thigh bone fractures.
-
-Some people have developed unusual fractures in their thigh bone.
-Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
+Unusual breaks in thigh and other bones.
+Some people have had unusual bone breaks, including thigh bone, when taking risedronate sodium tablets.
+A break in the thigh bone can feel like a new pain in your hip, groin, or thigh.
+People taking risedronate sodium tablets can also have breaks in other bones
 
 Call your doctor right away if you have any of these side effects.
 
@@ -199,7 +199,7 @@ Active ingredient: risedronate sodium
 
 Inactive ingredients in all dose strengths: mannitol, microcrystalline cellulose, croscarmellose sodium, pregelatinized maize starch, colloidal silicon dioxide, magnesium stearate, polyvinyl alcohol, titanium dioxide, polyethylene glycol, talc.
 
-Inactive ingredients specific to a dose strength: 5 mg—iron oxide yellow; 35 mg— iron oxide red, iron oxide yellow; 75 mg— iron oxide red; 150 mg—FD&C blue #2 aluminum lake.
+Inactive ingredients specific to a dose strength: 5 mg-iron oxide yellow; 35 mg- iron oxide red, iron oxide yellow; 75 mg- iron oxide red; 150 mg-FD&C blue #2 aluminum lake.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -221,4 +221,4 @@ U.T. of D & NH and Daman & Diu, India.
 
 5244528
 
-ISS: 06/2024
+ISS: 01/2026

@@ -8,6 +8,7 @@ Patients were selected on the basis of radiographic evidence of previous vertebr
 The average number of prevalent vertebral fractures per patient at study entry was 4 in VERT MN, and 2.5 in VERT NA, with a broad range of baseline BMD levels.
 All patients in these studies received supplemental calcium 1,000 mg/day.
 Patients with low 25-hydroxyvitamin D3 levels (approximately 40 nmol/L or less) also received supplemental vitamin D 500 international units/day.
+
 Effect on Vertebral Fractures Fractures of previously undeformed vertebrae (new fractures) and worsening of preexisting vertebral fractures were diagnosed radiographically; some of these fractures were also associated with symptoms (that is, clinical fractures).
 Spinal radiographs were scheduled annually and prospectively planned analyses were based on the time to a patient's first diagnosed fracture.
 The primary endpoint for these studies was the incidence of new and worsening vertebral fractures across the period of 0 to 3 years.
@@ -37,6 +38,8 @@ Table 3 The Effect of Risedronate Sodium on the Risk of Vertebral Fractures
 | 0 to 2 Years | 24.7 | 11.6 | 13.1 | 59 |
 | 0 to 3 Years | 29.0 | 18.1 | 10.9 | 49 |
 
+*Calculated by Kaplan-Meier methodology.
+
 Effect on Osteoporosis-Related Nonvertebral Fractures In VERT MN and VERT NA, a prospectively planned efficacy endpoint was defined consisting of all radiographically confirmed fractures of skeletal sites accepted as associated with osteoporosis.
 Fractures at these sites were collectively referred to as osteoporosis-related nonvertebral fractures.
 Risedronate sodium 5 mg daily significantly reduced the incidence of nonvertebral osteoporosis-related fractures over 3 years in VERT NA (8% versus 5%; relative risk reduction 39%) and reduced the fracture incidence in VERT MN from 16% to 11%.
@@ -51,14 +54,13 @@ In both VERT studies (VERT MN and VERT NA), risedronate sodium 5 mg daily produc
 
 Table 4 Mean Percent Increase in BMD from Baseline in Patients Taking Risedronate Sodium 5 mg or Placebo at Endpointa
 
-|  | VERT MNThe duration of the studies was 3 years |  | VERT NA |  | BMD MNThe duration of the studies was 1.5 to 2 years |  | BMD NA |  |
+|  | VERT MN |  | VERT NA |  | BMD MNThe duration of the studies was 1.5 to 2 years. |  | BMD NA |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Placebo N = 323 | 5 mg N = 323 | Placebo N = 599 | 5 mg N = 606 | Placebo N = 161 | 5 mg N = 148 | Placebo N = 191 | 5 mg N = 193 |
 | Lumbar Spine | 1.0 | 6.6 | 0.8 | 5.0 | 0.0 | 4.0 | 0.2 | 4.8 |
 | Femoral Neck | -1.4 | 1.6 | -1.0 | 1.4 | -1.1 | 1.3 | 0.1 | 2.4 |
 | Femoral Trochanter | -1.9 | 3.9 | -0.5 | 3.0 | -0.6 | 2.5 | 1.3 | 4.0 |
 | Midshaft Radius | -1.5BMD of the midshaft radius was measured in a subset of centers in VERT MN (placebo, N = 222; 5 mg, N = 214) and VERT NA (placebo, N = 310; 5 mg, N = 306) | 0.2 | -1.2 | 0.1 | ND |  | ND |  |
-| aThe endpoint value is the value at the study's last time point for all patients who had BMD measured at that time; otherwise the last post-baseline BMD value prior to the study's last time point is used. |  |  |  |  |  |  |  |  |
 
 ND = analysis not done
 
@@ -97,6 +99,7 @@ Increases in BMD were observed as early as 3 months following initiation of rise
 Risedronate sodium 5 mg daily produced significant mean increases in BMD at the lumbar spine, femoral neck, and trochanter compared to placebo at the end of the study (Figure 2).
 Risedronate sodium 5 mg daily was also effective in patients with lower baseline lumbar spine BMD (more than 1 SD below the premenopausal mean) and in those with normal baseline lumbar spine BMD.
 Bone mineral density at the distal radius decreased in both risedronate sodium and placebo-treated women following 1 year of treatment.
+
 Figure 2 Change in BMD from Baseline 2-Year Prevention Study
 
 The safety and effectiveness of risedronate sodium 35 mg once-a-week for the prevention postmenopausal osteoporosis were demonstrated in a 1-year, double-blind, placebo-controlled study of 278 patients (risedronate sodium 35 mg, N = 136).
@@ -125,10 +128,10 @@ Values shown are mean (± SEM) percent change from baseline.
 Histology/Histomorphometry
 
 Bone biopsies from 53 postmenopausal women were obtained at endpoint.
-Patients had received risedronate sodium 5 mg plus estrogen or estrogen alone once daily for 1 year.
+Patients had received risedronate sodium 5 mg plus estrogen or estrogen-alone once daily for 1 year.
 Histologic evaluation (N = 47) demonstrated that the bone of patients treated with risedronate sodium plus estrogen was of normal lamellar structure and normal mineralization.
-The histomorphometric parameter mineralizing surface, a measure of bone turnover, was assessed based upon baseline and post-treatment biopsy samples from 12 patients treated with risedronate sodium plus estrogen and 12 treated with estrogen alone.
-Mineralizing surface decreased in both treatment groups (median percent change: risedronate sodium plus estrogen, -79%; estrogen alone, -50%), consistent with the known effects of these agents on bone turnover.
+The histomorphometric parameter mineralizing surface, a measure of bone turnover, was assessed based upon baseline and post-treatment biopsy samples from 12 patients treated with risedronate sodium plus estrogen and 12 treated with estrogen-alone.
+Mineralizing surface decreased in both treatment groups (median percent change: risedronate sodium plus estrogen, -79%; estrogen-alone, -50%), consistent with the known effects of these agents on bone turnover.
 
 ## 14.3 Men with Osteoporosis
 
