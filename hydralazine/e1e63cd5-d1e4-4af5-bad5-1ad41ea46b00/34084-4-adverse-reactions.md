@@ -34,26 +34,15 @@ The type, pattern, frequency and severity of adverse reactions reported in these
 
 The following adverse reactions have been identified during post-approval use of BiDil.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
 Use of BiDil: The following adverse reactions have been identified with use of BiDil.
 
-- Cardiac Disorders: Palpitations
-- Ear and labyrinth disorders: Tinnitus, vertigo
-- Eye Disorders: Eyelid edema, vision blurred
-- Gastrointestinal Disorders: Abdominal discomfort, constipation
-- General Disorders and Administration Site Conditions: Facial pain, flushing, chest discomfort, chest pain, peripheral edema
-- Musculoskeletal and Connective Tissue Disorders: Pain in extremity, myalgia
-- Nervous Disorders: Dysgeusia, hypoaesthesia, migraine, syncope
-- Renal and Urinary Disorders: Chromaturia, pulmonary renal syndrome
-- Respiratory, Thoracic and Mediastinal Disorders: Dyspnea
-- Reproductive System and Breast Disorders: Erectile dysfunction
-- Skin and Subcutaneous Tissue Disorders: Erythema, hyperhidrosis, pruritus, face swelling
+Cardiac Disorders: Palpitations Ear and labyrinth disorders: Tinnitus, vertigo Eye Disorders: Eyelid edema, vision blurred Gastrointestinal Disorders: Abdominal discomfort, constipation General Disorders and Administration Site Conditions: Facial pain, flushing, chest discomfort, chest pain, peripheral edema Musculoskeletal and Connective Tissue Disorders: Pain in extremity, myalgia Nervous Disorders: Dysgeusia, hypoaesthesia, migraine, syncope Renal and Urinary Disorders: Chromaturia, pulmonary renal syndrome Respiratory, Thoracic and Mediastinal Disorders: Dyspnea Reproductive System and Breast Disorders: Erectile dysfunction Skin and Subcutaneous Tissue Disorders: Erythema, hyperhidrosis, pruritus, face swelling
 
 Use of Hydralazine Hydrochloride or Isosorbide Dinitrate: The following reactions have been reported with use of either hydralazine hydrochloride or isosorbide dinitrate.
 
-- Blood and Lymphatic System Disorders: Blood dyscrasias, agranulocytosis, purpura, eosinophilia, splenomegaly.
-- Eye Disorders: Lacrimation, conjunctivitis.
-- Gastrointestinal Disorders: Paralytic ileus.
-- Hepatobiliary Disorders: Hepatitis.
-- Psychiatric Disorders: Psychotic reactions, disorientation.
-- Renal and Urinary Disorders: Difficulty in urination.
+Blood and Lymphatic System Disorders: Blood dyscrasias, agranulocytosis, purpura, eosinophilia, splenomegaly.
+Eye Disorders: Lacrimation, conjunctivitis.
+Gastrointestinal Disorders: Paralytic ileus.
+Hepatobiliary Disorders: Hepatitis.
+Psychiatric Disorders: Psychotic reactions, disorientation.
+Renal and Urinary Disorders: Difficulty in urination.

@@ -8,7 +8,7 @@ BiDil® isosorbide dinitrate and hydralazine HCl tablets
 
 Store at room temperature 15°C - 30°C (59°F - 86°F)
 
-BDL-TL-09-00 Rev.
-09/20 CIB71996B
+BDL-TL-09-01 Rev.
+11/25 CIB71996C
 
 Rx only
