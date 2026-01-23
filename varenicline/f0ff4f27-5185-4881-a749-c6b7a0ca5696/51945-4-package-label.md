@@ -26,9 +26,9 @@ Chantix® (varenicline) tablets
 
 # PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0069-0469-56
 
-Pfizer NDC 0069-0469-56
+Pfizer
 
 Chantix® (varenicline) tablets
 
