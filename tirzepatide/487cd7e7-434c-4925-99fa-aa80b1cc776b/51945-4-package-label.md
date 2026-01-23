@@ -1,4 +1,4 @@
-PACKAGE LABEL - ZepboundTM, 2.5 mg/0.5 mL, Carton, 4 Single-Dose Pens
+# PACKAGE LABEL - Zepbound Prefilled Pen (Autoinjector) - 2.5 mg/0.5 mL Dose
 
 NDC 0002-2506-80
 
@@ -22,7 +22,7 @@ Use one pen every week.
 
 Lilly
 
-PACKAGE LABEL - ZepboundTM, 5 mg/0.5 mL, Carton, 4 Single-Dose Pens
+# PACKAGE LABEL - Zepbound Prefilled Pen (Autoinjector) - 5 mg/0.5 mL Dose
 
 NDC 0002-2495-80
 
@@ -46,7 +46,7 @@ Use one pen every week.
 
 Lilly
 
-PACKAGE LABEL - ZepboundTM, 7.5 mg/0.5 mL, Carton, 4 Single-Dose Pens
+# PACKAGE LABEL - Zepbound Prefilled Pen (Autoinjector) - 7.5 mg/0.5 mL Dose
 
 NDC 0002-2484-80
 
@@ -70,7 +70,7 @@ Use one pen every week.
 
 Lilly
 
-PACKAGE LABEL - ZepboundTM, 10 mg/0.5 mL, Carton, 4 Single-Dose Pens
+# PACKAGE LABEL - Zepbound Prefilled Pen (Autoinjector) - 10 mg/0.5 mL Dose
 
 NDC 0002-2471-80
 
@@ -94,7 +94,7 @@ Use one pen every week.
 
 Lilly
 
-PACKAGE LABEL - ZepboundTM, 12.5 mg/0.5 mL, Carton, 4 Single-Dose Pens
+# PACKAGE LABEL - Zepbound Prefilled Pen (Autoinjector) - 12.5 mg/0.5 mL Dose
 
 NDC 0002-2460-80
 
@@ -118,7 +118,7 @@ Use one pen every week.
 
 Lilly
 
-PACKAGE LABEL - ZepboundTM, 15 mg/0.5 mL, Carton, 4 Single-Dose Pens
+# PACKAGE LABEL - Zepbound Prefilled Pen (Autoinjector) - 15 mg/0.5 mL Dose
 
 NDC 0002-2457-80
 
@@ -142,7 +142,7 @@ Use one pen every week.
 
 Lilly
 
-PACKAGE LABEL - Zepbound®, 2.5 mg/0.5 mL, Carton, 4 Single-dose Vials
+# PACKAGE LABEL - Zepbound Single-Dose Vial - 2.5 mg/0.5 mL Dose
 
 NDC 0002-0152-04
 
@@ -168,7 +168,7 @@ Discard unused portion
 
 Lilly
 
-PACKAGE LABEL - Zepbound®, 5 mg/0.5 mL, Carton, 4 Single-dose Vials
+# PACKAGE LABEL - Zepbound Single-Dose Vial - 5 mg/0.5 mL Dose
 
 NDC 0002-0243-04
 
@@ -194,7 +194,7 @@ Discard unused portion
 
 Lilly
 
-PACKAGE LABEL - Zepbound®, 7.5 mg/0.5 mL, Carton, 4 Single-dose Vials
+# PACKAGE LABEL - Zepbound Single-Dose Vial - 7.5 mg/0.5 mL Dose
 
 NDC 0002-1214-04
 
@@ -220,7 +220,7 @@ Discard unused portion
 
 Lilly
 
-PACKAGE LABEL - Zepbound®, 10 mg/0.5 mL, Carton, 4 Single-dose Vials
+# PACKAGE LABEL - Zepbound Single-Dose Vial - 10 mg/0.5 mL Dose
 
 NDC 0002-1340-04
 
@@ -246,7 +246,7 @@ Discard unused portion
 
 Lilly
 
-PACKAGE LABEL - Zepbound®, 12.5 mg/0.5 mL, Carton, 4 Single-dose Vials
+# PACKAGE LABEL - Zepbound Single-Dose Vial - 12.5 mg/0.5 mL Dose
 
 NDC 0002-1423-04
 
@@ -272,7 +272,7 @@ Discard unused portion
 
 Lilly
 
-PACKAGE LABEL - Zepbound®, 15 mg/0.5 mL, Carton, 4 Single-dose Vials
+# PACKAGE LABEL - Zepbound Single-Dose Vial - 15 mg/0.5 mL Dose
 
 NDC 0002-2002-04
 
@@ -295,5 +295,137 @@ Use one vial every week.
 4 Single-dose vials
 
 Discard unused portion
+
+Lilly
+
+# PACKAGE LABEL - Zepbound Multi-Dose Vial - 2.5 mg/0.6 mL Dose (10 mg/2.4 mL [4.17 mg/mL])
+
+Rx Only
+
+NDC 0002-6052-11
+
+Zepbound®
+
+(tirzepatide) injection
+
+10 mg/2.4 mL (4.17 mg/mL)
+
+ATTENTION: Contains 4 doses of 2.5 mg/0.6 mL 2.4 mL MULTI-DOSE VIAL
+
+For Subcutaneous Use
+
+Needles and Syringes are not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Lilly
+
+# PACKAGE LABEL - Zepbound Multi-Dose Vial - 5 mg/0.6 mL Dose (20 mg/2.4 mL [8.33 mg/mL])
+
+Rx Only
+
+NDC 0002-6103-11
+
+Zepbound®
+
+(tirzepatide) injection
+
+20 mg/2.4 mL (8.33 mg/mL)
+
+ATTENTION: Contains 4 doses of 5 mg/0.6 mL 2.4 mL MULTI-DOSE VIAL
+
+For Subcutaneous Use
+
+Needles and Syringes are not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Lilly
+
+# PACKAGE LABEL - Zepbound Multi-Dose Vial - 7.5 mg/0.6 mL Dose (30 mg/2.4 mL [12.5 mg/mL])
+
+Rx Only
+
+NDC 0002-6210-11
+
+Zepbound®
+
+(tirzepatide) injection
+
+30 mg/2.4 mL (12.5 mg/mL)
+
+ATTENTION: Contains 4 doses of 7.5 mg/0.6 mL 2.4 mL MULTI-DOSE VIAL
+
+For Subcutaneous Use
+
+Needles and Syringes are not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Lilly
+
+# PACKAGE LABEL - Zepbound Multi-Dose Vial - 10 mg/0.6 mL Dose (40 mg/2.4 mL [16.7 mg/mL])
+
+Rx Only
+
+NDC 0002-6304-11
+
+Zepbound®
+
+(tirzepatide) injection
+
+40 mg/2.4 mL (16.7 mg/mL)
+
+ATTENTION: Contains 4 doses of 10 mg/0.6 mL 2.4 mL MULTI-DOSE VIAL
+
+For Subcutaneous Use
+
+Needles and Syringes are not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Lilly
+
+# PACKAGE LABEL - Zepbound Multi-Dose Vial - 12.5 mg/0.6 mL Dose (50 mg/2.4 mL [20.8 mg/mL])
+
+Rx Only
+
+NDC 0002-6523-11
+
+Zepbound®
+
+(tirzepatide) injection
+
+50 mg/2.4 mL (20.8 mg/mL)
+
+ATTENTION: Contains 4 doses of 12.5 mg/0.6 mL 2.4 mL MULTI-DOSE VIAL
+
+For Subcutaneous Use
+
+Needles and Syringes are not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Lilly
+
+# PACKAGE LABEL - Zepbound Multi-Dose Vial - 15 mg/0.6 mL Dose (60 mg/2.4 mL [25 mg/mL])
+
+Rx Only
+
+NDC 0002-6612-11
+
+Zepbound®
+
+(tirzepatide) injection
+
+60 mg/2.4 mL (25 mg/mL)
+
+ATTENTION: Contains 4 doses of 15 mg/0.6 mL 2.4 mL MULTI-DOSE VIAL
+
+For Subcutaneous Use
+
+Needles and Syringes are not included
+
+Dispense enclosed Medication Guide to each patient.
 
 Lilly

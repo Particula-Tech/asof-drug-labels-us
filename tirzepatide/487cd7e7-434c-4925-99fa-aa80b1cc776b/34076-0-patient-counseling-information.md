@@ -66,7 +66,8 @@ Advise patients using oral hormonal contraceptives to switch to a non-oral contr
 Administration
 
 Instruct patients how to prepare and administer the correct dose of ZEPBOUND and assess their ability to inject subcutaneously to ensure the proper administration of ZEPBOUND.
-Instruct patients using the single-dose vial to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL dose) [see Dosage and Administration (2.4)].
+Instruct patients using ZEPBOUND vials to always use a new syringe and needle for each injection.
+Use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL or 0.6 mL dose) [see Dosage and Administration (2.4)].
 
 Missed Doses
 
@@ -76,9 +77,9 @@ In each case, inform patients to resume their regular once weekly dosing schedul
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-Copyright © 2023, 2025, Eli Lilly and Company.
+Copyright © 2023, 2026, Eli Lilly and Company.
 All rights reserved.
 
 Pat.: www.lilly.com/patents
 
-ZEP-0010-USPI-20250925
+ZEP-0011-USPI-20260107

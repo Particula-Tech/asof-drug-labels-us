@@ -37,7 +37,7 @@ The maximum dosage of ZEPBOUND for all indications is 15 mg injected subcutaneou
 
 - Prior to initiation of ZEPBOUND, train patients and caregivers on proper injection technique.
   Refer to the accompanying Instructions for Use for complete administration instructions with illustrations.
-- Instruct patients using the single-dose vial to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL dose).
+- Instruct patients using ZEPBOUND vials to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL or 0.6 mL dose) and always use a new syringe and needle for each injection.
 - Inspect ZEPBOUND visually before use.
   It should appear clear and colorless to slightly yellow.
   Do not use ZEPBOUND if particulate matter or discoloration is seen.
