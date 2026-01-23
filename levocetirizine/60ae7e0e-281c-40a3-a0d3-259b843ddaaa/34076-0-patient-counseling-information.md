@@ -20,21 +20,15 @@ Inform patients pruritus has occurred within a few days of discontinuing levocet
 Pruritus may improve with restarting or tapering levocetirizine dihydrochloride tablets [see Warnings and Precautions (5.3)].
 Advise patients to seek medical advice if pruritus occurs.
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Colvale-Bardez, Goa 403513, India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-May 2025
+August 2025
