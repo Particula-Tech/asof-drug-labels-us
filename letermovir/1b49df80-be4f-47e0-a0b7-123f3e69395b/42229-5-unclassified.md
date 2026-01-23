@@ -4,10 +4,10 @@ For patent information: www.msd.com/research/patent
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2017-2025 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+Copyright © 2017-2026 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
 All rights reserved.
 
-uspi-mk8228-mf-2501r011
+uspi-mk8228-mf-2601r012
 
 Distributed by: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
