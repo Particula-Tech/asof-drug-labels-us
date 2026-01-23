@@ -21,7 +21,6 @@ The following packaging configurations are available.
 | 20 mg/0.2 mL single-dose prefilled syringe with a fixed 29 gauge, ½ inch needle | Carton of 2 | NDC 83457-108-01 |
 | 20 mg/0.4 mL single-dose prefilled syringe with a fixed 29 gauge, ½ inch needle and with BD UltraSafe Passive™ Needle Guard | Carton of 2 | NDC 83457-109-01 |
 | 10 mg/0.1 mL single-dose prefilled syringe with a fixed 29 gauge, ½ inch needle | Carton of 2 | NDC 83457-110-01 |
-| 10 mg/0.2 mL single-dose prefilled syringe with a fixed 29 gauge, ½ inch needle | Carton of 1 | NDC 83457-111-01 |
 
 Prefilled syringes and injection devices are not made with natural rubber latex.
 
@@ -46,10 +45,4 @@ HYRIMOZ single-dose prefilled syringe with BD UltraSafe Passive™ Needle Guard 
 
 If needed, for example when traveling, HYRIMOZ may be stored at room temperature up to a maximum of 77°F (25°C) for a period of up to 14 days, with protection from light.
 HYRIMOZ should be discarded if not used within the 14-day period.
-Record the date when HYRIMOZ is first removed from the refrigerator in the spaces provided on the carton.
-
-HYRIMOZ single-dose prefilled syringe – 10 mg/0.2 mL:
-
-If needed, for example when traveling, HYRIMOZ may be stored at room temperature up to a maximum of 77°F (25°C) for a period of up to 21 days, with protection from light.
-HYRIMOZ should be discarded if not used within the 21-day period.
 Record the date when HYRIMOZ is first removed from the refrigerator in the spaces provided on the carton.
