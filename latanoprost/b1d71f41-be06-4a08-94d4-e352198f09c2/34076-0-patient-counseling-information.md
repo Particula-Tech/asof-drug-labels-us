@@ -19,4 +19,4 @@ Use with Other Ophthalmic Drugs If more than 1 topical ophthalmic drug is being 
 
 Missed Dose Advise patients that if one dose is missed, treatment should continue with the next dose in the evening.
 
-© 2024 Alcon Inc. U.S. Pat.: www.alconpatents.com Manufactured for: ALCON LABORATORIES, Inc., 6201 South Freeway Fort Worth, Texas 76134 1-800-757-9195 Alcon.medinfo@alcon.com
+© 2024-2025 Alcon Inc. U.S. Pat.: www.alconpatents.com ALCON LABORATORIES, Inc., Fort Worth, Texas 76134 1-800-757-9195 Alcon.medinfo@alcon.com
