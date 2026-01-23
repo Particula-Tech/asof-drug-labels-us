@@ -4,7 +4,7 @@ Hypertension
 
 In patients who are currently being treated with a diuretic, symptomatic hypotension occasionally may occur following the initial dose of VASOTEC.
 The diuretic should, if possible, be discontinued for two to three days before beginning therapy with VASOTEC to reduce the likelihood of hypotension (see WARNINGS, Hypotension).
-If the patient's blood pressure is not controlled with VASOTEC alone, diuretic therapy may be resumed.
+If the patient’s blood pressure is not controlled with VASOTEC alone, diuretic therapy may be resumed.
 
 If the diuretic cannot be discontinued an initial dose of 2.5 mg should be used under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS, Hypotension and PRECAUTIONS, Drug Interactions).
 
@@ -27,7 +27,7 @@ The dosage may be titrated upward until blood pressure is controlled or to a max
 | Normal Renal Function | >80 mL/min | 5 mg |
 | Mild Impairment | ≤80 >30 mL/min | 5 mg |
 | Moderate to Severe Impairment | ≤30 mL/min | 2.5 mg |
-| Dialysis PatientsSee WARNINGS, Anaphylactoid Reactions During Membrane Exposure. |  | 2.5 mg on dialysis daysDosage on nondialysis days should be adjusted depending on the blood pressure response. |
+| Dialysis Patients1 See WARNINGS, Anaphylactoid Reactions During Membrane Exposure. |  | 2.5 mg on dialysis days2 Dosage on nondialysis days should be adjusted depending on the blood pressure response. |
 
 Heart Failure
 
@@ -53,8 +53,9 @@ The appearance of hypotension after the initial dose of VASOTEC does not preclud
 
 Dosage Adjustment in Patients with Heart Failure and Renal Impairment or Hyponatremia
 
-In patients with heart failure who have hyponatremia (serum sodium less than 130 mEq/L) or with serum creatinine greater than 1.6 mg/dL, therapy should be initiated at 2.5 mg daily under close medical supervision (see DOSAGE AND ADMINISTRATION, Heart Failure, WARNINGS and PRECAUTIONS, Drug Interactions).
-The dose may be increased to 2.5 mg b.i.d., then 5 mg b.i.d. and higher as needed, usually at intervals of four days or more if at the time of dosage adjustment there is not excessive hypotension or significant deterioration of renal function.
+In patients with heart failure who have hyponatremia (serum sodium less than 130 mEq/L) or with serum creatinine greater than 1.6 mg/dL, therapy should be initiated at 2.5 mg daily under close medical supervision (see DOSAGE AND ADMINISTRATION, Heart Failure,WARNINGS and PRECAUTIONS, Drug Interactions).
+The dose may be increased to 2.5 mg b.i.d.
+(twice a day), then 5 mg b.i.d (twice a day) and higher as needed, usually at intervals of four days or more if at the time of dosage adjustment there is not excessive hypotension or significant deterioration of renal function.
 The maximum daily dose is 40 mg.
 
 Pediatric Hypertensive Patients

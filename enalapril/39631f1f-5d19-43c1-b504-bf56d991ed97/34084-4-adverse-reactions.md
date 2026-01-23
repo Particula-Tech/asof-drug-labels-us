@@ -33,7 +33,7 @@ Heart Failure
 
 Adverse experiences occurring in greater than one percent of patients with heart failure treated with VASOTEC are shown below.
 The incidences represent the experiences from both controlled and uncontrolled clinical trials (maximum duration of therapy was approximately one year).
-In the placebo- treated patients, the incidences reported are from the controlled trials (maximum duration of therapy is 12 weeks).
+In the placebo-treated patients, the incidences reported are from the controlled trials (maximum duration of therapy is 12 weeks).
 The percentage of patients with severe heart failure (NYHA Class IV) was 29 percent and 43 percent for patients treated with VASOTEC and placebo, respectively.
 
 |  | VASOTEC (n=673) Incidence (discontinuation) | Placebo (n=339) Incidence |
@@ -72,7 +72,7 @@ Other serious clinical adverse experiences occurring since the drug was marketed
 
 Body As A Whole: Anaphylactoid reactions (see WARNINGS, Anaphylactoid and Possibly Related Reactions).
 
-Cardiovascular: Cardiac arrest; myocardial infarction or cerebrovascular accident, possibly secondary to excessive hypotension in high risk patients (see WARNINGS, Hypotension); pulmonary embolism and infarction; pulmonary edema; rhythm disturbances including atrial tachycardia and bradycardia; atrial fibrillation; palpitation, Raynaud's phenomenon.
+Cardiovascular: Cardiac arrest; myocardial infarction or cerebrovascular accident, possibly secondary to excessive hypotension in high risk patients (see WARNINGS, Hypotension); pulmonary embolism and infarction; pulmonary edema; rhythm disturbances including atrial tachycardia and bradycardia; atrial fibrillation; palpitation, Raynaud’s phenomenon.
 
 Digestive: Ileus, pancreatitis, hepatic failure, hepatitis (hepatocellular [proven on rechallenge] or cholestatic jaundice) (see WARNINGS, Hepatic Failure), melena, anorexia, dyspepsia, constipation, glossitis, stomatitis, dry mouth.
 
