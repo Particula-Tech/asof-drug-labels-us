@@ -17,7 +17,7 @@ The risks and benefits of treatment should be considered prior to initiating AVT
 - who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or
 - with underlying conditions that may predispose them to infection.
 
-Closely monitor patients for the development of signs and symptoms of infection during and after treatment with AVTOZMA, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.7), Adverse Reactions (6.1), and Patient Counseling Information (17)].
+Closely monitor patients for the development of signs and symptoms of infection during and after treatment with AVTOZMA, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.10), Adverse Reactions (6.1), and Patient Counseling Information (17)].
 
 Hold AVTOZMA if a patient develops a serious infection, an opportunistic infection, or sepsis.
 A patient who develops a new infection during treatment with AVTOZMA should undergo a prompt and complete diagnostic workup appropriate for an immunocompromised patient, initiate appropriate antimicrobial therapy, and closely monitor the patient.

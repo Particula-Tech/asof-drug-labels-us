@@ -24,7 +24,7 @@ Recommended Intravenous Dosage Regimen:
 
 The recommended dosage of AVTOZMA for adult patients given as a 60-minute single intravenous drip infusion is 4 mg per kg every 4 weeks followed by an increase to 8 mg per kg every 4 weeks based on clinical response.
 
-- Reduction of dose from 8 mg per kg to 4 mg per kg is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.9), Warnings and Precautions (5.3, 5.4), and Adverse Reactions (6.1)].
+- Reduction of dose from 8 mg per kg to 4 mg per kg is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10), Warnings and Precautions (5.3, 5.4), and Adverse Reactions (6.1)].
 - Doses exceeding 800 mg per infusion are not recommended in RA patients [see Clinical Pharmacology (12.3)].
 
 Recommended Subcutaneous Dosage Regimen:
@@ -35,7 +35,7 @@ Recommended Subcutaneous Dosage Regimen:
 
 When transitioning from AVTOZMA intravenous therapy to subcutaneous administration, administer the first subcutaneous dose instead of the next scheduled intravenous dose.
 
-Interruption of dose or reduction in frequency of administration of subcutaneous dose from every week to every other week dosing is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.9), Warnings and Precautions (5.3, 5.4), and Adverse Reactions (6.2)].
+Interruption of dose or reduction in frequency of administration of subcutaneous dose from every week to every other week dosing is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10), Warnings and Precautions (5.3, 5.4), and Adverse Reactions (6.2)].
 
 ## 2.3 Recommended Dosage for Giant Cell Arteritis
 
@@ -45,7 +45,7 @@ The recommended dosage of AVTOZMA for adult patients given as a 60-minute single
 
 AVTOZMA can be used alone following discontinuation of glucocorticoids.
 
-- Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.9)].
+- Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10)].
 - Doses exceeding 600 mg per infusion are not recommended in GCA patients [see Clinical Pharmacology (12.3)].
 
 Recommended Subcutaneous Dosage Regimen:
@@ -58,7 +58,7 @@ AVTOZMA can be used alone following discontinuation of glucocorticoids.
 
 When transitioning from AVTOZMA intravenous therapy to subcutaneous administration, administer the first subcutaneous dose instead of the next scheduled intravenous dose.
 
-Interruption of dose or reduction in frequency of administration of subcutaneous dose from every week to every other week dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.9)].
+Interruption of dose or reduction in frequency of administration of subcutaneous dose from every week to every other week dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10)].
 
 ## 2.4 Recommended Dosage for Polyarticular Juvenile Idiopathic Arthritis
 
@@ -108,7 +108,7 @@ Recommended Subcutaneous Dosage Regimen:
 
 When transitioning from AVTOZMA intravenous therapy to subcutaneous administration, administer the first subcutaneous dose when the next scheduled intravenous dose is due.
 
-Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.9)].
+Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10)].
 
 ## 2.6 Recommended Dosage for Cytokine Release Syndrome (CRS)
 

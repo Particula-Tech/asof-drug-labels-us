@@ -450,3 +450,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Hypersensitivity Reactions: Fatal anaphylaxis, Stevens-Johnson Syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.6)]
 - Pancreatitis
 - Drug-induced liver injury, Hepatitis, Hepatic failure, Jaundice [see Warnings and Precautions (5.3)]
+- Hypofibrinogenemia
