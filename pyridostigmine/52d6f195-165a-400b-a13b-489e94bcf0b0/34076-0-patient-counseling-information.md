@@ -23,7 +23,7 @@ Advise personnel of the following:
 
 Dosage and Administration [see Dosage and Administration (2.1, 2.2)]
 
-Inform personnel the following:
+Inform personnel of the following:
 
 - The chain of command will instruct when it is time to take pyridostigmine bromide, based on the threat of exposure to soman nerve agents.
 - Take one tablet orally once daily, with food, until the chain of command instructs to stop taking pyridostigmine bromide.
@@ -52,6 +52,19 @@ Instruct personnel to inform their healthcare provider before taking pyridostigm
 - Have high eye pressure (glaucoma)
 - Have any other medical condition, including heart problems, genitourinary or gastrointestinal obstruction, or reflux esophagitis (GERD)
 
+Collection of Information
+
+The Department of Defense (DoD) may collect information on the use of pyridostigmine bromide to help decide how best to protect deployed forces in the future.
+Information that identifies individual persons will remain confidential.
+However, the FDA may review any data collected by DoD for the purpose of evaluating pyridostigmine bromide.
+
+Questions and Requests for Information
+
+Questions about personnel rights and welfare should be directed to the unit medical officer or e-mailed to usamrmcregulatoryaffairs@mail.mil.
+
+Personnel can receive information about pyridostigmine bromide from unit medical officers or medics.
+Questions about pyridostigmine bromide can also be e-mailed directly to the US Army Medical Research and Materiel Command at address usarmy.detrick.medcom-usammda.mbx.usamrmc-regulatory-affairs@mail.mil.
+
 Distributed by:
 
 Amneal Pharmaceuticals LLC
@@ -59,4 +72,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-10-2024-00
+10-2025-01
