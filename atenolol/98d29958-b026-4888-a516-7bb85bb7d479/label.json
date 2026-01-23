@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA077877"
+  ],
+  "inn": "atenolol",
+  "labeler": "Ipca Laboratories Limited",
+  "package_ndcs": [
+    "83980-022-01",
+    "83980-022-10",
+    "83980-022-97",
+    "83980-023-01",
+    "83980-023-10",
+    "83980-023-97",
+    "83980-024-01",
+    "83980-024-10",
+    "83980-024-97"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "atenolol",
+      "name": "Atenolol"
+    }
+  ],
+  "setid": "98d29958-b026-4888-a516-7bb85bb7d479",
+  "source": "dailymed"
+}
