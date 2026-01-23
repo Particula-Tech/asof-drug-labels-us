@@ -14,7 +14,7 @@ Open Foil Pouch Just
 
 Prior to Administration
 
-One 2 mL Sterile Unit-Dose Vials
+One 2 mL Sterile Unit-Dose Vial
 
 Keep out of reach of children
 
