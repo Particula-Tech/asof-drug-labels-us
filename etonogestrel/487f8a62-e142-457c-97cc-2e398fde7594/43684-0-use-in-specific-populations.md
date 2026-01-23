@@ -39,10 +39,10 @@ No adverse effects on the production or quality of breast milk were detected.
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of NEXPLANON have been established in women of reproductive age.
-Safety and efficacy of NEXPLANON are expected to be the same for postpubertal adolescents.
-However, no clinical studies have been conducted in women less than 18 years of age.
-Use of this product before menarche is not indicated.
+The safety and effectiveness of NEXPLANON have been established in women of reproductive potential.
+Safety and effectiveness of NEXPLANON are expected to be the same in postpubertal adolescents as in adult women.
+
+NEXPLANON is not indicated before menarche.
 
 ## 8.5 Geriatric Use
 
@@ -52,9 +52,3 @@ This product has not been studied in women over 65 years of age and is not indic
 
 No studies were conducted to evaluate the effect of hepatic disease on the disposition of NEXPLANON.
 The use of NEXPLANON in women with active liver disease is contraindicated [see Contraindications (4)].
-
-## 8.7 Overweight Women
-
-The effectiveness of the etonogestrel implant in women who weighed more than 130% of their ideal body weight has not been defined because such women were not studied in clinical trials.
-Serum concentrations of etonogestrel are inversely related to body weight and decrease with time after implant insertion.
-It is therefore possible that NEXPLANON may be less effective in overweight women, especially in the presence of other factors that decrease serum etonogestrel concentrations such as concomitant use of hepatic enzyme inducers.

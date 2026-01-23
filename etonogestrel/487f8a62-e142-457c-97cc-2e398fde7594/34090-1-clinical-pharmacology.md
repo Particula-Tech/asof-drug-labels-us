@@ -13,16 +13,21 @@ Exposure-response relationships of NEXPLANON are unknown.
 Absorption
 
 After subdermal insertion of the etonogestrel implant, etonogestrel is released into the circulation and is approximately 100% bioavailable.
+Maximum serum concentrations were reached within the first two weeks after insertion and gradually decreased over time.
+Table 8 shows mean (± standard deviation) serum concentrations of etonogestrel after insertion of NEXPLANON.
 
-In a three-year clinical trial, NEXPLANON and the non-radiopaque etonogestrel implant (IMPLANON) yielded comparable systemic exposure to etonogestrel.
-For NEXPLANON, the mean (± SD) maximum serum etonogestrel concentrations were 1200 (± 604) pg/mL and were reached within the first two weeks after insertion (n=50).
-The mean (± SD) serum etonogestrel concentration decreased gradually over time, declining to 202 (± 55) pg/mL at 12 months (n=41), 164 (± 58) pg/mL at 24 months (n=37), and 138 (± 43) pg/mL at 36 months (n=32).
-For the non-radiopaque etonogestrel implant (IMPLANON), the mean (± SD) maximum serum etonogestrel concentrations were 1145 (± 577) pg/mL and were reached within the first two weeks after insertion (n=53).
-The mean (± SD) serum etonogestrel concentration decreased gradually over time, declining to 223 (± 73) pg/mL at 12 months (n=40), 172 (± 77) pg/mL at 24 months (n=32), and 153 (± 52) pg/mL at 36 months (n=30).
+Table 8: Etonogestrel serum concentrations after NEXPLANON insertion
 
-The pharmacokinetic profile of NEXPLANON is shown in Figure 21.
-
-Figure 21: Mean (± SD) Serum Concentration-Time Profile of Etonogestrel After Insertion of NEXPLANON During 3 Years of Use
+| Time after insertion | Study 34528NEXPLANON use duration: 3 years. | Study MK-8415-060Subjects had used NEXPLANON for 3 years (± 2 weeks) at time of study enrollment. |
+| --- | --- | --- |
+|  | Etonogestrel serum concentrations [pg/mL] Mean (±standard deviation) |  |
+| 2 weeks | 1200 (± 604) | NA |
+| 1 year | 202 (± 55) | NA |
+| 2 years | 164 (± 58) | NA |
+| 3 years | 138 (± 43) | 143 (± 74) |
+| 4 years | NA | 123 (± 45) |
+| 5 years | NA | 111 (± 51) |
+| NA = not available |  |  |
 
 Distribution
 
@@ -38,3 +43,13 @@ Excretion
 The elimination half-life of etonogestrel is approximately 25 hours.
 Excretion of etonogestrel and its metabolites, either as free steroid or as conjugates, is mainly in urine and to a lesser extent in feces.
 After removal of the implant, etonogestrel concentrations decreased below sensitivity of the assay by one week.
+
+Specific Population
+
+Women with Obesity
+
+Pharmacokinetics of etonogestrel was evaluated in a clinical trial during the use of NEXPLANON from years 3 to 5.
+The median (range) body mass index (BMI) of 215 study treatment completers was 27.9 (17.4 to 63.9) kg/m2 at baseline.
+Among the completers, 86 had a BMI ≥30 kg/m2 and 23 had a BMI ≥40 kg/m2.
+Mean etonogestrel serum concentrations were relatively lower in subjects with a BMI ≥30 kg/m2 compared with those with a BMI <30 kg/m2; the ratio of mean etonogestrel serum concentrations ranged from 0.76-0.88 during the use of NEXPLANON from years 3 to 5.
+There is a substantial overlap in etonogestrel serum concentration ranges between the two BMI categories ≥30 kg/m2 versus <30 kg/m2 (49.7-455 pg/mL versus 33-363 pg/mL, respectively, at 5 years).

@@ -10,8 +10,8 @@ This location is intended to avoid the large blood vessels and nerves lying with
 Inserting an implant more deeply than subdermally (a deep insertion) may preclude palpation and localization, making removal difficult or impossible [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
 
 NEXPLANON must be inserted by the expiration date stated on the packaging.
-NEXPLANON is a long-acting (up to 3 years), reversible, hormonal contraceptive method.
-The implant must be removed by the end of the third year and may be replaced by a new implant at the time of removal, if continued contraceptive protection is desired.
+NEXPLANON is a long-acting (up to 5 years), reversible, hormonal contraceptive method.
+The implant must be removed by the end of the fifth year and may be replaced by a new implant at the time of removal, if continued contraceptive protection is desired.
 
 ## 2.1 Initiating Contraception with NEXPLANON
 
@@ -76,15 +76,15 @@ If intercourse has already occurred, pregnancy should be excluded.
 The basis for successful use and subsequent removal of NEXPLANON is a correct and carefully performed subdermal insertion of the single, rod-shaped implant in accordance with the instructions.
 Both the healthcare professional and the woman should be able to feel the implant under the skin after placement.
 
-All healthcare professionals performing insertions and/or removals of NEXPLANON should receive instructions and training prior to inserting or removing the implant.
+All healthcare professionals performing insertions and/or removals of NEXPLANON must receive instructions and training prior to inserting or removing the implant.
 
 Preparation
 
-Before inserting NEXPLANON, carefully read the instructions for insertion as well as the full prescribing information.
+Before inserting NEXPLANON, complete training which includes carefully reading the instructions for insertion as well as the full prescribing information [see Warnings and Precautions (5.2)].
 If you are unsure of the necessary steps to safely insert and/or remove NEXPLANON, do not attempt the procedure.
 
 Call the Organon Service Center at 1-844-674-3200 if you have any questions.
-Videos demonstrating insertion and removal are available online for trained healthcare professionals (www.nexplanontraining.com).
+Videos demonstrating insertion and removal are available online for trained healthcare professionals (www.NEXPLANONREMS.com).
 
 Before insertion of NEXPLANON, the healthcare professional should confirm that:
 

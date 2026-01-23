@@ -10,19 +10,19 @@ If you have any questions about NEXPLANON, ask your healthcare professional.
 
 What is NEXPLANON?
 
-NEXPLANON is a hormone-releasing birth control implant for use by women to prevent pregnancy for up to 3 years.
+NEXPLANON is a hormone-releasing birth control implant for prevention of pregnancy for up to 5 years.
 The implant is a flexible plastic rod about the size of a matchstick that contains a progestin hormone called etonogestrel.
 It contains a small amount of barium sulfate (15 mg), so that the implant can be seen by X-ray, an ethylene vinyl acetate (EVA) copolymer (28% vinyl acetate, 43 mg) core, and magnesium stearate (0.1 mg).
 Your healthcare professional will insert the implant just under the skin of the inner side of your upper arm.
-You can use a single NEXPLANON implant for up to 3 years.
+You can use a single NEXPLANON implant for up to 5 years.
 NEXPLANON does not contain estrogen.
 
-What if I need birth control for more than 3 years?
+What if I need birth control for more than 5 years?
 
-The NEXPLANON implant must be removed by the end of 3 years.
+The NEXPLANON implant must be removed by the end of 5 years.
 Your healthcare professional can insert a new implant under your skin after taking out the old one if you choose to continue using NEXPLANON for birth control.
 
-What if I change my mind about birth control and want to stop using NEXPLANON before 3 years?
+What if I change my mind about birth control and want to stop using NEXPLANON before 5 years?
 
 Your healthcare professional can remove the implant at any time.
 You may become pregnant as early as the first week after removal of the implant.
@@ -38,7 +38,6 @@ NEXPLANON also changes the lining of your uterus.
 How well does NEXPLANON work?
 
 When the NEXPLANON implant is placed correctly, your chance of getting pregnant is very low (less than 1 pregnancy per 100 women who use NEXPLANON for 1 year).
-It is not known if NEXPLANON is as effective in very overweight women because studies did not include many overweight women.
 
 The following chart shows the chance of getting pregnant for women who use different methods of birth control.
 Each box on the chart contains a list of birth control methods that are similar in effectiveness.
@@ -126,7 +125,7 @@ When the healthcare professional has located the implant, it should be removed.
 
 If at any time you cannot feel the NEXPLANON implant, contact your healthcare professional immediately and use a non-hormonal birth control method (such as condoms) until your healthcare professional confirms that the implant is in place.
 You may need special tests to check that the implant is in place or to help find the implant when it is time to take it out.
-If the implant cannot be found in the arm after a thorough search, your healthcare professional may use x-rays or other imaging methods on your chest.
+If the implant cannot be found in the arm after a thorough search, your healthcare professional may use X-rays or other imaging methods on your chest.
 
 Depending on the exact position of the implant, removal may be difficult and may require surgery.
 
@@ -194,7 +193,7 @@ Special procedures, including surgery in the hospital, may be needed to remove t
 If the implant is not removed, then the effects of NEXPLANON will continue for a longer time.
 
 Implants have been found in the pulmonary artery (a blood vessel in the lung).
-If the implant cannot be found in the arm, your healthcare professional may use x-rays or other imaging methods on the chest.
+If the implant cannot be found in the arm, your healthcare professional may use X-rays or other imaging methods on the chest.
 If the implant is located in the chest, surgery may be needed.
 
 The following problems related to insertion and removal may also occur:

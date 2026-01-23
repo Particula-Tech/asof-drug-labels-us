@@ -2,7 +2,7 @@
 
 The following information is based on experience with the etonogestrel implants (IMPLANON and/or NEXPLANON), other progestin-only contraceptives, or experience with combination (estrogen plus progestin) oral contraceptives.
 
-## 5.1 Complications of Insertion/Removal and Broken/Bent Implants
+## 5.1 Risk of Complications Due to Improper Insertion and Removal
 
 Complications of Insertion and Removal
 
@@ -41,7 +41,21 @@ These cases may be related to external forces, e.g., manipulation of the implant
 The release rate of etonogestrel may be slightly increased in a broken or bent implant, based on in vitro data.
 As noted previously, when an implant is removed, it is important to remove it in its entirety [see Dosage and Administration (2.3)].
 
-## 5.2 Changes in Menstrual Bleeding Patterns
+NEXPLANON is available only through a restricted program under a REMS [see Warnings and Precautions (5.2)].
+
+## 5.2 NEXPLANON REMS
+
+NEXPLANON is only available through a restricted program under a REMS called NEXPLANON REMS because of the risk of complications due to improper insertion and removal [see Warnings and Precautions (5.1)].
+
+Notable requirements of the NEXPLANON REMS include the following:
+
+- Healthcare providers must be certified with the program by enrolling and completing training on the proper insertion and removal of NEXPLANON prior to first use.
+- Pharmacies must be certified with the program and must only dispense NEXPLANON to certified healthcare providers who dispense NEXPLANON for insertion.
+- Wholesalers and distributors must be registered with the program and must only distribute to certified pharmacies and certified healthcare providers.
+
+Further information is available at www.NEXPLANONREMS.com and 1-833-697-7367.
+
+## 5.3 Changes in Menstrual Bleeding Patterns
 
 After starting NEXPLANON, women are likely to have a change from their normal menstrual bleeding pattern.
 These may include changes in bleeding frequency (absent, less, more frequent or continuous), intensity (reduced or increased) or duration.
@@ -78,12 +92,12 @@ Table 2: Bleeding Patterns Using the Non-Radiopaque Etonogestrel Implant (IMPLAN
 
 In case of undiagnosed, persistent, or recurrent abnormal vaginal bleeding, appropriate measures should be conducted to rule out malignancy.
 
-## 5.3 Ectopic Pregnancies
+## 5.4 Ectopic Pregnancies
 
 As with all progestin-only contraceptive products, be alert to the possibility of an ectopic pregnancy among women using NEXPLANON who become pregnant or complain of lower abdominal pain.
 Although ectopic pregnancies are uncommon among women using NEXPLANON, a pregnancy that occurs in a woman using NEXPLANON may be more likely to be ectopic than a pregnancy occurring in a woman using no contraception.
 
-## 5.4 Thrombotic and Other Vascular Events
+## 5.5 Thrombotic and Other Vascular Events
 
 The use of combination hormonal contraceptives (progestin plus estrogen) increases the risk of vascular events, including arterial events (strokes and myocardial infarctions) or deep venous thrombotic events (venous thromboembolism, deep venous thrombosis, retinal vein thrombosis, and pulmonary embolism).
 NEXPLANON is a progestin-only contraceptive.
@@ -100,13 +114,13 @@ Evaluate for retinal vein thrombosis immediately if there is unexplained loss of
 
 Consider removal of the NEXPLANON implant in case of long-term immobilization due to surgery or illness.
 
-## 5.5 Ovarian Cysts
+## 5.6 Ovarian Cysts
 
 If follicular development occurs, atresia of the follicle is sometimes delayed, and the follicle may continue to grow beyond the size it would attain in a normal cycle.
 Generally, these enlarged follicles disappear spontaneously.
 On rare occasion, surgery may be required.
 
-## 5.6 Carcinoma of the Breast and Reproductive Organs
+## 5.7 Carcinoma of the Breast and Reproductive Organs
 
 Women who currently have or have had breast cancer should not use hormonal contraception because breast cancer may be hormonally sensitive [see Contraindications (4)].
 Some studies suggest that the use of combination hormonal contraceptives might increase the incidence of breast cancer; however, other studies have not confirmed such findings.
@@ -116,7 +130,7 @@ However, there is controversy about the extent to which these findings are due t
 
 Women with a family history of breast cancer or who develop breast nodules should be carefully monitored.
 
-## 5.7 Liver Disease
+## 5.8 Liver Disease
 
 Disturbances of liver function may necessitate the discontinuation of hormonal contraceptive use until markers of liver function return to normal.
 Remove NEXPLANON if jaundice develops.
@@ -128,25 +142,25 @@ It is not known whether a similar risk exists with progestin-only methods like N
 The progestin in NEXPLANON may be poorly metabolized in women with liver impairment.
 Use of NEXPLANON in women with active liver disease or liver cancer is contraindicated [see Contraindications (4)].
 
-## 5.8 Weight Gain
+## 5.9 Weight Gain
 
 In clinical studies, mean weight gain in U.S. non-radiopaque etonogestrel implant (IMPLANON) users was 2.8 pounds after one year and 3.7 pounds after two years.
 How much of the weight gain was related to the non-radiopaque etonogestrel implant is unknown.
 In studies, 2.3% of the users reported weight gain as the reason for having the non-radiopaque etonogestrel implant removed.
 
-## 5.9 Elevated Blood Pressure
+## 5.10 Elevated Blood Pressure
 
 Women with a history of hypertension-related diseases or renal disease should be discouraged from using hormonal contraception.
 For women with well-controlled hypertension, use of NEXPLANON can be considered.
 Women with hypertension using NEXPLANON should be closely monitored.
 If sustained hypertension develops during the use of NEXPLANON, or if a significant increase in blood pressure does not respond adequately to antihypertensive therapy, NEXPLANON should be removed.
 
-## 5.10 Gallbladder Disease
+## 5.11 Gallbladder Disease
 
 Studies suggest a small increased relative risk of developing gallbladder disease among combination hormonal contraceptive users.
 It is not known whether a similar risk exists with progestin-only methods like NEXPLANON.
 
-## 5.11 Carbohydrate and Lipid Metabolic Effects
+## 5.12 Carbohydrate and Lipid Metabolic Effects
 
 Use of NEXPLANON may induce mild insulin resistance and small changes in glucose concentrations of unknown clinical significance.
 Carefully monitor prediabetic and diabetic women using NEXPLANON.
@@ -154,32 +168,32 @@ Carefully monitor prediabetic and diabetic women using NEXPLANON.
 Women who are being treated for hyperlipidemia should be followed closely if they elect to use NEXPLANON.
 Some progestins may elevate LDL levels and may render the control of hyperlipidemia more difficult.
 
-## 5.12 Depressed Mood
+## 5.13 Depressed Mood
 
 Women with a history of depressed mood should be carefully observed.
 Consideration should be given to removing NEXPLANON in patients who become significantly depressed.
 
-## 5.13 Return to Ovulation
+## 5.14 Return to Ovulation
 
 In clinical trials with the non-radiopaque etonogestrel implant (IMPLANON), the etonogestrel levels in blood decreased below sensitivity of the assay by one week after removal of the implant.
 In addition, pregnancies were observed to occur as early as 7 to 14 days after removal.
 Therefore, a woman should re-start contraception immediately after removal of the implant if continued contraceptive protection is desired.
 
-## 5.14 Fluid Retention
+## 5.15 Fluid Retention
 
 Hormonal contraceptives may cause some degree of fluid retention.
 They should be prescribed with caution, and only with careful monitoring, in patients with conditions which might be aggravated by fluid retention.
 It is unknown if NEXPLANON causes fluid retention.
 
-## 5.15 Contact Lenses
+## 5.16 Contact Lenses
 
 Contact lens wearers who develop visual changes or changes in lens tolerance should be assessed by an ophthalmologist.
 
-## 5.16 Monitoring
+## 5.17 Monitoring
 
 A woman who is using NEXPLANON should have a yearly visit with her healthcare professional for a blood pressure check and for other indicated health care.
 
-## 5.17 Drug-Laboratory Test Interactions
+## 5.18 Drug-Laboratory Test Interactions
 
 Sex hormone-binding globulin concentrations may be decreased for the first six months after NEXPLANON insertion followed by gradual recovery.
 Thyroxine concentrations may initially be slightly decreased followed by gradual recovery to baseline.

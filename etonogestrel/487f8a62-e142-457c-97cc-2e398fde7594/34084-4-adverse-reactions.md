@@ -2,20 +2,20 @@
 
 The following adverse reactions reported with the use of hormonal contraception are discussed elsewhere in the labeling:
 
-- Changes in Menstrual Bleeding Patterns [see Warnings and Precautions (5.2)]
-- Ectopic Pregnancies [see Warnings and Precautions (5.3)]
-- Thrombotic and Other Vascular Events [see Warnings and Precautions (5.4)]
-- Liver Disease [see Warnings and Precautions (5.7)]
+- Changes in Menstrual Bleeding Patterns [see Warnings and Precautions (5.3)]
+- Ectopic Pregnancies [see Warnings and Precautions (5.4)]
+- Thrombotic and Other Vascular Events [see Warnings and Precautions (5.5)]
+- Liver Disease [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
 Adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice, because clinical trials are conducted under widely varying conditions.
 
-In clinical trials involving 942 women who were evaluated for safety, change in menstrual bleeding patterns (irregular menses) was the most common adverse reaction causing discontinuation of use of the non-radiopaque etonogestrel implant (IMPLANON) (11.1% of women).
+In clinical trials of three years duration involving 942 women who were evaluated for safety, change in menstrual bleeding patterns (irregular menses) was the most common adverse reaction causing discontinuation of use of the non-radiopaque etonogestrel implant (IMPLANON) (11.1% of women).
 
 Adverse reactions that resulted in a rate of discontinuation of ≥1% are shown in Table 3.
 
-Table 3: Adverse Reactions Leading to Discontinuation of Treatment in 1% or More of Subjects in Clinical Trials of the Non-Radiopaque Etonogestrel Implant (IMPLANON)
+Table 3: Adverse Reactions Leading to Discontinuation of Treatment in 1% or More of Subjects in 3-Year Clinical Trials of the Non-Radiopaque Etonogestrel Implant (IMPLANON)
 
 | Adverse Reactions | All Studies N = 942 |
 | --- | --- |
@@ -28,7 +28,7 @@ Table 3: Adverse Reactions Leading to Discontinuation of Treatment in 1% or More
 
 Other adverse reactions that were reported by at least 5% of subjects in the non-radiopaque etonogestrel implant clinical trials are listed in Table 4.
 
-Table 4: Common Adverse Reactions Reported by ≥5% of Subjects in Clinical Trials with the Non-Radiopaque Etonogestrel Implant (IMPLANON)
+Table 4: Common Adverse Reactions Reported by ≥5% of Subjects in 3-Year Clinical Trials with the Non-Radiopaque Etonogestrel Implant (IMPLANON)
 
 | Adverse Reactions | All Studies N = 942 |
 | --- | --- |
@@ -55,6 +55,8 @@ Table 4: Common Adverse Reactions Reported by ≥5% of Subjects in Clinical Tria
 In a clinical trial of NEXPLANON, in which investigators were asked to examine the implant site after insertion, implant site reactions were reported in 8.6% of women.
 Erythema was the most frequent implant site complication, reported during or shortly after insertion, occurring in 3.3% of subjects.
 Additionally, hematoma (3.0%), bruising (2.0%), pain (1.0%), and swelling (0.7%) were reported.
+
+In a separate clinical trial to assess contraceptive efficacy and safety of NEXPLANON beyond 3 years, up to 5 years, where a total of 498 women were evaluated for safety, a similar adverse reaction profile was observed as in Years 1 through 3.The most frequently reported adverse reaction >5% related to NEXPLANON was intermenstrual bleeding (5.4%), Changes in menstrual bleeding patterns were the most frequently reported adverse reaction leading to discontinuation occurring in 4.0% of participants.
 
 ## 6.2 Postmarketing Experience
 
