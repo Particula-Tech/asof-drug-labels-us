@@ -10,13 +10,13 @@ Eltrombopag tablets, 25 mg are light yellow, round, biconvex, film-coated tablet
 
 NDC 70710-1396-3 in bottle of 30 tablets with child-resistant closure
 
-Eltrombopag tablets, 50 mg are light blue, round, biconvex, film-coated tablets debossed with "112" on one side and plain on the other and are supplied as follows:
+Eltrombopag tablets, 50 mg are light blue, round, biconvex, film-coated tablets debossed with "" on one side and plain on the other and are supplied as follows:
 
 NDC 70710-1397-7 in bottle of 14 tablets with child-resistant closure
 
 NDC 70710-1397-3 in bottle of 30 tablets with child-resistant closure
 
-Eltrombopag tablets, 75 mg are light purple, round, biconvex, film-coated tablets debossed with "I17" on one side and plain on the other and are supplied as follows:
+Eltrombopag tablets, 75 mg are light purple, round, biconvex, film-coated tablets debossed with "" on one side and plain on the other and are supplied as follows:
 
 NDC 70710-1398-3 in bottle of 30 tablets with child-resistant closure
 
