@@ -68,7 +68,7 @@ Similar exposure is achieved with subcutaneous administration of semaglutide in 
 
 In patients with type 2 diabetes, semaglutide exposure increases in a dose-proportional manner for once-weekly doses of 0.5 mg, 1 mg and 2 mg.
 Steady-state exposure is achieved following 4 to 5 weeks of once-weekly administration.
-In patients with type 2 diabetes, the mean population-PK estimated steady-state concentrations following once weekly subcutaneous administration of 0.5 mg and 1 mg semaglutide were approximately 65 ng/mL and 123 ng/mL, respectively.
+In patients with type 2 diabetes, the mean population-PK estimated steady-state concentrations following once-weekly subcutaneous administration of 0.5 mg and 1 mg semaglutide were approximately 65 ng/mL and 123 ng/mL, respectively.
 In the trial comparing semaglutide 1 mg and 2 mg, the mean steady state concentrations were 111.1 ng/mL and 222.1 ng/mL, respectively.
 
 Distribution
@@ -120,7 +120,7 @@ No clinically relevant drug-drug interaction with semaglutide (Figure 4) was obs
 In a separate study, no apparent effect on the rate of gastric emptying was observed with semaglutide 2.4 mg.
 
 Figure 4.
-Impact of Semaglutide on the Exposure of Co-administered Oral Medications
+Impact of Semaglutide on the Exposure of Coadministered Oral Medications
 
 Relative exposure in terms of AUC and Cmax for each medication when given with semaglutide compared to without semaglutide.
 Metformin and oral contraceptive drug (ethinylestradiol/levonorgestrel) were assessed at steady state.

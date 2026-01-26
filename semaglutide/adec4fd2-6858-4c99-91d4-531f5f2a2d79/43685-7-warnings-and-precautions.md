@@ -52,7 +52,7 @@ Monitor renal function in patients reporting adverse reactions to OZEMPIC that c
 
 ## 5.7 Severe Gastrointestinal Adverse Reactions
 
-Use of OZEMPIC has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6.1)].
+Use of OZEMPIC has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6)].
 In OZEMPIC clinical trials, severe gastrointestinal adverse reactions were reported more frequently among patients receiving OZEMPIC (0.5 mg 0.4%, 1 mg 0.8%) than placebo (0%).
 Severe gastrointestinal adverse reactions have also been reported postmarketing with GLP-1 receptor agonists.
 

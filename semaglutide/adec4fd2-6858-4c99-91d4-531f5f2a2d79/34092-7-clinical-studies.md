@@ -40,7 +40,7 @@ Results at Week 30 in a Trial of OZEMPIC as Monotherapy in Adult Patients with T
    At week 30 the primary HbA1c endpoint was missing for 10%, 7% and 7% of patients and during the trial rescue medication was initiated by 20%, 5% and 4% of patients randomized to placebo, OZEMPIC 0.5 mg and OZEMPIC 1 mg, respectively.
    Missing data were imputed using multiple imputation based on retrieved dropouts.
 2. b Intent-to-treat analysis using ANCOVA adjusted for baseline value and country.
-3. cp<0.0001 (2-sided) for superiority, adjusted for multiplicity.
+3. c p<0.0001 (2-sided) for superiority, adjusted for multiplicity.
 
 The mean baseline body weight was 89.1 kg, 89.8 kg, 96.9 kg in the placebo, OZEMPIC 0.5 mg, and OZEMPIC 1 mg arms, respectively.
 The mean changes from baseline to week 30 were -1.2 kg, -3.8 kg and -4.7 kg in the placebo, OZEMPIC 0.5 mg, and OZEMPIC 1 mg arms, respectively.
@@ -180,7 +180,7 @@ Results at Week 40 in a Trial of OZEMPIC 2 mg Compared to OZEMPIC 1 mg in Adult 
 | Baseline (mean) | 196 | 193 |
 | Change at week 40b | -55 | -59 |
 
-1. a The intent-to-treat population includes all randomized subjects.
+1. aThe intent-to-treat population includes all randomized subjects.
    At week 40 the primary HbA1c endpoint was missing for 3% and 5% of patients randomized to OZEMPIC 1 mg and OZEMPIC 2 mg, respectively.
    Missing data were imputed using multiple imputation based on retrieved dropouts.
    For calculation of proportions, imputed values are dichotomized and the denominator is the number of all randomized subjects.
@@ -293,7 +293,7 @@ OZEMPIC also reduced the annual rate of change in eGFR (Figure 9), the incidence
 The treatment effect on the primary composite endpoint was generally consistent across the pre-specified subgroups examined, including age, biological sex, eGFR and UACR.
 The treatment benefit on the primary composite endpoint was not evident in patients taking SGLT2 inhibitors at baseline, but there were few events in these patients.
 
-Table 10: Analyses of the Primary and Secondary Endpoints and Their Individual Components in FLOW Trial
+Table 10: Analyses of the Primary and Secondary Endpoints and their Individual Components in FLOW Trial
 
 |  | Placebo N=1766 (%) | OZEMPIC 1 mg N=1767 (%) | Hazard ratio vs placebo (95% CI)1 | p-value2 |
 | --- | --- | --- | --- | --- |

@@ -56,7 +56,7 @@ Adverse Reactions in Placebo-Controlled Trials Reported in ≥5% of OZEMPIC-Trea
 
 In the pool of placebo- and active-controlled trials and in the 2-year cardiovascular outcomes trial, the types and frequency of common adverse reactions, excluding hypoglycemia, were similar to those listed in Table 1.
 
-In a clinical trial with 959 patients treated with OZEMPIC 1 mg or OZEMPIC 2 mg once weekly as add-on to metformin with or without sulfonylurea treatment for 40 weeks, no new safety signals were identified.
+In a clinical trial with 959 patients treated with OZEMPIC 1 mg or OZEMPIC 2 mg as add-on to metformin with or without sulfonylurea treatment for 40 weeks, no new safety signals were identified.
 
 In the FLOW trial [see Clinical Studies (14.3)] in patients with type 2 diabetes mellitus and chronic kidney disease, safety data collection was limited to serious adverse events and selected predefined categories of adverse events regardless of seriousness.
 There were no new serious or severe adverse reactions identified in this trial.
@@ -95,9 +95,9 @@ Hypoglycemia Adverse Reactions in Placebo-Controlled Trials in Patients with Typ
 | † “Severe” hypoglycemia adverse reactions are episodes requiring the assistance of another person. |  |  |  |
 
 Hypoglycemia was more frequent when OZEMPIC was used in combination with a sulfonylurea [see Warnings and Precautions (5.5), Clinical Studies (14)].
-Severe hypoglycemia occurred in 0.8% and 1.2% of patients when OZEMPIC 0.5 mg and 1 mg, respectively, was co-administered with a sulfonylurea.
-Documented symptomatic hypoglycemia occurred in 17.3% and 24.4% of patients when OZEMPIC 0.5 mg and 1 mg, respectively, was co-administered with a sulfonylurea.
-Severe or blood glucose confirmed symptomatic hypoglycemia occurred in 6.5% and 10.4% of patients when OZEMPIC 0.5 mg and 1 mg, respectively, was co-administered with a sulfonylurea.
+Severe hypoglycemia occurred in 0.8% and 1.2% of patients when OZEMPIC 0.5 mg and 1 mg, respectively, was coadministered with a sulfonylurea.
+Documented symptomatic hypoglycemia occurred in 17.3% and 24.4% of patients when OZEMPIC 0.5 mg and 1 mg, respectively, was coadministered with a sulfonylurea.
+Severe or blood glucose confirmed symptomatic hypoglycemia occurred in 6.5% and 10.4% of patients when OZEMPIC 0.5 mg and 1 mg, respectively, was coadministered with a sulfonylurea.
 
 Injection Site Reactions
 
@@ -131,14 +131,16 @@ Other adverse reactions with a frequency of >0.4% were associated with OZEMPIC i
 The following adverse reactions have been reported during post-approval use of semaglutide, the active ingredient of OZEMPIC.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal Disorders: Ileus, intestinal obstruction, small intestinal obstruction
+Gastrointestinal: ileus, intestinal obstruction, severe constipation including fecal impaction
 
-Hypersensitivity: anaphylaxis, angioedema, rash, urticaria.
+Hypersensitivity: anaphylaxis, angioedema, rash, urticaria
 
 Hepatobiliary: cholecystitis, cholecystectomy
 
-Neurologic: dysesthesia
+Neurologic: dysesthesia, headache
 
 Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.
 
-Skin and Subcutaneous Tissue: alopecia.
+Renal: acute kidney injury
+
+Skin and Subcutaneous Tissue: alopecia

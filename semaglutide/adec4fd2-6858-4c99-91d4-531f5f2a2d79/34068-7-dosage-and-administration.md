@@ -13,7 +13,7 @@
 - •The day of weekly administration can be changed if necessary as long as the time between two doses is at least 2 days (>48 hours).
 - •If a dose is missed, administer OZEMPIC as soon as possible within 5 days after the missed dose.
   If more than 5 days have passed, skip the missed dose and administer the next dose on the regularly scheduled day.
-  In each case, patients can then resume their regular once weekly dosing schedule.
+  In each case, patients can then resume their regular once-weekly dosing schedule.
 
 ## 2.2 Recommended Dosage
 

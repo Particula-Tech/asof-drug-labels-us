@@ -21,7 +21,7 @@ Prior to first use, OZEMPIC should be stored in a refrigerator between 36ºF to 
 Do not store in the freezer or directly adjacent to the refrigerator cooling element.
 Do not freeze OZEMPIC and do not use OZEMPIC if it has been frozen.
 
-After first use of the OZEMPIC pen, the pen can be stored for 56 days at controlled room temperature (59°F to 86°F; 15°C to 30°C) or in a refrigerator (36°F to 46°F; 2°C to 8°C).
+After first use of the OZEMPIC pen, the pen can be stored for 56 days at controlled room temperature 59°F to 86°F (15°C to 30°C) or in a refrigerator 36°F to 46°F (2°C to 8°C).
 Do not freeze.
 Keep the pen cap on when not in use.
 OZEMPIC should be protected from excessive heat and sunlight.

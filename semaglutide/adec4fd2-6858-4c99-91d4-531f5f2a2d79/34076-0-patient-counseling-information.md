@@ -9,7 +9,7 @@ Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck,
 
 Acute Pancreatitis
 
-Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by vomiting.
+Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by nausea or vomiting.
 Instruct patients to discontinue OZEMPIC promptly and contact their physician if pancreatitis is suspected [see Warnings and Precautions (5.2)].
 
 Diabetic Retinopathy Complications
@@ -60,7 +60,7 @@ Missed doses
 
 Inform patients if a dose is missed, it should be administered as soon as possible within 5 days after the missed dose.
 If more than 5 days have passed, the missed dose should be skipped and the next dose should be administered on the regularly scheduled day.
-In each case, inform patients to resume their regular once weekly dosing schedule [see Dosage and Administration (2.1)].
+In each case, inform patients to resume their regular once-weekly dosing schedule [see Dosage and Administration (2.1)].
 
 Manufactured by:
 
@@ -80,10 +80,8 @@ Plainsboro, NJ 08536
 
 1-888-693-6742
 
-Version: XX
-
 OZEMPIC® and NovoFine® are registered trademarks of Novo Nordisk A/S.
 
-PATENT INFORMATION: http://www.novonordisk-us.com/products/product-patents.html
+Patent Information: http://www.novonordisk-us.com/products/product-patents.html
 
 © 2025 Novo Nordisk
