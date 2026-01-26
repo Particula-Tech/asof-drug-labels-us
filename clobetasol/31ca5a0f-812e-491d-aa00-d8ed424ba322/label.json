@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA218158"
+  ],
+  "inn": "clobetasol",
+  "labeler": "Harrow Eye, LLC",
+  "package_ndcs": [
+    "82667-021-00",
+    "82667-021-05"
+  ],
+  "products": [
+    {
+      "form": "FOR SUSPENSION",
+      "generic": "clobetasol propionate",
+      "name": "BYQLOVI"
+    }
+  ],
+  "setid": "31ca5a0f-812e-491d-aa00-d8ed424ba322",
+  "source": "dailymed"
+}
