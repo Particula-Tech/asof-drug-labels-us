@@ -60,7 +60,8 @@ Advise patients using oral hormonal contraceptives to switch to a non-oral contr
 Administration
 
 Instruct patients how to prepare and administer the correct dose of MOUNJARO and assess their ability to inject subcutaneously to ensure the proper administration of MOUNJARO.
-Instruct patients using the single-dose vial to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL dose) [see Dosage and Administration (2.2)].
+Instruct patients using MOUNJARO vials to always use a new syringe and needle for each injection.
+Use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL or 0.6 mL dose) [see Dosage and Administration (2.2)].
 
 Missed Doses
 
@@ -68,9 +69,9 @@ Inform patients if a dose is missed, it should be administered as soon as possib
 If more than 4 days have passed, the missed dose should be skipped and the next dose should be administered on the regularly scheduled day.
 In each case, inform patients to resume their regular once weekly dosing schedule [see Dosage and Administration (2.1)].
 
-Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 2022, 2025, Eli Lilly and Company.
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 2022, 2026, Eli Lilly and Company.
 All rights reserved.
 
 Pat.: www.lilly.com/patents
 
-MOU-0008-USPI-20251219
+MOU-0009-USPI-20260107

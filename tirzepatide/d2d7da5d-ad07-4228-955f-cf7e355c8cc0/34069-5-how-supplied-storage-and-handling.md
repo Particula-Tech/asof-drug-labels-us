@@ -2,10 +2,11 @@
 
 ## 16.1 How Supplied
 
-MOUNJARO is a clear, colorless to slightly yellow solution available in cartons containing 4 pre-filled single-dose pens or 1 single-dose vial as follows:
+MOUNJARO is a clear, colorless to slightly yellow solution available in cartons containing 4 pre-filled single-dose pens, 1 single-dose vial, or 1 multi-dose vial as follows:
 
-| Total Strength per Total Volume | Pen NDC | Vial NDC |
+| Single-Dose Vial and Prefilled Pen |  |  |
 | --- | --- | --- |
+| Strength | 4 pack Single-dose Pen NDC | 1 pack Single-dose Vial NDC |
 | 2.5 mg/0.5 mL | 0002-1506-80 | 0002-1152-01 |
 | 5 mg/0.5 mL | 0002-1495-80 | 0002-1243-01 |
 | 7.5 mg/0.5 mL | 0002-1484-80 | 0002-2214-01 |
@@ -13,10 +14,36 @@ MOUNJARO is a clear, colorless to slightly yellow solution available in cartons 
 | 12.5 mg/0.5 mL | 0002-1460-80 | 0002-2423-01 |
 | 15 mg/0.5 mL | 0002-1457-80 | 0002-3002-01 |
 
+| Multi-Dose Vial |  |  |
+| --- | --- | --- |
+| Doses per Vial | Strength | 1-pack Multi-dose Vial NDC |
+| 4 doses of 2.5 mg/0.6 mL | 10 mg/2.4 mL (4.17 mg/mL) | 0002-4052-11 |
+| 4 doses of 5 mg/0.6 mL | 20 mg/2.4 mL (8.33 mg/mL) | 0002-4103-11 |
+| 4 doses of 7.5 mg/0.6 mL | 30 mg/2.4 mL (12.5 mg/mL) | 0002-4210-11 |
+| 4 doses of 10 mg/0.6 mL | 40 mg/2.4 mL (16.7 mg/mL) | 0002-4304-11 |
+| 4 doses of 12.5 mg/0.6 mL | 50 mg/2.4 mL (20.8 mg/mL) | 0002-4523-11 |
+| 4 doses of 15 mg/0.6 mL | 60 mg/2.4 mL (25 mg/mL) | 0002-4612-11 |
+
 ## 16.2 Storage and Handling
 
-- Store MOUNJARO in a refrigerator at 2°C to 8°C (36°F to 46°F).
-- If needed, each single-dose pen or single-dose vial can be stored unrefrigerated at temperatures not to exceed 30ºC (86ºF) for up to 21 days.
 - Do not freeze MOUNJARO.
   Do not use MOUNJARO if frozen.
 - Store MOUNJARO in the original carton to protect from light.
+
+MOUNJARO Single-dose Pen and Single-dose Vial
+
+- Store MOUNJARO single-dose pen and single-dose vial in a refrigerator at 2°C to 8°C (36°F to 46°F).
+- If needed, each single-dose pen or single-dose vial can be stored unrefrigerated at temperatures not to exceed 30°C (86°F) for up to 21 days.
+
+MOUNJARO Multi-dose Vial
+
+Unopened vial:
+
+- Store unopened vial in the refrigerator at 2°C to 8°C (36°F to 46°F).
+  The unopened vial can be used until the expiration date on the label if kept in the refrigerator.
+- If stored at room temperature [up to 30°C (86°F)], throw away unopened vial after 30 days.
+
+After vial has been opened:
+
+- Store opened (in-use) vial in the original carton in the refrigerator at 2°C to 8°C (36°F to 46°F) or at room temperature [up to 30°C (86°F)].
+- Throw away opened vial after a total of 30 days at room temperature, 30 days after first use, or after taking 4 weekly doses, even if there is medication left in it.

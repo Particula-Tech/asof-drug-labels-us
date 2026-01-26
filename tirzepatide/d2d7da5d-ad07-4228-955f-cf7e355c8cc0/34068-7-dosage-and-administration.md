@@ -19,7 +19,7 @@
 
 - Prior to initiation, train patients and their caregiver(s) on proper injection technique [see Instructions for Use].
   A patient may self-inject if a healthcare provider determines that it is appropriate.
-- Instruct patients using the single-dose vial to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL dose).
+- Instruct patients using MOUNJARO vials to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL or 0.6 mL dose) and always use a new syringe and needle for each injection.
 - Administer MOUNJARO once weekly, any time of day, with or without meals.
 - Inject MOUNJARO subcutaneously in the abdomen, thigh, or another person should inject in the back of the upper arm.
 - Rotate injection sites with each dose.
