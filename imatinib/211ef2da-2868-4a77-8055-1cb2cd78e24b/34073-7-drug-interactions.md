@@ -18,3 +18,8 @@ Because warfarin is metabolized by CYP2C9 and CYP3A4, use low-molecular weight o
 ## 7.4 Interactions With Drugs Metabolized by CYP2D6
 
 Use caution when administering Gleevec with CYP2D6 substrates that have a narrow therapeutic window.
+
+## 7.5 Interactions With Methotrexate
+
+Gleevec may delay the clearance of methotrexate and result in sustained methotrexate concentrations when methotrexate is used at high doses (> 500 mg/m2).
+Refer to the prescribing information for methotrexate injection for recommendations on management of methotrexate concentrations.

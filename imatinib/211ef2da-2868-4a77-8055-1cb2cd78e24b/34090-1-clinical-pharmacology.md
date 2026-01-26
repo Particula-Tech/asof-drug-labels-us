@@ -34,7 +34,6 @@ The main circulating active metabolite in humans is the N-demethylated piperazin
 It shows in vitro potency similar to the parent imatinib.
 The plasma AUC for this metabolite is about 15% of the AUC for imatinib.
 The plasma protein binding of N-demethylated metabolite CGP74588 is similar to that of the parent compound.
-Human liver microsome studies demonstrated that Gleevec is a potent competitive inhibitor of CYP2C9, CYP2D6, and CYP3A4/5 with Ki values of 27, 7.5, and 8 µM, respectively.
 
 Excretion
 
@@ -79,7 +78,9 @@ Based on pooled population pharmacokinetic analysis in pediatric patients with h
 After correcting for the BSA effect, other demographics, such as age, body weight, and body mass index did not have clinically significant effects on the exposure of imatinib.
 The analysis confirmed that exposure of imatinib in pediatric patients receiving 260 mg/m2 once daily (not exceeding 400 mg once daily) or 340 mg/m2 once daily (not exceeding 600 mg once daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once daily.
 
-Drug Interactions
+Drug Interaction Studies
+
+Clinical Studies
 
 Agents Inducing CYP3A Metabolism
 
@@ -115,7 +116,13 @@ No dose adjustment is necessary, however, caution is recommended when administer
 
 Interactions with Acetaminophen
 
-In vitro, Gleevec inhibits the acetaminophen O-glucuronidate pathway (Ki 58.5 µM).
 Coadministration of Gleevec (400 mg/day for 8 days) with acetaminophen (1,000 mg single dose on Day 8) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.
 Gleevec pharmacokinetics were not altered in the presence of single-dose acetaminophen.
 There is no pharmacokinetic or safety data on the concomitant use of Gleevec at doses greater than 400 mg/day or the chronic use of concomitant acetaminophen and Gleevec.
+
+In Vitro Studies
+
+Cytochrome P450 (CYP450) Enzymes: Imatinib inhibits CYP2C9 and CYP2D6.
+
+Transporter Systems: Imatinib is a substrate of BCRP, P-gp, OATP1A2, OATP1B3, and OCT1.
+Imatinib inhibits BCRP, BSEP, P-gp, MATE1, MATE2-K, OCT1, and OCT2.
