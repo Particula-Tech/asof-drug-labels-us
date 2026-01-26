@@ -22,7 +22,7 @@ NDC 0009-3073-03 Contains 25 of NDC 0009-3073-01
 
 For intramuscular, intrasynovial and soft tissue injection only NOT for IV use
 
-Pfizer Injectables
+Pfizer Hospital
 
 Rx only
 
@@ -50,6 +50,6 @@ NDC 0009-3475-03 Contains 25 of NDC 0009-3475-01
 
 For intramuscular, intrasynovial and soft tissue injection only NOT for IV use
 
-Pfizer Injectables
+Pfizer Hospital
 
 Rx only
