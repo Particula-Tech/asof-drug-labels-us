@@ -13,6 +13,7 @@ Inform postmenopausal women of the possible serious adverse reactions of estroge
 Possible Common Adverse Reactions with Estrogen-Alone Therapy
 
 Inform postmenopausal women of possible less serious but common adverse reactions of estrogen-alone therapy such as headache, breast pain and tenderness, nausea, and vomiting.
-Manufactured for: ASCEND Therapeutics® US, LLC Morristown, NJ 07960 By DPT Laboratories Ltd. San Antonio, TX 78215
 
-141332Rev122023 Utilizes EHG® Technology ©2024 ASCEND Therapeutics® US, LLC
+Manufactured for: ASCEND Therapeutics® US, LLC Bridgewater, NJ 08807
+
+141367Rev052025 Utilizes EHG® Technology ©2024 ASCEND Therapeutics® US, LLC

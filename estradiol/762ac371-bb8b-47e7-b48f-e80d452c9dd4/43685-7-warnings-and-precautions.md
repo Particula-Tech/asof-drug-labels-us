@@ -7,44 +7,41 @@ Increased risks of PE, DVT, stroke and MI are reported with estrogen plus proges
 Immediately discontinue estrogen with or without progestogen if any of these occur or are suspected.
 
 Manage appropriately any risk factors for arterial vascular disease (for example, hypertension, diabetes mellitus, tobacco use, hypercholesterolemia, and obesity) and/or venous thromboembolism (VTE) (for example, personal history or family history of VTE, obesity, and systemic lupus erythematosus).
+
 Stroke
 
 The WHI estrogen-alone substudy reported a statistically significant increased risk of stroke in women 50 to 79 years of age receiving daily CE (0.625 mg)-alone compared to women in the same age group receiving placebo (45 versus 33 per 10,000 women-years, respectively).
 The increase in risk was demonstrated in year 1 and persisted [see Clinical Studies (14.3)].
 Immediately discontinue estrogen-alone therapy if a stroke occurs or is suspected.
 
-Subgroup analysis of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving CE (0.625 mg)-alone versus those receiving placebo (18 versus 21 per 10,000 women-years).
-1
+Subgroup analysis of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving CE (0.625 mg)-alone versus those receiving placebo (18 versus 21 per 10,000 women-years).1
 
 The WHI estrogen plus progestin substudy reported a statistically significant increased risk of stroke in women 50 to 79 years of age receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women in the same age group receiving placebo (33 versus 25 per 10,000 women-years) [see Clinical Studies (14.3)].
-The increase in risk was demonstrated after the first year and persisted.
-1 Immediately discontinue estrogen with or without progestogen therapy if a stroke occurs or is suspected.
+The increase in risk was demonstrated after the first year and persisted.1 Immediately discontinue estrogen with or without progestogen therapy if a stroke occurs or is suspected.
 Coronary Heart Disease
 
-The WHI estrogen-alone substudy reported no overall effect on coronary heart disease (CHD) events (defined as nonfatal MI, silent MI, or CHD death) in women receiving estrogen-alone compared to placebo 2 [see Clinical Studies (14.3)].
+The WHI estrogen-alone substudy reported no overall effect on coronary heart disease (CHD) events (defined as nonfatal MI, silent MI, or CHD death) in women receiving estrogen-alone compared to placebo2 [see Clinical Studies (14.3)].
 
-Subgroup analyses of women 50 to 59 years of age, who were less than 10 years since menopause, suggest a reduction (not statistically significant) of CHD events in those women receiving CE (0.625 mg)-alone compared to placebo) (8 versus 16 per 10,000 women-years).
-1
+Subgroup analyses of women 50 to 59 years of age, who were less than 10 years since menopause, suggest a reduction (not statistically significant) of CHD events in those women receiving CE (0.625 mg)-alone compared to placebo) (8 versus 16 per 10,000 women-years).1
 
-The WHI estrogen plus progestin substudy reported an increased risk (not statistically significant) of CHD events in those women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (41 versus 34 per 10,000 women-years).
-1 An increase in relative risk was demonstrated in year 1, and a trend toward decreasing relative risk was reported in years 2 through 5 [see Clinical Studies (14.3)].
+The WHI estrogen plus progestin substudy reported an increased risk (not statistically significant) of CHD events in those women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (41 versus 34 per 10,000 women-years).1 An increase in relative risk was demonstrated in year 1, and a trend toward decreasing relative risk was reported in years 2 through 5 [see Clinical Studies (14.3)].
 
 In postmenopausal women with documented heart disease (n = 2,763, average 66.7 years of age), in a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study; HERS), treatment with daily CE (0.625 mg) plus MPA (2.5 mg) demonstrated no cardiovascular benefit.
 During an average follow-up of 4.1 years, treatment with CE plus MPA did not reduce the overall rate of CHD events in postmenopausal women with established CHD.
 There were more CHD events in the CE plus MPA-treated group than in the placebo group in year 1, but not during the subsequent years.
 Two thousand, three hundred twenty-one (2,321) women from the original HERS trial agreed to participate in an open-label extension of the original HERS, HERS II.
 Average follow up in HERS II was an additional 2.7 years, for a total of 6.8 years overall.
-Rates of CHD events were comparable among women in the CE plus MPA group and the placebo group in HERS, HERS II, and overall
+Rates of CHD events were comparable among women in the CE plus MPA group and the placebo group in HERS, HERS II, and overall.
 
 Venous Thromboembolism
 
-In the WHI estrogen-alone substudy, the risk of VTE (DVT and PE) was increased for women receiving daily CE (0.625 mg)-alone compared to placebo (30 versus 22 per 10,000 women‑years), although only the increased risk of DVT reached statistical significance (23 versus 15 per 10,000 women-years).
-The increase in VTE risk was demonstrated during the first 2 years 3 [see Clinical Studies (14.3)].
+In the WHI estrogen-alone substudy, the risk of VTE (DVT and PE) was increased for women receiving daily CE (0.625 mg)-alone compared to placebo (30 versus 22 per 10,000 women years), although only the increased risk of DVT reached statistical significance (23 versus 15 per 10,000 women-years).
+The increase in VTE risk was demonstrated during the first 2 years3 [see Clinical Studies (14.3)].
 Immediately discontinue estrogen-alone therapy if a VTE occurs or is suspected.
 
 The WHI estrogen plus progestin substudy reported a statistically significant 2‑fold greater rate of VTE in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (35 versus 17 per 10,000 women‑years).
 Statistically significant increases in risk for both DVT (26 versus 13 per 10,000 women-years) and PE (18 versus 8 per 10,000 women-years) were also demonstrated.
-The increase in VTE risk was demonstrated during the first year and persisted 4 [see Clinical Studies (14.3)].
+The increase in VTE risk was demonstrated during the first year and persisted4 [see Clinical Studies (14.3)].
 Immediately discontinue estrogen plus progestogen therapy if a VTE occurs or is suspected.
 
 If feasible, discontinue estrogens at least 4 to 6 weeks before any surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
@@ -67,7 +64,7 @@ Adding a progestogen to estrogen therapy in postmenopausal women has been shown 
 Breast Cancer
 
 The WHI substudy of daily CE (0.625 mg)-alone provided information about breast cancer in estrogen-alone users.
-In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE (0.625 mg)-alone was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.8]) 5 compared to placebo [see Clinical Studies (14.3)].
+In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE (0.625 mg)-alone was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.8])5 compared to placebo [see Clinical Studies (14.3)].
 
 After a mean follow-up of 5.6 years, the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg) reported an increased risk of invasive breast cancer in women who took daily CE plus MPA compared to placebo.
 
@@ -77,9 +74,9 @@ Among women who reported prior use of hormone therapy, the relative risk of inva
 Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 versus 36 cases per 10,000 women-years for CE plus MPA compared with placebo.
 In the same substudy, invasive breast cancers were larger, were more likely to be node positive, and were diagnosed at a more advanced stage in the CE (0.625 mg) plus MPA (2.5 mg) group compared with the placebo group.
 Metastatic disease was rare, with no apparent difference between the two groups.
-Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups 6 [see Clinical Studies (14.3)].
+Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups6[see Clinical Studies (14.3)].
 
-Consistent with the WHI clinical trial, observational studies have also reported an increased risk of breast cancer with estrogen plus progestin therapy, and a smaller increased risk for estrogen-alone therapy, after several years of use.
+Consistent with the WHI clinical trials, observational studies have also reported an increased risk of breast cancer with estrogen plus progestin therapy, and a smaller increased risk for estrogen-alone therapy, after several years of use.
 One large meta-analysis of prospective cohort studies reported increased risks that were dependent upon duration of use and could last up to >10 years after discontinuation of estrogen plus progestin therapy and estrogen-alone therapy.
 Extension of the WHI trials also demonstrated increased breast cancer risk associated with estrogen plus progestin therapy.
 Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy.
@@ -94,27 +91,26 @@ Ovarian Cancer
 
 The CE plus MPA substudy of WHI reported that estrogen plus progestin increased the risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for CE plus MPA versus placebo was 1.58 (95 percent CI, 0.77-3.24), but it was not statistically significant.
-The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.
-7
+The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7
 
 A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer.
 The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies.
 The relative risks associated with current use of hormonal therapy was 1.41 (95% confidence interval [CI] 1.32 to 1.50); there was no difference in the risk estimates by duration of the exposure (less than 5 years [median of 3 years] vs. greater than 5 years [median 10 years] of use before the cancer diagnosis).
 The relative risk associated with combined current and recent use (discontinued use within 5 years before cancer diagnosis) was 1.37 (95% CI 1.27 – 1.48), and the elevated risk was significant for both estrogen-alone and estrogen plus progestin products.
-The exact duration of hormone therapy use associated with an increased risk of ovarian cancer, however, is unknown
+The exact duration of hormone therapy use associated with an increased risk of ovarian cancer, however, is unknown.
 
 ## 5.3 Probable Dementia
 
-In the WHI Memory Study (WHIMS) estrogen-alone ancillary study, a population of 2,947 hysterectomized women 65 to 79 years of age was randomized to daily CE (0.625 mg)‑alone or placebo.
+In the WHI Memory Study (WHIMS) estrogen-alone ancillary study, a population of 2,947 hysterectomized women 65 to 79 years of age was randomized to daily CE (0.625 mg) alone or placebo.
 
 After an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83-2.66).
-The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years 8[see Use in Specific Populations (8.5), and Clinical Studies (14.4)].
+The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years8 [see Use in Specific Populations (8.5), and Clinical Studies (14.4)].
 
 In the WHIMS estrogen plus progestin ancillary study, a population of 4,532 postmenopausal women 65 to 79 years of age was randomized to daily CE (0.625 mg) plus MPA (2.5 mg) or placebo.
 After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21-3.48).
-The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years 8 [see Use in Specific Populations (8.5), and Clinical Studies (14.4)].
+The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years8 [see Use in Specific Populations (8.5), and Clinical Studies (14.4)].
 
 When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
 Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Use in Specific Populations (8.5), and Clinical Studies (14.4)].
@@ -139,13 +135,13 @@ Permanently discontinue estrogens, including EstroGel. if examination reveals pa
 Studies of the addition of a progestogen for 10 or more days of a cycle of estrogen administration, or daily with estrogen in a continuous regimen, have reported a lowered incidence of endometrial hyperplasia than would be induced by estrogen treatment alone.
 Endometrial hyperplasia may be a precursor to endometrial cancer.
 
-There are, however, possible risks that may be associated with the use of progestogens with estrogens compared to estrogen-alone regimens.
+There are, however, possible risks that may be associated with the use of progestogens with estrogens compared to estrogen alone regimens.
 These include an increased risk of breast cancer.
 
 ## 5.8 Elevated Blood Pressure
 
 In a small number of case reports, substantial increases in blood pressure have been attributed to idiosyncratic reactions to estrogens.
-In a large, randomized, placebo‑controlled clinical trial, a generalized effect of estrogens on blood pressure was not seen.
+In a large, randomized, placebo controlled clinical trial, a generalized effect of estrogens on blood pressure was not seen.
 
 ## 5.9 Exacerbation of Hypertriglyceridemia
 
@@ -163,13 +159,12 @@ In the case of recurrence of cholestatic jaundice, discontinue EstroGel.
 Estrogen administration leads to increased thyroid-binding globulin (TBG) levels.
 Women with normal thyroid function can compensate for the increased TBG by making more thyroid hormone, thus maintaining free T4 and T3 serum concentrations in the normal range.
 Women dependent on thyroid hormone replacement therapy who are also receiving estrogens may require increased doses of their thyroid replacement therapy.
-Monitor thyroid function in these women during treatment with EstroGel to maintain their free thyroid hormone levels in an acceptable range
+Monitor thyroid function in these women during treatment with EstroGel to maintain their free thyroid hormone levels in an acceptable range.
 
 ## 5.12 Fluid Retention
 
 Estrogens may cause some degree of fluid retention.
-Monitor any woman with a condition(s) that might predispose her to fluid retention, such as cardiac or renal impairment.
-Discontinue estrogen-alone therapy, including EstroGel, with evidence of medically concerning fluid retention.
+Monitor any woman with a condition(s) that might predispose her to fluid retention, such as cardiac or renal impairment., Discontinue estrogen-alone therapy, including EstroGel, with evidence of medically concerning fluid retention.
 
 ## 5.13 Hypocalcemia
 
@@ -191,7 +186,7 @@ Consider whether the benefits of estrogen therapy, including EstroGel, outweigh 
 Estrogen therapy, including EstroGel, may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine, porphyria, systemic lupus erythematosus, and hepatic hemangiomas.
 Consider whether the benefits of estrogen therapy outweigh the risks in women with such conditions.
 
-## 5.17 Alcohol-based Gels are Flammable
+## 5.17 Alcohol-based Products are Flammable
 
 Avoid fire, flame, or smoking until EstroGel has dried.
 

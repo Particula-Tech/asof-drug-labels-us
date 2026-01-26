@@ -12,10 +12,11 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 EstroGel was studied in 2 well-controlled, 12-week clinical trials.
 Incidence of adverse drug reactions ≥5 percent for 1.25 g EstroGel 0.06% and placebo is given in Table 1.
 
-Table 1 Incidence of Adverse Drug Reactions ≥5 Percent Occurrence in the EstroGel Treatment Group for the Intent-to-Treat Safety Population in 2 Well-controlled Clinical Studies (Expressed as Percent of Treatment Group)
+Table 1
 
-| Body System/ Adverse Drug Reactions | EstroGel 0.06% 1.25 g /day (n=168) | Placebo (n=73) |
+| Incidence of Adverse Drug Reactions ≥5 Percent Occurrence in the EstroGel Treatment Group for the Intent-to-Treat Safety Population in 2 Well-controlled Clinical Studies (Expressed as Percent of Treatment Group) |  |  |
 | --- | --- | --- |
+| Body System/ Adverse Drug Reactions | EstroGel 0.06% 1.25 g /day (n=168) | Placebo (n=73) |
 | BODY AS A WHOLE |  |  |
 | Headache | 9.5 | 2.7 |
 | DIGESTIVE SYSTEM |  |  |

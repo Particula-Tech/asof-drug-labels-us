@@ -7,7 +7,7 @@ Although circulating estrogens exist in a dynamic equilibrium of metabolic inter
 
 The primary source of estrogen in normally cycling adult women is the ovarian follicle, which secretes 70 to 500 mcg of estradiol daily, depending on the phase of the menstrual cycle.
 After menopause, most endogenous estrogen is produced by conversion of androstenedione, secreted by the adrenal cortex, to estrone in the peripheral tissues.
-Thus, estrone and the sulfate‑conjugated form, estrone sulfate, are the most abundant circulating estrogens in postmenopausal women.
+Thus, estrone and the sulfate conjugated form, estrone sulfate, are the most abundant circulating estrogens in postmenopausal women.
 
 Estrogens act through binding to nuclear receptors in estrogen-responsive tissues.
 To date, 2 estrogen receptors have been identified.
@@ -50,7 +50,7 @@ These transformations take place mainly in the liver.
 Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is a major urinary metabolite.
 Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption.
 In postmenopausal women, a significant proportion of the circulating estrogens exist as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
-Although the clinical significance has not been determined, estradiol from EstroGel does not go through first‑pass liver metabolism.
+Although the clinical significance has not been determined, estradiol from EstroGel does not go through first pass liver metabolism.
 Excretion
 
 Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
@@ -69,7 +69,7 @@ No change in endogenous mean serum concentrations of estradiol was observed in t
 Effect of Moisturizer Lotion/Sunscreen on Estradiol Absorption
 
 The effect of sunscreen and moisturizer lotion on estradiol absorption from 0.06% estradiol topical gel was evaluated in a randomized, open-label, three-period crossover study in 42 healthy postmenopausal women.
-The study results showed that repeated daily application of sunscreen for 7 days at 1 hour after the administration of 0.06% estradiol topical gel decreased the mean AUC 0-24h and C max of estradiol by 16%.
-Repeated daily application of moisturizer lotion for 7 days at 1 hour after the administration of 0.06% estradiol topical gel increased the mean AUC 0-24h and C max of estradiol by 38% and 73%, respectively.
+The study results showed that repeated daily application of sunscreen for 7 days at 1 hour after the administration of 0.06% estradiol topical gel decreased the mean AUC0-24h and Cmax of estradiol by 16%.
+Repeated daily application of moisturizer lotion for 7 days at 1 hour after the administration of 0.06% estradiol topical gel increased the mean AUC0-24h and Cmax of estradiol by 38% and 73%, respectively.
 
 The effect of daily application of sunscreen/moisturizer lotion on estradiol absorption, when sunscreen/moisturizer lotion is applied before administration of 0.06% estradiol topical gel, was not studied.

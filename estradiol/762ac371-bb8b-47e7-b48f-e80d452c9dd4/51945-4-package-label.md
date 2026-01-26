@@ -1,11 +1,11 @@
-# PRINCIPAL DISPLAY PANEL - EstroGel 50g Canister
+# PRINCIPAL DISPLAY PANEL - EstroGel 50g
 
-NDC 17139-617-40
+NDC 17139-617-40 ESTROGel® 0.06% (estradiol gel) 0.75 mg of estradiol per pump actuation* *Each actuation delivers 1.25 g of gel For Topical Use Only.
+A multi-dose pump capable of dispensing 30 metered pump actuations.
+Rx only
 
-ESTROGel ® 0.06% (estradiol gel) For Topical Use Only.
-A multiple-dose pump containing 50 grams (1.75 oz) Rx only
+# PRINCIPAL DISPLAY PANEL - EstroGel 50g
 
-# PRINCIPAL DISPLAY PANEL - EstroGel 50g Carton
-
-NDC 17139-617-40 ESTROGel ® 0.06% (estradiol gel) For Topical Use Only.
-A multiple-dose pump containing 50 grams (1.75 oz) Rx only
+NDC 17139-617-40 ESTROGel® 0.06% (estradiol gel) 0.75 mg of estradiol per pump actuation* *Each actuation delivers 1.25 g of gel For Topical Use Only.
+A multi-dose pump capable of dispensing 30 metered pump actuations.
+Rx only
