@@ -22,8 +22,7 @@ Advise patients to notify their physician if they experience a rash associated w
 Drug Interactions
 
 - •Inform female patients of childbearing age that the concurrent use of rufinamide with hormonal contraceptives may render this method of contraception less effective.
-  Recommend patients use additional non-hormonal forms of contraception when using rufinamide [see Drug Interactions (7.3) and Use in Specific Populations (Error!
-  Hyperlink reference not valid.)].
+  Recommend patients use additional non-hormonal forms of contraception when using rufinamide [see Drug Interactions (7.3) and Use in Specific Populations (8.3)].
 - •Inform patients that alcohol in combination with rufinamide may cause additive central nervous system effects.
 
 Pregnancy
@@ -36,25 +35,11 @@ Breastfeeding
 
 Advise patients to notify their physician if they are breastfeeding or intend to breastfeed [see Use in Specific Populations (8.2)].
 
-Medication Guide available at:
+Distributed by:
 
-www.glenmarkpharma-us.com/medguides
-
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Pithampur, Madhya Pradesh 454775, India
-
-Manufactured for:
-
-Glenmark Pharmaceuticals Inc., USA
-
-Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407
 
 Questions?
-1 (888) 721-7115
+1 (888) 721-7115 www.glenmarkpharma-us.com
 
-www.glenmarkpharma-us.com
-
-January 2021
+August 2025

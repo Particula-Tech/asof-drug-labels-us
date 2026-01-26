@@ -176,27 +176,12 @@ Active ingredient: rufinamide
 
 Inactive ingredients: colloidal silicon dioxide, corn starch, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, sodium lauryl sulfate, talc, iron oxide red, polyethylene glycol, and titanium dioxide.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Distributed by:
 
-Medication Guide available at:
-
-www.glenmarkpharma-us.com/medguides
-
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Pithampur, Madhya Pradesh 454775, India
-
-Manufactured for:
-
-Glenmark Pharmaceuticals Inc., USA
-
-Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407
 
 Questions?
-1 (888) 721-7115
+1 (888) 721-7115 www.glenmarkpharma-us.com
 
-www.glenmarkpharma-us.com
-
-January 2021
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised: August 2025
