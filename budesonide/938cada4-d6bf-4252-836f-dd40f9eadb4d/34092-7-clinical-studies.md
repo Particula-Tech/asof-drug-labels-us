@@ -7,7 +7,7 @@ While the effect on kidney function that was seen during the 9-month treatment p
 
 NefIgArd Study: A Phase 3, Double-Blind Placebo-Controlled, Randomized Trial in Adults with Primary IgAN
 
-The effect of TARPEYO on proteinuria and kidney function (estimated glomerular filtration rate, eGFR) was assessed in a randomized, double-blind, phase 3, 2-part, multicenter study (NefIgArd, NCT: 03643965) in adults with biopsy-proven IgAN, eGFR ≥35 mL/min/1.73 m2, and proteinuria (defined as either ≥1 g/day or urine protein to creatinine ratio (UPCR) ≥0.8 g/g) who were on a stable dose of maximally-tolerated RAS inhibitor therapy.
+The effect of TARPEYO on proteinuria and kidney function (estimated glomerular filtration rate, eGFR) was assessed in a randomized, double-blind, phase 3, 2-part, multicenter study (NefIgArd, NCT: 03643965) in adults with biopsy-proven IgAN, eGFR ≥35 mL/min/1.73 m 2, and proteinuria (defined as either ≥1 g/day or urine protein to creatinine ratio (UPCR) ≥0.8 g/g) who were on a stable dose of maximally-tolerated RAS inhibitor therapy.
 Patients with other glomerulopathies, nephrotic syndrome, or those who had been treated with systemic immunosuppressive medications were excluded.
 Patients were randomized 1:1 to either TARPEYO 16 mg once daily or placebo and treated for nine months followed by a 2-week taper of either TARPEYO 8 mg once daily or placebo.
 Patients were then followed off-treatment for 15 months.
@@ -16,7 +16,7 @@ The primary endpoint for Part B of the study (final analysis) was a time-weighte
 
 Of the 364 randomized patients evaluated for efficacy, 66% were male, 76% were Caucasian, 23% were Asian, and 20% were from North America.
 The median age was 43 years (range 20 to 73 years).
-At baseline, the mean eGFR was approximately 58 mL/min/1.73 m2, with 60% of patients having an eGFR <60 mL/min/1.73 m2.
+At baseline, the mean eGFR was approximately 58 mL/min/1.73 m 2, with 60% of patients having an eGFR <60 mL/min/1.73 m 2.
 The mean baseline UPCR was 1.5 g/g and 21% of patients had proteinuria >3.5 g/24 hours.
 Approximately 70% of patients had a history of hypertension and 7% had a history of type 2 diabetes mellitus.
 At baseline, 98% were treated with an angiotensin-converting enzyme (ACE) inhibitor or angiotensin receptor blocker (ARB) and <1% of patients were on a sodium-glucose cotransporter 2 (SGLT2) inhibitor.

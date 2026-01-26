@@ -15,8 +15,8 @@ Treatment with corticosteroids, including TARPEYO, is associated with a suppress
 
 Absorption
 
-Following single oral administration of TARPEYO 16 mg to healthy subjects, the average geometric mean Cmax (CV%) was 4.4 ng/mL (58.3), and AUC0-24 was 24.1 h*ng/mL (49.7).
-Median Tlag (min, max) was 3.1 h (0, 6) while median Tmax (min, max) was 5.1 h (4.5, 10).
+Following single oral administration of TARPEYO 16 mg to healthy subjects, the average geometric mean C max(CV%) was 4.4 ng/mL (58.3), and AUC 0-24was 24.1 h*ng/mL (49.7).
+Median T lag(min, max) was 3.1 h (0, 6) while median T max(min, max) was 5.1 h (4.5, 10).
 
 Food Effect
 

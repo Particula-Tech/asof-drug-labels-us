@@ -38,7 +38,7 @@ In an embryo-fetal development study in pregnant rabbits dosed during the period
 Maternal toxicity, including reduction in body weight gain, was observed at subcutaneous doses of 5 mcg/kg in rabbits (approximately 0.006 times the maximum recommended human dose on a body surface area basis) and 500 mcg/kg in rats (approximately 0.3 times the maximum recommended human dose on a body surface area basis).
 
 In a peri- and post-natal development study, subcutaneous treatment of pregnant rats with budesonide during the period from Day 15 post coitum to Day 21 post partum, budesonide had no effects on delivery, but did have an effect on growth and development of offspring.
-In addition, offspring survival was reduced and surviving offspring had decreased mean body weights at birth and during lactation at exposures ≥ 0.012 times the MRHD (on a mg/m2 basis at maternal subcutaneous doses of 20 mcg/kg/day and higher).
+In addition, offspring survival was reduced and surviving offspring had decreased mean body weights at birth and during lactation at exposures ≥ 0.012 times the MRHD (on a mg/m 2basis at maternal subcutaneous doses of 20 mcg/kg/day and higher).
 These findings occurred in the presence of maternal toxicity.
 
 ## 8.2 Lactation
