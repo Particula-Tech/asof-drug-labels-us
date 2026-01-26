@@ -31,3 +31,19 @@ Trazodone Hydrochloride Tablets USP, 300 mg
 100 Tablets
 
 Rx only
+
+NDC 70771-1938-1
+
+Trazodone Hydrochloride Tablets USP, 50 mg
+
+100 Tablets
+
+Rx only
+
+NDC 70771-1939-1
+
+Trazodone Hydrochloride Tablets USP, 100 mg
+
+100 Tablets
+
+Rx only
