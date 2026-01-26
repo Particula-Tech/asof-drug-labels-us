@@ -1,4 +1,4 @@
 # OVERDOSAGE
 
 Topically applied calcipotriene can be absorbed in sufficient amounts to produce systemic effects.
-Elevated serum calcium has been observed with excessive use of calcipotriene ointment.
+Elevated serum calcium has been observed with excessive use of calcipotriene ointment USP, 0.005%.
