@@ -16,7 +16,7 @@ The use of SILVADENE Cream 1% (silver sulfadiazine) in some cases of glucose-6-p
 
 ## General
 
-If hepatic and renal functions become impaired and elimination of drug decreases, accumulation may occur and discontinuation of SILVADENE Cream 1% (silver sulfadiazine) should be weighed against the therapeutic benefit being achieved.
+If hepatic and renal functions become impaired and elimination of drug decreases, accumulation may occur, and discontinuation of SILVADENE Cream 1% (silver sulfadiazine) should be weighed against the therapeutic benefit being achieved.
 
 In considering the use of topical proteolytic enzymes in conjunction with SILVADENE Cream 1%, the possibility should be noted that silver may inactivate such enzymes.
 
@@ -40,8 +40,7 @@ Long-term dermal toxicity studies of 24 months' duration in rats and 18 months' 
 
 A reproductive study has been performed in rabbits at doses up to three to ten times the concentration of silver sulfadiazine in SILVADENE Cream 1% and has revealed no evidence of harm to the fetus due to silver sulfadiazine.
 There are, however, no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly justified, especially in pregnant women approaching or at term.
-(See CONTRAINDICATIONS.)
+Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly justified, especially in pregnant women approaching or at term (see CONTRAINDICATIONS).
 
 ## Nursing Mothers
 
@@ -51,10 +50,9 @@ Because of the possibility for serious adverse reactions in nursing infants from
 
 ## Geriatric Use
 
-Of the total number of subjects in clinical studies of Silvadene Cream 1%, seven percent were 65 years of age and over.
+Of the total number of subjects in clinical studies of SILVADENE Cream 1%, seven percent were 65 years of age and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
-(See CONTRAINDICATIONS.)
+Safety and effectiveness in pediatric patients have not been established (see CONTRAINDICATIONS).

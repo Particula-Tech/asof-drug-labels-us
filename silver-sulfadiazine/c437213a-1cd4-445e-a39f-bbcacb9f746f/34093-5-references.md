@@ -14,6 +14,6 @@
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0647-6.0
+LAB-0647-7.0
 
-September 2016
+Revised January 2026
