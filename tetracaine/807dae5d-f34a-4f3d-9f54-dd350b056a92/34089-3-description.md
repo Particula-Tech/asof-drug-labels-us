@@ -3,7 +3,7 @@
 Tetracaine Hydrochloride Ophthalmic Solution, USP 0.5% is a sterile, clear, colorless, topical local anesthetic for ophthalmic use only containing tetracaine hydrochloride as the active pharmaceutical ingredient.
 
 Tetracaine hydrochloride is chemically designated as benzoic acid, 4-(butylamino)-, 2-(dimethylamino) ethyl ester, monohydrochloride.
-Its chemical formula is C15H24N2O2 ● HCl and it is represented by the chemical structure:
+Its chemical formula is C 15H 24N 2O 2● HCl and it is represented by the chemical structure:
 
 Tetracaine hydrochloride is a fine, white, crystalline, odorless powder with a molecular weight of 300.82
 
