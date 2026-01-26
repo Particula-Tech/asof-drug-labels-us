@@ -50,6 +50,8 @@ Columbus, OH 43228
 
 RYALTRIS and the RYALTRIS logo are registered trademarks of Glenmark Specialty SA
 
-Revised: October 2023
+Under license from Glenmark Specialty SA
+
+Revised: April 2025
 
 PN 141197

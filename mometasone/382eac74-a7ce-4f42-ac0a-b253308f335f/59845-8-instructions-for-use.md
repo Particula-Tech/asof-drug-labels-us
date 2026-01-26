@@ -159,5 +159,7 @@ Hikma Specialty USA Inc. Columbus, OH 43228
 
 RYALTRIS and the RYALTRIS logo are registered trademarks of Glenmark Specialty SA
 
-1. This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-   October 2023
+Under license from Glenmark Specialty SA
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+April 2025
