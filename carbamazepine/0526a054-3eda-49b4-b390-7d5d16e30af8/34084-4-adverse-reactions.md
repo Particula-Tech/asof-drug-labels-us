@@ -11,7 +11,7 @@ The following additional adverse reactions have been reported:
 
 Hemopoietic System:Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda.
 
-Skin:Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, onychomadesis and hirsutism.
+Skin:TEN and SJS (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, onychomadesis and hirsutism.
 In certain cases, discontinuation of therapy may be necessary.
 
 Cardiovascular System:Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g., pulmonary embolism), and adenopathy or lymphadenopathy.
@@ -56,3 +56,5 @@ Isolated cases of a lupus erythematosus-like syndrome have been reported.
 There have been occasional reports of elevated levels of cholesterol, HDL cholesterol, and triglycerides in patients taking anticonvulsants.
 A case of aseptic meningitis, accompanied by myoclonus and peripheral eosinophilia, has been reported in a patient taking carbamazepine in combination with other medications.
 The patient was successfully dechallenged, and the meningitis reappeared upon rechallenge with carbamazepine.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Sun Pharmaceutical Industries, Inc., at 1-866-923-4914.

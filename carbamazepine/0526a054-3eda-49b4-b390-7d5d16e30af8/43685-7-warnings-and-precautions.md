@@ -20,10 +20,9 @@ HLA-B*1502 is present in less than 1% of the population in Japan and Korea.
 
 HLA-B*1502 is largely absent in individuals not of Asian origin (e.g., Caucasians, African-Americans, Hispanics, and Native Americans).
 
-Prior to initiating carbamazepine therapy, testing for HLA-B*1502 should be performed in patients with ancestry in populations in which HLA-B*1502 may be present.
-In deciding which patients to screen, the rates provided above for the prevalence of HLA-B*1502 may offer a rough guide, keeping in mind the limitations of these figures due to wide variability in rates even within ethnic groups, the difficulty in ascertaining ethnic ancestry, and the likelihood of mixed ancestry.
+Prior to initiating carbamazepine therapy, testing for HLA-B*1502 should be performed in patients with ancestry in populations in which HLA-B*1502 may be present.In deciding which patients to screen, the rates provided above for the prevalence of HLA-B*1502 may offer a rough guide, keeping in mind the limitations of these figures due to wide variability in rates even within ethnic groups, the difficulty in ascertaining ethnic ancestry, and the likelihood of mixed ancestry.
 Carbamazepine should not be used in patients positive for HLA-B*1502 unless the benefits clearly outweigh the risks.
-Tested patients who are found to be negative for the allele are thought to have a low risk of SJS/TEN (see BOXED WARNING and PRECAUTIONS, Laboratory Tests).
+Tested patients who are found to be negative for the allele are thought to have a low risk of SJS/TEN (see BOXED WARNINGand PRECAUTIONS, Laboratory Tests).
 
 Over 90% of carbamazepine treated patients who will experience SJS/TEN have this reaction within the first few months of treatment.
 This information may be taken into consideration in determining the need for screening of genetically at-risk patients currently on carbamazepine.
@@ -36,7 +35,7 @@ Consideration should be given to avoiding use of other drugs associated with SJS
 ## Hypersensitivity Reactions and HLA-A*3101 Allele
 
 Retrospective case-control studies in patients of European, Korean, and Japanese ancestry have found a moderate association between the risk of developing hypersensitivity reactions and the presence of HLA-A*3101, an inherited allelic variant of the HLA-A gene, in patients using carbamazepine.
-These hypersensitivity reactions include SJS/TEN, maculopapular eruptions, and Drug Reaction with Eosinophilia and Systemic Symptoms (see DRESS/Multiorgan hypersensitivity below).
+These hypersensitivity reactions include SJS/TEN, maculopapular eruptions, and Drug Reaction with Eosinophilia and Systemic Symptoms (see DRESS/Multiorgan hypersensitivitybelow).
 
 HLA-A*3101 is expected to be carried by more than 15% of patients of Japanese, Native American, Southern Indian (for example, Tamil Nadu) and some Arabic ancestry; up to about 10% in patients of Han Chinese, Korean, European, Latin American, and other Indian ancestry; and up to about 5% in African-Americans and patients of Thai, Taiwanese, and Chinese (Hong Kong) ancestry.
 
@@ -76,6 +75,17 @@ Angioedema associated with laryngeal edema can be fatal.
 If a patient develops any of these reactions after treatment with carbamazepine, the drug should be discontinued and an alternative treatment started.
 These patients should not be rechallenged with the drug.
 
+## Propylene Glycol Toxicity
+
+Carbamazepine oral suspension contains propylene glycol (see DESCRIPTION).
+Patients less than 5 years of age are at highest risk for propylene glycol toxicity, and a safe level for propylene glycol exposure with repeated administration has not been established for this age group.
+Particularly, neonates i.e., less than 4 weeks of age (including full-term babies and preterm babies less than 44 post-menstrual weeks of age) are known to have immature metabolic and renal clearance of propylene glycol.
+Therefore, carbamazepine oral suspension should only be used in neonates after careful risk-benefit assessment if no therapeutic alternatives are available.
+When carbamazepine oral suspension is administered at the maximum dose (35 mg/kg/day) for treatment of epilepsy, the exposure to propylene glycol will be 88 mg/kg/day.
+The total daily intake of propylene glycol from all sources, including concomitant drugs, should be considered in managing the risk of propylene glycol toxicity.
+Monitor patients for signs of potential propylene glycol toxicity, including hemolysis, hyperosmolarity with anion gap metabolic acidosis, acute kidney injury, and central nervous system (CNS) toxicity.
+Discontinue carbamazepine oral suspension if propylene glycol toxicity is suspected (see DESCRIPTION).
+
 ## Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including carbamazepine, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
@@ -95,11 +105,11 @@ Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 1 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
+| Indication | Placebo patients with events per 1,000 patients | Drug patients with events per 1,000 patients | Relative risk: incidence of events in drug patients/incidence in placebo patients | Risk difference: additional drug patients with events per 1,000 patients |
 | --- | --- | --- | --- | --- |
-| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
+| Epilepsy | 1 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
-| Other | 1.0 | 1.8 | 1.9 | 0.9 |
+| Other | 1 | 1.8 | 1.9 | 0.9 |
 | Total | 2.4 | 4.3 | 1.8 | 1.9 |
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
@@ -145,18 +155,18 @@ Carbamazepine has been shown to have adverse effects in reproduction studies in 
 In rat teratology studies, 2 of 135 offspring showed kinked ribs at 250 mg/kg and 4 of 119 offspring at 650 mg/kg showed other anomalies (cleft palate, 1; talipes, 1; anophthalmos, 2).
 In reproduction studies in rats, nursing offspring demonstrated a lack of weight gain and an unkempt appearance at a maternal dosage level of 200 mg/kg.
 
-Antiepileptic drugs should not be discontinued abruptly in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
-In individual cases where the severity and frequency of the seizure disorder are such that removal of medication does not pose a serious threat to the patient, discontinuation of the drug may be considered prior to and during pregnancy, although it cannot be said with any confidence that even minor seizures do not pose some hazard to the developing embryo or fetus.
-
-Tests to detect defects using currently accepted procedures should be considered a part of routine prenatal care in childbearing women receiving carbamazepine.
-
 There have been a few cases of neonatal seizures and/or respiratory depression associated with maternal carbamazepine and other concomitant anticonvulsant drug use.
 A few cases of neonatal vomiting, diarrhea, and/or decreased feeding have also been reported in association with maternal carbamazepine use.
 These symptoms may represent a neonatal withdrawal syndrome.
 
-To provide information regarding the effects of in utero exposure to carbamazepine, physicians are advised to recommend that pregnant patients taking carbamazepine enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+To provide information regarding the effects of in uteroexposure to carbamazepine, physicians are advised to recommend that pregnant patients taking carbamazepine enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+
+Clinical Considerations Disease-associated Maternal and/or Embryofetal Risk Epilepsy, with or without exposure to antiepileptic drugs, has been associated with several adverse outcomes during pregnancy, including preeclampsia, preterm labor, antepartum and postpartum hemorrhage, placental abruption, poor fetal growth, prematurity, fetal death, and maternal mortality.
+The risk of maternal or fetal injury may be greatest for patients with untreated or poorly controlled convulsive seizures.
+
+Women with epilepsy who become pregnant should not abruptly discontinue antiepileptic drugs, including carbamazepine, due to the risk of status epilepticus or severe seizures, which may be life-threatening.
 
 # PRECAUTIONS
 
@@ -176,11 +186,11 @@ In some cases, hepatic effects may progress despite discontinuation of the drug.
 In addition rare instances of vanishing bile duct syndrome have been reported.
 This syndrome consists of a cholestatic process with a variable clinical course ranging from fulminant to indolent, involving the destruction and disappearance of the intrahepatic bile ducts.
 Some, but not all, cases are associated with features that overlap with other immunoallergenic syndromes such as multiorgan hypersensitivity (DRESS syndrome) and serious dermatologic reactions.
-As an example there has been a report of vanishing bile duct syndrome associated with Stevens-Johnson syndrome and in another case an association with fever and eosinophilia.
+As an example there has been a report of vanishing bile duct syndrome associated with SJS and in another case an association with fever and eosinophilia.
 
 Since a given dose of carbamazepine suspension will produce higher peak levels than the same dose given as the tablet, it is recommended that patients given the suspension be started on lower doses and increased slowly to avoid unwanted side effects (see DOSAGE AND ADMINISTRATION).
 
-Carbamazepine chewable tablets and suspension contain sorbitol and, therefore, should not be administered to patients with rare hereditary problems of fructose intolerance.
+Carbamazepine chewable tablets and oral suspension contain sorbitol and, therefore, should not be administered to patients with rare hereditary problems of fructose intolerance.
 
 ## Information for Patients
 
@@ -220,7 +230,7 @@ Complete pretreatment blood counts, including platelets and possibly reticulocyt
 If a patient in the course of treatment exhibits low or decreased white blood cell or platelet counts, the patient should be monitored closely.
 Discontinuation of the drug should be considered if any evidence of significant bone marrow depression develops.
 
-Baseline and periodic evaluations of liver function, particularly in patients with a history of liver disease, must be performed during treatment with this drug since liver damage may occur (see PRECAUTIONS, General and ADVERSE REACTIONS).
+Baseline and periodic evaluations of liver function, particularly in patients with a history of liver disease, must be performed during treatment with this drug since liver damage may occur (see PRECAUTIONS, Generaland ADVERSE REACTIONS).
 Carbamazepine should be discontinued, based on clinical judgment, if indicated by newly occurring or worsening clinical or laboratory evidence of liver dysfunction or hepatic damage, or in the case of active liver disease.
 
 Baseline and periodic eye examinations, including slit-lamp, funduscopy, and tonometry, are recommended since many phenothiazines and related drugs have been shown to cause eye changes.
@@ -238,7 +248,7 @@ Interference with some pregnancy tests has been reported.
 
 There has been a report of a patient who passed an orange rubbery precipitate in his stool the day after ingesting carbamazepine suspension immediately followed by Thorazine ®* solution.
 Subsequent testing has shown that mixing carbamazepine suspension and chlorpromazine solution (both generic and brand name) as well as carbamazepine suspension and liquid Mellaril ®, resulted in the occurrence of this precipitate.
-Because the extent to which this occurs with other liquid medications is not known, carbamazepine suspension should not be administered simultaneously with other liquid medicinal agents or diluents (See DOSAGE AND ADMINISTRATION).
+Because the extent to which this occurs with other liquid medications is not known, carbamazepine suspension should not be administered simultaneously with other liquid medicinal agents or diluents (see DOSAGE AND ADMINISTRATION).
 
 Clinically meaningful drug interactions have occurred with concomitant medications and include (but are not limited to) the following:
 
@@ -249,10 +259,10 @@ When carbamazepine is given with drugs that can increase or decrease carbamazepi
 #### Agents That Increase Carbamazepine Levels
 
 CYP3A4 inhibitors inhibit carbamazepine metabolism and can thus increase plasma carbamazepine levels.
-Drugs that have been shown, or would be expected, to increase plasma carbamazepine levels include aprepitant, cimetidine, ciprofloxacin, danazol, diltiazem, macrolides, erythromycin, troleandomycin, clarithromycin, fluoxetine, fluvoxamine, trazodone, olanzapine, loratadine, terfenadine, omeprazole, oxybutynin, dantrolene, isoniazid, niacinamide, nicotinamide, ibuprofen, propoxyphene, azoles (e.g., ketoconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, and protease inhibitors.
+Drugs that have been shown, or would be expected, to increase plasma carbamazepine levels include aprepitant, cimetidine, ciprofloxacin, danazol, diltiazem, macrolides (e.g. erythromycin, clarithromycin), fluoxetine, fluvoxamine, trazodone, omeprazole, oxybutynin, isoniazid, niacinamide (nicotinamide), azoles (e.g., ketoconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, and protease inhibitors.
 Human microsomal epoxide hydrolase has been identified as the enzyme responsible for the formation of the 10,11-transdiol derivative from carbamazepine-10,11 epoxide.
 Coadministration of inhibitors of human microsomal epoxide hydrolase may result in increased carbamazepine-10,11 epoxide plasma concentrations.
-Accordingly, the dosage of carbamazepine should be adjusted and/or the plasma levels monitored when used concomitantly with loxapine, quetiapine, or valproic acid.
+Accordingly, the dosage of carbamazepine should be adjusted and/or the plasma levels monitored when used concomitantly with loxapine, quetiapine, valproic acid, or brivaracetam.
 
 #### Agents That Decrease Carbamazepine Levels
 
@@ -263,14 +273,14 @@ Drugs that have been shown, or that would be expected, to decrease plasma carbam
 
 #### Decreased Levels of Concomitant Medications
 
-Carbamazepine is a potent inducer of hepatic 3A4 and is also known to be an inducer of CYP1A2, 2B6, 2C9/19 and may therefore reduce plasma concentrations of co-medications mainly metabolized by CYP 1A2, 2B6, 2C9/19 and 3A4, through induction of their metabolism.
+Carbamazepine is a potent inducer of hepatic 3A4 and is also known to be an inducer of CYP1A2, 2B6, 2C89/19 and may therefore reduce plasma concentrations of co-medications mainly metabolized by CYP 1A2, 2B6, 2C89/19 and 3A4, through induction of their metabolism.
 When used concomitantly with carbamazepine, monitoring of concentrations or dosage adjustment of these agents may be necessary:
 
 - When carbamazepine is added to aripiprazole, the aripiprazole dose should be doubled.
   Additional dose increases should be based on clinical evaluation.
   If carbamazepine is later withdrawn, the aripiprazole dose should be reduced.
 - When carbamazepine is used with tacrolimus, monitoring of tacrolimus blood concentrations and appropriate dosage adjustments are recommended.
-- The use of concomitant strong CYP3A4 inducers such as carbamazepine should be avoided with temsirolimus.
+- The use of concomitant strong CYP3A4 inducers, such as carbamazepine should be avoided with temsirolimus.
   If patients must be coadministered carbamazepine with temsirolimus, an adjustment of temsirolimus dosage should be considered.
 - The use of carbamazepine with lapatinib should generally be avoided.
   If carbamazepine is started in a patient already taking lapatinib, the dose of lapatinib should be gradually titrated up.
@@ -287,6 +297,7 @@ In addition, carbamazepine causes, or would be expected to cause, decreased leve
   The rate of metabolism and the leukopenic activity of cyclophosphamide are reportedly increased by chronic coadministration of CYP3A4 inducers.
   There is a potential for increased cyclophosphamide toxicity when coadministered with carbamazepine.
 - Concomitant administration of carbamazepine and lithium may increase the risk of neurotoxic side effects.
+- Concomitant use of carbamazepine with olanzapine, dantrolene, or ibuprofen may increase plasma carbamazepine levels.
 - Concomitant use of carbamazepine and isoniazid has been reported to increase isoniazid-induced hepatotoxicity.
 - Alterations of thyroid function have been reported in combination therapy with other anticonvulsant medications.
 - Concomitant use of carbamazepine with hormonal contraceptive products (e.g., oral, and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased.
@@ -324,12 +335,17 @@ Because of the potential for serious adverse reactions in nursing infants from c
 
 ## Pediatric Use
 
-Substantial evidence of carbamazepine's effectiveness for use in the management of children with epilepsy (see INDICATIONS AND USAGE for specific seizure types) is derived from clinical investigations performed in adults and from studies in several in vitro systems which support the conclusion that (1) the pathogenetic mechanisms underlying seizure propagation are essentially identical in adults and children, and (2) the mechanism of action of carbamazepine in treating seizures is essentially identical in adults and children.
+Substantial evidence of carbamazepine's effectiveness for use in the management of children with epilepsy (see INDICATIONS AND USAGEfor specific seizure types) is derived from clinical investigations performed in adults and from studies in several in vitrosystems which support the conclusion that (1) the pathogenetic mechanisms underlying seizure propagation are essentially identical in adults and children, and (2) the mechanism of action of carbamazepine in treating seizures is essentially identical in adults and children.
 Taken as a whole, this information supports a conclusion that the generally accepted therapeutic range of total carbamazepine in plasma (i.e., 4 to 12 mcg/mL) is the same in children and adults.
 
 The evidence assembled was primarily obtained from short-term use of carbamazepine.
 The safety of carbamazepine in children has been systematically studied up to 6 months.
 No longer-term data from clinical trials is available.
+
+Carbamazepine oral suspension contains propylene glycol as an inactive ingredient.
+Patients less than 5 years of age are at the highest risk for propylene glycol toxicity due to incomplete alcohol dehydrogenase maturity.
+Particularly, neonates (including full-term babies and pre-term babies less than 44 post-menstrual weeks of age).
+The total daily intake of propylene glycol from all sources, including concomitant drugs, should be considered in managing the risk of propylene glycol toxicity (see WARNINGS Propylene Glycol Toxicity).
 
 ## Geriatric Use
 

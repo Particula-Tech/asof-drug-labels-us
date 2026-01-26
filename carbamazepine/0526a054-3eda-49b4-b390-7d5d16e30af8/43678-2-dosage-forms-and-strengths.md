@@ -1,6 +1,6 @@
 Dosage Information
 
-| Indication | Tablet Tablet = Chewable or conventional tablets | XR XR = Carbamazepine extended-release tablets | Suspension | Tablet | XR | Suspension | Tablet | XR | Suspension |
+| Indication | Tablet Tablet = conventional tablets | XR XR = carbamazepine extended-release tablets | Suspension | Tablet | XR | Suspension | Tablet | XR | Suspension |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Initial Dose |  |  | Subsequent Dose |  |  | Maximum Daily Dose |  |  |
 | Epilepsy Under 6 yr | 10 to 20 mg/kg/day twice a day or 3 times a day |  | 10 to 20 mg/kg/day 4 times a day | Increase weekly to achieve optimal clinical response, 3 times a day or 4 times a day |  | Increase weekly to achieve optimal clinical response, 3 times a day or 4 times a day | 35 mg/kg/24 hr (see Dosage and Administration sectionabove) |  | 35 mg/kg/24 hr (see Dosage and Administration sectionabove) |

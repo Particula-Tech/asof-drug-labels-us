@@ -22,7 +22,7 @@ Damaged tablets should not be consumed.
 
 ## Epilepsy
 
-(SEE INDICATIONS AND USAGE)
+(see INDICATIONS AND USAGE)
 
 ### Adults and children over 12 years of age-Initial
 
@@ -63,7 +63,7 @@ When added to existing anticonvulsant therapy, the drug should be added graduall
 
 ## Trigeminal Neuralgia
 
-(SEE INDICATIONS AND USAGE)
+(see INDICATIONS AND USAGE)
 
 ### Initial
 
