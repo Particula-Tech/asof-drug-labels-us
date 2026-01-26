@@ -16,15 +16,15 @@ United States.
 
 |  | % of Women Experiencing an Unintended Pregnancy within the First Year of Use |  | % of Women Continuing Use at One YearAmong couples attempting to avoid pregnancy, the percentage who continue to use a method for one year |
 | --- | --- | --- | --- |
-| Method(1) | Typical Use Among typical couples who initiate use of a method (not necessarily for the first time), the percentage who experience an accidental pregnancy during the first year if they do not stop use for any reason.(2) | Perfect UseAmong couples who initiate use of a method (not necessarily for the first time), and who use it perfectly (both consistently and correctly), the percentage who experience an accidental pregnancy during the first year if they do not stop use for any other reason(3) | (4) |
-| ChanceThe percentage of women becoming pregnant noted in columns (2) and (3) are based on data from populations where contraception is not used and from women who cease using contraception in order to become pregnant. Among such populations, about 89% become pregnant within one year. This estimate was lowered slightly (to 85%) to represent the percentage that would become pregnant within one year among women now relying on reversible methods of contraception if they abandoned contraception altogether | 85 | 85 |  |
-| SpermicidesFoams, creams, gels, vaginal suppositories, and vaginal film | 26 | 6 | 40 |
+| Method(1) | Typical Use(2) | Perfect Use(3) | (4) |
+| Chance | 85 | 85 |  |
+| Spermicides | 26 | 6 | 40 |
 | Periodic abstinence | 25 |  | 63 |
 | Calendar |  | 9 |  |
 | Ovulation Method |  | 3 |  |
-| Sympto-ThermalCervical mucus (ovulation) method supplemented by calendar in the pre-ovulatory and basal body temperature in the post-ovulatory phases |  | 2 |  |
+| Sympto-Thermal |  | 2 |  |
 | Post-Ovulation |  | 1 |  |
-| CapWith spermicidal cream or jelly |  |  |  |
+| Cap |  |  |  |
 | Parous Women | 40 | 26 | 42 |
 | Nulliparous Women | 20 | 9 | 56 |
 | Sponge |  |  |  |
@@ -32,7 +32,7 @@ United States.
 | Nulliparous Women | 20 | 9 | 56 |
 | Diaphragm | 20 | 6 | 56 |
 | Withdrawal | 19 | 4 |  |
-| CondomWithout spermicides |  |  |  |
+| Condom |  |  |  |
 | Female (Reality) | 21 | 5 | 56 |
 | Male | 14 | 3 | 61 |
 | Pill | 5 |  | 71 |
@@ -46,4 +46,4 @@ United States.
 | Levonorgestrel Implants (Norplant®) | 0.05 | 0.05 | 88 |
 | Female Sterilization | 0.5 | 0.5 | 100 |
 | Male Sterilization | 0.15 | 0.10 | 100 |
-| Emergency Contraceptive Pill: Treatment initiated within 72 hours after unprotected intercourse reduces the risk of pregnancy by at least 75%.The treatment schedule is one dose within 72 hours after unprotected intercourse, and a second dose 12 hours after the first dose. The Food and Drug Administration has declared the following brands of oral contraceptives to be safe and effective for emergency contraception: Ovral® (1 dose is 2 white pills), Alesse® (1 dose is 5 pink pills), Nordette® or Levlen® (1 dose is 4 yellow pills). Lactational Amenorrhea Method: LAM is a highly effective, temporary method of contraception.However, to maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breastfeeds is reduced, bottle feeds are introduced, or the baby reaches 6 months of age Source: Trussell J, Contraceptive Efficacy. In: Hatcher RA, Trussell J, Stewart F, Cates W, Stewart GK, Kowal D, Guest F, Contraceptive Technology: Seventeenth Revised Edition. New York, NY: Irvington Publishers, 1998. |  |  |  |
+| Emergency Contraceptive Pills: Treatment initiated within 72 hours after unprotected intercourse reduces the risk of pregnancy by at least 75%. Lactational Amenorrhea Method: LAM is a highly effective, temporary method of contraception. Source: Trussell J, Contraceptive Efficacy. In: Hatcher RA, Trussell J, Stewart F, Cates W, Stewart GK, Kowal D, Guest F, Contraceptive Technology: Seventeenth Revised Edition. New York, NY: Irvington Publishers, 1998. |  |  |  |

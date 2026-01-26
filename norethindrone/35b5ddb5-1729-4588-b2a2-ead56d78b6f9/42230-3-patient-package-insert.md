@@ -32,7 +32,7 @@ The following table will help you compare the efficacy of different methods.
 ## HOW DO POPS WORK?
 
 - •They make the cervical mucus at the entrance to the womb (the uterus) too thick for the sperm to get through to the egg.
-- •They prevent ovulation (release of the egg from the ovary) in about half the time
+- •They prevent ovulation (release of the egg from the ovary) in about half the time.
 - •They also affect other hormones, the fallopian tubes and the lining of the uterus.
 
 ## YOU SHOULD NOT TAKE POPS
@@ -51,24 +51,24 @@ The following table will help you compare the efficacy of different methods.
 WARNING: If you have sudden or severe pain in your lower abdomen or stomach area, you may have an ectopic pregnancy or an ovarian cyst.
 If this happens, you should contact your doctor or clinic immediately.
 
-- •Ectopic pregnancy.
-  An ectopic pregnancy is a pregnancy outside the womb.
-  Because POPs protect against pregnancy, the chance of having a pregnancy outside the womb is very low.
-  If you do get pregnant while taking POPs, you have slightly higher chance that the pregnancy will be ectopic than do users of some other birth control methods.
-- •Ovarian cysts.
-  These cysts are small sacs of fluid in the ovary.
-  They are more common among POP users than among users of most other birth control methods.
-  They usually disappear without treatment and rarely cause problems.
-- •Cancer of the reproductive organs and breasts.
-  Some studies in women who use combined oral contraceptives that contain both estrogen and a progestin have reported an increase in the risk of developing breast cancer, particularly at a younger age and apparently related to duration of use.
-  There is insufficient data to determine whether the use of POPs similarly increases this risk.
-  Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
-  However, this finding may be related to factors other than the use of oral contraceptives and there is insufficient data to determine whether the use of POPs increases the risk of developing cancer of the cervix.
-- •Liver tumors.
-  In rare cases, combined oral contraceptives can cause benign but dangerous liver tumors.
-  These benign liver tumors can rupture and cause fatal internal bleeding.
-  In addition, a possible but not definite association has been found with combined oral contraceptives and liver cancers in studies in which a few women who developed these very rare cancers were found to have used combined oral contraceptives for long periods of time.
-  There is insufficient data to determine whether POPs increase the risk of liver tumors.
+1. 1.Ectopic pregnancy.
+   An ectopic pregnancy is a pregnancy outside the womb.
+   Because POPs protect against pregnancy, the chance of having a pregnancy outside the womb is very low.
+   If you do get pregnant while taking POPs, you have slightly higher chance that the pregnancy will be ectopic than do users of some other birth control methods.
+2. 2.Ovarian cysts.
+   These cysts are small sacs of fluid in the ovary.
+   They are more common among POP users than among users of most other birth control methods.
+   They usually disappear without treatment and rarely cause problems.
+3. 3.Cancer of the reproductive organs and breasts.
+   Some studies in women who use combined oral contraceptives that contain both estrogen and a progestin have reported an increase in the risk of developing breast cancer, particularly at a younger age and apparently related to duration of use.
+   There is insufficient data to determine whether the use of POPs similarly increases this risk.
+   Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
+   However, this finding may be related to factors other than the use of oral contraceptives and there is insufficient data to determine whether the use of POPs increases the risk of developing cancer of the cervix.
+4. 4.Liver tumors.
+   In rare cases, combined oral contraceptives can cause benign but dangerous liver tumors.
+   These benign liver tumors can rupture and cause fatal internal bleeding.
+   In addition, a possible but not definite association has been found with combined oral contraceptives and liver cancers in studies in which a few women who developed these very rare cancers were found to have used combined oral contraceptives for long periods of time.
+   There is insufficient data to determine whether POPs increase the risk of liver tumors.
 
 ## SEXUALLY TRANSMITTED DISEASES (STDS)
 
@@ -76,19 +76,19 @@ WARNING: POPs do not protect against getting or giving someone HIV (AIDS) or any
 
 ## SIDE EFFECTS
 
-- •Irregular bleeding.
-  The most common side effect of POPs is a change in menstrual bleeding.
-  Your periods may be either early or late, and you may have some spotting between periods.
-  Taking pills late or missing pills can also result in some spotting or bleeding.
-- •Other side effects.
-  Less common side effects include headaches, tender breasts, nausea and dizziness.
-  Weight gain, acne and extra hair on your face and body have been reported, but are rare.
+1. 1.Irregular bleeding.
+   The most common side effect of POPs is a change in menstrual bleeding.
+   Your periods may be either early or late, and you may have some spotting between periods.
+   Taking pills late or missing pills can also result in some spotting or bleeding.
+2. 2.Other side effects.
+   Less common side effects include headaches, tender breasts, nausea and dizziness.
+   Weight gain, acne and extra hair on your face and body have been reported, but are rare.
 
 If you are concerned about any of these side effects, check with your doctor or clinic.
 
 ## USING POPS WITH OTHER MEDICINES
 
-Before taking a POP, inform your health care provider of any other medication, including over-the-counter medicine that you may be taking.
+Before taking a POP, inform your health care provider of any other medication, including over-the-counter medicine, that you may be taking.
 
 If you are taking medicines for seizures (epilepsy) or tuberculosis (TB), tell your doctor or clinic.
 These medicines can make POPs less effective:
@@ -135,9 +135,9 @@ Place this day label strip on the tablet blister over the area that has the days
 ## IF YOU ARE LATE OR MISS TAKING YOUR POPS
 
 - •If you are more than 3 hours late or you miss one or more POPs:
-  - oTAKE a missed pill as soon as you remember that you missed it,
-  - oTHEN go back to taking POPs at your regular time.
-  - oBUT be sure to use a backup method (such as condom and/or spermicide) every time you have sex for the next 48 hours.
+  - 1.TAKE a missed pill as soon as you remember that you missed it,
+  - 2.THEN go back to taking POPs at your regular time.
+  - 3.BUT be sure to use a backup method (such as condom and/or spermicide) every time you have sex for the next 48 hours.
 - •If you are not sure what to do about the pills you have missed, keep taking POPs and use a backup method until you can talk to your doctor or clinic.
 
 ## IF YOU ARE BREASTFEEDING
@@ -192,20 +192,16 @@ You can also ask for the more detailed “professional package labeling” writt
 
 ## HOW TO STORE YOUR POPS
 
-Store your POPs at controlled room temperature 20oC - 25oC (68oF - 77oF).
+Store your POPs at controlled room temperature 20oC to 25oC (68oF to 77oF).
 
 Be certain to read new revisions of this leaflet.
 You may check the date of the most recent revision by phoning the manufacturer toll-free at 1 (888) 721-7115.
 
-Manufactured by:
+Distributed by:
 
-Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403513, India
-
-Manufactured for:
-
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407
 
 Questions?
-1 (888)721-7115 www.glenmarkpharma-us.com
+1 (888) 721-7115 www.glenmarkpharma-us.com
 
-August 2021
+June 2025

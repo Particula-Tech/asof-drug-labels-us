@@ -90,14 +90,14 @@ This may also result in breakthrough bleeding.
 
 ## 5. Interactions with laboratory tests
 
-The following endocrine tests may be affected by progestin-only oral contraceptive use
+The following endocrine tests may be affected by progestin-only oral contraceptive use:
 
 - •Sex hormone-binding globulin (SHBG) concentrations may be decreased.
 - •Thyroxine concentrations may be decreased, due to a decrease in thyroid binding globulin (TBG).
 
 ## 6. Carcinogenesis
 
-See WARNINGS section
+See WARNINGS section.
 
 ## 7. Pregnancy
 
@@ -129,16 +129,12 @@ Safety and efficacy of HEATHER has been established in women of reproductive age
 Safety and efficacy are expected to be the same for postpubertal adolescents under the age of 16 and for users 16 years and older.
 Use of this product before menarche is not indicated.
 
-## Information for the Patient
+## INFORMATION FOR THE PATIENT
 
-- 
-  - oSee PATIENT LABELING for detailed information.
-  - oCounseling issues.
-
-The following points should be discussed with prospective users before prescribing progestin-only oral contraceptives
-
-- •The necessity of taking pills at the same time every day, including throughout all bleeding episodes.
-- •The need to use a backup method such as condoms and spermicides for the next 48 hours whenever a progestin-only oral contraceptive is taken 3 or more hours late
-- •The potential side effects of progestin-only oral contraceptives, particularly menstrual irregularities
-- •The need to inform the clinician of prolonged episodes of bleeding, amenorrhea or severe abdominal pain
-- The importance of using a barrier method in addition to progestin-only oral contraceptives if a woman is at risk of contracting or transmitting STDs/HIV
+1. 1.See PATIENT LABELING for detailed information.
+2. 2.Counseling issues.The following points should be discussed with prospective users before prescribing progestin-only oral contraceptives
+3. •The necessity of taking pills at the same time every day, including throughout all bleeding episodes.
+4. •The need to use a backup method such as condoms and spermicides for the next 48 hours whenever a progestin-only oral contraceptive is taken 3 or more hours late.
+5. •The potential side effects of progestin-only oral contraceptives, particularly menstrual irregularities.
+6. •The need to inform the clinician of prolonged episodes of bleeding, amenorrhea or severe abdominal pain.
+7. •The importance of using a barrier method in addition to progestin-only oral contraceptives if a woman is at risk of contracting or transmitting STDs/HIV.
