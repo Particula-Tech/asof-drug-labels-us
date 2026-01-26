@@ -146,29 +146,19 @@ Inactive ingredients: 500 mg tablet: carmine, copolymer based ethyl acrylate and
 
 1000 mg tablet: carmine, copolymer based ethyl acrylate and methacrylic acid, FD&C Red #40/allura red ac aluminum lake, FD&C Yellow #6/sunset yellow FCF aluminum lake, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium hydroxide, sodium lauryl sulfate, titanium dioxide and triacetin.
 
-This Patient Information has been approved by the U.S. Food and Drug Administration.
-
 Trademarks are the property of their respective owners.
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Plot No. 2, Phase-2, Pharma Zone SEZ
-
-Pithampur, Dist. - Dhar
-
-Madhya Pradesh - 454775, India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-November 2019
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Revised: August 2025

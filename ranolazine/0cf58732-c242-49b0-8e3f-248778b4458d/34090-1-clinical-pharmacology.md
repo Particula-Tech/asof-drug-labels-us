@@ -21,7 +21,7 @@ Electrocardiographic Effects
 
 Dose and plasma concentration-related increases in the QTc interval [see Warnings and Precautions (5.1)], reductions in T wave amplitude, and, in some cases, notched T waves, have been observed in patients treated with ranolazine.
 These effects are believed to be caused by ranolazine and not by its metabolites.
-The relationship between the change in QTc and ranolazine plasma concentrations is linear, with a slope of about 2.6 msec/1000 ng/mL, through exposures corresponding to doses several-fold higher than the maximum recommended dose of 1000 mg twice daily.
+The relationship between the change in QTc and ranolazine plasma concentrations is linear, with a slope of about 2.6 msec/1,000 ng/mL, through exposures corresponding to doses several-fold higher than the maximum recommended dose of 1000 mg twice daily.
 The variable blood levels attained after a given dose of ranolazine give a wide range of effects on QTc.
 At Tmax following repeat dosing at 1000 mg twice daily, the mean change in QTc is about 6 msec, but in the 5% of the population with the highest plasma concentrations, the prolongation of QTc is at least 15 msec.
 In cirrhotic subjects with mild or moderate hepatic impairment, the relationship between plasma level of ranolazine and QTc is much steeper [see Contraindications (4)].
@@ -35,7 +35,7 @@ However, this difference in arrhythmias did not lead to a reduction in mortality
 ## 12.3 Pharmacokinetics
 
 Ranolazine is extensively metabolized in the gut and liver and its absorption is highly variable.
-For example, at a dose of 1000 mg twice daily, the mean steady-state Cmax was 2600 ng/mL with 95% confidence limits of 400 and 6100 ng/mL.
+For example, at a dose of 1000 mg twice daily, the mean steady-state Cmax was 2,600 ng/mL with 95% confidence limits of 400 and 6,100 ng/mL.
 The pharmacokinetics of the (+) R- and (-) S-enantiomers of ranolazine are similar in healthy volunteers.
 The apparent terminal half-life of ranolazine is 7 hours.
 Steady state is generally achieved within 3 days of twice-daily dosing with ranolazine.
@@ -60,7 +60,7 @@ Ranolazine is metabolized mainly by CYP3A and, to a lesser extent, by CYP2D6.
 Following a single oral dose of ranolazine solution, approximately 75% of the dose is excreted in urine and 25% in feces.
 Ranolazine is metabolized rapidly and extensively in the liver and intestine; less than 5% is excreted unchanged in urine and feces.
 The pharmacologic activity of the metabolites has not been well characterized.
-After dosing to steady state with 500 mg to 1500 mg twice daily, the four most abundant metabolites in plasma have AUC values ranging from about 5 to 33% that of ranolazine, and display apparent half-lives ranging from 6 to 22 hours.
+After dosing to steady state with 500 mg to 1,500 mg twice daily, the four most abundant metabolites in plasma have AUC values ranging from about 5 to 33% that of ranolazine, and display apparent half-lives ranging from 6 to 22 hours.
 
 Drug Interactions
 
@@ -71,11 +71,11 @@ Ranolazine is also a substrate of P-glycoprotein.
 
 Strong CYP3A Inhibitors
 
-Plasma levels of ranolazine with ranolazine extended-release tablets 1000 mg twice daily are increased by 220% when co-administered with ketoconazole 200 mg twice daily [see Contraindications (4)].
+Plasma levels of ranolazine with ranolazine extended-release tablets 1,000 mg twice daily are increased by 220% when co-administered with ketoconazole 200 mg twice daily [see Contraindications (4)].
 
 Moderate CYP3A Inhibitors
 
-Plasma levels of ranolazine with ranolazine extended-release tablets 1000 mg twice daily are increased by 50 to 130% by diltiazem 180 to 360 mg, respectively.
+Plasma levels of ranolazine with ranolazine extended-release tablets 1,000 mg twice daily are increased by 50 to 130% by diltiazem 180 to 360 mg, respectively.
 Plasma levels of ranolazine with ranolazine extended-release tablets 750 mg twice daily are increased by 100% by verapamil 120 mg three times daily [see Drug Interactions (7.1)].
 
 Weak CYP3A Inhibitors
@@ -122,4 +122,4 @@ In extensive metabolizers of dextromethorphan, a substrate of CYP2D6, ranolazine
 OCT2 Substrates
 
 In subjects with type 2 diabetes mellitus, the exposure to metformin is increased by 40% and 80% following administration of ranolazine 500 mg twice daily and 1000 mg twice daily, respectively.
-If co-administered with ranolazine extended-release tablets 1000 mg twice daily, do not exceed metformin doses of 1700 mg/day [see Drug Interactions (7.2)].
+If co-administered with ranolazine extended-release tablets 1000 mg twice daily, do not exceed metformin doses of 1,700 mg/day [see Drug Interactions (7.2)].

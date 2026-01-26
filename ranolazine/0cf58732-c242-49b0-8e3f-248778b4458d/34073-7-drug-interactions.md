@@ -38,7 +38,7 @@ The exposure to CYP2D6 substrates, such as tricyclic antidepressants and antipsy
 Drugs Transported by OCT2
 
 In subjects with type 2 diabetes mellitus, concomitant use of ranolazine extended-release tablets 1000 mg twice daily and metformin results in increased plasma levels of metformin.
-When ranolazine extended-release tablets 1000 mg twice daily are co-administered with metformin, metformin dose should not exceed 1700 mg/day.
+When ranolazine extended-release tablets 1000 mg twice daily are co-administered with metformin, metformin dose should not exceed 1,700 mg/day.
 Monitor blood glucose levels and risks associated with high exposures of metformin.
 
 Metformin exposure was not significantly increased when given with ranolazine extended-release tablets 500 mg twice daily [see Clinical Pharmacology (12.3)].

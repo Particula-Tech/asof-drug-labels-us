@@ -4,9 +4,9 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-A total of 2018 patients with chronic angina were treated with ranolazine in controlled clinical trials.
-Of the patients treated with ranolazine, 1026 were enrolled in three double-blind, placebo-controlled, randomized studies (CARISA, ERICA, MARISA) of up to 12 weeks’ duration.
-In addition, upon study completion, 1251 patients received treatment with ranolazine in open-label, long-term studies; 1227 patients were exposed to ranolazine for more than 1 year, 613 patients for more than 2 years, 531 patients for more than 3 years, and 326 patients for more than 4 years.
+A total of 2,018 patients with chronic angina were treated with ranolazine in controlled clinical trials.
+Of the patients treated with ranolazine, 1,026 were enrolled in three double-blind, placebo-controlled, randomized studies (CARISA, ERICA, MARISA) of up to 12 weeks’ duration.
+In addition, upon study completion, 1,251 patients received treatment with ranolazine in open-label, long-term studies; 1,227 patients were exposed to ranolazine for more than 1 year, 613 patients for more than 2 years, 531 patients for more than 3 years, and 326 patients for more than 4 years.
 
 At recommended doses, about 6% of patients discontinued treatment with ranolazine because of an adverse event in controlled studies in angina patients compared to about 3% on placebo.
 The most common adverse events that led to discontinuation more frequently on ranolazine than placebo were dizziness (1.3% versus 0.1%), nausea (1% versus 0%), asthenia, constipation, and headache (each about 0.5% versus 0%).
@@ -51,9 +51,7 @@ Laboratory Abnormalities:
 Ranolazine produces elevations of serum creatinine by 0.1 mg/dL, regardless of previous renal function, likely because of inhibition of creatinine’s tubular secretion.
 In general, the elevation has a rapid onset, shows no signs of progression during long-term therapy, is reversible after discontinuation of ranolazine, and is not accompanied by changes in BUN.
 In healthy volunteers, ranolazine extended-release tablets 1000 mg twice daily had no effect upon the glomerular filtration rate.
-More marked and progressive increases in serum creatinine, associated with increases in BUN or potassium, indicating acute renal failure, have been reported after initiation of ranolazine in patients with severe renal impairment [see Error!
-Hyperlink reference not valid., Error!
-Hyperlink reference not valid.].
+More marked and progressive increases in serum creatinine, associated with increases in BUN or potassium, indicating acute renal failure, have been reported after initiation of ranolazine in patients with severe renal impairment [see Warning and Precautions (5.2), Use in Specific Population (8.7)].
 
 ## 6.2 Postmarketing Experience
 
