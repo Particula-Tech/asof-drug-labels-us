@@ -3,7 +3,7 @@
 Acetazolamide is a potent carbonic anhydrase inhibitor, effective in the control of fluid secretion (eg, some types of glaucoma), in the treatment of certain convulsive disorders (eg, epilepsy) and in the promotion of diuresis in instances of abnormal fluid retention (eg, cardiac edema).
 
 Acetazolamide is not a mercurial diuretic.
-Rather, it is a nonbacteriostatic sulfonamide possessing a chemical structure and pharmacological activity distinctly different from the bacteriostatic sulphonamides.
+Rather, it is a nonbacteriostatic sulfonamide possessing a chemical structure and pharmacological activity distinctly different from the bacteriostatic sulfonamides.
 
 Acetazolamide is an enzyme inhibitor that acts specifically on carbonic anhydrase, the enzyme that catalyzes the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid.
 In the eye, this inhibitory action of acetazolamide decreases the secretion of aqueous humor and results in a drop in intraocular pressure, a reaction considered desirable in cases of glaucoma and even in certain nonglaucomatous conditions.
@@ -12,7 +12,7 @@ Inhibition of carbonic anhydrase in this area appears to retard abnormal, paroxy
 The diuretic effect of acetazolamide is due to its action in the kidney on the reversible reaction involving hydration of carbon dioxide and dehydration of carbonic acid.
 The result is renal loss of HCO3 ion, which carries out sodium, water, and potassium.
 Alkalinization of the urine and promotion of diuresis are thus affected.
-Alteration in ammonia metabolism occurs due to increased reabsorption of ammonia by the renal tubules as a result of urinary alkalinisation.
+Alteration in ammonia metabolism occurs due to increased reabsorption of ammonia by the renal tubules as a result of urinary alkalinization.
 
 Placebo-controlled clinical trials have shown that prophylactic administration of acetazolamide at a dose of 250 mg every eight to 12 hours (or a 500 mg controlled-release capsule once daily) before and during rapid ascent to altitude results in fewer and/or less severe symptoms (such as headache, nausea, shortness of breath, dizziness, drowsiness, and fatigue) of acute mountain sickness (AMS).
 Pulmonary function (eg, minute ventilation, expired vital capacity, and peak flow) is greater in the acetazolamide treated group, both in subjects with AMS and asymptomatic subjects.

@@ -22,6 +22,6 @@ Distributed by:
 
 Strides Pharma Inc
 
-East Brunswick, NJ 08816
+Bridgewater, NJ 08807
 
-Revised: 10/2024
+Revised: 12/2025
