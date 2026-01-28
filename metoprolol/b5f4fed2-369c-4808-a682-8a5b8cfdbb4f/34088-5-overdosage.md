@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Signs and Symptoms - Overdosage of LOPRESSOR may lead to severe bradycardia, hypotension, and cardiogenic shock.
 Clinical presentation can also include AV block, heart failure, bronchospasm, hypoxia, impairment of consciousness/coma, nausea, and vomiting.

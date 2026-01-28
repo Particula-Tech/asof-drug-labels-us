@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise patients to take LOPRESSOR regularly and continuously, as directed, preferably with or immediately following meals.
 If a dose is missed, the patient should take only the next scheduled dose (without doubling it).
@@ -10,3 +10,5 @@ Inform patients or caregivers that there is a risk of hypoglycemia when LOPRESSO
 Instruct patients or caregivers how to monitor for signs of hypoglycemia [see Warnings and Precautions (5.6)].
 
 Manufactured for and Distributed by: Validus Pharmaceuticals LLC Parsippany, NJ 07054, USA info@validuspharma.com www.validuspharma.com
+
+Revised: 01, 11/2025

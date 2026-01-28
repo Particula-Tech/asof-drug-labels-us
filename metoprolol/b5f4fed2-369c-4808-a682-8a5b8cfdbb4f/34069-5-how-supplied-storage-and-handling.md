@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/ STORAGE AND HANDLING
 
 LOPRESSOR (metoprolol tartrate) tablets
 
@@ -6,6 +6,8 @@ Tablets 12.5 mg- pink colored film coated, round, biconvex tablets debossed with
 They are available as follows:
 
 Bottles of 30 ………………………………………..NDC 30698-460-03
+
+Bottles of 60 ………………………………………..NDC 30698-460-01
 
 Bottles of 1,000 …………………………………….NDC 30698-460-10
 

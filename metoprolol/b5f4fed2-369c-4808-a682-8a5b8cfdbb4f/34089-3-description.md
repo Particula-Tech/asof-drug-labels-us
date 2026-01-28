@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 LOPRESSOR tablets contain metoprolol tartrate, a beta-adrenergic blocker.
 Metoprolol tartrate is (±)-1- (Isopropylamino)-3-[p-(2-methoxyethyl) phenoxy]-2-propanol L-(+)-tartrate (2:1) salt, and its structural formula is
