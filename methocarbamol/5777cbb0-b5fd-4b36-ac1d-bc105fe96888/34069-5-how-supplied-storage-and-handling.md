@@ -18,10 +18,12 @@ Dispense in tight container.
 Manufactured for Beximco Pharmaceuticals USA Inc. 4110 Regal Oaks Drive, P.O.
 Box 1060 Suwanee, GA 30024, USA
 
-Manufactured by BEXIMCO PHARMACEUTICALS LTD. 126, Kathaldia, Tongi, Gazipur, 1711, Bangladesh
+Manufactured by: BEXIMCO PHARMACEUTICALS PLC.
+126, Kathaldia, Tongi, Gazipur, 1711, Bangladesh
 
-Distributed by:
+Made in Bangladesh Distributed by: UNICHEM PHARMACEUTICALS (USA), INC. East Brunswick, NJ 08816 USA.
 
-Bayshore Pharmaceuticals LLC Short Hills, NJ 07078
+3020013043
 
-Last revised on 12/2017 5001397 111217
+Rev.
+11/2025
