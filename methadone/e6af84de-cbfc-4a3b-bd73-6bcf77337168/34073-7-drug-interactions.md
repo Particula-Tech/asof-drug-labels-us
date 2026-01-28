@@ -33,7 +33,7 @@ Table 1: Clinically Significant Drug Interactions with DISKETS Dispersible Table
 | Examples: | Butorphanol, nalbuphine, pentazocine, buprenorphine. |
 | Muscle Relaxants |  |
 | Clinical Impact: | Methadone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
-| Intervention: | Monitor patients receiving muscle relaxants and DISKETS Dispersible Tablets for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, strongly consider recommending or prescribing an opioid overdose reversal agent, as is recommended for all patients in treatment for opioid use disorders [see Dosage and Administration (2.3), Warnings and Precautions (5.1, 5.2)]. |
+| Intervention: | Monitor patients receiving muscle relaxants and DISKETS Dispersible Tablets for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, strongly consider recommending or prescribing an opioid overdose reversal agent, as is recommended for all patients in treatment for opioid use disorder [see Dosage and Administration (2.3), Warnings and Precautions (5.1, 5.2)]. |
 | Examples: | cyclobenzaprine, metaxalone |
 | Diuretics |  |
 | Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |

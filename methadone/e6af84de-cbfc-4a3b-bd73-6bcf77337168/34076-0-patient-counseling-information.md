@@ -125,5 +125,3 @@ Hikma Pharmaceuticals USA Inc.
 Berkeley Heights, NJ 07922
 
 C50000737/04
-
-Revised Month YYYY

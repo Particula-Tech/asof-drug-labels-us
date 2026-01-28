@@ -47,7 +47,7 @@ Advise patients and caregivers that an opioid overdose reversal agent, such as n
 Educate patients and caregivers on how to recognize respiratory depression, and how to use an opioid overdose reversal agent for the emergency treatment of opioid overdose.
 Emphasize the importance of calling 911 or getting emergency medical help, even if an opioid overdose reversal agent is administered.
 
-## 5.2 Managing Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants with Methadone
+## 5.2 Managing Risks from Concomitant Use of Benzodiazepines or Other CNS Depressants with Methadone
 
 Concomitant use of methadone and benzodiazepines and/or other CNS depressants (e.g., alcohol, non-benzodiazepine sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids), increases the risk of adverse reactions, including overdose and death.
 Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
@@ -68,7 +68,7 @@ For patients in methadone treatment, benzodiazepines are not the treatment of ch
 Before co-prescribing benzodiazepines, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments to address anxiety or insomnia.
 Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient’s methadone treatment and coordinate care to minimize the risks associated with concomitant use.
 
-If concomitant use is warranted, strongly consider recommending or prescribing an opioid overdose reversal agents, as is recommended for all patients on methadone treatment for opioid use disorder [see Warnings and Precautions (5.1)].
+If concomitant use is warranted, strongly consider recommending or prescribing an opioid overdose reversal agent, as is recommended for all patients on methadone treatment for opioid use disorder [see Warnings and Precautions (5.1)].
 
 In addition, take measures to confirm that patients are taking the medications prescribed and not diverting or supplementing with illicit drugs.
 Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].
