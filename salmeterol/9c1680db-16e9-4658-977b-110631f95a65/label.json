@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA214464"
+  ],
+  "inn": "salmeterol",
+  "labeler": "Lannett Company, Inc.",
+  "package_ndcs": [
+    "0527-6010-06",
+    "0527-6011-06"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "fluticasone propionate and salmeterol",
+      "name": "Fluticasone Propionate and Salmeterol"
+    }
+  ],
+  "setid": "9c1680db-16e9-4658-977b-110631f95a65",
+  "source": "dailymed"
+}
