@@ -11,8 +11,8 @@ The following packaging configurations are available.
 | 80 mg/0.8 mL and 40 mg/0.4 mL single-dose prefilled Sensoready Pens with fixed 29 gauge, ½ inch needle each | Plaque Psoriasis, Uveitis or Adolescent Hidradenitis Suppurativa Starter PackageCarton of 3(1x 80 mg/0.8 mL, 2x 40 mg/0.4 mL) | NDC 61314-345-36 |
 | 80 mg/0.8 mL and 40 mg/0.4 mL single-dose prefilled Sensoready Pens with fixed 29 gauge, ½ inch needle each | Crohn’s Disease, Ulcerative Colitis or Hidradenitis Suppurativa Starter Package Carton of 4(3x 80 mg/0.8 mL, 1x 40 mg/0.4 mL) | NDC 61314-359-84 |
 | 80 mg/0.8 mL single-dose prefilled syringe with a fixed 29 gauge, ½ inch needle and with BD UltraSafe Passive™ Needle Guard | Carton of 2 | NDC 61314-325-64 |
-| 80 mg/0.8 mL single-dose prefilled syringe with a fixed 29 gauge, ½ inch needle and with BD UltraSafe Passive™ Needle Guard | Starter Pack for Pediatric Crohn’s DiseaseCarton of 3 | NDC 61314-397-68 |
-| 80 mg/0.8 mL and 40 mg/0.4 mL single-dose prefilled syringe with a fixed 29 gauge, ½ inch needle and with BD UltraSafe Passive™ Needle Guard | Starter Pack for Pediatric Crohn’s DiseaseCarton of 2 | NDC 61314-395-64 |
+| 80 mg/0.8 mL single-dose prefilled syringe with a fixed 29 gauge, ½ inch needle and with BD UltraSafe Passive™ Needle Guard | Starter Pack for Pediatric Crohn’s DiseaseCarton of 3 | NDC 61314-420-68 |
+| 80 mg/0.8 mL and 40 mg/0.4 mL single-dose prefilled syringe with a fixed 29 gauge, ½ inch needle and with BD UltraSafe Passive™ Needle Guard | Starter Pack for Pediatric Crohn’s DiseaseCarton of 2 | NDC 61314-430-64 |
 | 40 mg/0.4 mL single-dose prefilled syringe with a fixed 29 gauge, ½ inch needle and with BD UltraSafe Passive™ Needle Guard | Carton of 2 | NDC 61314-327-64 |
 | 40 mg/0.4 mL single-dose prefilled Sensoready Pen with a fixed 29 gauge, ½ inch needle | Carton of 2 | NDC 61314-327-20 |
 | 40 mg/0.4 mL single-dose prefilled Sensoready Pen with a fixed 29 gauge, ½ inch needle | Carton of 4 | NDC 61314-327-84 |
