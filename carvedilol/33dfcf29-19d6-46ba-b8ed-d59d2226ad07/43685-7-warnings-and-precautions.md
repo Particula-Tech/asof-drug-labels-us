@@ -12,7 +12,7 @@ Because coronary artery disease is common and may be unrecognized, it may be pru
 
 ## 5.2 Bradycardia
 
-In clinical trials, Carvedilol Tablet caused bradycardia in about 2% of hypertensive patients, 9% of heart failure patients and 6.5% of myocardial infarction patients with left ventricular dysfunction.
+In clinical trials, Carvedilol Tablet caused bradycardia in about 2% of hypertensive patients, 9% of subjects with heart failure and 6.5% of subjects with myocardial infarction and left ventricular dysfunction.
 If pulse rate drops below 55 beats per minute, the dosage should be reduced.
 
 ## 5.3 Hypotension
@@ -35,7 +35,9 @@ During initiation of therapy, the patient should be cautioned to avoid situation
 
 Worsening heart failure or fluid retention may occur during up-titration of Carvedilol Tablet.
 If such symptoms occur, diuretics should be increased and the Carvedilol Tablet dose should not be advanced until clinical stability resumes [see Dosage and Administration (2)].
+
 Occasionally it is necessary to lower the Carvedilol Tablet dose or temporarily discontinue it.
+
 Such episodes do not preclude subsequent successful titration of, or a favorable response to carvedilol.
 In a placebo-controlled trial of subjects with severe heart failure, worsening heart failure during the first 3 months was reported to a similar degree with carvedilol and with placebo.
 When treatment was maintained beyond 3 months, worsening heart failure was reported less frequently in subjects treated with carvedilol than with placebo.
@@ -51,17 +53,16 @@ In clinical trials of patients with heart failure, patients with bronchospastic 
 In such patients, it is recommended that Carvedilol Tablet be used with caution.
 The dosing recommendations should be followed closely and the dose should be lowered if any evidence of bronchospasm is observed during up-titration.
 
-## 5.6 Glycemic Control in Type 2 Diabetes
+## 5.6 Effects on Blood Sugar
 
-In general, β-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
-Nonselective β-blockers may potentiate insulin-induced hypoglycemia and delay recovery of serum glucose levels.
-Patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, should be cautioned about these possibilities.
+Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
 
-In heart failure patients with diabetes, carvedilol therapy may lead to worsening hyperglycemia, which responds to intensification of hypoglycemic therapy.
+In patients with heart failure and diabetes, carvedilol therapy may lead to worsening hyperglycemia, which responds to intensification of hypoglycemic therapy.
 It is recommended that blood glucose be monitored when carvedilol dosing is initiated, adjusted, or discontinued.
+Trials designed to examine the effects of carvedilol on glycemic control in patients with diabetes and heart failure have not been conducted.
 
-Studies designed to examine the effects of carvedilol on glycemic control in patients with diabetes and heart failure have not been conducted.
-In a study designed to examine the effects of carvedilol on glycemic control in a population with mild-to-moderate hypertension and well-controlled type 2 diabetes mellitus, carvedilol had no adverse effect on glycemic control, based on HbA1c measurements [see Clinical Studies (14.4)].
+In a trial designed to examine the effects of carvedilol on glycemic control in a population with mild-to-moderate hypertension and well-controlled type 2 diabetes mellitus, carvedilol had no adverse effect on glycemic control, based on HbAlc measurements [see Clinical Studies (14.4)].
 
 ## 5.7 Peripheral Vascular Disease
 
@@ -88,6 +89,7 @@ Abrupt withdrawal of β-blockade may be followed by an exacerbation of the sympt
 
 In patients with pheochromocytoma, an α-blocking agent should be initiated prior to the use of any β-blocking agent.
 Although Carvedilol Tablet has both α- and β-blocking pharmacologic activities, there has been no experience with its use in this condition.
+
 Therefore, caution should be taken in the administration of Carvedilol Tablet to patients suspected of having pheochromocytoma.
 
 ## 5.12 Prinzmetal's Variant Angina

@@ -17,6 +17,7 @@ Approximately 60% of the total treated population in placebo-controlled clinical
 In the COMET trial, 1,511 subjects with mild-to-moderate heart failure were treated with Carvedilol Tablets for up to 5.9 years (mean: 4.8 years).
 Both in US clinical trials in mild-to-moderate heart failure that compared Carvedilol Tablets in daily doses up to 100 mg (n = 765) with placebo (n = 437), and in a multinational clinical trial in severe heart failure (COPERNICUS) that compared Carvedilol Tablets in daily doses up to 50 mg (n = 1,156) with placebo (n = 1,133), discontinuation rates for adverse experiences were similar in carvedilol and placebo subjects.
 In placebo-controlled clinical trials, the only cause of discontinuation >1%, and occurring more often on carvedilol was dizziness (1.3% on carvedilol, 0.6% on placebo in the COPERNICUS trial).
+
 Table 1 shows adverse events reported in subjects with mild-to-moderate heart failure enrolled in US placebo-controlled clinical trials, and with severe heart failure enrolled in the COPERNICUS trial.
 Shown are adverse events that occurred more frequently in drug-treated subjects than placebo-treated subjects with an incidence of >3% in subjects treated with carvedilol regardless of causality.
 Median trial medication exposure was 6.3 months for both carvedilol and placebo subjects in the trials of mild-to-moderate heart failure, and 10.4 months in the trial of severe heart failure subjects.
@@ -61,6 +62,7 @@ The adverse event profile of Carvedilol Tablets observed in the long-term COMET 
 | Vision abnormal | 5 | 2 | - | - |
 
 Cardiac failure and dyspnea were also reported in these trials, but the rates were equal or greater in subjects who received placebo.
+
 The following adverse events were reported with a frequency of greater than 1% but less than or equal to 3% and more frequently with Carvedilol Tablets in either the US placebo-controlled trials in subjects with mild-to-moderate heart failure, or in subjects with severe heart failure in the COPERNICUS trial.
 
 Incidence greater than 1% to less than or equal to 3%
@@ -169,6 +171,7 @@ Laboratory Abnormalities Reversible elevations in serum transaminases (ALT or AS
 Rates of transaminase elevations (2 to 3 times the upper limit of normal) observed during controlled clinical trials have generally been similar between subjects treated with Carvedilol Tablet and those treated with placebo.
 However, transaminase elevations, confirmed by re-challenge, have been observed with Carvedilol Tablet.
 In a long-term, placebo-controlled trial in severe heart failure, subjects treated with Carvedilol Tablet had lower values for hepatic transaminases than subjects treated with placebo, possibly because improvements in cardiac function induced by Carvedilol Tablet led to less hepatic congestion and/or improved hepatic blood flow.
+
 Carvedilol Tablet has not been associated with clinically significant changes in serum potassium, total triglycerides, total cholesterol, HDL, Uric acid, blood urea nitrogen, or creatinine.
 No clinically relevant changes were noted in fasting serum glucose in hypertensive patients; fasting serum glucose was not evaluated in the heart failure clinical trials.
 

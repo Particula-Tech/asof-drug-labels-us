@@ -15,13 +15,17 @@ Patients should be advised that initiation of treatment and (to a lesser extent)
 During these periods, patients should avoid situations such as driving or hazardous tasks, where symptoms could result in injury.
 Vasodilatory symptoms often do not require treatment, but it may be useful to separate the time of dosing of Carvedilol Tablets from that of the ACE inhibitor or to reduce temporarily the dose of the ACE inhibitor.
 The dose of Carvedilol Tablets should not be increased until symptoms of worsening heart failure or vasodilation have been stabilized.
+
 Fluid retention (with or without transient worsening heart failure symptoms) should be treated by an increase in the dose of diuretics.
+
 The dose of Carvedilol Tablets should be reduced if patients experience bradycardia (heart rate <55 beats/minute).
+
 Episodes of dizziness or fluid retention during initiation of Carvedilol Tablets can generally be managed without discontinuation of treatment and do not preclude subsequent successful titration of, or a favorable response to, carvedilol.
 
 ## 2.2 Left Ventricular Dysfunction Following Myocardial Infarction
 
 DOSAGE MUST BE INDIVIDUALIZED AND MONITORED DURING UP-TITRATION.
+
 Treatment with Carvedilol Tablet may be started as an inpatient or outpatient and should be started after the patient is hemodynamically stable and fluid retention has been minimized.
 It is recommended that Carvedilol Tablets be started at 6.25 mg twice daily and increased after 3 to 10 days, based on tolerability, to 12.5 mg twice daily, then again to the target dose of 25 mg twice daily.
 A lower starting dose may be used (3.125 mg twice daily) and/or the rate of up-titration may be slowed if clinically indicated (e.g., due to low blood pressure or heart rate, or fluid retention).
@@ -31,6 +35,7 @@ The recommended dosing regimen need not be altered in patients who received trea
 ## 2.3 Hypertension
 
 DOSAGE MUST BE INDIVIDUALIZED.
+
 The recommended starting dose of Carvedilol Tablet is 6.25 mg twice daily.
 If this dose is tolerated, using standing systolic pressure measured about 1 hour after dosing as a guide, the dose should be maintained for 7 to 14 days, and then increased to 12.5 mg twice daily if needed, based on trough blood pressure, again using standing systolic pressure one hour after dosing as a guide for tolerance.
 This dose should also be maintained for 7 to 14 days and can then be adjusted upward to 25 mg twice daily if tolerated and needed.

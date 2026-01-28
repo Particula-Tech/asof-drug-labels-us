@@ -1,18 +1,18 @@
 # 3.125 mg Container Label
 
-NDC 76385-110-01 Rx only
+NDC 76385-110-50 Rx only
 
 Carvedilol Tablet Tablet USP
 
 3.125 mg
 
-100 Tablet
+500 Tablet
 
-Bayshore
+Unichem
 
 # 6.25 mg Container Label
 
-NDC 76385-111-01 Rx only
+NDC 76385-111-50 Rx only
 
 Carvedilol Tablet Tablet USP
 
@@ -20,11 +20,11 @@ Carvedilol Tablet Tablet USP
 
 100 Tablet
 
-Bayshore
+Unichem
 
 # 12.5 mg Container Label
 
-NDC 76385-112-01 Rx only
+NDC 76385-112-50 Rx only
 
 Carvedilol Tablet Tablet USP
 
@@ -32,11 +32,11 @@ Carvedilol Tablet Tablet USP
 
 100 Tablet
 
-Bayshore
+Unichem
 
 # 25 mg Container Label
 
-NDC 76385-113-01 Rx only
+NDC 76385-113-50 Rx only
 
 Carvedilol Tablet Tablet USP
 
@@ -44,4 +44,4 @@ Carvedilol Tablet Tablet USP
 
 100 Tablet
 
-Bayshore
+Unichem

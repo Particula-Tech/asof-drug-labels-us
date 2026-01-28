@@ -7,7 +7,7 @@ Retrospective analysis of side effects in clinical trials showed that poor 2D6 m
 
 ## 7.2 Hypotensive Agents
 
-Patients taking both agents with β-blocking properties and a drug that can deplete catecholamines (e.g., reserpine and monoamine oxidase inhibitors) should be observed closely for signs of hypotension and/or severe bradycardia.
+Patients taking a β-blocker and a drug that can deplete catecholamines (e.g., reserpine and monoamine oxidase inhibitors) should be observed closely for signs of hypotension and/or severe bradycardia.
 
 Concomitant administration of clonidine with agents with β-blocking properties may may cause hypotension and bradycardia.
 When concomitant treatment with agents with β-blocking properties and clonidine is to be terminated, the β-blocking agent should be discontinued first.
@@ -45,7 +45,7 @@ As with other agents with β-blocking properties, if Carvedilol Tablets is to be
 
 ## 7.8 Insulin or Oral Hypoglycemics
 
-Agents with β-blocking properties may enhance the blood-sugar-reducing effect of insulin and oral hypoglycemics.
+β-blockers may enhance the blood-sugar-reducing effect of insulin and oral hypoglycemics.
 Therefore, in patients taking insulin or oral hypoglycemics, regular monitoring of blood glucose is recommended [see Warnings and Precautions (5.6)].
 
 ## 7.9 Anesthesia

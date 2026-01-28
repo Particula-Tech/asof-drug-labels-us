@@ -108,10 +108,13 @@ Figure 1.
 Survival Analysis for COPERNICUS (Intent-to-Treat)
 
 The effect on mortality was principally the result of a reduction in the rate of sudden death among subjects without worsening heart failure.
+
 Patients' global assessments, in which carvedilol-treated subjects were compared with placebo, were based on pre-specified, periodic patient self-assessments regarding whether clinical status post-treatment showed improvement, worsening or no change compared with baseline.
 Subjects treated with carvedilol showed significant improvements in global assessments compared with those treated with placebo in COPERNICUS.
+
 The protocol also specified that hospitalizations would be assessed.
 Fewer subjects on Carvedilol Tablets than on placebo were hospitalized for any reason (372 versus 432, P = 0.0029), for cardiovascular reasons (246 versus 314, P = 0.0003), or for worsening heart failure (198 versus 268, P = 0.0001).
+
 Carvedilol Tablets had a consistent and beneficial effect on all-cause mortality as well as the combined end points of all-cause mortality plus hospitalization (total, CV, or for heart failure) in the overall trial population and in all subgroups examined, including men and women, elderly and non-elderly, blacks and non-blacks, and diabetics and non-diabetics (see Figure 2).
 
 Figure 2.
@@ -122,6 +125,7 @@ Effects on Mortality for Subgroups in COPERNICUS
 CAPRICORN was a double-blind study comparing carvedilol and placebo in 1,959 subjects with a recent myocardial infarction (within 21 days) and left ventricular ejection fraction of less than or equal to 40%, with (47%) or without symptoms of heart failure.
 Subjects given carvedilol received 6.25 mg twice daily, titrated as tolerated to 25 mg twice daily.
 Subjects had to have a systolic blood pressure greater than 90 mm Hg, a sitting heart rate greater than 60 beats/minute, and no contraindication to β-blocker use.
+
 Treatment of the index infarction included aspirin (85%), IV or oral β-blockers (37%), nitrates (73%), heparin (64%), thrombolytics (40%), and acute angioplasty (12%).
 Background treatment included ACE inhibitors or angiotensin receptor blockers (97%), anticoagulants (20%), lipid-lowering agents (23%), and diuretics (34%).
 Baseline population characteristics included an average age of 63 years, 74% male, 95% Caucasian, mean blood pressure 121/74 mm Hg, 22% with diabetes, and 54% with a history of hypertension.
@@ -146,6 +150,7 @@ Effects on Mortality for Subgroups in CAPRICORN
 Carvedilol Tablet was studied in 2 placebo-controlled trials that utilized twice-daily dosing, at total daily doses of 12.5 to 50 mg.
 In these and other studies, the starting dose did not exceed 12.5 mg.
 At 50 mg/day, Carvedilol Tablet reduced sitting trough (12-hour) blood pressure by about 9/5.5 mm Hg; at 25 mg/day the effect was about 7.5/3.5 mm Hg.
+
 Comparisons of trough to peak blood pressure showed a trough to peak ratio for blood pressure response of about 65%.
 Heart rate fell by about 7.5 beats/minute at 50 mg/day.
 In general, as is true for other β-blockers, responses were smaller in black than non-black patients.
@@ -157,6 +162,7 @@ The dose-related blood pressure response was accompanied by a dose-related incre
 ## 14.4 Hypertension With Type 2 Diabetes Mellitus
 
 In a double-blind study (GEMINI), Carvedilol Tablet, added to an ACE inhibitor or angiotensin receptor blocker, was evaluated in a population with mild-to-moderate hypertension and well-controlled type 2 diabetes mellitus.
+
 The mean HbA1c at baseline was 7.2%.
 Carvedilol Tablet was titrated to a mean dose of 17.5 mg twice daily and maintained for 5 months.
 Carvedilol Tablet had no adverse effect on glycemic control, based on HbA1c measurements (mean change from baseline of 0.02%, 95% CI -0.06 to 0.10, p = NS) [see Warnings and Precautions (5.6)].
