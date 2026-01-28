@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205525"
+  ],
+  "inn": "dronabinol",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-033-43"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "dronabinol",
+      "name": "Dronabinol"
+    }
+  ],
+  "setid": "44205ae6-b86a-485c-baf6-233a2c878640",
+  "source": "dailymed"
+}
