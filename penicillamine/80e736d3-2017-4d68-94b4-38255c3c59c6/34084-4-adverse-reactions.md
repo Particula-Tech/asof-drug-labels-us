@@ -1,13 +1,13 @@
 # ADVERSE REACTIONS
 
 Penicillamine is a drug with a high incidence of untoward reactions, some of which are potentially fatal.
-Therefore, it is mandatory that patients receiving penicillamine therapy remain under close medical supervision throughout the period of drug administration (see WARNINGSand PRECAUTIONS).
+Therefore, it is mandatory that patients receiving penicillamine therapy remain under close medical supervision throughout the period of drug administration (see WARNINGS and PRECAUTIONS).
 
 Reported incidences (%) for the most commonly occurring adverse reactions in rheumatoid arthritis patients are noted, based on 17 representative clinical trials reported in the literature (1270 patients).
 
 ## Allergic
 
-Generalized pruritus, early and late rashes (5%), pemphigus (see WARNINGS), and drug eruptions, which may be accompanied by fever, arthralgia, or lymphadenopathy have occurred (see WARNINGSand PRECAUTIONS).
+Generalized pruritus, early and late rashes (5%), pemphigus (see WARNINGS), and drug eruptions, which may be accompanied by fever, arthralgia, or lymphadenopathy have occurred (see WARNINGS and PRECAUTIONS).
 Some patients may show a lupus erythematosus-like syndrome similar to drug-induced lupus produced by other pharmacological agents (see PRECAUTIONS).
 
 Urticaria and exfoliative dermatitis have occurred.
