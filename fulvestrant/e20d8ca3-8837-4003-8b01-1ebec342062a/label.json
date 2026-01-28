@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA210063"
+  ],
+  "inn": "fulvestrant",
+  "labeler": "Avyxa Pharma, LLC",
+  "package_ndcs": [
+    "83831-159-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "fulvestrant",
+      "name": "CLIGAVYX"
+    }
+  ],
+  "setid": "e20d8ca3-8837-4003-8b01-1ebec342062a",
+  "source": "dailymed"
+}
