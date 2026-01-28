@@ -24,7 +24,7 @@ The pharmacokinetics of levetiracetam are similar when used as monotherapy or as
 Absorption and Distribution
 
 Peak plasma concentrations of levetiracetam occurred in about an hour following oral administration in fasted subjects.
-In a crossover study in healthy volunteers, Levetiracetam tablets for oral suspension, administered with a sip of water, was shown to have equivalent rate and extent of absorption to levetiracetam immediate release tablets, administered with a glass of water under fasting conditions.
+In a crossover study in healthy volunteers, Levetiracetam tablets for oral suspension, administered with a sip of water, were shown to have equivalent rate and extent of absorption to levetiracetam immediate release tablets, administered with a glass of water under fasting conditions.
 High fat meal does not affect the extent of absorption of Levetiracetam tablets for oral suspension but it decreases Cmax by 36% and delays tmax by 3.4 hours.
 
 The oral bioavailability of levetiracetam tablets is 100% and the tablets and oral solution are bioequivalent in rate and extent of absorption.
@@ -49,7 +49,7 @@ The total body clearance is 0.96 mL/min/kg and the renal clearance is 0.6 mL/min
 The mechanism of excretion is glomerular filtration with subsequent partial tubular reabsorption.
 The metabolite ucb L057 is excreted by glomerular filtration and active tubular secretion with a renal clearance of 4 mL/min/kg.
 Levetiracetam elimination is correlated to creatinine clearance.
-Levetiracetam clearance is reduced in patients with renal impairment [see Dosage and Administration (2.5), Use in Specific Populations (8.6)].
+Levetiracetam clearance is reduced in patients with renal impairment [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
 
 Specific Populations
 
@@ -107,7 +107,7 @@ Total body clearance of levetiracetam is reduced in patients with impaired renal
 Clearance of levetiracetam is correlated with creatinine clearance.
 
 In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr > 80 mL/min).
-Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4-hour hemodialysis procedure [see Dosage and Administration (2.5)].
+Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4-hour hemodialysis procedure [see Dosage and Administration (2.3)].
 
 Hepatic Impairment
 

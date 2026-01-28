@@ -2,9 +2,16 @@
 
 ## 16.1 How Supplied
 
-Levetiracetam tablets for oral suspension are supplied in child-resistant blisters as follows:
+Levetiracetam tablet(s) for oral suspension are supplied in child-resistant blisters as follows:
 
-250 mg: round, white to off-white, spearmint-flavored tablets, marked with “” on one side, Institutional Use: 6 tablets per carton (6 tablets per blister card x 1 card) (NDC 66993-100-06)
+250 mg: round, white to off-white, spearmint-flavored tablets, marked with “ ” on one side
+
+- Commercial Use: 60 tablets per carton (6 tablets per blister card x 10 cards) (NDC 66993-100-60)
+- Institutional Use: 6 tablets per carton (6 tablets per blister card x 1 card) (NDC 66993-100-06)
+
+500 mg: round, white to off-white, spearmint-flavored tablets, marked with “ ” on one side
+
+- Commercial Use: 60 tablets per carton (6 tablets per blister card x 10 cards) (NDC 66993-101-60)
 
 ## 16.2 Storage
 

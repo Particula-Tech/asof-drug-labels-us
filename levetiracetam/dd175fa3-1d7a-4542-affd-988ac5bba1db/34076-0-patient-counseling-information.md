@@ -14,15 +14,15 @@ Advise patients, their caregivers, and/or families to immediately report behavio
 Effects on Driving or Operating Machinery
 
 Inform patients that Levetiracetam tablets for oral suspension may cause dizziness and somnolence.
-Inform patients not to drive or operate machinery until they have gained sufficient experience on Levetiracetam tablets for oral suspension to gauge whether it adversely affects their ability to drive or operate machinery [see Warnings and Precautions (5.3)]
+Inform patients not to drive or operate machinery until they have gained sufficient experience on Levetiracetam tablets for oral suspension to gauge whether it adversely affects their ability to drive or operate machinery [see Warnings and Precautions (5.3)].
 
 Anaphylaxis and Angioedema
 
-Advise patients to discontinue Levetiracetam tablets for oral suspension and seek medical care if they develop signs and symptoms of anaphylaxis or angioedema [see Warnings and Precautions (5.4)]
+Advise patients to discontinue Levetiracetam tablets for oral suspension and seek medical care if they develop signs and symptoms of anaphylaxis or angioedema [see Warnings and Precautions (5.4)].
 
 Dermatological Adverse Reactions
 
-Advise patients that serious dermatological adverse reactions have occurred in patients treated with Levetiracetam tablets for oral suspension and instruct them to call their physician immediately if a rash develops [see Warnings and Precautions (5.5)]
+Advise patients that serious dermatological adverse reactions have occurred in patients treated with Levetiracetam tablets for oral suspension and instruct them to call their physician immediately if a rash develops [see Warnings and Precautions (5.5)].
 
 DRESS/Multiorgan Hypersensitivity
 
@@ -37,30 +37,24 @@ Levetiracetam tablets for oral suspension should normally be gradually withdrawn
 Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during Levetiracetam tablets for oral suspension therapy.
-Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
-[see Use in Specific Populations (8.1)].
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant [see Use in Specific Populations (8.1)].
 
-Administration Information
-
-Advise patients that Levetiracetam tablets for oral suspension are intended to disintegrate in the mouth when taken with a sip of liquid.
-As a primary method of administration, place tablet on the tongue with a dry hand, follow with a sip of liquid and swallow only after the tablet disintegrates.
-Advise patients not to swallow Levetiracetam tablets for oral suspension intact.
-Partial tablets should not be administered [see Dosage and Administration (2.1)].
-
-Alternately, add whole Levetiracetam tablets for oral suspension to a small volume of liquid in a cup (one tablespoon or enough to cover the medicine).
-Allow the tablet(s) to disperse prior to consuming the entire contents immediately.
-After administration of the suspension, re-suspend any residue by adding an additional small volume of liquid, and swallow the full amount.
-
-No attempts should be made to administer partial quantities of the dispersed tablet(s) [see Dosage and Administration (2.1)].
-
+Preparation and Administration Information Instruct patients to administer Levetiracetam tablets for oral suspension with or without food, and not to administer partial tablets [see Dosage and Administration (2.1)].
 Instruct patients to peel the foil from the blister by bending up and lifting the peel tab around the blister seal.
 
-Distributed by: Prasco Laboratories, Mason, OH 45040 USA Manufactured by: Aprecia Pharmaceuticals, LLC, Blue Ash, OH 45242 USA
+Instruct patients on the appropriate method of administration:
 
-© 2024 Aprecia Pharmaceuticals, LLC all rights reserved.
+1. Place tablet on the tongue with a dry hand, follow with a sip of liquid and swallow only after the tablet disintegrates.
+   Advise patients not to swallow Levetiracetam tablets for oral suspension intact; or
+2. Alternately, add whole Levetiracetam tablet(s) for oral suspension to a small volume of liquid in a cup (one tablespoon or enough to cover the medicine).
+   Advise patients to allow the tablet(s) to fully disperse, and then immediately consume the entire contents by mouth using the cup or oral syringe.
+   After administration of the suspension, re-suspend any residue by adding an additional small volume of liquid, and swallow the full amount; or
+3. Levetiracetam tablets for oral suspension can be administered using a nasogastric tube (NG tube) or gastrostomy tube (G tube) [see Dosage and Administration (2.1)].
+
+Distributed by: Prasco Laboratories, Mason, OH 45040 USA Manufactured by: Aprecia Pharmaceuticals, LLC, Mason, OH 45040 USA
+
+© 2025 Aprecia Pharmaceuticals, LLC all rights reserved.
 Printed in the USA Patent(s): www.aprecia.com/patents
 
-LB-PI-0001.T.AG1.A
-
-Rev.
-6/2024
+LB-PI-0001.U.AG1.A Rev.
+07/2025

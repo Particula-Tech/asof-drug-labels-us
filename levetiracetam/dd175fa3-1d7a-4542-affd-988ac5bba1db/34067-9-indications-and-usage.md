@@ -10,4 +10,4 @@ Levetiracetam tablets for oral suspension are indicated as adjunctive therapy fo
 
 ## 1.3 Primary Generalized Tonic-Clonic Seizures
 
-Levetiracetam tablets for oral suspension are indicated as adjunctive therapy for the treatment of primary generalized tonic‑clonic seizures in patients 6 years of age and older with idiopathic generalized epilepsy.
+Levetiracetam tablets for oral suspension are indicated as adjunctive therapy for the treatment of primary generalized tonic-clonic seizures in patients 6 years of age and older with idiopathic generalized epilepsy.

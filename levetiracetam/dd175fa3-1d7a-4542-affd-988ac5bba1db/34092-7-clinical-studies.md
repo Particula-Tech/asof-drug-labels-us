@@ -21,9 +21,9 @@ After a prospective baseline period of 12 weeks, patients were randomized to one
 The 18-week treatment period consisted of a 6-week titration period, followed by a 12-week fixed dose evaluation period, during which concomitant AED regimens were held constant.
 The primary measure of effectiveness was a between group comparison of the percent reduction in weekly partial seizure frequency relative to placebo over the entire randomized treatment period (titration + evaluation period).
 Secondary outcome variables included the responder rate (incidence of patients with ≥ 50% reduction from baseline in partial-onset seizure frequency).
-The results of the analysis of Study 1 are displayed in Table 9.
+The results of the analysis of Study 1 are displayed in Table 10.
 
-Table 9: Reduction In Mean Over Placebo In Weekly Frequency Of Partial-Onset Seizures In Study 1
+Table 10: Reduction In Mean Over Placebo In Weekly Frequency Of Partial-Onset Seizures In Study 1
 
 |  | Placebo (N=95) | Levetiracetam 1000 mg/day (N=97) | Levetiracetam 3000 mg/day (N=101) |
 | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly sei
 
 Figure 1: Responder Rate (≥ 50% Reduction From Baseline) In Study 1
 
-*statistically significant versus placebo
+*Statistically significant versus placebo
 
 Study 2
 
@@ -45,20 +45,20 @@ After a prospective baseline period of up to 12 weeks, patients were randomized 
 The 16-week treatment period consisted of the 4-week titration period followed by a 12-week fixed dose evaluation period, during which concomitant AED regimens were held constant.
 The primary measure of effectiveness was a between group comparison of the percent reduction in weekly partial seizure frequency relative to placebo over the entire randomized treatment period (titration + evaluation period).
 Secondary outcome variables included the responder rate (incidence of patients with ≥ 50% reduction from baseline in partial-onset seizure frequency).
-The results of the analysis of Period A are displayed in Table 10.
+The results of the analysis of Period A are displayed in Table 11.
 
-Table 10: Reduction In Mean Over Placebo In Weekly Frequency Of Partial-Onset Seizures In Study 2: Period A
+Table 11: Reduction In Mean Over Placebo In Weekly Frequency Of Partial-Onset Seizures In Study 2: Period A
 
 |  | Placebo (N=111) | Levetiracetam 1000 mg/day (N=106) | Levetiracetam 2000 mg/day (N=105) |
 | --- | --- | --- | --- |
 | Percent reduction in partial seizure frequency over placebo | _ | 17%1 | 21%1 |
-| 1 statistically significant versus placebo |  |  |  |
+| 1 Statistically significant versus placebo |  |  |  |
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) is presented in Figure 2.
 
 Figure 2: Responder Rate (≥ 50% Reduction From Baseline) In Study 2: Period A
 
-*statistically significant versus placebo
+*Statistically significant versus placebo
 
 The comparison of levetiracetam 2000 mg/day to levetiracetam 1000 mg/day for responder rate was statistically significant (P=0.02).
 Analysis of the trial as a cross-over yielded similar results.
@@ -71,63 +71,63 @@ After a prospective baseline period of 12 weeks, patients were randomized to one
 The 16-week treatment period consisted of a 4-week titration period, followed by a 12-week fixed dose evaluation period, during which concomitant AED doses were held constant.
 The primary measure of effectiveness was a between group comparison of the percent reduction in weekly seizure frequency relative to placebo over the entire randomized treatment period (titration + evaluation period).
 Secondary outcome variables included the responder rate (incidence of patients with ≥ 50% reduction from baseline in partial-onset seizure frequency).
-Table 11 displays the results of the analysis of Study 3.
+Table 12 displays the results of the analysis of Study 3.
 
-Table 11: Reduction In Mean Over Placebo In Weekly Frequency Of Partial-Onset Seizures In Study 3
+Table 12: Reduction In Mean Over Placebo In Weekly Frequency Of Partial-Onset Seizures In Study 3
 
 |  | Placebo (N=104) | Levetiracetam 3000 mg/day (N=180) |
 | --- | --- | --- |
 | Percent reduction in partial seizure frequency over placebo | _ | 23%1 |
-| 1 statistically significant versus placebo |  |  |
+| 1 Statistically significant versus placebo |  |  |
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 3.
 
 Figure 3: Responder Rate (≥ 50% Reduction From Baseline) In Study 3
 
-*statistically significant versus placebo
+*Statistically significant versus placebo
 
 Effectiveness in Partial-Onset Seizures in Pediatric Patients 4 to 16 Years of Age
 
-The effectiveness of levetiracetam for the treatment of partial-onset seizures in pediatric patients was established in one multicenter, randomized double-blind, placebo controlled study (Study 4), conducted at 60 sites in North America, in pediatric patients 4 to 16 years of age with partial seizures uncontrolled by standard antiepileptic drugs (AEDs).
+The effectiveness of levetiracetam for the treatment of partial-onset seizures in pediatric patients was established in one multicenter, randomized double-blind, placebo-controlled study (Study 4), conducted at 60 sites in North America, in pediatric patients 4 to 16 years of age with partial seizures uncontrolled by standard antiepileptic drugs (AEDs).
 Eligible patients on a stable dose of 1-2 AEDs, who still experienced at least 4 partial-onset seizures during the 4 weeks prior to screening, as well as at least 4 partial-onset seizures in each of the two 4-week baseline periods, were randomized to receive either levetiracetam or placebo.
 The enrolled population included 198 patients (levetiracetam N=101, placebo N=97) with refractory partial-onset seizures, whether or not secondarily generalized.
 The study consisted of an 8-week baseline period and 4-week titration period followed by a 10-week evaluation period.
 Dosing was initiated at a dose of 20 mg/kg/day in two divided doses.
 During the treatment period, levetiracetam doses were adjusted in 20 mg/kg/day increments, at 2-week intervals to the target dose of 60 mg/kg/day.
-The primary measure of effectiveness was a between group comparison of the percent reduction in weekly partial seizure frequency relative to placebo over the entire 14 week randomized treatment period (titration + evaluation period).
+The primary measure of effectiveness was a between group comparison of the percent reduction in weekly partial seizure frequency relative to placebo over the entire 14-week randomized treatment period (titration + evaluation period).
 Secondary outcome variables included the responder rate (incidence of patients with ≥ 50% reduction from baseline in partial-onset seizure frequency per week).
-Table 12 displays the results of this study.
+Table 13 displays the results of this study.
 
-Table 12: Reduction In Mean Over Placebo In Weekly Frequency Of Partial-Onset Seizures in Study 4
+Table 13: Reduction In Mean Over Placebo In Weekly Frequency Of Partial-Onset Seizures in Study 4
 
 |  | Placebo (N=97) | Levetiracetam (N=101) |
 | --- | --- | --- |
 | Percent reduction in partial seizure frequency over placebo | _ | 27%1 |
-| 1 statistically significant versus placebo |  |  |
+| 1 Statistically significant versus placebo |  |  |
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 4.
 
 Figure 4: Responder Rate (≥ 50% Reduction From Baseline) in Study 4
 
-*statistically significant versus placebo
+*Statistically significant versus placebo
 
 ## 14.2 Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
 
-The effectiveness of levetiracetam as adjunctive therapy in patients 12 years of age and older with juvenile myoclonic epilepsy (JME) experiencing myoclonic seizures was established in one multicenter, randomized, double-blind, placebo controlled study (Study 6), conducted at 37 sites in 14 countries.
+The effectiveness of levetiracetam as adjunctive therapy in patients 12 years of age and older with juvenile myoclonic epilepsy (JME) experiencing myoclonic seizures was established in one multicenter, randomized, double-blind, placebo-controlled study (Study 6), conducted at 37 sites in 14 countries.
 Eligible patients on a stable dose of 1 antiepileptic drug (AED) experiencing one or more myoclonic seizures per day for at least 8 days during the prospective 8-week baseline period were randomized to either levetiracetam or placebo (levetiracetam N=60, placebo N=60).
 Patients were titrated over 4 weeks to a target dose of 3000 mg/day and treated at a stable dose of 3000 mg/day over 12 weeks (evaluation period).
 Study drug was given in 2 divided doses.
 
 The primary measure of effectiveness was the proportion of patients with at least 50% reduction in the number of days per week with one or more myoclonic seizures during the treatment period (titration + evaluation periods) as compared to baseline.
 Of the 120 patients enrolled, 113 had a diagnosis of confirmed or suspected JME.
-Table 13 displays the results for the 113 patients with JME in this study.
+Table 14 displays the results for the 113 patients with JME in this study.
 
-Table 13: Responder Rate (≥ 50% Reduction From Baseline) In Myoclonic Seizure Days Per Week for Patients with JME in Study 6
+Table 14: Responder Rate (≥ 50% Reduction From Baseline) In Myoclonic Seizure Days Per Week for Patients with JME in Study 6
 
 |  | Placebo (N=59) | Levetiracetam (N=54) |
 | --- | --- | --- |
 | Percentage of responders | 24% | 60%1 |
-| 1 statistically significant versus placebo |  |  |
+| 1 Statistically significant versus placebo |  |  |
 
 ## 14.3 Primary Generalized Tonic-Clonic Seizures
 
@@ -140,17 +140,17 @@ Patients were titrated over 4 weeks to a target dose of 3000 mg/day for adults o
 Study drug was given in 2 equally divided doses per day.
 The primary measure of effectiveness was the percent reduction from baseline in weekly PGTC seizure frequency for levetiracetam and placebo treatment groups over the treatment period (titration + evaluation periods).
 
-There was a statistically significant decrease from baseline in PGTC frequency in the levetiracetam-treated patients compared to the placebo-treated patients as summarized below in Table 14.
+There was a statistically significant decrease from baseline in PGTC frequency in the levetiracetam-treated patients compared to the placebo-treated patients as summarized below in Table 15.
 
-Table 14: Median Percent Reduction From Baseline In PGTC Seizure Frequency Per Week in Study 7
+Table 15: Median Percent Reduction From Baseline In PGTC Seizure Frequency Per Week in Study 7
 
 |  | Placebo (N=84) | Levetiracetam (N=78) |
 | --- | --- | --- |
 | Percent reduction in PGTC seizure frequency | 45% | 78%1 |
-| 1 statistically significant versus placebo |  |  |
+| 1 Statistically significant versus placebo |  |  |
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in PGTC seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 5.
 
 Figure 5: Responder Rate (≥ 50% Reduction From Baseline) In PGTC Seizure Frequency Per Week in Study 7
 
-*statistically significant versus placebo
+*Statistically significant versus placebo

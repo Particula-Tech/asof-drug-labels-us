@@ -103,4 +103,4 @@ Because elderly patients are more likely to have decreased renal function, care 
 ## 8.6 Renal Impairment
 
 Clearance of levetiracetam is decreased in patients with renal impairment and is correlated with creatinine clearance [see Clinical Pharmacology (12.3)].
-Dose adjustment is recommended for patients with renal impairment and supplemental doses should be given to patients after dialysis [see Dosage and Administration (2.5)].
+Dose adjustment is recommended for patients with renal impairment and supplemental doses should be given to patients after dialysis [see Dosage and Administration (2.3)].

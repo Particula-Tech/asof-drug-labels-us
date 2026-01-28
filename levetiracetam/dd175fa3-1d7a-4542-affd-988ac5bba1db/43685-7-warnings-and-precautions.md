@@ -43,9 +43,8 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
-Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
-
-Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
+Table 3: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/ Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -108,7 +107,7 @@ Eosinophilia is often present.
 Because this disorder is variable in its expression, other organ systems not noted here may be involved.
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
 If such signs or symptoms are present, the patient should be evaluated immediately.
-Levetiracetam tablets for oral suspension should be discontinued if an alternative etiology for the signs or symptoms cannot be established [see Contraindication (4)].
+Levetiracetam tablets for oral suspension should be discontinued if an alternative etiology for the signs or symptoms cannot be established [see Contraindications (4)].
 
 ## 5.7 Coordination Difficulties
 
