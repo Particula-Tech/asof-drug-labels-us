@@ -1,13 +1,13 @@
 # DOSAGE AND ADMINISTRATION
 
-Note −Do not add dobutamine injection to 5% Sodium Bicarbonate Injection or to any other strongly alkaline solution.
+Note−Do not add dobutamine injection to 5% Sodium Bicarbonate Injection or to any other strongly alkaline solution.
 Because of potential physical incompatibilities, it is recommended that dobutamine injection not be mixed with other drugs in the same solution.
 Dobutamine injection should not be used in conjunction with other agents or diluents containing both sodium bisulfite and ethanol.
 
-Preparation and Stability − At the time of administration, dobutamine injection must be further diluted in an IV container to at least a 50-mL solution using one of the following intravenous solutions as a diluent: 5% Dextrose Injection, 5% Dextrose and 0.45% Sodium Chloride Injection, 5% Dextrose and 0.9% Sodium Chloride Injection, 10% Dextrose Injection, Isolyte® M with 5% Dextrose Injection, Lactated Ringer’s Injection, 5% Dextrose in Lactated Ringer’s Injection, Normosol®-M in D5-W, 20% Osmitrol® in Water for Injection, 0.9% Sodium Chloride Injection, or Sodium Lactate Injection.
+Preparation and Stability− At the time of administration, dobutamine injection must be further diluted in an IV container to at least a 50-mL solution using one of the following intravenous solutions as a diluent: 5% Dextrose Injection, 5% Dextrose and 0.45% Sodium Chloride Injection, 5% Dextrose and 0.9% Sodium Chloride Injection, 10% Dextrose Injection, Isolyte® M with 5% Dextrose Injection, Lactated Ringer’s Injection, 5% Dextrose in Lactated Ringer’s Injection, Normosol®-M in D5-W, 20% Osmitrol® in Water for Injection, 0.9% Sodium Chloride Injection, or Sodium Lactate Injection.
 Intravenous solution should be used within 24 hours.
 
-Recommended Dosage −Infusion of dobutamine should be started at a low rate (0.5-1.0 μg/kg/min) and titrated at intervals of a few minutes, guided by the patient’s response, including systemic blood pressure, urine flow, frequency of ectopic activity, heart rate, and (whenever possible) measurements of cardiac output, central venous pressure, and/or pulmonary capillary wedge pressure.
+Recommended Dosage−Infusion of dobutamine should be started at a low rate (0.5-1.0 μg/kg/min) and titrated at intervals of a few minutes, guided by the patient’s response, including systemic blood pressure, urine flow, frequency of ectopic activity, heart rate, and (whenever possible) measurements of cardiac output, central venous pressure, and/or pulmonary capillary wedge pressure.
 In reported trials, the optimal infusion rates have varied from patient to patient, usually 2-20 μg/kg/min but sometimes slightly outside of this range.
 On rare occasions, infusion rates up to 40 μg/kg/min have been required to obtain the desired effect.
 Rates of infusion (mL/h) for dobutamine injection concentrations of 500 μg/mL, 1,000 μg/mL, and 2,000 μg/mL necessary to attain various delivery rates of dobutamine (μg/kg/min) for patients of different weights are given in Table 1.

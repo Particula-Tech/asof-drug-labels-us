@@ -26,4 +26,4 @@ The 3-O-methyl derivative of dobutamine is inactive.
 Alteration of synaptic concentrations of catecholamines with either reserpine or tricyclic antidepressants does not alter the actions of dobutamine in animals, which indicates that the actions of dobutamine are not dependent on presynaptic mechanisms.
 
 The effective infusion rate of dobutamine varies widely from patient to patient, and titration is always necessary (see Dosage and Administration).
-At least in pediatric patients, dobutamine-induced increases in cardiac output and systemic pressure are generally seen, in any given patients, at lower infusion rates than those that cause substantial tachycardia (see Pediatric Use under Precautions).
+At least in pediatric patients, dobutamine-induced increases in cardiac output and systemic pressure are generally seen, in any given patients, at lower infusion rates than those that cause substantial tachycardia (see Pediatric Useunder Precautions).

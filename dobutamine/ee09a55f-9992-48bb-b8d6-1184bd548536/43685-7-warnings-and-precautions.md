@@ -11,7 +11,7 @@
 4. Dobutamine hydrochloride may precipitate or exacerbate ventricular ectopic activity, but it rarely has caused ventricular tachycardia.
 5. Hypersensitivity
 6. Reactions suggestive of hypersensitivity associated with administration of Dobutamine Injection, including skin rash, fever, eosinophilia, and bronchospasm, have been reported occasionally.
-7. Dobutamine Injection contains sodium metabisulfite, a sulfite that may cause allergic-type reactions, including anaphylactic symptoms and life-threatening or less severe asthmatic episodes, in certain susceptible people.
+   Dobutamine Injection contains sodium metabisulfite, a sulfite that may cause allergic-type reactions, including anaphylactic symptoms and life-threatening or less severe asthmatic episodes, in certain susceptible people.
    The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
    Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
 
@@ -49,7 +49,7 @@ Studies to evaluate the carcinogenic or mutagenic potential of dobutamine hydroc
 
 ## Pregnancy
 
-Teratogenic Effects −Reproduction studies performed in rats at doses up to the normal human dose (10 mcg/kg/min for 24 h, total daily dose of 14.4 mg/kg), and in rabbits at doses up to twice the normal human dose, have revealed no evidence of harm to the fetus due to dobutamine hydrochloride.
+Teratogenic Effects−Reproduction studies performed in rats at doses up to the normal human dose (10 mcg/kg/min for 24 h, total daily dose of 14.4 mg/kg), and in rabbits at doses up to twice the normal human dose, have revealed no evidence of harm to the fetus due to dobutamine hydrochloride.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
