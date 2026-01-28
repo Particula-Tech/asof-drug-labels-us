@@ -4,7 +4,7 @@ The following serious adverse reactions are discussed elsewhere in the label:
 
 - Infections [see Warnings and Precautions (5.1)]
 - Malignancies [see Warnings and Precautions (5.4)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
+- Serious Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
 - Posterior Reversible Encephalopathy Syndrome (PRES) [see Warnings and Precautions (5.6)]
 - Noninfectious Pneumonia [see Warnings and Precautions (5.8)]
 
@@ -38,23 +38,22 @@ Table 5: Adverse Reactions, Reported by ≥1% of Subjects with Plaque Psoriasis 
 
 Adverse reactions that occurred at rates less than 1% in the controlled period of Ps STUDIES 1 and 2 through week 12 included: cellulitis, herpes zoster, diverticulitis, and certain injection site reactions (pain, swelling, pruritus, induration, hemorrhage, bruising, and irritation).
 
-One case of PRES occurred during adult plaque psoriasis clinical trials [see Warnings and Precautions (5.6)].
+One case of PRES occurred during clinical trials in adult subjects with plaque psoriasis [see Warnings and Precautions (5.6)].
 
 Infections
 
-In the placebo-controlled period of clinical trials of subjects with plaque psoriasis (average follow-up of 12.6 weeks for placebo-treated subjects and 13.4 weeks for Ustekinumab -treated subjects), 27% of Ustekinumab -treated subjects reported infections (1.39 per patient-years of follow-up) compared with 24% of placebo-treated subjects (1.21 per patient-years of follow-up).
-Serious infections occurred in 0.3% of Ustekinumab -treated subjects (0.01 per patient-years of follow-up) and in 0.4% of placebo-treated subjects (0.02 per patient-years of follow-up) [see Warnings and Precautions (5.1)].
+In the placebo-controlled period of clinical trials of subjects with plaque psoriasis (average follow-up of 12.6 weeks for subjects receiving placebo and 13.4 weeks for Ustekinumab-treated subjects), 27% of Ustekinumab-treated subjects reported infections (1.39 per patient-years of follow-up) compared with 24% of subjects receiving placebo (1.21 per patient-years of follow-up).
+Serious infections occurred in 0.3% of Ustekinumab-treated subjects (0.01 per patient-years of follow-up) and in 0.4% of subjects receiving placebo (0.02 per patient-year of follow-up) [see Warnings and Precautions (5.1)].
 
-In the controlled and non-controlled portions of plaque psoriasis clinical trials (median follow-up of 3.2 years), representing 8998 patient-years of exposure, 72.3% of Ustekinumab treated subjects reported infections (0.87 per patient-years of follow-up).
+In the controlled and non-controlled portions of clinical trials in subjects with plaque psoriasis (median follow-up of 3.2 years), representing 8998 patient-years of exposure, 72.3% of Ustekinumab-treated subjects reported infections (0.87 per patient-years of follow-up).
 Serious infections were reported in 2.8% of subjects (0.01 per patient-years of follow-up).
 
 Malignancies
 
-In the controlled and non-controlled portions of plaque psoriasis clinical trials (median follow-up of 3.2 years, representing 8998 patient-years of exposure), 1.7% of Ustekinumab -treated subjects reported malignancies excluding non-melanoma skin cancers (0.60 per hundred patient-years of follow-up).
-Non-melanoma skin cancer was reported in 1.5% of Ustekinumab -treated subjects (0.52 per hundred patient-years of follow-up) [see Warnings and Precautions (5.4)].
+In the controlled and non-controlled portions of clinical trials in subjects with plaque psoriasis (median follow-up of 3.2 years, representing 8998 patient-years of exposure), 1.7% of Ustekinumab-treated subjects reported malignancies excluding non-melanoma skin cancers (0.60 per hundred patient-years of follow-up).
+Non-melanoma skin cancer was reported in 1.5% of Ustekinumab-treated subjects (0.52 per hundred patient-years of follow-up) [see Warnings and Precautions (5.4)].
 The most frequently observed malignancies other than non-melanoma skin cancer during the clinical trials were: prostate, melanoma, colorectal and breast.
-Malignancies other than non-melanoma skin cancer in Ustekinumab -treated subjects during the controlled and uncontrolled portions of trials were similar in type and number to what would be expected in the general U.S. population according to the SEER database (adjusted for age, gender and race).
-1
+Malignancies other than non-melanoma skin cancer in Ustekinumab-treated subjects during the controlled and uncontrolled portions of trials were similar in type and number to what would be expected in the general U.S. population according to the SEER database (adjusted for age, gender and race).1
 
 Pediatric Subjects with Plaque Psoriasis
 
@@ -66,8 +65,8 @@ The safety profile in pediatric subjects was similar to the safety profile from 
 Psoriatic Arthritis
 
 The safety of Ustekinumab was assessed in 927 subjects in two randomized, double-blind, placebo-controlled trials in adults with active psoriatic arthritis (PsA).
-The overall safety profile of Ustekinumab in subjects with PsA was consistent with the safety profile seen in adult psoriasis clinical trials.
-A higher incidence of arthralgia, nausea, and dental infections was observed in Ustekinumab -treated subjects when compared with placebo-treated subjects (3% vs. 1% for arthralgia and 3% vs. 1% for nausea; 1% vs. 0.6% for dental infections) in the placebo-controlled portions of the PsA clinical trials.
+The overall safety profile of Ustekinumab in subjects with PsA was consistent with the safety profile seen in clinical trials in adult subjects with plaque psoriasis.
+A higher incidence of arthralgia, nausea, and dental infections was observed in Ustekinumab-treated subjects when compared with placebo-treated subjects (3% vs. 1% for arthralgia and 3% vs. 1% for nausea; 1% vs. 0.6% for dental infections) in the placebo-controlled portions of the PsA clinical trials.
 
 Crohn's Disease
 
@@ -77,10 +76,10 @@ In trials CD-1 and CD-2 there were 470 subjects who received Ustekinumab 6 mg/kg
 Subjects who were responders in either trial CD-1 or CD-2 were randomized to receive a subcutaneous maintenance regimen of either 90 mg Ustekinumab every 8 weeks, or placebo for 44 weeks in trial CD-3.
 Subjects in these 3 trials may have received other concomitant therapies including aminosalicylates, immunomodulatory agents [azathioprine (AZA), 6-mercaptopurine (6-MP), methotrexate (MTX)], oral corticosteroids (prednisone or budesonide), and/or antibiotics for their Crohn's disease [see Clinical Studies (14.4)].
 
-The overall safety profile of Ustekinumab was consistent with the safety profile seen in the adult psoriasis and psoriatic arthritis clinical trials.
+The overall safety profile of Ustekinumab was consistent with the safety profile seen in the clinical trials in adult subjects with plaque psoriasis and psoriatic arthritis.
 Common adverse reactions in trials CD-1 and CD-2 and in trial CD-3 are listed in Tables 6 and 7, respectively.
 
-Table 6: Common adverse reactions through Week 8 in Trials CD-1 and CD-2 occurring in ≥3% of Ustekinumab treated subjects and higher than placebo
+Table 6: Common Adverse Reactions Through Week 8 in Trials CD-1 and CD-2 occurring in ≥3% of Ustekinumab-Treated Subjects and Higher Than Subjects Receiving Placebo
 
 | N=466 | N=470 |  |
 | --- | --- | --- |
@@ -89,7 +88,7 @@ Table 6: Common adverse reactions through Week 8 in Trials CD-1 and CD-2 occurri
 
 Other less common adverse reactions reported in subjects in trials CD-1 and CD-2 included asthenia (1% vs 0.4%), acne (1% vs 0.4%), and pruritus (2% vs 0.4%).
 
-Table 7: Common adverse reactions through Week 44 in Trial CD-3 occurring in ≥3% of Ustekinumab -treated subjects and higher than placebo
+Table 7: Common Adverse Reactions Through Week 44 in Trial CD-3 occurring in ≥3% of Ustekinumab-Treated Subjects and Higher Than Subjects Receiving Placebo
 
 | N=133 | N=131 |  |
 | --- | --- | --- |
@@ -105,19 +104,19 @@ Table 7: Common adverse reactions through Week 44 in Trial CD-3 occurring in ≥
 Infections
 
 In subjects with Crohn's disease, serious or other clinically significant infections included anal abscess, gastroenteritis, and pneumonia.
-In addition, listeria meningitis and ophthalmic herpes zoster were reported in one patient each [see Warnings and Precautions (5.1)].
+In addition, listeria meningitis and ophthalmic herpes zoster were reported in one subject each [see Warnings and Precautions (5.1)].
 
 Malignancies
 
-With up to one year of treatment in the Crohn's disease clinical trials, 0.2% of Ustekinumab treated subjects (0.36 events per hundred patient-years) and 0.2% of placebo-treated subjects (0.58 events per hundred patient-years) developed non-melanoma skin cancer.
-Malignancies other than non-melanoma skin cancers occurred in 0.2% of Ustekinumab -treated subjects (0.27 events per hundred patient-years) and in none of the placebo-treated subjects.
+With up to one year of treatment in the Crohn's disease clinical trials, 0.2% of Ustekinumab-treated subjects (0.36 events per hundred patient-years) and 0.2% of placebo-treated subjects (0.58 events per hundred patient-years) developed non-melanoma skin cancer.
+Malignancies other than non-melanoma skin cancers occurred in 0.2% of Ustekinumab-treated subjects (0.27 events per hundred patient-years) and in none of the placebo-treated subjects.
 
 Hypersensitivity Reactions Including Anaphylaxis
 
 In CD trials, two subjects reported hypersensitivity reactions following Ustekinumab administration.
-One patient experienced signs and symptoms consistent with anaphylaxis (tightness of the throat, shortness of breath, and flushing) after a single subcutaneous administration (0.1% of subjects receiving subcutaneous Ustekinumab).
+One subject experienced signs and symptoms consistent with anaphylaxis (tightness of the throat, shortness of breath, and flushing) after a single subcutaneous administration (0.1% of subjects receiving subcutaneous Ustekinumab).
 In addition, one subject experienced signs and symptoms consistent with or related to a hypersensitivity reaction (chest discomfort, flushing, urticaria, and increased body temperature) after the initial intravenous Ustekinumab dose (0.08% of subjects receiving intravenous Ustekinumab).
-These subjects were treated with oral antihistamines or corticosteroids and in both cases symptoms resolved within an hour.
+These subjects were treated with oral antihistamines or corticosteroids and in both cases symptoms resolved within an hour [see Warnings and Precautions (5.5)].
 
 Ulcerative Colitis
 
@@ -135,21 +134,19 @@ In addition, listeriosis and ophthalmic herpes zoster were reported in one subje
 
 Malignancies
 
-With up to one year of treatment in the ulcerative colitis clinical trials, 0.4% of Ustekinumab-treated subjects (0.48 events per hundred patient-years) and 0.0% of placebo-treated subjects (0.00 events per hundred patient-years) developed non-melanoma skin cancer.
-Malignancies other than non-melanoma skin cancers occurred in 0.5% of Ustekinumab-treated subjects (0.64 events per hundred patient-years) and 0.2% of placebo-treated subjects (0.40 events per hundred patient-years).
+With up to one year of treatment in the ulcerative colitis clinical trials, 0.4% of Ustekinumab-treated subjects (0.48 events per hundred patient-years) and 0.0% of subjects receiving placebo (0.00 events per hundred patient-years) developed non-melanoma skin cancer.
+Malignancies other than non-melanoma skin cancers occurred in 0.5% of Ustekinumab-treated subjects (0.64 events per hundred patient-years) and 0.2% of subjects receiving placebo (0.40 events per hundred patient-years).
 
 ## 6.2 Immunogenicity
 
-As with all therapeutic proteins, there is potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications and underlying disease.
-For these reasons, comparison of the incidence of antibodies to ustekinumab in the trials described below with the incidence of antibodies to other products may be misleading.
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in studies of other ustekinumab products.
 
-Approximately 6 to 12.4% of subjects treated with Ustekinumab in plaque psoriasis and psoriatic arthritis clinical trials developed antibodies to ustekinumab, which were generally low-titer.
-In plaque psoriasis clinical trials, antibodies to ustekinumab were associated with reduced or undetectable serum ustekinumab concentrations and reduced efficacy.
-In plaque psoriasis trials, the majority of subjects who were positive for antibodies to ustekinumab had neutralizing antibodies.
+Approximately 6 to 12.4% of subjects treated with Ustekinumab in clinical trials in subjects with plaque psoriasis and psoriatic arthritis developed antibodies to ustekinumab, which were generally low-titer.
+In clinical trials in subjects with plaque psoriasis, antibodies to ustekinumab were associated with reduced or undetectable serum ustekinumab concentrations and reduced efficacy.
+In trials in subjects with plaque psoriasis, the majority of subjects who were positive for antibodies to ustekinumab had neutralizing antibodies.
 
-In Crohn's disease and ulcerative colitis clinical trials, 2.9% and 4.6% of subjects, respectively, developed antibodies to ustekinumab when treated with Ustekinumab for approximately one year.
+In clinical trials in subjects with Crohn's disease and ulcerative colitis, 2.9% and 4.6% of subjects, respectively, developed antibodies to ustekinumab when treated with Ustekinumab for approximately one year.
 No apparent association between the development of antibodies to ustekinumab and the development of injection site reactions was seen.
 
 ## 6.3 Postmarketing Experience
@@ -157,12 +154,12 @@ No apparent association between the development of antibodies to ustekinumab and
 The following adverse reactions have been reported during post-approval use of Ustekinumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to Ustekinumab exposure.
 
-Immune system disorders:Serious hypersensitivity reactions (including anaphylaxis and angioedema), other hypersensitivity reactions (including rash and urticaria).
+Immune system disorders: Hypersensitivity reactions (e.g., anaphylaxis, angioedema, dyspnea, rash, and urticaria), including a fatal case that presented with chest tightness and dyspnea during infusion of the first dose.
 
-Infections and infestations:Lower respiratory tract infection (including opportunistic fungal infections and tuberculosis).
+Infections and infestations: Lower respiratory tract infection (including opportunistic fungal infections and tuberculosis).
 
-Neurological disorders:Posterior Reversible Encephalopathy Syndrome (PRES).
+Neurological disorders: Posterior Reversible Encephalopathy Syndrome (PRES).
 
-Respiratory, thoracic, and mediastinal disorders:Interstitial pneumonia, eosinophilic pneumonia, and cryptogenic organizing pneumonia.
+Respiratory, thoracic, and mediastinal disorders: Interstitial pneumonia, eosinophilic pneumonia, and cryptogenic organizing pneumonia.
 
 Skin reactions: Pustular psoriasis, erythrodermic psoriasis, hypersensitivity vasculitis.
