@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA201072"
+  ],
+  "inn": "dexmedetomidine",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "65219-642-01",
+    "65219-642-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dexmedetomidine hydrochloride",
+      "name": "Dexmedetomidine Hydrochloride"
+    }
+  ],
+  "setid": "1896a96e-25f8-494e-9a96-6463b52fb102",
+  "source": "dailymed"
+}
