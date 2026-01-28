@@ -42,7 +42,7 @@ The recommended dose ranges for SYNDROS in patients with AIDS and patients with 
 Therefore, animal to human dose multiples, as shown below, are based on the MRHDs (maximum recommended human doses) for dronabinol capsules, instead of the MRHDs for SYNDROS, which are 15% lower.
 This approach for dose comparison between animals and humans is supported by the demonstrated difference in dronabinol bioavailability between SYNDROS and dronabinol capsules.
 
-Reproduction studies with dronabinol have been performed in mice at 15 to 450 mg/m2, equivalent to 1 to 30 times the MRHD of 15 mg/m2/day (dronabinol capsules) in patients with AIDS or 0.2 to 5 times the MRHD of 90 mg/m2/day (dronabinol capsules) in patients with cancer, and in rats at 74 to 295 mg/m2 (equivalent to 5 to 20 times the MRHD of 15 mg/m2/day in patients with AIDS or 0.8 to 3 times the MRHD of 90 mg/m2/day in patients with cancer).
+Reproduction studies with dronabinol have been performed in mice at 15 to 450 mg/m 2, equivalent to 1 to 30 times the MRHD of 15 mg/m 2/day (dronabinol capsules) in patients with AIDS or 0.2 to 5 times the MRHD of 90 mg/m 2/day (dronabinol capsules) in patients with cancer, and in rats at 74 to 295 mg/m 2(equivalent to 5 to 20 times the MRHD of 15 mg/m 2/day in patients with AIDS or 0.8 to 3 times the MRHD of 90 mg/m 2/day in patients with cancer).
 These studies have revealed no evidence of teratogenicity due to delta-9-THC.
 At these dronabinol dosages in mice and rats, delta-9-THC decreased maternal weight gain and number of viable pups and increased fetal mortality and early resorptions.
 Such effects were dose dependent and less apparent at lower doses that produced less maternal toxicity.

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Patient Informationand Instructions for Use).
 
 Accidental Ingestion
 
@@ -14,7 +14,7 @@ Administration Instructions
   Advise patients to read the Instructions for Use.
 - Instruct patients to take each SYNDROS dose with a full glass of water (6 to 8 ounces).
 
-Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.1)]
+Neuropsychiatric Adverse Reactions[see Warnings and Precautions (5.1)]
 
 - Advise patients that psychiatric adverse reactions may occur, especially in patients with a past psychiatric history or in those receiving other drugs also associated with psychiatric effects, and to report to their healthcare provider any new or worsening psychiatric symptoms.
 - Advise patients, especially elderly patients, that cognitive impairment or an altered mental state may also occur during treatment with SYNDROS and to report to their healthcare provider if they develop signs or symptoms of cognitive impairment.
@@ -52,4 +52,4 @@ Advise HIV infected women with anorexia associated with weight loss, not to brea
 
 Benuvia Operations, LLC Round Rock, TX 78665
 
-SYNDROS® is a registered trademark of Benuvia Operations, LLC.
+SYNDROS ®is a registered trademark of Benuvia Operations, LLC.

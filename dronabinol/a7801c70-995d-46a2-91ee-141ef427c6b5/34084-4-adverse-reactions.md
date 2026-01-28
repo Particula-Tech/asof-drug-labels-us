@@ -55,14 +55,14 @@ The following adverse reactions were reported in clinical trials of dronabinol c
 The following adverse reactions have been identified during post-approval use of another oral formulation of dronabinol.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-General disorders and administration site conditions: fatigue.
+General disorders and administration site conditions:fatigue.
 
 Hypersensitivity reactions: lip swelling, hives, disseminated rash, oral lesions, skin burning, flushing, throat tightness [see Contraindications (4)].
 
 Injury, poisoning and procedural complications: fall [see Use in Specific Populations (8.5)].
 
-Nervous system disorders: seizures [see Warnings and Precautions (5.4)], disorientation, movement disorder, loss of consciousness.
+Nervous system disorders:seizures [see Warnings and Precautions (5.4)], disorientation, movement disorder, loss of consciousness.
 
-Psychiatric disorders: delirium, insomnia, panic attack.
+Psychiatric disorders:delirium, insomnia, panic attack.
 
-Vascular disorders: syncope [see Warnings and Precautions (5.2)].
+Vascular disorders:syncope [see Warnings and Precautions (5.2)].

@@ -10,7 +10,7 @@ SYNDROS contains dronabinol, the main psychoactive component in marijuana.
 Ingestion of high doses of dronabinol increases the risk of psychiatric adverse reactions if abused or misused, while continued administration can lead to addiction.
 Psychiatric adverse reactions may include psychosis, hallucinations, depersonalization, mood alteration, and paranoia.
 
-In vitro studies demonstrate that SYNDROS can be easily and effectively abused without manipulation.
+In vitrostudies demonstrate that SYNDROS can be easily and effectively abused without manipulation.
 SYNDROS contains 50% (w/w) dehydrated alcohol [see Warning and Precautions (5.5)].
 
 In a randomized, single-dose, double-blind, placebo- and active-controlled crossover pharmacodynamic study of 43 experienced marijuana smokers, “drug liking” responses and safety of SYNDROS were compared with placebo and dronabinol in sesame oil oral capsules.

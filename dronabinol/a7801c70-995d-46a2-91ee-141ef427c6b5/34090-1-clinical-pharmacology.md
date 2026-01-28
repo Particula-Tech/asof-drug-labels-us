@@ -35,25 +35,24 @@ Absorption
 
 Dronabinol (delta-9-THC) is almost completely absorbed (90 to 95%) after a single oral dose.
 Due to the combined effects of first pass hepatic metabolism and high lipid solubility, only 10 to 20% of the administered dose reaches the systemic circulation.
-Relative bioavailability data from healthy male and female subjects suggest that a dose of 4.2 mg of SYNDROS provides comparable systemic exposure (Cmax and AUC) to a 5 mg dronabinol capsule, under fasted conditions [see Dosage and Administration (2.1)].
+Relative bioavailability data from healthy male and female subjects suggest that a dose of 4.2 mg of SYNDROS provides comparable systemic exposure (C maxand AUC) to a 5 mg dronabinol capsule, under fasted conditions [see Dosage and Administration (2.1)].
 The concentrations of both dronabinol and its major active metabolite (11-hydroxy-delta-9-THC) peak at approximately 0.5 to 4 hours after oral dosing with SYNDROS and decline over several days.
-The mean inter- and intra-subject variability in dronabinol pharmacokinetics (Cmax and AUCinf) was approximately 66% and 47% and 67% and 14%, respectively, following administration of SYNDROS to healthy subjects.
+The mean inter- and intra-subject variability in dronabinol pharmacokinetics (C maxand AUC inf) was approximately 66% and 47% and 67% and 14%, respectively, following administration of SYNDROS to healthy subjects.
 
 Table 1: Summary of Single-Dose Pharmacokinetic Parameters of Dronabinol After Replicated Oral Administration of SYNDROS (4.2 mg to Healthy Subjects under Fasted Conditions)
 
 | Parameter* | Dronabinol |
 | --- | --- |
-| Cmax (ng/mL) | 1.9 ± 1.3 |
-| Tmax (h) | 1.0 [0.5 to 4.0] |
-| AUC(inf) (ng.h/mL) | 3.8 ± 1.8 |
-| t½ (h) | 5.6 ± 2.7 |
-| * Arithmetic mean ± standard deviation except Tmax for which the median [range] is reported |  |
+| C max(ng/mL) | 1.9 ± 1.3 |
+| T max(h) | 1.0 [0.5 to 4.0] |
+| AUC (inf)(ng.h/mL) | 3.8 ± 1.8 |
+| t ½(h) | 5.6 ± 2.7 |
+| * Arithmetic mean ± standard deviation except T maxfor which the median [range] is reported |  |
 
 Food Effect
 
 The effect of food on the pharmacokinetics of SYNDROS was studied by concomitant dosing of SYNDROS with a high-fat (59 grams of fat, approximately 50% of total caloric content of the meal), high calorie meal (approximately 950 calories).
-An appreciable food effect was observed: food resulted in approximately a 2.5-fold increase in total exposure (AUCinf) and approximately a 5 hour delay in median Tmax.
-Food also decreased Cmax by approximately 20% [see Dosage and Administration (2.2, 2.3)].
+An appreciable food effect was observed: food resulted in approximately a 2.5-fold increase in total exposure (AUC inf) and approximately a 5 hour delay in median T max. Food also decreased C maxby approximately 20% [see Dosage and Administration (2.2, 2.3)].
 
 Distribution
 
@@ -69,7 +68,7 @@ Metabolism
 
 Dronabinol undergoes extensive first-pass hepatic metabolism, primarily by hydroxylation, yielding both active and inactive metabolites.
 The major metabolite (11-hydroxy-delta-9-THC) is pharmacologically active.
-Published in vitro data indicate that CYP2C9 and CYP3A4 are the primary enzymes in the metabolism of dronabinol.
+Published in vitrodata indicate that CYP2C9 and CYP3A4 are the primary enzymes in the metabolism of dronabinol.
 CYP2C9 appears to be the enzyme responsible for the formation of the primary active metabolite [see Clinical Pharmacology (12.5)].
 
 Excretion

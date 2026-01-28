@@ -8,7 +8,7 @@ Oral Administration
 - The calibrated oral syringe measures a maximum SYNDROS dose of 5 mg.
   If the prescribed dose is greater than 5 mg, the total dose will need to be divided and drawn up in two or more portions using the oral syringe.
 - Take each dose of SYNDROS with a full glass of water (6 to 8 ounces).
-- For information on dosing SYNDROS with regard to meals, see Dosage and Administration 2.2 and 2.3.
+- For information on dosing SYNDROS with regard to meals, see Dosage and Administration2.2and 2.3.
 
 Administration via Feeding Tube (silicone only, greater than or equal to 14 French)
 
@@ -44,16 +44,16 @@ Dosage Titration
 
 Starting Dosage
 
-The recommended starting dosage of SYNDROS is 4.2 mg/m2 orally administered 1 to 3 hours prior to chemotherapy and then every 2 to 4 hours after chemotherapy for a total of 4 to 6 doses per day.
+The recommended starting dosage of SYNDROS is 4.2 mg/m 2orally administered 1 to 3 hours prior to chemotherapy and then every 2 to 4 hours after chemotherapy for a total of 4 to 6 doses per day.
 
 - Calculate the starting dose by following the steps below:
-  - Starting dose (mg) = Patient body surface area (BSA) in m2 multiplied by 4.2 mg/m2
+  - Starting dose (mg) = Patient body surface area (BSA) in m 2multiplied by 4.2 mg/m 2
   - Round dose to the nearest 0.1 mg increment
   - Convert from milligrams (mg) to milliliters (mL):
     - Starting dose (mg) rounded to the nearest 0.1 mg increment divided by 5 = Starting dose in milliliters (mL)
   - To correspond with the calibrated oral dosing syringe, the dose may need to be rounded to the nearest 0.1 mL increment.
 
-In elderly patients, consider initiating SYNDROS at 2.1 mg/m2 once daily 1 to 3 hours prior to chemotherapy to reduce the risk of CNS symptoms [see Use in Specific Populations (8.5)].
+In elderly patients, consider initiating SYNDROS at 2.1 mg/m 2once daily 1 to 3 hours prior to chemotherapy to reduce the risk of CNS symptoms [see Use in Specific Populations (8.5)].
 
 Because food delays the absorption of SYNDROS, administer the first dose on an empty stomach at least 30 minutes before eating.
 Subsequent doses can be taken without regard to meals.
@@ -62,8 +62,8 @@ Because food can substantially change the systemic exposure to dronabinol and it
 
 Dosage Titration
 
-- The dosage can be titrated to clinical response during a chemotherapy cycle or subsequent cycles, based upon initial effect, as tolerated to achieve a clinical effect, in increments of 2.1 mg/m2.
-- Maximum Dosage: 12.6 mg/m2 per dose for 4 to 6 doses per day.
+- The dosage can be titrated to clinical response during a chemotherapy cycle or subsequent cycles, based upon initial effect, as tolerated to achieve a clinical effect, in increments of 2.1 mg/m 2.
+- Maximum Dosage: 12.6 mg/m 2per dose for 4 to 6 doses per day.
 - Adverse reactions are dose-related and psychiatric symptoms increase significantly at the maximum dosage [see Warnings and Precautions (5.1)].
 
 Monitor patients for adverse reactions and consider decreasing the dose to 2.1 mg once daily 1 to 3 hours prior to chemotherapy to reduce the risk of CNS adverse reactions.
