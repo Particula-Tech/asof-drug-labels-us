@@ -170,17 +170,13 @@ Push (Push the tablet through the foil)
 
 Trademarks are the property of their respective owners.
 
-Manufactured by:
+Distributed by:
 
-Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403513, India
-
-Manufactured for:
-
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-September 2023
+Revised: August 2025
