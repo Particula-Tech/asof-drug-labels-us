@@ -12,21 +12,15 @@ Preserve in tight containers.
 
 All trademarks are the property of their respective owners.
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Pithampur, Madhya Pradesh 454775, India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-August 2022
+August 2025

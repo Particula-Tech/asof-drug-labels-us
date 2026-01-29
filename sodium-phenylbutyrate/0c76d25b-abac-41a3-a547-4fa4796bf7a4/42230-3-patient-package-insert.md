@@ -91,25 +91,19 @@ Sodium phenylbutyrate tablets should be stored in a tightly closed bottle at roo
 
 This leaflet provides a brief summary of the information available on sodium phenylbutyrate tablets.
 The information here is incomplete and is not designed to take the place of your doctor’s instructions.
-For more complete information, consult your physician, or call at 1 (888) 721-7115 or write Glenmark Pharmaceuticals Inc., USA, Mahwah, NJ 07430.
+For more complete information, consult your physician, or call at 1 (888) 721-7115 or write Glenmark Pharmaceuticals Inc., USA, Elmwood Park, NJ 07407.
 
 All trademarks are the property of their respective owners.
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Pithampur, Madhya Pradesh 454775, India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-August 2022
+August 2025
