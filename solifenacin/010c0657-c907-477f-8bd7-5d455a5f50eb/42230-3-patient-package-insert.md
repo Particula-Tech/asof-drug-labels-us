@@ -135,17 +135,11 @@ What is overactive bladder?
 Overactive bladder occurs when you cannot control your bladder contractions.
 When these muscle contractions happen too often or cannot be controlled you can get symptoms of overactive bladder, which are urinary frequency, urinary urgency, and urinary incontinence (leakage).
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Pithampur, Madhya Pradesh 454775, India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
@@ -154,6 +148,4 @@ www.glenmarkpharma-us.com
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Product of India
-
-July 2020
+Revised: August 2025

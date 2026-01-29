@@ -31,23 +31,15 @@ Dry Skin
 Inform patients that solifenacin succinate tablets, like other antimuscarinics, may cause dry skin due to decreased sweating.
 Heat prostration due to decreased sweating can occur when solifenacin succinate tablets is used in a hot environment [see Adverse Reactions (6.2)].
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Pithampur, Madhya Pradesh 454775, India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1(888) 721-7115
 
 www.glenmarkpharma-us.com
 
-Product of India
-
-July 2020
+August 2025
