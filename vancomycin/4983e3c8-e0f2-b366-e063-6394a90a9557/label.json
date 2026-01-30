@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA090250"
+  ],
+  "inn": "vancomycin",
+  "labeler": "Plano Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "87188-202-01",
+    "87188-202-90"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "vancomycin hydrochloride",
+      "name": "Vancomycin Hydrochloride"
+    }
+  ],
+  "setid": "4983e3c8-e0f2-b366-e063-6394a90a9557",
+  "source": "dailymed"
+}
