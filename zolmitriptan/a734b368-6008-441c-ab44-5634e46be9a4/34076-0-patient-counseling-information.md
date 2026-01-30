@@ -35,21 +35,15 @@ Patients with Phenylketonuria
 
 Inform patients with phenylketonuria (PKU) that zolmitriptan orally disintegrating tablets contain phenylalanine (a component of aspartame) [see Warnings and Precautions (5.9)].
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Colvale-Bardez, Goa 403513, India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-July 2022
+June 2025

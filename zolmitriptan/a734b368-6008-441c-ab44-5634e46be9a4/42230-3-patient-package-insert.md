@@ -150,21 +150,15 @@ Discard when expired.
 Other brands mentioned are trademarks of their respective owners and are not trademarks of Glenmark Pharmaceuticals Limited.
 The makers of these brands are not affiliated with Glenmark Pharmaceuticals Limited or its products.
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Colvale-Bardez, Goa 403513, India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-July 2022
+June 2025
