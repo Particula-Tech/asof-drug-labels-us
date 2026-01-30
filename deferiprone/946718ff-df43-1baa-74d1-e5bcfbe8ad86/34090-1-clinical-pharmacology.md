@@ -48,7 +48,7 @@ Excretion
 
 Following oral administration, 75% to 90% of the administered dose was recovered in urine (primarily as metabolite) in the first 24 hours.
 
-FERRIPROX Tablets (three times a day), 1,000 mg and 500 mg
+FERRIPROX Tablets (three times a day), 1,000 mg
 
 The mean Cmax and AUC of deferiprone was 20 mcg/mL and 50 mcg∙h/mL, respectively, in healthy subjects.
 The dose proportionality of deferiprone over the approved recommended dosage range is unknown.

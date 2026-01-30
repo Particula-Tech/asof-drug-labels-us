@@ -33,15 +33,3 @@ Ferriprox (deferiprone) tablets
 Rx only
 
 50 Tablets
-
-# PRINCIPAL DISPLAY PANEL
-
-Chiesi USA, Inc. NDC 10122-100-10
-
-Ferriprox (deferiprone) tablets
-
-500 mg
-
-Rx only
-
-100 Tablets

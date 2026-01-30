@@ -22,12 +22,3 @@ They are provided in HDPE bottles.
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Keep the bottle tightly closed to protect from moisture.
-
-FERRIPROX Tablets, 500 mg
-
-FERRIPROX® Tablets (deferiprone) are white to off-white capsule-shaped tablets, film-coated, and have a functional score imprinted with “APO” score “500” on one side and are plain on the other.
-They are provided in HDPE bottles.
-
-500 mg film-coated tablets, 100 tablets NDC 10122-100-10
-
-Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].

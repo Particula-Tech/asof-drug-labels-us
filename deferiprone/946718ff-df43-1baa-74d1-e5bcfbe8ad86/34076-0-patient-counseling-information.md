@@ -10,9 +10,6 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 - FERRIPROX Tablets (three times a day), 1,000 mg: Store in the originally supplied bottle, closed tightly to protect from moisture.
   Advise patients to take the first dose of FERRIPROX in the morning, the second dose at midday, and the third dose in the evening.
   Clinical experience suggests that taking FERRIPROX with meals may reduce nausea.
-- FERRIPROX Tablets, 500 mg: Store in the originally supplied bottle, closed tightly to protect from moisture.
-  Advise patients to take the first dose of FERRIPROX in the morning, the second dose at midday, and the third dose in the evening.
-  Clinical experience suggests that taking FERRIPROX with meals may reduce nausea.
 - If a dose of this medicine has been missed, take it as soon as possible.
   However, if it is almost time for the next dose, skip the missed dose and go back to the regular dosing schedule.
   Do not catch-up or double doses.
