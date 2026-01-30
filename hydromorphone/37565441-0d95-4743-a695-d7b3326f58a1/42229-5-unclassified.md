@@ -3,6 +3,6 @@ Stamford, CT 06901
 
 Marketed by: Rhodes Pharmaceuticals Wilson, NC 27893
 
-304729-0E
+xxxxxx-0x
 
-Revised: 12/2023
+Revised: 12/2025

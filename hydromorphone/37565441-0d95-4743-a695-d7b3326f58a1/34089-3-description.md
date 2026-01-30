@@ -5,10 +5,10 @@ Hydromorphone hydrochloride, a hydrogenated ketone of morphine, is an opioid ago
 Hydromorphone hydrochloride tablets are supplied in 2 mg, 4 mg, and 8 mg tablets for oral administration.
 The tablet strengths describe the amount of hydromorphone hydrochloride in each tablet.
 
-Hydromorphone hydrochloride oral solution is supplied as 5mg/5 mL (1 mg/mL) viscous liquid.
+Hydromorphone hydrochloride oral solution is supplied as 5 mg/5 mL (1 mg/mL) viscous liquid.
 
 The chemical name is 4,5α-epoxy-3-hydroxy-17-methylmorphinan-6-one hydrochloride.
-The molecular Weight is 321.80.
+The molecular weight is 321.80.
 Its molecular formula is C17H19NO3∙HCl, and it has the following chemical structure:
 
 Hydromorphone hydrochloride is a white or almost white crystalline powder that is freely soluble in water, very slightly soluble in ethanol (96%), and practically insoluble in methylene chloride.
