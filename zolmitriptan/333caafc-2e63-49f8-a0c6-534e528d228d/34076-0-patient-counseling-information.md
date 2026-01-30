@@ -24,21 +24,15 @@ Lactation
 
 Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations(8.2)].
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Colvale-Bardez, Goa 403513, India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-December 2021
+June 2025
