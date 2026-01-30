@@ -77,16 +77,16 @@ Teriflunomide tablets may cause serious side effects, including:
 - •decreases in your white blood cell count.
   Your white blood cell counts should be checked before you start taking teriflunomide tablets.
   When you have a low white blood cell count you:
-  - •may have more frequent infections.
+  - omay have more frequent infections.
     You should have a skin test for TB (tuberculosis) before you start taking teriflunomide tablets.
     Tell your doctor if you have any of these symptoms of an infection:
-    - •fever
-    - •tiredness
-    - •body aches
-    - •chills
-    - •nausea
-    - •vomiting
-  - •should not receive certain vaccinations during your treatment with teriflunomide tablets and for 6 months after your treatment with teriflunomide tablets ends.
+    - ▪fever
+    - ▪tiredness
+    - ▪body aches
+    - ▪chills
+    - ▪nausea
+    - ▪vomiting
+  - oshould not receive certain vaccinations during your treatment with teriflunomide tablets and for 6 months after your treatment with teriflunomide tablets ends.
 - •allergic reactions.
   Stop taking teriflunomide tablets and call your doctor right away or get emergency medical help if you have difficulty breathing, itching, swelling on any part of your body including in your lips, eyes, throat, or tongue.
 - •serious skin reactions.
@@ -95,12 +95,12 @@ Teriflunomide tablets may cause serious side effects, including:
 - •other types of allergic reactions or serious problems that may affect different parts of the body such as your liver, kidneys, heart, or blood cells.
   You may or may not have a rash with these types of reactions.
   Other symptoms you may have are:
-  - •severe muscle pain
-  - •swollen lymph glands
-  - •swelling of your face
-  - •unusual bruising or bleeding
-  - •weakness or tiredness
-  - •yellowing of your skin or the white part of your eyes
+  - osevere muscle pain
+  - oswollen lymph glands
+  - oswelling of your face
+  - ounusual bruising or bleeding
+  - oweakness or tiredness
+  - oyellowing of your skin or the white part of your eyes
 
 If you have a fever or rash with any of the above symptoms, stop taking teriflunomide tablets and call your doctor right away.
 
@@ -148,24 +148,16 @@ In addition, the 7 mg tablets also contain iron oxide yellow.
 
 For more information, call Glenmark Pharmaceuticals Inc., USA at 1 (888) 721-7115.
 
-- Medication Guide available at
-- www.glenmarkpharma-us.com/medguides
-
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Pithampur, Madhya Pradesh 454775, India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-Revised: July 2024
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised: August 2025

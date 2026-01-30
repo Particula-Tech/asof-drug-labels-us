@@ -58,24 +58,15 @@ Lactation
 
 Advise females not to breastfeed during treatment with teriflunomide tablets [see Use in Specific Populations (8.2)].
 
-- Medication Guide available at
-- www.glenmarkpharma-us.com/medguides
-
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Pithampur, Madhya Pradesh 454775, India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-July 2024
+August 2025
