@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA216395"
+  ],
+  "inn": "folic-acid",
+  "labeler": "Solubiomix, LLC",
+  "package_ndcs": [
+    "69499-501-75"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "folic acid",
+      "name": "QUIOFIC"
+    }
+  ],
+  "setid": "b868b314-591d-458b-be82-2bcd0b73cce1",
+  "source": "dailymed"
+}
