@@ -21,3 +21,9 @@ Sotalol Hydrochloride Tablets, USP
 160 mg
 
 Rx only 100 Tablets
+
+# PRINCIPAL DISPLAY PANEL - 80 mg AF
+
+# PRINCIPAL DISPLAY PANEL - 120 mg AF
+
+# PRINCIPAL DISPLAY PANEL - 160 mg AF

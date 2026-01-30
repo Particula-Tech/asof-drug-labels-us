@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Sotalol Hydrochloride Tablets are contraindicated in patients with:
+Sotalol/Sotalol AF is contraindicated in patients with:
 
 - Sinus bradycardia, sick sinus syndrome, second and third degree AV block, unless a functioning pacemaker is present
 - Congenital or acquired long QT syndromes
@@ -8,3 +8,7 @@ Sotalol Hydrochloride Tablets are contraindicated in patients with:
 - Serum potassium <4 mEq/L
 - Bronchial asthma or related bronchospastic conditions
 - Hypersensitivity to sotalol
+
+For the treatment of AFIB/AFL, Sotalol/Sotalol AF is also contraindicated in patients with:
+
+- Baseline QT interval >450 msec

@@ -2,11 +2,11 @@
 
 ## 5.1 QT Prolongation and Proarrhythmia
 
-Sotalol Hydrochloride Tablets can cause serious and potentially fatal ventricular arrhythmias such as sustained VT/VF, primarily Torsade de Pointes (TdP) type ventricular tachycardia, a polymorphic ventricular tachycardia associated with QT interval prolongation.
+Sotalol/Sotalol AF can cause serious and potentially fatal ventricular arrhythmias such as sustained VT/VF, primarily Torsade de Pointes (TdP) type ventricular tachycardia, a polymorphic ventricular tachycardia associated with QT interval prolongation.
 Factors such as reduced creatinine clearance, female sex, higher doses, reduced heart rate and history of sustained VT/VF or heart failure increase the risk of TdP.
 The risk of TdP can be reduced by adjustment of the sotalol dose according to creatinine clearance and by monitoring the ECG for excessive increases in the QT interval [see Dosage and Administration (2.1)].
 
-Correct hypokalemia or hypomagnesemia prior to initiating Sotalol Hydrochloride Tablets, as these conditions can exaggerate the degree of QT prolongation, and increase the potential for Torsade de Pointes.
+Correct hypokalemia or hypomagnesemia prior to initiating Sotalol/Sotalol AF, as these conditions can exaggerate the degree of QT prolongation, and increase the potential for Torsade de Pointes.
 Special attention should be given to electrolyte and acid-base balance in patients experiencing severe or prolonged diarrhea or patients receiving concomitant diuretic drugs.
 
 Proarrhythmic events must be anticipated not only on initiating therapy, but with every upward dose adjustment [see Dosage and Administration (2.1)].
@@ -20,7 +20,7 @@ Bradycardia itself increases the risk of Torsade de Pointes.
 Sinus pause, sinus arrest and sinus node dysfunction occur in less than 1% of patients.
 The incidence of 2nd- or 3rd-degree AV block is approximately 1%.
 
-Sotalol Hydrochloride Tablets are contraindicated in patients with sick sinus syndrome because it may cause sinus bradycardia, sinus pauses or sinus arrest.
+Sotalol/Sotalol AF is contraindicated in patients with sick sinus syndrome because it may cause sinus bradycardia, sinus pauses or sinus arrest.
 
 ## 5.3 Hypotension
 
@@ -35,7 +35,7 @@ Monitor for signs and symptoms of heart failure and discontinue treatment if sym
 ## 5.5 Cardiac Ischemia after Abrupt Discontinuation
 
 Following abrupt cessation of therapy with beta adrenergic blockers, exacerbations of angina pectoris and myocardial infarction may occur.
-When discontinuing chronically administered Sotalol Hydrochloride Tablets, particularly in patients with ischemic heart disease, gradually reduce the dosage over a period of 1–2 weeks, if possible, and monitor the patient.
+When discontinuing chronically administered Sotalol/Sotalol AF, particularly in patients with ischemic heart disease, gradually reduce the dosage over a period of 1–2 weeks, if possible, and monitor the patient.
 If angina markedly worsens or acute coronary ischemia develops, treat appropriately (consider use of an alternative beta blocker).
 Warn patients not to interrupt therapy without their physician’s advice.
 Because coronary artery disease may be common, but unrecognized, in patients treated with sotalol, abrupt discontinuation may unmask latent coronary insufficiency.
@@ -43,11 +43,12 @@ Because coronary artery disease may be common, but unrecognized, in patients tre
 ## 5.6 Bronchospasm
 
 Patients with bronchospastic diseases (for example chronic bronchitis and emphysema) should not receive beta- blockers.
-If Sotalol Hydrochloride Tablets are to be administered, use the smallest effective dose, to minimize inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta 2 receptors.
+If Sotalol/Sotalol AF is to be administered, use the smallest effective dose, to minimize inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta 2 receptors.
 
-## 5.7 Masked Signs of Hypoglycemia in Diabetics
+## 5.7 Effects on Blood Sugar
 
-Beta blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
+Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
 Elevated blood glucose levels and increased insulin requirements can occur in diabetic patients.
 
 ## 5.8 Thyroid Abnormalities
