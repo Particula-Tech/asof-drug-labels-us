@@ -21,10 +21,13 @@ As an opioid, INFUMORPH exposes users to the risks of addiction, abuse, and misu
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed INFUMORPH.
 Addiction can occur at recommended dosages and if the drug is misused or abused.
+The risk of opioid-related overdose or overdose-related death is increased with higher opioid doses, and this risk persists over the course of therapy.
+In postmarketing studies, addiction, abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use [see Adverse Reactions (6.2)].
 
 Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing INFUMORPH, and monitor all patients receiving INFUMORPH for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
+
 Patients at increased risk may be prescribed opioids such as INFUMORPH but use in such patients necessitates intensive counseling about the risks and proper use of INFUMORPH along with intensive monitoring for signs of addiction, abuse, and misuse.
 
 Opioids are sought for nonmedical use and are subject to diversion from legitimate prescribed use.
@@ -40,8 +43,9 @@ INFUMORPH should be subject to rigid accounting, rigorous control of wastage, an
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agents (e.g., naloxone, nalmefene), depending on the patient’s clinical status [see Overdosage (10)].
 Carbon dioxide (CO) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of INFUMORPH, the risk is greatest during the initiation of therapy or following a dosage increase.
 This respiratory depression and/or respiratory arrest may be severe and could require intervention.
 
@@ -53,18 +57,23 @@ This respiratory depression and/or respiratory arrest may be severe and could re
 
 To reduce the risk of respiratory depression, proper dosing and titration of INFUMORPH are essential [see Dosage and Administration (2)].
 Overestimating the INFUMORPH dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
+
 IMPROPER OR ERRONEOUS SUBSTITUTION OF INFUMORPH 200 or 500 (10 or 25 mg/mL, respectively) FOR REGULAR DURAMORPH (0.5 or 1 mg/mL) IS LIKELY TO RESULT IN SERIOUS OVERDOSAGE, LEADING TO SEIZURES, RESPIRATORY DEPRESSION, AND DEATH.
+
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.6)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [seeDosage and Administration (2.6)].
 
 ## 5.4 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from concomitant use of INFUMORPH with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
+Profound sedation, respiratory depression, coma, and death may result from concomitant use of INFUMORPH with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
 Use of neuroleptics in conjunction with neuraxial morphine may increase the risk of respiratory depression.
+
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
 Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
+
 If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
@@ -87,9 +96,7 @@ Further assessment or intervention should be based on the clinical condition of 
 
 Patients sometimes manifest unusual acceleration of neuraxial morphine requirements, which may cause concern regarding systemic absorption and the hazards of large doses; these patients may benefit from hospitalization and detoxification.
 Two cases of myoclonic-like spasm of the lower extremities have been reported in patients receiving more than 20 mg/day of intrathecal morphine.
-
 After detoxification, it might be possible to resume treatment at lower doses, and some patients have been successfully changed from continuous epidural morphine to continuous intrathecal morphine.
-
 Repeat detoxification may be indicated at a later date.
 The upper daily dosage limit for each patient during continuing treatment must be individualized.
 
@@ -101,7 +108,6 @@ Symptoms of OIH include (but may not be limited to) increased levels of pain upo
 These symptoms may suggest OIH only if there is no evidence of underlying disease progression, opioid tolerance, opioid withdrawal, or addictive behavior.
 
 Cases of OIH have been reported, both with short-term and longer-term use of opioid analgesics.
-
 Though the mechanism of OIH is not fully understood, multiple biochemical pathways have been implicated.
 Medical literature suggests a strong biologic plausibility between opioid analgesics and OIH and allodynia.
 If a patient is suspected to be experiencing OIH, carefully consider appropriately decreasing the dose of the current opioid analgesic, or opioid rotation (safety switching the patient to a different opioid moiety) [see Dosage and Administration (2), Warnings and Precautions (5.16)].
@@ -109,9 +115,11 @@ If a patient is suspected to be experiencing OIH, carefully consider appropriate
 ## 5.9 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
 The use of INFUMORPH in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
+
 Patients with Chronic Pulmonary Disease: Patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended doses of INFUMORPH [see Warnings and Precautions (5.3)].
 
 Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
+
 Monitor such patients closely, particularly when initiating and titrating INFUMORPH and when INFUMORPH is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.3, 5.4), Drug Interactions (7)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
 
@@ -146,10 +154,11 @@ INFUMORPH should be used with extreme caution in patients with head injury or in
 Pupillary changes (miosis) from morphine may obscure the existence, extent and course of intracranial pathology.
 High doses of neuraxial morphine may produce myoclonic events [see Warnings and Precautions (5.7)].
 Clinicians should maintain a high index of suspicion for adverse drug reactions when evaluating altered mental status or movement abnormalities in patients receiving this modality of treatment.
+
 Opioids may also obscure the clinical course in a patient with a head injury.
 Avoid the use of INFUMORPH in patients with impaired consciousness or coma.
 
-## 5.14 Risks of Use in Patients with Gastrointestinal Conditions
+## 5.14 Risks of Gastrointestinal Complications
 
 INFUMORPH is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
@@ -157,6 +166,10 @@ The morphine in INFUMORPH may cause spasm of the sphincter of Oddi.
 Opioids may cause increases in serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis for worsening symptoms.
 As significant morphine is released into the systemic circulation from neuraxial administration, the ensuing smooth muscle hypertonicity may result in biliary colic.
+
+Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
+The risk of OIED may increase as the dose and/or duration of opioids increases.
+Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain) and, if necessary, adjust opioid therapy as clinically appropriate [see Clinical Pharmacology (12.2)].
 
 ## 5.15 Increased Risk of Seizures in Patients with Seizure Disorders
 
@@ -166,10 +179,10 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 ## 5.16 Withdrawal
 
 Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including INFUMORPH.
-In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [Drug Interactions (7)].
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 When discontinuing INFUMORPH, gradually taper the dosage [see Dosage and Administration (2.6)].
-Do not abruptly discontinue INFUMORPH [see Drug Abuse and Dependence (9.3)].
+Do not rapidly reduce or abruptly discontinue INFUMORPH [see Drug Abuse and Dependence (9.3)].
 
 ## 5.17 Risks of Driving and Operating Machinery
 
