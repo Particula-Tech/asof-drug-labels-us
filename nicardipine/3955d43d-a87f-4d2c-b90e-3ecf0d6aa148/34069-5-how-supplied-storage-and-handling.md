@@ -19,21 +19,15 @@ Dispense contents in a tight, light-resistant container as defined in the USP.
 
 All trademarks are the property of their respective owners.
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Pithampur, Madhya Pradesh 454775, India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-September 2022
+August 2025

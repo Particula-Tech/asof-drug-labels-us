@@ -49,14 +49,14 @@ It is possible that some of these events were drug-related.
 Hypertension
 
 The incidence rates of adverse effects in hypertensive patients were derived from multicenter, controlled clinical trials.
-Following are the rates of adverse effects for nicardipine hydrochloride (n=1390) and placebo (n=211), respectively, that occurred in 0.4% of patients or more.
+Following are the rates of adverse effects for nicardipine hydrochloride (n=1,390) and placebo (n=211), respectively, that occurred in 0.4% of patients or more.
 These represent events considered probably drug-related by the investigator.
 Where the frequency of adverse effects for nicardipine hydrochloride and placebo is similar, causal relationship is uncertain.
 The only dose-related effect was pedal edema.
 
 Table 3: Percent of Patients with Adverse Effects in Controlled Studies (Incidence of discontinuations shown in parentheses)
 
-| Adverse Experience | Nicardipine Hydrochloride (n = 1390) |  | PLACEBO (n = 211) |  |
+| Adverse Experience | Nicardipine Hydrochloride (n = 1,390) |  | PLACEBO (n = 211) |  |
 | --- | --- | --- | --- | --- |
 | Flushing | 9.7 | (2.1) | 2.8 | (0) |
 | Headache | 8.2 | (2.6) | 4.7 | (0) |

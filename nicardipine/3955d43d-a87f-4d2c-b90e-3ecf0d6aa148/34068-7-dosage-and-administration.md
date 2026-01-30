@@ -23,7 +23,8 @@ The dose of nicardipine hydrochloride should be individually adjusted according 
 The effective doses in clinical trials have ranged from 20 mg to 40 mg three times daily.
 The maximum blood pressure lowering effect occurs approximately 1 to 2 hours after dosing.
 To assess the adequacy of blood pressure response, the blood pressure should be measured at trough (8 hours after dosing).
-Because of the prominent peak effects of nicardipine, blood pressure should be measured 1 to 2 hours after dosing, particularly during initiation of therapy (see PRECAUTIONS: Blood Pressure, INDICATIONS and CLINICAL PHARMACOLOGY: Effects in Hypertension).At least 3 days should be allowed before increasing the nicardipine hydrochloride dose to ensure achievement of steady-state plasma drug concentrations.
+Because of the prominent peak effects of nicardipine, blood pressure should be measured 1 to 2 hours after dosing, particularly during initiation of therapy (see PRECAUTIONS: Blood Pressure, INDICATIONS and CLINICAL PHARMACOLOGY: Effects in Hypertension).
+At least 3 days should be allowed before increasing the nicardipine hydrochloride dose to ensure achievement of steady-state plasma drug concentrations.
 
 Concomitant Use with Other Antihypertensive Agents
 
