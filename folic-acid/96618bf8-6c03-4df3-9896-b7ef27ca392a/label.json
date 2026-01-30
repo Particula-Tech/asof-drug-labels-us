@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA216395"
+  ],
+  "inn": "folic-acid",
+  "labeler": "Ayurax, LLC",
+  "package_ndcs": [
+    "73308-501-75"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "folic acid",
+      "name": "FOLIC ACID"
+    }
+  ],
+  "setid": "96618bf8-6c03-4df3-9896-b7ef27ca392a",
+  "source": "dailymed"
+}

@@ -1,0 +1,11 @@
+# PRINCIPAL DISPLAY PANEL - Bottle Label
+
+NDC 73308-501-75
+
+Rx Only
+
+FOLIC ACID ORAL SOLUTION
+
+0.2 mg/mL
+
+75 mL
