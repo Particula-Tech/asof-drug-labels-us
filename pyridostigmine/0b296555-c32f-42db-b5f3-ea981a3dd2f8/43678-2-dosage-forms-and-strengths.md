@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Pyridostigmine Bromide Tablets, USP, 30 mg, are round, white and imprinted with the letters "PBT."
+Tablets: 30 mg of pyridostigmine bromide, round, white and imprinted with the letters "PBT"

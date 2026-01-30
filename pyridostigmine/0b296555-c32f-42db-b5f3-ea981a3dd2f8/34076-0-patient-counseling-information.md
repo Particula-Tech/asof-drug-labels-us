@@ -1,102 +1,59 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Pyridostigmine Bromide Tablets, USP, 30 mg are supplied with a Patient Information Sheet.
+Advise personnel to read the FDA-approved patient labeling (Patient Information).
 
-Personnel should be instructed to read the Patient Information Sheet before using Pyridostigmine Bromide Tablets, USP, 30 mg.
+Indication and Conditions of Use
 
-The following information and advice should be discussed with personnel when Pyridostigmine Bromide is issued.
+Advise personnel of the following:
 
-## 17.1 Indication and Conditions of Use
-
-- Pyridostigmine bromide is approved as a pretreatment for protection against the chemical nerve agent soman (GD).
-  PB has not been approved for use against other chemical nerve agents including Sarin (GB), Tabun (GA), and VX.
-  [See Indications and Usage (1).]
+- Pyridostigmine bromide is approved as a pretreatment against the lethal effects of the chemical nerve agent soman (GD).
+  Pyridostigmine bromide has not been approved for use against other chemical nerve agents including Sarin (GB), Tabun (GA), and VX [see Indications and Usage (1)].
   The approval is based on safety studies in humans and effectiveness studies conducted in animals.
-  The FDA has approved pyridostigmine bromide based only on animal studies of effectiveness because it is not ethical to do these studies in humans.
+  It is not ethical to study the efficacy in humans.
   Human studies would require exposing people to the deadly effects of nerve agents, risking poisoning them or even killing them.
-  Studies in monkeys and guinea pigs show that pretreatment with pyridostigmine bromide makes the antidotes (atropine and 2-PAM) work better against soman (GD).
-  [See Nonclinical Toxicology (13.2).]
-- The main protection against chemical weapons is the chemical protective mask and battle dress overgarments.
-  [See boxed WARNINGS and Dosage and Administration (2).]
+  Studies in monkeys and guinea pigs show that pretreatment with pyridostigmine bromide makes the antidotes (atropine and 2-PAM) work better against soman (GD) [see Clinical Studies (14)].
+- The main protection against chemical weapons is the chemical protective mask and battle dress overgarments [see Dosage and Administration (2.1, 2.2) and Warnings and Precautions (5.1)].
 - Pyridostigmine bromide is used as a pretreatment against a soman nerve agent attack.
   Based on the animal studies, it is thought that any potential benefits from use of pyridostigmine bromide occur only if:
-  - (1) It is taken within 8 hours before, but not right before, exposure to the nerve agent soman.
+  - (1)It is taken at least several hours before, but not right before, exposure to the nerve agent soman.
     If it is taken right before (when the nerve gas attack alarm is given) or during nerve agent exposure, it may not work and may make the effects of soman worse.
-  - (2) Atropine and 2-PAM are used when symptoms of nerve agent poisoning occur.
-    The two antidotes are part of the ATNAA (Antidote Treatment – Nerve Agent Autoinjector).
-    See Dosage and Administration (2).
+  - (2)Atropine and 2-PAM are used when symptoms of nerve agent poisoning occur [see Dosage and Administration (2.1, 2.2)].
 
-## 17.2 Dosage and Administration
+Dosage and Administration [see Dosage and Administration (2.1, 2.2)]
 
-- The chain of command will tell personnel when it is time to take pyridostigmine bromide, based on the threat of exposure to soman nerve agents.
-- One tablet must be taken every 8 hours until the chain of command tells personnel to stop taking pyridostigmine bromide.
-- Pyridostigmine bromide tablets must not be taken more often.
-  The dose must not be doubled if a dose has been missed.
+Inform personnel of the following:
+
+- The chain of command will instruct when it is time to take pyridostigmine bromide, based on the threat of exposure to soman nerve agents.
+- Take one tablet orally every 8 hours until the chain of command instructs to stop taking pyridostigmine bromide.
+- Take pyridostigmine bromide tablets only as prescribed.
+- If a dose is missed, take the missed dose as soon as possible.
+  Do not take double or extra doses.
 - There is no known advantage to taking extra pyridostigmine bromide right before soman exposure.
-- No further pyridostigmine bromide should be taken after nerve agent exposure has occurred, instead:
-- Persons experiencing most or all of the MILD symptoms of nerve agent poisoning (runny nose; watery eyes; small, pinpoint pupils; eye pain; blurred vision; drooling and excessive sweating; cough; chest tightness; rapid breathing; diarrhea; increased urination; confusion; drowsiness; weakness; headache; nausea, vomiting, and/ or abdominal pain; slow or fast heart rate; and/or abnormally low or high blood pressure) should IMMEDIATELY AVOID INHALATION (hold their breath) AND PUT ON THEIR PROTECTIVE MASK.
-  Then atropine and 2 PAM (one ATNAA) must be administered.
-  See Dosage and Administration (2).
-  Personnel should contact their unit medical officer if adverse reactions from pyridostigmine bromide continue and limit duty performance.
+- Discontinue pyridostigmine bromide after nerve agent exposure has occurred, instead:
+  - Persons experiencing most or all of the MILD symptoms of nerve agent poisoning (runny nose; watery eyes; small, pinpoint pupils; eye pain; blurred vision; drooling and excessive sweating; cough; chest tightness; rapid breathing; diarrhea; increased urination; confusion; drowsiness; weakness; headache; nausea, vomiting, and/ or abdominal pain; slow or fast heart rate; and/or abnormally low or high blood pressure) should IMMEDIATELY AVOID INHALATION (hold their breath) AND PUT ON THEIR PROTECTIVE MASK.
+  - Then atropine and 2-PAM must be administered.
+- Contact their unit medical officer if adverse reactions from pyridostigmine bromide continue and limit duty performance.
 
-## 17.3 Contraindications and Precautions
+Risks in Individuals with Certain Conditions [see Contraindications (4), Warnings and Precautions (5.2), and Use in Specific Populations (8.1)]
 
-Pyridostigmine bromide must not be taken by persons with any of the following:
-
-- Mechanical bowel or bladder obstruction
-- Hypersensitivity to anticholinesterase medicines (certain drugs used during surgery like physostigmine, edrophonium, neostigmine, and ambenonium) See Contraindications (4).
-
-Personnel should be instructed to inform their doctor or medic before taking pyridostigmine bromide if they:
+Instruct personnel to inform their healthcare provider before taking pyridostigmine bromide if they:
 
 - Are pregnant
 - Have asthma
-- Are allergic to bromide
-- Take a beta blocker (a medicine to treat, eg, high blood pressure)
+- Are allergic to bromide, pyridostigmine, or anticholinesterase drugs
+- Take a beta blocker (a medicine to treat, e.g., high blood pressure)
 - Have high eye pressure (glaucoma)
-- Have any other medical condition, including heart problems or reflux esophagitis (GERD)
+- Have any other medical condition, including heart problems, genitourinary or gastrointestinal obstruction, or reflux esophagitis (GERD)
 
-See Warnings and Precautions (5.2).
-
-## 17.4 Side Effects (Adverse Reactions)
-
-The following adverse reactions are possible (this list of adverse reactions is not complete.):
-
-- Stomach cramps
-- Gas
-- Diarrhea
-- Nausea
-- Frequent urination
-- Increased salivation
-- Sweating
-- Headaches
-- Dizziness
-- Watery eyes
-- Blurred vision
-- Runny nose
-- Difficulty or tightness in breathing
-- Acid stomach (including heartburn or reflux)
-- Tingling of fingers, toes, arms, and legs
-- Muscle twitching or weakness
-- Muscle cramps
-
-See Adverse Reactions (6).
-
-Most side effects are mild and will disappear without treatment.
-
-Pyridostigmine bromide has been safely used and has been FDA approved for over 40 years in the US to treat a disease called myasthenia gravis (MG).
-Human studies of pyridostigmine bromide at doses intended for military use have found pyridostigmine bromide to be generally safe.
-
-Personnel should contact their unit medical officer if side effects from pyridostigmine bromide continue and limit duty performance.
-
-## 17.5 Collection of Information
+Collection of Information
 
 The Department of Defense (DoD) may collect information on the use of pyridostigmine bromide to help decide how best to protect deployed forces in the future.
 Information that identifies individual persons will remain confidential.
 However, the FDA may review any data collected by DoD for the purpose of evaluating pyridostigmine bromide.
 
-## 17.6 Questions and Requests for Information
+Questions and Requests for Information
 
-Questions about personnel rights and welfare should be directed to the unit medical officer, or e-mailed to usarmy.detrick.medcom-usamrmc.mbx.regulatory-affairs@health.mil.
+Questions about personnel rights and welfare should be directed to the unit medical officer or e-mailed to usarmy.detrick.medcom-usamrmc.mbx.regulatory-affairs@health.mil.
 
 Personnel can receive information about pyridostigmine bromide from unit medical officers or medics.
-Questions about pyridostigmine bromide can also be e-mailed directly to the US Army Medical Research and Development Command at address usarmy.detrick.medcom-usamrmc.mbx.regulatory-affairs@health.mil.
+Questions about pyridostigmine bromide can also be e-mailed directly to the US Army Medical Research and Development Command at address usarmy.detrick.medcom-usamrmc.mbx.regulatory-affairs@health.mil..
