@@ -6,19 +6,24 @@ Do Not Use DURAMORPH in Continuous Microinfusion Devices.
 
 DURAMORPH should be administered by or under the direction of a physician experienced in the techniques of epidural or intrathecal administration and familiar with the patient management problems associated with epidural or intrathecal drug administration and the labeling, and should take place only in settings where adequate patient monitoring is possible.
 
-- DURAMORPH should be prescribed only by healthcare professionals who are knowledgeable about the use of opioids and how to mitigate the associated risks.
+- DURAMORPHshouldbeprescribedonlybyhealthcareprofessionalswhoareknowledgeable about the use of opioids and how to mitigate the associated risks.
 - Because of the risk of delayed respiratory depression, patients should be observed in a fully equipped and staffed environment for at least 24 hours.
-  Respiratory depression (both early and late onset) has occurred more frequently following intrathecal administration than epidural administration.
-- Because epidural administration has been associated with less potential for immediate or late adverse effects than intrathecal administration, the epidural route should be used whenever possible.
-- For safety reasons, it is recommended that administration of DURAMORPH by the epidural or intrathecal routes be limited to the lumbar area.
-- Have resuscitative equipment and a specific antagonist (naloxone injection) immediately available for the management of respiratory depression as well as complications which might result from inadvertent intrathecal or intravascular injection (note: intrathecal dosage is usually 1/10 that of epidural dosage).
+  Respiratory depression (both early and late onset)hasoccurredmorefrequentlyfollowingintrathecaladministrationthanepidural administration.
+- Becauseepiduraladministrationhasbeenassociatedwithlesspotentialforimmediateorlate adverse effects than intrathecal administration, the epidural route should be used whenever possible.
+- Forsafetyreasons,itisrecommendedthatadministrationofDURAMORPHbytheepiduralor intrathecal routes be limited to the lumbar area.
+- Have resuscitative equipment and an opioid overdose reversal agent (e.g., naloxone, nalmefene) immediately available for the management of respiratory depression as well as complicationswhichmightresultfrominadvertentintrathecalorintravascularinjection(note: intrathecal dosage is usually 1/10 that of epidural dosage).
 
-Epidural Administration Verify proper placement of a needle or catheter in the epidural space before DURAMORPH is injected.
+Epidural Administration
+
+Verify proper placement of a needle or catheter in the epidural space before DURAMORPH is injected.
 
 Acceptable techniques for verifying proper placement include: a) aspiration to check for absence of blood or cerebrospinal fluid, or b) administration of 5 mL (3 mL in obstetric patients) of 1.5% PRESERVATIVE-FREE Lidocaine and Epinephrine (1:200,000) Injection and then observe the patient for lack of tachycardia (this indicates that vascular injection has not been made) and lack of sudden onset of segmental anesthesia (this indicates that intrathecal injection has not been made).
 
-Safety and Handling Instructions: DURAMORPH is supplied in sealed ampuls.
+Safety and Handling Instructions:
+
+DURAMORPH is supplied in sealed ampuls.
 Accidental dermal exposure should be treated by the removal of any contaminated clothing and rinsing the affected area with water.
+
 Inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Do not use if color is darker than pale yellow, if it is discolored in any other way, or if it contains a precipitate.
 
@@ -42,7 +47,7 @@ The starting dose of DURAMORPH must be individualized.
 ## 2.3 Dosage for Intravenous Administration
 
 Adult Dosage: The initial dose of morphine should be 2 mg to 10 mg/70 kg of body weight, and at the lowest dose necessary to achieve adequate analgesia.
-Titrate the dose based upon the individual patient’s response to their initial dose of DURAMORPH.
+Titrate the dose based upon the individual patient’s response to their initial dose of DURAMORPH
 
 ## 2.4 Dosage for Epidural Administration
 
@@ -61,8 +66,9 @@ A single injection of 0.2 to 1 mg may provide satisfactory pain relief for up to
   If pain recurs, consider alternative routes of administration
 - A constant intravenous infusion of naloxone, 0.6 mg/hr, for 24 hours after intrathecal injection may be used to reduce the incidence of potential side effects.
 
-## 2.6 Discontinuation of DURAMORPH
+## 2.6 Safe Reduction and Discontinuation of DURAMORPH
 
 When a patient who has been treated with a regimen of opioid analgesics including DURAMORPH regularly and may be physically dependent or no longer requires therapy with DURAMORPH, taper the dose gradually while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue DURAMORPH in a physically-dependent patient [see Warnings and Precautions (5.16), Drug Abuse and Dependence (9.3)].
+Do not rapidly reduce or abruptly discontinue DURAMORPH in patients who may be physically dependant on opioids.
+[see Warnings and Precautions (5.16), Drug Abuse and Dependence (9.3)].

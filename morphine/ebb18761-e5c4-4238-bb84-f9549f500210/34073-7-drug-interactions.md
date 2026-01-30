@@ -8,7 +8,7 @@ Table 1 Clinically Significant Drug Interactions with DURAMORPH
 | --- | --- |
 | Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. The depressant effects of morphine are potentiated by the presence of other CNS depressants. Use of neuroleptics in conjunction with neuraxial morphine may increase the risk of respiratory depression [see Warnings and Precautions (5.4)]. |
 | Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Monitor closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.4)]. |
-| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, psychotropic drugs, antihistamines, neuroleptics, other opioids, alcohol. |
+| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, psychotropic drugs, antihistamines, neuroleptics, gabapentinoids (gabapentin or pregabalin), other opioids, alcohol. |
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue DURAMORPH if serotonin syndrome is suspected. |
@@ -34,4 +34,4 @@ Table 1 Clinically Significant Drug Interactions with DURAMORPH
 | Oral P2Y12 Inhibitors |  |
 | Clinical Impact: | The co-administration of oral P2Y12 inhibitors and intravenous morphine sulfate can decrease the absorption and peak concentration of oral P2Y12 inhibitors and delay the onset of the antiplatelet effect. |
 | Intervention: | Consider the use of a parenteral antiplatelet agent in the setting of acute coronary syndrome requiring co-administration of intravenous morphine sulfate. |
-| Examples: | clopidogrel, prasugrel |
+| Examples: | clopidogrel, prasugrel, ticagrelor |

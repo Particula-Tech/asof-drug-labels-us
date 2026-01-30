@@ -29,7 +29,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Morphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED)
 
 Effects on the Cardiovascular System
 
@@ -66,15 +66,16 @@ Intravenous Administration
 
 Morphine has an apparent volume of distribution ranging from 1.0 to 4.7 L/kg after intravenous dosage.
 Protein binding is low, about 36%, and muscle tissue binding is reported as 54%.
-A bloodbrain barrier exists, and when morphine is introduced outside of the CNS (e.g., intravenously), plasma concentrations of morphine remain higher than the corresponding CSF morphine levels.
+A blood-brain barrier exists, and when morphine is introduced outside of the CNS (e.g., intravenously), plasma concentrations of morphine remain higher than the corresponding CSF morphine levels.
 Conversely, when morphine is injected into the intrathecal space, it diffuses out into the systemic circulation slowly, accounting for the long duration of action of morphine administered by this route.
 
 Morphine has a total plasma clearance which ranges from 0.9 to 1.2 L/kg/h (liters/kilogram/hour) in postoperative patients, but shows considerable interindividual variation.
-The major pathway of clearance is hepatic glucuronidation to morphine-3-glucuronide, which is pharmacologically inactive.
+The major pathway of clearance is hepatic glucuronidation to morphine‑3‑glucuronide, which is pharmacologically inactive.
 The major excretion path of the conjugate is through the kidneys, with about 10% in the feces.
 Morphine is also eliminated by the kidneys, 2 to 12% being excreted unchanged in the urine.
-Terminal half-life is commonly reported to vary from 1.5 to 4.5 hours, although the longer half-lives were obtained when morphine levels were monitored over protracted periods with very sensitive radioimmunoassay methods.
+Terminal half-life is commonly reported to vary from 1.5 to 4.5 hours, although the longer half‑lives were obtained when morphine levels were monitored over protracted periods with very sensitive radioimmunoassay methods.
 The accepted elimination half-life in normal subjects is 1.5 to 2 hours.
+
 Epidural Administration
 
 Morphine, injected into the epidural space, is rapidly absorbed into the general circulation.
@@ -87,7 +88,7 @@ Approximately 4% of the dose injected epidurally reaches the CSF.
 This corresponds to the relative minimum effective epidural and intrathecal doses of 5 mg and 0.25 mg, respectively.
 The disposition of morphine in the CSF follows a biphasic pattern, with an early half-life of 1.5 h and a late phase half-life of about 6 h. Morphine crosses the dura slowly, with an absorption half-life across the dura averaging 22 minutes.
 Maximum CSF concentrations are seen 60–90 minutes after injection.
-Minimum effective CSF concentrations for postoperative analgesia average 150 ng/mL (range < 1-380 ng/mL).
+Minimum effective CSF concentrations for postoperative analgesia average 150 ng/mL (range < 1‑380 ng/mL).
 
 Intrathecal Administration
 
@@ -97,4 +98,4 @@ Morphine concentrations in the CSF averaged 332 ± 137 ng/mL at 6 hours, followi
 The apparent volume of distribution of morphine in the intrathecal space is about 22 ± 8 mL.
 
 Time-to-peak plasma concentrations, however, are similar (5-10 min) after either epidural or intrathecal bolus administration of morphine.
-Maximum plasma morphine concentrations after 0.3 mg intrathecal morphine have been reported from < 1 to 7.8 ng/mL.The minimum analgesic morphine plasma concentration during Patient-Controlled Analgesia (PCA) has been reported as 20–40 ng/mL, suggesting that any analgesic contribution from systemic redistribution would be minimal after the first 30–60 minutes with epidural administration and virtually absent with intrathecal administration of morphine.
+Maximum plasma morphine concentrations after 0.3 mg intrathecal morphine have been reported from < 1 to 7.8 ng/mL.The minimum analgesic morphine plasma concentration during Patient‑Controlled Analgesia (PCA) has been reported as 20–40 ng/mL, suggesting that any analgesic contribution from systemic redistribution would be minimal after the first 30–60 minutes with epidural administration and virtually absent with intrathecal administration of morphine.
