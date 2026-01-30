@@ -5,7 +5,7 @@
 Aprepitant is a substrate, a weak-to-moderate (dose-dependent) inhibitor, and an inducer of CYP3A4.
 
 - •Use of aprepitant with other drugs that are CYP3A4 substrates, may result in increased plasma concentration of the concomitant drug.
-  - •Use of pimozide with aprepitant is contraindicated due to the risk of significantly increased plasma concentrations of pimozide, potentially resulting in prolongation of the QT interval, a known adverse reaction of pimozide [see Contraindications (4)].
+  - oUse of pimozide with aprepitant is contraindicated due to the risk of significantly increased plasma concentrations of pimozide, potentially resulting in prolongation of the QT interval, a known adverse reaction of pimozide [see Contraindications (4)].
 - •Use of aprepitant with strong or moderate CYP3A4 inhibitors (e.g., ketoconazole, diltiazem) may increase plasma concentrations of aprepitant and result in an increased risk of adverse reactions related to aprepitant.
 - •Use of aprepitant with strong CYP3A4 inducers (e.g., rifampin) may result in a reduction in aprepitant plasma concentrations and decreased efficacy of aprepitant.
 

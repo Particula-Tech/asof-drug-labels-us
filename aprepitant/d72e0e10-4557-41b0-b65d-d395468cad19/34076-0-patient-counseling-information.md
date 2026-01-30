@@ -16,29 +16,15 @@ Warfarin: Instruct patients on chronic warfarin therapy to follow instructions f
 Hormonal Contraceptives: Advise patients that administration of aprepitant may reduce the efficacy of hormonal contraceptives.
 Instruct patients to use effective alternative or back-up methods of contraception (such as condoms and spermicides) during treatment with aprepitant and for 1 month following the last dose of aprepitant [see Warnings and Precautions (5.3), Use in Specific Populations (8.3)].
 
-Manufactured by:
-
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Plot No. 2, Phase-2, Pharma Zone SEZ
-
-Pithampur, Dist.-Dhar
-
-Madhya Pradesh 454 775, India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
-
-Product of India
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-January 2020
+July 2025
