@@ -1,5 +1,26 @@
 # PRINCIPAL DISPLAY PANEL - 45 mg/0.5 mL Vial Carton
 
+NDC 57894-060-02
+
+Single-dose vial.
+Discard unused portion.
+
+Stelara® (ustekinumab) Injection
+
+45 mg/0.5 mL
+
+For Subcutaneous Use
+
+Attention: Dispense the enclosed Medication Guide to each patient.
+
+Rx only
+
+Each vial contains 0.5 mL
+
+Johnson & Johnson
+
+# PRINCIPAL DISPLAY PANEL - 45 mg/0.5 mL Syringe Carton
+
 Stelara® (ustekinumab) Injection
 
 45 mg/0.5 mL
