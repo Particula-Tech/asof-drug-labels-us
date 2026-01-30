@@ -107,7 +107,7 @@ The effects of these interactions on mean plasma AUCs are summarized in Table 11
 In Table 11, the second column (AED concentration) describes what happens to the concentration of the co-administered AED listed in the first column when topiramate is added.
 The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate when compared to topiramate tablets given alone.
 
-Table 11: Summary of AED Interactions with Topiramate Tablets
+Table 8: Summary of AED Interactions with Topiramate Tablets
 
 | AED Co-administered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |

@@ -73,25 +73,15 @@ However, if a patient is within 6 hours of taking the next scheduled dose, tell 
 Tell patients that they should not take a double dose in the event of a missed dose.
 Advise patients to contact their healthcare provider if they have missed more than one dose.
 
-Medication Guide available at:
-
-www.glenmarkpharma-us.com/medguides
-
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Colvale-Bardez, Goa 403513, India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-April 2025
+August 2025
