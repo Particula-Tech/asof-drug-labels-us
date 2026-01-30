@@ -106,15 +106,14 @@ Lecanemab-irmb is degraded by proteolytic enzymes and is not expected to undergo
 
 ## 12.6 Immunogenicity
 
-The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
-Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of lecanemab-irmb or of other lecanemab products.
+The observed incidence of anti-drug antibodies (ADA) is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of ADA in the studies described below with the incidence of ADA in other studies, including those of lecanemab-irmb or of other lecanemab products.
 
 Intravenous Infusion
 
-During the 18-month treatment period in Study 1, 63/154 (40.9%) of patients treated with LEQEMBI 10 mg/kg every two weeks by intravenous infusion developed anti-lecanemab-irmb antibodies.
-Of these patients, neutralizing anti-lecanemab-irmb antibodies were detected in 16/63 (25.4%) patients.
-However, the assays used to measure anti-lecanemab-irmb antibodies and neutralizing antibodies are subject to interference by serum lecanemab concentrations, possibly resulting in an underestimation of the incidence of antibody formation.
-Therefore, there is insufficient information to characterize the effects of anti-lecanemab-irmb antibodies on pharmacokinetics, pharmacodynamics, safety, or effectiveness of LEQEMBI.
+During the 18-month treatment period in Study 2, 3.4% (30/883) of patients treated with LEQEMBI 10 mg/kg every two weeks developed treatment-emergent anti-lecanemab-irmb antibodies, and 1.9% (17/885) developed neutralizing antibodies.
+Among LEQEMBI-treated patients who developed anti-lecanemab-irmb antibodies, mean trough concentrations of lecanemab-irmb were lower at various time points compared to patients who had not developed anti-lecanemab-irmb antibodies.
+Although there was no clear clinically meaningful impact of ADA (including neutralizing antibodies) on the pharmacodynamics, safety, or efficacy in any patient receiving LEQEMBI over the treatment duration of 18 months, given the low incidence of ADA, the available data are too limited to conclusively assess the impact of ADAs on the safety and efficacy of LEQEMBI.
 
 Subcutaneous Injection
 
