@@ -17,7 +17,7 @@ In patients with symptoms of urinary retention, consider reducing the dose of CO
 Patients with hepatic impairment have higher systemic exposures of xanomeline, a component of COBENFY, compared to patients with normal hepatic function, which may result in increased incidence of COBENFY-related adverse reactions [see Clinical Pharmacology (12.3)].
 
 COBENFY is contraindicated in patients with moderate or severe hepatic impairment [see Contraindications (4)].
-COBENFY is not recommended in patients with mild hepatic impairment [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+COBENFY is not recommended in patients with mild hepatic impairment [see Use in Specific Populations (8.7)andClinical Pharmacology (12.3)].
 
 Assess liver enzymes prior to initiating COBENFY and as clinically indicated during treatment.
 

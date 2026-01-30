@@ -51,10 +51,10 @@ Table 1: Adverse Reactions Reported in ≥2% of COBENFY-Treated Patients and Gre
 | Orthostatic hypotension | 2% | 1% |
 | Coughe | 2% | 1% |
 | Extrapyramidal symptoms (EPS), non-akathisiaf | 2% | <1% |
-| a Dyspepsia includesdyspepsia, esophageal discomfort |  |  |
+| a Dyspepsia includes dyspepsia, esophageal discomfort |  |  |
 | b Hypertension includes hypertension, blood pressure increased, labile hypertension, orthostatic hypertension |  |  |
-| c Abdominal Pain includesabdominal discomfort, abdominal pain upper, abdominal pain, abdominal pain lower, abdominal tenderness |  |  |
-| d Tachycardia includestachycardia, heart rate increased, sinus tachycardia |  |  |
+| c Abdominal Pain includes abdominal discomfort, abdominal pain upper, abdominal pain, abdominal pain lower, abdominal tenderness |  |  |
+| d Tachycardia includes tachycardia, heart rate increased, sinus tachycardia |  |  |
 | e Cough: includes cough, productive cough |  |  |
 | f EPS (non-akathisia) includes dyskinesia, drooling, dystonia, extrapyramidal disorder, muscle contraction involuntary, muscle spasms |  |  |
 
