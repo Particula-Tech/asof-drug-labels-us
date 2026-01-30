@@ -13,4 +13,4 @@ Distributed by: Advagen Pharma Ltd East Windsor, NJ 08520, USA.
 
 Manufactured by: Rubicon Research Limited Thane, 421506 India.
 
-Revised: 00, 09/2025
+Rev: 01, 11/2025
