@@ -3,7 +3,7 @@
 Norethindrone acetate induces secretory changes in an estrogen-primed endometrium.
 On a weight basis, it is twice as potent as norethindrone.
 
-## Pharmacokinetics
+## PHARMACOKINETICS
 
 ### Absorption:
 
@@ -26,6 +26,9 @@ Table 1 Pharmacokinetic Parameters after a Single Dose of Norethindrone Acetate 
 | t1/2 = half-life, |  |
 | SD = standard deviation |  |
 
+Figure 1.
+Mean Plasma Concentration Profile after a Single Dose of 5 mg Administered to 29 Healthy Female Volunteers under Fasting Conditions
+
 ### Effect of Food:
 
 The effect of food administration on the pharmacokinetics of norethindrone acetate has not been studied.
@@ -44,28 +47,28 @@ The majority of metabolites in the circulation are sulfates, with glucuronides a
 
 Plasma clearance value for norethindrone is approximately 0.4 L/hr/kg.
 Norethindrone is excreted in both urine and feces, primarily as metabolites.
-The mean terminal elimination half- life of norethindrone following a single dose administration of norethindrone acetate is approximately 9 hours.
+The mean terminal elimination half-life of norethindrone following a single dose administration of norethindrone acetate is approximately 9 hours.
 
-### Special Populations
+### SPECIAL POPULATIONS
 
-#### Geriatrics:
+#### Geriatrics
 
 The effect of age on the pharmacokinetics of norethindrone after norethindrone acetate administration has not been evaluated.
 
-#### Race:
+#### Race
 
 The effect of race on the disposition of norethindrone after norethindrone acetate administration has not been evaluated.
 
-#### Renal Insufficiency:
+#### Renal Insufficiency
 
 The effect of renal disease on the disposition of norethindrone after norethindrone acetate administration has not been evaluated.
 In pre-menopausal women with chronic renal failure undergoing peritoneal dialysis who received multiple doses of an oral contraceptive containing ethinyl estradiol and norethindrone, plasma norethindrone concentration was unchanged compared to concentrations in pre-menopausal women with normal renal function.
 
-#### Hepatic Insufficiency:
+#### Hepatic Insufficiency
 
 The effect of hepatic disease on the disposition of norethindrone after norethindrone acetate administration has not been evaluated.
 However, norethindrone acetate is contraindicated in markedly impaired liver function or liver disease.
 
-### Drug Interactions:
+### Drug Interactions
 
 No pharmacokinetic drug interaction studies investigating any drug-drug interactions with norethindrone acetate have been conducted.

@@ -1,6 +1,7 @@
 # ADVERSE REACTIONS
 
-See WARNINGS and PRECAUTIONS The following adverse reactions have been observed in women taking progestins:
+See WARNINGS and PRECAUTIONS.
+The following adverse reactions have been observed in women taking progestins:
 
 - •Breakthrough bleeding
 - •Spotting
@@ -13,7 +14,7 @@ See WARNINGS and PRECAUTIONS The following adverse reactions have been observed 
 - •Rash (allergic) with and without pruritus
 - •Melasma or chloasma
 - •Clinical depression
-- •Ace
+- •Acne
 - •Breast enlargement/tenderness
 - •Headache/migraine
 - •Urticaria

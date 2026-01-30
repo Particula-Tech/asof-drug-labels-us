@@ -8,7 +8,7 @@ This information does not take the place of talking to your healthcare provider 
 
 ## What is the most important information I should know about norethindrone acetate (A Progestin Hormone) tablets?
 
-- •Do not use norethindrone acetate if you are pregnant, breast-feeding or are trying to conceive.
+- •Do not use norethindrone acetate if you are pregnant, breastfeeding or are trying to conceive.
 - •Do not use northindrone acetate if you have had a previous blood clot, stroke, or heart attack.
 - •Do not use norethindrone acetate if you are postmenopausal.
 
@@ -23,7 +23,7 @@ Norethindrone acetate tablets are used for the treatment of secondary amenorrhea
 
 ## Who should not take norethindrone acetate tablets?
 
-You should not tke norethindrone acetate tablets if you are postmenopausal, pregnant or breast-feeding.
+You should not take norethindrone acetate tablets if you are postmenopausal, pregnant or breastfeeding.
 
 You should not take norethindrone acetate tablets if you have the following conditions:
 
@@ -100,7 +100,7 @@ For more information, ask your healthcare provider or pharmacist.
 - •If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
   Ask your healthcare provider for ways to lower your chances of getting heart attacks
 
-## General information about the safe and effective use of norethindrone acetate tablets:
+## General information about the safe and effective use of norethindrone acetate tablets
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not take norethindrone acetate tablets for conditions for which it was not prescribed.
@@ -117,15 +117,11 @@ You can ask for information about norethindrone acetate that is written for heal
 
 Norethindrone acetate tablets contain the following inactive ingredients: colloidal silicon dioxide, lactose monohydrate, magnesium stearate, microcrystalline cellulose and talc.
 
-Manufactured by:
+Distributed by:
 
-Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403 513, India
-
-Manufactured for:
-
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407
 
 Questions?
-1 (888)721-7115 www.glenmarkpharma.com/usa
+1 (888)721-7115 www.glenmarkpharma-us.com
 
-February 2015
+Revised: August 2025

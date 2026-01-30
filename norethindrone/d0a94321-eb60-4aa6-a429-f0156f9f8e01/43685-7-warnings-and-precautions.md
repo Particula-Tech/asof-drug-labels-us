@@ -11,7 +11,7 @@ If examination reveals papilledema or retinal vascular lesions, medication shoul
 
 # PRECAUTIONS
 
-## General
+## 1. General Precautions
 
 - •Because this drug may cause some degree of fluid retention, conditions which might be influenced by this factor, such as epilepsy, migraine, cardiac or renal dysfunctions, require careful observation
 - •In cases of breakthrough bleeding, and in all cases of irregular bleeding per vagina, nonfunctional causes should be borne in mind.
@@ -22,11 +22,11 @@ If examination reveals papilledema or retinal vascular lesions, medication shoul
   Women with hyperlipidemias and/or diabetes should be monitored closely during progestin therapy
 - •The pathologist should be advised of progestin therapy when relevant specimens are submitted
 
-## Information for the Patient
+## 2. Information for the Patient
 
 Healthcare providers are advised to discuss the PATIENT INFORMATION leaflet with patients for whom they prescribe norethindrone acetate.
 
-## Drug/Laboratory Tests Interactions
+## 3. Drug/Laboratory Tests Interactions
 
 The following laboratory test results may be altered by the use of estrogen/progestin combination drugs:
 
@@ -36,30 +36,30 @@ The following laboratory test results may be altered by the use of estrogen/prog
   Free T4 and free T3 concentrations are unaltered.
   Patients on thyroid replacement therapy may require higher doses of thyroid hormone.
 - •Other binding proteins may be elevated in serum (i.e., corticosteroid binding globulin (CBG), sex hormone binding globulin (SHBG)) leading to increased circulating corticosteroid and sex steroids, respectively.
-  Free or biologically active hormone concentratios are unchanged.
+  Free or biologically active hormone concentrations are unchanged.
   Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
 - •Increased plasma HDL and HDL2 cholesterol subfraction concentrations, reduced LDL cholesterol concentration, increased triglycerides levels.
 - •Impaired glucose metabolism.
 - •Reduced response to metyrapone test.
 
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## 4. Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Some beagle dogs treated with medroxyprogesterone acetate developed mammary nodules.
 Although nodules occasionally appeared in control animals, they were intermittent in nature, whereas nodules in treated animals were larger and more numerous, and persisted.
 There is no general agreement as to whether the nodules are benign or malignant.
 Their significance with respect to humans has not been established.
 
-## Pregnancy Category X
+## 5. Pregnancy Category X
 
 Norethindrone acetate is contraindicated during pregnancy as it may cause fetal harm when administered to pregnant women.
 Several reports suggest an association between intrauterine exposure to progestational drugs in the first trimester of pregnancy and congenital abnormalities in male and female fetuses.
 Some progestational drugs induce mild virilization of the external genitalia of female fetuses.
 
-## Nursing Mothers
+## 6. Nursing Mothers
 
 Detectable amounts of progestins have been identified in the milk of mothers receiving them.
 Caution should be exercised when progestins are administered to a nursing woman.
 
-## Pediatric Use
+## 7. Pediatric Use
 
 Norethindrone acetate tablets are not indicated in children.

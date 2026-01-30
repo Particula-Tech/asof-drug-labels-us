@@ -12,5 +12,5 @@ Patients with a past history of recurrent episodes of abnormal uterine bleeding 
 ## Endometriosis:
 
 Initial daily dosage of 5 mg norethindrone acetate for two weeks.
-Dosage should be increased by2.5 mg per day every two weeks until 15 mg per day of norethindrone acetate is reached.
+Dosage should be increased by 2.5 mg per day every two weeks until 15 mg per day of norethindrone acetate is reached.
 Therapy may be held at this level for six to nine months or until annoying breakthrough bleeding demands temporary termination.
