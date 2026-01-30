@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA209878"
+  ],
+  "inn": "deferasirox",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-389-01",
+    "72205-389-02",
+    "72205-389-03",
+    "72205-389-05",
+    "72205-390-01",
+    "72205-390-02",
+    "72205-390-03",
+    "72205-390-05",
+    "72205-391-01",
+    "72205-391-02",
+    "72205-391-03",
+    "72205-391-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FOR SUSPENSION",
+      "generic": "deferasirox",
+      "name": "Deferasirox"
+    }
+  ],
+  "setid": "a03c7657-fdca-4acb-ad82-c24680e90eae",
+  "source": "dailymed"
+}
