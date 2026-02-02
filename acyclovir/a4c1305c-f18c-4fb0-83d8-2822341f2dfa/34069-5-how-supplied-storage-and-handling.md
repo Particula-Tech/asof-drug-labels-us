@@ -12,4 +12,4 @@ Dispense in a tight container as defined in the USP.
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-B 10/2024
+C 12/2025

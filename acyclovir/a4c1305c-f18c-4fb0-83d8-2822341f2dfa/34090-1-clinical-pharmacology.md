@@ -28,10 +28,10 @@ There was no effect of food on the absorption of acyclovir (n=6); therefore, acy
 
 The only known urinary metabolite is 9-[(carboxymethoxy)methyl]guanine.
 
-Special Populations: Adults with Impaired Renal Function: The half-life and total body clearance of acyclovir are dependent on renal function.
+Special Populations: Adults With Impaired Renal Function: The half-life and total body clearance of acyclovir are dependent on renal function.
 A dosage adjustment is recommended for patients with reduced renal function (see DOSAGE AND ADMINISTRATION).
 
-Geriatrics: Acyclovir plasma concentrations are higher in geriatric patients compared to younger adults, in part due to age-related changes in renal function.
+Geriatrics: Acyclovir plasma concentrations are higher in geriatric patients compared with younger adults, in part due to age-related changes in renal function.
 Dosage reduction may be required in geriatric patients with underlying renal impairment (see PRECAUTIONS: Geriatric Use).
 
 Pediatrics: In general, the pharmacokinetics of acyclovir in pediatric patients is similar to that of adults.

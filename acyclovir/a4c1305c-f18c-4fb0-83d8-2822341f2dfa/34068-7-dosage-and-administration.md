@@ -23,7 +23,7 @@ Intravenous acyclovir is indicated for the treatment of varicella-zoster infecti
 When therapy is indicated, it should be initiated at the earliest sign or symptom of chickenpox.
 There is no information about the efficacy of therapy initiated more than 24 hours after onset of signs and symptoms.
 
-Patients with Acute or Chronic Renal Impairment: In patients with renal impairment, the dose of acyclovir oral suspension should be modified as shown in Table 3:
+Patients with Acute or Chronic Renal Impairment: In patients with renal impairment, the dose of acyclovir oral suspension should be modified as shown in Table 3.
 
 Table 3: Dosage Modification for Renal Impairment
 

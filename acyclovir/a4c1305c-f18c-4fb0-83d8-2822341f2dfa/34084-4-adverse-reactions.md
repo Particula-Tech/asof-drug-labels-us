@@ -29,7 +29,7 @@ Hepatobiliary Tract and Pancreas: Elevated liver function tests, hepatitis, hype
 
 Musculoskeletal: Myalgia.
 
-Skin: Alopecia, erythema multiforme, photosensitive rash, pruritus, rash, Stevens-Johnson syndrome, toxic epidermal necrolysis, urticaria.
+Skin and Subcutaneous Tissue Disorders: Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), acute generalized exanthematous pustulosis (AGEP), and drug reaction with eosinophilia and systemic symptoms (DRESS), erythema multiforme (EM), rashes including photosensitivity, alopecia, pruritus, urticaria (see CONTRAINDICATIONS and WARNINGS).
 
 Special Senses: Visual abnormalities.
 
