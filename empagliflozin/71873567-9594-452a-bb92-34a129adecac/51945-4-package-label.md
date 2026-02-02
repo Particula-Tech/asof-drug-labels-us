@@ -12,8 +12,6 @@ DISPENSE WITH ACCOMPANYING MEDICATION GUIDE
 
 Boehringer Ingelheim
 
-Lilly
-
 # PRINCIPAL DISPLAY PANEL - 10 mg/5 mg/1,000 mg Tablet Bottle Label
 
 NDC 0597-0380-13
@@ -27,8 +25,6 @@ DISPENSE WITH ACCOMPANYING MEDICATION GUIDE
 30 tablets Rx only
 
 Boehringer Ingelheim
-
-Lilly
 
 # PRINCIPAL DISPLAY PANEL - 12.5 mg/2.5 mg/1,000 mg Tablet Bottle Label
 
@@ -44,8 +40,6 @@ DISPENSE WITH ACCOMPANYING MEDICATION GUIDE
 
 Boehringer Ingelheim
 
-Lilly
-
 # PRINCIPAL DISPLAY PANEL - 25 mg/5 mg/1,000 mg Tablet Bottle Label
 
 NDC 0597-0390-71
@@ -59,5 +53,3 @@ DISPENSE WITH ACCOMPANYING MEDICATION GUIDE
 30 tablets Rx only
 
 Boehringer Ingelheim
-
-Lilly
