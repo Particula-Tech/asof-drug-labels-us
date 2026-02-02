@@ -9,6 +9,8 @@ Optimal patient response can usually be established with 1800 mg/day in the foll
 |  | Morning | Afternoon | Nighttime |
 | Lithium Carbonate Extended-Release Tablets1 | 3 tablets(900 mg) |  | 3 tablets(900 mg) |
 
+1Can also be administered on 600 mg TID recommended dosing interval.
+
 Such doses will normally produce an effective serum lithium concentration ranging between 1 and 1.5 mEq/L.
 Dosage must be individualized according to serum concentrations and clinical response.
 Regular monitoring of the patient’s clinical state and of serum lithium concentrations is necessary.

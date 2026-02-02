@@ -11,21 +11,15 @@ Protect from moisture and store in a dry place.
 Keep tablets in original/pharmacy container.
 Dispense in a tight, child-resistant container (USP).
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Colvale-Bardez, Goa 403513, India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-October 2022
+August 2025
