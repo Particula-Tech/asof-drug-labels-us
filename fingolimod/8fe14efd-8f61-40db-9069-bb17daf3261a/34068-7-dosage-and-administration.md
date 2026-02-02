@@ -37,7 +37,7 @@ It is recommended that pediatric patients if possible, complete all immunization
 ## 2.2 Important Administration Instructions
 
 Patients who initiate fingolimod capsules, and those who reinitiate treatment after discontinuation for longer than 14 days, require first-dose monitoring.
-This monitoring is also recommended when the dose is increased in pediatric patients [see Dosage and Administration (2.4, 2.5)].
+This monitoring is also recommended when the dose is increased in pediatric patients [see Dosage and Administration (2.4,2.5)].
 
 Fingolimod capsules can be taken with or without food.
 

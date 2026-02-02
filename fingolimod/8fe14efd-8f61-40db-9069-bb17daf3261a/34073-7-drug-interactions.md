@@ -4,12 +4,12 @@
 
 Fingolimod has not been studied in patients treated with drugs that prolong the QT interval.
 Drugs that prolong the QT interval have been associated with cases of torsades de pointes in patients with bradycardia.
-Since initiation of fingolimod treatment results in decreased heart rate and may prolong the QT interval, patients on QT prolonging drugs with a known risk of torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
+Since initiation of fingolimod treatment results in decreased heart rate and may prolong the QT interval, patients on QT-prolonging drugs with a known risk of torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
 
 ## 7.2 Ketoconazole
 
 The blood levels of fingolimod and fingolimod-phosphate are increased by 1.7-fold when used concomitantly with ketoconazole.
-Patients who use fingolimod and systemic ketoconazole concomitantly should be closely monitored, as the risk of adverse reactions is greater.
+Patients who use fingolimod and systemic ketoconazole concomitantly should be closely monitored, as the risk of adverse reactions is increased.
 
 ## 7.3 Vaccines
 

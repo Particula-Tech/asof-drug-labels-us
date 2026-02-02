@@ -106,9 +106,9 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Blood and Lymphatic System Disorders: Hemolytic anemia and thrombocytopenia
 - Hepatobiliary Disorders: Liver injury [see Warnings and Precautions (5.5)]
 - Infections: Infections, including cryptococcal infections [see Warnings and Precautions (5.2)], human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer [see Warnings and Precautions (5.2)], progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)]
-- Musculoskeletal and connective tissue disorders: Arthralgia, myalgia
+- Musculoskeletal and Connective Tissue Disorders: Arthralgia, myalgia
 - Nervous System Disorders: Posterior reversible encephalopathy syndrome [see Warnings and Precautions (5.6)], seizures, including status epilepticus [see Adverse Reactions (6.1)]
 
-Neoplasms, Benign, Malignant, and Unspecified (including cysts and polyps): melanoma, Merkel cell carcinoma, cutaneous T-cell lymphoma (including mycosis fungoides), Kaposi’s sarcoma, squamous cell carcinoma [see Warnings and Precautions (5.12)]
+Neoplasms, Benign, Malignant, and Unspecified (including cysts and polyps): Melanoma, Merkel cell carcinoma, cutaneous T-cell lymphoma (including mycosis fungoides), Kaposi’s sarcoma, squamous cell carcinoma [see Warnings and Precautions (5.12)]
 
 - Skin and Subcutaneous Tissue Disorders: Hypersensitivity [see Warnings and Precautions (5.14)]

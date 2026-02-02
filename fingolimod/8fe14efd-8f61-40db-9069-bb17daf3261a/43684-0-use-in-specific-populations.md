@@ -4,8 +4,11 @@
 
 Risk Summary
 
+Available observational pregnancy registry data suggest that use of fingolimod is associated with an increased prevalence of major birth defects in comparison to the general population.
+However, limitations in the number of exposed pregnant women and in the study design preclude definitive conclusions (see Data).
+Data from prospective reports to the pregnancy registry are currently not sufficient to allow for an adequate assessment of the drug- associated risk for miscarriage.
+
 Based on findings from animal studies, fingolimod may cause fetal harm when administered to a pregnant woman.
-Data from prospective reports to the Fingolimod Pregnancy Registry are currently not sufficient to allow for an adequate assessment of the drug-associated risk for birth defects and miscarriage in humans.
 
 In oral studies conducted in rats and rabbits, fingolimod demonstrated developmental toxicity, including an increase in malformations (rats) and embryolethality, when given to pregnant animals.
 In rats, the highest no-effect dose was less than the recommended human dose of 0.5 mg/day on a body surface area (mg/m2) basis.
@@ -24,6 +27,17 @@ The possibility of severe increase in disability should be considered in women w
 In many of the cases in which increase in disability was reported after stopping fingolimod, patients had stopped fingolimod because of pregnancy or planned pregnancy [see Warnings and Precautions (5.9)].
 
 Data
+
+Human Data
+
+In a prospective observational fingolimod pregnancy registry (2011 - 2024), the rate of major birth defects among 147 live births, stillbirths, or terminations of pregnancy due to fetal anomalies from women who were administered fingolimod during the first trimester was 8.2% (95% CI: 4.3-13.8) using the European Registration of Congenital Anomalies and Twin classification and 10.9% (95% CI: 6.4-17.1) using the Metropolitan Atlanta Congenital Defects Program classification.
+The most frequent major birth defects were congenital heart defects, renal/urinary malformations, and limb/musculoskeletal malformations.
+Study limitations include no adjustment for confounders, no re-adjudication in case of spontaneous resolution, lack of an internal comparator cohort, and small sample size.
+
+In fingolimod prospective pharmacovigilance data, the most frequent major birth defect types were similar to those reported in the fingolimod pregnancy registry.
+
+The pattern of malformations reported for fingolimod is similar to that observed in the general population.
+There is no evidence of clustering of specific birth defects with fingolimod.
 
 Animal Data
 
@@ -52,7 +66,7 @@ The pregnancy status of females of reproductive potential should be verified pri
 Contraception
 
 Before initiation of fingolimod treatment, females of reproductive potential should be counseled on the potential for a serious risk to the fetus and the need for effective contraception during treatment with fingolimod [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)].
-Since it takes approximately 2 months to eliminate the compound from the body after stopping treatment, the potential risk to the fetus may persist and women should use effective contraception during this period [see Warnings and Precautions (5.8, 5.13)].
+Since it takes approximately 2 months to eliminate the compound from the body after stopping treatment, the potential risk to the fetus may persist and women should use effective contraception during this period [see Warnings and Precautions (5.8,5.13)].
 
 ## 8.4 Pediatric Use
 
