@@ -1,1 +1,1 @@
-Store between 2o- 30oC (36o-86oF).
+Store between 2°C- 30°C(36°F -86°F).

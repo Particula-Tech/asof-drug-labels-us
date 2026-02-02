@@ -3,7 +3,7 @@
 Clotrimazole is a broad-spectrum antifungal agent that is used for the treatment of dermal infections caused by various species of pathogenic dermatophytes, yeasts, and Malassezia furfur.
 The primary action of clotrimazole is against dividing and growing organisms.
 
-In vitro,clotrimazole exhibits fungistatic and fungicidal activity against isolates of Trichophyton rubrum, Trichophyton mentagrophytes, Epidermophyton floccosum,Microsporum canis and Candida species including Candida albicans.
+In vitro, clotrimazole exhibits fungistatic and fungicidal activity against isolates of Trichophyton rubrum, Trichophyton mentagrophytes, Epidermophyton floccosum, Microsporum canis and Candida species including Candida albicans.
 In general, the in vitro activity of clotrimazole corresponds to that of tolnaftate and griseofulvin against the mycelia of dermatophytes (Trichophyton, Microsporum, and Epidermophyton), and to that of the polyenes (amphotericin B and nystatin) against budding fungi (Candida).
 Using an in vivo (mouse) and an in vitro (mouse kidney homogenate) testing system, clotrimazole and micronazole were equally effective in preventing the growth of the pseudomycelia and mycelia of Candida albicans.
 
@@ -11,7 +11,7 @@ Strains of fungi having a natural resistance to clotrimazole are rare.
 Only a single isolate of Candida guilliermondi has been reported to have primary resistance to clotrimazole.
 
 No single-step or multiple-step resistance to clotrimazole has developed during successive passages of Candida albicans and Trichophyton mentagrophytes.
-No appreciable change in sensitivity was detected after successive passage of isolates of C. albicans, C krusei, or C. pseudotropicalis in liquid or solid media containing clotrimazole.
+No appreciable change in sensitivity was detected after successive passage of isolates of C. albicans, C. krusei, or C. pseudotropicalis in liquid or solid media containing clotrimazole.
 Also, resistance could not be developed in chemically induced mutant strains of polyene-resistant isolates of C. albicans.
 Slight, reversible resistance was noted in three isolates of C. albicans tested by one investigator.
 There is a single report that records the clinical emergence of C. albicans strain with considerable resistance to flucytosine and micronazole, and with cross-resistance to clotrimazole, the strain remained sensitive to nystatin and amphotericin B.

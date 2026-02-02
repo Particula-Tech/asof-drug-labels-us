@@ -1,16 +1,12 @@
 For external use only Not for Ophthalmic Use
 
-Rx Only
+Rx only
 
-Manufactured by:
+Distributed by:
 
-Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403 513, India
-
-Manufactured for:
-
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407
 
 Questions?
-1 (888)721-7115 www.glenmarkpharma.com/usa
+1 (888)721-7115 www.glenmarkpharma-us.com
 
-September 2014
+May 2025
