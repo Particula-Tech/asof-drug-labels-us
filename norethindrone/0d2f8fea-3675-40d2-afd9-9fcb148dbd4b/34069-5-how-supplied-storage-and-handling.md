@@ -1,5 +1,3 @@
 # HOW SUPPLIED
 
-Norethindrone tablets, USP 0.35 mg are available in 28-tablet dispensers as light yellow to yellow round, flat faced beveled edged, uncoated tablets with ‘305’ debossed on one side and a ‘G’ on the other side.
-
-Carton of 3 Dispensers each containing 28 tablets (NDC 68462-305-29).
+Norethindrone tablets, USP 0.35 mg are available in cartons (NDC 68462-305-29) of 3 blisters (NDC 68462-305-84), each containing 28 light yellow to yellow round, flat faced, bevelled edged, uncoated tablets with ‘305’ debossed on one side and ‘G’ on the other side.

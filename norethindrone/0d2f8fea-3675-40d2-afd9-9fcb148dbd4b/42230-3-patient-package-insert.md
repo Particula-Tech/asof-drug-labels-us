@@ -303,19 +303,15 @@ You can also ask for the more detailed “Professional Labeling” written for d
 
 ## HOW TO STORE YOUR POPs
 
-Store at 20oC to 25oC (68oF to 77oF) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Keep out of reach of children.
 
-Manufactured by:
+Distributed by:
 
-Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403513, India
-
-Manufactured for:
-
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-April 2022
+July 2025

@@ -1,3 +1,3 @@
-STORAGE: Store at 20oCto 25oC (68oF to 77oF) [see USP Controlled Room Temperature].
+STORAGE: Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Keep out of reach of children.

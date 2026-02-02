@@ -18,15 +18,11 @@
    Contraception 1985; 31:611-21.
 7. 7.2008 USPC Official:12/1/08-4/30/09, USP Monographs: Norethindrone Tablets (page 1 of 5)
 
-Manufactured by:
+Distributed by:
 
-Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403513, India
-
-Manufactured for:
-
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-April 2022
+July 2025
