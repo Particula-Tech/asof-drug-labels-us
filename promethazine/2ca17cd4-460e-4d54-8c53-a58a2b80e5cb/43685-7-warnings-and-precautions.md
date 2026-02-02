@@ -77,7 +77,7 @@ Avoid prolonged exposure to the sun.
 
 ## Drug Interactions
 
-CNS Depressants-Promethazine may increase, prolong, or intensify the sedative action of other central-nervous-system depressants, such as alcohol, sedatives/hypnotics (including barbiturates), narcotics, narcotic analgesics, general anesthetics, tricyclic antidepressants, and tranquilizers; therefore, such agents should be avoided or administered in reduced dosage to patients receiving promethazine HCl.
+CNS Depressants- Promethazine may increase, prolong, or intensify the sedative action of other central-nervous-system depressants, such as alcohol, sedatives/hypnotics (including barbiturates), narcotics, narcotic analgesics, general anesthetics, tricyclic antidepressants, and tranquilizers; therefore, such agents should be avoided or administered in reduced dosage to patients receiving promethazine HCl.
 When given concomitantly with Promethazine Hydrochloride Oral Solution, the dose of barbiturates should be reduced by at least one-half, and the dose of narcotics should be reduced by one-quarter to one-half.
 Dosage must be individualized.
 Excessive amounts of promethazine HCl relative to a narcotic may lead to restlessness and motor hyperactivity in the patient with pain; these symptoms usually disappear with adequate control of the pain.
@@ -114,9 +114,9 @@ Promethazine was nonmutagenic in the Salmonella test system of Ames.
 
 ## Pregnancy
 
-Teratogenic Effects- Pregnancy Category C
+Teratogenic Effects
 
-Pregnancy Category C Teratogenic effects have not been demonstrated in rat-feeding studies at doses of 6.25 and 12.5 mg/kg of promethazine HCl.
+Teratogenic effects have not been demonstrated in rat-feeding studies at doses of 6.25 and 12.5 mg/kg of promethazine HCl.
 These doses are from approximately 2.1 to 4.2 times the maximum recommended total daily dose of promethazine for a 50-kg subject, depending upon the indication for which the drug is prescribed.
 Daily doses of 25 mg/kg intraperitoneally have been found to produce fetal mortality in rats.
 

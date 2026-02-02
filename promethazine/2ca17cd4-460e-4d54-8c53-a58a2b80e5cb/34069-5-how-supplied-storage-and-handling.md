@@ -2,9 +2,9 @@
 
 Promethazine Hydrochloride Oral Solution, USP 6.25 mg/ 5mL is a green colored viscous syrup with a light cherry odor is supplied as follows:
 
-bottle of 120 mL – NDC 62135-774-41
+Bottle of 120 mL – NDC 62135-774-41
 
-bottle of 473 mL – NDC 62135-774-47
+Bottle of 473 mL – NDC 62135-774-47
 
 Unit Dose Cup of 5 mL – NDC 62135-774-05
 
@@ -22,12 +22,9 @@ Protect from light.
 
 Dispense in light-resistant, tight container.
 
-Manufactured for:
-
-Chartwell RX, LLC.
-
+Manufactured for: Chartwell RX, LLC.
 Congers, NY 10920
 
-Rev: 02/2025
+Rev: 01/2026
 
 L71724
