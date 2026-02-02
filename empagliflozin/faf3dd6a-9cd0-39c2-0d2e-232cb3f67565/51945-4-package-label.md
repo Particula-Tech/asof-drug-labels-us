@@ -20,8 +20,6 @@ Each card contains 10 tablets.
 
 Boehringer Ingelheim
 
-Lilly
-
 # PRINCIPAL DISPLAY PANEL - 25 mg Tablet Blister Card Carton
 
 NDC 0597-0153-37
@@ -43,5 +41,3 @@ Rx only
 Each card contains 10 tablets.
 
 Boehringer Ingelheim
-
-Lilly
