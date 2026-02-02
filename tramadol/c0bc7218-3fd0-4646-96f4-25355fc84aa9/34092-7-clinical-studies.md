@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-Tramadol Hydrochloride Extended-Release Capsules is bioequivalent under fasting conditions to another extended-release tramadol product [see Clinical Pharmacology (12.3)] which demonstrated efficacy in two of four clinical trials of patients with chronic pain.
+Tramadol Hydrochloride Extended-Release Capsules are bioequivalent under fasting conditions to another extended-release tramadol product [see Clinical Pharmacology (12.3)] which demonstrated efficacy in two of four clinical trials of patients with chronic pain.
 To qualify for inclusion into these studies, patients were required to have moderate to moderately severe pain as defined by a pain intensity score of ≥40 mm, off previous medications, on a 0 - 100 mm visual analog scale (VAS).
 
 In one 12-week randomized, double-blind, placebo-controlled study, patients with moderate to moderately severe pain due to osteoarthritis of the knee and/or hip were administered doses from 100 mg to 400 mg daily.
@@ -8,7 +8,7 @@ Treatment with the extended-release tramadol product was initiated at 100 mg onc
 Between 51% and 59% of patients in active treatment groups completed the study and 56% of patients in the placebo group completed the study.
 Discontinuations due to adverse events were more common in the extended-release tramadol product 200 mg, 300 mg and 400 mg treatment groups (20%, 27%, and 30% of discontinuations, respectively) compared to 14% of the patients treated with the extended-release tramadol product 100 mg and 10% of patients treated with placebo.
 
-Pain, as assessed by the WOMAC Pain subscale, was measured at 1, 2, 3, 6, 9, and 12 weeks and change from baseline assessed.
+Pain, as assessed by the WOMAC Pain subscale, was measured at 1, 2, 3, 6, 9, and 12 weeks and changed from baseline assessed.
 A responder analysis based on the percent change in WOMAC Pain subscale demonstrated a statistically significant improvement in pain for the 100 mg and 200 mg treatment groups compared to placebo (see Figure 2).
 
 Figure 2

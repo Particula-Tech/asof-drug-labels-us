@@ -2,11 +2,11 @@
 
 ## 9.1 Controlled Substance
 
-Tramadol Hydrochloride Extended-Release Capsules contains tramadol, a Schedule IV controlled substance.
+Tramadol Hydrochloride Extended-Release Capsules contain tramadol, a Schedule IV controlled substance.
 
 ## 9.2 Abuse
 
-Tramadol Hydrochloride Extended-Release Capsules contains tramadol, a substance with potential for misuse and abuse, which can lead to the development of substance use disorder, including addiction [see Warnings and Precautions (5.1)].
+Tramadol Hydrochloride Extended-Release Capsules contain tramadol, a substance with potential for misuse and abuse, which can lead to the development of substance use disorder, including addiction [see Warnings and Precautions (5.1)].
 
 Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a healthcare provider or for whom it was not prescribed.
 
@@ -50,10 +50,10 @@ Tolerance is a physiological state characterized by a reduced response to a drug
 
 Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 
-Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
-Do not abruptly discontinue Tramadol Hydrochloride Extended-Release Capsules in a patient physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue Tramadol Hydrochloride Extended-Release Capsules in a patient physically dependent on opioids.
 Rapid tapering of Tramadol Hydrochloride Extended-Release Capsules in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 

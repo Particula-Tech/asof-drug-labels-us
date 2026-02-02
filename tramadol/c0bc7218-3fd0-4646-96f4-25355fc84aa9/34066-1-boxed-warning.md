@@ -13,7 +13,7 @@ Instruct patients to swallow Tramadol Hydrochloride Extended-Release Capsules in
 
 Accidental Ingestion
 
-Accidental ingestion of Tramadol Hydrochloride Extended-Release Capsules, especially by children, can result in a fatal overdose of tramadol [see Warnings and Precautions (5.2)].
+Accidental ingestion of even one dose of Tramadol Hydrochloride Extended-Release Capsules, especially by children, can result in a fatal overdose of tramadol [see Warnings and Precautions (5.2)].
 
 Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 
@@ -22,7 +22,7 @@ Reserve concomitant prescribing of Tramadol Hydrochloride Extended-Release Capsu
 
 Neonatal Opioid Withdrawal Syndrome (NOWS)
 
-If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
+Advise pregnant women using opioids for an extended period of time of the risk of Neonatal Opioid Withdrawal Syndrome, which may be life-threatening if not recognized and treated.
 Ensure that management by neonatology experts will be available at delivery [see Warnings and Precautions (5.4)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
@@ -33,7 +33,7 @@ Ultra-Rapid Metabolism Of Tramadol And Other Risk Factors for Life-Threatening R
 
 Life-threatening respiratory depression and death have occurred in children who received tramadol.
 Some of the reported cases occurred following tonsillectomy and/or adenoidectomy, and in at least one case, the child had evidence of being an ultra-rapid metabolizer of tramadol due to a CYP2D6 polymorphism [see Warnings and Precautions (5.6)].
-Tramadol Hydrochloride Extended-Release Capsules is contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
+Tramadol Hydrochloride Extended-Release Capsules are contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
 Avoid the use of Tramadol Hydrochloride Extended-Release Capsules in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol [see Warnings and Precautions (5.6)].
 
 Interactions with Drugs Affecting Cytochrome P450 Isoenzymes

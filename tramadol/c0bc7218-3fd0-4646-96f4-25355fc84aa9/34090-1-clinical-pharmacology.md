@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Tramadol Hydrochloride Extended-Release Capsules contains tramadol, an opioid agonist, and an inhibitor of reuptake of norepinephrine and serotonin.
+Tramadol Hydrochloride Extended-Release Capsules contain tramadol, an opioid agonist, and an inhibitor of reuptake of norepinephrine and serotonin.
 Although its mode of action is not completely understood, from animal tests, at least two complementary mechanisms appear applicable: binding of parent and M1 metabolite to mu-opioid receptors and weak inhibition of reuptake of norepinephrine and serotonin.
 
 Opioid activity of tramadol is due to both low affinity binding of the parent compound and higher affinity binding of the O-demethylated metabolite M1 to mu-opioid receptors.
@@ -35,7 +35,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Tramadol causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System
 
@@ -80,17 +80,17 @@ Absorption
 After a single dose administration of Tramadol Hydrochloride Extended-Release Capsules, Tmax occurs around 10-12 hours.
 
 The mean Cmax and AUC of Tramadol Hydrochloride Extended-Release Capsules after a 300 mg single dose was 308 ng/mL and 6777 ng.hr/mL, respectively under fasting conditions.
-Tramadol Hydrochloride Extended-Release Capsules is bioequivalent to a reference extended-release tramadol product following a single 300 mg dose under fasting conditions.
+Tramadol Hydrochloride Extended-Release Capsules are bioequivalent to a reference extended-release tramadol product following a single 300 mg dose under fasting conditions.
 
-At steady-state, Tramadol Hydrochloride Extended-Release Capsules at 200 mg has been observed to be bioequivalent to a reference extended-release tramadol product at 200 mg under fasting conditions (Table 3).
+At steady-state, Tramadol Hydrochloride Extended-Release Capsules at 200 mg have been observed to be bioequivalent to a reference extended-release tramadol product at 200 mg under fasting conditions (Table 3).
 Following administration of Tramadol Hydrochloride Extended-Release Capsules 200 mg capsules, steady-state plasma concentrations of both tramadol and M1 are achieved within four days of once daily dosing.
 
 Table 3
 
-| Parameter | Tramadol Hydrochloride Extended- Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg | Tramadol Hydrochloride Extended-Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg |
+|  | Tramadol Hydrochloride Extended- Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg | Tramadol Hydrochloride Extended-Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg |
 | --- | --- | --- | --- | --- |
 | Mean (%CV) Steady-State Pharmacokinetic Parameter Values (N= 38) |  |  |  |  |
-|  | Tramadol |  | O-Desmethyltramadol (M1 Metabolite) |  |
+| Parameter | Tramadol |  | O-Desmethyltramadol (M1 Metabolite) |  |
 | AUC0-24 (ng.hr/mL) | 5678 (27%) | 5563 (32%) | 1319 (34%) | 1302 (40%) |
 | Cmax (ng/mL) | 332 (25%) | 350 (31%) | 70 (34%) | 74 (41%) |
 | Cmin (ng/mL) | 128 (39%) | 125 (45%) | 35 (34%) | 33 (42%) |

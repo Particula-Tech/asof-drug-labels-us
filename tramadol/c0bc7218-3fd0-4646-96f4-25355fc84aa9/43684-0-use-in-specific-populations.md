@@ -29,7 +29,7 @@ Neonatal seizures, neonatal withdrawal syndrome, fetal death and still birth hav
 Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Tramadol Hydrochloride Extended-Release Capsules is not recommended for use in pregnant women during or immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
 Opioid analgesics, including Tramadol Hydrochloride Extended-Release Capsules can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
@@ -60,7 +60,7 @@ Progeny of dams receiving oral (gavage) dose levels of 50 mg/kg (1.6 times the M
 
 Risk Summary
 
-Tramadol Hydrochloride Extended-Release Capsules is not recommended for obstetrical preoperative medication or for post-delivery analgesia in nursing mothers because its safety in infants and newborns has not been studied.
+Tramadol Hydrochloride Extended-Release Capsules are not recommended for obstetrical preoperative medication or for post-delivery analgesia in nursing mothers because its safety in infants and newborns has not been studied.
 
 Tramadol and its metabolite, O-desmethyltramadol (M1), are present in human milk.
 There is no information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
