@@ -441,15 +441,11 @@ The benefits are:
 If you want more information about birth-control pills, ask your health care professional or pharmacist.
 They have a more technical leaflet called the Professional Labeling which you may wish to read.
 
-Manufactured by:
+Distributed by:
 
-Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403513, India
-
-Manufactured for:
-
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-May 2022
+June 2025
