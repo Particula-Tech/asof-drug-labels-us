@@ -12,7 +12,7 @@ DISPENSE WITH ACCOMPANYING MEDICATION GUIDE
 
 90 tablets Rx only
 
-Boehringer Ingelheim Lilly
+Boehringer Ingelheim
 
 # PRINCIPAL DISPLAY PANEL - 25 mg/5 mg Tablet Bottle Label
 
@@ -28,4 +28,4 @@ DISPENSE WITH ACCOMPANYING MEDICATION GUIDE
 
 90 tablets Rx only
 
-Boehringer Ingelheim Lilly
+Boehringer Ingelheim
