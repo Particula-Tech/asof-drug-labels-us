@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA075039"
+  ],
+  "inn": "oxybutynin",
+  "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+  "package_ndcs": [
+    "68999-520-05",
+    "68999-520-24"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "oxybutynin chloride",
+      "name": "Oxybutynin Chloride"
+    }
+  ],
+  "setid": "46e78c72-a5a3-472f-9125-b120fa4eee31",
+  "source": "dailymed"
+}
