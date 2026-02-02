@@ -14,8 +14,6 @@ Rx only
 
 Boehringer Ingelheim
 
-Lilly
-
 # PRINCIPAL DISPLAY PANEL - 5 mg/1,000 mg Tablet Bottle Label
 
 NDC 0597-0290-74
@@ -31,8 +29,6 @@ Rx only
 60 tablets
 
 Boehringer Ingelheim
-
-Lilly
 
 # PRINCIPAL DISPLAY PANEL - 25 mg/1,000 mg Tablet Bottle Label
 
@@ -50,8 +46,6 @@ Rx only
 
 Boehringer Ingelheim
 
-Lilly
-
 # PRINCIPAL DISPLAY PANEL - 12.5 mg/1,000 mg Tablet Bottle Label
 
 NDC 0597-0300-45
@@ -67,5 +61,3 @@ Rx only
 60 tablets
 
 Boehringer Ingelheim
-
-Lilly
