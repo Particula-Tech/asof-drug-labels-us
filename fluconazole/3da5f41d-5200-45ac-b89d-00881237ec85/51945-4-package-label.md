@@ -12,12 +12,16 @@ NDC 68462-104-30 Fluconazole tablets, USP 200 mg Bottle Label
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC 68462-103-40 Fluconazole tablets, USP 150 mg Blister Carton
-
-# PRINCIPAL DISPLAY PANEL
-
 NDC68426-119-40
 
 Fluconazole tablets, USP 150 mg
 
-Blister Carton
+Carton 1 x 1
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC68426-119-44
+
+Fluconazole tablets, USP 150 mg
+
+Carton 12 x 1

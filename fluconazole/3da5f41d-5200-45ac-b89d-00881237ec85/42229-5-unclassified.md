@@ -180,16 +180,12 @@ Inactive ingredients: croscarmellose sodium, dibasic calcium phosphate anhydrous
 
 *Trademarks are the property of their respective owners.
 
-Manufactured by:
+Distributed by:
 
-Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403513, India
-
-Manufactured for:
-
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
 - This Patient Information has been approved by the U.S. Food and Drug Administration
-- March 2024
+- June 2025

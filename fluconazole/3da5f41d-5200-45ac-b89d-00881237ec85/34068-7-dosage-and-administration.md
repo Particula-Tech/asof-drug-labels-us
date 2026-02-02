@@ -95,14 +95,14 @@ When serum creatinine is the only measure of renal function available, the follo
 
 - Females: 0.85 × above value
 
-Although the pharmacokinetics of fluconazole has not been studied in children with renal insufficiency, dosage reduction in children with renal insufficiency should parallel that recommended for adults.
-The following formula may be used to estimate creatinine clearance in children:
+Although the pharmacokinetics of fluconazole has not been studied in pediatric patients with renal insufficiency, dosage reduction in pediatric patients with renal insufficiency should parallel that recommended for adults.
+The following formula may be used to estimate creatinine clearance in pediatric patients:
 
 | K × | linear length or height (cm) |
 | --- | --- |
 | serum creatinine (mg/100 mL) |  |
 
-(Where K=0.55 for children older than 1 year and 0.45 for infants.)
+(Where K=0.55 for pediatric patients older than 1 year and 0.45 for infants.)
 
 Administration
 
