@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Liraglutide is an acylated human Glucagon-Like Peptide-1 (GLP-1) receptor agonist with 97% amino acid sequence homology to endogenous human GLP-1(7-37).
+Liraglutide is an acylated human GLP-1 receptor agonist with 97% amino acid sequence homology to endogenous human GLP-1(7-37).
 GLP-1(7-37) represents <20% of total circulating endogenous GLP-1.
 Like GLP-1(7-37), liraglutide activates the GLP-1 receptor, a membrane-bound cell-surface receptor coupled to adenylyl cyclase by the stimulatory G-protein, Gs, in pancreatic beta cells.
 Liraglutide increases intracellular cyclic AMP (cAMP) leading to insulin release in the presence of elevated glucose concentrations.
@@ -10,23 +10,24 @@ This insulin secretion subsides as blood glucose concentrations decrease and app
 Liraglutide also decreases glucagon secretion in a glucose-dependent manner.
 The mechanism of blood glucose lowering also involves a delay in gastric emptying.
 
-GLP-1(7-37) has a half-life of 1.5-2 minutes due to degradation by the ubiquitous endogenous enzymes, dipeptidyl peptidase IV (DPP-IV) and neutral endopeptidases (NEP).
+GLP-1(7-37) has a half-life of 1.5 to 2 minutes due to degradation by the ubiquitous endogenous enzymes, dipeptidyl peptidase 4 (DPP-4) and neutral endopeptidases (NEP).
 Unlike native GLP-1, liraglutide is stable against metabolic degradation by both peptidases and has a plasma half-life of 13 hours after subcutaneous administration.
-The pharmacokinetic profile of liraglutide, which makes it suitable for once daily administration, is a result of self-association that delays absorption, plasma protein binding and stability against metabolic degradation by DPP-IV and NEP.
+The pharmacokinetic profile of liraglutide, which makes it suitable for once daily administration, is a result of self-association that delays absorption, plasma protein binding and stability against metabolic degradation by DPP-4 and NEP.
 
 ## 12.2 Pharmacodynamics
 
 Liraglutide’s pharmacodynamic profile is consistent with its pharmacokinetic profile observed after single subcutaneous administration as liraglutide injection lowered fasting, premeal and postprandial glucose throughout the day [see Clinical Pharmacology (12.3)].
 
 Fasting and postprandial glucose was measured before and up to 5 hours after a standardized meal after treatment to steady state with 0.6, 1.2 and 1.8 mg liraglutide or placebo.
-Compared to placebo, the postprandial plasma glucose AUC 0-300minwas 35% lower after liraglutide 1.2 mg and 38% lower after liraglutide 1.8 mg.
+Compared to placebo, the postprandial plasma glucose AUC0-300min was 35% lower after liraglutide 1.2 mg and 38% lower after liraglutide 1.8 mg.
 
 Glucose-dependent insulin secretion
 
 The effect of a single dose of 7.5 mcg/kg (~ 0.7 mg) liraglutide on insulin secretion rates (ISR) was investigated in 10 patients with type 2 diabetes mellitus during graded glucose infusion.
 In these patients, on average, the ISR response was increased in a glucose-dependent manner (Figure 2).
 
-Figure 2 Mean Insulin Secretion Rate (ISR) versus Glucose Concentration Following Single-Dose Liraglutide 7.5 mcg/kg (~ 0.7 mg) or Placebo in Patients with Type 2 Diabetes Mellitus (N=10) During Graded Glucose Infusion
+Figure 2.
+Mean Insulin Secretion Rate (ISR) versus Glucose Concentration Following Single-Dose Liraglutide 7.5 mcg/kg (~ 0.7 mg) or Placebo in Patients with Type 2 Diabetes Mellitus (N=10) During Graded Glucose Infusion
 
 Glucagon secretion
 
@@ -46,12 +47,12 @@ Liraglutide at steady state concentrations with daily doses up to 1.8 mg did not
 
 Absorption
 
-Following subcutaneous administration, maximum concentrations of liraglutide are achieved at 8-12 hours post dosing.
-The mean peak (C max) and total (AUC) exposures of liraglutide were 35 ng/mL and 960 ng·h/mL, respectively, for a subcutaneous single dose of 0.6 mg.
-After subcutaneous single dose administrations, C maxand AUC of liraglutide increased proportionally over the therapeutic dose range of 0.6 mg to 1.8 mg.
+Following subcutaneous administration, maximum concentrations of liraglutide are achieved at 8 to 12 hours post dosing.
+The mean peak (Cmax) and total (AUC) exposures of liraglutide were 35 ng/mL and 960 ng·h/mL, respectively, for a subcutaneous single dose of 0.6 mg.
+After subcutaneous single dose administrations, Cmax and AUC of liraglutide increased proportionally over the therapeutic dose range of 0.6 mg to 1.8 mg.
 At 1.8 mg liraglutide, the average steady state concentration of liraglutide over 24 hours was approximately 128 ng/mL.
-AUC 0-∞was equivalent between upper arm and abdomen, and between upper arm and thigh.
-AUC 0-∞from thigh was 22% lower than that from abdomen.
+AUC0-∞ was equivalent between upper arm and abdomen, and between upper arm and thigh.
+AUC0-∞ from thigh was 22% lower than that from abdomen.
 However, liraglutide exposures were considered comparable among these three subcutaneous injection sites.
 Absolute bioavailability of liraglutide following subcutaneous administration is approximately 55%.
 
@@ -73,7 +74,7 @@ Excretion
 
 Following a [3H]-liraglutide dose, intact liraglutide was not detected in urine or feces.
 Only a minor part of the administered radioactivity was excreted as liraglutide-related metabolites in urine or feces (6% and 5%, respectively).
-The majority of urine and feces radioactivity was excreted during the first 6-8 days.
+The majority of urine and feces radioactivity was excreted during the first 6 to 8 days.
 
 Specific Populations
 
@@ -82,7 +83,7 @@ Geriatric Patients
 Age had no effect on the pharmacokinetics of liraglutide based on a pharmacokinetic study in healthy elderly subjects (65 to 83 years) and population pharmacokinetic analyses of patients 18 to 80 years of age [see Use in Specific Populations (8.5)].
 
 Pediatric Patients A population pharmacokinetic analysis was conducted for liraglutide using data from 72 pediatric patients (10 to 17 years of age) with type 2 diabetes mellitus.
-The pharmacokinetic profile of liraglutide in the pediatric patients was consistent with that in adults.
+The pharmacokinetic profile of liraglutide in pediatric patients was consistent with that in adults.
 
 Male and Female Patients
 
@@ -96,7 +97,7 @@ Body Weight
 
 Body weight significantly affects the pharmacokinetics of liraglutide based on results of population pharmacokinetic analyses.
 The exposure of liraglutide decreases with an increase in baseline body weight.
-However, the 1.2 mg and 1.8 mg daily doses of liraglutide provided adequate systemic exposures over the body weight range of 40 – 160 kg evaluated in the clinical trials.
+However, the 1.2 mg and 1.8 mg daily doses of liraglutide provided adequate systemic exposures over the body weight range of 40 kg to 160 kg evaluated in the clinical trials.
 Liraglutide was not studied in patients with body weight >160 kg.
 
 Patients with Renal Impairment
@@ -108,55 +109,55 @@ Compared to healthy subjects, liraglutide AUC in mild, moderate, and severe rena
 Patients with Hepatic Impairment
 
 The single-dose pharmacokinetics of liraglutide were evaluated in patients with varying degrees of hepatic impairment.
-Patients with mild (Child Pugh score 5-6) to severe (Child Pugh score > 9) hepatic impairment were included in the trial.
+Patients with mild (Child Pugh score 5-6) to severe (Child Pugh score >9) hepatic impairment were included in the trial.
 Compared to healthy subjects, liraglutide AUC in patients with mild, moderate and severe hepatic impairment was on average 11%, 14% and 42% lower, respectively [see Use in Specific Populations (8.7)].
 
 Drug Interaction Studies
 
 In vitro assessment of drug-drug interactions
 
-Liraglutide has low potential for pharmacokinetic drug-drug interactions related to cytochrome P450 (CYP) and plasma protein binding.
+Liraglutide has low potential for pharmacokinetic drug-drug interactions related to cytochrome P450 (CYP450) and plasma protein binding.
 
 In vivo assessment of drug-drug interactions
 
 The drug-drug interaction studies were performed at steady state with liraglutide 1.8 mg/day.
 Before administration of concomitant treatment, subjects underwent a 0.6 mg weekly dose increase to reach the maximum dose of 1.8 mg/day.
-Administration of the interacting drugs was timed so that C maxof liraglutide (8-12 h) would coincide with the absorption peak of the co-administered drugs.
+Administration of the interacting drugs was timed so that Cmax of liraglutide (8 h to 12 h) would coincide with the absorption peak of the co-administered drugs.
 
 Digoxin
 
 A single dose of digoxin 1 mg was administered 7 hours after the dose of liraglutide injection at steady state.
-The concomitant administration with liraglutide injection resulted in a reduction of digoxin AUC by 16%; C maxdecreased by 31%.
-Digoxin median time to maximal concentration (T max) was delayed from 1 h to 1.5 h.
+The concomitant administration with liraglutide injection resulted in a reduction of digoxin AUC by 16%; Cmax decreased by 31%.
+Digoxin median time to maximal concentration (Tmax) was delayed from 1 h to 1.5 h.
 
 Lisinopril
 
 A single dose of lisinopril 20 mg was administered 5 minutes after the dose of liraglutide injection at steady state.
-The co-administration with liraglutide injection resulted in a reduction of lisinopril AUC by 15%; C maxdecreased by 27%.
-Lisinopril median T maxwas delayed from 6 h to 8 h with liraglutide.
+The coadministration with liraglutide injection resulted in a reduction of lisinopril AUC by 15%; Cmax decreased by 27%.
+Lisinopril median Tmax was delayed from 6 h to 8 h with liraglutide.
 
 Atorvastatin
 
 Liraglutide did not change the overall exposure (AUC) of atorvastatin following a single dose of atorvastatin 40 mg, administered 5 hours after the dose of liraglutide injection at steady state.
-Atorvastatin C maxwas decreased by 38% and median T maxwas delayed from 1 h to 3 h with liraglutide.
+Atorvastatin Cmax was decreased by 38% and median Tmax was delayed from 1 h to 3 h with liraglutide.
 
 Acetaminophen
 
 Liraglutide did not change the overall exposure (AUC) of acetaminophen following a single dose of acetaminophen 1,000 mg, administered 8 hours after the dose of liraglutide injection at steady state.
-Acetaminophen C maxwas decreased by 31% and median T maxwas delayed up to 15 minutes.
+Acetaminophen Cmax was decreased by 31% and median Tmax was delayed up to 15 minutes.
 
 Griseofulvin
 
-Liraglutide did not change the overall exposure (AUC) of griseofulvin following co-administration of a single dose of griseofulvin 500 mg with liraglutide injection at steady state.
-Griseofulvin C maxincreased by 37% while median T maxdid not change.
+Liraglutide did not change the overall exposure (AUC) of griseofulvin following coadministration of a single dose of griseofulvin 500 mg with liraglutide injection at steady state.
+Griseofulvin Cmax increased by 37% while median Tmax did not change.
 
 Oral Contraceptives
 
 A single dose of an oral contraceptive combination product containing 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel was administered under fed conditions and 7 hours after the dose of liraglutide injection at steady state.
-Liraglutide lowered ethinylestradiol and levonorgestrel C maxby 12% and 13%, respectively.
+Liraglutide lowered ethinylestradiol and levonorgestrel Cmax by 12% and 13%, respectively.
 There was no effect of liraglutide on the overall exposure (AUC) of ethinylestradiol.
-Liraglutide increased the levonorgestrel AUC 0-∞by 18%.
-Liraglutide delayed T maxfor both ethinylestradiol and levonorgestrel by 1.5 h.
+Liraglutide increased the levonorgestrel AUC0-∞ by 18%.
+Liraglutide delayed Tmax for both ethinylestradiol and levonorgestrel by 1.5 h.
 
 Insulin Detemir
 
@@ -170,7 +171,7 @@ Differences in assay methods preclude meaningful comparisons of the incidence of
 A subset of liraglutide-treated patients (1,104 of 2,501, 44%) in five adult double-blind clinical trials of 26 weeks duration or longer were tested for the presence of anti-liraglutide antibodies at the end of treatment [see Clinical Studies (14.1)] and 102/1,104 (9%) of liraglutide-treated patients developed anti-liraglutide antibodies.
 Of these 102 liraglutide-treated patients, 56 (5%) patients developed antibodies that cross-reacted with native GLP-1.
 These cross-reacting antibodies were not tested for neutralizing effect against native GLP-1, and thus the potential for clinically significant neutralization of native GLP-1 was not assessed.
-Antibodies that had a neutralizing effect on liraglutide in an in vitroassay occurred in 12 (1%) of the liraglutide-treated patients.
+Antibodies that had a neutralizing effect on liraglutide in an in vitro assay occurred in 12 (1%) of the liraglutide-treated patients.
 There was no identified clinically significant effect of anti-liraglutide antibodies on effectiveness of liraglutide injection.
 
 In five double-blind adult glycemic control trials of liraglutide injection, events from a composite of adverse events potentially related to immunogenicity (e.g., urticaria, angioedema) occurred among 0.8% of liraglutide-treated patients and among 0.4% of comparator-treated patients.

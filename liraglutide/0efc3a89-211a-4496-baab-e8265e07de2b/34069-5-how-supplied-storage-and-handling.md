@@ -1,15 +1,15 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+How Supplied
 
 Liraglutide Injection is a clear, colorless solution and is supplied as follows:
 
 | NDC | Liraglutide Injection (6 mg per mL) | Package Factor |
 | --- | --- | --- |
-| 71288- 563-84 | 18 mg per 3 mL pre-filled, Single-Patient-Use pen that delivers doses of 0.6 mg, 1.2 mg, or 1.8 mg | 3 pens in a carton |
-| 71288- 563-85 | 18 mg per 3 mL pre-filled, Single-Patient-Use pen that delivers doses of 0.6 mg, 1.2 mg, or 1.8 mg | 2 pens in a carton |
+| 71288-563-84 | 18 mg per 3 mL prefilled, Single-Patient-Use pen that delivers doses of 0.6 mg, 1.2 mg, or 1.8 mg | 3 pens in a carton |
+| 71288-563-85 | 18 mg per 3 mL prefilled, Single-Patient-Use pen that delivers doses of 0.6 mg, 1.2 mg, or 1.8 mg | 2 pens in a carton |
 
-## 16.2 Recommended Storage
+Recommended Storage
 
 Prior to first use, Liraglutide Injection should be stored in a refrigerator between 36° to 46°F (2° to 8°C).
 Do not store in the freezer or directly adjacent to the refrigerator cooling element.

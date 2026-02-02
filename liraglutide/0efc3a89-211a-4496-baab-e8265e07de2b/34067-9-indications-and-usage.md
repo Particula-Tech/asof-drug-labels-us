@@ -6,6 +6,5 @@ Liraglutide Injection is indicated:
 
 Limitations of Use:
 
-Liraglutide Injection should not be used in patients with type 1 diabetes mellitus.
-
-Liraglutide Injection contains liraglutide and should not be coadministered with other liraglutide-containing products.
+Liraglutide Injection contains liraglutide.
+Coadministration with other liraglutide-containing products is not recommended.

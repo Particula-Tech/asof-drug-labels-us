@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL – Liraglutide Injection 18 mg per 3 mL Syringe Label
 
-NDC 71288- 563-83
+NDC 71288-563-83
 
 Rx Only
 
@@ -22,7 +22,7 @@ REFRIGERATE BEFORE FIRST USE – DO NOT FREEZE.
 
 # PRINCIPAL DISPLAY PANEL – Liraglutide Injection 18 mg per 3 mL 3-Pack Carton
 
-NDC 71288- 563-84
+NDC 71288-563-84
 
 3 Pens
 
@@ -44,7 +44,7 @@ Each pen delivers doses of 0.6 mg, 1.2 mg or 1.8 mg
 
 # PRINCIPAL DISPLAY PANEL – Liraglutide Injection 18 mg per 3 mL 2-Pack Carton
 
-NDC 71288- 563-85
+NDC 71288-563-85
 
 2 Pens
 

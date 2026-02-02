@@ -26,7 +26,7 @@ This reduces the risk of contamination, infection, leakage of liraglutide, block
 
 Δ Keep your Liraglutide Injection pen and all medicines out of the reach of children.
 
-Δ If you drop your Liraglutide Injection pen, repeat “ First Time Use For Each New Pen” (steps A through D).
+Δ If you drop your Liraglutide Injection pen, repeat “First Time Use For Each New Pen” (steps A through D).
 
 Δ Be careful not to bend or damage the needle.
 
@@ -75,22 +75,22 @@ Step B. Attach the Needle
 
 Step C. Dial to the Flow Check Symbol
 
-This step is done only One Time for each new pen and is Onlyrequired the first time you use a new pen.
+This step is done only One Time for each new pen and is Only required the first time you use a new pen.
 
 - Turn dose selector until the black line in front of flow check symbol () appears centered within the notch in the dose display (See Figure E). The flow check symbol does not administer the dose as prescribed by your healthcare provider.
 
-- To select the dose prescribed by your healthcare provider, continue to Step Gunder “ Routine Use”.
+- To select the dose prescribed by your healthcare provider, continue to Step G under “Routine Use”.
 
 Step D. Prepare the Pen
 
 - Hold pen with needle pointing up.
 - Tap cartridge gently with your finger a few times to bring any air bubbles to the top of the cartridge (See Figure F).
 
-- Keep needle pointing up and press dose button until the black line in front of 0 appears centered within the notch in the dose display (See Figure G). Repeat steps Cand D, up to 6 times, until a drop of Liraglutide Injection appears at the needle tip.
+- Keep needle pointing up and press dose button until the black line in front of 0 appears centered within the notch in the dose display (See Figure G). Repeat steps C and D, up to 6 times, until a drop of Liraglutide Injection appears at the needle tip.
 
 If you still see no drop of Liraglutide Injection, use a new pen and contact Meitheal Pharmaceuticals at 1-844-824-8426.
 
-Continue to Step G under "Routine Use"→
+Continue to Step G under "Routine Use" →
 
 Routine Use
 
@@ -143,13 +143,13 @@ Step H. Injecting the Dose
   Keep your thumb on the injection button until you remove the needle from your skin (See Figure O).
 
 - Change (rotate) your injection sites within the area you choose for each dose.
-  Do notuse the same injection site for each injection.
+  Do not use the same injection site for each injection.
 
 Step I. Withdraw Needle
 
 - You may see a drop of Liraglutide Injection at the needle tip.
   This is normal and it does not affect the dose you just received.
-  If blood appears after you take the needle out of your skin, apply light pressure with a cotton ball or gauze, but do not rub the area(See Figure P).
+  If blood appears after you take the needle out of your skin, apply light pressure with a cotton ball or gauze, but do not rub the area (See Figure P).
 
 Step J. Remove and Dispose of the Needle
 
@@ -201,7 +201,7 @@ Pen in use:
 - Always remove the needle after each injection and store your pen without the needle attached.
   This reduces the risk of contamination, infection, leakage and inaccurate dosing.
 
-meitheal ® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2025 Meitheal Pharmaceuticals Inc.
+meitheal® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2025 Meitheal Pharmaceuticals Inc.
 
 Mfd. by Nanjing King-Friend Biochemical Pharmaceutical Co., Ltd. Nanjing, China 210061
 
