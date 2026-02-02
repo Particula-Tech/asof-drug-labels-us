@@ -322,7 +322,7 @@ This was a 44-week, two-part study (that consisted of an 18-week, open-label, ru
 This study also included patients ages 2 years to 17 years of age with active juvenile psoriatic arthritis (jPsA) and enthesitis-related arthritis (ERA) who had an inadequate response to NSAIDs.
 Although the clinical studies included some patients who are TNF blocker-naïve, XELJANZ is not approved for use in TNF blocker-naïve patients [see Indications and Usage (1.4)].
 
-Patients received XELJANZ (dosed at 5 mg twice daily or body weight-based equivalent twice daily) for 18 weeks (run-in phase) followed by randomization to either XELJANZ (dosed at 5 mg twice daily or body weight-based equivalent twice daily) or placebo for 26 weeks (double blind phase).
+Patients received XELJANZ (dosed at 5 mg twice daily or body weight-based equivalent twice daily) for 18 weeks (run-in phase) followed by randomization to either XELJANZ (dosed at 5 mg twice daily or body weight-based equivalent twice daily) or placebo for 26 weeks (double-blind phase).
 Only patients who achieved at least a JIA ACR30 response at the end of the run-in phase were randomized (1:1) to the double-blind phase.
 Treatment with a stable dose of MTX was permitted but was not required during the study.
 Concurrent use of biologics or DMARDs other than MTX was not permitted in the study.
@@ -382,7 +382,7 @@ Table 20: Proportion of Adult Patients with Moderately to Severely Active UC Who
 | --- | --- | --- | --- |
 | Endpoint | Placebo | XELJANZ10 mgTwice Daily | Treatment Difference versus Placebo(95% CI) |
 | Remission at Week 8Remission was defined as clinical remission (a Mayo score ≤2 with no individual subscore >1) and rectal bleeding subscore of 0. |  |  |  |
-| Total Population | N=1228% | N=47618% | 10%p value <0.01.(4.3, 16.3) |
+| Total Population | N=1228% | N=47618% | 10%p-value <0.01.(4.3, 16.3) |
 | With Prior TNF Blocker FailurePrior TNF blocker failure was defined in this program as inadequate response, loss of response, or intolerance to TNF blocker therapy. | N=642% | N=24311% |  |
 | Without Prior TNF Blocker FailurePatients in this group had failed one or more conventional therapies (corticosteroid, azathioprine, 6 mercaptopurine) but did not have history of prior failure of TNF blocker therapy.,XELJANZ and XELJANZ XR are indicated only for use in patients who have had inadequate response or intolerance to one or more TNF blockers [see Indications and Usage (1.5)]. | N=5816% | N=23326% |  |
 | Improvement of Endoscopic Appearance of the Mucosa at Week 8Improvement of endoscopic appearance of the mucosa was defined as Mayo endoscopy subscore of 0 (normal or inactive disease) or 1 (erythema, decreased vascular pattern). |  |  |  |
@@ -518,7 +518,7 @@ Table 22: Results of RA Safety Study 1 in Adults with Rheumatoid Arthritis 50 ye
 | Cardiovascular Death, n [IR] | 15 [0.27] | 18 [0.32] | 25 [0.47] |
 | HR (95% CI) |  | 1.20 (0.60, 2.37) | 1.71 (0.90, 3.24) |
 | Malignancies Excl. NMSC, n [IR] | 42 [0.77] | 62 [1.13] | 60 [1.13] |
-| HR (95% CI) |  |  |  |
+| HR (95% CI) |  | 1.47 (1.00, 2.18) | 1.48 (1.00, 2.19) |
 | Malignancies Excl. NMSC (among current and past smokers)Data and analyses for Malignancies excluding NMSC for current and ex-smokers are included. There were 720 current and ex-smokers randomized to XELJANZ 5 mg, 704 to XELJANZ 10 mg, and 679 to TNF blockers. | 25 [0.99] | 41 [1.53] | 48 [1.91] |
 | HR (95% CI) |  | 1.55 (0.94, 2.55) | 1.94 (1.19, 3.14) |
 | All Death | 38 [0.69] | 49 [0.88] | 66 [1.23] |
