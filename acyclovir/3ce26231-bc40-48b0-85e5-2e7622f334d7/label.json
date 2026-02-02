@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA202408"
+  ],
+  "inn": "acyclovir",
+  "labeler": "Fera Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "48102-028-35"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "acyclovir",
+      "name": "Avaclyr"
+    }
+  ],
+  "setid": "3ce26231-bc40-48b0-85e5-2e7622f334d7",
+  "source": "dailymed"
+}
