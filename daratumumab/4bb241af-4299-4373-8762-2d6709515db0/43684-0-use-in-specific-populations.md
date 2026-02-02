@@ -9,8 +9,6 @@ The assessment of associated risks with daratumumab products is based on the mec
 There are no available data on the use of DARZALEX FASPRO in pregnant women to evaluate drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
 Animal reproduction studies have not been conducted.
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 The combination of DARZALEX FASPRO and lenalidomide, thalidomide or pomalidomide is contraindicated in pregnant women, because lenalidomide, thalidomide and pomalidomide may cause birth defects and death of the unborn child.
@@ -33,9 +31,9 @@ DARZALEX FASPRO for subcutaneous injection contains daratumumab and hyaluronidas
 Mice that were genetically modified to eliminate all CD38 expression (CD38 knockout mice) had reduced bone density at birth that recovered by 5 months of age.
 Data from studies using CD38 knockout animal models also suggest the involvement of CD38 in the regulation of humoral immune responses (mice), feto-maternal immune tolerance (mice), and early embryonic development (frogs).
 
-No systemic exposure of hyaluronidase was detected in monkeys given 22,000 U/kg subcutaneously (12 times higher than the human dose) and there were no effects on embryo-fetal development in pregnant mice given 330,000 U/kg hyaluronidase subcutaneously daily during organogenesis, which is 45 times higher than the human dose.
+No systemic exposure of hyaluronidase was detected in monkeys given 220,000 U/kg subcutaneously (440 times higher than the human dose) and there were no effects on embryo-fetal development in pregnant mice given 360,000 U/kg hyaluronidase subcutaneously daily during organogenesis, which is 720 times higher than the human dose.
 
-There were no effects on pre- and post-natal development through sexual maturity in offspring of mice treated daily from implantation through lactation with 990,000 U/kg hyaluronidase subcutaneously, which is 134 times higher than the human doses.
+There were no effects on pre- and post-natal development through sexual maturity in offspring of mice treated daily from implantation through lactation with 1,100,000 U/kg hyaluronidase subcutaneously, which is 2,200 times higher than the human doses.
 
 ## 8.2 Lactation
 
@@ -51,7 +49,7 @@ Data
 
 Animal Data
 
-No systemic exposure of hyaluronidase was detected in monkeys given 22,000 U/kg subcutaneously (12 times higher than the human dose) and there were no effects on post-natal development through sexual maturity in offspring of mice treated daily during lactation with 990,000 U/kg hyaluronidase subcutaneously, which is 134 times higher than the human doses.
+No systemic exposure of hyaluronidase was detected in monkeys given 220,000 U/kg subcutaneously (440 times higher than the human dose) and there were no effects on post-natal development through sexual maturity in offspring of mice treated daily during lactation with 1,100,000 U/kg hyaluronidase subcutaneously, which is 2,200 times higher than the human doses.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -87,6 +85,12 @@ The clinical trial did not enroll patients older than 70 years of age [see Clini
 No overall differences in effectiveness of DARZALEX FASPRO in combination with bortezomib, lenalidomide and dexamethasone were observed between patients <65 years of age compared to patients 65 to 70 years of age.
 Adverse reactions that occurred at a higher frequency (≥5% difference) in patients 65 to 70 years of age included constipation, hemorrhoids, nausea, injection site erythema, bronchitis, nasopharyngitis, back pain, myalgia, pain in extremity, dysgeusia, peripheral motor neuropathy, and insomnia.
 Serious adverse reactions that occurred at a higher frequency (≥2% difference) in patients 65 to 70 years of age included febrile bone marrow aplasia, atrial fibrillation, pyrexia, and orthostatic hypotension.
+
+Of the 197 patients with newly diagnosed multiple myeloma in CEPHEUS who received DARZALEX FASPRO as combination therapy with bortezomib, lenalidomide and dexamethasone, 61% were 65 to <75 years of age, and 21% were 75 years of age and older.
+The clinical trial did not enroll patients over age 80 [see Clinical Studies (14.1)].
+No overall differences in effectiveness of DARZALEX FASPRO in combination with bortezomib, lenalidomide and dexamethasone were observed between younger patients and patients ≥75 years.
+Adverse reactions occurring at a higher frequency (≥5% difference) in patients ≥75 years of age included sensory neuropathy, diarrhea, fatigue, constipation, renal impairment, dizziness, pyrexia, rash, dyspnea, fracture, arrhythmia, decreased appetite, urinary tract infection, injection site reaction, encephalopathy, vomiting, taste disorder, and herpes.
+Serious adverse reactions occurring at a higher frequency (≥5% difference) in patients ≥75 years of age included urinary tract infection, upper respiratory tract infection, diarrhea, and encephalopathy.
 
 Of the 193 patients who received DARZALEX FASPRO as monotherapy for high-risk smoldering multiple myeloma, 35% (n=67) were 65 to <75 years of age, and 11% (n=21) were 75 years of age and older.
 No overall difference in effectiveness were observed between patients 65 to 75 years (n=67) and <65 years (n=105); there were too few patients 75 years of age and older to assess for a difference in effectiveness.

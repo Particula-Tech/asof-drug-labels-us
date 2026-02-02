@@ -9,7 +9,7 @@
 ## 2.2 Recommended Dosage for Multiple Myeloma
 
 The recommended dose of DARZALEX FASPRO is 1,800 mg/30,000 units (1,800 mg daratumumab and 30,000 units hyaluronidase) administered subcutaneously over approximately 3 to 5 minutes.
-Tables 1, 2, 3, 4, and 5 provide the recommended dosing schedule when DARZALEX FASPRO is administered as monotherapy or as part of a combination therapy.
+Tables 1, 2, 3, 4, 5, and 6 provide the recommended dosing schedule when DARZALEX FASPRO is administered as monotherapy or as part of a combination therapy.
 
 Monotherapy and In Combination with Lenalidomide and Dexamethasone (DARZALEX FASPRO-Rd), Pomalidomide and Dexamethasone (DARZALEX FASPRO-Pd) or Carfilzomib and Dexamethasone (DARZALEX FASPRO-Kd)
 
@@ -59,9 +59,9 @@ Table 3: DARZALEX FASPRO dosing schedule in combination with bortezomib, thalido
 
 When DARZALEX FASPRO is administered as part of a combination therapy, see the prescribing information for dosage recommendations for the other drugs.
 
-In Combination with Bortezomib, Lenalidomide, and Dexamethasone (DARZALEX FASPRO-VRd)
+In Combination with Bortezomib, Lenalidomide, and Dexamethasone (DARZALEX FASPRO-VRd) for Patients Eligible for Autologous Stem Cell Transplant (ASCT)
 
-Use the dosing schedule in Table 4 when DARZALEX FASPRO is administered in combination with bortezomib, lenalidomide, and dexamethasone (4-week cycle) for treatment of newly diagnosed multiple myeloma patients eligible for autologous stem cell transplant (ASCT).
+Use the dosing schedule in Table 4 when DARZALEX FASPRO is administered in combination with bortezomib, lenalidomide, and dexamethasone (4-week cycle) for treatment of newly diagnosed multiple myeloma patients eligible for ASCT.
 
 Table 4: DARZALEX FASPRO dosing schedule in combination with bortezomib, lenalidomide and dexamethasone (4-week cycle)
 
@@ -74,11 +74,25 @@ Table 4: DARZALEX FASPRO dosing schedule in combination with bortezomib, lenalid
 
 When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.1) and the prescribing information for dosage recommendations for the other drugs.
 
+In Combination with Bortezomib, Lenalidomide, and Dexamethasone (DARZALEX FASPRO-VRd) for Patients Who Are Ineligible for ASCT
+
+Use the dosing schedule in Table 5 when DARZALEX FASPRO is administered in combination with bortezomib, lenalidomide, and dexamethasone (3-week cycle) for treatment of newly diagnosed multiple myeloma patients who are ineligible for ASCT.
+
+Table 5: DARZALEX FASPRO dosing schedule in combination with bortezomib, lenalidomide and dexamethasone (3-week cycle)
+
+| Weeks | Schedule |
+| --- | --- |
+| Weeks 1 to 6 | weekly (total of 6 doses) |
+| Weeks 7 to 24First dose of the every-3-week dosing schedule is given at Week 7 | every three weeks (total of 6 doses) |
+| Week 25 onwards until disease progressionFirst dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
+
+When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.1) and the prescribing information for dosage recommendations for the other drugs.
+
 In Combination with Bortezomib and Dexamethasone (DARZALEX FASPRO-Vd)
 
-Use the dosing schedule in Table 5 when DARZALEX FASPRO is administered in combination with bortezomib and dexamethasone (3-week cycle).
+Use the dosing schedule in Table 6 when DARZALEX FASPRO is administered in combination with bortezomib and dexamethasone (3-week cycle).
 
-Table 5: DARZALEX FASPRO dosing schedule in combination with bortezomib and dexamethasone (3-week cycle)
+Table 6: DARZALEX FASPRO dosing schedule in combination with bortezomib and dexamethasone (3-week cycle)
 
 | Weeks | Schedule |
 | --- | --- |
@@ -92,9 +106,9 @@ When DARZALEX FASPRO is administered as part of a combination therapy, see the p
 
 The recommended dose of DARZALEX FASPRO is 1,800 mg/30,000 units (1,800 mg daratumumab and 30,000 units hyaluronidase) administered subcutaneously over approximately 3 to 5 minutes.
 
-Use the dosing schedule provided in Table 6 when DARZALEX FASPRO is administered as monotherapy in high-risk smoldering multiple myeloma patients (4-week cycle).
+Use the dosing schedule provided in Table 7 when DARZALEX FASPRO is administered as monotherapy in high-risk smoldering multiple myeloma patients (4-week cycle).
 
-Table 6: DARZALEX FASPRO dosing schedule for monotherapy (4-week cycle)
+Table 7: DARZALEX FASPRO dosing schedule for monotherapy (4-week cycle)
 
 | Weeks | Schedule |
 | --- | --- |
@@ -108,9 +122,9 @@ In Combination with Bortezomib, Cyclophosphamide and Dexamethasone (DARZALEX FAS
 
 The recommended dose of DARZALEX FASPRO is 1,800 mg/30,000 units (1,800 mg daratumumab and 30,000 units hyaluronidase) administered subcutaneously over approximately 3 to 5 minutes.
 
-Use the dosing schedule provided in Table 7 when DARZALEX FASPRO is administered in combination with bortezomib, cyclophosphamide and dexamethasone (4-week cycle).
+Use the dosing schedule provided in Table 8 when DARZALEX FASPRO is administered in combination with bortezomib, cyclophosphamide and dexamethasone (4-week cycle).
 
-Table 7: DARZALEX FASPRO dosing schedule in combination with bortezomib, cyclophosphamide and dexamethasone (4-week cycle)
+Table 8: DARZALEX FASPRO dosing schedule in combination with bortezomib, cyclophosphamide and dexamethasone (4-week cycle)
 
 | Weeks | Schedule |
 | --- | --- |
@@ -128,7 +142,7 @@ If a dose of DARZALEX FASPRO is missed, administer the dose as soon as possible 
 
 Pre-medication
 
-Administer the following pre-medications 1–3 hours before each dose of DARZALEX FASPRO:
+Administer the following pre-medications 1 to 3 hours before each dose of DARZALEX FASPRO:
 
 - Acetaminophen 650 mg to 1,000 mg orally
 - Diphenhydramine 25 mg to 50 mg (or equivalent) orally or intravenously

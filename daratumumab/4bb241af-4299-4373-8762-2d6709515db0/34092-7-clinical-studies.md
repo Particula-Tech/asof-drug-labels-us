@@ -30,9 +30,9 @@ Treatment with DARZALEX FASPRO-VRd resulted in a reduction in the risk of diseas
 
 Figure 1: Kaplan-Meier Curve of PFS in PERSEUS
 
-Additional efficacy results from PERSEUS are presented in Table 25.
+Additional efficacy results from PERSEUS are presented in Table 28.
 
-Table 25: Efficacy Results through End of Consolidation from PERSEUS
+Table 28: Efficacy Results through End of Consolidation from PERSEUS
 
 |  | DARZALEX FASPRO-VRd (n=355) | VRd (n=354) |
 | --- | --- | --- |
@@ -51,6 +51,56 @@ Table 25: Efficacy Results through End of Consolidation from PERSEUS
 | 95% CI (%) | (69.2%, 82.9%) | (49.3%, 67.3%) |
 | VRd = bortezomib-lenalidomide-dexamethasone; MRD=minimal residual disease; CI=confidence interval |  |  |
 
+In Combination with Bortezomib, Lenalidomide and Dexamethasone in Patients Who Are Ineligible for ASCT
+
+The efficacy of DARZALEX FASPRO with bortezomib, lenalidomide and dexamethasone (DARZALEX FASPRO-VRd) versus bortezomib, lenalidomide and dexamethasone (VRd) was evaluated in CEPHEUS (NCT03652064), an open-label, randomized, active-controlled trial in patients with newly diagnosed multiple myeloma who were ineligible for ASCT or refused ASCT as initial therapy.
+
+Patients received DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously once weekly from weeks 1 to 6, once every three weeks from weeks 7 to 24, and once every 4 weeks starting with week 25 until disease progression or unacceptable toxicity.
+Bortezomib was administered by subcutaneous injection at a dose of 1.3 mg/m2 body surface area twice weekly for two weeks (days 1, 4, 8, and 11) of each 21-day cycle.
+Lenalidomide was administered orally at 25 mg daily on Days 1–14 of Cycles 1–8.
+Dexamethasone was administered orally at 20 mg on Days 1, 2, 4, 5, 8, 9, 11, and 12 of Cycles 1–8 (or at 20 mg on Days 1, 4, 8, and 11 for patients >75 years or BMI <18.5) and at 40 mg on Days 1, 8, 15, and 22 during Cycles 9 and beyond (or at a reduced dose of 20 mg per week for patients >75 years or BMI <18.5).
+On the days of DARZALEX FASPRO injection, the dexamethasone dose was administered orally or intravenously as a pre-injection medication.
+
+The effectiveness of DARZALEX FASPRO-VRd has not been established in patients who refused ASCT as initial therapy.
+
+The major efficacy outcome measures were overall minimal residual disease (MRD) negativity rate and progression-free survival (PFS) by independent review committee (IRC) based on IMWG response criteria.
+
+A total of 395 patients were randomized: 197 to the DARZALEX FASPRO-VRd arm and 198 to the VRd arm.
+The median age was 70 years (range: 31 to 80); 50% were male and 81% were White, 5% were Black or African American, and 6% were Asian.
+Thirty-four percent had ISS Stage I, 38% had ISS Stage II, and 28% had ISS Stage III disease.
+High-risk cytogenetics (presence of del(17p), t(4;14), t(14,16)) were present in 13% of patients.
+
+The trial demonstrated a statistically significant improvement in overall MRD negativity rate, PFS, CR or better rate, and sustained MRD negativity rate, as shown in Table 29 and Figure 2.
+
+Table 29: Efficacy Outcomes from CEPHEUSBased on intent-to-treat population unless otherwise noted.,The hierarchical testing order in the CEPHEUS study was overall MRD negativity rate followed by CR or better rate, PFS, and sustained MRD negativity rate.
+
+|  | DARZALEX FASPRO-VRd (N=197) | VRd (N=198) |
+| --- | --- | --- |
+| PFS based on IRCInterim analysis: Median follow-up of 39 months (cut-off date 08 September 2022). |  |  |
+| Number of events, n (%) | 46 (23.4%) | 68 (34.3%) |
+| Median, months with 95% CI | NR (NE, NE) | NR (NE, NE) |
+| Hazard ratio with 95% CIHazard ratio and 95% CI from a Cox proportional hazards model with treatment as the sole explanatory variable and stratified with ISS staging (I, II, III), and age/transplant eligibility (<70 years ineligible, or <70 years and refusal to transplant, or ≥70 years) as randomized. A hazard ratio <1 indicates an advantage for D-VRd. | 0.60 (0.41, 0.88) |  |
+| p-valuep-value is based on the log-rank test stratified with ISS staging (I, II, III), and age/transplant eligibility (<70 years ineligible, or <70 years and refusal to transplant, or ≥70 years) as randomized. | 0.0078 |  |
+| MRD negativity rate n (%)Primary analysis: Median follow-up of 22 months (cut-off date 08 April 2021).,Patients achieved both MRD negativity (threshold of 10-5) and CR or better. All MRD testing was performed with a next-generation sequencing assay (clonoSEQ). | 103 (52.3%) | 69 (34.8%) |
+| p-valuep-value from Cochran Mantel-Haenszel Chi-Squared test. | 0.0005 |  |
+| Overall CR or better (sCR+CR) n (%) | 150 (76.1%) | 116 (58.6%) |
+| p-value | 0.0002 |  |
+| MRD negativity rate in patients with CR or better,Patients achieving MRD negativity (threshold of 10-5) among only patients achieving a response of CR or better. |  |  |
+| Number of patients with CR or better | n=150 | n=116 |
+| MRD negativity rate n (%) | 103 (68.7%) | 69 (59.5%) |
+| 95% CI (%)Exact 95% confidence interval. | (60.6%, 76.0%) | (50.0%, 68.5%) |
+| Sustained MRD negativity rate n (%),Sustained MRD negativity is defined as confirmed MRD negative status at two examinations at least 1 year apart without MRD positive status in between. | 84 (42.6%) | 50 (25.3%) |
+| p-valuep-value from Fisher's exact test. | 0.0003 |  |
+| Overall response (sCR+CR+VGPR+PR) n(%)Final analysis: Median follow-up of 59 months (cut-off date 07 May 2024). | 191 (97.0%) | 185 (93.4%) |
+| Stringent Complete Response (sCR) | 128 (65.0%) | 89 (44.9%) |
+| Complete response (CR) | 32 (16.2%) | 33 (16.7%) |
+| Very good partial response (VGPR) | 23 (11.7%) | 49 (24.7%) |
+| Partial response (PR) | 8 (4.1%) | 14 (7.1%) |
+| VRd=bortezomib-lenalidomide-dexamethasone; PFS=progression-free survival; MRD=minimal residual disease; CI=confidence interval; NR = not reached; NE = not evaluable. |  |  |
+
+| Figure 2: Kaplan-Meier Curve of PFS in CEPHEUSPFS median follow-up of 39 months |
+| --- |
+
 In Combination with Bortezomib, Melphalan and Prednisone in Patients Ineligible for Autologous Stem Cell Transplant
 
 The efficacy of DARZALEX FASPRO with bortezomib, melphalan and prednisone was evaluated in a single-arm cohort of PLEIADES (NCT03412565), a multi-cohort, open-label trial.
@@ -61,10 +111,10 @@ The major efficacy outcome measure was overall response rate (ORR).
 A total of 67 patients received DARZALEX FASPRO with VMP.
 The median age was 75 years (range: 66 to 86 years); 46% were male; 69% were White, 8% Asian, and 2% Black or African American; and 33% had ISS Stage I, 45% had ISS Stage II, and 22% had ISS Stage III disease.
 
-Efficacy results are summarized in Table 26.
+Efficacy results are summarized in Table 30.
 The median duration of follow-up for patients was 6.9 months.
 
-Table 26: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-VMP
+Table 30: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-VMP
 
 |  | DARZALEX FASPRO-VMP (N=67) |
 | --- | --- |
@@ -89,10 +139,10 @@ The median age was 69 years (range: 33 to 82 years); 69% were male; 69% were Whi
 Patients had received a median of 1 prior line of therapy.
 A total of 52% of patients had a prior ASCT; 95% of patients received a prior PI; 59% received a prior immunomodulatory agent, including 22% who received prior lenalidomide; and 54% of patients received both a prior PI and immunomodulatory agent.
 
-Efficacy results are summarized in Table 27.
+Efficacy results are summarized in Table 31.
 The median duration of follow-up for patients was 7.1 months.
 
-Table 27: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-Rd
+Table 31: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-Rd
 
 |  | DARZALEX FASPRO-Rd (N=65) |
 | --- | --- |
@@ -118,11 +168,11 @@ The majority of patients were refractory to lenalidomide (80%), a PI (48%), or b
 
 APOLLO demonstrated an improvement in PFS in the DARZALEX FASPRO-Pd treatment group as compared to the Pd treatment group; the median PFS was 12.4 months in the DARZALEX FASPRO-Pd treatment group and 6.9 months in the Pd treatment group (HR [95% CI]: 0.63 [0.47, 0.85]; p-value = 0.0018), representing a 37% reduction in the risk of disease progression or death for patients treated with DARZALEX FASPRO-Pd versus Pd.
 
-Figure 2: Kaplan-Meier Curve of PFS in APOLLO
+Figure 3: Kaplan-Meier Curve of PFS in APOLLO
 
-Additional efficacy results from APOLLO are presented in Table 28.
+Additional efficacy results from APOLLO are presented in Table 32.
 
-Table 28: Efficacy Results from APOLLOBased on intent-to-treat population
+Table 32: Efficacy Results from APOLLOBased on intent-to-treat population
 
 |  | DARZALEX FASPRO-Pd (n=151) | Pd (n=153) |
 | --- | --- | --- |
@@ -159,10 +209,10 @@ The median age was 61 years (range: 42 to 84); 52% were male; 73% were White and
 A total of 79% of patients had a prior ASCT; 91% of patients received a prior PI.
 All patients received 1 prior line of therapy with exposure to lenalidomide and 62% of patients were refractory to lenalidomide.
 
-Efficacy results are summarized in Table 29.
+Efficacy results are summarized in Table 33.
 At a median follow-up of 9.2 months, the median duration of response had not been reached and an estimated 85.2% (95% CI: 72.5, 92.3) maintained response for at least 6 months and 82.5% (95% CI: 68.9, 90.6) maintained response for at least 9 months.
 
-Table 29: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-Kd
+Table 33: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-Kd
 
 |  | DARZALEX FASPRO-Kd (N=66) |
 | --- | --- |
@@ -192,9 +242,9 @@ Eighty-two percent of patients were refractory to their last line of prior syste
 
 The results show that DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously is non-inferior to daratumumab 16 mg/kg administered intravenously in terms of ORR and maximum trough concentration [see Clinical Pharmacology (12.3)].
 Median progression-free survival was 5.6 months in the DARZALEX FASPRO arm and 6.1 months in the intravenous daratumumab arm.
-ORR results are provided in Table 30.
+ORR results are provided in Table 34.
 
-Table 30: Efficacy Results from COLUMBA
+Table 34: Efficacy Results from COLUMBA
 
 |  | DARZALEX FASPRO (N=263) | Intravenous Daratumumab (N=259) |
 | --- | --- | --- |
@@ -221,13 +271,13 @@ Forty-one percent of patients had 2 or more of the following criteria for high-r
 DARZALEX FASPRO is only indicated for patients with high-risk smoldering multiple myeloma.
 It is not indicated for other risk categories.
 
-PFS results are shown in Figure 3.
+PFS results are shown in Figure 4.
 
-Figure 3: Kaplan-Meier Curve of PFS in AQUILA
+Figure 4: Kaplan-Meier Curve of PFS in AQUILA
 
-Additional efficacy results from AQUILA are presented in Table 31.
+Additional efficacy results from AQUILA are presented in Table 35.
 
-Table 31: Efficacy Results from AQUILABased on intent-to-treat population per investigator assessment
+Table 35: Efficacy Results from AQUILABased on intent-to-treat population per investigator assessment
 
 |  | DARZALEX FASPRO (n=194) | Active Monitoring (n=196) |
 | --- | --- | --- |
@@ -255,9 +305,9 @@ The median number of organs involved was 2 (range: 1–6) and 66% of patients ha
 Vital organ involvement was: cardiac 71%, renal 59% and hepatic 8%.
 The majority (79%) of patients had lambda free light chain disease.
 
-Efficacy results are summarized in Table 32.
+Efficacy results are summarized in Table 36.
 
-Table 32: Efficacy Results from ANDROMEDAAll results from the planned analysis after a median follow-up of 11.4 months based on intent-to-treat population
+Table 36: Efficacy Results from ANDROMEDAAll results from the planned analysis after a median follow-up of 11.4 months based on intent-to-treat population
 
 |  | DARZALEX FASPRO-VCd (n=195) | VCd (n=193) |
 | --- | --- | --- |
@@ -276,9 +326,9 @@ The median duration of HemCR had not been reached in either arm.
 After a median follow-up of 61.4 months, ANDROMEDA demonstrated an improvement in major organ deterioration progression free survival (MOD-PFS) in the DARZALEX FASPRO-VCd arm as compared to the VCd arm (HR=0.47; 95% CI: 0.33, 0.67; p<0.0001), representing a 53% reduction in the risk of hematologic progression, major organ deterioration, or death in patients treated in the DARZALEX FASPRO-VCd arm.
 The median MOD-PFS was not reached in the DARZALEX FASPRO-VCd arm and was 30.2 months in the VCd arm.
 
-Figure 4: Kaplan-Meier Curve of MOD-PFS in ANDROMEDA
+Figure 5: Kaplan-Meier Curve of MOD-PFS in ANDROMEDA
 
 After a median follow-up of 61.4 months, ANDROMEDA demonstrated an improvement in overall survival (OS) in the DARZALEX FASPRO-VCd arm as compared to the VCd arm (HR=0.62; 95% CI: 0.42, 0.90; p=0.0121), representing a 38% reduction in the risk of death in patients treated in the DARZALEX FASPRO-VCd arm.
 The median OS had not been reached in either arm.
 
-Figure 5: Kaplan-Meier Curve of OS in ANDROMEDA
+Figure 6: Kaplan-Meier Curve of OS in ANDROMEDA
