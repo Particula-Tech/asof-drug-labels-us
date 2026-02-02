@@ -26,7 +26,7 @@ Adverse Reactions (≥ 10%) Occurring in Patients with APL Who Received Tretinoi
 
 | All Grades (%) |  |
 | --- | --- |
-| Adverse Reaction | Tretinoin capsules |
+| Adverse Reaction | Tretinoin Capsules |
 | Nervous system disorders |  |
 | Headache | 86 |
 | Dizziness | 20 |

@@ -1,7 +1,5 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-Click here to enter Nonclinical Toxicology
-
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No 2-year carcinogenicity studies in rodents have been conducted with tretinoin.
@@ -13,4 +11,4 @@ Tretinoin was negative when tested in the Ames and Chinese hamster V79 cell HGPR
 A 2-fold increase in the sister chromatid exchange (SCE) has been demonstrated in human diploid fibroblasts, but other chromosome aberration assays, including an in vitro assay in human peripheral lymphocytes and an in vivo mouse micronucleus assay, did not show a clastogenic or aneuploidogenic effect.
 
 Adverse effects on fertility and reproductive performance were not observed in studies conducted in rats at doses up to 5 mg/kg/day (about 2/3 the human dose on a mg/m2 basis).
-In a 6-week toxicology study in dogs, testicular degeneration, with increased numbers of immature spermatozoa, were observed at 10 mg/kg/day (about 4 times the equivalent human dose in mg/m2)
+In a 6-week toxicology study in dogs, testicular degeneration, with increased numbers of immature spermatozoa, were observed at 10 mg/kg/day (about 4 times the equivalent human dose in mg/m2).

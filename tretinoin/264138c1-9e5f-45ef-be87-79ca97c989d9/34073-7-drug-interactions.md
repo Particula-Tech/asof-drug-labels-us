@@ -7,7 +7,7 @@ Strong or moderate CYP3A Inhibitors
 Avoid concomitant use of tretinoin capsules with strong CYP3A inhibitors if possible and monitor more frequently if concomitant use is unavoidable.
 Monitor patients taking moderate CYP3A inhibitors concomitantly with tretinoin capsules more frequently for adverse reactions.
 
-Tretinoin capsules are a CYP3A substrate.
+Tretinoin is a CYP3A substrate.
 Concomitant use with a strong CYP3A4 inhibitor increases tretinoin plasma concentrations, which may increase the risk of adverse reactions [see Clinical Pharmacology (12.3)].
 
 Strong CYP3A Inducers

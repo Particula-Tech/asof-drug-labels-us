@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of tretinoin capsule has been evaluated in 114 previously treated patients and in 67 previously untreated (“de novo”) patients with APL in one open-label, uncontrolled single investigator clinical study (Memorial Sloan-Kettering Cancer Center [MSKCC]) and in two cohorts of compassionate cases treated by multiple investigators under the auspices of the National Cancer Institute (NCI).
-Patients received tretinoin capsule 22.5 mg/m2 orally twice daily for up to 90 days following the first dose or 30 days following achievement of complete remission.
+The efficacy of tretinoin capsules has been evaluated in 114 previously treated patients and in 67 previously untreated (“de novo”) patients with APL in one open-label, uncontrolled single investigator clinical study (Memorial Sloan-Kettering Cancer Center [MSKCC]) and in two cohorts of compassionate cases treated by multiple investigators under the auspices of the National Cancer Institute (NCI).
+Patients received tretinoin capsules 22.5 mg/m2 orally twice daily for up to 90 days following the first dose or 30 days following achievement of complete remission.
 Efficacy results are shown Table 2.
 
 Table 2.

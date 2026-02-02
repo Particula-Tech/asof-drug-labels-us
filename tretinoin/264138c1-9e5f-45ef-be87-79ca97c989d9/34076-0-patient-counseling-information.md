@@ -64,15 +64,15 @@ Douglas Manufacturing Limited
 
 Lincoln, Auckland 0610, New Zealand
 
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-November 2024
+June 2025

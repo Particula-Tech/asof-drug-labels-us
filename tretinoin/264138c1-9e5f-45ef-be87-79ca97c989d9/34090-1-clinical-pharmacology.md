@@ -8,20 +8,20 @@ The exact mechanism of action of tretinoin in APL is unknown.
 
 ## 12.2 Pharmacodynamics
 
-The exposure-response relationship and time course of pharmacodynamic response for the safety and effectiveness of tretinoin capsule have not been characterized.
+The exposure-response relationship and time course of pharmacodynamic response for the safety and effectiveness of tretinoin capsules have not been characterized.
 
 ## 12.3 Pharmacokinetics
 
-Following the administration of tretinoin capsule 22.5 mg/m2 orally twice daily, the mean ± SD peak tretinoin concentrations after the first dose was 394 ± 89 and after 1 week of continuous treatment was 138 ± 139 ng/mL, while area under the curve (AUC) after the first dose was 537 ± 191 ng·h/mL and after 1 week of continuous treatment was 249 ± 185 ng·h/mL.
+Following the administration of tretinoin capsules 22.5 mg/m2 orally twice daily, the mean ± SD peak tretinoin concentrations after the first dose was 394 ± 89 and after 1 week of continuous treatment was 138 ± 139 ng/mL, while area under the curve (AUC) after the first dose was 537 ± 191 ng·h/mL and after 1 week of continuous treatment was 249 ± 185 ng·h/mL.
 
 Absorption
 
 Time to reach peak concentration was between 1 and 2 hours.
-The absolute bioavailability of tretinoin capsule was approximately 50%.
+The absolute bioavailability of tretinoin capsules was approximately 50%.
 
 Effect of Food
 
-The effect of food on the absorption of tretinoin capsule has not been characterized.
+The effect of food on the absorption of tretinoin capsules has not been characterized.
 Food increases the absorption of retinoids, as a class.
 
 Distribution

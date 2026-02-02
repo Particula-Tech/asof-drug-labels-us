@@ -1,7 +1,5 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-Click here to enter Use in Specific Populations
-
 ## 8.1 Pregnancy
 
 Risk Summary
@@ -33,40 +31,40 @@ Gross external, soft tissue and skeletal alterations occurred at doses higher th
 ## 8.2 Lactation
 
 There are no data on the presence of tretinoin in human milk, the effects on the breastfeed child or the effects on milk production.
-Because of the potential for serious adverse reactions from tretinoin in breastfed infants, advise women not to breastfed during treatment with tretinoin and for 1 week after the last dose.
+Because of the potential for serious adverse reactions from tretinoin in breastfed infants, advise women not to breastfed during treatment with tretinoin capsules and for 1 week after the last dose.
 
 ## 8.3 Use in Females and Males of Reproductive Potential
 
-Tretinoin capsule can cause embryo-fetal loss and malformations when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Tretinoin capsules can cause embryo-fetal loss and malformations when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 
 Pregnancy Testing
 
-Verify pregnancy status in females of reproductive potential prior to initiating tretinoin capsule.
-Females of reproductive potential must have a negative pregnancy test within 1 week prior to initiating tretinoin capsule with a sensitivity of at least 50 mIU/mL.
+Verify pregnancy status in females of reproductive potential prior to initiating tretinoin capsules.
+Females of reproductive potential must have a negative pregnancy test within 1 week prior to initiating tretinoin capsules with a sensitivity of at least 50 mIU/mL.
 
 Contraception
 
 Females
 
 Advise females of reproductive potential to abstain continuously from sexual intercourse or to use two effective methods of contraception.
-Counsel patients to use two effective methods of contraception during treatment with tretinoin capsule and for 1 month after the last dose.
+Counsel patients to use two effective methods of contraception during treatment with tretinoin capsules and for 1 month after the last dose.
 Two methods of effective contraception is indicated even where there has been a history of infertility, unless due to hysterectomy.
 Refer females of reproductive potential to a qualified provider of contraceptive methods, if needed.
 
 Males
 
-Advise males with female partners of reproductive potential to use effective contraception during and after treatment with tretinoin capsule and for 1 week after the last dose.
+Advise males with female partners of reproductive potential to use effective contraception during and after treatment with tretinoin capsules and for 1 week after the last dose.
 
 Infertility
 
 Males
 
-Based on testicular toxicities observed in dogs, tretinoin capsule may impair male fertility [see Nonclinical Toxicology (13.1)].
+Based on testicular toxicities observed in dogs, tretinoin capsules may impair male fertility [see Nonclinical Toxicology (13.1)].
 The reversibility of effect on fertility is unknown.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of tretinoin capsule has been established in pediatric patients 1 year of age and older and the information on this use is discussed throughout the labeling.
+Safety and effectiveness of tretinoin capsules has been established in pediatric patients 1 year of age and older and the information on this use is discussed throughout the labeling.
 The maximum tolerated dose is lower in pediatric patients compared to adults.
 Some pediatric patients experience severe headache and intracranial hypertension, which required management with an analgesic and a lumbar puncture.
 Dose reduction may be considered for pediatric patients experiencing serious and/or intolerable adverse reactions.
@@ -75,5 +73,5 @@ Safety and effectiveness in pediatric patients less than 1 year of age have not 
 
 ## 8.5 Geriatric Use
 
-Across clinical studies of tretinoin capsule, 21% were 60 years and older.
+Across clinical studies of tretinoin capsules, 21% were 60 years and older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.

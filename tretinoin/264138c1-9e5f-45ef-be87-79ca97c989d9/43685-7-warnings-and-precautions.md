@@ -1,12 +1,10 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-Click here to enter Warnings and Precautions
-
 ## 5.1 Embryo-Fetal Toxicity
 
 Tretinoin capsules can cause embryo-fetal loss and malformations when administered to a pregnant woman.
 Tretinoin capsules are a retinoid and there is an increased risk of major congenital malformations, spontaneous abortions and premature births following exposure to retinoids during pregnancy in humans.
-Tretinoin capsules has teratogenic and embryotoxic effects in mice, rats, hamsters, rabbits and pigtail monkeys at doses less than the human dose on a mg/m2 basis.
+Tretinoin has teratogenic and embryotoxic effects in mice, rats, hamsters, rabbits and pigtail monkeys at doses less than the human dose on a mg/m2 basis.
 
 Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to use 2 effective methods of contraception during treatment with tretinoin capsules and for 1 month following the last dose.
@@ -21,7 +19,7 @@ This syndrome generally occurs during the first month of treatment, as early as 
 Endotracheal intubation and mechanical ventilation were required in some cases due to progressive hypoxemia and several patients have died with multi-organ failure.
 
 At the first signs or symptoms of this syndrome, immediately administer dexamethasone 10 mg intravenously every 12 hours until signs and symptoms have abated for at least 3 days and initiate hemodynamic monitoring until resolution of signs and symptoms.
-Consider withholding tretinoin for moderate and severe differentiation syndrome until resolution [see Adverse Reactions (6.1)].
+Consider withholding tretinoin capsules for moderate and severe differentiation syndrome until resolution [see Adverse Reactions (6.1)].
 
 ## 5.3 Patients Without t(15;17) Translocation or PML/RARα Fusion
 
