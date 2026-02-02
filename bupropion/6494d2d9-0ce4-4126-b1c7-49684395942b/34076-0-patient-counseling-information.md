@@ -61,10 +61,20 @@ APLENZIN can be taken with or without food.
 
 Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
+Manufactured by:
+
+Bausch Health Companies Inc.
+
+Steinbach, MB R5G 1Z7, Canada
 
 APLENZIN is a registered trademark of Bausch Health Companies Inc. or its affiliates.
+
 Wellbutrin XL is a registered trademark of GlaxoSmithKline LLC used under license.
+
 All other product/brand names and/or logos are the trademarks of their respective owners.
 
-U.S. Patent Numbers: 7,241,805; 7,569,610; 7,572,935; 7,585,897; 7,645,802; 7,649,019; 7,662,407 and 7,671,094 © 2025 Bausch Health Companies Inc. or its affiliates 9386812 XXXXXXXX
+U.S. Patent Numbers: 7,241,805; 7,569,610; 7,572,935; 7,585,897; 7,645,802; 7,649,019; 7,662,407 and 7,671,094
+
+© 2025 Bausch Health Companies Inc. or its affiliates
+
+9386812 20006032

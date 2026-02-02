@@ -7,7 +7,9 @@ Pregnancy Exposure Registry
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
 Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 
-Risk Summary Data from epidemiological studies of pregnant women exposed to bupropion in the first trimester have not identified an increased risk of congenital malformations overall (see Data).
+Risk Summary
+
+Data from epidemiological studies of pregnant women exposed to bupropion in the first trimester have not identified an increased risk of congenital malformations overall (see Data).
 There are risks to the mother associated with untreated depression (see Clinical Considerations).
 When bupropion was administered to pregnant rats during organogenesis, there was no evidence of fetal malformations at doses up to approximately 10 times the maximum recommended human dose (MRHD) of 450 mg/day.
 When given to pregnant rabbits during organogenesis, non-dose-related increases in incidence of fetal malformations and skeletal variations were observed at doses approximately equal to the MRHD and greater.
