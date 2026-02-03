@@ -2,7 +2,11 @@
 
 Rosuvastatin Tablets USP are supplied as: 5 mg:Light yellow to yellow, round, bevel edged biconvex film coated tablets, debossed with ‘H’ on one side and ‘R3’ on the other side.
 They are supplied as follows.
-Bottle of 90 Tablets NDC 31722-882-90 Blister pack of 100 (10×10) Unit dose tablets NDC 31722-882-31 10 mg:Light pink to pink, round, bevel edged biconvex film coated tablets, debossed with ‘H’ on one side and ‘R4’ on the other side.
+Bottle of 90 Tablets NDC 31722-882-90
+
+Bottle of 500 Tablets NDC 31722-882-05
+
+Bottle of 1000 Tablets NDC 31722-882-10 Blister pack of 100 (10×10) Unit dose tablets NDC 31722-882-31 10 mg:Light pink to pink, round, bevel edged biconvex film coated tablets, debossed with ‘H’ on one side and ‘R4’ on the other side.
 They are supplied as follows.
 Bottle of 90 Tablets NDC 31722-883-90 Blister pack of 100 (10×10) Unit dose tablets NDC 31722-883-31 20 mg:Light pink to pink, round, bevel edged biconvex film coated tablets, debossed with ‘H’ on one side and ‘R5’ on the other side.
 They are supplied as follows.

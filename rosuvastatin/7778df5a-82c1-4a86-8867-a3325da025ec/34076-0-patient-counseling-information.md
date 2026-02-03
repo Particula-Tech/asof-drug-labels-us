@@ -22,4 +22,4 @@ or
 
 By: HETEROTM Plot No. 28P1 to 36P1 & 37 to 54, Vemagal Industrial Area, Hobli Vemagal, Kolar, Karnataka - 563102, India.
 
-Revised: 01/2025
+Revised: 12/2025
