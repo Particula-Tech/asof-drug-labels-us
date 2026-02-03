@@ -225,3 +225,5 @@ Hematologic Disorders: Secondary acute myelogenous leukemia
 Skin and Subcutaneous Tissue Disorders: erythema multiforme, Stevens‑Johnson syndrome, toxic epidermal necrolysis, lichenoid keratosis
 
 Secondary Oral Neoplasms: [see Warnings and Precautions (5.4)].
+
+Renal and urinary disorders: Cases of Renal-limited thrombotic microangiopathy have been reported in patients with high cumulative exposure to DOXIL liposomal infusion.
