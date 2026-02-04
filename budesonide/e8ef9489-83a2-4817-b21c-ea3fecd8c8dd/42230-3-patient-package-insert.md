@@ -234,11 +234,19 @@ Throw away the empty ampule.
 5.
 Use your jet nebulizer as directed.
 
-Manufactured by: Catalent Pharma Solutions Woodstock, IL 60098 USA
+Manufactured by:
 
-Manufactured for: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
+Woodstock Sterile Solutions
+
+Woodstock, IL 60098 USA
+
+Manufactured for:
+
+Amneal Pharmaceuticals LLC
+
+Bridgewater, NJ 08807
 
 Product of Spain
 
 Rev.
-09-2019-01
+12-2024-01

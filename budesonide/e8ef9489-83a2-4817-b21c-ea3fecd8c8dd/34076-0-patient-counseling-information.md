@@ -67,9 +67,19 @@ If symptoms do not improve in that time frame or if the condition worsens, patie
 
 See accompanying Patient Information and Instructions for Use.
 
-Manufactured by: Catalent Pharma Solutions Woodstock, IL 60098 USA Manufactured for: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
+Manufactured by:
+
+Woodstock SterileSolutions
+
+Woodstock, IL 60098 USA
+
+Manufactured for:
+
+Amneal Pharmaceuticals LLC
+
+Bridgewater, NJ 08807
 
 Product of Spain
 
 Rev.
-09-2019-01
+12-2024-01
