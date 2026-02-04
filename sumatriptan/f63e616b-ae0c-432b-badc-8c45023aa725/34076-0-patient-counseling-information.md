@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Risk of Myocardial Ischemia and/or Infarction, Prinzmetal’s Angina, Other Vasospasm-Related Events, Arrhythmias, and Cerebrovascular Events
 
@@ -11,7 +11,7 @@ Apprise patients of the importance of this follow-up [see Warnings and Precautio
 Anaphylactic/Anaphylactoid Reactions
 
 Inform patients that anaphylactic/anaphylactoid reactions have occurred in patients receiving Sumatriptan Nasal Spray.
-Such reactions can be life threatening or fatal.
+Such reactions can be life-threatening or fatal.
 In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens [see Contraindications (4), Warnings and Precautions (5.10)].
 
 Concomitant Use with Other Triptans or Ergot Medications
@@ -32,7 +32,8 @@ Advise patients to notify their healthcare provider if they become pregnant duri
 
 Lactation
 
-Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
+Advise breastfeeding women that they may develop transient breast pain when taking sumatriptan.
+Advise breastfeeding women that avoiding breastfeeding for 12 hours after treatment with sumatriptan can minimize their infant’s exposure to sumatriptan [see Use in Specific Populations (8.2)].
 
 Ability to Perform Complex Tasks
 
@@ -59,4 +60,4 @@ Prasco Laboratories
 
 Mason, OH 45040 USA
 
-SNS-PS:2PI
+SNS-PS:3PI

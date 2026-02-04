@@ -13,7 +13,7 @@ Patients received doses as a single spray into 1 nostril.
 In 2 trials, a 5-mg dose was also evaluated.
 
 In all 5 trials utilizing the market formulation and recommended dosage regimen, the percentage of patients achieving headache response 2 hours after treatment was significantly greater among patients receiving Sumatriptan Nasal Spray at all doses (with one exception) compared with those who received placebo.
-In 4 of the 5 trials, there was a statistically significant greater percentage of patients with headache response at 2 hours in the 20-mg group when compared with the lower dose groups (5 and 10 mg).
+In 4 of the 5 trials, there was a statistically significant greater percentage of patients with headache response at 2 hours in the 20-mg group when compared with the lower-dose groups (5 and 10 mg).
 There were no statistically significant differences between the 5- and 10-mg dose groups in any trial.
 The results from the 5 controlled clinical trials are summarized in Table 2.
 Note that, in general, comparisons of results obtained in trials conducted under different conditions by different investigators with different samples of patients are ordinarily unreliable for purposes of quantitative comparison.
