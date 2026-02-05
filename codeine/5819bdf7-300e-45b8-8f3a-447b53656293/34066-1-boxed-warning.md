@@ -1,6 +1,6 @@
 # WARNING: SERIOUS AND LIFE-THREATENING RISKS FROM USE OF CODEINE SULFATE TABLETS
 
-Addiction, Abuse, and MIsuse
+Addiction, Abuse, and Misuse
 
 Because the use of codeine sulfate tablets exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient’s risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1), Dosage and Administration (2.1)].
 
@@ -16,18 +16,18 @@ Accidental ingestion of even one dose of codeine sulfate tablets, especially by 
 Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 
 Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
-Reserve concomitant prescribing of codeine sulfate tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate [seeWarnings and Precautions (5.3), Drug Interactions (7)].
+Reserve concomitant prescribing of codeine sulfate tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Neonatal Opioid Withdrawal Syndrome (NOWS)
 
-If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
+Advise pregnant women using opioids for an extended period of time of the risk of Neonatal Opioid Withdrawal Syndrome, which may be life-threatening if not recognized and treated.
 Ensure that management by neonatology experts will be available at delivery [see Warnings and Precautions (5.4)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
 Healthcare providers are strongly encouraged to complete a REMS-compliant education program and to counsel patients and caregivers on serious risks, safe use, and the importance of reading the Medication Guide with each prescription [see Warnings and Precautions (5.5)].
 
-Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression inChildren
+Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children
 
 Life-threatening respiratory depression and death have occurred in children who received codeine.
 Most of the reported cases occurred following tonsillectomy and/or adenoidectomy, and many of the children had evidence of being an ultra-rapid metabolizer of codeine due to a CYP2D6 polymorphism [see Warnings and Precautions (5.6)].
