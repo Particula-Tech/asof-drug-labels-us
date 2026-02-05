@@ -6,4 +6,4 @@ Distributed by: Alvogen, Inc. Morristown, NJ 07960 USA
 
 To request medical information or to report suspected adverse reactions, contact Alvogen, Inc. at 1-866-770-3024.
 
-Revised: 02/2025 PI263-09
+Revised: 001/2026 PI263-10
