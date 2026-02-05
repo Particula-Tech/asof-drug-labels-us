@@ -1,3 +1,3 @@
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0980-5.0
+LAB-0980-6.0

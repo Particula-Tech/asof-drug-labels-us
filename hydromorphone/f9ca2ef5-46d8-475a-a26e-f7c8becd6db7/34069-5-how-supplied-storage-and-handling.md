@@ -16,7 +16,6 @@ Hydromorphone Hydrochloride Injection is supplied as a sterile solution in singl
 | NDC 0409-4264-01 Clamshell of 10 0.5 mL fill in 1.5 mL NexJect™ Single-dose Prefilled Syringe with Luer Lock | 0.5 mg/0.5 mL |
 | NDC 0409-1283-37 Clamshell of 10 1 mL fill in 1.5 mL NexJect™ Single-dose Prefilled Syringe with Luer Lock | 1 mg/mL |
 | NDC 0409-1312-36 Clamshell of 10 1 mL fill in 1.5 mL NexJect™ Single-dose Prefilled Syringe with Luer Lock | 2 mg/mL |
-| NDC 0409-1380-01 Clamshell of 10 1 mL fill in 1.5 mL NexJect™ Single-dose Prefilled Syringe with Luer Lock | 4 mg/mL |
 
 Note that a needle is not included.
 
