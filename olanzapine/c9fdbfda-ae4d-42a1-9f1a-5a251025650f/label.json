@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021086"
+  ],
+  "inn": "olanzapine",
+  "labeler": "Fidelio Healthcare Limburg GmbH",
+  "package_ndcs": [
+    "87383-002-00"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "olanzapine",
+      "name": "ZYPREXA"
+    }
+  ],
+  "setid": "c9fdbfda-ae4d-42a1-9f1a-5a251025650f",
+  "source": "dailymed"
+}
