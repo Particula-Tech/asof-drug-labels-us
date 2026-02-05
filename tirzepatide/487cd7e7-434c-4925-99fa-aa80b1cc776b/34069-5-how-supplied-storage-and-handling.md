@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-ZEPBOUND (tirzepatide) is a clear, colorless to slightly yellow solution available in cartons containing 4 pre-filled single-dose pens, 1 single-dose vial, 4 single-dose vials, or 1 multi-dose vial as follows:
+ZEPBOUND (tirzepatide) is a clear, colorless to slightly yellow solution available in cartons containing 4 pre-filled single-dose pens, 1 single-dose vial, 4 single-dose vials, 1 multi-dose vial, or 1 single-patient-use KwikPen as follows:
 
 | Single-Dose Vial and Prefilled Pen |  |  |  |
 | --- | --- | --- | --- |
@@ -24,10 +24,21 @@ ZEPBOUND (tirzepatide) is a clear, colorless to slightly yellow solution availab
 | 4 doses of 12.5 mg/0.6 mL | 50 mg/2.4 mL (20.8 mg/mL) | 0002-6523-11 |
 | 4 doses of 15 mg/0.6 mL | 60 mg/2.4 mL (25 mg/mL) | 0002-6612-11 |
 
+| Single-Patient-Use KwikPen (with four weekly doses) |  |  |
+| --- | --- | --- |
+| Doses per KwikPen | Strength | 1 pack Single-Patient-Use KwikPen NDC |
+| 4 doses of 2.5 mg | 10 mg/2.4 mL (4.17 mg/mL) | 0002-3566-11 |
+| 4 doses of 5 mg | 20 mg/2.4 mL (8.33 mg/mL) | 0002-3555-11 |
+| 4 doses of 7.5 mg | 30 mg/2.4 mL (12.5 mg/mL) | 0002-3544-11 |
+| 4 doses of 10 mg | 40 mg/2.4 mL (16.7 mg/mL) | 0002-3533-11 |
+| 4 doses of 12.5 mg | 50 mg/2.4 mL (20.8 mg/mL) | 0002-3522-11 |
+| 4 doses of 15 mg | 60 mg/2.4 mL (25 mg/mL) | 0002-3511-11 |
+
 ## 16.2 Storage and Handling
 
 - Do not freeze ZEPBOUND.
   Do not use ZEPBOUND if frozen.
+- Protect ZEPBOUND from heat and light.
 - Store ZEPBOUND in the original carton to protect from light.
 
 ZEPBOUND Single-dose Pen and Single-dose Vial
@@ -37,15 +48,15 @@ ZEPBOUND Single-dose Pen and Single-dose Vial
   If single-dose pen or single-dose vial is stored at room temperature, it should not be returned to the refrigerator.
 - Discard single-dose pen and single-dose vial if not used within 21 days after removing from the refrigerator.
 
-ZEPBOUND Multi-dose Vial
+ZEPBOUND Multi-dose Vial or Single-Patient-Use KwikPen
 
-Unopened vial:
+Unopened vial or single-patient-use KwikPen:
 
-- Store unopened vial in the refrigerator at 2°C to 8°C (36°F to 46°F).
-  The unopened vial can be used until the expiration date on the label if kept in the refrigerator.
-- If stored at room temperature [up to 30°C (86°F)], throw away unopened vial after 30 days.
+- Store unopened multi-dose vial or single-patient-use KwikPen in the refrigerator at 2°C to 8°C (36°F to 46°F).
+  The unopened multi-dose vial or single-patient-use KwikPen can be used until the expiration date on the label if kept in the refrigerator.
+- If stored at room temperature [up to 30°C (86°F)], throw away unopened multi-dose vial or single-patient-use KwikPen after 30 days.
 
-After vial has been opened:
+After vial or single-patient-use KwikPen has been opened:
 
-- Store opened (in-use) vial in the original carton in the refrigerator at 2°C to 8°C (36°F to 46°F) or at room temperature [up to 30°C (86°F)].
-- Throw away opened vial after a total of 30 days at room temperature, 30 days after first use, or after taking 4 weekly doses, even if there is medication left in it.
+- Store opened (in-use) multi-dose vial or single-patient-use KwikPen in the original carton in the refrigerator at 2°C to 8°C (36°F to 46°F) or at room temperature [up to 30°C (86°F)].
+- Throw away opened multi-dose vial or single-patient-use KwikPen after a total of 30 days at room temperature, 30 days after first use, or after taking 4 weekly doses, even if there is medicine left in it.

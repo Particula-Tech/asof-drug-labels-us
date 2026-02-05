@@ -12,5 +12,5 @@ Caution should be exercised when oral medications are concomitantly administered
 
 Monitor patients on oral medications dependent on threshold concentrations for efficacy and those with a narrow therapeutic index (e.g., warfarin) when concomitantly administered with ZEPBOUND.
 
-Advise patients using oral hormonal contraceptives to switch to a non-oral contraceptive method, or add a barrier method of contraception, for 4 weeks after initiation with ZEPBOUND and for 4 weeks after each dose escalation.
+Advise patients using oral hormonal contraceptives to switch to a non-oral contraceptive method, or add a barrier method of contraception for 4 weeks after initiation with ZEPBOUND and for 4 weeks after each dose escalation.
 Hormonal contraceptives that are not administered orally should not be affected [see Use in Specific Populations (8.3) and Clinical Pharmacology (12.2, 12.3)].

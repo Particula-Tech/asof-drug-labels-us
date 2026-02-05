@@ -35,8 +35,11 @@ The maximum dosage of ZEPBOUND for all indications is 15 mg injected subcutaneou
 
 ## 2.4 Important Administration Instructions
 
-- Prior to initiation of ZEPBOUND, train patients and caregivers on proper injection technique.
-  Refer to the accompanying Instructions for Use for complete administration instructions with illustrations.
+- Inform patients and their caregiver(s) which ZEPBOUND presentation (e.g., vial, prefilled single-dose pen, single-patient-use KwikPen) they will receive and ensure they receive training appropriate for that specific presentation.
+  If the prescribed ZEPBOUND presentation changes, ensure patients and caregivers receive appropriate training and instruct them to consult the Instructions for Use for the newly prescribed presentation.
+- Prior to initiation, train patients and their caregiver(s) on proper injection technique for the prescribed ZEPBOUND presentation [see Instructions for Use].
+  After training, a patient may self-inject ZEPBOUND if the healthcare provider determines that it can be properly administered, except for the following:
+  - ZEPBOUND KwikPen is not recommended for self-administration by those who are visually impaired.
 - Instruct patients using ZEPBOUND vials to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL or 0.6 mL dose) and always use a new syringe and needle for each injection.
 - Inspect ZEPBOUND visually before use.
   It should appear clear and colorless to slightly yellow.
