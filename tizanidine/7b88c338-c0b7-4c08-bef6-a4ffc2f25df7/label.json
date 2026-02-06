@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA216190"
+  ],
+  "inn": "tizanidine",
+  "labeler": "Rosemont Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "69528-310-16"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tizanidine hydrochloride",
+      "name": "Ontralfy"
+    }
+  ],
+  "setid": "7b88c338-c0b7-4c08-bef6-a4ffc2f25df7",
+  "source": "dailymed"
+}
