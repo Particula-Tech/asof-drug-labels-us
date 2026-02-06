@@ -8,7 +8,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Tablets
 
-Each tablet contains 2 mg of diazepam, USP.
+Each tablet contains: Diazepam, USP 2 mg
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -28,7 +28,7 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 
 Keep container tightly closed.
 
-Code No.: MH/DRUGS/AS/089
+Code No.: MH/DRUGS/AD/089
 
 RMXA0271A1
 
@@ -42,7 +42,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Tablets
 
-Each tablet contains 5 mg of diazepam, USP.
+Each tablet contains: Diazepam, USP 5 mg
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -62,7 +62,7 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 
 Keep container tightly closed.
 
-Code No.: MH/DRUGS/AS/089
+Code No.: MH/DRUGS/AD/089
 
 RMXA0345A1
 
@@ -76,7 +76,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Tablets
 
-Each tablet contains 10 mg of diazepam, USP.
+Each tablet contains: Diazepam, USP 10 mg
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -96,6 +96,6 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 
 Keep container tightly closed.
 
-Code No.: MH/DRUGS/AS/089
+Code No.: MH/DRUGS/AD/089
 
 RMXA0477A1
