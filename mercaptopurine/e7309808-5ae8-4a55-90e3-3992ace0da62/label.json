@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA009053"
+  ],
+  "inn": "mercaptopurine",
+  "labeler": "Florida Pharmaceutical Products, LLC",
+  "package_ndcs": [
+    "71921-150-02",
+    "71921-150-25"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "mercaptopurine",
+      "name": "Mercaptopurine"
+    }
+  ],
+  "setid": "e7309808-5ae8-4a55-90e3-3992ace0da62",
+  "source": "dailymed"
+}
