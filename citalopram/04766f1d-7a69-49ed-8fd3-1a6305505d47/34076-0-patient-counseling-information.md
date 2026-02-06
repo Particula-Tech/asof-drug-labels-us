@@ -45,13 +45,11 @@ Lactation
 
 Advise breastfeeding women to monitor infants for excess sedation, restlessness, agitation, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
-Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
-
 Manufactured by:
 
 Torrent Pharmaceuticals LTD., India.
 
-8098289 Revised: September 2024
+8100994 Revised: December 2025
 
 or
 
@@ -59,7 +57,7 @@ Manufactured by:
 
 Piramal Pharma Limited, Pithampur - 454775, India.
 
-8098290 Revised: September 2024
+8101019 Revised: December 2025
 
 Manufactured for:
 
