@@ -1,12 +1,12 @@
 # HOW SUPPLIED
 
-Nifedipine Extended-Release Tablets, USP are supplied as 90 mg unscored, round film-coated tablets as follows:
+Nifedipine Extended-Release Tablets, USP, are supplied as 90 mg unscored, round, film-coated tablets as follows:
 
 | Strength | Color | Markings |
 | --- | --- | --- |
 | 90 mg | Yellow | 90 mg unscored, round, film-coated tablets, engraved with "B" on one side and "90" on the other side. |
 
-Nifedipine Extended-Release Tablets, USP are supplied in:
+Nifedipine Extended-Release Tablets, USP, are supplied in:
 
 | Strength | Quantity | NDC Number |
 | --- | --- | --- |
@@ -23,9 +23,9 @@ Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC B
 
 Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
 
-© 2019 Bausch Health Companies Inc. or its affiliates
+© 2025 Bausch Health Companies Inc. or its affiliates
 
-9495504 20002765
+9495505 20005972
 
 Rev.
-10/2019
+12/2025

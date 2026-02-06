@@ -1,5 +1,3 @@
-Rx only
-
 For Oral Use
 
 # Patients with Galactose Intolerance
