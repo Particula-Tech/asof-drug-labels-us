@@ -10,7 +10,7 @@ It has a bitter taste and produces the sensation of local anesthesia on the oral
 The structural formula is:
 
 Wellbutrin XL tablets are supplied for oral administration as 150 mg and 300 mg creamy-white to pale yellow extended-release tablets.
-Each tablet contains the labeled amount of bupropion hydrochloride and the inactive ingredients: ethylcellulose, glyceryl behenate, methacrylic acid copolymer dispersion, polyvinyl alcohol, polyethylene glycol, povidone, silicon dioxide, and triethyl citrate.
+Each tablet contains the labeled amount of bupropion hydrochloride and the inactive ingredients: ethylcellulose, glyceryl dibehenate, methacrylic acid copolymer dispersion, polyvinyl alcohol, polyethylene glycol, povidone, silicon dioxide, and triethyl citrate.
 The tablets are printed with edible black ink.
 
 The insoluble shell of the extended-release tablet may remain intact during gastrointestinal transit and is eliminated in the feces.
