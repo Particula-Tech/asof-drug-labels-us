@@ -21,8 +21,9 @@ Alendronate Sodium Oral Solution can cause serious side effects including:
 2. Low calcium levels in your blood (hypocalcemia)
 3. Bone, joint, or muscle pain
 4. Severe jaw bone problems (osteonecrosis)
-5. Unusual thigh bone fractures
+5. Unusual breaks in thigh and other bone
 
+1.
 Esophagus problems.
 
 Some people who take Alendronate Sodium Oral Solution may develop problems in the esophagus (the tube that connects the mouth and the stomach).
@@ -32,6 +33,7 @@ These problems include irritation, inflammation, or ulcers of the esophagus whic
   (See the section "How should I takeonce weekly Alendronate Sodium Oral Solution sodium oral solution?")
 - Stop taking Alendronate Sodium Oral Solution and call your doctor right away if you get chest pain, new or worsening heartburn, or have trouble or pain when you swallow.
 
+2.
 Low calcium levels in your blood (hypocalcemia).
 
 Alendronate Sodium Oral Solution may lower the calcium levels in your blood.
@@ -46,10 +48,12 @@ Call your doctor right away if you have symptoms of low blood calcium such as:
 Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood, while you take alendronate.
 Take calcium and vitamin D as your doctor tells you to.
 
+3.
 Bone, joint, or muscle pain.
 
 Some people who take Alendronate Sodium Oral Solution develop severe bone, joint, or muscle pain.
 
+4.
 Severe jaw bone problems (osteonecrosis).
 
 Severe jaw bone problems may happen when you take Alendronate Sodium Oral Solution.
@@ -57,10 +61,12 @@ Your doctor should examine your mouth before you start Alendronate Sodium Oral S
 Your doctor may tell you to see your dentist before you start Alendronate Sodium Oral Solution.
 It is important for you to practice good mouth care during treatment with Alendronate Sodium Oral Solution.
 
-Unusual thigh bone fractures.
+5.
+Unusual breaks in thigh and other bones.
 
-Some people have developed unusual fractures in their thigh bone.
-Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
+Some people have had unusual bone breaks, including thigh bone, when taking Alendronate Sodium Oral Solution.
+A break in the thigh bone can feel like a new pain in your hip, groin, or thigh.
+People taking Alendronate Sodium Oral Solution can also have breaks in other bones.
 
 Call your doctor right away if you have any of these side effects.
 
@@ -201,6 +207,6 @@ Novitium Pharma LLC
 
 New Jersey 08520
 
-Issued: 10/2022
+Issued: 01/2026
 
-LB4226-01
+LB4226-02

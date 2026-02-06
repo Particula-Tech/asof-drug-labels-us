@@ -36,6 +36,6 @@ Novitium Pharma LLC
 
 New Jersey 08520
 
-Issued: 10/2022
+Issued: 01/2026
 
-LB4226-01
+LB4226-02
