@@ -1,31 +1,41 @@
-Principal Display Panel - Carton
+# PRINCIPAL DISPLAY PANEL - 8g Carton
 
 NDC 78206-189-01
 
-XACIATO™ (clindamycin phosphate) vaginal gel, 2%
+XACIATO® (clindamycin phosphate) vaginal gel 2%
 
-FOR INTRAVAGINAL USE ONLY.
-Not for Ophthalmic, Dermal, or Oral Use.
-Keep out of the reach of children.
+- 8g tube with one (1) 5g applicator
+- Single-dose container
+- Discard unused portion
 
-8 g tube with one (1) 5 g applicator Single-dose container.
-Discard unused portion.
+FOR INTRAVAGINAL USE ONLY
 
-Recommended Dosage: See prescribing information.
-Administration: See Instructions for Use.
+Not for ophthalmic, dermal, or oral use
+
+Keep out of reach of children
+
+RECOMMENDED DOSAGE: See Prescribing Information ADMINISTRATION: See Instructions for Use
 
 Rx Only
 
-NET WT 8 grams
+Net Wt.
+8 grams
 
-Principal Display Panel - 8g Tube
+Delivering 5 grams
 
-XACIATO™ (clindamycin phosphate) vaginal gel, 2%
+# PRINCIPAL DISPLAY PANEL - 8g Tube
 
-NDC 78206-189-99
+NDC 78206-189-01
 
-FOR INTRAVAGINAL USE ONLY.
-Not for Ophthalmic, Dermal, or Oral Use.
-Keep out of reach of children.
+XACIATO® (clindamycin phosphate) vaginal gel 2%
 
-Rx Only NET WT 8 grams
+FOR INTRAVAGINAL USE ONLY
+
+Not for ophthalmic, dermal, or oral use
+
+Keep out of reach of children
+
+Net Wt.
+8 grams
+
+Rx Only

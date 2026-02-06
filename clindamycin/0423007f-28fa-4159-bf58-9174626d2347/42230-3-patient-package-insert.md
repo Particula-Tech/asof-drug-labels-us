@@ -1,4 +1,4 @@
-| PATIENT INFORMATIONXACIATO™ (zah-she-AH-toe)(clindamycin phosphate)vaginal gel |
+| PATIENT INFORMATIONXACIATO® (zah-she-AH-toe)(clindamycin phosphate)vaginal gel |
 | --- |
 | Important Information: XACIATO is for intravaginal use only. Do not use in the eyes, mouth, or on your skin. |
 | What is XACIATO? XACIATO vaginal gel is a prescription medicine used to treat bacterial vaginal infections in females 12 years of age and older.It is not known if XACIATO is safe and effective in children under 12 years of age. |
@@ -9,8 +9,8 @@
 | What are the possible side effects of XACIATO?XACIATO may cause serious side effects, including diarrhea. One type of diarrhea is caused by an infection in your intestines called Clostridioides difficile-associated diarrhea (CDAD), which may range in severity from mild diarrhea to colitis that can lead to death. If you have diarrhea after you use XACIATO, call your healthcare provider.The most common side effects of XACIATO include: Yeast infection in your vagina that may require treatment with an antifungal medicine.Vaginal discomfort including itching, burning, redness and dryness. Tell your healthcare provider if you have any side effect that bothers you or that does not go away. These are not all the possible side effects of XACIATO. For more information, ask your healthcare provider or pharmacist. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
 | How should I store XACIATO? Store XACIATO at room temperature between 68ºF and 77ºF (20ºC to 25ºC). Keep XACIATO and all medicines out of the reach of children. |
 | General information about the safe and effective use of XACIATO.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use XACIATO for a condition for which it was not prescribed. Do not give XACIATO to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about XACIATO that is written for health professionals. |
-| What are the ingredients in XACIATO?Active ingredient: clindamycin phosphateInactive ingredients: benzyl alcohol, citric acid monohydrate, poloxamer 407, purified water, sodium citrate dihydrate and xanthan gum. |
-| Distributed by: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USAFor patent information: www.organon.com/our-solutions/patent/ © 2023 Organon group of companies. All rights reserved. For more information, go to www.xaciato.com or call 1-844-674-3200 usppi-og9423-gl-2312r000 |
+| What are the ingredients in XACIATO?Active ingredient: clindamycin phosphateInactive ingredients: benzyl alcohol, citric acid monohydrate or citric acid anhydrous, poloxamer 407, purified water, sodium citrate dihydrate and xanthan gum. |
+| Distributed by: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USAFor patent information: www.organon.com/our-solutions/patent/ © 2025 Organon group of companies. All rights reserved. For more information, go to www.xaciato.com or call 1-844-674-3200 usppi-og9423-gl-2512r001 |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 12/2023
+Revised: 12/2025

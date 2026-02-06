@@ -1,11 +1,11 @@
 INSTRUCTIONS FOR USE
 
-XACIATO™ [zah-she-AH-toe] (clindamycin phosphate vaginal gel 2%)
+XACIATO® [zah-she-AH-toe] (clindamycin phosphate vaginal gel 2%)
 
 For vaginal use only.
 Do not use in the eyes or mouth, or on your skin.
 
-Read these Instructions for Use before you use XACIATO™ and each time you get a refill as there may be new information.
+Read these Instructions for Use before you use XACIATO® and each time you get a refill as there may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
 Important Information
@@ -40,9 +40,9 @@ Store XACIATO gel and all medicines out of the reach of children.
 
 Distributed by: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA
 
-For patent information: www.organon.com/our-solutions/patent/ © 2023 Organon group of companies.
+For patent information: www.organon.com/our-solutions/patent/ © 2025 Organon group of companies.
 All rights reserved.
-For more information, go to www.xaciato.com or call 1-844-674-3200 usifu-og9423-gl-2312r000
+For more information, go to www.xaciato.com or call 1-844-674-3200 usifu-og9423-gl-2512r001
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 12/2023
+Revised: 12/2025

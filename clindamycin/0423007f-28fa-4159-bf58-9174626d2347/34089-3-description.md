@@ -7,4 +7,4 @@ The structural formula is represented below:
 
 XACIATO is a clear, colorless, viscous gel, which contains clindamycin at a concentration of 2%.
 A single-dose user-filled disposable applicator delivers 5 g of vaginal gel containing 100 mg of clindamycin (present as 119 mg of clindamycin phosphate).
-The gel also contains benzyl alcohol, citric acid monohydrate, poloxamer 407, purified water, sodium citrate dihydrate, and xanthan gum.
+The gel also contains benzyl alcohol, citric acid monohydrate or citric acid anhydrous, poloxamer 407, purified water, sodium citrate dihydrate, and xanthan gum.
