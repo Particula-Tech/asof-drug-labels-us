@@ -36,7 +36,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Codeine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Aspirin can produce gastrointestinal injury (lesions, ulcers) through a mechanism that is not yet completely understood, but may involve a reduction in eicosanoid synthesis by the gastric mucosa.
 Decreased production of prostaglandins may compromise the defenses of the gastric mucosa and the activity of substances involved in tissue repair and ulcer healing.
