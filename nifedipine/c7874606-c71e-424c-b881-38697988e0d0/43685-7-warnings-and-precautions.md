@@ -3,11 +3,11 @@
 ## Excessive Hypotension
 
 Although in most angina patients the hypotensive effect of nifedipine is modest and well tolerated, occasional patients have had excessive and poorly tolerated hypotension.
-These responses have usually occurred during initial titration or at the time of subsequent upward dosage adjustment, and may be more likely in patients on concomitant beta-blockers.
+These responses have usually occurred during initial titration or at the time of subsequent upward dosage adjustment, and may be more likely in patients on concomitant beta blockers.
 
-Severe hypotension and/or increased fluid volume requirements have been reported in patients receiving nifedipine together with a beta-blocking agent who underwent coronary artery bypass surgery using high-dose fentanyl anesthesia.
-The interaction with high-dose fentanyl appears to be due to the combination of nifedipine and a beta-blocker, but the possibility that it may occur with nifedipine alone, with low doses of fentanyl, in other surgical procedures, or with other narcotic analgesics cannot be ruled out.
-In nifedipine-treated patients where surgery using high-dose fentanyl anesthesia is contemplated, the physician should be aware of these potential problems and if the patient’s condition permits, sufficient time (at least 36 hours) should be allowed for nifedipine to be washed out of the body prior to surgery.
+Severe hypotension and/or increased fluid volume requirements have been reported in patients receiving nifedipine together with a beta blocking agent who underwent coronary artery bypass surgery using high dose fentanyl anesthesia.
+The interaction with high-dose fentanyl appears to be due to the combination of nifedipine and a beta blocker, but the possibility that it may occur with nifedipine alone, with low doses of fentanyl, in other surgical procedures, or with other narcotic analgesics cannot be ruled out.
+In nifedipine-treated patients where surgery using high dose fentanyl anesthesia is contemplated, the physician should be aware of these potential problems and, if the patient’s condition permits, sufficient time (at least 36 hours) should be allowed for nifedipine to be washed out of the body prior to surgery.
 
 The following information should be taken into account in those patients who are being treated for hypertension as well as angina:
 
@@ -16,15 +16,15 @@ The following information should be taken into account in those patients who are
 Rarely, patients, particularly those who have severe obstructive coronary artery disease, have developed well documented increased frequency, duration and/or severity of angina or acute myocardial infarction on starting nifedipine or at the time of dosage increase.
 The mechanism of this effect is not established.
 
-### Beta-Blocker Withdrawal
+### Beta Blocker Withdrawal
 
-It is important to taper beta-blockers if possible, rather than stopping them abruptly before beginning nifedipine.
-Patients recently withdrawn from beta-blockers may develop a withdrawal syndrome with increased angina, probably related to increased sensitivity to catecholamines.
+It is important to taper beta blockers if possible, rather than stopping them abruptly before beginning nifedipine.
+Patients recently withdrawn from beta blockers may develop a withdrawal syndrome with increased angina, probably related to increased sensitivity to catecholamines.
 Initiation of nifedipine treatment will not prevent this occurrence and on occasion has been reported to increase it.
 
 ### Congestive Heart Failure
 
-Rarely, patients, usually receiving a beta-blocker, have developed heart failure after beginning nifedipine.
+Rarely, patients, usually receiving a beta blocker, have developed heart failure after beginning nifedipine.
 Patients with tight aortic stenosis may be at greater risk for such an event, as the unloading effect of nifedipine would be expected to be of less benefit, owing to the fixed impedance to flow across the aortic valve in these patients.
 
 ### Gastrointestinal Obstruction Requiring Surgery
@@ -34,7 +34,7 @@ Bezoars can occur in very rare cases and may require surgical intervention.
 
 Cases of serious gastrointestinal obstruction have been identified in patients with no known gastrointestinal disease, including the need for hospitalization and surgical intervention.
 
-Risk factors for gastrointestinal obstruction identified from post-marketing reports of nifedipine extended-release tablets include alteration in gastrointestinal anatomy (e.g., severe gastrointestinal narrowing, colon cancer, small bowel obstruction, bowel resection, gastric bypass, vertical banded gastroplasty, colostomy, diverticulitis, diverticulosis, and inflammatory bowel disease), hypomotility disorders (e.g., constipation, gastroesophageal reflux disease, ileus, obesity, hypothyroidism, and diabetes) and concomitant medications (e.g., H2-histamine blockers, opiates, nonsteroidal anti-inflammatory drugs, laxatives, anticholinergic agents, levothyroxine, and neuromuscular blocking agents).
+Risk factors for a gastrointestinal obstruction identified from post-marketing reports of nifedipine extended-release tablets include alteration in gastrointestinal anatomy (e.g., severe gastrointestinal narrowing, colon cancer, small bowel obstruction, bowel resection, gastric bypass, vertical banded gastroplasty, colostomy, diverticulitis, diverticulosis, and inflammatory bowel disease), hypomotility disorders (e.g., constipation, gastroesophageal reflux disease, ileus, obesity, hypothyroidism, and diabetes) and concomitant medications (e.g., H2-histamine blockers, opiates, nonsteroidal anti-inflammatory drugs, laxatives, anticholinergic agents, levothyroxine, and neuromuscular blocking agents).
 
 ### Gastrointestinal Ulcers
 
@@ -58,6 +58,10 @@ With patients whose angina or hypertension is complicated by congestive heart fa
 Nifedipine extended-release tablets should be swallowed whole.
 Do not chew, divide or crush tablets.
 
+Do not be concerned if you occasionally notice in your stool something that looks like a tablet.
+In Nifedipine Extended-Release Tablets, USP, the medication is contained within a nonabsorbable shell that has been specially designed to slowly release the drug for your body to absorb.
+When this process is completed, the empty tablet is eliminated from your body.
+
 ## Laboratory Tests:
 
 Rare, usually transient, but occasionally significant elevations of enzymes such as alkaline phosphatase, CPK, LDH, SGOT and SGPT have been noted.
@@ -74,19 +78,19 @@ Limited clinical studies have demonstrated a moderate but statistically signific
 This is thought to be a function of inhibition of calcium transport across the platelet membrane.
 No clinical significance for these findings has been demonstrated.
 
-Positive direct Coombs test, with/without hemolytic anemia, has been reported, but a causal relationship between nifedipine administration and positivity of this laboratory test, including hemolysis, could not be determined.
+Positive direct Coombs test with/without hemolytic anemia has been reported, but a causal relationship between nifedipine administration and positivity of this laboratory test, including hemolysis, could not be determined.
 
-Although nifedipine has been used safely in patients with renal dysfunction and has been reported to exert a beneficial effect in certain cases, rare, reversible elevations in BUN and serum creatinine have been reported in patients with preexisting chronic renal insufficiency.
+Although nifedipine has been used safely in patients with renal dysfunction and has been reported to exert a beneficial effect, in certain cases, rare, reversible elevations in BUN and serum creatinine have been reported in patients with preexisting chronic renal insufficiency.
 The relationship to nifedipine therapy is uncertain in most cases but probable in some.
 
 ## Drug Interactions:
 
-Beta-adrenergic blocking agents: (see INDICATIONS AND USAGE and WARNINGS).
+Beta-adrenergic blocking agents: (see INDICATIONS AND USAGE and WARNINGS.)
 Experience in over 1400 patients with nifedipine capsules in a noncomparative clinical trial has shown that concomitant administration of nifedipine and beta-blocking agents is usually well tolerated, but there have been occasional literature reports suggesting that the combination may increase the likelihood of congestive heart failure, severe hypotension, or exacerbation of angina.
 
 ### Long-acting Nitrates:
 
-Nifedipine may be safely coadministered with nitrates, but there have been no controlled studies to evaluate the antianginal effectiveness of this combination.
+Nifedipine may be safely co-administered with nitrates, but there have been no controlled studies to evaluate the antianginal effectiveness of this combination.
 
 ### Digitalis:
 
@@ -109,15 +113,15 @@ The effect may be mediated by the known inhibition of cimetidine on hepatic cyto
 If nifedipine therapy is initiated in a patient currently receiving cimetidine, cautious titration is advised.
 
 Nifedipine is metabolized by CYP3A4.
-Coadministration of nifedipine with phenytoin, an inducer of CYP3A4, lowers the systemic exposure to nifedipine by approximately 70%.
-Avoid coadministration of nifedipine with phenytoin or any known CYP3A4 inducer or consider an alternative antihypertensive therapy.
+Co-administration of nifedipine with phenytoin, an inducer of CYP3A4, lowers the systemic exposure to nifedipine by approximately 70%.
+Avoid co-administration of nifedipine with phenytoin or any known CYP3A4 inducer or consider an alternative antihypertensive therapy.
 
-CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin, nefazodone, fluoxetine, saquinavir, indinavir, and nelfinavir may result in increased exposure to nifedipine when coadministered.
+CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin, nefazodone, fluoxetine, saquinavir, indinavir, and nelfinavir may result in increased exposure to nifedipine when co-administered.
 Careful monitoring and dose adjustment may be necessary; consider initiating nifedipine at the lowest dose available if given concomitantly with these medications.
 
 ### Other Interactions:
 
-Grapefruit Juice: Coadministration of nifedipine with grapefruit juice resulted in approximately a doubling in nifedipine AUC and Cmax with no change in half-life.
+Grapefruit Juice: Co-administration of nifedipine with grapefruit juice resulted in approximately a doubling in nifedipine AUC and Cmax with no change in half-life.
 The increased plasma concentrations most likely result from inhibition of CYP3A4 related first-pass metabolism.
 Avoid ingestion of grapefruit and grapefruit juice should be avoided while taking nifedipine.
 
@@ -130,10 +134,10 @@ In vivo mutagenicity studies were negative.
 
 ## Pregnancy:
 
-Pregnancy Category C: Nifedipine has been shown to produce teratogenic findings in rats and rabbits, including digital anomalies similar to those reported for phenytoin.
+Nifedipine has been shown to produce teratogenic findings in rats and rabbits, including digital anomalies similar to those reported for phenytoin.
 Digital anomalies have been reported to occur with other members of the dihydropyridine class and are possibly a result of compromised uterine blood flow.
 Nifedipine administration was associated with a variety of embryotoxic, placentotoxic, and fetotoxic effects, including stunted fetuses (rats, mice, rabbits), rib deformities (mice), cleft palate (mice), small placentas and underdeveloped chorionic villi (monkeys), embryonic and fetal deaths (rats, mice, rabbits), and prolonged pregnancy/decreased neonatal survival (rats; not evaluated in other species).
-On a mg/kg basis, all of the doses associated with the teratogenic, embryotoxic or fetotoxic effects in animals were higher (5 to 50 times) than the maximum recommended human dose of 120 mg/day.
+On a mg/kg basis, all of the doses associated with the teratogenic embryotoxic or fetotoxic effects in animals were higher (5 to 50 times) than the maximum recommended human dose of 120 mg/day.
 On a mg/m2 basis, some doses were higher and some were lower than the maximum recommended human dose, but all are within an order of magnitude of it.
 The doses associated with placentotoxic effects in monkeys were equivalent to or lower than the maximum recommended human dose on a mg/m2 basis.
 
@@ -153,4 +157,4 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Age appears to have a significant effect on the pharmacokinetics of nifedipine.
 The clearance is decreased resulting in a higher AUC in the elderly.
-These changes are not due to changes in renal function (see CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism).
+These changes are not due to changes in renal function (see CLINICAL PHARMACOLOGY, Pharmacokinetics).

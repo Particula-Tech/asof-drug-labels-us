@@ -5,7 +5,7 @@ All side effects reported during nifedipine extended-release tablet therapy were
 The most common side effect reported with nifedipine extended-release tablet was edema which was dose related and ranged in frequency from approximately 10% to about 30% at the highest dose studied (180 mg).
 Other common adverse experiences reported in placebo-controlled trials include:
 
-| Adverse Effect | NIFEDIPINE EXTENDED-RELEASE TABLETS (%) (n=707) | PLACEBO (%) (n=266) |
+| Adverse Effect | NIFEDIPINE EXTENDED-RELEASE TABLETS (%) (N=707) | PLACEBO (%) (N=266) |
 | --- | --- | --- |
 | Headache | 15.8 | 9.8 |
 | Fatigue | 5.9 | 4.1 |
@@ -36,7 +36,7 @@ Cases of tablet adherence to the gastrointestinal wall with ulceration have been
 In multiple-dose U.S. and foreign controlled studies with nifedipine capsules in which adverse reactions were reported spontaneously, adverse effects were frequent but generally not serious and rarely required discontinuation of therapy or dosage adjustment.
 Most were expected consequences of the vasodilator effects of nifedipine.
 
-| Adverse Effect | NIFEDIPINE CAPSULES (%) (n=226) | PLACEBO (%) (n=235) |
+| Adverse Effect | NIFEDIPINE CAPSULES (%) (N=226) | PLACEBO (%) (N=235) |
 | --- | --- | --- |
 | Dizziness, lightheadedness, giddiness | 27 | 15 |
 | Flushing, heat sensation | 25 | 8 |
@@ -59,7 +59,7 @@ It remains possible, however, that some or many of these events were drug relate
 Myocardial infarction occurred in about 4% of patients and congestive heart failure or pulmonary edema in about 2%.
 Ventricular arrhythmias or conduction disturbances each occurred in fewer than 0.5% of patients.
 
-In a subgroup of over 1000 patients receiving nifedipine with concomitant beta-blocker therapy, the pattern and incidence of adverse experiences was not different from that of the entire group of nifedipine-treated patients (see PRECAUTIONS).
+In a subgroup of over 1000 patients receiving nifedipine with concomitant beta blocker therapy, the pattern and incidence of adverse experiences was not different from that of the entire group of nifedipine-treated patients (see PRECAUTIONS).
 
 In a subgroup of approximately 250 patients with a diagnosis of congestive heart failure as well as angina, dizziness or lightheadedness, peripheral edema, headache, or flushing each occurred in one in eight patients.
 Hypotension occurred in about one in 20 patients.
@@ -68,7 +68,7 @@ Myocardial infarction or symptoms of congestive heart failure each occurred in a
 Atrial or ventricular dysrhythmias each occurred in about one patient in 150.
 
 In post-marketing experience, there have been rare reports of exfoliative dermatitis caused by nifedipine.
-There have been rare reports of exfoliative or bullous skin adverse events (such as erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis) and photosensitivity reactions.
+There have been rare reports of exfoliative or bullous skin adverse events (such as erythema multiforme, Stevens-Johnson Syndrome, and toxic epidermal necrolysis) and photosensitivity reactions.
 Acute generalized exanthematous pustulosis also has been reported.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Oceanside Pharmaceuticals at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

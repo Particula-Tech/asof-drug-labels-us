@@ -53,7 +53,7 @@ Thus, the pharmacokinetics of nifedipine are not significantly influenced by the
 Patients in hemodialysis or chronic ambulatory peritoneal dialysis have not reported significantly altered pharmacokinetics of nifedipine.
 Since hepatic biotransformation is the predominant route for the disposition of nifedipine, the pharmacokinetics may be altered in patients with chronic liver disease.
 Patients with hepatic impairment (liver cirrhosis) have a longer disposition half-life and higher bioavailability of nifedipine than healthy volunteers.
-The degree of serum protein binding of nifedipine is high (92 to 98%).
+The degree of serum protein binding of nifedipine is high (92-98%).
 Protein binding may be greatly reduced in patients with renal or hepatic impairment.
 
 Following intravenous administration, clearance of nifedipine was decreased by 33% in elderly healthy subjects relative to young healthy subjects.
@@ -62,7 +62,7 @@ Following intravenous administration, clearance of nifedipine was decreased by 3
 
 Like other slow-channel blockers, nifedipine exerts a negative inotropic effect on isolated myocardial tissue.
 This is rarely, if ever, seen in intact animals or man, probably because of reflex responses to its vasodilating effects.
-In man, nifedipine decreases peripheral vascular resistance which leads to a fall in systolic and diastolic pressures, usually minimal in normotensive volunteers (less than 5 to 10 mm Hg systolic), but sometimes larger.
+In man, nifedipine decreases peripheral vascular resistance which leads to a fall in systolic and diastolic pressures, usually minimal in normotensive volunteers (less than 5-10 mm Hg systolic), but sometimes larger.
 With nifedipine extended-release tablets, these decreases in blood pressure are not accompanied by any significant change in heart rate.
 Hemodynamic studies in patients with normal ventricular function have generally found a small increase in cardiac index without major effects on ejection fraction, left ventricular end diastolic pressure (LVEDP), or volume (LVEDV).
 In patients with impaired ventricular function, most acute studies have shown some increase in ejection fraction and reduction in left ventricular filling pressure.

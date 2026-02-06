@@ -7,6 +7,21 @@ Nifedipine is a yellow crystalline substance, practically insoluble in water but
 It has a molecular weight of 346.3.
 Each extended-release tablet is formulated as a once-a-day controlled-release tablet for oral administration designed to deliver 30 or 60 mg of nifedipine.
 
-Inert ingredients in the formulations are: anhydrous lactose, colloidal silicon dioxide, ethylcellulose, hydroxyethyl cellulose, hypromellose, magnesium stearate, methacrylic acid and methyl methacrylate copolymers, microcrystalline cellulose, polyethylene glycol, red ferric oxide, sodium lauryl sulfate, talc, and titanium dioxide.
+Each tablet contains 33 mg nifedipine to provide a 30 mg dose.
 
-Nifedipine Extended-release Tablets meet USP Dissolution Test 3.
+Each tablet contains 66 mg nifedipine to provide a 60 mg dose.
+
+Inert ingredients in the formulations are: anhydrous lactose, colloidal silicon dioxide, ethylcellulose, hydroxyethyl cellulose, hydroxypropylmethyl cellulose, magnesium stearate, methacrylic acid and methyl methacrylate copolymers, microcrystalline cellulose, polyethylene glycol, red ferric oxide, sodium lauryl sulfate, talc, and titanium dioxide.
+
+## System Components and Performance
+
+Nifedipine Extended-Release Tablets, USP are similar in appearance to a conventional tablet.
+It consists, however, of a semipermeable membrane surrounding an osmotically active drug core.
+The core itself is divided into two layers: an “active” layer containing the drug, and a “push” layer containing pharmacologically inert (but osmotically active) components.
+As water from the gastrointestinal tract enters the tablet, pressure increases in the osmotic layer and “pushes” against the drug layer, releasing drug through the precision laser-drilled tablet orifice in the active layer.
+
+Nifedipine Extended-Release Tablets, USP are designed to provide nifedipine at an approximately constant rate over 24 hours.
+This controlled rate of drug delivery into the gastrointestinal lumen is independent of pH or gastrointestinal motility.
+Nifedipine Extended-Release Tablets, USP depend for its action on the existence of an osmotic gradient between the contents of the bi-layer core and fluid in the gastrointestinal tract.
+Drug delivery is essentially constant as long as the osmotic gradient remains constant, and then gradually falls to zero.
+Upon swallowing, the biologically inert components of the tablet remain intact during gastrointestinal transit and are eliminated in the feces as an insoluble shell.
