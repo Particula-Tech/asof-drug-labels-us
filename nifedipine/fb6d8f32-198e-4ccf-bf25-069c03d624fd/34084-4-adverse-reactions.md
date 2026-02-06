@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE EXPERIENCES
 
 The incidence of adverse events during treatment with nifedipine extended-release tablets in doses up to 90 mg daily were derived from multi-center placebo-controlled clinical trials in 370 hypertensive patients.
 Atenolol 50 mg once daily was used concomitantly in 187 of the 370 patients on nifedipine extended-release tablets and in 64 of the 126 patients on placebo.
@@ -36,7 +36,7 @@ Respiratory: epistaxis, rhinitis
 
 Urogenital: impotence, urinary frequency
 
-Other adverse events reported with an incidence of less than 1% were:
+Other adverse events reported with an incidence of less than 1.0% were:
 
 Body as a Whole/Systemic: allergic reaction, asthenia, cellulitis, substernal chest pain, chills, facial edema, lab test abnormal, malaise, neck pain, pelvic pain, pain, photosensitivity reaction
 
@@ -60,6 +60,6 @@ Special Senses: abnormal vision, amblyopia, conjunctivitis, diplopia, eye disord
 
 Urogenital/Reproductive: dysuria, kidney calculus, nocturia, breast engorgement, polyuria, urogenital disorder, erectile dysfunction (ED)
 
-The following adverse events have been reported rarely in patients given nifedipine in coat core or other formulations: allergenic hepatitis, alopecia, anaphylactic reaction, anemia, arthritis with ANA (+), depression, erythromelalgia, exfoliative dermatitis, fever, gingival hyperplasia, gynecomastia, hyperglycemia, jaundice, leukopenia, mood changes, muscle cramps, nervousness, paranoid syndrome, purpura, shakiness, sleep disturbances, Stevens-Johnson syndrome, syncope, taste perversion, thrombocytopenia, toxic epidermal necrolysis, transient blindness at the peak of plasma level, tremor, and urticaria.
+The following adverse events have been reported rarely in patients given nifedipine in coat core or other formulations: allergenic hepatitis, alopecia, anaphylactic reaction, anemia, arthritis with ANA (+), depression, erythromelalgia, exfoliative dermatitis, fever, gingival hyperplasia, gynecomastia, hyperglycemia, jaundice, leukopenia, mood changes, muscle cramps, nervousness, paranoid syndrome, purpura, shakiness, sleep disturbances, Stevens-Johnson syndrome, syncope, taste perversion, thrombocytopenia, toxic epidermal necrolysis, transient blindness at the peak of plasma level, tremor and urticaria.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Oceanside Pharmaceuticals at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

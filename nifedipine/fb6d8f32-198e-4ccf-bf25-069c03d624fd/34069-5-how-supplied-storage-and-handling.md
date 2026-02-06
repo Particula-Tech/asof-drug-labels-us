@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Nifedipine Extended-Release Tablets, USP are supplied as 60 mg unscored, round film-coated tablets as follows:
+Nifedipine Extended-Release Tablets, USP are supplied as 60 mg unscored, round, film-coated tablets as follows:
 
 | Strength | Color | Markings |
 | --- | --- | --- |

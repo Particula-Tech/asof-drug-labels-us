@@ -18,9 +18,9 @@ The reduction in calcium influx by nifedipine causes arterial vasodilation and d
 ## Pharmacokinetics and Metabolism
 
 Nifedipine is completely absorbed after oral administration.
-The bioavailability of nifedipine as nifedipine extended-release tablet relative to immediate-release nifedipine is in the range of 84% to 89%.
-After ingestion of nifedipine extended-release tablets under fasting conditions, plasma concentrations peak at about 2.5 to 5 hours with a second small peak or shoulder evident at approximately 6 to 12 hours post dose.
-The elimination half-life of nifedipine administered as nifedipine extended-release tablet is approximately 7 hours in contrast to the known 2 hour elimination half-life of nifedipine administered as an immediate-release capsule.
+The bioavailability of nifedipine as nifedipine extended-release tablet relative to immediate-release nifedipine is in the range of 84%-89%.
+After ingestion of nifedipine extended-release tablets under fasting conditions, plasma concentrations peak at about 2.5-5 hours with a second small peak or shoulder evident at approximately 6-12 hours post dose.
+The elimination half-life of nifedipine administered as nifedipine extended-release tablet is approximately 7 hours in contrast to the known 2 hour elimination half-life of nifedipine administered as an immediate release capsule.
 
 When nifedipine extended-release tablet is administered as multiples of 30 mg tablets over a dose range of 30 mg to 90 mg, the area under the curve (AUC) is dose proportional; however, the peak plasma concentration for the 90 mg dose given as 3 × 30 mg is 29% greater than predicted from the 30 mg and 60 mg doses.
 
@@ -28,11 +28,11 @@ Two 30 mg nifedipine extended-release tablets may be interchanged with a 60 mg n
 Three 30 mg nifedipine extended-release tablets, however, result in substantially higher Cmax values than those after a single 90 mg nifedipine extended-release tablet.
 Three 30 mg tablets should, therefore, not be considered interchangeable with a 90 mg tablet.
 
-Once daily dosing of nifedipine extended-release tablets under fasting conditions results in decreased fluctuations in the plasma concentration of nifedipine when compared to t.i.d. dosing with immediate-release nifedipine capsules.
+Once daily dosing of nifedipine extended-release tablets under fasting conditions results in decreased fluctuations in the plasma concentration of nifedipine when compared to t.i.d. dosing with immediate release nifedipine capsules.
 The mean peak plasma concentration of nifedipine following a 90 mg nifedipine extended-release tablet, administered under fasting conditions, is approximately 115 ng/mL.
 When nifedipine extended-release tablet is given immediately after a high fat meal in healthy volunteers, there is an average increase of 60% in the peak plasma nifedipine concentration, a prolongation in the time to peak concentration, but no significant change in the AUC.
-Plasma concentrations of nifedipine when nifedipine extended-release tablet is taken after a fatty meal result in slightly lower peaks compared to the same daily dose of the immediate-release formulation administered in three divided doses.
-This may be, in part, because nifedipine extended-release tablet is less bioavailable than the immediate-release formulation.
+Plasma concentrations of nifedipine when nifedipine extended-release tablet is taken after a fatty meal result in slightly lower peaks compared to the same daily dose of the immediate release formulation administered in three divided doses.
+This may be, in part, because nifedipine extended-release tablet is less bioavailable than the immediate release formulation.
 
 Nifedipine is extensively metabolized to highly water soluble, inactive metabolites accounting for 60% to 80% of the dose excreted in the urine.
 Only traces (less than 0.1% of the dose) of the unchanged form can be detected in the urine.
@@ -41,13 +41,13 @@ The remainder is excreted in the feces in metabolized form, most likely as a res
 Nifedipine is metabolized via the cytochrome P450 3A4 system.
 Drugs that are known to either inhibit or induce this enzyme system may alter the first pass or clearance of nifedipine.
 
-No studies have been performed with nifedipine extended-release tablets in patients with renal failure; however, significant alterations in the pharmacokinetics of nifedipine immediate-release capsules have not been reported in patients undergoing hemodialysis or chronic ambulatory peritoneal dialysis.
+No studies have been performed with nifedipine extended-release tablets in patients with renal failure; however, significant alterations in the pharmacokinetics of nifedipine immediate release capsules have not been reported in patients undergoing hemodialysis or chronic ambulatory peritoneal dialysis.
 Since the absorption of nifedipine from nifedipine extended-release tablets could be modified by renal disease, caution should be exercised in treating such patients.
 
 Because nifedipine is metabolized via the cytochrome P450 3A4 system, its pharmacokinetics may be altered in patients with chronic liver disease.
-Nifedipine extended-release tablets have not been studied in patients with hepatic disease; however, in patients with hepatic impairment (liver cirrhosis), nifedipine has a longer elimination half-life and higher bioavailability than in healthy volunteers.
+Nifedipine extended-release tablets have not been studied in patients with hepatic disease; however, in patients with hepatic impairment (liver cirrhosis) nifedipine has a longer elimination half-life and higher bioavailability than in healthy volunteers.
 
-The degree of protein binding of nifedipine is high (92% to 98%).
+The degree of protein binding of nifedipine is high (92%-98%).
 Protein binding may be greatly reduced in patients with renal or hepatic impairment.
 
 After administration of nifedipine extended-release tablets to healthy elderly men and women (age >60 years), the mean Cmax is 36% higher and the average plasma concentration is 70% greater than in younger patients.
@@ -55,7 +55,7 @@ After administration of nifedipine extended-release tablets to healthy elderly m
 In healthy subjects, the elimination half-life of a different sustained-release nifedipine formulation was longer in elderly subjects (6.7 h) compared to young subjects (3.8 h) following oral administration.
 A decreased clearance was also observed in the elderly (348 mL/min) compared to young subjects (519 mL/min) following intravenous administration.
 
-Coadministration of nifedipine with grapefruit juice results in up to a 2-fold increase in AUC and Cmax due to inhibition of CYP3A related first-pass metabolism.
+Co-administration of nifedipine with grapefruit juice results in up to a 2-fold increase in AUC and Cmax due to inhibition of CYP3A related first-pass metabolism.
 Ingestion of grapefruit and grapefruit juice should be avoided while taking nifedipine.
 
 ## Clinical Studies
@@ -68,7 +68,7 @@ MEAN REDUCTIONS IN TROUGH SUPINE BLOOD PRESSURE (mmHg)
 
 |  | SYSTOLIC/DIASTOLIC |  |
 | --- | --- | --- |
-| NIFEDIPINE EXTENDED-RELEASE DOSE | N | MEAN TROUGH REDUCTION |
+| NIFEDIPINE EXTENDED-RELEASE, USP DOSE | N | MEAN TROUGH REDUCTION* |
 | STUDY 1 |  |  |
 | 30 mg | 60 | 5.3/2.9 |
 | 60 mg | 57 | 8.0/4.1 |
@@ -78,15 +78,17 @@ MEAN REDUCTIONS IN TROUGH SUPINE BLOOD PRESSURE (mmHg)
 | 60 mg | 63 | 10.1/5.3 |
 | 90 mg | 62 | 10.2/5.8 |
 
-The trough/peak ratios estimated from 24 hour blood pressure monitoring ranged from 41% to 78% for diastolic and 46% to 91% for systolic blood pressure.
+* Placebo response subtracted.
+
+The trough/peak ratios estimated from 24 hour blood pressure monitoring ranged from 41%-78% for diastolic and 46%-91% for systolic blood pressure.
 
 ## Hemodynamics
 
 Like other slow-channel blockers, nifedipine exerts a negative inotropic effect on isolated myocardial tissue.
 This is rarely, if ever, seen in intact animals or man, probably because of reflex responses to its vasodilating effects.
-In man, nifedipine decreases peripheral vascular resistance which leads to a fall in systolic and diastolic pressures, usually minimal in normotensive volunteers (less than 5 to 10 mmHg systolic), but sometimes larger.
+In man, nifedipine decreases peripheral vascular resistance which leads to a fall in systolic and diastolic pressures, usually minimal in normotensive volunteers (less than 5-10 mmHg systolic), but sometimes larger.
 With nifedipine extended-release tablets, these decreases in blood pressure are not accompanied by any significant change in heart rate.
-Hemodynamic studies of the immediate-release nifedipine formulation in patients with normal ventricular function have generally found a small increase in cardiac index without major effects on ejection fraction, left ventricular end-diastolic pressure (LVEDP), or volume (LVEDV).
+Hemodynamic studies of the immediate-release nifedipine formulation in patients with normal ventricular function have generally found a small increase in cardiac index without major effects on ejection fraction, left ventricular end-diastolic pressure (LVEDP) or volume (LVEDV).
 In patients with impaired ventricular function, most acute studies have shown some increase in ejection fraction and reduction in left ventricular filling pressure.
 
 ## Electrophysiologic Effects

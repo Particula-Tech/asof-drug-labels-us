@@ -1,4 +1,4 @@
-Rx only For Oral Use
+For Oral Use
 
 # Patients with Galactose Intolerance
 
@@ -6,7 +6,7 @@ Since this medicinal product contains lactose, patients with rare hereditary pro
 
 Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Manufactured by: Bausch Health Companies Steinbach, MB R5G 1Z7, Canada © 2019 Bausch Health Companies Inc. or its affiliates
+Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada © 2025 Bausch Health Companies Inc. or its affiliates
 
-9495304 20002763 Rev.
-10/2019
+9495305 20005956 Rev.
+12/2025
