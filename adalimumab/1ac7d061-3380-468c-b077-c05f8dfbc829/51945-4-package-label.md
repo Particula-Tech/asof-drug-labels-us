@@ -38,24 +38,6 @@ For Subcutaneous Use Only
 
 # Principal Display Panel
 
-NDC 61314-741-01
-
-Hyrimoz®
-
-(adalimumab-adaz)
-
-Injection
-
-10 mg/0.2 mL
-
-Rx Only
-
-For Subcutaneous Use Only
-
-1Single-Dose Prefilled Syringe
-
-# Principal Display Panel
-
 NDC 61314-509-64
 
 Rx Only
@@ -68,11 +50,9 @@ Injection
 
 10 mg/0.1 mL
 
-Rx Only
-
 For Subcutaneous Use Only
 
-2Single-Dose Prefilled Syringes
+2 Single-Dose Prefilled Syringes
 
 # Principal Display Panel
 
@@ -90,7 +70,7 @@ Injection
 
 For Subcutaneous Use Only
 
-2Single-Dose Prefilled Syringes
+2 Single-Dose Prefilled Syringes
 
 # Principal Display Panel
 
@@ -108,7 +88,7 @@ Injection
 
 For Subcutaneous Use Only
 
-2Single-Dose Prefilled Syringes with needle guard
+2 Single-Dose Prefilled Syringes with needle guard
 
 # Principal Display Panel
 

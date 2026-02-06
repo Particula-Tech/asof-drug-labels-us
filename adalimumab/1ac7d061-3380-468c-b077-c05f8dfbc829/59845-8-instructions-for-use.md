@@ -94,7 +94,7 @@ Contact your pharmacist if:
 - •The recommended injection site is the front of your thighs.
   You may also use the lower abdomen, but not the area 2 inches (5 cm) around your navel (belly button) (see Figure E).
 - •Choose a different site each time you give yourself an injection.
-- •Do not inject into areas where the skin is tender, bruised red, scaly, or hard.
+- •Do not inject into areas where the skin is tender, bruised, red, scaly, or hard.
   Avoid areas with scars or stretch marks.
   If you have psoriasis, you should not inject directly into areas with psoriasis plaques.
 
@@ -655,91 +655,6 @@ HYRIMOZ® (hye-RI-moze)
 
 (adalimumab-adaz)
 
-10 mg/0.2 mL
-
-Single-dose prefilled Syringe
-
-injection, for subcutaneous use
-
-To help avoid possible infections and to ensure that you use HYRIMOZ correctly, it is important that you follow these instructions.
-
-Be sure that you read, understand, and follow this Instructions for Use before injecting HYRIMOZ.
-Your doctor should show you how to prepare and inject HYRIMOZ properly using the HYRIMOZ single-dose prefilled syringe before you use it for the first time.
-Talk to your doctor if you have any questions.
-
-Figure A: HYRIMOZ prefilled syringe.
-
-It is important that you:
-
-- •do not open the outer carton until you are ready to use the HYRIMOZ prefilled syringe.
-- •do not use the prefilled syringe if the seal on the outer carton is broken.
-- •never leave the prefilled syringe unattended where others might tamper with it.
-- •do not remove the needle cap until just before you give the injection.
-- •throw away the used syringe right away after use.
-  Do not re-use a syringe.
-  See “4.
-  Disposing of used prefilled syringes” at the end of this Instructions for Use.
-- •inject HYRIMOZ 15 to 30 minutes after taking it out of the refrigerator for a more comfortable injection.
-- •consult your doctor or nurse for information on an appropriate injection site and injection technique to use if you are injecting a child.
-- •do not remove the finger grip before the injection.
-
-Note: HYRIMOZ prefilled syringe is not made with natural rubber latex.
-
-How should you store HYRIMOZ single-dose prefilled syringe?
-
-- •Store the HYRIMOZ prefilled syringe in the original carton to protect it from light.
-- •Store your outer carton of prefilled syringe in a refrigerator between 36°F to 46°F (2°C to 8°C).
-- •Do not freeze your prefilled syringe.
-- •If needed, for example if you are traveling, you may store the prefilled syringe at room temperature up to 77°F (25°C) for up to 21 days.
-- •Throw away the prefilled syringe that has been stored at room temperature after 21 days.
-- •Record the date you first remove HYRIMOZ from the refrigerator in the spaces provided on the carton.
-- •Do not store your prefilled syringe in extreme heat or cold.
-- •Do not drop or crush HYRIMOZ.
-  The prefilled syringe is glass.
-
-Keep HYRIMOZ and all medicines out of the reach of children.
-
-| What do you need for your injection? Included in your prefilled syringe carton is: •HYRIMOZ prefilled syringe (see Figure A). Each prefilled syringe contains 10 mg/0.2 mL of adalimumab-adaz. Not included in your HYRIMOZ prefilled syringe carton are (see Figure B): •Alcohol wipe •Cotton ball or gauze •Sharps disposal container. See “4. Disposing of used prefilled syringes” at the end of this Instructions for Use. •Adhesive bandage |
-| --- |
-
-Figure B: items not included in the carton
-
-Preparing the prefilled syringe
-
-- •For a more comfortable injection, take the outer carton containing the prefilled syringe out of the refrigerator and leave it unopened on your work surface for about 15 to 30 minutes to allow it to reach room temperature.
-- •Do not try to warm the prefilled syringe by using a heat source such as hot water or a microwave.
-- •Remove the prefilled syringe from the carton box and check it.
-  The solution should be clear and colorless or slightly yellowish.
-  Do not use a prefilled syringe if the solution is cloudy, discolored, or has flakes or particles in it.
-  If you are not sure what color the solution should be, contact your pharmacist for help.
-- •Do not use the prefilled syringe if it is broken.
-  Return the prefilled syringe and the package it came in to the pharmacy.
-- •Look at the expiration date (EXP) on your prefilled syringe.
-  Do not use your prefilled syringe if the expiration date has passed.
-
-Contact your pharmacist if:
-
-- •you are unsure about the color of the solution in the prefilled syringe.
-- •the prefilled syringe is broken.
-- •the expiration date has passed.
-
-| 1. Choosing your injection site •The recommended injection site is the front of the thighs. You may also use the lower abdomen, but not the area 2 inches (5 cm) around the navel (belly button) (see Figure C). •Choose a different site each time you give an injection. •Do not inject into areas where the skin is tender, bruised, red, scaly, or hard. Avoid areas with scars or stretch marks. •If you have psoriasis, you should not inject directly into areas with psoriasis plaques. | Figure C: choose your injection site. |
-| --- | --- |
-| 2.Cleaning your injection site •When you are ready to use the prefilled syringe, wash your hands well with soap and water. •Using a circular motion, clean the injection site with an alcohol wipe (see Figure D). Allow the skin to dry before injecting. Do not fan or blow on the cleaned area. •Do not touch the cleaned area again before injecting. | Figure D: choose your injection site. |
-| 3.Giving your injection•Carefully pull the needle cap straight off to remove it from the prefilled syringe (see Figure E).•Throw away (dispose of) the needle cap.•You may see a drop of liquid at the end of the needle. This is normal. | Figure E: pull the needle cap off. |
-| •Gently pinch the skin at the injection site (see Figure F). •Insert the needle into the skin at a 45-degree angle, as shown (see Figure F). | Figure F: pinch the skin and insert the needle. |
-| •Hold the single-dose prefilled syringe as shown. •Slowly press down on the plunger as far as it will go (see Figure G).•Carefully lift the needle straight out from the injection site and let go of the skin. •There may be a small amount of blood at the injection site. You can press a cotton ball or gauze onto the injection site and hold it for 10 seconds. Do not rub the injection site. You may cover the injection site with a small adhesive bandage, if needed. | Figure G: press down the plunger. |
-| 4.Disposing of used prefilled syringes•Put the used prefilled syringe in an FDA-cleared sharps disposal container right away after use (see Figure H). Do not throw away (dispose of) any prefilled syringes in your household trash.•If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:omade of a heavy-duty plastic, ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out, oupright and stable during use, oleak resistant, and oProperly labeled to warn of hazardous waste inside the container. •When your sharps container is almost full, you will need to follow your community guidelines, for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used syringes, needles and prefilled syringes. For more information about safe sharps disposal, and for specific information about sharps disposal, in the state that you live in, go to the FDA’s website at: www.fda.gov/safesharpsdisposal•Do not dispose your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. | Figure H: dispose of the used prefilled syringe. |
-| Manufactured by: Sandoz Inc. Princeton, NJ 08540US License No. 2003All third party trademarks are the property of their respective owners. |  |
-
-This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 11/2023
-
-INSTRUCTIONS FOR USE
-
-HYRIMOZ® (hye-RI-moze)
-
-(adalimumab-adaz)
-
 10 mg/0.1 mL, 20 mg/0.2 mL
 
 Single-dose prefilled Syringe
@@ -793,7 +708,7 @@ Figure B: items not included in the carton
 Preparing the prefilled syringe
 
 - •For a more comfortable injection, take the outer carton containing the prefilled syringe out of the refrigerator and leave it unopened on your work surface for about 15 to 30 minutes to allow it to reach room temperature.
-- Do not try to warm the prefilled syringe by using a heat source such as hot water or a microwave.
+- Do not try to warm the prefilled syringe by using a heat source such as hot water or microwave.
 - •Remove the prefilled syringe out of the carton box and inspect it.
   The solution should be clear and colorless or slightly yellowish.
   Do not use a prefilled syringe if the solution is cloudy, discolored, or has flakes or particles in it.

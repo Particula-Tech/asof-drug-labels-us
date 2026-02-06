@@ -33,7 +33,3 @@ Hydrochloric acid and sodium hydroxide are added as necessary to adjust pH.
 Each 10 mg/0.1 mL prefilled syringe delivers 0.1 mL (10 mg) of drug product.
 Each 0.1 mL of HYRIMOZ contains adalimumab-adaz (10 mg), adipic acid (0.22 mg), mannitol (4.2 mg), polysorbate 80 (0.04 mg) and Water for Injection, USP.
 Hydrochloric acid and sodium hydroxide are added as necessary to adjust pH.
-
-Each 10 mg/0.2 mL prefilled syringe delivers 0.2 mL (10 mg) of drug product.
-Each 0.2 mL of HYRIMOZ contains adalimumab-adaz (10 mg), adipic acid (0.67 mg), citric acid monohydrate (0.051 mg), mannitol (2.4 mg), polysorbate 80 (0.2 mg), sodium chloride (1.23 mg), and Water for Injection, USP.
-Hydrochloric acid and sodium hydroxide are added as necessary to adjust pH.
