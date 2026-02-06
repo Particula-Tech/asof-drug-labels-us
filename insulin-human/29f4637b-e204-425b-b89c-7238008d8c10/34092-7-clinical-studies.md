@@ -19,25 +19,25 @@ Results
 
 At Week 24, treatment with mealtime AFREZZA and basal insulin provided a mean reduction in HbA1c that met the pre-specified non-inferiority margin of 0.4%.
 AFREZZA and basal insulin provided less HbA1c reduction than insulin aspart and basal insulin, and the difference was statistically significant.
-More patients in the insulin aspart and basal insulin group achieved the HbA1c target of ≤7% (Table 5).
+More patients in the insulin aspart and basal insulin group achieved the HbA1c target of ≤7% (Table 6).
 
-Table 5.
+Table 6.
 Results at Week 24 in an Active-Controlled Study of Mealtime AFREZZA plus Basal Insulin in Adults with Type 1 Diabetes
 
 | Efficacy Parameter | AFREZZA + Basal Insulin (N=174) | Insulin Aspart + Basal Insulin (N=170) |
 | --- | --- | --- |
 | HbA1c (%) |  |  |
-| Baseline (adjusted meana) | 7.94 | 7.92 |
-| Change from baseline (adjusted meana,b) | -0.21 | -0.40 |
-| Difference from insulin aspart (adjusted meana,b) (95% CI) | 0.19 (0.02, 0.36) |  |
-| Percentage of patients achieving HbA1c ≤ 7%c | 14% | 27% |
+| Baseline (adjusted mean a) | 7.94 | 7.92 |
+| Change from baseline (adjusted mean a,b) | -0.21 | -0.40 |
+| Difference from insulin aspart (adjusted mean a,b) (95% CI) | 0.19 (0.02, 0.36) |  |
+| Percentage of patients achieving HbA1c ≤ 7% c | 14% | 27% |
 | Fasting Plasma Glucose (mg/dL) |  |  |
-| Baseline (adjusted meana) | 153.9 | 151.6 |
-| Change from baseline (adjusted meana, b) | -25.3 | 10.2 |
-| Difference from insulin aspart (adjusted meana, b) (95% CI) | -35.4 (-56.3, -14.6) |  |
-| a Adjusted mean was obtained using a Mixed Model Repeated Measures (MMRM) approach with HbA1c or FPG as the dependent variable and treatment, visit, region, basal insulin stratum, and treatment by visit interaction as fixed factors, and corresponding baseline as a covariate. An autoregression (1) [AR(1)] covariance structure was used. |  |  |
-| b Data at 24 weeks were available from 131 (75%) and 150 (88%) patients randomized to the AFREZZA and insulin aspart groups, respectively. |  |  |
-| c The percentage was calculated based on the number of patients randomized to the trial. |  |  |
+| Baseline (adjusted mean a) | 153.9 | 151.6 |
+| Change from baseline (adjusted mean a, b) | -25.3 | 10.2 |
+| Difference from insulin aspart (adjusted mean a, b) (95% CI) | -35.4 (-56.3, -14.6) |  |
+| aAdjusted mean was obtained using a Mixed Model Repeated Measures (MMRM) approach with HbA1c or FPG as the dependent variable and treatment, visit, region, basal insulin stratum, and treatment by visit interaction as fixed factors, and corresponding baseline as a covariate. An autoregression (1) [AR(1)] covariance structure was used. |  |  |
+| bData at 24 weeks were available from 131 (75%) and 150 (88%) patients randomized to the AFREZZA and insulin aspart groups, respectively. |  |  |
+| cThe percentage was calculated based on the number of patients randomized to the trial. |  |  |
 
 ## 14.3 Adults with Type 2 Diabetes
 
@@ -48,22 +48,22 @@ OADs doses were kept stable in the study.
 
 Results
 
-At Week 24, treatment with AFREZZA plus OADs provided a mean reduction in HbA1c that was statistically significantly greater compared to the HbA1c reduction observed in the placebo plus OADs group (Table 6).
+At Week 24, treatment with AFREZZA plus OADs provided a mean reduction in HbA1c that was statistically significantly greater compared to the HbA1c reduction observed in the placebo plus OADs group (Table 7).
 
-Table 6.
+Table 7.
 Results at Week 24 in a Placebo-Controlled Study of AFREZZA in Adults with Type 2 Diabetes Inadequately Controlled on Oral Antidiabetic Agents
 
 | Efficacy Parameter | AFREZZA + Oral Anti-Diabetic Agents (N=177) | Placebo + Oral Anti-Diabetic Agents (N=176) |
 | --- | --- | --- |
 | HbA1c (%) |  |  |
-| Baseline (adjusted meana) | 8.25 | 8.27 |
-| Change from baseline (adjusted meana,b) | -0.82 | -0.42 |
-| Difference from placebo (adjusted meana,b) (95% CI) | -0.40 (-0.57, -0.23) |  |
-| Percentage (%) of patients achieving HbA1C ≤7%c | 32% | 15% |
+| Baseline (adjusted mean a) | 8.25 | 8.27 |
+| Change from baseline (adjusted mean a,b) | -0.82 | -0.42 |
+| Difference from placebo (adjusted mean a,b) (95% CI) | -0.40 (-0.57, -0.23) |  |
+| Percentage (%) of patients achieving HbA1C ≤7% c | 32% | 15% |
 | Fasting Plasma Glucose (mg/dL) |  |  |
-| Baseline (adjusted meana) | 175.9 | 175.2 |
-| Change from baseline (adjusted meana,b) | -11.2 | -3.8 |
-| Difference from placebo (adjusted meana,b) (95% CI) | -7.4 (-18.0, 3.2) |  |
-| a Adjusted mean was obtained using a Mixed Model Repeated Measures (MMRM) approach with HbA1c or FPG as the dependent variable and treatment, visit, region, and treatment by visit interaction as fixed factors, and corresponding baseline as a covariate. An autoregression (1) [AR(1)] covariance structure was used. |  |  |
-| b Data at 24 weeks without rescue therapy were available from 139 (79%) and 129 (73%) patients randomized to the AFREZZA and placebo groups, respectively. |  |  |
-| c The percentage was calculated based on the number of patients randomized to the trial. |  |  |
+| Baseline (adjusted mean a) | 175.9 | 175.2 |
+| Change from baseline (adjusted mean a,b) | -11.2 | -3.8 |
+| Difference from placebo (adjusted mean a,b) (95% CI) | -7.4 (-18.0, 3.2) |  |
+| aAdjusted mean was obtained using a Mixed Model Repeated Measures (MMRM) approach with HbA1c or FPG as the dependent variable and treatment, visit, region, and treatment by visit interaction as fixed factors, and corresponding baseline as a covariate. An autoregression (1) [AR(1)] covariance structure was used. |  |  |
+| bData at 24 weeks without rescue therapy were available from 139 (79%) and 129 (73%) patients randomized to the AFREZZA and placebo groups, respectively. |  |  |
+| cThe percentage was calculated based on the number of patients randomized to the trial. |  |  |

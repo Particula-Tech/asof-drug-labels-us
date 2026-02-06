@@ -8,13 +8,13 @@ Dose modification and increased frequency of glucose monitoring may be required 
 ## 7.2 Drugs That May Decrease the Blood Glucose Lowering Effect of AFREZZA
 
 The glucose lowering effect of AFREZZA may be decreased when given concomitantly with atypical antipsychotics (e.g., olanzapine and clozapine), corticosteroids, danazol, diuretics, estrogens, glucagon, isoniazid, niacin, oral contraceptives, phenothiazines, progestogens (e.g., in oral contraceptives), protease inhibitors, somatropin, sympathomimetic agents (e.g., albuterol, epinephrine, terbutaline) and thyroid hormones.
-Dose adjustment and increased frequency of glucose monitoring may be required when AFREZZA is given concomitantly with these drugs.
+Dosage modification and increased frequency of glucose monitoring may be required when AFREZZA is given concomitantly with these drugs.
 
 ## 7.3 Drugs That May Increase or Decrease the Blood Glucose Lowering Effect of AFREZZA
 
-The glucose lowering effect of AFREZZA may be increased or decreased when co-administered with alcohol, beta-blockers, clonidine, and lithium salts.
+The glucose lowering effect of AFREZZA may be increased or decreased when used concomitantly with alcohol, beta-blockers, clonidine, and lithium salts.
 Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia.
-Dose modification and increased frequency of glucose monitoring may be required when AFREZZA is given concomitantly with these drugs.
+Dosage modification and increased frequency of glucose monitoring may be required when AFREZZA is given concomitantly with these drugs.
 
 ## 7.4 Drugs That May Affect Hypoglycemia Signs and Symptoms
 

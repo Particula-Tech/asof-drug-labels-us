@@ -17,8 +17,8 @@ Clinical Considerations
 
 Disease-associated maternal and/or embryo/fetal risk
 
-Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth, and delivery complications.
-Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia- related morbidity.
+Poorly controlled diabetes in pregnancy increases the maternal risk for DKA, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth, and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia- related morbidity.
 
 Data
 
@@ -54,12 +54,11 @@ Given the results of the rat study, it is highly likely that the insulin and car
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of AFREZZA to improve glycemic control in pediatric patients with diabetes mellitus has not been established.
-AFREZZA has not been studied in pediatric patients.
+The safety and effectiveness of AFREZZA to improve glycemic control in pediatric patients with diabetes mellitus have not been established.
 
 ## 8.5 Geriatric Use
 
-In the AFREZZA clinical studies, 671 (12%) patients were 65 years of age or older, of which 42 (0.8%) were 75 years of age or older.
+In the AFREZZA clinical studies,671 (12%) patients were 65 years of age or older, of which 42 (0.8%) were 75 years of age or older.
 In these studies, 381 (13%) of AFREZZA-treated patients were 65 years of age or older, of which 20 (0.7%) were 75 years of age or older.
 No overall differences in effectiveness of AFREZZA have been observed between patients 65 years of age and older and younger adult patients [see Clinical Studies (14)].
 Clinical studies of AFREZZA did not include sufficient numbers of patients 65 years of age and older to determine whether there were differences in safety between these patients and younger adult patients.

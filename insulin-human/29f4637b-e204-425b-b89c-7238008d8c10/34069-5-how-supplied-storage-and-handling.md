@@ -19,23 +19,23 @@ AFREZZA (insulin human) Inhalation Powder is available in the following configur
 | --- | --- | --- | --- | --- | --- |
 | 47918-874-90 | 4 units | 90 | 90 | 360 Units | 2 |
 | 47918-878-90 | 8 units | 90 | 90 | 720 Units | 2 |
-| 47918-891-90 | 12 units | 90 | 90 | 1080 Units | 2 |
-| 47918-898-18 | 8 units, 12 units | 90 | 180 | 1800 Units | 2 |
-| 47918-880-18 (Titration Pack) | 4 units, 8 units | 90 | 180 | 1080 Units | 2 |
-| 47918-902-18 (Titration Pack) | 4 units, 8 units, 12 units | 60 | 180 | 1440 Units | 2 |
+| 47918-891-90 | 12 units | 90 | 90 | 1,080 Units | 2 |
+| 47918-898-18 | 8 units, 12 units | 90 | 180 | 1,800 Units | 2 |
+| 47918-880-18 (Titration Pack) | 4 units, 8 units | 90 | 180 | 1,080 Units | 2 |
+| 47918-902-18 (Titration Pack) | 4 units, 8 units, 12 units | 60 | 180 | 1,440 Units | 2 |
 
 Storage:
 
-Not in Use: Refrigerated Storage 2-8ºC (36-46ºF)
+Not in Use: Refrigerated Storage 2ºC to 8ºC (36ºF to 46ºF)
 
 | Sealed (Unopened) Foil Package | May be stored until the Expiration Date* |
 | --- | --- |
-| Sealed (Unopened) Blister Cards + Strips | Must be used within 1 month* |
+| Sealed (Unopened) Blister Cards and Strips | Must be used within 1 month* |
 | * If a foil package, blister card or strip is not refrigerated, the contents must be used within 10 days. |  |
 
-In Use: Room Temperature Storage 25ºC (77ºF), excursions permitted 15-30ºC (59-86ºF)
+In Use: Room Temperature Storage 25ºC (77ºF), excursions permitted 15ºC to 30ºC (59ºF to 86ºF)
 
-| Sealed (Unopened) Blister Cards + Strips | Must be used within 10 days |
+| Sealed (Unopened) Blister Cards and Strips | Must be used within 10 days |
 | --- | --- |
 | Opened Strips | Must be used within 3 days |
 
@@ -43,7 +43,7 @@ Do not put a blister card or strip back into the refrigerator after being stored
 
 Inhaler Storage:
 
-Store refrigerated or at room temperature 2-25ºC (36-77ºF); excursions permitted.
+Store refrigerated or at room temperature 2ºC to 25ºC (36ºF to 77ºF); excursions permitted.
 Inhaler may be stored refrigerated, but should be at room temperature before use.
 
 Handling:
