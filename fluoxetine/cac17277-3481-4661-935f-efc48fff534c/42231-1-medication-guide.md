@@ -1,5 +1,3 @@
-Print Medication Guides at: www.chartwellpharma.com/medguides
-
 | Medication Guide Fluoxetine Oral Solution, USP (floo ox’ e teen) |
 | --- |
 
@@ -66,7 +64,11 @@ Severe allergic reactions:
 Abnormal bleeding:Fluoxetine and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin ®, Jantoven ®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
 5.
-Visual Problems: • eye pain • changes in vision • swelling or redness in or around the eye
+Visual Problems:
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
 
 6.
 Seizures or convulsions
@@ -158,7 +160,7 @@ Do not take fluoxetine if you:
   - Do not take an MAOI within 5 weeks of stopping fluoxetine unless directed to do so by your physician.
   - Do not start fluoxetine if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
-People who takefluoxetineclose in time to an MAOI may have serious or even life-threatening side effects.
+People who take fluoxetine close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
 
 - high fever
@@ -167,9 +169,9 @@ Get medical help right away if you have any of these symptoms:
 - rapid changes in heart rate or blood pressure
 - confusion
 - loss of consciousness (pass out)
-- take Mellaril® (thioridazine).
-  Do not take Mellaril® within 5 weeks of stopping fluoxetine because this can cause serious heart rhythm problems or sudden death.
-- take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
+- take Mellaril ®(thioridazine).
+  Do not take Mellaril ®within 5 weeks of stopping fluoxetine because this can cause serious heart rhythm problems or sudden death.
+- take the antipsychotic medicine pimozide (Orap ®) because this can cause serious heart problems.
 
 | What should I tell my healthcare provider before taking fluoxetine? Ask if you are not sure. |
 | --- |
@@ -208,9 +210,9 @@ Do not start or stop any medicine while taking fluoxetine without talking to you
 
 If you take fluoxetine, you should not take any other medicines that contain fluoxetine hydrochloride including:
 
-- *Symbyax®
-- *Sarafem®
-- *PROZAC® Weekly.
+- *Symbyax ®
+- *Sarafem ®
+- *PROZAC ®Weekly.
 
 | How should I take fluoxetine? |
 | --- |
@@ -295,7 +297,7 @@ This Medication Guide summarizes the most important information about fluoxetine
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about fluoxetine that is written for healthcare professionals.
 
-For more information about fluoxetine call 1-845-232-1683 or visit www.chartwellpharma.com.
+For more information about fluoxetine call 1-845-232-1683.
 
 | What are the ingredients in fluoxetine? |
 | --- |
@@ -307,5 +309,7 @@ Inactive ingredients in oral solution:benzoic acid, sucrose, glycerin, peppermin
 Manufactured for: Chartwell RX, LLC.
 Congers, NY 10920
 
-L71637 Rev.
-10/2023
+L71637
+
+Rev.
+01/2026

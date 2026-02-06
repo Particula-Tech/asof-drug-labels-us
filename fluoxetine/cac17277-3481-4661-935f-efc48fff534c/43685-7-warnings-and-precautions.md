@@ -133,9 +133,9 @@ Bleeding reactions related to SNRIs and SSRIs use have ranged from ecchymoses, h
 
 Patients should be cautioned about the increased risk of bleeding associated with the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
 
-## 5.8 Angle-Closure Glaucoma
+## 5.8 Angle Closure Glaucoma
 
-Angle-Closure Glaucoma - The pupillary dilation that occurs following use of many antidepressant drugs including fluoxetine may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Angle-Closure Glaucoma- The pupillary dilation that occurs following use of many antidepressant drugs including fluoxetine may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.9 Hyponatremia
 

@@ -82,8 +82,6 @@ Pregnancy -Advise pregnant women to notify their healthcare provider if they bec
 
 Advise patients that fluoxetine use later in pregnancy may lead to increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, tube feeding, and/or persistent pulmonary hypertension of the newborn (PPHN) [see Use in Specific Populations (8.1)].
 
-Advise women that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to fluoxetine during pregnancy [see Use in Specific Populations (8.1)].
-
 Lactation -Advise breastfeeding women using fluoxetine to monitor infants for agitation, irritability, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
 Pediatric Use of Fluoxetine— Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warningand Warnings and Precautions (5.1)].
@@ -93,7 +91,6 @@ Height and weight should be monitored periodically in pediatric patients receivi
 Manufactured for: Chartwell RX, LLC.
 Congers, NY 10920
 
-Print Medication Guides at: www.chartwellpharma.com/medguides
+L71636
 
-L71636 Rev.
-05/2024
+Revision 01

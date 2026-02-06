@@ -90,7 +90,7 @@ Symptoms associated with discontinuation of fluoxetine, SNRIs, and SSRIs, have b
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with fluoxetine.
 Conversely, at least 5 weeks should be allowed after stopping fluoxetine before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.1)].
 
-## 2.10 Use of Fluoxetine with Other MAOIs such as Linezolid or Methylene Blue
+## 2.10 Use of fluoxetine with Other MAOIs such as Linezolid or Methylene Blue
 
 Do not start fluoxetine in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4.1)].

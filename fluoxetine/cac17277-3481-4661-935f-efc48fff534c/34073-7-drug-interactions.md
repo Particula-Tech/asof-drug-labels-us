@@ -57,7 +57,7 @@ If fluoxetine is added to the treatment regimen of a patient already receiving a
 Drugs with a narrow therapeutic index represent the greatest concern (e.g., flecainide, propafenone, vinblastine, and TCAs).
 Due to the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued [see Contraindications (4.2)].
 
-Tricyclic Antidepressants (TCAs) —In 2 studies, previously stable plasma levels of imipramine and desipramine have increased greater than 2- to 10-fold when fluoxetine has been administered in combination.
+Tricyclic Antidepressants (TCAs)— In 2 studies, previously stable plasma levels of imipramine and desipramine have increased greater than 2- to 10-fold when fluoxetine has been administered in combination.
 This influence may persist for 3 weeks or longer after fluoxetine is discontinued.
 Thus, the dose of TCAs may need to be reduced and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 

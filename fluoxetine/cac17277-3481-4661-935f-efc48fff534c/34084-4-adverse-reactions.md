@@ -24,7 +24,6 @@ Multiple doses of fluoxetine have been administered to 10,782 patients with vari
 In addition, there have been 425 patients administered fluoxetine in panic clinical trials.
 The stated frequencies represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
 A reaction was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
-
 Incidence in Major Depressive Disorder, OCD, bulimia, and Panic Disorder placebo-controlled clinical trials (excluding data from extensions of trials)— Table 2 enumerates the most common treatment-emergent adverse reactions associated with the use of fluoxetine (incidence of at least 5% for fluoxetine and at least twice that for placebo within at least 1 of the indications) for the treatment of Major Depressive Disorder, OCD, and bulimia in US controlled clinical trials and Panic Disorder in US plus non-US controlled trials.
 Table 4 enumerates treatment-emergent adverse reactions that occurred in 2% or more patients treated with fluoxetine and with incidence greater than placebo who participated in US Major Depressive Disorder, OCD, and bulimia controlled clinical trials and US plus non-US Panic Disorder controlled clinical trials.
 Table 3 provides combined data for the pool of studies that are provided separately by indication in Table 2.
