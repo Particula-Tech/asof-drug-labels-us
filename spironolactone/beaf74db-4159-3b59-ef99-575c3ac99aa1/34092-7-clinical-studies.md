@@ -32,17 +32,11 @@ Spironolactone also reduced the risk of hospitalization for cardiac causes (defi
 
 The survival curves by treatment group are shown in Figure 1.
 
-Figure 1.
-Survival by Treatment Group in the Randomized Spironolactone Evaluation Study
-
 Mortality hazard ratios for some subgroups are shown in Figure 2.
 The favorable effect of spironolactone on mortality appeared similar for both genders and all age groups except patients younger than 55.
 There were too few non-whites in the Randomized Spironolactone Evaluation Study to evaluate if the effects differ by race.
 Spironolactone’s benefit appeared greater in patients with low baseline serum potassium levels and less in patients with ejection fractions < 0.2.
 These subgroup analyses must be interpreted cautiously.
-
-Figure 2.
-Hazard Ratios of All-Cause Mortality by Subgroup in the Randomized Spironolactone Evaluation Study
 
 Figure 2: The size of each box is proportional to the sample size as well as the event rate.
 LVEF denotes left ventricular ejection fraction, Ser Creatinine denotes serum creatinine, Cr Clearance denotes creatinine clearance, and ACEI denotes angiotensin-converting enzyme inhibitor.

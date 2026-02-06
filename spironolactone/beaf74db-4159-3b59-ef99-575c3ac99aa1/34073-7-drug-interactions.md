@@ -43,3 +43,8 @@ Therefore, when spironolactone tablets and acetylsalicylic acid are used concomi
 
 Spironolactone binds to the androgen receptor and may increase prostate-specific antigen (PSA) levels in abiraterone-treated prostate cancer patients.
 Concomitant use of spironolactone and abiraterone is not recommended.
+
+## 7.8 Mitotane
+
+Avoid concomitant use of spironolactone tablets and mitotane.
+Spironolactone reduces mitotane plasma levels [see Clinical Pharmacology (12.3)].
