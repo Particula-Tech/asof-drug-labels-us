@@ -1,4 +1,4 @@
-Healthcare professionals can telephone Purdue Pharma's Medical Services Department (1-888-726-7535) for information on this product.
+Healthcare professionals can telephone Purdue Pharma's Medical Information Department (1-888-726-7535) for information on this product.
 
 Purdue Pharma L.P.
 Stamford, CT 06901-3431

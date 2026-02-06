@@ -13,6 +13,6 @@
 | The possible side effects of OXYCONTIN are:constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness, abdominal pain. Call your healthcare provider if you have any of these symptoms and they are severe. |  |  |
 | Get emergency medical help or call 911 right away if you have:trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue, or throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, high body temperature, trouble walking, stiff muscles, or mental changes such as confusion. |  |  |
 | These are not all the possible side effects of OXYCONTIN. Call your healthcare provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. For more information, go to dailymed.nlm.nih.gov Manufactured by: Purdue Pharma L.P., Stamford, CT 06901-3431, www.purduepharma.com or call 1-888-726-7535 |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration |  | Revised: 12/2025 |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 12/2025 |
 
 OXYCONTIN® CII (OXYCODONE HCl) EXTENDED-RELEASE TABLETS

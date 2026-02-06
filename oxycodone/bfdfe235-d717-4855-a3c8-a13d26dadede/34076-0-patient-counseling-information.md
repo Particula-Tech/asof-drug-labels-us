@@ -32,7 +32,7 @@ Interactions with Benzodiazepines or Other CNS Depressants
 
 Inform patients and caregivers that potentially fatal additive effects may occur if OXYCONTIN is used with benzodiazepines or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids), and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
-Patient Access to an Opioid Overdose Reversal for the Emergency Treatment of Opioid Overdose
+Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
 Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
 Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.

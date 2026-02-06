@@ -88,7 +88,7 @@ Approximately 44% (n = 12) had no reduction in liking with OXYCONTIN relative to
 Approximately 56% (n = 15) of subjects had some reduction in drug liking with OXYCONTIN relative to oxycodone HCl.
 Thirty-three percent (n = 9) of subjects had a reduction of at least 30% in drug liking with OXYCONTIN compared to oxycodone HCl, and approximately 22% (n = 6) of subjects had a reduction of at least 50% in drug liking with OXYCONTIN compared to oxycodone HCl.
 
-Figure 1: Percent Reduction Profiles for Emax of Drug Liking VAS for OXYCONTIN vs. oxycodone HCl, N=27 Following Intranasal Administration
+Figure 1: Percent Reduction Profiles for Emax of Drug Liking VAS for OXYCONTIN vs. Oxycodone HCl, N=27 Following Intranasal Administration
 
 The results of a similar analysis of drug liking for finely crushed OXYCONTIN relative to finely crushed original OxyContin were comparable to the results of finely crushed OXYCONTIN relative to powdered oxycodone HCl.
 Approximately 43% (n = 12) of subjects had no reduction in liking with OXYCONTIN relative to original OxyContin.
