@@ -3,7 +3,7 @@
 ## 7.1 Strong CYP1A2 Inhibitors
 
 Concomitant use of Ontralfy with strong cytochrome P450 1A2 (CYP1A2) inhibitors (e.g., fluvoxamine, ciprofloxacin) is contraindicated.
-Changes in pharmacokinetics of tizanidine when administered with a strong CYP1A2 inhibitor resulted in significantly decreased blood pressure, increased drowsiness, and increased psychomotor impairment [see Contraindications (4) and Clinical Pharmacology (12.3)].
+Changes in pharmacokinetics of tizanidine when administered with a strong CYP1A2 inhibitor resulted in significantly decreased blood pressure, increased drowsiness, and increased psychomotor impairment [see Contraindications (4)and Clinical Pharmacology (12.3)].
 
 ## 7.2 Moderate or Weak CYP1A2 Inhibitors
 

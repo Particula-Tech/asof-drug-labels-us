@@ -8,7 +8,7 @@ The overall effect of these actions is thought to reduce facilitation of spinal 
 
 ## 12.2 Pharmacodynamics
 
-The CNS depressant effects of tizanidine and alcohol are additive [see Warnings and Precautions (5.3) and Drug Interactions (7.4)].
+The CNS depressant effects of tizanidine and alcohol are additive [see Warnings and Precautions (5.3)and Drug Interactions (7.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -22,8 +22,8 @@ The absolute oral bioavailability of tizanidine is approximately 40% (CV = 24%),
 
 Effect of Food
 
-In a single dose pharmacokinetic study in healthy adult subjects, the administration of Ontralfy following a standardized high-fat, high-calorie breakfast had minimal effect on the Cmax of tizanidine; however, AUC was increased by approximately 33% when compared to dosing under fasting condition.
-The median Tmax and mean elimination half-life (t1/2) are similar under both fasting and fed conditions.
+In a single dose pharmacokinetic study in healthy adult subjects, the administration of Ontralfy following a standardized high-fat, high-calorie breakfast had minimal effect on the C maxof tizanidine; however, AUC was increased by approximately 33% when compared to dosing under fasting condition.
+The median T maxand mean elimination half-life (t 1/2) are similar under both fasting and fed conditions.
 
 Distribution
 
@@ -70,8 +70,8 @@ Drug Interactions
 CYP1A2 Inhibitors
 
 The effects of coadministration of fluvoxamine or ciprofloxacin, both strong CYP1A2 inhibitors, on the pharmacokinetics of a single 4 mg dose of tizanidine was studied in 10 healthy subjects.
-The Cmax, AUC, and half-life of tizanidine increased by 12-fold, 33-fold, and 3-fold, respectively, with coadministration of fluvoxamine.
-The Cmax and AUC of tizanidine increased by 7-fold and 10-fold, respectively, with coadministration of ciprofloxacin [see Contraindications (4)].
+The C max, AUC, and half-life of tizanidine increased by 12-fold, 33-fold, and 3-fold, respectively, with coadministration of fluvoxamine.
+The C maxand AUC of tizanidine increased by 7-fold and 10-fold, respectively, with coadministration of ciprofloxacin [see Contraindications (4)].
 
 There have been no clinical studies evaluating the effects of other CYP1A2 inhibitors on tizanidine [see Drug Interactions (7.2)].
 
@@ -84,9 +84,9 @@ Retrospective analysis of population pharmacokinetic data following single and m
 
 Acetaminophen
 
-Tizanidine delayed the Tmax of acetaminophen by 16 minutes.
+Tizanidine delayed the T maxof acetaminophen by 16 minutes.
 Acetaminophen did not affect the pharmacokinetics of tizanidine.
 
 Alcohol
 
-Alcohol increased the AUC and Cmax of tizanidine by approximately 20% and 15%, respectively [see Drug Interactions (7.4)].
+Alcohol increased the AUC and C maxof tizanidine by approximately 20% and 15%, respectively [see Drug Interactions (7.4)].

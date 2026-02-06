@@ -13,20 +13,19 @@ The maximum total daily dosage is 36 mg (90 mL).
 Single doses greater than 16 mg (40 mL) have not been studied.
 
 The pharmacokinetics of Ontralfy differ when taken with or without food [see Clinical Pharmacology (12.3)].
-Ontralfy may be taken with or without food; however, consistent administration with respect to food is recommended to reduce variability in tizanidine plasma exposure.
-If administration with respect to food is changed, monitor patients for therapeutic effect or adverse reactions [see Clinical Pharmacology (12.3)].
+Ontralfy may be taken with or without food; however, consistent administration with respect to food is recommended to reduce variability in tizanidine plasma exposure.If administration with respect to food is changed, monitor patients for therapeutic effect or adverse reactions [see Clinical Pharmacology (12.3)].
 
 Because of the short duration of therapeutic effect, treatment with Ontralfy should be reserved for those daily activities and times when relief of spasticity is most important.
 
 ## 2.3 Recommended Dosage in Patients with Renal Impairment
 
 In patients with creatinine clearance < 25 mL/min, use lower individual doses during titration.
-If higher doses are required, the individual doses rather than dosing frequency should be increased [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+If higher doses are required, the individual doses rather than dosing frequency should be increased [see Use in Specific Populations (8.6)and Clinical Pharmacology (12.3)].
 
 ## 2.4 Recommended Dosage in Patients with Hepatic Impairment
 
 In patients with hepatic impairment, use lower individual doses during titration.
-If higher doses are required, individual doses rather than dosing frequency should be increased [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+If higher doses are required, individual doses rather than dosing frequency should be increased [see Use in Specific Populations (8.7)and Clinical Pharmacology (12.3)].
 
 ## 2.5 Discontinuation of Ontralfy
 

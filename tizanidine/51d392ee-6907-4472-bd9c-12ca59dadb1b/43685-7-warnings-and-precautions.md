@@ -2,7 +2,7 @@
 
 ## 5.1 Hypotension
 
-Ontralfy is an α2-adrenergic agonist that can produce hypotension [see Adverse Reactions (6.1) and Drug Interactions (7.5)].
+Ontralfy is an α 2-adrenergic agonist that can produce hypotension [see Adverse Reactions (6.1)and Drug Interactions (7.5)].
 Syncope has been reported in patients treated with tizanidine in the postmarketing setting.
 The risk of hypotension may be minimized by dose titration; monitoring for signs and symptoms of hypotension prior to dosage increase may minimize the risks associated with hypotension.
 In addition, patients moving from a supine to fixed upright position may be at increased risk for hypotension and orthostatic effects.
@@ -10,13 +10,13 @@ In addition, patients moving from a supine to fixed upright position may be at i
 Monitor for hypotension when Ontralfy is used in patients receiving concurrent antihypertensive therapy.
 It is not recommended that Ontralfy be used with other α2-adrenergic agonists.
 Clinically significant hypotension (decreases in both systolic and diastolic pressure) has been reported with concomitant administration of tizanidine and strong CYP1A2 inhibitors [see Clinical Pharmacology (12.3)].
-Therefore, concomitant use of Ontralfy with strong CYP1A2 inhibitors is contraindicated [see Contraindications (4) and Drug Interactions (7.1)].
+Therefore, concomitant use of Ontralfy with strong CYP1A2 inhibitors is contraindicated [see Contraindications (4)and Drug Interactions (7.1)].
 
 ## 5.2 Liver Injury
 
 Ontralfy may cause hepatocellular liver injury.
 Liver function test abnormality and hepatotoxicity have been observed with tizanidine, the active moiety of Ontralfy [see Adverse Reactions (6.1, 6.2)].
-Monitoring of aminotransferase levels is recommended at baseline and 1 month after maximum dose is achieved, or if hepatic injury is suspected [see Dosage and Administration (2.1) and Use in Specific Populations (8.7)].
+Monitoring of aminotransferase levels is recommended at baseline and 1 month after maximum dose is achieved, or if hepatic injury is suspected [see Dosage and Administration (2.1)and Use in Specific Populations (8.7)].
 
 ## 5.3 Sedation
 

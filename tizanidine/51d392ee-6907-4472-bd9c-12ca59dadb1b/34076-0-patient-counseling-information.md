@@ -3,7 +3,7 @@
 Serious Drug Interactions
 
 Advise patients they should not take Ontralfy if they are taking fluvoxamine or ciprofloxacin because of the increased risk of serious adverse reactions including severe lowering of blood pressure and sedation.
-Instruct patients to inform their healthcare providers when they start or stop taking any medication because of the risks associated with interaction between Ontralfy and other medicines [see Contraindications (4) and Drug Interactions (7)].
+Instruct patients to inform their healthcare providers when they start or stop taking any medication because of the risks associated with interaction between Ontralfy and other medicines [see Contraindications (4)and Drug Interactions (7)].
 
 Ontralfy Dosing and Administration
 
