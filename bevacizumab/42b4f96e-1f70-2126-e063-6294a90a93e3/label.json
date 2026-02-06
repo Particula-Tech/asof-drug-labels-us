@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761231"
+  ],
+  "inn": "bevacizumab",
+  "labeler": "Valorum Biologics, LLC",
+  "package_ndcs": [
+    "85006-1754-1",
+    "85006-1755-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bevacizumab-maly",
+      "name": "ALYMSYS"
+    }
+  ],
+  "setid": "42b4f96e-1f70-2126-e063-6294a90a93e3",
+  "source": "dailymed"
+}
