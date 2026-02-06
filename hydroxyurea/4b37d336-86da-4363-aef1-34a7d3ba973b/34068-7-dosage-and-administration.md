@@ -2,7 +2,7 @@
 
 ## 2.1 Recommended Dosage
 
-The recommended XROMI dosage in pediatric patients aged 6 months to less than 2 years is described in Table 1.
+The recommended XROMI dosage in pediatric patients aged 6 months and older is described in Table 1.
 
 Table 1.
 Dosing Recommendation Based on Blood Count
@@ -10,7 +10,7 @@ Dosing Recommendation Based on Blood Count
 | Dosing Regimen | Dose | Dose modification criteria | Monitoring parameters |
 | --- | --- | --- | --- |
 | Initial Recommended dosing | 15 mg/kg/day (rounded to nearest 10 mg) orally as a single dose once daily based on the patient’s actual body weight. |  | Monitor the patient’s complete blood count (CBC) with differential and reticulocyte count every 2 weeks while adjusting dosage [see Warnings and Precautions (5.1)]. |
-| Dosing Adjustment Based on Blood Counts in the acceptable range | Increase dose 5 mg/kg/day every 8 to12 weeks. Maximal dose: 35 mg/kg/day.* *Maximal dose is the highest dose that does not produce toxic blood counts over 24 consecutive weeks. | Increase dose only if blood counts are in an acceptable range. Do not increase if myelosuppression occurs. | Target Blood Counts Absolute neutrophil count (ANC) 1 to 3 x 109/L and platelets at least 80 x 109/L |
+| Dosing Adjustment Based on Blood Counts in the acceptable range | Increase dose 5 mg/kg/day every 8 to 12 weeks. Maximal dose: 35 mg/kg/day.* *Maximal dose is the highest dose that does not produce toxic blood counts over 24 consecutive weeks. | Increase dose only if blood counts are in an acceptable range. Do not increase if myelosuppression occurs. | Target Blood Counts Absolute neutrophil count (ANC) 1 to 3 x 109/L and platelets at least 80 x 109/L |
 | Dosing Adjustment Based on Blood Counts below acceptable range | Do not increase dose. | If blood counts are considered toxic, discontinue XROMI until hematologic recovery. | Blood Counts Toxic Range ANC less than 1 x 109/LPlatelets less than 80 x 109/LHemoglobin 20% decrease from baseline or hemoglobin less than 4.5 g/dLReticulocytes less than 80 x109/L if the hemoglobin concentration is less than 9 g/dL. |
 | Dosing after Hematologic Recovery | If hematologic toxicity resolved within 1 week, restart at the same XROMI dose. If hematologic toxicity persisted for more than 1 week or occurred twice in a 3 month period, reduce dose by 5 mg/kg/day. |  | Once a stable dose is established, monitor CBC with differential and reticulocyte count every 4 weeks for 2 months and then as clinically indicated. |
 
@@ -33,7 +33,7 @@ Prophylactic administration of folic acid is recommended.
 XROMI is for oral use.
 See Instructions for Use for details on preparation and administration of XROMI for oral solution.
 Do not shake.
-Two dosing oral syringes (one oral dosing syringe graduated to 3 mL and one oral dosing syringe graduated to 10 mL) are provided for accurate measurement of the prescribed dose of the oral solution.
+Two oral dosing syringes (one oral dosing syringe graduated to 3 mL and one oral dosing syringe graduated to 10 mL) are provided for accurate measurement of the prescribed dose of the oral solution.
 It is recommended that the healthcare professional advises the caregiver which oral dosing syringe to use to ensure that the correct volume is administered.
 The smaller 3 mL oral dosing syringe, marked from 0.5 mL to 3 mL, is for measuring doses of less than or equal to 3 mL.
 This oral dosing syringe should be recommended for doses less than or equal to 3 mL (each graduation of 0.1 mL contains 10 mg of hydroxyurea).
@@ -46,7 +46,7 @@ Follow applicable special handling and disposal procedures [see Reference (15)].
 ## 2.3 Dosage Modifications in Renal Impairment
 
 Reduce the dose of XROMI by 50% in patients with creatinine clearance of less than 60 mL/min or with end-stage renal disease (ESRD) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
-Creatinine clearance were obtained using 24-hour urine collections.
+Creatinine clearance were obtained using 24-hour urine collection.
 
 Table 2.
 Creatinine Clearance

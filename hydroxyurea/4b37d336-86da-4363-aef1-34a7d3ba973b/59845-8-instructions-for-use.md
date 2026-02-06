@@ -8,19 +8,19 @@ This Instructions for Use does not take the place of talking to your child's hea
 Important information:
 
 - Always use the oral dosing syringe provided with your child's XROMI oral solution to measure your child's prescribed dose.
-- Ask your child’s healthcare provider or pharmacist to show you which oral dosing syringe to use and how to measure your child’s prescribed dose if you are not sure.
+  Ask your child’s healthcare provider or pharmacist to show you which oral dosing syringe to use and how to measure your child’s prescribed dose if you are not sure.
 - Wash your hands with soap and water before and after handling XROMI oral solution and oral dosing syringes.
 - Wear disposable gloves when handling XROMI oral solution and oral dosing syringes.
-- Women who are pregnant, planning to be pregnant or breastfeeding should not handle XROMI.
 - Avoid contact with the oral solution.
   If contact with the oral solution happens on the skin, nose, or mouth, wash the area right away and thoroughly with soap and water.
   If contact with the oral solution happens in the eyes, flush the eyes thoroughly with water and isotonic eyewash used for that purpose for at least 15 minutes.
 - If the oral solution is spilled, wipe it up right away with a damp disposable towel.
   Throw the damp disposable towel away in a closed container such as a plastic bag.
   The spill area should then be cleaned up using a detergent solution followed by clean water.
-- Do not shake the bottle Each carton of XROMI oral solution contains: • 1 bottle of XROMI oral solution • 1 bottle adapter • One 3 mL oral dosing syringe (for doses of 3 mL or less) • One 10 mL oral dosing syringe (for doses more than 3 mL)
+- Do not shake the bottle.
+  Each carton of XROMI oral solution contains: • 1 bottle of XROMI oral solution • 1 bottle adapter • One 3 mL oral dosing syringe (for doses of 3 mL or less) • One 10 mL oral dosing syringe (for doses more than 3 mL)
 
-If your carton does not contain 2 oral dosing syringes, contact your pharmacist.
+If your carton does not contain two oral dosing syringes, contact your pharmacist.
 You will also need disposable gloves.
 
 | Before giving XROMI: |  |
@@ -47,8 +47,6 @@ Storing XROMI
 
 - Store XROMI in a refrigerator between 35°F to 46°F (2°C to 8°C).
   Do not freeze.
-- XROMI comes in a bottle with a child-resistant cap.
-  Keep the bottle tightly closed.
 - Store the XROMI bottle and oral dosing syringe in a clean place.
 - XROMI oral solution should be used within 12 weeks after opening the bottle.
   Dispose of (throw away) any unused medicine and the dosing syringes after 12 weeks.
@@ -59,4 +57,4 @@ Disposing of XROMI
 
 - Ask your pharmacist for instructions on how to throw away (dispose of) XROMI that is expired or no longer needed.
 
-Manufactured by: Nova Laboratories Ltd., Leicester, LE18 4YL, United Kingdom Manufactured for: Rare Disease Therapeutics, Inc., 2550 Meridian Blvd., Suite 150, Franklin, TN 37067 Part Number: D001434/1 This “Instructions for Use” has been approved by the U.S. Food and Drug Administration Revised: 10/2024
+Manufactured by: Nova Laboratories Ltd., Leicester, LE18 4YL, United Kingdom Manufactured for: Rare Disease Therapeutics, Inc., 2550 Meridian Blvd., Suite 150, Franklin, TN 37067 Part Number: D001426/1 This “Instructions for Use” has been approved by the U.S. Food and Drug Administration Revised: 12/2024
