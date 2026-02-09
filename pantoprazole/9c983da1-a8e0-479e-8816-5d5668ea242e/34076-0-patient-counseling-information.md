@@ -55,8 +55,6 @@ Administration
 This product's label may have been updated.
 For the most recent prescribing information, please visit www.torrentpharma.com
 
-Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
-
 Manufactured by:
 
 Torrent Pharmaceuticals LTD., India.
@@ -65,4 +63,4 @@ Manufactured for:
 
 Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8098026 Revised: April 2025
+8105982 Revised: December 2025
