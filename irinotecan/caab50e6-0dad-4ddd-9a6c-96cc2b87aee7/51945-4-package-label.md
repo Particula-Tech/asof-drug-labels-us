@@ -12,7 +12,7 @@ Rx only
 
 For Intravenous Use Only
 
-Must be diluted before use
+Discard Unused Portion
 
 Warning: Hazardous Drug
 
@@ -30,6 +30,6 @@ Rx only
 
 For Intravenous Use Only
 
-Must be diluted before use
+Discard unused portion
 
 Warning: Hazardous Drug
