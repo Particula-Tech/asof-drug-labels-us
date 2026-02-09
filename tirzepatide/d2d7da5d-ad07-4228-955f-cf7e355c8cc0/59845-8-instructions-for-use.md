@@ -407,3 +407,164 @@ MON-MDV-0001-IFU-20260107
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Revised: January 2026
+
+# Mounjaro KwikPen Multi-Dose Pen Instructions for Use
+
+INSTRUCTIONS FOR USE
+
+MOUNJARO® [mown-JAHR-OH] KwikPen ® [KWIHK pehn]
+
+(tirzepatide)
+
+injection, for subcutaneous use
+
+multi-dose single-patient-use prefilled pen
+
+Each pen contains 4 fixed doses, one dose taken weekly.
+
+This Instructions for Use contains information on how to inject MOUNJARO.
+
+| Important information you need to know before injecting MOUNJARO |
+| --- |
+
+Read this INSTRUCTIONS FOR USE before you start injecting MOUNJARO KwikPen (Pen) and each time you get another new Pen.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+
+- MOUNJARO KwikPen is a disposable multi-dose single-patient-use prefilled pen.
+  The Pen contains 4 fixed doses, one dose taken weekly.
+  Inject a single weekly injection, under the skin (subcutaneously).
+- For your weekly dose, you need to turn the dose knob all the way until it stops AND the icon is in dose window.
+- After 4 doses, throw away (discard) the Pen, including the unused medicine.
+  The Pen will prevent you from dialing a full dose after you have given yourself 4 weekly doses.
+  Do not inject the leftover medicine.
+  Do not transfer MOUNJARO from your Pen into a syringe.
+- Do not share your MOUNJARO Pen with other people, even if the pen needle has been changed.
+  You may give other people a serious infection or get a serious infection from them.
+- People who are blind or have vision problems should not use the Pen without help from a person trained to use the Pen.
+
+| Guide to parts |
+| --- |
+
+Parts of the MOUNJARO Pen
+
+| Supplies needed to give your injection |
+| --- |
+
+| MOUNJARO KwikPen KwikPen-compatible Pen Needle (not included) | Alcohol swab Gauze or cotton ball FDA-cleared sharps disposal container or household container |
+| --- | --- |
+
+| Preparing to inject MOUNJARO |  |  |
+| --- | --- | --- |
+|  |  | Step 1: Wash your hands with soap and water. |
+|  |  | Step 2: Pull the Pen cap straight off. Inspect the Pen and label. Do not use if: –the medicine name or dose strength does not match your prescription. –the Pen is expired (EXP) or looks damaged. –the medicine has been frozen, has particles, is cloudy, or is discolored. MOUNJARO should be colorless to slightly yellow. |
+|  |  | Step 3: Wipe the red inner seal with an alcohol swab. |
+|  |  | Step 4: Select a new pen needle. Always use a new pen needle for each injection to help prevent infections and blocked needles. Pull off the paper tab from the outer needle shield. |
+|  |  | Step 5: Push the capped pen needle straight onto the Pen and twist the pen needle on until it is tight. |
+|  |  | Step 6: Pull off the outer needle shield and keep it. This will be reused. Pull off the inner needle shield. Put it in your household trash. |
+| a. Outer needle shield | b. Inner needle shield |  |
+| Priming your Pen |  |  |
+| Prime before each weekly injection. Priming removes air from the cartridge and makes sure that your Pen is working correctly. |  |  |
+|  |  | Step 7: Slowly turn the dose knob until you hear 2 clicks and the extended line is shown in the dose window. This is the prime position. It can be corrected by turning the dose knob in either direction until the prime position lines up to the dose indicator. |
+|  |  | Step 8: Hold your Pen with the needle pointing up. Tap the cartridge holder gently to collect air bubbles at the top. |
+|  |  | Step 9: Release some medicine into the air by pushing the dose knob in until it stops, then slowly count to 5 while holding the dose knob. The icon must be shown in the dose window. Do not inject into your body. Your Pen has been primed if a small amount (a drop) of medicine comes out of the tip of the pen needle. –If you do not see medicine, repeat steps 7-9, no more than 2 additional times. –If you still do not see medicine, then change the pen needle and repeat steps 7-9, no more than 1 additional time. –If you still do not see medicine, contact Lilly at 1-800-LillyRx (1-800-545-5979). |
+
+| Injecting MOUNJARO |
+| --- |
+
+|  | Step 10: Choose an injection site. You or another person can inject the medicine in your thigh or stomach (abdomen) at least 2 inches from the belly button. Another person should give you the injection in the back of your upper arm. Change (rotate) your injection site each week. You may use the same area of your body but be sure to choose a different injection site in that area. |
+| --- | --- |
+| a. Front b. Back |  |
+|  | Step 11: Turn the dose knob all the way until it stops AND the icon is in the dose window. This is your weekly dose. Do not count clicks as you select the dose. |
+|  | Step 12: Insert the needle into your skin. Inject the medicine by pushing the dose knob in until it stops then slowly count to 5 while holding the dose knob. You may notice the plunger moving with each injection. The icon must be shown in the dose window before removing the needle. |
+|  | Step 13: Pull the needle out of your skin. A drop of medicine on the needle tip is normal. It will not affect your dose. Confirm the icon is in the dose window. If you see the icon in the dose window, you have received the full dose. If you do not see the icon in the dose window, insert the needle back into your skin and finish your injection. Do not redial the dose. If you still do not think you received the full dose, do not start over or repeat the injection. See “Troubleshooting” section for more information. |
+
+| After your MOUNJARO injection |
+| --- |
+
+|  | Step 14: If you see blood after you pull the needle out of your skin, lightly press the injection site with gauze or a cotton ball. Do not rub the injection site. |
+| --- | --- |
+|  | Step 15: Carefully replace the outer needle shield. |
+|  | Step 16: Unscrew the capped needle and put the needle in a sharps container (see "Disposing of MOUNJARO KwikPen and pen needles" section). Do not store the Pen with the needle attached to prevent leaking, blocking the needle, and air from entering the Pen. |
+|  | Step 17: Replace the Pen cap. Do not store the Pen without the Pen cap attached. |
+
+| Storing your MOUNJARO KwikPen |
+| --- |
+
+Unused Pens:
+
+- Store unused Pens in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Unused Pens may be used until the expiration date (EXP) printed on the label if the Pen has been kept in the refrigerator.
+- Do not freeze your Pen.
+  Throw away (discard) the Pen if it has been frozen.
+
+Used Pens:
+
+- You may store your used Pen at room temperature up to 86°F (30°C) after your injection.
+- Keep away from heat and light.
+- Keep your Pen and needles out of the sight and reach of children.
+- Throw away the Pen 30 days after first use even though the Pen has medicine left in it.
+- Throw away the Pen after receiving 4 weekly doses.
+  Attempting to inject any leftover medicine could result in an incomplete dose even though the Pen still has medicine left in it.
+
+| Disposing of MOUNJARO KwikPen and pen needles |
+| --- |
+
+- Put your used pen needles in an FDA-cleared sharps disposal container right away after use.
+- Do not throw away (discard) loose pen needles in your household trash.
+- Discard the used Pen in your household trash or FDA-cleared sharps disposal container after you have removed the needle.
+- If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
+  - –made of a heavy-duty plastic,
+  - –can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - –upright and stable during use,
+  - –leak-resistant, and
+  - –properly labeled to warn of hazardous waste inside the container.
+- When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away (discard) used needles.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.
+- Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
+
+| Troubleshooting |
+| --- |
+
+- If you cannot remove the Pen cap, gently twist the Pen cap back and forth, and then pull the Pen cap straight off.
+- If the dose knob is hard to push:
+  - –pushing the dose knob more slowly will make it easier to inject.
+  - –your needle may be blocked.
+    Put on a new pen needle and prime the Pen.
+  - –you may have dust, food, or liquid inside the Pen.
+    Throw the Pen away and get a new Pen.
+- If the Pen prevents you from turning the dose knob until the is in the dose window:
+  - –Throw away (discard) the Pen, including the unused medicine.
+    There may not be enough medicine left in the pen to give a full dose.
+    Do not attempt to inject the leftover medicine.
+
+Additional Information:
+
+If you have any questions or problems with MOUNJARO KwikPen:
+
+| Call your healthcare provider Call 1-800-Lilly-Rx (1-800-545-5979) Visit www.mounjaro.com |  | Scan this code to launch www.mounjaro.com |
+| --- | --- | --- |
+
+MOUNJAROâ and KwikPen® are registered trademarks of Eli Lilly and Company.
+
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
+
+Copyright ©2026, Eli Lilly and Company.
+All rights reserved.
+
+MOUNJARO KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1.
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Issued: January 2026
+
+MOUKP-0001-IFU-20260120
+
+| Medication Calendar |
+| --- |
+
+| Use MOUNJARO 1 time a week. Write the day of the week you choose to inject. Inject on this day each week (Example: Monday). |  | I inject my weekly dose on the dates below. |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| (Month/Day) | (Month/Day) | (Month/Day) | (Month/Day) |  |  |

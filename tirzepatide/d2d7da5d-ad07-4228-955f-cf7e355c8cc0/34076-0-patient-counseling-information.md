@@ -47,6 +47,10 @@ Pulmonary Aspiration During General Anesthesia or Deep Sedation
 Inform patients that MOUNJARO may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
 Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking MOUNJARO [see Warnings and Precautions (5.9)].
 
+Never Share a MOUNJARO KwikPen Between Patients
+
+Advise patients that they must never share a MOUNJARO KwikPen with another person, even if the pen needle is changed, because doing so carries a risk for transmission of blood-borne pathogens [see Warnings and Precautions (5.10)].
+
 Pregnancy
 
 Advise a pregnant woman of the potential risk to a fetus.
@@ -61,7 +65,11 @@ Administration
 
 Instruct patients how to prepare and administer the correct dose of MOUNJARO and assess their ability to inject subcutaneously to ensure the proper administration of MOUNJARO.
 Instruct patients using MOUNJARO vials to always use a new syringe and needle for each injection.
-Use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL or 0.6 mL dose) [see Dosage and Administration (2.2)].
+Use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL or 0.6 mL dose).
+Notify the patient of which MOUNJARO presentation they will be receiving and ensure training is appropriate for the specific MOUNJARO presentation.
+Advise patients to refer to the IFU in case of any change in the presentation.
+Advise caregivers that MOUNJARO KwikPen is not recommended for self-administration by pediatric patients or those with visual impairment unless their healthcare provider determines the patient can properly administer.
+[see Dosage and Administration (2.2)].
 
 Missed Doses
 
@@ -74,4 +82,4 @@ All rights reserved.
 
 Pat.: www.lilly.com/patents
 
-MOU-0009-USPI-20260107
+MOU-0010-USPI-20260120

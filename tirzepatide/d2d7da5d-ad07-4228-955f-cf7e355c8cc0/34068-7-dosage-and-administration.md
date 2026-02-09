@@ -1,8 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage
+## 2.1 Recommended Dosage
 
-- The recommended starting dosage of MOUNJARO is 2.5 mg injected subcutaneously once weekly.
+- The recommended starting dosage of MOUNJARO is 2.5 mg injected subcutaneously once weekly [see Dosage and Administration (2.2)].
   Follow the dosage escalation below to reduce the risk of gastrointestinal adverse reactions [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)].
   The 2.5 mg dosage is for treatment initiation and is not intended for glycemic control.
 - After 4 weeks, increase the dosage to 5 mg injected subcutaneously once weekly.
@@ -17,8 +17,12 @@
 
 ## 2.2 Important Administration Instructions
 
-- Prior to initiation, train patients and their caregiver(s) on proper injection technique [see Instructions for Use].
-  A patient may self-inject if a healthcare provider determines that it is appropriate.
+- Inform patients and their caregiver(s) which MOUNJARO presentation (e.g., vial, pre-filled single-dose pen, single-patient-use KwikPen) they will receive and ensure they receive training appropriate for that specific presentation.
+  If the prescribed MOUNJARO presentation changes, ensure patients and caregivers receive appropriate training and instruct them to consult the Instructions for Use for the newly prescribed presentation.
+- Prior to initiation, train patients and their caregiver(s) on proper injection technique for the prescribed MOUNJARO presentation [see Instructions for Use].
+  After training, a patient may self-inject MOUNJARO if the healthcare provider determines that it can be properly administered, except for the following:
+  - MOUNJARO KwikPen is not recommended for self-administration by pediatric patients.
+  - MOUNJARO KwikPen is not recommended for self-administration by those who are visually impaired.
 - Instruct patients using MOUNJARO vials to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL or 0.6 mL dose) and always use a new syringe and needle for each injection.
 - Administer MOUNJARO once weekly, any time of day, with or without meals.
 - Inject MOUNJARO subcutaneously in the abdomen, thigh, or another person should inject in the back of the upper arm.

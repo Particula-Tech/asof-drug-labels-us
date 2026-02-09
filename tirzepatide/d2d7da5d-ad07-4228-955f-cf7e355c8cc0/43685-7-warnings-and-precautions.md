@@ -72,3 +72,8 @@ There have been rare postmarketing reports of pulmonary aspiration in patients r
 
 Available data are insufficient to inform recommendations to mitigate the risk of pulmonary aspiration during general anesthesia or deep sedation in patients taking MOUNJARO, including whether modifying preoperative fasting recommendations or temporarily discontinuing MOUNJARO could reduce the incidence of retained gastric contents.
 Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking MOUNJARO.
+
+## 5.10 Never Share a MOUNJARO KwikPen Between Patients
+
+Never share MOUNJARO KwikPen between patients, even if the pen needle is changed.
+Sharing poses a risk for transmission of blood-borne pathogens.

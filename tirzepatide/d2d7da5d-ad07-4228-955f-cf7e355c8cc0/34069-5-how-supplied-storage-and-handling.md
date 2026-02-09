@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-MOUNJARO is a clear, colorless to slightly yellow solution available in cartons containing 4 pre-filled single-dose pens, 1 single-dose vial, or 1 multi-dose vial as follows:
+MOUNJARO is a clear, colorless to slightly yellow solution available in cartons containing 4 pre-filled single-dose pens, 1 single-dose vial, 1 multi-dose vial, or 1 Single-Patient-Use KwikPen as follows:
 
 | Single-Dose Vial and Prefilled Pen |  |  |
 | --- | --- | --- |
@@ -24,10 +24,21 @@ MOUNJARO is a clear, colorless to slightly yellow solution available in cartons 
 | 4 doses of 12.5 mg/0.6 mL | 50 mg/2.4 mL (20.8 mg/mL) | 0002-4523-11 |
 | 4 doses of 15 mg/0.6 mL | 60 mg/2.4 mL (25 mg/mL) | 0002-4612-11 |
 
+| Single-Patient-Use KwikPen (with four weekly doses) |  |  |
+| --- | --- | --- |
+| Doses per KwikPen | Strength | 1-pack Single-Patient-Use KwikPen NDC |
+| 4 doses of 2.5 mg | 10 mg/2.4 mL (4.17 mg/mL) | 0002-3466-11 |
+| 4 doses of 5 mg | 20 mg/2.4 mL (8.33 mg/mL) | 0002-3455-11 |
+| 4 doses of 7.5 mg | 30 mg/2.4 mL (12.5 mg/mL) | 0002-3444-11 |
+| 4 doses of 10 mg | 40 mg/2.4 mL (16.7 mg/mL) | 0002-3433-11 |
+| 4 doses of 12.5 mg | 50 mg/2.4 mL (20.8 mg/mL) | 0002-3422-11 |
+| 4 doses of 15 mg | 60 mg/2.4 mL (25 mg/mL) | 0002-3411-11 |
+
 ## 16.2 Storage and Handling
 
 - Do not freeze MOUNJARO.
   Do not use MOUNJARO if frozen.
+- Protect MOUNJARO from heat and light.
 - Store MOUNJARO in the original carton to protect from light.
 
 MOUNJARO Single-dose Pen and Single-dose Vial
@@ -35,15 +46,15 @@ MOUNJARO Single-dose Pen and Single-dose Vial
 - Store MOUNJARO single-dose pen and single-dose vial in a refrigerator at 2°C to 8°C (36°F to 46°F).
 - If needed, each single-dose pen or single-dose vial can be stored unrefrigerated at temperatures not to exceed 30°C (86°F) for up to 21 days.
 
-MOUNJARO Multi-dose Vial
+MOUNJARO Multi-dose Vial or Single-Patient-Use KwikPen
 
-Unopened vial:
+Unopened vial or single-patient-use KwikPen:
 
-- Store unopened vial in the refrigerator at 2°C to 8°C (36°F to 46°F).
-  The unopened vial can be used until the expiration date on the label if kept in the refrigerator.
-- If stored at room temperature [up to 30°C (86°F)], throw away unopened vial after 30 days.
+- Store unopened multi-dose vial or single-patient-use KwikPen in the refrigerator at 2°C to 8°C (36°F to 46°F).
+  The unopened multi-dose vial or single-patient-use KwikPen can be used until the expiration date on the label if kept in the refrigerator.
+- If stored at room temperature [up to 30°C (86°F)], throw away unopened multi-dose vial or single-patient-use KwikPen after 30 days.
 
-After vial has been opened:
+After vial or single-patient-use KwikPen has been opened:
 
-- Store opened (in-use) vial in the original carton in the refrigerator at 2°C to 8°C (36°F to 46°F) or at room temperature [up to 30°C (86°F)].
-- Throw away opened vial after a total of 30 days at room temperature, 30 days after first use, or after taking 4 weekly doses, even if there is medication left in it.
+- Store opened (in-use) multi-dose vial or single-patient-use KwikPen in the original carton in the refrigerator at 2°C to 8°C (36°F to 46°F) or at room temperature [up to 30°C (86°F)].
+- Throw away opened multi-dose vial or single-patient-use KwikPen after a total of 30 days at room temperature, 30 days after first use, or after taking 4 weekly doses, even if there is medicine left in it.

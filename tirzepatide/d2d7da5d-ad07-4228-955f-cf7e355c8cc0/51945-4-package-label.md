@@ -405,3 +405,201 @@ Needles and Syringes are not included
 Dispense enclosed Medication Guide to each patient.
 
 Lilly
+
+PACKAGE LABEL – MOUNJARO KwikPen – 2.5 mg per dose (10 mg/2.4 mL [4.17 mg/mL])
+
+NDC 0002-3466-11
+
+Rx Only
+
+Mounjaro®
+
+KwikPen®
+
+(tirzepatide) injection
+
+2.5 mg per dose
+
+10 mg/2.4 mL (4.17 mg/mL)
+
+1 Pen with 4 doses of 2.5 mg
+
+TURN THE DOSE KNOB ALL THE WAY UNTIL YOU SEE A. THIS IS ONE DOSE.
+
+For Single-Patient-Use Only
+
+For Subcutaneous Use
+
+Needles not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Use MOUNJARO KwikPen once weekly
+
+Read the INSTRUCTIONS FOR USE.
+This product may have different steps than other products.
+
+PACKAGE LABEL – MOUNJARO KwikPen – 5 mg per dose (20 mg/2.4 mL [8.33 mg/mL])
+
+NDC 0002-3455-11
+
+Rx Only
+
+Mounjaro®
+
+KwikPen®
+
+(tirzepatide) injection
+
+5 mg per dose
+
+20 mg/2.4 mL (8.33 mg/mL)
+
+1 Pen with 4 doses of 5 mg
+
+TURN THE DOSE KNOB ALL THE WAY UNTIL YOU SEE A. THIS IS ONE DOSE.
+
+For Single-Patient-Use Only
+
+For Subcutaneous Use
+
+Needles not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Use MOUNJARO KwikPen once weekly
+
+Read the INSTRUCTIONS FOR USE.
+This product may have different steps than other products.
+
+PACKAGE LABEL – MOUNJARO KwikPen – 7.5 mg per dose (30 mg/2.4 mL [12.5 mg/mL])
+
+NDC 0002-3444-11
+
+Rx Only
+
+Mounjaro®
+
+KwikPen®
+
+(tirzepatide) injection
+
+7.5 mg per dose
+
+30 mg/2.4 mL (12.5 mg/mL)
+
+1 Pen with 4 doses of 7.5 mg
+
+TURN THE DOSE KNOB ALL THE WAY UNTIL YOU SEE A. THIS IS ONE DOSE.
+
+For Single-Patient-Use Only
+
+For Subcutaneous Use
+
+Needles not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Use MOUNJARO KwikPen once weekly
+
+Read the INSTRUCTIONS FOR USE.
+This product may have different steps than other products.
+
+PACKAGE LABEL – MOUNJARO KwikPen – 10 mg per dose (40 mg/2.4 mL [16.7 mg/mL])
+
+NDC 0002-3433-11
+
+Rx Only
+
+Mounjaro®
+
+KwikPen®
+
+(tirzepatide) injection
+
+10 mg per dose
+
+40 mg/2.4 mL (16.7 mg/mL)
+
+1 Pen with 4 doses of 10 mg
+
+TURN THE DOSE KNOB ALL THE WAY UNTIL YOU SEE A. THIS IS ONE DOSE.
+
+For Single-Patient-Use Only
+
+For Subcutaneous Use
+
+Needles not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Use MOUNJARO KwikPen once weekly
+
+Read the INSTRUCTIONS FOR USE.
+This product may have different steps than other products.
+
+PACKAGE LABEL – MOUNJARO KwikPen – 12.5 mg per dose (50 mg/2.4 mL [20.8 mg/mL])
+
+NDC 0002-3422-11
+
+Rx Only
+
+Mounjaro®
+
+KwikPen®
+
+(tirzepatide) injection
+
+12.5 mg per dose
+
+50 mg/2.4 mL (20.8 mg/mL)
+
+1 Pen with 4 doses of 12.5 mg
+
+TURN THE DOSE KNOB ALL THE WAY UNTIL YOU SEE A. THIS IS ONE DOSE.
+
+For Single-Patient-Use Only
+
+For Subcutaneous Use
+
+Needles not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Use MOUNJARO KwikPen once weekly
+
+Read the INSTRUCTIONS FOR USE.
+This product may have different steps than other products.
+
+PACKAGE LABEL – MOUNJARO KwikPen – 15 mg per dose (60 mg/2.4 mL [25 mg/mL])
+
+NDC 0002-3411-11
+
+Rx Only
+
+Mounjaro®
+
+KwikPen®
+
+(tirzepatide) injection
+
+15 mg per dose
+
+60 mg/2.4 mL (25 mg/mL)
+
+1 Pen with 4 doses of 15 mg
+
+TURN THE DOSE KNOB ALL THE WAY UNTIL YOU SEE A. THIS IS ONE DOSE.
+
+For Single-Patient-Use Only
+
+For Subcutaneous Use
+
+Needles not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Use MOUNJARO KwikPen once weekly
+
+Read the INSTRUCTIONS FOR USE.
+This product may have different steps than other products.
