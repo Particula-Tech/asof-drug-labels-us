@@ -2,9 +2,9 @@
 
 The following serious adverse reactions are described elsewhere in the labeling:
 
-- Myelosuppression [see Warnings and Precautions (5.1)]
-- Interstitial Lung Disease (ILD) [see Warnings and Precautions (5.2)]
-- Extravasation and Tissue Injury [see Warnings and Precautions (5.3)]
+- •Myelosuppression [see Warnings and Precautions (5.1)]
+- •Interstitial Lung Disease (ILD) [see Warnings and Precautions (5.2)]
+- •Extravasation and Tissue Injury [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 

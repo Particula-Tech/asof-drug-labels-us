@@ -25,13 +25,13 @@ Do not administer subsequent cycles of topotecan hydrochloride for injection unt
 
 For topotecan hydrochloride as a single agent, reduce the dose to 1.25 mg/m2/day for:
 
-- neutrophil counts of less than 500/mm3, or administer granulocyte-colony stimulating factor (GCSF) starting no sooner than 24 hours following the last dose.
-- platelet counts less than 25,000/mm3 during previous cycle.
+- •neutrophil counts of less than 500/mm3, or administer granulocyte-colony stimulating factor (GCSF) starting no sooner than 24 hours following the last dose.
+- •platelet counts less than 25,000/mm3 during previous cycle.
 
 For topotecan hydrochloride in combination with cisplatin, reduce the dose to 0.60 mg/m2/day (and further to 0.45 mg/m2 if necessary) for:
 
-- febrile neutropenia (defined as neutrophil counts less than 1,000/mm3 with temperature of greater than or equal to 38.0°C (100.4°F), or administer G-CSF starting no sooner than 24 hours following the last dose.
-- platelet counts less than 25,000/mm3 during previous cycle.
+- •febrile neutropenia (defined as neutrophil counts less than 1,000/mm3 with temperature of greater than or equal to 38.0°C (100.4°F), or administer G-CSF starting no sooner than 24 hours following the last dose.
+- •platelet counts less than 25,000/mm3 during previous cycle.
 
 ## 2.6 Dosage Modification for Renal Impairment
 
