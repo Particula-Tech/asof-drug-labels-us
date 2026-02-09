@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA220406"
+  ],
+  "inn": "leucovorin",
+  "labeler": "Avyxa Pharma, LLC",
+  "package_ndcs": [
+    "83831-147-05",
+    "83831-148-35",
+    "83831-149-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "leucovorin calcium",
+      "name": "VYKOURA"
+    }
+  ],
+  "setid": "d122b875-435e-4e00-b945-7a0546df95c2",
+  "source": "dailymed"
+}
