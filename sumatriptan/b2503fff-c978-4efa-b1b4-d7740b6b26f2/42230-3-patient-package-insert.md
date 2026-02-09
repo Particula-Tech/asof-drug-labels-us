@@ -1,4 +1,4 @@
-| Patient Information Sumatriptan Tablets, USP [Sumatriptan (soo ma TRIP tan)] |
+| PATIENT INFORMATION Sumatriptan (soo" ma trip' tan) Tablets, USP |
 | --- |
 | What is the most important information I should know about sumatriptan tablets? Sumatriptan tablets can cause serious side effects, including: Heart attack and other heart problems. Heart problems may lead to death. Stop taking Sumatriptan tablets and get emergency medical help right away if you have any of the following symptoms of a heart attack: discomfort in the center of your chest that lasts for more than a few minutes, or that goes away and comes back severe tightness, pain, pressure, or heaviness in your chest, throat, neck, or jaw pain or discomfort in your arms, back, neck, jaw, or stomach shortness of breath with or without chest discomfort breaking out in a cold sweat nausea or vomiting feeling lightheaded Sumatriptan tablets are not for people with risk factors for heart disease unless a heart exam is done and shows no problem. You have a higher risk for heart disease if you: have high blood pressure have high cholesterol levels smoke are overweight have diabetes have a family history of heart disease |
 | What are sumatriptan tablets? Sumatriptan tablets are a prescription medicine used to treat acute migraine headaches with or without aura in adults. Sumatriptan tablets are not used to treat other types of headaches such as hemiplegic (that make you unable to move on one side of your body) or basilar (rare form of migraine with aura) migraines. Sumatriptan tablets are not used to prevent or decrease the number of migraine headaches you have. It is not known if sumatriptan tablets are safe and effective to treat cluster headaches. It is not known if sumatriptan tablets are safe and effective in children under 18 years of age. |
@@ -13,4 +13,4 @@
 | All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited. Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 08/2021
+Revised: 02/2026

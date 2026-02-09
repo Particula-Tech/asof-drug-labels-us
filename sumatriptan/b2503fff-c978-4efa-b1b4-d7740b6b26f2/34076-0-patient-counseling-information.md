@@ -11,6 +11,7 @@ Concomitant Use with Other Triptans or Ergot Medications Inform patients that us
 Serotonin Syndrome Caution patients about the risk of serotonin syndrome with the use of sumatriptan tablets or other triptans, particularly during combined use with SSRIs, SNRIs, TCAs, and MAO inhibitors [see Warnings and Precautions (5.7), Drug Interactions (7.4)].
 Medication Overuse Headache Inform patients that use of acute migraine drugs for 10 or more days per month may lead to an exacerbation of headache and encourage patients to record headache frequency and drug use (e.g., by keeping a headache diary) [see Warnings and Precautions (5.6)].
 Pregnancy Advise patients to notify their healthcare provider if they become pregnant during treatment or plan to become pregnant [see Use in Specific Populations (8.1)].
-Lactation Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
+Lactation Advise breastfeeding women that they may develop transient breast pain when taking sumatriptan tablets.
+Advise breastfeeding women that avoiding breastfeeding for 12 hours after treatment with sumatriptan tablets can minimize their infant’s exposure to sumatriptan [see Use in Specific Populations (8.2)].
 Ability to Perform Complex Tasks Treatment with sumatriptan tablets may cause somnolence and dizziness; instruct patients to evaluate their ability to perform complex tasks after administration of sumatriptan tablets.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 08/2021
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 02/2026

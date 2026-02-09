@@ -44,3 +44,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 These reactions have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to sumatriptan or a combination of these factors.
 Cardiovascular Hypotension, palpitations.
 Neurological Dystonia, tremor.
+
+Reproductive System and Breast Disorders
+
+Breast pain [see Use in Specific Populations (8.2)].
