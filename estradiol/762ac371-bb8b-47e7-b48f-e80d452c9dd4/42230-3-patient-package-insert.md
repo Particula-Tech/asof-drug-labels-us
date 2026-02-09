@@ -8,7 +8,7 @@ Read this Patient Information before you start using EstroGel, and each time you
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-| What is the most important information I should know about EstroGel (an estrogen hormone)? Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are using EstroGel. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia (decline in brain function).Using estrogen-alone may increase your chances of getting strokes and blood clots.Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age and older.Do not use estrogens with progestogen to prevent heart disease, heart attack, strokes or dementia.Using estrogens with progestogen may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots.Using estrogens with progestogen may increase your chance of getting dementia, based on a study of women 65 years of age and older.Only one estrogen-alone product and dose have been shown to increase your chances of getting strokes, blood clots, and dementia. Only one estrogen with progestogen product and dose have been shown to increase your chances of getting heart attacks, strokes, breast cancer, blood clots, and dementia. Because other products and doses have not been studied in the same way, it is not known how the use of EstroGel will affect your chances of these conditions. You and your healthcare provider should talk regularly about whether you still need treatment with EstroGel. |
+| What is the most important information I should know about EstroGel (an estrogen hormone)? Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are using EstroGel. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause. |
 | --- |
 
 What is EstroGel?
@@ -24,10 +24,9 @@ EstroGel is used after menopause to:
   This drop in body estrogen levels causes the “change of life” or menopause (the end of monthly menstrual periods).
   Sometimes, both ovaries are removed during an operation before natural menopause takes place.
   The sudden drop in estrogen levels causes “surgical menopause.”
-
-When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden intense feelings of heat and sweating (“hot flashes” or “hot flushes”).
-In some women, the symptoms are mild, and they will not need to use estrogens.
-In other women, symptoms can be more severe.
+  When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden intense feelings of heat and sweating (“hot flashes” or “hot flushes”).
+  In some women, the symptoms are mild, and they will not need to use estrogens.
+  In other women, symptoms can be more severe.
 
 - Treat moderate to severe menopausal changes in and around the vagina You and your healthcare provider should talk regularly about whether you still need treatment with EstroGel to control these problems.
   If you use EstroGel only to treat your menopausal changes in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.
@@ -38,29 +37,21 @@ Do not start using EstroGel if you:
 
 - have unusual vaginal bleeding Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-
 - have been diagnosed with a bleeding disorder
 - currently have or have had certain cancers Estrogen may increase the chance of getting certain types of cancer, including cancer of the breast or uterus.
   If you have or have had cancer, talk with your healthcare provider about whether you should use EstroGel.
-
 - had a stroke or heart attack
 - currently have or have had blood clots
 - currently have or have had liver problems
-- are allergic to EstroGel or any of its ingredients
-
-See the list of ingredients in EstroGel at the end of this leaflet.
+- are allergic to EstroGel or any of its ingredients See the list of ingredients in EstroGel at the end of this leaflet.
 
 Before you use EstroGel, tell your healthcare provider about all of your medical conditions, including if you:
 
 - have any unusual vaginal bleeding Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-
 - have any other medical conditions that may become worse while you are using EstroGel Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), problems with your heart, liver, thyroid, kidneys, or high calcium levels in your blood.
-
 - are going to have surgery or will be on bed rest Your healthcare provider will let you know if you need to stop using EstroGel.
-
 - are pregnant or think you may be pregnant EstroGel is not for pregnant women.
-
 - are breastfeeding The hormone in EstroGel can pass into your breast milk.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -84,13 +75,8 @@ Side effects are grouped by how serious they are and how often they happen when 
 
 Serious, but less common side effects include:
 
-- heart attack
-- stroke
-- blood clots
-- breast cancer
 - cancer of the lining of the uterus (womb)
 - cancer of the ovary
-- dementia
 - high or low blood calcium
 - gallbladder disease
 - visual abnormalities
@@ -100,7 +86,7 @@ Serious, but less common side effects include:
 - changes in your thyroid hormone levels
 - fluid retention
 - cancer changes of endometriosis
-- enlargement of benign tumors of the uterus ("fibroids")
+- enlargement of benign tumors of the uterus (“fibroids”)
 - worsening of swelling of face and tongue (angioedema) in women with a history of angioedema
 - changes in laboratory test results such as bleeding time and high blood sugar
 
@@ -126,7 +112,8 @@ Common side effects of EstroGel include:
 These are not all of the possible side effects of EstroGel.
 For more information, ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effects that bother you or do not go away.
-You may report side effects to FDA at 1-800-FDA 1088 or to ASCEND Therapeutics® US, LLC at 1‑877-204-1013.
+You may report side effects to FDA at 1-800-FDA-1088 or to ASCEND Therapeutics® US, LLC at 1‑877-204-1013.
+
 What can I do to lower my chances of a serious side effect with EstroGel?
 
 - Talk with your healthcare provider regularly about whether you should continue using EstroGel.
@@ -138,26 +125,28 @@ What can I do to lower my chances of a serious side effect with EstroGel?
 - If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances of getting heart disease.
 
 Ask your healthcare provider for ways to lower your chances of getting heart disease.
+
 How should I store EstroGel?
 
 - Store EstroGel at room temperature between 68°F to 77°F (20°C to 25°C).
 
 Keep EstroGel and all medicines out of the reach of children.
+
 General information about the safe and effective use of EstroGel
 
 Medicines are sometimes prescribed for conditions that are not mentioned in Patient Information leaflets.
 Do not use EstroGel for conditions for which it was not prescribed.
 Do not give EstroGel to other people, even if they have the same symptoms you have.
 It may harm them.
-
 You can ask your healthcare provider or pharmacist for information about EstroGel that is written for health professionals.
-
 For more information, go to www.estrogel.com, or call ASCEND Therapeutics ® US, LLC at 1-877-204-1013.
+
 What are the ingredients in EstroGel?
 
 Active ingredient: estradiol
 
-Inactive ingredients: purified water, alcohol, triethanolamine, and carbomer 934P.
+Inactive ingredients: purified water, alcohol, triethanolamine, and carbomer 974P.
+
 Instructions for Use
 
 EstroGel ® 0.06% (ĕs’ trə jĕl)
@@ -173,7 +162,6 @@ You will need the following supplies to use EstroGel: See Figure A.
 Figure A
 
 EstroGel is supplied in a metered-dose pump that delivers a measured amount of estradiol to your skin each time you press the pump.
-
 EstroGel is available in a 50-gram canister.
 
 Step 1.
@@ -241,21 +229,4 @@ Throwing away used EstroGel canisters
   You may not get the correct dose.
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
-
-Manufactured for:
-
-ASCEND Therapeutics® US, LLC
-
-Morristown, NJ 07960
-
-By DPT Laboratories Ltd.
-
-San Antonio, TX 78215
-
-141332Rev122023
-
-Utilizes EHG® Technology
-
-©2024 ASCEND Therapeutics® US, LLC
-
-Revised: 12/2023
+Manufactured for: ASCEND Therapeutics® US, LLC Bridgewater, NJ 08807 141339Rev122025 Utilizes EHG® Technology ©2025 ASCEND Therapeutics® US, LLC Revised: 12/2025

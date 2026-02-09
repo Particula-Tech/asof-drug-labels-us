@@ -31,20 +31,31 @@ Other skin reactions, such as pruritus and rash, were also noted.
 
 The following adverse reactions have been identified during post-approval use of EstroGel.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
 Genitourinary system
 
-Endometrial cancer Breast
+Endometrial cancer Breast Pain; tenderness; breast cancer
 
-Pain; tenderness; breast cancer Cardiovascular
+Cardiovascular
 
-Deep vein thrombosis; myocardial ischemia; phlebitis Gastrointestinal
+Deep vein thrombosis; myocardial ischemia; phlebitis
 
-Nausea; abdominal distension; diarrhea; stomach discomfort Skin
+Gastrointestinal
 
-Alopecia; rash; pruritus; application site: dryness, pain, discoloration, reaction, rash Eyes
+Nausea; abdominal distension; diarrhea; stomach discomfort
 
-Retinal vein occlusion Central nervous system
+Skin
 
-Headache; dizziness; insomnia; hypoesthesia; meningioma; aphasia; bradyphrenia; paresthesia Miscellaneous
+Alopecia; rash; pruritus; application site: dryness, pain, discoloration, reaction, rash
+
+Eyes
+
+Retinal vein occlusion
+
+Central nervous system
+
+Headache; dizziness; insomnia; hypoesthesia; meningioma; aphasia; bradyphrenia; paresthesia
+
+Miscellaneous
 
 Drug ineffective; hot flush; arthralgia; night sweats; drug effect decreased; pain in extremity; fatigue; weight increased; pain; hypersensitivity; dyspnea; malignant mesenchymoma; angioedema; hepatitis acute; face edema; accidental exposure; myoclonus; gait disturbance; flushing

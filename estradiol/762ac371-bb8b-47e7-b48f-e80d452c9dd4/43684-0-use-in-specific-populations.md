@@ -23,13 +23,10 @@ Clinical studies have not been conducted in the pediatric population.
 ## 8.5 Geriatric Use
 
 There have not been sufficient numbers of geriatric women involved in clinical studies utilizing EstroGel to determine whether those over 65 years of age differ from younger subjects in their response to EstroGel.
-The Women’s Health Initiative Studies
 
-In the WHI estrogen-alone substudy (daily CE [0.625 mg]-alone versus placebo), there was a higher relative risk of stroke in women greater than 65 years of age [see Warnings and Precautions (5.1) and Clinical Studies (14.3)].
+The Women’s Health Initiative Studies In the WHI estrogen-alone trial (daily CE [0.625 mg]-alone versus placebo), there was a higher relative risk of stroke in women greater than 65 years of age [see Clinical Studies (14.3, 14.4)].
 
-In the WHI estrogen plus progestin substudy (daily CE [0.625 mg] plus MPA [2.5 mg] versus placebo), there was a higher relative risk of nonfatal stroke and invasive breast cancer in women greater than 65 years of age [see Warnings and Precautions (5.1) and Clinical Studies (14.3)].
-The Women’s Health Initiative Memory Study
+The Women’s Health Initiative Memory Study In the WHIMS ancillary studies of postmenopausal women 65 to 79 years of age, there was an increased risk of probable dementia in women receiving estrogen-alone [see Clinical Studies (14.4, 14.5)].
 
-In the WHIMS ancillary studies of postmenopausal women 65 to 79 years of age, there was an increased risk of developing probable dementia in women receiving estrogen-alone or estrogen plus progestin when compared to placebo [see Warnings and Precautions (5.3), and Clinical Studies (14.4)].
-
-Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8 [see Warnings and Precautions (5.3), and Clinical Studies (14.4)].
+Since the trial was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger menopausal women [see Clinical Studies (14.4, 14.5)].
+The safety and efficacy of EstroGel for the prevention of dementia has not been established.
