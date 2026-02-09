@@ -1,7 +1,5 @@
 MEDICATION GUIDE
 
-Medication Guide available at: www.strides.com/medication-guides
-
 KETOCONAZOLE (KEE-toe-KON-a-zole) TABLETS USP
 
 What is the most important information I should know about ketoconazole tablets?
@@ -19,7 +17,7 @@ Ketoconazole tablets can cause serious side effects, including:
 - feel tired
 - stomach pain or tenderness
 - dark urine or light colored stools
-- yellowing of your skin or the whites of your eye
+- yellowing of your skin or the whites of your eyes
 - fever or rash
 
 - changes in the electrical activity of your heart called QT prolongation.
@@ -136,8 +134,6 @@ Distributed by:
 
 Strides Pharma Inc,
 
-East Brunswick, NJ 08816
+Bridgewater, NJ 08807
 
-Revised: 07/2023
-
-Medication Guide available at: www.strides.com/medication-guides
+Revised: 07/2025
