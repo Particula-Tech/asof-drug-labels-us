@@ -37,8 +37,7 @@ Effects of Cinacalcet on iPTH, Ca x P, Serum Calcium, and Serum Phosphorus in 6-
 | Patients Achieving Primary Endpoint (iPTH ≤ 250 | 4% | 41%† | 7% | 46%† | 6% | 35%† |
 | pg/mL) (%)* |  |  |  |  |  |  |
 | Patients Achieving ≥ 30% Reduction in iPTH (%)* | 11% | 61% | 12% | 68% | 10% | 59% |
-| Patients Achieving iPTH ≤ 250 pg/mL and Ca x P < 55 | 1% | 32% | 5% | 35% | 5% | 28% |
-| mg2/dL2 (%) |  |  |  |  |  |  |
+| Patients Achieving iPTH ≤ 250 pg/mL and Ca x P < 55 mg2/dL2 (%) | 1% | 32% | 5% | 35% | 5% | 28% |
 | Ca x P |  |  |  |  |  |  |
 | Baseline (mg2/dL2) | 62 | 61 | 61 | 61 | 61 | 59 |
 | Evaluation Phase (mg2/dL2) | 59 | 52 | 59 | 47 | 57 | 48 |
