@@ -132,6 +132,7 @@ Administer multiple-dose oral activated charcoal and measures to control emesis.
 Consider extracorporeal removal even if the patient has not experienced a seizure (see OVERDOSAGE, Extracorporeal Removal).
 4.
 Monitor the patient and obtain serial theophylline concentrations every 2-4 hours to gauge the effectiveness of therapy and to guide further treatment decisions.
+
 Extracorporeal Removal:
 
 Increasing the rate of theophylline clearance by extracorporeal methods may rapidly decrease serum concentrations, but the risks of the procedure must be weighed against the potential benefit.

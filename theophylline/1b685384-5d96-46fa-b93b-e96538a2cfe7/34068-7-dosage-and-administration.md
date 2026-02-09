@@ -10,7 +10,7 @@ For example, at a dose of 900 mg/d in adults <60 years or 22 mg/kg/d in children
 The dose of theophylline must be individualized on the basis of peak serum theophylline concentration measurements in order to achieve a dose that will provide maximum potential benefit with minimal risk to adverse effects.
 
 Transient caffeine-like adverse effects and excessive serum concentrations in slow metabolizers can be avoided in most patients by starting with a sufficiently low dose and slowly increasing the dose, if judged to be clinically indicated, in small increments (See Table V). Dose increases should only be made if the previous dosage is well tolerated and at intervals of no less than 3 days to allow serum theophylline concentrations to reach the new steady state.
-Dosage adjustment should be guided by serum theophylline concentration measurement (see PRECAUTIONS,Laboratory Testsand DOSAGE AND ADMINISTRATION, Table VI).
+Dosage adjustment should be guided by serum theophylline concentration measurement (see PRECAUTIONS, Laboratory Testsand DOSAGE AND ADMINISTRATION, Table VI).
 Health care providers should instruct patients and care givers to discontinue any dosage that causes adverse effects, to withhold the medication until these symptoms are gone and to then resume therapy at a lower, previously tolerated dosage (see WARNINGS).
 
 If the patient's symptoms are well controlled, there are no apparent adverse effects, and no intervening factors that might alter dosage requirements (see WARNINGSand PRECAUTIONS), serum theophylline concentrations should be monitored at 6 month intervals for rapidly growing children and at yearly intervals for all others.

@@ -13,8 +13,7 @@ Cardiac arrhythmias (not including bradyarrhythmias)
 Conditions That Reduce Theophylline Clearance:
 
 There are several readily identifiable causes of reduced theophylline clearance.
-If the total daily dose is not appropriately reduced in the presence of these risk factors, severe and potentially fatal theophylline toxicity can occur.
-Careful consideration must be given to the benefits and risks of theophylline use and the need for more intensive motoring of serum theophylline concentrations in patients with the following risk factors: Age
+If the total daily dose is not appropriately reduced in the presence of these risk factors, severe and potentially fatal theophylline toxicity can occur.Careful consideration must be given to the benefits and risks of theophylline use and the need for more intensive motoring of serum theophylline concentrations in patients with the following risk factors: Age
 
 Neonates (term and premature) Children <1 year Elderly (>60 years)
 
@@ -168,7 +167,7 @@ Drugs that have been documented not to interact with theophylline or drugs that 
 | famotidine | nifedipine | tetracycline |
 |  |  | tocainide |
 
-*Refer to PRECAUTIONS, Drug Interactions for information regarding table.
+*Refer to PRECAUTIONS, Drug Interactionsfor information regarding table.
 
 The Effect of Other Drugs on Theophylline Serum Concentration Measurements:
 
@@ -191,7 +190,7 @@ At the high dose, systemic toxicity was observed in both species including decre
 
 Pregnancy:
 
-CATEGORY C:There are no adequate and well controlled studies in pregnant women.
+There are no adequate and well controlled studies in pregnant women.
 Additionally, there are no teratogenicity studies in non-rodents (e.g., rabbits).
 Theophylline was not shown to be teratogenic in CD-1 mice at oral doses up to 400 mg/kg, approximately 2.0 times the human dose on a mg/m 2basis or in CD-1 rats at oral doses up to 260 mg/kg, approximately 3.0 times the recommended human dose on a mg/m 2basis.
 At a dose of 220 mg/kg, embryotoxicity was observed in rats in the absence of maternal toxicity.
