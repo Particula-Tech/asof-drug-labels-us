@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA218798"
+  ],
+  "inn": "rilpivirine",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-848-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rilpivirine",
+      "name": "Rilpivirine"
+    }
+  ],
+  "setid": "fb109de9-d88d-4405-8dd6-d458cbc387d1",
+  "source": "dailymed"
+}
