@@ -2,8 +2,10 @@ Manufactured for:
 
 Endo USA
 
-Malvern, PA 19355
+Malvern, PA 19355 U.S.A.
 
-R04/2024
+© 2025 Endo, Inc. or one of its affiliates.
 
-© 2024 Endo, Inc. or one of its affiliates.
+OS164I-01-74-01
+
+Issued: 03/2025
