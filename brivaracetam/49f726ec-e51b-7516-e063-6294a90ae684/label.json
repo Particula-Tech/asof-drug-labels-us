@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA214748"
+  ],
+  "inn": "brivaracetam",
+  "labeler": "Solaris Pharma Corporation",
+  "package_ndcs": [
+    "73473-904-60",
+    "73473-905-60",
+    "73473-906-60",
+    "73473-907-60",
+    "73473-908-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "brivaracetam",
+      "name": "brivaracetam"
+    }
+  ],
+  "setid": "49f726ec-e51b-7516-e063-6294a90ae684",
+  "source": "dailymed"
+}
