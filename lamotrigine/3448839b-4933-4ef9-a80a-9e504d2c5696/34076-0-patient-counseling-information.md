@@ -68,3 +68,5 @@ Potential Medication Errors
 
 To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their tablets to verify that they are lamotrigine tablets, as well as the correct formulation of lamotrigine, each time they fill their prescription [see Dosage Forms and Strengths (3.1), How Supplied/Storage and Handling (16)].
 Refer the patient to the Medication Guide that provides depictions of the lamotrigine tablets.
+
+The brands listed are trademarks of their respective owners.
