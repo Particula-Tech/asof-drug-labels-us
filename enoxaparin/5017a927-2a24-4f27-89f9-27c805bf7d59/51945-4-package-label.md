@@ -16,114 +16,98 @@ SANOFI
 
 # PRINCIPAL DISPLAY PANEL - 40 mg/0.4 mL Syringe Carton
 
-NDC 0075-0620-40
+NDC 0075-0620-40 Rx only
 
-LOVENOX® (enoxaparin sodium injection)
+LOVENOX® (enoxaparin sodium) injection
 
-40mg/0.4mL
+40 mg/0.4 mL
 
-Rx ONLY
+For Subcutaneous Use
 
-SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE FOR SUBCUTANEOUS INJECTION
+Ten 0.4 mL single-dose syringes with automatic safety device
 
-Ten 0.4mL Syringes
-
-SANOFI
+sanofi
 
 # PRINCIPAL DISPLAY PANEL - 60 mg/0.6 mL Syringe Carton
 
-NDC 0075-0621-60
+NDC 0075-0621-60 Rx only
 
-LOVENOX® (enoxaparin sodium injection)
+LOVENOX® (enoxaparin sodium) injection
 
-60mg/0.6mL
+60 mg/0.6 mL
 
-Rx ONLY
+For Subcutaneous Use
 
-SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE FOR SUBCUTANEOUS INJECTION
+Ten 0.6 mL single-dose syringes with automatic safety device
 
-Ten 0.6mL Syringes
-
-SANOFI
+sanofi
 
 # PRINCIPAL DISPLAY PANEL - 80 mg/0.8 mL Syringe Carton
 
-NDC 0075-0622-80
+NDC 0075-0622-80 Rx only
 
-LOVENOX® (enoxaparin sodium injection)
+LOVENOX® (enoxaparin sodium) injection
 
-80mg/0.8mL
+80 mg/0.8 mL
 
-Rx ONLY
+For Subcutaneous Use
 
-SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE FOR SUBCUTANEOUS INJECTION
+Ten 0.8 mL single-dose syringes with automatic safety device
 
-Ten 0.8mL Syringes
-
-SANOFI
+sanofi
 
 # PRINCIPAL DISPLAY PANEL - 100 mg/1 mL Syringe Carton
 
-NDC 0075-0623-00
+NDC 0075-0623-00 Rx only
 
-LOVENOX® (enoxaparin sodium injection)
+LOVENOX® (enoxaparin sodium) injection
 
-100mg/1 mL
+100 mg/1 mL
 
-Rx ONLY
+For Subcutaneous Use
 
-SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE FOR SUBCUTANEOUS INJECTION
+Ten 1 mL single-dose syringes with automatic safety device
 
-Ten 1mL Syringes
-
-SANOFI
+sanofi
 
 # PRINCIPAL DISPLAY PANEL - 300 mg/3 mL Vial Carton
 
-NDC 0075-0626-03
+NDC 0075-0626-03 Rx only
 
-LOVENOX® (enoxaparin sodium injection)
+LOVENOX® (enoxaparin sodium) injection
 
-300mg/3mL (100mg/1mL)
+300 mg/3 mL (100 mg/1 mL)
 
-Rx ONLY
+For Subcutaneous or Intravenous Use
 
-For Subcutaneous or Intravenous Injection
+One 3 mL multiple-dose vial
 
-Multiple Dose Vial
-
-One 3mL Vial
-
-SANOFI
+sanofi
 
 # PRINCIPAL DISPLAY PANEL - 120 mg/0.8 mL Syringe Carton
 
-NDC 0075-2912-01
+NDC 0075-2912-01 Rx only
 
-LOVENOX® (enoxaparin sodium injection)
+LOVENOX® (enoxaparin sodium) injection
 
-120mg/0.8mL
+120 mg/0.8 mL
 
-Rx ONLY
+For Subcutaneous Use
 
-SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE FOR SUBCUTANEOUS INJECTION
+Ten 0.8 mL single-dose syringes with automatic safety device
 
-Ten 0.8mL Syringes
-
-SANOFI
+sanofi
 
 # PRINCIPAL DISPLAY PANEL - 150 mg/1 mL Syringe Carton
 
-NDC 0075-2915-01
+NDC 0075-2915-01 Rx only
 
-LOVENOX® (enoxaparin sodium injection)
+LOVENOX® (enoxaparin sodium) injection
 
-150mg/1 mL
+150 mg/1 mL
 
-Rx ONLY
+For Subcutaneous Use
 
-SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE FOR SUBCUTANEOUS INJECTION
+Ten 1 mL single-dose syringes with automatic safety device
 
-Ten 1mL Syringes
-
-SANOFI
+sanofi
