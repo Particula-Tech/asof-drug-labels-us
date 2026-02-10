@@ -1,5 +1,3 @@
-Dispense with Medication Guide available at: www.tevausa.com/medguides
-
 MEDICATION GUIDE
 
 Quetiapine (kwe tye’ a peen) Tablets
@@ -251,7 +249,7 @@ What are the ingredients in quetiapine tablets?
 Active ingredient: quetiapine
 
 Inactive ingredients: colloidal silicon dioxide, dibasic calcium phosphate dihydrate, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, sodium starch glycolate, titanium dioxide and triacetin.
-Additionally, the 25 mg, 100 mg, and 300 mg tablets contain iron oxide yellow; the 25 mg and 100 mg tablets contain FD&C Yellow No. 6/Sunset Yellow FCF Aluminum Lake; and the 50 mg, 200 mg, and 400 mg tablets contain polydextrose and polyethylene glycol.
+Additionally, the 25 mg, 100 mg, and 300 mg tablets contain iron oxide yellow; the 25 mg and 100 mg tablets contain FD&C Yellow No. 6/Sunset Yellow FCF/Aluminum Lake; and the 50 mg, 200 mg, and 400 mg tablets contain polydextrose and polyethylene glycol.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -261,4 +259,4 @@ Opava-Komarov, Czech Republic
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-N 3/2025
+O 8/2025

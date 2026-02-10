@@ -14,7 +14,7 @@ Quetiapine fumarate, USP is a white to off-white crystalline powder which is mod
 Quetiapine tablets, USP are supplied for oral administration as 25 mg (round, light orange), 50 mg (round, white to off-white), 100 mg (round, light orange), 200 mg (round, white to off-white), 300 mg (capsule-shaped, pale yellow), and 400 mg (capsule-shaped, white to off-white) tablets.
 
 Inactive ingredients are colloidal silicon dioxide, dibasic calcium phosphate dihydrate, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, sodium starch glycolate, titanium dioxide and triacetin.
-Additionally, the 25 mg, 100 mg, and 300 mg tablets contain iron oxide yellow; the 25 mg and 100 mg tablets contain FD&C Yellow No. 6/Sunset Yellow FCF Aluminum Lake; and the 50 mg, 200 mg, and 400 mg tablets contain polydextrose and polyethylene glycol.
+Additionally, the 25 mg, 100 mg, and 300 mg tablets contain iron oxide yellow; the 25 mg and 100 mg tablets contain FD&C Yellow No. 6/Sunset Yellow FCF/Aluminum Lake; and the 50 mg, 200 mg, and 400 mg tablets contain polydextrose and polyethylene glycol.
 
 Each 25 mg tablet contains 28.78 mg of quetiapine fumarate, USP equivalent to 25 mg quetiapine.
 Each 50 mg tablet contains 57.57 mg of quetiapine fumarate, USP equivalent to 50 mg quetiapine.
