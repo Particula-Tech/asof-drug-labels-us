@@ -21,7 +21,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Buprenorphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System
 
@@ -68,7 +68,9 @@ Absorption
 Each buprenorphine transdermal system provides delivery of buprenorphine for 7 days.
 Steady state was achieved during the first application by Day 3 (see Figure 2).
 
-Figure 2 Mean (SD) Buprenorphine Plasma Concentrations Following Three Consecutive Applications of Buprenorphine Transdermal System 10 mcg/hour (N = 36 Healthy Subjects)
+Figure 2
+
+Mean (SD) Buprenorphine Plasma Concentrations Following Three Consecutive Applications of Buprenorphine Transdermal System 10 mcg/hour (N = 36 Healthy Subjects)
 
 Buprenorphine transdermal system 5, 10, and 20 mcg/hour provide dose-proportional total buprenorphine exposures (AUC) following 7-day applications.
 Buprenorphine transdermal system single 7-day application and steady-state pharmacokinetic parameters are summarized in Table 7.
@@ -142,7 +144,7 @@ The total clearance of buprenorphine is approximately 55 L/hour in postoperative
 
 Drug Interaction Studies
 
-Effect of CYP3A4 inhibitors
+Effect of CYP3A4 Inhibitors
 
 In a drug-drug interaction study, buprenorphine transdermal system 10 mcg/hour (single dose × 7 days) was co-administered with 200 mg ketoconazole, a strong CYP3A4 inhibitor or ketoconazole placebo twice daily for 11 days and the pharmacokinetics of buprenorphine and its metabolites were evaluated.
 Plasma buprenorphine concentrations did not accumulate during co-medication with ketoconazole 200 mg twice daily.

@@ -98,17 +98,13 @@ To dispose of buprenorphine transdermal system patches in household trash using 
 Remove your patch and follow the directions printed on the Patch-Disposal Unit (See Figure J) or see complete instructions below.
 Use one Patch-Disposal Unit for each patch.
 
-1.
-Peel back the disposal unit liner to show the sticky surface (See Figure K).
+- 1.Peel back the disposal unit liner to show the sticky surface (See Figure K).
 
-2.
-Place the sticky side of the used or unused patch to the indicated area on the disposal unit (See Figure L).
+- 2.Place the sticky side of the used or unused patch to the indicated area on the disposal unit (See Figure L).
 
-3.
-Close the disposal unit by folding the sticky sides together (See Figure M). Press firmly and smoothly over the entire disposal unit so that the patch is sealed within.
+- 3.Close the disposal unit by folding the sticky sides together (See Figure M). Press firmly and smoothly over the entire disposal unit so that the patch is sealed within.
 
-4.
-The closed disposal unit, with the patch sealed inside may be thrown away in the trash (See Figure N).
+- 4.The closed disposal unit, with the patch sealed inside may be thrown away in the trash (See Figure N).
 
 Do not put expired, unwanted, or unused patches in household trash without first sealing them in the Patch-Disposal Unit.
 

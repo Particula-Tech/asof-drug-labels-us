@@ -3,37 +3,41 @@
 ## 2.1 Important Dosage and Administration Information
 
 - Buprenorphine transdermal system should be prescribed only by healthcare professionals who are knowledgeable about the use of extended-release/long-acting opioids and how to mitigate the associated risks.
-- Buprenorphine transdermal system doses of 7.5, 10, 15, and 20 mcg/hour are only for use in patients who are opioid experienced and in whom tolerance to an opioid of comparable potency has been established.
-  Patients who are opioid-experienced are those receiving, for one week or longer, daily opioid doses up to 80 mg/day of oral morphine or an equianalgesic dose of another opioid.
+- Buprenorphine transdermal system doses of 7.5, 10, 15, and 20 mcg/hour are only for use in patients who are receiving, for one week or longer, daily opioid doses up to 80 mg/day of oral morphine or an equianalgesic dose of another opioid.
 - Use the lowest effective dosage for the shortest duration of time consistent with individual patient's treatment goals [see Warnings and Precautions (5)].
   Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of buprenorphine transdermal system for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
 - Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 - Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with buprenorphine transdermal system.
   Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5.2)].
+- Buprenorphine transdermal system is for transdermal use (on intact skin) only.
+  Each buprenorphine transdermal system patch is intended to be worn for 7 days.
 - Instruct patients not to use buprenorphine transdermal system if the pouch seal is broken or the patch is cut, damaged, or changed in any way and not to cut buprenorphine transdermal system.
 - Instruct patients to avoid exposing buprenorphine transdermal system to external heat sources, hot water, or prolonged direct sunlight [see Warnings and Precautions (5.6)].
 
-Buprenorphine transdermal system is for transdermal use (on intact skin) only.
-Each buprenorphine transdermal system patch is intended to be worn for 7 days.
+## 2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+The presence of risk factors for overdose should not prevent the management of pain in any patient [see Warnings and Precautions(5.1, 5.2, 5.3)].
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with buprenorphine transdermal system [see Warnings and Precautions (5.2)].
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.2)].
 
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
-
-Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.2, 5.3), Overdosage (10)].
-
-Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental exposure or overdose.
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
 ## 2.3 Initial Dosage
 
-Use of Buprenorphine Transdermal System as the First Opioid Analgesic (opioid-naive patients) Initiate treatment with buprenorphine transdermal system with a 5 mcg/hour patch.
+It is safer to underestimate a patient's 24-hour oral buprenorphine dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour buprenorphine dosage and manage an adverse reaction due to an overdose.
+While useful tables of opioid equivalents are readily available, there is inter-patient variability in the potency of opioid drugs and opioid formulations.
+Frequently reevaluate patients for signs and symptoms of opioid withdrawal and for signs of oversedation/toxicity after converting patients to buprenorphine transdermal system.
 
-Conversion from Other Opioids to Buprenorphine Transdermal System
+Use of Buprenorphine Transdermal System in Patients who are not Opioid Tolerant
 
-When buprenorphine transdermal system therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
+Unless otherwise listed below, initiate treatment with buprenorphine transdermal system with a 5 mcg/hour patch.
+
+Conversion from Other Opioid Analgesics to Buprenorphine Transdermal System
+
+When buprenorphine transdermal system therapy is initiated, discontinue all other opioid analgesics other than those used on an as-needed basis for breakthrough pain when appropriate.
 
 There is a potential for buprenorphine to precipitate withdrawal in patients who are already on opioids.
 
@@ -54,7 +58,7 @@ Consider the use of an alternate analgesic.
 
 Table 1: Initial Buprenorphine Transdermal System Dose
 
-| Previous Opioid Analgesic Daily Dose (Oral Morphine Equivalent) | <30 mg | 30 to 80 mg |
+| Previous Opioid Analgesic Daily Dose (Oral Morphine Equivalent) | ≤30 mg | 30 to 80 mg |
 | --- | --- | --- |
 |  | ⇩ | ⇩ |
 | Recommended Buprenorphine Transdermal System Starting Dose | 5 mcg/hour | 10 mcg/hour |
@@ -78,7 +82,7 @@ The maximum buprenorphine transdermal system dose is 20 mcg/hour.
 Do not exceed a dose of one 20 mcg/hour buprenorphine transdermal system due to the risk of QTc interval prolongation.
 In a clinical trial, buprenorphine transdermal system 40 mcg/hour (given as two buprenorphine transdermal system 20 mcg/hour systems) resulted in prolongation of the QTc interval [see Warnings and Precautions (5.17), Clinical Pharmacology (12.2)].
 
-Patients who experience breakthrough pain may require dosage adjustment increase of buprenorphine transdermal system, or may need rescue medication with an appropriate dose of an immediate-release analgesic.
+Patients who experience breakthrough pain may require a dosage adjustment increase of buprenorphine transdermal system or may need rescue medication with an appropriate dose of an immediate-release analgesic.
 
 If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the buprenorphine transdermal system dose.
 If after increasing the dosage, unacceptable opioid-related adverse reactions are observed (including an increase in pain after dosage increase) consider reducing the dosage [see Warnings and Precautions (5)].
@@ -91,9 +95,9 @@ For the use of two patches, instruct patients to remove their current patch, and
 
 ## 2.5 Safe Reduction or Discontinuation of Buprenorphine Transdermal System
 
-Do not abruptly discontinue buprenorphine transdermal system in patients who may be physically dependent on opioids.
-Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
-Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Do not rapidly reduce or abruptly discontinue buprenorphine transdermal system in patients who may be physically dependent on opioids.
+Rapid reduction or abrupt discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid reduction or abrupt discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
 When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking buprenorphine transdermal system, there are a variety of factors that should be considered, including the total daily dose of opioid (including buprenorphine transdermal system) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.

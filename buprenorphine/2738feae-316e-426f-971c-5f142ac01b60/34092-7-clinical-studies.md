@@ -1,10 +1,10 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of buprenorphine transdermal system has been evaluated in four 12-week double-blind, controlled clinical trials in opioid-naïve and opioid-experienced patients with moderate to severe chronic low back pain or osteoarthritis using pain scores as the primary efficacy variable.
+The efficacy of buprenorphine transdermal system has been evaluated in four 12-week double-blind, controlled clinical trials in patients who were not opioid tolerant and opioid-experienced patients with moderate to severe chronic low back pain or osteoarthritis using pain scores as the primary efficacy variable.
 Two of these studies, described below, demonstrated efficacy in patients with low back pain.
 One study in low back pain and one study in osteoarthritis did not show a statistically significant pain reduction for either buprenorphine transdermal system or the respective active comparators.
 
-12-Week Study in Opioid-Naïve Patients with Chronic Low Back Pain
+12-Week Study in Patients who were not Opioid Tolerant with Chronic Low Back Pain
 
 A total of 1,024 patients with chronic low back pain who were suboptimally responsive to their non-opioid therapy entered an open-label, dose-titration period for up to four weeks.
 Patients initiated therapy with three days of treatment with buprenorphine transdermal system 5 mcg/hour.

@@ -26,11 +26,11 @@ The clinical trial population consisted of patients with persistent moderate to 
 
 The most common serious adverse drug reactions (all <0.1%) occurring during clinical trials with buprenorphine transdermal system were: chest pain, abdominal pain, vomiting, dehydration, and hypertension/blood pressure increased.
 
-The most common adverse events (≥ 2%) leading to discontinuation were: nausea, dizziness, vomiting, headache, and somnolence.
+The most common adverse events (≥2%) leading to discontinuation were: nausea, dizziness, vomiting, headache, and somnolence.
 
-The most common adverse reactions (≥ 5%) reported by patients in clinical trials comparing buprenorphine transdermal system 10 or 20 mcg/hour to placebo are shown in Table 2, and comparing buprenorphine transdermal system 20 mcg/hour to buprenorphine transdermal system 5 mcg/hour are shown in Table 3 below:
+The most common adverse reactions (≥5%) reported by patients in clinical trials comparing buprenorphine transdermal system 10 or 20 mcg/hour to placebo are shown in Table 2, and comparing buprenorphine transdermal system 20 mcg/hour to buprenorphine transdermal system 5 mcg/hour are shown in Table 3 below:
 
-Table 2: Adverse Reactions Reported in ≥ 5% of Patients during the Open-Label Titration Period and Double-Blind Treatment Period: Opioid-Naïve Patients
+Table 2: Adverse Reactions Reported in ≥5% of Patients during the Open-Label Titration Period and Double-Blind Treatment Period: Patients who were not Opioid Tolerant
 
 | MedDRA Preferred Term | (N = 1024) | (N = 256) | (N = 283) |
 | --- | --- | --- | --- |
@@ -44,7 +44,7 @@ Table 2: Adverse Reactions Reported in ≥ 5% of Patients during the Open-Label 
 | Vomiting | 7% | 4% | 1% |
 | Constipation | 6% | 4% | 1% |
 
-Table 3: Adverse Reactions Reported in ≥ 5% of Patients during the Open-Label Titration Period and Double-Blind Treatment Period: Opioid-Experienced Patients
+Table 3: Adverse Reactions Reported in ≥5% of Patients during the Open-Label Titration Period and Double-Blind Treatment Period: Opioid-Experienced Patients
 
 | MedDRA Preferred Term | (N = 1160) | (N = 219) | (N = 221) |
 | --- | --- | --- | --- |
@@ -62,7 +62,7 @@ Table 3: Adverse Reactions Reported in ≥ 5% of Patients during the Open-Label 
 
 The following table lists adverse reactions that were reported in at least 2.0% of patients in four placebo/active-controlled titration-to-effect trials.
 
-Table 4: Adverse Reactions Reported in Titration-to-Effect Placebo/Active-Controlled Clinical Trials with Incidence ≥ 2%
+Table 4: Adverse Reactions Reported in Titration-to-Effect Placebo/Active-Controlled Clinical Trials with Incidence ≥2%
 
 | MedDRA Preferred Term | Buprenorphine Transdermal System (N = 392) | Placebo (N = 261) |
 | --- | --- | --- |
@@ -82,11 +82,11 @@ Table 4: Adverse Reactions Reported in Titration-to-Effect Placebo/Active-Contro
 | Pruritus | 3% | 0% |
 | Stomach discomfort | 2% | 0% |
 
-The adverse reactions seen in controlled and open-label studies are presented below in the following manner: most common (≥ 5%), common (≥ 1% to < 5%), and less common (< 1%).
+The adverse reactions seen in controlled and open-label studies are presented below in the following manner: most common (≥5%), common (≥1% to <5%), and less common (<1%).
 
-The most common adverse reactions (≥ 5%) reported by patients treated with buprenorphine transdermal system in the clinical trials were nausea, headache, application site pruritus, dizziness, constipation, somnolence, vomiting, application site erythema, dry mouth, and application site rash.
+The most common adverse reactions (≥5%) reported by patients treated with buprenorphine transdermal system in the clinical trials were nausea, headache, application site pruritus, dizziness, constipation, somnolence, vomiting, application site erythema, dry mouth, and application site rash.
 
-The common (≥ 1% to < 5%) adverse reactions reported by patients treated with buprenorphine transdermal system in the clinical trials organized by MedDRA (Medical Dictionary for Regulatory Activities) System Organ Class were:
+The common (≥1% to <5%) adverse reactions reported by patients treated with buprenorphine transdermal system in the clinical trials organized by MedDRA (Medical Dictionary for Regulatory Activities) System Organ Class were:
 
 Gastrointestinal disorders: diarrhea, dyspepsia, and upper abdominal pain
 
@@ -110,7 +110,7 @@ Skin and subcutaneous tissue disorders: pruritus, hyperhidrosis, rash, and gener
 
 Vascular disorders: hypertension
 
-Other less common adverse reactions, including those known to occur with opioid treatment, that were seen in < 1% of the patients in the buprenorphine transdermal system trials include the following in alphabetical order:
+Other less common adverse reactions, including those known to occur with opioid treatment, that were seen in <1% of the patients in the buprenorphine transdermal system trials include the following in alphabetical order:
 
 Abdominal distention, abdominal pain, accidental injury, affect lability, agitation, alanine aminotransferase increased, angina pectoris, angioedema, apathy, application site dermatitis, asthma aggravated, bradycardia, chills, confusional state, contact dermatitis, coordination abnormal, dehydration, depersonalization, depressed level of consciousness, depressed mood, disorientation, disturbance in attention, diverticulitis, drug hypersensitivity, drug withdrawal syndrome, dry eye, dry skin, dysarthria, dysgeusia, dysphagia, euphoric mood, face edema, flatulence, flushing, gait disturbance, hallucination, hiccups, hot flush, hyperventilation, hypotension, hypoventilation, ileus, insomnia, libido decreased, loss of consciousness, malaise, memory impairment, mental impairment, mental status changes, miosis, muscle weakness, nervousness, nightmare, orthostatic hypotension, palpitations, psychotic disorder, respiration abnormal, respiratory depression, respiratory distress, respiratory failure, restlessness, rhinitis, sedation, sexual dysfunction, syncope, tachycardia, tinnitus, urinary hesitation, urinary incontinence, urinary retention, urticaria, vasodilatation, vertigo, vision blurred, visual disturbance, weight decreased, and wheezing.
 
@@ -131,3 +131,28 @@ Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been report
 
 Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
 Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
+
+Opioid-induced esophageal dysfunction (OIED): Cases of OIED have been reported in patients taking opioids and may occur more frequently in patients taking higher doses of opioids, and/or in patients taking opioids longer term [see Warnings and Precautions (5.15)].
+
+Adverse Reactions from Observational Studies
+
+A prospective, observational cohort study estimated the risks of addiction, abuse, and misuse in patients initiating long-term use of Schedule II opioid analgesics between 2017 and 2021.
+Study participants included in one or more analyses had been enrolled in selected insurance plans or health systems for at least one year, were free of at least one outcome at baseline, completed a minimum number of follow-up assessments, and either: 1) filled multiple extended-release/long-acting opioid analgesic prescriptions during a 90-day period (n=978); or 2) filled any Schedule II opioid analgesic prescriptions covering at least 70 of 90 days (n=1,244).
+Those included also had no dispensing of the qualifying opioids in the previous 6 months.
+
+Over 12 months:
+
+- approximately 1% to 6% of participants across the two cohorts newly met criteria for addiction, as assessed with two validated interview-based measures of moderate-to-severe opioid use disorder based on Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria, and
+- approximately 9% and 22% of participants across the two cohorts newly met criteria for prescription opioid abuse and misuse [defined in Drug Abuse and Dependence (9.2)], respectively, as measured with a validated self-reported instrument.
+
+A retrospective, observational cohort study estimated the risk of opioid- involved overdose or opioid overdose-related death in patients with new long-term use of Schedule II opioid analgesics from 2006 through 2016 (n=220,249).
+Included patients had been enrolled in either one of two commercial insurance programs, one managed care program, or one Medicaid program for at least 9 months.
+New long-term use was defined as having Schedule II opioid analgesic prescriptions covering at least 70 days' supply over the 3 months prior to study entry and none during the preceding 6 months.
+Patients were excluded if they had an opioid-involved overdose in the 9 months prior to study entry.
+Overdose was measured using a validated medical code-based algorithm with linkage to the National Death Index database.
+The 5-year cumulative incidence estimates for opioid-involved overdose or opioid overdose-related death ranged from approximately 1.5% to 4% across study sites, counting only the first event during follow-up.
+Approximately 17% of first opioid overdoses observed over the entire study period (5 to11 years, depending on the study site) were fatal.
+Higher baseline opioid dose was the strongest and most consistent predictor of opioid-involved overdose or opioid overdose-related death.
+Study exclusion criteria may have selected patients at lower risk of overdose, and substantial loss to follow-up (approximately 80%) also may have biased estimates.
+
+The risk estimates from the studies described above may not be generalizable to all patients receiving opioid analgesics, such as those with exposures shorter or longer than the duration evaluated in the studies.

@@ -2,7 +2,7 @@
 
 Table 5 Includes clinically significant drug interactions with buprenorphine transdermal system.
 
-Table 5: Significant Drug Interactions with Buprenorphine Transdermal System
+Table 5: Clinically Significant Drug Interactions with Buprenorphine Transdermal System
 
 | Benzodiazepines |  |
 | --- | --- |
@@ -10,8 +10,8 @@ Table 5: Significant Drug Interactions with Buprenorphine Transdermal System
 | Intervention: | Regularly evaluate patients with concurrent use of buprenorphine transdermal system and benzodiazepines. Warn patients that it is extremely dangerous to self-administer benzodiazepines while taking buprenorphine transdermal system, and warn patients to use benzodiazepines concurrently with buprenorphine transdermal system only as directed by their physician. |
 | Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
 | Clinical Impact: | Due to additive pharmacologic effects, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death [see Warnings and Precautions (5.3)]. |
-| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Inform patients and caregivers of this potential interaction and educate them on the signs and symptoms of respiratory depression (including sedation). If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.2, 5.3)]. |
-| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Inform patients and caregivers of this potential interaction and educate them on the signs and symptoms of respiratory depression (including sedation). If concomitant use is warranted, consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.2, 5.3)]. |
+| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids (gabapentin or pregabalin), other opioids, alcohol. |
 | Inhibitors of CYP3A4 |  |
 | Clinical Impact: | The concomitant use of buprenorphine and CYP3A4 inhibitors can increase the plasma concentration of buprenorphine, resulting in increased or prolonged opioid effects, particularly when an inhibitor is added after a stable dose of buprenorphine transdermal system is achieved. After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the buprenorphine plasma concentration will decrease [see Clinical Pharmacology (12.3)], potentially resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to buprenorphine. |
 | Intervention: | If concomitant use is necessary, consider dosage reduction of buprenorphine transdermal system until stable drug effects are achieved. Evaluate patients at frequent intervals for respiratory depression and sedation. If a CYP3A4 inhibitor is discontinued, consider increasing the buprenorphine transdermal system dosage until stable drug effects are achieved. Assess for signs of opioid withdrawal. |
@@ -34,7 +34,8 @@ Table 5: Significant Drug Interactions with Buprenorphine Transdermal System
 | Examples: | butorphanol, nalbuphine, pentazocine |
 | Muscle Relaxants |  |
 | Clinical Impact: | Buprenorphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
-| Intervention: | Because respiratory depression may be greater than otherwise expected, decrease the dosage of buprenorphine transdermal system and/or the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.3)]. |
+| Intervention: | Because respiratory depression may be greater than otherwise expected, decrease the dosage of buprenorphine transdermal system and/or the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.3)]. |
+| Examples: | Cyclobenzaprine, metaxalone |
 | Diuretics |  |
 | Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
 | Intervention: | Evaluate patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |

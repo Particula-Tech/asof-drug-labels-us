@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Buprenorphine Transdermal System is supplied in cartons containing 4 individually-packaged systems, and a pouch containing 4 Patch-Disposal Units.
+Buprenorphine Transdermal System is supplied in cartons containing 4 individually packaged systems and a pouch containing 4 Patch-Disposal Units.
 The systems are supplied in the strengths below:
 
 5 mcg/hour: square, beige-colored adhesive patches measuring 45 mm by 45 mm.

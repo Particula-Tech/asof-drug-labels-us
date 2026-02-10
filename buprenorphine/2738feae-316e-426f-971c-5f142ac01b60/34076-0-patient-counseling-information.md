@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Storage and Disposal:
+Storage and Disposal
 
 Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store buprenorphine transdermal system securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
 Inform patients that leaving buprenorphine transdermal system unsecured can pose a deadly risk to others in the home [see Warnings and Precautions (5.1, 5.2), Drug Abuse and Dependence (9.2)].
@@ -33,22 +33,24 @@ Warn patients that it is extremely dangerous to self-administer benzodiazepines 
 
 Interaction with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if buprenorphine transdermal system is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3)].
+Inform patients and caregivers that potentially fatal additive effects may occur if buprenorphine transdermal system is used with benzodiazepines or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids), and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3)].
 
-Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with buprenorphine transdermal system.
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+
+Discuss with the patient the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.1)].
 
 Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
 
-Explain to patients and caregivers that naloxone's effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+Explain to patients and caregivers that effects of opioid overdose reversal agents like naloxone and nalmefene are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if an opioid overdose reversal agent is administered [see Overdosage (10)].
 
-If naloxone is prescribed, also advise patients and caregivers:
+Advise patients and caregivers:
 
-- How to treat with naloxone in the event of an opioid overdose
-- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
-- To read the Patient Information (or other educational material) that will come with their naloxone.
+- how to treat with the overdose reversal agent in the event of an opioid overdose.
+- to tell family and friends about the opioid overdose reversal agent and to keep it in a place where family and friends can access it in an emergency.
+- to read the Patient Information (or other educational material) that will come with their opioid overdose reversal agent.
   Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Hyperalgesia and Allodynia
@@ -88,7 +90,7 @@ In order to avoid developing withdrawal symptoms, instruct patients not to disco
 Driving or Operating Heavy Machinery
 
 Inform patients that buprenorphine transdermal system may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.20).
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.20)].
 
 Constipation
 
@@ -112,13 +114,8 @@ Advise patients how to recognize such a reaction and when to seek medical attent
 
 Pregnancy
 
-Neonatal Opioid Withdrawal Syndrome
-
-Inform female patients of reproductive potential the use of buprenorphine transdermal system for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
-
-Embryofetal Toxicity
-
-Inform female patients of reproductive potential that buprenorphine transdermal system can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+- Neonatal Opioid Withdrawal Syndrome Inform female patients of reproductive potential the use of buprenorphine transdermal system for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+- Embryofetal Toxicity Inform female patients of reproductive potential that buprenorphine transdermal system can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
