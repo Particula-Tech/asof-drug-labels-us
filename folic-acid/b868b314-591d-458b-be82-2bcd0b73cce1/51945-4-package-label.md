@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - Bottle Label
+# Q
 
 NDC 69499-501-75
 
