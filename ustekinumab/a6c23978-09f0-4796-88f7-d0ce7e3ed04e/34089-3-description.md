@@ -20,4 +20,4 @@ WEZLANA for Intravenous Infusion
 
 Available as 130 mg of ustekinumab-auub in 26 mL, supplied as a single-dose Type I glass vial with a coated stopper.
 
-Each 26 mL vial delivers 130 mg ustekinumab-auub, edetate disodium (0.47 mg), histidine (20 mg), histidine hydrochloride monohydrate (27 mg), methionine (10.4 mg), Polysorbate 80 (10.4 mg) and sucrose (2210 mg).
+Each 26 mL vial delivers 130 mg ustekinumab-auub, edetate disodium (0.47 mg), histidine (20 mg), histidine hydrochloride monohydrate (27 mg), methionine (10.4 mg), Polysorbate 80 (10.4 mg), and sucrose (2210 mg).

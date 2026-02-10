@@ -12,7 +12,7 @@ Inform patients of the risk of developing malignancies while receiving WEZLANA [
 
 Hypersensitivity Reactions
 
-Advise patients to seek immediate medical attention if they experience any signs or symptoms of serious hypersensitivity reactions and discontinue WEZLANA [see Warnings and Precautions (5.5)].
+- Advise patients to seek immediate medical attention if they experience any signs or symptoms of serious hypersensitivity reactions and discontinue WEZLANA [see Warnings and Precautions (5.5)].
 
 Posterior Reversible Encephalopathy Syndrome (PRES)
 

@@ -10,7 +10,7 @@ Prefilled Syringes
 - 45 mg/0.5 mL (NDC 84612-076-01, NDC 84612-876-01)
 - 90 mg/mL (NDC 84612-089-01, NDC 84612-889-01)
 
-Each prefilled syringe is equipped with a 27 gauge fixed ½ inch needle, a needle safety guard, and a needle cover that does not contain dry natural rubber.
+Each prefilled syringe is equipped with a 27-gauge fixed ½ inch needle, a needle safety guard, and a needle cover that does not contain dry natural rubber.
 
 Single-dose Vial
 
