@@ -54,7 +54,9 @@ Following oral 14C-labeled losartan, about 35% of radioactivity is recovered in 
 Following an intravenous dose of 14C-labeled losartan, about 45% of radioactivity is recovered in the urine and 50% in the feces.
 Neither losartan nor its metabolite accumulates in plasma upon repeated once-daily dosing.
 
-Specific Populations Pediatric: Pharmacokinetic parameters after multiple doses of losartan (average dose 0.7 mg/kg, range 0.36 to 0.97 mg/kg) as a tablet to 25 hypertensive patients aged 6 to 16 years are shown in Table 4 below.
+Special Populations
+
+Pediatric: Pharmacokinetic parameters after multiple doses of losartan (average dose 0.7 mg/kg, range 0.36 to 0.97 mg/kg) as a tablet to 25 hypertensive patients aged 6 to 16 years are shown in Table 4 below.
 Pharmacokinetics of losartan and its active metabolite were generally similar across the studied age groups and similar to historical pharmacokinetic data in adults.
 The principal pharmacokinetic parameters in adults and children are shown in the table below.
 

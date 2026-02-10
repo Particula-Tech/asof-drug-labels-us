@@ -25,7 +25,7 @@ The dose should be increased to 100 mg once daily based on blood pressure respon
 ## 2.4 Dosage Modifications in Patients with Hepatic Impairment
 
 In patients with mild-to-moderate hepatic impairment the recommended starting dose of Losartan potassium is 25 mg once daily.
-Losartan potassium has not been studied in patients with severe hepatic impairment [see Use in Specific Populations (8.8) and Clinical Pharmacology (12.3)].
+Losartan potassium has not been studied in patients with severe hepatic impairment [see Use in Special Populations (8.8) and Clinical Pharmacology (12.3)].
 
 ## 2.5 Preparation of Suspension (for 200 mL of a 2.5 mg/mL suspension)
 
