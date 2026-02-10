@@ -2,14 +2,14 @@
 
 Steroid-related Effects
 
-Advise patients that a cataract may occur after repeated treatment with OZURDEX®.
+Advise patients that a cataract may occur after repeated treatment with OZURDEX.
 If this occurs, advise patients that their vision will decrease, and they will need an operation to remove the cataract and restore their vision.
 
-Advise patients that they may develop increased intraocular pressure with OZURDEX® treatment, and the increased IOP will need to be managed with eye drops, and, rarely, with surgery.
+Advise patients that they may develop increased intraocular pressure with OZURDEX treatment, and the increased IOP will need to be managed with eye drops, and, rarely, with surgery.
 
 Intravitreal Injection-related Effects
 
-Advise patients that in the days following intravitreal injection of OZURDEX®, patients are at risk for potential complications including in particular, but not limited to, the development of endophthalmitis or elevated intraocular pressure.
+Advise patients that in the days following intravitreal injection of OZURDEX, patients are at risk for potential complications including in particular, but not limited to, the development of endophthalmitis or elevated intraocular pressure.
 
 When to Seek Physician Advice
 
@@ -24,9 +24,9 @@ Distributed by:
 
 AbbVie Inc. North Chicago, IL 60064
 
-© 2025 AbbVie.
+© 2026 AbbVie.
 All rights reserved.
 
 OZURDEX and its design are trademarks of Allergan, Inc., an AbbVie company.
 
-V5.0USPI3348
+20095589

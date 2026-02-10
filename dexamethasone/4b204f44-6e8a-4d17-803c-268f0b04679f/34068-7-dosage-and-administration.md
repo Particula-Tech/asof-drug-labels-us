@@ -11,14 +11,16 @@ Adequate anesthesia and a broad-spectrum microbicide applied to the periocular s
 
 Remove the foil pouch from the carton and examine for damage.
 Then, open the foil pouch over a sterile field and gently drop the applicator on a sterile tray.
-Carefully remove the cap from the applicator.
+Perform a detailed visual inspection of the applicator, including ensuring that the actuator button has not been depressed, and the safety tab is in place.
+Carefully remove the plastic safety cap taking care to avoid contacting the needle tip.
+Inspect the needle tip for damage prior to use; the implant retention plug may be visible in the bevel and should not be removed.
 Hold the applicator in one hand and pull the safety tab straight off the applicator.
 Do not twist or flex the tab.
 The long axis of the applicator should be held parallel to the limbus, and the sclera should be engaged at an oblique angle with the bevel of the needle up (away from the sclera) to create a shelved scleral path.
 The tip of the needle is advanced within the sclera for about 1 mm (parallel to the limbus), then re-directed toward the center of the eye and advanced until penetration of the sclera is completed and the vitreous cavity is entered.
 The needle should not be advanced past the point where the sleeve touches the conjunctiva.
 
-Slowly depress the actuator button until an audible click is noted.
+Slowly depress the actuator button until an audible and/or palpable click is noted.
 Before withdrawing the applicator from the eye, make sure that the actuator button is fully depressed and has locked flush with the applicator surface.
 Remove the needle in the same direction as used to enter the vitreous.
 
@@ -27,4 +29,4 @@ Monitoring may consist of a check for perfusion of the optic nerve head immediat
 Patients should be instructed to report any symptoms suggestive of endophthalmitis without delay.
 
 Each applicator can only be used for the treatment of a single eye.
-If the contralateral eye requires treatment, a new applicator must be used, and the sterile field, syringe, gloves, drapes, and eyelid speculum should be changed before OZURDEX® is administered to the other eye.
+If the contralateral eye requires treatment, a new applicator must be used, and the sterile field, syringe, gloves, drapes, and eyelid speculum should be changed before OZURDEX is administered to the other eye.

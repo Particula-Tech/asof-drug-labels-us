@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-Adverse reactions associated with ophthalmic steroids including OZURDEX® include elevated intraocular pressure, which may be associated with optic nerve damage, visual acuity and field defects, posterior subcapsular cataract formation, secondary ocular infection from pathogens including herpes simplex, and perforation of the globe where there is thinning of the cornea or sclera.
+Adverse reactions associated with ophthalmic steroids including OZURDEX include elevated intraocular pressure, which may be associated with optic nerve damage, visual acuity and field defects, posterior subcapsular cataract formation, secondary ocular infection from pathogens including herpes simplex, and perforation of the globe where there is thinning of the cornea or sclera.
 
 Retinal Vein Occlusion and Posterior Segment Uveitis
 
@@ -12,7 +12,7 @@ The following information is based on the combined clinical trial results from 3
 
 Table 1: Adverse Reactions Reported by Greater than 2% of Patients
 
-| MedDRA Term | OZURDEX® N=497 (%) | Sham N=498 (%) |
+| MedDRA Term | OZURDEX N=497 (%) | Sham N=498 (%) |
 | --- | --- | --- |
 | Intraocular pressure increased | 125 (25%) | 10 (2%) |
 | Conjunctival hemorrhage | 108 (22%) | 79 (16%) |
@@ -23,10 +23,10 @@ Table 1: Adverse Reactions Reported by Greater than 2% of Patients
 | Vitreous detachment | 12 (2%) | 8 (2%) |
 | Headache | 19 (4%) | 12 (2%) |
 
-Increased IOP with OZURDEX® peaked at approximately week 8.
-During the initial treatment period, 1% (3/421) of the patients who received OZURDEX® required surgical procedures for management of elevated IOP.
+Increased IOP with OZURDEX peaked at approximately week 8.
+During the initial treatment period, 1% (3/421) of the patients who received OZURDEX required surgical procedures for management of elevated IOP.
 
-Following a second injection of OZURDEX® in cases where a second injection was indicated, the overall incidence of cataracts was higher after 1 year.
+Following a second injection of OZURDEX in cases where a second injection was indicated, the overall incidence of cataracts was higher after 1 year.
 
 In a 2 year observational study, among patients who received >2 injections, the most frequent adverse reaction was cataract 54% (n= 96 out of 178 phakic eyes at baseline).
 Other frequent adverse reactions from the 283 treated eyes, regardless of lens status at baseline, were increased IOP 24% (n = 68) and vitreous hemorrhage 6.0% (n = 17).
@@ -34,12 +34,12 @@ Other frequent adverse reactions from the 283 treated eyes, regardless of lens s
 Diabetic Macular Edema
 
 The following information is based on the combined clinical trial results from 2 randomized, 3-year, sham-controlled studies in patients with diabetic macular edema.
-Discontinuation rates due to the adverse reactions listed in Table 2 were 3% in the OZURDEX® group and 1% in the Sham group.
+Discontinuation rates due to the adverse reactions listed in Table 2 were 3% in the OZURDEX group and 1% in the Sham group.
 The most common ocular (study eye) and non-ocular adverse reactions are shown in Tables 2 and 3:
 
 Table 2: Ocular Adverse Reactions Reported by ≥ 1% of Patients and Non-ocular Adverse Reactions Reported by ≥ 5% of Patients
 
-| MedDRA Term | OZURDEX® N=324 (%) | Sham N=328 (%) |
+| MedDRA Term | OZURDEX N=324 (%) | Sham N=328 (%) |
 | --- | --- | --- |
 | Ocular |  |  |
 | Cataract1 | 166/2432 (68%) | 49/230 (21%) |
@@ -63,9 +63,9 @@ Table 2: Ocular Adverse Reactions Reported by ≥ 1% of Patients and Non-ocular 
 | Bronchitis | 15 (5%) | 8 (2%) |
 
 1 Includes cataract, cataract nuclear, cataract subcapsular, lenticular opacities in patients who were phakic at baseline.
-Among these patients, 61% of OZURDEX® subjects vs. 8% of sham-controlled subjects underwent cataract surgery.
+Among these patients, 61% of OZURDEX subjects vs. 8% of sham-controlled subjects underwent cataract surgery.
 
-2 243 of the 324 OZURDEX® subjects were phakic at baseline; 230 of 328 sham-controlled subjects were phakic at baseline.
+2 243 of the 324 OZURDEX subjects were phakic at baseline; 230 of 328 sham-controlled subjects were phakic at baseline.
 
 Increased Intraocular Pressure
 
@@ -73,13 +73,13 @@ Table 3: Summary of Elevated Intraocular Pressure (IOP) Related Adverse Reaction
 
 | IOP | Treatment: N (%) |  |
 | --- | --- | --- |
-|  | OZURDEX® N=324 | Sham N=328 |
+|  | OZURDEX N=324 | Sham N=328 |
 | IOP elevation ≥10 mm Hg from Baseline at any visit | 91 (28%) | 13 (4%) |
 | ≥30 mm Hg IOP at any visit | 50 (15%) | 5 (2%) |
 | Any IOP lowering medication | 136 (42%) | 32 (10%) |
 | Any surgical intervention for elevated IOP * | 4 (1.2%) | 1 (0.3%) |
 
-* OZURDEX®: 1 surgical trabeculectomy for steroid-induced IOP increase, 1 surgical trabeculectomy for iris neovascularization, 1 laser iridotomy, 1 surgical iridectomy Sham: 1 laser iridotomy
+* OZURDEX: 1 surgical trabeculectomy for steroid-induced IOP increase, 1 surgical trabeculectomy for iris neovascularization, 1 laser iridotomy, 1 surgical iridectomy Sham: 1 laser iridotomy
 
 The increase in mean IOP was seen with each treatment cycle, and the mean IOP generally returned to baseline between treatment cycles (at the end of the 6 month period) shown below:
 
@@ -87,13 +87,13 @@ Figure 1: Mean IOP during the study
 
 Cataracts and Cataract Surgery
 
-At baseline, 243 of the 324 OZURDEX® subjects were phakic; 230 of 328 sham-controlled subjects were phakic.
-The incidence of cataract development in patients who had a phakic study eye was higher in the OZURDEX® group (68%) compared with Sham (21%).
-The median time of cataract being reported as an adverse event was approximately 15 months in the OZURDEX® group and 12 months in the Sham group.
-Among these patients, 61% of OZURDEX® subjects vs. 8% of sham-controlled subjects underwent cataract surgery, generally between Month 18 and Month 39 (Median Month 21 for OZURDEX® group and 20 for Sham) of the studies.
+At baseline, 243 of the 324 OZURDEX subjects were phakic; 230 of 328 sham-controlled subjects were phakic.
+The incidence of cataract development in patients who had a phakic study eye was higher in the OZURDEX group (68%) compared with Sham (21%).
+The median time of cataract being reported as an adverse event was approximately 15 months in the OZURDEX group and 12 months in the Sham group.
+Among these patients, 61% of OZURDEX subjects vs. 8% of sham-controlled subjects underwent cataract surgery, generally between Month 18 and Month 39 (Median Month 21 for OZURDEX group and 20 for Sham) of the studies.
 
 ## 6.2Postmarketing Experience
 
-The following reactions have been identified during post-marketing use of OZURDEX® in clinical practice.
+The following reactions have been identified during post-approval use of OZURDEX in clinical practice.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to OZURDEX®, or a combination of these factors, include: complication of device insertion resulting in ocular tissue injury including sclera, subconjunctiva, lens and retina (implant misplacement), device dislocation with or without corneal edema, endophthalmitis, hypotony of the eye (associated with vitreous leakage due to injection), and retinal detachment.
+The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to OZURDEX, or a combination of these factors, include: complication of device insertion resulting in ocular tissue injury including sclera, subconjunctiva, lens and retina (implant misplacement), device dislocation with or without corneal edema, endophthalmitis, hypotony of the eye (associated with vitreous leakage due to injection), and retinal detachment.
