@@ -12,3 +12,5 @@ Olanzapine tablets, USP are intended for oral administration only.
 Each tablet contains olanzapine equivalent to 2.5 mg (8 mcmol), 5 mg (16 mcmol), 7.5 mg (24 mcmol), 10 mg (32 mcmol), 15 mg (48 mcmol), or 20 mg (64 mcmol).
 Inactive ingredients are lactose, magnesium stearate, microcrystalline cellulose, starch.
 The color coating contains FD&C blue No.2 aluminum lake (15 mg), ferric oxide red (20 mg), ferric oxide yellow (20 mg), hydroxypropyl cellulose, hypromellose, polyethylene glycol and titanium dioxide (all strengths).
+
+FDA approved UV identification test differs from USP infrared identification test.

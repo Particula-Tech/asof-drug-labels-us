@@ -99,6 +99,6 @@ APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5 mg, 7.5 mg, 10 mg, 15 mg and 20 mg
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
-| Canada M9L 1T9 | USA 33326 |
+| Canada M9L 1T9 | 33326 |
 
-Rev: 9
+Rev: 10
