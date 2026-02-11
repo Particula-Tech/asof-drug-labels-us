@@ -42,8 +42,8 @@ Remind patients to give all of their healthcare providers an accurate medication
 Instruct patients to tell all of their healthcare providers that they are taking ACTONEL.
 Patients should be instructed that any time they have a medical problem they think may be from ACTONEL, they should talk to their doctor.
 
-Distributed by: AbbVie Inc. North Chicago, Illinois 60064 © 2023 AbbVie.
+Distributed by: AbbVie Inc. North Chicago, Illinois 60064 © 2026 AbbVie.
 All rights reserved.
 Actonel and its design are trademarks of Allergan Pharmaceuticals International Limited, an AbbVie company.
 
-20080025
+133169 R1

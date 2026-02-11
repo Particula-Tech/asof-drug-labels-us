@@ -19,7 +19,7 @@ The impact of variables such as time between cessation of bisphosphonate therapy
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2 - 4% and 15 - 20%, respectively.
 
 Data
 
@@ -44,7 +44,7 @@ There are no data on the presence of risedronate in human milk, the effects on t
 A small degree of lacteal transfer occurred in nursing rats.
 The concentration of the drug in animal milk does not necessarily predict the concentration of drug in human milk.
 However, when a drug is present in animal milk, it is likely that the drug will be present in human milk.
-The developmental and health benefits of breast-feeding should be considered along with the mother’s clinical need for ACTONEL and any potential adverse effects on the breast-fed child from ACTONEL or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ACTONEL and any potential adverse effects on the breast-fed child from ACTONEL or from the underlying maternal condition.
 
 Data
 

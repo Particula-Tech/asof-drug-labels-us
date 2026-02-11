@@ -13,7 +13,7 @@ ACTONEL can cause serious side effects including:
 2. Low calcium levels in your blood (hypocalcemia)
 3. Severe jaw bone problems (osteonecrosis)
 4. Bone, joint, or muscle pain
-5. Unusual thigh bone fractures
+5. Unusual breaks in thigh and other bones
 
 1.
 Esophagus problems.
@@ -54,10 +54,11 @@ Bone, joint, or muscle pain.
 Some people who take ACTONEL develop severe bone, joint, or muscle pain.
 
 5.
-Unusual thigh bone fractures.
+Unusual breaks in thigh and other bones.
 
-Some people have developed unusual fractures in their thigh bone.
-Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
+Some people have had unusual bone breaks, including the thigh bone, when taking ACTONEL.
+A break in the thigh bone can feel like a new pain in your hip, groin, or thigh.
+People taking ACTONEL can also have breaks in other bones.
 
 Call your doctor right away if you have any of these side effects.
 
@@ -185,7 +186,7 @@ This Medication Guide summarizes the most important information about ACTONEL.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ACTONEL that is written for health professionals.
 
-For more information, go to www.Actonel.com or call 1-800-678-1605.
+For more information, go to www.Actonel.com or call 1-800-633-9110.
 
 What are the ingredients in ACTONEL?
 
@@ -199,10 +200,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: AbbVie Inc. North Chicago, Illinois 60064
 
-© 2023 AbbVie.
+© 2026 AbbVie.
 All rights reserved.
 Actonel and its design are trademarks of Allergan Pharmaceuticals International Limited, an AbbVie company.
 
-Revised: 10/2023
+Revised: 02/2026
 
-20080025
+133169 R1
