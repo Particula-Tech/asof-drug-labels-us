@@ -7,16 +7,19 @@ SUBOXONE sublingual film is administered sublingually or buccally as a single da
 Medication should be prescribed in consideration of the frequency of visits.
 Provision of multiple refills is not advised early in treatment or without appropriate patient follow‐up visits.
 
-## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
-Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with SUBOXONE sublingual film.
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.2)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent.
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider recommending or prescribing an overdose reversal agent for the emergency treatment of opioid overdose, both when initiating and renewing treatment with SUBOXONE sublingual film.
+Also consider recommending or prescribing such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.2)].
 
-Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with SUBOXONE sublingual film itself.
-Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of SUBOXONE sublingual film and its affinity for the mu-opioid receptor [see Overdosage (10)].
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.2)].
 
-Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
+
+Advise patients and caregivers that opioid overdose reversal agents, such as naloxone or nalmefene, may also be administered for a known or suspected overdose with buprenorphine itself.
+Higher than normal doses and repeated administration of an opioid overdose reversal agent may be necessary due to the long duration of action of buprenorphineand its affinity for the mu-opioid receptor [see Overdosage (10)].
 
 ## 2.3 Induction
 
@@ -49,9 +52,9 @@ Following induction, the patient may then be transitioned to once‐daily SUBOXO
 
 - For maintenance, SUBOXONE sublingual film may be administered buccally or sublingually.
 - The dosage of SUBOXONE sublingual film from Day 3 onwards should be progressively adjusted in increments/decrements of 2 mg/0.5 mg or 4 mg/1 mg buprenorphine/naloxone to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
-- After treatment induction and stabilization, the maintenance dose of SUBOXONE sublingual film is generally in the range of 4 mg/1 mg buprenorphine/naloxone to 24 mg/6 mg buprenorphine/naloxone per day depending on the individual patient and clinical response.
-  The recommended target dosage of SUBOXONE sublingual film during maintenance is 16 mg/4 mg buprenorphine/naloxone/day as a single daily dose.
-  Dosages higher than 24 mg/6 mg daily have not been demonstrated to provide a clinical advantage.
+- After treatment induction to the recommended dose of 16 mg/4 mg buprenorphine/naloxone per day, dosing should be further adjusted based on the individual patient and clinical response.
+  The maintenance dose of SUBOXONE sublingual film is generally in the range of 4 mg/1 mg buprenorphine/naloxone to 24 mg/6 mg buprenorphine/naloxone per day.
+  Dosages higher than 24 mg/6 mg daily have not been investigated in randomized clinical trials but may be appropriate for some patients.
 - When determining the prescription quantity for unsupervised administration, consider the patient's level of stability, the security of his or her home situation, and other factors likely to affect the ability to manage supplies of take‐home medication.
 - There is no maximum recommended duration of maintenance treatment.
   Patients may require treatment indefinitely and should continue for as long as patients are benefiting and the use of SUBOXONE sublingual film contributes to the intended treatment goals.

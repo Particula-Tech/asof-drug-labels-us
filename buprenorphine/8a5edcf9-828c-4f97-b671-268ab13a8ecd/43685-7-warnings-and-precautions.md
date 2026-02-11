@@ -10,7 +10,7 @@ Multiple refills should not be prescribed early in treatment or without appropri
 ## 5.2 Risk of Life-Threatening Respiratory and Central Nervous System (CNS) Depression
 
 Buprenorphine has been associated with life‐threatening respiratory depression and death.
-Many, but not all, post‐marketing reports regarding coma and death involved misuse by self‐injection or were associated with the concomitant use of buprenorphine and benzodiazepines or other CNS depressants, including alcohol.
+Many, but not all, postmarketing reports regarding coma and death involved misuse by self‐injection or were associated with the concomitant use of buprenorphine and benzodiazepines or other CNS depressants, including alcohol.
 Warn patients of the potential danger of self‐administration of benzodiazepines or other CNS depressants while under treatment with SUBOXONE sublingual film [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Use SUBOXONE sublingual film with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
@@ -21,25 +21,28 @@ Opioids can cause sleep-related breathing disorders including central sleep apne
 Opioid use increases the risk of CSA in a dose-dependent fashion.
 In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.8)].
 
-Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent.
 
-Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with SUBOXONE sublingual film.
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.2)].
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider recommending or prescribing an opioid overdose reversal agent for the emergency treatment of an opioid overdose, both when initiating and renewing treatment with SUBOXONE sublingual film.
+Also consider recommending or prescribing such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.2)].
 
-Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with SUBOXONE sublingual film itself.
-Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of SUBOXONE sublingual film and its affinity for the mu-opioid receptor [see Overdosage (10)].
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program).
 
-Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
-Educate patients and caregivers on how to recognize respiratory depression and, if naloxone is prescribed, how to treat with naloxone.
-Emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
+Advise patients and caregivers that an opioid overdose reversal agent, such as naloxone or nalmefene, may also be administered for a known or suspected overdose with buprenorphine itself.
+Higher than normal doses and repeated administration of an opioid overdose reversal agent may be necessary due to the long duration of action of buprenorphine and its affinity for the mu-opioid receptor [see Overdosage (10)].
+
+Educate patients and caregivers on how to recognize respiratory depression, and how to use an opioid overdose reversal agent for the emergency treatment of opioid overdose.
+Emphasize the importance of calling 911 or getting emergency medical help, even if an opioid overdose reversal agent is administered.
 
 ## 5.3 Managing Risks from Concomitant Use of Benzodiazepines or Other CNS Depressants
 
-Concomitant use of buprenorphine and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
-Medication‐assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
+Concomitant use of buprenorphine and benzodiazepines and/or other CNS depressants (e.g., alcohol, non-benzodiazepine sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids) increases the risk of adverse reactions including overdose, respiratory depression, and death.
+Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
 Prohibiting or creating barriers to treatment can pose an even greater risk of morbidity and mortality due to the opioid use disorder alone.
 
 As a routine part of orientation to buprenorphine treatment, educate patients about the risks of concomitant use of benzodiazepines, sedatives, opioid analgesics, and alcohol.
@@ -57,7 +60,7 @@ For patients in buprenorphine treatment, benzodiazepines are not the treatment o
 Before co‐prescribing benzodiazepines, ensure that patients are appropriately diagnosed and consider alternative medications and non‐pharmacologic treatments to address anxiety or insomnia.
 Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient's buprenorphine treatment and coordinate care to minimize the risks associated with concomitant use.
 
-If concomitant use is warranted, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, as is recommended for all patients in buprenorphine treatment for opioid use disorder [see Warnings and Precautions (5.2)].
+If concomitant use is warranted, strongly consider recommending or prescribing an opioid overdose reversal agent, as is recommended for all patients on buprenorphine treatment for opioid use disorder [see Warnings and Precautions (5.2)].
 
 In addition, take measures to confirm that patients are taking their medications as prescribed and are not diverting or supplementing with illicit drugs.
 Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].
@@ -99,9 +102,7 @@ Cases of cytolytic hepatitis and hepatitis with jaundice have been observed in i
 The spectrum of abnormalities ranges from transient asymptomatic elevations in hepatic transaminases to case reports of death, hepatic failure, hepatic necrosis, hepatorenal syndrome, and hepatic encephalopathy.
 In many cases, the presence of pre‐existing liver enzyme abnormalities, infection with hepatitis B or hepatitis C virus, concomitant usage of other potentially hepatotoxic drugs, and ongoing injecting drug use may have played a causative or contributory role.
 In other cases, insufficient data were available to determine the etiology of the abnormality.
-Withdrawal of buprenorphine has resulted in amelioration of acute hepatitis in some cases;
-
-however, in other cases no dose reduction was necessary.
+Withdrawal of buprenorphine has resulted in amelioration of acute hepatitis in some cases; however, in other cases no dose reduction was necessary.
 The possibility exists that buprenorphine had a causative or contributory role in the development of the hepatic abnormality in some cases.
 Liver function tests, prior to initiation of treatment, are recommended to establish a baseline.
 Periodic monitoring of liver function during treatment is also recommended.
