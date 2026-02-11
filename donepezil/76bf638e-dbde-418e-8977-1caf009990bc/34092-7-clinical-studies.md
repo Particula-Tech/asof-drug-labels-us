@@ -163,9 +163,6 @@ While patients assigned both to donepezil hydrochloride tablets and to placebo h
 Figure 8.
 Cumulative Percentage of Patients Completing 6 Months of Double-blind Treatment with Particular Changes from Baseline in SIB Scores.
 
-Figure 9.
-Time Course of the Change from Baseline in ADCS-ADL-Severe Score for Patients Completing 6 Months of Treatment.
-
 Effects on the ADCS-ADL-severe
 
 Figure 9 illustrates the time course for the change from baseline in ADCS-ADL-severe scores for patients in the two treatment groups over the 6 months of the study.

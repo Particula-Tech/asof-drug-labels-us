@@ -1,5 +1,3 @@
-Dispense with Patient Information Sheet available at: https://torrentpharma.com/pi/usa/products/
-
 DONEPEZIL HYDROCHLORIDE TABLETS PATIENT PACKAGE INSERT
 
 Donepezil Hydrochloride (doe-NEP-e-zil HYE-droe-KLOR-ide) Tablets, USP
@@ -167,4 +165,4 @@ Manufactured for:
 
 Torrent Pharma INC., Basking Ridge, NJ 07920
 
-8099428 Revised: January 2025
+8106602 Revised: January 2026
