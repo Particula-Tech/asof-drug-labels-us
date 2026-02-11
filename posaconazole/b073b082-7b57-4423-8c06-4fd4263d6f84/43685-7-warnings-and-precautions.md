@@ -2,7 +2,7 @@
 
 ## 5.1 Calcineurin-Inhibitor Toxicity
 
-Concomitant administration of Noxafil with cyclosporine or tacrolimus increases the whole blood trough concentrations of these calcineurin-inhibitors [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+Concomitant administration of Noxafil with cyclosporine or tacrolimus increases the whole blood trough concentrations of these calcineurin-inhibitors [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 Nephrotoxicity and leukoencephalopathy (including deaths) have been reported in clinical efficacy studies in patients with elevated cyclosporine or tacrolimus concentrations.
 Frequent monitoring of tacrolimus or cyclosporine whole blood trough concentrations should be performed during and at discontinuation of Noxafil treatment and the tacrolimus or cyclosporine dose adjusted accordingly.
 
@@ -45,27 +45,27 @@ Discontinuation of Noxafil must be considered if clinical signs and symptoms con
 
 ## 5.6 Renal Impairment
 
-Due to the variability in exposure with Noxafil delayed-release tablets, Noxafil oral suspension, and Noxafil PowderMix for delayed-release oral suspension, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2.9) and Use in Specific Populations (8.6)].
+Due to the variability in exposure with Noxafil delayed-release tablets, Noxafil oral suspension, and Noxafil PowderMix for delayed-release oral suspension, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2.11) and Use in Specific Populations (8.6)].
 
-Noxafil injection should be avoided in patients with moderate or severe renal impairment (eGFR <50 mL/min), unless an assessment of the benefit/risk to the patient justifies the use of Noxafil injection.
-In patients with moderate or severe renal impairment (eGFR <50 mL/min), receiving the Noxafil injection, accumulation of the intravenous vehicle, SBECD, is expected to occur.
-Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral Noxafil therapy [see Dosage and Administration (2.9) and Use in Specific Populations (8.6)].
+Noxafil injection should be avoided in patients with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m2), unless an assessment of the benefit/risk to the patient justifies the use of Noxafil injection.
+In patients with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m2), receiving the Noxafil injection, accumulation of the intravenous vehicle, SBECD, is expected to occur.
+Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral Noxafil therapy [see Dosage and Administration (2.11) and Use in Specific Populations (8.6)].
 
 ## 5.7 Midazolam Toxicity
 
 Concomitant administration of Noxafil with midazolam increases the midazolam plasma concentrations by approximately 5-fold.
 Increased plasma midazolam concentrations could potentiate and prolong hypnotic and sedative effects.
-Patients must be monitored closely for adverse effects associated with high plasma concentrations of midazolam and benzodiazepine receptor antagonists must be available to reverse these effects [see Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
+Patients must be monitored closely for adverse effects associated with high plasma concentrations of midazolam and benzodiazepine receptor antagonists must be available to reverse these effects [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
 ## 5.8 Vincristine Toxicity
 
 Concomitant administration of azole antifungals, including Noxafil, with vincristine has been associated with neurotoxicity and other serious adverse reactions, including seizures, peripheral neuropathy, syndrome of inappropriate antidiuretic hormone secretion, and paralytic ileus.
-Reserve azole antifungals, including Noxafil, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options [see Drug Interactions (7.10)].
+Reserve azole antifungals, including Noxafil, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options [see Drug Interactions (7.2)].
 
 ## 5.9 Risk in Patients with Hereditary Fructose Intolerance (HFI)
 
 Noxafil PowderMix for delayed-release oral suspension contains sorbitol, an inactive ingredient, and may precipitate a metabolic crisis that may include, but is not limited to life-threatening hypoglycemia, hypophosphatemia, lactic acidosis, and hepatic failure in patients with HFI.
-Obtain careful history of HFI symptoms (nausea, vomiting, abdominal pain) with sorbitol/fructose/sucrose exposure prior to Noxafil PowderMix for delayed-release oral suspension administration because a diagnosis of HFI may not yet be established in pediatric patients [see Contraindications (4), Use in Specific Populations (8.4)].
+Obtain careful history of HFI symptoms (nausea, vomiting, abdominal pain) with sorbitol/fructose/sucrose exposure prior to Noxafil PowderMix for delayed-release oral suspension administration because a diagnosis of HFI may not yet be established in pediatric patients [see Contraindications (4) and Use in Specific Populations (8.4)].
 
 ## 5.10 Breakthrough Fungal Infections
 
@@ -77,5 +77,5 @@ Concomitant administration of Noxafil, a strong CYP3A4 inhibitor, with venetocla
 In patients with CLL/SLL, administration of Noxafil during initiation and the ramp-up phase of venetoclax is contraindicated [see Contraindications (4.6)].
 Refer to the venetoclax labeling for safety monitoring and dose reduction in the steady daily dosing phase in CLL/SLL patients.
 
-For patients with acute myeloid leukemia (AML), dose reduction and safety monitoring are recommended across all dosing phases when coadministering Noxafil with venetoclax [see Drug Interactions (7.16)].
+For patients with acute myeloid leukemia (AML), dose reduction and safety monitoring are recommended across all dosing phases when coadministering Noxafil with venetoclax [see Drug Interactions (7.2)].
 Refer to the venetoclax prescribing information for dosing instructions.
