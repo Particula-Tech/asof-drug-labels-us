@@ -244,7 +244,7 @@ After 68 weeks, treatment with WEGOVY 1.7 mg and 2.4 mg injection resulted in a 
 Greater proportions of patients treated with WEGOVY injection achieved 5%, 10%, and 15% weight loss than those treated with placebo as shown in Table 9.
 
 Table 9.
-Changes in Body Weight at Week 68 in Study 6 in East-Asian Patients (WEGOVY 1.7 mg) with WEGOVY Injection)
+Changes in Body Weight at Week 68 in Study 6 in East-Asian Patients (WEGOVY 1.7 mg) with WEGOVY Injection
 
 |  | Study 6 (BMI ≥35 kg/m2 with at least one comorbidity or BMI 27-34.9 kg/m2 with at least two comorbidities) |  |  |
 | --- | --- | --- | --- |
