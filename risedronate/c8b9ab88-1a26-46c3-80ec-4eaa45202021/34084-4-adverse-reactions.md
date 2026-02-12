@@ -1,5 +1,16 @@
 # 6ADVERSE REACTIONS
 
+The following clinically significant adverse drug reactions are described elsewhere in the labeling:
+
+- Drug Products with the Same Active Ingredient [see Warnings and Precautions (5.1)]
+- Upper Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.2)]
+- Mineral Metabolism [see Warnings and Precautions (5.3)]
+- Jaw Osteonecrosis [see Warnings and Precautions (5.4)]
+- Musculoskeletal Pain [see Warnings and Precautions (5.5)]
+- Atypical Fractures Including Femoral Fractures [see Warnings and Precautions (5.6)]
+- Renal Impairment [see Warnings and Precautions (5.7)]
+- Laboratory Test Interactions [see Warnings and Precautions (5.8)]
+
 ## 6.1Clinical Studies Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -96,7 +107,7 @@ Clinically important findings (perforations, ulcers, or bleeding) among this sym
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been reported with the use of Atelvia.
+The following adverse reactions have been reported with the use of Atelvia or bisphosphonate products.
 Because these adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hypersensitivity Reactions
@@ -107,9 +118,9 @@ Gastrointestinal Adverse Reactions
 
 Reactions involving upper gastrointestinal irritation, such as esophagitis and esophageal or gastric ulcers, have been reported [see Warnings and Precautions (5.2)].
 
-Musculoskeletal Pain
+Musculoskeletal
 
-Bone, joint, or muscle pain, described as severe or incapacitating, have been reported rarely [see Warnings and Precautions (5.5)].
+Bone, joint, or muscle pain, described as severe or incapacitating, have been reported rarely [see Warnings and Precautions (5.5)]; low-energy femoral shaft and subtrochanteric fractures, and atypical fractures of other bones [see Warnings and Precautions (5.6)].
 
 Eye Inflammation
 

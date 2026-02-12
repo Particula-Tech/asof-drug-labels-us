@@ -30,12 +30,12 @@ Patients should be instructed that any time they have a medical problem they thi
 
 Distributed by: AbbVie Inc. North Chicago, IL 60064
 
-For all medical inquiries contact: AbbVie Medical Communications 1-800-678-1605
+For all medical inquiries contact: AbbVie Medical Communications 1-800-633-9110
 
-© 2023 AbbVie.
+© 2026 AbbVie.
 All rights reserved.
 Atelvia and its design are trademarks of Allergan Pharmaceuticals International Limited, an AbbVie company.
 
-Content Updated: August 2020
+Content Updated: February 2026
 
-20080072
+133189 R-1
