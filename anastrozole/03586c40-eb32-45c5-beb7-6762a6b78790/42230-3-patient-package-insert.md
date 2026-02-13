@@ -6,6 +6,6 @@ Manufactured By:
 
 Intas Pharmaceuticals Limited, Ahmedabad – 380 054, INDIA.
 
-10 2311 2 6033383
+10 2311 3 6034526
 
-Issued December 2024
+Issued March 2025
