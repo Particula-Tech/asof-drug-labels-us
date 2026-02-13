@@ -214,7 +214,8 @@ Abnormal Bleeding
 SSRIs and SNRIs, including venlafaxine tablets, USP, may increase the risk of bleeding events.
 Concomitant use of aspirin, non-steroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
-Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage (see Pregnancy).Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage (see Pregnancy).
+Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
 Patients should be cautioned about the increased risk of bleeding associated with the concomitant use of venlafaxine tablets, USP and NSAIDs, aspirin, or other drugs that affect coagulation.
 
@@ -300,7 +301,7 @@ Concomitant Medication
 
 Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, including herbal preparations and nutritional supplements, since there is a potential for interactions.
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of venlafaxine tablets, USP and triptans, opiods, tryptophan supplements or other serotonergic agents (see CONTRAINDICATIONSand WARNINGS, Serotonin Syndromeand PRECAUTIONS, Drug Interactions, CNS-Active Drugs, Serotonergic Drugs).
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of venlafaxine tablets, USP and triptans, opioids, tryptophan supplements or other serotonergic agents (see CONTRAINDICATIONSand WARNINGS, Serotonin Syndromeand PRECAUTIONS, Drug Interactions, CNS-Active Drugs, Serotonergic Drugs).
 
 Patients should be cautioned about the concomitant use of venlafaxine tablets, USP and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding (see PRECAUTIONS, Abnormal Bleeding).
 
@@ -366,7 +367,7 @@ Drugs That Inhibit Cytochrome P450 Isoenzymes
 
 CYP2D6 Inhibitors
 
-In vitroand in vivo studies indicate that venlafaxine is metabolized to its active metabolite, ODV, by CYP2D6, the isoenzyme that is responsible for the genetic polymorphism seen in the metabolism of many antidepressants.
+In vitro and in vivo studies indicate that venlafaxine is metabolized to its active metabolite, ODV, by CYP2D6, the isoenzyme that is responsible for the genetic polymorphism seen in the metabolism of many antidepressants.
 Therefore, the potential exists for a drug interaction between drugs that inhibit CYP2D6-mediated metabolism and venlafaxine.
 However, although imipramine partially inhibited the CYP2D6-mediated metabolism of venlafaxine, resulting in higher plasma concentrations of venlafaxine and lower plasma concentrations of ODV, the total concentration of active compounds (venlafaxine plus ODV) was not affected.
 Additionally, in a clinical study involving CYP2D6-poor and -extensive metabolizers, the total concentration of active compounds (venlafaxine plus ODV), was similar in the two metabolizer groups.
@@ -386,7 +387,7 @@ Therefore, caution is advised if a patient’s therapy includes a CYP3A4 inhibit
 
 CYP3A4 Inhibitors
 
-In vitrostudies indicate that venlafaxine is likely metabolized to a minor, less active metabolite, N-desmethylvenlafaxine, by CYP3A4.
+In vitro studies indicate that venlafaxine is likely metabolized to a minor, less active metabolite, N-desmethylvenlafaxine, by CYP3A4.
 Because CYP3A4 is typically a minor pathway relative to CYP2D6 in the metabolism of venlafaxine, the potential for a clinically significant drug interaction between drugs that inhibit CYP3A4-mediated metabolism and venlafaxine is small.
 
 The concomitant use of venlafaxine with a drug treatment(s) that potently inhibits both CYP2D6 and CYP3A4, the primary metabolizing enzymes for venlafaxine, has not been studied.
@@ -396,7 +397,7 @@ Drugs Metabolized by Cytochrome P450 Isoenzymes
 
 CYP2D6
 
-In vitrostudies indicate that venlafaxine is a relatively weak inhibitor of CYP2D6.
+In vitro studies indicate that venlafaxine is a relatively weak inhibitor of CYP2D6.
 These findings have been confirmed in a clinical drug interaction study comparing the effect of venlafaxine to that of fluoxetine on the CYP2D6-mediated metabolism of dextromethorphan to dextrorphan.
 
 Imipramine
@@ -427,7 +428,7 @@ However, venlafaxine coadministration did not significantly alter the pharmacoki
 CYP3A4
 
 Venlafaxine did not inhibit CYP3A4 in vitro.
-This finding was confirmed in vivoby clinical drug interaction studies in which venlafaxine did not inhibit the metabolism of several CYP3A4 substrates, including alprazolam, diazepam, and terfenadine.
+This finding was confirmed in vivo by clinical drug interaction studies in which venlafaxine did not inhibit the metabolism of several CYP3A4 substrates, including alprazolam, diazepam, and terfenadine.
 
 Indinavir
 
@@ -459,7 +460,7 @@ Consequently, caution is advised if the concomitant administration of venlafaxin
 
 Serotonergic Drugs
 
-Based on the mechanism of action of SNRIs and SSRIs, including venlafaxine hydrochloride, and the potential for serotonin syndrome, caution is advised when venlafaxine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, opiods, amphetamines, or St. John’s Wort (see WARNINGS, Serotonin Syndrome).
+Based on the mechanism of action of SNRIs and SSRIs, including venlafaxine hydrochloride, and the potential for serotonin syndrome, caution is advised when venlafaxine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, opioids, amphetamines, or St. John’s Wort (see WARNINGS, Serotonin Syndrome).
 If concomitant treatment of venlafaxine tablets, USP with these drugs is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see CONTRAINDICATIONSand WARNINGS, Serotonin Syndrome).
 The concomitant use of venlafaxine tablets, USP with tryptophan supplements is not recommended (see CONTRAINDICATIONSand WARNINGS, Serotonin Syndrome).
 
@@ -496,14 +497,14 @@ Tumors were not increased by venlafaxine treatment in mice or rats.
 Mutagenicity
 
 Venlafaxine and the major human metabolite, O-desmethylvenlafaxine (ODV), were not mutagenic in the Ames reverse mutation assay in Salmonella bacteria or the CHO/HGPRT mammalian cell forward gene mutation assay.
-Venlafaxine was also not mutagenic in the in vitroBALB/c-3T3 mouse cell transformation assay, the sister chromatid exchange assay in cultured CHO cells, or the in vivochromosomal aberration assay in rat bone marrow.
-ODV was not mutagenic in the in vitroCHO cell chromosomal aberration assay.
-There was a clastogenic response in the in vivochromosomal aberration assay in rat bone marrow in male rats receiving 200 times, on a mg/kg basis, or 50 times, on a mg/m 2basis, the maximum human daily dose.
+Venlafaxine was also not mutagenic in the in vitro BALB/c-3T3 mouse cell transformation assay, the sister chromatid exchange assay in cultured CHO cells, or the in vivo chromosomal aberration assay in rat bone marrow.
+ODV was not mutagenic in the in vitro CHO cell chromosomal aberration assay.
+There was a clastogenic response in the in vivo chromosomal aberration assay in rat bone marrow in male rats receiving 200 times, on a mg/kg basis, or 50 times, on a mg/m 2 basis, the maximum human daily dose.
 The no effect dose was 67 times (mg/kg) or 17 times (mg/m 2) the human dose.
 
 Impairment of Fertility
 
-Reproduction and fertility studies of venlafaxine in rats showed no adverse effects on male or female fertility at oral doses of up to 2 times the maximum recommended human dose of 225 mg/day on a mg/m 2basis.
+Reproduction and fertility studies of venlafaxine in rats showed no adverse effects on male or female fertility at oral doses of up to 2 times the maximum recommended human dose of 225 mg/day on a mg/m 2 basis.
 
 However, reduced fertility was observed in a study in which male and female rats were treated with O-desmethylvenlafaxine (ODV), the major human metabolite of venlafaxine, prior to and during mating and gestation.
 This occurred at an ODV exposure (AUC) approximately 2 to 3 times that associated with a human venlafaxine dose of 225 mg/day.

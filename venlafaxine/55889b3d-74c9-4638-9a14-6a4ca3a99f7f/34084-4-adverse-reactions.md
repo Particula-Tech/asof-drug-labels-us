@@ -189,7 +189,7 @@ All reported events are included except those already listed in Table 2 and thos
 If the COSTART term for an event was so general as to be uninformative, it was replaced with a more informative term.
 It is important to emphasize that, although the events reported occurred during treatment with venlafaxine, they were not necessarily caused by it.
 
-Events are further categorized by body system and listed in order of decreasing frequency using the following definitions: frequentadverse events are defined as those occurring on one or more occasions in at least 1/100 patients; infrequentadverse events are those occurring in 1/100 to 1/1000 patients; rareevents are those occurring in fewer than 1/1000 patients.
+Events are further categorized by body system and listed in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
 
 Body as a whole— Frequent:accidental injury, chest pain substernal, neck pain; Infrequent:face edema, intentional injury, malaise, moniliasis, neck rigidity, pelvic pain, photosensitivity reaction, suicide attempt, withdrawal syndrome; Rare:appendicitis, bacteremia, carcinoma, cellulitis.
 
