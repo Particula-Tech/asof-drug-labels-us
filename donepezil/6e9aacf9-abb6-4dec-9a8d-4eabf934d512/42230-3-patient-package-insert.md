@@ -1,4 +1,6 @@
-DONEPEZIL HYDROCHLORIDE TABLETS PATIENT PACKAGE INSERT DONEPEZIL (doe-nep’-e-zil) HYDROCHLORIDE TABLETS, USP
+| DONEPEZIL HYDROCHLORIDE TABLETS PATIENT PACKAGE INSERT |
+| --- |
+| DONEPEZIL (doe-nep’-e-zil) HYDROCHLORIDE TABLETS, USP |
 
 - Tablets: 5 mg, and 10 mg.
 
@@ -144,7 +146,7 @@ Active ingredient: Donepezil hydrochloride monohydrate, USP.
 
 Inactive ingredients:
 
-- Donepezil hydrochloride tablets, USP 5mg and 10mg film-coated tablets: Microcrystalline Cellulose, Lactose Monohydrate, Pregelatinized Starch (maize), Low Substituted Hydroxy Propyl Cellulose, Magnesium Stearate.
+- Donepezil hydrochloride tablets, USP 5mg and 10mg film-coated tablets: Microcrystalline Cellulose, Lactose Monohydrate, Pregelatinized Starch (maize), Magnesium Stearate.
   The film coating contains talc, hypromellose, polyethylene glycol / Macrogol and titanium dioxide.
 
 Additionally, the 10 mg tablet contains yellow iron oxide (synthetic, mineral) as a coloring agent.
@@ -153,4 +155,4 @@ Rx only
 
 Manufactured by ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
-Rev: 01/19
+Revised: 9/2025
