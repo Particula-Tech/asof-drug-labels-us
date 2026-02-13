@@ -1,0 +1,48 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
+
+Recognition of Opioid Overdose
+
+Instruct patients and their family members or caregivers about how to recognize the signs and symptoms of an opioid overdose such as the following:
+
+- Extreme somnolence - inability to awaken a patient verbally or upon a firm sternal rub.
+- Respiratory depression - this can range from slow or shallow respiration to no respiration in a patient who is unarousable.
+- Other signs and symptoms that may accompany somnolence and respiratory depression include the following:
+  - Miosis
+  - Bradycardia and/or hypotension
+
+Risk of Recurrent Respiratory and Central Nervous System Depression
+
+Instruct patients and their family members or caregivers that, since the duration of action of most opioids may exceed that of REZENOPY nasal spray, they must seek immediate emergency medical assistance after the first dose of REZENOPY nasal spray and keep the patient under continued surveillance [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
+
+Limited Efficacy for/with Partial Agonists or Mixed Agonist/Antagonists
+
+Instruct patients and their family members or caregivers that the reversal of respiratory depression caused by partial agonists or mixed agonist/antagonists, such as buprenorphine and pentazocine, may be incomplete and may require higher doses of naloxone hydrochloride or repeat administration of REZENOPY nasal spray, using a new nasal spray [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
+
+Precipitation of Severe Opioid Withdrawal
+
+Instruct patients and their family members or caregivers that the use of REZENOPY nasal spray in patients who are opioid dependent may precipitate opioid withdrawal [see Warnings and Precautions (5.3), Adverse Reactions (6)].
+
+Administration Instructions
+
+Instruct patients and their family members or caregivers to:
+
+- Ensure REZENOPY nasal spray is present whenever persons may be intentionally or accidentally exposed to an opioid overdose (i.e., opioid emergencies).
+- Administer REZENOPY nasal spray as quickly as possible if a patient is unresponsive and an opioid overdose is suspected, even when in doubt, because prolonged respiratory depression may result in damage to the central nervous system or death.
+  REZENOPY nasal spray is not a substitute for emergency medical care [see Dosage and Administration (2.1)].
+- Lay the patient on their back, tilt the patient’s head back while supporting the neck and administer REZENOPY nasal spray into one nostril.
+  [see Dosage and Administration (2.1)].
+- Use each nasal spray only one time [see Dosage and Administration (2.1)].
+- Turn patient on their side as shown in the Instructions for Use and call for emergency medical assistance immediately after administration of the first dose of REZENOPY nasal spray.
+  Additional supportive and/or resuscitative measures may be helpful while awaiting emergency medical assistance [see Dosage and Administration (2.1)].
+- Monitor the patient and administer an additional dose of REZENOPY nasal spray using a new REZENOPY nasal spray every 2 to 3 minutes, if the patient is not responding or responds and then relapses back into respiratory depression.
+  Administer REZENOPY nasal spray in alternate nostrils with each dose [see Dosage and Administration (2.1)].
+- Replace REZENOPY nasal spray before its expiration date.
+
+Manufactured for: Scienture, LLC, Commack, NY 11725
+
+513201
+
+Rev.
+02/2026

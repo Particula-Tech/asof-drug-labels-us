@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA215487"
+  ],
+  "inn": "naloxone",
+  "labeler": "Scienture LLC",
+  "package_ndcs": [
+    "83245-003-01"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "naloxone hcl",
+      "name": "REZENOPY"
+    }
+  ],
+  "setid": "5bb502aa-014f-4a36-8972-42a9439168fe",
+  "source": "dailymed"
+}
