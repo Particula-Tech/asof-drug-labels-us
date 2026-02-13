@@ -8,7 +8,7 @@ Its molecular formula is C5H10N2O7P2 • H2O and a molar mass of 290.1 g/mol.
 Zoledronic acid monohydrate is highly soluble in 0.1N sodium hydroxide solution, sparingly soluble in water and 0.1N hydrochloric acid, and practically insoluble in organic solvents.
 The pH of the Reclast solution for infusion is approximately 6.0–7.0.
 
-1. Reclast Injection is available as a sterile solution in bottles for intravenous infusion.
-   One bottle with 100 mL solution contains 5.330 mg of zoledronic acid monohydrate, equivalent to 5 mg zoledronic acid on an anhydrous basis.
+Reclast Injection is available as a sterile solution in bottles for intravenous infusion.
+One bottle with 100 mL solution contains 5.330 mg of zoledronic acid monohydrate, equivalent to 5 mg zoledronic acid on an anhydrous basis.
 
 Inactive Ingredients: 4950 mg of mannitol, USP; and 30 mg of sodium citrate, USP.

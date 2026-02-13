@@ -1,9 +1,9 @@
 # 7 DRUG INTERACTIONS
 
-1. No in vivo drug interaction studies have been performed for Reclast.
-   In vitro and ex vivo studies showed low affinity of zoledronic acid for the cellular components of human blood.
-   In vitro mean zoledronic acid protein binding in human plasma ranged from 28% at 200 ng/mL to 53% at 50 ng/mL.
-   In vivo studies showed that zoledronic acid is not metabolized, and is excreted into the urine as the intact drug.
+No in vivo drug interaction studies have been performed for Reclast.
+In vitro and ex vivo studies showed low affinity of zoledronic acid for the cellular components of human blood.
+In vitro mean zoledronic acid protein binding in human plasma ranged from 28% at 200 ng/mL to 53% at 50 ng/mL.
+In vivo studies showed that zoledronic acid is not metabolized, and is excreted into the urine as the intact drug.
 
 ## 7.1 Aminoglycosides
 

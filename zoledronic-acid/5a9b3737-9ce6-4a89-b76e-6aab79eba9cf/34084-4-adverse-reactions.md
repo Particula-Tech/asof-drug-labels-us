@@ -1,5 +1,15 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse drug reactions are described elsewhere in the labeling:
+
+- •Drugs with Same Active Ingredient [see Warnings and Precautions (5.1)]
+- •Hypocalcemia and Mineral Metabolism [see Warnings and Precautions (5.2)]
+- •Renal Impairment [see Warnings and Precautions (5.3)]
+- •Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
+- •Atypical Fractures Including Femoral Fractures [see Warnings and Precautions (5.5)]
+- •Musculoskeletal Pain [see Warnings and Precautions (5.6)]
+- •Patients with Asthma [see Warnings and Precautions (5.7)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -135,54 +145,54 @@ Adverse reactions reported in at least 2% of patients with osteopenia and more f
 Table 2.
 Adverse Reactions Occurring in Greater Than or Equal to 2% of Patients with Osteopenia and More Frequently Than in Placebo-Treated Patients
 
-| System Organ Class | 5 mg IV Reclast once per year % (n = 198) | 5 mg IV Reclast once % (n = 181) | Placebo once per year % (n = 202) |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Metabolism and nutrition Disorders |  |  |  |  |  |  |  |  |
-| Anorexia | 2.0 | 0.6 | 0.0 |  |  |  |  |  |
-| Nervous system Disorders |  |  |  |  |  |  |  |  |
-| Headache | 14.6 | 20.4 | 11.4 |  |  |  |  |  |
-| Dizziness | 7.6 | 6.1 | 3.5 |  |  |  |  |  |
-| Hypoesthesia | 5.6 | 2.2 | 2.0 |  |  |  |  |  |
-| Ear and Labyrinth Disorders |  |  |  |  |  |  |  |  |
-| Vertigo | 2.0 | 1.7 | 1.0 |  |  |  |  |  |
-| Vascular Disorders |  |  |  |  |  |  |  |  |
-| Hypertension | 5.1 | 8.3 | 6.9 |  |  |  |  |  |
-| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |
-| Nausea | 17.7 | 11.6 | 7.9 |  |  |  |  |  |
-| Diarrhea | 8.1 | 6.6 | 7.9 |  |  |  |  |  |
-| Vomiting | 7.6 | 5.0 | 4.5 |  |  |  |  |  |
-| Dyspepsia | 7.1 | 6.6 | 5.0 |  |  |  |  |  |
-| Abdominal painCombined abdominal pain, abdominal pain upper, and abdominal pain lower as one Adverse Drug Reaction (ADR). | 8.6 | 6.6 | 7.9 |  |  |  |  |  |
-| Constipation | 6.6 | 7.2 | 6.9 |  |  |  |  |  |
-| Abdominal discomfort | 2.0 | 1.1 | 0.5 |  |  |  |  |  |
-| Abdominal distension | 2.0 | 0.6 | 0.0 |  |  |  |  |  |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |  |  |
-| Rash | 3.0 | 2.2 | 2.5 |  |  |  |  |  |
-| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |  |  |  |
-| Arthralgia | 27.3 | 18.8 | 19.3 |  |  |  |  |  |
-| Myalgia | 19.2 | 22.7 | 6.9 |  |  |  |  |  |
-| Back pain | 18.2 | 16.6 | 11.9 |  |  |  |  |  |
-| Pain in extremity | 11.1 | 16.0 | 9.9 |  |  |  |  |  |
-| Muscle spasms | 5.6 | 2.8 | 5.0 |  |  |  |  |  |
-| Musculoskeletal painCombined musculoskeletal pain and musculoskeletal chest pain as one ADR. | 8.1 | 7.2 | 7.9 |  |  |  |  |  |
-| Bone pain | 5.1 | 3.3 | 1.0 |  |  |  |  |  |
-| Neck pain | 5.1 | 6.6 | 5.0 |  |  |  |  |  |
-| Arthritis | 4.0 | 2.2 | 1.5 |  |  |  |  |  |
-| Joint stiffness | 3.5 | 1.1 | 2.0 |  |  |  |  |  |
-| Joint swelling | 3.0 | 0.6 | 0.0 |  |  |  |  |  |
-| Flank pain | 2.0 | 0.6 | 0.0 |  |  |  |  |  |
-| Pain in jaw | 2.0 | 3.9 | 2.5 |  |  |  |  |  |
-| General Disorders and Administration-Site Conditions |  |  |  |  |  |  |  |  |
-| Pain | 24.2 | 14.9 | 3.5 |  |  |  |  |  |
-| Pyrexia | 21.7 | 21.0 | 4.5 |  |  |  |  |  |
-| Chills | 18.2 | 18.2 | 3.0 |  |  |  |  |  |
-| Fatigue | 14.6 | 9.9 | 4.0 |  |  |  |  |  |
-| Asthenia | 6.1 | 2.8 | 1.0 |  |  |  |  |  |
-| Peripheral edema | 5.6 | 3.9 | 3.5 |  |  |  |  |  |
-| Non-cardiac chest pain | 3.5 | 7.7 | 3.0 |  |  |  |  |  |
-| Influenza-like illness | 1.5 | 3.3 | 2.0 |  |  |  |  |  |
-| Malaise | 1.0 | 2.2 | 0.5 |  |  |  |  |  |
-| Abbreviation: IV, intravenous or intravenously. |  |  |  |  |  |  |  |  |
+| System Organ Class | 5 mg IV Reclast once per year % (n = 198) | 5 mg IV Reclast once % (n = 181) | Placebo once per year % (n = 202) |
+| --- | --- | --- | --- |
+| Metabolism and nutrition Disorders |  |  |  |
+| Anorexia | 2.0 | 0.6 | 0.0 |
+| Nervous system Disorders |  |  |  |
+| Headache | 14.6 | 20.4 | 11.4 |
+| Dizziness | 7.6 | 6.1 | 3.5 |
+| Hypoesthesia | 5.6 | 2.2 | 2.0 |
+| Ear and Labyrinth Disorders |  |  |  |
+| Vertigo | 2.0 | 1.7 | 1.0 |
+| Vascular Disorders |  |  |  |
+| Hypertension | 5.1 | 8.3 | 6.9 |
+| Gastrointestinal Disorders |  |  |  |
+| Nausea | 17.7 | 11.6 | 7.9 |
+| Diarrhea | 8.1 | 6.6 | 7.9 |
+| Vomiting | 7.6 | 5.0 | 4.5 |
+| Dyspepsia | 7.1 | 6.6 | 5.0 |
+| Abdominal painCombined abdominal pain, abdominal pain upper, and abdominal pain lower as one Adverse Drug Reaction (ADR). | 8.6 | 6.6 | 7.9 |
+| Constipation | 6.6 | 7.2 | 6.9 |
+| Abdominal discomfort | 2.0 | 1.1 | 0.5 |
+| Abdominal distension | 2.0 | 0.6 | 0.0 |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |
+| Rash | 3.0 | 2.2 | 2.5 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |
+| Arthralgia | 27.3 | 18.8 | 19.3 |
+| Myalgia | 19.2 | 22.7 | 6.9 |
+| Back pain | 18.2 | 16.6 | 11.9 |
+| Pain in extremity | 11.1 | 16.0 | 9.9 |
+| Muscle spasms | 5.6 | 2.8 | 5.0 |
+| Musculoskeletal painCombined musculoskeletal pain and musculoskeletal chest pain as one ADR. | 8.1 | 7.2 | 7.9 |
+| Bone pain | 5.1 | 3.3 | 1.0 |
+| Neck pain | 5.1 | 6.6 | 5.0 |
+| Arthritis | 4.0 | 2.2 | 1.5 |
+| Joint stiffness | 3.5 | 1.1 | 2.0 |
+| Joint swelling | 3.0 | 0.6 | 0.0 |
+| Flank pain | 2.0 | 0.6 | 0.0 |
+| Pain in jaw | 2.0 | 3.9 | 2.5 |
+| General Disorders and Administration-Site Conditions |  |  |  |
+| Pain | 24.2 | 14.9 | 3.5 |
+| Pyrexia | 21.7 | 21.0 | 4.5 |
+| Chills | 18.2 | 18.2 | 3.0 |
+| Fatigue | 14.6 | 9.9 | 4.0 |
+| Asthenia | 6.1 | 2.8 | 1.0 |
+| Peripheral edema | 5.6 | 3.9 | 3.5 |
+| Non-cardiac chest pain | 3.5 | 7.7 | 3.0 |
+| Influenza-like illness | 1.5 | 3.3 | 2.0 |
+| Malaise | 1.0 | 2.2 | 0.5 |
+| Abbreviation: IV, intravenous or intravenously. |  |  |  |
 
 Ocular Adverse Events
 
@@ -209,37 +219,37 @@ Therefore, Table 3 should be viewed in conjunction with Table 1.
 
 Table 3: Adverse Reactions Occurring in Greater Than or Equal to 2% of Men with Osteoporosis and More Frequently in the Reclast-Treated Patients Than the Active Control-Treated Patients and Either (1) Not Reported in the Postmenopausal Osteoporosis Treatment Trial or (2) Reported More Frequently in This Trial
 
-| System Organ Class | 5 mg IV Reclast once per year % (N = 153) | Active Control once weekly % (N = 148) |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |  |
-| Headache | 15.0 | 6.1 |  |  |  |  |  |  |  |  |  |
-| Lethargy | 3.3 | 1.4 |  |  |  |  |  |  |  |  |  |
-| Eye Disorders |  |  |  |  |  |  |  |  |  |  |  |
-| Eye pain | 2.0 | 0.0 |  |  |  |  |  |  |  |  |  |
-| Cardiac Disorders |  |  |  |  |  |  |  |  |  |  |  |
-| Atrial fibrillation | 3.3 | 2.0 |  |  |  |  |  |  |  |  |  |
-| Palpitations | 2.6 | 0.0 |  |  |  |  |  |  |  |  |  |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |  |  |  |  |  |
-| Dyspnea | 6.5 | 4.7 |  |  |  |  |  |  |  |  |  |
-| Abdominal painCombined abdominal pain, abdominal pain upper, and abdominal pain lower as one Adverse Drug Reaction (ADR). | 7.9 | 4.1 |  |  |  |  |  |  |  |  |  |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |  |  |  |  |  |
-| Hyperhidrosis | 2.6 | 2.0 |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal, Connective Tissue and Bone Disorders |  |  |  |  |  |  |  |  |  |  |  |
-| Myalgia | 19.6 | 6.8 |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal painCombined musculoskeletal pain and musculoskeletal chest pain as one ADR. | 12.4 | 10.8 |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal stiffness | 4.6 | 0.0 |  |  |  |  |  |  |  |  |  |
-| Renal and Urinary Disorders |  |  |  |  |  |  |  |  |  |  |  |
-| Blood creatinine increased | 2.0 | 0.7 |  |  |  |  |  |  |  |  |  |
-| General Disorders and Administrative-Site Conditions |  |  |  |  |  |  |  |  |  |  |  |
-| Fatigue | 17.6 | 6.1 |  |  |  |  |  |  |  |  |  |
-| Pain | 11.8 | 4.1 |  |  |  |  |  |  |  |  |  |
-| Chills | 9.8 | 2.7 |  |  |  |  |  |  |  |  |  |
-| Influenza-like illness | 9.2 | 2.0 |  |  |  |  |  |  |  |  |  |
-| Malaise | 7.2 | 0.7 |  |  |  |  |  |  |  |  |  |
-| Acute phase reaction | 3.9 | 0.0 |  |  |  |  |  |  |  |  |  |
-| Investigations |  |  |  |  |  |  |  |  |  |  |  |
-| C-reactive protein increased | 4.6 | 1.4 |  |  |  |  |  |  |  |  |  |
-| Abbreviation: IV, intravenous or intravenously. |  |  |  |  |  |  |  |  |  |  |  |
+| System Organ Class | 5 mg IV Reclast once per year % (N = 153) | Active Control once weekly % (N = 148) |
+| --- | --- | --- |
+| Nervous System Disorders |  |  |
+| Headache | 15.0 | 6.1 |
+| Lethargy | 3.3 | 1.4 |
+| Eye Disorders |  |  |
+| Eye pain | 2.0 | 0.0 |
+| Cardiac Disorders |  |  |
+| Atrial fibrillation | 3.3 | 2.0 |
+| Palpitations | 2.6 | 0.0 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Dyspnea | 6.5 | 4.7 |
+| Abdominal painCombined abdominal pain, abdominal pain upper, and abdominal pain lower as one Adverse Drug Reaction (ADR). | 7.9 | 4.1 |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Hyperhidrosis | 2.6 | 2.0 |
+| Musculoskeletal, Connective Tissue and Bone Disorders |  |  |
+| Myalgia | 19.6 | 6.8 |
+| Musculoskeletal painCombined musculoskeletal pain and musculoskeletal chest pain as one ADR. | 12.4 | 10.8 |
+| Musculoskeletal stiffness | 4.6 | 0.0 |
+| Renal and Urinary Disorders |  |  |
+| Blood creatinine increased | 2.0 | 0.7 |
+| General Disorders and Administrative-Site Conditions |  |  |
+| Fatigue | 17.6 | 6.1 |
+| Pain | 11.8 | 4.1 |
+| Chills | 9.8 | 2.7 |
+| Influenza-like illness | 9.2 | 2.0 |
+| Malaise | 7.2 | 0.7 |
+| Acute phase reaction | 3.9 | 0.0 |
+| Investigations |  |  |
+| C-reactive protein increased | 4.6 | 1.4 |
+| Abbreviation: IV, intravenous or intravenously. |  |  |
 
 Renal Impairment
 
@@ -326,46 +336,46 @@ Adverse reactions occurring in at least 2% of the Paget’s patients receiving R
 Table 4.
 Adverse Reactions Reported in at Least 2% of Paget’s Patients Receiving Reclast (Single 5 mg Intravenous Infusion) or Risedronate (Oral 30 mg Daily for 2 Months) Over a 6-Month Follow-up Period
 
-| System Organ Class | 5 mg IV Reclast % (N = 177) | 30 mg/day x 2 Months risedronate % (N = 172) |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Infections and Infestations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Influenza | 7 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Metabolism and Nutrition Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypocalcemia | 3 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anorexia | 2 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Headache | 11 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Dizziness | 9 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Lethargy | 5 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Paresthesia | 2 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Dyspnea | 5 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 9 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Diarrhea | 6 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Constipation | 6 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Dyspepsia | 5 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Abdominal distension | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Abdominal pain | 2 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 2 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Abdominal pain upper | 1 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rash | 3 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal, Connective Tissue and Bone Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Arthralgia | 9 | 11 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Bone pain | 9 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Myalgia | 7 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Back pain | 4 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal stiffness | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
-| General Disorders and Administrative-Site Conditions |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Influenza-like illness | 11 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pyrexia | 9 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fatigue | 8 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rigors | 8 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pain | 5 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Peripheral edema | 3 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Asthenia | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Abbreviation: IV, intravenous or intravenously. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| System Organ Class | 5 mg IV Reclast % (N = 177) | 30 mg/day x 2 Months risedronate % (N = 172) |
+| --- | --- | --- |
+| Infections and Infestations |  |  |
+| Influenza | 7 | 5 |
+| Metabolism and Nutrition Disorders |  |  |
+| Hypocalcemia | 3 | 1 |
+| Anorexia | 2 | 2 |
+| Nervous System Disorders |  |  |
+| Headache | 11 | 10 |
+| Dizziness | 9 | 4 |
+| Lethargy | 5 | 1 |
+| Paresthesia | 2 | 0 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Dyspnea | 5 | 1 |
+| Gastrointestinal Disorders |  |  |
+| Nausea | 9 | 6 |
+| Diarrhea | 6 | 6 |
+| Constipation | 6 | 5 |
+| Dyspepsia | 5 | 4 |
+| Abdominal distension | 2 | 1 |
+| Abdominal pain | 2 | 2 |
+| Vomiting | 2 | 2 |
+| Abdominal pain upper | 1 | 2 |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Rash | 3 | 2 |
+| Musculoskeletal, Connective Tissue and Bone Disorders |  |  |
+| Arthralgia | 9 | 11 |
+| Bone pain | 9 | 5 |
+| Myalgia | 7 | 4 |
+| Back pain | 4 | 7 |
+| Musculoskeletal stiffness | 2 | 1 |
+| General Disorders and Administrative-Site Conditions |  |  |
+| Influenza-like illness | 11 | 6 |
+| Pyrexia | 9 | 2 |
+| Fatigue | 8 | 4 |
+| Rigors | 8 | 1 |
+| Pain | 5 | 4 |
+| Peripheral edema | 3 | 1 |
+| Asthenia | 2 | 1 |
+| Abbreviation: IV, intravenous or intravenously. |  |  |
 
 Laboratory Findings
 
@@ -390,7 +400,7 @@ Osteonecrosis of the jaw has been reported with zoledronic acid [see Warnings an
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The following adverse reactions have been identified during post approval use of Reclast:
+The following adverse reactions have been identified during post approval use of Reclast or bisphosphonate products:
 
 Acute Phase Reactions
 
@@ -426,6 +436,12 @@ Osteonecrosis of the jaw has been reported.
 Osteonecrosis of Other Bones
 
 Cases of osteonecrosis of other bones (including femur, hip, knee, ankle, wrist and humerus) have been reported; causality has not been determined in the population treated with Reclast.
+
+Musculoskeletal
+
+Low-energy femoral shaft and subtrochanteric fractures, and atypical fractures of other bones [see Warnings and
+
+Precautions (5.5)]
 
 Ocular Adverse Events
 

@@ -49,17 +49,22 @@ For patients who develop ONJ while on bisphosphonate therapy, dental surgery may
 For patients requiring dental procedures, there are no data available to suggest whether discontinuation of bisphosphonate treatment reduces the risk of ONJ.
 The clinical judgment of the treating physician should guide the management plan of each patient based on individual benefit/risk assessment [see Adverse Reactions (6.1)].
 
-## 5.5 Atypical Subtrochanteric and Diaphyseal Femoral Fractures
+## 5.5 Atypical Fractures Including Femoral Fractures
 
-1. Atypical, low-energy, or low trauma fractures of the femoral shaft have been reported in bisphosphonate-treated patients.
-   These fractures can occur anywhere in the femoral shaft from just below the lesser trochanter to above the supracondylar flare and are transverse or short oblique in orientation without evidence of comminution.
-   Causality has not been established as these fractures also occur in osteoporotic patients who have not been treated with bisphosphonates.
-2. Atypical femur fractures most commonly occur with minimal or no trauma to the affected area.
-   They may be bilateral and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
-   A number of reports note that patients were also receiving treatment with glucocorticoids (e.g., prednisone) at the time of fracture.
-3. Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
-   Patients presenting with an atypical femur fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
-   Interruption of bisphosphonate therapy should be considered, pending a risk/benefit assessment, on an individual basis.
+Atypical, low-energy, or low trauma fractures of the femoral shaft have been reported during treatment with bisphosphonates, including zolendronic acid, in patients with osteoporosis.
+Atypical femur and other fractures most commonly occur with minimal or no trauma to the affected area.
+These fractures occurred anywhere in the femoral shaft from just below the lesser trochanter to above the supracondylar flare and are transverse or short oblique in orientation without evidence of comminution.
+Atypical fractures of other bones have also been reported.
+They may be bilateral.
+These fractures can also occur in osteoporotic patients who have not been treated with bisphosphonates.
+Concomitant treatment with glucocorticoids may also induce these fractures.
+
+Prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
+
+Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
+Bony pain in other locations should also be considered for evaluation of atypical fracture.
+Patients presenting with an atypical femur fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
+Risk/benefit of continuing bisphosphonate therapy should be re-evaluated in these patients and interruption of bisphosphonate therapy should be considered.
 
 ## 5.6 Musculoskeletal Pain
 
