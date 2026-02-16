@@ -31,7 +31,7 @@ There is no available information on the effects of amlodipine on milk productio
 
 The safety and effectiveness of amlodipine for the treatment of hypertension have been established in pediatric patients aged 6 to 17 years.
 Use of amlodipine in this age group is supported by evidence from a randomized, placebo-controlled trial in pediatric patients 6 to 17 years of age with hypertension.
-[see Adverse Reactions (6.1)and Clinical Studies (14.1)].
+[see Adverse Reactions (6.1) and Clinical Studies (14.1)].
 
 The safety and effectiveness of amlodipine have not been established in pediatric patients less than 6 years of age.
 
