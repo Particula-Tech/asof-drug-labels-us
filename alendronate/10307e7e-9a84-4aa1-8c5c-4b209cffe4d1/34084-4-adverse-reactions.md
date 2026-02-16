@@ -1,5 +1,14 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse drug reactions are described elsewhere in the labeling:
+
+- Upper Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.1)]
+- Mineral Metabolism [see Warnings and Precautions (5.2)]
+- Musculoskeletal Pain [see Warnings and Precautions (5.3)]
+- Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
+- Atypical Fractures Including Femoral Fractures [see Warnings and Precautions (5.5)]
+- Renal Impairment [see Warnings and Precautions (5.6)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
@@ -78,7 +87,8 @@ In the 24-week double-blind extension study in women (n=619) and men (n=33), the
 
 ## 6.2 Post-Marketing Experience
 
-The following adverse reactions have been identified during post-approval use of FOSAMAX and FOSAMAX PLUS D. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post-approval use of FOSAMAX, FOSAMAX PLUS D, or bisphosphonate products.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a Whole: hypersensitivity reactions including urticaria and angioedema.
 Transient symptoms of myalgia, malaise, asthenia and rarely, fever have been reported with alendronate, typically in association with initiation of treatment.
@@ -90,7 +100,7 @@ Gastric or duodenal ulcers, some severe and with complications have also been re
 
 Localized osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection with delayed healing, has been reported [see Warnings and Precautions (5.4)].
 
-Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and incapacitating [see Warnings and Precautions (5.3)]; joint swelling; low-energy femoral shaft and subtrochanteric fractures [see Warnings and Precautions (5.5)].
+Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and incapacitating [see Warnings and Precautions (5.3)]; joint swelling; low-energy femoral shaft and subtrochanteric fractures, and atypical fractures of other bones [see Warnings and Precautions (5.5)].
 
 Nervous System: dizziness and vertigo.
 

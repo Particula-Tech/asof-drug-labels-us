@@ -12,7 +12,7 @@ NDC 78206-136-01 unit of use blister packages of 4
 
 Storage
 
-Store at 20-25°C (68-77°F), excursions between 15-30°C (59-86°F) are allowed.
+Store at 68°F to 77°F (20°C to 25°C), excursions between 59°F to 86°F (15°C to 30°C). are allowed.
 [See USP Controlled Room Temperature.]
 Protect from moisture and light.
 Store tablets in the original blister package until use.
