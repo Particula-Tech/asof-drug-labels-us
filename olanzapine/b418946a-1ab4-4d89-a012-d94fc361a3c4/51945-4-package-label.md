@@ -1,4 +1,4 @@
-PACKAGE LABEL - ZYPREXA 2.5 mg tablet, bottle of 30
+# PRINCIPAL DISPLAY PANEL - 2.5 mg Tablet Bottle Label
 
 NDC 61269-630-30
 
@@ -6,19 +6,19 @@ NDC 61269-630-30
 
 No. 4112
 
-ZYPREXA
+ZyPREXA
 
 Olanzapine Tablets
 
-2.5 mg
+LILLY 4112
 
-Rx only
+2.5 mg Rx only
 
 Medication Guide is to be dispensed to patients.
 
 CHEPLAPHARM
 
-PACKAGE LABEL - ZYPREXA 5 mg tablet, bottle of 30
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
 
 NDC 61269-631-30
 
@@ -26,19 +26,19 @@ NDC 61269-631-30
 
 No. 4115
 
-ZYPREXA
+ZyPREXA
 
 Olanzapine Tablets
 
-5 mg
+LILLY 4115
 
-Rx only
+5 mg Rx only
 
 Medication Guide is to be dispensed to patients.
 
 CHEPLAPHARM
 
-PACKAGE LABEL - ZYPREXA 7.5 mg tablet, bottle of 30
+# PRINCIPAL DISPLAY PANEL - 7.5 mg Tablet Bottle Label
 
 NDC 61269-632-30
 
@@ -46,19 +46,19 @@ NDC 61269-632-30
 
 No. 4116
 
-ZYPREXA
+ZyPREXA
 
 Olanzapine Tablets
 
-7.5 mg
+LILLY 4116
 
-Rx only
+7.5 mg Rx only
 
 Medication Guide is to be dispensed to patients.
 
 CHEPLAPHARM
 
-PACKAGE LABEL - ZYPREXA 10 mg tablet, bottle of 30
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
 NDC 61269-633-30
 
@@ -66,19 +66,19 @@ NDC 61269-633-30
 
 No. 4117
 
-ZYPREXA
+ZyPREXA
 
 Olanzapine Tablets
 
-10 mg
+LILLY 4117
 
-Rx only
+10 mg Rx only
 
 Medication Guide is to be dispensed to patients.
 
 CHEPLAPHARM
 
-PACKAGE LABEL - ZYPREXA 15 mg tablet, bottle of 30
+# PRINCIPAL DISPLAY PANEL - 15 mg Tablet Bottle Label
 
 NDC 61269-634-30
 
@@ -86,19 +86,19 @@ NDC 61269-634-30
 
 No. 4415
 
-ZYPREXA
+ZyPREXA
 
 Olanzapine Tablets
 
-15 mg
+LILLY 4415
 
-Rx only
+15 mg Rx only
 
 Medication Guide is to be dispensed to patients.
 
 CHEPLAPHARM
 
-PACKAGE LABEL - ZYPREXA 20 mg tablet, bottle of 30
+# PRINCIPAL DISPLAY PANEL - 20 mg Tablet Bottle Label
 
 NDC 61269-635-30
 
@@ -106,19 +106,19 @@ NDC 61269-635-30
 
 No. 4420
 
-ZYPREXA
+ZyPREXA
 
 Olanzapine Tablets
 
-20 mg
+LILLY 4420
 
-Rx only
+20 mg Rx only
 
 Medication Guide is to be dispensed to patients.
 
 CHEPLAPHARM
 
-PACKAGE LABEL - ZYPREXA ZYDIS 5 mg tablet, 30 sachets
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Sachet Carton
 
 5 mg orally disintegrating tablets
 
@@ -130,7 +130,7 @@ Rx only
 
 Medication Guide is to be dispensed to patients.
 
-ZYPREXA® ZYDIS®
+ZYPrexa® ZYDIS®
 
 Olanzapine Orally Disintegrating Tablets
 
@@ -142,7 +142,7 @@ DO NOT OPEN POUCH UNTIL IMMEDIATELY PRIOR TO USE.
 
 CHEPLAPHARM
 
-PACKAGE LABEL - ZYPREXA ZYDIS 10 mg tablet, 30 sachets
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Sachet Carton
 
 10 mg orally disintegrating tablets
 
@@ -154,7 +154,7 @@ Rx only
 
 Medication Guide is to be dispensed to patients.
 
-ZYPREXA® ZYDIS®
+ZYPrexa® ZYDIS®
 
 Olanzapine Orally Disintegrating Tablets
 
@@ -166,7 +166,7 @@ DO NOT OPEN POUCH UNTIL IMMEDIATELY PRIOR TO USE.
 
 CHEPLAPHARM
 
-PACKAGE LABEL - ZYPREXA ZYDIS 15 mg tablet, 30 sachets
+# PRINCIPAL DISPLAY PANEL - 15 mg Tablet Sachet Carton
 
 15 mg orally disintegrating tablets
 
@@ -178,7 +178,7 @@ Rx only
 
 Medication Guide is to be dispensed to patients.
 
-ZYPREXA® ZYDIS®
+ZYPrexa® ZYDIS®
 
 Olanzapine Orally Disintegrating Tablets
 
@@ -190,7 +190,7 @@ DO NOT OPEN POUCH UNTIL IMMEDIATELY PRIOR TO USE.
 
 CHEPLAPHARM
 
-PACKAGE LABEL - ZYPREXA ZYDIS 20 mg tablet, 30 sachets
+# PRINCIPAL DISPLAY PANEL - 20 mg Tablet Sachet Carton
 
 20 mg orally disintegrating tablets
 
@@ -202,7 +202,7 @@ Rx only
 
 Medication Guide is to be dispensed to patients.
 
-ZYPREXA® ZYDIS®
+ZYPrexa® ZYDIS®
 
 Olanzapine Orally Disintegrating Tablets
 
