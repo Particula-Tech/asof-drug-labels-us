@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205525"
+  ],
+  "inn": "dronabinol",
+  "labeler": "Wellhouse Pharma, LLC",
+  "package_ndcs": [
+    "85776-202-30"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "dronabinol",
+      "name": "DRONABINOL"
+    }
+  ],
+  "setid": "495aabae-3597-49dc-a5af-e328bcd937b7",
+  "source": "dailymed"
+}
