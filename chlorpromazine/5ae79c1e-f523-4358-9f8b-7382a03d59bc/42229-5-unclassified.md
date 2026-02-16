@@ -1,5 +1,7 @@
 Rx only
 
-Manufactured by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
+Distributed by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-Revised: 7/2021
+Made in Taiwan
+
+Revised: 4/2025
