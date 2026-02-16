@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "BLA761126"
+  ],
+  "inn": "filgrastim",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-429-67",
+    "69097-429-96",
+    "69097-430-67",
+    "69097-430-96"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "filgrastim-txid",
+      "name": "NYPOZI"
+    }
+  ],
+  "setid": "575d164d-45fa-4e3e-81e4-2652d96673d1",
+  "source": "dailymed"
+}
