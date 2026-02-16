@@ -146,6 +146,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - restless legs syndrome
 - rhabdomyolysis
 - salivary hypersecretion
+- syndrome of inappropriate antidiuretic hormone secretion (SIADH)
 - somnambulism
 - stutteringStuttering was only studied in oral and long acting injection (LAI) formulations.
 - venous thromboembolic events (including pulmonary embolism and deep venous thrombosis)
