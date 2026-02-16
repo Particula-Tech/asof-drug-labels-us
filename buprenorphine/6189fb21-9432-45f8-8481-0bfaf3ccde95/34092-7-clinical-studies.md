@@ -6,20 +6,20 @@ The key studies from the SUBLOCADE clinical development program that support its
 
 The opioid blockade study evaluated the blockade of subjective opioid effects, PK and safety of subcutaneous injections of SUBLOCADE in 39 subjects with OUD (not treatment-seeking).
 
-The peak (E max) effect of “Drug Liking” Visual Analog Scale (VAS) measurement after challenge with IM injections of 6 mg and 18 mg hydromorphone (HM) was not inferior (i.e., shown to be not substantially more likeable) compared to the E maxof “Drug Liking” VAS measured after challenge with placebo (at weeks 1 through 4 following the first injection of 300 mg SUBLOCADE).
+The peak (Emax) effect of “Drug Liking” Visual Analog Scale (VAS) measurement after challenge with IM injections of 6 mg and 18 mg hydromorphone (HM) was not inferior (i.e., shown to be not substantially more likeable) compared to the Emax of “Drug Liking” VAS measured after challenge with placebo (at weeks 1 through 4 following the first injection of 300 mg SUBLOCADE).
 The noninferiority (NI) margin, the largest difference allowed for the 6 or 18 mg HM VAS to exceed the placebo VAS (the maximum VAS recorded following IM injection of 0 mg HM) before being considered significant, was set at 20.
 Based on comparison to the historical response to opioid agonists in unblocked subjects, a difference of less than 20 points (on a unipolar scale) between the mean maximum response to hydromorphone and the mean maximum placebo response for the same challenge was considered to indicate near-complete blockade.
 
 All 12 weeks of the treatment period demonstrated blockade for both 6 mg and 18 mg following SUBLOCADE injections.
 However, wide variation can be seen in isolated measurements from individual subjects, shown in the figure below.
 For comparison, stabilization doses of SL buprenorphine in Week 0 failed to provide full blockade to 18 mg of HM.
-Complete blockade continued throughout the 8 weeks of observation that followed the 2 ndSUBLOCADE injection.
+Complete blockade continued throughout the 8 weeks of observation that followed the 2ndSUBLOCADE injection.
 
 Figure 12 Median (95% Confidence Interval) of Placebo-Corrected Drug-Liking Scores by Hydromorphone Dose and by Week
 
 - Key to Figure: The grey shaded area indicates the period where subjects were stabilized with 8 to 24 mg/day sublingual (SL) buprenorphine; the two vertical arrows represent treatment injections of SUBLOCADE, with 300 mg of buprenorphine.
-- The light grey and dark grey squares represent the median E maxdrug-liking scores, placebo-corrected (VAS drug liking for that week's 0 mg dose subtracted) during the hydromorphone challenge of 6 and 18 mg, respectively.
-  This median Placebo-Corrected E maxis shown by treatment week, together with its 95% confidence interval (CI; vertical line).
+- The light grey and dark grey squares represent the median Emax drug-liking scores, placebo-corrected (VAS drug liking for that week's 0 mg dose subtracted) during the hydromorphone challenge of 6 and 18 mg, respectively.
+  This median Placebo-Corrected Emax is shown by treatment week, together with its 95% confidence interval (CI; vertical line).
   In some cases, 95% CI are not visible as the median was equal to the confidence limit.
   The horizontal line at 20 mm delineates the non-inferiority margin for opioid blockade.
   Next to median estimates, individual data are summarized by circles, the area of which is proportional to the number of subjects at that location.
@@ -33,7 +33,7 @@ Patients were randomized to one of following dosing regimens: 6 once-monthly 300
 All doses were administered by a physician or suitably qualified designee and were separated by 28 ± 2 days.
 In addition to study medication, all subjects received manual-guided psychosocial support at least once a week (Individual Drug Counseling = IDC).
 
-Prior to the first dose, treatment was initiated with SUBOXONE ®(buprenorphine/naloxone) sublingual film (SUBOXONE SL Film); doses were adjusted from 8/2 mg to 24/6 mg per day over a period of 7-14 days.
+Prior to the first dose, treatment was initiated with SUBOXONE®(buprenorphine/naloxone) sublingual film (SUBOXONE SL Film); doses were adjusted from 8/2 mg to 24/6 mg per day over a period of 7-14 days.
 Patients were randomized to SUBLOCADE injection or placebo after cravings and withdrawal symptoms were clinically controlled.
 After randomization, supplemental dosing with SUBOXONE SL Film was not permitted during the study.
 

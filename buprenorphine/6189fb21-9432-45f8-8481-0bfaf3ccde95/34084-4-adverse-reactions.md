@@ -34,7 +34,7 @@ Table 2 Total Subjects Exposed to SUBLOCADE
 | † FLEX = 300 mg initial dose with an option to receive either 100 mg or 300 mg for subsequent dosing per clinician's discretion |  |  |  |  |  |  |  |
 | ‡ = Not included in total unique subjects exposed to SUBLOCADE, already accounted for in Study 13-0001 section of table |  |  |  |  |  |  |  |
 
-Table 3shows the non-injection site-related adverse reactions (ADRs) for the groups receiving SUBLOCADE 300/300 mg (6 doses of 300 mg SC injections) 300/100 mg (300 mg SC injections for the first two doses followed by 4 doses of 100 mg SC injections) and placebo (volume-matched ATRIGEL ®delivery system subcutaneous injections) reported following administration in the 6 month, double-blind, placebo-controlled study.
+Table 3shows the non-injection site-related adverse reactions (ADRs) for the groups receiving SUBLOCADE 300/300 mg (6 doses of 300 mg SC injections) 300/100 mg (300 mg SC injections for the first two doses followed by 4 doses of 100 mg SC injections) and placebo (volume-matched ATRIGEL®delivery system subcutaneous injections) reported following administration in the 6 month, double-blind, placebo-controlled study.
 The systemic safety profile for SUBLOCADE, given by a healthcare provider in clinical trials, was consistent with the known safety profile of transmucosal buprenorphine.
 Common adverse reactions associated with buprenorphine included constipation, nausea, vomiting, abnormal liver enzymes, headache, sedation and somnolence.
 Dose dependent hepatic effects observed in the Phase 3, double-blind study (13-0001, NCT02357901) included the incidence of ALT more than 3 times the upper limit of normal (> 3 × ULN) in 12.4%, 5.4%, and 4.0% of the SUBLOCADE 300/300-mg, SUBLOCADE 300/100-mg, and placebo groups, respectively.
@@ -118,3 +118,5 @@ Androgen deficiency:Cases of androgen deficiency have occurred with chronic use 
 
 Hypoglycemia:Cases of hypoglycemia have been reported in patients taking opioids.
 Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
+
+Opioid-induced esophageal dysfunction (OIED): Cases of OIED have been reported in patients taking opioids and may occur more frequently in patients taking higher doses of opioids, and/or in patients taking opioids longer term.
