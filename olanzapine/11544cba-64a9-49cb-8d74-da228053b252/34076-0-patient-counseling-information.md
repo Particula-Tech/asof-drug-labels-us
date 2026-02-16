@@ -27,7 +27,7 @@ Signs and symptoms of NMS include hyperpyrexia, muscle rigidity, altered mental 
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Patients should be advised to report to their health care provider at the earliest onset of any signs or symptoms that may be associated with Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.6)].
+Patients should be advised to report to their health care provider at the earliest onset of any signs or symptoms that may be associated with drug reaction with eosinophilia and systemic symptoms (DRESS) [see Warnings and Precautions (5.6)].
 
 Hyperglycemia and Diabetes Mellitus
 
@@ -85,7 +85,6 @@ Pediatric Use — Safety and effectiveness of ZYPREXA RELPREVV in patients under
 
 Distributed by: H2-Pharma, LLC Montgomery, AL 36117, USA
 
-Licensed by: CHEPLAPHARM Registration GmbH, Weilerstr.
-5e, 79540 Lörrach, Germany
+Licensed by: CHEPLAPHARM Registration GmbH, Weiler Straße 5e, 79540 Lörrach, Germany
 
 CHEPLAPHARM Registration GmbH under the license of CHEPLAPHARM Schweiz GmbH
