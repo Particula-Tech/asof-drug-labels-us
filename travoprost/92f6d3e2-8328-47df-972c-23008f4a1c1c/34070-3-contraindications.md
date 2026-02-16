@@ -6,11 +6,11 @@ iDose TR (travoprost intracameral implant) is contraindicated in patients with a
 
 ## 4.2 Corneal Endothelial Dystrophy
 
-iDose TR is contraindicated in patients with corneal endothelial cell dystrophy (e.g., Fuch’s Dystrophy, corneal guttatae).
+iDose TR is contraindicated in patients with corneal endothelial cell dystrophy (e.g., Fuch's Dystrophy, corneal guttatae).
 
 ## 4.3 Prior Corneal Transplantation
 
-iDose TR is contraindicated in patients with prior corneal transplantation, or endothelial cell transplants (e.g., Descemet’s Stripping Automated Endothelial Keratoplasty [DSAEK]).
+iDose TR is contraindicated in patients with prior corneal transplantation, or endothelial cell transplants (e.g., Descemet's Stripping Automated Endothelial Keratoplasty [DSAEK]).
 
 ## 4.4 Hypersensitivity
 

@@ -15,6 +15,5 @@ A slight increase in the mutant frequency was observed in one of two mouse lymph
 
 Fertility
 
-Travoprost did not affect mating or fertility indices in male or female rats at subcutaneous doses up to 10 mcg/kg/day (116 times the MHOD based on BSA).
-At 10 mcg/kg/day (116 times the MHOD based on BSA), the mean number of corpora lutea was reduced, and the post-implantation losses were increased.
+Travoprost did not affect mating or fertility indices in male or female rats at subcutaneous doses up to 10 mcg/kg/day (116 times the MHOD based on BSA) At 10 mcg/kg/day (116 times the MHOD based on BSA), the mean number of corpora lutea was reduced, and the post-implantation losses were increased.
 These effects were not observed at 3 mcg/kg/day (34.5 times the MHOD based on BSA).

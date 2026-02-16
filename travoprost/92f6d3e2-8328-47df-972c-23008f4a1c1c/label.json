@@ -5,7 +5,8 @@
   "inn": "travoprost",
   "labeler": "Glaukos Corporation",
   "package_ndcs": [
-    "25357-100-01"
+    "25357-100-01",
+    "25357-100-99"
   ],
   "products": [
     {

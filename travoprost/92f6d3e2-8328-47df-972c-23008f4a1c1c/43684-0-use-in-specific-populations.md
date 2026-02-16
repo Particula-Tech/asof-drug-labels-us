@@ -33,8 +33,7 @@ Risk Summary
 
 There are no data on the effects of travoprost on the breastfed child or milk production.
 It is not known if travoprost is present in human milk following ophthalmic administration.
-
-The developmental and health benefits of breastfeeding should be considered, along with the mother’s clinical need for iDose TR and any potential adverse effects on the breast-fed child from iDose TR.
+The developmental and health benefits of breastfeeding should be considered, along with the mother's clinical need for iDose TR and any potential adverse effects on the breast-fed child from iDose TR.
 
 ## 8.4 Pediatric Use
 

@@ -7,10 +7,10 @@ The following adverse reactions are described elsewhere in the labeling:
 - Prior corneal transplantation [see Contraindications (4.3)]
 - Hypersensitivity [see Contraindications (4.4)]
 - Device dislocation [see Warnings and Precautions (5.2)]
-- Macular edema [see Warnings and Precautions (5.3)]
-- Intraocular inflammation [see Warnings and Precautions (5.4)]
-- Pigmentation [see Warnings and Precautions (5.5)]
-- Endophthalmitis [see Warnings and Precautions (5.6)]
+- Macular edema [see Warnings and Precautions (5.6)]
+- Intraocular inflammation [see Warnings and Precautions (5.7)]
+- Pigmentation [see Warnings and Precautions (5.8)]
+- Endophthalmitis [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
