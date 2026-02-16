@@ -18,7 +18,7 @@ FOSAMAX can cause serious side effects including:
 - 4.
   Severe jaw bone problems (osteonecrosis)
 - 5.
-  Unusual thigh bone fractures
+  Unusual breaks in thigh and other bones
 
 - 1.Esophagus problems.
   Some people who take FOSAMAX may develop problems in the esophagus (the tube that connects the mouth and the stomach).
@@ -42,9 +42,10 @@ FOSAMAX can cause serious side effects including:
   Your doctor should examine your mouth before you start FOSAMAX.
   Your doctor may tell you to see your dentist before you start FOSAMAX.
   It is important for you to practice good mouth care during treatment with FOSAMAX.
-- 5.Unusual thigh bone fractures.
-  Some people have developed unusual fractures in their thigh bone.
-  Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
+- 5.Unusual breaks in thigh and other bones.
+  Some people have had unusual bone breaks, including thigh bone when taking FOSAMAX.
+  A break in the thigh bone can feel like a new pain in your hip, groin, or thigh.
+  People taking FOSAMAX can also have breaks in other bones.
 
 Call your doctor right away if you have any of these side effects.
 

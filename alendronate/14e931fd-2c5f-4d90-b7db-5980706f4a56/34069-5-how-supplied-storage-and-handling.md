@@ -10,4 +10,4 @@ Storage
 
 FOSAMAX Tablets:
 
-Store in a well-closed container at room temperature, 15-30°C (59-86°F).
+Store in a well-closed container at room temperature, 59°F to 86°F (15°C to 30°C).

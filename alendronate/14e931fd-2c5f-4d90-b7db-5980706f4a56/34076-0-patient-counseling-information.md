@@ -4,12 +4,12 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Instruct patients to read the Medication Guide before starting therapy with FOSAMAX and to reread it each time the prescription is renewed.
 
-## 17.1 Osteoporosis Recommendations, Including Calcium and Vitamin D Supplementation
+Osteoporosis Recommendations, Including Calcium and Vitamin D Supplementation
 
 Instruct patients to take supplemental calcium and vitamin D, if daily dietary intake is inadequate.
 Weight-bearing exercise should be considered along with the modification of certain behavioral factors, such as cigarette smoking and/or excessive alcohol consumption, if these factors exist.
 
-## 17.2 Dosing Instructions
+Dosing Instructions
 
 Instruct patients that the expected benefits of FOSAMAX may only be obtained when it is taken with plain water the first thing upon arising for the day at least 30 minutes before the first food, beverage, or medication of the day.
 Even dosing with orange juice or coffee has been shown to markedly reduce the absorption of FOSAMAX [see Clinical Pharmacology (12.3)].

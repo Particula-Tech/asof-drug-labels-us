@@ -21,7 +21,7 @@ Alendronate reduces bone resorption with no direct effect on bone formation, alt
 Osteoporosis in Postmenopausal Women
 
 Osteoporosis is characterized by low bone mass that leads to an increased risk of fracture.
-The diagnosis can be confirmed by the finding of low bone mass, evidence of fracture on x-ray, a history of osteoporotic fracture, or height loss or kyphosis, indicative of vertebral (spinal) fracture.
+The diagnosis can be confirmed by the finding of low bone mass, evidence of fracture on X-ray, a history of osteoporotic fracture, or height loss or kyphosis, indicative of vertebral (spinal) fracture.
 Osteoporosis occurs in both males and females but is most common among women following the menopause, when bone turnover increases and the rate of bone resorption exceeds that of bone formation.
 These changes result in progressive bone loss and lead to osteoporosis in a significant proportion of women over age 50.
 Fractures, usually of the spine, hip, and wrist, are the common consequences.
