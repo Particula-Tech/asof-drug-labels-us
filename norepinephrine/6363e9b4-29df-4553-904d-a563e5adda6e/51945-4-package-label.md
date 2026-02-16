@@ -111,3 +111,217 @@ Barcode (01)00303380116201
 LOT
 
 EXP
+
+EZPE7764 NDC 0338-0040-01 250 mL
+
+Norepinephrine Bitartrate in 0.9% Sodium Chloride Injection
+
+4 mg / 250 mL (16 mcg / mL) For Intravenous Infusion Only
+
+WARNING: CONTAINS SULFITES Each 100 mL of sterile, nonpyrogenic solution contains: Norepinephrine Bitartrate Monohydrate USP equivalent to 1.6 mg norepinephrine, 0.9 g Sodium Chloride and 0.32 mg Sodium Metabisulfate in Water for Injection, USP.
+May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
+
+Single Dose Only – Discard unused portion.
+For Intravenous Use.
+Recommended dosage: See prescribing information.
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Protect from light.
+Use product within 30 days of removal from overwrap.
+Viaflo container is not made with natural rubber latex, DEHP, or PVC.
+Rx Only
+
+Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in Ireland Viaflo container
+
+Do not use this port Symbol
+
+Symbol 07 0
+
+Barcode (01)00303380040018
+
+CB-35-05-683
+
+LOT
+
+EXP
+
+EZPE7765 NDC 0338-0042-01 250 mL
+
+Norepinephrine Bitartrate in 0.9% Sodium Chloride Injection
+
+8 mg / 250 mL (32 mcg / mL) For Intravenous Infusion Only
+
+WARNING: CONTAINS SULFITES Each 100 mL of sterile, nonpyrogenic solution contains: Norepinephrine Bitartrate Monohydrate USP equivalent to 3.2 mg norepinephrine, 0.9 g Sodium Chloride, 0.64 mg Sodium Metabisulfate in Water for Injection, USP.
+May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
+
+Single Dose Only – Discard unused portion.
+For Intravenous Use.
+Recommended dosage: See prescribing information.
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Protect from light.
+Use product within 30 days of removal from overwrap.
+Viaflo container is not made with natural rubber latex, DEHP, or PVC.
+Rx Only
+
+Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in Ireland Viaflo container
+
+Do not use this port Symbol
+
+Symbol 07 0
+
+CB-35-05-684
+
+Barcode (01)00303380042012
+
+LOT
+
+EXP
+
+EZPE7766 NDC 0338-0128-01 250 mL
+
+Norepinephrine Bitartrate in 0.9% Sodium Chloride Injection
+
+16 mg / 250 mL (64 mcg / mL) For Intravenous Infusion Only
+
+WARNING: CONTAINS SULFITES Each 100 mL of sterile, nonpyrogenic solution contains: Norepinephrine Bitartrate Monohydrate USP equivalent to 6.4 mg norepinephrine, 0.9 g Sodium Chloride, 1.28 mg Sodium Metabisulfate in Water for Injection, USP.
+May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
+
+Single Dose Only – Discard unused portion.
+For Intravenous Use.
+Recommended dosage: See prescribing information.
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Protect from light.
+Use product within 30 days of removal from overwrap.
+
+Viaflo container is not made with natural rubber latex, DEHP, or PVC.
+Rx Only
+
+Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in Ireland Viaflo container
+
+Do not use this port Symbol
+
+Symbol 07 0
+
+CB-35-05-685
+
+Barcode (01)003033800128013
+
+LOT
+
+EXP
+
+EZPE7764 NDC 0338-0040-01 250 mL
+
+Norepinephrine Bitartrate in 0.9% Sodium Chloride Injection
+
+4 mg / 250 mL (16 mcg / mL)
+
+QR code
+
+For Intravenous Infusion Only
+
+(91)CB1001265
+
+WARNING: CONTAINS SULFITES
+
+Each 100 mL of sterile, nonpyrogenic solution contains: Norepinephrine Bitartrate Monohydrate USP equivalent to 1.6 mg norepinephrine, 0.9 g Sodium Chloride, 0.32 mg Sodium Metabisulfate in Water for Injection, USP.
+May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
+
+Single Dose Only – Discard unused portion.
+For Intravenous Use.
+Recommended dosage: See prescribing information.
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Protect from light.
+Use within 30 days of removal from overwrap.
+
+Viaflo container is not made with natural rubber latex, DEHP, or PVC.
+Rx Only
+
+Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in Ireland Viaflo container
+
+Symbol 07 0
+
+Barcode (01)00303380040018
+
+See solution container for lot and expiry.
+
+CB-10-01-265
+
+Un-varnished area (No text)
+
+EZPE7765 NDC 0338-0042-01 250 mL
+
+Norepinephrine Bitartrate in 0.9% Sodium Chloride Injection
+
+8 mg / 250 mL (32 mcg / mL)
+
+QR code
+
+For Intravenous Infusion Only
+
+(91)CB1001266
+
+WARNING: CONTAINS SULFITES
+
+Each 100 mL of sterile, nonpyrogenic solution contains: Norepinephrine Bitartrate Monohydrate USP equivalent to 3.2 mg norepinephrine, 0.9 g Sodium Chloride, 0.64 mg Sodium Metabisulfate in Water for Injection, USP.
+May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
+
+Single Dose Only – Discard unused portion.
+For Intravenous Use.
+Recommended dosage: See prescribing information.
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Protect from light.
+Use within 30 days of removal from overwrap.
+
+Viaflo container is not made with natural rubber latex, DEHP, or PVC.
+Rx Only
+
+Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in Ireland Viaflo container
+
+Symbol 07 0
+
+Barcode (01)00303380042012
+
+See solution container for lot and expiry.
+
+CB-10-01-266
+
+Un-varnished area (No text)
+
+EZPE7766 NDC 0338-0128-01 250 mL
+
+Norepinephrine Bitartrate in 0.9% Sodium Chloride Injection
+
+16 mg / 250 mL (64 mcg / mL)
+
+QR code
+
+For Intravenous Infusion Only
+
+(91)CB1001267
+
+WARNING: CONTAINS SULFITES
+
+Each 100 mL of sterile, nonpyrogenic solution contains: Norepinephrine Bitartrate Monohydrate USP equivalent to 6.4 mg norepinephrine, 0.9 g Sodium Chloride, 1.28 mg Sodium Metabisulfate in Water for Injection, USP.
+May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
+
+Single Dose Only – Discard unused portion.
+For Intravenous Use.
+Recommended dosage: See prescribing information.
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Protect from light.
+Use within 30 days of removal from overwrap.
+
+Viaflo container is not made with natural rubber latex, DEHP, or PVC.
+Rx Only
+
+Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in Ireland Viaflo container
+
+Symbol 07 0
+
+Barcode (01)00303380128013
+
+See solution container for lot and expiry.
+
+CB-10-01-267
+
+Un-varnished area (No text)

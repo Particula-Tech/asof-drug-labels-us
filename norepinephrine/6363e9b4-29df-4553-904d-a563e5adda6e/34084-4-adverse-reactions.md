@@ -5,6 +5,7 @@ The following serious adverse reactions are described in greater detail in other
 - •Tissue Ischemia [see Warnings and Precautions (5.1)]
 - •Hypotension [see Warnings and Precautions (5.2)]
 - •Cardiac Arrhythmias [see Warnings and Precautions (5.3)]
+- •Allergic Reactions associated with Sulfite [see Warnings and Precautions (5.4)]
 
 The most common adverse reactions are hypertension and bradycardia.
 

@@ -1,14 +1,22 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Norepinephrine Bitartrate in Dextrose Injection for intravenous infusion is a colorless to slightly yellow solution available in single-dose, ready-to-use containers in an amber/foil overwrap.
-Each 250 mL of Norepinephrine Bitartrate in Dextrose Injection, 4 mg/250 mL, 8 mg/250 mL, and 16 mg/250 mL contains the equivalent of 4 mg, 8 mg, and 16 mg of norepinephrine, respectively (provided as norepinephrine bitartrate monohydrate).
-Norepinephrine Bitartrate in Dextrose Injection is available in the following:
+Norepinephrine Bitartrate in Dextrose Injection or Norepinephrine Bitartrate in Sodium Chloride Injection for intravenous infusion is a colorless to slightly yellow solution available in single-dose, ready-to-use containers in an amber/foil overwrap.
+Each 250 mL of Norepinephrine Bitartrate in Dextrose Injection or Norepinephrine Bitartrate in Sodium Chloride Injection, 4 mg/250 mL, 8 mg/250 mL, and 16 mg/250 mL contains the equivalent of 4 mg, 8 mg, and 16 mg of norepinephrine, respectively (provided as norepinephrine bitartrate monohydrate).
+Norepinephrine Bitartrate in Dextrose Injection or Norepinephrine Bitartrate in Sodium Chloride Injection is available in the following:
 
-| Product Description | NDC Number |
+| Norepinephrine Bitartrate in 5% Dextrose Injection |  |
 | --- | --- |
-| Twenty containers of 4 mg/250 mL | NDC 0338-0112-20 |
-| Twenty containers of 8 mg/250 mL | NDC 0338-0108-20 |
-| Twenty containers of 16 mg/250 mL | NDC 0338-0116-20 |
+| Product Description | NDC Number |
+| Twenty containers of 4 mg/250 mL (16 mcg/mL) | NDC 0338-0112-20 |
+| Twenty containers of 8 mg/250 mL (32 mcg/mL) | NDC 0338-0108-20 |
+| Twenty containers of 16 mg/250 mL (64 mcg/mL) | NDC 0338-0116-20 |
+
+| Norepinephrine Bitartrate in 0.9% Sodium Chloride Injection |  |
+| --- | --- |
+| Product Description | NDC Number |
+| Twenty containers of 4 mg/250 mL (16 mcg/mL) | NDC 0338-0040-20 |
+| Twenty containers of 8 mg/250 mL (32 mcg/mL) | NDC 0338-0042-20 |
+| Twenty containers of 16 mg/250 mL (64 mcg/mL) | NDC 0338-0128-20 |
 
 Store at room temperature [20°C to 25°C (68°F to 77°F)], excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Protect from light.

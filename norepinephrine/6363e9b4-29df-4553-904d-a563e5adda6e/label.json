@@ -5,9 +5,12 @@
   "inn": "norepinephrine",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
+    "0338-0040-20",
+    "0338-0042-20",
     "0338-0108-20",
     "0338-0112-20",
-    "0338-0116-20"
+    "0338-0116-20",
+    "0338-0128-20"
   ],
   "products": [
     {

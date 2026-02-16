@@ -13,7 +13,7 @@ The elevation in vascular tone or resistance reduces blood flow to the major abd
 Coronary blood flow is substantially increased secondary to the indirect effects of alpha stimulation.
 After intravenous administration, a pressor response occurs rapidly and reaches steady state within 5 minutes.
 The pharmacologic actions of norepinephrine are terminated primarily by uptake and metabolism in sympathetic nerve endings.
-The pressor action stops within 1-2 minutes after the infusion is discontinued.
+The pressor action stops within 1 minutes-2 minutes after the infusion is discontinued.
 
 ## 12.3 Pharmacokinetics
 

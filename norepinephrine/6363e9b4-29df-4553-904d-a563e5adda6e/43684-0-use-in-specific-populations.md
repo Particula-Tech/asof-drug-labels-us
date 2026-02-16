@@ -13,7 +13,7 @@ Increased fetal reabsorptions were observed in pregnant hamsters after receiving
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
 
 Clinical Considerations
 
@@ -27,7 +27,7 @@ Data
 
 Animal Data
 
-A study in pregnant sheep receiving high doses of intravenous norepinephrine (40 mcg/min, at approximately 10 times the average maintenance dose of 2-4 mcg/min in human, on a mg/kg basis) exhibited a significant decrease in maternal placental blood flow.
+A study in pregnant sheep receiving high doses of intravenous norepinephrine (40 mcg/min, at approximately 10 times the average maintenance dose of 2 mcg/min -4 mcg/min in human, on a mg/kg basis) exhibited a significant decrease in maternal placental blood flow.
 Decreases in fetal oxygenation, urine and lung liquid flow were also observed.
 
 Norepinephrine administration to pregnant rats on Gestation Day 16 or 17 resulted in cataract production in rat fetuses.
@@ -51,4 +51,4 @@ Clinical studies of norepinephrine did not include sufficient numbers of subject
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-Avoid administration of Norepinephrine Bitartrate in Dextrose Injection into the veins in the leg in elderly patients [see Warnings and Precautions (5.1)].
+Avoid administration of Norepinephrine Bitartrate in Dextrose Injection or Norepinephrine Bitartrate in Sodium Chloride Injection into the veins in the leg in elderly patients [see Warnings and Precautions (5.1)].
