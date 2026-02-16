@@ -37,7 +37,8 @@ Table 2: Mean Percent Reduction in Lesion Counts in Subjects with Acne Vulgaris 
 | Non-inflammatory lesion counts | 37% | -2%* | 29% | 14% |
 | Inflammatory lesion counts | 44% | 13% | 41% | 30% |
 | Total lesion counts | 40% | 8% | 35% | 20% |
-| * -2% represents a mean percent increase of 2% |  |  |  |  |
+
+* -2% represents a mean percent increase of 2%
 
 Efficacy was also assessed by the investigator’s global evaluation, which included categories of “excellent”, “good”, “fair”, “no change”, and “poor”.
 RETIN-A MICRO 0.04% was superior (p<0.05) to the vehicle in the investigator's global evaluation of the clinical response:
