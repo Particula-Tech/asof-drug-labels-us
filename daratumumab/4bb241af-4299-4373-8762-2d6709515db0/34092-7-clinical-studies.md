@@ -56,7 +56,7 @@ In Combination with Bortezomib, Lenalidomide and Dexamethasone in Patients Who A
 The efficacy of DARZALEX FASPRO with bortezomib, lenalidomide and dexamethasone (DARZALEX FASPRO-VRd) versus bortezomib, lenalidomide and dexamethasone (VRd) was evaluated in CEPHEUS (NCT03652064), an open-label, randomized, active-controlled trial in patients with newly diagnosed multiple myeloma who were ineligible for ASCT or refused ASCT as initial therapy.
 
 Patients received DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously once weekly from weeks 1 to 6, once every three weeks from weeks 7 to 24, and once every 4 weeks starting with week 25 until disease progression or unacceptable toxicity.
-Bortezomib was administered by subcutaneous injection at a dose of 1.3 mg/m2 body surface area twice weekly (days 1, 4, 8, and 11) of repeated 21-day (3-week) Cycles 1–8.
+Bortezomib was administered by subcutaneous injection at a dose of 1.3 mg/m2 body surface area twice weekly (days 1, 4, 8, and 11) in repeated 21-day (3-week) cycles from Cycles 1–8.
 Lenalidomide was administered orally at 25 mg daily on Days 1–14 of Cycles 1–8 and on Days 1–21 during Cycles 9 and beyond.
 Dexamethasone was administered orally at 20 mg on Days 1, 2, 4, 5, 8, 9, 11, and 12 of Cycles 1–8 (or at 20 mg on Days 1, 4, 8, and 11 for patients >75 years or BMI <18.5) and at 40 mg on Days 1, 8, 15, and 22 during Cycles 9 and beyond (or at a reduced dose of 20 mg per week for patients >75 years or BMI <18.5).
 On the days of DARZALEX FASPRO injection, the dexamethasone dose was administered orally or intravenously as a pre-injection medication.
