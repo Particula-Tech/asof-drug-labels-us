@@ -13,7 +13,7 @@ Effects of Other Drugs on Metoclopramide
 | Intervention | Avoid concomitant use [see Warnings and Precautions (5.1, 5.2, 5.3)]. |
 | Strong CYP2D6 Inhibitors, not Included in Antipsychotic Category Above |  |
 | Clinical Impact | Increased plasma concentrations of metoclopramide; risk of exacerbation of extrapyramidal symptoms [see Clinical Pharmacology (12.3)]. |
-| Intervention | Reduce the Reglan dosage [see Dosage and Administration (2.2, 2.3)]. |
+| Intervention | Reduce the Reglan dosage [see Dosage and Administration (2.1, 2.2)]. |
 | Examples | quinidine, bupropion, fluoxetine, and paroxetine |
 | Monoamine Oxidase Inhibitors |  |
 | Clinical Impact | Increased risk of hypertension [see Warnings and Precautions (5.5)]. |
@@ -33,7 +33,7 @@ Effects of Other Drugs on Metoclopramide
 
 ## 7.2 Effects of Metoclopramide on Other Drugs
 
-Table 4 displays the effects of Metoclopramide on other drugs.
+Table 4 displays the effects of metoclopramide on other drugs.
 
 Table 4.
 Effects of Metoclopramide on Other Drugs

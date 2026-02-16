@@ -41,15 +41,15 @@ The whole body volume of distribution is high (about 3.5 L/kg), which suggests e
 Elimination
 
 1. Metabolism: Metoclopramide undergoes enzymatic metabolism via oxidation as well as glucuronide and sulfate conjugation reactions in the liver.
-   Monodeethylmetoclopramide, a major oxidative metabolite, is formed primarily by CYP2D6, an enzyme subject to genetic variability [see Dosage and Administration (2.2, 2.3), Use in Specific Populations (8.9)].
+   Monodeethylmetoclopramide, a major oxidative metabolite, is formed primarily by CYP2D6, an enzyme subject to genetic variability [see Dosage and Administration (2.1, 2.2), Use in Specific Populations (8.9)].
 2. Excretion: Approximately 85% of the radioactivity of an orally administered dose appeared in the urine within 72 hours.
    After oral administration of 10 or 20 mg, a mean of 18% and 22% of the dose, respectively, was recovered as free metoclopramide in urine within 36 hours.
 
 Specific Populations
 
 1. Patients with Renal Impairment: In a study of 24 patients with varying degrees of renal impairment (moderate, severe, and end-stage renal disease (ESRD) requiring dialysis), the systemic exposure (AUC) of metoclopramide in patients with moderate to severe renal impairment was about 2-fold the AUC in subjects with normal renal function.
-   The AUC of metoclopramide in patients with ESRD on dialysis was about 3.5-fold the AUC in subjects with normal renal function [see Dosage and Administration (2.2, 2.3) and Use in Specific Populations (8.6)].
-2. Patients with Hepatic Impairment: In a group of 8 patients with severe hepatic impairment (Child-Pugh C), the average metoclopramide clearance was reduced by approximately 50% compared to patients with normal hepatic function [see Dosage and Administration (2.2, 2.3) and Use in Specific Populations (8.7)].
+   The AUC of metoclopramide in patients with ESRD on dialysis was about 3.5-fold the AUC in subjects with normal renal function [see Dosage and Administration (2.1, 2.2) and Use in Specific Populations (8.6)].
+2. Patients with Hepatic Impairment: In a group of 8 patients with severe hepatic impairment (Child-Pugh C), the average metoclopramide clearance was reduced by approximately 50% compared to patients with normal hepatic function [see Dosage and Administration (2.1, 2.2) and Use in Specific Populations (8.7)].
 
 Drug Interaction Studies
 

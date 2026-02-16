@@ -6,10 +6,10 @@ Risk Summary
 
 Published studies, including retrospective cohort studies, national registry studies, and meta-analyses, do not report an increased risk of adverse pregnancy-related outcomes with use of metoclopramide during pregnancy.
 
-There are potential risks to the neonate following exposure in utero to metoclopramide during delivery [see Clinical Considerations].
-In animal reproduction studies, no adverse developmental effects were observed with oral administration of metoclopramide to pregnant rats and rabbits at exposures about 6 and 12 times the maximum recommended human dose (MRHD) [see Data].
+There are potential risks to the neonate following exposure in utero to metoclopramide during delivery (see Clinical Considerations).
+In animal reproduction studies, no adverse developmental effects were observed with oral administration of metoclopramide to pregnant rats and rabbits at exposures about 6 and 12 times the maximum recommended human dose (MRHD) (see Data).
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defects, loss or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
@@ -31,8 +31,8 @@ No evidence of adverse developmental effects due to metoclopramide were observed
 
 Risk Summary
 
-Limited published data report the presence of metoclopramide in human milk in variable amounts.
-Breastfed infants exposed to metoclopramide have experienced gastrointestinal adverse reactions, including intestinal discomfort and increased intestinal gas formation [see Data].
+Limited published data report the presence of metoclopramide in human milk in variable amounts (see Data).
+Breastfed infants exposed to metoclopramide have experienced gastrointestinal adverse reactions, including intestinal discomfort and increased intestinal gas formation (see Clinical Considerations).
 Metoclopramide elevates prolactin levels [see Warnings and Precautions (5.7)]; however, the published data are not adequate to support drug effects on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Reglan and any potential adverse effects on the breastfed child from Reglan or from the underlying maternal condition.
 
@@ -47,8 +47,8 @@ In one study, the estimated daily amount of metoclopramide received by infants f
 
 ## 8.4 Pediatric Use
 
-Reglan is not recommended for use in pediatric patients due to the risk of tardive dyskinesia (TD) and other extrapyramidal symptoms as well as the risk of methemoglobinemia in neonates.
-The safety and effectiveness of Reglan in pediatric patients have not been established.
+Metoclopramide is not recommended for use in pediatric patients due to the risk of tardive dyskinesia (TD) and other extrapyramidal symptoms as well as the risk of methemoglobinemia in neonates.
+The safety and effectiveness of Reglan tablets in pediatric patients have not been established.
 
 Dystonias and other extrapyramidal symptoms associated with metoclopramide are more common in pediatric patients than in adults [see Warnings and Precautions (5.1, 5.2)].
 In addition, neonates have reduced levels of NADH-cytochrome b5 reductase, making them more susceptible to methemoglobinemia, a possible adverse reaction of metoclopramide use in neonates [see Use in Specific Populations (8.8)].
@@ -56,21 +56,21 @@ In addition, neonates have reduced levels of NADH-cytochrome b5 reductase, makin
 ## 8.5 Geriatric Use
 
 Metoclopramide is known to be substantially excreted by the kidney, and the risk of adverse reactions, including tardive dyskinesia (TD), may be greater in patients with impaired renal function [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
-Elderly patients are more likely to have decreased renal function and may be more sensitive to the therapeutic or adverse effects of metoclopramide; therefore, consider a reduced dosage of Reglan in elderly patients [see Boxed Warning, Dosage and Administration (2.2, 2.3), Warnings and Precautions (5.1)].
+Elderly patients are more likely to have decreased renal function and may be more sensitive to the therapeutic or adverse effects of metoclopramide; therefore, consider a reduced dosage of Reglan in elderly patients [see Boxed Warning, Dosage and Administration (2.1, 2.2), Warnings and Precautions (5.1)].
 
 ## 8.6 Renal Impairment
 
 The clearance of metoclopramide is decreased and the systemic exposure is increased in patients with moderate to severe renal impairment compared to patients with normal renal function, which may increase the risk of adverse reactions.
-Reduce the Reglan dosage in patients with moderate and severe renal impairment (creatinine clearance less than or equal to 60 mL/minute), including those receiving hemodialysis and continuous ambulatory peritoneal dialysis [see Dosage and Administration (2.2, 2.3), Clinical Pharmacology (12.3)].
+Reduce the Reglan dosage in patients with moderate and severe renal impairment (creatinine clearance less than or equal to 60 mL/minute), including those receiving hemodialysis and continuous ambulatory peritoneal dialysis [see Dosage and Administration (2.1, 2.2), Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 Patients with severe hepatic impairment (Child-Pugh C) have reduced systemic metoclopramide clearance (by approximately 50%) compared to patients with normal hepatic function.
 The resulting increase in metoclopramide blood concentrations increases the risk of adverse reactions.
-There is no pharmacokinetic data in patients with moderate hepatic impairment (Child-Pugh B). Reduce Reglan dosage in patients with moderate or severe (Child-Pugh B or C) hepatic impairment [see Dosage and Administration (2.2, 2.3)].
+There is no pharmacokinetic data in patients with moderate hepatic impairment (Child-Pugh B). Reduce the Reglan dosage in patients with moderate or severe (Child-Pugh B or C) hepatic impairment [see Dosage and Administration (2.1, 2.2)].
 There is no dosage adjustment required for patients with mild hepatic impairment (Child-Pugh A).
 
-In addition, metoclopramide, by producing a transient increase in plasma aldosterone, may increase the risk of fluid retention in patients with hepatic impairment [see Warnings and Precautions (5.6)].
+Metoclopramide, by producing a transient increase in plasma aldosterone, may increase the risk of fluid retention in patients with hepatic impairment [see Warnings and Precautions (5.6)].
 
 Monitor patients with hepatic impairment for the occurrence of fluid retention and volume overload.
 
@@ -84,4 +84,4 @@ Methylene blue may cause hemolytic anemia in patients with G6PD deficiency, whic
 
 Metoclopramide is a substrate of CYP2D6.
 The elimination of metoclopramide may be slowed in patients who are CYP2D6 poor metabolizers (compared to patients who are CYP2D6 intermediate, extensive, or ultra-rapid metabolizers); possibly increasing the risk of dystonic and other adverse reactions to Reglan [see Clinical Pharmacology (12.3)].
-Reduce the Reglan dosage in patients who are poor CYP2D6 metabolizers [see Dosage and Administration (2.2, 2.3)].
+Reduce the Reglan dosage in patients who are poor CYP2D6 metabolizers [see Dosage and Administration (2.1, 2.2)].

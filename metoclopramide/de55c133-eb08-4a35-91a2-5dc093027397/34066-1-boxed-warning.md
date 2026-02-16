@@ -1,8 +1,10 @@
 # WARNING: TARDIVE DYSKINESIA
 
-- •Reglan can cause tardive dyskinesia (TD), a serious movement disorder that is often irreversible.
-  There is no known treatment for TD.
-  The risk of developing TD increases with duration of treatment and total cumulative dosage [see Warnings and Precautions (5.1)].
-- •Discontinue Reglan in patients who develop signs or symptoms of TD.
-  In some patients, symptoms may lessen or resolve after Reglan is stopped [see Warnings and Precautions (5.1)].
-- •Avoid treatment with Reglan for longer than 12 weeks because of the increased risk of developing TD with longer-term use [see Warnings and Precautions (5.1) and Dosage and Administration (2.2, 2.3)].
+- •Metoclopramide, including Reglan, can cause tardive dyskinesia (TD), a potentially irreversible serious movement disorder.
+  In patients treated with metoclopramide, including Reglan, the risk of developing TD increases with duration of treatment and total cumulative dosage [see Warnings and Precautions (5.1)].
+- •Reglan is contraindicated in patients with a history of TD.
+- •Use Reglan for the shortest duration of treatment and periodically reassess the need for continued treatment.
+- •Immediately discontinue Reglan in patients who develop signs or symptoms of TD [see Warnings and Precautions (5.1)].
+- •In patients with symptomatic, documented gastroesophageal reflux, the maximum duration of Reglan treatment is 12 weeks [see Dosage and Administration (2.1) and Warnings and Precautions (5.1)].
+- •In patients with diabetic gastroparesis, avoid a total duration of treatment with metoclopramide products, including Reglan tablets, for longer than 12 weeks.
+  If longer term use is unavoidable, routinely monitor for signs and symptoms of TD [see Warnings and Precautions (5.1)].
