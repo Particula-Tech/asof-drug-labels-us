@@ -1,5 +1,15 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse drug reactions are described elsewhere in the labeling:
+
+- Upper Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.1)]
+- Mineral Metabolism [see Warnings and Precautions (5.2)]
+- Musculoskeletal Pain [see Warnings and Precautions (5.3)]
+- Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
+- Atypical Fractures Including Femoral Fractures [see Warnings and Precautions (5.5)]
+- Renal Impairment [see Warnings and Precautions (5.6)]
+- Patients sensitive to High Sodium Intake [see Warnings and Precautions (5.7)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
@@ -105,7 +115,7 @@ Table 3 Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Proba
 
 ## 6.2 Post-Marketing Experience
 
-The following adverse reactions have been identified during post-approval use of alendronate sodium.
+The following adverse reactions have been identified during post-approval use of alendronate sodium or bisphosphonate products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a Whole: hypersensitivity reactions including urticaria and angioedema.
@@ -118,7 +128,7 @@ Gastric or duodenal ulcers, some severe and with complications have also been re
 
 Dental: Localized osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection with delayed healing, has been reported [see Warnings and Precautions (5.4)].
 
-Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe and incapacitating [see Warnings and Precautions (5.3)]; joint swelling; low-energy femoral shaft and subtrochanteric fractures [see Warnings and Precautions (5.5].
+Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe and incapacitating [see Warnings and Precautions (5.3)]; joint swelling; low-energy femoral shaft and subtrochanteric fractures, and atypical fractures of other bones [see Warnings and Precautions (5.5].
 
 Nervous system: dizziness and vertigo.
 
