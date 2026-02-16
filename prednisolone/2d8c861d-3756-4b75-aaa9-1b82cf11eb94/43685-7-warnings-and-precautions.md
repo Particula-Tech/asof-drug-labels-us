@@ -20,7 +20,7 @@ Changes in thyroid status of the patient may necessitate adjustment in dosage.
 
 ## Immunosuppression and Increased Risk of Infection
 
-Corticosteroids, including prednisolone sodium phosphate, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens.
+Corticosteroids, including prednisolone sodium phosphate oral solution, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens.
 Corticosteroids can:
 
 - Reduce resistance to new infections
@@ -32,49 +32,49 @@ Corticosteroids can:
 Corticosteroid-associated infections can be mild but can be severe and at times fatal.
 The rate of infectious complications increases with increasing corticosteroid dosages.
 
-Monitor for the development of infection and consider prednisolone sodium phosphate withdrawal or dosage reduction as needed.
+Monitor for the development of infection and consider prednisolone sodium phosphate oral solution withdrawal or dosage reduction as needed.
 
 ## Tuberculosis
 
-If prednisolone sodium phosphate is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, reactivation of tuberculosis may occur.
+If prednisolone sodium phosphate oral solution is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, reactivation of tuberculosis may occur.
 Closely monitor such patients for reactivation.
-During prolonged prednisolone sodium phosphate therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
+During prolonged prednisolone sodium phosphate oral solution therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
 
 ## Varicella Zoster and Measles Viral Infections
 
-Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including prednisolone sodium phosphate.
+Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including prednisolone sodium phosphate oral solution.
 In corticosteroid-treated patients who have not had these diseases or are nonimmune, particular care should be taken to avoid exposure to varicella and measles:
 
-- If a prednisolone sodium phosphate-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin may be indicated.
+- If a prednisolone sodium phosphate oral solution-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin may be indicated.
   If varicella develops, treatment with antiviral agents may be considered.
-- If a prednisolone sodium phosphate-treated patient is exposed to measles, prophylaxis with immunoglobulin may be indicated.
+- If a prednisolone sodium phosphate oral solution-treated patient is exposed to measles, prophylaxis with immunoglobulin may be indicated.
 
 ## Hepatitis B Virus Reactivation
 
-Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including prednisolone sodium phosphate.
+Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including prednisolone sodium phosphate oral solution.
 Reactivation can also occur infrequently in corticosteroid-treated patients who appear to have resolved hepatitis B infection.
 
-Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with prednisolone sodium phosphate.
+Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with prednisolone sodium phosphate oral solution.
 For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy.
 
 ## Fungal Infections
 
-Corticosteroids, including prednisolone sodium phosphate, may exacerbate systemic fungal infections; therefore, avoid prednisolone sodium phosphate use in the presence of such infections unless prednisolone sodium phosphate is needed to control drug reactions.
-For patients on chronic prednisolone sodium phosphate therapy who develop systemic fungal infections, prednisolone sodium phosphate withdrawal or dosage reduction is recommended.
+Corticosteroids, including prednisolone sodium phosphate oral solution, may exacerbate systemic fungal infections; therefore, avoid prednisolone sodium phosphate oral solution use in the presence of such infections unless prednisolone sodium phosphate oral solution is needed to control drug reactions.
+For patients on chronic prednisolone sodium phosphate oral solution therapy who develop systemic fungal infections, prednisolone sodium phosphate oral solution withdrawal or dosage reduction is recommended.
 
 ## Amebiasis
 
-Corticosteroids, including prednisolone sodium phosphate, may activate latent amebiasis.
-Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating prednisolone sodium phosphate in patients who have spent time in the tropics or patients with unexplained diarrhea.
+Corticosteroids, including prednisolone sodium phosphate oral solution, may activate latent amebiasis.
+Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating prednisolone sodium phosphate oral solution in patients who have spent time in the tropics or patients with unexplained diarrhea.
 
 ## Strongyloides Infestation
 
-Corticosteroids, including prednisolone sodium phosphate, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
+Corticosteroids, including prednisolone sodium phosphate oral solution, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
 In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gramnegative septicemia.
 
 ## Cerebral Malaria
 
-Avoid corticosteroids, including prednisolone sodium phosphate, in patients with cerebral malaria.
+Avoid corticosteroids, including prednisolone sodium phosphate oral solution, in patients with cerebral malaria.
 
 ## Ophthalmic
 
@@ -185,9 +185,7 @@ Corticosteroids may suppress reactions to skin tests.
 
 ## Pregnancy
 
-TeratogenicEffects
-
-Pregnancy Category C
+Teratogenic Effects
 
 Prednisolone has been shown to be teratogenic in many species when given in doses equivalent to the human dose.
 Animal studies in which prednisolone has been given to pregnant mice, rats, and rabbits have yielded an increased incidence of cleft palate in the offspring.

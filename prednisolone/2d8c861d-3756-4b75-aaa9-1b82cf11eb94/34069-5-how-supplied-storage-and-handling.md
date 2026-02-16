@@ -14,15 +14,10 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (5
 May be refrigerated.
 Keep tightly closed and out of the reach of children.
 
-Manufactured for:
-
-Chartwell RX, LLC.
-
+Manufactured for: Chartwell RX, LLC.
 Congers, NY 10920
-
-Made in USA
 
 L70328
 
 Rev.
-10/2024
+02/2026
