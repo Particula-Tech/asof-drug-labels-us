@@ -37,7 +37,7 @@ Advise patients to contact their healthcare provider for signs or symptoms of pa
 
 Embryo-Fetal Toxicity
 
-Advise females of reproductive potential of the potential risk to a fetus, to use effective contraception during treatment with RYBREVANT FASPRO and for 3 months after the last dose, and to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.6)and Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential of the potential risk to a fetus, to use effective contraception during treatment with RYBREVANT FASPRO and for 3 months after the last dose, and to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.6) and Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 

@@ -8,6 +8,8 @@ RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) injection for subcutane
 | --- | --- |
 | 1,600 mg amivantamab and 20,000 units hyaluronidase per 10 mL (160 mg and 2,000 units per mL) | NDC 57894-510-01 |
 | 2,240 mg amivantamab and 28,000 units hyaluronidase per 14 mL (160 mg and 2,000 units per mL) | NDC 57894-514-01 |
+| 2,400 mg amivantamab and 30,000 units hyaluronidase per 15 mL (160 mg and 2,000 units per mL) | NDC 57894-515-01 |
+| 3,520 mg amivantamab and 44,000 units hyaluronidase per 22 mL (160 mg and 2,000 units per mL) | NDC 57894-522-01 |
 
 Storage and Handling
 

@@ -12,6 +12,7 @@ In PALOMA-3 [see Adverse Reactions (6.1)], in the 206 patients who received RYBR
 Of the patients who experienced ARR, 89% occurred with the initial dose (Week 1, Day 1).
 
 Premedicate with antihistamines, antipyretics, and glucocorticoids and administer RYBREVANT FASPRO as recommended [see Dosage and Administration (2.4)].
+
 Monitor patients for any signs and symptoms of administration-related reactions during injection in a setting where cardiopulmonary resuscitation medication and equipment are available.
 Interrupt RYBREVANT FASPRO injection, if ARR is suspected.
 Resume treatment upon resolution of symptoms or permanently discontinue RYBREVANT FASPRO based on severity [see Dosage and Administration (2.8)].
@@ -130,7 +131,7 @@ All events were Grade 1 or 2.
 Intravenous Amivantamab as a Single Agent
 
 In CHRYSALIS [see Adverse Reactions (6.1)], in 302 patients treated with intravenous amivantamab, keratitis occurred in 0.7% and uveitis occurred in 0.3%.
-All events were Grade 1–2.
+All events were Grade 1– 2.
 
 Promptly refer patients presenting with new or worsening eye symptoms to an ophthalmologist.
 Withhold, dose reduce or permanently discontinue RYBREVANT FASPRO based on severity [see Dosage and Administration (2.8)].
