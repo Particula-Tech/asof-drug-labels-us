@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA220200"
+  ],
+  "inn": "etoposide",
+  "labeler": "Avyxa Pharma, LLC",
+  "package_ndcs": [
+    "83831-144-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "etoposide",
+      "name": "Avopef"
+    }
+  ],
+  "setid": "acc1e443-ef7b-486f-a638-710a20e81059",
+  "source": "dailymed"
+}
