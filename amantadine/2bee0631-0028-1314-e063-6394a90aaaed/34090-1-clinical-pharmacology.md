@@ -72,7 +72,7 @@ Amantadine is inefficiently removed by hemodialysis.
 
 Drug Interaction Studies
 
-The in-vitro dissolution-release profiles showed 52% drug release after 45 minutes, and up to 95% after 2 hours, at concentrations of 40% alcohol/0.1N HCl.
+The in vitro dissolution-release profiles showed 52% drug release after 45 minutes, and up to 95% after 2 hours, at concentrations of 40% alcohol/0.1N HCl.
 
 In vitro studies indicate that amantadine has negligible or no inhibitory activity against cellular transporters (P-gp, BCRP, MATE2-K, OAT1, OAT3, OATP1B1, and OATP1B3) at plasma concentrations observed in patients with Parkinson's disease on a GOCOVRI 274 mg dose.
 

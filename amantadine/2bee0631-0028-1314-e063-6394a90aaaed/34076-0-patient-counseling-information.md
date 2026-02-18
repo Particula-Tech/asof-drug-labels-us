@@ -49,4 +49,6 @@ Inform patients that live influenza vaccines and consumption of alcohol are not 
 
 Manufactured for:
 
-Adamas Pharma, LLC Emeryville, CA 94608
+Supernus Pharmaceuticals, Inc. Rockville, MD 20850
+
+RA-GOC-V2

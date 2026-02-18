@@ -49,6 +49,6 @@ Table 3: PD Home Diary Results at Week 12 for Study 1 and Study 2
 | ON Time w/o Troublesome Dyskinesia, LS Mean (SE) | Change from Baseline | 0.8 (0.43) | 3.6 (0.43) | 2.1 (0.53) | 4.0 (0.56) |
 | Treatment Difference | 2.7 (0.61) |  | 1.9 (0.78) |  |  |
 | P-value | <0.0001 |  | 0.0168 |  |  |
-| OFF Time, LS Mean (SE) | Change from Baseline | 0.3 (0.26) | - 0.6 (0.27) | 0.6 (0.31) | -0.5 (0.34) |
-| Treatment Difference | - 0.9 (0.37) |  | -1.1 (0.46) |  |  |
+| OFF Time, LS Mean (SE) | Change from Baseline | 0.3 (0.26) | -0.6 (0.27) | 0.6 (0.31) | -0.5 (0.34) |
+| Treatment Difference | -0.9 (0.37) |  | -1.1 (0.46) |  |  |
 | P-value | 0.0171 |  | 0.0199 |  |  |

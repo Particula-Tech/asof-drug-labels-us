@@ -29,7 +29,7 @@ The most common adverse reactions reported in >10% of GOCOVRI-treated patients a
 The overall rate of discontinuation because of adverse reactions for GOCOVRI-treated patients was 20%, compared to 8% for placebo-treated patients.
 Adverse reactions that led to treatment discontinuation in at least 2% of patients were hallucinations (8% GOCOVRI vs. 0% placebo), dry mouth (3% GOCOVRI vs. 0% placebo), peripheral edema (3% GOCOVRI vs. 0% placebo), blurred vision (GOCOVRI 3% vs. 0% placebo), postural dizziness and syncope (GOCOVRI 2% vs. 0% placebo), abnormal dreams (GOCOVRI 2% vs. 1% placebo), dysphagia (GOCOVRI 2% vs. 0% placebo), and gait disturbance (GOCOVRI 2% vs. 0% placebo).
 
-Table 1: Adverse Reactions Reported for ≥ 3% of Patients Treated with 274 mg GOCOVRI in Study 1 and Study 2 (Pooled Analysis)
+Table 1: Adverse Reactions Reported for ≥3% of Patients Treated with 274 mg GOCOVRI in Study 1 and Study 2 (Pooled Analysis)
 
 | Adverse Reactions | GOCOVRI 274 mg N=100 % | Placebo N=98 % |
 | --- | --- | --- |
@@ -96,6 +96,6 @@ Orthostatic hypotension was reported in 8% of patients age 65 and over, compared
 The following adverse reactions have been identified during postapproval use of GOCOVRI.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Nervous System Disorders: Seizure.
+Nervous System Disorders: Seizure
 
 Vision: Corneal edema
