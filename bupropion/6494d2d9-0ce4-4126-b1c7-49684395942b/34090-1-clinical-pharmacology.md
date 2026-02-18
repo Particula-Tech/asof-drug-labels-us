@@ -69,7 +69,7 @@ An inter-trial comparison between normal subjects and subjects with end-stage re
 A second study, comparing normal subjects and subjects with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that after a single 150 mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function, while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and subsequently excreted by the kidneys.
 The elimination of the major metabolites of bupropion may be reduced by impaired renal function.
-APLENZIN should be used with caution in patients with renal impairment, and a reduced frequency and/or dose should be considered [see Dosage and Administration (2.7)and Use in Specific Populations (8.6)].
+APLENZIN should be used with caution in patients with renal impairment, and a reduced frequency and/or dose should be considered [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment
 
@@ -85,7 +85,7 @@ For the metabolite hydroxybupropion, the mean Cmax was approximately 69% lower.
 For the combined amino-alcohol isomers threohydrobupropion and erythrohydrobupropion, the mean Cmax was approximately 31% lower.
 The mean AUC increased by about 1½-fold for hydroxybupropion and about 2½-fold for threo/erythrohydrobupropion.
 The median Tmax was observed 19 hours later for hydroxybupropion and 31 hours later for threo/erythrohydrobupropion.
-The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5- and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers [see Dosage and Administration (2.6)and Use in Specific Populations (8.7)].
+The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5- and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers [see Dosage and Administration (2.6) and Use in Specific Populations (8.7)].
 
 Left Ventricular Dysfunction
 
