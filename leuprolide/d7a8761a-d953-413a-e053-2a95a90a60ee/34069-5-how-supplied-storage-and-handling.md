@@ -11,4 +11,6 @@ Store CAMCEVI at 2°C–8°C (36°F–46°F).
 Protect CAMCEVI from light by storing in the original package until time of use.
 Do not freeze or shake.
 
+Excursions permitted to room temperature 25°C (77°F) for up to 6 days.
+
 The rubber used in syringe tip cap and plunger stopper is not made of natural rubber latex.
