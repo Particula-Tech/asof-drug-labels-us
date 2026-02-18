@@ -6,10 +6,10 @@
    Baltimore, MD: The Johns Hopkins University Press: 2000: 149-195.
    The TERIS (Teratogen Information System) is available at: http://www.micromedexsolutions.com/ (cited: 2016 Jan).
 2. Cziezel AE and Rockenbauer M. Teratogenic study of doxycycline.
-   Obstet Gynecol 1997; 89: 524-528.
+   Obstet Gynecol1997; 89: 524-528.
 3. Horne HW Jr. and Kundsin RB.
    The role of mycoplasma among 81 consecutive pregnancies: a prospective study.
-   Int J Fertil 1980; 25: 315-317.
+   Int J Fertil1980; 25: 315-317.
 4. Drugs and Lactation Database (LactMed) [Internet].
    Bethesda (MD): National Library of Medicine (US); [Last Revision Date 2015 March 10; cited 2016 Jan].
    Doxycycline; LactMed Record Number: 100; [about 3 screens].

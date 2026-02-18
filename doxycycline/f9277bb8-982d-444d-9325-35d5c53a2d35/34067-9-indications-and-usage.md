@@ -23,9 +23,9 @@ DORYX MPC is indicated for treatment of the following respiratory tract infectio
 - Psittacosis (ornithosis) caused by Chlamydophila psittaci.
 - Because many strains of the following groups of microorganisms have been shown to be resistant to doxycycline, culture and susceptibility testing are recommended.
 - Doxycycline is indicated for treatment of infections caused by the following microorganisms, when bacteriological testing indicates appropriate susceptibility to the drug:
-  - – Respiratory tract infections caused by Haemophilus influenzae.
-  - – Respiratory tract infections caused by Klebsiella species.
-  - – Upper respiratory infections caused by Streptococcus pneumoniae.
+  - Respiratory tract infections caused by Haemophilus influenzae.
+  - Respiratory tract infections caused by Klebsiellaspecies.
+  - Upper respiratory infections caused by Streptococcus pneumoniae.
 
 ## 1.4 Specific Bacterial Infections
 
@@ -36,7 +36,7 @@ DORYX MPC is indicated for treatment of the following specific bacterial infecti
 - Tularemia due to Francisella tularensis.
 - Cholera caused by Vibrio cholerae.
 - Campylobacter fetus infections caused by Campylobacter fetus.
-- Brucellosis due to Brucella species (in conjunction with streptomycin).
+- Brucellosis due to Brucellaspecies (in conjunction with streptomycin).
 - Bartonellosis due to Bartonella bacilliformis.
 
 Because many strains of the following groups of microorganisms have been shown to be resistant to doxycycline, culture and susceptibility testing are recommended.
@@ -65,11 +65,11 @@ DORYX MPC is indicated for treatment of Anthrax due to Bacillus anthracis, inclu
 DORYX MPC is indicated as an alternative treatment for the following selected infections when penicillin is contraindicated:
 
 - Syphilis caused by Treponema pallidum.
-- Yaws caused by Treponema pallidum subspecies pertenue.
+- Yaws caused by Treponema pallidumsubspecies pertenue.
 - Listeriosis due to Listeria monocytogenes.
 - Vincent's infection caused by Fusobacterium fusiforme.
 - Actinomycosis caused by Actinomyces israelii.
-- Infections caused by Clostridium species.
+- Infections caused by Clostridiumspecies.
 
 ## 1.8 Adjunctive Therapy for Acute Intestinal Amebiasis and Severe Acne
 
@@ -79,7 +79,7 @@ In severe acne, DORYX MPC may be useful adjunctive therapy.
 
 ## 1.9 Prophylaxis of Malaria
 
-DORYX MPC is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (less than 4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains [see Dosage and Administration (2.2) and Patient Counseling Information (17)].
+DORYX MPC is indicated for the prophylaxis of malaria due to Plasmodium falciparumin short-term travelers (less than 4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains [see Dosage and Administration (2.2)and Patient Counseling Information (17)].
 
 ## 1.10 Usage
 

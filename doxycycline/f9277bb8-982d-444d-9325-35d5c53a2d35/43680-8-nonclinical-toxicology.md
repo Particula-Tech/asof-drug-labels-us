@@ -4,16 +4,16 @@
 
 Long-term studies in animals to evaluate carcinogenic potential of doxycycline have not been conducted.
 However, there has been evidence of oncogenic activity in rats in studies with the related antibiotics, oxytetracycline (adrenal and pituitary tumors) and minocycline (thyroid tumors).
-Likewise, although mutagenicity studies of doxycycline have not been conducted, positive results in in vitro mammalian cell assays have been reported for related antibacterials (tetracycline, oxytetracycline).
+Likewise, although mutagenicity studies of doxycycline have not been conducted, positive results in in vitromammalian cell assays have been reported for related antibacterials (tetracycline, oxytetracycline).
 
 Doxycycline administered orally at dosage levels as high as 250 mg/kg/day had no apparent effect on the fertility of female rats.
 Effect on male fertility has not been studied.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Hyperpigmentation of the thyroid has been produced by members of the tetracycline-class in the following species: in rats by oxytetracycline, doxycycline, tetracycline PO4, and methacycline; in minipigs by doxycycline, minocycline, tetracycline PO4, and methacycline; in dogs by doxycycline and minocycline; in monkeys by minocycline.
+Hyperpigmentation of the thyroid has been produced by members of the tetracycline-class in the following species: in rats by oxytetracycline, doxycycline, tetracycline PO 4, and methacycline; in minipigs by doxycycline, minocycline, tetracycline PO 4, and methacycline; in dogs by doxycycline and minocycline; in monkeys by minocycline.
 
-Minocycline, tetracycline PO4, methacycline, doxycycline, tetracycline base, oxytetracycline HCl, and tetracycline HCl, were goitrogenic in rats fed a low iodine diet.
+Minocycline, tetracycline PO 4, methacycline, doxycycline, tetracycline base, oxytetracycline HCl, and tetracycline HCl, were goitrogenic in rats fed a low iodine diet.
 This goitrogenic effect was accompanied by high radioactive iodine uptake.
 Administration of minocycline also produced a large goiter with high radioiodine uptake in rats fed a relatively high iodine diet.
 

@@ -5,10 +5,10 @@ Advise patients taking DORYX MPC for malaria prophylaxis:
 - that no present-day antimalarial agent, including doxycycline, guarantees protection against malaria.
 - to avoid being bitten by mosquitoes by using personal protective measures that help avoid contact with mosquitoes, especially from dusk to dawn (for example, staying in well-screened areas, using mosquito nets, covering the body with clothing, and using an effective insect repellent).
 - that doxycycline prophylaxis:
-  - –should begin 1 to 2 days before travel to the malarious area,
-  - –should be continued daily while in the malarious area and after leaving the malarious area,
-  - –should be continued for 4 further weeks to avoid development of malaria after returning from an endemic area,
-  - –should not exceed 4 months.
+  - should begin 1 to 2 days before travel to the malarious area,
+  - should be continued daily while in the malarious area and after leaving the malarious area,
+  - should be continued for 4 further weeks to avoid development of malaria after returning from an endemic area,
+  - should not exceed 4 months.
 
 Advise all patients taking DORYX MPC:
 

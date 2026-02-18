@@ -5,8 +5,7 @@
 - DORYX MPC is not substitutable on a mg per mg basis with other oral doxycyclines.
   To avoid prescribing errors, do not substitute DORYX MPC for other oral doxycyclines on a mg per mg basis because of differing bioavailability.
 - Do not chew or crush tablets.
-- The recommended dosage, frequency of administration and weight-based dosage recommendations of DORYX MPC differ from that of the other tetracyclines [see Dosage and Administration (2.2, 2.3, 2.4)].
-  Exceeding the recommended dosage may result in an increased incidence of adverse reactions.
+- The recommended dosage, frequency of administration and weight-based dosage recommendations of DORYX MPC differ from that of the other tetracyclines [see Dosage and Administration (2.2, 2.3, 2.4)].Exceeding the recommended dosage may result in an increased incidence of adverse reactions.
 - Administer DORYX MPC with an adequate amount of fluid to wash down the drug and reduce the risk of esophageal irritation and ulceration [see Adverse Reactions (6)].
 - If gastric irritation occurs, DORYX MPC may be given with food or milk [see Clinical Pharmacology (12.3)].
 
@@ -27,7 +26,7 @@ When switching from DORYX to DORYX MPC:
   2. Uncomplicated urethral, endocervical, or rectal infection caused by C. trachomatis: 120 mg, by mouth, twice-a-day for 7 days.
   3. Uncomplicated gonococcal infections in adults (except anorectal infections in men): 120 mg, by mouth, twice-a-day for 7 days.
      As an alternate single visit dose, administer 360 mg followed in one hour by a second 360 mg dose.
-  4. Nongonococcal urethritis (NGU) caused by C. trachomatis and U. urealyticum: 120 mg, by mouth, twice-a-day for 7 days.
+  4. Nongonococcal urethritis (NGU) caused by C. trachomatisand U. urealyticum: 120 mg, by mouth, twice-a-day for 7 days.
   5. Syphilis – early: Patients who are allergic to penicillin should be treated with doxycycline 120 mg, by mouth, twice-a-day for 2 weeks.
   6. Syphilis of more than one year's duration: Patients who are allergic to penicillin should be treated with doxycycline 120 mg, by mouth, twice-a-day for 4 weeks.
   7. Acute epididymo-orchitis caused by N. gonorrhoeae: 120 mg, by mouth, twice-a-day for at least 10 days.

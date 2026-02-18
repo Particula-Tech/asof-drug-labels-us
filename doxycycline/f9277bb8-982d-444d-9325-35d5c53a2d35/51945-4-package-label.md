@@ -2,7 +2,7 @@
 
 NDC 51862-560-12
 
-Doryx® MPC (Doxycycline Hyclate Delayed-Release Tablets)
+Doryx ®MPC (Doxycycline Hyclate Delayed-Release Tablets)
 
 60 mg
 
@@ -16,7 +16,7 @@ mayne pharma
 
 NDC 51862-559-30
 
-Doryx® MPC (Doxycycline Hyclate Delayed-Release Tablets)
+Doryx ®MPC (Doxycycline Hyclate Delayed-Release Tablets)
 
 120 mg
 

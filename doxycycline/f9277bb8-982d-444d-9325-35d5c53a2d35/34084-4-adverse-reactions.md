@@ -6,24 +6,24 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Due to oral doxycycline's virtually complete absorption, side effects to the lower bowel, particularly diarrhea, have been infrequent.
 The following adverse reactions have been observed in patients receiving tetracyclines:
 
-Gastrointestinal: Anorexia, nausea, vomiting, diarrhea, glossitis, dysphagia, enterocolitis, inflammatory lesions (with monilial overgrowth) in the anogenital region, and pancreatitis.
+Gastrointestinal:Anorexia, nausea, vomiting, diarrhea, glossitis, dysphagia, enterocolitis, inflammatory lesions (with monilial overgrowth) in the anogenital region, and pancreatitis.
 Hepatotoxicity has been reported.
 These reactions have been caused by both the oral and parenteral administration of tetracyclines.
 Esophagitis and esophageal ulcerations have been reported in patients receiving capsule and tablet forms of drugs in the tetracycline-class.
 Most of these patients took medications immediately before going to bed [see Dosage and Administration (2.1)].
 
-Skin: Maculopapular and erythematous rashes, Stevens-Johnson syndrome, toxic epidermal necrolysis, exfoliative dermatitis, erythema multiforme, and fixed drug eruption have been reported.
+Skin:Maculopapular and erythematous rashes, Stevens-Johnson syndrome, toxic epidermal necrolysis, exfoliative dermatitis, erythema multiforme, and fixed drug eruption have been reported.
 Photosensitivity is discussed above [see Warnings and Precautions (5.3)].
 
-Renal: Rise in BUN has been reported and is apparently dose-related [see Warnings and Precautions (5.8)].
+Renal:Rise in BUN has been reported and is apparently dose-related [see Warnings and Precautions (5.8)].
 
-Hypersensitivity reactions: Urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, and exacerbation of systemic lupus erythematosus.
+Hypersensitivity reactions:Urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, and exacerbation of systemic lupus erythematosus.
 
-Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia have been reported.
+Blood:Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia have been reported.
 
-Intracranial Hypertension: Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracycline [See Warnings and Precautions (5.6)]
+Intracranial Hypertension:Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracycline [See Warnings and Precautions (5.6)]
 
-Thyroid Gland Changes: When given over prolonged periods, tetracyclines have been reported to produce brown-black microscopic discoloration of thyroid glands.
+Thyroid Gland Changes:When given over prolonged periods, tetracyclines have been reported to produce brown-black microscopic discoloration of thyroid glands.
 No abnormalities of thyroid function are known to occur.
 
-Psychiatric: Depression, anxiety, suicidal ideation, insomnia, abnormal dreams, hallucination
+Psychiatric:Depression, anxiety, suicidal ideation, insomnia, abnormal dreams, hallucination
