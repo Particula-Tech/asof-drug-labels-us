@@ -2,7 +2,7 @@
 
 NDC 51862-295-10
 
-Fabior® (tazarotene) Foam, 0.1%
+Fabior ® (tazarotene) Foam, 0.1%
 
 100 grams
 

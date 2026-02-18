@@ -1,4 +1,4 @@
-# Patient Information FABIOR® (fab' ee ore) (tazarotene) Foam
+# Patient Information FABIOR ®(fab' ee ore) (tazarotene) Foam
 
 IMPORTANT: For skin use only.
 Do not get FABIOR Foam in your eyes, mouth, or vagina.
@@ -37,14 +37,14 @@ Before you use FABIOR Foam, tell your doctor if you:
 - have any condition that makes you sensitive to light.
 - have any other medical conditions.
 - are pregnant or plan to become pregnant.
-  See "Who should not use FABIOR Foam?"
+  See " Who should not use FABIOR Foam?"
 - are breastfeeding or plan to breastfeed.
   It is not known if tazarotene passes into your breast milk.
   You and your doctor should decide if you will use FABIOR Foam or breastfeed.
   You should not do both.
   Talk to your doctor about the best way to feed your baby if you use FABIOR Foam.
 
-Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you takeincluding prescription and nonprescription medicines, vitamins, and herbal supplements.
 
 Especially tell your doctor if you:
 
@@ -61,7 +61,7 @@ How should I use FABIOR Foam?
 - Use FABIOR Foam exactly as your doctor tells you to.
   Do not use more FABIOR Foam than prescribed and do not use it more often than your doctor tells you to.
 - If you are a female and have menstrual periods, begin using FABIOR Foam during a normal menstrual period to help assure that you are not pregnant when you begin use.
-  See "Who should not use FABIOR Foam?"
+  See " Who should not use FABIOR Foam?"
 - FABIOR Foam is flammable.
   Avoid fire, flame, and smoking during and right after you apply FABIOR Foam.
 - Gently clean the affected area (face and/or upper trunk) with a mild cleanser and dry completely before using FABIOR Foam.
@@ -130,7 +130,7 @@ What are the possible side effects of FABIOR Foam?
 FABIOR Foam may harm your unborn baby, if used during pregnancy.
 
 - Do not use FABIOR Foam during pregnancy.
-  See "Who should not use FABIOR Foam?"
+  See " Who should not use FABIOR Foam?"
 
 The most common side effects of FABIOR Foam are:
 

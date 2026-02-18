@@ -23,9 +23,9 @@ Tazarotene and tazarotenic acid were metabolized to sulfoxides, sulfones, and ot
 
 Systemic exposure following topical application of FABIOR Foam 0.1% was evaluated in one trial.
 Patients aged 15 years and older with moderate-to-severe acne applied approximately 3.7 grams of FABIOR Foam 0.1% (N = 13) to approximately 15% body surface area (face, upper chest, upper back, and shoulders) once daily for 22 days.
-On Day 22, the mean (±SD) tazarotenic acid Cmax was 0.43 (±0.19) ng/mL, the AUC0-24h was 6.98 (±3.56) ng∙h/mL, and the half-life was 21.7 (±15.7) hours.
-The median Tmax was 6 hours (range: 4.4 to 12 hours).
-The AUC0-24h for tazarotenic acid was approximately 50-fold higher compared with the parent compound tazarotene.
+On Day 22, the mean (±SD) tazarotenic acid C maxwas 0.43 (±0.19) ng/mL, the AUC 0- 24hwas 6.98 (±3.56) ng∙h/mL, and the half-life was 21.7 (±15.7) hours.
+The median T maxwas 6 hours (range: 4.4 to 12 hours).
+The AUC 0-24hfor tazarotenic acid was approximately 50-fold higher compared with the parent compound tazarotene.
 The mean (±SD) half-life of tazarotene was 8.1 (±3.7) hours.
 
 Accumulation was observed upon repeated once-daily dosing as the tazarotenic acid predose concentrations were measurable in the majority of subjects.
