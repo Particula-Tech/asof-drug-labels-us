@@ -41,11 +41,9 @@ Remind patients to give all of their healthcare providers an accurate medication
 Instruct patients to tell all of their healthcare providers that they are taking Risedronate Sodium.
 Patients should be instructed that any time they have a medical problem they think may be from Risedronate Sodium, they should talk to their doctor.
 
-Distributed by: Greenstone LLC Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-© 2023 AbbVie.
+© 2026 AbbVie.
 All rights reserved.
 
-V2.0USPI0405
-
-20078925
+133894

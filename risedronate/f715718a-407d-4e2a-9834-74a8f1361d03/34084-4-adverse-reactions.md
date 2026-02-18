@@ -1,5 +1,17 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse drug reactions are described elsewhere in the labeling:
+
+- Drug Products with the Same Active Ingredient [see Warnings and Precautions (5.1)]
+- Upper Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.2)]
+- Mineral Metabolism [see Warnings and Precautions (5.3)]
+- Jaw Osteonecrosis [see Warnings and Precautions (5.4)]
+- Musculoskeletal Pain [see Warnings and Precautions (5.5)]
+- Atypical Fractures Including Femoral Fractures [see Warnings and Precautions (5.6)]
+- Renal Impairment [see Warnings and Precautions (5.7)]
+- Glucocorticoid-Induced Osteoporosis [see Warnings and Precautions (5.8)]
+- Laboratory Test Interactions [see Warnings and Precautions (5.9)]
+
 ## 6.1 Clinical Studies Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -230,13 +242,14 @@ All patients were effectively treated with topical steroids.
 
 ## 6.2 Postmarketing Experience
 
+The following adverse reactions have been identified during post-approval use of Risedronate Sodium or bisphosphonate products.
 Because these adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hypersensitivity Reactions Hypersensitivity and skin reactions have been reported, including angioedema, generalized rash, bullous skin reactions, Stevens-Johnson syndrome and toxic epidermal necrolysis.
 
 Gastrointestinal Adverse Events Events involving upper gastrointestinal irritation, such as esophagitis and esophageal or gastric ulcers, have been reported [see Warnings and Precautions (5.1)].
 
-Musculoskeletal Pain Bone, joint, or muscle pain, described as severe or incapacitating, have been reported rarely [see Warnings and Precautions (5.4)].
+Musculoskeletal Bone, joint, or muscle pain, described as severe or incapacitating, have been reported rarely [see Warnings and Precautions (5.4)]; low-energy femoral shaft and subtrochanteric fractures, and atypical fractures of other bones, [see Warnings and Precautions (5.6)].
 
 Eye Inflammation Reactions of eye inflammation including iritis and uveitis have been reported rarely.
 

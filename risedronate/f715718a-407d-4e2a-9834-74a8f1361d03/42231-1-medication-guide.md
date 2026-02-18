@@ -13,7 +13,7 @@ Risedronate Sodium can cause serious side effects including:
 2. Low calcium levels in your blood (hypocalcemia)
 3. Severe jaw bone problems (osteonecrosis)
 4. Bone, joint, or muscle pain
-5. Unusual thigh bone fractures
+5. Unusual breaks in thigh and other bones
 
 1.
 Esophagus problems.
@@ -50,9 +50,10 @@ Bone, joint, or muscle pain.
 Some people who take Risedronate Sodium develop severe bone, joint, or muscle pain.
 
 5.
-Unusual thigh bone fractures.
-Some people have developed unusual fractures in their thigh bone.
-Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
+Unusual breaks in thigh and other bones.
+Some people have had unusual bone breaks, including the thigh bone, when taking Risedronate Sodium.
+A break in the thigh bone can feel like a new pain in your hip, groin, or thigh.
+People taking Risedronate Sodium can also have breaks in other bones.
 
 Call your doctor right away if you have any of these side effects.
 
@@ -177,7 +178,7 @@ This Medication Guide summarizes the most important information about Risedronat
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Risedronate Sodium that is written for health professionals.
 
-For more information call 1-800-678-1605.
+For more information call 1-877-446-3679.
 
 What are the ingredients in Risedronate Sodium?
 
@@ -189,11 +190,11 @@ Inactive ingredients specific to a dose strength: 5 mg—ferric oxide yellow, la
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Greenstone LLC Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-© 2023 AbbVie.
+© 2026 AbbVie.
 All rights reserved.
 
-Content Updated: March 2020
+Content Updated: February 2026
 
-20078925
+133894
