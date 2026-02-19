@@ -76,3 +76,5 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune System Disorders: Hypersensitivity reactions including anaphylaxis and hypotension, and infusion/injection-related reactions [see Warnings and Precautions (5.2, 5.3)].
+
+Neurological: There have been reports of worsening of symptoms and signs of CIDP when transitioning from intravenous immunoglobulin treatments to VYVGART HYTRULO [see Drug Interactions (7.1)].

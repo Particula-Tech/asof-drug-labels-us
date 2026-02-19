@@ -17,6 +17,11 @@ Infusion/injection-Related Reactions
 
 Advise patients of the potential risk of infusion/injection-related reactions, which can include hypertension, chills, shivering, and chest, abdominal, and back pain [see Warnings and Precautions (5.3)].
 
+Neurological Symptoms
+
+Instruct patients to communicate any worsening of neurological symptoms to their prescriber.
+Symptom progression may indicate a lack of efficacy in these patients.
+
 Instruction on Injection Technique
 
 If a patient or caregiver is to administer subcutaneous VYVGART HYTRULO prefilled syringe, instruct them in proper injection technique (e.g., site selection and duration of injection) [see Instructions for Use].

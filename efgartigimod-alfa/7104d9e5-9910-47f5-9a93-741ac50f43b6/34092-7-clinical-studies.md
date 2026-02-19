@@ -66,7 +66,7 @@ Figure 2: Percentage of Patients with MG-ADL and QMG Total Score Change 4 Weeks 
 ## 14.2 Chronic Inflammatory Demyelinating Polyneuropathy
 
 The efficacy of VYVGART HYTRULO for the treatment of adults with chronic inflammatory demyelinating polyneuropathy (CIDP) was established in a two stage, multicenter study (Study 3; NCT04281472).
-Study 3 included an open-label period to identify VYVGART HYTRULO responders (stage A) who then entered a randomized, double-blind, placebo-controlled, withdrawal period (stage B).
+Study 3 included a run-in period of up to 12 weeks after withdrawal of existing treatment for CIDP in order to identify patients with active disease, followed by an open-label period to identify VYVGART HYTRULO responders (stage A) who then entered a randomized, double-blind, placebo-controlled, withdrawal period (stage B).
 
 Study 3 enrolled male and female patients age 18 years and older, who at the time of screening, had a documented diagnosis of definite or probable CIDP using the European Federation of Neurological Societies/Peripheral Nerve Society (EFNS/PNS; 2010) criteria for progressing or relapsing forms.
 
@@ -79,7 +79,7 @@ Stage A
 In stage A, a total of 322 patients received up to 12 once weekly subcutaneous injections of VYVGART HYTRULO 1008 mg / 11,200 units until evidence of improvement occurred at two consecutive study visits.
 Improvement was defined as aINCAT improvement ≥1 point, I-RODS improvement ≥4 points, or mean grip strength improvement ≥ 8 kPa.
 Stage A included 228 patients currently receiving standard-of-care therapy and 94 patients who had either not received prior treatment for CIDP or were not treated with standard-of-care therapy for at least 6 months before study entry.
-Sixty-nine percent of patients (n=221) who had documented improvement at two consecutive visits during Stage A then entered Stage B.
+Sixty-nine percent of patients (n=221) who had documented improvement at two consecutive visits during Stage A then entered Stage B. A total of 36 patients (11%) who demonstrated lack of efficacy and 19 patients (6%) that had CIDP worsening as determined by reasonable clinical judgement of investigator, during Stage A did not enter Stage B.
 
 Stage B
 

@@ -51,6 +51,9 @@ General Dosage Considerations
 If a scheduled injection is missed, VYVGART HYTRULO may be administered up to 3 days after the scheduled time point.
 Thereafter, resume the original dosing schedule.
 
+Not all patients respond to VYVGART HYTRULO.
+Consider the appropriateness of continuing treatment in patients who experience worsening of neurological symptoms after starting VYVGART HYTRULO [see Adverse Reactions (6.2) and Clinical Studies (14.2)].
+
 ## 2.5 Preparation and Administration Instructions
 
 Single-Dose Prefilled Syringe
