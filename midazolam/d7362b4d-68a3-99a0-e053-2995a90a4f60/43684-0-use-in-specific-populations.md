@@ -37,9 +37,9 @@ Animal Data
 When midazolam (0, 0.2, 1, or 4 mg/kg/day) was administered intravenously to pregnant rats during the period of organogenesis, no adverse effects on embryofetal development were observed.
 The highest dose tested, which was associated with minimal evidence of maternal toxicity, is approximately 4 times the recommended human dose (RHD) of 10 mg based on body surface area (mg/m 2).
 When midazolam (0, 0.2, 0.6, and 2 mg/kg/day) was administered intravenously to rabbits during the period of organogenesis, no adverse effects on embryofetal development were reported.
-The high dose, which was not associated with evidence of maternal toxicity, is approximately 4 times the RHD on a mg/m 2 basis.
+The high dose, which was not associated with evidence of maternal toxicity, is approximately 4 times the RHD on a mg/m 2basis.
 When midazolam (0, 0.2, 1, or 4 mg/kg/day) was administered intravenously to female rats during late gestation and throughout lactation, no clear adverse effects were noted in the offspring.
-The high dose, which was not associated with evidence of maternal toxicity, is approximately 4 times the RHD on a mg/m 2 basis.
+The high dose, which was not associated with evidence of maternal toxicity, is approximately 4 times the RHD on a mg/m 2basis.
 
 In published animal studies, administration of benzodiazepines or other drugs that enhance GABAergic inhibition to neonatal rats has been reported to result in widespread apoptotic neurodegeneration in the developing brain at plasma concentrations relevant for seizure control in humans.
 The window of vulnerability to these changes in rats (postnatal days 0-14) includes a period of brain development that takes place during the third trimester of pregnancy in humans.

@@ -13,7 +13,7 @@ The rate and extent of systemic exposure, as assessed by maximum plasma concentr
 
 Absorption
 
-Following IM administration of a single 10 mg midazolam dose to healthy subjects via this autoinjector, midazolam was absorbed with median Tmax (range) of 0.5 (0.17 to 1.03) hours; midazolam mean (±SD) Cmax and AUC 0-∞ were 127 (±47.3) ng/mL and 454 (±134) ng∙hr/mL, respectively.
+Following IM administration of a single 10 mg midazolam dose to healthy subjects via this autoinjector, midazolam was absorbed with median Tmax (range) of 0.5 (0.17 to 1.03) hours; midazolam mean (±SD) Cmax and AUC 0-∞were 127 (±47.3) ng/mL and 454 (±134) ng∙hr/mL, respectively.
 
 Distribution
 
@@ -64,7 +64,7 @@ The mean CL (total clearance) decreased approximately 25% in the elderly in two 
 
 Male and Female Patients
 
-No meaningful differences in midazolam exposures (C max and AUC) were observed between male and female adults after IM administration.
+No meaningful differences in midazolam exposures (C maxand AUC) were observed between male and female adults after IM administration.
 
 Patients with Congestive Heart Failure
 
