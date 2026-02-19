@@ -17,7 +17,7 @@ Dosage Information
 
 Dosage for Mild Symptoms in Adults and Pediatric Patients Weighing More Than 41 kg (90 Pounds)
 
-First Dose: If the patient experiences two or more mild symptoms of nerve agent (nerve gas) or insecticide exposure listed in Table 1, administer one (1) Atropine injection intramuscularly into the mid-lateral outer thigh.
+First Dose: If the patient experiences two or more mild symptoms of nerve agent (nerve gas) or insecticide exposure listed in Table 1, administer one(1) Atropine injection intramuscularly into the mid-lateral outer thigh.
 
 Additional Doses: If, at any time after the first dose, the patient develops any of the severe symptoms listed in Table 1, administer two (2) additional Atropine injections intramuscularly in rapid succession.
 
