@@ -71,4 +71,14 @@ Instruct them to notify their healthcare providers immediately if they develop s
 
 Potential Medication Errors
 
-To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their product to verify that it is SUBVENITE, as well as the correct formulation of lamotrigine, each time they fill their prescription[see Dosage Forms and Strengths (3.1,), How Supplied/Storage and Handling (16)].
+To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their product to verify that it is SUBVENITE, as well as the correct formulation of lamotrigine, each time they fill their prescription [see Dosage Forms and Strengths (3.1,), How Supplied/Storage and Handling (16)].
+
+| Manufactured for: |
+| --- |
+
+| OWP Pharmaceuticals, Inc., 701 Warrenville Road, Suite 200, Lisle, IL 60532 |
+| --- |
+| Manufactured by: |
+| DPT Laboratories, Ltd 307 E Josephine Street, San Antonio, TX 78215. |
+
+8082096 OWOSSUBOSPI0126

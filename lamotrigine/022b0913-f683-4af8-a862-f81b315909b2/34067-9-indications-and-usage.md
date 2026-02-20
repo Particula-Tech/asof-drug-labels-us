@@ -16,7 +16,7 @@ SUBVENITE is indicated for conversion to monotherapy in adults (aged 16 years an
 
 Safety and effectiveness of SUBVENITE have not been established (1) as initial monotherapy; (2) for conversion to monotherapy from AEDs other than carbamazepine, phenytoin, phenobarbital, primidone, or valproate; or (3) for simultaneous conversion to monotherapy from 2 or more concomitant AEDs.
 
-### 1.2 Bipolar Disorder
+## 1.2 Bipolar Disorder
 
 SUBVENITE is indicated for the maintenance treatment of bipolar I disorder to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in patients treated for acute mood episodes with standard therapy [see Clinical Studies (14.2)].
 

@@ -8,7 +8,7 @@ SUBVENITE (lamotrigine oral suspension) demonstrated similar bioavailability to 
 
 Monotherapy with Lamotrigine in Adults with Partial-Onset Seizures Already Receiving Treatment with Carbamazepine, Phenytoin, Phenobarbital, or Primidone as the Single Antiepileptic Drug
 
-The effectiveness of monotherapy with lamotrigine was established in a multicenter double-blind clinical trial enrolling 156 adult outpatients with partial-onset seizures.
+The effectiveness of monotherapy with lamotrigine was established in a multicenter, double-blind clinical trial enrolling 156 adult outpatients with partial-onset seizures.
 The patients experienced at least 4 simple partial-onset, complex partial-onset, and/or secondarily generalized seizures during each of 2 consecutive 4-week periods while receiving carbamazepine or phenytoin monotherapy during baseline.
 Lamotrigine (target dose of 500 mg/day) or valproate (1,000 mg/day) was added to either carbamazepine or phenytoin monotherapy over a 4-week period.
 Patients were then converted to monotherapy with lamotrigine or valproate during the next 4 weeks, then continued on monotherapy for an additional 12-week period.
@@ -21,11 +21,11 @@ The percentages of patients who met escape criteria were 42% (32/76) in the grou
 The difference in the percentage of patients meeting escape criteria was statistically significant (P= 0.0012) in favor of lamotrigine.
 No differences in efficacy based on age, sex, or race were detected.
 
-Patients in the control group were intentionally treated with a relatively low dose of valproate; as such, the sole objective of this trial was to demonstrate the effectiveness and safety of monotherapy with lamotrigine, and cannot be interpreted to imply the superiority of SUBVENITE to an adequate dose of valproate.
+Patients in the control group were intentionally treated with a relatively low dose of valproate; as such, the sole objective of this trial was to demonstrate the effectiveness and safety of monotherapy with lamotrigine, and cannot be interpreted to imply the superiority of lamotrigine to an adequate dose of valproate.
 
 Adjunctive Therapy with Lamotrigine in Adults with Partial-Onset Seizures
 
-The effectiveness of SUBVENITE as adjunctive therapy (added to other AEDs) was initially established in 3 pivotal, multicenter, placebo-controlled, double-blind clinical trials in 355 adults with refractory partial-onset seizures.
+The effectiveness of lamotrigine as adjunctive therapy (added to other AEDs) was initially established in 3 pivotal, multicenter, placebo-controlled, double-blind clinical trials in 355 adults with refractory partial-onset seizures.
 The patients had a history of at least 4 partial-onset seizures per month in spite of receiving 1 or more AEDs at therapeutic concentrations and in 2 of the trials were observed on their established AED regimen during baselines that varied between 8 to 12 weeks.
 In the third trial, patients were not observed in a prospective baseline.
 In patients continuing to have at least 4 seizures per month during the baseline, lamotrigine or placebo was then added to the existing therapy.
@@ -41,8 +41,8 @@ The seizure frequency reduction was statistically significant in the 500-mg/day 
 
 A second trial (n = 98) was a double-blind, placebo-controlled, randomized, crossover trial consisting of two 14-week treatment periods (the last 2 weeks of which consisted of dose tapering) separated by a 4-week washout period.
 Patients could not be on more than 2 other anticonvulsants and valproate was not allowed.
-The target dose of SUBVENITE was 400 mg/day.
-When the first 12 weeks of the treatment periods were analyzed, the median change in seizure frequency was a 25% reduction on SUBVENITE compared with placebo (P<0.001).
+The target dose of lamotrigine was 400 mg/day.
+When the first 12 weeks of the treatment periods were analyzed, the median change in seizure frequency was a 25% reduction on lamotrigine compared with placebo (P<0.001).
 
 The third trial (n = 41) was a double-blind, placebo-controlled, crossover trial consisting of two 12-week treatment periods separated by a 4-week washout period.
 Patients could not be on more than 2 other anticonvulsants.
@@ -52,7 +52,7 @@ The median change in seizure frequency was a 26% reduction on lamotrigine compar
 
 No differences in efficacy based on age, sex, or race, as measured by change in seizure frequency, were detected.
 
-Adjunctive Therapy with lamotrigine in Pediatric Patients with Partial-Onset Seizures
+Adjunctive Therapy with Lamotrigine in Pediatric Patients with Partial-Onset Seizures
 
 The effectiveness of lamotrigine as adjunctive therapy in pediatric patients with partial-onset seizures was established in a multicenter, double-blind, placebo-controlled trial in 199 patients aged 2 to 16 years (n = 98 on lamotrigine, n = 101 on placebo).
 Following an 8-week baseline phase, patients were randomized to 18 weeks of treatment with lamotrigine or placebo added to their current AED regimen of up to 2 drugs.
@@ -61,17 +61,17 @@ Target doses were designed to approximate 5 mg/kg/day for patients taking valpro
 The primary efficacy endpoint was percentage change from baseline in all partial-onset seizures.
 For the intent-to-treat population, the median reduction of all partial-onset seizures was 36% in patients treated with lamotrigine and 7% on placebo, a difference that was statistically significant (P<0.01).
 
-Adjunctive Therapy with lamotrigine in Pediatric and Adult Patients with Lennox-Gastaut Syndrome
+Adjunctive Therapy with Lamotrigine in Pediatric and Adult Patients with Lennox-Gastaut Syndrome
 
-The effectiveness of SUBVENITE as adjunctive therapy in patients with Lennox-Gastaut syndrome was established in a multicenter, double-blind, placebo-controlled trial in 169 patients aged 3 to 25 years (n = 79 on lamotrigine, n = 90 on placebo).
-Following a 4-week, single-blind, placebo phase, patients were randomized to 16 weeks of treatment with SUBVENITE or placebo added to their current AED regimen of up to 3 drugs.
+The effectiveness of lamotrigine as adjunctive therapy in patients with Lennox-Gastaut syndrome was established in a multicenter, double-blind, placebo-controlled trial in 169 patients aged 3 to 25 years (n = 79 on lamotrigine, n = 90 on placebo).
+Following a 4-week, single-blind, placebo phase, patients were randomized to 16 weeks of treatment with lamotrigine or placebo added to their current AED regimen of up to 3 drugs.
 Patients were dosed on a fixed-dose regimen based on body weight and valproate use.
 Target doses were designed to approximate 5 mg/kg/day for patients taking valproate (maximum dose: 200 mg/day) and 15 mg/kg/day for patients not taking valproate (maximum dose: 400 mg/day).
 The primary efficacy endpoint was percentage change from baseline in major motor seizures (atonic, tonic, major myoclonic, and tonic-clonic seizures).
 For the intent-to-treat population, the median reduction of major motor seizures was 32% in patients treated with lamotrigine and 9% on placebo, a difference that was statistically significant (P<0.05).
 Drop attacks were significantly reduced by lamotrigine (34%) compared with placebo (9%), as were tonic-clonic seizures (36% reduction versus 10% increase for lamotrigine and placebo, respectively).
 
-Adjunctive Therapy with lamotrigine in Pediatric and Adult Patients with Primary Generalized Tonic-Clonic Seizures
+Adjunctive Therapy with Lamotrigine in Pediatric and Adult Patients with Primary Generalized Tonic-Clonic Seizures
 
 The effectiveness of lamotrigine as adjunctive therapy in patients with PGTC seizures was established in a multicenter, double-blind, placebo-controlled trial in 117 pediatric and adult patients aged 2 years and older (n = 58 on lamotrigine, n = 59 on placebo).
 Patients with at least 3 PGTC seizures during an 8-week baseline phase were randomized to 19 to 24 weeks of treatment with lamotrigine or placebo added to their current AED regimen of up to 2 drugs.
@@ -84,12 +84,12 @@ For the intent-to-treat population, the median percent reduction in PGTC seizure
 
 Adults
 
-The effectiveness of SUBVENITE in the maintenance treatment of bipolar I disorder was established in 2 multicenter, double-blind, placebo-controlled trials in adult patients (aged 18 to 82 years) who met DSM-IV criteria for bipolar I disorder.
+The effectiveness of lamotrigine in the maintenance treatment of bipolar I disorder was established in 2 multicenter, double-blind, placebo-controlled trials in adult patients (aged 18 to 82 years) who met DSM-IV criteria for bipolar I disorder.
 Trial 1 enrolled patients with a current or recent (within 60 days) depressive episode as defined by DSM-IV and Trial 2 included patients with a current or recent (within 60 days) episode of mania or hypomania as defined by DSM-IV.
 Both trials included a cohort of patients (30% of 404 subjects in Trial 1 and 28% of 171 patients in Trial 2) with rapid cycling bipolar disorder (4 to 6 episodes per year).
 
 In both trials, patients were titrated to a target dose of 200 mg of lamotrigine as add-on therapy or as monotherapy with gradual withdrawal of any psychotropic medications during an 8- to 16-week open-label period.
-Overall 81% of 1,305 patients participating in the open-label period were receiving 1 or more other psychotropic medications, including benzodiazepines, selective serotonin reuptake inhibitors (SSRIs), atypical antipsychotics (including olanzapine), valproate, or lithium, during titration of lamotrigine.
+Overall, 81% of 1,305 patients participating in the open-label period were receiving 1 or more other psychotropic medications, including benzodiazepines, selective serotonin reuptake inhibitors (SSRIs), atypical antipsychotics (including olanzapine), valproate, or lithium, during titration of lamotrigine.
 Patients with a CGI-severity score of 3 or less maintained for at least 4 continuous weeks, including at least the final week on monotherapy with lamotrigine, were randomized to a placebo-controlled, double-blind treatment period for up to 18 months.
 The primary endpoint was TIME (time to intervention for a mood episode or one that was emerging, time to discontinuation for either an adverse event that was judged to be related to bipolar disorder, or for lack of efficacy).
 The mood episode could be depression, mania, hypomania, or a mixed episode.
@@ -98,7 +98,8 @@ In Trial 1, patients received double-blind monotherapy with lamotrigine 50 mg/da
 Lamotrigine (200- and 400-mg/day treatment groups combined) was superior to placebo in delaying the time to occurrence of a mood episode (Figure 1).
 Separate analyses of the 200- and 400-mg/day dose groups revealed no added benefit from the higher dose.
 
-In Trial 2, patients received double-blind monotherapy with lamotrigine (100 to 400 mg/day, n = 59), or placebo (n = 70). lamotrigine was superior to placebo in delaying time to occurrence of a mood episode (Figure 2).
+In Trial 2, patients received double-blind monotherapy with lamotrigine (100 to 400 mg/day, n = 59), or placebo (n = 70).
+Lamotrigine was superior to placebo in delaying time to occurrence of a mood episode (Figure 2).
 The mean dose of lamotrigine was about 211 mg/day.
 
 Although these trials were not designed to separately evaluate time to the occurrence of depression or mania, a combined analysis for the 2 trials revealed a statistically significant benefit for lamotrigine over placebo in delaying the time to occurrence of both depression and mania, although the finding was more robust for depression.

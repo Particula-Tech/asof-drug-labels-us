@@ -4,7 +4,7 @@
 
 Rash
 
-There are suggestions, yet to be proven, that the risk of severe, potentially life-threatening rash may be increased by (1) coadministration of lamotrigine with valproate, (2) exceeding the recommended initial dose of lamotrigine, or (3) exceeding the recommended dose escalation for lamotrigine.
+There are suggestions that the risk of severe, potentially life-threatening rash may be increased by (1) coadministration of lamotrigine with valproate, (2) exceeding the recommended initial dose of lamotrigine, or (3) exceeding the recommended dose escalation for lamotrigine.
 However, cases have occurred in the absence of these factors [see Boxed Warning].
 Therefore, it is important that the SUBVENITE dosing recommendations be followed closely.
 
@@ -22,7 +22,7 @@ Because lamotrigine is metabolized predominantly by glucuronic acid conjugation,
 Drugs that induce glucuronidation include carbamazepine, phenytoin, phenobarbital, primidone, rifampin, estrogen-containing products, including oral contraceptives, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
 Valproate inhibits glucuronidation.
 For dosing considerations for SUBVENITE in patients on estrogen-containing products, including contraceptives, and atazanavir/ritonavir, see below and Table 13.
-For dosing considerations for SUBVENITE in patients on other drugs known to induce or inhibit glucuronidation, see Tables 1, 2, 5-6, and 13.
+For dosing considerations for SUBVENITE in patients on other drugs known to induce or inhibit glucuronidation, see Tables 1, 2, 5 to 6, and 13.
 
 Target Plasma Levels for Patients with Epilepsy or Bipolar Disorder
 
@@ -31,15 +31,15 @@ Dosing of SUBVENITE should be based on therapeutic response [see Clinical Pharma
 
 Women Taking Estrogen-Containing Oral Contraceptives
 
-Starting SUBVENITE in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for SUBVENITE should be necessary solely based on the use of estrogen-containing oral contraceptives.
+Starting SUBVENITE in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine, no adjustments to the recommended dose-escalation guidelines for SUBVENITE should be necessary solely based on the use of estrogen-containing oral contraceptives [see Clinical Pharmacology (12.3)].
 Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with SUBVENITE based on the concomitant AED or other concomitant medications (see Tables 1, 5, and 7).
 See below for adjustments to maintenance doses of SUBVENITE in women taking estrogen-containing oral contraceptives.
 
 Adjustments to the Maintenance Dose of SUBVENITE in Women Taking Estrogen-Containing Oral Contraceptives:
 
-(1) Taking Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of SUBVENITE will in most cases need to be increased by as much as 2-fold over the recommended target maintenance dose to maintain a consistent lamotrigine plasma level.
+(1) Taking Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, the maintenance dose of SUBVENITE will in most cases need to be increased by as much as 2-fold over the recommended target maintenance dose to maintain a consistent lamotrigine plasma level [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-(2) Starting Estrogen-Containing Oral Contraceptives: In women taking a stable dose of SUBVENITE and not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose will in most cases need to be increased by as much as 2-fold to maintain a consistent lamotrigine plasma level.
+(2) Starting Estrogen-Containing Oral Contraceptives: In women taking a stable dose of SUBVENITE and not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, the maintenance dose will in most cases need to be increased by as much as 2-fold to maintain a consistent lamotrigine plasma level [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 The dose increases should begin at the same time that the oral contraceptive is introduced and continue, based on clinical response, no more rapidly than 50 to 100 mg/day every week.
 Dose increases should not exceed the recommended rate (see Tables 1 and 5) unless lamotrigine plasma levels or clinical response support larger increases.
 Gradual transient increases in lamotrigine plasma levels may occur during the week of inactive hormonal preparation (pill-free week), and these increases will be greater if dose increases are made in the days before or during the week of inactive hormonal preparation.
@@ -48,15 +48,16 @@ If adverse reactions attributable to SUBVENITE consistently occur during the pil
 Dose adjustments limited to the pill-free week are not recommended.
 For women taking SUBVENITE in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, no adjustment to the dose of SUBVENITE should be necessary [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-(3) Stopping Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of SUBVENITE will in most cases need to be decreased by as much as 50% in order to maintain a consistent lamotrigine plasma level.
+(3) Stopping Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, the maintenance dose of SUBVENITE will in most cases need to be decreased by as much as 50% in order to maintain a consistent lamotrigine plasma level [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 The decrease in dose of SUBVENITE should not exceed 25% of the total daily dose per week over a 2-week period, unless clinical response or lamotrigine plasma levels indicate otherwise [see Clinical Pharmacology (12.3)].
-In women taking SUBVENITE in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], no adjustment to the dose of SUBVENITE should be necessary.
+In women taking SUBVENITE in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, no adjustment to the dose of SUBVENITE should be necessary [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
 Women and Other Hormonal Contraceptive Preparations or Hormone Replacement Therapy
 
 The effect of other hormonal contraceptive preparations or hormone replacement therapy (HRT) on the pharmacokinetics of lamotrigine has not been systematically evaluated.
 Other estrogen‑containing therapies, such as HRT, may interfere with lamotrigine.
-Therefore, close clinical monitoring on effectiveness of SUBVENITE with dose adjustment may be necessary [see Warnings and Precautions (5.9)].It has been reported that ethinylestradiol, not progestogens, increased the clearance of lamotrigine up to 2-fold, and the progestin-only pills had no effect on lamotrigine plasma levels.
+Therefore, close clinical monitoring on effectiveness of SUBVENITE with dose adjustment may be necessary [see Warnings and Precautions (5.9)].
+It has been reported that ethinylestradiol, not progestogens, increased the clearance of lamotrigine up to 2-fold, and the progestin-only pills had no effect on lamotrigine plasma levels.
 Therefore, adjustments to the dosage of SUBVENITE in the presence of progestogens alone will likely not be needed.
 
 Patients Taking Atazanavir/Ritonavir
@@ -68,7 +69,7 @@ In patients already taking maintenance doses of SUBVENITE and not taking glucuro
 Patients with Hepatic Impairment
 
 Experience in patients with hepatic impairment is limited.
-Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)], the following general recommendations can be made.
+Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment, the following general recommendations can be made [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 No dosage adjustment is needed in patients with mild liver impairment.
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
 Escalation and maintenance doses may be adjusted according to clinical response.
@@ -91,7 +92,7 @@ Bipolar Disorder: In the controlled clinical trials, there was no increase in th
 In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine.
 Discontinuation of SUBVENITE should involve a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.10)].
 
-## 2.2 Epilepsy-Adjunctive Therapy
+## 2.2 Epilepsy—Adjunctive Therapy
 
 This section provides specific dosing recommendations for patients older than 12 years and patients aged 2 to 12 years.
 Within each of these age-groups, specific dosing recommendations are provided depending upon concomitant AEDs or other concomitant medications (see Table 1 for patients older than 12 years and Table 2 for patients aged 2 to 12 years).
@@ -107,12 +108,10 @@ Escalation Regimen for SUBVENITE in Patients Older than 12 Years with Epilepsy
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 25 mg every other day | 25 mg every day | 50 mg/day |
 | Weeks 3 and 4 | 25 mg every day | 50 mg/day | 100 mg/day (in 2 divided doses) |
-| Week 5 onward to maintenance | Increase by 25 to50 mg/day every 1 to2 weeks. | Increase by 50 mg/day every 1 to 2 weeks. | Increase by100 mg/day every 1 to 2 weeks. |
+| Week 5 onward to maintenance | Increase by 25 to 50 mg/day every 1 to 2 weeks. | Increase by 50 mg/day every 1 to 2 weeks. | Increase by 100 mg/day every 1 to 2 weeks. |
 | Usual maintenance dose | 100 to 200 mg/day with valproate alone 100 to 400 mg/day with valproate and other drugs that induce glucuronidation (in 1 or 2 divided doses) | 225 to 375 mg/day (in 2 divided doses) | 300 to 500 mg/day (in 2 divided doses) |
-
-a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified AEDs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
-Dosing recommendations for estrogen-containing products, including oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
-Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)].
+| a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
+| b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified AEDs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for estrogen-containing products, including oral contraceptives, and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
 
 Patients Aged 2 to 12 Years
 
@@ -121,7 +120,7 @@ Recommended dosing guidelines are summarized in Table 2.
 Lower starting doses and slower dose escalations than those used in clinical trials are recommended because of the suggestion that the risk of rash may be decreased by lower starting doses and slower dose escalations.
 Therefore, maintenance doses will take longer to reach in clinical practice than in clinical trials.
 It may take several weeks to months to achieve an individualized maintenance dose.
-Maintenance doses in patients weighing < 30 kg, regardless of age or concomitant AED, may need to be increased as much as 50%, based on clinical response.
+Maintenance doses in patients weighing <30 kg, regardless of age or concomitant AED, may need to be increased as much as 50%, based on clinical response.
 
 Table 2.
 Escalation Regimen for SUBVENITE in Patients Aged 2 to 12 Years with Epilepsy
@@ -130,22 +129,18 @@ Escalation Regimen for SUBVENITE in Patients Aged 2 to 12 Years with Epilepsy
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 0.15 mg/kg/day in 1 or 2 divided doses | 0.3 mg/kg/day in 1 or 2 divided doses | 0.6 mg/kg/day in 2 divided doses |
 | Weeks 3 and 4 | 0.3 mg/kg/day in 1 or 2 divided doses | 0.6 mg/kg/day in 2 divided doses | 1.2 mg/kg/day in 2 divided doses |
-| Week 5 onward to maintenance | The dose should be increased every 1 to2 weeks as follows: calculate0.3 mg/kg/day add this amount to the previously administered dailydose. | The dose should be increased every 1 to2 weeks as follows: calculate0.6 mg/kg/day, add this amount to the previously administered daily dose. | The dose should be increased every 1 to2 weeks as follows: calculate1.2 mg/kg/day, add this amount to the previously administered daily dose. |
-| Usual maintenance dose | 1 to 5 mg/kg/day (maximum200 mg/day in 1 or 2 divided doses)1 to 3 mg/kg/day with valproate alone | 4.5 to 7.5 mg/kg/day (maximum 300 mg/day in 2 divided doses) | 5 to 15 mg/kg/day (maximum 400 mg/day in 2 divided doses) |
+| Week 5 onward to maintenance | The dose should be increased every 1 to 2 weeks as follows: calculate 0.3 mg/kg/day, add this amount to the previously administered daily dose. | The dose should be increased every 1 to 2 weeks as follows: calculate 0.6 mg/kg/day, add this amount to the previously administered daily dose. | The dose should be increased every 1 to 2 weeks as follows: calculate 1.2 mg/kg/day, add this amount to the previously administered daily dose. |
+| Usual maintenance dose | 1 to 5 mg/kg/day (maximum 200 mg/day in 1 or 2 divided doses) 1 to 3 mg/kg/day with valproate alone | 4.5 to 7.5 mg/kg/day (maximum 300 mg/day in 2 divided doses) | 5 to 15 mg/kg/day (maximum 400 mg/day in 2 divided doses) |
 | Maintenance dose in patients <30 kg | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. |
-
-a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)].
-
-b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified AEDs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
-Dosing recommendations for estrogen containing products, including oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
-Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with AEDs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)].
+| a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
+| b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified AEDs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for estrogen-containing products, including oral contraceptives, and the protease inhibitor atazanavir/ritonavir, can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with AEDs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
 
 Usual Adjunctive Maintenance Dose for Epilepsy
 
 The usual maintenance doses identified in Tables 1 and 2 are derived from dosing regimens employed in the placebo-controlled adjunctive trials in which the efficacy of lamotrigine was established.
 In patients receiving multidrug regimens employing carbamazepine, phenytoin, phenobarbital, or primidone without valproate, maintenance doses of adjunctive lamotrigine as high as 700 mg/day have been used.
 In patients receiving valproate alone, maintenance doses of adjunctive lamotrigine as high as 200 mg/day have been used.
-The advantage of using doses above those recommended in Tables 1 to 4 has not been established in controlled trials.
+The advantage of using doses above those recommended in Tables 1 to 3 has not been established in controlled trials.
 
 ## 2.3 Epilepsy-Conversion from Adjunctive Therapy to Monotherapy
 
@@ -204,31 +199,27 @@ To avoid an increased risk of rash, the recommended initial dose and subsequent 
 Table 4.
 Escalation Regimen for SUBVENITE in Adults with Bipolar Disorder
 
-|  | In Patients TAKING Valproate a | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone b, or Valproate a | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidone band NOT TAKING Valproate a |
+|  | In Patients TAKING Valproatea | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidoneb, or Valproatea | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb and NOT TAKING Valproatea |
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 25 mg every other day | 25 mg daily | 50 mg daily |
 | Weeks 3 and 4 | 25 mg daily | 50 mg daily | 100 mg daily, in divided doses |
 | Week 5 | 50 mg daily | 100 mg daily | 200 mg daily, in divided doses |
 | Week 6 | 100 mg daily | 200 mg daily | 300 mg daily, in divided doses |
 | Week 7 | 100 mg daily | 200 mg daily | up to 400 mg daily, in divided doses |
-
-a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified AEDs, include estrogen-containing products, including oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
-Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
-Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with AEDs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)].
+| a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
+| b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified AEDs, include estrogen-containing products, including oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with AEDs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
 
 Table 5.
 Dosage Adjustments to lamotrigine in Adults with Bipolar Disorder Following Discontinuation of Psychotropic Medications
 
-|  | Discontinuation of Psychotropic Drugs (excluding Valproate a,Carbamazepine,Phenytoin, Phenobarbital, or Primidone b) | After Discontinuation of Valproate a | After Discontinuation of Carbamazepine, Phenytoin, Phenobarbital, or Primidone b |
+|  | Discontinuation of Psychotropic Drugs (excluding Valproatea, Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb) | After Discontinuation of Valproatea | After Discontinuation of Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb |
 | --- | --- | --- | --- |
-|  |  | Current Dose of Lamotrigine 100 mg/day | Current Dose of Lamotrigine 400 mg/day |
+|  | Current Dose of SUBVENITE 100 mg/day | Current Dose of SUBVENITE 400 mg/day |  |
 | Week 1 | Maintain current dose of SUBVENITE | 150 mg/day | 400 mg/day |
 | Week 2 | Maintain current dose of SUBVENITE | 200 mg/day | 300 mg/day |
 | Week 3 onward | Maintain current dose of SUBVENITE | 200 mg/day | 200 mg/day |
-
-a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified AEDs, include estrogen-containing products, including oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
-Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
-Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with AEDs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)].
+| a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
+| b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified AEDs, include estrogen-containing products, including oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with AEDs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
 
 ## 2.5 Administration Instructions
 

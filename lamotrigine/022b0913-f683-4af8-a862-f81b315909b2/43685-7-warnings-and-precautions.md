@@ -5,8 +5,8 @@
 Pediatric Population
 
 The incidence of serious rash associated with hospitalization and discontinuation of lamotrigine in a prospectively followed cohort of pediatric patients (aged 2 to 17 years) is approximately 0.3% to 0.8%.
-One rash-related death was reported in a prospectively followed cohort of 1,983 pediatric patients (aged 2 to 16 years) with epilepsy taking lamotrigine is contraindicated in patients who have demonstrated hypersensitivity (e.g., rash, angioedema, acute urticaria, extensive pruritus, mucosal ulceration) to the drug or its ingredients [see Boxed Warning, Warnings and Precautions (5.1, 5.3)]. as adjunctive therapy.
-Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in U.S. and foreign postmarketing experience.
+One rash-related death was reported in a prospectively followed cohort of 1,983 pediatric patients (aged 2 to 16 years) with epilepsy taking lamotrigine as adjunctive therapy.
+Additionally, there have been rare cases of toxic epidermal necrolysis (TEN) with and without permanent sequelae and/or death in U.S. and foreign postmarketing experience.
 
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in pediatric patients.
 In pediatric patients who used valproate concomitantly for epilepsy, 1.2% (6 of 482) experienced a serious rash compared with 0.6% (6 of 952) patients not taking valproate.
@@ -20,16 +20,31 @@ However, in worldwide postmarketing experience, rare cases of rash-related death
 
 Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic epidermal necrolysis, angioedema, and those associated with multiorgan hypersensitivity [see Warnings and Precautions (5.3)].
 
+Risk Factors
+
+Concomitant Use of Valproate
+
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults.
 Specifically, of 584 patients administered lamotrigine with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered lamotrigine in the absence of valproate were hospitalized.
 
 Patients with History of Allergy or Rash to Other Antiepileptic Drugs
 
-The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for SUBVENITE is exceeded and in patients with a history of allergy or rash to other AEDs.
+The risk of rash may be increased in patients with a history of allergy or rash to other AEDs.
+
+Not Adhering to the Recommended Dosage
+
+The risk of rash is increased by both exceeding the recommended initial dose of SUBVENITE and exceeding the recommended dose escalation for SUBVENITE.
+
+Patients with Genetic Variant Human Leukocyte Antigen (HLA)-B*1502 Allele
+
+Retrospective case-control studies in patients of certain Asian ancestry (e.g., Han Chinese and Thai) suggest that the HLA-B*1502 allele is associated with an increased risk (approximately 2-3 times higher) of developing Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) in patients using lamotrigine.
+The risks and benefits of therapy should be weighed when considering use of SUBVENITE in patients known to be positive for HLA-B*1502.
+Application of HLA genotyping as a screening tool has important limitations and must never substitute for appropriate clinical vigilance and patient management.
+Many HLA B*1502 positive patients treated with SUBVENITE will not develop SJS/TEN or other hypersensitivity reactions, and these reactions can still occur in HLA B*1502 negative patients of any ethnicity.
 
 ## 5.2 Hemophagocytic Lymphohistiocytosis
 
-Hemophagocytic lymphohistiocytosis (HLH) has occurred in pediatric and adult patients taking lamotrigine, the actie ingredient in SUBVENITE, for various indications.
+Hemophagocytic lymphohistiocytosis (HLH) has occurred in pediatric and adult patients taking lamotrigine, the active ingredient in SUBVENITE, for various indications.
 HLH is a life-threatening syndrome of pathologic immune activation characterized by clinical signs and symptoms of extreme systemic inflammation.
 It is associated with high mortality rates if not recognized early and treated.
 Common findings include fever, hepatosplenomegaly, rash, lymphadenopathy, neurologic symptoms, cytopenias, high serum ferritin, hypertriglyceridemia, and liver function and coagulation abnormalities.
@@ -38,9 +53,9 @@ Symptoms have been reported to occur within 8 to 24 days following the initiatio
 Patients who develop early manifestations of pathologic immune activation should be evaluated immediately, and a diagnosis of HLH should be considered.
 SUBVENITE should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
 
-## 5.3 Multiorgan Hypersensitivity Reactions and Organ Failure
+## 5.3 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
 
-Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multiorgan hypersensitivity, has occurred with patients taking antiepileptic drugs, including lamotrigine.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multiorgan hypersensitivity, has occurred with patients taking antiepileptic drugs, including lamotrigine, the active ingredient in SUBVENITE.
 These events can be fatal or life threatening, particularly if diagnosis and treatment do not occur as early as possible.
 DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
 Eosinophilia is often present.
@@ -73,7 +88,7 @@ These have included neutropenia, leukopenia, anemia, thrombocytopenia, pancytope
 AEDs, including SUBVENITE, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (monotherapy and adjunctive therapy) of 11 different AEDs showed that patients randomized to 1 of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared with patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (monotherapy and adjunctive therapy) of 11 different AEDs showed that patients randomized to 1 of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared with patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared with 0.24% among 16,029 placebo-treated patients, representing an increase of approximately 1 case of suicidal thinking or behavior for every 530 patients treated.
 There were 4 suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number of events is too small to allow any conclusion about drug effect on suicide.
 
@@ -89,7 +104,7 @@ Table 6 shows absolute and relative risk by indication for all evaluated AEDs.
 Table 6.
 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patientswith Events per 1,000 Patients | Drug Patients with Events per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1,000 Patients |
+| Indication | Placebo Patients with Events per 1,000 Patients | Drug Patients with Events per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1,000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -131,10 +146,10 @@ To reduce the potential for medication errors, write and say SUBVENITE clearly.
 SUBVENITE is a pink oral suspension.
 To avoid the medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect the product to verify that it is SUBVENITE oral suspension, each time they fill their prescription.
 
-## 5.9 Concomitant Use with Oral Contraceptives
+## 5.9 Concomitant Use with Estrogen-Containing Products, Including Oral Contraceptives
 
 Some estrogen-containing oral contraceptives have been shown to decrease serum concentrations of lamotrigine [see Clinical Pharmacology (12.3)].
-Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking lamotrigine [see Dosage and Administration (2.1)].
+Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking SUBVENITE [see Dosage and Administration (2.1)].
 During the week of inactive hormone preparation (pill-free week) of oral contraceptive therapy, plasma lamotrigine levels are expected to rise, as much as doubling at the end of the week.
 Adverse reactions consistent with elevated levels of lamotrigine, such as dizziness, ataxia, and diplopia, could occur.
 Other oral contraceptive and other estrogen-containing therapies (such as HRT) have not been studied, though they may similarly affect lamotrigine pharmacokinetic parameters.
@@ -152,14 +167,14 @@ Valid estimates of the incidence of treatment-emergent status epilepticus among 
 At a minimum, 7 of 2,343 adult patients had episodes that could unequivocally be described as status epilepticus.
 In addition, a number of reports of variably defined episodes of seizure exacerbation (e.g., seizure clusters, seizure flurries) were made.
 
-## 5.12 Addition of lamotrigine to a Multidrug Regimen that Includes Valproate
+## 5.12 Addition of Lamotrigine to a Multidrug Regimen that Includes Valproate
 
-Because valproate reduces the clearance of SUBVENITE, the dosage of SUBVENITE in the presence of valproate is less than half of that required in its absence [see Dosage andAdministration (2.2, 2.3, 2.4), Drug Interactions (7)].
+Because valproate reduces the clearance of lamotrigine, the dosage of SUBVENITE in the presence of valproate is less than half of that required in its absence [see Dosage and Administration (2.2, 2.3, 2.4), Drug Interactions (7)].
 
 ## 5.13 Binding in the Eye and Other Melanin-Containing Tissues
 
 Because lamotrigine binds to melanin, it could accumulate in melanin-rich tissues over time.
-This raises the possibility that lamotrigine may cause toxicity in these tissues after extended use.
+This raises the possibility that SUBVENITE may cause toxicity in these tissues after extended use.
 Although ophthalmological testing was performed in one controlled clinical trial, the testing was inadequate to exclude subtle effects or injury occurring after long-term exposure.
 Moreover, the capacity of available tests to detect potentially adverse consequences, if any, of lamotrigine's binding to melanin is unknown [see Clinical Pharmacology (12.2)].
 
