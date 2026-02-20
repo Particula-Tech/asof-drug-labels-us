@@ -2,8 +2,8 @@
 
 Rx only
 
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc New York, NY 10017
+Distributed by Pfizer Labs Division of Pfizer Inc New York, NY 10001
 
 Novaplus is a registered trademark of Vizient, Inc.
 
-LAB-1522-1.0 Revised March 2022
+LAB-1522-2.0 Revised December 2025

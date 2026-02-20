@@ -37,6 +37,10 @@ Should arterial pressure fall significantly, decrease the rate of infusion immed
 In infants with restricted pulmonary blood flow, measure efficacy of PROSTIN VR PEDIATRIC by monitoring improvement in blood oxygenation.
 In infants with restricted systemic blood flow, measure efficacy by monitoring improvement of systemic blood pressure and blood pH.
 
+PROSTIN VR PEDIATRIC contains ethanol (79% w/v).
+Ethanol may cause CNS depressant effects such as somnolence and may alter the effects of other medicines.
+Co‑administration with medicines containing e.g. propylene glycol or ethanol may lead to accumulation of ethanol and induce adverse effects, particularly in young children with low or immature metabolic capacity.
+
 ## Drug Interactions
 
 No drug interactions have been reported between PROSTIN VR PEDIATRIC and the therapy standard in neonates with restricted pulmonary or systemic blood flow.
