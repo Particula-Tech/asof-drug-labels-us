@@ -48,4 +48,4 @@ Therefore, dose adjustment is needed in patients with renal impairment [see Dosa
 
 ### Drug Interaction Studies
 
-No studies of interactions between Tranexamic Acid Injection and other drugs have been conducted.
+No studies of interactions between tranexamic acid injection and other drugs have been conducted.

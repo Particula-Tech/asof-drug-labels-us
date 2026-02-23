@@ -2,7 +2,8 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Thromboembolic Risk [see Warnings and Precautions (5.1)]
+- Risk of Medication Errors Due to Incorrect Route of Administration [see Warnings and Precautions (5.1)]
+- Thromboembolic Risk [see Warnings and Precautions (5.2)]
 - Seizures [see Warnings and Precautions (5.3)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
 - Visual Disturbances [see Warnings and Precautions (5.5)]
@@ -18,6 +19,6 @@ Allergic dermatitis and giddiness have been reported.
 Hypotension has been reported when intravenous injection is too rapid.
 
 Thromboembolic events (e.g., deep vein thrombosis, pulmonary embolism, cerebral thrombosis, acute renal cortical necrosis, and central retinal artery, vein obstruction and cases associated with concomitant use of combination hormonal contraceptives) have been rarely reported in patients receiving tranexamic acid for indications other than hemorrhage prevention in patients with hemophilia.
-Convulsion, cromatopsia, and visual impairment have also been reported.
+Convulsion, chromatopsia, and visual impairment have also been reported.
 
 Anaphylaxis or anaphylactoid reactions have been reported that are suggestive of a causal relationship.

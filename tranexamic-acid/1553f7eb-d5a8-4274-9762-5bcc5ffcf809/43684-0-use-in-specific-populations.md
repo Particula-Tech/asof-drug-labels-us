@@ -16,7 +16,7 @@ All pregnancies have a background risk of birth defect, loss, or other adverse o
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 It is not known whether tranexamic acid use in pregnant women may cause a drug-associated risk of miscarriage or adverse maternal or fetal outcomes.
-For decisions regarding the use of Tranexamic Acid Injection during pregnancy, the potential risk of Tranexamic Acid Injection administration on the fetus should always be considered along with the mother's clinical need for Tranexamic Acid Injection; an accurate risk-benefit evaluation should drive the treating physician's decision.
+For decisions regarding the use of tranexamic acid injection during pregnancy, the potential risk of tranexamic acid injection administration on the fetus should always be considered along with the mother's clinical need for tranexamic acid injection; an accurate risk-benefit evaluation should drive the treating physician's decision.
 
 ### Data
 
@@ -29,7 +29,7 @@ There were 13 clinical studies that described fetal and/or neonatal functional i
 
 Animal Data
 
-In embryo-fetal development studies, tranexamic acid was administered to pregnant mice from Gestation day (GD) 6 through GD 12 and rats from GD 9 through GD 14 at daily doses of 0.3 or 1.5 g/kg.
+In embryo-fetal development studies, tranexamic acid was administered to pregnant mice from Gestation Day (GD) 6 through GD 12 and rats from GD 9 through GD 14 at daily doses of 0.3 or 1.5 g/kg.
 There was no evidence of adverse developmental outcomes in mice and rats at multiple of 3 and 6 times the maximum recommended human dose based on body surface area in the mouse and rat, respectively.
 
 In rabbits, tranexamic acid was administered intravenously at doses of 50, 100, or 200 mg/kg/day or orally at doses of 100, 200, or 400 mg/kg/day from GD 6 through GD 18.
@@ -42,23 +42,23 @@ Intravenous doses of 200 mg/kg/day showed slightly retarded weight gain in pregn
 
 Published literature reports the presence of tranexamic acid in human milk.
 There are no data on the effects of tranexamic acid on the breastfed child or the effects on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Tranexamic Acid Injection and any potential adverse effects on the breastfed child from Tranexamic Acid Injection or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for tranexamic acid injection and any potential adverse effects on the breastfed child from tranexamic acid injection or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 
 ### Contraception
 
-Concomitant use of Tranexamic Acid Injection, which is an antifibrinolytic, with hormonal contraceptives may increase the risk for thromboembolic adverse reactions.
-Advise patients to use an effective alternative (nonhormonal) contraceptive method [see Warnings and Precautions (5.1), Drug Interactions (7.1)].
+Concomitant use of tranexamic acid injection, which is an antifibrinolytic, with hormonal contraceptives may increase the risk for thromboembolic adverse reactions.
+Advise patients to use an effective alternative (nonhormonal) contraceptive method [see Warnings and Precautions (5.2), Drug Interactions (7.1)].
 
 ## 8.4 Pediatric Use
 
-There are limited data concerning the use of Tranexamic Acid Injection in pediatric patients with hemophilia who are undergoing tooth extraction.
+There are limited data concerning the use of tranexamic acid injection in pediatric patients with hemophilia who are undergoing tooth extraction.
 The limited data suggest that there are no significant pharmacokinetic differences between adults and pediatric patients.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of Tranexamic Acid Injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of tranexamic acid injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
@@ -66,4 +66,4 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 ## 8.6 Renal Impairment
 
-Reduce the dosage of Tranexamic Acid Injection in patients with renal impairment, based on the patient's serum creatinine [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
+Reduce the dosage of tranexamic acid injection in patients with renal impairment, based on the patient's serum creatinine [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
