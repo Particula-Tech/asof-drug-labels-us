@@ -45,7 +45,7 @@ The pulses are separated by a 3-week period without SPORANOX ®.
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 Caution should be exercised when this drug is administered in this patient population.
-(See CLINICAL PHARMACOLOGY: Special Populations and PRECAUTIONS.)
+(See CLINICAL PHARMACOLOGY: Special Populationsand PRECAUTIONS.)
 
 ## Use in Patients with Hepatic Impairment
 
