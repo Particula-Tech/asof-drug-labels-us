@@ -17,7 +17,7 @@ Clinically Significant Drug Interactions with Buprenorphine Sublingual Tablets
 | CYP3A4 Inducers |  |
 | Clinical Impact: | The concomitant use of buprenorphine and CYP3A4 inducers can decrease the plasma concentration of buprenorphine [see Clinical Pharmacology (12.3)], potentially resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to buprenorphine. After stopping a CYP3A4 inducer, as the effects of the inducer decline, the buprenorphine plasma concentration will increase [see Clinical Pharmacology (12.3)], which could increase or prolong both therapeutic effects and adverse reactions and may cause serious respiratory depression. |
 | Intervention: | If concomitant use is necessary, consider increasing the Buprenorphine Sublingual Tablets dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. If a CYP3A4 inducer is discontinued, consider Buprenorphine Sublingual Tablets dosage reduction and monitor for signs of respiratory depression. |
-| Examples: | Rifampin, carbamazepine, phenytoin. |
+| Examples: | rifampin, carbamazepine, phenytoin. |
 | Antiretrovirals: Non-nucleoside reverse transcriptase inhibitors (NNRTIs) |  |
 | Clinical Impact: | Non-nucleoside reverse transcriptase inhibitors (NNRTIs) are metabolized principally by CYP3A4. Efavirenz, nevirapine, and etravirine are known CYP3A inducers, whereas delavirdine is a CYP3A inhibitor. Significant pharmacokinetic interactions between NNRTIs (e.g., efavirenz and delavirdine) and buprenorphine have been shown in clinical studies, but these pharmacokinetic interactions did not result in any significant pharmacodynamic effects. |
 | Intervention: | Patients who are on chronic Buprenorphine Sublingual Tablets treatment should have their dose monitored if NNRTIs are added to their treatment regimen. |
@@ -40,7 +40,7 @@ Clinically Significant Drug Interactions with Buprenorphine Sublingual Tablets
 | Muscle Relaxants |  |
 | Clinical Impact: | Buprenorphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
 | Intervention: | Monitor patients receiving muscle relaxants and Buprenorphine Sublingual Tablets for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Buprenorphine Sublingual Tablets and/or the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, strongly consider recommending or prescribing an opioid overdose reversal agent, as is recommended for all patients on buprenorphine treatment for opioid use disorder [see Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.3)]. |
-| Examples: | Cyclobenzaprine, metaxalone. |
+| Examples: | cyclobenzaprine, metaxalone. |
 | Diuretics |  |
 | Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
 | Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |

@@ -25,8 +25,8 @@ Clinical Considerations:
 Disease-associated maternal and embryo-fetal risk: Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
 In addition, untreated opioid addiction often results in continued or relapsing illicit opioid use.
 
-Dose adjustment during pregnancy and the postpartum period: Dosage adjustments of buprenorphine may be required during pregnancy, even if the patient was maintained on a stable dose prior to pregnancy.
-Withdrawal signs and symptoms should be monitored closely and the dose adjusted as necessary.
+Dose adjustment during pregnancy and the postpartum period: Dosage adjustments of buprenorphine, such as using higher doses, may be required during pregnancy, even if the patient was maintained on a stable dose prior to pregnancy.
+Dosing should be based on individual response, and withdrawal signs and symptoms should be monitored closely and the dose adjusted as necessary.
 
 Fetal/neonatal adverse reactions: Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with Buprenorphine Sublingual Tablets.
 

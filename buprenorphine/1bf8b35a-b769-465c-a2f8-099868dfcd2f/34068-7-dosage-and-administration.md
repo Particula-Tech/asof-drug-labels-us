@@ -53,9 +53,9 @@ Withdrawal appears more likely in patients maintained on higher doses of methado
 
 - •Buprenorphine and Naloxone Sublingual Tablets are preferred for maintenance treatment.
 - •Where Buprenorphine Sublingual Tablets is used in maintenance in patients who cannot tolerate the presence of naloxone, the dosage of Buprenorphine Sublingual Tablets should be progressively adjusted in increments / decrements of 2 mg or 4 mg buprenorphine to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
-- •After treatment induction and stabilization, the maintenance dose of Buprenorphine Sublingual Tablets is generally in the range of 4 mg to 24 mg buprenorphine per day depending on the individual patient.
-  The recommended target dosage of Buprenorphine Sublingual Tablets is 16 mg as a single daily dose.
-  Dosages higher than 24 mg have not been demonstrated to provide any clinical advantage.
+- •After treatment induction to the recommended dose of 16 mg buprenorphine per day, dosing should be further adjusted based on the individual patient and clinical response.
+  The maintenance dose of Buprenorphine Sublingual Tablets is generally in the range of 4 mg buprenorphine to 24 mg buprenorphine per day.
+  Dosages higher than 24 mg daily have not been investigated in randomized clinical trials but may be appropriate for some patients.
 - •When determining the prescription quantity for unsupervised administration, consider the patient’s level of stability, the security of his or her home situation, and other factors likely to affect the ability to manage supplies of take-home medication.
 - •There is no maximum recommended duration of maintenance treatment.
   Patients may require treatment indefinitely and should continue for as long as patients are benefiting and the use of Buprenorphine Sublingual Tablets contributes to the intended treatment goals.

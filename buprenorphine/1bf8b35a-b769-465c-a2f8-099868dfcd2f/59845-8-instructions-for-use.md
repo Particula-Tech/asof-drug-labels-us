@@ -41,10 +41,14 @@ Visit www.fda.gov/drugdisposal for additional information on disposal of unused 
 
 If you need help with disposal of Buprenorphine Sublingual Tablets, call Hikma Pharmaceuticals USA Inc. at 1-800-962-8364.
 
-Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
+Distributed by:
 
-C50000231/13a
+Hikma Pharmaceuticals USA Inc.
 
-Revised December 2025
+Berkeley Heights, NJ 07922
+
+C50000231/13b
+
+Revised January 2026
 
 This “Instructions for Use” has been approved by the U.S. Food and Drug Administration.
