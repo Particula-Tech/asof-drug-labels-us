@@ -163,7 +163,7 @@ The same subjects may not have responded at each timepoint.
 In Trial 5, subjects who received BENLYSTA were significantly less likely to experience a renal-related event or death compared with placebo (Table 8).
 
 Table 8.
-Time to Renal‑Related Event or Deatha in Adult Subjects with Active Lupus Nephritis (Intravenous Treatment) (Trial 5)
+Time to RenalRelated Event or Deatha in Adult Subjects with Active Lupus Nephritis (Intravenous Treatment) (Trial 5)
 
 |  | Placebo + Standard Therapy n = 223 | BENLYSTA + Standard Therapy n = 223 | Hazard Ratio (HR) vs. Placebo (95% CI) |
 | --- | --- | --- | --- |
