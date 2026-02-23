@@ -1,6 +1,8 @@
 # Instructions for Use
 
-GIMOTI™ (jye-MOH-tee) (phonetic spelling) (metoclopramide) nasal spray
+GIMOTI™ (jye-MOH-tee) (phonetic spelling)
+
+(metoclopramide) nasal spray
 
 Read this Instructions for Use before you start using GIMOTI nasal spray and each time you get a refill.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
@@ -21,31 +23,40 @@ Parts of your GIMOTI bottle
 
 Steps to use GIMOTI
 
-- Uncap the GIMOTI nasal spray bottle
-  - Remove the cap from the spray nozzle by pulling straight up.
+1.
+Uncap the GIMOTI nasal spray bottle
 
-- Prime the GIMOTI nasal spray bottleIf you are not able to press and release 10 sprays from the GIMOTI nasal spray, call your healthcare provider or pharmacist.
-  - Remove the safety clip from the spray pump.
-  - Place your index finger and middle finger on each side of the finger flange and your thumb on the bottom of the glass bottle.
-  - Turn the spray nozzle away from your face, keeping the bottle upright.
-    Do notspray into your eyes.
-  - Press down firmly and release 10 times on the finger flange until a spray appears from the spray nozzle.
-    You may not see a spray the first few times you press down.
-    After pressing down and releasing a spray 10 times, the GIMOTI nasal spray will be primed and ready to use.
+- Remove the cap from the spray nozzle by pulling straight up.
+
+2.
+Prime the GIMOTI nasal spray bottle
+
+- Remove the safety clip from the spray pump.
+- Place your index finger and middle finger on each side of the finger flange and your thumb on the bottom of the glass bottle.
+- Turn the spray nozzle away from your face, keeping the bottle upright.
+  Do notspray into your eyes.
+
+- Press down firmly and release 10 times on the finger flange until a spray appears from the spray nozzle.
+  You may not see a spray the first few times you press down.
+  After pressing down and releasing a spray 10 times, the GIMOTI nasal spray will be primed and ready to use.
+
+If you are not able to press and release 10 sprays from the GIMOTI nasal spray, call your healthcare provider or pharmacist.
 
 The GIMOTI nasal spray bottle is now ready for use.
 
-- Using the GIMOTI nasal spray
-  - Place the spray nozzle tip under one of your nostrils.
-    Tilt your head slightly forward so the tip of the spray nozzle is aimed away from the center of your nose.
-  - Close the other nostril with your other index finger.
-    Move the spray pump up so the tip of the nozzle is in your nostril.
-  - Press down firmly on the finger flange until it stops moving to deliver a full dose.
-  - Release the finger flange and breathe in gently through the open nostril.
-  - Remove the spray pump nozzle tip from your nostril and breathe out slowly through your mouth.
-  - After use, wipe the spray nozzle with a clean tissue.
-    Place the cap on the spray nozzle by pushing straight down.
-    Place the safety clip back onto the spray pump.
+3.
+Using the GIMOTI nasal spray
+
+- Place the spray nozzle tip under one of your nostrils.
+  Tilt your head slightly forward so the tip of the spray nozzle is aimed away from the center of your nose.
+- Close the other nostril with your other index finger.
+  Move the spray pump up so the tip of the nozzle is in your nostril.
+- Press down firmly on the finger flange until it stops moving to deliver a full dose.
+- Release the finger flange and breathe in gently through the open nostril.
+- Remove the spray pump nozzle tip from your nostril and breathe out slowly through your mouth.
+- After use, wipe the spray nozzle with a clean tissue.
+  Place the cap on the spray nozzle by pushing straight down.
+  Place the safety clip back onto the spray pump.
 
 Cleaning the spray pump nozzle
 

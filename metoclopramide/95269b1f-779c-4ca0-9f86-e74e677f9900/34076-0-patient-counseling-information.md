@@ -4,25 +4,35 @@ Advise the patient or caregiver to read the FDA-approved patient labeling (Medic
 
 Adverse Reactions
 
-Inform the patients or their caregivers that metoclopramide can cause serious adverse reactions.
-Instruct patients to discontinue GIMOTI and contact a healthcare provider immediately if the following serious reactions occur:
+Tardive Dyskinesia and/or other Extrapyramidal Reactions
 
-- Tardive dyskinesia and/or other extrapyramidal reactions [see Warnings and Precautions (5.1, 5.2)]
-- Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
-- Depression and/or possible suicidal ideation [see Warnings and Precautions (5.4)]
+Inform patients that GIMOTI may cause tardive dyskinesia or other extrapyramidal symptoms, parkinsonian symptoms, and motor restlessness.
+Instruct patients to immediately discontinue GIMOTI and contact their healthcare provider if symptoms occur [see Warnings and Precautions (5.1, 5.2)].
 
-Inform the patient or their caregiver that metoclopramide can cause drowsiness or dizziness, or otherwise impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle [see Warnings and Precautions (5.8)].
+Neuroleptic Malignant Syndrome
+
+Inform patients that serious neuroleptic malignant syndrome (NMS) has been reported in association with concomitant treatment with another drug associated with NMS.
+Advise patients to report all prescription and over-the-counter medications to the healthcare provider.
+Instruct patients to immediately discontinue GIMOTI and seek medical attention if symptoms occur [see Warnings and Precautions (5.3)]
+
+Depression and/or Possible Suicidal Ideation
+
+Inform patients that symptoms of new onset or worsening depression as well as suicidal ideation have been reported in patients taking metoclopramide.
+Instruct patients to immediately discontinue GIMOTI and contact their healthcare provider if any of these symptoms occur [see Warnings and Precautions (5.4)]
 
 Drug Interactions
 
 Inform the patients or their caregivers that concomitant treatment with numerous other medications can precipitate or worsen serious adverse reactions such as tardive dyskinesia or other extrapyramidal reactions, neuroleptic malignant syndrome, and CNS depression [see Drug Interactions (7.1, 7.2)].
 Explain that the prescriber of any other medication must be made aware that the patient is taking GIMOTI.
 
+Effects on the Ability to Drive and Operate Machinery
+
+Inform the patient or their caregiver that GIMOTI may cause drowsiness or dizziness, or otherwise impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle [see Warnings and Precautions (5.8)].
+
 Administration Instructions[see Dosage and Administration (2.1)]
 
-Advise the patients or their caregiver to read the Instructions for Useon how to appropriately administer GIMOTI:
+Advise the patients or their caregiver to read the Instructions for Use on how to appropriately administer GIMOTI:
 
-- Avoid treatment with metoclopramide (all dosage forms and routes of administration) for longer than 12 weeks because of the increased risk of developing TD with longer-term use [see Warnings and Precautions (5.1)].
 - One spray in one nostril administers the appropriate dose.
 - Before administering the first dose from a bottle, prime the pump by pressing down on the finger flange and releasing 10 sprays in the air.
 - Place the spray nozzle tip under one nostril and lean the head slightly forward so the tip of spray nozzle is aimed away from the septum and toward the back of the nose.

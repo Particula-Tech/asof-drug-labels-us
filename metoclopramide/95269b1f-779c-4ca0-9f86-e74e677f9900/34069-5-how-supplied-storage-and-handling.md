@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 GIMOTI (metoclopramide) nasal spray is supplied as a solution of metoclopramide in a 10 mL Type 1 amber glass bottle fitted with a metered spray pump attachment, a protective cap, and a safety clip.
-Each box of GIMOTI (NDC 72089-307-15) contains 1 bottle, with FDA-approved Patient Labeling (see Instructions for Usefor proper actuation of the device).
+Each box of GIMOTI (NDC 72089-307-15) contains 1 bottle, with FDA-approved Patient Labeling (see Instructions for Use for proper actuation of the device).
 
 Each actuation delivers 15 mg of metoclopramide.
 Each bottle contains 9.8 mL which is sufficient for 4 weeks of 4 times a day use.

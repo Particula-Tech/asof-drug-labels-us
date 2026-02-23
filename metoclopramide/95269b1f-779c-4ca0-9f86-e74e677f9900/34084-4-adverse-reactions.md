@@ -2,8 +2,8 @@
 
 The following adverse reactions are described, or described in greater detail, in other sections of the labeling:
 
-- Tardive dyskinesia [see Boxed Warningand Warnings and Precautions (5.1)]
-- Other extrapyramidal effects [see Warnings and Precautions (5.2)]
+- Tardive dyskinesia [see Boxed Warning and Warnings and Precautions (5.1)]
+- Other extrapyramidal symptoms [see Warnings and Precautions (5.2)]
 - Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
 - Depression [see Warnings and Precautions (5.4)]
 - Hypertension [see Warnings and Precautions (5.5)]

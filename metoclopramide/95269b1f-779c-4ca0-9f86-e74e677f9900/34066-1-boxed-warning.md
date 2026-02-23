@@ -1,7 +1,9 @@
-WARNING: TARDIVE DYSKINESIA
+# WARNING: TARDIVE DYSKINESIA
 
-- Metoclopramide can cause tardive dyskinesia (TD), a serious movement disorder that is often irreversible.
-  The risk of developing TD increases with duration of treatment and total cumulative dosage [see Warnings and Precautions (5.1)].
-- Discontinue GIMOTI in patients who develop signs or symptoms of TD.
-  In some patients, symptoms may lessen or resolve after metoclopramide is stopped [see Warnings and Precautions (5.1)].
-- Avoid treatment with metoclopramide (all dosage forms and routes of administration) for longer than 12 weeks because of the increased risk of developing TD with longer-term use [see Warnings and Precautions (5.1)and Dosage and Administration (2.1)].
+- Metoclopramide, including GIMOTI, can cause tardive dyskinesia (TD), a potentially irreversible serious movement disorder.
+  In patients treated with metoclopramide, including GIMOTI, the risk of developing TD increases with duration of treatment and total cumulative dosage [see Warnings and Precautions (5.1)].
+- GIMOTI is contraindicated in patients with a history of TD.
+- Use GIMOTI for the shortest duration of treatment and periodically reassess the need for continued treatment.
+- Immediately discontinue GIMOTI in patients who develop signs or symptoms of TD [see Warnings and Precautions (5.1)].
+- Avoid a total duration of treatment with metoclopramide products, including GIMOTI, for longer than 12 weeks.
+  If longer-term use is unavoidable, routinely monitor for signs and symptoms of TD [see Warnings and Precautions (5.1)].

@@ -23,9 +23,9 @@ Absorption
 
 The absolute bioavailability of metoclopramide following nasal administration of 10 mg metoclopramide is 47% in healthy subjects compared to intravenous injection of metoclopramide 10 mg.
 The systemic absorption after nasal administration is lower than that after oral administration given the same dose.
-Following nasal administration of GIMOTI 15 mg in healthy subjects, the systemic exposure (C maxand AUC) to metoclopramide and the time to reach C max(T max) were similar to orally administered 10 mg metoclopramide tablet.
+Following nasal administration of GIMOTI 15 mg in healthy subjects, the systemic exposure (C maxand AUC) to metoclopramide and the time to reach C max (T max) were similar to orally administered 10 mg metoclopramide tablet.
 
-After single nasal administration of metoclopramide at doses ranging from 10 mg to 80 mg in healthy subjects, there was a dose-proportional increase in the mean values for C maxand AUC.
+After single nasal administration of metoclopramide at doses ranging from 10 mg to 80 mg in healthy subjects, there was a dose-proportional increase in the mean values for C max and AUC.
 
 The pharmacokinetic parameters of metoclopramide in healthy subjects following a single nasal administration of GIMOTI 15 mg are summarized in Table 3.
 
@@ -63,7 +63,7 @@ The AUC of metoclopramide in patients with ESRD on dialysis was about 3.5-fold t
 
 Patients with Hepatic Impairment:In a group of 8 patients with severe hepatic impairment (Child-Pugh C), the average metoclopramide clearance was reduced by approximately 50% compared to patients with normal hepatic function after administration of oral metoclopramide [see Warnings and Precautions (5.9), Use in Specific Populations (8.7)].
 
-Sex and Body Weight:The AUC 0-tand C maxof metoclopramide were 34% and 42% higher in females than in males, respectively, following administration of metoclopramide nasal spray to healthy subjects.
+Sex and Body Weight:The AUC 0-tand C max of metoclopramide were 34% and 42% higher in females than in males, respectively, following administration of metoclopramide nasal spray to healthy subjects.
 Based on population pharmacokinetic analysis, lean body weight (34.3 to 93.5 kg) has a significant impact on metoclopramide pharmacokinetics, with lower systemic exposure expected with higher lean body weight.
 The clinical significance of these findings is unknown.
 

@@ -2,20 +2,24 @@
 
 ## 5.1 Tardive Dyskinesia
 
-Metoclopramide can cause tardive dyskinesia (TD), a syndrome of potentially irreversible and disfiguring involuntary movements of the face or tongue, and sometimes of the trunk and/or extremities.
-Movements may be choreoathetotic in appearance.
-The risk of developing TD and the likelihood that TD will become irreversible increases with duration of treatment and total cumulative dosage.
-Additionally, the risk of developing TD is increased among the elderly, especially elderly women [see Use in Specific Populations (8.5)], and in patients with diabetes mellitus.
-Due to the risk of developing TD, avoid treatment with metoclopramide for longer than 12 weeks.
-GIMOTI is not recommended in geriatric patients as initial therapy [see Dosage and Administration (2.2)].
-
-Discontinue GIMOTI immediately in patients who develop signs and symptoms of TD.
-Consider treatment for established cases of TD, although in some patients TD may remit, partially or completely, within several weeks to months after GIMOTI is withdrawn.
-
-Metoclopramide itself may suppress, or partially suppress, the signs of TD, thereby masking the underlying disease process.
+Metoclopramide, including GIMOTI, can cause tardive dyskinesia (TD), a syndrome of potentially irreversible and disfiguring involuntary movements of the face or tongue, and sometimes of the trunk and/or extremities.
+Metoclopramide, including GIMOTI, may also suppress, or partially suppress, the signs of TD, and may delay the diagnosis of TD because it may mask the underlying disease process.
 The effect of this symptomatic suppression upon the long-term course of TD is unknown.
-GIMOTI is contraindicated in patients with a history of TD [see Contraindications (4)].
-Avoid GIMOTI in patients receiving other drugs that are likely to cause TD (e.g., antipsychotics).
+TD may remit, partially or completely, if GIMOTI treatment is discontinued.
+
+In patients treated with metoclopramide, including GIMOTI, the risk of developing TD and the likelihood that TD will become irreversible increases with duration of treatment and total cumulative dosage.
+Additionally, the risk of developing TD is increased in elderly patients, especially in elderly women [see Use in Specific Populations (8.5)], and in patients with diabetes mellitus.
+
+Prevention, Mitigation, and Monitoring for TD
+
+- GIMOTI is contraindicated in patients with a history of TD.
+- Avoid use of GIMOTI in patients receiving concomitant antipsychotics due to the potential additive effects of TD [see Drug Interactions (7.1)].
+- GIMOTI is not recommended in geriatric patients as initial therapy [see Dosage and Administration (2.2)].
+- Use GIMOTI for the shortest duration of treatment and periodically reassess the need for continued treatment.
+- Immediately discontinue GIMOTI immediately in patients who develop signs and symptoms of TD.
+- Avoid a total duration of treatment with metoclopramide products, including GIMOTI, for longer than 12 weeks.
+  If longer-term use is unavoidable, routinely monitor for signs and symptoms of TD.
+- If patients have continued TD symptoms, consider TD treatment.
 
 ## 5.2 Other Extrapyramidal Symptoms
 
@@ -32,8 +36,9 @@ Advise patients to seek immediate medical attention if such symptoms occur and t
   Avoid GIMOTI in patients receiving other drugs that can cause EPS (e.g., antipsychotics).
 - Parkinsonian symptoms (bradykinesia, tremor, cogwheel rigidity, mask-like facies) have occurred after starting metoclopramide, more commonly within the first 6 months, but also after longer periods.
   Symptoms generally have subsided within 2 to 3 months after discontinuation of metoclopramide.
-  Avoid GIMOTI in patients with Parkinson's disease and other patients being treated with antiparkinsonian drugs due to potential exacerbation of symptoms.
-  Avoid treatment with metoclopramide (all dosage forms and routes of administration) for more than 12 weeks [see Dosage and Administration (2.1), Warnings and Precautions (5.1)].
+  Avoid GIMOTI in patients with Parkinson’s disease and other patients being treated with antiparkinsonian drugs due to potential exacerbation of symptoms.
+  If treatment is unavoidable, use GIMOTI for the shortest duration of treatment and periodically reassess the need for continued treatment.
+  Routinely monitor for signs and symptoms of Parkinson’s disease [see Dosage and Administration (2.2)].
 - Motor restlessness (akathisia) has developed and consisted of feelings of anxiety, agitation, jitteriness, and insomnia, as well as inability to sit still, pacing, and foot tapping.
   Discontinue GIMOTI if these symptoms develop.
 
