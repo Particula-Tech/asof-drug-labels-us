@@ -22,11 +22,10 @@ Advise patients not to drive or use machines until this has been resolved.
 
 Manufactured For:
 
-Alimera Sciences, Inc. 6310 Town Square, Suite 400 Alpharetta, GA 30005 www.alimerasciences.com
+Alimera Sciences, Inc. Baudette, MN 56623 www.alimerasciences.com
 
 Alimera
 
 Manufactured by:
 
-EyePoint Pharmaceuticals US, Inc. 480 Pleasant Street Watertown, MA 02472 USA Patented.
-See https://eyepointpharma.com/patent-notification/
+EyePoint US, Inc. 480 Pleasant Street Watertown, MA 02472 USA Patented.
