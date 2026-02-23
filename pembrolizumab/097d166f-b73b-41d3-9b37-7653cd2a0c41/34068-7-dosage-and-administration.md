@@ -2,8 +2,8 @@
 
 ## 2.1 Patient Selection
 
-See information on FDA-approved tests for intravenous pembrolizumab.
-Information on FDA-approved tests for patient selection is available at: http://www.fda.gov/CompanionDiagnostics.
+See information on FDA-authorized tests for intravenous pembrolizumab.
+Information on FDA-authorized tests for patient selection is available at: http://www.fda.gov/CompanionDiagnostics.
 
 Patient Selection for Single-Agent Treatment
 
@@ -23,8 +23,8 @@ Because subclonal dMMR mutations and microsatellite instability may arise in hig
 
 Additional Patient Selection Information for MSI-H or dMMR in Patients with non-CRC Solid Tumors
 
-Due to discordance between local tests and FDA-approved tests, confirmation of MSI-H or dMMR status is recommended by an FDA-approved test in patients with MSI-H or dMMR solid tumors, if feasible.
-If unable to perform confirmatory MSI-H/dMMR testing, the presence of TMB ≥10 mut/Mb, as determined by an FDA-approved test, may be used to select patients for treatment [see Clinical Studies (14.7)].
+Due to discordance between local tests and FDA-authorized tests, confirmation of MSI-H or dMMR status is recommended by an FDA-authorized test in patients with MSI-H or dMMR solid tumors, if feasible.
+If unable to perform confirmatory MSI-H/dMMR testing, the presence of TMB ≥10 mut/Mb, as determined by an FDA-authorized test, may be used to select patients for treatment [see Clinical Studies (14.7)].
 
 Patient Selection for Combination Therapy
 
@@ -32,13 +32,15 @@ For use of KEYTRUDA QLEX as a single agent as neoadjuvant treatment, then in com
 
 For use of KEYTRUDA QLEX in combination with chemotherapy, select patients based on the presence of positive PD-L1 expression (CPS ≥1) in locally advanced unresectable or metastatic gastric or gastroesophageal junction (GEJ) adenocarcinoma, and esophageal or gastroesophageal junction (GEJ) carcinoma [see Clinical Studies (14.9), (14.10)].
 
-- An FDA-approved test for the detection of PD-L1 for the selection of patients with PD-L1 (CPS ≥1) expression in esophageal carcinoma in combination with platinum- and fluoropyrimidine-based chemotherapy is not available.
+- An FDA-authorized test for the detection of PD-L1 for the selection of patients with PD-L1 (CPS ≥1) expression in esophageal carcinoma in combination with platinum- and fluoropyrimidine-based chemotherapy is not available.
 
 For use of KEYTRUDA QLEX in combination with chemotherapy, with or without bevacizumab, select patients based on the presence of positive PD-L1 expression in persistent, recurrent, or metastatic cervical cancer [see Clinical Studies (14.11)].
 
 For the pMMR/not MSI-H advanced endometrial carcinoma indication, select patients for treatment with KEYTRUDA QLEX in combination with lenvatinib based on MMR or MSI status in tumor specimens [see Clinical Studies (14.16)].
 
 For use of KEYTRUDA QLEX in combination with chemotherapy, select patients based on the presence of positive PD-L1 expression in locally recurrent unresectable or metastatic TNBC [see Clinical Studies (14.19)].
+
+For use of KEYTRUDA QLEX in combination with paclitaxel, with or without bevacizumab, select patients based on the presence of positive PD-L1 expression (CPS ≥1) in platinum-resistant epithelial ovarian, fallopian tube, or primary peritoneal carcinoma [see Clinical Studies (14.20)].
 
 ## 2.2 Important Dosage and Administration Information
 
@@ -88,6 +90,7 @@ Table 1: Recommended Dosage
 | Adult patients with Endometrial Carcinoma | 395 mg/4,800 units every 3 weeks or 790 mg/9,600 units every 6 weeks Administer KEYTRUDA QLEX prior to carboplatin and paclitaxel when given on the same day. or Administer KEYTRUDA QLEX in combination with lenvatinib 20 mg orally once daily. | Until disease progression, unacceptable toxicity, or for KEYTRUDA QLEX, up to 24 months |
 | Adult patients with high-risk early-stage TNBC | 395 mg/4,800 units every 3 weeks or 790 mg/9,600 units every 6 weeks Administer KEYTRUDA QLEX prior to chemotherapy when given on the same day. | Neoadjuvant treatment in combination with chemotherapy for 24 weeks (8 doses of 395 mg/4,800 units every 3 weeks or 4 doses of 790 mg/9,600 units every 6 weeks) or until disease progression or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA QLEX as a single agent for up to 27 weeks (9 doses of 395 mg/4,800 units every 3 weeks or 5 doses of 790 mg/9,600 units every 6 weeks) or until disease recurrence or unacceptable toxicityPatients who experience disease progression or unacceptable toxicity related to KEYTRUDA QLEX with neoadjuvant treatment in combination with chemotherapy should not receive adjuvant single agent KEYTRUDA QLEX. |
 | Adult patients with locally recurrent unresectable or metastatic TNBC | 395 mg/4,800 units every 3 weeks or 790 mg/9,600 units every 6 weeks Administer KEYTRUDA QLEX prior to chemotherapy when given on the same day. | Until disease progression, unacceptable toxicity, or up to 24 months |
+| Adult patients with Ovarian Cancer | 395 mg/4,800 units every 3 weeks or 790 mg/9,600 units every 6 weeks Administer KEYTRUDA QLEX prior to paclitaxel with or without bevacizumab when given on the same day. | Until disease progression, unacceptable toxicity, or up to 24 months |
 
 ## 2.4 Dosage Modifications
 

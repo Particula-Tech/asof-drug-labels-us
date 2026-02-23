@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-authorized patient labeling (Medication Guide).
 
 Immune-Mediated Adverse Reactions
 

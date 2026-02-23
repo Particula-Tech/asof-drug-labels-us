@@ -102,5 +102,6 @@ Below is a description of geriatric use information from the intravenous pembrol
   The incidence of fatal adverse reactions was 4% in patients younger than 75 and 12% in patients 75 years or older.
 - Of the 432 patients randomized to intravenous pembrolizumab in combination with axitinib in the KEYNOTE-426 trial, 40% were 65 years or older.
 - Of 294 adult patients with FIGO 2014 Stage III-IVA cervical cancer who were treated with intravenous pembrolizumab in combination with CRT in KEYNOTE-A18, 42 (14%) were 65 years and over.
+- Of 643 adult patients with ovarian cancer who were treated with intravenous pembrolizumab in combination with paclitaxel with or without bevacizumab in KEYNOTE-B96, 236 (37%) were 65 years and over and 58 (9%) were 75 years and over.
 
 No overall differences in safety or effectiveness were observed between intravenous pembrolizumab-treated patients aged 65 years or older and younger adult patients.

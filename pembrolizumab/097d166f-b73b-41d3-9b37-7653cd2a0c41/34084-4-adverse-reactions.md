@@ -22,7 +22,7 @@ The most common adverse reactions (≥20%) in patients who received intravenous 
 
 - as a single agent: fatigue, musculoskeletal pain, rash, diarrhea, pyrexia, cough, decreased appetite, pruritus, dyspnea, constipation, pain, abdominal pain, nausea, and hypothyroidism.
 - in combination with chemotherapy or chemoradiotherapy: fatigue/asthenia, nausea, constipation, diarrhea, decreased appetite, rash, vomiting, cough, dyspnea, pyrexia, alopecia, peripheral neuropathy, mucosal inflammation, stomatitis, headache, weight loss, abdominal pain, arthralgia, myalgia, insomnia, palmar-plantar erythrodysesthesia, urinary tract infection, hypothyroidism, radiation skin injury, dysphagia, dry mouth, and musculoskeletal pain.
-- in combination with chemotherapy and bevacizumab: peripheral neuropathy, alopecia, anemia, fatigue/asthenia, nausea, neutropenia, diarrhea, hypertension, thrombocytopenia, constipation, arthralgia, vomiting, urinary tract infection, rash, leukopenia, hypothyroidism, and decreased appetite.
+- in combination with chemotherapy and bevacizumab: peripheral neuropathy, alopecia, anemia, fatigue/asthenia, nausea, neutropenia, diarrhea, hypertension, thrombocytopenia, constipation, arthralgia, vomiting, urinary tract infection, rash, leukopenia, hypothyroidism, decreased appetite, pyrexia, epistaxis, decreased white blood cell count, and stomatitis.
 - in combination with axitinib: diarrhea, fatigue/asthenia, hypertension, hepatotoxicity, hypothyroidism, decreased appetite, palmar-plantar erythrodysesthesia, nausea, stomatitis/mucosal inflammation, dysphonia, rash, cough, and constipation.
 - in combination with lenvatinib: hypothyroidism, hypertension, fatigue, diarrhea, musculoskeletal disorders, nausea, decreased appetite, vomiting, stomatitis, weight loss, abdominal pain, urinary tract infection, proteinuria, constipation, headache, hemorrhagic events, palmar-plantar erythrodysesthesia, dysphonia, rash, hepatotoxicity, and acute kidney injury.
 - in combination with enfortumab vedotin: rash, peripheral neuropathy, fatigue, pruritus, diarrhea, alopecia, weight loss, decreased appetite, dry eye, nausea, constipation, dysgeusia, and urinary tract infection.
@@ -1030,7 +1030,7 @@ Patients received intravenous pembrolizumab in combination with enfortumab vedot
 
 For the 167 patients who received intravenous pembrolizumab in the neoadjuvant phase, the median duration of exposure to intravenous pembrolizumab 200 mg every 3 weeks was 1.4 months (range: 1 day to 2.7 months) and the median number of cycles of intravenous pembrolizumab was 3 (range: 1 to 3) out of the planned 3 cycles in the neoadjuvant phase.
 For the 96 patients who received intravenous pembrolizumab in the adjuvant phase, the median duration of exposure to intravenous pembrolizumab 200 mg every 3 weeks was 8.5 months (range: 1 day to 12.9 months) and the median number of cycles of intravenous pembrolizumab was 12 (range: 1 to 14) out of the planned 14 cycles in the adjuvant phase.
-Across the combined neoadjuvant and adjuvant phases (n=167), the median number of cycles of intravenous pembrolizumab was 5 (range: 1, 17) out of the planned 17 cycles.
+Across the combined neoadjuvant and adjuvant phases (n=167), the median number of cycles of intravenous pembrolizumab was 5 (range: 1 to 17) out of the planned 17 cycles.
 
 Tables 29 and 30 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in combination with enfortumab vedotin in KEYNOTE-905.
 
@@ -1040,7 +1040,7 @@ Table 29: Adverse Reactions ≥20% (All Grades) in Patients Treated with Intrave
 | --- | --- | --- | --- | --- |
 | Adverse Reaction | Intravenous Pembrolizumab 200 mg every 3 weeks in combination with enfortumab vedotin before and after RC with PLND n=167 |  | RC with PLND alone n=159 |  |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
-| RashIncludes multiple terms., Includes rash, rash maculo-papular, conjunctivitis, erythema, eczema, skin exfoliation, palmar-plantar erythrodysaesthesia syndrome, blister, dermatitis, dermatitis exfoliative generalized, exfoliative rash, rash popular, rash pruritic, dermatitis bullous, drug eruption, pemphigoid, rash vesicular, and dermatitis contact. | 54 | 7 | 1.3 | 0 |
+| RashIncludes multiple terms., Includes rash, rash maculo-papular, conjunctivitis, erythema, eczema, skin exfoliation, palmar-plantar erythrodysesthesia syndrome, blister, dermatitis, dermatitis exfoliative generalized, exfoliative rash, rash papular, rash pruritic, dermatitis bullous, drug eruption, pemphigoid, rash vesicular, and dermatitis contact. | 54 | 7 | 1.3 | 0 |
 | Pruritus | 47 | 3 | 0 | 0 |
 | Alopecia | 35 | 0.6 | 0 | 0 |
 | General disorders and administration site conditions |  |  |  |  |
@@ -2136,6 +2136,26 @@ Table 56: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 | Hyponatremia | 28 | 5 | 26 | 6 |
 | Hypophosphatemia | 21 | 7 | 18 | 4.8 |
 | Hypokalemia | 20 | 4.4 | 18 | 4.0 |
+
+Ovarian Cancer
+
+The safety of intravenous pembrolizumab in combination with paclitaxel with or without bevacizumab was evaluated in 463 patients with epithelial ovarian, fallopian tube, or primary peritoneal carcinoma whose tumors express PD-L1 (CPS ≥1) enrolled in KEYNOTE-B96 [see Clinical Studies (14.20)].
+Among patients who received intravenous pembrolizumab, the median duration of exposure was 7.4 months (range: 1 day to 35.9 months).
+
+Serious adverse reactions occurred in 54% of patients receiving intravenous pembrolizumab and paclitaxel with or without bevacizumab.
+Serious adverse reactions in ≥2% of patients were pneumonia (4.3%), urinary tract infection (3.9%), adrenal insufficiency (3%), hyponatremia (3%), COVID-19 (2.6%), decreased neutrophil count (2.6%), pulmonary embolism (2.6%), abdominal pain (2.1%), anemia (2.1%), colitis (2.1%), diarrhea (2.1%), febrile neutropenia (2.1%), pyrexia (2.1%) and vomiting (2.1%).
+
+Fatal adverse reactions occurred in 3.9% of patients receiving intravenous pembrolizumab and paclitaxel with or without bevacizumab, including assisted suicide (0.9%), death (0.4%), intestinal perforation (0.4%), sepsis (0.4%), COVID-19 (0.4%), cardio-respiratory arrest (0.4%), colitis (0.4%), and embolic stroke (0.4%).
+
+Intravenous pembrolizumab was permanently discontinued for adverse reactions in 16% of patients.
+The most common adverse reactions resulting in permanent discontinuation of intravenous pembrolizumab (≥1%) were colitis (1.3%) and increased alanine aminotransferase (1.3%).
+Adverse reactions leading to the interruption of intravenous pembrolizumab occurred in 44% of patients.
+The most common adverse reactions leading to interruption of intravenous pembrolizumab in ≥2% were urinary tract infection (3.9%), adrenal insufficiency (2.6%), pyrexia (2.6%), pneumonitis (2.6%), upper respiratory tract infection (2.6%), neutropenia (2.1%), diarrhea (2.1%) and COVID-19 (2.1%).
+
+The most common (≥20%) adverse reactions for patients treated with intravenous pembrolizumab in combination with paclitaxel with or without bevacizumab were: diarrhea (45%), fatigue (43%), nausea (41%), alopecia (38%), peripheral neuropathy (38%), epistaxis (31%), urinary tract infection (27%), constipation (25%), abdominal pain (24%), decreased appetite (24%), vomiting (24%), hypothyroidism (21%), cough (20%), hypertension (20%), and rash (20%).
+The most common (≥20%) laboratory abnormalities worsening from baseline were: anemia (85%), leukopenia (82%), decreased neutrophil count (71%), lymphopenia (60%), hypoalbuminemia (50%), hyponatremia (53%), hypomagnesemia (45%), increased aspartate aminotransferase (43%), increased alanine aminotransferase (40%), hypocalcemia(40%), increased alkaline phosphatase (31%), increased creatinine (29%), hypokalemia (27%) and neutropenia (21%).
+
+For patients treated with intravenous pembrolizumab in combination with paclitaxel and bevacizumab (N=169), decreased white blood cell count (27%), stomatitis (22%) and pyrexia (21%) were also reported as adverse reactions.
 
 ## 6.2 Postmarketing Experience
 
