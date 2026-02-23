@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA220142"
+  ],
+  "inn": "brimonidine",
+  "labeler": "Visus Therapeutics, Inc.",
+  "package_ndcs": [
+    "84892-275-01",
+    "84892-275-02",
+    "84892-275-30",
+    "84892-275-99"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "carbachol and brimonidine tartrate",
+      "name": "YUVEZZI"
+    }
+  ],
+  "setid": "68198098-0f33-458f-83b8-eb2a5ec69012",
+  "source": "dailymed"
+}
