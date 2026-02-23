@@ -263,7 +263,7 @@ First-line treatment of metastatic NSCLC with PD-L1 expression (TPS≥ 1%) as a 
 KEYNOTE-042
 
 The efficacy of KEYTRUDA was investigated in KEYNOTE-042 (NCT02220894), a randomized, multicenter, open-label, active-controlled trial conducted in 1274 patients with Stage III NSCLC who were not candidates for surgical resection or definitive chemoradiation, or patients with metastatic NSCLC.
-Only patients whose tumors expressed PD-L1 (TPS ≥1%) by an immunohistochemistry assay using the PD-L1 IHC 22C3 pharmDx kit and who had not received prior systemic treatment for metastatic NSCLC were eligible.
+Only patients whose tumors expressed PD-L1 (TPS ≥1%) by an immunohistochemistry assay using the PD-L1 IHC 22C3 pharmDx assay and who had not received prior systemic treatment for metastatic NSCLC were eligible.
 Patients with EGFR or ALK genomic tumor aberrations; autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of radiation in the thoracic region within the prior 26 weeks of initiation of study were ineligible.
 Randomization was stratified by ECOG PS (0 vs. 1), histology (squamous vs. nonsquamous), geographic region (East Asia vs. non-East Asia), and PD-L1 expression (TPS ≥50% vs. TPS 1 to 49%).
 Patients were randomized (1:1) to receive KEYTRUDA 200 mg intravenously every 3 weeks or investigator's choice of either of the following platinum-containing chemotherapy regimens:
@@ -319,7 +319,7 @@ In a pre-specified exploratory subgroup analysis for patients with TPS 1-49% NSC
 KEYNOTE-024
 
 The efficacy of KEYTRUDA was also investigated in KEYNOTE-024 (NCT02142738), a randomized, multicenter, open-label, active-controlled trial in 305 previously untreated patients with metastatic NSCLC.
-The study design was similar to that of KEYNOTE-042, except that only patients whose tumors had high PD-L1 expression (TPS of 50% or greater) by an immunohistochemistry assay using the PD-L1 IHC 22C3 pharmDx kit were eligible.
+The study design was similar to that of KEYNOTE-042, except that only patients whose tumors had high PD-L1 expression (TPS of 50% or greater) by an immunohistochemistry assay using the PD-L1 IHC 22C3 pharmDx assay were eligible.
 Patients were randomized (1:1) to receive KEYTRUDA 200 mg intravenously every 3 weeks or investigator's choice of any of the following platinum-containing chemotherapy regimens:
 
 - Pemetrexed 500 mg/m2 every 3 weeks and carboplatin AUC 5 to 6 mg/mL/min every 3 weeks on Day 1 for 4 to 6 cycles followed by optional pemetrexed 500 mg/m2 every 3 weeks for patients with nonsquamous histologies;
@@ -365,7 +365,7 @@ Table 68: Efficacy Results in KEYNOTE-024
 Previously treated NSCLC with PD-L1 expression (TPS≥ 1%)
 
 The efficacy of KEYTRUDA was investigated in KEYNOTE-010 (NCT01905657), a randomized, multicenter, open-label, active-controlled trial conducted in 1033 patients with metastatic NSCLC that had progressed following platinum-containing chemotherapy, and if appropriate, targeted therapy for EGFR or ALK genomic tumor aberrations.
-Eligible patients had PD-L1 expression TPS of 1% or greater by an immunohistochemistry assay using the PD-L1 IHC 22C3 pharmDx kit.
+Eligible patients had PD-L1 expression TPS of 1% or greater by an immunohistochemistry assay using the PD-L1 IHC 22C3 pharmDx assay.
 Patients with autoimmune disease; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
 Randomization was stratified by tumor PD-L1 expression (PD-L1 expression TPS ≥50% vs. PD-L1 expression TPS=1-49%), ECOG PS (0 vs. 1), and geographic region (East Asia vs. non-East Asia).
 Patients were randomized (1:1:1) to receive KEYTRUDA 2 mg/kg intravenously every 3 weeks, KEYTRUDA 10 mg/kg intravenously every 3 weeks or docetaxel intravenously 75 mg/m2 every 3 weeks until unacceptable toxicity or disease progression.
@@ -564,7 +564,7 @@ Neoadjuvant and Adjuvant Treatment of Locally Advanced HNSCC for Tumors Expressi
 
 The efficacy of KEYTRUDA was investigated in KEYNOTE-689 (NCT02358031), a randomized, multicenter, open-label, active-controlled trial conducted in 714 patients with resectable locally advanced (Stage III-IVA) HNSCC [AJCC, 8th edition].
 Patients with active autoimmune disease requiring systemic therapy within two years of treatment or a medical condition that required immunosuppression were ineligible.
-Randomization was stratified by primary tumor site (oropharynx/oral cavity vs. larynx vs. hypopharynx), tumor stage (III vs. IVA) and PD-L1 status (TPS ≥ 50% vs. TPS<50%) according to the PD-L1 IHC 22C3 pharmDx kit.
+Randomization was stratified by primary tumor site (oropharynx/oral cavity vs. larynx vs. hypopharynx), tumor stage (III vs. IVA) and PD-L1 status (TPS ≥ 50% vs. TPS<50%) according to the PD-L1 IHC 22C3 pharmDx assay.
 
 Patients were randomized (1:1) to one of the following treatment arms:
 
@@ -597,7 +597,7 @@ On the SoC arm, 52% of patients received cisplatin with concurrent RT while 48% 
 The trial demonstrated a statistically significant improvement in EFS for patients randomized to the KEYTRUDA arm compared to those randomized to the standard of care (SOC) arm at the first pre-specified interim analysis.
 Table 74 and Figure 13 summarize efficacy results in KEYNOTE-689 for patients with HNSCC CPS ≥1.
 
-Table 74 Efficacy Results for Perioperative KEYTRUDA with adjuvant RT with or without cisplatin in Patients with HNSCC CPS ≥1 inKEYNOTE-689
+Table 74: Efficacy Results for Perioperative KEYTRUDA with adjuvant RT with or without cisplatin in Patients with HNSCC CPS ≥1 in KEYNOTE-689
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks with RT with or without cisplatin n=347 | RT with or without cisplatin n=335 |
 | --- | --- | --- |
@@ -624,7 +624,7 @@ First-line treatment of metastatic or unresectable, recurrent HNSCC
 
 The efficacy of KEYTRUDA was investigated in KEYNOTE-048 (NCT02358031), a randomized, multicenter, open-label, active-controlled trial conducted in 882 patients with metastatic HNSCC who had not previously received systemic therapy for metastatic disease or with recurrent disease who were considered incurable by local therapies.
 Patients with active autoimmune disease that required systemic therapy within two years of treatment or a medical condition that required immunosuppression were ineligible.
-Randomization was stratified by tumor PD-L1 expression (TPS ≥50% or <50%) according to the PD-L1 IHC 22C3 pharmDx kit, HPV status according to p16 IHC (positive or negative), and ECOG PS (0 vs. 1).
+Randomization was stratified by tumor PD-L1 expression (TPS ≥50% or <50%) according to the PD-L1 IHC 22C3 pharmDx assay, HPV status according to p16 IHC (positive or negative), and ECOG PS (0 vs. 1).
 Patients were randomized 1:1:1 to one of the following treatment arms:
 
 - KEYTRUDA 200 mg intravenously every 3 weeks
@@ -634,7 +634,7 @@ Patients were randomized 1:1:1 to one of the following treatment arms:
 Treatment with KEYTRUDA continued until RECIST v1.1-defined progression of disease as determined by the investigator, unacceptable toxicity, or a maximum of 24 months.
 Administration of KEYTRUDA was permitted beyond RECIST-defined disease progression if the patient was clinically stable and considered to be deriving clinical benefit by the investigator.
 Assessment of tumor status was performed at Week 9 and then every 6 weeks for the first year, followed by every 9 weeks through 24 months.
-A retrospective re-classification of patients' tumor PD-L1 status according to CPS using the PD-L1 IHC 22C3 pharmDx kit was conducted using the tumor specimens used for randomization.
+A retrospective re-classification of patients' tumor PD-L1 status according to CPS using the PD-L1 IHC 22C3 pharmDx assay was conducted using the tumor specimens used for randomization.
 
 The main efficacy outcome measures were OS and PFS as assessed by BICR according to RECIST v1.1 (modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ) sequentially tested in the subgroup of patients with CPS ≥20, the subgroup of patients with CPS ≥1, and the overall population.
 
@@ -1001,7 +1001,7 @@ Table 83: Efficacy Results in KEYNOTE-045
 Neoadjuvant and Adjuvant Treatment of Cisplatin-Ineligible Patients with MIBC in Combination with Enfortumab Vedotin
 
 The efficacy of KEYTRUDA in combination with enfortumab vedotin as neoadjuvant treatment and continued after radical cystectomy as adjuvant treatment was investigated in KEYNOTE-905 (NCT03924895), an open-label, randomized, multicenter, active-controlled trial in patients with previously untreated MIBC with predominant urothelial carcinoma histology and who were candidates for radical cystectomy (RC) with pelvic lymph node dissection (PLND) but were ineligible for or declined cisplatin-based chemotherapy.
-The study excluded patients with primary non-bladder urothelial cancer (i.e., cancer of the ureter, urethral, or renal pelvis) and those with active autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression.
+The study excluded patients with primary non-bladder urothelial cancer (i.e., cancer of the ureter, urethra, or renal pelvis) and those with active autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression.
 
 Randomization was stratified by tumor stage (T2N0 vs T3/T4aN0 vs T1-T4aN1), cisplatin-eligibility (cisplatin-ineligible vs cisplatin-eligible but declined), and geographic region (United States vs European Union vs Rest of World).
 
@@ -1014,7 +1014,7 @@ Treatment continued until completion of study medications, disease progression, 
 Assessment of tumor status, including CT/MRI, was performed at baseline, within 5 weeks prior to RC and PLND, and at 6 weeks post-radical cystectomy.
 Following RC and PLND, assessment of tumor status, including cystoscopy and urine cytology for patients who did not undergo surgery, was performed every 12 weeks up to 2 years, and every 24 weeks thereafter.
 
-The study population characteristics were: median age of 73 years (range: 46 to 87 years); 78% male; 78% White, 16% Asian, 3.2% Multiple, 1.2% Black or African American, 0.3% American Indian or Alaska Native, and 1.2% missing; 6% Hispanic or Latino, 91% not Hispanic or Latino, and 2.9% not reported; 57% had ECOG PS of 0, 29% had ECOG PS of 1, and 14% had ECOG PS of 2; 18% were T2N0, 77% T3/T4aN0, and 4.9% T1T4aN1.
+The study population characteristics were: median age of 73 years (range: 46 to 87 years); 78% male; 78% White, 16% Asian, 3.2% Multiple, 1.2% Black or African American, 0.3% American Indian or Alaska Native, and 1.2% missing; 6% Hispanic or Latino, 91% not Hispanic or Latino, and 2.9% not reported; 57% had ECOG PS of 0, 29% had ECOG PS of 1, and 14% had ECOG PS of 2; 18% were T2N0, 77% T3/T4aN0, and 4.9% T1-T4aN1.
 Ninety-one percent of patients had pure urothelial carcinoma histology; 4.4% had urothelial carcinoma with squamous differentiation, 2.6% had urothelial carcinoma with glandular differentiation, and 2% had urothelial carcinoma with other variant histology.
 Among the 281 patients who were ineligible for cisplatin, 72% had baseline creatinine clearance of 30-59 mL/min, 17% had ECOG PS of 2, 21% had Grade 2 or greater hearing loss, 3.9% had New York Heart Association Class III heart failure, and 13% met more than one cisplatin-ineligibility criterion.
 
@@ -1151,8 +1151,8 @@ Table 87: Response by Tumor Type
 
 Exploratory analysis by TMB
 
-In an exploratory analysis performed in 138 patients (Cohort K of KEYNOTE-158) who were tested retrospectively for tumor mutation burden (TMB) using an FDA-approved test, 45 (33%) had tumors with TMB score of <10 mut/Mb; ORR in these 45 patients was 6.7% (95% CI: 1.4, 18.3).
-Among the 45 patients with TMB score of <10 mut/Mb, 39 of the patients were pMMR/not MSI-H when tested using an FDA-approved test.
+In an exploratory analysis performed in 138 patients (Cohort K of KEYNOTE-158) who were tested retrospectively for tumor mutation burden (TMB) using an FDA-authorized test, 45 (33%) had tumors with TMB score of <10 mut/Mb; ORR in these 45 patients was 6.7% (95% CI: 1.4, 18.3).
+Among the 45 patients with TMB score of <10 mut/Mb, 39 of the patients were pMMR/not MSI-H when tested using an FDA-authorized test.
 
 ## 14.9 Microsatellite Instability-High or Mismatch Repair Deficient Colorectal Cancer
 
@@ -1214,7 +1214,7 @@ Table 88: Efficacy Results in Patients with MSI-H or dMMR CRC in KEYNOTE-177
 First-line Treatment of Locally Advanced Unresectable or Metastatic HER2-Positive Gastric or Gastroesophageal Junction Adenocarcinoma for Tumors Expressing PD-L1 (CPS≥1)
 
 The efficacy of KEYTRUDA in combination with trastuzumab plus fluoropyrimidine and platinum chemotherapy was investigated in KEYNOTE-811 (NCT03615326), a multicenter, randomized, double-blind, placebo-controlled trial that enrolled 698 patients with HER2-positive advanced gastric or gastroesophageal junction (GEJ) adenocarcinoma who had not previously received systemic therapy for metastatic disease.
-PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx™ kit.
+PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay.
 Patients with an autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
 Randomization was stratified by PD-L1 expression (CPS ≥1 or CPS <1), chemotherapy regimen (5-FU plus cisplatin [FP] or capecitabine plus oxaliplatin [CAPOX]), and geographic region (Europe/Israel/North America/Australia, Asia, or Rest of the World).
 Patients were randomized (1:1) to one of the following treatment arms:
@@ -1230,7 +1230,7 @@ The major outcome measures assessed were PFS by BICR using RECIST v1.1, modified
 Additional outcome measures included ORR and DoR, based on BICR using RECIST 1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
 
 Among the 698 patients, randomized, 594 (85%) had tumors that expressed PD-L1 with a CPS ≥1.
-PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx™ kit.
+PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay.
 The population characteristics of these 594 patients were: median age of 63 years (range: 19 to 85), 43% age 65 or older; 80% male; 63% White, 33% Asian, and 0.7% Black; 42% ECOG PS of 0 and 58% ECOG PS of 1.
 Ninety-eight percent of patients had metastatic disease (Stage IV) and 2% had locally advanced unresectable disease.
 Ninety-five percent (n=562) had tumors that were not MSI-H, 1% (n=8) had tumors that were MSI-H, and in 4% (n=24) the status was not known.
@@ -1253,7 +1253,7 @@ Table 89: Efficacy Results for KEYNOTE-811 with PD-L1 Expression CPS ≥1
 | Median in months (95% CI) | 10.9 (8.5, 12.5) | 7.3 (6.8, 8.4) |
 | Hazard ratio (95% CI) | 0.72 (0.60, 0.87) |  |
 | Objective Response Rate |  |  |
-| ORRResponse: Best objective response as confirmed complete (95% CI) | 73% (68, 78) | 58% (53, 64) |
+| ORRResponse: Best objective response as confirmed complete response or partial response (95% CI) | 73% (68, 78) | 58% (53, 64) |
 | Complete response rate | 17% | 10% |
 | Partial response rate | 56% | 48% |
 | Duration of Response | n=218 | n=173 |
@@ -1320,7 +1320,7 @@ First-line Treatment of Locally Advanced Unresectable or Metastatic Esophageal/G
 KEYNOTE-590
 
 The efficacy of KEYTRUDA was investigated in KEYNOTE-590 (NCT03189719), a multicenter, randomized, placebo-controlled trial that enrolled 749 patients with metastatic or locally advanced esophageal or gastroesophageal junction (tumors with epicenter 1 to 5 centimeters above the GEJ) carcinoma who were not candidates for surgical resection or definitive chemoradiation.
-PD-L1 status was centrally determined in tumor specimens in all patients using the PD-L1 IHC 22C3 pharmDx kit.
+PD-L1 status was centrally determined in tumor specimens in all patients using the PD-L1 IHC 22C3 pharmDx assay.
 Patients with active autoimmune disease, a medical condition that required immunosuppression, or who received prior systemic therapy in the locally advanced or metastatic setting were ineligible.
 Randomization was stratified by tumor histology (squamous cell carcinoma vs. adenocarcinoma), geographic region (Asia vs. ex-Asia), and ECOG performance status (0 vs. 1).
 
@@ -1376,7 +1376,7 @@ KEYNOTE-181
 
 The efficacy of KEYTRUDA was investigated in KEYNOTE-181 (NCT02564263), a multicenter, randomized, open-label, active-controlled trial that enrolled 628 patients with recurrent locally advanced or metastatic esophageal cancer who progressed on or after one prior line of systemic treatment for advanced disease.
 Patients with HER2/neu positive esophageal cancer were required to have received treatment with approved HER2/neu targeted therapy.
-All patients were required to have tumor specimens for PD-L1 testing at a central laboratory; PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx kit.
+All patients were required to have tumor specimens for PD-L1 testing at a central laboratory; PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay.
 Patients with a history of non-infectious pneumonitis that required steroids or current pneumonitis, active autoimmune disease, or a medical condition that required immunosuppression were ineligible.
 
 Patients were randomized (1:1) to receive either KEYTRUDA 200 mg every 3 weeks or investigator's choice of any of the following chemotherapy regimens, all given intravenously: paclitaxel 80-100 mg/m2 on Days 1, 8, and 15 of every 4-week cycle, docetaxel 75 mg/m2 every 3 weeks, or irinotecan 180 mg/m2 every 2 weeks.
@@ -1547,7 +1547,7 @@ Assessment of tumor status was performed every 9 weeks for the first 12 months, 
 The major efficacy outcome measures were ORR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ, as assessed by BICR, and DoR.
 
 Among the 98 patients in Cohort E, 77 (79%) had tumors that expressed PD-L1 with a CPS ≥ 1 and received at least one line of chemotherapy in the metastatic setting.
-PD-L1 status was determined using the IHC 22C3 pharmDx kit.
+PD-L1 status was determined using the IHC 22C3 pharmDx assay.
 The baseline characteristics of these 77 patients were: median age of 45 years (range: 27 to 75); 81% White, 14% Asian, and 3% Black; 32% ECOG PS of 0 and 68% ECOG PS of 1; 92% had squamous cell carcinoma, 6% adenocarcinoma, and 1% adenosquamous histology; 95% had M1 disease and 5% had recurrent disease; and 35% had one and 65% had two or more prior lines of therapy in the recurrent or metastatic setting.
 
 No responses were observed in patients whose tumors did not have PD-L1 expression (CPS <1).
@@ -2191,7 +2191,7 @@ Locally Recurrent Unresectable or Metastatic TNBC for Tumors Expressing PD-L1 (C
 
 The efficacy of KEYTRUDA in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin was investigated in KEYNOTE-355 (NCT02819518), a multicenter, double-blind, randomized, placebo-controlled trial conducted in 847 patients with locally recurrent unresectable or metastatic TNBC, regardless of tumor PD-L1 expression, who had not been previously treated with chemotherapy in the metastatic setting.
 Patients with active autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
-Randomization was stratified by chemotherapy treatment (paclitaxel or paclitaxel protein-bound vs. gemcitabine and carboplatin), tumor PD-L1 expression (CPS ≥1 vs. CPS <1) according to the PD-L1 IHC 22C3 pharmDx kit, and prior treatment with the same class of chemotherapy in the neoadjuvant setting (yes vs. no).
+Randomization was stratified by chemotherapy treatment (paclitaxel or paclitaxel protein-bound vs. gemcitabine and carboplatin), tumor PD-L1 expression (CPS ≥1 vs. CPS <1) according to the PD-L1 IHC 22C3 pharmDx assay, and prior treatment with the same class of chemotherapy in the neoadjuvant setting (yes vs. no).
 
 Patients were randomized (2:1) to one of the following treatment arms; all study medications were administered via intravenous infusion:
 
@@ -2232,4 +2232,55 @@ Table 110: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 | --- |
 
 | Figure 46: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
+| --- |
+
+## 14.21 Ovarian Cancer
+
+The efficacy of KEYTRUDA in combination with paclitaxel, with or without bevacizumab, was evaluated in KEYNOTE-B96 (NCT05116189), a multicenter, randomized, double-blind, placebo-controlled trial that enrolled 643 patients with platinum-resistant, epithelial ovarian, fallopian tube, or primary peritoneal carcinoma who received one or two prior lines of systemic therapy for ovarian carcinoma.
+Patients must have received at least one line of platinum-based chemotherapy for ovarian cancer with radiographic evidence of disease progression within 6 months after the last dose.
+Prior therapy with an anti-PD-1/PD-L1 inhibitor, PARP inhibitor, or bevacizumab was permitted.
+Patients were enrolled regardless of PD-L1 tumor expression status.
+Patients with autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
+Randomization was stratified by investigator decision to use bevacizumab, geographic region (U.S. or European Union or Rest of World), and PD-L1 status according to the PD-L1 IHC 22C3 pharmDx assay (CPS <1 or CPS 1 to <10 or CPS ≥10).
+Patients were randomized (1:1) to one of the two treatment groups:
+
+- KEYTRUDA 400 mg every 6 weeks plus paclitaxel 80 mg/m2 with or without bevacizumab 10 mg/kg
+- Placebo every 6 weeks plus paclitaxel 80 mg/m2 with or without bevacizumab 10 mg/kg
+
+All study medications were administered as an intravenous infusion.
+KEYTRUDA 400 mg or placebo were administered on Day 1 of each 6-week treatment cycle and paclitaxel 80 mg/m2 was administered on Days 1, 8, and 15 of each 3-week treatment cycle.
+The option to use bevacizumab was by investigator choice prior to randomization.
+Bevacizumab 10 mg/kg was administered on Day 1 of a 2-week treatment cycle.
+Treatment with KEYTRUDA continued until RECIST v1.1-defined progression of disease, unacceptable toxicity, or a maximum of 24 months.
+Administration of KEYTRUDA was permitted beyond RECIST-defined disease progression if the patient was clinically stable and considered to be deriving clinical benefit by the investigator.
+Assessment of tumor status was performed every 9 weeks for the first year, followed by every 12 weeks thereafter.
+The major efficacy outcome measure was PFS as assessed by investigator according to RECIST v1.1.
+An additional efficacy outcome measure was OS.
+
+Among the 643 patients randomized, 466 patients (72%) had tumors expressing PD-L1 with a CPS ≥1.
+The population characteristics of these 466 patients were: median age of 62 years (range: 37 to 85), 38% age 65 or older; 67% White, 20% Asian, 8% Missing, 3% Multiple, 2% Black, 0.4% Native Hawaiian or other Pacific Islander; 13% Hispanic or Latino; 55% and 44% ECOG performance status of 0 or 1, respectively; 73% received bevacizumab as study treatment; 36% of patients had received one prior line and 64% had received two prior lines of therapy; prior systemic therapy included: 46% with bevacizumab; 39% with a PARP inhibitor, or 3% with an anti-PD-1/PD-L1 inhibitor.
+The platinum-free interval following the most recent line of therapy was <3 months in 47% of patients, and 3 to 6 months in 53% of patients.
+
+The study demonstrated statistically significant improvement in PFS and OS for patients randomized to KEYTRUDA in combination with paclitaxel with or without bevacizumab compared to placebo in combination with paclitaxel with or without bevacizumab in patients whose tumors expressed PD-L1 CPS ≥1.
+Efficacy results are summarized in Table 111 and Figures 47 and 48.
+
+Table 111: Efficacy Results in KEYNOTE-B96 (CPS ≥1)
+
+| Endpoint | KEYTRUDA 400 mg every 6 weeks plus paclitaxel with or without bevacizumab n=234 | Placebo plus paclitaxel with or without bevacizumab n=232 |
+| --- | --- | --- |
+| PFS |  |  |
+| Number of patients with event (%) | 162 (69) | 180 (78) |
+| Median in months (95% CI) | 8.3 (7.0, 9.4) | 7.2 (6.2, 8.1) |
+| Hazard ratio (95% CI) | 0.72 (0.58, 0.89) |  |
+| p-Value | 0.0014Based on stratified log-rank test (p-Value [one-sided] is compared to an alpha boundary of 0.0116) |  |
+| OS |  |  |
+| Number of patients with event (%) | 157 (67) | 175 (75) |
+| Median in months (95% CI) | 18.2 (15.3, 21.0) | 14.0 (12.5, 16.1) |
+| Hazard ratio (95% CI) | 0.76 (0.61, 0.94) |  |
+| p-Value | 0.0053Based on stratified log-rank test (p-Value [one sided] is compared to an alpha boundary of 0.0083) |  |
+
+| Figure 47: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-B96 (CPS ≥1) |
+| --- |
+
+| Figure 48: Kaplan-Meier Curve for Overall Survival in KEYNOTE-B96 (CPS ≥1) |
 | --- |

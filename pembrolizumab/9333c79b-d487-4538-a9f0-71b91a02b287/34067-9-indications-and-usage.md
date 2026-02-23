@@ -12,12 +12,12 @@ KEYTRUDA, in combination with pemetrexed and platinum chemotherapy, is indicated
 
 KEYTRUDA, in combination with carboplatin and either paclitaxel or paclitaxel protein-bound, is indicated for the first-line treatment of patients with metastatic squamous NSCLC.
 
-KEYTRUDA, as a single agent, is indicated for the first-line treatment of patients with NSCLC expressing PD-L1 [Tumor Proportion Score (TPS) ≥1%] as determined by an FDA-approved test [see Dosage and Administration (2.1)], with no EGFR or ALK genomic tumor aberrations, and is:
+KEYTRUDA, as a single agent, is indicated for the first-line treatment of patients with NSCLC expressing PD-L1 [Tumor Proportion Score (TPS) ≥1%] as determined by an FDA-authorized test [see Dosage and Administration (2.1)], with no EGFR or ALK genomic tumor aberrations, and is:
 
 - Stage III where patients are not candidates for surgical resection or definitive chemoradiation, or
 - metastatic.
 
-KEYTRUDA, as a single agent, is indicated for the treatment of patients with metastatic NSCLC whose tumors express PD-L1 (TPS ≥1%) as determined by an FDA-approved test [see Dosage and Administration (2.1)], with disease progression on or after platinum-containing chemotherapy.
+KEYTRUDA, as a single agent, is indicated for the treatment of patients with metastatic NSCLC whose tumors express PD-L1 (TPS ≥1%) as determined by an FDA-authorized test [see Dosage and Administration (2.1)], with disease progression on or after platinum-containing chemotherapy.
 Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving KEYTRUDA.
 
 KEYTRUDA is indicated for the treatment of patients with resectable (tumors ≥4 cm or node positive) NSCLC in combination with platinum-containing chemotherapy as neoadjuvant treatment, and then continued as a single agent as adjuvant treatment after surgery.
@@ -30,11 +30,11 @@ KEYTRUDA, in combination with pemetrexed and platinum chemotherapy, is indicated
 
 ## 1.4 Head and Neck Squamous Cell Cancer
 
-KEYTRUDA is indicated for the treatment of adult patients with resectable locally advanced HNSCC whose tumors express PD-L1 [Combined Positive Score (CPS) ≥1] as determined by an FDA-approved test [see Dosage and Administration (2.1)], as a single agent as neoadjuvant treatment, continued as adjuvant treatment in combination with radiotherapy (RT) with or without cisplatin and then as a single agent.
+KEYTRUDA is indicated for the treatment of adult patients with resectable locally advanced HNSCC whose tumors express PD-L1 [Combined Positive Score (CPS) ≥1] as determined by an FDA-authorized test [see Dosage and Administration (2.1)], as a single agent as neoadjuvant treatment, continued as adjuvant treatment in combination with radiotherapy (RT) with or without cisplatin and then as a single agent.
 
 KEYTRUDA, in combination with platinum and fluorouracil (FU), is indicated for the first-line treatment of patients with metastatic or with unresectable, recurrent head and neck squamous cell carcinoma (HNSCC).
 
-KEYTRUDA, as a single agent, is indicated for the first-line treatment of patients with metastatic or with unresectable, recurrent HNSCC whose tumors express PD-L1 [Combined Positive Score (CPS) ≥1] as determined by an FDA-approved test [see Dosage and Administration (2.1)].
+KEYTRUDA, as a single agent, is indicated for the first-line treatment of patients with metastatic or with unresectable, recurrent HNSCC whose tumors express PD-L1 [Combined Positive Score (CPS) ≥1] as determined by an FDA-authorized test [see Dosage and Administration (2.1)].
 
 KEYTRUDA, as a single agent, is indicated for the treatment of patients with recurrent or metastatic HNSCC with disease progression on or after platinum-containing chemotherapy.
 
@@ -65,32 +65,32 @@ KEYTRUDA, as a single agent, is indicated for the treatment of patients with Bac
 
 ## 1.8 Microsatellite Instability-High or Mismatch Repair Deficient Cancer
 
-KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) solid tumors, as determined by an FDA-approved test, that have progressed following prior treatment and who have no satisfactory alternative treatment options [see Dosage and Administration (2.1)].
+KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) solid tumors, as determined by an FDA-authorized test, that have progressed following prior treatment and who have no satisfactory alternative treatment options [see Dosage and Administration (2.1)].
 
 ## 1.9 Microsatellite Instability-High or Mismatch Repair Deficient Colorectal Cancer
 
-KEYTRUDA is indicated for the treatment of patients with unresectable or metastatic MSI-H or dMMR colorectal cancer (CRC) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
+KEYTRUDA is indicated for the treatment of patients with unresectable or metastatic MSI-H or dMMR colorectal cancer (CRC) as determined by an FDA-authorized test [see Dosage and Administration (2.1)].
 
 ## 1.10 Gastric Cancer
 
-KEYTRUDA, in combination with trastuzumab, fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first-line treatment of adults with locally advanced unresectable or metastatic HER2-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
+KEYTRUDA, in combination with trastuzumab, fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first-line treatment of adults with locally advanced unresectable or metastatic HER2-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-authorized test [see Dosage and Administration (2.1)].
 
-KEYTRUDA, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first-line treatment of adults with locally advanced unresectable or metastatic HER2-negative gastric or gastroesophageal junction (GEJ) adenocarcinoma whose tumors express PD-L1 (CPS ≥ 1) as determined by an FDA approved test [see Dosage and Administration (2.1)].
+KEYTRUDA, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first-line treatment of adults with locally advanced unresectable or metastatic HER2-negative gastric or gastroesophageal junction (GEJ) adenocarcinoma whose tumors express PD-L1 (CPS ≥ 1) as determined by an FDA-authorized test [see Dosage and Administration (2.1)].
 
 ## 1.11 Esophageal Cancer
 
 KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic esophageal or gastroesophageal junction (GEJ) (tumors with epicenter 1 to 5 centimeters above the GEJ) carcinoma that is not amenable to surgical resection or definitive chemoradiation either:
 
 - in combination with platinum- and fluoropyrimidine-based chemotherapy for patients with tumors that express PD-L1 (CPS ≥ 1) [see Dosage and Administration (2.1)], or
-- as a single agent after one or more prior lines of systemic therapy for patients with tumors of squamous cell histology that express PD-L1 (CPS ≥10) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
+- as a single agent after one or more prior lines of systemic therapy for patients with tumors of squamous cell histology that express PD-L1 (CPS ≥10) as determined by an FDA-authorized test [see Dosage and Administration (2.1)].
 
 ## 1.12 Cervical Cancer
 
 KEYTRUDA, in combination with chemoradiotherapy (CRT), is indicated for the treatment of patients with locally advanced cervical cancer involving the lower third of the vagina, with or without extension to pelvic sidewall, or hydronephrosis/non-functioning kidney, or spread to adjacent pelvic organs (FIGO 2014 Stage III-IVA).
 
-KEYTRUDA, in combination with chemotherapy, with or without bevacizumab, is indicated for the treatment of patients with persistent, recurrent, or metastatic cervical cancer whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
+KEYTRUDA, in combination with chemotherapy, with or without bevacizumab, is indicated for the treatment of patients with persistent, recurrent, or metastatic cervical cancer whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-authorized test [see Dosage and Administration (2.1)].
 
-KEYTRUDA, as a single agent, is indicated for the treatment of patients with recurrent or metastatic cervical cancer with disease progression on or after chemotherapy whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
+KEYTRUDA, as a single agent, is indicated for the treatment of patients with recurrent or metastatic cervical cancer with disease progression on or after chemotherapy whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-authorized test [see Dosage and Administration (2.1)].
 
 ## 1.13 Hepatocellular Carcinoma
 
@@ -116,13 +116,13 @@ KEYTRUDA is indicated for the adjuvant treatment of patients with RCC at interme
 
 KEYTRUDA, in combination with carboplatin and paclitaxel, followed by KEYTRUDA as a single agent, is indicated for the treatment of adult patients with primary advanced or recurrent endometrial carcinoma.
 
-KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of adult patients with advanced endometrial carcinoma that is mismatch repair proficient (pMMR) or not MSI-H as determined by an FDA-approved test, who have disease progression following prior systemic therapy in any setting and are not candidates for curative surgery or radiation [see Dosage and Administration (2.1)].
+KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of adult patients with advanced endometrial carcinoma that is mismatch repair proficient (pMMR) or not MSI-H as determined by an FDA-authorized test, who have disease progression following prior systemic therapy in any setting and are not candidates for curative surgery or radiation [see Dosage and Administration (2.1)].
 
-KEYTRUDA, as a single agent, is indicated for the treatment of adult patients with advanced endometrial carcinoma that is MSI-H or dMMR, as determined by an FDA-approved test, who have disease progression following prior systemic therapy in any setting and are not candidates for curative surgery or radiation [see Dosage and Administration (2.1)].
+KEYTRUDA, as a single agent, is indicated for the treatment of adult patients with advanced endometrial carcinoma that is MSI-H or dMMR, as determined by an FDA-authorized test, who have disease progression following prior systemic therapy in any setting and are not candidates for curative surgery or radiation [see Dosage and Administration (2.1)].
 
 ## 1.18 Tumor Mutational Burden-High Cancer
 
-KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic tumor mutational burden-high (TMB-H) [≥10 mutations/megabase (mut/Mb)] solid tumors, as determined by an FDA-approved test [see Dosage and Administration (2.1)], that have progressed following prior treatment and who have no satisfactory alternative treatment options.
+KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic tumor mutational burden-high (TMB-H) [≥10 mutations/megabase (mut/Mb)] solid tumors, as determined by an FDA-authorized test [see Dosage and Administration (2.1)], that have progressed following prior treatment and who have no satisfactory alternative treatment options.
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.18)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
@@ -137,4 +137,8 @@ KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic
 
 KEYTRUDA is indicated for the treatment of patients with high-risk early-stage triple-negative breast cancer (TNBC) in combination with chemotherapy as neoadjuvant treatment, and then continued as a single agent as adjuvant treatment after surgery.
 
-KEYTRUDA, in combination with chemotherapy, is indicated for the treatment of patients with locally recurrent unresectable or metastatic TNBC whose tumors express PD-L1 (CPS ≥10) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
+KEYTRUDA, in combination with chemotherapy, is indicated for the treatment of patients with locally recurrent unresectable or metastatic TNBC whose tumors express PD-L1 (CPS ≥10) as determined by an FDA-authorized test [see Dosage and Administration (2.1)].
+
+## 1.21 Ovarian Cancer
+
+KEYTRUDA, in combination with paclitaxel, with or without bevacizumab, is indicated for the treatment of adult patients with platinum-resistant epithelial ovarian, fallopian tube, or primary peritoneal carcinoma whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-authorized test [see Dosage and Administration (2.1)], and who have received one or two prior systemic treatment regimens.

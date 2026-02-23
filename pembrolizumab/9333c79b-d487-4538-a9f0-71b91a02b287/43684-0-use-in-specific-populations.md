@@ -86,3 +86,6 @@ No overall difference in safety or efficacy was reported between patients who we
 
 Of 294 adult patients with FIGO 2014 Stage III-IVA cervical cancer who were treated with KEYTRUDA in combination with CRT in KEYNOTE-A18, 42 (14%) were 65 years and over.
 No overall difference in safety was observed between patients ≥65 years of age and younger patients.
+
+Of 643 adult patients with ovarian cancer who were treated with KEYTRUDA in combination with paclitaxel with or without bevacizumab in KEYNOTE-B96, 236 (37%) were 65 years and over and 58 (9%) were 75 years and over.
+No overall differences in safety or effectiveness were observed between patients ≥65 years of age and younger patients.
