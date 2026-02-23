@@ -6,7 +6,7 @@ Voriconazole is an antifungal drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-Exposure-Response Relationship For Efficacy and Safety
+Exposure-Response Relationship for Efficacy and Safety
 
 In 10 clinical trials (N=1121), the median values for the average and maximum voriconazole plasma concentrations in individual patients across these studies was 2.51 mcg/mL (inter-quartile range 1.21 to 4.44 mcg/mL) and 3.79 mcg/mL (inter-quartile range 2.06 to 6.31 mcg/mL), respectively.
 A pharmacokinetic-pharmacodynamic analysis of patient data from 6 of these 10 clinical trials (N=280) could not detect a positive association between mean, maximum or minimum plasma voriconazole concentration and efficacy.
@@ -277,7 +277,7 @@ The accumulation of 14 alpha-methyl sterols correlates with the subsequent loss 
 Resistance
 
 A potential for development of resistance to voriconazole is well known.
-The mechanisms of resistance may include mutations in the gene ERG11 (encodes for the target enzyme, lanosterol 14-α-demethylase), upregulation of genes encoding the ATP-binding cassette efflux transporters i.e. Candida drug resistance (CDR) pumps and reduced access of the drug to the target, or some combination of those mechanisms.
+The mechanisms of resistance may include mutations in the gene ERG11 (encodes for the target enzyme, lanosterol 14-α-demethylase), upregulation of genes encoding the ATP-binding cassette efflux transporters i.e., Candida drug resistance (CDR) pumps and reduced access of the drug to the target, or some combination of those mechanisms.
 The frequency of drug resistance development for the various fungi for which this drug is indicated is not known.
 
 Fungal isolates exhibiting reduced susceptibility to fluconazole or itraconazole may also show reduced susceptibility to voriconazole, suggesting cross-resistance can occur among these azoles.

@@ -198,7 +198,7 @@ A maximum of 42 days of treatment was permitted.
 
 For EC, study treatment was initiated without a loading dose of intravenous voriconazole.
 Seventeen of these patients had confirmed Candida infection and were included in the MITT efficacy analyses.
-Of the 17 patients included in the MITT analyses, 9 were 2 to less than 12 years old (7 with ICC and 2 with EC) and 8 were 12 to less than18 years old (all with EC).
+Of the 17 patients included in the MITT analyses, 9 were 2 to less than 12 years old (7 with ICC and 2 with EC) and 8 were 12 to less than 18 years old (all with EC).
 For ICC and EC, a successful global response was defined as clinical cure or improvement with microbiological eradication or presumed eradication.
 The overall rate of successful global response at EOT in the MITT population is presented in Table 19 below.
 
