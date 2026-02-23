@@ -17,6 +17,7 @@ Most Common Adverse Reactions (≥ 1%)
 Gastrointestinal: Diarrhea, nausea, alkaline phosphatase increase, AST/ALT increase.
 
 Metabolic and Nutritional: Acute attacks of gout.
+
 Skin and Appendages: Rash, maculopapular rash.
 
 Less Common Adverse Reactions(< 1%)

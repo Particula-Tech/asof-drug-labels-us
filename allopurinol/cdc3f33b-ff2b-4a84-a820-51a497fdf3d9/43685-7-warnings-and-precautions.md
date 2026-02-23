@@ -38,7 +38,7 @@ Patients with pre-existing kidney disease, including chronic kidney disease or h
 In patients receiving allopurinol tablets for the management of gout or the management of recurrent calcium oxalate calculi, monitor kidney function frequently during the early stages of allopurinol administration.
 Maintain fluid intake sufficient to yield a urinary output of at least 2 liters per day of neutral or, preferably, slightly alkaline urine to avoid the possibility of formation of xanthine calculi and help prevent renal precipitation of urates in patients receiving concomitant uricosuric agents.
 
-In patients receiving allopurinol tabletsfor the management of tumor lysis syndrome, monitor kidney function at least daily during the early stages of allopurinol administration.
+In patients receiving allopurinol tablets for the management of tumor lysis syndrome, monitor kidney function at least daily during the early stages of allopurinol administration.
 Maintain fluid intake sufficient to yield a urinary output of at least 2 liters per day in adults and at least 2 liters/m 2/day (or at least 100 mL/m 2/hour) in pediatric patients [see Dosage and Administration (2.4)].
 
 ## 5.4 Hepatotoxicity

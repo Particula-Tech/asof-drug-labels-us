@@ -53,9 +53,8 @@ Advise women not to breastfeed during treatment with allopurinol tablets and for
 Manufactured for:
 
 Chartwell RX, LLC.
-
 Congers, NY 10920
 
 L71112
 
-Revised 08/2024
+Revision 01
