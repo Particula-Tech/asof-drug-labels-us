@@ -16,13 +16,13 @@ The mechanism of blood glucose lowering also involves a minor delay in gastric e
 
 ## 12.2 Pharmacodynamics
 
-The pharmacodynamic evaluations described below were in patients with type 2 diabetes mellitus who received once weekly subcutaneous injections of placebo or semaglutide injection over 12 weeks (semaglutide injection-treated patients were started on lower dosages and then titrated up to 1 mg once weekly).
-RYBELSUS is not approved for subcutaneous use.
+The pharmacodynamic evaluations described below were in patients with type 2 diabetes mellitus who received once-weekly subcutaneous injections of placebo or semaglutide injection over 12 weeks (semaglutide injection-treated patients were started on lower dosages and then titrated up to 1 mg once weekly).
+RYBELSUS and OZEMPIC tablets are not approved for subcutaneous use.
 
 Fasting and Postprandial Glucose
 
 Semaglutide reduces fasting and postprandial glucose concentrations.
-In patients with type 2 diabetes mellitus, treatment with semaglutide injection 1 mg resulted in reductions in glucose in terms of absolute change from baseline and relative reduction compared to placebo of 29 mg/dL (22%) for fasting glucose, 74 mg/dL (36%) for 2-hour postprandial glucose and 30 mg/dL (22%) for mean 24 hour glucose concentration.
+In patients with type 2 diabetes mellitus, treatment with semaglutide injection 1 mg resulted in reductions in glucose in terms of absolute change from baseline and relative reduction compared to placebo of 29 mg/dL (22%) for fasting glucose, 74 mg/dL (36%) for 2-hour postprandial glucose and 30 mg/dL (22%) for mean 24-hour glucose concentration.
 
 Insulin Secretion
 
@@ -45,33 +45,33 @@ Semaglutide causes a delay of early postprandial gastric emptying, thereby reduc
 Cardiac Electrophysiology
 
 The effect of subcutaneously administered semaglutide on cardiac repolarization was tested in a thorough QTc trial.
-At an average exposure level 4-fold higher than that of the maximum recommended dose of RYBELSUS, semaglutide does not prolong QTc intervals to any clinically relevant extent.
+At an average exposure level 4-fold higher than that of the maximum recommended dose of semaglutide tablets, semaglutide does not prolong QTc intervals to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 
-Semaglutide estimated mean steady-state concentration was 6.7 nmol/L and 14.6 nmol/L following once daily oral administration of 7 mg and 14 mg of RYBELSUS (formulation R1), respectively, in patients with type 2 diabetes mellitus.
+Semaglutide estimated mean steady-state concentration was 6.7 nmol/L and 14.6 nmol/L following once daily oral administration of 7 mg and 14 mg of RYBELSUS, respectively, in patients with type 2 diabetes mellitus.
 
 Semaglutide exposures increased in a dose-proportional manner.
-Steady-state exposure was achieved following 4-5 weeks of RYBELSUS oral administration.
+Steady-state exposure was achieved following 4 to 5 weeks of semaglutide tablets oral administration.
 
 Absorption
 
-Semaglutide is co-formulated with salcaprozate sodium which facilitates the absorption of semaglutide after oral RYBELSUS administration.
+RYBELSUS and OZEMPIC tablets are co-formulated with SNAC which facilitates the absorption of semaglutide after oral administration.
 The absorption of semaglutide predominantly occurs in the stomach.
 
 Semaglutide estimated absolute bioavailability was approximately:
 
-- •0.4 to 1% after oral administration of 3 mg, 7 mg and 14 mg of RYBELSUS (formulation R1).
-- •1 to 2% after oral administration of 1.5 mg, 4 mg and 9 mg of RYBELSUS (formulation R2).
+- •0.4% to 1% after oral administration of 3 mg, 7 mg and 14 mg of RYBELSUS.
+- •1% to 2% after oral administration of 1.5 mg, 4 mg and 9 mg of OZEMPIC tablets.
 
-Semaglutide maximum concentration was reached approximately 1-hour after oral RYBELSUS administration.
+Semaglutide maximum concentration was reached approximately 1-hour after oral administration of semaglutide tablets.
 
-Effect of RYBELSUS Formulation: There were no clinically significant differences observed in the mean steady state AUC0-24h,SS and Cmax,SS between the 3 mg, 7 mg and 14 mg doses of RYBELSUS (formulation R1) and the 1.5 mg, 4 mg and 9 mg doses of RYBELSUS (formulation R2), respectively, in a clinical study conducted in healthy subjects.
+Effect of Semaglutide Tablet Formulations: There were no clinically significant differences observed in the mean steady state AUC0-24h,SS and Cmax,SS between the 3 mg, 7 mg and 14 mg doses of RYBELSUS and the 1.5 mg, 4 mg and 9 mg doses of OZEMPIC tablets, respectively, in a clinical study conducted in healthy subjects.
 
-Effect of Volume and Timing of Water Consumption: Single 10 mg doses of oral semaglutide (formulation R1) were administered with 50 mL or 240 mL of water after an 8-hour overnight fast and a continued fast of 4 hours post-dose in healthy subjects.
-Semaglutide absorption (i.e., area under the curve (AUC) and peak concentrations (Cmax)) were higher following dosing with 50 mL water compared to that of 240 mL water.
+Effect of Volume and Timing of Water Consumption: Single oral doses of semaglutide tablets were administered with 50 mL or 240 mL of water after an 8-hour overnight fast and a continued fast of 4 hours post-dose in healthy subjects.
+Semaglutide absorption (i.e., area under the curve (AUC) and peak concentrations (Cmax) were higher following dosing with 50 mL water compared to that of 240 mL water.
 
-For 10 days, healthy subjects received 10 mg of oral semaglutide (formulation R1) once daily doses with 50 mL or 120 mL of water under fasting conditions with post-dose fasting period of 15, 30, 60 or 120 minutes.
+For 10 days, healthy subjects received semaglutide tablets once daily doses orally with 50 mL or 120 mL of water under fasting conditions with post-dose fasting period of 15, 30, 60 or 120 minutes.
 In this study, semaglutide absorption (i.e., AUC and Cmax) was higher after a longer post-dose fasting period.
 There were no clinically significant differences in semaglutide absorption with administration of 50 mL or 120 mL of water.
 
@@ -83,7 +83,7 @@ Semaglutide is >99% bound to plasma albumin.
 Elimination
 
 Semaglutide elimination half-life is approximately one week with an absolute clearance of approximately 0.04 L/hour in patients with type 2 diabetes.
-Semaglutide is present in the circulation for about five weeks after the last RYBELSUS dose.
+Semaglutide is present in the circulation for about five weeks after the last semaglutide tablet dose.
 
 Metabolism: The primary route of elimination for semaglutide is metabolism following proteolytic cleavage of the peptide backbone and sequential beta-oxidation of the fatty acid side chain.
 
@@ -99,7 +99,7 @@ Drug Interaction Studies
 Clinical Studies and Model-Informed Approaches: The delay of gastric emptying with semaglutide may influence the absorption of concomitantly administered oral drugs.
 Trials were conducted to study the potential effect of semaglutide on the absorption of oral drugs taken with semaglutide administered orally at steady-state exposure.
 
-1. Levothyroxine: Total thyroxine (i.e., adjusted for endogenous levels) AUC of was increased by 33% following administration of a single dose of levothyroxine 600 mcg concomitantly administered with oral semaglutide.
+1. Levothyroxine: Total thyroxine (i.e., adjusted for endogenous levels) AUC was increased by 33% following administration of a single dose of levothyroxine 600 mcg concomitantly administered with semaglutide tablets.
    Maximum exposure (Cmax) was unchanged.
 2. Other Drugs: No clinically significant differences in semaglutide pharmacokinetics were observed when used concomitantly with omeprazole.
    No clinically significant differences in the pharmacokinetics of the following drugs were observed when used concomitantly with semaglutide: lisinopril, S-warfarin, R-warfarin, metformin, digoxin, ethinyl estradiol, levonorgestrel, furosemide or rosuvastatin.
@@ -111,7 +111,7 @@ In Vitro Studies: Semaglutide has very low potential to inhibit or induce CYP en
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of semaglutide or of other semaglutide products.
 
-During the 26- to 78-week treatment periods in 5 clinical trials in adults with type 2 diabetes mellitus [see Clinical Studies (14.2, 14.3)] and 1 clinical trial in Japanese adults with type 2 diabetes mellitus, 14/2924 (0.5%) of RYBELSUS-treated patients developed anti-semaglutide antibodies.
-Of these 14 RYBELSUS-treated patients, 7 patients (0.2% of the total RYBELSUS-treated study population) developed antibodies that cross-reacted with native GLP-1.
-No identified clinically significant effect of anti-semaglutide antibodies on pharmacokinetics of RYBELSUS was observed.
+During the 26- to 78-week treatment periods in 5 clinical trials in adults with type 2 diabetes mellitus [see Clinical Studies (14.2, 14.3)] and 1 clinical trial in Japanese adults with type 2 diabetes mellitus, 14/2,924 (0.5%) of semaglutide tablet-treated patients developed anti-semaglutide antibodies.
+Of these 14 semaglutide tablet -treated patients, 7 patients (0.2% of the total semaglutide tablet-treated study population) developed antibodies that cross-reacted with native GLP-1.
+No identified clinically significant effect of anti-semaglutide antibodies on pharmacokinetics of semaglutide tablets was observed.
 There is insufficient information to characterize the effects of anti-semaglutide antibodies on pharmacodynamics, safety or effectiveness of semaglutide.

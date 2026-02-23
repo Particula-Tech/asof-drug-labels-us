@@ -5,6 +5,10 @@
   "inn": "semaglutide",
   "labeler": "Novo Nordisk",
   "package_ndcs": [
+    "0169-1704-30",
+    "0169-1709-30",
+    "0169-1715-30",
+    "0169-1715-90",
     "0169-4303-01",
     "0169-4303-13",
     "0169-4303-30",
@@ -23,6 +27,11 @@
     "0169-4815-90"
   ],
   "products": [
+    {
+      "form": "TABLET",
+      "generic": "oral semaglutide",
+      "name": "OZEMPIC"
+    },
     {
       "form": "TABLET",
       "generic": "oral semaglutide",
