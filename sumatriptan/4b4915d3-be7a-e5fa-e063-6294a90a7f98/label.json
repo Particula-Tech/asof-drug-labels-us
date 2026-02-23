@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA090314"
+  ],
+  "inn": "sumatriptan",
+  "labeler": "Golden State Medical Supply, Inc.",
+  "package_ndcs": [
+    "51407-673-01",
+    "51407-673-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "sumatriptan",
+      "name": "SUMATRIPTAN"
+    }
+  ],
+  "setid": "4b4915d3-be7a-e5fa-e063-6294a90a7f98",
+  "source": "dailymed"
+}
