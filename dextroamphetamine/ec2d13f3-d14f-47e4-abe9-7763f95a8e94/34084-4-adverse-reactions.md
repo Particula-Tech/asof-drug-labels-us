@@ -26,6 +26,4 @@ Impotence, changes in libido, frequent or prolonged erections.
 
 Rhabdomyolysis
 
-Increased intraocular pressure and glaucoma.
-
 To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

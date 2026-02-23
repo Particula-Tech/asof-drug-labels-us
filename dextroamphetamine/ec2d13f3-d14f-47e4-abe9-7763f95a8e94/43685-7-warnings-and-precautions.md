@@ -126,7 +126,7 @@ Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
 
 Advise patients that motor and verbal tics and worsening of Tourette’s Syndrome may occur during treatment with dextroamphetamine sulfate.
 Instruct the patients to notify their healthcare provider if emergence or worsening of tics or Tourette’s syndrome occurs (see WARNINGS).
-Amphetamines may impair the ability of the patient to engage in potentially hazardous activities ssuch as operating machinery or vehicles; the patient should therefore be cautioned accordingly.
+Amphetamines may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or vehicles; the patient should therefore be cautioned accordingly.
 
 ## Drug Interactions
 

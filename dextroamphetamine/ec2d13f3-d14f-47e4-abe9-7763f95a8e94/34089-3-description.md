@@ -4,7 +4,7 @@ Dextroamphetamine sulfate, USP is the dextro isomer of the compound d,l-amphetam
 Chemically, dextroamphetamine is d-alpha-methylphenethylamine, and is present in all forms of dextroamphetamine sulfate, USP as the neutral sulfate.
 The structural formula is as follows:
 
-(C9H13N)2∙H2SO4 M.W.
+(C9H13N)2∙H2SO4M.W.
 368.49
 
 ## Inactive Ingredients
