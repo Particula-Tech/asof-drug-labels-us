@@ -14,11 +14,6 @@
   "products": [
     {
       "form": "INJECTION",
-      "generic": "amivantamab and hyaluronidase (human recombinant)",
-      "name": "Rybrevant Faspro"
-    },
-    {
-      "form": "INJECTION",
       "generic": "amivantamab and hyaluronidase-lpuj (human recombinant)",
       "name": "Rybrevant Faspro"
     }
