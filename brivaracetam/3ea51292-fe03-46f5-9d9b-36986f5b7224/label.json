@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA218249"
+  ],
+  "inn": "brivaracetam",
+  "labeler": "Hainan Poly Pharm. Co., Ltd.",
+  "package_ndcs": [
+    "14335-420-01",
+    "14335-420-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "brivaracetam",
+      "name": "Brivaracetam"
+    }
+  ],
+  "setid": "3ea51292-fe03-46f5-9d9b-36986f5b7224",
+  "source": "dailymed"
+}
