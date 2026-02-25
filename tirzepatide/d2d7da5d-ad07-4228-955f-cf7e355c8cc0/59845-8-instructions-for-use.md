@@ -547,7 +547,7 @@ If you have any questions or problems with MOUNJARO KwikPen:
 | Call your healthcare provider Call 1-800-Lilly-Rx (1-800-545-5979) Visit www.mounjaro.com |  | Scan this code to launch www.mounjaro.com |
 | --- | --- | --- |
 
-MOUNJAROâ and KwikPen® are registered trademarks of Eli Lilly and Company.
+MOUNJARO® and KwikPen® are registered trademarks of Eli Lilly and Company.
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
@@ -558,9 +558,9 @@ MOUNJARO KwikPen meets the current dose accuracy and functional requirements of 
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Issued: January 2026
+Revised: January 2026
 
-MOUKP-0001-IFU-20260120
+MOUKP-0002-IFU-20260121
 
 | Medication Calendar |
 | --- |
