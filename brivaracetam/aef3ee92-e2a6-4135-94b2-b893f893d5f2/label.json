@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA218494"
+  ],
+  "inn": "brivaracetam",
+  "labeler": "Zhejiang Poly Pharm. Co., Ltd.",
+  "package_ndcs": [
+    "72673-031-10"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "brivaracetam",
+      "name": "brivaracetam"
+    }
+  ],
+  "setid": "aef3ee92-e2a6-4135-94b2-b893f893d5f2",
+  "source": "dailymed"
+}
