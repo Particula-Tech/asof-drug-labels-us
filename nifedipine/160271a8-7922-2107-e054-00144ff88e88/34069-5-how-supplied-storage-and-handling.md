@@ -23,6 +23,4 @@ Store at 20° to 25°C (68° to 77°F).
 
 Distributed by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-Made in Taiwan
-
-LA‑3039‑02 Revised: 8/2025
+LA‑3039‑03 Revised: 11/2025
