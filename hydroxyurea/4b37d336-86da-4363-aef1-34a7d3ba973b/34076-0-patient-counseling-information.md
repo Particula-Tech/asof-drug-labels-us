@@ -18,7 +18,7 @@ Advise the caregiver to read the FDA-approved patient labeling (Instructions for
 - Advise male patients of potential risk to fertility.
 - Advise caregivers of patients with HIV infection to contact their healthcare provider for signs and symptoms of pancreatitis, hepatic events, and peripheral neuropathy [see Warnings and Precautions (5.7)].
 - Advise patients to notify their healthcare provider if they are using a continuous glucose monitoring system while taking XROMI [see Warnings and Precautions (5.9)].
-- Advise caregivers of the symptoms of potential pulmonary toxicity and instruct them to seek prompt medical attention for the patient in the event of pyrexia, cough, dyspnea, or other respiratory symptoms [see Warnings and Precautions (5.9)].
+  Advise caregivers of the symptoms of potential pulmonary toxicity and instruct them to seek prompt medical attention for the patient in the event of pyrexia, cough, dyspnea, or other respiratory symptoms [see Warnings and Precautions (5.9)].
 
 Because XROMI package includes two oral dosing syringes, advise patients on which oral dosing syringe they should use.
 
@@ -26,4 +26,6 @@ Manufactured by: Nova Laboratories Ltd. Leicester LE18 4YL United Kingdom
 
 Manufactured for: Rare Disease Therapeutics, Inc. 2550 Meridian Blvd., Suite 150 Franklin, Tennessee 37067 www.raretx.com
 
-Part Number: D001427/1
+U.S. Patent: 12,409,156
+
+Part Number: D001506/1
