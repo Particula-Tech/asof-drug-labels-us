@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA214922"
+  ],
+  "inn": "brivaracetam",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-033-73"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "brivaracetam",
+      "name": "brivaracetam"
+    }
+  ],
+  "setid": "dca92c5b-78a8-4ee1-9f06-18320ae2a2e8",
+  "source": "dailymed"
+}
