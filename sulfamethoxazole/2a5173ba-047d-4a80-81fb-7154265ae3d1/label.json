@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA077785"
+  ],
+  "inn": "sulfamethoxazole",
+  "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+  "package_ndcs": [
+    "68999-873-24",
+    "68999-873-52"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "sulfamethoxazole and trimethoprim",
+      "name": "Sulfamethoxazole and Trimethoprim"
+    }
+  ],
+  "setid": "2a5173ba-047d-4a80-81fb-7154265ae3d1",
+  "source": "dailymed"
+}
