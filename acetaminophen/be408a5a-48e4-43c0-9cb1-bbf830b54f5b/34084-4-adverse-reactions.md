@@ -37,3 +37,10 @@ Other skin and subcutaneous-related TEAEs (pruritis, hyperhidrosis) also affecte
 
 AFT-MXIV-11 found no notable difference in the safety profile of COMBOGESIC IV in participants treated for 5 days compared to those treated for 48 hours.
 Additionally, the safety profile was comparable between older participants (aged 65-75 years and >75 years) and younger participants (aged <65 years); the type and incidence of treatment-emergent adverse events was comparable, and the incidence of clinically significant shifts in laboratory tests (hematocrit 1.3% (n=3/228), hemoglobin 1.3% (n=3/228) and erythrocytes 0.9% (n=2/218), was low in participants over the age of 65.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of acetaminophen and ibuprofen.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin and Appendages: Exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), and fixed drug eruption (FDE).

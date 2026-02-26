@@ -35,4 +35,4 @@ Farmaceutici SRL, Zona Industriale, 85050 Tito (PZ), Italy Distributed by: Hikma
 
 Information and patents: https://www.combogesiciv.com
 
-Revised: April 2024
+Revised: November 2024
