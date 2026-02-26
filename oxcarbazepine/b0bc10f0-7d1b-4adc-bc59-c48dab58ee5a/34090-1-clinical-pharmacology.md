@@ -5,7 +5,7 @@
 The pharmacological activity of oxcarbazepine is primarily exerted through the 10-monohydroxy metabolite (MHD) of oxcarbazepine [see Clinical Pharmacology (12.3)].
 The precise mechanism by which oxcarbazepine and MHD exert their anti-seizure effect is unknown; however, in vitro electrophysiological studies indicate that they produce blockade of voltage-sensitive sodium channels, resulting in stabilization of hyperexcited neural membranes, inhibition of repetitive neuronal firing, and diminution of propagation of synaptic impulses.
 These actions are thought to be important in the prevention of seizure spread in the intact brain.
-In addition, increased potassium conductance and modulation of high-voltage activated calcium channels may contribute to the anticonvulsant effects of the drug.
+In addition, increased potassium conductance and modulation of high- voltage activated calcium channels may contribute to the anticonvulsant effects of the drug.
 No significant interactions of oxcarbazepine or MHD with brain neurotransmitter or modulator receptor sites have been demonstrated.
 
 ## 12.2 Pharmacodynamics
@@ -26,14 +26,12 @@ Absorption
 Based on MHD concentrations, oxcarbazepine tablets and suspension were shown to have similar bioavailability.
 
 After single-dose administration of oxcarbazepine tablets to healthy male volunteers under fasted conditions, the median t maxwas 4.5 (range 3 to 13) hours.
-After single-dose administration of oxcarbazepine to healthy male volunteers under fasted conditions, the median t maxwas 6 hours.
 
 Steady-state plasma concentrations of MHD are reached within 2 to 3 days in patients when oxcarbazepine is given twice-a-day.
 At steady state the pharmacokinetics of MHD are linear and show dose proportionality over the dose range of 300 to 2400 mg/day.
 
 Food has no effect on the rate and extent of absorption of oxcarbazepine from oxcarbazepine tablets.
-Although not directly studied, the oral bioavailability of the oxcarbazepine is unlikely to be affected under fed conditions.
-Therefore, oxcarbazepine tablets and suspension can be taken with or without food.
+Therefore, oxcarbazepine tablets can be taken with or without food.
 
 Distribution
 
@@ -66,11 +64,19 @@ Comparisons of creatinine clearance in young and elderly volunteers indicate tha
 Pediatrics
 
 Weight-adjusted MHD clearance decreases as age and weight increases, approaching that of adults.
-The mean weight-adjusted clearance in children 2 years to < 4 years of age is approximately 80% higher on average than that of adults.
+The mean weight-adjusted clearance in children 2 years to <4 years of age is approximately 80% higher on average than that of adults.
 Therefore, MHD exposure in these children is expected to be about one-half that of adults when treated with a similar weight-adjusted dose.
 The mean weight-adjusted clearance in children 4 to 12 years of age is approximately 40% higher on average than that of adults.
 Therefore, MHD exposure in these children is expected to be about three-quarters that of adults when treated with a similar weight-adjusted dose.
 As weight increases, for patients 13 years of age and above, the weight-adjusted MHD clearance is expected to reach that of adults.
+
+Pediatric Patients With Obesity
+
+A population PK analysis of oxcarbazepine was conducted that included n = 92 obese and non-obese pediatric patients < 18 years of age to evaluate the potential impact of obesity on plasma oxcarbazepine exposures.
+Obesity was defined as BMI ~ 95th percentile for age and sex based on CDC 2000 growth chart recommendations.
+Simulated results from this analysis suggested that the target maintenance doses for oxcarbazepine, applied in pediatric patients ~ 2 years of age, produced equivalent steady-state exposure ofMHD between pediatric patients with and without obesity.
+This finding is consistent when using total body weight, or when using fat-free mass in patients~ 3 years and total body weight in patients < 3 years in the simulations.
+Dosage adjustment according to obesity status is not necessary.
 
 Gender
 
@@ -83,11 +89,11 @@ No specific studies have been conducted to assess what effect, if any, race may 
 Renal Impairment
 
 There is a linear correlation between creatinine clearance and the renal clearance of MHD.
-When oxcarbazepine is administered as a single 300 mg dose in renally-impaired patients (creatinine clearance < 30 mL/min), the elimination half-life of MHD is prolonged to 19 hours, with a 2-fold increase in AUC [see Dosage and Administration (2.7)and [Use in Specific Populations (8.6)].
+When oxcarbazepine is administered as a single 300 mg dose in renally-impaired patients (creatinine clearance < 30 mL/min), the elimination half- life of MHD is prolonged to 19 hours, with a 2-fold increase in AUC [see Dosage and Administration(2.7)andUse in Specific Populations (8.6)].
 
 Hepatic Impairment
 
-The pharmacokinetics and metabolism of oxcarbazepine and MHD were evaluated in healthy volunteers and hepatically-impaired subjects after a single 900-mg oral dose.
+The pharmacokinetics and metabolism of oxcarbazepine and MHD were evaluated in healthy volunteers and hepatically- impaired subjects after a single 900-mg oral dose.
 Mild-to-moderate hepatic impairment did not affect the pharmacokinetics of oxcarbazepine and MHD [see Dosage and Administration (2.8)].
 
 Pregnancy
@@ -122,21 +128,16 @@ Other Antiepileptic Drugs
 Potential interactions between oxcarbazepine and other AEDs were assessed in clinical studies.
 The effect of these interactions on mean AUCs and C minare summarized in Table 7 [see Drug Interactions (7.1,7.2)].
 
-Table 7: Summary of AED Interactions with Oxcarbazepine
+Table 7: Summary of Antiepileptic Drug Interactions With Oxcarbazepine
 
-| AED Coadministered | Dose of AED (mg/day) | Oxcarbazepine Dose (mg/day) | Influence of Oxcarbazepineon AED Concentration (Mean Change, 90% Confidence Interval) | Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval) |
+| AED Coadministered | Dose of AED (mg/day) | Oxcarbazepine Dose (mg/day) | Influence of Oxcarbazepineon AED concentration (mean change, 90% confidence interval) | Influence of AED on MHD Concentration (mean change, 90% confidence interval) |
 | --- | --- | --- | --- | --- |
 | Carbamazepine | 400-2000 | 900 | nc 1 | 40% decrease [CI: 17% decrease, 57% decrease] |
 | Phenobarbital | 100-150 | 600-1800 | 14% increase [CI: 2% increase, 24% increase] | 25% decrease [CI: 12% decrease, 51% decrease] |
 | Phenytoin | 250-500 | 600-1800 > 1200-2400 | nc 1,2 up to 40% increase 3 [CI: 12% increase, 60% increase] | 30% decrease [CI: 3% decrease, 48% decrease] |
 | Valproic acid | 400-2800 | 600-1800 | nc 1 | 18% decrease [CI: 13% decrease, 40% decrease] |
 | Lamotrigine | 200 | 1200 | nc 1 | nc 1 |
-
-1nc denotes a mean change of less than 10%
-
-2Pediatrics
-
-3Mean increase in adults at high oxcarbazepine doses
+| 1nc denotes a mean change of less than 10% 2Pediatrics 3Mean increase in adults at high oxcarbazepine doses |  |  |  |  |
 
 Hormonal Contraceptives
 

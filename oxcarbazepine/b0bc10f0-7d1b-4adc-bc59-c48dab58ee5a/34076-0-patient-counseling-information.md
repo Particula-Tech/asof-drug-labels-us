@@ -55,11 +55,9 @@ Caution should be exercised if alcohol is taken in combination with oxcarbazepin
 Pregnancy Registry
 
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
-This registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
-
-Distributed By: Advagen Pharma Ltd., East Windsor, NJ 08520, USA,
-
-Manufactured by: Rubicon Research Ltd., Thane 421506, India.
+This registry is collecting information about the safety of AEDs during pregnancy [see Use in Specific Populations (8.1)].
+Distributed By: Advagen Pharma Ltd., East Windsor, NJ 08520, USA.
+Manufactured by: Rubicon Research Limited Thane, 421506 India.
 
 Rev.
-05/2024
+02/2026

@@ -9,14 +9,23 @@ Encourage women who are taking oxcarbazepine during pregnancy to enroll in the N
 
 Risk Summary
 
-There are no adequate data on the developmental risks associated with the use of oxcarbazepine in pregnant women; however, oxcarbazepine is closely related structurally to carbamazepine, which is considered to be teratogenic in humans.
-Data on a limited number of pregnancies from pregnancy registries suggest that oxcarbazepine monotherapy use is associated with congenital malformations (e.g., craniofacial defects, such as oral clefts, and cardiac malformations, such as ventricular septal defects).
+Although oxcarbazepine is closely related structurally to carbamazepine, which is considered to be teratogenic in humans, available human data from published literature and ongoing pregnancy registry studies on use of oxcarbazepine during pregnancy have not demonstrated an increased prevalence of major congenital malformations with first trimester exposure.
+However, all published studies reviewed have important methodological limitations, including unmeasured confounding and a small number of exposed cases (see Data).
+There are risks to the mother and fetus associated with partial onset seizures (see Clinical Considerations).
+There are no data on the risks associated with the use of oxcarbazepine and miscarriage or other adverse maternal outcomes
+
 Increased incidences of fetal structural abnormalities and other manifestations of developmental toxicity (embryolethality, growth retardation) were observed in the offspring of animals treated with either oxcarbazepine or its active 10-hydroxy metabolite (MHD) during pregnancy at doses similar to the maximum recommended human dose (MRHD).
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
-The background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+All pregnancies have a background risk of major birth defect, loss, or other adverse outcomes.
 
 Clinical Considerations
+
+Disease-associated Maternal and/or Embryofetal Risk Epilepsy, with or without exposure to antiepileptic drugs, has been associated with several adverse outcomes during pregnancy, including preeclampsia, preterm labor, antepartum and postpartum hemorrhage, placental abruption, poor fetal growth, prematurity, fetal death, and maternal mortality.
+The risk of maternal or fetal injury may be greatest for patients with untreated or poorly controlled convulsive seizures.
+Women with epilepsy who become pregnant should not abruptly discontinue antiepileptic drugs, including oxcarbazepine, due to the risk of status epilepticus or severe seizures, which may be life-threatening [see Warnings and Precautions (5.6)].
+
+Maternal Adverse Reactions
 
 An increase in seizure frequency may occur during pregnancy because of altered levels of the active metabolite of oxcarbazepine.
 Monitor patients carefully during pregnancy and through the postpartum period [see Warnings and Precautions (5.10)].
@@ -25,7 +34,10 @@ Data
 
 Human Data
 
-Data from published registries have reported craniofacial defects such as oral clefts and cardiac malformations such as ventricular septal defects in children with prenatal oxcarbazepine exposure.
+Data from a published retrospective cohort study and ongoing pregnancy registry studies on the use of oxcarbazepine during pregnancy have not demonstrated an increased prevalence of major congenital malformations with first trimester exposure.
+A retrospective cohort study conducted in Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) from 1996-2020 found that there was no increased prevalence of major congenital malformations when pregnancies exposed to oxcarbazepine during the first trimester were compared to pregnancies exposed to lamotrigine (adjusted risk ratio = 1.09; 95% CI 0.83 to 1.44; n pregnancies exposed to oxcarbazepine= 1,313, n exposed cases = 58).
+In an ongoing pregnancy registry that included data from over 40 countries from 1999 to 2022 and 443 pregnancies exposed to oxcarbazepine, oxcarbazepine exposure during the first trimester was not associated with major congenital malformations (adjusted odds ratio =1.09; 95% CI 0.56 to 2.13, n exposed cases= 10).
+However, there are important methodological limitations of these studies including unmeasured confounding factors and a small number of exposed cases in the registry.
 
 Animal Data
 
@@ -75,4 +87,4 @@ Close monitoring of sodium levels is required in elderly patients at risk for hy
 
 ## 8.6 Renal Impairment
 
-Dose adjustment is recommended for renally impaired patients (CLcr < 30 mL/min) [see Dosage and Administration (2.7)and Clinical Pharmacology (12.3)].
+Dose adjustment is recommended for renally impaired patients (creatinine clearance < 30 mL/min) [see Dosage and Administration (2.7)and Clinical Pharmacology (12.3)].

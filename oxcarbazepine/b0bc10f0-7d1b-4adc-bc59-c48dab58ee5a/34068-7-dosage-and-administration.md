@@ -4,9 +4,9 @@
 
 Initiate oxcarbazepine with a dose of 600 mg/day, given twice-a-day.
 If clinically indicated, the dose may be increased by a maximum of 600 mg/day at approximately weekly intervals; the maximum recommended daily dose is 1200 mg/day.
-Daily doses above 1200 mg/day show somewhat greater effectiveness in controlled trials, but most patients were not able to tolerate the 2400 mg/day dose, primarily because of CNS effects.
+Daily doses above 1200 mg/day show somewhat greater effectiveness in controlled trials, but most patients were not able to tolerate the 2400 mg/day dose, primarily because of central nervous (CNS) effects.
 
-Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1,7.2)].
+Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UDP- glucuronosyltransferases (UGT) inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1,7.2)].
 
 ## 2.2 Conversion to Monotherapy for Adults
 
@@ -31,24 +31,24 @@ The target maintenance dose of oxcarbazepine should be achieved over 2 weeks, an
 
 29.1 to 39 kg-1200 mg/day
 
-> 39 kg-1800 mg/day
+>39 kg-1800 mg/day
 
 In the clinical trial, in which the intention was to reach these target doses, the median daily dose was 31 mg/kg with a range of 6 to 51 mg/kg.
 
-In pediatric patients aged 2 to < 4 years, initiate oxcarbazepine at a daily dose of 8 to 10 mg/kg generally not to exceed 600 mg/day, given twice-a-day.
+In pediatric patients aged 2 to <4 years, initiate oxcarbazepine at a daily dose of 8 to 10 mg/kg generally not to exceed 600 mg/day, given twice-a-day.
 For patients less than 20 kg, a starting dose of 16 to 20 mg/kg may be considered [see Clinical Pharmacology (12.3)].
 The maximum maintenance dose of oxcarbazepine should be achieved over 2 to 4 weeks and should not exceed 60 mg/kg/day in a twice-a-day regimen.
 
-In the clinical trial in pediatric patients (2 to 4 years of age) in which the intention was to reach the target dose of 60 mg/kg/day, 50% of patients reached a final dose of at least 55 mg/kg/day.
+In the clinical trial in pediatric patients (2 to 4 years of age), in which the intention was to reach the target dose of 60 mg/kg/day, 50% of patients reached a final dose of at least 55 mg/kg/day.
 
 Under adjunctive therapy (with and without enzyme-inducing AEDs), when normalized by body weight, apparent clearance (L/hr/kg) decreased when age increased such that children 2 to < 4 years of age may require up to twice the oxcarbazepine dose per body weight compared to adults; and children 4 to ≤ 12 years of age may require a 50% higher oxcarbazepine dose per body weight compared to adults.
 
-Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1,7.2)].
+Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain AEDs [see Drug Interactions (7.1,7.2)].
 
 ## 2.5 Conversion to Monotherapy for Pediatric Patients (Aged 4-16 Years)
 
-Patients receiving concomitant antiepileptic drugs may be converted to monotherapy by initiating treatment with oxcarbazepine at approximately 8 to 10 mg/kg/day given twice-a-day, while simultaneously initiating the reduction of the dose of the concomitant antiepileptic drugs.
-The concomitant antiepileptic drugs can be completely withdrawn over 3 to 6 weeks while oxcarbazepine may be increased as clinically indicated by a maximum increment of 10 mg/kg/day at approximately weekly intervals to achieve the recommended daily dose.
+Patients receiving concomitant AEDs may be converted to monotherapy by initiating treatment with oxcarbazepine at approximately 8 to 10 mg/kg/day given twice-a-day, while simultaneously initiating the reduction of the dose of the concomitant AEDs.
+The concomitant AEDs can be completely withdrawn over 3 to 6 weeks, while oxcarbazepine may be increased as clinically indicated by a maximum increment of 10 mg/kg/day at approximately weekly intervals to achieve the recommended daily dose.
 Patients should be observed closely during this transition phase.
 
 The recommended total daily dose of oxcarbazepine is shown in Table 1.
@@ -76,9 +76,9 @@ Table 1: Range of Maintenance Doses of Oxcarbazepine for Pediatrics by Weight Du
 | 65 | 1200 | 2100 |
 | 70 | 1500 | 2100 |
 
-## 2.7 Dosage Modification for Patients with Renal Impairment
+## 2.7 Dosage Modification for Patients With Renal Impairment
 
-In patients with impaired renal function (creatinine clearance < 30 mL/min) initiate oxcarbazepine at one-half the usual starting dose (300 mg/day, given twice-a-day), and increase slowly to achieve the desired clinical response [see Clinical Pharmacology (12.3)].
+In patients with impaired renal function (creatinine clearance <30 mL/min) initiate oxcarbazepine at one-half the usual starting dose (300 mg/day, given twice-a-day), and increase slowly to achieve the desired clinical response [see Clinical Pharmacology (12.3)].
 
 ## 2.8 Administration Information
 
