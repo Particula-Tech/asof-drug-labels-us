@@ -10,13 +10,16 @@ The 30 mg strength extended-release chewable tablet is available as a speckled, 
 
 The 40 mg strength extended-release chewable tablet is available as a speckled, dark pink to peach color, capsule-shaped coated tablet, debossed with "NP 14" on one side and plain on the other side (not scored).
 
-The product is supplied in bottles of 100.
+The product is supplied in bottles of 30 and 100.
 
 | QuilliChew ER extended-release chewable tablets |  |  |  |
 | --- | --- | --- | --- |
 | Package Configuration | Tablet Strength (mg) | NDC | Print |
+| Bottles of 30 | 20 mg | NDC 24478‑074‑02 | NP 12 |
 | Bottles of 100 | 20 mg | NDC-24478-074-01 | NP 12 |
+| Bottles of 30 | 30 mg | NDC 24478‑075‑02 | NP 13 |
 | Bottles of 100 | 30 mg | NDC-24478-075-01 | NP 13 |
+| Bottles of 30 | 40 mg | NDC 24478‑076‑02 | NP 14 |
 | Bottles of 100 | 40 mg | NDC-24478-076-01 | NP 14 |
 
 ## 16.2 Storage and Handling
