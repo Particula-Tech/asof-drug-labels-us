@@ -1,26 +1,39 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Local Irritation
+## 5.1 Local Skin Irritation
 
-The skin of certain individuals may become excessively dry, red, swollen, or blistered.
+Tretinoin Gel Microsphere can cause local skin irritation, including excessive dryness, redness, swelling, peeling, itching, blistering, burning, or stinging [see Adverse Reactions (6.1)].
+Use of Tretinoin Gel Microsphere in greater than the recommended dosage (more frequent than once daily application or excessive application) will not result in more rapid or improved acne results and may result in marked redness, peeling, or discomfort.
 
-Tretinoin has been reported to cause severe irritation on eczematous skin and should be used with utmost caution in patients with this condition.
+Tretinoin has been reported to cause severe local skin irritation on eczematous skin.
 
-If the degree of irritation warrants, patients should be directed to temporarily reduce the amount or frequency of application of the medication, discontinue use temporarily, or discontinue use all together.
-Efficacy at reduced frequencies of application has not been established.
-If a reaction suggesting sensitivity occurs, use of the medication should be discontinued.
+Weather extremes, such as severe wind or cold, may increase the risk of skin irritation in patients using Tretinoin Gel Microsphere.
 
-To help limit skin irritation, patients must:
+To reduce the risk of local skin irritation, instruct Tretinoin Gel Microsphere-treated patients to:
 
-- •wash the treated skin gently, using a mild, non-medicated soap, and pat it dry, and
-- •avoid washing the treated skin too often or scrubbing it hard when washing.
+- •Avoid use of Tretinoin Gel Microsphere in areas affected by eczema.
+- •Minimize or avoid use of Tretinoin Gel Microsphere with weather extremes.
+- •Wash the treated skin gently, using a mild, non-medicated soap, pat it dry, and avoid washing the treated skin too often or scrubbing it hard when washing.
+  Tretinoin Gel Microsphere is not recommended with concomitant use of medicated or abrasive soaps and cleansers, products that have a strong drying effect, products with high concentrations of alcohol, astringents, spices, or lime peels.
+- •Apply a topical moisturizer.
 
-Patients should apply a topical moisturizer if dryness is bothersome.
+Advise patients that concomitant use of topical over the counter (OTC) acne products containing benzoyl peroxide, sulfur, resorcinol, or salicylic acid with Tretinoin Gel Microsphere may increase the risk for local skin irritation including dryness, erythema, and peeling.
+Consider withholding the use of topical OTC acne products if signs of skin irritation develop.
+Advise patients to allow the skin irritation effects of the topical OTC acne products to subside before initiation of Tretinoin Gel Microsphere treatment.
 
-## 5.2 Exposure to Ultraviolet Light or Weather Extremes
+If severe local skin irritation occurs, discontinue Tretinoin Gel Microsphere use temporarily or permanently.
 
-Unprotected exposure to sunlight, including sunlamps (UV light) should be avoided or minimized during the use of Tretinoin Gel Microsphere and patients with sunburn should be advised not to use the product until fully recovered because of heightened susceptibility to sunlight as a result of the use of tretinoin.
-Patients who may be required to have extended periods of UV exposure (e.g., due to occupation or sports), or those with inherent sensitivity to the sun, or those using medications that cause photosensitivity, should exercise particular caution.
-Use of sunscreen products (SPF 15 or higher) and protective clothing over treated areas are recommended when exposure cannot be avoided [see Nonclinical Toxicology (13.1)].
+Efficacy of Tretinoin Gel Microsphere at reduced frequencies of application has not been established.
 
-Weather extremes, such as wind or cold, also may be irritating to tretinoin-treated skin.
+## 5.2 Initial Worsening of Inflammatory Acne Vulgaris
+
+During the early weeks of Tretinoin Gel Microsphere treatment, an apparent exacerbation of inflammatory acne vulgaris lesions may occur.
+If Tretinoin Gel Microsphere is tolerated, initial worsening of inflammatory acne vulgaris lesions should not be considered a reason to discontinue therapy.
+
+## 5.3 Photosensitivity
+
+Tretinoin Gel Microsphere can cause photosensitivity.
+Advise patients to avoid or minimize unnecessary exposure to ultraviolet (UV) light, including sunlight and sunlamps, while using Tretinoin Gel Microsphere.
+Advise patients with sunburn to not use Tretinoin Gel Microsphere until the sunburn fully recovers.
+
+Advise patients, especially those who may be required to have extended periods of UV light exposure (e.g., due to occupation or sports), those with inherent sensitivity to the sun, or those using drugs that cause photosensitivity, to use sun protection daily in the form of sunscreen (sun protection factor [SPF] ≥ 15) and sun-protective clothing, when UV exposure cannot be avoided, even on days when it is not sunny or inside activities are expected.

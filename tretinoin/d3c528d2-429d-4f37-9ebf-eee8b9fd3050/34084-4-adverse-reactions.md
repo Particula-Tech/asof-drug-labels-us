@@ -4,37 +4,41 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Clinical Trials in Subjects with Acne
+Tretinoin Gel Microsphere, 0.1%
 
-In separate clinical trials for each concentration, acne subjects treated with Tretinoin Gel Microsphere, 0.1% or 0.04%, over the twelve-week period showed that cutaneous irritation scores for erythema, peeling, dryness, burning/stinging, or itching peaked during the initial two weeks of therapy, decreasing thereafter.
+The safety of Tretinoin Gel Microsphere, 0.1% for the treatment of acne vulgaris was evaluated in two multicenter, double-blind, randomized, vehicle-controlled clinical trials (Studies 1 and 2).
+A total of 347 subjects with acne vulgaris were treated in Studies 1 and 2 in which 172 subjects received Tretinoin Gel Microsphere, 0.1% and 175 subjects received vehicle, applied topically once daily in the evening, for 12 weeks.
+Mean age was 19 years (range 11-40) and 55% were female [see Clinical Studies (14.1)].
+Tretinoin Gel Microsphere is not approved for use in pediatric patients younger than 12 years of age [see Indications and Usage (1)].
 
-Approximately half of the subjects treated with Tretinoin Gel Microsphere, 0.04%, had cutaneous irritation at Week 2.
-Of those subjects who did experience cutaneous side effects, most had signs or symptoms that were mild in severity (severity was ranked on a 4-point ordinal scale: 0=none, 1=mild, 2=moderate, and 3=severe).
-Less than 10% of patients experienced moderate cutaneous irritation and there was no severe irritation at Week 2.
+In Studies 1 and 2, subjects treated with Tretinoin Gel Microsphere, 0.1% had increased cutaneous irritation scores for erythema, peeling, dryness, burning/stinging, or itching that peaked during the initial two weeks of therapy and decreased thereafter, compared to those treated with vehicle [see Warnings and Precautions (5.1)].
+During the 12-week treatment period, no more than 3% of Tretinoin Gel Microsphere, 0.1%-treated subjects had cutaneous irritation scores indicative of severe cutaneous irritation and 6% (14/224) of Tretinoin Gel Microsphere 0.1%-treated subjects discontinued treatment due to cutaneous irritation.
+Of these 14 subjects, four had severe cutaneous irritation after 3 to 5 days of treatment, with blistering in one subject.
 
-In trials of Tretinoin Gel Microsphere, 0.04%, throughout the treatment period the majority of subjects experienced some degree of irritation (mild, moderate, or severe) with 1% (2/225) of subjects having scores indicative of a severe irritation; 1.3% (3/225) of subjects treated with Tretinoin Gel Microsphere, 0.04%, discontinued treatment due to irritation, which included dryness in one patient and peeling and urticaria in another.
+Tretinoin Gel Microsphere, 0.04%
 
-In trials of Tretinoin Gel Microsphere, 0.1%, no more than 3% of subjects had cutaneous irritation scores indicative of severe irritation; 6% (14/224) of subjects treated with Tretinoin Gel Microsphere, 0.1%, discontinued treatment due to irritation.
-Of these 14 subjects, four had severe irritation after 3 to 5 days of treatment, with blistering in one subject.
+The safety of Tretinoin Gel Microsphere, 0.04% for the treatment of acne vulgaris was evaluated in two multicenter, double-blind, randomized, vehicle-controlled clinical trials (Studies 3 and 4).
+A total of 451 subjects with acne vulgaris were treated in Studies 3 and 4 in which 225 subjects received Tretinoin Gel Microsphere, 0.04% and 226 subjects received vehicle, applied once daily in the evening, for 12 weeks.
+Mean age was 19 years (range 11-49) and 57% were female [see Clinical Studies (14.2)].
+Tretinoin Gel Microsphere is not approved for use in pediatric patients younger than 12 years of age [see Indications and Usage (1)].
 
-In a double-blind trial with 156 acne subjects comparing 12 weeks of treatment with Tretinoin Gel Microsphere, 0.04% or 0.1%, (78 subjects each group), the most frequently-reported adverse events affected the skin and subcutaneous tissue (15.4% in the 0.04% group, and 20.5% in the 0.1% group).
-The most prevalent of the dermatologic adverse events in the 0.04% group was skin irritation (6.4%); and in the 0.1% group skin burning (7.7%), erythema (5.1%), skin irritation (3.8%), and dermatitis (3.8%).
-Most adverse events were of mild intensity (63.4%), and 34.4% were moderate.
-One subject in each group had adverse events characterized as severe, neither were dermatologic findings and neither was characterized as related to drug by the investigator.
+In Studies 3 and 4, subjects treated with Tretinoin Gel Microsphere, 0.04% had increased cutaneous irritation scores for erythema, peeling, dryness, burning/stinging, or itching that peaked during the initial two weeks of therapy and decreased thereafter, compared to those treated with vehicle [see Warnings and Precautions (5.1)].
+Approximately half of the 225 subjects in the Tretinoin Gel Microsphere, 0.04%-treated group had cutaneous irritation at Week 2.
+Of the subjects who experienced cutaneous irritation, most had signs or symptoms that were mild in severity (severity was ranked on a 4-point ordinal scale: 0=none, 1=mild, 2=moderate, and 3=severe).
+Less than 10% of Tretinoin Gel Microsphere, 0.04%-treated subjects experienced moderate cutaneous irritation, and none had severe cutaneous irritation at Week 2.
 
-Trials in Subjects without Acne
+In Studies 3 and 4, during the 12-week treatment period, the majority of Tretinoin Gel Microsphere, 0.04%-treated subjects experienced cutaneous irritation (mild, moderate, or severe), of which, 1% (2/225) of subjects had cutaneous irritation scores indicative of a severe irritation and 1.3% (3/225) of subjects discontinued treatment due to cutaneous irritation, which included dryness in one subject and peeling and urticaria in another.
 
-In a half-face comparison trial conducted for up to 14 days in women with sensitive skin, but without acne, Tretinoin Gel Microsphere, 0.1%, was statistically less irritating than tretinoin cream, 0.1%.
-In addition, a cumulative 21-day irritation evaluation in subjects with normal skin showed that Tretinoin Gel Microsphere, 0.1%, had a lower irritation profile than tretinoin cream, 0.1%.
-The clinical significance of these irritation studies for patients with acne is not established.
-Comparable effectiveness of Tretinoin Gel Microsphere, 0.1%, and tretinoin cream, 0.1%, has not been established.
-The lower irritancy of Tretinoin Gel Microsphere, 0.1%, in subjects without acne may be attributable to the properties of its vehicle.
-The contribution of decreased irritancy by the MICROSPONGE® System has not been established.
-No irritation trials have been performed to compare Tretinoin Gel Microsphere, 0.04%, with either Tretinoin Gel Microsphere, 0.1%, or tretinoin cream, 0.1%.
+Tretinoin Gel Microsphere, 0.04% and 0.1%
+
+In a double-blind trial, 156 subjects with acne vulgaris were treated for 12-weeks with Tretinoin Gel Microsphere 0.04% (n=78) or 0.1% (n=78) topically once daily.
+In this trial, the most frequently reported adverse events affected the skin and subcutaneous tissue (15% in the 0.04% group, and 21% in the 0.1% group).
+The most prevalent events in the 0.04% group were skin irritation (6%); and in the 0.1% group, skin burning (8%), erythema (5%), skin irritation (4%), and dermatitis (4%).
+In this trial, 63% of the adverse events were of mild intensity, and 34% were of moderate intensity.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of Tretinoin Gel Microsphere.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post-approval use of Tretinoin Gel Microsphere and other topical tretinoin products.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Temporary hyper- or hypopigmentation has been reported with repeated application of tretinoin.
+- •Hyper- or hypopigmentation has been reported with repeated application of tretinoin.
