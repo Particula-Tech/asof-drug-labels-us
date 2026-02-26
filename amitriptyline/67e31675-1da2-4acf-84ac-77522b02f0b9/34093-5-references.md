@@ -48,7 +48,7 @@ Mahwah, NJ 07430 USA
 
 Made in India
 
-Revised: March 2025, V-03
+Revised: March 2025, V-04
 
 Dispense with Medication Guide available at:
 

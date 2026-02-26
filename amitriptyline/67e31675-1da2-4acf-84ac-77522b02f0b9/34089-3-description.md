@@ -5,6 +5,8 @@ Amitriptyline hydrochloride, USP, a dibenzocycloheptadiene derivative, is a whit
 It is designated chemically as 10,11-Dihydro-N,N-dimethyl-5H-dibenzo[a,d] cycloheptene-Δ5, γ-propylamine hydrochloride.
 It has the following structural formula:
 
-Each tablet for oral administration contains 10, 25, 50, 75, 100 or 150 mg amitriptyline hydrochloride USP.
-Inactive ingredients include colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, microcrystalline cellulose.
-The 10 mg also includes Hypromellose, PEG, Titanium Dioxide,, D&C Red #27 Aluminum Lake, D&C Yellow #10 Aluminum Lake and FD&C Blue #1 Aluminum Lake; 25 mg – Hypromellose, PEG, Titanium Dioxide, FD&C Blue #1 Aluminum Lake, D&C Yellow #10 Aluminum Lake and FD&C Red #40 Aluminum Lake; 50 mg - Hypromellose; PEG, Titanium Dioxide, FD&C Red #40 Aluminum Lake, D&C Yellow #10 Aluminum Lake and FD&C Blue #2 Aluminum Lake; 75 mg - Hypromellose, PEG, Titanium Dioxide, and FD&C Blue #2 Aluminum Lake; 100 mg – Hypromellose, PEG, Titanium Dioxide, D&C Yellow #10 Aluminum Lake, and D&C Red #30 Aluminum Lake; 150 mg - Hypromellose, PEG, Titanium Dioxide
+Each tablet for oral administration contains 10, 25, 50, 75, 100, or 150 mg amitriptyline hydrochloride, USP.
+Inactive ingredients include ascorbic acid, colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, microcrystalline cellulose.
+The 10 mg also includes D&C red #30 aluminum lake, D&C yellow #10 aluminum lake, lecithin (soya), talc, titanium dioxide and xanthan gum 25 mg – D&C yellow #10 aluminum lake, FD&C blue #1 aluminum lake, FD&C red #40 aluminum lake, lecithin (soya), talc, titanium dioxide, and xanthan gum; 50 mg - D&C yellow #10 aluminum lake, FD&C blue #2 aluminum lake, FD&C red #40 aluminum lake, talc, titanium dioxide, and xanthan gum; 75 mg- FD&C blue #2 aluminum lake, lecithin (soya), talc, titanium dioxide, and xanthan gum; 100 mg – D&C red #30 aluminum lake, D&C yellow #10 aluminum lake, lecithin (soya), talc, titanium dioxide, and xanthan gum; 150 mg - FD&C blue #2 aluminum lake, FD&C red #40 aluminum lake, D&C yellow #10 aluminum lake, lecithin (soya), talc, titanium dioxide, and xanthan gum.
+
+Meets USP Dissolution Test 2.

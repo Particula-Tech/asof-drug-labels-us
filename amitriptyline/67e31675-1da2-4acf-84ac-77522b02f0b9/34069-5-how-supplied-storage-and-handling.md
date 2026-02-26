@@ -2,7 +2,7 @@
 
 Amitriptyline hydrochloride tablets, USP for oral administration are available as:
 
-10 mg: Light pink to pink, round film coated tablet debossed with 'LS' on one side and '201' on other side and supplied as:
+10 mg: Light orange to orange, round film coated tablet debossed with 'LS' on one side and '201' on other side and supplied as:
 
 NDC 70756-201-11 bottles of 100 with child-resistant closure
 
@@ -28,7 +28,7 @@ NDC 70756-204-11 bottles of 100 with child-resistant closure
 
 NDC 70756-205-11 bottles of 100 with child-resistant closure
 
-150 mg: White to off white, capsules shaped film coated tablet debossed with 'LS' on one side and '206' on other side and supplied as:
+150 mg: Light brown to brown, capsules shaped film coated tablet debossed with 'LS' on one side and '206' on other side and supplied as:
 
 NDC 70756-206-11 bottles of 100 with child-resistant closure
 
