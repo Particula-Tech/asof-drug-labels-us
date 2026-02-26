@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-(See WARNINGSand PRECAUTIONS.)
+(See WARNINGS and PRECAUTIONS.)
 
 In double-blind, vehicle-controlled studies involving 339 patients who applied RENOVA (tretinoin cream) 0.02% to their faces, adverse reactions associated with the use of RENOVA (tretinoin cream) 0.02% were limited primarily to the skin.
 Almost all patients reported one or more local reactions such as peeling, dry skin, burning, stinging, erythema, and pruritus.

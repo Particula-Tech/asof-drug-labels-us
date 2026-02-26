@@ -1,10 +1,10 @@
-RENOVA (TRETINOIN CREAM) 0.02% RENOVA (reh-NO-vah) Generic Name: Tretinoin Cream (0.02%) Use only on the Face
+PATIENT INFORMATION RENOVA® (tretinoin) Cream 0.02% RENOVA (reh-NO-vah) Generic Name: Tretinoin Cream (0.02%) Use only on the Face
 
 Read this leaflet carefully before you start to use your medicine.
 Read the information you get every time you get more medicine.
 There may be new information about the drug.
 This leaflet does not take the place of talks with your doctor.
-It is important for you to talk with your doctor about how to use RENOVA ®(tretinoin cream) 0.02% for the best results and how to reduce side effects.
+It is important for you to talk with your doctor about how to use RENOVA® (tretinoin cream) 0.02% for the best results and how to reduce side effects.
 
 What is the Most Important Information about RENOVA (tretinoin cream) 0.02%?
 
@@ -12,10 +12,10 @@ RENOVA (tretinoin cream) 0.02% is a serious medicine.
 Do not use RENOVA (tretinoin cream) 0.02% if you are pregnant or attempting to become pregnant.
 If you become pregnant while using RENOVA (tretinoin cream) 0.02%, please contact your doctor immediately.
 
-Avoid sunlight and other medicines that may increase your sensitivity to sunlight (see “ Who should not use RENOVA (tretinoin cream) 0.02%?”).
+Avoid sunlight and other medicines that may increase your sensitivity to sunlight (see “Who should not use RENOVA (tretinoin cream) 0.02%?”).
 
-RENOVA (tretinoin cream) 0.02% does notremove wrinkles or repair sun-damaged skin.
-(see “ What is RENOVA (tretinoin cream) 0.02%?” for more details.)
+RENOVA (tretinoin cream) 0.02% does not remove wrinkles or repair sun-damaged skin.
+(see “What is RENOVA (tretinoin cream) 0.02%?” for more details.)
 
 What is RENOVA (tretinoin cream) 0.02%?
 
@@ -40,11 +40,11 @@ Who should not use RENOVA (tretinoin cream) 0.02%?
 
 Do not use RENOVA (tretinoin cream) 0.02% if:
 
-- you are pregnant or plan to become pregnant.
+- •you are pregnant or plan to become pregnant.
   If you become pregnant while using RENOVA (tretinoin cream) 0.02%, please contact your doctor immediately.
-- you are sunburned or your skin is irritated.
-- you are highly sensitive to sunlight.
-- you are allergic to any of the ingredients in RENOVA (tretinoin cream) 0.02%.
+- •you are sunburned or your skin is irritated.
+- •you are highly sensitive to sunlight.
+- •you are allergic to any of the ingredients in RENOVA (tretinoin cream) 0.02%.
   The active ingredient is tretinoin.
   Ask your doctor or pharmacist about the inactive ingredients.
 
@@ -57,9 +57,9 @@ Because RENOVA (tretinoin cream) 0.02% may make your skin more likely to burn fr
 You should not use RENOVA (tretinoin cream) 0.02% with such medicines.
 These include, but are not limited to:
 
-- thiazides (to treat high blood pressure)
-- tetracyclines, fluoroquinolones, sulfonamides (to treat infection)
-- phenothiazines (to treat serious emotional problems)
+- •thiazides (to treat high blood pressure)
+- •tetracyclines, fluoroquinolones, sulfonamides (to treat infection)
+- •phenothiazines (to treat serious emotional problems)
 
 If you are taking any prescription or non-prescription medicines, check with your doctor to make sure you can use RENOVA (tretinoin cream) 0.02% with them.
 
@@ -72,11 +72,10 @@ Use RENOVA (tretinoin cream) 0.02% as part of a total skin care and sun avoidanc
 Follow your doctor’s instructions on how to use RENOVA (tretinoin cream) 0.02%.
 RENOVA (tretinoin cream) 0.02% is usually applied to the face once a day in the evening, following the three steps listed below:
 
-1. Gently wash your face with a mild soap.
-2. Pat the skin dry and wait 20 to 30 minutes before applying RENOVA (tretinoin cream) 0.02%.
-3. TUBE: Squeeze a small amount of RENOVA (tretinoin cream) 0.02% (the size of a pearl — about 1/4 inch or 5 mm diameter) on your fingertip, and apply to your face.
-
-PUMP: Fully depress the pump twice to dispense a small amount of RENOVA (tretinoin cream) 0.02% (the size of a pearl—about 1/4 inch or 5 mm diameter) on your fingertip, and apply to your face.
+1. 1.Gently wash your face with a mild soap.
+2. 2.Pat the skin dry and wait 20 to 30 minutes before applying RENOVA (tretinoin cream) 0.02%.
+3. 3.TUBE: Squeeze a small amount of RENOVA (tretinoin cream) 0.02% (the size of a pearl—about 1/4 inch or 5 mm diameter) on your fingertip, and apply to your face.
+4. PUMP: Fully depress the pump twice to dispense a small amount of RENOVA (tretinoin cream) 0.02% (the size of a pearl—about 1/4 inch or 5 mm diameter) on your fingertip, and apply to your face.
 
 This should be enough to cover your affected area lightly.
 
@@ -98,14 +97,14 @@ RENOVA (tretinoin cream) 0.02% can make your treated skin more sensitive to sunl
 Therefore, keep out of the sunlight as much as possible and do not use sunlamps.
 Avoid as much as possible products that can increase skin irritation, such as:
 
-- other skin medicines
-- medicated or abrasive (rough) soaps
-- permanent wave solutions
-- chemical hair removers or waxes
-- electrolysis
-- products with alcohol, spices, astringents, or lime
-- cleaners, shampoos, or cosmetics with a strong drying effect
-- other products that may irritate your skin
+- •other skin medicines
+- •medicated or abrasive (rough) soaps
+- •permanent wave solutions
+- •chemical hair removers or waxes
+- •electrolysis
+- •products with alcohol, spices, astringents, or lime
+- •cleaners, shampoos, or cosmetics with a strong drying effect
+- •other products that may irritate your skin
 
 What are the possible side effects of RENOVA (tretinoin cream) 0.02%?
 
@@ -125,9 +124,17 @@ This leaflet summarizes the most important information about RENOVA (tretinoin c
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about RENOVA (tretinoin cream) 0.02% that is written for health professionals.
 
-Storage:Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+Storage: Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 
-Manufactured for:Bausch Health US, LLC, Bridgewater, NJ 08807 USA Manufactured by:Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada RENOVA is a trademark of Bausch Health Companies Inc. or its affiliates. © 2019 Bausch Health Companies Inc. or its affiliates Rev.
-09/2019 9418703
+Distributed by: Bausch Health US, LLC, Bridgewater, NJ 08807 USA
 
-9418803
+Manufactured by: Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
+
+RENOVA is a registered trademark of Bausch Health Companies Inc. or its affiliates.
+
+© 2025 Bausch Health Companies Inc. or its affiliates
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Rev.
+11/2025 9418704

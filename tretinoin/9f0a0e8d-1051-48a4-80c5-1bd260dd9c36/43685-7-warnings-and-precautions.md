@@ -1,9 +1,9 @@
 # WARNINGS
 
-- RENOVA (tretinoin cream) 0.02% is a dermal irritant, and the results of continued irritation of the skin for greater than 52 weeks in chronic use with RENOVA (tretinoin cream) 0.02% are not known.
+- •RENOVA (tretinoin cream) 0.02% is a dermal irritant, and the results of continued irritation of the skin for greater than 52 weeks in chronic use with RENOVA (tretinoin cream) 0.02% are not known.
   There is evidence of atypical changes in melanocytes and keratinocytes and of increased dermal elastosis in some patients treated with RENOVA (tretinoin cream) 0.05% for longer than 48 weeks.
   The significance of these findings and their relevance for RENOVA (tretinoin cream) 0.02% are unknown.
-- RENOVA (tretinoin cream) 0.02% should not be administered if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the possibility of augmented phototoxicity.
+- •RENOVA (tretinoin cream) 0.02% should not be administered if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the possibility of augmented phototoxicity.
 
 Exposure to sunlight (including sunlamps) should be avoided or minimized during use of RENOVA (tretinoin cream) 0.02% because of heightened sunburn susceptibility.
 Patients should be warned to use sunscreens (minimum SPF of 15) and protective clothing when using RENOVA (tretinoin cream) 0.02%.
@@ -31,21 +31,21 @@ Weather extremes, such as wind or cold, may be more irritating to patients using
 
 RENOVA (tretinoin cream) 0.02% is to be used as described below unless otherwise directed by your physician:
 
-1. It is for use on the face.
-2. Avoid contact with the eyes, ears, nostrils, angles of the nose, and mouth.
+1. 1.It is for use on the face.
+2. 2.Avoid contact with the eyes, ears, nostrils, angles of the nose, and mouth.
    RENOVA (tretinoin cream) 0.02% may cause severe redness, itching, burning, stinging, and peeling if used on these areas.
-3. In the evening, gently wash your face with a mild soap.
+3. 3.In the evening, gently wash your face with a mild soap.
    Pat skin dry and wait 20 to 30 minutes before applying RENOVA (tretinoin cream) 0.02%.
    Apply only a small pearl-sized (about ¼ inch or 5 mm diameter) amount of RENOVA (tretinoin cream) 0.02% to your face at one time.
    This should be enough to cover the entire affected area lightly.
-4. Do not wash your face for at least 1 hour after applying RENOVA (tretinoin cream) 0.02%.
-5. For best results, you are advised not to apply another skin care product or cosmetic for at least 1 hour after applying RENOVA (tretinoin cream) 0.02%.
-6. In the morning, apply a moisturizing sunscreen, SPF 15 or greater.
-7. RENOVA (tretinoin cream) 0.02% is a serious medication.
+4. 4.Do not wash your face for at least 1 hour after applying RENOVA (tretinoin cream) 0.02%.
+5. 5.For best results, you are advised not to apply another skin care product or cosmetic for at least 1 hour after applying RENOVA (tretinoin cream) 0.02%.
+6. 6.In the morning, apply a moisturizing sunscreen, SPF 15 or greater.
+7. 7.RENOVA (tretinoin cream) 0.02% is a serious medication.
    Do not use RENOVA (tretinoin cream) 0.02% if you are pregnant or attempting to become pregnant.
    If you become pregnant while using RENOVA (tretinoin cream) 0.02%, please contact your physician immediately.
-8. Avoid sunlight and other medicines that may increase your sensitivity to sunlight.
-9. RENOVA (tretinoin cream) 0.02% does not remove wrinkles or repair sun-damaged skin.
+8. 8.Avoid sunlight and other medicines that may increase your sensitivity to sunlight.
+9. 9.RENOVA (tretinoin cream) 0.02% does not remove wrinkles or repair sun-damaged skin.
 
 Please refer to the Patient Package Insert for additional patient information.
 
@@ -80,14 +80,14 @@ In oral Segment I and Segment III studies in rats with tretinoin, decreased surv
 
 Teratogenic Effects
 
-ORAL tretinoinhas been shown to be teratogenic in rats, mice, rabbits, hamsters, and subhuman primates.
+ORAL tretinoin has been shown to be teratogenic in rats, mice, rabbits, hamsters, and subhuman primates.
 It was teratogenic and fetotoxic in Wistar rats when given orally or topically in doses greater than 1 mg/kg/day (42 times the maximum human systemic dose normalized for total body surface area).
 However, variations in teratogenic doses among various strains of rats have been reported.
 In the cynomolgus monkey, which, metabolically, is closer to humans for tretinoin than the other species examined, fetal malformations were reported at doses of 10 mg/kg/day or greater, but none were observed at 5 mg/kg/day (417 times the maximum human systemic dose adjusted for total body surface area), although increased skeletal variations were observed at all doses.
 A dose-related increase in embryolethality and abortion was reported.
 Similar results have also been reported in pigtail macaques.
 
-TOPICAL tretinoinin animal teratogenicity tests has generated equivocal results.
+TOPICAL tretinoin in animal teratogenicity tests has generated equivocal results.
 There is evidence for teratogenicity (shortened or kinked tail) of topical tretinoin in Wistar rats at doses greater than 1 mg/kg/day (42 times the maximum human systemic dose adjusted for total body surface area).
 Anomalies (humerus: short 13%, bent 6%, os parietal incompletely ossified 14%) have also been reported when 10 mg/kg/day was dermally applied.
 
@@ -96,7 +96,7 @@ There are other reports in New Zealand White rabbits administered doses of great
 In contrast, several well-controlled animal studies have shown that dermally applied tretinoin may be fetotoxic, but not overtly teratogenic, in rats and rabbits at doses of 1.0 and 0.5 mg/kg/day, respectively (42 times the maximum human systemic dose adjusted for total body surface area in both species).
 
 With widespread use of any drug, a small number of birth defect reports associated temporally with the administration of the drug would be expected by chance alone.
-Thirty human cases of temporally associated congenital malformations have been reported during two decades of clinical use of another formulation of topical tretinoin (Retin-A ®).
+Thirty human cases of temporally associated congenital malformations have been reported during two decades of clinical use of another formulation of topical tretinoin (Retin-A®).
 Although no definite pattern of teratogenicity and no causal association has been established from these cases, five of the reports describe the rare birth defect category holoprosencephaly (defects associated with incomplete midline development of the forebrain).
 The significance of these spontaneous reports in terms of risk to the fetus is not known.
 

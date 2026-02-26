@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-RENOVA ®(tretinoin cream) 0.02% contains the active ingredient tretinoin in a cream base.
+RENOVA® (tretinoin cream) 0.02% contains the active ingredient tretinoin in a cream base.
 Tretinoin is a yellow to light-orange crystalline powder having a characteristic floral odor.
 Tretinoin is soluble in dimethylsulfoxide, slightly soluble in polyethylene glycol 400, octanol, and 100% ethanol.
 It is practically insoluble in water and mineral oil, and it is insoluble in glycerin.
