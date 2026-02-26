@@ -20,8 +20,8 @@ The most common adverse reactions (≥25%) reported in patients receiving Eribul
 The most common serious adverse reactions reported in patients receiving Eribulin Mesylate Injection were febrile neutropenia (4%) and neutropenia (2%).
 The most common adverse reaction resulting in discontinuation of Eribulin Mesylate Injection was peripheral neuropathy (5%).
 
-The adverse reactions described in Table 2 were identified in 750 patients treated in Study 1 [see Clinical Studies (14.1)].
-In Study 1, patients were randomized (2:1) to receive either Eribulin Mesylate Injection (1.4 mg/m2 on Days 1 and 8 of a 21-day cycle) or single agent treatment chosen by their physician (control group).
+The adverse reactions described in Table 2 were identified in 750 patients treated in Study 1.
+In Study 1, patients were randomized (2:1) to receive either Eribulin Mesylate Injection (1.4 mg/m on Days 1 and 8 of a 21-day cycle) or single agent treatment chosen by their physician (control group).
 A total of 503 patients received Eribulin Mesylate Injection and 247 patients in the control group received therapy consisting of chemotherapy [total 97% (anthracyclines 10%, capecitabine 18%, gemcitabine 19%, taxanes 15%, vinorelbine 25%, other chemotherapies 10%)] or hormonal therapy (3%).
 The median duration of exposure was 118 days for patients receiving Eribulin Mesylate Injection and 63 days for patients receiving control therapy.
 Table 2 reports the most common adverse reactions occurring in at least 10% of patients in either group.

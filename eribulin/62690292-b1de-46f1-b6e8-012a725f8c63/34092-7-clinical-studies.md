@@ -18,8 +18,8 @@ Ninety-one percent of patients had a baseline ECOG performance status of 0 or 1.
 Tumor prognostic characteristics, including estrogen receptor status (positive: 67%, negative: 28%), progesterone receptor status (positive: 49%, negative: 39%), HER2/neu receptor status (positive: 16%, negative: 74%), triple negative status (ER-, PR-, HER2/neu-: 19%), presence of visceral disease (82%, including 60% liver and 38% lung) and bone disease (61%), and number of sites of metastases (greater than two: 50%), were also similar in the Eribulin Mesylate Injection and control arms.
 Patients received a median of four prior chemotherapy regimens in both arms.
 
-In Study 1, a statistically significant improvement in overall survival was observed in patients randomized to the Eribulin Mesylate Injection arm compared to the control arm (see Table 5).
-An updated, unplanned survival analysis, conducted when 77% of events had been observed (see Figure 1), was consistent with the primary analysis.
+In Study 1, a statistically significant improvement in overall survival was observed in patients randomized to the Eribulin Mesylate Injection arm compared to the control arm (see).
+An updated, unplanned survival analysis, conducted when 77% of events had been observed (see), was consistent with the primary analysis.
 In patients randomized to Eribulin Mesylate Injection, the objective response rate by the RECIST criteria was 11% (95% CI: 8.6%, 14.3%) and the median response duration was 4.2 months (95% CI: 3.8, 5.0 months).
 
 Table 5: Comparison of Overall Survival in Eribulin Mesylate Injection and Control Arm - Study 1
@@ -56,7 +56,7 @@ The distribution of subtypes of liposarcoma, based on local histologic assessmen
 
 Study 2 demonstrated a statistically significant improvement in OS in patients randomized to Eribulin Mesylate Injection compared with dacarbazine (see Table 6).
 There was no significant difference in progression-free survival in the overall population.
-Treatment effects of Eribulin Mesylate Injection were limited to patients with liposarcoma based on pre-planned, exploratory subgroup analyses of OS and PFS (see Tables 6 and 7 and Figure 2).
+Treatment effects of Eribulin Mesylate Injection were limited to patients with liposarcoma based on pre-planned, exploratory subgroup analyses of OS and PFS (see Tables 6 and 7 and).
 There was no evidence of efficacy of Eribulin Mesylate Injection in patients with advanced or metastatic leiomyosarcoma in Study 2 (see Table 7).
 
 Table 6: Efficacy Results for the Liposarcoma Stratum and All PatientsAll patients = liposarcoma and leiomyosarcoma. in Study 2Efficacy data from one study site enrolling six patients were excluded.
