@@ -2,19 +2,13 @@
 
 PROMETRIUM® (progesterone, USP)
 
-Capsules 100 mg
-
-Capsules 200 mg
+Capsules 100 mg Capsules 200 mg
 
 Rx only
 
 Read this PATIENT INFORMATION before you start taking PROMETRIUM® (progesterone, USP) Capsules and read what you get each time you refill your PROMETRIUM Capsules prescription.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
-
-| WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT PROMETRIUM CAPSULES (A Progesterone Hormone)? |
-| --- |
-| •Progestins with estrogens should not be used to prevent heart disease, heart attacks, strokes, or dementia. •Using progestins with estrogens may increase your chance of getting heart attacks, strokes, breast cancer, and blood clots.•Using progestins with estrogens may increase your chance of getting dementia, based on a study of women age 65 and older.•You and your healthcare provider should talk regularly about whether you still need treatment with PROMETRIUM Capsules. |
 
 THIS PRODUCT CONTAINS PEANUT OIL AND SHOULD NOT BE USED IF YOU ARE ALLERGIC TO PEANUTS.
 
@@ -48,7 +42,6 @@ Do not start taking PROMETRIUM Capsules if you:
 - •Currently have or have had blood clots
 - •Currently have or have had liver problems
 - •Are allergic to PROMETRIUM Capsules or any of its ingredients See the list of ingredients in PROMETRIUM Capsules at the end of this leaflet.
-- •Think you may be pregnant
 
 Tell your healthcare provider:
 
@@ -128,7 +121,7 @@ General information about safe and effective use of PROMETRIUM Capsules
 
 Keep PROMETRIUM Capsules out of the reach of children.
 
-This leaf let provides a summary of the most important information about PROMETRIUM Capsules.
+This leaflet provides a summary of the most important information about PROMETRIUM Capsules.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask for information about PROMETRIUM Capsules that is written for health professionals.
 You can get more information by calling the toll free number 1-888-848-3593.
@@ -151,7 +144,7 @@ Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [S
 
 Protect from excessive moisture.
 
-Distributed by: Acertis Pharmaceuticals, LLC Manhasset, NY 11030 1-888-848-3593
+Distributed by: Acertis Pharmaceuticals, LLC Raleigh, NC 276011-888-848-3593
 
 10226 Rev.
-03/2024
+02/2026

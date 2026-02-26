@@ -4,13 +4,13 @@
 
 PROMETRIUM® (progesterone, USP) Capsules
 
-100 mg
+SV 100 mg
 
 Rx only
 
 DO NOT USE IF ALLERGIC TO PEANUTS
 
-acertisTM PHARMACEUTICALS
+acertis TM PHARMACEUTICALS
 
 # PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Label
 
@@ -18,10 +18,10 @@ acertisTM PHARMACEUTICALS
 
 PROMETRIUM® (progesterone, USP) Capsules
 
-200 mg
+SV2 200 mg
 
 Rx only
 
 DO NOT USE IF ALLERGIC TO PEANUTS
 
-acertisTM PHARMACEUTICALS
+acertis TM PHARMACEUTICALS

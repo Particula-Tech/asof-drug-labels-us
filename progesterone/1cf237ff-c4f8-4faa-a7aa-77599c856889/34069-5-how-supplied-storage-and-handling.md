@@ -1,17 +1,14 @@
 # HOW SUPPLIED
 
-PROMETRIUM (progesterone, USP) Capsules 100 mg are round, peach-colored capsules branded with black imprint "SV."
+PROMETRIUM® (progesterone, USP) Capsules 100 mg are round, peach-colored capsules branded with black imprint "SV."
 
 NDC 72989-372-30 (Bottle of 30)
 
-PROMETRIUM (progesterone, USP) Capsules 200 mg are oval, pale yellow-colored capsules branded with black imprint "SV2."
+PROMETRIUM® (progesterone, USP) Capsules 200 mg are oval, pale yellow-colored capsules branded with black imprint "SV2."
 
 NDC 72989-373-30 (Bottle of 30)
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
-
 Protect from excessive moisture.
-
 Dispense in tight, light-resistant container as defined in USP/NF, accompanied by a Patient Insert.
-
 Keep out of reach of children.
