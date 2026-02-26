@@ -1,14 +1,24 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse drug reactions are described elsewhere in the labeling:
+
+- Drug Products with the Same Active Ingredient [see Warnings and Precautions (5.1)]
+- Upper Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.2)]
+- Mineral Metabolism [see Warnings and Precautions (5.3)]
+- Jaw Osteonecrosis [see Warnings and Precautions (5.4)]
+- Musculoskeletal Pain [see Warnings and Precautions (5.5)]
+- Atypical Fractures Including Femoral Fractures [see Warnings and Precautions (5.6)]
+- Renal Impairment [see Warnings and Precautions (5.7)]
+- Glucocorticoid-Induced Osteoporosis [see Warnings and Precautions (5.8)]
+- Laboratory Test Interactions [see Warnings and Precautions (5.9)]
+
 ## 6.1 Clinical Studies Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Treatment of Postmenopausal Osteoporosis
 
-Daily Dosing
-
-The safety of risedronate sodium tablets 5 mg once daily in the treatment of postmenopausal osteoporosis was assessed in four randomized, double-blind, placebo-controlled multinational trials of 3232 women aged 38 to 85 years with postmenopausal osteoporosis.
+Daily Dosing The safety of risedronate sodium tablets 5 mg once daily in the treatment of postmenopausal osteoporosis was assessed in four randomized, double-blind, placebo-controlled multinational trials of 3232 women aged 38 to 85 years with postmenopausal osteoporosis.
 The duration of the trials was up to three years, with 1619 patients exposed to placebo and 1613 patients exposed to risedronate sodium tablets 5 mg.
 Patients with pre-existing gastrointestinal disease and concomitant use of non­-steroidal anti-inflammatory drugs, proton pump inhibitors, and H2 antagonists were included in these clinical trials.
 All women received 1000 mg of elemental calcium plus vitamin D supplementation up to 500 international units per day if their 25-hydroxyvitamin D3 level was below normal at baseline.
@@ -22,8 +32,7 @@ Adverse events are shown without attribution of causality.
 
 | Table 1 Adverse Events Occurring at a Frequency greater than or equal to 5% in Either Treatment Group Combined Phase 3 Postmenopausal Osteoporosis Treatment Trials |  |  |
 | --- | --- | --- |
-| Body System | Placebo N = 1619 | 5 mg Risedronate Sodium Tablets N = 1613 |
-| % | % |  |
+| Body System | Placebo N = 1619 % | 5 mg Risedronate Sodium Tablets N = 1613 % |
 | Body as a Whole |  |  |
 | Infection | 29.9 | 31.1 |
 | Back Pain | 26.1 | 28 |
@@ -85,9 +94,7 @@ Endoscopic Findings: In the risedronate clinical trials, endoscopic evaluation w
 Endoscopies were performed on equal numbers of patients between the placebo and treated groups [75 (14.5%) placebo; 75 (11.9%) risedronate].
 Clinically important findings (perforations, ulcers, or bleeding) among this symptomatic population were similar between groups (51% placebo; 39% risedronate).
 
-Once-a-Week Dosing
-
-The safety of risedronate sodium tablets 35 mg once-a-week in the treatment of postmenopausal osteoporosis was assessed in a 1-year, double-blind, multicenter study comparing risedronate sodium tablets 5 mg daily and risedronate sodium tablets 35 mg once-a-week in postmenopausal women aged 50 to 95 years.
+Once-a-Week Dosing The safety of risedronate sodium tablets 35 mg once-a-week in the treatment of postmenopausal osteoporosis was assessed in a 1-year, double-blind, multicenter study comparing risedronate sodium tablets 5 mg daily and risedronate sodium tablets 35 mg once-a-week in postmenopausal women aged 50 to 95 years.
 The duration of the trials was one year, with 480 patients exposed to risedronate sodium tablets 5 mg daily and 485 exposed to risedronate sodium tablets 35 mg once-a-week.
 Patients with pre-existing gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs, proton pump inhibitors, and H2 antagonists were included in these clinical trials.
 All women received 1000 mg of elemental calcium plus vitamin D supplementation up to 500 international units per day if their 25-hydroxyvitamin D3 level was below normal at baseline.
@@ -134,9 +141,7 @@ Thereafter, the incidence of hypocalcemia with these regimens was similar at app
 
 Prevention of Postmenopausal Osteoporosis
 
-Daily Dosing
-
-The safety of risedronate sodium tablets 5 mg daily in the prevention of postmenopausal osteoporosis was assessed in two randomized, double-blind, placebo-controlled trials.
+Daily Dosing The safety of risedronate sodium tablets 5 mg daily in the prevention of postmenopausal osteoporosis was assessed in two randomized, double-blind, placebo-controlled trials.
 In one study of postmenopausal women aged 37 to 82 years without osteoporosis, the use of estrogen replacement therapy in both placebo- and risedronate-treated patients was included.
 The duration of the trial was one year, with 259 exposed to placebo and 261 patients exposed to risedronate sodium tablets 5 mg.
 The second study included postmenopausal women aged 44 to 63 years without osteoporosis.
@@ -153,9 +158,7 @@ The incidence of serious adverse events was 17.6% in the placebo group and 9.3% 
 The percentage of patients who withdrew from treatment due to adverse events was 6.4% in the placebo group and 5.4% in the risedronate sodium tablets 5 mg group.
 Nausea was reported by 6.4% of patients in the placebo group and 13.2% of patients in the risedronate sodium tablets 5 mg group.
 
-Once-a-Week Dosing
-
-There were no deaths in a 1-year, double-blind, placebo-controlled study of risedronate sodium tablets 35 mg once-a-week for prevention of bone loss in 278 postmenopausal women without osteoporosis.
+Once-a-Week Dosing There were no deaths in a 1-year, double-blind, placebo-controlled study of risedronate sodium tablets 35 mg once-a-week for prevention of bone loss in 278 postmenopausal women without osteoporosis.
 More treated subjects on risedronate reported arthralgia (placebo 7.8%; risedronate 13.9%), myalgia (placebo 2.1%; risedronate 5.1%), and nausea (placebo 4.3%; risedronate 7.3%) than subjects on placebo.
 
 Treatment to Increase Bone Mass in Men with Osteoporosis
@@ -217,10 +220,11 @@ All patients were effectively treated with topical steroids.
 
 ## 6.2 Postmarketing Experience
 
+The following adverse reactions have been identified during post-approval use of risedronate or bisphosphonate products.
 Because these adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Hypersensitivity Reactions Hypersensitivity and skin reactions have been reported, including angioedema, generalized rash, bullous skin reactions, Stevens-Johnson syndrome and toxic epidermal necrolysis.
 Gastrointestinal Adverse Events Events involving upper gastrointestinal irritation, such as esophagitis and esophageal or gastric ulcers, have been reported [see Warnings and Precautions (5.1)].
-Musculoskeletal Pain Bone, joint, or muscle pain, described as severe or incapacitating, have been reported rarely [see Warnings and Precautions (5.4)].
+Musculoskeletal Bone, joint, or muscle pain, described as severe or incapacitating, have been reported rarely [see Warnings and Precautions (5.4)]; low-energy femoral shaft and subtrochanteric fractures, and atypical fractures of other bones [see Warnings and Precautions (5.6)].
 Eye Inflammation Reactions of eye inflammation including iritis and uveitis have been reported rarely.
 Jaw Osteonecrosis Osteonecrosis of the jaw has been reported rarely [see Warnings and Precautions (5.3)].
 Pulmonary Asthma exacerbations

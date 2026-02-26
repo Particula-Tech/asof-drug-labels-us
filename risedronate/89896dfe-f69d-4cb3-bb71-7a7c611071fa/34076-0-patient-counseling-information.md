@@ -38,4 +38,6 @@ Instruct patients to tell all of their healthcare providers that they are taking
 Patients should be instructed that any time they have a medical problem they think may be from risedronate, they should talk to their doctor.
 
 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Revised: 10/2021
+Revised: 02/2026
+
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides

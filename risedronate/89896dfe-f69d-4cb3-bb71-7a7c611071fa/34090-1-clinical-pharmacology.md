@@ -48,7 +48,6 @@ The renal clearance is not concentration dependent, and there is a linear relati
 Unabsorbed drug is eliminated unchanged in feces.
 In osteopenic postmenopausal women, the terminal exponential half-life was 561 hours, mean renal clearance was 52 mL/min (CV = 25%), and mean total clearance was 73 mL/min (CV = 15%).
 Specific Populations Pediatric: Risedronate is not indicated for use in pediatric patients [see Pediatric Use (8.4)].
-
 Gender: Bioavailability and pharmacokinetics following oral administration are similar in men and women.
 Geriatric: Bioavailability and disposition are similar in elderly (greater than 60 years of age) and younger subjects.
 No dosage adjustment is necessary.

@@ -1,16 +1,19 @@
 # Medication Guide
 
-Risedronate Sodium Tablets, USP (ris'' e droe' nate soe' dee um) Read the Medication Guide that comes with risedronate sodium tablets before you start taking them and each time you get a refill.
+Risedronate Sodium (ris ed′ roe nate soe′ dee um)
+
+Tablets, USP Read the Medication Guide that comes with risedronate sodium tablets before you start taking them and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
 Talk to your doctor if you have any questions about risedronate sodium tablets, there may be new information about them.
+
 What is the most important information I should know about risedronate sodium tablets?
 Risedronate sodium tablets can cause serious side effects including: 1.
 Esophagus problems 2.
 Low calcium levels in your blood (hypocalcemia) 3.
 Severe jaw bone problems (osteonecrosis) 4.
 Bone, joint, or muscle pain 5.
-Unusual thigh bone fractures 1.
+Unusual breaks in thigh and other bones 1.
 Esophagus problems.
 Some people who take risedronate sodium tablets may develop problems in the esophagus (the tube that connects the mouth and the stomach).
 These problems include irritation, inflammation, or ulcers of the esophagus which may sometimes bleed.
@@ -42,9 +45,10 @@ It is important for you to practice good mouth care during treatment with risedr
 Bone, joint, or muscle pain.
 Some people who take risedronate sodium tablets develop severe bone, joint, or muscle pain.
 5.
-Unusual thigh bone fractures.
-Some people have developed unusual fractures in their thigh bone.
-Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
+Unusual breaks in thigh and other bones.
+Some people have had unusual bone breaks, including the thigh bone, when taking risedronate sodium tablets.
+A break in the thigh bone can feel like a new pain in your hip, groin, or thigh.
+People taking risedronate sodium tablets can also have breaks in other bones.
 Call your doctor right away if you have any of these side effects.
 What are risedronate sodium tablets?
 Risedronate sodium tablets are a prescription medicine used to:
@@ -150,9 +154,11 @@ This Medication Guide summarizes the most important information about risedronat
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about risedronate sodium tablets that is written for health professionals.
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
+
 What are the ingredients in risedronate sodium tablets?
+
 Active ingredient: risedronate sodium Inactive ingredients in all dose strengths: crospovidone, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 Inactive ingredients specific to a dose strength: 5 mg—colloidal silicon dioxide and iron oxide yellow; 35 mg—colloidal silicon dioxide, iron oxide red, and iron oxide yellow.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Revised: 10/2021
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
+Revised: 02/2026
