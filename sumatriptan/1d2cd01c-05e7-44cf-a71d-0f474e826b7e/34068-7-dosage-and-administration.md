@@ -9,7 +9,7 @@ Higher doses may have a greater risk of adverse reactions [see Clinical Studies 
 If the migraine has not resolved by 2 hours after taking sumatriptan tablets, or returns after a transient improvement, a second dose may be administered at least 2 hours after the first dose.
 The maximum daily dose is 200 mg in a 24-hour period.
 
-### Use After Sumatriptan Injection
+### Use after Sumatriptan Injection
 
 If the migraine returns following an initial treatment with sumatriptan injection, additional single sumatriptan tablets (up to 100 mg/day) may be given with an interval of at least 2 hours between tablet doses.
 

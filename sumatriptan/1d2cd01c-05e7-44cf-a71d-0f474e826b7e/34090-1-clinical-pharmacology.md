@@ -24,7 +24,7 @@ Transient increases in blood pressure observed in some patients in clinical tria
 ### Absorption
 
 The mean maximum concentration following oral dosing with 25 mg is 18 ng/mL (range: 7 to 47 ng/mL) and 51 ng/mL (range: 28 to 100 ng/mL) following oral dosing with 100 mg of sumatriptan.
-This compares with a Cmax of 5- and 16 ng/mL following dosing with a 5 and 20-mg intranasal dose, respectively.
+This compares with a Cmax of 5 and 16 ng/mL following dosing with a 5- and 20-mg intranasal dose, respectively.
 The mean Cmax following a 6-mg subcutaneous injection is 71 ng/mL (range: 49 to 110 ng/mL).
 The bioavailability is approximately 15%, primarily due to presystemic metabolism and partly due to incomplete absorption.
 The Cmax is similar during a migraine attack and during a migraine-free period, but the Tmax is slightly later during the attack, approximately 2.5 hours compared with 2.0 hours.
@@ -69,7 +69,7 @@ Accordingly, the bioavailability of sumatriptan following oral administration ma
 In one small trial of patients with moderate liver impairment (n = 8) matched for sex, age, and weight with healthy subjects (n = 8), the hepatically-impaired patients had an approximately 70% increase in AUC and Cmax and a Tmax 40 minutes earlier compared with the healthy subjects.
 
 The pharmacokinetics of sumatriptan in patients with severe hepatic impairment has not been studied.
-The use of sumatriptan tablets in this population is contraindicated [see Contraindications (4), and Use in Specific Populations (8.6)].
+The use of sumatriptan tablets in this population is contraindicated [see Contraindications (4), Use in Specific Populations (8.6)].
 
 #### Male and Female Patients
 

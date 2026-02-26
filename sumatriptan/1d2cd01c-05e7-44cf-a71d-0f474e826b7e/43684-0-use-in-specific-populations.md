@@ -54,19 +54,16 @@ The highest no-effect dose for this finding was 100 mg/kg/day, or approximately 
 
 ### Risk Summary
 
-Sumatriptan is excreted in human milk following subcutaneous administration (see Data).
+Sumatriptan is excreted in human milk following subcutaneous administration.
 There is no information regarding sumatriptan concentrations in milk from lactating women following administration of sumatriptan tablets.
 There are no data on the effects of sumatriptan on the breastfed infant or the effects of sumatriptan on milk production.
+Use of sumatriptan may be associated with transient breast pain [see Adverse Reactions (6.2)].
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for sumatriptan tablets and any potential adverse effects on the breastfed infant from sumatriptan or from the underlying maternal condition.
 
 ### Clinical Considerations
 
 Infant exposure to sumatriptan can be minimized by avoiding breastfeeding for 12 hours after treatment with sumatriptan tablets.
-
-### Data
-
-Following subcutaneous administration of a 6-mg dose of sumatriptan injection in 5 lactating volunteers, sumatriptan was present in milk.
 
 ## 8.4 Pediatric Use
 
@@ -89,7 +86,7 @@ Clinical data to determine the frequency of serious adverse reactions in pediatr
 
 ## 8.5 Geriatric Use
 
-Clinical trials of sumatriptan tablets did not include sufficient numbers of patients aged 65 and older to determine whether they respond differently from younger patients.
+Clinical trials of sumatriptan tablets did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 

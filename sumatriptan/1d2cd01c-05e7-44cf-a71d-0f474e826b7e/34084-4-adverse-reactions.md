@@ -23,19 +23,21 @@ Only treatment-emergent adverse reactions that occurred at a frequency of 2% or 
 Table 1.
 Adverse Reactions Reported by at Least 2% of Patients Treated with Sumatriptan Tablets and at a Greater Frequency than Placebo
 
-| Adverse Reaction | Percentage of Patients Reporting |  |  |  |
+| Adverse Reaction | Percent of Patients Reporting |  |  |  |
 | --- | --- | --- | --- | --- |
-| Sumatriptan Tablets 25 mg(n = 417) | Sumatriptan Tablets 50 mg(n = 771) | Sumatriptan Tablets 100 mg(n = 437) | PlaceboTablets(n = 309) |  |
+| Sumatriptan Tablets 25 mg (n = 417) | Sumatriptan Tablets 50 mg (n = 771) | Sumatriptan Tablets 100 mg (n = 437) | Placebo (n = 309) |  |
 | Atypical sensations | 5 | 6 | 6 | 4 |
 | Paresthesia (all types) | 3 | 5 | 3 | 2 |
 | Sensation warm/cold | 3 | 2 | 3 | 2 |
 | Pain and other pressure sensations | 6 | 6 | 8 | 4 |
 | Chest-Pain/tightness/pressure and/or heaviness | 1 | 2 | 2 | 1 |
-| Neck/throat/jaw-pain/tightness/pressure | < 1 | 2 | 3 | < 1 |
+| Neck/throat/jaw- pain/tightness/pressure | < 1 | 2 | 3 | < 1 |
 | Pain-location specified | 2 | 1 | 1 | 1 |
 | Other-pressure/tightness/heaviness | 1 | 1 | 3 | 2 |
-| Neurological Vertigo | < 1 | < 1 | 2 | < 1 |
-| Other Malaise/fatigue | 2 | 2 | 3 | < 1 |
+| Neurological |  |  |  |  |
+| Vertigo | < 1 | < 1 | 2 | < 1 |
+| Other |  |  |  |  |
+| Malaise/fatigue | 2 | 2 | 3 | < 1 |
 
 The incidence of adverse reactions in controlled clinical trials was not affected by gender or age of the patients.
 There were insufficient data to assess the impact of race on the incidence of adverse reactions.
@@ -46,6 +48,8 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These reactions have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to sumatriptan or a combination of these factors.
 
-Cardiovascular: Hypotension, palpitations.
+Cardiovascular Hypotension, palpitations.
 
-Neurological: Dystonia, tremor.
+Neurological Dystonia, tremor.
+
+Reproductive System and Breast Disorders Breast pain [see Use in Specific Populations (8.2)].
