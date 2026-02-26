@@ -416,6 +416,8 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Revised: January 2026
 
+# MULTI-DOSE KWIKPEN INSTRUCTIONS FOR USE
+
 INSTRUCTIONS FOR USE
 
 ZEPBOUND® [ZEHP-bownd] KwikPen® [KWIHK pehn]
@@ -440,7 +442,7 @@ This information does not take the place of talking to your healthcare provider 
 - ZEPBOUND KwikPen is a disposable multi-dose single-patient-use prefilled pen.
   The Pen contains 4 fixed doses, one dose taken weekly.
   Inject in a single weekly injection, under the skin (subcutaneously).
-- For your weekly dose, you need to turn the dose knob all the way until it stopes AND the icon is in the dose window.
+- For your weekly dose, you need to turn the dose knob all the way until it stops AND the icon is in dose window.
 - After 4 doses, throw away (discard) the Pen, including the unused medicine.
   The Pen will prevent you from dialing a full dose after you have given yourself 4 weekly doses.
   Do not inject the leftover medicine.
@@ -566,9 +568,9 @@ ZEPBOUND KwikPen meets the current dose accuracy and functional requirements of 
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Issued: January 2026
+Revised: January 2026
 
-ZEPKP-0001-IFU-20260120
+ZEPKP-0002-IFU-20260121
 
 | Medication Calendar |
 | --- |
