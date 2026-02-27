@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis and Mutagenesis and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis
 
@@ -19,8 +19,8 @@ Mutagenesis
 
 There are several published reports on the potential genetic toxicity of methadone.
 Methadone tested positive in the in vivo mouse dominant lethal assay and the in vivo mammalian spermatogonial chromosome aberration test.
-Additionally,methadone tested positive in the E. coli DNA repair system and Neurospora crassa and mouse lymphoma forwardmutation assays.
-In contrast, methadone tested negative in tests for chromosome breakage and disjunction and sex-linkedrecessive lethal gene mutations in germ cells of Drosophila using feeding and injection procedures.
+Additionally, methadone tested positive in the E. coli DNA repair system and Neurospora crassa and mouse lymphoma forward mutation assays.
+In contrast, methadone tested negative in tests for chromosome breakage and disjunction and sex-linked recessive lethal gene mutations in germ cells of Drosophila using feeding and injection procedures.
 
 Impairment of Fertility
 

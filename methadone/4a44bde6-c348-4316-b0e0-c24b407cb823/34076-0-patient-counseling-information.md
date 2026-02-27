@@ -13,14 +13,14 @@ Inform patients that they can visit www.fda.gov/drugdisposal for a complete list
 
 Addiction, Abuse, and Misuse
 
-Inform patients that the use of methadone hydrochloride tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose or death [see Warnings and Precautions (5.1)].
+Inform patients that the use of methadone hydrochloride tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose or death [see WARNINGS AND PRECAUTIONS (5.1)].
 Instruct patients not to share methadone hydrochloride tablets with others and to take steps to protect methadone hydrochloride tablets from theft or misuse.
 
 Life-Threatening Respiratory Depression
 
 Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting methadone hydrochloride tablets or when the dosage is increased, and that it can occur even at recommended dosages.
 
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.2)].
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see WARNINGS AND PRECAUTIONS (5.2)].
 
 Accidental Ingestion
 
@@ -32,22 +32,28 @@ Instruct patients to seek medical attention immediately if they experience sympt
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if methadone hydrochloride tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider [see WARNINGS AND PRECAUTIONS (5.3), DRUG INTERACTIONS (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if methadone hydrochloride tablets are used with benzodiazepines or other CNS depressants (e.g., alcohol, non-benzodiazepine sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids), and not to use these concomitantly unless supervised by a health care provider [see WARNINGS AND PRECAUTIONS (5.3), DRUG INTERACTIONS (7)].
 
-Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with methadone hydrochloride tablets.
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see DOSAGE AND ADMINISTRATION (2.3), WARNINGS AND PRECAUTIONS (5.2)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid reversal agent, both when initiating and renewing treatment with methadone hydrochloride tablets.
+Because patients being treated for opioid use disorder are at risk for relapse, discuss the importance of having access to an opioid overdose reversal agent.
+Also discuss the importance of having access to an opioid overdose reversal agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
 
-Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+Discuss with the patient the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter (some products), or as part of a community-based program) [see DOSAGE AND ADMINISTRATION (2.3), WARNINGS AND PRECAUTIONS (5.2)].
 
-Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+There are important differences among the opioid overdose reversal agents.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
-If naloxone is prescribed, also advise patients and caregivers:
+Educate patients and caregivers on how to recognize the signs and symptoms of an opioid overdose.
 
-- How to treat with naloxone in the event of an opioid overdose
-- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
-- To read the Patient Information (or other educational material) that will come with their naloxone.
+Explain to patients and caregivers that effects of opioid reversal agents like naloxone and nalmefene are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if an opioid reversal agent is administered [see Overdosage (10)].
+
+Advise patients and caregivers:
+
+- how to treat with an opioid overdose reversal agent in the event of an opioid overdose
+- to tell family and friends about their opioid overdose reversal agent, and to keep it in a place where family and friends can access it in an emergency
+- to read the Patient Information (or other educational material) that will come with their opioid overdose reversal agent.
   Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Hyperalgesia and Allodynia
@@ -70,7 +76,7 @@ Important Administration Instructions
 
 Instruct patients how to properly take methadone hydrochloride tablets, including the following:
 
-• Use methadone hydrochloride tablets exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see DOSAGE AND ADMINISTRATION (2), WARNINGS AND PRECAUTIONS (5.2)].
+- Use methadone hydrochloride tablets exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see DOSAGE AND ADMINISTRATION (2), WARNINGS AND PRECAUTIONS (5.2)].
 
 Important Discontinuation Instructions
 
@@ -116,7 +122,7 @@ If they cannot reach the healthcare provider right away, instruct them to take t
 
 Infertility
 
-Inform patients that use of opioids for an extended period of time, may cause reduced fertility.
+Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see USE IN SPECIFIC POPULATIONS (8.3)].
 
 Hypoglycemia
@@ -128,4 +134,4 @@ Distributed by:
 
 VistaPharm, LLC Parsippany, NJ 07054, USA
 
-VP2002R4 03/2025
+VP2002R5 12/2025

@@ -27,7 +27,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Methadone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System
 
@@ -55,8 +55,8 @@ The minimum effective analgesic concentration of methadone for any individual pa
 
 Concentration–Adverse Reaction Relationships
 
-There is a relationship between increasing methadone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see DOSAGE AND ADMINISTRATION (2.2, 2.4, 2.5)].
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with extended-release agonist opioids.
+The In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.2, 2.4, 2.5)].
 
 ## 12.3 Pharmacokinetics
 
@@ -111,7 +111,7 @@ Dose reduction of methadone may be needed [see DRUG INTERACTIONS (7)].
 
 Antiretroviral Drugs: Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to CYP induction activity.
 
-Abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, tipranavir+ritonavir combination: Co-administration of these anti-retroviral agents resulted in increased clearance or decreased plasma levels ofmethadone [see DRUG INTERACTIONS (7)].
+Abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, tipranavir+ritonavir combination: Co-administration of these anti-retroviral agents resulted in increased clearance or decreased plasma levels of methadone [see DRUG INTERACTIONS (7)].
 
 Didanosine and Stavudine: Methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
 Methadone disposition was not substantially altered [see DRUG INTERACTIONS (7)].

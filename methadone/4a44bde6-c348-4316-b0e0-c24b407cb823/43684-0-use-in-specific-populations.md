@@ -23,12 +23,11 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated Maternal and Embryo-fetal Risk: Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
+Disease-Associated Maternal and Embryo-Fetal Risk: Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
 In addition, untreated opioid addiction often results in continued or relapsing illicit opioid use.
 
 Dosage Adjustment During Pregnancy: Dosage adjustment using higher doses or administering the daily dose in divided doses may be necessary in pregnant women treated with methadone hydrochloride tablets.
-Pregnant women appear to have significantly lower trough plasma methadone concentrations, increased plasma methadone clearance, and shorter methadone half-life than after delivery.
-[see DOSAGE AND ADMINISTRATION (2.9) and Clinical Pharmacology (12.3)].
+Pregnant women appear to have significantly lower trough plasma methadone concentrations, increased plasma methadone clearance, and shorter methadone half-life than after delivery [see DOSAGE AND ADMINISTRATION (2.9) and Clinical Pharmacology (12.3)].
 Withdrawal signs and symptoms should be closely monitored and the dose adjusted as necessary.
 
 Fetal/Neonatal Adverse Reactions: Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with methadone hydrochloride tablets.
@@ -111,8 +110,7 @@ Methadone has been detected in very low plasma concentrations in some infants wh
 Infertility
 
 The effect of methadone hydrochloride tablets on fertility is unknown.
-Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see ADVERSE REACTIONS (6), CLINICAL PHARMACOLOGY (12.2), NONCLINICAL PHARMACOLOGY (13.1)].
+Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential It is not known whether these effects on fertility are reversible [see ADVERSE REACTIONS (6), CLINICAL PHARMACOLOGY (12.2), NONCLINICAL PHARMACOLOGY (13.1)].
 Reproductive function in human males may be decreased by methadone treatment.
 Reductions in ejaculate volume and seminal vesicle and prostate secretions have been reported in methadone-treated individuals.
 In addition, reductions in serum testosterone levels and sperm motility, and abnormalities in sperm morphology have been reported.

@@ -7,21 +7,20 @@ Marked mydriasis rather than miosis may be seen with hypoxia in overdose situati
 
 Methadone overdosage is associated with rhabdomyolsis.
 Seek medical attention, especially if abuse/misuse results in prolonged immobilization.
-Acute toxic leukoencephalopathy has been reported after methadone overdose, often weeks after apparent recovery from the initial intoxication.
+Toxic leukoencephalopathy has been reported after opioid overdose, and can present hours, days, or weeks after apparent recovery from the initial intoxication.
 Hearing loss has been reported after methadone overdose, in some cases permanent.
 
 Treatment of Overdose
 
 In case of overdose, priorities are the reestablishment of a patent and protected airway and institution of assisted or controlled ventilation, if needed.
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
-Cardiac arrest or arrhythmias will require advanced life support measures.
+Cardiac arrest or arrhythmias will require advanced life-support measures.
 
-Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
-For clinically significant respiratory or circulatory depression secondary to methadone overdose, administer an opioid antagonist.
+For clinically significant respiratory or circulatory depression secondary to opioid overdose, administer an opioid overdose reversal agent such as naloxone or nalmefene.
 
 Because the duration of reversal would be expected to be less than the duration of action of methadone in methadone hydrochloride tablets, carefully monitor the patient until spontaneous respiration is reliably reestablished.
-If the response to opioid antagonists is suboptimal or not sustained, administer additional antagonist as directed in the product’s prescribing information.
+If the response to opioid reversal agent is suboptimal or not sustained, administer additional reversal agent as directed in the product’s prescribing information.
 
-In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
-The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
-If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be begun with care and by titration with smaller than usual doses of the antagonist.
+In an individual physically dependent on opioids, administration of the recommended usual dosage of the overdose reversal agent will precipitate an acute withdrawal syndrome.
+The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the reversal agent administered.
+If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the opioid overdose reversal agent should be begun with care and by titration with smaller than usual doses of the reversal agent.
