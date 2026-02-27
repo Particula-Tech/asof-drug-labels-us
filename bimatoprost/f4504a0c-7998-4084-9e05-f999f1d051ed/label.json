@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA217307"
+  ],
+  "inn": "bimatoprost",
+  "labeler": "Thea Pharma Inc.",
+  "package_ndcs": [
+    "82584-010-10",
+    "82584-010-30",
+    "82584-010-35",
+    "82584-010-81"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "bimatoprost",
+      "name": "ZOLYMBUS"
+    }
+  ],
+  "setid": "f4504a0c-7998-4084-9e05-f999f1d051ed",
+  "source": "dailymed"
+}
