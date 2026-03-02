@@ -16,7 +16,7 @@ Protein binding studies have shown that the degree of aminoglycoside protein bin
 
 Microbiology
 
-In vitrotests have demonstrated that neomycin is bactericidal and acts by inhibiting the synthesis of protein in susceptible bacterial cells.
+In vitro tests have demonstrated that neomycin is bactericidal and acts by inhibiting the synthesis of protein in susceptible bacterial cells.
 It is effective primarily against gram-negative bacilli but does have some activity against gram-positive organisms.
 Neomycin is active in vitroagainst Escherichia coliand the Klebsiella- Enterobactergroup.
 Neomycin is not active against anaerobic bowel flora.

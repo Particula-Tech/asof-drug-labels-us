@@ -42,7 +42,7 @@ An oral neomycin dose of 12 grams per day produces a malabsorption syndrome for 
 
 Orally administered neomycin increases fecal bile acid excretion and reduces intestinal lactase activity.
 
-Information for The Patient
+Information for Patients
 
 Patients should be counseled that antibacterial drugs including neomycin sulfate tablets should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
