@@ -25,6 +25,6 @@
     4. •Rifabutin
     5. •Rifampin
     6. •Ritonavir Concomitant use with high-dose ritonavir (400 mg every 12 hours) is contraindicated.
-       Concomitant use with low-dose ritonavir (100 mg every 12 hours) should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of VFEND [see Clinical Pharmacology (12.3)]
+       Concomitant use with low-dose ritonavir (100 mg every 12 hours) should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of VFEND [see Clinical Pharmacology (12.3)].
     7. •St.
        John’s Wort [see Clinical Pharmacology (12.3)]
