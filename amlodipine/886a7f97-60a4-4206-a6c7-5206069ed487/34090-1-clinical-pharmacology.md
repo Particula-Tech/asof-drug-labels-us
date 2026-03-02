@@ -45,7 +45,7 @@ In clinical trials with angina patients alone, amlodipine therapy did not alter 
 
 Drug Interactions
 
-Sildenafil: When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect [see Drug Interactions (7.1)].
+Sildenafil:When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect [see Drug Interactions (7.1)].
 
 ## 12.3 Pharmacokinetics
 
