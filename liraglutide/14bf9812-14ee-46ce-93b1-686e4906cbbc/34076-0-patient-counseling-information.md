@@ -1,17 +1,16 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Risk of Thyroid C-cell Tumors
 
 Inform patients that liraglutide causes benign and malignant thyroid C-cell tumors in mice and rats and that the human relevance of this finding is unknown.
 Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia, or dyspnea) to their physician [see Boxed Warning, Warnings and Precautions (5.1)].
 
-Pancreatitis
+Acute Pancreatitis
 
-Inform patients of the potential risk for pancreatitis.
-Explain that persistent severe abdominal pain that may radiate to the back and which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
-Instruct patients to discontinue liraglutide promptly and contact their physician if persistent severe abdominal pain occurs [see Warnings and Precautions (5.2)].
+Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by nausea or vomiting.
+Instruct patients to discontinue liraglutide promptly and contact their physician if pancreatitis is suspected [see Warnings and Precautions (5.2)].
 
 Never Share a Liraglutide Injection Pen Between Patients
 
@@ -22,20 +21,31 @@ Hypoglycemia
 Inform patients that hypoglycemia has been reported when liraglutide is used with insulin secretagogues or insulin and may occur in pediatric patients regardless of concomitant antidiabetic treatment.
 Educate patients or caregivers on the signs and symptoms of hypoglycemia [see Warnings and Precautions (5.4)].
 
-Acute Kidney Injury
+Acute Kidney Injury Due to Volume Depletion
 
-Advise patients of the potential risk of dehydration due to gastrointestinal adverse reactions and to take precautions to avoid fluid depletion.
-Inform patients of the potential risk for worsening renal function, which in some cases may require dialysis [see Warnings and Precautions (5.5)].
+Inform patients of the potential risk of acute kidney injury due to dehydration associated with gastrointestinal adverse reactions.
+Advise patients to take precautions to avoid fluid depletion.
+Inform patients of the signs and symptoms of acute kidney injury and instruct them to promptly report any of these signs or symptoms or persistent (or extended) nausea, vomiting, and diarrhea to their healthcare provider [see Warnings and Precautions (5.5)].
+
+Severe Gastrointestinal Adverse Reactions
+
+Inform patients of the potential risk of severe gastrointestinal adverse reactions.
+Instruct patients to contact their healthcare provider if they have severe or persistent gastrointestinal symptoms [see Warnings and Precautions (5.6)].
 
 Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions have been reported during postmarketing use of liraglutide.
-Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking liraglutide and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.6)].
+Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking liraglutide and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.7)].
 
 Acute Gallbladder Disease
 
 Inform patients of the potential risk for cholelithiasis or cholecystitis.
-Instruct patients to contact their physician if cholelithiasis or cholecystitis is suspected for appropriate clinical follow-up [see Warnings and Precautions (5.7)].
+Instruct patients to contact their physician if cholelithiasis or cholecystitis is suspected for appropriate clinical follow-up [see Warnings and Precautions (5.8)].
+
+Pulmonary Aspiration During General Anesthesia or Deep Sedation
+
+Inform patients that liraglutide may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking liraglutide [see Warnings and Precautions (5.9)].
 
 Missed Dose
 
@@ -56,7 +66,7 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-© 2024 Novo Nordisk
+© 2026 Novo Nordisk
 
 For information about
 

@@ -7,6 +7,5 @@ Liraglutide is indicated:
 
 Limitations of Use:
 
-Liraglutide should not be used in patients with type 1 diabetes mellitus.
-
-Liraglutide contains liraglutide and should not be coadministered with other liraglutide-containing products.
+Liraglutide contains liraglutide.
+Coadministration with other liraglutide-containing products is not recommended.

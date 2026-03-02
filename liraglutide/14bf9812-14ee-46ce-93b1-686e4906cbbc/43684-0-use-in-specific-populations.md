@@ -9,7 +9,7 @@ Liraglutide should be used during pregnancy only if the potential benefit justif
 
 Animal reproduction studies identified increased adverse developmental outcomes from exposure during pregnancy.
 Liraglutide exposure was associated with early embryonic deaths and an imbalance in some fetal abnormalities in pregnant rats administered liraglutide during organogenesis at doses that approximate clinical exposures at the maximum recommended human dose (MRHD) of 1.8 mg/day.
-In pregnant rabbits administered liraglutide during organogenesis, decreased fetal weight and an increased incidence of major fetal abnormalities were seen at exposures below the human exposures at the MRHD [see Animal Data].
+In pregnant rabbits administered liraglutide during organogenesis, decreased fetal weight and an increased incidence of major fetal abnormalities were seen at exposures below the human exposures at the MRHD (see Animal Data).
 
 The estimated background risk of major birth defects for women with uncontrolled pre-gestational diabetes (Hemoglobin A1c >7) is 6 to 10%.
 The major birth defect rate has been reported to be as high as 20 to 25% in women with a Hemoglobin A1c >10.
@@ -24,7 +24,7 @@ Poorly controlled diabetes increases the fetal risk for major birth defects, sti
 
 Animal Data
 
-Female rats given subcutaneous doses of 0.1, 0.25 and 1.0 mg/kg/day liraglutide beginning 2 weeks before mating through gestation day 17 had estimated systemic exposures 0.8-, 3-, and 11-times the human exposure at the MRHD based on plasma AUC comparison.
+Female rats given subcutaneous doses of 0.1, 0.25 and 1 mg/kg/day liraglutide beginning 2 weeks before mating through gestation day 17 had estimated systemic exposures 0.8-, 3-, and 11-times the human exposure at the MRHD based on plasma AUC comparison.
 The number of early embryonic deaths in the 1 mg/kg/day group increased slightly.
 Fetal abnormalities and variations in kidneys and blood vessels, irregular ossification of the skull, and a more complete state of ossification occurred at all doses.
 Mottled liver and minimally kinked ribs occurred at the highest dose.
@@ -37,7 +37,7 @@ Irregular ossification and/or skeletal abnormalities occurred in the skull and j
 Visceral abnormalities occurred in blood vessels, lung, liver, and esophagus.
 Bilobed or bifurcated gallbladder was seen in all treatment groups, but not in the control group.
 
-In pregnant female rats given subcutaneous doses of 0.1, 0.25 and 1.0 mg/kg/day liraglutide from gestation day 6 through weaning or termination of nursing on lactation day 24, estimated systemic exposures were 0.8-, 3-, and 11-times human exposure at the MRHD of 1.8 mg/day, based on plasma AUC.
+In pregnant female rats given subcutaneous doses of 0.1, 0.25 and 1 mg/kg/day liraglutide from gestation day 6 through weaning or termination of nursing on lactation day 24, estimated systemic exposures were 0.8-, 3-, and 11-times human exposure at the MRHD of 1.8 mg/day, based on plasma AUC.
 A slight delay in parturition was observed in the majority of treated rats.
 Group mean body weight of neonatal rats from liraglutide-treated dams was lower than neonatal rats from control group dams.
 Bloody scabs and agitated behavior occurred in male rats descended from dams treated with 1 mg/kg/day liraglutide.
@@ -45,8 +45,10 @@ Group mean body weight from birth to postpartum day 14 trended lower in F2 gener
 
 ## 8.2 Lactation
 
-Risk Summary There are no data on the presence of liraglutide in human milk, the effects on the breastfed infant, or the effects on milk production.
-Liraglutide was present in milk of lactating rats [see Data].
+Risk Summary
+
+There are no data on the presence of liraglutide in human milk, the effects on the breastfed infant, or the effects on milk production.
+Liraglutide was present in milk of lactating rats (see Data).
 
 Developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for liraglutide and any potential adverse effects on the breastfed infant from liraglutide or from the underlying maternal condition.
 
@@ -72,22 +74,15 @@ No overall differences in safety or effectiveness for liraglutide have been obse
 ## 8.6 Renal Impairment
 
 No dose adjustment of liraglutide is recommended for patients with renal impairment [see Clinical Pharmacology (12.3)].
-The safety and efficacy of liraglutide was evaluated in a 26-week clinical study that included patients with moderate renal impairment (eGFR 30 to 60 mL/min/1.73m2) [see Clinical Studies (14.1)].
+The safety and efficacy of liraglutide was evaluated in a 26-week clinical study that included patients with moderate renal impairment (eGFR 30 to 60 mL/min/1.73 m2) [see Clinical Studies (14.1)].
 
-In the liraglutide treatment arm of the LEADER trial [see Clinical Studies (14.3)], 1932 (41.4%) patients had mild renal impairment, 999 (21.4%) patients had moderate renal impairment and 117 (2.5%) patients had severe renal impairment at baseline.
+In the liraglutide treatment arm of the LEADER trial [see Clinical Studies (14.3)], 1,932 (41.4%) patients had mild renal impairment, 999 (21.4%) patients had moderate renal impairment and 117 (2.5%) patients had severe renal impairment at baseline.
 No overall differences in safety or efficacy were seen in these patients compared to patients with normal renal function.
 
 There is limited experience with liraglutide in patients with end stage renal disease.
-There have been postmarketing reports of acute renal failure and worsening of chronic renal failure, which may sometimes require hemodialysis [see Warnings and Precautions (5.5), Adverse Reactions (6.2)].
-Use caution in patients who experience dehydration.
 
 ## 8.7 Hepatic Impairment
 
 There is limited experience in patients with mild, moderate or severe hepatic impairment.
 Therefore, liraglutide should be used with caution in this patient population.
 No dose adjustment of liraglutide is recommended for patients with hepatic impairment [see Clinical Pharmacology (12.3)].
-
-## 8.8 Gastroparesis
-
-Liraglutide slows gastric emptying.
-Liraglutide has not been studied in patients with pre-existing gastroparesis.

@@ -5,21 +5,21 @@
 Adult Patients
 
 - •The recommended starting dosage of liraglutide is 0.6 mg injected subcutaneously once daily for one week.
-  The 0.6 mg once daily dosage is intended to reduce gastrointestinal symptoms [see Adverse Reactions (6.1)] during initial titration and is not effective for glycemic control in adults.
+  The 0.6 mg once daily dosage is intended to reduce the risk of gastrointestinal adverse reactions [see Warnings and Precautions (5.6), Adverse Reactions (6.1)] during initial titration and is not effective for glycemic control in adults.
 - •After one week at the 0.6 mg once daily dosage, increase the dosage to 1.2 mg injected subcutaneously once daily.
 - •If additional glycemic control is required, increase the dosage to the maximum recommended dosage of 1.8 mg injected subcutaneously once daily after at least one week of treatment with the 1.2 mg once daily dosage.
 
 Pediatric Patients Aged 10 Years and Older
 
 - •The recommended starting dosage of liraglutide is 0.6 mg injected subcutaneously once daily.
-- •If additional glycemic control is required, increase the dosage in 0.6 mg increments after at least one week on the current dosage.
+- •If additional glycemic control is required, increase the dosage in 0.6 mg increments after at least one week on the current dosage, to reduce the risk of gastrointestinal adverse reactions [see Warnings and Precautions (5.6), Adverse Reactions (6.1)].
 - •The maximum recommended dosage is 1.8 mg injected subcutaneously once daily.
 
 ## 2.2 Recommendations Regarding Missed Dose
 
-- •Instruct patients who miss a dose of liraglutide to resume the once-daily dosage regimen as prescribed with the next scheduled dose.
+- •Instruct patients who miss a dose of liraglutide to resume the once daily dosage regimen as prescribed with the next scheduled dose.
   Do not administer an extra dose or increase the dose to make up for the missed dose.
-- •If more than 3 days have elapsed since the last liraglutide dose, reinitiate liraglutide at 0.6 mg once daily to mitigate any gastrointestinal symptoms associated with reinitiation of treatment.
+- •If more than 3 days have elapsed since the last liraglutide dose, reinitiate liraglutide at 0.6 mg once daily to reduce the risk of gastrointestinal adverse reactions associated with reinitiation of treatment.
   Upon reinitiation, liraglutide should be titrated at the discretion of the healthcare provider.
 
 ## 2.3 Important Administration Instructions
