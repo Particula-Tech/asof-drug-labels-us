@@ -28,12 +28,12 @@ For all trials, dosing was initiated and increased weekly to reach the 3 mg dose
 In adult clinical trials, 9.8% of patients treated with liraglutide and 4.3% of patients treated with placebo prematurely discontinued treatment as a result of adverse reactions.
 The most common adverse reactions leading to discontinuation were nausea (2.9% versus 0.2% for liraglutide and placebo, respectively), vomiting (1.7% versus less than 0.1%), and diarrhea (1.4% versus 0%).
 
-Adverse reactions reported in greater than or equal to 2% of liraglutide-treated adult patients and more frequently than in placebo-treated patients are shown in Table 4.
-Adverse reactions reported in greater than or equal to 3% of liraglutide-treated pediatric patients and more frequently than in placebo-treated patients are shown in Table 5.
+Adverse reactions reported in greater than or equal to 2% of liraglutide-treated adult patients and more frequently than in placebo-treated patients are shown in Table 2.
+Adverse reactions reported in greater than or equal to 3% of liraglutide-treated pediatric patients and more frequently than in placebo-treated patients are shown in Table 3.
 
-| Table 4. Adverse Reactions Occurring in ≥ 2% of Liraglutide-treated Adult Patients and More Frequently than Placebo |  |  |
+| Table 2. Adverse Reactions Occurring in ≥2% of Liraglutide-treated Adult Patients and More Frequently than Placebo |  |  |
 | --- | --- | --- |
-|  | PlaceboN = 1,941% | LiraglutideN = 3,384% |
+|  | PlaceboN=1,941% | LiraglutideN=3,384% |
 | Nausea | 13.8 | 39.3 |
 | Diarrhea | 9.9 | 20.9 |
 | Constipation | 8.5 | 19.4 |
@@ -43,41 +43,41 @@ Adverse reactions reported in greater than or equal to 3% of liraglutide-treated
 | Hypoglycemia in T2DM2 | 6.6 | 12.6 |
 | Dyspepsia | 2.7 | 9.6 |
 | Fatigue | 4.6 | 7.5 |
-| Dizziness | 5.0 | 6.9 |
+| Dizziness | 5 | 6.9 |
 | Abdominal Pain | 3.1 | 5.4 |
 | Increased Lipase | 2.2 | 5.3 |
 | Upper Abdominal Pain | 2.7 | 5.1 |
 | Gastroenteritis | 3.2 | 4.7 |
 | Gastroesophageal Reflux Disease | 1.7 | 4.7 |
-| Abdominal Distension | 3.0 | 4.5 |
+| Abdominal Distension | 3 | 4.5 |
 | Eructation | 0.2 | 4.5 |
 | Urinary Tract Infection | 3.1 | 4.3 |
-| Flatulence | 2.5 | 4.0 |
+| Flatulence | 2.5 | 4 |
 | Viral Gastroenteritis | 1.6 | 2.8 |
 | Insomnia | 1.7 | 2.4 |
-| Dry Mouth | 1.0 | 2.3 |
+| Dry Mouth | 1 | 2.3 |
 | Asthenia | 0.8 | 2.1 |
-| Anxiety | 1.6 | 2.0 |
-| 1 The most common reactions, each reported by 1% to 2.5% of liraglutide-treated patients and more commonly than by placebo-treated patients, included erythema, pruritus, and rash at the injection site.2 Defined as blood glucose <54 mg/dL with or without symptoms of hypoglycemia in patients with type 2 diabetes not on concomitant insulin (Study 2, liraglutide N=423, Placebo N=212). See text below for further information regarding hypoglycemia in patients with and without type 2 diabetes. T2DM = type 2 diabetes mellitus |  |  |
+| Anxiety | 1.6 | 2 |
+| 1 The most common reactions, each reported by 1% to 2.5% of liraglutide-treated patients and more commonly than by placebo-treated patients, included erythema, pruritus, and rash at the injection site.2 Defined as blood glucose <54 mg/dL with or without symptoms of hypoglycemia in patients with type 2 diabetes not on concomitant insulin (Study 2, liraglutide N=423, Placebo N=212). See text below for further information regarding hypoglycemia in patients with and without type 2 diabetes. T2DM = type 2 diabetes mellitus. |  |  |
 
-| Table 5. Adverse Reactions Occurring in ≥ 3% of Liraglutide-treated Pediatric Patients and More Frequently than Placebo in a 56 Week Clinical Trial |  |  |
+| Table 3. Adverse Reactions Occurring in ≥3% of Liraglutide-treated Pediatric Patients and More Frequently than Placebo in a 56 Week Clinical Trial |  |  |
 | --- | --- | --- |
-|  | PlaceboN = 126% | LiraglutideN = 125% |
+|  | PlaceboN=126% | LiraglutideN=125% |
 | Nausea | 14.3 | 42.4 |
-| Vomiting | 4.0 | 34.4 |
+| Vomiting | 4 | 34.4 |
 | Diarrhea | 14.3 | 22.4 |
-| Hypoglycemia1 | 4.0 | 15.2 |
+| Hypoglycemia1 | 4 | 15.2 |
 | Gastroenteritis | 4.8 | 12.8 |
 | Dizziness | 3.2 | 10.4 |
-| Pyrexia | 7.1 | 8.0 |
+| Pyrexia | 7.1 | 8 |
 | Abdominal discomfort | 0.8 | 4.8 |
 | Constipation | 2.4 | 4.8 |
 | Dyslipidemia | 3.2 | 4.8 |
 | Fatigue | 3.2 | 4.8 |
-| Cough | 3.2 | 4.0 |
-| Depression | 2.4 | 4.0 |
-| Dyspepsia | 2.4 | 4.0 |
-| Pain in extremity | 2.4 | 4.0 |
+| Cough | 3.2 | 4 |
+| Depression | 2.4 | 4 |
+| Dyspepsia | 2.4 | 4 |
+| Pain in extremity | 2.4 | 4 |
 | Injection site pain | 3.2 | 3.2 |
 | Flatulence | 0 | 3.2 |
 | Increased Blood Creatine Kinase | 2.4 | 3.2 |
@@ -90,14 +90,14 @@ In this trial, among patients taking a sulfonylurea, hypoglycemia defined as a p
 The doses of sulfonylureas were reduced by 50% at the beginning of the trial per protocol.
 Among patients not taking a sulfonylurea, blood glucose less than 54 mg/dL with or without symptoms occurred in 22 (7.1%) of 312 liraglutide-treated patients and 7 (4.5%) of 157 placebo-treated patients.
 
-In a liraglutide clinical trial in adult patients with overweight (excess weight) or obesity with type 2 diabetes mellitus treated with basal insulin and liraglutide in combination with a reduced-calorie diet and increased physical activity and up to 2 oral anti-diabetes medications, severe hypoglycemia was reported by 3 (1.5%) of 195 liraglutide-treated patients and 2 (1.0%) of 197 placebo-treated patients.
+In a liraglutide clinical trial in adult patients with overweight (excess weight) or obesity with type 2 diabetes mellitus treated with basal insulin and liraglutide in combination with a reduced-calorie diet and increased physical activity and up to 2 oral anti-diabetes medications, severe hypoglycemia was reported by 3 (1.5%) of 195 liraglutide-treated patients and 2 (1%) of 197 placebo-treated patients.
 No meaningful difference in hypoglycemia, defined as blood glucose less than 54 mg/dL with or without symptoms, was reported between groups.
 
 Adult Patients without Type 2 Diabetes In liraglutide clinical trials in adult patients without type 2 diabetes mellitus, there was no systematic capturing or reporting of hypoglycemia; patients were not provided with blood glucose meters or hypoglycemia diaries.
 Spontaneously reported symptomatic episodes of unconfirmed hypoglycemia were reported by 46 (1.6%) of 2,962 liraglutide-treated patients and 19 (1.1%) of 1,729 placebo-treated patients.
 Fasting plasma glucose values obtained at routine clinic visits less than 54 mg/dL, irrespective of hypoglycemic symptoms, occurred in 2 (0.1%) liraglutide-treated patients and 1 (0.1%) placebo-treated patients.
 
-Pediatric Patients without Type 2 Diabetes In a 56-week placebo-controlled clinical trial of pediatric patients without type 2 diabetes mellitus in which blood glucose meters were provided, 19 (15.2%) of liraglutide-treated patients had hypoglycemia with a blood glucose less than 70 mg/dL with symptoms as compared to 5 (4.0%) of placebo-treated patients.
+Pediatric Patients without Type 2 Diabetes In a 56-week placebo-controlled clinical trial of pediatric patients without type 2 diabetes mellitus in which blood glucose meters were provided, 19 (15.2%) of liraglutide-treated patients had hypoglycemia with a blood glucose less than 70 mg/dL with symptoms as compared to 5 (4%) of placebo-treated patients.
 Four (4) events of hypoglycemia defined as a plasma glucose less than 54 mg/dL occurred in 2 (1.6%) of 125 liraglutide-treated patients and 1 event occurred in 1 (0.8%) of 126 placebo-treated patients.
 No severe hypoglycemic episodes, defined as requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions, occurred in the liraglutide treatment group.
 
@@ -116,8 +116,15 @@ The percentage of patients reporting nausea declined as treatment continued.
 Other common adverse reactions that occurred at a higher incidence among liraglutide-treated patients included diarrhea, constipation, vomiting, dyspepsia, abdominal pain, dry mouth, gastritis, gastroesophageal reflux disease, flatulence, eructation and abdominal distension.
 There have been reports of gastrointestinal adverse reactions, such as nausea, vomiting, and diarrhea, associated with volume depletion and renal impairment.
 
-In a pediatric clinical trial, 8.0% of patients treated with liraglutide versus no patients who received placebo discontinued treatment as a result of gastrointestinal adverse reactions.
+In a pediatric clinical trial, 8% of patients treated with liraglutide versus no patients who received placebo discontinued treatment as a result of gastrointestinal adverse reactions.
 Most adverse reactions leading to discontinuation were due to vomiting and nausea (4.8% and 3.2% of liraglutide-treated patients, respectively).
+
+Cardiovascular Safety Cardiovascular safety was assessed (LEADER, NCT01179048) in 9,340 patients with inadequately controlled type 2 diabetes and cardiovascular disease randomized to liraglutide 1.8 mg or placebo in addition to standard of care treatments for type 2 diabetes for a median duration of 3.5 years.
+The primary endpoint was the time from randomization to first occurrence of a major adverse cardiovascular event (MACE) defined as: cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke.
+No increased risk for MACE was observed with liraglutide 1.8 mg.
+The total number of primary component MACE endpoints was 1,302 [608 (13.0%) with liraglutide 1.8 mg and 694 (14.9%) with placebo].
+Liraglutide 1.8 mg (Victoza) is used in the treatment of type 2 diabetes mellitus in adults.
+The efficacy of liraglutide at doses below 3 mg daily has not been established for weight reduction.
 
 Asthenia, Fatigue, Malaise, Dysgeusia and Dizziness Events of asthenia, fatigue, malaise, dysgeusia and dizziness were mainly reported within the first 12 weeks of treatment with liraglutide and were often co-reported with gastrointestinal events such as nausea, vomiting, and diarrhea.
 
@@ -171,14 +178,14 @@ Among liraglutide-treated patients, 2.1% had a lipase value at anytime during tr
 0.1% of liraglutide-treated patients had an amylase value at anytime in the trial of greater than or equal to 3 times the upper limit of normal versus 0.1% of placebo-treated patients.
 The clinical significance of elevations in lipase or amylase with liraglutide is unknown in the absence of other signs and symptoms of pancreatitis [see Warnings and Precautions (5.2)].
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported during post-approval use of liraglutide, the active ingredient of liraglutide injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Gastrointestinal
 
-Acute pancreatitis; hemorrhagic and necrotizing pancreatitis, sometimes resulting in death; ileus, nausea, vomiting and diarrhea leading to dehydration
+Acute pancreatitis; hemorrhagic and necrotizing pancreatitis, sometimes resulting in death; ileus, intestinal obstruction, severe constipation including fecal impaction, nausea, vomiting and diarrhea leading to dehydration
 
 Hepatobiliary
 
@@ -186,7 +193,7 @@ Hyperbilirubinemia, elevations of liver enzymes, cholestasis and hepatitis
 
 Hypersensitivity
 
-rash, pruritus, angioedema and anaphylactic reactions
+Rash, pruritus, angioedema and anaphylactic reactions
 
 Neoplasms
 
@@ -194,7 +201,7 @@ Medullary thyroid carcinoma
 
 Neurologic
 
-Dysesthesia
+Dysesthesia, headache
 
 Pulmonary
 
@@ -202,7 +209,7 @@ Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists 
 
 Renal
 
-Acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis; increased serum creatinine
+Acute kidney injury, sometimes requiring hemodialysis; increased serum creatinine
 
 General Disorders and Administration Site Conditions
 

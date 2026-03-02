@@ -18,7 +18,7 @@ Thyroid C-cell carcinomas are rare findings during carcinogenicity testing in ra
 
 Studies in mice demonstrated that liraglutide-induced C-cell proliferation was dependent on the GLP-1 receptor and that liraglutide did not cause activation of the REarranged during Transfection (RET) proto-oncogene in thyroid C-cells.
 
-Human relevance of thyroid C-cell tumors in mice and rats is unknown and has not been determined by clinical studies or nonclinical studies [see Boxed Warning and Warnings and Precautions (5.1)].
+Human relevance of thyroid C-cell tumors in mice and rats is unknown and has not been determined by clinical studies or nonclinical studies [see Boxed Warning, Warnings and Precautions (5.1)].
 
 Liraglutide was negative with and without metabolic activation in the Ames test for mutagenicity and in a human peripheral blood lymphocyte chromosome aberration test for clastogenicity.
 Liraglutide was negative in repeat-dose in vivo micronucleus tests in rats.

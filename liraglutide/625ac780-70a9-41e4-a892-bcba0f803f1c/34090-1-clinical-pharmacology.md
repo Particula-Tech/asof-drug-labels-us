@@ -39,7 +39,7 @@ The intra-subject coefficient of variation for liraglutide AUC was 11% following
 Liraglutide exposures were considered similar among three subcutaneous injection sites (upper arm, abdomen, and thigh).
 Absolute bioavailability of liraglutide following subcutaneous administration is approximately 55%.
 
-Distribution - The mean apparent volume of distribution after subcutaneous administration of liraglutide 3 mg is 20 to 25 L (for a person weighing approximately 100 kg).
+Distribution - The mean apparent volume of distribution after subcutaneous administration of liraglutide 3 mg is 20 to 25L (for a person weighing approximately 100 kg).
 The mean volume of distribution after intravenous administration of liraglutide is 0.07 L/kg.
 Liraglutide is extensively bound to plasma protein (greater than 98%).
 
@@ -71,9 +71,9 @@ Hepatic Impairment - The single-dose pharmacokinetics of liraglutide were evalua
 Patients with mild (Child Pugh score 5 to 6) to severe (Child Pugh score greater than 9) hepatic impairment were included in the trial.
 Compared to healthy subjects, liraglutide AUC in subjects with mild, moderate and severe hepatic impairment was on average 11%, 14% and 42% lower, respectively [see Use in Specific Populations (8.7)].
 
-Drug Interactions In vitro assessment of drug−drug interactions Liraglutide has low potential for pharmacokinetic drug-drug interactions related to cytochrome P450 (CYP) and plasma protein binding.
+Drug Interactions In vitro assessment of drug-drug interactions Liraglutide has low potential for pharmacokinetic drug-drug interactions related to cytochrome P450 (CYP) and plasma protein binding.
 
-In vivo assessment of drug−drug interactions The drug-drug interaction studies were performed at steady state with liraglutide 1.8 mg/day.
+In vivo assessment of drug-drug interactions The drug-drug interaction studies were performed at steady state with liraglutide 1.8 mg/day.
 The effect on rate of gastric emptying was equivalent between liraglutide 1.8 mg and 3 mg (acetaminophen AUC0-300min).
 Administration of the interacting drugs was timed so that Cmax of liraglutide (8 to 12 h) would coincide with the absorption peak of the co-administered drugs.
 

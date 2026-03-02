@@ -9,7 +9,7 @@ When a pregnancy is recognized, advise the pregnant patient of the risk to a fet
 
 Animal reproduction studies identified increased adverse embryofetal developmental outcomes from exposure during pregnancy.
 Liraglutide exposure was associated with early embryonic deaths and an imbalance in some fetal abnormalities in pregnant rats administered liraglutide during organogenesis at doses that approximate clinical exposures at the maximum recommended human dose (MRHD) of 3 mg/day.
-In pregnant rabbits administered liraglutide during organogenesis, decreased fetal weight and an increased incidence of major fetal abnormalities were seen at exposures below the human exposures at the MRHD [see Animal Data].
+In pregnant rabbits administered liraglutide during organogenesis, decreased fetal weight and an increased incidence of major fetal abnormalities were seen at exposures below the human exposures at the MRHD (see Animal Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 
@@ -50,8 +50,8 @@ Data In lactating rats, liraglutide was present unchanged in milk at concentrati
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of liraglutide as an adjunct to a reduced-calorie diet and increased physical activity for chronic weight management have been established in pediatric patients aged 12 years and older with body weight above 60 kg and an initial BMI corresponding to 30 kg/m2 or greater for adults (obese) by international cut-offs (see Table 2).
-Use of liraglutide for this indication is supported by a 56-week double-blind, placebo-controlled clinical trial in 251 pediatric patients aged 12 to 17 years, a pharmacokinetic study in pediatric patients, and studies in adults with obesity [see Clinical Pharmacology (12.3) and Clinical Studies (14.1,14.2)].
+The safety and effectiveness of liraglutide as an adjunct to a reduced-calorie diet and increased physical activity for chronic weight management have been established in pediatric patients aged 12 years and older with body weight above 60 kg and an initial BMI corresponding to 30 kg/m2 or greater for adults (obese) by international cut-offs.
+Use of liraglutide for this indication is supported by a 56-week double-blind, placebo-controlled clinical trial in 251 pediatric patients aged 12 to 17 years, a pharmacokinetic study in pediatric patients, and studies in adults with obesity [see Clinical Pharmacology (12.3) and Clinical Studies (14.1, 14.2)].
 
 In the pediatric clinical trial, there was one death due to suicide in a liraglutide-treated patient [see Warnings and Precautions (5.8)]; one liraglutide-treated patient had an event of pancreatitis [see Warnings and Precautions (5.2)]; more episodes of hypoglycemia confirmed by self blood glucose monitoring occurred in liraglutide-treated patients compared to placebo [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)]; and mean increases in resting heart rate of 3 to 7 bpm from baseline were observed with liraglutide-treated patients [see Warnings and Precautions (5.5)].
 

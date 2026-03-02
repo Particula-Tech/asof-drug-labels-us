@@ -13,14 +13,14 @@
 - Rotate injection sites within the same region in order to reduce the risk of cutaneous amyloidosis [see Adverse Reactions (6.2)].
 - If a dose is missed, resume the once-daily regimen as prescribed with the next scheduled dose.
   Do not administer an extra dose or increase the dose to make up for the missed dose.
-- If more than 3 days have elapsed since the last liraglutide injection dosage, reinitiate liraglutide injection at 0.6 mg daily and follow the dosage escalation schedule in Table 3, to reduce the risk of gastrointestinal adverse reactions associated with reinitiation of treatment.
+- If more than 3 days have elapsed since the last liraglutide injection dosage, reinitiate liraglutide injection at 0.6 mg daily and follow the dosage escalation schedule in Table 1, to reduce the risk of gastrointestinal adverse reactions associated with reinitiation of treatment.
 
 ## 2.2 Dosage in Adults and Pediatric Patients Aged 12 Years and Older
 
 - Initiate liraglutide injection with a dose of 0.6 mg daily for one week.
-  Then follow the dosage escalation schedule in Table 3 to reduce the risk of gastrointestinal adverse reactions [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
+  Then follow the dosage escalation schedule in Table 1 to reduce the risk of gastrointestinal adverse reactions [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
-| Table 3: Dosage Escalation Schedule |  |
+| Table 1. Dosage Escalation Schedule |  |
 | --- | --- |
 | Week | Daily Dose |
 | 1 | 0.6 mg |

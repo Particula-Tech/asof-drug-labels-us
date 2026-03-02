@@ -9,9 +9,9 @@ Instruct adult patients to discontinue liraglutide injection if they have not ac
 Instruct pediatric patients 12 years of age and older to discontinue liraglutide injection if they have not achieved a BMI reduction of 1% from baseline after 12 weeks on the maintenance dose.
 
 Risk of Thyroid C-cell Tumors Inform patients that liraglutide causes benign and malignant thyroid C-cell tumors in mice and rats and that the human relevance of this finding has not been determined.
-Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia or dyspnea) to their health care provider [see Boxed Warning and Warnings and Precautions (5.1)].
+Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia or dyspnea) to their health care provider [see Boxed Warning, Warnings and Precautions (5.1)].
 
-Acute Pancreatitis Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by vomiting.
+Acute Pancreatitis Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by nausea or vomiting.
 Instruct patients to discontinue liraglutide injection promptly and contact their healthcare provider if pancreatitis is suspected [see Warnings and Precautions (5.2)].
 
 Acute Gallbladder Disease Inform patients of the risk of acute gallbladder disease.
@@ -51,4 +51,4 @@ Zagreb, Croatia
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Iss.
-5/2025
+1/2026
