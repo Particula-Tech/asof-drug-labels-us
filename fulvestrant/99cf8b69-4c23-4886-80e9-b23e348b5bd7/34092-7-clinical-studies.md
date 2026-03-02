@@ -294,6 +294,10 @@ Table 17: Efficacy Results – MONALEESA-3 (Investigator Assessment, Intent-to-T
 
 - Abbreviation: NR, not reached
 
+1. 1.p-value is obtained from the one-sided log-rank
+2. 2.Based on confirmed responses
+3. *Investigator Assessment
+
 Figure 13 Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Intent-To-Treat Population, Investigator assessment)
 
 Figure 14 Kaplan-Meier plot of Overall Survival – MONALEESA-3 (Intent-to-Treat Population)

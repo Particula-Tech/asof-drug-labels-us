@@ -22,8 +22,7 @@ When fulvestrant injection is used in combination with ribociclib, the recommend
 Ribociclib can be taken with or without food.
 Refer to the Full Prescribing Information for ribociclib.
 
-Pre/perimenopausal women treated with the combination of fulvestrant injection plus palbociclib, abemaciclib, or ribociclib, should be treated with luteinizing hormone-releasing hormone (LHRH) agonists according to current clinical practice standards [see Clinical Studies (Error!
-Hyperlink reference not valid.)].
+Pre/perimenopausal women treated with the combination of fulvestrant injection plus palbociclib, abemaciclib, or ribociclib, should be treated with luteinizing hormone-releasing hormone (LHRH) agonists according to current clinical practice standards [see Clinical Studies (14)].
 
 ## 2.2 Dose Modification
 

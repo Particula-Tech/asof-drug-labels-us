@@ -12,6 +12,7 @@ Fulvestrant injection may be used alone, if you have gone through menopause, and
 
 - •hormone receptor (HR)-positive and human epidermal growth factor receptor 2 (HER2)-negative and has not been previously treated with endocrine therapy
 - or
+- •HR-positive and has progressed after endocrine therapy.
 
 Fulvestrant injection may be used in combination with ribociclib, if you have gone through menopause, and your advanced or metastatic breast cancer is HR-positive and HER2-negative, and has not been previously treated with endocrine therapy or has progressed after endocrine therapy.
 
@@ -42,6 +43,13 @@ Before receiving fulvestrant injection, tell your healthcare provider about all 
 - •are pregnant or plan to become pregnant.
   Fulvestrant can harm your unborn baby.
 - Females who are able to become pregnant:
+- •Your healthcare provider may perform a pregnancy test within 7 days before you start fulvestrant injection.
+- •You should use effective birth control during treatment with fulvestrant injection and for one year after the last dose of fulvestrant injection.
+- •Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with fulvestrant injection.
+- •are breastfeeding or plan to breastfeed.
+  It is not known if fulvestrant passes into your breast milk.
+  Do not breastfeed during your treatment with fulvestrant injection and for one year after the final dose of fulvestrant injection.
+  Talk to your healthcare provider about the best way to feed your baby during this time.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Fulvestrant injection may affect the way other medicines work, and other medicines may affect how fulvestrant injection works.
@@ -95,17 +103,13 @@ Inactive ingredients: alcohol, benzyl alcohol, benzyl benzoate, and castor oil.
 
 SafetyGlide™ is a trademark of Becton Dickinson and Company.
 
-Manufactured by:
+Distributed by:
 
-Glenmark Pharmaceuticals Inc., USA
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407
 
-Monroe, NC 28110
-
-Manufactured for:
-
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430 Questions?
+Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-07/2021
+November 2025

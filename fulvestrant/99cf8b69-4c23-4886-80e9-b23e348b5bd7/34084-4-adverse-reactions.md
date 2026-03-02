@@ -103,7 +103,7 @@ Table 4 lists adverse reactions reported with an incidence of 5% or greater, reg
 
 Table 4: Adverse Reactions in Studies 0020 and 0021 (≥ 5% from Combined Data)
 
-| Adverse Reactions | Fulvestrant 250 mg N=423 % | Anastrozole 1 mg N=423 % |
+| Adverse Reactions | Fulvestrant 250 mgN=423% | Anastrozole 1 mgN=423% |
 | --- | --- | --- |
 | Body as a Whole | 68 | 68 |
 | Asthenia | 23 | 27 |
@@ -175,7 +175,7 @@ Table 5: Adverse Reactions (≥10%) in PALOMA-3
 
 | Adverse Reactions | Fulvestrant plus Palbociclib N=345 |  |  | Fulvestrant plus Placebo N=172 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
+| All Grades% | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
 | Infections and Infestations |  |  |  |  |  |  |
 | Infections1 | 472 | 3 | 1 | 31 | 3 | 0 |
 | Blood and Lymphatic System Disorders |  |  |  |  |  |  |
@@ -213,7 +213,7 @@ Table 6: Laboratory Abnormalities in PALOMA-3
 
 | Laboratory Parameters | Fulvestrant plus PalbociclibN=345 |  |  | Fulvestrant plus PlaceboN=172 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
+| All Grades% | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
 | WBC decreased | 99 | 45 | 1 | 26 | 0 | 1 |
 | Neutrophils decreased | 96 | 56 | 11 | 14 | 0 | 1 |
 | Anemia | 78 | 3 | 0 | 40 | 2 | 0 |
@@ -298,7 +298,7 @@ Table 8: Laboratory Abnormalities ≥10% in Patients Receiving Fulvestrant Plus 
 
 | Laboratory Parameters | Fulvestrant plus Abemaciclib N=441 |  |  | Fulvestrant plus Placebo N=223 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
+| All Grades% | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
 | Creatinine increased | 98 | 1 | 0 | 74 | 0 | 0 |
 | White blood cell decreased | 90 | 23 | <1 | 33 | <1 | 0 |
 | Neutrophil count decreased | 87 | 29 | 4 | 30 | 4 | <1 |
@@ -329,7 +329,7 @@ Table 9: Adverse Reactions Occurring in ≥10% and ≥2% higher than fulvestrant
 
 | Adverse Reactions | Fulvestrant plus Ribociclib N=483 |  |  | Fulvestrant plus Placebo N=241 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |
+|  | All Grades % | Grade 3% | Grade 4% | All Grades % | Grade 3% | Grade 4% |
 | Infections and Infestations |  |  |  |  |  |  |
 | Infections1 | 42 | 5 | 0 | 30 | 2 | 0 |
 | Blood and Lymphatic System Disorders |  |  |  |  |  |  |

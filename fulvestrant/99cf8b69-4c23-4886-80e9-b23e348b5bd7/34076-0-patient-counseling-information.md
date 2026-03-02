@@ -21,15 +21,11 @@ Combination Therapy
 
 When fulvestrant injection is used in combination with palbociclib, abemaciclib, or ribociclib, refer to the respective Full Prescribing Information for Patient Counseling Information.
 
-Manufactured by:
+Distributed by:
 
-Glenmark Pharmaceuticals Inc., USA
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407
 
-Monroe, NC 28110
-
-Manufactured for:
-
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430 Questions?
+Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-07/2021
+November 2025
