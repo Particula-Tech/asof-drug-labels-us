@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761212"
+  ],
+  "inn": "pegfilgrastim",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70748-273-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "pegfilgrastim-unne",
+      "name": "ARMLUPEG"
+    }
+  ],
+  "setid": "c48fe1a7-63d7-4dce-bb53-a913cb0ade83",
+  "source": "dailymed"
+}
