@@ -11,5 +11,4 @@ Contact Lens Wear
 
 Contact lenses should be removed prior to instillation of VEVYE and may be reinserted 15 minutes following administration [see Warning and Precautions (5.2)].
 
-HARROW® Distributed by Harrow Eye, LLC 102 Woodmont Blvd.
-Suite 610 Nashville, TN 37205 USA © 2024
+HARROW® Distributed by Harrow Eye, LLC Nashville, TN 37215 USA © 2024
