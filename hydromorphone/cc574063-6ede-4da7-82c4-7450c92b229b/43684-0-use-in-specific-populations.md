@@ -25,7 +25,7 @@ The onset, duration, and severity of neonatal opioid withdrawal syndrome vary ba
 Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.5)].
 
 Labor or Delivery: Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
 Opioid analgesics, including Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
@@ -46,7 +46,7 @@ The findings cannot be clearly attributed to maternal toxicity.
 No neural tube defects were noted at 14 mg/kg (4.7 times the human daily dose of 24 mg/day).
 
 In a published study, CF-1 mice were treated subcutaneously with continuous infusion of 7.5, 15, or 30 mg/kg/day hydromorphone hydrochloride (1.5, 3, or 6.1 times the human daily dose of 24 mg based on body surface area) via implanted osmotic pumps during organogenesis (Gestation Days 7 to 10).
-Soft tissue malformations (cryptorchidism, cleft palate, malformed ventricles and retina), and skeletal variations (split supraoccipital, checkerboard and split sternebrae, delayed ossification of the paws and ectopic ossification sites) were observed at doses 3 times the human dose of 24 mg/day based on body surface area.
+Soft tissue malformations (cryptorchidism, cleft palate, malformed ventricles and retina), and skeletal variations (split supraoccipital, checkerboard and split sternebrae, delayed ossification of the paws, and ectopic ossification sites) were observed at doses 3 times the human dose of 24 mg/day based on body surface area.
 The findings cannot be clearly attributed to maternal toxicity.
 
 Increased pup mortality and decreased pup body weights were noted at 0.8 and 2 times the human daily dose of 24 mg in a study in which pregnant rats were treated with hydromorphone hydrochloride from Gestation Day 7 to Lactation Day 20 via oral gavage doses of 0, 0.5, 2, or 5 mg/kg/day (0.2, 0.8, or 2 times the HDD of 24 mg based on body surface area, respectively).
@@ -62,7 +62,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 Clinical Considerations
 
 Monitor infants exposed to Hydromorphone Hydrochloride through breast milk for excess sedation and respiratory depression.
-Withdrawal symptoms can occur in breastfed infants when maternal administration of hydromorphone is stopped, or when breast-feeding is stopped.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of hydromorphone is stopped, or when breastfeeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 

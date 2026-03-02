@@ -26,12 +26,12 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Hydromorphone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System
 
 Hydromorphone produces peripheral vasodilation which may result in orthostatic hypotension or syncope.
-Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes and sweating and/or orthostatic hypotension.
+Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes and sweating, and/or orthostatic hypotension.
 
 Effects on the Endocrine System
 
@@ -65,7 +65,7 @@ The analgesic activity of Hydromorphone Hydrochloride is due to the parent drug,
 Hydromorphone is rapidly absorbed from the gastrointestinal tract after oral administration and undergoes extensive first-pass metabolism.
 Exposure of hydromorphone (Cmax and AUC0-24) is dose-proportional at a dose range of 2 and 8 mg.
 In vivo bioavailability following single-dose administration of the 8 mg tablet is approximately 24% (coefficient of variation 21%).
-Bioequivalence between the Hydromorphone Hydrochloride 8 mg TABLET and an equivalent dose of Hydromorphone Hydrochloride Oral Solution has been demonstrated.
+Bioequivalence between the Hydromorphone Hydrochloride 8 mg Tablet and an equivalent dose of Hydromorphone Hydrochloride Oral Solution has been demonstrated.
 
 After oral administration of Hydromorphone Hydrochloride, peak plasma hydromorphone concentrations are generally attained within ½ to 1 hour.
 

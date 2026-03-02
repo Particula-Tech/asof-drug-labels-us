@@ -6,8 +6,9 @@ It is soluble in water and sparingly soluble in alcohol.
 The chemical name of hydromorphone hydrochloride is 4,5α-Epoxy-3-hydroxy-17-methylmorphinan-6-one hydrochloride.
 The structural formula is:
 
-1. C17H19NO3 ●HCl M.W.
-   321.80
+- 
+- C17H19NO3 ●HCl M.W.
+  321.80
 
 Each Hydromorphone Hydrochloride Tablet, USP for oral administration, contains 4 mg or 8 mg hydromorphone hydrochloride, USP.
 In addition, the tablets include lactose anhydrous and magnesium stearate.

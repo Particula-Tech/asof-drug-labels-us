@@ -22,21 +22,20 @@ Inform patients and caregivers that oral dosing devices may be obtained from the
 - •Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablets.
   Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (2.1, 5)].
 - •Initiate treatment with Hydromorphone Hydrochloride Oral Solution in a dosing range of 2.5 mL to 10 mL, 2.5 mg to 10 mg, every 3 to 6 hours as needed for pain, and at the lowest dose necessary to achieve adequate analgesia.
-  Titrate the dose based upon the individual patient’s response to their initial dose of Hydromorphone Hydrochloride Oral Solution [see Dosage and Administration (2) and Warnings and Precautions (5)].
+  Titrate the dose based upon the individual patient’s response to their initial dose of Hydromorphone Hydrochloride Oral Solution [see Dosage and Administration (2), Warnings and Precautions (5)].
 - •Initiate treatment with Hydromorphone Hydrochloride Tablets in a dosing range of 2 mg to 4 mg, orally, every 4 to 6 hours as needed for pain, and at the lowest dose necessary to achieve adequate analgesia.
-  Titrate the dose based upon the individual patient’s response to their initial dose of Hydromorphone Hydrochloride Tablets [see Dosage andAdministration (2) and Warnings and Precautions (5)].
+  Titrate the dose based upon the individual patient’s response to their initial dose of Hydromorphone Hydrochloride Tablets [see Dosage and Administration (2), Warnings and Precautions (5)].
 
-## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets [see Warnings and Precautions (5.3)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+The presence of risk factors for overdose should not prevent the management of pain in any patient [see Warnings and Precautions (5.2, 5.3, 5.4)].
 
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.3)].
 
-Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [seeWarnings and Precautions (5.2, 5.3, 5.4)].
-
-Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
 ## 2.3 Initial Dosage
 
@@ -67,11 +66,11 @@ The relative bioavailability of Hydromorphone Hydrochloride Oral Solution and Hy
 
 ## 2.4 Dosage Modifications in Patients with Hepatic Impairment
 
-Initiate treatment with one-fourth to one-half the usual Hydromorphone Hydrochloride starting dose depending on the degree of impairment [see Use inSpecific Populations (8.6), and Clinical Pharmacology (12.3)].
+Initiate treatment with one-fourth to one-half the usual Hydromorphone Hydrochloride starting dose depending on the degree of impairment [see Use inSpecific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.5 Dosage Modifications in Patients with Renal Impairment
 
-Initiate treatment with one-fourth to one-half the usual Hydromorphone Hydrochloride starting dose depending on the degree of impairment [see Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
+Initiate treatment with one-fourth to one-half the usual Hydromorphone Hydrochloride starting dose depending on the degree of impairment [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
 ## 2.6 Titration and Maintenance of Therapy
 
@@ -87,9 +86,9 @@ A supplemental dose of 5 to 15% of the total daily usage may be administered eve
 
 ## 2.7 Safe Reduction or Discontinuation of Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets
 
-Do not abruptly discontinue Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablets in patients who may be physically dependent on opioids.
-Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
-Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Do not rapidly reduce or abruptly discontinue Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablets in patients who may be physically dependent on opioids.
+Rapid reduction or abrupt discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid reduction or abrupt discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
 When a decision has been made to decrease the dose or discontinue therapy in an opioid dependent patient taking Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablets, there are a variety of factors that should be considered, including the total daily dose of opioid (including Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablets) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.

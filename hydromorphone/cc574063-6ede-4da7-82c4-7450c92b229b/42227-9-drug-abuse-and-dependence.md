@@ -35,7 +35,7 @@ Proper assessment of the patient, proper prescribing practices, periodic reevalu
 Risks Specific to Abuse of Hydromorphone Hydrochloride
 
 Abuse of Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets poses a risk of overdose and death.
-The risk is increased with concurrent use of Hydromorphone Hydrochloride Tablets with alcohol and/or other CNS depressants.
+The risk is increased with concurrent use of Hydromorphone Hydrochloride with alcohol and/or other CNS depressants.
 
 Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablets are approved for oral use only.
 
@@ -49,10 +49,10 @@ Tolerance is a physiological state characterized by a reduced response to a drug
 
 Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 
-Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
-Do not abruptly discontinue Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablets in a patient physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablets in a patient physically dependent on opioids.
 Rapid tapering of Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablets in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 
