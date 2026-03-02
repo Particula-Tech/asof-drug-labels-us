@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA217151"
+  ],
+  "inn": "varenicline",
+  "labeler": "Kanchan Healthcare Inc",
+  "package_ndcs": [
+    "85742-015-15",
+    "85742-016-15",
+    "85742-016-16",
+    "85742-017-17"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "varenicline tartrate",
+      "name": "VARENICLINE TARTRATE"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "varenicline tartrate",
+      "name": "VARENICLINE TARTRATE"
+    }
+  ],
+  "setid": "1624125c-a0c7-49ee-be00-9bfae4ff9bf5",
+  "source": "dailymed"
+}
