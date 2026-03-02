@@ -15,8 +15,6 @@ These events may be accompanied by tinnitus and dizziness.
 
 Trademarks are the property of their respective owners.
 
-Dispense with Patient Information available at: https://torrentpharma.com/pi/usa/products/
-
 Manufactured by:
 
 Torrent Pharmaceuticals LTD., India.
@@ -25,4 +23,4 @@ Manufactured for:
 
 Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8098157 Revised: November 2024
+8106705 Revised: January 2026
