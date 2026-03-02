@@ -1,0 +1,17 @@
+# 1 INDICATIONS AND USAGE
+
+## 1.1 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause
+
+## 1.2 Treatment of Moderate to Severe Symptoms of Vulvar and Vaginal Atrophy due to Menopause
+
+Limitations of Use When prescribing solely for the treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause, topical vaginal products should be considered.
+
+## 1.3 Treatment of Hypoestrogenism due to Hypogonadism, Castration or Primary Ovarian Failure
+
+## 1.4 Treatment of Breast Cancer (for Palliation Only) in Appropriately Selected Women and Men with Metastatic Disease
+
+## 1.5 Treatment of Advanced Androgen-Dependent Carcinoma of the Prostate (for Palliation Only)
+
+## 1.6 Prevention of Postmenopausal Osteoporosis
+
+Limitations of Use When prescribing solely for the prevention of postmenopausal osteoporosis, therapy should only be considered for women at significant risk of osteoporosis and non-estrogen medication should be carefully considered.

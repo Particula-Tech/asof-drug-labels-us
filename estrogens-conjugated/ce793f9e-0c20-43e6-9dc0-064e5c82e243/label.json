@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA004782"
+  ],
+  "inn": "estrogens-conjugated",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-295-02",
+    "66993-296-02",
+    "66993-297-02",
+    "66993-298-02",
+    "66993-299-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "estrogens, conjugated",
+      "name": "Conjugated Estrogens"
+    }
+  ],
+  "setid": "ce793f9e-0c20-43e6-9dc0-064e5c82e243",
+  "source": "dailymed"
+}
