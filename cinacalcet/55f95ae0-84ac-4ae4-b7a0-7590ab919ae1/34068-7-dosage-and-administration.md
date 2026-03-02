@@ -15,7 +15,7 @@ Serum iPTH levels should be assessed no earlier than 12 hours after dosing with 
 
 Cinacalcet can be used alone or in combination with vitamin D sterols and/or phosphate binders.
 
-During dose titration, serum calcium levels should be monitored frequently and if levels decrease below the normal range, appropriate steps should be taken to increase serum calcium levels, such as by providing supplemental calcium, initiating or increasing the dose of calcium-based phosphate binder,initiating or increasing the dose of vitamin D sterols, or temporarily withholding treatment with cinacalcet [see Dosage and Administration (2.4) and Warnings and Precautions (5.1)].
+During dose titration, serum calcium levels should be monitored frequently and if levels decrease below the normal range, appropriate steps should be taken to increase serum calcium levels, such as by providing supplemental calcium, initiating or increasing the dose of calcium-based phosphate binder, initiating or increasing the dose of vitamin D sterols, or temporarily withholding treatment with cinacalcet [see Dosage and Administration (2.4) and Warnings and Precautions (5.1)].
 
 ## 2.3 Patients with Parathyroid Carcinoma and Primary Hyperparathyroidism
 
@@ -27,8 +27,7 @@ Serum calcium should be measured within 1 week after initiation or dose adjustme
 ## 2.4 Switching from Parsabiv (etelcalcetide) to cinacalcet
 
 Discontinue etelcalcetide for at least 4 weeks prior to starting cinacalcet.
-Ensure corrected serum calcium is at or above the lower limit of normal prior to cinacalcet initiation.
-[see Warnings and Precautions (5.1)].Initiate cinacalcet treatment at a starting dose of 30 mg once daily.
+Ensure corrected serum calcium is at or above the lower limit of normal prior to cinacalcet initiation [see Warnings and Precautions (5.1)].Initiate cinacalcet treatment at a starting dose of 30 mg once daily.
 
 ## 2.5 Monitoring for Hypocalcemia
 

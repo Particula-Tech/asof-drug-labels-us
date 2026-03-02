@@ -12,7 +12,7 @@ The following adverse reactions are discussed in greater detail in other section
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 Secondary Hyperparathyroidism in Patients with Chronic Kidney Disease on Dialysis In three double-blind, placebo-controlled clinical trials, 1126 patients with CKD on dialysis received study drug (656 cinacalcet, 470 placebo) for up to 6 months.
 The most frequently reported adverse reactions are listed in Table 1.
-Seizures were observed in 1.4% (13/910) of cinacalcet -treated patients and 0.7% (5/641) of placebo-treated patients across all completed placebo controlled trials.
+Seizures were observed in 1.4% (13/910) of cinacalcet-treated patients and 0.7% (5/641) of placebo-treated patients across all completed placebo controlled trials.
 Table 1.
 Adverse Reactions with Frequency ≥ 5% in Patients on Dialysis in Short-Term Studies for up to 6 Months
 
@@ -95,7 +95,7 @@ Adverse Reactions with Frequency ≥10% in a Single Arm, Open-Label Study in Pat
 n=Number of subjects receiving at least one dose of study drug. pHPT = primary hyperparathyroidism Hypocalcemia In 26-week studies of patients with secondary HPT and CKD on dialysis 66% of patients receiving cinacalcet compared with 25% of patients receiving placebo developed at least one serum calcium value less than 8.4 mg/dL, whereas, 29% of patients receiving cinacalcet compared with 11% of patients receiving placebo developed at least one serum calcium value less than 7.5 mg/dL.
 Less than 1% of patients in each group permanently discontinued study drug due to hypocalcemia.
 In a randomized, double-blind, placebo-controlled study in patients with secondary HPT and CKD receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the cinacalcet group), 75% of patients receiving cinacalcet compared with 29% of patients receiving placebo developed at least one serum calcium value less than 8.4 mg/dL and 33% of cinacalcet patients compared with 12% of patients receiving placebo had at least one serum calcium value less than 7.5 mg/dL.
-Most of the cases of severe hypocalcemia less than 7.5mg/dL (21/33=64%) occurred during the first 6 months.
+Most of the cases of severe hypocalcemia less than 7.5 mg/dL (21/33=64%) occurred during the first 6 months.
 In this trial, 1.1% of patients receiving cinacalcet and 0.1% of patients receiving placebo permanently discontinued study drug due to hypocalcemia.
 
 ## 6.2 Postmarketing Experience

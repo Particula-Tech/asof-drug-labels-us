@@ -58,8 +58,12 @@ Values shown are medians unless indicated otherwise.
 Figure 1.
 Mean (SE) iPTH Values (Pooled Phase 3 Studies)
 
+Data are presented for patients who completed the studies; Placebo (n = 342), cinacalcet (n = 439).
+
 Figure 2.
-Mean (SE) Ca x P values (Pooled Phase 3 Studies)
+Mean (SE) Ca x P Values (Pooled Phase 3 Studies)
+
+Data are presented for patients who completed the studies; Placebo (n = 342), cinacalcet (n = 439).
 
 Reductions in iPTH and Ca x P were maintained for up to 12 months of treatment.
 
@@ -82,7 +86,7 @@ Figure 3 illustrates mean serum calcium (mg/dL) over time for all patients still
 Daily dose during the study ranged from 30 mg twice daily to 90 mg four times daily.
 
 Figure 3.
-Serum Calcium Values in Patients With Parathyroid Carcinoma Receiving cinacalcet at Baseline, Titration, and Maintenance Phase
+Serum Calcium Values in Patients with Parathyroid Carcinoma Receiving cinacalcet at Baseline, Titration, and Maintenance Phase
 
 n = Number of patients with non-missing values at the timepoint.
 End of Titration (EOT) phase could occur at any visit from week 2 to 16.

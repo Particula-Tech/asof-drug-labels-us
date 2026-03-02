@@ -3,12 +3,13 @@
 ## 5.1 Hypocalcemia
 
 Cinacalcet lowers serum calcium and can lead to hypocalcemia [see Adverse Reactions (6.1)].Significant lowering of serum calcium can cause paresthesias, myalgias, muscle spasms, tetany, seizures, QT interval prolongation and ventricular arrhythmia.
+
 Life threatening events and fatal outcomes associated with hypocalcemia have been reported in patients treated with cinacalcet, including in pediatric patients.
 The safety and effectiveness of cinacalcet have not been established in pediatric patients [see Pediatric Use (8.4)].
 
 Cinacalcet is not indicated for patients with CKD not on dialysis [see Indications and Usage (1)].In patients with secondary HPT and CKD not on dialysis, the long term safety and efficacy of cinacalcet have not been established.
-Clinical studies indicate that cinacalcet-treated patients with CKD not on dialysis have an increased risk for hypocalcemia compared with cinacalcet -treated patients with CKD on dialysis, which may be due to lower baseline calcium levels.
-In a phase 3 study of 32 weeks duration and including 404 patients with CKD not on dialysis (302 cinacalcet, 102 placebo), in which the median dose for cinacalcet was 60 mg per day at the completion of the study, 80% of cinacalcet -treated patients experienced at least one serum calcium value < 8.4 mg/dL compared with 5% of patients receiving placebo.
+Clinical studies indicate that cinacalcet-treated patients with CKD not on dialysis have an increased risk for hypocalcemia compared with cinacalcet-treated patients with CKD on dialysis, which may be due to lower baseline calcium levels.
+In a phase 3 study of 32 weeks duration and including 404 patients with CKD not on dialysis (302 cinacalcet, 102 placebo), in which the median dose for cinacalcet was 60 mg per day at the completion of the study, 80% of cinacalcet-treated patients experienced at least one serum calcium value < 8.4 mg/dL compared with 5% of patients receiving placebo.
 QT Interval Prolongation and Ventricular Arrhythmia Decreases in serum calcium can also prolong the QT interval, potentially resulting in ventricular arrhythmia.
 Cases of QT prolongation and ventricular arrhythmia have been reported in patients treated with cinacalcet.
 Patients with congenital long QT syndrome, history of QT interval prolongation, family history of long QT syndrome or sudden cardiac death, and other conditions that predispose to QT interval prolongation and ventricular arrhythmia may be at increased risk for QT interval prolongation and ventricular arrhythmias if they develop hypocalcemia due to cinacalcet.
@@ -21,7 +22,7 @@ Concurrent Administration with Other Calcium-Lowering Drug Products Concurrent a
 Closely monitor serum calcium in patients receiving cinacalcet and concomitant therapies known to lower serum calcium levels.
 Patient Education and Hypocalcemia Treatment Educate patients on the symptoms of hypocalcemia and advise them to contact a healthcare provider if they occur.
 If corrected serum calcium falls below the lower limit of normal or symptoms of hypocalcemia develop, start or increase calcium supplementation (including calcium, calcium containing phosphate binders, and/or vitamin D sterols or increases in dialysate calcium concentration).
-Cinacalcet dose reduction or discontinuation of cinacalcet may be necessary [see Dosage and Administration (2.2)]
+Cinacalcet dose reduction or discontinuation of cinacalcet may be necessary [see Dosage and Administration (2.2)].
 
 ## 5.2 Upper Gastrointestinal Bleeding
 

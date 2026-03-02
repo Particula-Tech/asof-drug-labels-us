@@ -8,7 +8,7 @@ Cinacalcet Tablets
 
 30 mg
 
-Rx only
+Rx Only
 
 30 tablets
 
@@ -20,7 +20,7 @@ Cinacalcet Tablets
 
 60 mg
 
-Rx only
+Rx Only
 
 30 tablets
 
@@ -32,6 +32,6 @@ Cinacalcet Tablets
 
 90 mg
 
-Rx only
+Rx Only
 
 30 tablets
