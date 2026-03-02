@@ -1,25 +1,19 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 MAO Inhibitors
+Table 6 describes clinically significant drug interactions with CONCERTA.
 
-CONCERTA should not be used in patients being treated (currently or within the preceding 2 weeks) with MAO inhibitors [see Contraindications (4.2)].
+Table 6: Clinically Significant Drug Interactions
 
-## 7.2 Vasopressor Agents
-
-Because of possible increases in blood pressure, CONCERTA should be used cautiously with vasopressor agents [see Warnings and Precautions (5.3)].
-
-## 7.3 Coumarin Anticoagulants, Antidepressants, and Selective Serotonin Reuptake Inhibitors
-
-Human pharmacologic studies have shown that methylphenidate may inhibit the metabolism of coumarin anticoagulants, anticonvulsants (eg, phenobarbital, phenytoin, primidone), and some antidepressants (tricyclics and selective serotonin reuptake inhibitors).
-Downward dose adjustment of these drugs may be required when given concomitantly with methylphenidate.
-It may be necessary to adjust the dosage and monitor plasma drug concentrations (or, in the case of coumarin, coagulation times), when initiating or discontinuing concomitant methylphenidate.
-
-## 7.4 Halogenated Anesthetics
-
-Concomitant use of halogenated anesthetics and CONCERTA may increase the risk of sudden blood pressure and heart rate increase during surgery.
-Monitor blood pressure and avoid use of CONCERTA in patients being treated with anesthetics on the day of surgery.
-
-## 7.5 Risperidone
-
-Combined use of methylphenidate with risperidone when there is a change, whether an increase or decrease, in dosage of either or both medications, may increase the risk of extrapyramidal symptoms (EPS).
-Monitor for signs of EPS.
+| Monoamine Oxidase Inhibitors |  |
+| --- | --- |
+| Prevention or Management | Concomitant use of CNS stimulants, including CONCERTA, with MAOIs or within 14 days after discontinuing an MAOI is contraindicated [see Contraindications (4)]. |
+| Mechanism and Clinical Effect(s) | Concomitant use of MAOIs and CNS stimulants, including CONCERTA, can cause hypertensive crisis. Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure. |
+| Antihypertensive Drugs |  |
+| Prevention or Management | Increase monitoring for blood pressure and adjust the dosage of the antihypertensive drug, as needed. |
+| Mechanism and Clinical Effect(s) | CONCERTA may decrease effectiveness of drugs used to treat hypertension [see Warnings and Precautions 5.3]. |
+| Halogenated Anesthetics |  |
+| Prevention or Management | Avoid use of CONCERTA in patients being treated with anesthetics on the day of surgery. |
+| Mechanism and Clinical Effect(s) | Concomitant use of halogenated anesthetics and CONCERTA may increase the risk of sudden blood pressure and heart rate increase during surgery. |
+| Risperidone |  |
+| Prevention or Management | Monitor for signs of extrapyramidal symptoms. |
+| Mechanism and Clinical Effect(s) | The risk of risperidone-associated extrapyramidal symptoms may increase in patients taking concomitant CONCERTA when there is a change in the CONCERTA or risperidone dosage. |

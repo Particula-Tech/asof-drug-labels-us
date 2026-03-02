@@ -1,3 +1,8 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-CONCERTA (methylphenidate HCl) Extended-Release Tablets are available in the following dosage strengths: 18 mg tablets are yellow and imprinted with "alza 18," 27 mg tablets are gray and imprinted with "alza 27," 36 mg tablets are white and imprinted with "alza 36," and 54 mg tablets are brownish-red and imprinted with "alza 54."
+Extended-Release Tablets:
+
+- 18 mg: yellow, imprinted with "alza 18"
+- 27 mg: gray, imprinted with "alza 27"
+- 36 mg: white, imprinted with "alza 36"
+- 54 mg: brownish-red, imprinted with "alza 54"

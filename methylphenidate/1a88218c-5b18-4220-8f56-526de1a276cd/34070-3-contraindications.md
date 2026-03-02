@@ -1,10 +1,8 @@
 # 4 CONTRAINDICATIONS
 
-## 4.1 Hypersensitivity to Methylphenidate
+CONCERTA is contraindicated in patients:
 
-Hypersensitivity reactions, such as angioedema and anaphylactic reactions, have been observed in patients treated with CONCERTA.
-Therefore, CONCERTA is contraindicated in patients known to be hypersensitive to methylphenidate or other components of the product [see Adverse Reactions (6.5)].
-
-## 4.2 Monoamine Oxidase Inhibitors
-
-CONCERTA is contraindicated during treatment with monoamine oxidase (MAO) inhibitors, and also within a minimum of 14 days following discontinuation of a MAO inhibitor (hypertensive crises may result) [see Drug Interactions (7.1)].
+- Known to be hypersensitive to methylphenidate or other components of CONCERTA.
+  Hypersensitivity reactions, such as angioedema and anaphylactic reactions, have been reported in patients treated with CONCERTA.
+  [see Adverse Reactions (6)].
+- Receiving concomitant monoamine oxidase inhibitors (MAOIs), and within 14 days following discontinuation of treatment with a MAO inhibitor because of the risk of a hypertensive crisis [see Drug Interactions (7)].

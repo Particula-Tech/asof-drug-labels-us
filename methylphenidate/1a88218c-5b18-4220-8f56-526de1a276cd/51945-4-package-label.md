@@ -2,7 +2,7 @@
 
 NDC 50458-585-01
 
-CONCERTA ® (methylphenidate HCl) CII
+CONCERTA® (methylphenidate HCl) CII
 
 Extended-release tablets
 
@@ -20,7 +20,7 @@ janssen
 
 NDC 50458-588-01
 
-CONCERTA ® (methylphenidate HCl) CII
+CONCERTA® (methylphenidate HCl) CII
 
 Extended-release tablets
 
@@ -56,7 +56,7 @@ janssen
 
 NDC 50458-587-01
 
-CONCERTA ® (methylphenidate HCl) CII
+CONCERTA® (methylphenidate HCl) CII
 
 Extended-release tablets
 
