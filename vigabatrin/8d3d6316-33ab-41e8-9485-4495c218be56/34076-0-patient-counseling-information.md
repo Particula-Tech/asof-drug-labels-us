@@ -52,10 +52,8 @@ Withdrawal of VIGAFYDE Therapy
 Instruct patients and caregivers not to suddenly discontinue VIGAFYDE therapy without consulting with their healthcare provider.
 As with all AEDs, withdrawal should normally be gradual [see Warnings and Precautions (5.5)].
 
-Made in the United Kingdom
-
 Distributed by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
 VIGAFYDE is a registered trademark of Pyros Pharmaceuticals, Inc.
 
-PLFT0376-3-370
+PLEF0427-4-414

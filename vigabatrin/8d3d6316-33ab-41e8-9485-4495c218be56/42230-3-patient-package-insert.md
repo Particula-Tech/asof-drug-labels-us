@@ -123,8 +123,6 @@ How should I store VIGAFYDE?
 - Throw away (discard) any opened bottle of VIGAFYDE 90 days after first opening, even if there is still medicine in the bottle.
 - Keep VIGAFYDE and all medicines out of the reach of children.
 
-Made in the United Kingdom
-
 Distributed by
 
 UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
@@ -133,6 +131,6 @@ VIGAFYDE is a registered trademark of Pyros Pharmaceuticals, Inc.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-PLFT0376-3-370
+PLEF0427-4-414
 
-Revised: 9/2025
+Revised: 11/2025
