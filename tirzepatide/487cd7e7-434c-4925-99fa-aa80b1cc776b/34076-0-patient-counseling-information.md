@@ -25,7 +25,7 @@ Instruct patients to contact their healthcare provider for appropriate clinical 
 
 Acute Pancreatitis
 
-Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by vomiting.
+Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by nausea or vomiting.
 Instruct patients to discontinue ZEPBOUND promptly and contact their healthcare provider if pancreatitis is suspected [see Warnings and Precautions (5.5)].
 
 Hypersensitivity Reactions
@@ -42,19 +42,14 @@ Diabetic Retinopathy Complications in Patients with Type 2 Diabetes Mellitus
 
 Inform patients with type 2 diabetes mellitus to contact their healthcare provider if changes in vision are experienced during treatment with ZEPBOUND [see Warnings and Precautions (5.8)].
 
-Suicidal Behavior and Ideation
-
-Advise patients to report emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
-Inform patients that if they experience suicidal thoughts or behaviors, they should stop taking ZEPBOUND [see Warnings and Precautions (5.9)].
-
 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
 Inform patients that ZEPBOUND may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
-Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking ZEPBOUND [see Warnings and Precautions (5.10)].
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking ZEPBOUND [see Warnings and Precautions (5.9)].
 
 Never Share a ZEPBOUND KwikPen Between Patients
 
-Advise patients that they must never share a ZEPBOUND KwikPen with another person, even if the pen needle is changed, because doing so carries a risk for transmission of blood-borne pathogens [see Warnings and Precautions (5.11)].
+Advise patients that they must never share a ZEPBOUND KwikPen with another person, even if the pen needle is changed, because doing so carries a risk for transmission of blood-borne pathogens [see Warnings and Precautions (5.10)].
 
 Pregnancy
 
@@ -72,8 +67,8 @@ Administration
 Instruct patients how to prepare and administer the correct dose of ZEPBOUND and assess their ability to inject subcutaneously to ensure the proper administration of ZEPBOUND.
 Instruct patients using ZEPBOUND vials to always use a new syringe and needle for each injection.
 Use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL or 0.6 mL dose).
-Notify the patient of which ZEPBOUND presentation they will be receiving and ensure training is appropriate for the specific ZEPBOUND presentation.
-Advise patients to refer to the IFU in case of any change in the presentation.
+Inform patients and their caregiver(s) which ZEPBOUND presentation (e.g., vial, prefilled single-dose pen, single-patient-use KwikPen) they will receive and ensure they receive training appropriate for that specific presentation.
+If the prescribed ZEPBOUND presentation changes, ensure patients and caregivers receive appropriate training and instruct them to consult the Instructions for Use for the newly prescribed presentation.
 Advise caregivers that ZEPBOUND KwikPen is not recommended for self-administration by those with visual impairment unless their healthcare provider determines the patient can properly administer [see Dosage and Administration (2.4)].
 
 Missed Doses
@@ -89,4 +84,4 @@ All rights reserved.
 
 Pat.: www.lilly.com/patents
 
-ZEP-0012-USPI-20260120
+ZEP-0013-USPI-20260225

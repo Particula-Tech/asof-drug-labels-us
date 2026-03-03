@@ -10,8 +10,7 @@ The following serious adverse reactions are described below or elsewhere in the 
 - Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
 - Hypoglycemia [see Warnings and Precautions (5.7)]
 - Diabetic Retinopathy Complications in Patients with Type 2 Diabetes Mellitus [see Warnings and Precautions (5.8)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.9)]
-- Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.10)]
+- Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -151,7 +150,7 @@ The adverse reactions observed with ZEPBOUND 10 mg or 15 mg administered subcuta
 The following adverse reactions have been reported during post-approval use of tirzepatide, the active ingredient in ZEPBOUND.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or to establish a causal relationship to drug exposure.
 
-Gastrointestinal: acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death, ileus
+Gastrointestinal: acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death, ileus, intestinal obstruction, severe constipation including fecal impaction
 
 Hypersensitivity: anaphylaxis, angioedema
 

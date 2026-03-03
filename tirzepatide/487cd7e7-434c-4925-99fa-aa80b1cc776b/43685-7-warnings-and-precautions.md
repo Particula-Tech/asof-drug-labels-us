@@ -16,9 +16,10 @@ Patients with thyroid nodules noted on physical examination or neck imaging shou
 
 ## 5.2 Severe Gastrointestinal Adverse Reactions
 
-Use of ZEPBOUND has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6.1)].
+Use of ZEPBOUND has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6)].
 In a pool of two ZEPBOUND clinical trials for weight reduction (Studies 1 and 2), severe gastrointestinal adverse reactions were reported more frequently among patients receiving ZEPBOUND (5 mg 1.7%, 10 mg 2.5%, 15 mg 3.1%) than placebo (1%).
 Similar rates of severe gastrointestinal adverse reactions were observed in ZEPBOUND clinical trials for weight reduction and in ZEPBOUND clinical trials for OSA.
+Severe gastrointestinal adverse reactions have also been reported postmarketing with GLP-1 receptor agonists.
 
 ZEPBOUND is not recommended in patients with severe gastroparesis.
 
@@ -39,9 +40,9 @@ If cholecystitis is suspected, gallbladder diagnostic studies and appropriate cl
 
 ## 5.5 Acute Pancreatitis
 
-Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, or ZEPBOUND [see Adverse Reactions (6.1)].
+Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, or ZEPBOUND [see Adverse Reactions (6)].
 
-After initiation of ZEPBOUND, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
+After initiation of ZEPBOUND, observe patients carefully for signs and symptoms of acute pancreatitis which may include persistent or severe abdominal pain (sometimes radiating to the back) and which may or may not be accompanied by nausea or vomiting.
 If pancreatitis is suspected, discontinue ZEPBOUND and initiate appropriate management.
 
 ## 5.6 Hypersensitivity Reactions
@@ -75,14 +76,7 @@ Rapid improvement in glucose control has been associated with a temporary worsen
 Tirzepatide has not been studied in patients with non-proliferative diabetic retinopathy requiring acute therapy, proliferative diabetic retinopathy, or diabetic macular edema.
 Patients with a history of diabetic retinopathy should be monitored for progression of diabetic retinopathy.
 
-## 5.9 Suicidal Behavior and Ideation
-
-Suicidal behavior and ideation have been reported in clinical trials with other weight management products.
-Monitor patients treated with ZEPBOUND for the emergence or worsening of depression, suicidal thoughts or behaviors, and/or any unusual changes in mood or behavior.
-Discontinue ZEPBOUND in patients who experience suicidal thoughts or behaviors.
-Avoid ZEPBOUND in patients with a history of suicidal attempts or active suicidal ideation.
-
-## 5.10 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+## 5.9 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
 ZEPBOUND delays gastric emptying [see Clinical Pharmacology (12.2)].
 There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.
@@ -90,7 +84,7 @@ There have been rare postmarketing reports of pulmonary aspiration in patients r
 Available data are insufficient to inform recommendations to mitigate the risk of pulmonary aspiration during general anesthesia or deep sedation in patients taking ZEPBOUND, including whether modifying preoperative fasting recommendations or temporarily discontinuing ZEPBOUND could reduce the incidence of retained gastric contents.
 Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking ZEPBOUND.
 
-## 5.11 Never Share a ZEPBOUND KwikPen Between Patients
+## 5.10 Never Share a ZEPBOUND KwikPen Between Patients
 
 Never share ZEPBOUND KwikPen between patients, even if the pen needle is changed.
 Sharing poses a risk for transmission of blood-borne pathogens.
