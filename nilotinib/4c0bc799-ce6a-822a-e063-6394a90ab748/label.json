@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA218544"
+  ],
+  "inn": "nilotinib",
+  "labeler": "AvKARE",
+  "package_ndcs": [
+    "73190-033-11",
+    "73190-033-12",
+    "73190-034-11",
+    "73190-034-12"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nilotinib",
+      "name": "nilotinib"
+    }
+  ],
+  "setid": "4c0bc799-ce6a-822a-e063-6394a90ab748",
+  "source": "dailymed"
+}
