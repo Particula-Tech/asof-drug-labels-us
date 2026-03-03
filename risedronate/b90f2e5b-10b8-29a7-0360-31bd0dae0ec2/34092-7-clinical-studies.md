@@ -2,11 +2,11 @@
 
 ## 14.1 Treatment of Osteoporosis in Postmenopausal Women
 
-The fracture efficacy of risedronate sodium tablets 5 mg daily in the treatment of postmenopausal osteoporosis was demonstrated in 2 large, randomized, placebo-controlled, double-blind studies that enrolled a total of almost 4000 postmenopausal women under similar protocols.
+The fracture efficacy of risedronate sodium tablets 5 mg daily in the treatment of postmenopausal osteoporosis was demonstrated in 2 large, randomized, placebo-controlled, double-blind studies that enrolled a total of almost 4,000 postmenopausal women under similar protocols.
 The Multinational study (VERT MN) (risedronate sodium tablets 5 mg, N = 408) was conducted primarily in Europe and Australia; a second study was conducted in North America (VERT NA) (risedronate sodium tablets 5 mg, N = 821).
 Patients were selected on the basis of radiographic evidence of previous vertebral fracture, and therefore, had established disease.
 The average number of prevalent vertebral fractures per patient at study entry was 4 in VERT MN, and 2.5 in VERT NA, with a broad range of baseline BMD levels.
-All patients in these studies received supplemental calcium 1000 mg/day.
+All patients in these studies received supplemental calcium 1,000 mg/day.
 Patients with low 25-hydroxyvitamin D3 levels (approximately 40 nmol/L or less) also received supplemental vitamin D 500 international units/day.
 
 Effect on Vertebral Fractures Fractures of previously undeformed vertebrae (new fractures) and worsening of pre-existing vertebral fractures were diagnosed radiographically; some of these fractures were also associated with symptoms (that is, clinical fractures).
@@ -19,7 +19,7 @@ Table 3 The Effect of Risedronate SodiumTablets on the Risk of Vertebral Fractur
 
 | VERT MN | Placebo N = 678 | Risedronate Sodium Tablets 5 mg N = 696 | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |
 | --- | --- | --- | --- | --- |
-|  | Proportion of Patients with Fracture (%)Calculated by Kaplan-Meier methodology. |  |  |  |
+|  | Proportion of Patients with Fracture (%) |  |  |  |
 | New and Worsening |  |  |  |  |
 | 0 - 1 Year | 7.2 | 3.9 | 3.3 | 49 |
 | 0 - 2 Years | 12.8 | 8.0 | 4.8 | 42 |
@@ -37,6 +37,8 @@ Table 3 The Effect of Risedronate SodiumTablets on the Risk of Vertebral Fractur
 | 0 - 1 Year | 13.3 | 5.6 | 7.7 | 61 |
 | 0 - 2 Years | 24.7 | 11.6 | 13.1 | 59 |
 | 0 - 3 Years | 29.0 | 18.1 | 10.9 | 49 |
+
+aCalculated by Kaplan-Meier methodology.
 
 Effect on Osteoporosis-Related Nonvertebral Fractures In VERT MN and VERT NA, a prospectively planned efficacy endpoint was defined consisting of all radiographically confirmed fractures of skeletal sites accepted as associated with osteoporosis.
 Fractures at these sites were collectively referred to as osteoporosis-related nonvertebral fractures.
@@ -62,7 +64,7 @@ a The endpoint value is the value at the study's last time point for all patient
 ND = analysis not done
 
 Risedronate sodium tablets 35 mg once-a-week (N = 485) was shown to be non-inferior to risedronate sodium tablets 5 mg daily (N = 480) in a 1-year, double-blind, multicenter study of postmenopausal women with osteoporosis.
-In the primary efficacy analysis of completers, the mean increases from baseline in lumbar spine BMD at 1 year were 4.0% (3.7, 4.3; 95% confidence interval [CI]) in the 5 mg daily group (N = 391) and 3.9% (3.6, 4.3; 95% CI) in the 35 mg once-a-week group (N = 387) and the mean difference between 5 mg daily and 35 mg once-a-week was 0.1% (-0.4, 0.6; 95% CI).
+In the primary efficacy analysis of completers, the mean increases from baseline in lumbar spine BMD at 1 year were 4% (3.7, 4.3; 95% confidence interval [CI]) in the 5 mg daily group (N = 391) and 3.9% (3.6, 4.3; 95% CI) in the 35 mg once-a-week group (N = 387) and the mean difference between 5 mg daily and 35 mg once-a-week was 0.1% (-0.4, 0.6; 95% CI).
 The results of the intent-to-treat analysis with the last observation carried forward were consistent with the primary efficacy analysis of completers.
 The 2 treatment groups were also similar with regard to BMD increases at other skeletal sites.
 
@@ -73,7 +75,7 @@ The 2 treatment groups were also similar with regard to BMD increases at other s
 
 Risedronate sodium tablets 150 mg once-a-month (N = 650) was shown to be non-inferior to risedronate sodium tablets 5 mg daily (N = 642) in a 1-year, double-blind, multicenter study of postmenopausal women with osteoporosis.
 The primary efficacy analysis was conducted in all randomized patients with baseline and post-baseline lumbar spine BMD values (modified intent-to-treat population) using last observation carried forward.
-The mean increases from baseline in lumbar spine BMD at 1 year were 3.4% (3.0, 3.8; 95% CI) in the 5 mg daily group (N = 561), and 3.5% (3.1, 3.9; 95% CI) in the 150 mg once-a-month group (N = 578) with a mean difference between groups being -0.1% (-0.5, 0.3; 95% CI).
+The mean increases from baseline in lumbar spine BMD at 1 year were 3.4% (3, 3.8; 95% CI) in the 5 mg daily group (N = 561), and 3.5% (3.1, 3.9; 95% CI) in the 150 mg once-a-month group (N = 578) with a mean difference between groups being -0.1% (-0.5, 0.3; 95% CI).
 The results of the completers analysis were consistent with the primary efficacy analysis.
 The 2 treatment groups were also similar with regard to BMD increases at other skeletal sites.
 
@@ -93,24 +95,24 @@ In VERT NA, the median annual height change was -1.1 mm/yr in the placebo group 
 ## 14.2 Prevention of Osteoporosis in Postmenopausal Women
 
 The safety and effectiveness of risedronate sodium tablets 5 mg daily for the prevention of postmenopausal osteoporosis were demonstrated in a 2-year, double-blind, placebo-controlled study of 383 postmenopausal women (age range 42 to 63 years) within three years of menopause (risedronate sodium tablets 5 mg, N = 129).
-All patients in this study received supplemental calcium 1000 mg/day.
+All patients in this study received supplemental calcium 1,000 mg/day.
 Increases in BMD were observed as early as 3 months following initiation of risedronate sodium tablets treatment.
 Risedronate sodium tablets 5 mg daily produced significant mean increases in BMD at the lumbar spine, femoral neck, and trochanter compared to placebo at the end of the study (Figure 2).
-Risedronate sodium tablets 5 mg daily was also effective in patients with lower baseline lumbar spine BMD (more than 1 SD below the premenopausal mean) and in those with normal baseline lumbar spine BMD.
+Risedronate sodium tablets 5 mg daily were also effective in patients with lower baseline lumbar spine BMD (more than 1 SD below the premenopausal mean) and in those with normal baseline lumbar spine BMD.
 Bone mineral density at the distal radius decreased in both risedronate sodium and placebo-treated women following 1 year of treatment.
 
 The safety and effectiveness of risedronate sodium tablets 35 mg once-a-week for the prevention postmenopausal osteoporosis were demonstrated in a 1-year, double-blind, placebo-controlled study of 278 patients (risedronate sodium tablets 35 mg, N = 136).
-All patients were supplemented with 1000 mg elemental calcium and 400 international units vitamin D per day.
+All patients were supplemented with 1,000 mg elemental calcium and 400 international units vitamin D per day.
 The primary efficacy measure was the percent change in lumbar spine BMD from baseline after 1 year of treatment using LOCF (last observation carried forward).
 Risedronate sodium tablets 35 mg once-a-week resulted in a statistically significant mean difference from placebo in lumbar spine BMD of +2.9% (least square mean for placebo -1.05%; risedronate +1.83%).
-Risedronate sodium tablets 35 mg once-a-week also showed a statistically significant mean difference from placebo in BMD at the total proximal femur of +1.5% (placebo -0.53%; risedronate +1.01%), femoral neck of +1.2% (placebo -1.00%; risedronate +0.22%), and trochanter of +1.8% (placebo -0.74%; risedronate +1.07%).
+Risedronate sodium tablets 35 mg once-a-week also showed a statistically significant mean difference from placebo in BMD at the total proximal femur of +1.5% (placebo -0.53%; risedronate +1.01%), femoral neck of +1.2% (placebo -1%; risedronate +0.22%), and trochanter of +1.8% (placebo -0.74%; risedronate +1.07%).
 
 Combined Administration with Hormone Replacement Therapy The effects of combining risedronate sodium tablets 5 mg daily with conjugated estrogen 0.625 mg daily (N = 263) were compared to the effects of conjugated estrogen alone (N = 261) in a 1-year, randomized, double-blind study of women ages 37 to 82 years, who were on average 14 years postmenopausal.
 The BMD results for this study are presented in Table 5.
 
 Table 5 Percent Change from Baseline in BMD After 1 Year of Treatment
 
-|  | Estrogen 0.625 mg N = 261 | Risedronate sodium tablets 5 mg + Estrogen 0.625 mg N = 263 |
+|  | Estrogen 0.625 mg N = 261 | Risedronate Sodium Tablets 5 mg + Estrogen 0.625 mg N = 263 |
 | --- | --- | --- |
 | Lumbar Spine | 4.6 ± 0.20 | 5.2 ± 0.23 |
 | Femoral Neck | 1.8 ± 0.25 | 2.7 ± 0.25 |
@@ -131,7 +133,7 @@ The effects of risedronate sodium tablets 35 mg once-a-week on BMD were examined
 The patients had a mean age of 61 years (range 36 to 84 years) and 95% were Caucasian.
 At baseline, mean lumbar spine T-score was -3.2 and mean femoral neck T-score was -2.4.
 All patients in the study had either, 1) a BMD T-score less than or equal to -2 at the femoral neck and less than or equal to -1 at the lumbar spine, or 2) a BMD T-score less than or equal to -1 at the femoral neck and less than or equal to -2.5 at the lumbar spine.
-All patients were supplemented with calcium 1000 mg/day and vitamin D 400 to 500 international units/day.
+All patients were supplemented with calcium 1,000 mg/day and vitamin D 400 to 500 international units/day.
 Risedronate sodium tablets 35 mg once-a-week produced significant mean increases in BMD at the lumbar spine, femoral neck, trochanter, and total hip compared to placebo after 2 years of treatment (treatment difference: lumbar spine, 4.5%; femoral neck, 1.1%; trochanter, 2.2%; total proximal femur, 1.5%).
 
 ## 14.4 Glucocorticoid-Induced Osteoporosis
@@ -155,7 +157,7 @@ Positive treatment effects were also observed in patients taking glucocorticoids
 
 The treatment study of similar design enrolled 290 patients (risedronate sodium tablets 5 mg, N = 100) (19 to 85 years of age) with continuing, long-term (greater than or equal to 6 months) use of glucocorticoids (mean duration of use prior to study 60 months; mean daily dose of prednisone 15 mg) for rheumatic, skin, and pulmonary diseases.
 The baseline mean lumbar spine BMD was low (1.63 SD below the young healthy population mean), with 28% of the patients more than 2.5 SD below the mean.
-All patients in this study received supplemental calcium 1000 mg/day and vitamin D 400 international units/day.
+All patients in this study received supplemental calcium 1,000 mg/day and vitamin D 400 international units/day.
 
 After 1 year of treatment, the BMD of the placebo group was within 1% of baseline levels at the lumbar spine, femoral neck, and trochanter.
 Risedronate sodium tablets 5 mg increased BMD at the lumbar spine (2.9%), femoral neck (1.8%), and trochanter (2.4%).

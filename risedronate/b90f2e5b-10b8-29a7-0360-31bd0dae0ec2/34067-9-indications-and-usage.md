@@ -3,7 +3,7 @@
 ## 1.1 Postmenopausal Osteoporosis
 
 Risedronate sodium tablets, USP are indicated for the treatment and prevention of osteoporosis in postmenopausal women.
-In postmenopausal women with osteoporosis, risedronate sodium tablets, USP reduce the incidence of vertebral fractures and a composite endpoint of nonvertebral osteoporosis-related fractures [see Clinical Studies (14.1, 14.2)].
+In postmenopausal women with osteoporosis, risedronate sodium tablets, USP reduces the incidence of vertebral fractures and a composite endpoint of nonvertebral osteoporosis-related fractures [see Clinical Studies (14.1, 14.2)].
 
 ## 1.2 Osteoporosis in Men
 

@@ -15,11 +15,11 @@ If considered appropriate, risedronate sodium tablets may be used concomitantly 
 
 ## 7.3 Aspirin/Nonsteroidal Anti-Inflammatory Drugs
 
-Of over 5700 patients enrolled in the risedronate sodium tablets Phase 3 osteoporosis studies, aspirin use was reported by 31% of patients, 24% of whom were regular users (3 or more days per week).
+Of over 5,700 patients enrolled in the risedronate sodium tablets Phase 3 osteoporosis studies, aspirin use was reported by 31% of patients, 24% of whom were regular users (3 or more days per week).
 Forty-eight percent of patients reported NSAID use, 21% of whom were regular users.
 Among regular aspirin or NSAID users, the incidence of upper gastrointestinal adverse experiences in placebo-treated patients (24.8%) was similar to that in risedronate sodium-treated patients (24.5%).
 
 ## 7.4 H2 Blockers and Proton Pump Inhibitors (PPIs)
 
-Of over 5700 patients enrolled in the risedronate sodium tablets Phase 3 osteoporosis studies, 21% used H2 blockers and/or PPIs.
+Of over 5,700 patients enrolled in the risedronate sodium tablets Phase 3 osteoporosis studies, 21% used H2 blockers and/or PPIs.
 Among these patients, the incidence of upper gastrointestinal adverse experiences in the placebo-treated patients was similar to that in risedronate sodium-treated patients.

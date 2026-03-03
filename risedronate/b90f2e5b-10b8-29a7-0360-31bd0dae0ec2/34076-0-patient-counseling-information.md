@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved patient labeling (Medication Guide)
+See FDA-approved patient labeling (Medication Guide)
 
 Instruct patients to read the Medication Guide before starting therapy with risedronate sodium tablets and to re-read it each time the prescription is renewed.
 
@@ -19,7 +19,7 @@ Instruct patients that if they develop symptoms of esophageal disease (such as d
 
 Instruct patients about missing risedronate sodium tablets doses as follows:
 
-- If a dose of risedronate sodium tablets 35 mg once-a–week is missed, they should take 1 tablet on the morning after they remember and return to taking 1 tablet once-a-week, as originally scheduled on their chosen day.
+- If a dose of risedronate sodium tablets 35 mg once-a-week is missed, they should take 1 tablet on the morning after they remember and return to taking 1 tablet once-a-week, as originally scheduled on their chosen day.
   Patients should not take 2 tablets on the same day.
 - If one or both tablets of risedronate sodium tablets 75 mg on two consecutive days per month are missed, and the next month’s scheduled doses are more than 7 days away, the patient should be instructed as follows:
   - If both tablets are missed, take one risedronate sodium 75 mg tablet in the morning after the day it is remembered and then the other tablet on the next consecutive morning.
@@ -56,8 +56,6 @@ Risedronate Sodium Tablets, USP
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, ON | Weston, Florida |
-| Canada M9L 1T9 | 33326, USA |
+| Canada M9L 1T9 | 33326 |
 
-Revised: January 2020
-
-Revision: 12
+Revision: 13

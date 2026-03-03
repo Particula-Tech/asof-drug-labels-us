@@ -42,7 +42,7 @@ There are no data on the presence of risedronate in human milk, the effects on t
 A small degree of lacteal transfer occurred in nursing rats.
 The concentration of the drug in animal milk does not necessarily predict the concentration of drug in human milk.
 However, when a drug is present in animal milk, it is likely that the drug will be present in human milk.
-The developmental and health benefits of breast-feeding should be considered along with the mother’s clinical need for risedronate sodium and any potential adverse effects on the breast-fed child from risedronate sodium or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for risedronate sodium and any potential adverse effects on the breast-fed child from risedronate sodium or from the underlying maternal condition.
 
 Data
 

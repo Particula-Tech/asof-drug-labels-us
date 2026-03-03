@@ -15,4 +15,4 @@ Inactive Ingredients
 
 All dose strengths contain: anhydrous lactose, crospovidone, hydroxypropyl cellulose, hypromellose, magnesium stearate, polyethylene glycol, silicon dioxide, and titanium dioxide.
 
-Dose strength-specific ingredients include: 35 mg—ferric oxide red, ferric oxide yellow; 75 mg—ferric oxide red; 150 mg -FD&C blue #2, sodium phosphate monobasic monohydrate, sodium phosphate dibasic.
+Dose strength-specific ingredients include: 35 mg-ferric oxide red, ferric oxide yellow; 75 mg-ferric oxide red; 150 mg -FD&C blue #2, sodium phosphate monobasic monohydrate, sodium phosphate dibasic.

@@ -8,7 +8,7 @@ A patient being treated with Atelvia® should not receive risedronate sodium tab
 ## 5.2 Upper Gastrointestinal Adverse Reactions
 
 Risedronate sodium tablets, like other bisphosphonates administered orally, may cause local irritation of the upper gastrointestinal mucosa.
-Because of these possible irritant effects and a potential for worsening of the underlying disease, caution should be used when risedronate sodium is given to patients with active upper gastrointestinal problems (such as known Barrett’s esophagus, dysphagia, other esophageal diseases, gastritis, duodenitis or ulcers) [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17.1)].
+Because of these possible irritant effects and a potential for worsening of the underlying disease, caution should be used when risedronate sodium is given to patients with active upper gastrointestinal problems (such as known Barrett’s esophagus, dysphagia, other esophageal diseases, gastritis, duodenitis or ulcers) [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17)].
 
 Esophageal adverse experiences, such as esophagitis, esophageal ulcers and esophageal erosions, occasionally with bleeding and rarely followed by esophageal stricture or perforation, have been reported in patients receiving treatment with oral bisphosphonates.
 In some cases, these have been severe and required hospitalization.
@@ -25,7 +25,7 @@ There have been post-marketing reports of gastric and duodenal ulcers with oral 
 Hypocalcemia has been reported in patients taking risedronate sodium tablets.
 Treat hypocalcemia and other disturbances of bone and mineral metabolism before starting risedronate sodium tablets therapy.
 Instruct patients to take supplemental calcium and vitamin D if their dietary intake is inadequate.
-Adequate intake of calcium and vitamin D is important in all patients, especially in patients with Paget’s disease in whom bone turnover is significantly elevated [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17.1)].
+Adequate intake of calcium and vitamin D is important in all patients, especially in patients with Paget’s disease in whom bone turnover is significantly elevated [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17)].
 
 ## 5.4 Jaw Osteonecrosis
 
@@ -48,19 +48,22 @@ Most patients had relief of symptoms after stopping medication.
 A subset had recurrence of symptoms when rechallenged with the same drug or another bisphosphonate.
 Consider discontinuing use if severe symptoms develop.
 
-## 5.6 Atypical Subtrochanteric and Diaphyseal Femoral Fractures
+## 5.6 Atypical Fractures Including Femoral Fractures
 
-Atypical, low-energy, or low trauma fractures of the femoral shaft have been reported in bisphosphonate-treated patients.
-These fractures can occur anywhere in the femoral shaft from just below the lesser trochanter to above the supracondylar flare and are traverse or short oblique in orientation without evidence of comminution.
-Causality has not been established as these fractures also occur in osteoporotic patients who have not been treated with bisphosphonates.
+Atypical, low-energy, or low trauma fractures of the femoral shaft have been reported during treatment with bisphosphonates, including risedronate, in patients with osteoporosis.
+Atypical femur and other fractures most commonly occur with minimal or no trauma to the affected area.
+These fractures occurred anywhere in the femoral shaft from just below the lesser trochanter to above the supracondylar flare and are traverse or short oblique in orientation without evidence of comminution.
+Atypical fractures of other bones have also been reported.
+They may be bilateral.
+These fractures can also occur in osteoporotic patients who have not been treated with bisphosphonates.
+Concomitant treatment with glucocorticoids may also induce these fractures.
 
-Atypical femur fractures most commonly occur with minimal or no trauma to the affected area.
-They may be bilateral and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
-A number of reports note that patients were also receiving treatment with glucocorticoids (for example, prednisone) at the time of fracture.
+Prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs was reported by patients.
 
 Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
+Bony pain in other locations should also be considered for evaluation of atypical fracture.
 Patients presenting with an atypical fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
-Interruption of bisphosphonate therapy should be considered, pending a risk/benefit assessment, on an individual basis.
+Risk/benefit of continuing bisphosphonate therapy should be re-evaluated in these patients and interruption of bisphosphonate therapy should be considered.
 
 ## 5.7 Renal Impairment
 

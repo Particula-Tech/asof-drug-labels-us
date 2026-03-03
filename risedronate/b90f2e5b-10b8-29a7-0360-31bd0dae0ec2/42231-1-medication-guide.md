@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Risedronate Sodium Tablets, USP (ris-e-drone-nate soe-dee-um)
+Risedronate Sodium (ris-e-drone-nate soe-dee-um)Tablets, USP
 
 Read the Medication Guide that comes with risedronate sodium tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -15,7 +15,7 @@ Risedronate sodium tablets can cause serious side effects including:
 2. Low calcium levels in your blood (hypocalcemia)
 3. Severe jaw bone problems (osteonecrosis)
 4. Bone, joint, or muscle pain
-5. Unusual thigh bone fractures
+5. Unusual breaks in thigh and other bones
 
 1. Esophagus problems.
    Some people who take risedronate sodium tablets may develop problems in the esophagus (the tube that connects the mouth and the stomach).
@@ -39,9 +39,10 @@ Risedronate sodium tablets can cause serious side effects including:
    It is important for you to practice good mouth care during treatment with risedronate sodium tablets.
 4. Bone, joint, or muscle pain.
    Some people who take risedronate sodium tablets develop severe bone, joint, or muscle pain.
-5. Unusual thigh bone fractures.
-   Some people have developed unusual fractures in their thigh bone.
-   Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
+5. Unusual breaks in thigh and other bones.
+6. Some people have had unusual bone breaks, including the thigh bone, when taking risedronate sodium tablets.
+   A break in the thigh bone can feel like a new pain in your hip, groin, or thigh.
+   People taking risedronate sodium tablets can also have breaks in other bones.
 
 Call your doctor right away if you have any of these side effects.
 
@@ -54,7 +55,7 @@ Risedronate sodium tablets are a prescription medicine used to:
 - Treat or prevent osteoporosis in either men or women who are taking corticosteroid medicines.
 - Treat certain men and women who have Paget's disease of the bone.
 
-It is not known how long risedronate sodium tablets work for the treatment and prevention of osteoporosis.
+It is not known how long risedronate sodium tablets works for the treatment and prevention of osteoporosis.
 You should see your doctor regularly to determine if risedronate sodium tablets are still right for you.
 
 Risedronate sodium tablets are not for use in children.
@@ -90,7 +91,7 @@ Especially tell your doctor if you take:
 - Nonsteroidal Anti-Inflammatory (NSAID) medicines
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
-Certain medicines may affect how risedronate sodium tablets work.
+Certain medicines may affect how risedronate sodium tablets works.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist each time you get a new medicine.
@@ -99,7 +100,7 @@ How should I take risedronate sodium tablets?
 
 - Take risedronate sodium tablets exactly as your doctor tells you.
   Your doctor may change your dose of risedronate sodium tablets if needed.
-- Risedronate sodium tablets work only if taken on an empty stomach.
+- Risedronate sodium tablets works only if taken on an empty stomach.
 - Take 1 risedronate sodium tablet, after you get up for the day and before taking your first food, drink, or other medicine.
 - Take risedronate sodium tablets while you are sitting or standing.
 - Do not chew or suck on a tablet of risedronate sodium.
@@ -173,7 +174,7 @@ Active ingredient: risedronate sodium
 
 Inactive ingredients in all dose strengths: anhydrous lactose, crospovidone, hydroxypropyl cellulose, hypromellose, magnesium stearate, polyethylene glycol, silicon dioxide, titanium dioxide.
 
-Inactive ingredients specific to a dose strength: 35 mg—ferric oxide red, ferric oxide yellow; 75 mg—ferric oxide red; 150 mg—FD&C Blue # 2, sodium phosphate monobasic monohydrate, sodium phosphate dibasic.
+Inactive ingredients specific to a dose strength: 35 mg-ferric oxide red, ferric oxide yellow; 75 mg-ferric oxide red; 150 mg-FD&C Blue # 2, sodium phosphate monobasic monohydrate, sodium phosphate dibasic.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -189,8 +190,8 @@ Risedronate Sodium Tablets, USP
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, ON | Weston, Florida |
-| Canada M9L 1T9 | 33326, USA |
+| Canada M9L 1T9 | 33326 |
 
-Revised: January 2020
+Revised: March 2026
 
-Revision: 12
+Revision: 13
