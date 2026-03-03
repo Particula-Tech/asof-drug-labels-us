@@ -233,10 +233,10 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD., India.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920
+Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8100335 Revised: February 2025
+8107709 Revised: February 2026

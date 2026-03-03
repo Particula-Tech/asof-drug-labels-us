@@ -20,7 +20,7 @@ Signs and symptoms of NMS include hyperpyrexia, muscle rigidity, altered mental 
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Patients should be advised to report to their health care provider at the earliest onset of any signs and symptoms that may be associated with Drug Reaction with Eosinophilia and Systemic symptoms (DRESS) [see Warnings and Precautions (5.4)].
+Patients should be advised to report to their health care provider at the earliest onset of any signs and symptoms that may be associated with drug reaction with eosinophilia and systemic symptoms (DRESS) [see Warnings and Precautions (5.4)].
 
 Hyperglycemia and Diabetes Mellitus
 
@@ -97,10 +97,10 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD.,India.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920
+Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8100334 Revised February 2025
+8107708 Revised: February 2026

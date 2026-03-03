@@ -36,7 +36,7 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 ## 5.4 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported with olanzapine exposure.
+Drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported with olanzapine exposure.
 DRESS may present with a cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, fever, and/or lymphadenopathy with systemic complications such as hepatitis, nephritis, pneumonitis, myocarditis, and/or pericarditis.
 DRESS is sometimes fatal.
 Discontinue olanzapine if DRESS is suspected [see Patient Counseling Information (17)].
@@ -348,9 +348,9 @@ This, in turn, may inhibit reproductive function by impairing gonadal steroidoge
 Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in patients receiving prolactin-elevating compounds.
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
 
-Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
-As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in the olanzapine carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
-Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer
+Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro[see Nonclinical Toxicology (13.1)].
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
+As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in the olanzapine carcinogenicity studies conducted in mice and rats
 
 In placebo-controlled olanzapine clinical studies (up to 12 weeks), changes from normal to high in prolactin concentrations were observed in 30% of adults treated with olanzapine as compared to 10.5% of adults treated with placebo.
 In a pooled analysis from clinical studies including 8,136 adults treated with olanzapine, potentially associated clinical manifestations included menstrual-related events 1 (2% [49/3,240] of females), sexual function-related events 2 (2% [150/8,136] of females and males), and breast-related events 3 (0.7% [23/3,240] of females, 0.2% [9/4,896] of males).
