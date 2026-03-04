@@ -41,7 +41,7 @@ TABLE 3: Adverse Reactions (≥10%) in Patients with Newly Diagnosed Glioblastom
 | Diarrhea | 6 | 0 | 3 | 0 | 10 | 1 |
 | Central and Peripheral Nervous System |  |  |  |  |  |  |
 | Convulsions | 6 | 3 | 7 | 3 | 11 | 3 |
-| NOS = not otherwise specified. Note: Grade 5 (fatal) adverse reactions are included in the Grade ≥3 column. |  |  |  |  |  |  |
+| Note: Grade 5 (fatal) adverse reactions are included in the Grade ≥3 column. |  |  |  |  |  |  |
 
 Clinically relevant adverse reactions in <10% of patients are presented below:
 
