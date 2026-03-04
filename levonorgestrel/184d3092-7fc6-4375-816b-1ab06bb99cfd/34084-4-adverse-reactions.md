@@ -2,8 +2,8 @@
 
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- •Cardiovascular Disorders [see Boxed Warning, Warnings and Precautions (5.1)]
-- •Malignant Neoplasms [see Boxed Warning, Warnings and Precautions (5.2)]
+- Cardiovascular Disorders [see Boxed Warning, Warnings and Precautions (5.1)]
+- Malignant Neoplasms [see Boxed Warning, Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -15,9 +15,9 @@ The data below includes all adverse reactions reported at a frequency of >3% in 
 
 Table 1: All Treatment Emergent Reactions Regardless of Relationship Reported at a Frequency of >3% with Climara Pro in the 1-year Endometrial Hyperplasia Study
 
-| Body System Adverse Reaction | Climara Pro 0.045 / 0.015 | E2 |
-| --- | --- | --- |
 | NN = total number of subjects in a treatment group; n = number of subjects with event. = 212 | N = 204 |  |
+| --- | --- | --- |
+| Body System Adverse Reaction | Climara Pro 0.045 / 0.015 | E2 |
 | Body as a Whole |  |  |
 | Abdominal pain | 9 (4.2) | 11 (5.4) |
 | Accidental injury | 7 (3.3) | 6 (2.9) |
@@ -65,24 +65,22 @@ In controlled clinical trials, withdrawals due to application site reactions occ
 The following adverse reactions have been identified during post-approval use of Climara Pro.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-### Genitourinary System
+Genitourinary System
 
 Changes in bleeding patterns
 
-### Gastrointestinal
+Gastrointestinal
 
-Abdominal distension,* abdominal pain,* nausea
+Abdominal distension,Combined two or more similar ARs abdominal pain, nausea
 
-### Skin
+Skin
 
-Alopecia, night sweats, pruritus,* Rash,* hot flush*
+Alopecia, night sweats, pruritus, Rash, hot flush
 
-### Central Nervous System
+Central Nervous System
 
 Dizziness, headache, insomnia
 
-### Miscellaneous
+Miscellaneous
 
-Application site reaction,* weight increased, anaphylactic reaction
-
-* Combined two or more similar ARs
+Application site reaction, weight increased, anaphylactic reaction

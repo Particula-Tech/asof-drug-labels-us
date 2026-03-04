@@ -22,12 +22,12 @@ Studies to assess the potency of progestins using estrogen-primed postmenopausal
 
 ## 12.2 Pharmacodynamics
 
-Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to Climara nor her risk for adverse outcomes.
+Generally, a serum estrogen concentration does not predict an individual woman's therapeutic response to Climara nor her risk for adverse outcomes.
 Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
 
-### Absorption
+Absorption
 
 Transdermal administration of Climara Pro produces mean maximum estradiol concentrations in serum in about 2 to 2.5 days.
 Estradiol concentrations equivalent to the normal ranges observed at the early follicular phase in premenopausal women are achieved within 12–24 hours after the first application.
@@ -38,9 +38,9 @@ A summary of Climara Pro single and multiple applications estradiol, estrone and
 
 Table 2: Summary of Mean Pharmacokinetic Parameters
 
-| Summary of Mean (± SD) Pharmacokinetic Parameters Following a Single Application of Climara Pro in 24 Healthy Postmenopausal Women |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | Parameter | Units | Estradiol | Estrone | Levonorgestrel |
+| --- | --- | --- | --- | --- |
+| Summary of Mean (± SD) Pharmacokinetic Parameters Following a Single Application of Climara Pro in 24 Healthy Postmenopausal Women |  |  |  |  |
 | Single application Week 1 Data |  |  |  |  |
 | Cave | Pg/mL | 37.7 ± 10.4 | 41 ± 15 | 136 ± 52.7 |
 | Cmax | Pg/mL | 54.3 ± 18.9 | 43.9 ± 14.9 | 138 ± 51.8 |
@@ -54,8 +54,7 @@ Table 2: Summary of Mean Pharmacokinetic Parameters
 | Tmax | Hours | 36 | 48 | 48 |
 | Cmin | Pg/mL | 33.8 ± 28.7 | 72.5 ± 253 | 153 ± 69.6 |
 | AUC | Pg.h/mL | 6002 ± 1919 | 7642 ± 10518 | 27948 ± 16426 |
-
-All mean parameters are arithmetic means except Tmax which is expressed as the median.
+| All mean parameters are arithmetic means except Tmax which is expressed as the median. |  |  |  |  |
 
 At steady state, Climara Pro maintains during the application period an average serum estradiol concentration of 35.7 pg/mL as depicted in Figure 1.
 
@@ -67,22 +66,16 @@ The mean levonorgestrel pharmacokinetic parameters of Climara Pro are summarized
 
 Figure 2: Mean Levonorgestrel Concentration Profile (Week 4) Following Four Consecutive Weekly Applications of Climara Pro
 
-### Adhesion
+Distribution
 
-A study of the adhesion potential of Climara Pro was conducted in 104 healthy women of 45–75 years of age.
-Each woman applied a placebo patch, containing only the Climara Pro adhesive without active ingredient, to the upper outer abdominal areas weekly for three weeks.
-The adhesion assessment was done visually on Days 2, 4, 5, 6 and 7 of each of the three weeks using a four-point scale.
-The mean scores ranked in the highest category possible on the 0 to 4 scale demonstrating clinically acceptable adhesion performance
+The distribution of exogenous estrogens is similar to that of endogenous estrogens.
+Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
+Estrogens circulate in the blood largely bound to SHBG and albumin.
 
-### Excretion
+Levonorgestrel in serum is bound to both SHBG and albumin.
+Following four consecutive weekly applications of Climara Pro mean (± SD) SHBG concentrations declined from a predose value of 47.5 (25.8) to 41.2 (22.4) nmol/L at week 4.
 
-Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
-Following patch removal, serum estradiol concentrations decline with a mean (± SD) terminal half-life of 3± 0.67 hours.
-
-Levonorgestrel and its metabolites are primarily excreted in the urine.
-Mean (± SD) terminal half-life for levonorgestrel was determined to be 28 ± 6.4 hours.
-
-### Metabolism
+Metabolism
 
 Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
 Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions.
@@ -96,11 +89,17 @@ Most of the metabolites that circulate in the blood are sulfates of 3α, 5β-tet
 Some of the parent levonorgestrel also circulates as the 17β-sulfate.
 In-vitro studies on the biotransformation of levonorgestrel in human skin did not indicate any significant metabolism of levonorgestrel during skin penetration.
 
-### Distribution
+Excretion
 
-The distribution of exogenous estrogens is similar to that of endogenous estrogens.
-Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
-Estrogens circulate in the blood largely bound to SHBG and albumin.
+Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
+Following patch removal, serum estradiol concentrations decline with a mean (± SD) terminal half-life of 3± 0.67 hours.
 
-Levonorgestrel in serum is bound to both SHBG and albumin.
-Following four consecutive weekly applications of Climara Pro mean (± SD) SHBG concentrations declined from a predose value of 47.5 (25.8) to 41.2 (22.4) nmol/L at week 4.
+Levonorgestrel and its metabolites are primarily excreted in the urine.
+Mean (± SD) terminal half-life for levonorgestrel was determined to be 28 ± 6.4 hours.
+
+Adhesion
+
+A study of the adhesion potential of Climara Pro was conducted in 104 healthy women of 45–75 years of age.
+Each woman applied a placebo patch, containing only the Climara Pro adhesive without active ingredient, to the upper outer abdominal areas weekly for three weeks.
+The adhesion assessment was done visually on Days 2, 4, 5, 6 and 7 of each of the three weeks using a four-point scale.
+The mean scores ranked in the highest category possible on the 0 to 4 scale demonstrating clinically acceptable adhesion performance.

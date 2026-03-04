@@ -6,7 +6,7 @@ Climara Pro is indicated for:
 
 ## 1.2 Prevention of Postmenopausal Osteoporosis
 
-### Limitation of Use
+Limitation of Use
 
 When prescribing solely for the prevention of postmenopausal osteoporosis, first consider the use of non-estrogen medications.
 Consider estrogen therapy only for women at significant risk of osteoporosis.
