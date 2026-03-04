@@ -22,7 +22,7 @@ Attempt to taper or discontinue Climara at 3 to 6 month intervals.
 ## 2.3 Treatment of Hypoestrogenism due to Hypogonadism, Castration, or Primary Ovarian Failure
 
 Start therapy with 0.025 mg per day applied to the skin once weekly.
-Make dose adjustment based on the clinical response.
+Make dose adjustment based on the clinical response..
 
 ## 2.4 Prevention of Postmenopausal Osteoporosis
 
@@ -30,28 +30,28 @@ Start therapy with Climara 0.025 mg per day applied to the skin once weekly.
 
 ## 2.5 Application of the Climara Transdermal System
 
-### Site Selection
+Site Selection
 
-- •Place the adhesive side of Climara on a clean, dry area of the lower abdomen or the upper quadrant of the buttock.
-- •Do not apply Climara to or near the breasts.
-- •Rotate the sites of application, with an interval of at least 1-week allowed between applications to the same site.
-- •Select an area that is not oily, damaged, or irritated.
+- Place the adhesive side of Climara on a clean, dry area of the lower abdomen or the upper quadrant of the buttock.
+- Do not apply Climara to or near the breasts.
+- Rotate the sites of application, with an interval of at least 1-week allowed between applications to the same site.
+- Select an area that is not oily, damaged, or irritated.
   Avoid the waistline, since tight clothing may rub the transdermal system off.
-- •Avoid application to areas where sitting would dislodge Climara.
+- Avoid application to areas where sitting would dislodge Climara.
 
-### Application
+Application
 
-- •Apply Climara immediately after opening the pouch and removing the protective liner.
-- •Press Climara firmly in place with the fingers for at least 10 seconds, making sure there is good contact, especially around the edges.
-- •If the system lifts, apply pressure to maintain adhesion.
-- •In the event that a system falls off, reapply it to a different location.
+- Apply Climara immediately after opening the pouch and removing the protective liner.
+- Press Climara firmly in place with the fingers for at least 10 seconds, making sure there is good contact, especially around the edges.
+- If the system lifts, apply pressure to maintain adhesion.
+- In the event that a system falls off, reapply it to a different location.
   If the old system cannot be reapplied, apply a new system for the remainder of the 7-day dosing interval.
-- •Wear only one system at any one time during the 7-day dosing interval.
-- •Swimming, bathing, or using a sauna while using Climara has not been studied, and these activities may decrease the adhesion of the system and the delivery of estradiol.
+- Wear only one system at any one time during the 7-day dosing interval.
+- Swimming, bathing, or using a sauna while using Climara has not been studied, and these activities may decrease the adhesion of the system and the delivery of estradiol.
 
 ## 2.6 Removal of the Climara Transdermal System
 
-- •Remove Climara carefully and slowly to avoid irritation of the skin.
-- •If any adhesive remains on the skin after removal of Climara, allow the area to dry for 15 minutes and then gently rub the area with an oil-based cream or lotion to remove the adhesive residue.
-- •Used patches still contain some active hormones.
+- Remove Climara carefully and slowly to avoid irritation of the skin.
+- If any adhesive remains on the skin after removal of Climara, allow the area to dry for 15 minutes and then gently rub the area with an oil-based cream or lotion to remove the adhesive residue.
+- Used patches still contain some active hormones.
   Carefully fold each patch in half so that it sticks to itself before throwing it away.

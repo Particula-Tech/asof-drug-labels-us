@@ -26,8 +26,8 @@ Table 3: Mean Change from Baseline in the Number of Moderate to Severe Vasomotor
 | Treatment Group | Statistics | Week 4 | Week 8 | Week 12 |
 | --- | --- | --- | --- | --- |
 | E2 Transdermal System | N | 82 | 84 | 68 |
-|  | Mean | -6.45 | -7.69 | -7.56 |
-|  | SD | 4.65 | 4.76 | 4.64 |
+| Mean | -6.45 | -7.69 | -7.56 |  |
+| SD | 4.65 | 4.76 | 4.64 |  |
 | Placebo | N | 83 | 71 | 65 |
 | Mean | -5.11 | -5.98 | -5.98 |  |
 | SD | 7.43 | 8.63 | 9.69 |  |
@@ -47,6 +47,8 @@ Figure 3: Mean Percent Change from Baseline in Lumbar Spine (A-P View) Bone Mine
 Percent change in BMD of the total hip (see Figure 4) was also statistically significantly different from placebo for all active treatment groups.
 This figure is based on 74 percent of the randomized women (95 on active drug and 34 on placebo).
 
+Figure 4 Mean Percent Change from Baseline in Total Hip by Treatment and Time Last Observation Carried Forward
+
 ## 14.3 Women's Health Initiative Studies
 
 The WHI enrolled approximately 27,000 predominantly healthy postmenopausal women in two substudies to assess the risks and benefits of daily oral CE (0.625 mg)-alone or in combination with MPA (2.5 mg) compared to placebo in the prevention of certain chronic diseases.
@@ -60,15 +62,16 @@ The WHI estrogen-alone substudy was stopped early because an increased risk of s
 
 Results of the estrogen-alone substudy, which included 10,739 women (average 63 years of age, range 50 to 79: 75.3 percent White, 15.1 percent Black, 6.1 percent Hispanic, 3.6 percent Other) after an average follow-up of 7.1 years, are presented in Table 4.
 
-Table 4: Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHIAdapted from numerous WHI publications.
-WHI publications can be viewed at www.nhlbi.nih.gov/whi
+Table 4.
+Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHIAdapted from numerous WHI publications.
+WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 
-| Event | Relative Risk CE vs. Placebo (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CE n = 5,310 | Placebo n = 5,429 |
-| --- | --- | --- | --- |
 | Absolute Risk per 10,000 Women-years |  |  |  |
-| CHD events | 0.95 (0.78-1.16) | 54 | 57 |
-| Non-fatal MIc | 0.91 (0.73-1.14) | 40 | 43 |
-| CHD deathResults are based on centrally adjudicated data for an average follow-up of 7.1 years. | 1.01 (0.71-1.43) | 16 | 16 |
+| --- | --- | --- | --- |
+| Event | Relative Risk CE vs. Placebo (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CE n = 5,310 | Placebo n = 5,429 |
+| CHD eventsResults are based on centrally adjudicated data for an average follow-up of 7.1 years. | 0.95 (0.78-1.16) | 54 | 57 |
+| Non-fatal MI | 0.91 (0.73-1.14) | 40 | 43 |
+| CHD death | 1.01 (0.71-1.43) | 16 | 16 |
 | All strokes | 1.33 (1.05-1.68) | 45 | 33 |
 | Ischemic stroke | 1.55 (1.19-2.01) | 38 | 25 |
 | Deep vein thrombosis,Not included in "global index". | 1.47 (1.06-2.06) | 23 | 15 |
@@ -99,18 +102,19 @@ The WHI estrogen-alone substudy stratified by age showed in women 50 to 59 years
 
 The WHI estrogen plus progestin substudy was stopped early.
 According to the predefined stopping rule, after an average follow-up of 5.6 years of treatment, the increased risk of invasive breast cancer and cardiovascular events exceeded the specified benefits included in the "global index".
-The absolute excess risk of events included in the “global index” was 19 per 10,000 women-years.
+The absolute excess risk of events included in the "global index" was 19 per 10,000 women-years.
 
-For those outcomes included in the WHI “global index” that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE plus MPA were 7 more CHD events, 8 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reduction per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
+For those outcomes included in the WHI "global index" that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE plus MPA were 7 more CHD events, 8 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reduction per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 
 Results of the CE plus MPA substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.5 percent Black, 5.4 percent Hispanic, 3.9 percent Other), are presented in Table 5.
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
-Table 5: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Years
+Table 5: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Years Adapted from numerous WHI publications.
+WHI publications can be viewed at www.nhlbi.nih.gov/whi., Results are based on centrally adjudicated data.
 
-| Event | Relative Risk CE/MPA vs. placebo (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CE/MPA n = 8,506 | Placebon = 8,102 |
+| Absolute Risk per 10,000 Women-years |  |  |  |
 | --- | --- | --- | --- |
-|  | Absolute Risk per 10,000 Women-years |  |  |
+| Event | Relative Risk CE/MPA vs. placebo (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CE/MPA n = 8,506 | Placebo n = 8,102 |
 | CHD events | 1.23 (0.99-1.53) | 41 | 34 |
 | Non-fatal MI | 1.28 (1.00-1.63) | 31 | 25 |
 | CHD death | 1.10 (0.70-1.75) | 8 | 8 |
@@ -128,7 +132,6 @@ Table 5: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy
 | Total fractures | 0.76 (0.69-0.83) | 152 | 199 |
 | Overall mortalityAll deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease. | 1.00 (0.83-1.19) | 52 | 52 |
 | Global Index A subset of the events was combined in a "global index", defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. | 1.13 (1.02-1.25) | 184 | 165 |
-| Adapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi. Results are based on centrally adjudicated data. |  |  |  |
 
 Timing of initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen plus progestin substudy stratified by age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for overall mortality [HR 0.69 (95 percent CI, 0.44-1.07)].
@@ -139,7 +142,7 @@ The WHIMS estrogen-alone ancillary study of WHI enrolled 2,947 predominantly hea
 
 After an average follow-up of 5.2 years, the relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83-2.66).
 The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years.
-Probable dementia as defined in the study included Alzheimer’s disease (AD), vascular dementia (VaD) and mixed types (having features of both AD and VaD).
+Probable dementia as defined in the study included Alzheimer's disease (AD), vascular dementia (VaD) and mixed types (having features of both AD and VaD).
 The most common classification of probable dementia in the treatment group and the placebo group was AD.
 Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)].
 
@@ -153,4 +156,4 @@ Since the ancillary study was conducted in women 65 to 79 years of age, it is un
 
 When data from the two populations were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
 Differences between groups became apparent in the first year of treatment.
-It is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)]
+It is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)].

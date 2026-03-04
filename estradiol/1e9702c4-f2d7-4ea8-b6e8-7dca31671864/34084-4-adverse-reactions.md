@@ -2,8 +2,8 @@
 
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- •Cardiovascular Disorders [see Boxed Warning, and Warnings and Precautions (5.1)]
-- •Malignant Neoplasms [see Boxed Warning, and Warnings and Precautions (5.2)]
+- Cardiovascular Disorders [see Boxed Warning, and Warnings and Precautions (5.1)]
+- Malignant Neoplasms [see Boxed Warning, and Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -16,50 +16,66 @@ Included in this table are an additional 25 postmenopausal hysterectomized women
 
 Table 1: Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥5 Percent and More Frequent in Women Receiving Climara
 
-|  | Climara |  |  |  |
+| Body System Adverse Reactions | 0.025 mg/dayAdverse reactions occurring at rate of ≥5 percent in Climara trials of clinical efficacy versus placebo and versus active comparator; and trial of Climara versus placebo for the prevention of osteoporosis (N=219) | 0.05 mg/dayAdverse reactions occurring at rate of ≥5 percent in Climara trials of clinical efficacy versus placebo and versus active comparator (N=201) | 0.1 mg/day (N=194) | PlaceboAdverse reactions occurring in placebo group in Climara trial of clinical efficacy versus placebo (N=72) |
 | --- | --- | --- | --- | --- |
-| Body System Adverse Reactions | 0.025 mg/dayAdverse reactions occurring at rate of ≥5 percent in Climara trials of clinical efficacy versus placebo and versus active comparator; and trial of Climara versus placebo for the prevention of osteoporosis (N=219) | 0.05 mg/dayAdverse reactions occurring at rate of ≥5 percent in Climara trials of clinical efficacy versus placebo and versus active comparator (N=201) | 0.1 mg/day (N=194) | PlaceboAdverse reactions occurring in placebo group in Climara trial of clinical efficacy versus placebo. (N=72) |
-| Body as a Whole Headache Pain Back Pain Edema | 21% 5% 1%4%0.5% | 39%18%8%8%13% | 37%13%11%9%10% | 29%10%7%6%6% |
-| Digestive System Abdominal Pain Nausea Flatulence | 9%0%1%1% | 21%11%5%3% | 29%16%6%7% | 18%8%3%1% |
-| Musculoskeletal System Arthralgia | 7%1% | 9%5% | 11%5% | 4%3% |
-| Nervous System Depression | 13%1% | 10%5% | 11%8% | 1%0% |
-| Urogenital System Breast Pain Leukorrhea | 12%5%1% | 18%8%6% | 41%29%7% | 11%4%1% |
-| Respiratory System URTI Pharyngitis Sinusitis Rhinitis | 15%6%0.5%4%2% | 26%17%3%4%4% | 29%17%7%5%6% | 14%8%3%3%1% |
-| Skin and Appendages Pruritus | 19%0.5% | 12%6% | 12%3% | 15%6% |
+|  | Climara |  |  |  |
+| Body as a Whole | 21% | 39% | 37% | 29% |
+| Headache | 5% | 18% | 13% | 10% |
+| Pain | 1% | 8% | 11% | 7% |
+| Back Pain | 4% | 8% | 9% | 6% |
+| Edema | 0.5% | 13% | 10% | 6% |
+| Digestive System | 9% | 21% | 29% | 18% |
+| Abdominal Pain | 0% | 11% | 16% | 8% |
+| Nausea | 1% | 5% | 6% | 3% |
+| Flatulence | 1% | 3% | 7% | 1% |
+| Musculoskeletal System | 7% | 9% | 11% | 4% |
+| Arthralgia | 1% | 5% | 5% | 3% |
+| Nervous System | 13% | 10% | 11% | 1% |
+| Depression | 1% | 5% | 8% | 0% |
+| Urogenital System | 12% | 18% | 41% | 11% |
+| Breast Pain | 5% | 8% | 29% | 4% |
+| Leukorrhea | 1% | 6% | 7% | 1% |
+| Respiratory System | 15% | 26% | 29% | 14% |
+| URTI | 6% | 17% | 17% | 8% |
+| Pharyngitis | 0.5% | 3% | 7% | 3% |
+| Sinusitis | 4% | 4% | 5% | 3% |
+| Rhinitis | 2% | 4% | 6% | 1% |
+| Skin and Appendages | 19% | 12% | 12% | 15% |
+| Pruritus | 0.5% | 6% | 3% | 6% |
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of Climara.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-### Genitourinary System
+Genitourinary System
 
 Changes in bleeding pattern, pelvic pain
 
-### Breast
+Breast
 
 Breast cancer, breast pain, breast tenderness
 
-### Cardiovascular
+Cardiovascular
 
 Changes in blood pressure, palpitations, hot flashes
 
-### Gastrointestinal
+Gastrointestinal
 
 Vomiting, abdominal pain, abdominal distension, nausea
 
-### Skin
+Skin
 
 Alopecia, hyperhidrosis, night sweats, urticaria, rash
 
-### Eyes
+Eyes
 
 Visual disturbances, contact lens intolerance,
 
-### Central Nervous System
+Central Nervous System
 
 Depression, migraine, paresthesia, dizziness, anxiety, irritability, mood swings, nervousness, insomnia, headache
 
-### Miscellaneous
+Miscellaneous
 
 Fatigue, menopausal symptoms, weight increase, application site reaction, anaphylactic reactions

@@ -18,12 +18,12 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 
 ## 12.2 Pharmacodynamics
 
-Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to Climara nor her risk for adverse outcomes.
+Generally, a serum estrogen concentration does not predict an individual woman's therapeutic response to Climara nor her risk for adverse outcomes.
 Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
 
-### Absorption
+Absorption
 
 Transdermal administration of Climara produces mean serum concentrations of estradiol comparable to those produced by premenopausal women in the early follicular phase of the ovulatory cycle.
 The pharmacokinetics of estradiol following application of the Climara transdermal system were investigated in 197 healthy postmenopausal women in six studies.
@@ -35,6 +35,8 @@ This difference is due to the absence of first pass metabolism when estradiol is
 
 In a bioavailability study, the Climara 6.5 cm2 was studied with the Climara 12.5 cm2 as reference.
 The mean estradiol levels in serum from the two sizes are shown in Figure 1.
+
+Figure 1: Mean Serum 17ß -Estradiol Concentrations versus Time Profile following Application of a 6.5 cm2 Transdermal System and Application of a 12.5 cm2 Climara Transdermal System
 
 Dose proportionality was demonstrated for the Climara 6.5 cm2 transdermal system as compared to the Climara 12.5 cm2 transdermal system in a 2-week crossover study with a 1-week washout period between the two-transdermal systems in 24 postmenopausal women.
 
@@ -50,6 +52,8 @@ In a single dose, randomized, crossover study conducted to compare the effect of
 The estradiol serum concentration profiles are shown in Figure 2.
 Values of Cmax and Cavg were, respectively, 25 percent and 17 percent higher with the buttock application than with the abdomen application.
 
+Figure 2: Observed Mean (± SE) Estradiol Serum Concentrations for a One Week Application of the Climara Transdermal System (25 cm2) to the Abdomen and Buttocks of 38 Postmenopausal Women
+
 Table 2 provides a summary of estradiol pharmacokinetic parameters determined during evaluation of the Climara transdermal system.
 
 Table 2: Pharmacokinetic Summary (Mean Estradiol Values)
@@ -64,13 +68,13 @@ Table 2: Pharmacokinetic Summary (Mean Estradiol Values)
 The relative standard deviation of each pharmacokinetic parameter after application to the abdomen averaged 50 percent, which is indicative of the considerable intersubject variability associated with transdermal drug delivery.
 The relative standard deviation of each pharmacokinetic parameter after application to the buttock was lower than that after application to the abdomen (for example, for Cmax 39 percent versus 62 percent, and for Cavg 35 percent versus 48 percent).
 
-### Distribution
+Distribution
 
 The distribution of exogenous estrogens is similar to that of endogenous estrogens.
 Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
 Estrogens circulate in the blood largely bound to SHBG and albumin.
 
-### Metabolism
+Metabolism
 
 Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
 Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions.
@@ -79,11 +83,11 @@ Estradiol is converted reversibly to estrone, and both can be converted to estri
 Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption.
 In postmenopausal women, a significant proportion of the circulating estrogens exist as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 
-### Excretion
+Excretion
 
 Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
 
-### Adhesion
+Adhesion
 
 An open-label study of adhesion potentials of placebo transdermal systems that correspond to the 6.5 cm2 and 12.5 cm2 sizes of Climara was conducted in 112 healthy women of 45 to 75 years of age.
 Each woman applied both transdermal systems weekly, on the upper outer abdomen, for 3 consecutive weeks.
