@@ -22,21 +22,21 @@ Table 3 The Effect of Risedronate Sodium on the Risk of Vertebral Fractures
 | Placebo N = 678 | Risedronate Sodium 5 mg N = 696 | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |  |
 | New and Worsening |  |  |  |  |
 | 0 to 1 Year | 7.2 | 3.9 | 3.3 | 49 |
-| 0 to 2 Years | 12.8 | 8.0 | 4.8 | 42 |
+| 0 to 2 Years | 12.8 | 8 | 4.8 | 42 |
 | 0 to 3 Years | 18.5 | 13.9 | 4.6 | 33 |
 | New |  |  |  |  |
-| 0 to 1 Year | 6.4 | 2.4 | 4.0 | 65 |
+| 0 to 1 Year | 6.4 | 2.4 | 4 | 65 |
 | 0 to 2 Years | 11.7 | 5.8 | 5.9 | 55 |
-| 0 to 3 Years | 16.3 | 11.3 | 5.0 | 41 |
+| 0 to 3 Years | 16.3 | 11.3 | 5 | 41 |
 | VERT MN | Placebo N = 346 | Risedronate Sodium 5 mg N = 344 | Absolute Risk Reduction(%) | Relative Risk Reduction(%) |
 | New and Worsening |  |  |  |  |
 | 0 to 1 Year | 15.3 | 8.2 | 7.1 | 50 |
 | 0 to 2 Years | 28.3 | 13.9 | 14.4 | 56 |
-| 0 to 3 Years | 34.0 | 21.8 | 12.2 | 46 |
+| 0 to 3 Years | 34 | 21.8 | 12.2 | 46 |
 | New |  |  |  |  |
 | 0 to 1 Year | 13.3 | 5.6 | 7.7 | 61 |
 | 0 to 2 Years | 24.7 | 11.6 | 13.1 | 59 |
-| 0 to 3 Years | 29.0 | 18.1 | 10.9 | 49 |
+| 0 to 3 Years | 29 | 18.1 | 10.9 | 49 |
 
 *Calculated by Kaplan-Meier methodology.
 
@@ -54,18 +54,21 @@ In both VERT studies (VERT MN and VERT NA), risedronate sodium 5 mg daily produc
 
 Table 4 Mean Percent Increase in BMD from Baseline in Patients Taking Risedronate Sodium 5 mg or Placebo at Endpointa
 
-|  | VERT MN |  | VERT NA |  | BMD MNThe duration of the studies was 1.5 to 2 years. |  | BMD NA |  |
+|  | VERT MNb |  | VERT NAb |  | BMD MNc |  | BMD NAc |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo N = 323 | 5 mg N = 323 | Placebo N = 599 | 5 mg N = 606 | Placebo N = 161 | 5 mg N = 148 | Placebo N = 191 | 5 mg N = 193 |
-| Lumbar Spine | 1.0 | 6.6 | 0.8 | 5.0 | 0.0 | 4.0 | 0.2 | 4.8 |
-| Femoral Neck | -1.4 | 1.6 | -1.0 | 1.4 | -1.1 | 1.3 | 0.1 | 2.4 |
-| Femoral Trochanter | -1.9 | 3.9 | -0.5 | 3.0 | -0.6 | 2.5 | 1.3 | 4.0 |
-| Midshaft Radius | -1.5BMD of the midshaft radius was measured in a subset of centers in VERT MN (placebo, N = 222; 5 mg, N = 214) and VERT NA (placebo, N = 310; 5 mg, N = 306) | 0.2 | -1.2 | 0.1 | ND |  | ND |  |
+|  | PlaceboN = 323 | 5 mgN = 323 | PlaceboN = 599 | 5 mgN = 606 | PlaceboN = 161 | 5 mgN = 148 | PlaceboN = 191 | 5 mgN = 193 |
+| Lumbar Spine | 1 | 6.6 | 0.8 | 5 | 0 | 4 | 0.2 | 4.8 |
+| Femoral Neck | -1.4 | 1.6 | -1 | 1.4 | -1.1 | 1.3 | 0.1 | 2.4 |
+| Femoral Trochanter | -1.9 | 3.9 | -0.5 | 3 | -0.6 | 2.5 | 1.3 | 4 |
+| Midshaft Radius | -1.5* | 0.2* | -1.2* | 0.1* | ND |  | ND |  |
 
+a The endpoint value is the value at the study's last time point for all patients who had BMD measured at that time; otherwise the last post-baseline BMD value prior to the study's last time point is used.
+
+b The duration of the studies was 3 years. c The duration of the studies was 1.5 to 2 years. * BMD of the midshaft radius was measured in a subset of centers in VERT MN (placebo, N = 222; 5 mg, N = 214) and VERT NA (placebo, N = 310; 5 mg, N = 306).
 ND = analysis not done
 
 Risedronate sodium 35 mg once-a-week (N = 485) was shown to be non-inferior to risedronate sodium 5 mg daily (N = 480) in a 1-year, double-blind, multicenter study of postmenopausal women with osteoporosis.
-In the primary efficacy analysis of completers, the mean increases from baseline in lumbar spine BMD at 1 year were 4.0% (3.7, 4.3; 95% confidence interval [CI]) in the 5 mg daily group (N = 391) and 3.9% (3.6, 4.3; 95% CI) in the 35 mg once-a-week group (N = 387) and the mean difference between 5 mg daily and 35 mg once-a-week was 0.1% (-0.4, 0.6; 95% CI).
+In the primary efficacy analysis of completers, the mean increases from baseline in lumbar spine BMD at 1 year were 4% (3.7, 4.3; 95% confidence interval [CI]) in the 5 mg daily group (N = 391) and 3.9% (3.6, 4.3; 95% CI) in the 35 mg once-a-week group (N = 387) and the mean difference between 5 mg daily and 35 mg once-a-week was 0.1% (-0.4, 0.6; 95% CI).
 The results of the intent-to-treat analysis with the last observation carried forward were consistent with the primary efficacy analysis of completers.
 The 2 treatment groups were also similar with regard to BMD increases at other skeletal sites.
 
@@ -75,7 +78,7 @@ The results of the intent-to-treat analysis with the last observation carried fo
 The 2 treatment groups were also similar with regard to BMD increases at other skeletal sites.
 Risedronate sodium 150 mg once-a-month (N = 650) was shown to be non-inferior to risedronate sodium 5 mg daily (N = 642) in a 1-year, double-blind, multicenter study of postmenopausal women with osteoporosis.
 The primary efficacy analysis was conducted in all randomized patients with baseline and post-baseline lumbar spine BMD values (modified intent-to-treat population) using last observation carried forward.
-The mean increases from baseline in lumbar spine BMD at 1 year were 3.4% (3.0, 3.8; 95% CI) in the 5 mg daily group (N = 561), and 3.5% (3.1, 3.9; 95% CI) in the 150 mg once-a-month group (N = 578) with a mean difference between groups being -0.1% (-0.5, 0.3; 95% CI).
+The mean increases from baseline in lumbar spine BMD at 1 year were 3.4% (3, 3.8; 95% CI) in the 5 mg daily group (N = 561), and 3.5% (3.1, 3.9; 95% CI) in the 150 mg once-a-month group (N = 578) with a mean difference between groups being -0.1% (-0.5, 0.3; 95% CI).
 The results of the completers analysis were consistent with the primary efficacy analysis.
 The 2 treatment groups were also similar with regard to BMD increases at other skeletal sites.
 Histology/Histomorphometry Bone biopsies from 110 postmenopausal women were obtained at endpoint.
@@ -211,7 +214,7 @@ Table 6 Mean Percent Reduction from Baseline at Day 180 in Total Serum Alkaline 
 | --- | --- | --- | --- | --- | --- | --- |
 | Subgroup: Baseline Disease Severity (AP) | n | Baseline Serum AP (U/L) | Mean % Reduction | n | Baseline Serum AP (U/L)Values shown are mean± SEM; ULN = upper limit of normal. | Mean % Reduction |
 | greater than 2, less than 3x ULN | 32 | 271.6± 5.3 | -88.1 | 22 | 277.9± 7.45 | -44.6 |
-| greater than or equal to 3, less than 7x ULN | 14 | 475.3± 28.8 | -87.5 | 25 | 480.5± 26.44 | -35.0 |
+| greater than or equal to 3, less than 7x ULN | 14 | 475.3± 28.8 | -87.5 | 25 | 480.5± 26.44 | -35 |
 | greater than or equal to 7x ULN | 8 | 1336.5± 134.19 | -81.8 | 6 | 1331.5± 167.58 | -47.2 |
 
 Response to risedronate sodium therapy was similar between patients who had previously received anti-pagetic therapy and those who had not.

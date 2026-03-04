@@ -1,5 +1,17 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse drug reactions are described elsewhere in the labeling:
+
+- Drug Products with the Same Active Ingredient [see Warnings and Precautions (5.1)]
+- Upper Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.2)]
+- Mineral Metabolism [see Warnings and Precautions (5.3)]
+- Jaw Osteonecrosis [see Warnings and Precautions (5.4)]
+- Musculoskeletal Pain [see Warnings and Precautions (5.5)]
+- Atypical Fractures Including Femoral Fractures [see Warnings and Precautions (5.6)]
+- Renal Impairment [see Warnings and Precautions (5.7)]
+- Glucocorticoid-Induced Osteoporosis [see Warnings and Precautions (5.8)]
+- Laboratory Test Interactions [see Warnings and Precautions (5.9)]
+
 ## 6.1 Clinical Studies Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -13,7 +25,7 @@ The duration of the trials was up to three years, with 1,619 patients exposed to
 Patients with preexisting gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs, proton pump inhibitors, and H2 antagonists were included in these clinical trials.
 All women received 1,000 mg of elemental calcium plus vitamin D supplementation up to 500 international units per day if their 25-hydroxyvitamin D3 level was below normal at baseline.
 
-The incidence of all-cause mortality was 2.0% in the placebo group and 1.7% in the risedronate sodium 5 mg daily group.
+The incidence of all-cause mortality was 2% in the placebo group and 1.7% in the risedronate sodium 5 mg daily group.
 The incidence of serious adverse events was 24.6% in the placebo group and 27.2% in the risedronate sodium 5 mg group.
 The percentage of patients who withdrew from the study due to adverse events was 15.6% in the placebo group and 14.8% in the risedronate sodium 5 mg group.
 The most common adverse reactions reported in greater than 10 percent of subjects were: back pain, arthralgia, abdominal pain and dyspepsia.
@@ -27,21 +39,21 @@ Table 1 Adverse Events Occurring at a Frequency greater than or equal to 5% in E
 | % | % |  |
 | Body as a Whole |  |  |
 | Infection | 29.9 | 31.1 |
-| Back Pain | 26.1 | 28.0 |
+| Back Pain | 26.1 | 28 |
 | Accidental Injury | 16.8 | 16.9 |
-| Pain | 14.0 | 14.1 |
+| Pain | 14 | 14.1 |
 | Abdominal Pain | 9.9 | 12.2 |
 | Flu Syndrome | 11.6 | 10.5 |
 | Headache | 10.8 | 9.9 |
 | Asthenia | 4.5 | 5.4 |
 | Neck Pain | 4.7 | 5.4 |
-| Chest Pain | 5.1 | 5.0 |
+| Chest Pain | 5.1 | 5 |
 | Allergic Reaction | 5.9 | 3.8 |
 | Cardiovascular System |  |  |
 | Hypertension | 9.8 | 10.5 |
 | Digestive System |  |  |
 | Constipation | 12.6 | 12.9 |
-| Diarrhea | 10.0 | 10.8 |
+| Diarrhea | 10 | 10.8 |
 | Dyspepsia | 10.6 | 10.8 |
 | Nausea | 11.2 | 10.5 |
 | Metabolic & Nutritional Disorders |  |  |
@@ -50,18 +62,18 @@ Table 1 Adverse Events Occurring at a Frequency greater than or equal to 5% in E
 | Arthralgia | 22.1 | 23.7 |
 | Arthritis | 10.1 | 9.6 |
 | Traumatic Bone Fracture | 12.3 | 9.3 |
-| Joint Disorder | 5.3 | 7.0 |
+| Joint Disorder | 5.3 | 7 |
 | Myalgia | 6.2 | 6.7 |
 | Bone Pain | 4.8 | 5.3 |
 | Nervous System |  |  |
 | Dizziness | 5.7 | 7.1 |
 | Depression | 6.1 | 6.8 |
-| Insomnia | 4.6 | 5.0 |
+| Insomnia | 4.6 | 5 |
 | Respiratory System |  |  |
-| Bronchitis | 10.4 | 10.0 |
+| Bronchitis | 10.4 | 10 |
 | Sinusitis | 9.1 | 8.7 |
 | Rhinitis | 5.1 | 6.2 |
-| Pharyngitis | 5.0 | 6.0 |
+| Pharyngitis | 5 | 6 |
 | Increased Cough | 6.3 | 5.9 |
 | Skin and Appendages |  |  |
 | Rash | 7.1 | 7.9 |
@@ -72,19 +84,25 @@ Table 1 Adverse Events Occurring at a Frequency greater than or equal to 5% in E
 
 Gastrointestinal Adverse Events:
 
-The incidence of adverse events in the placebo and risedronate sodium 5 mg daily groups were: abdominal pain (9.9% versus 12.2%), diarrhea (10.0% versus 10.8%), dyspepsia (10.6% versus 10.8%), and gastritis (2.3% versus 2.7%).
+The incidence of adverse events in the placebo and risedronate sodium 5 mg daily groups were: abdominal pain (9.9% versus 12.2%), diarrhea (10% versus 10.8%), dyspepsia (10.6% versus 10.8%), and gastritis (2.3% versus 2.7%).
 Duodenitis and glossitis have been reported uncommonly in the risedronate sodium 5 mg daily group (0.1% to 1%).
 In patients with active upper gastrointestinal disease at baseline, the incidence of upper gastrointestinal adverse events was similar between the placebo and risedronate sodium 5 mg daily groups.
 
-Musculoskeletal Adverse Events: The incidence of adverse events in the placebo and risedronate sodium 5 mg daily groups were: back pain (26.1% versus 28.0%), arthralgia (22.1% versus 23.7%), myalgia (6.2% versus 6.7%), and bone pain (4.8% versus 5.3%).
+Musculoskeletal Adverse Events:
 
-Laboratory Test Findings: Throughout the Phase 3 studies, transient decreases from baseline in serum calcium (less than 1%) and serum phosphate (less than 3%) and compensatory increases in serum PTH levels (less than 30%) were observed within 6 months in patients in osteoporosis clinical trials treated with risedronate sodium 5 mg once daily.
+The incidence of adverse events in the placebo and risedronate sodium 5 mg daily groups were: back pain (26.1% versus 28%), arthralgia (22.1% versus 23.7%), myalgia (6.2% versus 6.7%), and bone pain (4.8% versus 5.3%).
+
+Laboratory Test Findings:
+
+Throughout the Phase 3 studies, transient decreases from baseline in serum calcium (less than 1%) and serum phosphate (less than 3%) and compensatory increases in serum PTH levels (less than 30%) were observed within 6 months in patients in osteoporosis clinical trials treated with risedronate sodium 5 mg once daily.
 There were no significant differences in serum calcium, phosphate, or PTH levels between placebo and risedronate sodium 5 mg once daily at 3 years.
 Serum calcium levels below 8 mg/dL were observed in 18 patients, 9 (0.5%) in each treatment arm (placebo and risedronate sodium 5 mg once daily).
 Serum phosphorus levels below 2 mg/dL were observed in 14 patients, 3 (0.2%) treated with placebo and 11 (0.6%) treated with risedronate sodium 5 mg once daily.
 There have been rare reports (less than 0.1%) of abnormal liver function tests.
 
-Endoscopic Findings: In the risedronate sodium clinical trials, endoscopic evaluation was encouraged in any patient with moderate-to-severe gastrointestinal complaints, while maintaining the blind.
+Endoscopic Findings:
+
+In the risedronate sodium clinical trials, endoscopic evaluation was encouraged in any patient with moderate-to-severe gastrointestinal complaints, while maintaining the blind.
 Endoscopies were performed on equal numbers of patients between the placebo and treated groups [75 (14.5%) placebo; 75 (11.9%) risedronate sodium].
 Clinically important findings (perforations, ulcers, or bleeding) among this symptomatic population were similar between groups (51% placebo; 39% risedronate sodium).
 
@@ -100,12 +118,18 @@ The incidence of serious adverse events was 7.1% in the risedronate sodium 5 mg 
 The percentage of patients who withdrew from the study due to adverse events was 11.9% in the risedronate sodium 5 mg daily group and 11.5% in the risedronate sodium 35 mg once-a-week group.
 The overall safety and tolerability profiles of the two dosing regimens were similar.
 
-Gastrointestinal Adverse Events: The incidence of gastrointestinal adverse events was similar between the risedronate sodium 5 mg daily group and the risedronate sodium 35 mg once-a-week group: dyspepsia (6.9% versus 7.6%), diarrhea (6.3% versus 4.9%), and abdominal pain (7.3% versus 7.6%).
+Gastrointestinal Adverse Events:
 
-Musculoskeletal Adverse Events: Arthralgia was reported in 11.5% of patients in the risedronate sodium 5 mg daily group and 14.2% of patients in the risedronate sodium 35 mg once-a-week group.
+The incidence of gastrointestinal adverse events was similar between the risedronate sodium 5 mg daily group and the risedronate sodium 35 mg once-a-week group: dyspepsia (6.9% versus 7.6%), diarrhea (6.3% versus 4.9%), and abdominal pain (7.3% versus 7.6%).
+
+Musculoskeletal Adverse Events:
+
+Arthralgia was reported in 11.5% of patients in the risedronate sodium 5 mg daily group and 14.2% of patients in the risedronate sodium 35 mg once-a-week group.
 Myalgia was reported by 4.6% of patients in the risedronate sodium 5 mg daily group and 6.2% of patients in the risedronate sodium 35 mg once-a-week group.
 
-Laboratory Test Findings: The mean percent changes from baseline at 12 months were similar between the risedronate sodium 5 mg daily and risedronate sodium 35 mg once-a-week groups, respectively, for serum calcium (0.4% versus 0.7%), phosphate (-3.8% versus -2.6%) and PTH (6.4% versus 4.2%).
+Laboratory Test Findings:
+
+The mean percent changes from baseline at 12 months were similar between the risedronate sodium 5 mg daily and risedronate sodium 35 mg once-a-week groups, respectively, for serum calcium (0.4% versus 0.7%), phosphate (-3.8% versus -2.6%) and PTH (6.4% versus 4.2%).
 
 Monthly Dosing
 
@@ -116,23 +140,31 @@ The duration of the trial was two years; 613 patients were exposed to risedronat
 Patients with preexisting gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs, proton pump inhibitors, and H2 antagonists were included in this clinical trial.
 All women received 1,000 mg of elemental calcium plus 400 to 800 international units of vitamin D supplementation per day.
 
-The incidence of all-cause mortality was 1.0% for the risedronate sodium 5 mg daily group and 0.5% for the risedronate sodium 75 mg two consecutive days per month group.
+The incidence of all-cause mortality was 1% for the risedronate sodium 5 mg daily group and 0.5% for the risedronate sodium 75 mg two consecutive days per month group.
 The incidence of serious adverse events was 10.8% in the risedronate sodium 5 mg daily group and 14.4% in the risedronate sodium 75 mg two consecutive days per month group.
-The percentage of patients who withdrew from treatment due to adverse events was 14.2% in the risedronate sodium 5 mg daily group and 13.0% in the risedronate sodium 75 mg two consecutive days per month group.
+The percentage of patients who withdrew from treatment due to adverse events was 14.2% in the risedronate sodium 5 mg daily group and 13% in the risedronate sodium 75 mg two consecutive days per month group.
 The overall safety and tolerability profiles of the two dosing regimens were similar.
 
-Acute Phase Reactions: Symptoms consistent with acute phase reaction have been reported with bisphosphonate use.
+Acute Phase Reactions:
+
+Symptoms consistent with acute phase reaction have been reported with bisphosphonate use.
 The overall incidence of acute phase reaction was 3.6% of patients on risedronate sodium 5 mg daily and 7.6% of patients on risedronate sodium 75 mg two consecutive days per month.
 These incidence rates are based on reporting of any of 33 acute phase reaction-like symptoms within 5 days of the first dose.
 Fever or influenza-like illness with onset within the same period were reported by 0% of patients on risedronate sodium 5 mg daily and 0.6% of patients on risedronate sodium 75 mg two consecutive days per month.
 
-Gastrointestinal Adverse Events: The risedronate sodium 75 mg two consecutive days per month group resulted in a higher incidence of discontinuation due to vomiting (1.0% versus 0.2%) and diarrhea (1.0% versus 0.3%) compared to the risedronate sodium 5 mg daily group.
+Gastrointestinal Adverse Events:
+
+The risedronate sodium 75 mg two consecutive days per month group resulted in a higher incidence of discontinuation due to vomiting (1% versus 0.2%) and diarrhea (1% versus 0.3%) compared to the risedronate sodium 5 mg daily group.
 Most of these events occurred within a few days of dosing.
 
-Ocular Adverse Events: None of the patients treated with risedronate sodium 75 mg two consecutive days per month reported ocular inflammation such as uveitis, scleritis, or iritis; 1 patient treated with risedronate sodium 5 mg daily reported uveitis.
+Ocular Adverse Events:
 
-Laboratory Test Findings: When risedronate sodium 5 mg daily and risedronate sodium 75 mg two consecutive days per month were compared in postmenopausal women with osteoporosis, the mean percent changes from baseline at 24 months were 0.2% and 0.8% for serum calcium, -1.9% and -1.3% for phosphate, and -10.4% and -17.2% for PTH, respectively.
-Compared to the risedronate sodium 5 mg daily group, risedronate sodium 75 mg two consecutive days per month resulted in a slightly higher incidence of hypocalcemia at the end of the first month of treatment (4.5% versus 3.0%).
+None of the patients treated with risedronate sodium 75 mg two consecutive days per month reported ocular inflammation such as uveitis, scleritis, or iritis; 1 patient treated with risedronate sodium 5 mg daily reported uveitis.
+
+Laboratory Test Findings:
+
+When risedronate sodium 5 mg daily and risedronate sodium 75 mg two consecutive days per month were compared in postmenopausal women with osteoporosis, the mean percent changes from baseline at 24 months were 0.2% and 0.8% for serum calcium, -1.9% and -1.3% for phosphate, and -10.4% and -17.2% for PTH, respectively.
+Compared to the risedronate sodium 5 mg daily group, risedronate sodium 75 mg two consecutive days per month resulted in a slightly higher incidence of hypocalcemia at the end of the first month of treatment (4.5% versus 3%).
 Thereafter, the incidence of hypocalcemia with these regimens was similar at approximately 2%.
 
 Once-a-Month
@@ -147,19 +179,25 @@ The incidence of serious adverse events was 4.2% in the risedronate sodium 5 mg 
 The percentage of patients who withdrew from treatment due to adverse events was 9.5% in the risedronate sodium 5 mg daily group and 8.6% in the risedronate sodium 150 mg once-a-month group.
 The overall safety and tolerability profiles of the two dosing regimens were similar.
 
-Acute Phase Reactions: Symptoms consistent with acute phase reaction have been reported with bisphosphonate use.
+Acute Phase Reactions:
+
+Symptoms consistent with acute phase reaction have been reported with bisphosphonate use.
 The overall incidence of acute phase reaction was 1.1% in the risedronate sodium 5 mg daily group and 5.2% in the risedronate sodium 150 mg once-a-month group.
 These incidence rates are based on reporting of any of 33 acute phase reaction-like symptoms within 3 days of the first dose and for a duration of 7 days or less.
 Fever or influenza-like illness with onset within the same period were reported by 0.2% of patients on risedronate sodium 5 mg daily and 1.4% of patients on risedronate sodium 150 mg once-a-month.
 
-Gastrointestinal Adverse Events: A greater percentage of patients experienced diarrhea with risedronate sodium 150 mg once-a-month compared to 5 mg daily (8.2% versus 4.7%, respectively).
+Gastrointestinal Adverse Events:
+
+A greater percentage of patients experienced diarrhea with risedronate sodium 150 mg once-a-month compared to 5 mg daily (8.2% versus 4.7%, respectively).
 The risedronate sodium 150 mg once-a-month group resulted in a higher incidence of discontinuation due to abdominal pain upper (2.5% versus 1.4%) and diarrhea (0.8% versus 0%) compared to the risedronate sodium 5 mg daily regimen.
 All of these events occurred within a few days of the first dose.
 The incidence of vomiting that led to discontinuation was the same in both groups (0.3% versus 0.3%).
 
 Ocular Adverse Events: None of the patients treated with risedronate sodium 150 mg once-a-month reported ocular inflammation such as uveitis, scleritis, or iritis; 2 patients treated with risedronate sodium 5 mg daily reported iritis.
 
-Laboratory Test Findings: When risedronate sodium 5 mg daily and risedronate sodium 150 mg once-a-month were compared in postmenopausal women with osteoporosis, the mean percent changes from baseline at 12 months were 0.1% and 0.3% for serum calcium, -2.3% and -2.3% for phosphate, and 8.3% and 4.8% for PTH, respectively.
+Laboratory Test Findings:
+
+When risedronate sodium 5 mg daily and risedronate sodium 150 mg once-a-month were compared in postmenopausal women with osteoporosis, the mean percent changes from baseline at 12 months were 0.1% and 0.3% for serum calcium, -2.3% and -2.3% for phosphate, and 8.3% and 4.8% for PTH, respectively.
 Compared to the risedronate sodium 5 mg daily regimen, risedronate sodium 150 mg once-a-month resulted in a slightly higher incidence of hypocalcemia at the end of the first month of treatment (0.2% versus 2.2%).
 Thereafter, the incidence of hypocalcemia with these regimens was similar at approximately 2%.
 
@@ -234,20 +272,25 @@ Table 2 Adverse Events Reported in greater than or equal to 5% of Risedronate So
 | Musculoskeletal |  |  |
 | Arthralgia | 32.8 | 29.5 |
 | Nervous |  |  |
-| Headache | 18.0 | 16.4 |
+| Headache | 18 | 16.4 |
 | Dizziness | 6.6 | 4.9 |
 | Skin and Appendages |  |  |
 | Rash | 11.5 | 8.2 |
 
-Gastrointestinal Adverse Events: During the first year of the study (treatment and nontreatment follow-up), the proportion of patients who reported upper gastrointestinal adverse events was similar between the treatment groups; no patients reported severe upper gastrointestinal adverse events.
+Gastrointestinal Adverse Events:
+
+During the first year of the study (treatment and nontreatment follow-up), the proportion of patients who reported upper gastrointestinal adverse events was similar between the treatment groups; no patients reported severe upper gastrointestinal adverse events.
 The incidence of diarrhea was 19.7% in the risedronate sodium group and 14.8% in the etidronate disodium group; none were serious or resulted in withdrawal.
 
-Ocular Adverse Events: Three patients who received risedronate sodium 30 mg daily experienced acute iritis in 1 supportive study.
+Ocular Adverse Events:
+
+Three patients who received risedronate sodium 30 mg daily experienced acute iritis in 1 supportive study.
 All 3 patients recovered from their events; however, in 1 of these patients, the event recurred during risedronate sodium treatment and again during treatment with pamidronate.
 All patients were effectively treated with topical steroids.
 
 ## 6.2 Postmarketing Experience
 
+The following adverse reactions have been identified during post-approval use of risedronate sodium or bisphosphonate products.
 Because these adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hypersensitivity Reactions
@@ -258,9 +301,9 @@ Gastrointestinal Adverse Events
 
 Events involving upper gastrointestinal irritation, such as esophagitis and esophageal or gastric ulcers, have been reported [see Warnings and Precautions (5.1)].
 
-Musculoskeletal Pain
+Musculoskeletal
 
-Bone, joint, or muscle pain, described as severe or incapacitating, have been reported rarely [see Warnings and Precautions (5.4)].
+Bone, joint, or muscle pain, described as severe or incapacitating, have been reported rarely [see Warnings and Precautions (5.4)]; low-energy femoral shaft and subtrochanteric fractures, and atypical fractures of other bones, [see Warnings and Precautions (5.6)].
 
 Eye Inflammation
 

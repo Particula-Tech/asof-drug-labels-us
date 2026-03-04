@@ -76,24 +76,38 @@ In osteopenic postmenopausal women, the terminal exponential half-life was 561 h
 
 Specific Populations
 
-Pediatric: Risedronate sodium is not indicated for use in pediatric patients [see Pediatric Use (8.4)].
+Pediatric:
 
-Gender: Bioavailability and pharmacokinetics following oral administration are similar in men and women.
+Risedronate sodium is not indicated for use in pediatric patients [see Pediatric Use (8.4)].
 
-Geriatric: Bioavailability and disposition are similar in elderly (greater than 60 years of age) and younger subjects.
+Gender:
+
+Bioavailability and pharmacokinetics following oral administration are similar in men and women.
+
+Geriatric:
+
+Bioavailability and disposition are similar in elderly (greater than 60 years of age) and younger subjects.
 No dosage adjustment is necessary.
 
-Race: Pharmacokinetic differences due to race have not been studied.
+Race:
 
-Renal Impairment: Risedronate is excreted unchanged primarily via the kidney.
+Pharmacokinetic differences due to race have not been studied.
+
+Renal Impairment:
+
+Risedronate is excreted unchanged primarily via the kidney.
 As compared to persons with normal renal function, the renal clearance of risedronate was decreased by about 70% in patients with creatinine clearance of approximately 30 mL/min.
 Risedronate sodium is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min) because of lack of clinical experience.
 No dosage adjustment is necessary in patients with a creatinine clearance greater than or equal to 30 mL/min.
 
-Hepatic Impairment: No studies have been performed to assess risedronate's safety or efficacy in patients with hepatic impairment.
+Hepatic Impairment:
+
+No studies have been performed to assess risedronate's safety or efficacy in patients with hepatic impairment.
 Risedronate is not metabolized in rat, dog, and human liver preparations.
 Insignificant amounts (less than 0.1% of intravenous dose) of drug are excreted in the bile in rats.
 Therefore, dosage adjustment is unlikely to be needed in patients with hepatic impairment.
 
-Drug Interactions: No specific drug-drug interaction studies were performed.
+Drug Interactions:
+
+No specific drug-drug interaction studies were performed.
 Risedronate is not metabolized and does not induce or inhibit hepatic microsomal drug-metabolizing enzymes (Cytochrome P450) [see Drug Interactions (7)].

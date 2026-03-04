@@ -41,4 +41,10 @@ Remind patients to give all of their healthcare providers an accurate medication
 Instruct patients to tell all of their healthcare providers that they are taking risedronate sodium tablets.
 Patients should be instructed that any time they have a medical problem they think may be from risedronate sodium tablets, they should talk to their doctor.
 
-Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products
+Distributed by:
+
+Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
+
+Manufactured by: Sun Pharmaceutical Industries Limited Survey No. 1012, Dadra-396 193, U.T. of D & NH and Daman & Diu, India.
+
+5269850 Revised: 02/2026
