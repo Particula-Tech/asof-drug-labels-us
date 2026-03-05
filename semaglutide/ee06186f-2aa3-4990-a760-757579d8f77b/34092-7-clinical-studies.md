@@ -213,7 +213,7 @@ Missing data were imputed from retrieved subjects of the same randomized treatme
 
 For Study 5, the primary efficacy parameter was mean percent change in body weight from randomization (Week 20) to Week 68.
 
-From randomization (week 20) to Week 68, treatment with WEGOVY injection resulted in a statistically significant reduction in body weight compared with placebo (Table 8).
+From randomization (Week 20) to Week 68, treatment with WEGOVY injection resulted in a statistically significant reduction in body weight compared with placebo (Table 8).
 Because patients who discontinued WEGOVY injection during titration and those who did not reach the 2.4 mg weekly dose were not eligible for the randomized-treatment period, the results may not reflect the experience of patients in the general population who are first starting WEGOVY injection.
 
 Table 8.
@@ -339,7 +339,7 @@ Observed values for patients completing each scheduled visit, and estimates with
 Figure 7.
 Change from Baseline (%) in Body Weight (Study 4 on Left and Study 5a on Right) with WEGOVY Injection
 
-Observed values for patients completing each scheduled visit, and estimates with multiple imputations from retrieved dropouts (RD-MI).
+Observed values for patients completing each scheduled visit and estimates with multiple imputations from retrieved dropouts (RD-MI).
 
 a Change from Week 0 was not a primary endpoint in Study 5.
 Dotted line indicates time of randomization.
@@ -371,15 +371,15 @@ Changes in Anthropometry and Cardiometabolic Parameters at Week 68 in Studies 2,
 | HDL (mg/dL)2,4 Baseline Percent Change from baseline (LSMean1) Relative difference from placebo (LSMean) | 49.51.4 | 49.45.23.8 | 43.84.1 | 44.76.92.7 | 50.95 | 51.66.51.5 |
 | Triglycerides (mg/dL)2,4 Baseline Percent Change from baseline (LSMean1) Relative difference from placebo (LSMean) | 127.9-7.3 | 126.2-21.9-15.8 | 159.5-9.4 | 154.9-22-13.9 | 110.9-6.5 | 107.9-22.5-17 |
 
-Missing data were imputed from retrieved subjects of the same randomized treatment arm (RD-MI)
+Missing data were imputed from retrieved subjects of the same randomized treatment arm (RD-MI).
 
-1 Model based estimates based on an analysis of covariance model including treatment (and stratification factors for Study 3 only) as a factor and baseline value as a covariate
+1 Model based estimates based on an analysis of covariance model including treatment (and stratification factors for Study 3 only) as a factor and baseline value as a covariate.
 
-2 Not included in the pre-specified hierarchical testing (except HbA1c for Study 3)
+2 Not included in the pre-specified hierarchical testing (except HbA1c for Study 3).
 
-3 Model based estimates based on a mixed model for repeated measures including treatment (and stratification factors for Study 3 only) as a factor and baseline values as a covariate
+3 Model based estimates based on a mixed model for repeated measures including treatment (and stratification factors for Study 3 only) as a factor and baseline values as a covariate.
 
-4 Baseline value is the geometric mean
+4 Baseline value is the geometric mean.
 
 Table 12.
 Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 5 (Obesity or Overweight with Comorbidity After 20-week Run-in)1 with WEGOVY Injection
@@ -505,7 +505,7 @@ LSMean = least squares mean; CI = confidence interval
 
 a The intention-to-treat population includes all randomized patients.
 Missing data were imputed using available data according to value and timing of last available observation on treatment and endpoint’s baseline value from retrieved subjects (RD-MI).
-At week 68, the BMI was missing for 2.2% and 7.5% of patients randomized to WEGOVY injection and placebo, respectively.
+At Week 68, the BMI was missing for 2.2% and 7.5% of patients randomized to WEGOVY injection and placebo, respectively.
 
 b Parameters not included in the pre-specified hierarchical testing.
 

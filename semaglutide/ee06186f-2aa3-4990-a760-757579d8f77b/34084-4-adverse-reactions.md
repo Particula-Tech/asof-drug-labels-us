@@ -6,13 +6,12 @@ The following serious adverse reactions are described below or elsewhere in the 
 - •Acute Pancreatitis [see Warnings and Precautions (5.2)]
 - •Acute Gallbladder Disease [see Warnings and Precautions (5.3)]
 - •Hypoglycemia [see Warnings and Precautions (5.4)]
-- •Acute Kidney Injury due to Volume Depletion [see Warnings and Precautions (5.5)]
+- •Acute Kidney Injury Due to Volume Depletion [see Warnings and Precautions (5.5)]
 - •Severe Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.6)]
 - •Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
 - •Diabetic Retinopathy Complications in Patients with Type 2 Diabetes [see Warnings and Precautions (5.8)]
 - •Heart Rate Increase [see Warnings and Precautions (5.9)]
-- •Suicidal Behavior and Ideation [see Warnings and Precautions (5.10)]
-- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.11)]
+- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 

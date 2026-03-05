@@ -99,14 +99,7 @@ Monitor heart rate at regular intervals consistent with usual clinical practice.
 Instruct patients to inform their healthcare providers of palpitations or feelings of a racing heartbeat while at rest during WEGOVY treatment.
 If patients experience a sustained increase in resting heart rate, discontinue WEGOVY.
 
-## 5.10 Suicidal Behavior and Ideation
-
-Suicidal behavior and ideation have been reported in clinical trials with other weight management products.
-Monitor patients treated with WEGOVY for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
-Discontinue WEGOVY in patients who experience suicidal thoughts or behaviors.
-Avoid WEGOVY in patients with a history of suicidal attempts or active suicidal ideation.
-
-## 5.11 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+## 5.10 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
 WEGOVY delays gastric emptying [see Clinical Pharmacology (12.2)].
 There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.

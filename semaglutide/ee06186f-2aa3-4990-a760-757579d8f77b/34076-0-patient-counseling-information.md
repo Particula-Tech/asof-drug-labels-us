@@ -23,7 +23,7 @@ Hypoglycemia
 Inform patients of the risk of hypoglycemia and educate patients on the signs and symptoms of hypoglycemia.
 Advise patients with diabetes mellitus on glycemic lowering therapy that they may have an increased risk of hypoglycemia when using WEGOVY and to report signs and/or symptoms of hypoglycemia to their healthcare provider [see Warnings and Precautions (5.4)].
 
-Acute Kidney Injury Due to Volume Depletion
+Acute Kidney Injury due to Volume Depletion
 
 Inform patients of the potential risk of acute kidney injury due to dehydration associated with gastrointestinal adverse reactions.
 Advise patients to take precautions to avoid fluid depletion.
@@ -47,15 +47,10 @@ Heart Rate Increase
 
 Instruct patients to inform their healthcare providers of palpitations or feelings of a racing heartbeat while at rest during WEGOVY treatment [see Warnings and Precautions (5.9)].
 
-Suicidal Behavior and Ideation
-
-Advise patients to report emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
-Inform patients that if they experience suicidal thoughts or behaviors, they should stop taking WEGOVY [see Warnings and Precautions (5.10)].
-
 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
 Inform patients that WEGOVY may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
-Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking WEGOVY [see Warnings and Precautions (5.11)].
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking WEGOVY [see Warnings and Precautions (5.10)].
 
 Pregnancy
 
@@ -91,4 +86,4 @@ WEGOVY® is a registered trademark of Novo Nordisk A/S.
 
 Patent Information: http://www.novonordisk-us.com/products/product-patents.html
 
-© 2025 Novo Nordisk
+© 2026 Novo Nordisk

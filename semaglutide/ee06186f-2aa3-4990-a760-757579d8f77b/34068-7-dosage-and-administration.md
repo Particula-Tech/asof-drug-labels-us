@@ -110,5 +110,4 @@ Switching from WEGOVY Tablets to WEGOVY Injection
 - •Patients may switch from WEGOVY 25 mg tablets to WEGOVY injection.
 - •The day after discontinuing WEGOVY tablets 25 mg once daily, initiate WEGOVY 2.4 mg subcutaneous injection once weekly.
   For patients who do not tolerate WEGOVY 25 mg tablets, consider switching to WEGOVY 1.7 mg injection.
-- •If additional weight reduction is needed in patients with type 2 diabetes mellitus treated with WEGOVY 25 mg tablets, consider switching to WEGOVY 1.7 mg injection and follow the recommended dosage escalation for WEGOVY injection.
-  [see Dosage and Administration (2.2), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+- •If additional weight reduction is needed in patients with type 2 diabetes mellitus treated with WEGOVY 25 mg tablets, consider switching to WEGOVY 1.7 mg injection and follow the recommended dosage escalation for WEGOVY injection [see Dosage and Administration (2.2), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
