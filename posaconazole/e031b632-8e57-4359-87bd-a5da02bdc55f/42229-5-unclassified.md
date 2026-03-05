@@ -6,6 +6,6 @@ Oral Suspension: Manuf. by: Patheon Inc., Whitby, Ontario, Canada L1N5Z5
 
 The trademarks referenced herein are owned by their respective companies.
 
-uspi-gmk5592-mf-2411r008
+uspi-gmk5592-mf-2601r009
 
 OS1016-01-78-05

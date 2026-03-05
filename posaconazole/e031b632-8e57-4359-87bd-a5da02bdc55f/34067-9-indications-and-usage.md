@@ -2,7 +2,7 @@
 
 ## 1.1 Treatment of Invasive Aspergillosis
 
-Posaconazole delayed-release tablets are indicated for the treatment of invasive aspergillosis in adults and pediatric patients 13 years of age and older.
+Posaconazole delayed-release tablets are indicated for the treatment of invasive aspergillosis in adults and pediatric patients 2 years of age and older who weigh greater than 40 kg.
 
 ## 1.2 Prophylaxis of Invasive Aspergillus and Candida Infections
 

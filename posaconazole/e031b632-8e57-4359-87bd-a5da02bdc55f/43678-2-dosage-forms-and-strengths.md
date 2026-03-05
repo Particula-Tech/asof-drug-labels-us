@@ -2,8 +2,8 @@
 
 Posaconazole Delayed-Release Tablets
 
-Posaconazole delayed-release tablets are available as yellow, coated, oblong tablets, debossed with "100" on one side containing 100 mg of posaconazole.
+100 mg of posaconazole: Yellow, coated, oblong tablets, debossed with "100" on one side.
 
 Posaconazole Oral Suspension
 
-Posaconazole oral suspension is available as a white, cherry-flavored suspension in 4-ounce (123 mL) amber glass bottles with child-resistant closures containing 105 mL of suspension (40 mg of posaconazole per mL).
+4,200 mg/105 mL (40 mg/mL) of posaconazole: White, cherry-flavored suspension in amber glass bottles with child-resistant closures.
