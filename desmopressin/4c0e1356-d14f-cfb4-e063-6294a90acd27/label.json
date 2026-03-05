@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA219873"
+  ],
+  "inn": "desmopressin",
+  "labeler": "Eton Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "71863-123-14"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "desmopressin acetate oral solution",
+      "name": "DESMODA"
+    }
+  ],
+  "setid": "4c0e1356-d14f-cfb4-e063-6294a90acd27",
+  "source": "dailymed"
+}
