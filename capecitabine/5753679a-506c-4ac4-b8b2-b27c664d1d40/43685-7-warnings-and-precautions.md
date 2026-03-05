@@ -1,6 +1,23 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Increased Risk of Bleeding with Concomitant Use of Vitamin K Antagonists
+## 5.1 Serious Adverse Reactions or Death from Dihydropyrimidine Dehydrogenase (DPD) Deficiency
+
+Patients with certain homozygous or compound heterozygous variants in the DPYD gene known to result in complete or near complete absence of DPD activity (complete DPD deficiency) are at increased risk for acute early-onset toxicity and serious, including fatal, adverse reactions due to capecitabine (e.g., mucositis, diarrhea, neutropenia, and neurotoxicity).
+Patients with partial DPD activity (partial DPD deficiency) may also have increased risk of serious, or fatal, adverse reactions.
+
+Prior to initiating capecitabine, test patients for genetic variants of the DPYD gene unless immediate treatment is necessary [see Clinical Pharmacology (12.5)].
+Serious adverse reactions may still occur even if no DPYD variants are identified.
+
+Avoid use of capecitabine in patients with certain homozygous or compound heterozygous DPYD variants that result in complete DPD deficiency.
+
+Withhold or permanently discontinue capecitabine based on clinical assessment of the onset, duration, and severity of adverse reactions in patients with evidence of acute early-onset or unusually severe reactions.
+No capecitabine dose has been proven safe for patients with complete DPD deficiency.
+For patients with partial DPD deficiency, individualize the dosage and modify based on tolerability and intent of treatment.
+
+An FDA-authorized test for the detection of genetic variants of the DPYD gene to identify patients at risk of serious adverse reactions with capecitabine treatment is not currently available.
+Currently available tests used to identify DPYD variants may vary in accuracy and design (e.g., which DPYD variant(s) they identify).
+
+## 5.2 Increased Risk of Bleeding with Concomitant Use of Vitamin K Antagonists
 
 Altered coagulation parameters and/or bleeding, including death, have been reported in patients taking capecitabine concomitantly with vitamin K antagonists, such as warfarin.
 
@@ -9,23 +26,6 @@ These events occurred within several days and up to several months after initiat
 These events occurred in patients with and without liver metastases.
 
 Monitor INR more frequently and adjust the dose of the vitamin K antagonist as appropriate [see Drug Interactions (7.1)].
-
-## 5.2 Serious Adverse Reactions from Dihydropyrimidine Dehydrogenase (DPD) Deficiency
-
-Patients with certain homozygous or compound heterozygous variants in the DPYD gene known to result in complete or near complete absence of DPD activity (complete DPD deficiency) are at increased risk for acute early-onset toxicity and serious, including fatal, adverse reactions due to capecitabine (e.g., mucositis, diarrhea, neutropenia, and neurotoxicity).
-Patients with partial DPD activity (partial DPD deficiency) may also have increased risk of serious, including fatal, adverse reactions.
-
-Capecitabine is not recommended for use in patients known to have certain homozygous or compound heterozygous DPYD variants that result in complete DPD deficiency.
-
-Withhold or permanently discontinue capecitabine based on clinical assessment of the onset, duration, and severity of the observed adverse reactions in patients with evidence of acute early-onset or unusually severe reactions, which may indicate complete DPD deficiency.
-No capecitabine dose has been proven safe for patients with complete DPD deficiency.
-There are insufficient data to recommend a specific dose in patients with partial DPD deficiency.
-
-Consider testing for genetic variants of DPYD prior to initiating capecitabine to reduce the risk of serious adverse reactions if the patient’s clinical status permits and based on clinical judgement [see Clinical Pharmacology (12.5)].
-Serious adverse reactions may still occur even if no DPYD variants are identified.
-
-An FDA-authorized test for the detection of genetic variants of DPYD to identify patients at risk of serious adverse reactions due to increased systemic exposure to capecitabine is not currently available.
-Currently available tests used to identify DPYD variants may vary in accuracy and design (e.g., which DPYD variant(s) they identify).
 
 ## 5.3 Cardiotoxicity
 

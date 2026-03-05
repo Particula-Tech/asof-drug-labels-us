@@ -1,17 +1,17 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Serious Adverse Reactions or Death from Dihydropyrimidine Dehydrogenase (DPD) Deficiency
+
+Prior to initiating capecitabine tablets treatment, inform patients of the potential for serious or fatal adverse reactions due to DPD deficiency and testing for genetic variants of DPYD.
+Advise patients to immediately contact their healthcare provider if symptoms of severe mucositis, diarrhea, neutropenia, and neurotoxicity occur [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.5)].
+
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Increased Risk of Bleeding with Concomitant Use of Vitamin K Antagonists
 
 Advise patients on vitamin K antagonists, such as warfarin, that they are at an increased risk of severe bleeding while taking capecitabine tablets.
 Advise these patients that INR should be monitored more frequently, and dosage modifications of the vitamin K antagonist may be required, while taking and after discontinuation of capecitabine tablets.
-Advise these patients to immediately contact their healthcare provider if signs or symptoms of bleeding occur [see Warnings and Precautions (5.1)].
-
-Serious Adverse Reactions from Dihydropyrimidine Dehydrogenase (DPD) Deficiency
-
-Inform patients of the potential for serious and life-threatening adverse reactions due to DPD deficiency and discuss with your patient whether they should be tested for genetic variants of DPYD that are associated with an increased risk of serious adverse reactions from the use of capecitabine tablets.
-Advise patients to immediately contact their healthcare provider if symptoms of severe mucositis, diarrhea, neutropenia, and neurotoxicity occur [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.5)].
+Advise these patients to immediately contact their healthcare provider if signs or symptoms of bleeding occur [see Warnings and Precautions (5.2)].
 
 Cardiotoxicity
 
@@ -92,8 +92,6 @@ Drug interactions
 Instruct patients not to take products containing folic acid or folate analog products (e.g., leucovorin, levoleucovorin) unless directed to do so by their healthcare provider.
 Advise patients to inform their healthcare provider of all prescription or nonprescription medications, vitamins or herbal products [see Drug Interactions (7.1, 7.2, 7.3)].
 
-Dispense with Patient Package Insert available at: www.tevausa.com/PatientPI
-
 Manufactured In Czech Republic By:
 
 Teva Czech Industries s.r.o.
@@ -102,4 +100,4 @@ Opava-Komarov, Czech Republic
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-K 3/2024
+L 12/2025

@@ -155,7 +155,7 @@ The efficacy of capecitabine for the treatment of patients with unresectable or 
 
 ## 14.2 Metastatic Breast Cancer
 
-In Combination with Docetaxel
+In Combination With Docetaxel
 
 The efficacy of capecitabine in combination with docetaxel was evaluated in an open-label, multicenter, randomized trial (Study SO14999).
 Eligible patients had metastatic breast cancer resistant to, or recurring during or after an anthracycline-containing therapy, or relapsing during or recurring within 2 years of completing an anthracycline-containing adjuvant therapy were enrolled.
