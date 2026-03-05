@@ -5,10 +5,12 @@ It is designed to deliver sustained circulating concentrations of estradiol when
 The gel is applied to a small area (200 cm2) of the thigh in a thin layer.
 Divigel is available in five doses of 0.25, 0.5, 0.75, 1.0, and 1.25 grams for topical application (corresponding to 0.25, 0.5, 0.75, 1.0, and 1.25 mg estradiol, respectively).
 
-The active component of the topical gel is estradiol.
+The active component of the topical gel is estradiol, an estrogen.
 
 Estradiol is a white crystalline powder, chemically described as estra-1,3,5(10)-triene-3,17ß-diol.
 It has an empirical formula of C18H24O2 and molecular weight of 272.39.
 The structural formula is:
 
 The remaining components of the gel (carbomer, ethanol, propylene glycol, purified water, and triethanolamine) are pharmacologically inactive.
+
+Divigel contains 56% alcohol.

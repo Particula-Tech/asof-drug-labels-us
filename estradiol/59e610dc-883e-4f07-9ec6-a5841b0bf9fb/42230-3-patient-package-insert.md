@@ -8,7 +8,7 @@ Read this Patient Information leaflet before you start using Divigel and each ti
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-| WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT Divigel (AN ESTROGEN HORMONE)? Using estrogen-alone increases your chance of getting cancer of the uterus (womb).Report any unusual vaginal bleeding right away while you are using Divigel. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia (decline of brain function)Using estrogen-alone may increase your chances of getting strokes or blood clotsUsing estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age and olderDo not use estrogens with progestogens to prevent heart disease, heart attacks, strokes or dementiaUsing estrogens with progestogens may increase your chances of getting heart attacks, strokes, breast cancer, or blood clotsUsing estrogens with progestogens may increase your chance of getting dementia, based on a study of women 65 years of age or olderOnly one estrogen-alone product and dose have been shown to increase your chances of getting strokes, blood clots, and dementia. Only one estrogen with progestogen product and dose have been shown to increase your chances of getting heart attacks, strokes, breast cancer, blood clots, and dementia. Because other products and doses have not been studied in the same way, it is not known how the use of Divigel will affect your chances of these conditions. You and your healthcare provider should talk regularly about whether you still need treatment with Divigel. |
+| WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT Divigel (AN ESTROGEN HORMONE)? Using estrogen-alone increases your chance of getting cancer of the uterus (womb).Report any unusual vaginal bleeding right away while you are using Divigel. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia (decline of brain function)Using estrogen-alone may increase your chances of getting strokes or blood clotsOnly one estrogen-alone product and dose have been shown to increase your chances of getting strokes, blood clots, and dementia. Because other products and doses have not been studied in the same way, it is not known how the use of Divigel will affect your chances of these conditions. You and your healthcare provider should talk regularly about whether you still need treatment with Divigel. |
 | --- |
 
 What is Divigel?
@@ -174,14 +174,13 @@ The most common side effects of Divigel include:
 These are not all the possible side effects of Divigel.
 For more information, ask your healthcare provider or pharmacist for advice about side effects.
 Tell your healthcare provider if you have any side effects that bother you or do not go away.
-You may report side effects to FDA at 1-800-FDA-1088 or Vertical Pharmaceuticals, LLC at 1-800-444-5164.
+You may report side effects to FDA at 1-800-FDA-1088 or Vertical Pharmaceuticals, LLC at 1-800-541-4802.
 
 What can I do to lower my chances of a serious side effect with Divigel?
 
 - Talk with your healthcare provider regularly about whether you should continue using Divigel.
 - If you have a uterus, talk to your healthcare provider about whether the addition of a progestogen is right for you.
-- In general, the addition of a progestogen is recommended for a woman with a uterus to reduce the chance of getting cancer of the uterus (womb).
-  See your healthcare provider right away if you get vaginal bleeding while using Divigel.
+- See your healthcare provider right away if you get vaginal bleeding while using Divigel.
 - Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
 - If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
 - If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances of getting heart disease.
@@ -211,22 +210,24 @@ Active ingredient: estradiol.
 
 Inactive ingredients: carbomer, ethanol, propylene glycol, purified water, and triethanolamine.
 
+Contains: 56% alcohol.
+
 How is Divigel Supplied?
 
 Divigel is supplied in individual foil packets, each one containing a single day's dose.
 
 Manufactured by: Orion Corporation Orion Pharma Tengströminkatu 8 FI-20360 Turku Finland
 
-Distributed by: VERTICAL PHARMACEUTICALS, LLC Alpharetta, GA 30005 USA
+Manufactured for: VERTICAL PHARMACEUTICALS, LLC Alpharetta, GA 30005 USA
 
-1-800-444-5164
+1-800-541-4802
 
 www.verticalpharma.com
 
 Product of Finland
 
-© 2023 Vertical Pharmaceuticals, LLC
+© 2026 Vertical Pharmaceuticals, LLC
 
-151083-12 Revised 11/2023
+151083-14 Revised 02/2026
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

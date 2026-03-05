@@ -1,14 +1,17 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Generally, when estrogen is prescribed for a postmenopausal woman with a uterus, consider addition of a progestogen to reduce the risk of endometrial cancer.
+## 2.1 Important Use Information
 
-Generally, a woman without a uterus, does not need a progestogen in addition to her estrogen therapy.
-In some cases, however, hysterectomized women who have a history of endometriosis may need a progestogen [see Warnings and Precautions (5.2, 5.14)].
+The timing of Divigel initiation can affect the overall benefit-risk profile.
+Consider initiating Divigel in women <60 years old or <10 years since menopause onset [see Warnings and Precautions (5), Use in Specific Populations (8.5) and Clinical Studies (14)].
+When estrogen is prescribed for a menopausal woman with a uterus, the addition of a progestogen has been shown to reduce the risk of endometrial cancer.
+There are possible risks associated with the use of progestogens plus estrogens that differ from those of estrogen-alone regimens.
+See prescribing information for progestogens indicated for the prevention of endometrial hyperplasia in non-hysterectomized menopausal women receiving estrogens [see Warnings and Precautions (5.2, 5.3)].
 
-Use estrogen-alone, or in combination with a progestogen, at the lowest effective dose and for the shortest duration consistent with treatment goals and risks for the individual woman.
-Reevaluate postmenopausal women periodically as clinically appropriate to determine whether treatment is still necessary.
+Generally, a woman without a uterus, does not need to use a progestogen with estrogen therapy.
+In some cases, however, hysterectomized women with a history of endometriosis may benefit from the addition of a progestogen [see Warnings and Precautions (5.13)].
 
-## 2.1 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause
+## 2.2 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause
 
 Start therapy with the 0.25 grams applied once daily on the skin of either the right or left upper thigh.
 Adjust the dose up to a maximum of 1.25 grams, as needed.
