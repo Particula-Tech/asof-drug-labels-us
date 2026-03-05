@@ -1,16 +1,16 @@
 # ADVERSE REACTIONS
 
-See BOXED WARNING, WARNINGS and PRECAUTIONS.
+See WARNINGS and PRECAUTIONS.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of progesterone capsules on the endometrium was studied in a total of 875 postmenopausal women.
-Table 6 lists adverse reactions greater than or equal to 2 percent of women who received cyclic progesterone capsules 200 mg daily (12 days per calendar month cycle) with 0.625 mg conjugated estrogens or placebo.
+Table 7 lists adverse reactions greater than or equal to 2 percent of women who received cyclic progesterone capsules 200 mg daily (12 days per calendar month cycle) with 0.625 mg conjugated estrogens or placebo.
 
-TABLE 6.
+TABLE 7.
 Adverse Reactions (≥ 2%) Reported in an 875 Patient Placebo-Controlled Trial in Postmenopausal Women Over a 3-Year Period [Percentage (%) of Patients Reporting]
 
-|  | ProgesteroneCapsules 200 mg with Conjugated Estrogens 0.625 mg | Placebo |
+|  | Progesterone Capsules 200 mg with Conjugated Estrogens 0.625 mg | Placebo |
 | --- | --- | --- |
 | (n=178) | (n=174) |  |
 | Headache | 31 | 27 |
@@ -39,12 +39,12 @@ Adverse Reactions (≥ 2%) Reported in an 875 Patient Placebo-Controlled Trial i
 Effects on Secondary Amenorrhea
 
 In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of progesterone capsules on secondary amenorrhea was studied in 49 estrogen-primed postmenopausal women.
-Table 7 lists adverse reactions greater than or equal to 5 percent of women who received progesterone capsules or placebo.
+Table 8 lists adverse reactions greater than or equal to 5 percent of women who received progesterone capsules or placebo.
 
-TABLE 7.
+TABLE 8.
 Adverse Reactions (≥ 5%) Reported in Patients Using 400 mg/day in a Placebo-Controlled Trial in Estrogen-Primed Postmenopausal Women
 
-| Adverse Experience | ProgesteroneCapsules 400 mg | Placebo |
+| Adverse Experience | Progesterone Capsules 400 mg | Placebo |
 | --- | --- | --- |
 | n=25 | n=24 |  |
 | Percentage (%) of Patients |  |  |
