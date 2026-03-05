@@ -1,5 +1,3 @@
-# MEDICATION GUIDE
-
 MEDICATION GUIDE
 
 Trazodone hydrochloride tablets, USP, for oral use
@@ -203,8 +201,8 @@ Torrent Pharmaceuticals LTD., India.
 
 Manufactured for:
 
-Torrent Pharma INC., Basking Ridge, NJ 07920
+Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8101636 Revised: July 2025
+8106145 Revised: February 2026
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
