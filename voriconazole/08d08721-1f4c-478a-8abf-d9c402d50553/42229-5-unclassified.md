@@ -3,4 +3,4 @@ PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., u
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0667-19.0
+LAB-0667-20.0

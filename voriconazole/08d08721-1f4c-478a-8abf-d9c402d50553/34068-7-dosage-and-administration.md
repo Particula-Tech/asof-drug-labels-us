@@ -45,7 +45,7 @@ Patients should be treated for a minimum of 14 days and for at least 7 days foll
 
 Table 1: Recommended Dosing Regimen (Adults)
 
-| Infection | Loading Dose | Maintenance DoseIncrease dose when VFEND is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.5),In healthy volunteer studies, the 200 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 3 mg/kg intravenous infusion every 12 hours dose; the 300 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 4 mg/kg intravenous infusion every 12 hours dose (12). |  |  |
+| Infection | Loading Dose | Maintenance DoseIncrease dose when VFEND is coadministered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.5),In healthy volunteer studies, the 200 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 3 mg/kg intravenous infusion every 12 hours dose; the 300 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 4 mg/kg intravenous infusion every 12 hours dose (12). |  |  |
 | --- | --- | --- | --- | --- |
 |  | Intravenous infusion | Intravenous infusion | Oral tabletsAdult patients who weigh less than 40 kg should receive half of the oral maintenance dose. | Oral suspension |
 | Invasive AspergillosisIn a clinical study of IA, the median duration of intravenous VFEND therapy was 10 days (range 2 to 85 days). The median duration of oral VFEND therapy was 76 days (range 2 to 232 days) (14.1). | 6 mg/kg every 12 hours for the first 24 hours | 4 mg/kg every 12 hours | 200 mg every 12 hours | 5 mL every 12 hours |
@@ -135,9 +135,9 @@ Pediatric Patients
 
 Dosage adjustment of VFEND in pediatric patients with renal impairment has not been established [see Use in Specific Populations (8.4)].
 
-## 2.7 Dosage Adjustment When Co-Administered With Phenytoin or Efavirenz
+## 2.7 Dosage Adjustment When Coadministered With Phenytoin or Efavirenz
 
-The maintenance dose of voriconazole should be increased when co-administered with phenytoin or efavirenz.
+The maintenance dose of voriconazole should be increased when coadministered with phenytoin or efavirenz.
 Use the optimal method for titrating dosage [see Drug Interactions (7) and Dosage and Administration (2.3)].
 
 ## 2.8 Preparation and Intravenous Administration of VFEND for Injection
