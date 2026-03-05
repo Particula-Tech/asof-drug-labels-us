@@ -20,7 +20,7 @@ Adverse reactions occurring with an incidence of at least 5% in either treatment
 
 Table 1 - Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment, or within 14 days of the end of treatment in the ATAC trialThe combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.
 
-| Body system and adverse reactions by COSTART preferred termCOSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.A patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. | ARIMIDEX 1 mg (NN=Number of patients receiving the treatment. = 3092) | Tamoxifen 20 mg (N = 3094) |
+| Body system and adverse reactions by COSTART preferred termCOSTART Coding Symbols for Thesaurus of Adverse Reaction Terms. A patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. | ARIMIDEX 1 mg (NN=Number of patients receiving the treatment. = 3092) | Tamoxifen 20 mg (N = 3094) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Asthenia | 575 (19) | 544 (18) |

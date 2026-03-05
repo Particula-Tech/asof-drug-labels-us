@@ -150,7 +150,7 @@ It may harm them.
 
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about ARIMIDEX that is written for health professionals.
-For more information call 1-800-308-6755 or go to www.ARIMIDEX.com.
+For more information call 1-855-204-1431 or go to www.ARIMIDEX.com.
 
 What are the ingredients in ARIMIDEX?
 
@@ -160,7 +160,7 @@ Inactive ingredients: lactose, magnesium stearate, hypromellose, polyethylene gl
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: December 2018
+Revised: December 2025
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
