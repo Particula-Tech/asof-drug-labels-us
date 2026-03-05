@@ -3,7 +3,7 @@
 ## 7.1 Drugs Known to Affect the Occurrence of Skin Rash and Hypersensitivity
 
 Concomitant use of the following drugs may increase the risk of skin rash, which may be severe: bendamustine, thiazide diuretics, ampicillin and amoxicillin.
-Renal impairment may further increase risk with concomitant use of thiazide diuretics [see Warnings and Precautions (5.1, 5.2)and Clinical Pharmacology (12.2)].
+Renal impairment may further increase risk with concomitant use of thiazide diuretics [see Warnings and Precautions (5.1, 5.2) and Clinical Pharmacology (12.2)].
 
 Monitor kidney function and reduce the dose of allopurinol tablets in patients with concomitant thiazide diuretic use and impaired renal function [see Dosage and Administration (2.6), Warnings and Precautions (5.1)].
 
@@ -27,7 +27,7 @@ Table 3: Interventions for Clinically Important Drug Interactions with Allopurin
 | Clinical Impact | Concomitant use of allopurinol with cyclophosphamide and other cytotoxic agents (doxorubicin, bleomycin, procarbazine, mechlorethamine) increases bone marrow suppression among patients with neoplastic disease, except leukemia. |
 | Intervention | Blood count monitoring and regular physician follow-up are recommended. |
 | Dicumarol |  |
-| Clinical Impact | Allopurinol tablets prolong the half-life of the anticoagulant, dicumarol. The mechanism of this drug interaction has not been established but should be noted when allopurinol tablets are given to patients already on dicumarol therapy. |
+| Clinical Impact | Allopurinol tablets prolongs the half-life of the anticoagulant, dicumarol. The mechanism of this drug interaction has not been established but should be noted when allopurinol tablets are given to patients already on dicumarol therapy. |
 | Intervention | Monitor prothrombin time. Adjust the dosage of dicumarol accordingly when allopurinol tablets are added to anticoagulant therapy. |
 | Fluorouracil |  |
 | Clinical Impact | Based on non-clinical data, allopurinol may decrease anti-tumor activity due to suppression of phosphorylation of 5-fluorouracil. |

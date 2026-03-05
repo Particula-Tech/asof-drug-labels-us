@@ -10,7 +10,7 @@ Skin Rash and Hypersensitivity
 Inform patients that allopurinol tablets may increase the risk of serious and sometimes fatal dermatologic reactions.
 Instruct patients to discontinue allopurinol tablets and to seek medical attention immediately, at the first sign of a skin rash, blisters, fever, painful urination, blood in the urine, irritation of the eyes, swelling of the lips or mouth, or other signs and symptoms of hypersensitivity reactions [see Warnings and Precautions (5.1)].
 
-Gout Flares During Treatment With Allopurinol Tablets
+Gout Flares During Treatment with Allopurinol Tablets
 
 Inform patients that gout flares may occur during initiation of treatment with allopurinol tablets, even when their serum uric acid is normal.
 Concurrent use of additional medications such as colchicine or other anti-inflammatory agents can prevent gout flares.
@@ -52,13 +52,9 @@ Advise women not to breastfeed during treatment with allopurinol tablets and for
 
 Manufactured by:
 
-ALKALOIDA Chemical Company Zrt.
+Frontida Biopharm, LLC.
 
-4440 Tiszavasvári,
-
-Kabay János u. 29.
-
-Hungary
+Philadelphia, PA 19124.
 
 Distributed by:
 

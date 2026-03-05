@@ -11,12 +11,12 @@ Allopurinol is metabolized to the corresponding xanthine analogue, oxypurinol (a
 
 ## 12.2 Pharmacodynamics
 
-Allopurinol reduces the production of uric acid by inhibiting the biochemical reactions immediately preceding its formation in a dose dependent manner.
+Allopurinol tablets reduces the production of uric acid by inhibiting the biochemical reactions immediately preceding its formation in a dose dependent manner.
 The pharmacological action of allopurinol is generally believed to be mediated by its oxypurinol metabolite.
 
 ### Effect on Hypoxanthine and Xanthine
 
-Reutilization of both hypoxanthine and xanthine for nucleotide and nucleic acid synthesis is markedly enhanced when their oxidations are inhibited by allopurinol and oxipurinol.
+Reutilization of both hypoxanthine and xanthine for nucleotide and nucleic acid synthesis is markedly enhanced when their oxidations are inhibited by allopurinol tablets and oxipurinol.
 This reutilization does not disrupt normal nucleic acid anabolism, however, because feedback inhibition is an integral part of purine biosynthesis.
 As a result of xanthine oxidase inhibition, the serum concentration of hypoxanthine plus xanthine in patients receiving allopurinol tablets for treatment of hyperuricemia is usually in the range of 0.3 mg/dL to 0.4 mg/dL compared to a normal level of approximately 0.15 mg/dL.
 A maximum of 0.9 mg/dL of these oxypurines has been reported when the serum urate was lowered to less than 2 mg/dL by high doses of allopurinol tablets.
@@ -45,7 +45,7 @@ Reports that the concomitant administration of allopurinol and thiazide diuretic
 
 ### Absorption
 
-Allopurinol is approximately 90% absorbed from the gastrointestinal tract.
+Allopurinol tablets are approximately 90% absorbed from the gastrointestinal tract.
 Peak plasma levels generally occur at 1.5 hours and 4.5 hours for allopurinol and oxipurinol respectively.
 After a single oral dose of 300 mg allopurinol tablets, maximum plasma levels of about 3 mcg/mL of allopurinol and 6.5 mcg/mL of oxipurinol are produced.
 
@@ -60,7 +60,7 @@ Allopurinol is metabolized to the corresponding xanthine analogue, oxypurinol (a
 #### Excretion
 
 Allopurinol tablets and its primary active metabolite, oxipurinol, are eliminated by the kidneys.
-Approximately 20% of the ingested allopurinol tablets are excreted in the feces.
+Approximately 20% of the ingested allopurinol is excreted in the feces.
 Oxipurinol is primarily eliminated unchanged in urine by glomerular filtration and tubular reabsorption.
 
 ### Drug Interaction Studies
@@ -95,7 +95,7 @@ Allopurinol may inhibit the metabolism of warfarin, possibly enhancing its antic
 
 ### HLA-B *5801 allele
 
-The HLA-B *5801 allele is a genetic marker that has shown to be associated with risk of developing allopurinol tablets related hypersensitivity syndrome (DRESS) and SJS/TEN.
+The HLA-B *5801 allele is a genetic marker that has shown to be associated with risk of developing allopurinol related hypersensitivity syndrome (DRESS) and SJS/TEN.
 The frequency of the HLA- B *58:01 allele ranges from 8 to 10% in Han Chinese populations, about 8% in Thai populations, and about 6% in Korean populations based upon published literature and available databases.
 The frequency of the HLA-B *58:01 allele is about 4% in Blacks, about 1 % to 2 % in indigenous peoples of the Americas and Hispanic populations, and < 1% in people from European descent and Japanese.
 

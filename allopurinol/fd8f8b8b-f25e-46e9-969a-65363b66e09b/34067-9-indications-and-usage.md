@@ -4,7 +4,7 @@ Allopurinol tablets are indicated for:
 
 - The management of adults with signs and symptoms of primary or secondary gout (acute attacks, tophi, joint destruction, uric acid lithiasis, and/or nephropathy)
 - The management of adult and pediatric patients with leukemia, lymphoma and solid tumor malignancies who are receiving cancer therapy which causes elevations of serum and urinary uric acid levels
-- The management of adult patients with recurrent calcium oxalate calculi whose daily uric acid excretion exceeds 800 mg/day in male patients and 750 mg/day in female patients, despite lifestyle changes (such as reduction of dietary sodium, non-dairy animal protein, oxalate rich foods, refined sugars and increases in oral fluids and fruits and vegetables)
+- The management of adult patients with recurrent calcium oxylate calculi whose daily uric acid excretion exceeds 800 mg/day in male patients and 750 mg/day in female patients, despite lifestyle changes (such as reduction of dietary sodium, non-dairy animal protein, oxalate rich foods, refined sugars and increases in oral fluids and fruits and vegetables)
 
 Limitations of Use
 
