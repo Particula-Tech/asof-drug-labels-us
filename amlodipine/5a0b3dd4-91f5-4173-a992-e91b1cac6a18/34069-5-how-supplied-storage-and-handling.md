@@ -14,6 +14,8 @@ They are supplied as follows:
 
 Bottles of 30 (NDC 72789-515-30)
 
+Bottles of 60 (NDC 72789-515-60)
+
 Bottles of 90 (NDC 72789-515-90)
 
 Bottles of 1,000 (NDC 72789-515-95)
