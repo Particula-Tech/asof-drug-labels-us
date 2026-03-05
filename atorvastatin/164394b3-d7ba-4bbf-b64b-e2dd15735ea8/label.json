@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA021540"
+  ],
+  "inn": "atorvastatin",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "58151-060-93",
+    "58151-061-93",
+    "58151-062-93",
+    "58151-063-93",
+    "58151-064-93",
+    "58151-065-93",
+    "58151-066-93",
+    "58151-067-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "amlodipine and atorvastatin",
+      "name": "Caduet"
+    }
+  ],
+  "setid": "164394b3-d7ba-4bbf-b64b-e2dd15735ea8",
+  "source": "dailymed"
+}

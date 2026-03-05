@@ -1,0 +1,70 @@
+# 5 WARNINGS AND PRECAUTIONS
+
+## 5.1 Myopathy and Rhabdomyolysis
+
+CADUET may cause myopathy (muscle pain, tenderness, or weakness associated with elevated creatine kinase [CK]) and rhabdomyolysis.
+Acute kidney injury secondary to myoglobinuria and rare fatalities have occurred as a result of rhabdomyolysis in patients treated with statins, including CADUET.
+
+Risk Factors for Myopathy
+
+Risk factors for myopathy include age 65 years or greater, uncontrolled hypothyroidism, renal impairment, concomitant use with certain other drugs (including other lipid-lowering therapies), and higher CADUET dosage [see Drug Interactions (7.3) and Use in Specific Populations (8.5, 8.6)].
+
+Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis
+
+CADUET exposure may be increased by drug interactions due to inhibition of cytochrome P450 enzyme 3A4 (CYP3A4) and/or transporters (e.g., breast cancer resistant protein [BCRP], organic anion-transporting polypeptide [OATP1B1/OATP1B3] and P-glycoprotein [P-gp]), resulting in an increased risk of myopathy and rhabdomyolysis.
+Concomitant use of cyclosporine, gemfibrozil, tipranavir plus ritonavir or glecaprevir plus pibrentasvir with CADUET is not recommended.
+CADUET dosage modifications are recommended for patients taking certain anti-viral, azole antifungals, or macrolide antibiotic medications [see Dosage and Administration (2)].
+Cases of myopathy/rhabdomyolysis have been reported with atorvastatin co-administered with lipid modifying doses (> 1 gram/day) of niacin, fibrates, colchicine, and ledipasvir plus sofosbuvir [see Adverse Reactions (6.1)].
+Consider if the benefit of use of these products outweighs the increased risk of myopathy and rhabdomyolysis [see Drug Interactions (7.3)].
+
+Concomitant intake of large quantities, more than 1.2 liters daily, of grapefruit juice is not recommended in patients taking CADUET [see Drug Interactions (7.3)].
+
+Discontinue CADUET if markedly elevated CK levels occur or if myopathy is either diagnosed or suspected.
+Muscle symptoms and CK elevations may resolve if CADUET is discontinued.
+Temporarily discontinue CADUET in patients experiencing an acute or serious condition at high risk of developing renal failure secondary to rhabdomyolysis (e.g., sepsis; shock; severe hypovolemia; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy).
+
+Inform patients of the risk of myopathy and rhabdomyolysis when starting or increasing the CADUET dosage.
+Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever.
+
+## 5.2 Immune-Mediated Necrotizing Myopathy
+
+There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use, including reports of recurrence when the same or a different statin was administered.
+IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase that persists despite discontinuation of statin treatment; positive anti-HMG-CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents.
+Additional neuromuscular and serologic testing may be necessary.
+Treatment with immunosuppressive agents may be required.
+Discontinue CADUET if IMNM is suspected.
+
+## 5.3 Hepatic Dysfunction
+
+Increases in serum transaminases have been reported with use of atorvastatin [see Adverse Reactions (6.1)].
+In most cases, these changes appeared soon after initiation, were transient, were not accompanied by symptoms, and resolved or improved on continued therapy or after a brief interruption in therapy.
+Persistent increases to more than three times the ULN in serum transaminases have occurred in approximately 0.7% of patients receiving atorvastatin in clinical trials.
+There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including atorvastatin.
+
+Patients who consume substantial quantities of alcohol and/or have a history of liver disease may be at increased risk for hepatic injury [see Use in Specific Populations (8.7)].
+
+Consider liver enzyme testing before atorvastatin initiation and when clinically indicated thereafter.
+Atorvastatin is contraindicated in patients with acute liver failure or decompensated cirrhosis [see Contraindications (4)].
+If serious hepatic injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs, promptly discontinue atorvastatin.
+
+## 5.4 Increased Angina and Myocardial Infarction
+
+Worsening angina and acute myocardial infarction can develop after starting or increasing the dose of amlodipine, particularly in patients with severe obstructive coronary artery disease.
+
+## 5.5 Hypotension
+
+Symptomatic hypotension is possible with use of amlodipine, particularly in patients with severe aortic stenosis.
+Because of the gradual onset of action, acute hypotension is unlikely.
+
+## 5.6 Increases in HbA1c and Fasting Serum Glucose Levels
+
+Increases in HbA1c and fasting serum glucose levels have been reported with statins, including atorvastatin.
+Optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices.
+
+## 5.7 Increased Risk of Hemorrhagic Stroke in Patients on Atorvastatin 80 mg with Recent Hemorrhagic Stroke
+
+In a post-hoc analysis of the Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL) trial where 2365 adult patients, without CHD who had a stroke or Transient Ischemic Attack (TIA) within the preceding 6 months, were treated with atorvastatin 80 mg, a higher incidence of hemorrhagic stroke was seen in the atorvastatin 80 mg group compared to placebo (55, 2.3% atorvastatin vs. 33, 1.4% placebo; HR: 1.68, 95% CI: 1.09, 2.59; p=0.0168).
+The incidence of fatal hemorrhagic stroke was similar across treatment groups (17 vs. 18 for the atorvastatin and placebo groups, respectively).
+The incidence of non-fatal hemorrhagic stroke was significantly higher in the atorvastatin group (38, 1.6%) as compared to the placebo group (16, 0.7%).
+Some baseline characteristics, including hemorrhagic and lacunar stroke on study entry, were associated with a higher incidence of hemorrhagic stroke in the atorvastatin group [see Adverse Reactions (6.1)].
+Consider the risk/benefit of use of atorvastatin 80 mg in patients with recent hemorrhagic stroke.
