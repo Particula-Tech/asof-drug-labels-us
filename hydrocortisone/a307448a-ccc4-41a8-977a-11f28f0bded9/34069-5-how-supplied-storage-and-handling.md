@@ -9,4 +9,4 @@ Rx ONLY
 
 Manufactured by ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-9156 Rev 11/11
+9156 Rev 11/25

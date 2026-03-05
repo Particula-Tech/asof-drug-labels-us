@@ -12,3 +12,5 @@ Neurological: Convulsions; increased intracranial pressure with papilledema (pse
 Endocrine: Menstrual irregularities; development of Cushingoid state; suppression of growth in pediatric patients; secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery or illness, decreased carbohydrate tolerance; manifestations of latent diabetes requirements for insulin or oral hypoglycemic agents in diabetics.
 Ophthalmic: Posterior subcapsular cataracts; increased intraocular pressure; glaucoma; exophthalmos.
 Metabolic: Negative nitrogen balance due to protein catabolism.
+
+To report SUSPECTED ADVERSE REACTIONS, contact ANI Pharmaceuticals, Inc. at 1-855-204-1431 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
