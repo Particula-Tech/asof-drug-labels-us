@@ -5,7 +5,7 @@
 Dupilumab is a human monoclonal IgG4 antibody that inhibits interleukin-4 (IL-4) and interleukin-13 (IL-13) signaling by specifically binding to the IL-4Rα subunit shared by the IL-4 and IL-13 receptor complexes.
 Dupilumab inhibits IL-4 signaling via the Type I receptor and both IL-4 and IL-13 signaling through the Type II receptor.
 
-Inflammation driven by IL-4 and IL-13 is an important component in the pathogenesis of asthma, AD, CRSwNP, EoE, PN, COPD, CSU, and BP.
+Inflammation driven by IL-4 and IL-13 is an important component in the pathogenesis of asthma, AD, CRSwNP, EoE, PN, COPD, CSU, BP, and AFRS.
 Multiple cell types that express IL-4Rα (e.g., mast cells, basophils, eosinophils, macrophages, lymphocytes, epithelial cells, goblet cells) and inflammatory mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines, chemokines) are involved in inflammation.
 Blocking IL-4Rα with dupilumab inhibits IL-4 and IL-13 cytokine-induced inflammatory responses, including the release of proinflammatory cytokines, chemokines, nitric oxide, and IgE.
 The mechanism of dupilumab action has not been definitively established.
@@ -22,6 +22,8 @@ For FeNO, the mean percent reduction from baseline at Week 2 was 35% and 24% in 
 
 A continuous decline in total IgE in serum was observed in CSU trials.
 
+In AFRS subjects, total IgE concentrations showed a progressive decline with dupilumab treatment throughout the 52-week treatment period.
+
 Antibody Response to Non-Live Vaccines During DUPIXENT Treatment
 
 In a clinical study, adult subjects with AD were treated once weekly for 16 weeks with 300 mg of DUPIXENT (twice the recommended dosing frequency).
@@ -33,7 +35,7 @@ Antibody responses to other non-live vaccines were also not assessed.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of dupilumab is similar in subjects with AD, asthma, CRSwNP, EoE, PN, COPD, CSU, and BP.
+The pharmacokinetics of dupilumab is similar in subjects with AD, asthma, CRSwNP, EoE, PN, COPD, CSU, BP, and AFRS.
 
 Absorption
 
@@ -41,7 +43,7 @@ Following an initial subcutaneous (SC) dose of 600 mg, 400 mg, or 300 mg, dupilu
 Steady-state concentrations were achieved by Week 16 following the administration of 600 mg starting dose and 300 mg dose either weekly or Q2W, or 400 mg starting dose and 200 mg dose Q2W, or 300 mg Q2W without a loading dose.
 Across clinical trials, the mean ± SD steady-state trough concentrations ranged from 55.3±34.3 mcg/mL to 80.2±35.3 mcg/mL for 300 mg administered Q2W, from 173±75.9 mcg/mL to 195±71.7 mcg/mL for 300 mg administered weekly, and from 29.2±18.7 to 36.5±22.2 mcg/mL for 200 mg administered Q2W.
 
-The bioavailability of dupilumab following a SC dose is similar between AD, asthma, CRSwNP, EoE, PN, COPD, CSU, and BP subjects, ranging between 61% and 66%.
+The bioavailability of dupilumab following a SC dose is similar between AD, asthma, CRSwNP, EoE, PN, COPD, CSU, BP, and AFRS subjects, ranging between 61% and 66%.
 
 Distribution
 
@@ -116,8 +118,13 @@ The systemic exposure in pediatric subjects 12 to 17 years of age with a body we
 
 Chronic Spontaneous Urticaria
 
-A total of 12 pediatric subjects 12 to 17 years of age with CSU were enrolled in CUPID.
-The observed steady-state trough concentrations of 6 pediatric subjects 12 to 17 years of age with CSU who received DUPIXENT 300 mg Q2W or 200 mg Q2W were within the range of steady-state trough concentrations in adult subjects with CSU who received DUPIXENT 300 mg Q2W.
+A total of 12 pediatric subjects 12 to 17 years of age with CSU were enrolled in CUPID (Study A, B, and C), including 6 subjects who received DUPIXENT 200 mg Q2W (≥30 to <60 kg) and 300 mg Q2W (≥60 kg).
+At week 24, the mean ± SD observed steady-state trough concentration was 53.6 ± 19.4 mcg/mL, which was within the range of steady-state trough concentrations in adult subjects with CSU who received DUPIXENT 300 mg Q2W.
+
+Allergic Fungal Rhinosinusitis
+
+A total of 6 pediatric subjects 6 to 17 years of age with AFRS were enrolled in AIMS, including 3 subjects who received DUPIXENT 200 mg Q2W (≥30 to <60 kg) and 300 mg Q2W (≥60 kg).
+At week 52, the mean ± SD observed steady-state trough concentration was 72.3 ± 28.8 mcg/mL, which was within the range of steady-state trough concentrations in adult subjects with AFRS who received DUPIXENT 300 mg Q2W.
 
 Drug Interaction Studies
 
@@ -135,20 +142,20 @@ The largest effect was observed for metoprolol (CYP2D6) with an increase in AUC 
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the trials described below with the incidence of anti-drug antibodies in other trials, including those of DUPIXENT or of other dupilumab products.
 
-The anti-drug antibody (ADA) and neutralizing antibody (NAb) incidence rates in subjects treated with DUPIXENT are presented in Table 15.
+The anti-drug antibody (ADA) and neutralizing antibody (NAb) incidence rates in subjects treated with DUPIXENT are presented in Table 16.
 
-Table 15: Anti-drug Antibody and Neutralizing Antibody Incidence in Subjects Treated with DUPIXENT
+Table 16: Anti-drug Antibody and Neutralizing Antibody Incidence in Subjects Treated with DUPIXENT
 
-| Treatment-Emergent ADATreatment-emergent ADA: A negative result or missing result at baseline with at least 1 positive post-baseline result in the ADA assay. | Persistent ADAPersistent ADA: A treatment-emergent ADA positive response with 2 or more consecutive ADA positive samples separated by a greater than 12-week period (>84 days), with no ADA negative result in between. |  |  |  |
+| Positive ADAPositive ADA: Includes subjects with a treatment-emergent response, defined as a negative or missing result at baseline with at least 1 positive post-baseline result in the ADA assay, and subjects with a treatment-boosted response, defined as a post-baseline ADA-positive result that is ≥ 4-fold higher than baseline titer levels, when baseline results are positive | Persistent ADAPersistent ADA: A treatment-emergent ADA positive response with 2 or more consecutive ADA positive samples separated by a greater than 12-week period (>84 days), with no ADA negative result in between. |  |  |  |
 | --- | --- | --- | --- | --- |
-| Indication and Population | Dose and Duration of Treatment | Anti-drug Antibody (ADA) |  | Neutralizing Antibody NAb Neutralizing potential is assessed only for ADA-positive samples. The NAb incidence is reported as a percentage of subjects with treatment emergent ADA. |
+| Indication and Population | Dose and Duration of Treatment | Anti-drug Antibody (ADA) |  | Neutralizing Antibody NAb Neutralizing potential is assessed only for ADA-positive samples. The NAb incidence is reported as a percentage of subjects with positive ADA response. |
 | Atopic Dermatitis |  |  |  |  |
-| Adult | 300 mg Q2W for 52 weeks | 6/105 (6%) | 2/105 (2%) | 1/6 (17%) |
+| Adult | 300 mg Q2W for 52 weeks | 7/105 (7%) | 2/105 (2%) | 1/7 (14%) |
 | 12 to 17 years of age | 300 mg or 200 mg Q2W for 16 weeks | 13/81 (16%) | 2/81 (3%) | 4/13 (31%) |
 | 6 to 11 years of age | 200 mg Q2W or 300 mg Q4W for 16 weeks | 3/171 (2%) | 0/171 (0%) | 1/3 (33%) |
 | 6 months to 5 years of age | 200 mg Q4W, or 300 mg Q4W for 16 weeks | 1/74 (1%) | 0/74 (0%) | 0/1 (0%) |
 | Asthma |  |  |  |  |
-| Adult and 12 years of age or older | 300 mg Q2W for 52 weeks | 32/626 (5%) | 13/626 (2%) | 14/32 (44%) |
+| Adult and 12 years of age or older | 300 mg Q2W for 52 weeks | 33/626 (5%) | 13/626 (2%) | 14/33 (42%) |
 | 200 mg Q2W for 52 weeks | 58/625 (9%) | 26/625 (4%) | 27/58 (47%) |  |
 | 6 to 11 years of age | 100 mg Q2W or 200 mg Q2W up to 52 weeks | 17/269 (6%) | 9/269 (3%) | 6/17 (35%) |
 | Chronic Rhinosinusitis with Nasal Polyps |  |  |  |  |
@@ -159,11 +166,13 @@ Table 15: Anti-drug Antibody and Neutralizing Antibody Incidence in Subjects Tre
 | Prurigo Nodularis |  |  |  |  |
 | Adult | 300 mg Q2W for 24 weeks | 11/143 (8%) | 2/143 (1%) | 4/11 (36%) |
 | Chronic Obstructive Pulmonary Disease |  |  |  |  |
-| Adult | 300 mg Q2W for 52 weeks | 77/922 (8%) | 24/922 (3%) | 28/77 (36%) |
+| Adult | 300 mg Q2W for 52 weeks | 78/923 (8%) | 24/922 (3%) | 28/78 (36%) |
 | Chronic Spontaneous Urticaria |  |  |  |  |
 | Adult and 12 years of age or older | 200 mg Q2W or 300 mg Q2W through 24 weeks | 9/193 (5%) | 1/193 (1%) | 2/9 (22%) |
 | Bullous Pemphigoid |  |  |  |  |
 | Adult | 300 mg Q2W up to 52 weeks | 2/52 (4%) | 0/52 (0%) | 2/2 (100%) |
+| Allergic Fungal Rhinosinusitis |  |  |  |  |
+| Adult and 6 years of age or older | 300 mg Q2W or 200 mg Q2W for 52 weeks | 2/22 (9%) | 1/22 (4.5%) | 0/2 (0%) |
 
 Two adult subjects with AD who experienced high titer antibody responses developed serum sickness or serum sickness-like reactions during DUPIXENT therapy [see Warnings and Precautions (5.1)].
 

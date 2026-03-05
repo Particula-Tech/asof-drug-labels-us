@@ -44,3 +44,7 @@ DUPIXENT is not indicated for treatment of other forms of urticaria.
 ## 1.8 Bullous Pemphigoid
 
 DUPIXENT is indicated for the treatment of adult patients with bullous pemphigoid (BP).
+
+## 1.9 Allergic Fungal Rhinosinusitis
+
+DUPIXENT is indicated for the treatment of adult and pediatric patients aged 6 years and older with allergic fungal rhinosinusitis (AFRS) who have a history of sino-nasal surgery.

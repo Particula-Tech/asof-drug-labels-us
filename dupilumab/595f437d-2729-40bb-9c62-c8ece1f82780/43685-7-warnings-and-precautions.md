@@ -17,17 +17,14 @@ Most subjects with conjunctivitis or keratitis recovered or were recovering duri
 Among subjects with asthma, the frequencies of conjunctivitis and keratitis were similar between DUPIXENT and placebo.
 
 In adult subjects with CRSwNP, the frequency of conjunctivitis was 2% in the DUPIXENT group compared to 1% in the placebo group in the 24-week safety pool; these subjects recovered.
-There were no cases of keratitis reported in the CRSwNP development program.
 
 Among subjects with EoE, there were no reports of conjunctivitis and keratitis in the DUPIXENT group in placebo-controlled trials.
 
 In subjects with PN, the frequency of conjunctivitis was 4% in the DUPIXENT group compared to 1% in the placebo group; these subjects recovered or were recovering during the treatment period.
-There were no cases of keratitis reported in the PN development program.
 
 Among subjects with COPD, the frequency of conjunctivitis and keratitis was 1.4% and 0.1% in the DUPIXENT group and 1% and 0% in the placebo group, respectively.
 
 In subjects with CSU, the frequency of conjunctivitis was similar between DUPIXENT and placebo.
-There were no cases of keratitis reported in the CSU development program.
 
 Among subjects with BP, the frequency of conjunctivitis and keratitis was 7.5% and 3.8% in the DUPIXENT group and 0% and 0% in the placebo group, respectively.
 

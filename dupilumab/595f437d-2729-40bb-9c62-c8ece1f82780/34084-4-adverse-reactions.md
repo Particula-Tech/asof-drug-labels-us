@@ -16,7 +16,7 @@ Atopic Dermatitis
 
 Adults with Atopic Dermatitis
 
-Three randomized, double-blind, placebo-controlled, multicenter trials (SOLO 1, SOLO 2, and CHRONOS) and one dose-ranging trial (AD-1021) evaluated the safety of DUPIXENT in subjects with moderate-to-severe AD [see Clinical Studies (14)].
+Three randomized, double-blind, placebo-controlled, multicenter trials (SOLO 1, SOLO 2, and CHRONOS) and one dose-ranging trial (AD-1021) evaluated the safety of DUPIXENT in subjects with moderate-to-severe AD [see Clinical Studies (14.1)].
 In terms of co-morbid conditions, 48% of the subjects had asthma, 49% had allergic rhinitis, 37% had food allergy, and 27% had allergic conjunctivitis.
 In these 4 trials, 1472 subjects were treated with subcutaneous injections of DUPIXENT, with or without concomitant topical corticosteroids (TCS).
 
@@ -31,9 +31,9 @@ The safety data in AD-1225 reflect exposure to DUPIXENT 200 mg QW, 300 mg QW and
 Weeks 0 to 16 (SOLO 1, SOLO 2, CHRONOS, and AD-1021)
 
 In DUPIXENT monotherapy trials (SOLO 1, SOLO 2, and AD-1021) through Week 16, the proportion of subjects who discontinued treatment because of adverse events was 1.9% in both the DUPIXENT 300 mg Q2W and placebo groups.
-Table 7 summarizes the adverse reactions that occurred at a rate of at least 1% in the DUPIXENT 300 mg Q2W monotherapy groups, and in the DUPIXENT + TCS group, all at a higher rate than in their respective comparator groups during the first 16 weeks of treatment.
+Table 8 summarizes the adverse reactions that occurred at a rate of at least 1% in the DUPIXENT 300 mg Q2W monotherapy groups, and in the DUPIXENT + TCS group, all at a higher rate than in their respective comparator groups during the first 16 weeks of treatment.
 
-Table 7: Adverse Reactions Occurring in ≥1% of the DUPIXENT Monotherapy Group or the DUPIXENT + TCS Group in the Atopic Dermatitis Trials through Week 16
+Table 8: Adverse Reactions Occurring in ≥1% of the DUPIXENT Monotherapy Group or the DUPIXENT + TCS Group in the Atopic Dermatitis Trials through Week 16
 
 | N=529 n (%) | N=517 n (%) | N=110 n (%) | N=315 n (%) |  |
 | --- | --- | --- | --- | --- |
@@ -109,9 +109,9 @@ DUPIXENT 200 mg or 300 mg was administered subcutaneously Q2W, following an init
 
 In DRI12544 and QUEST, the proportion of subjects who discontinued treatment due to adverse events was 4% of the placebo group, 3% of the DUPIXENT 200 mg Q2W group, and 6% of the DUPIXENT 300 mg Q2W group.
 
-Table 8 summarizes the adverse reactions that occurred at a rate of at least 1% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator groups in DRI12544 and QUEST.
+Table 9 summarizes the adverse reactions that occurred at a rate of at least 1% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator groups in DRI12544 and QUEST.
 
-Table 8: Adverse Reactions Occurring in ≥1% of Adult and Pediatric Subjects 12 Years of Age and Older with Asthma in the DUPIXENT Groups in DRI12544 and QUEST and Greater than Placebo (6 Month Safety Pool)
+Table 9: Adverse Reactions Occurring in ≥1% of Adult and Pediatric Subjects 12 Years of Age and Older with Asthma in the DUPIXENT Groups in DRI12544 and QUEST and Greater than Placebo (6 Month Safety Pool)
 
 | N=779 n (%) | N=788 n (%) | N=792 n (%) |  |
 | --- | --- | --- | --- |
@@ -141,9 +141,9 @@ The safety pool consisted of data from the first 24 weeks of treatment from both
 
 In the safety pool, the proportion of adult subjects who discontinued treatment due to adverse events was 5% of the placebo group and 2% of the DUPIXENT 300 mg Q2W group.
 
-Table 9 summarizes the adverse reactions that occurred at a rate of at least 1% in adult subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in SINUS-24 and SINUS-52.
+Table 10 summarizes the adverse reactions that occurred at a rate of at least 1% in adult subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in SINUS-24 and SINUS-52.
 
-Table 9: Adverse Reactions Occurring in ≥1% of Adult Subjects with CRSwNP in the DUPIXENT Group in SINUS-24 and SINUS-52 and Greater than Placebo (24-Week Safety Pool)
+Table 10: Adverse Reactions Occurring in ≥1% of Adult Subjects with CRSwNP in the DUPIXENT Group in SINUS-24 and SINUS-52 and Greater than Placebo (24-Week Safety Pool)
 
 | N=440 n (%) | N=282 n (%) |  |
 | --- | --- | --- |
@@ -167,9 +167,9 @@ A total of 239 adult and pediatric subjects 12 years of age and older, weighing 
 
 The proportion of subjects who discontinued treatment due to adverse events was 2% of the placebo group and 2% of the DUPIXENT 300 mg QW group.
 
-Table 10 summarizes the adverse reactions that occurred at a rate of at least 2% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in Parts A and B.
+Table 11 summarizes the adverse reactions that occurred at a rate of at least 2% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in Parts A and B.
 
-Table 10: Adverse Reactions Occurring in ≥2% of Adult and Pediatric Subjects 12 Years of Age and Older with EoE Treated with DUPIXENT in a Placebo-Controlled Trial (Study EoE-1 Parts A and B; 24-Week Safety Pool)
+Table 11: Adverse Reactions Occurring in ≥2% of Adult and Pediatric Subjects 12 Years of Age and Older with EoE Treated with DUPIXENT in a Placebo-Controlled Trial (Study EoE-1 Parts A and B; 24-Week Safety Pool)
 
 | Adverse Reaction | DUPIXENT 300 mg QW N=122 n (%) | Placebo N=117 n (%) |
 | --- | --- | --- |
@@ -198,9 +198,9 @@ The proportion of subjects who discontinued treatment due to adverse events was 
 
 Subjects with co-morbid conditions included 43% of subjects with a history of atopy (defined as having a medical history of AD, allergic rhinitis/rhino conjunctivitis, asthma, or food allergy), 8% of subjects with a history of hypothyroidism and 9% of subjects with a history of diabetes mellitus type 2.
 
-Table 11 summarizes the adverse reactions that occurred at a rate of at least 2% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in PRIME and PRIME2.
+Table 12 summarizes the adverse reactions that occurred at a rate of at least 2% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in PRIME and PRIME2.
 
-Table 11: Adverse Reactions Occurring in ≥2% of Adult Subjects with PN in the DUPIXENT Group in PRIME and PRIME2 and Greater than Placebo
+Table 12: Adverse Reactions Occurring in ≥2% of Adult Subjects with PN in the DUPIXENT Group in PRIME and PRIME2 and Greater than Placebo
 
 | N=152 n (%) | N=157 n (%) |  |
 | --- | --- | --- |
@@ -220,9 +220,9 @@ Of those randomized, 1872 subjects received at least one dose of DUPIXENT 300 mg
 The safety of DUPIXENT was assessed in the pooled safety population from BOREAS and NOTUS, which consisted of 938 adult subjects treated with DUPIXENT.
 Of the subjects treated with DUPIXENT, 98% utilized inhaled triple therapy at baseline (comprising of an inhaled corticosteroid, long-acting beta-agonist, and long-acting muscarinic antagonist), and 97% had chronic bronchitis.
 
-Table 12 summarizes the adverse reactions that occurred in at least 2% of subjects treated with DUPIXENT and at a higher rate than placebo in BOREAS and NOTUS trials.
+Table 13 summarizes the adverse reactions that occurred in at least 2% of subjects treated with DUPIXENT and at a higher rate than placebo in BOREAS and NOTUS trials.
 
-Table 12: Adverse Reactions That Occurred in ≥2% of Adult Subjects with COPD Treated with DUPIXENT in BOREAS and NOTUS Trials (Pooled Safety Population) and Greater than Placebo
+Table 13: Adverse Reactions That Occurred in ≥2% of Adult Subjects with COPD Treated with DUPIXENT in BOREAS and NOTUS Trials (Pooled Safety Population) and Greater than Placebo
 
 | N=938 n (%) | N=934 n (%) |  |
 | --- | --- | --- |
@@ -253,9 +253,9 @@ The pooled safety data below reflects the safety of DUPIXENT in adult and pediat
 A total of 392 adult and pediatric subjects 12 years of age and older with CSU were evaluated for safety in three randomized, double-blind, parallel-group, multicenter, placebo-controlled, studies, Study A, B, and C, conducted under a master protocol (CUPID) for 36 weeks [see Clinical Studies (14.7)].
 The pooled safety population received an initial dose of DUPIXENT 600 mg or 400 mg, followed by DUPIXENT 300 mg or 200 mg, respectively, or matching placebo, administered subcutaneously every 2 weeks (Q2W) [see Dosage and Administration (2.9)].
 
-Table 13 summarizes the adverse reactions that occurred in at least 2% in subjects treated with DUPIXENT and at a higher rate than placebo in CUPID Study A, B and C (pooled safety population).
+Table 14 summarizes the adverse reactions that occurred in at least 2% in subjects treated with DUPIXENT and at a higher rate than placebo in CUPID Study A, B and C (pooled safety population).
 
-Table 13: Adverse Reactions That Occurred in ≥2% of Adult and Pediatric Subjects 12 Years of Age and Older with CSU Treated with DUPIXENT in CUPID Study A, B, and C (Pooled Safety Population) and Greater than Placebo
+Table 14: Adverse Reactions That Occurred in ≥2% of Adult and Pediatric Subjects 12 Years of Age and Older with CSU Treated with DUPIXENT in CUPID Study A, B, and C (Pooled Safety Population) and Greater than Placebo
 
 | N=195 n (%) | N=197 n (%) |  |
 | --- | --- | --- |
@@ -269,9 +269,9 @@ The safety of DUPIXENT was evaluated in a 52-week, randomized, double-blind, par
 Of the 106 randomized subjects, all received at least one dose of DUPIXENT or placebo with a course of oral corticosteroids (OCS) with a prespecified taper.
 At the time of analysis, 87 subjects had completed Week 36 and 65 subjects had completed Week 52.
 
-Table 14 summarizes the adverse reactions that occurred in at least 2% of subjects treated with DUPIXENT and at a higher rate than placebo in the ADEPT trial.
+Table 15 summarizes the adverse reactions that occurred in at least 2% of subjects treated with DUPIXENT and at a higher rate than placebo in the ADEPT trial.
 
-Table 14: Adverse Reactions Occurring in ≥2% of Adult Subjects with BP Treated with DUPIXENT in ADEPT and Greater than PlaceboIn combination with a tapering course of oral corticosteroids
+Table 15: Adverse Reactions Occurring in ≥2% of Adult Subjects with BP Treated with DUPIXENT in ADEPT and Greater than PlaceboIn combination with a tapering course of oral corticosteroids
 
 | N=53 n (%) | N=53 n (%) |  |
 | --- | --- | --- |
@@ -285,7 +285,15 @@ Table 14: Adverse Reactions Occurring in ≥2% of Adult Subjects with BP Treated
 
 A case of AGEP was reported in 1 subject with BP treated with DUPIXENT compared with 0 subjects in the placebo group.
 
-Specific Adverse Reactions for AD, Asthma, CRSwNP, EoE, PN, COPD, CSU and BP
+Allergic Fungal Rhinosinusitis (AFRS)
+
+Adults and Pediatric Subjects 6 Years of Age and Older with AFRS
+
+A total of 62 adult and pediatric subjects 6 years of age and older with allergic fungal rhinosinusitis (AFRS) were evaluated in a randomized, double-blind, parallel-group, placebo-controlled trial (AIMS) with a 52-week treatment period [see Clinical Studies (14.9)].
+The adult subjects (n=30) received DUPIXENT 300 mg every 2 weeks and pediatric subjects aged 6 to 17 years (n=3) received DUPIXENT based on body weight [see Dosage and Administration (2.11)].
+The safety profile of DUPIXENT in patients with AFRS was similar to the safety profile of DUPIXENT in patients with CRSwNP (see Chronic Rhinosinusitis with Nasal Polyps).
+
+Specific Adverse Reactions for AD, Asthma, CRSwNP, EoE, PN, COPD, CSU, BP, and AFRS
 
 Conjunctivitis and Keratitis
 
@@ -305,18 +313,15 @@ Among subjects with asthma, the frequency of conjunctivitis and keratitis was si
 In adult subjects with CRSwNP, the frequency of conjunctivitis was 2% in the DUPIXENT group compared to 1% in the placebo group in the 24-week safety pool; these subjects recovered.
 
 In the 52-week CRSwNP study (SINUS-52), the frequency of conjunctivitis was 3% in the DUPIXENT adult subjects and 1% in the placebo subjects; all of these subjects recovered.
-There were no cases of keratitis reported in the CRSwNP development program.
 
 Among subjects with EoE, there were no reports of conjunctivitis and keratitis in the DUPIXENT group in placebo-controlled trials.
 In the 36-week active treatment extension period of Study EoE-2 Part B, conjunctivitis was reported in 4% of DUPIXENT-treated pediatric subjects with EoE.
 
 Among subjects with PN, the frequency of conjunctivitis was 4% in the DUPIXENT group compared to 1% in the placebo group; all of these subjects recovered or were recovering during the treatment period.
-There were no cases of keratitis reported in the PN development program.
 
 Among subjects with COPD, the frequency of conjunctivitis and keratitis was 1.4% and 0.1% in the DUPIXENT group and 1% and 0% in the placebo group, respectively.
 
 Among subjects with CSU in the pooled safety population, the frequency of conjunctivitis was similar between DUPIXENT and placebo.
-There were no cases of keratitis reported in the CSU development program.
 
 Among subjects with BP, the frequency of conjunctivitis and keratitis was 8% and 4% in the DUPIXENT group and 0% and 0% in the placebo group, respectively.
 
@@ -337,14 +342,13 @@ Among subjects with COPD, herpes zoster was reported in 0.9% of the DUPIXENT gro
 Ophthalmic herpes zoster was reported in 0.1% of the DUPIXENT group and 0.2% of the placebo group.
 
 Among subjects with CSU in the pooled safety population, herpes zoster was reported in <1% of the DUPIXENT and placebo groups (1 per 100 patient-years).
-There were no cases of eczema herpeticum reported in the CSU development program.
 
 Among subjects with BP, herpes zoster was reported in 4% of the DUPIXENT group and 0% of the placebo group.
 
 Hypersensitivity Reactions
 
 Hypersensitivity reactions were reported in <1% of DUPIXENT-treated subjects.
-These included anaphylaxis, AGEP, serum sickness or serum sickness-like reactions, generalized urticaria, rash, erythema nodosum, and erythema multiforme [see Contraindications (4), and Clinical Pharmacology (12.6)].
+These included anaphylaxis, AGEP, serum sickness or serum sickness-like reactions, generalized urticaria, rash, erythema nodosum, and erythema multiforme [see Contraindications (4) and Clinical Pharmacology (12.6)].
 
 Eosinophils
 
@@ -370,11 +374,13 @@ In DUPIXENT-treated subjects with BP in ADEPT, all of whom received background o
 
 In the trials for the COPD indication, treatment-emergent eosinophilia (≥500 cells/mcL) was higher in DUPIXENT (41.7%) than in the placebo group (39.4%); none of the cases were associated with clinical symptoms, and treatment-emergent eosinophilia (≥1000 cells/mcL) was higher in DUPIXENT (13.6%) than in the placebo group (8.1%).
 
-Across the trials for AD, asthma, CRSwNP, and CSU indications, the incidence of treatment-emergent eosinophilia (≥500 cells/mcL) was similar in DUPIXENT and placebo groups.
+Across the trials for AD, asthma, CRSwNP, CSU, and AFRS indications, the incidence of treatment-emergent eosinophilia (≥500 cells/mcL) was similar in DUPIXENT and placebo groups.
 
 In the trials for the PN indication, the incidence of treatment-emergent eosinophilia (≥500 cells/mcL) was lower in DUPIXENT than in the placebo group.
 
 In the trial for the BP indication, the incidence of treatment-emergent eosinophilia (≥500 cells/mcL) was higher in DUPIXENT (21%) than in the placebo group (11%).
+
+In adult and pediatric subjects with AFRS (AIMS) treated with DUPIXENT, an increase from baseline in blood eosinophil count was not observed compared to placebo at Week 12.
 
 Treatment-emergent eosinophilia (≥5,000 cells/mcL) was observed in <3% of DUPIXENT-treated subjects and <0.5% in subjects receiving placebo (SOLO 1, SOLO 2, and AD-1021; DRI12544, QUEST, and VOYAGE; SINUS-24 and SINUS-52; PRIME and PRIME2; BOREAS and NOTUS; CUPID Study A, B, and C). Blood eosinophil counts declined to near baseline or remained below baseline levels (PRIME and PRIME2; BOREAS and NOTUS; ADEPT) during treatment.
 In trial AD-1539, treatment-emergent eosinophilia (≥5,000 cells/mcL) was reported in 8% of DUPIXENT-treated subjects and 0% in subjects receiving placebo [see Warnings and Precautions (5.3)].
@@ -392,6 +398,8 @@ In the 1-year placebo-controlled trial in adult subjects with CRSwNP (SINUS-52),
 In the 24-week placebo-controlled trial in subjects with EoE (Study EoE-1 Parts A and B), there were no cases of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) reported in any treatment arm.
 
 In the 24-week placebo-controlled trial in subjects with CSU (CUPID Study A, B, and C), there were no cases of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) reported in any treatment arm.
+
+In the 52-week placebo-controlled trial in subjects with AFRS (AIMS), there were no cases of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) reported in any treatment arm.
 
 ## 6.2 Postmarketing Experience
 

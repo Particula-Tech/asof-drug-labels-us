@@ -6,8 +6,6 @@ Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to DUPIXENT during pregnancy.
 
-Healthcare providers and patients may call 1-877-311-8972 or go to https://mothertobaby.org/ongoing-study/dupixent/ to enroll in or to obtain information about the registry.
-
 Risk Summary
 
 Available data from case reports and case series with DUPIXENT use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
@@ -136,13 +134,24 @@ Bullous Pemphigoid
 The safety and effectiveness of DUPIXENT have not been established in pediatric patients with BP.
 BP is largely a disease of adult patients.
 
+Allergic Fungal Rhinosinusitis (AFRS)
+
+The safety and effectiveness of DUPIXENT for the treatment of AFRS in patients who have a history of sino-nasal surgery have been established in pediatric patients 6 years of age and older.
+Use of DUPIXENT in this indication is supported by evidence from an adequate and well-controlled study (AIMS) in adults and pediatric patients aged 12 years and older [see Clinical Studies (14.9)], with the following additional data:
+
+- Pharmacokinetic (PK) data in 3 pediatric patients 12 years of age and older with AFRS [see Clinical Pharmacology (12.3)]
+- PK and safety data in pediatric patients 6 years to 11 years of age in other indications.
+  [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+
+Safety and effectiveness in pediatric patients younger than 6 years of age with AFRS have not been established.
+
 ## 8.5 Geriatric Use
 
 Of the 1539 subjects with AD exposed to DUPIXENT in a dose-ranging study and placebo-controlled trials, 70 subjects were 65 years or older.
 Clinical trials of DUPIXENT in AD did not include sufficient numbers of subjects aged 65 years and older to determine whether they respond differently from younger subjects.
 
 Of the 1977 subjects with asthma exposed to DUPIXENT, a total of 240 subjects were 65 years or older.
-Efficacy and safety in this age group was similar to the overall study population.
+Efficacy and safety in this age group were similar to the overall study population.
 
 Of the 440 subjects with CRSwNP exposed to DUPIXENT, a total of 79 subjects were 65 years or older.
 Efficacy and safety in this age group were similar to the overall study population.
@@ -160,3 +169,5 @@ Efficacy and safety in subjects 65 years or older were similar to the overall st
 
 Of the 53 subjects with BP exposed to DUPIXENT, a total of 40 were 65 years or older, including 22 subjects 75 years or older.
 Ten percent of subjects aged 65 years and older treated with DUPIXENT had an adverse reaction of vision blurred compared to zero in younger adult subjects.
+
+Clinical studies of DUPIXENT in AFRS did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.

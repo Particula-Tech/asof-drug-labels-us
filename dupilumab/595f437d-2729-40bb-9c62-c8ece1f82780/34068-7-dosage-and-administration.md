@@ -82,7 +82,7 @@ Table 3: Dosage of DUPIXENT in Adult and Pediatric Patients 12 Years and Older w
 | 400 mg (two 200 mg injections) | 200 mg every 2 weeks (Q2W) |
 | Or |  |
 | 600 mg (two 300 mg injections) | 300 mg every 2 weeks (Q2W) |
-| Dosage for patients with oral corticosteroid-dependent asthma or with co-morbid moderate-to-severe atopic dermatitis or adults with co-morbid chronic rhinosinusitis with nasal polyps |  |
+| Dosage for patients with oral corticosteroid-dependent asthma or with co-morbid moderate-to-severe AD, CRSwNP, or AFRSFor pediatric patients 12 to 17 years of age (≥60 kg) and adults with AFRS |  |
 | 600 mg (two 300 mg injections) | 300 mg every 2 weeks (Q2W) |
 
 Dosage in Pediatric Patients 6 to 11 Years of Age
@@ -149,7 +149,25 @@ Use DUPIXENT in combination with a tapering course of oral corticosteroids.
 Once disease control has occurred, gradually taper corticosteroids after which continue DUPIXENT as monotherapy.
 In case of relapse, corticosteroids may be added if medically advisable.
 
-## 2.11 Missed Doses
+## 2.11 Recommended Dosage for Allergic Fungal Rhinosinusitis
+
+Dosage in Adults
+
+The recommended dosage of DUPIXENT for adult patients is 300 mg given every two weeks (Q2W).
+
+Dosage in Pediatric Patients 6 to 17 Years of Age
+
+The recommended dosage of DUPIXENT for pediatric patients 6 to 17 years of age is specified in Table 7.
+
+Table 7: Dosage of DUPIXENT in Pediatric Patients 6 to 17 Years of Age with AFRS
+
+| Body Weight | Recommended Dosage |
+| --- | --- |
+| 15 to less than 30 kg | 300 mg every 4 weeks (Q4W) |
+| 30 to less than 60 kg | 200 mg every 2 weeks (Q2W) |
+| 60 kg or more | 300 mg every 2 weeks (Q2W) |
+
+## 2.12 Missed Doses
 
 If a weekly dose is missed, administer the dose as soon as possible, and start a new weekly schedule from the date of the last administered dose.
 
@@ -159,7 +177,7 @@ If the missed dose is not administered within 7 days, administer the dose, start
 If an every 4 week dose is missed, administer the injection within 7 days from the missed dose and then resume the patient's original schedule.
 If the missed dose is not administered within 7 days, administer the dose, starting a new schedule based on this date.
 
-## 2.12 Preparation for Use
+## 2.13 Preparation for Use
 
 Before injection, remove DUPIXENT from the refrigerator and allow DUPIXENT to reach room temperature (45 minutes for the 300 mg/2 mL pre-filled syringe or pre-filled pen, and 30 minutes for the 200 mg/1.14 mL pre-filled syringe or pre-filled pen) without removing the needle cap.
 After removal from the refrigerator, DUPIXENT must be used within 14 days or discarded.
