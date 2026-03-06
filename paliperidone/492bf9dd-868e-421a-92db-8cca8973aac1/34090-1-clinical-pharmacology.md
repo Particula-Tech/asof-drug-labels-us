@@ -25,9 +25,9 @@ After intramuscular injection, paliperidone palmitate is hydrolyzed to paliperid
 Following a single intramuscular dose of ERZOFRI, the plasma concentrations of paliperidone gradually rise to reach maximum plasma concentrations at a median Tmax of 16 to 28 days.
 The release of the drug starts as early as day 1 and lasts for as long as 176 days.
 
-Following multiple intramuscular injections of ERZOFRI (351 mg on day 1 and 156 mg on day 29 and every 28 days for a total of 6 consecutive injections) in patients, the geometric least square mean Cmax, trough plasma concentrations (Ctrough) and average plasma concentrations (Cavg) were 43.7 ng/mL, 28.5 ng/mL and 30.3 ng/mL, respectively, during the initial regimen period; at steady state, Cmax-ss, Ctrough,ss and AUCtau-ss were 42.6 ng/mL, 28.3 ng/mL and 909 ng*hr/mL, respectively.
+Following multiple intramuscular injections of ERZOFRI (351 mg on day 1 and 156 mg on day 29 and every 28 days for a total of 6 consecutive injections) in patients, the geometric least square mean Cmax, trough plasma concentrations (Ctrough) and average plasma concentrations (Cavg) were 43.7 ng/mL, 28.5 ng/mL and 30.3 ng/mL, respectively, during the initial regimen period; at steady state, Cmax-ss, Ctrough,ss and AUCtau-ss were 42.6 ng/mL, 28.3 ng/mL and 909 day*ng/mL, respectively.
 
-Following multiple intramuscular injections of another PP1M (234 mg on day 1 and 156 mg on day 8 and every 28 days for a total of 7 consecutive injections), the geometric least square mean Cmax, Ctrough and Cavg were 58.7 ng/mL, 30.1 ng/mL and 37.8 ng/mL, respectively, during the initial regimen period; at steady state, Cmax-ss, Ctrough,ss and AUCtau-ss of another once-a-month paliperidone palmitate extended-release injectable suspension for paliperidone were 43.8 ng/mL, 30.4 ng/mL and 953 ng*hr/mL, respectively.
+Following multiple intramuscular injections of another PP1M (234 mg on day 1 and 156 mg on day 8 and every 28 days for a total of 7 consecutive injections), the geometric least square mean Cmax, Ctrough and Cavg were 58.7 ng/mL, 30.1 ng/mL and 37.8 ng/mL, respectively, during the initial regimen period; at steady state, Cmax-ss, Ctrough,ss and AUCtau-ss of another once-a-month paliperidone palmitate extended-release injectable suspension for paliperidone were 43.8 ng/mL, 30.4 ng/mL and 953 day*ng/mL, respectively.
 
 Following intramuscular injection of a single dose of ERZOFRI 156 mg in the deltoid muscle, the geometric mean Cmax was approximately 43% higher compared with injections of 156 mg in the gluteal muscle.
 Following intramuscular injection of a single dose of ERZOFRI 351 mg in the deltoid muscle, the geometric mean Cmax was approximately 21% higher compared with injections of 351 mg in the gluteal muscle.
@@ -35,6 +35,8 @@ Over the dose range of 39 mg to 234 mg, the AUCinf after a single dose injection
 
 Following intramuscular injection of single doses (39 mg to 234 mg) of another PP1M in the deltoid muscle, on average, a 28% higher Cmax was observed compared with injection in the gluteal muscle.
 The mean steady-state peak:trough ratio for PP1M dose of 156 mg was 1.8 following gluteal administration and 2.2 following deltoid administration.
+
+Based on simulation, administration of 351 mg ERZOFRI every 6 weeks resulted in plasma paliperidone concentrations that were similar to those obtained with administration of 234 mg paliperidone palmitate monthly.
 
 Following administration of paliperidone palmitate, the (+) and (-) enantiomers of paliperidone interconvert, reaching an AUC (+) to (-) ratio of approximately 1.6 to 1.8.
 

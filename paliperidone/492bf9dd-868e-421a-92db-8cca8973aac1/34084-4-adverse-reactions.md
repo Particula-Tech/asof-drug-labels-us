@@ -54,9 +54,9 @@ During the double-blind, placebo-controlled period of that study, the percentage
 Dose-Related Adverse Reactions: Based on the pooled data from the four fixed-dose, double- blind, placebo-controlled trials in subjects with schizophrenia, among the adverse reactions that occurred with ≥ 2% incidence in the subjects treated with PP1M, only akathisia increased with dose.
 Hyperprolactinemia also exhibited a dose relationship, but did not occur at ≥ 2% incidence in PP1M-treated subjects from the four fixed-dose studies.
 
-Adverse Reactions Occurring at an Incidence of 2% or More in a once-a-month paliperidone palmitate extended-release injectable suspension-Treated Patients: Table 9 lists the adverse reactions reported in 2% or more of PP1M -treated subjects and at a greater proportion than in the placebo group with schizophrenia in the four fixed-dose, double-blind, placebo-controlled trials.
+Adverse Reactions Occurring at an Incidence of 2% or More in a once-a-month paliperidone palmitate extended-release injectable suspension-Treated Patients: Table 10 lists the adverse reactions reported in 2% or more of PP1M -treated subjects and at a greater proportion than in the placebo group with schizophrenia in the four fixed-dose, double-blind, placebo-controlled trials.
 
-Table 9: Incidences of Adverse Reactions 2% or More of a Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension-Treated Patients (and Greater than Placebo) with Schizophrenia in Four Fixed-Dose, Double-Blind, Placebo-Controlled Trials
+Table 10: Incidences of Adverse Reactions 2% or More of a Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension-Treated Patients (and Greater than Placebo) with Schizophrenia in Four Fixed-Dose, Double-Blind, Placebo-Controlled Trials
 
 | System Organ Class Adverse Reactions | PlaceboPlacebo group is pooled from all studies and included either deltoid or gluteal injection depending on study design. (N=510) | 39 mg (N=130) | 78 mg (N=302) | 156 mg (N=312) | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [see Clinical Studies (14.1)] (N=160) | 234/156 mg (N=165) | 234/234 mg (N=163) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -141,9 +141,9 @@ An examination of population subgroups in the double-blind placebo-controlled tr
 Extrapyramidal Symptoms (EPS)
 
 Pooled data from the two double-blind, placebo-controlled, 13-week, fixed-dose trials in adult subjects with schizophrenia provided information regarding EPS.
-Several methods were used to measure EPS: (1) the Simpson-Angus global score which broadly evaluates parkinsonism, (2) the Barnes Akathisia Rating Scale global clinical rating score which evaluates akathisia, (3) the Abnormal Involuntary Movement Scale scores which evaluates dyskinesia, and (4) use of anticholinergic medications to treat EPS (Table 10), and (5) incidence of spontaneous reports of EPS (Table 11).
+Several methods were used to measure EPS: (1) the Simpson-Angus global score which broadly evaluates parkinsonism, (2) the Barnes Akathisia Rating Scale global clinical rating score which evaluates akathisia, (3) the Abnormal Involuntary Movement Scale scores which evaluates dyskinesia, and (4) use of anticholinergic medications to treat EPS (Table 11), and (5) incidence of spontaneous reports of EPS (Table 12).
 
-Table 10: Extrapyramidal Symptoms (EPS) Assessed by Incidence of Rating Scales and Use of Anticholinergic Medication – Schizophrenia Studies in Adults
+Table 11: Extrapyramidal Symptoms (EPS) Assessed by Incidence of Rating Scales and Use of Anticholinergic Medication – Schizophrenia Studies in Adults
 
 | Scale | Placebo (N=262) | 39 mg (N=130) | 78 mg (N=223) | 156 mg (N=228) |
 | --- | --- | --- | --- | --- |
@@ -154,7 +154,7 @@ Table 10: Extrapyramidal Symptoms (EPS) Assessed by Incidence of Rating Scales a
 | DyskinesiaFor Dyskinesia, percent of subjects with a score ≥ 3 on any of the first 7 items or a score ≥ 2 on two or more of any of the first 7 items of the Abnormal Involuntary Movement Scale at endpoint | 3 | 4 | 6 | 4 |
 | Use of Anticholinergic MedicationsPercent of subjects who received anticholinergic medications to treat EPS | 12 | 10 | 12 | 11 |
 
-Table 11: Extrapyramidal Symptoms (EPS)-Related Events by MedDRA Preferred Term – Schizophrenia Studies in Adults
+Table 12: Extrapyramidal Symptoms (EPS)-Related Events by MedDRA Preferred Term – Schizophrenia Studies in Adults
 
 | EPS Group | Placebo (N=262) | 39 mg (N=130) | 78 mg (N=223) | 156 mg (N=228) |
 | --- | --- | --- | --- | --- |

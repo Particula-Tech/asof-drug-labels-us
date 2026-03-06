@@ -89,9 +89,9 @@ Any patient treated with atypical antipsychotics should be monitored for symptom
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
 
-Pooled data from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies of another PP1M in subjects with schizophrenia are presented in Table 4.
+Pooled data from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies of another PP1M in subjects with schizophrenia are presented in Table 5.
 
-Table 4: Change in Fasting Glucose from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
+Table 5: Change in Fasting Glucose from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
 
 |  | Placebo | 39 mg | 78 mg | 156 mg | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [see Clinical Studies (14.1)]. | 234/156 mg | 234/234 mg |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -112,9 +112,9 @@ Dyslipidemia
 
 Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics.
 
-Pooled data from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies of another PP1M in subjects with schizophrenia are presented in Table 5.
+Pooled data from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies of another PP1M in subjects with schizophrenia are presented in Table 6.
 
-Table 5: Change in Fasting Lipids from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
+Table 6: Change in Fasting Lipids from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
 
 |  | Placebo | 39 mg | 78 mg | 156 mg | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [see Clinical Studies (14.1)]. | 234/156 mg | 234/234 mg |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -138,9 +138,9 @@ Table 5: Change in Fasting Lipids from Four Placebo-Controlled, 9- to 13-Week, F
 | Triglycerides Normal to High | 3.6% | 6.1% | 9.2% | 7.2% | 1.3% | 3.7% | 10.7% |
 | (<150 mg/dL to ≥200 mg/dL) | (8/221) | (3/49) | (14/153) | (10/139) | (1/79) | (3/82) | (9/84) |
 
-In a long-term open-label pharmacokinetic and safety study in subjects with schizophrenia in which the highest maintenance dose available (234 mg) was evaluated, the mean changes from baseline in lipid values are presented in Table 6.
+In a long-term open-label pharmacokinetic and safety study in subjects with schizophrenia in which the highest maintenance dose available (234 mg) was evaluated, the mean changes from baseline in lipid values are presented in Table 7.
 
-Table 6: Change in Fasting Lipids from Long-term Open-label Pharmacokinetic and Safety Study in Subjects with Schizophrenia
+Table 7: Change in Fasting Lipids from Long-term Open-label Pharmacokinetic and Safety Study in Subjects with Schizophrenia
 
 |  | Week 29 | Week 53 |
 | --- | --- | --- |
@@ -155,9 +155,9 @@ Table 6: Change in Fasting Lipids from Long-term Open-label Pharmacokinetic and 
 | Triglycerides | n=112 | n=100 |
 | Change from baseline | 16.2 | 37.4 |
 
-The mean changes from baseline in lipid values during the initial 25-week open-label period and at the endpoint of the subsequent 15-month double-blind period in a long-term study of another PP1M in subjects with schizoaffective disorder are presented in Table 7.
+The mean changes from baseline in lipid values during the initial 25-week open-label period and at the endpoint of the subsequent 15-month double-blind period in a long-term study of another PP1M in subjects with schizoaffective disorder are presented in Table 8.
 
-Table 7: Change in Fasting Lipids from an Open-Label and Double-Blind Periods of a Long-Term Study in Subjects with Schizoaffective Disorder
+Table 8: Change in Fasting Lipids from an Open-Label and Double-Blind Periods of a Long-Term Study in Subjects with Schizoaffective Disorder
 
 |  | Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension | Placebo | Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension |
 | --- | --- | --- | --- |
@@ -177,9 +177,9 @@ Weight Gain
 Weight gain has been observed with atypical antipsychotic use.
 Clinical monitoring of weight is recommended.
 
-Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of ≥ 7% of body weight from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies of another PP1M in subjects with schizophrenia are presented in Table 8.
+Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of ≥ 7% of body weight from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies of another PP1M in subjects with schizophrenia are presented in Table 9.
 
-Table 8: Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
+Table 9: Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
 
 |  | Placebo n=451 | 39 mg n=116 | 78 mg n=280 | 156 mg n=267 | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [see Clinical Studies (14.1)]. n=137 | 234/156 mg n=144 | 234/234 mg n=145 |
 | --- | --- | --- | --- | --- | --- | --- | --- |

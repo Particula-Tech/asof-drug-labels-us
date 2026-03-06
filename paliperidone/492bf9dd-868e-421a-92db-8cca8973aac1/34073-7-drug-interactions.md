@@ -4,9 +4,9 @@
 
 Because paliperidone palmitate is hydrolyzed to paliperidone [see Clinical Pharmacology (12.3)], results from studies with oral paliperidone should be taken into consideration when assessing drug-drug interaction potential.
 
-Table 12 presents clinically significant drug interactions with ERZOFRI.
+Table 13 presents clinically significant drug interactions with ERZOFRI.
 
-Table 12: Clinically Important Drug Interactions with ERZOFRI
+Table 13: Clinically Important Drug Interactions with ERZOFRI
 
 | Centrally Acting Drugs and Alcohol |  |
 | --- | --- |
@@ -17,7 +17,7 @@ Table 12: Clinically Important Drug Interactions with ERZOFRI
 | Clinical Recommendation: | Monitor orthostatic vital signs in patients who are vulnerable to hypotension [see Warnings and Precautions (5.7)]. |
 | Strong Inducers of CYP3A4 and P-gp |  |
 | Clinical Rationale: | The concomitant use of paliperidone and strong inducers of CYP3A4 and P-gp may decrease the exposure of paliperidone [see Clinical Pharmacology (12.3)]. |
-| Clinical Recommendation: | Avoid using CYP3A4 and/or P-gp inducers with ERZOFRI during the 1-month dosing interval, if possible. If administering a strong inducer is necessary, consider managing the patient using paliperidone extended-release tablets [see Dosage and Administration (2.5)]. |
+| Clinical Recommendation: | Avoid using CYP3A4 and/or P-gp inducers with ERZOFRI during the dosing interval, if possible. If administering a strong inducer is necessary, consider managing the patient using paliperidone extended-release tablets [see Dosage and Administration (2.5)]. |
 | Levodopa and Other Dopamine Agonists |  |
 | Clinical Rationale: | Paliperidone may antagonize the effect of levodopa and other dopamine agonists. |
 | Clinical Recommendation: | Monitor and manage patient as clinically appropriate. |

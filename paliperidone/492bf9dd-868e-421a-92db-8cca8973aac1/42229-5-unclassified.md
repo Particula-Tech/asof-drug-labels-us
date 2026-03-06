@@ -10,4 +10,4 @@ Manufactured for: Luye Innomind Pharma Shijiazhuang Co., Ltd. Shijiazhuang, Hebe
 
 For patent information: www.luyeusa.com/patents
 
-© 2024 Luye Innomind Pharma Shijiazhuang Co., Ltd.
+© 2026 Luye Innomind Pharma Shijiazhuang Co., Ltd.

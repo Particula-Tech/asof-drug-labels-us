@@ -18,7 +18,7 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-In animal reproduction studies, there were no treatment related effects on the offspring when pregnant rats were injected intramuscularly with paliperidone palmitate during the period of organogenesis at doses up to 10 times the maximum recommended human dose (MRHD) of 234 mg paliperidone palmitate based on mg/m2 body surface area (BSA).
+In animal reproduction studies, there were no treatment related effects on the offspring when pregnant rats were injected intramuscularly with paliperidone palmitate during the period of organogenesis at doses up to 10 times the maximum recommended human dose (MRHD) of 234 mg paliperidone palmitate as a monthly maintenance dose based on mg/m2 body surface area (BSA).
 There were no increases in fetal abnormalities when pregnant rats and rabbits were treated orally with paliperidone during the period of organogenesis with up to 8 times the MRHD of 12 mg of paliperidone based on mg/m2 BSA.
 Additional reproduction toxicity studies were conducted with orally administered risperidone, which is extensively converted to paliperidone (see Animal data).
 

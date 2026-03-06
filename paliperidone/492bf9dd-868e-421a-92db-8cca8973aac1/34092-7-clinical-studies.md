@@ -21,9 +21,9 @@ In Study 3 (PSY-3004), a third 13-week study (n=513) comparing three fixed doses
 
 In Study 4 (SCH-201), the 9-week study (n=197) comparing two fixed doses of PP1M (78 mg/4 weeks and 156 mg/4 weeks) to placebo, both doses of PP1M were superior to placebo in improving PANSS total score.
 
-A summary of the mean baseline PANSS scores along with the mean changes from baseline in the four short-term acute schizophrenia studies are provided in Table 13.
+A summary of the mean baseline PANSS scores along with the mean changes from baseline in the four short-term acute schizophrenia studies are provided in Table 14.
 
-Table 13: Schizophrenia Short-term Studies
+Table 14: Schizophrenia Short-term Studies
 
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
@@ -77,7 +77,7 @@ The selection of the oral antipsychotic medication was determined to be appropri
 A statistically significantly longer time to first treatment failure was seen for PP1M compared with oral antipsychotic medications.
 The median time to treatment failure was 416 days and 226 days for PP1M and antipsychotic medications, respectively.
 A Kaplan-Meier plot of time to first treatment failure is shown in Figure 4.
-The frequencies of first treatment failure events by type are shown in Table 14.
+The frequencies of first treatment failure events by type are shown in Table 15.
 The time to first arrest and/or incarceration or psychiatric hospitalization was also statistically significantly longer for the PP1M group compared to the oral antipsychotic group.
 
 Figure 4: Kaplan-Meier Plot of Time to First Treatment Failure in a Long-Term, Randomized, Flexible-Dose Study in Subjects with Schizophrenia and a History of Incarceration (Schizophrenia Study 6)
@@ -85,7 +85,7 @@ Figure 4: Kaplan-Meier Plot of Time to First Treatment Failure in a Long-Term, R
 | * Median time to first treatment failure: 416 days with once-a-month paliperidone palmitate extended-release injectable suspension; 226 days with oral antipsychotics |
 | --- |
 
-Table 14: Components of Composite Endpoint in a Long-Term, Randomized, Flexible-Dose Study in Subjects with Schizophrenia and a History of Incarceration (Schizophrenia Study 6)
+Table 15: Components of Composite Endpoint in a Long-Term, Randomized, Flexible-Dose Study in Subjects with Schizophrenia and a History of Incarceration (Schizophrenia Study 6)
 
 | Event Type | Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension N=226 frequency (%) | Oral Antipsychotics N=218 frequency (%) | Hazard RatioHazard ratio of once-a-month paliperidone palmitate extended-release injectable suspension to Oral Antipsychotics based on Cox regression model for time-to-event analysis. Note that the hazard ratio did not appear constant throughout the trial. [95% CI] |
 | --- | --- | --- | --- |
@@ -127,9 +127,9 @@ A Kaplan-Meier plot of time to relapse by treatment group is shown in Figure 5.
 
 Figure 5: Kaplan-Meier Plot of Cumulative Proportion of Subjects with Relapse Over Time (SAff Study 1)
 
-Table 15 summarizes the number of subjects with relapse in the overall population, by subgroup (monotherapy versus adjunctive therapy), and by symptom type at the first occurrence of relapse.
+Table 16 summarizes the number of subjects with relapse in the overall population, by subgroup (monotherapy versus adjunctive therapy), and by symptom type at the first occurrence of relapse.
 
-Table 15: Summary of Relapse Rates (SAff Study 1).
+Table 16: Summary of Relapse Rates (SAff Study 1).
 
 |  | N=170 | N=164 |
 | --- | --- | --- |
