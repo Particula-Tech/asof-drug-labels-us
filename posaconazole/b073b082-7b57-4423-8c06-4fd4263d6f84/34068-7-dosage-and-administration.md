@@ -159,7 +159,7 @@ See Dosage and Administration (2.5) for the preparation instructions for the dil
 Important Administration Instructions for the Diluted Noxafil Infusion Solution
 
 - Must administer diluted Noxafil Infusion Solution through a 0.22-micron polyethersulfone (PES) or polyvinylidene difluoride (PVDF) filter.
-- Administer diluted Noxafil infusion solution via a central venous line, including a central venous catheter (CVC) or peripherally inserted central catheter (PICC), by slow intravenous infusion over approximately 90 minutes [see Adverse Reactions (6.1)]
+- Administer diluted Noxafil infusion solution via a central venous line, including a central venous catheter (CVC) or peripherally inserted central catheter (PICC), by slow intravenous infusion over approximately 90 minutes [see Adverse Reactions (6.1)].
 - If a CVC or PICC are not available, may administer diluted Noxafil solution once through a peripheral venous catheter by intravenous infusion over approximately 30 minutes to bridge the period during which a CVC or PICC are replaced, inserted, or unavailable for use (e.g., the CVC is being used for intravenous treatment with another product).
   However, do not administer diluted Noxafil infusion solution more than once via peripheral venous catheter because in clinical trials, multiple peripheral infusions given through the same vein resulted in infusion site reactions [see Adverse Reactions (6.1)].
 - When multiple dosing is required, the infusion should be done via a central venous line.
@@ -235,7 +235,8 @@ Preparation Instructions for Noxafil PowderMix for Delayed-Release Oral Suspensi
 - Remove cap from the mixing liquid and push the bottle adapter into the neck of the bottle.
   Once in place, the bottle adapter stays in the bottle.
 - Remove 9 mL of mixing liquid using the provided blue syringe.
-  Put the cap back on the bottle.Only use the mixing liquid in the kit to prepare Noxafil PowderMix.
+  Put the cap back on the bottle.
+  Only use the mixing liquid in the kit to prepare Noxafil PowderMix.
 - Using the provided mixing cup, combine 9 mL of mixing liquid and the entire contents of one packet in the Noxafil PowderMix kit and mix (containing 300 mg of posaconazole).
 - Shake the mixing cup vigorously for 45 seconds to mix the powder and mixing liquid from the Noxafil PowderMix kit.
   The final concentration of the reconstituted Noxafil PowderMix delayed-release suspension is approximately 30 mg/mL of posaconazole.
