@@ -2,13 +2,19 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
+Severe Cutaneous Adverse Reactions
+
+Inform patients that severe skin reactions including acute generalized exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS), toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), and erythema multiforme (EM) have been reported with valacyclovir.
+Advise patients to immediately contact their healthcare provider if they develop a rash.
+Instruct patients to immediately stop taking valacyclovir tablets and seek medical attention if a painful rash with mucosal involvement develops [see Contraindications (4), Warnings and Precautions (5.4), Adverse Reactions (6.3)].
+
 Importance of Adequate Hydration
 
 Patients should be advised to maintain adequate hydration.
 
 Missed Dose
 
-Instruct patients that if they miss a dose of valacyclovir hydrochloride, to take it as soon as they remember.
+Instruct patients that if they miss a dose of valacyclovir tablets, to take it as soon as they remember.
 Advise patients not to double their next dose or take more than the prescribed dose.
 
 Cold Sores (Herpes Labialis)
@@ -16,18 +22,18 @@ Cold Sores (Herpes Labialis)
 Patients should be advised to initiate treatment at the earliest symptom of a cold sore (e.g., tingling, itching, or burning).
 There are no data on the effectiveness of treatment initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle, or ulcer).
 Patients should be instructed that treatment for cold sores should not exceed 1 day (2 doses) and that their doses should be taken about 12 hours apart.
-Patients should be informed that valacyclovir hydrochloride is not a cure for cold sores.
+Patients should be informed that valacyclovir tablets are not a cure for cold sores.
 
 Genital Herpes
 
-Patients should be informed that valacyclovir hydrochloride is not a cure for genital herpes.
+Patients should be informed that valacyclovir tablets are not a cure for genital herpes.
 Because genital herpes is a sexually transmitted disease, patients should avoid contact with lesions or intercourse when lesions and/or symptoms are present to avoid infecting partners.
 Genital herpes is frequently transmitted in the absence of symptoms through asymptomatic viral shedding.
-Therefore, patients should be counseled to use safer sex practices in combination with suppressive therapy with valacyclovir hydrochloride.
+Therefore, patients should be counseled to use safer sex practices in combination with suppressive therapy with valacyclovir tablets.
 Sex partners of infected persons should be advised that they might be infected even if they have no symptoms.
 Type-specific serologic testing of asymptomatic partners of persons with genital herpes can determine whether risk for HSV-2 acquisition exists.
 
-Valacyclovir hydrochloride has not been shown to reduce transmission of sexually transmitted infections other than HSV-2.
+Valacyclovir tablets has not been shown to reduce transmission of sexually transmitted infections other than HSV-2.
 
 If medical management of a genital herpes recurrence is indicated, patients should be advised to initiate therapy at the first sign or symptom of an episode.
 
@@ -47,4 +53,5 @@ Patients should be advised to initiate treatment at the earliest sign or symptom
 
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
 Manufactured by: APL Healthcare Limited Unit-IV (MP SEZ), Tirupati (Dt)-524421 Andhra Pradesh, India.
-M.L.No.: 04/NLR/AP/2016/F/CC Revised: 09/2022
+
+M.L.No.: 04/NLR/AP/2016/F/CC Revised: 02/2026

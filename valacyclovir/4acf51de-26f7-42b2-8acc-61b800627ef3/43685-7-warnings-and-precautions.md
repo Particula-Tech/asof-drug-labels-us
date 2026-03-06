@@ -26,3 +26,10 @@ In the event of acute renal failure and anuria, the patient may benefit from hem
 Central nervous system adverse reactions, including agitation, hallucinations, confusion, delirium, seizures, and encephalopathy, have been reported in both adult and pediatric patients with or without reduced renal function and in patients with underlying renal disease who received higher-than-recommended doses of valacyclovir hydrochloride for their level of renal function.
 Elderly patients are more likely to have central nervous system adverse reactions.
 Valacyclovir hydrochloride should be discontinued if central nervous system adverse reactions occur [see Adverse Reactions (6.3), Use in Specific Populations (8.5, 8.6)].
+
+## 5.4 Severe Cutaneous Adverse Reactions
+
+Severe cutaneous adverse reactions (SCARs), including acute generalized exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN) have been reported during postmarketing experience with valacyclovir [see Contraindications (4) and Adverse Reactions (6.3)].
+Discontinue valacyclovir hydrochloride immediately if a painful rash with mucosal involvement or a progressive severe rash develops.
+Closely monitor clinical status and initiate appropriate therapy.
+Valacyclovir hydrochloride is contraindicated in patients who have developed SCARs with the use of valacyclovir or acyclovir, or any component of the formulation [see Contraindications (4), Adverse Reactions (6.3)].

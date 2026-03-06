@@ -5,6 +5,7 @@ The following serious adverse reactions are discussed in greater detail in other
 - Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome [see Warnings and Precautions (5.1)].
 - Acute Renal Failure [see Warnings and Precautions (5.2)].
 - Central Nervous System Effects [see Warnings and Precautions (5.3)].
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.4)].
 
 The most common adverse reactions reported in at least 1 indication by greater than 10% of adult subjects treated with valacyclovir hydrochloride and observed more frequently with valacyclovir hydrochloride compared with placebo are headache, nausea, and abdominal pain.
 The only adverse reaction reported in greater than 10% of pediatric subjects aged less than 18 years was headache.
@@ -89,6 +90,6 @@ Hematologic
 
 Thrombocytopenia, aplastic anemia, leukocytoclastic vasculitis, TTP/HUS [see Warnings and Precautions (5.1)].
 
-Skin
+Skin and Subcutaneous Tissue Disorders
 
-Erythema multiforme, rashes including photosensitivity, alopecia.
+Acute generalized exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS), toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), erythema multiforme (EM), rashes including photosensitivity, alopecia [see Contraindications (4), Warnings and Precautions (5.4)].
