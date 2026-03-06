@@ -32,7 +32,7 @@ No similar fetal effects were observed in pregnant rabbits dosed orally during o
 
 Both total and ionized calcium decreased in pregnant rats dosed orally with 15 mg/kg/day alendronate (approximately 4 times the 40 mg clinical daily dose) resulting in delays and failures of delivery.
 Protracted parturition due to maternal hypocalcemia was observed when rats were treated from before mating through gestation starting at 0.5 mg/kg/day (approximately one tenth the 40 mg clinical daily dose).
-Maternotoxicity (late pregnancy deaths) also occurred in the female rats treated orally with 15 mg/kg/day (approximately 4 times the 40 mg clinical daily dose) for varying gestational time periods.
+Maternotoxicity (late pregnancy deaths) also occurred in female rats treated orally with 15 mg/kg/day (approximately 4 times the 40 mg clinical daily dose) for varying gestational time periods.
 These maternal deaths were lessened but not eliminated by cessation of treatment.
 Calcium supplementation in the drinking water or by subcutaneous minipump to rats dosed orally with 15 mg/kg/day alendronate could not ameliorate the hypocalcemia or prevent the dystocia-related maternal and neonatal deaths.
 However, intravenous calcium supplementation prevented maternal, but not neonatal deaths.

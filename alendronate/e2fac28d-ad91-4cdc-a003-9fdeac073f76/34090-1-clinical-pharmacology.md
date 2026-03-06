@@ -25,7 +25,7 @@ The diagnosis can be confirmed by the finding of low bone mass, evidence of frac
 Osteoporosis occurs in both males and females but is most common among women following the menopause, when bone turnover increases and the rate of bone resorption exceeds that of bone formation.
 These changes result in progressive bone loss and lead to osteoporosis in a significant proportion of women over age 50.
 Fractures, usually of the spine, hip, and wrist, are the common consequences.
-From age 50 to age 90, the risk of hip fracture in white women increases 50-fold and the risk of vertebral fracture 15-to 30-fold.
+From age 50 to age 90, the risk of hip fracture in white women increases 50-fold and the risk of vertebral fracture 15- to 30-fold.
 It is estimated that approximately 40% of 50-year-old women will sustain one or more osteoporosis-related fractures of the spine, hip, or wrist during their remaining lifetimes.
 Hip fractures, in particular, are associated with substantial morbidity, disability, and mortality.
 

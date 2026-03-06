@@ -234,7 +234,7 @@ At six months the suppression in alkaline phosphatase in patients treated with a
 Response (defined as either normalization of serum alkaline phosphatase or decrease from baseline greater than or equal to 60%) occurred in approximately 85% of patients treated with alendronate sodium in the combined studies vs. 30% in the etidronate group and 0% in the placebo group.
 Alendronate sodium was similarly effective regardless of age, gender, race, prior use of other bisphosphonates, or baseline alkaline phosphatase within the range studied (at least twice the upper limit of normal).
 
-Bone histology was evaluated in 33 patients with Paget's disease treated with alendronate sodium40 mg/day for 6 months.
+Bone histology was evaluated in 33 patients with Paget's disease treated with alendronate sodium 40 mg/day for 6 months.
 As in patients treated for osteoporosis [see Clinical Studies (14.1)], alendronate sodium did not impair mineralization, and the expected decrease in the rate of bone turnover was observed.
 Normal lamellar bone was produced during treatment with alendronate sodium, even where preexisting bone was woven and disorganized.
 Overall, bone histology data support the conclusion that bone formed during treatment with alendronate sodium is of normal quality.

@@ -1,5 +1,16 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse drug reactions are described elsewhere in the labeling:
+
+- Upper Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.1)
+- Mineral Metabolism [see Warnings and Precautions (5.2)]
+- Musculoskeletal Pain [see Warnings and Precautions (5.3)]
+
+- Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
+- Atypical Fractures Including Femoral Fractures [see Warnings and Precautions (5.5)]
+- Renal Impairment [see Warnings and Precautions (5.6)]
+- Glucocorticoid-Induced Osteoporosis [see Warnings and Precautions (5.7)]
+
 ## 6.1 Clinical trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
@@ -140,8 +151,7 @@ Glucocorticoid-Induced Osteoporosis
 In two, one-year, placebo-controlled, double-blind, multicenter studies in patients receiving glucocorticoid treatment, the overall safety and tolerability profiles of alendronate sodium 5 and 10 mg/day were generally similar to that of placebo.
 The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients treated with either alendronate sodium 5 or 10 mg/day or placebo are presented in TABLE 5.
 
-Table 5.
-One-Year Studies in Glucocorticoid -Treated Patients Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
+Table 5: One-Year Studies in Glucocorticoid -Treated Patients Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
 
 |  | Alendronate 10 mg/day %(n=157) | Alendronate 5 mg/day %(n=161) | Placebo %(n=159) |
 | --- | --- | --- | --- |
@@ -168,7 +178,7 @@ Discontinuation of therapy due to any clinical adverse events occurred in 6.4% o
 
 ## 6.2 Post-Marketing Experience
 
-The following adverse reactions have been identified during post-approval use of alendronate sodium.
+The following adverse reactions have been identified during post-approval use of alendronate sodium or bisphosphonate products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a Whole: hypersensitivity reactions including urticaria and angioedema.
@@ -181,7 +191,7 @@ Gastric or duodenal ulcers, some severe and with complications, have also been r
 
 Localized osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection with delayed healing, has been reported [see Warnings and Precautions (5.4)].
 
-Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and incapacitating [see Warnings and Precautions (5.3)]; joint swelling; low-energy femoral shaft and subtrochanteric fractures [see Warnings and Precautions (5.5)].
+Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and incapacitating [see Warnings and Precautions (5.3)]; joint swelling; low-energy femoral shaft and subtrochanteric fractures, and atypical fractures of other bones [see Warnings and Precautions (5.5)].
 
 Nervous System: dizziness and vertigo.
 

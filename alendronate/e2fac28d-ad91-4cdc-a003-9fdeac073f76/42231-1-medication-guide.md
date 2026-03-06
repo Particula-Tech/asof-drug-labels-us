@@ -17,7 +17,7 @@ Alendronate sodium tablets, USP can cause serious side effects including:
 - Low calcium levels in your blood (hypocalcemia)
 - Bone, joint, or muscle pain
 - Severe jaw bone problems (osteonecrosis)
-- Unusual thigh bone fractures
+- Unusual breaks in thigh and other bones
 
 1.
 Esophagus problems.
@@ -58,10 +58,11 @@ Your doctor may tell you to see your dentist before you start alendronate sodium
 It is important for you to practice good mouth care during treatment with alendronate sodium tablets, USP.
 
 5.
-Unusual thigh bone fractures.
+Unusual breaks in thigh and other bones.
 
-Some people have developed unusual fractures in their thigh bone.
-Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
+Some people have had unusual bone breaks, including thigh bone when taking alendronate sodium tablets, USP.
+A break in the thigh bone can feel like a new pain in your hip, groin, or thigh.
+People taking alendronate sodium tablets, USP can also have breaks in other bones.
 
 Call your doctor right away if you have any of these side effects.
 
@@ -113,7 +114,7 @@ Especially tell your doctor if you take:
 - Nonsteroidal Anti-Inflammatory (NSAID) medicines
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Certain medicines may affect how alendronate sodium tablets, USP work.
+Certain medicines may affect how alendronate sodium tablets, USP works.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist each time you get a new medicine.
@@ -199,7 +200,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about alendronate sodium tablets, USP.
 If you would like more information, talk with your doctor.
 
-You can ask your doctor or pharmacist for information about alendronate sodium tablets, USP that is written for health professionals or you can call 1-866-604-3268.
+You can ask your doctor or pharmacist for information about alendronate sodium tablets, USP that is written for health professionals.
 
 What are the ingredients in alendronate sodium tablets, USP?
 
@@ -223,4 +224,4 @@ Cipla USA, Inc.
 
 Warren, NJ 07059
 
-Revised: 06/2025
+Revised: 02/2026
