@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA220232"
+  ],
+  "inn": "rilpivirine",
+  "labeler": "Laurus Labs Limited",
+  "package_ndcs": [
+    "42385-801-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "emtricitabine, rilpivirine and tenofovir disoproxil fumarate",
+      "name": "emtricitabine, rilpivirine and tenofovir disoproxil fumarate"
+    }
+  ],
+  "setid": "7193c90e-456c-4cfb-8181-65a1618dae51",
+  "source": "dailymed"
+}
