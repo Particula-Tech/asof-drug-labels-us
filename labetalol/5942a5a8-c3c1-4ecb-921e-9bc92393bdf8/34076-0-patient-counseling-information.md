@@ -7,6 +7,9 @@ While no incident of the abrupt withdrawal phenomenon (exacerbation of angina pe
 Patients being treated with labetalol hydrochloride tablets should consult a physician at any signs or symptoms of impending cardiac failure or hepatic dysfunction (see WARNINGS).
 Also, transient scalp tingling may occur, usually when treatment with labetalol hydrochloride tablets is initiated (see ADVERSE REACTIONS).
 
+Inform patients or caregivers that there is a risk of hypoglycemia when labetalol hydrochloride tablets are given to patients who are fasting or who are vomiting.
+Monitor for symptoms of hypoglycemia (see WARNINGS).
+
 Laboratory Tests
 
 As with any new drug given over prolonged periods, laboratory parameters should be observed over regular intervals.

@@ -43,11 +43,10 @@ It is prudent, if labetalol hydrochloride tablets are used, to use the smallest 
 Labetalol hydrochloride has been shown to be effective in lowering blood pressure and relieving symptoms in patients with pheochromocytoma.
 However, paradoxical hypertensive responses have been reported in a few patients with this tumor; therefore, use caution when administering labetalol hydrochloride to patients with pheochromocytoma.
 
-## Diabetes Mellitus and Hypoglycemia
+## Hypoglycemia
 
-Beta-adrenergic blockade may prevent the appearance of premonitory signs and symptoms (e.g. tachycardia) of acute hypoglycemia.
-This is especially important with labile diabetics.
-Beta-blockade also reduces the release of insulin in response to hyperglycemia; it may therefore be necessary to adjust the dose of antidiabetic drugs.
+Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
 
 ## Major Surgery
 
