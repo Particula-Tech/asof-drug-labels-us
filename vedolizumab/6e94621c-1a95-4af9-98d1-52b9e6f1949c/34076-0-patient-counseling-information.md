@@ -9,7 +9,7 @@ Instruct patients to report immediately if they experience symptoms consistent w
 Infections
 
 Inform patients that they may be more likely to develop infections when taking ENTYVIO.
-Instruct patients to tell their healthcare provider if they develop any signs or symptoms of an infection [see Warnings and Precautions (5.2)].
+Instruct patients to tell their healthcare provider if they develop any symptoms of an infection [see Warnings and Precautions (5.2)].
 
 Progressive Multifocal Leukoencephalopathy
 

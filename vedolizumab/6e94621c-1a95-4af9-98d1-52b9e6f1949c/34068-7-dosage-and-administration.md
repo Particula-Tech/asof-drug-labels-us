@@ -2,7 +2,10 @@
 
 ## 2.1 Important Administration Information
 
-Before initiating ENTYVIO, update immunizations according to current immunization guidelines [see Warnings and Precautions (5.5)].
+Before Initiating ENTYVIO
+
+- Consider evaluating patients for tuberculosis (TB) infection prior to initiating treatment with ENTYVIO [see Warnings and Precautions (5.2)].
+- Update immunizations according to current immunization guidelines [see Warnings and Precautions (5.5)].
 
 Intravenous Administration
 

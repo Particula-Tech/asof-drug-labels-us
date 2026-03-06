@@ -4,7 +4,7 @@ How Supplied
 
 Intravenous Infusion
 
-ENTYVIO® (vedolizumab) for injection for intravenous infusion is supplied in sterile single-dose glass vials, containing 300 mg of vedolizumab as a white to off-white lyophilized cake.
+ENTYVIO (vedolizumab) for injection for intravenous infusion is supplied in sterile single-dose glass vials, containing 300 mg of vedolizumab as a white to off-white lyophilized cake.
 
 - ENTYVIO: 300 mg single-dose vial in individual carton: NDC 64764-300-20
 

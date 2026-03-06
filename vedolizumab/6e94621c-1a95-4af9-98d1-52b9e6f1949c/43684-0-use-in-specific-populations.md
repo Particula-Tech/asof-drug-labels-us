@@ -22,7 +22,7 @@ Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestatio
 
 Fetal/Neonatal Adverse Reactions
 
-ENTYVIO administered during pregnancy could affect immune responses in the in utero exposed newborn and infant.
+ENTYVIO administered during pregnancy could affect immune responses in the in utero-exposed newborn and infant.
 The clinical significance of low levels of ENTYVIO in utero-exposed infants is unknown.
 The safety of administering live or live-attenuated vaccines in exposed infants is unknown.
 

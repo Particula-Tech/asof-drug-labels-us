@@ -10,14 +10,22 @@ If anaphylaxis or other serious infusion-related or hypersensitivity reactions o
 ## 5.2 Infections
 
 Patients treated with ENTYVIO are at increased risk for developing infections [see Adverse Reactions (6.1)].
-The most commonly reported infections in clinical trials occurring at a rate greater on ENTYVIO than placebo involved the upper respiratory and nasal mucosa (e.g., nasopharyngitis, upper respiratory tract infection).
-Serious infections have also been reported in patients treated with ENTYVIO, including anal abscess, sepsis (some fatal), tuberculosis, salmonella sepsis, Listeria meningitis, giardiasis and cytomegaloviral colitis.
+Serious infections reported in clinical trials include anal abscess, sepsis (some fatal), tuberculosis (TB), salmonella sepsis, Listeria meningitis, giardiasis, and cytomegaloviral colitis.
+Postmarketing cases of systemic bacterial, fungal, viral, and parasitic opportunistic infections have been reported.
 
-ENTYVIO is not recommended in patients with active, severe infections until the infections are controlled.
-Consider withholding treatment in patients who develop a severe infection while on treatment with ENTYVIO.
-Exercise caution when considering the use of ENTYVIO in patients with a history of recurring severe infections.
-Consider screening for tuberculosis (TB) according to the local practice.
-For progressive multifocal leukoencephalopathy (PML), [see Warnings and Precautions (5.3)].
+Treatment with ENTYVIO should not be initiated in patients with a clinically important active infection until the infection resolves or is adequately treated.
+In patients with a chronic infection or a history of recurrent infection, consider the risks and benefits prior to prescribing ENTYVIO.
+During treatment with ENTYVIO, instruct patients to seek medical advice if signs or symptoms of clinically important acute or chronic infection occur.
+If a serious infection develops or an infection is not responding to standard therapy, monitor the patient closely.
+ENTYVIO should not be administered until the infection resolves.
+
+Tuberculosis
+
+Consider evaluating patients for TB infection prior to initiating treatment with ENTYVIO.
+Treatment with Entyvio should not be administered to patients with active TB infection.
+Initiate treatment of latent TB prior to administering ENTYVIO.
+Consider anti-TB therapy prior to initiation of ENTYVIO in patients with a past history of latent or active TB in whom an adequate course of treatment cannot be confirmed.
+Monitor patients for signs and symptoms of active TB during and after ENTYVIO treatment.
 
 ## 5.3 Progressive Multifocal Leukoencephalopathy
 
@@ -37,7 +45,7 @@ There have been reports of elevations of transaminase and/or bilirubin in patien
 In general, the combination of transaminase elevations and elevated bilirubin without evidence of obstruction is generally recognized as an important predictor of severe liver injury that may lead to death or the need for a liver transplant in some patients.
 ENTYVIO should be discontinued in patients with jaundice or other evidence of significant liver injury [see Adverse Reactions (6.1)].
 
-## 5.5 Live and Oral Vaccines
+## 5.5 Immunizations
 
 Prior to initiating treatment with ENTYVIO, all patients should be brought up to date with all immunizations according to current immunization guidelines [see Dosage and Administration (2.1)].
 Patients receiving ENTYVIO may receive non-live vaccines (e.g., influenza vaccine injection) and may receive live vaccines if the benefits outweigh the risks.
