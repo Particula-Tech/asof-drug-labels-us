@@ -2,55 +2,39 @@ Principal Display Panel – Dextenza 1 ct Box Label
 
 NDC 70382-204-01
 
-0.4 mg insert
+0.4 mg insert 1 insert
 
-1 insert
+Dextenza®
 
-Dextenza ®
-
-(dexamethasone ophthalmic insert) 0.4mg
-
-for intracanalicular use
+(dexamethasone ophthalmic insert) 0.4mg for intracanalicular use
 
 Rx only
 
-Ocular
-
-Therapeutix™
+OCULAR THERAPEUTIX
 
 Principal Display Panel – Dextenza 10 ct Box Label
 
 NDC 70382-204-10
 
-0.4 mg insert
+0.4 mg insert 10 inserts
 
-10 inserts
+Dextenza®
 
-Dextenza ®
-
-(dexamethasone ophthalmic insert) 0.4mg
-
-for intracanalicular use
+(dexamethasone ophthalmic insert) 0.4mg for intracanalicular use
 
 Rx only
 
-Ocular
-
-Therapeutix™
+OCULAR THERAPEUTIX
 
 Principal Display Panel – Dextenza Sample 1 ct Box Label
 
 NDC 70382-204-99
 
-0.4 mg insert
+0.4 mg insert 1 insert
 
-1 inserts
+Dextenza®
 
-Dextenza ®
-
-(dexamethasone ophthalmic insert) 0.4mg
-
-for intracanalicular use
+(dexamethasone ophthalmic insert) 0.4mg for intracanalicular use
 
 Rx only
 
@@ -60,11 +44,9 @@ Not for resale.
 
 US Patent Nos.
 
-7,648,713 8,409,606 8,563,027 9,254,267
+8,409,606; 8,563,027; 11,458041; 12,144,889; 12,150,896
 
-Ocular
-
-Therapeutix™
+OCULAR THERAPEUTIX
 
 Principal Display Panel – Dextenza Pouch Label
 
