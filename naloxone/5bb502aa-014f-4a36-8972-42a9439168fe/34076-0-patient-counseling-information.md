@@ -45,4 +45,4 @@ Manufactured for: Scienture, LLC, Commack, NY 11725
 513201
 
 Rev.
-02/2026
+03/2026
