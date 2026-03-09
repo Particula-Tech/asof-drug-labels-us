@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA220201"
+  ],
+  "inn": "fluorouracil",
+  "labeler": "Avyxa Pharma, LLC",
+  "package_ndcs": [
+    "83831-143-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "fluorouracil",
+      "name": "FAVLYXA"
+    }
+  ],
+  "setid": "1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b",
+  "source": "dailymed"
+}
