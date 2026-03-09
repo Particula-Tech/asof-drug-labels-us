@@ -92,7 +92,9 @@ General disorders and administration site conditions: pain
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of meropenem, a component of VABOMERE.
+The following adverse reactions have been identified during post approval use of meropenem, a component of VABOMERE, or with VABOMERE.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Musculoskeletal Disorders: rhabdomyolysis
+
+Hepatobiliary Disorders: drug-induced liver injury (DILI), including hepatitis and liver failure

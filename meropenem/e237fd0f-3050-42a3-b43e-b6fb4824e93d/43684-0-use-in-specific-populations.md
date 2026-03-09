@@ -53,7 +53,7 @@ No information is available on the effects of meropenem and vaborbactam on the b
 
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for VABOMERE and any potential adverse effects on the breast-fed child from VABOMERE or from the underlying maternal condition.
 
-## 8.3 Females and Males of Childbearing Potential
+## 8.3 Females and Males of Reproductive Potential
 
 Use of VABOMERE may reduce the effectiveness of hormonal contraceptives.
 Advise patients taking hormonal contraceptives to use an effective alternative non-hormonal contraception or additional contraceptive method (e.g., barrier method of contraception) during treatment with VABOMERE [see Drug Interactions (7.4)].
