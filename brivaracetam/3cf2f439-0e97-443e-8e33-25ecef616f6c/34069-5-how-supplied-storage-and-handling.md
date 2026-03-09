@@ -56,7 +56,6 @@ BRIVIACT Injection
 
 Store at 25°C (77°F); excursions permitted between 15°C to 30°C (59°F to 86°F).
 See USP Controlled Room Temperature.
-
 Do not freeze BRIVIACT injection or oral solution.
 
 Discard any unused BRIVIACT oral solution remaining after 5 months of first opening the bottle.

@@ -55,9 +55,10 @@ Preparation
 
 BRIVIACT injection can be administered intravenously without further dilution or may be mixed with diluents listed below.
 
-Diluents
-
-0.9% Sodium Chloride injection, USP Lactated Ringer's injection 5% Dextrose injection, USP
+- Diluents
+- 0.9% Sodium Chloride injection, USP
+- Lactated Ringer's injection
+- 5% Dextrose injection, USP
 
 Administration
 
@@ -74,7 +75,7 @@ Discard any unused portion of the BRIVIACT injection vial contents.
 
 ## 2.4 Discontinuation of BRIVIACT
 
-Avoid abrupt withdrawal from BRIVIACT in order to minimize the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.6)and Clinical Studies (14)].
+Avoid abrupt withdrawal from BRIVIACT in order to minimize the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.5)andClinical Studies (14)].
 
 ## 2.5 Patients with Hepatic Impairment
 
