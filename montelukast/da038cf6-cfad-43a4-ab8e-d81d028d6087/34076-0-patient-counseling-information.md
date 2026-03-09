@@ -15,6 +15,7 @@ Daily administration of montelukast sodium for the chronic treatment of asthma h
 Manufactured by:
 
 Torrent Pharmaceuticals LTD., India.
+
 Manufactured for: Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8101032 Revised: May 2025
+8107163 Revised: January 2026
