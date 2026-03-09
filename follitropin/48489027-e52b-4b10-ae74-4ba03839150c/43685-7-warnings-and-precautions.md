@@ -1,19 +1,19 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-Follistim AQ Cartridge should be used only by physicians who are experienced in infertility treatment.
-Follistim AQ Cartridge contains a potent gonadotropic substance capable of causing Ovarian Hyperstimulation Syndrome (OHSS) [see Warnings and Precautions (5.2)] with or without pulmonary or vascular complications [see Warnings and Precautions (5.3)] and multiple births [see Warnings and Precautions (5.5)].
+FOLLISTIM AQ Cartridge should be used only by physicians who are experienced in infertility treatment.
+FOLLISTIM AQ Cartridge contains a potent gonadotropic substance capable of causing Ovarian Hyperstimulation Syndrome (OHSS) [see Warnings and Precautions (5.2)] with or without pulmonary or vascular complications [see Warnings and Precautions (5.3)] and multiple births [see Warnings and Precautions (5.5)].
 Gonadotropin therapy requires the availability of appropriate monitoring facilities [see Warnings and Precautions (5.10)].
 
-Careful attention should be given to the diagnosis of infertility and in the selection of candidates for Follistim AQ Cartridge therapy [see Indications and Usage (1.1, 1.2, 1.3) and Dosage and Administration (2.2, 2.3, 2.4)].
+Careful attention should be given to the diagnosis of infertility and in the selection of candidates for FOLLISTIM AQ Cartridge therapy [see Indications and Usage (1.1, 1.2, 1.3) and Dosage and Administration (2.2, 2.3, 2.4)].
 
-Switching to Follistim AQ Cartridge from other brands (manufacturer), types (recombinant, urinary), and/or methods of administration (Follistim Pen, conventional syringe) may necessitate an adjustment of the dose [see Dosage and Administration (2)].
+Switching to FOLLISTIM AQ Cartridge from other brands (manufacturer), types (recombinant, urinary), and/or methods of administration (FOLLISTIM Pen, conventional syringe) may necessitate an adjustment of the dose [see Dosage and Administration (2)].
 
 ## 5.1 Abnormal Ovarian Enlargement
 
-In order to minimize the hazards associated with abnormal ovarian enlargement that may occur with Follistim AQ therapy, treatment should be individualized and the lowest effective dose should be used [see Dosage and Administration (2.2, 2.3)].
+In order to minimize the hazards associated with abnormal ovarian enlargement that may occur with FOLLISTIM AQ therapy, treatment should be individualized and the lowest effective dose should be used [see Dosage and Administration (2.2, 2.3)].
 Use of ultrasound monitoring of ovarian response and/or measurement of serum estradiol levels is important to minimize the risk of overstimulation [see Warnings and Precautions (5.8)].
 
-If the ovaries are abnormally enlarged on the last day of Follistim AQ therapy, hCG should not be administered in order to reduce the chances of developing Ovarian Hyperstimulation Syndrome (OHSS).
+If the ovaries are abnormally enlarged on the last day of FOLLISTIM AQ therapy, hCG should not be administered in order to reduce the chances of developing Ovarian Hyperstimulation Syndrome (OHSS).
 Intercourse should be prohibited in patients with significant ovarian enlargement after ovulation because of the danger of hemoperitoneum resulting from ruptured ovarian cysts [see Warnings and Precautions (5.3)].
 
 ## 5.2 Ovarian Hyperstimulation Syndrome (OHSS)
@@ -52,7 +52,7 @@ The ascitic, pleural, and pericardial fluid should not be removed unless there i
 Pelvic examination may cause rupture of an ovarian cyst, which may result in hemoperitoneum, and should therefore be avoided.
 If bleeding occurs and requires surgical intervention, the clinical objective should be to control the bleeding and retain as much ovarian tissue as possible.
 
-During clinical trials with Follistim or Follistim AQ Cartridge therapy, OHSS occurred in 7.6% of 105 women (OI) and 6.4% of 751 women (IVF or ICSI) treated with Follistim and Follistim AQ Cartridge, respectively.
+During clinical trials with FOLLISTIM or FOLLISTIM AQ Cartridge therapy, OHSS occurred in 7.6% of 105 women (OI) and 6.4% of 751 women (IVF or ICSI) treated with FOLLISTIM and FOLLISTIM AQ Cartridge, respectively.
 
 ## 5.3 Pulmonary and Vascular Complications
 
@@ -67,13 +67,13 @@ It should be noted that pregnancy itself also carries an increased risk of throm
 
 ## 5.4 Ovarian Torsion
 
-Ovarian torsion has been reported after treatment with Follistim AQ Cartridge and after intervention with other gonadotropins.
+Ovarian torsion has been reported after treatment with FOLLISTIM AQ Cartridge and after intervention with other gonadotropins.
 This may be related to OHSS, pregnancy, previous abdominal surgery, past history of ovarian torsion, previous or current ovarian cyst and polycystic ovaries.
 Damage to the ovary due to reduced blood supply can be limited by early diagnosis and immediate detorsion.
 
 ## 5.5 Multi-fetal Gestation and Birth
 
-Multi-fetal gestation and births have been reported with all gonadotropin treatments including Follistim AQ Cartridge treatment.
+Multi-fetal gestation and births have been reported with all gonadotropin treatments including FOLLISTIM AQ Cartridge treatment.
 The woman and her partner should be advised of the potential risk of multi-fetal gestation and births before starting treatment.
 
 ## 5.6 Congenital Anomalies
@@ -101,8 +101,8 @@ There have been infrequent reports of ovarian neoplasms, both benign and maligna
 
 For Women:
 
-In most instances, treatment with Follistim AQ Cartridge will result only in follicular growth and maturation.
-In order to complete the final phase of follicular maturation and to induce ovulation, hCG must be given following the administration of Follistim AQ Cartridge or when clinical assessment indicates that sufficient follicular maturation has occurred.
+In most instances, treatment with FOLLISTIM AQ Cartridge will result only in follicular growth and maturation.
+In order to complete the final phase of follicular maturation and to induce ovulation, hCG must be given following the administration of FOLLISTIM AQ Cartridge or when clinical assessment indicates that sufficient follicular maturation has occurred.
 The degree of follicular maturation and the timing of hCG administration can both be determined with the use of sonographic visualization of the ovaries and endometrial lining in conjunction with measurement of serum estradiol levels.
 The combination of transvaginal ultrasonography and measurement of serum estradiol levels is also useful for minimizing the risk of OHSS and multi-fetal gestations.
 
@@ -130,7 +130,7 @@ Clinical monitoring for spermatogenesis utilizes the following indirect or direc
 - Serum testosterone level
 - Semen analysis
 
-## 5.11 Follistim Pen
+## 5.11 FOLLISTIM Pen
 
-The Follistim Pen is intended only for use with Follistim AQ Cartridge.
-The Follistim Pen is not recommended for the blind or visually impaired without the assistance of an individual with good vision who is trained in the proper use of the injection device.
+The FOLLISTIM Pen is intended only for use with FOLLISTIM AQ Cartridge.
+The FOLLISTIM Pen is not recommended for the blind or visually impaired without the assistance of an individual with good vision who is trained in the proper use of the injection device.

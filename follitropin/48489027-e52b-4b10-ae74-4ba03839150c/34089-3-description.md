@@ -5,7 +5,7 @@ It has a dimeric structure containing two glycoprotein subunits (alpha and beta)
 The alpha and beta subunits have 92 and 111 amino acids, respectively, and their primary and tertiary structures are indistinguishable from that of hFSH.
 The molecular weight is approximately 40 kDa.
 
-Follistim AQ Cartridge (follitropin beta) injection is a sterile clear and colorless solution, containing either 300 International Units, 600 International Units, or 900 International Units of follitropin beta in disposable single-patient-use cartridges for subcutaneous use only with the Follistim Pen.
+FOLLISTIM AQ Cartridge (follitropin beta) injection is a sterile clear and colorless solution, containing either 300 International Units, 600 International Units, or 900 International Units of follitropin beta in disposable single-patient-use cartridges for subcutaneous use only with the FOLLISTIM Pen.
 
 Each cartridge delivers 300 International Units in 0.36 mL and the inactive ingredients: benzyl alcohol (3.6 mg; preservative), methionine (0.18 mg), polysorbate 20 (0.072 mg), sodium citrate (4.64 mg), sucrose (18 mg), and Water for Injection USP.
 Hydrochloric acid NF and/or sodium hydroxide NF are used to adjust the pH to 7.
@@ -16,4 +16,4 @@ Hydrochloric acid NF and/or sodium hydroxide NF are used to adjust the pH to 7.
 Each cartridge delivers 900 International Units in 1.08 mL and the inactive ingredients: benzyl alcohol (10.8 mg; preservative), methionine (0.54 mg), polysorbate 20 (0.216 mg), sodium citrate (13.9 mg), sucrose (54 mg), and Water for Injection USP.
 Hydrochloric acid NF and/or sodium hydroxide NF are used to adjust the pH to 7.
 
-Under current storage conditions, Follistim AQ may contain up to 11% of oxidized follitropin beta.
+Under current storage conditions, FOLLISTIM AQ may contain up to 11% of oxidized follitropin beta.

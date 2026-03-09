@@ -4,27 +4,13 @@ BD, BD Logo and BD Micro-Fine are trademarks of Becton, Dickinson and Company.
 
 For patent information: www.organon.com/our-solutions/patent/
 
-© 2023 Organon group of companies.
+© 2026 Organon group of companies.
 All rights reserved.
 
-uspi-og8328-SOi-2307r000
+uspi-og8328-SOi-2602r001
 
-Manufactured by: Organon USA LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA U.S. License No. 2331
-
-BD, BD Logo and BD Micro-Fine are trademarks of Becton, Dickinson and Company.
-
-For patent information: www.organon.com/our-solutions/patent/
-
-© 2024 Organon group of companies.
-All rights reserved.
-
-Revised: 2/2024
-
-usppi-og8328-SOi-2402r001
-
-INSTRUCTIONS FOR USE
-
-FOLLISTIM® (Fol΄-lis-tim) AQ Cartridge (follitropin beta) injection, for subcutaneous use
+| INSTRUCTIONS FOR USE FOLLISTIM® (Fol΄-lis-tim) AQ Cartridge (follitropin beta) injection, for subcutaneous use |
+| --- |
 
 Read this Instructions for Use before you start using FOLLISTIM® AQ Cartridge and each time you get a refill.
 There may be new information.
@@ -319,4 +305,4 @@ All rights reserved.
 
 This Instructions for Use was approved by the U.S. Food and Drug Administration Revised: February 2024
 
-usppi-og8328-SOi-2402r001
+usppi-og8328-SOi-2602r002
