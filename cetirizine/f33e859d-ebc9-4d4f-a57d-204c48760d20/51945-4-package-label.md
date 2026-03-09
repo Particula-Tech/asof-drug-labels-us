@@ -2,7 +2,7 @@ Principal Display Panel – Carton Label
 
 NDC 70720-100-25
 
-Quzyttir™
+Quzyttir®
 
 Cetirizine HCl Injection
 
@@ -24,7 +24,7 @@ Principal Display Panel – Carton Label
 
 NDC 70720-100-10 Rx only
 
-Quzyttir™
+Quzyttir®
 
 Cetirizine HCl Injection
 
@@ -40,7 +40,7 @@ Principal Display Panel – Vial Label
 
 NDC 70720-100-01
 
-Quzyttir™
+Quzyttir®
 
 Cetirizine HCl Injection
 
