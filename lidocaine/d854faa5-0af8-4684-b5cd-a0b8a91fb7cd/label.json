@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021717"
+  ],
+  "inn": "lidocaine",
+  "labeler": "IPG PHARMACEUTICALS, INC.",
+  "package_ndcs": [
+    "71085-100-30"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "lidocaine and tetracaine",
+      "name": "PLIAGLIS"
+    }
+  ],
+  "setid": "d854faa5-0af8-4684-b5cd-a0b8a91fb7cd",
+  "source": "dailymed"
+}
