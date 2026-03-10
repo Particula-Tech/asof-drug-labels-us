@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA217628"
+  ],
+  "inn": "clotrimazole",
+  "labeler": "Carwin Pharmaceutical Associates, LLC",
+  "package_ndcs": [
+    "15370-220-28",
+    "15370-220-99"
+  ],
+  "products": [
+    {
+      "form": "LIQUID",
+      "generic": "clotrimazole",
+      "name": "CLOTIC (clotrimazole) otic solution"
+    }
+  ],
+  "setid": "ef0658c3-9c6b-4705-89d8-cf0644c80fcb",
+  "source": "dailymed"
+}
