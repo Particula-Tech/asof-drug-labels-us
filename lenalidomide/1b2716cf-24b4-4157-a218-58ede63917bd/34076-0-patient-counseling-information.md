@@ -25,7 +25,7 @@ Because of the risk of embryo-fetal toxicity, lenalidomide capsules are only ava
 - Patients must sign a Patient-Physician agreement form and comply with the requirements to receive lenalidomide capsules.
   In particular, females of reproductive potential must comply with the pregnancy testing, contraception requirements and participate in monthly telephone surveys.
   Males must comply with the contraception requirements [see Use in Specific Populations (8.3)].
-- Lenalidomide capsules are available only from pharmacies that are certified in Lenalidomide REMS program.
+- Lenalidomide capsules are available only from pharmacies that are certified in the Lenalidomide REMS program.
   Provide patients with the telephone number and website for information on how to obtain the product.
 
 Pregnancy Exposure Registry
@@ -97,4 +97,4 @@ Manufactured In India By: Natco Pharma Limited Visakhapatnam ‐ 531019, AP, Ind
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-B 2/2024
+C 2/2026
