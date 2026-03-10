@@ -6,7 +6,7 @@ A randomized, open-label, multi-center clinical study was conducted in Australia
 One hundred nine subjects were randomized to a 15-minute infusion rate and seventy-one subjects were randomized to a 60 minute infusion rate.
 The loading dose was 150 mg/kg followed by a maintenance dose of 50 mg/kg over 4 hours and then 100 mg/kg over 16 hours.
 Of the 180 patients, 27% were male and 73% were female.
-Ages ranged from 15 to 83 years, with the mean age being 30 years (±13.0).
+Ages ranged from 15 to 83 years, with the mean age being 30 years (+13.0).
 
 A subgroup of 58 subjects (33 in the 15-minute infusion group; 25 in the 60-minute infusion group) was treated within 8 hours of acetaminophen ingestion.
 No hepatotoxicity occurred within this subgroup; however, with 95% confidence, the true hepatotoxicity rates could range from 0% to 9% for the 15-minute infusion group and from 0% to 12% for the 60-minute infusion group.
@@ -15,7 +15,7 @@ Observational Study
 
 An open-label, observational database contained information on 1749 patients who sought treatment for acetaminophen overdose over a 16-year period.
 Of the 1749 patients, 65% were female, 34% were male and less than 1% was transgender.
-Ages ranged from 2 months to 96 years, with 72% of the patients falling in the 16 to 40-year-old age bracket.
+Ages ranged from 2 months to 96 years, with 72% of the patients falling in the 16- to 40-year-old age bracket.
 A total of 399 patients received acetylcysteine treatment.
 A post-hoc analysis identified 56 patients who (1) were at high or probable risk for hepatotoxicity (APAP greater than 150 mg/L at the four hours line according to the Australian nomogram) and (2) had a liver function test.
 Of the 53 patients who were treated with intravenous acetylcysteine (300 mg/kg intravenous acetylcysteine administered over 20-21 hours) within 8 hours, two (4%) developed hepatotoxicity (AST or ALT greater than 1000 U/L).
@@ -28,3 +28,15 @@ Evaluable data were available from a total of 148 pediatric patients (less than 
 There were no deaths of pediatric patients.
 None of the pediatric patients receiving intravenous acetylcysteine developed hepatotoxicity while two patients not receiving intravenous acetylcysteine developed hepatotoxicity.
 The number of pediatric patients is too small to provide a statistically significant finding of efficacy; however the results appear to be consistent to those observed for adults.
+
+Three-Bag vs. Two-Bag Regimen Observational Study
+
+A multi-center, observational, retrospective cohort study investigated rates of hypersensitivity reactions in 493 patients treated with a two-bag intravenous acetylcysteine regimen compared to 274 patients treated with a three-bag regimen in Denmark between January 2012 and December 2014.
+The two-bag regimen consisted of a 4 hour loading dose at 200 mg/kg followed by a 16 hour infusion at 100 mg/kg.
+The three-bag regimen used a 150 mg/kg loading dose administered over 15 minutes, followed by a second dose of 50 mg/kg over 4 hours and a final dose of 100 mg/kg for 16 hours.
+Patients in this study were treated with acetylcysteine regardless of plasma acetaminophen concentration.
+The median (range) serum acetaminophen concentration at presentation was <1 mcg/mL (0-353 mcg/mL) in the total study population, and only 12/767 patients (1.6%) had a serum acetaminophen level that would have warranted acetylcysteine treatment based on the revised Rumack-Mathew nomogram.
+
+Hepatotoxicity was defined as peak ALT >1,000 U/L at any point during hospitalization.
+In this population that was low-risk for hepatotoxicity based on median acetaminophen level at presentation, no differences were observed in unadjusted hepatotoxicity rates between patients who received the two-bag regimen (4%, 20/493) compared to patients who received the three-bag regimen (4%, 11/274).
+However, this study has significant limitations and was not designed to establish non-inferiority.

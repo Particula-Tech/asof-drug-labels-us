@@ -1,9 +1,18 @@
 # 10 OVERDOSAGE
 
-An initial 150 mg/kg dose of acetylcysteine for a patient weighting 106 kg was mistakenly calculated as 160 g (a decimal point error resulting in a 10-fold higher than prescribed dose).
-An hour after the infusion started, the patient complained of generalized heat sensation and body pain and developed widespread urticaria and hypotension.
-The second acetylcysteine infusion was withheld and the patient was treated for anaphylaxis.
-Despite treatment the patient subcomed to the acute inflammatory reaction and died.
+Fatal and life-threatening adverse events have been reported following acetylcysteine overdosage, including anaphylaxis, cerebral edema, and hemolytic-uremic syndrome (HUS).
+Stop acetylcysteine administration in the setting of suspected acetylcysteine overdosage and manage as clinically indicated.
 
-Single intravenous doses of acetylcysteine at 1000 mg/kg in mice, 2445 mg/kg in rats, 1500 mg/kg in guinea pigs, 1200 mg/kg in rabbits and 500 mg/kg in dogs were lethal.
-Symptoms of acute toxicity in the animals were ataxia, hypoactivity, labored respiration, cyanosis, loss of righting reflex and convulsions.
+Anaphylaxis, including cases with a fatal outcome, has been reported following acetylcysteine overdosage.
+Patients who experienced anaphylaxis following acetylcysteine overdosage often became symptomatic during the loading dose and experienced hypotension, rash, angioedema, bronchospasm, or respiratory distress.
+Cases of anaphylaxis with acetylcysteine overdosage also described coagulopathy, renal failure, or respiratory failure.
+
+Cerebral edema, including cases with a fatal outcome, has been reported following acetylcysteine overdosage.
+Patients who experienced cerebral edema following acetylcysteine overdose presented with altered mental status, abnormal pupillary responses, seizures.
+Some cases of cerebral edema with acetylcysteine overdosage described brain herniation.
+
+HUS has been reported following acetylcysteine overdosage.
+Patients who experienced HUS presented with microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury.
+Removal of acetylcysteine via hemodialysis has been reported in the literature outside of the context of acetylcysteine overdosage.
+Studies of hemodialysis in acetaminophen overdose report significant extracorporeal removal of acetylcysteine during hemodialysis.
+Contact the Poison Center (1-800-222-1222) for overdosage management recommendations for Acetylcysteine Injection including considerations for hemodialysis.

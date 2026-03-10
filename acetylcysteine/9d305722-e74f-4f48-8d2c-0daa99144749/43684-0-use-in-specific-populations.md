@@ -29,7 +29,7 @@ No adverse developmental outcomes due to acetylcysteine were observed.
 Risk Summary
 
 There are no data on the presence of acetylcysteine in human milk, the effects on the breastfed infant, or the effects on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for acetylcysteine injection and any potential adverse effects on the breastfed child from acetylcysteine injection or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Acetylcysteine Injection and any potential adverse effects on the breastfed child from Acetylcysteine Injection or from the underlying maternal condition.
 
 Clinical Considerations
 
@@ -38,5 +38,5 @@ Breastfeeding women may consider pumping and discarding their milk for 30 hours 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of acetylcysteine injection in pediatric patients have not been established by adequate and well-controlled studies.
-Use of acetylcysteine injection in pediatric patients 5 kg and greater is based on clinical practice [see Dosage and Administration (2.4)].
+Safety and effectiveness of Acetylcysteine Injection in pediatric patients have not been established by adequate and well-controlled studies.
+Use of Acetylcysteine Injection in pediatric patients 5 kg and greater is based on clinical practice [see Dosage and Administration (2.5)].
