@@ -8,7 +8,6 @@ Continuous supervision by a physician is advisable.
 
 In treatment of secondary glaucoma and in the preoperative treatment of some cases of acute congestive (closed-angle) glaucoma, the preferred dosage is 250 mg every four hours, although some cases have responded to 250 mg twice daily on short-term therapy.
 In some acute cases, it may be more satisfactory to administer an initial dose of 500 mg followed by 125 or 250 mg every four hours depending on the individual case.
-Intravenous therapy may be used for rapid relief of ocular tension in acute cases.
 A complementary effect has been noted when acetazolamide has been used in conjunction with miotics or mydriatics as the case demanded.
 
 Epilepsy: It is not clearly known whether the beneficial effects observed in epilepsy are due to direct inhibition of carbonic anhydrase in the central nervous system or whether they are due to the slight degree of acidosis produced by the divided dosage.

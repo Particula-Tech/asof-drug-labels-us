@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Acetazolamide is a potent carbonic anhydrase inhibitor, effective in the control of fluid secretion (eg, some types of glaucoma), in the treatment of certain convulsive disorders (eg, epilepsy), and in the promotion of diuresis in instances of abnormal fluid retention (eg, cardiac edema).
+Acetazolamide is a potent carbonic anhydrase inhibitor, effective in the control of fluid secretion (eg, some types of glaucoma), in the treatment of certain convulsive disorders (eg, epilepsy) and in the promotion of diuresis in instances of abnormal fluid retention (eg, cardiac edema).
 
 Acetazolamide is not a mercurial diuretic.
 Rather, it is a nonbacteriostatic sulfonamide possessing a chemical structure and pharmacological activity distinctly different from the bacteriostatic sulfonamides.
