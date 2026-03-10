@@ -1,4 +1,4 @@
-ERZOFRI® (paliperidone palmitate) extended-release injectable suspension
+ERZOFRI ®(paliperidone palmitate) extended-release injectable suspension
 
 Product of China.
 
@@ -10,4 +10,4 @@ Manufactured for: Luye Innomind Pharma Shijiazhuang Co., Ltd. Shijiazhuang, Hebe
 
 For patent information: www.luyeusa.com/patents
 
-© 2026 Luye Innomind Pharma Shijiazhuang Co., Ltd.
+© 2024 Luye Innomind Pharma Shijiazhuang Co., Ltd.

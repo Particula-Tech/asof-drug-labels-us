@@ -18,8 +18,8 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-In animal reproduction studies, there were no treatment related effects on the offspring when pregnant rats were injected intramuscularly with paliperidone palmitate during the period of organogenesis at doses up to 10 times the maximum recommended human dose (MRHD) of 234 mg paliperidone palmitate as a monthly maintenance dose based on mg/m2 body surface area (BSA).
-There were no increases in fetal abnormalities when pregnant rats and rabbits were treated orally with paliperidone during the period of organogenesis with up to 8 times the MRHD of 12 mg of paliperidone based on mg/m2 BSA.
+In animal reproduction studies, there were no treatment related effects on the offspring when pregnant rats were injected intramuscularly with paliperidone palmitate during the period of organogenesis at doses up to 10 times the maximum recommended human dose (MRHD) of 234 mg paliperidone palmitate based on mg/m 2body surface area (BSA).
+There were no increases in fetal abnormalities when pregnant rats and rabbits were treated orally with paliperidone during the period of organogenesis with up to 8 times the MRHD of 12 mg of paliperidone based on mg/m 2BSA.
 Additional reproduction toxicity studies were conducted with orally administered risperidone, which is extensively converted to paliperidone (see Animal data).
 
 Clinical Considerations
@@ -58,7 +58,7 @@ There was no evidence of teratogenicity in embryo-fetal developmental toxicity s
 When the offspring of pregnant rats, treated with risperidone at 0.6 times the MRHD based on BSA, reached adulthood, learning was impaired.
 Increased neuronal cell death occurred in the fetal brains of the offspring of pregnant rats treated at 0.5 to 1.2 times the MRHD; the postnatal development and growth of the offspring were delayed.
 
-In rat reproduction studies with risperidone, pup deaths occurred at oral doses which are less than the MRHD of risperidone based on BSA; it is not known whether these deaths were due to a direct effect on the fetuses or pups or, to effects on the dams (see RISPERDAL® prescribing information).
+In rat reproduction studies with risperidone, pup deaths occurred at oral doses which are less than the MRHD of risperidone based on BSA; it is not known whether these deaths were due to a direct effect on the fetuses or pups or, to effects on the dams (see RISPERDAL ®prescribing information).
 
 ## 8.2 Lactation
 
@@ -79,7 +79,7 @@ Infertility
 
 Females
 
-Based on the pharmacologic action of paliperidone (D2 receptor antagonism), treatment with ERZOFRI may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.10)].
+Based on the pharmacologic action of paliperidone (D 2receptor antagonism), treatment with ERZOFRI may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.10)].
 
 ## 8.4 Pediatric Use
 
@@ -108,7 +108,7 @@ Because geriatric patients are more likely to have decreased renal function, adj
 ## 8.6 Renal Impairment
 
 Use of ERZOFRI is not recommended in patients with moderate or severe renal impairment (creatinine clearance < 50 mL/min).
-Dose reduction is recommended for patients with mild renal impairment (creatinine clearance ≥ 50 mL/min to < 80 mL/min) [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Dose reduction is recommended for patients with mild renal impairment (creatinine clearance ≥ 50 mL/min to < 80 mL/min) [see Dosage and Administration (2.4)and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

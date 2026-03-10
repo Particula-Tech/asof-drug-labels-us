@@ -2,7 +2,7 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
+- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.1)]
 - Cerebrovascular adverse reactions, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
 - Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
 - QT prolongation [see Warnings and Precautions (5.4)]
@@ -25,7 +25,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The safety of ERZOFRI for the treatment of schizophrenia in adults and schizoaffective disorder in adults as monotherapy and as an adjunct to mood stabilizers or antidepressants is based upon adequate and well-controlled studies of another once-a-month paliperidone palmitate extended-release injectable suspension (also referred to as "PP1M" in this section).
 Below is a display of adverse reactions with another PP1M from those adequate and well-controlled studies.
 
-Injection site reactions for ERZOFRI presented in this section (see "Pain and Injection Site Reactions with ERZOFRI" below) are based on pharmacokinetic studies.
+Injection site reactions for ERZOFRI presented in this section (see " Pain and Injection Site Reactions with ERZOFRI" below) are based on pharmacokinetic studies.
 
 Patient Exposure
 
@@ -43,22 +43,21 @@ Adverse reactions that occurred more frequently in the PP1M group than the place
 
 Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials
 
-Commonly Observed Adverse Reactions: The most common (at least 5% in any PP1M group) and likely drug-related (adverse events for which the drug rate is at least twice the placebo rate) adverse reactions from the double-blind, placebo-controlled trials in subjects with schizophrenia were injection site reactions, somnolence/sedation, dizziness, akathisia, and extrapyramidal disorder.
-No occurrences of adverse events reached this threshold in the long-term double-blind, placebo-controlled study in subjects with schizoaffective disorder.
+Commonly Observed Adverse Reactions:The most common (at least 5% in any PP1M group) and likely drug-related (adverse events for which the drug rate is at least twice the placebo rate) adverse reactions from the double-blind, placebo-controlled trials in subjects with schizophrenia were injection site reactions, somnolence/sedation, dizziness, akathisia, and extrapyramidal disorder.No occurrences of adverse events reached this threshold in the long-term double-blind, placebo-controlled study in subjects with schizoaffective disorder.
 
-Discontinuation of Treatment Due to Adverse Events: The percentage of subjects who discontinued due to adverse events in the four fixed-dose, double-blind, placebo-controlled schizophrenia trials were similar for PP1M- and placebo-treated subjects.
+Discontinuation of Treatment Due to Adverse Events:The percentage of subjects who discontinued due to adverse events in the four fixed-dose, double-blind, placebo-controlled schizophrenia trials were similar for PP1M- and placebo-treated subjects.
 
 The percentage of subjects who discontinued due to adverse events in the open-label period of the long-term study in subjects with schizoaffective disorder was 7.5%.
 During the double-blind, placebo-controlled period of that study, the percentages of subjects who discontinued due to adverse events were 5.5% and 1.8% in PP1M- and placebo-treated subjects, respectively.
 
-Dose-Related Adverse Reactions: Based on the pooled data from the four fixed-dose, double- blind, placebo-controlled trials in subjects with schizophrenia, among the adverse reactions that occurred with ≥ 2% incidence in the subjects treated with PP1M, only akathisia increased with dose.
+Dose-Related Adverse Reactions:Based on the pooled data from the four fixed-dose, double- blind, placebo-controlled trials in subjects with schizophrenia, among the adverse reactions that occurred with ≥ 2% incidence in the subjects treated with PP1M, only akathisia increased with dose.
 Hyperprolactinemia also exhibited a dose relationship, but did not occur at ≥ 2% incidence in PP1M-treated subjects from the four fixed-dose studies.
 
-Adverse Reactions Occurring at an Incidence of 2% or More in a once-a-month paliperidone palmitate extended-release injectable suspension-Treated Patients: Table 10 lists the adverse reactions reported in 2% or more of PP1M -treated subjects and at a greater proportion than in the placebo group with schizophrenia in the four fixed-dose, double-blind, placebo-controlled trials.
+Adverse Reactions Occurring at an Incidence of 2% or More in a once-a-month paliperidone palmitate extended-release injectable suspension-Treated Patients:Table 9 lists the adverse reactions reported in 2% or more of PP1M -treated subjects and at a greater proportion than in the placebo group with schizophrenia in the four fixed-dose, double-blind, placebo-controlled trials.
 
-Table 10: Incidences of Adverse Reactions 2% or More of a Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension-Treated Patients (and Greater than Placebo) with Schizophrenia in Four Fixed-Dose, Double-Blind, Placebo-Controlled Trials
+Table 9: Incidences of Adverse Reactions 2% or More of a Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension-Treated Patients (and Greater than Placebo) with Schizophrenia in Four Fixed-Dose, Double-Blind, Placebo-Controlled Trials
 
-| System Organ Class Adverse Reactions | PlaceboPlacebo group is pooled from all studies and included either deltoid or gluteal injection depending on study design. (N=510) | 39 mg (N=130) | 78 mg (N=302) | 156 mg (N=312) | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [see Clinical Studies (14.1)] (N=160) | 234/156 mg (N=165) | 234/234 mg (N=163) |
+| System Organ Class Adverse Reactions | Placebo Placebo group is pooled from all studies and included either deltoid or gluteal injection depending on study design. (N=510) | 39 mg (N=130) | 78 mg (N=302) | 156 mg (N=312) | 234/39 mg Initial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [see Clinical Studies (14.1)] (N=160) | 234/156 mg (N=165) | 234/234 mg (N=163) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension |  |  |  |  |  |
 | Total percentage of subjects with adverse reactions | 70 | 75 | 68 | 69 | 63 | 60 | 63 |
@@ -108,31 +107,31 @@ Other Adverse Reactions Observed During the Clinical Trial Evaluation of Once-a-
 
 The following list does not include reactions: 1) already listed in previous tables or elsewhere in labeling, 2) for which a drug cause was remote, 3) which were so general as to be uninformative, or 4) which were not considered to have significant clinical implications.
 
-Cardiac disorders: atrioventricular block first degree, bradycardia, bundle branch block, palpitations, postural orthostatic tachycardia syndrome, tachycardia
+Cardiac disorders:atrioventricular block first degree, bradycardia, bundle branch block, palpitations, postural orthostatic tachycardia syndrome, tachycardia
 
-Ear and labyrinth disorders: vertigo
+Ear and labyrinth disorders:vertigo
 
-Eye disorders: eye movement disorder, eye rolling, oculogyric crisis, vision blurred
+Eye disorders:eye movement disorder, eye rolling, oculogyric crisis, vision blurred
 
-Gastrointestinal disorders: constipation, dyspepsia, flatulence, salivary hypersecretion
+Gastrointestinal disorders:constipation, dyspepsia, flatulence, salivary hypersecretion
 
-Immune system disorders: hypersensitivity
+Immune system disorders:hypersensitivity
 
-Investigations: alanine aminotransferase increased, aspartate aminotransferase increased, electrocardiogram abnormal
+Investigations:alanine aminotransferase increased, aspartate aminotransferase increased, electrocardiogram abnormal
 
-Metabolism and nutrition disorders: decreased appetite, hyperinsulinemia, increased appetite
+Metabolism and nutrition disorders:decreased appetite, hyperinsulinemia, increased appetite
 
-Musculoskeletal and connective tissue disorders: arthralgia, joint stiffness, muscle rigidity, muscle spasms, muscle tightness, muscle twitching, nuchal rigidity
+Musculoskeletal and connective tissue disorders:arthralgia, joint stiffness, muscle rigidity, muscle spasms, muscle tightness, muscle twitching, nuchal rigidity
 
-Nervous system disorders: bradykinesia, cerebrovascular accident, cogwheel rigidity, convulsion, dizziness postural, drooling, dysarthria, dyskinesia, dystonia, hypertonia, lethargy, oromandibular dystonia, parkinsonism, psychomotor hyperactivity, syncope
+Nervous system disorders:bradykinesia, cerebrovascular accident, cogwheel rigidity, convulsion, dizziness postural, drooling, dysarthria, dyskinesia, dystonia, hypertonia, lethargy, oromandibular dystonia, parkinsonism, psychomotor hyperactivity, syncope
 
-Psychiatric disorders: insomnia, libido decreased, restlessness
+Psychiatric disorders:insomnia, libido decreased, restlessness
 
-Reproductive system and breast disorders: amenorrhea, breast discharge, breast enlargement/breast swelling, breast tenderness/breast pain, ejaculation disorder, erectile dysfunction, galactorrhea, gynecomastia, menstrual disorder, menstruation delayed, menstruation irregular, sexual dysfunction
+Reproductive system and breast disorders:amenorrhea, breast discharge, breast enlargement/breast swelling, breast tenderness/breast pain, ejaculation disorder, erectile dysfunction, galactorrhea, gynecomastia, menstrual disorder, menstruation delayed, menstruation irregular, sexual dysfunction
 
-Respiratory, thoracic and mediastinal disorders: nasal congestion
+Respiratory, thoracic and mediastinal disorders:nasal congestion
 
-Skin and subcutaneous tissue disorders: drug eruption, pruritus, pruritus generalized, rash, urticaria
+Skin and subcutaneous tissue disorders:drug eruption, pruritus, pruritus generalized, rash, urticaria
 
 Demographic Differences
 
@@ -141,20 +140,20 @@ An examination of population subgroups in the double-blind placebo-controlled tr
 Extrapyramidal Symptoms (EPS)
 
 Pooled data from the two double-blind, placebo-controlled, 13-week, fixed-dose trials in adult subjects with schizophrenia provided information regarding EPS.
-Several methods were used to measure EPS: (1) the Simpson-Angus global score which broadly evaluates parkinsonism, (2) the Barnes Akathisia Rating Scale global clinical rating score which evaluates akathisia, (3) the Abnormal Involuntary Movement Scale scores which evaluates dyskinesia, and (4) use of anticholinergic medications to treat EPS (Table 11), and (5) incidence of spontaneous reports of EPS (Table 12).
+Several methods were used to measure EPS: (1) the Simpson-Angus global score which broadly evaluates parkinsonism, (2) the Barnes Akathisia Rating Scale global clinical rating score which evaluates akathisia, (3) the Abnormal Involuntary Movement Scale scores which evaluates dyskinesia, and (4) use of anticholinergic medications to treat EPS (Table 10), and (5) incidence of spontaneous reports of EPS (Table 11).
 
-Table 11: Extrapyramidal Symptoms (EPS) Assessed by Incidence of Rating Scales and Use of Anticholinergic Medication – Schizophrenia Studies in Adults
+Table 10: Extrapyramidal Symptoms (EPS) Assessed by Incidence of Rating Scales and Use of Anticholinergic Medication – Schizophrenia Studies in Adults
 
 | Scale | Placebo (N=262) | 39 mg (N=130) | 78 mg (N=223) | 156 mg (N=228) |
 | --- | --- | --- | --- | --- |
 |  | Percentage of Subjects |  |  |  |
 |  |  | Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension |  |  |
-| ParkinsonismFor parkinsonism, percent of subjects with Simpson-Angus Total score > 0.3 at endpoint (Total score defined as total sum of items score divided by the number of items) | 9 | 12 | 10 | 6 |
-| AkathisiaFor Akathisia, percent of subjects with Barnes Akathisia Rating Scale global score ≥ 2 at endpoint | 5 | 5 | 6 | 5 |
-| DyskinesiaFor Dyskinesia, percent of subjects with a score ≥ 3 on any of the first 7 items or a score ≥ 2 on two or more of any of the first 7 items of the Abnormal Involuntary Movement Scale at endpoint | 3 | 4 | 6 | 4 |
-| Use of Anticholinergic MedicationsPercent of subjects who received anticholinergic medications to treat EPS | 12 | 10 | 12 | 11 |
+| Parkinsonism For parkinsonism, percent of subjects with Simpson-Angus Total score > 0.3 at endpoint (Total score defined as total sum of items score divided by the number of items) | 9 | 12 | 10 | 6 |
+| Akathisia For Akathisia, percent of subjects with Barnes Akathisia Rating Scale global score ≥ 2 at endpoint | 5 | 5 | 6 | 5 |
+| Dyskinesia For Dyskinesia, percent of subjects with a score ≥ 3 on any of the first 7 items or a score ≥ 2 on two or more of any of the first 7 items of the Abnormal Involuntary Movement Scale at endpoint | 3 | 4 | 6 | 4 |
+| Use of Anticholinergic Medications Percent of subjects who received anticholinergic medications to treat EPS | 12 | 10 | 12 | 11 |
 
-Table 12: Extrapyramidal Symptoms (EPS)-Related Events by MedDRA Preferred Term – Schizophrenia Studies in Adults
+Table 11: Extrapyramidal Symptoms (EPS)-Related Events by MedDRA Preferred Term – Schizophrenia Studies in Adults
 
 | EPS Group | Placebo (N=262) | 39 mg (N=130) | 78 mg (N=223) | 156 mg (N=228) |
 | --- | --- | --- | --- | --- |
@@ -210,21 +209,21 @@ General disorders and administration site conditions: edema, edema peripheral
 
 Immune system disorders: anaphylactic reaction
 
-Infections and infestations: rhinitis
+Infections and infestations:rhinitis
 
 Musculoskeletal and connective tissue disorders: musculoskeletal pain, torticollis, trismus
 
 Nervous system disorders: grand mal convulsion, parkinsonian gait, transient ischemic attack
 
-Psychiatric disorders: sleep disorder
+Psychiatric disorders:sleep disorder
 
 Reproductive system and breast disorders: breast engorgement
 
-Respiratory, thoracic and mediastinal disorders: pharyngolaryngeal pain, pneumonia aspiration
+Respiratory, thoracic and mediastinal disorders:pharyngolaryngeal pain, pneumonia aspiration
 
-Skin and subcutaneous tissue disorders: rash papular
+Skin and subcutaneous tissue disorders:rash papular
 
-Vascular disorders: hypotension, ischemia
+Vascular disorders:hypotension, ischemia
 
 ## 6.2 Postmarketing Experience
 
@@ -233,4 +232,4 @@ The following adverse reactions have been identified during post-approval use of
 Cases of anaphylactic reaction after injection with another once-a-month paliperidone palmitate extended-release injectable suspension product have been reported during postmarketing experience in patients who have previously tolerated oral risperidone or oral paliperidone.
 
 Paliperidone is the major active metabolite of risperidone.
-Adverse reactions reported with oral risperidone and risperidone long-acting injection can be found in the Adverse Reactions (6) sections of the package inserts for those products.
+Adverse reactions reported with oral risperidone and risperidone long-acting injection can be found in the Adverse Reactions (6)sections of the package inserts for those products.

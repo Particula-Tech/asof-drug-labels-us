@@ -2,7 +2,7 @@
 
 How Supplied
 
-ERZOFRI® is provided as a single-use kit containing a single-dose prefilled syringe with a plunger stopper and tip cap.
+ERZOFRI ®is provided as a single-use kit containing a single-dose prefilled syringe with a plunger stopper and tip cap.
 The kit also contains 2 safety needles (a 1 ½-inch 22 gauge safety needle and a 1-inch 23 gauge safety needle).
 
 ERZOFRI is available as a white to off-white aqueous suspension in the following strengths:

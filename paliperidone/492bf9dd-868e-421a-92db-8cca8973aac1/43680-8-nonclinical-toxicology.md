@@ -15,13 +15,13 @@ Risperidone was administered in the diet at daily doses of 0.63, 2.5, and 10 mg/
 A maximum tolerated dose was not achieved in male mice.
 There were statistically significant increases in pituitary gland adenomas, endocrine pancreas adenomas, and mammary gland adenocarcinomas.
 The no-effect dose for these tumors was less than or equal to the MRHD of risperidone based on BSA (see risperidone prescribing information).
-An increase in mammary, pituitary, and endocrine pancreas neoplasms has been found in rodents after chronic administration of other antipsychotic drugs and is considered to be mediated by prolonged dopamine D2 antagonism and hyperprolactinemia.
+An increase in mammary, pituitary, and endocrine pancreas neoplasms has been found in rodents after chronic administration of other antipsychotic drugs and is considered to be mediated by prolonged dopamine D 2antagonism and hyperprolactinemia.
 The relevance of these tumor findings in rodents to human risk is unclear [see Warnings and Precautions (5.7)].
 
 Mutagenesis
 
-Paliperidone palmitate was not genotoxic in the in vitro Ames bacterial reverse mutation test or the mouse lymphoma assay.
-Paliperidone was not genotoxic in the in vitro Ames bacterial reverse mutation test, the mouse lymphoma assay, or the in vivo rat bone marrow micronucleus test.
+Paliperidone palmitate was not genotoxic in the in vitroAmes bacterial reverse mutation test or the mouse lymphoma assay.
+Paliperidone was not genotoxic in the in vitroAmes bacterial reverse mutation test, the mouse lymphoma assay, or the in vivorat bone marrow micronucleus test.
 
 Impairment of Fertility
 

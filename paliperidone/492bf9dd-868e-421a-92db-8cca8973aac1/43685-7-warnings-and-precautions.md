@@ -10,13 +10,13 @@ Although the causes of death were varied, most of the deaths appeared to be eith
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
 
-ERZOFRI is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.2)].
+ERZOFRI is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.2)].
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
 No studies have been conducted with oral paliperidone, 1-month or 3-month paliperidone palmitate extended-release injectable suspensions, or ERZOFRI, in elderly patients with dementia.
-ERZOFRI is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
+ERZOFRI is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
@@ -38,8 +38,8 @@ Certain circumstances may increase the risk of the occurrence of Torsades de poi
 The effects of oral paliperidone on the QT interval were evaluated in a double-blind, active-controlled (moxifloxacin 400 mg single dose), multicenter QT study in adults with schizophrenia and schizoaffective disorder, and in three placebo- and active-controlled 6-week, fixed-dose efficacy trials in adults with schizophrenia.
 
 In the QT study (n=141) of oral paliperidone, the 8 mg dose of immediate-release oral paliperidone (n=50) showed a mean placebo-subtracted increase from baseline in QTcLD (QT interval corrected for heart rate using the population specified linear derived method) of 12.3 msec (90% CI: 8.9; 15.6) on Day 8 at 1.5 hours post-dose.
-The mean steady-state peak plasma concentration for this 8 mg oral dose of immediate release paliperidone (Cmax ss = 113 ng/mL) was more than 2-fold the exposure observed with the maximum recommended 234 mg maintenance dose of another once-a-month paliperidone extended-release injectable suspension administered in the deltoid muscle (predicted median Cmax-ss = 50 ng/mL).
-In this same study, a 4 mg dose of the immediate-release oral formulation of paliperidone, for which Cmax-ss = 35 ng/mL, showed an increased placebo-subtracted QTcLD of 6.8 msec (90% CI: 3.6; 10.1) on Day 2 at 1.5 hours post-dose.
+The mean steady-state peak plasma concentration for this 8 mg oral dose of immediate release paliperidone (C max ss= 113 ng/mL) was more than 2-fold the exposure observed with the maximum recommended 234 mg maintenance dose of another once-a-month paliperidone extended-release injectable suspension administered in the deltoid muscle (predicted median C max-ss= 50 ng/mL).
+In this same study, a 4 mg dose of the immediate-release oral formulation of paliperidone, for which C max-ss= 35 ng/mL, showed an increased placebo-subtracted QTcLD of 6.8 msec (90% CI: 3.6; 10.1) on Day 2 at 1.5 hours post-dose.
 
 In the three fixed-dose efficacy studies of oral paliperidone extended release in subjects with schizophrenia, electrocardiogram (ECG) measurements taken at various time points showed only one subject in the oral paliperidone 12 mg group had a change exceeding 60 msec at one time- point on Day 6 (increase of 62 msec).
 
@@ -89,11 +89,11 @@ Any patient treated with atypical antipsychotics should be monitored for symptom
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
 
-Pooled data from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies of another PP1M in subjects with schizophrenia are presented in Table 5.
+Pooled data from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies of another PP1M in subjects with schizophrenia are presented in Table 4.
 
-Table 5: Change in Fasting Glucose from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
+Table 4: Change in Fasting Glucose from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
 
-|  | Placebo | 39 mg | 78 mg | 156 mg | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [see Clinical Studies (14.1)]. | 234/156 mg | 234/234 mg |
+|  | Placebo | 39 mg | 78 mg | 156 mg | 234/39 mg Initial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [see Clinical Studies (14.1)]. | 234/156 mg | 234/234 mg |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension |  |  |  |  |  |
 | Mean change from baseline (mg/dL) |  |  |  |  |  |  |  |
@@ -112,11 +112,11 @@ Dyslipidemia
 
 Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics.
 
-Pooled data from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies of another PP1M in subjects with schizophrenia are presented in Table 6.
+Pooled data from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies of another PP1M in subjects with schizophrenia are presented in Table 5.
 
-Table 6: Change in Fasting Lipids from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
+Table 5: Change in Fasting Lipids from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
 
-|  | Placebo | 39 mg | 78 mg | 156 mg | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [see Clinical Studies (14.1)]. | 234/156 mg | 234/234 mg |
+|  | Placebo | 39 mg | 78 mg | 156 mg | 234/39 mg Initial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [see Clinical Studies (14.1)]. | 234/156 mg | 234/234 mg |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension |  |  |  |  |  |
 | Mean change from baseline (mg/dL) |  |  |  |  |  |  |  |
@@ -138,9 +138,9 @@ Table 6: Change in Fasting Lipids from Four Placebo-Controlled, 9- to 13-Week, F
 | Triglycerides Normal to High | 3.6% | 6.1% | 9.2% | 7.2% | 1.3% | 3.7% | 10.7% |
 | (<150 mg/dL to ≥200 mg/dL) | (8/221) | (3/49) | (14/153) | (10/139) | (1/79) | (3/82) | (9/84) |
 
-In a long-term open-label pharmacokinetic and safety study in subjects with schizophrenia in which the highest maintenance dose available (234 mg) was evaluated, the mean changes from baseline in lipid values are presented in Table 7.
+In a long-term open-label pharmacokinetic and safety study in subjects with schizophrenia in which the highest maintenance dose available (234 mg) was evaluated, the mean changes from baseline in lipid values are presented in Table 6.
 
-Table 7: Change in Fasting Lipids from Long-term Open-label Pharmacokinetic and Safety Study in Subjects with Schizophrenia
+Table 6: Change in Fasting Lipids from Long-term Open-label Pharmacokinetic and Safety Study in Subjects with Schizophrenia
 
 |  | Week 29 | Week 53 |
 | --- | --- | --- |
@@ -155,9 +155,9 @@ Table 7: Change in Fasting Lipids from Long-term Open-label Pharmacokinetic and 
 | Triglycerides | n=112 | n=100 |
 | Change from baseline | 16.2 | 37.4 |
 
-The mean changes from baseline in lipid values during the initial 25-week open-label period and at the endpoint of the subsequent 15-month double-blind period in a long-term study of another PP1M in subjects with schizoaffective disorder are presented in Table 8.
+The mean changes from baseline in lipid values during the initial 25-week open-label period and at the endpoint of the subsequent 15-month double-blind period in a long-term study of another PP1M in subjects with schizoaffective disorder are presented in Table 7.
 
-Table 8: Change in Fasting Lipids from an Open-Label and Double-Blind Periods of a Long-Term Study in Subjects with Schizoaffective Disorder
+Table 7: Change in Fasting Lipids from an Open-Label and Double-Blind Periods of a Long-Term Study in Subjects with Schizoaffective Disorder
 
 |  | Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension | Placebo | Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension |
 | --- | --- | --- | --- |
@@ -177,11 +177,11 @@ Weight Gain
 Weight gain has been observed with atypical antipsychotic use.
 Clinical monitoring of weight is recommended.
 
-Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of ≥ 7% of body weight from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies of another PP1M in subjects with schizophrenia are presented in Table 9.
+Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of ≥ 7% of body weight from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies of another PP1M in subjects with schizophrenia are presented in Table 8.
 
-Table 9: Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
+Table 8: Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
 
-|  | Placebo n=451 | 39 mg n=116 | 78 mg n=280 | 156 mg n=267 | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [see Clinical Studies (14.1)]. n=137 | 234/156 mg n=144 | 234/234 mg n=145 |
+|  | Placebo n=451 | 39 mg n=116 | 78 mg n=280 | 156 mg n=267 | 234/39 mg Initial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [see Clinical Studies (14.1)]. n=137 | 234/156 mg n=144 | 234/234 mg n=145 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension |  |  |  |  |  |  |
 | Weight (kg) Change from baseline | -0.4 | 0.4 | 0.8 | 1.4 | 0.4 | 0.7 | 1.4 |
@@ -217,11 +217,11 @@ In patients with a history of a clinically significant low WBC/ANC or a drug-ind
 In such patients, consider discontinuation of ERZOFRI at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
-Discontinue ERZOFRI in patients with severe neutropenia (absolute neutrophil count < 1000/mm3) and follow their WBC until recovery.
+Discontinue ERZOFRI in patients with severe neutropenia (absolute neutrophil count < 1000/mm 3) and follow their WBC until recovery.
 
 ## 5.10 Hyperprolactinemia
 
-Like other drugs that antagonize dopamine D2 receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
+Like other drugs that antagonize dopamine D 2receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
 Paliperidone has a prolactin-elevating effect similar to that seen with risperidone, a drug that is associated with higher levels of prolactin than other antipsychotic drugs.
 
 Hyperprolactinemia, regardless of etiology, may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotrophin secretion.

@@ -21,14 +21,14 @@ In Study 3 (PSY-3004), a third 13-week study (n=513) comparing three fixed doses
 
 In Study 4 (SCH-201), the 9-week study (n=197) comparing two fixed doses of PP1M (78 mg/4 weeks and 156 mg/4 weeks) to placebo, both doses of PP1M were superior to placebo in improving PANSS total score.
 
-A summary of the mean baseline PANSS scores along with the mean changes from baseline in the four short-term acute schizophrenia studies are provided in Table 14.
+A summary of the mean baseline PANSS scores along with the mean changes from baseline in the four short-term acute schizophrenia studies are provided in Table 13.
 
-Table 14: Schizophrenia Short-term Studies
+Table 13: Schizophrenia Short-term Studies
 
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: PANSS Total Score |  |  |
-| Study 1 | Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension (39 mg/4 weeks)p<0.05 (Doses statistically significantly superior to placebo). | 86.9 (11.99) | -11.2 (1.69) | -5.1 (-9.01, -1.10) |
+| Study 1 | Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension (39 mg/4 weeks) p<0.05 (Doses statistically significantly superior to placebo). | 86.9 (11.99) | -11.2 (1.69) | -5.1 (-9.01, -1.10) |
 |  | Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension (156 mg/4 weeks) | 86.2 (10.77) | -14.8 (1.68) | -8.7 (-12.62, -4.78) |
 |  | Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension (234 mg/4 weeks) | 88.4 (11.70) | -15.9 (1.70) | -9.8 (-13.71, -5.85) |
 |  | Placebo | 86.8 (10.31) | -6.1 (1.69) | -- |
@@ -77,7 +77,7 @@ The selection of the oral antipsychotic medication was determined to be appropri
 A statistically significantly longer time to first treatment failure was seen for PP1M compared with oral antipsychotic medications.
 The median time to treatment failure was 416 days and 226 days for PP1M and antipsychotic medications, respectively.
 A Kaplan-Meier plot of time to first treatment failure is shown in Figure 4.
-The frequencies of first treatment failure events by type are shown in Table 15.
+The frequencies of first treatment failure events by type are shown in Table 14.
 The time to first arrest and/or incarceration or psychiatric hospitalization was also statistically significantly longer for the PP1M group compared to the oral antipsychotic group.
 
 Figure 4: Kaplan-Meier Plot of Time to First Treatment Failure in a Long-Term, Randomized, Flexible-Dose Study in Subjects with Schizophrenia and a History of Incarceration (Schizophrenia Study 6)
@@ -85,9 +85,9 @@ Figure 4: Kaplan-Meier Plot of Time to First Treatment Failure in a Long-Term, R
 | * Median time to first treatment failure: 416 days with once-a-month paliperidone palmitate extended-release injectable suspension; 226 days with oral antipsychotics |
 | --- |
 
-Table 15: Components of Composite Endpoint in a Long-Term, Randomized, Flexible-Dose Study in Subjects with Schizophrenia and a History of Incarceration (Schizophrenia Study 6)
+Table 14: Components of Composite Endpoint in a Long-Term, Randomized, Flexible-Dose Study in Subjects with Schizophrenia and a History of Incarceration (Schizophrenia Study 6)
 
-| Event Type | Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension N=226 frequency (%) | Oral Antipsychotics N=218 frequency (%) | Hazard RatioHazard ratio of once-a-month paliperidone palmitate extended-release injectable suspension to Oral Antipsychotics based on Cox regression model for time-to-event analysis. Note that the hazard ratio did not appear constant throughout the trial. [95% CI] |
+| Event Type | Once-a-Month Paliperidone Palmitate Extended-Release Injectable Suspension N=226 frequency (%) | Oral Antipsychotics N=218 frequency (%) | Hazard Ratio Hazard ratio of once-a-month paliperidone palmitate extended-release injectable suspension to Oral Antipsychotics based on Cox regression model for time-to-event analysis. Note that the hazard ratio did not appear constant throughout the trial. [95% CI] |
 | --- | --- | --- | --- |
 | First Treatment Failures | 90 (39.8%) | 117 (53.7%) | 0.70 [0.53, 0.92] |
 | First Treatment Failure Component Events |  |  |  |
@@ -98,7 +98,7 @@ Table 15: Components of Composite Endpoint in a Long-Term, Randomized, Flexible-
 | Need for increase in level of psychiatric services to prevent an imminent psychiatric hospitalization | 3 (1.3%) | 4 (1.8%) |  |
 | Discontinuation of antipsychotic treatment because of inadequate efficacy | 1 (0.4%) | 9 (4.1%) |  |
 | Suicide | 0 | 0 |  |
-| Arrest and/or Incarceration or Psychiatric Hospitalization Events, regardless of whether they were first eventsAnalysis results, which incorporated relevant events collected after discontinuation for those who discontinued, were consistent with the results from the pre-specified analysis of this secondary endpoint. | 76 (33.6%) | 98 (45.0%) | 0.70 [0.52, 0.94] |
+| Arrest and/or Incarceration or Psychiatric Hospitalization Events, regardless of whether they were first events Analysis results, which incorporated relevant events collected after discontinuation for those who discontinued, were consistent with the results from the pre-specified analysis of this secondary endpoint. | 76 (33.6%) | 98 (45.0%) | 0.70 [0.52, 0.94] |
 
 ## 14.2 Schizoaffective Disorder
 
@@ -127,9 +127,9 @@ A Kaplan-Meier plot of time to relapse by treatment group is shown in Figure 5.
 
 Figure 5: Kaplan-Meier Plot of Cumulative Proportion of Subjects with Relapse Over Time (SAff Study 1)
 
-Table 16 summarizes the number of subjects with relapse in the overall population, by subgroup (monotherapy versus adjunctive therapy), and by symptom type at the first occurrence of relapse.
+Table 15 summarizes the number of subjects with relapse in the overall population, by subgroup (monotherapy versus adjunctive therapy), and by symptom type at the first occurrence of relapse.
 
-Table 16: Summary of Relapse Rates (SAff Study 1).
+Table 15: Summary of Relapse Rates (SAff Study 1).
 
 |  | N=170 | N=164 |
 | --- | --- | --- |
@@ -138,8 +138,8 @@ Table 16: Summary of Relapse Rates (SAff Study 1).
 | All Subjects | 57 (33.5%) | 25 (15.2%) |
 | Monotherapy subset | N=73 24 (32.9%) | N=78 9 (11.5%) |
 | Adjunct to Antidepressants or Mood Stabilizer subset | N=97 33 (34.0%) | N=86 16 (18.6%) |
-| Psychotic Symptoms8 subjects experienced a relapse without psychotic symptoms. | 53 (31.2%) | 21 (12.8%) |
-| Mood Symptoms16 subjects experienced a relapse without any mood symptoms. |  |  |
+| Psychotic Symptoms 8 subjects experienced a relapse without psychotic symptoms. | 53 (31.2%) | 21 (12.8%) |
+| Mood Symptoms 16 subjects experienced a relapse without any mood symptoms. |  |  |
 | Any Mood Symptoms | 48 (28.2%) | 18 (11.0%) |
 | Manic | 16 (9.4%) | 5 (3.0%) |
 | Depressive | 23 (13.5%) | 8 (4.9%) |
