@@ -13,37 +13,19 @@ Do not use this product if the foiled pouches containing vaginal ovules are torn
 
 Read the full directions below before using.
 
-Insertion with the applicator:
-
-1. 1.Remove the vaginal ovule from its packaging (See Figure 1).
-
-1. 2.Pull back the plunger about an inch and place the vaginal ovule in the wider end of the applicator barrel (See Figure 2).
-
-1. 3.Hold the applicator as shown and gently insert the end of the applicator into the vagina as far as it will go comfortably.
-   This can be done while lying on your back with your knees bent (as shown in Figure 3), or while standing with your feet apart and your knees bent.
-
-1. 4.While holding the barrel of the applicator in place, push the plunger in until it stops to release the vaginal ovule.
-   Remove the applicator from the vagina.
-2. 5.Clean the applicator after each use.
-   Pull the two pieces apart and wash them with soap and warm water.
-   Rinse well and dry.
-   Put the two pieces back together and store in a clean, dry place.
-3. 6.Once inside the vagina, the ovule melts.
-   Lie down as soon as possible.
-   This will keep leakage to a minimum.
-4. 7.Repeat steps 1 through 6, before bedtime, for the next 2 days.
-
 Insertion without the applicator:
 
-1. 1.Remove the vaginal ovule from its packaging (See Figure 1 above).
-2. 2.Holding the ovule with your thumb and a finger, insert it into the vagina (See Figure 4).
-3. Figure 4
-4. 3.Using your finger, gently push the ovule into the vagina as far as it will comfortably go (See Figure 5).
-5. Figure 5
-6. 4.Once inside the vagina, the ovule melts.
+1. 1.Remove the vaginal ovule from its packaging (See Figure 1).
+2. 
+3. Figure 1
+4. 2.Holding the ovule with your thumb and a finger, insert it into the vagina (See Figure 2).
+5. Figure 2
+6. 3.Using your finger, gently push the ovule into the vagina as far as it will comfortably go (See Figure 3).
+7. Figure 3
+8. 4.Once inside the vagina, the ovule melts.
    Lie down as soon as possible.
    This will keep leakage to a minimum.
-7. 5.Repeat steps 1 through 4, before bedtime, for the next 2 days.
+9. 5.Repeat steps 1 through 4, before bedtime, for the next 2 days.
 
 STORAGE CONDITIONS:
 
@@ -53,4 +35,4 @@ Caution: Avoid heat over 30°C (86°F).
 Avoid high humidity.
 See end of carton for the lot number and expiration date.
 
-LAB-0649-3.0 Revised March 2025
+LAB-0649-4.0 Revised February 2026

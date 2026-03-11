@@ -1,10 +1,9 @@
 # HOW SUPPLIED
 
-CLEOCIN Vaginal Ovules are supplied as follows:
+CLEOCIN Vaginal Ovule is supplied as follows:
 
-| Carton of three suppositories with one applicator | NDC 0009-7667-01 |
-| --- | --- |
 | Carton of three suppositories without the applicator | NDC 0009-7667-05 |
+| --- | --- |
 
 Important Information: Store at 25°C (77°F); excursions permitted to 15 – 30°C (59 – 86°F) [see USP Controlled Room Temperature].
 
