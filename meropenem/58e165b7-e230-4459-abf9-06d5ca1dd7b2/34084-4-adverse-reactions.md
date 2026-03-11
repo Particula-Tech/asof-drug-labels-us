@@ -143,6 +143,7 @@ Laboratory changes seen in the pediatric studies, including the meningitis studi
 
 The following adverse reactions have been identified during post-approval use of meropenem, including meropenem for injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
 Worldwide post-marketing adverse reactions not otherwise listed in the Adverse Reactions from Clinical Trials section of this prescribing information and reported as possibly, probably, or definitely drug related are listed within each body system in order of decreasing severity.
 Blood and Lymphatic System Disorders: agranulocytosis, neutropenia, and leukopenia; a positive direct or indirect Coombs test, and hemolytic anemia.
 
@@ -151,3 +152,5 @@ Immune System Disorders: angioedema.
 Skin and Subcutaneous Disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), erythema multiforme and acute generalized exanthematous pustulosis.
 
 Musculoskeletal Disorders:rhabdomyolysis.
+
+Hepatic Disorders:drug-induced liver injury.

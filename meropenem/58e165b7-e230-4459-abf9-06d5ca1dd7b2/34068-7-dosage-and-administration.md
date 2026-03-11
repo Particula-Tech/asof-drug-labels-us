@@ -28,8 +28,8 @@ Table 1: Recommended Meropenem for Injection Dosage Schedule for Adult Patients 
 | Creatinine Clearance (mL/min) | Dose (dependent on type of infection) | Dosing Interval |
 | --- | --- | --- |
 | Greater than 50 | Recommended dose (500 mg cSSSI and 1 gram Intra-abdominal) | Every 8 hours |
-| 26 to 50 | Recommended dose | Every 12 hours |
-| 10 to 25 | One-half recommended dose | Every 12 hours |
+| 26 - 50 | Recommended dose | Every 12 hours |
+| 10 - 25 | One-half recommended dose | Every 12 hours |
 | Less than 10 | One-half recommended dose | Every 24 hours |
 
 There is inadequate information regarding the use of Meropenem for Injection in patients on hemodialysis or peritoneal dialysis.
