@@ -80,18 +80,7 @@ If a hypersensitivity reaction occurs, the patient should discontinue SAXENDA an
 Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists.
 Use caution in a patient with a history of anaphylaxis or angioedema with another GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to these reactions with SAXENDA.
 
-## 5.9 Suicidal Behavior and Ideation
-
-In SAXENDA adult clinical trials, 9 (0.3%) of 3384 SAXENDA-treated patients and 2 (0.1%) of the 1941 placebo-treated patients reported suicidal ideation; one of these SAXENDA-treated patients attempted suicide.
-
-In a SAXENDA pediatric clinical trial, 1 (0.8%) of the 125 SAXENDA-treated patients died by suicide.
-There was insufficient information to establish a causal relationship to SAXENDA.
-
-Patients treated with SAXENDA should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
-Discontinue SAXENDA in patients who experience suicidal thoughts or behaviors.
-Avoid SAXENDA in patients with a history of suicidal attempts or active suicidal ideation.
-
-## 5.10 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+## 5.9 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
 SAXENDA delays gastric emptying [see Clinical Pharmacology (12.2)].
 There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.

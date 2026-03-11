@@ -10,14 +10,13 @@ The following serious adverse reactions are described below or elsewhere in the 
 - •Acute Kidney Injury Due to Volume Depletion [see Warnings and Precautions (5.6)]
 - •Severe Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.7)]
 - •Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
-- •Suicidal Behavior and Ideation [see Warnings and Precautions (5.9)]
-- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.10)]
+- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-SAXENDA was evaluated for safety in 5 double-blind, placebo controlled trials that included 3384 overweight or obese adult patients treated with SAXENDA for a treatment period up to 56 weeks (3 trials), 52 weeks (1 trial), and 32 weeks (1 trial) and one trial of 56 weeks in 125 pediatric patients with obesity aged 12 years and older [see Clinical Studies (14.1, 14.2)].
+SAXENDA was evaluated for safety in 5 double-blind, placebo controlled trials that included 3,384 overweight or obese adult patients treated with SAXENDA for a treatment period up to 56 weeks (3 trials), 52 weeks (1 trial), and 32 weeks (1 trial) and one trial of 56 weeks in 125 pediatric patients with obesity aged 12 years and older [see Clinical Studies (14.1, 14.2)].
 All patients received study drug in addition to a reduced-calorie diet and increased physical activity counseling.
 In the adult trials, patients received SAXENDA for a mean treatment duration of 46 weeks (median, 56 weeks).
 Baseline characteristics included a mean age of 47 years, 71% female, 85% white, 39% with hypertension, 15% with type 2 diabetes, 34% with dyslipidemia, 29% with a BMI greater than 40 kg/m2, and 9% with cardiovascular disease.
@@ -112,7 +111,7 @@ No meaningful difference in hypoglycemia, defined as blood glucose less than 54 
 Adult Patients without Type 2 Diabetes
 
 In SAXENDA clinical trials in adult patients without type 2 diabetes mellitus, there was no systematic capturing or reporting of hypoglycemia; patients were not provided with blood glucose meters or hypoglycemia diaries.
-Spontaneously reported symptomatic episodes of unconfirmed hypoglycemia were reported by 46 (1.6%) of 2962 SAXENDA-treated patients and 19 (1.1%) of 1729 placebo-treated patients.
+Spontaneously reported symptomatic episodes of unconfirmed hypoglycemia were reported by 46 (1.6%) of 2,962 SAXENDA-treated patients and 19 (1.1%) of 1,729 placebo-treated patients.
 Fasting plasma glucose values obtained at routine clinic visits less than 54 mg/dL, irrespective of hypoglycemic symptoms, occurred in 2 (0.1%) SAXENDA-treated patients and 1 (0.1%) placebo-treated patients.
 
 Pediatric Patients without Type 2 Diabetes
@@ -123,7 +122,7 @@ No severe hypoglycemic episodes, defined as requiring assistance of another pers
 
 Acute Pancreatitis
 
-In SAXENDA clinical trials in adults, acute pancreatitis was confirmed by adjudication in 9 (0.3%) of 3291 SAXENDA-treated patients and 2 (0.1%) of 1843 placebo-treated patients.
+In SAXENDA clinical trials in adults, acute pancreatitis was confirmed by adjudication in 9 (0.3%) of 3,291 SAXENDA-treated patients and 2 (0.1%) of 1843 placebo-treated patients.
 In addition, there were 2 cases of acute pancreatitis in SAXENDA-treated patients who prematurely withdrew from these clinical trials, occurring 74 and 124 days after the last dose.
 There were 2 additional cases in SAXENDA-treated patients, 1 during an off-treatment follow-up period within 2 weeks of discontinuing SAXENDA, and 1 that occurred in a patient who completed treatment and was off-treatment for 106 days.
 
@@ -188,17 +187,17 @@ In addition, there are insufficient data to determine whether SAXENDA has an eff
 
 Papillary Thyroid Cancer
 
-In SAXENDA clinical trials in adults, papillary thyroid carcinoma confirmed by adjudication was reported in 8 (0.2%) of 3291 SAXENDA-treated patients compared with no cases among 1843 placebo-treated patients.
+In SAXENDA clinical trials in adults, papillary thyroid carcinoma confirmed by adjudication was reported in 8 (0.2%) of 3291 SAXENDA-treated patients compared with no cases among 1,843 placebo-treated patients.
 Four of these papillary thyroid carcinomas were less than 1 cm in greatest diameter and 4 were diagnosed in surgical pathology specimens after thyroidectomy prompted by findings identified prior to treatment.
 
 Colorectal Neoplasms
 
-In SAXENDA clinical trials in adults, benign colorectal neoplasms (mostly colon adenomas) confirmed by adjudication were reported in 20 (0.6%) of 3291 SAXENDA-treated patients compared with 7 (0.4%) of 1843 placebo-treated patients.
+In SAXENDA clinical trials in adults, benign colorectal neoplasms (mostly colon adenomas) confirmed by adjudication were reported in 20 (0.6%) of 3,291 SAXENDA-treated patients compared with 7 (0.4%) of 1,843 placebo-treated patients.
 Six positively adjudicated cases of malignant colorectal neoplasms were reported in 5 SAXENDA-treated patients (0.2%, mostly adenocarcinomas) and 1 in a placebo-treated patient (0.1%, neuroendocrine tumor of the rectum).
 
 Cardiac Conduction Disorders
 
-In SAXENDA clinical trials in adults, 11 (0.3%) of 3384 SAXENDA-treated patients compared with none of the 1941 placebo-treated patients had a cardiac conduction disorder, reported as first degree atrioventricular block, right bundle branch block, or left bundle branch block.
+In SAXENDA clinical trials in adults, 11 (0.3%) of 3,384 SAXENDA-treated patients compared with none of the 1,941 placebo-treated patients had a cardiac conduction disorder, reported as first degree atrioventricular block, right bundle branch block, or left bundle branch block.
 
 Hypotension
 

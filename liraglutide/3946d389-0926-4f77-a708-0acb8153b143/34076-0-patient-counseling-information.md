@@ -58,15 +58,10 @@ Hypersensitivity Reactions
 Inform patients that serious hypersensitivity reactions have been reported during postmarketing use of SAXENDA.
 Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking SAXENDA and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.8)].
 
-Suicidal Behavior and Ideation
-
-Advise patients to report emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
-Inform patients that if they experience suicidal thoughts or behaviors, they should stop taking SAXENDA [see Warnings and Precautions (5.9)].
-
 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
 Inform patients that SAXENDA may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
-Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking SAXENDA [see Warnings and Precautions (5.10)].
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking SAXENDA [see Warnings and Precautions (5.9)].
 
 Never Share a SAXENDA Pen Between Patients
 
@@ -77,9 +72,9 @@ Marketed by: Novo Nordisk Inc., Plainsboro, NJ 08536
 
 SAXENDA® and VICTOZA® are registered trademarks of Novo Nordisk A/S.
 
-PATENT Information: http://novonordisk-us.com/products/product-patents.html
+Patent Information: http://novonordisk-us.com/products/product-patents.html
 
-© 2025 Novo Nordisk
+© 2026 Novo Nordisk
 
 For information about SAXENDA contact: Novo Nordisk Inc. 800 Scudders Mill Road Plainsboro, NJ 08536
 

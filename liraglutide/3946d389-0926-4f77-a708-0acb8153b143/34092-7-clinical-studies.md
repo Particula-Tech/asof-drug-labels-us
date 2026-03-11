@@ -6,13 +6,13 @@ The safety and efficacy of SAXENDA for chronic weight management in conjunction 
 In all studies, SAXENDA was titrated to 3 mg daily during a 4-week period.
 All patients received instruction for a reduced-calorie diet (approximately 500 kcal/day deficit) and physical activity counseling (recommended increase in physical activity of minimum 150 mins/week) that began with the first dose of study medication or placebo and continued throughout the trial.
 
-Study 1 enrolled 3731 patients with obesity (BMI greater than or equal to 30 kg/m2) or with overweight (BMI 27-29.9 kg/m2) and at least one weight-related comorbid condition such as treated or untreated dyslipidemia or hypertension; patients with type 2 diabetes mellitus were excluded.
+Study 1 enrolled 3,731 patients with obesity (BMI greater than or equal to 30 kg/m2) or with overweight (BMI 27-29.9 kg/m2) and at least one weight-related comorbid condition such as treated or untreated dyslipidemia or hypertension; patients with type 2 diabetes mellitus were excluded.
 Patients were randomized in a 2:1 ratio to either SAXENDA or placebo.
 Patients were stratified based on the presence or absence of abnormal blood glucose measurements at randomization.
 All patients were treated for up to 56 weeks.
-Those patients with abnormal glucose measurements at randomization (2254 of the 3731 patients) were treated for a total of 160 weeks.
+Those patients with abnormal glucose measurements at randomization (2,254 of the 3731 patients) were treated for a total of 160 weeks.
 At baseline, mean age was 45 years (range 18 to 78), 79% were female, 85% were White, 10% were Black or African American, and 11% were Hispanic/Latino Ethnicity.
-Mean baseline body weight was 106.3 kg and mean BMI was 38.3 kg/m2.
+Mean baseline body weight was 106.3 kg, and mean BMI was 38.3 kg/m2.
 
 Study 2 was a 56-week trial that enrolled 635 patients with type 2 diabetes and with either overweight or obesity (as defined above).
 Patients were to have an HbA1c of 7% to 10% and be treated with metformin, a sulfonylurea, or a glitazone as single agent or in any combination, or with a reduced-calorie diet and physical activity alone.
@@ -21,7 +21,7 @@ The mean age was 55 years (range 18 to 82), 50% were female, 83% were White, 12%
 Mean baseline body weight was 105.9 kg and mean BMI was 37.1 kg/m2.
 
 Study 3 was a 56-week trial that enrolled 422 patients with obesity (BMI greater than or equal to 30 kg/m2) or with overweight (BMI 27-29.9 kg/m2) and at least one weight-related comorbid condition such as treated or untreated dyslipidemia or hypertension; patients with type 2 diabetes mellitus were excluded.
-All patients were first treated with a low-calorie diet (total energy intake 1200-1400 kcal/day) in a run-in period lasting up to 12 weeks.
+All patients were first treated with a low-calorie diet (total energy intake 1,200-1,400 kcal/day) in a run-in period lasting up to 12 weeks.
 Patients who lost at least 5% of their screening body weight after 4 to 12 weeks during the run-in were then randomized, with equal allocation, to receive either SAXENDA or placebo for 56 weeks.
 The mean age was 46 years (range 18 to 73), 81% were female, 84% were White, 13% were Black or African American, and 7% were Hispanic/Latino Ethnicity.
 Mean baseline body weight was 99.6 kg and mean BMI was 35.6 kg/m2.
@@ -33,14 +33,14 @@ In the 160-week trial the proportions of patients who discontinued due to an adv
 
 Effect of SAXENDA on Body Weight in 56-week Trials
 
-For Study 1 and Study 2, the primary efficacy parameters were mean percent change in body weight and the percentages of patients achieving greater than or equal to 5% and 10% weight loss from baseline to week 56.
-For Study 3, the primary efficacy parameters were mean percent change in body weight from randomization to week 56, the percentage of patients not gaining more than 0.5% body weight from randomization (i.e., after run-in) to week 56, and the percentage of patients achieving greater than or equal to 5% weight loss from randomization to week 56.
+For Study 1 and Study 2, the primary efficacy parameters were mean percent change in body weight and the percentages of patients achieving greater than or equal to 5% and 10% weight loss from baseline to Week 56.
+For Study 3, the primary efficacy parameters were mean percent change in body weight from randomization to Week 56, the percentage of patients not gaining more than 0.5% body weight from randomization (i.e., after run-in) to Week 56, and the percentage of patients achieving greater than or equal to 5% weight loss from randomization to Week 56.
 Because losing at least 5% of fasting body weight through lifestyle intervention during the 4- to 12-week run-in was a condition for their continued participation in the randomized treatment period, the results may not reflect those expected in the general population.
 
 Table 4 presents the results for the changes in weight observed in Studies 1, 2, and 3.
 After 56 weeks, treatment with SAXENDA resulted in a statistically significant reduction in weight compared with placebo.
 Statistically significantly greater proportions of patients treated with SAXENDA achieved 5% and 10% weight loss than those treated with placebo.
-In Study 3, statistically significantly more patients randomized to SAXENDA than placebo had not gained more than 0.5% of body weight from randomization to week 56.
+In Study 3, statistically significantly more patients randomized to SAXENDA than placebo had not gained more than 0.5% of body weight from randomization to Week 56.
 
 Table 4.
 Changes in Weight at Week 56 for Studies 1, 2, and 3
@@ -64,17 +64,17 @@ Type 1 error was controlled across the three endpoints.
 
 Includes all randomized subjects who had a baseline body weight measurement.
 All available body weight data during the 56 week treatment period are included in the analysis.
-In Studies 1 and 2 missing values for week 56 were handled using multiple imputations analysis.
-In Study 3 missing values for week 56 were handled using weighted regression analysis.
+In Studies 1 and 2 missing values for Week 56 were handled using multiple imputations analysis.
+In Study 3 missing values for Week 56 were handled using weighted regression analysis.
 
-The cumulative frequency distributions of change in body weight from baseline to week 56 are shown in Figure 2 for Studies 1 and 2.
+The cumulative frequency distributions of change in body weight from baseline to Week 56 are shown in Figure 2 for Studies 1 and 2.
 One way to interpret this figure is to select a change in body weight of interest on the horizontal axis and note the corresponding proportions of patients (vertical axis) in each treatment group who achieved at least that degree of weight loss.
 For example, note that the vertical line arising from ‑10% in Study 1 intersects the SAXENDA and placebo curves at approximately 34% and 15%, respectively, which correspond to the values shown in Table 4.
 
 Figure 2.
-Change in body weight (%) from baseline to week 56 (Study 1 on left and Study 2 on right)
+Change in body weight (%) from baseline to Week 56 (Study 1 on left and Study 2 on right)
 
-The time courses of weight loss with SAXENDA and placebo from baseline through week 56 are depicted in Figure 3 and Figure 4.
+The time courses of weight loss with SAXENDA and placebo from baseline through Week 56 are depicted in Figure 3 and Figure 4.
 
 Figure 3.
 Change from baseline (%) in body weight (Study 1 on left and Study 2 on right)
@@ -84,7 +84,7 @@ Change from baseline (%) in body weight during Study 3
 
 Effect of SAXENDA on Body Weight in a 160-week Trial (Study 1, Subset of Patients with Abnormal Blood Glucose at Randomization)
 
-The numbers and percentages of patients known to have lost greater than or equal to 5% body weight at week 56 and/or week 160 in Study 1 (patients with abnormal glucose at randomization only) are summarized in Table 5 for descriptive purposes.
+The numbers and percentages of patients known to have lost greater than or equal to 5% body weight at Week 56 and/or Week 160 in Study 1 (patients with abnormal glucose at randomization only) are summarized in Table 5 for descriptive purposes.
 
 - Table 5.
   Changes in Weight at Week 56 and Week 160 for Study 1 (Subset of Patients with Abnormal Blood Glucose at Randomization)
@@ -128,7 +128,7 @@ Results from Study 3, which also enrolled patients without diabetes mellitus, we
 2. 1 Least squares mean adjusted for treatment, country, sex, pre-diabetes status at screening, baseline BMI stratum and an interaction between pre-diabetes status at screening and BMI stratum as fixed factors, and the baseline value as covariate.
 3. 2 See Warnings and Precautions (5.5)
 4. * Baseline value is the geometric mean
-5. †Values are baseline median, median % change, and the Hodges-Lehmann estimate of the median treatment difference.Table 7.
+5. † Values are baseline median, median % change, and the Hodges-Lehmann estimate of the median treatment difference.Table 7.
    Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 2 (Patients with Diabetes Mellitus)
 
 |  | SAXENDA N=423 |  | Placebo N=212 |  |  |
@@ -170,11 +170,11 @@ The proportions of patients who discontinued study drug were 19.2% for the SAXEN
 
 The primary endpoint was change in BMI SDS.
 At baseline, mean BMI SDS was 3.14 in the SAXENDA group and 3.20 in the placebo group.
-At week 56, treatment with SAXENDA resulted in statistically significant reduction in BMI SDS from baseline compared to placebo.
-The observed mean change in BMI SDS from baseline to week 56 was -0.23 in the SAXENDA group and -0.00 in the placebo group.
+At Week 56, treatment with SAXENDA resulted in statistically significant reduction in BMI SDS from baseline compared to placebo.
+The observed mean change in BMI SDS from baseline to Week 56 was -0.23 in the SAXENDA group and -0.00 in the placebo group.
 The estimated treatment difference in BMI SDS reduction from baseline between SAXENDA and placebo was -0.22 with a 95% confidence interval of -0.37, -0.08; p=0.0022.
 
-The time course of change in BMI SDS with SAXENDA and placebo from baseline through week 56 are depicted in Figure 5.
+The time course of change in BMI SDS with SAXENDA and placebo from baseline through Week 56 are depicted in Figure 5.
 
 Figure 5.
 Change from Baseline in BMI SDS
@@ -193,11 +193,11 @@ Changes in Weight and BMI at Week 56 for Study 4 (Pediatric Patients Ages 12 to 
 | BMI |  |  |  |
 | Baseline mean BMI (kg/m2) | 35.3 | 35.8 |  |
 | Mean Change from Baseline (%) | -4.29 | 0.35 | -4.64 |
-| Proportion of patients with greater than or equal to 5% reduction in baseline BMI at week 56 (%) | 43.3% | 18.7% | 24.6% |
-| Proportion of patients with greater than or equal to 10% reduction in baseline BMI at week 56 (%) | 26.1% | 8.1% | 18% |
+| Proportion of patients with greater than or equal to 5% reduction in baseline BMI at Week 56 (%) | 43.3% | 18.7% | 24.6% |
+| Proportion of patients with greater than or equal to 10% reduction in baseline BMI at Week 56 (%) | 26.1% | 8.1% | 18% |
 
 Full Analysis Set.
-For body weight and BMI, baseline values are means, changes from baseline at week 56 are estimated means (least-squares) and treatment contrasts at week 56 are estimated treatment differences.
+For body weight and BMI, baseline values are means, changes from baseline at Week 56 are estimated means (least-squares) and treatment contrasts at Week 56 are estimated treatment differences.
 Missing observations were imputed from the placebo arm based on a jump to reference multiple (x100) imputation approach.
 
 Table 9.
@@ -219,7 +219,7 @@ Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 4 (Pediatr
 | * See Warnings and Precautions (5.5) |  |  |  |  |  |
 
 Full Analysis Set.
-Baseline values are means, changes from baseline at week 56 are estimated means (least-squares) and treatment contrasts at week 56 are estimated treatment differences.
+Baseline values are means, changes from baseline at Week 56 are estimated means (least-squares) and treatment contrasts at Week 56 are estimated treatment differences.
 Missing observations were imputed from the placebo arm based on a jump to reference multiple (x100) imputation approach.
 
 1. ** Baseline values are geometric means.
