@@ -39,8 +39,12 @@ Adverse Reactions* Reported in Women with Heavy Menstrual Bleeding (Studies 1 an
 | Migraine | 14 (6.0%) | 8 (5.8%) |
 | Anemia | 13 (5.6%) | 5 (3.6%) |
 | Fatigue | 12 (5.2%) | 6 (4.3%) |
-
-* Adverse reactions that were reported by ≥ 5% of tranexamic acid tablets-treated subjects and more frequently in tranexamic acid tablets-treated subjects compared to placebo-treated subjects a Includes headache and tension headache b Nasal and sinus symptoms include nasal, respiratory tract and sinus congestion, sinusitis, acute sinusitis, sinus headache, allergic sinusitis and sinus pain, and multiple allergies and seasonal allergies c Abdominal pain includes abdominal tenderness and discomfort d Musculoskeletal pain includes musculoskeletal discomfort and myalgia e Arthralgia includes joint stiffness and swelling
+| * Adverse reactions that were reported by ≥ 5% of tranexamic acid tablets-treated subjects and more frequently in tranexamic acid tablets-treated subjects compared to placebo-treated subjects |  |  |
+| a Includes headache and tension headache |  |  |
+| b Nasal and sinus symptoms include nasal, respiratory tract and sinus congestion, sinusitis, acute sinusitis, sinus headache, allergic sinusitis and sinus pain, and multiple allergies and seasonal allergies |  |  |
+| c Abdominal pain includes abdominal tenderness and discomfort |  |  |
+| d Musculoskeletal pain includes musculoskeletal discomfort and myalgia |  |  |
+| e Arthralgia includes joint stiffness and swelling |  |  |
 
 Adverse Reactions in Long-term Studies
 

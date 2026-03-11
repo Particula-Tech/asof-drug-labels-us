@@ -5,5 +5,3 @@ Tranexamic Acid Tablets 650 mg
 Rx only
 
 30 Tablets
-
-teva

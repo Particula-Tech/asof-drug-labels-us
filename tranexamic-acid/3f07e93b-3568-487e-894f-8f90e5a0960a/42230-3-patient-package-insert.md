@@ -106,11 +106,11 @@ This may be a sign of a more serious condition.
 
 Call your healthcare provider for medical advice about side effects.
 You may report side effects to the FDA at 1-800-FDA-1088.
-You may also report side effects to Actavis at 1-888-838-2872.
+You may also report side effects to Teva at 1-888-838-2872.
 
 How should I store tranexamic acid tablets?
 
-Store tranexamic acid tablets at room temperature between 20º to 25º C (68º to 77º F).
+Store tranexamic acid tablets at room temperature between 20º to 25ºC (68º to 77ºF).
 
 Keep tranexamic acid tablets and all medicines out of the reach of children.
 
@@ -130,11 +130,11 @@ What are the ingredients of tranexamic acid tablets?
 
 Active ingredient: tranexamic acid
 
-Inactive ingredients: colloidal silicon dioxide, copovidone, crospovidone, dimethylaminoethyl methacrylate - butyl methacrylate - methyl methacrylate copolymer, glyceryl behenate, lactose monohydrate, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, talc, and triethyl citrate.
+Inactive ingredients: colloidal silicon dioxide, copovidone, crospovidone, dimethylaminoethyl methacrylate - butyl methacrylate - methyl methacrylate copolymer, glyceryl dibehenate, lactose monohydrate, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, polyethylene glycol 8000, talc, and triethyl citrate.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured By: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-A 12/2020
+B 7/2025

@@ -16,7 +16,7 @@ Administration Instructions
 
 Instruct patients to take tranexamic acid tablets only during menstruation and for a maximum of 5 days each month [see Recommended Dosage (2.1)].
 
-Manufactured By: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-A 12/2020
+B 7/2025

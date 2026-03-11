@@ -50,8 +50,13 @@ Mean (CV%) Pharmacokinetic Parameters Following a Single (1300 mg) and Multiple 
 | AUCinf (mcg•h/mL) | 80.19 (30.43) | - |
 | Tmax (h)b | 2.5 (1 to 5) | 2.5 (2 to 3.5) |
 | t1/2 (h) | 11.08 (16.94) | - |
-
-Cmax = maximum concentration AUCtldc = area under the drug concentration curve from time 0 to time of last determinable concentration AUCinf = area under the drug concentration curve from time 0 to infinity Tmax = time to maximum concentration t1/2 = terminal elimination half-life a AUC0-tau (mcg•h/mL) = area under the drug concentration curve from time 0 to 8 hours b Data presented as median (range)
+| Cmax = maximum concentration |  |  |
+| AUCtldc = area under the drug concentration curve from time 0 to time of last determinable concentration |  |  |
+| AUCinf = area under the drug concentration curve from time 0 to infinity |  |  |
+| Tmax = time to maximum concentration |  |  |
+| t1/2 = terminal elimination half-life |  |  |
+| a AUC0-tau (mcg•h/mL) = area under the drug concentration curve from time 0 to 8 hours |  |  |
+| b Data presented as median (range) |  |  |
 
 Effect of food: Tranexamic acid tablets may be administered with or without food.
 A single dose administration (1300 mg) of tranexamic acid tablets with food increased both Cmax and AUC by 7% and 16%, respectively.

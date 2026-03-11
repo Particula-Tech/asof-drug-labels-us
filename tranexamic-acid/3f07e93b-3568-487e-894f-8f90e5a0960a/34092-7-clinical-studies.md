@@ -33,8 +33,7 @@ Mean Reduction from Baseline in Menstrual Blood Loss in Women with Heavy Menstru
 | Tranexamic acid tablets 3900 mg/day | 112 | 169 | 65* | 39% |
 | Tranexamic acid tablets 1950 mg/day | 115 | 178 | 44 | 25% |
 | Placebo | 67 | 154 | 7 | 5% |
-
-* p<0.001 versus placebo
+| * p<0.001 versus placebo |  |  |  |  |
 
 Tranexamic acid tablets also statistically significantly reduced limitations on social, leisure, and physical activities in the 3900 mg/day dose group compared to the placebo group (see Table 5).
 No statistically significant treatment difference was observed in response rates on the number of large stains.
@@ -53,8 +52,11 @@ Table 5: Secondary Outcomes in 3-Cycle Study in Women with Heavy Menstrual Bleed
 | Reduction in Large Stains |  |  |  |
 | 3900 mg/day Tranexamic acid tablets | 111 |  | 64%e |
 | Placebo | 67 |  | 52% |
-
-a Response categories: 1=not at all limited; 2=slightly limited; 3=moderately limited; 4=quite a bit limited; 5=extremely limited b Positive means reflect an improvement from baseline. c p-value <0.05 versus placebo d Responders are defined as subjects who experienced a reduction from baseline in frequency of large stains. e Non-significant difference versus placebo
+| a Response categories: 1=not at all limited; 2=slightly limited; 3=moderately limited; 4=quite a bit limited; 5=extremely limited |  |  |  |
+| b Positive means reflect an improvement from baseline. |  |  |  |
+| c p-value <0.05 versus placebo |  |  |  |
+| d Responders are defined as subjects who experienced a reduction from baseline in frequency of large stains. |  |  |  |
+| e Non-significant difference versus placebo |  |  |  |
 
 ## 14.3 Heavy Menstrual Bleeding in the Six-Cycle Treatment Study
 
@@ -72,8 +74,7 @@ Mean Reduction from Baseline in Menstrual Blood Loss in Women with Heavy Menstru
 | --- | --- | --- | --- | --- |
 | Tranexamic acid tablets 3900 mg/day | 115 | 172 | 66* | 38% |
 | Placebo | 72 | 153 | 18 | 12% |
-
-* p<0.001 versus placebo
+| * p<0.001 versus placebo |  |  |  |  |
 
 Limitations on social, leisure, and physical activities were also statistically significantly reduced in the tranexamic acid tablets group compared to placebo (see Table 7).
 No statistically significant treatment difference was observed in response rates on the number of large stains.
@@ -93,8 +94,11 @@ Secondary Outcomes in 6-Cycle Study in Women with Heavy Menstrual Bleeding (Stud
 | Reduction in Large Stains |  |  |  |
 | 3900 mg/day Tranexamic acid tablets | 115 |  | 57%e |
 | Placebo | 72 |  | 51% |
-
-a Response categories: 1=not at all limited; 2=slightly limited; 3=moderately limited; 4=quite a bit limited; 5=extremely limited b Positive means reflect an improvement from baseline c p-value <0.05 versus placebo d Responders are defined as subjects who experienced a reduction from baseline in frequency of large stains e Non-significant difference versus placebo
+| a Response categories: 1=not at all limited; 2=slightly limited; 3=moderately limited; 4=quite a bit limited; 5=extremely limited |  |  |  |
+| b Positive means reflect an improvement from baseline |  |  |  |
+| c p-value <0.05 versus placebo |  |  |  |
+| d Responders are defined as subjects who experienced a reduction from baseline in frequency of large stains |  |  |  |
+| e Non-significant difference versus placebo |  |  |  |
 
 ## 14.4 Heavy Menstrual Bleeding Results over Time
 
