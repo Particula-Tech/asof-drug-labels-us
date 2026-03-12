@@ -49,6 +49,6 @@
 | What are the ingredients in XEOMIN? |  |  |  |
 | Active ingredient: botulinum toxin type A |  |  |  |
 | Inactive ingredients: human albumin and sucrose |  |  |  |
-| Manufactured by: Merz Pharmaceuticals GmbH, Eckenheimer Landstrasse 100, Frankfurt Germany U.S. License Number 1830 Distributed by: Merz Pharmaceuticals, LLC, 6601 Six Forks Road, Suite 430, Raleigh, NC 27615 and Merz North America, Inc. 4133 Courtney Street, Suite 10, Franksville, WI 53126 ©2024 Merz Pharmaceuticals, LLC, XEOMIN® is a registered trademark of Merz Pharma GmbH & Co KGaA. Patent www.merztherapeutics.com/us/patents/ |  |  |  |
-| IN00180-02 |  |  |  |
-| This Medication Guide has been approved by the U. S. Food and Drug Administration. |  |  | Revised: 7/2024 |
+| Manufactured by: Merz Pharmaceuticals GmbH, Eckenheimer Landstraße 100, 60318 Frankfurt am Main, Germany U.S. License Number 1830 Distributed by: Merz Pharmaceuticals, LLC, 6601 Six Forks Road, Suite 400, Raleigh, NC 27615 and Merz North America, Inc. 4133 Courtney Street, Suite 10, Franksville, WI 53126 ©2026 Merz Pharmaceuticals, LLC, XEOMIN® is a registered trademark of Merz Pharma GmbH & Co KGaA. Patent www.merztherapeutics.com/us/patents/ |  |  |  |
+| FPI-0006 v5.0 |  |  |  |
+| This Medication Guide has been approved by the U. S. Food and Drug Administration. |  |  | Revised: 02/2026 |
