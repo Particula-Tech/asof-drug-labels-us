@@ -12,16 +12,16 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
-
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
+
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-RVPL0182A1
+RVPL0182A2
 
 Each tablet contains: Propranolol hydrochloride, USP 10 mg
 
@@ -39,16 +39,16 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
-
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
+
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-RVPL0183A1
+RVPL0183A2
 
 Each tablet contains: Propranolol hydrochloride, USP 20 mg
 
@@ -66,16 +66,16 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
-
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
+
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-RVPL0184A1
+RVPL0184A2
 
 Each tablet contains: Propranolol hydrochloride, USP 40 mg
 
@@ -93,16 +93,16 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
-
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
+
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-RVPL0187A1
+RVPL0187A2
 
 Each tablet contains: Propranolol hydrochloride, USP 60 mg
 
@@ -117,21 +117,18 @@ Propranolol Hydrochloride Tablets, USP
 Rx only 100 Tablets
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
 Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
-
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
+
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-RVPL0185A1
+RVPL0185A2
 
 Each tablet contains: Propranolol hydrochloride, USP 80 mg
-
-Mylan.com

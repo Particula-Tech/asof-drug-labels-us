@@ -41,6 +41,6 @@ Protect from light.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-Revised: 6/2023 VPL:PRAN:R1
+Revised: 1/2026 VPL:PRAN:R2
