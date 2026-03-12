@@ -46,8 +46,8 @@ Verity Pharma Medical Affairs: 1-844-VERITY-1 (1-844-837-4891)
 
 Manufactured for:
 
-Manufactured for Verity Pharmaceuticals, Inc. Ewing, NJ 08628 Manufactured in the United Kingdom
+Manufactured for Verity Pharmaceuticals, Inc. Ewing, NJ 08628
 
-TLANDO® and its design are registered trademarks of Verity Pharmaceuticals Inc. Verity Pharmaceuticals, Verity Pharma, and their designs are trademarks of Verity Pharmaceuticals, Inc. © 2024 Verity Pharmaceuticals Inc. All rights reserved.
+TLANDO® and its design are registered trademarks of Verity Pharmaceuticals Inc. Verity Pharmaceuticals, Verity Pharma, and their designs are trademarks of Verity Pharmaceuticals, Inc. © 2026 Verity Pharmaceuticals Inc. All rights reserved.
 
-TLA-001
+TLA-075
