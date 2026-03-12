@@ -1,3 +1,3 @@
 # 3. DOSAGE FORMS AND STRENGTHS
 
-Ophthalmic solution: 1% atropine sulfate.
+Atropine sulfate ophthalmic solution, USP: 1% atropine sulfate.
