@@ -20,13 +20,7 @@ Manufactured by:
 
 PHARMATHEN INTERNATION S.A., Rodopi 69300, GREECE (GRC)
 
-Manufactured For:
-
-TORRENT PHARMA INC., Basking Ridge, NJ 07920
-
-Revised: 06/2022
-
-2823402/3
+Revised: 07/2025
 
 Marketed by:
 
