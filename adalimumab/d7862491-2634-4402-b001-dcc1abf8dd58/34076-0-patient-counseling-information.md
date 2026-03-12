@@ -13,7 +13,7 @@ Counsel patients about the risk of malignancies while receiving AMJEVITA [see Wa
 
 Hypersensitivity Reactions
 
-Advise patients to seek immediate medical attention if they experience any symptoms of severe hypersensitivity reactions.
+Advise patients to seek immediate medical attention if they experience any symptoms of severe hypersensitivity reactions [see Warnings and Precautions (5.3)].
 
 Other Medical Conditions
 
@@ -25,8 +25,16 @@ Instructions on Injection Technique
 Inform patients that the first injection is to be performed under the supervision of a qualified health care professional.
 If a patient or caregiver is to administer AMJEVITA, instruct them in injection techniques and assess their ability to inject subcutaneously to ensure the proper administration of AMJEVITA [see Instructions for Use].
 
+For patients who will use the AMJEVITA SureClick autoinjector, tell them that they:
+
+- May hear or feel a 'click' when the light blue-colored start button is pressed.
+- Must keep holding the AMJEVITA SureClick autoinjector against their pinched, raised skin until all of the medicine is injected.
+  This can take up to 10 seconds for the 40 mg/0.4 mL and up to 15 seconds for the 80 mg/0.8 mL.
+- Will know that the injection has finished when the window is fully yellow.
+
 Instruct patients to dispose of their used needles and syringes or used prefilled autoinjector in a FDA-cleared sharps disposal container immediately after use.
-Instruct patients not to dispose of loose needles and syringes or prefilled autoinjector in their household trash.Instruct patients that if they do not have a FDA-cleared sharps disposal container, they may use a household container that is made of a heavy-duty plastic, can be closed with a tight-fitting and puncture-resistant lid without sharps being able to come out, upright and stable during use, leak-resistant, and properly labeled to warn of hazardous waste inside the container.
+Instruct patients not to dispose of loose needles and syringes or prefilled autoinjector in their household trash.
+Instruct patients that if they do not have a FDA-cleared sharps disposal container, they may use a household container that is made of a heavy-duty plastic, can be closed with a tight-fitting and puncture-resistant lid without sharps being able to come out, upright and stable during use, leak-resistant, and properly labeled to warn of hazardous waste inside the container.
 
 Instruct patients that when their sharps disposal container is almost full, they will need to follow their community guidelines for the correct way to dispose of their sharps disposal container.
 

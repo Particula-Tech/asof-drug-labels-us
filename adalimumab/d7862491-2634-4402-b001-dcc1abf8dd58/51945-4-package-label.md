@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 20 mg/0.2 mL Syringe Carton
 
-AMJEVITA ® (adalimumab-atto) Injection
+AMJEVITA® (adalimumab-atto) Injection
 
 NDC 84612-399-01
 
@@ -39,7 +39,7 @@ CAUTION, Consult Accompanying Documents
 
 # PRINCIPAL DISPLAY PANEL - 40 mg/0.4 mL Syringe Carton
 
-AMJEVITA ® (adalimumab-atto) Injection
+AMJEVITA® (adalimumab-atto) Injection
 
 NDC 84612-479-02
 
@@ -76,7 +76,7 @@ CAUTION, Consult Accompanying Documents
 
 # PRINCIPAL DISPLAY PANEL - 40 mg/0.4 mL Autoinjector Carton
 
-AMJEVITA ® (adalimumab-atto) Injection
+AMJEVITA® (adalimumab-atto) Injection
 
 NDC 84612-482-02
 
@@ -105,7 +105,7 @@ Not made with natural rubber latex
 
 40 mg/ 0.4 mL
 
-2 Single-dose Prefilled SureClick ®Autoinjectors
+2 Single-dose Prefilled SureClick® Autoinjectors
 
 Refrigerate until ready to use
 
@@ -113,7 +113,7 @@ CAUTION, Consult Accompanying Documents
 
 # PRINCIPAL DISPLAY PANEL - 80 mg/0.8 mL Autoinjector Carton
 
-AMJEVITA ® (adalimumab-atto) Injection
+AMJEVITA® (adalimumab-atto) Injection
 
 NDC 84612-481-02
 
@@ -142,7 +142,7 @@ Not made with natural rubber latex
 
 80 mg/ 0.8 mL
 
-2 Single-dose Prefilled SureClick ®Autoinjectors
+2 Single-dose Prefilled SureClick® Autoinjectors
 
 Refrigerate until ready to use
 
