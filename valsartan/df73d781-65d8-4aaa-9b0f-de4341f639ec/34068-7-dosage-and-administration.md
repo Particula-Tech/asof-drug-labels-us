@@ -6,7 +6,7 @@ PREXXARTAN is not therapeutically equivalent to the tablet formulation of Diovan
 The peak concentration of valsartan with PREXXARTAN is higher than with Diovan [see Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 Follow dosing instructions given here.
 
-## 2.2 Adult Hypertension
+## 2.2 AdultHypertension
 
 The recommended starting dose of PREXXARTAN is 40 mg or 80 mg twice daily when used as monotherapy in patients who are not volume-depleted.
 Patients requiring greater reductions in blood pressure may be started at 80 mg administered twice a day.
@@ -27,7 +27,7 @@ The recommended starting dose is 0.65 mg/kg twice daily (up to 40 mg total daily
 The dosage should be adjusted according to blood pressure response.
 Doses higher than 1.35 mg/kg twice daily (or >160 mg total daily dose) have not been studied in pediatric patients 6 to 16 years old.
 
-No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2[see Use in Specific Populations (8.4)].
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m 2[see Use in Specific Populations (8.4)].
 
 PREXXARTAN is not recommended for patients under 6 years of age [see Adverse Reactions (6.1), Use in Specific Populations (8.4), Clinical Studies (14.1)].
 

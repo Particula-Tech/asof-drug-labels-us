@@ -1,10 +1,10 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1Clinical Studies Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-Adult Hypertension
+AdultHypertension
 
 Valsartan has been evaluated for safety in more than 4,000 patients, including over 400 treated for over 6 months, and more than 160 for over 1 year.
 Adverse reactions have generally been mild and transient in nature and have only infrequently required discontinuation of therapy.
@@ -24,21 +24,21 @@ It cannot be determined whether these events were causally related to valsartan.
 
 Body as a Whole: Allergic reaction and asthenia
 
-Cardiovascular: Palpitations
+Cardiovascular:Palpitations
 
-Dermatologic: Pruritus and rash
+Dermatologic:Pruritus and rash
 
-Digestive: Constipation, dry mouth, dyspepsia, and flatulence
+Digestive:Constipation, dry mouth, dyspepsia, and flatulence
 
-Musculoskeletal: Back pain, muscle cramps, and myalgia
+Musculoskeletal:Back pain, muscle cramps, and myalgia
 
-Neurologic and Psychiatric: Anxiety, insomnia, paresthesia, and somnolence
+Neurologic and Psychiatric:Anxiety, insomnia, paresthesia, and somnolence
 
-Respiratory: Dyspnea
+Respiratory:Dyspnea
 
-Special Senses: Vertigo
+Special Senses:Vertigo
 
-Urogenital: Impotence
+Urogenital:Impotence
 
 Other reported events seen less frequently in clinical trials included chest pain, syncope, anorexia, vomiting, and angioedema.
 
@@ -102,30 +102,30 @@ Discontinuations due to renal dysfunction occurred in 1.1% of valsartan-treated 
 
 In controlled clinical trials, clinically important changes in standard laboratory parameters were rarely associated with administration of valsartan.
 
-Creatinine: Minor elevations in creatinine occurred in 0.8% of patients taking valsartan and 0.6% given placebo in controlled clinical trials of hypertensive patients.
+Creatinine:Minor elevations in creatinine occurred in 0.8% of patients taking valsartan and 0.6% given placebo in controlled clinical trials of hypertensive patients.
 In heart failure trials, greater than 50% increases in creatinine were observed in 3.9% of valsartan-treated patients compared to 0.9% of placebo-treated patients.
 In post-myocardial infarction patients, doubling of serum creatinine was observed in 4.2% of valsartan-treated patients and 3.4% of captopril-treated patients.
 
-Hemoglobin and Hematocrit: Greater than 20% decreases in hemoglobin and hematocrit were observed in 0.4% and 0.8%, respectively, of valsartan patients, compared with 0.1% and 0.1% in placebo-treated patients.
+Hemoglobin and Hematocrit:Greater than 20% decreases in hemoglobin and hematocrit were observed in 0.4% and 0.8%, respectively, of valsartan patients, compared with 0.1% and 0.1% in placebo-treated patients.
 
-Liver Function Tests: Occasional elevations (greater than 150%) of liver chemistries occurred in valsartan-treated patients.
+Liver Function Tests:Occasional elevations (greater than 150%) of liver chemistries occurred in valsartan-treated patients.
 Three patients (<0.1%) treated with valsartan discontinued treatment for elevated liver chemistries.
 
-Neutropenia: Neutropenia was observed in 1.9% of patients treated with valsartan and 0.8% of patients treated with placebo.
+Neutropenia:Neutropenia was observed in 1.9% of patients treated with valsartan and 0.8% of patients treated with placebo.
 
-Serum Potassium: In hypertensive patients, greater than 20% increases in serum potassium were observed in 4.4% of valsartan-treated patients compared to 2.9% of placebo-treated patients.
+Serum Potassium:In hypertensive patients, greater than 20% increases in serum potassium were observed in 4.4% of valsartan-treated patients compared to 2.9% of placebo-treated patients.
 In heart failure patients, greater than 20% increases in serum potassium were observed in 10.0% of valsartan-treated patients compared to 5.1% of placebo-treated patients.
 
-Blood Urea Nitrogen (BUN): In heart failure trials, greater than 50% increases in BUN were observed in 16.6% of valsartan-treated patients compared to 6.3% of placebo-treated patients.
+Blood Urea Nitrogen (BUN):In heart failure trials, greater than 50% increases in BUN were observed in 16.6% of valsartan-treated patients compared to 6.3% of placebo-treated patients.
 
 ## 6.2 Postmarketing Experience
 
 The following additional adverse reactions have been reported in postmarketing experience:
 
-Hypersensitivity: There are rare reports of angioedema.
+Hypersensitivity:There are rare reports of angioedema.
 Some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
 Valsartan should not be re-administered to patients who have had angioedema.
-Digestive: Elevated liver enzymes and very rare reports of hepatitis Renal: Impaired renal function, renal failure Clinical Laboratory Tests: Hyperkalemia Dermatologic: Alopecia, bullous dermatitis Blood and Lymphatic: There are very rare reports of thrombocytopenia Vascular: Vasculitis
+Digestive:Elevated liver enzymes and very rare reports of hepatitis Renal:Impaired renal function, renal failure Clinical Laboratory Tests:Hyperkalemia Dermatologic:Alopecia, bullous dermatitis Blood and Lymphatic:There are very rare reports of thrombocytopenia Vascular:Vasculitis
 
 Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
 

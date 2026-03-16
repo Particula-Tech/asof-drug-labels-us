@@ -1,6 +1,6 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Risk Summary PREXXARTAN can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
@@ -23,17 +23,17 @@ In the unusual case that there is no appropriate alternative to therapy with dru
 In patients taking PREXXARTAN during pregnancy, perform serial ultrasound examinations to assess the intra-amniotic environment.
 Fetal testing may be appropriate, based on the week of gestation.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to PREXXARTAN for hypotension, oliguria, and hyperkalemia.
-If oliguria or hypotension occur in neonates with a history of in utero exposure to PREXXARTAN, support blood pressure and renal perfusion.
+Closely observe infants with histories of in uteroexposure to PREXXARTAN for hypotension, oliguria, and hyperkalemia.
+If oliguria or hypotension occur in neonates with a history of in uteroexposure to PREXXARTAN, support blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and substituting for disordered renal function.
 
 Data Animal Data No teratogenic effects were observed when valsartan was administered to pregnant mice and rats at oral doses up to 600 mg/kg/day and to pregnant rabbits at oral doses up to 10 mg/kg/day.
 However, significant decreases in fetal weight, pup birth weight, pup survival rate, and slight delays in developmental milestones were observed in studies in which parental rats were treated with valsartan at oral, maternally toxic (reduction in body weight gain and food consumption) doses of 600 mg/kg/day during organogenesis or late gestation and lactation.
 In rabbits, fetotoxicity (i.e., resorptions, litter loss, abortions, and low body weight) associated with maternal toxicity (mortality) was observed at doses of 5 and 10 mg/kg/day.
-The no observed adverse effect doses of 600, 200 and 2 mg/kg/day in mice, rats and rabbits represent 9, 6, and 0.1 times, respectively, the maximum recommended human dose on a mg/m2 basis.
+The no observed adverse effect doses of 600, 200 and 2 mg/kg/day in mice, rats and rabbits represent 9, 6, and 0.1 times, respectively, the maximum recommended human dose on a mg/m 2basis.
 Calculations assume an oral dose of 320 mg/day and a 60-kg patient.
 
-## 8.2 Lactation
+## 8.2Lactation
 
 Risk Summary There are no data on the presence of PREXXARTAN in human milk, the effects on the breastfed infant, or the effects on milk production.
 Valsartan is present in rat milk (see Data).
@@ -41,7 +41,7 @@ Because of the potential for valsartan to affect postnatal renal development in 
 
 Data Valsartan was detected in the milk of lactating rats 15 minutes after administration of a 3 mg/kg dose.
 
-## 8.4 Pediatric Use
+## 8.4Pediatric Use
 
 Valsartan is not recommended for pediatric patients under 6 years of age due to safety findings for which a relationship to treatment could not be excluded [see Adverse Reactions (6.1)].
 Furthermore, it is unknown whether post-natal use of valsartan before maturation of renal function is complete has long-term deleterious effects on the kidney.
@@ -52,10 +52,10 @@ The pharmacokinetics of valsartan have been evaluated in pediatric patients 1 to
 Valsartan was generally well tolerated in children 6-16 years and the adverse experience profile was similar to that described for adults.
 In children and adolescents with hypertension where underlying renal abnormalities may be more common, renal function and serum potassium should be closely monitored as clinically indicated.
 
-No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2.
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m 2.
 There is limited clinical experience with valsartan in pediatric patients with mild to moderate hepatic impairment [see Warnings and Precautions (5.3)].
 
-## 8.5 Geriatric Use
+## 8.5Geriatric Use
 
 In the controlled clinical trials of valsartan, 1,214 (36.2%) hypertensive patients treated with valsartan were ≥65 years and 265 (7.9%) were ≥75 years.
 No overall difference in the efficacy or safety of valsartan was observed in this patient population, but greater sensitivity of some older individuals cannot be ruled out.

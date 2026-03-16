@@ -1,10 +1,10 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Hypertension
+## 14.1Hypertension
 
 Studies evaluating the antihypertensive effects of valsartan were conducted with a formulation that is not therapeutically equivalent to PREXXARTAN [see Clinical Pharmacology (12.3)].
 
-Adult Hypertension
+AdultHypertension
 
 The antihypertensive effects of valsartan were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (1 in patients over 65 years) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95-115 mmHg.
 The studies allowed comparison of once-daily and twice-daily regimens of 160 mg/day; comparison of peak and trough effects; comparison (in pooled data) of response by gender, age, and race; and evaluation of incremental effects of hydrochlorothiazide.

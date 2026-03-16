@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Hypertension
+## 1.1Hypertension
 
 PREXXARTAN is indicated for the treatment of hypertension in adults and children six years and older, to lower blood pressure.
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
@@ -25,8 +25,8 @@ PREXXARTAN may be used alone or in combination with other antihypertensive agent
 ## 1.2 Heart Failure
 
 PREXXARTAN is indicated for the treatment of heart failure (NYHA class II-IV) to reduce the risk of hospitalization for heart failure in patients who are unable to swallow valsartan tablets.
-There is no evidence that valsartan provides added benefits when it is used with an adequate dose of an ACE inhibitor [see Warnings and Precautions (5.2), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+There is no evidence that valsartan provides added benefits when it is used with an adequate dose of an ACE inhibitor [see Warnings and Precautions (5.2), Clinical Pharmacology (12.3)and Clinical Studies (14.2)].
 
 ## 1.3 Post-Myocardial Infarction
 
-PREXXARTAN is indicated to reduce the risk of cardiovascular death in clinically stable patients with left ventricular failure or left ventricular dysfunction following myocardial infarction who are unable to swallow valsartan tablets [see Warnings and Precautions (5.2), Clinical Pharmacology (12.3) and Clinical Studies (14.3)].
+PREXXARTAN is indicated to reduce the risk of cardiovascular death in clinically stable patients with left ventricular failure or left ventricular dysfunction following myocardial infarction who are unable to swallow valsartan tablets [see Warnings and Precautions (5.2), Clinical Pharmacology (12.3)and Clinical Studies (14.3)].
