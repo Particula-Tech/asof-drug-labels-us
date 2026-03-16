@@ -1,6 +1,2 @@
-Manufactured for Takeda Pharmaceuticals America, Inc., Lexington, MA 02421, USA by Cosmo S.p.A., Milan, Italy.
-
-LIALDA® is a registered trademark of Nogra Pharma Ltd., Ireland used under license.
-By license of Nogra Pharma Limited, Dublin, Ireland.
-
-© 2023 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
+Manufactured for Takeda Pharmaceuticals America, Inc., Cambridge, MA 02142, USA by Cosmo S.p.A., Milan, Italy.
+LIALDA® and the LIALDA Logo® are registered trademarks of Nogra Pharma Limited and used under license by Takeda Pharmaceuticals America, Inc. or its affiliates. © 2026 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
