@@ -20,7 +20,7 @@ Manuf. by: Savio Industrial S.r.L.
 Pavia, Italy.
 
 Alendronate Sodium (active ingred.)
-Made in Ireland.
+Made in India.
 
 Formulated in Italy.
 
