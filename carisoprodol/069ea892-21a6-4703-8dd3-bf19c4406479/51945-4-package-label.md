@@ -20,7 +20,7 @@ CIV
 
 350 mg
 
-100 Tablets R X Only
+100 Tablets Rx Only
 
 ScieGen Pharmaceuticals Inc.
 
@@ -32,7 +32,7 @@ CIV
 
 350 mg
 
-500 Tablets R X Only
+500 Tablets Rx Only
 
 ScieGen Pharmaceuticals Inc.
 
@@ -44,6 +44,6 @@ CIV
 
 350 mg
 
-1,000 Tablets R X Only
+1,000 Tablets Rx Only
 
 ScieGen Pharmaceuticals Inc.

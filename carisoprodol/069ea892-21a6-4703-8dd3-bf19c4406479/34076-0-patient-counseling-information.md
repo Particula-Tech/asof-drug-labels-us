@@ -13,4 +13,4 @@ If the musculoskeletal symptoms still persist, patients should contact their hea
 
 Lactation Advise nursing mothers using carisoprodol to monitor neonates for signs of sedation [see Use in Specific Populations (8.2)].
 
-Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 Rev: 02/20 Rx only
+Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 Rev: 11/2025 Rx only
