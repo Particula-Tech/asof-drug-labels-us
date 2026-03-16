@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA217590"
+  ],
+  "inn": "liraglutide",
+  "labeler": "Orbicular Pharmaceutical Technologies Private Limited",
+  "package_ndcs": [
+    "81607-018-01",
+    "81607-018-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "liraglutide",
+      "name": "LIRAGLUTIDE"
+    }
+  ],
+  "setid": "bb66a46c-9019-4a98-8e5d-581109facfba",
+  "source": "dailymed"
+}
