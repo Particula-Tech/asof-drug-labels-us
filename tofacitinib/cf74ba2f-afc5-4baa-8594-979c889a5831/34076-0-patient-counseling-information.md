@@ -54,4 +54,4 @@ Patients should be informed that the active medication has already been absorbed
 This product’s labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0445-29.0
+LAB-0445-30.0

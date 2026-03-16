@@ -144,7 +144,7 @@ In both clinical trials, the primary endpoints were the ACR20 response and the c
   Although Study PsA-1 included patients who are TNF blocker-naïve, XELJANZ and XELJANZ XR are not approved for use in TNF blocker-naïve patients [see Indications and Usage (1.2)].
   Patients were randomized in a 2:2:2:1:1 ratio to receive XELJANZ 5 mg twice daily, XELJANZ 10 mg twice daily, adalimumab 40 mg subcutaneously once every 2 weeks, placebo to XELJANZ 5 mg twice daily treatment sequence, or placebo to XELJANZ 10 mg twice daily treatment sequence, respectively; study drug was added to background nonbiologic DMARD treatment.
   At the Month 3 visit, all patients randomized to placebo treatment were switched in a blinded fashion to a predetermined XELJANZ dosage of 5 mg or 10 mg twice daily.
-  Study PsA-I was not designed to demonstrate noninferiority or superiority to adalimumab.
+  Study PsA-I was not designed to demonstrate non‑inferiority or superiority to adalimumab.
 - •Study PsA-II was a 6-month clinical trial in 394 patients who had an inadequate response to at least 1 approved TNF blocker (66%, 19%, and 15% were inadequate responders to 1 TNF blocker, 2 TNF blockers and ≥3 TNF blockers, respectively).
   Patients were randomized in a 2:2:1:1 ratio to receive XELJANZ 5 mg twice daily, XELJANZ 10 mg twice daily, placebo to XELJANZ 5 mg twice daily treatment sequence, or placebo to XELJANZ 10 mg twice daily treatment sequence, respectively; study drug was added to background nonbiologic DMARD treatment.
   At the Month 3 visit, placebo patients were switched in a blinded fashion to a predetermined XELJANZ dosage of 5 mg or 10 mg twice daily as in Study PsA-I.
@@ -503,11 +503,11 @@ Cardiovascular risk factors included cigarette smoking (current or past) (48%), 
 The non-inferiority criterion was not met for the primary comparison of the combined XELJANZ dosages to TNF blockers since the upper limit of the 95% CI exceeded the pre-specified non-inferiority criterion of 1.8 (for MACE, the upper limit of the 95% CI was 1.94; for malignancies excluding NMSC, the upper limit of the 95% CI was 2.09).
 
 Table 22 shows the study results for each of the co-primary endpoints, and other endpoints.
-There was an increased risk of death, MACE, malignancies, serious infections, and thromboembolic events associated with both dosages of XELJANZ.
+There was an increased risk of death, MACE, malignancies, serious infections, and thromboembolic events, and fractures associated with both dosages of XELJANZ.
 
 Table 22: Results of RA Safety Study 1 in Adults with Rheumatoid Arthritis 50 years of Age and Older with at Least One Cardiovascular Risk Factor
 
-| Endpoint | TNF Blocker N=1451 PY=5468 | XELJANZ 5 mg Twice Daily N=1455 PY=5490 | XELJANZ 10 mg Twice Daily N=1456 PY=5298 |
+| Endpoint | TNF Blocker N=1451 PY=5526 | XELJANZ 5 mg Twice Daily N=1455 PY=5551 | XELJANZ 10 mg Twice Daily N=1456 PY=5371 |
 | --- | --- | --- | --- |
 | MACE, n [IR] | 43 [0.79] | 50 [0.91] | 59 [1.11] |
 | HR (95% CI)HR (95%) CI for XELJANZ vs. TNF Blocker (Univariate Cox Proportional Hazard Model). |  | 1.16 (0.77, 1.74) | 1.41 (0.95, 2.10) |
@@ -535,6 +535,10 @@ Table 22: Results of RA Safety Study 1 in Adults with Rheumatoid Arthritis 50 ye
 | HR (95% CI) |  | 1.13 (0.76, 1.69) | 1.26 (0.85, 1.87) |
 | TE | 56 [1.03] | 67 [1.23] | 86 [1.65] |
 | HR (95% CI) |  | 1.19 (0.84, 1.70) | 1.60 (1.14, 2.23) |
+| All Fractures | 121 [2.32] | 138 [2.64] | 141 [2.80] |
+| HR (95% CI) |  | 1.14 (0.90, 1.46) | 1.21 (0.95, 1.54) |
+| Osteoporotic Fractures | 49 [0.91] | 58 [1.07] | 70 [1.34] |
+| HR (95% CI) |  | 1.18 (0.81, 1.73) | 1.48 (1.03, 2.13) |
 | Note: XELJANZ 10 mg twice daily was discontinued by the Data Monitoring Committee due to safety concerns, and ongoing patients switched from XELJANZ 10 mg to XELJANZ 5 mg. The column “XELJANZ 10 mg Twice Daily” includes all events and follow-up for patients randomized to XELJANZ 10 mg twice daily. A XELJANZ (refers to tablets and oral solution) 10 mg twice daily (or a XELJANZ XR 22 mg once daily) dosage is not recommended for the treatment of RA, PsA, AS, or pcJIA [see Dosage and Administration (2.3)]. N indicates number of patients; n indicates number of patients with events. IR indicates incidence rate per 100 person-year (PY). NMSC: Non-melanoma Skin Cancer; MACE: Major Adverse Cardiac Events; HR: Hazard Ratio; DVT: Deep Vein Thrombosis; PE: Pulmonary Embolism; VTE: Venous Thromboembolism, first occurrence of a VTE, defined as the composite of adjudicated DVT and adjudicated PE; ATE: Arterial Thromboembolism; TE: Thromboembolism, first occurrence of a TE, defined as the composite of adjudicated VTE and unadjudicated ATE. |  |  |  |
 
 Lymphomas and lung cancers, which are a subset of all malignancies in RA Safety Study 1, were observed at a higher rate in patients treated with XELJANZ 5 mg twice a day and XELJANZ 10 mg twice a day compared to those treated with TNF blockers.
@@ -542,3 +546,6 @@ Lymphoma was reported for 4 patients who received XELJANZ 5 mg twice a day, 6 pa
 Among current and past smokers, lung cancer was reported for 13 patients who received XELJANZ 5 mg twice a day, 15 patients who received XELJANZ 10 mg twice a day, and 7 patients who received TNF blockers (IR of 0.48, 0.59, and 0.27 per 100 patient-years, respectively).
 
 Given these increased risks, XELJANZ (tablets and oral solution) 10 mg twice daily (or XELJANZ XR (extended-release tablets) 22 mg once daily) dosages are not recommended for the treatment of RA, PsA, AS or pcJIA [see Dosage and Administration (2.3, 2.4)].
+
+The overall fractures and osteoporotic fractures were observed at a higher rate in both XELJANZ treatment groups compared to the TNF blocker treatment group.
+The observed incidence rate of osteoporotic fractures was higher in women than men, and was highest in women on XELJANZ 10 mg twice daily (1.56 per 100 patient-years), followed by XELJANZ 5 mg twice daily (1.26 per 100 patient-years), and TNF blockers (1.01 per 100 patient-years).

@@ -4,7 +4,7 @@
 
 Serious and sometimes fatal infections may occur with XELJANZ (tablets and oral solution) and XELJANZ XR (extended-release tablets).
 Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in patients receiving XELJANZ.
-The most common serious infections reported with XELJANZ included pneumonia, cellulitis, herpes zoster, urinary tract infection, diverticulitis, and appendicitis.
+The most common serious infections reported with XELJANZ included pneumonia, urinary tract infection, cellulitis, herpes zoster, bronchitis, septic shock, diverticulitis, gastroenteritis, appendicitis, and sepsis.
 Among opportunistic infections, tuberculosis and other mycobacterial infections, cryptococcosis, histoplasmosis, esophageal candidiasis, pneumocystosis, multi-dermatomal herpes zoster, cytomegalovirus infections, BK virus infection, and listeriosis were reported with XELJANZ.
 Some patients have presented with disseminated rather than localized disease, and were often taking concomitant immunomodulating agents such as methotrexate or corticosteroids.
 
