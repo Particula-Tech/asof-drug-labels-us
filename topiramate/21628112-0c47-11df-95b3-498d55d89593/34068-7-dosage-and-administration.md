@@ -30,7 +30,7 @@ The total daily dose should not exceed the maximum maintenance dose for each ran
 
 Table 2: Monotherapy Target Total Daily Maintenance Dosing for Patients 2 to 9 Years of Age
 
-| Weight (kg) | Total Daily Dose (mg/day) Administered in two equally divided doses Minimum Maintenance Dose | Total Daily Dose (mg/day) Maximum Maintenance Dose |
+| Weight (kg) | Total Daily Dose (mg/day)Administered in two equally divided doses Minimum Maintenance Dose | Total Daily Dose (mg/day) Maximum Maintenance Dose |
 | --- | --- | --- |
 | Up to 11 | 150 | 250 |
 | 12 – 22 | 200 | 300 |
@@ -88,7 +88,7 @@ It should not be stored for future use.
 
 ## 2.5 Dosing in Patients with Renal Impairment
 
-In patients with renal impairment (creatinine clearance less than 70 mL/min/1.73 m 2), one-half of the usual adult dose of TOPAMAX is recommended [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
+In patients with renal impairment (creatinine clearance less than 70 mL/min/1.73 m2), one-half of the usual adult dose of TOPAMAX is recommended [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
 
 ## 2.6 Dosing in Patients Undergoing Hemodialysis
 

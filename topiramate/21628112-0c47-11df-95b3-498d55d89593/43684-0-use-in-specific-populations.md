@@ -13,7 +13,7 @@ Information about the North American Drug Pregnancy Registry can be found at htt
 Risk Summary
 
 TOPAMAX can cause fetal harm when administered to a pregnant woman.
-Data from pregnancy registries indicate that infants exposed to topiramate in uterohave an increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA) [see Human Data].
+Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA) [see Human Data].
 SGA has been observed at all doses and appears to be dose-dependent.
 The prevalence of SGA is greater in infants of women who received higher doses of topiramate during pregnancy.
 In addition, the prevalence of SGA in infants of women who continued topiramate use until later in pregnancy is higher compared to the prevalence in infants of women who stopped topiramate use before the third trimester.
@@ -55,7 +55,7 @@ It was also higher than the background prevalence in United States (0.17%) as es
 The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 12.5 (95% Confidence Interval [CI] 5.9–26.37) as compared to the risk in a background population of untreated women.
 The UK Epilepsy and Pregnancy Register reported a prevalence of oral clefts among infants exposed to topiramate monotherapy (3.2%) that was 16 times higher than the background rate in the UK (0.2%).
 
-Data from the NAAED pregnancy registry and a population-based birth registry cohort indicate that exposure to topiramate in uterois associated with an increased risk of SGA newborns (birth weight <10th percentile).
+Data from the NAAED pregnancy registry and a population-based birth registry cohort indicate that exposure to topiramate in utero is associated with an increased risk of SGA newborns (birth weight <10th percentile).
 In the NAAED pregnancy registry, 19.7% of topiramate-exposed newborns were SGA compared to 7.9% of newborns exposed to a reference AED and 5.4% of newborns of mothers without epilepsy and without AED exposure.
 In the Medical Birth Registry of Norway (MBRN), a population-based pregnancy registry, 25% of newborns in the topiramate monotherapy exposure group were SGA compared to 9% in the comparison group unexposed to AEDs.
 The long-term consequences of the SGA findings are not known.
@@ -65,21 +65,21 @@ Animal Data
 When topiramate (0, 20, 100, or 500 mg/kg/day) was administered to pregnant mice during the period of organogenesis, incidences of fetal malformations (primarily craniofacial defects) were increased at all doses.
 Fetal body weights and skeletal ossification were reduced at the highest dose tested in conjunction with decreased maternal body weight gain.
 A no-effect dose for embryofetal developmental toxicity in mice was not identified.
-The lowest dose tested, which was associated with increased malformations, is less than the maximum recommended human dose (MRHD) for epilepsy (400 mg/day) or migraine (100 mg/day) on a body surface area (mg/m 2) basis.
+The lowest dose tested, which was associated with increased malformations, is less than the maximum recommended human dose (MRHD) for epilepsy (400 mg/day) or migraine (100 mg/day) on a body surface area (mg/m2) basis.
 
 In pregnant rats administered topiramate (0, 20, 100, and 500 mg/kg/day or 0, 0.2, 2.5, 30, and 400 mg/kg/day) orally during the period of organogenesis, the frequency of limb malformations (ectrodactyly, micromelia, and amelia) was increased in fetuses at 400 and 500 mg/kg/day.
 Embryotoxicity (reduced fetal body weights, increased incidences of structural variations) was observed at doses as low as 20 mg/kg/day.
 Clinical signs of maternal toxicity were seen at 400 mg/kg/day and above, and maternal body weight gain was reduced at doses of 100 mg/kg/day or greater.
-The no-effect dose (2.5 mg/kg/day) for embryofetal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m 2basis.
+The no-effect dose (2.5 mg/kg/day) for embryofetal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m2 basis.
 
 In pregnant rabbits administered topiramate (0, 20, 60, and 180 mg/kg/day or 0, 10, 35, and 120 mg/kg/day) orally during organogenesis, embryofetal mortality was increased at 35 mg/kg/day, and increased incidences of fetal malformations (primarily rib and vertebral malformations) were observed at 120 mg/kg/day.
 Evidence of maternal toxicity (decreased body weight gain, clinical signs, and/or mortality) was seen at 35 mg/kg/day and above.
-The no-effect dose (20 mg/kg/day) for embryofetal developmental toxicity in rabbits is equivalent to the MRHD for epilepsy and approximately 4 times the MRHD for migraine on a mg/m 2basis.
+The no-effect dose (20 mg/kg/day) for embryofetal developmental toxicity in rabbits is equivalent to the MRHD for epilepsy and approximately 4 times the MRHD for migraine on a mg/m2 basis.
 
 When topiramate (0, 0.2, 4, 20, and 100 mg/kg/day or 0, 2, 20, and 200 mg/kg/day) was administered orally to female rats during the latter part of gestation and throughout lactation, offspring exhibited decreased viability and delayed physical development at 200 mg/kg/day and reductions in pre- and/or postweaning body weight gain at 2 mg/kg/day and above.
 Maternal toxicity (decreased body weight gain, clinical signs) was evident at 100 mg/kg/day or greater.
 In a rat embryofetal development study which included postnatal assessment of offspring, oral administration of topiramate (0, 0.2, 2.5, 30, and 400 mg/kg) to pregnant animals during the period of organogenesis resulted in delayed physical development in offspring at 400 mg/kg/day and persistent reductions in body weight gain in offspring at 30 mg/kg/day and higher.
-The no-effect dose (0.2 mg/kg/day) for pre- and postnatal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m 2basis.
+The no-effect dose (0.2 mg/kg/day) for pre- and postnatal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m2 basis.
 
 ## 8.2 Lactation
 
@@ -101,7 +101,7 @@ Limited data from 5 women with epilepsy treated with topiramate during lactation
 
 Contraception
 
-Women of childbearing potential who are not planning a pregnancy should use effective contraception because of the risk of major congenital malformations, including oral clefts, and the risk of infants being SGA [see Drug Interactions (7.4)and Use in Specific Populations (8.1)].
+Women of childbearing potential who are not planning a pregnancy should use effective contraception because of the risk of major congenital malformations, including oral clefts, and the risk of infants being SGA [see Drug Interactions (7.4) and Use in Specific Populations (8.1)].
 
 ## 8.4 Pediatric Use
 
@@ -109,7 +109,7 @@ Adjunctive Treatment for Epilepsy
 
 Pediatric Patients 2 Years of Age and Older
 
-The safety and effectiveness of TOPAMAX as adjunctive therapy for the treatment of partial-onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome have been established in pediatric patients 2 years of age and older [see Adverse Reactions (6.1)and Clinical Studies (14.2)].
+The safety and effectiveness of TOPAMAX as adjunctive therapy for the treatment of partial-onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome have been established in pediatric patients 2 years of age and older [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
 
 Pediatric Patients Below the Age of 2 Years
 
@@ -133,7 +133,7 @@ The incidence of these abnormal shifts was 6% for placebo, 10% for 5 mg/kg/day, 
 There was a mean dose-related increase in alkaline phosphatase.
 The significance of these findings is uncertain.
 
-Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.12)].
+Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.14)].
 
 Treatment with topiramate for up to 1 year was associated with reductions in Z SCORES for length, weight, and head circumference [see Warnings and Precautions (5.4), Adverse Reactions (6)].
 
@@ -162,9 +162,9 @@ Table 10: Summary of TOPAMAX Treatment Difference Results at 12 Months for Key S
 
 | Safety Parameter | Treatment Difference in Least Square Means (95 % Confidence Interval) |
 | --- | --- |
-| Annual Change in BMD Lumbar Spine (g/cm 2) | -0.036 (-0.058, -0.014) |
-| Annual Change in BMD TBLH TBLH=total body less head(g/cm 2) | -0.026 (-0.039, -0.012) |
-| Annual Change in Height (cm) (4–9 years, Primary Analysis Population for Height) Whereas no patients were randomized to 2–5 year age subgroup for TOPAMAX, 5 patients (4–5 years) were randomized to the active control group. | -0.84 (-2.67, 0.99) |
+| Annual Change in BMD Lumbar Spine (g/cm2) | -0.036 (-0.058, -0.014) |
+| Annual Change in BMD TBLHTBLH=total body less head (g/cm2) | -0.026 (-0.039, -0.012) |
+| Annual Change in Height (cm) (4–9 years, Primary Analysis Population for Height)Whereas no patients were randomized to 2–5 year age subgroup for TOPAMAX, 5 patients (4–5 years) were randomized to the active control group. | -0.84 (-2.67, 0.99) |
 | Annual Change in Height (cm) (4–15 years) | -0.75 (-2.21, 0.71) |
 | Annual Change in Height (cm) (10–15 years) | -1.01 (-3.64, 1.61) |
 | Height Velocity (cm/year) (4–9 years) | -1.00 (-2.76, 0.76) |
@@ -219,18 +219,18 @@ The risk for cognitive adverse reaction was greater in younger patients (6 to 11
 Juvenile Animal Studies
 
 When topiramate (0, 30, 90, and 300 mg/kg/day) was administered orally to rats during the juvenile period of development (postnatal days 12 to 50), bone growth plate thickness was reduced in males at the highest dose.
-The no-effect dose (90 mg/kg/day) for adverse developmental effects is approximately 2 times the maximum recommended pediatric dose (9 mg/kg/day) on a body surface area (mg/m 2) basis.
+The no-effect dose (90 mg/kg/day) for adverse developmental effects is approximately 2 times the maximum recommended pediatric dose (9 mg/kg/day) on a body surface area (mg/m2) basis.
 
 ## 8.5 Geriatric Use
 
 In clinical trials, 3% of patients were over age 60.
 No age-related differences in effectiveness or adverse effects were evident.
 However, clinical studies of topiramate did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently than younger subjects.
-Dosage adjustment may be necessary for elderly with age-related renal impairment (creatinine clearance rate <70 mL/min/1.73 m 2) resulting in reduced clearance [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
+Dosage adjustment may be necessary for elderly with age-related renal impairment (creatinine clearance rate <70 mL/min/1.73 m2) resulting in reduced clearance [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-The clearance of topiramate is reduced in patients with moderate (creatinine clearance 30 to 69 mL/min/1.73 m 2) and severe (creatinine clearance <30 mL/min/1.73 m 2) renal impairment.
+The clearance of topiramate is reduced in patients with moderate (creatinine clearance 30 to 69 mL/min/1.73 m2) and severe (creatinine clearance <30 mL/min/1.73 m2) renal impairment.
 A dosage adjustment is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 
 ## 8.7 Patients Undergoing Hemodialysis

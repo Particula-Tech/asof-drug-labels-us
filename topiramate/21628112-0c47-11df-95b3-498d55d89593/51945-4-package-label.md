@@ -8,11 +8,11 @@ TopAMAX® (topiramate) Tablets
 
 CAUTION: Verify Prescription Before Dispensing
 
-Attention: Dispense the enclosed Medication Guide to each patient.
+ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
 Rx only 60 tablets
 
-Johnson &Johnson
+janssen
 
 # PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
 
@@ -24,11 +24,11 @@ TopAMAX® (topiramate) Tablets
 
 CAUTION: Verify Prescription Before Dispensing
 
-Attention: Dispense the enclosed Medication Guide to each patient.
+ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
 Rx only 60 tablets
 
-Johnson &Johnson
+janssen
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
@@ -40,11 +40,11 @@ TopAMAX® (topiramate) Tablets
 
 CAUTION: Verify Prescription Before Dispensing
 
-Attention: Dispense the enclosed Medication Guide to each patient.
+ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
 Rx only 60 tablets
 
-Johnson &Johnson
+janssen
 
 # PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
 
@@ -56,36 +56,36 @@ TopAMAX® (topiramate) Tablets
 
 CAUTION: Verify Prescription Before Dispensing
 
-Attention: Dispense the enclosed Medication Guide to each patient.
+ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
 Rx only 60 tablets
 
-Johnson &Johnson
+janssen
 
 # PRINCIPAL DISPLAY PANEL - 15 mg Capsule Bottle Label
 
-NDC 50458-647-65 Rx only
+NDC 50458-647-65
 
-TopAMAX® (topiramate) Sprinkle Capsules
+TopAMAX® (topiramate capsules) Sprinkle Capsules
 
 15 mg
 
-Attention: Dispense the enclosed Medication Guide to each patient.
+ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
-60 capsules
+Rx only 60 capsules
 
-Johnson &Johnson
+janssen
 
 # PRINCIPAL DISPLAY PANEL - 25 mg Capsule Bottle Label
 
-NDC 50458-645-65 Rx only
+NDC 50458-645-65
 
-TopAMAX® (topiramate) Sprinkle Capsules
+TopAMAX® (topiramate capsules) Sprinkle Capsules
 
 25 mg
 
-Attention: Dispense the enclosed Medication Guide to each patient.
+ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
-60 capsules
+Rx only 60 capsules
 
-Johnson &Johnson
+janssen

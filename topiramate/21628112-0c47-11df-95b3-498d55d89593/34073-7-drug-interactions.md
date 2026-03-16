@@ -6,7 +6,7 @@ Concomitant administration of phenytoin or carbamazepine with TOPAMAX resulted i
 A dosage adjustment may be needed [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)].
 
 Concomitant administration of valproic acid and TOPAMAX has been associated with hypothermia and hyperammonemia with and without encephalopathy.
-Examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.12, 5.14), Clinical Pharmacology (12.3)].
+Examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.14, 5.16), Clinical Pharmacology (12.3)].
 
 ## 7.2 Other Carbonic Anhydrase Inhibitors
 
@@ -26,7 +26,7 @@ Contraceptive efficacy can be decreased even in the absence of breakthrough blee
 
 ## 7.5 Hydrochlorothiazide (HCTZ)
 
-Topiramate C maxand AUC increased when HCTZ was added to TOPAMAX.
+Topiramate Cmax and AUC increased when HCTZ was added to TOPAMAX.
 The clinical significance of this change is unknown.
 The addition of HCTZ to TOPAMAX may require a decrease in the TOPAMAX dose [see Clinical Pharmacology (12.3)].
 

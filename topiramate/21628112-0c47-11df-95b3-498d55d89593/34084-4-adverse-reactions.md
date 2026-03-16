@@ -10,10 +10,12 @@ The following serious adverse reactions are discussed in more detail in other se
 - Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
 - Decrease of Bone Mineral Density [see Warnings and Precautions (5.9)]
 - Negative Effects on Growth (Height and Weight) [see Warnings and Precautions (5.10)]
-- Serious Skin Reactions [see Warnings and Precautions (5.11)]
-- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.12)]
-- Kidney Stones [see Warnings and Precautions (5.13)]
-- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.14)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions [see Warnings and Precautions (5.11)]
+- Serious Skin Reactions [see Warnings and Precautions (5.12)]
+- Anaphylaxis and Angioedema [see Warnings and Precautions (5.13)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.14)]
+- Kidney Stones [see Warnings and Precautions (5.15)]
+- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.16)]
 
 The data described in the following sections were obtained using TOPAMAX Tablets.
 
@@ -66,7 +68,7 @@ Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Gr
 | Gastritis |  |  | 0 | 3 |
 | Dry mouth |  |  | 1 | 3 |
 | Liver and Biliary System Disorders |  |  |  |  |
-| Increase in Gamma-GT |  |  | 1 | 3 |
+| Increase in gamma-GT |  |  | 1 | 3 |
 | Metabolic and Nutritional Disorders |  |  |  |  |
 | Weight loss | 7 | 17 | 6 | 17 |
 | Platelet, Bleeding & Clotting Disorders |  |  |  |  |
@@ -125,7 +127,7 @@ The most common adverse reactions in the controlled clinical trial that occurred
 Table 6 presents the incidence of adverse reactions occurring in at least 3% of adult patients treated with 200 to 400 mg/day TOPAMAX and was greater than placebo incidence.
 The incidence of some adverse reactions (e.g., fatigue, dizziness, paresthesia, language problems, psychomotor slowing, depression, difficulty with concentration/attention, mood problems) was dose-related and much greater at higher than recommended TOPAMAX dosing (i.e., 600 mg – 1000 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (200 mg to 400 mg daily) range.
 
-Table 6: Most Common Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Adults Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to TOPAMAX or placebo.
+Table 6: Most Common Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in AdultsPatients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to TOPAMAX or placebo.
 
 | Body System Adverse Reaction | Placebo (N=291) | TOPAMAX Dosage (mg/day) 200–400 (N=183) |
 | --- | --- | --- |
@@ -187,7 +189,7 @@ The most common adverse reactions in the controlled clinical trial that occurred
 
 Table 7 presents the incidence of adverse reactions that occurred in at least 3% of pediatric patients 2 to 15 years of age receiving 5 mg to 9 mg/kg/day (recommended dose range) of TOPAMAX and was greater than placebo incidence.
 
-Table 7: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Pediatric Patients 2 to 15 Years of Age Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to TOPAMAX or placebo.,Values represent the percentage of patients reporting a given adverse reaction.
+Table 7: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Pediatric Patients 2 to 15 Years of AgePatients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to TOPAMAX or placebo.,Values represent the percentage of patients reporting a given adverse reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
 
 | Body System/ Adverse Reaction | Placebo (N=101) % | TOPAMAX (N=98) % |
@@ -244,7 +246,7 @@ The most common adverse reactions with TOPAMAX 100 mg in the clinical trials for
 Table 8 includes those adverse reactions that occurred in the placebo-controlled trials where the incidence in any TOPAMAX treatment group was at least 3% and was greater than that for placebo patients.
 The incidence of some adverse reactions (e.g., fatigue, dizziness, somnolence, difficulty with memory, difficulty with concentration/attention) was dose-related and greater at higher than recommended TOPAMAX dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
 
-Table 8: Adverse Reactions in Pooled, Placebo-Controlled, Migraine Trials in Adults Includes 35 adolescent patients age 12 to 15 years.,Values represent the percentage of patients reporting a given adverse reaction.
+Table 8: Adverse Reactions in Pooled, Placebo-Controlled, Migraine Trials in AdultsIncludes 35 adolescent patients age 12 to 15 years.,Values represent the percentage of patients reporting a given adverse reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
 
 | Body System/ Adverse Reaction | Placebo (N=445) % | 50 (N=235) % | 100 (N=386) % |
@@ -301,7 +303,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Urinary System Disorders |  |  |  |
 | Urinary tract infection | 2 | 4 | 2 |
 | Vision Disorders |  |  |  |
-| Blurred vision Blurred vision was the most common term considered as vision abnormal. Blurred vision was an included term that accounted for >50% of reactions coded as vision abnormal, a preferred term. | 2 | 4 | 2 |
+| Blurred visionBlurred vision was the most common term considered as vision abnormal. Blurred vision was an included term that accounted for >50% of reactions coded as vision abnormal, a preferred term. | 2 | 4 | 2 |
 
 Of the 1,135 patients exposed to TOPAMAX in the adult placebo-controlled studies, 25% of TOPAMAX-treated patients discontinued due to adverse reactions, compared to 10% of the 445 placebo-treated patients.
 The adverse reactions associated with discontinuing therapy in the TOPAMAX-treated patients included paresthesia (7%), fatigue (4%), nausea (4%), difficulty with concentration/attention (3%), insomnia (3%), anorexia (2%), and dizziness (2%).
@@ -321,7 +323,7 @@ Table 9 also shows adverse reactions in pediatric patients in the controlled mig
 Many adverse reactions shown in Table 9 indicate a dose-dependent relationship.
 The incidence of some adverse reactions (e.g., allergy, fatigue, headache, anorexia, insomnia, somnolence, and viral infection) was dose-related and greater at higher than recommended TOPAMAX dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
 
-Table 9: Adverse Reactions in Pooled Double-Blind Studies for the Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age 35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults (Tables 11 and 12),Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.,Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003
+Table 9: Adverse Reactions in Pooled Double-Blind Studies for the Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults (Tables 11 and 12),Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.,Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003
 
 | Body System/ Adverse Reaction | Placebo (N=45) % | 50 mg/day (N=46) % | 100 mg/day (N=48) % |
 | --- | --- | --- | --- |
@@ -373,12 +375,12 @@ Laboratory Test Abnormalities
 
 Adult Patients
 
-In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride and ammonia, TOPAMAX was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.12)].
+In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride and ammonia, TOPAMAX was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.14)].
 Controlled trials of adjunctive TOPAMAX treatment of adults for partial-onset seizures showed an increased incidence of markedly decreased serum phosphorus (6% TOPAMAX versus 2% placebo), markedly increased serum alkaline phosphatase (3% TOPAMAX versus 1% placebo), and decreased serum potassium (0.4% TOPAMAX versus 0.1% placebo).
 
 Pediatric Patients
 
-In pediatric patients (1–24 months) receiving adjunctive TOPAMAX for partial-onset seizures, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with TOPAMAX (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, alkaline phosphatase, and total protein, The incidence was also increased for a decreased result for bicarbonate (i.e., metabolic acidosis), and potassium with TOPAMAX (vs placebo) [see Use in Specific Populations (8.4)].
+In pediatric patients (1–24 months) receiving adjunctive TOPAMAX for partial-onset seizures, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with TOPAMAX (vs placebo) for the following clinical laboratory analytes: creatinine, blood urea nitrogen (BUN), alkaline phosphatase, and total protein, The incidence was also increased for a decreased result for bicarbonate (i.e., metabolic acidosis), and potassium with TOPAMAX (vs placebo) [see Use in Specific Populations (8.4)].
 TOPAMAX is not indicated for partial-onset seizures in pediatric patients less than 2 years of age.
 
 In pediatric patients (ranging from 6–17 years of age) receiving TOPAMAX for the preventive treatment of migraine, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with TOPAMAX (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, uric acid, chloride, ammonia, alkaline phosphatase, total protein, platelets, and eosinophils, The incidence was also increased for a decreased result for phosphorus, bicarbonate, total white blood count, and neutrophils [see Use in Specific Populations (8.4)].
@@ -389,14 +391,14 @@ TOPAMAX is not indicated for the preventive treatment of migraine in pediatric p
 The following adverse reactions have been identified during post approval use of TOPAMAX.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole-General Disorders:oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.12)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.14)]
+Body as a Whole-General Disorders: immediate hypersensitivity reactions (including anaphylaxis and angioedema) [see Warnings and Precautions (5.13)], delayed hypersensitivity reactions (including facial swelling, lip swelling, periorbital swelling, tongue swelling), oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.14)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.16)]
 
-Gastrointestinal System Disorders:hepatic failure (including fatalities), hepatitis, pancreatitis
+Gastrointestinal System Disorders: hepatic failure (including fatalities), hepatitis, pancreatitis
 
-Skin and Appendage Disorders:bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.11)], pemphigus
+Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.12)], pemphigus, urticaria
 
-Urinary System Disorders:kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.13)]
+Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.15)]
 
-Vision Disorders:acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
+Vision Disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
 
-Hematological Disorders:decrease of the International Normalized Ratio (INR) or prothrombin time when given concomitantly with vitamin K antagonist anticoagulant medications such as warfarin.
+Hematological Disorders: decrease of the International Normalized Ratio (INR) or prothrombin time when given concomitantly with vitamin K antagonist anticoagulant medications such as warfarin.

@@ -10,4 +10,6 @@ Janssen Pharmaceuticals, Inc.
 
 Titusville, NJ 08560, USA
 
-© Johnson & Johnson and its affiliates 2025
+For patent information: www.janssenpatents.com
+
+© Johnson & Johnson and its affiliates 2026
