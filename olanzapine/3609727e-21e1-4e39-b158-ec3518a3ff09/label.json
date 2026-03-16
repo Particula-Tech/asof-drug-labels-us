@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020592"
+  ],
+  "inn": "olanzapine",
+  "labeler": "UNITAX-Pharmalogistik GmbH",
+  "package_ndcs": [
+    "87315-001-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "olanzapine",
+      "name": "Zyprexa"
+    }
+  ],
+  "setid": "3609727e-21e1-4e39-b158-ec3518a3ff09",
+  "source": "dailymed"
+}
