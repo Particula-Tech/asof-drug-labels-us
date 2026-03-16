@@ -6,4 +6,4 @@ Sucralfate Oral Suspension for oral administration contains 1 g of sucralfate pe
 
 Sucralfate Oral Suspension also contains: colloidal silicon dioxide, FD&C Red No. 40, wild cherry flavor (contains propylene glycol, artificial flavors, natural flavors, ethyl alcohol), glycerin, methylcellulose, methylparaben, microcrystalline cellulose, purified water, simethicone emulsion, sorbitol solution.
 
-Therapeutic category: antiulcer.
+Therapeutic category: antiulcer

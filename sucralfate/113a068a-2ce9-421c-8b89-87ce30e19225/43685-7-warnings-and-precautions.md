@@ -6,7 +6,7 @@ Do not administer intravenously.
 
 # PRECAUTIONS
 
-The physician should read the “ PRECAUTIONS” section when considering the use of Sucralfate Oral Suspension in pregnant or pediatric patients, or patients of childbearing potential.
+The physician should read the “PRECAUTIONS” section when considering the use of Sucralfate Oral Suspension in pregnant or pediatric patients, or patients of childbearing potential.
 
 Duodenal ulcer is a chronic, recurrent disease.
 While short-term treatment with sucralfate can result in complete healing of the ulcer, a successful course of treatment with sucralfate should not be expected to alter the post healing frequency or severity of duodenal ulceration.

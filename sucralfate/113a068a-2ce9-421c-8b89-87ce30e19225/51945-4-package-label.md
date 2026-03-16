@@ -4,20 +4,20 @@ Delivers 10 mL
 
 NDC 0121-0974-10
 
-Scralfate Oral Suspension
+Sucralfate Oral Suspension 1 g/10 mL
 
-1 g/mL
+Shake well Before using
 
-Shake Well
+FOR ORAL ADMINISTRATION ONLY
 
 Package Not Child-Resistant
 
+Store at 20°-25°C (68°-77°F)
+
+Avoid Freezing
+
 Rx ONLY
 
-PHARMACEUTICAL ASSOCIATES, INC.
+Dist. by: PAI Pharma Greenville, SC 29605
 
-GREENVILLE, SC 29605
-
-See Insert
-
-Sucralfate
+SEE INSERT
