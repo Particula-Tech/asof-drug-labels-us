@@ -47,7 +47,7 @@ If concomitant use of paroxetine tablets with other serotonergic drugs is clinic
 ## 5.3 Drug Interactions Leading to QT Prolongation
 
 The CYP2D6 inhibitory properties of paroxetine can elevate plasma levels of thioridazine and pimozide.
-Since thioridazine and pimozide given alone produce prolongation of the QTc interval and increase the risk of serious ventricular arrhythmias, the use of paroxetine tablets is contraindicated in combination with thioridazine and pimozide [see Contraindications (4), Drug Interactions (7),Clinical Pharmacology (12.3)].
+Since thioridazine and pimozide given alone produce prolongation of the QTc interval and increase the risk of serious ventricular arrhythmias, the use of paroxetine tablets is contraindicated in combination with thioridazine and pimozide [see Contraindications (4), Drug Interactions (7), Clinical Pharmacology (12.3)].
 
 ## 5.4 Embryofetal Toxicity
 
