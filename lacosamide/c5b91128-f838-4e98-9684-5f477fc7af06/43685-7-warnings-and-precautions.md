@@ -13,6 +13,7 @@ The risk of suicidal thoughts or behavior was generally consistent among drugs i
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
+
 Table 3: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
@@ -23,6 +24,7 @@ Table 3: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 | Total | 2.4 | 4.3 | 1.8 | 1.9 |
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar.
+
 Anyone considering prescribing lacosamide or any other AED must balance this risk with the risk of untreated illness.
 Epilepsy and many other illnesses for which antiepileptics are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
@@ -50,6 +52,7 @@ Lacosamide should be used with caution in patients with underlying proarrhythmic
 Lacosamide should also be used with caution in patients on concomitant medications that affect cardiac conduction, including sodium channel blockers, beta-blockers, calcium channel blockers, potassium channel blockers, and medications that prolong the PR interval [see Drug Interactions (7.2)].
 In such patients, obtaining an ECG before beginning lacosamide, and after lacosamide is titrated to steady-state maintenance dose, is recommended.
 In addition, these patients should be closely monitored if they are administered lacosamide through the intravenous route [see Adverse Reactions (6.1) and Drug Interactions (7.2)].
+
 Atrial Fibrillation and Atrial Flutter In the short-term investigational trials of lacosamide in adult patients with partial-onset seizures there were no cases of atrial fibrillation or flutter.
 Both atrial fibrillation and atrial flutter have been reported in open label partial-onset seizure trials and in postmarketing experience.
 In adult patients with diabetic neuropathy, for which lacosamide is not indicated, 0.5% of patients treated with lacosamide experienced an adverse reaction of atrial fibrillation or atrial flutter, compared to 0% of placebo-treated patients.

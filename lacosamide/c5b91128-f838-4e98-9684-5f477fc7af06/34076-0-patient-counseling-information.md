@@ -22,7 +22,8 @@ Lactation Advise breastfeeding women using lacosamide tablets to monitor infants
 
 Manufactured for:
 
-Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: Annora Pharma Pvt.
+Camber Pharmaceuticals, Inc. Piscataway, NJ 08854.
+By: Annora Pharma Pvt.
 Ltd. Sangareddy - 502313, Telangana, India.
 
-Revised:01/2025
+Revised: 09/2025
