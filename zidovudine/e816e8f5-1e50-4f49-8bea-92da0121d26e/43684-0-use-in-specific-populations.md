@@ -13,7 +13,6 @@ Hyperlactatemia, which may be due to mitochondrial dysfunction, has been reporte
 These events were transient and asymptomatic in most cases.
 There have been few reports of developmental delay, seizures, and other neurological disease.
 However, a causal relationship between these events and exposure to zidovudine-containing products in uteroor peri-partum has not been established (see Data).
-
 In animal reproduction studies, oral administration of lamivudine to pregnant rabbits during organogenesis resulted in embryolethality at systemic exposure (AUC) similar to the recommended clinical dose; however, no adverse development effects were observed with oral administration of lamivudine to pregnant rats during organogenesis at plasma concentrations (C max) 35 times the recommended clinical dose.
 Administration of oral zidovudine to female rats prior to mating and throughout gestation resulted in embryotoxicity at doses that produced systemic exposure (AUC) approximately 33 times higher than exposure at the recommended clinical dose.
 However, no embryotoxicity was observed after oral administration of zidovudine to pregnant rats during organogenesis at doses that produced systemic exposure (AUC) approximately 117 times higher than exposures at the recommended clinical dose.
@@ -39,7 +38,7 @@ There have been reports of mild, transient elevations in serum lactate levels, w
 There have been few reports of developmental delay, seizures, and other neurological disease.
 However, a causal relationship between these events and exposure to zidovudine-containing products in uteroor peri-partum has not been established.
 The clinical relevance of transient elevations in serum lactate is unknown.
-Animal Data:Lamivudine:Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg per kg per day) and rabbits (at 90, 300, and 1,000 mg per kg per day and at 15, 40, and 90 mg per kg per day) during organogenesis (on gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
+Animal Data:Lamivudine: Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg per kg per day) and rabbits (at 90, 300, and 1,000 mg per kg per day and at 15, 40, and 90 mg per kg per day) during organogenesis (on gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
 No evidence of fetal malformations due to lamivudine was observed in rats and rabbits at doses producing plasma concentrations (C max) approximately 35 times higher than human exposure at the recommended daily dose.
 Evidence of early embryolethality was seen in the rabbit at system exposures (AUC) similar to those observed in humans, but there was no indication of this effect in the rat at plasma concentrations (C max) 35 times higher than human exposure at the recommended daily dose.
 Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.

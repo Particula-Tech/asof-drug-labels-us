@@ -1,4 +1,4 @@
-# WARNING: HEMATOLOGIC TOXICITY, MYOPATHY, LACTIC ACIDOSIS AND SEVERE HEPATOMEGALY WITH STEATOSIS and EXACERBATIONS OF HEPATITIS B
+# WARNING: HEMATOLOGIC TOXICITY, MYOPATHY, LACTIC ACIDOSIS AND SEVERE HEPATOMEGALY WITH STEATOSIS, AND EXACERBATIONS OF HEPATITIS B
 
 Zidovudine, a component of lamivudine and zidovudine tablets, has been associated with hematologic toxicity including neutropenia and severe anemia, particularly in patients with advanced Human Immunodeficiency Virus (HIV-1) disease [see Warnings and Precautions (5.1)].
 Prolonged use of zidovudine has been associated with symptomatic myopathy [see Warnings and Precautions (5.2)].

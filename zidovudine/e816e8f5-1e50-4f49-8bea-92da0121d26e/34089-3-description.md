@@ -10,7 +10,7 @@ It has the following structural formula:
 
 Lamivudine is a white to an off-white solid which is soluble in water.
 Zidovudine The chemical name of zidovudine is Thymidine 3’-azido-3’-deoxy.
-It has a molecular formula of C10H13N5O4 and a molecular weight of 267.24.
+It has a molecular formula of C 10H 13N 5O 4and a molecular weight of 267.24.
 It has the following structural formula:
 
 Zidovudine is a white to yellowish powder.
