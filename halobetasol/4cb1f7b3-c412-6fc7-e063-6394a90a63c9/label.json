@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208183"
+  ],
+  "inn": "halobetasol",
+  "labeler": "Coral Way Pharma, LLC",
+  "package_ndcs": [
+    "85437-008-60"
+  ],
+  "products": [
+    {
+      "form": "LOTION",
+      "generic": "halobetasol propionate",
+      "name": "Halobetasol Propionate"
+    }
+  ],
+  "setid": "4cb1f7b3-c412-6fc7-e063-6394a90a63c9",
+  "source": "dailymed"
+}
