@@ -29,6 +29,8 @@ In a peripostnatal study in rats, cefazolin administered subcutaneously up to 12
 
 ## 8.2 Lactation
 
+Risk Summary
+
 Data from published literature report that cefazolin is present in human milk but is not expected to accumulate in a breastfed infant.
 There are no data on the effects of cefazolin on the breastfed child or on milk production.
 
@@ -36,12 +38,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of Cefazolin for Injection for perioperative prophylaxis have not been established for pediatric patients less than 10 years or weighing less than 50 kg.
-
-The safety and effectiveness of Cefazolin for Injection in premature infants and neonates have not been established and is not recommended for use in this age group of pediatric patients.
-
-Pediatric use information is approved for B. Braun Medical’s Cefazolin for Injection and Dextrose for Injection.
-However, due to B. Braun Medical’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Safety and effectiveness of Cefazolin for Injection for perioperative prophylaxis have not been established for pediatric patients.
 
 ## 8.5 Geriatric Use
 
@@ -50,8 +47,8 @@ No overall differences in safety or effectiveness were observed between these su
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
+Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function [see Warnings and Precautions (5.2)].
 
 ## 8.6 Renal Impairment
 
-When Cefazolin for Injection is administered to adult patients with low urinary output because of impaired renal function (creatinine clearance less than 55 mL/min. for adult patients), lower daily dosage is required [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
+Recommendations for dosage adjustments or intervals for repeat dosing for perioperative prophylaxis in lengthy operative procedures or for postoperative use have not been established for adult patients with impaired renal function (creatinine clearance less than 55 mL/min).

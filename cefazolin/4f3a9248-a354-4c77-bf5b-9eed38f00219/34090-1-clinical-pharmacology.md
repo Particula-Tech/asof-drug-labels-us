@@ -45,9 +45,6 @@ Excretion
 Cefazolin is excreted unchanged in the urine.
 In the first 6 hours approximately 60% of the drug is excreted in the urine and this increases to 70% to 80% within 24 hours.
 
-Pediatric use information is approved for B. Braun Medical’s Cefazolin for Injection and Dextrose for Injection.
-However, due to B. Braun Medical’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 ## 12.4 Microbiology
 
 Mechanism of Action

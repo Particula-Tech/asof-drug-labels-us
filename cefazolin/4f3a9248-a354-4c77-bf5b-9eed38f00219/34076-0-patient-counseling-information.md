@@ -8,7 +8,7 @@ Patients should report to their health care provider any previous allergic react
 Seizures
 
 Advise patients that seizures could occur with Cefazolin for Injection.
-Instruct patients to inform a healthcare provider at once of any signs and symptoms of seizures, for immediate treatment, dosage adjustment, or discontinuation of Cefazolin for Injection [see Warnings and Precautions (5.2)].
+Instruct patients to inform a healthcare provider at once of any signs and symptoms of seizures, for immediate treatment or discontinuation of Cefazolin for Injection [see Warnings and Precautions (5.2)].
 
 Diarrhea
 

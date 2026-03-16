@@ -6,7 +6,7 @@ The following serious adverse reactions to cefazolin for injection are described
 
 • Seizures in Patients with Renal Impairment [see Warnings and Precautions (5.2)]
 
-• Clostridioides difficile-associated Diarrhea [see Warnings and Precautions (5.3)]
+• Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -21,7 +21,7 @@ Allergic: Anaphylaxis, eosinophilia, urticaria, itching, drug fever, skin rash, 
 
 Hematologic: Neutropenia, leukopenia, thrombocytopenia, thrombocythemia.
 
-Hepatic: Transient rise in SGOT, SGPT, and alkaline phosphatase levels has been observed.
+Hepatic: Transient rise in serum glutamic oxaloacetic transaminase (SGOT), serum glutamic pyruvic transaminase (SGPT), and alkaline phosphatase levels has been observed.
 Reports of hepatitis have been received.
 
 Renal: Reports of increased BUN and creatinine levels, as well as renal failure, have been received.
@@ -31,9 +31,6 @@ Some induration has occurred.
 
 Other Reactions: Pruritus (including genital, vulvar and anal pruritus, genital moniliasis, and vaginitis).
 Dizziness, fainting, lightheadedness, confusion, weakness, tiredness, hypotension, somnolence and headache.
-
-Pediatric use information is approved for B. Braun Medical’s Cefazolin for Injection and Dextrose for Injection.
-However, due to B. Braun Medical’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Postmarketing Experience
 

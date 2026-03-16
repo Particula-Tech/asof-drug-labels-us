@@ -17,4 +17,7 @@ Each vial contains 48 mg of sodium per gram of cefazolin sodium.
 
 After reconstitution with sterile water for injection, the drug product solution has a pH of 4.0 to 6.0.
 
-Cefazolin for Injection is intended for intravenous infusion.
+Cefazolin for Injection, 2 grams/vial, is intended for intravenous infusion or intravenous bolus injection.
+Cefazolin for Injection, 2 grams/vial is not for intramuscular administration.
+Cefazolin for Injection, 3 grams/vial, is intended for intravenous infusion only.
+Cefazolin for Injection, 3 grams/vial is not for intravenous bolus injection or intramuscular administration [see Dosage and Administration (2.1, 2.2, 2.3)].

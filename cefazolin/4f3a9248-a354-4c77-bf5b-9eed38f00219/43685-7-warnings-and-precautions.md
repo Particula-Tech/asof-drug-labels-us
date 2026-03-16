@@ -9,11 +9,11 @@ If an allergic reaction to Cefazolin for Injection occurs, discontinue the drug.
 
 ## 5.2 Seizures in Patients with Renal Impairment
 
-Seizures may occur with the administration of Cefazolin for Injection, particularly in patients with renal impairment when the dosage is not reduced appropriately.
-Discontinue Cefazolin for Injection if seizures occur or make appropriate dosage adjustments in patients with renal impairment [see Dosage and Administration (2.3)].
+Seizures may occur with the administration of Cefazolin for Injection, particularly in patients with renal impairment [see Use in Specific Populations (8.6)].
+Discontinue Cefazolin for Injection if seizures occur.
 Anticonvulsant therapy should be continued in patients with known seizure disorders.
 
-## 5.3 Clostridioides difficile-associated Diarrhea
+## 5.3 Clostridioides difficile-Associated Diarrhea
 
 Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including cefazolin for injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
