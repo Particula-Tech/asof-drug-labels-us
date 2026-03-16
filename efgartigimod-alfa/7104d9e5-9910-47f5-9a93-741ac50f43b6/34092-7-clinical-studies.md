@@ -57,7 +57,8 @@ Table 2: MG-ADL and QMG Responders During Cycle 1 in AChR-Ab Positive Patients (
 
 Figure 1 shows the mean change from baseline on the MG-ADL during cycle 1.
 
-Figure 1: Mean Change in Total MG-ADL From Cycle 1 Baseline Over Time in AChR-Ab Positive Patients (mITT Analysis Set)
+| Figure 1: Mean Change in Total MG-ADL From Cycle 1 Baseline Over Time in AChR-Ab Positive Patients (mITT Analysis Set) |
+| --- |
 
 Figure 2 shows the distribution of response on the MG-ADL and QMG during cycle 1, four weeks after the first infusion with EFG IV.
 

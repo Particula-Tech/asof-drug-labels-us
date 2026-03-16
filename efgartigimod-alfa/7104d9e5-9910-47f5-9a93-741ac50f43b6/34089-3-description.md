@@ -16,7 +16,4 @@ Each 5 mL single-dose prefilled syringe contains 1,000 mg of efgartigimod alfa a
 Each mL contains 200 mg of efgartigimod alfa, 2,000 units of hyaluronidase (human recombinant) and arginine hydrochloride (10.5 mg), histidine (1.4 mg), L-histidine hydrochloride monohydrate (2.2 mg), methionine (1.5 mg), polysorbate 80 (0.4 mg), sodium chloride (4.1 mg), sucrose (20.5 mg), and Water for Injection, USP, at a pH of 6.0.
 
 Each 5.6 mL single-dose vial contains 1,008 mg of efgartigimod alfa and 11,200 units of hyaluronidase (human recombinant).
-Each mL contains 180 mg of efgartigimod alfa, 2,000 units of hyaluronidase (human recombinant) and
-
-- -histidine (1.4 mg), L- histidine hydrochloride monohydrate (2.2 mg), methionine (1.5 mg), polysorbate 20 (0.4 mg), sodium chloride (5.8 mg), sucrose (20.5 mg), and Water for Injection, USP, at a pH of 6.0 or
-- -arginine hydrochloride (10.5 mg), histidine (1.4 mg), L- histidine hydrochloride monohydrate (2.2 mg), methionine (1.5 mg), polysorbate 80 (0.4 mg), sodium chloride (4.1 mg), sucrose (20.5 mg), and Water for Injection, USP, at a pH of 6.0.
+Each mL contains 180 mg of efgartigimod alfa, 2,000 units of hyaluronidase (human recombinant) and arginine hydrochloride (10.5 mg), histidine (1.4 mg), L- histidine hydrochloride monohydrate (2.2 mg), methionine (1.5 mg), polysorbate 80 (0.4 mg), sodium chloride (4.1 mg), sucrose (20.5 mg), and Water for Injection, USP, at a pH of 6.0.
