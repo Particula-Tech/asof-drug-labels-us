@@ -1,6 +1,10 @@
 # MEDICATION GUIDE
 
-Alendronate Sodium Tablets, USP (a len' droe nate soe' dee um) Read the Medication Guide that comes with alendronate sodium tablets before you start taking them and each time you get a refill.
+Alendronate Sodium (a len' droe nate soe' dee um)
+
+Tablets, USP
+
+Read the Medication Guide that comes with alendronate sodium tablets before you start taking them and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or treatment.
 Talk to your doctor if you have any questions about alendronate sodium tablets.
@@ -11,7 +15,7 @@ Alendronate sodium tablets can cause serious side effects including:
 2. Low calcium levels in your blood (hypocalcemia)
 3. Bone, joint, or muscle pain
 4. Severe jaw bone problems (osteonecrosis)
-5. Unusual thigh bone fractures
+5. Unusual breaks in thigh and other bones
 
 1.
 Esophagus problems.
@@ -35,19 +39,25 @@ Call your doctor right away if you have symptoms of low blood calcium such as:
 
 Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood, while you take alendronate sodium tablets.
 Take calcium and vitamin D as your doctor tells you to.
+
 3.
 Bone, joint, or muscle pain.
 Some people who take alendronate sodium tablets develop severe bone, joint, or muscle pain.
+
 4.
 Severe jaw bone problems (osteonecrosis).
 Severe jaw bone problems may happen when you take alendronate sodium tablets.
 Your doctor should examine your mouth before you start alendronate sodium tablets.
 Your doctor may tell you to see your dentist before you start alendronate sodium tablets.
 It is important for you to practice good mouth care during treatment with alendronate sodium tablets.
+
 5.
-Unusual thigh bone fractures.
-Some people have developed unusual fractures in their thigh bone.
-Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
+Unusual breaks in thigh and other bones.
+
+Some people have had unusual bone breaks, including thigh bone when taking alendronate sodium tablets.
+A break in the thigh bone can feel like a new pain in your hip, groin, or thigh.
+People taking alendronate sodium tablets can also have breaks in other bones.
+
 Call your doctor right away if you have any of these side effects.
 What are alendronate sodium tablets?
 Alendronate sodium tablets are a prescription medicine used to:
@@ -160,10 +170,9 @@ They may harm them.
 This Medication Guide summarizes the most important information about alendronate sodium tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about alendronate sodium tablets that is written for health professionals.
-For more information, call Northstar Rx LLC at 1-800-206-7821.
 What are the ingredients in alendronate sodium tablets?
 Active ingredient: alendronate monosodium salt trihydrate Inactive ingredients: corn starch, magnesium stearate, microcrystalline cellulose, povidone, and sodium starch glycolate.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India.
-M.L.No.: 19/HD/AP/95/F/R Revised: 10/2023
+M.L.No.: 19/HD/AP/95/F/R Revised: 02/2026

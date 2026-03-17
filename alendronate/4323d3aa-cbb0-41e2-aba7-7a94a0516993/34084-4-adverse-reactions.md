@@ -1,5 +1,15 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse drug reactions are described elsewhere in the labeling:
+
+- Upper Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.1)]
+- Mineral Metabolism [see Warnings and Precautions (5.2)]
+- Musculoskeletal Pain [see Warnings and Precautions (5.3)]
+- Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
+- Atypical Fractures Including Femoral Fractures [see Warnings and Precautions (5.5)]
+- Renal Impairment [see Warnings and Precautions (5.6)]
+- Glucocorticoid-Induced Osteoporosis [see Warnings and Precautions (5.7)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
@@ -40,13 +50,15 @@ Table 1: Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reaction
 | dizziness | 0 | 1 | 0 | 0.1 |
 | Special Senses |  |  |  |  |
 | taste perversion | 0.5 | 1 | 0.1 | 0 |
-| *10 mg/day for three years † 5 mg/day for 2 years and 10 mg/day for either 1 or 2 additional years |  |  |  |  |
+| * 10 mg/day for three years † 5 mg/day for 2 years and 10 mg/day for either 1 or 2 additional years |  |  |  |  |
 
 Rash and erythema have occurred.
+
 Gastrointestinal Adverse Reactions: One patient treated with alendronate (10 mg/day), who had a history of peptic ulcer disease and gastrectomy and who was taking concomitant aspirin, developed an anastomotic ulcer with mild hemorrhage, which was considered drug related.
 Aspirin and alendronate sodium were discontinued and the patient recovered.
 In the Study 1 and Study 2 populations, 49 to 54% had a history of gastrointestinal disorders at baseline and 54 to 89% used nonsteroidal anti-inflammatory drugs or aspirin at some time during the studies.
 [See Warnings and Precautions (5.1).]
+
 Laboratory Test Findings: In double-blind, multicenter, controlled studies, asymptomatic, mild, and transient decreases in serum calcium and phosphate were observed in approximately 18% and 10%, respectively, of patients taking alendronate sodium versus approximately 12% and 3% of those taking placebo.
 However, the incidences of decreases in serum calcium to less than 8 mg/dL (2 mM) and serum phosphate to less than or equal to 2 mg/dL (0.65 mM) were similar in both treatment groups.
 Weekly Dosing The safety of alendronate 70 mg once weekly for the treatment of postmenopausal osteoporosis was assessed in a one-year, double-blind, multicenter study comparing alendronate 70 mg once weekly and alendronate 10 mg daily.
@@ -138,7 +150,7 @@ Discontinuation of therapy due to any clinical adverse events occurred in 6.4% o
 
 ## 6.2 Post-Marketing Experience
 
-The following adverse reactions have been identified during post-approval use of alendronate sodium.
+The following adverse reactions have been identified during post-approval use of alendronate sodium or bisphosphonate products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Body as a Whole: hypersensitivity reactions including urticaria and angioedema.
 Transient symptoms of myalgia, malaise, asthenia and fever have been reported with alendronate sodium, typically in association with initiation of treatment.
@@ -147,7 +159,7 @@ Peripheral edema.
 Gastrointestinal: esophagitis, esophageal erosions, esophageal ulcers, esophageal stricture or perforation, and oropharyngeal ulceration.
 Gastric or duodenal ulcers, some severe and with complications, have also been reported [see Dosage and Administration (2.6); Warnings and Precautions (5.1)].
 Localized osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection with delayed healing, has been reported [see Warnings and Precautions (5.4)].
-Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and incapacitating [see Warnings and Precautions (5.3)]; joint swelling; low-energy femoral shaft and subtrochanteric fractures [see Warnings and Precautions (5.5)].
+Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and incapacitating [see Warnings and Precautions (5.3)]; joint swelling; low-energy femoral shaft and subtrochanteric fractures, and atypical fractures of other bones [see Warnings and Precautions (5.5)].
 Nervous System: dizziness and vertigo.
 Pulmonary: acute asthma exacerbations.
 Skin: rash (occasionally with photosensitivity), pruritus, alopecia, severe skin reactions, including Stevens-Johnson syndrome and toxic epidermal necrolysis.

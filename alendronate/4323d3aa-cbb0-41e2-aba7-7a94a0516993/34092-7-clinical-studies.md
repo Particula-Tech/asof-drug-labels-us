@@ -10,6 +10,7 @@ A reduction in the total number of new vertebral fractures (4.2 vs. 11.3 per 100
 In the pooled analysis, patients who received alendronate sodium had a loss in stature that was statistically significantly less than was observed in those who received placebo (-3 mm vs. -4.6 mm).
 The Fracture Intervention Trial (FIT) consisted of two studies in postmenopausal women: the Three-Year Study of patients who had at least one baseline radiographic vertebral fracture and the Four-Year Study of patients with low bone mass but without a baseline vertebral fracture.
 In both studies of FIT, 96% of randomized patients completed the studies (i.e., had a closeout visit at the scheduled end of the study); approximately 80% of patients were still taking study medication upon completion.
+
 Fracture Intervention Trial: Three-Year Study (patients with at least one baseline radiographic vertebral fracture) This randomized, double-blind, placebo-controlled, 2027-patient study (alendronate sodium, n=1022; placebo, n=1005) demonstrated that treatment with alendronate sodium resulted in statistically significant reductions in fracture incidence at three years as shown in Table 6.
 
 Table 6: Effect of Alendronate Sodium on Fracture Incidence in the Three-Year Study of FIT (patients with vertebral fracture at baseline)
@@ -51,7 +52,7 @@ Table 7: Effect of Alendronate Sodium on Fracture Incidence in Osteoporotic* Pat
 | ≥1 clinical (symptomatic) vertebral fracture | 1 | 1.6 | 0.6 | 41 (NS)# |
 | Hip fracture | 1 | 1.4 | 0.4 | 29 (NS)# |
 | Wrist (forearm) fracture | 3.9 | 3.8 | -0.1 | NS# |
-| * Baseline femoral neck BMD at least 2 SD below the mean for young adult women † Number evaluable for vertebral fractures: alendronate sodium, n=1426; placebo, n=1428 ‡ p<0.001, §p=0.035, ¶p=0.01 # Not significant. This study was not powered to detect differences at these sites. |  |  |  |  |
+| *Baseline femoral neck BMD at least 2 SD below the mean for young adult women †Number evaluable for vertebral fractures: alendronate sodium, n=1426; placebo, n=1428 ‡p<0.001, §p=0.035, ¶p=0.01 #Not significant. This study was not powered to detect differences at these sites. |  |  |  |  |
 
 Fracture Results Across Studies In the Three-Year Study of FIT, alendronate sodium reduced the percentage of women experiencing at least one new radiographic vertebral fracture from 15% to 7.9% (47% relative risk reduction, p<0.001); in the Four-Year Study of FIT, the percentage was reduced from 3.8% to 2.1% (44% relative risk reduction, p=0.001); and in the combined U.S./Multinational studies, from 6.2% to 3.2% (48% relative risk reduction, p=0.034).
 Alendronate sodium reduced the percentage of women experiencing multiple (two or more) new vertebral fractures from 4.2% to 0.6% (87% relative risk reduction, p<0.001) in the combined U.S./Multinational studies and from 4.9% to 0.5% (90% relative risk reduction, p<0.001) in the Three-Year Study of FIT.

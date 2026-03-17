@@ -44,14 +44,14 @@ Re-treatment may also be considered in those who failed to normalize their serum
 
 Instruct patients to do the following:
 
-- Take alendronate sodium tablets at least one-half hour before the first food, beverage, or medication of the day with plain water only [see Patient Counseling Information (17.2)].
+- Take alendronate sodium tablets at least one-half hour before the first food, beverage, or medication of the day with plain water only [see Patient Counseling Information (17)].
   Other beverages (including mineral water), food, and some medications are likely to reduce the absorption of alendronate sodium tablets [see Drug Interactions (7.1)].
   Waiting less than 30 minutes, or taking alendronate sodium tablets with food, beverages (other than plain water) or other medications will lessen the effect of alendronate sodium tablets by decreasing its absorption into the body.
 - Take alendronate sodium tablets upon arising for the day.
   To facilitate delivery to the stomach and thus reduce the potential for esophageal irritation, an alendronate sodium tablet should be swallowed with a full glass of water (6 to 8 ounces).
   Patients should not lie down for at least 30 minutes and until after their first food of the day.
   Alendronate sodium tablets should not be taken at bedtime or before arising for the day.
-  Failure to follow these instructions may increase the risk of esophageal adverse experiences [see Warnings and Precautions (5.1) and Patient Counseling Information (17.2)].
+  Failure to follow these instructions may increase the risk of esophageal adverse experiences [see Warnings and Precautions (5.1) and Patient Counseling Information (17)].
 
 ## 2.7 Recommendations for Calcium and Vitamin D Supplementation
 
