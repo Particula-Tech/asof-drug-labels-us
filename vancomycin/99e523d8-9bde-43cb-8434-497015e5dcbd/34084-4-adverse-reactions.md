@@ -50,3 +50,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Immune System Disorders:Acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction.
 
 Skin and Subcutaneous Tissue Disorders: Severe dermatologic reactions such as toxic epidermal necrolysis (TEN), Drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and linear IgA bullous dermatosis (LABD).
+
+Blood and lymphatic system disorders: Hemolytic anemia
