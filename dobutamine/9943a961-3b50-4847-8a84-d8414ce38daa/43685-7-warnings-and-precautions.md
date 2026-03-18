@@ -16,20 +16,20 @@ Dobutamine may precipitate or exacerbate ventricular ectopic activity, but it ra
 
 Hypersensitivity
 
-Reactions suggestive of hypersensitivity associated with administration of Dobutamine in 5% Dextrose Injection, USP, including skin rash, fever, eosinophilia, and bronchospasm, have been reported occasionally.
+Reactions suggestive of hypersensitivity associated with administration of Dobutamine in 5% Dextrose Injection, including skin rash, fever, eosinophilia, and bronchospasm, have been reported occasionally.
 
-Dobutamine in 5% Dextrose Injection, USP contains sodium bisulfite, a sulfite that may cause allergic-type reactions, including anaphylactic symptoms and life-threatening or less severe asthmatic episodes, in certain susceptible people.
+Dobutamine in 5% Dextrose Injection contains sodium bisulfite, a sulfite that may cause allergic-type reactions, including anaphylactic symptoms and life-threatening or less severe asthmatic episodes, in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
 
 # PRECAUTIONS
 
-General
+## General
 
 During the administration of dobutamine, as with any adrenergic agent, ECG and blood pressure should be continuously monitored.
-In addition, pulmonary wedge pressure and cardiac output should be monitored whenever possible to aid in the safe and effective infusion of Dobutamine in 5% Dextrose Injection, USP.
+In addition, pulmonary wedge pressure and cardiac output should be monitored whenever possible to aid in the safe and effective infusion of Dobutamine in 5% Dextrose Injection.
 
-Hypovolemia should be corrected with suitable volume expanders before treatment with Dobutamine in 5% Dextrose Injection, USP is instituted.
+Hypovolemia should be corrected with suitable volume expanders before treatment with Dobutamine in 5% Dextrose Injection is instituted.
 
 Animal studies indicate that dobutamine may be ineffective if the patient has recently received a β-blocking drug.
 In such a case, the peripheral vascular resistance may increase.
@@ -42,19 +42,29 @@ Discard unused portion.
 Usage Following Acute Myocardial Infarction: Clinical experience with dobutamine following myocardial infarction has been insufficient to establish the safety of the drug for this use.
 There is concern that any agent that increases contractile force and heart rate may increase the size of an infarction by intensifying ischemia, but it is not known whether dobutamine does so.
 
-Drug Interactions: There was no evidence of drug interactions in clinical studies in which dobutamine hydrochloride was administered concurrently with other drugs, including digitalis preparations, furosemide, spironolactone, lidocaine, glyceryl trinitrate, isosorbide dinitrate, morphine, atropine, heparin, protamine, potassium chloride, folic acid, and acetaminophen.
+## Drug Interactions
+
+There was no evidence of drug interactions in clinical studies in which dobutamine hydrochloride was administered concurrently with other drugs, including digitalis preparations, furosemide, spironolactone, lidocaine, glyceryl trinitrate, isosorbide dinitrate, morphine, atropine, heparin, protamine, potassium chloride, folic acid, and acetaminophen.
 Preliminary studies indicate that the concomitant use of dobutamine and nitroprusside results in a higher cardiac output and, usually, a lower pulmonary wedge pressure than when either drug is used alone.
 
 Concomitant use of dobutamine and catechol-O-methyltranferase (COMT) inhibitors (e.g., entacapone) may result in increased heart rate, arrhythmias, and changes in blood pressure.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility: Studies to evaluate the carcinogenic or mutagenic potential of dobutamine or the potential of the drug to affect fertility adversely have not been performed.
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Pregnancy: Reproduction studies performed in rats and rabbits have revealed no evidence of harm to the fetus due to dobutamine.
+Studies to evaluate the carcinogenic or mutagenic potential of dobutamine or the potential of the drug to affect fertility adversely have not been performed.
+
+## Pregnancy
+
+Reproduction studies performed in rats and rabbits have revealed no evidence of harm to the fetus due to dobutamine.
 The drug, however, has not been administered to pregnant women and should be used only when the expected benefits clearly outweigh the potential risks to the fetus.
 
-Pediatric Use: Dobutamine has been shown to increase cardiac output and systemic pressure in pediatric patients of every age group.
+## Pediatric Use
+
+Dobutamine has been shown to increase cardiac output and systemic pressure in pediatric patients of every age group.
 In premature neonates, however, dobutamine is less effective than dopamine in raising systemic blood pressure without causing undue tachycardia, and dobutamine has not been shown to provide any added benefit when given to such infants already receiving optimal infusions of dopamine.
 
-Geriatric Use: Clinical studies of dobutamine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+## Geriatric Use
+
+Clinical studies of dobutamine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or drug therapy.

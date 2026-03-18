@@ -2,43 +2,43 @@
 
 Recommended Dosage
 
-Dobutamine in 5% Dextrose Injection, USP is administered intravenously through a suitable intravenous catheter or needle.
+Dobutamine in 5% Dextrose Injection is administered intravenously through a suitable intravenous catheter or needle.
 A calibrated electronic infusion device is recommended for controlling the rate of flow in mL/hour or drops/minute.
-Infusion of dobutamine should be started at a low rate (0.5 to 1.0 µg/kg/min) and titrated at intervals of a few minutes, guided by the patient's response, including systemic blood pressure, urine flow, frequency of ectopic activity, heart rate, and (whenever possible) measurements of cardiac output, central venous pressure, and/or pulmonary capillary wedge pressure.
-In reported trials, the optimal infusion rates have varied from patient to patient, usually 2 to 20 µg/kg/min but sometimes slightly outside of this range.
-On rare occasions, infusion rates up to 40 µg/kg/min have been required to obtain the desired effect.
+Infusion of dobutamine should be started at a low rate (0.5 mcg/kg/min to 1 mcg/kg/min) and titrated at intervals of a few minutes, guided by the patient's response, including systemic blood pressure, urine flow, frequency of ectopic activity, heart rate, and (whenever possible) measurements of cardiac output, central venous pressure, and/or pulmonary capillary wedge pressure.
+In reported trials, the optimal infusion rates have varied from patient to patient, usually 2 mcg/kg/min to 20 mcg/kg/min but sometimes slightly outside of this range.
+On rare occasions, infusion rates up to 40 mcg/kg/min have been required to obtain the desired effect.
 
-Rates of infusion in mL/hour for dobutamine hydrochloride concentrations of 500, 1,000, 2,000 and 4,000 mg/L may be calculated using the following formula:
+Rates of infusion in mL/hour for dobutamine hydrochloride concentrations of 500 mg/L, 1,000 mg/L, 2,000 mg/L and 4,000 mg/L may be calculated using the following formula:
 
-| Infusion Rate (mL/h) = [Dose (µg/kg/min) x Weight (kg) x 60 min/h] |
+| Infusion Rate (mL/h) = [Dose (mcg/kg/min) x Weight (kg) x 60 min/h] |
 | --- |
-| Final Concentration (µg/mL) |
+| Final Concentration (mcg/mL) |
 
 Example calculations for infusion rates are as follows:
 
-Example 1: for a 60 kg person at an initial dose of 0.5 µg/kg/min using a 500 µg/mL concentration, the infusion rate would be as follows:
+Example 1: for a 60 kg person at an initial dose of 0.5 mcg/kg/min using a 500 mcg/mL concentration, the infusion rate would be as follows:
 
-| Infusion Rate (mL/h) = [0.5 (µg/kg/min) x 60 (kg) x 60 (min/h)] = 3.6 (mL/h) |
+| Infusion Rate (mL/h) = [0.5 (mcg/kg/min) x 60 (kg) x 60 (min/h)] = 3.6 (mL/h) |
 | --- |
-| 500 (µg/mL) |
+| 500 (mcg/mL) |
 
-Example 2: for a 80 kg person at a dose of 10 µg/kg/min using a 2,000 µg/mL concentration, the infusion rate would be as follows:
+Example 2: for a 80 kg person at a dose of 10 mcg/kg/min using a 2,000 mcg/mL concentration, the infusion rate would be as follows:
 
-| Infusion Rate (mL/h) = [10 (µg/kg/min) x 80 (kg) x 60 (min/h)] = 24 (mL/h) |
+| Infusion Rate (mL/h) = [10 (mcg/kg/min) x 80 (kg) x 60 (min/h)] = 24 (mL/h) |
 | --- |
-| 2,000 (µg/mL) |
+| 2,000 (mcg/mL) |
 
 This container system may be inappropriate for the dosage requirements of pediatric patients under 30 kg.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
-Dobutamine in 5% Dextrose Injection, USP solutions may exhibit a pink color that, if present, will increase with time.
+Dobutamine in 5% Dextrose Injection solutions may exhibit a pink color that, if present, will increase with time.
 This color change is due to slight oxidation of the drug, but there is no significant loss of potency.
 
 Solutions containing dextrose should not be administered through the same administration set as blood, as this may result in pseudoagglutination or hemolysis.
 
-Do not add supplementary medications to Dobutamine in 5% Dextrose Injection, USP.
-Do not administer Dobutamine in 5% Dextrose Injection, USP simultaneously with solutions containing sodium bicarbonate or strong alkaline solutions.
+Do not add supplementary medications to Dobutamine in 5% Dextrose Injection.
+Do not administer Dobutamine in 5% Dextrose Injection simultaneously with solutions containing sodium bicarbonate or strong alkaline solutions.
 
 INSTRUCTIONS FOR USE
 
@@ -64,5 +64,3 @@ Preparation for Administration
 7. 7.Attach set to venipuncture device.
    If device is not indwelling, prime and make venipuncture.
 8. 8.Regulate rate of administration with flow control clamp.
-
-WARNING: Do not use flexible container in series connections.

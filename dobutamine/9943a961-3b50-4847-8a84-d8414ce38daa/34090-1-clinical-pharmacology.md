@@ -16,7 +16,7 @@ Occasionally, minimum vasoconstriction has been observed.
 Most clinical experience with dobutamine is short-term, not more than several hours in duration.
 In the limited number of patients who were studied for 24, 48, and 72 hours, a persistent increase in cardiac output occurred in some, whereas output returned toward baseline values in others.
 
-The onset of action of Dobutamine in 5% Dextrose Injection, USP is within 1 to 2 minutes; however, as much as 10 minutes may be required to obtain the peak effect of a particular infusion rate.
+The onset of action of Dobutamine in 5% Dextrose Injection is within 1 to 2 minutes; however, as much as 10 minutes may be required to obtain the peak effect of a particular infusion rate.
 
 The plasma half-life of dobutamine in humans is 2 minutes.
 The principal routes of metabolism are methylation of the catechol and conjugation.
