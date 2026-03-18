@@ -83,29 +83,29 @@ Nevertheless, it would be prudent to carefully evaluate the serum digoxin levels
 
 ## Carcinogenesis, Mutagenesis, Impairment Of Fertility
 
-In a 2-year study in Sprague-Dawley rats, albuterol sulfate caused a significant dose-related increase in the incidence of benign leiomyomas of the mesovarium at dietary doses of 2, 10, and 50 mg/kg (approximately 1/2, 3 and 15 times, respectively, the maximum recommended daily oral dose for adults on a mg/m2 basis, or, 2⁄5, 2 and 10 times, respectively, the maximum recommended daily oral dose for children on a mg/m2 basis).
+In a 2-year study in Sprague-Dawley rats, albuterol sulfate caused a significant dose-related increase in the incidence of benign leiomyomas of the mesovarium at dietary doses of 2, 10, and 50 mg/kg (approximately 1/ 2, 3 and 15 times, respectively, the maximum recommended daily oral dose for adults on a mg/m 2basis, or, 2⁄ 5, 2 and 10 times, respectively, the maximum recommended daily oral dose for children on a mg/m 2basis).
 In another study this effect was blocked by the coadministration of propranolol, a non-selective beta-adrenergic antagonist.
 
-In an 18-month study in CD-1 mice albuterol sulfate showed no evidence of tumorigenicity at dietary doses of up to 500 mg/kg, (approximately 65 times the maximum recommended daily oral dose for adults on a mg/m2 basis, or, approximately 50 times the maximum recommended daily oral dose for children on a mg/m2 basis).
-In a 22-month study in the Golden hamster albuterol sulfate showed no evidence of tumorigenicity at dietary doses of up to 50 mg/kg, (approximately 8 times the maximum recommended daily oral dose for adults on a mg/m2 basis, or, approximately 7 times the maximum recommended daily oral dose for children on a mg/m2 basis).
+In an 18-month study in CD-1 mice albuterol sulfate showed no evidence of tumorigenicity at dietary doses of up to 500 mg/kg, (approximately 65 times the maximum recommended daily oral dose for adults on a mg/m 2basis, or, approximately 50 times the maximum recommended daily oral dose for children on a mg/m 2basis).
+In a 22-month study in the Golden hamster albuterol sulfate showed no evidence of tumorigenicity at dietary doses of up to 50 mg/kg, (approximately 8 times the maximum recommended daily oral dose for adults on a mg/m 2basis, or, approximately 7 times the maximum recommended daily oral dose for children on a mg/m 2basis).
 
-Albuterol sulfate was not mutagenic in the Ames test with or without metabolic activation using tester strains S. typhimurium TA1537, TA1538, and TA98 or E. Coli WP2, WP2uvrA, and WP67.
-No forward mutation was seen in yeast strain S. cerevisiae S9 nor any mitotic gene conversion in yeast strain S. cerevisiae JD1 with or without metabolic activation.
-Fluctuation assays in S. typhimurium TA98 and E. Coli WP2, both with metabolic activation, were negative.
+Albuterol sulfate was not mutagenic in the Ames test with or without metabolic activation using tester strains S. typhimuriumTA1537, TA1538, and TA98 or E. ColiWP2, WP2uvrA, and WP67.
+No forward mutation was seen in yeast strain S. cerevisiaeS9 nor any mitotic gene conversion in yeast strain S. cerevisiaeJD1 with or without metabolic activation.
+Fluctuation assays in S. typhimuriumTA98 and E. ColiWP2, both with metabolic activation, were negative.
 Albuterol sulfate was not clastogenic in a human peripheral lymphocyte assay or in an AH1 strain mouse micronucleus assay at intraperitoneal doses of up to 200 mg/kg.
 
-Reproduction studies in rats demonstrated no evidence of impaired fertility at oral doses up to 50 mg/kg (approximately 15 times the maximum recommended daily oral dose for adults on a mg/m2 basis).
+Reproduction studies in rats demonstrated no evidence of impaired fertility at oral doses up to 50 mg/kg (approximately 15 times the maximum recommended daily oral dose for adults on a mg/m 2basis).
 
 ## Pregnancy
 
 ### Teratogenic Effects. Pregnancy Category C
 
 Albuterol has been shown to be teratogenic in mice.
-A study in CD-1 mice at subcutaneous (sc) doses of 0.025, 0.25, and 2.5 mg/kg, (approximately 3/1000, 3/100, and 3/10 times, respectively, the maximum recommended daily oral dose for adults on a mg/m2 basis), showed cleft palate formation in 5 of 111 (4.5%) fetuses at 0.25 mg/kg and in 10 of 108 (9.3%) fetuses at 2.5 mg/kg.
+A study in CD-1 mice at subcutaneous (sc) doses of 0.025, 0.25, and 2.5 mg/kg, (approximately 3/1000, 3/100, and 3/10 times, respectively, the maximum recommended daily oral dose for adults on a mg/m 2basis), showed cleft palate formation in 5 of 111 (4.5%) fetuses at 0.25 mg/kg and in 10 of 108 (9.3%) fetuses at 2.5 mg/kg.
 The drug did not induce cleft palate formation at the lowest dose, 0.025 mg/kg.
-Cleft palate also occurred in 22 of 72 (30.5%) fetuses from females treated with 2.5 mg/kg of isoproterenol (positive control) subcutaneously (approximately 3/10 times the maximum recommended daily oral dose for adults on a mg/m2 basis).
+Cleft palate also occurred in 22 of 72 (30.5%) fetuses from females treated with 2.5 mg/kg of isoproterenol (positive control) subcutaneously (approximately 3/10 times the maximum recommended daily oral dose for adults on a mg/m 2basis).
 
-A reproduction study in Stride Dutch rabbits revealed cranioschisis in 7 of 19 (37%) fetuses when albuterol was administered orally at a 50 mg/kg dose (approximately 25 times the maximum recommended daily oral dose for adults on a mg/m2 basis).
+A reproduction study in Stride Dutch rabbits revealed cranioschisis in 7 of 19 (37%) fetuses when albuterol was administered orally at a 50 mg/kg dose (approximately 25 times the maximum recommended daily oral dose for adults on a mg/m 2basis).
 
 There are no adequate and well-controlled studies in pregnant women.
 Albuterol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -122,7 +122,7 @@ Because of the potential for beta-agonist interference with uterine contractilit
 
 Albuterol has not been approved for the management of preterm labor.
 The benefit/risk ratio when albuterol is administered for tocolysis has not been established.
-Serious adverse reactions, including maternal pulmonary edema, have been reported during or following treatment of premature labor with beta2-agonists, including albuterol.
+Serious adverse reactions, including maternal pulmonary edema, have been reported during or following treatment of premature labor with beta 2-agonists, including albuterol.
 
 ## Nursing Mothers
 

@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
-In vitro studies and in vivo pharmacologic studies have demonstrated that albuterol has a preferential effect on beta2-adrenergic receptors compared with isoproterenol.
-While it is recognized that beta2-adrenergic receptors are the predominant receptors in bronchial smooth muscle, data indicate that there is a population of beta2-receptors in the human heart existing in a concentration between 10% and 50%.
+In vitrostudies and in vivopharmacologic studies have demonstrated that albuterol has a preferential effect on beta 2-adrenergic receptors compared with isoproterenol.
+While it is recognized that beta 2-adrenergic receptors are the predominant receptors in bronchial smooth muscle, data indicate that there is a population of beta 2-receptors in the human heart existing in a concentration between 10% and 50%.
 The precise function of these receptors has not been established (see WARNINGS).
 
 The pharmacologic effects of beta-adrenergic agonist drugs, including albuterol, are at least in part attributable to stimulation through beta-adrenergic receptors of intracellular adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3',5'-adenosine monophosphate (cyclic AMP).
@@ -9,7 +9,7 @@ Increased cyclic AMP levels are associated with relaxation of bronchial smooth m
 
 Albuterol has been shown in most controlled clinical trials to have more effect on the respiratory tract, in the form of bronchial smooth muscle relaxation, than isoproterenol at comparable doses while producing fewer cardiovascular effects.
 
-Albuterol is longer acting than isoproterenol in most patients by any route of administration because it is not a substrate for the cellular uptake processes for catecholamines nor for catechol-O-methyl transferase.
+Albuterol is longer acting than isoproterenol in most patients by any route of administration because it is not a substrate for the cellular uptake processes for catecholamines nor for catechol- O-methyl transferase.
 
 ## Preclinical
 
@@ -31,6 +31,6 @@ Feces collected over this period contained 4% of the administered dose.
 ## Clinical Trials
 
 In controlled clinical trials in patients with asthma, the onset of improvement in pulmonary function, as measured by maximum midexpiratory flow rate (MMEF), was within 30 minutes after a dose of albuterol tablets, with peak improvement occurring between 2 and 3 hours.
-In controlled clinical trials in which measurements were conducted for 6 hours, clinically significant improvement (defined as maintaining a 15% or more increase in forced expiratory volume in 1 second [FEV1] and a 20% or more increase in MMEF over baseline values) was observed in 60% of patients at 4 hours and in 40% at 6 hours.
+In controlled clinical trials in which measurements were conducted for 6 hours, clinically significant improvement (defined as maintaining a 15% or more increase in forced expiratory volume in 1 second [FEV 1] and a 20% or more increase in MMEF over baseline values) was observed in 60% of patients at 4 hours and in 40% at 6 hours.
 In other single-dose, controlled clinical trials, clinically significant improvement was observed in at least 40% of the patients at 8 hours.
 No decrease in the effectiveness of albuterol tablets was reported in patients who received long-term treatment with the drug in uncontrolled studies for periods up to 6 months.
