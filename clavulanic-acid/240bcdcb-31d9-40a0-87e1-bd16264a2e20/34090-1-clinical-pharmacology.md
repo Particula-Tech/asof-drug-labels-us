@@ -42,28 +42,34 @@ One 250 mg/62.5 mg chewable tablet of amoxicillin and clavulanate potassium or t
 Amoxicillin serum concentrations achieved with amoxicillin and clavulanate potassium suspension are similar to those produced by the oral administration of equivalent doses of amoxicillin alone.
 Time above the minimum inhibitory concentration of 1 mcg/mL for amoxicillin has been shown to be similar after corresponding every 12 hour and every 8 hour dosing regimens of amoxicillin and clavulanate potassium suspension in adults and children.
 
-Absorption: Dosing in the fasted or fed state has minimal effect on the pharmacokinetics of amoxicillin.
+Absorption:
+
+Dosing in the fasted or fed state has minimal effect on the pharmacokinetics of amoxicillin.
 While amoxicillin and clavulanate potassium suspension can be given without regard to meals, absorption of clavulanate potassium when taken with food is greater relative to the fasted state.
 In one study, the relative bioavailability of clavulanate was reduced when amoxicillin and clavulanate potassium suspension was dosed at 30 and 150 minutes after the start of a high-fat breakfast.
 
-Distribution: Neither component in amoxicillin and clavulanate potassium suspension is highly protein-bound; clavulanic acid is approximately 25% bound to human serum and amoxicillin approximately 18% bound.
+Distribution:
+
+Neither component in amoxicillin and clavulanate potassium suspension is highly protein-bound; clavulanic acid is approximately 25% bound to human serum and amoxicillin approximately 18% bound.
 
 Amoxicillin diffuses readily into most body tissues and fluids with the exception of the brain and spinal fluid.
 
 Two hours after oral administration of a single 35 mg/kg dose of suspension of amoxicillin and clavulanate potassium to fasting children, average concentrations of 3 mcg/mL of amoxicillin and 0.5 mcg/mL of clavulanic acid were detected in middle ear effusions.
 
-Metabolism and Excretion: The half-life of amoxicillin after the oral administration of amoxicillin and clavulanate potassium suspension is 1.3 hours and that of clavulanic acid is 1 hour.
+Metabolism and Excretion:
+
+The half-life of amoxicillin after the oral administration of amoxicillin and clavulanate potassium suspension is 1.3 hours and that of clavulanic acid is 1 hour.
 
 Approximately 50% to 70% of the amoxicillin and approximately 25% to 40% of the clavulanic acid are excreted unchanged in urine during the first 6 hours after administration of a single 250 mg/125 mg or 500 mg/125 mg tablet of amoxicillin and clavulanate potassium.
 
 ## 12.4 Microbiology
 
-Amoxicillin is a semisynthetic antibiotic with in vitro antibacterial activity against Gram-positive and Gram-negative bacteria.
+Amoxicillin is a semisynthetic antibacterial with in vitro antibacterial activity against Gram-positive and Gram-negative bacteria.
 Amoxicillin is, however, susceptible to degradation by beta-lactamases, and therefore, the spectrum of activity does not include organisms which produce these enzymes.
 Clavulanic acid is a beta-lactam, structurally related to the antibacterial, which possesses the ability to inactivate some beta-lactamase enzymes commonly found in microorganisms resistant to penicillins and cephalosporins.
 In particular, it has good activity against the clinically important plasmid-mediated beta-lactamases frequently responsible for transferred drug resistance.
 
-The formulation of amoxicillin and clavulanic acid in amoxicillin and clavulanate potassium for oral suspension protects amoxicillin from degradation by some beta-lactamase enzymes and extends the antibiotic spectrum of amoxicillin to include many bacteria normally resistant to amoxicillin.
+The formulation of amoxicillin and clavulanic acid in amoxicillin and clavulanate potassium for oral suspension protects amoxicillin from degradation by some beta-lactamase enzymes and extends the antibacterial spectrum of amoxicillin to include many bacteria normally resistant to amoxicillin.
 
 Amoxicillin/clavulanic acid has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections [see Indications and Usage (1)].
 
@@ -81,4 +87,6 @@ Gram-negative Bacteria Eikenella corrodens Proteus mirabilis
 
 Anaerobic Bacteria Bacteroides species including Bacteroides fragilis Fusobacterium species Peptostreptococcus species
 
-Susceptibility Test Methods For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+Susceptibility Test Methods
+
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

@@ -2,15 +2,11 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Anaphylactic reactions [see Warnings and Precautions (5.1)]
-
-- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)]
-
-- Drug-Induced Enterocolitis Syndrome (DIES) [see Warnings and Precautions (5.3)]
-
-- Hepatic Dysfunction [see Warnings and Precautions (5.4)]
-
-- Clostridioides difficile Associated Diarrhea (CDAD) [see Warnings and Precautions (5.5)]
+- •Anaphylactic reactions [see Warnings and Precautions (5.1)]
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)]
+- •Drug-Induced Enterocolitis Syndrome (DIES) [see Warnings and Precautions (5.3)]
+- •Hepatic Dysfunction [see Warnings and Precautions (5.4)]
+- •Clostridioides difficile Associated Diarrhea (CDAD) [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trial Experience
 
