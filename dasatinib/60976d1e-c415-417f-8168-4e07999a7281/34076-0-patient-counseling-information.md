@@ -84,15 +84,9 @@ The patient should not take two doses at the same time.
 
 Advise patients not to drink grapefruit juice as it may increase the amount of dasatinib in their blood and therefore increase their risk of adverse reactions.
 
-Manufactured for:
+Manufactured by: Bora Pharmaceutical Services Inc. Mississauga, Ontario, L5N 6L4, Canada
 
-Cycle Pharmaceuticals Ltd
-
-The Broers Building
-
-21 JJ Thomson Ave
-
-Cambridge, CB3 0FA, United Kingdom
+Marketed by: Cycle Pharmaceuticals Ltd Cambridge, CB3 0FA United Kingdom
 
 PHYRAGO™ is a trademark of Handa Therapeutics, LLC
 
