@@ -95,5 +95,5 @@ Among these patients, 61% of OZURDEX subjects vs. 8% of sham-controlled subjects
 ## 6.2Postmarketing Experience
 
 The following reactions have been identified during post-approval use of OZURDEX in clinical practice.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to OZURDEX, or a combination of these factors, include: complication of device insertion resulting in ocular tissue injury including sclera, subconjunctiva, lens and retina (implant misplacement), device dislocation with or without corneal edema, endophthalmitis, hypotony of the eye (associated with vitreous leakage due to injection), and retinal detachment.
+Because they are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to OZURDEX, or a combination of these factors, include: complication of device insertion resulting in ocular tissue injury including sclera, subconjunctiva, lens and retina (implant misplacement), device dislocation with or without corneal edema/corneal decompensation, endophthalmitis, hypotony of the eye (associated with vitreous leakage due to injection), and retinal detachment.
