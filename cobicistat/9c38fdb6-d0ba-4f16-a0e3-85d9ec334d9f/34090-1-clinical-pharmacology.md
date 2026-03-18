@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-PREZCOBIX is a fixed-dose combination of an HIV-1 antiviral drug, darunavir and a CYP3A inhibitor, cobicistat [see Microbiology (12.4)].
+PREZCOBIX and PREZCOBIX PED are fixed-dose combinations of an HIV-1 antiviral drug, darunavir and a CYP3A inhibitor, cobicistat [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -22,9 +22,9 @@ The maximum mean (95% upper confidence bound) difference in PR from placebo afte
 Effects on Serum Creatinine
 
 Cobicistat: The effect of cobicistat on serum creatinine was investigated in a trial in participants with normal renal function (eGFR ≥80 mL/min, N=12) and mild-to-moderate renal impairment (eGFR 50–79 mL/min, N=18).
-A statistically significant decrease in the estimated glomerular filtration rate, calculated by Cockcroft-Gault method (eGFR CG) from baseline, was observed after 7 days of treatment with cobicistat 150 mg among participants with normal renal function (-9.9 ± 13.1 mL/min) and mild-to-moderate renal impairment (-11.9 ± 7.0 mL/min).
-No statistically significant changes in eGFR CG were observed compared to baseline for participants with normal renal function or mild-to-moderate renal impairment 7 days after cobicistat was discontinued.
-The actual glomerular filtration rate, as determined by the clearance of probe drug iohexol, was not altered from baseline following treatment of cobicistat among participants with normal renal function and mild-to-moderate renal impairment, indicating that cobicistat inhibits tubular secretion of creatinine, reflected as a reduction in eGFR CG, without affecting the actual glomerular filtration rate.
+A statistically significant decrease in the estimated glomerular filtration rate, calculated by Cockcroft-Gault method (eGFRCG) from baseline, was observed after 7 days of treatment with cobicistat 150 mg among participants with normal renal function (-9.9 ± 13.1 mL/min) and mild-to-moderate renal impairment (-11.9 ± 7.0 mL/min).
+No statistically significant changes in eGFRCG were observed compared to baseline for participants with normal renal function or mild-to-moderate renal impairment 7 days after cobicistat was discontinued.
+The actual glomerular filtration rate, as determined by the clearance of probe drug iohexol, was not altered from baseline following treatment of cobicistat among participants with normal renal function and mild-to-moderate renal impairment, indicating that cobicistat inhibits tubular secretion of creatinine, reflected as a reduction in eGFRCG, without affecting the actual glomerular filtration rate.
 
 ## 12.3 Pharmacokinetics
 
@@ -34,22 +34,24 @@ Darunavir is primarily metabolized by CYP3A.
 Cobicistat inhibits CYP3A, thereby increasing the plasma concentrations of darunavir.
 
 Under fed (535 total kcal, 171 kcal from fat, 268 kcal from carbohydrates, 96 kcal from protein) and fasted conditions in healthy participants, the 90% confidence intervals when comparing darunavir exposure between PREZCOBIX (800 mg/150 mg) and darunavir 800 mg co-administered with cobicistat 150 mg as single entities were within 80–125%.
-No clinically significant difference was observed between PREZCOBIX (675 mg/150 mg) and darunavir 675 mg co-administered with cobicistat 150 mg as single entities under fed conditions.
+No clinically significant difference was observed between PREZCOBIX (675 mg/150 mg) and darunavir 675 mg co-administered with cobicistat 150 mg as single entities under fed conditions in healthy adults.
+No clinically significant difference was observed between PREZCOBIX PED (600 mg/90 mg) and darunavir suspension (100 mg/mL) at a dose of 600 mg co-administered with cobicistat 90 mg as single entities under fed conditions in healthy adults.
 
-Darunavir exposure when comparing darunavir co-administered with cobicistat (as single entities) to darunavir co-administered with ritonavir was evaluated in a relative bioavailability trial [see cobicistat full prescribing information].Table 3 displays the pharmacokinetic estimates of darunavir after oral administration of darunavir 800 mg co-administered with ritonavir 100 mg once daily (based on sparse sampling in 335 participants in Trial TMC114-C211 and 280 participants in Trial TMC114-C229) and darunavir 800 mg co-administered with cobicistat 150 mg once daily administered as single entities (based on sparse sampling in 298 participants in Trial GS-US-216-0130) to HIV-1 participants.
+Darunavir exposure when comparing darunavir co-administered with cobicistat (as single entities) to darunavir co-administered with ritonavir was evaluated in a relative bioavailability trial [see cobicistat full prescribing information].
+Table 3 displays the pharmacokinetic estimates of darunavir after oral administration of darunavir 800 mg co-administered with ritonavir 100 mg once daily (based on sparse sampling in 335 participants in Trial TMC114-C211 and 280 participants in Trial TMC114-C229) and darunavir 800 mg co-administered with cobicistat 150 mg once daily administered as single entities (based on sparse sampling in 298 participants in Trial GS-US-216-0130) to HIV-1 participants.
 
 Table 3: Pharmacokinetic Estimates of Darunavir as Darunavir 800 mg Co-administered with Ritonavir 100 mg Once Daily (Trial TMC114-C211, 48 Week Analysis and Trial TMC114-C229, 48 Week Analysis) and Darunavir 800 mg Co-administered with Cobicistat 150 mg Once Daily (Trial GS-US-216-0130, 24 Week Analysis)
 
 | Parameter | N=335 | N=280 | N=298 |
 | --- | --- | --- | --- |
 |  | Trial TMC114-C211 (treatment-naïve) Darunavir 800 mg co-administered with ritonavir 100 mg once daily | Trial TMC114-C229 (treatment-experienced) Darunavir 800 mg co-administered with ritonavir 100 mg once daily | Trial GS-US-216-0130 (treatment-naïve and experienced) Darunavir 800 mg co-administered with cobicistat 150 mg once daily |
-| AUC 0–24h(ng∙h/mL) |  |  |  |
+| AUC0–24h (ng∙h/mL) |  |  |  |
 | Mean ± SD | 93026 ± 27050 | 93334 ± 28626 | 100152 ± 32042 |
 | Median (Range) | 87854 (45000–219240) | 87788 (45456–236920) | 96900 (34500–224000) |
-| C 0h(ng/mL) |  |  |  |
+| C0h (ng/mL) |  |  |  |
 | Mean ± SD | 2282 ± 1168 | 2160 ± 1201 | 2043 ± 1257 |
 | Median (Range) | 2041 (368–7242) | 1896 (184–7881) | 1875 (70–6890) |
-| AUC 0–24h=area under the concentration-time curve over a 24-hour dosing interval at steady state; C 0h=plasma concentration at the end of a 24-hour dosing interval at steady state; N=number of participants; SD=standard deviation |  |  |  |
+| AUC0–24h=area under the concentration-time curve over a 24-hour dosing interval at steady state; C0h=plasma concentration at the end of a 24-hour dosing interval at steady state; N=number of participants; SD=standard deviation |  |  |  |
 
 Absorption and Bioavailability
 
@@ -57,9 +59,9 @@ In healthy participants, under fed conditions, when single doses of the darunavi
 
 Effects of Food on Oral Absorption
 
-When compared to fasted conditions, administration of PREZCOBIX to healthy adult participants with a high-fat meal (965 total kcal: 129 kcal from protein, 236 kcal from carbohydrates and 600 kcal from fat) resulted in a 70% increase in AUC (0–inf)and a 127% increase in C maxfor darunavir.
+When compared to fasted conditions, administration of PREZCOBIX (800 mg/150 mg) to healthy adult participants with a high-fat meal (965 total kcal: 129 kcal from protein, 236 kcal from carbohydrates and 600 kcal from fat) resulted in a 70% increase in AUC(0–inf) and a 127% increase in Cmax for darunavir.
 Cobicistat exposures were not affected by food.
-PREZCOBIX should be taken with food.
+PREZCOBIX or PREZCOBIX PED should be taken with food.
 
 Distribution
 
@@ -104,7 +106,7 @@ Hepatitis B or Hepatitis C Virus Co-Infection
 
 Darunavir: In participants with HIV-1 taking darunavir co-administered with ritonavir, the 48 week analysis of the data from clinical studies in participants with HIV-1 indicated that hepatitis B and/or hepatitis C virus co-infection status had no apparent effect on the exposure of darunavir.
 
-The effect of hepatitis B and/or C virus infection on the pharmacokinetics of PREZCOBIX have not been evaluated.
+The effect of hepatitis B and/or C virus infection on the pharmacokinetics of PREZCOBIX or PREZCOBIX PED have not been evaluated.
 
 Renal Impairment
 
@@ -112,7 +114,7 @@ Darunavir: Population pharmacokinetic analysis showed that the pharmacokinetics 
 There are no pharmacokinetic data available in participants with HIV-1 with severe renal impairment or end stage renal disease taking darunavir co-adminstered with either ritonavir or cobicistat [see Use in Specific Populations (8.7)].
 
 Cobicistat: A trial of the pharmacokinetics of cobicistat was performed in non-HIV participants with severe renal impairment (estimated creatinine clearance below 30 mL/min).
-No clinically relevant differences in cobicistat pharmacokinetics were observed between participants with severe renal impairment and healthy participants [see Use in Special Populations (8.7)].
+No clinically relevant differences in cobicistat pharmacokinetics were observed between participants with severe renal impairment and healthy participants [see Use in Specific Populations (8.7)].
 
 Gender
 
@@ -133,37 +135,38 @@ Darunavir: In participants with HIV-1 taking darunavir co-administered with rito
 
 Cobicistat: Insufficient data are available to determine whether potential differences exist in the pharmacokinetics of cobicistat in geriatric (65 years of age and older) participants compared to younger participants.
 
-Pediatrics Weighing at Least 25 kg
+Pediatrics Weighing at Least 15 kg
 
-Available pharmacokinetic data for the different components of PREZCOBIX indicate that there were no clinically relevant differences in darunavir exposure between adults and adolescents or children weighing at least 25 kg (see Table 4).
-Cobicistat exposures were similar between adults and adolescents but higher in children aged 6 to less than 12 years, weighing at least 25 kg.
+Available pharmacokinetic data for the different components of PREZCOBIX and PREZCOBIX PED indicate that there were no clinically relevant differences in darunavir exposure between adults and adolescents or children weighing at least 15 kg (see Table 4).
+Cobicistat exposures were similar between adults and adolescents but higher in children aged 3 to less than 12 years, weighing at least 15 kg to <40 kg.
 The difference observed in children for cobicistat is not considered clinically relevant.
 
-Table 4: Pharmacokinetic Estimates Comparison of Darunavir AUC 0–24hand C 0hin Pediatric and Adult Studies
+Table 4: Pharmacokinetic Estimates Comparison of Darunavir AUC0–24h and C0h in Pediatric and Adult Studies
 
-| Parameter | GS-US-216-0128 in Participants Aged ≥ 6 to < 12 Years and Weighing ≥ 25 to < 40 kg DRV 675 mg/COBI 150 mg N=8 | GS-US-216-0128 in Participants Aged ≥ 12 to < 18 Years and Weighing ≥ 40 kg DRV 800 mg/COBI 150 mg N=8 | TMC114FD2HTX3001 in Adult Participants DRV 800 mg/COBI 150 mg/FTC 200 mg/TAF 10 mg N=356 |
-| --- | --- | --- | --- |
-| AUC 0–24h(ng ∙ h/mL)Mean ± standard deviation | 92,052 ±17,254 | 69,474 ±10,359 | 87,909 ±20,232 |
-| C 0h(ng/mL) | 1,345 ±569 | 938 ±445 | 1,899 ±759 |
-| AUC 0–24h=area under the concentration-time curve over a 24-hour dosing interval at steady state; C 0h=plasma concentration at the end of a 24-hour dosing interval at steady state; COBI=cobicistat; DRV=darunavir; FTC=emtricitabine; N=number of participants; TAF=tenofovir alafenamide |  |  |  |
+| N=11 | N=8 | N=8 | N=355 |  |
+| --- | --- | --- | --- | --- |
+| Parameter | GS-US-216-0128 in Participants Aged ≥3 Years and Weighing ≥ 15 to <25 kg | GS-US-216-0128 in Participants Aged ≥ 6 to < 12 Years and Weighing ≥ 25 to < 40 kg | GS-US-216-0128 in Participants Aged ≥ 12 to < 18 Years and Weighing ≥ 40 kg | TMC114FD2HTX3001 in Adult Participants |
+| DRV 600 mg/COBI 90 mg | DRV 675 mg/COBI 150 mg | DRV 800 mg/COBI 150 mg | DRV 800 mg/COBI 150 mg/FTC 200 mg/TAF 10 mg |  |
+| AUC0–24h (ng∙h/mL)Mean ± standard deviation | 146,477 ± 40,055 | 92,052 ± 17,254 | 69,474 ± 10,359 | 87,909 ± 20,232 |
+| C0h (ng/mL) | 2,265 ± 1,293 | 1,345 ± 569 | 938 ± 445 | 1,899 ± 759 |
+| AUC0–24h=area under the concentration-time curve over a 24-hour dosing interval at steady state; C0h=plasma concentration at the end of a 24-hour dosing interval at steady state; COBI=cobicistat; DRV=darunavir; FTC=emtricitabine; N=number of participants; TAF=tenofovir alafenamide |  |  |  |  |
 
 Pregnancy and Postpartum
 
-The exposure to total and unbound darunavir boosted with cobicistat after intake of PREZCOBIX as part of an antiretroviral regimen was substantially lower during the second and third trimesters of pregnancy compared with 6–12 weeks postpartum (see Table 5 and Figure 1).
+The exposure to total and unbound darunavir boosted with cobicistat after intake of PREZCOBIX (800 mg/150 mg) once daily as part of an antiretroviral regimen was substantially lower during the second and third trimesters of pregnancy compared with 6–12 weeks postpartum (see Table 5 and Figure 1).
 
-Table 5: Pharmacokinetic Results of Total Darunavir after Administration of PREZCOBIX Once Daily as Part of an Antiretroviral Regimen, During the 2 nd Trimester of Pregnancy, the 3 rd Trimester of Pregnancy, and Postpartum
+Table 5: Pharmacokinetic Results of Total Darunavir after Administration of PREZCOBIX Once Daily as Part of an Antiretroviral Regimen, During the 2nd Trimester of Pregnancy, the 3rd Trimester of Pregnancy, and Postpartum
 
-| Parameter | 2 ndTrimester of pregnancy N=7 | 3 rdTrimester of pregnancy N=6 | Postpartum (6–12 weeks) N=6 |
+| Parameter | 2nd Trimester of pregnancy N=7 | 3rd Trimester of pregnancy N=6 | Postpartum (6–12 weeks) N=6 |
 | --- | --- | --- | --- |
-| C max(ng/mL) Mean ± standard deviation | 4340 ± 1616 | 4910 ± 970 | 7918 ± 2199 |
-| AUC 0–24h(ng∙h/mL) | 47293 ± 19058 | 47991 ± 9879 | 99613 ± 34862 |
-| C min(ng/mL) | 168 ± 149 | 184 ± 99 | 1538 ± 1344 |
-| C max=maximum plasma concentration at steady state; AUC 0–24h=area under the concentration-time curve over a 24-hour dosing interval at steady state; C min=minimum plasma concentration at steady state |  |  |  |
+| Cmax (ng/mL)Mean ± standard deviation | 4340 ± 1616 | 4910 ± 970 | 7918 ± 2199 |
+| AUC0–24h (ng∙h/mL) | 47293 ± 19058 | 47991 ± 9879 | 99613 ± 34862 |
+| Cmin (ng/mL) | 168 ± 149 | 184 ± 99 | 1538 ± 1344 |
+| Cmax=maximum plasma concentration at steady state; AUC0–24h=area under the concentration-time curve over a 24-hour dosing interval at steady state; Cmin=minimum plasma concentration at steady state |  |  |  |
 
-Figure 1: Pharmacokinetic Results (Within-Subject Comparison) of Total and Unbound Darunavir and Total Cobicistat after Administration of PREZCOBIX at 800/150 mg Once Daily as Part of an Antiretroviral Regimen, During the 2 ndand 3 rdTrimester of Pregnancy Compared to Postpartum
-
-Legend: 90% CI: 90% confidence interval; GMR: geometric mean ratio (i.e. second or third trimester / postpartum).
-Solid vertical line: ratio of 1.0; dotted vertical lines: reference lines of 0.8 and 1.25.
+| Figure 1: Pharmacokinetic Results (Within-Subject Comparison) of Total and Unbound Darunavir and Total Cobicistat after Administration of PREZCOBIX at 800/150 mg Once Daily as Part of an Antiretroviral Regimen, During the 2nd and 3rd Trimester of Pregnancy Compared to Postpartum |  |
+| --- | --- |
+| Legend: 90% CI: 90% confidence interval; GMR: geometric mean ratio (i.e. second or third trimester / postpartum). Solid vertical line: ratio of 1.0; dotted vertical lines: reference lines of 0.8 and 1.25. |  |
 
 Drug Interactions
 
@@ -179,11 +182,11 @@ The effects of darunavir on co-administration with dabigatran etexilate are summ
 
 Table 6: Drug Interactions: Pharmacokinetic Parameters for Co-Administered Drugs in the Presence of darunavir/cobicistat
 
-| Co-administered drug | Darunavir/ cobicistat | C max | AUC | C min |  |  |  |
+| Co-administered Drug | Darunavir/cobicistat | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Co-administered drug | Dose/Schedule |  | N | PK | LS Mean ratio (90% CI) of co-administered drug pharmacokinetic parameters with/without darunavir no effect =1.00 |  |  |
+| Co-administered Drug | Dose/Schedule |  | N | Effect on Concentration of Co-administered Drug | LS Mean ratio (90% CI) of Co-administered Drug pharmacokinetic parameters with/without darunavir no effect =1.00 |  |  |
 | Dabigatran etexilate | 150 mg | 800/150 mg single dose | 14 | ↑ | 2.64 (2.29–3.05) | 2.64 (2.32–3.00) | - |
-|  |  | 800/150 mg q.d. 800/150 mg q.d. for 14 days before co-administered with dabigatran etexilate. | 14 | ↑ | 1.99 (1.72–2.30) | 1.88 (1.65–2.13) | - |
+|  |  | 800/150 mg q.d.800/150 mg q.d. for 14 days before co-administered with dabigatran etexilate. | 14 | ↑ | 1.99 (1.72–2.30) | 1.88 (1.65–2.13) | - |
 | N = number of participants with data q.d. = once daily |  |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
@@ -198,9 +201,9 @@ Inhibition of CYP3A-mediated metabolism by cobicistat enhances the systemic expo
 
 Antiviral Activity
 
-Darunavir: Darunavir exhibits activity against laboratory strains and clinical isolates of HIV-1 and laboratory strains of HIV-2 in acutely infected T-cell lines, human peripheral blood mononuclear cells, and human monocytes/macrophages with median EC 50 values ranging from 1.2 to 8.5 nM (0.7 to 5.0 ng/mL).
-Darunavir demonstrates antiviral activity in cell culture against a broad panel of HIV-1 group M (A, B, C, D, E, F, G), and group O primary isolates with EC 50 values ranging from less than 0.1 to 4.3 nM.
-The EC 50 value of darunavir increases by a median factor of 5.4 in the presence of human serum.
+Darunavir: Darunavir exhibits activity against laboratory strains and clinical isolates of HIV-1 and laboratory strains of HIV-2 in acutely infected T-cell lines, human peripheral blood mononuclear cells, and human monocytes/macrophages with median EC50 values ranging from 1.2 to 8.5 nM (0.7 to 5.0 ng/mL).
+Darunavir demonstrates antiviral activity in cell culture against a broad panel of HIV-1 group M (A, B, C, D, E, F, G), and group O primary isolates with EC50 values ranging from less than 0.1 to 4.3 nM.
+The EC50 value of darunavir increases by a median factor of 5.4 in the presence of human serum.
 Darunavir did not show antagonism when studied in combination with the HIV protease inhibitors (PIs) amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, or tipranavir, the N(t)RTIs abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine, or zidovudine, the NNRTIs delavirdine, efavirenz, etravirine, rilpivirine, or nevirapine, and the fusion inhibitor enfuvirtide.
 
 Cobicistat: Cobicistat does not inhibit recombinant HIV-1 protease in a biochemical assay and has no detectable antiviral activity in cell culture against HIV-1.
@@ -213,11 +216,11 @@ Cell Culture
 Darunavir: HIV-1 isolates with a decreased susceptibility to darunavir have been selected in cell culture and obtained from participants treated with darunavir co-administered with ritonavir.
 Darunavir-resistant virus derived in cell culture from wild-type HIV-1 had 21- to 88-fold decreased susceptibility to darunavir and developed 2 to 4 of the following amino acid substitutions S37D, R41E/T, K55Q, H69Q, K70E, T74S, V77I, or I85V in the protease.
 Selection in cell culture of darunavir resistant HIV-1 from nine HIV-1 strains harboring multiple PI resistance-associated substitutions resulted in the overall emergence of 22 mutations in the protease gene, coding for amino acid substitutions L10F, V11I, I13V, I15V, G16E, L23I, V32I, L33F, S37N, M46I, I47V, I50V, F53L, L63P, A71V, G73S, L76V, V82I, I84V, T91A/S, and Q92R, of which L10F, V32I, L33F, S37N, M46I, I47V, I50V, L63P, A71V, and I84V were the most prevalent.
-These darunavir-resistant viruses had at least eight protease substitutions and exhibited 50- to 641-fold decreases in darunavir susceptibility with final EC 50values ranging from 125 nM to 3461 nM.
+These darunavir-resistant viruses had at least eight protease substitutions and exhibited 50- to 641-fold decreases in darunavir susceptibility with final EC50 values ranging from 125 nM to 3461 nM.
 
 Clinical Studies
 
-The resistance profile of PREZCOBIX is driven by darunavir.
+The resistance profile of PREZCOBIX and PREZCOBIX PED is driven by darunavir.
 Cobicistat does not select any HIV resistance substitutions, due to its lack of antiviral activity.
 For the clinical resistance profile of darunavir, refer to the darunavir full prescribing information.
 

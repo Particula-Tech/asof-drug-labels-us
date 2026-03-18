@@ -4,12 +4,12 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in individuals exposed to PREZCOBIX during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in individuals exposed to PREZCOBIX or PREZCOBIX PED during pregnancy.
 Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) 1-800-258-4263.
 
 Risk Summary
 
-PREZCOBIX is not recommended during pregnancy because of substantially lower exposures of darunavir and cobicistat during the second and third trimesters [see Dosage and Administration (2.5)].
+PREZCOBIX or PREZCOBIX PED is not recommended during pregnancy because of substantially lower exposures of darunavir and cobicistat during the second and third trimesters [see Dosage and Administration (2.7)].
 A study evaluating the pharmacokinetics of antiretrovirals during pregnancy demonstrated substantially lower exposures of darunavir and cobicistat in the second and third trimesters compared to the post-partum period (see Data) and [see Clinical Pharmacology (12.3)].
 
 Prospective pregnancy data from the APR are not sufficient to adequately assess the risk of birth defects or miscarriage.
@@ -25,23 +25,23 @@ Clinical Considerations
 
 Not Recommended During Pregnancy
 
-PREZCOBIX is not recommended for use during pregnancy because of substantially lower exposures of darunavir and cobicistat during pregnancy (see Data) and [see Clinical Pharmacology (12.3)].
+PREZCOBIX or PREZCOBIX PED is not recommended for use during pregnancy because of substantially lower exposures of darunavir and cobicistat during pregnancy (see Data) and [see Clinical Pharmacology (12.3)].
 
-PREZCOBIX should not be initiated in pregnant individuals.
-An alternative regimen is recommended for individuals who become pregnant during therapy with PREZCOBIX.
+PREZCOBIX or PREZCOBIX PED should not be initiated in pregnant individuals.
+An alternative regimen is recommended for individuals who become pregnant during therapy with PREZCOBIX or PREZCOBIX PED.
 
 Data
 
 Human Data
 
-PREZCOBIX in combination with a background regimen was evaluated in a clinical trial of 7 pregnant participants taking PREZCOBIX prior to enrollment and who were willing to remain on PREZCOBIX throughout the study.
+PREZCOBIX in combination with a background regimen was evaluated in a clinical trial of 7 pregnant participants taking PREZCOBIX (800 mg/150 mg) prior to enrollment and who were willing to remain on PREZCOBIX throughout the study.
 The study period included the second and third trimesters, and through 12 weeks postpartum.
 Six pregnant participants completed the trial.
 
 Exposure to darunavir and cobicistat as part of an antiretroviral regimen was substantially lower during the second and third trimesters of pregnancy compared with postpartum [see Clinical Pharmacology (12.3)].
 
 One out of 6 pregnant participants who completed the study experienced virologic failure with HIV-1 RNA >1,000 copies/mL from the third trimester visit through the postpartum period.
-Five pregnant participants had sustained virologic response (HIV RNA <50 copies/mL) throughout the study period.
+Five pregnant participants had sustained virologic response (HIV-1 RNA <50 copies/mL) throughout the study period.
 There are no clinical data on the virologic response when PREZCOBIX is initiated during pregnancy.
 
 Prospective reports from the APR of overall major birth defects in pregnancies exposed to the components of PREZCOBIX are compared with a U.S. background major birth defect rate.
@@ -78,7 +78,7 @@ Risk Summary
 
 There are no data on the presence of darunavir or cobicistat in human milk, the effects on the breastfed infant, or the effects on milk production.
 Darunavir and cobicistat are present in the milk of lactating rats (see Data).
-Potential risks of breastfeeding include: (1) HIV-1 transmission (in infants without HIV-1), (2) developing viral resistance (in infants with HIV-1), and (3) serious adverse reactions in breastfed infant similar to those seen in adults.
+Potential risks of breastfeeding include: (1) HIV-1 transmission (in infants without HIV-1), (2) developing viral resistance (in infants with HIV-1), and (3) serious adverse reactions in a breastfed infant similar to those seen in adults.
 
 Data
 
@@ -94,17 +94,17 @@ Cobicistat: During the pre/postnatal developmental toxicology study at doses up 
 
 Contraception
 
-Additional or alternative (non-hormonal) forms of contraception should be considered when estrogen-containing contraceptives are co-administered with PREZCOBIX.
+Additional or alternative (non-hormonal) forms of contraception should be considered when estrogen-containing contraceptives are co-administered with PREZCOBIX or PREZCOBIX PED.
 For co-administration with drospirenone, clinical monitoring is recommended due to the potential for hyperkalemia.
 No data are available to make recommendations on co-administration with other hormonal contraceptives [see Drug Interactions (7.3)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of PREZCOBIX for the treatment of HIV-1 in pediatric patients weighing at least 25 kg was established through a trial with components of PREZCOBIX.
-Use of PREZCOBIX in this group is supported by evidence from adequate and well-controlled studies in adults with additional pharmacokinetic, safety, and virologic data from a study of components of PREZCOBIX (Trial GS-US-216-0128) in pediatric participants with HIV-1 aged 6 to less than 18 years [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
+The safety and effectiveness of PREZCOBIX and PREZCOBIX PED for the treatment of HIV-1 in pediatric patients 3 years of age and older weighing at least 15 kg was established through a trial with components of PREZCOBIX and PREZCOBIX PED.
+Use of PREZCOBIX or PREZCOBIX PED in this group is supported by evidence from adequate and well-controlled studies in adults with additional pharmacokinetic, safety, and virologic data from a study of components of PREZCOBIX or PREZCOBIX PED (Trial GS-US-216-0128) in pediatric participants with HIV-1 aged 3 to less than 18 years [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
 
-The safety and effectiveness of PREZCOBIX have not been established in pediatric patients weighing less than 25 kg.
-Darunavir, a component of PREZCOBIX is not recommended in pediatric patients below 3 years of age because of toxicity and mortality observed in juvenile rats dosed with darunavir.
+The safety and effectiveness of PREZCOBIX or PREZCOBIX PED have not been established in pediatric patients weighing less than 15 kg.
+Darunavir, a component of PREZCOBIX and PREZCOBIX PED is not recommended in pediatric patients below 3 years of age because of toxicity and mortality observed in juvenile rats dosed with darunavir.
 
 Juvenile Animal Toxicity Data
 
@@ -121,10 +121,10 @@ In general, caution should be exercised in the administration and monitoring of 
 No clinical trials were conducted with darunavir co-administered with cobicistat in hepatically impaired patients and the effect of hepatic impairment on darunavir exposure when co-administered with cobicistat has not been evaluated.
 Based on the recommendations for darunavir co-administered with ritonavir, a dose adjustment for patients with mild or moderate hepatic impairment is not necessary.
 No pharmacokinetic or safety data are available regarding the use of darunavir in patients with severe hepatic impairment.
-Therefore, PREZCOBIX is not recommended for use in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
+Therefore, PREZCOBIX or PREZCOBIX PED is not recommended for use in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
 A renal impairment trial was not conducted for darunavir co-administered with cobicistat [see Clinical Pharmacology (12.3)].
 Cobicistat has been shown to decrease estimated creatinine clearance without affecting actual renal glomerular function.
-Dosing recommendations are not available for drugs that require dosage adjustment for renal impairment when used in combination with PREZCOBIX [see Warnings and Precautions (5.3)and Clinical Pharmacology (12.2)].
+Dosing recommendations are not available for drugs that require dosage adjustment for renal impairment when used in combination with PREZCOBIX or PREZCOBIX PED [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.2)].

@@ -3,9 +3,10 @@
     "NDA205395"
   ],
   "inn": "cobicistat",
-  "labeler": "Janssen Products LP",
+  "labeler": "Janssen Products, LP",
   "package_ndcs": [
     "59676-575-30",
+    "59676-577-30",
     "59676-578-30"
   ],
   "products": [
@@ -13,6 +14,11 @@
       "form": "TABLET, FILM COATED",
       "generic": "darunavir ethanolate and cobicistat",
       "name": "PREZCOBIX"
+    },
+    {
+      "form": "TABLET, FOR SUSPENSION",
+      "generic": "darunavir ethanolate and cobicistat",
+      "name": "PREZCOBIX PED"
     }
   ],
   "setid": "9c38fdb6-d0ba-4f16-a0e3-85d9ec334d9f",
