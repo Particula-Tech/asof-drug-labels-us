@@ -39,20 +39,24 @@ Specific Adverse Drug Reactions
 
 Infections
 
-In the first 16 weeks, infections occurred in 22.1% of the SKYRIZI group (90.8 events per 100 subject-years) compared with 14.7% of the placebo group (56.5 events per 100 subject-years) and did not lead to discontinuation of SKYRIZI.
+In the first 16 weeks, infections occurred in 22.1% of the SKYRIZI group (90.8 events per 100 patient-years) compared with 14.7% of the placebo group (56.5 events per 100 patient-years) and did not lead to discontinuation of SKYRIZI.
 The rates of serious infections for the SKYRIZI group and the placebo group were ≤0.4%.
 Serious infections in the SKYRIZI group included cellulitis, osteomyelitis, sepsis, and herpes zoster.
-In Studies PsO-1 and PsO-2, through Week 52, the rate of infections (73.9 events per 100 subject-years) was similar to the rate observed during the first 16 weeks of treatment.
+In Trials PsO-1 and PsO-2, through Week 52, the rate of infections (73.9 events per 100 patient-years) was similar to the rate observed during the first 16 weeks of treatment.
 
 Safety Through Week 52
 
 Through Week 52, no new adverse reactions were identified, and the rates of the adverse reactions were similar to those observed during the first 16 weeks of treatment.
-During this period, serious infections that led to study discontinuation included pneumonia.
+During this period, serious infections that led to trial discontinuation included pneumonia.
+
+Plaque Psoriasis of the Scalp or Genital Area
+
+The overall safety profile observed in clinical trials of subjects with moderate to severe plaque psoriasis of the scalp or genital area treated with SKYRIZI is generally consistent with the safety profile observed in previous clinical trials of subjects with moderate to severe plaque psoriasis [see Clinical Studies (14.1)].
 
 Psoriatic Arthritis
 
 The overall safety profile observed in subjects with psoriatic arthritis treated with SKYRIZI is generally consistent with the safety profile in subjects with plaque psoriasis.
-Additionally, in the Phase 3 placebo-controlled trials the incidence of hepatic events was higher in the SKYRIZI group (5.4%, 16.7 events per 100 patient years) compared to the placebo group (3.9%, 12.6 events per 100 patient years).
+Additionally, in the Phase 3 placebo-controlled trials the incidence of hepatic events was higher in the SKYRIZI group (5.4%, 16.7 events per 100 patient-years) compared to the placebo group (3.9%, 12.6 events per 100 patient-years).
 Of these, the most common events that were reported more frequently in both the placebo group and the SKYRIZI group were ALT increased (placebo: n=12 (1.7%); SKYRIZI: n=16 (2.3%)), AST increased (placebo: n=9 (1.3%); SKYRIZI: n=13 (1.8%)), and GGT increased (placebo: n=5 (0.7%); SKYRIZI: n=8 (1.1%)).
 There were no serious hepatic events reported.
 The incidence of hypersensitivity reactions was higher in the SKYRIZI group (n=16, 2.3%) compared to the placebo group (n=9, 1.3%).
@@ -61,16 +65,16 @@ One case of anaphylaxis was reported in a subject who received SKYRIZI in the Ph
 
 Crohn’s Disease
 
-SKYRIZI was studied up to 12 weeks in subjects with moderately to severely active Crohn’s disease in two randomized, double-blind, placebo-controlled induction studies (CD-1, CD-2) and a randomized, double-blind, placebo-controlled, dose-finding study (CD-4; NCT02031276).
-Long-term safety up to 52 weeks was evaluated in subjects who responded to induction therapy in a randomized, double-blind, placebo-controlled maintenance study (CD-3) [see Clinical Studies (14.3)].
+SKYRIZI was studied up to 12 weeks in subjects with moderately to severely active Crohn’s disease in two randomized, double-blind, placebo-controlled induction trials (CD-1, CD-2) and a randomized, double-blind, placebo-controlled, dose-finding trial (CD-4; NCT02031276).
+Long-term safety up to 52 weeks was evaluated in subjects who responded to induction therapy in a randomized, double-blind, placebo-controlled maintenance trial (CD-3) [see Clinical Studies (14.3)].
 
-In the two induction studies (CD-1, CD-2) and the dose finding study (CD-4), 620 subjects received the SKYRIZI intravenous induction regimen at Weeks 0, 4 and 8.
-In the maintenance study (CD-3), 297 subjects who achieved clinical response, defined as a reduction in CDAI of at least 100 points from baseline after 12 weeks of induction treatment with intravenous SKYRIZI in studies CD-1 and CD-2, received a maintenance regimen of SKYRIZI either 180 mg or 360 mg subcutaneously at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks.
+In the two induction trials (CD-1, CD-2) and the dose finding trial (CD-4), 620 subjects received the SKYRIZI intravenous induction regimen at Weeks 0, 4 and 8.
+In the maintenance trial (CD-3), 297 subjects who achieved clinical response, defined as a reduction in CDAI of at least 100 points from baseline after 12 weeks of induction treatment with intravenous SKYRIZI in trials CD-1 and CD-2, received a maintenance regimen of SKYRIZI either 180 mg or 360 mg subcutaneously at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks.
 
-Adverse reactions reported in > 3% of subjects in induction studies and at a higher rate than placebo are shown in Table 3.
+Adverse reactions reported in > 3% of subjects in induction trials and at a higher rate than placebo are shown in Table 3.
 
 Table 3.
-Adverse Drug Reactions Reported in > 3% of Subjects with Crohn’s Disease Treated with SKYRIZI in Placebo-Controlled 12-Week Induction Studies (CD-1, CD-2, and CD-4)
+Adverse Drug Reactions Reported in > 3% of Subjects with Crohn’s Disease Treated with SKYRIZI in Placebo-Controlled 12-Week Induction Trials (CD-1, CD-2, and CD-4)
 
 | Adverse Drug Reactions | SKYRIZI 600 mg Intravenous Infusiona N = 620 n (%) | Placebo N = 432 n (%) |
 | --- | --- | --- |
@@ -79,10 +83,10 @@ Adverse Drug Reactions Reported in > 3% of Subjects with Crohn’s Disease Treat
 | Arthralgia | 31 (5.0) | 19 (4.4) |
 | a SKYRIZI 600 mg as an intravenous infusion at Week 0, Week 4, and Week 8. b Includes: influenza like illness, nasopharyngitis, influenza, pharyngitis, upper respiratory tract infection, viral upper respiratory tract infection, COVID-19, nasal congestion, respiratory tract infection viral, viral pharyngitis, tonsillitis, upper respiratory tract inflammation c Includes: headache, tension headache |  |  |
 
-Adverse reactions reported in >3% of subjects in the maintenance study and at a higher rate than placebo are shown in Table 4.
+Adverse reactions reported in >3% of subjects in the maintenance trial and at a higher rate than placebo are shown in Table 4.
 
 Table 4.
-Adverse Reactions Reported in >3% of Subjects with Crohn’s Disease Treated with SKYRIZIa in Placebo-Controlled 52-Week Maintenance Study (CD-3)
+Adverse Reactions Reported in >3% of Subjects with Crohn’s Disease Treated with SKYRIZIa in Placebo-Controlled 52-Week Maintenance Trial (CD-3)
 
 | Adverse Drug Reactions | SKYRIZI 180 mg Subcutaneous Injection N = 155 n (%) | SKYRIZI 360 mg Subcutaneous Injection N = 142 n (%) | Placebo N = 143 n (%) |
 | --- | --- | --- | --- |
@@ -100,8 +104,8 @@ Specific Adverse Drug Reactions
 
 Infections
 
-In the maintenance study (CD-3) through Week 52, the rate of infections was 32.3% (50.2 events per 100 subject-years) in subjects who received SKYRIZI 180 mg and 36.6% (60.8 events per 100 subject-years) in subjects who received SKYRIZI 360 mg compared to 36.4% (60.3 events per 100 subject-years) in subjects who received placebo after SKYRIZI induction.
-The rate of serious infections was 2.6% (2.7 events per 100 subject-years) in subjects who received SKYRIZI 180 mg and 5.6% (7.4 events per 100 subject-years) in subjects who received SKYRIZI 360 mg compared to 2.1% (2.4 events per 100 subject-years) in subjects who received placebo after SKYRIZI induction.
+In the maintenance trial (CD-3) through Week 52, the rate of infections was 32.3% (50.2 events per 100 patient-years) in subjects who received SKYRIZI 180 mg and 36.6% (60.8 events per 100 patient-years) in subjects who received SKYRIZI 360 mg compared to 36.4% (60.3 events per 100 patient-years) in subjects who received placebo after SKYRIZI induction.
+The rate of serious infections was 2.6% (2.7 events per 100 patient-years) in subjects who received SKYRIZI 180 mg and 5.6% (7.4 events per 100 patient-years) in subjects who received SKYRIZI 360 mg compared to 2.1% (2.4 events per 100 patient-years) in subjects who received placebo after SKYRIZI induction.
 
 Lipid Elevations
 
@@ -113,18 +117,18 @@ Mean LDL-C increased by 3.1 mg/dL from baseline to a mean absolute value of 99.0
 
 Ulcerative Colitis
 
-SKYRIZI was studied up to 12 weeks in subjects with moderately to severely active ulcerative colitis in a randomized, double-blind, placebo-controlled induction study (UC-1) and a randomized, double-blind, placebo-controlled, dose-finding study (UC-3).
-Long-term safety up to 52 weeks was evaluated in subjects who responded to induction therapy in a randomized, double-blind, placebo-controlled maintenance study (UC-2) [see Clinical Studies (14.4)].
+SKYRIZI was studied up to 12 weeks in subjects with moderately to severely active ulcerative colitis in a randomized, double-blind, placebo-controlled induction trial (UC-1) and a randomized, double-blind, placebo-controlled, dose-finding trial (UC-3).
+Long-term safety up to 52 weeks was evaluated in subjects who responded to induction therapy in a randomized, double-blind, placebo-controlled maintenance trial (UC-2) [see Clinical Studies (14.4)].
 
-In the induction studies (UC-1 and UC-3), 712 subjects received the SKYRIZI 1,200 mg intravenous induction regimen at Weeks 0, 4 and 8.
-In the maintenance study (UC-2), 347 subjects who achieved clinical response, defined as a decrease in mMS of ≥2 points and ≥30% from baseline and a decrease in RBS ≥1 from baseline or an absolute RBS ≤1, received a maintenance regimen of SKYRIZI either 180 mg or 360 mg subcutaneously at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks.
+In the induction trials (UC-1 and UC-3), 712 subjects received the SKYRIZI 1,200 mg intravenous induction regimen at Weeks 0, 4 and 8.
+In the maintenance trial (UC-2), 347 subjects who achieved clinical response, defined as a decrease in mMS of ≥2 points and ≥30% from baseline and a decrease in RBS ≥1 from baseline or an absolute RBS ≤1, received a maintenance regimen of SKYRIZI either 180 mg or 360 mg subcutaneously at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks.
 
-The adverse reaction reported in ≥3% subjects treated with SKYRIZI in the ulcerative colitis induction studies (UC-1 and UC-3) and at a higher rate than placebo was arthralgia (3% SKYRIZI vs 1% placebo).
+The adverse reaction reported in ≥3% subjects treated with SKYRIZI in the ulcerative colitis induction trials (UC-1 and UC-3) and at a higher rate than placebo was arthralgia (3% SKYRIZI vs 1% placebo).
 
-Adverse reactions reported in ≥3% of subjects treated with SKYRIZI in the maintenance study (UC-2) and at a higher rate than placebo are shown in Table 5.
+Adverse reactions reported in ≥3% of subjects treated with SKYRIZI in the maintenance trial (UC-2) and at a higher rate than placebo are shown in Table 5.
 
 Table 5.
-Adverse Reactions Reported in ≥3% of Subjects with Ulcerative Colitis Treated with SKYRIZIa in Placebo-Controlled 52-Week Maintenance Study (UC-2)
+Adverse Reactions Reported in ≥3% of Subjects with Ulcerative Colitis Treated with SKYRIZIa in Placebo-Controlled 52-Week Maintenance Trial (UC-2)
 
 | Adverse Drug Reactions | SKYRIZI 180 mg Subcutaneous Injection N = 170 n (%) | SKYRIZI 360 mg Subcutaneous Injection N = 177 n (%) | Placebo N = 173 n (%) |
 | --- | --- | --- | --- |
@@ -136,14 +140,12 @@ Adverse Reactions Reported in ≥3% of Subjects with Ulcerative Colitis Treated 
 
 Specific Adverse Drug Reactions
 
-The rates of infections, serious infections, and lipid elevations in subjects with UC who received SKYRIZI compared to subjects who received placebo in the induction studies (UC-1 and UC-3) and maintenance study (UC-2) were similar to the rates in subjects with CD who received SKYRIZI compared to subjects who received placebo in the induction studies (CD-1, CD-2, and CD-4) and maintenance study (CD-3).
+The rates of infections, serious infections, and lipid elevations in subjects with UC who received SKYRIZI compared to subjects who received placebo in the induction trials (UC-1 and UC-3) and maintenance trial (UC-2) were similar to the rates in subjects with CD who received SKYRIZI compared to subjects who received placebo in the induction trials (CD-1, CD-2, and CD-4) and maintenance trial (CD-3).
 
 ## 6.2 Immunogenicity
 
-As with all therapeutic proteins, there is potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other products, including other risankizumab products, may be misleading.
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies (ADA) in the trials described below with the incidence of ADA in other trials, including those of SKYRIZI (risankizumab).
 
 Plaque Psoriasis
 

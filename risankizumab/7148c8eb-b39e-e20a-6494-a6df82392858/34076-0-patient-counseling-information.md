@@ -14,8 +14,7 @@ Instruct patients of the importance of communicating any history of infections t
 Hepatotoxicity in Treatment of Inflammatory Bowel Disease
 
 Inform patients that SKYRIZI may cause liver injury, especially during the initial 12 weeks of treatment.
-Instruct patients to seek immediate medical attention if they experience symptoms suggestive of liver dysfunction.
-(e.g., unexplained rash, nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine) [see Warnings and Precautions (5.4)].
+Instruct patients to seek immediate medical attention if they experience symptoms suggestive of liver dysfunction (e.g., unexplained rash, nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine) [see Warnings and Precautions (5.4)].
 
 Administration of Vaccines
 
@@ -39,6 +38,6 @@ Advise patients that there is a pregnancy registry that monitors pregnancy outco
 
 Manufactured by: AbbVie Inc. North Chicago, IL 60064, USA
 
-US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2025 AbbVie Inc.
+US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2026 AbbVie Inc.
 
-20087561 9/2025
+20098758 3/2026

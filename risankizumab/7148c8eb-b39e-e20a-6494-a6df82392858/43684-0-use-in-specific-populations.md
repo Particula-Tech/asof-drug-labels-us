@@ -33,9 +33,8 @@ Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestatio
 Fetal/Neonatal adverse reactions
 
 Transport of endogenous IgG antibodies across the placenta increases as pregnancy progresses, and peaks during the third trimester.
-Because risankizumab may interfere with immune response to infections, risks and benefits should be considered prior to administering live vaccines to infants exposed to SKYRIZI in utero.
-There are insufficient data regarding infant serum levels of risankizumab at birth and the duration of persistence of risankizumab in infant serum after birth.
-Although a specific timeframe to delay live virus immunizations in infants exposed in utero is unknown, a minimum of 5 months after birth should be considered because of the half-life of the product.
+Therefore, SKYRIZI may be present in infants exposed in utero.
+The potential clinical impact of risankizumab exposure in infants exposed in utero should be considered.
 
 Data
 
@@ -68,7 +67,7 @@ The safety and effectiveness of SKYRIZI have not been established in pediatric p
 
 ## 8.5 Geriatric Use
 
-Of the 6,862 subjects exposed to SKYRIZI, a total of 664 were 65 years or older (243 subjects with plaque psoriasis, 246 subjects with psoriatic arthritis, 72 subjects with Crohn’s disease and 103 subjects with ulcerative colitis), and 71 subjects were 75 years or older.
+Of the 6,862 subjects exposed to SKYRIZI, a total of 664 were 65 years and older (243 subjects with plaque psoriasis, 246 subjects with psoriatic arthritis, 72 subjects with Crohn’s disease and 103 subjects with ulcerative colitis), and 71 subjects were 75 years and older.
 
 Clinical studies of SKYRIZI, within each indication, did not include sufficient numbers of subjects 65 years of age and older to determine whether they respond differently from younger adult subjects.
 

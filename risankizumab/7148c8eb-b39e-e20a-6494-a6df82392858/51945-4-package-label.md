@@ -16,9 +16,7 @@ Each patient is required to receive
 
 the enclosed Medication Guide.
 
-This entire carton is dispensed as a unit.
-
-AREA FOR PHARMACY LABEL
+The entire carton is to be dispensed as a unit.
 
 www.SKYRIZI.com
 
@@ -37,10 +35,6 @@ risankizumab-rzaa
 injection
 
 FOR SUBCUTANEOUS USE ONLY
-
-Return to pharmacy if carton perforations are broken.
-
-This entire carton is dispensed as a unit.
 
 AREA FOR PHARMACY LABEL
 
@@ -324,7 +318,7 @@ ATTENTION PHARMACIST:
 
 Each patient is required to receive the enclosed Medication Guide.
 
-This entire carton is to be dispensed as a unit.
+The entire carton is to be dispensed as a unit.
 
 FOR A 180 MG DOSE, TWO 90 MG SYRINGES ARE REQUIRED.
 INJECT 2 SYRINGES FOR A FULL DOSE.
@@ -355,7 +349,7 @@ ATTENTION PHARMACIST:
 
 Each patient is required to receive the enclosed Medication Guide.
 
-This entire carton is to be dispensed as a unit.
+The entire carton is to be dispensed as a unit.
 
 FOR A 360 MG DOSE, FOUR 90 MG SYRINGES ARE REQUIRED.
 INJECT ALL 4 SYRINGES FOR A FULL DOSE.
@@ -368,12 +362,60 @@ abbvie
 
 NDC 0074-8300-01
 
-Skyrizi Prefilled Syringe, 180 mg/1.2 mL (150 mg/mL) single-dose
+One 1.2 mL Single -Dose Prefilled Syringe
 
-Carton of One (1)
+Skyrizi®
+
+180 mg/1.2 mL
+
+(150 mg/mL)
+
+risankizumab-rzaa Injection
+
+FOR SUBCUTANEOUS USE ONLY
+
+Return to pharmacy if carton perforations are broken.
+
+ATTENTION PHARMACIST:
+
+Each patient is required to receive the enclosed Medication Guide.
+
+The entire carton is to be dispensed as a unit.
+
+www.SKYRIZI.com
+
+Rx only
+
+abbvie
 
 NDC 0074-8350-01
 
-Skyrizi Prefilled Syringe, 180 mg/1.2 mL (150 mg/mL) single-dose
+Two 1.2 mL Single -Dose Prefilled Syringes
 
-Carton of Two (2)
+Skyrizi®
+
+180 mg/1.2 mL (150 mg/mL) per syringe
+
+2 x 180 mg/1.2 mL Single Dose Prefilled Syringes for a total 360 mg/2.4 mL
+
+risankizumab-rzaa Injection
+
+FOR SUBCUTANEOUS USE ONLY
+
+FOR A 360 MG DOSE, TWO 180 MG SYRINGES ARE REQUIRED.
+
+INJECT 2 SYRINGES FOR A FULL DOSE.
+
+Return to pharmacy if carton perforations are broken.
+
+ATTENTION PHARMACIST:
+
+Each patient is required to receive the enclosed Medication Guide.
+
+The entire carton is to be dispensed as a unit.
+
+www.SKYRIZI.com
+
+Rx only
+
+abbvie
