@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA211746"
+  ],
+  "inn": "mometasone",
+  "labeler": "Glenmark Pharmaceuticals Inc., USA",
+  "package_ndcs": [
+    "68462-659-27",
+    "68462-659-84"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "olopatadine hydrochloride and mometasone furoate",
+      "name": "Ryaltris"
+    }
+  ],
+  "setid": "406be932-f00e-4c66-9dd1-c142090fe822",
+  "source": "dailymed"
+}
