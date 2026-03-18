@@ -12,7 +12,7 @@ Perform the following evaluations prior to COSENTYX initiation:
 ## 2.2 Important Administration Instructions
 
 - COSENTYX is for use under the guidance and supervision of a healthcare provider.
-- UnoReady pens, Sensoready pens, and prefilled syringes are for subcutaneous use only.
+- UnoReady pen, Sensoready pen, and prefilled syringes are for subcutaneous use only.
 - Solution in vials is for intravenous use in adult patients only.
 
 Important Subcutaneous Administration Instructions
@@ -35,19 +35,19 @@ Intravenous infusion may be administered only in adults with PsA, AS, and nr-axS
 
 ## 2.3 Recommended Dosage in Plaque Psoriasis
 
-Recommended Subcutaneous Dosage in Adults with PsO
+Recommended Subcutaneous Dosage in Adults
 
 The recommended dosage in adults with PsO is 300 mg by subcutaneous injection at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter.
 Each 300 mg dosage is given as one subcutaneous injection of 300 mg or as two subcutaneous injections of 150 mg.
 
 For some patients, a dosage of 150 mg by subcutaneous injection at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter may be acceptable.
 
-Recommended Subcutaneous Dosage in Pediatric Patients 6 Years of Age and Older with PsO
+Recommended Subcutaneous Dosage in Pediatric Patients 6 Years of Age and Older
 
 The recommended weight-based dosage in pediatric patients 6 years of age and older with PsO is administered by subcutaneous injection at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter.
 
-- For patients < 50 kg (at the time of dosing), the recommended dose is 75 mg.
-- For patients ≥ 50 kg (at the time of dosing), the recommended dose is 150 mg.
+- For patients < 50 kg, the recommended dose is 75 mg.
+- For patients ≥ 50 kg, the recommended dose is 150 mg.
 
 ## 2.4 Recommended Dosage in Adults with Psoriatic Arthritis
 
@@ -145,18 +145,27 @@ The recommended weight-based dosage in pediatric patients 4 years of age and old
 
 ## 2.9 Recommended Dosage in Hidradenitis Suppurativa
 
-The recommended dose in adult patients with moderate to severe HS is 300 mg by subcutaneous injection at Weeks 0, 1, 2, 3 and 4 and every 4 weeks thereafter.
+Recommended Subcutaneous Dosage in Adults
 
-If a patient does not adequately respond, consider increasing the dosage to 300 mg every 2 weeks.
+The recommended dosage in adult patients with moderate to severe HS is 300 mg by subcutaneous injection at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter.
+
+If an adult patient does not adequately respond, consider increasing the dosage to 300 mg every 2 weeks.
 Each 300 mg dosage is given as one subcutaneous injection of 300 mg or as two subcutaneous injections of 150 mg.
 
-## 2.10 Preparation for Use of COSENTYX UnoReady Pen, Sensoready Pen and Prefilled Syringes
+Recommended Subcutaneous Dosage in Pediatric Patients 12 Years of Age and Older
 
-COSENTYX UnoReady pens, Sensoready pens and prefilled syringes are for subcutaneous injection only.
+The recommended weight-based dosage in pediatric patients 12 years of age and older with moderate to severe HS is administered by subcutaneous injection at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter [see Clinical Pharmacology (12.3)].
 
-Before subcutaneous injection, remove COSENTYX from the refrigerator and allow COSENTYX to reach room temperature (15 to 30 minutes for the Sensoready pen, the 150 mg/mL and 75 mg/0.5 mL prefilled syringes; 30 to 45 minutes for the UnoReady pen and the 300 mg/2 mL prefilled syringe) without removing the needle cap.
+- For patients ≥ 30 kg and < 90 kg, the recommended dose is 150 mg.
+- For patients ≥ 90 kg, the recommended dose is 300 mg.
 
-The removable cap of the COSENTYX 150 mg/mL Sensoready pen and the COSENTYX prefilled syringes (150 mg/mL, 75 mg/0.5 mL) contain natural rubber latex and should not be handled by latex-sensitive individuals [see Warnings and Precautions (5.6)].
+## 2.10 Preparation for Use of COSENTYX UnoReady Pen, Sensoready Pen, and Prefilled Syringes
+
+COSENTYX UnoReady pen, Sensoready pen, and prefilled syringes are for subcutaneous injection only.
+
+Before subcutaneous injection, remove COSENTYX from the refrigerator and allow COSENTYX to reach room temperature (15 to 30 minutes for the Sensoready pen and prefilled syringes (150 mg/mL, 75 mg/0.5 mL)); 30 to 45 minutes for the UnoReady pen and prefilled syringe (300 mg/2 mL)) without removing the needle cap.
+
+The removable cap of the COSENTYX Sensoready pen and prefilled syringes (150 mg/mL, 75 mg/0.5 mL) contains natural rubber latex and should not be handled by latex-sensitive individuals [see Warnings and Precautions (5.6)].
 
 Inspect COSENTYX visually for particulate matter and discoloration prior to administration.
 COSENTYX injection is a clear to slightly opalescent, colorless to slightly yellow solution.

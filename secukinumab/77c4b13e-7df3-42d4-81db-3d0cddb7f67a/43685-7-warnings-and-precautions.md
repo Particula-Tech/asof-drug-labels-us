@@ -53,8 +53,8 @@ Some patients were successfully treated for eczematous eruptions while continuin
 
 ## 5.6 Risk of Hypersensitivity in Latex-Sensitive Individuals
 
-The removable caps of the COSENTYX 150 mg/mL Sensoready pen and the COSENTYX 1 mL and 0.5 mL prefilled syringes contain natural rubber latex, which may cause a hypersensitivity reaction in latex-sensitive individuals.
-The safe use of COSENTYX 150 mg/mL Sensoready pen or 1 mL and 0.5 mL prefilled syringes in latex-sensitive individuals has not been studied.
+The removable cap of the COSENTYX Sensoready pen and prefilled syringes (150 mg/mL, 75 mg/0.5 mL) contains natural rubber latex, which may cause a hypersensitivity reaction in latex-sensitive individuals.
+The safe use of the COSENTYX Sensoready pen or prefilled syringes (150 mg/mL, 75 mg/0.5 mL) in latex-sensitive individuals has not been studied.
 
 ## 5.7 Immunizations
 

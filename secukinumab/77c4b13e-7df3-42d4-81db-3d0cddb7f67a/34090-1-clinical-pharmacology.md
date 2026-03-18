@@ -39,13 +39,16 @@ Following multiple subcutaneous doses of COSENTYX (administered as one or two in
 At the 300 mg dose at Week 4 and Week 12, the mean trough concentrations resulted from the Sensoready pen were approximately 30% higher than those from the prefilled syringe.
 Following multiple subcutaneous doses of 300 mg administered via the 300 mg/2 mL UnoReady pen, the mean serum trough concentrations of secukinumab were generally consistent with those in the previous Sensoready pen study used to deliver 300 mg.
 
-Steady-state concentrations of secukinumab were achieved by Week 24 following the every 4-week COSENTYX dosing regimens.
+Steady-state concentrations of secukinumab were achieved by Week 24 following the every 4-week dosing regimen.
 The mean (± SD) steady-state trough concentrations ranged from 16.7 ± 8.2 mcg/mL (150 mg) to 34.4 ± 16.6 mcg/mL (300 mg administered as two injections of 150 mg).
 
 In healthy subjects and subjects with PsO, secukinumab bioavailability ranged from 55% to 77% following subcutaneous COSENTYX dose of 150 mg or 300 mg (administered as two injections of 150 mg).
 
-Following subcutaneous administrations of 300 mg of COSENTYX at Weeks 0, 1, 2, 3, and 4 and then every 2 weeks thereafter, steady-state concentrations of secukinumab were achieved by Week 24 in both HS trials.
-The mean (± SD) steady-state trough concentrations were 55.7 ± 28.9 mcg/mL and 50.5 ± 28.2 mcg/mL in HS Trial 1 and HS Trial 2, respectively.
+Following subcutaneous administrations of 300 mg of COSENTYX at Weeks 0, 1, 2, 3, and 4 and then every 4 weeks thereafter, steady-state concentrations of secukinumab were achieved by Week 24 in both HS trials.
+The mean (± SD) steady-state trough concentrations were 25.7 ± 15.7 mcg/mL and 26.0 ± 13.9 mcg/mL in HS Trial 1 and HS Trial 2, respectively.
+
+Following subcutaneous administrations of 300 mg of COSENTYX at Weeks 0, 1, 2, 3, and 4 and then every 2 weeks thereafter, steady-state concentrations of secukinumab were achieved by Week 16 in both HS trials.
+The mean (± SD) steady-state trough concentrations were 55.0 ± 26.1 mcg/mL and 58.1 ± 30.1 mcg/mL in HS Trial 1 and HS Trial 2, respectively.
 
 Distribution
 
@@ -84,7 +87,7 @@ No formal trial of the effect of hepatic or renal impairment on the PK of secuki
 Geriatric Patients
 
 Population PK analysis indicated that the clearance of secukinumab was not significantly influenced by age in adult subjects with PsO, PsA and AS.
-Subjects who are 65 years or older had apparent clearance of secukinumab similar to subjects less than 65 years old.
+Subjects who are 65 years and older had apparent clearance of secukinumab similar to subjects less than 65 years old.
 
 Pediatric Patients
 
@@ -94,6 +97,8 @@ At Week 24, secukinumab steady state mean ± SD serum trough concentrations were
 In a pediatric trial, JPsA and ERA patients (2 to less than 18 years of age) were administered subcutaneous COSENTYX at the recommended pediatric dosing regimen.
 At Week 24, patients who weighed at least 15 kg and less than 50 kg, and patients who weighed at least 50 kg had a mean ± SD steady-state trough concentration of 25.2 ± 5.45 mcg/mL (n = 10) and 27.9 ± 9.57 mcg/mL (n = 19), respectively.
 
+Based on population pharmacokinetic modeling and simulation, secukinumab concentrations for the every 4-week dosing regimen in pediatric patients 12 years of age and older who weigh at least 30 kg with moderate to severe HS are predicted to be similar to exposures observed in adults with moderate to severe HS who received 300 mg of subcutaneous COSENTYX administered every 4 weeks.
+
 Drug Interactions
 
 Cytochrome P450 Substrates
@@ -102,7 +107,7 @@ In adult subjects with PsO, midazolam (CYP3A4 substrate) PK was similar when adm
 
 Pharmacokinetics Following Intravenous Administration
 
-Following an intravenous administration of 1.75 mg/kg maintenance dose every four weeks, with or without a loading dose of 6 mg/kg at Day 0, the secukinumab concentrations [steady state trough secukinumab concentrations (Cmin,ss), mean secukinumab concentrations (Cavg,ss), and maximum secukinumab concentrations (Cmax,ss)] are estimated to be within the range of the steady state concentrations following subcutaneous administration of 150 mg and 300 mg doses of COSENTYX administered every four weeks.
+Following an intravenous administration of 1.75 mg/kg maintenance dose every 4 weeks, with or without a loading dose of 6 mg/kg at Day 0, the secukinumab concentrations [steady state trough secukinumab concentrations (Cmin,ss), mean secukinumab concentrations (Cavg,ss), and maximum secukinumab concentrations (Cmax,ss)] are estimated to be within the range of the steady state concentrations following subcutaneous administration of 150 mg and 300 mg doses of COSENTYX administered every 4 weeks.
 
 ## 12.6 Immunogenicity
 
@@ -113,6 +118,6 @@ The immunogenicity of COSENTYX was evaluated using an electrochemiluminescence-b
 Less than 1% of subjects treated with COSENTYX developed antibodies to secukinumab in up to 52 weeks of treatment.
 However, this assay has limitations in detecting anti-secukinumab antibodies in the presence of secukinumab; therefore, the incidence of antibody development might not have been reliably determined.
 
-In up to 52 weeks of treatment in controlled trials in patients with PsO, PsA, AS, nr-axSpA, HS, pediatric PsO, JPsA and ERA [see Clinical Studies (14)], the incidence of anti-secukinumab antibodies (referred as ADA) formation was less than 1% (25 of 6268 total of subjects treated with COSENTYX).
+In up to 52 weeks of treatment in controlled trials in adult patients with PsO, PsA, AS, nr-axSpA, HS, and in pediatric PsO, JPsA and ERA [see Clinical Studies (14)], the incidence of anti-secukinumab antibodies (referred as ADA) formation was less than 1% (25 of 6268 total of subjects treated with COSENTYX).
 Of the subjects treated with COSENTYX who developed ADA, approximately 8% developed neutralizing antibodies.
 Because of the low occurrence of ADA, the effect of these antibodies on pharmacokinetics, pharmacodynamics, safety, or effectiveness of COSENTYX is unknown.

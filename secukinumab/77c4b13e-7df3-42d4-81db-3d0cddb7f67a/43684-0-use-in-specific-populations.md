@@ -35,23 +35,27 @@ Pediatric Plaque Psoriasis
 
 The safety and effectiveness of COSENTYX have been established for the treatment of moderate to severe PsO in pediatric patients aged 6 years and older who are candidates for systemic therapy or phototherapy [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
 
-Safety and effectiveness of COSENTYX in pediatric patients with PsO below the age of 6 years have not been established.
+The safety and effectiveness of COSENTYX in pediatric patients with PsO below the age of 6 years old have not been established.
 
 Juvenile Psoriatic Arthritis
 
 The safety and effectiveness of COSENTYX have been established for the treatment of active JPsA in pediatric patients aged 2 years and older who weigh 15 kg or more [see Adverse Reactions (6.1) and Clinical Studies (14.6)].
 
-The safety and effectiveness of COSENTYX in pediatric patients less than 2 years of age with JPsA or with a body weight less than 15 kg has not been established.
+The safety and effectiveness of COSENTYX in pediatric patients with JPsA below the age of 2 years old or with a body weight less than 15 kg have not been established.
 
 Enthesitis-Related Arthritis
 
-The safety and effectiveness of COSENTYX for the treatment of active ERA in pediatric patients aged 4 years and older who weigh 15 kg or more has been established [see Adverse Reactions (6.1) and Clinical Studies (14.6)].
+The safety and effectiveness of COSENTYX have been established for the treatment of active ERA in pediatric patients aged 4 years and older who weigh 15 kg or more [see Adverse Reactions (6.1) and Clinical Studies (14.6)].
 
-The safety and effectiveness of COSENTYX in pediatric patients below the age of 4 years old or with body weight less than 15 kg have not been established.
+The safety and effectiveness of COSENTYX in pediatric patients with ERA below the age of 4 years old or with body weight less than 15 kg have not been established.
 
 Hidradenitis Suppurativa
 
-The safety and effectiveness of COSENTYX in pediatric patients with HS have not been established.
+The safety and effectiveness of COSENTYX have been established for the treatment of moderate to severe HS in pediatric patients 12 years of age and older who weigh 30 kg or more.
+Use of COSENTYX for this indication is supported by safety and efficacy data from adequate and well controlled trials in adult subjects with moderate to severe HS.
+Additional evidence includes population pharmacokinetic modeling and simulation based on data from adult subjects with PsO and HS and pediatric subjects with PsO, as well as safety data from clinical trials in pediatric subjects with PsO and JIA (JPsA and ERA) [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
+
+The safety and effectiveness of COSENTYX in pediatric patients with HS below the age of 12 years old or with a body weight less than 30 kg have not been established.
 
 Intravenous Administration
 
@@ -59,8 +63,8 @@ The safety and effectiveness of intravenous COSENTYX in pediatric patients have 
 
 ## 8.5 Geriatric Use
 
-Of the 3,430 PsO subjects exposed to subcutaneous COSENTYX in clinical trials, a total of 230 (7%) were 65 years of age or older, and 32 (1%) subjects were 75 years of age or older.
-Although no differences in safety or efficacy were observed between subjects 65 years of age or older and younger adult subjects, the number of subjects 65 years of age and older was not sufficient to determine whether they respond differently from younger adult subjects.
+Of the 3,430 PsO subjects exposed to subcutaneous COSENTYX in clinical trials, a total of 230 (7%) were 65 years of age and older, and 32 (1%) subjects were 75 years of age and older.
+Although no differences in safety or efficacy were observed between subjects 65 years of age and older and younger adult subjects, the number of subjects 65 years of age and older was not sufficient to determine whether they respond differently from younger adult subjects.
 
 Of the 1,060 subjects with HS exposed to COSENTYX in clinical trials, a total of 14 (1.3%) were 65 years of age and older.
 Clinical trials in HS did not include sufficient numbers of subjects 65 years of age and older to determine whether they respond differently from younger adult subjects.

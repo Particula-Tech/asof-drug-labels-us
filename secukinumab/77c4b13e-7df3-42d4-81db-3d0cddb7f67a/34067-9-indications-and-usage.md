@@ -2,11 +2,11 @@
 
 ## 1.1 Plaque Psoriasis
 
-COSENTYX® is indicated for the treatment of moderate to severe plaque psoriasis (PsO) in patients 6 years and older who are candidates for systemic therapy or phototherapy.
+COSENTYX® is indicated for the treatment of moderate to severe plaque psoriasis (PsO) in adults and pediatric patients 6 years and older who are candidates for systemic therapy or phototherapy.
 
 ## 1.2 Psoriatic Arthritis
 
-COSENTYX is indicated for the treatment of active psoriatic arthritis (PsA) in patients 2 years of age and older.
+COSENTYX is indicated for the treatment of active psoriatic arthritis (PsA) in adults and pediatric patients 2 years of age and older.
 
 ## 1.3 Ankylosing Spondylitis
 
@@ -22,4 +22,4 @@ COSENTYX is indicated for the treatment of active enthesitis-related arthritis (
 
 ## 1.6 Hidradenitis Suppurativa
 
-COSENTYX is indicated for the treatment of adult patients with moderate to severe hidradenitis suppurativa (HS).
+COSENTYX is indicated for the treatment of moderate to severe hidradenitis suppurativa (HS) in adults and pediatric patients 12 years of age and older.

@@ -91,7 +91,7 @@ No serious infections were associated with cases of neutropenia.
 Adverse Reactions from Clinical Trials in Adults with PsA
 
 COSENTYX was studied in two placebo-controlled PsA trials with 1,003 adult patients (703 patients on COSENTYX and 300 patients on placebo).
-Of the 703 patients who received COSENTYX, 299 patients received a subcutaneous loading dose of COSENTYX (PsA1) and 404 patients received an intravenous loading dose of secukinumab (PsA2) followed by COSENTYX administered by subcutaneous injection every four weeks.
+Of the 703 patients who received COSENTYX, 299 patients received a subcutaneous loading dose of COSENTYX (PsA1) and 404 patients received an intravenous loading dose of secukinumab (PsA2) followed by COSENTYX administered by subcutaneous injection every 4 weeks.
 During the 16-week placebo-controlled period of the trials in patients with PsA, the overall proportion of patients with adverse events was similar in the secukinumab and placebo-treatment groups (59% and 58%, respectively).
 The adverse events that occurred at a proportion of at least 2% and at a higher proportion in the COSENTYX groups than the placebo groups during the 16-week placebo-controlled period were nasopharyngitis, upper respiratory tract infection, headache, nausea, and hypercholesterolemia.
 The safety profile observed in adult patients with PsA treated with COSENTYX is consistent with the safety profile in the PsO trials in adults.
@@ -104,7 +104,7 @@ There were three cases of IBD, of which two patients received secukinumab and on
 Adverse Reactions from Clinical Trials in Adults with AS
 
 COSENTYX was studied in two placebo-controlled AS trials with 590 adult patients (394 patients on COSENTYX and 196 patients on placebo).
-Of the 394 patients who received COSENTYX, 145 patients received a subcutaneous load of COSENTYX (study AS1), and 249 received an intravenous loading dose of secukinumab (study AS2) followed by COSENTYX administered by subcutaneous injection every four weeks.
+Of the 394 patients who received COSENTYX, 145 patients received a subcutaneous load of COSENTYX (study AS1), and 249 received an intravenous loading dose of secukinumab (study AS2) followed by COSENTYX administered by subcutaneous injection every 4 weeks.
 During the 16-week placebo-controlled period of the trials in patients with AS, the overall proportion of patients with adverse events was higher in the secukinumab groups than the placebo-treatment groups (66% and 59%, respectively).
 The adverse events that occurred at a proportion of at least 2% and at a higher proportion in the COSENTYX groups than the placebo groups during the 16-week placebo-controlled period were nasopharyngitis, nausea, and upper respiratory tract infection.
 The safety profile observed in patients with AS treated with COSENTYX is consistent with the safety profile in PsO clinical trials.

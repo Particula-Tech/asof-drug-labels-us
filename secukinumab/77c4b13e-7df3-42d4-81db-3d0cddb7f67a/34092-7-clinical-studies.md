@@ -425,8 +425,8 @@ The primary endpoint in both trials was the proportion of subjects who achieved 
 
 Clinical Response
 
-In HS Trial 1 and HS Trial 2, a statistically significantly higher proportion of subjects treated with COSENTYX 300 mg every 2 weeks (after the first four weeks) achieved a HiSCR50 response at Week 16 compared to patients treated with placebo (see Table 15).
-In both HS trials, a higher proportion of subjects treated with COSENTYX 300 mg every 4 weeks (after the first four weeks) achieved HiSCR50 at Week 16 compared to subjects treated with placebo (see Table 15), where statistical significance was reached in HS Trial 2.
+In HS Trial 1 and HS Trial 2, a statistically significantly higher proportion of subjects treated with COSENTYX 300 mg every 2 weeks (after the first 4 weeks) achieved a HiSCR50 response at Week 16 compared to patients treated with placebo (see Table 15).
+In both HS trials, a higher proportion of subjects treated with COSENTYX 300 mg every 4 weeks (after the first 4 weeks) achieved HiSCR50 at Week 16 compared to subjects treated with placebo (see Table 15), where statistical significance was reached in HS Trial 2.
 In both trials, the onset of action of COSENTYX occurred as early as Week 2 and the efficacy progressively increased up to Week 16.
 
 For the primary endpoint, HiSCR50, subjects who received any rescue medication or lesion intervention were considered treatment failures and handled as non-responders (n = 20 in Placebo, 11 in Q4W, and 8 in Q2W in HS Trial 1; n = 23 in Placebo, 17 in Q4W, and 13 in Q2W in HS Trial 2).
