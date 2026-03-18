@@ -213,14 +213,14 @@ What are the ingredients in omeprazole delayed-release capsules?
 
 Active ingredient: Omeprazole
 
-Inactive ingredients: The 10 mg and 20 mg capsule contains the following inactive ingredients: anhydrous lactose, low-substituted hydroxypropyl cellulose, magnesium oxide, magnesium stearate, microcrystalline cellulose, methacrylic acid copolymer dispersion type C, polysorbate 80, povidone and talc, triethyl citrate.
+Inactive ingredients: The 10 mg and 20 mg capsules contain the following inactive ingredients: anhydrous lactose, low-substituted hydroxypropyl cellulose, magnesium oxide, magnesium stearate, microcrystalline cellulose, methacrylic acid copolymer dispersion type C, polysorbate 80, povidone and talc, triethyl citrate.
 The capsule shells for the 10 mg have the following inactive ingredients: black iron oxide, gelatin, red iron oxide, titanium dioxide and yellow iron oxide.
 The capsule shells for the 20 mg have the following inactive ingredients: gelatin and titanium dioxide.
 The ink used for printing contains: black iron oxide, propylene glycol and shellac.
 
 The 40 mg capsule contains the following inactive ingredients: acetone, anhydrous lactose, croscarmellose sodium, dehydrated alcohol, dibutyl sebacate, hypromellose phthalate, low-substituted hydroxypropyl cellulose, microcrystalline cellulose, polysorbate 80, povidone and talc.
 The capsule shells for the 40 mg have the following inactive ingredients: hypromellose, red iron oxide, titanium dioxide, and yellow iron oxide.
-In addition, the capsule shells may also contains black iron oxide, carrageenan, and potassium chloride.
+In addition, the capsule shells may also contain black iron oxide, carrageenan, and potassium chloride.
 The ink used for printing contains black iron oxide.
 
 Instructions for Use
@@ -242,11 +242,12 @@ For more information, call Sandoz Inc. at 1-800-525-8747.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+For additional medication guide please go to www.us.sandoz.com or call 1-800-525-8747.
+
 Finished Drug Product Manufactured by
 
-Lek Pharmaceuticals d.d., SI-1526 Ljubljana, Slovenia for
+Novartis d.o.o., 1000 Ljubljana, Slovenia for
 
 Sandoz Inc., Princeton, NJ 08540
 
-Rev.
-February 2022
+Revised: 12/2024

@@ -4,7 +4,7 @@ Tables 3 and 4 include drugs with clinically important drug interactions and int
 
 Consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.
 
-1. Table 3 Clinically Relevant Interactions Affecting Drugs Co-Administered with Omeprazole and Interaction with Diagnostics
+- Table 3 Clinically Relevant Interactions Affecting Drugs Co-Administered with Omeprazole and Interaction with Diagnostics
 
 | Antiretrovirals |  |
 | --- | --- |
@@ -57,7 +57,7 @@ Consult the labeling of concomitantly used drugs to obtain further information a
 | Clinical Impact: | There have been clinical reports of interactions with other drugs metabolized via the cytochrome P450 system (e.g., cyclosporine, disulfiram). |
 | Intervention: | Monitor patients to determine if it is necessary to adjust the dosage of these other drugs when taken concomitantly with omeprazole. |
 
-1. Table 4 Clinically Relevant Interactions Affecting Omeprazole When Co-Administered with Other Drugs
+- Table 4 Clinically Relevant Interactions Affecting Omeprazole When Co-Administered with Other Drugs
 
 | CYP2C19 or CYP3A4 Inducers |  |
 | --- | --- |

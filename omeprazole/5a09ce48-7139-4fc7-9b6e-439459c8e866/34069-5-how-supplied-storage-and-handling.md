@@ -24,4 +24,4 @@ They are supplied as follows:
 Storage
 
 Store omeprazole delayed-release capsules, USP in a tight container protected from light and moisture.
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].

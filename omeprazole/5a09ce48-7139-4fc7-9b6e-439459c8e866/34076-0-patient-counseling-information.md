@@ -34,6 +34,6 @@ The brands listed are the registered trademarks of their respective owners and a
 
 Finished Drug Product Manufactured by
 
-Lek Pharmaceuticals d.d., SI-1526 Ljubljana, Slovenia for
+Novartis d.o.o., 1000 Ljubljana, Slovenia for
 
 Sandoz Inc., Princeton, NJ 08540

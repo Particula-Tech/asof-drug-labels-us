@@ -4,7 +4,7 @@
 
 Table 1 shows the recommended dosage of omeprazole delayed-release capsules in adult patients by indication.
 
-1. Table 1 Recommended Dosage Regimen of Omeprazole Delayed-Release Capsules in Adults by Indication
+- Table 1 Recommended Dosage Regimen of Omeprazole Delayed-Release Capsules in Adults by Indication
 
 | Indication | Dosage of Omeprazole Delayed-Release Capsules | Treatment Duration |
 | --- | --- | --- |
@@ -29,7 +29,7 @@ If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to
 
 Table 2 shows the recommended dosage of omeprazole delayed-release capsules in pediatric patients by indication.
 
-1. Table 2 Recommended Dosage Regimen of Omeprazole Delayed-Release Capsules in Pediatric Patients by Indication
+- Table 2 Recommended Dosage Regimen of Omeprazole Delayed-Release Capsules in Pediatric Patients by Indication
 
 | Indication | Omeprazole Delayed-Release Capsules Dosage Regimen and Duration |  |  |
 | --- | --- | --- | --- |
@@ -57,11 +57,11 @@ Omeprazole Delayed-Release Capsules
 
 - •Swallow omeprazole delayed-release capsules whole; do not chew.
 - •For patients unable to swallow an intact capsule, omeprazole delayed-release capsules can be opened and administered as follows:
-- •Place one tablespoon of applesauce into a clean container (e.g., empty bowl).
+- 1.Place one tablespoon of applesauce into a clean container (e.g., empty bowl).
   The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
-- •Open the capsule.
-- •Carefully empty all of the pellets inside the capsule on the applesauce.
-- •Mix the pellets with the applesauce.
-- •Swallow applesauce and pellets immediately with a glass of cool water to ensure complete swallowing of the pellets.
+- 2.Open the capsule.
+- 3.Carefully empty all of the pellets inside the capsule on the applesauce.
+- 4.Mix the pellets with the applesauce.
+- 5.Swallow applesauce and pellets immediately with a glass of cool water to ensure complete swallowing of the pellets.
   Do not chew or crush the pellets.
   Do not save the applesauce and pellets for future use.

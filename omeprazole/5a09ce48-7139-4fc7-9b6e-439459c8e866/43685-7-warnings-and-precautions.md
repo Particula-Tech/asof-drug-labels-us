@@ -52,8 +52,7 @@ The majority of patients presented with rash; however, arthralgia and cytopenia 
 Avoid administration of PPIs for longer than medically indicated.
 If signs or symptoms consistent with CLE or SLE are noted in patients receiving omeprazole, discontinue the drug and refer the patient to the appropriate specialist for evaluation.
 Most patients improve with discontinuation of the PPI alone in 4 to 12 weeks.
-Serological testing (e.g.
-ANA) may be positive and elevated serological test results may take longer to resolve than clinical manifestations.
+Serological testing (e.g., ANA) may be positive and elevated serological test results may take longer to resolve than clinical manifestations.
 
 ## 5.7 Interaction with Clopidogrel
 

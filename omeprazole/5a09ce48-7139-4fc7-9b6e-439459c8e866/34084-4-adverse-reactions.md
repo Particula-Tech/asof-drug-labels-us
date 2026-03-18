@@ -26,7 +26,7 @@ Additional adverse reactions that were reported with an incidence ≥1% included
 The clinical trial safety profile in patients greater than 65 years of age was similar to that in patients 65 years of age or less.
 
 The clinical trial safety profile in pediatric patients who received omeprazole delayed-release capsules was similar to that in adult patients.
-Unique to the pediatric population, however, adverse reactions of the respiratory system were frequently reported in the 2 to 16 year age group, and accidental injuries were frequently reported in the 2 to 16 year age group (4%) [see Use in Specific Populations(8.4)].
+Unique to the pediatric population, however, adverse reactions of the respiratory system were frequently reported in the 2 to 16 years age group, and accidental injuries were frequently reported in the 2 to 16 years age group (4%) [see Use in Specific Populations(8.4)].
 
 ## 6.2 Clinical Trials Experience with Omeprazole in Combination Therapy for H. pylori Eradication
 
@@ -49,7 +49,7 @@ None of these occurred at a higher frequency than that reported by patients taki
 The following adverse reactions have been identified during post-approval use of omeprazole delayed-release capsules.
 Because these reactions are voluntarily reported from a population of uncertain size, it is not always possible to reliably estimate their actual frequency or establish a causal relationship to drug exposure.
 
-Body As a Whole
+Body as a Whole
 
 Hypersensitivity reactions including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria, (see also Skin below); fever; pain; fatigue; malaise; systemic lupus erythematosus
 

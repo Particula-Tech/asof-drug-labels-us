@@ -80,8 +80,8 @@ The developmental and health benefits of breastfeeding should be considered alon
 The safety and effectiveness of omeprazole delayed-release capsules have been established in pediatric patients 2 to 16 years for the treatment of symptomatic GERD, treatment of EE due to acid-mediated GERD, and maintenance of healing of EE due to acid-mediated GERD.
 Use of omeprazole in this age group is supported by adequate and well-controlled studies in adults and uncontrolled safety, efficacy and pharmacokinetic studies performed in pediatric and adolescent patients [see Clinical Pharmacology (12.3), Clinical Studies (14.8)].
 
-In the pediatric population, adverse reactions of the respiratory system were frequently reported in the entire 2 to 16 year age group.
-Accidental injuries were frequently reported in the 2 to 16 year age group [see Adverse Reactions (6.1)].
+In the pediatric population, adverse reactions of the respiratory system were frequently reported in the entire 2 to 16 years age group.
+Accidental injuries were frequently reported in the 2 to 16 years age group [see Adverse Reactions (6.1)].
 
 The safety and effectiveness of omeprazole have not been established in:
 
