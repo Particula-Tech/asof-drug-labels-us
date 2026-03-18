@@ -1,16 +1,17 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described elsewhere in the prescribing information:
+The following clinically significant adverse reactions are described elsewhere in the prescribing information:
 
 - •Hepatotoxicity [see Contraindications (4) and Warnings and Precautions (5.1)]
 - •Bone Marrow Effects/Immunosuppression Potential/Infections [see Warnings and Precautions (5.4)]
 - •Hypersensitivity Reactions [see Contraindications (4) and Warnings and Precautions (5.5)]
 - •Serious Skin Reactions [see Warnings and Precautions (5.6)]
 - •Drug Reaction with Eosinophilia and Systemic Symptoms [see Warnings and Precautions (5.7)]
-- •Peripheral Neuropathy [see Warnings and Precautions (5.8)]
-- •Increased Blood Pressure [see Warnings and Precautions (5.9)]
-- •Respiratory Effects [see Warnings and Precautions (5.10)]
-- •Pancreatitis in Pediatric Patients [see Warnings and Precautions (5.11)]
+- •Cutaneous or Mucocutaneous Ulcers and Impaired Wound Healing [see Warnings and Precautions (5.8)]
+- •Peripheral Neuropathy [see Warnings and Precautions (5.9)]
+- •Increased Blood Pressure [see Warnings and Precautions (5.10)]
+- •Respiratory Effects [see Warnings and Precautions (5.11)]
+- •Pancreatitis in Pediatric Patients [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -64,5 +65,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •Gastrointestinal Disorders: Pancreatitis, colitis
 - •Hepatobiliary Disorders: Drug-induced liver injury (DILI) [see Warnings and Precautions (5.1)]
 - •Immune System Disorders: Hypersensitivity reactions, some of which were severe, such as anaphylaxis and angioedema [see Warnings and Precautions (5.5)]
-- •Respiratory, Thoracic, and Mediastinal Disorders: Interstitial lung disease [see Warnings and Precautions (5.10)]
-- •Skin and Subcutaneous Tissue Disorders: Severe skin reactions, including toxic epidermal necrolysis and Stevens-Johnson syndrome [see Warnings and Precautions (5.6)]; drug reaction with eosinophilia and systemic symptoms (DRESS) [see Warnings and Precautions (5.7)]; psoriasis or worsening of psoriasis (including pustular psoriasis and nail psoriasis); nail disorders
+- •Respiratory, Thoracic, and Mediastinal Disorders: Interstitial lung disease [see Warnings and Precautions (5.11)]
+- •Skin and Subcutaneous Tissue Disorders: Severe skin reactions, including toxic epidermal necrolysis and Stevens-Johnson syndrome [see Warnings and Precautions (5.6)]; drug reaction with eosinophilia and systemic symptoms (DRESS) [see Warnings and Precautions (5.7)]; psoriasis or worsening of psoriasis (including pustular psoriasis and nail psoriasis); nail disorders; cutaneous or mucocutaneous ulcers; impaired wound healing [see Warnings and Precautions (5.8)]

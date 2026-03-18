@@ -137,7 +137,13 @@ If such signs or symptoms are present, the patient should be evaluated immediate
 Discontinue teriflunomide, unless an alternative etiology for the signs or symptoms is established, and begin an accelerated elimination procedure immediately [see Warnings and Precautions (5.3)].
 In such cases, patients should not be re-exposed to teriflunomide [see Contraindications (4)].
 
-## 5.8 Peripheral Neuropathy
+## 5.8 Cutaneous or Mucocutaneous Ulcers and Impaired Wound Healing
+
+Cutaneous or mucocutaneous ulcers and impaired wound healing have been reported in patients during therapy with teriflunomide.
+If an teriflunomide -associated ulcer is suspected, if ulcers persist despite appropriate therapy, or if there is a high risk for impaired wound healing after surgery, consider teriflunomide discontinuation and an accelerated drug elimination procedure [see Warnings and Precautions (5.3)].
+The decision to resume teriflunomide should be based onclinical judgment of adequate wound healing.
+
+## 5.9 Peripheral Neuropathy
 
 In placebo-controlled studies in adult patients, peripheral neuropathy, including both polyneuropathy and mononeuropathy (e.g., carpal tunnel syndrome), occurred more frequently in patients taking teriflunomide than in patients taking placebo.
 The incidence of peripheral neuropathy confirmed by nerve conduction studies was 1.4% (13 patients) and 1.9% (17 patients) of patients receiving 7 mg and 14 mg of teriflunomide, respectively, compared with 0.4% receiving placebo (4 patients).
@@ -149,7 +155,7 @@ Peripheral neuropathy also occurred in patients receiving leflunomide.
 Age older than 60 years, concomitant neurotoxic medications, and diabetes may increase the risk for peripheral neuropathy.
 If a patient taking teriflunomide develops symptoms consistent with peripheral neuropathy, such as bilateral numbness or tingling of hands or feet, consider discontinuing teriflunomide therapy and performing an accelerated elimination procedure [see Warnings and Precautions (5.3)].
 
-## 5.9 Increased Blood Pressure
+## 5.10 Increased Blood Pressure
 
 In placebo-controlled studies in adult patients, the mean change from baseline to the end of study in systolic blood pressure was +2.3 mmHg and +2.7 mmHg for teriflunomide 7 mg and 14 mg, respectively, and -0.6 mmHg for placebo.
 The change from baseline in diastolic blood pressure was +1.4 mmHg and +1.9 mmHg for teriflunomide 7 mg and 14 mg, respectively, and -0.3 mmHg for placebo.
@@ -157,7 +163,7 @@ Hypertension was an adverse reaction in 3.1% and 4.3% of patients treated with 7
 Check blood pressure before start of teriflunomide treatment and periodically thereafter.
 Elevated blood pressure should be appropriately managed during treatment with teriflunomide.
 
-## 5.10 Respiratory Effects
+## 5.11 Respiratory Effects
 
 Interstitial lung disease, including acute interstitial pneumonitis, has been reported with teriflunomide in the postmarketing setting.
 
@@ -166,13 +172,13 @@ Interstitial lung disease may be fatal and may occur acutely at any time during 
 New onset or worsening pulmonary symptoms, such as cough and dyspnea, with or without associated fever, may be a reason for discontinuation of therapy and for further investigation as appropriate.
 If discontinuation of the drug is necessary, consider initiation of an accelerated elimination procedure [see Warnings and Precautions (5.3)].
 
-## 5.11 Pancreatitis in Pediatric Patients
+## 5.12 Pancreatitis in Pediatric Patients
 
 Teriflunomide is not approved for use in pediatric patients.
 In the pediatric clinical trial, cases of pancreatitis were observed in 1.8% (2/109) of patients receiving teriflunomide; one of these cases was serious [see Use in Specific Populations (8.4)].
 If pancreatitis is suspected, discontinue teriflunomide and start an accelerated elimination procedure [see Warnings and Precautions (5.3)].
 
-## 5.12 Concomitant Use with Immunosuppressive or Immunomodulating Therapies
+## 5.13 Concomitant Use with Immunosuppressive or Immunomodulating Therapies
 
 Coadministration with antineoplastic or immunosuppressive therapies used for treatment of multiple sclerosis has not been evaluated.
 Safety studies in which teriflunomide was concomitantly administered with other immune modulating therapies for up to one year (interferon beta, glatiramer acetate) did not reveal any specific safety concerns.

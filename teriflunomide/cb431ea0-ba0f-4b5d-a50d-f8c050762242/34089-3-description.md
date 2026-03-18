@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Teriflunomide is an oral de novo pyrimidine synthesis inhibitor of the DHO-DH enzyme, with the chemical name (Z)-2-Cyano-3-hydroxy-but-2-enoic acid-(4‑trifluoromethylphenyl)-amide.
-Its molecular weight is 270.21 and the molecular formula is C12H9F3N2O2 with the following chemical structure:
+Its molecular weight is 270.21 g/mol and the molecular formula is C12H9F3N2O2 with the following chemical structure:
 
 Teriflunomide is a white to almost white powder that is sparingly soluble in acetone, slightly soluble in methylene chloride, very slightly soluble in acetonitrile, insoluble in water, ethanol and isopropyl alcohol.
 

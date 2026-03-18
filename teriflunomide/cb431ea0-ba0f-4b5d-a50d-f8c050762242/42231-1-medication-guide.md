@@ -4,7 +4,7 @@ Teriflunomide (ter i FLOO noe mide) tablets, for oral use
 
 Read this Medication Guide before you start using teriflunomide tablets and each time you get a refill.
 There may be new information.
-This information does not take the place of talking with your doctor about your medical condition or your treatment.
+This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
 
 What is the most important information I should know about teriflunomide tablets?
 
@@ -12,14 +12,32 @@ Teriflunomide tablets may cause serious side effects, including:
 
 - •Liver problems: Teriflunomide tablets may cause serious liver problems, including liver failure that can be life-threatening and may require a liver transplant.
   Your risk of developing serious liver problems may be higher if you already have liver problems or take other medicines that also affect your liver.
-  Your doctor should do blood tests to check your liver:
-- •within 6 months before you start taking teriflunomide tablets
-- •1 time a month for 6 months after you start taking teriflunomide tablets
-- Call your doctor right away if you have any of the following symptoms of liver problems:
+  Your healthcare provider should do blood tests to check your liver:
+- owithin 6 months before you start taking teriflunomide tablets
+- o1 time a month for 6 months after you start taking teriflunomide tablets
+- Call your healthcare provider right away if you have any of the following symptoms of liver problems:
+- onausea
+- ovomiting
+- ostomach pain
+- oloss of appetite
+- otiredness
+- oyour skin or the whites of your eyes turn yellow
+- odark urine
+- •Harm to your unborn baby: Teriflunomide tablets may cause harm to your unborn baby.
+  Do not take teriflunomide tablets if you are pregnant.
+  Do not take teriflunomide tablets unless you are using effective birth control.
+- oIf you are a female, you should have a pregnancy test before you start taking teriflunomide tablets.
+  Use effective birth control during your treatment with teriflunomide tablets.
+- oAfter stopping teriflunomide tablets, continue using effective birth control until you have blood tests to make sure your blood levels of teriflunomide are low enough.
+- oIf you become pregnant while taking teriflunomide tablets or within 2 years after you stop taking it, tell your healthcare provider right away.
+- oFor men taking teriflunomide tablets:
+  - •If your female partner plans to become pregnant, you should stop taking teriflunomide tablets and ask your healthcare provider how to quickly lower the levels of teriflunomide in your blood.
+  - •If your female partner does not plan to become pregnant, you and your female partner should use effective birth control during your treatment with teriflunomide tablets.
+    Teriflunomide remains in your blood after you stop taking it, so continue using effective birth control until teriflunomide blood levels have been checked and they are low enough.
 
 Teriflunomide may stay in your blood for up to 2 years after you stop taking it.
-Your doctor can prescribe a medicine to help lower your blood levels of teriflunomide more quickly.
-Talk to your doctor if you want more information about this.
+Your healthcare provider can prescribe a medicine to help lower your blood levels of teriflunomide more quickly.
+Talk to your healthcare provider if you want more information about this.
 
 What are teriflunomide tablets?
 
@@ -36,9 +54,7 @@ Do not take teriflunomide tablets if you:
   Please see the end of this Medication Guide for a complete list of ingredients in teriflunomide tablets.
 - •take a medicine called leflunomide.
 
-What should I tell my doctor before taking teriflunomide tablets?
-
-Before you take teriflunomide tablets, tell your doctor about all of your medical conditions, including if you:
+Before you take teriflunomide tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
 - •have liver or kidney problems.
 - •have a fever or infection, or you are unable to fight infections.
@@ -47,29 +63,31 @@ Before you take teriflunomide tablets, tell your doctor about all of your medica
 - •have had serious skin problems when taking other medicines.
 - •have breathing problems.
 - •have high blood pressure.
+- •have had recent surgery or are planning to have surgery.
+- •you have an unhealed wound.
 - •are breastfeeding or plan to breastfeed.
   It is not known if teriflunomide passes into your breast milk.
-  You and your doctor should decide if you will take teriflunomide tablets or breastfeed.
+  You and your healthcare provider should decide if you will take teriflunomide tablets or breastfeed.
   You should not do both.
 
-Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Using teriflunomide tablets and other medicines may affect each other causing serious side effects.
-Teriflunomide tablets may affect the way other medicines work, and other medicines may affect how teriflunomide tablets work.
+Teriflunomide tablets may affect the way other medicines work, and other medicines may affect how teriflunomide tablets works.
 
-Especially tell your doctor if you take medicines that could raise your chance of getting infections, including medicines used to treat cancer or to control your immune system.
+Especially tell your healthcare provider if you take medicines that could raise your chance of getting infections, including medicines used to treat cancer or to control your immune system.
 
-Ask your doctor or pharmacist for a list of these medicines if you are not sure.
+Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
 
 Know the medicines you take.
-Keep a list of them to show your doctor or pharmacist when you get a new medicine.
+Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine.
 
 How should I take teriflunomide tablets?
 
-- •Take teriflunomide tablets exactly as your doctor tells you to take it.
+- •Take teriflunomide tablets exactly as your healthcare provider tells you to take it.
 - •Take teriflunomide tablets 1 time each day.
 - •Take teriflunomide tablets with or without food.
 
-What are possible side effects of teriflunomide tablets?
+What are the possible side effects of teriflunomide tablets?
 
 Teriflunomide tablets may cause serious side effects, including:
 
@@ -79,19 +97,19 @@ Teriflunomide tablets may cause serious side effects, including:
   When you have a low white blood cell count you:
   - omay have more frequent infections.
     You should have a skin test for TB (tuberculosis) before you start taking teriflunomide tablets.
-    Tell your doctor if you have any of these symptoms of an infection:
-    - ▪fever
-    - ▪tiredness
-    - ▪body aches
-    - ▪chills
-    - ▪nausea
-    - ▪vomiting
+    Tell your healthcare provider if you have any of these symptoms of an infection:
+    - •fever
+    - •tiredness
+    - •body aches
+    - •chills
+    - •nausea
+    - •vomiting
   - oshould not receive certain vaccinations during your treatment with teriflunomide tablets and for 6 months after your treatment with teriflunomide tablets ends.
 - •allergic reactions.
-  Stop taking teriflunomide tablets and call your doctor right away or get emergency medical help if you have difficulty breathing, itching, swelling on any part of your body including in your lips, eyes, throat, or tongue.
+  Stop taking teriflunomide tablets and call your healthcare provider right away or get emergency medical help if you have difficulty breathing, itching, swelling on any part of your body including in your lips, eyes, throat, or tongue.
 - •serious skin reactions.
   Teriflunomide tablets may cause serious skin reactions that may lead to death.
-  Stop taking teriflunomide tablets and call your doctor right away or get emergency medical help if you have any of the following symptoms: rash or redness and peeling, mouth sores or blisters.
+  Stop taking teriflunomide tablets and call your healthcare provider right away or get emergency medical help if you have any of the following symptoms: rash or redness and peeling, mouth sores or blisters.
 - •other types of allergic reactions or serious problems that may affect different parts of the body such as your liver, kidneys, heart, or blood cells.
   You may or may not have a rash with these types of reactions.
   Other symptoms you may have are:
@@ -101,15 +119,26 @@ Teriflunomide tablets may cause serious side effects, including:
   - ounusual bruising or bleeding
   - oweakness or tiredness
   - oyellowing of your skin or the white part of your eyes
-
-If you have a fever or rash with any of the above symptoms, stop taking teriflunomide tablets and call your doctor right away.
-
+- If you have a fever or rash with any of the above symptoms, stop taking teriflunomide tablets and call your healthcare provider right away.
+- •ulcers of the skin or mucous membranes (such as the eyes, nose, lips, mouth, or genitals) and impaired wound healing.
+  Teriflunomide may cause ulcers and impaired wound healing.
+  Tell your healthcare provider right away if any of the following happen:
+- 
+  - oyou develop ulcers during treatment with teriflunomide
+  - o you experience impaired wound healing during treatment with teriflunomide
+  - o you are going to have surgery
+  - o you still have an unhealed wound following surgery
 - •numbness or tingling in your hands or feet that is different from your MS symptoms.
   You have a higher chance of getting these symptoms if you:
-- •are over 60 years of age
-- •take certain medicines that affect your nervous system
-- •have diabetes
-- Tell your doctor if you have numbness or tingling in your hands or feet that is different from your MS.
+- oare over 60 years of age
+- otake certain medicines that affect your nervous system
+- ohave diabetes
+- Tell your healthcare provider if you have numbness or tingling in your hands or feet that is different from your MS.
+- •high blood pressure.
+  Your healthcare provider should check your blood pressure before you start taking teriflunomide tablets and while you are taking teriflunomide tablets.
+- •new or worsening breathing problems.
+  These may be serious and lead to death.
+  Call your healthcare provider right away or get emergency medical help if you have shortness of breath or coughing with or without fever.
 
 The most common side effects of teriflunomide tablets include:
 
@@ -120,9 +149,9 @@ The most common side effects of teriflunomide tablets include:
 - •increases in the results of blood tests to check your liver function
 
 These are not all the possible side effects of teriflunomide tablets.
-For more information, ask your doctor or pharmacist.
+For more information, ask your healthcare provider or pharmacist.
 
-Call your doctor for medical advice about side effects.
+Call your healthcare provider for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store teriflunomide tablets?
@@ -137,7 +166,7 @@ Do not use teriflunomide tablets for a condition for which it was not prescribed
 Do not give teriflunomide tablets to other people, even if they have the same symptoms you have.
 It may harm them.
 
-You can ask your doctor or pharmacist for information about teriflunomide tablets that is written for health professionals.
+You can ask your healthcare provider or pharmacist for information about teriflunomide tablets that is written for health professionals.
 
 What are the ingredients in teriflunomide tablets?
 
@@ -160,4 +189,4 @@ Questions?
 www.glenmarkpharma-us.com
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: August 2025
+Revised: March 2026

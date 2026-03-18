@@ -45,14 +45,18 @@ DRESS/Multi-organ Hypersensitivity
 Instruct patients and caregivers that a fever or rash associated with signs of other organ system involvement (e.g., lymphadenopathy, hepatic dysfunction) may be drug-related and should be reported to their healthcare provider immediately.
 Teriflunomide tablets should be discontinued immediately if a serious hypersensitivity reaction is suspected [see Warnings and Precautions (5.7)].
 
+Cutaneous and Mucocutaneous Ulcers and Impaired Wound Healing
+
+Advise patients to seek medical attention if they develop cutaneous or mucocutaneous ulcers or experience impaired wound healing after a surgery [see Warnings and Precautions (5.8)].
+
 Peripheral Neuropathy
 
 Inform patients that they may develop peripheral neuropathy.
-Advise patients that they should contact their physician if they develop symptoms of peripheral neuropathy, such as numbness or tingling of hands or feet [see Warnings and Precautions (5.8)].
+Advise patients that they should contact their physician if they develop symptoms of peripheral neuropathy, such as numbness or tingling of hands or feet [see Warnings and Precautions (5.9)].
 
 Increased Blood Pressure
 
-Inform patients that teriflunomide tablets may increase blood pressure [see Warnings and Precautions (5.9)].
+Inform patients that teriflunomide tablets may increase blood pressure [see Warnings and Precautions (5.10)].
 
 Lactation
 
@@ -69,4 +73,4 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-August 2025
+March 2026
