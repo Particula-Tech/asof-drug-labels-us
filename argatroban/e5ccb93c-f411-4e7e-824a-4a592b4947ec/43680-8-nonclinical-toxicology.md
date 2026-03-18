@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis & Mutagenesis & Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenicity studies with argatroban have not been performed.
 Argatroban was not genotoxic in the Ames test, the Chinese hamster ovary cell (CHO/HGPRT) forward mutation test, the Chinese hamster lung fibroblast chromosome aberration test, the rat hepatocyte, and WI-38 human fetal lung cell unscheduled DNA synthesis (UDS) tests, or the mouse micronucleus test.

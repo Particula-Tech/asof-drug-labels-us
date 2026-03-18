@@ -5,8 +5,9 @@ Specifically, inform patients to report:
 
 - the use of any other products known to affect bleeding.
 - any medical history that may increase the risk for bleeding, including a history of severe hypertension; recent lumbar puncture or spinal anesthesia; major surgery, especially involving the brain, spinal cord, or eye; hematologic conditions associated with increased bleeding tendencies such as congenital or acquired bleeding disorders and gastrointestinal lesions such as ulcerations.
-- any bleeding signs or symptoms.
-- the occurrence of any signs or symptoms of allergic reactions (e.g., airway reactions, skin reactions and vasodilation reactions).
+- any bleeding signs or symptoms [see Warnings and Precautions (5.1)].
+- the occurrence of any signs or symptoms of allergic reactions (e.g., airway reactions, skin reactions and vasodilation reactions) [see Adverse Reactions (6.1)].
 
-Manufactured by: Gland Pharma Limited D.P.
-Pally, Dundigal Post, Hyderabad - 500 043, INDIA
+Manufactured by: Gland Pharma Limited D. P. Pally, Dundigal Post, Hyderabad - 500043, INDIA.
+
+Revised: 03/2026

@@ -1,29 +1,29 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical trials are conducted under widely varying conditions, adverse event rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+The following adverse reaction is also discussed in other sections of the labeling: • Risk of Hemorrhage [see Warnings and Precautions (5.1)].
 
-## 6.1 Adverse Events in Patients with HIT (With or Without Thrombosis)
+## 6.1 Clinical Trials Experience
 
+Adverse Reactions in Patients with HIT (With or Without Thrombosis) Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 The following safety information is based on all 568 patients treated with argatroban in Study 1 and Study 2.
-The safety profile of the patients from these studies is compared with that of 193 historical controls in which the adverse events were collected retrospectively.
-Adverse events are separated into hemorrhagic and non-hemorrhagic events.
+The safety profile of the patients from these studies is compared with that of 193 historical controls in which the adverse reactions were collected retrospectively.
+Adverse reactions are separated into hemorrhagic and non-hemorrhagic reactions.
 Major bleeding was defined as bleeding that was overt and associated with a hemoglobin decrease ≥2 g/dL, that led to a transfusion of ≥2 units, or that was intracranial, retroperitoneal, or into a major prosthetic joint.
 Minor bleeding was overt bleeding that did not meet the criteria for major bleeding.
-Table 4 gives an overview of the most frequently observed hemorrhagic events, presented separately by major and minor bleeding, sorted by decreasing occurrence among argatroban-treated patients with HIT(with or without thrombosis).
+Table 4 gives an overview of the most frequently observed hemorrhagic events, presented separately by major and minor bleeding, sorted by decreasing occurrence among argatroban-treated patients with HIT (with or without thrombosis).
 
-| Table 4. Major and Minor Hemorrhagic Adverse Events in Patients With HIT1 |  |  |
+| Table 4. Major and Minor Hemorrhagic Adverse Reactions in Patients With HIT1 |  |  |
 | --- | --- | --- |
-| Major Hemorrhagic Events2 |  |  |
-|  | Argatroban- Treated Patients (Study 1 and Study 2) (n = 568) % | Historical Control4 (n = 193) % |
+| Major Hemorrhagic Reactions2 |  |  |
+|  | Argatroban- Treated Patients (Study 1 and Study 2) (n = 568) % | Historical Control3 (n = 193) % |
 | Overall bleeding | 5.3 | 6.7 |
 | Gastrointestinal | 2.3 | 1.6 |
 | Genitourinary and hematuria | 0.9 | 0.5 |
 | Decrease in hemoglobin and hematocrit | 0.7 | 0 |
 | Multisystem hemorrhage and DIC | 0.5 | 1 |
 | Limb and BKA stump | 0.5 | 0 |
-| Intracranial hemorrhage | 03 | 0.5 |
-| Minor Hemorrhagic Events2 |  |  |
-|  | Argatroban- Treated Patients (Study 1 and Study 2) (n = 568) % | Historical Control4 (n = 193) |
+| Intracranial hemorrhage | 04 | 0.5 |
+| Minor Hemorrhagic Reactions2 |  |  |
 | Gastrointestinal | 14.4 | 18.1 |
 | Genitourinary and hematuria | 11.6 | 0.8 |
 | Decrease in hemoglobin and hematocrit | 10.4 | 0 |
@@ -31,16 +31,18 @@ Table 4 gives an overview of the most frequently observed hemorrhagic events, pr
 | Hemoptysis | 2.9 | 0.8 |
 | Brachial | 2.4 | 0.8 |
 
-DIC = disseminated intravascular coagulation.
-BKA = below-the-knee amputation.
-1 with or without thrombosis 2 Patients may have experienced more than 1 adverse event.
-3 One patient experienced intracranial hemorrhage 4 days after discontinuation of argatroban and following therapy with urokinase and oral anticoagulation.
-4 The historical control group consisted of patients with a clinical diagnosis of HIT (with or without thrombosis) that were considered eligible by an independent medical panel.
-Table 5 gives an overview of the most frequently observed non-hemorrhagic events sorted by decreasing frequency of occurrence (≥2%) among argatroban-treated HIT/HITTS patients.
+1. with or without thrombosis 2.
+Patients may have experienced more than 1 adverse reaction.
+3.The historical control group consisted of patients with a clinical diagnosis of HIT (with or without thrombosis) that were considered eligible by an independent medical panel.
+4.
+One patient experienced intracranial hemorrhage 4 days after discontinuation of argatroban and following therapy with urokinase and oral anticoagulation.
+DIC = disseminated intravascular coagulation.BKA = below-the-knee amputation.
 
-| Table 5. Non-hemorrhagic Adverse Events in Patients1With HIT2 |  |  |
+Table 5 gives an overview of the most frequently observed non-hemorrhagic reactions sorted by decreasing frequency of occurrence (≥2%) among argatroban-treated HIT/HITTS patients.
+
+| Table 5. Non-hemorrhagic Adverse Reactions in Patients1 With HIT2 |  |  |
 | --- | --- | --- |
-|  | Argatroban- Treated Patients (Study 1 and Study 2) (n = 568) % | Historical Control3 (n = 193) % |
+|  | Argatroban-Treated Patients (Study 1 and Study 2) (n = 568) % | Historical Control3 (n = 193) % |
 | Dyspnea | 8.1 | 8.8 |
 | Hypotension | 7.2 | 2.6 |
 | Fever | 6.9 | 2.1 |
@@ -50,7 +52,7 @@ Table 5 gives an overview of the most frequently observed non-hemorrhagic events
 | Nausea | 4.8 | 0.5 |
 | Ventricular tachycardia | 4.8 | 3.1 |
 | Pain | 4.6 | 3.1 |
-| Urinary tact infection | 4.6 | 5.2 |
+| Urinary tract infection | 4.6 | 5.2 |
 | Vomiting | 4.2 | 0 |
 | Infection | 3.7 | 3.6 |
 | Pneumonia | 3.3 | 9.3 |
@@ -60,24 +62,26 @@ Table 5 gives an overview of the most frequently observed non-hemorrhagic events
 | Abdominal pain | 2.6 | 1.6 |
 | Cerebrovascular disorder | 2.3 | 4.1 |
 
-1Patients may have experienced more than 1 adverse event.
-2with or without thrombosis 3The historical control group consisted of patients with a clinical diagnosis of HIT (with or without thrombosis) that were considered eligible by an independent medical panel
+1.
+Patients may have experienced more than 1 adverse reaction.
+2. with or without thrombosis 3.
+The historical control group consisted of patients with a clinical diagnosis of HIT (with or without thrombosis) that were considered eligible by an independent medical panel.
 
-## 6.2 Adverse Events in Patients with or at Risk for HIT Patients Undergoing PCI
+Adverse Reactions in Patients with or at Risk for HIT Patients Undergoing PCI
 
 The following safety information is based on 91 patients initially treated with argatroban and 21 patients subsequently re-exposed to argatroban for a total of 112 PCIs with argatroban anticoagulation.
-Adverse events are separated into hemorrhagic (Table 6) and non-hemorrhagic (Table7) events.
+Adverse reactions are separated into hemorrhagic (Table 6) and non-hemorrhagic (Table 7) reactions.
 Major bleeding was defined as bleeding that was overt and associated with a hemoglobin decrease ≥5 g/dL, that led to a transfusion of ≥2 units, or that was intracranial, retroperitoneal, or into a major prosthetic joint.
 The rate of major bleeding events in patients treated with argatroban in the PCI trials was 1.8%.
 
-| Table 6. Major and Minor Hemorrhagic Adverse Events in Patients With HIT Undergoing PCI |  |
+| Table 6. Major and Minor Hemorrhagic Adverse Reactions in Patients With HIT Undergoing PCI |  |
 | --- | --- |
-| Major Hemorrhagic Events1 |  |
+| Major Hemorrhagic Reactions1 |  |
 |  | Argatroban-Treated Patients (n = 112)2% |
 | Retroperitoneal | 0.9 |
 | Gastrointestinal | 0.9 |
 | Intracranial | 0 |
-| Minor Hemorrhagic Events1 |  |
+| Minor Hemorrhagic Reactions1 |  |
 |  | Argatroban-Treated Patients (n = 112)2% |
 | Groin (bleeding or hematoma) | 3.6 |
 | Gastrointestinal (includes hematemesis) | 2.6 |
@@ -88,31 +92,34 @@ The rate of major bleeding events in patients treated with argatroban in the PCI
 | Hemoptysis | 0.9 |
 | Other | 0.9 |
 
-CABG = coronary artery bypass graft.
-1 Patients may have experienced more than 1 adverse event.
-2 91 patients who underwent 112 interventions.
-Table 7 gives an overview of the most frequently observed non-hemorrhagic events (>2%), sorted by decreasing frequency of occurrence among argatroban-treated PCI patients.
+1.
+Patients may have experienced more than 1 adverse reaction.
+2.
+91 patients who underwent 112 interventions.
+Table 7 gives an overview of the most frequently observed non-hemorrhagic reactions (>2%), sorted by decreasing frequency of occurrence among argatroban-treated PCI patients.
 
-| Table 7. Non-hemorrhagic Adverse Events1in Patients With HIT Undergoing PCI |  |
+| Table 7. Non-hemorrhagic Adverse Reaction1 in Patients With HIT Undergoing PCI |  |
 | --- | --- |
-|  | Argatroban Procedures(n = 112)2 % |
-| Chest Pain | 15.2 |
+|  | Argatroban Procedures1 (n = 112)2 % |
+| Chest pain | 15.2 |
 | Hypotension | 10.7 |
-| Back Pain | 8.0 |
+| Back pain | 8.0 |
 | Nausea | 7.1 |
 | Vomiting | 6.3 |
 | Headache | 5.4 |
 | Bradycardia | 4.5 |
-| Abdominal Pain | 3.6 |
+| Abdominal pain | 3.6 |
 | Fever | 3.6 |
 | Myocardial infarction | 3.6 |
 
-1 Patients may have experienced more than 1 adverse event.
-2 91 patients who underwent 112 interventions.
-There were 22 serious adverse events in 17 PCI patients (19.6% in 112 interventions).
-Table 8 lists the serious adverse events occurring in argatroban-treated patients with or at risk for HIT undergoing PCI.
+1.
+Patients may have experienced more than 1 adverse reaction.
+2.
+91 patients who underwent 112 interventions.
+There were 22 serious adverse reactions in 17 PCI patients (19.6% in 112 interventions).
+Table 8 lists the serious adverse reactions occurring in argatroban-treated patients with or at risk for HIT undergoing PCI.
 
-| Table 8. Serious Adverse Events in Patients With HIT Undergoing PCI1 |  |
+| Table 8. Serious Adverse Reactions in Patients With HIT Undergoing PCI1 |  |
 | --- | --- |
 | Coded Term | Argatroban Procedures2 (n = 112) |
 | Myocardial infarction | 4 (3.5%) |
@@ -131,11 +138,13 @@ Table 8 lists the serious adverse events occurring in argatroban-treated patient
 | Lung edema | 1 (0.9%) |
 | Vascular disorder | 1 (0.9%) |
 
-1 Individual events may also have been reported elsewhere (see Table 6 and 7).
-2 91 patients underwent 112 procedures.
-Some patients may have experienced more than 1 event.
+1.
+Individual reactions may also have been reported elsewhere (see Table 6 and 7).
+2.
+91 patients underwent 112 procedures.
+Some patients may have experienced more than 1 reaction.
 
-## 6.3 Intracranial Bleeding in Other Populations
+Intracranial Bleeding in Other Populations
 
 Increased risks for intracranial bleeding have been observed in investigational studies of argatroban for other uses.
 In a study of patients with acute myocardial infarction receiving both argatroban and thrombolytic therapy (streptokinase or tissue plasminogen activator), the overall frequency of intracranial bleeding was 1% (8 out of 810 patients).
@@ -145,7 +154,7 @@ Intracranial bleeding was also observed in a prospective, placebo-controlled stu
 Symptomatic intracranial hemorrhage was reported in 5 of 117 patients (4.3%) who received argatroban at 1 to 3 mcg/kg/min and in none of the 54 patients who received placebo.
 Asymptomatic intracranial hemorrhage occurred in 5 (4.3%) and 2 (3.7%) of the patients, respectively.
 
-## 6.4 Allergic Reactions
+Allergic Reactions
 
 One hundred fifty-six allergic reactions or suspected allergic reactions were observed in 1,127 individuals who were treated with argatroban in clinical pharmacology studies or for various clinical indications.
 About 95% (148/156) of these reactions occurred in patients who concomitantly received thrombolytic therapy (e.g., streptokinase) or contrast media.

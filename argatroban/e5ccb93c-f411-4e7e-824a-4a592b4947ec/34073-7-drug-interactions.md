@@ -15,7 +15,7 @@ No drug-drug interactions have been demonstrated between argatroban and concomit
 
 ## 7.4 Thrombolytic Agents
 
-The safety and effectiveness of argatroban with thrombolytic agents have not been established [see Adverse Reactions (6.3)].
+The safety and effectiveness of argatroban with thrombolytic agents have not been established [see Adverse Reactions (6.1)].
 
 ## 7.5 Glycoprotein IIb/IIIa Antagonists
 

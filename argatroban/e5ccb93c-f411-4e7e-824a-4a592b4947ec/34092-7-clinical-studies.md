@@ -2,7 +2,7 @@
 
 ## 14.1 Heparin-Induced Thrombocytopenia
 
-The safety and efficacy of argatroban were evaluated in an historically controlled efficacy and safety study (Study 1) and a follow-on efficacy and safety study (Study 2).
+The safety and efficacy of argatroban were evaluated in a historically controlled efficacy and safety study (Study 1) and a follow-on efficacy and safety study (Study 2).
 These studies were comparable with regard to study design, study objectives, dosing regimens as well as study outline, conduct, and monitoring.
 In these studies, 568 adult patients were treated with argatroban and 193 adult patients made up the historical control group.
 Patients had a clinical diagnosis of heparin-induced thrombocytopenia, either without thrombosis (HIT) or with thrombosis (HITTS [heparin-induced thrombocytopenia and thrombosis syndrome]) and were males or non-pregnant females between the age of 18 and 80 years old.
@@ -23,41 +23,45 @@ The test results for the remainder of the patients and controls were either nega
 There was a significant improvement in the composite outcome in patients with HIT and HITTS treated with argatroban versus those in the historical control group (see Table 9).
 The components of the composite endpoint are shown in Table 9.
 
-| Table 9. Efficacy Results of Study 1: Composite Endpoint1and Individual Components, Ranked by Severity2 |  |  |  |  |  |  |
+| Table 9. Efficacy Results of Study 1: Composite Endpoint1 and Individual Components, Ranked by Severity2 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | HIT |  | HITTS |  | HIT/HITTS |  |
 | Parameter, N(%) | Control n = 147 | Argatroban n = 160 | Control n = 46 | Argatroban n = 144 | Control n = 193 | Argatroban n = 304 |
 | Composite Endpoint | 57 (38.8) | 41 (25.6) | 26 (56.5) | 63 (43.8) | 83 (43.0) | 104 (34.2) |
-| Individual Components2: |  |  |  |  |  |  |
+| Individual Components2 |  |  |  |  |  |  |
 | Death | 32 (21.8) | 27 (16.9) | 13 (28.3) | 26 (18.1) | 45 (23.3) | 53 (17.4) |
 | Amputation | 3 (2.0) | 3 (1.9) | 4 (8.7) | 16 (11.1) | 7 (3.6) | 19 (6.2) |
 | New Thrombosis | 22 (15.0) | 11 (6.9) | 9 (19.6) | 21 (14.6) | 31 (16.1) | 32 (10.5) |
 
-1 Death (all cause), amputation (all cause), or new thrombosis within 37-day study period 2 Reported as the most severe outcome among the components of composite endpoint (severity ranking: death > amputation > new thrombosis); patients may have had multiple outcomes.
+1.
+Death (all cause), amputation (all cause), or new thrombosis within 37-day study period 2.
+Reported as the most severe outcome among the components of composite endpoint (severity ranking: death > amputation > new thrombosis); patients may have had multiple outcomes.
 Time-to-event analyses showed significant improvements in the time-to-first event in patients with HIT or HITTS treated with argatroban versus those in the historical control group.
 The between-group differences in the proportion of patients who remained free of death, amputation, or new thrombosis were statistically significant in favor of argatroban by these analyses.
 A time-to-event analysis for the composite endpoint is shown in Figure 3 for patients with HIT and Figure 4 for patients with HITTS.
 Figure 3.
-Time-to-First Event for the Composite Efficacy
+Time-to-First Event for the Composite Efficacy Endpoint: HIT Patients STUDY 1
 
 Figure 4.
-Time-to-First Event for the Composite Efficacy Endpoint: In Study 2, a total of 264 patients were enrolled as follows: HIT (n=125) or HITTS (n=139).
-There was a significant improvement in the composite efficacy outcome for argatroban-treated patients, versus the same historical control group from Study 1, among patients having HIT (25.6% vs. 38.8%), patients having HITTS (41.0% vs. 56.5%), and patients having either HIT or HITTS (33.7% vs. 43.0%).
+Time-to-First Event for the Composite Efficacy Endpoint: HITTS Patients STUDY 1
+
+In Study 2, a total of 264 patients were enrolled as follows: HIT (n=125) or HITTS (n=139).
+There was a significant improvement in the composite efficacy outcome for argatroban-treated patients, versus the same historical control group from Study 1, among patients having HIT (25.6% vs. 38.8%), patients having HITTS (41% vs. 56.5%), and patients having either HIT or HITTS (33.7% vs. 43%).
 Time-to-event analyses showed significant improvements in the time-to-first event in patients with HIT or HITTS treated with argatroban versus those in the historical control group.
 The between-group differences in the proportion of patients who remained free of death, amputation, or new thrombosis were statistically significant in favor of argatroban.
-Anticoagulant Effect: In Study 1, the mean (± SE) dose of argatroban administered was 2.0 ± 0.1 mcg/kg/min in the HIT arm and 1.9 ± 0.1 mcg/kg/min in the HITTS arm.
+Anticoagulant Effect In Study 1, the mean (± SE) dose of argatroban administered was 2.0 ± 0.1 mcg/kg/min in the HIT arm and 1.9 ± 0.1 mcg/kg/min in the HITTS arm.
 Seventy-six percent of patients with HIT and 81% of patients with HITTS achieved a target aPTT at least 1.5-fold greater than the baseline aPTT at the first assessment occurring on average at 4.6 hours (HIT) and 3.9 hours (HITTS) following initiation of argatroban therapy.
 No enhancement of aPTT response was observed in subjects receiving repeated administration of argatroban.
-Platelet Count Recovery: In Study 1, 53% of patients with HIT and 58% of patients with HITTS, had a recovery of platelet count by Day 3.
+Platelet Count Recovery In Study 1, 53% of patients with HIT and 58% of patients with HITTS, had a recovery of platelet count by Day 3.
 Platelet Count Recovery was defined as an increase in platelet count to >100,000/µL or to at least 1.5-fold greater than the baseline count (platelet count at study initiation) by Day 3 of the study.
 
-## 14.2 Percutaneous Coronary Intervention (PCI) Patients with or at Risk for HIT
+## 14.2 Percutaneous Coronary Interventions (PCI) Patients with or at Risk for HIT
 
 In 3 similarly designed trials, argatroban was administered to 91 patients with current or previous clinical diagnosis of HIT or heparin-dependent antibodies, who underwent a total of 112 percutaneous coronary interventions (PCIs) including percutaneous transluminal coronary angioplasty (PTCA), coronary stent placement, or atherectomy.
 
 Among the 91 patients undergoing their first PCI with argatroban, notable ongoing or recent medical history included myocardial infarction (n = 35), unstable angina (n = 23), and chronic angina (n = 34).
 There were 33 females and 58 males.
-The average age was 67.6 years (median 70.7, range 44 to 86), and the average weight was 82.5 kg (median 81.0 kg, range 49 to 141).
+The average age was 67.6 years (median 70.7, range 44 to 86), and the average weight was 82.5 kg (median 81 kg, range 49 to 141).
 
 Twenty-one of the 91 patients had a repeat PCI using argatroban an average of 150 days after their initial PCI.
 Seven of 91 patients received glycoprotein IIb/IIIa inhibitors.
