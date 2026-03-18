@@ -88,5 +88,5 @@ Manage confirmed or suspected extravasation as follows:
 
 ## 2.7 Procedure for Proper Handling and Disposal
 
-DOXIL liposomal infusion is a cytotoxic drug.
+DOXIL liposomal infusion is a hazardous drug.
 Follow applicable special handling and disposal procedures.1 If DOXIL liposomal infusion comes into contact with skin or mucosa, immediately wash thoroughly with soap and water.

@@ -28,7 +28,7 @@ Because many drugs, including anthracyclines, are excreted in human milk and bec
 
 ## 8.3 Females and Males of Reproductive Potential
 
-### Pregnancy Testing
+Pregnancy Testing
 
 Verify the pregnancy status of females of reproductive potential prior to initiating DOXIL liposomal infusion.
 

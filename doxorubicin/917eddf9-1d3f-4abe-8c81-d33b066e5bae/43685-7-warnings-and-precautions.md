@@ -45,10 +45,11 @@ Examine patients at regular intervals for the presence of oral ulceration or wit
 
 The altered pharmacokinetics and preferential tissue distribution of liposomal doxorubicin that contributes to enhanced skin toxicity and mucositis compared to free doxorubicin may play a role in the development of oral secondary malignancies with long-term use.
 
-## 5.5 EmbryoFetal Toxicity
+## 5.5 Embryo-Fetal Toxicity
 
 Based on findings in animals and its mechanism of action, DOXIL liposomal infusion can cause fetal harm when administered to a pregnant woman; avoid the use of DOXIL liposomal infusion during the 1st trimester.
 Available human data do not establish the presence or absence of major birth defects and miscarriage related to the use of doxorubicin hydrochloride during the 2nd and 3rd trimesters.
 At doses approximately 0.12 times the recommended clinical dose, DOXIL liposomal infusion was embryotoxic and abortifacient in rabbits.
 Advise pregnant women of the potential risk to a fetus.
-Advise females and males of reproductive potential to use effective contraception during and for 6 months after treatment with DOXIL liposomal infusion [see Use in Specific Populations (8.1, 8.3)].
+Advise females and males of reproductive potential to use effective contraception during and for 6 months after treatment with DOXIL liposomal infusion.
+[see Use in Specific Populations (8.1, 8.3)].

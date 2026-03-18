@@ -218,12 +218,10 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Musculoskeletal and Connective Tissue Disorders: muscle spasms
 
-Respiratory, Thoracic and Mediastinal Disorders: pulmonary embolism (in some cases fatal)
+Respiratory, Thoracic and Mediastinal Disorders: pulmonary embolism (in some cases fatal), interstitial lung disease
 
 Hematologic Disorders: Secondary acute myelogenous leukemia
 
 Skin and Subcutaneous Tissue Disorders: erythema multiforme, Stevens‑Johnson syndrome, toxic epidermal necrolysis, lichenoid keratosis
 
 Secondary Oral Neoplasms: [see Warnings and Precautions (5.4)].
-
-Renal and urinary disorders: Cases of Renal-limited thrombotic microangiopathy have been reported in patients with high cumulative exposure to DOXIL liposomal infusion.
