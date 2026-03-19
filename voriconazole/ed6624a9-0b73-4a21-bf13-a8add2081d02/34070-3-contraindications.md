@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-- Voriconazole for oral suspension is contraindicated in patients with known hypersensitivity to voriconazole or its excipients [see Warnings and Precautions (5.5) andAdverse Reactions (6.1, 6.2)].
+- Voriconazole for oral suspension is contraindicated in patients with known hypersensitivity to voriconazole or its excipients [see Warnings and Precautions (5.5) and Adverse Reactions (6.1, 6.2)].
   There is no information regarding cross-sensitivity between voriconazole and other azole antifungal agents.
   Refer to the prescribing information for other azole antifungal agents.
 - Concomitant use of voriconazole with the interacting drugs described and listed below in this section are a guide and not considered a comprehensive list of all possible drugs that may be contraindicated with voriconazole.
@@ -33,5 +33,5 @@ Long-acting barbiturates
 - Rifabutin
 - Rifampin
 - Ritonavir Concomitant use with high-dose ritonavir (400 mg every 12 hours) is contraindicated.
-  Concomitant use with low-dose ritonavir (100 mg every 12 hours) should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole [see Clinical Pharmacology (12.3)]
+  Concomitant use with low-dose ritonavir (100 mg every 12 hours) should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole [see Clinical Pharmacology (12.3)].
 - St. John’s Wort [see Clinical Pharmacology (12.3)]

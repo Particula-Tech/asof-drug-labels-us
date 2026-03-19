@@ -10,7 +10,7 @@ Drugs listed in Table 10 and Table 11 are a guide and not considered a comprehen
 
 Table 10: Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pharmacology (12.3)]
 
-| Drug/Drug Class(Mechanism of Interaction by the Drug) | Voriconazole Plasma Exposure(Cmax and AUCτ after200 mg every 12 hours) | Prevention or Management Recommendations |
+| Drug/Drug Class (Mechanism of Interaction by the Drug) | Voriconazole Plasma Exposure (Cmax and AUCτ after200 mg every 12 hours) | Prevention or Management Recommendations |
 | --- | --- | --- |
 | Rifampin* and Rifabutin*(CYP450 Induction) | Significantly Reduced | Contraindicated |
 | Efavirenz (400 mg every 24 hours)**(CYP450 Induction)Efavirenz (300 mg every 24 hours)**(CYP450 Induction) | Significantly ReducedSlight Decrease in AUCτ | ContraindicatedWhen voriconazole is concomitantly administered with efavirenz, voriconazole oral maintenance dose should be increased to 400 mg every 12 hours and efavirenz should be decreased to 300 mg every 24 hours. |
@@ -28,7 +28,7 @@ Table 10: Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical P
 
 Table 11: Effect of Voriconazole on Pharmacokinetics of Other Drugs [see Clinical Pharmacology (12.3)]
 
-| Drug/Drug Class(Mechanism of Interaction by Voriconazole) | Drug Plasma Exposure(Cmax and AUCτ) | Prevention or Management Recommendations |
+| Drug/Drug Class (Mechanism of Interaction by Voriconazole) | Drug Plasma Exposure (Cmax and AUCτ) | Prevention or Management Recommendations |
 | --- | --- | --- |
 | Sirolimus*(CYP3A4 Inhibition) | Significantly Increased | Contraindicated |
 | Rifabutin*(CYP3A4 Inhibition) | Significantly Increased | Contraindicated |
@@ -59,6 +59,7 @@ Table 11: Effect of Voriconazole on Pharmacokinetics of Other Drugs [see Clinica
 | Warfarin*(CYP2C9 Inhibition)Other Oral Coumarin Anticoagulants(CYP2C9/3A4 Inhibition) | Prothrombin Time Significantly IncreasedNot Studied In Vivo or In Vitro for other Oral Coumarin Anticoagulants, but Drug Plasma Exposure Likely to be Increased. | If patients receiving coumarin preparations are treated simultaneously with voriconazole, the prothrombin time or other suitable anticoagulation tests should be monitored at close intervals and the dosage of anticoagulants adjusted accordingly. |
 | Ivacaftor(CYP3A4 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased which may Increase the Risk of Adverse Reactions | Dose reduction of ivacaftor is recommended. Refer to the prescribing information for ivacaftor. |
 | Eszopiclone (CYP3A4 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased which may Increase the Sedative Effect of Eszopiclone | Dose reduction of eszopiclone is recommended. Refer to the prescribing information for eszopiclone. |
+| Mavacamten (CYP2C19/3A4/2C9 Inhibition) | Not Studied In Vivo or In Vitro, but Mavacamten Drug Plasma Exposure Likely to be Increased which may Increase the Risk of Heart Failure | Refer to the prescribing information for mavacamten. |
 | Omeprazole*(CYP2C19/3A4 Inhibition) | Significantly Increased | When initiating therapy with voriconazole in patients already receiving omeprazole doses of 40 mg or greater, reduce the omeprazole dose by one-half. The metabolism of other proton pump inhibitors that are CYP2C19 substrates may also be inhibited by voriconazole and may result in increased plasma concentrations of other proton pump inhibitors. |
 | Other HIV Protease Inhibitors(CYP3A4 Inhibition) | In Vivo Studies Showed No Significant Effects on Indinavir ExposureIn Vitro Studies Demonstrated Potential for Voriconazole to Inhibit Metabolism (Increased Plasma Exposure) | No dosage adjustment for indinavir when concomitantly administered with voriconazole. Frequent monitoring for adverse reactions and toxicity related to other HIV protease inhibitors. |
 | Other NNRTIs*****(CYP3A4 Inhibition) | A Voriconazole-Efavirenz Drug Interaction Study Demonstrated the Potential for Voriconazole to Inhibit Metabolism of Other NNRTIs (Increased Plasma Exposure) | Frequent monitoring for adverse reactions and toxicity related to NNRTI. |
