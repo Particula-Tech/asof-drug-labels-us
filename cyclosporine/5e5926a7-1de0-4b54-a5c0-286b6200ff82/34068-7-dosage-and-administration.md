@@ -1,11 +1,13 @@
 # DOSAGE AND ADMINISTRATION
 
-## Sandimmune Soft Gelatin Capsules (cyclosporine capsules, USP) and Sandimmune Oral Solution (cyclosporine oral solution, USP)
+## Recommended Dosage for Sandimmune Capsules
 
-Sandimmune Soft Gelatin Capsules (cyclosporine capsules, USP) and Sandimmune Oral Solution (cyclosporine oral solution, USP) have decreased bioavailability in comparison to Neoral Soft Gelatin Capsules (cyclosporine capsules, USP) MODIFIED and Neoral Oral Solution (cyclosporine oral solution, USP) MODIFIED.
-Sandimmune and Neoral are not bioequivalent and cannot be used interchangeably without physician supervision.
+Sandimmune (cyclosporine capsules) 25 mg and 100 mg and Neoral (cyclosporine capsules), MODIFIED 25 mg and 100 mg are not mutually substitutable on a mg-to-mg basis due to differences in pharmacokinetic profiles.
 
-The initial oral dose of Sandimmune (cyclosporine) should be given 4 to 12 hours prior to transplantation as a single dose of 15 mg/kg.
+- If it is appropriate to switch from Neoral capsules, MODIFIED, to Sandimmune capsules, increase the frequency of cyclosporine monitoring (the cyclosporine dosage may need to be increased to reach the desired cyclosporine exposure and reduce the risk of insufficient efficacy).
+- If it is appropriate to switch from Sandimmune capsules to Neoral capsules, increase the frequency of cyclosporine monitoring (the cyclosporine dosage may need to be decreased to reach the desired cyclosporine exposure and reduce the risk of cyclosporine-related adverse reactions).
+
+The initial oral dose of Sandimmune capsules should be given 4 to 12 hours prior to transplantation as a single dose of 15 mg/kg.
 Although a daily single dose of 14 to 18 mg/kg was used in most clinical trials, few centers continue to use the highest dose, most favoring the lower end of the scale.
 There is a trend towards use of even lower initial doses for renal transplantation in the ranges of 10 to 14 mg/kg/day.
 The initial single daily dose is continued postoperatively for 1 to 2 weeks and then tapered by 5% per week to a maintenance dose of 5 to 10 mg/kg/day.
@@ -13,19 +15,17 @@ Some centers have successfully tapered the maintenance dose to as low as 3 mg/kg
 
 See Blood Concentration Monitoring, below.
 
-Specific Populations
-
-Renal Impairment
+Recommended Dosage of the Sandimmune Capsules in Patients with Renal Impairment
 
 Cyclosporine undergoes minimal renal elimination and its pharmacokinetics do not appear to be significantly altered in patients with end-stage renal disease who receive routine hemodialysis treatments (see CLINICAL PHARMACOLOGY).
 However, due to its nephrotoxic potential (see WARNINGS), careful monitoring of renal function is recommended; cyclosporine dosage should be reduced if indicated (see WARNINGS and PRECAUTIONS).
 
-Hepatic Impairment
+Recommended Dosage of the Sandimmune Capsules in Patients with Hepatic Impairment
 
 The clearance of cyclosporine may be significantly reduced in severe liver disease patients (see CLINICAL PHARMACOLOGY).
 Dose reduction may be necessary in patients with severe liver impairment to maintain blood concentrations within the recommended target range (see WARNINGS and PRECAUTIONS).
 
-Pediatrics
+Recommended Dosage of the Sandimmune Capsules in Pediatric Patients
 
 In pediatric usage, the same dose and dosing regimen may be used as in adults although in several studies, children have required and tolerated higher doses than those used in adults.
 
@@ -36,36 +36,23 @@ Another center started with an initial dose of 200 mg tapered by 40 mg/day until
 After 2 months at this dose, a further reduction to 10 mg/day was made.
 Adjustments in dosage of prednisone must be made according to the clinical situation.
 
-To make Sandimmune Oral Solution (cyclosporine oral solution, USP) more palatable, the oral solution may be diluted with milk, chocolate milk, or orange juice preferably at room temperature.
-Patients should avoid switching diluents frequently.
-Sandimmune Soft Gelatin Capsules and Oral Solution should be administered on a consistent schedule with regard to time of day and relation to meals.
+Sandimmune capsules should be administered on a consistent schedule with regard to time of day and relation to meals.
 
-Take the prescribed amount of Sandimmune (cyclosporine) from the container using the dosage syringe supplied after removal of the protective cover, and transfer the solution to a glass of milk, chocolate milk, or orange juice.
-Stir well and drink at once.
-Do not allow to stand before drinking.
-It is best to use a glass container and rinse it with more diluent to ensure that the total dose is taken.
-After use, replace the dosage syringe in the protective cover.
-Do not rinse the dosage syringe with water or other cleaning agents either before or after use.
-If the dosage syringe requires cleaning, it must be completely dry before resuming use.
-Introduction of water into the product by any means will cause variation in dose.
+## Recommended Dosage for Sandimmune Injection
 
-## Sandimmune® Injection (cyclosporine injection, USP)
+Sandimmune injection is for infusion only.
 
-FOR INFUSION ONLY
+Patients unable to take Sandimmune capsules pre- or postoperatively may be treated with Sandimmune Injection, for intravenous use.
+Sandimmune injection is administered at 1/3 the oral dosage of Sandimmune capsules.
 
-Note: Anaphylactic reactions have occurred with Sandimmune Injection (cyclosporine injection, USP).
-See WARNINGS.
-
-Patients unable to take Sandimmune Soft Gelatin Capsules or Oral Solution pre- or postoperatively may be treated with the intravenous (IV) concentrate.
-Sandimmune Injection (cyclosporine injection, USP) is administered at 1/3 the oral dose.
-The initial dose of Sandimmune Injection (cyclosporine injection, USP) should be given 4 to 12 hours prior to transplantation as a single intravenous dose of 5 to 6 mg/kg/day.
-This daily single dose is continued postoperatively until the patient can tolerate the soft gelatin capsules or oral solution.
-Patients should be switched to Sandimmune Soft Gelatin Capsules or Oral Solution as soon as possible after surgery.
+The initial dose of Sandimmune injection should be given 4 to 12 hours prior to transplantation as a single intravenous dose of 5 to 6 mg/kg/day.
+This daily single dose is continued postoperatively until the patient can tolerate the soft gelatin capsules.
+Patients should be switched to Sandimmune capsules as soon as possible after surgery.
 In pediatric usage, the same dose and dosing regimen may be used, although higher doses may be required.
 
 Adjunct steroid therapy is to be used (See aforementioned).
 
-Immediately before use, the intravenous concentrate should be diluted 1 mL Sandimmune Injection (cyclosporine injection, USP) in 20 mL to 100 mL 0.9% Sodium Chloride Injection or 5% Dextrose Injection using appropriate aseptic technique and given in a slow intravenous infusion over 2 to 6 hours.
+Immediately before use, the intravenous concentrate should be diluted 1 mL Sandimmune injection in 20 mL to 100 mL 0.9% Sodium Chloride Injection or 5% Dextrose Injection using appropriate aseptic technique and given in a slow intravenous infusion over 2 to 6 hours.
 
 Based on the chemical and physical in-use stability data, the infusion should be completed within 6 hours at room temperature.
 Discard any unused diluted solution.
@@ -75,7 +62,7 @@ The Cremophor® EL (polyoxyethylated castor oil) contained in the concentrate fo
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-## Blood Concentration Monitoring
+## Blood Cyclosporine Concentration Monitoring
 
 Several study centers have found blood concentration monitoring of cyclosporine useful in patient management.
 While no fixed relationships have yet been established, in one series of 375 consecutive cadaveric renal transplant recipients, dosage was adjusted to achieve specific whole blood 24-hour trough concentrations of 100 to 200 ng/mL as determined by high-pressure liquid chromatography (HPLC).

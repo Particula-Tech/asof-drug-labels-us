@@ -8,12 +8,12 @@ Encourage women who are taking Sandimmune during pregnancy to enroll in the Tran
 Risk Summary
 
 Available data from published literature, including the Transplant Pregnancy Registry International, observational cohort studies, case-controlled studies, meta-analysis, case series, and case reports, over decades of use with cyclosporine in pregnancy have not identified a drug associated risk of major birth defects, or miscarriage.
-Adverse maternal or fetal outcomes including hypertension, preeclampsia, preterm birth, and low birth weight are increased in patients treated with cyclosporine.
+Adverse maternal or fetal outcomes, including hypertension, preeclampsia, preterm birth, and low birth weight are increased in patients treated with cyclosporine.
 However, patients receiving cyclosporine during pregnancy have underlying medical conditions and may be treated with concomitant medications that limit the interpretability of these findings (see Data).
 
 Embryo-fetal developmental (EFD) studies in rats and rabbits with cyclosporine have shown embryo-fetal toxicity at dose levels below the MRHD based on BSA.
 
-The alcohol content of Sandimmune should be taken into account when given to pregnant women (see WARNINGS, Special Excipients).
+The alcohol content of Sandimmune should be considered when given to pregnant women (see WARNINGS, Special Excipients).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.

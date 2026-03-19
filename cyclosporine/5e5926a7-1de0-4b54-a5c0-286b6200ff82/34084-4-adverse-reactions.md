@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The principal adverse reactions of Sandimmune (cyclosporine) therapy are renal dysfunction, tremor, hirsutism, hypertension, and gum hyperplasia.
+The principal adverse reactions of Sandimmune therapy are renal dysfunction, tremor, hirsutism, hypertension, and gum hyperplasia.
 
 Hypertension
 
@@ -17,11 +17,11 @@ Hypomagnesemia
 Hypomagnesemia has been reported in some, but not all, patients exhibiting convulsions while on cyclosporine therapy.
 Although magnesium-depletion studies in normal subjects suggest that hypomagnesemia is associated with neurologic disorders, multiple factors, including hypertension, high-dose methylprednisolone, hypocholesterolemia, and nephrotoxicity associated with high plasma concentrations of cyclosporine appear to be related to the neurological manifestations of cyclosporine toxicity.
 
-Clinical Studies
+Adverse Reactions in Clinical Studies
 
 The following reactions occurred in 3% or greater of 892 patients involved in clinical trials of kidney, heart, and liver transplants:
 
-|  | Randomized Kidney Patients |  | All Sandimmune (cyclosporine) Patients |  |  |
+|  | Randomized Kidney Patients |  | All Sandimmune-Treated Patients |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Sandimmune | Azathioprine | Kidney | Heart | Liver |
 | Body System/ | (N = 227) | (N = 228) | (N = 705) | (N = 112) | (N = 75) |
@@ -61,7 +61,7 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 
 | Renal Transplant Patients in Whom Therapy Was Discontinued |  |  |  |
 | --- | --- | --- | --- |
-|  | Randomized Patients |  | All Sandimmune Patients |
+|  | Randomized Patients |  | All Sandimmune-Treated Patients |
 |  | Sandimmune | Azathioprine |  |
 |  | (N = 227) | (N = 228) | (N = 705) |
 | Reason for Discontinuation | % | % | % |
@@ -73,7 +73,7 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 | Hypertension | 0 | 0 | 0.3 |
 | Hematological Abnormalities | 0 | 0.4 | 0 |
 | Other | 0 | 0 | 0.7 |
-| Sandimmune (cyclosporine) was discontinued on a temporary basis and then restarted in 18 additional patients. |  |  |  |
+| Sandimmune was discontinued on a temporary basis and then restarted in 18 additional patients. |  |  |  |
 
 Patients receiving immunosuppressive therapies, including cyclosporine and cyclosporine-containing regimens, are at increased risk of infections (viral, bacterial, fungal, and parasitic).
 Both generalized and localized infections can occur.
@@ -99,7 +99,7 @@ Fatal outcomes have been reported (see WARNINGS).
 Cremophor® EL (polyoxyethylated castor oil) is known to cause hyperlipemia and electrophoretic abnormalities of lipoproteins.
 These effects are reversible upon discontinuation of treatment but are usually not a reason to stop treatment.
 
-## Postmarketing Experience
+## Adverse Reactions During Postmarketing Use
 
 Hepatotoxicity
 
@@ -112,7 +112,7 @@ Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), s
 Headache, Including Migraine
 
 Cases of migraine have been reported.
-In some cases, patients have been unable to continue cyclosporine, however, the final decision on treatment discontinuation should be made by the treating physician following the careful assessment of benefits versus risks.
+In some cases, patients have been unable to continue cyclosporine, however, the final decision on treatment discontinuation should be made by the treating health care provider following the careful assessment of benefits versus risks.
 
 Pain of Lower Extremities
 

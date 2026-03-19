@@ -1,5 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
+Mechanism of Action
+
 Cyclosporine is a potent immunosuppressive agent, which in animals prolongs survival of allogeneic transplants involving skin, heart, kidney, pancreas, bone marrow, small intestine, and lung.
 Cyclosporine has been demonstrated to suppress some humoral immunity and to a greater extent, cell-mediated reactions, such as allograft rejection, delayed hypersensitivity, experimental allergic encephalomyelitis, Freund’s adjuvant arthritis, and graft vs. host disease in many animal species for a variety of organs.
 
@@ -14,12 +16,13 @@ Cyclosporine also inhibits lymphokine production and release, including interleu
 No functional effects on phagocytic (changes in enzyme secretions not altered, chemotactic migration of granulocytes, macrophage migration, carbon clearance in vivo) or tumor cells (growth rate, metastasis) can be detected in animals.
 Cyclosporine does not cause bone marrow suppression in animal models or man.
 
+Pharmacokinetics
+
 The absorption of cyclosporine from the gastrointestinal tract is incomplete and variable.
 Peak concentrations (Cmax) in blood and plasma are achieved at about 3.5 hours.
-Cmax and area under the plasma or blood concentration/time curve (AUC) increase with the administered dose; for blood, the relationship is curvilinear (parabolic) between 0 and 1400 mg.
+Cmax and area under the plasma or blood concentration/time curve (AUC) increase with the administered dosage; for blood, the relationship is curvilinear (parabolic) between 0 and 1400 mg.
 As determined by a specific assay, Cmax is approximately 1.0 ng/mL/mg of dose for plasma and 2.7 to 1.4 ng/mL/mg of dose for blood (for low to high doses).
-Compared to an intravenous infusion, the absolute bioavailability of the oral solution is approximately 30% based upon the results in 2 patients.
-The bioavailability of Sandimmune Soft Gelatin Capsules (cyclosporine capsules, USP) is equivalent to Sandimmune Oral Solution, (cyclosporine oral solution, USP).
+Compared to an intravenous infusion, the absolute bioavailability of soft gelatin capsules is approximately 30%.
 
 Cyclosporine is distributed largely outside the blood volume.
 In blood, the distribution is concentration dependent.
@@ -36,16 +39,16 @@ Of 15 metabolites characterized in human urine, 9 have been assigned structures.
 The major pathways consist of hydroxylation of the Cγ-carbon of 2 of the leucine residues, Cη-carbon hydroxylation, and cyclic ether formation (with oxidation of the double bond) in the side chain of the amino acid 3-hydroxyl-N,4-dimethyl-L-2-amino-6-octenoic acid and N-demethylation of N-methyl leucine residues.
 Hydrolysis of the cyclic peptide chain or conjugation of the aforementioned metabolites do not appear to be important biotransformation pathways.
 
-Specific Populations
+Pharmacokinetics in Specific Populations
 
-Renal Impairment
+Pharmacokinetics in Patients with Renal Impairment
 
 In a study performed in 4 subjects with end-stage renal disease (creatinine clearance < 5 mL/min), an intravenous infusion of 3.5 mg/kg of cyclosporine over 4 hours administered at the end of a hemodialysis session resulted in a mean volume of distribution (Vdss) of 3.49 L/kg and systemic clearance (CL) of 0.369 L/hr/kg.
 This systemic CL (0.369 L/hr/kg) was approximately two thirds of the mean systemic CL (0.56 L/hr/kg) of cyclosporine in historical control subjects with normal renal function.
 In 5 liver transplant patients, the mean clearance of cyclosporine on and off hemodialysis was 463 mL/min and 398 mL/min, respectively.
 Less than 1% of the dose of cyclosporine was recovered in the dialysate.
 
-Hepatic Impairment
+Pharmacokinetics in Patients with Hepatic Impairment
 
 Cyclosporine is extensively metabolized by the liver.
 Since severe hepatic impairment may result in significantly increased cyclosporine exposures, the dosage of cyclosporine may need to be reduced in these patients.

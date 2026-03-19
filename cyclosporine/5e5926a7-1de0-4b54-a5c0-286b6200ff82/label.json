@@ -1,7 +1,6 @@
 {
   "application_numbers": [
     "NDA050573",
-    "NDA050574",
     "NDA050625"
   ],
   "inn": "cyclosporine",
@@ -9,7 +8,6 @@
   "package_ndcs": [
     "0078-0109-01",
     "0078-0109-61",
-    "0078-0110-22",
     "0078-0240-15",
     "0078-0240-61",
     "0078-0241-15",
@@ -23,11 +21,6 @@
     },
     {
       "form": "INJECTION",
-      "generic": "cyclosporine",
-      "name": "Sandimmune"
-    },
-    {
-      "form": "SOLUTION",
       "generic": "cyclosporine",
       "name": "Sandimmune"
     }

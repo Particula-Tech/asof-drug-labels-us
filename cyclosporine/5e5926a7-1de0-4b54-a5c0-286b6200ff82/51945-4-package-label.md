@@ -70,32 +70,6 @@ NOVARTIS
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0078-0110-22
-
-50 mL
-
-SANDIMMUNE® Oral Solution
-
-(cyclosporine oral solution, USP)
-
-100 mg/mL
-
-WARNING: Sandimmune® (cyclosporine oral solution, USP) is NOT BIOEQUIVALENT to Neoral® (cyclosporine oral solution, USP) MODIFIED.
-Do NOT use interchangeably without a physician’s supervision.
-
-Each mL contains:
-
-cyclosporine, USP 100 mg
-
-dehydrated alcohol, Ph.
-Helv 12.5%
-
-Rx only
-
-NOVARTIS
-
-# PRINCIPAL DISPLAY PANEL
-
 NDC 0078-0109-01
 
 Sandimmune® Injection

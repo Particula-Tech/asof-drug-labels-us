@@ -22,7 +22,7 @@ If a significant impairment of renal function occurs, reduction in the dosage of
 Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein.
 Various agents are known to either increase or decrease plasma or whole blood concentrations of cyclosporine usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
 Compounds that decrease cyclosporine absorption, such as orlistat, should be avoided.
-Appropriate Sandimmune (cyclosporine) dosage adjustment to achieve the desired cyclosporine concentrations is essential when drugs that significantly alter cyclosporine concentrations are used concomitantly (see DOSAGE AND ADMINISTRATION, Blood Concentration Monitoring).
+Appropriate Sandimmune dosage adjustment to achieve the desired cyclosporine concentrations is essential when drugs that significantly alter cyclosporine concentrations are used concomitantly (see DOSAGE AND ADMINISTRATION, Blood Concentration Monitoring).
 
 1.
 Drugs That Increase Cyclosporine Concentrations
@@ -62,16 +62,16 @@ Drugs/Dietary Supplements ThatDecrease Cyclosporine Concentrations
 
 Bosentan
 
-Coadministration of bosentan (250 to 1000 mg every 12 hours based on tolerability) and cyclosporine (300 mg every 12 hours for 2 days then dosing to achieve a Cmin of 200 to 250 ng/mL) for 7 days in healthy subjects resulted in decreases in the cyclosporine mean dose-normalized AUC, Cmax, and trough concentration of approximately 50%, 30% and 60%, respectively, compared to when cyclosporine was given alone (see also Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents).
-Coadministration of cyclosporine with bosentan should be avoided.
+Concomitant use of bosentan (250 to 1000 mg every 12 hours based on tolerability) and cyclosporine (300 mg every 12 hours for 2 days then dosing to achieve a Cmin of 200 to 250 ng/mL) for 7 days in healthy subjects resulted in decreases in the cyclosporine mean dose-normalized AUC, Cmax, and trough concentration of approximately 50%, 30% and 60%, respectively, compared to when cyclosporine was given alone (see also Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents).
+Concomitant use of cyclosporine with bosentan should be avoided.
 
 Boceprevir
 
-Coadministration of boceprevir (800 mg three times daily for 7 days) and cyclosporine (100 mg single dose) in healthy subjects resulted in increases in the mean AUC and Cmax of cyclosporine approximately 2.7-fold and 2-fold, respectively, compared to when cyclosporine was given alone.
+Concomitant use of boceprevir (800 mg three times daily for 7 days) and cyclosporine (100 mg single dose) in healthy subjects resulted in increases in the mean AUC and Cmax of cyclosporine approximately 2.7-fold and 2-fold, respectively, compared to when cyclosporine was given alone.
 
 Telaprevir
 
-Coadministration of telaprevir (750 mg every 8 hours for 11 days) with cyclosporine (10 mg on Day 8) in healthy subjects resulted in increases in the mean dose-normalized AUC and Cmax of cyclosporine approximately 4.5-fold and 1.3-fold, respectively, compared to when cyclosporine (100 mg single dose) was given alone.
+Concomitant use of telaprevir (750 mg every 8 hours for 11 days) with cyclosporine (10 mg on Day 8) in healthy subjects resulted in increases in the mean dose-normalized AUC and Cmax of cyclosporine approximately 4.5-fold and 1.3-fold, respectively, compared to when cyclosporine (100 mg single dose) was given alone.
 
 St. John’s Wort
 
@@ -91,7 +91,7 @@ Cyclosporine is an inhibitor of CYP3A4 and of multiple drug efflux transporters 
 Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone, HMG-CoA reductase inhibitors (statins) and aliskiren, bosentan, dabigatran, repaglinide, NSAIDs, sirolimus, etoposide, and other drugs.
 
 See the full prescribing information of the other drug for further information and specific recommendations.
-The decision on coadministration of cyclosporine with other drugs or agents should be made by the healthcare provider following the careful assessment of benefits and risks.
+The decision on concomitant use of cyclosporine with other drugs or agents should be made by the healthcare provider following the careful assessment of benefits and risks.
 
 Digoxin
 
@@ -118,12 +118,12 @@ Close monitoring of blood glucose level is advisable for a patient taking cyclos
 
 Ambrisentan
 
-Coadministration of ambrisentan (5 mg daily) and cyclosporine (100 to 150 mg twice daily initially, then dosing to achieve Cmin 150 to 200 ng/mL) for 8 days in healthy subjects resulted mean increases in ambrisentan AUC and Cmax of approximately 2-fold and 1.5-fold, respectively, compared to ambrisentan alone.
-When coadministering ambrisentan with cyclosporine, the ambrisentan dose should not be titrated to the recommended maximum daily dose.
+Concomitant use of ambrisentan (5 mg daily) and cyclosporine (100 to 150 mg twice daily initially, then dosing to achieve Cmin 150 to 200 ng/mL) for 8 days in healthy subjects resulted mean increases in ambrisentan AUC and Cmax of approximately 2-fold and 1.5-fold, respectively, compared to ambrisentan alone.
+When coadministering ambrisentan with cyclosporine, the ambrisentan dose should not be titrated to the recommended maximum daily dosage.
 
 Anthracycline Antibiotics
 
-High doses of cyclosporine (e.g., at starting intravenous dose of 16 mg/kg/day) may increase the exposure to anthracycline antibiotics (e.g., doxorubicin, mitoxantrone, daunorubicin) in cancer patients.
+High dosage of cyclosporine (e.g., at starting intravenous dosage of 16 mg/kg/day) may increase the exposure to anthracycline antibiotics (e.g., doxorubicin, mitoxantrone, daunorubicin) in cancer patients.
 
 Aliskiren
 
@@ -131,19 +131,19 @@ Cyclosporine alters the pharmacokinetics of aliskiren, a substrate of P-glycopro
 In 14 healthy subjects who received concomitantly single doses of cyclosporine (200 mg) and reduced dose aliskiren (75 mg), the mean Cmax of aliskiren was increased by approximately 2.5-fold (90% CI: 1.96 to 3.17) and the mean AUC by approximately 4.3-fold (90% CI: 3.52 to 5.21), compared to when these subjects received aliskiren alone.
 The concomitant administration of aliskiren with cyclosporine prolonged the median aliskiren elimination half-life (26 hours versus 43 to 45 hours) and the Tmax (0.5 hours versus 1.5 to 2.0 hours).
 The mean AUC and Cmax of cyclosporine were comparable to reported literature values.
-Coadministration of cyclosporine and aliskiren in these subjects also resulted in an increase in the number and/or intensity of adverse events, mainly headache, hot flush, nausea, vomiting, and somnolence.
-The coadministration of cyclosporine with aliskiren is not recommended.
+Concomitant use of cyclosporine and aliskiren in these subjects also resulted in an increase in the number and/or intensity of adverse events, mainly headache, hot flush, nausea, vomiting, and somnolence.
+The concomitant use of cyclosporine with aliskiren is not recommended.
 
 Bosentan
 
-In healthy subjects, coadministration of bosentan and cyclosporine resulted in time-dependent mean increases in dose-normalized bosentan trough concentrations (i.e., approximately 21-fold on Day 1 and 2-fold on Day 8 (steady state)) compared to when bosentan was given alone as a single dose on Day 1 (see also Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety).
-Coadministration of cyclosporine with bosentan should be avoided.
+In healthy subjects, concomitant use of bosentan and cyclosporine resulted in time-dependent mean increases in dose-normalized bosentan trough concentrations (i.e., approximately 21-fold on Day 1 and 2-fold on Day 8 (steady state)) compared to when bosentan was given alone as a single dose on Day 1 (see also Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety).
+Concomitant use of cyclosporine with bosentan should be avoided.
 
 Dabigatran
 
 The effect of cyclosporine on dabigatran concentrations had not been formally studied.
 Concomitant administration of dabigatran and cyclosporine may result in increased plasma dabigatran concentrations due to the P-gp inhibitory activity of cyclosporine.
-Coadministration of cyclosporine with dabigatran should be avoided.
+Concomitant use of cyclosporine with dabigatran should be avoided.
 
 Potassium Sparing Diuretics
 
@@ -155,9 +155,9 @@ Nonsteroidal Anti-inflammatory Drug (NSAID) Interactions
 
 Clinical status and serum creatinine should be closely monitored when cyclosporine is used with NSAIDs in rheumatoid arthritis patients (see WARNINGS).
 
-Pharmacodynamic interactions have been reported to occur between cyclosporine and both naproxen and sulindac, in that concomitant use is associated with additive decreases in renal function, as determined by 99mTc-diethylenetriaminepenta acetic acid (DTPA) and (p-aminohippuric acid) PAH clearances.
+Pharmacodynamic interactions have been reported to occur between cyclosporine and both naproxen and sulindac, in that concomitant use is associated with additive decreases in renal function, as determined by 99mTc-diethylenetriaminepenta acetic acid (DTPA) and p-aminohippuric acid (PAH) clearances.
 Although concomitant administration of diclofenac does not affect blood concentrations of cyclosporine, it has been associated with approximate doubling of diclofenac blood levels and occasional reports of reversible decreases in renal function.
-Consequently, the dose of diclofenac should be in the lower end of the therapeutic range.
+Consequently, the dosage of diclofenac should be in the lower end of the therapeutic range.
 
 Methotrexate Interaction
 
@@ -167,9 +167,9 @@ Cyclosporine concentrations do not appear to have been altered (N = 6).
 
 Sirolimus
 
-Elevations in serum creatinine were observed in studies using sirolimus in combination with full-dose cyclosporine.
-This effect is often reversible with cyclosporine dose reduction.
-Simultaneous coadministration of cyclosporine significantly increases blood levels of sirolimus.
+Elevations in serum creatinine were observed in studies using sirolimus in combination with full-dosage cyclosporine.
+This effect is often reversible with cyclosporine dosage reduction.
+Simultaneous concomitant use of cyclosporine significantly increases blood levels of sirolimus.
 To minimize increases in sirolimus blood concentrations, it is recommended that sirolimus be given 4 hours after cyclosporine administration.
 
 Nifedipine
@@ -195,5 +195,3 @@ C. Effect of Cyclosporine on the Efficacy of Live Vaccines
 
 During treatment with cyclosporine, vaccination may be less effective.
 The use of live vaccines should be avoided.
-
-For additional information on Cyclosporine Drug Interactions please contact Novartis Medical Affairs Department at 1-888-NOW-NOVA (1-888-669-6682).
