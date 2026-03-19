@@ -39,13 +39,13 @@ On Day 7, the serum Dapsone levels averaged 2.1 ± 1.0 mcg/mL in comparison to 1
 On Day 7, trimethoprim levels averaged 18.4 ± 5.2 mcg/mL in comparison to 12.4 ± 4.5 mcg/mL for patients not receiving Dapsone.
 Thus, there is a mutual interaction between Dapsone and trimethoprim in which each raises the level of the other about 1.5 times.
 
-A crossover study1 designed to assess the potential of a drug interaction between Dapsone, 100 mg/day and trimethoprim, 200 mg every 12 hours, in eight asymptomatic HIV positive volunteers (average CD4 count 524 cells/mm3) demonstrated that there was not a significant drug interaction between Dapsone and trimethoprim.
-However, an earlier report2 also by Lee et al, in 78 HIV infected patients with acute Pneumocystis carinii pneumonia, receiving Dapsone, 100 mg/day and higher trimethoprim dose, 20 mg/kg/day, demonstrated that the serum levels of Dapsone were increased by 40% and trimethoprim levels were increased by 48% when the drugs were administered concurrently.
+A crossover study 1designed to assess the potential of a drug interaction between Dapsone, 100 mg/day and trimethoprim, 200 mg every 12 hours, in eight asymptomatic HIV positive volunteers (average CD4 count 524 cells/mm 3) demonstrated that there was not a significant drug interaction between Dapsone and trimethoprim.
+However, an earlier report 2also by Lee et al, in 78 HIV infected patients with acute Pneumocystis cariniipneumonia, receiving Dapsone, 100 mg/day and higher trimethoprim dose, 20 mg/kg/day, demonstrated that the serum levels of Dapsone were increased by 40% and trimethoprim levels were increased by 48% when the drugs were administered concurrently.
 
 ## Carcinogenesis, mutagenesis
 
 Dapsone has been found carcinogenic (sarcomagenic) for male rats and female mice causing mesenchymal tumors in the spleen and peritoneum, and thyroid carcinoma in female rats.
-Dapsone is not mutagenic with or without microsomal activation in S. typhimurium tester strains 1535, 1537, 1538, 98, or 100.
+Dapsone is not mutagenic with or without microsomal activation in S. typhimuriumtester strains 1535, 1537, 1538, 98, or 100.
 
 ## Pregnancy
 

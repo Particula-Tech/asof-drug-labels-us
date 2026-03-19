@@ -7,7 +7,7 @@ The majority can be classified into two groups.
 
 The "Reversal" reaction (Type 1) may occur in borderline or tuberculoid leprosy patients often soon after chemotherapy is started.
 The mechanism is presumed to result from a reduction in the antigenic load: the patient is able to mount an enhanced delayed hypersensitivity response to residual infection leading to swelling ("Reversal") of existing skin and nerve lesions.
-If severe, or if neuritis is present, large doses of steroids should always be used.
+If severe, or if neuritis is present, large doses of steroids should alwaysbe used.
 If severe, the patient should be hospitalized.
 In general anti-leprosy treatment is continued and therapy to suppress the reaction is indicated such as analgesics, steroids, or surgical decompression of swollen nerve trunks.
 USPHS at Carville, LA should be contacted for advice in management.
