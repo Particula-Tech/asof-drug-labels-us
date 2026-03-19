@@ -4,7 +4,7 @@ NDC 0378-0014-01
 
 Methotrexate Tablets, USP 2.5 mg
 
-PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
+PHARMACIST: Dispense the Patient Information.
 
 Caution: Cytotoxic Agent
 
@@ -32,6 +32,6 @@ Made in Germany
 
 Mylan.com
 
-RHPT0014A3
+RHPT0014AX
 
-51756745-03/24
+XXXXXXXX-XX/XX
