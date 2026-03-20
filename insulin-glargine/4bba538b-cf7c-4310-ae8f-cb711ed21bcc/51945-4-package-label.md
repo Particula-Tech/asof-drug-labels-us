@@ -10,4 +10,4 @@ Solution for injection in a SoloStar® disposable insulin delivery device Never 
 
 Five 3 mL prefilled pens (15 mL total) – Dispense in this sealed carton *Needles not included (see back panel)
 
-SANOFI
+sanofi

@@ -122,3 +122,24 @@ Ramipril
 After concomitant administration of lixisenatide 20 mcg and ramipril 5 mg for 6 days, the AUC of ramipril was increased by 21% while the Cmax was decreased by 63%.
 The AUC and Cmax of the active metabolite (ramiprilat) were not affected.
 The tmax of ramipril and ramiprilat were delayed by approximately 2.5 hours.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of SOLIQUA 100/33 or of other lixisenatide and insulin glargine products.
+
+SOLIQUA 100/33
+
+After 30 weeks of treatment with SOLIQUA 100/33 in two phase 3 trials, the incidence of formation of anti-insulin glargine antibodies was 21.0% and 26.2%.
+In approximately 93% of the patients, anti-insulin glargine antibodies showed cross-reactivity to human insulin.
+The incidence of formation of anti-lixisenatide antibodies was approximately 43%.
+
+Lixisenatide
+
+In the pool of 9 placebo-controlled studies, 70% of patients exposed to lixisenatide tested positive for anti-lixisenatide antibodies during the trials.
+In the subset of patients (2.4%) with the highest antibody concentrations (>100 nmol/L), an attenuated glycemic response was observed.
+A higher incidence of allergic reactions and injection-site reactions occurred in antibody positive patients [see Warnings and Precautions (5.9)].
+
+Anti-lixisenatide antibody characterization studies have demonstrated the potential for development of antibodies cross-reactive with endogenous GLP-1 and glucagon, but their incidence has not been fully determined and the clinical significance of these antibodies is not currently known.
+
+No information regarding the presence of neutralizing antibodies is currently available.

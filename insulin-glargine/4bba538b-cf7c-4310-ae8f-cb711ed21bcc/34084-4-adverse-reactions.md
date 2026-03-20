@@ -70,6 +70,7 @@ Symptoms such as hypotension, laryngeal edema or severe bronchospasm could be pr
 More cases adjudicated as meeting the definition for anaphylaxis occurred in lixisenatide-treated patients (incidence rate of 0.2% or 16 cases per 10,000 patient years) than placebo-treated patient (incidence rate of 0.1% or 7 cases per 10,000 patient years).
 
 Allergic reactions (such as anaphylactic reaction, angioedema, and urticaria) adjudicated as possibly related to the study medication were observed more frequently in lixisenatide-treated patients (0.4%) than placebo-treated patients (0.2%) [see Warnings and Precautions (5.1)].
+A higher incidence of allergic reactions occurred in anti-lixisenatide antibody positive patients [see Warnings and Precautions (5.7) and Clinical Pharmacology (12.6)].
 
 Insulin glargine
 
@@ -90,6 +91,8 @@ Injection-Site Reactions
 As with any insulin or GLP-1 receptor agonist–containing product, patients taking SOLIQUA 100/33 may experience injection-site reactions, including injection-site hematoma, pain, hemorrhage, erythema, nodules, swelling, discoloration, pruritus, warmth, and injection-site mass.
 In the clinical program the proportion of injection-site reactions occurring in patients treated with SOLIQUA 100/33 was 1.7%.
 
+A higher incidence of injection site reactions occurred in anti-lixisenatide antibody positive patients [see Warnings and Precautions (5.7) and Clinical Pharmacology (12.6)].
+
 Insulin Initiation and Intensification of Glucose Control
 
 Intensification or rapid improvement in glucose control has been associated with a transitory, reversible ophthalmologic refraction disorder, worsening of diabetic retinopathy, and acute painful peripheral neuropathy.
@@ -103,30 +106,7 @@ Weight Gain
 
 Weight gain can occur with insulin-containing products, including SOLIQUA 100/33, and has been attributed to the anabolic effects of insulin.
 
-## 6.2 Immunogenicity
-
-SOLIQUA 100/33
-
-As with all therapeutic proteins, there is potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to SOLIQUA 100/33 in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
-
-After 30 weeks of treatment with SOLIQUA 100/33 in two phase 3 trials, the incidence of formation of anti-insulin glargine antibodies was 21.0% and 26.2%.
-In approximately 93% of the patients, anti-insulin glargine antibodies showed cross-reactivity to human insulin.
-The incidence of formation of anti-lixisenatide antibodies was approximately 43%.
-
-Lixisenatide
-
-In the pool of 9 placebo-controlled studies, 70% of patients exposed to lixisenatide tested positive for anti-lixisenatide antibodies during the trials.
-In the subset of patients (2.4%) with the highest antibody concentrations (>100 nmol/L), an attenuated glycemic response was observed.
-A higher incidence of allergic reactions and injection-site reactions occurred in antibody positive patients [see Warnings and Precautions (5.9)].
-
-Anti-lixisenatide antibody characterization studies have demonstrated the potential for development of antibodies cross-reactive with endogenous GLP-1 and glucagon, but their incidence has not been fully determined and the clinical significance of these antibodies is not currently known.
-
-No information regarding the presence of neutralizing antibodies is currently available.
-
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following additional adverse reactions have been identified during post approval use.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -134,11 +114,11 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Insulin glargine:
 
 Localized cutaneous amyloidosis at the injection site has occurred with insulins.
-Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site;
+Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.
 
 Lixisenatide:
 
-Gastrointestinal: acute pancreatitis, hemorrhagic and necrotizing pancreatitis, ileus
+Gastrointestinal: acute pancreatitis, hemorrhagic and necrotizing pancreatitis, ileus, intestinal obstruction, severe constipation including fecal impaction
 
 Hepatobiliary: cholecystitis, cholelithiasis requiring cholecystectomy
 

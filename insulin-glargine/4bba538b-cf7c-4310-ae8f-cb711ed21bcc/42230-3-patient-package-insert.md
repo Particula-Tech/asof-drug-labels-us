@@ -252,7 +252,7 @@ Throwing your pen away
   There may be state or local laws about how you should throw away used needles and syringes.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.
 
-Manufactured by: sanofi-aventis U.S. LLC Morristown, NJ 07960 A SANOFI COMPANY U.S. License No. 1752
+Manufactured by: sanofi-aventis U.S. LLC Morristown, NJ 07960A SANOFI COMPANY U.S. License No. 1752
 
 ©2025 sanofi-aventis U.S. LLC
 
@@ -260,4 +260,4 @@ SOLIQUA and SoloStar are registered trademarks of sanofi-aventis U.S. LLC.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: July 2025
+Revised: May 2025

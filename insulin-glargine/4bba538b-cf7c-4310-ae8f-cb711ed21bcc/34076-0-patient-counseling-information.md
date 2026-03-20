@@ -9,7 +9,7 @@ If symptoms of hypersensitivity reactions occur, instruct patients to stop takin
 
 Acute Pancreatitis
 
-Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by vomiting.
+Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by nausea or vomiting.
 Instruct patients to discontinue SOLIQUA 100/33 promptly and contact their physician if pancreatitis is suspected [see Warnings and Precautions (5.2)].
 
 Never Share SOLIQUA 100/33 Prefilled Pen Between Patients

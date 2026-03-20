@@ -14,7 +14,7 @@ If a hypersensitivity reaction occurs, the patient should discontinue SOLIQUA 10
 
 Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists [see Adverse Reactions (6)].
 
-After initiation of SOLIQUA 100/33, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
+After initiation of SOLIQUA 100/33, observe patients carefully for signs and symptoms of acute pancreatitis which may include persistent or severe abdominal pain (sometimes radiating to the back) and which may or may not be accompanied by nausea or vomiting.
 If pancreatitis is suspected, discontinue SOLIQUA 100/33 and initiate appropriate management.
 
 ## 5.3 Never Share a SOLIQUA 100/33 Prefilled Pen Between Patients
@@ -70,13 +70,15 @@ The long-acting effect of insulin glargine may delay recovery from hypoglycemia.
 
 ## 5.7 Acute Kidney Injury Due to Volume Depletion
 
-There have been postmarketing reports of acute kidney injury, in some cases requiring hemodialysis, in patients treated with GLP-1 receptor agonists [see Adverse Reactions (6.3)].
+There have been postmarketing reports of acute kidney injury, in some cases requiring hemodialysis, in patients treated with GLP-1 receptor agonists [see Adverse Reactions (6.2)].
 The majority of the reported events occurred in patients who experienced gastrointestinal reactions leading to dehydration such as nausea, vomiting, or diarrhea [see Adverse Reactions (6.1)].
-Monitor renal function in patients reporting adverse reactions to SOLIQUA 100/33 that could lead to volume depletion, especially during dosage initiation and escalation of SOLIQUA 100/33.SOLIQUA 100/33 is not recommended in patients with end-stage renal disease [see Use in Specific Populations (8.6)].
+Monitor renal function in patients reporting adverse reactions to SOLIQUA 100/33 that could lead to volume depletion, especially during dosage initiation and escalation of SOLIQUA 100/33.
+SOLIQUA 100/33 is not recommended in patients with end-stage renal disease [see Use in Specific Populations (8.6)].
 
 ## 5.8 Severe Gastrointestinal Adverse Reactions
 
-Use of GLP-1 receptor agonists, including SOLIQUA 100/33, has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6.)].
+Use of GLP-1 receptor agonists, including SOLIQUA 100/33, has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6)].
+Severe gastrointestinal adverse reactions have also been reported postmarketing with GLP-1 receptor agonists.
 SOLIQUA 100/33 is not recommended in patients with severe gastroparesis.
 
 ## 5.9 Immunogenicity
@@ -84,7 +86,7 @@ SOLIQUA 100/33 is not recommended in patients with severe gastroparesis.
 Patients may develop antibodies to insulin and lixisenatide following treatment.
 A pooled analysis of studies of lixisenatide-treated patients showed that 70% were antibody positive at Week 24.
 In the subset of patients (2.4%) with the highest antibody concentrations (>100 nmol/L), an attenuated glycemic response was observed.
-A higher incidence of allergic reactions and injection-site reactions occurred in antibody positive patients [see Warnings and Precautions (5.1), Adverse Reactions (6.2)].
+A higher incidence of allergic reactions and injection-site reactions occurred in antibody positive patients [see Warnings and Precautions (5.1), Clinical Pharmacology (12.6)].
 
 If there is worsening glycemic control or failure to achieve targeted glycemic control, significant injection-site reactions or allergic reactions, alternative antidiabetic therapy should be considered.
 
