@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA018342"
+  ],
+  "inn": "leucovorin",
+  "labeler": "GlaxoSmithKline LLC",
+  "package_ndcs": [
+    "0173-0631-20",
+    "0173-0631-35",
+    "0173-0631-55",
+    "0173-0632-13",
+    "0173-0632-25"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "leucovorin",
+      "name": "Wellcovorin"
+    }
+  ],
+  "setid": "6fc53cb8-739d-4c0d-b928-5103abcb4f73",
+  "source": "dailymed"
+}
