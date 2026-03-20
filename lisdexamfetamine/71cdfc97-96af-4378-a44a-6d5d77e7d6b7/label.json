@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA219847"
+  ],
+  "inn": "lisdexamfetamine",
+  "labeler": "Azurity Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24338-019-01",
+    "24338-103-01",
+    "24338-109-01",
+    "24338-160-01",
+    "24338-162-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "lisdexamfetamine dimesylate oral",
+      "name": "ARYNTA"
+    }
+  ],
+  "setid": "71cdfc97-96af-4378-a44a-6d5d77e7d6b7",
+  "source": "dailymed"
+}
