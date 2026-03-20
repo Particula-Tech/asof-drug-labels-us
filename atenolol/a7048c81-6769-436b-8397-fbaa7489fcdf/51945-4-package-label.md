@@ -20,15 +20,15 @@ Store at 20° to 25°C (68° to 77°F).
 Usual Dosage: One tablet daily or as directed by physician.
 See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-Mylan.com
+Vaitris.com
 
-3385/0
+3385/1
 
-RALP0218A
+RALP0218A1
 
 # PRINCIPAL DISPLAY PANEL – 50 mg
 
@@ -52,15 +52,15 @@ Store at 20° to 25°C (68° to 77°F).
 Usual Dosage: One tablet daily or as directed by physician.
 See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-Mylan.com
+Viatris.com
 
-3387/0
+3387/1
 
-RALP0231A
+RALP0231A1
 
 # PRINCIPAL DISPLAY PANEL – 100 mg
 
@@ -84,12 +84,12 @@ Store at 20° to 25°C (68° to 77°F).
 Usual Dosage: One tablet daily or as directed by physician.
 See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-Mylan.com
+Viatris.com
 
-3389/0
+3389/1
 
-RALP0757A
+RALP0757A1

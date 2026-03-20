@@ -103,4 +103,4 @@ Patients should be closely monitored following cessation of therapy.
 The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with atenolol tablets.
 Furthermore, a number of patients who had previously demonstrated established practolol reactions were transferred to atenolol tablets therapy with subsequent resolution or quiescence of the reaction.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Mylan at 1-877-446-3679 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch for voluntary reporting of adverse reactions.
+To report SUSPECTED ADVERSE REACTIONS, contact Viatris at 1-877-446-3679 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch for voluntary reporting of adverse reactions.
