@@ -16,7 +16,7 @@ For Intravenous Infusion Only
 
 Ready to Use.
 
-Single-Dose Only - Discard unused portion.
+Single-dose container - Discard unused portion.
 
 Not for Ophthalmic Use.
 
@@ -41,7 +41,7 @@ Baxter Manufactured for: Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Made in Ireland
 
-EZPE8835 CB-35-05-612
+EZPE8835 CB-35-05-679
 
 DO NOT USE THIS PORT
 
@@ -67,7 +67,7 @@ For Intravenous Infusion Only
 
 Ready to Use.
 
-Single-Dose Only - Discard unused portion.
+Single-dose container - Discard unused portion.
 
 Not for Ophthalmic Use.
 
@@ -91,6 +91,6 @@ Baxter Manufactured for: Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Made in Ireland
 
-EZPE8835 CB-10-01-260
+EZPE8835 CB-10-01-264
 
 (See Solution Container for Lot and Exp)
