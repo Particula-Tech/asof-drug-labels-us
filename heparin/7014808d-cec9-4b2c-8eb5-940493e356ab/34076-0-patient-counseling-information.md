@@ -15,8 +15,6 @@ Necrosis of the skin has been reported at the site of subcutaneous injection of 
 
 Other Medications Because of the risk of hemorrhage, advise patients to inform their physicians and dentists of all medications they are taking, including non-prescription medications, and before starting any new medication [see Drug Interactions (7.1)].
 
-Manufactured by: Hikma Pharmaceuticals USA Inc. Eatontown, NJ 07724 USA
+Manufactured by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised February 2020
-
-462-274-16
+462-274-18

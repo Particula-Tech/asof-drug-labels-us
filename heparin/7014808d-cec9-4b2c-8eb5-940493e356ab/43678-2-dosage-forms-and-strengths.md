@@ -5,8 +5,6 @@ Heparin Sodium Injection, USP preserved with benzyl alcohol is available as foll
 - 1,000 USP units/mL single-dose vials
 - 5,000 USP units/mL single-dose vials
 - 10,000 USP units/mL single-dose vials
-- 30,000 USP units per 30 mL (1,000 USP units/mL) multiple-dose vials
-- 50,000 USP units per 10 mL (5,000 USP units/mL) multiple-dose vials
 
 Heparin Sodium Injection, USP preservative-free is available as follows:
 
