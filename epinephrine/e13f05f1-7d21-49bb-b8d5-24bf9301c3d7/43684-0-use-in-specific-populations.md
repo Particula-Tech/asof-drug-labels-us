@@ -4,23 +4,20 @@
 
 Risk Summary
 
-There are no available human data on the use of epinephrine injection in pregnant women to inform a drug-associated risk of adverse developmental outcomes.
-In animal reproduction studies, epinephrine administered by the subcutaneous route to rabbits, mice, and hamsters during the period of organogenesis was teratogenic at doses 7 times and higher than the maximum recommended daily subcutaneous or intramuscular dose on a mg/m2 basis (see Data).
-Epinephrine is the first-line medication of choice for the treatment of anaphylaxis during pregnancy in humans.
-Epinephrine should be used for treatment of anaphylaxis during pregnancy in the same manner as it is used in non-pregnant patients.
+Prolonged experience with epinephrine use in pregnant women over several decades, based on published literature, have not identified a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
+There are risks to the mother and fetus associated with anaphylaxis, and treatment with epinephrine should not be delayed (see Clinical Considerations).
+In animal reproduction studies, epinephrine administered by the subcutaneous route to pregnant rabbits, mice, and hamsters, during the period of organogenesis was teratogenic at doses 7 times and higher than the maximum recommended human intramuscular and subcutaneous dose on a mg/m2 basis (see Data).
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
-Disease-associated maternal and embryo/fetal risk:
+Disease-Associated Maternal and Embryo/Fetal Risk:
 
 During pregnancy, anaphylaxis can be catastrophic and can lead to hypoxic-ischemic encephalopathy and permanent central nervous system damage or death in the mother and, more commonly, in the fetus or neonate.
-The prevalence of anaphylaxis occurring during pregnancy is reported to be approximately 3 cases per 100,000 deliveries.
-
-Management of anaphylaxis during pregnancy is similar to management in the general population.
-Epinephrine is the first line-medication of choice for treatment of anaphylaxis; it should be used in the same manner in pregnant and non-pregnant patients.
-In conjunction with the administration of epinephrine, the patient should seek immediate medical or hospital care.
+Treatment of anaphylaxis during pregnancy should not be delayed.
 
 Data
 
@@ -37,17 +34,21 @@ In an embryofetal development study with hamsters dosed during the period of org
 
 Risk Summary
 
-There are no data on the presence of epinephrine in human milk, or the effects of epinephrine on the breastfed infant or on milk production.
-Epinephrine is the first line-medication of choice for treatment of anaphylaxis; it should be used in the same manner in breastfeeding and no-breastfeeding patients.
+There is no information on the presence of epinephrine in human milk, the effects on the breastfed infants, or the effects on milk production.
+However, due to its poor oral bioavailability and short half-life, transfer of epinephrine into breastmilk is expected to be low.
+Treatment of anaphylaxis in breastfeeding patients should not be delayed.
 
 ## 8.4 Pediatric Use
 
-Epinephrine injection may be administered to pediatric patients at a dosage appropriate to body weight [see Dosage and Administration (2.1)].
-Clinical experience with the use of epinephrine suggests that the adverse reactions seen in children are similar in nature and extent to those both expected and reported in adults.
-Since the dose of epinephrine delivered from epinephrine injection is fixed, consider using other forms of injectable epinephrine if doses lower than 0.15 mg are deemed necessary.
+The safety and effectiveness of Epinephrine Injection for the emergency treatment of type I allergic reactions, including anaphylaxis have been established in pediatric patients who weigh 15 kg or greater.
+The use of Epinephrine Injection for this indication is supported by clinical experience.
+Clinical experience with the use of epinephrine suggests that the adverse reactions seen in pediatric patients are similar in nature and extent to those both expected and reported in adults.
+Since the doses of epinephrine delivered from Epinephrine Injection are fixed, use other forms of injectable epinephrine if doses lower than 0.15 mg are deemed necessary.
+
+The safety and effectiveness of Epinephrine Injection have not been established in pediatric patients who weigh less than 15 kg.
 
 ## 8.5 Geriatric Use
 
-Clinical studies for the treatment of anaphylaxis have not been performed in subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of Epinephrine Injection for emergency treatment of type I allergic reactions, including anaphylaxis, were not conducted in geriatric patients aged 65 and over to determine whether they respond differently from younger adult patients.
 However, other reported clinical experience with use of epinephrine for the treatment of anaphylaxis has identified that geriatric patients may be particularly sensitive to the effects of epinephrine.
-Therefore, epinephrine injection should be administered with caution in elderly individuals, who may be at greater risk for developing adverse reactions after epinephrine administration [see Warnings and Precautions (5.5) and Overdosage (10)].
+Therefore, these patients may be at greater risk for developing adverse reactions after epinephrine administration.

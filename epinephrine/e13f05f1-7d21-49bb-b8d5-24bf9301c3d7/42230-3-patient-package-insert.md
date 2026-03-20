@@ -1,228 +1,39 @@
 # PATIENT INFORMATION
 
-EPINEPHRINE injection (ep-in-eph-rine),
+| PATIENT INFORMATIONEPINEPHRINE injection (ep″ i nef′ rin),for intramuscular or subcutaneous useEpinephrine Injection USP, 0.3 mgEach Epinephrine Injection USP, 0.3 mg delivers a single dose of 0.3 mg epinephrine USP, in 0.3 mL (0.3 mg/0.3 mL)Epinephrine Injection USP, 0.15 mg Each Epinephrine Injection USP, 0.15 mg delivers a single dose of 0.15 mg epinephrine USP, in 0.15 mL (0.15 mg/0.15 mL)For allergic emergencies (anaphylaxis) |
+| --- |
+| Read this Patient Information leaflet carefully before you use Epinephrine Injection and each time you get a refill. There may be new information. You, your parent, caregiver, or others who may be able to administer Epinephrine Injection should know how to use it before you have an allergic emergency. This information does not take the place of talking with your healthcare provider about your medical condition or your treatment. |
+| What is the most important information I should know aboutEpinephrine Injection? 1. Epinephrine Injection is a medicine used to treat allergic emergencies (anaphylaxis). Anaphylaxis can be life-threatening and can happen within minutes. If untreated, anaphylaxis can lead to death. Allergic emergencies may be caused by stinging and biting insects, allergy injections, foods, medicines, exercise, or other unknown causes. Symptoms of anaphylaxis may include: trouble breathingwheezinghoarseness (changes in the way your voicesounds)hives (raised reddened rash that may itch)severe itchingswelling of your face, lips, mouth, or tongueskin rash, redness, or swellingfast heartbeatweak pulsefeeling very anxiousconfusionstomach painlosing control of urine or bowel movements (incontinence)diarrhea or stomach crampsdizziness, fainting, or “passing out” (unconsciousness) 2. It is recommended that people are prescribed and have immediate access to 2 Epinephrine Injection devices at all times. Sometimes a single dose of epinephrine may not be enough to treat a serious allergic reaction before seeking emergency medical help. You should also have immediate access to 2 Epinephrine Injection devices in case the first device is activated before the dose can be given. A device that has been activated accidentally cannot be used to treat an allergic emergency (anaphylaxis).Note: Epinephrine Injection has been activated if you see the needle sticking out of the red needle end and the viewing window is blocked.You may not know when an allergic emergency (anaphylaxis) will happen.Talk to your healthcare provider if you need additional Epinephrine Injection devices to keep at work, school, or other locations. If you use 1 Epinephrine Injection device to treat an emergency allergic reaction, be sure to replace it so you always have immediate access to 2 devices. Tell your family members, caregivers, and others where you keep your Epinephrine Injection. Make sure they know how to use it before you need it. You may be unable to speak in an allergic emergency. 3. When you have an allergic emergency (anaphylaxis) use Epinephrine Injection right away. Get emergency medical help for further treatment of the allergic emergency (anaphylaxis), if needed, after using Epinephrine Injection. Before you receive Epinephrine Injection, your healthcare provider should talk to you about when to get emergency help. If symptoms do not improve or if they worsen after the first dose, or you accidentally inject Epinephrine Injection intothe fingers, toes, hands or feet, a second dose of Epinephrine Injection may be administered with a second auto-injector starting 5 minutes after the first dose. If more than 2 doses are needed for an allergic emergency, they must be given by a healthcare provider. |
+| What isEpinephrine Injection? Epinephrine Injection is a medicine used to treat life-threatening allergic emergencies (anaphylaxis). It is delivered using a disposable, prefilled automatic injection device (auto-injector). Each auto-injector contains a single dose of epinephrine. Epinephrine Injection is for immediate administration by you or your caregiver. Get emergency medical help, if needed, after using Epinephrine Injection. Your healthcare provider should talk to you about when to get emergency help.Epinephrine Injection is for people who have been prescribed this medicine by their healthcare provider. The Epinephrine Injection 0.3 mg auto-injector is for people who weigh 66 pounds or greater. The Epinephrine Injection 0.15 mg auto-injector is for people who weigh 33 pounds to less than 66 pounds. It is not known if Epinephrine Injection is safe and effective in children who weigh less than 33 pounds. |
+| What should I tell my healthcare provider before using Epinephrine Injection?Before you use Epinephrine Injection, tell your healthcare provider about all your medical conditions. Your healthcare provider may give you more instructions about when and how to use your Epinephrine Injection if you have the following: heart problems or high blood pressure diabetes thyroid problems asthma a history of depression Parkinson’s disease kidney (renal) problems You may also receive more instructions if you:are pregnant or plan to become pregnant. It is not known if epinephrine will harm your unborn baby. are breastfeeding or plan to breastfeed. It is not known if epinephrine passes into your breast milk. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements. Also tell your healthcare provider about all known allergies. Some medicines may increase or decrease the effects of epinephrine, and epinephrine may affect how other medicines work. Know the medicines you take. Keep a list of all your medicines, including over-the-counter medicines, vitamins and herbal supplements to show your healthcare provider and pharmacist when you get a new medicine. Use your Epinephrine Injection for treatment of anaphylaxis as prescribed by your healthcare provider, regardless of your medical conditions or the medicine you take. |
+| How should I useEpinephrine Injection? Use your single-dose Epinephrine Injection exactly as your healthcare provider tells you to use it.When you have an allergic emergency (anaphylaxis), use Epinephrine Injection right away. Get emergency medical help, if needed, after using Epinephrine Injection.You may need to use a second Epinephrine Injection if symptoms continue or come back after the first dose. A second dose may be administered starting 5 minutes after the first dose while you wait for emergency medical help, or if the first Epinephrine Injection is activated before the dose can be given. If you need more than 2 doses of epinephrine for a single anaphylaxis episode, additional doses must be given by a healthcare provider. Epinephrine Injection should only be injected into the middle of the outer thigh (upper leg). It can be injected through clothing if needed. Do not inject into a vein, buttocks, fingers, toes, hands or feet.If Epinephrine Injection is injected into the fingers, toes, hands or feet, administer a second dose of Epinephrine Injection into the middle of the outer thigh (upper leg). If symptoms worsen or persist, go immediately to the nearest emergency room for further treatment of anaphylaxis.Read and make sure you understand the Instructions for Use for information about the correct way to use Epinephrine Injection. Your healthcare provider will show you how to safely use Epinephrine Injection. It is very important that you hold Epinephrine Injection firmly against the middle of the outer thigh (upper leg) for a full 10 seconds. If you do not hold it in place long enough, Epinephrine Injection may not deliver the full dose of medicine.Caution: Never put your thumb, fingers, or hand over the red needle end. Never press or push the red needle end with your thumb, fingers, or hand.The needle comes out of the red needle end. Accidental injection into the fingers, hands, or feet may cause a loss of blood flow to those areas. If this happens, give a second dose of Epinephrine Injection into the middle of the outer thigh (upper leg) and go immediately to the nearest emergency room. Tell the healthcare provider where on your body the injection occurred. Warning: After the device is activated, the needle does not retract back into the device. After use, carefully place the used auto-injector into the carrier tube, if possible, and throw away (dispose of) it properly as directed.See the Instructions for Use for detailed information on how to safely handle and throw away (dispose of) the used auto-injector.Epinephrine Injection is packaged in a carton containing 2 Epinephrine Injections auto-injectors, each in an individual carrier tube.Do not drop the carrier tube or Epinephrine Injection. If the carrier tube or Epinephrine Injection is dropped, check for damage or leakage. Throw away (dispose of) and replace Epinephrine Injection if damage or leakage is noticed or suspected.You may request a separate Trainer at www.epinephrineautoinject.com. The epinephrine injection Trainer has a beige color. The beige epinephrine injection Trainer contains no medicine and no needle. Practice using the Trainer before an allergic emergency occurs so you know how to use Epinephrine Injection correctly. Always carry your real Epinephrine Injection, USP auto-injector with you in case of an allergic emergency. |
+| What are the possible side effects ofEpinephrine Injection? Epinephrine Injection may cause serious side effects. Injection-related complications Epinephrine Injection should only be injected into the middle of your outer thigh (upper leg). Do not inject Epinephrine Injection into a vein, buttocks, fingers, toes, hands, or feet. If you accidentally inject Epinephrine Injection into any other part of your body, administer a second dose of Epinephrine Injection into the middle of the outer thigh (upper leg) and go to the nearest emergency room right away. Tell the healthcare provider where on your body the injection occurred. Serious infections at the injection site Rarely, people who have used Epinephrine Injection may develop serious skin and soft tissue infections at the injection site within a few days after injection. Call your healthcare provider right away if you notice any of the following at the injection site: o redness that does not go awayo swellingo tendernesso warmth at the injection siteOther side effectsIf you have certain medical conditions, or take certain medicines, your condition may get worse or you may have more or longer lasting side effects when you use Epinephrine Injection. Talk to your healthcare provider about all of your medical conditions. Common side effects of Epinephrine Injection include: fast, irregular or “pounding” heartbeatsweatingheadacheweaknessshakinesspalenessfeelings of excitement, nervousness or anxietydizziness·nausea or vomitingbreathing problems These side effects may go away with rest. Tell your healthcare provider if you have any side effect that bothers you or that does not go away. These are not all the possible side effects of Epinephrine Injection. For more information, ask your healthcare provider or pharmacist. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. You may also report side effects to Amneal Pharmaceuticals LLC at 1-877-835-5472. |
+| How should I storeEpinephrine Injection? Store Epinephrine Injection at room temperature between 68°F to 77°F (20°C to 25°C).Keep Epinephrine Injection in the individual carrier tube provided to protect it from light and damage. The carrier tube is not waterproof.Do not expose Epinephrine Injection to extreme heat or cold. For example, do not store in your vehicle’s glove box and do not store it in the refrigerator or freezer. Periodically examine the solution through the viewing window of your Epinephrine Injection. The solution should be clear and colorless. Replace Epinephrine Injectionif the solution appears discolored (pinkish or brown), cloudy, or contains particles.The blue needle shield cap and blue end cap helps to prevent accidental injection. Do not remove the blue needle shield cap or blue end caps until you are ready to use Epinephrine Injection. After the auto-injector is used, throw away the blue end caps immediately, as they may pose a choking hazard for young children.Keep Epinephrine Injection and all medicines out of the reach of children.Disposing of an Expired, Unused or Used Epinephrine InjectionYour Epinephrine Injection has an expiration date. Replace it before the expiration date.Throw away (dispose of) expired, unwanted, or unused Epinephrine Injections in an FDA-cleared sharps disposal container. Do not throw away Epinephrine Injection in your household trash. If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: Made of heavy-duty plastic,Can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,Upright and stable during use,Leak-resistant, andProperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, follow your community guidelines for proper disposal. There may be state or local laws about how you should dispose of used needles and syringes. For more information about safe sharps disposal, visit the FDA website at www.fda.gov/safesharpsdisposal. |
+| General information about the safe and effective use of Epinephrine Injection:Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use Epinephrine Injection for a condition for which it was not prescribed. Do not give Epinephrine Injection to other people. This Patient Information leaflet summarizes the most important information about Epinephrine Injection. If you would like more information, talk to your healthcare provider. You can ask your pharmacist or healthcare provider for information about Epinephrine Injection that is written for health professionals. For more information and video instructions on the use of Epinephrine Injection, go to www.epinephrineautoinject.com or call 1-877-835-5472. |
+| What are the ingredients inEpinephrine Injection?Active Ingredient: epinephrine Inactive Ingredients: sodium chloride, chlorobutanol, sodium bisulfite, hydrochloric acid, sodium hydroxide, and water. |
+| Important Information TheEpinephrine Injection, 0.3 mg auto-injector has a yellow-colored label. The Epinephrine Injection, 0.15 mg auto-injector has an orange-colored label. The Epinephrine Injection Trainer has a beige color, and contains no medicine and no needle. Your Epinephrine Injection is designed to work through clothing. The blue needle shield cap and the blue end cap on Epinephrine Injection help to prevent accidental injection of the device. Do not remove the blue needle shield cap and blue end caps until you are ready to use it. Choking hazard: The blue needle shield cap and blueend caps are small parts that may become a choking hazard for children. Throw away the blue end caps immediately after use.Only inject into the middle of the outer thigh (upper leg). Never inject into any other part of the body. Never put your thumb, fingers, or your hand over the red needle end. The needle comes out of the red needle end. If an accidental injection happens, get medical help right away. Do not place patient information or any other foreign objects in carrier with the auto-injector, as this may prevent you from removing Epinephrine Injection for use. |
 
-for intramuscular or subcutaneous use
+Incorrect Use and Correct Use of Epinephrine Injection
 
-For allergic emergencies (anaphylaxis)
+| Incorrect Use | Correct Use and Important Reminders |
+| --- | --- |
+| Storing Epinephrine Injection outside the carrier tube. | Always keep Epinephrine Injection stored in the individual carrier tube provided to protect it from light and damage. The carrier tube is not waterproof. |
+| Storing of the Epinephrine Injection outside of the recommended storage conditions. | Always keep your Epinephrine Injection stored at room temperature (68°F to 77°F / 20°C to 25°C). |
+| Failing to remove the Epinephrine Injection from the carrier tube before use. | Remove Epinephrine Injection from the carrier tube before use. |
+| Failing to remove both the blue caps in proper sequence before use. | Before use, remove the blue needle shield cap first to expose the red needle end. Then remove the blue end cap. |
+| Failing to remove both blue caps before use. | Epinephrine Injection will not activate or deliver the dose if both blue caps are not removed. |
+| Failing to remove the blue caps in the proper order. | Removing the blue caps in the incorrect order may cause premature activation of Epinephrine Injection. |
+| Failing to remove the blue needle shield cap properly, resulting in the needle sheath remaining in place. | Pull off the blue needle shield cap by grasping the ribbed area and pulling straight off until the red needle end is visible. Do not squeeze the non-ribbed area. |
+| Activating Epinephrine Injection upside down, resulting in injection into the hand. | The needle exits from the red needle end, which must be placed against the middle of the outer thigh (upper leg) at a 90˚ angle (perpendicular) before and during activation. |
+| Failing to apply enough force to activate Epinephrine Injection. | Press down hard and hold Epinephrine Injection firmly against the outer thigh at a 90˚ angle for 10 seconds. Do not swing or jab the device. |
+| Expecting an audible click to confirm activation. | You may or may not hear a sound when the injection starts. |
+| Assuming the dose was not delivered because liquid remains in the device. | It is normal for most of the medicine to remain in the auto-injector after the dose is delivered. The dose has been delivered if the needle is visible after use. |
+| Administering at an injection site other than the outer thigh. | Inject Epinephrine Injection only into the middle of the outer thigh (upper leg). |
+| Removing the device at an angle, causing needle bending. | Place the red needle end against the thigh at a 90° angle (perpendicular), press down firmly, and remove the device straight out at a 90° angle after injection. |
+| Failing to hold Epinephrine Injection in place long enough. | Hold Epinephrine Injection firmly in place for a full 10 seconds to ensure dose delivery. |
+| Failing to locate the expiration date. | Remove Epinephrine Injection from the carrier tube. The expiration date is located on the auto-injector label. |
 
-Read this Patient Information leaflet carefully before you use epinephrine injection and each time you get a refill.
-There may be new information.
-You, your parent, caregiver, or others who may be in a position to administer epinephrine injection should know how to use it before you have an allergic emergency.
-
-This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
-
-What is the most important information I should know about epinephrine injection?
-
-1.
-Epinephrine injection contains epinephrine, a medicine used to treat allergic emergencies (anaphylaxis).
-Anaphylaxis can be life-threatening, can happen within minutes, and can be caused by stinging and biting insects, allergy injections, foods, medicines, exercise, or other unknown causes.
-Symptoms of anaphylaxis may include:
-
-- trouble breathing
-- wheezing
-- hoarseness (changes in the way your voice sounds)
-- hives (raised reddened rash that may itch)
-- severe itching
-- swelling of your face, lips, mouth, or tongue
-- skin rash, redness, or swelling
-- fast heartbeat
-- weak pulse
-- feeling very anxious
-- confusion
-- stomach pain
-- losing control of urine or bowel movements (incontinence)
-- diarrhea or stomach cramps
-- dizziness, fainting, or “passing out” (unconsciousness)
-
-2.
-Always carry your epinephrine injection with you because you may not know when anaphylaxis may happen.
-Talk to your healthcare provider if you need additional units to keep at work, school, or other locations.
-Tell your family members, caregivers, and others where you keep your epinephrine injection and how to use it before you need it.
-You may be unable to speak in an allergic emergency.
-
-3.
-When you have an allergic emergency (anaphylaxis)
-
-- Use epinephrine injection right away.
-- Get emergency medical help right away.
-  You may need further medical attention.
-  You may need to use a second epinephrine injection if symptoms continue or recur.
-  Only a healthcare provider should give additional doses of epinephrine if you need more than 2 injections for a single anaphylaxis episode.
-
-What is epinephrine injection?
-
-- Epinephrine injection is a disposable, prefilled automatic injection device (auto-injector) used to treat life-threatening, allergic emergencies including anaphylaxis in people who are at risk for or have a history of serious allergic emergencies.
-  Each device contains a single dose of epinephrine.
-- Epinephrine injection is for immediate self (or caregiver) administration and does not take the place of emergency medical care.
-  You should get emergency medical help right away after using epinephrine injection.
-- Epinephrine injection is for people who have been prescribed this medicine by their healthcare provider.
-- The epinephrine injection 0.3 mg auto-injector is for patients who weigh 66 pounds or more (30 kilograms or more).
-- The epinephrine injection 0.15 mg auto-injector is for patients who weigh about 33 to 66 pounds (15 to 30 kilograms).
-- It is not known if epinephrine injection is safe and effective in children who weigh less than 33 pounds (15 kilograms).
-
-Before using epinephrine injection, tell your healthcare provider about all your medical conditions, especially if you:
-
-- have heart problems or high blood pressure
-- have diabetes
-- have thyroid problems
-- have asthma
-- have a history of depression
-- have Parkinson's disease
-- are pregnant or plan to become pregnant.
-  It is not known if epinephrine will harm your unborn baby.
-- are breastfeeding or plan to breastfeed.
-  It is not known if epinephrine passes into your breast milk.
-
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
-Tell your healthcare provider of all known allergies.
-
-Especially tell your healthcare provider if you take certain asthma medicines.
-
-Epinephrine injection and other medicines may affect each other, causing side effects.
-Epinephrine injection may affect the way other medicines work, and other medicines may affect how epinephrine injection works.
-
-Know the medicines you take.
-Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
-
-Use your epinephrine injection for treatment of anaphylaxis as prescribed by your healthcare provider, regardless of your medical conditions or the medicine you take.
-
-How should I use epinephrine injection?
-
-- Each epinephrine injection contains only 1 dose of medicine.
-- Epinephrine injection should only be injected into the middle of the outer thigh (upper leg).
-  It can be injected through clothing if needed.
-- Read the Instructions for Use at the end of this Patient Information Leaflet for information about the right way to use epinephrine injection.
-- Your healthcare provider will show you how to safely use epinephrine injection.
-- Use epinephrine injection exactly as your healthcare provider tells you to use it.
-  You may need to use a second epinephrine injection if symptoms continue or recur.
-  Only a healthcare provider should give additional doses of epinephrine if you need more than 2 injections for a single anaphylaxis episode.
-- Caution: Never put your thumb, fingers, or hand over the red tip.
-  Never press or push the red tip with your thumb, fingers, or hand.
-  The needle comes out of the red tip.
-  Accidental injection into finger, hands, or feet may cause a loss of blood flow to those areas.
-  If this happens, go immediately to the nearest emergency room.
-  Tell the healthcare provider where on your body you received the accidental injection.
-- Your epinephrine injection comes packaged in a carton containing 1 or 2 epinephrine injections.
-- You may request a separate Trainer, that comes packaged with instructions.
-  Additional video instructions on the use of epinephrine injection are available from www.epinephrineautoinject.com.
-  The epinephrine injection Trainer has a beige color.
-  The beige epinephrine injection Trainer contains no medicine and no needle.
-  Practice with your epinephrine injection Trainer before an allergic emergency happens to make sure you are able to safely use the real epinephrine injection in an emergency.
-  Always carry your real epinephrine injection, USP auto-injector with you in case of an allergic emergency.
-- Do not drop the carrying case or epinephrine injection.
-  If the carrying case or epinephrine injection is dropped, check for damage and leakage.
-  Throw away (dispose of) epinephrine injection and the carrying case, and replace if damage or leakage is noticed or suspected.
-
-What are the possible side effects of epinephrine injection?
-
-Epinephrine injection may cause serious side effects.
-
-- Epinephrine injection should only be injected into the middle of your outer thigh (upper leg).
-  Do not inject epinephrine injection into your:
-  - veins
-  - buttocks
-  - fingers, toes, hands or feet.
-
-If you accidentally inject epinephrine injection into any other part of your body, go to the nearest emergency room right away.
-Tell the healthcare provider where on your body you received the accidental injection.
-
-- Rarely, people who have used epinephrine injection may develop infections at the injection site within a few days of an injection.
-  Some of these infections can be serious.
-  Call your healthcare provider right away if you have any of the following at an injection site:
-  - redness that does not go away
-  - swelling
-  - tenderness
-  - the area feels warm to the touch
-- Cuts on the skin, bent needles, and needles that remain in the skin after the injection, have happened in young children who do not cooperate and kick or move during an injection.
-  If you inject a young child with epinephrine injection, hold their leg firmly in place before and during the injection to prevent injuries.
-  Ask your healthcare provider to show you how to properly hold the leg of a young child during an injection.
-- If you have certain medical conditions, or take certain medicines, your condition may get worse or you may have more or longer lasting side effects when you use epinephrine injection.
-  Talk to your healthcare provider about all your medical conditions.
-
-Common side effects of epinephrine injection include:
-
-- faster, irregular or “pounding” heartbeat
-- sweating
-- headache
-- weakness
-- shakiness
-- paleness
-- feelings of over excitement, nervousness, or anxiety
-- dizziness
-- nausea and vomiting
-- breathing problems
-
-These side effects may go away with rest.
-Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
-
-These are not all the possible side effects of epinephrine injection.
-For more information, ask your healthcare provider or pharmacist.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store epinephrine injection?
-
-- Store epinephrine injection at room temperature between 68°F to 77° F (20°C to 25° C).
-- Protect from light.
-- Do not expose to extreme heat or cold.
-  For example, do not store in your vehicle’s glove box and do not store in the refrigerator or freezer.
-- Examine the contents in the viewing window of your epinephrine injection periodically.
-  The solution should be clear.
-  If the solution is discolored (pinkish or brown), cloudy or contains solid particles, replace the unit.
-- Always keep your epinephrine injection in the carrying case to protect it from damage.
-  The carrying case is not waterproof.
-- The two blue end caps help to prevent accidental injection.
-  Do not remove the blue end caps until you are ready to use epinephrine injection.
-- Your epinephrine injection has an expiration date.
-  Replace it before the expiration date.
-- Throw away (dispose of) expired, unwanted, or unused epinephrine injections in an FDA-cleared sharps disposal container.
-  Do not throw away epinephrine injection in your household trash.
-  If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
-  There may be state or local laws about how you should throw away used needles and syringes.
-  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
-  Visit the FDA’s website (https://www.fda.gov/drugs/safe-disposal-medicines/disposal- unused-medicines-what-you-should-know) for more information about how to throw away (dispose of) unused, unwanted or expired medicines.
-  - Made of heavy-duty plastic,
-  - Can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - Upright and stable during use,
-  - Leak-resistant, and
-  - Properly labeled to warn of hazardous waste inside the container.
-
-Keep epinephrine injection and all medicines out of the reach of children.
-
-General information about the safe and effective use of epinephrine injection:
-
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use epinephrine injection for a condition for which it was not prescribed.
-Do not give epinephrine injection to other people.
-
-This Patient Information leaflet summarizes the most important information about epinephrine injection.
-If you would like more information, talk to your healthcare provider.
-You can ask your pharmacist or healthcare provider for information about epinephrine injection that is written for health professionals.
-
-What are the ingredients in epinephrine injection?
-
-Active Ingredient: epinephrine
-
-Inactive Ingredients: sodium chloride, chlorobutanol, sodium bisulfite, hydrochloric acid and sodium hydroxide, and water.
-
-For more information and video instructions on the use of epinephrine injection, go to www.epinephrineautoinject.com or call 1-877-835-5472.
-
-Important Information
-
-- The epinephrine injection, 0.3 mg auto-injector has a yellow colored label.
-- The epinephrine injection, 0.15 mg auto-injector has an orange colored label.
-- The epinephrine injection Trainer has a beige color, and contains no medicine and no needle.
-- Your epinephrine injection is designed to work through clothing.
-- The two blue end caps on epinephrine injection help to prevent accidental injection of the device.
-  Do not remove the two blue end caps until you are ready to use it.
-- Only inject into the middle of the outer thigh (upper leg).
-  Never inject into any other part of the body.
-- Never put your thumb, fingers, or your hand over the red tip.
-  The needle comes out of the red tip.
-- If an accidental injection happens, get medical help right away.
-- Do not place patient information or any other foreign objects in carrier with the auto-injector, as this may prevent you from removing epinephrine injection for use.
+For more information and video instructions on the use of Epinephrine Injection, go to www.epinephrineautoinject.com or call 1-877-835-5472.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration Rev.
-02-2021-04
+03/2026

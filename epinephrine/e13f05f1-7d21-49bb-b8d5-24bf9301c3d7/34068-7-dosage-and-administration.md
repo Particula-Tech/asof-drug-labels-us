@@ -1,17 +1,26 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage According to Patient Body Weight
+## 2.1 Recommended Dosage
 
-- Patients greater than or equal to 30 kg (approximately 66 pounds or more): 0.3 mg
-- Patients 15 kg to 30 kg (33 pounds to 66 pounds): 0.15 mg
+Recommended dosage for patients who weigh 15 kg or greater is based on weight and the dosage is provided in Table 1.
+Administer Epinephrine Injection intramuscularly or subcutaneously into the anterolateral aspect of the thigh.
+
+Table 1 Recommended Dosage of Epinephrine Injection Based on Patient’s Weight
+
+| Patient’s Weight | Dosage |
+| --- | --- |
+| 30 kg or greater | 0.3 mg |
+| 15 kg to less than 30 kg | 0.15 mg |
+
+- Since the doses of epinephrine delivered from Epinephrine Injection are fixed, use other forms of injectable epinephrine if doses lower than 0.15 mg are deemed necessary.
+- In the absence of clinical improvement or if symptoms worsen after the initial treatment, a second dose of Epinephrine Injection may be administered with a second auto-injector starting 5 minutes after the first dose.
+- Advise patients when to seek emergency medical assistance for close monitoring of the anaphylactic episode and in the event further treatment is required.
+- It is recommended that patients are prescribed and have immediate access to two Epinephrine Injection devices at all times.
 
 ## 2.2 Administration Instructions
 
-- Inject the single-dose epinephrine injection intramuscularly or subcutaneously into the anterolateral aspect of the thigh, through clothing if necessary.
-  Do not inject intravenously, and do not inject into buttocks, into digits, hands or feet [see Warnings and Precautions (5.2)].
-- Instruct caregivers of young children who are prescribed an epinephrine injection and who may be uncooperative and kick or move during an injection to hold the leg firmly in place and limit movement prior to and during an injection [see Warnings and Precautions (5.2)].
-- Each epinephrine injection is a single-dose of epinephrine injection for single use.
-  Since the doses of epinephrine delivered from epinephrine injection are fixed, consider using other forms of injectable epinephrine if doses lower than 0.15 mg are deemed necessary.
-- With severe persistent anaphylaxis, repeat injections with an additional epinephrine injection may be necessary.
-  More than two sequential doses of epinephrine should only be administered under direct medical supervision [see Warnings and Precautions (5.1)].
-- The epinephrine solution in the viewing window of epinephrine injection should be inspected visually for particulate matter and discoloration.
+Injection:
+
+- 0.3 mg (0.3 mg/0.3 mL) of clear and colorless solution in single-dose pre-filled auto-injector
+
+- 0.15 mg (0.15 mg/0.15 mL) of clear and colorless solution in single-dose pre-filled auto-injector

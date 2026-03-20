@@ -1,26 +1,29 @@
 # 6 ADVERSE REACTIONS
 
-Due to the lack of randomized, controlled clinical trials of epinephrine for the treatment of anaphylaxis, the true incidence of adverse reactions associated with the systemic use of epinephrine is difficult to determine.
-Adverse reactions reported in observational trials, case reports, and studies are listed below.
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-Common adverse reactions to systemically administered epinephrine include anxiety; apprehensiveness; restlessness; tremor; weakness; dizziness; sweating; palpitations; pallor; nausea and vomiting; headache; and/or respiratory difficulties.
-These symptoms occur in some persons receiving therapeutic doses of epinephrine, but are more likely to occur in patients with hypertension or hyperthyroidism [see Warnings and Precautions (5.5)].
+- Injection-Related Complications [see Warnings and Precautions (5.1)]
+- Serious Infections at the Injections [see Warnings and Precautions (5.2)]
+- Risks Associated with Use of Epinephrine in Certain Coexisting Conditions [seeWarnings and Precautions (5.3)]
+- Allergic Reactions Associated with Sulfite [see Warnings and Precautions (5.4)]
 
-Cardiovascular Reactions
+The following adverse reactions associated with the use of epinephrine were identified in observational trials, case reports, studies, or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Arrhythmias, including fatal ventricular fibrillation, have been reported, particularly in patients with underlying cardiac disease or those receiving certain drugs [see Warnings and Precautions (5.5) and Drug Interactions (7)].
-- Rapid rises in blood pressure have produced cerebral hemorrhage, particularly in elderly patients with cardiovascular disease [see Warnings and Precautions (5.5)].
-- Angina may occur in patients with coronary artery disease [see Warnings and Precautions (5.5)].
-- Rare cases of stress cardiomyopathy have been reported in patients treated with epinephrine.
+Cardiovascular: angina, arrhythmias (including fatal ventricular fibrillation), cerebral hemorrhage, hypertension, pallor, palpitations, tachyarrhythmia, tachycardia, vasoconstriction, ventricular ectopy, and stress cardiomyopathy
 
-Reactions from Accidental Injection and/or Improper Technique
+Gastrointestinal Disorders: nausea and vomiting
 
-- Accidental injection into the digits, hands or feet may result in loss of blood flow to the affected area [see Warnings and Precautions (5.2)].
+Infections: Clostridial infections (gas gangrene)
 
-- Adverse reactions experienced as a result of accidental injections may include increased heart rate, local reactions including injection site pallor, coldness and hypoesthesia or injury at the injection site resulting in bruising, bleeding, discoloration, erythema or skeletal injury.
-- Lacerations, bent needles, and embedded needles have been reported when epinephrine injection has been injected into the thigh of young children who are uncooperative and kick or move during an injection [see Warnings and Precautions (5.2)].
-- Injection into the buttock has resulted in cases of gas gangrene [see Warnings and Precautions (5.2)].
+Metabolism and Nutrition Disorders: transient hyperglycemia, sweating
 
-Skin and Soft Tissue Infections
+Neurological: disorientation, impaired memory, panic, psychomotor agitation, sleepiness,
 
-- Rare cases of serious skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia (gas gangrene), have been reported following epinephrine injection in the thigh [see Warnings and Precautions (5.3)].
+tingling, weakness, tremor, hypoesthesia, dizziness, headache
+
+Psychiatric: anxiety, apprehensiveness, restlessness
+
+Respiratory: respiratory difficulties
+
+Skin and Subcutaneous Tissue Disorders: bruising, bleeding, discoloration, erythema, necrotizing fasciitis, myonecrosis

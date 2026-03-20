@@ -1,81 +1,57 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information and Instructions for Use)
-
-A healthcare provider should review the patient instructions and operation of epinephrine injection, in detail, with the patient or caregiver.
-
-Epinephrine is essential for the treatment of anaphylaxis.
-Carefully instruct patients who are at risk of or with a history of severe allergic reactions (anaphylaxis) to insect stings or bites, foods, drugs, and other allergens, as well as idiopathic and exercise-induced anaphylaxis, about the circumstances under which epinephrine should be used.
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Administration
 
-Instruct patients and/or caregivers in the appropriate use of epinephrine injection.
-Epinephrine injection should be injected into the middle of the outer thigh (through clothing if necessary).
+- Each Epinephrine Injection contains a single dose of epinephrine for single use.
+- Instruct patients and/or caregivers to inspect the epinephrine solution visually through the viewing window periodically.
+  Epinephrine Injection should be replaced if the epinephrine solution appears discolored, cloudy, or contains particles.
+- Instruct patients and/or caregivers on proper intramuscular or subcutaneous injection technique using the Epinephrine Injection Trainer.
+  A Trainer device is not provided with epinephrine injection.
+  Patients and/or caregivers may obtain a Trainer device at www.epinephrineautoinject.com.
+  Instructions for use of the Trainer device are provided on the Trainer label.
+  Instruct patients and/or caregivers to use the Trainer to familiarize themselves with the use of epinephrine injection in an allergic emergency.
+  The Trainer device may be used multiple times.
+  For additional video instructions on the use of epinephrine injection,go to www.epinephrineautoinject.com.
+- Instruct caregivers to hold the leg of young children or infants firmly in place and limit movement prior to and during injection.
+  [see Warnings and Precautions (5.2)].
+- Instruct patients and/or caregivers in the appropriate use of Epinephrine Injection.Epinephrine Injection should be injected into the middle of the outer thigh (through clothing if necessary).
+- Instruct patients and/or caregivers when a second dose of Epinephrine Injection is needed.
+  Administer a new Epinephrine Injection into the middle of the outer thigh starting 5 minutes after the first dose.
+- Advise patients and/or caregivers when to seek emergency medical care for close monitoring of the type I allergic emergency and in the event that further treatment is required.
 
-Instruct caregivers to hold the leg of young children firmly in place and limit movement prior to and during injection.
-Lacerations, bent needles, and embedded needles have been reported when epinephrine injection has been injected into the thigh of young children who are uncooperative and kick during an injection [see Warnings and Precautions (5.2)].
+Injection-Related Complications
 
-Advise patients to seek immediate medical care in conjunction with administration of epinephrine injection.
-
-Complete patient information, including dosage, directions for proper administration and precautions can be found inside each epinephrine injection carton.
-A printed label on the surface of epinephrine injection shows instructions for use and a diagram depicting the injection process.
-
-Training
-
-Instruct patients and/or caregivers to use the Trainer to familiarize themselves with the use of epinephrine injection in an allergic emergency.
-The Trainer may be used multiple times.
-
-Adverse Reactions
-
-Epinephrine may produce symptoms and signs that include an increase in heart rate, the sensation of a more forceful heartbeat, palpitations, sweating, nausea and vomiting, difficulty breathing, pallor, dizziness, weakness or shakiness, headache, apprehension, nervousness, or anxiety.
-These signs and symptoms usually subside rapidly, especially with rest, quiet, and recumbency.
-Patients with hypertension or hyperthyroidism may develop more severe or persistent effects, and patients with coronary artery disease could experience angina.
-Patients with diabetes may develop increased blood glucose levels following epinephrine administration.
-Patients with Parkinson’s disease may notice a temporary worsening of symptoms [see Warnings and Precautions (5.5)].
-
-Accidental Injection
-
-Advise patients to seek immediate medical care in the case of accidental injection.
-Since epinephrine is a strong vasoconstrictor when injected into the digits, hands or feet, treatment should be directed at vasodilation if there is such an accidental injection to these areas [see Warnings and Precautions (5.2)].
+Advise patients to seek immediate medical care in the case of accidental injection into the digits, hands or feet because such an accidental injection to these areas may cause loss of blood flow to the affected area [see Warnings and Precautions (5.1)].
 
 Serious Infections at the Injection Site
 
-Rare cases of skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia (gas gangrene), have been reported at the injection site following epinephrine injection for anaphylaxis.
-Advise patients to seek medical care if they develop signs or symptoms of infection, such as persistent redness, warmth, swelling, or tenderness, at the epinephrine injection site [see Warnings and Precautions (5.3)].
+Advise patients that rare cases of serious skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia (gas gangrene), have been reported at the injection site following injection of epinephrine for anaphylaxis.
+Instruct patients to seek medical care if they develop signs or symptoms of infection, such as persistent redness, warmth, swelling, or tenderness, at the Epinephrine Injection site [see Warnings and Precautions (5.2)].
 
-Pregnancy and Breastfeeding
+Risks Associated with Certain Coexisting Conditions
 
-Inform patients that epinephrine injection has not been studied in pregnant women or breastfeeding mothers so the effects of epinephrine injection on pregnant women or breastfed infants are not known.
-Instruct patients to tell their healthcare provider if they are pregnant, become pregnant, or are thinking about becoming pregnant.
-Instruct patients to tell their healthcare provider if they plan to breastfeed their infant [see Use in Specific Populations (8.1, 8.2)].
+Advise patients with coexisting conditions (cardiac arrhythmia and ischemia, coronary artery disease, hypertension, pulmonary edema, hyperthyroidism, renal impairment, Parkinson's disease, diabetes), for increased risks that may be associated with use of epinephrine[see Warnings and Precautions (5.5)].
 
 Storage and Handling
 
-Instruct patients to inspect the epinephrine solution visually through the viewing window periodically.
-Replace epinephrine injection if the epinephrine solution appears discolored (pinkish or brown), cloudy, or contains particles.
-Epinephrine is light sensitive, store in the outer case provided to protect it from light.
-Instruct patients that epinephrine injection must be properly disposed of once the blue caps have been removed or after use [see How Supplied/Storage and Handling (16)].
+Epinephrine Injection is light sensitive and should be stored in the individual carrier tube provided to protect it from light.
+The individual carrier tube is not waterproof.
+Instruct patients that Epinephrine Injection must be properly disposed of once the blue end caps have been removed or after use [see How Supplied/Storage and Handling (16)].
 
-Complete patient information, including dosage, directions for proper administration and precautions are provided inside each epinephrine injection carton.
-
-Manufactured by:
-
-Hospira, Inc.
-
-McPherson, KS 67460
-
-Distributed by:
+Manufactured for and Distributed by:
 
 Amneal Pharmaceuticals LLC
 
 Bridgewater, NJ 08807
 
-© 2021 Amneal Pharmaceuticals LLC.
+© 2025 Amneal Pharmaceuticals LLC.
 All rights reserved.
 
 For inquiries call 1-877-835-5472
 
-1871-04
+1871-05
 
 Rev.
-02-2021-04
+03-2026-05
