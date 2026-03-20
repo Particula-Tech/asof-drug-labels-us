@@ -1,6 +1,6 @@
 # INSTRUCTIONS FOR USE
 
-INSTRUCTIONS FOR USE Verkazia ® [ver ka' zee ah] (cyclosporine ophthalmic emulsion, 0.1%) for topical ophthalmic use
+INSTRUCTIONS FOR USE Verkazia ®[ver ka' zee ah] (cyclosporine ophthalmic emulsion, 0.1%) for topical ophthalmic use
 
 Read this Instructions for Use before you start using Verkazia and each time you get a refill.
 There may be new information.
