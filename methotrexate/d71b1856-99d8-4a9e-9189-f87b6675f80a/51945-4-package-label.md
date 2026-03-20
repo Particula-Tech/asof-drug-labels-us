@@ -1,6 +1,6 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 0054-4550-15: Bottle of 36 Tablets
+NDC 0054-4550-25: Bottle of 100 Tablets
 
 Rx only
 
