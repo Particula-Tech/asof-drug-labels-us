@@ -25,7 +25,7 @@ Glomerular Filtration Rate (GFR)
 
 Healthy obese males and females received QSYMIA daily for 4 weeks (3.75 mg/23 mg on Days 1 to 3, 7.5 mg/46 mg on Days 4 to 6, 11.25 mg/69 mg on Days 7 to 9, and 15 mg/92 mg on Days 10 to 28).
 The glomerular filtration rate (GFR) of these participants was assessed via iohexol clearance.
-On average, GFR decreased during QSYMIA treatment and returned to baseline within 4 weeks after discontinuing QSYMIA [see Warnings and Precautions (5.8)]
+On average, GFR decreased during QSYMIA treatment and returned to baseline within 4 weeks after discontinuing QSYMIA [see Warnings and Precautions (5.8)].
 
 Ambulatory Blood Pressure Monitoring
 
@@ -119,7 +119,7 @@ Patients with Hepatic Impairment
 A single-dose, open-label study was conducted to evaluate the pharmacokinetics of QSYMIA 15 mg/92 mg in healthy volunteers with normal hepatic function compared with patients with mild (Child-Pugh score 5 - 6) and moderate (Child-Pugh score 7 - 9) hepatic impairment.
 In patients with mild and moderate hepatic impairment, phentermine AUC was 37% and 60% higher compared to healthy volunteers.
 Pharmacokinetics of topiramate was not affected in patients with mild and moderate hepatic impairment when compared with healthy volunteers.
-QSYMIA has not been studied in patients with severe hepatic impairment (Child-Pugh score 10 - 15) [see Dosage and Administration (2.5)and Use in Specific Populations (8.7)].
+QSYMIA has not been studied in patients with severe hepatic impairment (Child-Pugh score 10 - 15) [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
 
 Pediatric Patients 12 to 17 years old
 
@@ -154,9 +154,9 @@ Effect of Phentermine/Topiramate on the Pharmacokinetics of Co-administered Drug
 | Drug and Dose (mg) | Change in AUC | Change in C max |  |
 | --- | --- | --- | --- |
 | Phentermine/Topiramate | Co-administered Drug and Dosing Regimen |  |  |
-| A single study examined the effect of multiple-dose QSYMIA 15 mg/92 mg once daily on the pharmacokinetics of multiple-dose 500 mg metformin twice daily and multiple-dose 100 mg sitagliptin once daily in 10 males and 10 females (mean BMI of 27.1 kg/m 2 and range of 22.2 – 32.7 kg/m 2). The study participants received metformin, sitagliptin, phentermine/topiramate only, phentermine/topiramate plus probenecid, phentermine/topiramate plus metformin, and phentermine/topiramate plus sitagliptin on Days 1 – 5, 6 – 10, 11 – 28, 29, 30 – 34, and 35 – 39, respectively. The significance of these interactions is unknown.15 mg/92 mg dose QD for 16 days | Metformin 500 mg BID for 5 days | ↑ 23% | ↑ 16% |
+| A single study examined the effect of multiple-dose QSYMIA 15 mg/92 mg once daily on the pharmacokinetics of multiple-dose 500 mg metformin twice daily and multiple-dose 100 mg sitagliptin once daily in 10 males and 10 females (mean BMI of 27.1 kg/m 2 and range of 22.2 – 32.7 kg/m 2). The study participants received metformin, sitagliptin, phentermine/topiramate only, phentermine/topiramate plus probenecid, phentermine/topiramate plus metformin, and phentermine/topiramate plus sitagliptin on Days 1 – 5, 6 – 10, 11 – 28, 29, 30 – 34, and 35 – 39, respectively. The significance of these interactions is unknown. 15 mg/92 mg dose QD for 16 days | Metformin 500 mg BID for 5 days | ↑ 23% | ↑ 16% |
 | 15 mg/92 mg dose QD for 21 days | Sitagliptin 100 mg QD for 5 days | ↓ 3% | ↓ 9% |
-| See Drug Interactions (7)15 mg/92 mg dose QD for 15 days | Oral contraceptive single dose norethindrone 1 mg ethinyl estradiol 35 mcg | ↑ 16% ↓ 16% | ↑ 22% ↓ 8% |
+| See Drug Interactions (7) 15 mg/92 mg dose QD for 15 days | Oral contraceptive single dose norethindrone 1 mg ethinyl estradiol 35 mcg | ↑ 16% ↓ 16% | ↑ 22% ↓ 8% |
 
 Effect of Other Drugs on Phentermine/Topiramate
 
@@ -170,7 +170,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Phentermine/Topiramat
 | Co-administered Drug and Dosing Regimen | Phentermine/Topiramate |  |  |
 | Topiramate 92 mg single dose | 15 mg phentermine single dose | ↑ 42% | ↑ 13% |
 | Phentermine 15 mg single dose | 92 mg topiramate single dose | ↑ 6% | ↑ 2% |
-| The same single study examined the effect of multiple-dose 500 mg metformin twice daily, a single-dose 2 g probenecid, and multiple-dose 100 mg sitagliptin once daily on the pharmacokinetics of multiple-dose phentermine/topiramate 15 mg/92 mg once daily in 10 males and 10 females (mean BMI of 27.1 kg/m 2 and range of 22.2 – 32.7 kg/m 2). The study participants received metformin, sitagliptin, phentermine/topiramate only, phentermine/topiramate plus probenecid, phentermine/topiramate plus metformin, and phentermine/topiramate plus sitagliptin on Days 1 – 5, 6 – 10, 11 – 28, 29, 30 – 34, and 35 – 39, respectively.Metformin 500 mg BID for 5 days | 15 mg/92 mg dose QD for 16 days phentermine topiramate | ↑ 5% ↓ 5% | ↑ 7% ↓ 4% |
+| The same single study examined the effect of multiple-dose 500 mg metformin twice daily, a single-dose 2 g probenecid, and multiple-dose 100 mg sitagliptin once daily on the pharmacokinetics of multiple-dose phentermine/topiramate 15 mg/92 mg once daily in 10 males and 10 females (mean BMI of 27.1 kg/m 2 and range of 22.2 – 32.7 kg/m 2). The study participants received metformin, sitagliptin, phentermine/topiramate only, phentermine/topiramate plus probenecid, phentermine/topiramate plus metformin, and phentermine/topiramate plus sitagliptin on Days 1 – 5, 6 – 10, 11 – 28, 29, 30 – 34, and 35 – 39, respectively. Metformin 500 mg BID for 5 days | 15 mg/92 mg dose QD for 16 days phentermine topiramate | ↑ 5% ↓ 5% | ↑ 7% ↓ 4% |
 | Sitagliptin 100 mg QD for 5 days | 15 mg/92 mg dose QD for 21 days phentermine topiramate | ↑ 9% ↓ 2% | ↑ 10% ↓ 2% |
 | Probenecid 2 g QD | 15 mg/92 mg dose QD for 11 days phentermine topiramate | ↓ 0.3% ↑ 0.7% | ↑ 4% ↑ 3% |
 
@@ -261,7 +261,7 @@ Similarly, a 1 mg subcutaneous dose of dihydroergotamine did not affect the phar
 Diltiazem
 
 Co-administration of diltiazem hydrochloride extended-release with topiramate (150 mg/day) resulted in a 10% decrease in C max and a 25% decrease in diltiazem AUC, a 27% decrease in C max and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
-Co-administration of topiramate with diltiazem hydrochloride extended-release resulted in a 16% increase in C maxand a 19% increase in AUC 12 of topiramate.
+Co-administration of topiramate with diltiazem hydrochloride extended-release resulted in a 16% increase in C max and a 19% increase in AUC 12 of topiramate.
 
 Venlafaxine
 

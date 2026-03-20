@@ -14,7 +14,10 @@ The following clinically significant adverse reactions are described elsewhere i
 - Kidney Stones [see Warnings and Precautions (5.10)]
 - Oligohydrosis and Hyperthermia [see Warnings and Precautions (5.11)]
 - Hypokalemia [see Warnings and Precautions (5.12)]
-- Serious Skin Reactions [see Warnings and Precautions (5.13)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions [see Warnings and Precautions (5.13)]
+- Serious Skin Reactions [see Warnings and Precautions (5.14)]
+- Anaphylaxis and Angioedema [see Warnings and Precautions (5.15)]
+- Allergic Reactions Due to Inactive Ingredient FD&C Yellow No. 5 [see Warnings and Precautions(5.16)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -216,28 +219,30 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 QSYMIA
 
-Psychiatric:suicidal ideation, suicidal behavior
+Psychiatric: suicidal ideation, suicidal behavior
 
-Ophthalmic:acute angle closure glaucoma, increased intraocular pressure
+Ophthalmic: acute angle closure glaucoma, increased intraocular pressure
 
 Phentermine
 
-Allergic Reactions:urticaria
+Allergic Reactions: urticaria
 
-Cardiovascular:elevation of blood pressure, ischemic events
+Cardiovascular: elevation of blood pressure, ischemic events
 
-Central Nervous System:euphoria, psychosis, tremor
+Central Nervous System: euphoria, psychosis, tremor
 
-Reproductive:changes in libido, impotence
+Reproductive: changes in libido, impotence
 
 Topiramate
 
-Dermatologic:bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis), pemphigus
+Hypersensitivity: immediate hypersensitivity reactions (including anaphylaxis and angioedema, delayed hypersensitivity reactions (including facial swelling, lip swelling, periorbital swelling, tongue swelling)anaphylaxis, angioedema, facial swelling, lip swelling, tongue swelling, periorbital edema
 
-Gastrointestinal:pancreatitis
+Dermatologic: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis), pemphigus, urticaria
 
-Hepatic:hepatic failure (including fatalities), hepatitis
+Gastrointestinal: pancreatitis
 
-Metabolic:hyperammonemia with or without encephalopathy has been reported with concomitant valproic acid [see Drug Interactions (7)], hypothermia
+Hepatic: hepatic failure (including fatalities), hepatitis
 
-Ophthalmic:maculopathy
+Metabolic: hyperammonemia with or without encephalopathy has been reported with concomitant valproic acid [see Drug Interactions (7)], hypothermia
+
+Ophthalmic: maculopathy

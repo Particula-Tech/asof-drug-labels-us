@@ -64,18 +64,28 @@ Oligohidrosis and Hyperthermia
 Inform patients that oligohidrosis (decreased sweating) has been reported in association with the use of topiramate particularly in pediatric patients.
 Advise patients to monitor for decreased sweating and increased body temperature during physical activity, especially in hot weather [see Warnings and Precautions (5.11)].
 
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions
+
+Instruct patients that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related.
+Advise patients to report such reactions to a healthcare provider immediately [see Warnings and Precautions(5.13)].
+
 Serious Skin Reactions
 
-Inform patients that serious skin reactions have been reported with use of topiramate.
-Inform patients of the signs of serious skin reactions and advise patients to report signs of a skin reaction to their health care provider(s) [see Warnings and Precautions (5.13)].
+Inform patients about the signs of serious skin reactions.
+Instruct patients to immediately inform their healthcare provider at the first appearance of skin rash [see Warnings and Precautions (5.14)].
+
+Anaphylaxis and Angioedema
+
+Inform patients about the signs and symptoms of hypersensitivity reactions such as anaphylaxis and angioedema, which can occur with QSYMIA.
+Advise patients to seek immediate medical attention if they experience any symptoms of serious hypersensitivity reactions [see Warnings and Precautions (5.15)].
+
+Allergic Reactions Due to Inactive Ingredient FD&C Yellow No. 5
+
+Inform patients that this product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons [see Warnings and Precautions (5.16)].
 
 Lactation
 
 Advise patients that breastfeeding is not recommended during QSYMIA treatment [see Use in Specific Populations (8.2)].
-
-Allergic Reactions Due to Inactive Ingredient FD&C Yellow No. 5
-
-Inform patients that this product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons [see Warnings and Precautions (5.14)].
 
 How to Take QSYMIA
 

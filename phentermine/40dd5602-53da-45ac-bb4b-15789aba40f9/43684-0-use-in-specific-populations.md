@@ -6,7 +6,7 @@ Risk Summary
 
 QSYMIA is contraindicated in pregnant patients.
 The use of QSYMIA can cause fetal harm, and weight loss offers no clear clinical benefit to a pregnant patient (see Clinical Considerations).
-Available data from pregnancy registries and epidemiologic studies indicate an increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being SGA in infants exposed in uteroto topiramate (see Data).
+Available data from pregnancy registries and epidemiologic studies indicate an increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being SGA in infants exposed in utero to topiramate (see Data).
 When phentermine and topiramate were co-administered to rats at doses of 3.75 and 25 mg/kg, respectively [approximately 2 times the maximum recommended human dose (MRHD) based on area under the curve (AUC)], or at the same dose to rabbits (approximately 0.1 times and 1 time, respectively, the clinical exposures at the MRHD based on AUC), there were no drug-related malformations.
 However, structural malformations, including craniofacial defects and reduced fetal weights occurred in offspring of multiple species of pregnant animals administered topiramate at clinically relevant doses (see Data).
 Advise pregnant women of the potential risk to a fetus.
@@ -110,7 +110,7 @@ Advise patients not to discontinue taking their COC and to contact their health 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of QSYMIA as an adjunct to a reduced-calorie diet and increased physical activity for weight reduction and long-term maintenance of body weight have been established in pediatric patients aged 12 years and older with obesity.
-Use of QSYMIA for this indication is supported by a 56-week, double-blind, placebo-controlled study in 223 pediatric patients aged 12 years and above, a pharmacokinetic study in pediatric patients, and studies in adults with obesity [see Clinical Pharmacology (12.3)and Clinical Studies (14)].
+Use of QSYMIA for this indication is supported by a 56-week, double-blind, placebo-controlled study in 223 pediatric patients aged 12 years and above, a pharmacokinetic study in pediatric patients, and studies in adults with obesity [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
 
 In a pediatric clinical trial, there was one episode of serious suicidal ideation in a QSYMIA-treated patient requiring hospitalization and pharmacologic treatment [see Warnings and Precautions (5.2)] more patients treated with QSYMIA versus placebo reported adverse reactions related to mood (e.g., depression, anxiety) and sleep disorders (e.g., insomnia) [see Warnings and Precautions (5.4)].
 Increases in bone mineral density and linear growth were attenuated in QSYMIA- versus placebo-treated patients [see Warnings and Precautions (5.6)].

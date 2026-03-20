@@ -134,17 +134,33 @@ Patients on concomitant medications that predispose them to heat-related disorde
 ## 5.12 Hypokalemia
 
 QSYMIA can increase the risk of hypokalemia through its inhibition of carbonic anhydrase activity.
-In addition, when QSYMIA is used in conjunction with non-potassium sparing diuretics this may further potentiate potassium-wasting.
+In addition, when QSYMIA is used in conjunction with nonpotassium sparing diuretics this may further potentiate potassium-wasting.
 Measure potassium before and during treatment with QSYMIA [see Adverse Reactions (6.1), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
-## 5.13 Serious Skin Reactions
+## 5.13 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions
 
-Serious skin reactions (Stevens-Johnson Syndrome [SJS] and Toxic Epidermal Necrolysis [TEN]) have been reported in patients receiving topiramate.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multiorgan hypersensitivity has been reported in patients taking topiramate.
+DRESS may be fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its expression, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+QSYMIA should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
+
+## 5.14 Serious Skin Reactions
+
+Serious skin reactions [Stevens-Johnson Syndrome (SJS) and Toxic Epidermal Necrolysis (TEN)] have been reported in patients receiving topiramate.
 QSYMIA should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed, and alternative therapy should be considered.
 Inform patients about the signs of serious skin reactions.
 
-## 5.14 Allergic Reactions Due to Inactive Ingredient FD&C Yellow No. 5
+## 5.15 Anaphylaxis and Angioedema
 
-This product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons.
+Hypersensitivity reactions, including anaphylaxis and angioedema, have occurred in patients treated with topiramate in the postmarketing setting.
+If a hypersensitivity reaction occurs, discontinue QSYMIA and initiate appropriate therapy [see Contraindications (4)].
+
+## 5.16 Allergic Reactions Due to Inactive Ingredient FD&C Yellow No. 5
+
+QSYMIA contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons.
 Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
