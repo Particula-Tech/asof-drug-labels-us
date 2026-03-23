@@ -4,7 +4,7 @@ Systemic and local corticosteroid use may result in the following:
 
 - •Epistaxis, nasal ulceration, Candida albicans infection, nasal septal perforation, and impaired wound healing [see Warnings and Precautions (5.1)]
 - •Glaucoma and cataracts [see Warnings and Precautions (5.2)]
-- •Immunosuppression [see Warnings and Precautions (5.4)]
+- •Immunosuppression [see Warnings and Precaution (5.4)]
 - •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.5)]
 - •Effect on growth [see Warnings and Precautions (5.7)]
 
