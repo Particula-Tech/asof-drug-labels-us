@@ -2,11 +2,11 @@
 
 Dosing Instructions
 
-- Advise patients not to take other carbidopa-levodopa preparations with CREXONT without consulting their healthcare provider [see Dosage and Administration (2.1)].
+- Advise patients not to take other carbidopa-levodopa preparations with CREXONT without consulting their healthcare provider [see Dosage and Administration (2.2)].
 
-- Advise patients to swallow CREXONT whole, without chewing, dividing, or crushing [see Dosage and Administration (2.4)].
+- Advise patients to swallow CREXONT whole, without chewing, dividing, or crushing [see Dosage and Administration (2.5)].
 
-- CREXONT should not be taken with alcohol [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+- CREXONT should not be taken with alcohol [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 - Inform patients that a high fat, high calorie meal may delay the absorption of levodopa and the onset of action by 2 to 5 hours.
   For this reason, consideration should be given to taking the first dose of the day about 1 to 2 hours before eating.
@@ -14,7 +14,7 @@ Dosing Instructions
 
 - Advise patients to call their healthcare provider before stopping CREXONT.
   Discontinue CREXONT slowly.
-  Tell patients to call their healthcare provider if they develop withdrawal symptoms such as fever, confusion, or severe muscle stiffness [see Dosage and Administration (2.5) and Warnings and Precautions (5.2)].
+  Tell patients to call their healthcare provider if they develop withdrawal symptoms such as fever, confusion, or severe muscle stiffness [see Dosage and Administration (2.6) and Warnings and Precautions (5.2)].
 
 Falling Asleep During Activities of Daily Living and Somnolence
 
@@ -36,6 +36,11 @@ Dyskinesia
 
 Instruct patients to notify their healthcare provider if abnormal involuntary movements appear or get worse during treatment with CREXONT [see Warnings and Precautions (5.6)].
 
+Vitamin B6 Deficiency and Seizures
+
+Inform patients that vitamin B6 deficiency may develop during treatment with carbidopa/levodopa therapies, including CREXONT.
+Tell patients to inform their healthcare provider if they develop symptoms such as depression, confusion, cheilosis, glossitis, dermatitis, anemia, neuropathy, and/or seizures [see Warnings and Precautions (5.7)].
+
 Hypotension and Syncope
 
 Advise patients that they may develop orthostatic hypotension with or without symptoms such as dizziness, nausea, syncope, and sweating [see Adverse Reactions (6.1)].
@@ -56,4 +61,4 @@ Amneal Specialty, a division of Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-02-2025-01
+03-2026-03

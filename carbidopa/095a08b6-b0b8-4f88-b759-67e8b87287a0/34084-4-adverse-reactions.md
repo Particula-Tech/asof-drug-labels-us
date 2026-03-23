@@ -8,8 +8,9 @@ The following serious adverse reactions are discussed below and elsewhere in the
 - Hallucinations/Psychosis [see Warnings and Precautions (5.4)]
 - Impulse Control/Compulsive Behaviors [see Warnings and Precautions (5.5)]
 - Dyskinesia [see Warnings and Precautions (5.6)]
-- Peptic Ulcer Disease [see Warnings and Precautions (5.7)]
-- Glaucoma [see Warnings and Precautions (5.8)]
+- Vitamin B6 Deficiency and Seizures [see Warnings and Precautions (5.7)]
+- Peptic Ulcer Disease [see Warnings and Precautions (5.8)]
+- Glaucoma [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 

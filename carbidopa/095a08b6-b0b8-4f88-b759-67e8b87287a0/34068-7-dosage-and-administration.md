@@ -1,11 +1,17 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage in Patients Naïve to Levodopa Therapy
+## 2.1 Management of Vitamin B6 Levels
+
+Evaluate vitamin B6 levels prior to initiating carbidopa/levodopa therapies, including CREXONT, periodically during treatment, and as clinically indicated [see Warnings and Precautions (5.7)].
+If vitamin B6 levels are low, supplement to sufficient levels per standard of care.
+Patients may initiate and continue treatment with CREXONT while supplementing vitamin B6.
+
+## 2.2 Dosage in Patients Naïve to Levodopa Therapy
 
 The recommended starting dosage of CREXONT in levodopa-naïve patients is 35 mg carbidopa / 140 mg levodopa taken orally twice daily for the first three days.
 Thereafter, dosage may be increased gradually as needed to a maximum daily dosage of 525 mg carbidopa / 2100 mg levodopa divided up to four times daily.
 
-## 2.2 Dosage in Patients Converting from Immediate-Release Carbidopa-Levodopa to CREXONT
+## 2.3 Dosage in Patients Converting from Immediate-Release Carbidopa-Levodopa to CREXONT
 
 The dosages of immediate-release carbidopa-levodopa products are not substitutable on a 1:1 basis with the dosages of CREXONT.
 
@@ -37,11 +43,11 @@ For patients currently treated with carbidopa and levodopa plus a catechol-O-met
 
 Use of CREXONT in combination with other levodopa products has not been studied.
 
-## 2.3 Dosage for Patients Converting from Extended-Release Carbidopa-Levodopa (Rytary) to CREXONT
+## 2.4 Dosage for Patients Converting from Extended-Release Carbidopa-Levodopa (Rytary) to CREXONT
 
 For patients converting from RYTARY (extended-release carbidopa-levodopa), initiate CREXONT on an approximately 1:1 mg basis using the levodopa component for conversion.
 
-## 2.4 Administration Information
+## 2.5 Administration Information
 
 Swallow CREXONT whole with or without food.
 CREXONT should not be taken with alcohol.
@@ -49,7 +55,7 @@ A high-fat, high-calorie meal may delay the absorption of levodopa to reach the 
 
 Do not chew, divide, or crush CREXONT capsules.
 
-## 2.5 Discontinuation of CREXONT
+## 2.6 Discontinuation of CREXONT
 
 Avoid sudden discontinuation or rapid dose reduction of CREXONT.
 The daily dose of CREXONT should be tapered at the time of treatment discontinuation [see Warnings and Precautions (5.2)].
