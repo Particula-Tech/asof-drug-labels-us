@@ -16,7 +16,8 @@ Thirty-four percent of patients had to have a second dose delay/reduction.
 Grade 3 or 4 hematologic toxicity was seen in 80% of patients enrolled in the study.
 Patients on therapy for del 5q myelodysplastic syndromes should have their complete blood counts monitored weekly for the first 8 weeks of therapy and at least monthly thereafter.
 Patients may require dose interruption and/or reduction.
-Patients may require use of blood product support and/or growth factors [see Dosage and Administration (2.2)].
+Patients may require use of blood product support and/or growth factors [see Error!
+Hyperlink reference not valid.].
 
 Venous and Arterial Thromboembolism: Lenalidomide capsules have demonstrated a significantly increased risk of deep vein thrombosis (DVT) and pulmonary embolism (PE), as well as risk of myocardial infarction and stroke in patients with multiple myeloma who were treated with lenalidomide capsules and dexamethasone therapy.
 Monitor for and advise patients about signs and symptoms of thromboembolism.

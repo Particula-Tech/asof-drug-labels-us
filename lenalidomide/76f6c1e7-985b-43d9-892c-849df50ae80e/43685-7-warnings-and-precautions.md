@@ -45,7 +45,8 @@ Further information about the Lenalidomide REMS program is available at www.lena
 Lenalidomide capsules can cause significant neutropenia and thrombocytopenia.
 Monitor patients with neutropenia for signs of infection.
 Advise patients to observe for bleeding or bruising, especially with use of concomitant medication that may increase risk of bleeding.
-Patients taking lenalidomide capsules should have their complete blood counts assessed periodically as described below [see Dosage and Administration (2.1, 2.2, 2.3)].
+Patients taking lenalidomide capsules should have their complete blood counts assessed periodically as described below [see Dosage and Administration (2.1, Error!
+Hyperlink reference not valid., 2.3)].
 
 Monitor complete blood counts (CBC) in patients taking lenalidomide capsules in combination with dexamethasone or as lenalidomide capsule maintenance therapy for MM every 7 days (weekly) for the first 2 cycles, on Days 1 and 15 of Cycle 3, and every 28 days (4 weeks) thereafter.
 A dose interruption and/or dose reduction may be required [see Dosage and Administration (2.1)].
@@ -54,7 +55,8 @@ In the MM maintenance therapy trials, Grade 3 or 4 neutropenia was reported in u
 Monitor complete blood counts (CBC) in patients taking lenalidomide capsules for MDS weekly for the first 8 weeks and at least monthly thereafter.
 Grade 3 or 4 hematologic toxicity was seen in 80% of patients enrolled in the MDS study.
 In the 48% of patients who developed Grade 3 or 4 neutropenia, the median time to onset was 42 days (range, 14-411 days), and the median time to documented recovery was 17 days (range, 2-170 days).
-In the 54% of patients who developed Grade 3 or 4 thrombocytopenia, the median time to onset was 28 days (range, 8-290 days), and the median time to documented recovery was 22 days (range, 5-224 days) [see Boxed Warning and Dosage and Administration (2.2)].
+In the 54% of patients who developed Grade 3 or 4 thrombocytopenia, the median time to onset was 28 days (range, 8-290 days), and the median time to documented recovery was 22 days (range, 5-224 days) [see Boxed Warning and Error!
+Hyperlink reference not valid.].
 
 Monitor complete blood counts (CBC) in patients taking lenalidomide capsules for MCL weekly for the first cycle (28 days), every 2 weeks during cycles 2-4, and then monthly thereafter.
 Patients may require dose interruption and/or dose reduction.
@@ -195,4 +197,5 @@ On exploratory multivariate analysis, risk factors for early deaths include high
 ## 5.15 Hypersensitivity
 
 Hypersensitivity, including angioedema, anaphylaxis, and anaphylactic reactions to lenalidomide capsules has been reported.
-Permanently discontinue lenalidomide capsules for angioedema and anaphylaxis [see Dosage and Administration (2.2)].
+Permanently discontinue lenalidomide capsules for angioedema and anaphylaxis [see Error!
+Hyperlink reference not valid.].

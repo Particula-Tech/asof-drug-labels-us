@@ -217,7 +217,8 @@ For CLcr of 30 to 60 mL/min, consider escalating the dose to 15 mg after 2 cycle
 
 ### Lenalidomide Capsule Maintenance Therapy Following Auto-HSCT for MM and for MCL and MDS
 
-Base subsequent lenalidomide capsule dose increase or decrease on individual patient treatment tolerance [see Dosage and Administration (2.1, 2.2, 2.3)].
+Base subsequent lenalidomide capsule dose increase or decrease on individual patient treatment tolerance [see Dosage and Administration (2.1, Error!
+Hyperlink reference not valid., 2.3)].
 
 ### Lenalidomide Capsule Combination Therapy for FL or for MZL
 

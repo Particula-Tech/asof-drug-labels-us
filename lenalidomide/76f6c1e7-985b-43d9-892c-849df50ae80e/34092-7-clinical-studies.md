@@ -220,7 +220,8 @@ Table 17: TTP Results in MM Study 1 and Study 2
 
 The efficacy and safety of lenalidomide capsules were evaluated in patients with transfusion-dependent anemia in low- or intermediate-1-risk MDS with a 5q (q31-33) cytogenetic abnormality in isolation or with additional cytogenetic abnormalities, at a dose of 10 mg once daily or 10 mg once daily for 21 days every 28 days in an open-label, single-arm, multi-center study.
 The major study was not designed nor powered to prospectively compare the efficacy of the 2 dosing regimens.
-Sequential dose reductions to 5 mg daily and 5 mg every other day, as well as dose delays, were allowed for toxicity [see Dosage and Administration (2.2)].
+Sequential dose reductions to 5 mg daily and 5 mg every other day, as well as dose delays, were allowed for toxicity [see Error!
+Hyperlink reference not valid.].
 
 This major study enrolled 148 patients who had RBC transfusion dependent anemia.
 RBC transfusion dependence was defined as having received ≥ 2 units of RBCs within 8 weeks prior to study treatment.
