@@ -8,7 +8,7 @@ Instruct patients taking EPRONTIA to seek immediate medical attention if they ex
 
 Oligohidrosis and Hyperthermia
 
-Closely monitor EPRONTIA treated patients, especially pediatric patients, for evidence of decreased sweating and increased body temperature, especially in hot weather.
+Closely monitor EPRONTIA-treated patients, especially pediatric patients, for evidence of decreased sweating and increased body temperature, especially in hot weather.
 Counsel patients to contact their healthcare professionals immediately if they develop a high or persistent fever, or decreased sweating [see Warnings and Precautions (5.3)].
 
 Metabolic Acidosis
@@ -49,10 +49,16 @@ Negative Effects on Growth (Height and Weight)
 
 Discuss with the patient or caregiver that long-term EPRONTIA treatment may attenuate growth as reflected by slower height increase and weight gain in pediatric patients [see Warnings and Precautions (5.10)].
 
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions Instruct patients that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related.
+Advise patients to report such reactions to a healthcare provider immediately [see Warnings and Precautions (5.11)].
+
 Serious Skin Reactions
 
 Inform patients about the signs of serious skin reactions.
-Instruct patients to immediately inform their healthcare provider at the first appearance of skin rash [see Warnings and Precautions (5.11)].
+Instruct patients to immediately inform their healthcare provider at the first appearance of skin rash [see Warnings and Precautions (5.12)].
+
+Anaphylaxis and Angioedema Inform patients about the signs and symptoms of hypersensitivity reactions such as anaphylaxis and angioedema, which can occur with EPRONTIA.
+Advise patients to seek immediate medical attention if they experience any symptoms of serious hypersensitivity reactions [see Warnings and Precautions (5.13)].
 
 Hyperammonemia and Encephalopathy
 
@@ -60,11 +66,11 @@ Warn patients about the possible development of hyperammonemia with or without e
 Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy and/or vomiting.
 This hyperammonemia and encephalopathy can develop with EPRONTIA treatment alone or with EPRONTIA treatment with concomitant valproic acid (VPA).
 
-Instruct patients to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status [see Warnings and Precautions (5.12)].
+Instruct patients to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status [see Warnings and Precautions (5.14)].
 
 Kidney Stones
 
-Instruct patients, particularly those with predisposing factors, to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation [see Warnings and Precautions (5.13)].
+Instruct patients, particularly those with predisposing factors, to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation [see Warnings and Precautions (5.15)].
 
 Administration Instructions
 
@@ -78,3 +84,6 @@ Instruct patients that if they miss a single dose of EPRONTIA, it should be take
 However, if a patient is within 6 hours of taking the next scheduled dose, tell the patient to wait until then to take the usual dose of EPRONTIA, and to skip the missed dose.
 Tell patients that they should not take a double dose in the event of a missed dose.
 Advise patients to contact their healthcare provider if they have missed a dose.
+
+EPRONTIA is a registered trademark of Azurity Pharmaceuticals, Inc. Manufactured for: Azurity Pharmaceuticals, Inc. Woburn, MA 01801 Patent: https://azurity.com/patents_and_trademarks/ This product's labeling may have been updated.
+For current Full Prescribing Information, please visit www.eprontia.com PN: 65628-00603 REV #: 11

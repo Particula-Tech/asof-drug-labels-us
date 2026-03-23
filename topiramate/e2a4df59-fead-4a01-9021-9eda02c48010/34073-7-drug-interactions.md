@@ -26,7 +26,7 @@ Contraceptive efficacy can be decreased even in the absence of breakthrough blee
 
 ## 7.5 Hydrochlorothiazide (HCTZ)
 
-Topiramate C max and AUC increased when HCTZ was added to topiramate.
+Topiramate Cmax and AUC increased when HCTZ was added to topiramate.
 The clinical significance of this change is unknown.
 The addition of HCTZ to topiramate may require a decrease in the topiramate dose [see Clinical Pharmacology (12.3)].
 

@@ -2,7 +2,6 @@
 
 The safety and efficacy of EPRONTIA are based on the relative bioavailability of EPRONTIA compared to topiramate sprinkle capsules in healthy subjects [see Clinical Pharmacology (12.3)].
 Topiramate sprinkle capsules have comparable bioavailability to topiramate tablets.
-
 The studies described in the following subsections were conducted using topiramate tablets or sprinkle capsules.
 
 ## 14.1 Monotherapy Epilepsy
@@ -85,17 +84,18 @@ After titration, patients entered an 8-week stabilization period.
 
 The primary measures of effectiveness were the percent reduction in drop attacks and a parental global rating of seizure severity.
 
-Table 12: Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults with Partial-Onset Seizures Dose-response studies were not conducted for other indications or pediatric partial-onset seizures.
+Table 12: Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults with Partial-Onset Seizures*
 
-| Study | Stabilization Dose | PlaceboPlacebo dosages are given as the number of tablets. Placebo target dosages were as follows: Protocol 3 4 tablets/day; Protocols 1 and 4, 6 tablets/day; Protocols 5 and 6, 8 tablets/day; Protocol 2, 10 tablets/day. | Target TOPIRAMATE Dosage (mg/day) |  |  |  |  |
+| Study | Stabilization Dose | Placebo† | Target TOPIRAMATE Dosage (mg/day) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 200 | 400 | 600 | 800 | 1,000 |  |  |  |
-| 2 | NMean DoseMedian Dose | 425.96.0 | 42200200 | 40390400 | 41556600 | -- | -- |
-| 3 | NMean DoseMedian Dose | 449.710.0 | -- | -- | 40544600 | 45739800 | 407961,000 |
-| 4 | NMean DoseMedian Dose | 233.84.0 | -- | 19395400 | -- | -- | -- |
-| 5 | NMean DoseMedian Dose | 305.76.0 | -- | -- | 28522600 | -- | -- |
-| 6 | NMean DoseMedian Dose | 287.98.0 | -- | -- | -- | 25568600 | -- |
-| 7 | NMean DoseMedian Dose | 9088 | 157200200 | -- | -- | -- | -- |
+| 2 | N Mean Dose Median Dose | 42 5.9 6.0 | 42 200 200 | 40 390 400 | 41 556 600 | -- | -- |
+| 3 | N Mean Dose Median Dose | 44 9.7 10.0 | -- | -- | 40 544 600 | 45 739 800 | 40 796 1,000 |
+| 4 | N Mean Dose Median Dose | 23 3.8 4.0 | -- | 19 395 400 | -- | -- | -- |
+| 5 | N Mean Dose Median Dose | 30 5.7 6.0 | -- | -- | 28 522 600 | -- | -- |
+| 6 | N Mean Dose Median Dose | 28 7.9 8.0 | -- | -- | -- | 25 568 600 | -- |
+| 7 | N Mean Dose Median Dose | 90 8 8 | 157 200 200 | -- | -- | -- | -- |
+| * Dose-response studies were not conducted for other indications or pediatric partial-onset seizures. † Placebo dosages are given as the number of tablets. Placebo target dosages were as follows: Protocol 3 4 tablets/day; Protocols 1 and 4, 6 tablets/day; Protocols 5 and 6, 8 tablets/day; Protocol 2, 10 tablets/day. |  |  |  |  |  |  |  |
 
 In all adjunctive trials, the reduction in seizure rate from baseline during the entire double-blind phase was measured.
 The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 13.
@@ -105,40 +105,40 @@ Table 13: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epile
 
 | Study# | # | Target TOPIRAMATE Dosage (mg per day) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6mg/kg/dayFor Studies 8 and 9, specified target dosages (<9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day. |  |  |
+| Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6mg/kg/day* |  |  |
 | Partial-Onset Seizures Studies in Adults |  |  |  |  |  |  |  |  |
 | 2 | N | 45 | 45 | 45 | 46 | -- | -- | -- |
-|  | Median % Reduction | 12 | 27 a | 48 b | 45 c | -- | -- | -- |
-|  | % Responders | 18 | 24 | 44 d | 46 d | -- | -- | -- |
+|  | Median % Reduction | 12 | 27a | 48b | 45c | -- | -- | -- |
+|  | % Responders | 18 | 24 | 44d | 46d | -- | -- | -- |
 | 3 | N | 47 | -- | -- | 48 | 48 | 47 | -- |
-|  | Median % Reduction | 2 | -- | -- | 41 c | 41 c | 36 c |  |
-|  | % Responders | 9 | -- | -- | 40 c | 41 c | 36 d |  |
+|  | Median % Reduction | 2 | -- | -- | 41c | 41c | 36c |  |
+|  | % Responders | 9 | -- | -- | 40c | 41c | 36d |  |
 | 4 | N | 24 | -- | 23 | -- | -- | -- | -- |
-|  | Median % Reduction | 1 | -- | 41 e | -- | -- | -- | -- |
-|  | % Responders | 8 | -- | 35 d | -- | -- | -- | -- |
+|  | Median % Reduction | 1 | -- | 41e | -- | -- | -- | -- |
+|  | % Responders | 8 | -- | 35d | -- | -- | -- | -- |
 | 5 | N | 30 | -- | -- | 30 | -- | -- | -- |
-|  | Median % Reduction | -12 | -- | -- | 46 f | -- | -- | -- |
-|  | % Responders | 10 | -- | -- | 47 c | -- | -- | -- |
+|  | Median % Reduction | -12 | -- | -- | 46f | -- | -- | -- |
+|  | % Responders | 10 | -- | -- | 47c | -- | -- | -- |
 | 6 | N | 28 | -- | -- | -- | 28 | -- | -- |
-|  | Median % Reduction | -21 | -- | -- | -- | 24 c | -- | -- |
-|  | % Responders | 0 | -- | -- | -- | 43 c | -- | -- |
+|  | Median % Reduction | -21 | -- | -- | -- | 24c | -- | -- |
+|  | % Responders | 0 | -- | -- | -- | 43c | -- | -- |
 | 7 | N | 91 | 168 | -- | -- | -- | -- | -- |
-|  | Median % Reduction | 20 | 44 c | -- | -- | -- | -- | -- |
-|  | % Responders | 24 | 45 c |  |  |  |  |  |
+|  | Median % Reduction | 20 | 44c | -- | -- | -- | -- | -- |
+|  | % Responders | 24 | 45c |  |  |  |  |  |
 | Partial-Onset Seizures Studies in Pediatric Patients |  |  |  |  |  |  |  |  |
 | 8 | N | 45 | -- | -- | -- | -- | -- | 41 |
-|  | Median % Reduction | 11 | -- | -- | -- | -- | -- | 33 d |
+|  | Median % Reduction | 11 | -- | -- | -- | -- | -- | 33d |
 |  | % Responders | 20 | -- | -- | -- | -- | -- | 39 |
-| Primary Generalized Tonic-Clonic h |  |  |  |  |  |  |  |  |
+| Primary Generalized Tonic-Clonich |  |  |  |  |  |  |  |  |
 | 9 | N | 40 | -- | -- | -- | -- | -- | 39 |
-|  | Median % Reduction | 9 | -- | -- | -- | -- | -- | 57 d |
-|  | % Responders | 20 | -- | -- | -- | -- | -- | 56 c |
-| Lennox-Gastaut Syndrome i |  |  |  |  |  |  |  |  |
+|  | Median % Reduction | 9 | -- | -- | -- | -- | -- | 57d |
+|  | % Responders | 20 | -- | -- | -- | -- | -- | 56c |
+| Lennox-Gastaut Syndromei |  |  |  |  |  |  |  |  |
 | 10 | N | 49 | -- | -- | -- | -- | -- | 46 |
-|  | Median % Reduction | -5 | -- | -- | -- | -- | -- | 15 d |
-|  | % Responders | 14 |  |  |  |  |  | 28 g |
-|  | Improvement in Seizure Severity j | 28 |  |  |  |  |  | 52 d |
-| Comparisons with placebo: ap=0.080; bp ≤ 0.010; cp ≤ 0.001; dp ≤ 0.050; ep=0.065; fp≤0.005; gp=0.071; hMedian % reduction and % responders are reported for PGTC seizures; iMedian % reduction and % responders for drop attacks, i.e., tonic or atonic seizures; jPercentage of subjects who were minimally, much, or very much improved from baseline. |  |  |  |  |  |  |  |  |
+|  | Median % Reduction | -5 | -- | -- | -- | -- | -- | 15d |
+|  | % Responders | 14 |  |  |  |  |  | 28g |
+|  | Improvement in Seizure Severityj | 28 |  |  |  |  |  | 52d |
+| Comparisons with placebo: ap=0.080; bp ≤ 0.010; cp ≤ 0.001; dp ≤ 0.050; ep=0.065; fp≤0.005; gp=0.071; hMedian % reduction and % responders are reported for PGTC seizures; iMedian % reduction and % responders for drop attacks, i.e., tonic or atonic seizures; jPercentage of subjects who were minimally, much, or very much improved from baseline. * For Studies 8 and 9, specified target dosages (<9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day. |  |  |  |  |  |  |  |  |
 
 Subset analyses of the antiepileptic efficacy of topiramate tablets in these studies showed no differences as a function of gender, race, age, baseline seizure rate, or concomitant AED.
 
@@ -212,4 +212,5 @@ Table 14: Percent Reduction from Baseline to the Last 12 Weeks of Double-Blind P
 | Median | 2.3 | 2.3 | 1.0 |
 | Percent Reduction (%) |  |  |  |
 | Median | 44.4 | 44.6 | 72.2 |
-| P-value vs. Placebo P-values (two-sided) for comparisons relative to placebo are generated by applying an ANCOVA model on ranks that includes subject's stratified age at baseline, treatment group, and analysis center as factors and monthly migraine attack rate during baseline period as a covariate.,P-values for the dose groups are the adjusted p-value according to the Hochberg multiple comparison procedure. |  | 0.7975 | 0.0164 Indicates p-value is <0.05 (two-sided). |
+| P-value vs. Placebo*, † |  | 0.7975 | 0.0164‡ |
+| * P-values (two-sided) for comparisons relative to placebo are generated by applying an ANCOVA model on ranks that includes subject's stratified age at baseline, treatment group, and analysis center as factors and monthly migraine attack rate during baseline period as a covariate. † P-values for the dose groups are the adjusted p-value according to the Hochberg multiple comparison procedure. ‡ Indicates p-value is <0.05 (two-sided). |  |  |  |

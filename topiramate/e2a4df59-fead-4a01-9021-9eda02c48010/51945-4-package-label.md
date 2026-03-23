@@ -4,7 +4,7 @@ Carton Label
 
 NDC 52652-9001-2
 
-EPRONTIA ®(topiramate) oral solution
+EPRONTIA® (topiramate) oral solution
 
 25 mg/mL
 
@@ -22,6 +22,6 @@ READY TO USE
 
 240 mL Rx Only
 
-azurity ®pharmaceuticals
+azurity® pharmaceuticals
 
 Manufactured for: Azurity Pharmaceuticals, Inc. Woburn, MA 01801
