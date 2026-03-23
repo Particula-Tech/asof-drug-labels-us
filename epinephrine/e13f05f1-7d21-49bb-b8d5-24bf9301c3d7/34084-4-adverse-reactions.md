@@ -4,7 +4,7 @@ The following clinically significant adverse reactions are described elsewhere i
 
 - Injection-Related Complications [see Warnings and Precautions (5.1)]
 - Serious Infections at the Injections [see Warnings and Precautions (5.2)]
-- Risks Associated with Use of Epinephrine in Certain Coexisting Conditions [seeWarnings and Precautions (5.3)]
+- Risks Associated with Use of Epinephrine in Certain Coexisting Conditions [see Warnings and Precautions (5.3)]
 - Allergic Reactions Associated with Sulfite [see Warnings and Precautions (5.4)]
 
 The following adverse reactions associated with the use of epinephrine were identified in observational trials, case reports, studies, or postmarketing reports.

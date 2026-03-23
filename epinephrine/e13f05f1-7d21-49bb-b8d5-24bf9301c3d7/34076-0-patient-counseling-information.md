@@ -32,7 +32,7 @@ Instruct patients to seek medical care if they develop signs or symptoms of infe
 
 Risks Associated with Certain Coexisting Conditions
 
-Advise patients with coexisting conditions (cardiac arrhythmia and ischemia, coronary artery disease, hypertension, pulmonary edema, hyperthyroidism, renal impairment, Parkinson's disease, diabetes), for increased risks that may be associated with use of epinephrine[see Warnings and Precautions (5.5)].
+Advise patients with coexisting conditions (cardiac arrhythmia and ischemia, coronary artery disease, hypertension, pulmonary edema, hyperthyroidism, renal impairment, Parkinson's disease, diabetes), for increased risks that may be associated with use of epinephrine [see Warnings and Precautions (5.3)].
 
 Storage and Handling
 
