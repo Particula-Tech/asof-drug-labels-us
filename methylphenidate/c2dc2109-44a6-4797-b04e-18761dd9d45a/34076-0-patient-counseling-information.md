@@ -80,4 +80,4 @@ Distributed by:
 Manufactured by: Tris Pharma, Inc. Monmouth Junction, NJ 08852
 
 LB8529 Rev.
-03
+05

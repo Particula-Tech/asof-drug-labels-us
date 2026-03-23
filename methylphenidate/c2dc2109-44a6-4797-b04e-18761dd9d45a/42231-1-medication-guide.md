@@ -199,7 +199,7 @@ You can ask your pharmacist or healthcare provider for information about QUILLIV
 
 What are the ingredients in QUILLIVANT XR?
 
-Active Ingredient: methylphenidate hydrochloride
+Active Ingredient: methylphenidate
 
 Inactive Ingredients: sodium polystyrene sulfonate, povidone, triacetin, polyvinyl acetate, sucrose, anhydrous trisodium citrate, anhydrous citric acid, sodium benzoate, sucralose, poloxamer 188, corn starch, xanthan gum, talc, banana flavor, and silicon dioxide.
 
@@ -217,4 +217,4 @@ This product’s label may have been updated.
 For current full prescribing information, please visit www.trispharma.com.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised:09/2025
+Revised:03/2026
