@@ -1,3 +1,3 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Excessive amounts of leucovorin may nullify the chemotherapeutic effect of folic acid antagonists.
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for overdose management recommendations.

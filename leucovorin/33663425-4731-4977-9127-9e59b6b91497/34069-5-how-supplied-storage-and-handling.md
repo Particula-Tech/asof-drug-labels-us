@@ -1,4 +1,6 @@
-# How Supplied/Storage and Handling
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
+
+## 16.1 How Supplied
 
 Leucovorin Calcium Tablets, USP
 
@@ -24,21 +26,9 @@ NDC 0054-4498-10: Bottle of 24 Tablets
 
 NDC 0054-4499-11: Bottle of 25 Tablets
 
+## 16.2 Storage and Handling
+
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Protect From Light and Moisture.
-
-References
-
-1. 1.Grem JL, Shoemaker DD, Petrelli NJ, Douglas HO.
-   Severe and fatal toxic effects observed in treatment with high- and low-dose leucovorin plus 5-fluorouracil for colorectal carcinoma.
-   Cancer Treat Rep 1987;71:1122.
-2. 2.Link MP, Goorin AM, Miser AW et al. The effect of adjuvant chemotherapy on relapse-free survival in patients with osteosarcoma of the extremity.
-   N Engl J Med 1986;314:1600-1606.
-
-Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
-
-- C50000693/01
-
-Revised June 2023
+Protect from light and moisture.
