@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA220418"
+  ],
+  "inn": "sodium-phenylbutyrate",
+  "labeler": "Zydus Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "70710-2180-8"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sodium phenylbutyrate",
+      "name": "Sodium phenylbutyrate"
+    }
+  ],
+  "setid": "d08fd548-7eb8-4f6f-b664-b0fff6f30065",
+  "source": "dailymed"
+}
