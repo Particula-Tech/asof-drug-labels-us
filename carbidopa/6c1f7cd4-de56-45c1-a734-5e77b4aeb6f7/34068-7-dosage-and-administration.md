@@ -1,6 +1,12 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage in Patients Naïve to Levodopa Therapy
+## 2.1 Management of Vitamin B6 Levels
+
+Evaluate vitamin B6 levels prior to initiating carbidopa/levodopa therapies, including RYTARY, periodically during treatment, and as clinically indicated [see Warnings and Precautions (5.7)].
+If vitamin B6 levels are low, supplement to sufficient levels per standard of care.
+Patients may initiate and continue treatment with RYTARY while supplementing vitamin B6.
+
+## 2.2 Dosage in Patients Naïve to Levodopa Therapy
 
 The recommended starting dosage of RYTARY in levodopa-naïve patients is 23.75 mg/95 mg taken orally three times a day for the first 3 days.
 On the fourth day of treatment, the dosage of RYTARY may be increased to 36.25 mg/145 mg taken three times a day.
@@ -11,7 +17,7 @@ The dosing frequency may be changed from three times a day to a maximum of five 
 Maintain patients on the lowest dosage required to achieve symptomatic control and to minimize adverse reactions such as dyskinesia and nausea.
 The maximum recommended daily dose of RYTARY is 612.5 mg/2,450 mg.
 
-## 2.2 Converting from Immediate-Release Carbidopa-Levodopa to RYTARY
+## 2.3 Converting from Immediate-Release Carbidopa-Levodopa to RYTARY
 
 The dosages of other carbidopa and levodopa products are not interchangeable on a 1:1 basis with the dosages of RYTARY.
 
@@ -41,12 +47,12 @@ Table 1: Conversion from Immediate-Release Carbidopa-Levodopa to RYTARY
 | 2,205 mg | 3 capsules RYTARY 61.25 mg/245 mg taken TID |  |
 | a TID: three times a day |  |  |
 
-## 2.3 Discontinuation of RYTARY
+## 2.4 Discontinuation of RYTARY
 
 Avoid sudden discontinuation or rapid dose reduction of RYTARY.
 The daily dose of RYTARY should be tapered at the time of treatment discontinuation [see Warnings and Precautions (5.2)].
 
-## 2.4 Administration Information
+## 2.5 Administration Information
 
 Swallow RYTARY whole with or without food.
 A high-fat, high-calorie meal may delay the absorption of levodopa by about 2 hours [see Clinical Pharmacology (12.3)].

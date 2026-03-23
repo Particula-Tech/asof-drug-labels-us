@@ -55,11 +55,22 @@ Consider a dose reduction or stopping the medication if a patient develops such 
 
 RYTARY can cause dyskinesias that may require a dosage reduction of RYTARY or other medications used for the treatment of Parkinson's disease.
 
-## 5.7 Peptic Ulcer Disease
+## 5.7 Vitamin B6 Deficiency and Seizures
+
+Treatment with carbidopa/levodopa, including RYTARY, may contribute to reduced vitamin B6 levels.
+Higher doses of carbidopa/levodopa may increase the risk of vitamin B6 deficiency.
+Seizures associated with vitamin B6 deficiency have been reported in the postmarketing setting in patients taking RYTARY.
+In these reported cases, seizures were refractory to traditional anti-seizure medications and only resolved after vitamin B6 administration.
+Other symptoms of vitamin B6 deficiency may occur, including depression, confusion, cheilosis, glossitis, dermatitis, anemia, and/or neuropathy.
+
+Evaluate vitamin B6 levels prior to initiation of RYTARY and periodically while on treatment or if symptoms associated with vitamin B6 deficiency are identified.
+Supplement with vitamin B6 as necessary.
+
+## 5.8 Peptic Ulcer Disease
 
 Treatment with RYTARY may increase the possibility of upper gastrointestinal hemorrhage in patients with a history of peptic ulcer.
 
-## 5.8 Glaucoma
+## 5.9 Glaucoma
 
 RYTARY may cause increased intraocular pressure in patients with glaucoma.
 Monitor intraocular pressure in patients with glaucoma after starting RYTARY.

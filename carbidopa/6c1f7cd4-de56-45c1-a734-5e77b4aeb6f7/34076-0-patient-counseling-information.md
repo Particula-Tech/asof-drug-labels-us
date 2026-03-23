@@ -2,15 +2,15 @@
 
 Dosing Instructions
 
-- Advise patients to not take other carbidopa-levodopa preparations with RYTARY without consulting their healthcare provider [see Dosage and Administration (2.2)].
+- Advise patients to not take other carbidopa-levodopa preparations with RYTARY without consulting their healthcare provider [see Dosage and Administration (2.3)].
 - Advise patients to call their healthcare provider before stopping RYTARY.
   Discontinue RYTARY slowly.
-  Tell patients to call their healthcare provider if they develop withdrawal symptoms such as fever, confusion or severe muscle stiffness [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
-- Advise patients to swallow RYTARY capsules whole, without chewing, dividing, or crushing [see Dosage and Administration (2.4)].
-- For patients with difficulty swallowing, the entire contents of the RYTARY capsule may be sprinkled on 1 to 2 tablespoons of applesauce and should be taken immediately [see Dosage and Administration (2.4)].
+  Tell patients to call their healthcare provider if they develop withdrawal symptoms such as fever, confusion or severe muscle stiffness [see Dosage and Administration (2.4) and Warnings and Precautions (5.2)].
+- Advise patients to swallow RYTARY capsules whole, without chewing, dividing, or crushing [see Dosage and Administration (2.5)].
+- For patients with difficulty swallowing, the entire contents of the RYTARY capsule may be sprinkled on 1 to 2 tablespoons of applesauce and should be taken immediately [see Dosage and Administration (2.5)].
 
 - Inform patients that a high fat, high calorie meal may delay the absorption of levodopa and the onset of action by 2 to 3 hours.
-  For this reason, consideration should be given to taking the first dose of the day about 1 to 2 hours before eating [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+  For this reason, consideration should be given to taking the first dose of the day about 1 to 2 hours before eating [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 Falling Asleep
 
@@ -32,6 +32,11 @@ Dyskinesia
 
 Instruct patients to notify their healthcare provider if abnormal involuntary movements appear or get worse during treatment with RYTARY [see Warnings and Precautions (5.6)].
 
+Vitamin B6 Deficiency and Seizures
+
+Inform patients that vitamin B6 deficiency may develop during treatment with carbidopa/levodopa therapies, including RYTARY.
+Tell patients to inform their healthcare provider if they develop symptoms such as depression, confusion, cheilosis, glossitis, dermatitis, anemia, neuropathy, and/or seizures [see Warnings and Precautions (5.7)].
+
 Hypotension and Syncope
 
 Advise patients that they may develop orthostatic hypotension with or without symptoms such as dizziness, nausea, syncope, and sweating [see Adverse Reactions (6.1)].
@@ -45,11 +50,18 @@ Advise patients to notify their healthcare provider if they become pregnant or i
 
 Advise female patients to notify their physicians if they intend to breastfeed or are breastfeeding an infant [see Use in Specific Populations (8.2)].
 
-Manufactured by:
+Manufactured By:
 
 Bora Pharmaceutical Laboratories Inc.
 
 Jhunan, Taiwan
+
+Or
+
+Amneal Pharmaceuticals Pvt.
+Ltd.
+
+Ahmedabad 382220, INDIA
 
 Distributed by:
 
@@ -57,13 +69,11 @@ Amneal Specialty, a division of Amneal Pharmaceuticals LLC
 
 Bridgewater, NJ 08807
 
-Printed in USA
-
 Copyright 2019 Amneal Pharmaceuticals LLC
 
 All rights reserved
 
 Rev.
-08-2025-01
+03-2026-02
 
 1566-05
