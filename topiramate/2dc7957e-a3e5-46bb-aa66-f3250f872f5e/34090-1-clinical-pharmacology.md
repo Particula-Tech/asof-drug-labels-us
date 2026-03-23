@@ -12,7 +12,7 @@ Topiramate is only weakly effective in blocking clonic seizures induced by the G
 Topiramate is also effective in rodent models of epilepsy, which include tonic and absence-like seizures in the spontaneous epileptic rat (SER) and tonic and clonic seizures induced in rats by kindling of the amygdala or by global ischemia.
 
 Changes (increases and decreases) from baseline in vital signs (systolic blood pressure-SBP, diastolic blood pressure-DBP, pulse) occurred more frequently in pediatric patients (6 to 17 years) treated with various daily doses of topiramate (50 mg, 100 mg, 200 mg, 2 to 3 mg/kg) than in patients treated with placebo in controlled trials for the preventive treatment of migraine.
-The most notable changes were SBP < 90 mm Hg, DBP < 50 mm Hg, SBP or DBP increases or decreases ≥ 20 mm Hg, and pulse increases or decreases ≥ 30 beats per minute.
+The most notable changes were SBP <90 mm Hg, DBP <50 mm Hg, SBP or DBP increases or decreases ≥20 mm Hg, and pulse increases or decreases ≥30 beats per minute.
 These changes were often dose-related, and were most frequently associated with the greatest treatment difference at the 200 mg dose level.
 Systematic collection of orthostatic vital signs has not been conducted.
 The clinical significance of these various changes in vital signs has not been clearly established.
@@ -21,16 +21,16 @@ The clinical significance of these various changes in vital signs has not been c
 
 Absorption and Distribution
 
-Linear pharmacokinetics of topiramate from TROKENDI XR ®were observed following a single oral dose over the range of 50 mg to 200 mg.
-At 25 mg, the pharmacokinetics of TROKENDI XR ®is nonlinear possibly due to the binding of topiramate to carbonic anhydrase in red blood cells.
+Linear pharmacokinetics of topiramate from TROKENDI XR were observed following a single oral dose over the range of 50 mg to 200 mg.
+At 25 mg, the pharmacokinetics of TROKENDI XR is nonlinear possibly due to the binding of topiramate to carbonic anhydrase in red blood cells.
 
-The peak plasma concentrations (C max) of topiramate occurred at approximately 24 hours following a single 200 mg oral dose of TROKENDI XR ®.
-At steady-state, the (AUC 0-24, C max, and C min) of topiramate from TROKENDI XR ®administered once-daily and the immediate-release tablet administered twice-daily were shown to be bioequivalent.
-Fluctuation of topiramate plasma concentrations at steady-state for TROKENDI XR ®administered once-daily was approximately 26% and 42% in healthy subjects and in epileptic patients, respectively, compared to approximately 40% and 51%, respectively, for immediate-release topiramate [see Clinical Pharmacology (12.6)].
+The peak plasma concentrations (C max) of topiramate occurred at approximately 24 hours following a single 200 mg oral dose of TROKENDI XR.
+At steady-state, the (AUC 0-24, C max, and C min) of topiramate from TROKENDI XR administered once-daily and the immediate-release tablet administered twice-daily were shown to be bioequivalent.
+Fluctuation of topiramate plasma concentrations at steady-state for TROKENDI XR administered once-daily was approximately 26% and 42% in healthy subjects and in epileptic patients, respectively, compared to approximately 40% and 51%, respectively, for immediate-release topiramate [see Clinical Pharmacology (12.6)].
 
-Compared to the fasted state, high-fat meal increased the C maxof topiramate by 37% and shortened the T maxto approximately 8 hours following a single dose of TROKENDI XR ®, while having no effect on the AUC.
+Compared to the fasted state, high-fat meal increased the C maxof topiramate by 37% and shortened the T maxto approximately 8 hours following a single dose of TROKENDI XR, while having no effect on the AUC.
 Modeling of the observed single dose fed data with simulation to steady state showed that the effect on C maxis significantly reduced following repeat administrations.
-TROKENDI XR ®can be taken without regard to meals.
+TROKENDI XR can be taken without regard to meals.
 
 Topiramate is 15% to 41% bound to human plasma proteins over the blood concentration range of 0.5 mcg/mL to 250 mcg/mL.
 The fraction bound decreased as blood concentration increased.
@@ -48,7 +48,7 @@ There is evidence of renal tubular reabsorption of topiramate.
 In rats, given probenecid to inhibit tubular reabsorption, along with topiramate, a significant increase in renal clearance of topiramate was observed.
 This interaction has not been evaluated in humans.
 Overall, oral plasma clearance (CL/F) is approximately 20 mL/min to 30 mL/min in adults following oral administration.
-The mean elimination half-life of topiramate was approximately 31 hours following repeat administration of TROKENDI XR ®.
+The mean elimination half-life of topiramate was approximately 31 hours following repeat administration of TROKENDI XR.
 
 Specific Populations
 
@@ -76,7 +76,7 @@ Similarly, topiramate half-life was longer (13%) in the elderly.
 Reduced topiramate clearance resulted in slightly higher maximum plasma concentration (23%) and AUC (25%) in elderly subjects than observed in young adults.
 Topiramate clearance is decreased in the elderly only to the extent that renal function is reduced [see Dosage and Administration (2.4)and Use in Specific Populations (8.5)].
 
-In a study of 13 healthy elderly subjects and 18 healthy young adults who received TROKENDI XR ®, 30% higher mean C maxand 44% higher AUC values were observed in elderly compared to young subjects.
+In a study of 13 healthy elderly subjects and 18 healthy young adults who received TROKENDI XR, 30% higher mean C maxand 44% higher AUC values were observed in elderly compared to young subjects.
 Elderly subjects exhibited shorter median T maxat 16 hours versus 24 hours in young subjects.
 The apparent elimination half-life was similar across age groups.
 As recommended for all patients, dosage adjustment is indicated in elderly patients with a creatinine clearance rate less than 70 mL/min/1.73 m 2) [see Dosage and Administration (2.5)and Use in Specific Populations (8.5)].
@@ -99,7 +99,7 @@ As in adults, hepatic enzyme-inducing antiepileptic drugs decrease the steady st
 Pediatric Patients with Obesity
 
 A population PK analysis of topiramate was conducted in 129 children <21 years of age with and without obesity to evaluate the potential impact of obesity on plasma topiramate exposures.
-Obesity was defined as BMI≥95 percentile for age and sex based on CDC-recommended BMI-for-age growth charts for males and females.
+Obesity was defined as BMI ≥95 percentile for age and sex based on CDC-recommended BMI-for-age growth charts for males and females.
 Using the currently recommended dosing regimens, children with obesity are likely to have median values of average concentration at steady-state and trough concentration at steady-state that are up to 20% lower and 19% lower, respectively, compared to children without obesity.
 Dosage adjustment according to obesity status is not necessary.
 
@@ -107,13 +107,13 @@ Drug-Drug Interaction Studies
 
 In vitrostudies indicate that topiramate does not inhibit CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, and CYP3A4/5 isozymes.
 In vitrostudies indicate that immediate-release topiramate is a mild inhibitor of CYP2C19 and a mild inducer of CYP3A4.
-The same drug interactions can be expected with the use of TROKENDI XR ®.
+The same drug interactions can be expected with the use of TROKENDI XR.
 
 Antiepileptic Drugs
 
 Potential interactions between immediate-release topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
 The effects of these interactions on mean plasma AUCs are summarized in Table 9.
-Interaction of TROKENDI XR ®and standard AEDs is not expected to differ from the experience with immediate-release topiramate products.
+Interaction of TROKENDI XR and standard AEDs is not expected to differ from the experience with immediate-release topiramate products.
 
 In Table 9, the second column (AED concentration) describes what happens to the concentration of the co-administered AED listed in the first column when topiramate is added.
 The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate when compared to topiramate given alone.
@@ -140,7 +140,7 @@ The clinical significance of the changes observed is not known [see Drug Interac
 
 Digoxin
 
-In a single-dose study, serum digoxin AUC was decreased by 12% with concomitant topiramate administration.
+In a single-dose study, serum digoxin AUC decreased by 12% with concomitant topiramate administration.
 The clinical relevance of this observation has not been established.
 
 Hydrochlorothiazide
@@ -157,7 +157,7 @@ A drug interaction study conducted in healthy volunteers evaluated the steady-st
 The results of this study indicated that the mean metformin C maxand AUC 0-12hincreased by 17% and 25%, respectively, when topiramate was added.
 Topiramate did not affect metformin T max. The clinical significance of the effect of topiramate on metformin pharmacokinetics is not known.
 Oral plasma clearance of topiramate appears to be reduced when administered with metformin.
-The clinical significance of the effect of metformin on topiramate or TROKENDI XR ®pharmacokinetics is unclear.
+The clinical significance of the effect of metformin on topiramate or TROKENDI XR pharmacokinetics is unclear.
 
 Pioglitazone
 
@@ -217,18 +217,18 @@ Venlafaxine
 Multiple dosing of topiramate (150 mg/day) in healthy volunteers did not affect the pharmacokinetics of venlafaxine or O-desmethyl venlafaxine.
 Multiple dosing of venlafaxine (150 mg) did not affect the pharmacokinetics of topiramate.
 
-## 12.6 Relative Bioavailability of TROKENDI XR ®Compared to Immediate-Release Topiramate
+## 12.6 Relative Bioavailability of TROKENDI XR Compared to Immediate-Release Topiramate
 
 Study in Healthy Normal Volunteers
 
-TROKENDI XR ®taken once a day provides steady state plasma levels comparable to immediate-release topiramate taken every 12 hours, when administered at the same total 200-mg daily dose.
-In a crossover study, 33 healthy subjects were titrated to a 200-mg dose of either TROKENDI XR ®or immediate-release topiramate and were maintained at 200 mg per day for 10 days.
+TROKENDI XR taken once a day provides steady state plasma levels comparable to immediate-release topiramate taken every 12 hours, when administered at the same total 200-mg daily dose.
+In a crossover study, 33 healthy subjects were titrated to a 200-mg dose of either TROKENDI XR or immediate-release topiramate and were maintained at 200 mg per day for 10 days.
 
 The 90% CI for the ratios of AUC 0-24, C maxand C min, as well as partial AUC (the area under the concentration-time curve from time 0 to time p (post dose) for multiple time points were within the 80 to 125% bioequivalence limits, indicating no clinically significant difference between the two formulations.
 In addition, the 90% CI for the ratios of topiramate plasma concentration at each of multiple time points over 24 hours for the two formulations were within the 80 to 125% bioequivalence limits, except for the initial time points before 1.5 hours post-dose.
 
 Study in Patients with Epilepsy
 
-In a study in epilepsy patients treated with immediate-release topiramate alone or in combination with either enzyme-inducing or neutral AEDs who were switched to an equivalent daily dose of TROKENDI XR ®, there was a 10% decrease in AUC 0-24, C max, and C minon the first day after the switch in all patients.
+In a study in epilepsy patients treated with immediate-release topiramate alone or in combination with either enzyme-inducing or neutral AEDs who were switched to an equivalent daily dose of TROKENDI XR, there was a 10% decrease in AUC 0-24, C max, and C minon the first day after the switch in all patients.
 At steady state, AUC 0-24and C maxwere comparable to immediate-release topiramate in all patients.
-While patients treated with TROKENDI XR ®alone or in combination with neutral AEDs showed comparable C minat steady state, patients treated with enzyme-inducers showed a 10% decrease in C min. This difference is likely not clinically significant and probably due to the small number of patients on enzyme-inducers.
+While patients treated with TROKENDI XR alone or in combination with neutral AEDs showed comparable C minat steady state, patients treated with enzyme-inducers showed a 10% decrease in C min. This difference is likely not clinically significant and probably due to the small number of patients on enzyme-inducers.

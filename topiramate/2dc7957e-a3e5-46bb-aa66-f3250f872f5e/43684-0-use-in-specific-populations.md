@@ -106,7 +106,7 @@ Women of childbearing potential who are not planning a pregnancy should use effe
 
 Seizures in Pediatric Patients 6 Years of Age and Older
 
-The safety and effectiveness of TROKENDI XR ®for treatment of partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndromes in pediatric patients at least 6 years of age is based on controlled trials with immediate-release topiramate [see Adverse Reactions (6.1), Clinical Studies (14.2, 14.3)].
+The safety and effectiveness of TROKENDI XR for treatment of partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndromes in pediatric patients at least 6 years of age is based on controlled trials with immediate-release topiramate [see Adverse Reactions (6.1), Clinical Studies (14.2, 14.3)].
 
 The adverse reactions in pediatric patients treated for partial onset seizure, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndrome are similar to those seen in adults [see Warnings and Precautions (5)and Adverse Reactions (6)].
 
@@ -114,13 +114,13 @@ These include, but are not limited to:
 
 - oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)]
 - dose-related increased incidence of metabolic acidosis [see Warnings and Precautions (5.4)]
-- dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.13)]
+- dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.15)]
 
 Not Recommended for Pediatric Patients Younger than 6 Years of Age
 
-The safety and effectiveness of TROKENDI XR for treatment of partial-onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndromes in pediatric patients younger than 6 years of age has not been established.
+The safety and effectiveness of TROKENDI XR for treatment of partial-onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndromes in pediatric patients younger than 6 years of age have not been established.
 
-Because the capsule must be swallowed whole, and may not be sprinkled on food, crushed or chewed, TROKENDI XR ®is recommended only for children age 6 or older.
+Because the capsule must be swallowed whole, and may not be sprinkled on food, crushed or chewed, TROKENDI XR is recommended only for children age 6 or older.
 
 The following pediatric use information for adjunctive treatment for partial onset epilepsy in infants and toddlers (1 to 24 months) is based on studies conducted with immediate-release topiramate, which failed to demonstrate efficacy.
 
@@ -144,7 +144,7 @@ The incidence of these abnormal shifts was 6 % for placebo, 10% for 5 mg/kg/day,
 There was a mean dose-related increase in alkaline phosphatase.
 The significance of these findings is uncertain.
 
-Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.13)].
+Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.15)].
 
 Treatment with immediate-release topiramate for up to 1 year was associated with reductions in Z SCORES for length, weight, and head circumference [see Warnings and Precautions (5.4)and Adverse Reactions (6)].
 
@@ -167,7 +167,7 @@ Therefore, the Least Square Mean treatment differences shown reflect an immediat
 Statistically significant effects were observed for decreases in BMD (and bone mineral content) in lumbar spine and total body less head and in weight.
 Subgroup analyses according to age demonstrated similar negative effects for all key safety outcomes (i.e., BMD, height, weight).
 
-Table 8 Summary of Immediate-release Topiramate Treatment Difference Results at 12 Months for Key Safety Outcomes
+Table 8: Summary of Immediate-release Topiramate Treatment Difference Results at 12 Months for Key Safety Outcomes
 
 | Safety Parameter | Treatment Difference in Least Square Means (95 % Confidence Interval) |  |  |
 | --- | --- | --- | --- |
@@ -182,8 +182,8 @@ Table 8 Summary of Immediate-release Topiramate Treatment Difference Results at 
 | Annual Change in Weight (kg) |  | -2.05 | (-3.66, -0.45) |
 
 Metabolic acidosis (serum bicarbonate <20 mEq/L) was observed in all immediate-release topiramate-treated patients at some time in the study [see Warnings and Precautions (5.4)].
-Over the whole study, 76% more immediate-release topiramate-treated patients experienced persistent metabolic acidosis (i.e., 2 consecutive visits with or final serum bicarbonate < 20 mEq/L) compared to levetiracetam-treated patients.
-Over the whole study, 35% more immediate-release topiramate-treated patients experienced a markedly abnormally low serum bicarbonate (i.e., absolute value <17 mEq/L and ≥ 5mEq/L decrease from pre-treatment), indicating the frequency of more severe metabolic acidosis, compared to levetiracetam-treated patients.
+Over the whole study, 76% more immediate-release topiramate-treated patients experienced persistent metabolic acidosis (i.e., 2 consecutive visits with or final serum bicarbonate <20 mEq/L) compared to levetiracetam-treated patients.
+Over the whole study, 35% more immediate-release topiramate-treated patients experienced a markedly abnormally low serum bicarbonate (i.e., absolute value <17 mEq/L and ≥5mEq/L decrease from pre-treatment), indicating the frequency of more severe metabolic acidosis, compared to levetiracetam-treated patients.
 The decrease in BMD at 12 months was correlated with decreased serum bicarbonate, suggesting that metabolic acidosis was at least a partial factor contributing to this adverse effect on BMD.
 
 Immediate-release topiramate-treated patients exhibited an increased risk for developing an increased serum creatinine and an increased serum glucose above the normal reference range compared to control patients.
@@ -204,7 +204,7 @@ The most common cognitive adverse reaction in pooled double-blind studies in ped
 Markedly abnormally low serum bicarbonate values indicative of metabolic acidosis were reported in topiramate-treated pediatric migraine patients [see Warnings and Precautions (5.4)].
 
 In topiramate-treated pediatric patients (12 to 17 years of age) compared to placebo-treated patients, abnormally increased results were more frequent for creatinine, BUN, uric acid, chloride, ammonia, total protein, and platelets.
-Abnormally decreased results were observed with topiramate vs placebo treatment for phosphorus and bicarbonate [see Adverse Reactions (6.1)].
+Abnormally decreased results were observed with topiramate vs. placebo treatment for phosphorus and bicarbonate [see Adverse Reactions (6.1)].
 
 Notable changes (increases and decreases) from baseline in systolic blood pressure, diastolic blood pressure, and pulse that were observed occurred more commonly in pediatric patients treated with topiramate compared to pediatric patients treated with placebo [see Clinical Pharmacology (12.2)].
 

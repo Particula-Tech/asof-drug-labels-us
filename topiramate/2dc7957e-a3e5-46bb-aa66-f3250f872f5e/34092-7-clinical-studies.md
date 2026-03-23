@@ -2,7 +2,7 @@
 
 ## 14.1 Bridging Study to Demonstrate Pharmacokinetic Equivalence between Extended-Release and Immediate-Release Topiramate Formulations
 
-The basis for approval of the extended-release formulation (TROKENDI XR ®) included the studies described below using an immediate-release formulation and the demonstration of the pharmacokinetic equivalence of TROKENDI XR ®to immediate-release topiramate through the analysis of concentrations and cumulative AUCs at multiple time points [see Clinical Pharmacology (12.6)].
+The basis for approval of the extended-release formulation (TROKENDI XR) included the studies described below using an immediate-release formulation and the demonstration of the pharmacokinetic equivalence of TROKENDI XR to immediate-release topiramate through the analysis of concentrations and cumulative AUCs at multiple time points [see Clinical Pharmacology (12.6)].
 
 The clinical studies described in the following sections were conducted using immediate-release topiramate.
 
@@ -79,7 +79,7 @@ Patients With Lennox-Gastaut Syndrome
 The effectiveness of topiramate as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome in patients 6 years of age and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 10), comparing a single dosage of topiramate with placebo (see Table 11).
 
 Patients in Study 10 were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate or placebo.
-Patients who were experiencing at least 60 seizures per month before study entry were stabilized on optimum dosages of their concomitant AEDs during a 4 week baseline phase.
+Patients who were experiencing at least 60 seizures per month before study entry were stabilized on optimum dosages of their concomitant AEDs during a 4-week baseline phase.
 Following baseline, patients were randomly assigned to placebo or topiramate in addition to their other AEDs.
 Active drug was titrated beginning at 1 mg/kg/day for a week; the dose was then increased to 3 mg/kg/day for one week then to 6 mg/kg/day.
 After titration, patients entered an 8-week stabilization period.
@@ -120,8 +120,8 @@ Table 11: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epile
 | Target Topiramate Dosage (mg per day) |  |  |  |  |  |  |  |  |
 | Partial Onset Seizures Studies in Adults |  |  |  |  |  |  |  |  |
 | 2 | N | 45 | 45 | 45 | 46 | -- | -- | -- |
-| Median % Reduction | 12 | 27 p=0.080; | 48 p ≤ 0.010; | 45 p ≤ 0.001; | -- | -- | -- |  |
-| % Responders | 18 | 24 | 44 p ≤ 0.050; | 46 | -- | -- | -- |  |
+| Median % Reduction | 12 | 27 p=0.080; | 48 p≤0.010; | 45 p≤0.001; | -- | -- | -- |  |
+| % Responders | 18 | 24 | 44 p≤0.050; | 46 | -- | -- | -- |  |
 | 3 | N | 47 | -- | -- | 48 | 48 | 47 | -- |
 | Median % Reduction | 2 | -- | -- | 41 | 41 | 36 |  |  |
 | % Responders | 9 | -- | -- | 40 | 41 | 36 |  |  |
@@ -129,7 +129,7 @@ Table 11: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epile
 | Median % Reduction | 1 | -- | 41 p=0.065; | -- | -- | -- | -- |  |
 | % Responders | 8 | -- | 35 | -- | -- | -- | -- |  |
 | 5 | N | 30 | -- | -- | 30 | -- | -- | -- |
-| Median % Reduction | -12 | -- | -- | 46 p ≤0.005; | -- | -- | -- |  |
+| Median % Reduction | -12 | -- | -- | 46 p≤0.005; | -- | -- | -- |  |
 | % Responders | 10 | -- | -- | 47 | -- | -- | -- |  |
 | 6 | N | 28 | -- | -- | -- | 28 | -- | -- |
 | Median % Reduction | -21 | -- | -- | -- | 24 | -- | -- |  |
@@ -162,7 +162,7 @@ Adult Patients
 
 The results of 2 multicenter, randomized, double-blind, placebo-controlled, parallel-group clinical trials conducted in US (Study 11) or the US and Canada (Study 12) established the effectiveness of immediate-release topiramate in the preventive treatment of migraine.
 The design of both trials was identical, enrolling patients with a history of migraine with or without aura, for at least 6 months, according to the International Headache Society (IHS) diagnostic criteria.
-Patients with a history of cluster headaches or basilar, opthalmoplegic, hemiplegic, or transformed migraine headaches were excluded from the trials.
+Patients with a history of cluster headaches or basilar, ophthalmoplegic, hemiplegic, or transformed migraine headaches were excluded from the trials.
 Patients were required to have completed up to a 2-week washout of any prior migraine preventative medications before starting the baseline phase.
 
 Patients who experienced 3 to 12 migraine headaches over the 4 weeks in the baseline phase were randomized to either immediate-release topiramate 50 mg/day, 100 mg/day, 200 mg/day (twice the recommended daily dosage for migraine prophylaxis) or placebo, and treated for a total of 26 weeks (8-week titration period and 18-week maintenance period.).
@@ -176,7 +176,7 @@ The median average daily dosages were 48 mg/day, 88 mg/day, and 132 mg/day in th
 
 The mean migraine headache frequency rate at baseline was approximately 5.5 migraine headaches per 28 days and was similar across treatment groups.
 The change in the mean 4-week migraine headache frequency from baseline to the double-blind phase was -1.3, -2.1, and -2.2 in the immediate-release topiramate 50, 100, and 200 mg/day groups, respectively, versus -0.8 in the placebo group (see Figure 2).
-The treatment differences between the immediate release topiramate 100 and 200 mg/day groups versus placebo were similar and statistically significant (p < 0.001 for both comparisons).
+The treatment differences between the immediate release topiramate 100 and 200 mg/day groups versus placebo were similar and statistically significant (p <0.001 for both comparisons).
 
 In Study 12, a total of 468 patients (406 females, 62 males) ranging in age from 12 to 65 years, were randomized and provided efficacy data.
 Two hundred fifty-five patients completed the entire 26-week double-blind phase.
@@ -184,7 +184,7 @@ The median average daily dosages were 47 mg/day, 86 mg/day, and 150 mg/day in th
 
 The mean migraine headache frequency rate at baseline was approximately 5.5 migraine headaches per 28 days and was similar across treatment groups.
 The change in the mean 4-week migraine headache period frequency from baseline to the double-blind phase was -1.4, -2.1, and -2.4 in the immediate-release topiramate 50, 100, and 200 mg/day groups, respectively, versus -1.1 in the placebo group (see Figure 2).
-The differences between the immediate-release topiramate 100 and 200 mg per day groups versus placebo were similar and statistically significant (p = 0.008 and p < 0.001, respectively).
+The differences between the immediate-release topiramate 100 and 200 mg per day groups versus placebo were similar and statistically significant (p=0.008 and p<0.001, respectively).
 
 In both studies there were no apparent differences in treatment effect within age or gender subgroups.
 Because most patients were Caucasian, there were insufficient numbers of patients from different races to make a meaningful comparison of race.
@@ -209,10 +209,10 @@ Effectiveness of treatment was assessed by comparing each immediate-release topi
 The percent reduction from baseline to the last 12 weeks of the double-blind phase in average monthly migraine attack rate is shown in Table 12.
 The 100 mg immediate-release topiramate dose produced a statistically significant treatment difference relative to placebo of 28% reduction from baseline in the monthly migraine attack rate.
 
-The mean reduction from baseline to the last 12 weeks of the double-blind phase in average monthly attack rate, a key secondary efficacy endpoint in Study 13 (and the primary efficacy endpoint in Studies 11 and 12, of adults) was 3.0 for 100 mg immediate-release topiramate dose and 1.7 for placebo.
+The mean reduction from baseline to the last 12 weeks of the double-blind phase in average monthly attack rate, a key secondary efficacy endpoint in Study 13 (and the primary efficacy endpoint in Studies 11 and 12 of adults) was 3.0 for 100 mg immediate-release topiramate dose and 1.7 for placebo.
 This 1.3 treatment difference in mean reduction from baseline of monthly migraine rate was statistically significant (p=0.0087).
 
-Table 12: Percent Reduction from Baseline to the Last 12 Weeks of Double- Blind Phase in Average Monthly Attack Rate: Study 13 (Intent-to-Treat Analysis Set)
+Table 12: Percent Reduction from Baseline to the Last 12 Weeks of Double-Blind Phase in Average Monthly Attack Rate: Study 13 (Intent-to-Treat Analysis Set)
 
 | Category | Placebo (N=33) | Immediate-Release Topiramate 50 mg/day (N=35) | Immediate-Release Topiramate 100 mg/day (N=35) |
 | --- | --- | --- | --- |
