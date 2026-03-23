@@ -1,51 +1,59 @@
 INSTRUCTIONS FOR USE
 
-OTULFI [oh tool fee]
+OTULFI (oh tool fee)
 
 (ustekinumab-aauz)
 
 injection, for subcutaneous use
 
-Instructions for injecting OTULFI using a prefilled syringe.
+This Instructions for Use contains information on how to inject OTULFI using a prefilled syringe.
 
 Read this Instructions for Use before you start using OTULFI.
-Your doctor or nurse should show you how to prepare and give your injection of OTULFI the right way.
+A healthcare provider should show you how to prepare and give an injection of OTULFI the right way.
 
-If you cannot give yourself the injection:
+If you cannot give the injection:
 
-- •ask your doctor or nurse to help you, or
-- •ask someone who has been trained by a doctor or nurse to give your injections.
+- •ask a healthcare provider to help you, or
+- •ask someone who has been trained by a healthcare provider to give the injections.
 
-Do not try to inject OTULFI yourself until you have been shown how to inject OTULFI by your doctor, nurse or health professional.
+Do not try to inject OTULFI until you have been shown how to inject OTULFI by a healthcare provider.
 
-Important information:
+Important Information You Need to Know Before Injecting OTULFI:
 
+- •For subcutaneous use only (inject directly under the skin).
 - •Before you start, check the carton to make sure that it is the right dose.
-  You will have either 45 mg or 90 mg as prescribed by your doctor.
-  - oIf your dose is 45 mg, you will receive one 45 mg prefilled syringe.
-  - oIf your dose is 90 mg, you will receive either one 90 mg prefilled syringe or two 45 mg prefilled syringes.
-    If you receive two 45 mg prefilled syringes for a 90 mg dose, you will need to give yourself two injections, one right after the other.
-- •Children 12 years of age and older with psoriasis, who weigh 132 pounds (60 kg) or more may use a prefilled syringe.
-- •Store OTULFI in a refrigerator between 36°F to 46°F (2°C to 8°C) in the original carton to protect from light.
-- •If needed, individual OTULFI prefilled syringes may also be stored at room temperature up to 86°F (30°C) for a maximum single period of up to 30 days in the original carton to protect from light.
-  Record the date when the prefilled syringe is first removed from the refrigerator on the carton in the space provided.
-  If a syringe has been stored at room temperature, it should not be returned to the refrigerator.
+  You will have either 45 mg or 90 mg as prescribed by the healthcare provider.
+  - oIf the dose is 45 mg, you will receive one 45 mg prefilled syringe.
+  - oIf the dose is 90 mg, you will receive either one 90 mg prefilled syringe or two 45 mg prefilled syringes.
+    If you receive two 45 mg prefilled syringes for a 90 mg dose, you will need to give two injections, one right after the other.
 - •Check the expiration date on the prefilled syringe and carton.
-  If the expiration date has passed or if the prefilled syringe has been kept at room temperature up to 86°F (30°C) for longer than a maximum single period of 30 days or if the prefilled syringe has been stored above 86°F (30°C), do not use it.
-  If the expiration date has passed or if the prefilled syringe has been stored above 86°F (30°C), call your doctor or pharmacist, or call or call manufacturer`s phone for help.
+  Do not use OTULFI after the expiration date has passed or if the prefilled syringe has been kept at room temperature up to 86ºF (30ºC) for longer than a maximum single period of 30 days, or if the prefilled syringe has been stored above 86ºF (30ºC).
+  Call your healthcare provider or pharmacist, or call Fresenius Kabi USA, LLC at 1-800-551-7176 for help.
 - •Make sure the syringe is not damaged.
-- •Check your prefilled syringe for any particles or discoloration.
-  Your prefilled syringe should look clear and colorless to slightly brown-yellow.
+- •Check the prefilled syringe for any particles or discoloration.
+  The liquid in the prefilled syringe should look clear and colorless to slightly brown-yellow.
 - •Do not use if it is frozen, discolored, cloudy or has particles.
   Get a new prefilled syringe.
 - •Do not shake the prefilled syringe at any time.
-  Shaking your prefilled syringe may damage your OTULFI medicine.
-  If your prefilled syringe has been shaken, do not use it.
+  Shaking the prefilled syringe may damage the OTULFI medicine.
+  If the prefilled syringe has been shaken, do not use it.
   Get a new prefilled syringe.
-- •To reduce the risk of accidental needle sticks, each prefilled syringe has a needle guard that is automatically activated to cover the needle after you have given your injection.
+- •To reduce the risk of accidental needle sticks, each prefilled syringe has a needle guard that is automatically activated to cover the needle after you have given the injection.
   Do not pull back on the plunger at any time.
 
-Gather the supplies you will need to prepare and to give your injection.
+Storing OTULFI prefilled syringes
+
+- •Store OTULFI prefilled syringes in the refrigerator between 36°F to 46°F (2°C to 8°C)
+- •Store OTULFI prefilled syringes in the original carton to protect from light.
+- •Do not freeze OTULFI prefilled syringes.
+- •If needed, individual OTULFI prefilled syringes may be stored at room temperature up to 86ºF (30°C) for a maximum single period of up to 30 days in the original carton to protect from light.
+- •Record the date when the prefilled syringe is removed from the refrigerator on the carton in the space provided.
+- •After a prefilled syringe has been stored at room temperature, do not return it to the refrigerator.
+- •Throw away (discard) the prefilled syringe if it is not used within 30 days at room temperature storage.
+
+Keep OTULFI and all medicines out of the reach of children.
+
+Gather the supplies you will need to prepare and to give the injection.
 (See Figure A)
 
 You will need:
@@ -53,9 +61,9 @@ You will need:
 - •antiseptic wipes
 - •cotton balls or gauze pads
 - •adhesive bandage
-- •your prescribed dose of OTULFI (See Figure B)
+- •the prescribed dose of OTULFI (See Figure B)
 - •FDA-cleared sharps disposal container.
-  See "Step 4: Dispose of the syringe."
+  See "Step 4: Disposing of the syringes."
 
 Figure A
 
@@ -63,40 +71,39 @@ Figure B
 
 To prevent early activation of the needle safety guard, do not touch the NEEDLE GUARD ACTIVATION CLIPS at any time during use.
 
-Step 1: Prepare the injection.
+Step 1: Preparing the injection
 
 - •Choose a well-lit, clean, flat work surface.
 - •Wash your hands well with soap and warm water.
 - •Hold the prefilled syringe with the covered needle pointing upward.
 
-Step 2: Prepare your injection site
+Step 2: Preparing the injection site
 
-- •Choose an injection site around your stomach area (abdomen), buttocks, upper legs (thighs).
-  If a caregiver is giving you the injection, the outer area of the upper arms may also be used.
+- •Choose an injection site around the stomach area (abdomen), buttocks, upper legs (thighs).
+  If a caregiver is giving the injection, the outer area of the upper arms may also be used.
   (See Figure C)
 - •Use a different injection site for each injection.
   Do not give an injection in an area of the skin that is tender, bruised, red or hard.
-- •Clean the skin with an antiseptic wipe where you plan to give your injection.
+- •Clean the skin with an antiseptic wipe where you plan to give the injection.
 - •Do not touch this area again before giving the injection.
-  Let your skin dry before injecting.
+  Let the skin dry before injecting.
 - •Do not fan or blow on the clean area.
 
 Figure C
 
-*Areas in gray are recommended injection sites.
+*Areas in gray are recommended injection sites
 
-Step 3: Inject OTULFI
+Step 3: Injecting OTULFI
 
-- •Remove the needle cover when you are ready to inject your OTULFI.
+- •Remove the needle cover when you are ready to inject OTULFI.
 - •Do not touch the plunger or plunger head while removing the needle cover.
-- •Hold the body of the prefilled syringe with one hand and pull the needle cover straight off.
+- •Hold the body of the prefilled syringe with one hand, and pull the needle cover straight off.
   (See Figure D)
 - •Put the needle cover in the trash.
 - •You may also see a drop of liquid at the end of the needle.
   This is normal.
 - •Do not touch the needle or let it touch anything.
-- •Do not use the prefilled syringe if it is dropped without the needle cover in place or if it is dropped onto a hard surface.
-  Call your doctor, nurse or health professional for instructions.
+- •Do not use the prefilled syringe if it is dropped without the needle cover in place.
 - Figure D
 - 
 - •Hold the body of the prefilled syringe in one hand between the thumb and index fingers.
@@ -118,50 +125,47 @@ Figure F
 Figure G
 
 - •When the plunger is pushed as far as it will go, keep pressure on the plunger head.
-  Take the needle out of the skin and let go of the skin.
+  Take the needle out of the skin and then let go of the skin.
 - •Slowly take your thumb off the plunger head.
   This will let the empty syringe move up until the entire needle is covered by the needle guard.
   (See Figure H)
 
 Figure H
 
-- •When the needle is pulled out of your skin, there may be a little bleeding at the injection site.
+- •When the needle is pulled out of the skin, there may be a little bleeding at the injection site.
   This is normal.
   You can press a cotton ball or gauze pad to the injection site if needed.
   Do not rub the injection site.
   You may cover the injection site with a small adhesive bandage, if necessary.
 
-If your dose is 90 mg, you will receive either one 90 mg prefilled syringe or two 45 mg prefilled syringes.
-If you receive two 45 mg prefilled syringes for a 90 mg dose, you will need to give yourself a second injection right after the first.
-Repeat Steps 1–3 for the second injection using a new syringe.
+If the dose is 90 mg, you will receive either one 90 mg prefilled syringe or two 45 mg prefilled syringes.
+If you receive two 45 mg prefilled syringes for a 90 mg dose, you will need to give a second injection right after the first.
+Repeat Steps 1 to 3 for the second injection using a new syringe.
 Choose a different site for the second injection.
 
-Step 4: Dispose of the syringe.
+Step 4: Disposing of the syringes
 
 - •Put the syringe in an FDA-cleared sharps disposal container right away after use.
-  Do not throw away (dispose of) loose syringes in your household trash.
+  Do not throw away (dispose of) syringes in your household trash.
 - •If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
-  - •made of heavy-duty plastic.
-  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out.
-  - •upright and stable during use,
-  - •leak-resistant,
-  - •and properly labeled to warn of hazardous waste inside the container.
+  - omade of heavy-duty plastic,
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - oupright and stable during use,
+  - oleak-resistant,
+  - oand properly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be local or state laws about how to throw away syringes and needles.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.
 - •Do not dispose of your sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your sharps disposal container.
-- •If you have any questions, talk to your doctor or pharmacist.
-
-Keep OTULFI and all medicines out of the reach of children.
+- •If you have any questions, talk to your healthcare provider or pharmacist.
 
 Manufactured by:
 
 Fresenius Kabi USA, LLC, Lake Zurich, IL 60047, U.S.A, US License Number 2146
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-
-Issued: 09/2024
+Revised: 01/2026
 
 INSTRUCTIONS FOR USE
 
@@ -171,84 +175,87 @@ OTULFI (oh tool fee)
 
 injection, for subcutaneous use
 
-lnstructions for injecting OTULFI from a vial.
+This lnstructions for Use contains information on how to inject OTULFI using a vial.
 
 Read this lnstructions for Use before you start using OTULFI.
-Your doctor or nurse should show you how to prepare, measure your dose, and give your injection of OTULFI the right way.
+A healthcare provider should show you how to prepare, measure the dose, and give an injection of OTULFI the right way.
 
-lf you cannot give yourself the injection:
+lf you cannot give the injection:
 
-- •ask your doctor or nurse to help you, or
-- •ask someone who has been trained by a doctor or nurse to give your injections.
+- •ask a healthcare provider to help you, or
+- •ask someone who has been trained by a healthcare provider to give the injections.
 
-Do not try to inject OTULFI yourself until you have been shown how to inject OTULFI by your doctor, nurse or health professional.
+Do not try to inject OTULFI until you have been shown how to inject OTULFI by a healthcare provider.
 
-lmportant information:
+lmportant Information You Need to Know Before Injecting OTULFI:
 
+- •For subcutaneous use only (inject directly under the skin).
 - •Before you start, check the carton to make sure that it is the right dose.
-  You will have either 45 mg or 90 mg as prescribed by your doctor.
-  - olf your dose is 45 mg or less you will receive one 45 mg vial.
-  - olf your dose is 90 mg, you will receive two 45 mg vials and you will need to give yourself two injections, one right after the other.
-- •Children 12 years of age and older weighing less than 132 pounds require a dose lower than 45 mg.
-- •Check the expiration date on the vial and carton. lf the expiration date has passed, do not use it. lf the expiration date has passed, call your doctor or pharmacist, or call Fresenius Kabi USA, LLC at 1-800-551-7176 for help.
+  You will have either 45 mg or 90 mg as prescribed by the healthcare provider.
+  - olf the dose is 45 mg or less you will receive one 45 mg vial.
+  - olf the dose is 90 mg, you will receive two 45 mg vials and you will need to give two injections, one right after the other.
+- •Check the expiration date on the vial and carton. lf the expiration date has passed, do not use it. lf the expiration date has passed, call the healthcare provider, or call Fresenius Kabi USA, LLC at 1-800-551-7176 for help.
 - •Check the vial for any particles or discoloration.
-  Your vial should look clear and colorless to slightly brown-yellow.
+  The liquid in the vial should look clear and colorless to slightly brown-yellow.
 - •Do not use if it is frozen, discolored, cloudy or has particles.
   Get a new vial.
 - •Do not shake the vial at any time.
-  Shaking your vial may damage your OTULFI medicine. lf your vial has been shaken, do not use it.
+  Shaking the vial may damage your OTULFI medicine. lf the vial has been shaken, do not use it.
   Get a new vial.
 - •Do not use a OTULFI vial more than one time, even if there is medicine left in the vial.
   After the rubber stopper is punctured, OTULFI can become contaminated by harmful bacteria which could cause an infection if re-used.
-  Therefore, throw away any unused OTULFI after you give your injection.
-- •Safely throw away (dispose of) OTULFI vials after use.
+  Therefore, throw away any unused OTULFI after you give the injection.
+- •Safely throw away (dispose of) OTULFI vials, needles, and syringes after use.
+  See “Step 6: Disposing of needles, syringes, and vials."
 - •Do not re-use syringes or needles.
-  See “Step 6: Dispose of needles and syringes."
 - •To avoid needle-stick injuries, do not recap needles.
 
-Storage Information
+Storing OTULFI vials
 
 - •Store OTULFI vials in a refrigerator between 36°F to 46°F (2°C to 8°C).
-- •Store OTULFI vials standing up straight.
-- •Store OTULFI in the original carton to protect it from light until time to use it.
-- •Do not freeze OTULFI.
+- •Store OTULFI vials standing up straight (upright).
+- •Store OTULFI vials in the original carton to protect from light until the time of use.
+- •Do not freeze OTULFI vials.
 
-Gather the supplies you will need to prepare OTULFI and to give your injection.
+Keep OTULFI and all medicines out of the reach of children.
+
+Gather the supplies you will need to prepare OTULFI and to give the injection.
 (See Figure A)
 
 You will need:
 
-- •a syringe with the needle attached, you will need a prescription from your healthcare provider to get syringes with the needles attached from your pharmacy.
+- •a syringe with the needle attached, you will need a prescription from a healthcare provider to get syringes with the needles attached from your pharmacy.
 - •antiseptic wipes
 - •cotton balls or gauze pads
 - •adhesive bandage
-- •your prescribed dose of OTULFI
+- •the prescribed dose of OTULFI
 - •FDA-cleared sharps disposal container.
-  See "Step 6: Dispose of needles and syringes."
+  See "Step 6: Disposing of needles, syringes, and vials."
 
 Figure A
 
-Step 1: Prepare the injection.
+Step 1: Preparing the injection
 
 - •Choose a well-lit, clean, flat work surface.
 - •Wash your hands well with soap and warm water.
 
-Step 2: Prepare your injection site
+Step 2: Preparing the injection site
 
-- •Choose an injection site around your stomach area (abdomen), buttocks, and upper legs (thighs). lf a caregiver is giving you the injection, the outer area of the upper arms may also be used.
+- •Choose an injection site around the stomach area (abdomen), buttocks, and upper legs (thighs).
+- •lf a caregiver is giving the injection, the outer area of the upper arms may also be used.
   (See Figure B)
 - •Use a different injection site for each injection.
   Do not give an injection in an area of the skin that is tender, bruised, red or hard.
-- •Clean the skin with an antiseptic wipe where you plan to give your injection.
+- •Clean the skin with an antiseptic wipe where you plan to give the injection.
 - •Do not touch this area again before giving the injection.
-  Let your skin dry before injecting.
+  Let the skin dry before injecting.
 - •Do not fan or blow on the clean area.
 
 Figure B
 
 *Areas in gray are recommended injection sites.
 
-Step 3: Prepare the vial.
+Step 3: Preparing the vial
 
 - •Remove the cap from the top of the vial.
   Throw away the cap but do not remove the rubber stopper.
@@ -261,11 +268,10 @@ Figure C
 
 Figure D
 
-Do not touch the rubber stopper after you clean it.
-
+- •Do not touch the rubber stopper after you clean it.
 - •Put the vial on a flat surface.
 
-Step 4: Prepare the needle
+Step 4: Preparing the syringe
 
 - •Pick up the syringe with the needle attached.
 - •Remove the cap that covers the needle.
@@ -275,7 +281,7 @@ Step 4: Prepare the needle
 
 Figure E
 
-- •Carefully pull back on the plunger to the line that matches the dose prescribed by your doctor.
+- •Carefully pull back on the plunger to the line that matches the dose prescribed by the healthcare provider.
 - •Hold the vial between your thumb and index (pointer) finger.
 - •Use your other hand to push the syringe needle through the center of the rubber stopper.
   (See Figure F)
@@ -288,7 +294,7 @@ Figure F
 - •Hold the OTULFI vial with one hand.
 - •lt is important that the needle is always in the liquid in order to prevent air bubbles forming in the syringe.
 - •Pull back on the syringe plunger with your other hand.
-- •Fill the syringe until the black tip of the plunger lines up with the mark that matches your prescribed dose.
+- •Fill the syringe until the black tip of the plunger lines up with the mark that matches the prescribed dose.
 
 Figure G
 
@@ -296,50 +302,50 @@ Figure G
   Hold the syringe with the needle pointing up to see if it has any air bubbles inside.
 - •lf there are air bubbles, gently tap the side of the syringe until the air bubbles rise to the top.
   (See Figure H)
-- •Slowly press the plunger up until all of the air bubbles are out of the syringe {but none of the liquid is out).
+- •Slowly press the plunger up until all of the air bubbles are out of the syringe (but none of the liquid is out).
 - •Remove the syringe from the vial.
   Do not lay the syringe down or allow the needle to touch anything.
 
 Figure H
 
-Step 5: lnject OTULFI
+Step 5: lnjecting OTULFI
 
 - •Hold the barrel of the syringe in one hand, between the thumb and index fingers.
 - •Do not pull back on the plunger at any time.
 - •Use the other hand to gently pinch the cleaned area of skin.
   Hold firmly.
-- •Use a quick, dart-like motion to insert the needle into the pinched skin at about a 45- degree angle.
+- •Use a quick, dart-like motion to insert the needle into the pinched skin at about a 45-degree angle.
   (See Figure I)
 
 Figure I
 
 - •Push the plunger with your thumb as far as it will go to inject all of the liquid.
   Push it slowly and evenly, keeping the skin gently pinched.
-- •When the syringe is empty, pull the needle out of your skin and let go of the skin.
+- •When the syringe is empty, pull the needle out of the skin and then let go of the skin.
   (See Figure J)
 
 Figure J
 
-- •When the needle is pulled out of your skin, there may be a little bleeding at the injection site.
+- •When the needle is pulled out of the skin, there may be a little bleeding at the injection site.
   This is normal.
   You can press a cotton ball or gauze pad to the injection site if needed.
   Do not rub the injection site.
   You may cover the injection site with a small adhesive bandage, if necessary.
 
-lf your dose is 90 mg, you will receive two 45 mg vials and you will need to give yourself a second injection right after the first.
+lf the dose is 90 mg, you will receive two 45 mg vials and you will need to give a second injection right after the first.
 Repeat Steps 1 to 5 using a new syringe.
 Choose a different site for the second injection.
 
-Step 6: Dispose of the needles and syringes.
+Step 6: Disposing of needles, syringes, and vials
 
 - •Do not re-use a syringe or needle.
 - •To avoid needle-stick injuries, do not recap a needle.
-- •Put your needles and syringes in an FDA-cleared sharps disposal container right away after use.
-  Do not throw away (dispose of) loose needles and syringes in your household trash.
+- •Put the needles and syringes in an FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) needles and syringes in your household trash.
 - •lf you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
-  - omade of heavy-duty plastic
-  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-  - oupright and stable during use
+  - omade of heavy-duty plastic,
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - oupright and stable during use,
   - oleak-resistant,
   - oand properly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
@@ -348,12 +354,9 @@ Step 6: Dispose of the needles and syringes.
 - •Do not dispose of your sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your sharps disposal container.
 - •Throw away the vial into the container where you put the syringes and needles.
-- •lf you have any questions, talk to your doctor or pharmacist.
-
-Keep OTULFI and all medicines out of the reach of children.
+- •lf you have any questions, talk to your healthcare provider or pharmacist.
 
 Vial Manufactured by: Fresenius Kabi USA, LLC, Lake Zurich, IL 60047, U.S.A, US License Number 2146
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-
-Approved: 03/2025
+Revised: 01/2026

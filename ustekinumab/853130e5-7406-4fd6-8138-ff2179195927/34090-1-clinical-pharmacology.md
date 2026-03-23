@@ -43,8 +43,8 @@ The total volume of distribution at steady- state was 4.6 L in subjects with Cro
 
 Elimination
 
-The mean (±SD) half-life ranged from 14.9 ± 4.6 to 45.6 ± 80.2 days across all plaque psoriasis trials following subcutaneous administration.
-Population pharmacokinetic analyses showed that the clearance of ustekinumab was 0.19 L/day (95% CI: 0.185, 0.197) in subjects with Crohn's disease and 0.19 L/day (95% CI: 0.179, 0.192) in subjects with ulcerative colitis with an estimated median terminal half-life of approximately 19 days for both IBD (Crohn's disease and ulcerative colitis) populations.
+The mean (±SD) half-life ranged from 14.9 ± 4.6 to 45.6 ± 80.2 days across all trials in subjects with plaque psoriasis following subcutaneous administration.
+Population pharmacokinetic analyses showed that the clearance of ustekinumab was 0.19 L/day (95% CI: 0.185, 0.197) in subjects with Crohn’s disease and 0.19 L/day (95% CI: 0.179, 0.192) in subjects with ulcerative colitis with an estimated median terminal half-life of approximately 19 days for both IBD (Crohn’s disease and ulcerative colitis) populations.
 
 These results indicate the pharmacokinetics of ustekinumab were similar between subjects with Crohn's disease and ulcerative colitis.
 
@@ -67,8 +67,8 @@ There were no apparent changes in pharmacokinetic parameters (clearance and volu
 
 Age: Pediatric Population
 
-Following multiple recommended doses of ustekinumab in pediatric subjects 6 to 17 years of age with plaque psoriasis, steady-state serum concentrations of ustekinumab were achieved by Week 28.
-At Week 28, the mean ±SD steady-state trough serum ustekinumab concentrations were 0.36 ± 0.26 mcg/mL and 0.54 ± 0.43 mcg/mL, respectively, in pediatric subjects 6 to 11 years of age and pediatric subjects 12 to 17 years of age.
+Following multiple recommended doses of ustekinumab in pediatric subjects 6 years of age and older with plaque psoriasis, steady-state serum concentrations of ustekinumab were achieved by Week 28.
+At Week 28, the mean ±SD steady-state trough serum ustekinumab concentrations were 0.36 ± 0.26 mcg/mL and 0.54 ± 0.43 mcg/mL, respectively, in pediatric subjects 6 to 11 years of age and pediatric subjects 12 years of age and older.
 
 Overall, the observed steady state ustekinumab trough concentrations in pediatric subjects with plaque psoriasis were within the range of those observed for adult subjects with plaque psoriasis and adult subjects with PsA after administration of ustekinumab.
 

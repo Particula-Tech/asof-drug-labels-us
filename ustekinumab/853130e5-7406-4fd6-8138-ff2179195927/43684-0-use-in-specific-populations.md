@@ -4,23 +4,36 @@
 
 Risk Summary
 
-Limited data from observational studies, published case reports, and postmarketing surveillance on the use of ustekinumab products during pregnancy are insufficient to inform a drug associated risk of major birth defects, miscarriage, and other adverse maternal or fetal outcomes.
-Transport of human IgG antibody across the placenta increases as pregnancy progresses and peaks during the third trimester; therefore, ustekinumab products may be transferred to the developing fetus (see Clinical Considerations).
+Available data from the Organization of Teratology Information Specialists (OTIS)/MotherToBaby Pregnancy Registry, published literature and pharmacovigilance in pregnant women have not identified a ustekinumab associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes (see Data).
+There are risks to the mother and the fetus associated with inflammatory bowel disease (IBD) in pregnancy.
 In animal reproductive and developmental toxicity studies, no adverse developmental effects were observed in offspring after administration of ustekinumab to pregnant monkeys at exposures greater than 100 times the maximum recommended human dose (MRHD).
 
-The background risk of major birth defects and miscarriage for the indicated population(s) are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage of clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-## Clinical Considerations
+Clinical Considerations
+
+Disease-associated Maternal and Embryo/Fetal Risk
+
+Published data suggest that the risk of adverse pregnancy outcomes in women with IBD is associated with increased disease activity.
+Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2500 g) infants, and small for gestational age at birth.
 
 Fetal/Neonatal Adverse Reactions
 
-Because ustekinumab products may theoretically interfere with immune response to infections, consider risks and benefits prior to administering live vaccines to infants exposed to OTULFI in utero.
-There are insufficient data regarding exposed infant serum levels of ustekinumab products at birth and the duration of persistence of ustekinumab products in infant serum after birth.
-Although a specific timeframe to delay administration of live attenuated vaccines in infants exposed in utero is unknown, consider the risks and benefits of delaying a minimum of 6 months after birth because of the clearance of the product.
+Transport of endogenous IgG antibodies across the placenta increases as pregnancy progresses, and peaks during the third trimester.
+Therefore, Ustekinumab products may be present in infants exposed in utero.
+The potential clinical impact of ustekinumab product exposure in infants exposed in utero should be considered.
 
 Data
+
+Human Data
+
+An observational pregnancy registry conducted by (OTIS)/MotherToBaby in the U.S. and Canada (enrollment between 2013 and 2019) assessed the risk of major birth defects, pattern of major and minor anomalies in live-born infants, miscarriage, and adverse infant outcomes in women with ustekinumab exposure.
+In the registry study, there were 101 participants and 107 pregnancies with exposure to ustekinumab (88 prospective; 19 retrospective).
+Most participants had a primary indication of CD (65.4%) or psoriasis (30.8%).
+The pregnancy registry did not identify a ustekinumab associated risk of major birth defects, pattern of major or minor anomalies, increased risk of miscarriage or adverse infant outcomes.
+Methodological limitations of the registry include small sample size, lack of an internal comparison group, a mix of prospective and retrospective reports, and unmeasured confounders.
+The conclusions from the pregnancy registry were consistent with the published literature and pharmacovigilance.
 
 Animal Data
 
@@ -47,7 +60,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Plaque Psoriasis
 
-The safety and effectiveness of OTULFI have been established for the treatment of moderate to severe plaque psoriasis in pediatric patients 6 to 17 years of age who are candidates for phototherapy or systemic therapy.
+The safety and effectiveness of OTULFI have been established for the treatment of moderate to severe plaque psoriasis in pediatric patients 6 years of age and older who are candidates for phototherapy or systemic therapy.
 
 Use of OTULFI in pediatric patients 12 to less than 17 years of age is supported by evidence from a multicenter, randomized, 60-week trial (Ps STUDY 3) of ustekinumab that included a 12-week, double-blind, placebo-controlled, parallel-group portion, in 110 pediatric subjects 12 years of age and older [see Adverse Reactions (6.1), Clinical Studies (14.2)].
 
@@ -57,9 +70,9 @@ The safety and effectiveness of OTULFI have not been established in pediatric pa
 
 Psoriatic Arthritis
 
-The safety and effectiveness of OTULFI have been established for treatment of psoriatic arthritis in pediatric patients 6 to 17 years old.
+The safety and effectiveness of OTULFI have been established for treatment of psoriatic arthritis in pediatric patients 6 years of age and older.
 
-Use of OTULFI in these age groups is supported by evidence from adequate and well controlled trials of ustekinumab in adults with psoriasis and PsA, pharmacokinetic data from adult subjects with psoriasis, adult subjects with PsA and pediatric subjects with psoriasis, and safety data of ustekinumab from two clinical trials in 44 pediatric subjects 6 to 11 years old with psoriasis and 110 pediatric subjects 12 to 17 years old with psoriasis.
+Use of OTULFI in these age groups is supported by evidence from adequate and well controlled trials of ustekinumab in adult subjects with psoriasis and PsA, pharmacokinetic data from adult subjects with psoriasis, adult subjects with PsA and pediatric subjects with psoriasis, and safety data of ustekinumab from two clinical trials in 44 pediatric subjects 6 to 11 years old with psoriasis and 110 pediatric subjects 12 years of age and older with psoriasis.
 The observed pre-dose (trough) concentrations are generally comparable between adult subjects with psoriasis, adult subjects with PsA and pediatric subjects with psoriasis, and the PK exposure is expected to be comparable between adult and pediatric subjects with PsA [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1, 14.2, 14.3)].
 
 The safety and effectiveness of OTULFI have not been established in pediatric patients less than 6 years old with psoriatic arthritis.
