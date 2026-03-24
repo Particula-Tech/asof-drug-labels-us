@@ -36,9 +36,7 @@ Animal Data
 In an embryofetal development study with pregnant rabbits dosed during the period of organogenesis (on days 3 to 5, 6 to 7 or 7 to 9 of gestation), epinephrine caused teratogenic effects (including gastroschisis) at doses approximately 15 times the maximum recommended intramuscular,subcutaneous, or intravenous dose (on a mg/m2 basis at a maternal subcutaneous dose of 1.2 mg/kg/day for two to three days).
 Animals treated on days 6 to 7 had decreased number of implantations.
 
-In an embryofetal development study, pregnant mice were administered epinephrine (0.1 to 10
-
-mg/kg/day) on Gestation Days 6 to 15.
+In an embryofetal development study, pregnant mice were administered epinephrine (0.1 to 10 mg/kg/day) on Gestation Days 6 to 15.
 Teratogenic effects, embryonic lethality, and delays in skeletal ossification were observed at approximately 3 times the maximum recommended intramuscular, subcutaneous, or intravenous dose (on a mg/m2 basis at maternal subcutaneous dose of 1 mg/kg/day for 10 days).
 These effects were not seen in mice at approximately 2 times the maximum recommended daily intramuscular or subcutaneous dose (on a mg/m2 basis at a subcutaneous maternal dose of 0.5 mg/kg/day for 10 days).
 
