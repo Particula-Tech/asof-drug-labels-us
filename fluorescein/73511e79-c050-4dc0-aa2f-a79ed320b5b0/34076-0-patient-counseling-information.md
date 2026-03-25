@@ -9,5 +9,5 @@ Rx only
 
 Manufactured for: Long Grove Pharmaceuticals, LLC Rosemont, IL 60018
 
-Made in India US/LF/077 V02 Rev.
-12/24 PLF199/01
+Made in India Rev.
+02/26

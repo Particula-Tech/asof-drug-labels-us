@@ -2,9 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. Adequate animal reproduction studies have not been conducted with fluorescein sodium.
-It is also not known whether fluorescein sodium can cause fetal harm when administered to a pregnant woman.
-Fluorescein sodium should be given to a pregnant woman only if clearly needed.
+### Pregnancy Category C. Adequate animal reproduction studies have not been conducted with fluorescein sodium. It is also not known whether fluorescein sodium can cause fetal harm when administered to a pregnant woman. Fluorescein sodium should be given to a pregnant woman only if clearly needed.
 
 ## 8.3 Nursing Mothers
 

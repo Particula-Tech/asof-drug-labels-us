@@ -1,10 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-AK-FLUOR® (fluorescein injection, USP) 10%, 500 mg/5 mL (100mg/mL) is supplied in a single-dose 5 mL glass vial with a gray chlorobutyl serum siliconized stopper and orange flip-off cap.
-It contains a sterile dark reddish orange solution of fluorescein sodium.
+AK-FLUOR 10% (fluorescein injection) 500 mg/5 mL (100mg/mL) of fluorescein sodium is a dark reddish orange, clear solution in a single-dose vial.
 
-(NDC 81298-8660-3) 5 mL, single dose vials in a package of 12.
+- (NDC 81298-8660-3) 5 mL, single dose vials in a package of 12.
 
-AK-FLUOR® should be stored at 20°C to 25°C (68°F to 77°F) [See USP Controlled Room Temperature].
+AK-FLUOR (fluorescein injection) 25%, 500 mg/2 mL (250 mg/mL) of fluorescein sodium is a dark reddish orange, clear solution in a single-dose vial.
+This strength is currently not being marketed.
+
+Store AK-FLUOR at 20°C to 25°C (68°F to 77°F) [See USP Controlled Room Temperature].
 Do not freeze.
 Discard unused portion.

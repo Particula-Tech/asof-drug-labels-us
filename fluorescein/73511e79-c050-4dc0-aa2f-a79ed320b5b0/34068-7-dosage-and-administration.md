@@ -8,13 +8,13 @@ The recommended dosage of AK-FLUOR® 10% (100 mg/mL) is 500 mg via intravenous a
 
 Pediatric Dose
 
-For children, the dose is 7.7 mg/kg (actual body weight) up to a maximum of 500 mg, via intravenous infusion calculated on the basis of 35 mg for each 10 lbs.
-(4.54 kg) of body weight.
+For children, the dose is 7.7 mg/kg (actual body weight) up to a maximum of 500 mg, via intravenous infusion calculated on the basis of 35 mg for each 4.54 kg of body weight.
 
 ## 2.2 Preparation for Administration
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
 Do not mix or dilute with other solutions or drugs.
+Discard unused portion.
 
 ## 2.3 Administration
 

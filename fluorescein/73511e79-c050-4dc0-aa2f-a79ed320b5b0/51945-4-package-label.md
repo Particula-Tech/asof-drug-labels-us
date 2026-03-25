@@ -4,11 +4,9 @@ NDC 81298-8660-3
 
 Rx Only
 
-AK-FLU0R®10%
+AK-FLUOR®10% Fluorescein Injection, USP
 
-Fluorescein Injection, USP
-
-500 mg/5 mL (100 mg/mL) / 12 Sterile Vials (5mL each)
+500 mg/5 mL (100 mg/mL) 12 Sterile Single-Dose Vials (5mL each)
 
 LONG GROVE™ PHARMACEUTICALS
 
@@ -18,12 +16,8 @@ NDC 81298-8660-1
 
 Rx Only
 
-AK-FLU0R®10%
-
-Fluorescein Injection, USP
+AK-FLUOR®10% Fluorescein Injection, USP
 
 500 mg/5 mL (100 mg/mL)
 
-5 mL Sterile Vial
-
-For Intravenous Injection
+5 mL Sterile Single-Dose Vial For Intravenous Injection

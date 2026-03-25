@@ -1,3 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-AK-FLUOR® (fluorescein injection, USP) 10%, 500 mg/ 5mL (100 mg/ml) is a dark reddish orange, clear solution in a 5 mL single-dose vial.
+Injection:
+
+- 10% (500 mg/ 5 mL) (100 mg/mL) of fluorescein sodium as a dark reddish orange, clear solution in a single-dose vial.
+- 25% (500 mg/2 mL) (250 mg/mL) of fluorescein sodium as a dark reddish orange, clear solution in a single-dose vial (this strength is currently not being marketed).
