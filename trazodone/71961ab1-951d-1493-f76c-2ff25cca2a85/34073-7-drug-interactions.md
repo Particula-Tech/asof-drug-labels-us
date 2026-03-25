@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs Having Clinically Important Interactions With Trazodone Hydrochloride Tablets
+## 7.1 Drugs Having Clinically Important Interactions with Trazodone Hydrochloride Tablets
 
 Table 3: Clinically Important Drug Interactions with Trazodone Hydrochloride Tablets
 
@@ -30,7 +30,7 @@ Table 3: Clinically Important Drug Interactions with Trazodone Hydrochloride Tab
 | Intervention: | Measure serum digoxin or phenytoin concentrations before initiating concomitant use of trazodone. Continue monitoring and reduce digoxin or phenytoin dose as necessary. |
 | Examples: | digoxin, phenytoin |
 | Central Nervous System (CNS) Depressants |  |
-| Clinical Impact: | Trazodone may enhance the response CNS depressants. |
+| Clinical Impact: | Trazodone may enhance the response to CNS depressants. |
 | Intervention: | Patients should be counseled that trazodone may enhance the response to alcohol, barbiturates, and other CNS depressants. |
 | Examples: | alcohol, barbiturates |
 | QT Interval Prolongation |  |

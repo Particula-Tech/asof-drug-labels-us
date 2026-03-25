@@ -20,10 +20,10 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryofetal risk
+Disease-associated maternal and/or embryo-fetal risk
 
 A prospective, longitudinal study followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy.
-The women who discontinued antidepressants during pregnancy were more likely to experience a relapse of major depression that women who continued antidepressants.
+The women who discontinued antidepressants during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressants.
 Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
 
 Data

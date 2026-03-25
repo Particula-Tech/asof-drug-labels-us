@@ -2,7 +2,7 @@
 
 Death from overdose has occurred in patients ingesting trazodone and other CNS depressant drugs concurrently (alcohol; alcohol and chloral hydrate and diazepam; amobarbital; chlordiazepoxide; or meprobamate).
 
-The most severe reactions reported to have occurred with overdose of trazodone alone have been priapism, respiratory arrest, seizures, and ECG changes, including QT prolongation and syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+The most severe reactions reported to have occurred with overdose of trazodone alone have been priapism, respiratory arrest, seizures, ECG changes, including QT prolongation, and syndrome of inappropriate antidiuretic hormone secretion (SIADH).
 The reactions reported most frequently have been drowsiness and vomiting.
 Overdosage may cause an increase in incidence or severity of any of the reported adverse reactions.
 
