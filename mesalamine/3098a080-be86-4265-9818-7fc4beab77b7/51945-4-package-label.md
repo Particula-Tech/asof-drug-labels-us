@@ -1,6 +1,8 @@
 # PRINCIPAL DISPLAY PANEL - 1.2 g Tablet Bottle Label
 
-ONCE-DAILY NDC 54092-476-12
+ONCE-DAILY
+
+NDC 54092-476-12
 
 Lialda® (mesalamine) delayed release tablets 1.2 g per tablet
 
