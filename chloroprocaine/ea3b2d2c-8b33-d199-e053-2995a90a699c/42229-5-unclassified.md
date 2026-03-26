@@ -12,9 +12,6 @@ Distributed by
 
 Harrow Eye, LLC
 
-102 Woodmont Blvd.
-Suite 610
-
-Nashville, TN 37205
+Nashville, TN 37215
 
 USA
