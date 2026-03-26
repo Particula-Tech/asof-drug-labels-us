@@ -25,7 +25,7 @@ Absorption
 
 The mean maximum concentration following oral dosing with 25 mg is 18 ng/mL (range: 7 to 47 ng/mL) and 51 ng/mL (range: 28 to 100 ng/mL) following oral dosing with 100 mg of sumatriptan.
 This compares with a Cmax of 5 and 16 ng/mL following dosing with a 5 and 20 mg intranasal dose, respectively.
-The mean Cmax following a 6-mg subcutaneous injection is 71 ng/mL (range: 49 to 110 ng/mL).
+The mean Cmax following a 6 mg subcutaneous injection is 71 ng/mL (range: 49 to 110 ng/mL).
 The bioavailability is approximately 15%, primarily due to presystemic metabolism and partly due to incomplete absorption.
 The Cmax is similar during a migraine attack and during a migraine-free period, but the Tmax is slightly later during the attack, approximately 2.5 hours compared with 2 hours.
 When given as a single dose, sumatriptan displays dose proportionality in its extent of absorption (area under the curve [AUC]) over the dose range of 25 to 200 mg, but the Cmax after 100 mg is approximately 25% less than expected (based on the 25 mg dose).
@@ -50,7 +50,7 @@ Radiolabeled 14C-sumatriptan administered orally is largely renally excreted (ab
 Most of the radiolabeled compound excreted in the urine is the major metabolite, IAA, which is inactive, or the IAA glucuronide.
 Only 3% of the dose can be recovered as unchanged sumatriptan.
 
-Special Populations
+Specific Populations
 
 Age: The pharmacokinetics of sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in subjects with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years).
 
@@ -76,6 +76,6 @@ Due to gut and hepatic metabolic first-pass effects, the increase of systemic ex
 
 In a trial of 14 healthy females, pretreatment with an MAO-A inhibitor decreased the clearance of subcutaneous sumatriptan, resulting in a 2-fold increase in the area under the sumatriptan plasma concentration-time curve (AUC), corresponding to a 40% increase in elimination half-life.
 
-A small trial evaluating the effect of pretreatment with an MAO-A inhibitor on the bioavailability from a 25-mg oral sumatriptan tablet resulted in an approximately 7-fold increase in systemic exposure.
+A small trial evaluating the effect of pretreatment with an MAO-A inhibitor on the bioavailability from a 25 mg oral sumatriptan tablet resulted in an approximately 7-fold increase in systemic exposure.
 
 Alcohol: Alcohol consumed 30 minutes prior to sumatriptan ingestion had no effect on the pharmacokinetics of sumatriptan.

@@ -68,8 +68,6 @@ Ask your healthcare provider if you are not sure if your medicine is listed abov
 - an allergy to sumatriptan or any of the ingredients in sumatriptan tablets.
   See the end of this leaflet for a complete list of ingredients in sumatriptan tablets.
 
-What should I tell my healthcare provider before taking sumatriptan tablets?
-
 Before you take sumatriptan tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
 - have high blood pressure.
@@ -204,7 +202,7 @@ For more information, call 1-888-375-3784.
 
 What are the ingredients in sumatriptan tablets?
 
-Active ingredients: sumatriptan succinate
+Active ingredients: sumatriptan succinate USP
 
 Inactive ingredients: croscarmellose sodium, lactose anhydrous, lactose monohydrate, magnesium stearate, mannitol, microcrystalline cellulose, talc, titanium dioxide and triacetin.
 
@@ -220,6 +218,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0720
+Revised: 01/2026
 
 Dispense with Patient Information Sheet available at: www.drreddys.com/pi/sumatriptantabs.pdf

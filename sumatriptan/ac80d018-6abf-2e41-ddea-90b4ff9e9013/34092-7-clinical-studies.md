@@ -14,8 +14,8 @@ In all trials, doses of 25, 50, and 100 mg were compared with placebo in the tre
 In 1 trial, doses of 25, 50, and 100 mg were also compared with each other.
 
 In all 3 trials, the percentage of patients achieving headache response 2 and 4 hours after treatment was significantly greater among patients receiving sumatriptan tablets at all doses compared with those who received placebo.
-In 1 of the 3 trials, there was a statistically significant greater percentage of patients with headache response at 2 and 4 hours in the 50-mg or 100-mg group when compared with the 25-mg dose groups.
-There were no statistically significant differences between the 50-mg and 100-mg dose groups in any trial.
+In 1 of the 3 trials, there was a statistically significant greater percentage of patients with headache response at 2 and 4 hours in the 50 mg or 100 mg group when compared with the 25 mg dose groups.
+There were no statistically significant differences between the 50 mg and 100 mg dose groups in any trial.
 The results from the 3 controlled clinical trials are summarized in Table 2.
 
 Table 2.

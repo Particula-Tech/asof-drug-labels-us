@@ -40,7 +40,7 @@ Sumatriptan tablets may cause non-coronary vasospastic reactions, such as periph
 In patients who experience symptoms or signs suggestive of non-coronary vasospasm reaction following the use of any 5-HT1 agonist, rule out a vasospastic reaction before receiving additional sumatriptan tablets.
 
 Reports of transient and permanent blindness and significant partial vision loss have been reported with the use of 5-HT1 agonists.
-Since visual disorders may be part of a migraine attack, a causal relationship between these events and the use of 5-HT1 agonists have not been clearly established.
+Since visual disorders may be part of a migraine attack, a causal relationship between these events and the use of 5-HT1 agonists has not been clearly established.
 
 ## 5.6 Medication Overuse Headache
 

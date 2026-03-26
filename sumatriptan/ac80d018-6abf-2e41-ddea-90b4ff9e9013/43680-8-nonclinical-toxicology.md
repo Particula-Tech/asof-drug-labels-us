@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis
 
@@ -21,7 +21,7 @@ When sumatriptan was administered by subcutaneous injection to male and female r
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Corneal Opacitie:
+Corneal Opacities
 
 Dogs receiving oral sumatriptan developed corneal opacities and defects in the corneal epithelium.
 Corneal opacities were seen at the lowest dose tested, 2 mg/kg/day, and were present after 1 month of treatment.

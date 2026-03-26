@@ -30,8 +30,19 @@ Advise patients to notify their healthcare provider if they become pregnant duri
 
 Lactation
 
-Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
+Advise breastfeeding women that they may develop transient breast pain when taking sumatriptan tablets.
+Advise breastfeeding women that avoiding breastfeeding for 12 hours after treatment with sumatriptan can minimize their infant’s exposure to sumatriptan [see Use in Specific Populations (8.2)].
 
 Ability to Perform Complex Tasks
 
 Treatment with sumatriptan tablets may cause somnolence and dizziness; instruct patients to evaluate their ability to perform complex tasks after administration of sumatriptan tablets.
+
+Rx only
+
+Manufactured by:
+
+Dr. Reddy’s Laboratories Limited
+
+Bachupally – 500 090 INDIA
+
+Revised: 01/2026
