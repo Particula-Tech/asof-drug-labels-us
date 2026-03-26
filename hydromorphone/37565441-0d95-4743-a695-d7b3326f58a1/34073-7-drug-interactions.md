@@ -2,7 +2,7 @@
 
 Table 1 includes clinically significant drug interactions with hydromorphone hydrochloride.
 
-Table 1: Clinically Significant Drug Interactions with HYDROMORPHONE HYDROCHLORIDE
+Table 1: Clinically Significant Drug Interactions with Hydromorphone Hydrochloride
 
 | Benzodiazepines and other Central Nervous System (CNS) Depressants |  |
 | --- | --- |
