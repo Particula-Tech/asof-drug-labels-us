@@ -1,10 +1,10 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC: 70121-1577-1
+NDC 70121-1577-1
 
-Name: Phenylephrine Hydrochloride Injection, USP (Matoda)
+Phenylephrine Hydrochloride Injection, USP (Matoda)
 
-Strength: 10 mg/mL (1 mL)
+10 mg/mL (1 mL)
 
 Rx only
 
@@ -12,11 +12,11 @@ Vial Label
 
 Amneal Pharmaceuticals LLC
 
-NDC: 70121-1577-5
+NDC 70121-1577-5
 
-Name: Phenylephrine Hydrochloride Injection, USP (Matoda)
+Phenylephrine Hydrochloride Injection, USP (Matoda)
 
-Strength: 10 mg/mL (1 mL)
+10 mg/mL (1 mL)
 
 Rx only
 
@@ -24,11 +24,11 @@ Carton Label
 
 Amneal Pharmaceuticals LLC
 
-NDC: 70121-1577-1
+NDC 70121-1577-1
 
-Name: Phenylephrine Hydrochloride Injection, USP (Pipan)
+Phenylephrine Hydrochloride Injection, USP (Pipan)
 
-Strength: 10 mg/mL (1 mL)
+10 mg/mL (1 mL)
 
 Rx only
 
@@ -36,11 +36,35 @@ Vial Label
 
 Amneal Pharmaceuticals LLC
 
-NDC: 70121-1577-5
+NDC 70121-1577-5
 
-Name: Phenylephrine Hydrochloride Injection, USP (Pipan)
+Phenylephrine Hydrochloride Injection, USP (Pipan)
 
-Strength: 10 mg/mL (1 mL)
+10 mg/mL (1 mL)
+
+Rx only
+
+Carton Label
+
+Amneal Pharmaceuticals LLC
+
+NDC 70121-1577-1
+
+Phenylephrine Hydrochloride Injection, USP (Palli)
+
+10 mg/mL (1 mL)
+
+Rx only
+
+Vial Label
+
+Amneal Pharmaceuticals LLC
+
+NDC 70121-1577-5
+
+Phenylephrine Hydrochloride Injection, USP (Palli)
+
+10 mg/mL (1 mL)
 
 Rx only
 

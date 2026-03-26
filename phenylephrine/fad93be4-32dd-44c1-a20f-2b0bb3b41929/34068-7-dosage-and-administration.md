@@ -22,9 +22,9 @@ During phenylephrine hydrochloride injection administration:
 
 The following are the recommended dosages for the treatment of hypotension during anesthesia.
 
-- The recommended initial dose is 40 to 100 mcg administered by intravenous bolus.
+- The recommended initial dose is 40 mcg to 100 mcg administered by intravenous bolus.
   Additional boluses may be administered every 1 to 2 minutes as needed; not to exceed a total dosage of 200 mcg.
-- If blood pressure is below the target goal, start a continuous intravenous infusion with an infusion rate of 10 to 35 mcg/minute; not to exceed 200 mcg/minute.
+- If blood pressure is below the target goal, start a continuous intravenous infusion with an infusion rate of 10 mcg/minute to 35 mcg/minute; not to exceed 200 mcg/minute.
 - Adjust dosage according to the blood pressure goal.
 
 ## 2.3 Prepare a 100 mcg/mL Solution for Bolus Intravenous Administration

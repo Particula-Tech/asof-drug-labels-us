@@ -8,7 +8,7 @@ Data from randomized controlled trials and meta-analyses with phenylephrine hydr
 These studies have not identified an adverse effect on maternal outcomes or infant Apgar scores [see Data].
 There are no data on the use of phenylephrine during the first or second trimester.
 In animal reproduction and development studies in normotensive animals, evidence of fetal malformations was noted when phenylephrine was administered during organogenesis via a 1-hour infusion at 1.2 times the human daily dose (HDD) of 10 mg/60 kg/day.
-Decreased pup weights were noted in offspring of pregnant rats treated with 2.9 times the HDD [See Data].
+Decreased pup weights were noted in offspring of pregnant rats treated with 2.9 times the HDD [see Data].
 The estimated background risk of major birth defects and miscarriage for the indicated population are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
@@ -42,7 +42,7 @@ An increase in the incidence of limb malformation (hyperextension of the forepaw
 No malformations or embryo-fetal toxicity were reported when normotensive pregnant rats were treated with up to 3 mg/kg/day phenylephrine via continuous intravenous infusion over 1 hour (2.9-times the HDD) from Gestation Day 6 to 17.
 This dose was associated with some maternal toxicity (decreased food consumption and body weights).
 
-Decreased pup weights were reported in a pre-and postnatal development toxicity study in which normotensive pregnant rats were administered phenylephrine via continuous intravenous infusion over 1 hour (0.3, 1.0, or 3.0 mg/kg/day; 0.29, 1, or 2.9 times the HDD) from Gestation Day 6 through Lactation Day 21).
+Decreased pup weights were reported in a pre- and postnatal development toxicity study in which normotensive pregnant rats were administered phenylephrine via continuous intravenous infusion over 1 hour (0.3, 1.0, or 3.0 mg/kg/day; 0.29, 1, or 2.9 times the HDD) from Gestation Day 6 through Lactation Day 21).
 No adverse effects on growth and development (learning and memory, sexual development, and fertility) were noted in the offspring of pregnant rats at any dose tested.
 Maternal toxicities (mortality late in gestation and during lactation period, decreased food consumption and body weight) occurred at 1 and 3 mg/kg/day of phenylephrine (equivalent to and 2.9 times the HDD, respectively).
 
