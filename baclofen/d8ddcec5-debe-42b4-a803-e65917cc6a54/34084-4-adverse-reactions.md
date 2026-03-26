@@ -40,14 +40,14 @@ Common (≥1%) Adverse Reactions in Patients Treated with Baclofen for Spasticit
 
 The following adverse reactions not included in Table 1, classified by body system, were also reported:
 
-Neuropsychiatric: euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure
+Neuropsychiatric:euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure
 
-Cardiovascular: dyspnea, palpitation, chest pain, syncope
+Cardiovascular:dyspnea, palpitation, chest pain, syncope
 
-Gastrointestinal: dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool
+Gastrointestinal:dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool
 
-Genitourinary: enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria
+Genitourinary:enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria
 
-Other: rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion
+Other:rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion
 
 The following laboratory tests have been found to be abnormal in patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar.

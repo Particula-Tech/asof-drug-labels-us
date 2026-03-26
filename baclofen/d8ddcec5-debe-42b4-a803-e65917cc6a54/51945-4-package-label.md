@@ -10,7 +10,7 @@ OZOBAX ® DS
 
 Baclofen oral solution is available in different concentrations Clear liqud solution
 
-RX only
+R X only
 
 8 fl. oz.
 (237 mL)
@@ -25,7 +25,7 @@ OZOBAX ® DS
 
 Baclofen oral solution is available in different concentrations Clear liqud solution
 
-RX only
+R Xonly
 
 16 fl. oz.
 (473 mL)
