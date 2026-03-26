@@ -12,7 +12,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The primary safety assessment of SUNLENCA was based on data from heavily treatment-experienced adult participants with HIV who received SUNLENCA in a Phase 2/3 trial (CAPELLA; N=72) through Week 52 (median duration on study of 71 weeks) [see Clinical Studies (14)], as well as supportive data in treatment-naïve adult participants with HIV who received SUNLENCA in a Phase 2 trial (CALIBRATE; N=157) through Week 54 (median duration of exposure of 66 weeks).
 
 The most common adverse reactions (all Grades) reported in at least 3% of participants in CAPELLA were nausea and injection site reactions.
-The proportion of partcipants in CAPELLA who discontinued treatment with SUNLENCA due to adverse events, regardless of severity, was 1% (Grade 1 injection site nodule in 1 participant).
+The proportion of participants in CAPELLA who discontinued treatment with SUNLENCA due to adverse events, regardless of severity, was 1% (Grade 1 injection site nodule in 1 participant).
 Table 3 displays the frequency of adverse reactions (all Grades) greater than or equal to 3% in the SUNLENCA group.
 
 Table 3 Adverse Reactions (All Grades) Reported in ≥ 3% Frequencies of adverse reactions are based on all adverse events attributed to trial drug by the investigator, based on all participants (cohorts 1 and 2) in CAPELLA. of Heavily Treatment Experienced Adults with HIV-1 Receiving SUNLENCA in CAPELLA (Week 52 Analysis)

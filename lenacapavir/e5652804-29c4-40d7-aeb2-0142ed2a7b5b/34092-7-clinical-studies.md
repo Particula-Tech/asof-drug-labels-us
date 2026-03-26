@@ -11,7 +11,7 @@ Participants were enrolled into the non-randomized cohort (cohort 2, N=36) if th
 
 In the 14-day functional monotherapy period, participants in cohort 1 were randomized in a 2:1 ratio in a blinded fashion to receive either SUNLENCA or placebo, while continuing their failing regimen.
 This period was to establish the virologic activity of SUNLENCA.
-After the functional monotherapy period, participants who had received SUNLENCA continued on SUNLENCA along with an optimized background regimen (OBR); participants who had received placebo during this period initiated SUNLENCA along with an OBR.
+After the functional monotherapy period, participants who had received SUNLENCA continued on SUNLENCA along with an OBR; participants who had received placebo during this period initiated SUNLENCA along with an OBR.
 
 Participants in cohort 1 had a mean age of 52 years (range: 24 to 71), 72% were male, 46% were White, 46% were Black, and 9% were Asian.
 29% percent of participants identified as Hispanic/Latino.
@@ -52,7 +52,7 @@ Table 11 Virologic Outcomes (HIV-1 RNA < 50 copies/mL) at Weeks 26 Week 26 windo
 | --- | --- | --- |
 |  | SUNLENCA plus OBR (N=36) |  |
 | HIV-1 RNA < 50 copies/mL | 81% | 83% |
-| HIV-1 RNA ≥ 50 copies/mLIncludes participants who had ≥ 50 copies/mL in the Week 26 or 52 window; participant who discontinued early due to lack or loss of efficacy; participants who discontinued for reasons other than an adverse event (AE), death or lack or loss of efficacy and at the time of discontinuation had a viral value of ≥ 50 copies/mL. | 19% | 14% |
+| HIV-1 RNA ≥ 50 copies/mLIncludes participants who had ≥ 50 copies/mL in the Week 26 or 52 window; participants who discontinued early due to lack or loss of efficacy; participants who discontinued for reasons other than an adverse event (AE), death or lack or loss of efficacy and at the time of discontinuation had a viral value of ≥ 50 copies/mL. | 19% | 14% |
 | No virologic data in Week 26 or 52 Window | 0 | 3% |
 | Discontinued Study Drug Due to AE or Death Includes participants who discontinued due to AE or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 0 | 0 |
 | Discontinued Study Drug Due to Other Reasons Includes participants who discontinued for reasons other than an AE, death or lack or loss of efficacy, e.g., withdrew consent, loss to follow-up, etc. and Last Available HIV-1 RNA < 50 copies/mL | 0 | 3% |

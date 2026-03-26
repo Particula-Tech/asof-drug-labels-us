@@ -143,29 +143,31 @@ The M66I substitution alone or in combination conferred >3,226-fold decreased su
 
 In Clinical Trials
 
-In CAPELLA, 31% (22/72) of heavily treatment-experienced participants met the criteria for resistance analyses through Week 52 (HIV-1 RNA ≥ 50 copies/mL at confirmed virologic failure [suboptimal virologic response at Week 4, virologic rebound, or viremia at last visit]) and were analyzed for lenacapavir resistance-associated substitution emergence.
-Lenacapavir resistance-associated capsid substitutions were found in 41% (n=9) of participants with confirmed virologic failure who had post-baseline capsid genotypic resistance data (n=22).
-The M66I capsid substitution was observed in 27% (6/22) of participants, alone or in combination with other lenacapavir resistance-associated capsid substitutions including Q67Q/H, Q67Q/H/K/N, K70K/R, K70N/S, N74D, N74N/H, A105T, and T107A.
-The other 3 participants with virologic failure had emergent lenacapavir resistance-associated capsid substitutions Q67K+K70H, Q67H+K70R+T107S, and Q67Q/H.
+In CAPELLA, 39% (28/72) of heavily treatment-experienced participants met the criteria for resistance analyses through Week 156 (HIV-1 RNA ≥ 50 copies/mL at confirmed virologic failure [suboptimal virologic response at Week 4, virologic rebound, or viremia at last visit]) and were analyzed for lenacapavir resistance-associated substitution emergence.
+Lenacapavir resistance-associated capsid substitutions were found in 57% (n=16) of participants with confirmed virologic failure who had post-baseline capsid genotypic resistance data (n=28).
 
-Phenotypic analyses of the confirmed virologic failure isolates with emergent lenacapavir resistance-associated substitutions showed 6- to >1428-fold decreases in lenacapavir susceptibility when compared to WT.
+In the 16 participants with LEN resistance emergence through Week 156, 6 participants had emergence of the M66I substitution along with other substitutions (Q67H/K/N, K70N/R/S, N74D, A105T, T107A/C/S), 4 participants had emergence of Q67H + K70R with or without substitutions A105T and/or T107N or S, 2 participants had emergence of T107A or S alone, 1 participant had emergence of Q67K + K70H, 1 participant had emergence of K70N + N74K + T107T/N, 1 participant had emergence of Q67H alone, and 1 participant had emergence of N74D alone.
 
-Among the 9 participants with virologic failure who developed lenacapavir resistance-associated substitutions in capsid, 4 received SUNLENCA in combination with a background regimen with no fully active antiretrovirals based on the baseline genotypic and/or phenotypic resistance.
-Therefore, given the risk of developing resistance in situations of functional monotherapy, careful consideration should be given to having active drugs in addition to SUNLENCA in the treatment regimen.
+Phenotypic analyses of the confirmed virologic failure isolates with emergent lenacapavir resistance-associated substitutions showed 4.5- to >1428-fold decreases in lenacapavir susceptibility when compared to WT.
 
-Four participants with virologic failure had emergent resistance substitutions to components of the optimized background regimen (OBR): emergent NRTI substitution M184I/V and NNRTI substitution K103N/Y with emtricitabine and doravirine plus atazanavir, bictegravir, and tenofovir alafenamide in OBR; emergent NNRTI substitution V106M from a mixture at baseline (in addition to lenacapavir resistance-associated substitutions M66I + T107A) with doravirine plus emtricitabine and ibalizumab in OBR; emergent NRTI substitutions K65R and S68N from mixtures at baseline (in addition to lenacapavir resistance-associated substitution M66I) with tenofovir alafenamide, plus emtricitabine, dolutegravir, darunavir/cobicistat, and rilpivirine in OBR; and emergent NRTI substitution K65K/R with tenofovir disoproxil fumarate plus darunavir/cobicistat, dolutegravir, and emtricitabine in OBR.
+Among the 16 participants with virologic failure who developed lenacapavir resistance-associated substitutions in capsid, 6 received SUNLENCA in combination with a background regimen with no fully active antiretrovirals based on the baseline genotypic and/or phenotypic resistance.
+Therefore, given the risk of developing resistance in situations of functional monotherapy, careful consideration should be given to having fully active drugs in addition to SUNLENCA in the treatment regimen.
+
+Nine participants with virologic failure had emergent resistance substitutions to components of the optimized background regimen (OBR) including NNRTI substitutions K103N/S and V106M, NRTI substitutions L74I, M184I/V, K65K/R, and K65R and S68N from mixtures at baseline, and emergent protease resistance substitutions M46I, I47I/V, I54I/L, V82V/A, I84I/V, L90L/M.
 
 Oral Maintenance for Missed Injections
 
-Of the 57 participants who received oral maintenance, 9 participants (5 participants in Cohort 1 and 4 participants in Cohort 2) met the criteria for resistance analysis.
-Six of these 9 participants had emergent lenacapavir resistance substitutions in capsid (Q67H [n=4], K70R or N [n=2], N74D or K [n=2], T107N [n=1]) with 4.5- to 393-fold decreased lenacapavir susceptibility.
-In addition, 2 participants had emergent resistance substitutions to darunavir in their optimized background regimen.
+Of the 57 participants who received oral maintenance, 1 participant in Cohort 2 met the criteria for resistance analysis.
+The participant had emergence of lenacapavir resistance substitution N74D in capsid with no phenotypic data due to assay failure.
 
 Lenacapavir Resistance with Suboptimal Adherence to Other Antiretroviral Drugs in the Regimen
 
-The development of lenacapavir-associated capsid resistance substitutions in 6 participants during the oral maintenance period was likely due to suboptimal adherence to the optimized background oral regimens that included dolutegravir and/or darunavir.
-After developing lenacapavir resistance, 5 of the 6 participants achieved HIV-1 RNA resuppression (HIV-1 RNA < 50 copies/mL) while maintaining SUNLENCA treatment.
-With the emergence of lenacapavir resistance substitutions and decreased susceptibility to lenacapavir, it is unclear how much antiviral activity lenacapavir is contributing to the resuppression of HIV-1 RNA in these 5 participants.
+The development of lenacapavir-associated capsid resistance substitutions can occur with suboptimal adherence to the other oral antivirals in the regimen.
+Seven of the 16 participants who had virologic rebound and developed lenacapavir resistance substitutions achieved resuppresion to HIV-1 RNA < 50 copies/mL on background oral regimens that included darunavir and/or dolutegravir.
+With lenacapavir resistance substitutions and decreased susceptibility to lenacapavir, it is unclear how much antiviral activity lenacapavir is contributing to the resuppression of HIV-1 RNA in these participants.
+Three of the 16 participants had a subsequent viral load rebound associated with additional emergent lenacapavir resistance substitutions and higher fold changes to lenacapavir.
+This supports that there was reduced lenacapavir antiviral activity from the previous emergent lenacapavir resistance substitutions, which contributed to further lenacapavir resistance emergence.
+Additionally, in these 3 participants, there was no evidence of emergent resistance to the oral OBR, signifying suboptimal adherence to the oral OBR and functional lenacapavir monotherapy.
 
 Thus, adherence to other antiretroviral drugs in the regimen should be optimized while the patient is receiving SUNLENCA.
 During SUNLENCA treatment, if suboptimal adherence to the oral antiretroviral regimen occurs with concurrent HIV-1 RNA viral load increases (i.e., virologic failure), lenacapavir resistance should be assessed, and if detected, consideration should be given to discontinuing SUNLENCA treatment [see Dosage and Administration (2.1), Warnings and Precautions (5.2)].
