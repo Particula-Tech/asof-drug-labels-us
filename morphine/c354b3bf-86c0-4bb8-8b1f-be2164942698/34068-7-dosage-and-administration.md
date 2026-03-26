@@ -9,7 +9,7 @@
   Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of MS CONTIN for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
 - Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 - Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with MS CONTIN.
-  Consider this risk when selecting an initial dose and when making dose adjustments [see Warning and Precautions (5.2)].
+  Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5.2)].
 - MS CONTIN is administered orally once every 8 or 12 hours.
 - Instruct patients to swallow MS CONTIN tablets whole.
   Crushing, chewing, or dissolving MS CONTIN tablets will result in uncontrolled delivery of morphine and can lead to overdose or death [see Warnings and Precautions (5.1)].

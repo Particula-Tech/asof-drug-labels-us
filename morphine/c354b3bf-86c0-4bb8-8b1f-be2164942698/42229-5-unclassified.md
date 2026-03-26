@@ -1,4 +1,4 @@
-Healthcare professionals can telephone Rhodes Pharmaceuticals L.P.'s Medical Services Department (1-888-827-0616) for information on this product.
+Healthcare professionals can telephone Rhodes Pharmaceuticals L.P.'s Medical Services Department (1-888-873-5329) for information on this product.
 
 Manufactured by: Purdue Pharma L.P.
 Stamford, CT 06901-3431

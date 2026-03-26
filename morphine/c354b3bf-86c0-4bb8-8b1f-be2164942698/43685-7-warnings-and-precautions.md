@@ -70,7 +70,7 @@ In patients already receiving an opioid analgesic, prescribe a lower initial dos
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Inform patients and caregivers of this potential interaction and educate them on the signs and symptoms of respiratory depression (including sedation).
 
-If concomitant use is warranted, consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warning and Precautions (5.2), see Overdosage (10)].
+If concomitant use is warranted, consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.2), see Overdosage (10)].
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when MS CONTIN is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
