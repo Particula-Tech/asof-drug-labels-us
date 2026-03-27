@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA091682"
+  ],
+  "inn": "heparin",
+  "labeler": "Plano Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "87188-102-01",
+    "87188-102-90"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "heparin sodium",
+      "name": "Heparin Sodium"
+    }
+  ],
+  "setid": "4deaa9ac-91aa-d96b-e063-6294a90a47bd",
+  "source": "dailymed"
+}
