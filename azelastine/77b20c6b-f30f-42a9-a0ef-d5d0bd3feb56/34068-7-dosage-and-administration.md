@@ -11,7 +11,7 @@ The recommended dosage of Azelastine HCl Nasal Spray in adults and adolescent pa
 
 ## 2.3 Important Administration Instructions
 
-Administer Azelastine HCl Nasal Spray by the intranasal route only
+Administer Azelastine HCl Nasal Spray by the intranasal route only.
 
 Priming: Prime Azelastine HCl Nasal Spray before initial use by releasing 4 sprays or until a fine mist appears.
 When Azelastine HCl Nasal Spray has not been used for 3 or more days, reprime with 2 sprays or until a fine mist appears.

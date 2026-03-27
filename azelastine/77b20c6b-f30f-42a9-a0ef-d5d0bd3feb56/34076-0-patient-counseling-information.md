@@ -23,6 +23,5 @@ Keep Spray Out of Eyes Instruct patients to avoid spraying Azelastine HCl Nasal 
 Keep Out of Children's Reach Instruct patients to keep Azelastine HCl Nasal Spray out of the reach of children.
 If a child accidentally ingests Azelastine HCl Nasal Spray, seek medical help or call a poison control center immediately.
 
-Manufactured By: Alkem Laboratories 1733 Gilsinn Lane, Fenton, MO 63026 Manufactured for: Alkem Laboratories Ltd Mumbai - 400 013, INDIA Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
-
-Revised: November, 2018 PT 2385-02
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921 Revised: February, 2025

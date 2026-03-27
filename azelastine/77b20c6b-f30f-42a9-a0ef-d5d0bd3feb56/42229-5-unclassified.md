@@ -36,7 +36,7 @@ Do not spray it into your eyes or mouth.
 
 • Use Azelastine HCl Nasal Spray exactly as your healthcare provider tells you to use it.
 
-• Do not use more than your healthcare provider tells you
+• Do not use more than your healthcare provider tells you.
 
 • Throw away your Azelastine HCl Nasal Spray bottle after using 200 sprays.
 Even though the bottle may not be completely empty, you may not get the correct dose of medicine.
@@ -113,7 +113,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about Azelastine HCl Nasal Spray that is written for health professionals.
 
-For more information call 1-877-ASC-RX01 (877-272-7901).
+For more information call 1-877-272-7901.
 
 What are the ingredients in Azelastine HCl Nasal Spray?
 
@@ -139,7 +139,7 @@ Figure A identifies the parts of your Azelastine HCl Nasal Spray pump Figure A
 
 Before you use Azelastine HCl Nasal Spray for the first time, you will need to prime the bottle.
 
-Priming your Azelastine HCl Nasal Spray)
+Priming your Azelastine HCl Nasal Spray
 
 Remove the transparent dust cover over the tip of the pump and the white safety clip just under the “shoulders” of the pump (See Figure B).
 
@@ -164,9 +164,9 @@ Figure C
 If you do not see a fine mist, clean the tip of the spray nozzle.
 See the “Cleaning the Spray Tip of your Azelastine HCl Nasal Spray ” section below.
 
-• If you do not use Azelastine HCl Nasal Spray) for 3 or more days, you will need to prime the pump with 2 sprays or until you see a fine mist.
+• If you do not use Azelastine HCl Nasal Spray for 3 or more days, you will need to prime the pump with 2 sprays or until you see a fine mist.
 
-Using your Azelastine HCl Nasal Spray)
+Using your Azelastine HCl Nasal Spray
 
 Step 1.
 Blow your nose to clear your nostrils.
@@ -178,7 +178,9 @@ Step 3.
 Place the spray tip about ¼ inch to ½ inch into 1 nostril.
 Hold bottle upright and aim the spray tip toward the back of your nose (See Figure D).
 
-Figure DStep 4.
+Figure D
+
+Step 4.
 Close your other nostril with a finger.
 Press the pump 1 time and sniff gently at the same time, keeping your head tilted forward and down (See Figure E).
 
@@ -221,24 +223,5 @@ Make sure it is dry before you put it back onto the bottle.
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured By:
-
-Alkem Laboratories
-
-1733 Gilsinn Lane, Fenton, MO 63026
-
-Manufactured for:
-
-Alkem Laboratories Ltd
-
-Mumbai - 400 013, INDIA
-
-Distributed by:
-
-Ascend Laboratories, LLC
-
-Parsippany, NJ 07054
-
-Revised: 11/2018
-
-(PT 2531-02)
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921 Revised: 02/2025 PT 9185
