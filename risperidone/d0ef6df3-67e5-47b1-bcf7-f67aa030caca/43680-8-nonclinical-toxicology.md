@@ -13,10 +13,10 @@ The table below summarizes the multiples of the human dose on a mg/m2 (mg/kg) ba
 |  |  |  | Multiples of Maximum Human Dose in mg/m2 (mg/kg) |  |
 | --- | --- | --- | --- | --- |
 | Tumor Type | Species | Sex | Lowest Effect Level | Highest No-Effect Level |
-| Pituitary adenomas | mouse | female | 0.75 (9.4) | 0.2 (2.4) |
-| Endocrine pancreas adenomas | rat | male | 1.5 (9.4) | 0.4 (2.4) |
-| Mammary gland adenocarcinomas | mouse rat rat | female female male | 0.2 (2.4) 0.4 (2.4) 6.0 (37.5) | none none1.5 (9.4) |
-| Mammary gland neoplasm, Total | rat | male | 1.5 (9.4) | 0.4 (2.4) |
+| Pituitary adenomas | mouse | Female | 0.75 (9.4) | 0.2 (2.4) |
+| Endocrine pancreas adenomas | rat | Male | 1.5 (9.4) | 0.4 (2.4) |
+| Mammary gland adenocarcinomas | mouse rat rat | Female Female Male | 0.2 (2.4) 0.4 (2.4) 6.0 (37.5) | none none1.5 (9.4) |
+| Mammary gland neoplasm, Total | rat | Male | 1.5 (9.4) | 0.4 (2.4) |
 
 Antipsychotic drugs have been shown to chronically elevate prolactin levels in rodents.
 Serum prolactin levels were not measured during the risperidone carcinogenicity studies; however, measurements during subchronic toxicity studies showed that risperidone elevated serum prolactin levels 5 to 6 fold in mice and rats at the same doses used in the carcinogenicity studies.

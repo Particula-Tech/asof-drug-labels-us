@@ -6,10 +6,10 @@ Recommended Daily Dosage by Indication
 |  | Initial Dose | Titration (Increments) | Target Dose | Effective Dose Range |
 | --- | --- | --- | --- | --- |
 | Schizophrenia: adults (2.1) | 2 mg | 1 to 2 mg | 4 to 8 mg | 4 to 16 mg |
-| Schizophrenia: adolescents (2.2) | 0.5 mg | 0.5 mg to 1 mg | 3 mg | 1 to 6 mg |
+| Schizophrenia: adolescents (2.2) | 0.5 mg | 0.5 to 1 mg | 3 mg | 1 to 6 mg |
 | Bipolar mania: adults (2.2) | 2 to 3 mg | 1 mg | 1 to 6 mg | 1 to 6 mg |
-| Bipolar mania: children and adolescents (2.2) | 0.5 mg | 0.5 mg to 1 mg | 1 to 2.5 mg | 1 to 6 mg |
-| Irritability in autistic disorder (2.3) | 0.25 mg Can increase to 0.5 mg by Day 4: (body weight less than 20 kg)0.5 mg Can increase to 1 mg by Day 4: (body weight greater than or equal to 20 kg). | After Day 4, at intervals of >2 weeks: 0.25 mg (body weight less than 20 kg)0.5 mg (body weight greater than or equal to 20 kg) | 0.5 mg: (body weight less than 20 kg)1 mg: (body weight greater than or equal to 20 kg) | 0.5 to 3 mg |
+| Bipolar mania: children and adolescents (2.2) | 0.5 mg | 0.5 to 1 mg | 1 to 2.5 mg | 1 to 6 mg |
+| Irritability in autistic disorder (2.3) | 0.25 mg Can increase to 0.5 mg by Day 4: (body weight less than 20 kg)0.5 mg Can increase to 1 mg by Day 4: (body weight greater than or equal to 20 kg) | After Day 4, at intervals of >2 weeks: 0.25 mg (body weight less than 20 kg)0.5 mg (body weight greater than or equal to 20 kg) | 0.5 mg: (body weight less than 20 kg)1 mg: (body weight greater than or equal to 20 kg) | 0.5 to 3 mg |
 
 Severe Renal and Hepatic Impairment in Adults: use a lower starting dose of 0.5 mg twice daily.
 May increase to dosages above 1.5 mg twice daily at intervals of one week or longer.
@@ -61,7 +61,7 @@ Adults
 The initial dose range is 2 mg to 3 mg per day.
 The dose may be adjusted at intervals of 24 hours or greater, in increments of 1 mg per day.
 The effective dose range is 1 mg to 6 mg per day, as studied in the short-term, placebo-controlled trials.
-In these trials, short-term (3 week) anti-manic efficacy was demonstrated in a flexible dosage range of 1mg to 6 mg per day [see Clinical Studies (14.2, 14.3)].
+In these trials, short-term (3 week) anti-manic efficacy was demonstrated in a flexible dosage range of 1 mg to 6 mg per day [see Clinical Studies (14.2, 14.3)].
 Risperidone doses higher than 6 mg per day were not studied.
 
 Pediatrics
@@ -99,9 +99,9 @@ Patients experiencing persistent somnolence may benefit from a once-daily dose a
 
 ## 2.4 Dosing in Patients with Severe Renal or Hepatic Impairment
 
-For patients with severe renal impairment (CLcr < 30 mL/min) or hepatic impairment (10 to15 points on Child Pugh System), the initial starting dose is 0.5 mg twice daily.
+For patients with severe renal impairment (Clcr< 30 mL/min) or hepatic impairment (10 to15 points on Child Pugh System), the initial starting dose is 0.5 mg twice daily.
 The dose may be increased in increments of 0.5 mg or less, administered twice daily.
-For doses above 1.5 mg twice daily, increase in intervals of one week or greater [see Use in Specific Populations (8.6, 8.7)].
+For doses above 1.5 mg twice daily, increase in intervals of one week or greater [see Use in Specific Populations (8.6 and 8.7)].
 
 ## 2.5 Dose Adjustments for Specific Drug Interactions
 
@@ -114,31 +114,31 @@ The risperidone dose should not exceed 8 mg per day in adults when co-administer
 When initiating therapy, risperidone should be titrated slowly.
 It may be necessary to increase the risperidone dose when enzyme inhibitors such as fluoxetine or paroxetine are discontinued [see Drug Interactions (7.1)].
 
-## 2.7 Directions for Use of Risperidone Orally Disintegrating Tablets, USP
+## 2.7 Directions for Use of Risperidone Orally Disintegrating Tablets
 
 Tablet Accessing
 
-Risperidone Orally Disintegrating Tablets, USP 0.25 mg
+Risperidone Orally Disintegrating Tablets 0.25 mg
 
-Risperidone Orally Disintegrating Tablets, USP 0.25 mg are supplied in cartons of 30 tablets with 5 blister packs of 6 (3x2) tablets.
+Risperidone Orally Disintegrating Tablets 0.25 mg are supplied in cartons of 30 tablets with 5 blister packs of 6 (3x2) tablets.
 
-Risperidone Orally Disintegrating Tablets, USP 0.5 mg and 1 mg
+Risperidone Orally Disintegrating Tablets 0.5 mg and 1 mg
 
-Risperidone Orally Disintegrating Tablets, USP 0.5 mg and 1 mg are supplied in cartons of 28 tablets with 7 blister packs of 4 (2x2) tablets, and in cartons of 30 tablets with 5 blisters packs of 6 (3x2) tablets.
+Risperidone Orally Disintegrating Tablets 0.5 mg and 1 mg are supplied in cartons of 28 tablets with 7 blister packs of 4 (2x2) tablets, and in cartons of 30 tablets with 5 blisters packs of 6 (3x2) tablets.
 
-Risperidone Orally Disintegrating Tablets, USP 2 mg, 3 mg and 4 mg
+Risperidone Orally Disintegrating Tablets 2 mg, 3 mg and 4 mg
 
-Risperidone Orally Disintegrating Tablets, USP 2 mg, 3 mg and 4 mg are supplied in cartons of 28 tablets with 7 blister packs of 4 (2x2) tablets.
+Risperidone Orally Disintegrating Tablets 2 mg, 3 mg and 4 mg are supplied in cartons of 28 tablets with 7 blister packs of 4 (2x2) tablets.
 
 Do not open the blister until ready to administer.
 For single tablet removal, separate one of the four or six blister units by tearing apart at the perforations.
 Bend the corner where indicated.
 Peel back foil to expose the tablet.
-DO NOT push the tablet through the foil because this could damage the tablet.
+DO NOT push the tablet through the foil, because this could damage the tablet.
 
 Tablet Administration
 
 Using dry hands, remove the tablet from the blister unit and immediately place the entire Risperidone Orally Disintegrating Tablet on the tongue.
 The Risperidone Orally Disintegrating Tablet should be consumed immediately, as the tablet cannot be stored once removed from the blister unit.
-Risperidone Orally Disintegrating Tablets, USP disintegrate in the mouth within seconds and can be swallowed subsequently with or without liquid.
+Risperidone Orally Disintegrating Tablets disintegrate in the mouth within seconds and can be swallowed subsequently with or without liquid.
 Patients should not attempt to split or to chew the tablet.

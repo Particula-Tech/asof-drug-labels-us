@@ -16,7 +16,7 @@ The following are discussed in more detail in other sections of the labeling:
 - Dysphagia [see Warnings and Precautions (5.12)]
 - Priapism [see Warnings and Precautions (5.13)]
 - Disruption of body temperature regulation [see Warnings and Precautions (5.14)]
-- Patients with Phenylketonuria [see Warnings and Precautions (5.15)]
+- Patients with Phenylketonuria [see Warnings and Precautions (5.15)].
 
 The most common adverse reactions in clinical trials (>5% and twice placebo) were parkinsonism, akathisia, dystonia, tremor, sedation, dizziness, anxiety, blurred vision, nausea, vomiting, upper abdominal pain, stomach discomfort, dyspepsia, diarrhea, salivary hypersecretion, constipation, dry mouth, increased appetite, increased weight, fatigue, rash, nasal congestion, upper respiratory tract infection, nasopharyngitis, and pharyngolaryngeal pain.
 
@@ -28,6 +28,8 @@ The conditions and duration of treatment with risperidone varied greatly and inc
 Safety was assessed by collecting adverse events and performing physical examinations, vital signs, body weights, laboratory analyses, and ECGs.
 
 ## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 ### Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials – Schizophrenia
 
@@ -70,12 +72,12 @@ Table 8 lists the adverse reactions reported in 2% or more of risperidone-treate
 | Arthralgia | 2 | 3 | <1 |
 | Pain in extremity | 2 | 1 | 1 |
 | Nervous System Disorders |  |  |  |
-| Parkinsonism * | 14 | 17 | 8 |
-| Akathisia * | 10 | 10 | 3 |
+| Parkinsonism* | 14 | 17 | 8 |
+| Akathisia* | 10 | 10 | 3 |
 | Sedation | 10 | 5 | 2 |
 | Dizziness | 7 | 4 | 2 |
-| Dystonia | 3 | 4 | 2 |
-| Tremor * | 2 | 3 | 1 |
+| Dystonia* | 3 | 4 | 2 |
+| Tremor* | 2 | 3 | 1 |
 | Dizziness postural | 2 | 0 | 0 |
 | Psychiatric Disorders |  |  |  |
 | Insomnia | 32 | 25 | 27 |
@@ -89,7 +91,7 @@ Table 8 lists the adverse reactions reported in 2% or more of risperidone-treate
 | Dry skin | 1 | 3 | 0 |
 | Vascular Disorders |  |  |  |
 | Orthostatic hypotension | 2 | 1 | 0 |
-| *Parkinsonism includes extrapyramidal disorder, musculoskeletal stiffness, parkinsonism, cogwheel rigidity, akinesia, bradykinesia, hypokinesia, masked facies, muscle rigidity, and Parkinson’s disease. Akathisia includes akathisia and restlessness. Dystonia includes dystonia, muscle spasms, muscle contractions involuntary, muscle contracture, oculogyration, tongue paralysis. Tremor includes tremor and parkinsonian rest tremor. |  |  |  |
+| * Parkinsonism includes extrapyramidal disorder, musculoskeletal stiffness, parkinsonism, cogwheel rigidity, akinesia, bradykinesia, hypokinesia, masked facies, muscle rigidity, and Parkinson’s disease. Akathisia includes akathisia and restlessness. Dystonia includes dystonia, muscle spasms, muscle contractions involuntary, muscle contracture, oculogyration, tongue paralysis. Tremor includes tremor and parkinsonian rest tremor. |  |  |  |
 
 ### Pediatric Patients with Schizophrenia
 
@@ -106,14 +108,14 @@ Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greate
 | Salivary hypersecretion | 0 | 10 | 2 |
 | Nervous System Disorders |  |  |  |
 | Sedation | 24 | 12 | 4 |
-| Parkinsonism * | 16 | 28 | 11 |
+| Parkinsonism* | 16 | 28 | 11 |
 | Tremor | 11 | 10 | 6 |
-| Akathisia * | 9 | 10 | 4 |
+| Akathisia* | 9 | 10 | 4 |
 | Dizziness | 7 | 14 | 2 |
-| Dystonia * | 2 | 6 | 0 |
+| Dystonia* | 2 | 6 | 0 |
 | Psychiatric Disorders |  |  |  |
 | Anxiety | 7 | 6 | 0 |
-| *Parkinsonism includes extrapyramidal disorder, muscle rigidity, musculoskeletal stiffness, and hypokinesia. Akathisia includes akathisia and restlessness. Dystonia includes dystonia and oculogyration. |  |  |  |
+| * Parkinsonism includes extrapyramidal disorder, muscle rigidity, musculoskeletal stiffness, and hypokinesia. Akathisia includes akathisia and restlessness. Dystonia includes dystonia and oculogyration. |  |  |  |
 
 ### Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials – Bipolar Mania
 
@@ -145,7 +147,7 @@ Adverse Reactions in ≥2% of Risperidone-Treated Adult Patients (and greater th
 | Dizziness | 6 | 5 |
 | Dystonia* | 5 | 1 |
 | Lethargy | 2 | 1 |
-| *Parkinsonism includes extrapyramidal disorder, parkinsonism, musculoskeletal stiffness, hypokinesia, muscle rigidity, muscle tightness, bradykinesia, cogwheel rigidity. Akathisia includes akathisia and restlessness. Tremor includes tremor and parkinsonian rest tremor. Dystonia includes dystonia, muscle spasms, oculogyration, torticollis. |  |  |
+| * Parkinsonism includes extrapyramidal disorder, parkinsonism, musculoskeletal stiffness, hypokinesia, muscle rigidity, muscle tightness, bradykinesia, cogwheel rigidity. Akathisia includes akathisia and restlessness. Tremor includes tremor and parkinsonian rest tremor. Dystonia includes dystonia, muscle spasms, oculogyration, torticollis. |  |  |
 
 Table 11 lists the adverse reactions reported in 2% or more of risperidone-treated adult patients with bipolar mania in two 3-week, double-blind, placebo-controlled adjuvant therapy trials.
 
@@ -167,9 +169,9 @@ Adverse Reactions in ≥2% of Risperidone-Treated Adult Patients (and greater th
 | Infections and Infestations |  |  |  |  |  |
 | Urinary tract infection | 2 | 1 |  |  |  |
 | Nervous System Disorders |  |  |  |  |  |
-| Parkinsonism * | 14 | 4 |  |  |  |
+| Parkinsonism* | 14 | 4 |  |  |  |
 | Sedation | 9 | 4 |  |  |  |
-| Akathisia * | 8 | 0 |  |  |  |
+| Akathisia* | 8 | 0 |  |  |  |
 | Dizziness | 7 | 2 |  |  |  |
 | Tremor | 6 | 2 |  |  |  |
 | Lethargy | 2 | 1 |  |  |  |
@@ -178,7 +180,7 @@ Adverse Reactions in ≥2% of Risperidone-Treated Adult Patients (and greater th
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |
 | Pharyngolaryngeal pain | 5 | 2 |  |  |  |
 | Cough | 2 | 0 |  |  |  |
-| *Parkinsonism includes extrapyramidal disorder, hypokinesia and bradykinesia. Akathisia includes hyperkinesia and akathisia. |  |  |  |  |  |
+| * Parkinsonism includes extrapyramidal disorder, hypokinesia and bradykinesia. Akathisia includes hyperkinesia and akathisia. |  |  |  |  |  |
 
 #### Pediatric Patients with Bipolar Mania
 
@@ -207,20 +209,20 @@ Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greate
 | Nervous System Disorders |  |  |  |
 | Sedation | 42 | 56 | 19 |
 | Dizziness | 16 | 13 | 5 |
-| Parkinsonism * | 6 | 12 | 3 |
-| Dystonia * | 6 | 5 | 0 |
-| Akathisia * | 0 | 8 | 2 |
+| Parkinsonism* | 6 | 12 | 3 |
+| Dystonia* | 6 | 5 | 0 |
+| Akathisia* | 0 | 8 | 2 |
 | Psychiatric Disorders |  |  |  |
 | Anxiety | 0 | 8 | 3 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |
 | Pharyngolaryngeal pain | 10 | 3 | 5 |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |
 | Rash | 0 | 7 | 2 |
-| *Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, bradykinesia, and nuchal rigidity. Dystonia includes dystonia, laryngospasm, and muscle spasms. Akathisia includes restlessness and akathisia. |  |  |  |
+| * Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, bradykinesia, and nuchal rigidity. Dystonia includes dystonia, laryngospasm, and muscle spasms. Akathisia includes restlessness and akathisia. |  |  |  |
 
-### Commonly-Observed Adverse Reactions in ≥5% Double-Blind, Placebo-Controlled Clinical Trials - Autistic Disorder
+### Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials - Autistic Disorder
 
-Table 13 lists the adverse reactions reported in 5% or more of risperidone-treated pediatric patients treated for irritability associated with autistic disorder in two 8-week, double-blind, placebo-controlled trials and one 6-week double blind, placebo-controlled study.
+Table 13 lists the adverse reactions reported in 5% or more of risperidone-treated pediatric patients treated for irritability associated with autistic disorder in two 8-week, double-blind, placebo-controlled trials and one 6-week double-blind, placebo-controlled study.
 
 Table 13.
 Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greater than placebo) Treated for Irritability Associated with Autistic Disorder in Double-Blind, Placebo-Controlled Trials
@@ -252,7 +254,7 @@ Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greate
 | Headache | 12 | 10 |
 | Tremor | 8 | 1 |
 | Dizziness | 8 | 2 |
-| Parkinsonism * | 8 | 1 |
+| Parkinsonism* | 8 | 1 |
 | Renal and Urinary Disorders |  |  |
 | Enuresis | 16 | 10 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |
@@ -261,7 +263,7 @@ Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greate
 | Nasal congestion | 10 | 4 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 8 | 5 |
-| *Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, muscle rigidity, cogwheel rigidity, and muscle tightness. |  |  |
+| * Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, muscle rigidity, cogwheel rigidity, and muscle tightness. |  |  |
 
 ### Other Adverse Reactions Observed During the Clinical Trial Evaluation of Risperidone
 

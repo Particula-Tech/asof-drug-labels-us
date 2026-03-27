@@ -18,7 +18,7 @@ Risperidone is not approved for the treatment of dementia-related psychosis [see
 
 Cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities, were reported in patients (mean age 85 years; range 73 to 97) in trials of risperidone in elderly patients with dementia-related psychosis.
 In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with risperidone compared to patients treated with placebo.
-Risperidone is not approved for the treatment of patients with dementia-related psychosis [seeBoxed Warning and Warnings and Precautions (5.1)].
+Risperidone is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
@@ -47,7 +47,7 @@ Chronic antipsychotic treatment should generally be reserved for patients: (1) w
 In patients who do require chronic treatment, use the lowest dose and the shortest duration of treatment producing a satisfactory clinical response.
 Periodically reassess the need for continued treatment.
 
-If signs and symptoms of tardive dyskinesia appear in a patient on risperidone drug discontinuation should be considered.
+If signs and symptoms of tardive dyskinesia appear in a patient on risperidone, drug discontinuation should be considered.
 However, some patients may require treatment with risperidone despite the presence of the syndrome.
 
 ## 5.5 Metabolic Changes
@@ -75,13 +75,14 @@ Pooled data from three double-blind, placebo-controlled schizophrenia studies an
 Table 2.
 Change in Random Glucose from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects with Schizophrenia or Bipolar Mania
 
-|  | Placebo | Risperidone 1 to 8 mg/day | >8 to 16 mg/day |
+|  | Risperidone |  |  |
 | --- | --- | --- | --- |
-| Mean change from baseline (mg/dL) |  |  |  |
+|  | Placebo 1 to 8mg/day >8 to 16 mg/day |  |  |
+|  |  | Mean change from baseline (mg/dL) |  |
 |  | n=555 | n=748 | n=164 |
 | Serum Glucose | -1.4 | 0.8 | 0.6 |
-| Proportion of patients with shifts |  |  |  |
-| Serum Glucose (<140 mg/dL to ≥200 mg/dL) | 0.6%(3/525) | 0.4%(3/702) | 0%(0/158) |
+|  |  | Proportion of patients with shifts |  |
+| Serum Glucose(<140 mg/dL to ≥200 mg/dL) | 0.6%(3/525) | 0.4%(3/702) | 0%(0/158) |
 
 In longer-term, controlled and uncontrolled studies, risperidone was associated with a mean change in glucose of +2.8 mg/dL at Week 24 (n=151) and +4.1 mg/dL at Week 48 (n=50).
 
@@ -90,13 +91,14 @@ Data from the placebo-controlled 3- to 6-week study in children and adolescents 
 Table 3.
 Change in Fasting Glucose from Three Placebo-Controlled, 3- to 6-Week, Fixed-Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 years of age), Bipolar Mania (10 to 17 years of age), or Autistic Disorder (5 to 17 years of age)
 
-|  | Placebo | Risperidone 0.5 to 6mg/day |
-| --- | --- | --- |
-| Mean change from baseline (mg/dL) |  |  |
-|  | n=76 | n=135 |
-| Serum Glucose | -1.3 | 2.6 |
-| Proportion of patients with shifts |  |  |
-| Serum Glucose (<100mg/dL to ≥126 mg/dL) | 0%(0/64) | 0.8%(1/120) |
+|  |  | Risperidone |  |
+| --- | --- | --- | --- |
+|  | Placebo |  | 0.5 to 6 mg/day |
+|  |  | Mean change from baseline (mg/dL) |  |
+|  | n=76 |  | n=135 |
+| Serum Glucose | -1.3 |  | 2.6 |
+|  |  | Proportion of patients with shifts |  |
+| Serum Glucose(<100 mg/dL to ≥126 mg/dL) | 0%(0/64) |  | 0.8%(1/120) |
 
 In longer-term, uncontrolled, open-label extension pediatric studies, risperidone was associated with a mean change in fasting glucose of +5.2 mg/dL at Week 24 (n=119).
 
@@ -109,19 +111,16 @@ Pooled data from 7 placebo-controlled, 3- to 8- week, fixed- or flexible-dose st
 Table 4.
 Change in Random Lipids from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects with Schizophrenia or Bipolar Mania
 
-| 1 to 8 mg/day | > 8 to 16 mg/day |  |  |
+|  |  | Risperidone |  |
 | --- | --- | --- | --- |
-|  | Placebo | Risperidone |  |
-|  |  | Mean change from baseline (mg/dL) |  |
-| Cholesterol | n=559 | n=742 | n=156 |
-| Change from baseline | 0.6 | 6.9 | 1.8 |
-| Triglycerides | n=183 | n=307 | n=123 |
-| Change from baseline | -17.4 | -4.9 | -8.3 |
-|  | Proportion of patients with shifts |  |  |
-| Cholesterol (<200 mg/dL to ≥240 mg/dL) | 2.7% (10/368) | 4.3%(22/516) | 6.3%(6/96) |
+|  | Placebo | 1 to 8 mg/day | >8 to 16 mg/day |
+| Cholesterol Change from baseline | n=5590.6 | Mean change from baseline (mg/dL) n=7426.9 | n=1561.8 |
+| TriglyceridesChange from baseline | n=183 -17.4 | n=307-4.9 | n=123-8.3 |
+|  |  | Proportion of patients With Shifts |  |
+| Cholesterol (<200 mg/dL to ≥240 mg/dL) | 2.7% (10/368) | 4.3% (22/516) | 6.3% (6/96) |
 | Triglycerides (<500 mg/dL to ≥500 mg/dL) | 1.1% (2/180) | 2.7% (8/301) | 2.5% (3/121) |
 
-In longer-term, controlled and uncontrolled studies, risperidone was associated with a mean change in (a) non-fasting cholesterol of +4.4 mg/dL at Week 24 (n=231) and + 5.5 mg/dL at Week 48 (n=86); and (b) non-fasting triglycerides of +19.9 mg/dL at Week 24 (n=52).
+In longer-term, controlled and uncontrolled studies, risperidone was associated with a mean change in (a) non-fasting cholesterol of +4.4 mg/dL at Week 24 (n=231) and +5.5 mg/dL at Week 48 (n=86); and (b) non-fasting triglycerides of +19.9 mg/dL at Week 24 (n=52).
 
 Pooled data from 3 placebo-controlled, 3- to 6-week, fixed-dose studies in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), or autistic disorder (5 to 17 years of age) are presented in Table 5.
 
@@ -142,7 +141,7 @@ Change in Fasting Lipids from Three Placebo-Controlled, 3- to 6-Week, Fixed- Dos
 |  | Proportion of patients with shifts |  |
 | Cholesterol(<170 mg/dL to ≥200 mg/dL) | 2.4% (1/42) | 3.8% (3/80) |
 | LDL(<110 mg/dL to ≥130 mg/dL) | 0% (0/16) | 0% (0/16) |
-| HDL(≥40 mg/dL to < 40mg/dL) | 0% (0/19) | 10% (2/20) |
+| HDL(≥40 mg/dL to <40 mg/dL) | 0% (0/19) | 10% (2/20) |
 | Triglycerides(<150 mg/dL to ≥200 mg/dL) | 1.5%(1/65) | 7.1%(8/113) |
 
 In longer-term, uncontrolled, open-label extension pediatric studies, risperidone was associated with a mean change in (a) fasting cholesterol of +2.1 mg/dL at Week 24 (n=114); (b) fasting LDL of -0.2 mg/dL at Week 24 (n=103); (c) fasting HDL of +0.4 mg/dL at Week 24 (n=103); and (d) fasting triglycerides of +6.8 mg/dL at Week 24 (n=120).
@@ -152,14 +151,13 @@ Weight Gain
 Weight gain has been observed with atypical antipsychotic use.
 Clinical monitoring of weight is recommended.
 
-Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of 7% or greater of body weight from 7 placebo-controlled, 3- to 8-week, fixed- or flexible-dose studies in adult subjects with schizophrenia or bipolar mania are presented in Table 6.
+Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of 7% or greater of body weight from 7 placebo-controlled, 3- to 8- week, fixed- or flexible-dose studies in adult subjects with schizophrenia or bipolar mania are presented in Table 6.
 
 Table 6.
-Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects With Schizophrenia or Bipolar Mania
+Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥7% Gain in Body Weight From Seven Placebo- Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects With Schizophrenia or Bipolar Mania
 
-| 1 to 8 mg/day (n=769) | >8 to 16 mg/day (n=158) |  |  |
+|  | Placebo (n=597) | Risperidone 1 to 8 mg/day (n=769) | >8 to 16 mg/day (n=158) |
 | --- | --- | --- | --- |
-|  | Placebo (n=597) | Risperidone |  |
 | Weight (kg) |  |  |  |
 | Change from baseline | -0.3 | 0.7 | 2.2 |
 | Weight Gain |  |  |  |
@@ -172,7 +170,7 @@ Data on mean changes in body weight and the proportion of subjects meeting the c
 of ≥7% gain in body weight from nine placebo-controlled, 3- to 8-week, fixed-dose studies in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), autistic disorder (5 to 17 years of age), or other psychiatric disorders (5 to 17 years of age) are presented in Table 7.
 
 Table 7.
-Mean Change in Body Weight (kg) and the Proportion of Subjects With ≥ 7% Gain in Body Weight from Nine Placebo-Controlled, 3- to 8-Week, Fixed- Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), Autistic Disorder (5 to 17 Years of Age) or Other Psychiatric Disorders (5 to 17 Years of Age)
+Mean Change in Body Weight (kg) and the Proportion of Subjects With ≥ 7% Gain in Body Weight From Nine Placebo-Controlled, 3- to 8-Week, Fixed- Dose Studies in Children and Adolescents With Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), Autistic Disorder (5 to 17 Years of Age) or Other Psychiatric Disorders (5 to 17 Years of Age)
 
 |  | Placebo (n=375) | Risperidone 0.5 to 6 mg/day (n=448) |
 | --- | --- | --- |
@@ -209,7 +207,7 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
 An increase in pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 ## 5.7 Orthostatic Hypotension
 
@@ -219,7 +217,7 @@ The risk of orthostatic hypotension and syncope may be minimized by limiting the
 
 Monitoring of orthostatic vital signs should be considered in patients for whom this is of concern.
 A dose reduction should be considered if hypotension occurs.
-Risperidone should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension, e.g., dehydration and hypovolemia and in the elderly and patients with renal or hepatic impairment.
+Risperidone should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension, e.g., dehydration and hypovolemia, and in the elderly and patients with renal or hepatic impairment.
 Monitoring of orthostatic vital signs should be considered if hypotension occurs.
 Clinically significant hypotension has been observed with concomitant use of risperidone and antihypertensive medication.
 
@@ -255,7 +253,8 @@ Risperidone should be used cautiously in patients with a history of seizures.
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer’s dementia.
-Risperidone and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia [seeBoxed Warning and Warnings and Precautions (5.1)].
+Risperidone and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
+[see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.13 Priapism
 

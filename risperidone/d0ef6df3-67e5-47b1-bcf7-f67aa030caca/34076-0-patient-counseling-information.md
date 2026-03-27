@@ -4,7 +4,7 @@ Physicians are advised to discuss the following issues with patients for whom th
 
 Neuroleptic Malignant Syndrome (NMS)
 
-Counsel patients about a potentially fatal adverse reaction, Neuroleptic Malignant Syndrome (NMS),that has been reported in association with administration of antipsychotic drugs.
+Counsel patients about a potentially fatal adverse reaction, Neuroleptic Malignant Syndrome (NMS), that has been reported in association with administration of antipsychotic drugs.
 Advise patients, family members, or caregivers to contact the healthcare provider or report to the emergency room if they experience signs and symptoms of NMS, including hyperpyrexia, muscle rigidity, altered mental status including delirium, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia) [see Warnings and Precautions (5.3)].
 
 Tardive Dyskinesia
@@ -27,7 +27,7 @@ Hyperprolactinemia
 
 Counsel patients on signs and symptoms of hyperprolactinemia that may be associated with chronic use of risperidone.
 Advise them to seek medical attention if they experience any of the following: amenorrhea or galactorrhea in females, erectile dysfunction or gynecomastia in males.
-[See Warnings and Precautions (5.6)].
+[see Warnings and Precautions (5.6)].
 
 Interference with Cognitive and Motor Performance
 
@@ -47,7 +47,7 @@ Phenylketonurics
 Inform patients with Phenylketonuria and caregivers that risperidone orally disintegrating tablets contain phenylalanine.
 Phenylalanine is a component of aspartame.
 Each 4 mg risperidone orally disintegrating tablet contains 6.72 mg phenylalanine; each 3 mg risperidone orally disintegrating tablet contains 5.04 mg phenylalanine; each 2 mg risperidone orally disintegrating tablet contains 3.36 mg phenylalanine; each 1 mg risperidone orally disintegrating tablet contains 1.68 mg phenylalanine; each 0.5 mg risperidone orally disintegrating tablet contains 0.84 mg phenylalanine and each 0.25 mg risperidone orally disintegrating tablet contains 0.42 mg phenylalanine.
-[see Warnings and Precautions (5.15)]
+[see Warnings and Precautions (5.15)].
 
 Concomitant Medication
 
@@ -76,6 +76,10 @@ Manufactured for: Endo USA Malvern, PA 19355 U.S.A.
 
 Made in India
 
-©2024 Endo, Inc. or one of its affiliates.
+Neutral Code: TN/DRUGS/TN00002121
+
+© 2024 Endo, Inc. or one of its affiliates.
+
+OS212C-01-74-01
 
 Issued: 07/2024

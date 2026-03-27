@@ -2,11 +2,11 @@
 
 ## 16.1 How Supplied
 
-Risperidone Orally Disintegrating Tablets, USP 0.25 mg, are white, round, flat-faced beveled edge tablets debossed “212” on one side and “P on the other side.
+Risperidone Orally Disintegrating Tablets, USP 0.25 mg, are white, round, flat-faced beveled edge tablets debossed “212” on one side and “P" on the other side.
 
-Risperidone Orally Disintegrating Tablets, USP 0.5 mg, are white, round, flat-faced beveled edge tablets debossed “311” on one side and “P on the other side.
+Risperidone Orally Disintegrating Tablets, USP 0.5 mg, are white, round, flat-faced beveled edge tablets debossed “311” on one side and “P" on the other side.
 
-Risperidone Orally Disintegrating Tablets, USP 1 mg, are white, round, flat-faced beveled edge tablets deboseed “315” on one side and “P” on the other side.
+Risperidone Orally Disintegrating Tablets, USP 1 mg, are white, round, flat-faced beveled edge tablets debossed “315” on one side and “P” on the other side.
 
 Risperidone Orally Disintegrating Tablets, USP 2 mg, are white, round, flat-faced beveled edge tablets debossed “401” on one side and “P” on the other side.
 
@@ -22,7 +22,7 @@ Risperidone Orally Disintegrating Tablets, USP 2 mg, 3 mg and 4 mg are packaged 
 
 | 0.25 mg | Cartons of 30 tablets with 5 blister packs of 6 (3 x 2) tablets | NDC 49884-212-55 |
 | --- | --- | --- |
-| 0.5 mg | Cartons of 28 tablets with 7 blister packs of 4 (2 x 2) tablets Cartons of 30 tablets with 5 blister packs of 6 (3 x 2) tablets | NDC 49884-311-91NDC 49884-311-55 |
+| 0.5 mg | Cartons of 28 tablets with 7 blister packs of 4 (2 x 2) tablets andCartons of 30 tablets with 5 blister packs of 6 (3 x 2) tablets | NDC 49884-311-91NDC 49884-311-55 |
 | 1 mg | Cartons of 28 tablets with 7 blister packs of 4 (2 x 2) tabletsCartons of 30 tablets with 5 blister packs of 6 (3 x 2) tablets | NDC 49884-315-91NDC 49884-315-55 |
 | 2 mg | Cartons of 28 tablets with 7 blister packs of 4 (2 x 2) tablets | NDC 49884-401-91 |
 | 3 mg | Cartons of 28 tablets with 7 blister packs of 4 (2 x 2) tablets | NDC 49884-402-91 |
