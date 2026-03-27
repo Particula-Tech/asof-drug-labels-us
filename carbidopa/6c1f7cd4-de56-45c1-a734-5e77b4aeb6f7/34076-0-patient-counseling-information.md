@@ -50,7 +50,7 @@ Advise patients to notify their healthcare provider if they become pregnant or i
 
 Advise female patients to notify their physicians if they intend to breastfeed or are breastfeeding an infant [see Use in Specific Populations (8.2)].
 
-Manufactured By:
+Manufactured by:
 
 Bora Pharmaceutical Laboratories Inc.
 
