@@ -19,6 +19,12 @@ Intracranial Hypertension
 Inform patients that intracranial hypertension has occurred in patients who received drugs containing the same or similar active ingredients as KALYDECO.
 Instruct patients to notify their healthcare provider right away if they experience signs and symptoms of intracranial hypertension, including headache, blurred vision, diplopia, and vision loss [see Warnings and Precautions (5.3)].
 
+Neuropsychiatric Events, Including Suicidal Thoughts and Behaviors
+
+Inform patients that neuropsychiatric symptoms, including anxiety, depression, suicidal thoughts and behaviors, and sleep disturbances (e.g., insomnia), have been reported with the use of KALYDECO or drugs containing the same or similar active ingredient as KALYDECO.
+The symptoms have been observed in patients with and without a history of similar symptoms and may occur within three months of KALYDECO initiation.
+Instruct patients to contact their healthcare provider immediately if changes in behavior or thinking that are not typical for the patient occur, or if the patient develops suicidal ideation or behavior [see Warnings and Precautions (5.4)].
+
 Drug Interactions with CYP3A Inducers and Inhibitors
 
 Ask patients to tell you all the medications they are taking including any herbal supplements or vitamins.
@@ -69,4 +75,4 @@ Patients should be informed about what to do in the event they miss a dose of KA
 Cataracts
 
 Inform patients that abnormality of the eye lens (cataract) has been noted in some children and adolescents receiving KALYDECO.
-Baseline and follow-up ophthalmological examinations should be performed in pediatric patients initiating KALYDECO treatment [see Warnings and Precautions (5.5)].
+Baseline and follow-up ophthalmological examinations should be performed in pediatric patients initiating KALYDECO treatment [see Warnings and Precautions (5.6)].
