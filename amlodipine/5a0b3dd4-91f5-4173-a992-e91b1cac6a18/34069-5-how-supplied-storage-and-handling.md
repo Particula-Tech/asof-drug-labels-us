@@ -5,6 +5,8 @@
 Amlodipine besylate tablets, USP 2.5 mg (amlodipine besylate equivalent to 2.5 mg of amlodipine per tablet) are available for oral administration as white to off-white, round unscored tablets, debossed with “C45” on one side and plain on other side.
 They are supplied as follows:
 
+Bottles of 90 (NDC 72789-514-90)
+
 Bottles of 1,000 (NDC 72789-514-95)
 
 5 mg Tablets
