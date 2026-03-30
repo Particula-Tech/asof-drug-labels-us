@@ -1,19 +1,19 @@
 # WARNINGS
 
 Orally and parenterally administered clindamycin has been associated with severe colitis which may result in patient death.
-Use of the topical formulation of clindamycin results in absorption of the antibiotic from the skin surface.
+Use of the topical formulation of clindamycin results in systemic absorption from the skin surface.
 Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of topical and systemic clindamycin.
 
 Studies indicate a toxin(s) produced by clostridia is one primary cause of antibiotic-associated colitis.
 The colitis is usually characterized by severe persistent diarrhea and severe abdominal cramps and may be associated with the passage of blood and mucus.
 Endoscopic examination may reveal pseudomembranous colitis.
-Stool culture for Clostridium difficile and stool assay for C. difficile toxin may be helpful diagnostically.
+Stool culture for Clostridioides difficile and stool assay for C. difficile toxin may be helpful diagnostically.
 
 When significant diarrhea occurs, the drug should be discontinued.
 Large bowel endoscopy should be considered to establish a definitive diagnosis in cases of severe diarrhea.
 
 Antiperistaltic agents such as opiates and diphenoxylate with atropine may prolong and/or worsen the condition.
-Vancomycin has been found to be effective in the treatment of antibiotic-associated pseudomembranous colitis produced by Clostridium difficile.
+Vancomycin has been found to be effective in the treatment of antibiotic-associated pseudomembranous colitis produced by Clostridioides difficile.
 The usual adult dosage is 500 milligrams to 2 grams of vancomycin orally per day in three to four divided doses administered for 7 to 10 days.
 Cholestyramine or colestipol resins bind vancomycin in vitro.
 If both a resin and vancomycin are to be administered concurrently, it may be advisable to separate the time of administration of each drug.
@@ -35,7 +35,7 @@ Drug Interactions
 Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
 Therefore, it should be used with caution in patients receiving such agents.
 
-Pregnancy: Teratogenic effects
+Pregnancy: Teratogenic Effects
 
 In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters has not been associated with an increased frequency of congenital abnormalities.
 There are no adequate studies in pregnant women during the first trimester of pregnancy.

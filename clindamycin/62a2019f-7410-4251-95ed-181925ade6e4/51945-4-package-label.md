@@ -1,94 +1,49 @@
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 60 mL CONTAINER
-
-NDC 0168-0203-60
-
-Fougera ®
-
-CLINDAMYCIN PHOSPHATE LOTION (Clindamycin Phosphate Topical Suspension USP, 1%)
-
-Equivalent to 1% (10 mg/mL) clindamycin
-
-FOR TOPICAL USE ONLY.
-60 mL
-
-Rx only
-
-E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
-
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 60 mL CARTON
-
-NDC 0168-0203-60
-
-Fougera ®
-
-CLINDAMYCIN PHOSPHATE LOTION (Clindamycin Phosphate Topical Suspension USP, 1%)
-
-Equivalent to 1% (10 mg/mL) clindamycin
-
-FOR TOPICAL USE ONLY.
-
-60 mL
-
-Rx only
-
-E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
-
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 60 mL CONTAINER
+# Package/Label Display Panel - Solution
 
 NDC 0168-0201-60
 
-Fougera ®
+Clindamycin Phosphate Topical Solution USP, 1%
 
-CLINDAMYCIN PHOSPHATE Topical Solution USP, 1% Equivalent to 1% (10 mg/mL) clindamycin For Topical Use Only.
+Rx Only
 
-Rx only 60 mL
-
-E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
-
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 60 mL CARTON
-
-NDC 0168-0201-60
-
-Fougera ®
-
-CLINDAMYCIN PHOSPHATE Topical Solution USP, 1%
-
-Equivalent to 1% (10 mg/mL) clindamycin
-
-For Topical Use Only.
+Solution for topical use only
 
 60 mL
 
-Rx only
+Fougera
 
-E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
+# PRINCIPAL DISPLAY PANEL - Gel
 
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 30 G CONTAINER
+NDC 0168-0202-60
 
-NDC 0168-0202-30
+Clindamycin Phosphate Gel USP, 1%
 
-Fougera ®
-
-CLINDAMYCIN PHOSPHATE GEL USP, 1% equivalent to 1% clindamycin
+equivalent to 1% clindamycin
 
 For Topical Use Only.
-
-Rx only
-
-NET WT 30 grams
-
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 30 G CARTON
-
-NDC 0168-0202-30
-
-Rx only
-
-Fougera ®
-
-CLINDAMYCIN PHOSPHATE GEL USP, 1% equivalent to 1% clindamycin For Topical Use Only.
 
 FOR EXTERNAL USE ONLY.
-AVOID CONTACT WITH EYES.
-WARNING: Keep out of reach of children.
 
-NET WT 30 grams
+AVOID CONTACT WITH EYES.
+
+NET WT 60 grams
+
+Fougera
+
+# PRINCIPAL DISPLAY PANEL - Lotion
+
+NDC 0168-0203-60
+
+Clindamycin Phosphate Topical Lotion, 1%
+
+Equivalent to 1%
+
+(10 mg/mL) clindamycin
+
+Rx Only
+
+FOR TOPICAL USE ONLY.
+
+60 mL
+
+Fougera
