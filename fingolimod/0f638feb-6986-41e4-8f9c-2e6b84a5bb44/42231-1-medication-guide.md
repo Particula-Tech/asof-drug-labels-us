@@ -7,7 +7,7 @@ capsules, for oral use
 Read this Medication Guide before you start taking fingolimod and each time you get a refill.
 There may be new information.
 If you are the parent of a child who is being treated with fingolimod, the following information applies to your child.
-This information does not take the place of talking to your doctor about your medical condition or your treatment.
+This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
 What is the most important information I should know about fingolimod?
 
@@ -44,31 +44,31 @@ After you take your first dose of fingolimod capsules, and after a child takes t
 - If you have certain types of heart problems, or if you are taking certain types of medicines that can affect your heart, you will be observed overnight after you take your first dose of fingolimod.
 
 Your slow heart rate will usually return to normal within 1 month after you start taking fingolimod capsules.
-Call your doctor or go to the nearest hospital emergency room right away if you have any symptoms of a slow heart rate.
+Call your healthcare provider or go to the nearest hospital emergency room right away if you have any symptoms of a slow heart rate.
 
 If you miss 1 or more doses of fingolimod, you may need to be observed by a healthcare professional when you take your next dose.
-Call your doctor if you miss a dose of fingolimod.
+Call your healthcare provider if you miss a dose of fingolimod.
 See "How should I take fingolimod?"
 
 2.
 Pregnancy.
-Please consult your doctor before getting pregnant.
+Please consult your healthcare provider before getting pregnant.
 You should avoid becoming pregnant while taking fingolimod or in the two months after you stop taking it because of the risk of harm to the baby.
 
 3.
 Infections.
 Fingolimod can increase your risk of serious infections that can be life-threatening and cause death.
 You should not receive live vaccines during treatment with fingolimod and for 2 months after you stop taking fingolimod.
-Talk to your doctor before you receive a vaccine during treatment and for 2 months after treatment with fingolimod.
+Talk to your healthcare provider before you receive a vaccine during treatment and for 2 months after treatment with fingolimod.
 If you receive a live vaccine, you may get the infection the vaccine was meant to prevent.
 Vaccines may not work as well when given during treatment with fingolimod.
 Human Papilloma Virus (HPV).
-Due to risk of HPV infection please consult your doctor for routine pap smear.
+Due to risk of HPV infection please consult your healthcare provider for routine pap smear.
 
 Fingolimod lowers the number of white blood cells (lymphocytes) in your blood.
 This will usually go back to normal within 2 months of stopping treatment.
-Your doctor may do a blood test to check your white blood cells before you start taking fingolimod.
-Call your doctor right away if you have any of these symptoms of an infection during treatment with fingolimod and for 2 months after your last dose of fingolimod:
+Your healthcare provider may do a blood test to check your white blood cells before you start taking fingolimod.
+Call your healthcare provider right away if you have any of these symptoms of an infection during treatment with fingolimod and for 2 months after your last dose of fingolimod:
 
 - fever
 - tiredness
@@ -83,7 +83,7 @@ Progressive multifocal leukoencephalopathy (PML).
 PML is a rare brain infection that usually leads to death or severe disability.
 If PML happens, it usually happens in people with weakened immune systems but has happened in people who do not have weakened immune systems.
 Symptoms of PML get worse over days to weeks.
-Call your doctor right away if you have any new or worsening symptoms of PML, that have lasted several days, including:
+Call your healthcare provider right away if you have any new or worsening symptoms of PML, that have lasted several days, including:
 
 - weakness on 1 side of your body
 - loss of coordination in your arms and legs
@@ -99,10 +99,10 @@ A problem with your vision called macular edema.
 Macular edema can cause some of the same vision symptoms as a multiple sclerosis (MS) attack (optic neuritis).
 You may not notice any symptoms with macular edema.
 If macular edema happens, it usually starts in the first 3 to 4 months after you start taking fingolimod but can happen at any time.
-Your doctor should test your vision around the time you start taking fingolimod, 3 to 4 months after you start taking fingolimod, periodically while you continue taking fingolimod, and any time you notice vision changes during treatment with fingolimod.
+Your healthcare provider should test your vision around the time you start taking fingolimod, 3 to 4 months after you start taking fingolimod, periodically while you continue taking fingolimod, and any time you notice vision changes during treatment with fingolimod.
 Your risk of macular edema is higher if you have diabetes or have had an inflammation of your eye called uveitis.
 
-Call your doctor right away if you have any of the following symptoms:
+Call your healthcare provider right away if you have any of the following symptoms:
 
 - blurriness or shadows in the center of your vision
 - a blind spot in the center of your vision
@@ -126,11 +126,11 @@ Do not take fingolimod if you:
   See the end of this leaflet for a complete list of ingredients in fingolimod capsules.
   Symptoms of an allergic reaction may include: rash, itchy hives, or swelling of the lips, tongue or face.
 
-Talk to your doctor before taking fingolimod capsules if you have any of these conditions, or do not know if you have any of these conditions.
+Talk to your healthcare provider before taking fingolimod capsules if you have any of these conditions, or do not know if you have any of these conditions.
 
-What should I tell my doctor before taking fingolimod?
+What should I tell my healthcare provider before taking fingolimod?
 
-Before you take fingolimod, tell your doctor about all your medical conditions, including if you had or now have:
+Before you take fingolimod, tell your healthcare provider about all your medical conditions, including if you had or now have:
 
 - an irregular or abnormal heartbeat (arrhythmia).
 - a history of stroke or mini stroke.
@@ -139,7 +139,7 @@ Before you take fingolimod, tell your doctor about all your medical conditions, 
 - a fever or infection, or you are unable to fight infections due to a disease or take or have taken medicines that lower your immune system.
 - recently received a vaccine or are scheduled to receive a vaccine.
 - chickenpox or have received the vaccine for chickenpox.
-  Your doctor may do a blood test for chickenpox virus.
+  Your healthcare provider may do a blood test for chickenpox virus.
   You may need to get the full course of the vaccine for chickenpox and then wait 1 month before you start taking fingolimod capsules.
 - your child has completed their vaccination schedule.
   Your child needs to have completed their vaccination schedule before starting treatment with fingolimod.
@@ -151,19 +151,19 @@ Before you take fingolimod, tell your doctor about all your medical conditions, 
 - any type of skin cancer, including basal cell carcinoma (BCC), melanoma, or squamous cell carcinoma (SCC).
 - are pregnant or plan to become pregnant.
   Fingolimod may harm your unborn baby.
-  Talk to your doctor if you are pregnant or are planning to become pregnant.
-  Tell your doctor right away if you become pregnant while taking fingolimod or if you become pregnant within 2 months after you stop taking fingolimod.
+  Talk to your healthcare provider if you are pregnant or are planning to become pregnant.
+  Tell your healthcare provider right away if you become pregnant while taking fingolimod or if you become pregnant within 2 months after you stop taking fingolimod.
 
 o You should stop taking fingolimod 2 months before trying to become pregnant. o If you are a female who can become pregnant, you should use effective birth control during your treatment with fingolimod and for at least 2 months after you stop taking fingolimod. • are breastfeeding or plan to breastfeed.
 It is not known if fingolimod passes into your breast milk.
-Talk to your doctor about the best way to feed your baby if you take fingolimod.
+Talk to your healthcare provider about the best way to feed your baby if you take fingolimod.
 
-Tell your doctor about all the medicines you take or have recently taken, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take or have recently taken, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
-Especially tell your doctor if you take medicines that affect your immune system, including corticosteroids, or have taken them in the past.
+Especially tell your healthcare provider if you take medicines that affect your immune system, including corticosteroids, or have taken them in the past.
 
 Know the medicines you take.
-Keep a list of your medicines with you to show your doctor and pharmacist when you get a new medicine.
+Keep a list of your medicines with you to show your healthcare provider and pharmacist when you get a new medicine.
 
 Using fingolimod and other medicines together may affect each other causing serious side effects.
 
@@ -172,12 +172,12 @@ How should I take fingolimod?
 - Adults and children will be observed by a healthcare professional for at least 6 hours after taking their first dose of fingolimod.
   Children should also be observed by a healthcare professional for at least 6 hours after taking their first dose of 0.5 mg of fingolimod capsules when switching from the 0.25 mg dose.
   See “What is the most important information I should know about fingolimod?”
-- Take fingolimod exactly as your doctor tells you to take it.
+- Take fingolimod exactly as your healthcare provider tells you to take it.
 - Take fingolimod capsules 1 time each day.
-- If you take too much fingolimod, call your doctor or go to the nearest hospital emergency room right away.
+- If you take too much fingolimod, call your healthcare provider or go to the nearest hospital emergency room right away.
 - Take fingolimod with or without food.
-- Do not stop taking fingolimod without talking with your doctor first.
-- Call your doctor right away if you miss a dose of fingolimod.
+- Do not stop taking fingolimod without talking with your healthcare provider first.
+- Call your healthcare provider right away if you miss a dose of fingolimod.
   You may need to be observed by a healthcare professional for at least 6 hours when you take your next dose.
   If you need to be observed by a healthcare professional when you take your next dose of fingolimod you will have: o an ECG before you take your dose o hourly pulse and blood pressure measurements after you take the dose o an ECG 6 hours after your dose • If you have certain types of heart problems, or if you are taking certain types of medicines that can affect your heart, you will be observed overnight by a healthcare professional in a medical facility after you take your dose of fingolimod.
 - If you have serious side effects after taking a dose of fingolimod, especially those that require treatment with other medicines, you will stay in the medical facility to be observed overnight.
@@ -193,15 +193,14 @@ Fingolimod can cause serious side effects, including:
   A condition called PRES (Posterior Reversible Encephalopathy Syndrome) has happened rarely in adults taking fingolimod.
   Symptoms of PRES usually get better when you stop taking fingolimod.
   However, if left untreated, it may lead to a stroke.
-  Call your doctor right away if you have any of the following symptoms:
-  - sudden severe headache
-  - sudden confusion
-  - sudden loss of vision or other changes in your vision
-  - seizure
+  Call your healthcare provider right away if you have any of the following symptoms:
+
+○ sudden severe headache ○ sudden confusion ○ sudden loss of vision or other changes in your vision ○ seizure
+
 - liver damage.
   Fingolimod may cause liver damage.
-  Your doctor should do blood tests to check your liver before you start taking fingolimod and periodically during treatment.
-  Call your doctor right away if you have any of the following symptoms of liver damage:
+  Your healthcare provider should do blood tests to check your liver before you start taking fingolimod and periodically during treatment.
+  Call your healthcare provider right away if you have any of the following symptoms of liver damage:
 
 ○ nausea
 
@@ -219,21 +218,21 @@ Fingolimod can cause serious side effects, including:
 
 - breathing problems.
   Some people who take fingolimod have shortness of breath.
-  Call your doctor right away if you have new or worsening breathing problems.
+  Call your healthcare provider right away if you have new or worsening breathing problems.
 - severe worsening of multiple sclerosis after stopping fingolimod.When fingolimod is stopped, symptoms of MS can return and become worse compared to before or during treatment.
   Many people who have worsening of MS symptoms after stopping fingolimod do not return to the level of function that they had before stopping fingolimod.
   This worsening happens most often within 12 weeks after stopping fingolimod but can happen later.
-  Always talk to your doctor before you stop taking fingolimod for any reason.
-  Tell your doctor if you have worsening symptoms of MS after stopping fingolimod.
+  Always talk to your healthcare provider before you stop taking fingolimod for any reason.
+  Tell your healthcare provider if you have worsening symptoms of MS after stopping fingolimod.
 - increased blood pressure.
-  Your doctor should check your blood pressure during treatment with fingolimod.
+  Your healthcare provider should check your blood pressure during treatment with fingolimod.
 - types of skin cancer, including basal cell carcinoma, melanoma, and squamous cell carcinoma.
-  Tell your doctor if you have any changes in the appearance of your skin, including changes in a mole, a new darkened area on your skin, a sore that does not heal, or growths on your skin, such as a bump that may be shiny, pearly white, skin-colored, or pink.
-  Your doctor should check your skin for any changes at the start of and during treatment with fingolimod.
+  Tell your healthcare provider if you have any changes in the appearance of your skin, including changes in a mole, a new darkened area on your skin, a sore that does not heal, or growths on your skin, such as a bump that may be shiny, pearly white, skin-colored, or pink.
+  Your healthcare provider should check your skin for any changes at the start of and during treatment with fingolimod.
   Limit the amount of time you spend in sunlight and ultraviolet (UV) light.
   Wear protective clothing and use a sunscreen with a high sun protection factor.
 - allergic reactions.
-  Call your doctor if you have symptoms of an allergic reaction, including a rash, itchy hives, or swelling of the lips, tongue or face.
+  Call your healthcare provider if you have symptoms of an allergic reaction, including a rash, itchy hives, or swelling of the lips, tongue or face.
 
 The most common side effects of fingolimod include:
 
@@ -247,10 +246,10 @@ The most common side effects of fingolimod include:
 - stomach-area (abdominal) pain
 - pain in arms or legs
 
-Tell your doctor if you have any side effect that bothers you or that does not go away.
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 These are not all of the possible side effects of fingolimod.
-For more information, ask your doctor or pharmacist.
+For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
@@ -268,8 +267,8 @@ Do not give fingolimod capsules to other people, even if they have the same symp
 It may harm them.
 
 This Medication Guide summarizes the most important information about fingolimod capsules.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about fingolimod capsules that is written for health professionals.
+If you would like more information, talk with your healthcare provider.
+You can ask your healthcare provider or pharmacist for information about fingolimod capsules that is written for health professionals.
 
 What are the ingredients in fingolimod capsules?
 
@@ -286,6 +285,6 @@ Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: July 2025
+Revised: September 2025
 
-PT 2379-03
+PT 2379-04
