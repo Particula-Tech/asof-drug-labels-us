@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Solution containing 2 mg/mL brimonidine tartrate and 5 mg/mL timolol (6.8 mg/mL timolol maleate).
+Ophthalmic solution containing 0.2% brimonidine tartrate and 0.5% timolol (6.8 mg/mL timolol maleate).

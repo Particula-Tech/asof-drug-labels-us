@@ -2,11 +2,13 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
+Carcinogenesis
+
 With brimonidine tartrate, no compound-related carcinogenic effects were observed in either mice or rats following a 21-month and 24-month study, respectively.
-In these studies, dietary administration of brimonidine tartrate at doses up to 2.5 mg/kg/day in mice and 1 mg/kg/day in rats achieved 150 and 210 times, respectively, the plasma Cmax drug concentration in humans treated with one drop of COMBIGAN® into both eyes twice daily, the recommended daily human dose.
+In these studies, dietary administration of brimonidine tartrate at doses up to 2.5 mg/kg/day in mice and 1 mg/kg/day in rats achieved 150 and 210 times, respectively, the plasma Cmax drug concentration in humans treated with one drop of COMBIGAN into both eyes twice daily, the recommended daily human dose.
 
 In a two-year study of timolol maleate administered orally to rats, there was a statistically significant increase in the incidence of adrenal pheochromocytomas in male rats administered 300 mg/kg/day [approximately 25,000 times the maximum recommended human ocular dose of 0.012 mg/kg/day on a mg/kg basis (MRHOD)].
-Similar differences were not observed in rats administered oral doses equivalent to approximately 8,300 times the daily dose of COMBIGAN® in humans.
+Similar differences were not observed in rats administered oral doses equivalent to approximately 8,300 times the daily dose of COMBIGAN in humans.
 
 In a lifetime oral study of timolol maleate in mice, there were statistically significant increases in the incidence of benign and malignant pulmonary tumors, benign uterine polyps and mammary adenocarcinomas in female mice at 500 mg/kg/day, (approximately 42,000 times the MRHOD), but not at 5 or 50 mg/kg/day (approximately 420 to 4,200 times higher, respectively, than the MRHOD).
 In a subsequent study in female mice, in which post-mortem examinations were limited to the uterus and the lungs, a statistically significant increase in the incidence of pulmonary tumors was again observed at 500 mg/kg/day.
@@ -15,6 +17,8 @@ The increased occurrence of mammary adenocarcinomas was associated with elevatio
 An increased incidence of mammary adenocarcinomas in rodents has been associated with administration of several other therapeutic agents that elevate serum prolactin, but no correlation between serum prolactin levels and mammary tumors has been established in humans.
 Furthermore, in adult human female subjects who received oral dosages of up to 60 mg of timolol maleate (the maximum recommended human oral dosage), there were no clinically meaningful changes in serum prolactin.
 
+Mutagenesis
+
 Brimonidine tartrate was not mutagenic or clastogenic in a series of in vitro and in vivo studies including the Ames bacterial reversion test, chromosomal aberration assay in Chinese Hamster Ovary (CHO) cells, and three in vivo studies in CD-1 mice: a host-mediated assay, cytogenetic study, and dominant lethal assay.
 
 Timolol maleate was devoid of mutagenic potential when tested in vivo (mouse) in the micronucleus test and cytogenetic assay (doses up to 800 mg/kg) and in vitro in a neoplastic cell transformation assay (up to 100 mcg/mL).
@@ -22,4 +26,6 @@ In Ames tests the highest concentrations of timolol employed, 5,000 or 10,000 mc
 In the assays with tester strain TA100, no consistent dose response relationship was observed, and the ratio of test to control revertants did not reach 2.
 A ratio of 2 is usually considered the criterion for a positive Ames test.
 
-Reproduction and fertility studies in rats with timolol maleate and in rats with brimonidine tartrate demonstrated no adverse effect on male or female fertility at doses up to approximately 100 times the systemic exposure following the maximum recommended human ophthalmic dose of COMBIGAN®.
+Impairment of Fertility
+
+Reproduction and fertility studies in rats with timolol maleate and in rats with brimonidine tartrate demonstrated no adverse effect on male or female fertility at doses up to approximately 100 times the systemic exposure following the maximum recommended human ophthalmic dose of COMBIGAN.

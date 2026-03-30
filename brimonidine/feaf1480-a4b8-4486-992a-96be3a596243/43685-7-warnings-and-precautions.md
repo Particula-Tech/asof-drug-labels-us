@@ -2,7 +2,7 @@
 
 ## 5.1 Potential for Severe Respiratory or Cardiac Reactions
 
-COMBIGAN® contains timolol maleate; and although administered topically can be absorbed systemically.
+COMBIGAN contains timolol maleate; and although administered topically can be absorbed systemically.
 Therefore, the same types of adverse reactions found with systemic administration of beta-adrenergic blocking agents may occur with topical administration.
 For example, severe respiratory reactions and cardiac reactions including death due to bronchospasm in patients with asthma, and rarely death in association with cardiac failure have been reported following systemic or ophthalmic administration of timolol maleate [see Contraindications (4.1)].
 Additionally, ophthalmic beta-blockers may impair compensatory tachycardia and increase risk of hypotension.
@@ -12,16 +12,16 @@ Additionally, ophthalmic beta-blockers may impair compensatory tachycardia and i
 Sympathetic stimulation may be essential for support of the circulation in individuals with diminished myocardial contractility, and its inhibition by beta-adrenergic receptor blockade may precipitate more severe failure.
 
 In patients without a history of cardiac failure, continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
-At the first sign or symptom of cardiac failure, COMBIGAN® should be discontinued [see Contraindications (4.2)].
+At the first sign or symptom of cardiac failure, COMBIGAN should be discontinued [see Contraindications (4.2)].
 
 ## 5.3 Obstructive Pulmonary Disease
 
-Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which COMBIGAN® is contraindicated [see Contraindications (4.1)] should, in general, not receive beta-blocking agents, including COMBIGAN®.
+Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which COMBIGAN is contraindicated [see Contraindications (4.1)] should, in general, not receive beta-blocking agents, including COMBIGAN.
 
 ## 5.4 Potentiation of Vascular Insufficiency
 
-COMBIGAN® may potentiate syndromes associated with vascular insufficiency.
-COMBIGAN® should be used with caution in patients with depression, cerebral or coronary insufficiency, Raynaud’s phenomenon, orthostatic hypotension, or thromboangiitis obliterans.
+COMBIGAN may potentiate syndromes associated with vascular insufficiency.
+COMBIGAN should be used with caution in patients with depression, cerebral or coronary insufficiency, Raynaud’s phenomenon, orthostatic hypotension, or thromboangiitis obliterans.
 
 ## 5.5 Increased Reactivity to Allergens
 
@@ -50,7 +50,9 @@ Ocular hypersensitivity reactions have been reported with brimonidine tartrate o
 ## 5.10Contamination of Topical Ophthalmic Products After Use
 
 There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
-These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see Patient Counseling Information (17)].
+These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface.
+Do not touch the tip of the dispensing container to the eye or surrounding structures.
+Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions [see Patient Counseling Information (17)].
 
 ## 5.11 Impairment of Beta-adrenergically Mediated Reflexes During Surgery
 
@@ -62,3 +64,9 @@ Difficulty in restarting and maintaining the heartbeat has also been reported.
 For these reasons, in patients undergoing elective surgery, some authorities recommend gradual withdrawal of beta-adrenergic receptor blocking agents.
 
 If necessary during surgery, the effects of beta-adrenergic blocking agents may be reversed by sufficient doses of adrenergic agonists.
+
+## 5.12 Contact Lens Use
+
+COMBIGAN contains benzalkonium chloride which may be absorbed by soft contact lenses.
+Contact lenses should be removed prior to administration of the solution.
+Lenses may be reinserted 15 minutes following administration of COMBIGAN.
