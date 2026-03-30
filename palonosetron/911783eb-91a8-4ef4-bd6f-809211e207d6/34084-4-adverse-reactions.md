@@ -46,16 +46,26 @@ Less common adverse reactions, reported in 1% or less of patients, in Studies 1,
 - Nervous System: dizziness, somnolence, insomnia, hypersomnia, paresthesia
 - Psychiatric: anxiety, euphoric mood
 - Urinary System: urinary retention
-- Vascular: vein discoloration, vein distention In other studies, 2 subjects experienced severe constipation following a single palonosetron hydrochloride injection dose of approximately 0.75 mg (three times the recommended dose).Pediatrics Aged 2 Months to 17 YearsIn a pediatric clinical trial, 163 pediatric cancer patients with a mean age of 8 years received a single 20 mcg/kg (maximum 1.5 mg) intravenous infusion of palonosetron hydrochloride injection 30 minutes before beginning the first cycle of emetogenic chemotherapy [see Clinical Studies (14.2)].
-  Adverse reactions were evaluated in pediatric patients receiving palonosetron hydrochloride injection for up to 4 chemotherapy cycles.
-  The following adverse reactions were reported in less than 1% of patients:
+- Vascular: vein discoloration, vein distention
+
+In other studies, 2 subjects experienced severe constipation following a single palonosetron hydrochloride injection dose of approximately 0.75 mg (three times the recommended dose).
+
+Pediatrics Aged 2 Months to 17 Years
+
+In a pediatric clinical trial, 163 pediatric cancer patients with a mean age of 8 years received a single 20 mcg/kg (maximum 1.5 mg) intravenous infusion of palonosetron hydrochloride injection 30 minutes before beginning the first cycle of emetogenic chemotherapy [see Clinical Studies (14.2)].
+Adverse reactions were evaluated in pediatric patients receiving palonosetron hydrochloride injection for up to 4 chemotherapy cycles.
+The following adverse reactions were reported in less than 1% of patients:
+
 - Nervous System: headache, dizziness, dyskinesia.
 - General: infusion site pain.
 - Dermatological: allergic dermatitis, skin disorder.
-  Postoperative Nausea and VomitingThe most common adverse reactions reported in at least 2% of adults receiving palonosetron hydrochloride injection 0.075 mg intravenously immediately before induction of anesthesia in 3 randomized placebo-controlled trials [see Clinical Studies (14.3)] are shown in Table 3.
-  Rates of adverse reactions between palonosetron hydrochloride injection and placebo groups were similar.
-  Some events are known to be associated with, or may be exacerbated by, concomitant perioperative and intraoperative medications administered in this surgical population.
-  A thorough QT/QTc study demonstrated palonosetron hydrochloride injection does not prolong the QT interval to any clinically relevant extent [see Clinical Pharmacology (12.2)].
+
+Postoperative Nausea and Vomiting
+
+The most common adverse reactions reported in at least 2% of adults receiving palonosetron hydrochloride injection 0.075 mg intravenously immediately before induction of anesthesia in 3 randomized placebo-controlled trials [see Clinical Studies (14.3)] are shown in Table 3.
+Rates of adverse reactions between palonosetron hydrochloride injection and placebo groups were similar.
+Some events are known to be associated with, or may be exacerbated by, concomitant perioperative and intraoperative medications administered in this surgical population.
+A thorough QT/QTc study demonstrated palonosetron hydrochloride injection does not prolong the QT interval to any clinically relevant extent [see Clinical Pharmacology (12.2)].
 
 Table 3: Common Adverse Reactions* in Trials of Adults with Postoperative Nausea and Vomiting
 

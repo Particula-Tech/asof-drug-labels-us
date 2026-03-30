@@ -119,9 +119,9 @@ Complete Response Rates for palonosetron hydrochloride injection 0.075 mg and pl
 
 Table 9: Prevention of Postoperative Nausea and Vomiting in Adults: Complete Response Rates
 
-| Treatment | n/N (%) | Palonosetron Hydrochloride Injection vs Placebo |  |
+| Δ | p-valuea |  |  |
 | --- | --- | --- | --- |
-| ∆ | p-valuea |  |  |
+| Treatment | n/N (%) | Palonosetron Hydrochloride Injection vs Placebo |  |
 | Co-primary Endpoints |  |  |  |
 | Complete Response Rate (0 to 24 hours) |  |  |  |
 | Palonosetron Hydrochloride Injection 0.075 mg intravenously | 59/138 (42.8%) | 16.8% | 0.004 |
@@ -129,8 +129,7 @@ Table 9: Prevention of Postoperative Nausea and Vomiting in Adults: Complete Res
 | Complete Response Rate (24 to 72 hours) |  |  |  |
 | Palonosetron Hydrochloride Injection 0.075 mg intravenously | 67/138 (48.6%) | 7.8% | 0.188 |
 | Placebo | 55/135 (40.7%) |  |  |
-
-1. To reach statistical significance for each co-primary endpoint, the required significance limit for the lowest p-value was p<0.017.
+| To reach statistical significance for each co-primary endpoint, the required significance limit for the lowest p-value was p<0.017. |  |  |  |
 
 Δ Difference (%): palonosetron 0.075 mg minus placebo
 
