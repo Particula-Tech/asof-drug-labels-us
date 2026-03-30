@@ -18,4 +18,4 @@ For additional copies of the Medication Guide, please visit www.slaterunpharma.c
 
 Distributed by: Slate Run Pharmaceuticals, LLC Columbus, Ohio 43215
 
-Revised 06/2025
+Revised 02/2026

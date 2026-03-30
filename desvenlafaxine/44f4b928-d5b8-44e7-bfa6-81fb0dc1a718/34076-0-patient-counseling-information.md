@@ -67,6 +67,6 @@ Patients should be informed that the active medication has already been absorbed
 
 Distributed by: Slate Run Pharmaceuticals, LLC Columbus, Ohio 43215
 
-Revised 06/2025
+Revised 02/2026
 
-10000046/07
+10000046/08

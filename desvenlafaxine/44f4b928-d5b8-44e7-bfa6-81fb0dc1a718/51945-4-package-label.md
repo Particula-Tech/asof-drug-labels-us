@@ -10,8 +10,6 @@
 
 100 mg - 90 ct
 
-100 mg - 1000 ct
-
 # PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label
 
 25 mg - 30 ct
