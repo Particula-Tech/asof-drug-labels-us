@@ -1,5 +1,22 @@
 # 6 ADVERSE REACTIONS
 
+Use of LABA may result in the following:
+
+- •Serious asthma-related events – hospitalizations, intubations, death [see Warnings and Precautions (5.1)]
+- •Cardiovascular and central nervous system effects [see Warnings and Precautions (5.12)]
+
+Systemic and local corticosteroid use may result in the following:
+
+- •Candida albicans infection [see Warnings and Precautions (5.4)]
+- •Pneumonia in patients with COPD [see Warnings and Precautions (5.5)]
+- •Immunosuppression [see Warnings and Precautions (5.6)]
+- •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.8)]
+- •Reduction in bone mineral density [see Warnings and Precautions (5.13)]
+- •Growth effects [see Warnings and Precautions (5.14)]
+- •Glaucoma and cataracts [see Warnings and Precautions (5.15)]
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
 ## 6.1 Clinical Trials Experience in Asthma
 
 Adult and Adolescent Subjects Aged 12 Years and Older
@@ -56,7 +73,7 @@ In addition, there were no clinically relevant changes noted in glucose or potas
 
 ## 6.2 Clinical Trials Experience in Chronic Obstructive Pulmonary Disease
 
-Short-term (6 Months to 1 Year) Trials
+Short-Term (6 Months to 1 Year) Trials
 
 The short-term safety data are based on exposure to ADVAIR DISKUS 250/50 twice daily in one 6-month and two 1-year clinical trials.
 In the 6-month trial, a total of 723 adult subjects (266 females and 457 males) were treated twice daily with ADVAIR DISKUS 250/50, fluticasone propionate inhalation powder 250 mcg, salmeterol inhalation powder, or placebo.
@@ -98,7 +115,7 @@ The incidence of pneumonia was higher in subjects older than 65 years, 9% in the
 In the subjects treated with salmeterol, the incidence of pneumonia was the same (3%) in both age groups.
 [See Warnings and Precautions (5.5), Use in Specific Populations (8.5).]
 
-Long-term (3 Years) Trial
+Long-Term (3 Years) Trial
 
 The safety of ADVAIR DISKUS 500/50 was evaluated in a randomized, double-blind, placebo-controlled, multicenter, international, 3-year trial in 6,184 adult subjects with COPD (4,684 males and 1,500 females).
 The mean age of the subjects was 65 years, and the majority (82%) was Caucasian.

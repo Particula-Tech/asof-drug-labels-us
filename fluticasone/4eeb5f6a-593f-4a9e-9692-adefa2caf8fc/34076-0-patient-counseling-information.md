@@ -21,7 +21,7 @@ Instruct patients to seek medical attention immediately if they experience any o
 
 Tell patients they should not stop therapy with ADVAIR DISKUS without physician/provider guidance since symptoms may recur after discontinuation.
 
-Do Not Use Additional Long-acting Beta2-agonists
+Do Not Use Additional Long-Acting Beta2-Agonists
 
 Instruct patients not to use other LABA for asthma and COPD.
 
@@ -65,7 +65,7 @@ Glaucoma and Cataracts
 
 Advise patients that long-term use of ICS may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
 
-Risks Associated with Beta-agonist Therapy
+Risks Associated with Beta-Agonist Therapy
 
 Inform patients of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 
@@ -75,6 +75,6 @@ GlaxoSmithKline
 
 Durham, NC 27701
 
-©2023 GSK group of companies or its licensor.
+©2026 GSK group of companies or its licensor.
 
-ADD:18PI
+ADD:19PI

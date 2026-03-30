@@ -5,9 +5,9 @@
 Use of LABA as monotherapy (without ICS) for asthma is associated with an increased risk of asthma-related death [see Salmeterol Multicenter Asthma Research Trial (SMART)].
 Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric and adolescent patients.
 These findings are considered a class effect of LABA monotherapy.
-When LABA are used in fixed-dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone (see Serious Asthma-Related Events with Inhaled Corticosteroid/Long-acting Beta2-adrenergic Agonists).
+When LABA are used in fixed-dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone (see Serious Asthma-Related Events with Inhaled Corticosteroid/Long-Acting Beta2-Adrenergic Agonists).
 
-Serious Asthma-Related Events with Inhaled Corticosteroid/Long-acting Beta2-adrenergic Agonists
+Serious Asthma-Related Events with Inhaled Corticosteroid/Long-Acting Beta2-Adrenergic Agonists
 
 Four (4) large, 26-week, randomized, double-blind, active-controlled clinical safety trials were conducted to evaluate the risk of serious asthma-related events when LABA were used in fixed-dose combination with ICS compared with ICS alone in subjects with asthma.
 Three (3) trials included adult and adolescent subjects aged 12 years and older: 1 trial compared fluticasone propionate/salmeterol inhalation powder (ADVAIR DISKUS) with fluticasone propionate inhalation powder [see Clinical Studies (14.1)], 1 trial compared mometasone furoate/formoterol with mometasone furoate, and 1 trial compared budesonide/formoterol with budesonide.
@@ -21,7 +21,7 @@ A meta-analysis of the 3 adult and adolescent trials did not show a significant 
 These trials were not designed to rule out all risk for serious asthma-related events with ICS/LABA compared with ICS.
 
 Table 1.
-Meta-analysis of Serious Asthma-Related Events in Subjects with Asthma Aged 12 Years and Older
+Meta-Analysis of Serious Asthma-Related Events in Subjects with Asthma Aged 12 Years and Older
 
 |  | ICS/LABA(n = 17,537)a | ICS(n = 17,552)a | ICS/LABA vs. ICSHazard Ratio (95% CI)b |
 | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Meta-analysis of Serious Asthma-Related Events in Subjects with Asthma Aged 12 Y
 | Asthma-related death | 2 | 0 |  |
 | Asthma-related intubation (endotracheal) | 1 | 2 |  |
 | Asthma-related hospitalization (≥24-hour stay) | 115 | 105 |  |
-| ICS = Inhaled Corticosteroid, LABA = Long-acting Beta2-adrenergic Agonist. |  |  |  |
+| ICS = Inhaled Corticosteroid, LABA = Long-Acting Beta2-Adrenergic Agonist. |  |  |  |
 | a Randomized subjects who had taken at least 1 dose of study drug. Planned treatment used for analysis. |  |  |  |
 | b Estimated using a Cox proportional hazards model for time to first event with baseline hazards stratified by each of the 3 trials. |  |  |  |
 | c Number of subjects with event that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug, whichever date was later. Subjects can have one or more events, but only the first event was counted for analysis. A single, blinded, independent adjudication committee determined whether events were asthma related. |  |  |  |
@@ -66,7 +66,7 @@ Acute symptoms should be treated with an inhaled, short-acting beta2-agonist.
 
 When beginning treatment with ADVAIR DISKUS, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
 
-## 5.3 Excessive Use of ADVAIR DISKUS and Use with Other Long-acting Beta2-agonists
+## 5.3 Excessive Use of ADVAIR DISKUS and Use with Other Long-Acting Beta2-Agonists
 
 ADVAIR DISKUS should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medicines containing LABA, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.

@@ -111,7 +111,7 @@ Adult and adolescent subjects receiving 50-mcg doses of salmeterol inhalation po
 
 Concomitant Use of ADVAIR DISKUS with Other Respiratory Medicines
 
-Short-acting Beta2-agonists: In clinical trials in subjects with asthma, the mean daily need for albuterol by 166 adult and adolescent subjects aged 12 years and older using ADVAIR DISKUS was approximately 1.3 inhalations/day and ranged from 0 to 9 inhalations/day.
+Short-Acting Beta2-Agonists: In clinical trials in subjects with asthma, the mean daily need for albuterol by 166 adult and adolescent subjects aged 12 years and older using ADVAIR DISKUS was approximately 1.3 inhalations/day and ranged from 0 to 9 inhalations/day.
 Five percent (5%) of subjects using ADVAIR DISKUS in these trials averaged 6 or more inhalations per day over the course of the 12-week trials.
 No increase in frequency of cardiovascular adverse events was observed among subjects who averaged 6 or more inhalations per day.
 
