@@ -8,6 +8,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Blood Dyscrasias: Neutropenia, Pure Red Cell Aplasia [see Warnings and Precautions (5.4)]
 - Gastrointestinal Complications [see Warnings and Precautions (5.5)]
 - Acute Inflammatory Syndrome Associated with Mycophenolate Products [see Warnings and Precautions (5.7)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -164,7 +165,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Digestive: Colitis, pancreatitis
 - Hematologic and Lymphatic: Bone marrow failure, cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents [see Warnings and Precautions (5.4)].
-- Immune: Hypersensitivity, hypogammaglobinemia.
+- Immune:Hypersensitivity reactions, including anaphylaxis and angioedema [see Warnings and Precautions (5.8)], hypogammaglobinemia.
 - Infections: Meningitis, infectious endocarditis, tuberculosis, atypical mycobacterial infection, progressive multifocal leukoencephalopathy, BK virus infection, viral reactivation of hepatitis B and hepatitis C, protozoal infections [see Warnings and Precautions (5.3)].
 - Respiratory: Bronchiectasis, interstitial lung disease, fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in post-transplant patients receiving mycophenolate mofetil.
 - Vascular: Lymphocele

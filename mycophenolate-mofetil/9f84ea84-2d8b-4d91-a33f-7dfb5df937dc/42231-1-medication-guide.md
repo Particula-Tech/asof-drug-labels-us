@@ -101,7 +101,8 @@ What is mycophenolate mofetil?
 
 Who should not take mycophenolate mofetil?
 
-Do not take mycophenolate mofetil if you are allergic to mycophenolate mofetil or any of the ingredients in mycophenolate mofetil.
+Do not take mycophenolate mofetil if you have a history of allergic reactions to mycophenolate mofetil or any of the ingredients in mycophenolate mofetil.
+
 See the end of this Medication Guide for a complete list of ingredients in mycophenolate mofetil.
 
 What should I tell my doctor before taking mycophenolate mofetil?
@@ -213,6 +214,11 @@ mycophenolate mofetil may cause serious side effects, including:
   Some people taking mycophenolate mofetil may have an inflammatory reaction with fever, joint stiffness, joint pain, and muscle pain.
   Some of these reactions may require hospitalization.This reaction could happen within weeks to months after your treatment with mycophenolate mofetil starts or if your dose is increased.
   Call your doctor right away if you experience these symptoms.
+- Allergic (hypersensitivity) reactions.
+  Allergic reactions, including a severe allergic reaction called anaphylaxis, can happen after taking mycophenolate mofetil.
+  Stop taking mycophenolate mofetil and get emergency medical help right away if you have any of the following symptoms of an allergic reaction:
+
+• swelling of the face, lips, tongue, or throat • rash, hives, or itching • fainting, dizziness, feeling lightheaded • trouble breathing or swallowing • fast heartbeat • chest pain
 
 The most common side effects of mycophenolate mofetil include:
 
@@ -286,9 +292,18 @@ For Medication Guide, please visit:
 
 http://www.ascendlaboratories.com/mg/mycomofetil.pdf
 
-Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
-Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
+Manufactured by:
 
-Revised: March 2025
+Alkem Laboratories Ltd.,
 
-PT 2075-14
+Mumbai - 400 013, INDIA.
+
+Distributed by:
+
+Ascend Laboratories, LLC
+
+Bedminster, NJ 07921
+
+Revised: December 2025
+
+PT 2075-15

@@ -27,7 +27,7 @@ In 12 healthy volunteers, the mean absolute bioavailability of oral MMF relative
 Two 500 mg mycophenolate mofetil tablets have been shown to be bioequivalent to four 250 mg mycophenolate mofetil capsules.
 Five mL of the 200 mg/mL constituted mycophenolate mofetil oral suspension have been shown to be bioequivalent to four 250 mg capsules.
 
-The mean (±SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table 10.
+The mean (±SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table.
 The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5g twice daily) (see Table 10).
 
 Table 10 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
@@ -35,7 +35,7 @@ Table 10 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administrati
 | Healthy Volunteers | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Total AUC (mcg•h/mL) |
 | --- | --- | --- | --- | --- |
 | Single dose | 1 g/oral | 0.80 (±0.36) (n=129) | 24.5 (±9.5) (n=129) | 63.9 (±16.2) (n=117) |
-| Kidney Transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0­12h) (mcg•h/mL) |
+| Kidney Transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0­-12h) (mcg•h/mL) |
 | 5 days | 1 g/iv | 1.58 (±0.46) (n=31) | 12.0 (±3.82) (n=31) | 40.8 (±11.4) (n=31) |
 | 6 days | 1 g/oral | 1.33 (±1.05) (n=31) | 10.7 (±4.83) (n=31) | 32.9 (±15.0) (n=31) |
 | Early (Less than 40 days) | 1 g/oral | 1.31 (±0.76) (n=25) | 8.16 (±4.50) (n=25) | 27.3 (±10.9) (n=25) |

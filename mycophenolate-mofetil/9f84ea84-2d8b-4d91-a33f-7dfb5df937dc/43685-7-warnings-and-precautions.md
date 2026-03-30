@@ -80,29 +80,35 @@ After discontinuation, improvement of symptoms and inflammatory markers are usua
 Monitor patients for symptoms and laboratory parameters of AIS when starting treatment with mycophenolate products or when increasing the dosage.
 Discontinue treatment and consider other treatment alternatives based on the risk and benefit for the patient.
 
-## 5.8 Immunizations
+## 5.8 Hypersensitivity Reactions
+
+Postmarketing cases of hypersensitivity reactions, including angioedema and anaphylaxis, have been reported with mycophenolate mofetil.
+These reactions generally occurred within hours to the next day after initiating mycophenolate mofetil.
+If signs or symptoms of hypersensitivity reaction occur, discontinue mycophenolate mofetil; treat and monitor until symptoms resolve [see Contraindications (4)].
+
+## 5.9 Immunizations
 
 During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided (e.g., intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines) and patients should be advised that vaccinations may be less effective.
 Advise patients to discuss with the physician before seeking any immunizations.
 
-## 5.9 Local Reactions with Rapid Intravenous Administration
+## 5.10 Local Reactions with Rapid Intravenous Administration
 
 Mycophenolate mofetil intravenous solution must not be administered by rapid or bolus intravenous injection as rapid infusion increases the risk of local adverse reactions such as phlebitis and thrombosis [see Adverse Reactions (6.1)].
 
-## 5.11 Blood Donation
+## 5.12 Blood Donation
 
 Patients should not donate blood during therapy and for at least 6 weeks following discontinuation of mycophenolate mofetil because their blood or blood products might be administered to a female of reproductive potential or a pregnant woman.
 
-## 5.12 Semen Donation
+## 5.13 Semen Donation
 
 Based on animal data, men should not donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil [see Use In Specific Populations (8.3)].
 
-## 5.13 Effect of Concomitant Medications on Mycophenolic Acid Concentrations
+## 5.14 Effect of Concomitant Medications on Mycophenolic Acid Concentrations
 
 A variety of drugs have potential to alter systemic MPA exposure when co-administered with mycophenolate mofetil.
 Therefore, determination of MPA concentrations in plasma before and after making any changes to immunosuppressive therapy, or when adding or discontinuing concomitant medications, may be appropriate to ensure MPA concentrations remain stable.
 
-## 5.14 Potential Impairment of Ability to Drive or Operate Machinery
+## 5.15 Potential Impairment of Ability to Drive or Operate Machinery
 
 Mycophenolate mofetil may impact the ability to drive and use machines.
 Patients should avoid driving or using machines if they experience somnolence, confusion, dizziness, tremor, or hypotension during treatment with mycophenolate mofetil [see Adverse Reactions (6.1)].

@@ -48,12 +48,17 @@ Inform patients that acute inflammatory reactions have been reported in some pat
 Some reactions were severe, requiring hospitalization.
 Advise patients to contact their physician if they develop fever, joint stiffness, joint pain or muscle pains [see Warnings and Precautions (5.7)].
 
-## 17.7 Immunizations
+## 17.7 Hypersensitivity Reactions
+
+Inform patients of the potential risk of hypersensitivity reactions.
+Advise patients to stop taking mycophenolate mofetil and seek immediate medical attention if signs or symptoms of hypersensitivity reaction occur (such as swelling of face, lips, tongue, or throat; difficulty breathing or swallowing) [see Warnings and Precautions (5.8)].
+
+## 17.8 Immunizations
 
 Inform patients that mycophenolate mofetil can interfere with the usual response to immunizations.
-Before seeking vaccines on their own, advise patients to discuss first with their physician [see Warnings and Precautions (5.8)].
+Before seeking vaccines on their own, advise patients to discuss first with their physician [see Warnings and Precautions (5.9)].
 
-## 17.8 Administration Instructions
+## 17.9 Administration Instructions
 
 - Advise patients not to crush mycophenolate mofetil tablets and not to open mycophenolate mofetil capsules.
 - Advise patients to avoid inhalation or contact of the skin or mucous membranes with the powder contained in mycophenolate mofetil capsules and with the oral suspension.
@@ -61,22 +66,31 @@ Before seeking vaccines on their own, advise patients to discuss first with thei
   In case of ocular contact, rinse eyes with plain water.
 - Advise patients to take a missed dose as soon as they remember, except if it is closer than 2 hours to the next scheduled dose; in this case they should continue to take mycophenolate mofetil at the usual times.
 
-## 17.9 Blood Donation
+## 17.10 Blood Donation
 
-Advise patients not to donate blood during therapy and for at least 6 weeks following discontinuation of mycophenolate mofetil [see Warnings and Precautions (5.11)].
+Advise patients not to donate blood during therapy and for at least 6 weeks following discontinuation of mycophenolate mofetil [see Warnings and Precautions (5.12)].
 
-## 17.10 Semen Donation
+## 17.11 Semen Donation
 
-Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil [see Warnings and Precautions (5.12)].
+Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil [see Warnings and Precautions (5.13)].
 
-## 17.11 Potential to Impair Driving and Use of Machinery
+## 17.12 Potential to Impair Driving and Use of Machinery
 
 Advise patients that mycophenolate mofetil can affect the ability to drive or operate machines.
-Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil [see Warnings and Precautions (5.14)].
+Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil [see Warnings and Precautions (5.15)].
 
 For Medication Guide, please visit:
 
 http://www.ascendlaboratories.com/mg/mycomofetil.pdf
 
-Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
-Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
+Manufactured by:
+
+Alkem Laboratories Ltd.,
+
+Mumbai - 400 013, INDIA.
+
+Distributed by:
+
+Ascend Laboratories, LLC
+
+Bedminster, NJ 07921
