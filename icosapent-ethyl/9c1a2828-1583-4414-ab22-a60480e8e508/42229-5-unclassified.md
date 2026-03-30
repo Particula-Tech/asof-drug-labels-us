@@ -8,7 +8,7 @@ Manufactured for: Amarin Pharmaceuticals Ireland Limited Dublin, Ireland
 
 VASCEPA is a registered trademark of the Amarin group of companies
 
-©2025 Amarin Pharma, Inc. Bridgewater NJ 08807.
+©2026 Amarin Pharma, Inc. Bridgewater NJ 08807.
 All rights reserved
 
-P00120P 12/2025
+P00120Q 03/2026
