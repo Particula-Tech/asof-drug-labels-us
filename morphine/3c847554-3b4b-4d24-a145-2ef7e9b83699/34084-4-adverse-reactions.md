@@ -55,10 +55,9 @@ Adrenal Insufficiency: Cases of adrenal insufficiency have been reported with op
 
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in Morphine Sulfate Tablets.
 
-Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids for an extended period of time.
-[see Clinical Pharmacology (12.2)].
+Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids for an extended period of time [see Clinical Pharmacology (12.2)].
 
-Hyperalgesia and Allodynia:Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.6)]
+Hyperalgesia and Allodynia:Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.6)].
 
 Hypoglycemia:Cases of hypoglycemia have been reported in patients taking opioids.
 Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).

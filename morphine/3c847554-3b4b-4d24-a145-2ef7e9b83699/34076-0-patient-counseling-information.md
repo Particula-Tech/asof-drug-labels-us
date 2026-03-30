@@ -92,7 +92,7 @@ Instruct patients how to recognize symptoms of low blood pressure and how to red
 Anaphylaxis:
 
 Inform patients that anaphylaxis have been reported with ingredients contained in Morphine Sulfate Tablets.
-Advise patients how to recognize such a reaction and when to seek medical attention [see Contraindications (4); Adverse Reactions (6)].
+Advise patients how to recognize such a reaction and when to seek medical attention [see Contraindications (4), Adverse Reactions (6)].
 
 Pregnancy:
 
@@ -112,4 +112,4 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-C500000374/03
+C50000374/03

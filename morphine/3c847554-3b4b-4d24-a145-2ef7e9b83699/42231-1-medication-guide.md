@@ -1,5 +1,3 @@
-# Medication Guide
-
 MEDICATION GUIDE
 
 Morphine Sulfate (mor’ feen sul’ fate) Tablets, CII
