@@ -21,7 +21,7 @@ Accidental ingestion of even one dose of Morphine Sulfate Oral Solution, especia
 Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 
 Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
-Reserve concomitant prescribing of Morphine Sulfate Oral Solution and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate [see Warnings and Precautions (5.4), Drug Interactions (7)].
+Reserve concomitant prescribing of Morphine Sulfate Oral Solution and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate [seeWarnings and Precautions (5.4), Drug Interactions (7)].
 
 Neonatal Opioid Withdrawal Syndrome (NOWS)
 

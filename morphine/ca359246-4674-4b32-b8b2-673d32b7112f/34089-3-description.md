@@ -14,7 +14,7 @@ The octanol:water partition coefficient of morphine is 1.42 at physiologic pH an
 
 For the 10 mg per 5 mL (2 mg/mL) concentration: Each 5 mL of oral solution contains 10 mg of morphine sulfate, USP and the following inactive ingredients: citric acid anhydrous, disodium edetate, FD&C Green No. 3 (fast green), glycerin, sodium benzoate, sorbitol and purified water.
 
-For the 20 mg per 5 mL (4 mg/mL) concentration: Each 5 mL of oral solution contains 20 mg of morphine sulfate USP and the following inactive ingredients: citric acid anhydrous, disodium edetate, FD&C Green No. 3 (fast green), glycerin, methylparaben, propylparaben, sodium benzoate, sorbitol and purified water.
+For the 20 mg per 5 mL (4 mg/mL) concentration: Each 5 mL of oral solution contains 20 mg of morphine sulfate, USP and the following inactive ingredients: citric acid anhydrous, disodium edetate, FD&C Green No. 3 (fast green), glycerin, methylparaben, propylparaben, sodium benzoate, sorbitol and purified water.
 
-For the 100 mg per 5 mL (20 mg/mL) concentration (only for opioid-tolerant adults): Each 5 mL of oral solution contains 100 mg of morphine sulfate USP and the following inactive ingredients: citric acid anhydrous, disodium edetate, glycerin, sodium benzoate, sorbitol and purified water.
+For the 100 mg per 5 mL (20 mg/mL) concentration (only for opioid-tolerant adults): Each 5 mL of oral solution contains 100 mg of morphine sulfate, USP and the following inactive ingredients: citric acid anhydrous, disodium edetate, glycerin, sodium benzoate, sorbitol and purified water.
 Additionally, the tinted solution contains D & C Red No. 33 and sucralose.
