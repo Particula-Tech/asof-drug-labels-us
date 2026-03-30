@@ -14,14 +14,13 @@ Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [S
 
 Rx only
 
-Manufactured for: Endo USA Malvern, PA 19355 U.S.A.
+Manufactured for:
 
-Made in India
+Endo USA
 
-Neutral Code: TN/DRUGS/TN00002121
+Malvern, PA 19355 U.S.A.
 
-© 2024 Endo, Inc. or one of its affiliates.
-
+Made in India Neutral Code: TN/DRUGS/TN00002121 © 2024 Endo, Inc. or one of its affiliates.
 OS306C-01-74-01
 
 Issued: 12/2024
