@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA218819"
+  ],
+  "inn": "fluorometholone",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-6187-70",
+    "0781-6187-75"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "fluorometholone",
+      "name": "FML"
+    }
+  ],
+  "setid": "c9cbf06e-5413-4c3c-9ded-174c856a4ce1",
+  "source": "dailymed"
+}
