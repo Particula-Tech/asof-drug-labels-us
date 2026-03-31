@@ -35,18 +35,27 @@ Consider the benefits and risks for the individual patient to determine whether 
 Patients should be monitored until IH resolution and for recurrence.
 Patients with elevated vitamin A levels may be at increased risk.
 
-## 5.5 Respiratory Events
+## 5.5 Neuropsychiatric Events, Including Suicidal Thoughts and Behaviors
+
+Serious neuropsychiatric events, including symptoms of anxiety, depression, suicidal ideation and behavior, and sleep disturbances, have been reported in the postmarketing setting in patients taking ORKAMBI or drugs containing the same or similar active ingredients [see Adverse Reactions (6.2)].
+The events were reported in adult and pediatric patients with and without a previous history of neuropsychiatric symptoms.
+Symptoms may occur within the first three months of treatment initiation.
+
+Assess patients for baseline neuropsychiatric symptoms and monitor for new or worsening symptoms of anxiety, depression, suicidal ideation or behavior, or sleep disturbances.
+Consider the benefits and risks for the individual patient to determine if therapy with ORKAMBI should be interrupted at the occurrence of neuropsychiatric symptoms and whether to resume therapy with symptom improvement.
+
+## 5.6 Respiratory Events
 
 Respiratory events (e.g., chest discomfort, dyspnea, and respiration abnormal) were observed more commonly in patients during initiation of ORKAMBI compared to those who received placebo.
 These events have led to drug discontinuation and can be serious, particularly in patients with advanced lung disease (percent predicted FEV1 <40).
 Clinical experience in patients with ppFEV1 <40 is limited, and additional monitoring of these patients is recommended during initiation of therapy [see Adverse Reactions (6.1)].
 
-## 5.6 Effect on Blood Pressure
+## 5.7 Effect on Blood Pressure
 
 Increased blood pressure has been observed in some patients treated with ORKAMBI.
 Blood pressure should be monitored periodically in all patients being treated with ORKAMBI [see Adverse Reactions (6.1)].
 
-## 5.7 Drug Interactions
+## 5.8 Drug Interactions
 
 Substrates of CYP3A
 
@@ -63,7 +72,7 @@ Ivacaftor is a substrate of CYP3A4 and CYP3A5 isoenzymes.
 Use of ORKAMBI with strong CYP3A inducers, such as rifampin, significantly reduces ivacaftor exposure, which may reduce the therapeutic effectiveness of ORKAMBI.
 Therefore, co-administration with strong CYP3A inducers (e.g., rifampin, St. John's wort [Hypericum perforatum]) is not recommended [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
-## 5.8 Cataracts
+## 5.9 Cataracts
 
 Cases of non-congenital lens opacities have been reported in pediatric patients treated with ORKAMBI and ivacaftor, a component of ORKAMBI.
 Although other risk factors were present in some cases (such as corticosteroid use and exposure to radiation), a possible risk attributable to ivacaftor cannot be excluded [see Use in Specific Populations (8.4)].
