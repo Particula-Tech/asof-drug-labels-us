@@ -42,7 +42,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-In two published clinical studies, a total of 14 women were given intravenous dexmedetomidine 6 mcg/kg/hour for 10 minutes after delivery followed by continuous infusion of 0.2 to 0.7 mcg/kg/hour.
+In two published clinical studies, a total of 14 women were given intravenous dexmedetomidine 6 mcg/kg/hour for 10 minutes after delivery followed by continuous infusion of 0.2 mcg/kg/hour to 0.7 mcg/kg/hour.
 Breast milk and maternal blood samples were collected at 0, 6, 12, and 24 hours after discontinuation of dexmedetomidine.
 Plasma and milk dexmedetomidine concentrations were detectable up to 6 hours in most subjects, up to 12 hours in one subject and undetectable in all at 24 hours.
 The milk-to-plasma ratio from single paired maternal milk and plasma concentrations at each time point ranged from 0.53 to 0.95.
@@ -52,10 +52,12 @@ The relative infant dose was estimated to range from 0.02 to 0.098%.
 
 Sedation for Non-Invasive Procedures
 
-The safety and effectiveness of dexmedetomidine have not been established in pediatric patients less than 1 month of age.
+The safety and efficacy of dexmedetomidine have been established in pediatric patients 1 month to less than 18 years of age for sedation during non-invasive procedures.
+Use in this age group is based on one randomized double-blind, dose-ranging safety and efficacy trial in non-intubated pediatric patients 1 month to less than 17 years of age who required sedation prior to undergoing MRI scans [see Clinical Studies (14.2)].
+An increase in frequency of bradypnea, bradycardia, hypertension and hypotension was observed in pediatric patients treated with dexmedetomidine [see Adverse Reactions (6.1)].
+The overall safety profile of dexmedetomidine in pediatric patients was consistent with the known safety profile in adults [see Adverse Reactions (6.1)].
 
-Pediatric use information is approved for Hospira Inc.’s PRECEDEXTM (dexmedetomidine hydrochloride) injection and PRECEDEXTM (dexmedetomidine hydrochloride) in sodium chloride injection.
-However, due to Hospira Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+The safety and effectiveness of dexmedetomidine have not been established in pediatric patients less than 1 month of age.
 
 ICU Sedation
 

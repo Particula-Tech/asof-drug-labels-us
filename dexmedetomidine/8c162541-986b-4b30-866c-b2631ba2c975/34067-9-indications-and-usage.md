@@ -10,5 +10,4 @@ It is not necessary to discontinue dexmedetomidine injection prior to extubation
 ## 1.2 Procedural Sedation
 
 Dexmedetomidine injection is indicated for sedation of non-intubated adult patients prior to and/or during surgical and other procedures.
-Pediatric use information is approved for Hospira Inc.’s PRECEDEXTM (dexmedetomidine hydrochloride) injection and PRECEDEXTM (dexmedetomidine hydrochloride) in sodium chloride injection.
-However, due to Hospira Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Dexmedetomidine injection is indicated for sedation of non-intubated pediatric patients aged 1 month to less than 18 years prior to and during non-invasive procedures.

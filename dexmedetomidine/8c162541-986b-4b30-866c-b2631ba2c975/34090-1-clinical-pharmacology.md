@@ -8,14 +8,14 @@ Both alpha1 and alpha2 activity is observed following slow intravenous infusion 
 
 ## 12.2 Pharmacodynamics
 
-In a study in healthy adult volunteers (N = 10), respiratory rate and oxygen saturation remained within normal limits and there was no evidence of respiratory depression when dexmedetomidine was administered by intravenous infusion at doses within the recommended dose range (0.2 to 0.7 mcg/kg/hr).
+In a study in healthy adult volunteers (N = 10), respiratory rate and oxygen saturation remained within normal limits and there was no evidence of respiratory depression when dexmedetomidine was administered by intravenous infusion at doses within the recommended dose range (0.2 mcg/kg/hr to 0.7 mcg/kg/hr).
 
 ## 12.3 Pharmacokinetics
 
 Following intravenous administration to adults, dexmedetomidine exhibits the following pharmacokinetic parameters: a rapid distribution phase with a distribution half-life (t1/2) of approximately 6 minutes; a terminal elimination half-life (t1/2) of approximately 2 hours; and steady-state volume of distribution (Vss) of approximately 118 liters.
 Clearance is estimated to be approximately 39 L/h.
 The mean body weight associated with this clearance estimate was 72 kg.
-Dexmedetomidine exhibits linear pharmacokinetics in the dosage range of 0.2 to 0.7 mcg/kg/hr when administered to adults by intravenous infusion for up to 24 hours.
+Dexmedetomidine exhibits linear pharmacokinetics in the dosage range of 0.2 mcg/kg/hr to 0.7 mcg/kg/hr when administered to adults by intravenous infusion for up to 24 hours.
 Table 10 shows the main pharmacokinetic parameters when dexmedetomidine was infused (after appropriate loading doses) at maintenance infusion rates of 0.17 mcg/kg/hr (target plasma concentration of 0.3 ng/mL) for 12 and 24 hours, 0.33 mcg/kg/hr (target plasma concentration of 0.6 ng/mL) for 24 hours, and 0.70 mcg/kg/hr (target plasma concentration of 1.25 ng/mL) for 24 hours.
 
 Table 10: Mean ± SD Pharmacokinetic Parameters in Adults
@@ -32,7 +32,7 @@ Table 10: Mean ± SD Pharmacokinetic Parameters in Adults
 | Abbreviations: t1/2 = half-life, CL = clearance, Vss = steady-state volume of distribution. * Presented as harmonic mean and pseudo standard deviation. # Mean Css = Average steady-state concentration of dexmedetomidine. The mean Css was calculated based on post-dose sampling from 2.5 to 9 hours samples for 12 hour infusion and post-dose sampling from 2.5 to 18 hours for 24 hour infusions. |  |  |  |  |
 
 The loading doses for each of the above indicated groups were 0.5, 0.5, 1 and 2.2 mcg/kg, respectively.
-Dexmedetomidine pharmacokinetic parameters in adults after dexmedetomidine maintenance doses of 0.2 to 1.4 mcg/kg/hr for >24 hours were similar to the pharmacokinetic (PK) parameters after dexmedetomidine maintenance dosing for <24 hours in other studies.
+Dexmedetomidine pharmacokinetic parameters in adults after dexmedetomidine maintenance doses of 0.2 mcg/kg/hr to 1.4 mcg/kg/hr for >24 hours were similar to the pharmacokinetic (PK) parameters after dexmedetomidine maintenance dosing for <24 hours in other studies.
 The values for clearance (CL), volume of distribution (V), and t1/2 were 39.4 L/hr, 152 L, and 2.67 hours, respectively.
 Distribution The steady-state volume of distribution (Vss) of dexmedetomidine was approximately 118 liters.
 Dexmedetomidine protein binding was assessed in the plasma of normal healthy male and female subjects.
@@ -58,9 +58,24 @@ Geriatric Patients The pharmacokinetic profile of dexmedetomidine was not altere
 There were no differences in the pharmacokinetics of dexmedetomidine in young (18 to 40 years), middle age (41 to 65 years), and elderly (>65 years) subjects.
 Pediatric Patients
 
-Pediatric use information is approved for Hospira Inc.’s PRECEDEXTM (dexmedetomidine hydrochloride) injection and PRECEDEXTM (dexmedetomidine hydrochloride) in sodium chloride injection.
-However, due to Hospira Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
-Patients with Hepatic Impairment In adult subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, or C), clearance values for dexmedetomidine were lower than in healthy subjects.
+A population PK analysis was conducted with data collected from mechanically ventilated pediatric patients less than 17 years of age from 4 clinical studies.
+A linear 2-compartment model was found to best characterize the pooled dexmedetomidine concentration data.
+Mean PK parameters for each age group are summarized in Table 11.
+
+Table 11: Geometric Mean Point Estimates and 95% Confidence Intervals of PK Parameters by Pediatric Age Group
+
+| Age Group | N | CL (L/h) | Vc (L) |
+| --- | --- | --- | --- |
+| 1 to less than 6 months | 14 | 6.94 (5.46, 8.81) | 4.34 (3.25, 5.81) |
+| 6 to less than 12 months | 15 | 8.15 (7.01, 9.47) | 7.29 (5.57, 9.53) |
+| 12 to less than 24 months | 13 | 10.76 (9.09, 12.74) | 7.35 (5.59, 9.67) |
+| 2 to less than 6 years | 26 | 15.89 (14.00, 18.04) | 13.78 (10.66, 17.83) |
+| 6 to less than 17 years | 28 | 24.45 (19.34, 30.92) | 24.47 (17.06, 35.10) |
+| Abbreviations: CL = plasma clearance, Vc = volume of the central compartment. |  |  |  |
+
+Patients with Hepatic Impairment
+
+In adult subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, or C), clearance values for dexmedetomidine were lower than in healthy subjects.
 The mean clearance values for patients with mild, moderate, and severe hepatic impairment were 74%, 64% and 53% of those observed in the normal healthy adult subjects, respectively.
 Mean clearances for free drug were 59%, 51% and 32% of those observed in the normal healthy adult subjects, respectively.
 Although dexmedetomidine is dosed to effect, it may be necessary to consider dose reduction in subjects with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.8)].

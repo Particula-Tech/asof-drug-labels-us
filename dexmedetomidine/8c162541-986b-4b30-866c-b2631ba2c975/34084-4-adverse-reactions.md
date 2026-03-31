@@ -149,10 +149,37 @@ Table 7: Adverse Reactions with an Incidence >2%— Adult Procedural Sedation Po
 | Dry Mouth | 3% | 1% |
 | Hypoxia6 | 2% | 3% |
 | Bradypnea | 2% | 4% |
-| 1 Hypotension was defined in absolute and relative terms as Systolic blood pressure of <80 mmHg or ≤30% lower than pre-study drug infusion value, or Diastolic blood pressure of <50 mmHg. 2 Respiratory depression was defined in absolute and relative terms as respiratory rate (RR) <8 beats per minute or >25% decrease from baseline 3 Bradycardia was defined in absolute and relative terms as <40 beats per minute or ≤30% lower than pre-study drug infusion value. Subjects in Study 2 were pretreated with glycopyrrolate 0.1 mg intravenously before receiving study drug [see Clinical Studies (14.2)]. 4 Hypertension was defined in absolute and relative terms as Systolic blood pressure >180 mmHg or ≥30% higher than pre-study drug infusion value or Diastolic blood pressure of >100 mmHg. 5 Tachycardia was defined in absolute and relative terms as >120 beats per minute or ≥30% greater than pre-study drug infusion value. 6 Hypoxia was defined in absolute and relative terms as SpO2 <90% or 10% decrease from baseline. |  |  |
+| 1 Hypotension was defined in absolute and relative terms as Systolic blood pressure of <80 mmHg or ≤30% lower than pre-study drug infusion value, or Diastolic blood pressure of <50 mmHg. 2 Respiratory depression was defined in absolute and relative terms as respiratory rate (RR) <8 beats per minute or >25% decrease from baseline. 3 Bradycardia was defined in absolute and relative terms as <40 beats per minute or ≤30% lower than pre-study drug infusion value. Subjects in Study 2 were pretreated with glycopyrrolate 0.1 mg intravenously before receiving study drug [see Clinical Studies (14.2)]. 4 Hypertension was defined in absolute and relative terms as Systolic blood pressure >180 mmHg or ≥30% higher than pre-study drug infusion value or Diastolic blood pressure of >100 mmHg. 5 Tachycardia was defined in absolute and relative terms as >120 beats per minute or ≥30% greater than pre-study drug infusion value. 6 Hypoxia was defined in absolute and relative terms as SpO2 <90% or 10% decrease from baseline. |  |  |
 
-Pediatric use information is approved for Hospira Inc.’s PRECEDEXTM (dexmedetomidine hydrochloride) injection and PRECEDEXTM (dexmedetomidine hydrochloride) in sodium chloride injection.
-However, due to Hospira Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric Sedation for Magnetic Resonance Imaging Adverse reaction information is derived from a trial for sedation of pediatric procedural during a non-invasive procedure [see Clinical Studies (14.2)] in which 122 pediatric patients aged 1 month to less than 17 years undergoing magnetic resonance imaging (MRI) scans received dexmedetomidine.
+In pediatric patients 1 month to less than 2 years old, the median total dose for the dexmedetomidine low, middle, and high dose treatment groups was 8.30, 18.90, and 22.75 mcg, respectively.
+The median duration of treatment ranged from 52.5 to 69 minutes across treatment groups.
+In pediatric patients 2 to less than 17 years old, the median total dose for the dexmedetomidine low, middle, and high dose treatment groups was 21.30, 43.90, and 80.25 mcg, respectively.
+The median duration of treatment ranged from 56.5 to 66 minutes across treatment groups.
+All-causality treatment-emergent adverse reactions occurring in the combined age group of pediatric patients during the procedure at an incidence of >5% are provided in Table 8.
+The most frequent treatment-emergent adverse events were bradypnea, bradycardia, hypertension, and hypotension [see Warnings and Precautions (5.2, 5.3)].
+In the combined age group and in each age group, increased incidence in bradycardia and hypertension was observed with increasing dexmedetomidine dose.
+Mild transient withdrawal symptoms of emergence delirium or agitation occurred in 3 of 122 patients after discontinuation of dexmedetomidine infusion [see Warnings and Precautions (5.5)].
+All reported treatment-emergent adverse reactions were mild to moderate in severity and the majority resolved without medical intervention.
+No subject in the study required airway intervention, including a jaw thrust or insertion of a nasal or oral airway.
+A similar profile was observed in the pediatric patients 1 month to less than 2 years old and in pediatric patients 2 to less than 17 years old.
+Pre-specified criteria for the vital signs to be reported as adverse events are footnoted below the table.
+
+Table 8: Treatment -Emergent Adverse Events with Incidence >5% -Pediatric Patients During Non-invasive Procedure
+
+|  | Dexmedetomidine Low Dose (N = 42) | Dexmedetomidine Middle Dose (N = 42) | Dexmedetomidine High Dose (N = 38) | Total (N = 122) |
+| --- | --- | --- | --- | --- |
+| Number (%) of Pediatric Patients | n (%) | n (%) | n (%) | n (%) |
+| Adverse Event |  |  |  |  |
+| Bradypnea1 | 33 (79) | 27 (64) | 22 (58) | 82 (67) |
+| Bradycardia2 | 24 (57) | 24 (57) | 27 (71) | 75 (62) |
+| Hypertension3 | 11 (26) | 17 (41) | 18 (47) | 46 (38) |
+| Hypotension4 | 13 (31) | 11 (26) | 6 (16) | 30 (25) |
+| Hypoxia5 | 6 (14) | 3 (7) | 1 (3) | 10 (8) |
+| Diastolic Hypertension3 | 3 (7) | 3 (7) | 4 (11) | 10 (8) |
+| Systolic Hypertension3 | 1 (2) | 5 (12) | 3 (8) | 9 (7) |
+| Tachycardia | 3 (7) | 1 (2) | 1 (3) | 5 (4) |
+| N = Number of pediatric patients evaluable for adverse events. 1 Bradypnea was defined as respiratory rate <1st centile of the age adjusted normal range. 2 Bradycardia was defined as a decrease in HR of 30% from baseline or absolute HR ≤1st centile of the age adjusted normal range. 3 For pediatric patients 1 month to less than 1 year old, hypertension was defined as supine systolic blood pressure ≥104 mm/Hg and/or diastolic blood pressure ≥56 mmHg measurements. For pediatric patients 1 to less than 17 years old: hypertension was defined as supine systolic blood pressure and/or diastolic blood pressure measurements ≥95th percentile for gender, age, and height. 4 Hypotension was defined as a decrease in systolic blood pressure ≥30% from baseline. 5 Hypoxia was defined as oxygen saturation <90% for any duration. |  |  |  |  |
 
 ## 6.2 Postmarketing Experience
 

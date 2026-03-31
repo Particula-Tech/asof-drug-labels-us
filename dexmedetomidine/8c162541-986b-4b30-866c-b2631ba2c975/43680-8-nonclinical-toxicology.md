@@ -11,5 +11,5 @@ Impairment of Fertility Fertility in male or female rats was not affected after 
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-There were no differences in the adrenocorticotropic hormone (ACTH)-stimulated cortisol response in dogs following a single dose of dexmedetomidine compared to saline control.
+There were no differences in the adrenocorticotropic hormone (ACTH)-stimulated cortisol response in dogs following a single-dose of dexmedetomidine compared to saline control.
 However, after continuous subcutaneous infusions of dexmedetomidine at 3 mcg/kg/hr and 10 mcg/kg/hr for one week in dogs (exposures estimated to be within the clinical range), the ACTH-stimulated cortisol response was diminished by approximately 27% and 40%, respectively, compared to saline-treated control animals indicating a dose-dependent adrenal suppression.

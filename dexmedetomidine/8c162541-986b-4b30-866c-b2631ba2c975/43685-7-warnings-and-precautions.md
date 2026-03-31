@@ -43,10 +43,7 @@ Procedural Sedation
 
 In adult subjects, withdrawal symptoms were not seen after discontinuation of short-term infusions of dexmedetomidine (<6 hours).
 
-In pediatric patients, mild transient withdrawal symptoms of emergence delirium or agitation were seen after discontinuation of short-term infusions of dexmedetomidine (<2 hours).
-
-Pediatric use information is approved for Hospira Inc.’s PRECEDEXTM (dexmedetomidine hydrochloride) injection and PRECEDEXTM (dexmedetomidine hydrochloride) in sodium chloride injection.
-However, due to Hospira Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+In pediatric patients, mild transient withdrawal symptoms of emergence delirium or agitation were seen after discontinuation of short-term infusions of dexmedetomidine (<2 hours) [see Adverse Reactions (6.1)].
 
 ## 5.6 Tolerance and Tachyphylaxis
 
