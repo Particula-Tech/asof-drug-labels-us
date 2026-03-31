@@ -11,13 +11,13 @@ Acute respiratory distress syndrome (ARDS) can occur in patients receiving Neula
 Evaluate patients who develop fever and lung infiltrates or respiratory distress after receiving Neulasta, for ARDS.
 Discontinue Neulasta in patients with ARDS.
 
-## 5.3 Serious Allergic Reactions
+## 5.3 Serious Hypersensitivity Reactions
 
-Serious allergic reactions, including anaphylaxis, can occur in patients receiving Neulasta.
+Serious hypersensitivity reactions, including anaphylaxis, can occur in patients receiving Neulasta.
 The majority of reported events occurred upon initial exposure.
-Allergic reactions, including anaphylaxis, can recur within days after the discontinuation of initial anti-allergic treatment.
-Permanently discontinue Neulasta in patients with serious allergic reactions.
-Do not administer Neulasta to patients with a history of serious allergic reactions to pegfilgrastim or filgrastim.
+Hypersensitivity reactions, including anaphylaxis, can recur within days after the discontinuation of initial therapies to manage the reaction.
+Permanently discontinue Neulasta in patients with serious hypersensitivity reactions.
+Neulasta is contraindicated in patients with a history of a serious hypersensitivity reaction to pegfilgrastim or filgrastim.
 
 ## 5.4 Allergies to Acrylics
 
@@ -26,7 +26,7 @@ For patients who have reactions to acrylic adhesives, use of this product may re
 
 ## 5.5 Use in Patients with Sickle Cell Disorders
 
-Severe and sometimes fatal sickle cell crises can occur in patients with sickle cell disorders receiving pegfilgrastim products.
+Severe and sometimes fatal sickle cell crises can occur in patients with sickle cell disorders receiving Neulasta.
 Discontinue Neulasta if sickle cell crisis occurs.
 
 ## 5.6 Glomerulonephritis
@@ -39,13 +39,13 @@ If causality is likely, consider dose-reduction or interruption of Neulasta.
 
 ## 5.7 Leukocytosis
 
-White blood cell (WBC) counts of 100 × 109/L or greater have been observed in patients receiving pegfilgrastim.
-Monitoring of complete blood count (CBC) during pegfilgrastim therapy is recommended.
+White blood cell (WBC) counts of 100 × 109/L or greater have been observed in patients receiving Neulasta.
+Monitoring of complete blood count (CBC) during Neulasta therapy is recommended.
 
 ## 5.8 Thrombocytopenia
 
-Thrombocytopenia has been reported in patients receiving pegfilgrastim.
-Monitor platelet counts.
+Neulasta can cause thrombocytopenia.
+Monitor platelet counts during Neulasta therapy.
 
 ## 5.9 Capillary Leak Syndrome
 
@@ -56,7 +56,7 @@ Patients who develop symptoms of capillary leak syndrome should be closely monit
 ## 5.10 Potential for Tumor Growth Stimulatory Effects on Malignant Cells
 
 The granulocyte colony-stimulating factor (G-CSF) receptor through which pegfilgrastim and filgrastim act has been found on tumor cell lines.
-The possibility that pegfilgrastim acts as a growth factor for any tumor type, including myeloid malignancies and myelodysplasia, diseases for which pegfilgrastim is not approved, cannot be excluded.
+The possibility that Neulasta acts as a growth factor for any tumor type, including myeloid malignancies and myelodysplasia, diseases for which pegfilgrastim is not approved, cannot be excluded.
 
 ## 5.11 Myelodysplastic Syndrome (MDS) and Acute Myeloid Leukemia (AML) in Patients with Breast and Lung Cancer
 
@@ -79,5 +79,5 @@ Discontinue Neulasta if aortitis is suspected.
 
 ## 5.14 Nuclear Imaging
 
-Increased hematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone imaging changes.
+Increased hematopoietic activity of the bone marrow in response to growth factor therapy, including Neulasta, has been associated with transient positive bone imaging changes.
 This should be considered when interpreting bone imaging results.

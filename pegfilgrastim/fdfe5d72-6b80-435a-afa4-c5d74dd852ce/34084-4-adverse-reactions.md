@@ -4,7 +4,7 @@ The following clinically significant adverse reactions are discussed in greater 
 
 - Splenic Rupture [see Warnings and Precautions (5.1)]
 - Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
-- Serious Allergic Reactions [see Warnings and Precautions (5.3)]
+- Serious Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
 - Allergies to Acrylics [see Warnings and Precautions (5.4)]
 - Use in Patients with Sickle Cell Disorders [see Warnings and Precautions (5.5)]
 - Glomerulonephritis [see Warnings and Precautions (5.6)]
@@ -46,19 +46,6 @@ Leukocytosis
 
 In clinical studies, leukocytosis (WBC counts > 100 × 109/L) was observed in less than 1% of 932 patients with non-myeloid malignancies receiving Neulasta.
 No complications attributable to leukocytosis were reported in clinical studies.
-
-## 6.2 Immunogenicity
-
-As with all therapeutic proteins, there is a potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to pegfilgrastim in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
-
-Binding antibodies to pegfilgrastim were detected using a BIAcore assay.
-The approximate limit of detection for this assay is 500 ng/mL.
-Pre-existing binding antibodies were detected in approximately 6% (51/849) of patients with metastatic breast cancer.
-Four of 521 pegfilgrastim-treated subjects who were negative at baseline developed binding antibodies to pegfilgrastim following treatment.
-None of these 4 patients had evidence of neutralizing antibodies detected using a cell-based bioassay.
 
 ## 6.3 Postmarketing Experience
 

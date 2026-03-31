@@ -34,7 +34,7 @@ Efficacy studies of Neulasta could not be conducted in humans with acute radiati
 Approval of this indication was based on efficacy studies conducted in animals and data supporting Neulasta's effect on severe neutropenia in patients with cancer receiving myelosuppressive chemotherapy [see Dosage and Administration (2.1)].
 
 The recommended dose of Neulasta is two doses, 6 mg each, administered one week apart for humans exposed to myelosuppressive doses of radiation.
-For pediatric patients weighing less than 45 kg, dosing of Neulasta is weight based and is provided in Table 1 [see Dosage and Administration (2.3)].
+For pediatric patients weighing less than 45 kg, dosing of Neulasta is weight based and is provided in Table 1 [see Dosage and Administration (2.1, 2.2)].
 This dosing regimen is based on population modeling and simulation analyses.
 The exposure associated with this dosing regimen is expected to provide sufficient pharmacodynamic activity to treat humans exposed to myelosuppressive doses of radiation [see Clinical Pharmacology (12.3)].
 The safety of Neulasta at a dose of 6 mg has been assessed on the basis of clinical experience in patients with cancer receiving myelosuppressive chemotherapy.

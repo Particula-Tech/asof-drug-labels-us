@@ -39,4 +39,15 @@ Patients Acutely Exposed to Myelosuppressive Doses of Radiation
 The pharmacokinetics of pegfilgrastim is not available in patients acutely exposed to myelosuppressive doses of radiation.
 Based on limited pharmacokinetic data in irradiated non-human primates, the area under the concentration-time curve (AUC), reflecting the exposure to pegfilgrastim in non-human primates following a 300 mcg/kg dose of Neulasta, appears to be greater than in humans receiving a 6 mg dose.
 Results from population modeling and simulation indicate that two 6 mg doses of Neulasta administered one week apart in adults result in clinically relevant effects on duration of grade 3 and 4 neutropenia.
-In addition, weight based dosing in pediatric patients weighing less than 45 kg [see Dosage and Administration, Section 2.3, Table 1] provides exposures comparable to those in adults receiving two 6 mg doses one week apart.
+In addition, weight-based dosing in pediatric patients weighing less than 45 kg [see Dosage and Administration (2.1, Table 1 and 2.2)] provides exposures comparable to those in adults receiving two 6 mg doses one week apart.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of pegfilgrastim or of other pegfilgrastim products.
+
+Binding antibodies to pegfilgrastim were detected using a BIAcore assay.
+The approximate limit of detection for this assay is 500 ng/mL.
+Pre-existing binding antibodies were detected in approximately 6% (51/849) of patients with metastatic breast cancer.
+Four of 521 pegfilgrastim-treated subjects who were negative at baseline developed binding antibodies to pegfilgrastim following treatment.
+None of these 4 patients had evidence of neutralizing antibodies detected using a cell-based bioassay.

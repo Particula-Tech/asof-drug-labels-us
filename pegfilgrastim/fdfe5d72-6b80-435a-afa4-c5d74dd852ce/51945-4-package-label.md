@@ -68,3 +68,24 @@ Manufactured by Amgen Inc.
 Thousand Oaks, CA 91320-1799 U.S.A.
 
 U.S. License No. 1080
+
+# PRINCIPAL DISPLAY PANEL - 0.4 mL Vial Carton
+
+One 0.4 mL Single-Dose Vial.
+Discard Unused Portion
+
+AMGEN
+
+NDC 55513-099-01
+
+Neulasta® (pegfilgrastim) injection
+
+4 mg/0.4 mL
+
+4 mg/ 0.4 mL
+
+For Subcutaneous Use Only Must be administered by a healthcare provider
+
+Pegylated Recombinant Methionyl Human Granulocyte Colony-Stimulating Factor (PEG-r-metHuG-CSF) derived from E. Coli
+
+Rx Only

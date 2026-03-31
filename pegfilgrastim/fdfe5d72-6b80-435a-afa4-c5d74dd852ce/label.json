@@ -3,8 +3,9 @@
     "BLA125031"
   ],
   "inn": "pegfilgrastim",
-  "labeler": "Amgen Inc",
+  "labeler": "Amgen, Inc",
   "package_ndcs": [
+    "55513-099-01",
     "55513-190-01",
     "55513-192-01"
   ],
@@ -16,6 +17,11 @@
     },
     {
       "form": "KIT",
+      "generic": "pegfilgrastim",
+      "name": "Neulasta"
+    },
+    {
+      "form": "SOLUTION",
       "generic": "pegfilgrastim",
       "name": "Neulasta"
     }

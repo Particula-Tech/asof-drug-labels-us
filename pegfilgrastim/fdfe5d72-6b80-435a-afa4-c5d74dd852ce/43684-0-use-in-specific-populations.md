@@ -36,14 +36,13 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Neulasta have been established in pediatric patients.
-No overall differences in safety were identified between adult and pediatric patients based on postmarketing surveillance and review of the scientific literature.
+The safety and effectiveness of Neulasta for chemotherapy-induced neutropenia and hematopoietic subsyndrome of acute radiation syndrome have been established in pediatric patients aged newborn and older.
 
-Use of Neulasta in pediatric patients for chemotherapy-induced neutropenia is based on adequate and well-controlled studies in adults with additional pharmacokinetic and safety data in pediatric patients with sarcoma [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
+Use of Neulasta in pediatric patients for chemotherapy-induced neutropenia is based on adequate and well-controlled studies in adults with additional pharmacokinetic and safety data in pediatric patients aged 8 months and older with sarcoma [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
 
 The use of Neulasta to increase survival in pediatric patients acutely exposed to myelosuppressive doses of radiation is based on efficacy studies conducted in animals and clinical data supporting the use of Neulasta in patients with cancer receiving myelosuppressive chemotherapy.
 Efficacy studies of Neulasta could not be conducted in humans with acute radiation syndrome for ethical and feasibility reasons.
-Results from population modeling and simulation indicate that two doses of Neulasta (Table 1), administered one week apart provide pediatric patients with exposures comparable to that in adults receiving two 6 mg doses one week apart [see Dosage and Administration (2.3), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+Results from population modeling and simulation indicate that two doses of Neulasta (Table 1), administered one week apart provide pediatric patients with exposures comparable to that in adults receiving two 6 mg doses one week apart [see Dosage and Administration (2.1, 2.2), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 

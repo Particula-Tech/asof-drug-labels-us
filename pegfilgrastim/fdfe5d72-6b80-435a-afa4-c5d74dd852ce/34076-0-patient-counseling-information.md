@@ -6,7 +6,7 @@ Advise patients of the following risks and potential risks with Neulasta:
 
 - Splenic rupture and splenomegaly
 - Acute Respiratory Distress Syndrome
-- Serious allergic reactions
+- Serious hypersensitivity reactions
 - Sickle cell crisis
 - Glomerulonephritis
 - Increased risk of Myelodysplastic Syndrome and/or Acute Myeloid Leukemia in patients with breast and lung cancer who receive Neulasta in conjunction with chemotherapy and/or radiation therapy
@@ -26,17 +26,17 @@ Advise patients on the use of the on-body injector (OBI) for Neulasta:
 - Review the Patient Information and Patient Instructions for Use with the patient and provide the instructions to the patient.
 - Refer the patient to the dose delivery information written on the Patient Instructions for Use.
 - Tell the patient when their dose delivery of Neulasta will begin and when their dose delivery should be completed.
-- Advise the patient that serious allergic reactions can happen with Neulasta.
+- Advise the patient that serious hypersensitivity reactions can happen with Neulasta.
   Patients should have a caregiver nearby for the first use.
   Patients should plan to be in a place where they can appropriately monitor the OBI for Neulasta during the approximately 45 minute Neulasta delivery and for an hour after the delivery.
-  Advise the patient to avoid traveling, driving, or operating heavy machinery during hours 26-29 following application of the OBI for Neulasta.
+  Advise the patient to avoid traveling, driving, or operating heavy machinery during hours 26 to 29 following application of the OBI for Neulasta.
 - If the OBI for Neulasta is placed on the back of the arm, remind the patient that a caregiver must be available to monitor the OBI for Neulasta.
 - If a patient calls the healthcare provider regarding any OBI for Neulasta problems, the healthcare provider is advised to call Amgen at 1-800-772-6436.
 - Advise the patient:
   - to call their healthcare provider immediately if the status light on the OBI for Neulasta is flashing red (see the Patient Instructions for Use).
   - to inform their healthcare provider if the adhesive on the OBI for Neulasta becomes saturated with fluid, or there is dripping, as this may be evidence of significant product leakage, resulting in inadequate or missed dose (see the Patient Instructions for Use).
   - to keep the OBI for Neulasta dry for approximately the last 3 hours prior to the dose delivery start to better enable potential leak detection.
-  - that the OBI for Neulasta should only be exposed to temperatures between 41°F and 104°F (5°C-40°C).
+  - that the OBI for Neulasta should only be exposed to temperatures between 41°F and 104°F (5°C to40°C).
   - to keep the OBI for Neulasta at least 4 inches away from electrical equipment such as cell phones, cordless telephones, microwaves, and other common appliances.
     Failure to keep the OBI for Neulasta at least this recommended distance may interfere with operation and can lead to a missed or incomplete dose of Neulasta.
   - that if the needle is exposed after OBI for Neulasta removal, place the used OBI for Neulasta in a sharps disposal container to avoid accidental needle stick and call their healthcare provider immediately.

@@ -42,7 +42,7 @@ Cautions
 Storage Information
 
 - Store the kit in the refrigerator at 36°F to 46°F (2°C to 8°C) until ready for use.
-  If the kit is stored at room temperature for more than 12 hours, do not use.
+  If the kit is stored at room temperature (68°F to 77°F [20°C to 25°C]), for more than 12 hours, do not use.
   Start again with a new kit.
 - Keep the prefilled syringe in the kit carton until use to protect from light.
 - Do not freeze the kit.
@@ -118,7 +118,7 @@ Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 913
 
 Patent: http://pat.amgen.com/onpro/ © 2002 to 2025 Amgen Inc. All rights reserved.
 
-http://www.neulasta.com/ 1-844-MYNEULASTA (1-844-696-3852) Issued: 03/2021 V13
+http://www.neulasta.com/ 1-844-MYNEULASTA (1-844-696-3852) Revised: 08/2025 V14
 
 Before You Begin
 
@@ -219,7 +219,7 @@ Care should be taken if the on-body injector for Neulasta is used adjacent to ot
 | 10 | 3.6894 | 3.6894 | 7.3785 |
 | 100 | 11.667 | 11.667 | 23.333 |
 
-Instructions for Use Neulasta (nu-las-tah) (pegfilgrastim) Injection, for subcutaneous use Single-Dose Prefilled Syringe
+Instructions for Use Neulasta (nu-las-tah) (pegfilgrastim) injection, for subcutaneous use Single-Dose Prefilled Syringe
 
 Guide to parts
 
@@ -236,8 +236,8 @@ Storing the prefilled syringe
 - Store Neulasta in the refrigerator between 36°F to 46°F (2°C to 8°C).
 - Do not freeze.
 - Keep the prefilled syringe in the original carton to protect from light or physical damage.
-- Take the prefilled syringe out of the refrigerator 30 minutes before use and allow it to reach room temperature before preparing an injection.
-- Throw away (dispose of) any Neulasta that has been left at room temperature, 68°F to 77°F (20°C to 25°C), for more than 48 hours.
+- Take the prefilled syringe out of the refrigerator 30 minutes before use and allow it to reach room temperature,68°F to 77°F (20°C to 25°C), before preparing an injection.
+- Throw away (dispose of) any unused Neulasta that has been left at room temperature, 68°F to 77°F (20°C to 25°C), for more than 48 hours.
 - Keep the Neulasta prefilled syringe out of the reach of children.
 
 Using the prefilled syringe
@@ -245,8 +245,7 @@ Using the prefilled syringe
 - It is important that you do not try to give the injection unless you or your caregiver has received training from your healthcare provider.
 - Make sure the name Neulasta appears on the carton and prefilled syringe label.
 - Check the carton and prefilled syringe label to make sure the dose strength is 6 mg.
-- You should not inject a dose of Neulasta to children weighing less than 45 kg from a Neulasta prefilled syringe.
-  A dose less than 0.6 mL (6 mg) cannot be accurately measured using the Neulasta prefilled syringe.
+- You should not inject a dose of Neulasta to children weighing less than 99 pounds (45 kg) from a Neulasta prefilled syringe.
 - Do not use a prefilled syringe after the expiration date on the label.
 - Do not shake the prefilled syringe.
 - Do not remove the gray needle cap from the prefilled syringe until you are ready to inject.
@@ -267,10 +266,11 @@ Step 1: Prepare
 
 A Remove the prefilled syringe carton from the refrigerator.
 
-Put the original carton with any unused prefilled syringes back in the refrigerator.
+Check the expiration date.
+Important: Do not use if the expiration date has passed.
 
 Remove the syringe tray from the carton.
-On a clean, well-lit surface, place the syringe tray at room temperature for 30 minutes before you give an injection.
+On a clean, well-lit surface, place the syringe tray at room temperature, 68°F to 77°F (20°C to 25°C), for 30 minutes before you give an injection.
 
 - Do not use the prefilled syringe if the carton is damaged.
 - Do not try to warm the prefilled syringe by using a heat source such as hot water or microwave.
@@ -288,6 +288,7 @@ For safety reasons:
 B Inspect the medicine and prefilled syringe.
 
 Make sure the medicine in the prefilled syringe is clear and colorless.
+It is normal to see air bubbles in the syringe.
 
 - Do not use the prefilled syringe if:
   - The medicine is cloudy or discolored or contains flakes or particles.
@@ -312,7 +313,7 @@ On a clean, well-lit work surface, place the:
 
 Step 2: Get ready
 
-D Prepare and clean the injection site(s).
+D Prepare and clean the injection site.
 
 You can use:
 
@@ -399,7 +400,7 @@ Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S. Lice
 Patent: http://pat.amgen.com/onpro/
 
 © 2002-2025 Amgen Inc. All rights reserved.
-1xxxxxx Revised: 01/2025 v3
+1xxxxxx Revised: 08/2025 v4
 
 # Patient INSTRUCTIONS FOR USE Neulasta® Onpro® (nu-las-tah) (pegfilgrastim) injection Single-Use On-body Injector
 
@@ -443,7 +444,7 @@ Contents
 |  | On-body Injector for Neulasta Description |
 | INFO | The on-body injector for Neulasta is intended for delivery of Neulasta. This on-body injector delivers Neulasta with an injection under-the-skin (subcutaneous). See the Patient Information that comes with your on-body injector for important information.Your healthcare provider will use a prefilled syringe with Neulasta to fill the on-body injector prior to applying it. The prefilled syringe with Neulasta and the on-body injector are provided to your healthcare provider as part of Neulasta Onpro kit. The on-body injector is applied directly to your skin using a self-adhesive backing. The on-body injector lets you know its status with sounds and lights. |
 |  | Warnings You should only receive a dose of Neulasta on the day your healthcare provider tells you.You should not receive your dose of Neulasta any sooner than 24 hours after you finish receiving your chemotherapy. The on-body injector for Neulasta is programmed to deliver your dose about 27 hours after your healthcare provider places the on-body injector on your skin.If you have concerns about your medicine, call your healthcare provider right away. Serious allergic reactions can happen with Neulasta. Ask your caregiver to be nearby for the first use. Plan to be in a place where you or your caregiver can closely monitor the on-body injector for Neulasta for about 45-minutes during Neulasta delivery and for an hour after the delivery.Do not take Neulasta if you have had a serious allergic reaction to pegfilgrastim (Neulasta) or to filgrastim (Neupogen). |
-|  | Tell your healthcare provider if you are allergic to latex. A prefilled syringe is used to fill the on-body injector by your healthcare provider prior to applying the on-body injector. The prefilled syringe gray needle cap contains dry natural rubber, which is derived from latex. Latex may be transferred to your skin.Tell your healthcare provider if you have had severe skin reactions to acrylic adhesives.If you have an allergic reaction during the delivery of Neulasta, remove the on-body injector by grabbing the edge of the adhesive pad and peeling off the on-body injector. Get emergency medical help right away.Call your healthcare provider right away if you have severe pain or skin discomfort around your on-body injector. Call your healthcare provider right away if you have pain in your left upper stomach area or left shoulder area. This pain could mean your spleen is enlarged or ruptured.Call your healthcare provider or get emergency medical help right away if you get any of these symptoms of acute respiratory distress syndrome (ARDS): fever, shortness of breath, trouble breathing, or a fast rate of breathing. Call your healthcare provider right away if you experience any of these symptoms of kidney injury (glomerulonephritis): puffiness in your face or ankles, blood in your urine or brown colored urine or you notice you urinate less than usual.Call your healthcare provider if you have persistent or worsening redness or tenderness at the application site (may be a sign of infection).The on-body injector is for adult patients only. |
+|  | Tell your healthcare provider if you are allergic to latex. A prefilled syringe is used to fill the on-body injector by your healthcare provider prior to applying the on-body injector. The prefilled syringe gray needle cap contains dry natural rubber, which is derived from latex. Latex may be transferred to your skin.Tell your healthcare provider if you have had severe skin reactions to acrylic adhesives.If you have an allergic reaction during the delivery of Neulasta, remove the on-body injector by grabbing the edge of the adhesive pad and peeling off the on-body injector. Get emergency medical help right away.Call your healthcare provider right away if you have severe pain or skin discomfort around your on-body injector. Call your healthcare provider right away if you have pain in your left upper stomach area or left shoulder area. This pain could mean your spleen is enlarged or ruptured.Call your healthcare provider or get emergency medical help right away if you get any of these symptoms of acute respiratory distress syndrome (ARDS): fever, shortness of breath, trouble breathing, or a fast rate of breathing. Call your healthcare provider right away if you experience any of these symptoms of kidney injury: swelling of your face or ankles, blood in your urine or dark colored urine or you urinate less than usual.Call your healthcare provider if you have persistent or worsening redness or tenderness at the application site (may be a sign of infection).The on-body injector is for adults only. |
 |  | Important Information Wearing the On-body Injector This on-body injector delivers Neulasta with an under-the-skin (subcutaneous) injection.The on-body injector is small, for one-time use, lightweight, battery-powered, and waterproof up to 8 feet for 1 hour.The on-body injector can be worn in a shower. After showering, check the on-body injector to ensure it has not become loose (dislodged).Avoid getting body lotions, creams, oils or cleaning agents near the on-body injector as these products may loosen the adhesive. Before your next scheduled Neulasta dose, avoid use of lotions, creams, or oils on your arms and stomach area (abdomen). Only expose the on-body injector to temperatures between 41°F and 104°F (5°C and 40°C).Do not use bath tubs, hot tubs, whirlpools, or saunas while wearing the on-body injector. This may affect your medicine.Do not expose the on-body injector to direct sunlight. If the on-body injector is exposed to direct sunlight for more than 1 hour, it may affect your medicine. Wear the on-body injector under clothing.Do not sleep on the on-body injector or apply pressure during wear, especially during dose delivery. This may affect on-body injector performance.Do not peel off or disturb the on-body injector adhesive before your full dose is complete. This may result in a missed or incomplete dose of Neulasta. |
 
 |  | Environmental Precautions |  |
@@ -542,4 +543,4 @@ Patent: http://pat.amgen.com/onpro/
 
 http://www.neulasta.com
 
-1-844-MYNEULASTA (1-844-696-3852) Revised: 11/2020 V10
+1-844-MYNEULASTA (1-844-696-3852) Revised: 08/2025 V11
