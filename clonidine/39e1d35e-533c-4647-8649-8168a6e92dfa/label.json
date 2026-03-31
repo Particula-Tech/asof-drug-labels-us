@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "NDA018891"
+  ],
+  "inn": "clonidine",
+  "labeler": "Technomed Inc.",
+  "package_ndcs": [
+    "82089-201-34",
+    "82089-202-34",
+    "82089-203-34"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "clonidine transdermal system",
+      "name": "Catapres-TTS-1"
+    },
+    {
+      "form": "PATCH",
+      "generic": "clonidine transdermal system",
+      "name": "Catapres-TTS-2"
+    },
+    {
+      "form": "PATCH",
+      "generic": "clonidine transdermal system",
+      "name": "Catapres-TTS-3"
+    }
+  ],
+  "setid": "39e1d35e-533c-4647-8649-8168a6e92dfa",
+  "source": "dailymed"
+}
