@@ -62,7 +62,7 @@ or
 
 PHARMACY BULK PACKAGE Not for Direct Infusion
 
-For Intra-arterial, Intravenous, Oral, Rectal, Intraarticular, or Body Cavity Use
+For Intra-arterial, Intravenous, Oral, Intraarticular, or Body Cavity Use
 
 NOT FOR INTRATHECAL USE
 
@@ -82,6 +82,6 @@ No preservative added.
 
 Distributed by GE Healthcare Inc., Marlborough, MA 01752 U.S.A. For inquiries call 1-800-654-0118
 
-Exp.: DD MMM YYYY Lot: 12345678
+Exp.: Lot:
 
-0000000 USA
+1211016 USA
