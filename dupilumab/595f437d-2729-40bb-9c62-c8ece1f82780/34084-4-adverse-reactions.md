@@ -409,3 +409,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Immune system disorders: angioedema
 - Musculoskeletal system disorders: psoriatic arthritis
 - Skin and subcutaneous tissue disorders: Facial skin reactions, including erythema, rash, scaling, edema, papules, pruritus, burning, and pain; new-onset psoriasis, vasculitis
+- Ocular disorders: conjunctivitis, keratitis and blepharitis-related events, including ectropion, punctal stenosis/canalicular obstruction, symblepharon, and temporary or ongoing [see Warnings and Precautions (5.2)]
