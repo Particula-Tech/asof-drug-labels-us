@@ -41,16 +41,16 @@ The following events were observed during clinical studies with OMNITROPE for in
 Table 2.
 Incidence of Adverse Reactions Reported in ≥ 5% Pediatric Patients with GHD During Treatment with OMNITROPE for Injection (N=44)
 
-| Adverse Event | n (%) |  |  |
-| --- | --- | --- | --- |
-| Hypothyroidism | 7 (16%) |  |  |
-| Eosinophilia | 5 (11%) |  |  |
-| Elevated HbA1c | 4 (9%) |  |  |
-| Hematoma | 4 (9%) |  |  |
-| Headache | 3 (7%) |  |  |
-| Hypertriglyceridemia | 2 (5%) |  |  |
-| Leg Pain | 2 (5%) |  |  |
-| N=number of patients receiving treatment n=number of patients who reported the event during study period %= percentage of patients who reported the event during study period |  |  |  |
+| Adverse Event | n (%) |
+| --- | --- |
+| Hypothyroidism | 7 (16%) |
+| Eosinophilia | 5 (11%) |
+| Elevated HbA1c | 4 (9%) |
+| Hematoma | 4 (9%) |
+| Headache | 3 (7%) |
+| Hypertriglyceridemia | 2 (5%) |
+| Leg Pain | 2 (5%) |
+| N=number of patients receiving treatment n=number of patients who reported the event during study period %= percentage of patients who reported the event during study period |  |
 
 ### Clinical Trials in PWS
 

@@ -23,7 +23,7 @@ Note:
 
 Omnitrope Pen 5, Single-Patient-Use cartridge containing Omnitrope, needle, alcohol swab and storage case:
 
-Supplies you will need to give an Omnitrope Injection.
+Supplies you will need to give an Omnitrope injection.
 See Figure A.
 
 - •Omnitrope Pen 5
@@ -94,7 +94,7 @@ Attaching the needle to the Omnitrope Pen 5
   See Figure I.
 
 Note: Check that the cartridge holder is attached to the Pen body before each injection.
-One of the blue arrows on the cartridge should be lined up with the yellow mark on the Pen body.
+One of the blue arrows on the cartridge holder should be lined up with the yellow mark on the Pen body.
 After you attach the needle, you may see a few drops of medicine at the tip of the needle.
 
 Step 3.
@@ -229,7 +229,7 @@ Contact your Omnitrope Pen 5 provider after you have used the pen for 2 years to
 
 This guarantee is invalid if your Omnitrope Pen 5 has not been used in accordance with the manufacturer’s instruction leaflet or if the defect has been caused by neglect, misuse or accident.
 
-BD and BD Logo are trademarks of Becton, Dickinson and Company © 2019 BD.
+BD and the BD Logo are trademarks of Becton, Dickinson and Company © 2019 BD.
 All rights reserved.
 
 Manufactured by:
@@ -242,7 +242,7 @@ US License No. 2003
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-November 2024
+February 2026
 
 INSTRUCTIONS FOR USE
 
@@ -269,7 +269,7 @@ Note:
 
 Omnitrope Pen 10, Single-Patient-Use cartridge containing Omnitrope, needle, alcohol swab and storage case:
 
-Supplies you will need to give an Omnitrope Injection.
+Supplies you will need to give an Omnitrope injection.
 See Figure A.
 
 - •Omnitrope Pen 10
@@ -340,7 +340,7 @@ Attaching the needle to the Omnitrope Pen 10
   See Figure I.
 
 Note: Check that the cartridge holder is attached to the Pen body before each injection.
-One of the blue arrows on the cartridge should be lined up with the white mark on the Pen body.
+One of the blue arrows on the cartridge holder should be lined up with the white mark on the Pen body.
 After you attach the needle, you may see a few drops of medicine at the tip of the needle.
 
 Step 3.
@@ -475,7 +475,7 @@ Contact your Omnitrope Pen 10 provider after you have used the pen for 2 years t
 
 This guarantee is invalid if your Omnitrope Pen 10 has not been used in accordance with the manufacturer’s instruction leaflet or if the defect has been caused by neglect, misuse or accident.
 
-BD and BD Logo are trademarks of Becton, Dickinson and Company © 2019 BD.
+BD and the BD Logo are trademarks of Becton, Dickinson and Company © 2019 BD.
 All rights reserved.
 
 Manufactured by:
@@ -488,7 +488,7 @@ US License No. 2003
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-November 2024
+February 2026
 
 INSTRUCTIONS FOR USE
 
