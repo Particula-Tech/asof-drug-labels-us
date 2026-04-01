@@ -20,7 +20,7 @@ Signs and symptoms of NMS include hyperpyrexia, muscle rigidity, altered mental 
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Patients should be advised to report to their health care provider at the earliest onset of any signs and symptoms that may be associated with Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.4)].
+Patients should be advised to report to their health care provider at the earliest onset of any signs and symptoms that may be associated with drug reaction with eosinophilia and systemic symptoms (DRESS) [see Warnings and Precautions (5.4)].
 
 Hyperglycemia and Diabetes Mellitus
 
@@ -97,4 +97,4 @@ Brands listed are the trademarks of their respective owners.
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-K 11/2025
+L 2/2026
