@@ -63,7 +63,7 @@ Monitor patients for the development of depression and concomitant suicidal tend
 
 A symptom complex that resembles neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in dopaminergic therapy.
 Avoid sudden discontinuation or rapid dose reduction in patients taking DUOPA.
-If DUOPA is discontinued, the dose should be tapered to reduce the risk of hyperpyrexia and confusion [see Dosage and Administration (2.4)].
+If DUOPA is discontinued, the dose should be tapered to reduce the risk of hyperpyrexia and confusion [see Dosage and Administration (2.5)].
 
 ## 5.8 Dyskinesia
 
@@ -71,7 +71,18 @@ DUOPA may cause or exacerbate dyskinesias.
 In the controlled clinical trial, dyskinesia occurred in 14% of DUOPA-treated patients compared to 12% of patients treated with oral immediate-release carbidopa-levodopa.
 The occurrence of dyskinesias may require a dosage reduction of DUOPA or other medications used to treat Parkinson’s disease.
 
-## 5.9 Neuropathy
+## 5.9 Vitamin B6 Deficiency and Seizures
+
+Treatment with carbidopa-levodopa, including DUOPA, may contribute to reduced vitamin B6 levels.
+Higher doses of carbidopa/levodopa may increase the risk of Vitamin B6 deficiency.
+Seizures associated with vitamin B6 deficiency have been reported in the postmarketing setting in patients taking DUOPA.
+In these reported cases, seizures were refractory to traditional anti-seizure medications and only resolved after vitamin B6 administration.
+Other symptoms of vitamin B6 deficiency may occur, including depression, confusion, cheilosis, glossitis, dermatitis, anemia, and/or neuropathy [see Warnings and Precautions (5.10)].
+
+Evaluate vitamin B6 levels prior to initiation of DUOPA and periodically while on treatment or if symptoms associated with vitamin B6 deficiency are identified.
+Supplement with vitamin B6 as necessary.
+
+## 5.10 Neuropathy
 
 In clinical studies, 19 of 412 (5%) patients treated with DUOPA developed a generalized polyneuropathy.
 The onset of neuropathy could be determined in 13 of 19 patients.
@@ -83,12 +94,12 @@ There was insufficient information to determine the potential role of vitamin de
 Patients should have clinical assessments for the signs and symptoms of peripheral neuropathy before starting DUOPA.
 Monitor patients periodically for signs of neuropathy after starting DUOPA, especially in patients with pre-existing neuropathy and in patients taking medications or those who have medical conditions that are also associated with neuropathy.
 
-## 5.10 Cardiovascular Ischemic Events
+## 5.11 Cardiovascular Ischemic Events
 
 In clinical studies, myocardial infarction and arrhythmia were reported in patients taking carbidopa-levodopa.
 Ask patients about symptoms of ischemic heart disease and arrhythmia, especially those with a history of myocardial infarction or cardiac arrhythmias.
 
-## 5.11 Laboratory Test Abnormalities
+## 5.12 Laboratory Test Abnormalities
 
 DUOPA may increase the risk for elevated (above the upper limit of normal for the reference range) blood urea nitrogen (BUN) and creatine phosphokinase (CPK).
 In the controlled clinical trial, the shift from a low or normal value at baseline to an increased BUN value was greater for DUOPA-treated patients (13%) than for patients treated with oral immediate-release carbidopa-levodopa (4%).
@@ -98,7 +109,7 @@ The incidence of patients with an increased CPK (>3 times the upper limit of nor
 
 Patients taking levodopa or carbidopa-levodopa may have increased levels of catecholamines and their metabolites in plasma and urine giving false positive results suggesting the diagnosis of pheochromocytoma in patients on levodopa and carbidopa-levodopa.
 
-## 5.12 Glaucoma
+## 5.13 Glaucoma
 
 Carbidopa-levodopa may cause increased intraocular pressure in patients with glaucoma.
 Monitor intraocular pressure in patients with glaucoma after starting DUOPA.

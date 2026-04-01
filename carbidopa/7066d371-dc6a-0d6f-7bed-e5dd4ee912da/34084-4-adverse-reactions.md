@@ -10,10 +10,11 @@ The following serious adverse reactions are discussed below and elsewhere in lab
 - Depression and Suicidality [see Warnings and Precautions (5.6)]
 - Withdrawal-Emergent Hyperpyrexia and Confusion [see Warnings and Precautions (5.7)]
 - Dyskinesia [see Warnings and Precautions (5.8)]
-- Neuropathy [see Warnings and Precautions (5.9)]
-- Cardiovascular Ischemic Events [see Warnings and Precautions (5.10)]
-- Laboratory Test Abnormalities [see Warnings and Precautions (5.11)]
-- Glaucoma [see Warnings and Precautions (5.12)]
+- Vitamin B6 Deficiency and Seizures [see Warnings and Precautions (5.9)]
+- Neuropathy [see Warnings and Precautions (5.10)]
+- Cardiovascular Ischemic Events [see Warnings and Precautions (5.11)]
+- Laboratory Test Abnormalities [see Warnings and Precautions (5.12)]
+- Glaucoma [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 

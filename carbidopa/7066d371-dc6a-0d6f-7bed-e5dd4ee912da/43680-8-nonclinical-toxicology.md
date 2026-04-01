@@ -17,4 +17,4 @@ In published studies, hydrazine was reported to be positive in in vitro genotoxi
 
 Impairment of Fertility
 
-In reproduction studies, no effects on fertility were observed in rats receiving carbidopa-levodopa.
+In reproduction studies, no effects on fertility were observed in rats receiving carbidopa -levodopa.

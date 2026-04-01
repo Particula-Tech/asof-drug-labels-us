@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 
 Administration Information
 
-Ask patients if they have had any previous surgery in the upper part of their abdomen that may lead to difficulty in performing the gastrostomy or jejunostomy [see Dosage and Administration (2.3)].
+Ask patients if they have had any previous surgery in the upper part of their abdomen that may lead to difficulty in performing the gastrostomy or jejunostomy [see Dosage and Administration (2.4)].
 
 Advise patients that foods that are high in protein may reduce the effectiveness of DUOPA [see Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
 
@@ -15,7 +15,7 @@ Instruct the patient to stop the continuous rate, turn off the pump, clamp the c
 The DUOPA cassette can remain attached to the pump until the tubing is reconnected.
 Refer the patient to the Patient Instructions for Use for additional information (i.e., changing the DUOPA Cassette: disconnecting Steps 1-5 and reconnecting Steps 10-16).
 
-Advise the patient to contact their healthcare provider and to take oral carbidopa-levodopa until the patient is able to resume DUOPA infusion, if the patient will have prolonged interruption of therapy lasting more than 2 hours [see Dosage and Administration (2.4)].
+Advise the patient to contact their healthcare provider and to take oral carbidopa-levodopa until the patient is able to resume DUOPA infusion, if the patient will have prolonged interruption of therapy lasting more than 2 hours [see Dosage and Administration (2.5)].
 
 Gastrointestinal and Gastrointestinal Procedure-Related Risks
 
@@ -59,9 +59,14 @@ Dyskinesia
 
 Inform patients that DUOPA may cause or exacerbate pre-existing dyskinesias [see Warnings and Precautions (5.8)].
 
+Vitamin B6 Deficiency and Seizures
+
+Inform patients that vitamin B6 deficiency may develop during treatment with carbidopa/levodopa therapies, including DUOPA.
+Tell patients to inform their healthcare provider if they develop symptoms such as depression, confusion, cheilosis, glossitis, dermatitis, anemia, neuropathy, and/or seizures [see Warnings and Precautions (5.9)].
+
 Neuropathy
 
-Inform patients that neuropathy may develop or they may experience worsening neuropathy on DUOPA, and to contact their healthcare provider if they develop any symptoms or features suggesting neuropathy [see Warnings and Precautions (5.9)].
+Inform patients that neuropathy may develop or they may experience worsening neuropathy on DUOPA, and to contact their healthcare provider if they develop any symptoms or features suggesting neuropathy [see Warnings and Precautions (5.10)].
 
 Pregnancy
 
@@ -73,7 +78,7 @@ Advise patients to notify their healthcare provider if they are breastfeeding or
 
 Manufactured by AbbVie Inc., North Chicago, IL 60064, USA or by HP Halden Pharma AS, Svinesundsveien 80, NO-1788 Halden, Norway For AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2025 AbbVie.
+© 2026 AbbVie.
 All rights reserved.
 DUOPA and its design are trademarks of AbbVie AB.
-20087899R2 Revised: 5/2025
+20098480 Revised: 3/2026

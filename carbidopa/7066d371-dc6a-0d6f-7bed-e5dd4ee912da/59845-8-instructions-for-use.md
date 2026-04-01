@@ -157,7 +157,7 @@ For instructions on changing a DUOPA cassette, see Changing the Cassette.
 | 1) Turn the pump on: Press and hold until the display turns on. Wait approximately 30 seconds for pump to review settings. Check for on the display. PUMP STATUS: The pump is now on but not yet delivering DUOPA. |  |  |
 | 2) Inspect the tubing for kinks or closed clamps. If needed, straighten kinks or open clamps (see Figure OO). |  |  |
 | 3) Start the pump: Press and hold until 3 dashes appear and then disappear from the display. Wait approximately 15 seconds for pump to start running. Check for on the display. PUMP STATUS: The pump is now running. |  |  |
-| 4) Change the Morning Dose: a. Press time. b. Check for on the display. c. Press or to select the desired Morning Dose. d. Press to store the Morning Dose. e. Make sure you see the correct Morning Dose on the display. If not, repeat Steps 4c to 4e. |  |  |
+| 4) Change the Morning Dose: a. Press 1 time. b. Check for on the display. c. Press or to select the desired Morning Dose. d. Press to store the Morning Dose. e. Make sure you see the correct Morning Dose on the display. If not, repeat Steps 4c to 4e. |  |  |
 | 5) Deliver the Morning Dose: Press 1 time. NOTE: If you see “Value not saved” on the display, press NEXT and then repeat Steps 4c to 4e. The display shows a countdown of your Morning Dose. PUMP STATUS: After the Morning Dose finishes, the pump will begin delivering the Continuous Rate. RUN will appear on the display. NOTE: If you are unable to deliver a Morning Dose, it may be too soon since the last Morning Dose to deliver another and you may need to wait longer. The time between Morning Doses is decided by your healthcare provider. |  |  |
 
 | Change the Continuous Rate |  |  |
@@ -1886,7 +1886,7 @@ Pump Status: The extra dose amount is now set.
 8.
 Press
 
-check for
+heck for
 
 on the screen
 

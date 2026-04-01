@@ -1,6 +1,12 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 DUOPA Daily Dose
+## 2.1 Management of Vitamin B6 Levels
+
+Evaluate vitamin B6 levels prior to initiating carbidopa/levodopa therapies including DUOPA, periodically during treatment, and as clinically indicated [see Warnings and Precautions (5.9)].
+If vitamin B6 levels are low, supplement to sufficient levels per standard of care.
+Patients may initiate and continue treatment with DUOPA while supplementing vitamin B6.
+
+## 2.2 DUOPA Daily Dose
 
 DUOPA is administered over a 16-hour infusion period.
 The daily dose is determined by individualized patient titration and composed of:
@@ -12,7 +18,7 @@ The daily dose is determined by individualized patient titration and composed of
 The maximum recommended daily dose of DUOPA is 2000 mg of the levodopa component (i.e., one cassette per day) administered over 16 hours.
 At the end of the daily 16-hour infusion, patients will disconnect the pump from the PEG-J and take their night-time dose of oral immediate-release carbidopa-levodopa tablets.
 
-Treatment with DUOPA is initiated in 3 steps [see Dosage and Administration (2.2)]:
+Treatment with DUOPA is initiated in 3 steps [see Dosage and Administration (2.3)]:
 
 1. Conversion of patients to oral immediate-release carbidopa-levodopa tablets in preparation for DUOPA treatment.
 2. Calculation and administration of the DUOPA starting dose (Morning Dose and Continuous Dose) for Day 1.
@@ -29,7 +35,7 @@ Administration of frequent extra doses may cause or worsen dyskinesias.
 Once no further adjustments are required to the DUOPA Morning Dose, Continuous Dose, or Extra Dose, this dosing regimen should be administered daily.
 Over time, additional changes may be necessary based on the patient’s clinical response and tolerability.
 
-## 2.2 Initiation and Titration Instructions
+## 2.3 Initiation and Titration Instructions
 
 Prepare for DUOPA Treatment
 
@@ -82,7 +88,7 @@ Consider decreasing the Continuous Dose if the patient experienced troublesome d
 - For troublesome adverse reactions lasting for a period of one hour or more, decrease the Continuous Dose by 0.3 mL per hour.
 - For troublesome adverse reactions lasting for two or more periods of one hour or more, decrease the Continuous Dose by 0.6 mL per hour.
 
-## 2.3 Administration Information
+## 2.4 Administration Information
 
 - DUOPA should be used at room temperature.
   Take one DUOPA cassette out of the refrigerator and out of the carton 20 minutes prior to use; failure to use the product at room temperature may result in the patient not receiving the right amount of medication.
@@ -117,7 +123,7 @@ Recommended Tubing Sets for Short-Term Naso-Jejunal DUOPA Administration
 | Kangaroo™ Naso-Jejunal Feeding Tube | Covidien |
 | Kangaroo™ | Covidien |
 
-## 2.4 Discontinuation of DUOPA
+## 2.5 Discontinuation of DUOPA
 
 Avoid sudden discontinuation or rapid dose reduction in patients taking DUOPA.
 

@@ -53,6 +53,7 @@ Before you use DUOPA, tell your healthcare provider if you:
 - drink alcohol.
   Alcohol can increase the chance that DUOPA will make you feel sleepy or fall asleep when you should be awake
 - have trouble controlling your muscles (dyskinesia)
+- have low vitamin B6 levels
 - have nerve problems (peripheral neuropathy)
 - have or have had heart problems, an abnormal heart rate or have had a heart attack in the past
 - have or have had high blood pressure (hypertension)
@@ -138,6 +139,11 @@ DUOPA may cause serious side effects, including:
 - Uncontrolled sudden movements (dyskinesia).
   If you have new dyskinesia, or your dyskinesia gets worse, tell your healthcare provider.
   This may be a sign that your dose of DUOPA or other medicines to control your Parkinson’s disease may need to be adjusted.
+- Vitamin B6 deficiency and seizures.
+  Tell your healthcare provider if you experience seizures.
+  Carbidopa/levodopa therapies, including DUOPA, may decrease vitamin B6 levels.
+  Severe vitamin B6 deficiency can lead to seizures.
+  Other symptoms of vitamin B6 deficiency include depression, confusion, cracked or swollen lips or tongue, rash, low red blood cell count, and/or numbness, tingling or weakness in the extremities.
 - Progressive weakness or numbness or loss of sensation in the fingers or feet (neuropathy).
 - Heart attack or other heart problems.
   Tell your healthcare provider if you have experienced increased blood pressure, a fast or irregular heartbeat or chest pain.
@@ -189,11 +195,14 @@ Active ingredients: carbidopa and levodopa
 
 Inactive ingredients: carmellose sodium and purified water
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
 Manufactured by AbbVie Inc., North Chicago, IL 60064, USA or by HP Halden Pharma AS, Svinesundsveien 80, NO-1788 Halden, Norway For AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2025 AbbVie.
+© 2026 AbbVie.
 All rights reserved.
 DUOPA and its design are trademarks of AbbVie AB.
-20087899R2 Revised: 5/2025
+
+20098480
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Revised: 3/2026
