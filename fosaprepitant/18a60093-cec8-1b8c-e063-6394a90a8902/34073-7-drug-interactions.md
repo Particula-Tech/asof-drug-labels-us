@@ -42,7 +42,7 @@ Table 7 Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Dru
 | Intervention | In patients on chronic warfarin therapy, monitor the prothrombin time (INR) in the 2-week period, particularly at 7 to 10 days, following administration of FOCINVEZ with each chemotherapy cycle. |
 | Other |  |
 | 5-HT 3 Antagonists |  |
-| Clinical Impact | No change in the exposure of the 5-HT 3antagonist [see Clinical Pharmacology (12.3)]. |
+| Clinical Impact | No change in the exposure of the 5-HT 3 antagonist [see Clinical Pharmacology (12.3)]. |
 | Intervention | No dosage adjustment needed |
 | Examples | ondansetron, granisetron, dolasetron |
 
@@ -55,7 +55,7 @@ Table 8 Effects of Other Drugs on Pharmacokinetics of Fosaprepitant / Aprepitant
 
 | Moderate to Strong CYP3A4 Inhibitors |  |
 | --- | --- |
-| Clinical Impact | Significantly increased exposure of aprepitant may increase the risk of adverse reactions associated with FOCINVEZ [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)]. |
+| Clinical Impact | Significantly increased exposure of aprepitant may increase the risk of adverse reactions associated with FOCINVEZ [seeAdverse Reactions (6.1) and Clinical Pharmacology (12.3)]. |
 | Intervention | Avoid concomitant use of FOCINVEZ |
 | Examples | Moderate inhibitor: diltiazem Strong inhibitors: ketoconazole, itraconazole, nefazodone, troleandomycin, clarithromycin, ritonavir, nelfinavir |
 | Strong CYP3A4 Inducers |  |

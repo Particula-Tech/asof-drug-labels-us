@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-FOCINVEZ (fosaprepitant injection) is a sterile, ready-to-use, clear and colorless solution formulation containing fosaprepitant dimeglumine, a prodrug of aprepitant, a substance P/neurokinin-1 (NK 1) receptor antagonist, an antiemetic agent, chemically described as 1-Deoxy-1-(methylamino)-D-glucitol[3-[[(2R,3S)-2-[(1R)-1-[3,5bis(trifluoromethyl)phenyl]ethoxy]-3-(4-fluorophenyl)-4-morpholinyl]methyl]-2,5-dihydro-5-oxo-1 H-1,2,4triazol-1-yl]phosphonate (2:1) (salt).
+FOCINVEZ (fosaprepitant injection) is a sterile, ready-to-use, clear and colorless solution formulation containing fosaprepitant dimeglumine, a prodrug of aprepitant, a substance P/neurokinin-1 (NK 1) receptor antagonist, an antiemetic agent, chemically described as 1-Deoxy-1-(methylamino)-D-glucitol[3-[[(2 R,3S)-2-[(1 R)-1-[3,5bis(trifluoromethyl)phenyl]ethoxy]-3-(4-fluorophenyl)-4-morpholinyl]methyl]-2,5-dihydro-5-oxo-1 H-1,2,4triazol-1-yl]phosphonate (2:1) (salt).
 
 Its empirical formula is C 23H 22F 7N 4O 6P ⋅ 2(C 7H 17NO 5) and its structural formula is:
 

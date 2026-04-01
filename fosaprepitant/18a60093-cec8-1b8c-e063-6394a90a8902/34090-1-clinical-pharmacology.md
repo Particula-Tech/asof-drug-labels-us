@@ -7,7 +7,7 @@ Fosaprepitant is a prodrug of aprepitant and accordingly, its antiemetic effects
 Aprepitant is a selective high-affinity antagonist of human substance P/neurokinin 1 (NK 1) receptors.
 Aprepitant has little or no affinity for serotonin (5-HT 3), dopamine, and corticosteroid receptors, the targets of existing therapies for chemotherapy-induced nausea and vomiting (CINV).
 Aprepitant has been shown in animal models to inhibit emesis induced by cytotoxic chemotherapeutic agents, such as cisplatin, via central actions.
-Animal and human Positron Emission Tomography (PET) studies with aprepitant have shown that it crosses the blood brain barrier and occupies brain NK 1receptors.
+Animal and human Positron Emission Tomography (PET) studies with aprepitant have shown that it crosses the blood brain barrier and occupies brain NK 1 receptors.
 Animal and human studies have shown that aprepitant augments the antiemetic activity of the 5-HT 3-receptor antagonist ondansetron and the corticosteroid dexamethasone and inhibits both the acute and delayed phases of cisplatin-induced emesis.
 
 ## 12.2 Pharmacodynamics
@@ -62,7 +62,7 @@ Table 9 Systemic Exposures of Aprepitant for Single-Dose Intravenous Fosaprepita
 | 2 Years to less than 6 Years | 28.2 | 3.1 | 0.4 | 0.1 | 0.02 |  |
 | 6 Months to less than 2 Years | 5 mg/kg | 32.7 | 3.3 | 0.4 | NE b | ND a |
 
-aND = Not Determined.
+a ND = Not Determined.
 Pharmacokinetic samples were not collected to support the parameter value of interest. b NE = Not Estimated.
 The geometric mean could not be estimated due to values being below the limitation of quantification.
 

@@ -5,7 +5,7 @@ Below is a description of the results of these adequate and well-controlled stud
 
 ## 14.1 Prevention of Nausea and Vomiting Associated with HEC in Adults
 
-In a randomized, parallel, double-blind, active-controlled study, fosaprepitant 150 mg as a single intravenous infusion (N=1147) was compared to a 3-day oral aprepitant regimen (N=1175) in patients receiving a HEC regimen that included cisplatin (70 mg/m 2).
+In a randomized, parallel, double-blind, active-controlled study, fosaprepitant 150 mg as a single intravenous infusion (N=1147) was compared to a 3-day oral aprepitant regimen (N=1175) in patients receiving a HEC regimen that included cisplatin (≥70 mg/m 2).
 All patients in both groups received dexamethasone and ondansetron (see Table 11).
 Patient demographics were similar between the two treatment groups.
 Of the total 2322 patients, 63% were men, 56% White, 26% Asian, 3% American Indian/Alaska Native, 2% Black, 13% Multi-Racial, and 33% Hispanic/Latino ethnicity.
@@ -52,7 +52,7 @@ Percent of Adult Patients Receiving HEC Responding by Treatment Group and Phase 
 | No Vomiting |  |  |  |
 | Overall d | 72.9 | 74.6 | -1.7 (-5.3, 2.0) |
 
-a N: Number of patients included in the primary analysis of complete response. bDifference and Confidence interval (CI) were calculated using the method proposed by Miettinen and Nurminen and adjusted for Gender. c Complete Response = no vomiting and no use of rescue therapy. d Overall = 0 to 120 hours post-initiation of cisplatin chemotherapy. e Delayed phase = 25 to 120 hours post-initiation of cisplatin chemotherapy.
+a N: Number of patients included in the primary analysis of complete response. b Difference and Confidence interval (CI) were calculated using the method proposed by Miettinen and Nurminen and adjusted for Gender. c Complete Response = no vomiting and no use of rescue therapy. d Overall = 0 to 120 hours post-initiation of cisplatin chemotherapy. e Delayed phase = 25 to 120 hours post-initiation of cisplatin chemotherapy.
 
 ## 14.2 Prevention of Nausea and Vomiting Associated with MEC in Adults
 
@@ -74,8 +74,8 @@ Table 13 Treatment Regimens in Adult MEC Trial a
 | Oral Dexamethasone | 20 mg | none | none |
 | Oral Ondansetron c | 8 mg for 2 doses | 8 mg twice daily | 8 mg twice daily |
 
-aIntravenous fosaprepitant placebo and dexamethasone placebo (on Day 1) were used to maintain blinding. bDexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1.
-The 12 mg dose reflects a dosage adjustment to account for a drug interaction with the Intravenous fosaprepitant regimen [see Clinical Pharmacology (12.3)]. cThe first ondansetron dose was administered 30 to 60 minutes prior to chemotherapy treatment on Day 1 and the second dose was administered 8 hours after first ondansetron dose.
+a Intravenous fosaprepitant placebo and dexamethasone placebo (on Day 1) were used to maintain blinding. b Dexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1.
+The 12 mg dose reflects a dosage adjustment to account for a drug interaction with the Intravenous fosaprepitant regimen [see Clinical Pharmacology (12.3)]. c The first ondansetron dose was administered 30 to 60 minutes prior to chemotherapy treatment on Day 1 and the second dose was administered 8 hours after first ondansetron dose.
 
 The primary endpoint was complete response (defined as no vomiting and no rescue therapy) in the delayed phase (25 to 120 hours) of chemotherapy-induced nausea and vomiting.
 The results by treatment group are shown in Table 14.
@@ -88,4 +88,4 @@ Table 14 Percent of Adult Patients Receiving MEC Responding by Treatment Group
 | Complete Response b |  |  |  |  |
 | Delayed phase c | 78.9 | 68.5 | <0.001 | 10.4 (5.1, 15.9) |
 
-aN: Number of patients included in the intention to treat population. bComplete Response = no vomiting and no use of rescue therapy. cDelayed phase = 25 to 120 hours post-initiation of chemotherapy.
+a N: Number of patients included in the intention to treat population. b Complete Response = no vomiting and no use of rescue therapy. c Delayed phase = 25 to 120 hours post-initiation of chemotherapy.
