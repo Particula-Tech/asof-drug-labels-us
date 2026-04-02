@@ -7,5 +7,4 @@ Each labeled vial is sealed in a polycarbonate blister with a backing material w
 
 Storage
 
-Store at 4°C to 25°C (39°F to 77°F); Do Not Freeze.
-Protect from light by storing in carton.
+Store at 4°C to 25°C (39°F to 77°F); Do Not Freeze.Protect from light by storing in carton.
