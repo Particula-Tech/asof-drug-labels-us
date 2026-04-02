@@ -138,6 +138,28 @@ Contains: 4 Wegovy pens, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – WEGOVY HD – 7.2 mg Injection
+
+NDC 0169-4572-14 List 457214
+
+wegovy® 7.2 mg HD
+
+(semaglutide) injection
+
+7.2 mg/0.75 mL
+
+Use Wegovy 1 time a week
+
+Each pen delivers a single-dose of 7.2 mg semaglutide
+
+For subcutaneous use only
+
+Rx only
+
+Dispense the enclosed Medication Guide to each patient.
+
+Contains: 4 Single-Dose Prefilled Pens
+
 # Package/Label Display Panel – 1.5 mg Tablets
 
 1. NDC 0169-4415-31 LIST 441531

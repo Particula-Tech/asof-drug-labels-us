@@ -11,7 +11,7 @@ WEGOVY Injection
 - •Prior to initiation of WEGOVY injection, train patients on proper injection technique.
   Refer to the accompanying Instructions for Use for complete administration instructions with illustrations.
 - •Visually inspect the WEGOVY injection prior to each administration.
-  Only use if solution is clear, colorless, and contains no particles.
+  Only use if the solution is clear, colorless, and contains no particles.
 - •Administer WEGOVY injection once weekly, on the same day each week, at any time of day, with or without meals.
 - •Inject WEGOVY subcutaneously in the abdomen, thigh, or upper arm.
   The time of day and the injection site can be changed without the need for a dosage modification.
@@ -20,7 +20,6 @@ WEGOVY Tablets
 
 - •Take one WEGOVY tablet orally once daily on an empty stomach in the morning with water (up to 4 ounces).
   Do not take WEGOVY tablets with other liquids besides water [see Clinical Pharmacology (12.3)].
-- •Do not take more than one tablet per day.
 - •Swallow tablets whole.
   Do not split, crush, chew or dissolve in any solution.
 - •After taking a WEGOVY tablet, wait at least 30 minutes before eating food, drinking beverages or taking other oral medications [see Clinical Pharmacology (12.3)].
@@ -44,24 +43,29 @@ Recommended Starting Dosage and Dosage Escalation of WEGOVY Injection for All Ap
 | 13 through 16 | 1.7 mg |  |
 | Maintenance Dosage | 17 and onward | See the indication below for the recommended maintenance dosage(s) |
 
-Recommended Maintenance Dosage of WEGOVY Injection for Approved Indications
+Recommended Maintenance Dosage of WEGOVY Injection for All Approved Indications
 
 Cardiovascular Risk Reduction in Adults
 
 - •The maintenance dosage of WEGOVY injection for cardiovascular risk reduction in adults is either 2.4 mg (recommended) or 1.7 mg once weekly.
 - •Consider treatment response and tolerability when selecting the maintenance dosage [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 
-Weight Reduction in Adults and Pediatric Patients Aged 12 Years and Older
+Weight Reduction in Adults
 
-The maintenance dosage of WEGOVY injection for weight reduction in adults and pediatric patients aged 12 years and older is either 2.4 mg (recommended) or 1.7 mg once weekly.
+- •The maintenance dosage of WEGOVY for weight reduction in adults is either 1.7 mg or 2.4 mg (recommended) injected subcutaneously once weekly.
+- •For patients who tolerate the 2.4 mg dosage for at least 4 weeks and additional weight reduction is clinically indicated, the dosage may be increased to a maximum dosage of 7.2 mg subcutaneously once weekly.
+- •Consider treatment response and tolerability when selecting the maintenance dosage [see Adverse Reactions (6.1),Clinical Studies (14.2)].
 
-Consider treatment response and tolerability when selecting the maintenance dosage [see Adverse Reactions (6.1), Clinical Studies (14.2, 14.3)].
+Weight Reduction in Pediatric Patients Aged 12 Years and Older
+
+- •The maintenance dosage of WEGOVY injection for weight reduction in pediatric patients aged 12 years and older is either 2.4 mg (recommended), 1.7 mg once weekly.
+- •Consider treatment response and tolerability when selecting the maintenance dosage [see Adverse Reactions (6.1),Clinical Studies (14.3)].
 
 Noncirrhotic MASH with Moderate to Advanced Liver Fibrosis in Adults
 
-The recommended maintenance dosage of WEGOVY injection for the treatment of noncirrhotic MASH with moderate to advanced liver fibrosis in adults is 2.4 mg injected subcutaneously once weekly.
-If patients do not tolerate the maintenance dosage of 2.4 mg once weekly, the dosage can be decreased to 1.7 mg once weekly.
-Consider reescalation to 2.4 mg once weekly [see Adverse Reactions (6.1), Clinical Studies (14.4)].
+- •The recommended maintenance dosage of WEGOVY injection for the treatment of noncirrhotic MASH with moderate to advanced liver fibrosis in adults is 2.4 mg injected subcutaneously once weekly.
+  If patients do not tolerate the maintenance dosage of 2.4 mg once weekly, the dosage can be decreased to 1.7 mg once weekly.
+  Consider reescalation to 2.4 mg once weekly [see Adverse Reactions (6.1), Clinical Studies (14.4)].
 
 ## 2.3 Recommended Dosage of WEGOVY Tablets
 
@@ -72,7 +76,6 @@ Recommended Dosage of WEGOVY Tablets for Cardiovascular Risk Reduction or Weight
 - •If patients do not tolerate a dose during dosage escalation, consider delaying dosage escalation.
 - •The recommended maintenance dosage of WEGOVY tablets is 25 mg orally once daily.
 - •If patients do not tolerate the 25 mg once daily maintenance dosage, consider switching to WEGOVY injection 1.7 mg once weekly [see Dosage and Administration (2.5)].
-- •Do not take more than one tablet per day.
 
 Table 2.
 Recommended Dosage of WEGOVY Tablets for Cardiovascular Risk Reduction or Weight Reduction in Adults
@@ -110,4 +113,4 @@ Switching from WEGOVY Tablets to WEGOVY Injection
 - •Patients may switch from WEGOVY 25 mg tablets to WEGOVY injection.
 - •The day after discontinuing WEGOVY tablets 25 mg once daily, initiate WEGOVY 2.4 mg subcutaneous injection once weekly.
   For patients who do not tolerate WEGOVY 25 mg tablets, consider switching to WEGOVY 1.7 mg injection.
-- •If additional weight reduction is needed in patients with type 2 diabetes mellitus treated with WEGOVY 25 mg tablets, consider switching to WEGOVY 1.7 mg injection and follow the recommended dosage escalation for WEGOVY injection [see Dosage and Administration (2.2), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+- •If additional weight reduction is needed in patients with type 2 diabetes mellitus treated with WEGOVY 25 mg tablets, consider switching to WEGOVY 1.7 mg injection and follow the recommended dosage escalation for WEGOVY injection [see Dosage and Administration (2.2), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].

@@ -49,7 +49,8 @@ Maximum concentration of semaglutide is reached 1 to 3 days post dose.
 Similar exposure was achieved with subcutaneous administration of semaglutide in the abdomen, thigh, or upper arm.
 
 The average semaglutide steady state concentration following subcutaneous administration of WEGOVY 2.4 mg once weekly was approximately 75 nmol/L in patients with obesity or overweight (BMI greater than or equal to 27 kg/m2).
-The steady state exposure concentrations increased proportionally with doses up to 2.4 mg once weekly.
+The average semaglutide steady state concentration following subcutaneous administration of WEGOVY 7.2 mg once weekly injection was approximately 230 nmol/L in patients with obesity (BMI greater than or equal to 30 kg/m2).
+The steady state exposure concentrations increased proportionally with doses up to 7.2 mg once weekly.
 
 WEGOVY Tablets
 
@@ -78,22 +79,20 @@ The mean volume of distribution of semaglutide following subcutaneous administra
 Elimination
 
 The apparent clearance of semaglutide in patients with overweight or obesity is approximately 0.05 L/h.
-With an elimination half-life of approximately 1 week, semaglutide will be present in the circulation for about 5 to 7 weeks after the last injectable dose of 2.4 mg or oral dose of 25 mg.
+With an elimination half-life of approximately 1 week, semaglutide will be present in the circulation for about 5 to 7 weeks after the last injectable dose of 2.4 mg or 7.2 mg or oral dose of 25 mg.
 
-Metabolism
+Metabolism:
 
 The primary route of elimination for semaglutide is metabolism following proteolytic cleavage of the peptide backbone and sequential beta-oxidation of the fatty acid sidechain.
 
-Excretion
+Excretion:
 
 The primary excretion routes of semaglutide-related material are via the urine and feces.
 Approximately 3% of the dose is excreted in the urine as intact semaglutide.
 
 Specific Populations
 
-Age, Sex, Race, Ethnicity, Body Weight, and Other Intrinsic Factors
-
-No clinically significant differences in semaglutide pharmacokinetics were observed based on age (<65 years, 65-74, ≥75 years old), sex, race (White, Asian, or Black or African American), ethnicity, body weight, upper GI disease (i.e. chronic gastritis and/or gastroesophageal reflux disease), renal impairment [estimated glomerular filtration rate (eGFR) ≥30 to <90 mL/minute], or mild, moderate, and severe hepatic impairment (Child-Pugh Class A-C) or fibrosis stage (F2 or F3 in patients with MASH).
+Age, Sex, Race, Ethnicity, Body Weight, and Other Intrinsic Factors: No clinically significant differences in semaglutide pharmacokinetics were observed based on age (<65 years, 65 to 74, ≥75 years old), sex, race (White, Asian, or Black or African American), ethnicity, body weight, upper GI disease (i.e. chronic gastritis and/or gastroesophageal reflux disease), renal impairment [estimated glomerular filtration rate (eGFR) ≥30 to <90 mL/minute], or mild, moderate, and severe hepatic impairment (Child-Pugh Class A-C) or fibrosis stage (F2 or F3 in patients with MASH).
 
 There is no difference observed in the exposure of semaglutide following subcutaneous administration of WEGOVY between patients with MASH and patients with overweight or obesity.
 
@@ -113,11 +112,10 @@ Oral Tablets
 Clinical Studies and Model-Informed Approaches: The delay of gastric emptying with semaglutide may influence the absorption of concomitantly administered oral drugs [see Drug Interactions (7.2)].
 Trials were conducted to study the potential effect of semaglutide on the absorption of oral drugs taken with semaglutide tablets administered orally at steady-state exposure.
 
-Levothyroxine: Total thyroxine (i.e., adjusted for endogenous levels) AUC of was increased by 33% following administration of a single dose of levothyroxine 600 mcg concomitantly administered with oral semaglutide.
-Maximum exposure (Cmax) was unchanged.
-
-Other Drugs: No clinically significant differences in semaglutide pharmacokinetics were observed when used concomitantly with omeprazole.
-No clinically significant differences in the pharmacokinetics of the following drugs were observed when used concomitantly with semaglutide: lisinopril, S-warfarin, R-warfarin, metformin, digoxin, ethinyl estradiol, levonorgestrel, furosemide or rosuvastatin.
+- •Levothyroxine: Total thyroxine (i.e., adjusted for endogenous levels) AUC of was increased by 33% following administration of a single dose of levothyroxine 600 mcg concomitantly administered with oral semaglutide.
+  Maximum exposure (Cmax) was unchanged.
+- •Other Drugs: No clinically significant differences in semaglutide pharmacokinetics were observed when used concomitantly with omeprazole.
+  No clinically significant differences in the pharmacokinetics of the following drugs were observed when used concomitantly with semaglutide: lisinopril, S-warfarin, R-warfarin, metformin, digoxin, ethinyl estradiol, levonorgestrel, furosemide or rosuvastatin.
 
 In Vitro Studies: Semaglutide has very low potential to inhibit or induce CYP enzymes, and to inhibit drug transporters.
 
@@ -126,8 +124,14 @@ In Vitro Studies: Semaglutide has very low potential to inhibit or induce CYP en
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of semaglutide or of other semaglutide products.
 
-During the 68-week treatment periods in Studies 2 and 3 in adults [see Clinical Studies (14.2)], 50/1709 (3%) of WEGOVY injection-treated patients developed anti-semaglutide antibodies (referred to as anti-drug-antibodies or ADA).
-Of these 50 WEGOVY injection-treated patients, 28 patients (2% of the total WEGOVY injection-treated study population) developed antibodies that cross-reacted with native GLP-1.
-In adults with MASH treated with WEGOVY for 72 weeks in Study 9 [see Clinical Studies (14.4)], 3/763 (0.4%) of patients developed ADA which were also cross-reactive to native GLP-1.
+During the 68-week treatment periods in Studies 2 and 3 in adults [see Clinical Studies (14.2)], 50/1709 (3%) of patients treated with WEGOVY 2.4 mg injection developed anti-semaglutide antibodies (referred to as anti-drug-antibodies or ADA).
+A total of 28 (56% of the 50 patients treated with WEGOVY 2.4 mg injection who tested ADA positive) patients developed antibodies that cross-reacted with native GLP-1 in Studies 2 and 3.
+
+Using a new assay, 202/1311 (15.4%) of patients treated with WEGOVY 7.2 mg injection and 34/304 (11.2%) of patients treated with WEGOVY 2.4 mg injection developed anti-semaglutide antibodies during 72-week treatment periods in Studies 8 and 9.
+A total of 36 (17.8% of 202 patients treated with WEGOVY 7.2 mg injection who tested ADA positive) and 3 (8.8% of 34 patients treated with WEGOVY 2.4 mg injection who tested ADA positive) patients developed antibodies that cross reacted with native GLP-1 in Studies 8 and 9.
+The clinical consequences of antibodies that cross react with native GLP-1 are unknown.
+
+In adults with MASH treated with WEGOVY injection for 72 weeks in Study 11 [see Clinical Studies (14.4)], 3/763 (0.4%) of patients developed ADA which were also cross-reactive to native GLP-1.
 No identified clinically significant effect of ADA on pharmacokinetics for WEGOVY injection was observed.
-There is insufficient evidence to characterize the effects of ADA on pharmacodynamics, safety, or effectiveness of semaglutide products.
+
+There is insufficient evidence to characterize the effects of ADA on pharmacodynamics, safety, or effectiveness of WEGOVY.

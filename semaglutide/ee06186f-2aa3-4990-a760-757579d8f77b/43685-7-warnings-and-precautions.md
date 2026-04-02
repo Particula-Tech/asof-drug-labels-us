@@ -38,7 +38,7 @@ If cholelithiasis is suspected, gallbladder studies and appropriate clinical fol
 
 WEGOVY lowers blood glucose and can cause hypoglycemia.
 
-In a trial of WEGOVY injection in adult patients with type 2 diabetes and body mass index (BMI) greater than or equal to 27 kg/m2 for weight reduction (Study 3), hypoglycemia (defined as a plasma glucose less than 54 mg/dL) was reported in more patients treated with WEGOVY versus placebo [see Adverse Reaction (6.1)].
+In a trial of WEGOVY injection in adult patients with type 2 diabetes and body mass index (BMI) greater than or equal to 27 kg/m2 for weight reduction (Study 3), hypoglycemia (defined as a plasma glucose less than 54 mg/dL) was reported in more patients treated with WEGOVY versus placebo [see Adverse Reactions (6.1)].
 One episode of severe hypoglycemia (requiring the assistance of another person) was reported in one WEGOVY treated patient versus no placebo-treated patients [see Clinical Studies (14.2)].
 
 In glycemic control clinical trials, the risk of hypoglycemia was increased when semaglutide injection or tablet was used concomitantly with insulin or an insulin secretagogue (e.g., sulfonylurea).
@@ -58,9 +58,9 @@ Monitor renal function in patients reporting adverse reactions to WEGOVY that co
 
 ## 5.6 Severe Gastrointestinal Adverse Reactions
 
-Use of WEGOVY has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6.1)].
+Use of WEGOVY has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6)].
 In clinical trials for adults for weight reduction, severe gastrointestinal adverse reactions were reported more frequently among patients receiving WEGOVY than placebo.
-Severe gastrointestinal adverse reactions were reported in 4.1% and 0.9% of WEGOVY-injection and placebo-treated patients, respectively, and in 2% of WEGOVY tablet-treated and 0% of placebo-treated patients, respectively.
+Severe gastrointestinal adverse reactions were reported in 4.1% and 0.9% of WEGOVY injection and placebo-treated patients, respectively, and in 2% of WEGOVY tablet-treated and 0% of placebo-treated patients, respectively.
 Severe gastrointestinal adverse reactions have also been reported postmarketing with GLP-1 receptor agonists.
 
 WEGOVY is not recommended in patients with severe gastroparesis.

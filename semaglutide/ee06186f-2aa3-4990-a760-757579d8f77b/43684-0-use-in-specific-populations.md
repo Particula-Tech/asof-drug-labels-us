@@ -4,7 +4,7 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to semaglutide during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to WEGOVY during pregnancy.
 Pregnant women exposed to WEGOVY and healthcare providers are encouraged to contact Novo Nordisk at 1-877-390-2760 or www.wegovypregnancyregistry.com.
 
 Risk Summary
@@ -13,14 +13,15 @@ Based on animal reproduction studies, there may be potential risks to the fetus 
 Available pharmacovigilance data and data from clinical trials with WEGOVY use in pregnant patients are insufficient to establish a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
 
 Weight loss offers no benefit to a pregnant patient and may cause fetal harm.
-When a pregnancy is recognized, advise the pregnant patient of the risk to a fetus, and discontinue WEGOVY (see Clinical Considerations).
+When a pregnancy is recognized, advise the pregnant patient of the risk to a fetus.
+Discontinue WEGOVY in pregnant patients who are using it for weight reduction (see Clinical Considerations).
 
 There may be risks to the mother and fetus related to underlying MASH with advanced liver fibrosis (see Clinical Considerations).
-Whether semaglutide treatment during pregnancy reduces these risks is unknown.
-WEGOVY for the treatment of MASH should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Whether WEGOVY treatment during pregnancy reduces these risks is unknown.
+WEGOVY for the treatment of MASH with advanced liver fibrosis should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-In pregnant rats administered semaglutide during organogenesis, embryofetal mortality, structural abnormalities and alterations to growth occurred at maternal exposures below the maximum recommended human dose (MRHD) based on AUC.
-In rabbits and cynomolgus monkeys administered semaglutide during organogenesis, early pregnancy losses and structural abnormalities were observed at below the MRHD (rabbit) and greater than or equal to 2-fold the MRHD (monkey).
+In pregnant rats administered semaglutide during organogenesis, embryofetal mortality, structural abnormalities and alterations to growth occurred at clinically relevant maternal exposures at the maximum recommended human dose (MRHD) of WEGOVY subcutaneous injection 7.2 mg/week, based on AUC.
+In pregnant rabbits and cynomolgus monkeys administered semaglutide during organogenesis, early pregnancy losses and structural abnormalities were observed in rabbits and monkeys at clinically relevant exposures.
 These findings coincided with a marked maternal body weight loss in both animal species (see Data).
 
 The background risk of major birth defects and miscarriage for the indicated populations are unknown.
@@ -28,30 +29,26 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
-
-Appropriate weight gain based on pre-pregnancy weight is currently recommended for all pregnant patients, including those who already have overweight or obesity, because of the obligatory weight gain that occurs in maternal tissues during pregnancy.
+Disease-Associated Maternal and/or Embryo/fetal Risk: Appropriate weight gain based on pre-pregnancy weight is currently recommended for all pregnant patients, including those who already have overweight or obesity, because of the obligatory weight gain that occurs in maternal tissues during pregnancy.
 
 There may be risks to the mother and fetus related to MASH with advanced liver fibrosis, such as increased risks of gestational diabetes, hypertensive complications, preterm birth, and postpartum hemorrhage.
-The effect of semaglutide on these risks is unknown.
+The effect of WEGOVY on these risks is unknown.
 
 Data
 
-Animal Data
+Animal Data: In a combined fertility and embryofetal development study in male and female rats, subcutaneous semaglutide doses of 0.01, 0.03, and 0.09 mg/kg/day (up to 0.1-fold the MRHD, based on AUC) were administered to male rats for 4 weeks prior to and throughout mating and to female rats for 2 weeks prior to mating, and throughout organogenesis to Gestation Day 17.
+In parental rats, pharmacologically mediated reductions in body weight gain and food consumption were observed at all dose levels.
+In the offspring, reduced growth and fetuses with visceral (heart blood vessels) and skeletal (cranial bones, vertebra, ribs) abnormalities were observed at clinically relevant exposures at the MRHD.
 
-In a combined fertility and embryofetal development study in rats, subcutaneous doses of 0.01, 0.03, and 0.09 mg/kg/day (0.04-, 0.1-, and 0.4-fold the MRHD) were administered to males for 4 weeks prior to and throughout mating and to females for 2 weeks prior to mating, and throughout organogenesis to Gestation Day 17.
-In parental animals, pharmacologically mediated reductions in body weight gain and food consumption were observed at all dose levels.
-In the offspring, reduced growth and fetuses with visceral (heart blood vessels) and skeletal (cranial bones, vertebra, ribs) abnormalities were observed at the human exposure.
-
-In an embryofetal development study in pregnant rabbits, subcutaneous doses of 0.001, 0.0025, or 0.0075 mg/kg/day (0.01-, 0.1-, and 0.9-fold the MRHD) were administered throughout organogenesis from Gestation Day 6 to 19.
+In an embryofetal development study in pregnant rabbits, subcutaneous semaglutide doses of 0.001, 0.0025, or 0.0075 mg/kg/day (up to 0.3-fold the MRHD) were administered throughout organogenesis from Gestation Day 6 to 19.
 Pharmacologically mediated reductions in maternal body weight gain and food consumption were observed at all dose levels.
-Early pregnancy losses and increased incidences of minor visceral (kidney, liver) and skeletal (sternebra) fetal abnormalities were observed at greater than or equal to 0.0025 mg/kg/day, at clinically relevant exposures.
+Early pregnancy losses and increased incidences of minor visceral (kidney, liver) and skeletal (sternebra) fetal abnormalities were observed at greater than or equal to 0.0025 mg/kg/day, at clinically relevant exposures at the MRHD.
 
-In an embryofetal development study in pregnant cynomolgus monkeys, subcutaneous doses of 0.015, 0.075, and 0.15 mg/kg twice weekly (0.4-, 2-, and 6-fold the MRHD) were administered throughout organogenesis, from Gestation Day 16 to 50.
-Pharmacologically mediated, marked initial maternal body weight loss and reductions in body weight gain and food consumption coincided with the occurrence of sporadic abnormalities (vertebra, sternebra, ribs) at greater than or equal to 0.075 mg/kg twice weekly (greater than or equal to 2 times human exposure).
+In an embryofetal development study in pregnant cynomolgus monkeys, subcutaneous semaglutide doses of 0.015, 0.075, and 0.15 mg/kg twice weekly (up to 2-fold the MRHD) were administered throughout organogenesis, from Gestation Day 16 to 50.
+Pharmacologically mediated, marked initial maternal body weight loss and reductions in body weight gain and food consumption coincided with the occurrence of sporadic abnormalities (vertebra, sternebra, ribs) at greater than or equal to 0.075 mg/kg twice weekly, at clinically relevant exposures at the MRHD.
 
-In a pre- and postnatal development study in pregnant cynomolgus monkeys, subcutaneous doses of 0.015, 0.075, and 0.15 mg/kg twice weekly (0.2-, 1-, and 3-fold the MRHD) were administered from Gestation Day 16 to 140.
-Pharmacologically mediated marked initial maternal body weight loss and reductions in body weight gain and food consumption coincided with an increase in early pregnancy losses and led to delivery of slightly smaller offspring at greater than or equal to 0.075 mg/kg twice weekly (greater than or equal to 1-time human exposure).
+In a pre- and postnatal development study in pregnant cynomolgus monkeys, subcutaneous semaglutide doses of 0.015, 0.075, and 0.15 mg/kg twice weekly (up to 0.8-fold the MRHD) were administered from Gestation Day 16 to 140.
+Pharmacologically mediated marked initial maternal body weight loss and reductions in body weight gain and food consumption coincided with an increase in early pregnancy losses and led to delivery of slightly smaller offspring at greater than or equal to 0.075 mg/kg twice weekly, at clinically relevant exposures at the MRHD.
 
 Salcaprozate sodium (SNAC), an absorption enhancer in WEGOVY tablets, crosses the placenta and reaches fetal tissues in rats.
 In a pre- and postnatal development study in pregnant Sprague Dawley rats, SNAC was administered orally at 1,000 mg/kg/day (exposure levels were not measured) on Gestation Day 7 through lactation Day 20.
@@ -85,7 +82,7 @@ The safety and effectiveness of WEGOVY injection in combination with a reduced-c
 Use of WEGOVY injection for this indication is supported by a 68-week, double-blind, placebo-controlled clinical trial in 201 pediatric patients aged 12 years and older with a BMI corresponding to ≥95th percentile for age and sex [see Clinical Studies (14.3)] and from trials in adult patients with obesity [see Clinical Studies (14.2)].
 Use of the 1.7 mg once weekly maintenance dosage of WEGOVY injection in pediatric patients is also supported by additional exposure-efficacy and safety analyses in pooled adult and pediatric patients.
 
-Adverse reactions with WEGOVY-injection treatment in pediatric patients aged 12 years and older were generally similar to those reported in adults.
+Adverse reactions with WEGOVY injection treatment in pediatric patients aged 12 years and older were generally similar to those reported in adults.
 Pediatric patients aged 12 years and older treated with WEGOVY injection had greater incidences of cholelithiasis, cholecystitis, hypotension, rash, and urticaria compared to adults treated with WEGOVY [see Adverse Reactions (6.1)].
 
 Although there was an increased frequency of hypoglycemia in adults with type 2 diabetes with obesity or overweight treated with WEGOVY injection, there are insufficient data to determine if the risk of hypoglycemia is higher in WEGOVY-treated pediatric patients with type 2 diabetes with obesity.
@@ -97,6 +94,7 @@ The safety and effectiveness of WEGOVY injection have not been established in pe
 
 - •to reduce the risk of major adverse CV events.
   Clinical trials for this indication are highly impracticable because of the low prevalence of the condition in pediatric patients.
+- •to reduce excess body weight and maintain weight reduction long term with the 7.2 mg once weekly dosage.
 - •to reduce excess body weight and maintain weight reduction long term in those less than 12 years of age.
 - •for the treatment of noncirrhotic MASH.
 
@@ -105,7 +103,7 @@ The safety and effectiveness of WEGOVY tablets have not been established in pedi
 ## 8.5 Geriatric Use
 
 In the WEGOVY injection clinical trials for weight reduction and long-term maintenance, 233 (9%) WEGOVY injection-treated patients were aged 65 to less than 75 years and 23 (1%) WEGOVY injection-treated patients were aged 75 years and older [see Clinical Studies (14.2)].
-In a WEGOVY tablets clinical trial for weight reduction and long-term maintenance, 16 (8%) WEGOVY tablets-treated patients were aged 65 to less than 75 years and 5 (2%) WEGOVY tablet-treated patients were aged 75 years and older [see Clinical Studies (14.2)].
+In a WEGOVY 25 mg tablets clinical trial for weight reduction and long-term maintenance, 16 (8%) WEGOVY tablets-treated patients were aged 65 to less than 75 years and 5 (2%) WEGOVY tablet-treated patients were aged 75 years and older [see Clinical Studies (14.2)].
 
 In a CV outcomes trial, 2,656 (30%) WEGOVY injection-treated patients were aged 65 to 75 years and 703 (8%) WEGOVY injection-treated patients were aged 75 years and older [see Clinical Studies (14.1)].
 No overall difference in the effectiveness was observed between patients aged 65 years and older and younger adult patients.
