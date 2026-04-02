@@ -6,7 +6,7 @@ Hypersensitivity reactions, including anaphylaxis, acute generalized exanthemato
 A case of AGEP was reported in an adult subject who participated in the bullous pemphigoid development program.
 If a clinically significant hypersensitivity reaction occurs, institute appropriate therapy and discontinue DUPIXENT [see Adverse Reactions (6.1, 6.2) and Clinical Pharmacology (12.6)].
 
-## 5.2 Conjunctivitis, Keratitis, and Blepharitis
+## 5.2 Conjunctivitis and Keratitis
 
 Conjunctivitis and keratitis adverse reactions have been reported in clinical trials [see Adverse Reactions (6.1)].
 
@@ -28,12 +28,11 @@ In subjects with CSU, the frequency of conjunctivitis was similar between DUPIXE
 
 Among subjects with BP, the frequency of conjunctivitis and keratitis was 7.5% and 3.8% in the DUPIXENT group and 0% and 0% in the placebo group, respectively.
 
-Conjunctivitis, keratitis, and blepharitis adverse reactions have also been reported with DUPIXENT in postmarketing settings, predominantly in AD patients.
-Some patients reported transient or ongoing visual impairment associated with conjunctivitis, keratitis, or blepharitis leading to discontinuation of DUPIXENT and/or surgical intervention.
+Conjunctivitis and keratitis adverse events have also been reported with DUPIXENT in postmarketing settings, predominantly in AD patients.
+Some patients reported visual disturbances (e.g., blurred vision) associated with conjunctivitis or keratitis.
 
-Advise patients or their caregivers to promptly report new onset or worsening eye symptoms to their healthcare provider.
-Consider discontinuation of DUPIXENT and prompt ophthalmological examination for patients who develop signs and symptoms suggestive of keratitis, or when conjunctivitis or blepharitis do not resolve following standard treatment, as appropriate.
-Use with caution in patients with significant dry eye disease, history of significant lid abnormalities/surgeries, or history of nasolacrimal surgery [see Adverse Reactions (6.1) and (6.2)].
+Advise patients or their caregivers to report new onset or worsening eye symptoms to their healthcare provider.
+Consider ophthalmological examination for patients who develop conjunctivitis that does not resolve following standard treatment or signs and symptoms suggestive of keratitis, as appropriate.
 
 ## 5.3 Eosinophilic Conditions
 
