@@ -1,0 +1,16 @@
+# 13 NONCLINICAL TOXICOLOGY
+
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+Studies of lidocaine hydrochloride in animals to evaluate the carcinogenic potential have not been conducted.
+
+Mutagenesis
+
+Studies of lidocaine hydrochloride in animals to evaluate the mutagenic potential have not been conducted.
+
+Impairment of Fertility
+
+In a published study, female Sprague-Dawley rats were treated subcutaneously with lidocaine via osmotic pumps starting two weeks prior to mating, and reproductive effects were assessed.
+Rats dosed up to the high dose of 500 mg/kg/day (approximately 45 times the MRDD on a mg/m2 basis) showed no effects on copulatory rate, pregnancy rate, numbers of corpora lutea, or implantations.

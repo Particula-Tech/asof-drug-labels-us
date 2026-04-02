@@ -1,173 +1,119 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-LIDOCAINE HCl INJECTIONS FOR INFILTRATION AND NERVE BLOCK SHOULD BE EMPLOYED ONLY BY CLINICIANS WHO ARE WELL VERSED IN DIAGNOSIS AND MANAGEMENT OF DOSE-RELATED TOXICITY AND OTHER ACUTE EMERGENCIES THAT MIGHT ARISE FROM THE BLOCK TO BE EMPLOYED AND THEN ONLY AFTER ENSURING THE IMMEDIATE AVAILABILITY OF OXYGEN, OTHER RESUSCITATIVE DRUGS, CARDIOPULMONARY EQUIPMENT AND THE PERSONNEL NEEDED FOR PROPER MANAGEMENT OF TOXIC REACTIONS AND RELATED EMERGENCIES (see also ADVERSE REACTIONS and PRECAUTIONS).
-DELAY IN PROPER MANAGEMENT OF DOSE-RELATED TOXICITY, UNDERVENTILATION FROM ANY CAUSE AND/OR ALTERED SENSITIVITY MAY LEAD TO THE DEVELOPMENT OF ACIDOSIS, CARDIAC ARREST AND, POSSIBLY, DEATH.
+## 5.1 Dose-Related Toxicity
 
-Methemoglobinemia
+The safety and effectiveness of Lidocaine Hydrochloride Injection depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
+Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient’s state of consciousness should be performed after injection of lidocaine hydrochloride solutions.
+
+Possible early warning signs of central nervous system (CNS) toxicity are restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, twitching, CNS depression, or drowsiness.
+Delay in proper management of dose-related toxicity, underventilation from any cause, and/or altered sensitivity may lead to the development of acidosis, cardiac arrest, and, possibly, death.
+
+During major regional nerve blocks, such as those of the brachial plexus or lower extremity, the patient should have an indwelling intravenous catheter to assure adequate intravenous access.
+Use the lowest dosage of Lidocaine Hydrochloride Injection that results in effective anesthesia to avoid high plasma levels and serious adverse effects.
+Avoid rapid injection of a large volume of Lidocaine Hydrochloride Injection solution and administer fractional (incremental) doses when feasible.
+
+Injection of repeated doses of Lidocaine Hydrochloride Injection may cause significant increases in plasma levels with each repeated dose due to slow accumulation of the drug or its metabolites, or to slow metabolic degradation.
+Tolerance to elevated blood levels varies with the status of the patient.
+Debilitated, elderly patients and acutely ill patients should be given reduced doses commensurate with their age and physical status.
+
+## 5.2 Methemoglobinemia
 
 Cases of methemoglobinemia have been reported in association with local anesthetic use.
-Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition [see Drug Interactions (7.5)].
 If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
 
-Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
+Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure and are characterized by a cyanotic skin discoloration and abnormal coloration of the blood.
 Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
-Discontinue lidocaine and any other oxidizing agents.
-Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
-A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
+Discontinue lidocaine hydrochloride and any other oxidizing agents.
+Depending on the severity of the symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
+More severe symptoms may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
+
+## 5.3 Antimicrobial Preservatives in Multiple-Dose Vials
+
+Avoid use of Lidocaine Hydrochloride Injection solutions containing antimicrobial preservatives (i.e., those supplied in multiple-dose vials) for epidural or caudal anesthesia because safety has not been established with such use.
+
+## 5.4 Chondrolysis with Intra-Articular Infusion
 
 Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
-The majority of reported cases of chondrolysis have involved the shoulder joint; cases of glenohumeral chondrolysis have been described in pediatric and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
+The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humeral chondrolysis have been described in pediatric and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
 There is insufficient information to determine whether shorter infusion periods are not associated with these findings.
 The time of onset of symptoms, such as joint pain, stiffness and loss of motion can be variable, but may begin as early as the 2nd month after surgery.
 Currently, there is no effective treatment for chondrolysis; patients who experienced chondrolysis have required additional diagnostic and therapeutic procedures and some required arthroplasty or shoulder replacement.
 
-To avoid intravascular injection, aspiration should be performed before the local anesthetic solution is injected.
-The needle must be repositioned until no return of blood can be elicited by aspiration.
-Note, however, that the absence of blood in the syringe does not guarantee that intravascular injection has been avoided.
+## 5.5 Risk of Adverse Reactions Due to Drug Interactions with Lidocaine Hydrochloride Injection
 
-Anaphylactic reactions may occur following administration of lidocaine hydrochloride (see ADVERSE REACTIONS).
+Risk of Severe, Persistent Hypertension Due to Drug Interactions Between Lidocaine Hydrochloride Injection and Monoamine Oxidase Inhibitors and Tricyclic Antidepressants Administration of Lidocaine Hydrochloride Injection in patients receiving monoamine oxidase inhibitors (MAOI), or tricyclic antidepressants may result in severe, prolonged hypertension.
+Concurrent use of these agents should generally be avoided.
+In situations when concurrent therapy is necessary, careful monitoring of the patient’s hemodynamic status is essential [see Drug Interactions (7.2)].
 
-In the case of severe reaction, discontinue the use of the drug.
+Risk of Severe, Persistent Hypertension or Cerebrovascular Accidents Due to Drug Interactions Between Lidocaine Hydrochloride Injection and Ergot-Type Oxytocic Drugs Concurrent administration of Lidocaine Hydrochloride Injection and ergot-type oxytocic drugs may cause severe, persistent hypertension or cerebrovascular accidents.
+Avoid use of Lidocaine Hydrochloride Injection concomitantly with ergot-type oxytocic drugs [see Drug Interactions (7.3)].
 
-# PRECAUTIONS
+Risk of Hypertension and Bradycardia Due to Drug Interactions Between Lidocaine Hydrochloride Injection and Nonselective Beta-Adrenergic Antagonists Administration of Lidocaine Hydrochloride Injection in patients receiving nonselective beta-adrenergic antagonists may cause severe hypertension and bradycardia.
+Concurrent use of these agents should generally be avoided.
+In situations when concurrent therapy is necessary, careful monitoring of the patient’s blood pressure and heart rate is essential [see Drug Interactions (7.4)]
 
-## General
+## 5.6 Allergic-Type Reactions to Sulfites in Lidocaine Hydrochloride Injection and Anaphylactic Reactions
 
-The safety and effectiveness of lidocaine HCl depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
-Standard textbooks should be consulted for specific techniques and precautions for various regional anesthetic procedures.
+Lidocaine Hydrochloride Injection without epinephrine does not contain sodium metabisulfite.
+Anaphylactic reactions may occur following administration of lidocaine hydrochloride [see Adverse Reactions (6)].
+Lidocaine hydrochloride should be used with caution in persons with known drug sensitivities.
+Patients allergic to para-aminobenzoic acid derivatives (procaine, tetracaine, benzocaine, etc.) have not shown cross-sensitivity to lidocaine hydrochloride.
 
-Resuscitative equipment, oxygen, and other resuscitative drugs should be available for immediate use (see WARNINGS and ADVERSE REACTIONS).
-The lowest dosage that results in effective anesthesia should be used to avoid high plasma levels and serious adverse effects.
-Syringe aspirations should also be performed before and during each supplemental injection when using indwelling catheter techniques.
-During the administration of epidural anesthesia, it is recommended that a test dose be administered initially and that the patient be monitored for central nervous system toxicity and cardiovascular toxicity, as well as for signs of unintended intrathecal administration, before proceeding.
-When clinical conditions permit, consideration should be given to employing local anesthetic solutions that contain epinephrine for the test dose because circulatory changes compatible with epinephrine may also serve as a warning sign of unintended intravascular injection.
-An intravascular injection is still possible even if aspirations for blood are negative.
-Repeated doses of lidocaine HCl may cause significant increases in blood levels with each repeated dose because of slow accumulation of the drug or its metabolites.
-Tolerance to elevated blood levels varies with the status of the patient.
-Debilitated, elderly patients, acutely ill patients, and children should be given reduced doses commensurate with their age and physical condition.
-Lidocaine HCl should also be used with caution in patients with severe shock or heart block.
+## 5.7 Risk of Systemic Toxicities with Unintended Intravascular or Intrathecal Injection
 
-Lumbar and caudal epidural anesthesia should be used with extreme caution in persons with the following conditions: existing neurological disease, spinal deformities, septicemia, and severe hypertension.
+Unintended intravascular or intrathecal injection of Lidocaine Hydrochloride Injection may be associated with systemic toxicities, including CNS or cardiorespiratory depression and coma, progressing ultimately to respiratory arrest.
+Unintentional intrathecal injection during the intended performance of caudal or lumbar epidural block or nerve blocks near the vertebral column has resulted in underventilation or apnea (“Total or High Spinal”).
+A high spinal has been characterized by paralysis of the legs, loss of consciousness, respiratory paralysis, and bradycardia [see Adverse Reactions (6)].
 
-Local anesthetic solutions containing a vasoconstrictor should be used cautiously and in carefully circumscribed quantities in areas of the body supplied by end arteries or having otherwise compromised blood supply.
+Aspirate for blood or cerebrospinal fluid (where applicable) before injecting Lidocaine Hydrochloride Injection, both the initial dose and all subsequent doses, to avoid intravascular or intrathecal injection.
+However, a negative aspiration for blood or cerebrospinal fluid does not ensure against an intravascular or intrathecal injection.
+
+## 5.8 Risk of Toxicity in Patients with Hepatic Impairment
+
+Because amide local anesthetics such as lidocaine are metabolized by the liver, consider reduced dosing and increased monitoring for lidocaine systemic toxicity in patients with moderate to severe hepatic impairment who are treated with lidocaine hydrochloride, especially with repeat doses [see Use in Specific Populations (8.6)].
+
+## 5.9 Risk of Use in Patients with Impaired Cardiovascular Function
+
+Lidocaine Hydrochloride Injection should also be given in reduced doses in patients with impaired cardiovascular function since they may be less able to compensate for functional changes associated with the prolongation of A-V conduction produced by these drugs.
+Monitor patients closely for blood pressure, heart rate, and ECG changes.
+
+## 5.10 Risk of Ischemic Injury or Necrosis in Body Areas with Limited Blood Supply
+
+Use Lidocaine Hydrochloride Injection in carefully restricted quantities in areas of the body supplied by end arteries or having otherwise compromised blood supply, such as digits, nose, external ear, or penis.
 Patients with peripheral vascular disease and those with hypertensive vascular disease may exhibit exaggerated vasoconstrictor response.
 Ischemic injury or necrosis may result.
-Preparations containing a vasoconstrictor should be used with caution in patients during or following the administration of potent general anesthetic agents, since cardiac arrhythmias may occur under such conditions.
 
-Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient’s state of consciousness should be accomplished after each local anesthetic injection.
-It should be kept in mind at such times that restlessness, anxiety, tinnitus, dizziness, blurred vision, tremors, depression or drowsiness may be early warning signs of central nervous system toxicity.
+## 5.11 Risk of Cardiac Arrhythmias with Concomitant Use of Potent Inhalation Anesthetics
 
-Since amide-type local anesthetics are metabolized by the liver, Lidocaine HCl Injection should be used with caution in patients with hepatic disease.
-Patients with severe hepatic disease, because of their inability to metabolize local anesthetics normally, are at greater risk of developing toxic plasma concentrations.
-Lidocaine HCl Injection should also be used with caution in patients with impaired cardiovascular function since they may be less able to compensate for functional changes associated with the prolongation of A-V conduction produced by these drugs.
+Serious dose-related cardiac arrhythmias may occur if preparations containing a vasoconstrictor such as epinephrine (e.g., Lidocaine Hydrochloride Injection) are used in patients during or following the administration of potent inhalation anesthetics [see Drug Interactions (7.6)].
+In deciding whether to concurrently use Lidocaine Hydrochloride Injection with potent inhalation anesthetics in the same patient, the combined action of both agents upon the myocardium, the concentration and volume of vasoconstrictor used, and the time since injection, when applicable, should be taken into account.
+
+## 5.12 Risk of Adverse Reactions with Use in the Head and Neck Area
+
+Small doses of local anesthetics (e.g., Lidocaine Hydrochloride) injected into the head and neck area, including retrobulbar, dental and stellate ganglion blocks, may produce adverse reactions similar to systemic toxicity seen with unintentional intravascular injections of larger doses.
+The injection procedures require the utmost care.
+Confusion, convulsions, respiratory depression and/or respiratory arrest, and cardiovascular stimulation or depression have been reported.
+These reactions may be due to intra-arterial injection of the local anesthetic with retrograde flow to the cerebral circulation.
+They may also be due to puncture of the dural sheath of the optic nerve during retrobulbar block with diffusion of any local anesthetic along the subdural space to the midbrain.
+Monitor circulation and respiration and constantly observe patients receiving Lidocaine Hydrochloride Injection blocks.
+Resuscitative equipment and drugs, and personnel for treating adverse reactions should be immediately available.
+Dosage recommendations should not be exceeded [see Dosage and Administration (2.2)].
+
+## 5.13 Familial Malignant Hyperthermia
 
 Many drugs used during the conduct of anesthesia are considered potential triggering agents for familial malignant hyperthermia.
 Since it is not known whether amide-type local anesthetics may trigger this reaction and since the need for supplemental general anesthesia cannot be predicted in advance, it is suggested that a standard protocol for the management of malignant hyperthermia should be available.
 Early unexplained signs of tachycardia, tachypnea, labile blood pressure and metabolic acidosis may precede temperature elevation.
 Successful outcome is dependent on early diagnosis, prompt discontinuance of the suspect triggering agent(s) and institution of treatment, including oxygen therapy, indicated supportive measures and dantrolene (consult dantrolene sodium intravenous package insert before using).
 
-Proper tourniquet technique, as described in publications and standard textbooks, is essential in the performance of intravenous regional anesthesia.
-Solutions containing epinephrine or other vasoconstrictors should not be used for this technique.
+## 5.14 Risk of Respiratory Arrest with Use in Ophthalmic Surgery
 
-Lidocaine HCl should be used with caution in persons with known drug sensitivities.
-Patients allergic to para-aminobenzoic acid derivatives (procaine, tetracaine, benzocaine, etc.) have not shown cross-sensitivity to lidocaine HCl.
+Clinicians who perform retrobulbar blocks should be aware that there have been reports of respiratory arrest following local anesthetic injection.
+Prior to retrobulbar block (e.g., with Lidocaine Hydrochloride Injection), as with all other regional procedures, resuscitative equipment and drugs, and personnel to manage respiratory arrest or depression, convulsions, and cardiac stimulation or depression should be immediately available [see Warnings and Precautions (5.14)].
+As with other anesthetic procedures, patients should be constantly monitored following ophthalmic blocks for signs of these adverse reactions, which may occur following relatively low total doses.
 
-## Use in the Head and Neck Area
-
-Small doses of local anesthetics injected into the head and neck area, including retrobulbar, dental and stellate ganglion blocks, may produce adverse reactions similar to systemic toxicity seen with unintentional intravascular injections of larger doses.
-Confusion, convulsions, respiratory depression and/or respiratory arrest, and cardiovascular stimulation or depression have been reported.
-These reactions may be due to intra-arterial injection of the local anesthetic with retrograde flow to the cerebral circulation.
-Patients receiving these blocks should have their circulation and respiration monitored and be constantly observed.
-Resuscitative equipment and personnel for treating adverse reactions should be immediately available.
-Dosage recommendations should not be exceeded (see DOSAGE AND ADMINISTRATION).
-
-## Information for Patients
-
-When appropriate, patients should be informed in advance that they may experience temporary loss of sensation and motor activity, usually in the lower half of the body, following proper administration of epidural anesthesia.
-
-Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.
-Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
-
-## Clinically Significant Drug Interactions
-
-The administration of local anesthetic solutions containing epinephrine or norepinephrine to patients receiving monoamine oxidase inhibitors or tricyclic antidepressants may produce severe, prolonged hypertension.
-
-Phenothiazines and butyrophenones may reduce or reverse the pressor effect of epinephrine.
-Concurrent use of these agents should generally be avoided.
-In situations when concurrent therapy is necessary, careful patient monitoring is essential.
-
-Concurrent administration of vasopressor drugs (for the treatment of hypotension related to obstetric blocks) and ergot-type oxytocic drugs may cause severe, persistent hypertension or cerebrovascular accidents.
-
-## Drug/Laboratory Test Interactions
+## 5.16 Drug/Laboratory Test Interactions
 
 The intramuscular injection of lidocaine HCl may result in an increase in creatine phosphokinase levels.
 Thus, the use of this enzyme determination, without isoenzyme separation, as a diagnostic test for the presence of acute myocardial infarction may be compromised by the intramuscular injection of lidocaine HCl.
-
-Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
-
-Examples of Drugs Associated with Methemoglobinemia:
-
-| Class | Examples |
-| --- | --- |
-| Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
-| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
-| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase |
-| Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
-| Antimalarials | chloroquine, primaquine |
-| Anticonvulsants | Phenobarbital, phenytoin, sodium valproate |
-| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Studies of lidocaine HCl in animals to evaluate the carcinogenic and mutagenic potential or the effect on fertility have not been conducted.
-
-## Pregnancy
-
-Teratogenic Effects: Pregnancy Category B.
-
-Reproduction studies have been performed in rats at doses up to 6.6 times the human dose and have revealed no evidence of harm to the fetus caused by lidocaine HCl.
-There are, however, no adequate and well-controlled studies in pregnant women.
-Animal reproduction studies are not always predictive of human response.
-General consideration should be given to this fact before administering lidocaine HCl to women of childbearing potential, especially during early pregnancy when maximum organogenesis takes place.
-
-## Labor and Delivery
-
-Local anesthetics rapidly cross the placenta and when used for epidural, paracervical, pudendal or caudal block anesthesia, can cause varying degrees of maternal, fetal and neonatal toxicity (see CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism).
-The potential for toxicity depends upon the procedure performed, the type and amount of drug used, and the technique of drug administration.
-Adverse reactions in the parturient, fetus and neonate involve alterations of the central nervous system, peripheral vascular tone and cardiac function.
-
-Maternal hypotension has resulted from regional anesthesia.
-Local anesthetics produce vasodilation by blocking sympathetic nerves.
-Elevating the patient’s legs and positioning her on her left side will help prevent decreases in blood pressure.
-
-The fetal heart rate also should be monitored continuously, and electronic fetal monitoring is highly advisable.
-
-Epidural, spinal, paracervical, or pudendal anesthesia may alter the forces of parturition through changes in uterine contractility or maternal expulsive efforts.
-In one study, paracervical block anesthesia was associated with a decrease in the mean duration of first stage labor and facilitation of cervical dilation.
-However, spinal and epidural anesthesia have also been reported to prolong the second stage of labor by removing the parturient’s reflex urge to bear down or by interfering with motor function.
-The use of obstetrical anesthesia may increase the need for forceps assistance.
-
-The use of some local anesthetic drug products during labor and delivery may be followed by diminished muscle strength and tone for the first day or two of life.
-The long-term significance of these observations is unknown.
-Fetal bradycardia may occur in 20 to 30 percent of patients receiving paracervical nerve block anesthesia with the amide-type local anesthetics and may be associated with fetal acidosis.
-Fetal heart rate should always be monitored during paracervical anesthesia.
-The physician should weigh the possible advantages against risks when considering a paracervical block in prematurity, toxemia of pregnancy, and fetal distress.
-Careful adherence to recommended dosage is of the utmost importance in obstetrical paracervical block.
-Failure to achieve adequate analgesia with recommended doses should arouse suspicion of intravascular or fetal intracranial injection.
-Cases compatible with unintended fetal intracranial injection of local anesthetic solution have been reported following intended paracervical or pudendal block or both.
-Babies so affected present with unexplained neonatal depression at birth, which correlates with high local anesthetic serum levels, and often manifest seizures within six hours.
-Prompt use of supportive measures combined with forced urinary excretion of the local anesthetic has been used successfully to manage this complication.
-
-Case reports of maternal convulsions and cardiovascular collapse following use of some local anesthetics for paracervical block in early pregnancy (as anesthesia for elective abortion) suggest that systemic absorption under these circumstances may be rapid.
-The recommended maximum dose of each drug should not be exceeded.
-Injection should be made slowly and with frequent aspiration.
-Allow a 5-minute interval between sides.
-
-## Nursing Mothers
-
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when lidocaine HCl is administered to a nursing woman.
-
-## Pediatric Use
-
-Dosages in pediatric patients should be reduced, commensurate with age, body weight and physical condition (see DOSAGE AND ADMINISTRATION).

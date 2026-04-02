@@ -1,11 +1,49 @@
-# Principal Display Panel
+# PACKAGE LABEL. PRINCIPAL DISPLAY PANEL
 
-NDC 0143-9595-01 Rx only Lidocaine HCl Injection, USP 1% (50 mg/5 mL) (10 mg/mL) For Infiltration and Nerve Block Including Caudal and Epidural Use Preservative-Free 5 mL Single Dose Vial
+NDC 0143-9595-01
 
-NDC 0143-9595-25 Rx only Lidocaine HCl Injection, USP 1% (50 mg/5 mL) (10 mg/mL) For Infiltration and Nerve Block Including Caudal and Epidural Use Preservative-Free 25 x 5 mL Single Dose Vials
+Lidocaine HCl Injection, USP
 
-NDC 0143-9594-01 Rx only Lidocaine HCl Injection, USP 2% (100 mg/5 mL) (20 mg/mL) For Infiltration and Nerve Block Including Caudal and Epidural Use Preservative-Free 5 mL Single Dose Vial
+1% (50 mg/5 mL) (10 mg/mL)
 
-NDC 0143-9594-25 Rx only Lidocaine HCl Injection, USP 2% (100 mg/5 mL) (20 mg/mL) For Infiltration and Nerve Block Including Caudal and Epidural Use Preservative-Free 25 x 5 mL Single Dose Vials
+For Infiltration and Nerve Block
 
-# SERIALIZATION IMAGE
+Including Caudal and Epidural Use
+
+Preservative-Free 5 mL Single Dose Vial
+
+NDC 0143-9595-25
+
+Lidocaine HCl Injection, USP
+
+1% (50 mg/5 mL) (10 mg/mL)
+
+For Infiltration and Nerve Block
+
+Including Caudal and Epidural Use
+
+Preservative-Free 25 x 5 mL Single Dose Vial
+
+NDC 0143-9594-01
+
+Lidocaine HCl Injection, USP
+
+2% (100 mg/5 mL) (20 mg/mL)
+
+For Infiltration and Nerve Block
+
+Including Caudal and Epidural Use
+
+Preservative-Free 5 mL Single Dose Vial
+
+NDC 0143-9594-25
+
+Lidocaine HCl Injection, USP
+
+2% (100 mg/5 mL) (20 mg/mL)
+
+For Infiltration and Nerve Block
+
+Including Caudal and Epidural Use
+
+Preservative-Free 25 x 5 mL Single Dose Vial

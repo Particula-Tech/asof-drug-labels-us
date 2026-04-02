@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Lidocaine HCl is contraindicated in patients with a known history of hypersensitivity to local anesthetics of the amide type.
+Lidocaine Hydrochloride Injection is contraindicated in patients with a known hypersensitivity to lidocaine or to any local anesthetics of the amide type or to other components of Lidocaine Hydrochloride Injection.
