@@ -43,6 +43,8 @@ Ticagrelor tablets are prescription medicine used to:
 
 - decrease your risk of death, heart attack, and stroke in people with a blockage of blood flow to the heart (acute coronary syndrome or ACS) or a history of a heart attack.
   Ticagrelor tablets can also decrease your risk of blood clots in your stent in people who have received stents for the treatment of ACS.
+- decrease your risk of a first heart attack or stroke in people who have a condition where the blood flow to the heart is decreased (coronary artery disease or CAD) who are at high risk for having a heart attack or stroke.
+- decrease your risk of stroke in people who are having a stroke (acute ischemic stroke) or mini-stroke (transient ischemic attack or TIA).
 
 It is not known if ticagrelor tablets are safe and effective in children.
 
@@ -151,4 +153,4 @@ For more information contact Ascend Laboratories, LLC at 1-877-272-7901.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: January, 2025
+Revised: January 2026

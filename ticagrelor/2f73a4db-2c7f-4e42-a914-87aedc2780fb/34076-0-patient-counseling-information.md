@@ -26,4 +26,4 @@ Distributed by:
 
 Ascend Laboratories, LLC Bedminster, NJ 07921
 
-Revised: January, 2025
+Revised: January 2026

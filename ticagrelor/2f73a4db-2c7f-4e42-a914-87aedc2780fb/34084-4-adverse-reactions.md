@@ -108,10 +108,33 @@ Table 5 – Non-hemorrhagic adverse reactions reported in greater than 3.0% of p
 
 *60 mg BID
 
+Bleeding in THEMIS (Prevention of major CV events in patients with CAD and Type 2 Diabetes Mellitus) The Kaplan-Meier curve of time to first TIMI Major bleeding event is presented in Figure 3.
+Figure 3 - Time to first TIMI Major bleeding event (THEMIS)
+
+T = Ticagrelor; P = Placebo; N = Number of patients The bleeding events in THEMIS are shown below in Table 6.
+Table 6 – Bleeding events (THEMIS)
+
+|  | Ticagrelor Tablets N=9562 | Placebo N=9531 |
+| --- | --- | --- |
+| Events / 1000 patient years | Events / 1000 patient years |  |
+| TIMI Major | 9 | 4 |
+| TIMI Major or Minor | 12 | 5 |
+| TIMI Major or Minor or Requiring medical attention | 46 | 18 |
+| Fatal bleeding | 1 | 0 |
+| Intracranial hemorrhage | 3 | 2 |
+
+Bleeding in THALES (Reduction in risk of stroke in patients with acute ischemic stroke or TIA) The Kaplan-Meier curve of time course of GUSTO severe bleeding events is presented in Figure 4.
+Figure 4 - Time course of GUSTO severe bleeding events
+
+KM%: Kaplan-Meier percentage evaluated at Day 30; T = Ticagrelor; P = placebo; N = Number of patients GUSTO Severe: Any one of the following: fatal bleeding, intracranial bleeding (excluding asymptomatic hemorrhagic transformations of ischemic brain infarctions and excluding microhemorrhages < 10 mm evident only on gradient-echo magnetic resonance imaging), bleeding that caused hemodynamic compromise requiring intervention (e.g., systolic blood pressure <90 mmg Hg that required blood or fluid replacement, or vasopressor/inotropic support, or surgical intervention).
+
+Intracranial bleeding and fatal bleeding in THALES: In total, there were 21 intracranial hemorrhages (ICHs) for ticagrelor tablets and 6 ICHs for placebo.
+Fatal bleedings, almost all ICH, occurred in 11 for ticagrelor tablets and in 2 for placebo.
+
 Bradycardia
 
 In a Holter substudy of about 3,000 patients in PLATO, more patients had ventricular pauses with ticagrelor tablets (6.0%) than with clopidogrel (3.5%) in the acute phase; rates were 2.2% and 1.6%, respectively, after 1 month.
-PLATO and PEGASUS excluded patients at increased risk of bradycardic events (e.g., patients who have sick sinus syndrome, 2nd or 3rd degree AV block, or bradycardic-related syncope and not protected with a pacemaker).
+PLATO and PEGASUS, THEMIS and THALES excluded patients at increased risk of bradycardic events (e.g., patients who have sick sinus syndrome, 2nd or 3rd degree AV block, or bradycardic-related syncope and not protected with a pacemaker).
 
 Lab abnormalities
 

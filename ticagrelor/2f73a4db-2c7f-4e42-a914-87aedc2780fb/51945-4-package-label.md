@@ -1,12 +1,60 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC -67877-491-60
-
-500 tablets
+NDC -67877-491-14
 
 Ticagrelor Tablets
 
 90 mg
+
+14 Tablets
+
+Rx only
+
+Dispense the accompanying Medication Guide to each patient.
+
+NDC -67877-491-60
+
+Ticagrelor Tablets
+
+90 mg
+
+60 Tablets
+
+Rx only
+
+Dispense the accompanying Medication Guide to each patient.
+
+NDC -67877-491-01
+
+Ticagrelor Tablets
+
+90 mg
+
+100 Tablets
+
+Rx only
+
+Dispense the accompanying Medication Guide to each patient.
+
+NDC -67877-491-05
+
+Ticagrelor Tablets
+
+90 mg
+
+500 Tablets
+
+Rx only
+
+Dispense the accompanying Medication Guide to each patient.
+
+NDC -67877-491-38
+
+Ticagrelor Tablets
+
+90 mg
+
+100 Tablets (10 x 10 Unit-dose)
 
 Rx only
 

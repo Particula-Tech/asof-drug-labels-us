@@ -39,12 +39,11 @@ Breastfeeding is not recommended during treatment with ticagrelor tablets.
 
 The safety and effectiveness of ticagrelor tablets have not been established in pediatric patients.
 
-Pediatric use information describing a clinical study in which efficacy was not demonstrated is approved for AstraZeneca Pharmaceuticals LP’s BRILINTA® (ticagrelor) tablets.
-However, due to AstraZeneca Pharmaceuticals LP’s marketing exclusivity rights, this drug product is not labeled with that information.
+Effectiveness was not demonstrated in an adequate and well-controlled study conducted in 101 ticagrelor tablets-treated pediatric patients, aged 2 to <18 for reducing the rate of vaso-occlusive crises in sickle cell disease.
 
 ## 8.5 Geriatric Use
 
-About half of the patients in PLATO and PEGASUS were ≥65 years of age and at least 15% were ≥75 years of age.
+About half of the patients in PLATO and PEGASUS, THEMIS and THALES were ≥65 years of age and at least 15% were ≥75 years of age.
 No overall differences in safety or effectiveness were observed between elderly and younger patients.
 
 ## 8.6 Hepatic Impairment
@@ -62,4 +61,4 @@ Patients with End-Stage Renal Disease on dialysis
 
 Clinical efficacy and safety studies with ticagrelor tablets did not enroll patients with end-stage renal disease (ESRD) on dialysis.
 In patients with ESRD maintained on intermittent hemodialysis, no clinically significant difference in concentrations of ticagrelor and its metabolite and platelet inhibition are expected compared to those observed in patients with normal renal function [see Clinical Pharmacology (12.3)].
-It is not known whether these concentrations will lead to similar efficacy and safety in patients with ESRD on dialysis as were seen in PLATO and PEGASUS.
+It is not known whether these concentrations will lead to similar efficacy and safety in patients with ESRD on dialysis as were seen in PLATO and PEGASUS,THEMIS and THALES.

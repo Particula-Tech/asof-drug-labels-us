@@ -6,3 +6,12 @@ Ticagrelor tablets are indicated to reduce the risk of cardiovascular (CV) death
 For at least the first 12 months following ACS, it is superior to clopidogrel.
 
 Ticagrelor tablets also reduces the risk of stent thrombosis in patients who have been stented for treatment of ACS [see Clinical Studies (14.1)].
+
+## 1.2 Coronary Artery Disease but No Prior Stroke or Myocardial Infarction
+
+Ticagrelor tablets are indicated to reduce the risk of a first MI or stroke in patients with coronary artery disease (CAD) at high risk for such events [see Clinical Studies (14.2)].
+While use is not limited to this setting, the efficacy of ticagrelor tablets were established in a population with type 2 diabetes mellitus (T2DM).
+
+## 1.3 Acute Ischemic Stroke or Transient Ischemic Attack (TIA)
+
+Ticagrelor tablets are indicated to reduce the risk of stroke in patients with acute ischemic stroke (NIH Stroke Scale score ≤5) or high-risk transient ischemic attack (TIA) [see Clinical Studies (14.3)].

@@ -4,6 +4,8 @@
 
 Drugs that inhibit platelet function including ticagrelor tablets increase the risk of bleeding [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
+Patients treated for acute ischemic stroke or TIA Patients at NIHSS >5 and patients receiving thrombolysis were excluded from THALES and use of ticagrelor tablets in such patients is not recommended.
+
 ## 5.2 Discontinuation of Ticagrelor Tablets in Patients Treated for Coronary Artery Disease
 
 Discontinuation of ticagrelor tablets will increase the risk of myocardial infarction, stroke, and death in patients being treated for coronary artery disease.
