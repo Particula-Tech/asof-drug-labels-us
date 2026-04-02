@@ -9,7 +9,7 @@ For Intravenous Infusion Only.
 
 40 mg in 200 mL (0.2 mg/mL)
 
-Galaxy Single-Dose Container Discard unused portion
+GALAXY Single-Dose Container Discard unused portion
 
 200 mL Iso-osmotic
 
@@ -41,7 +41,7 @@ To report suspected adverse reactions, contact Baxter Healthcare Corporation at 
 
 07-34-00-2344
 
-*BAR CODE 343066016104
+*BAR CODE POSITION ONLY 343066016104
 
 Carton Label
 
@@ -69,7 +69,7 @@ Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in the US
 
 STORE IN CARTON UNTIL READY TO USE
 
-1 Galaxy Single Dose Container Discard unused portion
+1 GALAXY Single Dose Container Discard unused portion
 
 CARDENE I.V.
 Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
@@ -81,7 +81,9 @@ Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
 
 40 mg in 200 mL (0.2 mg/mL)
 
-Barcode (01) 00343066016104
+UNVARNISHED AREA FOR LOT AND EXP.
+
+UCC/EAN 128 BAR CODE POSITION 1.75” W (excluding quiet zone) 0.5” H (excluding human readable) (01) 00343066016104
 
 Iso-osmotic Sterile, nonpyrogenic
 
@@ -130,7 +132,7 @@ For Intravenous Infusion Only.
 
 20 mg in 200 mL (0.1 mg/mL)
 
-Galaxy Single-Dose Container Discard unused portion
+GALAXY Single-Dose Container Discard unused portion
 
 200 mL Iso-osmotic
 
@@ -152,7 +154,7 @@ Protect from freezing.
 Avoid excessive heat.
 PROTECT FROM LIGHT, STORE IN CARTON UNTIL READY TO USE.
 
-U.S. Patent Numbers 7612102 and 7659291 Baxter and Galaxy are registered trademarks of Baxter International Inc. Cardene is a registered trademark of Chiesi USA, Inc. and is used under license
+U.S. Patent Numbers 7612102 and 7659291 Baxter and Galaxy are registered trademarks of Baxter International Inc. CARDENE is a registered trademark of Chiesi USA, Inc. and is used under license
 
 Code 2G3443
 
@@ -162,7 +164,7 @@ To report suspected adverse reactions, contact Baxter Healthcare Corporation at 
 
 07-34-00-2345
 
-*BAR CODE 343066009106
+*BAR CODE POSITION ONLY 343066009106
 
 Carton Label
 
@@ -186,7 +188,7 @@ Code 2G3443
 
 STORE IN CARTON UNTIL READY TO USE
 
-1 Galaxy Single Dose Container Discard unused portion
+1 GALAXY Single Dose Container Discard unused portion
 
 CARDENE I.V.
 Nicardipine Hydrochloride in 0.86% Sodium Chloride Injection
@@ -198,7 +200,9 @@ Nicardipine Hydrochloride in 0.86% Sodium Chloride Injection
 
 20 mg in 200 mL (0.1 mg/mL)
 
-Barcode (01) 00343066009106
+UNVARNISHED AREA FOR LOT AND EXP.
+
+UCC/EAN 128 BAR CODE POSITION 1.75” W (excluding quiet zone) 0.5” H (excluding human readable) (01) 00343066009106
 
 Iso-osmotic Sterile, nonpyrogenic
 

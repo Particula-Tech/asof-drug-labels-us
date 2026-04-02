@@ -1,6 +1,6 @@
 Manufactured and Marketed by:
 
-Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA
+Baxter Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 To report suspected adverse reactions, contact Baxter Healthcare at 1-866-888-2472.
 
@@ -10,4 +10,4 @@ Cardene is a registered trademark of Chiesi USA, Inc. and is used under license.
 
 U.S. Patent Numbers 7612102 and 7659291
 
-071908785
+071909164
