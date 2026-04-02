@@ -25,7 +25,7 @@ Clinical Trials Experience in Adults
 Overview
 
 The most frequently reported adverse reactions (see Table 4) in the adult therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3.0%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
-The adverse reactions which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash, and visual disturbances [see Warning and Precautions (5.1, 5.4) and Adverse Reactions (6.1)].
+The adverse reactions which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash, and visual disturbances [see Warnings and Precautions (5.1, 5.4) and Adverse Reactions (6.1)].
 
 The data described in Table 4 reflect exposure to voriconazole in 1,655 patients in nine therapeutic studies.
 This represents a heterogeneous population, including immunocompromised patients, e.g., patients with hematological malignancy or HIV and non-neutropenic patients.
@@ -273,15 +273,15 @@ The most common adverse reactions occurring in ≥5% of pediatric patients recei
 
 1. Table 8: Adverse Reactions Occurring in ≥5% of Pediatric Patients Receiving Voriconazole in the Pooled Pediatric Clinical Trials
 
-| Body System | Adverse Reaction | Pooled Pediatric Data*N=105n (%) |
+| Body System | Adverse Reaction | Pooled Pediatric DataaN=105n (%) |
 | --- | --- | --- |
 | Blood and Lymphatic Systems Disorders | Thrombocytopenia | 10 (10) |
 | Cardiac Disorders | Tachycardia | 7 (7) |
-| Eye Disorders | Visual Disturbances† | 27 (26) |
+| Eye Disorders | Visual Disturbancesb | 27 (26) |
 | Photophobia | 6 (6) |  |
 | Gastrointestinal Disorders | Vomiting | 21 (20) |
 | Nausea | 14 (13) |  |
-| Abdominal pain‡ | 13 (12) |  |
+| Abdominal painc | 13 (12) |  |
 | Diarrhea | 12 (11) |  |
 | Abdominal distention | 5 (5) |  |
 | Constipation | 5 (5) |  |
@@ -289,7 +289,7 @@ The most common adverse reactions occurring in ≥5% of pediatric patients recei
 | Peripheral edema | 9 (9) |  |
 | Mucosal inflammation | 6 (6) |  |
 | Infections and Infestations | Upper respiratory tract infection | 5 (5) |
-| Investigations | ALT abnormal§ | 9 (9) |
+| Investigations | ALT abnormald | 9 (9) |
 | LFT abnormal | 6 (6) |  |
 | Metabolism and Nutrition Disorders | Hypokalemia | 11 (11) |
 | Hyperglycemia | 7 (7) |  |
@@ -299,31 +299,31 @@ The most common adverse reactions occurring in ≥5% of pediatric patients recei
 | Hypomagnesemia | 5 (5) |  |
 | Nervous System Disorders | Headache | 10 (10) |
 | Dizziness | 5 (5) |  |
-| Psychiatric Disorders | Hallucinations¶ | 5 (5) |
-| Renal and Urinary Disorders | Renal impairment# | 5 (5) |
+| Psychiatric Disorders | Hallucinationse | 5 (5) |
+| Renal and Urinary Disorders | Renal impairmentf | 5 (5) |
 | Respiratory Disorders | Epistaxis | 17 (16) |
 | Cough | 10 (10) |  |
 | Dyspnea | 6 (6) |  |
 | Hemoptysis | 5 (5) |  |
-| Skin and Subcutaneous Tissue Disorders | RashÞ | 14 (13) |
+| Skin and Subcutaneous Tissue Disorders | Rashg | 14 (13) |
 | Vascular Disorders | Hypertension | 12 (11) |
 | Hypotension | 9 (9) |  |
 
-* Reflects all adverse reactions and not treatment-related only.
+a Reflects all adverse reactions and not treatment-related only.
 
-- † Pooled reports include such terms as: amaurosis (partial or total blindness without visible change in the eye); asthenopia (eye strain); chromatopsia (abnormally colored vision); color blindness; diplopia; photopsia; retinal disorder; vision blurred, visual acuity decreased, visual brightness; visual impairment.
+- b Pooled reports include such terms as: amaurosis (partial or total blindness without visible change in the eye); asthenopia (eye strain); chromatopsia (abnormally colored vision); color blindness; diplopia; photopsia; retinal disorder; vision blurred, visual acuity decreased, visual brightness; visual impairment.
   Several patients had more than one visual disturbance.
 
-‡ Pooled reports include such terms as: abdominal pain and abdominal pain, upper.
+c Pooled reports include such terms as: abdominal pain and abdominal pain, upper.
 
-§ Pooled reports include such terms as: ALT abnormal and ALT increased.
+d Pooled reports include such terms as: ALT abnormal and ALT increased.
 
-- ¶ Pooled reports include such terms as: hallucination; hallucination, auditory; hallucination, visual.
+- e Pooled reports include such terms as: hallucination; hallucination, auditory; hallucination, visual.
   Several patients had both visual and auditory hallucinations.
 
-# Pooled reports include such terms as: renal failure and a single patient with renal impairment.
+f Pooled reports include such terms as: renal failure and a single patient with renal impairment.
 
-- Þ Pooled reports include such terms as: rash; rash generalized; rash macular; rash maculopapular; rash pruritic.
+- g Pooled reports include such terms as: rash; rash generalized; rash macular; rash maculopapular; rash pruritic.
 - Abbreviations: ALT = alanine aminotransferase; LFT = liver function test
 
 The following adverse reactions with incidence less than 5% were reported in 105 pediatric patients treated with voriconazole:

@@ -6,7 +6,7 @@ Voriconazole is an antifungal drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-Exposure-Response Relationship For Efficacy and Safety
+Exposure-Response Relationship for Efficacy and Safety
 
 In 10 clinical trials (N=1121), the median values for the average and maximum voriconazole plasma concentrations in individual patients across these studies was 2.51 mcg/mL (inter-quartile range 1.21 to 4.44 mcg/mL) and 3.79 mcg/mL (inter-quartile range 2.06 to 6.31 mcg/mL), respectively.
 A pharmacokinetic-pharmacodynamic analysis of patient data from 6 of these 10 clinical trials (N=280) could not detect a positive association between mean, maximum or minimum plasma voriconazole concentration and efficacy.
@@ -266,7 +266,7 @@ Digoxin (P-glycoprotein mediated transport)
 
 Voriconazole (200 mg every 12 hours × 12 days) had no significant effect on steady state Cmax and AUCτ of digoxin (0.25 mg once daily for 10 days) in healthy subjects.
 
-Mycophenolic Acid (UDP-glucuronyl transferase substrate)
+Mycophenolic acid (UDP-glucuronyl transferase substrate)
 
 Voriconazole (200 mg every 12 hours × 5 days) had no significant effect on the Cmax and AUCτ of mycophenolic acid and its major metabolite, mycophenolic acid glucuronide after administration of a 1 gram single oral dose of mycophenolate mofetil.
 

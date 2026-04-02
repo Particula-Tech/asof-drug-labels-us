@@ -6,7 +6,7 @@ Administer voriconazole tablets at least one hour before or after a meal.
 
 ## 2.3 Recommended Dosing Regimen in Adults
 
-Invasive Aspergillosis and Serious Fungal Infections due to Fusarium spp. and Scedosporium apiospermum
+Invasive aspergillosis and serious fungal infections due to Fusarium spp. and Scedosporium apiospermum
 
 See Table 1.
 Therapy must be initiated with the specified loading dose regimen of intravenous voriconazole on Day 1 followed by the recommended maintenance dose (RMD) regimen.
@@ -14,7 +14,7 @@ Intravenous treatment should be continued for at least 7 days.
 Once the patient has clinically improved and can tolerate medication given by mouth, the oral tablet form or oral suspension form of voriconazole may be utilized.
 The recommended oral maintenance dose of 200 mg achieves a voriconazole exposure similar to 3 mg/kg intravenously; a 300 mg oral dose achieves an exposure similar to 4 mg/kg intravenously [see Clinical Pharmacology (12.3)].
 
-Candidemia in Non-neutropenic Patients and Other Deep Tissue Candida Infections
+Candidemia in non-neutropenic patients and other deep tissue candida infections
 
 See Table 1.
 Patients should be treated for at least 14 days following resolution of symptoms or following last positive culture, whichever is longer.
@@ -26,32 +26,29 @@ Patients should be treated for a minimum of 14 days and for at least 7 days foll
 
 Table 1: Recommended Dosing Regimen (Adults)
 
-|  | Intravenous infusion | Intravenous infusion | Oral tablets‡ |
+|  | Intravenous infusion | Intravenous infusion | Oral tabletsc |
 | --- | --- | --- | --- |
-| Infection | Loading Dose | Maintenance Dose*,† |  |
-| Invasive Aspergillosis§ | 6 mg/kg every 12 hours for the first 24 hours | 4 mg/kg every 12 hours | 200 mg every 12 hours |
-| Candidemia in nonneutropenic patients and other deep tissue Candida infections | 6 mg/kg every 12 hours for the first 24 hours | 3 to 4 mg/kg every 12 hours¶ | 200 mg every 12 hours |
-| Esophageal Candidiasis | Not Evaluated# | Not Evaluated# | 200 mg every 12 hours |
+| Infection | Loading Dose | Maintenance Dosea,b |  |
+| Invasive Aspergillosisd | 6 mg/kg every 12 hours for the first 24 hours | 4 mg/kg every 12 hours | 200 mg every 12 hours |
+| Candidemia in nonneutropenic patients and other deep tissue Candida infections | 6 mg/kg every 12 hours for the first 24 hours | 3 to 4 mg/kg every 12 hourse | 200 mg every 12 hours |
+| Esophageal Candidiasis | Not Evaluatedf | Not Evaluatedf | 200 mg every 12 hours |
 | Scedosporiosis and Fusariosis | 6 mg/kg every 12 hours for the first 24 hours | 4 mg/kg every 12 hours | 200 mg every 12 hours |
 
-- *Increase dose when voriconazole is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.5)
-- †In healthy volunteer studies, the 200 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 3 mg/kg intravenous infusion every 12 hours dose; the 300 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 4 mg/kg intravenous infusion every 12 hours dose (12).
-- ‡Adult patients who weigh less than 40 kg should receive half of the oral maintenance dose.
-- §In a clinical study of IA, the median duration of intravenous voriconazole therapy was 10 days (range 2 to 85 days).
+- aIncrease dose when voriconazole is coadministered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.5)
+- bIn healthy volunteer studies, the 200 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 3 mg/kg intravenous infusion every 12 hours dose; the 300 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 4 mg/kg intravenous infusion every 12 hours dose (12).
+- cAdult patients who weigh less than 40 kg should receive half of the oral maintenance dose.
+- dIn a clinical study of IA, the median duration of intravenous voriconazole therapy was 10 days (range 2 to 85 days).
   The median duration of oral voriconazole therapy was 76 days (range 2 to 232 days) (14.1).
-- ¶In clinical trials, patients with candidemia received 3 mg/kg intravenous infusion every 12 hours as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg every 12 hours as salvage therapy.
+- eIn clinical trials, patients with candidemia received 3 mg/kg intravenous infusion every 12 hours as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg every 12 hours as salvage therapy.
   Appropriate dose should be based on the severity and nature of the infection.
-- #Not evaluated in patients with EC.
+- fNot evaluated in patients with EC.
 
 Method for Adjusting the Dosing Regimen in Adults
 
-• If patient's response is inadequate, the oral maintenance dose may be increased from 200 mg every 12 hours (similar to 3 mg/kg intravenously every 12 hours) to 300 mg every 12 hours (similar to 4 mg/kg intravenously every 12 hours).
-
-• For adult patients weighing less than 40 kg, the oral maintenance dose may be increased from 100 mg every 12 hours to 150 mg every 12 hours.
-
-• If patient is unable to tolerate 300 mg orally every 12 hours, reduce the oral maintenance dose by 50 mg steps to a minimum of 200 mg every 12 hours (or to 100 mg every 12 hours for adult patients weighing less than 40 kg).
-
-• If patient is unable to tolerate 4 mg/kg intravenously every 12 hours, reduce the intravenous maintenance dose to 3 mg/kg every 12 hours.
+- •If the patient's response is inadequate, the oral maintenance dose may be increased from 200 mg every 12 hours (similar to 3 mg/kg intravenously every 12 hours) to 300 mg every 12 hours (similar to 4 mg/kg intravenously every 12 hours).
+- •For adult patients weighing less than 40 kg, the oral maintenance dose may be increased from 100 mg every 12 hours to 150 mg every 12 hours.
+- •If the patient is unable to tolerate 300 mg orally every 12 hours, reduce the oral maintenance dose by 50 mg steps to a minimum of 200 mg every 12 hours (or to 100 mg every 12 hours for adult patients weighing less than 40 kg).
+- •If the patient is unable to tolerate 4 mg/kg intravenously every 12 hours, reduce the intravenous maintenance dose to 3 mg/kg every 12 hours.
 
 ## 2.4 Recommended Dosing Regimen in Pediatric Patients
 
@@ -66,7 +63,7 @@ For pediatric patients 12 to 14 years of age with a body weight greater than or 
 | Invasive Aspergillosis* | 9 mg/kg every 12 hours for the first 24 hours | 8 mg/kg every 12 hours after the first 24 hours | 9 mg/kg every 12 hours (maximum dose of 350 mg every 12 hours) |
 | Candidemia in nonneutropenics and other deep tissue Candida infections† |  |  |  |
 | Scedosporiosis and Fusariosis |  |  |  |
-| Esophageal Candidiasis† | Not Evaluated | 4 mg/kg every 12 hours | 9mg/kg every 12 hours(maximum dose of 350 mg every 12 hours) |
+| Esophageal Candidiasis† | Not Evaluated | 4 mg/kg every 12 hours | 9 mg/kg every 12 hours(maximum dose of 350 mg every 12 hours) |
 
 - ˆ Based on a population pharmacokinetic analysis in 112 immunocompromised pediatric patients aged 2 to less than 12 years of age and 26 immunocompromised pediatric patients aged 12 to less than 17 years of age.
 - * In the Phase 3 clinical trials, patients with IA received intravenous (IV) treatment for at least 6 weeks and up to a maximum of 12 weeks.
@@ -92,7 +89,7 @@ Method for Adjusting the Dosing Regimen in Pediatric Patients
 Pediatric Patients 2 to less than 12 years of age and 12 to 14 years of age with body weight less than 50 kg
 
 If patient response is inadequate and the patient is able to tolerate the initial intravenous maintenance dose, the maintenance dose may be increased by 1 mg/kg steps.
-If patient response is inadequate and the patient is able to tolerate the oral maintenance dose, the dose may be increased by 1 mg/kg steps (0.0025 mL/kg) steps or 50 mg (1.25 mL) steps to a maximum of 350 mg every 12 hours.
+If patient response is inadequate and the patient is able to tolerate the oral maintenance dose, the dose may be increased by 1 mg/kg (0.025 mL/kg) steps or 50 mg (1.25 mL) steps to a maximum of 350 mg every 12 hours.
 If patients are unable to tolerate the initial intravenous maintenance dose, reduce the dose by 1 mg/kg steps.
 If patients are unable to tolerate the oral maintenance dose, reduce the dose by 1 mg/kg or 50 mg steps.
 
@@ -140,7 +137,7 @@ Pediatric Patients
 
 Dosage adjustment of voriconazole in pediatric patients with renal impairment has not been established [see Use in Specific Populations (8.4)].
 
-## 2.7 Dosage Adjustment When Co-Administered With Phenytoin or Efavirenz
+## 2.7 Dosage Adjustment When Coadministered With Phenytoin or Efavirenz
 
-The maintenance dose of voriconazole should be increased when co-administered with phenytoin or efavirenz.
+The maintenance dose of voriconazole should be increased when coadministered with phenytoin or efavirenz.
 Use the optimal method for titrating dosage [see Drug Interactions (7) and Dosage and Administration (2.3)].
