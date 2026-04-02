@@ -49,6 +49,10 @@ Advise patients to report to their healthcare provider if they start treatment w
 Administration
 
 - Instruct patients not to substitute:
+  - •Two packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
+  - •Two 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.
+- •Two packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
+- •Two 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.
 
 - •Two packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
 - •Two 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.

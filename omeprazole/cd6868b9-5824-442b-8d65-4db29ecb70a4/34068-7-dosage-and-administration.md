@@ -5,9 +5,9 @@
 - •ZEGERID (omeprazole and sodium bicarbonate) is available as a capsule and as a powder for oral suspension in 20 mg and 40 mg strengths of omeprazole for adult use.
   All recommended doses throughout the labeling are based upon omeprazole.
 - •The sodium content of ZEGERID capsules and ZEGERID for oral suspension should be taken into consideration when prescribing this product [see Warnings and Precautions (5.3)]:
-  - •ZEGERID capsule: each 20 mg and 40 mg capsule contains 1,100 mg (13 mEq) of sodium bicarbonate.
+  - oZEGERID capsule: each 20 mg and 40 mg capsule contains 1,100 mg (13 mEq) of sodium bicarbonate.
     The total content of sodium in each capsule is 304 mg.
-  - •ZEGERID for oral suspension: each 20 mg and 40 mg packet of contains 1,680 mg (20 mEq) of sodium bicarbonate.
+  - oZEGERID for oral suspension: each 20 mg and 40 mg packet of contains 1,680 mg (20 mEq) of sodium bicarbonate.
     The total content of sodium in each packet is 460 mg.
 - •Due to the sodium bicarbonate content of ZEGERID:
 - •Do not substitute two packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.

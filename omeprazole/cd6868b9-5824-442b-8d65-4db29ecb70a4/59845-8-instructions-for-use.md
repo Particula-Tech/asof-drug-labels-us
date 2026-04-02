@@ -23,6 +23,28 @@ Giving ZEGERID for oral suspension with water through a nasogastric (NG) tube or
 
 - Important: For patients receiving ZEGERID through a NG tube or OG tube, enteral feeding should be stopped approximately 3 hours before giving ZEGERID.
   You should wait at least 1 hour after giving ZEGERID before you start enteral feeding again.
+  - 1.ZEGERID comes in packets containing 20 mg or 40 mg of ZEGERID.
+  - 2.You will mix ZEGERID with 20 mL of water in a catheter tipped syringe.
+  - 3.Use only a catheter tipped syringe to give ZEGERID through the NG or OG tube.
+    Talk to your doctor about the size catheter tipped syringe you should use.
+  - 4.Add 20 mL of water to the catheter tipped syringe.
+    Do not use any food or liquids other than water to mix ZEGERID.
+  - 5.Add the contents of 1 packet of ZEGERID to the syringe.
+  - 6.Shake the syringe well to dissolve the powder.
+  - 7.Inject the medicine through the NG or OG tube into the stomach right away.
+  - 8.Refill the syringe with the same amount of water (20 mL) you used to prepare your dose of ZEGERID.
+  - 9.Shake the syringe and flush any remaining medicine from the NG tube or OG tube into the stomach.
+- 1.ZEGERID comes in packets containing 20 mg or 40 mg of ZEGERID.
+- 2.You will mix ZEGERID with 20 mL of water in a catheter tipped syringe.
+- 3.Use only a catheter tipped syringe to give ZEGERID through the NG or OG tube.
+  Talk to your doctor about the size catheter tipped syringe you should use.
+- 4.Add 20 mL of water to the catheter tipped syringe.
+  Do not use any food or liquids other than water to mix ZEGERID.
+- 5.Add the contents of 1 packet of ZEGERID to the syringe.
+- 6.Shake the syringe well to dissolve the powder.
+- 7.Inject the medicine through the NG or OG tube into the stomach right away.
+- 8.Refill the syringe with the same amount of water (20 mL) you used to prepare your dose of ZEGERID.
+- 9.Shake the syringe and flush any remaining medicine from the NG tube or OG tube into the stomach.
 
 1. 1.ZEGERID comes in packets containing 20 mg or 40 mg of ZEGERID.
 2. 2.You will mix ZEGERID with 20 mL of water in a catheter tipped syringe.

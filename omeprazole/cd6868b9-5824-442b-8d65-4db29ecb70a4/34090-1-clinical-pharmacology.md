@@ -77,7 +77,7 @@ Table 9: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax of
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Day 1 | Day 7 | % Change (Day 7/Day 1) | Day 1 | Day 7 | % Change (Day 7/Day 1) |
 | Cmax (ng/mL) | 498.1 (50.9) | 679.8 (44.0) | 36 | 1154 (53.0) | 1526 (48.7) | 32 |
-| Tmax (hr)[min – max] | 0.61 [0.25-1.5] | 0.82 [0.25-1.5] | n.a. | 0.56 [0.25-1.5] | 0.97 [0.25-3.5] | n.a. |
+| Tmax (hr)[min – max] | 0.61[0.25-1.5] | 0.82[0.25-1.5] | n.a. | 0.56[0.25-1.5] | 0.97[0.25-3.5] | n.a. |
 | AUC0-inf AUC0-24h was used on Day 7(ng•hr/mL) | 509.7 (60.5) | 1029 (67.9) | 102 | 1882 (120) | 3866 (83.3) | 105 |
 | n.a.: not applicable |  |  |  |  |  |  |
 
@@ -209,9 +209,7 @@ Effect of Other Drugs on Omeprazole
 Voriconazole
 
 Concomitant administration of omeprazole and voriconazole (a combined inhibitor of CYP2C19 and CYP3A4) resulted in more than doubling of the omeprazole exposure.
-When voriconazole (400 mg every 12 hours for one day, followed by 200 mg once daily for 6 days) was given with omeprazole (40 mg once daily for 7 days) to healthy subjects, the steady-state Cmax and AUC0-24 of omeprazole significantly increased: an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90%
-
-CI: 3.3, 4.4), respectively, as compared to when omeprazole was given without voriconazole [see Drug Interactions (7)].
+When voriconazole (400 mg every 12 hours for one day, followed by 200 mg once daily for 6 days) was given with omeprazole (40 mg once daily for 7 days) to healthy subjects, the steady-state Cmax and AUC0-24 of omeprazole significantly increased: an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4), respectively, as compared to when omeprazole was given without voriconazole [see Drug Interactions (7)].
 
 ## 12.5 Pharmacogenomics
 
@@ -221,9 +219,7 @@ There are other alleles associated with no or reduced enzymatic function.
 Patients carrying two fully functional alleles are extensive metabolizers and those carrying two loss-of-function alleles are poor metabolizers.
 In extensive metabolizers, omeprazole is primarily metabolized by CYP2C19.
 
-The systemic exposure to omeprazole varies with a patient’s metabolism status: poor metabolizers > intermediate
-
-metabolizers > extensive metabolizers.
+The systemic exposure to omeprazole varies with a patient’s metabolism status: poor metabolizers > intermediate metabolizers > extensive metabolizers.
 Approximately 3% of Caucasians and 15 to 20% of Asians are CYP2C19 poor metabolizers.
 
 In pharmacokinetic studies of single 20 mg omeprazole dose, the AUC of omeprazole in Asian subjects was approximately four-fold of that in Caucasians [see Use in Specific Populations (8.7)].
