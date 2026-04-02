@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021532"
+  ],
+  "inn": "olmesartan",
+  "labeler": "Cosette Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0713-0943-30",
+    "0713-0944-30",
+    "0713-0945-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "olmesartan medoxomil-hydrochlorothiazide",
+      "name": "Benicar HCT"
+    }
+  ],
+  "setid": "a90915ca-f9d3-4fff-8370-d5dc4cdfc521",
+  "source": "dailymed"
+}
