@@ -30,7 +30,7 @@ Other than oral clefts, no specific pattern of major congenital malformations or
 In the NAAED pregnancy registry, when topiramate-exposed infants with only oral clefts were excluded, the prevalence of major congenital malformations (4.1%) was higher than that in infants exposed to a reference AED (1.8%) or in infants with mothers without epilepsy and without exposure to AEDs (1.1%).
 The prevalence of oral clefts among topiramate-exposed infants (1.4%) was higher than the prevalence in infants exposed to a reference AED (0.3%) or the prevalence in infants with mothers without epilepsy and without exposure to AEDs (0.11%).
 It was also higher than the background prevalence in United States (0.17%) as estimated by the Centers for Disease Control and Prevention (CDC).
-The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 12.5 (95% Confidence Interval [CI]5.9 to 26.37) as compared to the risk in a background population of untreated women.
+The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 12.5 (95% Confidence Interval [CI] 5.9 to 26.37) as compared to the risk in a background population of untreated women.
 The UK Epilepsy and Pregnancy Register reported a prevalence of oral clefts among infants exposed to topiramate monotherapy (3.2%) that was 16 times higher than the background rate in the UK (0.2%).
 
 Data from the NAAED pregnancy registry and a population-based birth registry cohort indicate that exposure to topiramate in utero is associated with an increased risk of SGA newborns (birth weight <10th percentile).
@@ -95,7 +95,7 @@ The incidence of these abnormal shifts was 6% for placebo, 10% for 5 mg/kg/day, 
 There was a mean dose-related increase in alkaline phosphatase.
 The significance of these findings is uncertain.
 
-Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.12)].
+Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.14)].
 
 Treatment with topiramate for up to 1 year was associated with reductions in Z SCORES for length, weight, and head circumference [see Warnings and Precautions (5.4), Adverse Reactions (6)].
 
@@ -122,11 +122,11 @@ Subgroup analyses according to age demonstrated similar negative effects for all
 
 Table 10: Summary of Topiramate Treatment Difference Results at 12 Months for Key Safety Outcomes
 
-| Safety Parameter | Treatment Difference in Least Square Means (95 % Confidence Interval) |
+| Safety Parameter | Treatment Difference in Least Square Means (95% Confidence Interval) |
 | --- | --- |
 | Annual Change in BMD Lumbar Spine (g/cm2) | -0.036 (-0.058, -0.014) |
 | Annual Change in BMD TBLH* (g/cm2) | -0.026 (-0.039, -0.012) |
-| Annual Change in Height (cm) (4 to 9 years, Primary Analysis Population for Height) ** | -0.84 (-2.67, 0.99) |
+| Annual Change in Height (cm) (4 to 9 years, Primary Analysis Population for Height)** | -0.84 (-2.67, 0.99) |
 | Annual Change in Height (cm) (4 to 15 years) | -0.75 (-2.21, 0.71) |
 | Annual Change in Height (cm) (10 to 15 years) | -1.01 (-3.64, 1.61) |
 | Height Velocity (cm/year) (4 to 9 years) | -1.00 (-2.76, 0.76) |
@@ -136,7 +136,7 @@ Table 10: Summary of Topiramate Treatment Difference Results at 12 Months for Ke
 
 * TBLH=total body less head
 
-** Whereas no patients were randomized to 2 to 5 year age subgroup for topiramate, 5 patients (4 to 5 years) were randomized to the active control group
+** Whereas no patients were randomized to 2 to 5 year age subgroup for topiramate, 5 patients (4 to 5 years) were randomized to the active control group.
 
 Metabolic acidosis (serum bicarbonate < 20 mEq/L) was observed in all topiramate-treated patients at some time in the study [see Warnings and Precautions (5.4)].
 Over the whole study, 76% more topiramate-treated patients experienced persistent metabolic acidosis (i.e.

@@ -10,10 +10,12 @@ The following serious adverse reactions are discussed in more detail in other se
 - Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
 - Decrease of Bone Mineral Density [see Warnings and Precautions (5.9)]
 - Negative Effects on Growth (Height and Weight) [see Warnings and Precautions (5.10)]
-- Serious Skin Reactions [see Warnings and Precautions (5.11)]
-- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.12)]
-- Kidney Stones [see Warnings and Precautions (5.13)]
-- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.14)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions [see Warnings and Precautions (5.11)]
+- Serious Skin Reactions [see Warnings and Precautions (5.12)]
+- Anaphylaxis and Angioedema [see Warnings and Precautions (5.13)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.14)]
+- Kidney Stones [see Warnings and Precautions (5.15)]
+- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.16)]
 
 The data described in the following sections were obtained using topiramate tablets.
 
@@ -65,7 +67,7 @@ Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Gr
 | Gastritis |  |  | 0 | 3 |
 | Dry mouth |  |  | 1 | 3 |
 | Liver and Biliary System Disorders |  |  |  |  |
-| Increase in Gamma-GT |  |  | 1 | 3 |
+| Increase in gamma-GT |  |  | 1 | 3 |
 | Metabolic and Nutritional Disorders |  |  |  |  |
 | Weight loss | 7 | 17 | 6 | 17 |
 | Platelet, Bleeding & Clotting Disorders |  |  |  |  |
@@ -375,12 +377,12 @@ Laboratory Test Abnormalities
 
 Adult Patients
 
-In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride and ammonia, topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.12)].
+In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride and ammonia, topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.14)].
 Controlled trials of adjunctive topiramate treatment of adults for partial-onset seizures showed an increased incidence of markedly decreased serum phosphorus (6% topiramate versus 2% placebo), markedly increased serum alkaline phosphatase (3% topiramate versus 1% placebo), and decreased serum potassium (0.4% topiramate versus 0.1% placebo).
 
 Pediatric Patients
 
-In pediatric patients (1 to 24 months) receiving adjunctive topiramate for partial-onset seizures, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, alkaline phosphatase, and total protein, The incidence was also increased for a decreased result for bicarbonate (i.e., metabolic acidosis), and potassium with topiramate (vs placebo) [see Use in Specific Populations (8.4)].
+In pediatric patients (1 to 24 months) receiving adjunctive topiramate for partial-onset seizures, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, blood urea nitrogen (BUN), alkaline phosphatase, and total protein, The incidence was also increased for a decreased result for bicarbonate (i.e., metabolic acidosis), and potassium with topiramate (vs placebo) [see Use in Specific Populations (8.4)].
 Topiramate is not indicated for partial-onset seizures in pediatric patients less than 2 years of age.
 
 In pediatric patients (ranging from 6 to 17 years of age) receiving topiramate for the preventive treatment of migraine, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, uric acid, chloride, ammonia, alkaline phosphatase, total protein, platelets, and eosinophils, The incidence was also increased for a decreased result for phosphorus, bicarbonate, total white blood count, and neutrophils [see Use in Specific Populations (8.4)].
@@ -391,12 +393,14 @@ Topiramate is not indicated for the preventive treatment of migraine in pediatri
 The following adverse reactions have been identified during post approval use of topiramate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole-General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.12)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.14)]
+Body as a Whole-General Disorders: immediate hypersensitivity reactions (including anaphylaxis and angioedema) [see Warnings and Precautions (5.13)], delayed hypersensitivity reactions (including facial swelling, lip swelling, periorbital swelling, tongue swelling), oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.14)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.16)]
 
 Gastrointestinal System Disorders: hepatic failure (including fatalities), hepatitis, pancreatitis
 
-Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.11)], pemphigus
+Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.12)], pemphigus, urticaria
 
-Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.13)]
+Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.15)]
 
-Vision Disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy Hematological Disorders: decrease of the International Normalized Ratio (INR) or prothrombin time when given concomitantly with vitamin K antagonist anticoagulant medications such as warfarin.
+Vision Disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
+
+Hematological Disorders: decrease of the International Normalized Ratio (INR) or prothrombin time when given concomitantly with vitamin K antagonist anticoagulant medications such as warfarin.
