@@ -16,6 +16,16 @@ In such patients, cardiac function should be monitored with particular care duri
 
 As with levodopa, treatment with SINEMET may increase the possibility of upper gastrointestinal hemorrhage in patients with a history of peptic ulcer.
 
+Vitamin B6 Deficiency and Seizures
+
+Treatment with SINEMET may contribute to reduced vitamin B6 levels.
+Higher doses of carbidopa/levodopa may increase the risk of vitamin B6 deficiency.
+Seizures associated with vitamin B6 deficiency have been reported in the postmarketing setting in patients taking SINEMET.
+In these reported cases, seizures were refractory to traditional anti-seizure medications and only resolved after vitamin B6 administration.
+Other symptoms of vitamin B6 deficiency may occur, including depression, confusion, cheilosis, glossitis, dermatitis, anemia, and/or neuropathy.
+Evaluate vitamin B6 levels prior to initiation of SINEMET and periodically while on treatment or if symptoms associated with vitamin B6 deficiency are identified.
+Supplement with vitamin B6 as necessary.
+
 Falling Asleep During Activities of Daily Living and Somnolence
 
 Patients taking SINEMET alone or with other dopaminergic drugs have reported suddenly falling asleep without prior warning of sleepiness while engaged in activities of daily living (includes operation of motor vehicles).
@@ -115,6 +125,9 @@ Although it is not proven that the medications caused these events, these urges 
 Prescribers should ask patients about the development of new or increased gambling urges, sexual urges or other urges while being treated with SINEMET.
 Patients should inform their physician if they experience new or increased gambling urges, increased sexual urges, or other intense urges while taking SINEMET.
 Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking SINEMET (See PRECAUTIONS, Impulse Control / Compulsive Behaviors).
+
+Inform patients that vitamin B6 deficiency may develop during treatment with carbidopa/levodopa therapies, including SINEMET.
+Tell patients to inform their healthcare provider if they develop symptoms such as depression, confusion, cheilosis, glossitis, dermatitis, anemia, neuropathy, and/or seizures (see WARNINGS, Vitamin B6 Deficiency and Seizures).
 
 Laboratory Tests
 

@@ -7,6 +7,12 @@ Tablets of the two ratios may be given separately or combined as needed to provi
 Studies show that peripheral dopa decarboxylase is saturated by carbidopa at approximately 70 to 100 mg a day.
 Patients receiving less than this amount of carbidopa are more likely to experience nausea and vomiting.
 
+Management of Vitamin B6 Levels
+
+Evaluate vitamin B6 levels prior to initiating carbidopa/levodopa therapies, including SINEMET, periodically during treatment, and as clinically indicated (See WARNINGS, Vitamin B6 Deficiency and Seizures).
+If vitamin B6 levels are low, supplement to sufficient levels per standard of care.
+Patients may initiate and continue treatment with SINEMET while supplementing vitamin B6.
+
 Usual Initial Dosage
 
 Dosage is best initiated with one tablet of SINEMET 25-100 three times a day.

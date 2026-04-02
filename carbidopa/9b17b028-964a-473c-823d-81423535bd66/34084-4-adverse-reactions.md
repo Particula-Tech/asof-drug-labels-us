@@ -30,8 +30,7 @@ Back pain, shoulder pain, muscle cramps.
 
 Nervous System/Psychiatric
 
-Psychotic episodes including delusions, hallucinations, and paranoid ideation, bradykinetic episodes ("on-off" phenomenon), confusion, agitation, dizziness, somnolence, dream abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without development of suicidal tendencies, dementia, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
-Convulsions also have occurred; however, a causal relationship with SINEMET has not been established.
+Psychotic episodes including delusions, hallucinations, and paranoid ideation, bradykinetic episodes ("on-off" phenomenon), confusion, agitation, dizziness, somnolence, dream abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without development of suicidal tendencies, dementia, pathological gambling, increased libido including hypersexuality, impulse control symptoms, seizures (including convulsions).
 
 Respiratory
 
@@ -97,4 +96,4 @@ Bizarre breathing patterns, faintness, hoarseness, malaise, hot flashes, sense o
 
 Laboratory Tests
 
-Decreased white blood cell count and serum potassium; increased serum creatinine and uric acid; protein and glucose in urine.
+Decreased white blood cell count and serum potassium; increased serum creatinine and uric acid; protein and glucose in urine; decreased vitamin B6 levels.
