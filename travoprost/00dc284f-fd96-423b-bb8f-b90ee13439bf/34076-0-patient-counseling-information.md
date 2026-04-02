@@ -28,10 +28,10 @@ Use with Other Ophthalmic Drugs
 
 If more than one topical ophthalmic drug is being used, the drugs should be administered at least 5 minutes between applications.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Bangalore, India
 
-SEPTEMBER 2023
+50107944
 
-1034574
+Revised: 1/2026 M:TRAVOS:R1

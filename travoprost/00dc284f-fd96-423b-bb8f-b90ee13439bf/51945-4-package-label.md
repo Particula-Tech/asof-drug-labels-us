@@ -2,11 +2,15 @@
 
 NDC 0378-9651-32
 
+Travoprost Ophthalmic Solution, USP
+
 0.004%
 
 (Ionic Buffered Solution)
 
-FOR USE IN THE EYES ONLY
+FOR TOPICAL EYE USE
+
+Sterile
 
 Rx only 2.5 mL
 
@@ -16,8 +20,9 @@ Inactives: boric acid, polyoxyl 40 hydrogenated castor oil, propylene glycol, so
 
 Preserved in the bottle with an ionic buffered system.
 
-Usual Dosage: Instill one drop in the affected eye(s) once daily in the evening.
-See accompanying prescribing information.
+Recommended Dosage: Instill one drop in the affected eye(s) once daily in the evening.
+
+Retain the bottle in the carton until time of use.
 
 This package is not child resistant.
 
@@ -27,10 +32,10 @@ Keep container tightly closed.
 
 Storage: Store at 2° to 25℃ (36° to 77°F).
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A. Viatris.com
 
 Made in India
 
-Code No.: TN/DRUGS/TN00003234
+M:9651:32:1C:R1
 
-Mylan.com
+Code No.: TN/DRUGS/TN00003234

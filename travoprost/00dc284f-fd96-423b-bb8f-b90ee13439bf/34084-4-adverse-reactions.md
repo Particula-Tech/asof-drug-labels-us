@@ -8,9 +8,9 @@ The most common adverse reaction observed in controlled clinical trials with tra
 Up to 3% of patients discontinued therapy due to conjunctival hyperemia.
 Ocular adverse reactions reported at an incidence of 5% to 10% in these clinical trials included decreased visual acuity, eye discomfort, foreign body sensation, pain, and pruritus.
 
-Ocular adverse reactions reported at an incidence of 1 % to 4% in clinical trials with travoprost ophthalmic solution 0.004% included abnormal vision, blepharitis, blurred vision, cataract, conjunctivitis, corneal staining, dry eye, iris discoloration, keratitis, lid margin crusting, ocular inflammation, photophobia, subconjunctival hemorrhage, and tearing.
+Ocular adverse reactions reported at an incidence of 1% to 4% in clinical trials with travoprost ophthalmic solution 0.004% included abnormal vision, blepharitis, blurred vision, cataract, conjunctivitis, corneal staining, dry eye, iris discoloration, keratitis, lid margin crusting, ocular inflammation, photophobia, subconjunctival hemorrhage, and tearing.
 
-Non-ocular adverse reactions reported at an incidence of 1 % to 5% in these clinical studies were allergy, angina pectoris, anxiety, arthritis, back pain, bradycardia, bronchitis, chest pain, cold/flu syndrome, depression, dyspepsia, gastrointestinal disorder, headache, hypercholesterolemia, hypertension, hypotension, infection, pain, prostate disorder, sinusitis, urinary incontinence, and urinary tract infections.
+Non-ocular adverse reactions reported at an incidence of 1% to 5% in these clinical studies were allergy, angina pectoris, anxiety, arthritis, back pain, bradycardia, bronchitis, chest pain, cold/flu syndrome, depression, dyspepsia, gastrointestinal disorder, headache, hypercholesterolemia, hypertension, hypotension, infection, pain, prostate disorder, sinusitis, urinary incontinence, and urinary tract infections.
 
 ## 6.2 Postmarketing Experience
 
