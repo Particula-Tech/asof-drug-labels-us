@@ -1,55 +1,219 @@
-# PRINCIPAL DISPLAY PANEL
+# PACKAGE LABEL. PRINCIPAL DISPLAY PANEL
 
-NDC 0143-9579-01 Rx only Lidocaine HCl Injection, USP 1% 20 mg/2 mL (10 mg/mL) For Infiltration and Nerve Block Not For Epidural or Caudal Use 2 mL Multiple Dose Vial
+NDC 0143-9579-01 Rx only
 
-NDC 0143-9579-25 Rx only Lidocaine HCl Injection, USP 1% 20 mg/2mL (10 mg/mL) For Infiltration and Nerve Block Not For Epidural or Caudal Use Methylparaben as Preservative 25 x 2 mL Multiple Dose Vials
+Lidocaine HCl Injection, USP
 
-# PRINCIPAL DISPLAY PANEL
+1%
 
-NDC 0143-9172-01 Rx only Lidocaine HCl Injection, USP 1% 200 mg per 20 mL (10 mg/mL) For Infiltration and Nerve Block Not For Epidural or Caudal Use
+20 mg/2 mL (10 mg/mL)
 
-Methylparaben as Preservative 20 mL Multiple-Dose Vial
+For Filtration and Nerve Block
 
-NDC 0143-9172-10 Rx only Lidocaine HCl Injection, USP 1% 200 mg per 20 mL (10 mg/mL) For Infiltration and Nerve Block Not For Epidural or Caudal Use
+Not for Epidural or Caudal Use
 
-Methylparaben as Preservative 10 x 20 mL Multiple-Dose Vials
+2 mL Multiple Dose Vial
 
-# PRINCIPAL DISPLAY PANEL
+NDC 0143-9579-25 Rx only
 
-NDC 0143-9578-01 Rx only Lidocaine HCl Injection, USP 1% 300 mg/30 mL (10 mg/mL) For Infiltration and Nerve Block Not For Epidural or Caudal Use 30 mL Multiple Dose Vial
+Lidocaine HCl Injection, USP
 
-NDC 0143-9578-10 Rx only Lidocaine HCl Injection, USP 1% 300 mg/30 mL (10 mg/mL) For Infiltration and Nerve Block Not For Epidural or Caudal Use Methylparaben as Preservative 10 x 30 mL Multiple Dose Vials
+1%
 
-# PRINCIPAL DISPLAY PANEL
+20 mg/2 mL (10 mg/mL)
 
-NDC 0143-9577-01 Rx only Lidocaine HCl Injection, USP 1% (500 mg/50 mL) (10 mg/mL) For Infiltration and Nerve Block NOT For Epidural or Caudal Use Methylparaben as Preservative 50 mL Multiple Dose Vial
+For Filtration and Nerve Block
 
-NDC 0143-9577-10 Rx only Lidocaine HCl Injection, USP 1% (500 mg/50 mL) (10 mg/mL) For Infiltration and Nerve Block NOT For Epidural or Caudal Use Methylparaben as Preservative 10 x 50 mL Multiple Dose Vials
+Not for Epidural or Caudal Use
 
-# PRINCIPAL DISPLAY PANEL
+Methylparaben as Preservative
 
-NDC 0143-9576-01 Rx only Lidocaine HCl Injection, USP 2% 40 mg/2 mL (20 mg/mL) For Infiltration and Nerve Block Not For Epidural or Caudal Use 2 mL Multiple Dose Vial
+25 x 2 mL Multiple Dose Vials
 
-NDC 0143-9576-25 Rx only Lidocaine HCl Injection, USP 2% 40 mg/2mL (20 mg/mL) For Infiltration and Nerve Block Not For Epidural or Caudal Use Methylparaben as Preservative 25 x 2 mL Multiple Dose Vials
+NDC 0143-9172-01 Rx only
 
-# PRINCIPAL DISPLAY PANEL
+Lidocaine HCl Injection, USP
 
-NDC 0143-9173-01 Rx only Lidocaine HCl Injection, USP 2% 400 mg per 20 mL (20 mg/mL) For Infiltration and Nerve Block Not For Epidural or Caudal Use
+1%
 
-Methylparaben as Preservative 20 mL Multiple-Dose Vial
+200 mg per 20 mL (10 mg/mL)
+
+For Filtration and Nerve Block
+
+Not for Epidural or Caudal Use
+
+Methylparaben as Preservative
+
+20 mL Multiple Dose Vial
+
+NDC 0143-9172-10 Rx only
+
+Lidocaine HCl Injection, USP
+
+1%
+
+200 mg per 20 mL (10 mg/mL)
+
+For Filtration and Nerve Block
+
+Not for Epidural or Caudal Use
+
+Methylparaben as Preservative
+
+10 x 20 mL Multiple Dose Vials
+
+NDC 0143-9578-01 Rx only
+
+Lidocaine HCl Injection, USP
+
+1%
+
+300 mg/30 mL (10 mg/mL)
+
+For Filtration and Nerve Block
+
+Not for Epidural or Caudal Use
+
+30 mL Multiple Dose Vial
+
+NDC 0143-9578-10 Rx only
+
+Lidocaine HCl Injection, USP
+
+1%
+
+300 mg/30 mL (10 mg/mL)
+
+For Filtration and Nerve Block
+
+Not for Epidural or Caudal Use
+
+Methylparaben as Preservative
+
+10 x 30 mL Multiple Dose Vials
+
+NDC 0143-9577-01 Rx only
+
+Lidocaine HCl Injection, USP
+
+1%
+
+500 mg/50 mL (10 mg/mL)
+
+For Filtration and Nerve Block
+
+Not for Epidural or Caudal Use
+
+Methylparaben as Preservative
+
+50 mL Multiple Dose Vial
+
+NDC 0143-9577-10 Rx only
+
+Lidocaine HCl Injection, USP
+
+1%
+
+500 mg/50 mL (10 mg/mL)
+
+For Filtration and Nerve Block
+
+Not for Epidural or Caudal Use
+
+Methylparaben as Preservative
+
+10 x 50 mL Multiple Dose Vials
+
+NDC 0143-9576-01 Rx only
+
+Lidocaine HCl Injection, USP
+
+2%
+
+40 mg/2 mL (20 mg/mL)
+
+For Filtration and Nerve Block
+
+Not for Epidural or Caudal Use
+
+2 mL Multiple Dose Vials
+
+NDC 0143-9576-25 Rx only
+
+Lidocaine HCl Injection, USP
+
+2%
+
+40 mg/2 mL (20 mg/mL)
+
+For Filtration and Nerve Block
+
+Not for Epidural or Caudal Use
+
+Methylparaben as Preservative
+
+25 x 2 mL Multiple Dose Vials
+
+NDC 0143-9173-01 Rx only
+
+Lidocaine HCl Injection, USP
+
+2%
+
+400 mg per 20 mL (20 mg/mL)
+
+For Filtration and Nerve Block
+
+Not for Epidural or Caudal Use
+
+Methylparaben as Preservative
+
+20 mL Multiple Dose Vials
 
 NDC 0143-9173-10 Rx only
 
 Lidocaine HCl Injection, USP
 
-2% 400 mg per 20 mL (20 mg/mL) For Infiltration and Nerve Block Not For Epidural or Caudal Use
+2%
 
-Methylparaben as Preservative 10 x 20 mL Multiple-Dose Vials
+400 mg per 20 mL (20 mg/mL)
 
-# PRINCIPAL DISPLAY PANEL
+For Filtration and Nerve Block
 
-NDC 0143-9575-01 Rx only Lidocaine HCl Injection, USP 2% (1,000 mg/50 mL) (20 mg/mL) For Infiltration and Nerve Block NOT For Epidural or Caudal Use Methylparaben as Preservative 50 mL Multiple Dose Vial
+Not for Epidural or Caudal Use
+
+Methylparaben as Preservative
+
+10 x 20 mL Multiple Dose Vials
+
+NDC 0143-9575-01 Rx only
+
+Lidocaine HCl Injection, USP
+
+2%
+
+1,000 mg/50 mL (20 mg/mL)
+
+For Filtration and Nerve Block
+
+Not for Epidural or Caudal Use
+
+Methylparaben as Preservative
+
+50 mL Multiple Dose Vials
 
 NDC 0143-9575-10 Rx only
 
-Lidocaine HCl Injection, USP 2% (1,000 mg/50 mL) (20 mg/mL) For Infiltration and Nerve Block NOT For Epidural or Caudal Use Methylparaben as Preservative 10 x 50 mL Multiple Dose Vials
+Lidocaine HCl Injection, USP
+
+2%
+
+1,000 mg/50 mL (20 mg/mL)
+
+For Filtration and Nerve Block
+
+Not for Epidural or Caudal Use
+
+Methylparaben as Preservative
+
+10 x 50 mL Multiple Dose Vials

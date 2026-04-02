@@ -1,41 +1,60 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Systemic
+The following clinically significant adverse reactions have been reported and described in the Warnings and Precautions section of the labeling:
 
-Adverse experiences following the administration of lidocaine HCl are similar in nature to those observed with other amide local anesthetic agents.
-These adverse experiences are, in general, dose-related and may result from high plasma levels caused by excessive dosage, rapid absorption or inadvertent intravascular injection, or may result from a hypersensitivity, idiosyncrasy or diminished tolerance on the part of the patient.
-Serious adverse experiences are generally systemic in nature.
-The following types are those most commonly reported:
+- Dose-Related Toxicity [see Warnings and Precautions (5.1)]
+- Methemoglobinemia [see Warnings and Precautions (5.2)]
+- Chondrolysis with Intra-Articular Infusion [see Warnings and Precautions (5.4)]
+- Severe, Persistent Hypertension, Cerebrovascular Accidents, and Bradycardia Due to Drug Interactions [see Warnings and Precautions (5.5)]
+- Allergic-Type Reactions [seeWarnings and Precautions (5.6)]
+- Systemic Toxicities with Unintended Intravascular or Intrathecal Injection [see Warnings and Precautions (5.7)]
+- Respiratory Arrest Following Retrobulbar Block [see Warnings and Precautions (5.14)]
 
-## Central Nervous System
+The following adverse reactions from voluntary reports or clinical studies have been reported with lidocaine or lidocaine and epinephrine.
+Because many of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-CNS manifestations are excitatory and/or depressant and may be characterized by lightheadedness, nervousness, apprehension, euphoria, confusion, dizziness, drowsiness, tinnitus, blurred or double vision, vomiting, sensations of heat, cold or numbness, twitching, tremors, convulsions, unconsciousness, respiratory depression and arrest.
-The excitatory manifestations may be very brief or may not occur at all, in which case the first manifestation of toxicity may be drowsiness merging into unconsciousness and respiratory arrest.
+Adverse reactions to Lidocaine Hydrochloride Injection are characteristic of those associated with other amidetype local anesthetic.
+A major cause of adverse reactions to this group of drugs is excessive plasma levels, which may be due to overdosage, unintentional intravascular injection, or slow metabolic degradation.
 
-Drowsiness following the administration of lidocaine HCl is usually an early sign of a high blood level of the drug and may occur as a consequence of rapid absorption.
+The most commonly encountered acute adverse reactions that demand immediate counter measures were related to the CNS and the cardiovascular system.
+These adverse reactions were generally dose-related and due to high plasma levels which may have resulted from overdosage, rapid absorption from the injection site, diminished tolerance, or from unintentional intravascular injection of the local anesthetic solution.
+In addition to systemic does-related toxicity, unintentional intrathecal injection of drug during the intended performance of caudal or lumbar epidural block or nerve blocks near the vertebral column (especially in the head and neck region) has resulted in underventilation or apnea (“Total or High Spinal”).
+Also, hypertension due to loss of sympathetic tone and respiratory paralysis or underventilation due to cephalad extension of the motor level of anesthesia have occurred.
+This has led to secondary cardiac arrest when untreated.
+When used for dental injections, paresthesia of the lips, tongue, and oral tissues have been reported.
+Persistent paresthesia lasting weeks to months and, in some instances, lasting greater than one year, have also been reported.
 
-## Cardiovascular System
-
-Cardiovascular manifestations are usually depressant and are characterized by bradycardia, hypotension, and cardiovascular collapse, which may lead to cardiac arrest.
-
-## Allergic
-
-Allergic reactions are characterized by cutaneous lesions, urticaria, edema or anaphylactoid reactions.
-Allergic reactions may occur as a result of sensitivity either to local anesthetic agents or to the methylparaben used as a preservative in the multiple dose vials.
-Allergic reactions, including anaphylactic reactions, may occur as a result of sensitivity to lidocaine, but are infrequent.
-If allergic reactions do occur, they should be managed by conventional means.
-The detection of sensitivity by skin testing is of doubtful value.
-
-There have been no reports of cross sensitivity between lidocaine hydrochloride and procainamide or between lidocaine hydrochloride and quinidine.
-
-## Neurologic
+Nervous System Disorders Adverse reactions were characterized by excitation and/or depression of the central nervous system and included lightheadedness, nervousness, apprehension, euphoria, confusion, dizziness, drowsiness, tinnitus, blurred or double vision, vomiting, sensations of heat, cold or numbness, twitching, tremors, convulsions, unconsciousness, respiratory depression and arrest.
 
 The incidences of adverse reactions associated with the use of local anesthetics may be related to the total dose of local anesthetic administered and are also dependent upon the particular drug used, the route of administration and the physical status of the patient.
-In a prospective review of 10,440 patients who received lidocaine HCl for spinal anesthesia, the incidences of adverse reactions were reported to be about 3 percent each for positional headaches, hypotension and backache; 2 percent for shivering; and less than 1 percent each for peripheral nerve symptoms, nausea, respiratory inadequacy and double vision.
-Many of these observations may be related to local anesthetic techniques, with or without a contribution from the local anesthetic.
+In a prospective review of 10,440 patients who received lidocaine hydrochloride for spinal anesthesia, the incidences of adverse reactions were reported to be about 3 percent each for positional headaches, hypotension and backache; 2 percent for shivering; and less than 1 percent each for peripheral nerve symptoms, nausea, respiratory inadequacy and double vision.
+Persistent motor, sensory and/or autonomic (sphincter control) deficit of some lower spinal segments with slow recovery (several months) or incomplete recovery have been reported in rare instances when caudal or lumbar epidural block has been attempted.
+Backache and headache have also been noted following use of these anesthetic procedures.
 
 There have been reported cases of permanent injury to extraocular muscles requiring surgical repair following retrobulbar administration.
 
-## Hematologic
+In the practice of caudal or lumbar epidural block, unintentional penetration of the subarachnoid space by the catheter or needle has occurred.
+Subsequent adverse effects may have depended partially on the amount of drug administered intrathecally and the physiological and physical effects of a dural puncture.
+A high spinal has been characterized by paralysis of the legs, loss of consciousness, respiratory paralysis, and bradycardia.
 
-Methemoglobinemia.
+Neurologic effects following epidural or caudal anesthesia have included spinal block of varying magnitude (including high or total spinal block); hypotension secondary to spinal block; urinary retention; fecal and urinary incontinence; loss of perineal sensation and sexual function; persistent anesthesia, paresthesia, weakness, paralysis of the lower extremities and loss of sphincter control, all of which had slow, incomplete, or no recovery; headache; backache; septic meningitis; meningismus; slowing of labor; increased incidence of forceps delivery; and cranial nerve palsies due to traction on nerves from loss of cerebrospinal fluid.
+
+Neurologic effects following other procedures or routes of administration have included persistent anesthesia, paresthesia, weakness, paralysis, all with slow, incomplete, or no recovery.
+
+Convulsions: Incidence varied with the procedure used and the total dose administered.
+In a survey of studies of epidural anesthesia, overt toxicity progressing to convulsions occurred in approximately 0.1% of local anesthetic administrations.
+The incidences of adverse neurologic reactions associated with the use of local anesthetics may be related to the total dose of local anesthetic administered and are also dependent upon the particular drug used, the route of administration, and the physical status of the patient.
+
+Cardiac Disorders: High doses or unintentional intravascular injection have led to high plasma levels and related depression of the myocardium, decreased cardiac output, heartblock, hypotension, bradycardia, ventricular arrhythmias, including ventricular tachycardia and ventricular fibrillation, and cardiac arrest [see Warnings and Precautions (5.9)].
+
+Immune System Disorders
+
+Allergic reactions are characterized by cutaneous lesions, urticaria, edema or anaphylactoid reactions.
+Allergic reactions may occur as a result of sensitivity either to local anesthetic agents or to the methylparaben used as a preservative in the multiple dose vials.
+[see Warnings and Precautions (5.6)].
+
+There have been no reports of cross sensitivity between lidocaine hydrochloride and procainamide or between lidocaine hydrochloride and quinidine.
+
+Hematologic
+
+Methemoglobinemia [See Warnings and Precautions (5.2)].

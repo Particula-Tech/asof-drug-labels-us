@@ -1,6 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Lidocaine Hydrochloride Injection, USP is a sterile, nonpyrogenic, aqueous, isotonic solution that contains a local anesthetic agent and is administered parenterally by injection.
+Lidocaine Hydrochloride Injection, USP is a sterile, nonpyrogenic, aqueous, isotonic, clear, colorless solution that contains a local anesthetic agent and is administered parenterally by injection.
 See INDICATIONS AND USAGE for specific uses.
 
 Lidocaine Hydrochloride Injection solutions contain lidocaine hydrochloride which is chemically designated as acetamide, 2-(diethylamino)-N-(2,6-dimethylphenyl)-, monohydrochloride and has the molecular wt.

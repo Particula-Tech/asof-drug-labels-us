@@ -1,3 +1,4 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Lidocaine HCl Injections are indicated for production of local anesthesia by infiltration techniques such as percutaneous injection and by peripheral nerve block techniques such as brachial plexus and intercostal, when the accepted procedures for these techniques as described in standard textbooks are observed.
+Lidocaine Hydrochloride Injection is indicated in adult and pediatric patients for the production of local or regional anesthesia or analgesia for surgery, dental, and oral surgery procedures, diagnostic and therapeutic procedures, and for obstetrical procedures.
+Specific concentrations and presentations of Lidocaine Hydrochloride Injection is recommended for each type of block indicated to produce local or regional anesthesia or analgesia [see Dosage and Administration (2.2)].
