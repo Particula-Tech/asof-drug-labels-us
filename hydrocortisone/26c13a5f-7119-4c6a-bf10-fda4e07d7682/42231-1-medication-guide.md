@@ -14,7 +14,8 @@ What is the most important information I should know about ALKINDI SPRINKLE?
 
 ALKINDI SPRINKLE may cause serious side effects, including:
 
-Adrenal gland problems.Not giving enough ALKINDI SPRINKLE, stopping ALKINDI SPRINKLE, or switching to ALKINDI SPRINKLE after taking another hydrocortisone medicine (the same class of medicines as ALKINDI SPRINKLE) by mouth, can cause serious and life-threatening adrenal gland problems including death.
+Adrenal gland problems.
+Not giving enough ALKINDI SPRINKLE, stopping ALKINDI SPRINKLE, or switching to ALKINDI SPRINKLE after taking another hydrocortisone medicine (the same class of medicines as ALKINDI SPRINKLE) by mouth, can cause serious and life-threatening adrenal gland problems including death.
 Do not stop giving ALKINDI SPRINKLE without talking to your healthcare provider.
 Tell your healthcare provider if your child has any of these symptoms:
 
@@ -104,16 +105,16 @@ How should I give ALKINDI SPRINKLE?
 
 - See the detailed Instructions for Use that comes with your ALKINDI SPRINKLE for information on how to give a dose of ALKINDI SPRINKLE the right way.
 - Give ALKINDI SPRINKLE exactly as prescribed by your healthcare provider.
-- Do notstop giving ALKINDI SPRINKLE without talking to your healthcare provider.
+- Do not stop giving ALKINDI SPRINKLE without talking to your healthcare provider.
   See “ What is the most important information I should know about ALKINDI SPRINKLE?”
-- Do notlet your child chew or crush the granules.
+- Do not let your child chew or crush the granules.
   Do not let your child swallow the capsule.
-- Do notlet the capsules get wet as this may make some of the granules stick to the capsule.
+- Do not let the capsules get wet as this may make some of the granules stick to the capsule.
 - Call your healthcare provider if granules come back up into your child’s mouth (regurgitation) or your child has vomiting after swallowing ALKINDI SPRINKLE.
   Your child may not have received the full dose of ALKINDI SPRINKLE and another dose of ALKINDI SPRINKLE may be needed.
 - Your child may sometimes pass the ALKINDI SPRINKLE granules in their stools (bowel movement).
   It does not mean that ALKINDI SPRINKLE is not working.
-  Do notgive your child another dose of ALKINDI SPRINKLE.
+  Do not give your child another dose of ALKINDI SPRINKLE.
 - ALKINDI SPRINKLE granules should not be given through a nasogastric tube because the granules may block the tube.
 - If your child takes too much ALKINDI SPRINKLE, call your healthcare provider right away or go to the nearest emergency room.
 
@@ -122,7 +123,8 @@ What are the possible side effects of ALKINDI SPRINKLE?
 ALKINDI SPRINKLE may cause serious side effects, including:
 
 - See “What is the most important information I should know about ALKINDI SPRINKLE?”
-- Weakened immune system and increased risk of Infections.Taking too much ALKINDI SPRINKLE can weaken your body's immune system and increase your change of getting infections.
+- Weakened immune system and increased risk of Infections.
+  Taking too much ALKINDI SPRINKLE can weaken your body's immune system and increase your change of getting infections.
   Tell your healthcare provider if your child has any infection or has any of these symptoms:
 
 1. fever
@@ -131,10 +133,12 @@ ALKINDI SPRINKLE may cause serious side effects, including:
 4. diarrhea
 5. flu-like symptoms
 
-- Slowed growth in children.Taking too much ALKINDI SPRINKLE and taking it for long periods of time can affect your child’s growth.
+- Slowed growth in children.
+  Taking too much ALKINDI SPRINKLE and taking it for long periods of time can affect your child’s growth.
   Tell your healthcare provider if you are worried about your child’s growth.
   Your healthcare provider will change the dose depending on your child’s size.
-- Cushing’s syndrome.Taking too much ALKINDI SPRINKLE and taking it for long periods of time can cause Cushing’s syndrome.
+- Cushing’s syndrome.
+  Taking too much ALKINDI SPRINKLE and taking it for long periods of time can cause Cushing’s syndrome.
   Tell your healthcare provider if your child has any of these symptoms:
 
 1. weight gain
@@ -148,20 +152,25 @@ ALKINDI SPRINKLE may cause serious side effects, including:
 9. red, round face
 10. mood swings
 
-- Weak, brittle, or soft bones.ALKINDI SPRINKLE can affect your child’s bones.
+- Weak, brittle, or soft bones.
+  ALKINDI SPRINKLE can affect your child’s bones.
   Your healthcare provider will change the dose depending on your child’s size and will monitor your child’s growth and bones.
-- Changes in behavior.Your child’s behavior may change after starting or during treatment with ALKINDI
+- Changes in behavior.
+  Your child’s behavior may change after starting or during treatment with ALKINDI
 
 SPRINKLE.
 Tell your healthcare provider right away if your child develops any changes inbehavior including:
 
 strong feelings of happiness and excitement overexcited and overactivity loss of contact with reality, with feelings that are not real, and mental confusion depression
 
-- Vision problems.Tell your healthcare provider if your child develops blurred vision or other vision problems during treatment with ALKINDI SPRINKLE.
+- Vision problems.
+  Tell your healthcare provider if your child develops blurred vision or other vision problems during treatment with ALKINDI SPRINKLE.
   Your healthcare provider may have your child see an eye doctor.
-- Gastrointestinal problems.ALKINDI SPRINKLE can affect your child’s stomach or intestine.
+- Gastrointestinal problems.
+  ALKINDI SPRINKLE can affect your child’s stomach or intestine.
   Tell your healthcare provider if your child has gastrointestinal illnesses such as stomach or intestinal ulcers, infections, or gastrointestinal surgery.
-- Vaccinations.Administration of live vaccine may be acceptable while taking ALKINDI SPRINKLE.
+- Vaccinations.
+  Administration of live vaccine may be acceptable while taking ALKINDI SPRINKLE.
 
 The most common side effects of ALKINDI SPRINKLE include:
 
@@ -195,7 +204,7 @@ You can ask your pharmacist or healthcare provider for information about ALKINDI
 
 What are the ingredients in ALKINDI SPRINKLE?
 
-Active ingredient:hydrocortisone
+Active ingredient: hydrocortisone
 
 Inactive ingredients:
 
@@ -207,11 +216,11 @@ printing ink: shellac, propylene glycol, concentrated ammonia solution.
 
 ALKINDI SPRINKLE is manufactured for Eton Pharmaceuticals, Inc. by Glatt Pharmaceutical Services GmbH & Co. KG Werner-Glatt-Strasse 1, Binzen, Baden- Wuerttemberg, 79589, Germany
 
-ALKINDI SPRINKLE® is a registered trademark of Neurocrine UK Limited.
+ALKINDI SPRINKLE® is a registered trademark of Immedica UK Limited.
 
 ALKINDI is covered by the following US patents: 9,649,280; 9,675,559; 9,717,740; and other patents in other countries internationally.
 For more information, go to www.alkindisprinkle.com or call 1-833-343-2500.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised 12/2024
+Revised 03/2026
