@@ -6,6 +6,6 @@ Fluticasone propionate is a white to off-white powder with a molecular weight of
 It is practically insoluble in water, freely soluble in dimethyl sulfoxide and dimethylformamide, and slightly soluble in methanol and 95% ethanol.
 
 Fluticasone propionate nasal spray, 50 mcg is an aqueous suspension of microfine fluticasone propionate for topical administration to the nasal mucosa by means of a metering, atomizing spray pump.
-Fluticasone propionate nasal spray also contains 0.02% w/w benzalkonium chloride, dextrose, microcrystalline cellulose and carboxymethylcellulose sodium, 0.25% w/w phenylethyl alcohol, polysorbate 80, and purified water, and has a pH between 5 and 7.
+Fluticasone propionate nasal spray also contains 0.02% w/w benzalkonium chloride, dextrose, microcrystalline cellulose and carboxymethylcellulose sodium, 0.25% w/w phenylethyl alcohol and polysorbate 80 and has a pH between 5 and 7.
 
 After initial priming, each actuation delivers 50 mcg of fluticasone propionate in 100 mg of formulation through the nasal adapter.
