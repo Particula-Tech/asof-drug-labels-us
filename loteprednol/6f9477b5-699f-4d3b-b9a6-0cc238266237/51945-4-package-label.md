@@ -1,10 +1,10 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 24208-507-07
+NDC24208-507-07
 
 Rx only
 
-Lotemax® SM
+Lotemax ®SM
 
 (loteprednol etabonate
 

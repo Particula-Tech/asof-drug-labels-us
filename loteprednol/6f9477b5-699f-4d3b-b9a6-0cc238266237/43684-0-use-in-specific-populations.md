@@ -43,11 +43,11 @@ The NOAEL for maternal toxicity was 5 mg/kg.
 ## 8.2 Lactation
 
 There are no data on the presence of loteprednol etabonate in human milk, the effects on the breastfed infant, or the effects on milk production.
-The developmental and health benefits of breastfeeding should be considered, along with the mother’s clinical need for LOTEMAX® SM and any potential adverse effects on the breastfed infant from LOTEMAX® SM.
+The developmental and health benefits of breastfeeding should be considered, along with the mother’s clinical need for LOTEMAX ®SM and any potential adverse effects on the breastfed infant from LOTEMAX ®SM.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of LOTEMAX® SM in pediatric patients have not been established.
+Safety and effectiveness of LOTEMAX ®SM in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
