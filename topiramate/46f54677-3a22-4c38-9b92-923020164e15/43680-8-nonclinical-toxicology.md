@@ -13,8 +13,8 @@ No evidence of carcinogenicity was seen in rats following oral administration of
 
 Mutagenesis
 
-Topiramate did not demonstrate genotoxic potential when tested in a battery of in vitroand in vivoassays.
-Topiramate was not mutagenic in the Ames test or the in vitromouse lymphoma assay; it did not increase unscheduled DNA synthesis in rat hepatocytes in vitro; and it did not increase chromosomal aberrations in human lymphocytes in vitroor in rat bone marrow in vivo.
+Topiramate did not demonstrate genotoxic potential when tested in a battery of in vitro and in vivo assays.
+Topiramate was not mutagenic in the Ames test or the in vitromouse lymphoma assay; it did not increase unscheduled DNA synthesis in rat hepatocytes in vitro; and it did not increase chromosomal aberrations in human lymphocytes in vitro or in rat bone marrow in vivo.
 
 Impairment of Fertility
 

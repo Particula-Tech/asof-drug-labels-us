@@ -13,7 +13,7 @@ Information about the North American Drug Pregnancy Registry can be found at htt
 Risk Summary
 
 QUDEXY XR can cause fetal harm when administered to a pregnant woman.
-Data from pregnancy registries indicate that infants exposed to topiramate in uterohave increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts) and of being small for gestational age (SGA) [see Human Data].
+Data from pregnancy registries indicate that infants exposed to topiramate in utero have increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA) [see Human Data].
 SGA has been observed at all doses and appears to be dose-dependent.
 The prevalence of SGA is greater in infants of women who received higher doses of topiramate during pregnancy.
 In addition, the prevalence of SGA in infants of women who continued topiramate use until later in pregnancy is higher compared to the prevalence in infants of women who stopped topiramate use before the third trimester.
@@ -52,10 +52,10 @@ Other than oral clefts, no specific pattern of major congenital malformations or
 In the NAAED pregnancy registry, when topiramate-exposed infants with only oral clefts were excluded, the prevalence of major congenital malformations (4.1%) was higher than that in infants exposed to a reference AED (1.8%) or in infants with mothers without epilepsy and without exposure to AEDs (1.1%).
 The prevalence of oral clefts among topiramate-exposed infants (1.4%) was higher than the prevalence in infants exposed to a reference AED (0.3%) or the prevalence in infants with mothers without epilepsy and without exposure to AEDs (0.11%).
 It was also higher than the background prevalence in the United States (0.17%) as estimated by the Centers for Disease Control and Prevention (CDC).
-The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 12,5 (95% Confidence Interval=[CI] 5.9 to 26.7) as compared to the risk in a background population of untreated women.
+The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 12.5 (95% Confidence Interval=[CI] 5.9 to 26.37) as compared to the risk in a background population of untreated women.
 The UK Epilepsy and Pregnancy Register reported a prevalence of oral clefts among infants exposed to topiramate monotherapy (3.2%) that was 16 times higher than the background rate in the UK (0.2%).
 
-Data from the NAAED pregnancy registry and a population-based birth registry cohort indicate that exposure to topiramate in uterois associated with an increased risk of SGA newborns (birth weight <10th percentile).
+Data from the NAAED pregnancy registry and a population-based birth registry cohort indicate that exposure to topiramate in utero is associated with an increased risk of SGA newborns (birth weight <10th percentile).
 In the NAAED pregnancy registry, 19.7% of topiramate-exposed newborns were SGA compared to 7.9% of newborns exposed to a reference AED, and 5.4% of newborns of mothers without epilepsy and without AED exposure.
 In the Medical Birth Registry of Norway (MBRN), a population-based pregnancy registry, 25% of newborns in the topiramate monotherapy exposure group were SGA compared to 9% in the comparison group who were unexposed to AEDs.
 The long-term consequences of the SGA findings are not known.
@@ -111,7 +111,7 @@ Pediatric Patients 2 Years of Age and Older
 
 The safety and effectiveness of QUDEXY XR as adjunctive therapy for the treatment of partial-onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome have been established in pediatric patients 2 years of age and older and is based on controlled trials with immediate-release topiramate [see Adverse Reactions (6.1)and Clinical Studies (14.3, 14.4)].
 
-The adverse reactions (both common and serious) in pediatric patients are similar to those seen in adults [see Warnings and Precautions (5)and Adverse Reactions (6)].
+The adverse reactions (both common and serious) in pediatric patients are similar to those seen in adults [see Warnings and Precautions (5) and Adverse Reactions (6)].
 
 These include, but are not limited to:
 
@@ -154,7 +154,7 @@ However, because of the absence of an appropriate control group, it is not known
 In this open-label, uncontrolled study, the mortality was 37 deaths/1,000 patient years.
 It is not possible to know whether this mortality rate is related to immediate-release topiramate treatment, because the background mortality rate for a similar, significantly refractory, young pediatric population (1 to 24 months) with partial epilepsy is not known.
 
-Monotherapy Treatment Epilepsy
+Monotherapy Treatment of Epilepsy
 
 Pediatric Patients 2 Years of Age and Older
 
@@ -211,7 +211,7 @@ The most common cognitive adverse reaction in pooled double-blind studies in ped
 Markedly abnormally low serum bicarbonate values indicative of metabolic acidosis were reported in topiramate-treated pediatric migraine patients [see Warnings and Precautions (5.4)].
 
 In topiramate-treated pediatric patients (12 to 17 years of age) compared to placebo-treated patients, abnormally increased results were more frequent for creatinine, BUN, uric acid, chloride, ammonia, total protein, and platelets.
-Abnormally decreased results were observed with topiramate vs placebo treatment for phosphorus and bicarbonate [see Warnings and Precautions (5.4)and Adverse Reactions (6.1)].
+Abnormally decreased results were observed with topiramate vs placebo treatment for phosphorus and bicarbonate [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
 
 Notable changes (increases and decreases) from baseline in systolic blood pressure, diastolic blood pressure, and pulse were observed occurred more commonly in pediatric patients treated with topiramate compared to pediatric patients treated with placebo [see Clinical Pharmacology (12.2)].
 
@@ -233,14 +233,14 @@ When topiramate (0, 30, 90 or 300 mg/kg/day) was administered orally to rats dur
 
 Clinical studies of immediate-release topiramate did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently than younger subjects.
 Dosage adjustment may be necessary for elderly with creatinine clearance less than 70 mL/min/1.73 m 2.
-Estimate GFR should be measured prior to dosing [see Dosage and Administration (2.3)and Clinical Pharmacology (12.3)].
+Estimate GFR should be measured prior to dosing [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
 The clearance of topiramate is reduced in patients with moderate (creatinine clearance 30 to 69 mL/min/1.73 m 2) and severe (creatinine clearance less than 30 mL/min/1.73 m 2) renal impairment.
-A dosage adjustment is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.4)and Clinical Pharmacology (12.3)].
+A dosage adjustment is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Patients Undergoing Hemodialysis
 
 Topiramate is cleared by hemodialysis at a rate that is 4 to 6 times greater than in a normal individual.
-A dosage adjustment may be required [see Dosage and Administration (2.5)and Clinical Pharmacology (12.3)].
+A dosage adjustment may be required [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].

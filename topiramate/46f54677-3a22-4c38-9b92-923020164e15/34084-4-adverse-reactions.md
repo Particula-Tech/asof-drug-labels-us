@@ -10,10 +10,12 @@ The following serious adverse reactions are discussed in more detail in other se
 - Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
 - Decrease in Bone Mineral Density [see Warnings and Precautions (5.9)]
 - Negative Effects on Growth (Height and Weight) [see Warnings and Precautions (5.10)]
-- Serious Skin Reactions [see Warnings and Precautions (5.11)]
-- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use [see Warnings and Precautions (5.12)]
-- Kidney Stones [see Warnings and Precautions (5.13)]
-- Hypothermia with Concomitant Valproic Acid Use [see Warnings and Precautions (5.14)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan • Hypersensitivity Reactions [seeWarnings and Precautions (5.11)]
+- Serious Skin Reactions [see Warnings and Precautions (5.12)]
+- Anaphylaxis and Angioedema [see Warnings and Precautions (5.13)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use [see Warnings and Precautions (5.14)]
+- Kidney Stones [see Warnings and Precautions (5.15)]
+- Hypothermia with Concomitant Valproic Acid Use [see Warnings and Precautions (5.16)]
 
 The data described in section 6.1 were obtained using immediate-release topiramate tablets.
 
@@ -57,7 +59,7 @@ Table 5: Adverse Reactions in the High Dose Group as Compared to the Low Dose Gr
 | Ataxia |  |  | 3 | 4 |
 | Hypoesthesia |  |  | 4 | 5 |
 | Hypertonia |  |  | 0 | 3 |
-| Involuntary Muscle contraction | 0 | 3 |  |  |
+| Involuntary muscle contraction | 0 | 3 |  |  |
 | Vertigo | 0 | 3 |  |  |
 | Gastro-Intestinal System Disorders |  |  |  |  |
 | Constipation |  |  | 1 | 4 |
@@ -65,7 +67,7 @@ Table 5: Adverse Reactions in the High Dose Group as Compared to the Low Dose Gr
 | Gastritis |  |  | 0 | 3 |
 | Dry mouth |  |  | 1 | 3 |
 | Liver and Biliary System Disorders |  |  |  |  |
-| Increase in Gamma-GT |  |  | 1 | 3 |
+| Increase in gamma-GT |  |  | 1 | 3 |
 | Metabolic and Nutritional Disorders |  |  |  |  |
 | Weight loss | 7 | 17 | 6 | 17 |
 | Platelet, Bleeding & Clotting Disorders |  |  |  |  |
@@ -114,7 +116,7 @@ Table 5: Adverse Reactions in the High Dose Group as Compared to the Low Dose Gr
 
 Adjunctive Therapy Epilepsy
 
-Adults 16 Years of Age and Older
+.Adults 16 Years of Age and Older
 
 In pooled controlled clinical trials in adults with partial-onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndrome, 183 patients received adjunctive therapy with immediate-release topiramate at dosages of 200 to 400 mg/day (recommended dosage range) and 291 patients received placebo.
 Patients in these trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to immediate-release topiramate or placebo.
@@ -124,7 +126,7 @@ The most common adverse reactions in the controlled clinical trial that occurred
 Table 6 presents the incidence of adverse reactions occurring in at least 3% of adult patients treated with 200 to 400 mg/day topiramate and was greater than placebo incidence.
 The incidence of some adverse reactions (e.g., fatigue, dizziness, paresthesia, language problems, psychomotor slowing, depression, difficulty with concentration/attention, mood problems) was dose-related and much greater at higher than recommended topiramate dosing (i.e., 600 mg to 1000 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (200 mg to 400 mg daily) range.
 
-Table 6: Most Common Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Adults Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo
+Table 6: Most Common Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Adults Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo.
 
 | Placebo (N=291) | 200 to 400 (N=183) |  |
 | --- | --- | --- |
@@ -179,7 +181,7 @@ In controlled clinical trials in adults, 11% of patients receiving immediate-rel
 This rate appeared to increase at dosages above 400 mg/day.
 Adverse reactions associated with discontinuing therapy included somnolence, dizziness, anxiety, difficulty with concentration or attention, fatigue, and paresthesia.
 
-Pediatric Patients 2 to 15 Years of Age
+.Pediatric Patients 2 to 15 Years of Age
 
 In pooled, controlled clinical trials in pediatric patients (2 to 15 years of age) with partial-onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndrome, 98 patients received adjunctive therapy with immediate-release topiramate at dosages of 5 mg to 9 mg/kg/day (recommended dose range) and 101 patients received placebo.
 
@@ -187,8 +189,8 @@ The most common adverse reactions in the controlled clinical trial that occurred
 
 Table 7 presents the incidence of adverse reactions that occurred in at least 3% of pediatric patients 2 to 15 years of age receiving 5 mg to 9 mg/kg/day (recommended dose range) of immediate-release topiramate and was greater than placebo incidence.
 
-Table 7: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Pediatric Patients 2 to 15 Years of Age Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo,Values represent the percentage of patients reporting a given adverse reaction.
-Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category
+Table 7: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Pediatric Patients 2 to 15 Years of Age Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo.,Values represent the percentage of patients reporting a given adverse reaction.
+Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
 
 | Adverse Reaction | (N=101) | (N=98) |
 | --- | --- | --- |
@@ -298,7 +300,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Bronchitis | 2 | 3 | 3 |
 | Dyspnea | 2 | 1 | 3 |
 | Skin and Appendages Disorders |  |  |  |
-| Pruritis | 2 | 4 | 2 |
+| Pruritus | 2 | 4 | 2 |
 | Special Sense Other, Disorders |  |  |  |
 | Taste perversion | 1 | 15 | 8 |
 | Urinary System Disorders |  |  |  |
@@ -306,7 +308,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Vision Disorders |  |  |  |
 | Blurred vision Blurred vision was the most common term considered as vision abnormal. Blurred vision was an included term that accounted for >50% of reactions coded as vision abnormal, a preferred term. | 2 | 4 | 2 |
 
-Of the 1135 patients exposed to immediate-release topiramate in the adult placebo-controlled studies, 25% discontinued due to adverse reactions, compared to 10% of the 445 placebo-treated patients.
+Of the 1,135 patients exposed to immediate-release topiramate in the adult placebo-controlled studies, 25% discontinued due to adverse reactions, compared to 10% of the 445 placebo-treated patients.
 The adverse reactions associated with discontinuing therapy in the immediate-release topiramate-treated patients in these studies included paresthesia (7%), fatigue (4%), nausea (4%), difficulty with concentration/attention (3%), insomnia (3%), anorexia (2%), and dizziness (2%).
 
 Patients treated in these studies experienced mean percent reductions in body weight that were dose-dependent.
@@ -324,7 +326,7 @@ Table 9 also shows adverse reactions in pediatric patients in the controlled mig
 Many adverse reactions shown in Table 9 indicate a dose-dependent relationship.
 The incidence of some adverse reactions (e.g., allergy, fatigue, headache, anorexia, insomnia, somnolence, and viral infection) was dose-related and greater at higher than recommended immediate-release topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dose (100 mg daily).
 
-Table 9: Adverse Reactions in Pooled, Double-Blind Studies for the Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age 35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults.,Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.,Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003
+Table 9: Adverse Reactions in Pooled, Double-Blind Studies for the Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age 35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults.,Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.,Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003.
 
 | Body System/ Adverse Reaction | (N=45) % | (N=46) % | (N=48) % |
 | --- | --- | --- | --- |
@@ -382,7 +384,7 @@ Controlled trials of adjunctive topiramate treatment of adults for partial-onset
 
 Pediatric Patients
 
-In pediatric patients (1 to 24 months) receiving adjunctive topiramate for partial-onset seizures, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, alkaline phosphatase, and total protein.
+In pediatric patients (1 to 24 months) receiving adjunctive topiramate for partial-onset seizures, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, blood urea nitrogen (BUN), alkaline phosphatase, and total protein.
 The incidence was also increased for a decreased result for bicarbonate (i.e., metabolic acidosis), and potassium with immediate-release (vs placebo) [see Use in Specific Populations (8.4)].
 QUDEXY XR is not indicated for partial-onset seizures in pediatric patients less than 2 years of age.
 
@@ -429,11 +431,11 @@ In the controlled clinical study using QUDEXY XR, 8.9% of patients who received 
 The following adverse reactions have been identified during post-approval use of immediate-release topiramate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole–General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.12)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.14)]
+Body as a Whole–General Disorders: immediate hypersensitivity reactions (including anaphylaxis and angioedema [see Warnings and Precautions (5.13)], delayed hypersensitivity reactions (including facial swelling, lip swelling, periorbital swelling, tongue swelling), oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.14)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.16)]
 
 Gastrointestinal System Disorders: hepatic failure (including fatalities), hepatitis, pancreatitis
 
-Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.11)], pemphigus
+Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.12)], pemphigus
 
 Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.13)]
 

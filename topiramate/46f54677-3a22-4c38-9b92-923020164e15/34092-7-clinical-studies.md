@@ -27,7 +27,7 @@ Figure 1: Kaplan-Meier Estimates of Cumulative Rates for Time to First Seizure i
 
 Pediatric Patients 2 to 9 Years of Age
 
-The conclusion that topiramate is effective as initial monotherapy in pediatric patients 2 to 9 years of age with partial-onset or primary generalized tonic-clonic seizures was based on a pharmacometric bridging approach using data from the controlled epilepsy trials conducted with immediate-release topiramate described in labeling.
+The conclusion that topiramate is effective as initial monotherapy in pediatric patients 2 to 9 years of age with partial-onset or primary generalized tonic-clonic seizures was based on a pharmacometrics bridging approach using data from the controlled epilepsy trials conducted with immediate-release topiramate described in labeling.
 This approach consisted of first showing a similar exposure-response relationship between pediatric patients down to 2 years of age and adults when immediate-release topiramate was given as adjunctive therapy.
 Similarity of exposure-response was also demonstrated in pediatric patients 6 to less than 16 years of age and adults when topiramate was given as initial monotherapy.
 Specific dosing in pediatric patients 2 to 9 years of age was derived from simulations utilizing plasma exposure ranges observed in pediatric and adult patients treated with immediate-release topiramate initial monotherapy [see Dosage and Administration (2.1)].
@@ -83,7 +83,7 @@ Active drug was titrated beginning at 1 mg/kg/day for a week; the dose was then 
 After titration, patients entered an 8-week stabilization period.
 The primary measures of effectiveness were the percent reduction in drop attacks and a parental global rating of seizure severity.
 
-Table 13: Immediate-Release Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults with Partial-Onset Seizures Dose-response studies were not conducted for other indications or pediatric partial-onset seizures
+Table 13: Immediate-Release Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults with Partial-Onset Seizures Dose-response studies were not conducted for other indications or pediatric partial-onset seizures.
 
 | Study | Stabilization Dose | Placebo Placebo dosages are given as the number of tablets. Placebo target dosages were as follows: Study 4 (4 tablets/day); Studies 2 and 5 (6 tablets/day); Studies 6 and 7 (8 tablets/day); Study 3 (10 tablets/day) | 200 | 400 | 600 | 800 | 1,000 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -113,9 +113,10 @@ As described above, a global improvement in seizure severity was also assessed i
 
 Table 14: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
 
-| Study # | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6 mg/kg/day For Studies 8 and 9, specified target dosages (less than 9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6 mg/kg/day; these dosages corresponded to mg per day dosages of 125 mg per day, 175 mg per day, 225 mg per day, and 400 mg per day |
+| Study # | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6 mg/kg/day For Studies 8 and 9, specified target dosages (less than 9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6 mg/kg/day; these dosages corresponded to mg per day dosages of 125 mg per day, 175 mg per day, 225 mg per day, and 400 mg per day. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | Target Topiramate Dosage (mg per day) |  |  |  |  |  |
+| Comparisons with placebo: |  |  |  |  |  |  |  |  |
 | Partial-Onset Seizures Studies in Adults |  |  |  |  |  |  |  |  |
 | 2 | N | 45 | 45 | 45 | 46 | -- | -- | -- |
 | Median % Reduction | 12 | 27 p=0.080; | 48 p ≤ 0.010; | 45 p ≤ 0.001; | -- | -- | -- |  |
@@ -148,7 +149,6 @@ Table 14: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epile
 | Median % Reduction | -5 | -- | -- | -- | -- | -- | 15 |  |
 | % Responders | 14 |  |  |  |  |  | 28 p=0.071 |  |
 | Improvement in Seizure Severity Percent of subjects who were minimally, much, or very much improved from baseline. | 28 |  |  |  |  |  | 52 |  |
-| Comparisons with placebo: |  |  |  |  |  |  |  |  |
 
 Subset analyses of the antiepileptic efficacy of topiramate tablets in these studies showed no differences as a function of gender, race, age, baseline seizure rate, or concomitant AED.
 
@@ -217,7 +217,7 @@ Because most patients were Caucasian, there were insufficient numbers of patient
 
 For patients withdrawing from immediate-release topiramate, daily dosages were decreased in weekly intervals by 25 to 50 mg/day.
 
-Figure 3: Reduction in 4-Week Migraine Headache Frequency(Studies 11 and 12 for Adults and Adolescents)
+Figure 3: Reduction in 4-Week Migraine Headache Frequency (Studies 11 and 12 for Adults and Adolescents)
 
 Pediatric Patients 12 to 17 Years of Age
 

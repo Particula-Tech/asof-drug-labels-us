@@ -64,7 +64,7 @@ Hemodialysis
 
 Topiramate is cleared by hemodialysis.
 Using a high-efficiency, counter flow, single pass-dialysate hemodialysis procedure, topiramate dialysis clearance was 120 mL/min with blood flow through the dialyzer at 400 mL/min.
-This high clearance (compared to 20 mL/min to 30 mL/min total oral clearance in healthy adults) will remove a clinically significant amount of topiramate from the patient over the hemodialysis treatment period [see Dosage and Administration (2.5)and Use in Specific Populations (8.7)].
+This high clearance (compared to 20 mL/min to 30 mL/min total oral clearance in healthy adults) will remove a clinically significant amount of topiramate from the patient over the hemodialysis treatment period [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
 
 Hepatic Impairment
 
@@ -100,13 +100,13 @@ Pediatric Patients with Obesity
 
 A population PK analysis of topiramate was conducted in 129 children <21 years of age with and without obesity to evaluate the potential impact of obesity on plasma topiramate exposures.
 Obesity was defined as BMI ≥95th percentile for age and sex based on CDC-recommended BMI-for-age growth charts for males and females.
-Using the currently recommended dosing regimens, children with obesity are likely to have median values of average concentration at steady-state and trough concentration at steady-state that are up to 20% lower and 19% lower, respectively, compared to children without obesity.
+Using the currently recommended dosing regimens, children with obesity are likely to have median values of average concentration at steady-state, and trough concentration at steady-state that are up to 20% lower and 19% lower, respectively, compared to children without obesity.
 Dosage adjustment according to obesity status is not necessary..
 
 Drug Interactions
 
-In vitros tudies indicate that topiramate does not inhibit CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, or CYP3A4/5 isozymes.
-In vitrostudies indicate that topiramate is a mild inhibitor of CYP2C19 and a mild inducer of CYP3A4.
+In vitros studies indicate that topiramate does not inhibit CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, or CYP3A4/5 isozymes.
+In vitro studies indicate that topiramate is a mild inhibitor of CYP2C19 and a mild inducer of CYP3A4.
 
 Antiepileptic Drugs
 
@@ -121,9 +121,9 @@ Table 12: Summary of AED Interactions with Topiramate
 
 | AEDCo‑administered | AEDConcentration | Topiramate Concentration |  |
 | --- | --- | --- | --- |
-| Phenytoin | NC or 25% increase Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin | 48% decrease |  |
+| Phenytoin | NC or 25% increase Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin. | 48% decrease |  |
 | Carbamazepine (CBZ) | NC | 40% decrease |  |
-| CBZ epoxide Is not administered, but is an active metabolite of carbamazepine | NC | NE |  |
+| CBZ epoxide Is not administered, but is an active metabolite of carbamazepine. | NC | NE |  |
 | Valproic acid | 11% decrease | 14% decrease |  |
 | Phenobarbital | NC | NE |  |
 | Primidone | NC | NE |  |
@@ -146,7 +146,7 @@ The clinical significance of the changes observed is not known [see Drug Interac
 
 Digoxin
 
-In a single-dose study, serum digoxin AUC was decreased by 12% with concomitant topiramate administration.
+In a single-dose study, serum digoxin AUC decreased by 12% with concomitant topiramate administration.
 The clinical relevance of this observation has not been established.
 
 Hydrochlorothiazide
