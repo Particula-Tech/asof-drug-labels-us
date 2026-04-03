@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA220320"
+  ],
+  "inn": "atomoxetine",
+  "labeler": "Validus Pharmaceuticals LLC",
+  "package_ndcs": [
+    "30698-456-02"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "atomoxetine hydrochloride",
+      "name": "ATONCY"
+    }
+  ],
+  "setid": "72d3d8cf-7f3b-479e-bd9f-e204d4118517",
+  "source": "dailymed"
+}
