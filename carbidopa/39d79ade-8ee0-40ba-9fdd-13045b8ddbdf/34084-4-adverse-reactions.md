@@ -8,9 +8,10 @@ The following serious adverse reactions are discussed below and elsewhere in the
 - Hallucinations/Psychotic-Like Behavior [see Warnings and Precautions (5.4)]
 - Impulse Control/Compulsive Behaviors [see Warnings and Precautions (5.5)]
 - Dyskinesia [see Warnings and Precautions (5.6)]
-- Peptic Ulcer Disease [see Warnings and Precautions (5.7)]
-- Glaucoma [see Warnings and Precautions (5.8)]
-- Depression//Suicidality [see Warnings and Precautions (5.10)]
+- Vitamin B6 Deficiency and Seizures [see Warnings and Precautions (5.7)]
+- Peptic Ulcer Disease [see Warnings and Precautions (5.8)]
+- Glaucoma [see Warnings and Precautions (5.9)]
+- Depression/Suicidality [see Warnings and Precautions (5.11)]
 
 The most common adverse reactions reported with carbidopa/levodopa tablets have included dyskinesias, such as choreiform, dystonic, and other involuntary movements, and nausea.
 
@@ -28,8 +29,7 @@ Hypersensitivity Angioedema, urticaria, pruritus, Henoch-Schönlein purpura, bul
 
 Musculoskeletal Back pain, shoulder pain, muscle cramps.
 
-Nervous System/Psychiatric Psychotic episodes including delusions, hallucinations, and paranoid ideation, bradykinetic episodes (“on-off” phenomenon), confusion, agitation, dizziness, somnolence, dream abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without development of suicidal tendencies, dementia, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
-Convulsions also have occurred; however, a causal relationship with DHIVY has not been established.
+Nervous System/Psychiatric Psychotic episodes including delusions, hallucinations, and paranoid ideation, bradykinetic episodes (“on-off” phenomenon), confusion, agitation, dizziness, somnolence, dream abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without development of suicidal tendencies, dementia, pathological gambling, increased libido including hypersexuality, impulse control symptoms, seizures (including convulsions).
 
 Respiratory Dyspnea, upper respiratory infection.
 
