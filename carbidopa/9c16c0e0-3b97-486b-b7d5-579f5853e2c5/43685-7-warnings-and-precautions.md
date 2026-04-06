@@ -16,7 +16,7 @@ Prescribers should also be aware that patients may not acknowledge drowsiness or
 Patients who have already experienced somnolence and/or an episode of sudden sleep onset should not participate in these activities during treatment with carbidopa, levodopa and entacapone tablets.
 
 Before initiating treatment with carbidopa, levodopa and entacapone tablets, advise patients of the potential to develop drowsiness and specifically ask about factors that may increase this risk such as use of concomitant sedating medications and the presence of sleep disorders.
-If a patient develops daytime sleepiness or episodes of falling asleep during activities that require active participation (e.g., conversations, eating, etc.), carbidopa, levodopa and entacapone tablets should ordinarily be discontinued [see Dosage and Administration (2.5), and Warnings and Precautions (5.7)].
+If a patient develops daytime sleepiness or episodes of falling asleep during activities that require active participation (e.g., conversations, eating, etc.), carbidopa, levodopa and entacapone tablets should ordinarily be discontinued [see Dosage and Administration (2.6), and Warnings and Precautions (5.7)].
 If the decision is made to continue carbidopa, levodopa and entacapone tablets, patients should be advised not to drive and to avoid other potentially dangerous activities.
 There is insufficient information to establish whether dose reduction will eliminate episodes of falling asleep while engaged in activities of daily living.
 
@@ -52,7 +52,7 @@ Postmarketing reports suggest that patients treated with anti-Parkinson medicati
 Patients may be unable to control these urges while taking one or more of the medications generally used for the treatment of Parkinson's disease and which increase central dopaminergic tone, including entacapone taken with levodopa and carbidopa.
 In some cases, although not all, these urges were reported to have stopped when the dose of anti-Parkinson medications was reduced or discontinued.
 Because patients may not recognize these behaviors as abnormal it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with entacapone.
-Physicians should consider dose reduction or stopping carbidopa, levodopa and entacapone tablets if a patient develops such urges while taking carbidopa, levodopa and entacapone tablets [see Dosage and Administration (2.5), Warnings and Precautions (5.7)].
+Physicians should consider dose reduction or stopping carbidopa, levodopa and entacapone tablets if a patient develops such urges while taking carbidopa, levodopa and entacapone tablets [see Dosage and Administration (2.6), Warnings and Precautions (5.7)].
 
 ## 5.7 Withdrawal-Emergent Hyperpyrexia and Confusion
 
@@ -60,7 +60,7 @@ Cases of hyperpyrexia and confusion resembling neuroleptic malignant syndrome (N
 However, in some cases, hyperpyrexia and confusion were reported after initiation of treatment with entacapone.
 Hyperpyrexia and confusion are uncommon but they may be life-threatening with a variety of features, including hyperpyrexia/fever/hyperthermia, muscle rigidity, involuntary movements, altered consciousness/mental status changes, delirium, autonomic dysfunction, tachycardia, tachypnea, sweating, hyper- or hypotension, and abnormal laboratory findings (e.g., creatine phosphokinase elevation, leukocytosis, myoglobinuria, and increased serum myoglobin).
 
-If a patient needs to discontinue or reduce their daily dose of carbidopa, levodopa and entacapone tablets, the dose should be decreased slowly, with supervision from a health care provider [see Dosage and Administration (2.5)].
+If a patient needs to discontinue or reduce their daily dose of carbidopa, levodopa and entacapone tablets, the dose should be decreased slowly, with supervision from a health care provider [see Dosage and Administration (2.6)].
 Specific methods for tapering entacapone have not been systematically evaluated.
 
 ## 5.8 Diarrhea and Colitis
@@ -89,11 +89,22 @@ Most of the cases were manifested by myalgia and increased values of creatine ph
 Some of the reactions also included fever and/or alteration of consciousness.
 It is also possible that rhabdomyolysis may be a result of the syndrome described in Withdrawal-Emergent Hyperpyrexia and Confusion [see Warnings and Precautions (5.7)].
 
-## 5.10 Interaction with Drugs Metabolized by COMT
+## 5.10 Vitamin B6 Deficiency and Seizures
+
+Treatment with carbidopa-levodopa, including carbidopa, levodopa and entacapone tablets, may contribute to reduced vitamin B6 levels.
+Higher doses of carbidopa/levodopa may increase the risk of vitamin B6 deficiency.
+Seizures associated with vitamin B6 deficiency have been reported in the postmarketing setting in patients taking carbidopa-levodopa.
+In these reported cases, seizures were refractory to traditional anti-seizure medications and only resolved after vitamin B6 administration.
+Other symptoms of vitamin B6 deficiency may occur, including depression, confusion, cheilosis, glossitis, dermatitis, anemia, and/or neuropathy.
+
+Evaluate vitamin B6 levels prior to initiation of carbidopa, levodopa and entacapone tablets and periodically while on treatment or if symptoms associated with vitamin B6 deficiency are identified.
+Supplement with vitamin B6 as necessary.
+
+## 5.11 Interaction with Drugs Metabolized by COMT
 
 Drugs known to be metabolized by COMT, such as isoproterenol, epinephrine, norepinephrine, dopamine, dobutamine, alpha-methyldopa, apomorphine, isoetherine, and bitolterol should be administered with caution in patients receiving entacapone regardless of the route of administration (including inhalation), as their interaction may result in increased heart rate, arrhythmia, and/or increased blood pressure.
 
-## 5.11 Fibrotic Complications
+## 5.12 Fibrotic Complications
 
 Cases of retroperitoneal fibrosis, pulmonary infiltrates, pleural effusion, and pleural thickening have been reported in some patients treated with ergot derived dopaminergic agents.
 These complications may resolve when the drug is discontinued, but complete resolution does not always occur.
@@ -102,16 +113,16 @@ The expected incidence of fibrotic complications is so low that even if entacapo
 Four cases of pulmonary fibrosis have been reported during clinical development of entacapone; 3 of these patients were also treated with pergolide and 1 with bromocriptine.
 The duration of treatment with entacapone ranged from 7 months to 17 months.
 
-## 5.12 Peptic Ulcer Disease
+## 5.13 Peptic Ulcer Disease
 
 As with levodopa, treatment with carbidopa, levodopa and entacapone tablets may increase the possibility of upper gastrointestinal hemorrhage in patients with a history of peptic ulcer.
 
-## 5.13 Hepatic Impairment
+## 5.14 Hepatic Impairment
 
 Patients with hepatic impairment should be treated with caution [see Clinical Pharmacology (12.3)].
 As with levodopa, periodic evaluation of hepatic function is recommended during extended therapy.
 
-## 5.14 Laboratory Tests
+## 5.15 Laboratory Tests
 
 Abnormalities in laboratory tests may include elevations of liver function tests such as alkaline phosphatase, SGOT (AST), SGPT (ALT), lactic dehydrogenase, and bilirubin.
 Abnormalities in blood urea nitrogen and positive Coombs test have also been reported.

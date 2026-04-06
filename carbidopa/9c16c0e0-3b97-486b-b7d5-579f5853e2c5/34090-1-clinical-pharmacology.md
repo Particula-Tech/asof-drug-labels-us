@@ -33,7 +33,7 @@ Both levodopa and entacapone are rapidly absorbed and eliminated, and their dist
 Carbidopa is absorbed and eliminated slightly more slowly compared with levodopa and entacapone.
 There are substantial inter- and intra-individual variations in the absorption of levodopa, carbidopa and entacapone, particularly concerning its Cmax.
 
-The food-effect on the carbidopa, levodopa and entacapone tablet has not been evaluated.
+The food-effect on the carbidopa, levodopa and entacapone tablets has not been evaluated.
 Because levodopa competes with certain amino acids for transport across the gut wall, the absorption of levodopa may be impaired in some patients after eating a high protein meal.
 Meals rich in large neutral amino acids may delay and reduce the absorption of levodopa [see Patient Counseling Information (17)].
 

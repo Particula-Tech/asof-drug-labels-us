@@ -4,7 +4,7 @@
 
 Risk Summary
 
-There are no adequate data on the developmental risk associated with the use of carbidopa, levodopa and entacapone in pregnant women.
+There are no adequate data on the developmental risk associated with the use of carbidopa, levodopa and entacapone tablets in pregnant women.
 In animals, administration of carbidopa-levodopa or entacapone during pregnancy was associated with developmental toxicity, including increased incidences of fetal malformations (see Data).
 The estimated background risk of major birth defects and miscarriage in the indicated population is unknown.
 In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies are 2 to 4% and 15 to 20%, respectively.
@@ -36,7 +36,7 @@ However, inhibition of lactation may occur because levodopa decreases secretion 
 Carbidopa and entacapone are excreted in rat milk.
 In lactating rat, oral administration of radiolabeled entacapone resulted in levels of entacapone and/or metabolites in milk up to 2 to 3 times that in plasma.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for carbidopa, levodopa and entacapone and any potential adverse effects on the breastfed infant from carbidopa, levodopa and entacapone or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for carbidopa, levodopa and entacapone tablets and any potential adverse effects on the breastfed infant from carbidopa, levodopa and entacapone tablets or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

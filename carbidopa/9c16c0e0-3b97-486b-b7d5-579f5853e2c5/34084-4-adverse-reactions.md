@@ -11,6 +11,7 @@ The following adverse reactions are discussed in more detail in the Warnings and
 - •Withdrawal-Emergent Hyperpyrexia and Confusion [see Warnings and Precautions (5.7)]
 - •Diarrhea and Colitis [see Warnings and Precautions (5.8)]
 - •Rhabdomyolysis [see Warnings and Precautions (5.9)]
+- •Vitamin B6 Deficiency and Seizures [see Warnings and Precautions (5.10)]
 - •Peptic Ulcer Disease [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience

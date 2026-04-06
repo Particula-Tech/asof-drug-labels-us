@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Carbidopa, levodopa and entacapone tablets are a combination of carbidopa, levodopa, and entacapone for the treatment of Parkinson's disease.
+Carbidopa, levodopa and entacapone tablets is a combination of carbidopa, levodopa, and entacapone for the treatment of Parkinson's disease.
 
 Carbidopa, an inhibitor of aromatic amino acid decarboxylation, is a white, crystalline compound, slightly soluble in water, with a molecular weight of 244.3.
 It is designated chemically as (-)-L-(α-hydrazino-(α-methyl-β-(3,4-dihydroxybenzene) propanoic acid monohydrate.
@@ -16,19 +16,19 @@ Entacapone, a COMT inhibitor, is a nitro-catechol-structured compound with a mol
 The chemical name of entacapone is (E)-2-cyano-3-(3,4-dihydroxy-5-nitrophenyl)-N,N-diethyl-2-propenamide.
 Its empirical formula is C14H15N3O5 and its structural formula is:
 
-Carbidopa, Levodopa and Entacapone Tablets are supplied as tablets in 6 strengths:
+Carbidopa, levodopa and entacapone tablets are supplied as tablets in 6 strengths:
 
-Carbidopa, Levodopa and Entacapone Tablets: 12.5 mg of carbidopa, 50 mg of levodopa and 200 mg of entacapone
+Carbidopa, levodopa and entacapone tablets: 12.5 mg of carbidopa, 50 mg of levodopa and 200 mg of entacapone
 
-Carbidopa, Levodopa and Entacapone Tablets: 18.75 mg of carbidopa, 75 mg of levodopa and 200 mg of entacapone
+Carbidopa, levodopa and entacapone tablets: 18.75 mg of carbidopa, 75 mg of levodopa and 200 mg of entacapone
 
-Carbidopa, Levodopa and Entacapone Tablets: 25 mg of carbidopa, 100 mg of levodopa and 200 mg of entacapone
+Carbidopa, levodopa and entacapone tablets: 25 mg of carbidopa, 100 mg of levodopa and 200 mg of entacapone
 
-Carbidopa, Levodopa and Entacapone Tablets: 31.25 mg of carbidopa, 125 mg of levodopa and 200 mg of entacapone
+Carbidopa, levodopa and entacapone tablets: 31.25 mg of carbidopa, 125 mg of levodopa and 200 mg of entacapone
 
-Carbidopa, Levodopa and Entacapone Tablets: 37.5 mg of carbidopa, 150 mg of levodopa and 200 mg of entacapone
+Carbidopa, levodopa and entacapone tablets: 37.5 mg of carbidopa, 150 mg of levodopa and 200 mg of entacapone
 
-Carbidopa, Levodopa and Entacapone Tablets: 50 mg of carbidopa, 200 mg of levodopa and 200 mg of entacapone
+Carbidopa, levodopa and entacapone tablets: 50 mg of carbidopa, 200 mg of levodopa and 200 mg of entacapone
 
 Inactive Ingredients: corn starch, croscarmellose sodium, glycerol 85%, hypromellose, magnesium stearate, mannitol, polysorbate 80, povidone, sucrose, red iron oxide, and titanium dioxide.
 Tablets containing 12.5 mg of carbidopa, 50 mg of levodopa and 200 mg of entacapone, tablets containing 25 mg of carbidopa, 100 mg of levodopa and 200 mg of entacapone, and tablets containing 37.5 mg of carbidopa, 150 mg of levodopa and 200 mg of entacapone also contain yellow iron oxide.

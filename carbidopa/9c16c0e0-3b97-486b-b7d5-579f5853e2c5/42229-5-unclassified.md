@@ -1,4 +1,4 @@
-Manufactured by
+Manufactured by:
 
 Orion Corporation, Orion Pharma
 
@@ -6,4 +6,4 @@ Orion Corporation, Orion Pharma
 
 Sandoz Inc., Princeton, NJ 08540
 
-70016887-00
+164910-1

@@ -51,6 +51,11 @@ Rhabdomyolysis
 Advise patients that they may develop rhabdomyolysis and myalgia if they experience prolonged motor activity including dyskinesia.
 This event may also be associated with fever and confusion [see Warnings and Precautions (5.9)].
 
+Vitamin B6 Deficiency and Seizures
+
+Inform patients that vitamin B6 deficiency may develop during treatment with carbidopa/levodopa therapies, including carbidopa, levodopa and entacapone tablets.
+Tell patients to inform their healthcare provider if they develop symptoms such as depression, confusion, cheilosis, glossitis, dermatitis, anemia, neuropathy, and/or seizures [see Warnings and Precautions (5.10)].
+
 Nausea and Vomiting
 
 Inform patients that carbidopa, levodopa and entacapone tablets may cause nausea and vomiting may occur more frequently during initial therapy and may require dose adjustment.

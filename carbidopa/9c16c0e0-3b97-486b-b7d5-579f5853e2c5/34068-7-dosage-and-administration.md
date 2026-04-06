@@ -4,7 +4,13 @@ Carbidopa, levodopa and entacapone tablets should be used as a substitute for pa
 However, some patients who have been stabilized on a given dose of carbidopa/levodopa may be treated with carbidopa, levodopa and entacapone tablets if a decision has been made to add entacapone (see below).
 Therapy should be individualized and adjusted according to the desired therapeutic response.
 
-## 2.1 Dosing Information
+## 2.1 Management of Vitamin B6 Levels
+
+Evaluate vitamin B6 levels prior to initiating carbidopa/levodopa therapies, including carbidopa, levodopa and entacapone tablets, periodically during treatment, and as clinically indicated [see Warnings and Precautions (5.10)].
+If vitamin B6 levels are low, supplement to sufficient levels per standard of care.
+Patients may initiate and continue treatment with carbidopa, levodopa and entacapone tablets while supplementing vitamin B6.
+
+## 2.2 Dosing Information
 
 The optimum daily dosage of carbidopa, levodopa and entacapone tablets must be determined by careful titration in each patient.
 
@@ -25,12 +31,12 @@ Table 1: Maximum Recommended Dose of Carbidopa, Levodopa and Entacapone Tablets 
 | 37.5 mg per 150 mg per 200 mg |  |
 | 50 mg per 200 mg per 200 mg | 6 |
 
-## 2.2 Converting Patients from Carbidopa, Levodopa, and Entacapone Products to Carbidopa, Levodopa and Entacapone Tablets
+## 2.3 Converting Patients from Carbidopa, Levodopa, and Entacapone to Carbidopa, Levodopa and Entacapone tablets
 
 Patients currently treated with entacapone 200 mg with each dose of non-extended release carbidopa/levodopa tablet, can switch to the corresponding strength of carbidopa, levodopa and entacapone tablets containing the same amounts of levodopa and carbidopa.
 For example, patients receiving one tablet of carbidopa/levodopa 25 mg/100 mg and one tablet of entacapone 200 mg at each administration can switch to a single carbidopa, levodopa and entacapone tablet containing 25 mg of carbidopa, 100 mg of levodopa and 200 mg of entacapone.
 
-## 2.3 Converting Patients from Carbidopa and Levodopa Products to Carbidopa, Levodopa and Entacapone Tablets
+## 2.4 Converting Patients from Carbidopa and Levodopa Products to Carbidopa, Levodopa and Entacapone tablets
 
 There is no experience in transferring patients currently treated with extended release formulations of carbidopa/levodopa, or carbidopa/levodopa products that are not combined in a 1:4 ratio of carbidopa to levodopa.
 
@@ -40,15 +46,15 @@ Once the patient's individual dose of carbidopa/levodopa plus entacapone dose ha
 
 When less levodopa is required, reduce the total daily dosage of carbidopa/levodopa either by decreasing the strength of carbidopa, levodopa and entacapone tablets at each administration or by decreasing the frequency of administration by extending the time between doses.
 
-## 2.4 Concomitant Use with Other Anti-Parkinson's Disease Drugs
+## 2.5 Concomitant Use with Other Anti-Parkinson's Disease Drugs
 
 Anticholinergic agents, dopamine agonists, monoamine oxidase (MAO) - B inhibitors, amantadine, and other standard drugs for Parkinson's disease may be used concomitantly while carbidopa, levodopa and entacapone tablets are being administered; however, dosage adjustments of the concomitant medication or carbidopa, levodopa and entacapone tablets may be required.
 
-## 2.5 Decrease or Interruption of Dosing
+## 2.6 Decrease or Interruption of Dosing
 
 Avoid interruption of carbidopa, levodopa and entacapone tablets dosing because hyperpyrexia has been reported in patients who suddenly discontinue or reduce their use of levodopa [see Warnings and Precautions (5.7)].
 
-## 2.6 Important Administration Instructions
+## 2.7 Important Administration Instructions
 
 Do not split, crush or chew carbidopa, levodopa and entacapone tablets.
 Administer only one tablet at each dosing interval.
