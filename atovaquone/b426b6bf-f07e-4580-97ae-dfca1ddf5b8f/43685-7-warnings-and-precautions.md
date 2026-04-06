@@ -11,3 +11,11 @@ Consider therapy with other agents in patients who have difficulty taking MEPRON
 Cases of cholestatic hepatitis, elevated liver enzymes, and fatal liver failure have been reported in patients treated with atovaquone [see Adverse Reactions (6.2)].
 
 If treating patients with severe hepatic impairment, closely monitor patients following administration of MEPRON.
+
+## 5.3 Severe Cutaneous Adverse Reactions
+
+Cases of severe cutaneous adverse reactions (SCARs), including Stevens‑Johnson Syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), and erythema multiforme (EM) have been reported in patients treated with MEPRON [see Adverse Reactions (6.2)].
+
+SCARs can be life‑threatening or fatal.
+If symptoms or signs of SCARs develop, discontinue MEPRON immediately and institute appropriate therapy.
+Patients who have developed SCARs with the use of MEPRON must not receive MEPRON [see Contraindications (4)].

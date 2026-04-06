@@ -65,7 +65,7 @@ However, only 1 (2.0%) of the 49 subjects with Day 4 plasma atovaquone concentra
 Sixty-two percent of subjects on MEPRON and 64% of subjects on TMP‑SMX were classified as protocol-defined therapy successes (Table 8).
 
 Table 8.
-Outcome of Treatment for PCPPositive Subjects Enrolled in the TMPSMX Comparative Trial
+Outcome of Treatment for PCP-Positive Subjects Enrolled in the TMP-SMX Comparative Trial
 
 | Outcome of Therapya | Number of Subjects (%) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -100,7 +100,7 @@ However, only 2 of 21 (9%) subjects with Day 4 plasma concentrations ≥5 mcg/mL
 The therapeutic outcomes for the 134 subjects who received trial medication in this trial are presented in Table 9.
 
 Table 9.
-Outcome of Treatment for PCPPositive Subjects (%) Enrolled in the Pentamidine Comparative Trial
+Outcome of Treatment for PCP-Positive Subjects (%) Enrolled in the Pentamidine Comparative Trial
 
 | Outcome of Therapy | Primary Treatment |  |  |  | Salvage Treatment |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

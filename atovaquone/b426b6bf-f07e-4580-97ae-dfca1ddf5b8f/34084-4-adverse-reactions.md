@@ -1,8 +1,9 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reaction is discussed in another section of the labeling:
+The following adverse reactions are discussed in another section of the labeling:
 
 - •Hepatotoxicity [see Warnings and Precautions (5.2)].
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.3)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -68,7 +69,7 @@ Among the subjects who discontinued, 4% of subjects receiving MEPRON and 8% of s
 The incidence of adverse reactions with MEPRON oral suspension at the recommended dose (750 mg twice daily) was similar to that seen with the tablet formulation.
 
 Table 3.
-Percentage (≥10%) of Subjects with Selected Adverse Reactions in the TMPSMX Comparative PCP Treatment Trial
+Percentage (≥10%) of Subjects with Selected Adverse Reactions in the TMP-SMX Comparative PCP Treatment Trial
 
 | Adverse Reaction | MEPRON Tablets(n = 203)% | TMP‑SMX(n = 205)% |
 | --- | --- | --- |
@@ -139,7 +140,7 @@ Hepatitis, fatal liver failure.
 
 Skin and Subcutaneous Tissue Disorders
 
-Erythema multiforme, Stevens-Johnson syndrome, and skin desquamation.
+Erythema multiforme (EM), Stevens-Johnson syndrome (SJS), skin desquamation, and drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 Renal and Urinary Disorders
 

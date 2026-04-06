@@ -27,11 +27,12 @@ Atovaquone crossed the placenta and was present in fetal rat and rabbit tissue.
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV-1–infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
 There are no data on the presence of atovaquone in human milk, the effects on the breastfed child, or the effects on milk production.
 Atovaquone was detected in rat milk when lactating rats were administered oral atovaquone (see Data).
 When a drug is present in animal milk, it is likely the drug will be present in human milk.
-Because of the potential for HIV-1 transmission to HIV-negative infants, instruct mothers with HIV-1 not to breastfeed if they are taking MEPRON for the prevention or treatment of PCP.
+
+For women with HIV‑1, potential risks of breastfeeding include HIV‑1 transmission (in infants without HIV‑1).
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for MEPRON and any potential adverse effects on the breastfed child from MEPRON or from the underlying maternal condition.
 
 Data
 
@@ -45,7 +46,7 @@ In a trial of MEPRON oral suspension administered once daily with food for 12 da
 The average steady-state plasma atovaquone concentrations in the 24 subjects with available concentration data are shown in Table 5.
 
 Table 5.
-Average Steady-state Plasma Atovaquone Concentrations in Pediatric Subjects
+Average Steady-State Plasma Atovaquone Concentrations in Pediatric Subjects
 
 | Age | Dose of MEPRON Oral Suspension |  |  |
 | --- | --- | --- | --- |
