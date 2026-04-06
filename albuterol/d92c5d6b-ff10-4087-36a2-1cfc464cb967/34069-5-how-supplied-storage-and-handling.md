@@ -2,8 +2,9 @@
 
 VENTOLIN HFA is supplied in the following boxes of 1 as a pressurized aluminum canister fitted with a counter and supplied with a blue plastic actuator with a blue cap:
 
-- NDC 0173-0682-20 18-g canister containing 200 actuations
-- NDC 0173-0682-24 8-g canister containing 60 actuations
+NDC 0173-0682-20 18-g canister containing 200 actuations
+
+NDC 0173-0682-24 8-g canister containing 60 actuations
 
 Each inhaler is packaged with a Patient Information leaflet.
 
