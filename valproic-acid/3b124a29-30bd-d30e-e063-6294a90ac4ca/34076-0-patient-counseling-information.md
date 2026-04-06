@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Hepatotoxicity
 
-Warn patients and guardians that nausea, vomiting, abdominal pain, anorexia, diarrhea, asthenia, and/or jaundice can be symptoms of hepatotoxicity and, therefore, require further medical evaluation promptly [see Warnings and Precautions (5.1)].
+Warn patients and guardians that nausea, vomiting, abdominal pain, anorexia, diarrhea, asthenia, and/or jaundice can be symptoms of hepatotoxicity and, therefore, require further medical evaluation promptly [see Warnings and Precautions(5.1)].
 
 Pancreatitis
 
@@ -23,7 +23,9 @@ Advise women of childbearing potential to discuss pregnancy planning with their 
 
 Encourage women who are taking valproic acid oral solution to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 or visit the website, http://www.aedpregnancyregistry.org [see Use in Specific Populations (8.1)].
+To enroll, patients can call the toll free number 1-888-233-2334 or visit the website, http://www.aedpregnancyregistry.org
+
+[see Use in Specific Populations(8.1)].
 
 Suicidal Thinking and Behavior
 
@@ -41,3 +43,16 @@ Since valproate products may produce CNS depression, especially when combined wi
 Multiorgan Hypersensitivity Reactions
 
 Instruct patients that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related and should be reported to the physician immediately [see Warnings and Precautions (5.12)].
+
+Product No.: 4021
+
+Manufactured By:
+
+Xttrium Laboratories, Inc.
+
+Mount Prospect, IL 60056
+
+4021VALINSTA
+
+REV.
+03-26

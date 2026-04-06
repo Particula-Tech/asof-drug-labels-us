@@ -1,3 +1,3 @@
-# 3 DOSAGE FORMS AND STRENGTH
+# 3 DOSAGE FORMS AND STRENGTHS
 
-Oral Solution: Equivalent of 250 mg valproic acid per 5 mL as the sodium salt
+Valproic acid oral solution, USP is available as a red oral solution containing the equivalent of 250 mg valproic acid per 5 mL as the sodium salt.

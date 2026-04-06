@@ -1,8 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-- Hepatic disease or significant hepatic dysfunction (4, 5.1)
-- Known mitochondrial disorders caused by mutations in mitochondrial DNA polymerase γ (POLG) (4, 5.1)
-- Suspected POLG-related disorder in children under two years of age (4, 5.1)
-- Known hypersensitivity to the drug (4, 5.12)
-- Urea cycle disorders (4, 5.6)
-- Prophylaxis of migraine headaches: Pregnant women, women of child bearing potential not using effective contraception (4, 8.1)
+• Valproic acid should not be administered to patients with hepatic disease or significant hepatic dysfunction [see Warnings and Precautions (5.1)]. • Valproic acid is contraindicated in patients known to have mitochondrial disorders caused by mutations in mitochondrial DNA polymerase γ (POLG; e.g., Alpers-Huttenlocher Syndrome) and children under two years of age who are suspected of having a POLG-related disorder [see Warnings and Precautions (5.1)]. • Valproic acid is contraindicated in patients with known hypersensitivity to the drug [see Warnings and Precautions (5.12)]. • Valproic acid is contraindicated in patients with known urea cycle disorders [see Warnings and Precautions (5.6)]. • For use in prophylaxis of migraine headaches: Valproic acid is contraindicated in women who are pregnant and in women of childbearing potential who are not using effective contraception [see Warnings and Precautions (5.2, 5.3, 5.4) and Use in Specific Populations (8.1)].

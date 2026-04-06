@@ -1,18 +1,3 @@
-Product No.: 4021
-
-Manufactured By:
-
-Xttrium Laboratories, Inc.
-
-Mount Prospect, IL 60056
-
-4021VALINST
-
-REV.
-06-25
-
-## PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
-
 NDC 0116-4021-16
 
 VALPROIC ACID ORAL SOLUTION, USP
@@ -21,17 +6,14 @@ VALPROIC ACID ORAL SOLUTION, USP
 
 Alcohol less than 0.05%
 
-Each 5mL (teaspoonful) contains the equivalent of 250 mg Valproic Acid, USP (as the sodium salt) and less than 0.05% alcohol contributed by flavorings.
+Each 5 mL (teaspoonful) contains the equivalent of 250 mg Valproic Acid, USP (as the sodium salt) and less than 0.05% alcohol contributed by flavorings.
 
 PHARMACIST: PLEASE DISPENSE THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT.
-
-Rx Only
-
-NET: 1 Pint (480 mL)
+Rx Only NET: 1 Pint (480 mL)
 
 USUAL DOSAGE: See accompanying package insert for full prescribing information.
 
-WARNINGS: KEEP THIS AND ALL DRUGS OUT OF REACH OF CHILDREN.
+WARNINGS: KEEP THIS AND ALL DRUGS OUT OF THE REACH OF CHILDREN.
 In case of accidental overdose, seek professional assistance or contact a Poison Control Center immediately.
 
 Store at 20° - 25°C (68° - 77°F).
@@ -39,17 +21,7 @@ Store at 20° - 25°C (68° - 77°F).
 
 Dispense in a tight, light-resistant container as defined in the USP, with child-resistant closure.
 
-Manufactured by:
-
-Xttrium Laboratories, Inc.
-
-1200 E. Business Center Dr.
-
-Mount Prospect, IL 60056
-
-4021VALP16LBL
-
-REV.
+Manufactured by: Xttrium Laboratories, Inc. 1200 E. Business Center Dr. Mount Prospect, IL 60056 4021VALP16LBL REV.
 06-25
 
 UNIT DOSE
@@ -60,7 +32,7 @@ NDC 0116-4021-05
 
 Valproic Acid
 
-Oral Solution USP,
+Oral Solution, USP,
 
 250 mg/5 mL
 
