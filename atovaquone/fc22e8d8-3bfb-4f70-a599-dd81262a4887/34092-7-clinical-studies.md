@@ -10,7 +10,7 @@ Of a total of 669 randomized patients (including 264 pediatric patients aged 5 t
 The results are listed in Table 6.
 
 Table 6.
-Prevention of Parasitemiaa in PlaceboControlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria in Residents of MalariaEndemic Areas
+Prevention of Parasitemiaa in Placebo-Controlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria in Residents of Malaria-Endemic Areas
 
 |  | MALARONE | Placebo |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ In addition, the true exposure rate to P. falciparum malaria in both trials is u
 The results are listed in Table 7.
 
 Table 7.
-Prevention of Parasitemiaa in ActiveControlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria in Non-Immune Travelers
+Prevention of Parasitemiaa in Active-Controlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria in Non-Immune Travelers
 
 |  | MALARONE | Mefloquine | Chloroquine plus Proguanil |
 | --- | --- | --- | --- |

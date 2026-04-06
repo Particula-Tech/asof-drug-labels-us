@@ -1,5 +1,11 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse reactions are discussed in another section of the labeling:
+
+- •Vomiting and Diarrhea [see Warnings and Precautions (5.1)].
+- •Hepatotoxicity [see Warnings and Precautions (5.3)].
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.4)].
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -30,7 +36,7 @@ Compared with active comparator drugs, subjects receiving MALARONE had fewer adv
 Prophylaxis with MALARONE was discontinued prematurely due to a treatment‑related adverse experience in 7 of 1,004 travelers.
 
 Table 3.
-Adverse Experiences in ActiveControlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria
+Adverse Reactions in Active-Controlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria
 
 | Adverse Experience | Percent of Subjects with Adverse Experiencesa(Percent of Subjects with Adverse Experiences Attributable to Therapy) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -116,4 +122,4 @@ Elevated liver laboratory tests, hepatitis, cholestasis; hepatic failure requiri
 
 Skin and Subcutaneous Tissue Disorders
 
-Photosensitivity, rash, erythema multiforme, and Stevens-Johnson syndrome.
+Photosensitivity, rash, erythema multiforme (EM), Stevens‑Johnson syndrome (SJS), and drug reaction with eosinophilia and systemic symptoms (DRESS).

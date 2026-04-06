@@ -19,7 +19,15 @@ In the event of recrudescent P. falciparum infections after treatment with MALAR
 
 Elevated liver laboratory tests and cases of hepatitis and hepatic failure requiring liver transplantation have been reported with prophylactic use of MALARONE.
 
-## 5.4 Severe or Complicated Malaria
+## 5.4 Severe Cutaneous Adverse Reactions
+
+Cases of severe cutaneous adverse reactions (SCARs), including Stevens‑Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), and erythema multiforme (EM) have been reported in patients treated with MALARONE [see Adverse Reactions (6.2)].
+
+SCARs can be life‑threatening or fatal.
+If symptoms or signs of SCARs develop, discontinue MALARONE immediately and institute appropriate therapy.
+Patients who have developed SCARs with the use of MALARONE must not receive MALARONE [see Contraindications (4)].
+
+## 5.5 Severe or Complicated Malaria
 
 MALARONE has not been evaluated for the treatment of cerebral malaria or other severe manifestations of complicated malaria, including hyperparasitemia, pulmonary edema, or renal failure.
 Patients with severe malaria are not candidates for oral therapy.
