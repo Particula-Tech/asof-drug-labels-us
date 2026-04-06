@@ -51,8 +51,7 @@ DO NOT USE if particulate matter or discoloration is observed.
 Administer the contents of the container intravenously over 15 minutes.
 Use aseptic technique when preparing acetaminophen injection for intravenous infusion.
 Do not add other medications to the acetaminophen injection vial or infusion device.
-For doses less than 1000 mg, the appropriate dose must be withdrawn from the container and placed into a separate container prior to administration.
-Using aseptic technique, withdraw the appropriate dose (650 mg or weight-based) from an intact sealed acetaminophen injection container and place the measured dose in a separate empty, sterile container (e.g., glass bottle, plastic intravenous container, or syringe) for intravenous infusion to avoid the inadvertent delivery and administration of the total volume of the commercially available container.
+For doses less than 1000 mg, the appropriate dose must be withdrawn from the container and placed into a separate container prior to administration.Using aseptic technique, withdraw the appropriate dose (650 mg or weight-based) from an intact sealed acetaminophen injection container and place the measured dose in a separate empty, sterile container (e.g., glass bottle, plastic intravenous container, or syringe) for intravenous infusion to avoid the inadvertent delivery and administration of the total volume of the commercially available container.
 The entire 100 mL container of acetaminophen injection is not intended for use in patients weighing less than 50 kg.
 Acetaminophen injection is supplied in a single-dose container and the unused portion must be discarded.
 Place small volume pediatric doses up to 60 mL in volume in a syringe and administer over 15 minutes using a syringe pump.

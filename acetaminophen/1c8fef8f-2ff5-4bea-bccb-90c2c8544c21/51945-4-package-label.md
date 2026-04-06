@@ -1,3 +1,5 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-acetaminophen injection single dose vial
+Acetaminophen injection carton label
+
+Acetaminophen injection single dose vial

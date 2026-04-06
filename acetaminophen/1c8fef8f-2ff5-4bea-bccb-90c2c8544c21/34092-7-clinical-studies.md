@@ -3,10 +3,10 @@
 ## 14.1 Adult Acute Pain
 
 The efficacy of acetaminophen in the treatment of acute pain in adults was evaluated in two randomized, double-blind, placebo-controlled clinical trials in patients with postoperative pain.
-Pain Study 1 evaluated the analgesic efficacy of repeated doses of acetaminophen 1000 mg vs. placebo every 6 hours for 24 hours in 101 patients with moderate to severe pain following total hip or knee replacement.
+Pain Study 1evaluated the analgesic efficacy of repeated doses of acetaminophen 1000 mg vs. placebo every 6 hours for 24 hours in 101 patients with moderate to severe pain following total hip or knee replacement.
 Acetaminophen was statistically superior to placebo for reduction in pain intensity over 24 hours.
 There was an attendant decrease in opioid consumption, the clinical benefit of which was not demonstrated.
-Pain Study 2 evaluated the analgesic efficacy of repeated doses of acetaminophen 1000 mg every 6 hours or 650 mg every 4 hours for 24 hours versus placebo in the treatment of 244 patients with moderate to severe postoperative pain after abdominal laparoscopic surgery.
+Pain Study 2evaluated the analgesic efficacy of repeated doses of acetaminophen 1000 mg every 6 hours or 650 mg every 4 hours for 24 hours versus placebo in the treatment of 244 patients with moderate to severe postoperative pain after abdominal laparoscopic surgery.
 Patients receiving acetaminophen experienced a statistically significant greater reduction in pain intensity over 24 hours compared to placebo.
 
 ## 14.2 Adult Fever

@@ -5,6 +5,6 @@ Its chemical name is N-acetyl-p-aminophenol.
 Acetaminophen has a molecular weight of 151.16.
 Its structural formula is:
 
-Acetaminophen injection is a sterile, clear, colorless, non pyrogenic, isotonic formulation of acetaminophen intended for intravenous infusion.
+Acetaminophen injection is a sterile, clear, colorless to slightly yellow colored, non pyrogenic, isotonic formulation of acetaminophen intended for intravenous infusion.
 It has a pH of approximately 5.5 and an osmolality of approximately 290 mOsm/kg.
 Each 100 mL contains 1000 mg acetaminophen, USP, 13.04 mg disodium hydrogen phosphate dihydrate, USP, 25 mg L-cysteine hydrochloride monohydrate, USP, 3850 mg mannitol, USP. pH is adjusted with hydrochloric acid and/or sodium hydroxide.
