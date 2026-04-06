@@ -35,7 +35,7 @@ The geometric mean elimination half-life (t1/2) is 25 days (77.5%).
 
 ### Specific Populations
 
-The following factors had no clinically important effect on the clearance of nivolumab: age (29 to 87 years), weight (35 to 160 kg), sex, race, baseline LDH, PD-L1 expression, solid tumor type, tumor size, renal impairment (eGFR ≥ 15 mL/min/1.73 m2), and mild (total bilirubin [TB] less than or equal to the ULN and AST greater than ULN or TB greater than 1 to 1.5 times ULN and any AST) or moderate hepatic impairment (TB greater than 1.5 to 3 times ULN and any AST).
+The following factors had no clinically important effect on the clearance of nivolumab: age (29 to 87 years), weight (35 to 160 kg), sex, race, baseline LDH, PD-L1 expression, solid tumor type, tumor size, renal impairment (eGFR ≥15 mL/min/1.73 m2), and mild (total bilirubin [TB] less than or equal to the ULN and AST greater than ULN or TB greater than 1 to 1.5 times ULN and any AST) or moderate hepatic impairment (TB greater than 1.5 to 3 times ULN and any AST).
 Nivolumab has not been studied in patients with severe hepatic impairment (TB greater than 3 times ULN and any AST).
 
 #### Pediatric Patients
@@ -58,9 +58,9 @@ The observed incidence of anti-drug antibodies is highly dependent on the sensit
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of OPDIVO or of other nivolumab products.
 
 Anti-drug antibody and neutralizing antibody responses were monitored throughout the treatment period where the benefit to risk ratio was assessed.
-Incidence of anti-drug antibodies and neutralizing antibodies are presented in Table 55.
+Incidence of anti-drug antibodies and neutralizing antibodies are presented in Table 56.
 
-Table 55: OPDIVO Anti-Drug Antibody (ADA) and Neutralizing Antibody (NAb) Incidence
+Table 56: OPDIVO Anti-Drug Antibody (ADA) and Neutralizing Antibody (NAb) Incidence
 
 | Treatment Regimena | Indication(s) | ADA | NAbb |
 | --- | --- | --- | --- |

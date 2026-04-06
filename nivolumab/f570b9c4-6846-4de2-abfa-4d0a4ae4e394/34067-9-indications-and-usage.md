@@ -18,7 +18,7 @@ OPDIVO, in combination with platinum-doublet chemotherapy, is indicated for the 
 
 ## 1.5 Metastatic Non-Small Cell Lung Cancer
 
-- •OPDIVO, in combination with ipilimumab, is indicated for the first-line treatment of adult patients with metastatic NSCLC whose tumors express PD-L1 (≥1%) as determined by an FDA-approved test [see Dosage and Administration (2.1)], with no EGFR or ALK genomic tumor aberrations.
+- •OPDIVO, in combination with ipilimumab, is indicated for the first-line treatment of adult patients with metastatic NSCLC whose tumors express PD-L1 (≥1%) as determined by an FDA-authorized test [see Dosage and Administration (2.1)], with no EGFR or ALK genomic tumor aberrations.
 - •OPDIVO, in combination with ipilimumab and 2 cycles of platinum-doublet chemotherapy, is indicated for the first-line treatment of adult patients with metastatic or recurrent NSCLC, with no EGFR or ALK genomic tumor aberrations.
 - •OPDIVO is indicated for the treatment of adult patients with metastatic NSCLC with progression on or after platinum-based chemotherapy.
   Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving OPDIVO.
@@ -35,13 +35,10 @@ OPDIVO, in combination with ipilimumab, is indicated for the first-line treatmen
 
 ## 1.8 Classical Hodgkin Lymphoma
 
-OPDIVO is indicated for the treatment of adult patients with classical Hodgkin lymphoma (cHL) that has relapsed or progressed after:
-
-- •autologous hematopoietic stem cell transplantation (HSCT) and brentuximab vedotin, or
-- •3 or more lines of systemic therapy that includes autologous HSCT.
-
-This indication is approved under accelerated approval based on overall response rate [see Clinical Studies (14.8)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
+- •OPDIVO, in combination with doxorubicin, vinblastine, and dacarbazine (AVD), is indicated for the treatment of adult and pediatric patients 12 years and older with previously untreated, Stage III or IV classical Hodgkin lymphoma (cHL).
+- •OPDIVO, as a single agent, is indicated for the treatment of adult patients with classical Hodgkin lymphoma (cHL) that has relapsed or progressed after:
+  - •autologous hematopoietic stem cell transplantation (HSCT) and brentuximab vedotin, or
+  - •3 or more lines of systemic therapy that includes autologous HSCT.
 
 ## 1.9 Squamous Cell Carcinoma of the Head and Neck
 

@@ -48,9 +48,13 @@ The safety and effectiveness of OPDIVO have been established in pediatric patien
 Use of OPDIVO for these indications is supported by evidence from adequate and well-controlled studies in adults with melanoma or MSI-H or dMMR mCRC and additional pharmacokinetic data in pediatric patients.
 Nivolumab exposure in pediatric patients 12 years and older is comparable to that of adults and the courses of melanoma and MSI-H or dMMR mCRC are similar in pediatric patients aged 12 years and older to that of adults to allow extrapolation of safety and efficacy [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1, 14.11)].
 
-The safety and effectiveness of OPDIVO have not been established for pediatric patients younger than 12 years old with melanoma or MSI-H or dMMR mCRC.
+The safety and effectiveness of OPDIVO in combination with AVD have been established in patients aged 12 years and older for the treatment of cHL.
+Use of OPDIVO for this indication is supported by evidence from Study CA209-8UT, which included 120 pediatric patients ages ≥12 to <18 with previously untreated cHL treated with OPDIVO plus AVD.
+Adverse reactions reported with ≥10% higher frequency in pediatric compared to adult patients included nausea, anemia, increased transaminases, vomiting, lymphopenia, pyrexia, hyperphosphatemia, and eosinophilia [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.8)].
 
-The safety and effectiveness of OPDIVO have not been established in pediatric patients with non-small cell lung cancer, malignant pleural mesothelioma, advanced renal cell carcinoma, classical Hodgkin lymphoma, squamous cell carcinoma of the head and neck, urothelial carcinoma, hepatocellular carcinoma, esophageal cancer, gastric cancer, gastroesophageal cancer and esophageal adenocarcinoma.
+The safety and effectiveness of OPDIVO have not been established for pediatric patients younger than 12 years old with melanoma, MSI-H or dMMR mCRC, or cHL.
+
+The safety and effectiveness of OPDIVO have not been established in pediatric patients with non-small cell lung cancer, malignant pleural mesothelioma, advanced renal cell carcinoma, squamous cell carcinoma of the head and neck, urothelial carcinoma, hepatocellular carcinoma, esophageal cancer, gastric cancer, gastroesophageal cancer and esophageal adenocarcinoma.
 
 ## 8.5 Geriatric Use
 
@@ -119,6 +123,11 @@ Of the 361 patients with NSCLC who were randomized to OPDIVO in combination with
 No overall difference in safety was reported between older patients and younger patients; however, there was a higher discontinuation rate due to adverse reactions in patients aged 75 years or older (43%) relative to all patients who received OPDIVO with ipilimumab and chemotherapy (24%).
 For patients aged 75 years or older who received chemotherapy only, the discontinuation rate due to adverse reactions was 16% relative to all patients who had a discontinuation rate of 13%.
 Based on an updated analysis for overall survival, of the 361 patients randomized to OPDIVO in combination with ipilimumab and platinum-doublet chemotherapy, the hazard ratio for overall survival was 0.61 (95% CI: 0.47, 0.80) in the 176 patients younger than 65 years compared to 0.73 (95% CI: 0.56, 0.95) in the 185 patients 65 years or older [see Clinical Studies (14.5)].
+
+### OPDIVO in Combination with AVD
+
+Of the 496 patients with cHL who were randomized to OPDIVO in combination with AVD, 490 were treated, 6% were 65 years old or older and 1.3% were 75 years old or older.
+The clinical trial did not include a sufficient number of patients 65 years of age or older to determine whether they respond differently than younger patients.
 
 ### OPDIVO in Combination with Cabozantinib
 
