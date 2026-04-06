@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-“See FDA-Approved Patient Labeling (Patient Information)”
+“See FDA-approved Patient Labeling (Patient Information)”
 
 ## 17.1 Angioedema
 
@@ -30,3 +30,6 @@ Patients should be instructed regarding the recommended dosing and administratio
 Patients should be informed that the most common side effects with trospium chloride extended-release capsules are dry mouth and constipation and that other less common side effects include trouble emptying the bladder, blurred vision, and heat prostration.
 Because anticholinergics, such as trospium chloride extended-release capsules, may produce dizziness or blurred vision, patients should be advised to exercise caution in decisions to engage in potentially dangerous activities until the drug’s effects have been determined.
 Patients should be informed that alcohol may enhance the drowsiness caused by anticholinergic agents.
+
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054 Rev.
+A 7/2025

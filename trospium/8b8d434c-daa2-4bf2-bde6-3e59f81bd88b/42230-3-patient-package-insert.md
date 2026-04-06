@@ -1,6 +1,6 @@
 Patient Information
 
-Trospium (TROSE-pee-um) Chloride Extended-release Capsules
+Trospium chloride (trose′ pee um klor′ ide) extended-release capsules
 
 Read the Patient Information that comes with trospium chloride extended-release capsules before you start taking it and each time you get a refill.
 There may be new information.
@@ -84,7 +84,7 @@ For more information, ask your doctor, healthcare professional or pharmacist.
 How should I store trospium chloride extended-release capsules?
 
 - Keep trospium chloride extended-release capsules and all other medicines out of the reach of children.
-- Store trospium chloride extended-release capsules at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+- Store trospium chloride extended-release capsules at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 - Safely dispose of trospium chloride extended-release capsules that are out of date or that you no longer need.
 
 General information about trospium chloride extended-release capsules
@@ -97,18 +97,17 @@ It may harm them.
 This leaflet summarizes the most important information about trospium chloride extended-release capsules.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about trospium chloride extended-release capsules that is written for health professionals.
-You can also call Actavis’s product information department at 1-800-272-5525 or visit the website at www.actavis.com.
+You can also call Teva’s product information department at 1-888-838-2872.
 
 What are the ingredients in trospium chloride extended-release capsules?
 
-Active Ingredient: trospium chloride.
-Inactive Ingredients:corn starch, ethylcellulose, hypromellose, methacrylic acid copolymer, polyethylene glycol, polysorbate 80, polyvinyl alcohol, sodium lauryl sulfate, sucrose, talc, titanium dioxide and triethyl citrate.
-The capsule shell and imprinting ink have the following inactive ingredients: D&C Red #28, D&C Yellow # 10, FD&C Blue # 1, FD&C Blue # 2, FD&C Red #40, FDA/E172 Yellow iron oxide, gelatin, iron oxide black, propylene glycol, shellac glaze, and titanium dioxide.
+Active Ingredient: trospium chloride, USP.
 
-Glucophage® is a registered trademark of Merck Santé S.A.S.
+Inactive Ingredients: corn starch, ethylcellulose, hypromellose 2910, methacrylic acid copolymer, methyl acrylate, methyl methacrylate, polyethylene glycol 400, polyethylene glycol 3350, polyethylene glycol 4000, polysorbate 80, polyvinyl alcohol, sodium lauryl sulfate, sucrose, talc, titanium dioxide and triethyl citrate.
+The capsule shells contain D&C Red No. 28, FD&C Red No. 40, gelatin, titanium dioxide and yellow iron oxide.
+In addition the imprinting ink contains black iron oxide, D&C Yellow No. 10 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake, FD&C Blue No. 2 Aluminum Lake, FD&C Red No. 40 Aluminum Lake, shellac glaze and may contain propylene glycol.
 
-Manufactured by: Actavis Laboratories, FL., Inc. Fort Lauderdale, FL 33314 USA
+Brands listed are the trademarks of their respective owners.
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
-
-Revised: August 2014 174696-3
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054 Rev.
+A 7/2025

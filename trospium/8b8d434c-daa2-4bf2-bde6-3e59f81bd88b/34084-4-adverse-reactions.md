@@ -18,13 +18,13 @@ In the placebo group, there were no discontinuations due to dry mouth or urinary
 The incidence of serious adverse events was similar among patients receiving trospium chloride extended-release capsules and patients receiving placebo.
 No treatment-emergent serious adverse events in either treatment group were judged by the investigators as being possibly related to the study medication.
 
-Table 1 lists those treatment-emergent adverse events from the trials that were assessed by the investigator as possibly related to study medication, reported in at least 1% of trospium chloride extended-release capsules patients, and were more common for the trospium chloride extended-release capsules group than for placebo.
+Table 1 lists those treatment emergent adverse events from the trials that were assessed by the investigator as possibly related to study medication, reported in at least 1% of trospium chloride extended-release capsules patients, and were more common for the trospium chloride extended-release capsules group than for placebo.
 
 Table 1: Incidence of treatment-emergent adverse events reported in at least 1% of patients judged by the investigator as at least possibly related to treatment and more common for the trospium chloride extended-release capsules group than for placebo
 
 |  | Number of patients (%) |  |
 | --- | --- | --- |
-| MedDRA Preferred term | Placebo N=587 | Trospium Chloride Extended-release Capsules N=578 |
+| MedDRA Preferred term | Placebo N=587 | Trospium chloride extended-release capsules N=578 |
 | Dry mouth | 22 (3.7) | 62 (10.7) |
 | Constipation | 9 (1.5) | 49 (8.5) |
 | Dry eye | 1 (0.2) | 9 (1.6) |
@@ -45,7 +45,7 @@ Table 2: Incidence of treatment-emergent adverse events reported in at least 2% 
 
 |  | Number of patients (%) |  |
 | --- | --- | --- |
-| MedDRA Preferred term | Placebo N=587 | Trospium Chloride Extended-release Capsules N=578 |
+| MedDRA Preferred term | Placebo N=587 | Trospium chloride extended-release capsules N=578 |
 | Dry mouth | 22 (3.7) | 64 (11.1) |
 | Constipation | 10 (1.7) | 52 (9.0) |
 | Urinary tract infection | 29 (4.9) | 42 (7.3) |

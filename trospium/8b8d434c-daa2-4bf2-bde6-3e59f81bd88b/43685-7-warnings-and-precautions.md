@@ -2,7 +2,7 @@
 
 ## 5.1 Risk of Urinary Retention
 
-Trospium chloride extended-release capsules should be administered with caution to patients with clinically significant bladder outflow obstruction because of the risk of urinary retention [see Contraindications (4)].
+Trospium chloride extended-release capsules should be administered with caution to patients with clinically significant bladder outflow obstruction because of the risk of urinary retention (see Contraindications (4)).
 
 ## 5.2 Angioedema
 

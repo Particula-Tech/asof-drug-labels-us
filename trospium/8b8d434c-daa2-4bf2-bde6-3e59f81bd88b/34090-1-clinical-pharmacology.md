@@ -37,15 +37,17 @@ Other pharmacokinetic parameters such as Tmax and t1/2 were unchanged in the pre
 
 A summary of mean (± standard deviation) pharmacokinetic parameters for a single dose of 60 mg trospium chloride extended-release capsules is provided in Table 3.
 
-Table 3: Mean (±SD) Pharmacokinetic Parameter Estimates for a Single 60 mg Oral Dose of Trospium Chloride Extended-release Capsules in Healthy Volunteers
+Table 3: Mean (±SD) Pharmacokinetic Parameter Estimates for a Single 60 mg Oral Dose of Trospium chloride extended-release capsules in Healthy Volunteers
 
 | Treatment | AUC(0-24) (ng●h/mL) | Cmax (ng/mL) | Tmaxa (h) | t1/2b (h) |
 | --- | --- | --- | --- | --- |
-| Trospium Chloride Extended-release Capsules 60 mg | 18.0 ± 13.4 | 2.0 ± 1.5 | 5.0 (3.0 to 7.5) | 36 ± 22 |
+| Trospium chloride extended-release capsules 60 mg | 18.0 ± 13.4 | 2.0 ± 1.5 | 5.0 (3.0 to 7.5) | 36 ± 22 |
 | a Tmax expressed as median (range). |  |  |  |  |
 | b t1/2 was determined following multiple (10) doses. |  |  |  |  |
 
 The mean sample concentration-time (+ standard deviation) profile for trospium chloride extended-release capsules is shown in Figure 1.
+
+Figure 1: Mean (+SD) Concentration-Time Profile for a Single 60 mg Oral Dose of Trospium chloride extended-release capsules in Healthy Volunteers
 
 Administration of trospium chloride extended-release capsules immediately after a high (50%) fat-content meal reduced the oral bioavailability of trospium chloride by 35% for AUC(0-Tlast) and by 60% for Cmax.
 Other pharmacokinetic parameters such as Tmax and t1/2 were unchanged in the presence of food.
@@ -58,13 +60,13 @@ This ratio indicates that the majority of 3H- trospium chloride is distributed i
 
 Trospium chloride is widely distributed, with an apparent volume of distribution >600 L.
 
-Metabolism:The metabolic pathway of trospium in humans has not been fully defined.
+Metabolism: The metabolic pathway of trospium in humans has not been fully defined.
 Of the dose absorbed following oral administration, metabolites account for approximately 40% of the excreted dose.
 The major metabolic pathway of trospium is hypothesized as ester hydrolysis with subsequent conjugation of benzylic acid to form azoniaspironortropanol with glucuronic acid.
 CYP P450 does not contribute significantly to the elimination of trospium.
-Data taken from in vitro studies of human liver microsomes, investigating the inhibitory effect of trospium on seven CYP P450 isoenzyme substrates (CYP1A2, 2A6, 2C9, 2C19, 2D6, 2E1, and 3A4), suggest a lack of inhibition at clinically relevant concentrations.
+Data taken from in vitro studies of human liver microsomes investigating the inhibitory effect of trospium on seven CYP P450 isoenzyme substrates (CYP1A2, 2A6, 2C9, 2C19, 2D6, 2E1, and 3A4) suggest a lack of inhibition at clinically relevant concentrations.
 
-Excretion:The plasma half-life for trospium following oral administration of trospium chloride extended-release capsules is approximately 35 hours.
+Excretion: The plasma half-life for trospium following oral administration of trospium chloride extended-release capsules is approximately 35 hours.
 After oral administration of an immediate-release formulation of 14C-labeled trospium chloride, a majority of the dose (85.2%) was recovered in feces and a smaller amount (5.8% of the dose) was recovered in urine.
 Of the radioactivity excreted into the urine, 60% was unchanged trospium.
 
@@ -78,9 +80,10 @@ Digoxin: Concomitant use of 20 mg trospium chloride immediate release twice dail
 Antacid: A drug interaction study was conducted to evaluate the effect of an antacid containing aluminum hydroxide and magnesium carbonate on the pharmacokinetics of trospium chloride extended-release capsules (n=11).
 While the systemic exposure of trospium on average was comparable with and without antacid, 5 individuals demonstrated either an increase or decrease in trospium exposure, in presence of antacid.
 
-Metformin: A drug interaction study was conducted in which trospium chloride extended-release capsules 60 mg once daily was co-administered with Glucophage® (metformin hydrochloride) 500 mg twice daily under steady-state conditions in 44 healthy subjects.
-Co-administration of 500 mg metformin immediate release tablets twice daily reduced the steady-state systemic exposure of trospium by approximately 29% for mean AUC0-24 and by 34% for mean Cmax.
-The effect of decrease in trospium exposure on the efficacy of trospium chloride extended-release capsules is unknown.The steady-state pharmacokinetics of metformin were comparable when administered with or without 60 mg trospium chloride extended-release capsules once daily under fasted condition.
+Metformin: A drug interaction study was conducted in which trospium chloride extended-release capsules 60 mg once daily was coadministered with Glucophage® (metformin hydrochloride) 500 mg twice daily under steady-state conditions in 44 healthy subjects.
+Coadministration of 500 mg metformin immediate release tablets twice daily reduced the steady-state systemic exposure of trospium by approximately 29% for mean AUC0-24 and by 34% for mean Cmax.
+The effect of decrease in trospium exposure on the efficacy of trospium chloride extended-release capsules is unknown.
+The steady-state pharmacokinetics of metformin were comparable when administered with or without 60 mg trospium chloride extended-release capsules once daily under fasted condition.
 The effect of metformin at higher doses on trospium PK is unknown.
 
 Specific Populations
