@@ -36,7 +36,7 @@ Human Data
 
 There are no adequate or well-controlled studies of XARELTO in pregnant women, and dosing for pregnant women has not been established.
 Post-marketing experience is currently insufficient to determine a rivaroxaban-associated risk for major birth defects or miscarriage.
-In an in vitroplacenta perfusion model, unbound rivaroxaban was rapidly transferred across the human placenta.
+In an in vitro placenta perfusion model, unbound rivaroxaban was rapidly transferred across the human placenta.
 
 Animal Data
 
@@ -73,10 +73,10 @@ The risk of clinically significant uterine bleeding, potentially requiring gynec
 
 The safety and effectiveness of XARELTO have been established in pediatric patients from birth to less than 18 years for the treatment of VTE and the reduction in risk of recurrent VTE.
 Use of XARELTO is supported in these age groups by evidence from adequate and well-controlled studies of XARELTO in adults with additional pharmacokinetic, safety and efficacy data from a multicenter, prospective, open-label, active-controlled randomized study in 500 pediatric patients from birth to less than 18 years of age.
-XARELTO was not studied and therefore dosing cannot be reliably determined or recommended in children less than 6 months who were less than 37 weeks of gestation at birth; had less than 10 days of oral feeding, or had a body weight of less than 2.6 kg [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3)and Clinical Studies (14.8)].
+XARELTO was not studied and therefore dosing cannot be reliably determined or recommended in children less than 6 months who were less than 37 weeks of gestation at birth; had less than 10 days of oral feeding, or had a body weight of less than 2.6 kg [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.8)].
 
 The safety and effectiveness of XARELTO have been established for use in pediatric patients aged 2 years and older with congenital heart disease who have undergone the Fontan procedure.
-Use of XARELTO is supported in these age groups by evidence from adequate and well-controlled studies of XARELTO in adults with additional data from a multicenter, prospective, open-label, active controlled study in 112 pediatric patients to evaluate the single- and multiple-dose pharmacokinetic properties of XARELTO and the safety and efficacy of XARELTO when used for thromboprophylaxis for 12 months in children with single ventricle physiology who had the Fontan procedure [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3)and Clinical Studies (14.9)].
+Use of XARELTO is supported in these age groups by evidence from adequate and well-controlled studies of XARELTO in adults with additional data from a multicenter, prospective, open-label, active controlled study in 112 pediatric patients to evaluate the single- and multiple-dose pharmacokinetic properties of XARELTO and the safety and efficacy of XARELTO when used for thromboprophylaxis for 12 months in children with single ventricle physiology who had the Fontan procedure [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.9)].
 
 Clinical studies that evaluated safety, efficacy, pharmacokinetic and pharmacodynamic data support the use of XARELTO 10 mg, 15 mg, and 20 mg tablets in pediatric patients.
 For the XARELTO 2.5 mg tablets, there are no safety, efficacy, pharmacokinetic and pharmacodynamic data to support the use in pediatric patients.
@@ -88,7 +88,7 @@ Although not all adverse reactions identified in the adult population have been 
 
 Of the total number of adult patients in clinical trials for the approved indications of XARELTO (N=64,943 patients), 64 percent were 65 years and over, with 27 percent 75 years and over.
 In clinical trials the efficacy of XARELTO in the elderly (65 years or older) was similar to that seen in patients younger than 65 years.
-Both thrombotic and bleeding event rates were higher in these older patients [see Clinical Pharmacology (12.3)and Clinical Studies (14)].
+Both thrombotic and bleeding event rates were higher in these older patients [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
 
 ## 8.6 Renal Impairment
 
@@ -143,10 +143,10 @@ It is not known whether these concentrations will lead to similar CV risk reduct
 
 Pediatric Use
 
-No dosage adjustment is required in patients 1 year of age or older with mild renal impairment (eGFR 50 to ≤ 80 mL/min/1.73 m 2).
-There are limited clinical data in pediatric patients 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m 2); therefore, avoid the use of XARELTO in these patients.
+No dosage adjustment is required in patients 1 year of age or older with mild renal impairment (eGFR 50 to ≤ 80 mL/min/1.73 m2).
+There are limited clinical data in pediatric patients 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m2); therefore, avoid the use of XARELTO in these patients.
 
-There are no clinical data in pediatric patients younger than 1 year with serum creatinine results above 97.5 thpercentile; therefore, avoid the use of XARELTO in these patients [see Dosage and Administration (2.2)].
+There are no clinical data in pediatric patients younger than 1 year with serum creatinine results above 97.5th percentile; therefore, avoid the use of XARELTO in these patients [see Dosage and Administration (2.2)].
 
 ## 8.7 Hepatic Impairment
 

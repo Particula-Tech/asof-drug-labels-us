@@ -1,4 +1,4 @@
-# Instructions for Use XARELTO ® (zah-REL-toe) (rivaroxaban) for oral suspension
+# Instructions for Use XARELTO® (zah-REL-toe) (rivaroxaban) for oral suspension
 
 This Instructions for Use contains information on how to give a dose of XARELTO oral suspension.
 
@@ -12,12 +12,13 @@ Important information:
 - Give XARELTO to your child exactly as prescribed by your doctor.
   The adult caregiver should give the dose.
   If you have questions, contact your doctor or pharmacist for more information on giving a dose.
-- Only use the oral dosing syringe provided with XARELTO oral suspension.Contact your doctor or pharmacist if the oral dosing syringe is missing, lost or damaged.
+- Only use the oral dosing syringe provided with XARELTO oral suspension.
+  Contact your doctor or pharmacist if the oral dosing syringe is missing, lost or damaged.
 
 Storage information
 
-Store XARELTO oral suspension at room temperature between 68°F to 77°F(20°C to 25°C).
-Do notfreeze.
+Store XARELTO oral suspension at room temperature between 68 °F to 77 °F (20 °C to 25 °C).
+Do not freeze.
 
 Store the bottle upright with the oral dosing syringes in the original carton.
 
@@ -25,7 +26,7 @@ Keep XARELTO and all medicines out of reach of children.
 
 XARELTO Oral Dosing Syringe:
 
-| Side 1: Dosing in milliliters (mL) | Side 2: Dosing with color band The color band is an aid to withdraw the prescribed dose.(mL) |
+| Side 1: Dosing in milliliters (mL) | Side 2: Dosing with color bandThe color band is an aid to withdraw the prescribed dose. (mL) |
 | --- | --- |
 
 XARELTO Bottle
@@ -35,7 +36,7 @@ XARELTO Bottle
 
 Check "Discard after" date on the XARELTO bottle.
 
-If "Discard after" date has passed, do notuse and call your doctor or pharmacist.
+If "Discard after" date has passed, do not use and call your doctor or pharmacist.
 
 Wash hands.
 
@@ -46,12 +47,12 @@ Wash your hands well with soap and warm water.
 
 Shake bottle slowly for 10 seconds before each use.
 
-| Do notshake the bottle too fast to avoid foaming. Foaming may lead to giving the wrong dose. |
+| Do not shake the bottle too fast to avoid foaming. Foaming may lead to giving the wrong dose. |
 | --- |
 
 Check XARELTO oral suspension.
 
-If there are lumps or granules at the bottom of the bottle, shake the bottle slowlyagain for 10 seconds.
+If there are lumps or granules at the bottom of the bottle, shake the bottle slowly again for 10 seconds.
 
 | Step 3 | Check the prescribed dose |
 | --- | --- |
@@ -86,7 +87,7 @@ Insert oral dosing syringe into bottle adaptor.
 
 Twist off the cap from the bottle.
 
-Do notremove the bottle adaptor from the bottle.
+Do not remove the bottle adaptor from the bottle.
 
 Insert the syringe tip into the bottle adaptor.
 
@@ -94,7 +95,7 @@ Fill oral dosing syringe.
 
 Turn the bottle upside down, as shown.
 
-Pull the plunger to fill the oral dosing syringe slightly past your prescribed dose lineto help remove any air bubbles.
+Pull the plunger to fill the oral dosing syringe slightly past your prescribed dose line to help remove any air bubbles.
 
 CAUTION:
 
@@ -107,9 +108,9 @@ Doing this helps set the correct dose.
 
 Adjust to your prescribed dose.
 
-If using mL side of syringe:Push plunger to align with the prescribed dose line.
+If using mL side of syringe: Push plunger to align with the prescribed dose line.
 
-If using color side of syringe:Push plunger to align with the prescribed mL dose line at the bottom of the color band.
+If using color side of syringe: Push plunger to align with the prescribed mL dose line at the bottom of the color band.
 
 Remove oral dosing syringe.
 
@@ -140,21 +141,23 @@ Close XARELTO bottle and rinse oral dosing syringe.
 
 Rinse the oral dosing syringe with tap water and let it air dry.
 
-| Do notplace the oral dosing syringe in the dishwasher. |
+| Do not place the oral dosing syringe in the dishwasher. |
 | --- |
 
 Disposing XARELTO bottle and syringe
 
 - Throw the XARELTO bottle away in your household trash.
 - Throw away any used oral dosing syringe with the opening of a new XARELTO bottle.
-- Do not pour XARELTO suspension down the drain(for example: sink, toilet, shower or tub).
-- Do notrecycle the bottle.
+- Do not pour XARELTO suspension down the drain (for example: sink, toilet, shower or tub).
+- Do not recycle the bottle.
 
-Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560 Licensed from: Bayer HealthCare AG 51368 Leverkusen, Germany
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560, USA Licensed from: Bayer HealthCare AG 51368 Leverkusen, Germany
 
 For patent information: www.janssenpatents.com
 
-© 2021 Janssen Pharmaceutical Companies
+© Johnson & Johnson and its affiliates 2021, 2024
+
+Xarelto is a registered trademark of Bayer Aktiengesellschaft.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Issued: 02/2023
+Issued: 11/2024

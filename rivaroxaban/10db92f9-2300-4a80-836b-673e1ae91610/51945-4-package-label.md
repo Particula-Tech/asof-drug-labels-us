@@ -2,7 +2,7 @@
 
 NDC 50458-577-60
 
-Xarelto ® (rivaroxaban) Tablets 2.5 mg
+Xarelto® (rivaroxaban) Tablets 2.5 mg
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -16,7 +16,7 @@ Rx only
 
 NDC 50458-580-30
 
-Xarelto ® (rivaroxaban) Tablets 10 mg
+Xarelto® (rivaroxaban) Tablets 10 mg
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -30,7 +30,7 @@ Rx only
 
 NDC 50458-578-30
 
-Xarelto ® (rivaroxaban) Tablets 15 mg
+Xarelto® (rivaroxaban) Tablets 15 mg
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -44,7 +44,7 @@ Rx only
 
 NDC 50458-579-30
 
-Xarelto ® (rivaroxaban) Tablets 20 mg
+Xarelto® (rivaroxaban) Tablets 20 mg
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -56,7 +56,7 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - Kit Carton
 
-Xarelto ® (rivaroxaban) Tablets
+Xarelto® (rivaroxaban) Tablets
 
 NDC 50458-584-51 Rx only
 
@@ -76,7 +76,7 @@ LIFT HERE TO OPEN
 
 NDC 50458-575-01
 
-Xarelto ® (rivaroxaban) for Oral Suspension
+Xarelto® (rivaroxaban) for Oral Suspension
 
 1 mg/mL (when reconstituted)
 

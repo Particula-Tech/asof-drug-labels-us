@@ -18,7 +18,7 @@ Factors that can increase the risk of developing epidural or spinal hematomas in
 - a history of spinal deformity or spinal surgery
 - optimal timing between the administration of XARELTO and neuraxial procedures is not known
 
-[see Warnings and Precautions (5.2, 5.3)and Adverse Reactions (6.2)].
+[see Warnings and Precautions (5.2, 5.3) and Adverse Reactions (6.2)].
 
 Monitor patients frequently for signs and symptoms of neurological impairment.
 If neurological compromise is noted, urgent treatment is necessary [see Warnings and Precautions (5.3)].

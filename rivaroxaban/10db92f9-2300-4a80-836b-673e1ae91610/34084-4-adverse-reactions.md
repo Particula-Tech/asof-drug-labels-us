@@ -2,9 +2,9 @@
 
 The following clinically significant adverse reactions are also discussed in other sections of the labeling:
 
-- Increased Risk of Stroke After Discontinuation in Nonvalvular Atrial Fibrillation [see Boxed Warningand Warnings and Precautions (5.1)]
+- Increased Risk of Stroke After Discontinuation in Nonvalvular Atrial Fibrillation [see Boxed Warning and Warnings and Precautions (5.1)]
 - Bleeding Risk [see Warnings and Precautions (5.2, 5.4, 5.5, 5.6, 5.7)]
-- Spinal/Epidural Hematoma [see Boxed Warningand Warnings and Precautions (5.3)]
+- Spinal/Epidural Hematoma [see Boxed Warning and Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -23,17 +23,17 @@ The incidence of discontinuations for non-bleeding adverse events was similar in
 
 Table 5 shows the number of patients experiencing various types of bleeding events in the ROCKET AF trial.
 
-Table 5: Bleeding Events in ROCKET AF Major bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.
+Table 5: Bleeding Events in ROCKET AFMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.
 These events occurred during treatment or within 2 days of stopping treatment.- On Treatment Plus 2 Days
 
 | Parameter | XARELTO N=7111 n (%/year) | Warfarin N=7125 n (%/year) | XARELTO vs. Warfarin HR (95% CI) |
 | --- | --- | --- | --- |
-| Major Bleeding Defined as clinically overt bleeding associated with a decrease in hemoglobin of ≥2 g/dL, a transfusion of ≥2 units of packed red blood cells or whole blood, bleeding at a critical site, or with a fatal outcome. | 395 (3.6) | 386 (3.5) | 1.04 (0.90, 1.20) |
+| Major BleedingDefined as clinically overt bleeding associated with a decrease in hemoglobin of ≥2 g/dL, a transfusion of ≥2 units of packed red blood cells or whole blood, bleeding at a critical site, or with a fatal outcome. | 395 (3.6) | 386 (3.5) | 1.04 (0.90, 1.20) |
 | Intracranial Hemorrhage (ICH) Intracranial bleeding events included intraparenchymal, intraventricular, subdural, subarachnoid and/or epidural hematoma. | 55 (0.5) | 84 (0.7) | 0.67 (0.47, 0.93) |
-| Hemorrhagic Stroke Hemorrhagic stroke in this table specifically refers to non-traumatic intraparenchymal and/or intraventricular hematoma in patients on treatment plus 2 days. | 36 (0.3) | 58 (0.5) | 0.63 (0.42, 0.96) |
+| Hemorrhagic StrokeHemorrhagic stroke in this table specifically refers to non-traumatic intraparenchymal and/or intraventricular hematoma in patients on treatment plus 2 days. | 36 (0.3) | 58 (0.5) | 0.63 (0.42, 0.96) |
 | Other ICH | 19 (0.2) | 26 (0.2) | 0.74 (0.41, 1.34) |
-| Gastrointestinal (GI) Gastrointestinal bleeding events included upper GI, lower GI, and rectal bleeding. | 221 (2.0) | 140 (1.2) | 1.61 (1.30, 1.99) |
-| Fatal Bleeding Fatal bleeding is adjudicated death with the primary cause of death from bleeding. | 27 (0.2) | 55 (0.5) | 0.50 (0.31, 0.79) |
+| Gastrointestinal (GI)Gastrointestinal bleeding events included upper GI, lower GI, and rectal bleeding. | 221 (2.0) | 140 (1.2) | 1.61 (1.30, 1.99) |
+| Fatal BleedingFatal bleeding is adjudicated death with the primary cause of death from bleeding. | 27 (0.2) | 55 (0.5) | 0.50 (0.31, 0.79) |
 | ICH | 24 (0.2) | 42 (0.4) | 0.58 (0.35, 0.96) |
 | Non-intracranial | 3 (0.0) | 13 (0.1) | 0.23 (0.07, 0.82) |
 | Abbreviations: HR = Hazard Ratio, CI = Confidence interval, CRNM = Clinically Relevant Non-Major. |  |  |  |
@@ -53,20 +53,20 @@ The mean duration of treatment was 208 days for XARELTO-treated patients and 204
 
 Table 6 shows the number of patients experiencing major bleeding events in the pooled analysis of the EINSTEIN DVT and EINSTEIN PE studies.
 
-Table 6: Bleeding Events Bleeding event occurred after randomization and up to 2 days after the last dose of study drug.
-Although a patient may have had 2 or more events, the patient is counted only once in a category.in the Pooled Analysis of EINSTEIN DVT and EINSTEIN PE Studies
+Table 6: Bleeding EventsBleeding event occurred after randomization and up to 2 days after the last dose of study drug.
+Although a patient may have had 2 or more events, the patient is counted only once in a category. in the Pooled Analysis of EINSTEIN DVT and EINSTEIN PE Studies
 
-| Parameter | XARELTO Treatment schedule in EINSTEIN DVT and EINSTEIN PE studies: XARELTO 15 mg twice daily for 3 weeks followed by 20 mg once daily; enoxaparin/VKA [enoxaparin: 1 mg/kg twice daily, VKA: individually titrated doses to achieve a target INR of 2.5 (range: 2.0–3.0)] N=4130 n (%) | Enoxaparin/VKA N=4116 n (%) |
+| Parameter | XARELTOTreatment schedule in EINSTEIN DVT and EINSTEIN PE studies: XARELTO 15 mg twice daily for 3 weeks followed by 20 mg once daily; enoxaparin/VKA [enoxaparin: 1 mg/kg twice daily, VKA: individually titrated doses to achieve a target INR of 2.5 (range: 2.0–3.0)] N=4130 n (%) | Enoxaparin/VKA N=4116 n (%) |
 | --- | --- | --- |
 | Major bleeding event | 40 (1.0) | 72 (1.7) |
 | Fatal bleeding | 3 (<0.1) | 8 (0.2) |
 | Intracranial | 2 (<0.1) | 4 (<0.1) |
 | Non-fatal critical organ bleeding | 10 (0.2) | 29 (0.7) |
-| Intracranial Treatment-emergent major bleeding events with at least >2 subjects in any pooled treatment group | 3 (<0.1) | 10 (0.2) |
+| IntracranialTreatment-emergent major bleeding events with at least >2 subjects in any pooled treatment group | 3 (<0.1) | 10 (0.2) |
 | Retroperitoneal | 1 (<0.1) | 8 (0.2) |
 | Intraocular | 3 (<0.1) | 2 (<0.1) |
 | Intra-articular | 0 | 4 (<0.1) |
-| Non-fatal non-critical organ bleeding Major bleeding which is not fatal or in a critical organ, but resulting in a decrease in Hb ≥ 2 g/dL and/or transfusion of ≥2 units of whole blood or packed red blood cells | 27 (0.7) | 37 (0.9) |
+| Non-fatal non-critical organ bleedingMajor bleeding which is not fatal or in a critical organ, but resulting in a decrease in Hb ≥ 2 g/dL and/or transfusion of ≥2 units of whole blood or packed red blood cells | 27 (0.7) | 37 (0.9) |
 | Decrease in Hb ≥ 2 g/dL | 28 (0.7) | 42 (1.0) |
 | Transfusion of ≥2 units of whole blood or packed red blood cells | 18 (0.4) | 25 (0.6) |
 | Clinically relevant non-major bleeding | 357 (8.6) | 357 (8.7) |
@@ -81,16 +81,16 @@ The mean duration of treatment was 293 days for XARELTO 10 mg-treated patients a
 
 Table 7 shows the number of patients experiencing bleeding events in the EINSTEIN CHOICE study.
 
-Table 7: Bleeding Events Bleeding event occurred after the first dose and up to 2 days after the last dose of study drug.
-Although a patient may have had 2 or more events, the patient is counted only once in a category.in EINSTEIN CHOICE
+Table 7: Bleeding EventsBleeding event occurred after the first dose and up to 2 days after the last dose of study drug.
+Although a patient may have had 2 or more events, the patient is counted only once in a category. in EINSTEIN CHOICE
 
-| Parameter | XARELTO Treatment schedule: XARELTO 10 mg once daily or aspirin 100 mg once daily. 10 mg N=1127 n (%) | Acetylsalicylic Acid (aspirin) 100 mg N=1131 n (%) |
+| Parameter | XARELTOTreatment schedule: XARELTO 10 mg once daily or aspirin 100 mg once daily. 10 mg N=1127 n (%) | Acetylsalicylic Acid (aspirin) 100 mg N=1131 n (%) |
 | --- | --- | --- |
 | Major bleeding event | 5 (0.4) | 3 (0.3) |
 | Fatal bleeding | 0 | 1 (<0.1) |
 | Non-fatal critical organ bleeding | 2 (0.2) | 1 (<0.1) |
-| Non-fatal non-critical organ bleeding Major bleeding which is not fatal or in a critical organ, but resulting in a decrease in Hb ≥ 2 g/dL and/or transfusion of ≥ 2 units of whole blood or packed red blood cells. | 3 (0.3) | 1 (<0.1) |
-| Clinically relevant non-major (CRNM) bleeding Bleeding which was clinically overt, did not meet the criteria for major bleeding, but was associated with medical intervention, unscheduled contact with a physician, temporary cessation of treatment, discomfort for the patient, or impairment of activities of daily life. | 22 (2.0) | 20 (1.8) |
+| Non-fatal non-critical organ bleedingMajor bleeding which is not fatal or in a critical organ, but resulting in a decrease in Hb ≥ 2 g/dL and/or transfusion of ≥ 2 units of whole blood or packed red blood cells. | 3 (0.3) | 1 (<0.1) |
+| Clinically relevant non-major (CRNM) bleedingBleeding which was clinically overt, did not meet the criteria for major bleeding, but was associated with medical intervention, unscheduled contact with a physician, temporary cessation of treatment, discomfort for the patient, or impairment of activities of daily life. | 22 (2.0) | 20 (1.8) |
 | Any bleeding | 151 (13.4) | 138 (12.2) |
 
 In the EINSTEIN CHOICE study, there was an increased incidence of bleeding, including major and CRNM bleeding in the XARELTO 20 mg group compared to the XARELTO 10 mg or aspirin 100 mg groups.
@@ -101,8 +101,8 @@ In the RECORD clinical trials, the overall incidence rate of adverse reactions l
 
 The rates of major bleeding events and any bleeding events observed in patients in the RECORD clinical trials are shown in Table 8.
 
-Table 8: Bleeding Events Bleeding events occurring any time following the first dose of double-blind study medication (which may have been prior to administration of active drug) until two days after the last dose of double-blind study medication.
-Patients may have more than one event.in Patients Undergoing Hip or Knee Replacement Surgeries (RECORD 1–3)
+Table 8: Bleeding EventsBleeding events occurring any time following the first dose of double-blind study medication (which may have been prior to administration of active drug) until two days after the last dose of double-blind study medication.
+Patients may have more than one event. in Patients Undergoing Hip or Knee Replacement Surgeries (RECORD 1–3)
 
 |  | XARELTO 10 mg | Enoxaparin Includes the placebo-controlled period for RECORD 2, enoxaparin dosing was 40 mg once daily (RECORD 1–3) |
 | --- | --- | --- |
@@ -112,7 +112,7 @@ Patients may have more than one event.in Patients Undergoing Hip or Knee Replace
 | Bleeding into a critical organ | 2 (<0.1) | 3 (0.1) |
 | Bleeding that required re-operation | 7 (0.2) | 5 (0.1) |
 | Extra-surgical site bleeding requiring transfusion of >2 units of whole blood or packed cells | 4 (0.1) | 1 (<0.1) |
-| Any bleeding event Includes major bleeding events | 261 (5.8) | 251 (5.6) |
+| Any bleeding eventIncludes major bleeding events | 261 (5.8) | 251 (5.6) |
 | Hip Surgery Studies | N=3281 n (%) | N=3298 n (%) |
 | Major bleeding event | 7 (0.2) | 3 (0.1) |
 | Fatal bleeding | 1 (<0.1) | 0 |
@@ -139,13 +139,14 @@ The incidence of bleeding leading to drug discontinuation was 2.5% for XARELTO v
 
 Table 9 shows the number of patients experiencing various types of bleeding events in the MAGELLAN study.
 
-Table 9: Bleeding Events in MAGELLAN Patients at high risk of bleeding (i.e. bronchiectasis/pulmonary cavitation, active cancer, dual antiplatelet therapy or active gastroduodenal ulcer or any bleeding in the previous three months) were excluded.Study–Safety Analysis Set - On Treatment Plus 2 Days
+Table 9: Bleeding Events in MAGELLANPatients at high risk of bleeding (i.e. bronchiectasis/pulmonary cavitation, active cancer, dual antiplatelet therapy or active gastroduodenal ulcer or any bleeding in the previous three months) were excluded.
+Study–Safety Analysis Set - On Treatment Plus 2 Days
 
-| MAGELLAN Study Patients received either XARELTO or placebo once daily for 35 ±4 days starting in hospital and continuing post hospital discharge or received enoxaparin or placebo once daily for 10 ±4 days in the hospital. | XARELTO 10 mg N=3218 n (%) | Enoxaparin 40 mg /placebo N=3229 n (%) |
+| MAGELLAN StudyPatients received either XARELTO or placebo once daily for 35 ±4 days starting in hospital and continuing post hospital discharge or received enoxaparin or placebo once daily for 10 ±4 days in the hospital. | XARELTO 10 mg N=3218 n (%) | Enoxaparin 40 mg /placebo N=3229 n (%) |
 | --- | --- | --- |
-| Major bleeding Defined as clinically overt bleeding associated with a drop in hemoglobin of ≥2 g/dL, a transfusion of ≥2 units of packed red blood cells or whole blood, bleeding at a critical site, or with a fatal outcome.Major bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories. These events occurred during treatment or within 2 days of stopping treatment. | 22 (0.7) | 15 (0.5) |
+| Major bleedingDefined as clinically overt bleeding associated with a drop in hemoglobin of ≥2 g/dL, a transfusion of ≥2 units of packed red blood cells or whole blood, bleeding at a critical site, or with a fatal outcome.Major bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories. These events occurred during treatment or within 2 days of stopping treatment. | 22 (0.7) | 15 (0.5) |
 | Critical site bleeding | 7 (0.2) | 4 (0.1) |
-| Fatal bleeding Fatal bleeding is adjudicated death with the primary cause of death from bleeding. | 3 (<0.1) | 1 (<0.1) |
+| Fatal bleedingFatal bleeding is adjudicated death with the primary cause of death from bleeding. | 3 (<0.1) | 1 (<0.1) |
 | Clinically relevant non-major bleeding events (CRNM) | 93 (2.9) | 34 (1.1) |
 
 Reduction of Risk of Major Cardiovascular Events in Patients with CAD
@@ -155,16 +156,16 @@ The incidences of important bleeding events in the CAD and PAD populations in CO
 
 Table 10 shows the number of patients experiencing various types of major bleeding events in the COMPASS trial.
 
-Table 10: Major Bleeding Events in COMPASS - On Treatment Plus 2 Days Major bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.
+Table 10: Major Bleeding Events in COMPASS - On Treatment Plus 2 DaysMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.
 These events occurred during treatment or within 2 days of stopping treatment in the safety analysis set in COMPASS patients.
 
-| Parameter | XARELTO Treatment schedule: XARELTO 2.5 mg twice daily or placebo. All patients received background therapy with aspirin 100 mg once daily. N=9134 n (%/year) | Placebo N=9107 n (%/year) | XARELTO vs. Placebo HR (95 % CI) |
+| Parameter | XARELTOTreatment schedule: XARELTO 2.5 mg twice daily or placebo. All patients received background therapy with aspirin 100 mg once daily. N=9134 n (%/year) | Placebo N=9107 n (%/year) | XARELTO vs. Placebo HR (95 % CI) |
 | --- | --- | --- | --- |
-| Modified ISTH Major Bleeding Defined as i) fatal bleeding, or ii) symptomatic bleeding in a critical area or organ, such as intraarticular, intramuscular with compartment syndrome, intraspinal, intracranial, intraocular, respiratory, pericardial, liver, pancreas, retroperitoneal, adrenal gland or kidney; or iii) bleeding into the surgical site requiring reoperation, or iv) bleeding leading to hospitalization. | 263 (1.6) | 144 (0.9) | 1.8 (1.5, 2.3) |
-| Fatal bleeding event Intracranial hemorrhage (ICH) Non-intracranial | 12 (<0.1) 6 (<0.1) 6 (<0.1) | 8 (<0.1) 3 (<0.1) 5 (<0.1) | 1.5 (0.6, 3.7) 2.0 (0.5, 8.0) 1.2 (0.4, 4.0) |
-| Symptomatic bleeding in critical organ (non-fatal)ICH (fatal and non-fatal) Hemorrhagic Stroke Other ICH | 58 (0.3) 23 (0.1) 18 (0.1) 6 (<0.1) | 43 (0.3) 21 (0.1) 13 (<0.1) 9 (<0.1) | 1.4 (0.9, 2.0) 1.1 (0.6, 2.0) 1.4 (0.7, 2.8) 0.7 (0.2, 1.9) |
-| Bleeding into the surgical site requiring reoperation (non-fatal, not in critical organ) | 7 (<0.1) | 6 (<0.1) | 1.2 (0.4, 3.5) |
-| Bleeding leading to hospitalization (non-fatal, not in critical organ, not requiring reoperation) | 188 (1.1) | 91 (0.5) | 2.1 (1.6, 2.7) |
+| Modified ISTH Major BleedingDefined as i) fatal bleeding, or ii) symptomatic bleeding in a critical area or organ, such as intraarticular, intramuscular with compartment syndrome, intraspinal, intracranial, intraocular, respiratory, pericardial, liver, pancreas, retroperitoneal, adrenal gland or kidney; or iii) bleeding into the surgical site requiring reoperation, or iv) bleeding leading to hospitalization. | 263 (1.6) | 144 (0.9) | 1.8 (1.5, 2.3) |
+| - Fatal bleeding event Intracranial hemorrhage (ICH) Non-intracranial | 12 (<0.1) 6 (<0.1) 6 (<0.1) | 8 (<0.1) 3 (<0.1) 5 (<0.1) | 1.5 (0.6, 3.7) 2.0 (0.5, 8.0) 1.2 (0.4, 4.0) |
+| - Symptomatic bleeding in critical organ (non-fatal) - ICH (fatal and non-fatal) Hemorrhagic Stroke Other ICH | 58 (0.3) 23 (0.1) 18 (0.1) 6 (<0.1) | 43 (0.3) 21 (0.1) 13 (<0.1) 9 (<0.1) | 1.4 (0.9, 2.0) 1.1 (0.6, 2.0) 1.4 (0.7, 2.8) 0.7 (0.2, 1.9) |
+| - Bleeding into the surgical site requiring reoperation (non-fatal, not in critical organ) | 7 (<0.1) | 6 (<0.1) | 1.2 (0.4, 3.5) |
+| - Bleeding leading to hospitalization (non-fatal, not in critical organ, not requiring reoperation) | 188 (1.1) | 91 (0.5) | 2.1 (1.6, 2.7) |
 | Major GI bleeding | 117 (0.7) | 49 (0.3) | 2.4 (1.7, 3.4) |
 | CI: confidence interval; HR: hazard ratio; ISTH: International Society on Thrombosis and Hemostasis |  |  |  |
 
@@ -175,11 +176,11 @@ The incidence of premature permanent discontinuation due to bleeding events for 
 Table 11 shows the number of patients experiencing various types of TIMI (Thrombolysis in Myocardial Infarction) major bleeding events in the VOYAGER trial.
 The most common site of bleeding was gastrointestinal.
 
-Table 11: Major Bleeding Events Major bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.in VOYAGER- On Treatment Plus 2 Days
+Table 11: Major Bleeding EventsMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories. in VOYAGER- On Treatment Plus 2 Days
 
 | Parameter | n (%) | Event rate %/year | n (%) | Event rate %/year |  |
 | --- | --- | --- | --- | --- | --- |
-|  | XARELTO Treatment schedule: XARELTO 2.5 mg twice daily or placebo. All patients received background therapy with aspirin 100 mg once daily. N=3256 |  | Placebo N=3248 |  | XARELTO vs. Placebo HR (95 % CI) |
+|  | XARELTOTreatment schedule: XARELTO 2.5 mg twice daily or placebo. All patients received background therapy with aspirin 100 mg once daily. N=3256 |  | Placebo N=3248 |  | XARELTO vs. Placebo HR (95 % CI) |
 | TIMI Major Bleeding (CABG/non-CABG) | 62 (1.9) | 0.96 | 44 (1.4) | 0.67 | 1.4 (1.0, 2.1) |
 | Fatal bleeding | 6 (0.2) | 0.09 | 6 (0.2) | 0.09 | 1.0 (0.3, 3.2) |
 | Intracranial bleeding | 13 (0.4) | 0.20 | 17 (0.5) | 0.26 | 0.8 (0.4, 1.6) |
@@ -190,7 +191,7 @@ Other Adverse Reactions
 
 Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in the EINSTEIN DVT and EINSTEIN PE studies are shown in Table 12.
 
-Table 12: Other Adverse Reactions Adverse reaction with Relative Risk >1.5 for XARELTO versus comparatorReported by ≥1% of XARELTO-Treated Patients in EINSTEIN DVT and EINSTEIN PE Studies
+Table 12: Other Adverse ReactionsAdverse reaction with Relative Risk >1.5 for XARELTO versus comparator Reported by ≥1% of XARELTO-Treated Patients in EINSTEIN DVT and EINSTEIN PE Studies
 
 | Body System Adverse Reaction |  |  |
 | --- | --- | --- |
@@ -214,9 +215,9 @@ Table 12: Other Adverse Reactions Adverse reaction with Relative Risk >1.5 for X
 
 Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in RECORD 1–3 studies are shown in Table 13.
 
-Table 13: Other Adverse Drug Reactions Adverse reaction occurring any time following the first dose of double-blind medication, which may have been prior to administration of active drug, until two days after the last dose of double-blind study medicationReported by ≥1% of XARELTO-Treated Patients in RECORD 1–3 Studies
+Table 13: Other Adverse Drug ReactionsAdverse reaction occurring any time following the first dose of double-blind medication, which may have been prior to administration of active drug, until two days after the last dose of double-blind study medication Reported by ≥1% of XARELTO-Treated Patients in RECORD 1–3 Studies
 
-| Body System Adverse Reaction | XARELTO 10 mg N=4487 n (%) | Enoxaparin Includes the placebo-controlled period of RECORD 2, enoxaparin dosing was 40 mg once daily (RECORD 1–3) N=4524 n (%) |
+| Body System Adverse Reaction | XARELTO 10 mg N=4487 n (%) | EnoxaparinIncludes the placebo-controlled period of RECORD 2, enoxaparin dosing was 40 mg once daily (RECORD 1–3) N=4524 n (%) |
 | --- | --- | --- |
 | Injury, poisoning and procedural complications |  |  |
 | Wound secretion | 125 (2.8) | 89 (2.0) |
@@ -241,24 +242,25 @@ Discontinuation due to bleeding events occurred in 6 (1.8%) patients in the XARE
 Table 14 shows the number of patients experiencing bleeding events in the EINSTEIN Junior study.
 In female patients who had experienced menarche, ages 12 to <18 years of age, menorrhagia occurred in 23 (27%) female patients in the XARELTO group and 5 (10%) female patients in the comparator group.
 
-Table 14: Bleeding Events in EINSTEIN Junior Study – Safety Analysis Set - Main Treatment Period These events occurred after randomization until 3 months of treatment (1 month for patients <2 years with central venous catheter-related VTE (CVC-VTE).
+Table 14: Bleeding Events in EINSTEIN Junior Study – Safety Analysis Set - Main Treatment PeriodThese events occurred after randomization until 3 months of treatment (1 month for patients <2 years with central venous catheter-related VTE (CVC-VTE).
 Patients may have more than one event.
 
-| Parameter | XARELTO Treatment schedule: body weight-adjusted doses of XARELTO; randomized 2:1 (XARELTO: Comparator). N=329 n (%) | Comparator Group Unfractionated heparin (UFH), low molecular weight heparin (LMWH), fondaparinux or VKA. N=162 n (%) |
+| Parameter | XARELTOTreatment schedule: body weight-adjusted doses of XARELTO; randomized 2:1 (XARELTO: Comparator). N=329 n (%) | Comparator GroupUnfractionated heparin (UFH), low molecular weight heparin (LMWH), fondaparinux or VKA. N=162 n (%) |
 | --- | --- | --- |
-| Major bleeding Defined as clinically overt bleeding associated with a decrease in hemoglobin of ≥2 g/dL, a transfusion of ≥2 units of packed red blood cells or whole blood, bleeding at a critical site, or with a fatal outcome. | 0 | 2 (1.2) |
-| Clinically relevant non-major bleeding Defined as clinically overt bleeding, which did not meet the criteria for major bleeding, but was associated with medical intervention, unscheduled contact with a physician, temporary cessation of treatment, discomfort for the patient, or impairment of activities of daily life. | 10 (3.0) | 1 (0.6) |
+| Major bleedingDefined as clinically overt bleeding associated with a decrease in hemoglobin of ≥2 g/dL, a transfusion of ≥2 units of packed red blood cells or whole blood, bleeding at a critical site, or with a fatal outcome. | 0 | 2 (1.2) |
+| Clinically relevant non-major bleedingDefined as clinically overt bleeding, which did not meet the criteria for major bleeding, but was associated with medical intervention, unscheduled contact with a physician, temporary cessation of treatment, discomfort for the patient, or impairment of activities of daily life. | 10 (3.0) | 1 (0.6) |
 | Trivial bleeding | 113 (34.3) | 44 (27.2) |
 | Any bleeding | 119 (36.2) | 45 (27.8) |
 
 Non-bleeding adverse reactions reported in ≥5% of XARELTO-treated patients are shown in Table 15.
 
-Table 15: Other Adverse Reactions Adverse reaction with Relative Risk >1.5 for XARELTO versus comparator.Reported in XARELTO-Treated Patients by ≥5% in EINSTEIN Junior Study
+Table 15: Other Adverse ReactionsAdverse reaction with Relative Risk >1.5 for XARELTO versus comparator.
+Reported in XARELTO-Treated Patients by ≥5% in EINSTEIN Junior Study
 
 | Adverse Reaction | XARELTO N=329 n (%) | Comparator Group N=162 n (%) |
 | --- | --- | --- |
 | Pain in extremity | 23 (7) | 7 (4.3) |
-| Fatigue The following terms were combined: fatigue, asthenia. | 23 (7) | 7 (4.3) |
+| FatigueThe following terms were combined: fatigue, asthenia. | 23 (7) | 7 (4.3) |
 
 A clinically relevant adverse reaction in XARELTO-treated patients was vomiting (10.6% in the XARELTO group vs 8% in the comparator group).
 
@@ -273,23 +275,24 @@ Table 16 shows the number of patients experiencing bleeding events in the UNIVER
 
 Table 16: Bleeding Events in UNIVERSE Study - Safety Analysis Set - On Treatment Plus 2 Days
 
-| Parameter | XARELTO Treatment schedule: body weight-adjusted doses of XARELTO or aspirin (approximately 5 mg/kg); randomized 2:1 (XARELTO: Aspirin). N=64 n (%) | Aspirin N=34 n (%) |
+| Parameter | XARELTOTreatment schedule: body weight-adjusted doses of XARELTO or aspirin (approximately 5 mg/kg); randomized 2:1 (XARELTO: Aspirin). N=64 n (%) | Aspirin N=34 n (%) |
 | --- | --- | --- |
-| Major Bleeding Defined as clinically overt bleeding associated with a decrease in hemoglobin of ≥2 g/dL, a transfusion of the equivalent of ≥2 units of packed red blood cells or whole blood, bleeding at a critical site, or with a fatal outcome. | 1 (1.6) | 0 |
+| Major BleedingDefined as clinically overt bleeding associated with a decrease in hemoglobin of ≥2 g/dL, a transfusion of the equivalent of ≥2 units of packed red blood cells or whole blood, bleeding at a critical site, or with a fatal outcome. | 1 (1.6) | 0 |
 | Epistaxis leading to transfusion | 1 (1.6) | 0 |
-| Clinically relevant non-major (CRNM) bleeding Defined as clinically overt bleeding, which did not meet the criteria for major bleeding, but was associated with medical intervention, unscheduled contact with a physician, temporary cessation of treatment, discomfort for the patient, or impairment of activities of daily life. | 4 (6.3) | 3 (8.8) |
+| Clinically relevant non-major (CRNM) bleedingDefined as clinically overt bleeding, which did not meet the criteria for major bleeding, but was associated with medical intervention, unscheduled contact with a physician, temporary cessation of treatment, discomfort for the patient, or impairment of activities of daily life. | 4 (6.3) | 3 (8.8) |
 | Trivial bleeding | 21 (32.8) | 12 (35.3) |
 | Any bleeding | 23 (35.9) | 14 (41.2) |
 
 Non-bleeding adverse reactions reported in ≥5% of XARELTO-treated patients are shown in Table 17.
 
-Table 17: Other Adverse Reactions Adverse reaction with Relative Risk >1.5 for XARELTO versus aspirin.Reported by ≥5% of XARELTO-Treated Patients in UNIVERSE Study (Part B)
+Table 17: Other Adverse ReactionsAdverse reaction with Relative Risk >1.5 for XARELTO versus aspirin.
+Reported by ≥5% of XARELTO-Treated Patients in UNIVERSE Study (Part B)
 
 | Adverse Reaction | XARELTO N=64 n (%) | Aspirin N=34 n (%) |
 | --- | --- | --- |
 | Cough | 10 (15.6) | 3 (8.8) |
 | Vomiting | 9 (14.1) | 3 (8.8) |
-| Gastroenteritis The following terms were combined: Gastroenteritis: gastroenteritis, gastroenteritis viral Rash: rash, rash maculo-papular, viral rash | 8 (12.5) | 1 (2.9) |
+| GastroenteritisThe following terms were combined: Gastroenteritis: gastroenteritis, gastroenteritis viral Rash: rash, rash maculo-papular, viral rash | 8 (12.5) | 1 (2.9) |
 | Rash | 6 (9.4) | 2 (5.9) |
 
 ## 6.2 Postmarketing Experience
@@ -297,18 +300,18 @@ Table 17: Other Adverse Reactions Adverse reaction with Relative Risk >1.5 for X
 The following adverse reactions have been identified during post-approval use of XARELTO.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and lymphatic system disorders:agranulocytosis, thrombocytopenia
+Blood and lymphatic system disorders: agranulocytosis, thrombocytopenia
 
-Hepatobiliary disorders:jaundice, cholestasis, hepatitis (including hepatocellular injury)
+Hepatobiliary disorders: jaundice, cholestasis, hepatitis (including hepatocellular injury)
 
-Immune system disorders:hypersensitivity, anaphylactic reaction, anaphylactic shock, angioedema
+Immune system disorders: hypersensitivity, anaphylactic reaction, anaphylactic shock, angioedema
 
-Nervous system disorders:hemiparesis
+Nervous system disorders: hemiparesis
 
-Renal disorders:Anticoagulant-related nephropathy
+Renal disorders: Anticoagulant-related nephropathy
 
-Respiratory, thoracic and mediastinal disorders:Eosinophilic pneumonia
+Respiratory, thoracic and mediastinal disorders: Eosinophilic pneumonia
 
-Skin and subcutaneous tissue disorders:Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms (DRESS)
+Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms (DRESS)
 
-Injury, poisoning and procedural complications:Atraumatic splenic rupture
+Injury, poisoning and procedural complications: Atraumatic splenic rupture

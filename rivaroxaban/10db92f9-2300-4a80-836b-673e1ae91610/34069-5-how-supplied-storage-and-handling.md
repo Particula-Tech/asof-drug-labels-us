@@ -1,18 +1,18 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-XARELTO ®(rivaroxaban) Tablets are available in the strengths and packages listed below:
+XARELTO® (rivaroxaban) Tablets are available in the strengths and packages listed below:
 
 - 2.5 mg tablets are round, light yellow, and film-coated with a triangle pointing down above a "2.5" marked on one side and "Xa" on the other side.
   The tablets are supplied in the packages listed: NDC 50458-577-60Bottle containing 60 tabletsNDC 50458-577-18Bottle containing 180 tabletsNDC 50458-577-10Blister package containing 100 tablets (10 blister cards containing 10 tablets each)
 - 10 mg tablets are round, light red, biconvex film-coated tablets marked with a triangle pointing down above a "10" on one side, and "Xa" on the other side.
   The tablets are supplied in the packages listed: NDC 50458-580-30Bottle containing 30 tabletsNDC 50458-580-90Bottle containing 90 tabletsNDC 50458-580-10Blister package containing 100 tablets (10 blister cards containing 10 tablets each)
 - 15 mg tablets are round, red, biconvex film-coated tablets with a triangle pointing down above a "15" marked on one side and "Xa" on the other side.
-  The tablets are supplied in the packages listed: NDC 50458-578-30Bottle containing 30 tabletsNDC 50458-578-90Bottle containing 90 tabletsNDC 50458-578-10Blister package containing 100 tablets (10 blister cards containing 10 tablets each)
+  The tablets are supplied in the packages listed: NDC 50458-578-30Bottle containing 30 tabletsNDC 50458-578-90Bottle containing 90 tabletsNDC 50458-578-10 Blister package containing 100 tablets (10 blister cards containing 10 tablets each)
 - 20 mg tablets are triangle-shaped, dark red film-coated tablets with a triangle pointing down above a "20" marked on one side and "Xa" on the other side.
   The tablets are supplied in the packages listed: NDC 50458-579-30Bottle containing 30 tabletsNDC 50458-579-90Bottle containing 90 tabletsNDC 50458-579-89Bulk bottle containing 1000 tabletsNDC 50458-579-10Blister package containing 100 tablets (10 blister cards containing 10 tablets each)
 - Starter Pack for treatment of deep vein thrombosis and treatment of pulmonary embolism: NDC 50458-584-5130-day starter blister pack containing 51 tablets: 42 tablets of 15 mg and 9 tablets of 20 mg
 
-XARELTO ®(rivaroxaban) for oral suspension is available in the strength and package listed below:
+XARELTO® (rivaroxaban) for oral suspension is available in the strength and package listed below:
 
 | NDC 50458-575-01 | Supplied as white to off-white granules in an amber glass bottle containing 155 mg rivaroxaban packaged with two oral dosing syringes. After reconstitution with 150 mL of purified water, 1 mL of the suspension contains 1 mg rivaroxaban. |
 | --- | --- |

@@ -4,7 +4,7 @@
 
 Premature discontinuation of any oral anticoagulant, including XARELTO, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.
 An increased rate of stroke was observed during the transition from XARELTO to warfarin in clinical trials in atrial fibrillation patients.
-If XARELTO is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.3, 2.4)and Clinical Studies (14.1)].
+If XARELTO is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.3, 2.4) and Clinical Studies (14.1)].
 
 ## 5.2 Risk of Bleeding
 
@@ -16,7 +16,7 @@ Discontinue XARELTO in patients with active pathological hemorrhage.
 The terminal elimination half-life of rivaroxaban is 5 to 9 hours in healthy subjects aged 20 to 45 years.
 
 Concomitant use of other drugs that impair hemostasis increases the risk of bleeding.
-These include aspirin, P2Y 12platelet inhibitors, dual antiplatelet therapy, other antithrombotic agents, fibrinolytic therapy, non-steroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.4)], selective serotonin reuptake inhibitors, and serotonin norepinephrine reuptake inhibitors.
+These include aspirin, P2Y12 platelet inhibitors, dual antiplatelet therapy, other antithrombotic agents, fibrinolytic therapy, non-steroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.4)], selective serotonin reuptake inhibitors, and serotonin norepinephrine reuptake inhibitors.
 
 Concomitant use of drugs that are known combined P-gp and strong CYP3A inhibitors increases rivaroxaban exposure and may increase bleeding risk [see Drug Interactions (7.2)].
 
@@ -27,7 +27,7 @@ XARELTO is not for use for primary VTE prophylaxis in these hospitalized, acutel
 
 Reversal of Anticoagulant Effect
 
-An agent to reverse the anti-factor Xa activity of rivaroxaban is available.
+A specific agent to reverse the anti-factor Xa activity of rivaroxaban is not available.
 Because of high plasma protein binding, rivaroxaban is not dialyzable [see Clinical Pharmacology (12.3)].
 Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of rivaroxaban.
 Use of procoagulant reversal agents, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate or recombinant factor VIIa, may be considered but has not been evaluated in clinical efficacy and safety studies.
@@ -81,9 +81,9 @@ Discontinue XARELTO in patients who develop acute renal failure while on treatme
 
 Pediatric Patients
 
-There are limited clinical data in pediatric patients 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m 2); therefore, avoid the use of XARELTO in these patients.
+There are limited clinical data in pediatric patients 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m2); therefore, avoid the use of XARELTO in these patients.
 
-There are no clinical data in pediatric patients younger than 1 year with serum creatinine results above 97.5 thpercentile; therefore, avoid the use of XARELTO in these patients [see Dosage and Administration (2.2)and Use in Specific Populations (8.6)].
+There are no clinical data in pediatric patients younger than 1 year with serum creatinine results above 97.5th percentile; therefore, avoid the use of XARELTO in these patients [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 ## 5.5 Use in Patients with Hepatic Impairment
 
@@ -104,7 +104,7 @@ Avoid concomitant use of XARELTO with drugs that are known combined P-gp and str
 In pregnant women, XARELTO should be used only if the potential benefit justifies the potential risk to the mother and fetus.
 XARELTO dosing in pregnancy has not been studied.
 The anticoagulant effect of XARELTO cannot be monitored with standard laboratory testing.
-Promptly evaluate any signs or symptoms suggesting blood loss (e.g., a drop in hemoglobin and/or hematocrit, hypotension, or fetal distress) [see Warnings and Precautions (5.2)and Use in Specific Populations (8.1)].
+Promptly evaluate any signs or symptoms suggesting blood loss (e.g., a drop in hemoglobin and/or hematocrit, hypotension, or fetal distress) [see Warnings and Precautions (5.2) and Use in Specific Populations (8.1)].
 
 ## 5.8 Patients with Prosthetic Heart Valves
 
