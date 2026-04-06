@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA220320"
+  ],
+  "inn": "atomoxetine",
+  "labeler": "Advagen Pharma Ltd.",
+  "package_ndcs": [
+    "72888-456-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "atomoxetine hydrochloride",
+      "name": "Atomoxetine hydrochloride"
+    }
+  ],
+  "setid": "16096e9c-2dcd-4c84-a1a8-1c85d6d6898c",
+  "source": "dailymed"
+}
