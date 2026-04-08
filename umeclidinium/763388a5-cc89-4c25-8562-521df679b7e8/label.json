@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205382"
+  ],
+  "inn": "umeclidinium",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-189-97"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, POWDER",
+      "generic": "umeclidinium",
+      "name": "Umeclidinium Ellipta"
+    }
+  ],
+  "setid": "763388a5-cc89-4c25-8562-521df679b7e8",
+  "source": "dailymed"
+}
