@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA211156"
+  ],
+  "inn": "dapagliflozin",
+  "labeler": "Florida Pharmaceutical Products, LLC",
+  "package_ndcs": [
+    "71921-420-09",
+    "71921-420-33",
+    "71921-420-50",
+    "71921-421-09",
+    "71921-421-33",
+    "71921-421-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dapagliflozin",
+      "name": "DAPAGLIFLOZIN"
+    }
+  ],
+  "setid": "20a83ea2-6ad8-4bbb-b516-73c0a9e37399",
+  "source": "dailymed"
+}
