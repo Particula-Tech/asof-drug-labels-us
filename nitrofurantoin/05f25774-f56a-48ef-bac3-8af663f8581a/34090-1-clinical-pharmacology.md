@@ -52,7 +52,7 @@ However, the efficacy of nitrofurantoin in treating clinical infections due to t
 
 Aerobic and facultative Gram-positive microorganisms:
 
-Coagulase-negative staphylococci (including Staphylococcus epidermidis and Staphylococcus saprophyticus)
+Coagulase-negative staphylococci(including Staphylococcus epidermidisand Staphylococcus saprophyticus)
 
 Streptococcus agalactiae
 

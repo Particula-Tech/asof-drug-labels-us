@@ -35,15 +35,15 @@ Hemolysis is an indication for discontinuing nitrofurantoin macrocrystals; hemol
 
 ## Clostridium difficile-associated diarrhea:
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including nitrofurantoin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficileassociated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including nitrofurantoin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+C. difficileproduces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficilecause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficilemay need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 # PRECAUTIONS
@@ -104,7 +104,7 @@ Doses of 10 mg/kg/day or greater in healthy human males may, in certain unpredic
 
 ## Pregnancy:
 
-Teratogenic Effects: Pregnancy Category B.
+Teratogenic effects:Pregnancy Category B.
 
 Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to nitrofurantoin.
 In a single published study conducted in mice at 68 times the human dose (based on mg/kg administered to the dam), growth retardation and a low incidence of minor and common malformations were observed.
@@ -112,7 +112,7 @@ However, at 25 times the human dose, fetal malformations were not observed; the 
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-Nonteratogenic Effects:
+Nonteratogenic effects:
 
 Nitrofurantoin has been shown in one published transplacental carcinogenicity study to induce lung papillary adenomas in the F1 generation mice at doses 19 times the human dose on a mg/kg basis.
 The relationship of this finding to potential human carcinogenesis is presently unknown.

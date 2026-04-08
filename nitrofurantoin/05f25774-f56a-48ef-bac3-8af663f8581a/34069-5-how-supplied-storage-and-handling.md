@@ -15,8 +15,7 @@ Nitrofurantoin Capsules, USP (Macrocrystals), 100 mg are size “2” grey opaqu
 1. Bottles of 100 NDC 57664-233-88
 2. Bottles of 1000 NDC 57664-233-18
 
-Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Protect from light and moisture.
 
@@ -40,7 +39,7 @@ Dehradun - 248 197
 Uttarakhand, India
 
 Rev.
-11/18
+05/2023
 
 M. L. No. 38/UA/2007
 

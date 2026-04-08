@@ -25,7 +25,7 @@ Changes in EKG (e.g., non-specific ST/T wave changes, bundle branch block) have 
 
 Cyanosis has been reported rarely.
 
-Hepatic: Hepatic reactions, including hepatitis, cholestatic jaundice, chronic active hepatitis, and hepatic necrosis, occur rarely (see WARNINGS).
+Hepatic:Hepatic reactions, including hepatitis, cholestatic jaundice, chronic active hepatitis, and hepatic necrosis, occur rarely (see WARNINGS).
 
 Neurologic: Peripheral neuropathy, which may become severe or irreversible, has occurred.
 Fatalities have been reported.
@@ -36,24 +36,24 @@ Asthenia, vertigo, nystagmus, dizziness, headache, and drowsiness also have been
 Benign intracranial hypertension (pseudotumor cerebri), confusion, depression, optic neuritis, and psychotic reactions have been reported rarely.
 Bulging fontanels, as a sign of benign intracranial hypertension in infants, have been reported rarely.
 
-Dermatologic: Exfoliative dermatitis and erythema multiforme (including Stevens-Johnson syndrome) have been reported rarely.
+Dermatologic:Exfoliative dermatitis and erythema multiforme (including Stevens-Johnson syndrome) have been reported rarely.
 Transient alopecia also has been reported.
 
-Allergic: A lupus-like syndrome associated with pulmonary reactions to nitrofurantoin has been reported.
+Allergic:A lupus-like syndrome associated with pulmonary reactions to nitrofurantoin has been reported.
 Also, angioedema; maculopapular, erythematous, or eczematous eruptions; pruritus; urticaria; anaphylaxis; arthralgia; myalgia; drug fever; chills; and vasculitis (sometimes associated with pulmonary reactions) have been reported.
 Hypersensitivity reactions represent the most frequent spontaneously-reported adverse events in worldwide post-marketing experience with nitrofurantoin formulations.
 
-Gastrointestinal: Nausea, emesis, and anorexia occur most often.
+Gastrointestinal:Nausea, emesis, and anorexia occur most often.
 Abdominal pain and diarrhea are less common gastrointestinal reactions.
 These dose-related reactions can be minimized by reduction of dosage.
 Sialadenitis and pancreatitis have been reported.
 There have been sporadic reports of pseudomembranous colitis with the use of nitrofurantoin.
 The onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment (see WARNINGS).
 
-Hematologic: Cyanosis secondary to methemoglobinemia has been reported rarely.
+Hematologic:Cyanosis secondary to methemoglobinemia has been reported rarely.
 
-Miscellaneous: As with other antimicrobial agents, superinfections caused by resistant organisms, e.g., Pseudomonas species or Candida species, can occur.
+Miscellaneous:As with other antimicrobial agents, superinfections caused by resistant organisms, e.g., Pseudomonas species or Candida species, can occur.
 
-Laboratory Adverse Events: The following laboratory adverse events have been reported with the use of nitrofurantoin: increased AST (SGOT), increased ALT (SGPT), decreased hemoglobin, increased serum phosphorus, eosinophilia, glucose-6-phosphate dehydrogenase deficiency anemia (see WARNINGS), agranulocytosis, leukopenia, granulocytopenia, hemolytic anemia, thrombocytopenia, megaloblastic anemia.
+Laboratory Adverse Events:The following laboratory adverse events have been reported with the use of nitrofurantoin: increased AST (SGOT), increased ALT (SGPT), decreased hemoglobin, increased serum phosphorus, eosinophilia, glucose-6-phosphate dehydrogenase deficiency anemia (see WARNINGS), agranulocytosis, leukopenia, granulocytopenia, hemolytic anemia, thrombocytopenia, megaloblastic anemia.
 In most cases, these hematologic abnormalities resolved following cessation of therapy.
 Aplastic anemia has been reported rarely.
