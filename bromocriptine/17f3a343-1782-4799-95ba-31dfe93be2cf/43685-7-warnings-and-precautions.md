@@ -76,7 +76,7 @@ Patients with rapidly progressive visual field loss should be evaluated by a neu
 Since pregnancy is often the therapeutic objective in many hyperprolactinemic patients presenting with amenorrhea/galactorrhea and hypogonadism (infertility), a careful assessment of the pituitary is essential to detect the presence of a prolactin-secreting adenoma.
 Patients not seeking pregnancy, or those harboring large adenomas, should be advised to use contraceptive measures, other than oral contraceptives, during treatment with bromocriptine mesylate.
 Since pregnancy may occur prior to reinitiation of menses, a pregnancy test is recommended at least every 4 weeks during the amenorrheic period, and, once menses are reinitiated, every time a patient misses a menstrual period.
-Treatment with bromocriptine mesylate tablets should be discontinued as soon as pregnancy has been established.
+Treatment with bromocriptine mesylate tablets or capsules should be discontinued as soon as pregnancy has been established.
 Patients must be monitored closely throughout pregnancy for signs and symptoms that may signal the enlargement of a previously undetected or existing prolactin-secreting tumor.
 Discontinuation of bromocriptine mesylate treatment in patients with known macroadenomas has been associated with rapid regrowth of tumor and increase in serum prolactin in most cases.
 

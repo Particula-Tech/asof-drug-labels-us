@@ -40,9 +40,9 @@ Parkinson’s Disease
 
 The basic principle of bromocriptine mesylate therapy is to initiate treatment at a low dosage and, on an individual basis, increase the daily dosage slowly until a maximum therapeutic response is achieved.
 The dosage of levodopa during this introductory period should be maintained, if possible.
-The initial dose of bromocriptine mesylate is one ½ of a 2½ mg bromocriptine mesylate tablets twice daily with meals.
+The initial dose of bromocriptine mesylate is one ½ of a 2½ mg bromocriptine mesylate tablet twice daily with meals.
 Assessments are advised at 2-week intervals during dosage titration to ensure that the lowest dosage producing an optimal therapeutic response is not exceeded.
 If necessary, the dosage may be increased every 14 to 28 days by 2½ mg/day with meals.
-Should it be advisable to reduce the dosage of levodopa because of adverse reactions, the daily dosage of bromocriptine mesylate if increased, should be accomplished gradually in small (2½ mg) increments.
+Should it be advisable to reduce the dosage of levodopa because of adverse reactions, the daily dosage of bromocriptine mesylate, if increased, should be accomplished gradually in small (2½ mg) increments.
 
 The safety of bromocriptine mesylate has not been demonstrated in dosages exceeding 100 mg/day.

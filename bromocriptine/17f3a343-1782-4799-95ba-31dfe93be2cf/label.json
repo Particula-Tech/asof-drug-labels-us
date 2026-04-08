@@ -5,10 +5,17 @@
   "inn": "bromocriptine",
   "labeler": "ANI Pharmaceuticals, Inc.",
   "package_ndcs": [
+    "70954-951-10",
+    "70954-951-20",
     "70954-978-10",
     "70954-978-20"
   ],
   "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "bromocriptine mesylate",
+      "name": "Bromocriptine Mesylate"
+    },
     {
       "form": "TABLET",
       "generic": "bromocriptine mesylate",
