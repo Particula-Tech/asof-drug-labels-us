@@ -1,5 +1,7 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
+.
+
 ## 8.1 Pregnancy
 
 Risk Summary
@@ -102,7 +104,17 @@ Consider withdrawal of NSAIDs, including LICART, in women who have difficulties 
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of LICART in pediatric patients have not been established.
+The safety and effectiveness of LICART for the topical treatment of acute pain due to minor strains, sprains,
+
+and contusions have been established in pediatric patients 6 years and older.
+Use of LICART for this indication is supported by evidence from adequate and well-controlled studies with LICART in adults, as
+
+well as an open-label study in 101 pediatric patients 6 years and older.
+One LICART was applied daily to the
+
+injury site until pain resolved or for a maximum of 14 days, whichever occurred first.
+Based on the available data from the pediatric study, the safety profile of LICART topical system in pediatric patients is similar to that in adults.
+The safety and effectiveness of LICART have not been investigated in pediatric patients less than 6 years old [see Clinical Trials Experience (6.1), Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 

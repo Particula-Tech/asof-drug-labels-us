@@ -43,12 +43,12 @@ Common Adverse Reactions (by System Organ Class) in ≥ 1% of Patients Treated w
 
 ## 6.2 Post-Marketing Experience
 
-The following adverse reactions have been identified during post-approval use of diclofenac topical system.
+The following adverse reactions have been identified during post-approval use of LICART or other diclofenac topical system products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 LICART
 
-Cases suggesting dermal allergic reactions and photoallergic reactions have been reported through foreign post-marketing surveillance.
+Cases suggesting dermal allergic reactions and photoallergic reactions have been reported.
 
 Diclofenac
 

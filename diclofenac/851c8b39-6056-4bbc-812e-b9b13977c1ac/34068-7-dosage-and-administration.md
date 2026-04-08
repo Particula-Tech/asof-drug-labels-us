@@ -1,12 +1,14 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+.
+
 ## 2.1 Important Dosage and Administration Information
 
 Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 
 LICART is intended for topical use only.
 
-Convey the following important administration instructions to the patient:
+Convey the following important administration instructions to the patient and caregivers:
 
 - If LICART begins to peel-off, the edges of the topical system may be taped down.
   If problems with adhesion persist, patients may overlay the topical system with a mesh netting sleeve, where appropriate (e.g., to secure topical systems applied to ankles, knees, or elbows).
@@ -19,4 +21,4 @@ Convey the following important administration instructions to the patient:
 
 ## 2.2 Recommended Dose
 
-The recommended dose is one (1) LICART topical system to the most painful area once daily.
+The recommended dose is one (1) LICART topical system to the most painful area once daily both in adults and pediatric patients 6 years and older..

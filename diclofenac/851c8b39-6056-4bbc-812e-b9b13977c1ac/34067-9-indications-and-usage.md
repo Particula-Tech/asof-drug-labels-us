@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-LICART is indicated for the topical treatment of acute pain due to minor strains, sprains, and contusions.
+LICART is indicated for the topical treatment of acute pain due to minor strains, sprains, and contusions in adults and pediatric patients 6 years of age and older.

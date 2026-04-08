@@ -1,5 +1,7 @@
 # 12 CLINICAL PHARMACOLOGY
 
+.
+
 ## 12.1 Mechanism of Action
 
 Diclofenac has analgesic, anti-inflammatory, and antipyretic properties.
@@ -14,6 +16,7 @@ Because diclofenac is an inhibitor of prostaglandin synthesis, its mode of actio
 
 Heparin sodium is included in the LICART formulation as an inactive ingredient.
 In one study in healthy human volunteers activated partial thromboplastin time (aPTT), a measure of coagulation, was unchanged following multiple LICART applications.
+Similarly, no signs of systemic anticoagulant activity were observed in 101 pediatric patients, 6 to 16 years old, following once daily LICART application for a mean duration of 12 days (range 2 to 25 days), based on aPTT values measured at the beginning and at the end of the treatment period.
 
 ## 12.2 Pharmacodynamics
 
@@ -21,7 +24,9 @@ LICART applied to intact skin provides local analgesia by releasing diclofenac e
 
 ## 12.3 Pharmacokinetics
 
-Absorption
+.
+
+Absorption-Adults
 
 Following application of LICART once-a-day (24-hour application) for four consecutive days on the front part of the thigh, peak plasma concentrations of diclofenac (range 0.4 – 2.9 ng/mL) were noted between 4 – 20 hours of application, with mean plasma concentrations of diclofenac in the range of 0.5 – 0.9 ng/mL during the application period.
 On average, after 24 hours of application (medial aspect of the upper arm), about 7 mg of diclofenac are released from the topical system.
@@ -40,6 +45,11 @@ Table 3: Diclofenac pharmacokinetics behavior following various LICART applicati
 | AUCτ (ng/mL×h) | 18.58±11.63 | 22.77±14.39 | 21.94±14.25 | 23.07±14.29 |
 | C min (ng/mL) | 0.49±0.31 | 0.62±0.42 | 0.63±0.47 | 0.69±0.46 |
 | Values are arithmetic means ± SD, except for T max: median (min - max). |  |  |  |  |
+
+Absorption – Pediatrics
+
+Diclofenac plasma concentration was assessed in pediatric patients 6 years and older at a fixed time point 24 hours after the initial patch application and at the end-of-study visit (Day 2 and Day 14).
+The resulting average concentrations were 1.48 ng/mL and 1.30 ng/mL, respectively, both of which are similar to the values observed in adults.
 
 Distribution
 
@@ -69,7 +79,7 @@ Approximately 65% of the dose is excreted in the urine and approximately 35% in 
 
 Specific Populations
 
-The pharmacokinetics of LICART has not been investigated in children, patients with hepatic or renal impairment, or specific racial groups.
+The pharmacokinetics of LICART has not been investigated in children less than 6 years old, patients with hepatic or renal impairment, or specific racial groups.
 
 Drug Interaction Studies
 
