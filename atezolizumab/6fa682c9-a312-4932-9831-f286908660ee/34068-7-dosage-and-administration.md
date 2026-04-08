@@ -99,7 +99,7 @@ If diluted TECENTRIQ infusion solution is not used immediately, store solution e
 
 - At room temperature for no more than 6 hours from the time of preparation.
   This includes room temperature storage of the infusion in the infusion bag and time for administration of the infusion, or
-- Under refrigeration at 2°C to 8°C (36°F to 46°F) for no more than 24 hours from time of preparation.
+- Under refrigeration at 2°C to 8°C (36°F to 46°F) for no more than 7 days from time of preparation.
 
 Do not freeze.
 
