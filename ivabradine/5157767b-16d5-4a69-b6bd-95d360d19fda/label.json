@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA213483"
+  ],
+  "inn": "ivabradine",
+  "labeler": "Northstar Rx LLC",
+  "package_ndcs": [
+    "72603-934-01",
+    "72603-935-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ivabradine",
+      "name": "Ivabradine"
+    }
+  ],
+  "setid": "5157767b-16d5-4a69-b6bd-95d360d19fda",
+  "source": "dailymed"
+}
