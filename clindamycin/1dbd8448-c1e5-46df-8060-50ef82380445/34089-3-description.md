@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 Clindamycin hydrochloride is the hydrated hydrochloride salt of clindamycin.
-Clindamycin is a semisynthetic antibiotic produced by a 7(S)-chloro-substitution of the 7(R)-hydroxyl group of the parent compound lincomycin.
+Clindamycin is a semisynthetic antibacterial drug produced by a 7(S)-chloro-substitution of the 7(R)-hydroxyl group of the parent compound lincomycin.
 
 Clindamycin hydrochloride capsules, USP contain clindamycin hydrochloride, USP equivalent to 150 mg or 300 mg of clindamycin.
 

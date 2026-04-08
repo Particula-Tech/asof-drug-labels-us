@@ -5,10 +5,10 @@ If significant diarrhea occurs during therapy, this antibacterial drug should be
 Administer clindamycin hydrochloride capsules with a full glass of water (6 to 8 ounces, approximately 200 to 250 mL) and at least 30 minutes before lying down to reduce the potential for esophageal irritation (See ADVERSE REACTIONS).
 
 Adults:Serious infections—150 to 300 mg every 6 hours.
-More severe infections- 300 to 450 mg every 6 hours.
+More severe infections - 300 to 450 mg every 6 hours.
 
-Pediatric Patients(who are able to swallow capsules): Serious infections- 8 to 16 mg/kg/day (4 to 8 mg/lb/day) divided into three or four equal doses.
-More severe infections- 16 to 20 mg/kg/day (8 to 10 mg/lb/day) divided into three or four equal doses.
+Pediatric Patients (who are able to swallow capsules): Serious infections - 8 to 16 mg/kg/day (4 to 8 mg/lb/day) divided into three or four equal doses.
+More severe infections - 16 to 20 mg/kg/day (8 to 10 mg/lb/day) divided into three or four equal doses.
 Clindamycin should be dosed based on total body weight regardless of obesity.
 
 Clindamycin hydrochloride capsules are not suitable for pediatric patients who are unable to swallow them whole.

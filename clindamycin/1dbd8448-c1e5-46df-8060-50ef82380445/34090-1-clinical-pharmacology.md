@@ -19,7 +19,7 @@ No significant concentrations of clindamycin are attained in the cerebrospinal f
 
 Metabolism
 
-In vitrostudies in human liver and intestinal microsomes indicated that clindamycin is predominantly metabolized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
+In vitro studies in human liver and intestinal microsomes indicated that clindamycin is predominantly metabolized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
 
 Excretion
 
@@ -60,7 +60,7 @@ Macrolide-resistant isolates of staphylococci and beta-hemolytic streptococci sh
 
 Antimicrobial Activity
 
-Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both in vitroand in clinical infections [see Indications and Usage (1)]:
+Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)]:
 
 Gram-positive bacteria
 
@@ -74,13 +74,13 @@ Gram-positive bacteria
 - Peptostreptococcus anaerobius
 - Prevotella melaninogenica
 
-The following in vitrodata are available, but their clinical significance is unknown.
-At least 90 percent of the following bacteria exhibit an in vitrominimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for clindamycin against isolates of a similar genus or organism group.
+The following in vitro data are available, but their clinical significance is unknown.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for clindamycin against isolates of a similar genus or organism group.
 However, the efficacy of clindamycin in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
 
 Gram-positive bacteria
 
-- Staphylococcus epidermidis(methicillin-susceptible strains)
+- Staphylococcus epidermidis (methicillin-susceptible strains)
 - Streptococcus agalactiae
 - Streptococcus anginosus
 - Streptococcus mitis
