@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA218543"
+  ],
+  "inn": "mirabegron",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "69238-2860-1",
+    "69238-2860-2",
+    "69238-2861-1",
+    "69238-2861-2"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "mirabegron",
+      "name": "Mirabegron"
+    }
+  ],
+  "setid": "e597023d-6dcc-4d9e-8ce0-2d28a5d862f3",
+  "source": "dailymed"
+}
