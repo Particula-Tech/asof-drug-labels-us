@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA211560"
+  ],
+  "inn": "dapagliflozin",
+  "labeler": "Alembic Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62332-392-30",
+    "62332-392-91",
+    "62332-393-30",
+    "62332-393-91"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "dapagliflozin",
+      "name": "DAPAGLIFLOZIN"
+    }
+  ],
+  "setid": "840e2146-2383-489b-bcc4-fecfe986685a",
+  "source": "dailymed"
+}
