@@ -12,7 +12,7 @@ An unpleasant or metallic taste has been reported after oral administration.
 Hypersensitivity Reactions: Generalized mild to moderate morbilliform-like (maculopapular) skin rashes are the most frequently reported adverse reactions.
 Vesiculobullous rashes, as well as urticaria, have been observed during drug therapy.
 Severe skin reactions such as toxic epidermal necrolysis, some with fatal outcome, have been reported (See WARNINGS).
-Cases of acute generalized exanthematous pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, anaphylactic shock, anaphylactic reaction, Kounis syndrome (acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction), cutaneous vasculitis, symmetrical drug-related intertriginous and flexural exanthema, and hypersensitivity have also been reported.
+Cases of acute generalized exanthematous pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, anaphylactic shock, anaphylactic reaction, acute myocardial ischemia with or without myocardial infarction occurring as part of an allergic reaction, cutaneous vasculitis, symmetrical drug-related intertriginous and flexural exanthema, and hypersensitivity have also been reported.
 
 Skin and Mucous Membranes: Pruritus, vaginitis, angioedema and rare instances of exfoliative dermatitis have been reported (See Hypersensitivity Reactions).
 
