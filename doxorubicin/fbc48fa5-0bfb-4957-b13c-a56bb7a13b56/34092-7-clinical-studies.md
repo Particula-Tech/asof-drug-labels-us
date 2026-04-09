@@ -147,7 +147,7 @@ Table 13: Efficacy of Doxorubicin Hydrochloride Liposome Injection in Combinatio
 | Median in days (months) | 282 (9.3) |  | 197 (6.5) |
 | 95% CI | 250;338 |  | 170;217 |
 | Hazard ratioHazard ratio based on stratified Cox proportional hazards regression. A hazard ratio < 1 indicates an advantage for doxorubicin hydrochloride liposome injection+bortezomib. |  | 0.55 |  |
-| 95% CI |  | (0.43, 0.71) |  |
+| (95% CI) |  | (0.43, 0.71) |  |
 | p-valueStratified log-rank test. |  | <0.001 |  |
 | Response (n)RR as per EBMT criteria. | 303 |  | 310 |
 | % Complete Response (CR) | 5 |  | 3 |
@@ -155,7 +155,7 @@ Table 13: Efficacy of Doxorubicin Hydrochloride Liposome Injection in Combinatio
 | % CR + PR | 48 |  | 43 |
 | p-valueCochran-Mantel-Haenszel test adjusted for the stratification factors. |  | 0.25 |  |
 | Median Duration of Response (months) | 10.2 |  | 7 |
-| 95% CI | (10.2;12.9) |  | (5.9;8.3) |
+| (95% CI) | (10.2;12.9) |  | (5.9;8.3) |
 
 Figure 1-Time to Progression Kaplan-Meier Curve At the final analysis of survival, 78% of subjects in the doxorubicin hydrochloride liposome injection and bortezomib combination therapy group and 80% of subjects in the bortezomib monotherapy group had died after a median follow up of 8.6 years.
 The median survival was 33 months in the doxorubicin hydrochloride liposome injection and bortezomib combination therapy group and 31 months in the bortezomib monotherapy group.

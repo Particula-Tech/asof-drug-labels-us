@@ -2,15 +2,13 @@
 
 NDC 47335-049-40
 
-DOXOrubicin Hydrochloride Liposome Injection 20 mg/10 mL (2 mg/mL) Cytotoxic Agent Must be diluted LIPOSOMAL FORMULATION DO NOT SUBSTITUTE FOR DOXORUBICIN HYDROCHLORIDE
+DOXOrubicin Hydrochloride Liposome Injection 20 mg/10 mL (2 mg/mL) Cytotoxic Agent Must be diluted LIPOSOMAL FORMULATION, DO NOT SUBSTITUTE FOR DOXORUBICIN HYDROCHLORIDE
 
 FOR INTRAVENOUS INFUSION ONLY AFTER DILUTION
 
 10 mL Single dose Vial
 
 Rx only
-
-Sun Pharma
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - CARTON LABEL - 10 ML
 
@@ -20,15 +18,13 @@ NDC 47335-049-40 DOXOrubicin Hydrochloride Liposome Injection 20 mg/10 mL (2 mg/
 
 NDC 47335-050-40
 
-DOXOrubicin Hydrochloride Liposome Injection 50 mg/25 mL (2 mg/mL) Cytotoxic Agent Must be diluted LIPOSOMAL FORMULATION DO NOT SUBSTITUTE FOR DOXORUBICIN HYDROCHLORIDE
+DOXOrubicin Hydrochloride Liposome Injection 50 mg/25 mL (2 mg/mL) Cytotoxic Agent Must be diluted LIPOSOMAL FORMULATION, DO NOT SUBSTITUTE FOR DOXORUBICIN HYDROCHLORIDE
 
 FOR INTRAVENOUS INFUSION ONLY AFTER DILUTION
 
 25 mL Single dose Vial
 
 Rx only
-
-Sun Pharma
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - CARTON LABEL - 25 ML
 

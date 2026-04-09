@@ -2,7 +2,7 @@
 
 The active ingredient in doxorubicin hydrochloride liposome injection is doxorubicin hydrochloride, an anthracycline topoisomerase inhibitor, that is encapsulated in pegylated liposomes for intravenous use.
 The chemical name of doxorubicin hydrochloride is (8S,10S)-10-[(3-amino-2,3,6-trideoxy-α-L-lyxo-hexopyranosyl)oxy]-8-glycolyl-7,8,9,10-tetrahydro-6,8,11-trihydroxy-1-methoxy-5,12-naphthacenedione hydrochloride.
-The molecular formula is C27H29NO11• HCl; its molecular weight is 579.99.
+The molecular formula is C27H29NO11• HCl; and the molecular weight is 579.99.
 The structural formula is:
 
 Doxorubicin hydrochloride liposome injection is a sterile, translucent, red liposomal dispersion.
