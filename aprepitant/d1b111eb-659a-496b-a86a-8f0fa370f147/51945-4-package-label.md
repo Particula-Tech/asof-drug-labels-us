@@ -12,7 +12,7 @@ APONVIE® (aprepitant) injectible emulsion
 
 For Intravenous Use Only
 
-10 x 5 mL single-dose vials - Discard unused portion of vial.
+10 × 5 mL single-dose vials - Discard unused portion of vial.
 
 Storage: Must be refrigerated, 2°C to 8°C (36°F to 46°F).
 Do not freeze.
