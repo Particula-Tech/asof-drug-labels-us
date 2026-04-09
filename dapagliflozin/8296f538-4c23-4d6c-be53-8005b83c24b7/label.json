@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA211312"
+  ],
+  "inn": "dapagliflozin",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-5985-01",
+    "0781-5985-05",
+    "0781-5985-10",
+    "0781-5985-31",
+    "0781-5990-01",
+    "0781-5990-05",
+    "0781-5990-10",
+    "0781-5990-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "dapagliflozin",
+      "name": "Dapagliflozin"
+    }
+  ],
+  "setid": "8296f538-4c23-4d6c-be53-8005b83c24b7",
+  "source": "dailymed"
+}
