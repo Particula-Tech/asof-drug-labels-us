@@ -62,7 +62,7 @@ Patients With Primary Generalized Tonic-Clonic Seizures
 
 The effectiveness of topiramate as an adjunctive treatment for primary generalized tonic-clonic seizures in patients 2 years of age and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 9), comparing a single dosage of topiramate and placebo (see Table 13).
 
-Patients in study 9 were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate or placebo.
+Patients in Study 9 were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate or placebo.
 Patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
 Patients who experienced at least three primary generalized tonic-clonic seizures during the baseline phase were randomly assigned to placebo or topiramate in addition to their other AEDs.
 
@@ -121,8 +121,8 @@ Table 13: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epile
 | 2 | Median % Reduction |  | 12 | 27a | 48b | 45c | -- | -- | -- |
 |  | % Responders |  | 18 | 24 | 44d | 46d | -- | -- | -- |
 |  | N |  | 47 | -- | -- | 48 | 48 | 47 | -- |
-| 3 | Median % Reduction |  | 2 | -- | -- | 41c | 41c | 36c | -- |
-|  | % Responders |  | 9 | -- | -- | 40c | 41c | 36c | -- |
+| 3 | Median % Reduction |  | 2 | -- | -- | 41c | 41c | 36c |  |
+|  | % Responders |  | 9 | -- | -- | 40c | 41c | 36d |  |
 |  | N |  | 24 | -- | 23 | -- | -- | -- | -- |
 | 4 | Median % Reduction |  | 1 | -- | 41e | -- | -- | -- | -- |
 |  | % Responders |  | 8 | -- | 35d | -- | -- | -- | -- |
@@ -134,7 +134,7 @@ Table 13: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epile
 |  | % Responders |  | 0 | -- | -- | -- | 43c | -- | -- |
 |  | N |  | 91 | 168 | -- | -- | -- | -- | -- |
 | 7 | Median % Reduction |  | 20 | 44c | -- | -- | -- | -- | -- |
-|  | % Responders |  | 24 | 45c | -- | -- | -- | -- | -- |
+|  | % Responders |  | 24 | 45c |  |  |  |  |  |
 | Partial-Onset Seizures Studies in Pediatric Patients |  |  |  |  |  |  |  |  |  |
 |  | N |  | 45 | -- | -- | -- | -- | -- | 41 |
 | 8 | Median % Reduction |  | 11 | -- | -- | -- | -- | -- | 33d |
@@ -146,9 +146,9 @@ Table 13: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epile
 | Lennox-Gastaut Syndromei |  |  |  |  |  |  |  |  |  |
 |  | N |  | 49 | -- | -- | -- | -- | -- | 46 |
 | 10 | Median % Reduction |  | -5 | -- | -- | -- | -- | -- | 15d |
-|  | % Responders |  | 14 | -- | -- | -- | -- | -- | 28g |
-|  | Improvement in Seizure Severityj |  | 28 | -- | -- | -- | -- | -- | 52d |
-| Comparisons with placebo: a p=0.080; b p≤0.010; c p≤0.001; d p≤0.050; e p=0.065; f p≤0.005; g p=0.071; h Median % reduction and % responders are reported for PGTC seizures; i Median % reduction and % responders for drop attacks, i.e., tonic or atonic seizures; j Percentage of subjects who were minimally, much, or very much improved from baseline * For Studies 8 and 9, specified target dosages (<9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6 mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day. |  |  |  |  |  |  |  |  |  |
+|  | % Responders |  | 14 |  |  |  |  |  | 28g |
+|  | Improvement in Seizure Severityj |  | 28 |  |  |  |  |  | 52d |
+| Comparisons with placebo: ap=0.080; bp ≤ 0.010; cp ≤ 0.001; dp ≤ 0.050; ep=0.065; fp ≤ 0.005; gp=0.071; h Median % reduction and % responders are reported for PGTC seizures; i Median % reduction and % responders for drop attacks, i.e., tonic or atonic seizures j Percentage of subjects who were minimally, much, or very much improved from baseline. *For Studies 8 and 9, specified target dosages (<9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6 mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day |  |  |  |  |  |  |  |  |  |
 
 Subset analyses of the antiepileptic efficacy of topiramate tablets in these studies showed no differences as a function of gender, race, age, baseline seizure rate, or concomitant AED.
 
@@ -205,7 +205,7 @@ Approximately 80% or more patients in each treatment group completed the study.
 The median average daily dosages were 45 and 79 mg/day in the target dose groups of topiramate 50 and 100 mg/day, respectively.
 
 Effectiveness of treatment was assessed by comparing each topiramate treatment group to placebo (ITT population) for the percent reduction from baseline to the last 12 weeks of the double-blind phase in the monthly migraine attack rate (primary endpoint).
-The percent reduction from baseline to the last 12 weeks of the double-blind phase in average monthly migraine attack rate is shown in Table 13.
+The percent reduction from baseline to the last 12 weeks of the double-blind phase in average monthly migraine attack rate is shown in Table 14.
 The 100 mg topiramate dose produced a statistically significant treatment difference relative to placebo of 28% reduction from baseline in the monthly migraine attack rate.
 
 The mean reduction from baseline to the last 12 weeks of the double-blind phase in average monthly attack rate, a key secondary efficacy endpoint in Study 13 (and the primary efficacy endpoint in Studies 11 and 12, of adults) was 3.0 for 100 mg topiramate dose and 1.7 for placebo.
@@ -221,5 +221,5 @@ Table 14: Percent Reduction from Baseline to the Last 12 Weeks of Double-Blind P
 | Median | 2.3 | 2.3 | 1.0 |
 | Percent Reduction (%) |  |  |  |
 | Median | 44.4 | 44.6 | 72.2 |
-| P-value versus Placeboa,b |  | 0.7975 | 0.0164 c |
-| a = P-values (two-sided) for comparisons relative to placebo are generated by applying an ANCOVA model on ranks that includes subject's stratified age at baseline, treatment group, and analysis center as factors and monthly migraine attack rate during baseline period as a covariate. b = P-values for the dose groups are the adjusted p-value according to the Hochberg multiple comparison procedure. c = Indicates p-value is <0.05 (two-sided). |  |  |  |
+| P-value versus Placeboa,b |  | 0.7975 | 0.0164c |
+| a P-values (two-sided) for comparisons relative to placebo are generated by applying an ANCOVA model on ranks that includes subject's stratified age at baseline, treatment group, and analysis center as factors and monthly migraine attack rate during baseline period as a covariate. b P-values for the dose groups are the adjusted p-value according to the Hochberg multiple comparison procedure. c Indicates p-value is <0.05 (two-sided). |  |  |  |

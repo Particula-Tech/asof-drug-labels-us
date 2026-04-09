@@ -43,7 +43,7 @@ Table 2: Monotherapy Target Total Daily Maintenance Dosing for Patients 2 to 9 Y
 
 Adults (17 Years of Age and Older)
 
-The recommended total daily dose of topiramate tablets as adjunctive therapy in adults with partial-onset seizures or Lennox-Gastaut Syndrome is 200 to 400 mg/day in two divided doses, and 400 mg/day in two divided doses as adjunctive treatment in adults with primary generalized tonic-clonic seizures.
+The recommended total daily dose of topiramate tablets as adjunctive therapy in adults with partial onset seizures or Lennox-Gastaut Syndrome is 200 to 400 mg/day in two divided doses, and 400 mg/day in two divided doses as adjunctive treatment in adults with primary generalized tonic-clonic seizures.
 Topiramate tablets should be initiated at 25 to 50 mg/day, followed by titration to an effective dose in increments of 25 to 50 mg/day every week.
 Titrating in increments of 25 mg/day every week may delay the time to reach an effective dose.
 Doses above 400 mg/day have not been shown to improve responses in adults with partial-onset seizures.

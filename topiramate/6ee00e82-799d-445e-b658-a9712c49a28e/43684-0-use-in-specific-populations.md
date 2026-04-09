@@ -49,14 +49,15 @@ Human Data
 
 Data from pregnancy registries indicate an increased risk of major congenital malformations, including but not limited to oral clefts in infants exposed to topiramate during the first trimester of pregnancy.
 Other than oral clefts, no specific pattern of major congenital malformations or grouping of major congenital malformation types were observed.
-In the NAAED pregnancy registry, when topiramate-exposed infants with only oral clefts were excluded, the prevalence of major congenital malformations (4.1%) was higher than that in infants exposed to a reference AED (1.8%) or in infants with mothers without epilepsy and without exposure to AEDs (1.1%).The prevalence of oral clefts among topiramate-exposed infants (1.4%) was higher than the prevalence in infants exposed to a reference AED (0.3%) or the prevalence in infants with mothers without epilepsy and without exposure to AEDs (0.11%).
+In the NAAED pregnancy registry, when topiramate-exposed infants with only oral clefts were excluded, the prevalence of major congenital malformations (4.1%) was higher than that in infants exposed to a reference AED (1.8%) or in infants with mothers without epilepsy and without exposure to AEDs (1.1%).
+The prevalence of oral clefts among topiramate-exposed infants (1.4%) was higher than the prevalence in infants exposed to a reference AED (0.3%) or the prevalence in infants with mothers without epilepsy and without exposure to AEDs (0.11%).
 It was also higher than the background prevalence in United States (0.17%) as estimated by the Centers for Disease Control and Prevention (CDC).
 The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 12.5 (95% Confidence Interval [CI] 5.9-26.37) as compared to the risk in a background population of untreated women.
 The UK Epilepsy and Pregnancy Register reported a prevalence of oral clefts among infants exposed to topiramate monotherapy (3.2%) that was 16 times higher than the background rate in the UK (0.2%).
 
 Data from the NAAED pregnancy registry and a population-based birth registry cohort indicate that exposure to topiramate in utero is associated with an increased risk of SGA newborns (birth weight <10th percentile).
 In the NAAED pregnancy registry, 19.7% of topiramate-exposed newborns were SGA compared to 7.9% of newborns exposed to a reference AED and 5.4% of newborns of mothers without epilepsy and without AED exposure.
-In the Medical Birth Registry of Norway (MBRN), a population-based pregnancy registry, 25% of newborns in the topiramate monotherapy exposure group were SGA compared to 9 % in the comparison group unexposed to AEDs.
+In the Medical Birth Registry of Norway (MBRN), a population-based pregnancy registry, 25% of newborns in the topiramate monotherapy exposure group were SGA compared to 9% in the comparison group unexposed to AEDs.
 The long-term consequences of the SGA findings are not known.
 
 Animal Data
@@ -128,11 +129,11 @@ Creatinine was the only analyte showing a noteworthy increased incidence (topira
 The significance of these findings is uncertain.
 
 Topiramate treatment also produced a dose-related increase in the percentage of patients who had a shift from normal at baseline to high/increased (above the normal reference range) in total eosinophil count at the end of treatment.
-The incidence of these abnormal shifts was 6 % for placebo, 10% for 5 mg/kg/day, 9% for 15 mg/kg/day, 14% for 25 mg/kg/day, and 11% for any topiramate dose.
+The incidence of these abnormal shifts was 6% for placebo, 10% for 5 mg/kg/day, 9% for 15 mg/kg/day, 14% for 25 mg/kg/day, and 11% for any topiramate dose.
 There was a mean dose-related increase in alkaline phosphatase.
 The significance of these findings is uncertain.
 
-Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.12)].
+Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.14)].
 
 Treatment with topiramate for up to 1 year was associated with reductions in Z SCORES for length, weight, and head circumference [see Warnings and Precautions (5.4), Adverse Reactions (6)].
 
@@ -159,7 +160,7 @@ Subgroup analyses according to age demonstrated similar negative effects for all
 
 Table 10 Summary of Topiramate Treatment Difference Results at 12 Months for Key Safety Outcomes
 
-| Safety Parameter | Treatment Difference in Least Square Means (95 % Confidence Interval) |
+| Safety Parameter | Treatment Difference in Least Square Means (95% Confidence Interval) |
 | --- | --- |
 | Annual Change in BMD Lumbar Spine (g/cm2) | -0.036 (-0.058, -0.014) |
 | Annual Change in BMD TBLH TBLH=total body less head (g/cm2) | -0.026 (-0.039, -0.012) |
@@ -168,13 +169,13 @@ Table 10 Summary of Topiramate Treatment Difference Results at 12 Months for Key
 | Annual Change in Height (cm) (10-15 years) | -1.01 (-3.64, 1.61) |
 | Height Velocity (cm/year) (4-9 years) | -1.00 (-2.76, 0.76) |
 | Height Velocity (cm/year) (4-15 years) | -0.98 (-2.33, 0.37) |
-| Height Velocity (cm/Year) (10-15 years) | -0.96 (-3.24, 1.32) |
+| Height Velocity (cm/year) (10-15 years) | -0.96 (-3.24, 1.32) |
 | Annual Change in Weight (kg) | -2.05 (-3.66, -0.45) |
 
 Metabolic acidosis (serum bicarbonate < 20 mEq/L) was observed in all topiramate-treated patients at some time in the study [see Warnings and Precautions (5.4)].
 Over the whole study, 76% more topiramate-treated patients experienced persistent metabolic acidosis (i.e.
-2 consecutive visits with or final serum bicarbonate < 20 mEq/L) compared to levetiracetam - treated patients.
-Over the whole study, 35% more topiramate-treated patients experienced a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and 5 mEq/L decrease from pre-treatment), indicating the frequency of more severe metabolic acidosis, compared to levetiracetam -treated patients.
+2 consecutive visits with or final serum bicarbonate < 20 mEq/L) compared to levetiracetam -treated patients.
+Over the whole study, 35% more topiramate-treated patients experienced a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and ≥ 5 mEq/L decrease from pre-treatment), indicating the frequency of more severe metabolic acidosis, compared to levetiracetam -treated patients.
 The decrease in BMD at 12 months was correlated with decreased serum bicarbonate, suggesting that metabolic acidosis was at least a partial factor contributing to this adverse effect on BMD.
 
 Topiramate-treated patients exhibited an increased risk for developing an increased serum creatinine and an increased serum glucose above the normal reference range compared to control patients.

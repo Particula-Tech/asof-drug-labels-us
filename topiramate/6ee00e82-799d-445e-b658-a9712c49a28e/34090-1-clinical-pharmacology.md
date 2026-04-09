@@ -88,7 +88,7 @@ As in adults, hepatic enzyme-inducing antiepileptic drugs decrease the steady st
 Pediatric Patients with Obesity
 
 A population PK analysis of topiramate was conducted in 129 children <21 years of age with and without obesity to evaluate the potential impact of obesity on plasma topiramate exposures.
-Obesity was defined as BMI ≥ 95th percentile for age and sex based on CDC-recommended BMI for-age growth charts for males and females.
+Obesity was defined as BMI ≥ 95th percentile for age and sex based on CDC-recommended BMI-for-age growth charts for males and females.
 Using the currently recommended dosing regimens, children with obesity are likely to have median values of average concentration at steady-state and trough concentration at steady-state up to 20% lower and 19% lower, respectively, compared to children without obesity.
 Dosage adjustment according to obesity status is not necessary.
 
@@ -116,7 +116,7 @@ Table 11: Summary of AED Interactions with Topiramate
 | Phenobarbital | NC | NE |
 | Primidone | NC | NE |
 | Lamotrigine | NC at TPM doses up to 400 mg/day | 13% decrease |
-| a = Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin. b = Is not administered but is an active metabolite of carbamazepine. NC = Less than 10% change in plasma concentration. AED = Antiepileptic drug. NE = Not Evaluated. TPM = Topiramate |  |  |
+| a Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin. b Is not administered but is an active metabolite of carbamazepine. NC = Less than 10% change in plasma concentration; AED = Antiepileptic drug; NE = Not Evaluated; TPM = Topiramate |  |  |
 
 Oral Contraceptives
 
@@ -127,7 +127,7 @@ The clinical significance of the changes observed is not known [see Drug Interac
 
 Digoxin
 
-In a single-dose study, serum digoxin AUC was decreased by 12% with concomitant topiramate administration.
+In a single-dose study, serum digoxin AUC decreased by 12% with concomitant topiramate administration.
 The clinical relevance of this observation has not been established.
 
 Hydrochlorothiazide
@@ -182,7 +182,8 @@ Risperidone
 
 When administered concomitantly with topiramate at escalating doses of 100, 250, and 400 mg/day, there was a reduction in risperidone systemic exposure (16% and 33% for steady-state AUC at the 250 and 400 mg/day doses of topiramate).
 No alterations of 9-hydroxyrisperidone levels were observed.
-Co-administration of topiramate 400 mg/day with risperidone resulted in a 14% increase in Cmax and a 12% increase in AUC12 of topiramate.There were no clinically significant changes in the systemic exposure of risperidone plus 9-hydroxyrisperidone or of topiramate; therefore, this interaction is not likely to be of clinical significance.
+Co-administration of topiramate 400 mg/day with risperidone resulted in a 14% increase in Cmax and a 12% increase in AUC12 of topiramate.
+There were no clinically significant changes in the systemic exposure of risperidone plus 9-hydroxyrisperidone or of topiramate; therefore, this interaction is not likely to be of clinical significance.
 
 Propranolol
 
@@ -196,7 +197,7 @@ Similarly, a 1 mg subcutaneous dose of dihydroergotamine did not affect the phar
 
 Diltiazem
 
-Co-administration of diltiazem (240 mg Cardizem CD®) with topiramate (150 mg/day) resulted in a 10% decrease in Cmax and a 25% decrease in diltiazem AUC, a 27% decrease in Cmax and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
+Co-administration of diltiazem (240 mg Cardizem CD) with topiramate (150 mg/day) resulted in a 10% decrease in Cmax and a 25% decrease in diltiazem AUC, a 27% decrease in Cmax and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
 Co-administration of topiramate with diltiazem resulted in a 16% increase in Cmax and a 19% increase in AUC12 of topiramate.
 
 Venlafaxine

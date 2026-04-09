@@ -10,10 +10,12 @@ The following serious adverse reactions are discussed in more detail in other se
 - Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
 - Decrease of Bone Mineral Density [see Warnings and Precautions (5.9)]
 - Negative Effects on Growth (Height and Weight) [see Warnings and Precautions (5.10)]
-- Serious Skin Reactions [see Warnings and Precautions (5.11)]
-- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.12)]
-- Kidney Stones [see Warnings and Precautions (5.13)]
-- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.14)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions [see Warnings and Precautions (5.11)]
+- Serious Skin Reactions [see Warnings and Precautions (5.12)]
+- Anaphylaxis and Angioedema [see Warnings and Precautions (5.13)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.14)]
+- Kidney Stones [see Warnings and Precautions (5.15)]
+- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.16)]
 
 The data described in the following sections were obtained using topiramate tablets.
 
@@ -25,7 +27,7 @@ Monotherapy Epilepsy
 
 Adults 16 Years of Age and Older
 
-The most common adverse reactions in the controlled clinical trial (Study 1) that occurred in adults in the 400 mg/day topiramate group and at an incidence higher (≥ 10 %) than in the 50 mg/day group were: paresthesia, weight loss and anorexia (see Table 5).
+The most common adverse reactions in the controlled clinical trial (Study 1) that occurred in adults in the 400 mg/day topiramate group and at an incidence higher (≥ 10%) than in the 50 mg/day group were: paresthesia, weight loss and anorexia (see Table 5).
 
 Approximately 21% of the 159 adult patients in the 400 mg/day group who received topiramate as monotherapy in Study 1 discontinued therapy due to adverse reactions.
 The most common (≥ 2% more frequent than low-dose 50 mg/day topiramate) adverse reactions causing discontinuation were difficulty with memory, fatigue, asthenia, insomnia, somnolence, and paresthesia.
@@ -66,7 +68,7 @@ Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Gr
 | Gastritis |  |  | 0 | 3 |
 | Dry mouth |  |  | 1 | 3 |
 | Liver and Biliary System Disorders |  |  |  |  |
-| Increase in Gamma-GT |  |  | 1 | 3 |
+| Increase in gamma-GT |  |  | 1 | 3 |
 | Metabolic and Nutritional Disorders |  |  |  |  |
 | Weight loss | 7 | 17 | 6 | 17 |
 | Platelet, Bleeding & Clotting Disorders |  |  |  |  |
@@ -82,7 +84,7 @@ Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Gr
 | Insomnia |  |  | 8 | 9 |
 | Decrease in libido |  |  | 0 | 3 |
 | Mood problems | 1 | 8 | 2 | 5 |
-| Personality disorder (behaviour problems) | 0 | 3 |  |  |
+| Personality disorder (behavior problems) | 0 | 3 |  |  |
 | Psychomotor slowing |  |  | 3 | 5 |
 | Somnolence |  |  | 10 | 15 |
 | Red Blood Cell Disorders |  |  |  |  |
@@ -120,14 +122,14 @@ Adults 16 Years of Age and Older
 In pooled controlled clinical trials in adults with partial-onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndrome, 183 patients received adjunctive therapy with topiramate at dosages of 200 to 400 mg/day (recommended dosage range) and 291 patients received placebo.
 Patients in these trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo.
 
-The most common adverse reactions in the controlled clinical trial that occurred in adult patients in the 200 to 400 mg/day topiramate group with an incidence higher (≥ 10 %) than in the placebo group were: dizziness, speech disorders/related speech problems, somnolence, nervousness, psychomotor slowing, and vision abnormal (Table 6).
+The most common adverse reactions in the controlled clinical trial that occurred in adult patients in the 200 to 400 mg/day topiramate group with an incidence higher (≥ 10%) than in the placebo group were: dizziness, speech disorders/related speech problems, somnolence, nervousness, psychomotor slowing, and vision abnormal (Table 6).
 
 Table 6 presents the incidence of adverse reactions occurring in at least 3% of adult patients treated with 200 to 400 mg/day topiramate and was greater than placebo incidence.
 The incidence of some adverse reactions (e.g., fatigue, dizziness, paresthesia, language problems, psychomotor slowing, depression, difficulty with concentration/attention, mood problems) was dose-related and much greater at higher than recommended topiramate dosing (i.e., 600 mg to 1000 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (200 mg to 400 mg daily) range.
 
 Table 6: Most Common Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Adultsa
 
-| Body System/ Adverse Reaction | Placebo (N = 291) | Topiramate Dosage (mg/day) 200-400 (N = 183) |
+| Body System Adverse Reaction | Placebo (N = 291) | Topiramate Dosage (mg/day) 200-400 (N = 183) |
 | --- | --- | --- |
 | Body as a Whole-General Disorders |  |  |
 | Fatigue | 13 | 15 |
@@ -184,7 +186,7 @@ Pediatric Patients 2 to 15 Years of Age
 
 In pooled, controlled clinical trials in pediatric patients (2 to 15 years of age) with partial-onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndrome, 98 patients received adjunctive therapy with topiramate at dosages of 5 to 9 mg/kg/day (recommended dose range) and 101 patients received placebo.
 
-The most common adverse reactions in the controlled clinical trial that occurred in pediatric patients in the 5 mg to 9 mg/kg/day topiramate group with an incidence higher (≥ 10 %) than in the placebo group were: fatigue and somnolence (Table 7).
+The most common adverse reactions in the controlled clinical trial that occurred in pediatric patients in the 5 mg to 9 mg/kg/day topiramate group with an incidence higher (≥ 10%) than in the placebo group were: fatigue and somnolence (Table 7).
 
 Table 7 presents the incidence of adverse reactions that occurred in at least 3% of pediatric patients 2 to 15 years of age receiving 5 mg to 9 mg/kg/day (recommended dose range) of topiramate and was greater than placebo incidence
 
@@ -240,7 +242,7 @@ Adults
 
 In the four multicenter, randomized, double-blind, placebo-controlled, parallel group migraine clinical trials for the preventive treatment of migraine (which included 35 pediatric patients 12 to 15 years of age), most adverse reactions occurred more frequently during the titration period than during the maintenance period.
 
-The most common adverse reactions with topiramate 100 mg in the clinical trials for the preventive treatment of migraine of predominantly adults that were seen at an incidence higher (≥ 5 %) than in the placebo group were: paresthesia, anorexia, weight loss, taste perversion, diarrhea, difficulty with memory, hypoesthesia, and nausea (see Table 8).
+The most common adverse reactions with topiramate 100 mg in the clinical trials for the preventive treatment of migraine of predominantly adults that were seen at an incidence higher (≥ 5%) than in the placebo group were: paresthesia, anorexia, weight loss, taste perversion, diarrhea, difficulty with memory, hypoesthesia, and nausea (see Table 8).
 
 Table 8 includes those adverse reactions that occurred in the placebo-controlled trials where the incidence in any topiramate treatment group was at least 3% and was greater than that for placebo patients.
 The incidence of some adverse reactions (e.g., fatigue, dizziness, somnolence, difficulty with memory, difficulty with concentration/attention) was dose-related and greater at higher than recommended topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
@@ -295,7 +297,7 @@ Table 8: Adverse Reactions in Pooled, Placebo-Controlled, Migraine Trials in Adu
 | Bronchitis | 2 | 3 | 3 |
 | Dyspnea | 2 | 1 | 3 |
 | Skin and Appendages Disorders |  |  |  |
-| Pruritis | 2 | 4 | 2 |
+| Pruritus | 2 | 4 | 2 |
 | Special Sense Other, Disorders |  |  |  |
 | Taste perversion | 1 | 15 | 8 |
 | Urinary System Disorders |  |  |  |
@@ -318,7 +320,7 @@ Among adverse reactions with onset during titration, approximately half persiste
 
 In four, fixed-dose, double-blind clinical trials for the preventive treatment of migraine in topiramate-treated pediatric patients 12 to 17 years of age, the most common adverse reactions with topiramate 100 mg that were seen at an incidence higher (≥5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain (see Table 9).
 Table 9 shows adverse reactions from the pediatric trial (Study 13 [see Clinical Studies (14.3)]) in which 103 pediatric patients were treated with placebo or 50 mg or 100 mg of topiramate, and three predominantly adult trials in which 49 pediatric patients (12 to 17 years of age) were treated with placebo or 50 mg, 100 mg or 200 mg of topiramate.
-Table 9 also shows adverse reactions in pediatric patients in the controlled migraine trials when the incidence in a topiramate dose group was at least 5 % or higher and greater than the incidence of placebo.
+Table 9 also shows adverse reactions in pediatric patients in the controlled migraine trials when the incidence in a topiramate dose group was at least 5% or higher and greater than the incidence of placebo.
 Many adverse reactions shown in Table 9 indicate a dose-dependent relationship.
 The incidence of some adverse reactions (e.g., allergy, fatigue, headache, anorexia, insomnia, somnolence, and viral infection) was dose-related and greater at higher than recommended topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
 
@@ -375,12 +377,12 @@ Laboratory Test Abnormalities
 
 Adult Patients
 
-In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride and ammonia, topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.12)].
-Controlled trials of adjunctive topiramate treatment of adults for partial-onset seizures showed an increased incidence of markedly decreased serum phosphorus (6% topiramate versus 2% placebo), markedly increased serum alkaline phosphatase (3% topiramate versus 1% placebo), and decreased serum potassium (0.4 % topiramate versus 0.1 % placebo).
+In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride and ammonia, topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.14)].
+Controlled trials of adjunctive topiramate treatment of adults for partial-onset seizures showed an increased incidence of markedly decreased serum phosphorus (6% topiramate versus 2% placebo), markedly increased serum alkaline phosphatase (3% topiramate versus 1% placebo), and decreased serum potassium (0.4% topiramate versus 0.1% placebo).
 
 Pediatric Patients
 
-In pediatric patients (1-24 months) receiving adjunctive topiramate for partial-onset seizures, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, alkaline phosphatase, and total protein, The incidence was also increased for a decreased result for bicarbonate (i.e., metabolic acidosis), and potassium with topiramate (vs placebo) [see Use in Specific Populations (8.4)].
+In pediatric patients (1-24 months) receiving adjunctive topiramate for partial-onset seizures, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, blood urea nitrogen (BUN), alkaline phosphatase, and total protein, The incidence was also increased for a decreased result for bicarbonate (i.e., metabolic acidosis), and potassium with topiramate (vs placebo) [see Use in Specific Populations (8.4)].
 Topiramate is not indicated for partial onset seizures in pediatric patients less than 2 years of age.
 
 In pediatric patients (ranging from 6-17 years of age) receiving topiramate for the preventive treatment of migraine, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, uric acid, chloride, ammonia, alkaline phosphatase, total protein, platelets, and eosinophils, The incidence was also increased for a decreased result for phosphorus, bicarbonate, total white blood count, and neutrophils [see Use in Specific Populations (8.4)].
@@ -391,13 +393,13 @@ Topiramate is not indicated for the preventive treatment of migraine in pediatri
 The following adverse reactions have been identified during post approval use of topiramate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole-General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.12)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.14)]
+Body as a Whole-General Disorders: immediate hypersensitivity reactions (including anaphylaxis and angioedema) [see Warnings and Precautions (5.13)], delayed hypersensitivity reactions (including facial swelling, lip swelling, periorbital swelling, tongue swelling), oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.14)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.16)]
 
 Gastrointestinal System Disorders: hepatic failure (including fatalities), hepatitis, pancreatitis
 
-Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.11)], pemphigus
+Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens- Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.12)], pemphigus, urticaria
 
-Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.13)]
+Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.15)]
 
 Vision Disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
 
