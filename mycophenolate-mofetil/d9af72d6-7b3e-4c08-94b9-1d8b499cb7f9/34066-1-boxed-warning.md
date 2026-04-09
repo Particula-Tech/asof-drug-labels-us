@@ -1,4 +1,4 @@
-# WARNING: EMBRYOFETAL TOXICITY, MALIGNANCIES and SERIOUS INFECTIONS
+# WARNING: EMBRYOFETAL TOXICITY, MALIGNANCIES, and SERIOUS INFECTIONS
 
 - Use during pregnancy is associated with increased risks of first trimester pregnancy loss and congenital malformations.
   Avoid if safer treatment options are available.

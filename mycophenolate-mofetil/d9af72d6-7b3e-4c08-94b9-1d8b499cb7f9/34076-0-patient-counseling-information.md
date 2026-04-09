@@ -51,7 +51,7 @@ Advise patients to contact their physician if they develop fever, joint stiffnes
 ## 17.7 Hypersensitivity Reactions
 
 Inform patients of the potential risk of hypersensitivity reactions.
-Advise patients to stop taking MYHIBBIN and seek immediate medical attention if signs or symptoms of a hypersensitivity reaction occur (such as swelling of face, lips, tongue, or throat; difficulty breathing or swallowing) [see Warning and Precautions (5.8)].
+Advise patients to stop taking MYHIBBIN and seek immediate medical attention if signs or symptoms of a hypersensitivity reaction occur (such as swelling of face, lips, tongue, or throat; difficulty breathing or swallowing) [see Warnings and Precautions (5.8)].
 
 ## 17.8 Immunizations
 

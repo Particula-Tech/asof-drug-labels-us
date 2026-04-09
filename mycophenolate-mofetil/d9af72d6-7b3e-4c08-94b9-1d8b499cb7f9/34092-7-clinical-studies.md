@@ -5,7 +5,7 @@
 Adults
 
 The three de novo kidney transplantation studies compared two dose levels of oral mycophenolate mofetil (1 g twice daily and 1.5 g twice daily) with azathioprine (2 studies) or placebo (1 study) to prevent acute rejection episodes.
-One of the two studies with azathioprine (AZA) control arm also included anti-thymocyte globulin (ATGAM ®) induction therapy.
+One of the two studies with azathioprine (AZA) control arm also included anti-thymocyte globulin (ATGAM®) induction therapy.
 The geographic location of the investigational sites of these studies are included in Table 9.
 
 In all three de novo kidney transplantation studies, the primary efficacy endpoint was the proportion of patients in each treatment group who experienced treatment failure within the first 6 months after transplantation.
@@ -50,7 +50,7 @@ Table 10 De Novo Kidney Transplantation Studies Cumulative Incidence of Combined
 | Europe/Canada/Australia | 11.7% | 11.0% | 13.6% |
 | Europe | 8.5% | 10.0% | 11.5% |
 
-Pediatrics- De Novo Kidney transplantation PK Study with Long Term Follow-Up One open-label, safety and pharmacokinetic study of mycophenolate mofetil oral suspension 600 mg/m 2twice daily (up to 1 g twice daily) in combination with cyclosporine and corticosteroids was performed at centers in the United States (9), Europe (5) and Australia (1) in 100 pediatric patients (3 months to 18 years of age) for the prevention of renal allograft rejection.
+Pediatrics- De Novo Kidney transplantation PK Study with Long Term Follow-Up One open-label, safety and pharmacokinetic study of mycophenolate mofetil oral suspension 600 mg/m2 twice daily (up to 1 g twice daily) in combination with cyclosporine and corticosteroids was performed at centers in the United States (9), Europe (5) and Australia (1) in 100 pediatric patients (3 months to 18 years of age) for the prevention of renal allograft rejection.
 Mycophenolate mofetil was well tolerated in pediatric patients [see Adverse Reactions (6.1)].
 The rate of biopsy-proven rejection was similar across the age groups (3 months to <6 years, 6 years to <12 years, 12 years to 18 years).
 The overall biopsy-proven rejection rate at 6 months was comparable to adults.
@@ -60,7 +60,7 @@ The combined incidence of graft loss (5%) and patient death (2%) at 12 months po
 
 A double-blind, randomized, comparative, parallel-group, multicenter study in primary de novo heart transplant recipients was performed at centers in the United States (20), in Canada (1), in Europe (5) and in Australia (2).
 The total number of patients enrolled (ITT population) was 650; 72 never received study drug and 578 received study drug (Safety Population).
-Patients received mycophenolate mofetil 1.5 g twice daily (n=289) or AZA 1.5 to 3 mg/kg/day (n=289), in combination with cyclosporine (Sandimmune ®or Neoral ®) and corticosteroids as maintenance immunosuppressive therapy.
+Patients received mycophenolate mofetil 1.5 g twice daily (n=289) or AZA 1.5 to 3 mg/kg/day (n=289), in combination with cyclosporine (Sandimmune® or Neoral®) and corticosteroids as maintenance immunosuppressive therapy.
 The two primary efficacy endpoints were: (1) the proportion of patients who, after transplantation, had at least one endomyocardial biopsy-proven rejection with hemodynamic compromise, or were re-transplanted or died, within the first 6 months, and (2) the proportion of patients who died or were re-transplanted during the first 12 months following transplantation.
 Patients who prematurely discontinued treatment were followed for the occurrence of allograft rejection for up to 6 months and for the occurrence of death for 1 year.
 
@@ -74,16 +74,16 @@ Table 11 De Novo Heart Transplantation Study Rejection at 6 Months/Death or Re-t
 |  | All Patients (ITT) |  | Treated Patients |  |
 | --- | --- | --- | --- | --- |
 |  | AZA N = 323 | MYCOPHENOLATE MOFETIL N = 327 | AZA N = 289 | MYCOPHENOLATE MOFETIL N = 289 |
-| Biopsy-proven rejection with hemodynamic compromise at 6 months a | 121 (38%) | 120 (37%) | 100 (35%) | 92 (32%) |
+| Biopsy-proven rejection with hemodynamic compromise at 6 monthsa | 121 (38%) | 120 (37%) | 100 (35%) | 92 (32%) |
 | Death or re-transplantation at 1 year | 49 (15.2%) | 42 (12.8%) | 33 (11.4%) | 18 (6.2%) |
 
-aHemodynamic compromise occurred if any of the following criteria were met: pulmonary capillary wedge pressure ≥20 mm or a 25% increase; cardiac index <2.0 L/min/m 2or a 25% decrease; ejection fraction ≤30%; pulmonary artery oxygen saturation ≤60% or a 25% decrease; presence of new S 3gallop; fractional shortening was ≤20% or a 25% decrease; inotropic support required to manage the clinical condition.
+aHemodynamic compromise occurred if any of the following criteria were met: pulmonary capillary wedge pressure ≥20 mm or a 25% increase; cardiac index <2.0 L/min/m2 or a 25% decrease; ejection fraction ≤30%; pulmonary artery oxygen saturation ≤60% or a 25% decrease; presence of new S3 gallop; fractional shortening was ≤20% or a 25% decrease; inotropic support required to manage the clinical condition.
 
 ## 14.3 Liver Transplantation
 
 A double-blind, randomized, comparative, parallel-group, multicenter study in primary hepatic transplant recipients was performed at centers in the United States (16), in Canada (2), in Europe (4) and in Australia (1).
 The total number of patients enrolled was 565.
-Per protocol, patients received mycophenolate mofetil 1.5 g twice daily orally or AZA 1 to 2 mg/kg/day orally, in combination with cyclosporine (Neoral ®) and corticosteroids as maintenance immunosuppressive therapy.
+Per protocol, patients received mycophenolate mofetil 1.5 g twice daily orally or AZA 1 to 2 mg/kg/day orally, in combination with cyclosporine (Neoral®) and corticosteroids as maintenance immunosuppressive therapy.
 The actual median oral dose of AZA on study was 1.5 mg/kg/day (range of 0.3 to 3.8 mg/kg/day) initially and 1.26 mg/kg/day (range of 0.3 to 3.8 mg/kg/day) at 12 months.
 The two primary endpoints were: (1) the proportion of patients who experienced, in the first 6 months post-transplantation, one or more episodes of biopsy-proven and treated rejection or death or re-transplantation, and (2) the proportion of patients who experienced graft loss (death or re-transplantation) during the first 12 months post-transplantation.
 Patients who prematurely discontinued treatment were followed for the occurrence of allograft rejection and for the occurrence of graft loss (death or re-transplantation) for 1 year.

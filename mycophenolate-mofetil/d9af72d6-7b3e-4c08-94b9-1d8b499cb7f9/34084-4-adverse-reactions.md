@@ -14,7 +14,7 @@ The data described below primarily derive from five randomized, active-controlle
 
 Oral Mycophenolate Mofetil
 
-The incidence of adverse reactions for mycophenolate mofetil was determined in five randomized, comparative, double- blind trials in the prevention of rejection in kidney, heart and liver transplant patients (two active- and one placebo- controlled trials, one active-controlled trial, and one active-controlled trial, respectively) [see Clinical Studies (14.1, 14.2and 14.3)].
+The incidence of adverse reactions for mycophenolate mofetil was determined in five randomized, comparative, double- blind trials in the prevention of rejection in kidney, heart and liver transplant patients (two active- and one placebo- controlled trials, one active-controlled trial, and one active-controlled trial, respectively) [see Clinical Studies (14.1, 14.2 and 14.3)].
 
 The three de novo kidney studies with 12-month duration compared two dose levels of oral mycophenolate mofetil (1 g twice daily and 1.5 g twice daily) with azathioprine (2 studies) or placebo (1 study) when administered in combination with cyclosporine (Sandimmune®) and corticosteroids to prevent acute rejection episodes.
 One study also included anti-thymocyte globulin (ATGAM®) induction therapy.
@@ -32,12 +32,12 @@ Table 1 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Live
 
 | System Organ Class | Kidney Studies |  |  | Heart Study |  | Liver Study |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| MMF 2g/day (n=501) or 3g/day (n=490) | AZA 1 to 2 mg/kg/day or 100 to 150 mg/day | Placebo | MMF 3g/day | AZA 1.5 to 3 mg/kg/day | MMF 3g/day | AZA 1 to 2 mg/kg/day |  |
+| MMF 2 g/day (n=501) or 3 g/day (n=490) | AZA 1 to 2 mg/kg/day or 100 to 150 mg/day | Placebo | MMF 3 g/day | AZA 1.5 to 3 mg/kg/day | MMF 3g/day | AZA 1 to 2 mg/kg/day |  |
 | Adverse Drug Reaction | (n=991) | (n=326) | (n=166) | (n=289) | (n=289) | (n=277) | (n=287) |
 |  | % | % | % | % | % | % | % |
 | Infections and infestations |  |  |  |  |  |  |  |
 | Bacterial infections | 39.9 | 33.7 | 37.3 | - | - | 27.4 | 26.5 |
-| Viral infections | - a | - | - | 31.1 | 24.9 | - | - |
+| Viral infections | -a | - | - | 31.1 | 24.9 | - | - |
 | Blood and lymphatic system disorders |  |  |  |  |  |  |  |
 | Anemia | 20.0 | 23.6 | 2.4 | 45.0 | 47.1 | 43.0 | 53.0 |
 | Ecchymosis | - | - | - | 20.1 | 9.7 | - | - |
@@ -85,8 +85,8 @@ Table 1 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Live
 | Blood urea increased | - | - | - | 36.7 | 34.3 | - | - |
 | General disorders and administration site conditions |  |  |  |  |  |  |  |
 | Asthenia | - | - | - | 49.1 | 41.2 | 35.4 | 33.8 |
-| Edema b | 21.0 | 28.2 | 8.4 | 67.5 | 55.7 | 48.4 | 47.7 |
-| Pain c | 24.8 | 32.2 | 9.6 | 79.2 | 77.5 | 74.0 | 77.5 |
+| Edemab | 21.0 | 28.2 | 8.4 | 67.5 | 55.7 | 48.4 | 47.7 |
+| Painc | 24.8 | 32.2 | 9.6 | 79.2 | 77.5 | 74.0 | 77.5 |
 | Pyrexia | - | - | - | 56.4 | 53.6 | 52.3 | 56.1 |
 
 a:“-” Indicates that the incidence was below the cutoff value of 20% for inclusion in the table. b:“Edema” includes peripheral edema, facial edema, scrotal edema. c:“Pain” includes musculoskeletal pain (myalgia, neck pain, back pain).
@@ -94,12 +94,12 @@ a:“-” Indicates that the incidence was below the cutoff value of 20% for inc
 In the three de novo kidney studies, patients receiving 2 g/day of mycophenolate mofetil had an overall better safety profile than did patients receiving 3 g/day of mycophenolate mofetil.
 
 Post-transplant lymphoproliferative disease (PTLD, pseudolymphoma) developed in 0.4% to 1% of patients receiving mycophenolate mofetil (2 g or 3 g daily) with other immunosuppressive agents in controlled clinical trials of kidney, heart and liver transplant patients followed for at least 1 year [see Warnings and Precautions (5.2)].
-Non- melanoma skin carcinomas occurred in 1.6% to 4.2% of patients, other types of malignancy in 0.7% to 2.1% of patients.
+Non-melanoma skin carcinomas occurred in 1.6% to 4.2% of patients, other types of malignancy in 0.7% to 2.1% of patients.
 Three-year safety data in kidney and heart transplant patients did not reveal any unexpected changes in incidence of malignancy compared to the 1-year data.
 In pediatric patients, PTLD was observed in 1.35% (2/148) by 12 months post-transplant.
 
 Cytopenias, including leukopenia, anemia, thrombocytopenia and pancytopenia are a known risk associated with mycophenolate and may lead or contribute to the occurrence of infections and hemorrhages [see Warnings and Precautions (5.3)].
-Severe neutropenia (ANC <0.5 x 10 3/µL) developed in up to 2% of kidney transplant patients, up to 2.8% of heart transplant patients and up to 3.6% of liver transplant patients receiving mycophenolate mofetil 3 g daily [see Warnings and Precautions (5.4)and Dosage and Administration (2.5)].
+Severe neutropenia (ANC <0.5 x 103/µL) developed in up to 2% of kidney transplant patients, up to 2.8% of heart transplant patients and up to 3.6% of liver transplant patients receiving mycophenolate mofetil 3 g daily [see Warnings and Precautions (5.4) and Dosage and Administration (2.5)].
 
 The most common opportunistic infections in patients receiving mycophenolate mofetil with other immunosuppressants were mucocutaneous candida, CMV viremia/syndrome, and herpes simplex.
 The proportion of patients with CMV viremia/syndrome was 13.5%.
@@ -129,13 +129,13 @@ Table 2 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Live
 
 Pediatrics
 
-The type and frequency of adverse events in a clinical study for prevention of kidney allograft rejection in 100 pediatric patients 3 months to 18 years of age dosed with mycophenolate mofetil oral suspension 600 mg/m 2twice daily (up to 1 g twice daily) were generally similar to those observed in adult patients dosed with mycophenolate mofetil capsules at a dose of 1 g twice daily with the exception of abdominal pain, fever, infection, pain, sepsis, diarrhea, vomiting, pharyngitis, respiratory tract infection, hypertension, leukopenia, and anemia, which were observed in a higher proportion in pediatric patients.
+The type and frequency of adverse events in a clinical study for prevention of kidney allograft rejection in 100 pediatric patients 3 months to 18 years of age dosed with mycophenolate mofetil oral suspension 600 mg/m2 twice daily (up to 1 g twice daily) were generally similar to those observed in adult patients dosed with mycophenolate mofetil capsules at a dose of 1 g twice daily with the exception of abdominal pain, fever, infection, pain, sepsis, diarrhea, vomiting, pharyngitis, respiratory tract infection, hypertension, leukopenia, and anemia, which were observed in a higher proportion in pediatric patients.
 
 Safety information in pediatric heart transplant or pediatric liver transplant patients treated with mycophenolate mofetil is supported by an open-label study in pediatric liver transplant patients and publications; the type and frequency of the reported adverse reactions are consistent with those observed in pediatric patients following renal transplant and in adults.
 
 Geriatrics
 
-Geriatric patients (≥65 years), particularly those who are receiving mycophenolate mofetil as part of a combination immunosuppressive regimen, may be at increased risk of certain infections (including cytomegalovirus [CMV] tissue invasive disease) and possibly gastrointestinal hemorrhage and pulmonary edema, compared to younger individuals [see Warnings and Precautions (5.3)and Adverse Reactions (6.1)].
+Geriatric patients (≥65 years), particularly those who are receiving mycophenolate mofetil as part of a combination immunosuppressive regimen, may be at increased risk of certain infections (including cytomegalovirus [CMV] tissue invasive disease) and possibly gastrointestinal hemorrhage and pulmonary edema, compared to younger individuals [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
 
 ## 6.2 Postmarketing Experience
 

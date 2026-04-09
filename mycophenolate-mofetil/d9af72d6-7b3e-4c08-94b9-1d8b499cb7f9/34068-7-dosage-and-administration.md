@@ -27,7 +27,7 @@ The recommended dosage for adult kidney transplant patients is 1 g orally, admin
 Pediatrics Patients 3 months and older
 
 Pediatric dosing is based on body surface area (BSA).
-The recommended dosage for pediatric kidney transplant patients 3 months and older is 600 mg/m 2, administered twice daily (maximum daily dose of 2 g or 10 mL of the oral suspension).
+The recommended dosage for pediatric kidney transplant patients 3 months and older is 600 mg/m2, administered twice daily (maximum daily dose of 2 g or 10 mL of the oral suspension).
 
 ## 2.3 Recommended Dosage for Heart Transplant Patients
 
@@ -58,9 +58,9 @@ The dose may be individualized based on clinical assessment.
 Renal Impairment
 
 No dosage modifications are needed in kidney transplant patients with delayed graft function postoperatively [see Clinical Pharmacology (12.3)].
-In kidney transplant patients with severe chronic impairment of the graft (GFR <25 mL/min/1.73 m 2), do not administer doses of MYHIBBIN greater than 1 g twice a day.
+In kidney transplant patients with severe chronic impairment of the graft (GFR <25 mL/min/1.73 m2), do not administer doses of MYHIBBIN greater than 1 g twice a day.
 These patients should be carefully monitored [see Clinical Pharmacology (12.3)].
 
 Neutropenia
 
-If neutropenia develops (ANC <1.3 x 10 3/µL), dosing with MYHIBBIN should be interrupted or reduced, appropriate diagnostic tests performed, and the patient managed appropriately [see Warnings and Precautions (5.4)and Adverse Reactions (6.1)].
+If neutropenia develops (ANC <1.3 x 103/µL), dosing with MYHIBBIN should be interrupted or reduced, appropriate diagnostic tests performed, and the patient managed appropriately [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
