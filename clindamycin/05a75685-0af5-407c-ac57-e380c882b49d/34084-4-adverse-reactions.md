@@ -13,7 +13,7 @@ Generalized mild to moderate morbilliform-like skin rashes are the most frequent
 
 Severe skin reactions such as toxic epidermal necrolysis, some with fatal outcome, have been reported (see WARNINGS).
 Cases of acute generalized exanthematous pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, have been associated with clindamycin.
-Anaphylactic shock, anaphylactic reaction, hypersensitivity, and Kounis syndrome (acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction) have also been reported (see WARNINGS).
+Anaphylactic shock, anaphylactic reaction, hypersensitivity, and acute myocardial ischemia with or without myocardial infarction occurring as part of an allergic reaction have also been reported (see WARNINGS).
 Cutaneous vasculitis and symmetrical drug-related intertriginous and flexural exanthema have also been reported.
 
 Skin and Mucous Membranes: Pruritus, vaginitis, angioedema and rare instances of exfoliative dermatitis have been reported (see Hypersensitivity Reactions).
