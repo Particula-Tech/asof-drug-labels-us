@@ -2,7 +2,8 @@
 
 Digoxin Injection, USP is available as:
 
-500 mcg/2 mL (250 mcg/mL) ampuls packaged in 25s (NDC 0641-1410-35)
+500 mcg/2 mL (250 mcg/mL) single-dose ampuls packaged in 25s (NDC 0641-1410-35)
 
 Store at 20˚ to 25˚C (68˚ to 77˚F), excursions permitted to 15˚ to 30˚C (59˚ to 86˚F) [see USP Controlled Room Temperature].
 Protect from light.
+Discard unused portion.

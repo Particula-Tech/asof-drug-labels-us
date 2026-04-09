@@ -20,6 +20,8 @@ Immediate use of the diluted product is recommended.
 
 Consider interruption or reduction in digoxin dose prior to electrical cardioversion [see Warnings and Precautions (5.4)].
 
+Discard unused portion of digoxin injection.
+
 ## 2.2 Loading Dosing Regimen in Adults and Pediatric Patients Over 10 Years Old
 
 Table 1.
@@ -45,7 +47,7 @@ Recommended Starting Digoxin Injection Maintenance Dosage in Adults and Pediatri
 | Adults and pediatric patients over 10 years old | 2.4-3.6 |
 | mcg = microgram |  |
 
-Table 3 provides the recommended (once daily) maintenance dose for adults and pediatric patients over 10 years old according to lean body weight and renal function.
+Table 3 provides the recommended (once daily) maintenance dose for adults and pediatric patients over 10 years old (to be given once daily) according to lean body weight and renal function.
 The doses are based on studies in adult patients with heart failure.
 Alternatively, the maintenance dose may be estimated by the following formula (peak body stores lost each day through elimination):
 
@@ -71,7 +73,7 @@ Recommended Maintenance Dose (in micrograms given once daily) of Digoxin Injecti
 | 100 mL/min |  | 136 | 170 | 204 | 238 | 272 | 306 | 340 | 7 |
 | a For adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2 body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatric patients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys.GFR (mL/min/1.73 m2) = (k x Height)/Scrb If no loading dose administeredc The doses listed assume average body composition. |  |  |  |  |  |  |  |  |  |
 
-## 2.4 Monitoring to Assess Safety, Efficacy, and Therapeutic Blood Levels
+## 2.5 Monitoring to Assess Safety, Efficacy, and Therapeutic Blood Levels
 
 Monitor for signs and symptoms of digoxin toxicity and clinical response.
 Adjust dose based on toxicity, efficacy, and blood levels.
@@ -86,11 +88,11 @@ Obtain serum digoxin concentrations just before the next scheduled digoxin dose 
 The digoxin concentration is likely to be 10-25% lower when sampled right before the next dose (24 hours after dosing) compared to sampling 8 hours after dosing (using once-daily dosing).
 However, there will be only minor differences in digoxin concentrations using twice daily dosing whether sampling is done at 8 or 12 hours after a dose.
 
-## 2.5 Switching from Intravenous Digoxin to Oral Digoxin
+## 2.6 Switching from Intravenous Digoxin to Oral Digoxin
 
-When switching from intravenous to oral digoxin formulations, make allowances for differences in bioavailability when calculating maintenance dosages (see Table 4).
+When switching from intravenous to oral digoxin formulations, make allowances for differences in bioavailability when calculating maintenance dosages (see Table 6).
 
-Table 4.
+Table 6.
 Comparison of the Systemic Availability and Equivalent Doses of Oral and Intravenous Digoxin
 
 |  | Absolute Bioavailability | Equivalent Doses (mcg) |  |  |  |

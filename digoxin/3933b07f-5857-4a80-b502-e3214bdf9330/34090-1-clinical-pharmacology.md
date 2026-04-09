@@ -17,9 +17,9 @@ The cardiologic consequences of these direct and indirect effects are an increas
 
 ## 12.2 Pharmacodynamics
 
-The times to onset of pharmacologic effect and to peak effect of preparations of digoxin are shown in Table 5.
+The times to onset of pharmacologic effect and to peak effect of preparations of digoxin are shown in Table 7.
 
-Table 5.
+Table 7.
 Times to Onset of Pharmacologic Effect and to Peak Effect of Preparations of Digoxin
 
 | Product | Time to Onset of Effecta | Time to Peak Effecta |
@@ -40,7 +40,7 @@ Digoxin does not significantly reduce heart rate during exercise.
 
 Note: The following data are from studies performed in adults, unless otherwise stated.
 
-Comparisons of the systemic availability and equivalent doses for oral preparations of digoxin are shown in Table 4 [see Dosage and Administration (2.5)].
+Comparisons of the systemic availability and equivalent doses for oral preparations of digoxin are shown in Table 6 [see Dosage and Administration (2.6)].
 
 Distribution: Following drug administration, a 6-8 hour tissue distribution phase is observed.
 This is followed by a much more gradual decline in the serum concentration of the drug, which is dependent on the elimination of digoxin from the body.

@@ -8,9 +8,11 @@ Digoxin Injection, USP
 
 0.5 mg/2 mL (250 mcg/mL)
 
-For slow IV or deep IM use
+For IV or IM use
 
-2 mL Ampul
+PROTECT FROM LIGHT
+
+2 mL single-dose ampul
 
 NDC 0641-1410-35 Rx only
 
@@ -20,10 +22,12 @@ Digoxin Injection, USP
 
 0.5 mg/2 mL (250 mcg/mL)
 
-For slow Intravenous or
-
-deep Intramuscular use
+For Intravenous or Intramuscular use
 
 Dilution is not required
 
-25 x 2 mL Ampuls
+Protect from light
+
+Discard unused portion
+
+25 x 2 mL single-dose ampul
