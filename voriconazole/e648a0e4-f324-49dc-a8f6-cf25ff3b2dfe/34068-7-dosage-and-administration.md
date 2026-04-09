@@ -82,7 +82,7 @@ For pediatric patients 12 to 14 years of age with a body weight greater than or 
 
 | Intravenous infusion | Intravenous infusion | Oral tablets | Oral suspension |  |
 | --- | --- | --- | --- | --- |
-| Infection | Loading Dose | Maintenance Dose |  |  |
+|  | Loading Dose | Maintenance Dose |  |  |
 | Invasive Aspergillosis* | 9 mg/kg every 12 hours for the first 24 hours | 8 mg/kg every 12 hours after the first 24 hours | 9 mg/kg every 12 hours (maximum dose of 350 mg every 12 hours) | 0.225 mL/kg every12 hours[maximum dose of8.75 mL (350 mg)every 12 hours] |
 | Candidemia in nonneutropenics and other deep tissue Candida infections† |  |  |  |  |
 | Scedosporiosis and Fusariosis |  |  |  |  |
@@ -117,7 +117,7 @@ Pediatric patients 12 to 14 years of age weighing greater than or equal to 50 kg
 
 Use the optimal method for titrating dosage recommended for adults [see Dosage and Administration (2.3)].
 
-## 2.5 Dosage Modifications in Patients With Hepatic Impairment
+## 2.5 Dosage Modifications in Patients with Hepatic Impairment
 
 Adults
 

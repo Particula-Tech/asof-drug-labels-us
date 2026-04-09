@@ -269,7 +269,7 @@ Digoxin (P-glycoprotein mediated transport)
 
 Voriconazole (200 mg every 12 hours × 12 days) had no significant effect on steady state Cmax and AUCτ of digoxin (0.25 mg once daily for 10 days) in healthy subjects.
 
-Mycophenolic Acid (UDP-glucuronyl transferase substrate)
+Mycophenolic acid (UDP-glucuronyl transferase substrate)
 
 Voriconazole (200 mg every 12 hours × 5 days) had no significant effect on the Cmax and AUCτ of mycophenolic acid and its major metabolite, mycophenolic acid glucuronide after administration of a 1 gram single oral dose of mycophenolate mofetil.
 

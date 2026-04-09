@@ -17,8 +17,6 @@ Embryo-Fetal Toxicity
 - •Advise female patients of the potential risks to a fetus.
 - •Advise females of reproductive potential to use effective contraception during treatment with voriconazole for injection.
 
-Finished drug product Manufactured by Lek Pharmaceuticals d.d.
+Manufactured by Lek d.d., Slovenia for
 
-SI-1526, Ljubljana, Slovenia
-
-for Sandoz Inc., Princeton, NJ 08540
+Sandoz Inc., Princeton, NJ 08540

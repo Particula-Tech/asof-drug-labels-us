@@ -33,7 +33,7 @@ Table 13 also summarizes the response (success) based on mycological confirmatio
 
 Table 13: Overall Efficacy and Success by Species in the Primary Treatment of Acute Invasive Aspergillosis Study 307/602
 
-|  | Voriconazole | Ampho BC | Stratified Difference (95% CI)d |
+|  | Voriconazole | Ampho Bc | Stratified Difference (95% CI)d |
 | --- | --- | --- | --- |
 |  | n/N (%) | n/N (%) |  |
 | Efficacy as Primary Therapy |  |  |  |
@@ -158,7 +158,7 @@ Table 17: Clinical and Mycological Outcome by Baseline Pathogen in Patients with
 | C. glabrata | 8/8 (100%) | 4/7 (57%) | 4/4 (100%) | 1/4 (25%) |
 | C. krusei | 1/1 | 1/1 | 2/2 (100%) | 0/0 |
 
-a Some patients had more than one species isolated at baseline
+a Some patients had more than one species isolated at baseline.
 
 b Patients with endoscopic and/or mycological assessment at end of therapy.
 
