@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Methylphenidate HCl is a central nervous system (CNS) stimulant.
+Methylphenidate is a central nervous system (CNS) stimulant.
 
 ## 12.2 Pharmacodynamics
 
