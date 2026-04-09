@@ -36,7 +36,7 @@ Table 2: Clinical and MRI Results of Study 1
 | Percent disability progression at week 108 | 21.7% (p=0.084) | 20.2% (p=0.028) | 27.3% |
 | Hazard ratio | 0.76 | 0.70 | - |
 | MRI Endpoints |  |  |  |
-| Median change from baseline in Total lesion volume* (mL) at week 108 | 0.755 (p=0.0317) † | 0.345 (p=0.0003)† | 1.127 |
+| Median change from baseline in Total lesion volume*(mL) at week 108 | 0.755 (p=0.0317)† | 0.345 (p=0.0003)† | 1.127 |
 | Mean number of Gd-enhancing T1-lesions per scan | 0.570 (p<0.0001) | 0.261 (p<0.0001) | 1.331 |
 | * Total lesion volume: sum of T2 and hypointense T1 lesion volume in mL † p-values based on cubic root transformed data for total lesion volume |  |  |  |
 

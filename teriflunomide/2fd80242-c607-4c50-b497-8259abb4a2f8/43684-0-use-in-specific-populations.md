@@ -86,7 +86,7 @@ Effectiveness of teriflunomide for the treatment of relapsing form of multiple s
 
 Pancreatitis has been reported in adults in the postmarketing setting, but appears to occur at higher frequency in the pediatric population.
 In this pediatric study, cases of pancreatitis were reported in 1.8% (2/109) of patients who received teriflunomide compared to no patients in the placebo group.
-All patients in the pediatric trial recovered or were recovering after treatment discontinuation and accelerated elimination procedure [see Warnings and Precautions (5.11)].
+All patients in the pediatric trial recovered or were recovering after treatment discontinuation and accelerated elimination procedure [see Warnings and Precautions (5.12)].
 
 Additionally, elevated or abnormal blood creatine phosphokinase was reported in 6.4% of pediatric patients who received teriflunomide compared to no patients in the placebo group.
 

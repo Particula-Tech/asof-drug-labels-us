@@ -9,5 +9,5 @@ Monitoring to Assess Safety
 - Obtain a complete blood cell count (CBC) within 6 months before the initiation of treatment with teriflunomide tablets.
   Further monitoring should be based on signs and symptoms of infection [see Warnings and Precautions (5.4)].
 - Prior to initiating teriflunomide tablets, screen patients for latent tuberculosis infection with a tuberculin skin test or blood test for mycobacterium tuberculosis infection [see Warnings and Precautions (5.4)].
-- Exclude pregnancy prior to initiation of treatment with teriflunomide in females of reproductive potential [see Warnings and Precautions (5.2)].
-- Check blood pressure before start of teriflunomide tablets treatment and periodically thereafter [see Warnings and Precautions (5.9)].
+- Exclude pregnancy prior to initiation of treatment with teriflunomide tablets in females of reproductive potential [see Warnings and Precautions (5.2)].
+- Check blood pressure before start of teriflunomide tablets treatment and periodically thereafter [see Warnings and Precautions (5.10)].
