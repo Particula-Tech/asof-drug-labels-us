@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA211582"
+  ],
+  "inn": "dapagliflozin",
+  "labeler": "Zydus Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "70710-1380-3",
+    "70710-1380-9",
+    "70710-1381-3",
+    "70710-1381-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dapagliflozin",
+      "name": "Dapagliflozin"
+    }
+  ],
+  "setid": "17586ec6-0104-4b08-ad87-12a837568d6c",
+  "source": "dailymed"
+}
