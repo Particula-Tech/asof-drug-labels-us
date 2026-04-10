@@ -5,10 +5,12 @@
 Risk Summary
 
 Data from randomized controlled trials and meta-analyses with phenylephrine hydrochloride injection use in pregnant women during Cesarean section have not established a drug-associated risk of major birth defects and miscarriage.
-These studies have not identified an adverse effect on maternal outcomes or infant Apgar scores [see Data].
+These studies have not identified an adverse effect on maternal outcomes or infant Apgar scores [see Error!
+Hyperlink reference not valid.].
 There are no data on the use of phenylephrine during the first or second trimester.
 In animal reproduction and development studies in normotensive animals, evidence of fetal malformations was noted when phenylephrine was administered during organogenesis via a 1-hour infusion at 1.2 times the human daily dose (HDD) of 10 mg/60 kg/day.
-Decreased pup weights were noted in offspring of pregnant rats treated with 2.9 times the HDD [See Data].
+Decreased pup weights were noted in offspring of pregnant rats treated with 2.9 times the HDD [See Error!
+Hyperlink reference not valid.].
 The estimated background risk of major birth defects and miscarriage for the indicated population are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
