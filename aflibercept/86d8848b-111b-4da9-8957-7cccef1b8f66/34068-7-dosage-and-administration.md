@@ -18,21 +18,25 @@ EYLEA HD is available packaged as follows:
 
 The recommended dose for EYLEA HD is 8 mg (0.07 mL of 114.3 mg/mL solution) administered by intravitreal injection every 4 weeks (approximately every 28 days +/- 7 days) for the first three doses, followed by 8 mg (0.07 mL of 114.3 mg/mL solution) via intravitreal injection once every 8 to 16 weeks, +/- 1 week.
 
-Some patients did not maintain a response with extended dosing intervals after successful response to the three initial monthly doses [see Clinical Studies (14.1)].
+Some patients did not maintain a response with 8 mg once every 8 to 16 weeks,+/- 1 week, after successful response to the three initial monthly doses [see Clinical Studies (14.1)].
 These patients may benefit from resuming every 4-week dosing (approximately every 28 days +/- 7 days).
+
+Extended dosing intervals (8 mg once every 20 weeks, +/- 1 week) may be considered after one year of successful response based on visual and anatomic outcomes [see Clinical Studies (14.1)].
 
 ## 2.3 Diabetic Macular Edema (DME)
 
 The recommended dose for EYLEA HD is 8 mg (0.07 mL of 114.3 mg/mL solution) administered by intravitreal injection every 4 weeks (approximately every 28 days +/- 7 days) for the first three doses, followed by 8 mg (0.07 mL of 114.3 mg/mL solution) via intravitreal injection once every 8 to 16 weeks, +/- 1 week.
 
-Some patients did not maintain a response with extended dosing intervals after successful response to the three initial monthly doses [see Clinical Studies (14.2)].
+Some patients did not maintain a response with 8 mg once every 8 to 16 weeks, +/- 1 week, after successful response to the three initial monthly doses [see Clinical Studies (14.2)].
 These patients may benefit from resuming every 4-week dosing (approximately every 28 days +/- 7 days).
+
+Extended dosing intervals (8 mg once every 20 weeks, +/- 1 week) may be considered after one year of successful response based on visual and anatomic outcomes [see Clinical Studies (14.2)].
 
 ## 2.4 Diabetic Retinopathy (DR)
 
 The recommended dose for EYLEA HD is 8 mg (0.07 mL of 114.3 mg/mL solution) administered by intravitreal injection every 4 weeks (approximately every 28 days +/- 7 days) for the first three doses, followed by 8 mg (0.07 mL of 114.3 mg/mL solution) via intravitreal injection once every 8 to 12 weeks, +/- 1 week.
 
-Some patients did not maintain a response with extended dosing intervals after successful response to the three initial monthly doses [see Clinical Studies (14.3)].
+Some patients did not maintain a response with 8 mg once every 8 to 12 weeks, +/- 1 week, after successful response to the three initial monthly doses [see Clinical Studies (14.3)].
 These patients may benefit from resuming every 4-week dosing (approximately every 28 days +/- 7 days).
 
 ## 2.5 Macular Edema Following Retinal Vein Occlusion (RVO)

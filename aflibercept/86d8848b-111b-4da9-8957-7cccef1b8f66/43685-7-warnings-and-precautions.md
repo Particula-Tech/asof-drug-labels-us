@@ -16,6 +16,6 @@ Intraocular pressure and the perfusion of the optic nerve head should be monitor
 
 There is a potential risk of arterial thromboembolic events (ATEs) following intravitreal use of VEGF inhibitors, including EYLEA HD.
 ATEs are defined as nonfatal stroke, nonfatal myocardial infarction, or vascular death (including deaths of unknown cause).
-The incidence of reported thromboembolic events in the wet AMD study (PULSAR) from baseline through week 48 was 0.4% (3 out of 673) in the combined group of patients treated with EYLEA HD compared with 1.5% (5 out of 336) in patients treated with EYLEA 2 mg.
-The incidence of reported thromboembolic events in the DME study (PHOTON) from baseline to week 48 was 3.1% (15 out of 491) in the combined group of patients treated with EYLEA HD compared with 3.6% (6 out of 167) in patients treated with EYLEA 2 mg.
+The incidence of reported thromboembolic events in the wet AMD study (PULSAR) from baseline through week 96 was 1.8% (12 out of 673) in the combined group of patients treated with EYLEA HD compared with 3.3% (11 out of 336) in patients treated with EYLEA 2 mg.
+The incidence of reported thromboembolic events in the DME study (PHOTON) from baseline to week 96 was 6.7% (33 out of 491) in the combined group of patients treated with EYLEA HD compared with 7.2% (12 out of 167) in patients treated with EYLEA 2 mg.
 The incidence of reported thromboembolic events in the RVO study (QUASAR) from baseline to week 36 was 0.5% (3 out of 591) in the combined group of patients treated with EYLEA HD compared with 1.7% (5 out of 301) in patients treated with EYLEA 2 mg.

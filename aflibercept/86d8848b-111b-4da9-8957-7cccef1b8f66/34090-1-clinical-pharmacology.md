@@ -52,4 +52,6 @@ No dosage adjustment is required for any of the populations that have been studi
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies for other products.
 
-During the 48-week treatment with aflibercept administrated IVT, the incidence of anti-aflibercept antibody formation in the 8 mg treatment groups was 2.7% (25/937 participants with nAMD [PULSAR] or DME [PHOTON]).
+In the nAMD [PULSAR] and DME [PHOTON] studies, the pre-treatment incidence of anti-aflibercept antibodies in the 8 mg treatment groups was 2.4%.
+During the 96-week treatment with aflibercept administered IVT, the incidence of anti-aflibercept antibody formation in the 8 mg treatment groups was 3.6% (37/1029) across studies.
+Less than 0.1% (1/1029) had neutralizing antibodies.

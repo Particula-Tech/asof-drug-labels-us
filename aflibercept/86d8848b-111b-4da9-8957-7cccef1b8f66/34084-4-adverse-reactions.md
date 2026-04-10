@@ -16,7 +16,7 @@ The most common adverse reactions reported in ≥3% of patients treated with EYL
 
 Neovascular (Wet) Age-Related Macular Degeneration (AMD) and Diabetic Macular Edema (DME)
 
-The data described below reflect exposure to EYLEA HD administered every 12 weeks (HDq12), EYLEA HD administered every 16 weeks (HDq16), or EYLEA 2 mg administered every 8 weeks (2q8) in controlled clinical studies (PULSAR and PHOTON), each for 48 weeks [see Clinical Studies (14.1, 14.2)].
+The data described below reflect exposure to EYLEA HD administered every 12 weeks (HDq12), EYLEA HD administered every 16 weeks (HDq16), or EYLEA 2 mg administered every 8 weeks (2q8) in controlled clinical studies (PULSAR and PHOTON), each for 96 weeks [see Clinical Studies (14.1, 14.2)].
 
 Table 1: Adverse Reactions (≥1%) in at least one group in the PULSAR or PHOTON studies
 
@@ -24,23 +24,25 @@ Table 1: Adverse Reactions (≥1%) in at least one group in the PULSAR or PHOTON
 | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Reactions | PULSAR |  |  | PHOTON |  |  |
 | EYLEA HDq12 | EYLEA HDq16 | EYLEA 2q8 | EYLEA HDq12 | EYLEA HDq16 | EYLEA 2q8 |  |
-| CataractRepresents grouping of related terms | 4% | 4% | 4% | 3% | 6% | 3% |
-| Conjunctival hemorrhage | 3% | 2% | 1% | 4% | 4% | 4% |
-| Intraocular pressure increased | 4% | 4% | 2% | 3% | 1% | 4% |
-| Ocular discomfort/eye pain/eye irritation | 3% | 3% | 2% | 4% | 2% | 4% |
-| Vision blurred | 4% | 6% | 7% | 3% | 3% | 4% |
-| Vitreous floaters | 1% | 4% | 3% | 5% | 2% | 3% |
-| Vitreous detachment | 2% | 3% | 2% | 4% | 2% | 1% |
-| Corneal epithelium defect | 2% | 2% | 3% | 3% | 6% | 1% |
-| Retinal hemorrhage | 3% | 3% | 4% | 0 | 4% | 1% |
-| Intraocular inflammation | 1% | 1% | 1% | 1% | 0 | 1% |
-| Retinal pigment epithelial tear/epitheliopathy | 2% | 1% | 2% | <1% | 0 | 0 |
-| Vitreous hemorrhage | <1% | 1% | 1% | 2% | 1% | 1% |
-| Retinal Detachment | 1% | <1% | 0 | <1% | 1% | 0 |
-| Foreign body sensation in eyes | 1% | 1% | 2% | <1% | 0 | 0 |
-| Retinal pigment epithelial detachment | 1% | 1% | 2% | 0 | 0 | 0 |
+| CataractRepresents grouping of related terms | 10% | 10% | 10% | 10% | 13% | 7% |
+| Vision blurred | 9% | 9% | 8% | 5% | 4% | 6% |
+| Intraocular pressure increased | 5% | 4% | 3% | 4% | 1% | 5% |
+| Conjunctival hemorrhage | 3% | 3% | 3% | 5% | 5% | 4% |
+| Ocular discomfort/eye pain/eye irritation | 3% | 4% | 4% | 5% | 4% | 4% |
+| Vitreous floaters | 2% | 6% | 5% | 6% | 4% | 4% |
+| Vitreous detachment | 2% | 4% | 2% | 5% | 3% | 4% |
+| Corneal epithelium defect | 3% | 3% | 4% | 4% | 9% | 2% |
+| Retinal hemorrhage | 5% | 6% | 6% | 0 | 4% | 1% |
+| Dry eye | 3% | 3% | 5% | 2% | 4% | 2% |
+| Intraocular inflammation | 2% | 1% | 2% | 2% | 1% | 1% |
+| Retinal pigment epithelial tear/epitheliopathy | 2% | 2% | 2% | 1% | 0 | 0 |
+| Vitreous hemorrhage | <1% | 1% | 1% | 2% | 3% | 2% |
+| Retinal Detachment | 1% | 1% | <1% | <1% | 1% | 0 |
+| Foreign body sensation in eyes | 1% | 2% | 2% | <1% | 1% | 0 |
+| Ocular hyperemia | 1% | <1% | 1% | <1% | 0 | 0 |
+| Retinal pigment epithelial detachment | 1% | 1% | 3% | 0 | 0 | 0 |
 
-Adverse drug reactions (ADRs) reported in <1% of participants treated with EYLEA HD were ocular hyperemia (includes adverse events of conjunctival hyperemia, conjunctival irritation, ocular hyperemia), lacrimation increased, eyelid edema, hypersensitivity (includes adverse events of rash, urticaria, pruritus), retinal tear and injection site hemorrhage.
+Adverse drug reactions (ADRs) reported in <1% of participants treated with EYLEA HD were lacrimation increased, eyelid edema, hypersensitivity (includes adverse events of rash, urticaria, pruritus), and injection site hemorrhage.
 
 Macular Edema Following Retinal Vein Occlusion (RVO)
 

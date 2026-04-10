@@ -12,8 +12,8 @@ For patent information: https://www.regeneron.com/downloads/us-patent-products.p
 
 EYLEA HD is a registered trademark of Regeneron Pharmaceuticals, Inc.
 
-©2025, Regeneron Pharmaceuticals, Inc.
+©2026, Regeneron Pharmaceuticals, Inc.
 
 All rights reserved.
 
-Date: November 2025
+Date: April 2026
