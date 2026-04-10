@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA211478"
+  ],
+  "inn": "dapagliflozin",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-432-01",
+    "72205-432-02",
+    "72205-432-03",
+    "72205-433-01",
+    "72205-433-02",
+    "72205-433-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "dapagliflozin",
+      "name": "Dapagliflozin"
+    }
+  ],
+  "setid": "107b4d25-4764-42b7-80e3-9aaff20865ed",
+  "source": "dailymed"
+}

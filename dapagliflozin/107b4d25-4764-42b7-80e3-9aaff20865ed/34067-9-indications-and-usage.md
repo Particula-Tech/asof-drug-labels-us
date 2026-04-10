@@ -1,0 +1,15 @@
+# 1 INDICATIONS AND USAGE
+
+Dapagliflozin tablet is indicated:
+
+- To reduce the risk of hospitalization for heart failure in adults with type 2 diabetes mellitus and either established cardiovascular disease or multiple cardiovascular risk factors.
+- As an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
+
+Limitations of Use
+
+- Dapagliflozin tablet is not recommended for use to improve glycemic control in patients with type 1 diabetes mellitus [see Warnings and Precautions (5.1)].
+- Dapagliflozin tablet is not recommended for use to improve glycemic control in patients with type 2 diabetes mellitus with an eGFR less than 45 mL/min/1.73 m2.
+  Dapagliflozin tablet is likely to be in effective in this setting based upon its mechanism of action.
+
+Pediatric use information is approved for AstraZeneca AB’s Farxiga® (dapagliflozin) Tablets.
+However, due to AstraZeneca AB’s marketing exclusivity rights, this drug product is not labeled with that information.
