@@ -20,13 +20,11 @@ This risk is dose-dependent; however, a threshold dose below which no risk exist
 In utero exposure to valproate may also result in hearing impairment or hearing loss.
 Valproate polytherapy with other AEDs has been associated with an increased frequency of congenital malformations compared with AED monotherapy.
 The risk of major structural abnormalities is greatest during the first trimester; however, other serious developmental effects can occur with valproate use throughout pregnancy.
-The rate of congenital malformations among babies born to epileptic mothers who used valproate during pregnancy has been shown to be about four times higher than the rate among babies born to epileptic mothers who used other anti-seizure monotherapies [see Warnings and Precautions (5.2) and Data (Human)].
+The rate of congenital malformations among babies born to epileptic mothers who used valproate during pregnancy has been shown to be about four times higher than the rate among babies born to epileptic mothers who used other anti-seizure monotherapies [see Warnings and Precautions (5.2) and Data].
 
-Epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores and a higher risk of neurodevelopmental disorders compared to children exposed to either another AED in utero or to no AEDs in utero [see Warnings and Precautions (5.3) and Data (Human)].
+Epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores and a higher risk of neurodevelopmental disorders (NDDs), including autism spectrum disorder (ASD), intellectual disability (ID, defined as an IQ < 70), and attention deficit/hyperactivity disorder (ADHD), compared to children exposed to either another AED in utero or to no AEDs in utero [see Warnings and Precautions (5.3) and Data].
 
-An observational study has suggested that exposure to valproate products during pregnancy increases the risk of autism spectrum disorders [see Data (Human)].
-
-In animal studies, valproate administration during pregnancy resulted in fetal structural malformations similar to those seen in humans and neurobehavioral deficits in the offspring at clinically relevant doses [see Data (Animal)].
+In animal studies, valproate administration during pregnancy resulted in fetal structural malformations similar to those seen in humans and neurobehavioral deficits in the offspring at clinically relevant doses [see Data].
 
 There have been reports of hypoglycemia in neonates and fatal cases of hepatic failure in infants following maternal use of valproate during pregnancy.
 
@@ -36,7 +34,7 @@ Available prenatal diagnostic testing to detect neural tube and other defects sh
 
 Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
 It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
-Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate [see Warnings and Precautions (5.2, 5.4)].
+Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for women of childbearing potential using valproate [see Warnings and Precautions (5.2, 5.4)].
 
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
@@ -45,9 +43,9 @@ Clinical Considerations
 
 Disease-associated maternal and/or embryo/fetal risk
 
-To prevent major seizures, women with epilepsy should not discontinue valproate abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
-Even minor seizures may pose some hazard to the developing embryo or fetus [see Warnings and Precautions (5.4)].
-However, discontinuation of the drug may be considered prior to and during pregnancy in individual cases if the seizure disorder severity and frequency do not pose a serious threat to the patient.
+Epilepsy, with or without exposure to antiepileptic drugs, has been associated with several adverse outcomes during pregnancy, including preeclampsia, preterm labor, antepartum and postpartum hemorrhage, placental abruption, poor fetal growth, prematurity, fetal death, and maternal mortality.
+The risk of maternal or fetal injury may be greatest for patients with untreated or poorly controlled convulsive seizures.
+Women with epilepsy who become pregnant should not abruptly discontinue antiepileptic drugs, including valproate, due to the risk of status epilepticus or severe seizures, which may be life-threatening.
 
 Maternal adverse reactions
 
@@ -62,9 +60,9 @@ Hypoglycemia has been reported in neonates whose mothers have taken valproate du
 
 Data
 
-Human
+Human Data
 
-Neural tube defects and other structural abnormalities
+Neural Tube Defects and Other Structural Abnormalities
 
 There is an extensive body of evidence demonstrating that exposure to valproate in utero increases the risk of neural tube defects and other structural abnormalities.
 Based on published data from the CDC’s National Birth Defects Prevention Network, the risk of spina bifida in the general population is about 0.06 to 0.07% (6 to 7 in 10,000 births) compared to the risk following in utero valproate exposure estimated to be approximately 1 to 2% (100 to 200 in 10,000 births).
@@ -73,29 +71,26 @@ The NAAED Pregnancy Registry has reported a major malformation rate of 9-11% in 
 These data show an up to a five-fold increased risk for any major malformation following valproate exposure in utero compared to the risk following exposure in utero to other AEDs taken as monotherapy.
 The major congenital malformations included cases of neural tube defects, cardiovascular malformations, craniofacial defects (e.g., oral clefts, craniosynostosis), hypospadias, limb malformations (e.g., clubfoot, polydactyly), and other malformations of varying severity involving other body systems [see Warnings and Precautions (5.2)].
 
-Effect on IQ and neurodevelopmental effects
+Neurodevelopmental Disorders and Effect on IQ
 
 Published epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores than children exposed to either another AED in utero or to no AEDs in utero.
-The largest of these studies1 is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.
-94-101]) than children with prenatal exposure to the other anti-epileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% C.I.
-105–110]), carbamazepine (105 [95% C.I.
-102–108]) and phenytoin (108 [95% C.I.
-104–112]).
-It is not known when during pregnancy cognitive effects in valproate-exposed children occur.
-Because the women in this study were exposed to AEDs throughout pregnancy, whether the risk for decreased IQ was related to a particular time period during pregnancy could not be assessed [see Warnings and Precautions (5.3)].
+The largest of these studies1 is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% CI 94-101]) than children with prenatal exposure to the other anti-epileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% CI 105–110]), carbamazepine (105 [95% CI 102–108]) and phenytoin (108 [95% CI 104–112]).
+Because the women in this study were exposed to AEDs throughout pregnancy, whether the risk for decreased IQ was related to a particular time period of drug exposure during pregnancy could not be assessed [see Warnings and Precautions (5.3)].
 
-Although the available studies have methodological limitations, the weight of the evidence supports a causal association between valproate exposure in utero and subsequent adverse effects on neurodevelopment, including increases in autism spectrum disorders and attention deficit/hyperactivity disorder (ADHD).
-An observational study has suggested that exposure to valproate products during pregnancy increases the risk of autism spectrum disorders.
-In this study, children born to mothers who had used valproate products during pregnancy had 2.9 times the risk (95% confidence interval [CI]: 1.7-4.9) of developing autism spectrum disorders compared to children born to mothers not exposed to valproate products during pregnancy.
-The absolute risks for autism spectrum disorders were 4.4% (95% CI: 2.6%-7.5%) in valproate-exposed children and 1.5% (95% CI: 1.5%-1.6%) in children not exposed to valproate products.
-Another observational study found that children who were exposed to valproate in utero had an increased risk of ADHD (adjusted HR 1.48; 95% CI, 1.09-2.00) compared with the unexposed children.
-Because these studies were observational in nature, conclusions regarding a causal association between in utero valproate exposure and an increased risk of autism spectrum disorder and ADHD cannot be considered definitive.
+Multiple large, epidemiological studies suggest that exposure to valproate monotherapy in utero may be associated with an increased risk of:
+
+- ASD (adjusted risk estimates across studies range from 1.6 [95% CI 0.98, 2.5] to 6.4 [95% CI 3.5, 11.5])
+- ID (adjusted risk estimates across studies range from 1.6 [95% CI 0.9, 2.9] to 9.6 [95% CI 3.5, 26.2]
+- ADHD (adjusted risk estimates across studies range from 0.7 [95% CI 0.4, 1.1] to 2.2 [95% CI 1.3, 3.5])
+
+Estimates differ based on study population, study comparator, and outcome definitions.
+Limitations of the studies include, but are not limited to, confounding by indication, residual confounding, limited follow-up time for children who were exposed to valproate in utero, and reliance on number of prescriptions filled, which may not always reflect actual usage and exposure.
 
 Other
 
 There are published case reports of fatal hepatic failure in offspring of women who used valproate during pregnancy.
 
-Animal
+Animal Data
 
 In developmental toxicity studies conducted in mice, rats, rabbits, and monkeys, increased rates of fetal structural abnormalities, intrauterine growth retardation, and embryo-fetal death occurred following administration of valproate to pregnant animals during organogenesis at clinically relevant doses (calculated on a body surface area [mg/m2] basis).
 Valproate induced malformations of multiple organ systems, including skeletal, cardiac, and urogenital defects.
@@ -109,7 +104,7 @@ Risk Summary
 Valproate is excreted in human milk.
 Data in the published literature describe the presence of valproate in human milk (range: 0.4 mcg/mL to 3.9 mcg/mL), corresponding to 1% to 10% of maternal serum levels.
 Valproate serum concentrations collected from breastfed infants aged 3 days postnatal to 12 weeks following delivery ranged from 0.7 mcg/mL to 4 mcg/mL, which were 1% to 6% of maternal serum valproate levels.
-A published study in children up to six years of age did not report adverse developmental or cognitive effects following exposure to valproate via breast milk [see Data (Human)].
+A published study in children up to six years of age did not report adverse developmental or cognitive effects following exposure to valproate via breast milk [see Data].
 
 There are no data to assess the effects of Depakote on milk production or excretion.
 
@@ -121,8 +116,6 @@ Monitor the breastfed infant for signs of liver damage including jaundice and un
 There have been reports of hepatic failure and clotting abnormalities in offspring of women who used valproate during pregnancy [see Use in Specific Populations (8.1)].
 
 Data
-
-Human
 
 In a published study, breast milk and maternal blood samples were obtained from 11 epilepsy patients taking valproate at doses ranging from 300 mg/day to 2,400 mg/day on postnatal days 3 to 6.
 In 4 patients who were taking valproate only, breast milk contained an average valproate concentration of 1.8 mcg/mL (range: 1.1 mcg/mL to 2.2 mcg/mL), which corresponded to 4.8% of the maternal plasma concentration (range: 2.7% to 7.4%).

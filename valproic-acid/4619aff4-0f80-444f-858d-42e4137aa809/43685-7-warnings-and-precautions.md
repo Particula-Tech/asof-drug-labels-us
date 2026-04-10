@@ -44,21 +44,20 @@ Pregnancy registry data show that maternal valproate use can cause neural tube d
 The rate of congenital malformations among babies born to mothers using valproate is about four times higher than the rate among babies born to epileptic mothers using other anti-seizure monotherapies.
 Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population [see Use in Specific Populations (8.1)].
 
-## 5.3 Decreased IQ Following in utero Exposure
+In animal studies, offspring with prenatal exposure to valproate had malformations similar to those seen in humans [see Use in Specific Populations (8.1)].
+
+## 5.3 Decreased IQ and Neurodevelopmental Disorders Following in utero Exposure
 
 Valproate can cause decreased IQ scores following in utero exposure.
 Published epidemiological studies have indicated that children exposed to valproate in utero have lower cognitive test scores than children exposed in utero to either another antiepileptic drug or to no antiepileptic drugs.
-The largest of these studies1 is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.
-94-101]) than children with prenatal exposure to the other antiepileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% C.I.
-105–110]), carbamazepine (105 [95% C.I.
-102–108]), and phenytoin (108 [95% C.I.
-104–112]).
-It is not known when during pregnancy cognitive effects in valproate-exposed children occur.
+The largest of these studies1 is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% CI 94-101]) than children with prenatal exposure to the other antiepileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% CI 105–110]), carbamazepine (105 [95% CI 102–108]), and phenytoin (108 [95% CI 104–112]).
 Because the women in this study were exposed to antiepileptic drugs throughout pregnancy, whether the risk for decreased IQ was related to a particular time period during pregnancy could not be assessed.
 
 Although all of the available studies have methodological limitations, the weight of the evidence supports the conclusion that valproate exposure in utero can cause decreased IQ in children.
 
-In animal studies, offspring with prenatal exposure to valproate had malformations similar to those seen in humans and demonstrated neurobehavioral deficits [see Use in Specific Populations (8.1)].
+Epidemiological studies have also suggested that exposure to valproate monotherapy in utero may be associated with an increased risk of autism spectrum disorder (ASD), intellectual disability (ID, defined as an IQ < 70), and attention deficit/hyperactivity disorder (ADHD) [see Use in Specific Populations (8.1)].
+
+In animal studies, offspring with prenatal exposure to valproate demonstrated neurobehavioral deficits [see Use in Specific Populations (8.1)].
 
 ## 5.4 Use in Women of Childbearing Potential
 
@@ -73,7 +72,7 @@ To prevent major seizures, valproate should not be discontinued abruptly, as thi
 
 Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
 It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
-Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate.
+Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for women of childbearing potential using valproate.
 
 ## 5.5 Pancreatitis
 

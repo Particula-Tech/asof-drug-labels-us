@@ -10,13 +10,12 @@ Pancreatitis
 
 Warn patients and guardians that abdominal pain, nausea, vomiting, and/or anorexia can be symptoms of pancreatitis and, therefore, require further medical evaluation promptly [see Warnings and Precautions (5.5)].
 
-Birth Defects and Decreased IQ
+Birth Defects, Decreased IQ, and Neurodevelopmental Disorders
 
-Inform pregnant women and women of childbearing potential (including girls beginning the onset of puberty) that use of valproate during pregnancy increases the risk of birth defects, decreased IQ, and neurodevelopmental disorders in children who were exposed in utero.
+Inform pregnant women and women of childbearing potential (including girls beginning the onset of puberty) that use of valproate during pregnancy increases the risk of birth defects, decreased IQ, and neurodevelopmental disorders in children who were exposed in utero [see Warnings and Precautions (5.2, 5.3, 5.4) and Use in Specific Populations (8.1)].
 Advise women to use effective contraception while taking valproate.
 When appropriate, counsel these patients about alternative therapeutic options.
 This is particularly important when valproate use is considered for a condition not usually associated with permanent injury or death such as prophylaxis of migraine headache [see Contraindications (4)].
-Advise patients to read the Medication Guide, which appears as the last section of the labeling [see Warnings and Precautions (5.2, 5.3, 5.4) and Use in Specific Populations (8.1)].
 
 Pregnancy Registry
 
@@ -60,6 +59,6 @@ AbbVie Inc.
 
 North Chicago, IL 60064, U.S.A.
 
-©1989-2025 AbbVie Inc.
+©1989-2026 AbbVie Inc.
 
-20091023 R2
+20100298
