@@ -25,7 +25,7 @@ Table 10 shows the number of patients experiencing various types of major bleedi
 
 Table 10: Major Bleeding Events in COMPASS -On Treatment Plus 2 Days*
 
-| Parameter | Rivaroxaban Tablets† N=9134 n (%/year) | Placebo† N=9107 n (%/year) | Rivaroxaban Tablets plus Placebo HR (95 % CI) |
+| Parameter | Rivaroxaban Tablets † N=9134 n (%/year) | Placebo† N=9107 n (%/year) | Rivaroxaban Tablets vs. Placebo HR (95 % CI) |
 | --- | --- | --- | --- |
 | Modified ISTH Major Bleeding‡ | 263 (1.6) | 144 (0.9) | 1.8 (1.5, 2.3) |
 | - Fatal bleeding event Intracranial hemorrhage (ICH) Non-intracranial | 12 (<0.1) 6 (<0.1) 6 (<0.1) | 8 (<0.1) 3 (<0.1) 5 (<0.1) | 1.5 (0.6, 3.7) 2.(0.5, 8) 1.2 (0.4, 4) |
@@ -33,10 +33,10 @@ Table 10: Major Bleeding Events in COMPASS -On Treatment Plus 2 Days*
 | - Bleeding into the surgical site requiring reoperation (non-fatal, not in critical organ) | 7 (<0.1) | 6 (<0.1) | 1.2 (0.4, 3.5) |
 | - Bleeding leading to hospitalization (non-fatal, not in critical organ, not requiring reoperation) | 188 (1.1) | 91 (0.5) | 2.1 (1.6, 2.7) |
 | Major GI bleeding | 117 (0.7) | 49 (0.3) | 2.4 (1.7, 3.4) |
-| *Major bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories. These events occurred during treatment or within 2 days of stopping treatment in the safety analysis set in COMPASS patients. |  |  |  |
-| †Treatment schedule: rivaroxaban tablets 2.5 mg twice daily or placebo. All patients received background therapy with aspirin 100 mg once daily |  |  |  |
-| ‡Defined as i) fatal bleeding, or ii) symptomatic bleeding in a critical area or organ, such as intraarticular, intramuscular with compartment syndrome, intraspinal, intracranial, intraocular, respiratory, pericardial, liver, pancreas, retroperitoneal, adrenal gland or kidney; or iii) bleeding into the surgical site requiring reoperation, or iv) bleeding leading to hospitalization. |  |  |  |
-| CI:confidence interval; HR: hazard ratio; ISTH: International Society on Thrombosis and Hemostasis |  |  |  |
+| * Major bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories. These events occurred during treatment or within 2 days of stopping treatment in the safety analysis set in COMPASS patients. |  |  |  |
+| † Treatment schedule: rivaroxaban tablets 2.5 mg twice daily or placebo. All patients received background therapy with aspirin 100 mg once daily. |  |  |  |
+| ‡ Defined as i) fatal bleeding, or ii) symptomatic bleeding in a critical area or organ, such as intraarticular, intramuscular with compartment syndrome, intraspinal, intracranial, intraocular, respiratory, pericardial, liver, pancreas, retroperitoneal, adrenal gland or kidney; or iii) bleeding into the surgical site requiring reoperation, or iv) bleeding leading to hospitalization. |  |  |  |
+| CI: confidence interval; HR: hazard ratio; ISTH: International Society on Thrombosis and Hemostasis |  |  |  |
 
 Reduction of Risk of Major Thrombotic Vascular Events in Patients with Peripheral Artery Disease (PAD), Including Patients after Lower Extremity Revascularization due to Symptomatic PAD:
 
