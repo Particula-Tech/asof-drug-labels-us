@@ -145,7 +145,7 @@ Based upon the determination by an independent Response Evaluation Committee, th
 Patients randomized to trastuzumab and chemotherapy also had a longer median overall survival (OS) (see Table 11).
 These treatment effects were observed both in patients who received trastuzumab plus paclitaxel and in those who received trastuzumab plus AC; however, the magnitude of the effects was greater in the paclitaxel subgroup.
 
-Table 10: H0648g: Efficacy Results in First-Line Treatment for Metastatic Breast Cancer
+Table 11: H0648g: Efficacy Results in First-Line Treatment for Metastatic Breast Cancer
 
 |  | Combined Results |  | Paclitaxel Subgroup |  | ACAC = Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. Subgroup |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -168,7 +168,7 @@ Table 10: H0648g: Efficacy Results in First-Line Treatment for Metastatic Breast
 
 Data from H0648g suggest that the beneficial treatment effects were largely limited to patients with the highest level of HER2 protein overexpression (3+) (see Table 12).
 
-Table 11: Treatment Effects in H0648g as a Function of HER2 Overexpression or Amplification
+Table 12: Treatment Effects in H0648g as a Function of HER2 Overexpression or Amplification
 
 | HER2 Assay Result | Number of Patients (N) | Relative RiskThe relative risk represents the risk of progression or death in the trastuzumab plus chemotherapy arm versus the chemotherapy arm. for Time to Disease Progression (95% CI) | Relative Risk for Mortality (95% CI) |
 | --- | --- | --- | --- |
@@ -213,7 +213,7 @@ The final OS analysis based on 351 deaths was statistically significant (nominal
 An updated OS analysis was conducted at one year after the final analysis.
 The efficacy results of both the final and the updated analyses are summarized in Table 13 and Figure 7.
 
-Table 12: Overall Survival in ToGA (ITT Population)
+Table 13: Overall Survival in ToGA (ITT Population)
 
 |  | FCFC = capecitabine vs. 5-fluorouracil. + Trastuzumab Arm N = 298 | FC Arm N = 296 |
 | --- | --- | --- |
@@ -237,7 +237,7 @@ Table 12: Overall Survival in ToGA (ITT Population)
 
 An exploratory analysis of OS in patients based on HER2 gene amplification (FISH) and protein overexpression (IHC) testing is summarized in Table 14.
 
-Table 13: Exploratory Analyses by HER2 Status Using Updated Overall Survival Results
+Table 14: Exploratory Analyses by HER2 Status Using Updated Overall Survival Results
 
 |  | FC (N = 296)Two patients on the FC arm who were FISH+ but IHC status unknown were excluded from the exploratory subgroup analyses. | FC + H (N = 298)Five patients on the trastuzumab-containing arm who were FISH+, but IHC status unknown were excluded from the exploratory subgroup analyses. |
 | --- | --- | --- |
