@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Methenamine Hippurate Tablets USP, 1 g are white to off-white colored capsule shaped tablets debossed with “E” and “71” on one side and scoreline (functional) on other side.
+Methenamine Hippurate TabletsUSP, 1 g are white to off-white colored capsule shaped tablets debossed with “E” and “71” on one side and scoreline (functional) on other side.
 
 Bottles of 100 NDC 65862-782-01
 
