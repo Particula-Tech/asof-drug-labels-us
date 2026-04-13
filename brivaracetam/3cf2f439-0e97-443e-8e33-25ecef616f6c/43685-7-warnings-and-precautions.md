@@ -65,7 +65,14 @@ Bronchospasm and angioedema have been reported in patients taking BRIVIACT.
 If a patient develops hypersensitivity reactions after treatment with BRIVIACT, the drug should be discontinued.
 BRIVIACT is contraindicated in patients with a prior hypersensitivity reaction to brivaracetam or any of the inactive ingredients [see Contraindications (4)].
 
-## 5.5 Withdrawal of Antiepileptic Drugs
+## 5.5 Serious Dermatologic Reactions
+
+Serious dermatologic reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in patients treated with BRIVIACT.
+Time to onset of the serious dermatologic reaction ranged from 3 to 45 days after BRIVIACT initiation in reported cases.
+BRIVIACT should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
+If signs or symptoms suggest a serious dermatologic reaction, use of BRIVIACT should not be resumed and alternative therapy should be considered.
+
+## 5.6 Withdrawal of Antiepileptic Drugs
 
 As with most antiepileptic drugs, BRIVIACT should generally be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [see Dosage and Administration (2.4)and Clinical Studies (14)].
 But if withdrawal is needed because of a serious adverse event, rapid discontinuation can be considered.
