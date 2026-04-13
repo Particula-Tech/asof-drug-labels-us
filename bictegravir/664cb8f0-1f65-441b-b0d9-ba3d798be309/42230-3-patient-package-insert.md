@@ -29,6 +29,6 @@
 | The tablets are film-coated with a coating material containing iron oxide black, iron oxide red, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide. |  |
 | Manufactured and distributed by: Gilead Sciences, Inc. Foster City, CA 94404 |  |
 | BIKTARVY is a trademark of Gilead Sciences, Inc., or its related companies. All other trademarks referenced herein are the property of their respective owners. |  |
-| © 2025 Gilead Sciences, Inc. All rights reserved. 210251-GS-015 |  |
+| © 2026 Gilead Sciences, Inc. All rights reserved. 210251-GS-016 D-26Sept2025 |  |
 | For more information, call 1-800-445-3235 or go to www.BIKTARVY.com. |  |
 | This Patient Information has been approved by the U.S. Food and Drug Administration. | Revised:07/2025 |

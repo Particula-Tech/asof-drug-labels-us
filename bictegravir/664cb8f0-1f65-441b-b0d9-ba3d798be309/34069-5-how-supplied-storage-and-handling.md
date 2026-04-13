@@ -18,12 +18,14 @@ Store bottle below 30 °C (86 °F).
 
 Keep bottle tightly closed.
 
-Blister Pack
+Blister Packs
 
-- 50 mg/200 mg/25 mg tablets each contain 50 mg of BIC, 200 mg of FTC, and 25 mg of TAF.
-  These tablets are purplish brown, capsule-shaped, and film-coated with “GSI” debossed on one side and “9883” on the other side (NDC 61958-2501-3).
+50 mg/200 mg/25 mg tablets each contain 50 mg of BIC, 200 mg of FTC, and 25 mg of TAF.
+These tablets are purplish brown, capsule-shaped, and film-coated with “GSI” debossed on one side and “9883” on the other side.
 
-Each blister pack contains 30 tablets (4 strips each containing 7 tablets and 1 strip containing 2 tablets).
+- Blister pack containing 30 tablets (4 strips each containing 7 tablets and 1 strip containing 2 tablets) (NDC 61958-2501-3).
+- Blister pack containing 30 tablets (3 strips each containing 10 tablets) (NDC 61958-2501-5).
+
 Blister packs are sealed with a child-resistant laminated foil lidding material (peel-push), and each blister cavity contains a die-cut desiccant film which is heat staked to the foil lidding material.
 
 Store blister pack at 25 °C (77 °F), excursions permitted to 15–30 °C (59–86 °F) (see USP Controlled Room Temperature).
