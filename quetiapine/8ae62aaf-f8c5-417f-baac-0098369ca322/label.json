@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA020639"
+  ],
+  "inn": "quetiapine",
+  "labeler": "H2-Pharma, LLC",
+  "package_ndcs": [
+    "61269-250-10",
+    "61269-251-10",
+    "61269-252-10",
+    "61269-253-10",
+    "61269-254-60",
+    "61269-255-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "quetiapine",
+      "name": "SEROQUEL"
+    }
+  ],
+  "setid": "8ae62aaf-f8c5-417f-baac-0098369ca322",
+  "source": "dailymed"
+}
