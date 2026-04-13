@@ -4,7 +4,7 @@ The following serious adverse reactions are described below and elsewhere in the
 
 - Hepatic Failure [see Warnings and Precautions (5.1)]
 - Birth Defects [see Warnings and Precautions (5.2)]
-- Decreased IQ following in utero exposure [see Warnings and Precautions (5.3)]
+- Decreased IQ and Neurodevelopmental Disorders following in utero exposure [see Warnings and Precautions (5.3)]
 - Pancreatitis [see Warnings and Precautions (5.5)]
 - Hyperammonemic Encephalopathy [see Warnings and Precautions (5.6, 5.9, 5.10)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.7)]
