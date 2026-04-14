@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050786"
+  ],
+  "inn": "tetracycline",
+  "labeler": "H2-Pharma, LLC",
+  "package_ndcs": [
+    "61269-386-12"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "bismuth subcitrate potassium, metronidazole and tetracycline hydrochloride",
+      "name": "Bismuth Subcitrate Potassium, Metronidazole and Tetracycline Hydrochloride"
+    }
+  ],
+  "setid": "c29bfde9-5eb4-422a-bd30-4bce45e73dc0",
+  "source": "dailymed"
+}
