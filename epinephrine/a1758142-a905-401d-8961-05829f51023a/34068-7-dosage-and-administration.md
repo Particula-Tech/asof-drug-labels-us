@@ -2,7 +2,7 @@
 
 ## 2.1 Recommended Dosage
 
-The recommended dosage for patients aged 4 years and older who weigh 15 kg or greater is based on weight and the dosage is provided in Table 1.
+The recommended dosage for patients who weigh 15 kg or greater is based on weight and the dosage is provided in Table 1.
 For nasal administration [see Dosage and Administration (2.2)].
 
 Table 1: Recommended Dosage of Neffy Based on Patient's Weight
@@ -25,7 +25,8 @@ In the absence of clinical improvement or if symptoms worsen after the initial t
 - Administer neffy by inserting the nozzle of the nasal spray fully into one nostril until fingers touch the nose (see Figure 1).
 - Hold the nasal spray straight into the nose - do not angle the nasal spray to the inside septum or outer wall of the nose as some medication may be lost.
 - Press the plunger firmly to activate.
-- Avoid sniffing during and after administration.
+- Refrain from sniffing during and after administration due to potential decrease in the absorption of neffy.
+  Monitor clinically to assess if a second dose is needed.
 - If a second dose of neffy is needed, administer a new nasal spray into the same nostril starting 5 minutes after the first dose (see Figure 1).
 - More than two sequential doses of epinephrine should be administered under direct medical supervision.
 - Refer patients and caregivers to the Instructions for Use for detailed administration instructions.

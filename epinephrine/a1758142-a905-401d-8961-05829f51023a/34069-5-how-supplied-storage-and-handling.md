@@ -13,11 +13,13 @@ Table 4: Neffy Strengths and Package Configurations
 
 Storage and Handling
 
-Store neffy nasal spray in the blister pack until ready to use.
+Store neffy nasal spray in the blister pack or neffy carry case until ready to use.
+Neffy carry case is included in the carton.
 
 Store at 68°F to 77°F (20°C to 25°C).
 Excursions permitted up to 122°F (50°C).
 
 Do not freeze.
 Neffy freezes below 5°F (-15°C).
-If neffy freezes, it will not deliver epinephrine.
+If neffy is frozen, it will not deliver epinephrine.
+Neffy may be used if it has been thawed after being previously frozen.

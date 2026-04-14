@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Administration Instructions
 
-- Advise patients and/or caregivers to store neffy nasal spray in the blister pack until ready to use.
+- Advise patients and/or caregivers to store neffy nasal spray in the blister pack or neffy carry case until ready to use.
 - Neffy nasal spray is for single use and delivers the entire dose upon activation.
 - Advise patients when to seek emergency medical assistance for close monitoring of the anaphylactic episode and in the event further treatment is required.
 - Instruct patients and/or caregivers in the appropriate use of neffy.

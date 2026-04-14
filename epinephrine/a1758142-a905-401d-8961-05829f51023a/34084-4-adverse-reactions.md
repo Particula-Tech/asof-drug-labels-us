@@ -34,11 +34,11 @@ Table 2: Adverse Reactions with One or Two Dose(s) of Neffy with Incidence Great
 | Hypoesthesia oral | 0 | (0%) | 3 | (4%) |
 | Nasal Congestion | 0 | (0%) | 2 | (2%) |
 
-Adverse Reactions with Neffy in Pediatric Subjects 4 Years of Age and Older Weighing 15 kg or Greater
+Adverse Reactions with Neffy in Pediatric Subjects Aged 4 Years and Older Who Weigh 15 kg or Greater
 
 A single-arm clinical pharmacology study (Study 5) in pediatric subjects 4 to 17 years of age who weigh 15 kg or greater with type I allergy without anaphylaxis was conducted to assess the pharmacokinetic/pharmacodynamic (PK/PD) of neffy 1 mg and 2 mg [see Clinical Pharmacology (12.2, 12.3)].
-Pediatric subjects (n=21) who weigh 30 kg or greater received one nasal dose of neffy 2 mg and common adverse reactions reported in these subjects include nasal discomfort (19%), intranasal paresthesia (19%), rhinorrhea (19%), sneezing (14%), epistaxis (10%), rhinalgia (10%), paresthesia (10%), fatigue (10%), and feeling jittery (10%).
-Pediatric subjects (n=21) who weigh 15 to less than 30 kg received one nasal dose of neffy 1 mg and common adverse reactions reported in these subjects include nasal congestion (19%), upper respiratory tract congestion (14%), dry throat (10%), nasal dryness (10%), and paresthesia (10%).
+Pediatric subjects (n=21) who weigh 30 kg or greater received one nasal dose of neffy 2 mg and common adverse reactions reported in these subjects included nasal discomfort (19%), intranasal paresthesia (19%), rhinorrhea (19%), sneezing (14%), epistaxis (10%), rhinalgia (10%), paresthesia (10%), fatigue (10%), and feeling jittery (10%).
+Pediatric subjects (n=21) who weigh 15 to less than 30 kg received one nasal dose of neffy 1 mg and common adverse reactions reported in these subjects included nasal congestion (19%), upper respiratory tract congestion (14%), dry throat (10%), nasal dryness (10%), and paresthesia (10%).
 
 Adverse Reactions from Postapproval Use of Epinephrine Products
 
