@@ -46,10 +46,12 @@ There have been post-marketing reports of the rapid appearance of multiple cutan
 Monitor all patients receiving STEQEYMA for the appearance of non-melanoma skin cancer.
 Closely follow patients greater than 60 years of age, those with a medical history of prolonged immunosuppressant therapy and those with a history of PUVA treatment [see Adverse Reactions (6.1)].
 
-## 5.5. Hypersensitivity Reactions
+## 5.5. Serious Hypersensitivity Reactions
 
-Hypersensitivity reactions, including anaphylaxis and angioedema, have been reported with ustekinumab products [see Adverse Reactions (6.1, 6.3)].
-If an anaphylactic or other clinically significant hypersensitivity reaction occurs, institute appropriate therapy and discontinue STEQEYMA.
+Serious hypersensitivity reactions, including anaphylaxis and angioedema, have been reported with ustekinumab products in clinical trials and postmarketing.
+Some serious hypersensitivity reactions have occurred during the first intravenous dose of ustekinumab products [see Adverse Reactions (6.1, 6.3)].
+
+If a severe or clinically significant hypersensitivity reaction occurs, discontinue STEQEYMA immediately and initiate appropriate medical treatment [see Contraindications (4)].
 
 ## 5.6. Posterior Reversible Encephalopathy Syndrome (PRES)
 

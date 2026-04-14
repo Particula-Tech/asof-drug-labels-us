@@ -57,3 +57,19 @@ ATTENTION: Dispense the enclosed Medication Guide to each patient.
 1 vial
 
 CELLTRION USA CELLTRION
+
+# PRINCIPAL DISPLAY PANEL - 45 mg/0.5 mL Vial Carton
+
+NDC 72606-060-01 Rx only
+
+SteQeyma® (ustekinumab-stba)
+
+Injection 45 mg/0.5 mL
+
+For subcutaneous use Single-Dose Vial Discard Unused Portion
+
+ATTENTION: Dispense the enclosed Medication Guide to each patient.
+
+1 vial
+
+CELLTRION USA CELLTRION

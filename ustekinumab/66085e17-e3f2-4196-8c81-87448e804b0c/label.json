@@ -3,11 +3,12 @@
     "BLA761338"
   ],
   "inn": "ustekinumab",
-  "labeler": "CELLTRION USA Inc.",
+  "labeler": "CELLTRION USA, Inc.",
   "package_ndcs": [
     "72606-027-01",
     "72606-028-01",
-    "72606-029-01"
+    "72606-029-01",
+    "72606-060-01"
   ],
   "products": [
     {
