@@ -25,7 +25,7 @@ In patients with coronary artery disease, CARDENE I.V., administered after beta-
 
 In congestive heart failure patients with impaired left ventricular function, CARDENE I.V. increased cardiac output both at rest and during exercise.
 Decreases in left ventricular end-diastolic pressure were also observed.
-However, in some patients with severe left ventricular dysfunction, it may have a negative inotropic effect and could lead to worsened failure.
+However, in some patients with severe left ventricular dysfunction, it may have a negative inotropic effect and could lead to worsened failure [see Warnings and Precautions (5.2)].
 
 “Coronary steal” has not been observed during treatment with CARDENE I.V.
 (Coronary steal is the detrimental redistribution of coronary blood flow in patients with coronary artery disease from underperfused areas toward better perfused areas.)
