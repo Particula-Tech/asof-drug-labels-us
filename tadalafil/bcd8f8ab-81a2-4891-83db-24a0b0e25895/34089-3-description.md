@@ -8,4 +8,4 @@ The chemical designation is pyrazino[1´,2´:1,6]pyrido[3,4-b]indole-1,4-dione, 
 It is a crystalline solid that is practically insoluble in water and very slightly soluble in ethanol.
 
 CIALIS is available as almond-shaped tablets for oral administration.
-Each tablet contains 2.5, 5, 10, or 20 mg of tadalafil and the following inactive ingredients: croscarmellose sodium, hydroxypropyl cellulose, hypromellose, iron oxide, lactose monohydrate, magnesium stearate, microcrystalline cellulose, sodium lauryl sulfate, talc, titanium dioxide, and triacetin.
+Each tablet contains 5, 10, or 20 mg of tadalafil and the following inactive ingredients: croscarmellose sodium, hydroxypropyl cellulose, hypromellose, iron oxide, lactose monohydrate, magnesium stearate, microcrystalline cellulose, sodium lauryl sulfate, talc, titanium dioxide, and triacetin.

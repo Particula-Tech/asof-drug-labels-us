@@ -1,27 +1,3 @@
-PACKAGE LABEL – Cialis 2.5 mg tablets, 30 count, blister pack
-
-30 tablets (2 cards of 15 tablets)
-
-Each tablet contains 2.5 mg of tadalafil.
-
-NDC 0002-4465-34
-
-TA 4465
-
-Cialis®
-
-(tadalafil) tablets
-
-2.5 mg
-
-for once daily use
-
-Rx only
-
-www.cialis.com
-
-Lilly
-
 PACKAGE LABEL – Cialis 5mg tablets, 30 count, bottle
 
 NDC 0002-4462-30
