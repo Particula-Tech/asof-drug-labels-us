@@ -7,15 +7,13 @@
 Bottle of 30: NDC# 0456-1207-30
 
 14 mg memantine hydrochloride and 10 mg donepezil hydrochloride: light green opaque capsules with a black “FL 14/10” radial imprint.
-Bottle of 30: NDC# 0456-1214-30 Bottle of 90: NDC# 0456-1214-90 Unit Dose carton (10x10): NDC# 0456-1214-63 Unit Dose blister (10): NDC# 0456-1214-11
+Bottle of 30: NDC# 0456-1214-30
 
 21 mg memantine hydrochloride and 10 mg donepezil hydrochloride: white opaque body and an orange opaque cap with a black “FL 21/10” radial imprint.
 Bottle of 30: NDC# 0456-1221-30
 
 28 mg memantine hydrochloride and 10 mg donepezil hydrochloride: blue opaque capsules with a black “FL 28/10” radial imprint.
-Bottle of 30: NDC# 0456-1228-30 Bottle of 90: NDC# 0456-1228-90 Unit Dose carton (10x10): NDC# 0456-1228-63 Unit Dose blister (10): NDC# 0456-1228-11
-
-Titration Pack NDC# 0456-1229-29 Contains 28 capsules (7 x 7mg/10 mg, 7 x 14 mg/10 mg, 7 x 21 mg/10 mg, 7 x 28 mg/10 mg)
+Bottle of 30: NDC# 0456-1228-30
 
 ## 16.2 Storage and Handling
 

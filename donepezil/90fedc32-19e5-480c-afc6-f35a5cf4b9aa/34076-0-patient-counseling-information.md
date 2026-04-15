@@ -22,4 +22,7 @@ Licensed from Merz Pharma GmbH & Co. KGaA and Adamas Pharmaceuticals, Inc.
 
 NAMZARIC is a trademark of Merz Pharma GmbH & Co. KGaA.
 
-© 2024 AbbVie Inc. All rights reserved.
+© 2026 AbbVie.
+All rights reserved.
+
+20098490-R1
