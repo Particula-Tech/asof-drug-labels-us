@@ -209,7 +209,7 @@ Table 13 ACR Responses in RA Study 1 and RA Study 2 (Percent of Patients) (Modif
 | Inadequate Response to TNF Antagonists |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | RA Study 1 24 Week Placebo-Controlled (Week 24) |  |  |  |  | RA Study 2 Placebo-Controlled Retreatment (Week 24 and Week 48) |  |  |  |
-| Response | Placebo + MTX n=201 | Rituximab + MTX n=298 | Treatment Difference (Rituximab – Placebo) (95% CI) |  | Response | Placebo + MTX Retreatment n=157 | Rituximab+MTX Retreatment n=318 | Treatment Difference (Rituximab – Placebo)In RA Study 2, all patients received a first course of rituximab 2 × 1,000 mg. Patients who experienced ongoing disease activity were randomized to receive a second course of either rituximab 2 × 1,000 mg + MTX or Placebo + MTX at or after Week 24.,Since all patients received a first course of rituximab, no comparison between Placebo + MTX and rituximab + MTX is made at Week 24.,For RA Study 1, weighted difference stratified by region (US, rest of the world) and Rheumatoid Factor (RF) status (positive greater than 20 IU/mL, negative less than 20 IU/mL) at baseline; For RA Study 2, weighted difference stratified by RF status at baseline and greater than or equal to 20% improvement from baseline in both SJC and TJC at Week 24 (Yes/No). (95% CI) |
+| Response | Placebo + MTX n=201 | Rituximab + MTX n=298 | Treatment Difference (Rituximab – Placebo)For RA Study 1, weighted difference stratified by region (US, rest of the world) and Rheumatoid Factor (RF) status (positive greater than 20 IU/mL, negative less than 20 IU/mL) at baseline; For RA Study 2, weighted difference stratified by RF status at baseline and greater than or equal to 20% improvement from baseline in both SJC and TJC at Week 24 (Yes/No). (95% CI) |  | Response | Placebo + MTX Retreatment n=157 | Rituximab+MTX Retreatment n=318 | Treatment Difference (Rituximab – Placebo)In RA Study 2, all patients received a first course of rituximab 2 × 1,000 mg. Patients who experienced ongoing disease activity were randomized to receive a second course of either rituximab 2 × 1,000 mg + MTX or Placebo + MTX at or after Week 24.,Since all patients received a first course of rituximab, no comparison between Placebo + MTX and rituximab + MTX is made at Week 24., (95% CI) |
 | ACR20 |  |  |  |  | ACR20 |  |  |  |
 | Week 24 | 18% | 51% | 33% (26%, 41%) |  | Week 24 | 48% | 45% | NA |
 |  |  |  |  |  | Week 48 | 45% | 54% | 11% (2%, 20%) |
@@ -243,6 +243,8 @@ Similar patterns were demonstrated for ACR 50 and 70 responses.
 
 | Figure 2 Percent of Patients Achieving ACR 20 Response by VisitThe same patients may not have responded at each time point. RA Study 1 (Inadequate Response to TNF Antagonists) |
 | --- |
+
+The same patients may not have responded at each time point.
 
 Radiographic Response
 
