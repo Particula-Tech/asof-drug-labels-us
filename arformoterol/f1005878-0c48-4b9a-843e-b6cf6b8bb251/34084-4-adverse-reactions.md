@@ -24,7 +24,7 @@ Doses of 25 mcg twice daily and 50 mcg once daily were also evaluated.
 Table 1 shows adverse reaction rates among patients from these two trials where the frequency was greater than or equal to 2% in the arformoterol tartrate inhalation solution 15 mcg twice daily group and where the rate in the arformoterol tartrate inhalation solution 15 mcg twice daily group exceeded the rate in the placebo group.
 The total number and percent of patients who reported adverse events were 202 (70%) in the 15 mcg twice daily and 219 (75%) in the placebo groups.
 Ten adverse events demonstrated a dose relationship: asthenia, fever, bronchitis, COPD, headache, vomiting, hyperkalemia, leukocytosis, nervousness, and tremor.
-Table 1: Number of Patients Experiencing Adverse Events from Two 12-Week, Double-Blind, Placebo-Controlled Clinical Trials
+Table 1: Number of Patients Experiencing Adverse Events fromTwo 12-Week, Double-Blind, Placebo-Controlled Clinical Trials
 
 | Total Patients | Arformoterol Tartrate Inhalation Solution 15 mcg twice daily |  | Placebo |  |
 | --- | --- | --- | --- | --- |

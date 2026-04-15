@@ -49,7 +49,7 @@ All trademarks are the property of their respective owners.
 
 Manufactured by:
 
-Sun Pharmaceutical Medicare Limited
+Sun Pharmaceutical Industries Limited
 
 Baska Ujeti Road, Ujeti
 

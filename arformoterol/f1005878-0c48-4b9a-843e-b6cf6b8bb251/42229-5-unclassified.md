@@ -39,11 +39,10 @@ Clean the nebulizer (see manufacturer’s instructions).
 Rx Only
 
 This Instructions for Use has been approved by the Food and Drug Administration.
-Dispense with Patient Information available at: https://www.sunpharma.com/usa/products
 
 Manufactured by:
 
-Sun Pharmaceutical Medicare Limited
+Sun Pharmaceutical Industries Limited
 
 Baska Ujeti Road, Ujeti
 
@@ -55,5 +54,5 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-ISS.
-05/2022
+Rev.
+01/2026

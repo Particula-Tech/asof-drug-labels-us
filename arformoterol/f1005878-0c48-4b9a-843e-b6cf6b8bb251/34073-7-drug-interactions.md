@@ -4,7 +4,7 @@
 
 If additional adrenergic drugs are to be administered by any route, they should be used with caution because the sympathetic effects of arformoterol may be potentiated [see Warnings and Precautions (5.3, 5.5, 5.6, 5.7)].
 
-## 7.2 Xanthine Derivatives, Steroids, or Diuretics
+## 7.2 Xanthine Derivatives, Steroids or Diuretics
 
 Concomitant treatment with methylxanthine (aminophylline, theophylline), steroids, or diuretics may potentiate any hypokalemic effect of adrenergic agonists including arformoterol tartrate inhalation solution [see Warnings and Precautions (5.7)].
 

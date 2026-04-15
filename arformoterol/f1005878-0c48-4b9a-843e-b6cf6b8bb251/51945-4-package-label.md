@@ -9,4 +9,6 @@ SUN PHARMA
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - Carton Label
 
-NDC 62756-277-02 Arformoterol Tartrate Inhalation Solution 15 mcg*/2 mL *Potency expressed as arformoterol For Oral Inhalation Only KEEP REFRIGERATED OR STORE AT ROOM TEMPERATURE FOR UP TO 6 WEEKS Rx only 30 x 2 mL Sterile Unit-Dose Vials (6 pouches of five 2 mL vials each) SUN PHARMA
+NDC 62756-277-02 Arformoterol Tartrate Inhalation Solution 15 mcg*/2 mL *Potency expressed as arformoterol For Oral Inhalation Only KEEP REFRIGERATED OR STORE AT ROOM TEMPERATURE FOR UP TO 6 WEEKS Rx only 30 x 2 mL Sterile Unit-Dose Vials (6 pouches of five 2 mL vials each)
+
+SUN PHARMA
