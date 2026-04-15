@@ -17,6 +17,6 @@ Lifestar Pharma LLC
 
 Mahwah, NJ 07430 USA
 
-Made in India
+Product of India
 
-Revised: March 2025, V-04
+Revised: September 2025, V-05

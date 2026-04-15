@@ -12,7 +12,7 @@ The pooled analyses of placebo-controlled trials in children and adolescents wit
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
+The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
 Table 1
@@ -43,6 +43,20 @@ Families and caregivers of patients being treated with antidepressants for major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for amitriptyline hydrochloride tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
+## Serotonin Syndrome
+
+The development of a potentially life-threatening serotonin syndrome has been reported with tricyclic antidepressants, including amitriptyline hydrochloride, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, SSRI/SNRI, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
+
+The concomitant use of amitriptyline hydrochloride with MAOIs intended to treat psychiatric disorders is contraindicated. amitriptyline hydrochloride should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking amitriptyline hydrochloride.
+Amitriptyline hydrochloride should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
+If concomitant use of amitriptyline hydrochloride with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+Treatment with amitriptyline hydrochloride and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+
 ## Screening Patients for Bipolar Disorder
 
 A major depressive episode may be the initial presentation of bipolar disorder.
@@ -66,13 +80,15 @@ Amitriptyline hydrochloride may enhance the response to alcohol and the effects 
 In patients who may use alcohol excessively, it should be borne in mind that the potentiation may increase the danger inherent in any suicide attempt or overdosage.
 Delirium has been reported with concurrent administration of amitriptyline and disulfiram.
 
-Hyponatremia - Hyponatremia has occurred as a result of treatment with amitriptyline hydrochloride.
+Hyponatremia
+
+Hyponatremia has occurred as a result of treatment with amitriptyline hydrochloride tablets.
 In many cases, hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included syncope, seizure, coma, respiratory arrest, and death.
 
-In patients with symptomatic hyponatremia, discontinue amitriptyline hydrochloride and institute appropriate medical intervention.
-Elderly patients, patients taking diuretics, and those who are volume-depleted may be at greater risk of developing hyponatremia with amitriptyline hydrochloride.
+In patients with symptomatic hyponatremia, discontinue amitriptyline hydrochloride tablets and institute appropriate medical intervention.
+Elderly patients, patients taking diuretics, and those who are volume-depleted may be at greater risk of developing hyponatremia with amitriptyline hydrochloride tablets.
 
 ## Angle-Closure Glaucoma
 
@@ -90,8 +106,6 @@ Although a causal relationship has not been established, there have been a few r
 
 There are no adequate and well-controlled studies in pregnant women.
 Amitriptyline hydrochloride should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
-
-1Based on a maximum recommended amitriptyline dose of 150 mg/day or 3 mg/kg/day for a 50 kg patient.
 
 ## Nursing Mothers
 

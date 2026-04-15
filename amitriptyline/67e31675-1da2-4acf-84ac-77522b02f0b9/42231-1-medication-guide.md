@@ -1,7 +1,3 @@
-Dispense with Medication Guide available at:
-
-www.lifestarpharma.com/medguide/amitriptylinehcltablets.pdf
-
 MEDICATION GUIDE
 
 Amitriptyline Hydrochloride Tablets, USP
@@ -46,6 +42,13 @@ Call a healthcare provider right away if you or your family member has any of th
 - acting on dangerous impulses
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
+- Serotonin Syndrome.This condition can be life-threatening and symptoms may include:
+  - agitation, hallucinations, coma, or other changes in mental status
+  - racing heartbeat, high or low blood pressure
+  - coordination problems or muscle twitching (overactive reflexes)
+  - nausea, vomiting, or diarrhea
+  - sweating or fever
+  - muscle rigidity
 
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
@@ -69,7 +72,7 @@ What else do I need to know about antidepressant medicines?
   Keep a list of all medicines to show the healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.Talk to your child's healthcare provider for more information.
-- Tell your healthcare provider if have low sodium levels in your blood during treatment with amitriptyline hydrochloride.
+- Tell your healthcare provider if you have low sodium levels in your blood during treatment with amitriptyline hydrochloride tablets.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1- 800-FDA-1088
