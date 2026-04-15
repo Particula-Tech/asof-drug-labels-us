@@ -89,4 +89,4 @@ LYRICA is a registered trademark of Viatris Specialty LLC, a Viatris Company.
 
 The brands listed are trademarks of their respective owners.
 
-UPJ:LYRCCR:R2
+UPJ:LYRCCR:R3
