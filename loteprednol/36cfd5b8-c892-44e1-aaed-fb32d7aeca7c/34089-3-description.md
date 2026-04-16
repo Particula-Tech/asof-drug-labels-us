@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Loteprednol etabonate ophthalmic suspension contains a sterile, topical anti-inflammatory corticosteroid for ophthalmic use.
 Loteprednol etabonate is a white to off-white powder.
@@ -11,9 +11,9 @@ Mol.
 Wt.
 466.96
 
-Chemical Name: Chloromethyl 17α-[(ethoxycarbonyl)oxy]-11β-hydroxy-3-oxoandrosta-1,4-diene-17β-carboxylate
+Chemical name: Chloromethyl 17α-[(ethoxycarbonyl)oxy]-11β-hydroxy-3-oxoandrosta-1,4-diene-17β-carboxylate
 
-Each mL contains
+Each mL contains:
 
 ACTIVE: Loteprednol Etabonate 5 mg (0.5%);
 

@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Corticosteroids inhibit the inflammatory response to a variety of inciting agents and probably delay or slow healing.
 They inhibit the edema, fibrin deposition, capillary dilation, leukocyte migration, capillary proliferation, fibroblast proliferation, deposition of collagen, and scar formation associated with inflammation.
@@ -17,9 +17,9 @@ Based upon in vivo and in vitro preclinical metabolism studies, loteprednol etab
 Results from a bioavailability study in normal volunteers established that plasma levels of loteprednol etabonate and Δ1 cortienic acid etabonate (PJ 91), its primary, inactive metabolite, were below the limit of quantitation (1 ng/mL) at all sampling times.
 The results were obtained following the ocular administration of one drop in each eye of 0.5% loteprednol etabonate 8 times daily for 2 days or 4 times daily for 42 days.
 This study suggests that limited (<1 ng/mL) systemic absorption occurs with loteprednol etabonate ophthalmic suspension.
-CLINICAL STUDIES
+CLINICAL STUDIES:
 
-Post-Operative Inflammation: Placebo-controlled clinical studies demonstrated that loteprednol etabonate ophthalmic suspension is effective for the treatment of anterior chamber inflammation as measured by cell and flare.
+Post-operative Inflammation: Placebo-controlled clinical studies demonstrated that loteprednol etabonate ophthalmic suspension is effective for the treatment of anterior chamber inflammation as measured by cell and flare.
 
 Uveitis: Controlled clinical studies of patients with uveitis demonstrated that loteprednol etabonate ophthalmic suspension was less effective than prednisolone acetate 1%.
 Overall, 72% of patients treated with loteprednol etabonate ophthalmic suspension experienced resolution of anterior chamber cell by day 28, compared to 87% of patients treated with 1% prednisolone acetate.
