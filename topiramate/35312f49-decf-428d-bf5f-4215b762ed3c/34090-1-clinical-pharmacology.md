@@ -107,7 +107,7 @@ The effects of these interactions on mean plasma AUCs are summarized in Table 11
 In Table 11, the second column (AED concentration) describes what happens to the concentration of the co-administered AED listed in the first column when topiramate is added.
 The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate when compared to topiramate tablets given alone.
 
-Table 8: Summary of AED Interactions with Topiramate Tablets
+Table 11: Summary of AED Interactions with Topiramate Tablets
 
 | AED Co-administered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |
@@ -123,11 +123,11 @@ a Plasma concentration increased 25% in some patients, generally those on a twic
 
 b Is not administered but is an active metabolite of carbamazepine.
 
-NC = Less than 10% change in plasma concentration.
+NC = Less than 10% change in plasma concentration;
 
-AED = Antiepileptic drug.
+AED = Antiepileptic drug;
 
-NE = Not Evaluated.
+NE = Not Evaluated;
 
 TPM = Topiramate
 
@@ -140,7 +140,7 @@ The clinical significance of the changes observed is not known [see Drug Interac
 
 Digoxin
 
-In a single-dose study, serum digoxin AUC was decreased by 12% with concomitant topiramate tablets administration.
+In a single-dose study, serum digoxin AUC decreased by 12% with concomitant topiramate tablets administration.
 The clinical relevance of this observation has not been established.
 
 Hydrochlorothiazide

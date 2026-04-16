@@ -133,7 +133,7 @@ The incidence of these abnormal shifts was 6% for placebo, 10% for 5 mg/kg/day, 
 There was a mean dose-related increase in alkaline phosphatase.
 The significance of these findings is uncertain.
 
-Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.12)].
+Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.14)].
 
 Treatment with topiramate for up to 1 year was associated with reductions in Z SCORES for length, weight, and head circumference [see Warnings and Precautions (5.4), Adverse Reactions (6)].
 
@@ -174,7 +174,7 @@ Table 10: Summary of Topiramate Tablets Treatment Difference Results at 12 Month
 
 * TBLH=total body less head
 
-** Whereas no patients were randomized to 2 to 5 year age subgroup for topiramate tablets, 5 patients (4 to 5 years) were randomized to the active control group
+** Whereas no patients were randomized to 2 to 5 year age subgroup for topiramate tablets, 5 patients (4 to 5 years) were randomized to the active control group.
 
 Metabolic acidosis (serum bicarbonate < 20 mEq/L) was observed in all topiramate tablets-treated patients at some time in the study [see Warnings and Precautions (5.4)].
 Over the whole study, 76% more topiramate tablets-treated patients experienced persistent metabolic acidosis (i.e.

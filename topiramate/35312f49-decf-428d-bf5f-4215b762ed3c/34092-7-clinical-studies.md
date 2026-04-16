@@ -32,7 +32,7 @@ Specific dosing in pediatric patients 2 to 9 years of age was derived from simul
 
 ## 14.2 Adjunctive Therapy Epilepsy
 
-Adult Patients with Partial-Onset Seizures
+Adult Patients With Partial-Onset Seizures
 
 The effectiveness of topiramate tablets as an adjunctive treatment for adults with partial-onset seizures was established in six multicenter, randomized, double-blind, placebo-controlled trials (Studies 2, 3, 4, 5, 6 and 7), two comparing several dosages of topiramate tablets and placebo and four comparing a single dosage with placebo, in patients with a history of partial-onset seizures, with or without secondarily generalized seizures.
 
@@ -82,7 +82,7 @@ After titration, patients entered an 8-week stabilization period.
 
 The primary measures of effectiveness were the percent reduction in drop attacks and a parental global rating of seizure severity.
 
-Table 9: Topiramate Tablets Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults with Partial-Onset Seizuresa
+Table 12: Topiramate Tablets Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults with Partial-Onset Seizuresa
 
 | Study | Stabilization Dose | Placebob | 200 | 400 | 600 | 800 | 1,000 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -115,7 +115,7 @@ In all adjunctive trials, the reduction in seizure rate from baseline during the
 The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 13.
 As described above, a global improvement in seizure severity was also assessed in the Lennox-Gastaut trial.
 
-Table 10: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
+Table 13: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
 
 | Study# | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6 mg/kg/day* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -220,7 +220,7 @@ The 100 mg topiramate tablets dose produced a statistically significant treatmen
 The mean reduction from baseline to the last 12 weeks of the double-blind phase in average monthly attack rate, a key secondary efficacy endpoint in Study 13 (and the primary efficacy endpoint in Studies 11 and 12, of adults) was 3 for 100 mg topiramate tablets dose and 1.7 for placebo.
 This 1.3 treatment difference in mean reduction from baseline of monthly migraine rate was statistically significant (p = 0.0087).
 
-Table 11: Percent Reduction from Baseline to the Last 12 Weeks of Double-Blind Phase in Average Monthly Attack Rate: Study 13 (Intent-to-Treat Analysis Set)
+Table 14: Percent Reduction from Baseline to the Last 12 Weeks of Double-Blind Phase in Average Monthly Attack Rate: Study 13 (Intent-to-Treat Analysis Set)
 
 | Category | Placebo (N=33) | Topiramate tablets 50 mg/day (N=35) | Topiramate tablets 100 mg/day (N=35) |
 | --- | --- | --- | --- |
