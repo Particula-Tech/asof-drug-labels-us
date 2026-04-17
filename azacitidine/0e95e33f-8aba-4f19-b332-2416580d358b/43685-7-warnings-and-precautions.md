@@ -11,7 +11,7 @@ Do not substitute ONUREG for intravenous or subcutaneous azacitidine [see Dosage
 ## 5.2 Myelosuppression
 
 New or worsening Grade 3 or 4 neutropenia and thrombocytopenia occurred in 49% and 22% of patients who received ONUREG, respectively.
-Febrile neutropenia occurred in 12%.
+Febrile neutropenia occurred in 12%, and sepsis was reported in 6%, including 1 fatal case.
 A dose reduction was required for 7% and 2% of patients due to neutropenia and thrombocytopenia, respectively.
 Less than 1% of patients discontinued ONUREG due to either neutropenia or thrombocytopenia.
 

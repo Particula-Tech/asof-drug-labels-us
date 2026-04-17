@@ -27,7 +27,7 @@ Adverse reactions which required an interruption of ONUREG in > 5% of patients i
 Dose reductions of ONUREG due to an adverse reaction occurred in 14% of patients.
 Adverse reactions which required a dose reduction in > 1% of patients included neutropenia (6%), diarrhea (3.4%), thrombocytopenia (1.7%), and nausea (1.7%).
 
-The most common (≥ 10%) adverse reactions were nausea, vomiting, diarrhea, fatigue/asthenia, constipation, pneumonia, abdominal pain, arthralgia, decreased appetite, febrile neutropenia, dizziness, and pain in extremity.
+The most common (≥ 10%) adverse reactions were nausea, vomiting, diarrhea, fatigue/asthenia, constipation, upper respiratory tract infection, pneumonia, abdominal pain, arthralgia, decreased appetite, febrile neutropenia, dizziness, skin infection, and pain in extremity.
 
 Table 2 summarizes the adverse reactions in QUAZAR.
 
@@ -45,7 +45,10 @@ Table 2: Adverse Reactions (≥ 5%) in Patients with AML Who Received ONUREG wit
 | General disorders and administration site conditions |  |  |  |  |
 | Fatigue / astheniab | 44 | 4 | 25 | 1 |
 | Infections |  |  |  |  |
-| Pneumoniac | 27 | 9 | 17 | 5 |
+| Upper respiratory tract infectionc | 34 | 2 | 28 | 0 |
+| Pneumoniad | 27 | 9 | 17 | 5 |
+| Skin infectione | 11 | 3 | 8 | 1 |
+| Sepsisf | 6g | 5 | 3 | 3 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Arthralgia | 14 | 1 | 10 | < 1 |
 | Pain in extremity | 11 | < 1 | 5 | 0 |
@@ -55,9 +58,18 @@ Table 2: Adverse Reactions (≥ 5%) in Patients with AML Who Received ONUREG wit
 | Febrile neutropenia | 12 | 11 | 8 | 8 |
 | Nervous system disorders |  |  |  |  |
 | Dizziness | 11 | 0 | 9 | 0 |
-| a Grouped term includes abdominal pain, abdominal pain upper, abdominal discomfort, and gastrointestinal pain. b Grouped term includes fatigue and asthenia. c Broad scope term includes influenza, pneumonia, respiratory tract infection, respiratory tract infection viral, bronchopulmonary aspergillosis, lung infection, Staphylococcal infection, atypical pneumonia, lower respiratory tract infection, lung abscess, Pneumocystis jirovecii pneumonia, pneumonia bacterial, pneumonia fungal, Pseudomonas infection, hemoptysis, productive cough, pleural effusion, atelectasis, pleuritic pain, rales, Enterobacter test positive, and Hemophilus test positive. |  |  |  |  |
+| a Grouped term includes abdominal pain, abdominal pain upper, abdominal discomfort, and gastrointestinal pain. b Grouped term includes fatigue and asthenia. c Broad scope term includes acute sinusitis, adenoviral upper respiratory infection, chronic tonsillitis, influenza, nasopharyngitis, pharyngitis, rhinitis, sinusitis, sinusitis fungal, tonsillitis, tracheitis, upper respiratory tract infection, upper respiratory tract infection bacterial, viral pharyngitis, viral rhinitis, viral upper respiratory tract infection. |  |  |  |  |
+| d Broad scope term includes influenza, pneumonia, respiratory tract infection, respiratory tract infection viral, bronchopulmonary aspergillosis, lung infection, Staphylococcal infection, atypical pneumonia, lower respiratory tract infection, lung abscess, Pneumocystis jirovecii pneumonia, pneumonia bacterial, pneumonia fungal, Pseudomonas infection, hemoptysis, productive cough, pleural effusion, atelectasis, pleuritic pain, rales, Enterobacter test positive, and Hemophilus test positive. |  |  |  |  |
 
-Clinically relevant adverse reactions that did not meet criteria for inclusion in Table 2 were weight decreased (4%) in patients who received ONUREG.
+e Broad scope term includes cellulitis, erythema migrans, folliculitis, fungal skin infection, furuncle, herpes simplex, herpes zoster, nail bed infection, nail infection, onychomycosis, skin infection, staphylococcal skin infection.
+
+f Grouped term includes: Sepsis, bacterial sepsis, neutropenic sepsis, device related sepsis, Klebsiella sepsis, Septic shock, Staphylococcal sepsis, and urosepsis.
+
+g Includes 1 fatal adverse reaction.
+
+Clinically relevant adverse reactions in less than 5% of patients who received ONUREG included
+
+Investigations: Weight decreased
 
 Neutropenia, thrombocytopenia, and anemia of any grade occurred in 74%, 65%, and 25% of patients who received ONUREG.
 Table 3 summarizes select Grades 3 or 4 hematological laboratory abnormalities in QUAZAR.

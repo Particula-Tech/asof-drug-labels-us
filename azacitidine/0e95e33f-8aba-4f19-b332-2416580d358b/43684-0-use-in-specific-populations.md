@@ -75,6 +75,4 @@ No dose adjustment of ONUREG is recommended for patients with mild to severe ren
 
 ONUREG has not been studied in patients with pre-existing severe hepatic impairment (total bilirubin > 3 × ULN).
 
-A recommended dosage of ONUREG has not been established for patients with moderate hepatic impairment (total bilirubin > 1.5 to 3 × ULN).
-
-No dose adjustment of ONUREG is recommended for patients with mild hepatic impairment (total bilirubin ≤ ULN and AST > ULN, or total bilirubin 1 to 1.5 × ULN and any AST) [see Clinical Pharmacology (12.3)].
+No dose adjustment of ONUREG is recommended for patients with mild or moderate hepatic impairment (total bilirubin ≤ ULN and AST > ULN, or total bilirubin 1 to 3 × ULN and any AST) [see Clinical Pharmacology (12.3)].

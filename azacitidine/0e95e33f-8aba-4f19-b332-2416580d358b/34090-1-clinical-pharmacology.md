@@ -50,8 +50,8 @@ Following the administration of ONUREG 300 mg orally once daily, < 2% of the dos
 
 Specific Populations
 
-Age (46 years to 93 years), sex, body weight (39.3 kg to 129 kg), mild hepatic impairment (total bilirubin ≤ ULN and AST > ULN, or total bilirubin 1 to 1.5 × ULN and any AST), and mild to moderate renal impairment (CLcr 30 to 89 mL/min) have no clinically meaningful effect on the pharmacokinetics of oral azacitidine.
-The effects of race/ethnicity, moderate to severe hepatic impairment (total bilirubin > 1.5 × ULN and any AST), and severe renal impairment (CLcr 15 to 29 mL/min) on the pharmacokinetics of oral azacitidine is unknown.
+Age (46 years to 93 years), sex, body weight (39.3 kg to 129 kg), mild to moderate hepatic impairment (total bilirubin ≤ ULN and AST > ULN, or total bilirubin 1 to 3 × ULN and any AST), and mild to moderate renal impairment (CLcr 30 to 89 mL/min) have no clinically meaningful effect on the pharmacokinetics of oral azacitidine.
+The effects of race/ethnicity, severe hepatic impairment (total bilirubin > 3 × ULN and any AST), and severe renal impairment (CLcr 15 to 29 mL/min) on the pharmacokinetics of oral azacitidine is unknown.
 
 Severe renal impairment increased azacitidine exposure by approximately 70% after a single or 41% after multiple subcutaneous daily administration.
 

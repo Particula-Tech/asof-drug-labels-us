@@ -6,6 +6,10 @@ Myelosuppression
 
 Advise patients of the risk of myelosuppression with ONUREG and of the need to monitor complete blood counts before and during treatment [see Warnings and Precautions (5.2)].
 
+Infection
+
+Advise patients of the risk of infections, including sepsis, with ONUREG and to report any symptoms of infection to their healthcare provider as soon as possible [see Adverse Reactions (6.1)].
+
 Gastrointestinal Toxicity
 
 Advise patients of the risk of gastrointestinal toxicity with ONUREG and of the potential need to use anti-emetic or anti-diarrheal medications during treatment [see Adverse Reactions (6.1)].

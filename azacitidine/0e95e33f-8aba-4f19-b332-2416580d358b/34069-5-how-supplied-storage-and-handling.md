@@ -13,6 +13,8 @@ Table 6: ONUREG Package Configurations and NDC Numbers
 
 | Package Configuration | Tablet Strength | NDC Number |
 | --- | --- | --- |
+| Bottles of 14 with two desiccant cannisters | 200 mg | 59572-730-14 |
+| Bottles of 14 with two desiccant cannisters | 300 mg | 59572-740-14 |
 | One blister card containing 7 tablets | 200 mg | 59572-730-07 |
 | One blister card containing 7 tablets | 300 mg | 59572-740-07 |
 
