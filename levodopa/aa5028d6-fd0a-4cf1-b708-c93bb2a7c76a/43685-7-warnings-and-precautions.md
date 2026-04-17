@@ -10,7 +10,7 @@ Carbidopa does not decrease adverse reactions due to central effects of levodopa
 By permitting more levodopa to reach the brain, particularly when nausea and vomiting is not a dose-limiting factor, certain adverse central nervous system (CNS) effects, e.g., dyskinesias, will occur at lower dosages and sooner during therapy with carbidopa and levodopa extended-release than with levodopa alone.
 
 Patients receiving carbidopa and levodopa extended-release may develop increased dyskinesias compared to carbidopa and levodopa immediate-release.
-Dyskinesias are a common side effect of carbidopa-levodopa treatment.
+Dyskinesias are a common side effect of carbidopa levodopa treatment.
 The occurrence of dyskinesias may require dosage reduction.
 
 All patients should be observed carefully for the development of depression with concomitant suicidal tendencies.
@@ -21,6 +21,16 @@ As with levodopa, care should be exercised in administering carbidopa and levodo
 In such patients, cardiac function should be monitored with particular care during the period of initial dosage adjustment, in a facility with provisions for intensive cardiac care.
 
 As with levodopa, treatment with carbidopa and levodopa extended-release may increase the possibility of upper gastrointestinal hemorrhage in patients with a history of peptic ulcer.
+
+## Vitamin B6 Deficiency and Seizures
+
+Treatment with carbidopa and levodopa extended-release may contribute to reduced vitamin B6 levels.
+Higher doses of carbidopa/levodopa may increase the risk of vitamin B6 deficiency.
+Seizures associated with vitamin B6 deficiency have been reported in the postmarketing setting in patients taking carbidopa and levodopa extended-release.
+In these reported cases, seizures were refractory to traditional anti-seizure medications and only resolved after vitamin B6 administration.
+Other symptoms of vitamin B6 deficiency may occur, including depression, confusion, cheilosis, glossitis, dermatitis, anemia, and/or neuropathy.
+Evaluate vitamin B6 levels prior to initiation of carbidopa and levodopa extended-release and periodically while on treatment or if symptoms associated with vitamin B6 deficiency are identified.
+Supplement with vitamin B6 as necessary.
 
 ## Falling Asleep During Activities of Daily Living and Somnolence
 
@@ -41,7 +51,7 @@ There is insufficient information to establish that dose reduction will eliminat
 
 ## Hyperpyrexia and Confusion
 
-Sporadic cases of a symptom complex resembling neuroleptic malignant syndrome (NMS) have been reported in association with dose reductions or withdrawal of certain antiparkinsonian agents such as levodopa, carbidopa-levodopa and carbidopa and levodopa extended-release.
+Sporadic cases of a symptom complex resembling neuroleptic malignant syndrome (NMS) have been reported in association with dose reductions or withdrawal of certain antiparkinsonian agents such as levodopa, carbidopa levodopa and carbidopa and levodopa extended release.
 Therefore, patients should be observed carefully when the dosage of levodopa is reduced abruptly or discontinued, especially if the patient is receiving neuroleptics.
 
 NMS is an uncommon but life-threatening syndrome characterized by fever or hyperthermia.
@@ -97,9 +107,9 @@ Ideally, periodic skin examinations should be performed by appropriately qualifi
 
 ## Information for Patients
 
-The patient should be informed that carbidopa and levodopa extended-release tablets are a sustained-release formulation of carbidopa-levodopa which releases these ingredients over a 4- to 6-hour period.
+The patient should be informed that carbidopa and levodopa extended-release tablets are a sustained-release formulation of carbidopa levodopa which releases these ingredients over a 4- to 6-hour period.
 It is important that carbidopa and levodopa extended-release be taken at regular intervals according to the schedule outlined by the physician.
-The patient should be cautioned not to change the prescribed dosage regimen and not to add any additional antiparkinson medications, including other carbidopa-levodopa preparations, without first consulting the physician.
+The patient should be cautioned not to change the prescribed dosage regimen and not to add any additional antiparkinson medications, including other carbidopa levodopa preparations, without first consulting the physician.
 
 If abnormal involuntary movements appear or get worse during treatment with carbidopa and levodopa extended-release, the physician should be notified, as dosage adjustment may be necessary.
 
@@ -112,43 +122,46 @@ Although the color appears to be clinically insignificant, garments may become d
 The patient should be informed that a change in diet to foods that are high in protein may delay the absorption of levodopa and may reduce the amount taken up in the circulation.
 Excessive acidity also delays stomach emptying, thus delaying the absorption of levodopa.
 Iron salts (such as in multivitamin tablets) may also reduce the amount of levodopa available to the body.
-The above factors may reduce the clinical effectiveness of the levodopa or carbidopa-levodopa therapy.
+The above factors may reduce the clinical effectiveness of the levodopa or carbidopa levodopa therapy.
 
 Patients must be advised that the whole or half tablet should be swallowed without chewing or crushing.
 
 Patients should be alerted to the possibility of sudden onset of sleep during daily activities, in some cases without awareness or warning signs, when they are taking dopaminergic agents, including levodopa.
-Patients should be advised to exercise caution while driving or operating machinery and that if they have experienced somnolence and/or sudden sleep onset, they must refrain from these activities (see WARNINGS: Falling Asleep During Activities of Daily Living and Somnolence).
+Patients should be advised to exercise caution while driving or operating machinery and that if they have experienced somnolence and/or sudden sleep onset, they must refrain from these activities (see WARNINGS, Falling Asleep During Activities of Daily Living and Somnolence).
 
 There have been reports of patients experiencing intense urges to gamble, increased sexual urges, and other intense urges, and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone and that are generally used for the treatment of Parkinson’s disease, including carbidopa and levodopa extended-release.
 Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
 Prescribers should ask patients about the development of new or increased gambling urges, sexual urges or other urges while being treated with carbidopa and levodopa extended-release.
 Patients should inform their physician if they experience new or increased gambling urges, increased sexual urges, or other intense urges while taking carbidopa and levodopa extended-release.
-Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking carbidopa and levodopa extended-release (See PRECAUTIONS: Impulse Control/Compulsive Behaviors).
+Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking carbidopa and levodopa extended-release (see PRECAUTIONS, Impulse Control/Compulsive Behaviors).
+
+Inform patients that vitamin B6 deficiency may develop during treatment with carbidopa/levodopa therapies, including carbidopa and levodopa extended-release.
+Tell patients to inform their healthcare provider if they develop symptoms such as depression, confusion, cheilosis, glossitis, dermatitis, anemia, neuropathy, and/or seizures (see WARNINGS, Vitamin B6 Deficiency and Seizures).
 
 ## Laboratory Tests
 
 Abnormalities in laboratory tests may include elevations of liver function tests such as alkaline phosphatase, SGOT (AST), SGPT (ALT), lactic dehydrogenase (LDH), and bilirubin.
 Abnormalities in blood urea nitrogen (BUN) and positive Coombs test have also been reported.
-Commonly, levels of blood urea nitrogen, creatinine, and uric acid are lower during administration of carbidopa-levodopa preparations than with levodopa.
+Commonly, levels of blood urea nitrogen, creatinine, and uric acid are lower during administration of carbidopa levodopa preparations than with levodopa.
 
-Carbidopa-levodopa preparations, such as carbidopa and levodopa immediate-release and carbidopa and levodopa extended-release, may cause a false-positive reaction for urinary ketone bodies when a test tape is used for determination of ketonuria.
+Carbidopa levodopa preparations, such as carbidopa and levodopa immediate-release and carbidopa and levodopa extended-release, may cause a false-positive reaction for urinary ketone bodies when a test tape is used for determination of ketonuria.
 This reaction will not be altered by boiling the urine specimen.
 False-negative tests may result with the use of glucose-oxidase methods of testing for glucosuria.
 
-Cases of falsely diagnosed pheochromocytoma in patients on carbidopa-levodopa therapy have been reported very rarely.
-Caution should be exercised when interpreting the plasma and urine levels of catecholamines and their metabolites in patients on levodopa or carbidopa-levodopa therapy.
+Cases of falsely diagnosed pheochromocytoma in patients on carbidopa levodopa therapy have been reported very rarely.
+Caution should be exercised when interpreting the plasma and urine levels of catecholamines and their metabolites in patients on levodopa or carbidopa levodopa therapy.
 
 ## Drug Interactions
 
 Caution should be exercised when the following drugs are administered concomitantly with carbidopa and levodopa extended-release.
 
-Symptomatic postural hypotension has occurred when carbidopa-levodopa preparations were added to the treatment of patients receiving some antihypertensive drugs.
+Symptomatic postural hypotension has occurred when carbidopa levodopa preparations were added to the treatment of patients receiving some antihypertensive drugs.
 Therefore, when therapy with carbidopa and levodopa extended-release is started, dosage adjustment of the antihypertensive drug may be required.
 
 For patients receiving MAO inhibitors (Type A or B), see CONTRAINDICATIONS.
-Concomitant therapy with selegiline and carbidopa-levodopa may be associated with severe orthostatic hypotension not attributable to carbidopa-levodopa alone (see CONTRAINDICATIONS).
+Concomitant therapy with selegiline and carbidopa levodopa may be associated with severe orthostatic hypotension not attributable to carbidopa levodopa alone (see CONTRAINDICATIONS).
 
-There have been rare reports of adverse reactions, including hypertension and dyskinesia, resulting from the concomitant use of tricyclic antidepressants and carbidopa-levodopa preparations.
+There have been rare reports of adverse reactions, including hypertension and dyskinesia, resulting from the concomitant use of tricyclic antidepressants and carbidopa levodopa preparations.
 
 Dopamine D2 receptor antagonists (e.g., phenothiazines, butyrophenones, risperidone) and isoniazid may reduce the therapeutic effects of levodopa.
 In addition, the beneficial effects of levodopa in Parkinson’s disease have been reported to be reversed by phenytoin and papaverine.

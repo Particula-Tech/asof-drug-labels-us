@@ -9,9 +9,15 @@ Standard drugs for Parkinson’s disease, other than levodopa without a decarbox
 
 Since carbidopa prevents the reversal of levodopa effects caused by pyridoxine, carbidopa and levodopa extended-release tablets can be given to patients receiving supplemental pyridoxine (vitamin B6).
 
+## Management of Vitamin B6 Levels
+
+Evaluate vitamin B6 levels prior to initiating carbidopa/levodopa therapies including carbidopa and levodopa extended-release tablets, periodically during treatment, and as clinically indicated (see WARNINGS, Vitamin B6 Deficiency and Seizures).
+If vitamin B6 levels are low, supplement to sufficient levels per standard of care.
+Patients may initiate and continue treatment with carbidopa and levodopa extended-release tablets while supplementing vitamin B6.
+
 ## Initial Dosage
 
-### Patients Currently Treated with Conventional Carbidopa-Levodopa Preparations
+### Patients currently treated with conventional carbidopa levodopa preparations
 
 Studies show that peripheral dopa-decarboxylase is saturated by the bioavailable carbidopa at doses of 70 mg a day and greater.
 Because the bioavailabilities of carbidopa and levodopa in carbidopa and levodopa immediate-release tablets and carbidopa and levodopa extended-release tablets are different, appropriate adjustments should be made, as shown in Table 2.
@@ -23,32 +29,32 @@ Table 2: Approximate Bioavailabilities at Steady StateThis table is only a guide
 | Carbidopa and LevodopaExtended-Release Tablets50 mg/200 mg | 200 | 0.70-0.75The extent of availability of levodopa from carbidopa and levodopa extended-release tablets was about 70-75% relative to intravenous levodopa or standard carbidopa and levodopa immediate-release tablets in the elderly. | 140-150 |
 | Carbidopa and LevodopaImmediate-Release Tablets25 mg/100 mg | 100 | 0.99The extent of availability of levodopa from carbidopa and levodopa immediate-release tablets was 99% relative to intravenous levodopa in the healthy elderly. | 99 |
 
-Dosage with carbidopa and levodopa extended-release tablets should be substituted at an amount that provides approximately 10% more levodopa per day, although this may need to be increased to a dosage that provides up to 30% more levodopa per day depending on clinical response (see DOSAGE AND ADMINISTRATION: Titration with Carbidopa and Levodopa Extended-Release Tablets).
-The interval between doses of carbidopa and levodopa extended-release tablets should be 4-8 hours during the waking day (see CLINICAL PHARMACOLOGY: Pharmacodynamics).
+Dosage with carbidopa and levodopa extended-release tablets should be substituted at an amount that provides approximately 10% more levodopa per day, although this may need to be increased to a dosage that provides up to 30% more levodopa per day depending on clinical response (see DOSAGE AND ADMINISTRATION, Titration with Carbidopa and Levodopa Extended-Release Tablets).
+The interval between doses of carbidopa and levodopa extended-release tablets should be 4-8 hours during the waking day (see CLINICAL PHARMACOLOGY, Pharmacodynamics).
 
 A guideline for initiation of carbidopa and levodopa extended-release tablets is shown in Table 3.
 
 Table 3: Guidelines for Initial Conversion from Carbidopa and Levodopa Immediate-Release Tablets to Carbidopa and Levodopa Extended-Release Tablets
 
-| Carbidopa and LevodopaImmediate-Release TabletsTotal Daily DoseFor dosing ranges not shown in the table see DOSAGE AND ADMINISTRATION: Initial Dosage: Patients Currently Treated with Conventional Carbidopa and Levodopa Preparations.Levodopa (mg) | Carbidopa and LevodopaExtended-Release TabletsSuggestedDosage Regimen |
+| Carbidopa and LevodopaImmediate-Release TabletsTotal Daily DoseFor dosing ranges not shown in the table see DOSAGE AND ADMINISTRATION, Initial Dosage — Patients currently treated with conventional carbidopa and levodopa preparations.Levodopa (mg) | Carbidopa and LevodopaExtended-Release TabletsSuggestedDosage Regimen |
 | --- | --- |
 | 300-400 | 200 mg b.i.d. |
 | 500-600 | 300 mg b.i.d. or 200 mg t.i.d. |
 | 700-800 | A total of 800 mg in 3 or more divided doses (e.g., 300 mg a.m.,300 mg early p.m., and 200 mg later p.m.) |
 | 900-1000 | A total of 1000 mg in 3 or more divided doses (e.g., 400 mg a.m.,400 mg early p.m., and 200 mg later p.m.) |
 
-### Patients Currently Treated with Levodopa Without a Decarboxylase Inhibitor
+### Patients currently treated with levodopa without a decarboxylase inhibitor
 
 Levodopa must be discontinued at least twelve hours before therapy with carbidopa and levodopa extended-release tablets is started.
 Carbidopa and levodopa extended-release tablets should be substituted at a dosage that will provide approximately 25% of the previous levodopa dosage.
 In patients with mild to moderate disease, the initial dose is usually 1 tablet of 50 mg/200 mg carbidopa and levodopa extended-release tablets b.i.d.
 
-### Patients Not Receiving Levodopa
+### Patients not receiving levodopa
 
 In patients with mild to moderate disease, the initial recommended dose is 1 tablet of 50 mg/200 mg carbidopa and levodopa extended-release tablets b.i.d.
 Initial dosage should not be given at intervals of less than 6 hours.
 
-### Titration with Carbidopa and Levodopa Extended-Release Tablets
+## Titration with Carbidopa and Levodopa Extended-Release Tablets
 
 Following initiation of therapy, doses and dosing intervals may be increased or decreased depending upon therapeutic response.
 Most patients have been adequately treated with doses of carbidopa and levodopa extended-release tablets that provide 400 to 1600 mg of levodopa per day, administered as divided doses at intervals ranging from 4 to 8 hours during the waking day.
@@ -67,7 +73,7 @@ Because Parkinson’s disease is progressive, periodic clinical evaluations are 
 Anticholinergic agents, dopamine agonists, and amantadine can be given with carbidopa and levodopa extended-release tablets.
 Dosage adjustment of carbidopa and levodopa extended-release tablets may be necessary when these agents are added.
 
-A dose of carbidopa and levodopa immediate-release tablets 25/100 or 10/100 (one half or a whole tablet) can be added to the dosage regimen of carbidopa and levodopa extended-release tablets in selected patients with advanced disease who need additional immediate-release levodopa for a brief time during daytime hours.
+A dose of carbidopa and levodopa immediate release tablets 25/100 or 10/100 (one half or a whole tablet) can be added to the dosage regimen of carbidopa and levodopa extended-release tablets in selected patients with advanced disease who need additional immediate-release levodopa for a brief time during daytime hours.
 
 ## Interruption of Therapy
 

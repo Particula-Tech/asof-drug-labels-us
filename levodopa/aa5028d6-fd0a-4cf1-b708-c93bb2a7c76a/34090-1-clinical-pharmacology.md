@@ -27,7 +27,7 @@ Patients treated with levodopa therapy for Parkinson’s disease may develop mot
 The advanced form of motor fluctuations (‘on-off’ phenomenon) is characterized by unpredictable swings from mobility to immobility.
 Although the causes of the motor fluctuations are not completely understood, in some patients they may be attenuated by treatment regimens that produce steady plasma levels of levodopa.
 
-Carbidopa and levodopa extended-release tablets contain either 25 mg of carbidopa and 100 mg of levodopa, or 50 mg of carbidopa and 200 mg of levodopa in a sustained-release dosage form designed to release these ingredients over a 4- to 6-hour period.
+Carbidopa and levodopa extended-release tablets contain either 50 mg of carbidopa and 200 mg of levodopa, or 25 mg of carbidopa and 100 mg of levodopa in a sustained-release dosage form designed to release these ingredients over a 4- to 6-hour period.
 With carbidopa and levodopa extended-release there is less variation in plasma levodopa levels than with carbidopa and levodopa immediate-release, the conventional formulation.
 However, carbidopa and levodopa extended-release is less systemically bioavailable than carbidopa and levodopa immediate-release and may require increased daily doses to achieve the same level of symptomatic relief as provided by carbidopa and levodopa immediate-release.
 
@@ -47,7 +47,7 @@ The maximum concentration of levodopa after a single dose of carbidopa and levod
 The extent of availability of levodopa from carbidopa and levodopa extended-release was about 70-75% relative to intravenous levodopa or standard carbidopa and levodopa immediate-release in the elderly.
 The absolute bioavailability of levodopa from carbidopa and levodopa extended-release (relative to I.V.) in young subjects was shown to be only about 44%.
 The extent of availability and the peak concentrations of levodopa were comparable in the elderly after a single dose and at steady state after t.i.d. administration of 50 mg/200 mg carbidopa and levodopa extended-release.
-In elderly subjects, the average trough levels of levodopa at steady state after the extended-release tablet were about 2-fold higher than after the standard carbidopa and levodopa immediate-release (163 vs. 74 ng/mL).
+In elderly subjects, the average trough levels of levodopa at steady state after the extended-release tablet were about 2 fold higher than after the standard carbidopa and levodopa immediate-release (163 vs. 74 ng/mL).
 
 In these studies, using similar total daily doses of levodopa, plasma levodopa concentrations with carbidopa and levodopa extended-release fluctuated in a narrower range than with carbidopa and levodopa immediate-release.
 Because the bioavailability of levodopa from carbidopa and levodopa extended-release relative to carbidopa and levodopa immediate-release is approximately 70-75%, the daily dosage of levodopa necessary to produce a given clinical response with the extended-release formulation will usually be higher.
@@ -68,7 +68,7 @@ A study in eight young healthy subjects (21-22 yr) and eight elderly healthy sub
 However, the systemic exposure (AUC) of levodopa was increased by 55% in elderly subjects compared to young subjects.
 Based on another study in forty patients with Parkinson’s disease, there was a correlation between age of patients and the increase of AUC of levodopa following administration of levodopa and an inhibitor of peripheral dopa decarboxylase.
 AUC of levodopa was increased by 28% in elderly patients (≥ 65 yr) compared to young patients (< 65 yr).
-Additionally, mean value of Cmax for levodopa was increased by 24% in elderly patients (≥ 65 yr) compared to young patients (< 65 yr) (see PRECAUTIONS: Geriatric Use).
+Additionally, mean value of Cmax for levodopa was increased by 24% in elderly patients (≥ 65 yr) compared to young patients (< 65 yr) (see PRECAUTIONS, Geriatric Use).
 
 The AUC of carbidopa was increased in elderly subjects (n = 10, 65-76 yr) by 29% compared to young subjects (n = 24, 23-64 yr) following IV administration of 50 mg levodopa with carbidopa (50 mg).
 This increase is not considered a clinically significant impact.
