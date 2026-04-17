@@ -69,7 +69,7 @@ Methadone is secreted in saliva, breast milk, amniotic fluid and umbilical cord 
 
 Elimination:
 
-Metabolism: Methadone is primarily metabolized by N-demethylation to an inactive metabolite, 2-ethylidene-1,5-dimethyl-3,3-diphenylpyrrolidene(EDDP).
+Metabolism: Methadone is primarily metabolized by N-demethylation to an inactive metabolite, 2-ethylidene-1,5-dimethyl-3,3-diphenylpyrrolidene (EDDP).
 Cytochrome P450 enzymes, primarily CYP3A4, CYP2B6, CYP2C19, CYP2C9 and CYP2D6, are responsible for conversion of methadone to EDDP and other inactive metabolites, which are excreted mainly in the urine.
 Methadone appears to be a substrate for P-glycoprotein but its pharmacokinetics do not appear to be significantly altered in case of P-glycoprotein polymorphism or inhibition.
 
