@@ -2,7 +2,7 @@
 
 Dronabinol capsules, USP (dronabinol solution in sesame oil in soft gelatin capsules)
 
-2.5 mg capsules are supplied as brown to dark brown, round capsules containing clear to light yellow liquid printed with “A” sign in white ink
+2.5 mg capsules are supplied as brown to dark brown, round capsules containing clear to light yellow liquid printed with “A” sign in white ink.
 
 NDC 31722-960-60 (Bottle of 60 capsules).
 

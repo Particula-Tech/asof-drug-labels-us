@@ -8,7 +8,7 @@ Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.1)]
 
 - Advise patients, especially elderly patients, that cognitive impairment or an altered mental state may also occur during treatment with dronabinol capsules and to report to their healthcare provider if they develop signs or symptoms of cognitive impairment.
 - Advise patients not to operate motor vehicles or other dangerous machinery until they are reasonably certain that dronabinol capsules does not affect them adversely.
-  Alert patients to the potential for additive central nervous system depression if dronabinol capsules is used concomitantly with alcohol or other CNS depressants such as benzodiazepines and barbiturates.
+  Alert patients to the potential for additive central nervous system depression if dronabinol capsules are used concomitantly with alcohol or other CNS depressants such as benzodiazepines and barbiturates.
 
 Hemodynamic Instability
 
@@ -33,9 +33,9 @@ Advise pregnant women of the potential risk to a fetus and to avoid use of drona
 
 Lactation
 
-- Advise HIV infected women with anorexia associated with weight loss, not to breastfeed.
+- Advise HIV infected women with anorexia associated with weight loss, not to breastfeed because HIV can be passed to the baby through the breast milk.
 
-- Advise women with nausea and vomiting associated with cancer chemotherapy not to breastfeed during treatment with dronabinol capsules and for 9 days after the last dose [see Use in Specific Populations (8.2)].
+- Advise women with nausea and vomiting associated with cancer chemotherapy that breastfeeding infants should have their weight monitored [see Use in Specific Populations (8.2)].
 
 Manufactured by:
 
@@ -49,4 +49,4 @@ Camber Pharmaceuticals, Inc.
 
 Piscataway, NJ 08854
 
-Revised: 05/19
+Revised: 04/2026

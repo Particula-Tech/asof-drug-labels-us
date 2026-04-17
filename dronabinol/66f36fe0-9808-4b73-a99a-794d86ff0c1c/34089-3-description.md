@@ -1,7 +1,9 @@
 # 11 DESCRIPTION
 
-Dronabinol is a cannabinoid designated chemically as (6aR,10aR)-6a,7,8,10a-Tetrahydro-6,6,9­ trimethyl-3-pentyl-6H-dibenzo[b,d]-pyran-1-ol.
+Dronabinol is a cannabinoid designated chemically as (6aR,10aR)-6a,7,8,10a-Tetrahydro-6,6,9­-trimethyl-3-pentyl-6H-dibenzo[b,d]-pyran-1-ol.
 Dronabinol has the following empirical and structural formulas:
+
+C21H30O2 (molecular weight = 314.46)
 
 Dronabinol, the active ingredient in dronabinol capsules, USP, is synthetic delta-9­ tetrahydrocannabinol (delta-9-THC).
 

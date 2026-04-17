@@ -57,7 +57,7 @@ Values for clearance average about 0.2 L/kg-hr, but are highly variable due to t
 Metabolism
 
 Dronabinol undergoes extensive first-pass hepatic metabolism, primarily by hydroxylation, yielding both active and inactive metabolites.
-Dronabinol and its principal active metabolite, 11­ hydroxy-delta-9-THC, are present in approximately equal concentrations in plasma.
+Dronabinol and its principal active metabolite, 11­-hydroxy-delta-9-THC, are present in approximately equal concentrations in plasma.
 Published in vitro data indicates that CYP2C9 and CYP3A4 are the primary enzymes in the metabolism of dronabinol.
 CYP2C9 appears to be the enzyme responsible for the formation of the primary active metabolite [see Clinical Pharmacology (12.5)].
 

@@ -13,7 +13,7 @@ Also, avoid concomitant use with other drugs that are associated with similar ps
 
 Cognitive Adverse Reactions
 
-Use of dronabinol has been associated with cognitive impairment and altered mental state.
+Use of dronabinol capsules has been associated with cognitive impairment and altered mental state.
 Reduce the dose of dronabinol capsules or discontinue use of dronabinol capsules if signs or symptoms of cognitive impairment develop.
 Elderly patients may be more sensitive to the neurological and psychoactive effects of dronabinol capsules [see Use in Specific Populations (8.4, 8.5)].
 

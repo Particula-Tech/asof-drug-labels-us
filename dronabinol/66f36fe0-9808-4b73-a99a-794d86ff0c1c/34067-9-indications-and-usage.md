@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Dronabinol capsules is indicated in adults for the treatment of:
+Dronabinol capsules are indicated in adults for the treatment of:
 
 - anorexia associated with weight loss in patients with Acquired Immune Deficiency Syndrome (AIDS).
 

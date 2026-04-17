@@ -2,18 +2,18 @@
 
 ## 7.1 Additive CNS Effects
 
-Additive CNS effects (e.g., dizziness, confusion, sedation, somnolence) may occur when dronabinol capsules is taken concomitantly with drugs that have similar effects on the central nervous system such as CNS depressants [see Warnings and Precautions (5.1)].
+Additive CNS effects (e.g., dizziness, confusion, sedation, somnolence) may occur when dronabinol capsules are taken concomitantly with drugs that have similar effects on the central nervous system such as CNS depressants [see Warnings and Precautions (5.1)].
 
 ## 7.2 Additive Cardiac Effects
 
-Additive cardiac effects (e.g., hypotension, hypertension, syncope, tachycardia) may occur when dronabinol capsules is taken concomitantly with drugs that have similar effects on the cardiovascular system [see Warnings and Precautions (5.2)].
+Additive cardiac effects (e.g., hypotension, hypertension, syncope, tachycardia) may occur when dronabinol capsules are taken concomitantly with drugs that have similar effects on the cardiovascular system [see Warnings and Precautions (5.2)].
 
 ## 7.3 Effect of Other Drugs on Dronabinol
 
 Dronabinol is primarily metabolized by CYP2C9 and CYP3A4 enzymes based on published in vitro studies.
 Inhibitors of these enzymes may increase, while inducers may decrease, the systemic exposure of dronabinol and/or its active metabolite resulting in an increase in dronabinol-related adverse reactions or loss of efficacy of dronabinol capsules.
 
-Monitor for potentially increased dronabinol-related adverse reactions when dronabinol capsules is co- administered with inhibitors of CYP2C9 (e.g., amiodarone, fluconazole) and inhibitors of CYP3A4 enzymes (e.g., ketoconazole, itraconazole, clarithromycin, ritonavir, erythromycin, grapefruit juice).
+Monitor for potentially increased dronabinol-related adverse reactions when dronabinol capsules are co-administered with inhibitors of CYP2C9 (e.g., amiodarone, fluconazole) and inhibitors of CYP3A4 enzymes (e.g., ketoconazole, itraconazole, clarithromycin, ritonavir, erythromycin, grapefruit juice).
 
 ## 7.4 Highly Protein-Bound Drugs
 
