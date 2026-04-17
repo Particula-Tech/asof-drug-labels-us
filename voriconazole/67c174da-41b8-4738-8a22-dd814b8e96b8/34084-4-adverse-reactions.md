@@ -218,7 +218,7 @@ Table 8: Adverse Reactions Occurring in ≥ 5% of Pediatric Patients Receiving V
 | Nausea | 14 (13) |  |
 | Abdominal painPooled reports include such terms as: abdominal pain and abdominal pain, upper. | 13 (12) |  |
 | Diarrhea | 12 (11) |  |
-| Abdominal distension | 5 (5) |  |
+| Abdominal distention | 5 (5) |  |
 | Constipation | 5 (5) |  |
 | General Disorders and Administration Site Conditions | Pyrexia | 25 (25) |
 | Peripheral edema | 9 (9) |  |
