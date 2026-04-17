@@ -24,9 +24,9 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 
 Distributed by: AbbVie Inc. North Chicago, IL 60064
 
-EMBLAVEO and its design are trademarks of Allergan Pharmaceuticals International Limited, an AbbVie company.
+EMBLAVEO® and its design are trademarks of Allergan Pharmaceuticals International Limited, an AbbVie company.
 
-© 2025 AbbVie.
+© 2026 AbbVie.
 All rights reserved.
 
-PAA232843
+PAA248062-R1

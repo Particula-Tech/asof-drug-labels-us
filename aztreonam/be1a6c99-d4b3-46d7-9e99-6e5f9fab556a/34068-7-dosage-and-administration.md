@@ -79,7 +79,7 @@ The EMBLAVEO solution for administration is compatible with Sterile Water for In
 
 - 0.9% Sodium chloride injection
 - 5% Dextrose injection
-- Lactated Ringer's injection
+- Lactated Ringer’s injection
 
 The compatibility of EMBLAVEO with other medicinal products has not been established.
 EMBLAVEO should not be mixed with or physically added to solutions containing other medicinal products.
