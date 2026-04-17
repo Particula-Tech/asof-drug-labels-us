@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA205410"
+  ],
+  "inn": "propranolol",
+  "labeler": "Eton Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "71863-132-12",
+    "71863-132-50"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "propranolol hydrochloride",
+      "name": "HEMANGEOL"
+    }
+  ],
+  "setid": "4f8341ee-dac6-1ca9-e063-6394a90ac960",
+  "source": "dailymed"
+}
