@@ -46,6 +46,4 @@ Novaplus is a registered trademark of Vizient, Inc.
 
 novaplus+
 
-Revised February 2024
-
-462-568-13
+462-568-14
