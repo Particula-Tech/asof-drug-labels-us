@@ -2,7 +2,11 @@
 
 NDC 0378-0211-01
 
-Chlordiazepoxide and Amitriptyline HCl Tablets, USP CIV 5 mg/ 12.5 mg*
+Chlordiazepoxide and Amitriptyline HCl Tablets, USP
+
+CIV
+
+5 mg/ 12.5 mg*
 
 Rx only 100 Tablets
 
@@ -23,19 +27,23 @@ Usual Dosage: See accompanying prescribing information.
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-3448/0
+3448/1
 
-RALP0211A
+RALP0211A1
 
 # PRINCIPAL DISPLAY PANEL – 10 mg/25 mg
 
 NDC 0378-0277-01
 
-Chlordiazepoxide and Amitriptyline HCl Tablets, USP CIV 10 mg/ 25 mg*
+Chlordiazepoxide and Amitriptyline HCl Tablets, USP
+
+CIV
+
+10 mg/ 25 mg*
 
 Rx only 100 Tablets
 
@@ -56,10 +64,10 @@ Usual Dosage: See accompanying prescribing information.
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-3450/0
+3450/1
 
-RALP0277A
+RALP0277A1
