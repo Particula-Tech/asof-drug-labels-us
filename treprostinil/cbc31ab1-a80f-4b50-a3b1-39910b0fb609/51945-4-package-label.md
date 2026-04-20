@@ -48,7 +48,7 @@ Each ampule of TYVASO contains: treprostinil 1.74 mg.
 Each ampule also contains 18.9 mg sodium chloride, 18.3 mg sodium citrate dihydrate, 0.6 mg sodium hydroxide, 11.7 mg 1N hydrochloric acid, and water for injection.
 Hydrochloric acid and sodium hydroxide may have been added to adjust pH.
 
-- +One new ampule should be used each day.
+- + One new ampule should be used each day.
   Each ampule of TYVASO (once opened and transferred to the medicine cup) should remain in the device for no more than 1 day.
   Any remaining TYVASO and the medicine cup should be discarded at the end of each day.
 - +Once a foil pouch is opened, use ampules within 7 days.
@@ -59,12 +59,22 @@ Patient Starter Kit For Single Patient Use Only.
 Keep out of the reach of children.
 NDC 66302-206-01 Rx only
 
-Manufactured by United Therapeutics Corporation Research Triangle Park, NC 27709
+Manufactured by United Therapeutics Corporation Durham, NC 27713
 
-United Therapeutics CORPORATION
+United Therapeutics A PUBLIC BENEFIT CORPORATION
 
 102129 Rev.
-01/2024
+01/2026
+
+MATERIAL: 102132
+
+LOT: 2102958
+
+EXP: 2028 – AUG
+
+Device SN#1: 25083422
+
+Device SN#2: 25083257
 
 # PRINCIPAL DISPLAY PANEL - Refill Kit
 
@@ -79,7 +89,7 @@ See package insert and Instructions for Use manual for dosage and administration
 
 | CONTENTS | QTY | CONTENTS | QTY |
 | --- | --- | --- | --- |
-| +28 ampule carton of TYVASO (seven foil pouches each containing four 2.9 mL ampules) | 1 | +Filter membranes | 65 |
+| +28 ampule carton of TYVASO (seven foil pouches, each containing four 2.9 mL ampules) | 1 | +Filter membranes | 65 |
 | +Set of Dome assembly, Inhalation piece, Mouthpiece, and 2 Filter shells | 1 | +Plugs for storage between treatment sessions | 2 |
 | +Medicine cups | 32 | +Treatment Tracker | 1 |
 
@@ -98,12 +108,12 @@ Keep out of the reach of children.
 
 NDC 66302-206-02 Rx only
 
-Manufactured for United Therapeutics Corporation Research Triangle Park, NC 27709
+Manufactured by United Therapeutics Corporation Durham, NC 27713
 
-United Therapeutics CORPORATION
+United Therapeutics A PUBLIC BENEFIT CORPORATION
 
 102136 Rev.
-01/2024
+01/2026
 
 LOT XXXXXXX EXP YYYY-MMM GTIN XXXXXXXXXXXXXX S/N XXXXXXXXXXXX
 
@@ -135,16 +145,26 @@ Hydrochloric acid and sodium hydroxide may have been added to adjust pH.
   Each ampule of TYVASO (once opened and transferred to the medicine cup) should remain in the device for no more than 1 day.
   Any remaining TYVASO and the medicine cup should be discarded at the end of each day.
 - +Once a foil pouch is opened, use ampules within 7 days.
-- + Store unused ampules of TYVASO in the foil pouch until use, protected from light.
+- +Store unused ampules of TYVASO in the foil pouch until use, protected from light.
 - +Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Institutional Starter Kit For Single Patient Use Only.
 Keep out of the reach of children.
 NDC 66302-206-04 Rx only
 
-Manufactured by United Therapeutics Corporation Research Triangle Park, NC 27709
+Manufactured by United Therapeutics Corporation Durham, NC 27713
 
-United Therapeutics CORPORATION
+United Therapeutics A PUBLIC BENEFIT CORPORATION
 
 102130 Rev.
-01/2024
+01/2026
+
+MATERIAL: 102133
+
+LOT: 2102764
+
+EXP: 2027 – SEP
+
+Device SN#1: 25078743
+
+Device SN#2: 25078749

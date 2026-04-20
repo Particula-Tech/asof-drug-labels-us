@@ -65,16 +65,12 @@ Always ask your doctor or specialty pharmacy provider if you have any questions 
 | --- |
 
 Your doctor has prescribed TYVASO® (treprostinil) Inhalation Solution.
-Please see the accompanying Patient Information for important safety information on TYVASO.
-
-TYVASO is a prescription medicine used in adults to treat pulmonary arterial hypertension (PAH; WHO Group 1) and pulmonary hypertension associated with interstitial lung disease (PH-ILD; WHO Group 3), which are diseases causing high blood pressure in the arteries of your lungs.
-TYVASO can improve exercise ability.
-The effects decrease over 4 hours; treatment timing can be adjusted for planned activities.
+Please see the accompanying Prescribing Information for important safety information on TYVASO.
 
 TYVASO is breathed in (inhaled) using the TYVASO Inhalation System, which consists of the inhalation device and its accessories.
 
 This Instructions for Use manual for the TYVASO Inhalation System provides important safety information.
-It is important that you read these instructions and the TYVASO Patient Information before setting up and using the TYVASO Inhalation System.
+It is important that you read these instructions and the TYVASO Prescribing Information before setting up and using the TYVASO Inhalation System.
 If you have any questions, talk to your doctor or specialty pharmacy provider.
 
 Before beginning treatment with TYVASO, you will receive either a Patient Starter Kit containing a 28-day supply of TYVASO or an Institutional Starter Kit containing a 4-day supply of medication.
@@ -641,7 +637,7 @@ Important:
 For further support, you can:
 
 - Fill out and refer to your emergency contact information on the back of this Instructions for Use manual.
-- Call 1-877-UNITHER (1-877-864-8437) for questions and information, or to report an adverse reaction.
+- Call 1-844-UNITHER (1-844-864-8437) for questions and information, or to report an adverse reaction.
 
 | A: Storing between sessions during the day |
 | --- |
@@ -858,7 +854,7 @@ Important:
 For further support, you can:
 
 - Fill out and refer to your emergency contact information on the back of this Instructions for Use manual.
-- Call 1-877-UNITHER (1-877-864-8437) for questions and information, or to report an adverse reaction.
+- Call 1-844-UNITHER (1-844-864-8437) for questions and information, or to report an adverse reaction.
 
 | A: Troubleshooting |
 | --- |
@@ -1092,11 +1088,11 @@ TYVASO Inhalation Solution is for prescription use only.
 | ▶ Specialty pharmacist: |
 | ▶ United Therapeutics: |
 
-For further questions and information, or to report a problem with your device or an adverse event with your TYVASO Inhalation System, please call 1-877-UNITHER (1-877-864-8437).
+For further questions and information, or to report a problem with your device or an adverse event with your TYVASO Inhalation System, please call 1-844-UNITHER (1-844-864-8437).
 
-Distributed by: United Therapeutics Corporation Research Triangle Park, North Carolina 27709
+Distributed by: United Therapeutics Corporation Durham, North Carolina 27713
 
-© 2024, United Therapeutics Corporation.
+© 2025, United Therapeutics Corporation.
 All rights reserved.
 
 102131
@@ -1105,4 +1101,4 @@ TYVASO is a registered trademark of United Therapeutics Corporation.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: January 2024
+Revised: October 2025
