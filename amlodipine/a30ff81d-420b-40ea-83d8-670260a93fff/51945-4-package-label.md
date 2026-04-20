@@ -30,7 +30,7 @@ Swallow tablets whole.
 
 Do not cut, crush or chew tablets.
 
-RxOnly
+Rx Only
 
 30 Tablets
 
@@ -48,6 +48,6 @@ Swallow tablets whole.
 
 Do not cut, crush or chew tablets.
 
-RxOnly
+Rx Only
 
 30 Tablets
