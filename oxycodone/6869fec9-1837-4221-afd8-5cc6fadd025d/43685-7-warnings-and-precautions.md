@@ -17,12 +17,14 @@ As an opioid, Oxycodone Hydrochloride Oral Solution exposes users to the risks o
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed Oxycodone Hydrochloride Oral Solution.
 Addiction can occur at recommended dosages and if the drug is misused or abused.
+The risk of opioid-related overdose or overdose-related death is increased with higher opioid doses, and this risk persists over the course of therapy.
+In postmarketing studies, addiction, abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use [see Adverse Reactions (6)].
 
 Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing Oxycodone Hydrochloride Oral Solution, and reassess all patients receiving Oxycodone Hydrochloride Oral Solution for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as Oxycodone Hydrochloride Oral Solution but use in such patients necessitates intensive counseling about the risks and proper use of Oxycodone Hydrochloride Oral Solution along with frequent reevaluation for signs of addiction, abuse, and misuse.
-Consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+Consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
 
 Opioids are sought for nonmedical use and are subject to diversion from legitimate prescribed use.
 Consider these risks when prescribing or dispensing Oxycodone Hydrochloride Oral Solution.
@@ -33,13 +35,14 @@ Contact local state professional licensing board or state-controlled substances 
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agents depending on the patient's clinical status [see Overdosage (10)].
 Carbon dioxide (C02) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of Oxycodone Hydrochloride Oral Solution, the risk is greatest during the initiation of therapy or following a dosage increase.
 
 To reduce the risk of respiratory depression, proper dosing and titration of Oxycodone Hydrochloride Oral Solution are essential [see Dosage and Administration (2)].
 Over estimating the Oxycodone Hydrochloride Oral Solution dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
+
 Oxycodone Hydrochloride Oral Solution 100 mg per 5 mL (20 mg/mL) is for use in opioid-tolerant patients only.
 Administration of this formulation may cause fatal respiratory depression when administered to patients who are not tolerant to the respiratory depressant effects of opioids.
 
@@ -51,21 +54,23 @@ Opioids can cause sleep-related breathing disorders including central sleep apne
 Opioid use increases the risk of CSA in a dose-dependent fashion.
 In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.5)].
 
-Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with Oxycodone Hydrochloride Oral Solution.
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered.
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+The presence of risk factors for overdose should not prevent the management of pain in any patient [see Warnings and Precautions (5.2, 5.4)].
 
-Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
-If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone.
-[see Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.4), Overdosage (10)].
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program).
+
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
+
+Educate patients and caregivers on how to recognize respiratory depression, and how to use an opioid overdose reversal agent for the emergency treatment of opioid overdose.
+Emphasize the importance of calling 911 or getting emergency medical help, even if an opioid overdose reversal agent is administered [see Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.4), Overdosage (10)].
 
 ## 5.4 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Oxycodone Hydrochloride Oral Solution with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Oxycodone Hydrochloride Oral Solution with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-­benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -76,7 +81,7 @@ In patients already receiving an opioid analgesic, prescribe a lower initial dos
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Inform patients and caregivers of this potential interaction and educate them on the signs and symptoms of respiratory depression (including sedation).
 
-If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3), Overdosage (10)].
+If concomitant use is warranted, consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.3), Overdosage (10)].
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when Oxycodone Hydrochloride Oral Solution is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
@@ -85,7 +90,7 @@ Screen patients for risk of substance use disorders, including opioid abuse and 
 ## 5.5 Neonatal Opioid Withdrawal Syndrome
 
 Use of Oxycodone Hydrochloride Oral Solution for an extended period of time during pregnancy can result in withdrawal in the neonate.
-Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
+Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life­-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
 Advise pregnant women using opioids for an extended period of time of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1)].
 
@@ -110,7 +115,7 @@ Concomitant use of Oxycodone Hydrochloride Oral Solution with a CYP3A4 inhibitor
 Similarly, discontinuation of a CYP3A4 inducer, such as rifampin, carbamazepine, and phenytoin, in Oxycodone Hydrochloride Oral Solution-treated patients may increase oxycodone plasma concentrations and prolong opioid adverse reactions.
 When using Oxycodone Hydrochloride Oral Solution with CYP3A4 inhibitors or discontinuing CYP3A4 inducers in Oxycodone Hydrochloride Oral Solution-treated patients, evaluate patients at frequent intervals and consider dosage reduction of Oxycodone Hydrochloride Oral Solution until stable drug effects are achieved [see Dosage and Administration (2.1), Drug Interactions (7)].
 
-Concomitant use of Oxycodone Hydrochloride Oral Solution with CYP3A4 inducers or discontinuation of an CYP3A4 inhibitor could decrease oxycodone plasma concentrations, decrease opioid efficacy or, possibly, lead to a withdrawal syndrome in a patient who had developed physical dependence to oxycodone.
+Concomitant use of Oxycodone Hydrochloride Oral Solution with CYP3A4 inducers or discontinuation of a CYP3A4 inhibitor could decrease oxycodone plasma concentrations, decrease opioid efficacy or, possibly, lead to a withdrawal syndrome in a patient who had developed physical dependence to oxycodone.
 When using Oxycodone Hydrochloride Oral Solution with CYP3A4 inducers or discontinuing CYP3A4 inhibitors, evaluate patients at frequent intervals and consider increasing the opioid dosage if needed to maintain adequate analgesia or if symptoms of opioid withdrawal occur [see Dosage and Administration (2.1), Drug Interactions (7)].
 
 ## 5.8 Opioid-Induced Hyperalgesia and Allodynia
@@ -163,7 +168,7 @@ Monitor such patients for signs of sedation and respiratory depression, particul
 Opioids may also obscure the clinical course in a patient with a head injury.
 Avoid the use of Oxycodone Hydrochloride Oral Solution in patients with impaired consciousness or coma.
 
-## 5.13 Risks of Use in Patients with Gastrointestinal Conditions
+## 5.13 Risks of Gastrointestinal Complications
 
 Oxycodone Hydrochloride Oral Solution is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
@@ -171,13 +176,18 @@ The oxycodone in Oxycodone Hydrochloride Oral Solution may cause spasm of the sp
 Opioids may cause increases in serum amylase.
 Regularly evaluate patients with biliary tract disease, including acute pancreatitis for worsening symptoms.
 
+Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
+The risk of OIED may increase as the dose and/or duration of opioids increases.
+Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain) and, if necessary, adjust opioid therapy as clinically appropriate [see Clinical Pharmacology (12.2)].
+
 ## 5.14 Increased Risk of Seizures in Patients with Seizure Disorders
 
-The oxycodone in Oxycodone Hydrochloride Oral Solution may increase the frequency of seizures in patients with seizure disorders and may increase the risk of seizures occurring in other clinical settings associated with seizures. regularly evaluate patients with a history of seizure disorders for worsened seizure control during Oxycodone Hydrochloride Oral Solution therapy.
+The oxycodone in Oxycodone Hydrochloride Oral Solution may increase the frequency of seizures in patients with seizure disorders and may increase the risk of seizures occurring in other clinical settings associated with seizures.
+Regularly evaluate patients with a history of seizure disorders for worsened seizure control during Oxycodone Hydrochloride Oral Solution therapy.
 
 ## 5.15 Withdrawal
 
-Do not abruptly discontinue Oxycodone Hydrochloride Oral Solution in a patient physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue Oxycodone Hydrochloride Oral Solution in a patient physically dependent on opioids.
 When discontinuing Oxycodone Hydrochloride Oral Solution in a physically-dependent patient, gradually taper the dosage.
 Rapid tapering of oxycodone in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.5), Drug Abuse and Dependence (9.3)].
 

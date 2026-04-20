@@ -12,6 +12,7 @@ Because the use of Oxycodone Hydrochloride Oral Solution exposes patients and ot
 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression may occur with use of Oxycodone Hydrochloride Oral Solution, especially during initiation or following a dosage increase.
+
 To reduce the risk of respiratory depression, especially during initiation or following a dose increase.
 To reduce the risk of respiratory depression, proper dosing and titration of Oxycodone Hydrochloride Oral Solution are essential [see Warnings and Precautions (5.3)].
 
@@ -26,7 +27,7 @@ Reserve concomitant prescribing of Oxycodone Hydrochloride Oral Solution and ben
 
 Neonatal Opioid Withdrawal Syndrome (NOWS)
 
-If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
+Advise pregnant women using opioids for an extended period of time of the risk of Neonatal Opioid Withdrawal Syndrome, which may be life-threatening if not recognized and treated.
 Ensure that management by neonatology experts will be available at delivery [see Warnings and Precautions (5.5)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
@@ -37,4 +38,4 @@ Cytochrome P450 3A4 Interaction
 
 The concomitant use of Oxycodone Hydrochloride Oral Solution with all cytochrome P450 3A4 inhibitors may result in an increase in oxycodone plasma concentrations, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
 In addition, discontinuation of a concomitantly used cytochrome P450 3A4 inducer may result in an increase in oxycodone plasma concentration.
-Regularly evaluate patients receiving Oxycodone Hydrochloride Oral Solution and any CYP3A4 inhibitor or inducer [see Warnings and Precautions (5.7 Drug Interactions (7), Clinical Pharmacology (12.3)].
+Regularly evaluate patients receiving Oxycodone Hydrochloride Oral Solution and any CYP3A4 inhibitor or inducer [see Warnings and Precautions (5.7), Drug Interactions (7), Clinical Pharmacology (12.3)].

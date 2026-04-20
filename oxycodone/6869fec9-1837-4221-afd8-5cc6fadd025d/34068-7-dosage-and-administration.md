@@ -3,7 +3,7 @@
 ## 2.1 Important Dosage and Administration Instructions
 
 Oxycodone Hydrochloride Oral Solution is available in two concentrations: 5 mg per 5 mL (1 mg/mL), and 100 mg per 5 mL (20 mg/mL).
-Oxycodone Hydrochloride Oral Solution 100 mg per 5 mL (20 mg/mL) is for use in only opioid-tolerant patients who have already been receiving opioid therapy.
+Oxycodone Hydrochloride Oral Solution 100 mg per 5 mL (20 mg/mL) is for use in only opioid-tolerant adult patients who have already been receiving opioid therapy.
 Use this strength only for patients who have already been titrated to a stable analgesic regimen using lower strengths of oxycodone hydrochloride and who can benefit from use of a smaller volume of oral solution.
 
 Patients considered to be opioid tolerant are those who are receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
@@ -28,16 +28,16 @@ Instruct patients and caregivers to never use household teaspoons or tablespoons
 - Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with Oxycodone Hydrochloride Oral Solution.
   Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5)].
 
-## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with Oxycodone Hydrochloride Oral Solution [see Warnings and Precautions (5.3)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+The presence of risk factors for overdose should not prevent the management of pain in any patient [see Warnings and Precautions (5.2, 5.3, 5.4)].
 
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.2)].
 
-Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.2, 5.3, 5.4].
-
-Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
 ## 2.3 Initial Dosage
 
@@ -86,16 +86,15 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 ## 2.5 Safe Reduction or Discontinuation of Oxycodone Hydrochloride Oral Solution
 
-Do not abruptly discontinue Oxycodone Hydrochloride Oral Solution in patients who may be physically dependent on opioids.
-Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
-Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Do not rapidly reduce or abruptly discontinue Oxycodone Hydrochloride Oral Solution in patients who may be physically dependent on opioids.
+Rapid reduction or abrupt discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid reduction or abrupt discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
 When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking Oxycodone Hydrochloride Oral Solution, there are a variety of factors that should be considered, including the total daily dose of opioid (including Oxycodone Hydrochloride Oral Solution) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
 It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
 When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
 Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.
-
 Complex patients with co-morbid pain and substance use disorders may benefit from referral to a specialist.
 
 There are no standard opioid tapering schedules that are suitable for all patients.
