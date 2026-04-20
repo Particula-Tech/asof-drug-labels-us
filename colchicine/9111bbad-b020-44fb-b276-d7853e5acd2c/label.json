@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA210633"
+  ],
+  "inn": "colchicine",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-341-07",
+    "33342-341-11",
+    "33342-341-15",
+    "33342-341-42"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "colchicine",
+      "name": "Colchicine"
+    }
+  ],
+  "setid": "9111bbad-b020-44fb-b276-d7853e5acd2c",
+  "source": "dailymed"
+}
