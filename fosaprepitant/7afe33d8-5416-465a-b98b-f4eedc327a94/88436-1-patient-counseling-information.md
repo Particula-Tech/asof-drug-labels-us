@@ -16,13 +16,13 @@ Instruct patients to use effective alternative or back-up methods of contracepti
 
 Manufactured by:
 
-OneSource Specialty Pharma Limited
+Steriscience Sp. z o.o.
 
-Sterile Product Division, Opp IIM, Bilekahalli,
+No. 10, Daniszewsk Street,
 
-Bannerghatta Road, Bengaluru, India 560076
+Warsaw, Poland – 03-230
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-07/2025
+04/2026

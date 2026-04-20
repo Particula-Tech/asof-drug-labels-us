@@ -78,7 +78,7 @@ a Dosing in pediatric patients less than 6 kg is not recommended b The concentra
 Additional pediatric use information is approved for Merck Sharp & Dohme LLC’s EMEND (fosaprepitant) for injection.
 However, due to Merck Sharp & Dohme LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
 
-## 2.3 Preparation of FOCINVEZ
+## 2.3 Preparation and Administration of FOCINVEZ
 
 FOCINVEZ is ready-to-use for intravenous infusion.
 The concentration of FOCINVEZ is 3 mg/mL.
@@ -109,5 +109,7 @@ Note: Do not exceed the maximum dose﻿ [see Dosage and Administration (2.2)]
 - Use a vented infusion set when FOCINVEZ is infused from the bottle.
 - Thevialhangercanbeseparated from the vial label.
 - Gently invert the bottle and hang the bottle using the attached hanger and start infusion.
+- FOCINVEZ is compatible with 0.9% Sodium Chloride Injection
 - Caution: Do not mix FOCINVEZ with solutions for which physical and chemical compatibility have not been established.
-  FOCINVEZ is incompatible with any solutions containing divalent cations (e.g., Ca2+, Mg2+), including Lactated Ringer’s Solution and Hartmann's Solution.
+- Following administration of FOCINVEZ, flush the IV set with a sufficient volume of 0.9% Sodium Chloride Injection to ensure the full length of the tubing and catheter lumen is completely cleared of residual medication to prevent precipitation.
+- Proceed with the administration of other medications through the same line only after the line has been completely flushed.
