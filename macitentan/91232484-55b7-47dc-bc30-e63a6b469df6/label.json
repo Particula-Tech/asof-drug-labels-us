@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211136"
+  ],
+  "inn": "macitentan",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-8135-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "macitentan",
+      "name": "macitentan"
+    }
+  ],
+  "setid": "91232484-55b7-47dc-bc30-e63a6b469df6",
+  "source": "dailymed"
+}
