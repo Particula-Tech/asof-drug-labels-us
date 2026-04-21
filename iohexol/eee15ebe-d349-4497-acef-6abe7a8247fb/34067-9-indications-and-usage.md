@@ -32,8 +32,8 @@ OMNIPAQUE is indicated for:
 
 OMNIPAQUE is indicated for:
 
-- Radiographic examination of the gastrointestinal (GI) tract in adults and pediatric patients
-- CT of the abdomen and pelvis in conjunction with intravenous administration of OMNIPAQUE in adults and pediatric patients
+- Radiographic examination of the gastrointestinal (GI) tract by oral administration in adult patients and by oral or rectal administration in pediatric patients
+- CT of the abdomen and pelvis by oral administration in adult and pediatric patients, in conjunction with intravenous administration of OMNIPAQUE
 
 ## 1.5 Intraarticular Procedures‡
 

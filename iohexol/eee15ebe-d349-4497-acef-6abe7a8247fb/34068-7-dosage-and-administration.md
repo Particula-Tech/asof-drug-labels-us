@@ -104,21 +104,18 @@ Recommended Concentrations and Volumes of Diluted OMNIPAQUE Injection or OMNIPAQ
 
 Preparation of Diluted OMNIPAQUE Injection for Oral Administration for CT of the Abdomen and Pelvis in Adults
 
-- Prepare the diluted OMNIPAQUE injection in water, carbonated beverage, milk, infant formula, or juice just prior to administration according to Table 5.
+- Prepare the diluted OMNIPAQUE injection in water, carbonated beverage, milk, or juice just prior to administration according to Table 5.
 - Discard any unused portion after the procedure.
 
 Table 5.
 Volumes of OMNIPAQUE Injection and Added Liquid to Dilute OMNIPAQUE Injection for Oral Administration for CT of the Abdomen in Adults
 
-| Volume of OMNIPAQUE 240 mg Iodine/mL (mL) | Volume of Added LiquidUse water, carbonated beverage, milk, infant formula, or juice. (mL) | Volume of OMNIPAQUE 300 mg Iodine/mL (mL) | Volume of Added Liquid (mL) | Volume of OMNIPAQUE 350 mg Iodine/mL (mL) | Volume of Added Liquid (mL) |  |
+| Volume of OMNIPAQUE 240 mg Iodine/mL (mL) | Volume of Added LiquidUse water, carbonated beverage, milk, or juice. (mL) | Volume of OMNIPAQUE 300 mg Iodine/mL (mL) | Volume of Added Liquid (mL) | Volume of OMNIPAQUE 350 mg Iodine/mL (mL) | Volume of Added Liquid (mL) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Concentration of Diluted OMNIPAQUE injection (mg iodine/mL) | Dilution Method 1 |  | Dilution Method 2 |  | Dilution Method 3 |  |
 | 6 | 25 | 975 | 20 | 980 | 17 | 983 |
 | 9 | 38 | 962 | 30 | 970 | 26 | 974 |
 | 12 | 50 | 950 | 40 | 960 | 35 | 965 |
-| 15 | 63 | 937 | 50 | 950 | 43 | 957 |
-| 18 | 75 | 925 | 60 | 940 | 52 | 948 |
-| 21 | 88 | 912 | 70 | 930 | 60 | 940 |
 
 ## 2.6 Recommended Dosage for Intraarticular Procedures in Adults
 
@@ -226,7 +223,7 @@ Recommended Concentrations and Volumes of Diluted OMNIPAQUE Injection or OMNIPAQ
 | Oral Dose Using Diluted OMNIPAQUE Injection |  |  |  |
 | 9 mg Iodine/mL to 21 mg Iodine/mL of Diluted OMNIPAQUE InjectionSee Table 13 for dilution instructions of OMNIPAQUE injection | 180 mL to 750 mL | Administer the oral dose all at once or over a period of up to 45 minutes if there is difficulty in consuming the required volume.Use a higher iodine concentration of the diluted product if a smaller volume needs to be administered (see Table 13). | less than 3 years old: 5 grams iodine3 years old to 18 years old: 10 grams iodine |
 | Oral Dose Using OMNIPAQUE Oral Solution |  |  |  |
-| 6 mg Iodine/mL or 12 mg Iodine/mL of OMNIPAQUE Oral Solution | 180 mL to 750 mL | Administer the oral dose all at once or over a period of up to 45 minutes if there is difficulty in consuming the required volume. | less than 3 years old: 5 grams iodine3 years old to 18 years old: 10 grams iodine |
+| 9 mg Iodine/mL or 12 mg Iodine/mL of OMNIPAQUE Oral Solution | 180 mL to 750 mL | Administer the oral dose all at once or over a period of up to 45 minutes if there is difficulty in consuming the required volume. | less than 3 years old: 5 grams iodine3 years old to 18 years old: 10 grams iodine |
 | Intravenous Dose in Conjunction with Oral Administration |  |  |  |
 | 240 or 300Use single-dose containers, 500 mL Imaging or Pharmacy Bulk Packages, or 150 mL single-dose bottles with an automated contrast injection system or contrast management system [see Dosage and Administration (2.10, 2.11, 2.12)]. | 2 mL/kg body weight (with a range of 1 mL/kg to 2 mL/kg) | Administer up to 60 minutes AFTER consumption of the oral dose. | 3 mL/kg (maximum single dose: 116 mL) |
 
@@ -241,7 +238,6 @@ Volumes of OMNIPAQUE Injection and Added Liquid to Dilute OMNIPAQUE Injection fo
 | Volume of OMNIPAQUE 240 mg iodine/mL (mL) | Volume of Added LiquidUse water, carbonated beverage, milk, infant formula, or juice. (mL) | Volume of OMNIPAQUE 300 mg Iodine/mL (mL) | Volume of Added Liquid (mL) | Volume of OMNIPAQUE 350 mg Iodine/mL (mL) | Volume of Added Liquid (mL) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Concentration of Diluted OMNIPAQUE injection (mg iodine/mL) | Dilution Method 1 |  | Dilution Method 2 |  | Dilution Method 3 |  |
-| 6 | 25 | 975 | 20 | 980 | 17 | 983 |
 | 9 | 38 | 962 | 30 | 970 | 26 | 974 |
 | 12 | 50 | 950 | 40 | 960 | 35 | 965 |
 | 15 | 63 | 937 | 50 | 950 | 43 | 957 |
