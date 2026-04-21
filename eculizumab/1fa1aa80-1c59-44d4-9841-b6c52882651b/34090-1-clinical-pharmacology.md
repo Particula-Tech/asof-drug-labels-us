@@ -36,11 +36,11 @@ Plasma exchange or infusion increased the clearance of eculizumab by approximate
 
 Specific Populations
 
-Age, Sex, and Race:
+Age, Sex, and Race
 
 The pharmacokinetics of eculizumab were not affected by age (2 months to 85 years), sex, or race.
 
-Renal Impairment:
+Renal Impairment
 
 Renal function did not affect the pharmacokinetics of eculizumab in PNH (creatinine clearance of 8 mL/min to 396 mL/min calculated using Cockcroft-Gault formula), aHUS (estimated glomerular filtration rate [eGFR] of 5 mL/min/1.73 m2 to105 mL/min/1.73 m2 using the Modification of Diet in Renal Disease [MDRD] formula), or gMG patients (eGFR of 44 mL/min/1.73 m2 to 168 mL/min/1.73 m2 using MDRD formula).
 

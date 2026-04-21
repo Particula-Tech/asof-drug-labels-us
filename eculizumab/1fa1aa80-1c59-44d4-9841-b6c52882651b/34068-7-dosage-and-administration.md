@@ -71,8 +71,10 @@ Table 3: Supplemental Dose of EPYSQLI with concomitant IVIg
 Dilute EPYSQLI to a final admixture concentration of 5 mg/mL using the following steps:
 
 - Withdraw the required amount of EPYSQLI from the vial into a sterile syringe.
-- Transfer the recommended dose to an infusion bag.
-- Dilute EPYSQLI to a final concentration of 5 mg/mL by adding the appropriate amount (equal volume of diluent to drug volume) of 0.9% Sodium Chloride Injection, USP; 0.45% Sodium Chloride Injection, USP; or 5% Dextrose in Water Injection, USP to the infusion bag.
+- Transfer the recommended dose to an infusion bag made of polyolefin (PO).
+- Dilute EPYSQLI to a final concentration of 5 mg/mL by adding the appropriate amount (equal volume of diluent to drug volume) of 0.9% Sodium Chloride Injection, USP; 0.45% Sodium Chloride Injection, USP; or 5% Dextrose Injection, USP to the infusion bag.
+
+To prevent accidental contamination, EPYSQLI should be aseptically prepared in a USP <797> compliant facility and at a minimum in an ISO Class 5 laminar flow hood.
 
 The final admixed EPYSQLI 5 mg/mL infusion volume is 60 mL for 300 mg doses, 120 mL for 600 mg doses, 180 mL for 900 mg doses or 240 mL for 1,200 mg doses (Table 4).
 
@@ -86,7 +88,21 @@ Table 4: Preparation and Reconstitution of EPYSQLI
 | 1,200 mg | 120 mL | 240 mL |
 
 Gently invert the infusion bag containing the diluted EPYSQLI solution to ensure thorough mixing of the product and diluent.
+The diluted solution should be clear to slightly opalescent, colorless to light brown.
 Discard any unused portion left in a vial, as the product contains no preservatives.
+
+Storage of Diluted Epysqli
+
+If not used immediately, store the diluted EPYSQLI solution as specified in Table 5.
+Discard if storage time exceeds these limits.
+
+Table 5: Diluted EPYSQLI Solution Storage Conditions
+
+| Diluent Used to Prepare Solution for Infusion | Diluted EPYSQLI Storage Conditions |
+| --- | --- |
+| 0.9% Sodium Chloride Injection, USP | Up to 14 days refrigerated at 2°C to 8°C (36°F to 46°F), orUp to 24 hours at room temperature [18°C to 25°C (64°F to 77°F)] |
+| 0.45% Sodium Chloride Injection, USP | Up to 14 days refrigerated at 2°C to 8°C (36°F to 46°F), orUp to 24 hours at room temperature [18°C to 25°C (64°F to 77°F)] |
+| 5% Dextrose Injection, USP | Up to 24 hours refrigerated at 2°C to 8°C (36°F to 46°F), orUp to 24 hours at room temperature [18°C to 25°C (64°F to 77°F)] |
 
 Prior to administration, the admixture should be allowed to adjust to room temperature [18°C to 25°C (64°F to 77°F)].
 The admixture must not be heated in a microwave or with any heat source other than ambient air temperature.
@@ -100,7 +116,6 @@ Only administer as an intravenous infusion.
 Do not administer as an intravenous push or bolus injection.
 
 Administer the EPYSQLI admixture by intravenous infusion over 35 minutes in adults and 1 to 4 hours in pediatric patients via gravity feed, a syringe-type pump, or an infusion pump.
-Admixed solutions of EPYSQLI are stable for 24 hours refrigerated at 2°C to 8°C (36°F to 46°F) and at room temperature.
 
 If an adverse reaction occurs during the administration of EPYSQLI, the infusion may be slowed or stopped at the discretion of the physician.
 If the infusion is slowed, the total infusion time should not exceed two hours in adults.

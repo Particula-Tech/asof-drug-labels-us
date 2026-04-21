@@ -3,7 +3,7 @@
 ## 5.1 Serious Meningococcal Infections
 
 Eculizumab products, complement inhibitors, increase a patient's susceptibility to serious, life-threatening, or fatal infections caused by meningococcal bacteria (septicemia and/or meningitis) in any serogroup, including non-groupable strains.
-Life-threatening and fatal meningococcal infections have occurred in both vaccinated and unvaccinated patients treated with complement inhibitors..
+Life-threatening and fatal meningococcal infections have occurred in both vaccinated and unvaccinated patients treated with complement inhibitors.
 The initiation of EPYSQLI treatment is contraindicated in patients with unresolved serious Neisseria meningitidis infection.
 
 Complete or update meningococcal vaccination (for serogroups A, C, W, Y, and B) at least 2 weeks prior to administration of the first dose of EPYSQLI, according to current ACIP recommendations for patients receiving a complement inhibitor.

@@ -16,9 +16,9 @@ Endpoints related to hemolysis included the numbers of patients achieving hemogl
 To achieve a designation of hemoglobin stabilization, a patient had to maintain a hemoglobin concentration above the hemoglobin set-point and avoid any RBC transfusion for the entire 26 week period.
 Hemolysis was monitored mainly by the measurement of serum LDH levels, and the proportion of PNH RBCs was monitored by flow cytometry.
 Patients receiving anticoagulants and systemic corticosteroids at baseline continued these medications.
-Major baseline characteristics were balanced (see Table 10).
+Major baseline characteristics were balanced (see Table 11).
 
-Table 10: PNH Study 1 Patient Baseline Characteristics
+Table 11: PNH Study 1 Patient Baseline Characteristics
 
 |  | Study 1 |  |
 | --- | --- | --- |
@@ -34,12 +34,12 @@ Table 10: PNH Study 1 Patient Baseline Characteristics
 | Pre-treatment LDH levels (median, U/L) | 2,234 | 2,032 |
 | Free hemoglobin at baseline (median, mg/dL) | 46 | 41 |
 
-Patients treated with eculizumab had significantly reduced (p< 0.001) hemolysis resulting in improvements in anemia as indicated by increased hemoglobin stabilization and reduced need for RBC transfusions compared to placebo treated patients (see Table 11).
+Patients treated with eculizumab had significantly reduced (p< 0.001) hemolysis resulting in improvements in anemia as indicated by increased hemoglobin stabilization and reduced need for RBC transfusions compared to placebo treated patients (see Table 12).
 These effects were seen among patients within each of the three pre-study RBC transfusion strata (4 - 14 units; 15 - 25 units; > 25 units).
 After 3 weeks of eculizumab treatment, patients reported less fatigue and improved health- related quality of life.
 Because of the study sample size and duration, the effects of eculizumab products on thrombotic events could not be determined.
 
-Table 11: PNH Study 1 Results
+Table 12: PNH Study 1 Results
 
 |  | Placebo (N=44) | Eculizumab (N=43) |
 | --- | --- | --- |
@@ -85,9 +85,9 @@ In order to qualify for enrollment, patients were required to have a platelet co
 The median patient age was 28 (range: 17 to 68 years).
 Patients enrolled in Study C08- 002A/B were required to have ADAMTS13 activity level above 5%; observed range of values in the trial were 70%-121%.
 Seventy-six percent of patients had an identified complement regulatory factor mutation or auto-antibody.
-Table 12 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C08-002A/B.
+Table 13 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C08-002A/B.
 
-Table 12: Baseline Characteristics of Patients Enrolled in Study C08-002A/B
+Table 13: Baseline Characteristics of Patients Enrolled in Study C08-002A/B
 
 | Parameter | C08-002A/B (N=17) |
 | --- | --- |
@@ -110,9 +110,9 @@ When treatment was continued for more than 26 weeks, two additional patients ach
 Hematologic Normalization and Complete TMA response were maintained by all responders.
 In Study C08-002A/B, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins.
 
-Table 13 summarizes the efficacy results for Study C08-002A/B.
+Table 14 summarizes the efficacy results for Study C08-002A/B.
 
-Table 13: Efficacy Results for Study C08-002A/B
+Table 14: Efficacy Results for Study C08-002A/B
 
 | Efficacy Parameter | Study C08-002A/B at 26 wks1 (N=17) | Study C08-002A/B at 2 yrs2 (N=17) |
 | --- | --- | --- |
@@ -132,9 +132,9 @@ Patients on chronic dialysis were permitted to enroll in Study C08- 003A/B.
 The median patient age was 28 years (range: 13 to 63 years).
 Patients enrolled in Study C08- 003A/B were required to have ADAMTS13 activity level above 5%; observed range of values in the trial were 37%-118%.
 Seventy percent of patients had an identified complement regulatory factor mutation or auto-antibody.
-Table 14 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C08-003A/B.
+Table 15 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C08-003A/B.
 
-Table 14: Baseline Characteristics of Patients Enrolled in Study C08-003A/B
+Table 15: Baseline Characteristics of Patients Enrolled in Study C08-003A/B
 
 | Parameter | Study C08-003A/B (N=20) |
 | --- | --- |
@@ -158,9 +158,9 @@ When treatment was continued for more than 26 weeks, six additional patients ach
 Complete TMA Response and Hematologic Normalization were maintained by all responders.
 In Study C08-003A/B, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins.
 
-Table 15 summarizes the efficacy results for Study C08-003A/B.
+Table 16 summarizes the efficacy results for Study C08-003A/B.
 
-Table 15: Efficacy Results for Study C08-003A/B
+Table 16: Efficacy Results for Study C08-003A/B
 
 | Efficacy Parameter | Study C08-003A/B at 26 wks1 (N=20) | Study C08-003A/B at 2 yrs2 (N=20) |
 | --- | --- | --- |
@@ -184,10 +184,10 @@ A total of 19 pediatric patients (ages 2 months to 17 years) received eculizumab
 The median duration of eculizumab therapy was 16 weeks (range 4 to 70 weeks) for children <2 years of age (n=5), 31 weeks (range 19 to 63 weeks) for children 2 to <12 years of age (n=10), and 38 weeks (range 1 to 69 weeks) for patients 12 to <18 years of age (n=4).
 Fifty-three percent of pediatric patients had an identified complement regulatory factor mutation or auto-antibody.
 
-Overall, the efficacy results for these pediatric patients appeared consistent with what was observed in patients enrolled in Studies C08-002A/B and C08-003A/B (Table 16).
+Overall, the efficacy results for these pediatric patients appeared consistent with what was observed in patients enrolled in Studies C08-002A/B and C08-003A/B (Table 17).
 No pediatric patient required new dialysis during treatment with eculizumab.
 
-Table 16: Efficacy Results in Pediatric Patients Enrolled in Study C09-001r
+Table 17: Efficacy Results in Pediatric Patients Enrolled in Study C09-001r
 
 | Efficacy Parameter | <2 yrs (N=5) | 2 to <12 yrs (N=10) | 12 to <18 yrs (N=4) | Total (N=19) |
 | --- | --- | --- | --- | --- |
@@ -207,9 +207,9 @@ The median patient age was 35 (range: 18 to 80 years).
 All patients enrolled in Study C10-004 were required to have ADAMTS13 activity level above 5%; observed range of values in the trial were 28%-116%.
 Fifty-one percent of patients had an identified complement regulatory factor mutation or auto-antibody.
 A total of 35 patients received PE/PI prior to eculizumab.
-Table 17 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C10-004.
+Table 18 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C10-004.
 
-Table 17: Baseline Characteristics of Patients Enrolled in Study C10-004
+Table 18: Baseline Characteristics of Patients Enrolled in Study C10-004
 
 | Parameter | Study C10-004 (N=41) |
 | --- | --- |
@@ -230,9 +230,9 @@ Eculizumab reduced signs of complement-mediated TMA activity, as shown by an inc
 In Study C10- 004, mean platelet count (± SD) increased from 119 ± 66 x109/L at baseline to 200 ± 84 x109/L by one week; this effect was maintained through 26 weeks (mean platelet count (± SD) at week 26: 252 ± 70 x109/L).
 In Study C10-004, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins or auto-antibodies to factor H.
 
-Table 18 summarizes the efficacy results for Study C10-004.
+Table 19 summarizes the efficacy results for Study C10-004.
 
-Table 18: Efficacy Results for Study C10-004
+Table 19: Efficacy Results for Study C10-004
 
 | Efficacy Parameter | Study C10-004 (N=41) |
 | --- | --- |
@@ -249,9 +249,9 @@ The median patient age was 6.5 (range: 5 months to 17 years).
 Patients enrolled in Study C10-003 were required to have ADAMTS13 activity level above 5%; observed range of values in the trial were 38%-121%.
 Fifty percent of patients had an identified complement regulatory factor mutation or auto-antibody.
 A total of 10 patients received PE/PI prior to eculizumab.
-Table 19 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C10-003.
+Table 20 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C10-003.
 
-Table 19: Baseline Characteristics of Patients Enrolled in Study C10-003
+Table 20: Baseline Characteristics of Patients Enrolled in Study C10-003
 
 | Parameter | Patients 1 month to <12 years (N=18) | All Patients (N=22) |
 | --- | --- | --- |
@@ -275,9 +275,9 @@ Eculizumab reduced signs of complement-mediated TMA activity, as shown by an inc
 The mean platelet count (± SD) increased from 88 ± 42 x109/L at baseline to 281 ± 123 x109/L by one week; this effect was maintained through 26 weeks (mean platelet count (±SD) at week 26: 293 ± 106 x109/L).
 In Study C10-003, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins or auto-antibodies to factor H.
 
-Table 20 summarizes the efficacy results for Study C10-003.
+Table 21 summarizes the efficacy results for Study C10-003.
 
-Table 20: Efficacy Results for Study C10-003
+Table 21: Efficacy Results for Study C10-003
 
 | Efficacy Parameter | Patients 1 month to <12 years (N=18) | All Patients (N=22) |
 | --- | --- | --- |
@@ -314,9 +314,9 @@ The QMG is a 13-item categorical scale assessing muscle weakness.
 Each item is assessed on a 4-point scale where a score of 0 represents no weakness and a score of 3 represents severe weakness (total score 0-39).
 A statistically significant difference favoring eculizumab was observed in the mean change from baseline to Week 26 in QMG total scores [-4.6 points in the eculizumab-treated group compared with -1.6 points in the placebo-treated group (p=0.001)].
 
-The results of the analysis of the MG-ADL and QMG from Study ECU-MG-301 are shown in Table 21.
+The results of the analysis of the MG-ADL and QMG from Study ECU-MG-301 are shown in Table 22.
 
-Table 21: Analysis of Change from Baseline to Week 26 in MG-ADL and QMG Total Scores in Study ECU-MG-301
+Table 22: Analysis of Change from Baseline to Week 26 in MG-ADL and QMG Total Scores in Study ECU-MG-301
 
 | Efficacy Endpoints | Eculizumab-LS Mean (N=62) (SEM) | Placebo-LS Mean (N=63) (SEM) | Eculizumab change relative to placebo – LS Mean Difference (95% CI) | p-values |
 | --- | --- | --- | --- | --- |
