@@ -22,6 +22,9 @@ Placebo-Corrected Change From Baseline in 6-Minute Walk Distance (meters) at Wee
 
 Key: PAH = pulmonary arterial hypertension; CTD = connective tissue disease; PH = pulmonary hypertension; PAP = pulmonary arterial pressure; PVRI = pulmonary vascular resistance index; TID = three times daily.
 
+SUPER-2 (NCT00159887) Long-term Treatment of PAH In a long-term follow-up of patients who were treated with sildenafil (n=277), K-M estimates of survival at 1, 2, and 3 years were 94%, 88%, and 79%, respectively.
+These uncontrolled observations do not allow comparison with a group not given sildenafil and cannot be used to determine the long term-effect of sildenafil on mortality.
+
 PACES-1 (NCT00159861) - Sildenafil Co-administered with Epoprostenol A randomized, double-blind, placebo-controlled study (PACES-1) was conducted in 267 patients with PAH who were taking stable doses of intravenous epoprostenol.
 Patients had to have a mean pulmonary artery pressure (mPAP) greater than or equal to 25 mmHg and a pulmonary capillary wedge pressure (PCWP) less than or equal to 15 mmHg at rest via right heart catheterization within 21 days before randomization, and a baseline 6-minute walk test distance greater than or equal to 100 meters and less than or equal to 450 meters (mean 349 meters).
 Patients were randomized to placebo or sildenafil (in a fixed titration starting from 20 mg to 40 mg and then 80 mg, three times a day) and all patients continued intravenous epoprostenol therapy.

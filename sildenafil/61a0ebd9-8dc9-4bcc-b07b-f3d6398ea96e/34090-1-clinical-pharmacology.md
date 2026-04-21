@@ -23,7 +23,7 @@ Changes from Baseline in Hemodynamic Parameters at Week 12 [mean (95% CI)] for t
 
 |  | Placebo (n = 65)* | Sildenafil Tablets 20 mg (n = 65)* |
 | --- | --- | --- |
-| mPAP (mmHg) | 0.6 (-0.8, 2.0) | -2.1 (-4.3, 0.0) |
+| mPAP (mmHg) | 0.6 (-0.8, 2) | -2.1 (-4.3, 0.0) |
 | PVR (dyn.s/cm5) | 49 (-54, 153) | -122 (-217, -27) |
 | SVR (dyn.s/cm5) | -78 (-197, 41) | -167 (-307, -26) |
 | RAP (mmHg) | 0.3 (-0.9, 1.5) | -0.8 (-1.9, 0.3) |
@@ -39,7 +39,7 @@ Similar effects on blood pressure were noted with 25 mg, 50 mg, and 100 mg doses
 Larger effects were recorded among patients receiving concomitant nitrates [see Contraindications (4)].
 Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no clinically relevant effects on electrocardiogram (ECG).
 After chronic dosing of 80 mg three times a day to patients with PAH, no clinically relevant effects on ECG were reported.
-After chronic dosing of 80 mg three times a day sildenafil to healthy volunteers, the largest mean change from baseline in supine systolic and supine diastolic blood pressures was a decrease of 9.0 mmHg and 8.4 mmHg, respectively.
+After chronic dosing of 80 mg three times a day sildenafil to healthy volunteers, the largest mean change from baseline in supine systolic and supine diastolic blood pressures was a decrease of 9 mmHg and 8.4 mmHg, respectively.
 After chronic dosing of 80 mg three times a day sildenafil to patients with systemic hypertension, the mean change from baseline in systolic and diastolic blood pressures was a decrease of 9.4 and 9.1 mmHg, respectively.
 After chronic dosing of 80 mg three times a day sildenafil to patients with PAH, lesser reductions than above in systolic and diastolic blood pressures were observed (a decrease in both of 2 mmHg).
 Effects of Sildenafil on Vision At single oral doses of 100 mg and 200 mg, transient dose-related impairment of color discrimination (blue/green) was detected using the Farnsworth-Munsell 100-hue test, with peak effects near the time of peak plasma levels.

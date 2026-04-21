@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Sildenafil (sil-DEN-a-fil) Tablets
+Sildenafil (sil-den'-a-fil) Tablets
 
 What is the most important information I should know about sildenafil tablets?
 Never take sildenafil tablets with any nitrate or guanylate cyclase stimulator medicines. • Your blood pressure could drop quickly to an unsafe level.
@@ -72,5 +72,7 @@ Pediatric use information is approved for Viatris Specialty LLC's, REVATIO (sild
 However, due to Viatris Specialty LLC's marketing exclusivity rights, this drug product is not labeled with that information.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-VIAGRA® is registered trademark of Pfizer Inc. All other trademarks herein are the property of their respective owners.
-Manufactured for: Macleods Pharma USA, Inc. Princeton, NJ 08540 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA Revised: July 2024
+All other trademarks herein are the property of their respective owners.
+Manufactured for: Macleods Pharma USA, Inc. Princeton, NJ 08540 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh 174101 INDIA
+
+Revised: June 2025

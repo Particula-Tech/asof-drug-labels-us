@@ -8,3 +8,5 @@ Sildenafil citrate, USP is a white to off-white crystalline powder with a solubi
 Sildenafil Tablets USP, 20 mg: Sildenafil tablets are formulated as white to off white, film-coated round tablets for oral administration.
 Each tablet contains sildenafil citrate equivalent to 20 mg of sildenafil.
 In addition to the active ingredient, sildenafil citrate, USP each tablet contains the following inactive ingredients: microcrystalline cellulose, dibasic calcium phosphate dihydrate, croscarmellose sodium, magnesium stearate, hypromellose, titanium dioxide and triacetin.
+
+FDA approved dissolution test specifications differ from USP.
