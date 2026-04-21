@@ -28,18 +28,18 @@ Clinical evaluation and periodic laboratory determinations are necessary to moni
 
 ## Drug Interactions:
 
-### Pharmacodynamics Interactions
+### Pharmacodynamic Interactions
 
 Digitalis derivatives: Monitor toxicity when lidocaine is used in patients with digitalis toxicity accompanied by supraventricular arrhythmia and/or atrioventricular block (see Contraindications).
 
 When lidocaine is administered with other antiarrhythmic drugs such as amiodarone, phenytoin, procainamide, propranolol or quinidine, the cardiac effects may be additive or antagonistic and toxic effects may be additive.
 
-### Pharmacokinetics Interactions
+### Pharmacokinetic Interactions
 
 Concomitant treatment with drugs which are inhibitors of CYP1A2 and/or CYP3A4 has the potential to increase lidocaine plasma levels by decreasing lidocaine clearance and thereby prolonging the elimination half-life.
 Monitor toxicity when administering lidocaine with CYP1A2 and/or CYP3A4 inhibitors.
 
-Concomitant use of lidocaineat steady-state concentrations of the CYP1A2 inhibitor fluvoxamine increases intravenous lidocaine plasma AUC and Cmax by 71% and 22%, and decreases MEGX AUC and Cmax by 54% and 65%.
+Concomitant use of lidocaine at steady-state concentrations of the CYP1A2 inhibitor fluvoxamine increases intravenous lidocaine plasma AUC and Cmax by 71% and 22%, and decreases MEGX AUC and Cmax by 54% and 65%.
 Fluvoxamine decreases the plasma clearance of lidocaine by 41%-60% and prolonged the mean half-life by one hour.
 Monitor toxicity when coadministering these medications.
 

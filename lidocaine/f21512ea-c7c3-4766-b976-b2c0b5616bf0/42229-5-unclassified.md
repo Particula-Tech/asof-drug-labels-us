@@ -2,9 +2,9 @@ Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Printed in USA
 
-07-19-76-975
+07-19-01-0143
 
 Rev.
-February 2017
+Feb 2026
 
-BAXTER, VIAFLEX, and PL 146 are trademarks of Baxter International Inc.
+BAXTER and Viaflex Plus are trademarks of Baxter International Inc. or its subsidiaries.

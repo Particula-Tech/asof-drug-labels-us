@@ -43,6 +43,6 @@ Lidocaine must not be infused simultaneously through the same tubing with other 
 
 Set the vent to the close position on a vented intravenous administration set to prevent air embolism.
 
-All injections in VIAFLEX Plus plastic containers are intended for intravenous administration using sterile equipment.
+All injections in Viaflex Plus plastic containers are intended for intravenous administration using sterile equipment.
 
 Because dosages of this drug are titrated to response, no additives should be made to Lidocaine Hydrochloride and 5% Dextrose Injection, USP.
