@@ -1,8 +1,13 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Leucovorin calcium tablets USP, 5 mg are available as white, round, biconvex tablets, debossed with "stylized b" on one side and 484 on the other side, packaged in bottles of 30 (NDC 0555-0484-01) and 100 (NDC 0555-0484-02) tablets.
+## 16.1 How Supplied
 
-Leucovorin calcium tablets USP, 25 mg are available as pale green, round, biconvex tablets, debossed with "stylized b" on one side and 485 on the other side, packaged in bottles of 25 (NDC 0555-0485-27) tablets.
+Leucovorin calcium tablets, USP contain:
+
+- 5 mg: White, round, biconvex tablets, debossed with “stylized b” on one side and 484 on the other side, packaged in bottles of 30 (NDC 0555-0484-01) and 100 (NDC 0555-0484-02) tablets.
+- 25 mg: Pale green, round, biconvex tablets, debossed with “stylized b” on one side and 485 on the other side, packaged in bottles of 25 (NDC 0555-0485-27) tablets.
+
+## 16.2 Storage and Handling
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 

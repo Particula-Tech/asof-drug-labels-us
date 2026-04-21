@@ -1,3 +1,20 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Leucovorin calcium tablets are indicated to diminish the toxicity and counteract the effects of impaired methotrexate elimination and of inadvertent overdosages of folic acid antagonists.
+## 1.1 Reduction of Toxicity of Folic Acid Antagonists or Dihydrofolate Reductase Inhibitors
+
+Leucovorin calcium tablets are indicated to reduce the toxicity of:
+
+- Methotrexate in adult patients with impaired methotrexate elimination, and
+- Folic acid antagonists or dihydrofolate reductase (DHFR) inhibitors following an overdose in adult patients.
+
+## 1.2 Cerebral Folate Transport Deficiency with Folate Receptor 1 Genetic Variant
+
+Leucovorin calcium tablets are indicated for the treatment of cerebral folate transport deficiency in adult and pediatric patients who have a confirmed variant in the folate receptor 1 gene (FOLR1-CFTD).
+
+Limitations of Use
+
+Leucovorin calcium tablets are not recommended for use in patients with a deficiency of methenyltetrahydrofolate synthetase (MTHFS) because MTHFS is a primary enzyme in the metabolism of leucovorin to 5-methenyltetrahydrofolate (5-MTHF) [see Clinical Pharmacology (12.3)].
+
+## 1.3 Limitations of Use
+
+Leucovorin calcium tablets are not indicated for the treatment of pernicious anemia or other megaloblastic anemias, due to the lack of vitamin B12, because of the risk of progression of neurologic manifestations despite hematologic remission.
