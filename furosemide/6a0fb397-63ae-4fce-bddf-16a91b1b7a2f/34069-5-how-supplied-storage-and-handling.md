@@ -20,6 +20,8 @@ Furosemide Tablets, USP
 - •Bottles of 500: NDC 43547-403-50
 - •Bottles of 1000: NDC 43547-403-11
 
-You may report side effects to Solco Healthcare US, LLC at 1-866-257-2597 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+Note: Dispense in well-closed, light-resistant containers.
+Exposure to light might cause a slight discoloration.
+Discolored tablets should not be dispensed.
 
 Store at 68° to 77°F (20° to 25°C); excursions permitted to 59° to 86°F (15° to 30°C) [see USP Controlled Room Temperature].

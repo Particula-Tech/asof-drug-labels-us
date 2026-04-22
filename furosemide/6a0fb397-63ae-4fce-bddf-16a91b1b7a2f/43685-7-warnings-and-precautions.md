@@ -8,7 +8,7 @@ Therefore, careful medical supervision is required and dose and dose schedule mu
 In patients with hepatic cirrhosis and ascites, furosemide therapy is best initiated in the hospital.
 In hepatic coma and in states of electrolyte depletion, therapy should not be instituted until the basic condition is improved.
 Sudden alterations of fluid and electrolyte balance in patients with cirrhosis may precipitate hepatic coma; therefore, strict observation is necessary during the period of diuresis.
-Supplemental potassium chloride and, if required, an aldosterone antagonist are helpful in preventing hypokalemia and metabolic alkalosis.
+Supplemental potassium chloride and, if required, an aldosterone antagonist is helpful in preventing hypokalemia and metabolic alkalosis.
 
 If increasing azotemia and oliguria occur during treatment of severe progressive renal disease, furosemide should be discontinued.
 
@@ -108,7 +108,7 @@ High-dose treatment of both furosemide and these other drugs may result in eleva
 
 Furosemide can increase the risk of cephalosporin-induced nephrotoxicity even in the setting of minor or transient renal impairment.
 
-Concomitant use of cyclosporine and furosemide is associated with increased risk of gouty arthritis secondary to furosemide-induced hyperurecemia and cyclosporine impairment of renal urate excretion.
+Concomitant use of cyclosporine and furosemide is associated with increased risk of gouty arthritis secondary to furosemide-induced hyperuricemia and cyclosporine impairment of renal urate excretion.
 
 High doses (> 80 mg) of furosemide may inhibit the binding of thyroid hormones to carrier proteins and result in transient increase in free thyroid hormones, followed by an overall decrease in total thyroid hormone levels.
 
