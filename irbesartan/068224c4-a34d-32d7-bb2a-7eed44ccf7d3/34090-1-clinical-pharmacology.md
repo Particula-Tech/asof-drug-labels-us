@@ -31,9 +31,9 @@ Distribution Irbesartan is 90% bound to serum proteins (primarily albumin and α
 The average volume of distribution is 53 to 93 liters.
 Studies in animals indicate that radiolabeled irbesartan weakly crosses the blood-brain barrier and placenta.
 Irbesartan is excreted in the milk of lactating rats.
-Elimination Total plasma and renal clearances are in the range of 157 to 176 mL/min and 3 to 3.5 mL/min, respectively.
+Elimination Total plasma and renal clearances are in the range of 157 to 176 mL/min and 3.0 to 3.5 mL/min, respectively.
 The terminal elimination half-life of irbesartan averages 11 to 15 hours.
-Steady- state concentrations are achieved within 3 days.
+Steady-state concentrations are achieved within 3 days.
 Limited accumulation of irbesartan (<20%) is observed in plasma upon repeated once-daily dosing and is not clinically relevant.
 Metabolism Irbesartan is an orally active agent that does not require biotransformation into an active form.
 Irbesartan is metabolized via glucuronide conjugation and oxidation.

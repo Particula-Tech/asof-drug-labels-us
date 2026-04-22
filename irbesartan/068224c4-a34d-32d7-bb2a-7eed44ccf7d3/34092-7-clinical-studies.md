@@ -26,15 +26,15 @@ There was essentially no change in average heart rate in irbesartan-treated pati
 
 ## 14.2 Nephropathy in Type 2 Diabetic Patients
 
-The Irbesartan Diabetic Nephropathy Trial (IDNT) was a randomized, placebo- and active-controlled, double-blind, multicenter study conducted worldwide in 1715 patients with type 2 diabetes, hypertension (SeSBP >135 mmHg or SeDBP >85 mmHg), and nephropathy (serum creatinine 1 to 3 mg/dL in females or 1.2 to 3 mg/dL in males and proteinuria ≥900 mg/day).
+The Irbesartan Diabetic Nephropathy Trial (IDNT) was a randomized, placebo- and active-controlled, double-blind, multicenter study conducted worldwide in 1715 patients with type 2 diabetes, hypertension (SeSBP >135 mmHg or SeDBP >85 mmHg), and nephropathy (serum creatinine 1.0 to 3.0 mg/dL in females or 1.2 to 3.0 mg/dL in males and proteinuria ≥900 mg/day).
 Patients were randomized to receive irbesartan 75 mg, amlodipine 2.5 mg, or matching placebo once-daily.
 Patients were titrated to a maintenance dose of irbesartan 300 mg, or amlodipine 10 mg, as tolerated.
 Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and calcium channel blockers) were added as needed to achieve blood pressure goal (≤135/85 or 10 mmHg reduction in systolic blood pressure if higher than 160 mmHg) for patients in all groups.
-The study population was 66.5% male, 72.9% below 65 years of age, and 72% White (Asian/Pacific Islander 5%, Black 13.3%, Hispanic 4.8%).
+The study population was 66.5% male, 72.9% below 65 years of age, and 72% White (Asian/Pacific Islander 5.0%, Black 13.3%, Hispanic 4.8%).
 The mean baseline seated systolic and diastolic blood pressures were 159 mmHg and 87 mmHg, respectively.
 The patients entered the trial with a mean serum creatinine of 1.7 mg/dL and mean proteinuria of 4144 mg/day.
 The mean blood pressure achieved was 142/77 mmHg for irbesartan, 142/76 mmHg for amlodipine, and 145/79 mmHg for placebo.
-Overall, 83 % of patients received the target dose of irbesartan more than 50% of the time.
+Overall, 83.0% of patients received the target dose of irbesartan more than 50% of the time.
 Patients were followed for a mean duration of 2.6 years.
 The primary composite endpoint was the time to occurrence of any one of the following events: doubling of baseline serum creatinine, end-stage renal disease (ESRD; defined by serum creatinine ≥6 mg/dL, dialysis, or renal transplantation), or death.
 Treatment with irbesartan resulted in a 20% risk reduction versus placebo (p=0.0234) (see Figure 3 and Table 1).
@@ -42,12 +42,14 @@ Treatment with irbesartan also reduced the occurrence of sustained doubling of s
 
 Figure 3: IDNT: Kaplan-Meier Estimates of Primary Endpoint (Doubling of Serum Creatinine, End-Stage Renal Disease or All-Cause Mortality)
 
-The percentages of patients experiencing an event during the course of the study can be seen in Table 1 below: Table 1: IDNT: Components of Primary Composite Endpoint
+The percentages of patients experiencing an event during the course of the study can be seen in Table 1 below:
+
+Table 1: IDNT: Components of Primary Composite Endpoint
 
 |  | Irbesartan N=579 (%) | Comparison with Placebo |  |  | Comparison with Amlodipine |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Placebo N=569 (%) | Hazard Ratio | 95% CI | Amlodipine N=567 (%) | Hazard Ratio | 95% CI |  |  |
-| Primary Composite Endpoint | 32.6 | 39 | 0.80 | 0.66-0.97 (p=0.0234) | 41.1 | 0.77 | 0.63-0.93 |
+| Primary Composite Endpoint | 32.6 | 39.0 | 0.80 | 0.66-0.97 (p=0.0234) | 41.1 | 0.77 | 0.63-0.93 |
 | Breakdown of first occurring event contributing to primary endpoint |  |  |  |  |  |  |  |
 | 2x creatinine | 14.2 | 19.5 | --­ | --­ | 22.8 | --­ | --­ |
 | ESRD | 7.4 | 8.3 | --­ | --­ | 8.8 | --­ | --­ |
@@ -55,7 +57,7 @@ The percentages of patients experiencing an event during the course of the study
 | Incidence of total events over entire period of follow-up |  |  |  |  |  |  |  |
 | 2x creatinine | 16.9 | 23.7 | 0.67 | 0.52-0.87 | 25.4 | 0.63 | 0.49-0.81 |
 | ESRD | 14.2 | 17.8 | 0.77 | 0.57-1.03 | 18.3 | 0.77 | 0.57-1.03 |
-| Death | 15 | 16.3 | 0.92 | 0.69-1.23 | 14.6 | 1.04 | 0.77-1.40 |
+| Death | 15.0 | 16.3 | 0.92 | 0.69-1.23 | 14.6 | 1.04 | 0.77-1.40 |
 
 The secondary endpoint of the study was a composite of cardiovascular mortality and morbidity (myocardial infarction, hospitalization for heart failure, stroke with permanent neurological deficit, amputation).
 There were no statistically significant differences among treatment groups in these endpoints.
@@ -64,6 +66,7 @@ Irbesartan significantly reduced the rate of loss of renal function (glomerular 
 Table 2 presents results for demographic subgroups.
 Subgroup analyses are difficult to interpret, and it is not known whether these observations represent true differences or chance effects.
 For the primary endpoint, irbesartan’s favorable effects were seen in patients also taking other antihypertensive medications (angiotensin II receptor antagonists, angiotensin-converting­-enzyme inhibitors, and calcium channel blockers were not allowed), oral hypoglycemic agents, and lipid-lowering agents.
+
 Table 2: IDNT: Primary Efficacy Outcome within Subgroups
 
 | Baseline Factors | Irbesartan N=579 (%) | Comparison with Placebo |  |  |

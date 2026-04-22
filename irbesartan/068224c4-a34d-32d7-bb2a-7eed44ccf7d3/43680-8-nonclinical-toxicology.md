@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No evidence of carcinogenicity was observed when irbesartan was administered at dosages of up to 500/1000 mg/kg/day (males/females, respectively) in rats and 1000 mg/kg/day in mice for up to 2 years.
-For male and female rats, 500 mg/kg/day provided an average systemic exposure to irbesartan (AUC0-24 hour, bound plus unbound) about 3 and 11 times, respectively, the average systemic exposure in humans receiving the maximum recommended dose (MRHD) of 300 mg irbesartan/day, whereas 1000 mg/kg/day (administered to females only) provided an average systemic exposure about 21 times that reported for humans at the MRD.
+For male and female rats, 500 mg/kg/day provided an average systemic exposure to irbesartan (AUC0-24 hour, bound plus unbound) about 3 and 11 times, respectively, the average systemic exposure in humans receiving the maximum recommended human dose (MRHD) of 300 mg irbesartan/day, whereas 1000 mg/kg/day (administered to females only) provided an average systemic exposure about 21 times that reported for humans at the MRHD.
 For male and female mice, 1000 mg/kg/day provided an exposure to irbesartan about 3 and 5 times, respectively, the human exposure at 300 mg/day.
 Irbesartan was not mutagenic in a battery of in vitro tests (Ames microbial test, rat hepatocyte DNA repair test, V79 mammalian-cell forward gene-mutation assay).
 Irbesartan was negative in several tests for induction of chromosomal aberrations (in vitro-human lymphocyte assay; in vivo-mouse micronucleus study).
