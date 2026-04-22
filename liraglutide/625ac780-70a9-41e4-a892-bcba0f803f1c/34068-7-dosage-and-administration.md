@@ -18,7 +18,7 @@
 ## 2.2 Dosage in Adults and Pediatric Patients Aged 12 Years and Older
 
 - Initiate liraglutide injection with a dose of 0.6 mg daily for one week.
-  Then follow the dosage escalation schedule in Table 1 to reduce the risk of gastrointestinal adverse reactions [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
+  Then follow the dosage escalation schedule in Table 1 to reduce the risk of gastrointestinal adverse reactions [see Warnings and Precautions (5.7), Adverse Reactions (6.1)].
 
 | Table 1. Dosage Escalation Schedule |  |
 | --- | --- |

@@ -94,7 +94,7 @@ Lisinopril median Tmax was delayed from 6 h to 8 h with liraglutide.
 Atorvastatin Liraglutide did not change the overall exposure (AUC) of atorvastatin following a single dose of atorvastatin 40 mg, administered 5 hours after the dose of liraglutide at steady state.
 Atorvastatin Cmax was decreased by 38% and median Tmax was delayed from 1 h to 3 h with liraglutide.
 
-Acetaminophen Liraglutide did not change the overall exposure (AUC) of acetaminophen following a single dose of acetaminophen 1000 mg, administered 8 hours after the dose of liraglutide at steady state.
+Acetaminophen Liraglutide did not change the overall exposure (AUC) of acetaminophen following a single dose of acetaminophen 1,000 mg, administered 8 hours after the dose of liraglutide at steady state.
 Acetaminophen Cmax was decreased by 31% and median Tmax was delayed up to 15 minutes.
 
 Griseofulvin Liraglutide did not change the overall exposure (AUC) of griseofulvin following coadministration of a single dose of griseofulvin 500 mg with liraglutide at steady state.

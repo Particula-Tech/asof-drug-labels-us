@@ -34,11 +34,8 @@ Instruct patients to contact their healthcare provider if they have severe or pe
 Hypersensitivity Reactions Inform patients that serious hypersensitivity reactions have been reported during postmarketing use of liraglutide injection.
 Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking liraglutide injection and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.8)].
 
-Suicidal Behavior and Ideation Advise patients to report emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
-Inform patients that if they experience suicidal thoughts or behaviors, they should stop taking liraglutide injection [see Warnings and Precautions (5.9)].
-
 Pulmonary Aspiration During General Anesthesia or Deep Sedation Inform patients that liraglutide injection may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
-Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking liraglutide injection [see Warnings and Precautions (5.10)].
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking liraglutide injection [see Warnings and Precautions (5.9)].
 
 Never Share a Liraglutide Injection Pen Between Patients Inform patients that they should never share a liraglutide injection pen with another person, even if the needle is changed.
 Sharing of the pen between patients may pose a risk of transmission of infection.
@@ -51,4 +48,4 @@ Zagreb, Croatia
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Iss.
-1/2026
+2/2026

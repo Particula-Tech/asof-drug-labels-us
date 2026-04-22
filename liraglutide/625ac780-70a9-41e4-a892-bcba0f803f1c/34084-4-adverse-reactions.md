@@ -10,8 +10,7 @@ The following serious adverse reactions are described below or elsewhere in the 
 - Acute Kidney Injury Due to Volume Depletion [see Warnings and Precautions (5.6)]
 - Severe Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.7)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.9)]
-- Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.10)]
+- Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 

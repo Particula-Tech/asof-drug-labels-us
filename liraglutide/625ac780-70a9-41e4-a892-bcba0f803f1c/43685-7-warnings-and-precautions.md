@@ -35,7 +35,7 @@ If cholelithiasis is suspected, gallbladder studies and appropriate clinical fol
 ## 5.4 Hypoglycemia
 
 Adult patients with type 2 diabetes mellitus on an insulin secretagogue (e.g., sulfonylurea) or insulin may have an increased risk of hypoglycemia with use of liraglutide, including severe hypoglycemia.
-In patients with type 2 diabetes, monitor blood glucose prior to starting liraglutide and during liraglutide treatment [see Dosage and Administration (2) and Adverse Reactions (6.1)].
+In patients with type 2 diabetes, monitor blood glucose prior to starting liraglutide and during liraglutide treatment [see Dosage and Administration (2), Adverse Reactions (6.1)].
 
 The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin.
 Inform patients using these concomitant medications of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
@@ -74,24 +74,13 @@ Liraglutide is not recommended in patients with severe gastroparesis.
 
 ## 5.8 Hypersensitivity Reactions
 
-There have been reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with liraglutide [see Contraindications (4) and Adverse Reactions (6.1, 6.2)].
+There have been reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with liraglutide [see Contraindications (4), Adverse Reactions (6.1, 6.2)].
 If a hypersensitivity reaction occurs, the patient should discontinue liraglutide injection and other suspect medications and promptly seek medical advice.
 
 Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists.
 Use caution in a patient with a history of anaphylaxis or angioedema with another GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to these reactions with liraglutide.
 
-## 5.9 Suicidal Behavior and Ideation
-
-In liraglutide adult clinical trials, 9 (0.3%) of 3,384 liraglutide-treated patients and 2 (0.1%) of the 1,941 placebo-treated patients reported suicidal ideation; one of these liraglutide-treated patients attempted suicide.
-
-In a liraglutide pediatric clinical trial, 1 (0.8%) of the 125 liraglutide-treated patients died by suicide.
-There was insufficient information to establish a causal relationship to liraglutide.
-
-Patients treated with liraglutide should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
-Discontinue liraglutide in patients who experience suicidal thoughts or behaviors.
-Avoid liraglutide in patients with a history of suicidal attempts or active suicidal ideation.
-
-## 5.10 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+## 5.9 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
 Liraglutide delays gastric emptying [see Clinical Pharmacology (12.2)].
 There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.
