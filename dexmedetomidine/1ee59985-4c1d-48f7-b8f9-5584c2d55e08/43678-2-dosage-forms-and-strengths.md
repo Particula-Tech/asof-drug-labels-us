@@ -4,7 +4,7 @@ Dexmedetomidine Hydrochloride Injection is clear and colorless and is available 
 
 Dexmedetomidine Injection, USP
 
-Dexmedetomidine Injection, 200 mcg dexmedetomidine/2 mL (100 mcg /mL) in a single-dose glass vial.
+Dexmedetomidine Injection, 200 mcg dexmedetomidine/2 mL (100 mcg/mL) in a single-dose glass vial.
 To be used after dilution.
 
 Dexmedetomidine Hydrochloride in 0.9% Sodium Chloride Injection

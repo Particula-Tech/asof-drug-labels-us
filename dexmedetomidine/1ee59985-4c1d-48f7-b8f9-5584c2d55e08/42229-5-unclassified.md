@@ -1,5 +1,5 @@
-Manufactured for: Endo USA Malvern, PA 19355
+Manufactured for: Par Health USA Rochester, MI 48307
 
-© 2024 Endo, Inc. or one of its affiliates.
+© 2025 Par Health, Inc. or one of its affiliates.
 
-Revised: 03/2024
+Revised: 12/2025
