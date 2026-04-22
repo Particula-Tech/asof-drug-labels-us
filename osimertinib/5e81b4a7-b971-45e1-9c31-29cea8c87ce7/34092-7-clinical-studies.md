@@ -8,7 +8,7 @@ Patients with clinically significant uncontrolled cardiac disease, prior history
 
 Patients were randomized (1:1) to receive TAGRISSO 80 mg orally once daily or placebo following recovery from surgery and standard adjuvant chemotherapy if given.
 Patients who did not receive adjuvant chemotherapy were randomized within 10 weeks and patients who received adjuvant chemotherapy were randomized within 26 weeks following surgery.
-Randomization was stratified by mutation type (exon 19 deletions or exon 21 L858R mutations), race (Asian or non-Asian) and pTNM staging (IB or II or IIIA) according to AJCC 7th edition.
+Randomization was stratified by mutation type (exon 19 deletions or exon 21 L858R mutations), race (Asian or other races) and pTNM staging (IB or II or IIIA) according to AJCC 7th edition.
 Treatment was given for 3 years or until disease recurrence, or unacceptable toxicity.
 
 The major efficacy outcome measure was disease-free survival (DFS, defined as reduction in the risk of disease recurrence or death) in patients with stage II – IIIA NSCLC determined by investigator assessment.
@@ -213,7 +213,7 @@ Efficacy Results in FLAURA2 according to Investigator Assessment
 | Progression-Free Survival (PFS)PFS and ORR results by BICR were consistent with those reported via investigator assessment. |  |  |
 | PFS events (%) | 120 (43) | 166 (60) |
 | Progressive disease (%) | 95 (34) | 158 (57) |
-| DeathWithout documented radiological disease progression (%) | 25 (9) | 8 (2.9) |
+| DeathWithout documented radiological disease progression. (%) | 25 (9) | 8 (2.9) |
 | Median PFS in months (95% CI) | 25.5 (24.7, NE) | 16.7 (14.1, 21.3) |
 | Hazard Ratio (95% CI)Stratified by race (Chinese/Asian, -Other races except Chinese/Asian vs other races), WHO performance status (0 or 1) and method of tissue testing (central or local).Pike estimator. | 0.62 (0.49, 0.79) |  |
 | p-valueStratified log-rank test. | <0.0001 |  |
@@ -252,7 +252,7 @@ The efficacy of TAGRISSO was demonstrated in a randomized, multicenter open-labe
 All patients were required to have EGFR T790M mutation-positive NSCLC identified by the cobas® EGFR Mutation Test performed in a central laboratory prior to randomization.
 
 A total of 419 patients were randomized 2:1 to receive TAGRISSO (n=279) or platinum-based doublet chemotherapy (n=140).
-Randomization was stratified by ethnicity (Asian vs non-Asian).
+Randomization was stratified by ethnicity (Asian vs other races).
 Patients in the TAGRISSO arm received TAGRISSO 80 mg orally once daily until intolerance to therapy, disease progression, or investigator determination that the patient was no longer benefiting from treatment.
 Patients in the chemotherapy arm received pemetrexed 500 mg/m2 with carboplatin AUC5 or pemetrexed 500 mg/m2 with cisplatin 75 mg/m2 on Day 1 of every 21-day cycle for up to 6 cycles.
 Patients whose disease had not progressed after four cycles of platinum-based chemotherapy could have received pemetrexed maintenance therapy (pemetrexed 500 mg/m2 on Day 1 of every 21-day cycle).

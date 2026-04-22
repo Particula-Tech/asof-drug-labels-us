@@ -2,20 +2,13 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •Interstitial Lung Disease/Pneumonitis [see Error!
-  Hyperlink reference not valid.]
-- •QTc Interval Prolongation [see Error!
-  Hyperlink reference not valid.]
-- •Cardiomyopathy [see Error!
-  Hyperlink reference not valid.]
-- •Keratitis [see Error!
-  Hyperlink reference not valid.]
-- •Erythema multiforme, Stevens-Johnson syndrome, and Toxic epidermal necrolysis [see Error!
-  Hyperlink reference not valid.]
-- •Cutaneous Vasculitis [see Error!
-  Hyperlink reference not valid.]
-- •Aplastic Anemia [see Error!
-  Hyperlink reference not valid.]
+- •Interstitial Lung Disease/Pneumonitis [see Warnings and Precautions (5.1)]
+- •QTc Interval Prolongation [see Warnings and Precautions (5.2)]
+- •Cardiomyopathy [see Warnings and Precautions (5.3)]
+- •Keratitis [see Warnings and Precautions (5.4)]
+- •Erythema multiforme, Stevens-Johnson syndrome, and Toxic epidermal necrolysis [see Warnings and Precautions (5.5)]
+- •Cutaneous Vasculitis [see Warnings and Precautions (5.6)]
+- •Aplastic Anemia [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -48,9 +41,9 @@ Tables 4 and 5 summarize common adverse reactions and laboratory abnormalities w
 Table 4.
 Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in ADAURANCI CTCAE v4.0.
 
-| All Grades (%) | Grade 3 or higherAll events were grade 3. (%) | All Grades (%) | Grade 3 or higher (%) |  |
-| --- | --- | --- | --- | --- |
 | Adverse Reaction | TAGRISSO (N=337) |  | PLACEBO (N=343) |  |
+| --- | --- | --- | --- | --- |
+| All Grades (%) | Grade 3 or higherAll events were grade 3. (%) | All Grades (%) | Grade 3 or higher (%) |  |
 | Gastrointestinal Disorders |  |  |  |  |
 | DiarrheaIncludes diarrhea, colitis, enterocolitis, enteritis. | 47 | 2.4 | 20 | 0.3 |
 | StomatitisIncludes aphthous ulcer, cheilitis, gingival ulceration, glossitis, tongue ulceration, stomatitis and mouth ulceration. | 32 | 1.8 | 7 | 0 |
@@ -247,14 +240,16 @@ Adverse reactions which resulted in permanent discontinuation of TAGRISSO in ≥
 Adverse reactions leading to dose reduction of TAGRISSO occurred in 10% of patients treated with TAGRISSO in combination with pemetrexed and platinum-based chemotherapy.
 The most frequently reported adverse reactions leading to dose reduction of TAGRISSO in the combination arm in ≥1% of patients were diarrhea (1.1%) and rash (1.1%).
 
+The most common adverse reactions, including laboratory abnormalities worsening from baseline, were leukopenia, thrombocytopenia, neutropenia, rash, diarrhea, stomatitis, nail toxicity, dry skin, increased blood creatinine.
+
 Tables 10 and 11 summarize common adverse reactions and laboratory abnormalities which occurred in FLAURA2.
 
 Table 10.
 Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in FLAURA2NCI CTCAE v5.0
 
-| Any Grade (%) | Grade 3 or higher (%) | Any Grade (%) | Grade 3 or higher (%) |  |
-| --- | --- | --- | --- | --- |
 | Adverse Reaction | TAGRISSO with Pemetrexed and Platinum-based Chemotherapy (N=276) |  | TAGRISSO (N=275) |  |
+| --- | --- | --- | --- | --- |
+| Any Grade (%) | Grade 3 or higher (%) | Any Grade (%) | Grade 3 or higher (%) |  |
 | Skin Disorders |  |  |  |  |
 | RashIncludes rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, rash pruritic, rash vesicular, rash follicular, erythema, folliculitis, acne, dermatitis, dermatitis acneiform, drug eruption, skin erosion, pustule. | 49 | 2.5 | 44 | 1.5 |
 | Nail toxicityIncludes nail bed disorder, nail bed inflammation, nail bed infection, nail discoloration, nail pigmentation, nail disorder, nail toxicity, nail dystrophy, nail infection, nail ridging, onychalgia, onychoclasis, onycholysis, onychomadesis, onychomalacia, paronychia. | 27 | 0.7 | 32 | 0.4 |
@@ -327,7 +322,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3NCI
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
 | Back pain | 10 | 0.4 | 9 | 0.7 |
 
-Clinically relevant adverse reactions in AURA3 in <10% of patients receiving TAGRISSO were epistaxis (5%), interstitial lung disease (3.9%), alopecia (3.6%), urticaria (2.9%), palmar-plantar erythrodysesthesia syndrome (1.8%), QTc interval prolongation (1.4%), keratitis (1.1%), and erythema multiforme (0.7%), and skin hyperpigmentation (0.4%).
+Clinically relevant adverse reactions in AURA3 in <10% of patients receiving TAGRISSO were epistaxis (5%), interstitial lung disease (3.9%), alopecia (3.6%), urticaria (2.9%), palmar-plantar erythrodysesthesia syndrome (1.8%), QTc interval prolongation (1.4%), keratitis (1.1%), erythema multiforme (0.7%), and skin hyperpigmentation (0.4%).
 QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500 msec.
 
 Table 13.
@@ -346,7 +341,7 @@ Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in AURA3
 | Hyponatremia | 26 | 2.2 | 36 | 1.5 |
 | HyperglycemiaHyperglycemia is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 270, Chemotherapy 5; fasting glucose was not a protocol requirement for patients in the chemotherapy arm). | 20 | 0 | NA | NA |
 | Hypokalemia | 9 | 1.4 | 18 | 1.5 |
-| NA=Not Applicable |  |  |  |  |
+| NA=not applicable |  |  |  |  |
 
 Clinically relevant laboratory abnormalities in AURA3 that occurred in <20% of patients receiving TAGRISSO included increased blood creatinine (7%).
 
@@ -361,4 +356,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - 
   - oSkin and subcutaneous tissue: Erythema multiforme major (EMM), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), cutaneous vasculitis, erythema dyschromicum perstans
-  - oBlood and lymphatic system disorders: Aplastic anemia
+  - oBlood and lymphatic system disorders: Aplastic anemia.

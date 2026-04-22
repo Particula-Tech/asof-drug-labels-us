@@ -91,4 +91,4 @@ When males were treated prior to mating with untreated females, there was an inc
 Verify pregnancy status of females of reproductive potential prior to initiating TAGRISSO.
 Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment with TAGRISSO and for 6 weeks after the last dose.
-Advise males with female partners of reproductive potential to use effective contraception for 4 months after the last dose [see Use in Specific Populations (8.1and 8.3)].
+Advise males with female partners of reproductive potential to use effective contraception for 4 months after the last dose [see Use in Specific Populations (8.1 and 8.3)].

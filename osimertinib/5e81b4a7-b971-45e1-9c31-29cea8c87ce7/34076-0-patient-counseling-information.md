@@ -5,49 +5,41 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Interstitial Lung Disease/Pneumonitis
 
 - •Inform patients of the risks of severe or fatal ILD, including pneumonitis.
-  Advise patients to contact their healthcare provider immediately to report new or worsening respiratory symptoms [see Error!
-  Hyperlink reference not valid.].
+  Advise patients to contact their healthcare provider immediately to report new or worsening respiratory symptoms [see Warnings and Precautions (5.1)].
 
 QTc Interval Prolongation
 
 - •Inform patients of symptoms that may be indicative of significant QTc prolongation including dizziness, lightheadedness, and syncope.
-  Advise patients to report these symptoms and to inform their physician about the use of any heart or blood pressure medications [see Error!
-  Hyperlink reference not valid.].
+  Advise patients to report these symptoms and to inform their physician about the use of any heart or blood pressure medications [see Warnings and Precautions (5.2)].
 
 Cardiomyopathy
 
 - •Inform patients that TAGRISSO can cause cardiomyopathy.
-  Advise patients to immediately report any signs or symptoms of heart failure to their healthcare provider [see Error!
-  Hyperlink reference not valid.].
+  Advise patients to immediately report any signs or symptoms of heart failure to their healthcare provider [see Warnings and Precautions (5.3)].
 
 Keratitis
 
-- •Advise patients to contact their healthcare provider immediately if they develop eye symptoms (eye inflammation, lacrimation, light sensitivity, eye pain, red eye or changes in vision) [see Error!
-  Hyperlink reference not valid.].
+- •Advise patients to contact their healthcare provider immediately if they develop eye symptoms (eye inflammation, lacrimation, light sensitivity, eye pain, red eye or changes in vision) [see Warnings and Precautions (5.4)].
 
 Erythema Multiforme Major, Stevens-Johnson Syndrome, and Toxic Epidermal Necrolysis
 
 - •Inform patients of signs and symptoms that may be indicative of EMM, SJS, or TEN.
-  Advise patients to contact their healthcare provider immediately if they develop target lesions or severe blistering or peeling of skin [see Error!
-  Hyperlink reference not valid.].
+  Advise patients to contact their healthcare provider immediately if they develop target lesions or severe blistering or peeling of skin [see Warnings and Precautions (5.5)].
 
 Cutaneous Vasculitis
 
 - •Inform patients of signs and symptoms that may be indicative of cutaneous vasculitis.
-  Advise patients to contact their healthcare provider immediately if they develop multiple, non-blanching red papules on their forearms, lower legs, or buttocks or large hives on their trunk that do not go away within 24 hours and develop a bruised appearance [see Error!
-  Hyperlink reference not valid.].
+  Advise patients to contact their healthcare provider immediately if they develop multiple, non-blanching red papules on their forearms, lower legs, or buttocks or large hives on their trunk that do not go away within 24 hours and develop a bruised appearance [see Warnings and Precautions (5.6)].
 
 Aplastic Anemia
 
 - •Inform patients of signs and symptoms of aplastic anemia including but not limited to new or persistent fevers, bruising, bleeding, pallor, infection, tiredness or weakness.
-  Advise patients to contact their healthcare provider immediately if signs and symptoms suggestive of aplastic anemia develop [see Error!
-  Hyperlink reference not valid.].
+  Advise patients to contact their healthcare provider immediately if signs and symptoms suggestive of aplastic anemia develop [see Warnings and Precautions (5.7)].
 
 Embryo-Fetal Toxicity
 
 - •Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
-  Advise females to inform their healthcare provider if they become pregnant or if pregnancy is suspected, while taking TAGRISSO [see Error!
-  Hyperlink reference not valid. and Use in Specific Populations (8.1)].
+  Advise females to inform their healthcare provider if they become pregnant or if pregnancy is suspected, while taking TAGRISSO [see Warnings and Precautions (5.8)and Use in Specific Populations (8.1)].
 
 Females and Males of Reproductive Potential
 
@@ -62,9 +54,6 @@ Distributed by: AstraZeneca Pharmaceuticals LP Wilmington, DE 19850
 
 TAGRISSO is a registered trademark of the AstraZeneca group of companies.
 
-This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 09/2024
-
 ©AstraZeneca 2024
 
 ## Patient Medication Information
@@ -72,7 +61,7 @@ Revised: 09/2024
 | PATIENT INFORMATION TAGRISSO®(tuh-GRISS-oh) (osimertinib) tablets |  |  |
 | --- | --- | --- |
 | What is the most important information I should know about TAGRISSO?TAGRISSO may cause serious side effects, including: •Lung problems. TAGRISSO may cause severe lung problems that may lead to death. Symptoms may be similar to those symptoms from lung cancer. Tell your healthcare provider right away if you have any new or worsening lung symptoms, including trouble breathing, shortness of breath, cough, or fever.•Heart problems, including heart failure. TAGRISSO may cause heart problems that may lead to death. Your healthcare provider should check your heart function before you start taking TAGRISSO and during treatment as needed. Tell your healthcare provider right away if you have any of the following signs and symptoms of a heart problem: feeling like your heart is pounding or racing, shortness of breath, swelling of your ankles and feet, dizziness, feeling lightheaded, or feeling faint.•Eye problems. TAGRISSO may cause eye problems. Tell your healthcare provider right away if you have symptoms of eye problems which may include watery eyes, sensitivity to light, eye pain, eye redness, or vision changes. Your healthcare provider may send you to see an eye specialist (ophthalmologist) if you get eye problems with TAGRISSO.•Skin problems. TAGRISSO may cause skin problems. Tell your healthcare provider right away if you develop skin reactions that look like rings (target lesions), severe blistering or peeling of the skin.•Inflammation of the blood vessels in your skin. TAGRISSO may cause blood vessel problems in your skin. Tell your healthcare provider right away if you develop purple spots or redness of the skin that does not fade in color when pressed (non-blanching) on your lower arms, lower legs, or buttocks or large hives on the main part of your body (trunk) that do not go away within 24 hours and look bruised. Blood and bone marrow problems. TAGRISSO may cause a condition where your bone marrow cannot make enough new blood cells (aplastic anemia), and which may lead to death. Your healthcare provider will monitor your blood cell counts before you start and during treatment with TAGRISSO. Tell your healthcare provider right away if you develop any signs or symptoms of blood and bone marrow problems, including: |  |  |
-| •a new fever or fever that does not go away (temperature 100.4°F or higher) | •easy bruising or bleeding that will not stop•unusually pale skin | •infection•tiredness•weakness |
+| oa new fever or fever that does not go away (temperature 100.4°F or higher) | oeasy bruising or bleeding that will not stopounusually pale skin | oinfectionotirednessoweakness |
 | See “What are the possible side effects of TAGRISSO?” for more information about side effects. |  |  |
 | What is TAGRISSO?TAGRISSO is a prescription medicine used to treat adults with non-small cell lung cancer (NSCLC) that has certain abnormal epidermal growth factor receptor (EGFR) gene(s): •to help prevent your lung cancer from coming back after your tumor(s) has been removed by surgery, or•when your lung cancer has spread to nearby tissues (locally advanced) that is unable to be removed (unresectable) by surgery and has responded or stabilized following chemotherapy and radiation treatment, or•as your first treatment when your lung cancer has spread to other parts of the body (metastatic), or•in combination with pemetrexed and platinum-based chemotherapy, as your first treatment when your lung cancer has spread to nearby tissues (locally advanced) or to other parts of the body (metastatic).•when your lung cancer has spread to other parts of the body (metastatic), and you have had previous treatment with an EGFR tyrosine kinase inhibitor (TKI) medicine that did not work or is no longer working. Your healthcare provider will perform a test to make sure that TAGRISSO is right for you.It is not known if TAGRISSO is safe and effective in children. |  |  |
 | Before taking TAGRISSO, tell your healthcare provider about all of your medical conditions, including if you: •have lung or breathing problems other than your lung cancer.•have heart problems, including a condition called long QTc syndrome.•have problems with your electrolytes, such as sodium, potassium, calcium, or magnesium.•have a history of eye problems.•are pregnant or plan to become pregnant. TAGRISSO can harm your unborn baby. Tell your healthcare provider right away if you become pregnant during treatment with TAGRISSO or think you may be pregnant.•Females who are able to become pregnant should have a pregnancy test before starting treatment with TAGRISSO. You should use effective birth control (contraception) during treatment with TAGRISSO and for 6 weeks after the last dose of TAGRISSO.•Males who have female partners that are able to become pregnant should use effective birth control during treatment with TAGRISSO and for 4 months after the last dose of TAGRISSO.•are breastfeeding or plan to breastfeed. It is not known if TAGRISSO passes into your breast milk. Do not breastfeed during treatment with TAGRISSO and for 2 weeks after your last dose of TAGRISSO. Talk to your healthcare provider about the best way to feed your baby during this time. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, or herbal supplements. Especially tell your healthcare provider if you take a heart or blood pressure medicine. |  |  |
