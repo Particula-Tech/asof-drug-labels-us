@@ -19,12 +19,8 @@ Protect from light and freezing.
 Keep in foil overwrap until ready to use.
 Discard after 24 hours of opening overwrap.
 
-Manufactured for:
+Manufactured for: Par Health USA Rochester, MI 48307
 
-Endo USA
+© 2025 Par Health, Inc. or one of its affiliates.
 
-Malvern, PA 19355
-
-© 2024 Endo, Inc. or one of its affiliates.
-
-Revised: 04/2024
+R12/2025
