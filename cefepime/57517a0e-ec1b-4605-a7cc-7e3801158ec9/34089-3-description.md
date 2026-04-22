@@ -14,7 +14,7 @@ Cefepime for Injection USP and Dextrose Injection USP is supplied as a sterile, 
 
 The powder chamber of the DUPLEX® container contains a sterile, dry mixture of cefepime hydrochloride and L-arginine.
 It contains the equivalent of not less than 90.0 percent and not more than 115.0 percent of the labeled amount of cefepime (C19H24N6O5S2).
-The L-arginine, at an approximate concentration of 725 mg/g of cefepime, is added to control the pH of the reconstituted solution at 4.0 – 6.0.
+The L-arginine, at an approximate concentration of 725 mg/g of cefepime, is added to control the pH of the reconstituted solution at 4.0 - 6.0.
 
 The diluent chamber contains Dextrose Injection USP, an iso-osmotic diluent using Hydrous Dextrose USP in Water for Injection USP.
 Dextrose Injection USP is sterile, nonpyrogenic, and contains no bacteriostatic or antimicrobial agents.

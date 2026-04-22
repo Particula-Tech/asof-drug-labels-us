@@ -52,4 +52,4 @@ Anaphylaxis (including anaphylactic shock, transient leukopenia, neutropenia, ag
 
 In addition to the adverse reactions listed above that have been observed in patients treated with cefepime, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibacterials:
 
-Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis, renal impairment, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, hepatic impairment including cholestasis, and pancytopenia.
+Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis, renal impairment, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, fall in prothrombin activity, hepatic impairment including cholestasis, and pancytopenia.

@@ -55,8 +55,8 @@ Table 2: Recommended Dosing Schedule for Cefepime for Injection and Dextrose Inj
 | Creatinine Clearance (mL/min) | Recommended Maintenance Schedule |  |  |  |
 | --- | --- | --- | --- | --- |
 | Greater than 60 | 500 mg every 12 hours | 1 g every 12 hours | 2 g every 12 hours | 2 g every 8 hours |
-| 30–60 | 500 mg every 24 hours | 1 g every 24 hours | 2 g every 24 hours | 2 g every 12 hours |
-| 11–29 | 500 mg every 24 hours | 500 mg every 24 hours | 1 g every 24 hours | 2 g every 24 hours |
+| 30-60 | 500 mg every 24 hours | 1 g every 24 hours | 2 g every 24 hours | 2 g every 12 hours |
+| 11-29 | 500 mg every 24 hours | 500 mg every 24 hours | 1 g every 24 hours | 2 g every 24 hours |
 | Less than 11 | 250 mg every 24 hours | 250 mg every 24 hours | 500 mg every 24 hours | 1 g every 24 hours |
 | Continuous Ambulatory Peritoneal Dialysis (CAPD) | 500 mg every 48 hours | 1 g every 48 hours | 2 g every 48 hours | 2 g every 48 hours |
 | HemodialysisOn hemodialysis days, Cefepime for Injection and Dextrose Injection should be administered following hemodialysis. Whenever possible, Cefepime for Injection and Dextrose Injection should be administered at the same time each day. | 1 g on day 1, then 500 mg every 24 hours thereafter |  |  | 1 g every 24 hours |

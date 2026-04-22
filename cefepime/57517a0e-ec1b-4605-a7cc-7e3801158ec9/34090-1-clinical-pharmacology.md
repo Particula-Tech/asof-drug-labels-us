@@ -36,9 +36,9 @@ Table 6: Mean Concentrations of Cefepime in Specific Body Fluids (mcg/mL) or Tis
 | Blister Fluid | 2 g IV | 6 | 1.5 | 81.4 mcg/mL |
 | Bronchial Mucosa | 2 g IV | 20 | 4.8 | 24.1 mcg/g |
 | Sputum | 2 g IV | 5 | 4 | 7.4 mcg/mL |
-| Urine | 500 mg IV | 8 | 0–4 | 292 mcg/mL |
-|  | 1 g IV | 12 | 0–4 | 926 mcg/mL |
-|  | 2 g IV | 12 | 0–4 | 3120 mcg/mL |
+| Urine | 500 mg IV | 8 | 0-4 | 292 mcg/mL |
+|  | 1 g IV | 12 | 0-4 | 926 mcg/mL |
+|  | 2 g IV | 12 | 0-4 | 3120 mcg/mL |
 | Bile | 2 g IV | 26 | 9.4 | 17.8 mcg/mL |
 | Peritoneal Fluid | 2 g IV | 19 | 4.4 | 18.3 mcg/mL |
 | Appendix | 2 g IV | 31 | 5.7 | 5.2 mcg/g |

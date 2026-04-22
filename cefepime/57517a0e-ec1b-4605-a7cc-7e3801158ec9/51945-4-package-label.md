@@ -4,7 +4,7 @@ Cefepime for Injection USP and Dextrose Injection USP 1g*
 
 REF 3193-11 NDC 0264-3193-11
 
-DUPLEX®CONTAINER
+DUPLEX® CONTAINER
 
 50 mL
 
@@ -57,7 +57,7 @@ Cefepime for Injection USP and Dextrose Injection USP 2g*
 
 REF 3195-11 NDC 0264-3195-11
 
-DUPLEX®CONTAINER
+DUPLEX® CONTAINER
 
 50 mL
 
