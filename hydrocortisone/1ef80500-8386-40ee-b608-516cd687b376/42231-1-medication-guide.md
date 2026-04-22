@@ -34,7 +34,7 @@
 | What are the ingredients in KHINDIVI? |  |  |  |  |  |  |  |  |
 | Active ingredient:hydrocortisone |  |  |  |  |  |  |  |  |
 | Inactive ingredients: berry flavor, butylated hydroxyanisole, ethyl maltol, glycerin, methylparaben, propylparaben, polyethylene glycol, propylene glycol, and sucralose. |  |  |  |  |  |  |  |  |
-| KHINDIVI is manufactured for Eton Pharmaceuticals, Inc. by Tulex Pharmaceuticals, Inc., 5 Cedarbrook Dr., Cranbury, NJ 08512, USA. KHINDIVI is covered by the following US patent: 11,904,046. For more information, go to www.KHINDIVI.com or call 1-833-343-2500. |  |  |  |  |  |  |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  |  |  |  | Issued: 06/2025 |  |  |
+| KHINDIVI is manufactured for Eton Pharmaceuticals, Inc. by Tulex Pharmaceuticals, Inc., 5 Cedarbrook Dr., Cranbury, NJ 08512, USA. KHINDIVI is covered by the following US patents: 11,904,046, and 12,133,914. For more information, go to www.KHINDIVI.com or call 1-833-343-2500. |  |  |  |  |  |  |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  |  |  |  | Issued: 04/2026 |  |  |
 
-PL-2-2.0
+PL-2-3.0
