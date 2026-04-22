@@ -38,7 +38,7 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 ## 5.4 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported with olanzapine exposure.
+Drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported with olanzapine exposure.
 DRESS may present with a cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, fever, and/or lymphadenopathy with systemic complications such as hepatitis, nephritis, pneumonitis, myocarditis, and/or pericarditis.
 DRESS is sometimes fatal.
 Discontinue olanzapine if DRESS is suspected [see Patient Counseling Information (17)].
