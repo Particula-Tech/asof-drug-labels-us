@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205525"
+  ],
+  "inn": "dronabinol",
+  "labeler": "Wellhouse Pharma, LLC",
+  "package_ndcs": [
+    "85776-201-30"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "dronabinol",
+      "name": "SYNDROS"
+    }
+  ],
+  "setid": "3cdcb4f5-5af9-4ff7-b535-2a5cf4c6da89",
+  "source": "dailymed"
+}
