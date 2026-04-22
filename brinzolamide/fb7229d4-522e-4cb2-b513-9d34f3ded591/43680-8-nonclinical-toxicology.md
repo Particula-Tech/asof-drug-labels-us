@@ -11,8 +11,8 @@ These levels of exposure cannot be achieved with topical ophthalmic dosing in hu
 
 Mutagenesis
 
-The following tests for mutagenic potential were negative: (1) in vivo mouse micronucleus assay; (2) in vivo sister chromatid exchange assay; and (3) Ames E. coli test.
-The in vitro mouse lymphoma forward mutation assay was negative in the absence of activation, but positive in the presence of microsomal activation.
+The following tests for mutagenic potential were negative: (1) in vivomouse micronucleus assay; (2) in vivosister chromatid exchange assay; and (3) Ames E. colitest.
+The in vitromouse lymphoma forward mutation assay was negative in the absence of activation, but positive in the presence of microsomal activation.
 
 Impairment of Fertility
 
