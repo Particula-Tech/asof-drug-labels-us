@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Fosaprepitant for injection: 150 mg fosaprepitant, white to off-white lyophilized powder in single-dose glass vial for reconstitution.
+Fosaprepitant for Injection is available in a single dose glass vial containing 150 mg of fosaprepitant as a white to off-white fine fluffy powder or dry cake for reconstitution.

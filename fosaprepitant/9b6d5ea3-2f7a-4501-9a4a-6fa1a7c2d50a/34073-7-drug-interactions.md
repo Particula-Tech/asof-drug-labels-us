@@ -13,13 +13,13 @@ Aprepitant is also an inducer of CYP2C9 [see Clinical Pharmacology (12.3)].
 Some substrates of CYP3A4 are contraindicated with fosaprepitant [see Contraindications (4)].
 Dosage adjustment of some CYP3A4 and CYP2C9 substrates may be warranted, as shown in Table 7.
 
-Table 7 Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Drugs
+Table 7: Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Drugs
 
 | CYP3A4 Substrates |  |
 | --- | --- |
 | Pimozide |  |
 | Clinical Impact | Increased pimozide exposure |
-| Intervention | Fosaprepitant for injection is contraindicated [see Contraindications (4)]. |
+| Intervention | Fosaprepitant is contraindicated [see Contraindications (4)]. |
 | Benzodiazepines |  |
 | Clinical Impact | Increased exposure to midazolam or other benzodiazepines metabolized via CYP3A4 (alprazolam, triazolam) may increase the risk of adverse reactions [see Clinical Pharmacology (12.3)]. |
 | Intervention | Monitor for benzodiazepine-related adverse reactions. |
@@ -33,13 +33,13 @@ Table 7 Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Dru
 | Clinical Impact | Increased exposure of the chemotherapeutic agent may increase the risk of adverse reactions [see Clinical Pharmacology (12.3)]. |
 | Intervention | Vinblastine, vincristine, or ifosfamide or other chemotherapeutic agents •Monitor for chemotherapeutic-related adverse reactions. Etoposide, vinorelbine, paclitaxel, and docetaxel •No dosage adjustment needed. |
 | Hormonal Contraceptives |  |
-| Clinical Impact | Decreased hormonal exposure during administration of and for 28 days after administration of the last dose of fosaprepitant for injection [see Warnings and Precautions (5.5), Use in Specific Populations (8.3), andClinical Pharmacology (12.3)]. |
-| Intervention | Effective alternative or back-up methods of contraception (such as condoms and spermicides) should be used during treatment with fosaprepitant for injection and for 1 month following administration of fosaprepitant for injection. |
+| Clinical Impact | Decreased hormonal exposure during administration of and for 28 days after administration of the last dose of fosaprepitant [see Warnings and Precautions (5.5), Use in Specific Populations (8.3), and Clinical Pharmacology (12.3)]. |
+| Intervention | Effective alternative or back-up methods of contraception (such as condoms and spermicides) should be used during treatment with fosaprepitant and for 1 month following administration of fosaprepitant. |
 | Examples | birth control pills, skin patches, implants, and certain IUDs |
 | CYP2C9 Substrates |  |
 | Warfarin |  |
 | Clinical Impact | Decreased warfarin exposure and decreased prothrombin time (INR) [see Warnings and Precautions (5.4), Clinical Pharmacology (12.3)]. |
-| Intervention | In patients on chronic warfarin therapy, monitor the prothrombin time (INR) in the 2-week period, particularly at 7 to 10 days, following administration of fosaprepitant for injection with each chemotherapy cycle. |
+| Intervention | In patients on chronic warfarin therapy, monitor the prothrombin time (INR) in the 2-week period, particularly at 7 to 10 days, following administration of fosaprepitant with each chemotherapy cycle. |
 | Other |  |
 | 5-HT3 Antagonists |  |
 | Clinical Impact | No change in the exposure of the 5-HT3 antagonist [see Clinical Pharmacology (12.3)]. |
@@ -49,16 +49,16 @@ Table 7 Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Dru
 ## 7.2 Effect of Other Drugs on the Pharmacokinetics of Fosaprepitant/Aprepitant
 
 Aprepitant is a CYP3A4 substrate [see Clinical Pharmacology (12.3)].
-Co-administration of fosaprepitant for injection with drugs that are inhibitors or inducers of CYP3A4 may result in increased or decreased plasma concentrations of aprepitant, respectively, as shown in Table 8.
+Co-administration of fosaprepitant with drugs that are inhibitors or inducers of CYP3A4 may result in increased or decreased plasma concentrations of aprepitant, respectively, as shown in Table 8.
 
-Table 8 Effects of Other Drugs on Pharmacokinetics of Fosaprepitant/Aprepitant
+Table 8: Effects of Other Drugs on Pharmacokinetics of Fosaprepitant/Aprepitant
 
 | Moderate to Strong CYP3A4 Inhibitors |  |
 | --- | --- |
-| Clinical Impact | Significantly increased exposure of aprepitant may increase the risk of adverse reactions associated with fosaprepitant for injection [see Adverse Reactions (6.1), Clinical Pharmacology (12.3)]. |
-| Intervention | Avoid concomitant use of fosaprepitant for injection |
+| Clinical Impact | Significantly increased exposure of aprepitant may increase the risk of adverse reactions associated with fosaprepitant [see Adverse Reactions (6.1), Clinical Pharmacology (12.3)]. |
+| Intervention | Avoid concomitant use of fosaprepitant |
 | Examples | Moderate inhibitor: diltiazem Strong inhibitors: ketoconazole, itraconazole, nefazodone, troleandomycin, clarithromycin, ritonavir, nelfinavir |
 | Strong CYP3A4 Inducers |  |
-| Clinical Impact | Substantially decreased exposure of aprepitant in patients chronically taking a strong CYP3A4 inducer may decrease the efficacy of fosaprepitant for injection [see Clinical Pharmacology (12.3)]. |
-| Intervention | Avoid concomitant use of fosaprepitant for injection |
+| Clinical Impact | Substantially decreased exposure of aprepitant in patients chronically taking a strong CYP3A4 inducer may decrease the efficacy of fosaprepitant [see Clinical Pharmacology (12.3)]. |
+| Intervention | Avoid concomitant use of fosaprepitant |
 | Examples | rifampin, carbamazepine, phenytoin |

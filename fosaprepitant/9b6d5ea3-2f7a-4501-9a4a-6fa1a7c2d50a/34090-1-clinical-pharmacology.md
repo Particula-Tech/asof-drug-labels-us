@@ -60,11 +60,52 @@ Following oral administration of a single 125 mg dose of aprepitant on Day 1 and
 The Cmax was 10% higher on Day 1 and 24% higher on Day 5 in elderly relative to younger adults.
 These differences are not considered clinically meaningful [see Use in Specific Populations (8.5)].
 
+#### Age: Pediatric Population
+
+Single Dose Fosaprepitant for Injection Regimen: Simulated systemic exposures of aprepitant in patients 2 years to less than 12 years and observed systemic exposures in patients 6 months to less than 2 years and 12 to 17 years are shown in Table 9, including AUC0-24hr, peak plasma concentration (Cmax) on Day 1 and concentrations at the end of Day 1 (C24), Day 2 (C48) and Day 3 (C72).
+
+Table 9: Systemic Exposures of Aprepitant for Single Dose Fosaprepitant for Injection Regimen in Pediatric Patients
+
+| Population | Single Dose of Fosaprepitant for Injection Regimen | Geometric Mean |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| AUC0-24hr.(mcg*hr/mL) | Cmax(mcg/mL) | C24(mcg/mL) | C48(mcg/mL) | C72(mcg/mL) |  |  |
+| 12 Years to 17 Years | 150 mg | 29.4 | 3.4 | 0.7 | NDND = Not Determined. Pharmacokinetic samples were not collected to support the parameter value of interest. | ND |
+| 6 Years to less than 12 Years | 4 mg/kg | 35.2 | 3.6 | 0.7 | 0.2 | 0.05 |
+| 2 Years to less than 6 Years | 28.2 | 3.1 | 0.4 | 0.1 | 0.02 |  |
+| 6 Months to less than 2 Years | 5 mg/kg | 32.7 | 3.3 | 0.4 | NENE = Not Estimated. The geometric mean could not be estimated due to values being below the limitation of quantification. | ND |
+
+3-Day IV/Oral/Oral Fosaprepitant Regimen: Simulated aprepitant systemic exposures in patients 6 months to less than 12 years and observed systemic exposures in patients 12 to 17 years are shown in Table 10, including AUC0-24hr, peak plasma concentration (Cmax) on Day 1 and concentrations at the end of Day 1 (C24), Day 2 (C48) and Day 3 (C72).
+
+Table 10: Systemic Exposures of Aprepitant for 3-Day IV/Oral/Oral Regimen in Pediatric Patients
+
+| Population | 3-Day Dose of Fosaprepitant (IV/Oral/OralIV on Day 1, Oral on Day 2, and Oral on Day 3) | Geometric Mean |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| AUC0-24hr. (mcg*hr/mL) | Cmax (mcg/mL) | C24(mcg/mL) | C48 (mcg/mL) | C72 (mcg/mL) |  |  |
+| 12 Years to 17 Years | 115/80/80 mg | 18.0 | 3.0 | 0.4 | 0.2 | NENE = Not Estimated. The geometric mean could not be estimated due to values being below the limitation of quantification. |
+| 6 Years to less than 12 Years | 3/2/2 mg/kg | 25.7 | 2.7 | 0.5 | 0.3 | 0.3 |
+| 2 Years to less than 6 Years | 20.2 | 2.3 | 0.3 | 0.2 | 0.2 |  |
+| 6 Months to less than 2 Years | 16.6 | 1.9 | 0.2 | 0.1 | 0.1 |  |
+
+3-Day IV/IV/IV Fosaprepitant Regimen: Simulated aprepitant systemic exposures in patients 6 months to 17 years are shown in Table 11, including AUC0-24hr, peak plasma concentration (Cmax) on Day 1 and concentrations at the end of Day 1 (C24), Day 2 (C48) and Day 3 (C72).
+
+Table 11: Systemic Exposures of Aprepitant for 3-Day IV/IV/IV Regimen in Pediatric Patients
+
+| Population | 3-Day Dose of Fosaprepitant (IV/IV/IV)IV on Day 1, Day 2, and Day 3 | Geometric Mean |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| AUC0-24hr.(mcg*hr/mL) | Cmax(mcg/mL) | C24(mcg/mL) | C48(mcg/mL) | C72(mcg/mL) |  |  |
+| 12 Years to 17 Years | 115/80/80 mg | 21.1 | 2.5 | 0.4 | 0.4 | 0.4 |
+| 6 Years to less than 12 Years | 3/2/2 mg/kg | 25.6 | 2.7 | 0.5 | 0.4 | 0.4 |
+| 2 Years to less than 6 Years | 20.3 | 2.3 | 0.3 | 0.2 | 0.2 |  |
+| 6 Months to less than 2 Years | 16.7 | 1.9 | 0.2 | 0.2 | 0.2 |  |
+
+Plasma concentrations of fosaprepitant are negligible within 15-30 minutes after the completion of the infusion in pediatric patients.
+
 #### Sex
 
 Following oral administration of a single dose of aprepitant, ranging from 40 mg to 375 mg, the AUC0-24hr and Cmax are 9% and 17% higher in females as compared with males.
 The half-life of aprepitant is approximately 25% lower in females as compared with males and Tmax occurs at approximately the same time.
 These differences are not considered clinically meaningful.
+A population pharmacokinetic analysis of aprepitant in pediatric patients (6 months to 17 years) suggests that sex has no clinically meaningful effect on the pharmacokinetics of aprepitant.
 
 #### Race/Ethnicity
 
@@ -72,6 +113,7 @@ Following oral administration of a single dose of aprepitant, ranging from 40 mg
 The AUC0-24hr and Cmax were 74% and 47% higher in Asians as compared to Caucasians.
 There was no difference in AUC0-24hr or Cmax between Caucasians and Blacks.
 These differences are not considered clinically meaningful.
+A population pharmacokinetic analysis of aprepitant in pediatric patients (6 months to 17 years) suggests that race has no clinically meaningful effect on the pharmacokinetics of aprepitant.
 
 #### Renal Impairment
 
