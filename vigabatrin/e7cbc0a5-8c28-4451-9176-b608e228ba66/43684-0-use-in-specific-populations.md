@@ -87,4 +87,4 @@ Other reported clinical experience has not identified differences in responses b
 
 ## 8.6 Renal Impairment
 
-Dose adjustment, including initiating treatment with a lower dose, is necessary in pediatric patients 10 years of age and older and adults with mild (creatinine clearance >50 to 80 mL/min), moderate (creatinine clearance >30 to 50 mL/min) and severe (creatinine clearance >10 to 30 mL/min) renal impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Dose adjustment, including initiating treatment with a lower dose, is necessary in pediatric patients 2 years of age and older and adults with mild (creatinine clearance >50 to 80 mL/min), moderate (creatinine clearance >30 to 50 mL/min) and severe (creatinine clearance >10 to 30 mL/min) renal impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].

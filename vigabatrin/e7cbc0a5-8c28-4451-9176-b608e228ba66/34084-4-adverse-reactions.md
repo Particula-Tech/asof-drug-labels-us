@@ -111,12 +111,12 @@ Adverse Reactions in Pooled, Adjunctive Trials in Adults with Refractory Complex
 | Anxiety | 4 | 0 | 3 |
 | Depressed mood | 5 | 0 | 1 |
 | Abnormal thinking | 3 | 7 | 0 |
-| Abnormal behaviour | 3 | 5 | 1 |
+| Abnormal behavior | 3 | 5 | 1 |
 | Expressive language disorder | 1 | 7 | 1 |
 | Nervousness | 2 | 5 | 2 |
 | Abnormal dreams | 1 | 5 | 1 |
 | Reproductive System |  |  |  |
-| Dysmenorrhoea | 9 | 5 | 3 |
+| Dysmenorrhea | 9 | 5 | 3 |
 | Erectile dysfunction | 0 | 5 | 0 |
 | Respiratory and Thoracic Disorders |  |  |  |
 | Pharyngolaryngeal pain | 7 | 14 | 5 |
@@ -129,7 +129,7 @@ Adverse Reactions in Pooled, Adjunctive Trials in Adults with Refractory Complex
 Pediatrics 2 to 16 years of age
 
 Table 6 lists adverse reactions from controlled clinical studies of pediatric patients receiving vigabatrin or placebo as adjunctive therapy for refractory complex partial seizures.
-Adverse reactions that are listed occurred in at least 2% of vigabatrin treated patients and more frequently than placebo.
+Adverse reactions that are listed occurred in at least 2% of vigabatrin-treated patients and more frequently than placebo.
 The median vigabatrin dose was 49.4 mg/kg (range of 8.0 to 105.9 mg/kg).
 
 Table 6.
@@ -139,7 +139,7 @@ Adverse Reactions in Pooled, Adjunctive Trials in Pediatric Patients 3 to 16 Yea
 | --- | --- | --- |
 | Eye Disorders |  |  |
 | Diplopia | 3 | 2 |
-| blurred Vision | 2 | 0 |
+| Blurred vision | 2 | 0 |
 | Gastrointestinal Disorders |  |  |
 | Upper abdominal pain | 4 | 3 |
 | Constipation | 2 | 1 |
@@ -197,7 +197,7 @@ Adverse Reactions in a Placebo-Controlled Trial in Patients with Infantile Spasm
 | Influenza | 5 | 3 |
 | Croup infectious | 5 | 1 |
 | Metabolism & Nutrition Disorders |  |  |
-| Decreasedappetite | 9 | 7 |
+| Decreased appetite | 9 | 7 |
 | Nervous System Disorders |  |  |
 | Sedation | 19 | 17 |
 | Somnolence | 17 | 19 |

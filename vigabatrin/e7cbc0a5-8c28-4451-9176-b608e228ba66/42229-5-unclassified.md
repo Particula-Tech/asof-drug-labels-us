@@ -126,16 +126,16 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured for:
 
-Endo USA
+Par Health USA
 
-Malvern, PA 19355 U.S.A.
+Rochester, MI 48307 U.S.A.
 
 Made in India
 
 Neutral Code: TN/DRUGS/TN00002121
 
-©2024 Endo, Inc. or one of its affiliates.
+© 2026 Par Health, Inc. or one of its affiliates.
 
-OS358-01-74-09
+OS358-01-74-10
 
-Revised: 04/2024
+Revised: 01/2026

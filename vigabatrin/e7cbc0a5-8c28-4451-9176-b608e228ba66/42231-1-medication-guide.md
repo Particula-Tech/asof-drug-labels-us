@@ -189,7 +189,7 @@ Vigabatrin for oral solution can cause serious side effects, including:
 The following serious side effects happen in adults.
 It is not known if these side effects also happen in babies who take vigabatrin for oral solution.
 
-- low red blood cell counts (anemia)
+- low red blood cell counts (anemia).
 - nerve problems.
   Symptoms of a nerve problem can include numbness and tingling in your toes or feet.
   It is not known if nerve problems will go away after you stop taking vigabatrin for oral solution.
@@ -237,7 +237,7 @@ Do not use vigabatrin for oral solution for a condition for which it was not pre
 Do not give vigabatrin for oral solution to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-For more information, call Endo at 1-800-828-9393.
+For more information, call Par Health at 1-800-828-9393.
 
 What are the ingredients in vigabatrin for oral solution?
 
@@ -249,16 +249,16 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured for:
 
-Endo USA
+Par Health USA
 
-Malvern, PA 19355 U.S.A.
+Rochester, MI 48307 U.S.A.
 
 Made in India
 
 Neutral Code: TN/DRUGS/TN00002121
 
-©2024 Endo, Inc. or one of its affiliates.
+© 2026 Par Health, Inc. or one of its affiliates.
 
-OS358-01-74-09
+OS358-01-74-10
 
-Revised: 04/2024
+Revised: 01/2026
