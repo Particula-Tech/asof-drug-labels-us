@@ -4,7 +4,7 @@ Overdosage of nitroprusside can be manifested as excessive hypotension or cyanid
 
 The acute intravenous mean lethal doses (LD50) of nitroprusside in rabbits, dogs, mice, and rats are 2.8, 5, 8.4, and 11.2 mg/kg, respectively.
 
-## Treatment of cyanide toxicity
+## Treatment of cyanide toxicity:
 
 Cyanide levels can be measured by many laboratories, and blood-gas studies that can detect venous hyperoxemia or acidosis are widely available.
 Acidosis may not appear until more than an hour after the appearance of dangerous cyanide levels, and laboratory tests should not be awaited.

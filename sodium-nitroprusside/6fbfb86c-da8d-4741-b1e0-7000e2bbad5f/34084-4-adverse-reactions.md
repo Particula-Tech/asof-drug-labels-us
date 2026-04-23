@@ -3,7 +3,7 @@
 The most important adverse reactions to sodium nitroprusside are the avoidable ones of excessive hypotension and cyanide toxicity, described above under WARNINGS.
 The adverse reactions described in this section develop less rapidly and, as it happens, less commonly.
 
-## Methemoglobinemia
+## Methemoglobinemia:
 
 As described in CLINICAL PHARMACOLOGY above, sodium nitroprusside infusions can cause sequestration of hemoglobin as methemoglobin.
 The back-conversion process is normally rapid, and clinically significant methemoglobinemia (>10%) is seen only rarely in patients receiving sodium nitroprusside.
@@ -16,7 +16,7 @@ Classically, methemoglobinemic blood is described as chocolate brown, without co
 When methemoglobinemia is diagnosed, the treatment of choice is 1 to 2 mg/kg of methylene blue, administered intravenously over several minutes.
 In patients likely to have substantial amounts of cyanide bound to methemoglobin as cyanmethemoglobin, treatment of methemoglobinemia with methylene blue must be undertaken with extreme caution.
 
-## Thiocyanate Toxicity
+## Thiocyanate Toxicity:
 
 As described in CLINICAL PHARMACOLOGY above, most of the cyanide produced during metabolism of sodium nitroprusside is eliminated in the form of thiocyanate.
 When cyanide elimination is accelerated by the co-infusion of thiosulfate, thiocyanate production is increased.
