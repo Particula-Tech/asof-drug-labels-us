@@ -2,9 +2,9 @@
 
 NDC 44567-240-10
 
-Cefepime for Injection, USP 1 gram/Vial
+Cefepime for Injection, USP 1 gram per vial
 
-For IV or IM use after constitution.
+For intramuscular or intravenous use after constitution.
 
 Rx only
 
@@ -12,9 +12,9 @@ Rx only
 
 NDC 44567-241-10
 
-Cefepime for Injection, USP 2 grams/Vial
+Cefepime for Injection, USP 2 grams per vial
 
-For IV use after constitution.
+For intravenous use after constitution.
 
 Rx only
 
