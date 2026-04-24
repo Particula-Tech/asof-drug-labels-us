@@ -1,0 +1,6 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Insulin Secretagogues or Insulin
+
+Coadministration of sitagliptin with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia.
+[See Warnings and Precautions (5.4).]

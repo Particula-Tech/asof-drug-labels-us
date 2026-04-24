@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA202387"
+  ],
+  "inn": "sitagliptin",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-5766-31",
+    "0781-5766-92",
+    "0781-5768-31",
+    "0781-5768-92",
+    "0781-5770-10",
+    "0781-5770-31",
+    "0781-5770-92"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "sitagliptin phosphate",
+      "name": "Sitagliptin Phosphate"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sitagliptin phosphate",
+      "name": "Sitagliptin Phosphate"
+    }
+  ],
+  "setid": "cebc8388-c9db-4e27-8d6b-0d9bdc9d766d",
+  "source": "dailymed"
+}
