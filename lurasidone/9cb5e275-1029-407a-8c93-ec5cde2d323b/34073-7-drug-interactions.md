@@ -6,8 +6,8 @@ Table 34: Clinically Important Drug Interactions with Lurasidone Hydrochloride
 
 | Strong CYP3A4 Inhibitors |  |
 | --- | --- |
-| Clinical Impact: | Concomitant use of Lurasidone Hydrochloride with strong CYP3A4 inhibitors increased the exposure of lurasidone compared to the use of Lurasidone Hydrochloride alone [see Clinical Pharmacology (12.3)]. |
-| Intervention: | Lurasidone Hydrochloride should not be used concomitantly with strong CYP3A4 inhibitors [see Contraindications (4)]. |
+| Clinical Impact: | Concomitant use of lurasidone hydrochloride with strong CYP3A4 inhibitors increased the exposure of lurasidone compared to the use of lurasidone hydrochloride alone [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Lurasidone hydrochloride should not be used concomitantly with strong CYP3A4 inhibitors [see Contraindications (4)]. |
 | Examples: | Ketoconazole, clarithromycin, ritonavir, voriconazole, mibefradil |
 | Moderate CYP3A4 Inhibitors |  |
 | Clinical Impact: | Concomitant use of lurasidone hydrochloride with moderate CYP3A4 inhibitors increased the exposure of lurasidone compared to the use of lurasidone hydrochloride alone [see Clinical Pharmacology (12.3)] |
@@ -18,7 +18,7 @@ Table 34: Clinically Important Drug Interactions with Lurasidone Hydrochloride
 | Intervention: | Lurasidone hydrochloride should not be used concomitantly with strong CYP3A4 inducers [see Contraindications (4)]. |
 | Examples: | Rifampin, avasimibe, St. John's wort, phenytoin, carbamazepine |
 | Moderate CYP3A4 Inducers |  |
-| Clinical Impact: | Concomitant use of lurasidone hydrochloride with moderate CYP3A4 inducers decreased the exposure of lurasidone compared to the use of Lurasidone Hydrochloride alone [see Clinical Pharmacology (12.3)]. |
+| Clinical Impact: | Concomitant use of lurasidone hydrochloride with moderate CYP3A4 inducers decreased the exposure of lurasidone compared to the use of lurasidone hydrochloride alone [see Clinical Pharmacology (12.3)]. |
 | Intervention: | Lurasidone hydrochloride dose should be increased when used concomitantly with moderate inducers of CYP3A4 [see Dosage and Administration (2.6)]. |
 | Examples: | Bosentan, efavirenz, etravirine, modafinil, nafcillin |
 

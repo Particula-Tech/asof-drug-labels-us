@@ -143,9 +143,11 @@ If you have diabetes or risk factors for diabetes (such as being overweight or a
 
 Call your healthcare provider if you have any of these symptoms of high blood sugar during treatment with lurasidone hydrochloride tablets:
 
-- feel very thirsty need to urinate more than usual
-- feel very hungry feel weak or tired
-- feel sick to your stomach feel confused, or your breath smells fruity
+• feel very thirsty • need to urinate more than usual
+
+• feel very hungry • feel weak or tired
+
+• feel sick to your stomach • feel confused, or your breath smells fruity
 
 o increased fat levels (cholesterol and triglycerides) in your blood.
 
@@ -233,7 +235,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store lurasidone hydrochloride tablets?
 
-- Store lurasidone hydrochloride tablets at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F)
+- Store lurasidone hydrochloride tablets at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F).
 - Keep lurasidone hydrochloride tablets and all medicines out of the reach of children.
 
 General information about the safe and effective use of lurasidone hydrochloridetablets.
@@ -254,7 +256,7 @@ Inactive ingredients: croscarmellose sodium, hypromellose, mannitol, magnesium s
 
 The color coating material contains following ingredients.
 
-| Strength | Coating Material | Ingredients |
+| Strength | Coating material | Ingredients |
 | --- | --- | --- |
 | 20 mg, 40 mg, 60 mg, and 120 mg | Opadry® white | Hypromellose, Titanium dioxide, Macrogol/Polyethylene glycol |
 | 80 mg | Opadry® green | Hypromellose, Titanium dioxide, Macrogol/ Polyethylene glycol, Iron oxide yellow, FD&C Blue #2/Indigo carmine aluminum lake |
@@ -263,12 +265,12 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD., India.
 
-Manufactured for
+Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8100117 Revised: April 2025
+8108948 Revised: April 2026
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

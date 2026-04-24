@@ -56,7 +56,7 @@ Table 35: Primary Efficacy Results for Studies in Adult Patients with Schizophre
 |  |  | Primary Efficacy Measure: PANSS |  |  |
 | 3 | Lurasidone hydrochloride (40 mg/day)* | 96.6 (10.7) | -25.7 (2.0) | -9.7 (-15.3,-4.1) |
 |  | Lurasidone hydrochloride (120 mg/day)* | 97.9 (11.3) | -23.6 (2.1) | -7.5 (-13.4,-1.7) |
-|  | Olanzapine (15 mg/day)** | 96.3 (12.2) | -28.7 (1.9) | -12.6 (-18.2,-7.9) |
+|  | Olanzapine (15 mg/day)*b | 96.3 (12.2) | -28.7 (1.9) | -12.6 (-18.2,-7.9) |
 |  | Placebo | 95.8 (10.8) | -16.0 (2.1) | -- |
 | 4 | Lurasidone hydrochloride (40 mg/day) | 96.5 (11.5) | -19.2 (1.7) | -2.1 (-7.0, 2.8) |
 |  | Lurasidone hydrochloride (80 mg/day)* | 96.0 (10.8) | -23.4 (1.8) | -6.4 (-11.3,-1.5) |
@@ -64,16 +64,16 @@ Table 35: Primary Efficacy Results for Studies in Adult Patients with Schizophre
 |  | Placebo | 96.8 (11.1) | -17.0 (1.8) | -- |
 | 5 | Lurasidone hydrochloride (80 mg/day)* | 97.7 (9.7) | -22.2 (1.8) | -11.9 (-16.9,-6.9) |
 |  | Lurasidone hydrochloride (160 mg/day)* | 97.5 (11.8) | -26.5 (1.8) | -16.2 (-21.2,-11.2) |
-|  | Quetiapine Extended-release (600 mg/day)* | 97.7 (10.2) | -27.8 (1.8) | -17.5 (-22.5,-12.4) |
+|  | Quetiapine Extended-release (600 mg/day)*b | 97.7 (10.2) | -27.8 (1.8) | -17.5 (-22.5,-12.4) |
 |  | Placebo | 96.6 (10.2) | -10.3 (1.8) | -- |
 
-SD: standard deviation; SE standard error; LS Mean: least-squares mean; CI; confidence interval, unadjusted for multiple comparisons. a﻿Difference (drug minus placebo) in least-squares mean change from baseline. ﻿b﻿Included for assay sensitivity *Doses statistically significantly superior to placebo.
+SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, unadjusted for multiple comparisons. a﻿Difference (drug minus placebo) in least-squares mean change from baseline. ﻿b﻿Included for assay sensitivity. *Doses statistically significantly superior to placebo.
 
 Examination of population subgroups based on age (there were few patients over 65), gender and race did not reveal any clear evidence of differential responsiveness.
 
 Adolsecents (13 to 17 years)
 
-﻿The efficacy of lurasidone hydrochloride tablets, was established in a 6-week, multicenter, randomized, double-blind, placebo-controlled study of adolescents (13 to 17 years) who met DSM-IV-TR criteria for schizophrenia (N=326).
+﻿The efficacy of lurasidone hydrochloride tablets was established in a 6-week, multicenter, randomized, double-blind, placebo-controlled study of adolescents (13 to 17 years) who met DSM-IV-TR criteria for schizophrenia (N=326).
 Patients were randomized to one of two fixed-doses of lurasidone hydrochloride tablets (40 or 80 mg/day) or placebo.
 
 The primary rating instrument used to assess psychiatric signs and symptoms was the PANSS.

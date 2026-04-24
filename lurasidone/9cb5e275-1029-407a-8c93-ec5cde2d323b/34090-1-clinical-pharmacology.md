@@ -56,7 +56,7 @@ Following administration of 40 mg of lurasidone hydrochloride, the mean (%CV) ap
 Drug Interaction Studies
 
 Effects of other drugs on the exposure of lurasidone are summarized in Figure 1.
-A population PK analyses concluded that coadministration of lithum 300 to 2,400 mg/day or valproate 300 to 2,000 mg/day with lurasidone for up to 6 weeks has minimal effect on lurasidone exposure.
+A population PK analyses concluded that coadministration of lithium 300 to 2,400 mg/day or valproate 300 to 2,000 mg/day with lurasidone for up to 6 weeks has minimal effect on lurasidone exposure.
 
 And the effects of lurasidone hydrochloride on the exposures of other drugs are summarized in Figure 2.
 A population PK analyses concluded that coadministration of lurasidone has minimal effect on lithium and valproate exposure when it is coadministered with lithium 300 to 2,400 mg/day or valproate 300 to 2,000 mg/day.

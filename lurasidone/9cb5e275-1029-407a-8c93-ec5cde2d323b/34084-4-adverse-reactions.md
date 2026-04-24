@@ -93,7 +93,7 @@ Table 20: Adverse Reactions in 2% or More of Lurasidone Hydrochloride-Treated Pa
 
 |  | Percentage of Patients Reporting Reaction |  |  |  |
 | --- | --- | --- | --- | --- |
-| Body System or Organ Class Dictionary-derived Term | Placebo (N=168) (%) | Lurasidone hydrochloride 20 to 60 mg/day (N=164) (%) | Lurasidone hydrochloride 80 to 120 mg/day (N=167) (%) | All lurasidone hydrochloride (N=331) (%) |
+| Body System or Organ Class Dictionary-derived Term | Placebo (N=168) (%) | Lurasidone hydrochloride 20 to 60 mg/day (N=164) (%) | Lurasidone hydrochloride 80 to 120 mg/day (N=167) (%) | All Lurasidone hydrochloride (N=331) (%) |
 | Gastrointestinal Disorders |  |  |  |  |
 | Nausea | 8 | 10 | 17 | 14 |
 | Dry Mouth | 4 | 6 | 4 | 5 |
@@ -342,7 +342,7 @@ Table 28: Incidence of EPS Compared to Placebo in the Bipolar Depression Study i
 | All EPS events, excluding Akathisia/Restlessness | 4 | 3 |
 | Akathisia | 4 | 3 |
 | Parkinsonism** | <1 | <1 |
-| Dystonia* | 1 | <1 |
+| Dystonia*** | 1 | <1 |
 | Salivary hypersecretion | <1 | <1 |
 | Psychomotor hyperactivity | 0 | <1 |
 | Tardive Dyskinesia | <1 | 0 |

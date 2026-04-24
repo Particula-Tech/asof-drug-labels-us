@@ -246,7 +246,7 @@ In the uncontrolled, open-label, longer-term bipolar depression study, patients 
 
 Pediatric Patients (10 to 17 years)
 
-In the 6-week, placebo-controlled bipolar depression study with pediatric patients 10 to 17 years, mean change in fasting cholesterol was -6.3 mg/dL for lurasidone hydrochloride tablets 20 to 80 mg/day (n=144) and 1.4 mg/dL for placebo (n=145), and mean change in fasting triglyceride was -7.6 mg/dL for lurasidone hydrochloride tablets 20 to 80 mg/day (n=144) and +5.9 mg/dL for placebo (n=145).
+In the 6-week, placebo-controlled bipolar depression study with pediatric patients 10 to 17 years, mean change in fasting cholesterol was -6.3 mg/dL for lurasidone hydrochloride tablets 20 to 80 mg/day (n=144) and -1.4 mg/dL for placebo (n=145), and mean change in fasting triglyceride was -7.6 mg/dL for lurasidone hydrochloride tablets 20 to 80 mg/day (n=144) and +5.9 mg/dL for placebo (n=145).
 
 Pediatric Patients (6 to 17 years)
 
