@@ -21,7 +21,8 @@ Other Adverse Reactions Inform patients that treatment with androgens may lead t
 - Too frequent or persistent erections of the penis.
 - Ankle swelling that may reflect peripheral edema.
 - Red blood cell count increase, PSA increase, injection site bruising, injection site bleeding.
-  Instruct patients to report any changes in their state of health, such as changes in urinary habits, breathing, sleep, and mood, including new onset or worsening of depression, or suicidal ideation.
+
+Instruct patients to report any changes in their state of health, such as changes in urinary habits, breathing, sleep, and mood, including new onset or worsening of depression, or suicidal ideation.
 
 Keep XYOSTED out of the reach of children
 
