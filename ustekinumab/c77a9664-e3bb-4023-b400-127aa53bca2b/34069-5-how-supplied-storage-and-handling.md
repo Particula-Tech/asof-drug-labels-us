@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-STELARA ®(ustekinumab) injection is a sterile, preservative-free, colorless to light yellow solution and may contain a few small translucent or white particles.
+STELARA® (ustekinumab) injection is a sterile, preservative-free, colorless to light yellow solution and may contain a few small translucent or white particles.
 It is supplied as individually packaged, single-dose prefilled syringes or single-dose vials.
 
 For Subcutaneous Use
@@ -10,7 +10,7 @@ Prefilled Syringes
 - 45 mg/0.5 mL (NDC 57894-060-03)
 - 90 mg/mL (NDC 57894-061-03)
 
-Each prefilled syringe is equipped with a 27 -gauge fixed ½ inch needle, a needle safety guard, and a needle cover that contains dry natural rubber.
+Each prefilled syringe is equipped with a 27-gauge fixed ½ inch needle, a needle safety guard, and a needle cover that contains dry natural rubber.
 
 Single-dose Vial
 

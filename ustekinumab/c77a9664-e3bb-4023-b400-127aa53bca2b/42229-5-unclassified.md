@@ -6,4 +6,4 @@ U.S. License No. 1864 at Cilag AG, Schaffhausen, Switzerland
 
 For patent information: www.janssenpatents.com
 
-© Johnson & Johnson and its affiliates 2025
+© Johnson & Johnson and its affiliates 2026

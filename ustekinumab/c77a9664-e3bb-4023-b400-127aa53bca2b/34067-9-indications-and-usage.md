@@ -10,8 +10,8 @@ STELARA is indicated for the treatment of adults and pediatric patients 6 years 
 
 ## 1.3 Crohn's Disease (CD)
 
-STELARA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease.
+STELARA is indicated for the treatment of adults and pediatric patients 2 years of age and older with moderately to severely active Crohn's disease.
 
-## 1.4 Ulcerative Colitis
+## 1.4 Ulcerative Colitis (UC)
 
 STELARA is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis.

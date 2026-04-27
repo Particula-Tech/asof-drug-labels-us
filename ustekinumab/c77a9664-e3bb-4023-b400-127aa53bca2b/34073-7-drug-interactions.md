@@ -14,7 +14,7 @@ Thus, use of STELARA, an antagonist of IL-12 and IL-23, could normalize the form
 Upon initiation or discontinuation of STELARA in patients who are receiving concomitant CYP450 substrates, particularly those with a narrow therapeutic index, consider monitoring for therapeutic effect or drug concentration and adjust the individual dosage of the CYP substrate as needed.
 See the prescribing information of specific CYP substrates.
 
-A CYP-mediated drug interaction effect was not observed in subjects with Crohn’s disease [see Clinical Pharmacology (12.3)].
+A CYP-mediated drug interaction effect was not observed in subjects with Crohn's disease [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Allergen Immunotherapy
 

@@ -1,4 +1,6 @@
-INSTRUCTIONS FOR USE STELARA (stel ar a) (ustekinumab) injection, for subcutaneous use
+# INSTRUCTIONS FOR USE
+
+STELARA® (stel ar a) (ustekinumab) injection, for subcutaneous use
 
 This Instructions for Use contains information on how to inject STELARA using a prefilled syringe.
 
@@ -7,22 +9,22 @@ A healthcare provider should show you how to prepare and give an injection of ST
 
 If you cannot give the injection:
 
-- ask your healthcare provider to help you, or
-- ask someone who has been trained by a healthcare provider to give your injections.
+- ask a healthcare provider to help you, or
+- ask someone who has been trained by a healthcare provider to give the injections.
 
 Do not try to inject STELARA until you have been shown how to inject STELARA by a healthcare provider.
 
-Important information You Need to Know Before Injecting STELARA:
+Important Information You Need to Know Before Injecting STELARA:
 
-- For subcutaneous use only(inject directly under the skin).
+- For subcutaneous use only (inject directly under the skin).
 - Before you start, check the carton to make sure that it is the right dose.
   You will have either 45 mg or 90 mg as prescribed by the healthcare provider.
   - If the dose is 45 mg, you will receive one 45 mg prefilled syringe.
   - If the dose is 90 mg, you will receive either one 90 mg prefilled syringe or two 45 mg prefilled syringes.
     If you receive two 45 mg prefilled syringes for a 90 mg dose, you will need to give two injections, one right after the other.
 - Check the expiration date on the prefilled syringe and carton.
-  If the expiration date has passed or if the prefilled syringe has been kept at room temperature up to 86°F (30°C) for longer than a maximum single period of 30 days or if the prefilled syringe has been stored above 86°F (30°C), do not use it.
-  If the expiration date has passed or if the prefilled syringe has been stored above 86°F (30°C) or at room temperature for longer than 30 days, call the healthcare provider or pharmacist, or call 1-800-526-7736 for help.
+  Do not use STELARA after the expiration date has passed or if the prefilled syringe has been kept at room temperature up to 86 °F (30 °C) for longer than a maximum single period of 30 days or if the prefilled syringe has been stored above 86 °F (30 °C).
+  Call the healthcare provider or pharmacist, or call 1-800-526-7736 for help.
 - Make sure the syringe is not damaged.
 - The needle cover on the prefilled syringe contains latex.
   Do not handle the needle cover on the STELARA prefilled syringe if you are allergic to latex.
@@ -39,10 +41,10 @@ Important information You Need to Know Before Injecting STELARA:
 
 Storing STELARA prefilled syringes
 
-- Store STELARA prefilled syringes in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Store STELARA prefilled syringes in the refrigerator between 36 °F to 46 °F (2 °C to 8 °C).
 - Store STELARA prefilled syringes in the original carton to protect from light.
 - Do not freeze STELARA prefilled syringes.
-- If needed, STELARA prefilled syringe may be stored at room temperature up to 86°F (30°C) for a maximum single period of up to 30 days in the original carton to protect from light.
+- If needed, individual STELARA prefilled syringes may be stored at room temperature up to 86 °F (30 °C) for a maximum single period of up to 30 days in the original carton to protect from light.
 - Record the date when the prefilled syringe is removed from the refrigerator on the carton in the space provided.
 - After a prefilled syringe has been stored at room temperature, do not return it to the refrigerator.
 - Throw away (discard) the prefilled syringe if it is not used within 30 days at room temperature storage.
@@ -50,16 +52,14 @@ Storing STELARA prefilled syringes
 Keep STELARA and all medicines out of the reach of children.
 
 Gather the supplies you will need to prepare and to give the injection.
-(See Figure A)
-
-You will need:
+(See Figure A) You will need:
 
 - antiseptic wipes
 - cotton balls or gauze pads
 - adhesive bandage
 - your prescribed dose of STELARA (See Figure B)
 - FDA-cleared sharps disposal container.
-  See " Step 4: Disposing of the syringes"
+  See "Step 4: Disposing of the syringes"
 
 Figure A
 
@@ -93,8 +93,8 @@ Step 3: Injecting STELARA
 
 - Remove the needle cover when you are ready to inject STELARA.
 - Do not touch the plunger or plunger head while removing the needle cover.
-- Hold the body of the prefilled syringe with one hand and pull the needle cover straight off.
-  (see Figure D)
+- Hold the body of the prefilled syringe with 1 hand and pull the needle cover straight off.
+  (See Figure D)
 - Put the needle cover in the trash.
 - You may also see a drop of liquid at the end of the needle.
   This is normal.
@@ -103,7 +103,7 @@ Step 3: Injecting STELARA
 
 Figure D
 
-- Hold the body of the prefilled syringe in one hand between the thumb and index fingers.
+- Hold the body of the prefilled syringe in 1 hand between the thumb and index fingers.
   (See Figure E)
 
 Figure E
@@ -140,13 +140,13 @@ If you receive two 45 mg prefilled syringes for a 90 mg dose, you will need to g
 Repeat Steps 1 to 3 for the second injection using a new syringe.
 Choose a different site for the second injection.
 
-Step 4: Disposing of the syringes.
+Step 4: Disposing of the syringes
 
-- Put the syringe in a FDA-cleared sharps disposal container right away after use.
+- Put the syringe in an FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) syringes in your household trash.
-- If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - made of heavy-duty plastic
-  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out.
+- If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
+  - made of heavy-duty plastic,
+  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
   - upright and stable during use,
   - leak-resistant,
   - and properly labeled to warn of hazardous waste inside the container.
@@ -157,15 +157,18 @@ Step 4: Disposing of the syringes.
   Do not recycle your sharps disposal container.
 - If you have any questions, talk to your healthcare provider or pharmacist.
 
-Prefilled Syringe Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, USA License No. 1864 at Baxter Pharmaceutical Solutions, Bloomington, IN 47403 and at Cilag AG, Schaffhausen, Switzerland
+Prefilled Syringe Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, USA.
+U.S. License No. 1864 at Baxter Pharmaceutical Solutions, Bloomington, IN 47403 and at Cilag AG, Schaffhausen, Switzerland
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 06/2025
+Revised: 4/2026
 
-© Johnson & Johnson and its affiliates 2025
+© Johnson & Johnson and its affiliates 2026
 
-INSTRUCTIONS FOR USE STELARA (stel ar a) (ustekinumab) injection, for subcutaneous use
+# INSTRUCTIONS FOR USE
+
+STELARA® (stel ar a) (ustekinumab) injection, for subcutaneous use
 
 This Instructions for Use contains information on how to inject STELARA using a vial.
 
@@ -174,17 +177,20 @@ A healthcare provider should show you how to prepare, measure the dose, and give
 
 If you cannot give the injection:
 
-- ask your healthcare provider to help you, or
+- ask a healthcare provider to help you, or
 - ask someone who has been trained by a healthcare provider to give the injections.
 
 Do not try to inject STELARA until you have been shown how to inject STELARA by a healthcare provider.
 
-Important information You Need to Know Before Injecting STELARA:
+Important Information You Need to Know Before Injecting STELARA:
 
-- Before you start, check the carton to make sure that it is the right dose.
+- For subcutaneous use only (inject directly under the skin).
+- Before you start, check the carton to make sure that the number of vials and strength is correct.
   You will have either 45 mg or 90 mg as prescribed by the healthcare provider.
-  - If the dose is 45 mg or less you will receive one 45 mg vial.
-  - If the dose is 90 mg, you will receive two 45 mg vials and you will need to give two injections, one right after the other.
+  - If the dose is 45 mg or less, you will receive one 45 mg vial.
+  - If the dose is more than 45 mg, you will receive two 45 mg vials and you will need to give two injections, one right after the other.
+  - Make sure you know the proper amount (volume) to remove from the vial (s) and type of syringe(s) needed for dosing.
+    If you do not know the amount or type of syringe(s) needed, contact your healthcare provider for further instructions.
 - Check the expiration date on the vial and carton.
   If the expiration date has passed, do not use it.
   If the expiration date has passed, call the healthcare provider or pharmacist, or call 1-800-526-7736 for help.
@@ -192,27 +198,28 @@ Important information You Need to Know Before Injecting STELARA:
   The liquid in the vial should look clear and colorless to light yellow with a few small clear or white particles.
 - Do not use if it is frozen, discolored, cloudy or has large particles.
   Get a new vial.
-- Do not shake the vial at any time.Shaking the vial may damage the STELARA medicine.
+- Do not shake the vial at any time.
+  Shaking the vial may damage the STELARA medicine.
   If the vial has been shaken, do not use it.
   Get a new vial.
-- Do not use a STELARA vial more than one time, even if there is medicine left in the vial.
+- Do not use a STELARA vial more than 1 time, even if there is medicine left in the vial.
   After the rubber stopper is punctured, STELARA can become contaminated by harmful bacteria which could cause an infection if re-used.
   Therefore, throw away any unused STELARA after you give the injection.
 - Safely throw away (dispose of) STELARA vials, needles, and syringes after use.
-  See " Step 6: Disposing of needles, syringes, and vials."
+  See "Step 6: Disposing of needles, syringes, and vials."
 - Do not re-use syringes or needles.
-- To avoid needle-stick injuries, do notrecap needles.
+- To avoid needle-stick injuries, do not recap needles.
 
 Storing STELARA vials
 
-- Store STELARA vials in a refrigerator between 36°F to 46°F (2°C to 8°C).
+- Store STELARA vials in a refrigerator between 36 °F to 46 °F (2 °C to 8 °C).
 - Store STELARA vials standing up straight (upright).
 - Store STELARA vials in the original carton to protect from light until the time of use.
-- Do notfreeze STELARA vials.
+- Do not freeze STELARA vials.
 
 Keep STELARA and all medicines out of the reach of children.
 
-Gather the supplies you will need to prepare STELARA and to give your injection.
+Gather the supplies you will need to prepare STELARA and to give the injection.
 (See Figure A)
 
 You will need:
@@ -223,26 +230,26 @@ You will need:
 - adhesive bandage
 - your prescribed dose of STELARA
 - FDA-cleared sharps disposal container.
-  See " Step 6: Disposing of needles, syringes, and vials."
+  See "Step 6: Disposing of needles, syringes, and vials."
 
 Figure A
 
-Step 1: Preparing the injection.
+Step 1: Preparing the injection
 
 - Choose a well-lit, clean, flat work surface.
 - Wash your hands well with soap and warm water.
 
-Step 2: Preparing your injection site
+Step 2: Preparing the injection site
 
-- Choose an injection site around your stomach area (abdomen), buttocks, and upper legs (thighs).
-- If a caregiver is giving you the injection, the outer area of the upper arms may also be used.
+- Choose an injection site around the stomach area (abdomen), buttocks, and upper legs (thighs).
+- If a caregiver is giving the injection, the outer area of the upper arms may also be used.
   (See Figure B)
 - Use a different injection site for each injection.
-  Do notgive an injection in an area of the skin that is tender, bruised, red or hard.
+  Do not give an injection in an area of the skin that is tender, bruised, red or hard.
 - Clean the skin with an antiseptic wipe where you plan to give the injection.
-- Do nottouch this area again before giving the injection.
+- Do not touch this area again before giving the injection.
   Let the skin dry before injecting.
-- Do notfan or blow on the clean area.
+- Do not fan or blow on the clean area.
 
 Figure B
 
@@ -284,14 +291,15 @@ Figure F
 - Push down on the plunger until all of the air has gone from the syringe into the vial.
 - Turn the vial and the syringe upside down.
   (See Figure G)
-- Hold the STELARA vial with one hand.
+- Hold the STELARA vial with 1 hand.
 - It is important that the needle is always in the liquid in order to prevent air bubbles forming in the syringe.
 - Pull back on the syringe plunger with your other hand.
 - Fill the syringe until the black tip of the plunger lines up with the mark that matches the prescribed dose.
 
 Figure G
 
-- Do not remove the needle from the vial.Hold the syringe with the needle pointing up to see if it has any air bubbles inside.
+- Do not remove the needle from the vial.
+  Hold the syringe with the needle pointing up to see if it has any air bubbles inside.
 - If there are air bubbles, gently tap the side of the syringe until the air bubbles rise to the top.
   (See Figure H)
 - Slowly press the plunger up until all of the air bubbles are out of the syringe (but none of the liquid is out).
@@ -302,8 +310,8 @@ Figure H
 
 Step 5: Injecting STELARA
 
-- Hold the barrel of the syringe in one hand, between the thumb and index fingers.
-- Do notpull back on the plunger at any time.
+- Hold the barrel of the syringe in 1 hand, between the thumb and index fingers.
+- Do not pull back on the plunger at any time.
 - Use the other hand to gently pinch the cleaned area of skin.
   Hold firmly.
 - Use a quick, dart-like motion to insert the needle into the pinched skin at about a 45-degree angle.
@@ -324,12 +332,13 @@ Figure J
   Do not rub the injection site.
   You may cover the injection site with a small adhesive bandage, if necessary.
 
-If the dose is 90 mg, you will receive two 45 mg vials and you will need to give a second injection right after the first.
-Repeat Steps 1 to 5 using a new syringe.Choose a different site for the second injection.
+If the dose is more than 45 mg, you will receive two 45 mg vials and you will need to give a second injection right after the first.
+Repeat Steps 1 to 5 using a new syringe.
+Choose a different site for the second injection.
 
-Step 6: Disposing of the needles, syringes, and vials.
+Step 6: Disposing of needles, syringes, and vials
 
-- Do notre-use a syringe or needle.
+- Do not re-use a syringe or needle.
 - To avoid needle-stick injuries, do not recap a needle.
 - Put the needles and syringes in an FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) needles and syringes in your household trash.
@@ -347,9 +356,11 @@ Step 6: Disposing of the needles, syringes, and vials.
 - Throw away the vial into the container where you put the syringes and needles.
 - If you have any questions, talk to your healthcare provider or pharmacist.
 
-Vial Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, USA License No. 1864 at Cilag AG, Schaffhausen, Switzerland
+Vial Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, USA.
+U.S. License No. 1864 at Cilag AG, Schaffhausen, Switzerland
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 06/2025
 
-© Johnson & Johnson and its affiliates 2025
+Revised: 4/2026
+
+© Johnson & Johnson and its affiliates 2026

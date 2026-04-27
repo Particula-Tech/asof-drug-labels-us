@@ -9,7 +9,8 @@ Serious infections requiring hospitalization, or otherwise clinically significan
 
 - Plaque Psoriasis: diverticulitis, cellulitis, pneumonia, appendicitis, cholecystitis, sepsis, osteomyelitis, viral infections, gastroenteritis, and urinary tract infections.
 - Psoriatic arthritis: cholecystitis.
-- Crohn's disease: anal abscess, gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeria meningitis.
+- Crohn's disease in adults: anal abscess, gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeria meningitis.
+- Crohn's disease in pediatrics: Aeromonas gastroenteritis
 - Ulcerative colitis: gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeriosis.
 
 Avoid initiating treatment with STELARA in patients with any clinically important active infection until the infection resolves or is adequately treated.
@@ -38,7 +39,7 @@ Closely monitor patients receiving STELARA for signs and symptoms of active tube
 
 STELARA is an immunosuppressant and may increase the risk of malignancy.
 Malignancies were reported among subjects who received STELARA in clinical trials [see Adverse Reactions (6.1)].
-In rodent models, inhibition of IL-12/IL-23p40 increased the risk of malignancy [see Nonclinical Toxicology (13)].
+In rodent models, inhibition of IL-12/IL-23p40 increased the risk of malignancy [see Nonclinical Toxicology (13.1)].
 
 The safety of STELARA has not been evaluated in patients who have a history of malignancy or who have a known malignancy.
 
@@ -79,4 +80,4 @@ Cases of interstitial pneumonia, eosinophilic pneumonia, and cryptogenic organiz
 Clinical presentations included cough, dyspnea, and interstitial infiltrates following one to three doses.
 Serious outcomes have included respiratory failure and prolonged hospitalization.
 Patients improved with discontinuation of therapy and in certain cases administration of corticosteroids.
-If diagnosis is confirmed, discontinue STELARA and institute appropriate treatment [see Postmarketing Experience (6.3)].
+If diagnosis is confirmed, discontinue STELARA and institute appropriate treatment [see Adverse Reactions (6.3)].
