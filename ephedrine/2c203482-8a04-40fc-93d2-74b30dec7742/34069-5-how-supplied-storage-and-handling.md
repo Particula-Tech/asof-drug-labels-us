@@ -17,8 +17,12 @@ Protect from Light
 
 Contains No Preservatives
 
-Manufactured for: Endo USA Malvern, PA 19355
+Manufactured for:
 
-© 2024 Endo, Inc. or one of its affiliates.
+Par Health USA
 
-R03/2024
+Rochester, MI 48307
+
+© 2025 Par Health, Inc. or one of its affiliates.
+
+R12/2025
