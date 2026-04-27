@@ -1,28 +1,29 @@
-ESTROGENS INCREASE THE RISK OF ENDOMETRIAL CANCER
+WARNING: ENDOMETRIAL CANCER WITH UNOPPOSED ESTROGEN IN WOMEN WITH A UTERUS; STROKE AND DEEP VEIN THROMBOSIS
 
-Close clinical surveillance of all women taking estrogens is important.
-Adequate diagnostic measures, including endometrial sampling when indicated, should be undertaken to rule out malignancy in all cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
-There is no evidence that the use of “natural” estrogens results in a different endometrial risk profile than synthetic estrogens at equivalent estrogen doses [see WARNINGS, Malignant neoplasms, Endometrial cancer].
+Endometrial Cancer With Unopposed Estrogen In Women With A Uterus
 
-CARDIOVASCULAR AND OTHER RISKS
+- There is an increased risk of endometrial cancer in a woman with a uterus who uses unopposed estrogens.
+  Adding a progestogen to estrogen-only therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
+- Perform adequate diagnostic measures, including directed or random endometrial sampling when indicated, to rule out malignancy in menopausal women with abnormal genital bleeding of unknown etiology [see WARNINGS].
 
-Estrogens and progestins should not be used for the prevention of cardiovascular disease [see WARNINGS, Cardiovascular disorders].
+Stroke and Deep Vein Thrombosis
 
-The Women’s Health Initiative (WHI) study reported increased risks of myocardial infarction, stroke, invasive breast cancer, pulmonary emboli, and deep vein thrombosis in postmenopausal women (50 to 79 years of age) during 5 years of treatment with oral conjugated estrogens (CE 0.625 mg) combined with medroxyprogesterone acetate (MPA 2.5 mg) relative to placebo [see CLINICAL PHARMACOLOGY, Clinical Studies].
-
-The Women’s Health Initiative Memory Study (WHIMS), a substudy of WHI, reported increased risk of developing probable dementia in postmenopausal women 65 years of age or older during 4 years of treatment with oral conjugated estrogens plus medroxyprogesterone acetate relative to placebo.
-It is unknown whether this finding applies to younger postmenopausal women or to women taking estrogen alone therapy [see CLINICAL PHARMACOLOGY, Clinical Studies].
-
-Other doses of oral conjugated estrogens with medroxyprogesterone acetate, and other combinations and dosage forms of estrogens and progestins were not studied in the WHI clinical trials and, in the absence of comparable data, these risks should be assumed to be similar.
-Because of these risks, estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
+The Women’s Health Initiative (WHI) estrogen-alone substudy reported increased risks of stroke and deep vein thrombosis (DVT) in postmenopausal women (50 to 79 years of age) during 7.2 years of treatment with daily oral conjugated estrogens (CE) [0.625 mg] alone, relative to placebo [see CLINICAL PHARMACOLOGY, Clinical Studies and WARNINGS, Cardiovascular Disorders].
 
 WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT DELESTROGEN (AN ESTROGEN HORMONE)?
 
-- Estrogens increase the chances of getting cancer of the uterus.
-  Report any unusual vaginal bleeding right away while you are taking estrogens.
+- Using estrogen alone increases your chance of getting cancer of the uterus (womb).
+- Report any unusual vaginal bleeding right away while you are taking estrogens.
   Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-- Do not use estrogens with or without progestins to prevent heart disease, heart attacks, or strokes.
-  Using estrogens with or without progestins may increase your chances of getting heart attacks, strokes, breast cancer, and blood clots.
-  Using estrogens with progestins may increase your risk of dementia.
-  You and your healthcare provider should talk regularly about whether you still need treatment with DELESTROGEN.
+- Do not use estrogen alone to prevent heart disease, heart attacks, or strokes.
+- Using estrogen alone may increase your chances of getting strokes or blood clots.
+- Using estrogen alone may increase your risk of getting dementia, based on a study of women 65 years of age and older.
+- Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia.
+- Using estrogens with progestins may increase your chance of getting heart attacks, strokes, breast cancer, or blood clots.
+- Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older.
+- Only one estrogen-alone product and dose have been shown to increase your chances of getting strokes, blood clots, and dementia.
+  Only one estrogen plus progestin product and dose have been shown to increase your chances of getting heart attacks, strokes, breast cancer, blood clots and dementia.
+
+Because other products and doses have not been studied in the same way, it is not known how the use of DELESTROGEN will affect your chances of these conditions.
+You and your healthcare provider should talk regularly about whether you still need treatment with DELESTROGEN.
