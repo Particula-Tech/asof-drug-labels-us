@@ -23,11 +23,11 @@ Table 10 shows the number of patients experiencing various types of major bleedi
 
 Table 10: Major Bleeding Events in COMPASS - On Treatment Plus 2 Days*
 
-| Parameter | Rivaroxaban† N=9,134 n (%/year) | Placebo† N=9,107 n (%/year) | Rivaroxaban vs.Placebo HR (95 % CI) |
+| Parameter | Rivaroxaban† N=9,134 n (%/year) | Placebo† N=9,107 n (%/year) | Rivaroxaban vs. Placebo HR (95 % CI) |
 | --- | --- | --- | --- |
 | Modified ISTH Major Bleeding‡ | 263 (1.6) | 144 (0.9) | 1.8 (1.5, 2.3) |
-| - Fatal bleeding event Intracranial hemorrhage (ICH) Non-intracranial | 12 (<0.1) 6 (<0.1) 6 (<0.1) | 8 (<0.1) 3 (<0.1) 5 (<0.1) | 1.5 (0.6, 3.7) 2.0 (0.5, 8) 1.2 (0.4, 4) |
-| - Symptomatic bleeding in critical organ (non-fatal) ICH (fatal and non-fatal) Hemorrhagic Stroke Other ICH | 58 (0.3) 23 (0.1) 18 (0.1) 6 (<0.1) | 43 (0.3) 21 (0.1) 13 (<0.1) 9 (<0.1) | 1.4 (0.9, 2) 1.1 (0.6, 2) 1.4 (0.7, 2.8) 0.7 (0.2, 1.9) |
+| - Fatal bleeding event Intracranial hemorrhage (ICH) Non-intracranial | 12 (<0.1) 6 (<0.1) 6 (<0.1) | 8 (<0.1) 3 (<0.1) 5 (<0.1) | 1.5 (0.6, 3.7) 2.0 (0.5, 8.0) 1.2 (0.4, 4.0) |
+| - Symptomatic bleeding in critical organ (non-fatal) - ICH (fatal and non-fatal) Hemorrhagic Stroke Other ICH | 58 (0.3) 23 (0.1) 18 (0.1) 6 (<0.1) | 43 (0.3) 21 (0.1) 13 (<0.1) 9 (<0.1) | 1.4 (0.9, 2.0) 1.1 (0.6, 2.0) 1.4 (0.7, 2.8) 0.7 (0.2, 1.9) |
 | - Bleeding into the surgical site requiring reoperation (non-fatal, not in critical organ) | 7 (<0.1) | 6 (<0.1) | 1.2 (0.4, 3.5) |
 | - Bleeding leading to hospitalization (non-fatal, not in critical organ, not requiring reoperation) | 188 (1.1) | 91 (0.5) | 2.1 (1.6, 2.7) |
 | Major GI bleeding | 117 (0.7) | 49 (0.3) | 2.4 (1.7, 3.4) |
@@ -51,11 +51,11 @@ The most common site of bleeding was gastrointestinal.
 
 Table 11: Major Bleeding Events* in VOYAGER- On Treatment Plus 2 Days
 
-|  | Rivaroxaban † N=3,256 |  | Placebo† N=3,248 |  | Rivaroxaban vs.Placebo |
+|  | Rivaroxaban† N=3,256 |  | Placebo† N=3,248 |  | Rivaroxaban vs. Placebo |
 | --- | --- | --- | --- | --- | --- |
-| Parameter | n (%) | Event rate%/year | n (%) | Event rate%/year | HR (95 % CI) |
-| TIMI Major Bleeding (CABG/non-CABG) | 62 (1.9) | 0.96 | 44 (1.4) | 0.67 | 1.4 (1, 2.1) |
-| Fatal bleeding | 6 (0.2) | 0.09 | 6 (0.2) | 0.09 | 1 (0.3, 3.2) |
+| Parameter | n (%) | Event rate %/year | n (%) | Event rate %/year | HR (95 % CI) |
+| TIMI Major Bleeding (CABG/non-CABG) | 62 (1.9) | 0.96 | 44 (1.4) | 0.67 | 1.4 (1.0, 2.1) |
+| Fatal bleeding | 6 (0.2) | 0.09 | 6 (0.2) | 0.09 | 1.0 (0.3, 3.2) |
 | Intracranial bleeding | 13 (0.4) | 0.20 | 17 (0.5) | 0.26 | 0.8 (0.4, 1.6) |
 | Clinically overt signs of hemorrhage associated with a drop in hemoglobin of ≥5 g/dL or drop in hematocrit of ≥15% | 46 (1.4) | 0.71 | 24 (0.7) | 0.36 | 1.9 (1.2, 3.2) |
 
@@ -68,7 +68,7 @@ CABG: Coronary artery bypass graft; CI: confidence interval; HR: hazard ratio; T
 
 Other Adverse Reactions
 
-Non-hemorrhagic adverse reactions reported in ≥1% of rivaroxaban-treated patients in the EINSTEIN 1 (Study) and EINSTEIN 2 (Study) studies are shown in Table 12.
+Non-hemorrhagic adverse reactions reported in ≥1% of rivaroxaban-treated patients in the EINSTEIN 1 (Study) and EINSTEIN 2 (Study) are shown in Table 12.
 
 Table 12: Other Adverse Reactions* Reported by ≥1% of Rivaroxaban-Treated Patients in EINSTEIN 1 (Study) and EINSTEIN 2 (Study)
 
@@ -101,7 +101,7 @@ Table 13: Other Adverse Drug Reactions* Reported by ≥1% of Rivaroxaban-Treated
 | Body System Adverse Reaction | Rivaroxaban 10 mg N=4,487 n (%) | Enoxaparin† N=4,524 n (%) |
 | --- | --- | --- |
 | Injury, poisoning and procedural complications |  |  |
-| Wound secretion | 125 (2.8) | 89 (2) |
+| Wound secretion | 125 (2.8) | 89 (2.0) |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Pain in extremity | 74 (1.7) | 55 (1.2) |
 | Muscle spasm | 52 (1.2) | 32 (0.7) |
@@ -134,4 +134,4 @@ Respiratory, thoracic and mediastinal disorders: Eosinophilic pneumonia
 
 Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms (DRESS)
 
-Injury, poisoning, and procedural complications: Atraumatic splenic rupture
+Injury, poisoning and procedural complications: Atraumatic splenic rupture

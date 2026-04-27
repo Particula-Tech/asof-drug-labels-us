@@ -45,8 +45,8 @@ RIVAROXABAN TABLETS
 
 2.5 mg
 
-| Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida USA 33326 |
+| Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida 33326 |
 | --- | --- |
 
 Rev.
-5
+6

@@ -9,14 +9,13 @@ Table 1: Recommended Dosage in Adults
 | Reduction of Risk of Major Cardiovascular Events (CV Death, MI, and Stroke) in CAD | No dose adjustment needed based on CrCl | 2.5 mg twice daily, plus aspirin (75 to 100 mg) once daily | Take with or without food |
 | Reduction of Risk of Major Thrombotic Vascular Events in PAD, Including Patients after Lower Extremity Revascularization due to Symptomatic PAD | No dose adjustment needed based on CrCl | 2.5 mg twice daily, plus aspirin (75 to 100 mg) once daily. When starting therapy after a successful lower extremity revascularization procedure, initiate once hemostasis has been established. | Take with or without food |
 
-* Calculate CrCl based on actual weight.
-[See Warnings and Precautions (5.4) and Use in Specific Populations (8.6)]
+* Calculate CrCl based on actual weight [see Warnings and Precautions (5.4) and Use in Specific Populations (8.6)].
 
-† See Clinical Pharmacology (12.3)
+†[See Clinical Pharmacology (12.3)].
 
 ## 2.3 Switching to and from Rivaroxaban Tablets
 
-Switching from Warfarin to Rivaroxaban Tablets - When switching patients from warfarin to rivaroxaban tablets, discontinue warfarin and start rivaroxaban tablets as soon as the International Normalized Ratio (INR) is below 3.0 in adults to avoid periods of inadequate anticoagulation.
+Switching from Warfarin to Rivaroxaban Tablets - When switching patients from warfarin to rivaroxaban tablets, discontinue warfarin and start rivaroxaban tablets as soon as the International Normalized Ratio (INR) is below 3 in adults to avoid periods of inadequate anticoagulation.
 
 Switching from Rivaroxaban Tablets to Warfarin –
 

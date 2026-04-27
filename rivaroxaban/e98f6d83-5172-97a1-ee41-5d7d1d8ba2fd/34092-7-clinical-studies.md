@@ -31,18 +31,18 @@ Figure 9: Risk of Primary Efficacy Outcome by Baseline Characteristics in the CO
 
 Table 26: Efficacy results from COMPASS CAD Population*
 
-| Event | Rivaroxaban† N=8313 |  | Placebo† N=8261 |  | Hazard Ratio (95% CI) ‡ |
+| Event | Rivaroxaban† N=8,313 |  | Placebo† N=8,261 |  | Hazard Ratio (95% CI) ‡ |
 | --- | --- | --- | --- | --- | --- |
 | n (%) | Event Rate (%/year) | n (%) | Event Rate (%/year) |  |  |
 | Stroke, MI or CV death | 347 (4.2) | 2.2 | 460 (5.6) | 2.9 | 0.74 (0.65, 0.86) |
 | - Stroke | 74 (0.9) | 0.5 | 130 (1.6) | 0.8 | 0.56 (0.42, 0.75) |
-| - MI | 169 (2) | 1.1 | 195 (2.4) | 1.2 | 0.86 (0.70, 1.05) |
+| - MI | 169 (2.0) | 1.1 | 195 (2.4) | 1.2 | 0.86 (0.70, 1.05) |
 | - CV death | 139 (1.7) | 0.9 | 184 (2.2) | 1.1 | 0.75 (0.60, 0.93) |
-| Coronary heart disease death, MI, ischemic stroke, acute limb ischemia | 299 (3.6) | 1.9 | 411 (5) | 2.6 | 0.72 (0.62, 0.83) |
-| - Coronary heart disease death§ | 80 (1) | 0.5 | 107 (1.3) | 0.7 | 0.74 (0.55, 0.99) |
+| Coronary heart disease death, MI, ischemic stroke, acute limb ischemia | 299 (3.6) | 1.9 | 411 (5.0) | 2.6 | 0.72 (0.62, 0.83) |
+| - Coronary heart disease death§ | 80 (1.0) | 0.5 | 107 (1.3) | 0.7 | 0.74 (0.55, 0.99) |
 | - Ischemic stroke | 56 (0.7) | 0.3 | 114 (1.4) | 0.7 | 0.49 (0.35, 0.67) |
 | - Acute limb ischemia# | 13 (0.2) | 0.1 | 27 (0.3) | 0.2 | 0.48 (0.25, 0.93) |
-| CV death,¶ MI, ischemic stroke, acute limb ischemia | 349 (4.2) | 2.2 | 470 (5.7) | 3 | 0.73 (0.64, 0.84) |
+| CV death,¶ MI, ischemic stroke, acute limb ischemia | 349 (4.2) | 2.2 | 470 (5.7) | 3.0 | 0.73 (0.64, 0.84) |
 | All-cause mortality | 262 (3.2) | 1.6 | 339 (4.1) | 2.1 | 0.77 (0.65, 0.90) |
 
 * intention to treat analysis set, primary analyses.
@@ -66,7 +66,7 @@ CI: confidence interval
 
 ## 14.7 Reduction of Risk of Major Thrombotic Vascular Events in Patients with PAD, Including Patients after Lower Extremity Revascularization due to Symptomatic PAD
 
-The efficacy and safety of rivaroxaban tablets 2.5 mg orally twice daily versus placebo on a background of aspirin 100 mg once daily in patients with PAD were evaluated in the COMPASS study (n=4996) and will be referred to as the COMPASS PAD population [see Clinical Studies (14.6)].
+The efficacy and safety of rivaroxaban tablets 2.5 mg orally twice daily versus placebo on a background of aspirin 100 mg once daily in patients with PAD were evaluated in the COMPASS study (n=4,996) and will be referred to as the COMPASS PAD population [see Clinical Studies (14.6)].
 
 The efficacy and safety of rivaroxaban tablets were also evaluated for the reduction in the risk of the composite endpoint of myocardial infarction, ischemic stroke, cardiovascular death, acute limb ischemia (ALI), and major amputation of a vascular etiology in patients undergoing a lower extremity infrainguinal revascularization procedure due to symptomatic peripheral artery disease (PAD) in the double-blinded, placebo-controlled Vascular Outcomes studY of ASA alonG with rivaroxaban in Endovascular or surgical limb Revascularization for peripheral artery disease (PAD) trial (VOYAGER) [NCT02504216].
 A total of 6,564 patients were equally randomized to rivaroxaban tablets 2.5 mg orally twice daily vs placebo on a background therapy of aspirin 100 mg once daily.
@@ -104,14 +104,14 @@ Table 27: Efficacy Results in VOYAGER (Intent-to-Treat Population) and COMPASS P
 
 |  | VOYAGER |  |  | COMPASS PAD |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Rivaroxaban N=3286 | Placebo N=3278 | Hazard Ratio (95% CI)* p-value† | Rivaroxaban N=2492 | Placebo N=2504 | Hazard Ratio (95% CI)* |
+|  | Rivaroxaban N=3,286 | Placebo N=3,278 | Hazard Ratio (95% CI)* p-value† | Rivaroxaban N=2,492 | Placebo N=2,504 | Hazard Ratio (95% CI)* |
 | Outcome Components | Event Rate (%/year) |  | Event Rate (%/year) |  |  |  |
 | 5-Component |  |  |  |  |  |  |
-| Outcome (Major thrombotic vascular events)‡ | 6.8 | 8 | 0.85 (0.76, 0.96) p=0.0085 | 3.4 | 4.8 | 0.71 (0.57, 0.87) |
-| MI | 1.7 | 1.9 | 0.88 (0.7, 1.12) | 1.1 | 1.5 | 0.76 (0.53, 1.09) |
-| Ischemic Stroke§ | 0.9 | 1 | 0.87 (0.63, 1.19) | 0.5 | 0.9 | 0.55 (0.33, 0.93) |
-| CV death¶ | 2.5 | 2.2 | 1.14 (0.93, 1.4) | 1.4 | 1.7 | 0.82 (0.59, 1.14) |
-| ALI | 2 | 3 | 0.67 (0.55, 0.82) | 0.4 | 0.8 | 0.56 (0.32, 0.99) |
+| Outcome (Major thrombotic vascular events)‡ | 6.8 | 8.0 | 0.85 (0.76, 0.96) p=0.0085 | 3.4 | 4.8 | 0.71 (0.57, 0.87) |
+| MI | 1.7 | 1.9 | 0.88 (0.70, 1.12) | 1.1 | 1.5 | 0.76 (0.53, 1.09) |
+| Ischemic Stroke§ | 0.9 | 1.0 | 0.87 (0.63, 1.19) | 0.5 | 0.9 | 0.55 (0.33, 0.93) |
+| CV death¶ | 2.5 | 2.2 | 1.14 (0.93, 1.40) | 1.4 | 1.7 | 0.82 (0.59, 1.14) |
+| ALI | 2.0 | 3.0 | 0.67 (0.55, 0.82) | 0.4 | 0.8 | 0.56 (0.32, 0.99) |
 | Major amputation of a vascular etiology# | 1.3 | 1.5 | 0.89 (0.68, 1.16) | 0.2 | 0.6 | 0.40 (0.20, 0.79) |
 | VOYAGER Secondary Efficacy OutcomesÞ |  |  |  |  |  |  |
 | MI, ischemic stroke, CHD death,ß ALI, and | 5.8 | 7.3 | 0.8 (0.71, 0.91) | 2.8 | 4.2 | 0.66 (0.53, 0.83) |
@@ -122,14 +122,14 @@ Table 27: Efficacy Results in VOYAGER (Intent-to-Treat Population) and COMPASS P
 | ischemiaà |  |  |  |  |  |  |
 | Hospitalization for a coronary or peripheral | 3.5 | 4.8 | 0.72 (0.62, 0.85) | 1.7 | 2.9 | 0.58 (0.44, 0.77) |
 | cause of a thrombotic nature# |  |  | p<0.0001 |  |  |  |
-| MI, ischemic stroke, all-cause mortality, | 8.2 | 9.3 | 0.89 (0.79, 0.99) | 4.8 | 6 | 0.8 (0.67, 0.96) |
+| MI, ischemic stroke, all-cause mortality, | 8.2 | 9.3 | 0.89 (0.79, 0.99) | 4.8 | 6.0 | 0.80 (0.67, 0.96) |
 | ALI, and major |  |  | p=0.029 |  |  |  |
 | amputation due to |  |  |  |  |  |  |
 | vascular etiology |  |  |  |  |  |  |
 | MI, all-cause stroke, CV death, ALI, and | 6.9 | 8.1 | 0.86 (0.76, 0.96) | 3.4 | 4.9 | 0.7 (0.57, 0.86) |
 | major amputation due to vascular etiology |  |  | p=0.01 |  |  |  |
-| All-cause mortality | 4 | 3.7 | 1.08 (0.92, 1.27) | 2.8 | 3.1 | 0.91 (0.72, 1.16) |
-| VTE eventsè | 0.3 | 0.5 | 0.61 (0.37, 1) | 0.2 | 0.3 | 0.67 (0.3, 1.49) |
+| All-cause mortality | 4.0 | 3.7 | 1.08 (0.92, 1.27) | 2.8 | 3.1 | 0.91 (0.72, 1.16) |
+| VTE eventsè | 0.3 | 0.5 | 0.61 (0.37, 1.00) | 0.2 | 0.3 | 0.67 (0.3, 1.49) |
 
 Efficacy endpoints in COMPASS PAD were analysed according to the pre-specified endpoints in VOYAGER when applicable.
 

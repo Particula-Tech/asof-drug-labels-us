@@ -24,11 +24,11 @@ If you have to stop taking rivaroxaban tablets, your doctor may prescribe anothe
 You may have a higher risk of bleeding if you take rivaroxaban tablets and take other medicines that increase your risk of bleeding, including:
 
 - aspirin or aspirin containing products
-- long-term (chronic) use of nonsteroidal anti-inflammatory drugs (NSAIDs)
+- long-term (chronic) use of non-steroidal anti-inflammatory drugs (NSAIDs)
 - warfarin sodium (Coumadin®, Jantoven®)
-- any medicine that contain heparin
+- any medicine that contains heparin
 - clopidogrel (Plavix®)
-- selective serotonin reuptake inibitors (SSRIs) or seretonin norepinephrine reuptake inhibitors (SNRIs)
+- selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs)
 - other medicines to prevent or treat blood clots
 
 Tell your doctor if you take any of these medicines.
@@ -200,12 +200,12 @@ RIVAROXABAN TABLETS
 
 2.5 mg
 
-| Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida USA 33326 |
+| Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida 33326 |
 | --- | --- |
 
-Revised: July 2025
+Revised: April 2026
 
 Rev.
-5
+6
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

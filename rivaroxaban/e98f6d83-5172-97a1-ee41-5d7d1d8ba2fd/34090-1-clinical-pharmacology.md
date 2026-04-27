@@ -26,7 +26,7 @@ Table 18: Percentage Increase in Rivaroxaban PK and PD Measures in Adult Subject
 
 | Measure | Parameter | Creatinine Clearance (mL/min) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 50-79 | 30-49 | 15-29 | ESRD (on dialysis)* | ESRD (post-dialysis)* |  |  |
+| 50 to 79 | 30 to 49 | 15 to 29 | ESRD (on dialysis)* | ESRD (post-dialysis)* |  |  |
 | Exposure | AUC | 44 | 52 | 64 | 47 | 56 |
 | FXa Inhibition | AUEC | 50 | 86 | 100 | 49 | 33 |
 | PT Prolongation | AUEC | 33 | 116 | 144 | 112 | 158 |
@@ -40,13 +40,18 @@ Hepatic Impairment
 Anti-Factor Xa activity was similar in adult subjects with normal hepatic function and in mild hepatic impairment (Child-Pugh A class).
 There is no clear understanding of the impact of hepatic impairment beyond this degree on the coagulation cascade and its relationship to efficacy and safety.
 
+Cardiac Electrophysiology
+
+In a thorough QT study in healthy men and women aged 50 years and older, no QTc prolonging effects were observed for rivaroxaban tablets (15 mg and 45 mg, single dose).
+
 ## 12.3 Pharmacokinetics
 
 Absorption
 
 The absolute bioavailability of rivaroxaban is dose-dependent.
 For the 2.5 mg and 10 mg dose, it is estimated to be 80% to 100% and is not affected by food.
-Rivaroxaban tablets 2.5 mg and 10 mg tablets can be taken with or without food. rivaroxaban tablets 20 mg administered in the fasted state has an absolute bioavailability of approximately 66%.
+Rivaroxaban tablets 2.5 mg and 10 mg tablets can be taken with or without food.
+Rivaroxaban tablets 20 mg administered in the fasted state has an absolute bioavailability of approximately 66%.
 Coadministration of rivaroxaban tablets with food increases the bioavailability of the 20 mg dose (mean AUC and Cmax increasing by 39% and 76% respectively with food).
 Rivaroxaban tablets 15 mg and 20 mg tablets should be taken with food [see Dosage and Administration (2.1)].
 
@@ -77,8 +82,9 @@ Excretion
 
 In a Phase 1 study, following the administration of [14C]-rivaroxaban, approximately one-third (36%) was recovered as unchanged drug in the urine and 7% was recovered as unchanged drug in feces.
 Unchanged drug is excreted into urine, mainly via active tubular secretion and to a lesser extent via glomerular filtration (approximate 5:1 ratio).
-Rivaroxaban is a substrate of the efflux transporter proteins P-gp and ABCG2 (also abbreviated BCRP).
+Rivaroxaban is a substrate of the efflux transporter proteins P-gp and ABCG2 (also known as BCRP).
 Rivaroxaban’s affinity for influx transporter proteins is unknown.
+
 Rivaroxaban is a low-clearance drug, with a systemic clearance of approximately 10 L/hr in healthy volunteers following intravenous administration.
 The terminal elimination half-life of rivaroxaban is 5 to 9 hours in healthy subjects aged 20 to 45 years.
 
@@ -88,7 +94,7 @@ The effects of level of renal impairment, age, body weight, and level of hepatic
 
 Figure 2: Effect of Specific Adult Populations on the Pharmacokinetics of Rivaroxaban
 
-[See Dosage and Administration (2.1)]
+[see Dosage and Administration (2.1)]
 
 Gender
 
@@ -127,7 +133,7 @@ The extent of the increase is similar to the increase in patients with CrCl 15 t
 Hemodialysis had no significant impact on rivaroxaban exposure.
 Protein binding was similar (86% to 89%) in healthy controls and ESRD subjects in this study.
 
-Pediatric Patients: Limited clinical data are available in children 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m2) or in children younger than 1 year with serum creatinine results above 97.5th percentile [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+Pediatric Patients: Limited clinical data are available in children 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m2) or in children younger than 1 year with serum creatinine results above 97.5th percentile [see Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 
@@ -141,7 +147,7 @@ No clinical data are available in pediatric patients with hepatic impairment.
 Drug Interactions
 
 In vitro studies indicate that rivaroxaban neither inhibits the major cytochrome P450 enzymes CYP1A2, 2C8, 2C9, 2C19, 2D6, 2J2, and 3A nor induces CYP1A2, 2B6, 2C19, or 3A.
-In vitro data also indicates a low rivaroxaban inhibitory potential for P-gp and ABCG2 transporters.
+In vitro data also indicates a low rivaroxaban inhibitory potential for P-gp and ABCG2 transporters, the latter also known as BCRP.
 
 The effects of coadministered drugs on the pharmacokinetics of rivaroxaban exposure are summarized in Figure 3 [see Drug Interactions (7)].
 
@@ -170,7 +176,3 @@ Drug-Disease Interactions with Drugs that Inhibit Cytochrome P450 3A Enzymes and
 In a pharmacokinetic trial, rivaroxaban tablets was administered as a single dose in subjects with mild (CrCl = 50 to 79 mL/min) or moderate renal impairment (CrCl = 30 to 49 mL/min) receiving multiple doses of erythromycin (a combined P-gp and moderate CYP3A inhibitor).
 Compared to rivaroxaban tablets administered alone in subjects with normal renal function (CrCl >80 mL/min), subjects with mild and moderate renal impairment concomitantly receiving erythromycin reported a 76% and 99% increase in AUCinf and a 56% and 64% increase in Cmax, respectively.
 Similar trends in pharmacodynamic effects were also observed.
-
-## 12.6 QT/QTc Prolongation
-
-In a thorough QT study in healthy men and women aged 50 years and older, no QTc prolonging effects were observed for rivaroxaban tablets (15 mg and 45 mg, single-dose).
