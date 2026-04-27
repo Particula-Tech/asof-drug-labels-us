@@ -6,7 +6,9 @@
   "labeler": "Gensco Laboratories LLC",
   "package_ndcs": [
     "35781-0600-1",
-    "35781-0600-8"
+    "35781-0600-8",
+    "35781-0605-1",
+    "35781-0605-8"
   ],
   "products": [
     {

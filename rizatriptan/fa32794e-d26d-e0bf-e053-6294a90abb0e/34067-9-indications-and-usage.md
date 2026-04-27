@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-RizaFilm™ is indicated for the acute treatment of migraine with or without aura in adults and in pediatric patients 12 to 17 years of age weighing 40 kg or more.
+RizaFilm™ is indicated for the acute treatment of migraine with or without aura in adults and in pediatric patients 6 to 17 years of age.
 
 Limitations of Use
 

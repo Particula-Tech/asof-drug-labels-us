@@ -14,15 +14,16 @@ Blood Pressure: Significant elevation in blood pressure, including hypertensive 
 Absorption
 
 Rizatriptan is completely absorbed following oral administration.
-The mean oral absolute bioavailability of the rizatriptan benzoate tablet is about 45% and mean peak plasma concentrations (C max) are reached in approximately 1-1.5 hours (T max). The presence of a migraine headache did not appear to affect the absorption or pharmacokinetics of rizatriptan.
+The mean oral absolute bioavailability of the rizatriptan benzoate tablet is about 45% and mean peak plasma concentrations (Cmax) are reached in approximately 1-1.5 hours (Tmax).
+The presence of a migraine headache did not appear to affect the absorption or pharmacokinetics of rizatriptan.
 Food has no significant effect on the bioavailability of rizatriptan but delays the time to reach peak concentration by an hour.
 In clinical trials, rizatriptan benzoate tablets were administered without regard to food.
 
-The bioavailability and C max of rizatriptan were similar following administration of rizatriptan benzoate tablets and rizatriptan benzoate orally disintegrating tablets, but the rate of absorption is somewhat slower with the orally disintegrating tablets, with T max delayed by up to 0.7 hour.
+The bioavailability and Cmax of rizatriptan were similar following administration of rizatriptan benzoate tablets and rizatriptan benzoate orally disintegrating tablets, but the rate of absorption is somewhat slower with the orally disintegrating tablets, with Tmax delayed by up to 0.7 hour.
 AUC of rizatriptan is approximately 30% higher in females than in males.
 No accumulation occurred on multiple dosing.
 
-Following a single dose of 10mg RizaFilm, the mean C max and AUC inf of rizatriptan were 23.79 (± 8.36) ng/mL and 84.54 (± 18.65) ng·hr/mL, respectively; the maximum peak plasma concentrations were achieved in 1.4 hours.
+Following a single dose of 10mg RizaFilm, the mean Cmax and AUCinf of rizatriptan were 23.79 (± 8.36) ng/mL and 84.54 (± 18.65) ng·hr/mL, respectively; the maximum peak plasma concentrations were achieved in 1.4 hours.
 
 Distribution
 
@@ -52,8 +53,8 @@ Specific Populations
 
 Geriatric: Rizatriptan pharmacokinetics in healthy elderly non-migraineur volunteers (age 65-77 years) were similar to those in younger non-migraineur volunteers (age 18-45 years).
 
-Pediatric: The pharmacokinetics of rizatriptan was determined in pediatric migraineurs 12 to 17 years of age.
-Exposures following single-dose administration of 10 mg rizatriptan benzoate orally disintegrating tablets to pediatric patients weighing ≥40 kg (88 lb) were similar to those observed following single-dose administration of 10 mg rizatriptan benzoate orally disintegrating tablets to adults.
+Pediatric: The pharmacokinetics of rizatriptan was determined in pediatric migraineurs 6 to 17 years of age.
+Exposures following single dose administration of 5 mg rizatriptan benzoate to pediatric patients weighing 20-39 kg (44-87 lb) or 10 mg rizatriptan benzoate to pediatric patients weighing ≥40 kg (88 lb) were similar to those observed following single dose administration of 10 mg rizatriptan benzoate to adults.
 
 Gender: The mean AUC 0-∞ and C max of rizatriptan (10 mg orally) were about 30% and 11% higher in females as compared to males, respectively, while Tmax occurred at approximately the same time.
 

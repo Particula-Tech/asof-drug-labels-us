@@ -31,26 +31,26 @@ Table 1: Incidence (≥2% and Greater than Placebo) of Adverse Reactions After a
 
 |  | % of Patients |  |  |
 | --- | --- | --- | --- |
-| Adverse Reactions |  | Rizatriptan Benzoate10 mg(N=1167) | Placebo(N=627) |
-| Atypical Sensations |  | 5 | 4 |
-| Paresthesia |  | 4 | <2 |
-| Pain and other Pressure Sensations |  | 9 | 3 |
+| Adverse Reactions | RizatriptanBenzoate5 mg(N=977)% | Rizatriptan Benzoate10 mg(N=1167)% | Placebo(N=627)% |
+| Atypical Sensations | 4 | 5 | 4 |
+| Paresthesia | 3 | 4 | <2 |
+| Pain and other Pressure Sensations | 6 | 9 | 3 |
 | Chest Pain: |  |  |  |
-| tightness/pressure and/or heaviness |  | 3 | 1 |
-| Pain, location unspecified |  | 3 | <2 |
+| tightness/pressure and/or heaviness | <2 | 3 | 1 |
+| Pain, location unspecified | 3 | 3 | <2 |
 | Neck/throat/jaw: |  |  |  |
-| pain/tightness/pressure |  | 2 | 1 |
+| pain/tightness/pressure | <2 | 2 | 1 |
 | Regional Pain: |  |  |  |
-| tightness/pressure and/or heaviness |  | 2 | 0 |
-| Digestive |  | 13 | 8 |
-| Nausea |  | 6 | 4 |
-| Dry Mouth |  | 3 | 1 |
-| Neurological |  | 20 | 11 |
-| Dizziness |  | 9 | 5 |
-| Somnolence |  | 8 | 4 |
-| Headache |  | 2 | <1 |
+| tightness/pressure and/or heaviness | <1 | 2 | 0 |
+| Digestive | 9 | 13 | 8 |
+| Nausea | 4 | 6 | 4 |
+| Dry Mouth | 3 | 3 | 1 |
+| Neurological | 14 | 20 | 11 |
+| Dizziness | 4 | 9 | 5 |
+| Somnolence | 4 | 8 | 4 |
+| Headache | <2 | 2 | <1 |
 | Other |  |  |  |
-| Asthenia/fatigue |  | 7 | 2 |
+| Asthenia/fatigue | 4 | 7 | 2 |
 
 The frequencies of adverse reactions in clinical trials did not increase when up to three doses were taken within 24 hours.
 Adverse reaction frequencies were also unchanged by concomitant use of drugs commonly taken for migraine prophylaxis, oral contraceptives, or analgesics.
@@ -92,11 +92,11 @@ Skin and Skin Appendage: Frequent was flushing.
 Infrequent were sweating, pruritus, rash, and urticaria.
 Rare was erythema, hot flashes.
 
-### Pediatric Patients 12 to 17 Years of Age
+### Pediatric Patients 6 to 17 Years of Age
 
 Incidence in Controlled Clinical Trials in Pediatric Patients
 
-Adverse reactions to rizatriptan benzoate orally disintegrating tablets were assessed in a controlled clinical trial for the acute treatment of migraine (Study 7) that included a total of 1382 pediatric patients (including those 12-17 years of age), of which 977 (72%) were administered at least one dose of study treatment (rizatriptan benzoate orally disintegrating tablets and/or placebo) [see Clinical Studies (14.2)].
+Adverse reactions to rizatriptan benzoate orally disintegrating tablets were assessed in a controlled clinical trial for the acute treatment of migraine (Study 7) that included a total of 1382 pediatric patients (including those 6-17 years of age), of which 977 (72%) were administered at least one dose of study treatment (rizatriptan benzoate orally disintegrating tablets and/or placebo) [see Clinical Studies (14.2)].
 The incidence of adverse reactions reported for pediatric patients in the acute clinical trial was similar in patients who received rizatriptan benzoate tablets to those who received placebo.
 The adverse reaction pattern in pediatric patients is expected to be similar to that in adults.
 
@@ -106,7 +106,7 @@ In the following section, the frequencies of less commonly reported adverse even
 Because the reports include events observed in open studies, the role of rizatriptan benzoate orally disintegrating tablets in their causation cannot be reliably determined.
 Furthermore, variability associated with adverse event reporting, the terminology used to describe adverse events, limit the value of the quantitative frequency estimates provided.
 
-Event frequencies are calculated as the number of pediatric patients (including those 12 to 17 years of age) who used rizatriptan benzoate orally disintegrating tablets and reported an event divided by the total number of patients exposed to rizatriptan benzoate orally disintegrating tablets (N=1068).
+Event frequencies are calculated as the number of pediatric patients (including those 6 to 17 years of age) who used rizatriptan benzoate orally disintegrating tablets and reported an event divided by the total number of patients exposed to rizatriptan benzoate orally disintegrating tablets (N=1068).
 All reported events occurred at an incidence ≥1%, or are believed to be reasonably associated with the use of the drug.
 Events are further classified within system organ class and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are those occurring in (>)1/100 pediatric patients; infrequent adverse experiences are those occurring in 1/100 to 1/1000 pediatric patients, and rare adverse experiences are those occurring in fewer than 1/1000 patients.
 

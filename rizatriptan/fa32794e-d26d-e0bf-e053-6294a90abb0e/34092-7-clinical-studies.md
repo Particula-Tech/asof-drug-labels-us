@@ -19,13 +19,13 @@ The results from the four controlled studies are summarized in Table 2.
 
 Table 2: Response Rates 2 Hours Following Treatment of Initial Headaches in Studies 1, 2, 3, and 4
 
-| Study | Placebo | Rizatriptan tablets 10mg |  |  |
-| --- | --- | --- | --- | --- |
-| 1 | 35% (n=304) | 71% *(n=456) |  |  |
-| 2** | 37% (n=82) | 77% *(n=320) |  |  |
-| 3 | 23% (n=80) | - |  |  |
-| 4 | 40% (n=159) | 67%*(n=385) |  |  |
-| *p-value <0.05 in comparison with placebo. **Results for initial headache only. |  |  |  |  |
+| Study | Placebo | Rizatriptan tablets 5mg | Rizatriptan tablets 10mg |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 35% (n=304) | 62%* (n=458) | 71% *,† (n=456) |  |  |
+| 2** | 37% (n=82) | - | 77% * (n=320) |  |  |
+| 3 | 23% (n=80) | 63%* (n=352) | - |  |  |
+| 4 | 40% (n=159) | 60%* (n=164) | 67%* (n=385) |  |  |
+| *p-value <0.05 in comparison with placebo. † p-value <0.05 in comparison with 5 mg**Results for initial headache only. |  |  |  |  |  |
 
 Comparisons of drug performance based upon results obtained in different clinical trials may not be reliable.
 Because studies are conducted at different times, with different samples of patients, by different investigators, employing different criteria and/or different interpretations of the same criteria, under different conditions (dose, dosing regimen, etc.), quantitative estimates of treatment response and the timing of response may be expected to vary considerably from study to study.
@@ -62,11 +62,11 @@ The results from Studies 5 and 6 are summarized in Table 3.
 
 Table 3: Response Rates 2 Hours Following Treatment of Initial Headache in Studies 5 and 6
 
-| Study | Placebo | Rizatriptan orally disintegrating tablets 10mg |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| 5 | 47% (n=98) | 66%*(n=113) |  |  |  |
-| 6 | 28% (n=180) | 74%*(n=186) |  |  |  |
-| *p-value <0.01 in comparison with placebo |  |  |  |  |  |
+| Study | Placebo | Rizatriptan orally disintegrating tablets 5mg | Rizatriptan orally disintegrating tablets 10mg |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 5 | 47% (n=98) | 66%* (n=100) | 66%* (n=113) |  |  |  |
+| 6 | 28% (n=180) | 59%* (n=181) | 74%*, ** (n=186) |  |  |  |
+| *p-value <0.01 in comparison with placebo** p-value <0.01 in comparison with 5 mg |  |  |  |  |  |  |
 
 The estimated probability of achieving an initial headache response by 2 hours following treatment with rizatriptan benzoate orally disintegrating tablets in pooled Studies 5 and 6 is depicted in Figure 3.
 
@@ -85,18 +85,19 @@ Figure 4: Estimated Probability of Patients Taking a Second Dose of Rizatriptan 
 | * This Kaplan-Meier plot is based on data obtained in 2 placebo-controlled outpatient clinical trials (Studies 5 and 6). Patients not using additional treatments were censored at 24 hours. The plot includes both patients who had headache response at 2 hours and those who had no response to the initial dose. Remedication was not allowed within 2 hours post-dose. |
 | --- |
 
-## 14.2 Pediatric Patients 12 to 17 Years of Age
+## 14.2 Pediatric Patients 6 to 17 Years of Age
 
-The efficacy of rizatriptan benzoate orally disintegrating tablets in pediatric patients 12 to 17 years of age was evaluated in a multicenter, randomized, double-blind, placebo-controlled, parallel-group clinical trial (Study 7).
+The efficacy of rizatriptan benzoate orally disintegrating tablets in pediatric patients 6 to 17 years of age was evaluated in a multicenter, randomized, double-blind, placebo-controlled, parallel-group clinical trial (Study 7).
 Patients had to have at least a 6-month history of migraine attacks (with or without aura) usually lasting 3 hours or more (when untreated).
 The patient population was historically non-responsive to NSAIDs and acetaminophen therapy.
 
 Patients were instructed to treat a single migraine attack with headache pain of moderate to severe intensity.
 The treatment phase of the study had two stages.
 Stage 1 was used to identify placebo non-responders, who then entered into Stage 2, in which patients were randomized to rizatriptan benzoate orally disintegrating tablets or placebo.
-Using a weight-based dosing strategy, patients 12 to 17 years of age and weighing greater than or equal to 40 kg received rizatriptan benzoate orally disintegrating tablets 10 mg or placebo.
+Using a weight-based dosing strategy, patients 20 kg to <40 kg (44 lb to <88 lb) received rizatriptan benzoate orally disintegrating tablets 5 mg or placebo, and patients ≥40 kg (88 lb) received rizatriptan benzoate orally disintegrating tablets 10 mg or placebo.
 
-Of the total pediatric population in Study 7, including those weighing 40 kg or more, sixty-one percent of the patients were Caucasian, and fifty-six percent of the patients were female.
+The mean age for the studied patient population was 13 years.
+Sixty-one percent of the patients were Caucasian, and fifty-six percent of the patients were female.
 The percentage of patients achieving the primary efficacy endpoint of no headache pain at 2 hours after treatment was significantly greater in patients who received rizatriptan benzoate orally disintegrating tablets, compared with those who received placebo (33% vs. 24%).
 Study 7 results are summarized in Table 4.
 

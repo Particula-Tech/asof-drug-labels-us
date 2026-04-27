@@ -58,12 +58,12 @@ Following oral administration of rizatriptan to lactating rats at a dose of 100 
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of RizaFilm for the acute treatment of migraine have been established in pediatric patients 12 years of age and older weighing 40 kg or more based on an adequate and well-controlled study with rizatriptan benzoate tablets [see Clinical Studies (14.2)].
+The safety and effectiveness of RizaFilm for the acute treatment of migraine have been established in pediatric patients 6 years of age and older based on an adequate and well-controlled study with rizatriptan benzoate tablets [see Clinical Studies (14.2)].
 
 The incidence of adverse reactions reported for pediatric patients in the acute clinical trial was similar in patients who received rizatriptan benzoate tablets to those who received placebo.
 The adverse reaction pattern in pediatric patients is expected to be similar to that in adults.
 
-Safety and effectiveness of RizaFilm in pediatric patients under 12 years of age and weighing less than 40 kg have not been established.
+Safety and effectiveness of RizaFilm in pediatric patients under 6 years of age and weighing less than 40 kg have not been established.
 
 ## 8.5 Geriatric Use
 

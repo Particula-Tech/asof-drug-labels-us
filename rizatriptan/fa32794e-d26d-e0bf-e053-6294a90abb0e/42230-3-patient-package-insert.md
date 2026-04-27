@@ -10,10 +10,10 @@ What is RIZAFILM?
 
 - RizaFilm is a prescription medicine that belongs to a class of medicines called Triptans.
   RizaFilm is available as oral films.
-- RizaFilm is used to treat migraine attacks with or without aura in adults and in children 12 to 17 years of age who weigh 40 kg or more.
+- RizaFilm is used to treat migraine attacks with or without aura in adults and in children 6 to 17 years of age.
 - RizaFilm is not to be used to prevent migraine attacks.
 - It is not known if RizaFilm is safe and effective for the treatment of cluster headaches.
-- It is not known if RizaFilm is safe and effective in children under 12 years of age and who weigh less than 40 kg.
+- It is not known if RizaFilm is safe and effective in children under 6 years of age.
 
 Do not take RizaFilm if you:
 
@@ -68,7 +68,7 @@ How should I take RizaFilm?
 - To take RizaFilm: o Leave RizaFilm oral film in the aluminum pouch it comes in until you are ready to take it. o When you are ready to take it: o Remove the oral film from the aluminum pouch by folding the pouch on the dotted line and tearing it open at the tear notch. o Place the oral film on the tongue. o The oral film will disintegrate in about 2 minutes and can be swallowed with saliva.
   No liquid is required to take the oral film.
 - If your headache comes back after your first RizaFilm dose: o For adults: a second dose may be taken at least 2 hours after the first dose.
-  Do not take more than 30 mg of RizaFilm in a 24-hour period (for example, do not take more than 3 10-mg oral films in a 24-hour period). o For children 12 to 17 years of age: It is not known if taking more than 1 dose of RizaFilm in 24 hours is safe and effective.
+  Do not take more than 30 mg of RizaFilm in a 24-hour period (for example, do not take more than 3 10-mg oral films in a 24-hour period). o For children 6 to 17 years of age: It is not known if taking more than 1 dose of RizaFilm in 24 hours is safe and effective.
   Talk to your doctor about what to do if your headache does not go away or comes back.
 - If you take too much RizaFilm, call your doctor or go to the nearest hospital emergency room right away.
 
