@@ -37,7 +37,7 @@ Reduction of Risk of Major Thrombotic Vascular Events in Patients with Periphera
 Table 11 shows the number of patients experiencing various types of TIMI (Thrombolysis in Myocardial Infarction) major bleeding events in the VOYAGER trial.
 The most common site of bleeding was gastrointestinal.
 
-Table 11: Major Bleeding Events* in VOYAGER-On Treatment Plus 2 Days
+Table 11: Major Bleeding Events* in VOYAGER- On Treatment Plus 2 Days
 
 |  | Rivaroxaban † N=3256 |  | Placebo† N=3248 |  | Rivaroxaban vs. Placebo HR (95 % CI) |
 | --- | --- | --- | --- | --- | --- |

@@ -88,7 +88,7 @@ Table 27: Efficacy Results in VOYAGER (Intent-to-Treat Population) and COMPASS P
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Rivaroxaban N=3286 | Placebo N=3278 | Hazard Ratio (95% CI)* p-value† | Rivaroxaban N=2492 | Placebo N=2504 | Hazard Ratio (95% CI)* |
 | Outcome Components | Event Rate (%/year) |  | Event Rate (%/year) |  |  |  |
-| 5- Component Outcome (Major thrombotic vascular events)‡ | 6.8 | 8.0 | 0.85 (0.76, 0.96) p=0.0085 | 3.4 | 4.8 | 0.71 (0.57, 0.87) |
+| 5-Component Outcome (Major thrombotic vascular events)‡ | 6.8 | 8.0 | 0.85 (0.76, 0.96) p=0.0085 | 3.4 | 4.8 | 0.71 (0.57, 0.87) |
 | MI | 1.7 | 1.9 | 0.88 (0.70, 1.12) | 1.1 | 1.5 | 0.76 (0.53, 1.09) |
 | Ischemic Stroke§ | 0.9 | 1.0 | 0.87 (0.63, 1.19) | 0.5 | 0.9 | 0.55 (0.33, 0.93) |
 | CV death¶ | 2.5 | 2.2 | 1.14 (0.93, 1.40) | 1.4 | 1.7 | 0.82 (0.59, 1.14) |

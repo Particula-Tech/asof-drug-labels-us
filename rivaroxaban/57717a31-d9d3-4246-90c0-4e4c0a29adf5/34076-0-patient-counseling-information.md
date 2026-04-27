@@ -14,3 +14,5 @@ Lactation Advise patients to discuss with their physician the benefits and risks
 Females and Males of Reproductive Potential Advise patients who can become pregnant to discuss pregnancy planning with their physician [see Use in Specific Populations (8.3)].
 Manufactured for: Macleods Pharma USA, Inc. Princeton, NJ 08540 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh- 174101, INDIA All trademarks are the property of their respective owners.
 Dispense with Medication Guide available at: www.macleodspharma.com/usa
+
+Revised: 04/2026

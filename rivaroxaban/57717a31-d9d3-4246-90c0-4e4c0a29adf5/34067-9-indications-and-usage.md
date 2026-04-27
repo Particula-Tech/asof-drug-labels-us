@@ -1,4 +1,4 @@
-# 1 INDICATIONS & USAGE
+# 1 INDICATIONS AND USAGE
 
 ## 1.7 Reduction of Risk of Major Cardiovascular Events in Patients with Coronary Artery Disease (CAD)
 

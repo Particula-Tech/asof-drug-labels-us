@@ -25,8 +25,8 @@ Rivaroxaban tablets are not for use for primary VTE prophylaxis in these hospita
 
 Reversal of Anticoagulant Effect
 
-An agent to reverse the anti-factor Xa activity of rivaroxaban is available.
-Because of high plasma protein binding, rivaroxaban is not dialyzable [see Clinical Pharmacology (12.3)].
+A specific agent to reverse the anti-factor Xa activity of rivaroxaban is not available.
+Because of high plasma protein binding, rivaroxaban is notdialyzable [see Clinical Pharmacology (12.3)].
 Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of rivaroxaban.
 Use of procoagulant reversal agents, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate or recombinant factor VIIa, may be considered but has not been evaluated in clinical efficacy and safety studies.
 Monitoring for the anticoagulation effect of rivaroxaban using a clotting test (PT, INR or aPTT) or anti-factor Xa (FXa) activity is not recommended.

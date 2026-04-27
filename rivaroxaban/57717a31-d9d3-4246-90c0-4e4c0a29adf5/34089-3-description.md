@@ -4,9 +4,9 @@ Rivaroxaban, a factor Xa (FXa) inhibitor, is the active ingredient in Rivaroxaba
 The molecular formula of rivaroxaban is C19H18ClN3O5S and the molecular weight is 435.89.
 The structural formula is:
 
-Rivaroxaban is a pure (S)-enantiomer.
+Rivaroxaban USP is a pure (S)-enantiomer.
 It is an odorless, non-hygroscopic, white to yellowish powder.
-Rivaroxaban is only slightly soluble in organic solvents (e.g., acetone, polyethylene glycol 400) and is practically insoluble in water and aqueous media.
+Rivaroxaban USP is only slightly soluble in organic solvents (e.g., acetone, polyethylene glycol 400) and is practically insoluble in water and aqueous media.
 
 Each Rivaroxaban tablets, USP contains 2.5 mg of rivaroxaban.
 The inactive ingredients of Rivaroxaban tablets, USP are: colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl methylcellulose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulfate.

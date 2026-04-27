@@ -14,12 +14,13 @@ Stopping rivaroxaban tablets increases your risk of having a stroke.
 If you have to stop taking rivaroxaban tablets, your doctor may prescribe another blood thinner medicine to prevent a blood clot from forming. • Increased risk of bleeding.
 Rivaroxaban tablets can cause bleeding which can be serious and may lead to death.
 This is because rivaroxaban tablets is a blood thinner medicine (anticoagulant) that lowers blood clotting.
-During treatment with rivaroxaban tablets you are likely to bruise more easily, and it may take longer for bleeding to stop. • You may have a higher risk of bleeding if you take rivaroxaban tablets and have certain other medical problems.
+During treatment with rivaroxaban tablets you are likely to bruise more easily, and it may take longer for bleeding to stop.
+You may have a higher risk of bleeding if you take rivaroxaban tablets and have certain other medical problems.
 
 You may have a higher risk of bleeding if you take rivaroxaban tablets and take other medicines that increase your risk of bleeding, including: o aspirin or aspirin containing products o long-term (chronic) use of non-steroidal anti-inflammatory drugs (NSAIDs) o warfarin sodium (Coumadin®, Jantoven®) o any medicine that contains heparin o clopidogrel (Plavix®) o selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs) o other medicines to prevent or treat blood clots Tell your doctor if you take any of these medicines.
 Ask your doctor or pharmacist if you are not sure if your medicine is one listed above.
 
-Call your doctor or get medical help right away if you or your child develop any of these signs or symptoms of bleeding: o unexpected bleeding or bleeding that lasts a long time, such as:  nose bleeds that happen often  unusual bleeding from the gums  menstrual bleeding that is heavier than normal or vaginal bleeding o bleeding that is severe or you cannot control o red, pink or brown urine o bright red or black stools (looks like tar) o cough up blood or blood clots o vomit blood or your vomit looks like “coffee grounds” o headaches, feeling dizzy or weak o pain, swelling, or new drainage at wound sites o left upper belly (abdominal) pain, pain below the left rib cage or at the tip of your left shoulder or diffuse abdominal discomfort (these may be symptoms of rupture of the spleen)
+Call your doctor or get medical help right away if you or your child develop any of these signs or symptoms of bleeding: o unexpected bleeding or bleeding that lasts a long time, such as: • nose bleeds that happen often • unusual bleeding from the gums • menstrual bleeding that is heavier than normal or vaginal bleeding o bleeding that is severe or you cannot control o red, pink or brown urine o bright red or black stools (looks like tar) o cough up blood or blood clots o vomit blood or your vomit looks like “coffee grounds” o headaches, feeling dizzy or weak o pain, swelling, or new drainage at wound sites o left upper belly (abdominal) pain, pain below the left rib cage or at the tip of your left shoulder or diffuse abdominal discomfort (these may be symptoms of rupture of the spleen)
 
 • Spinal or epidural blood clots (hematoma).
 People who take a blood thinner medicine (anticoagulant) like rivaroxaban tablets, and have medicine injected into their spinal and epidural area, or have a spinal puncture have a risk of forming a blood clot that can cause long-term or permanent loss of the ability to move (paralysis).
@@ -75,28 +76,29 @@ Especially tell your doctor if you or your child take:
 | phenytoin | rifampin |
 | St. John’s wort |  |
 
-How should I take rivaroxaban tablets?  Take rivaroxaban tablets exactly as prescribed by your doctor.  Do not change your dose or stop taking rivaroxaban tablets unless your doctor tells you to.  Your doctor may change your dose if needed.  Your doctor will decide how long you should take rivaroxaban tablets.  Rivaroxaban tablets may need to be stopped for one or more days before any surgery or medical or dental procedure.
-Your doctor will tell you when to stop taking rivaroxaban tablets and when to start taking rivaroxaban tablets again after your surgery or procedure.  If you need to stop taking rivaroxaban tablets for any reason, talk to the doctor who prescribed rivaroxaban tablets to you to find out when you should stop taking it.
-Do not stop taking rivaroxaban without first talking to the doctor who prescribes it to you.  If you have difficulty swallowing rivaroxaban tablets whole, talk to your doctor about other ways to take rivaroxaban tablets.  Do not run out of rivaroxaban tablets.
+How should I take rivaroxaban tablets? • Take rivaroxaban tablets exactly as prescribed by your doctor. • Do not change your dose or stop taking rivaroxaban tablets unless your doctor tells you to.
+Your doctor may change your dose if needed. • Your doctor will decide how long you should take rivaroxaban tablets. • Rivaroxaban tablets may need to be stopped for one or more days before any surgery or medical or dental procedure.
+Your doctor will tell you when to stop taking rivaroxaban tablets and when to start taking rivaroxaban tablets again after your surgery or procedure. • If you need to stop taking rivaroxaban tablets for any reason, talk to the doctor who prescribed rivaroxaban tablets to you to find out when you should stop taking it.
+Do not stop taking rivaroxaban without first talking to the doctor who prescribes it to you. • If you have difficulty swallowing rivaroxaban tablets whole, talk to your doctor about other ways to take rivaroxaban tablets. • Do not run out of rivaroxaban tablets.
 Refill your prescription of rivaroxaban tablets before you run out.
-When leaving the hospital following a hip or knee replacement, be sure that you will have rivaroxaban tablets available to avoid missing any doses.  If you take too much rivaroxaban tablets, go to the nearest hospital emergency room or call your doctor right away.
+When leaving the hospital following a hip or knee replacement, be sure that you will have rivaroxaban tablets available to avoid missing any doses. • If you take too much rivaroxaban tablets, go to the nearest hospital emergency room or call your doctor right away.
 
-If you take rivaroxaban tablets for: o Atrial fibrillation that is not caused by a heart valve problem:  Take rivaroxaban tablets 1 time a day with your evening meal.  If you miss a dose of rivaroxaban tablets, take it as soon as you remember on the same day.
-Take your next dose at your regularly scheduled time. o Blood clots in the veins of your legs or lungs:  Take rivaroxaban tablets 1 or 2 times a day as prescribed by your doctor.
+If you take rivaroxaban tablets for: o Atrial fibrillation that is not caused by a heart valve problem: • Take rivaroxaban tablets 1 time a day with your evening meal. • If you miss a dose of rivaroxaban tablets, take it as soon as you remember on the same day.
+Take your next dose at your regularly scheduled time. o Blood clots in the veins of your legs or lungs: • Take rivaroxaban tablets 1 or 2 times a day as prescribed by your doctor.
 
-o Hip or knee replacement surgery:  Take rivaroxaban tablets 1 time a day with or without food.  If you miss a dose of rivaroxaban tablets, take it as soon as you remember on the same day.
+o Hip or knee replacement surgery: • Take rivaroxaban tablets 1 time a day with or without food. • If you miss a dose of rivaroxaban tablets, take it as soon as you remember on the same day.
 Take your next dose at your regularly scheduled time.
 
-o Blood clots in people hospitalized for an acute illness:  Take rivaroxaban tablets 1 time a day, with or without food, while you are in the hospital and after you are discharged as prescribed by your doctor.  If you miss a dose of rivaroxaban tablets, take it as soon as you remember on the same day.
+o Blood clots in people hospitalized for an acute illness: • Take rivaroxaban tablets 1 time a day, with or without food, while you are in the hospital and after you are discharged as prescribed by your doctor. • If you miss a dose of rivaroxaban tablets, take it as soon as you remember on the same day.
 Take your next dose at your regularly scheduled time.
 
-o Reducing the risk of serious heart problems, heart attack and stroke in coronary artery disease:  Take rivaroxaban 2.5 mg 2 times a day with or without food.  If you miss a dose of rivaroxaban, take your next dose at your regularly scheduled time.  Take aspirin 75 to 100 mg once daily as instructed by your doctor. o Reducing the risk of a sudden decrease in blood flow to the legs, major amputation, serious heart problems or stroke in people with peripheral artery disease including those who have recently had a procedure to improve blood flow to the legs:  Take rivaroxaban 2.5 mg 2 times a day with or without food.  If you miss a dose of rivaroxaban, take your next dose at your regularly scheduled time.  Take aspirin 75 mg to 100 mg 1 time a day as instructed by your doctor.
+o Reducing the risk of serious heart problems, heart attack and stroke in coronary artery disease: • Take rivaroxaban 2.5 mg 2 times a day with or without food. • If you miss a dose of rivaroxaban, take your next dose at your regularly scheduled time. • Take aspirin 75 to 100 mg once daily as instructed by your doctor. o Reducing the risk of a sudden decrease in blood flow to the legs, major amputation, serious heart problems or stroke in people with peripheral artery disease including those who have recently had a procedure to improve blood flow to the legs: • Take rivaroxaban 2.5 mg 2 times a day with or without food. • If you miss a dose of rivaroxaban, take your next dose at your regularly scheduled time. • Take aspirin 75 mg to 100 mg 1 time a day as instructed by your doctor.
 
 For children who take Rivaroxaban: o The dose of rivaroxaban tablets depends on your child’s body weight and will be calculated by your child’s doctor.
-Your child’s doctor will tell you if rivaroxaban tablets can be given to your child with or without food. o The adult caregiver should give the dose. o If your child is taking the tablet, the tablet should be taken whole and should not be split in an attempt to provide a lower dose of rivaroxaban tablets. o Do not switch the rivaroxaban tablet without first talking to your doctor. o If your child misses a dose:  If your child is taking rivaroxaban tablets 1 time a day, give the dose as soon as you remember on the same day.
-If this is not possible, skip this dose and give the next dose at the regularly scheduled time.  If your child is taking rivaroxaban tablets 2 times a day, give the missed morning dose as soon as you remember.
+Your child’s doctor will tell you if rivaroxaban tablets can be given to your child with or without food. o The adult caregiver should give the dose. o If your child is taking the tablet, the tablet should be taken whole and should not be split in an attempt to provide a lower dose of rivaroxaban tablets. o Do not switch the rivaroxaban tablet without first talking to your doctor. o If your child misses a dose: • If your child is taking rivaroxaban tablets 1 time a day, give the dose as soon as you remember on the same day.
+If this is not possible, skip this dose and give the next dose at the regularly scheduled time. • If your child is taking rivaroxaban tablets 2 times a day, give the missed morning dose as soon as you remember.
 You may give the missed morning dose together with the evening dose.
-However, a missed evening dose can only be taken in the same evening.  If your child is taking rivaroxaban tablets 3 times a day, skip the missed dose and give the next dose at the regularly scheduled time.
+However, a missed evening dose can only be taken in the same evening. • If your child is taking rivaroxaban tablets 3 times a day, skip the missed dose and give the next dose at the regularly scheduled time.
 
 What are the possible side effects of rivaroxaban tablets?
 Rivaroxaban tablets may cause serious side effects: • See “What is the most important information I should know about rivaroxaban tablets?”
@@ -124,7 +126,7 @@ It may harm them.
 You can ask your pharmacist or doctor for information about rivaroxaban tablets that is written for health professionals.
 
 What are the ingredients in rivaroxaban tablets?
-Active ingredient: Rivaroxaban Inactive ingredients tablets: colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl methylcellulose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulfate.
+Active ingredient: rivaroxaban Inactive ingredients tablets: colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl methylcellulose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulfate.
 Additionally, The proprietary film coating mixture used for rivaroxaban tablets 2.5 mg tablets is Instacoat@ yellow containing hypromellose, polyethylene glycol, titanium dioxide and red iron oxide
 
 Manufactured for: Macleods Pharma USA, Inc. Princeton, NJ 08540
@@ -135,4 +137,4 @@ Trademarks are property of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised: 08/2025
+Revised: 04/2026

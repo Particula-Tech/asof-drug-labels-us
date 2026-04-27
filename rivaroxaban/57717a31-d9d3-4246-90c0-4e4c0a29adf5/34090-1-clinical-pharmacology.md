@@ -59,7 +59,7 @@ Excretion
 
 In a Phase 1 study, following the administration of [14C]-rivaroxaban, approximately one-third (36%) was recovered as unchanged drug in the urine and 7% was recovered as unchanged drug in feces.
 Unchanged drug is excreted into urine, mainly via active tubular secretion and to a lesser extent via glomerular filtration (approximate 5:1 ratio).
-Rivaroxaban is a substrate of the efflux transporter proteins P-gp and ABCG2 (also abbreviated BCRP).
+Rivaroxaban is a substrate of the efflux transporter proteins P-gp and ABCG2 (also known as BCRP).
 Rivaroxaban’s affinity for influx transporter proteins is unknown.
 Rivaroxaban is a low-clearance drug, with a systemic clearance of approximately 10 L/hr in healthy volunteers following intravenous administration.
 The terminal elimination half-life of rivaroxaban is 5 to 9 hours in healthy subjects aged 20 to 45 years.
@@ -94,7 +94,7 @@ No clinical data are available in pediatric patients with hepatic impairment.
 Drug Interactions
 
 In vitro studies indicate that rivaroxaban neither inhibits the major cytochrome P450 enzymes CYP1A2, 2C8, 2C9, 2C19, 2D6, 2J2, and 3A nor induces CYP1A2, 2B6, 2C19, or 3A.
-In vitro data also indicates a low rivaroxaban inhibitory potential for P-gp and ABCG2 transporters.
+In vitro data also indicates a low rivaroxaban inhibitory potential for P-gp and ABCG2 transporters, the latter also known as BCRP.
 The effects of coadministered drugs on the pharmacokinetics of rivaroxaban exposure are summarized in Figure 3 [see Drug Interactions (7)].
 
 Figure 3: Effect of Coadministered Drugs on the Pharmacokinetics of Rivaroxaban in Adults
