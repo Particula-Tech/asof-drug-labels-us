@@ -16,11 +16,14 @@ Rx only
 
 Manufactured for:
 
-Endo USA
+Par Health USA Rochester, MI 48307 U.S.A.
 
-Malvern, PA 19355 U.S.A.
+Made in India
 
-Made in India Neutral Code: TN/DRUGS/TN00002121 © 2024 Endo, Inc. or one of its affiliates.
-OS306C-01-74-01
+Neutral Code: TN/DRUGS/TN00002121
 
-Issued: 12/2024
+© 2026 Par Health, Inc. or one of its affiliates.
+
+OS306C-01-74-02
+
+Revised: 02/2026

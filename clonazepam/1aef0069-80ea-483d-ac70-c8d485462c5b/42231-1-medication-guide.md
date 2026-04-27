@@ -163,7 +163,7 @@ The most common side effects of clonazepam orally disintegrating tablets include
 
 These are not all the possible side effects of clonazepam orally disintegrating tablets.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 or Endo at www.endo.com. or call 1-800-828-9393.
+You may report side effects to FDA at 1-800-FDA-1088 or Par Health at www.parhealth.com or call 1-800-828-9393.
 
 How should I store clonazepam orally disintegrating tablets?
 
@@ -180,7 +180,7 @@ It may harm them.
 
 You can ask your pharmacist or healthcare provider for information about clonazepam orally disintegrating tablets that is written for health professionals.
 
-For more information, go to www.endo.com. or call 1-800-828-9393.
+For more information, go to www.parhealth.com or call 1-800-828-9393.
 
 What are the ingredients in clonazepam orally disintegrating tablets?
 
@@ -197,20 +197,18 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-For additional copies of this Medication Guide, visit www.endo.com. or call 1-800-828-9393.
+To obtain a printable copy of the Medication Guide, visit www.parhealth.com/products or call 1-800-828-9393.
 
 Manufactured for:
 
-Endo USA
-
-Malvern, PA 19355 U.S.A.
+Par Health USA Rochester, MI 48307 U.S.A.
 
 Made in India
 
 Neutral Code: TN/DRUGS/TN00002121
 
-© 2024 Endo, Inc. or one of its affiliates.
+© 2026 Par Health, Inc. or one of its affiliates.
 
-OS306C-01-74-01
+OS306C-01-74-02
 
-Issued: 12/2024
+Revised: 02/2026
