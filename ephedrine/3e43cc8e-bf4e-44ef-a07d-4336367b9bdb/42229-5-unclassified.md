@@ -1,9 +1,9 @@
-Manufactured for: Endo USA Malvern, PA 19355
+Manufactured for: Par Health USA Rochester, MI 48307
 
-© 2024 Endo, Inc. or one of its affiliates
+© 2025 Par Health, Inc. or one of its affiliates.
 
 PREMIERProRx®
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-R04/2024
+R12/2025
