@@ -14,12 +14,12 @@ Discard unused portion.
 
 Manufactured for:
 
-Endo USA
+Par Health USA
 
-Malvern, PA 19355
+Rochester, MI 48307
 
-© 2024 Endo, Inc. or one of its affiliates.
+© 2025 Par Health, Inc. or one of its affiliates.
 
 Novaplus is a registered trademark of Vizient, Inc.
 
-04/2024
+12/2025
