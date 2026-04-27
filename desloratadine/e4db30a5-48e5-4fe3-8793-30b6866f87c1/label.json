@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078351"
+  ],
+  "inn": "desloratadine",
+  "labeler": "Natco Pharma USA LLC",
+  "package_ndcs": [
+    "69339-194-01",
+    "69339-194-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "desloratadine",
+      "name": "Desloratadine"
+    }
+  ],
+  "setid": "e4db30a5-48e5-4fe3-8793-30b6866f87c1",
+  "source": "dailymed"
+}
