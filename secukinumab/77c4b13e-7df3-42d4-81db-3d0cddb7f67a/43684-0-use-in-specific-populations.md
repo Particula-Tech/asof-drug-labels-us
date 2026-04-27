@@ -43,6 +43,21 @@ The safety and effectiveness of COSENTYX have been established for the treatment
 
 The safety and effectiveness of COSENTYX in pediatric patients with JPsA below the age of 2 years old or with a body weight less than 15 kg have not been established.
 
+Juvenile Ankylosing Spondylitis
+
+The safety and effectiveness of COSENTYX have been established for treatment of JAS in pediatric patients 12 years of age and older.
+Use of COSENTYX for this indication is supported by safety and efficacy data from adequate and well-controlled trials in adult subjects with AS.
+Additional evidence includes pharmacokinetic data from adult subjects with PsO, PsA, and AS and pediatric subjects with PsO, JPsA, and ERA, as well as safety data from clinical trials in pediatric subjects with PsO, JPsA, and ERA.
+The pharmacokinetics are predicted to be comparable between adult AS and pediatric subjects with JAS [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.4)].
+
+The safety and effectiveness of COSENTYX in pediatric patients with JAS below the age of 12 years old have not been established.
+
+Axial Juvenile Spondyloarthritis
+
+Six pediatric patients with axial symptoms were participants in a study for JPsA and ERA (NCT03031782).
+Due to the limited number of patients and uncertainty fulfilling Axial Juvenile Spondyloarthritis (AxJSpA) classification criteria, the effectiveness and safety of COSENTYX in AxJSpA has not been established.
+Safety was comparable to pediatric patients treated with COSENTYX for JPsA and ERA [see Adverse Reactions (6.1)].
+
 Enthesitis-Related Arthritis
 
 The safety and effectiveness of COSENTYX have been established for the treatment of active ERA in pediatric patients aged 4 years and older who weigh 15 kg or more [see Adverse Reactions (6.1) and Clinical Studies (14.6)].
@@ -52,7 +67,7 @@ The safety and effectiveness of COSENTYX in pediatric patients with ERA below th
 Hidradenitis Suppurativa
 
 The safety and effectiveness of COSENTYX have been established for the treatment of moderate to severe HS in pediatric patients 12 years of age and older who weigh 30 kg or more.
-Use of COSENTYX for this indication is supported by safety and efficacy data from adequate and well controlled trials in adult subjects with moderate to severe HS.
+Use of COSENTYX for this indication is supported by safety and efficacy data from adequate and well-controlled trials in adult subjects with moderate to severe HS.
 Additional evidence includes population pharmacokinetic modeling and simulation based on data from adult subjects with PsO and HS and pediatric subjects with PsO, as well as safety data from clinical trials in pediatric subjects with PsO and JIA (JPsA and ERA) [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
 
 The safety and effectiveness of COSENTYX in pediatric patients with HS below the age of 12 years old or with a body weight less than 30 kg have not been established.

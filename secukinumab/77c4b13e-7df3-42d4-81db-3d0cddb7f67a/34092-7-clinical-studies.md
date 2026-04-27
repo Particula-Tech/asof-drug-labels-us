@@ -284,7 +284,7 @@ Table 11: ASAS20 Components and Other Measures of Disease Activity at Week 16 (A
 | BASDAI score4 | 6.6 | -2.2 | 6.8 | -0.9 |
 | BASMI5 | 3.6 | -0.51 | 3.9 | -0.22 |
 | hsCRP6 (mg/L) mean change at Week 16 | 27.0 | -17.2 | 15.9 | 0.8 |
-| Percent of subjects with at least a 20%- and 10-unit improvement measured on a Visual Analog Scale (VAS) with 0 = none, 100 = severe.Bath Ankylosing Spondylitis Functional Index.Inflammation is the mean of two patient-reported stiffness self-assessments in BASDAI.Bath Ankylosing Spondylitis Disease Activity Index.Bath Ankylosing Spondylitis Metrology Index.High sensitivity C-reactive protein / mean change based upon observed data. |  |  |  |  |
+| 1Percent of subjects with at least a 20%- and 10-unit improvement measured on a Visual Analog Scale (VAS) with 0 = none, 100 = severe. 2Bath Ankylosing Spondylitis Functional Index. 3Inflammation is the mean of two patient-reported stiffness self-assessments in BASDAI. 4Bath Ankylosing Spondylitis Disease Activity Index. 5Bath Ankylosing Spondylitis Metrology Index. 6High sensitivity C-reactive protein / mean change based upon observed data. |  |  |  |  |
 
 The percentage of patients who achieved ASAS20 responses by visit is shown in Figure 2.
 Patients on placebo who received COSENTYX without a loading regimen achieved similar ASAS20 responses over time (data not shown).

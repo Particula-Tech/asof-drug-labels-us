@@ -30,8 +30,8 @@ The COSENTYX “Instructions for Use” for each presentation and strength conta
 Important Intravenous Infusion Instructions
 
 Intravenous infusion is only for use by a healthcare professional in a healthcare setting.
-Prepare COSENTYX intravenous infusion by diluting COSENTYX injection in vial(s) and administering based on patient body weight [see Dosage and Administration (2.11)].
-Intravenous infusion may be administered only in adults with PsA, AS, and nr-axSPA.
+Prepare COSENTYX intravenous infusion by diluting COSENTYX injection in vial(s) and administering based on patient body weight [see Dosage and Administration (2.12)].
+Intravenous infusion may be administered only in adults with PsA, AS, and nr-axSpA.
 
 ## 2.3 Recommended Dosage in Plaque Psoriasis
 
@@ -74,9 +74,9 @@ The recommended intravenous dosage regimen in adults with PsA:
 - With a loading dosage is 6 mg/kg loading dose given at Week 0, followed by 1.75 mg/kg every 4 weeks thereafter (maintenance dosage).
 - Without a loading dosage is 1.75 mg/kg every 4 weeks.
 
-Administer as an intravenous infusion over a period of 30 minutes [see Dosage and Administration (2.11)].
+Administer as an intravenous infusion over a period of 30 minutes [see Dosage and Administration (2.12)].
 
-Total doses exceeding 300 mg per infusion are not recommended for the 1.75 mg/kg maintenance dose in adults with PsA [see Dosage and Administration (2.11)].
+Total doses exceeding 300 mg per infusion are not recommended for the 1.75 mg/kg maintenance dose in adults with PsA [see Dosage and Administration (2.12)].
 
 ## 2.5 Recommended Dosage in Pediatric Patients 2 Years of Age and Older with Juvenile Psoriatic Arthritis
 
@@ -107,16 +107,22 @@ The recommended intravenous dosage regimen in adult patients with active AS:
 - With a loading dosage is 6 mg/kg loading dose given at Week 0, followed by 1.75 mg/kg every 4 weeks thereafter (maintenance dosage).
 - Without a loading dosage is 1.75 mg/kg every 4 weeks.
 
-Administer as an intravenous infusion over a period of 30 minutes [see Dosage and Administration (2.11)].
+Administer as an intravenous infusion over a period of 30 minutes [see Dosage and Administration (2.12)].
 
 Total doses exceeding 300 mg per infusion are not recommended for the 1.75 mg/kg maintenance dose in patients with AS [see Dosage and Administration (2.11)].
 
-## 2.7 Recommended Dosage in Adults with Non-Radiographic Axial Spondyloarthritis
+## 2.7 Recommended Dosage in Pediatric Patients 12 Years of Age and Older with Juvenile Ankylosing Spondylitis
+
+The recommended weight-based subcutaneous dosage in pediatric patients 12 years of age and older with AS at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter is as follows:
+
+- For patients < 50 kg, the recommended dose is 75 mg.
+- For patients ≥ 50 kg, the recommended dose is 150 mg.
+
+## 2.8 Recommended Dosage in Adults with Non-Radiographic Axial Spondyloarthritis
 
 Recommended Subcutaneous Dosage
 
 Administer COSENTYX with or without a loading dosage by subcutaneous injection in adult patients with active nr-axSpA.
-
 The recommended dosage:
 
 - With a loading dosage is 150 mg at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter.
@@ -130,11 +136,11 @@ The recommended intravenous dosage regimen in adult patients with active nr-axSp
 - With a loading dosage is 6 mg/kg loading dose given at Week 0, followed by 1.75 mg/kg every 4 weeks thereafter (maintenance dosage).
 - Without a loading dosage is 1.75 mg/kg every 4 weeks.
 
-Administer as an intravenous infusion over a period of 30 minutes [see Dosage and Administration (2.11)].
+Administer as an intravenous infusion over a period of 30 minutes [see Dosage and Administration (2.12)].
 
-Total doses exceeding 300 mg per infusion are not recommended for the 1.75 mg/kg maintenance dose in patients with nr-axSpA [see Dosage and Administration (2.11)].
+Total doses exceeding 300 mg per infusion are not recommended for the 1.75 mg/kg maintenance dose in patients with nr-axSpA [see Dosage and Administration (2.12)].
 
-## 2.8 Recommended Dosage in Enthesitis-Related Arthritis
+## 2.9 Recommended Dosage in Enthesitis-Related Arthritis
 
 COSENTYX may only be administered as a subcutaneous injection in pediatric patients aged 4 years and older with active ERA.
 
@@ -143,7 +149,7 @@ The recommended weight-based dosage in pediatric patients 4 years of age and old
 - For patients ≥ 15 kg and < 50 kg, the recommended dose is 75 mg.
 - For patients ≥ 50 kg, the recommended dose is 150 mg.
 
-## 2.9 Recommended Dosage in Hidradenitis Suppurativa
+## 2.10 Recommended Dosage in Hidradenitis Suppurativa
 
 Recommended Subcutaneous Dosage in Adults
 
@@ -159,7 +165,7 @@ The recommended weight-based dosage in pediatric patients 12 years of age and ol
 - For patients ≥ 30 kg and < 90 kg, the recommended dose is 150 mg.
 - For patients ≥ 90 kg, the recommended dose is 300 mg.
 
-## 2.10 Preparation for Use of COSENTYX UnoReady Pen, Sensoready Pen, and Prefilled Syringes
+## 2.11 Preparation for Use of COSENTYX UnoReady Pen, Sensoready Pen, and Prefilled Syringes
 
 COSENTYX UnoReady pen, Sensoready pen, and prefilled syringes are for subcutaneous injection only.
 
@@ -172,7 +178,7 @@ COSENTYX injection is a clear to slightly opalescent, colorless to slightly yell
 Do not use if the liquid contains visible particles, is discolored or cloudy.
 Discard any unused product.
 
-## 2.11 Preparation and Administration of COSENTYX for Intravenous Use
+## 2.12 Preparation and Administration of COSENTYX for Intravenous Use
 
 COSENTYX (for intravenous use) must be diluted prior to infusion.
 Using aseptic technique, prepare COSENTYX (for intravenous use) as follows:
@@ -200,7 +206,7 @@ Table 1: Recommended Infusion Bags for Dilution and Preparation of COSENTYX for 
 | Less than or equal to 52 kg | 100 mL | 50 mL* |
 | *If a 50 mL infusion bag is unavailable, then use a 100 mL infusion bag and withdraw and discard 50 mL of saline using aseptic technique and continue to follow the preparation and administration steps. |  |  |
 
-- From the infusion bag, withdraw and discard a volume of 0.9% Sodium Chloride Injection, USP, equal to the calculated volume of the COSENTYX solution required for the patient’s dose [see Dosage and Administration (2.4, 2.6, 2.7)].
+- From the infusion bag, withdraw and discard a volume of 0.9% Sodium Chloride Injection, USP, equal to the calculated volume of the COSENTYX solution required for the patient’s dose [see Dosage and Administration (2.4, 2.6, 2.8)].
 - From the vial(s), withdraw the calculated volume (mL) of COSENTYX solution and add slowly into the 0.9% Sodium Chloride Injection, USP infusion bag.
   To mix the solution, gently invert the bag to avoid foaming.
   Do not shake.

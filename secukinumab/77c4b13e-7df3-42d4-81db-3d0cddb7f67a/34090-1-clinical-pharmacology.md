@@ -99,6 +99,9 @@ At Week 24, patients who weighed at least 15 kg and less than 50 kg, and patient
 
 Based on population pharmacokinetic modeling and simulation, secukinumab concentrations for the every 4-week dosing regimen in pediatric patients 12 years of age and older who weigh at least 30 kg with moderate to severe HS are predicted to be similar to exposures observed in adults with moderate to severe HS who received 300 mg of subcutaneous COSENTYX administered every 4 weeks.
 
+The observed pre-dose (trough) concentrations are generally comparable between adults with AS, PsO, and PsA and pediatric patients with PsO, JPsA, and ERA.
+Based on PK comparison, secukinumab concentrations in pediatric patients (12 years of age and older) with JAS who received the recommended pediatric dosing regimen were predicted to be comparable to exposures observed in adults with AS.
+
 Drug Interactions
 
 Cytochrome P450 Substrates
@@ -118,6 +121,6 @@ The immunogenicity of COSENTYX was evaluated using an electrochemiluminescence-b
 Less than 1% of subjects treated with COSENTYX developed antibodies to secukinumab in up to 52 weeks of treatment.
 However, this assay has limitations in detecting anti-secukinumab antibodies in the presence of secukinumab; therefore, the incidence of antibody development might not have been reliably determined.
 
-In up to 52 weeks of treatment in controlled trials in adult patients with PsO, PsA, AS, nr-axSpA, HS, and in pediatric PsO, JPsA and ERA [see Clinical Studies (14)], the incidence of anti-secukinumab antibodies (referred as ADA) formation was less than 1% (25 of 6268 total of subjects treated with COSENTYX).
+In up to 52 weeks of treatment in controlled trials in adult patients with PsO, PsA, AS, nr-axSpA, HS, and in pediatric patients with PsO, JPsA and ERA [see Clinical Studies (14)], the incidence of anti-secukinumab antibodies (referred as ADA) formation was less than 1% (25 of 6268 total of subjects treated with COSENTYX).
 Of the subjects treated with COSENTYX who developed ADA, approximately 8% developed neutralizing antibodies.
 Because of the low occurrence of ADA, the effect of these antibodies on pharmacokinetics, pharmacodynamics, safety, or effectiveness of COSENTYX is unknown.
