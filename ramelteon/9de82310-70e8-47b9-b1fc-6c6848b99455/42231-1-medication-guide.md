@@ -2,7 +2,7 @@ MEDICATION GUIDE
 
 ROZEREM® (rō-Zair-em)
 
-(ramelteon)
+(ramelteon) tablets, for oral use
 
 Read the Medication Guide that comes with ROZEREM before you start taking it and each time you get a refill.
 There may be new information.
@@ -147,12 +147,13 @@ Active Ingredient: ramelteon
 
 Inactive Ingredients: lactose monohydrate, starch, hydroxypropyl cellulose, magnesium stearate, hypromellose, copovidone, titanium dioxide, yellow ferric oxide, polyethylene glycol 8000, and ink containing shellac and synthetic iron oxide black.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
 Distributed by: Takeda Pharmaceuticals America, Inc. Cambridge, MA 02142
 
 ROZEREM is a registered trademark of Takeda Pharmaceutical Company Limited.
 
-©2025 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
+©2026 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
 
-ROZ014 R12 June 2025
+ROZ014 R13
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+April 2026
