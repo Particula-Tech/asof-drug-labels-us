@@ -5,6 +5,10 @@ Advise females of reproductive potential to use effective contraception and to n
 3)]. • Atrial Fibrillation Advise patients to report symptoms of atrial fibrillation, such as heart palpitations or racing, chest pressure, or worsened shortness of breath [see Warnings and Precautions (5.2)]. • Phosphenes Advise patients about the possible occurrence of luminous phenomena (phosphenes).
 Advise patients to use caution if they are driving or using machines in situations where sudden changes in light intensity may occur, especially when driving at night.
 Advise patients that phosphenes may subside spontaneously during continued treatment with ivabradine [see Adverse Reactions (6.1)]. • Drug Interactions Advise patients to avoid ingestion of grapefruit juice and St. John's wort [see Drug Interactions (7.1)]. • Intake with Food Advise patients to take ivabradine twice daily with food [see Dosage and Administration (2)].
+
+Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821
+
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
 Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA.
+
 Issued: 04/2026
