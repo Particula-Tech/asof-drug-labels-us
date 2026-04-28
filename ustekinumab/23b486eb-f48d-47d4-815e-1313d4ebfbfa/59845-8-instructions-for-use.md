@@ -1,6 +1,6 @@
 # INSTRUCTIONS FOR USE
 
-Ustekinumab (yü-stə-kin-ü-mab) injection, for subcutaneous use
+Ustekinumab (yü-stə-ˈkin-ü-mab) injection, for subcutaneous use
 
 This Instructions for Use contains information on how to inject Ustekinumab using a prefilled syringe.
 
@@ -9,12 +9,12 @@ A healthcare provider should show you how to prepare and give an injection of Us
 
 If you cannot give the injection:
 
-- ask your healthcare provider to help you, or
-- ask someone who has been trained by a healthcare provider to give your injections.
+- ask a healthcare provider to help you, or
+- ask someone who has been trained by a healthcare provider to give the injections.
 
 Do not try to inject Ustekinumab until you have been shown how to inject Ustekinumab by a healthcare provider.
 
-Important information You Need to Know Before Injecting Ustekinumab:
+Important Information You Need to Know Before Injecting Ustekinumab:
 
 - For subcutaneous use only (inject directly under the skin).
 - Before you start, check the carton to make sure that it is the right dose.
@@ -23,8 +23,8 @@ Important information You Need to Know Before Injecting Ustekinumab:
   - If the dose is 90 mg, you will receive either one 90 mg prefilled syringe or two 45 mg prefilled syringes.
     If you receive two 45 mg prefilled syringes for a 90 mg dose, you will need to give two injections, one right after the other.
 - Check the expiration date on the prefilled syringe and carton.
-  If the expiration date has passed or if the prefilled syringe has been kept at room temperature up to 86 °F (30 °C) for longer than a maximum single period of 30 days or if the prefilled syringe has been stored above 86 °F (30 °C), do not use it.
-  If the expiration date has passed or if the prefilled syringe has been stored above 86 °F (30 °C) or at room temperature for longer than 30 days, call the healthcare provider or pharmacist, or call 1-800-526-7736 for help.
+  Do not use Ustekinumab after the expiration date has passed or if the prefilled syringe has been kept at room temperature up to 86 °F (30 °C) for longer than a maximum single period of 30 days or if the prefilled syringe has been stored above 86 °F (30 °C).
+  Call the healthcare provider or pharmacist, or call 1-800-526-7736 for help.
 - Make sure the syringe is not damaged.
 - The needle cover on the prefilled syringe contains latex.
   Do not handle the needle cover on the Ustekinumab prefilled syringe if you are allergic to latex.
@@ -44,7 +44,7 @@ Storing Ustekinumab prefilled syringes
 - Store Ustekinumab prefilled syringes in the refrigerator between 36 °F to 46 °F (2 °C to 8 °C).
 - Store Ustekinumab prefilled syringes in the original carton to protect from light.
 - Do not freeze Ustekinumab prefilled syringes.
-- If needed, Ustekinumab prefilled syringe may be stored at room temperature up to 86 °F (30 °C) for a maximum single period of up to 30 days in the original carton to protect from light.
+- If needed, individual Ustekinumab prefilled syringes may be stored at room temperature up to 86 °F (30 °C) for a maximum single period of up to 30 days in the original carton to protect from light.
 - Record the date when the prefilled syringe is removed from the refrigerator on the carton in the space provided.
 - After a prefilled syringe has been stored at room temperature, do not return it to the refrigerator.
 - Throw away (discard) the prefilled syringe if it is not used within 30 days at room temperature storage.
@@ -52,9 +52,7 @@ Storing Ustekinumab prefilled syringes
 Keep Ustekinumab and all medicines out of the reach of children.
 
 Gather the supplies you will need to prepare and to give the injection.
-(See Figure A)
-
-You will need:
+(See Figure A) You will need:
 
 - antiseptic wipes
 - cotton balls or gauze pads
@@ -65,7 +63,9 @@ You will need:
 
 Figure A
 
-Figure B To prevent early activation of the needle safety guard, do not touch the NEEDLE GUARD ACTIVATION CLIPS at any time during use.
+Figure B
+
+To prevent early activation of the needle safety guard, do not touch the NEEDLE GUARD ACTIVATION CLIPS at any time during use.
 
 Step 1: Preparing the injection
 
@@ -87,14 +87,15 @@ Step 2: Preparing the injection site
 
 Figure C
 
-*Areas in gray are recommended injection sites.
+| *Areas in gray are recommended injection sites. |
+| --- |
 
 Step 3: Injecting Ustekinumab
 
 - Remove the needle cover when you are ready to inject Ustekinumab.
 - Do not touch the plunger or plunger head while removing the needle cover.
-- Hold the body of the prefilled syringe with one hand and pull the needle cover straight off.
-  (see Figure D)
+- Hold the body of the prefilled syringe with 1 hand and pull the needle cover straight off.
+  (See Figure D)
 - Put the needle cover in the trash.
 - You may also see a drop of liquid at the end of the needle.
   This is normal.
@@ -103,7 +104,7 @@ Step 3: Injecting Ustekinumab
 
 Figure D
 
-- Hold the body of the prefilled syringe in one hand between the thumb and index fingers.
+- Hold the body of the prefilled syringe in 1 hand between the thumb and index fingers.
   (See Figure E)
 
 Figure E
@@ -162,11 +163,11 @@ U.S. License No. 1864 at Baxter Pharmaceutical Solutions, Bloomington, IN 47403 
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 06/2025
+Revised: 4/2026
 
 # INSTRUCTIONS FOR USE
 
-Ustekinumab (yü-stə-kin-ü-mab) injection, for subcutaneous use
+Ustekinumab (yü-stə-ˈkin-ü-mab) injection, for subcutaneous use
 
 This Instructions for Use contains information on how to inject Ustekinumab using a vial.
 
@@ -175,17 +176,20 @@ A healthcare provider should show you how to prepare, measure the dose, and give
 
 If you cannot give the injection:
 
-- ask your healthcare provider to help you, or
+- ask a healthcare provider to help you, or
 - ask someone who has been trained by a healthcare provider to give the injections.
 
 Do not try to inject Ustekinumab until you have been shown how to inject Ustekinumab by a healthcare provider.
 
-Important information You Need to Know Before Injecting Ustekinumab:
+Important Information You Need to Know Before Injecting Ustekinumab:
 
-- Before you start, check the carton to make sure that it is the right dose.
+- For subcutaneous use only (inject directly under the skin).
+- Before you start, check the carton to make sure that the number of vials and strength is correct.
   You will have either 45 mg or 90 mg as prescribed by the healthcare provider.
-  - If the dose is 45 mg or less you will receive one 45 mg vial.
-  - If the dose is 90 mg, you will receive two 45 mg vials and you will need to give two injections, one right after the other.
+  - If the dose is 45 mg or less, you will receive one 45 mg vial.
+  - If the dose is more than 45 mg, you will receive two 45 mg vials and you will need to give two injections, one right after the other.
+  - Make sure you know the proper amount (volume) to remove from the vial (s) and type of syringe(s) needed for dosing.
+    If you do not know the amount or type of syringe(s) needed, contact your healthcare provider for further instructions.
 - Check the expiration date on the vial and carton.
   If the expiration date has passed, do not use it.
   If the expiration date has passed, call the healthcare provider or pharmacist, or call 1-800-526-7736 for help.
@@ -197,7 +201,7 @@ Important information You Need to Know Before Injecting Ustekinumab:
   Shaking the vial may damage the Ustekinumab medicine.
   If the vial has been shaken, do not use it.
   Get a new vial.
-- Do not use a Ustekinumab vial more than one time, even if there is medicine left in the vial.
+- Do not use a Ustekinumab vial more than 1 time, even if there is medicine left in the vial.
   After the rubber stopper is punctured, Ustekinumab can become contaminated by harmful bacteria which could cause an infection if re-used.
   Therefore, throw away any unused Ustekinumab after you give the injection.
 - Safely throw away (dispose of) Ustekinumab vials, needles, and syringes after use.
@@ -214,7 +218,7 @@ Storing Ustekinumab vials
 
 Keep Ustekinumab and all medicines out of the reach of children.
 
-Gather the supplies you will need to prepare Ustekinumab and to give your injection.
+Gather the supplies you will need to prepare Ustekinumab and to give the injection.
 (See Figure A)
 
 You will need:
@@ -229,15 +233,15 @@ You will need:
 
 Figure A
 
-Step 1: Preparing the injection.
+Step 1: Preparing the injection
 
 - Choose a well-lit, clean, flat work surface.
 - Wash your hands well with soap and warm water.
 
-Step 2: Preparing your injection site
+Step 2: Preparing the injection site
 
-- Choose an injection site around your stomach area (abdomen), buttocks, and upper legs (thighs).
-- If a caregiver is giving you the injection, the outer area of the upper arms may also be used.
+- Choose an injection site around the stomach area (abdomen), buttocks, and upper legs (thighs).
+- If a caregiver is giving the injection, the outer area of the upper arms may also be used.
   (See Figure B)
 - Use a different injection site for each injection.
   Do not give an injection in an area of the skin that is tender, bruised, red or hard.
@@ -248,7 +252,8 @@ Step 2: Preparing your injection site
 
 Figure B
 
-*Areas in gray are recommended injection sites.
+| *Areas in gray are recommended injection sites. |
+| --- |
 
 Step 3: Preparing the vial
 
@@ -286,7 +291,7 @@ Figure F
 - Push down on the plunger until all of the air has gone from the syringe into the vial.
 - Turn the vial and the syringe upside down.
   (See Figure G)
-- Hold the Ustekinumab vial with one hand.
+- Hold the Ustekinumab vial with 1 hand.
 - It is important that the needle is always in the liquid in order to prevent air bubbles forming in the syringe.
 - Pull back on the syringe plunger with your other hand.
 - Fill the syringe until the black tip of the plunger lines up with the mark that matches the prescribed dose.
@@ -305,7 +310,7 @@ Figure H
 
 Step 5: Injecting Ustekinumab
 
-- Hold the barrel of the syringe in one hand, between the thumb and index fingers.
+- Hold the barrel of the syringe in 1 hand, between the thumb and index fingers.
 - Do not pull back on the plunger at any time.
 - Use the other hand to gently pinch the cleaned area of skin.
   Hold firmly.
@@ -327,11 +332,11 @@ Figure J
   Do not rub the injection site.
   You may cover the injection site with a small adhesive bandage, if necessary.
 
-If the dose is 90 mg, you will receive two 45 mg vials and you will need to give a second injection right after the first.
+If the dose is more than 45 mg, you will receive two 45 mg vials and you will need to give a second injection right after the first.
 Repeat Steps 1 to 5 using a new syringe.
 Choose a different site for the second injection.
 
-Step 6: Disposing of the needles, syringes, and vials
+Step 6: Disposing of needles, syringes, and vials
 
 - Do not re-use a syringe or needle.
 - To avoid needle-stick injuries, do not recap a needle.
@@ -356,4 +361,4 @@ U.S. License No. 1864 at Cilag AG, Schaffhausen, Switzerland
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 06/2025
+Revised: 4/2026

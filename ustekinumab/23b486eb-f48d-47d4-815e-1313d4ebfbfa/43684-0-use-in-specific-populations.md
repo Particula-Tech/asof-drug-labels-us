@@ -43,7 +43,7 @@ Serum concentrations of ustekinumab in pregnant monkeys were greater than 100 ti
 
 In a combined embryo-fetal development and pre- and post-natal development toxicity study, pregnant cynomolgus monkeys were administered subcutaneous doses of ustekinumab twice weekly at exposures greater than 100 times the MRHD from the beginning of organogenesis to Day 33 after delivery.
 Neonatal deaths occurred in the offspring of one monkey administered ustekinumab at 22.5 mg/kg and one monkey dosed at 45 mg/kg.
-No ustekinumab-related- effects on functional, morphological, or immunological development were observed in the neonates from birth through six months of age.
+No ustekinumab-related-effects on functional, morphological, or immunological development were observed in the neonates from birth through six months of age.
 
 ## 8.2 Lactation
 
@@ -62,9 +62,9 @@ Plaque Psoriasis
 
 The safety and effectiveness of Ustekinumab have been established for the treatment of moderate to severe plaque psoriasis in pediatric patients 6 years of age and older who are candidates for phototherapy or systemic therapy.
 
-Use of Ustekinumab in pediatric patients 12 to less than 17 years of age is supported by evidence from a multicenter, randomized, 60 week trial (Ps STUDY 3) that included a 12 week, double-blind, placebo-controlled, parallel group portion, in 110 pediatric subjects 12 years of age and older [see Adverse Reactions (6.1), Clinical Studies (14.2)].
+Use of Ustekinumab in pediatric patients 12 to less than 17 years of age is supported by evidence from a multicenter, randomized, 60 week trial (Ps STUDY 3) that included a 12 week, double-blind, placebo-controlled, parallel group portion, in 110 pediatric subjects 12 years of age and older [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
 
-Use of Ustekinumab in pediatric patients 6 to 11 years of age is supported by evidence from an open-label, single-arm, efficacy, safety, and pharmacokinetics trial (Ps STUDY 4) in 44 subjects [see Adverse Reactions (6.1), Pharmacokinetics (12.3)].
+Use of Ustekinumab in pediatric patients 6 to 11 years of age is supported by evidence from an open-label, single-arm, efficacy, safety, and pharmacokinetics trial (Ps STUDY 4) in 44 subjects [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 
 The safety and effectiveness of Ustekinumab have not been established in pediatric patients less than 6 years of age with plaque psoriasis.
 
@@ -77,9 +77,20 @@ The observed pre-dose (trough) concentrations are generally comparable between a
 
 The safety and effectiveness of Ustekinumab have not been established in pediatric patients less than 6 years old with psoriatic arthritis.
 
-Crohn's Disease and Ulcerative Colitis
+Crohn's Disease
 
-The safety and effectiveness of Ustekinumab have not been established in pediatric patients with Crohn's disease or ulcerative colitis.
+The safety and effectiveness of Ustekinumab for the treatment of moderately to severely active Crohn's disease have been established in pediatric patients aged 2 years and older.
+Use of Ustekinumab for this indication is supported by evidence from adequate and well-controlled studies in adults with additional safety, efficacy, and pharmacokinetic data from a 52-week study in 101 pediatric subjects aged 2 to 17 years of age.
+The adverse reaction profile in these pediatric subjects was similar to adverse reactions reported in the clinical trials of adults with Crohn's disease.
+Other adverse reactions reported in at least 10% of pediatric subjects were upper respiratory tract infection (13% during induction and 17% during maintenance), COVID-19 (17% during maintenance), and headache (10% during maintenance).
+Serum concentrations in pediatric subjects with Crohn's disease, were generally comparable to those in the adult Crohn's disease population.
+[see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.4, 14.5)].
+
+The safety and effectiveness of Ustekinumab for the treatment of moderately to severely active Crohn's disease have not been established in pediatric patients less than 2 years of age.
+
+Ulcerative Colitis
+
+The safety and effectiveness of Ustekinumab have not been established in pediatric patients with ulcerative colitis.
 
 ## 8.5 Geriatric Use
 

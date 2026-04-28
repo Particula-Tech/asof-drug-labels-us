@@ -17,7 +17,7 @@ In a small exploratory trial, a decrease was observed in the expression of mRNA 
 Ulcerative Colitis
 
 In both trial UC-1 (induction) and trial UC-2 (maintenance), a positive relationship was observed between exposure and rates of clinical remission, clinical response, and endoscopic improvement.
-The response rate approached a plateau at the ustekinumab exposures associated with the recommended dosing regimen for maintenance treatment [see Clinical Studies (14.5)].
+The response rate approached a plateau at the ustekinumab exposures associated with the recommended dosing regimen for maintenance treatment [see Clinical Studies (14.6)].
 
 ## 12.3 Pharmacokinetics
 
@@ -71,6 +71,9 @@ Following multiple recommended doses of Ustekinumab in pediatric subjects 6 year
 At Week 28, the mean ±SD steady-state trough serum ustekinumab concentrations were 0.36 ± 0.26 mcg/mL and 0.54 ± 0.43 mcg/mL, respectively, in pediatric subjects 6 to 11 years of age and pediatric subjects 12 years of age and older.
 
 Overall, the observed steady-state ustekinumab trough concentrations in pediatric subjects with plaque psoriasis were within the range of those observed for adult subjects with plaque psoriasis and adult subjects with PsA after administration of Ustekinumab.
+
+The pharmacokinetics of ustekinumab were studied in pediatric subjects with Crohn's disease aged 2 to 17 years and weighing 13 to 88 kg.
+There are no clinically significant differences in serum ustekinumab exposure expected between adult patients and pediatric patients with Crohn's disease who receive the recommended dosage [see Dosage and Administration (2.4)].
 
 Drug Interaction Studies
 

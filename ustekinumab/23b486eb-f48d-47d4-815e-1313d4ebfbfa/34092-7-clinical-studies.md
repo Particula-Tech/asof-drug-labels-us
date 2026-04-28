@@ -21,9 +21,9 @@ The PGA is a 6-category scale ranging from 0 (cleared) to 5 (severe) that indica
 
 Clinical Response
 
-The results of Ps STUDY 1 and Ps STUDY 2 are presented in Table 8 below.
+The results of Ps STUDY 1 and Ps STUDY 2 are presented in Table 11 below.
 
-Table 8: Clinical Outcomes at Week 12 in Adult Subjects with Plaque Psoriasis in Ps STUDY 1 and Ps STUDY 2
+Table 11: Clinical Outcomes at Week 12 in Adult Subjects with Plaque Psoriasis in Ps STUDY 1 and Ps STUDY 2
 
 |  | Placebo | 45 mg | 90 mg | Placebo | 45 mg | 90 mg |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -35,16 +35,16 @@ Table 8: Clinical Outcomes at Week 12 in Adult Subjects with Plaque Psoriasis in
 
 Examination of age, gender, and race subgroups did not identify differences in response to Ustekinumab among these subgroups.
 
-In subjects who weighed 100 kg or less, response rates were comparable with both the 45 mg and 90 mg doses; however, in subjects who weighed greater than 100 kg, higher response rates were seen with 90 mg dosing compared with 45 mg dosing (Table 9 below).
+In subjects who weighed 100 kg or less, response rates were comparable with both the 45 mg and 90 mg doses; however, in subjects who weighed greater than 100 kg, higher response rates were seen with 90 mg dosing compared with 45 mg dosing (Table 12 below).
 
-Table 9: Clinical Outcomes by Weight at Week 12 in Adult Subjects with Plaque Psoriasis in Ps STUDY 1 and Ps STUDY 2
+Table 12: Clinical Outcomes by Weight at Week 12 in Adult Subjects with Plaque Psoriasis in Ps STUDY 1 and Ps STUDY 2
 
 |  | Placebo | 45 mg | 90 mg | Placebo | 45 mg | 90 mg |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Ps STUDY 1 |  |  | Ps STUDY 2 |  |  |
 |  |  | Ustekinumab |  |  | Ustekinumab |  |
 | Subjects randomized | 255 | 255 | 256 | 410 | 409 | 411 |
-| PASI 75 response Subjects were dosed with trial medication at Weeks 0 and 4. |  |  |  |  |  |  |
+| PASI 75 responseSubjects were dosed with trial medication at Weeks 0 and 4. |  |  |  |  |  |  |
 | ≤100 kg | 4% | 74% | 65% | 4% | 73% | 78% |
 |  | 6/166 | 124/168 | 107/164 | 12/290 | 218/297 | 225/289 |
 | >100 kg | 2% | 54% | 68% | 3% | 49% | 71% |
@@ -74,16 +74,16 @@ Subjects were followed for up to 60 weeks following first administration of tria
 
 Clinical Response
 
-The efficacy results at Week 12 for Ps STUDY 3 are presented in Table 10.
+The efficacy results at Week 12 for Ps STUDY 3 are presented in Table 13.
 
-Table 10: Efficacy Results at Week 12 in Pediatric Subjects 12 Years of Age and Older with Plaque Psoriasis in Ps STUDY 3
+Table 13: Efficacy Results at Week 12 in Pediatric Subjects 12 Years of Age and Older with Plaque Psoriasis in Ps STUDY 3
 
 |  | Placebo n (%) | UstekinumabUsing the weight-based dosage regimen specified in Table 1 and Table 2. n (%) |
 | --- | --- | --- |
 |  | Ps STUDY 3 |  |
 | N | 37 | 36 |
 | PGA |  |  |
-| PGA of cleared (0) or minimal (1) | 2 (5.4%) | 25 (69.4%) |
+| PGA of Cleared (0) or Minimal (1) | 2 (5.4%) | 25 (69.4%) |
 | PASI |  |  |
 | PASI 75 responders | 4 (10.8%) | 29 (80.6%) |
 | PASI 90 responders | 2 (5.4%) | 22 (61.1%) |
@@ -105,12 +105,12 @@ In PsA STUDY 2, 58% (n=180) of the subjects had been previously treated with TNF
 
 Clinical Response
 
-In both trials, a greater proportion of subjects achieved ACR 20, ACR 50 and PASI 75 response in the Ustekinumab 45 mg and 90 mg groups compared to placebo at Week 24 (see Table 11).
+In both trials, a greater proportion of subjects achieved ACR 20, ACR 50 and PASI 75 response in the Ustekinumab 45 mg and 90 mg groups compared to placebo at Week 24 (see Table 14).
 ACR 70 responses were also higher in the Ustekinumab 45 mg and 90 mg groups, although the difference was only numerical (p=NS) in STUDY 2.
 Responses were consistent in subjects treated with Ustekinumab alone or in combination with methotrexate.
 Responses were similar in subjects regardless of prior TNFα exposure.
 
-Table 11: ACR 20, ACR 50, ACR 70 and PASI 75 Responses In PsA STUDY 1 And PsA STUDY 2 At Week 24
+Table 14: ACR 20, ACR 50, ACR 70 and PASI 75 Responses In PsA STUDY 1 And PsA STUDY 2 At Week 24
 
 |  | Placebo | 45 mg | 90 mg | Placebo | 45 mg | 90 mg |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -130,9 +130,9 @@ Figure 1: Percent of subjects achieving ACR 20 response through Week 24
 | PsA STUDY 1 |
 | --- |
 
-The results of the components of the ACR response criteria are shown in Table 12.
+The results of the components of the ACR response criteria are shown in Table 15.
 
-Table 12: Mean Change From Baseline In ACR Components At Week 24
+Table 15: Mean Change From Baseline In ACR Components At Week 24
 
 |  | Placebo (N = 206) | 45 mg (N = 205) | 90 mg (N = 204) |
 | --- | --- | --- | --- |
@@ -144,7 +144,7 @@ Table 12: Mean Change From Baseline In ACR Components At Week 24
 | Number of tender jointsNumber of tender joints counted (0–68) |  |  |  |
 | Baseline | 25 | 22 | 23 |
 | Mean Change at Week 24 | -4 | -8 | -9 |
-| Subject's assessment of painVisual analogue scale; 0= best, 10=worst. |  |  |  |
+| Subject's assessment of painVisual analog scale; 0= best, 10=worst. |  |  |  |
 | Baseline | 6.1 | 6.2 | 6.6 |
 | Mean Change at Week 24 | -0.5 | -2.0 | -2.6 |
 | Subject global assessment |  |  |  |
@@ -167,7 +167,7 @@ Physical Function
 Ustekinumab-treated subjects showed improvement in physical function compared to subjects receiving placebo as assessed by HAQ-DI at Week 24.
 In both trials, the proportion of HAQ-DI responders (≥0.3 improvement in HAQ-DI score) was greater in the Ustekinumab 45 mg and 90 mg groups compared to placebo at Week 24.
 
-## 14.4 Crohn's Disease
+## 14.4 Adult Crohn's Disease
 
 Ustekinumab was evaluated in three randomized, double-blind, placebo-controlled clinical trials in adult subjects with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of 220 to 450).
 There were two 8-week intravenous induction trials (CD-1 and CD-2) followed by a 44-week subcutaneous randomized withdrawal maintenance trial (CD-3) representing 52 weeks of therapy.
@@ -189,12 +189,12 @@ Additionally, 69% never received a TNF blocker and 31% previously received but h
 At baseline, and throughout the trial, approximately 39% of the subjects were receiving corticosteroids and 35% of the subjects were receiving immunomodulators (AZA, 6-MP, MTX).
 The median baseline CDAI score was 286 in the Ustekinumab and 290 in the placebo group.
 
-In these induction trials, a greater proportion of subjects treated with Ustekinumab (at the recommended dose of approximately 6 mg/kg dose) achieved clinical response at Week 6 and clinical remission at Week 8 compared to placebo (see Table 13 for clinical response and remission rates).
+In these induction trials, a greater proportion of subjects treated with Ustekinumab (at the recommended dose of approximately 6 mg/kg dose) achieved clinical response at Week 6 and clinical remission at Week 8 compared to placebo (see Table 16 for clinical response and remission rates).
 Clinical response and remission were significant as early as Week 3 in Ustekinumab-treated subjects and continued to improve through Week 8.
 
-Table 13: Induction of Clinical Response and Remission in CD-1Patient population consisted of subjects who failed or were intolerant to TNF blocker therapy and CD-2Patient population consisted of subjects who failed or were intolerant to corticosteroids or immunomodulators (e.g., 6-MP, AZA, MTX) and previously received but not failed a TNF blocker or were never treated with a TNF blocker.
+Table 16: Induction of Clinical Response and Remission in CD-1Patient population consisted of subjects who failed or were intolerant to TNF blocker therapy and CD-2Patient population consisted of subjects who failed or were intolerant to corticosteroids or immunomodulators (e.g., 6-MP, AZA, MTX) and previously received but not failed a TNF blocker or were never treated with a TNF blocker.
 
-|  | Placebo N = 247 | UstekinumabInfusion dose of Ustekinumab using the weight-based dosage regimen specified in Table 4. N = 249 | Treatment difference and 95% CI | Placebo N = 209 | Ustekinumab N = 209 | Treatment difference and 95% CI |
+|  | Placebo N = 247 | UstekinumabInfusion dose of Ustekinumab using the weight-based dosage regimen specified in Table 4. N = 249 | Treatment Difference and 95% CI | Placebo N = 209 | Ustekinumab N = 209 | Treatment Difference and 95% CI |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | CD-1 n = 741 |  |  | CD-2 n = 627 |  |  |
 | Clinical Response (100 point), Week 6 | 53 (21%) | 84 (34%)0.001≤ p < 0.01 | 12% (4%, 20%) | 60 (29%) | 116 (56%)p < 0.001 | 27% (18%, 36%) |
@@ -207,16 +207,15 @@ Table 13: Induction of Clinical Response and Remission in CD-1Patient population
 Trial CD-3
 
 The maintenance trial (CD-3), evaluated 388 subjects who achieved clinical response (≥100 point reduction in CDAI score) at Week 8 with either induction dose of Ustekinumab in trials CD-1 or CD-2.
-Subjects were randomized to receive a subcutaneous maintenance regimen of either 90 mg Ustekinumab every 8 weeks or placebo for 44 weeks (see Table 14).
+Subjects were randomized to receive a subcutaneous maintenance regimen of either 90 mg Ustekinumab every 8 weeks or placebo for 44 weeks (see Table 17).
 
-Table 14: Clinical Response and Remission In CD-3 (Week 44; 52 Weeks From Initiation Of Induction Dose)
+Table 17: Clinical Response and Remission In CD-3 (Week 44; 52 Weeks From Initiation Of Induction Dose)
 
-| N = 131Subjects who achieved clinical response to Ustekinumab at the end of the induction trial. | N = 128 |  |  |
+|  | PlaceboThe placebo group consisted of subjects who were in response to Ustekinumab and were randomized to receive placebo at the start of maintenance therapy. N = 131Subjects who achieved clinical response to Ustekinumab at the end of the induction trial. | 90 mg Ustekinumab Every 8 Weeks N = 128 | Treatment Difference and 95% CI |
 | --- | --- | --- | --- |
-|  | PlaceboThe placebo group consisted of subjects who were in response to Ustekinumab and were randomized to receive placebo at the start of maintenance therapy. | 90 mg Ustekinumab every 8 weeks | Treatment difference and 95% CI |
-| Clinical Remission | 47 (36%) | 68 (53%)p < 0.01 | 17% (5%, 29%) |
+| Clinical Remission | 47 (36%) | 68 (53%)p <0.01 | 17% (5%, 29%) |
 | Clinical Response | 58 (44%) | 76 (59%)0.01≤ p < 0.05 | 15% (3%, 27%) |
-| Clinical Remission in patients in remission at the start of maintenance therapySubjects in remission at the end of maintenance therapy who were in remission at the start of maintenance therapy. This does not account for any other time point during maintenance therapy. | 36/79 (46%) | 52/78 (67%) | 21% (6%, 36%) |
+| Clinical Remission in Patients in Remission at the Start of Maintenance TherapySubjects in remission at the end of maintenance therapy who were in remission at the start of maintenance therapy. This does not account for any other time point during maintenance therapy. | 36/79 (46%) | 52/78 (67%) | 21% (6%, 36%) |
 | Clinical remission is defined as CDAI score < 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission |  |  |  |
 
 At Week 44, 47% of subjects who received Ustekinumab were corticosteroid-free and in clinical remission, compared to 30% of subjects in the placebo group.
@@ -231,7 +230,45 @@ In the subset of these subjects who were also naïve to TNF blockers, 34/52 (65%
 Subjects who were not in clinical response 8 weeks after Ustekinumab induction were not included in the primary efficacy analyses for trial CD-3; however, these subjects were eligible to receive a 90 mg subcutaneous injection of Ustekinumab upon entry into trial CD-3.
 Of these subjects, 102/219 (47%) achieved clinical response eight weeks later and were followed for the duration of the trial.
 
-## 14.5 Ulcerative Colitis
+## 14.5 Pediatric Crohn's Disease
+
+The efficacy and safety of Ustekinumab was evaluated in 101 pediatric patients aged 2 years to 17 years in a multi-center trial consisting of an open-label intravenous 8-week induction phase followed by randomization to one of two subcutaneous dosage regimens in a 44-week double-blind maintenance phase representing 52 weeks of therapy.
+Efficacy analyses were conducted in 93 patients with moderately to severely active Crohn's disease (NCT04673357).
+
+Pediatric patients enrolled in the study had an inadequate response or were intolerant to treatment with oral corticosteroids, immunomodulators (azathioprine, 6-mercaptopurine, methotrexate) and/or prior biologic therapy, (TNF blockers or vedolizumab).
+
+Of the 93 subjects included in the efficacy analyses, the mean age was 14 years (range 5 to 17 years), the median weight was 49 kg, and 39% were female.
+Additionally, 99% identified as not Hispanic or Latino and 1% as not reported; 89% identified as White, 8% as Asian, 2% as Black or African American, and 1% as not reported.
+The median Pediatric Crohn's Disease Activity Index (PCDAI) was 40 and the median Simple Endoscopic Score for Crohn's Disease (SES-CD) was 12.
+
+Patients received induction treatment with a single Ustekinumab intravenous dose, of approximately 6 mg/kg (patients weighing 40 kg or more) or 250 mg/m2 (patients weighing less than 40 kg, based on body surface area [BSA]), followed by a randomized double-blind subcutaneous maintenance regimen of 90 mg Ustekinumab (patients weighing 40 kg or more) or 60 mg/m2 Ustekinumab (patients weighing less than 40 kg, based on BSA) every 8 weeks or another subcutaneous dosage regimen.
+
+The recommended dosage for pediatric patients weighing 10 kg to less than 40 kg differs from the BSA-based dosage in this study.
+There are no anticipated clinically relevant differences in efficacy between the recommended and studied pediatric dosages of Ustekinumab [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+
+The primary endpoint of the study was clinical remission at Week 52 (from initiation of induction) which was evaluated in the subset of patients who achieved clinical response at Week 8.
+
+Efficacy Results
+
+At Week 8, the proportion of patients who achieved clinical remission (defined as PCDAI score of ≤10) was 46% (43/93).
+
+The proportion of patients in clinical response at Week 8, defined as a reduction from baseline in the PCDAI score of >12.5 points with a total PCDAI score ≤30, was 87% (81/93).
+
+Of the 81 patients who received intravenous induction treatment and achieved clinical response or remission at Week 8, there were 39 patients who received the subcutaneous maintenance dosage described above every 8 weeks.
+Efficacy endpoints assessed at Week 52, including clinical response and/or remission (shown in Table 18), were assessed in this subset of patients.
+
+Table 18: Proportion of Pediatric Patients 2 Years of Age and Older with Moderately to Severely Active Crohn's Disease Meeting Efficacy Endpoints at Week 52 (From Initiation of Induction) in a Clinical Trial
+
+| Endpoint | 90 mg or 60 mg/m2 Ustekinumab Every 8 WeeksThis subcutaneous dosage regimen followed 8 weeks after a single intravenous induction dose of approximately 6 mg/kg (patients weighing 40 kg or more) or 250 mg/m2 (patients weighing less than 40 kg, based on body surface area [BSA]). n/N (%) [95% CI] |
+| --- | --- |
+| Clinical RemissionClinical remission is defined as PCDAI score ≤10. | 20/39 (51%) [36%, 66%] |
+| Clinical ResponseClinical response is defined as reduction from baseline in the PCDAI score of >12.5 points with a total PCDAI score ≤30 | 23/39 (59%) [43%, 73%] |
+| Clinical Remission in Patients in Clinical Remission at Week 8Endpoint was evaluated in subjects in remission at the end of maintenance therapy who were in remission at the start of maintenance therapy. This does not account for any other time point during maintenance therapy. | 17/21 (81%) [59%, 93%] |
+
+At Week 52, the proportion of patients in endoscopic response, defined as a reduction in the SES-CD score of > 50% or SES-CD score ≤ 2, in patients with a baseline SES-CD score of ≥ 3, was 26% (10/39).
+The proportion of patients achieving corticosteroid-free clinical remission defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to Week 52, was 49% (19/39).
+
+## 14.6 Adult Ulcerative Colitis
 
 Ustekinumab was evaluated in two randomized, double-blind, placebo-controlled clinical trials [UC-1 and UC-2 (NCT02407236)] in adult subjects with moderately to severely active ulcerative colitis who had an inadequate response to or failed to tolerate a biologic (i.e., TNF blocker and/or vedolizumab), corticosteroids, and/or 6-MP or AZA therapy.
 The 8-week intravenous induction trial (UC-1) was followed by the 44-week subcutaneous randomized withdrawal maintenance trial (UC-2) for a total of 52 weeks of therapy.
@@ -252,18 +289,18 @@ Of the total population, 46% had failed corticosteroids or immunomodulators but 
 At induction baseline and throughout the trial, approximately 52% subjects were receiving oral corticosteroids, 28% subjects were receiving immunomodulators (AZA, 6-MP, or MTX) and 69% subjects were receiving aminosalicylates.
 
 The primary endpoint was clinical remission at Week 8.
-Clinical remission with a definition of: Mayo stool frequency subscore of 0 or 1, Mayo rectal bleeding subscore of 0 (no rectal bleeding), and Mayo endoscopy subscore of 0 or 1 (Mayo endoscopy subscore of 0 defined as normal or inactive disease and Mayo subscore of 1 defined as presence of erythema, decreased vascular pattern and no friability) is provided in Table 15.
+Clinical remission with a definition of: Mayo stool frequency subscore of 0 or 1, Mayo rectal bleeding subscore of 0 (no rectal bleeding), and Mayo endoscopy subscore of 0 or 1 (Mayo endoscopy subscore of 0 defined as normal or inactive disease and Mayo subscore of 1 defined as presence of erythema, decreased vascular pattern and no friability) is provided in Table 19.
 
 The secondary endpoints were clinical response, endoscopic improvement, and histologic-endoscopic mucosal improvement.
-Clinical response with a definition of (≥ 2 points and ≥ 30% decrease in modified Mayo score, defined as 3-component Mayo score without the Physician's Global Assessment, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1), endoscopic improvement with a definition of Mayo endoscopy subscore of 0 or 1, and histologic-endoscopic mucosal improvement with a definition of combined endoscopic improvement and histologic improvement of the colon tissue [neutrophil infiltration in <5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue] are provided in Table 15.
+Clinical response with a definition of (≥ 2 points and ≥ 30% decrease in modified Mayo score, defined as 3-component Mayo score without the Physician's Global Assessment, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1), endoscopic improvement with a definition of Mayo endoscopy subscore of 0 or 1, and histologic-endoscopic mucosal improvement with a definition of combined endoscopic improvement and histologic improvement of the colon tissue [neutrophil infiltration in <5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue] are provided in Table 19.
 
-In UC-1, a significantly greater proportion of subjects treated with Ustekinumab (at the recommended dose of approximately 6 mg/kg dose) were in clinical remission and response and achieved endoscopic improvement and histologic-endoscopic mucosal improvement compared to placebo (see Table 15).
+In UC-1, a significantly greater proportion of subjects treated with Ustekinumab (at the recommended dose of approximately 6 mg/kg dose) were in clinical remission and response and achieved endoscopic improvement and histologic-endoscopic mucosal improvement compared to placebo (see Table 19).
 
-Table 15: Proportion of Subjects Meeting Efficacy Endpoints at Week 8 in UC-1
+Table 19: Proportion of Subjects Meeting Efficacy Endpoints at Week 8 in UC-1
 
 |  | N | % | N | % |  |
 | --- | --- | --- | --- | --- | --- |
-| Endpoint | Placebo N = 319 |  | UstekinumabInfusion dose of Ustekinumab using the weight-based dosage regimen specified in Table 4. N = 322 |  | Treatment difference and 97.5% CI Adjusted treatment difference (97.5% CI) |
+| Endpoint | Placebo N = 319 |  | UstekinumabInfusion dose of Ustekinumab using the weight-based dosage regimen specified in Table 4. N = 322 |  | Treatment Difference and 97.5% CI Adjusted treatment difference (97.5% CI) |
 | Clinical RemissionClinical remission was defined as Mayo stool frequency subscore of 0 or 1, Mayo rectal bleeding subscore of 0, and Mayo endoscopy subscore of 0 or 1 (modified so that 1 does not include friability). | 22 | 7% | 62 | 19% | 12% (7%, 18%) p < 0.001 |
 | Bio-naïveAn additional 7 subjects on placebo and 9 subjects on Ustekinumab (6 mg/kg) had been exposed to, but had not failed, biologics. | 14/151 | 9% | 36/147 | 24% |  |
 | Prior biologic failure | 7/161 | 4% | 24/166 | 14% |  |
@@ -291,14 +328,14 @@ These subjects were randomized to receive a subcutaneous maintenance regimen of 
 The primary endpoint was the proportion of subjects in clinical remission at Week 44.
 The secondary endpoints included the proportion of subjects maintaining clinical response at Week 44, the proportion of subjects with endoscopic improvement at Week 44, the proportion of subjects with corticosteroid-free clinical remission at Week 44, and the proportion of subjects maintaining clinical remission at Week 44 among subjects who achieved clinical remission 8 weeks after induction.
 
-Results of the primary and secondary endpoints at Week 44 in subjects treated with Ustekinumab at the recommended dosage (90 mg every 8 weeks) compared to the placebo are shown in Table 16.
+Results of the primary and secondary endpoints at Week 44 in subjects treated with Ustekinumab at the recommended dosage (90 mg every 8 weeks) compared to the placebo are shown in Table 20.
 
-Table 16: Efficacy Endpoints of Maintenance at Week 44 in UC-2 (52 Weeks from Initiation of the Induction Dose)
+Table 20: Efficacy Endpoints of Maintenance at Week 44 in UC-2 (52 Weeks from Initiation of the Induction Dose)
 
 | N | % | N | % |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Endpoint | PlaceboThe placebo group consisted of subjects who were in response to Ustekinumab and were randomized to receive placebo at the start of maintenance therapy. N = 175Clinical response was defined as a decrease from baseline in the modified Mayo score by ≥30% and ≥2 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1. |  | 90 mg Ustekinumab every 8 weeks N = 176 |  | Treatment difference and 95% CI |
-| Clinical RemissionClinical remission was defined as Mayo stool frequency subscore of 0 or 1, Mayo rectal bleeding subscore of 0, and Mayo endoscopy subscore of 0 or 1 (modified so that 1 does not include friability). | 46 | 26% | 79 | 45% | 19% (9%, 28%) p =<0.001 |
+| Endpoint | PlaceboThe placebo group consisted of subjects who were in response to Ustekinumab and were randomized to receive placebo at the start of maintenance therapy. N = 175Clinical response was defined as a decrease from baseline in the modified Mayo score by ≥30% and ≥2 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1. |  | 90 mg Ustekinumab Every 8 Weeks N = 176 |  | Treatment Difference and 95% CI |
+| Clinical RemissionClinical remission was defined as Mayo stool frequency subscore of 0 or 1, Mayo rectal bleeding subscore of 0, and Mayo endoscopy subscore of 0 or 1 (modified so that 1 does not include friability). | 46 | 26% | 79 | 45% | 19% (9%, 28%) p=<0.001 |
 | Bio-naïveAn additional 3 subjects on placebo and 6 subjects on Ustekinumab had been exposed to, but had not failed, biologics. | 30/84 | 36% | 39/79 | 49% |  |
 | Prior biologic failure | 16/88 | 18% | 37/91 | 41% |  |
 | Maintenance of Clinical Response at Week 44 | 84 | 48% | 130 | 74% | 26% (16%, 36%) |

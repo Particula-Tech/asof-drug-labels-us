@@ -10,8 +10,8 @@ Ustekinumab is indicated for the treatment of adults and pediatric patients 6 ye
 
 ## 1.3 Crohn's Disease (CD)
 
-Ustekinumab is indicated for the treatment of adult patients with moderately to severely active Crohn's disease.
+Ustekinumab is indicated for the treatment of adults and pediatric patients 2 years of age and older with moderately to severely active Crohn's disease.
 
-## 1.4 Ulcerative Colitis
+## 1.4 Ulcerative Colitis (UC)
 
 Ustekinumab is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis.
