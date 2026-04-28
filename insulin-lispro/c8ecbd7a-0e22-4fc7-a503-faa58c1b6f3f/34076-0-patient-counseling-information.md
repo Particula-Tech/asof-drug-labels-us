@@ -61,7 +61,7 @@ Manufactured by: Eli Lilly and Company Indianapolis, IN 46285, USA US License Nu
 
 Humalog®, Humalog KwikPen®, Humalog Tempo PenTM, Humalog® Junior KwikPen®, HumaPen®, HumaPen® Luxura® and HumaPen® Luxura® HD are trademarks of Eli Lilly and Company.
 
-www.humalog.com Copyright © 1996, 2025, Eli Lilly and Company.
+www.humalog.com Copyright © 1996, 2026, Eli Lilly and Company.
 All rights reserved.
 
-LOG-0012-USPI-20250507
+LOG-0013-USPI-20260109
