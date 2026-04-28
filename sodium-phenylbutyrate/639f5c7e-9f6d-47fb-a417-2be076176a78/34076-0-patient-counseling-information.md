@@ -93,22 +93,20 @@ Sodium phenylbutyrate powder should be stored in a tightly closed bottle at room
 
 This leaflet provides a brief summary of the information available on sodium phenylbutyrate powder.
 The information here is incomplete and is not designed to take the place of your doctor's instructions.
-For more information, consult your physician or call Endo at 1-800-828-9393.
+For more information, consult your physician or call Par Health at 1-800-828-9393.
 
 Trademarks are the properties of their respective owners.
 
 Manufactured for:
 
-Endo USA
-
-Malvern, PA 19355 U.S.A.
+Par Health USA Rochester, MI 48307 U.S.A.
 
 Made in India
 
 Neutral Code: TN/DRUGS/TN00002121
 
-©2024 Endo, Inc. or one of its affiliates.
+© 2026 Par Health, Inc. or one of its affiliates.
 
-OS006-01-74-02
+OS006-01-74-03
 
-Revised: 06/2024
+Revised: 03/2026
