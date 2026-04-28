@@ -76,4 +76,4 @@ ALKINDI is covered by the following US patents: 9,649,280; 9,675,559; 9,717,740;
 
 ALKINDI SPRINKLE is distributed in the USA by Eton Pharmaceuticals, Inc. under license from Immedica UK Limited.
 
-PL-6-2.0
+PL-6-3.0
