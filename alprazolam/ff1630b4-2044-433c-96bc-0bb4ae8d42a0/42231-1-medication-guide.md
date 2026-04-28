@@ -10,11 +10,12 @@ Alprazolam ODT is a benzodiazepine medicine.
 Taking benzodiazepines with opioid medicines, alcohol, or other central nervous system (CNS) depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma and death.
 Get emergency help right away if any of the following happens:
 
-Do not drive or operate heavy machinery until you know how taking alprazolam ODT with opioids affects you.
-
 - shallow or slowed breathing
 - breathing stops (which may lead to the heart stopping)
 - excessive sleepiness (sedation)
+
+Do not drive or operate heavy machinery until you know how taking alprazolam ODT with opioids affects you.
+
 - Risk of abuse, misuse, and addiction.
   There is a risk of abuse, misuse, and addiction with benzodiazepines, including alprazolam ODT which can lead to overdose and serious side effects including coma and death.
   - Serious side effects including coma and death have happened in people who have abused or misused benzodiazepines, including Alprazolam ODT.
@@ -105,7 +106,7 @@ The most common side effects of alprazolam ODT include:
 - sedation
 - problems with coordination
 - speech problems (dysarthria)
-- increased libido
+- Increased libido
 - low blood pressure (hypotension)
 
 These are not all the possible side effects of alprazolam ODT.
@@ -135,18 +136,18 @@ Inactive ingredients: aspartame, crospovidone, basic butylated methacrylate copo
 
 Manufactured for:
 
-Endo USA
+Par Health USA
 
-Malvern, PA 19355 U.S.A.
+Rochester, MI 48307 U.S.A.
 
 Made in India
 
 Neutral Code: TN/DRUGS/TN00002121
 
-© 2024 Endo, Inc. or one of its affiliates.
+© 2026 Par Health, Inc. or one of its affiliates.
 
-OS110C-01-74-02
+OS110C-01-74-03
 
-Revised: 09/2024
+Revised: 02/2026
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration

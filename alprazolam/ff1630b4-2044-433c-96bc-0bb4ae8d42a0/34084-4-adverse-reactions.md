@@ -37,7 +37,7 @@ In addition to the relatively common (i.e., greater than 1%) adverse reactions d
 
 Table 2: Adverse Reactions Reported in Placebo-Controlled Trials of Alprazolam in Panic Disorder (>2 % and greater than placebo)
 
-| Body System/Adverse Reaction | Treatment-Emergent Symptom Incidencea |  |
+| Body System/Adverse Reactions | Treatment-Emergent Symptom Incidencea |  |
 | --- | --- | --- |
 | PANIC DISORDER |  |  |
 | Central Nervous System | ALPRAZOLAM (%) N=1388 | PLACEBO (%) N=1231 |

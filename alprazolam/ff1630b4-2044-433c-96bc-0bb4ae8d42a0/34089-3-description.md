@@ -11,6 +11,6 @@ The structural formula is:
 
 Alprazolam, USP is a white crystalline powder, which is soluble in methanol or ethanol but which has no appreciable solubility in water at physiological pH.
 
-## 11.1 Alprazolam Orally Disintegrating Tablets
+## 11.1 Alprazolam Orally Disintegrating Tablets, USP
 
 Each orally disintegrating tablet contains either 0.25 mg, 0.5 mg, 1 mg, or 2 mg of alprazolam, USP and the following inactive ingredients: aspartame, crospovidone, basic butylated methacrylate copolymer, magnesium stearate, mannitol, silicon dioxide, sorbitol, talc, xylitol, natural peppermint flavor, artificial vanillin flavor.

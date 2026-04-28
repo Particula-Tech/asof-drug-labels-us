@@ -9,7 +9,7 @@ Healthcare providers are encouraged to register patients by calling the National
 
 Risk Summary
 
-Neonates born to mothers using benzodiazepines late stages in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.8) and Clinical Considerations)].
+Neonates born to mothers using benzodiazepines late stages in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.8) and Clinical Considerations].
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear drug association with benzodiazepines and major birth defects (see Data).
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
