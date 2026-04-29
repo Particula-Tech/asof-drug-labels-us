@@ -1,4 +1,4 @@
-| MEDICATION GUIDE DAPAGLIFLOZIN "(dap 2a gli floe¢ zin)"] TABLETS |
+| MEDICATION GUIDE DAPAGLIFLOZIN "(dap 2a gli floe¢ zin)"] TABLETS, USP |
 | --- |
 
 What is the most important information I should know about dapagliflozin tablets?
@@ -214,7 +214,7 @@ Boca Raton, FL 33487
 
 Toll-Free# 1-800-315-0985.
 
-Revised: 03/2026
+Revised: 04/2026
 
 Pediatric use information is approved for AstraZeneca AB's Farxiga ®(dapagliflozin) Tablets.
 However, due to AstraZeneca AB's marketing exclusivity rights, this drug product is not labeled with that information.
