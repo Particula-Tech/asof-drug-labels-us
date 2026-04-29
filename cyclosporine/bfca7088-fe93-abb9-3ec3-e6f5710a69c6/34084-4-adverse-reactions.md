@@ -17,11 +17,11 @@ Hypomagnesemia
 Hypomagnesemia has been reported in some, but not all, patients exhibiting convulsions while on cyclosporine therapy.
 Although magnesium-depletion studies in normal subjects suggest that hypomagnesemia is associated with neurologic disorders, multiple factors, including hypertension, high-dose methylprednisolone, hypocholesterolemia, and nephrotoxicity associated with high plasma concentrations of cyclosporine appear to be related to the neurological manifestations of cyclosporine toxicity.
 
-Clinical Studies
+Adverse Reactions in Clinical Studies
 
 The following reactions occurred in 3% or greater of 892 patients involved in clinical trials of kidney, heart, and liver transplants:
 
-|  | Randomized Kidney Patients |  | All Cyclosporine capsules Patients |  |  |
+|  | Randomized Kidney Patients |  | All Cyclosporine-Treated Patients |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Cyclosporine capsules | Azathioprine | Kidney | Heart | Liver |
 | Body System/ | (N=227) | (N=228) | (N=705) | (N=112) | (N=75) |
@@ -61,7 +61,7 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 
 | Renal Transplant Patients in Whom Therapy Was Discontinued |  |  |  |
 | --- | --- | --- | --- |
-|  | Randomized Patients |  | All Cyclosporine capsules Patients |
+|  | Randomized Patients |  | All Cyclosporine -Treated Patients |
 |  | Cyclosporine capsules | Azathioprine |  |
 |  | (N=227) | (N=228) | (N=705) |
 | Reason for Discontinuation | % | % | % |
@@ -73,7 +73,7 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 | Hypertension | 0 | 0 | 0.3 |
 | Hematological Abnormalities | 0 | 0.4 | 0 |
 | Other | 0 | 0 | 0.7 |
-| Cyclosporine capsules was discontinued on a temporary basis and then restarted in 18 additional patients. |  |  |  |
+| Cyclosporine capsule was discontinued on a temporary basis and then restarted in 18 additional patients. |  |  |  |
 
 Patients receiving immunosuppressive therapies, including cyclosporine and cyclosporine-containing regimens, are at increased risk of infections (viral, bacterial, fungal, and parasitic).
 Both generalized and localized infections can occur.
@@ -82,7 +82,7 @@ Fatal outcomes have been reported (see WARNINGS).
 
 | Infectious Complications in the Randomized Renal Transplant Patients |  |  |
 | --- | --- | --- |
-|  | Cyclosporine capsules Treatment | Standard TreatmentSome patients also received ALG. |
+|  | Cyclosporine Capsules Treatment | Standard Treatment |
 |  | (N=227) | (N=228) |
 | Complication | % of Complications | % of Complications |
 | Septicemia | 5.3 | 4.8 |
@@ -95,7 +95,9 @@ Fatal outcomes have been reported (see WARNINGS).
 | Wound and Skin Infections | 7.0 | 10.1 |
 | Pneumonia | 6.2 | 9.2 |
 
-## Postmarketing Experience
+*Some patients also received ALG.
+
+## Adverse Reactions During Postmarketing Experience
 
 Hepatotoxicity
 
@@ -108,7 +110,7 @@ Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), s
 Headache, Including Migraine
 
 Cases of migraine have been reported.
-In some cases, patients have been unable to continue cyclosporine, however, the final decision on treatment discontinuation should be made by the treating physician following the careful assessment of benefits versus risks.
+In some cases, patients have been unable to continue cyclosporine, however, the final decision on treatment discontinuation should be made by the treating health care provider following the careful assessment of benefits versus risks.
 
 Pain of Lower Extremities
 

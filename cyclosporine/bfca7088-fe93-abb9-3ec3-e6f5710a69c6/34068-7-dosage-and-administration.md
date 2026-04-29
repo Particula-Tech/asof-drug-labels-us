@@ -1,9 +1,11 @@
 # DOSAGE AND ADMINISTRATION
 
-## Cyclosporine capsules, (NON-MODIFIED)
+## Recommended Dosage for Cyclosporine capsules, (NON-MODIFIED)
 
-Cyclosporine capsules, (NON-MODIFIED) have decreased bioavailability in comparison to Neoral®* (cyclosporine capsules, USP) MODIFIED.
-Cyclosporine capsules, (NON-MODIFIED) and Neoral®* (cyclosporine capsules, USP) MODIFIED are not bioequivalent and cannot be used interchangeably without physician supervision.
+Cyclosporine capsules, (NON-MODIFIED) 25 mg and 100 mg and Neoral (cyclosporine capsules), MODIFIED 25 mg and 100 mg are not mutually substitutable on a mg-to-mg basis due to differences in pharmacokinetic profiles.
+
+- If it is appropriate to switch from Neoral capsules, MODIFIED, to cyclosporine capsules, (NON-MODIFIED), increase the frequency of cyclosporine monitoring (the cyclosporine dosage may need to be increased to reach the desired cyclosporine exposure and reduce the risk of insufficient efficacy).
+- If it is appropriate to switch from cyclosporine capsules, (NON-MODIFIED) to Neoral capsules, increase the frequency of cyclosporine monitoring (the cyclosporine dosage may need to be decreased to reach the desired cyclosporine exposure and reduce the risk of cyclosporine-related adverse reactions).
 
 The initial oral dose of cyclosporine capsules, (NON-MODIFIED) should be given 4 to 12 hours prior to transplantation as a single dose of 15 mg/kg.
 Although a daily single dose of 14 to 18 mg/kg was used in most clinical trials, few centers continue to use the highest dose, most favoring the lower end of the scale.
@@ -13,19 +15,17 @@ Some centers have successfully tapered the maintenance dose to as low as 3 mg/kg
 
 See Blood Concentration Monitoring, below.
 
-Specific Populations
-
-Renal Impairment
+Recommended Dosage of the Cyclosporine Capsules in Patients with Renal Impairment
 
 Cyclosporine undergoes minimal renal elimination and its pharmacokinetics do not appear to be significantly altered in patients with end-stage renal disease who receive routine hemodialysis treatments (see CLINICAL PHARMACOLOGY).
 However, due to its nephrotoxic potential (see WARNINGS), careful monitoring of renal function is recommended; cyclosporine dosage should be reduced if indicated (see WARNINGS and PRECAUTIONS).
 
-Hepatic Impairment
+Recommended Dosage of the Cyclosporine Capsules in Patients with Hepatic Impairment
 
 The clearance of cyclosporine may be significantly reduced in severe liver disease patients (see CLINICAL PHARMACOLOGY).
 Dose reduction may be necessary in patients with severe liver impairment to maintain blood concentrations within the recommended target range (see WARNINGS and PRECAUTIONS).
 
-Pediatrics
+Recommended Dosage of the Cyclosporine Capsules in Pediatric Patients
 
 In pediatric usage, the same dose and dosing regimen may be used as in adults although in several studies, children have required and tolerated higher doses than those used in adults.
 
@@ -36,7 +36,9 @@ Another center started with an initial dose of 200 mg tapered by 40 mg/day until
 After 2 months at this dose, a further reduction to 10 mg/day was made.
 Adjustments in dosage of prednisone must be made according to the clinical situation.
 
-## Blood Concentration Monitoring
+Cyclosporine capsules should be administered on a consistent schedule with regard to time of day and relation to meals.
+
+## Blood Cyclosporine Concentration Monitoring
 
 Several study centers have found blood concentration monitoring of cyclosporine useful in patient management.
 While no fixed relationships have yet been established, in one series of 375 consecutive cadaveric renal transplant recipients, dosage was adjusted to achieve specific whole blood 24-hour trough concentrations of 100 to 200 ng/mL as determined by high-pressure liquid chromatography (HPLC).
