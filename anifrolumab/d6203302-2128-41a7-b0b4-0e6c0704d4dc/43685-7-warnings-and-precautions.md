@@ -3,14 +3,14 @@
 ## 5.1 Serious Infections
 
 Serious and sometimes fatal infections (including COVID‑19) have occurred in patients receiving immunosuppressive agents, including SAPHNELO.
-Overall, the incidence of serious infections in controlled trials was similar in patients receiving SAPHNELO compared with placebo, whereas fatal infections occurred more frequently in patients receiving SAPHNELO [see Adverse Reactions (6.1)].
+In controlled trials, fatal infections occurred more frequently in patients receiving SAPHNELO [see Adverse Reactions (6.1)].
 
 In controlled trials, SAPHNELO increased the risk of respiratory infections and herpes zoster (disseminated herpes zoster events have been reported) [see Adverse Reactions (6.1)].
 
+Avoid initiating treatment with SAPHNELO in patients with any clinically significant active infection until the infection is resolved or adequately treated.
 Consider the benefit and risk of administering SAPHNELO in patients with a chronic infection, a history of recurrent infections, or known risk factors for infection.
-Avoid initiating treatment with SAPHNELO in patients with any clinically significant active infection until the infection resolves or is adequately treated.
-Instruct patients to seek medical advice if signs or symptoms of clinically significant infection occur.
-If a patient develops an infection, or is not responding to standard anti-infective therapy, monitor the patient closely and consider interrupting SAPHNELO therapy until the infection resolves.
+Instruct patients to seek medical advice if signs or symptoms of a clinically significant infection occur.
+If a patient develops an infection or is not responding to standard anti-infective therapy while on SAPHNELO, monitor the patient closely and consider interrupting SAPHNELO until the infection resolves.
 
 ## 5.2 Hypersensitivity Reactions Including Anaphylaxis
 

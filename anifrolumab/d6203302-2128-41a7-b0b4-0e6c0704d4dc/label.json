@@ -5,7 +5,12 @@
   "inn": "anifrolumab",
   "labeler": "AstraZeneca Pharmaceuticals LP",
   "package_ndcs": [
-    "0310-3040-00"
+    "0310-3040-00",
+    "0310-3080-01",
+    "0310-3080-02",
+    "0310-3080-25",
+    "0310-3080-75",
+    "0310-3080-95"
   ],
   "products": [
     {

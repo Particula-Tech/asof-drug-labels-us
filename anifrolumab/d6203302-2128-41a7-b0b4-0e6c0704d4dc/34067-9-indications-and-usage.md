@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-SAPHNELO (anifrolumab-fnia) is indicated for the treatment of adult patients with moderate to severe systemic lupus erythematosus (SLE), who are receiving standard therapy [see Clinical Studies (14)].
+SAPHNELO is indicated for the treatment of adult patients with moderate to severe systemic lupus erythematosus (SLE), who are receiving standard therapy.
 
 Limitations of Use
 

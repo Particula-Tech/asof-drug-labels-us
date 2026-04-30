@@ -4,13 +4,13 @@
 
 Pregnancy Exposure Registry
 
-A pregnancy exposure registry monitors pregnancy outcomes in women exposed to SAPHNELO during pregnancy.
-For more information about the registry or to report a pregnancy while on SAPHNELO, contact AstraZeneca at 1‑877‑693‑9268.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to SAPHNELO during pregnancy.
+For more information about the registry or to report a pregnancy while on SAPHNELO, healthcare providers should contact AstraZeneca at 1‑877‑693‑9268 or https://anifrolumabpregnancyandbreastfeedingstudy.us/.
 
 Risk Summary
 
-The limited human data with SAPHNELO use in pregnant women are insufficient to inform on drug-associated risk for major birth defects, miscarriage, or adverse maternal or fetal outcome.
-Monoclonal IgG antibodies are known to be actively transported across the placenta as pregnancy progresses; therefore, anifrolumab-fnia exposure to the fetus may be greater during the third trimester of pregnancy.
+The limited human data with SAPHNELO use in pregnant women are insufficient to inform on drug‑associated risk for major birth defects, miscarriage, or adverse maternal or fetal outcome.
+Monoclonal IgG antibodies are known to be actively transported across the placenta as pregnancy progresses; therefore, anifrolumab‑fnia exposure to the fetus may be greater during the third trimester of pregnancy.
 
 In an enhanced pre- and post-natal development study with pregnant cynomolgus monkeys that received intravenous administration of anifrolumab-fnia, there was no evidence of embryotoxicity or fetal malformations with exposures up to approximately 28‑times the exposure at the maximum recommended human dose (MRHD) on an Area Under Curve (AUC) basis (see Data).
 
@@ -43,13 +43,13 @@ Due to species-species differences in lactation physiology, animal data may not 
 Maternal IgG is known to be present in human milk.
 If anifrolumab-fnia is transferred into human milk, the effects of local gastrointestinal exposure and limited systemic exposure in the breastfed infant to anifrolumab-fnia are unknown.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for anifrolumab-fnia and any potential adverse effects on the breast-fed child from anifrolumab-fnia or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for SAPHNELO and any potential adverse effects on the breast-fed child from SAPHNELO or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of SAPHNELO in pediatric patients less than 18 years of age have not been established.
+The safety and efficacy of SAPHNELO in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-Of the 664 patients with SLE exposed to anifrolumab-fnia in clinical trials, 3% (n=20) were 65 and over.
+Of the 952 patients with moderate to severe SLE exposed to SAPHNELO in clinical trials, 3% (n=33) were 65 and over.
 The number of patients aged 65 years of age and older was not sufficient to determine whether they respond differently from younger adult patients.
