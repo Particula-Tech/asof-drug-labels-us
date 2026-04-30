@@ -114,7 +114,7 @@ Table 3: Adverse Reactions in ≥ 5% of Patients on the Abiraterone Acetate Tabl
 | Constipation | 23 | 0.4 | 19 | 0.6 |
 | Diarrhea | 22 | 0.9 | 18 | 0.9 |
 | Dyspepsia | 11 | 0.0 | 5.0 | 0.2 |
-| Vasculardisorders |  |  |  |  |
+| Vascular disorders |  |  |  |  |
 | Hot flush | 22 | 0.2 | 18 | 0.0 |
 | Hypertension | 22 | 3.9 | 13 | 3.0 |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |

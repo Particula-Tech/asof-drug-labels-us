@@ -16,19 +16,21 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
+
 Swallow whole tablet.
 Do not crush or chew.
+
 Store at 20° to 25°C (68° to 77°F); excursions permitted in the range from 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Each tablet contains: Abiraterone acetate, USP 250 mg
 
-RALC6920DA
+RALC6920DA1
 
-PC5569A
+PC5569B
 
 # PRINCIPAL DISPLAY PANEL – 500 mg
 
@@ -53,10 +55,10 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted in the range from 1
 
 Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Each film-coated tablet contains: Abiraterone acetate, USP 500 mg
 
-RALC6921D
+RALC6921D1
 
-PC5570A
+PC5570B

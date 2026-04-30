@@ -14,12 +14,10 @@
 | Abiraterone acetate tablets may cause fertility problems in males, which may affect the ability to father children. Talk to your healthcare provider if you have concerns about fertility.These are not all the possible side effects of abiraterone acetate tablets. Call your healthcare provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
 | How should I store abiraterone acetate tablets? •Store abiraterone acetate tablets at room temperature between 20º to 25ºC (68º to 77ºF). Keep abiraterone acetate tablets and all medicines out of the reach of children. |  |
 | General information about the safe and effective use of abiraterone acetate tablets. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use abiraterone acetate tablets for a condition for which they were not prescribed. Do not give abiraterone acetate tablets to other people, even if they have the same symptoms that you have. They may harm them. You can ask your healthcare provider or pharmacist for information about abiraterone acetate tablets that is written for health professionals. |  |
-| What are the ingredients of abiraterone acetate tablets? Active ingredient: abiraterone acetate Inactive ingredients: 500 mg film-coated tablets: croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, povidone, sodium lauryl sulfate, titanium dioxide and triacetin. 250 mg uncoated tablets: croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone and sodium lauryl sulfate. Manufactured for: Mylan Pharmaceuticals Inc., Morgantown, WV 26505 U.S.A.For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX). |  |
+| What are the ingredients of abiraterone acetate tablets? Active ingredient: abiraterone acetate Inactive ingredients: 500 mg film-coated tablets: croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, povidone, sodium lauryl sulfate, titanium dioxide and triacetin. 250 mg uncoated tablets: croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone and sodium lauryl sulfate. Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.For more information, call Viatris at 1-877-446-3679 (1-877-4-INFO-RX). |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Alcami Corporation Wilmington, NC 28405 U.S.A.
-
-Revised: 3/2025 ALC:ABIRT:R1p/ALC:PL:ABIRT:R1p
+Revised: 4/2026 ALC:ABIRT:R2p/ALC:PL:ABIRT:R2p
