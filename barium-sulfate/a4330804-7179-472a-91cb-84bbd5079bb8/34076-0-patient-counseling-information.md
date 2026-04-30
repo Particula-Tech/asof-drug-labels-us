@@ -6,8 +6,8 @@ After administration advise patients to:
 - Seek medical attention for worsening of constipation or slow gastrointestinal passage
 - Seek medical attention for any delayed onset of hypersensitivity: rash, urticaria, or respiratory difficulty
 
-Manufactured by EZEM Canada Inc Anjou (Quebec) Canada H1J 2Z4 For Bracco Diagnostics Inc. Monroe Township, NJ 08831
+Manufactured by EZEM Canada Inc Anjou (Quebec) Canada H1J 2Z4 For Bracco Diagnostics Inc. Princeton, NJ 08540
 
-CL80608
+CL806-09
 
-Revised December 2021
+Revised October 2024
