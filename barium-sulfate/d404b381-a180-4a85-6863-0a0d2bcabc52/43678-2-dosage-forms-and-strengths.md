@@ -1,4 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Oral suspension: barium sulfate (40% w/v) supplied in a multiple-dose plastic bottle or tube as a ready-to-use suspension for oral administration.
-Each bottle contains 250 mL of suspension; each tube contains 30 mL of suspension.
+Oral Suspension: off-white to lightly colored suspension with an apple aroma for oral administration supplied as 250 mL barium sulfate (40% w/v) in a multiple-dose polyethylene bottle or as 30 mL of barium sulfate (40%w/v) in a multiple-dose polyethylene tube.

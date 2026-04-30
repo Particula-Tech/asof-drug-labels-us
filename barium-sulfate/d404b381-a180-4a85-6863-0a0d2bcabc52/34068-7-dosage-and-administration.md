@@ -1,4 +1,4 @@
-# 2 Dosage and administration
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Recommended Dosing
 
@@ -10,7 +10,7 @@
 - Once opened, write the discard after date on the immediate container label.
   Discard any unused product after 21 days.
 
-## 2.2 Administration Instructions
+## 2.2 Important Administration Instructions
 
 - For oral use only
 - Advise patients to hydrate following the barium sulfate procedure.
