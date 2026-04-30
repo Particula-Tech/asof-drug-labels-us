@@ -33,8 +33,6 @@ For use of KEYTRUDA as a single agent as neoadjuvant treatment, then in combinat
 
 For use of KEYTRUDA in combination with chemotherapy, select patients based on the presence of positive PD-L1 expression (CPS ≥1) in locally advanced unresectable or metastatic gastric or gastroesophageal junction (GEJ) adenocarcinoma, and esophageal or gastroesophageal junction (GEJ) carcinoma [see Clinical Studies (14.10), (14.11)].
 
-- An FDA-authorized test for the detection of PD-L1 for the selection of patients with PD-L1 (CPS ≥ 1) expression in esophageal carcinoma in combination with platinum- and fluoropyrimidine-based chemotherapy is not available.
-
 For use of KEYTRUDA in combination with chemotherapy, with or without bevacizumab, select patients based on the presence of positive PD-L1 expression in persistent, recurrent, or metastatic cervical cancer [see Clinical Studies (14.12)].
 
 For the pMMR/not MSI-H advanced endometrial carcinoma indication, select patients for treatment with KEYTRUDA in combination with lenvatinib based on MMR or MSI status in tumor specimens [see Clinical Studies (14.17)].
