@@ -8,9 +8,9 @@ The first study (Noxafil® Oral Suspension Study 1) was a randomized, double-bli
 Efficacy of prophylaxis was evaluated using a composite endpoint of proven/probable IFIs, death, or treatment with systemic antifungal therapy (patients may have met more than one of these criteria).
 This assessed all patients while on study therapy plus 7 days and at 16 weeks post-randomization.
 The mean duration of therapy was comparable between the 2 treatment groups (80 days, Noxafil® oral suspension; 77 days, fluconazole).
-Table 32 contains the results from Noxafil® Oral Suspension Study 1.
+Table 34 contains the results from Noxafil® Oral Suspension Study 1.
 
-Table 32: Results from Blinded Clinical Study in Prophylaxis of IFI in All Randomized Patients with Hematopoietic Stem Cell Transplant (HSCT) and Graft-vs.-Host Disease (GVHD): Noxafil® Oral Suspension Study 1
+Table 34: Results from Blinded Clinical Study in Prophylaxis of IFI in All Randomized Patients with Hematopoietic Stem Cell Transplant (HSCT) and Graft-vs.-Host Disease (GVHD): Noxafil® Oral Suspension Study 1
 
 |  | Posaconazole n=301 | Fluconazole n=299 |
 | --- | --- | --- |
@@ -49,9 +49,9 @@ The second study (Noxafil® Oral Suspension Study 2) was a randomized, open-labe
 As in Noxafil® Oral Suspension Study 1, efficacy of prophylaxis was evaluated using a composite endpoint of proven/probable IFIs, death, or treatment with systemic antifungal therapy (Patients might have met more than one of these criteria).
 This study assessed patients while on treatment plus 7 days and 100 days postrandomization.
 The mean duration of therapy was comparable between the 2 treatment groups (29 days, posaconazole; 25 days, fluconazole or itraconazole).
-Table 33 contains the results from Noxafil® Oral Suspension Study 2.
+Table 35 contains the results from Noxafil® Oral Suspension Study 2.
 
-Table 33: Results from Open-Label Clinical Study 2 in Prophylaxis of IFI in All Randomized Patients with Hematologic Malignancy and Prolonged Neutropenia: Noxafil® Oral Suspension Study 2
+Table 35: Results from Open-Label Clinical Study 2 in Prophylaxis of IFI in All Randomized Patients with Hematologic Malignancy and Prolonged Neutropenia: Noxafil® Oral Suspension Study 2
 
 |  | Posaconazole n=304 | Fluconazole/Itraconazole n=298 |
 | --- | --- | --- |
@@ -65,7 +65,7 @@ Table 33: Results from Open-Label Clinical Study 2 in Prophylaxis of IFI in All 
 | All Deaths | 17 (6%) | 25 (8%) |
 | Proven/probable fungal infection prior to death | 1 (<1%) | 2 (1%) |
 | SAF‡ | 67 (22%) | 98 (33%) |
-| Through 100 days postrandomization |  |  |
+| Through 100 days post randomization |  |  |
 | Clinical Failure† | 158 (52%) | 191 (64%) |
 | Failure due to: |  |  |
 | Proven/Probable IFI | 14 (5%) | 33 (11%) |
@@ -87,8 +87,8 @@ Table 33: Results from Open-Label Clinical Study 2 in Prophylaxis of IFI in All 
 These patients were considered failures.
 
 In summary, 2 clinical studies of prophylaxis were conducted with the Noxafil® oral suspension.
-As seen in the accompanying tables (Tables 32 and 33), clinical failure represented a composite endpoint of breakthrough IFI, mortality and use of systemic antifungal therapy.
-In Noxafil® Oral Suspension Study 1 (Table 32), the clinical failure rate of posaconazole (33%) was similar to fluconazole (37%), (95% CI for the difference posaconazole–comparator -11.5% to 3.7%) while in Noxafil® Oral Suspension Study 2 (Table 33) clinical failure was lower for patients treated with posaconazole (27%) when compared to patients treated with fluconazole or itraconazole (42%), (95% CI for the difference posaconazole–comparator -22.9% to -7.8%).
+As seen in the accompanying tables (Tables 34 and 35), clinical failure represented a composite endpoint of breakthrough IFI, mortality and use of systemic antifungal therapy.
+In Noxafil® Oral Suspension Study 1 (Table 34), the clinical failure rate of posaconazole (33%) was similar to fluconazole (37%), (95% CI for the difference posaconazole–comparator -11.5% to 3.7%) while in Noxafil® Oral Suspension Study 2 (Table 35) clinical failure was lower for patients treated with posaconazole (27%) when compared to patients treated with fluconazole or itraconazole (42%), (95% CI for the difference posaconazole–comparator -22.9% to -7.8%).
 
 All-cause mortality was similar at 16 weeks for both treatment arms in Noxafil® Oral Suspension Study 1 [POS 58/301 (19%) vs. FLU 59/299 (20%)]; all-cause mortality was lower at 100 days for posaconazole-treated patients in Noxafil® Oral Suspension Study 2 [POS 44/304 (14%) vs. FLU/ITZ 64/298 (21%)].
 Both studies demonstrated fewer breakthrough infections caused by Aspergillus species in patients receiving posaconazole prophylaxis when compared to patients receiving fluconazole or itraconazole.
