@@ -63,7 +63,7 @@ Before administration, remove the syringe tip cap and attach the Luer lock cone-
      - –For abdominal procedures, apply after closure of the peritoneum (if applicable) and avoid administration below the peritoneum.
    - In general for orthopedic procedures, apply ZYNRELEF into the wound and on the periosteum from the proximal to the distal ends of the wound (i.e., beyond the boney repair).
      - –For total joint arthroplasty, apply ZYNRELEF directly into the joint capsule, onto the periosteum, and the antero-, medial-, and lateral tissues (if applicable), after placement of the component(s).
-     - –For spinal procedures, apply ZYNRELEF after closure of the paraspinal musculature and again after closure of the subcutaneous fascia.
+     - – For spinal procedures, apply ZYNRELEF after closure of the paraspinal musculature and again after closure of the subcutaneous fascia.
        ZYNRELEF must not be applied to the dura or spinal cord.
 2. Only apply ZYNRELEF to the tissue layers below the skin incision and not directly onto the subdermal layer or the skin.
    Minimize administration of ZYNRELEF near the incision line.

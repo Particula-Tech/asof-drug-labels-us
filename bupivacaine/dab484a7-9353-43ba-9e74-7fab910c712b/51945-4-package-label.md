@@ -166,7 +166,7 @@ Vial Contents: 2.3 mL* Withdraw 2.3 mL to deliver 2 mL
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - Kit Carton - 14 mL - NDC 47426-501
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 14 mL - NDC 47426-501-02
 
 ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
@@ -250,7 +250,7 @@ Vial Contents: 10.5 mL* Withdraw 10.5 mL to deliver 10.2 mL
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - Kit Carton - 7 mL - NDC 47426-503
+# PRINCIPAL DISPLAY PANEL - Kit Carton - 7 mL - NDC 47426-503-01
 
 ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
