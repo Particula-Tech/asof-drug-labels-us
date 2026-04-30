@@ -3,7 +3,7 @@
 ## 5.1 Radiation Risks
 
 Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients.
-Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [seeDosage and Administration(2.5)].
+Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [see Dosage and Administration (2.5)].
 
 ## 5.2 Blood Glucose Abnormalities
 

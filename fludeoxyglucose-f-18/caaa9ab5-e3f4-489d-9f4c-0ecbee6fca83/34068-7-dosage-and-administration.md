@@ -3,7 +3,7 @@
 Fludeoxyglucose F 18 Injection emits radiation.
 Use procedures to minimize radiation exposure.
 Calculate the final dose from the end of synthesis (EOS) time using proper radioactive decay factors.
-Assay the final dose in a properly calibrated dose calibrator before administration to the patient [seeDescription(11.2)].
+Assay the final dose in a properly calibrated dose calibrator before administration to the patient [see Description (11.2)].
 
 ## 2.1 Recommended Dose for Adults
 
@@ -12,21 +12,21 @@ Within the oncology, cardiology and neurology settings, the recommended dose for
 ## 2.2 Recommended Dose for Pediatric Patients
 
 Within the neurology setting, the recommended dose for pediatric patients is 2.6 mCi, as an intravenous injection.
-The optimal dose adjustment on the basis of body size or weight has not been determined [seeUse in Special Populations(8.4)].
+The optimal dose adjustment on the basis of body size or weight has not been determined [see Use in Special Populations (8.4)].
 
 ## 2.3 Patient Preparation
 
 - To minimize the radiation absorbed dose to the bladder, encourage adequate hydration.
   Encourage the patient to drink water or other fluids (as tolerated) in the 4 hours before their PET study.
 - Encourage the patient to void as soon as the imaging study is completed and as often as possible thereafter for at least one hour.
-- Screen patients for clinically significant blood glucose abnormalities by obtaining a history and/or laboratory tests [seeWarnings and Precautions(5.2)].
+- Screen patients for clinically significant blood glucose abnormalities by obtaining a history and/or laboratory tests [see Warnings and Precautions (5.2)].
   Prior to Fludeoxyglucose F 18 PET imaging in the oncology and neurology settings, instruct patient to fast for 4 to 6 hours prior to the drug’s injection.
 - In the cardiology setting, administration of glucose-containing food or liquids (e.g., 50 to 75 grams) prior to Fludeoxyglucose F 18 Injection facilitates localization of cardiac ischemia.
 
 ## 2.4 Radiation Dosimetry
 
 The estimated human absorbed radiation doses (rem/mCi) to a newborn (3.4 kg), 1-year old (9.8 kg), 5-year old (19 kg), 10-year old (32 kg), 15-year old (57 kg), and adult (70 kg) from intravenous administration of Fludeoxyglucose F 18 Injection are shown in Table 1.
-These estimates were calculated based on human 2data and using the data published by the International Commission on Radiological Protection 4for Fludeoxyglucose 18F.
+These estimates were calculated based on human2 data and using the data published by the International Commission on Radiological Protection4 for Fludeoxyglucose 18F.
 The dosimetry data show that there are slight variations in absorbed radiation dose for various organs in each of the age groups.
 These dissimilarities in absorbed radiation dose are due to developmental age variations (e.g., organ size, location, and overall metabolic rate for each age group).
 The identified critical organs (in descending order) across all age groups evaluated are the urinary bladder, heart, pancreas, spleen, and lungs.
@@ -34,7 +34,7 @@ The identified critical organs (in descending order) across all age groups evalu
 | Table 1. Estimated Absorbed Radiation Doses (rem/mCi) After Intravenous Administration of Fludeoxyglucose F 18 Injectiona |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Organ | Newborn (3.4 kg) | 1-year old (9.8 kg) | 5-year old (19 kg) | 10-year old (32 kg) | 15-year old (57 kg) | Adult (70 kg) |
-| Bladder wall b | 4.3 | 1.7 | 0.93 | 0.60 | 0.40 | 0.32 |
+| Bladder wallb | 4.3 | 1.7 | 0.93 | 0.60 | 0.40 | 0.32 |
 | Heart wall | 2.4 | 1.2 | 0.70 | 0.44 | 0.29 | 0.22 |
 | Pancreas | 2.2 | 0.68 | 0.33 | 0.25 | 0.13 | 0.096 |
 | Spleen | 2.2 | 0.84 | 0.46 | 0.29 | 0.19 | 0.14 |
@@ -60,16 +60,16 @@ The identified critical organs (in descending order) across all age groups evalu
 | Brain | 0.29 | 0.13 | 0.09 | 0.078 | 0.072 | 0.070 |
 | Other tissues | 0.59 | 0.25 | 0.13 | 0.083 | 0.052 | 0.042 |
 
-aMIRDOSE 2 software was used to calculate the radiation absorbed dose.
+a MIRDOSE 2 software was used to calculate the radiation absorbed dose.
 
-bThe dynamic bladder model with a uniform voiding frequency of 1.5 hours was used. *LLI = lower large intestine; **ULI = upper large intestine
+b The dynamic bladder model with a uniform voiding frequency of 1.5 hours was used. *LLI = lower large intestine; **ULI = upper large intestine
 
-## 2.5Radiation Safety – DrugHandling
+## 2.5 Radiation Safety – Drug Handling
 
 - Use waterproof gloves, effective radiation shielding, and appropriate safety measures when handling Fludeoxyglucose F 18 Injection to avoid unnecessary radiation exposure to the patient, occupational workers, clinical personnel and other persons.
 - Radiopharmaceuticals should be used by or under the control of physicians who are qualified by specific training and experience in the safe use and handling of radionuclides, and whose experience and training have been approved by the appropriate governmental agency authorized to license the use of radionuclides.
 - Calculate the final dose from the end of synthesis (EOS) time using proper radioactive decay factors.
-  Assay the final dose in a properly calibrated dose calibrator before administration to the patient [seeDescription(11.2)].
+  Assay the final dose in a properly calibrated dose calibrator before administration to the patient [see Description (11.2)].
 - The dose of Fludeoxyglucose F 18 used in a given patient should be minimized consistent with the objectives of the procedure, and the nature of the radiation detection devices employed.
 
 ## 2.6 Drug Preparation and Administration

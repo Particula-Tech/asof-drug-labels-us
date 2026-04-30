@@ -12,4 +12,8 @@ Lactation: Advise lactating women that exposure to Fludeoxyglucose F 18 Injectio
 
 Manufactured and distributed by:
 
-PETNET Solutions, Inc. 810 Innovation Drive Knoxville, TN 37932
+PETNET Solutions, Inc., d/b/a Siemens Healthineers
+
+810 Innovation Drive
+
+Knoxville, TN 37932

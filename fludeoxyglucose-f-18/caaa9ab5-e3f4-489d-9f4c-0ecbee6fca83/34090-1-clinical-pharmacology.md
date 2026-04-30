@@ -58,4 +58,4 @@ The pharmacokinetics of Fludeoxyglucose F 18 Injection have not been studied in 
 Fludeoxyglucose F 18 is eliminated through the renal system.
 Avoid excessive radiation exposure to this organ system and adjacent tissues.
 
-The effects of fasting, varying blood sugar levels, conditions of glucose intolerance, and diabetes mellitus on Fludeoxyglucose F 18 distribution in humans have not been ascertained [seeWarnings and Precautions(5.2)].
+The effects of fasting, varying blood sugar levels, conditions of glucose intolerance, and diabetes mellitus on Fludeoxyglucose F 18 distribution in humans have not been ascertained [see Warnings and Precautions (5.2)].
