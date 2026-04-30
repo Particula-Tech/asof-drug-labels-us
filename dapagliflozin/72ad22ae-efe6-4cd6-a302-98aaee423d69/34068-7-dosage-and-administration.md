@@ -1,8 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Prior to Initiation of FARXIGA
+## 2.1 Testing Prior to Initiation of FARXIGA
 
-- •Assess renal function prior to initiation of FARXIGA therapy and then as clinically indicated [see Warnings and Precautions (5.2)].
+- •Assess renal function prior to initiation of FARXIGA and then as clinically indicated [see Warnings and Precautions (5.2)].
 - •Assess volume status.
   In patients with volume depletion, correct this condition before initiating FARXIGA [see Warnings and Precautions (5.2) and Use in Specific Populations (8.5, 8.6)].
 
@@ -21,7 +21,7 @@ For Adult and Pediatric Patients with Type 2 Diabetes Mellitus and Renal Impairm
 
 The recommended dosage of FARXIGA is 10 mg orally once daily in adults for the following indications:
 
-- •To reduce the risk of sustained eGFR decline, end stage kidney disease (ESKD), cardiovascular (CV) death, and hospitalization for heart failure (hHF) in patients with chronic kidney disease at risk of progression.
+- •To reduce the risk of sustained eGFR decline, end-stage kidney disease (ESKD), cardiovascular (CV) death, and hospitalization for heart failure (hHF) in patients with chronic kidney disease at risk of progression.
 - •To reduce the risk of CV death, hHF, and urgent heart failure visit in patients with heart failure.
 - •To reduce the risk of hHF in patients with type 2 diabetes mellitus and either established CV disease or multiple CV risk factors.
 

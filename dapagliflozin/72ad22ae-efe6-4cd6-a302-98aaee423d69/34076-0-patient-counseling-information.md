@@ -53,7 +53,7 @@ Advise patients to immediately report any signs or symptoms suggesting allergic 
 Pregnancy
 
 Advise pregnant patients of the potential risk to a fetus with treatment with FARXIGA.
-Instruct patients to immediately inform their healthcare provider if pregnant or planning to become pregnant [see Use in Specific Populations (8.1)].
+Instruct patients to immediately inform their healthcare provider if pregnant or planning to become pregnant [seeUse in Specific Populations (8.1)].
 
 Lactation
 

@@ -22,7 +22,7 @@ If ketoacidosis is suspected, discontinue FARXIGA, promptly evaluate, and treat 
 Monitor patients for resolution of ketoacidosis before restarting FARXIGA.
 
 Withhold FARXIGA, if possible, in temporary clinical situations that could predispose patients to ketoacidosis.
-Resume FARXIGA when the patient is clinically stable and has resumed oral intake [see Dosage and Administration (2.3)].
+Resume FARXIGA when the patient is clinically stable and has resumed oral intake [see Dosage and Administration (2.4)].
 
 Educate all patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue FARXIGA and seek medical attention immediately if signs and symptoms occur.
 
@@ -38,7 +38,7 @@ Monitor for signs and symptoms of hypotension, and renal function after initiati
 
 Serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization have been reported in patients receiving SGLT2 inhibitors, including FARXIGA.
 Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
-Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
+Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [seeAdverse Reactions (6)].
 
 ## 5.4 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 

@@ -43,7 +43,7 @@ Metformin XR dose was up-titrated weekly in 500 mg increments, as tolerated, wit
 The combination treatment of FARXIGA 10 mg plus metformin XR provided statistically significant improvements in HbA1c and FPG compared with either of the monotherapy treatments and statistically significant reduction in body weight compared with metformin XR alone (see Table 8 and Figure 2).
 FARXIGA 10 mg as monotherapy also provided statistically significant improvements in FPG and statistically significant reduction in body weight compared with metformin alone and was non inferior to metformin XR monotherapy in lowering HbA1c
 
-Table 8: Results at Week 24 (LOCF1) in an Active-Controlled Trial of FARXIGA Initial Combination Therapy with Metformin XR
+Table 8: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.) in an Active-Controlled Trial of FARXIGA Initial Combination Therapy with Metformin XR
 
 |  | N=211All randomized patients who took at least one dose of double-blind trial medication during the short-term double-blind period. | N=219 | N=208 |
 | --- | --- | --- | --- |
@@ -52,17 +52,17 @@ Table 8: Results at Week 24 (LOCF1) in an Active-Controlled Trial of FARXIGA Ini
 | Baseline (mean) | 9.1 | 9.0 | 9.0 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value.) | −2.0 | −1.5 | −1.4 |
 | Difference from FARXIGA (adjusted mean) (95% CI) | −0.5p-value <0.0001. (−0.7, −0.3) |  |  |
-| Difference from metformin XR (adjusted mean) (95% CI) | −0.5 (−0.8, −0.3) | 0.0Non-inferior versus metformin XR. (−0.2, 0.2) |  |
-| Percent of patients achieving HbA1c <7% adjusted for baseline | 46.6%p-value <0.05. | 31.7% | 35.2% |
+| Difference from metformin XR (adjusted mean) (95% CI) | −0.5 (−0.8, −0.3) | 0.0Non inferior versus metformin XR. (−0.2, 0.2) |  |
+| Percent of patients achieving HbA1c <7% adjusted for baseline | 46.6% | 31.7% | 35.2% |
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 189.6 | 197.5 | 189.9 |
 | Change from baseline (adjusted mean) | −60.4 | −46.4 | −34.8 |
 | Difference from FARXIGA (adjusted mean) (95% CI) | −13.9 (−20.9, −7.0) |  |  |
-| Difference from metformin XR (adjusted mean) (95% CI) | −25.5 (−32.6, −18.5) | −11.6 (−18.6, −4.6) |  |
+| Difference from metformin XR (adjusted mean) (95% CI) | −25.5 (−32.6, −18.5) | −11.6p-value <0.05. (−18.6, −4.6) |  |
 | Body Weight (kg) |  |  |  |
 | Baseline (mean) | 88.6 | 88.5 | 87.2 |
 | Change from baseline (adjusted mean) | −3.3 | −2.7 | −1.4 |
-| Difference from metformin XR (adjusted mean) (95% CI) | −2.0 (−2.6, −1.3) | −1.4(−2.0, −0.7) |  |
+| Difference from metformin XR (adjusted mean) (95% CI) | −2.0 (−2.6, −1.3) | −1.4−2.0, −0.7) |  |
 
 Figure 2: Adjusted Mean Change from Baseline Over Time in HbA1c (%) in a 24-Week Active-Controlled Trial of FARXIGA Initial Combination Therapy with Metformin XR
 
@@ -104,7 +104,7 @@ Statistically significant (p <0.05 for both doses) mean changes from baseline in
 Table 10: Results of a 24-Week (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.)
 Placebo-Controlled Trial of FARXIGA in Add-On Combination with Metformin
 
-| Efficacy Parameter | FARXIGA 10 mg + Metformin N=135All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | FARXIGA 5 mg + Metformin N=137 | Placebo + Metformin N=137 |
+| Efficacy Parameter | FARXIGA 10 mg + Metformin N=135All randomized patients who took at least one dose of double-blind trial medication during the short-term double-blind period. | FARXIGA 5 mg + Metformin N=137 | Placebo + Metformin N=137 |
 | --- | --- | --- | --- |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 7.9 | 8.2 | 8.1 |
@@ -119,11 +119,11 @@ Placebo-Controlled Trial of FARXIGA in Add-On Combination with Metformin
 | Body Weight (kg) |  |  |  |
 | Baseline (mean) | 86.3 | 84.7 | 87.7 |
 | Change from baseline (adjusted mean) | -2.9 | -3.0 | -0.9 |
-| Difference from placebo (adjusted mean) (95% CI) | -2.0 (-2.6, -1.3) | -2.2(-2.8, -1.5) |  |
+| Difference from placebo (adjusted mean) (95% CI) | -2.0 (-2.6, -1.3) | -2.2 (-2.8, -1.5) |  |
 
-Figure 3: Adjusted Mean Change from Baseline Over Time in HbA1c (%) in a 24-Week Placebo-Controlled Study of FARXIGA in Combination with Metformin
+Figure 3: Adjusted Mean Change from Baseline Over Time in HbA1c (%) in a 24-Week Placebo-Controlled Trial of FARXIGA in Combination with Metformin
 
-### Active Glipizide-Controlled Study Add-On to Metformin
+### Active Glipizide-Controlled Trial Add-On to Metformin
 
 A total of 816 adult patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c >6.5% and ≤10%) were randomized in a 52-week, glipizide-controlled, non-inferiority trial to evaluate FARXIGA as add-on therapy to metformin (NCT00660907).
 Patients on metformin at a dose of at least 1,500 mg per day were randomized following a 2-week placebo lead-in period to glipizide or dapagliflozin (5 mg or 2.5 mg, respectively) and were up-titrated over 18 weeks to optimal glycemic effect (FPG <110 mg/dL, <6.1 mmol/L) or to the highest dose level (up to glipizide 20 mg and FARXIGA 10 mg) as tolerated by patients.
@@ -134,18 +134,18 @@ FARXIGA led to a similar mean reduction in HbA1c from baseline at Week 52 (LOCF)
 FARXIGA treatment led to a statistically significant mean reduction in body weight from baseline at Week 52 (LOCF) compared with a mean increase in body weight in the glipizide group.
 Statistically significant (p<0.0001) mean change from baseline in systolic blood pressure relative to glipizide plus metformin was 5.0 mmHg with FARXIGA plus metformin.
 
-Table 11: Results at Week 52 (LOCFLOCF: last observation carried forward.) in an Active-Controlled Study Comparing FARXIGA to Glipizide as Add-On to Metformin
+Table 11: Results at Week 52 (LOCFLOCF: last observation carried forward.) in an Active-Controlled Trial Comparing FARXIGA to Glipizide as Add-On to Metformin
 
-| Efficacy Parameter | FARXIGA + Metformin N=400Randomized and treated patients with baseline and at least 1 post-baseline efficacy measurement. | Glipizide + Metformin N=401 |
+| Efficacy Parameter | FARXIGA + Metformin N=400Randomized and treated patients with baseline and at least 1 post baseline efficacy measurement. | Glipizide + Metformin N=401 |
 | --- | --- | --- |
 | HbA1c (%) |  |  |
 | Baseline (mean) | 7.7 | 7.7 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value.) | -0.5 | -0.5 |
-| Difference from glipizide + metformin (adjusted mean) (95% CI) | 0.0Non-inferior to glipizide + metformin. (-0.1, 0.1) |  |
+| Difference from glipizide + metformin (adjusted mean) (95% CI) | 0.0Non inferior to glipizide + metformin. (-0.1, 0.1) |  |
 | Body Weight (kg) |  |  |
 | Baseline (mean) | 88.4 | 87.6 |
 | Change from baseline (adjusted mean) | -3.2 | 1.4 |
-| Difference from glipizide + metformin (adjusted mean) (95% CI) | -4.7p-value <0.0001. (-5.1, -4.2) |  |
+| Difference from glipizide + metformin (adjusted mean) (95% CI) | -4.7p-value <0.0001 (-5.1, -4.2) |  |
 
 ### Add-On Combination Therapy with Other Antidiabetic Agents
 
@@ -209,17 +209,17 @@ Placebo-Controlled Trials of FARXIGA in Combination with Antidiabetic Agents
 | Efficacy Parameter | FARXIGA 10 mg | FARXIGA 5 mg | Placebo |
 | --- | --- | --- | --- |
 | In Combination with Sulfonylurea (Glimepiride) |  |  |  |
-| Intent-to-Treat Population | N=151Randomized and treated patients with baseline and at least 1 post-baseline efficacy measurement. | N=142 | N=145 |
+| Intent-to-Treat Population | N=151Randomized and treated patients with baseline and at least 1 post baseline efficacy measurement. | N=142 | N=145 |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 8.1 | 8.1 | 8.2 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value based on an ANCOVA model.) | -0.8 | -0.6 | -0.1 |
-| Difference from placebo (adjusted mean) (95% CI) | -0.7p-value <0.0001 versus placebo.(-0.9, -0.5) | -0.5(-0.7, -0.3) |  |
+| Difference from placebo (adjusted mean) (95% CI) | -0.7(-0.9, -0.5) | -0.5(-0.7, -0.3) |  |
 | Percent of patients achieving HbA1c <7% adjusted for baseline | 31.7% | 30.3% | 13.0% |
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 172.4 | 174.5 | 172.7 |
 | Change from baseline (adjusted mean) | -28.5 | -21.2 | -2.0 |
 | Difference from placebo (adjusted mean) (95% CI) | -26.5(-33.5, -19.5) | -19.3(-26.3, -12.2) |  |
-| 2-hour PPG2-hour PPG level as a response to a 75-gram oral glucose tolerance test (OGTT). (mg/dL) |  |  |  |
+| 2-hour PPG (mg/dL) |  |  |  |
 | Baseline (mean) | 329.6 | 322.8 | 324.1 |
 | Change from baseline (adjusted mean) | -60.6 | –54.5 | -11.5 |
 | Difference from placebo (adjusted mean) (95% CI) | -49.1(-64.1, -34.1) | -43.0(–58.4, -27.5) |  |
@@ -232,7 +232,7 @@ Placebo-Controlled Trials of FARXIGA in Combination with Antidiabetic Agents
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 8.08 | - | 8.24 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value based on a longitudinal repeated measures model.) | -0.86 | - | -0.17 |
-| Difference from placebo (adjusted mean) (95% CI) | -0.69(-0.89, -0.49) | - |  |
+| Difference from placebo (adjusted mean) (95% CI) | -0.69p-value <0.0001 versus placebo.(-0.89, -0.49) | - |  |
 | Percent of patients achieving HbA1c <7% adjusted for baseline | 31.8% | - | 11.1% |
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 167.4 | - | 180.3 |
@@ -243,7 +243,7 @@ Placebo-Controlled Trials of FARXIGA in Combination with Antidiabetic Agents
 | Change from baseline (adjusted mean) | -2.65 | - | -0.58 |
 | Difference from placebo (adjusted mean) (95% CI) | -2.07(-2.79, -1.35) | - |  |
 | In Combination with Thiazolidinedione (Pioglitazone) |  |  |  |
-| Intent-to-Treat Population | N=140All randomized patients who took at least one dose of double-blind study medication during the short-term, double-blind period. | N=141 | N=139 |
+| Intent-to-Treat Population | N=140All randomized patients who took at least one dose of double-blind trial medication during the short-term, double-blind period. | N=141 | N=139 |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 8.4 | 8.4 | 8.3 |
 | Change from baseline (adjusted mean) | -1.0 | -0.8 | -0.4 |
@@ -253,7 +253,7 @@ Placebo-Controlled Trials of FARXIGA in Combination with Antidiabetic Agents
 | Baseline (mean) | 164.9 | 168.3 | 160.7 |
 | Change from baseline (adjusted mean) | -29.6 | -24.9 | -5.5 |
 | Difference from placebo (adjusted mean) (95% CI) | -24.1(-32.2, -16.1) | -19.5(-27.5, -11.4) |  |
-| 2-hour PPG (mg/dL) |  |  |  |
+| 2-hour PPG2-hour PPG level as a response to a 75-gram oral glucose tolerance test (OGTT). (mg/dL) |  |  |  |
 | Baseline (mean) | 308.0 | 284.8 | 293.6 |
 | Change from baseline (adjusted mean) | -67.5 | -65.1 | -14.1 |
 | Difference from placebo (adjusted mean) (95% CI) | -53.3(-71.1, -35.6) | -51.0(-68.7, -33.2) |  |
@@ -293,7 +293,7 @@ Placebo-Controlled Trials of FARXIGA in Combination with Antidiabetic Agents
 
 #### Combination Therapy with Exenatide-Extended Release as Add-On to Metformin
 
-A total of 694 adult patients with type 2 diabetes mellitus and inadequate glycemic control (HbA1c ≥8.0 and ≤12.0%) on metformin, were evaluated in a 28-week double-blind, active-controlled trial to compare FARXIGA in combination with exenatide extended-release (a GLP 1 receptor agonist) to FARXIGA alone and exenatide extended-release alone, as add on to metformin (NCT02229396).
+A total of 694 adult patients with type 2 diabetes mellitus and inadequate glycemic control (HbA1c ≥8.0 and ≤12.0%) on metformin, were evaluated in a 28-week double-blind, active-controlled trial to compare FARXIGA in combination with exenatide extended-release (a GLP-1 receptor agonist) to FARXIGA alone and exenatide extended-release alone, as add on to metformin (NCT02229396).
 Patients on metformin at a dose of at least 1,500 mg per day were randomized following a 1-week placebo lead-in period to receive either FARXIGA 10 mg once daily (QD) in combination with exenatide extended release 2 mg once weekly (QW), FARXIGA 10 mg QD, or exenatide extended–release 2 mg QW.
 
 At Week 28, FARXIGA in combination with exenatide extended-release provided statistically significantly greater reductions in HbA1c (-1.77%) compared to FARXIGA alone (-1.32%, p=0.001) and exenatide extended-release alone (-1.42%, p=0.012).
@@ -321,7 +321,7 @@ Table 13: Results at Week 24 of Placebo-Controlled Trial for FARXIGA in Adults w
 
 In a pediatric trial (NCT03199053), patients aged 10 to 17 years with inadequately controlled type 2 diabetes mellitus (HbA1c ≥6.5% and ≤10.5%) were randomized to FARXIGA (81 patients) or placebo (76 patients) as add-on to metformin, insulin or a combination of metformin and insulin.
 In this 26-week, placebo-controlled, double-blind randomized clinical trial with a 26-week safety extension, patients received 5 mg of FARXIGA or placebo following a lead-in period.
-At Week 14, patients with HbA1c values <7% remained on 5 mg while patients with HbA1c values ≥7% were randomized to either continue on 5 mg or up titrate to 10 mg.
+At Week 14, patients with HbA1c values <7% remained on 5 mg while patients with HbA1c values ≥7% were randomized to either continue on 5 mg or up-titrate to 10 mg.
 
 At baseline, 88% of FARXIGA-treated patients and 89% of placebo-treated patients were on metformin with or without insulin as background medication.
 The mean HbA1c at baseline was 8.2% in FARXIGA-treated patients and 8.0% in placebo-treated patients, and the mean duration of type 2 diabetes mellitus was 2.3 years in FARXIGA-treated patients and 2.5 years in placebo-treated patients.
@@ -334,20 +334,20 @@ The mean eGFR at baseline was 115 mL/min/1.73 m2 in FARXIGA-treated patients and
 At Week 26, treatment with FARXIGA provided statistically significant improvements in HbA1c compared with placebo (Table 14).
 This effect was consistent across subgroups including race, ethnicity, sex, age group (≥10 to <15 years of age and ≥15 to <18 years of age), background antidiabetic treatment, and baseline BMI.
 
-Table 14: Results at Week 26 in a Placebo-Controlled Trial of FARXIGA as Add-On to Metformin and/or Insulin in Pediatric Patients Aged 10 Years and Older with Type 2 Diabetes Mellitus
+Table 13: Results at Week 26 in a Placebo-Controlled Trial of FARXIGA as Add-On to Metformin and/or Insulin in Pediatric Patients Aged 10 Years and Older with Type 2 Diabetes Mellitus
 
 | Intent-to-Treat Population (N)All randomized patients who received at least one dose of double-blind trial medication during the treatment period. Includes data regardless of rescue or premature treatment discontinuation. | 81 | 76 |
 | --- | --- | --- |
 | Efficacy Parameter | FARXIGA 5 mg and 10 mg | Placebo |
-| HbA1c (%) |  |  |
+| HbA1cMultiple imputations using placebo washout approach for missing efficacy endpoint. Imputed for HbA1c (FARXIGA N=6 (7.4%), placebo N=6 (7.9%)), for FPG (FARXIGA N=6 (7.4%), placebo N=8 (10.5%)). (%) |  |  |
 | Baseline (mean) | 8.2 | 8.0 |
-| Change from baseline (adjusted meanMultiple imputations using placebo washout approach for missing efficacy endpoint. Imputed for HbA1c (FARXIGA N=6 (7.4%), placebo N=6 (7.9%)), for FPG (FARXIGA N=6 (7.4%), placebo N=8 (10.5%)).) | -0.6 | 0.4 |
-| Difference from placebo (adjusted mean) (95% CI) | -1.0Least squares mean adjusted for baseline value, treatment, age, gender and baseline diabetic medication.(-1.6, -0.5) |  |
+| Change from baseline (adjusted meanLeast squares mean adjusted for baseline value, treatment, age, gender and baseline diabetic medication.) | -0.6 | 0.4 |
+| Difference from placebo (adjusted mean) (95% CI) | -1.0p-value versus placebo <0.001. p-value is two-sided. (-1.6, -0.5) |  |
 | FPG (mg/dL) |  |  |
-| Baseline (mean) | 162.2 | 152.1 |
+| Baseline (mean) | 162.2 | 152.0 |
 | Change from baseline (adjusted mean) | -10.3 | 9.2 |
-| Difference from placebo (adjusted mean) (95% CI) | -19.5p-value versus placebo <0.001. p-value is two-sided.(-36.4, -2.5) |  |
-| Percent of subjects with Baseline HbA1c ≥7% Achieving a HbA1c Level <7% | 26.6%(Np-value versus placebo <0.05. p-value is two-sided.=64) | 10.0%(N=50) |
+| Difference from placebo (adjusted mean) (95% CI) | -19.5p-value versus placebo <0.05. p-value is two-sided.(-36.4, -2.5) |  |
+| Percent of Subjects Achieving a HbA1c Level <7% | 34.6% | 25.0% |
 | CI=confidence interval |  |  |
 
 ## 14.3 Cardiovascular Outcomes in Adults with Type 2 Diabetes Mellitus
@@ -383,7 +383,7 @@ FARXIGA was superior to placebo in reducing the incidence of the primary composi
 
 The treatment effect was due to a significant reduction in the risk of hospitalization for heart failure in subjects randomized to FARXIGA [HR 0.73 (95% CI 0.61, 0.88)], with no change in the risk of CV death (Table 15 and Figures 4 and 5).
 
-Table 15: Treatment Effects for the Primary EndpointsFull analysis set.and their Components in the DECLARE Study
+Table 14: Treatment Effects for the Primary EndpointsFull analysis set. and their Components in the DECLARE Trial
 
 |  | Patients with events n (%) |  |  |
 | --- | --- | --- | --- |
@@ -398,16 +398,16 @@ Table 15: Treatment Effects for the Primary EndpointsFull analysis set.and their
 | Ischemic Stroke | 235 (2.7) | 231 (2.7) | 1.01 (0.84, 1.21) |
 | N=Number of patients, CI=Confidence interval, CV=Cardiovascular, MI=Myocardial infarction. |  |  |  |
 
-Figure 4: Time to First Occurrence of Hospitalization for Heart Failure or CV Death in the DECLARE Study
+Figure 4: Time to First Occurrence of Hospitalization for Heart Failure or CV Death in the DECLARE Trial
 
-Figure 5: Time to First Occurrence of Hospitalization for Heart Failure in the DECLARE Study
+Figure 5: Time to First Occurrence of Hospitalization for Heart Failure in the DECLARE Trial
 
-## 14.4 Chronic Kidney Disease
+## 14.4 Chronic Kidney Disease in Adults
 
 The Trial to Evaluate the Effect of Dapagliflozin on Renal Outcomes and Cardiovascular Mortality in Patients with Chronic Kidney Disease (DAPA-CKD, NCT03036150) was an international, multicenter, randomized, double-blind, placebo-controlled trial in adult patients with chronic kidney disease (CKD) (eGFR between 25 and 75 mL/min/1.73 m2) and albuminuria [urine albumin creatinine ratio (UACR) between 200 and 5000 mg/g] who were receiving standard of care background therapy, including a maximally tolerated, labeled daily dose of an angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB).
 The trial excluded patients with autosomal dominant or autosomal recessive polycystic kidney disease, lupus nephritis, or ANCA-associated vasculitis and patients requiring cytotoxic, immunosuppressive, or immunomodulatory therapies in the preceding 6 months.
 
-The primary objective was to determine whether FARXIGA reduces the incidence of the composite endpoint of ≥50% sustained decline in eGFR, progression to end stage kidney disease (ESKD) (defined as sustained eGFR <15 mL/min/1.73 m2, initiation of chronic dialysis treatment or renal transplant), CV or renal death.
+The primary objective was to determine whether FARXIGA reduces the incidence of the composite endpoint of ≥50% sustained decline in eGFR, progression to end-stage kidney disease (ESKD) (defined as sustained eGFR <15 mL/min/1.73 m2, initiation of chronic dialysis treatment or renal transplant), CV or renal death.
 
 A total of 4304 patients were randomized equally to FARXIGA 10 mg or placebo and were followed for a median of 28.5 months.
 
@@ -429,14 +429,14 @@ There were few renal deaths during the trial (Table 16, Figure 6).
 
 FARXIGA also reduced the incidence of the composite endpoint of CV death or hospitalization for heart failure [HR 0.71 (95% CI 0.55, 0.92), p=0.0089] and all-cause mortality [HR 0.69 (95% CI 0.53, 0.88), p=0.0035].
 
-Table 16: Treatment Effect for the Primary Composite Endpoint, its Components, and Secondary Composite Endpoints, in the DAPA-CKD Study
+Table 15: Treatment Effect for the Primary Composite Endpoint, its Components, and Secondary Composite Endpoints, in the DAPA-CKD Trial
 
 |  | Patients with events (event rate) |  |  |  |
 | --- | --- | --- | --- | --- |
 | Efficacy Variable(time to first occurrence) | FARXIGA 10 mg N=2152 | Placebo N=2152 | Hazard ratio (95% CI) | p-value |
 | Composite of ≥50% sustained eGFR decline, ESKD, CV or renal death | 197 (4.6) | 312 (7.5) | 0.61 (0.51, 0.72) | <0.0001 |
 | ≥50% sustained eGFR decline | 112 (2.6) | 201 (4.8) | 0.53 (0.42, 0.67) |  |
-| ESKDESKD is defined as sustained eGFR <15 mL/min/1.73 m2, initiation of chronic dialysis treatment, or transplant. | 109 (2.5) | 161 (3.8) | 0.64 (0.50, 0.82) |  |
+| ESKDESKD is defined as sustained eGFR<15 mL/min/1.73 m2, initiation of chronic dialysis treatment, or transplant. | 109 (2.5) | 161 (3.8) | 0.64 (0.50, 0.82) |  |
 | CV Death | 65 (1.4) | 80 (1.7) | 0.81 (0.58, 1.12) |  |
 | Renal Death | 2 (<0.1) | 6 (0.1) |  |  |
 | ≥50% sustained eGFR decline, ESKD or renal death | 142 (3.3) | 243 (5.8) | 0.56 (0.45, 0.68) | <0.0001 |
@@ -444,9 +444,11 @@ Table 16: Treatment Effect for the Primary Composite Endpoint, its Components, a
 | Hospitalization for Heart Failure | 37 (0.8) | 71 (1.6) | 0.51 (0.34, 0.76) |  |
 | All-Cause Mortality | 101 (2.2) | 146 (3.1) | 0.69 (0.53, 0.88) | 0.0035 |
 | N=Number of patients, CI=Confidence interval, CV=Cardiovascular, ESKD=End stage kidney disease. |  |  |  |  |
-| NOTE: Time to first event was analyzed in a Cox proportional hazards model. Event rates are presented as the number of subjects with event per 100 patient years of follow-up.There were too few events of renal death to compute a reliable hazard ratio. |  |  |  |  |
 
-Figure 6: Time to First Occurrence of the Primary Composite Endpoint, ≥50% Sustained Decline in eGFR, ESKD, CV or Renal Death (DAPA-CKD Study)
+NOTE: Time to first event was analyzed in a Cox proportional hazards model.
+Event rates are presented as the number of subjects with event per 100 patient years of follow-up.There were too few events of renal death to compute a reliable hazard ratio.
+
+Figure 6: Time to First Occurrence of the Primary Composite Endpoint, ≥50% Sustained Decline in eGFR, ESKD, CV or Renal Death (DAPA-CKD Trial)
 
 Patients at risk is the number of subjects at risk at the beginning of the period.
 1 month corresponds to 30 days.
@@ -460,7 +462,7 @@ The results of the primary composite endpoint were consistent across the subgrou
 DAPA-CKD enrolled a population with relatively advanced CKD at high risk of progression.
 Exploratory analyses of a randomized, double-blind, placebo-controlled trial conducted to determine the effect of FARXIGA on CV outcomes (the DECLARE trial) support the conclusion that FARXIGA is also likely to be effective in patients with less advanced CKD.
 
-## 14.5 Heart Failure
+## 14.5 Heart Failure in Adults
 
 The efficacy and safety of FARXIGA 10 mg were assessed independently in two Phase 3 trials in adult patients with heart failure.
 
@@ -477,23 +479,19 @@ In DELIVER, at baseline, 77% of patients were treated with ACEi, ARB or ARNI, 83
 
 In both trials, FARXIGA reduced the incidence of the primary composite endpoint of CV death, hospitalization for heart failure or urgent heart failure visit (see Table 17).
 
-Table 17: Treatment Effect for the Primary Composite EndpointFull analysis set., its Components in the DAPA-HF and DELIVER Trials
+Table 16: Treatment Effect for the Primary Composite Endpoint* and its Components* in the DAPA-HF and DELIVER Trials
 
 |  | DAPA-HF Trial |  |  |  | DELIVER Trial |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Patients with events (event rate) |  | Hazard ratio (95% CI) | p-valueTwo-sided p-values. | Patients with events (event rate) |  | Hazard ratio (95% CI) | p-value |  |
-| Efficacy Variable(Time to first occurrence) | FARXIGA 10 mg N=2373 | Placebo N=2371 | FARXIGA 10 mg N=3131 | Placebo N=3132 |  |  |  |  |
-| Composite of Hospitalization for Heart Failure, CV DeathIn DAPA-HF, the CV death component of the primary endpoint included death of undetermined cause. In DELIVER, the CV death component of the primary endpoint excluded death of undetermined cause. or Urgent Heart Failure Visit | 386 (11.6) | 502 (15.6) | 0.74 (0.65, 0.85) | <0.0001 | 512 (7.8) | 610 (9.6) | 0.82 (0.73, 0.92) | 0.0008 |
+| Patients with events (event rate) |  | Hazard ratio (95% CI) | p-value† | Patients with events (event rate) |  | Hazard ratio (95% CI) | p-value† |  |
+| Efficacy Variable(Time to first occurrence) | FARXIGA 10 mg N=2373 |  | Placebo N=2371 | FARXIGA 10 mg N=3131 |  | Placebo N=3132 |  |  |
+| Composite of Hospitalization for Heart Failure, CV Death‡ or Urgent Heart Failure Visit | 386 (11.6) | 502 (15.6) | 0.74 (0.65, 0.85) | <0.0001 | 512 (7.8) | 610 (9.6) | 0.82 (0.73, 0.92) | 0.0008 |
 | Components of the composite endpoints |  |  |  |  |  |  |  |  |
-| CV Death | 227 (6.5) | 273 (7.9) | 0.82 (0.69, 0.98) |  | 231 (3.3) | 261 (3.8) | 0.88 (0.74, 1.05) |  |
+| CV Death‡ | 227 (6.5) | 273 (7.9) | 0.82 (0.69, 0.98) |  | 231 (3.3) | 261 (3.8) | 0.88 (0.74, 1.05) |  |
 | Hospitalization for Heart Failure or Urgent Heart Failure Visit | 237 (7.1) | 326 (10.1) | 0.70 (0.59, 0.83) |  | 368 (5.6) | 455 (7.2) | 0.79 (0.69, 0.91) |  |
 | Hospitalization for Heart Failure | 231 (6.9) | 318 (9.8) | 0.70 (0.59, 0.83) |  | 329 (5.0) | 418 (6.5) | 0.77 (0.67, 0.89) |  |
 | Urgent Heart Failure Visit | 10 (0.3) | 23 (0.7) | 0.43 (0.20, 0.90) |  | 60 (0.9) | 78 (1.1) | 0.76 (0.55, 1.07) |  |
 | N=Number of patients, CI=Confidence interval, CV=Cardiovascular. |  |  |  |  |  |  |  |  |
-
-NOTE: Time to first event was analyzed in a Cox proportional hazards model.
-The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint.
-Event rates are presented as the number of subjects with event per 100 patient years of follow-up.
 
 In both trials, all three components of the primary composite endpoint individually contributed to the treatment effect.
 In both trials, the FARXIGA and placebo event curves separated early and continued to diverge over the trial period (see Figures 7 and 9).
@@ -536,9 +534,9 @@ B) DELIVER Trial
 
 HR=Hazard ratio, CI=Confidence interval.
 
-In DAPA-HF, FARXIGA reduced the total number of hospitalizations for heart failure (first and recurrent) events and CV death, with 567 and 742 total events in the FARXIGA-treated vs placebo group (Rate Ratio 0.75 [95% CI 0.65, 0.88]; p=0.0002).
+In DAPA-HF, FARXIGA reduced the total number of hospitalizations for heart failure (first and recurrent) events and CV death, with 567 and 742 total events in the FARXIGA-treated vs placebo group [Rate Ratio 0.75 (95% CI 0.65, 0.88); p=0.0002].
 
-In DELIVER, FARXIGA reduced the total number of heart failure events (first and recurrent hospitalization for heart failure or urgent heart failure visit) and CV death, with 815 and 1057 total events in the FARXIGA treated vs placebo group (Rate Ratio 0.77 [95% CI 0.67, 0.89]; p=0.0003).
+In DELIVER, FARXIGA reduced the total number of heart failure events (first and recurrent hospitalization for heart failure or urgent heart failure visit) and CV death, with 815 and 1057 total events in the FARXIGA treated vs placebo group [Rate Ratio 0.77 (95% CI 0.67, 0.89); p=0.0003].
 
 In both trials, the results of the primary composite endpoint were consistent across the subgroups examined (see Figure 10).
 
@@ -578,7 +576,7 @@ The treatment effect of FARXIGA on the composite endpoint of cardiovascular deat
 Figure 11: Treatment Effects for Primary Composite Endpoint (Cardiovascular Death and Heart Failure Events) by LVEF (DAPA-HF and DELIVER Trials)
 
 * 1 patient in DAPA-HF trial had LVEF >40.
-4 patients in DELIVER trial had LVEF≤40.
+4 patients in DELIVER trial had LVEF ≤40.
 
 In DAPA-HF trial, the 5% and 95% percentiles of LVEF were 20 and 40 respectively.
 In DELIVER trial, the 5% and 95% percentiles of LVEF were 42 and 70, respectively.

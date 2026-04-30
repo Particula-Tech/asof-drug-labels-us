@@ -16,7 +16,7 @@ This may influence several physiological functions including, but not restricted
 Increases in the amount of glucose excreted in the urine were observed in healthy subjects and in patients with type 2 diabetes mellitus following the administration of dapagliflozin (see Figure 1).
 Dapagliflozin doses of 5 or 10 mg per day in patients with type 2 diabetes mellitus for 12 weeks resulted in excretion of approximately 70 grams of glucose in the urine per day at Week 12.
 A near maximum glucose excretion was observed at the dapagliflozin daily dosage of 20 mg.
-This urinary glucose excretion with dapagliflozin also results in increases in urinary volume [see Adverse Reactions (6.1)].
+This urinary glucose excretion with dapagliflozin also results in increases in urinary volume [seeAdverse Reactions (6.1)].
 After discontinuation of dapagliflozin, on average, the elevation in urinary glucose excretion approaches baseline by about 3 days for the 10 mg dosage.
 
 Figure 1: Scatter Plot and Fitted Line of Change from Baseline in 24-Hour Urinary Glucose Amount versus Dapagliflozin Dose in Healthy Subjects and Subjects with Type 2 Diabetes Mellitus (T2DM) (Semi-Log Plot)
@@ -78,7 +78,7 @@ The impact of hemodialysis on dapagliflozin exposure is not known [see Warnings 
 
 In adult subjects with mild and moderate hepatic impairment (Child-Pugh classes A and B), mean Cmax and AUC of dapagliflozin were up to 12% and 36% higher, respectively, as compared to healthy matched control subjects following single-dose administration of 10 mg dapagliflozin.
 These differences were not considered to be clinically meaningful.
-In adult patients with severe hepatic impairment (Child-Pugh class C), mean Cmax and AUC of dapagliflozin were up to 40% and 67% higher, respectively, as compared to healthy matched controls [see Use in Specific Populations (8.7)].
+In adult patients with severe hepatic impairment (Child-Pugh class C), mean Cmax and AUC of dapagliflozin were up to 40% and 67% higher, respectively, as compared to healthy matched controls [seeUse in Specific Populations (8.7)].
 
 ### Drug Interactions
 
@@ -96,7 +96,7 @@ No dose adjustments are recommended for dapagliflozin.
 
 Table 5: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
 
-| Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Effect on Dapagliflozin Exposure (% Change [90% CI]) |  |
+| Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Effect on Dapagliflozin Exposure [% Change (90% CI)] |  |
 | --- | --- | --- | --- |
 | Cmax | AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. |  |  |
 | No dosing adjustments required for the following: |  |  |  |

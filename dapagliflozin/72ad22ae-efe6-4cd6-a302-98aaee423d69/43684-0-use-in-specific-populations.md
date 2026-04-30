@@ -7,7 +7,7 @@
 Based on animal data showing adverse renal effects, FARXIGA is not recommended during the second and third trimesters of pregnancy.
 
 Limited data with FARXIGA in pregnant women are not sufficient to determine drug-associated risk for major birth defects or miscarriage.
-There are risks to the mother and fetus associated with poorly controlled diabetes and untreated heart failure in pregnancy (see Clinical Considerations).
+There are risks to the mother and fetus associated with poorly controlled diabetes and untreated heart failure in pregnancy (see).
 
 In animal studies, adverse renal pelvic and tubule dilatations, that were not fully reversible, were observed in rats when dapagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy, at all doses tested; the lowest of which provided an exposure 15-times the 10 mg clinical dose (see Data).
 
@@ -65,9 +65,9 @@ The safety profile observed in the placebo-controlled trial in pediatric patient
 
 The safety and effectiveness of FARXIGA for glycemic control in type 2 diabetes mellitus have not been established in pediatric patients less than 10 years of age.
 
-The safety and effectiveness of FARXIGA have not been established in pediatric patients to reduce the risk of [see Indications and Usage (1)].
+The safety and effectiveness of FARXIGA have not been established in pediatric patients to reduce the risk of [see Indications and Usage (1)]:
 
-- •sustained eGFR decline, end stage kidney disease, cardiovascular death, and hospitalization for heart failure in patients with chronic kidney disease at risk of progression.
+- •sustained eGFR decline, end-stage kidney disease, cardiovascular death, and hospitalization for heart failure in patients with chronic kidney disease at risk of progression.
 - •cardiovascular death, hospitalization for heart failure, and urgent heart failure visit in patients with heart failure.
 - •hospitalization for heart failure in patients with type 2 diabetes mellitus and either established cardiovascular disease or multiple cardiovascular risk factors.
 
@@ -90,10 +90,10 @@ FARXIGA was evaluated in 4304 adult patients with chronic kidney disease (eGFR 2
 FARXIGA was also evaluated in 1926 adult patients with an eGFR of 30 to 60 mL/min/1.73 m2 in the DAPA-HF trial.
 The safety profile of FARXIGA across eGFR subgroups in these studies was consistent with the known safety profile [see Adverse Reactions (6.1) and Clinical Studies (14.4, 14.5)].
 
-FARXIGA was evaluated in two glycemic control adult trials that included patients with type 2 diabetes mellitus with moderate renal impairment (an eGFR of 45 to less than 60 mL/min/1.73 m2[see Clinical Studies (14.1)], and an eGFR of 30 to less than 60 mL/min/1.73 m2, respectively).
+FARXIGA was evaluated in two glycemic control adult trials that included patients with type 2 diabetes mellitus with moderate renal impairment (an eGFR of 45 to less than 60 mL/min/1.73 m2 [see Clinical Studies (14.1)], and an eGFR of 30 to less than 60 mL/min/1.73 m2, respectively).
 Patients with diabetes and renal impairment using FARXIGA may be more likely to experience hypotension and may be at higher risk for acute kidney injury secondary to volume depletion.
 In the trial of adult patients with an eGFR 30 to less than 60 mL/min/1.73 m2, 13 patients receiving FARXIGA experienced bone fractures compared to none receiving placebo.
-Use of FARXIGA for glycemic control in patients without established CV disease or CV risk factors is not recommended when eGFR is less than 45 mL/min/1.73 m2[see Dosage and Administration (2.1)].
+Use of FARXIGA for glycemic control in patients without established CV disease or CV risk factors is not recommended when eGFR is less than 45 mL/min/1.73 m2 [see Dosage and Administration (2.1)].
 
 Efficacy and safety trials with FARXIGA did not enroll patients with an eGFR less than 25 mL/min/1.73 m2 or on dialysis.
 Once enrolled in the DAPA-CKD and DELIVER trials, adult patients were not required to discontinue therapy if eGFR fell below 25 mL/min/1.73 m2 or if dialysis was initiated.

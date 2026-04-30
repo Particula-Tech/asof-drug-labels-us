@@ -18,7 +18,7 @@ The overall safety profile of FARXIGA was consistent across the studied indicati
 No new adverse reactions were identified in the DAPA-HF and DELIVER heart failure trials, or in the DAPA-CKD trial in patients with chronic kidney disease.
 Severe hypoglycemia and diabetic ketoacidosis (DKA) were observed only in patients with diabetes mellitus.
 
-ClinicalTrials for Glycemic Control in Adult Patients with Type 2 Diabetes Mellitus
+Clinical Trials for Glycemic Control in Adult Patients with Type 2 Diabetes Mellitus
 
 Pool of 12 Placebo-Controlled Adult Trials for FARXIGA 5 and 10 mg for Glycemic Control
 
@@ -37,10 +37,10 @@ These adverse reactions were not present at baseline, occurred more commonly on 
 
 Table 1: Adverse Reactions in Placebo-Controlled Trials of Glycemic Control Reported in ≥2% of Adults Treated with FARXIGA
 
-|  | Placebo N=1393 | FARXIGA 5 mg N=1145 | FARXIGA 10 mg N=1193 |
-| --- | --- | --- | --- |
 | Adverse Reaction | % of Patients |  |  |
+| --- | --- | --- | --- |
 |  | Pool of 12 Placebo-Controlled Trials |  |  |
+|  | Placebo N=1393 | FARXIGA 5 mg N=1145 | FARXIGA 10 mg N=1193 |
 | Female genital mycotic infectionsGenital mycotic infections include the following adverse reactions, listed in order of frequency reported for females: vulvovaginal mycotic infection, vaginal infection, vulvovaginal candidiasis, vulvovaginitis, genital infection, genital candidiasis, fungal genital infection, vulvitis, genitourinary tract infection, vulval abscess, and vaginitis bacterial. (N for females: Placebo=677, FARXIGA 5 mg=581, FARXIGA 10 mg=598). | 1.5 | 8.4 | 6.9 |
 | Nasopharyngitis | 6.2 | 6.6 | 6.3 |
 | Urinary tract infectionsUrinary tract infections include the following adverse reactions, listed in order of frequency reported: urinary tract infection, cystitis, Escherichia urinary tract infection, genitourinary tract infection, pyelonephritis, trigonitis, urethritis, kidney infection, and prostatitis. | 3.7 | 5.7 | 4.3 |
