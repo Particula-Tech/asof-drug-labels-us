@@ -69,7 +69,7 @@ KEYTRUDA QLEX, in combination with fluoropyrimidine- and platinum-containing che
 
 KEYTRUDA QLEX is indicated for the treatment of adult patients with locally advanced or metastatic esophageal or gastroesophageal junction (GEJ) (tumors with epicenter 1 to 5 centimeters above the GEJ) carcinoma that is not amenable to surgical resection or definitive chemoradiation either:
 
-- in combination with platinum- and fluoropyrimidine-based chemotherapy for patients with tumors that express PD-L1 (CPS ≥ 1) [see Dosage and Administration (2.1)], or
+- in combination with platinum- and fluoropyrimidine-based chemotherapy for patients with tumors that express PD-L1 (CPS ≥ 1) as determined by an FDA-authorized test [see Dosage and Administration (2.1)], or
 - as a single agent after one or more prior lines of systemic therapy for patients with tumors of squamous cell histology that express PD-L1 (CPS ≥10) as determined by an FDA-authorized test [see Dosage and Administration (2.1)].
 
 ## 1.10 Cervical Cancer

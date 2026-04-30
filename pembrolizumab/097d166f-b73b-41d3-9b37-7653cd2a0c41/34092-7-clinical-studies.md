@@ -1152,7 +1152,6 @@ Table 81: Efficacy Results in Patients with MSI-H or dMMR CRC in KEYNOTE-177
 First-line Treatment of Locally Advanced Unresectable or Metastatic HER2-Positive Gastric or Gastroesophageal Junction Adenocarcinoma for Tumors Expressing PD-L1 (CPS ≥1)
 
 The efficacy of intravenous pembrolizumab in combination with trastuzumab plus fluoropyrimidine and platinum chemotherapy was investigated in KEYNOTE-811 (NCT03615326), a multicenter, randomized, double-blind, placebo-controlled trial that enrolled 698 patients with HER2-positive advanced gastric or gastroesophageal junction (GEJ) adenocarcinoma who had not previously received systemic therapy for metastatic disease.
-PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay.
 Patients with an autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
 Randomization was stratified by PD-L1 expression (CPS ≥1 or CPS <1), chemotherapy regimen (5-FU plus cisplatin [FP] or capecitabine plus oxaliplatin [CAPOX]), and geographic region (Europe/Israel/North America/Australia, Asia, or Rest of the World).
 Patients were randomized (1:1) to one of the following treatment arms:
@@ -1214,6 +1213,7 @@ The major efficacy outcome measure was OS.
 Additional secondary efficacy outcome measures included PFS, ORR, and DoR as assessed by BICR using RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
 
 Among 1,579 patients, 1,235 (78%) had tumors expressing PD-L1 CPS ≥ 1.
+PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay.
 The population characteristics in patients with PD-L1 CPS ≥ 1 expressing tumors were: median age of 62 years (range: 24 to 86), 40% age 65 or older; 70% male and 30% female; 55% White, 33% Asian, 4.6% Multiple, 4.3% American Indian or Alaskan Native, 1.3% Black, and 0.2% Native Hawaiian or other Pacific Islander; 76% Not Hispanic or Latino and 21% Hispanic or Latino; 37% ECOG PS of 0 and 63% ECOG PS of 1.
 Ninety-six percent of patients had metastatic disease (Stage IV) and 3% had locally advanced unresectable disease.
 Five percent (n=66) had tumors that were MSI-H.
@@ -1436,6 +1436,7 @@ The main efficacy outcome measures were OS and PFS as assessed by investigator a
 Additional efficacy outcome measures were ORR and DoR, according to RECIST v1.1, as assessed by investigator.
 
 Of the 617 enrolled patients, 548 patients (89%) had tumors expressing PD-L1 with a CPS ≥1.
+PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx assay.
 Among these 548 enrolled patients with tumors expressing PD-L1, 273 patients were randomized to intravenous pembrolizumab in combination with chemotherapy with or without bevacizumab, and 275 patients were randomized to placebo in combination with chemotherapy with or without bevacizumab.
 Sixty-three percent of the 548 patients received bevacizumab as part of study treatment.
 The baseline characteristics of the 548 patients were: median age of 51 years (range: 22 to 82), 16% age 65 or older; 59% White, 18% Asian, 6% American Indian or Alaska Native, and 1% Black; 37% Hispanic or Latino; 56% ECOG performance status 0 and 43% ECOG performance status 1.
