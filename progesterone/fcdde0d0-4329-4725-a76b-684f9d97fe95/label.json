@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA022057"
+  ],
+  "inn": "progesterone",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "70095-136-01",
+    "70095-136-02",
+    "70095-136-03"
+  ],
+  "products": [
+    {
+      "form": "INSERT",
+      "generic": "progesterone",
+      "name": "PROGESTERONE"
+    }
+  ],
+  "setid": "fcdde0d0-4329-4725-a76b-684f9d97fe95",
+  "source": "dailymed"
+}
