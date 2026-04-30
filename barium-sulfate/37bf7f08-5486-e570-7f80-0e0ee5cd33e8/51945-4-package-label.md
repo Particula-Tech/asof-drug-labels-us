@@ -1,7 +1,7 @@
-250 mL Varibar Thin Honey External Label
+Varibar Thin Honey 250 mL External Label
 
-250 mL Varibar Thin Honey Unit Label
+Varibar Thin Honey 250 mL Internal Label
 
-30 mL Varibar Thin Honey Tube Label
+Varibar Thin Honey 30 mL Tube
 
-30 mL Varibar Thin Honey External Label
+Varibar Thin Honey 30 mL External Label
