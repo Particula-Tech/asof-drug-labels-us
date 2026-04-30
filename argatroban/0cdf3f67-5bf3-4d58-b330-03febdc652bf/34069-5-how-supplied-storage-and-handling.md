@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Argatroban Injection is available in packages as follows:
+Argatroban Injection is available as follows:
 
 NDC Strength Packaged
 
