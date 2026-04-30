@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA210565"
+  ],
+  "inn": "loteprednol",
+  "labeler": "Alcon Laboratories, Inc.",
+  "package_ndcs": [
+    "0065-9307-04",
+    "0065-9307-05"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "loteprednol etabonate",
+      "name": "Inveltys"
+    }
+  ],
+  "setid": "bdd18e84-79b3-4c8b-a07f-eb06cf52e68c",
+  "source": "dailymed"
+}
