@@ -56,7 +56,7 @@ Renal Impairment
 Dosing must be individualized according to the patient’s renal function status.
 For patients with mild renal impairment (creatinine clearance ≥ 50 mL/min to < 80 mL/min), the recommended initial dose of paliperidone extended-release tablets is 3 mg once daily.
 The dose may then be increased to a maximum of 6 mg once daily based on clinical response and tolerability.
-For patients with moderate to severe renal impairment (creatinine clearance ≥ 10 mL/min to < 50 mL/min), the recommended initial dose of paliperidone extended-release tablets is 1.5 mg once daily, which may be increased to a maximum of 3 mg once daily after clinical reassessment.
+For patients with moderate to severe renal impairment (creatinine clearance ≥ 10 mL/min to < 50 mL/min), the recommended initial dose of paliperidone extended-release tablets is 3 mg every other day, which may be increased to a maximum of 3 mg once daily after clinical reassessment.
 As paliperidone extended-release tablets have not been studied in patients with creatinine clearance below 10 mL/min, use is not recommended in such patients.
 [See Clinical Pharmacology (12.3)]
 
@@ -69,4 +69,4 @@ Elderly
 
 Because elderly patients may have diminished renal function, dose adjustments may be required according to their renal function status.
 In general, recommended dosing for elderly patients with normal renal function is the same as for younger adult patients with normal renal function.
-For patients with moderate to severe renal impairment (creatinine clearance 10 mL/min to < 50 mL/min), the maximum recommended dose of paliperidone extended-release tablets are 3 mg once daily [see Renal Impairment above].
+For patients with moderate to severe renal impairment (creatinine clearance 10 mL/min to < 50 mL/min), the maximum recommended dose of paliperidone extended-release tablets is 3 mg once daily [see Renal Impairment above].
