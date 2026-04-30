@@ -14,9 +14,9 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Distributed by: SpecGx LLC Webster Groves, MO 63119 USA
 
-Mallinckrodt™
+Par Health™
 
-960B10 Rev 08/2017
+960B10 Rev 01/2026
 
 # PRINCIPAL DISPLAY PANEL - 30 mg
 
@@ -34,6 +34,6 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Distributed by: SpecGx LLC Webster Groves, MO 63119 USA
 
-Mallinckrodt™
+Par Health™
 
-961B10 Rev 08/2017
+961B10 Rev 01/2026

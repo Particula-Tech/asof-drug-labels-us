@@ -82,18 +82,14 @@ Instruct breastfeeding women to seek immediate medical care if they notice these
 Infertility Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
-Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
-
-© 2025 Mallinckrodt.
+© 2026 Par Health, Inc. or one of its affiliates.
 
 Distributed by: SpecGx LLC Webster Groves, MO 63119 USA
 
-To request medical information or to report suspected adverse reactions, contact Mallinckrodt at 1-800-778-7898.
+To request medical information or to report suspected adverse reactions, contact Par Health at 1-800-778-7898.
 
 960B00
 
-Rev 12/2025
+Rev 01/2026
 
-Mallinckrodt™ Pharmaceutical
-
-An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/960B00P.pdf or by calling 1-800-778-7898 for alternate delivery options.
+Par Health™
