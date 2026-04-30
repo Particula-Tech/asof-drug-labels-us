@@ -97,7 +97,7 @@ Safety and effectiveness of DUPIXENT have not been established in pediatric pati
 
 CRSwNP
 
-The safety and effectiveness of DUPIXENT for add-on maintenance treatment in patients with inadequately controlled chronic rhinosinusitis with nasal polyps (CRSwNP) have been established in pediatric patients aged 12 years and older.
+The safety and effectiveness of DUPIXENT for add-on maintenance treatment in patients with inadequately controlled CRSwNP have been established in pediatric patients aged 12 years and older.
 Use of DUPIXENT for this indication is supported by evidence from adequate and well-controlled studies of DUPIXENT as add-on maintenance treatment in adults with inadequately controlled CRSwNP (SINUS-24 and SINUS-52) with the following additional data:
 
 - Pharmacokinetic (PK) data from adult and pediatric patients aged 12 years and older with moderate-to-severe asthma and adult patients with inadequately controlled CRSwNP
@@ -124,24 +124,26 @@ COPD is largely a disease of adult patients.
 
 Chronic Spontaneous Urticaria
 
-The safety and effectiveness of DUPIXENT for the treatment of CSU in patients who remain symptomatic despite H1 antihistamine treatment have been established in pediatric patients 12 years of age and older.
-The use of DUPIXENT in this indication is supported by evidence from two adequate and well-controlled studies in adults with additional pharmacokinetic data in 6 pediatric patients 12 years of age and older, and safety data in pediatric patients in other indications [see Dosage and Administration (2.9), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
+The safety and effectiveness of DUPIXENT for the treatment of CSU in patients who remain symptomatic despite H1 antihistamine treatment have been established in pediatric patients 2 years of age and older.
+Use of DUPIXENT in this indication is supported by evidence from two adequate and well-controlled studies in adults and pediatric patients aged 12 years and older [see Clinical Studies (14.7)] with the following additional data:
 
-Safety and effectiveness of DUPIXENT have not been established in pediatric patients younger than 12 years of age, and/or weighing less than 30 kg, with CSU.
+- Pharmacokinetic (PK) data in 6 pediatric patients 12 to 17 years of age, PK data in 18 pediatric patients 2 to 11 years of age, and safety data in pediatric patients in other indications [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)]
+
+Safety and effectiveness of DUPIXENT have not been established in pediatric patients younger than 2 years of age, and/or weighing less than 5 kg, with CSU.
 
 Bullous Pemphigoid
 
 The safety and effectiveness of DUPIXENT have not been established in pediatric patients with BP.
 BP is largely a disease of adult patients.
 
-Allergic Fungal Rhinosinusitis (AFRS)
+Allergic Fungal Rhinosinusitis
 
 The safety and effectiveness of DUPIXENT for the treatment of AFRS in patients who have a history of sino-nasal surgery have been established in pediatric patients 6 years of age and older.
 Use of DUPIXENT in this indication is supported by evidence from an adequate and well-controlled study (AIMS) in adults and pediatric patients aged 12 years and older [see Clinical Studies (14.9)], with the following additional data:
 
 - Pharmacokinetic (PK) data in 3 pediatric patients 12 years of age and older with AFRS [see Clinical Pharmacology (12.3)]
 - PK and safety data in pediatric patients 6 years to 11 years of age in other indications.
-  [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+  [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)]
 
 Safety and effectiveness in pediatric patients younger than 6 years of age with AFRS have not been established.
 

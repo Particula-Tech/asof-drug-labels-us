@@ -17,9 +17,9 @@ Advise patients to discontinue DUPIXENT and to seek immediate medical attention 
 
 Advise patients to report signs and symptoms of AGEP to their healthcare provider [see Warnings and Precautions (5.1)].
 
-Conjunctivitis and Keratitis
+Conjunctivitis, Keratitis, and Blepharitis
 
-Advise patients to consult their healthcare provider if new onset or worsening eye symptoms develop [see Warnings and Precautions (5.2)].
+Advise patients to promptly consult their healthcare provider if new onset or worsening eye symptoms develop [see Warnings and Precautions (5.2)].
 
 Eosinophilic Conditions
 

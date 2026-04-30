@@ -64,12 +64,14 @@ Keep out of reach of children.
 Do not use after expiration.
 Do not use if seal is broken or damaged.
 
-Store refrigerated at 36° to 46°F (2° to 8°C) in the original carton.
+Store refrigerated at 36°F to 46°F (2°C to 8°C) in the original carton.
 Do NOT freeze.
 Do NOT heat.
-Dosage and Administration: See package insert for dosage information and directions for use.
+Recommended dosage: See Prescribing Information.
 
 300 mg/2 mL Per Pre-filled Pen
+
+New Pen Design
 
 sanofi | REGENERON
 
@@ -89,12 +91,14 @@ Keep out of reach of children.
 Do not use after expiration.
 Do not use if seal is broken or damaged.
 
-Store refrigerated at 36° to 46°F (2° to 8°C) in the original carton.
+Store refrigerated at 36°F to 46°F (2°C to 8°C) in the original carton.
 Do not freeze.
 Do not heat.
-Dosage and Administration: See package insert for dosage information and directions for use.
+Recommended dosage: See Prescribing Information.
 
 200 mg/1.14 mL Per Pre-filled Pen
+
+New Pen Design
 
 sanofi | REGENERON
 

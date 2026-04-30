@@ -35,7 +35,7 @@ DUPIXENT is not indicated for the relief of acute bronchospasm.
 
 ## 1.7 Chronic Spontaneous Urticaria
 
-DUPIXENT is indicated for the treatment of adult and pediatric patients aged 12 years and older with chronic spontaneous urticaria (CSU) who remain symptomatic despite H1 antihistamine treatment.
+DUPIXENT is indicated for the treatment of adult and pediatric patients aged 2 years and older with chronic spontaneous urticaria (CSU) who remain symptomatic despite H1 antihistamine treatment.
 
 Limitations of Use:
 

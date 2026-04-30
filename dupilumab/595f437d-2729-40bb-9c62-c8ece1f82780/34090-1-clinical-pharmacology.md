@@ -121,6 +121,9 @@ Chronic Spontaneous Urticaria
 A total of 12 pediatric subjects 12 to 17 years of age with CSU were enrolled in CUPID (Study A, B, and C), including 6 subjects who received DUPIXENT 200 mg Q2W (≥30 to <60 kg) and 300 mg Q2W (≥60 kg).
 At week 24, the mean ± SD observed steady-state trough concentration was 53.6 ± 19.4 mcg/mL, which was within the range of steady-state trough concentrations in adult subjects with CSU who received DUPIXENT 300 mg Q2W.
 
+A total of 20 pediatric subjects 2 to 11 years of age with CSU were enrolled in clinical trials and pharmacokinetic Study PKM16982, including 18 subjects who received DUPIXENT 200 mg Q4W (≥5 to <15 kg), 300 mg Q4W (≥15 to <30 kg), or 200 mg Q2W (≥30 to <60 kg).
+At week 24, the mean ± SD steady-state trough concentration was 91.1 ± 39.4 mcg/mL.
+
 Allergic Fungal Rhinosinusitis
 
 A total of 6 pediatric subjects 6 to 17 years of age with AFRS were enrolled in AIMS, including 3 subjects who received DUPIXENT 200 mg Q2W (≥30 to <60 kg) and 300 mg Q2W (≥60 kg).
@@ -142,9 +145,9 @@ The largest effect was observed for metoprolol (CYP2D6) with an increase in AUC 
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the trials described below with the incidence of anti-drug antibodies in other trials, including those of DUPIXENT or of other dupilumab products.
 
-The anti-drug antibody (ADA) and neutralizing antibody (NAb) incidence rates in subjects treated with DUPIXENT are presented in Table 16.
+The anti-drug antibody (ADA) and neutralizing antibody (NAb) incidence rates in subjects treated with DUPIXENT are presented in Table 17.
 
-Table 16: Anti-drug Antibody and Neutralizing Antibody Incidence in Subjects Treated with DUPIXENT
+Table 17: Anti-drug Antibody and Neutralizing Antibody Incidence in Subjects Treated with DUPIXENT
 
 | Positive ADAPositive ADA: Includes subjects with a treatment-emergent response, defined as a negative or missing result at baseline with at least 1 positive post-baseline result in the ADA assay, and subjects with a treatment-boosted response, defined as a post-baseline ADA-positive result that is ≥ 4-fold higher than baseline titer levels, when baseline results are positive | Persistent ADAPersistent ADA: A treatment-emergent ADA positive response with 2 or more consecutive ADA positive samples separated by a greater than 12-week period (>84 days), with no ADA negative result in between. |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -169,6 +172,7 @@ Table 16: Anti-drug Antibody and Neutralizing Antibody Incidence in Subjects Tre
 | Adult | 300 mg Q2W for 52 weeks | 78/923 (8%) | 24/922 (3%) | 28/78 (36%) |
 | Chronic Spontaneous Urticaria |  |  |  |  |
 | Adult and 12 years of age or older | 200 mg Q2W or 300 mg Q2W through 24 weeks | 9/193 (5%) | 1/193 (1%) | 2/9 (22%) |
+| 2 to 11 years of age | 200 mg Q4W or 300 mg Q4W or 200 mg Q2W for 24 weeks | 0/15 (0%) | 0/15 (0%) | 0/0 (0%) |
 | Bullous Pemphigoid |  |  |  |  |
 | Adult | 300 mg Q2W up to 52 weeks | 2/52 (4%) | 0/52 (0%) | 2/2 (100%) |
 | Allergic Fungal Rhinosinusitis |  |  |  |  |

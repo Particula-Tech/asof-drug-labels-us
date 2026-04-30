@@ -47,16 +47,16 @@ The recommended dosage of DUPIXENT for pediatric patients 6 months to 5 years of
 
 Table 1: Dosage of DUPIXENT in Pediatric Patients 6 Months to 5 Years of Age with Atopic Dermatitis
 
-| Body Weight | InitialFor pediatric patients 6 months to 5 years of age with AD, no initial loading dose is recommended. and Subsequent Dosage |
+| Body Weight | Recommended DosageFor pediatric patients 6 months to 5 years of age with AD, no initial loading dose is recommended. |
 | --- | --- |
 | 5 to less than 15 kg | 200 mg (one 200 mg injection) every 4 weeks (Q4W) |
 | 15 to less than 30 kg | 300 mg (one 300 mg injection) every 4 weeks (Q4W) |
 
-Dosage in Pediatric Patients 6 Years of Age and Older
+Dosage in Pediatric Patients 6 Years to 17 Years of Age
 
-The recommended dosage of DUPIXENT for pediatric patients 6 years of age and older is specified in Table 2.
+The recommended dosage of DUPIXENT for pediatric patients 6 years to 17 years of age is specified in Table 2.
 
-Table 2: Dosage of DUPIXENT in Pediatric Patients 6 Years of Age and Older with Atopic Dermatitis
+Table 2: Dosage of DUPIXENT in Pediatric Patients 6 Years to 17 Years of Age with Atopic Dermatitis
 
 | Body Weight | Initial Loading Dose | Subsequent Dosage |
 | --- | --- | --- |
@@ -82,21 +82,21 @@ Table 3: Dosage of DUPIXENT in Adult and Pediatric Patients 12 Years and Older w
 | 400 mg (two 200 mg injections) | 200 mg every 2 weeks (Q2W) |
 | Or |  |
 | 600 mg (two 300 mg injections) | 300 mg every 2 weeks (Q2W) |
-| Dosage for patients with oral corticosteroid-dependent asthma or with co-morbid moderate-to-severe AD, CRSwNP, or AFRSFor pediatric patients 12 to 17 years of age (≥60 kg) and adults with AFRS |  |
+| Dosage for patients with oral corticosteroid-dependent asthma or with co-morbid moderate-to-severe AD, CRSwNP, or AFRSFor pediatric patients 12 years to 17 years of age (≥60 kg) and adults with AFRS |  |
 | 600 mg (two 300 mg injections) | 300 mg every 2 weeks (Q2W) |
 
-Dosage in Pediatric Patients 6 to 11 Years of Age
+Dosage in Pediatric Patients 6 Years to 11 Years of Age
 
-The recommended dosage of DUPIXENT for pediatric patients 6 to 11 years of age is specified in Table 4.
+The recommended dosage of DUPIXENT for pediatric patients 6 years to 11 years of age is specified in Table 4.
 
-Table 4: Dosage of DUPIXENT in Pediatric Patients 6 to 11 Years of Age with Asthma
+Table 4: Dosage of DUPIXENT in Pediatric Patients 6 Years to 11 Years of Age with Asthma
 
-| Body Weight | InitialFor pediatric patients 6 to 11 years of age with asthma, no initial loading dose is recommended. and Subsequent Dosage |
+| Body Weight | Recommended DosageFor pediatric patients 6 years to 11 years of age with asthma, no initial loading dose is recommended. |
 | --- | --- |
 | 15 to less than 30 kg | 300 mg every 4 weeks (Q4W) |
-| ≥30 kg | 200 mg every 2 weeks (Q2W) |
+| 30 kg or more | 200 mg every 2 weeks (Q2W) |
 
-For pediatric patients 6 to 11 years of age with asthma and co-morbid moderate-to-severe AD, follow the recommended dosage as per Table 2 which includes an initial loading dose [see Dosage and Administration (2.3)].
+For pediatric patients 6 years to 11 years of age with asthma and co-morbid moderate-to-severe AD, follow the recommended dosage as per Table 2 which includes an initial loading dose [see Dosage and Administration (2.3)].
 
 ## 2.5 Recommended Dosage for Chronic Rhinosinusitis with Nasal Polyps
 
@@ -128,14 +128,26 @@ Dosage in Adults
 
 The recommended dosage of DUPIXENT for adult patients is an initial dose of 600 mg (two 300 mg injections), followed by 300 mg given every 2 weeks (Q2W).
 
-Dosage in Pediatric Patients 12 to 17 Years of Age
+Dosage in Pediatric Patients 2 Years to 5 Years of Age
 
-The recommended dosage of DUPIXENT for pediatric patients 12 to 17 years of age is specified in Table 6.
+The recommended dosage of DUPIXENT for pediatric patients 2 years to 5 years of age is specified in Table 6.
 
-Table 6: Dosage of DUPIXENT in Pediatric Patients 12 to 17 Years of Age with CSU
+Table 6: Dosage of DUPIXENT in Pediatric Patients 2 Years to 5 Years of Age with Chronic Spontaneous Urticaria
+
+| Body Weight | Recommended DosageFor pediatric patients 2 years to 5 years of age with CSU, no initial loading dose is recommended. |
+| --- | --- |
+| 5 to less than 15 kg | 200 mg (one 200 mg injection) every 4 weeks (Q4W) |
+| 15 to less than 30 kg | 300 mg (one 300 mg injection) every 4 weeks (Q4W) |
+
+Dosage in Pediatric Patients 6 Years to 17 Years of Age
+
+The recommended dosage of DUPIXENT for pediatric patients 6 years to 17 years of age is specified in Table 7.
+
+Table 7: Dosage of DUPIXENT in Pediatric Patients 6 Years to 17 Years of Age with Chronic Spontaneous Urticaria
 
 | Body Weight | Initial Loading Dose | Subsequent Dosage |
 | --- | --- | --- |
+| 15 to less than 30 kg | 600 mg (two 300 mg injections) | 300 mg every 4 weeks (Q4W) |
 | 30 to less than 60 kg | 400 mg (two 200 mg injections) | 200 mg every 2 weeks (Q2W) |
 | 60 kg or more | 600 mg (two 300 mg injections) | 300 mg every 2 weeks (Q2W) |
 
@@ -155,11 +167,11 @@ Dosage in Adults
 
 The recommended dosage of DUPIXENT for adult patients is 300 mg given every two weeks (Q2W).
 
-Dosage in Pediatric Patients 6 to 17 Years of Age
+Dosage in Pediatric Patients 6 Years to 17 Years of Age
 
-The recommended dosage of DUPIXENT for pediatric patients 6 to 17 years of age is specified in Table 7.
+The recommended dosage of DUPIXENT for pediatric patients 6 years to 17 years of age is specified in Table 8.
 
-Table 7: Dosage of DUPIXENT in Pediatric Patients 6 to 17 Years of Age with AFRS
+Table 8: Dosage of DUPIXENT in Pediatric Patients 6 Years to 17 Years of Age with Allergic Fungal Rhinosinusitis
 
 | Body Weight | Recommended Dosage |
 | --- | --- |
