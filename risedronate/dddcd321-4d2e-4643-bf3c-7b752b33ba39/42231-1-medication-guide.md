@@ -1,6 +1,4 @@
-Dispense with Medication Guide available at: www.tevausa.com/medguides
-
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 Risedronate Sodium (ris ed' roe nate soe' dee um)
 
@@ -19,7 +17,7 @@ Risedronate sodium tablets can cause serious side effects including:
 2. Low calcium levels in your blood (hypocalcemia)
 3. Severe jaw bone problems (osteonecrosis)
 4. Bone, joint, or muscle pain
-5. Unusual thigh bone fractures
+5. Unusual breaks in thigh and other bones
 
 1.
 Esophagus problems.
@@ -28,7 +26,7 @@ Some people who take risedronate sodium tablets may develop problems in the esop
 These problems include irritation, inflammation, or ulcers of the esophagus which may sometimes bleed.
 
 - It is important that you take risedronate sodium tablets exactly as prescribed to help lower your chance of getting esophagus problems.
-  (See the section "How should I take risedronate sodium tablets?".)
+  (See the section "How should I take risedronate sodium tablets?")
 - Stop taking risedronate sodium tablets and call your doctor right away if you get chest pain, new or worsening heartburn, or have trouble or pain when you swallow.
 
 2.
@@ -60,10 +58,11 @@ Bone, joint, or muscle pain.
 Some people who take risedronate sodium tablets develop severe bone, joint, or muscle pain.
 
 5.
-Unusual thigh bone fractures.
+Unusual breaks in thigh and other bones.
 
-Some people have developed unusual fractures in their thigh bone.
-Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
+Some people have had unusual bone breaks, including the thigh bone, when taking risedronate sodium tablets.
+A break in the thigh bone can feel like a new pain in your hip, groin, or thigh.
+People taking risedronate sodium tablets can also have breaks in other bones.
 
 Call your doctor right away if you have any of these side effects.
 
@@ -215,4 +214,4 @@ Teva Pharmaceuticals
 Parsippany, NJ 07054
 
 Rev.
-E 1/2022
+F 3/2026

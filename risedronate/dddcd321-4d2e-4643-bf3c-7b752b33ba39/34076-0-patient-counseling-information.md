@@ -43,8 +43,6 @@ Patients should be instructed that any time they have a medical problem they thi
 
 Brands listed are trademarks of their respective owners.
 
-Dispense with Medication Guide available at: www.tevausa.com/medguides
-
 Manufactured In Israel By:
 
 Teva Pharmaceutical Ind.
@@ -59,4 +57,4 @@ Teva Pharmaceuticals
 Parsippany, NJ 07054
 
 Rev.
-K 1/2022
+L 3/2026

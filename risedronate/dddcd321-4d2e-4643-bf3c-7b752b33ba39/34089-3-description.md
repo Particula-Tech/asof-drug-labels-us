@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-Risedronate Sodium Tablets, USP are a pyridinyl bisphosphonate that inhibits osteoclast-mediated bone resorption and modulates bone metabolism.
-Each Risedronate Sodium Tablet, USP for oral administration contains the equivalent of 5, 30, or 35 mg of anhydrous risedronate sodium, USP in the form of the monohydrate.
+Risedronate sodium tablets, USP are a pyridinyl bisphosphonate that inhibits osteoclast-mediated bone resorption and modulates bone metabolism.
+Each risedronate sodium tablet, USP for oral administration contains the equivalent of 5, 30, or 35 mg of anhydrous risedronate sodium, USP in the form of the monohydrate.
 The chemical name of risedronate sodium, USP is [1-hydroxy-2-(3-pyridinyl)ethylidene]bis[phosphonic acid] monosodium salt.
 The chemical structure of risedronate sodium monohydrate, USP is the following:
 
