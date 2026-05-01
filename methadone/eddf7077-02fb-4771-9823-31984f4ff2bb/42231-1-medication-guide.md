@@ -1,5 +1,8 @@
-| Medication GuideMethadone Hydrochloride Tablets USP, CII (METH a done HYE droe KLOR ide) Rx only |
+# MEDICATION GUIDE
+
+| An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/L20M28.pdf or by calling 1-800-778-7898 for alternate delivery options. |
 | --- |
+| Medication GuideMethadone Hydrochloride Tablets USP, CII (METH a done HYE droe KLOR ide) Rx only |
 | Methadone hydrochloride tablets are: A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage severe and persistent pain that requires an extended treatment period with a daily opioid pain medicine, when other pain medicines do not treat your pain well enough or you cannot tolerate them. A long-acting opioid pain medicine that can put you at risk for overdose and death. Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse than can lead to death.Not to be taken on an “as needed” basis. Also used to manage drug addiction. |
 | Important information about methadone hydrochloride tablets: Get emergency help or call 911 right away if you take too much methadone hydrochloride tablets (overdose). When you first start taking methadone hydrochloride tablets, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur. Ask your healthcare provider about medicines like naloxone or nalmefene that can be used in an emergency to reverse an opioid overdose.Taking methadone hydrochloride tablets with other opioid medicines, benzodiazepines, gabapentinoids (gabapentin or pregabalin), alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death. Never give anyone else your methadone hydrochloride tablets. They could die from taking it. Selling or giving away methadone hydrochloride tablets is against the law.Store methadone hydrochloride tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home. |
 | Do not take methadone hydrochloride tablets if you have: Severe asthma, trouble breathing, or other lung problems. A bowel blockage or have narrowing of the stomach or intestines. |
@@ -13,6 +16,6 @@
 
 Manufactured by: SpecGx LLC Webster Groves, MO 63119 USA www.mallinckrodt.com
 
-Revised: 07/2025 L20M28
+Revised: 01/2026 L20M28
 
 Mallinckrodt™

@@ -197,9 +197,9 @@ Discontinue methadone hydrochloride tablets if serotonin syndrome is suspected.
 
 The use of methadone hydrochloride tablets in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patientswith Chronic Pulmonary Disease Methadone hydrochloride tablets-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of methadone hydrochloride tablets [see Warnings and Precautions (5.2)].
+Patients with Chronic Pulmonary Disease Methadone hydrochloride tablets-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of methadone hydrochloride tablets [see Warnings and Precautions (5.2)].
 
-Elderly,Cachectic, or Debilitated Patients Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
+Elderly, Cachectic, or Debilitated Patients Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
 Regularly evaluate such patients closely, particularly when initiating and titrating methadone hydrochloride tablets and when methadone hydrochloride tablets are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2, 5.3)].
 Alternatively, consider the use of non-opioid analgesics in these patients.

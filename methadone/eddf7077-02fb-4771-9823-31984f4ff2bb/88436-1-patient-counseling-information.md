@@ -90,12 +90,10 @@ Instruct patients how to recognize the symptoms of low blood glucose and to cont
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and are trademarks of a Mallinckrodt company.
 
-© 2025 Mallinckrodt.
+© 2026 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Issued: 12/2025
+Issued: 01/2026
 
 Mallinckrodt™ Pharmaceuticals
-
-An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/L20M28.pdf or by calling 1-800-778-7898 for alternate delivery options.
