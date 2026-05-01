@@ -12,11 +12,11 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Clinical Considerations
+### Clinical Considerations
 
 Disease-Associated Maternal and/or Embryo/Fetal Risk: Pregnant women with HIV who are infected with PCP are at increased risk of severe illness and maternal death associated with PCP compared with non-pregnant women.
 
-Data
+### Data
 
 Animal Data: Atovaquone administered in oral doses of 250 mg/kg/day, 500 mg/kg/day, and 1,000 mg/kg/day to pregnant rats during organogenesis (Gestation Day [GD] 6 to GD15) did not cause maternal or embryo-fetal toxicity at doses up to 1,000 mg/kg/day corresponding to maternal plasma concentrations approximately 3 times the estimated human exposure during the treatment of PCP based on steady-state plasma concentrations.
 In pregnant rabbits, atovaquone administered in oral doses of 300 mg/kg/day, 600 mg/kg/day, and 1,200 mg/kg/day during organogenesis (GD6 to GD18) caused decreased fetal body length at a maternally toxic dose of 1,200 mg/kg/day corresponding to a plasma concentration that is approximately 0.5 times the estimated human exposure based on steady-state plasma concentrations.
@@ -27,13 +27,14 @@ Atovaquone crossed the placenta and was present in fetal rat and rabbit tissue.
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
 There are no data on the presence of atovaquone in human milk, the effects on the breastfed child, or the effects on milk production.
 Atovaquone was detected in rat milk when lactating rats were administered oral atovaquone (see Data).
 When a drug is present in animal milk, it is likely the drug will be present in human milk.
-Because of the potential for HIV-1 transmission to HIV-negative infants, instruct mothers with HIV-1 not to breastfeed if they are taking atovaquone for the prevention or treatment of PCP.
 
-Data
+For women with HIV-1, potential risks of breastfeeding include HIV-1 transmission (in infants without HIV-1).
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for atovaquone and any potential adverse effects on the breastfed child from atovaquone or from the underlying maternal condition.
+
+### Data
 
 In a rat study with doses of 10 mg/kg and 250 mg/kg given orally by gavage on postpartum Day 11, atovaquone concentrations in the milk were 30% of the concurrent atovaquone concentrations in the maternal plasma at both doses.
 The concentration of drug in animal milk does not necessarily predict the concentration of drug in human milk.
@@ -45,7 +46,7 @@ In a trial of atovaquone oral suspension administered once daily with food for 1
 The average steady-state plasma atovaquone concentrations in the 24 subjects with available concentration data are shown in Table 5.
 
 Table 5.
-Average Steady-state Plasma Atovaquone Concentrations in Pediatric Subjects
+Average Steady-State Plasma Atovaquone Concentrations in Pediatric Subjects
 
 | Age | Dose of Atovaquone Oral Suspension |  |  |
 | --- | --- | --- | --- |
