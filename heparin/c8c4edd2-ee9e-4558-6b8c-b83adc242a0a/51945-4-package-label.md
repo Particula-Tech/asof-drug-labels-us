@@ -10,13 +10,15 @@ From Porcine Intestinal Mucosa - For Intravenous or Subcutaneous Use
 
 NDC 0409-1402-27 Rx only
 
+Contains Benzyl Alcohol
+
 Hospira
 
-PAA140977
+PAA241404
 
-LOT #####AA
+LOT AA####
 
-EXP DMMMYYYY
+EXP YYYY/MM
 
 # PRINCIPAL DISPLAY PANEL - 1 mL Cartridge Box Label
 
@@ -24,13 +26,13 @@ BREAK SEAL TO OPEN
 
 1 mL Single-dose 50 Carpuject™ Sterile Cartridge Units with Luer Lock Needle not included
 
+NDC 0409-1402-12 Contains 50 of NDC 0409-1402-27 Rx only
+
 Heparin Sodium Injection, USP
 
 5,000 USP Units/mL NOT FOR LOCK FLUSH
 
 From Porcine Intestinal Mucosa - For Intravenous or Subcutaneous Use
-
-NDC 0409-1402-12 Contains 50 of NDC 0409-1402-27 Rx only
 
 Hospira
 
