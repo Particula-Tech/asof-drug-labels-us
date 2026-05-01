@@ -1,0 +1,11 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 70756-830-30
+
+ONCE DAILY
+
+buPROPion
+
+Hydrochloride
+
+Extended-Release Tablets (XL) GD)

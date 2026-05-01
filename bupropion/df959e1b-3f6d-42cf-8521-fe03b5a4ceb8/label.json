@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022497"
+  ],
+  "inn": "bupropion",
+  "labeler": "Lifestar Pharma LLC",
+  "package_ndcs": [
+    "70756-830-16",
+    "70756-830-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "bupropion hcl er",
+      "name": "BUPROPION HCl ER (XL)"
+    }
+  ],
+  "setid": "df959e1b-3f6d-42cf-8521-fe03b5a4ceb8",
+  "source": "dailymed"
+}
