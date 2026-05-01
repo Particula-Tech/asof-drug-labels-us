@@ -1,9 +1,5 @@
 TENORMIN is a trademark of TWi Pharmaceuticals, Inc.
 
-Manufactured by: Norwich Pharmaceuticals, Inc. Norwich, NY 13815 USA
+Distributed by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-Distributed by: TWi Pharmaceuticals USA, Inc. Paramus, NJ 07652
-
-Revised: 08/2024
-
-PKG03120
+PKG03390 Revised: 12/2025

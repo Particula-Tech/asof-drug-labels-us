@@ -48,7 +48,7 @@ In a study of 477 patients, the following adverse events were reported during ei
 | Bronchospasm | 3 | (1.2%) | 2 | (0.9%) |
 | Heart Failure | 46 | (19%) | 56 | (24%) |
 | Heart Block | 11 | (4.5%) | 10 | (4.3%) |
-| BBB + Major Axis Deviation | 16 | (6.6%) | 28 | (12%) |
+| BBB + MajorAxis Deviation | 16 | (6.6%) | 28 | (12%) |
 | SupraventricularTachycardia | 28 | (11.5%) | 45 | (19%) |
 | Atrial Fibrillation | 12 | (5%) | 29 | (11%) |
 | Atrial Flutter | 4 | (1.6%) | 7 | (3%) |
@@ -103,4 +103,4 @@ Patients should be closely monitored following cessation of therapy.
 The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with TENORMIN.
 Furthermore, a number of patients who had previously demonstrated established practolol reactions were transferred to TENORMIN therapy with subsequent resolution or quiescence of the reaction.
 
-To report SUSPECTED ADVERSE REACTIONS, contact TWi Pharmaceuticals, Inc. at 1-844-518-2989 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch for voluntary reporting of adverse reactions.
+To report SUSPECTED ADVERSE REACTIONS, contact Upsher-Smith Laboratories, LLC at 1-855-899-9180 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch for voluntary reporting of adverse reactions.

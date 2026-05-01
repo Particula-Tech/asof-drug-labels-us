@@ -62,6 +62,8 @@ Caution should be exercised when TENORMIN is administered during pregnancy or to
 
 Atenolol has been shown to produce a dose-related increase in embryo/fetal resorptions in rats at doses equal to or greater than 50 mg/kg/day or 25 or more times the maximum recommended human antihypertensive dose.* Although similar effects were not seen in rabbits, the compound was not evaluated in rabbits at doses above 25 mg/kg/day or 12.5 times the maximum recommended human antihypertensive dose.*
 
+*Based on the maximum dose of 100 mg/day in a 50 kg patient.
+
 # PRECAUTIONS
 
 ## General
@@ -74,8 +76,6 @@ TENORMIN may aggravate peripheral arterial circulatory disorders.
 
 The drug should be used with caution in patients with impaired renal function.
 (See DOSAGE AND ADMINISTRATION.)
-
-*Based on the maximum dose of 100 mg/day in a 50 kg patient.
 
 ## Information for Patients
 
@@ -122,6 +122,8 @@ Fertility of male or female rats (evaluated at dose levels as high as 200 mg/kg/
 ## Animal Toxicology
 
 Chronic studies employing oral atenolol performed in animals have revealed the occurrence of vacuolation of epithelial cells of Brunner’s glands in the duodenum of both male and female dogs at all tested dose levels of atenolol (starting at 15 mg/kg/day or 7.5 times the maximum recommended human antihypertensive dose*) and increased incidence of atrial degeneration of hearts of male rats at 300 but not 150 mg atenolol/kg/day (150 and 75 times the maximum recommended human antihypertensive dose,* respectively).
+
+*Based on the maximum dose of 100 mg/day in a 50 kg patient.
 
 ## Pregnancy
 
