@@ -7,4 +7,6 @@ Metoclopramide tablets are indicated for the:
 
 Limitations of Use:
 
-Metoclopramide tablets are not recommended for use in pediatric patients due to the risk of developing tardive dyskinesia (TD) and other extrapyramidal symptoms as well as the risk of methemoglobinemia in neonates [see Use in Specific Populations (8.4)].
+- Metoclopramide tablets have not been shown to be safe and effective for the treatment of symptomatic, documented gastroesophageal reflux for longer than 12 weeks [see Warnings and Precautions (5.1)].
+
+- Metoclopramide tablets are not recommended for use in pediatric patients due to the risk of developing tardive dyskinesia (TD) and other extrapyramidal symptoms as well as the risk of methemoglobinemia in neonates [see Use in Specific Populations (8.4)].

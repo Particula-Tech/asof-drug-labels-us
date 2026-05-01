@@ -13,7 +13,7 @@ Effects of Other Drugs on Metoclopramide
 | Intervention | Avoid concomitant use [see Warnings and Precautions (5.1, 5.2, 5.3)]. |
 | Strong CYP2D6 Inhibitors, not Included in Antipsychotic Category Above |  |
 | Clinical Impact | Increased plasma concentrations of metoclopramide; risk of exacerbation of extrapyramidal symptoms [see Clinical Pharmacology (12.3)]. |
-| Intervention | Reduce the metoclopramide dosage [see Dosage and Administration (2.2, 2.3)]. |
+| Intervention | Reduce the metoclopramide dosage [see Dosage and Administration (2.1, 2.2)]. |
 | Examples | quinidine, bupropion, fluoxetine, and paroxetine |
 | Monoamine Oxidase Inhibitors |  |
 | Clinical Impact | Increased risk of hypertension [see Warnings and Precautions (5.5)]. |
