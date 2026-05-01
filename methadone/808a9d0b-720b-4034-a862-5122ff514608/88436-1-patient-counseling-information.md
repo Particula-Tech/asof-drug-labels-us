@@ -54,7 +54,9 @@ Instruct patients to inform their physicians if they are taking, or plan to take
 MAOI Interaction Inform patients to avoid taking METHADOSE while using any drugs that inhibit monoamine oxidase.
 Patients should not start MAOIs while taking METHADOSE [see Drug Interactions (7)].
 
-Adrenal Insufficiency Inform patients that METHADOSE could cause adrenal insufficiency, a potentially life-threatening condition.
+Adrenal Insufficiency
+
+Inform patients that METHADOSE could cause adrenal insufficiency, a potentially life-threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
 Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.10)].
 
@@ -76,10 +78,10 @@ Constipation Advise patients of the potential for severe constipation, including
 Hypoglycemia Inform patients that methadone may cause hypoglycemia.
 Instruct patients how to recognize the symptoms of low blood glucose and to contact their health care provider if these symptoms occur [see Warnings and Precautions (5.17)].
 
-Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
+© 2026 Par Health, Inc. or one of its affiliates.
 
-© 2025 Mallinckrodt.
+Manufactured by:
 
 SpecGx LLC Webster Groves, MO 63119 USA Made in USA
 
-Mallinckrodt™ Pharmaceuticals
+Par Health™

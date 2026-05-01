@@ -27,11 +27,11 @@ USUAL DOSE: To be determined by the physician; to be diluted with water or other
 Preserve in tight containers, protected from light.
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
-Mallinckrodt™
+Par Health™
 
 GTIN: 00304060527102
 
-L00M07 Rev 10/2018
+L00M07 Rev 01/2026
 
 SpecGx LLC, Webster Groves, MO 63119 USA
 
@@ -64,11 +64,11 @@ USUAL DOSE: To be determined by the physician; to be diluted with water or other
 Preserve in tight containers, protected from light.
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
-Mallinckrodt™
+Par Health™
 
 GTIN: 00304068725104
 
-L00M22 Rev 10/2018
+L00M22 Rev 01/2016
 
 SpecGx LLC, Webster Groves, MO 63119 USA
 
