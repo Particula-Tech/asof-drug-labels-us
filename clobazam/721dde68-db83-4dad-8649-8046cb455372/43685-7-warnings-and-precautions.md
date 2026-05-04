@@ -55,12 +55,13 @@ If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and
 
 ## 5.7 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
 
-Drug Reaction with Eosinophilia andSystemicSymptoms (DRESS), also known as multiorgan hypersensitivity, has been reported in patients taking antiepileptic drugs, including clobazam.Theseevents can be fatal or life-threatening, particularly if diagnosis and treatment do not occur as early as possible.
-DRESS typically, although notexclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling, in association with other organ system involvement, such as hepatitis,nephritis, hematological abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multiorgan hypersensitivity, has been reported in patients taking antiepileptic drugs, including clobazam.
+These events can be fatal or life-threatening, particularly if diagnosis and treatment do not occur as early as possible.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
 Eosinophilia is often present.
-Because thisdisorderis variable in its expression, other organ systems not noted here may be involved.
-It is important to note that early manifestations ofhypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
-If such signs or symptoms are present, the patientshouldbe evaluated immediately.
+Because this disorder is variable in its expression, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
 Clobazam should be discontinued if an alternative etiology for the signs or symptoms cannot be established [see Contraindications (4)].
 
 ## 5.8 Suicidal Behavior and Ideation
