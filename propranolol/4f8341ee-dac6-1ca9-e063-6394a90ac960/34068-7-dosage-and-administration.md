@@ -1,14 +1,19 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 Initiate treatment at ages 5 weeks to 5 months.
+
 The recommended starting dose of HEMANGEOL is 0.15 mL/kg (0.6 mg/kg) (see Table 1) twice daily, taken at least 9 hours apart.
 After 1 week, increase the daily dose to 0.3 mL/kg (1.1 mg/kg) twice daily.
 After 2 weeks of treatment, increase the dose to 0.4 mL/kg (1.7 mg/kg) twice daily and maintain this for 6 months.
 Readjust the dose periodically as the child’s weight increases.
+
 To reduce the risk of hypoglycemia, administer HEMANGEOL orally during or right after a feeding.
 Skip the dose if the child is not eating or is vomiting [see Warnings and Precautions (5.1)].
+
 Monitor heart rate and blood pressure for 2 hours after HEMANGEOL initiation or dose increases [see Warnings and Precautions (5.2)].
+
 If hemangiomas recur, treatment may be re-initiated [see Clinical Studies (14)].
+
 HEMANGEOL is supplied with an oral dosing syringe for administration.
 Administration directly into the child’s mouth is recommended.
 Nevertheless, if necessary, the product may be diluted in a small quantity of milk or fruit juice, given in a baby’s bottle.
