@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA216964"
+  ],
+  "inn": "doravirine",
+  "labeler": "Merck Sharp & Dohme LLC",
+  "package_ndcs": [
+    "0006-5092-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "doravirine, islatravir",
+      "name": "IDVYNSO"
+    }
+  ],
+  "setid": "11aaeb53-9848-433c-be7f-db8a5bc0b26f",
+  "source": "dailymed"
+}

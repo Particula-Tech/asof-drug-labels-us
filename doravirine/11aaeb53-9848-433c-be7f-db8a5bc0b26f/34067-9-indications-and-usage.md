@@ -1,0 +1,3 @@
+# 1 INDICATIONS AND USAGE
+
+IDVYNSO™ is indicated as a complete two-drug regimen for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in adults to replace the current antiretroviral regimen in those who are virologically-suppressed (HIV-1 RNA less than 50 copies/mL) on a stable antiretroviral regimen with no history of virologic treatment failure and no known substitutions associated with resistance to doravirine [see Microbiology (12.4) and Clinical Studies (14)].
