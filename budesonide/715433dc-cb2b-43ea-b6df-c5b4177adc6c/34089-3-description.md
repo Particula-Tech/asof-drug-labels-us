@@ -27,7 +27,7 @@ Formoterol fumarate contains two chiral centers and consists of a single enantio
 BREZTRI AEROSPHERE is formulated as a hydrofluoroalkane (HFA 134a) propelled pressurized metered dose inhaler containing 28 or 120 inhalations.
 The canister has an attached dose indicator and is supplied with a yellow plastic actuator and white mouthpiece with a grey dust cap.
 
-After priming, each actuation of the inhaler meters 170 mcg of budesonide, 9.6 mcg of glycopyrrolate (equivalent to 7.7 mcg of glycopyrronium), and 5.1 mcg of formoterol fumarate (equivalent to 4.4 mcg of formoterol) from the valve which delivers 160 mcg of budesonide, 9.0 mcg of glycopyrrolate (equivalent to 7.2 mcg of glycopyrronium), and 4.8 mcg of formoterol fumarate (equivalent to 4.1 mcg of formoterol) from the actuator.
+After priming, each actuation of the inhaler meters 170 mcg of budesonide, 9.6 or 19.1 mcg of glycopyrrolate (equivalent to 7.7 or 15.3 mcg of glycopyrronium), and 5.1 mcg of formoterol fumarate (equivalent to 4.4 mcg of formoterol) from the valve which delivers 160 mcg of budesonide, 9.0 or 18 mcg of glycopyrrolate (equivalent to 7.2 or 14.4 mcg of glycopyrronium), and 4.8 mcg of formoterol fumarate (equivalent to 4.1 mcg of formoterol) from the actuator.
 The actual amount of drug delivered to the lung may depend on patient factors, such as the coordination between actuation of the device and inspiration through the delivery system.
 BREZTRI AEROSPHERE also contains porous particles that form a co-suspension with the drug crystals.
 The porous particles are comprised of the phospholipid, 1,2-distearoyl-sn-glycero-3-phosphocholine (DSPC), and calcium chloride.

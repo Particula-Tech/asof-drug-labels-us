@@ -1,6 +1,5 @@
 # 10 OVERDOSAGE
 
-No cases of overdose have been reported with BREZTRI AEROSPHERE.
 BREZTRI AEROSPHERE contains budesonide, glycopyrrolate, and formoterol fumarate; therefore, the risks associated with overdosage for the individual components described below apply to BREZTRI AEROSPHERE.
 Treatment of overdosage consists of discontinuation of BREZTRI AEROSPHERE together with institution of appropriate symptomatic and/or supportive therapy.
 The judicious use of a cardioselective beta-receptor blocker may be considered, bearing in mind that such medication can produce bronchospasm.

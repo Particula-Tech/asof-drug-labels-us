@@ -1,7 +1,13 @@
 # 1 INDICATIONS AND USAGE
 
-BREZTRI AEROSPHERE is indicated for the maintenance treatment of patients with chronic obstructive pulmonary disease (COPD).
+## 1.1 Maintenance Treatment of Chronic Obstructive Pulmonary Disease
 
-Limitations of Use:
+BREZTRI AEROSPHERE is indicated for the maintenance treatment of chronic obstructive pulmonary disease (COPD) in adult patients.
 
-BREZTRI AEROSPHERE is not indicated for the relief of acute bronchospasm or for the treatment of asthma [see Warnings and Precautions (5.1, 5.2)].
+## 1.2 Maintenance Treatment of Asthma
+
+BREZTRI AEROSPHERE is indicated for the maintenance treatment of asthma in adult and pediatric patients 12 years of age and older.
+
+## 1.3 Limitations of Use
+
+BREZTRI AEROSPHERE is not indicated for the relief of acute bronchospasm [see Warnings and Precautions (5.1, 5.2)].

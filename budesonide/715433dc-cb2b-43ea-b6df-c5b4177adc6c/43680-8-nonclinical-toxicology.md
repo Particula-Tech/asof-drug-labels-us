@@ -4,7 +4,7 @@
 
 No studies of carcinogenicity, mutagenicity, or impairment of fertility were conducted with BREZTRI AEROSPHERE; however, separate studies of budesonide, glycopyrrolate, and formoterol fumarate are described below.
 
-### Budesonide
+Budesonide
 
 Long-term studies were conducted in rats and mice using oral administration to evaluate the carcinogenic potential of budesonide.
 
@@ -22,19 +22,19 @@ Fertility and reproductive performance were unaffected in rats at subcutaneous d
 However, it caused a decrease in prenatal viability and viability in the pups at birth and during lactation, along with a decrease in maternal body-weight gain, at subcutaneous doses of 20 mcg/kg and above (0.3 times the MRHDID on a mcg/m2 basis).
 No such effects were noted at 5 mcg/kg (0.08 times the MRHDID on a mcg/m2 basis).
 
-### Glycopyrrolate
+Glycopyrrolate
 
 Long-term studies were conducted in mice using inhalation administration and rats using oral administration to evaluate the carcinogenic potential of glycopyrrolate.
 
-In a 24-month inhalation carcinogenicity study in B6C3F1 mice, glycopyrrolate produced no evidence of tumorigenicity when administered to males or females at doses up to 705 and 335 mcg/kg/day, respectively (approximately 95 and 45 times the MRHDID of glycopyrrolate on a mcg/m2 basis, respectively).
+In a 24-month inhalation carcinogenicity study in B6C3F1 mice, glycopyrrolate produced no evidence of tumorigenicity when administered to males or females at doses up to 705 and 335 mcg/kg/day, respectively (approximately 48 and 23 times the MRHDID of glycopyrrolate on a mcg/m2 basis, respectively).
 
-In a 24-month carcinogenicity study in rats, glycopyrrolate produced no evidence of tumorigenicity when administered to males or females by oral gavage at dosages up to 40,000 mcg/kg/day (approximately 11,000 times the MRHDID of glycopyrrolate on a mcg/m2 basis).
+In a 24-month carcinogenicity study in rats, glycopyrrolate produced no evidence of tumorigenicity when administered to males or females by oral gavage at dosages up to 40,000 mcg/kg/day (approximately 5400 times the MRHDID of glycopyrrolate on a mcg/m2 basis).
 
 Glycopyrrolate was not mutagenic or clastogenic in the Ames Salmonella/microsome plate test, in vitro mammalian cell micronucleus assay in TK6 cells, or in vivo micronucleus assay in rats.
 
-Fertility and reproductive performance indices were unaffected in male and female rats that received glycopyrrolate by the subcutaneous route at doses up to 10,000 μg/kg/day (approximately 2700 times the MRHDID on a mcg/m2 basis).
+Fertility and reproductive performance indices were unaffected in male and female rats that received glycopyrrolate by the subcutaneous route at doses up to 10,000 μg/kg/day (approximately 1350 times the MRHDID on a mcg/m2 basis).
 
-### Formoterol Fumarate
+Formoterol Fumarate
 
 Long-term studies were conducted in mice using oral administration and rats using inhalation administration to evaluate the carcinogenic potential of formoterol fumarate.
 

@@ -29,12 +29,12 @@ Drugs that are known to prolong the QTc interval may be associated with an incre
 ## 7.6 Beta-adrenergic Receptor Blocking Agents
 
 Beta-adrenergic receptor antagonists (beta-blockers) and BREZTRI AEROSPHERE may interfere with the effect of each other when administered concurrently.
-Beta-blockers not only block the therapeutic effects of beta2-agonists, but may produce severe bronchospasm in COPD patients.
-Therefore, patients with COPD should not normally be treated with beta-blockers.
-However, under certain circumstances, e.g., as prophylaxis after myocardial infarction, there may be no acceptable alternatives to the use of beta-blockers in patients with COPD.
+Beta-blockers not only block the therapeutic effects of beta2-agonists, but may produce severe bronchospasm in COPD and asthma patients.
+Therefore, patients with COPD or asthma should not normally be treated with beta-blockers.
+However, under certain circumstances, e.g., as prophylaxis after myocardial infarction, there may be no acceptable alternatives to the use of beta-blockers in patients with COPD or asthma.
 In this setting, cardioselective beta-blockers could be considered, although they should be administered with caution.
 
 ## 7.7 Anticholinergics
 
 There is a potential for an additive interaction with concomitantly used anticholinergic medications.
-Therefore, avoid coadministration of BREZTRI AEROSPHERE with other anticholinergic-containing drugs as this may lead to an increase in anticholinergic adverse effects [see Warnings and Precautions (5.9, 5.10) and Adverse Reactions (6)].
+Therefore, avoid coadministration of BREZTRI AEROSPHERE with other anticholinergic-containing drugs as this may lead to an increase in anticholinergic adverse effects [see Warnings and Precautions (5.9, 5.10) and Adverse Reactions (6.1)].

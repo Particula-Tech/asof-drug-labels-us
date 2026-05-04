@@ -2,17 +2,22 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
+Serious Asthma-Related Events
+
+Inform patients with asthma that LABA when used alone increases the risk of asthma-related hospitalization or asthma‑related death.
+Available data show that when ICS and LABA are used together, such as with BREZTRI AEROSPHERE, there is not a significant increase in the risk of these events [see Warnings and Precautions (5.1)].
+
 Not for Treatment of Acute Symptoms
 
-Inform patients that BREZTRI AEROSPHERE is not meant to relieve acute symptoms of COPD and extra doses should not be used for that purpose.
-Advise patients to treat acute symptoms with an inhaled, short-acting beta2-agonist such as albuterol.
-Provide patients with such medication and instruct them in how it should be used.
+Inform patients that BREZTRI AEROSPHERE is not meant to relieve acute symptoms of COPD or asthma and extra doses should not be used for that purpose.
+Advise patients to treat acute symptoms with an inhaled, short-acting beta2-agonist/corticosteroid for asthma or, an inhaled, short-acting beta2-agonist for asthma or COPD [see Warnings and Precautions (5.2)].
+Provide patients with such medication and instruct them on how it should be used.
 
 Instruct patients to seek medical attention immediately if they experience any of the following:
 
-- •Decreasing effectiveness of inhaled, short-acting beta2-agonists
-- •Need for more inhalations than usual of inhaled, short-acting beta2-agonists
-- •Significant decrease in lung function as outlined by the health care practitioner
+- •Decreasing effectiveness of inhaled, short-acting beta2-agonist/corticosteroid combination, or inhaled, short-acting beta2-agonists.
+- •Need for more inhalations than usual of inhaled, short-acting beta2-agonist/corticosteroid combination, or inhaled, short-acting beta2-agonists.
+- •Significant decrease in lung function as outlined by the health care practitioner.
 
 Tell patients they should not stop therapy with BREZTRI AEROSPHERE without physician guidance since symptoms may recur after discontinuation [see Warnings and Precautions (5.2)].
 
@@ -55,17 +60,22 @@ Reduction in Bone Mineral Density
 
 Advise patients who are at an increased risk for decreased BMD that the use of corticosteroids may pose an additional risk [see Warnings and Precautions (5.13)].
 
+Effect on Growth
+
+Inform patients that orally inhaled corticosteroids, a component of BREZTRI AEROSPHERE, may cause a reduction in growth velocity when administered to pediatric patients.
+Healthcare providers should closely follow the growth of pediatric patients taking corticosteroids by any route [see Warnings and Precautions (5.14)].
+
 Ocular Effects such as Cataracts or Glaucoma
 
 Inform patients that long-term use of ICS may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
 
 Instruct patients to be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion, and corneal edema).
-Instruct patients to consult a physician immediately if any of these signs or symptoms develops [see Warnings and Precautions (5.14)].
+Instruct patients to consult a physician immediately if any of these signs or symptoms develops [see Warnings and Precautions (5.15)].
 
 Worsening of Urinary Retention
 
 Instruct patients to be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination).
-Instruct patients to consult a physician immediately if any of these signs or symptoms develop [see Warnings and Precautions (5.15)].
+Instruct patients to consult a physician immediately if any of these signs or symptoms develop [see Warnings and Precautions (5.16)].
 
 Risks Associated with Beta-agonist Therapy
 
@@ -76,6 +86,6 @@ Manufactured for: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
 Manufactured by: AstraZeneca Dunkerque Production (AZDP), Dunkerque, France
 
-BREZTRI and AEROSPHERE are trademarks of the AstraZeneca group of companies.
+BREZTRI and AEROSPHERE are registered trademarks of the AstraZeneca group of companies.
 
-© AstraZeneca 2022
+© AstraZeneca 2026

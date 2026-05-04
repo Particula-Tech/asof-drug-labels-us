@@ -2,13 +2,13 @@
 
 ## 12.1 Mechanism of Action
 
-### BREZTRI AEROSPHERE
+BREZTRI AEROSPHERE
 
 BREZTRI AEROSPHERE contains budesonide, glycopyrrolate, and formoterol fumarate.
 The mechanism of action described below for the individual components applies to BREZTRI AEROSPHERE.
-These drugs represent three different classes of medications (a synthetic corticosteroid, an anticholinergic, and a long-acting selective beta2-adrenoceptor agonist) that have different effects on clinical physiology and inflammatory indices of COPD.
+These drugs represent three different classes of medications (a synthetic corticosteroid, an anticholinergic, and a long-acting selective beta2-adrenoceptor agonist) that have different effects on clinical physiology and inflammatory indices of COPD and asthma.
 
-### Budesonide
+Budesonide
 
 Budesonide is an anti-inflammatory corticosteroid that exhibits potent glucocorticoid activity and weak mineralocorticoid activity.
 In standard in vitro and animal models, budesonide has approximately a 200-fold higher affinity for the glucocorticoid receptor and a 1000-fold higher topical anti-inflammatory potency than cortisol (rat croton oil ear edema assay).
@@ -17,11 +17,11 @@ As a measure of systemic activity, budesonide is 40 times more potent than corti
 In glucocorticoid receptor affinity studies, the 22R epimer of budesonide was two times as active as the 22S epimer.
 In vitro studies indicated that the two forms of budesonide do not interconvert.
 
-Inflammation is an important component in the pathogenesis of COPD.
+Inflammation is an important component in the pathogenesis of COPD and asthma.
 Corticosteroids have a wide range of inhibitory activities against multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, and lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, and cytokines) involved in allergic and non-allergic-mediated inflammation.
 These anti-inflammatory actions of corticosteroids may contribute to their efficacy.
 
-### Glycopyrrolate
+Glycopyrrolate
 
 Glycopyrrolate is a long-acting antimuscarinic agent which is often referred to as an anticholinergic.
 It has similar affinity to the subtypes of muscarinic receptors M1 to M5.
@@ -31,7 +31,7 @@ In preclinical in vitro as well as in vivo studies, prevention of methylcholine 
 The clinical relevance of these findings is unknown.
 The bronchodilation following inhalation of glycopyrrolate is predominantly a site-specific effect.
 
-### Formoterol Fumarate
+Formoterol Fumarate
 
 Formoterol fumarate is a long-acting selective beta2-adrenergic agonist (beta2-agonist) with a rapid onset of action.
 Inhaled formoterol fumarate acts locally in the lung as a bronchodilator.
@@ -46,21 +46,28 @@ Increased cyclic AMP levels cause relaxation of bronchial smooth muscle and inhi
 
 ## 12.2 Pharmacodynamics
 
-### Cardiac Electrophysiology
+Cardiac Electrophysiology
 
 A TQT study was not performed with BREZTRI AEROSPHERE as budesonide is not known to affect the QT interval.
 However, the potential for QTc interval prolongation with glycopyrrolate/formoterol fumarate was assessed in a double-blind, single-dose, placebo- and positive-controlled crossover trial in 69 healthy subjects.
 The largest mean (90% upper confidence bound) differences from placebo in baseline-corrected QTcI for 2 inhalations of glycopyrrolate/formoterol fumarate 9/4.8 mcg and glycopyrrolate/formoterol fumarate 72/19.2 mcg, were 3.1 (4.7) ms and 7.6 (9.2) ms, respectively, and excluded the clinically relevant threshold of 10 ms. A dose-dependent increase in heart rate was also observed.
 The largest mean (90% upper confidence bound) differences from placebo in baseline-corrected heart rate were 3.3 (4.9) beats/min and 7.6 (9.5) beats/min seen within 10 minutes of dosing with 2 inhalations of glycopyrrolate/formoterol fumarate 9/4.8 mcg and glycopyrrolate/formoterol fumarate 72/19.2 mcg, respectively.
 
-### Chronic Obstructive Pulmonary Disease
+Chronic Obstructive Pulmonary Disease
 
-The effects of BREZTRI AEROSPHERE on cardiac rhythm in subjects with COPD was assessed using 24-hour Holter monitoring at Week 16 in a 52-week trial (Trial 1).
+The effects of BREZTRI AEROSPHERE on cardiac rhythm in subjects with COPD was assessed using 24-hour Holter monitoring at Week 16 in ETHOS.
 
-The Holter monitoring population in Trial 1 included 180 subjects on BREZTRI AEROSPHERE 320 mcg/18 mcg/9.6 mcg, 160 subjects on glycopyrrolate and formoterol fumarate [GFF MDI 18 mcg/9.6 mcg], and 183 subjects on budesonide/formoterol fumarate [BFF MDI 320 mcg/9.6 mcg].
+The Holter monitoring population in ETHOS included 180 subjects on BREZTRI AEROSPHERE 320 mcg/18 mcg/9.6 mcg, 160 subjects on glycopyrrolate and formoterol fumarate (GFF MDI 18 mcg/9.6 mcg), and 183 subjects on budesonide/formoterol fumarate (BFF MDI 320 mcg/9.6 mcg).
 No clinically meaningful effects on cardiac rhythm were observed.
 
-### HPA Axis Effects
+Asthma
+
+The effects of BREZTRI AEROSPHERE on cardiac rhythm in subjects with asthma was assessed using 24-hour Holter monitoring at Week 4 or Week 24 in KALOS.
+
+The Holter monitoring population in KALOS included 44 subjects on BREZTRI AEROSPHERE 320 mcg/36 mcg/9.6 mcg, 56 subjects on budesonide and formoterol fumarate (BFF MDI) 320 mcg/9.6 mcg, and 36 subjects on budesonide/formoterol fumarate (BUD/FORM MDI) 320 mcg/9 mcg.
+No clinically meaningful effects on cardiac rhythm were observed.
+
+HPA Axis Effects
 
 Effects of BREZTRI AEROSPHERE on the HPA axis were assessed by measurement of 24-hour serum cortisol at Baseline and Week 24 in subjects with COPD.
 The geometric mean ratio (Week 24/Baseline) was 0.86 (Co-efficient of variation (CV) =39%) and 0.94 (CV=36.6%) for BREZTRI AEROSPHERE 320 mcg/18mcg/9.6mcg and GFF MDI 18 mcg/9.6 mcg, respectively.
@@ -73,18 +80,18 @@ The pharmacokinetics of budesonide, glycopyrronium, and formoterol from BREZTRI 
 
 The pharmacokinetics of the individual components of BREZTRI AEROSPHERE are presented below.
 
-### Absorption
+Absorption
 
-Budesonide: Following inhaled administration of BREZTRI AEROSPHERE in subjects with COPD, Cmax occurred within 20 to 40 minutes.
-Steady state is estimated to be achieved after approximately 1 day of repeated dosing of BREZTRI AEROSPHERE via population pharmacokinetic analysis and the AUC0-12 is approximately 1.3 times higher than after the first dose.
+Budesonide: Following inhaled administration of BREZTRI AEROSPHERE in subjects with COPD or asthma, Cmax occurred within 20 to 40 minutes.
+Steady state is estimated to be achieved after approximately 1 day of repeated dosing of BREZTRI AEROSPHERE via population pharmacokinetic analysis in subjects with COPD and the AUC0-12 is approximately 1.3 times higher than after the first dose.
 
-Glycopyrrolate: Following inhaled administration of BREZTRI AEROSPHERE in subjects with COPD, Cmax occurred within 2 to 6 minutes.
-Steady state is estimated to be achieved after approximately 3 days of repeated dosing of BREZTRI AEROSPHERE via population pharmacokinetic analysis and the AUC0-12 is approximately 1.8 times higher than after the first dose.
+Glycopyrrolate: Following inhaled administration of BREZTRI AEROSPHERE in subjects with COPD or asthma, Cmax occurred within 2 to 6 minutes.
+Steady state is estimated to be achieved after approximately 3 days of repeated dosing of BREZTRI AEROSPHERE via population pharmacokinetic analysis in subjects with COPD and the AUC0-12 is approximately 1.8 times higher than after the first dose.
 
-Formoterol Fumarate: Following inhaled administration of BREZTRI AEROSPHERE in subjects with COPD, Cmax occurred within 20 to 60 minutes.
-Steady state is estimated to be achieved after approximately 2 days of repeated dosing with BREZTRI AEROSPHERE via population pharmacokinetic analysis and the AUC0-12 is approximately 1.4 times higher than after the first dose.
+Formoterol Fumarate: Following inhaled administration of BREZTRI AEROSPHERE in subjects with COPD or asthma, Cmax occurred within 20 to 90 minutes.
+Steady state is estimated to be achieved after approximately 2 days of repeated dosing with BREZTRI AEROSPHERE via population pharmacokinetic analysis in subjects with COPD and the AUC0-12 is approximately 1.4 times higher than after the first dose.
 
-### Distribution
+Distribution
 
 Budesonide: The estimated budesonide apparent volume of distribution at steady-state in subjects with COPD is approximately 1200 L, via population pharmacokinetic analysis.
 Over the concentration range of 1-100 nmol/L, mean plasma protein binding of budesonide ranged from 86% to 87%.
@@ -108,7 +115,7 @@ Formoterol Fumarate: The excretion of formoterol was studied in six healthy subj
 In that study, 62% of the drug related radioactivity of formoterol was excreted in the urine while 24% was eliminated in the feces.
 The effective half-life of formoterol in subjects with COPD derived via population pharmacokinetics analysis was approximately 10 hours.
 
-### Metabolism
+Metabolism
 
 Budesonide: In vitro studies with human liver homogenates have shown that budesonide was rapidly and extensively metabolized.
 Two major metabolites formed via CYP3A4 catalyzed biotransformation have been isolated and identified as 16α-hydroxyprednisolone and 6ß-hydroxybudesonide.
@@ -123,9 +130,9 @@ Formoterol Fumarate: The primary metabolism of formoterol is by direct glucuroni
 Secondary metabolic pathways include deformylation and sulfate conjugation.
 CYP2D6 and CYP2C have been identified as being primarily responsible for O-demethylation.
 
-### Specific Populations
+Specific Populations
 
-Population pharmacokinetic analysis showed no evidence of a clinically significant effect of age, sex, race/ethnicity, or body weight on the pharmacokinetics of budesonide, glycopyrronium, or formoterol.
+Population pharmacokinetic analysis in subjects with COPD showed no evidence of a clinically significant effect of age, sex, race/ethnicity, or body weight on the pharmacokinetics of budesonide, glycopyrronium, or formoterol.
 
 Patients with Hepatic Impairment:
 
@@ -146,7 +153,7 @@ Estimated glomerular filtration rate (eGFR) varied from 31-192 mL/min representi
 Simulation of the systemic exposure (AUC0-12) in subjects with COPD with moderate renal impairment (eGFR of 45 mL/min) indicates an approximate 68% increase for glycopyrronium compared to subjects with COPD with normal renal function (eGFR of >90 mL/min).
 Renal function was found not to significantly affect exposure to budesonide or formoterol after drug clearance adjusted by age or body weight in a population pharmacokinetic analysis.
 
-### Drug Interaction Studies
+Drug Interaction Studies
 
 No pharmacokinetic interaction has been observed between budesonide, glycopyrrolate, and formoterol fumarate when administered in combination by the inhaled route.
 Specific drug interaction studies of BREZTRI AEROSPHERE with other co-administered drugs have not been performed.

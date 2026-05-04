@@ -2,29 +2,65 @@
 
 ## 5.1 Serious Asthma-Related Events – Hospitalizations, Intubations, Death
 
-The safety and efficacy of BREZTRI AEROSPHERE in patients with asthma have not been established.
-BREZTRI AEROSPHERE is not indicated for the treatment of asthma.
-
 Use of long-acting beta2-adrenergic agonists (LABA) as monotherapy [without inhaled corticosteroid (ICS)] for asthma is associated with an increased risk of asthma-related death.
 Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric and adolescent patients.
 These findings are considered a class effect of LABA monotherapy.
-When a LABA is used in fixed-dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone.
+When a LABA is used in fixed‑dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone (see Serious Asthma-Related Events with ICS/LABA).
 
 Available data do not suggest an increased risk of death with use of LABA in patients with COPD.
 
+Serious Asthma-Related Events with ICS/LABA
+
+Four large, 26-week, randomized, blinded, active-controlled clinical safety trials were conducted to evaluate the risk of serious asthma-related events when LABA were used in fixed-dose combination with ICS compared to ICS alone in patients with asthma.
+Three trials included adult and adolescent patients aged ≥12 years: one trial compared budesonide/formoterol to budesonide; one trial compared fluticasone propionate/salmeterol inhalation powder to fluticasone propionate inhalation powder; and one trial compared mometasone furoate/formoterol to mometasone furoate.
+The fourth trial included pediatric patients 4 to 11 years of age and compared fluticasone propionate/salmeterol inhalation powder to fluticasone propionate inhalation powder.
+BREZTRI AEROSPHERE is not indicated for patients 4 to 11 years of age.
+The primary safety endpoint for all four trials was serious asthma‑related events (hospitalizations, intubations and death).
+A blinded adjudication committee determined whether events were asthma-related.
+
+The three adult and adolescent trials were designed to rule out a risk margin of 2.0, and the pediatric trial was designed to rule out a risk of 2.7.
+Each individual trial met its pre-specified objective and demonstrated non-inferiority of ICS/LABA to ICS alone.
+A meta-analysis of the three adult and adolescent trials did not show a significant increase in risk of a serious asthma-related event with ICS/LABA fixed-dose combination compared with ICS alone (Table 1).
+These trials were not designed to rule out all risk for serious asthma-related events with ICS/LABA compared with ICS.
+
+Table 1: Meta-analysis of Serious Asthma-Related Events in Patients with Asthma Aged 12 Years and Older
+
+|  | ICS/LABA (N=17,537)Randomized patients who had taken at least 1 dose of study drug. Planned treatment used for analysis. | ICS (N=17,552) | ICS/LABA vs ICS Hazard ratio (95% CI)Estimated using a Cox proportional hazards model of time to first event with baseline hazards stratified by each of the 3 trials. |
+| --- | --- | --- | --- |
+| Serious asthma-related eventNumber of patients with event that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug, whichever date was later. Patients can have one or more events, but only the first event was counted for analysis. A single, blinded, independent adjudication committee determined whether events were asthma-related. | 116 | 105 | 1.10 (0.85, 1.44) |
+| Asthma-related death | 2 | 0 |  |
+| Asthma-related intubation (endotracheal) | 1 | 2 |  |
+| Asthma-related hospitalization (≥24-hour stay) | 115 | 105 |  |
+| ICS=Inhaled Corticosteroid, LABA=Long-acting Beta2-adrenergic Agonist |  |  |  |
+
+The pediatric safety trial included 6208 pediatric patients 4 to 11 years of age who received ICS/LABA (fluticasone propionate/salmeterol inhalation powder) or ICS (fluticasone propionate inhalation powder).
+In this trial, 27/3107 (0.9%) patients randomized to ICS/LABA and 21/3101 (0.7%) patients randomized to ICS experienced a serious asthma-related event.
+There were no asthma-related deaths or intubations.
+ICS/LABA did not show a significantly increased risk of a serious asthma-related event compared to ICS based on the pre-specified risk margin (2.7), with an estimated hazard ratio of time to first event of 1.29 (95% CI: 0.73, 2.27).
+BREZTRI AEROSPHERE is not indicated for use in pediatric patients aged 11 years and younger.
+
+Salmeterol Multicenter Asthma Research Trial (SMART)
+
+A 28-week, placebo-controlled U.S. trial that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs. 3/13,179 in patients treated with placebo; relative risk: 4.37 [95% CI 1.25, 15.34]).
+Use of background ICS was not required in SMART.
+The increased risk of asthma-related death is considered a class effect of LABA monotherapy.
+
 ## 5.2 Deterioration of Disease and Acute Episodes
 
-BREZTRI AEROSPHERE should not be initiated in patients with acutely deteriorating COPD, which may be a life-threatening condition.
-BREZTRI AEROSPHERE has not been studied in patients with acutely deteriorating COPD.
+BREZTRI AEROSPHERE should not be initiated in patients with acutely deteriorating COPD or asthma, which may be a life-threatening condition.
+BREZTRI AEROSPHERE has not been studied in patients with acutely deteriorating COPD or asthma.
 The use of BREZTRI AEROSPHERE in this setting is not appropriate.
+
+Increasing use of inhaled, short-acting beta2-agonists is a marker of deteriorating asthma.
+In this situation, the patient requires immediate re-evaluation with reassessment of the treatment regimen, giving special consideration to the possible need for additional therapeutic options.
+Patients should not use more than 2 inhalations twice daily (morning and evening) of BREZTRI AEROSPHERE.
 
 BREZTRI AEROSPHERE should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm.
 BREZTRI AEROSPHERE has not been studied in the relief of acute symptoms and extra doses should not be used for that purpose.
-Acute symptoms should be treated with an inhaled short-acting beta2-agonist.
+Acute symptoms should be treated with either an inhaled short-acting beta2-agonist/corticosteroid combination (asthma only) or an inhaled short-acting beta2-agonist (COPD or asthma).
 
-When beginning treatment with BREZTRI AEROSPHERE, patients who have been taking inhaled, short-acting beta2-agonists on a regular basis (e.g., four times a day) should be instructed to discontinue the regular use of these drugs and use them only for symptomatic relief of acute respiratory symptoms.
-When prescribing BREZTRI AEROSPHERE, the healthcare provider should also prescribe an inhaled, short acting beta2-agonist and instruct the patient on how it should be used.
-Increasing inhaled beta2-agonist use is a signal of deteriorating disease for which prompt medical attention is indicated.
+When beginning treatment with BREZTRI AEROSPHERE, patients who have been taking inhaled, short‑acting beta2‑agonists on a regular basis (e.g., four times a day) should be instructed to discontinue the regular use of these drugs and use them only for symptomatic relief of acute respiratory symptoms.
+When prescribing BREZTRI AEROSPHERE, the healthcare provider should also prescribe either an inhaled short-acting beta2‑agonist/corticosteroid combination (asthma only) or an inhaled, short acting beta2‑agonist (COPD or asthma) and instruct the patient on how it should be used.
 
 COPD may deteriorate acutely over a period of hours or chronically over several days or longer.
 If BREZTRI AEROSPHERE no longer controls symptoms, or the patient’s inhaled, short-acting beta2-agonist becomes less effective or the patient needs more inhalations of short-acting beta2-agonist than usual, these may be markers of deterioration of disease.
@@ -79,14 +115,14 @@ After withdrawal from systemic corticosteroids, a number of months are required 
 
 Patients who have been previously maintained on 20 mg or more per day of prednisone (or its equivalent) may be most susceptible, particularly when their systemic corticosteroids have been almost completely withdrawn.
 During this period of HPA suppression, patients may exhibit signs and symptoms of adrenal insufficiency when exposed to trauma, surgery, or infection (particularly gastroenteritis) or other conditions associated with severe electrolyte loss.
-Although BREZTRI AEROSPHERE may provide control of COPD symptoms during these episodes, in recommended doses it supplies less than normal physiological amounts of glucocorticoid systemically and does not provide the mineralocorticoid activity that is necessary for coping with these emergencies.
+Although BREZTRI AEROSPHERE may provide control of COPD or asthma symptoms during these episodes, in recommended doses it supplies less than normal physiological amounts of glucocorticoid systemically and does not provide the mineralocorticoid activity that is necessary for coping with these emergencies.
 
-During periods of stress, or a severe COPD exacerbation, patients who have been withdrawn from systemic corticosteroids should be instructed to resume oral corticosteroids (in large doses) immediately and to contact their healthcare practitioner for further instruction.
-These patients should also be instructed to carry a warning card indicating that they may need supplementary systemic corticosteroids during periods of stress, or a severe COPD exacerbation.
+During periods of stress, a severe COPD or asthma exacerbation, patients who have been withdrawn from systemic corticosteroids should be instructed to resume oral corticosteroids (in large doses) immediately and to contact their healthcare practitioner for further instruction.
+These patients should also be instructed to carry a warning card indicating that they may need supplementary systemic corticosteroids during periods of stress, a severe COPD or asthma exacerbation.
 
 Patients requiring oral corticosteroids should be weaned slowly from systemic corticosteroid use after transferring to BREZTRI AEROSPHERE.
 Prednisone reduction can be accomplished by reducing the daily prednisone dose by 2.5 mg on a weekly basis during therapy with BREZTRI AEROSPHERE.
-Lung function (forced expiratory volume in 1 second [FEV1] or morning peak expiratory flow [PEF]), beta-agonist use, and COPD symptoms should be carefully monitored during withdrawal of oral corticosteroids.
+Lung function (forced expiratory volume in 1 second [FEV1] or morning peak expiratory flow [PEF]), beta-agonist use, and COPD or asthma symptoms should be carefully monitored during withdrawal of oral corticosteroids.
 In addition, patients should be observed for signs and symptoms of adrenal insufficiency, such as fatigue, lassitude, weakness, nausea and vomiting, and hypotension.
 
 Unmasking of Allergic Conditions Previously Suppressed by Systemic Corticosteroids
@@ -139,32 +175,37 @@ Patients with major risk factors for decreased bone mineral content, such as pro
 Since patients with COPD often have multiple risk factors for reduced BMD, assessment of BMD is recommended prior to initiating BREZTRI AEROSPHERE and periodically thereafter.
 If significant reductions in BMD are seen and BREZTRI AEROSPHERE is still considered medically important for that patient's COPD therapy, use of therapy to treat or prevent osteoporosis should be strongly considered.
 
-In a subset of COPD patients in a 24-week trial with a 28-week safety extension that evaluated BREZTRI AEROSPHERE 320/18/9.6 mcg and GFF MDI 18/9.6 mcg, the effects on BMD endpoints were evaluated.
+In a subset of COPD patients in a 24-week trial with a 28-week safety extension that evaluated BREZTRI AEROSPHERE 320 mcg/18 mcg/9.6 mcg and GFF MDI 18 mcg/9.6 mcg, the effects on BMD endpoints were evaluated.
 BMD evaluations were performed at baseline and 52-weeks using dual energy x-ray absorptiometry (DEXA) scans.
-Mean percent changes in BMD from baseline was -0.1% for BREZTRI AEROSPHERE 320/18/9.6 mcg and 0.4% for GFF MDI 18/9.6 mcg [see Clinical Studies (14)].
+Mean percent changes in BMD from baseline was -0.1% for BREZTRI AEROSPHERE 320 mcg/18 mcg/9.6 mcg and 0.4% for GFF MDI 18 mcg/9.6 mcg [see Clinical Studies (14.1)].
 
-## 5.14 Glaucoma and Cataracts, Worsening of Narrow-Angle Glaucoma
+## 5.14 Effect on Growth
 
-Glaucoma, increased intraocular pressure, and cataracts have been reported in patients with COPD following the long-term administration of ICS or with use of inhaled anticholinergics.
+Orally inhaled corticosteroids may cause a reduction in growth velocity when administered to pediatric patients.
+Monitor the growth of pediatric patients receiving BREZTRI AEROSPHERE routinely (e.g., via stadiometry) [see Use in Specific Populations (8.4)].
+
+## 5.15 Glaucoma and Cataracts, Worsening of Narrow-Angle Glaucoma
+
+Glaucoma, increased intraocular pressure, and cataracts have been reported in patients with COPD or asthma following the long-term administration of ICS or with use of inhaled anticholinergics.
 BREZTRI AEROSPHERE should be used with caution in patients with narrow-angle glaucoma.
 Prescribers and patients should be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
 Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
 Consider referral to an ophthalmologist in patients who develop ocular symptoms or use BREZTRI AEROSPHERE long term.
 
-In a 52-week trial that evaluated BREZTRI AEROSPHERE 320/18/9.6 mcg, GFF MDI 18/9.6 mcg, and BFF MDI 320/9.6 mcg in subjects with COPD, the incidence of cataracts ranged from 0.7% to 1.0% across groups.
+In a 52-week trial that evaluated BREZTRI AEROSPHERE 320 mcg/18 mcg/9.6 mcg, GFF MDI 18 mcg/9.6 mcg, and BFF MDI 320 mcg/9.6 mcg in subjects with COPD, the incidence of cataracts ranged from 0.7% to 1.0% across groups.
 
-## 5.15 Worsening of Urinary Retention
+## 5.16 Worsening of Urinary Retention
 
 BREZTRI AEROSPHERE, like all therapies containing an anticholinergic, should be used with caution in patients with urinary retention.
 Prescribers and patients should be alert for signs and symptoms of prostatic hyperplasia or bladder-neck obstruction (e.g., difficulty passing urine, painful urination), especially in patients with prostatic hyperplasia or bladder neck obstruction.
 Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
 
-## 5.16 Coexisting Conditions
+## 5.17 Coexisting Conditions
 
 BREZTRI AEROSPHERE, like all therapies containing sympathomimetic amines, should be used with caution in patients with convulsive disorders or thyrotoxicosis and in those who are unusually responsive to sympathomimetic amines.
 Doses of the related beta2-adrenoceptor agonist albuterol, when administered intravenously, have been reported to aggravate preexisting diabetes mellitus and ketoacidosis.
 
-## 5.17 Hypokalemia and Hyperglycemia
+## 5.18 Hypokalemia and Hyperglycemia
 
 Beta-adrenergic agonists may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects.
 The decrease in serum potassium is usually transient, not requiring supplementation.

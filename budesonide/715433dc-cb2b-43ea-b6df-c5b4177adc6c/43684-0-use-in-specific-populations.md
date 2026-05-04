@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Risk Summary
+Risk Summary
 
 There are no adequate and well-controlled studies with BREZTRI AEROSPHERE or with two of its individual components, glycopyrrolate or formoterol fumarate, in pregnant women to inform a drug-associated risk; however, studies are available for the other component, budesonide.
 
@@ -15,20 +15,23 @@ Formoterol fumarate was also embryocidal, increased pup loss at birth and during
 These adverse effects generally occurred at large multiples of the MRHDID when formoterol fumarate was administered by the oral route to achieve high systemic exposures.
 No structural abnormalities, embryocidal, or developmental effects were seen in rats that received inhalation doses up to 350 times the MRHDID.
 
-Glycopyrrolate alone, administered by the subcutaneous route in rats and rabbits, did not cause structural abnormalities or affect fetal survival at exposures approximately 2700 and 5400 times from MRHDID, respectively.
-Glycopyrrolate had no effects on the physical, functional, and behavioral development of rat pups with exposures up to 2700 times the MRHDID.
+Glycopyrrolate alone, administered by the subcutaneous route in rats and rabbits, did not cause structural abnormalities or affect fetal survival at exposures approximately 1350 and 2700 times from MRHDID, respectively.
+Glycopyrrolate had no effects on the physical, functional, and behavioral development of rat pups with exposures up to 1350 times the MRHDID.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-### Clinical Considerations
+Clinical Considerations
+
+Disease-Associated Maternal and/or Embryo/Fetal risk: In women with poorly or moderately controlled asthma, there is an increased risk of several perinatal adverse outcomes such as preeclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
+Pregnant women with asthma should be closely monitored and medication adjusted as necessary to maintain optimal asthma control.
 
 Labor or Delivery: There are no well-controlled human trials that have investigated the effects of BREZTRI AEROSPHERE on preterm labor or labor at term.
 Because of the potential for beta-agonist interference with uterine contractility, use of BREZTRI AEROSPHERE during labor should be restricted to those patients in whom the benefits clearly outweigh the risks.
 
-### Data
+Data
 
-#### Human Data
+Human Data
 
 Studies of pregnant women have not shown that inhaled budesonide increases the risk of abnormalities when administered during pregnancy.
 The results from a large population-based prospective cohort epidemiological study reviewing data from three Swedish registries covering approximately 99% of the pregnancies from 1995-1997 (i.e., Swedish Medical Birth Registry; Registry of Congenital Malformations; Child Cardiology Registry) indicate no increased risk for congenital malformations from the use of inhaled budesonide during early pregnancy.
@@ -39,9 +42,9 @@ In addition, after exposure to inhaled budesonide, the number of infants born wi
 These same data were utilized in a second study bringing the total to 2,534 infants whose mothers were exposed to inhaled budesonide.
 In this study, the rate of congenital malformations among infants whose mothers were exposed to inhaled budesonide during early pregnancy was not different from the rate for all newborn babies during the same period (3.6%).
 
-#### Animal Data
+Animal Data
 
-##### Budesonide
+Budesonide
 
 In a fertility and reproduction study male rats were subcutaneously dosed for 9 weeks and females for 2 weeks prior to pairing and throughout the mating period.
 Females were dosed up until weaning of their offspring.
@@ -56,7 +59,7 @@ In a peri-and post-natal development study, rats dosed from gestation day 15 to 
 Offspring survival was reduced, and surviving offspring had decreased mean body weights at birth and during lactation at doses 0.3 times the MRHDID and higher (on a mcg/m2 basis at maternal subcutaneous doses of 20 mcg/kg/day and higher).
 These findings occurred in the presence of maternal toxicity.
 
-##### Formoterol Fumarate
+Formoterol Fumarate
 
 In a fertility and reproduction study, male rats were orally dosed for at least 9 weeks and females for 2 weeks prior to pairing and throughout the mating period.
 Females were either dosed up to gestation day 19 or up until weaning of their offspring.
@@ -75,24 +78,24 @@ In a pre- and post-natal development study, pregnant female rats received formot
 Pup survival was decreased from birth to postpartum day 26 at doses 110 times the MRHDID and higher (on a mcg/m2 basis at maternal oral doses of 210 mcg/kg/day and higher), although there was no evidence of a dose-response relationship.
 There were no treatment-related effects on the physical, functional, and behavioral development of rat pups.
 
-##### Glycopyrrolate
+Glycopyrrolate
 
-In an embryo-fetal development study in pregnant rats dosed during the period of organogenesis from gestation days 6 to 17, glycopyrrolate produced no structural abnormalities or effects on fetal survival; however, slight reductions of fetal body weight in the presence of maternal toxicity at the highest tested dose that was 2700 times the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 10,000 mcg/kg/day).
+In an embryo-fetal development study in pregnant rats dosed during the period of organogenesis from gestation days 6 to 17, glycopyrrolate produced no structural abnormalities or effects on fetal survival; however, slight reductions of fetal body weight in the presence of maternal toxicity at the highest tested dose that was 1350 times the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 10,000 mcg/kg/day).
+Fetal body weights were unaffected with doses up to 135 times the MRHDID (on a mcg/m2 basis with maternal subcutaneous doses up to 1000 mcg/kg/day).
+Maternal toxicity was observed with doses 135 times the MRHDID and higher (on a mcg/m2 basis with maternal subcutaneous doses of 1000 mcg/kg/day and higher).
+
+In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 6 to 18, glycopyrrolate produced no structural abnormalities or effects on fetal survival; however, slight reductions of fetal body weight in the presence of maternal toxicity at the highest tested dose that was 2700 times the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 10,000 mcg/kg/day).
 Fetal body weights were unaffected with doses up to 270 times the MRHDID (on a mcg/m2 basis with maternal subcutaneous doses up to 1000 mcg/kg/day).
 Maternal toxicity was observed with doses 270 times the MRHDID and higher (on a mcg/m2 basis with maternal subcutaneous doses of 1000 mcg/kg/day and higher).
 
-In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 6 to 18, glycopyrrolate produced no structural abnormalities or effects on fetal survival; however, slight reductions of fetal body weight in the presence of maternal toxicity at the highest tested dose that was 5400 times the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 10,000 mcg/kg/day).
-Fetal body weights were unaffected with doses up to 540 times the MRHDID (on a mcg/m2 basis with maternal subcutaneous doses up to 1000 mcg/kg/day).
-Maternal toxicity was observed with doses 540 times the MRHDID and higher (on a mcg/m2 basis with maternal subcutaneous doses of 1000 mcg/kg/day and higher).
-
 In a pre- and post-natal development study, pregnant female rats received glycopyrrolate at doses of 100, 1000, and 10,000 mcg/kg/day from gestation day 6 through the lactation period.
-Pup body weight gain was slightly reduced from birth through the lactation period at a dose 2700 times the MRHDID (on a mcg/m2 basis with a maternal subcutaneous dose of 10,000 mcg/kg/day); however, pup body weight gain was unaffected after weaning.
-There were no treatment-related effects on the physical, functional, and behavioral development of pups with doses up to 2700 times the MRHDID (on a mcg/m2 basis with maternal subcutaneous doses up to 10,000 mcg/kg/day).
-Maternal toxicity was observed from gestation days 6 to 18 with doses 270 times the MRHDID and higher (on a mcg/m2 basis with maternal subcutaneous doses of 1000 mcg/kg/day and higher).
+Pup body weight gain was slightly reduced from birth through the lactation period at a dose 1350 times the MRHDID (on a mcg/m2 basis with a maternal subcutaneous dose of 10,000 mcg/kg/day); however, pup body weight gain was unaffected after weaning.
+There were no treatment-related effects on the physical, functional, and behavioral development of pups with doses up to 1350 times the MRHDID (on a mcg/m2 basis with maternal subcutaneous doses up to 10,000 mcg/kg/day).
+Maternal toxicity was observed from gestation days 6 to 18 with doses 135 times the MRHDID and higher (on a mcg/m2 basis with maternal subcutaneous doses of 1000 mcg/kg/day and higher).
 
 ## 8.2 Lactation
 
-### Risk Summary
+Risk Summary
 
 There are no available data on the effects of BREZTRI AEROSPHERE, budesonide, glycopyrrolate, or formoterol fumarate on the breastfed child or on milk production.
 Budesonide, like other ICS, is present in human milk [see Data].
@@ -100,16 +103,16 @@ There are no available data on the presence of glycopyrrolate or formoterol fuma
 Formoterol fumarate and glycopyrrolate have been detected in the plasma of undosed rat pups suckling from exposed dams [see Data].
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for BREZTRI AEROSPHERE and any potential adverse effects on the breast-fed child from BREZTRI AEROSPHERE or from the underlying maternal condition.
 
-### Data
+Data
 
-#### Human Data
+Human Data
 
 Human data with budesonide delivered via dry powder inhaler indicates that the total daily oral dose of budesonide available in breast milk to the infant is approximately 0.3% to 1% of the dose inhaled by the mother.
 For BREZTRI AEROSPHERE, the dose of budesonide available to the infant in breast milk, as a percentage of the maternal dose, would be expected to be similar.
 
 There is no available human data for formoterol or glycopyrrolate.
 
-#### Animal Data
+Animal Data
 
 In the fertility and reproduction study in rats, plasma levels of formoterol were measured in pups on post-natal day 15 [see Use in Specific Populations (8.1)].
 It was estimated that the maximum plasma concentration that the pups received from the maternal animal, at the highest dose of 15 mg/kg, after nursing was 4.4% (0.24 nmol/L for a litter vs. 5.5 nmol/L for the mother).
@@ -119,14 +122,23 @@ The maximum concentration in the pups was 6% of the maternal dose of 10 mg/kg/da
 
 ## 8.4 Pediatric Use
 
-BREZTRI AEROSPHERE is not indicated for use in children.
-The safety and effectiveness of BREZTRI AEROSPHERE in pediatric patients have not been established.
+The safety and effectiveness of BREZTRI AEROSPHERE have been established for the maintenance treatment of asthma in pediatric patients 12 years of age and older.
+Use of BREZTRI AEROSPHERE for this indication is supported by evidence from two adequate and well-controlled studies (KALOS and LOGOS) in adults and pediatric patients 12 years of age and older, in which 30 pediatric patients 12 years to less than 18 years of age were treated with BREZTRI AEROSPHERE 320 mcg/36 mcg/9.6 mcg twice daily by oral inhalation [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
+
+The safety and effectiveness of BREZTRI AEROSPHERE in pediatric patients less than 12 years of age have not been established.
+
+Controlled clinical studies have shown that ICS agents, including budesonide, one of the components of BREZTRI AEROSPHERE, may cause a reduction in growth velocity in pediatric patients.
+The effects of long-term treatment of pediatric patients with ICS on final adult height are not known.
+The potential growth effects of prolonged treatment should be weighed against the clinical benefits obtained [see Warnings and Precautions (5.14)].
 
 ## 8.5 Geriatric Use
 
 Based on available data, no adjustment of the dosage of BREZTRI AEROSPHERE in geriatric patients is necessary, but greater sensitivity in some older individuals cannot be ruled out.
 
-In Trials 1 and 2, 1100 subjects and 343 subjects, respectively, aged 65 years and older were administered BREZTRI AEROSPHERE 320 mcg/18 mcg/9.6 mcg twice daily.
+In the COPD trials, ETHOS and KRONOS, 1100 subjects and 343 subjects, respectively, aged 65 years and older were administered BREZTRI AEROSPHERE 320 mcg/18 mcg/9.6 mcg twice daily [see Clinical Studies (14.1)].
+In both trials, no overall differences in safety or effectiveness were observed between these subjects and younger subjects.
+
+In the asthma trials, KALOS and LOGOS, 141 subjects and 124 subjects, respectively, aged 65 years and older were administered BREZTRI AEROSPHERE 320 mcg/36 mcg/9.6 mcg twice daily [see Clinical Studies (14.2)].
 In both trials, no overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 
 ## 8.6 Hepatic Impairment
