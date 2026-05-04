@@ -13,4 +13,4 @@ Occlusive dressings with hydrocortisone for up to 24 hours have not been demonst
 Topical corticosteroids can be absorbed from normal intact skin.
 Inflammation and/or other disease processes in the skin may increase percutaneous absorption.
 
-Studies performed with desonide ointment, 0.05% indicate that it is in the low range of potency as compared with other topical corticosteroids.
+Studies performed with desonide ointment USP, 0.05% indicate that it is in the low range of potency as compared with other topical corticosteroids.

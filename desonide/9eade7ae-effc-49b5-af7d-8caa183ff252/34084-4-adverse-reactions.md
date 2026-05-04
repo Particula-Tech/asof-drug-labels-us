@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-In controlled clinical trials, the total incidence of adverse reactions associated with the use of desonide ointment, 0.05% was approximately 6%.
+In controlled clinical trials, the total incidence of adverse reactions associated with the use of desonide ointment USP, 0.05% was approximately 6%.
 These adverse reactions were erythema, induration, pruritus, irritation, oiliness, and peripheral edema.
 
 The following additional local adverse reactions have been reported infrequently with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids.
