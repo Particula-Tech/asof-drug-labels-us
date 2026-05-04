@@ -2,12 +2,12 @@
 
 ## 7.1 Drugs Having Clinically Important Interactions with AUVELITY
 
-Table 3: Clinically Important Drug Interactions with AUVELITY
+Table 4: Clinically Important Drug Interactions with AUVELITY
 
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | --- | --- |
 | Clinical Impact | Concomitant use of AUVELITY with MAOIs increases the risk of hypertensive crisis and serotonin syndrome. |
-| Intervention | AUVELITY is contraindicated in patients taking MAOIs (including MAOIs such as linezolid or intravenous methylene blue) or in patients who have taken MAOIs within the preceding 14 days. Allow at least 14 days after stopping AUVELITY before starting an MAOI [see Dosage and Administration (2.6), Contraindications (4), Warnings and Precautions (5.3, 5.8)] |
+| Intervention | AUVELITY is contraindicated in patients taking MAOIs (including MAOIs such as linezolid or intravenous methylene blue) or in patients who have taken MAOIs within the preceding 14 days. Allow at least 14 days after stopping AUVELITY before starting an MAOI [see Dosage and Administration (2.7), Contraindications (4), Warnings and Precautions (5.3, 5.8)] |
 | Serotonergic Drugs |  |
 | Clinical Impact | Concomitant use of AUVELITY with other serotonergic drugs increases the risk of serotonin syndrome. |
 | Intervention | Monitor for symptoms of serotonin syndrome when AUVELITY is used concomitantly with other drugs that may affect the serotonergic neurotransmitter systems. If serotonin syndrome occurs, consider discontinuation of AUVELITY and/or concomitant serotonergic drug [see Dosage and Administration (2.1), Warnings and Precautions (5.8)]. |
@@ -16,7 +16,7 @@ Table 3: Clinically Important Drug Interactions with AUVELITY
 | Intervention | Use caution when administering AUVELITY concomitantly with drugs that lower the seizure threshold [see Warnings and Precautions (5.2)]. Discontinue AUVELITY and do not restart treatment if the patient experiences a seizure. |
 | Strong Inhibitors of CYP2D6 |  |
 | Clinical Impact | Concomitant use of AUVELITY with strong CYP2D6 inhibitors increases plasma concentrations of dextromethorphan. |
-| Intervention | Dosage adjustment is necessary when AUVELITY is co-administered with strong inhibitors of CYP2D6 [see Dosage and Administration (2.4)]. Monitor patients for adverse reactions potentially attributable to dextromethorphan, such as somnolence and dizziness. |
+| Intervention | Dosage adjustment is necessary when AUVELITY is co-administered with strong inhibitors of CYP2D6 [see Dosage and Administration (2.5)]. Monitor patients for adverse reactions potentially attributable to dextromethorphan, such as somnolence and dizziness. |
 | Strong Inducers of CYP2B6 |  |
 | Clinical Impact | Concomitant use of AUVELITY with strong CYP2B6 inducers decreases plasma concentrations of dextromethorphan and bupropion and may decrease efficacy of AUVELITY [see Clinical Pharmacology (12.3)]. |
 | Intervention | Avoid co-administration of AUVELITY with strong inducers of CYP2B6. Consider alternatives to strong CYP2B6 inducers if needed. |

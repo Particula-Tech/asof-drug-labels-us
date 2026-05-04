@@ -87,7 +87,8 @@ Avoid use of antidepressants, including AUVELITY, in patients with untreated ana
 ## 5.7 Dizziness
 
 AUVELITY may cause dizziness [see Adverse Reactions (6.1)].
-In controlled studies of AUVELITY, 14% of patients receiving AUVELITY and 6% of patients on placebo experienced dizziness.
+In controlled studies of AUVELITY in depression, 14% of patients receiving AUVELITY and 6% of patients on placebo experienced dizziness.
+In a short-term controlled study of AUVELITY in agitation associated with dementia due to Alzheimer’s disease, 9% of patients receiving AUVELITY and 3% of patients on placebo experienced dizziness.
 Take precautions to reduce the risk of falls, particularly for patients with motor impairment affecting gait or those with a history of falls.
 Caution patients about operating hazardous machinery, including motor vehicles, until they are reasonably certain that AUVELITY therapy does not affect them adversely.
 
@@ -112,3 +113,16 @@ Neurotoxicity findings were observed in juvenile rats treated with a combination
 The separate effect of dextromethorphan on developmental toxicity at the recommended clinical dose is unclear.
 Discontinue treatment in pregnant females and advise the patient about the potential risk to a fetus.
 Use alternative treatment for females who are planning to become pregnant [see Use in Specific Populations (8.1, 8.3)].
+
+## 5.10 Hyponatremia
+
+Hyponatremia has occurred as a result of treatment with AUVELITY.
+One case with serum sodium of 115 mmol/L was reported in a subject treated with AUVELITY in a premarketing clinical study.
+Geriatric patients may be at greater risk of developing hyponatremia.
+Hyponatremia may be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Concomitant use of Auvelity with a serotonergic antidepressant may increase the risk of hyponatremia.
+Also, patients taking diuretics or who are otherwise volume-depleted can be at greater risk.
+Discontinue AUVELITY in patients with symptomatic hyponatremia and institute appropriate medical intervention.
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
+More severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
+[see Use in Specific Populations (Section 8.5)]

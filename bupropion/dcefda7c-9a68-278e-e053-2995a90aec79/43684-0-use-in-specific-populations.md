@@ -116,11 +116,15 @@ Antidepressants, including bupropion, increase the risk of suicidal thoughts and
 
 ## 8.5 Geriatric Use
 
-Clinical studies with AUVELITY did not include patients 65 years of age and older to determine whether they respond differently than younger adult patients.
+There were 720 patients 65 years of age and older in the clinical studies of AUVELITY for agitation associated with dementia due to Alzheimer’s disease [see Clinical Studies (14.2)].
+Of the total number of AUVELITY-treated patients in these studies, 368 were 65 to less than 75 years of age, while 352 were 75 years of age and over.
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects and other reported clinical experience has not identified differences in responses between geriatric and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+AUVELITY has been associated with clinically significant hyponatremia in geriatric patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.10)].
 
 ## 8.6 Renal Impairment
 
-Dosage adjustment of AUVELITY is recommended in patients with moderate renal impairment (eGFR 30 to 59 mL/minute/1.73 m2) [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
+Dosage adjustment of AUVELITY is recommended in patients with moderate renal impairment (eGFR 30 to 59 mL/minute/1.73 m2) [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 The pharmacokinetics of AUVELITY have not been evaluated in patients with severe renal impairment.
 AUVELITY is not recommended in patients with severe renal impairment (eGFR 15 to 29 mL/minute/1.73 m2).
 
@@ -131,4 +135,4 @@ The pharmacokinetics of AUVELITY have not been evaluated in patients with severe
 
 ## 8.8 CYP2D6 Poor Metabolizers
 
-Dosage adjustment is recommended in patients known to be poor CYP2D6 metabolizers because these patients have higher dextromethorphan concentrations than extensive/intermediate CYP2D6 metabolizers [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
+Dosage adjustment is recommended in patients known to be poor CYP2D6 metabolizers because these patients have higher dextromethorphan concentrations than extensive/intermediate CYP2D6 metabolizers [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].

@@ -3,10 +3,10 @@
 ## 12.1 Mechanism of Action
 
 Dextromethorphan is an uncompetitive antagonist of the NMDA receptor (an ionotropic glutamate receptor) and a sigma-1 receptor agonist.
-The mechanism of dextromethorphan in the treatment of MDD is unclear.
+The mechanism of dextromethorphan in the treatment of MDD and agitation associated with dementia due to Alzheimer’s disease is unclear.
 
-The mechanism of action of bupropion in the treatment of MDD is unclear; however, it may be related to noradrenergic and/or dopaminergic mechanisms.
 Bupropion increases plasma levels of dextromethorphan by competitively inhibiting cytochrome P450 2D6, which catalyzes a major biotransformation pathway for dextromethorphan.
+The mechanism of action of bupropion in the treatment of MDD is unclear; however, it may be related to noradrenergic and/or dopaminergic mechanisms.
 Bupropion is a relatively weak inhibitor of the neuronal reuptake of norepinephrine and dopamine and does not inhibit monoamine oxidase or the reuptake of serotonin.
 
 ## 12.2 Pharmacodynamics
@@ -22,7 +22,7 @@ Bupropion inhibits the metabolism of dextromethorphan via CYP2D6.
 Dextromethorphan when co-administered with bupropion displays nonlinear pharmacokinetics at steady state, with greater than dose-proportional changes in AUC and Cmax for varying doses of dextromethorphan [60 to 120 mg (0.67-1.33 times the maximum recommended dose of AUVELITY)] and less than dose-proportional changes for varying doses of bupropion [150 to 300 mg (0.71-1.43 times the maximum recommended dose of AUVELITY)].
 
 Steady state plasma concentrations of dextromethorphan and bupropion when given as AUVELITY are achieved within 8 days.
-The accumulation ratios for dextromethorphan at steady state when given as AUVELITY are 20 and 32, respectively based on Cmax and AUC0- 12, compared to 1.3 and 1.4, respectively, for dextromethorphan given without bupropion.
+The accumulation ratios for dextromethorphan at steady state when given as AUVELITY are 20 and 32, respectively based on Cmax and AUC0‑12, compared to 1.3 and 1.4, respectively, for dextromethorphan given without bupropion.
 The accumulation ratios for bupropion at steady state are 1.1 and 1.5, respectively based on Cmax and AUC0-12.
 
 Absorption
@@ -57,7 +57,7 @@ Bupropion is extensively metabolized with three active metabolites: hydroxybupro
 In vitro findings suggest that CYP2B6 is the principal isoenzyme involved in the formation of hydroxybupropion, while cytochrome P450 enzymes are not involved in the formation of threohydroxybupropion.
 Oxidation of the bupropion side chain results in the formation of a glycine conjugate of meta-chlorobenzoic acid, which is then excreted as the major urinary metabolite.
 The potency and toxicity of the metabolites relative to bupropion have not been fully characterized.
-However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one-half as potent as bupropion, while threohydroxybupropion and erythrohydroxybupropion are 5-fold less potent than bupropion.
+However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one-half as potent as bupropion, while threohydroxybupropion and erythrohydroxybupropion are 5‑fold less potent than bupropion.
 
 Excretion
 
@@ -73,7 +73,10 @@ Specific Populations
 
 Geriatric Patients
 
-The pharmacokinetics of AUVELITY have not been studied in patients 65 years or older.
+An open-label, multiple-dose study was conducted to evaluate the pharmacokinetics of AUVELITY at the maximum recommended dose at steady-state in 18 healthy geriatric (aged 65 to 85 years) and 10 healthy adult (aged 18 to 45 years) subjects.
+Following oral administration of AUVELITY, steady state was reached by Day 8 for dextromethorphan, bupropion, and all assessed metabolites, and their exposures, as measured by AUC and Cmax, were generally comparable between the geriatric and young adult age groups on Day 1, and on Day 8.
+
+The geometric mean ratios and 90% confidence intervals (CIs) of pharmacokinetic parameters (Cmax and AUC) of dextromethorphan and bupropion following administration of AUVELITY in healthy geriatric (age 65 to 85) and healthy adult (aged 18 to 45) subjects are summarized in Figure 1.
 
 Pediatric Patients
 
@@ -85,13 +88,12 @@ No significant pharmacokinetic differences based on sex and race have been obser
 
 Patients with Renal Impairment, Patients with Hepatic Impairment, and CYP2D6 Poor Metabolizers
 
-The effects of renal impairment, hepatic impairment, and CYP2D6 poor metabolizer status on the exposure to AUVELITY are summarized in Figure 1 [see Dosage and Administration (2.3, 2.5)].
+The effects of renal impairment, hepatic impairment, and CYP2D6 poor metabolizer status on the exposure to AUVELITY are summarized in Figure 1 [see Dosage and Administration (2.4, 2.6)].
 
-Figure 1 Effects of Renal Impairment, Hepatic Impairment, and CYP2D6 Poor Metabolizer Status on AUVELITY PK
+Figure 1: Effects of Age, Renal Impairment, Hepatic Impairment, and CYP2D6 Poor Metabolizer Status on AUVELITY PK
 
 Results are based on plasma concentrations of AUVELITY after 8 days of twice daily dosing.
-Data are GMRs and 90% CIs.
-Reference = matched healthy subjects for renal and hepatic impairment studies, and extensive or ultra-extensive CYP2D6 metabolizers.
+Reference = healthy adults 18-45 years of age for the geriatric study, matched healthy subjects for renal and hepatic impairment studies, and extensive or ultra-extensive CYP2D6 metabolizers.
 AUC = area under the plasma concentration-time curve from zero to 12 hours; BUP = bupropion; CI = confidence interval; Cmax = maximum plasma concentration; DM = dextromethorphan; GMRs = geometric mean ratios; PK = pharmacokinetics.
 
 Drug Interaction Studies
@@ -109,9 +111,9 @@ Dextromethorphan does not inhibit transporters at therapeutically relevant conce
 
 In Vivo Assessment of Drug Interactions
 
-The effects of other drugs on the exposure to AUVELITY are summarized in Figure 2 [see Dosage and Administration (2.4)].
+The effects of other drugs on the exposure to AUVELITY are summarized in Figure 2 [see Dosage and Administration (2.5)].
 
-Figure 2 Effects of Co-administered Compounds on AUVELITY PK
+Figure 2: Effects of Co-administered Compounds on AUVELITY PK
 
 Results are based on steady state plasma concentrations of twice daily dosing of AUVELITY.
 Data are GMRs and 90% CIs.

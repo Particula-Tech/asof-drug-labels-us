@@ -33,4 +33,4 @@ Ensure an adequate airway, oxygenation, and ventilation.
 Monitor cardiac rhythm and vital signs.
 Induction of emesis is not recommended.
 
-Consider contacting a Poison Center (1-800-222-1222) or a medical toxicologist for overdosage management recommendations for AUVELITY.
+Consider contacting a Poison Help Line (1-800-222-1222) or a medical toxicologist for overdosage management recommendations for AUVELITY.

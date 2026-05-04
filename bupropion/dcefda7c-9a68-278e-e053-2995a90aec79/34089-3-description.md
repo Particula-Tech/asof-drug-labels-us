@@ -15,5 +15,6 @@ The structural formula is:
 Bupropion hydrochloride powder is white and highly soluble in water.
 
 AUVELITY is for oral administration and is available as round bilayer tablets.
-Each tablet contains 45 mg dextromethorphan hydrobromide (equivalent to 32.98 mg dextromethorphan base) in an immediate-release formulation and 105 mg bupropion hydrochloride (equivalent to 91.14 mg bupropion base) in an extended-release formulation.
-Each tablet contains the following inactive ingredients: carbomer homopolymer, colloidal silicon dioxide, crospovidone, glyceryl monocaprylocaprate, l-cysteine hydrochloride monohydrate, magnesium stearate, microcrystalline cellulose, polyvinyl alcohol, red iron oxide, sodium lauryl sulfate, stearic acid, talc, titanium dioxide, and yellow iron oxide.
+Each tablet contains either 30 mg or 45 mg dextromethorphan hydrobromide (equivalent to 21.99 and 32.98 mg, respectively, dextromethorphan base) in an immediate-release formulation and 105 mg bupropion hydrochloride (equivalent to 91.14 mg bupropion base) in an extended-release formulation.
+Each tablet contains the following inactive ingredients: carbomer homopolymer, colloidal silicon dioxide, crospovidone, glyceryl monocaprylocaprate, l-cysteine hydrochloride monohydrate, magnesium stearate, microcrystalline cellulose, polyvinyl alcohol, sodium lauryl sulfate, stearic acid, talc, and titanium dioxide.
+Beige tablets additionally contain red iron oxide and yellow iron oxide.

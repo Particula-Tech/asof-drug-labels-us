@@ -51,13 +51,17 @@ Advise pregnant females and females of reproductive potential of the potential r
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with AUVELITY.
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AUVELITY during pregnancy [see Use in Specific Populations (8.1)].
 
+Hyponatremia
+
+Advise patients that if they are treated with diuretics, or are otherwise volume depleted, or are elderly, they may be at greater risk of developing hyponatremia while taking AUVELITY [see Warnings and Precautions (5.10)].
+
 Lactation
 
 Advise patients not to breastfeed during treatment with AUVELITY and for 5 days after the final dose [see Use in Specific Populations (8.2)].
 
 Administration Information
 
-Advise patients not to take more than two tablets in the same day and to allow at least an 8-hour interval between doses [see Dosage and Administration (2.2)].
+Advise patients not to take more than two tablets in the same day and to allow at least an 8-hour interval between doses [see Dosage and Administration (2.2, 2.3)].
 
 Drug Interactions
 
@@ -75,16 +79,18 @@ Advise patients to inform their healthcare provider of all the medications that 
 Dextromethorphan-Containing Products
 
 Inform patients that AUVELITY contains dextromethorphan which is an active ingredient in medications for other uses.
-Advise patients to inform their healthcare provider of all the medications that they are taking, including other dextromethorphan-containing products [see Dosage and Administration (2.1), Warnings and Precautions (5.5, 5.8), Drug Interactions (7.1)].
+Advise patients to inform their healthcare provider of all the medications that they are taking, including other dextromethorphan-containing products [see Dosage and Administration (2.1), Warnings and Precautions (5.5, 5.8)Drug Interactions (7.1)].
 
 Distributed by:
 
-Axsome Therapeutics, Inc. New York, NY 10007
+Axsome Therapeutics, Inc.
+
+New York, NY 10007
 
 AXSOME THERAPEUTICS and AUVELITY are trademarks or registered trademarks of Axsome Therapeutics, Inc. in the United States and other countries.
 
 For patent information: www.axsome.com/IP
 
-©2025 Axsome Therapeutics, Inc. All rights reserved.
+©2026 Axsome Therapeutics, Inc. All rights reserved.
 
-AUV-USPI-003.000-20251119
+AUV-USPI-004.000-20260429
