@@ -183,19 +183,16 @@ Table 10: Efficacy Results from APHINITY
 | Number (%) of patients with event | 171 (7.1%) | 210 (8.7%) |
 | HR [95% CI] All analyses stratified by nodal status, protocol version, central hormone receptor status, and adjuvant chemotherapy regimen. Stratification factors are defined according to the randomization data for IDFS. | 0.82 [0.67, 1.00] |  |
 | p-value (Log-Rank test, stratified) | 0.047 |  |
-| 3 year event-free rate3-year event-free rate derived from Kaplan-Meier estimates, % [95% CI] | 94.1 [93.1, 95.0] | 93.2 [92.2, 94.3] |
+| 3 year event-free rate3-year event-free rate derived from Kaplan-Meier estimates., % [95% CI] | 94.1 [93.1, 95.0] | 93.2 [92.2, 94.3] |
 | IDFS including second primary non-breast cancer |  |  |
 | Number (%) of patients with event | 189 (7.9%) | 230 (9.6%) |
 | HR [95% CI] | 0.83 [0.68, 1.00] |  |
-| 3 year event-free rate, % [95% CI] | 93.5 [92.5, 94.5] | 92.5 [91.4, 93.6] |
 | Disease Free Survival (DFS) |  |  |
 | Number (%) of patients with event | 192 (8.0%) | 236 (9.8%) |
 | HR [95% CI] | 0.82 [0.68, 0.99] |  |
-| 3 year event-free rate, % [95% CI] | 93.4 [92.4, 94.4] | 92.3 [91.2, 93.4] |
-| Overall Survival (OS)Data from first interim analysis |  |  |
-| Number (%) of patients with event | 80 (3.3%) | 89 (3.7%) |
-| HR [95% CI] | 0.89 [0.66, 1.21] |  |
-| 3 year event-free rate, % [95% CI] | 97.7 [97.0, 98.3] | 97.7 [97.1, 98.3] |
+| Overall Survival (OS)Data from final analysis of OS prespecified after 10-year follow-up since the last randomized patient completed study treatment |  |  |
+| Number (%) of patients with event | 205 (8.5%) | 247 (10.3%) |
+| HR [95% CI] | 0.83 [0.69, 1.00] |  |
 | HR=Hazard Ratio, CI=Confidence Interval |  |  |
 
 Figure 3 Kaplan-Meier Curve of Invasive Disease Free Survival from APHINITY (ITT Population)
