@@ -45,46 +45,46 @@ Table 1: Adverse Reactions Reported by 2% or More of Adults Taking MYDAYIS and a
 | Body System | Adverse Reaction | MYDAYISIncludes doses up to 75 mg (1.5 times the maximum recommended dosage). (N = 626) | Placebo (N = 328) |
 | --- | --- | --- | --- |
 | Nervous System |  |  |  |
-|  | Anxiety | 7% | 3% |
-|  | Feeling Jittery | 2% | 1% |
-|  | Agitation | 2% | 0% |
-|  | Bruxism | 2% | 0% |
+| - | Anxiety | 7% | 3% |
+| - | Feeling Jittery | 2% | 1% |
+| - | Agitation | 2% | 0% |
+| - | Bruxism | 2% | 0% |
 | Psychiatric Disorders |  |  |  |
-|  | Insomnia | 31% | 8% |
-|  | Depression | 3% | 0% |
+| - | Insomnia | 31% | 8% |
+| - | Depression | 3% | 0% |
 | Metabolism and Nutritional Disorders |  |  |  |
-|  | Decreased Appetite | 30% | 4% |
-|  | Weight Decreased | 9% | 0% |
+| - | Decreased Appetite | 30% | 4% |
+| - | Weight Decreased | 9% | 0% |
 | Gastrointestinal System |  |  |  |
-|  | Dry Mouth | 23% | 4% |
-|  | Diarrhea | 3% | 1% |
+| - | Dry Mouth | 23% | 4% |
+| - | Diarrhea | 3% | 1% |
 | Cardiovascular System |  |  |  |
-|  | Heart Rate Increased | 9% | 0% |
-|  | Palpitations | 4% | 2% |
+| - | Heart Rate Increased | 9% | 0% |
+| - | Palpitations | 4% | 2% |
 | Genitourinary System |  |  |  |
-|  | DysmenorrheaDysmenorrhea was observed in 11 females. | 4% | 2% |
-|  | Erectile DysfunctionErectile dysfunction was observed in 6 males. | 2% | 1% |
+| - | DysmenorrheaDysmenorrhea was observed in 11 females. | 4% | 2% |
+| - | Erectile DysfunctionErectile dysfunction was observed in 6 males. | 2% | 1% |
 
-Adverse Reactions Occurring at an Incidence of 2% or More and at Least Twice Placebo Among MYDAYIS-Treated Adolescents (13 to 17 years) in a 4 Week Clinical Trial
+Adverse Reactions Occurring at an Incidence of 2% or More and at Least Twice Placebo Among MYDAYIS-Treated Adolescents (13 to 17 years) in a 4-Week Clinical Trial
 
 The most common adverse reactions reported in adolescents were decreased appetite, nausea, insomnia, abdominal pain upper, irritability, and weight decreased.
 Table 2 lists the adverse reactions that occurred ≥2% compared to placebo.
 
-Table 2: Adverse Reactions Reported by ≥2% or More of Adolescents Taking MYDAYIS and at Least Twice the Incidence in Patients Taking Placebo in a 4 Week Clinical Trial
+Table 2: Adverse Reactions Reported by ≥2% or More of Adolescents Taking MYDAYIS and at Least Twice the Incidence in Patients Taking Placebo in a 4-Week Clinical Trial
 
 | Body System | Adverse Reaction | MYDAYIS (N = 78) | Placebo (N = 79) |
 | --- | --- | --- | --- |
 | Nervous System |  |  |  |
-|  | Dizziness | 4% | 0% |
+| - | Dizziness | 4% | 0% |
 | Metabolism and Nutrition Disorders |  |  |  |
-|  | Decreased appetite | 22% | 6% |
-|  | Weight decreased | 5% | 1% |
+| - | Decreased appetite | 22% | 6% |
+| - | Weight decreased | 5% | 1% |
 | Psychiatric Disorders |  |  |  |
-|  | Irritability | 6% | 3% |
-|  | InsomniaInsomnia includes terms: initial insomnia, middle insomnia, terminal insomnia and insomnia. | 8% | 3% |
+| - | Irritability | 6% | 3% |
+| - | InsomniaInsomnia includes terms: initial insomnia, middle insomnia, terminal insomnia and insomnia. | 8% | 3% |
 | Gastrointestinal Disorders |  |  |  |
-|  | Nausea | 8% | 4% |
-|  | Abdominal pain upper | 4% | 1% |
+| - | Nausea | 8% | 4% |
+| - | Abdominal pain upper | 4% | 1% |
 
 ## 6.2 Adverse Reactions Associated with the Use of Amphetamines
 

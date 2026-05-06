@@ -10,7 +10,7 @@ Adult Patients (18 to 55 years) with ADHD
 The approved adult doses, 12.5 mg, 25 mg, and 37.5 mg are based on Studies 1 and 3 and the 50 mg dose efficacy is based on Study 2.
 Doses up to 75 mg per day (1.5 times the maximum recommended adult dosage) were evaluated, but demonstrated no additional clinical benefit.
 
-A 4 week, randomized, double-blind, multicenter, placebo-controlled, forced-dose titration, safety and efficacy study (Study 1) was conducted in adults aged 18 to 55 years (N=275) who met DSM-5 criteria for ADHD.
+A 4-week, randomized, double-blind, multicenter, placebo-controlled, forced-dose titration, safety and efficacy study (Study 1) was conducted in adults aged 18 to 55 years (N=275) who met DSM-5 criteria for ADHD.
 Patients were randomized in a 1:1:1 ratio, to two MYDAYIS treatment groups and a placebo group.
 Group 1 received a dose of 12.5 mg/day throughout the study.
 Group 2 were titrated on a weekly basis from the initial dose 12.5 mg until target dose of 37.5 mg/day was reached by Week 3 and were maintained at 37.5 mg throughout the study.
@@ -31,7 +31,7 @@ In a prespecified supplementary analysis for Study 2, the maximum approved dose 
 
 Pediatric Patients (13 to 17 years) with ADHD
 
-A 4 week, randomized, double-blind, multicenter, placebo-controlled, dose-optimization, safety and efficacy study (Study 4) was conducted.
+A 4-week, randomized, double-blind, multicenter, placebo-controlled, dose-optimization, safety and efficacy study (Study 4) was conducted.
 In Study 4, the 157 pediatric patients 13 to 17 years old who met DSM-IV TR criteria for ADHD, were randomized in a 1:1 ratio to MYDAYIS or placebo group.
 Subjects were titrated from a dose of 12.5 mg/day until an optimal dose was reached (up to a maximum dose of 25 mg); this dose was maintained during the dose-maintenance period (Study 4 in Table 4).
 

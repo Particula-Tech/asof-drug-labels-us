@@ -8,7 +8,7 @@ DSM-IV-TR is a registered trademark of the American Psychiatric Association.
 
 OPADRY is a registered trademark of BPSI Holdings, LLC.
 
-© 2025 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
+©2026 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
 
 Patented: see www.takeda.com/en-us/patents.
 

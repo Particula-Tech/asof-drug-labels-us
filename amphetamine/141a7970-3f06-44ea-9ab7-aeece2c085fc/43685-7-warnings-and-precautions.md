@@ -46,7 +46,7 @@ If such symptoms occur, consider discontinuing MYDAYIS.
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 
-In a 4 week, placebo-controlled trial of MYDAYIS in patients ages 6 to 17 years old with ADHD, there was a decrease in weight in the MYDAYIS groups compared to weight gain in the placebo group [see Adverse Reactions (6.1)].
+In a 4-week, placebo-controlled trial of MYDAYIS in patients ages 6 to 17 years old with ADHD, there was a decrease in weight in the MYDAYIS groups compared to weight gain in the placebo group [see Adverse Reactions (6.1)].
 
 Closely monitor growth (weight and height) in MYDAYIS-treated pediatric patients.
 Pediatric patients who are not growing or gaining weight as expected may need to have their treatment interrupted.

@@ -1,6 +1,6 @@
 # WARNING: ABUSE, MISUSE, AND ADDICTION
 
-MYDAYIS has a high potential for abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
+MYDAYIS® has a high potential for abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
 Misuse and abuse of CNS stimulants, including MYDAYIS, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
 Before prescribing MYDAYIS, assess each patient’s risk for abuse, misuse, and addiction.

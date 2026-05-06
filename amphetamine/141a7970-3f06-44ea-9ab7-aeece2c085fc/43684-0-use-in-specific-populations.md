@@ -102,4 +102,4 @@ Due to reduced clearance of amphetamine in patients with severe renal insufficie
 Pediatric patients ages 13 to 17 years with severe renal insufficiency can be given the recommended starting dose if tolerated, but the dose should not be escalated.
 MYDAYIS is not recommended in patients with ESRD (GFR <15 mL/min/1.73 m2) [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].
 
-d-Amphetamine is not dialyzable.
+D-amphetamine is not dialyzable.
