@@ -1,6 +1,6 @@
 # SINGLE-DOSE PEN INSTRUCTIONS FOR USE
 
-| INSTRUCTIONS FOR USE ZEPBOUNDTM (ZEHP-bownd) (tirzepatide) injection, for subcutaneous use 2.5 mg/0.5 mL single-dose pen 5 mg/0.5 mL single-dose pen 7.5 mg/0.5 mL single-dose pen 10 mg/0.5 mL single-dose pen 12.5 mg/0.5 mL single-dose pen 15 mg/0.5 mL single-dose pen use 1 time each week |
+| INSTRUCTIONS FOR USE ZEPBOUND® (ZEHP-bownd) (tirzepatide) injection, for subcutaneous use 2.5 mg/0.5 mL single-dose pen 5 mg/0.5 mL single-dose pen 7.5 mg/0.5 mL single-dose pen 10 mg/0.5 mL single-dose pen 12.5 mg/0.5 mL single-dose pen 15 mg/0.5 mL single-dose pen use 1 time each week |
 | --- |
 
 Important information you need to know before injecting ZEPBOUND
@@ -70,9 +70,8 @@ Disposing of your used pen
 Storage and handling
 
 - Store your pen in the refrigerator between 36°F to 46°F (2°C to 8°C).
-- You may store your pen at room temperature up to 86°F (30°C) for up to 21 days.
-  If you store the pen at room temperature, do not return the pen to the refrigerator.
-- Discard the pen if not used within 21 days after removing from the refrigerator.
+- You may store your pen at room temperature up to 86°F (30°C) for up to a total of 21 days.
+- Discard the pen after a total of 21 days at room temperature.
 - Do not freeze your pen.
   If the pen has been frozen, throw the pen away and use a new pen.
 - Store your pen in the original carton to protect your pen from light.
@@ -138,15 +137,15 @@ Where to learn more
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
-ZEPBOUND is a trademark of Eli Lilly and Company.
+ZEPBOUND is a registered trademark of Eli Lilly and Company.
 
-Copyright © 2023, Eli Lilly and Company.
+Copyright © 2023, 2026, Eli Lilly and Company.
 All rights reserved.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: November 2023
+Revised: April 2026
 
-ZEP-0002-PEN-IFU-20231109
+ZEP-0003-PEN-IFU-20260422
 
 # SINGLE-DOSE VIAL INSTRUCTIONS FOR USE
 
@@ -230,7 +229,7 @@ Injecting ZEPBOUND
 | --- | --- |
 | Step 14: Insert the needle into your skin. |  |
 | Step 15: Push down on the plunger to inject your dose. The needle should stay in your skin for at least 5 seconds to make sure you have injected all of your dose. |  |
-| Step 16: Pull the needle out of your skin. If you see blood after you take the needle out of your skin, press the injection site with a piece of gauze or an alcohol swab. Do not rub the area. Do not recap the needle. Recapping the needle can lead to a needle stick injury. |  |
+| Step 16: Pull the needle out of your skin. If you see blood after you take the needle out of your skin, press the injection site with a piece of gauze. Do not rub the area. Do not recap the needle. Recapping the needle can lead to a needle stick injury. |  |
 
 Disposing of used needles and syringes
 
@@ -251,7 +250,8 @@ Disposing of used needles and syringes
 Storing ZEPBOUND
 
 - Store all unopened vials in the refrigerator at 36°F to 46°F (2°C to 8°C).
-- You may store the unopened vial at room temperature up to 86°F (30°C) for up to 21 days.
+- You may store the unopened vial at room temperature up to 86°F (30°C) for up to a total of 21 days.
+- Discard the vial after a total of 21 days at room temperature.
 - Do not freeze.
   Do not use if ZEPBOUND has been frozen.
 - Store the vial in the original carton to protect from light.
@@ -265,14 +265,14 @@ Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 ZEPBOUND is a registered trademark of Eli Lilly and Company.
 
-Copyright © 2024, Eli Lilly and Company.
+Copyright © 2024, 2026, Eli Lilly and Company.
 All rights reserved.
 
-ZEP-0001-VL-IFU-20240328
+ZEP-0002-VL-IFU-20260422
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Issued: March 2024
+Revised: April 2026
 
 # MULTIPLE-DOSE VIAL INSTRUCTIONS FOR USE
 
