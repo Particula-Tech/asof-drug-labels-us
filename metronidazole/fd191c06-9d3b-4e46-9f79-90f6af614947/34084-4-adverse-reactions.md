@@ -17,7 +17,7 @@ HEPATOBILIARY DISORDERS: Hepatotoxicity and liver failure especially in patients
 CARDIOVASCULAR: QT prolongation has been reported, particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval.
 Flattening of the T-wave may be seen in electrocardiographic tracings.
 
-SKIN AND SUBCUTANEOUS DISORDERS: Toxic epidermal necrolysis, Stevens-Johnson syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), erythematous rash, bullae, pruritus, swelling face, urticaria, and hyperhidrosis.
+SKIN AND SUBCUTANEOUS DISORDERS: Toxic epidermal necrolysis, Stevens-Johnson syndrome, Fixed drug eruption, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), erythematous rash, bullae, pruritus, swelling face, urticaria, and hyperhidrosis.
 
 CENTRAL NERVOUS SYSTEM: Encephalopathy, aseptic meningitis, convulsive seizures, optic neuropathy, peripheral neuropathy (mainly numbness or paresthesia of an extremity), dizziness, vertigo, incoordination, ataxia, confusion, psychosis, dysarthria, irritability, depression, weakness, headache, tinnitus, hearing impairment, hearing loss, and insomnia.
 

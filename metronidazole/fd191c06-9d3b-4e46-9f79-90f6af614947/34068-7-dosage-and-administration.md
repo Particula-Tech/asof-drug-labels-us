@@ -29,7 +29,7 @@ Table 2: Recommended Dosage Schedule for the Treatment of Intra-Abdominal Infect
 | --- | --- | --- | --- |
 | 23 - < 34 | 15 | 7.5 | 12 |
 | 34 – 40 | 15 | 7.5 | 8 |
-| >40 – 48 | 15 | 7.5 | 6 |
+| > 40 – 48 | 15 | 7.5 | 6 |
 
 *The first maintenance dose is given 24 hours after the start of the loading dose.
 
