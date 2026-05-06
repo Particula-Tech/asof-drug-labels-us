@@ -20,9 +20,9 @@ Distributed by: AbbVie Inc., North Chicago, IL 60064
 
 Licensed from Merz Pharma GmbH & Co. KGaA and Adamas Pharmaceuticals, Inc.
 
-NAMZARIC is a trademark of Merz Pharma GmbH & Co. KGaA.
+NAMZARIC and its design are trademarks of Merz Pharma GmbH & Co. KGaA.
 
 © 2026 AbbVie.
 All rights reserved.
 
-20098490-R1
+20098490-R2
