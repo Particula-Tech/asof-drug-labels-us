@@ -96,4 +96,4 @@ ADDERALL XR has not been studied in the geriatric population.
 Due to reduced clearance of amphetamines in patients with severe renal impairment (GFR 15 to <30 mL/min/1.73 m2), the recommended dose should be reduced.
 ADDERALL XR is not recommended in patients with ESRD (GFR <15 mL/min/1.73 m2) [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].
 
-d-Amphetamine is not dialyzable.
+D-amphetamine is not dialyzable.

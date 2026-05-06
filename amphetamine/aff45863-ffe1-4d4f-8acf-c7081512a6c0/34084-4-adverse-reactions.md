@@ -34,15 +34,15 @@ In two placebo-controlled studies of up to 5 weeks duration among children with 
 The most frequent adverse reactions leading to discontinuation of ADDERALL XR in controlled and uncontrolled, multiple-dose clinical trials of children (N=595) were anorexia (loss of appetite) (2.9%), insomnia (1.5%), weight loss (1.2%), emotional lability (1%), and depression (0.7%).
 Over half of these patients were exposed to ADDERALL XR for 12 months or more.
 
-In a separate placebo-controlled 4 week study in adolescents with ADHD, five patients (2.1%) discontinued treatment due to adverse events among ADDERALL XR-treated patients (N=233) compared to none who received placebo (N=54).
+In a separate placebo-controlled 4-week study in adolescents with ADHD, five patients (2.1%) discontinued treatment due to adverse events among ADDERALL XR-treated patients (N=233) compared to none who received placebo (N=54).
 The most frequent adverse event leading to discontinuation and considered to be drug-related (i.e., leading to discontinuation in at least 1% of ADDERALL XR-treated patients and at a rate at least twice that of placebo) was insomnia (1.3%, n=3).
 
-In one placebo-controlled 4 week study among adults with ADHD with doses 20 to 60 mg, 23 patients (12.0%) discontinued treatment due to adverse events among ADDERALL XR-treated patients (N=191) compared to one patient (1.6%) who received placebo (N=64).
+In one placebo-controlled 4-week study among adults with ADHD with doses 20 to 60 mg, 23 patients (12.0%) discontinued treatment due to adverse events among ADDERALL XR-treated patients (N=191) compared to one patient (1.6%) who received placebo (N=64).
 The most frequent adverse events leading to discontinuation and considered to be drug-related (i.e., leading to discontinuation in at least 1% of ADDERALL XR-treated patients and at a rate at least twice that of placebo) were insomnia (5.2%, n=10), anxiety (2.1%, n=4), nervousness (1.6%, n=3), dry mouth (1.6%, n=3), anorexia (1.6%, n=3), tachycardia (1.6%, n=3), headache (1.6%, n=3), and asthenia (1.0%, n=2).
 
 Adverse Reactions Occurring in Controlled Trials
 
-Adverse reactions reported in a 3 week clinical trial of children and a 4 week clinical trial in adolescents and adults, respectively, treated with ADDERALL XR or placebo are presented in the tables below.
+Adverse reactions reported in a 3-week clinical trial of children and a 4-week clinical trial in adolescents and adults, respectively, treated with ADDERALL XR or placebo are presented in the tables below.
 
 Table 1: Adverse Reactions Reported by 2% or More of Children (6 to 12 Years Old) Receiving ADDERALL XR with Higher Incidence than on Placebo in a 584 Patient Clinical Study
 
@@ -78,17 +78,17 @@ Table 3: Adverse Reactions Reported by 5% or More of Adults Receiving ADDERALL X
 
 Hypertension
 
-In a controlled 4 week outpatient clinical study of adolescents with ADHD, isolated systolic blood pressure elevations ≥15 mmHg were observed in 7/64 (11%) placebo-treated patients and 7/100 (7%) patients receiving ADDERALL XR 10 or 20 mg.
+In a controlled 4-week outpatient clinical study of adolescents with ADHD, isolated systolic blood pressure elevations ≥15 mmHg were observed in 7/64 (11%) placebo-treated patients and 7/100 (7%) patients receiving ADDERALL XR 10 or 20 mg.
 Isolated elevations in diastolic blood pressure ≥8 mmHg were observed in 16/64 (25%) placebo-treated patients and 22/100 (22%) ADDERALL XR-treated patients.
 Similar results were observed at higher doses [see Warnings and Precautions (5.2)].
 
 In a single-dose pharmacokinetic study in 23 adolescents with ADHD, isolated increases in systolic blood pressure (above the upper 95% CI for age, gender, and stature) were observed in 2/17 (12%) and 8/23 (35%), subjects administered 10 and 20 mg ADDERALL XR, respectively.
 Higher single doses were associated with a greater increase in systolic blood pressure.
-All increases were transient, appeared maximal at 2 to 4 hours postdose and, not associated with symptoms.
+All increases were transient, appeared maximal at 2 to 4 hours postdose and not associated with symptoms.
 
-## 6.2 Adverse Reactions Associated with the Use of Amphetamine, ADDERALL XR, or Adderall
+## 6.2 Adverse Reactions Associated with the Use of Amphetamine, ADDERALL XR, or ADDERALL
 
-The following adverse reactions have been identified during postapproval use of amphetamine, ADDERALL XR, or Adderall.
+The following adverse reactions have been identified during postapproval use of amphetamine, ADDERALL XR, or ADDERALL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Allergic: Urticaria, rash, hypersensitivity reactions including angioedema and anaphylaxis.

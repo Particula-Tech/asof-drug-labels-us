@@ -11,16 +11,16 @@ Amphetamines block the reuptake of norepinephrine and dopamine into the presynap
 
 ## 12.3 Pharmacokinetics
 
-Pharmacokinetic studies of ADDERALL XR have been conducted in healthy adult and pediatric (children aged 6 to 12 yrs) subjects, adolescent (13 to 17 yrs), and children with ADHD.
-Both Adderall (immediate-release) tablets and ADDERALL XR extended-release capsules contain d-amphetamine and l-amphetamine salts in the ratio of 3:1.
-Following administration of Adderall (immediate-release), the peak plasma concentrations occurred in about 3 hours for both d-amphetamine and l-amphetamine.
+Pharmacokinetic studies of ADDERALL XR have been conducted in healthy adult and pediatric (children aged 6 to 12 years) subjects, adolescent (13 to 17 years), and children with ADHD.
+Both ADDERALL (immediate-release) tablets and ADDERALL XR extended-release capsules contain d-amphetamine and l-amphetamine salts in the ratio of 3:1.
+Following administration of ADDERALL (immediate-release), the peak plasma concentrations occurred in about 3 hours for both d-amphetamine and l-amphetamine.
 
-The time to reach maximum plasma concentration (Tmax) for ADDERALL XR is about 7 hours, which is about 4 hours longer compared to Adderall (immediate-release).
+The time to reach maximum plasma concentration (Tmax) for ADDERALL XR is about 7 hours, which is about 4 hours longer compared to ADDERALL (immediate-release).
 This is consistent with the extended-release nature of the product.
 
-Figure 1: Mean d-amphetamine and l-amphetamine Plasma Concentrations Following Administration of ADDERALL XR 20 mg (8 am) and Adderall (immediate-release) 10 mg Twice Daily (8 am and 12 noon) in the Fed State.
+Figure 1: Mean d-amphetamine and l-amphetamine Plasma Concentrations Following Administration of ADDERALL XR 20 mg (8 am) and ADDERALL (immediate-release) 10 mg Twice Daily (8 am and 12 noon) in the Fed State.
 
-A single dose of ADDERALL XR 20 mg extended-release capsules provided comparable plasma concentration profiles of both d-amphetamine and l-amphetamine to Adderall (immediate-release) 10 mg twice daily administered 4 hours apart.
+A single dose of ADDERALL XR 20 mg extended-release capsules provided comparable plasma concentration profiles of both d-amphetamine and l-amphetamine to ADDERALL (immediate-release) 10 mg twice daily administered 4 hours apart.
 
 The mean elimination half-life for d-amphetamine is 10 hours in adults; 11 hours in adolescents aged 13 to 17 years and weighing less than or equal to 75 kg/165 lbs; and 9 hours in children aged 6 to 12 years.
 For the l-amphetamine, the mean elimination half-life in adults is 13 hours; 13 to 14 hours in adolescents; and 11 hours in children aged 6 to 12 years.
@@ -29,7 +29,7 @@ On a mg/kg body weight basis, children have a higher clearance than adolescents 
 ADDERALL XR demonstrates linear pharmacokinetics over the dose range of 20 to 60 mg in adults and adolescents weighing greater than 75 kg/165 lbs, over the dose range of 10 to 40 mg in adolescents weighing less than or equal to 75 kg/165 lbs, and 5 to 30 mg in children aged 6 to 12 years.
 There is no unexpected accumulation at steady state in children.
 
-Food does not affect the extent of absorption of d-amphetamine and l-amphetamine, but prolongs Tmax by 2.5 hours (from 5.2 hrs at fasted state to 7.7 hrs after a high-fat meal) for d-amphetamine and 2.7 hours (from 5.6 hrs at fasted state to 8.3 hrs after a high-fat meal) for l-amphetamine after administration of ADDERALL XR 30 mg.
+Food does not affect the extent of absorption of d-amphetamine and l-amphetamine, but prolongs Tmax by 2.5 hours (from 5.2 hours at fasted state to 7.7 hours after a high-fat meal) for d-amphetamine and 2.7 hours (from 5.6 hours at fasted state to 8.3 hours after a high-fat meal) for l-amphetamine after administration of ADDERALL XR 30 mg.
 Opening the capsule and sprinkling the contents on applesauce results in comparable absorption to the intact capsule taken in the fasted state.
 Equal doses of ADDERALL XR strengths are bioequivalent.
 

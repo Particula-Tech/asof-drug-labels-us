@@ -27,8 +27,12 @@ Table 4: Drugs Having Clinically Important Interactions with Amphetamines
 | Clinical Impact | Time to maximum concentration (Tmax) of amphetamine is decreased compared to when administered alone. |
 | Intervention | Monitor patients for changes in clinical effect and adjust therapy based on clinical response. |
 
-## 7.2 Drug-Laboratory Test Interactions
+## 7.2 Interference with Laboratory Tests
 
 Amphetamines can cause a significant elevation in plasma corticosteroid levels.
 This increase is greatest in the evening.
 Amphetamines may interfere with urinary steroid determinations.
+
+Allow for an adequate washout period between administration of ADDERALL XR and radioactive diagnostic agents used for dopamine transporter (DAT) visualization.
+ADDERALL XR can interfere with the test results of a radioactive diagnostic agent (ioflupane I-123) that is used for DAT visualization by binding and internalization of the DAT, which may result in lower DAT in the striatum.
+This may lead to false-positive diagnostic results.

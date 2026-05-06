@@ -5,7 +5,7 @@ ADDERALL XR contains equal amounts (by weight) of four salts: dextroamphetamine 
 This results in a 3.1:1 mixture of dextro- to levo-amphetamine base equivalent.
 
 The 5 mg, 10 mg, 15 mg, 20 mg, 25 mg, and 30 mg strength extended-release capsules are for oral administration.
-ADDERALL XR contains two types of drug-containing beads (immediate-release and delayed-release) which prolong the release of amphetamine compared to the Adderall (immediate-release) tablet formulation.
+ADDERALL XR contains two types of drug-containing beads (immediate-release and delayed-release) which prolong the release of amphetamine compared to the ADDERALL (immediate-release) tablet formulation.
 
 Each capsule contains:
 
