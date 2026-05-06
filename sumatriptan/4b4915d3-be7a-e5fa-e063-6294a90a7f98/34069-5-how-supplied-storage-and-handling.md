@@ -6,7 +6,7 @@ Autoinjector:
 
 Each pack contains a patient information and instructions for use leaflet.
 
-Sumatriptan Injection USP, 6 mg, containing 2 prefilled syringes assembled in an autoinjector per carton (NDC 51407-673-02)
+Sumatriptan Injection USP, 6 mg, containing 2 prefilled syringes assembled in an autoinjector per carton (51407-673-02)
 
 Store between 2° and 30°C (36° and 86°F).
 Protect from light.

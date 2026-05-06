@@ -55,6 +55,12 @@ OneSource Specialty Pharma Limited
 
 Bengaluru - 560076, India.
 
-February 2026
+Distributed by:
+
+Strides Pharma Inc.
+
+Bridgewater, NJ 08807
+
+January 2026
 
 Marketed by: GSMS, Inc. Camarillo, CA 93012 USA
