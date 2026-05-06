@@ -18,36 +18,20 @@ Corticosteroids can:
 - •Mask some signs of infection
 
 Corticosteroid-associated infections can be mild but can be severe and at times fatal.
-The
+The rate of infectious complications increases with increasing corticosteroid dosages.
 
-rate of infectious complications increases with increasing corticosteroid dosages.
-
-Monitor for the development of infection and consider CORTEF withdrawal or dosage
-
-reduction as needed.
+Monitor for the development of infection and consider CORTEF withdrawal or dosage reduction as needed.
 
 Tuberculosis
 
-If CORTEF is used to treat a condition in patients with latent tuberculosis or tuberculin
-
-reactivity, reactivation of tuberculosis may occur.
-Closely monitor such patients for
-
-reactivation.
-During prolonged CORTEF therapy, patients with latent tuberculosis or
-
-tuberculin reactivity should receive chemoprophylaxis.
+If CORTEF is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, reactivation of tuberculosis may occur.
+Closely monitor such patients for reactivation.
+During prolonged CORTEF therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
 
 Varicella Zoster and Measles Viral Infections
 
-Varicella and measles can have a serious or even fatal course in non-immune patients
-
-taking corticosteroids, including CORTEF.
-In corticosteroid-treated patients who have
-
-not had these diseases or are non-immune, particular care should be taken to avoid
-
-exposure to varicella and measles:
+Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including CORTEF.
+In corticosteroid-treated patients who have not had these diseases or are non-immune, particular care should be taken to avoid exposure to varicella and measles:
 
 - •If a CORTEF-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin may be indicated.
   If varicella develops, treatment with antiviral agents may be considered.
@@ -73,16 +57,8 @@ Therefore, it is recommended that latent amebiasis or active amebiasis be ruled 
 
 Strongyloides Infestation
 
-Corticosteroids, including CORTEF, should be used with great care in patients with
-
-known or suspected Strongyloides (threadworm) infestation.
-In such patients,
-
-corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and
-
-dissemination with widespread larval migration, often accompanied by severe
-
-enterocolitis and potentially fatal gram-negative septicemia.
+Corticosteroids, including CORTEF, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
+In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
 
 Cerebral Malaria
 
