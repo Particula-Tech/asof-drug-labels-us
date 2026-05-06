@@ -4,7 +4,7 @@
 
 Risk Summary
 
-TAGITOLVis not absorbed systemically following oral administration, and maternal use is not expected to result in fetal exposure to the drug [see Clinical Pharmacology (12.3)].
+TAGITOL V is not absorbed systemically following oral administration, and maternal use is not expected to result in fetal exposure to the drug [see Clinical Pharmacology (12.3)].
 
 ## 8.2 Lactation
 
