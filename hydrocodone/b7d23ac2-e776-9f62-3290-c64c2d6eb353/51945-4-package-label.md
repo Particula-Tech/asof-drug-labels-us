@@ -1,13 +1,132 @@
-HYSINGLA ER 20 mg
+# PRINCIPAL DISPLAY PANEL - 30 mg Tablet Bottle Label
 
-HYSINGLA ER 30 mg
+NDC 59011-272-60
 
-HYSINGLA ER 40 mg
+Hysingla® ER (hydrocodone bitartrate) extended-release tablets
 
-HYSINGLA ER 60 mg
+CII
 
-HYSINGLA ER 80 mg
+30 mg
 
-HYSINGLA ER 100 mg
+Attention Dispenser: Accompanying Medication Guide must be provided to the patient upon dispensing.
 
-HYSINGLA ER 120 mg
+60 Tablets
+
+Rx Only
+
+Swallow tablets whole.
+Do not cut, break, chew, crush, or dissolve.
+
+# PRINCIPAL DISPLAY PANEL - 20 mg Tablet Bottle Label
+
+NDC 59011-271-60
+
+Hysingla® ER (hydrocodone bitartrate) extended-release tablets
+
+CII
+
+20 mg
+
+Attention Dispenser: Accompanying Medication Guide must be provided to the patient upon dispensing.
+
+60 Tablets
+
+Rx Only
+
+Swallow tablets whole.
+Do not cut, break, chew, crush, or dissolve.
+
+# PRINCIPAL DISPLAY PANEL - 40 mg Tablet Bottle Label
+
+NDC 59011-273-60
+
+Hysingla® ER (hydrocodone bitartrate) extended-release tablets
+
+CII
+
+40 mg
+
+Attention Dispenser: Accompanying Medication Guide must be provided to the patient upon dispensing.
+
+60 Tablets
+
+Rx Only
+
+Swallow tablets whole.
+Do not cut, break, chew, crush, or dissolve.
+
+# PRINCIPAL DISPLAY PANEL - 60 mg Tablet Bottle Label
+
+NDC 59011-274-60
+
+Hysingla® ER (hydrocodone bitartrate) extended-release tablets
+
+CII
+
+60 mg
+
+Attention Dispenser: Accompanying Medication Guide must be provided to the patient upon dispensing.
+
+60 Tablets
+
+Rx Only
+
+Swallow tablets whole.
+Do not cut, break, chew, crush, or dissolve.
+
+# PRINCIPAL DISPLAY PANEL - 80 mg Tablet Bottle Label
+
+NDC 59011-275-60
+
+Hysingla® ER (hydrocodone bitartrate) extended-release tablets
+
+CII
+
+80 mg
+
+Attention Dispenser: Accompanying Medication Guide must be provided to the patient upon dispensing.
+
+60 Tablets
+
+Rx Only
+
+Swallow tablets whole.
+Do not cut, break, chew, crush, or dissolve.
+
+# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
+
+NDC 59011-276-60
+
+Hysingla® ER (hydrocodone bitartrate) extended-release tablets
+
+CII
+
+100 mg
+
+Attention Dispenser: Accompanying Medication Guide must be provided to the patient upon dispensing.
+
+60 Tablets
+
+Rx Only
+
+Swallow tablets whole.
+Do not cut, break, chew, crush, or dissolve.
+
+# PRINCIPAL DISPLAY PANEL - 120 mg Tablet Bottle Label
+
+NDC 59011-277-60
+
+Hysingla® ER (hydrocodone bitartrate) extended-release tablets
+
+CII
+
+120 mg
+
+Attention Dispenser: Accompanying Medication Guide must be provided to the patient upon dispensing.
+
+60 Tablets
+
+Rx Only
+
+Swallow tablets whole.
+Do not cut, break, chew, crush, or dissolve.

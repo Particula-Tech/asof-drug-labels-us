@@ -69,7 +69,7 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 The safety and effectiveness of HYSINGLA ER in pediatric patients have not been established.
 
 HYSINGLA ER gradually forms a viscous hydrogel (i.e., a gelatinous mass) when exposed to water or other fluids.
-Pediatric patients may be at increased risk of esophageal obstruction, dysphagia, and choking because of a smaller gastrointestinal lumen if they ingest HYSINGLA ER [see Warnings and Precautions (5.13)]
+Pediatric patients may be at increased risk of esophageal obstruction, dysphagia, and choking because of a smaller gastrointestinal lumen if they ingest HYSINGLA ER [see Warnings and Precautions (5.13)].
 
 ## 8.5 Geriatric Use
 
