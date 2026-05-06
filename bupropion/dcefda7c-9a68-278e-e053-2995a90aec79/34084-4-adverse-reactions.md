@@ -36,7 +36,7 @@ In the 6-week placebo-controlled clinical study, the most common (incidence 5% f
 
 Table 2 shows the incidence of adverse reactions that occurred in 2% of patients treated with AUVELITY and more frequently than in patients treated with placebo in Study 1.
 
-Table 2: Adverse Reactions Occurring in 2% of Adult Patients with MDD Treated with AUVELITY and More Frequently than in Patients Treated with Placebo in a 6-Week Placebo-Controlled Study (Study 1)
+Table 2: Adverse Reactions Occurring in ≥2% of Adult Patients with MDD Treated with AUVELITY and More Frequently than in Patients Treated with Placebo in a 6-Week Placebo-Controlled Study (Study 1)
 
 | Adverse Reaction | AUVELITY (N=162)% | Placebo (N=164)% |
 | --- | --- | --- |
@@ -65,7 +65,7 @@ The data below are based on the 5-week, placebo-controlled, parallel-group study
 
 Adverse Reactions Leading to Discontinuation
 
-In the 5-week placebo-controlled study, 1.3% patients treated with AUVELITY and 1.3% of placebo-treated patients discontinued participation due to adverse reactions.
+In the 5-week placebo-controlled study, 1.3% of patients treated with AUVELITY and 1.3% of placebo-treated patients discontinued participation due to adverse reactions.
 No individual adverse reaction leading to discontinuation occurred in more than one subject.
 
 Most Common Adverse Reactions
@@ -74,7 +74,7 @@ In the 5-week placebo-controlled clinical study, the most common (incidence 5% f
 
 Table 3 shows the incidence of adverse reactions that occurred in 2% of patients treated with AUVELITY and more frequently than in patients treated with placebo in a 5-week placebo-controlled study (Study 3).
 
-Table 3: Adverse Reactions Occurring in ≥ 2% of Adult Patients with Agitation Associated with Dementia Due to Alzheimer’s Disease Treated with AUVELITY and More Frequently than in Patients Treated with Placebo in a 5-Week Placebo-Controlled Study (Study 3)
+Table 3: Adverse Reactions Occurring in ≥2% of Adult Patients with Agitation Associated with Dementia Due to Alzheimer’s Disease Treated with AUVELITY and More Frequently than in Patients Treated with Placebo in a 5-Week Placebo-Controlled Study (Study 3)
 
 | Adverse Reaction | AUVELITY (N=159)% | Placebo (N=158)% |
 | --- | --- | --- |
@@ -90,7 +90,7 @@ Table 3: Adverse Reactions Occurring in ≥ 2% of Adult Patients with Agitation 
 | Confusional stateg | 3 | 1 |
 | Cough | 3 | 1 |
 | Bacterial infectionh | 3 | 1 |
-| a Dizziness includes Vertigo, Dizziness postural, Balance disorder. b Somnolence includes Somnolence, Hypersomnia. c Dyspepsia includes Abdominal discomfort, Dyspepsia, Gastritis, Abdominal pain upper, Gastrooesophageal reflux disease. d Fatigue includes Asthenia, Lethargy, Fatigue. e Nausea includes Nausea, Vomiting. f Psychotic symptom includes Catatonia, Delusion, Hallucination, Hallucination visual. g Confusional State includes Confusional state, Delirium, Disorientation. h Bacterial infection includes Abscess limb, Staphylococcal infection, Urinary tract infection. |  |  |
+| a Dizziness includes Vertigo, Dizziness postural, Balance disorder. b Somnolence includes Somnolence, Hypersomnia. c Dyspepsia includes Abdominal discomfort, Dyspepsia, Gastritis, Abdominal pain upper, Gastroesophageal reflux disease. d Fatigue includes Asthenia, Lethargy, Fatigue. e Nausea includes Nausea, Vomiting. f Psychotic symptom includes Catatonia, Delusion, Hallucination, Hallucination visual. g Confusional State includes Confusional state, Delirium, Disorientation. h Bacterial infection includes Abscess limb, Staphylococcal infection, Urinary tract infection. |  |  |
 
 ## 6.2 Postmarketing Experience
 
@@ -123,7 +123,7 @@ Metabolic and Nutritional: Glycosuria.
 
 Musculoskeletal: Muscle rigidity/fever/rhabdomyolysis and muscle weakness.
 
-Nervous System: Abnormal electroencephalogram (EEG), aggression, agitation, akinesia, aphasia, coma, completed suicide, delirium, delusions, depression, dysarthria, euphoria, extrapyramidal syndrome (dyskinesia, dystonia, hypokinesia, parkinsonism), hallucinations, homicidal ideation, hostility, increased libido, manic reaction, neuralgia, neuropathy, panic, paranoid ideation, psychosis, restlessness, suicide ideation, suicide attempt, unmasking tardive dyskinesia, and tremor.
+Nervous System: Abnormal electroencephalogram (EEG), aggression, agitation, akinesia, aphasia, coma, completed suicide, delirium, delusions, depression, dysarthria, euphoria, extrapyramidal syndrome (dyskinesia, dystonia, hypokinesia, parkinsonism), hallucinations, homicidal ideation, hostility, increased libido, manic reaction, neuralgia, neuropathy, panic, paranoid ideation, psychosis, restlessness, suicide ideation, suicide attempt, unmasking tardive dyskinesia, aseptic meningitis, and tremor.
 
 Respiratory: Pneumonia.
 

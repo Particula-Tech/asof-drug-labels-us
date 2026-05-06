@@ -41,13 +41,15 @@ For patients with moderate renal impairment (eGFR 30 to 59 mL/minute/1.73 m²), 
 When AUVELITY is co-administered with strong CYP2D6 inhibitors, the dosing recommendations for AUVELITY are as follows:
 
 - For MDD, the recommended starting and maximum dosage is 45 mg/105 mg once daily in the morning [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
-
-For Agitation Associated with Dementia due to Alzheimer’s Disease, the recommended starting dosage is 30 mg/105 mg once daily in the morning.
-On day 8, increase to the maximum recommended dosage of 45 mg/105 mg once daily in the morning, based on tolerability [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+- For Agitation Associated with Dementia due to Alzheimer’s Disease, the recommended starting dosage is 30 mg/105 mg once daily in the morning.
+  On day 8, increase to the maximum recommended dosage of 45 mg/105 mg once daily in the morning, based on tolerability [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
 ## 2.6 Dosage Recommendations for Known CYP2D6 Poor Metabolizers (PMs)
 
-For patients who are known CYP2D6 poor metabolizers, the dosing recommendations are as follows: For MDD, the recommended starting and maximum dosage is 45 mg/105 mg once daily in the morning [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+For patients who are known CYP2D6 poor metabolizers, the dosing recommendations are as follows:
+
+For MDD, the recommended starting and maximum dosage is 45 mg/105 mg once daily in the morning [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+
 For Agitation Associated with Dementia due to Alzheimer’s Disease, the recommended starting dosage is 30 mg/105 mg once daily in the morning.
 On day 8, increase to the maximum recommended dosage of 45 mg/105 mg once daily in the morning, based on tolerability [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 

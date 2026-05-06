@@ -43,7 +43,7 @@ Caution patients about operating hazardous machinery, including motor vehicles, 
 Serotonin Syndrome
 
 Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of AUVELITY with SSRIs or tricyclic antidepressants.
-Instruct patients to contact their health care provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Warnings and Precautions (5.8), Drug Interactions (7.1)].
+Instruct patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Warnings and Precautions (5.8), Drug Interactions (7.1)].
 
 Embryo-fetal Toxicity
 
@@ -93,4 +93,4 @@ For patent information: www.axsome.com/IP
 
 ©2026 Axsome Therapeutics, Inc. All rights reserved.
 
-AUV-USPI-004.000-20260429
+AUV-USPI-004.001-20260506

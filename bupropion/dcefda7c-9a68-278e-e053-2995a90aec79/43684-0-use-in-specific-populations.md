@@ -66,7 +66,7 @@ Administration of dextromethorphan-bupropion did not affect body weight, weight 
 The no-effect level for reproductive organ findings in mice was 68-150 mg/kg in both sexes, which is approximately 3.7/3.5 times the MRHD for AUVELITY on a mg/m2 basis.
 
 When dextromethorphan/quinidine was administered orally (0/0, 5/100, 15/100, and 50/100 mg/kg/day) to pregnant rats during the period of organogenesis, embryo-fetal deaths were observed at the highest dose tested and reduced skeletal ossification was observed at all doses.
-Oral administration to pregnant rabbits during organogenesis in two separate studies (0/0, 5/60, 15/60, and 30/60 mg/kg day; 0/0, 5/100, 15/100, and 50/100 mg/kg/day) resulted in an increased incidence of fetal malformations at all but the lowest dose tested.
+Oral administration to pregnant rabbits during organogenesis in two separate studies (0/0, 5/60, 15/60, and 30/60 mg/kg/day; 0/0, 5/100, 15/100, and 50/100 mg/kg/day) resulted in an increased incidence of fetal malformations at all but the lowest dose tested.
 
 When dextromethorphan/quinidine was orally administered to female rats during pregnancy and lactation in two separate studies (0/0, 5/100, 15/100, and 30/100 mg/kg/day; 0/0, 5/100, 15/100, and 50/100 mg/kg/day), pup survival and pup weight were decreased at all doses, and developmental delay was observed in offspring at the mid and high doses.
 A no-effect dose for adverse developmental effects was not identified.
