@@ -13,14 +13,14 @@
 | The most common side effect of valacyclovir tablets in children less than 18 years of age is headache. These are not all the possible side effects of valacyclovir tablets. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
 | How should I store valacyclovir tablets? •Store valacyclovir tablets at 20º to 25ºC (68º to 77ºF).•Store valacyclovir oral suspension between 2º to 8ºC (36º to 46ºF) in a refrigerator. Throw away (discard) any remaining valacyclovir oral suspension after 28 days.•Shake valacyclovir oral suspension bottle well before using. •Keep valacyclovir tablets in a tightly closed container. Keep valacyclovir tablets and all medicines out of the reach of children. |  |
 | General information about the safe and effective use of valacyclovir tablets.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use valacyclovir tablets for a condition for which they were not prescribed. Do not give valacyclovir tablets to other people, even if they have the same symptoms that you have. They may harm them. You can ask your healthcare provider or pharmacist for information about valacyclovir tablets that is written for health professionals. |  |
-| What are the ingredients in valacyclovir tablets?Active ingredient: valacyclovir hydrochlorideInactive ingredients: hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol and titanium dioxide. The white, film-coated tablets are printed with edible black ink which contains black iron oxide, propylene glycol and shellac glaze. Manufactured for: Mylan Pharmaceuticals Inc., Morgantown, WV 26505 U.S.A.Manufactured by: Mylan Laboratories Limited, Hyderabad — 500 096, India For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX). |  |
+| What are the ingredients in valacyclovir tablets?Active ingredient: valacyclovir hydrochlorideInactive ingredients: hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol and titanium dioxide. The white, film-coated tablets are printed with edible black ink which contains black iron oxide, propylene glycol and shellac glaze. Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A. For more information, call Viatris at 1-877-446-3679 (1-877-4-INFO-RX). |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-750XXXXX
+75111978
 
-Revised: 12/2025 MX:VLCY:RX
+Revised: 2/2026 MX:VLCY:R12
