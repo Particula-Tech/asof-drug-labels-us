@@ -58,7 +58,8 @@ Preparing to inject MOUNJARO
 Storage and handling
 
 - Store your Pen in the refrigerator between 36°F to 46°F (2°C to 8°C).
-- You may store your Pen at room temperature up to 86°F (30°C) for up to 21 days.
+- You may store your Pen at room temperature up to 86°F (30°C) for up to a total of 21 days.
+- Discard the Pen after a total of 21 days at room temperature.
 - Do not freeze your Pen.
   If the Pen has been frozen, throw the Pen away and use a new Pen.
 - Store your Pen in the original carton to protect your Pen from light.
@@ -131,13 +132,13 @@ Indianapolis, IN 46285, USA
 
 MOUNJARO is a registered trademark of Eli Lilly and Company.
 
-Copyright © 2022, 2024, Eli Lilly and Company.
+Copyright © 2022, 2026, Eli Lilly and Company.
 All rights reserved.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: May 2024
+Revised: April 2026
 
-MOU-0003-IFU-20240516
+MOU-0004-IFU-20260422
 
 # Mounjaro Single-Dose Vial Instructions for Use
 
@@ -221,7 +222,7 @@ Injecting MOUNJARO
 | --- | --- |
 | Step 14: Insert the needle into your skin. |  |
 | Step 15: Push down on the plunger to inject your dose. The needle should stay in your skin for at least 5 seconds to make sure you have injected all of your dose. |  |
-| Step 16: Pull the needle out of your skin. If you see blood after you take the needle out of your skin, press the injection site with a piece of gauze or an alcohol swab. Do not rub the area.Do not recap the needle. Recapping the needle can lead to a needle stick injury. |  |
+| Step 16: Pull the needle out of your skin. If you see blood after you take the needle out of your skin, press the injection site with a piece of gauze. Do not rub the area.Do not recap the needle. Recapping the needle can lead to a needle stick injury. |  |
 
 Disposing of used needles and syringes
 
@@ -242,7 +243,8 @@ Disposing of used needles and syringes
 Storing MOUNJARO
 
 - Store all unopened vials in the refrigerator at 36°F to 46°F (2°C to 8°C).
-- You may store the unopened vial at room temperature up to 86°F (30°C) for up to 21 days.
+- You may store the unopened vial at room temperature up to 86°F (30°C) for up to a total of 21 days.
+- Discard the vial after a total of 21 days at room temperature.
 - Do not freeze.
   Do not use if MOUNJARO has been frozen.
 - Store the vial in the original carton to protect from light.
@@ -256,14 +258,14 @@ Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 MOUNJARO is a registered trademark of Eli Lilly and Company.
 
-Copyright © 2023, 2024, Eli Lilly and Company.
+Copyright © 2023, 2026, Eli Lilly and Company.
 All rights reserved.
 
-MON-VL-0002-IFU-20240229
+MON-VL-0003-IFU-20260422
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: February 2024
+Revised: April 2026
 
 # Mounjaro Multiple-Dose Vial Instructions for Use
 

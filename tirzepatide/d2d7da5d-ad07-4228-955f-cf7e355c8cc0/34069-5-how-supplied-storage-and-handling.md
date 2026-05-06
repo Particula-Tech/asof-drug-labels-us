@@ -6,7 +6,7 @@ MOUNJARO is a clear, colorless to slightly yellow solution available in cartons 
 
 | Single-Dose Vial and Prefilled Pen |  |  |
 | --- | --- | --- |
-| Strength | 4 pack Single-dose Pen NDC | 1 pack Single-dose Vial NDC |
+| Strength | 4-pack Single-dose Pen NDC | 1-pack Single-dose Vial NDC |
 | 2.5 mg/0.5 mL | 0002-1506-80 | 0002-1152-01 |
 | 5 mg/0.5 mL | 0002-1495-80 | 0002-1243-01 |
 | 7.5 mg/0.5 mL | 0002-1484-80 | 0002-2214-01 |
@@ -44,7 +44,8 @@ MOUNJARO is a clear, colorless to slightly yellow solution available in cartons 
 MOUNJARO Single-dose Pen and Single-dose Vial
 
 - Store MOUNJARO single-dose pen and single-dose vial in a refrigerator at 2°C to 8°C (36°F to 46°F).
-- If needed, each single-dose pen or single-dose vial can be stored unrefrigerated at temperatures not to exceed 30°C (86°F) for up to 21 days.
+- If needed, each single-dose pen or single-dose vial can be stored unrefrigerated at temperatures not to exceed 30°C (86°F) for up to a total of 21 days.
+- Discard single-dose pen and single-dose vial after a total of 21 days at room temperature.
 
 MOUNJARO Multi-dose Vial or Single-Patient-Use KwikPen
 
