@@ -36,7 +36,7 @@ Data
 Animal Data
 
 Studies in rats and rabbits demonstrated no evidence of teratogenicity following BUTRANS or subcutaneous (SC) administration of buprenorphine during the period of organogenesis.
-Rats were administered up to one BUTRANS 20 mcg/hour every 3 days (Gestation Days 6, 9, 12, & 15) or received daily SC buprenorphine up to 5 mg/kg (Gestation Days 6 to 17).
+Rats were administered up to one BUTRANS 20 mcg/hour every 3 days (Gestation Days 6, 9, 12, & 15) or received daily SC buprenorphine up to 5 mg/kg (Gestation Days 6-17).
 Rabbits were administered four BUTRANS 20 mcg/hour every 3 days (Gestation Days 6, 9, 12, 15, 18, and 19) or received daily SC buprenorphine up to 5 mg/kg (Gestation Days 6-19).
 No teratogenicity was observed at any dose.
 AUC values for buprenorphine with BUTRANS application and SC injection were approximately 110 and 140 times, respectively, that of human subjects who received the MRHD of one BUTRANS 20 mcg/hour.
@@ -90,4 +90,4 @@ Titrate the dosage of BUTRANS slowly in geriatric patients and frequently reeval
 
 In a study utilizing intravenous buprenorphine, peak plasma levels (Cmax) and exposure (AUC) of buprenorphine in patients with mild and moderate hepatic impairment did not increase as compared to those observed in subjects with normal hepatic function.
 BUTRANS has not been evaluated in patients with severe hepatic impairment.
-As BUTRANS is intended for 7-day dosing, consider the use of alternate analgesic therapy in patients with severe hepatic impairment [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+As BUTRANS is intended for 7-day dosing, consider the use of alternate analgesic therapy in patients with severe hepatic impairment [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].

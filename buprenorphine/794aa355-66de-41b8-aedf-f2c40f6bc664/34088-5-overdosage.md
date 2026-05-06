@@ -24,4 +24,4 @@ Due to this long apparent terminal half-life, patients may require monitoring an
 
 In an individual physically dependent on opioids, administration of an opioid overdose reversal agent may precipitate an acute withdrawal syndrome.
 The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the reversal agent administered.
-If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the reversal agent should be begun with care and by titration with smaller than usual doses of the reversal agent.
+If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the reversal agent should begin with care and by titration with smaller than usual doses of the reversal agent.

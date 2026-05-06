@@ -21,7 +21,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Buprenorphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System
 
@@ -177,8 +177,7 @@ Hepatic Impairment
 The pharmacokinetics of buprenorphine following an IV infusion of 0.3 mg of buprenorphine were compared in 8 patients with mild impairment (Child-Pugh A), 4 patients with moderate impairment (Child-Pugh B) and 12 subjects with normal hepatic function.
 Buprenorphine and norbuprenorphine exposure did not increase in the mild and moderate hepatic impairment patients.
 
-BUTRANS has not been evaluated in patients with severe (Child-Pugh C) hepatic impairment.
-[see Warnings and Precautions (5.14), Use in Specific Populations (8.6)].
+BUTRANS has not been evaluated in patients with severe (Child-Pugh C) hepatic impairment [see Warnings and Precautions (5.14), Use in Specific Populations (8.6)].
 
 Renal Impairment
 

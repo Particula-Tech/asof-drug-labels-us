@@ -7,7 +7,7 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.3)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
 - Application Site Skin Reactions [see Warnings and Precautions (5.8)]
-- Opioid induced Hyperalgesia and Allodynia [see Warnings and Precautions (5.9)]
+- Opioid-Induced Hyperalgesia and Allodynia [see Warnings and Precautions (5.9)]
 - Adrenal Insufficiency [see Warnings and Precautions (5.11)]
 - Severe Hypotension [see Warnings and Precautions (5.12)]
 - Hepatotoxicity [see Warnings and Precautions (5.14)]
@@ -125,8 +125,7 @@ Adrenal insufficiency: Cases of adrenal insufficiency have been reported with op
 
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in BUTRANS.
 
-Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time.
-[see Clinical Pharmacology (12.2)].
+Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time [see Clinical Pharmacology (12.2)].
 
 Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.9)].
 

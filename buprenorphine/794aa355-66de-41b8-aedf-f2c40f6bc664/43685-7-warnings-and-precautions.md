@@ -14,7 +14,7 @@ Assess each patient's risk for opioid addiction, abuse, or misuse prior to presc
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as BUTRANS but use in such patients necessitates intensive counseling about the risks and proper use of BUTRANS, along with frequent reevaluation for signs of addiction, abuse, or misuse.
-Consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.2).
+Consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
 
 Abuse or misuse of BUTRANS by placing it in the mouth, chewing it, swallowing it, or using it in ways other than indicated may cause choking, overdose and death [see Overdosage (10)].
 
@@ -134,7 +134,7 @@ Patients with Chronic Pulmonary Disease: BUTRANS-treated patients with significa
 
 Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
-Regularly evaluate patients particularly when initiating and titrating BUTRANS and when BUTRANS is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2, 5.3) Drug Interactions (7)].
+Regularly evaluate patients particularly when initiating and titrating BUTRANS and when BUTRANS is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2, 5.3), Drug Interactions (7)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
 
 ## 5.11 Adrenal Insufficiency

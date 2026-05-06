@@ -5,4 +5,4 @@ BUTRANS is indicated for the management of severe and persistent pain that requi
 Limitations of Use
 
 - Because of the risks of addiction, abuse, misuse, overdose, and death, which can occur at any dosage or duration and persist over the course of therapy [see Warnings and Precautions (5.1)], reserve opioid analgesics, including BUTRANS, for use in patients for whom alternative treatment options are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain.
-- BUTRANS is not indicated as an as-needed (prn) analgesic
+- BUTRANS is not indicated as an as-needed (prn) analgesic.

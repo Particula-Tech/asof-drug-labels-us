@@ -166,8 +166,8 @@ Never put used BUTRANS patches in the trash without first sealing them in the Pa
 
 This "Instructions for Use" has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431
+Distributed by: Knoa Pharma LLC, Stamford, CT 06901-3431
 
-Revised: October 2019 ©2019, Purdue Pharma L.P.
+Revised: May 2026 ©2026, Knoa Pharma LLC
 
 Bioclusive is a trademark of Systagenix Wound Management (US), Inc. Tegaderm is a trademark of 3M.

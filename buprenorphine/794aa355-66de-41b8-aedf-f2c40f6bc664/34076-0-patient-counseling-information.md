@@ -114,7 +114,7 @@ Advise patients how to recognize such a reaction and when to seek medical attent
 
 Pregnancy
 
-- Neonatal Opioid Withdrawal Syndrome Inform female patients of reproductive potential the use of BUTRANS for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4)], Use in Specific Populations (8.1).
+- Neonatal Opioid Withdrawal Syndrome Inform female patients of reproductive potential that the use of BUTRANS for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 - Embryofetal Toxicity Inform female patients of reproductive potential that BUTRANS can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
