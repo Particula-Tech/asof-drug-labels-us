@@ -110,7 +110,3 @@ If a patient develops skeletal pain and radiologic findings compatible with fluo
 
 See Table 9 for a listing of drugs that may significantly alter voriconazole concentrations.
 Also, see Table 10 for a listing of drugs that may interact with voriconazole resulting in altered pharmacokinetics or pharmacodynamics of the other drug [see Contraindications (4) and Drug Interactions (7)].
-
-## 5.14 Galactose Intolerance
-
-Voriconazole tablets contain lactose and should not be given to patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption.

@@ -28,27 +28,3 @@ ORANGE FLAVORED
 Contains Small Parts - Keep out of reach of children.
 
 Rx only
-
-# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
-
-NDC 59762-0934-1 30 Tablets
-
-GREENSTONE® BRAND
-
-voriconazole tablets
-
-50 mg
-
-Rx only
-
-# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
-
-NDC 59762-0936-1 30 Tablets
-
-GREENSTONE® BRAND
-
-voriconazole tablets
-
-200 mg
-
-Rx only

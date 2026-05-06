@@ -2,18 +2,6 @@
 
 ## 16.1 How Supplied
 
-Tablets
-
-Voriconazole 50 mg tablets; white, film-coated, round, debossed with "Pfizer" on one side and "VOR50" on the reverse.
-
-- Bottles of 30 (NDC 59762-0934-1)
-
-Voriconazole 200 mg tablets; white, film-coated, capsule shaped, debossed with "Pfizer" on one side and "VOR200" on the reverse.
-
-- Bottles of 30 (NDC 59762-0936-1)
-
-Powder for Oral Suspension
-
 Voriconazole for Oral Suspension is supplied in 100 mL high density polyethylene (HDPE) bottles.
 Each bottle contains 45 grams of powder for oral suspension, which contain 3 g of voriconazole.
 Following reconstitution, the volume of the suspension is 75 mL, providing a usable volume of 70 mL.
@@ -23,8 +11,6 @@ A 5 mL oral dispenser and a press-in bottle adaptor are also provided.
 (NDC 59762-0935-3)
 
 ## 16.2 Storage
-
-Voriconazole tablets should be stored at 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Voriconazole powder for Oral Suspension should be stored at 2° C to 8°C (36° F to 46° F) (in a refrigerator) before reconstitution.
 The shelf-life of the powder for oral suspension is 24 months.

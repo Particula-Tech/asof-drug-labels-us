@@ -1,23 +1,15 @@
 {
   "application_numbers": [
-    "NDA021266",
     "NDA021630"
   ],
   "inn": "voriconazole",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
-    "59762-0934-1",
-    "59762-0935-3",
-    "59762-0936-1"
+    "59762-0935-3"
   ],
   "products": [
     {
       "form": "POWDER, FOR SUSPENSION",
-      "generic": "voriconazole",
-      "name": "Voriconazole"
-    },
-    {
-      "form": "TABLET, FILM COATED",
       "generic": "voriconazole",
       "name": "Voriconazole"
     }
