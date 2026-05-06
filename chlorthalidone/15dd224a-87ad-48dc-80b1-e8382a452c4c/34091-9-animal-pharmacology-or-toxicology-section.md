@@ -6,10 +6,8 @@ After passage to the liver, some of the drug enters the general circulation, whi
 In the general circulation, it is distributed widely to the tissue, but is taken up in highest concentrations by the kidneys, where amounts have been found 72 hours after ingestion, long after it has disappeared from other tissues.
 The drug is excreted unchanged in the urine.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75068931
-
-Revised: 8/2019 MXA:CHTL:R1
+Revised: 4/2026 MXA:CHTL:R2

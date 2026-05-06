@@ -2,7 +2,7 @@
 
 Chlorthalidone an oral antihypertensive/diuretic.
 It is a monosulfamyl diuretic that differs chemically from thiazide diuretics in that a double-ring system is incorporated in its structure.
-It is 2-Chloro-5-(1-hydroxy-3-oxo-1-isoindolinyl)benzenesulfonamide with the following structural formula:
+It is 2-Chloro-5(1-hydroxy-3-oxo-1- isoindolinyl) benzenesulfonamide with the following structural formula:
 
 Chlorthalidone, USP is practically insoluble in water, in ether, and in chloroform; soluble in methanol; slightly soluble in ethanol.
 

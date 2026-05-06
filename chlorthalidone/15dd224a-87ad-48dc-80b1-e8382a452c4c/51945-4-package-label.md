@@ -17,21 +17,19 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Manufactured for:
-
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-Mylan.com
+Viatris.com
+
+RMXA0222A2
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
 Keep container tightly closed.
 
 Code No.: MH/DRUGS/AD/089
-
-RMXA0222A1
 
 # PRINCIPAL DISPLAY PANEL - 50 mg
 
@@ -52,15 +50,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Manufactured for:
-
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-Mylan.com
+Viatris.com
 
-RMXA0213A1
+RMXA0213A2
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
