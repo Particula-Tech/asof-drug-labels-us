@@ -19,8 +19,13 @@ Use with Other Topical Ophthalmic Medications
 
 Advise patients that if more than one topical ophthalmic medication is being used, the medicines should be administered at least 5 minutes apart.
 
-Manufactured by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA Under License From: Senju Pharmaceutical Co., Ltd. Osaka, Japan 541-0046 Patented.
+Manufactured by: Bausch & Lomb Americas Inc.
+
+Bridgewater, NJ 08807 USA
+
+Patented.
 See https://patents.bausch.com for US patent information.
+
 PROLENSA is a trademark of Bausch & Lomb Incorporated or its affiliates.
 
-9306805 (Folded) 9306705 (Flat)
+9306806 (Folded) 9306706 (Flat)
