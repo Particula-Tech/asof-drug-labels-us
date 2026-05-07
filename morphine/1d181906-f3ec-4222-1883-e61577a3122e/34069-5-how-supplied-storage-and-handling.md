@@ -18,7 +18,3 @@ Preservative-free morphine sulfate injection contains no preservative or antioxi
 Each 10 mL vial of preservative-free morphine sulfate injection is intended for SINGLE-DOSE ONLY.
 Discard any unused portion.
 Do not heat-sterilize.
-
-To report SUSPECTED ADVERSE REACTIONS, contact Hospira, Inc. at 1-800-441-4100, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
-
-For Product Inquiry call 1-800-441-4100.

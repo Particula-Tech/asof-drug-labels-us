@@ -21,3 +21,6 @@ Instruct patients to inform their physicians if they are taking, or plan to take
 Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
+
+This product’s labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.

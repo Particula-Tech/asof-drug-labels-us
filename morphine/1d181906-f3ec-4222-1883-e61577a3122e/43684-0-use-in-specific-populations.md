@@ -29,7 +29,7 @@ Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage 
 Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psychophysiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid induced respiratory depression in the neonate.
 Preservative-free morphine sulfate injection is not recommended for use in women during and immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
 Opioid analgesics, including preservative-free morphine sulfate injection, can prolong labor through actions that temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.

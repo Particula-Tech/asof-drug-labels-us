@@ -29,7 +29,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Morphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System
 
@@ -88,7 +88,7 @@ Approximately 4% of the dose injected epidurally reaches the CSF.
 This corresponds to the relative minimum effective epidural and intrathecal doses of 5 mg and 0.25 mg, respectively.
 The disposition of morphine in the CSF follows a biphasic pattern, with an early half-life of 1.5 h and a late phase half-life of about 6 h. Morphine crosses the dura slowly, with an absorption half-life across the dura averaging 22 minutes.
 Maximum CSF concentrations are seen 60 to 90 minutes after injection.
-Minimum effective CSF concentrations for postoperative analgesia average 150 ng/mL (range < 1-380 ng/mL).
+Minimum effective CSF concentrations for postoperative analgesia average 150 ng/mL (range < 1 to 380 ng/mL).
 
 Intrathecal Administration
 

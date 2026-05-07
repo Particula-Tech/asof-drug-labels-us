@@ -15,7 +15,7 @@ Thoracic epidural administration has been shown to dramatically increase the inc
 
 Because of the risk of severe adverse effects when the epidural or intrathecal route of administration is employed, patients must be observed in a fully equipped and staffed environment for at least 24 hours after the initial dose.
 
-The facility must be equipped to resuscitate patients with severe opiate overdosage, and the personnel must be familiar with the use and limitations of specific narcotic antagonists (naloxone, naltrexone) in such cases.
+The facility must be equipped to resuscitate patients with severe opiate overdosage, and the personnel must be familiar with the use and limitations of specific opioid overdose reversal agents (naloxone, naltrexone) in such cases.
 
 Parenteral administration of narcotics in patients receiving epidural or intrathecal morphine may result in overdosage.
 
@@ -26,6 +26,8 @@ As an opioid, preservative-free morphine sulfate injection exposes users to the 
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed preservative-free morphine sulfate injection.
 Addiction can occur at recommended dosages and if the drug is misused or abused.
+The risk of opioid-related overdose or overdose-related death is increased with higher opioid doses, and this risk persists over the course of therapy.
+In postmarketing studies, addiction, abuse, misuse and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use [see Adverse Reactions (6)].
 
 Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing preservative-free morphine sulfate injection, and monitor all patients receiving preservative-free morphine sulfate injection for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
@@ -42,7 +44,7 @@ Contact local state professional licensing board or state-controlled substances 
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agents (e.g., naloxone, nalmefene), depending on the patient’s clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of preservative-free morphine sulfate injection, the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -66,7 +68,7 @@ In patients who present with CSA, consider decreasing the opioid dosage using be
 
 ## 5.4 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from concomitant use of preservative-free morphine sulfate injection with benzodiazepines and/or other CNS depressants, including alcohol (e.g., nonbenzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
+Profound sedation, respiratory depression, coma, and death may result from concomitant use of preservative-free morphine sulfate injection with benzodiazepines and/or other CNS depressants, including alcohol (e.g., nonbenzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Use of neuroleptics in conjunction with neuraxial morphine may increase the risk of respiratory depression.
@@ -101,7 +103,7 @@ Rapid intravenous administration may result in chest wall rigidity.
 ## 5.8 Opioid Induced Hyperalgesia and Allodynia
 
 Opioid Induced Hyperalgesia (OIH) occurs when an opioid analgesic paradoxically causes an increase in pain, or an increase in sensitivity to pain.
-This condition differs from tolerance, which is the need for increasing doses of opioids to maintain a defined effect [see Dependence (9.3)].
+This condition differs from tolerance, which is the need for increasing doses of opioids to maintain a defined effect [see Drug Abuse and Dependence (9.3)].
 Symptoms of OIH include (but may not be limited to) increased levels of pain upon opioid dosage increase, decreased levels of pain upon opioid dosage decrease, or pain from ordinarily nonpainful stimuli (allodynia).
 These symptoms may suggest OIH only if there is no evidence of underlying disease progression, opioid tolerance, opioid withdrawal, or addictive behavior.
 
@@ -156,7 +158,7 @@ Clinicians should maintain a high index of suspicion for adverse drug reactions 
 Opioids may also obscure the clinical course in a patient with a head injury.
 Avoid the use of preservative-free morphine sulfate injection in patients with impaired consciousness or coma.
 
-## 5.14 Risks of Use in Patients with Gastrointestinal Conditions
+## 5.14 Risks of Gastrointestinal Complications
 
 Preservative-free morphine sulfate injection is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
@@ -164,6 +166,10 @@ The morphine in preservative-free morphine sulfate injection may cause spasm of 
 Opioids may cause increases in serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis for worsening symptoms.
 As significant morphine is released into the systemic circulation from neuraxial administration, the ensuing smooth muscle hypertonicity may result in biliary colic.
+
+Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
+The risk of OIED may increase as the dose and/or duration of opioids increases.
+Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain) and, if necessary, adjust opioid therapy as clinically appropriate [see Clinical Pharmacology (12.2)].
 
 ## 5.15 Risk of Seizures
 
@@ -178,7 +184,7 @@ Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and bu
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 When discontinuing preservative-free morphine sulfate injection, gradually taper the dosage [see Dosage and Administration (2.6)].
-Do not abruptly discontinue preservative-free morphine sulfate injection [see Drug Abuse and Dependence (9.3)].
+Do not rapidly reduce or abruptly discontinue preservative-free morphine sulfate injection [see Drug Abuse and Dependence (9.3)].
 
 ## 5.17 Risks of Use in Patients with Urinary System Disorders
 

@@ -11,7 +11,7 @@ Preservative-free morphine sulfate injection should be administered by or under 
   Respiratory depression (both early and late onset) has occurred more frequently following intrathecal administration than epidural administration.
 - •Because epidural administration has been associated with less potential for immediate or late adverse effects than intrathecal administration, the epidural route should be used whenever possible.
 - •For safety reasons, it is recommended that administration of preservative-free morphine sulfate injection by the epidural or intrathecal routes be limited to the lumbar area.
-- •Have resuscitative equipment and a specific antagonist (naloxone injection) immediately available for the management of respiratory depression as well as complications which might result from inadvertent intrathecal or intravascular injection (note: intrathecal dosage is usually 1/10 that of epidural dosage).
+- •Have resuscitative equipment and an opioid overdose reversal agent (e.g., naloxone, nalmefene) immediately available for the management of respiratory depression as well as complications which might result from inadvertent intrathecal or intravascular injection (note: intrathecal dosage is usually 1/10 that of epidural dosage).
 
 Epidural Administration
 
@@ -66,8 +66,8 @@ A single injection of 0.2 to 1 mg may provide satisfactory pain relief for up to
   If pain recurs, consider alternative routes of administration.
 - •A constant intravenous infusion of naloxone, 0.6 mg/hr, for 24 hours after intrathecal injection may be used to reduce the incidence of potential side effects.
 
-## 2.6 Discontinuation of Preservative-Free Morphine Sulfate Injection
+## 2.6 Safe Reduction and Discontinuation of Preservative-Free Morphine Sulfate Injection
 
 When a patient who has been treated with a regimen of opioid analgesics including preservative-free morphine sulfate injection regularly and may be physically-dependent or no longer requires therapy with preservative-free morphine sulfate injection, taper the dose gradually while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue preservative-free morphine sulfate injection in a physically-dependent patient [see Warnings and Precautions (5.16), Drug Abuse and Dependence (9.3)].
+Do not rapidly reduce or abruptly discontinue preservative-free morphine sulfate injection in patients who may be physically dependent on opioids [see Warnings and Precautions (5.16), Drug Abuse and Dependence (9.3)].
