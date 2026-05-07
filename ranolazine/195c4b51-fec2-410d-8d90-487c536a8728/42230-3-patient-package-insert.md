@@ -155,4 +155,6 @@ Mahwah, NJ 07430 USA
 
 Made in India
 
-Revised: 05/2021, V-03
+Revised: 03/2024, V-04
+
+Trademarks are the property of their respective owners

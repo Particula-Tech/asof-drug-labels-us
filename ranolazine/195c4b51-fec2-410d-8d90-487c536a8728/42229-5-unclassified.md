@@ -16,7 +16,7 @@ Mahwah, NJ 07430 USA
 
 Made in India
 
-Revised: 05/2021, V-04
+Revised: 09/2024, V-05
 
 Patient Information
 
