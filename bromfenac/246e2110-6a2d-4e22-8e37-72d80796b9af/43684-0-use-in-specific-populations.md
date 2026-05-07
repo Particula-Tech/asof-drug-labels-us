@@ -19,7 +19,7 @@ Clinical Considerations
 
 Premature closure of the ductus arteriosus in the fetus has occurred with third trimester use of oral and injectable NSAIDs.
 Measurable maternal and fetal plasma drug levels are available with oral and injectable routes of NSAID administration.
-The maternal plasma level of Bromfenac Ophthalmic Solution following ocular administration is unknown [see Clinical Pharmacology (12.3)].
+The maternal plasma level of Bromfenac Ophthalmic Solution following ocular administration is unknown [see Clinical Pharmacology (12.3)]
 
 Data
 

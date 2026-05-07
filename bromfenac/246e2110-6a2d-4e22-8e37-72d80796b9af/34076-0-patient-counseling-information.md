@@ -19,8 +19,8 @@ Use with Other Topical Ophthalmic Medications
 
 Advise patients that if more than one topical ophthalmic medication is being used, the medicines should be administered at least 5 minutes apart.
 
-Manufactured by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA Under License From: Senju Pharmaceutical Co., Ltd. Osaka, Japan 541-0046
+Manufactured by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA
 
-9788702 (Folded)
+9788703 (Folded)
 
-9788802 (Flat)
+9788803 (Flat)
