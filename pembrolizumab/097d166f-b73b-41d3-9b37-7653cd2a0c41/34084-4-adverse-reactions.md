@@ -111,7 +111,7 @@ Melanoma
 Ipilimumab-Naive Melanoma
 
 The safety of intravenous pembrolizumab for the treatment of patients with unresectable or metastatic melanoma who had not received prior ipilimumab and who had received no more than one prior systemic therapy was investigated in KEYNOTE-006.
-KEYNOTE-006 was a multicenter, open-label, active-controlled trial where patients were randomized (1:1:1) and received intravenous pembrolizumab 10 mg/kg every 2 weeks (n=278) or intravenous pembrolizumab 10 mg/kg every 3 weeks (n=277) until disease progression or unacceptable toxicity or ipilimumab 3 mg/kg every 3 weeks for 4 doses unless discontinued earlier for disease progression or unacceptable toxicity (n=256) [see Clinical Studies (14.2)].
+KEYNOTE-006 was a multicenter, open-label, active-controlled trial where patients were randomized (1:1:1) and received intravenous pembrolizumab 10 mg/kg every 2 weeks (n=278) or intravenous pembrolizumab 10 mg/kg every 3 weeks (n=277) until disease progression or unacceptable toxicity or ipilimumab 3 mg/kg every 3 weeks for 4 doses unless discontinued earlier for disease progression or unacceptable toxicity (n=256) [see Clinical Studies (14.3)].
 Patients with autoimmune disease, a medical condition that required systemic corticosteroids or other immunosuppressive medication; a history of interstitial lung disease; or active infection requiring therapy, including HIV or hepatitis B or C, were ineligible.
 
 The median duration of exposure was 5.6 months (range: 1 day to 11.0 months) for intravenous pembrolizumab and similar in both treatment arms.
@@ -170,7 +170,7 @@ Other laboratory abnormalities occurring in ≥20% of patients receiving intrave
 Ipilimumab-Refractory Melanoma
 
 The safety of intravenous pembrolizumab in patients with unresectable or metastatic melanoma with disease progression following ipilimumab and, if BRAF V600 mutation positive, a BRAF inhibitor, was investigated in KEYNOTE-002.
-KEYNOTE-002 was a multicenter, partially blinded (intravenous pembrolizumab dose), randomized (1:1:1), active-controlled trial in which 528 patients received intravenous pembrolizumab 2 mg/kg (n=178) or 10 mg/kg (n=179) every 3 weeks or investigator's choice of chemotherapy (n=171), consisting of dacarbazine (26%), temozolomide (25%), paclitaxel and carboplatin (25%), paclitaxel (16%), or carboplatin (8%) [see Clinical Studies (14.2)].
+KEYNOTE-002 was a multicenter, partially blinded (intravenous pembrolizumab dose), randomized (1:1:1), active-controlled trial in which 528 patients received intravenous pembrolizumab 2 mg/kg (n=178) or 10 mg/kg (n=179) every 3 weeks or investigator's choice of chemotherapy (n=171), consisting of dacarbazine (26%), temozolomide (25%), paclitaxel and carboplatin (25%), paclitaxel (16%), or carboplatin (8%) [see Clinical Studies (14.3)].
 Patients with autoimmune disease, severe immune-related toxicity related to ipilimumab, defined as any Grade 4 toxicity or Grade 3 toxicity requiring corticosteroid treatment (greater than 10 mg/day prednisone or equivalent dose) for greater than 12 weeks; medical conditions that required systemic corticosteroids or other immunosuppressive medication; a history of interstitial lung disease; or an active infection requiring therapy, including HIV or hepatitis B or C, were ineligible.
 
 The median duration of exposure to intravenous pembrolizumab 2 mg/kg every 3 weeks was 3.7 months (range: 1 day to 16.6 months) and to intravenous pembrolizumab 10 mg/kg every 3 weeks was 4.8 months (range: 1 day to 16.8 months).
@@ -228,13 +228,13 @@ Other laboratory abnormalities occurring in ≥20% of patients receiving intrave
 
 Adjuvant Treatment of Resected Stage IIB or IIC Melanoma
 
-Among the 969 patients with Stage IIB or IIC melanoma enrolled in KEYNOTE-716 [see Clinical Studies (14.2)] treated with intravenous pembrolizumab, the median duration of exposure to intravenous pembrolizumab was 9.9 months (range: 0 to 15.4 months).
+Among the 969 patients with Stage IIB or IIC melanoma enrolled in KEYNOTE-716 [see Clinical Studies (14.3)] treated with intravenous pembrolizumab, the median duration of exposure to intravenous pembrolizumab was 9.9 months (range: 0 to 15.4 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression or mucosal or ocular melanoma were ineligible.
 Adverse reactions occurring in patients with Stage IIB or IIC melanoma were similar to those occurring in 1011 patients with Stage III melanoma from KEYNOTE-054 or the 2799 patients with melanoma or NSCLC treated with intravenous pembrolizumab as a single agent.
 
 Adjuvant Treatment of Stage III Resected Melanoma
 
-The safety of intravenous pembrolizumab as a single agent was investigated in KEYNOTE-054, a randomized (1:1) double-blind trial in which 1019 patients with completely resected Stage IIIA (>1 mm lymph node metastasis), IIIB or IIIC melanoma received 200 mg of intravenous pembrolizumab by intravenous infusion every 3 weeks (n=509) or placebo (n=502) for up to one year [see Clinical Studies (14.2)].
+The safety of intravenous pembrolizumab as a single agent was investigated in KEYNOTE-054, a randomized (1:1) double-blind trial in which 1019 patients with completely resected Stage IIIA (>1 mm lymph node metastasis), IIIB or IIIC melanoma received 200 mg of intravenous pembrolizumab by intravenous infusion every 3 weeks (n=509) or placebo (n=502) for up to one year [see Clinical Studies (14.3)].
 Patients with active autoimmune disease or a medical condition that required immunosuppression or mucosal or ocular melanoma were ineligible.
 Seventy-six percent of patients received intravenous pembrolizumab for 6 months or longer.
 
@@ -287,7 +287,7 @@ NSCLC
 
 First-line treatment of metastatic nonsquamous NSCLC with pemetrexed and platinum chemotherapy
 
-The safety of intravenous pembrolizumab in combination with pemetrexed and investigator's choice of platinum (either carboplatin or cisplatin) was investigated in KEYNOTE-189, a multicenter, double-blind, randomized (2:1), active-controlled trial in patients with previously untreated, metastatic nonsquamous NSCLC with no EGFR or ALK genomic tumor aberrations [see Clinical Studies (14.3)].
+The safety of intravenous pembrolizumab in combination with pemetrexed and investigator's choice of platinum (either carboplatin or cisplatin) was investigated in KEYNOTE-189, a multicenter, double-blind, randomized (2:1), active-controlled trial in patients with previously untreated, metastatic nonsquamous NSCLC with no EGFR or ALK genomic tumor aberrations [see Clinical Studies (14.4)].
 A total of 607 patients received intravenous pembrolizumab 200 mg, pemetrexed and platinum every 3 weeks for 4 cycles followed by intravenous pembrolizumab and pemetrexed (n=405) or placebo, pemetrexed, and platinum every 3 weeks for 4 cycles followed by placebo and pemetrexed (n=202).
 Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
 
@@ -348,7 +348,7 @@ Table 13: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 First-line treatment of metastatic squamous NSCLC with carboplatin and either paclitaxel or paclitaxel protein-bound chemotherapy
 
-The safety of intravenous pembrolizumab in combination with carboplatin and investigator's choice of either paclitaxel or paclitaxel protein-bound was investigated in KEYNOTE-407, a multicenter, double-blind, randomized (1:1), placebo-controlled trial in 558 patients with previously untreated, metastatic squamous NSCLC [see Clinical Studies (14.3)].
+The safety of intravenous pembrolizumab in combination with carboplatin and investigator's choice of either paclitaxel or paclitaxel protein-bound was investigated in KEYNOTE-407, a multicenter, double-blind, randomized (1:1), placebo-controlled trial in 558 patients with previously untreated, metastatic squamous NSCLC [see Clinical Studies (14.4)].
 Safety data are available for the first 203 patients who received intravenous pembrolizumab and chemotherapy (n=101) or placebo and chemotherapy (n=102).
 Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
 
@@ -366,7 +366,7 @@ The adverse reactions observed in KEYNOTE-407 were similar to those observed in 
 
 Previously Untreated NSCLC
 
-The safety of intravenous pembrolizumab was investigated in KEYNOTE-042, a multicenter, open-label, randomized (1:1), active-controlled trial in 1251 patients with PD-L1 expressing, previously untreated Stage III NSCLC who were not candidates for surgical resection or definitive chemoradiation or metastatic NSCLC [see Clinical Studies (14.3)].
+The safety of intravenous pembrolizumab was investigated in KEYNOTE-042, a multicenter, open-label, randomized (1:1), active-controlled trial in 1251 patients with PD-L1 expressing, previously untreated Stage III NSCLC who were not candidates for surgical resection or definitive chemoradiation or metastatic NSCLC [see Clinical Studies (14.4)].
 Patients received intravenous pembrolizumab 200 mg every 3 weeks (n=636) or investigator's choice of chemotherapy (n=615), consisting of pemetrexed and carboplatin followed by optional pemetrexed (n=312) or paclitaxel and carboplatin followed by optional pemetrexed (n=303) every 3 weeks.
 Patients with EGFR or ALK genomic tumor aberrations; autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
 
@@ -432,7 +432,7 @@ Table 15: Laboratory Abnormalities Worsened from Baseline in ≥20% of Patients 
 
 Previously Treated NSCLC
 
-The safety of intravenous pembrolizumab was investigated in KEYNOTE-010, a multicenter, open-label, randomized (1:1:1), active-controlled trial, in patients with advanced NSCLC who had documented disease progression following treatment with platinum-based chemotherapy and, if positive for EGFR or ALK genetic aberrations, appropriate therapy for these aberrations [see Clinical Studies (14.3)].
+The safety of intravenous pembrolizumab was investigated in KEYNOTE-010, a multicenter, open-label, randomized (1:1:1), active-controlled trial, in patients with advanced NSCLC who had documented disease progression following treatment with platinum-based chemotherapy and, if positive for EGFR or ALK genetic aberrations, appropriate therapy for these aberrations [see Clinical Studies (14.4)].
 A total of 991 patients received intravenous pembrolizumab 2 mg/kg (n=339) or 10 mg/kg (n=343) every 3 weeks or docetaxel (n=309) at 75 mg/m2 every 3 weeks.
 Patients with autoimmune disease, medical conditions that required systemic corticosteroids or other immunosuppressive medication, or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
 
@@ -489,7 +489,7 @@ Other laboratory abnormalities occurring in ≥20% of patients receiving intrave
 
 Neoadjuvant and Adjuvant Treatment of Resectable NSCLC
 
-The safety of intravenous pembrolizumab in combination with neoadjuvant platinum-containing chemotherapy followed by surgery and continued adjuvant treatment with intravenous pembrolizumab as a single agent after surgery was investigated in KEYNOTE-671, a multicenter, randomized (1:1), double-blind, placebo-controlled trial in patients with previously untreated and resectable Stage II, IIIA, or IIIB (N2) NSCLC by AJCC 8th edition [see Clinical Studies (14.3)].
+The safety of intravenous pembrolizumab in combination with neoadjuvant platinum-containing chemotherapy followed by surgery and continued adjuvant treatment with intravenous pembrolizumab as a single agent after surgery was investigated in KEYNOTE-671, a multicenter, randomized (1:1), double-blind, placebo-controlled trial in patients with previously untreated and resectable Stage II, IIIA, or IIIB (N2) NSCLC by AJCC 8th edition [see Clinical Studies (14.4)].
 Patients with active autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
 
 The median duration of exposure to intravenous pembrolizumab 200 mg every 3 weeks was 10.9 months (range: 1 day to 18.6 months).
@@ -525,7 +525,7 @@ Permanent discontinuation of adjuvant intravenous pembrolizumab due to an advers
 
 Adjuvant Treatment of Resected NSCLC
 
-The safety of intravenous pembrolizumab as a single agent was investigated in KEYNOTE-091, a multicenter, randomized (1:1), triple-blind, placebo-controlled trial in patients with completely resected Stage IB (T2a ≥4 cm), II, or IIIA NSCLC; adjuvant chemotherapy up to 4 cycles was optional [see Clinical Studies (14.3)].
+The safety of intravenous pembrolizumab as a single agent was investigated in KEYNOTE-091, a multicenter, randomized (1:1), triple-blind, placebo-controlled trial in patients with completely resected Stage IB (T2a ≥4 cm), II, or IIIA NSCLC; adjuvant chemotherapy up to 4 cycles was optional [see Clinical Studies (14.4)].
 A total of 1161 patients received intravenous pembrolizumab 200 mg (n=580) or placebo (n=581) every 3 weeks.
 Patients were ineligible if they had active autoimmune disease, were on chronic immunosuppressive agents, or had a history of interstitial lung disease or pneumonitis.
 
@@ -539,7 +539,7 @@ Malignant Pleural Mesothelioma (MPM)
 
 First-line treatment of unresectable advanced or metastatic MPM with pemetrexed and platinum chemotherapy
 
-The safety of intravenous pembrolizumab in combination with pemetrexed and platinum chemotherapy (either carboplatin or cisplatin) was investigated in KEYNOTE-483, a multicenter, open-label, randomized (1:1), active-controlled trial in patients with previously untreated, unresectable advanced or metastatic MPM [see Clinical Studies (14.4)].
+The safety of intravenous pembrolizumab in combination with pemetrexed and platinum chemotherapy (either carboplatin or cisplatin) was investigated in KEYNOTE-483, a multicenter, open-label, randomized (1:1), active-controlled trial in patients with previously untreated, unresectable advanced or metastatic MPM [see Clinical Studies (14.5)].
 A total of 473 patients received intravenous pembrolizumab 200 mg, pemetrexed, and platinum every 3 weeks for up to 6 cycles followed by intravenous pembrolizumab (n=241), or pemetrexed and platinum chemotherapy every 3 weeks for up to 6 cycles (n=232).
 Patients with autoimmune disease that required systemic therapy within 3 years of treatment or a medical condition that required immunosuppression were ineligible.
 
@@ -552,7 +552,7 @@ HNSCC
 
 Neoadjuvant and Adjuvant Treatment of Locally Advanced HNSCC
 
-The safety of intravenous pembrolizumab as neoadjuvant and adjuvant treatment added to standard of care (SOC) therapy was evaluated in KEYNOTE-689, a multicenter, randomized (1:1), open-label, active-controlled trial in patients with resectable locally advanced (Stage III-IVA by AJCC 8th edition) head and neck squamous cell carcinoma (HNSCC) [see Clinical Studies (14.5)].
+The safety of intravenous pembrolizumab as neoadjuvant and adjuvant treatment added to standard of care (SOC) therapy was evaluated in KEYNOTE-689, a multicenter, randomized (1:1), open-label, active-controlled trial in patients with resectable locally advanced (Stage III-IVA by AJCC 8th edition) head and neck squamous cell carcinoma (HNSCC) [see Clinical Studies (14.6)].
 Intravenous pembrolizumab was administered as single-agent neoadjuvant therapy before definitive surgery, during adjuvant radiotherapy (RT) with or without concurrent cisplatin, and then as single agent adjuvant therapy.
 Concurrent cisplatin was added to intravenous pembrolizumab and adjuvant RT for high-risk disease pathology.
 A total of 361 patients received treatment on the intravenous pembrolizumab arm and 315 patients received treatment on the SOC therapy arm.
@@ -660,7 +660,7 @@ Fatal adverse reactions occurred in 4.7% including pneumonia (0.7%), septic shoc
 
 First-line treatment of metastatic or unresectable, recurrent HNSCC
 
-The safety of intravenous pembrolizumab, as a single agent and in combination with platinum (cisplatin or carboplatin) and FU chemotherapy, was investigated in KEYNOTE-048, a multicenter, open-label, randomized (1:1:1), active-controlled trial in patients with previously untreated, recurrent or metastatic HNSCC [see Clinical Studies (14.5)].
+The safety of intravenous pembrolizumab, as a single agent and in combination with platinum (cisplatin or carboplatin) and FU chemotherapy, was investigated in KEYNOTE-048, a multicenter, open-label, randomized (1:1:1), active-controlled trial in patients with previously untreated, recurrent or metastatic HNSCC [see Clinical Studies (14.6)].
 Patients with autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
 A total of 576 patients received intravenous pembrolizumab 200 mg every 3 weeks either as a single agent (n=300) or in combination with platinum and FU (n=276) every 3 weeks for 6 cycles followed by intravenous pembrolizumab, compared to 287 patients who received cetuximab weekly in combination with platinum and FU every 3 weeks for 6 cycles followed by cetuximab.
 
@@ -745,7 +745,7 @@ Table 21: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 Previously treated recurrent or metastatic HNSCC
 
-Among the 192 patients with HNSCC enrolled in KEYNOTE-012 [see Clinical Studies (14.5)], the median duration of exposure to intravenous pembrolizumab was 3.3 months (range: 1 day to 27.9 months).
+Among the 192 patients with HNSCC enrolled in KEYNOTE-012 [see Clinical Studies (14.6)], the median duration of exposure to intravenous pembrolizumab was 3.3 months (range: 1 day to 27.9 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible for KEYNOTE-012.
 
 The study population characteristics were: median age of 60 years (range: 20 to 84), 35% age 65 or older; 83% male; and 77% White, 15% Asian, and 5% Black.
@@ -763,7 +763,7 @@ Urothelial Cancer
 
 Patients with urothelial cancer in combination with enfortumab vedotin
 
-The safety of intravenous pembrolizumab in combination with enfortumab vedotin was investigated in KEYNOTE-A39 in patients with locally advanced or metastatic urothelial cancer [see Clinical Studies (14.6)].
+The safety of intravenous pembrolizumab in combination with enfortumab vedotin was investigated in KEYNOTE-A39 in patients with locally advanced or metastatic urothelial cancer [see Clinical Studies (14.7)].
 A total of 440 patients received intravenous pembrolizumab 200 mg on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle compared to 433 patients who received gemcitabine on Days 1 and 8 and investigator’s choice of cisplatin or carboplatin on Day 1 of each 21-day cycle.
 Among patients who received intravenous pembrolizumab and enfortumab vedotin, the median duration of exposure to intravenous pembrolizumab was 8.5 months (range: 9 days to 28.5 months).
 
@@ -832,7 +832,7 @@ Table 23: Selected Laboratory Abnormalities Worsened from Baseline Occurring in 
 
 Cisplatin-ineligible patients with urothelial cancer in combination with enfortumab vedotin
 
-The safety of intravenous pembrolizumab in combination with enfortumab vedotin was investigated in KEYNOTE-869 in patients with locally advanced or metastatic urothelial cancer and who are not eligible for cisplatin-based chemotherapy [see Clinical Studies (14.6)].
+The safety of intravenous pembrolizumab in combination with enfortumab vedotin was investigated in KEYNOTE-869 in patients with locally advanced or metastatic urothelial cancer and who are not eligible for cisplatin-based chemotherapy [see Clinical Studies (14.7)].
 A total of 121 patients received intravenous pembrolizumab 200 mg on Day 1, and enfortumab vedotin 1.25 mg/kg on days 1 and 8 of each 21-day cycle.
 The median duration of exposure to intravenous pembrolizumab was 6.9 months (range 1 day to 29.6 months).
 
@@ -908,7 +908,7 @@ Table 25: Selected Laboratory Abnormalities Worsened from Baseline Occurring in 
 Platinum-Ineligible Patients with Urothelial Carcinoma
 
 The safety of intravenous pembrolizumab was investigated in KEYNOTE-052, a single-arm trial that enrolled 370 patients with locally advanced or metastatic urothelial carcinoma who had one or more comorbidities.
-Patients with autoimmune disease or medical conditions that required systemic corticosteroids or other immunosuppressive medications were ineligible [see Clinical Studies (14.6)].
+Patients with autoimmune disease or medical conditions that required systemic corticosteroids or other immunosuppressive medications were ineligible [see Clinical Studies (14.7)].
 Patients received intravenous pembrolizumab 200 mg every 3 weeks until unacceptable toxicity or either radiographic or clinical disease progression.
 
 The median duration of exposure to intravenous pembrolizumab was 2.8 months (range: 1 day to 15.8 months).
@@ -964,7 +964,7 @@ Table 26: Adverse Reactions Occurring in ≥10% of Patients Receiving Intravenou
 Previously Treated Urothelial Carcinoma
 
 The safety of intravenous pembrolizumab for the treatment of patients with locally advanced or metastatic urothelial carcinoma with disease progression following platinum-containing chemotherapy was investigated in KEYNOTE-045.
-KEYNOTE-045 was a multicenter, open-label, randomized (1:1), active-controlled trial in which 266 patients received intravenous pembrolizumab 200 mg every 3 weeks or investigator's choice of chemotherapy (n=255), consisting of paclitaxel (n=84), docetaxel (n=84) or vinflunine (n=87) [see Clinical Studies (14.6)].
+KEYNOTE-045 was a multicenter, open-label, randomized (1:1), active-controlled trial in which 266 patients received intravenous pembrolizumab 200 mg every 3 weeks or investigator's choice of chemotherapy (n=255), consisting of paclitaxel (n=84), docetaxel (n=84) or vinflunine (n=87) [see Clinical Studies (14.7)].
 Patients with autoimmune disease or a medical condition that required systemic corticosteroids or other immunosuppressive medications were ineligible.
 
 The median duration of exposure was 3.5 months (range: 1 day to 20 months) in patients who received intravenous pembrolizumab and 1.5 months (range: 1 day to 14 months) in patients who received chemotherapy.
@@ -1178,13 +1178,13 @@ Table 32: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 Microsatellite Instability-High or Mismatch Repair Deficient Cancer
 
-The safety of intravenous pembrolizumab was investigated in 504 patients with MSI-H or dMMR cancer enrolled in KEYNOTE-158, KEYNOTE-164, and KEYNOTE-051 [see Clinical Studies (14.7)].
+The safety of intravenous pembrolizumab was investigated in 504 patients with MSI-H or dMMR cancer enrolled in KEYNOTE-158, KEYNOTE-164, and KEYNOTE-051 [see Clinical Studies (14.8)].
 The median duration of exposure to intravenous pembrolizumab was 6.2 months (range: 1 day to 53.5 months).
 Adverse reactions occurring in patients with MSI-H or dMMR cancer were similar to those occurring in patients with other solid tumors who received intravenous pembrolizumab as a single agent.
 
 Microsatellite Instability-High or Mismatch Repair Deficient Colorectal Cancer
 
-Among the 153 patients with MSI-H or dMMR CRC enrolled in KEYNOTE-177 [see Clinical Studies (14.8)] treated with intravenous pembrolizumab, the median duration of exposure to intravenous pembrolizumab was 11.1 months (range: 1 day to 30.6 months).
+Among the 153 patients with MSI-H or dMMR CRC enrolled in KEYNOTE-177 [see Clinical Studies (14.9)] treated with intravenous pembrolizumab, the median duration of exposure to intravenous pembrolizumab was 11.1 months (range: 1 day to 30.6 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
 Adverse reactions occurring in patients with MSI-H or dMMR CRC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with intravenous pembrolizumab as a single agent.
 
@@ -1211,7 +1211,7 @@ There were no clinically meaningful differences in incidence of Grade 3-4 toxici
 
 First-line Treatment of Locally Advanced Unresectable or Metastatic HER2-Negative Gastric or Gastroesophageal Junction Adenocarcinoma
 
-The safety of intravenous pembrolizumab was evaluated in 1572 patients with HER2-negative gastric or GEJ cancer enrolled in KEYNOTE-859, which included 785 patients treated with intravenous pembrolizumab 200 mg and FP (n=106) or CAPOX (n=674) every 3 weeks, compared to 787 patients who received placebo and FP (n=107) or CAPOX (n=679) every 3 weeks [see Clinical Studies (14.9)].
+The safety of intravenous pembrolizumab was evaluated in 1572 patients with HER2-negative gastric or GEJ cancer enrolled in KEYNOTE-859, which included 785 patients treated with intravenous pembrolizumab 200 mg and FP (n=106) or CAPOX (n=674) every 3 weeks, compared to 787 patients who received placebo and FP (n=107) or CAPOX (n=679) every 3 weeks [see Clinical Studies (14.10)].
 
 The median duration of exposure to intravenous pembrolizumab was 6.2 months (range: 1 day to 33.7 months).
 
@@ -1280,7 +1280,7 @@ Esophageal Cancer
 
 First-line Treatment of Locally Advanced Unresectable or Metastatic Esophageal Cancer/Gastroesophageal Junction
 
-The safety of intravenous pembrolizumab, in combination with cisplatin and FU chemotherapy was investigated in KEYNOTE-590, a multicenter, double-blind, randomized (1:1), placebo-controlled trial for the first-line treatment in patients with metastatic or locally advanced esophageal or gastroesophageal junction (tumors with epicenter 1 to 5 centimeters above the GEJ) carcinoma who were not candidates for surgical resection or definitive chemoradiation [see Clinical Studies (14.10)].
+The safety of intravenous pembrolizumab, in combination with cisplatin and FU chemotherapy was investigated in KEYNOTE-590, a multicenter, double-blind, randomized (1:1), placebo-controlled trial for the first-line treatment in patients with metastatic or locally advanced esophageal or gastroesophageal junction (tumors with epicenter 1 to 5 centimeters above the GEJ) carcinoma who were not candidates for surgical resection or definitive chemoradiation [see Clinical Studies (14.11)].
 A total of 740 patients received either intravenous pembrolizumab 200 mg (n=370) or placebo (n=370) every 3 weeks for up to 35 cycles, both in combination with up to 6 cycles of cisplatin and up to 35 cycles of FU.
 
 The median duration of exposure was 5.7 months (range: 1 day to 26 months) in the intravenous pembrolizumab combination arm and 5.1 months (range: 3 days to 27 months) in the chemotherapy arm.
@@ -1336,7 +1336,7 @@ Table 36: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 Previously Treated Recurrent Locally Advanced or Metastatic Esophageal Cancer
 
-Among the 314 patients with esophageal cancer enrolled in KEYNOTE-181 [see Clinical Studies (14.10)] treated with intravenous pembrolizumab, the median duration of exposure to intravenous pembrolizumab was 2.1 months (range: 1 day to 24.4 months).
+Among the 314 patients with esophageal cancer enrolled in KEYNOTE-181 [see Clinical Studies (14.11)] treated with intravenous pembrolizumab, the median duration of exposure to intravenous pembrolizumab was 2.1 months (range: 1 day to 24.4 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
 Adverse reactions occurring in patients with esophageal cancer were similar to those occurring in 2799 patients with melanoma or NSCLC treated with intravenous pembrolizumab as a single agent.
 
@@ -1344,7 +1344,7 @@ Cervical Cancer
 
 FIGO 2014 Stage III-IVA Cervical Cancer with Chemoradiotherapy
 
-The safety of intravenous pembrolizumab in combination with CRT (cisplatin plus external beam radiation therapy [EBRT] followed by brachytherapy [BT]) was investigated in KEYNOTE-A18, a placebo-controlled, randomized (1:1), multicenter, double-blind trial including 597 patients with FIGO 2014 Stage III-IVA cervical cancer [see Clinical Studies (14.11)].
+The safety of intravenous pembrolizumab in combination with CRT (cisplatin plus external beam radiation therapy [EBRT] followed by brachytherapy [BT]) was investigated in KEYNOTE-A18, a placebo-controlled, randomized (1:1), multicenter, double-blind trial including 597 patients with FIGO 2014 Stage III-IVA cervical cancer [see Clinical Studies (14.12)].
 Two hundred ninety-four patients received intravenous pembrolizumab in combination with chemoradiotherapy and 303 patients received placebo in combination with chemoradiotherapy.
 
 The median duration of exposure to intravenous pembrolizumab was 20 months (range: 1 day to 32 months).
@@ -1419,7 +1419,7 @@ Table 38: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 Persistent, Recurrent, or Metastatic Cervical Cancer
 
-The safety of intravenous pembrolizumab in combination with paclitaxel and cisplatin or paclitaxel and carboplatin, with or without bevacizumab, was investigated in KEYNOTE-826, a multicenter, double-blind, randomized (1:1), placebo-controlled trial in patients with persistent, recurrent, or first-line metastatic cervical cancer who had not been treated with chemotherapy except when used concurrently as a radio-sensitizing agent [see Clinical Studies (14.11)].
+The safety of intravenous pembrolizumab in combination with paclitaxel and cisplatin or paclitaxel and carboplatin, with or without bevacizumab, was investigated in KEYNOTE-826, a multicenter, double-blind, randomized (1:1), placebo-controlled trial in patients with persistent, recurrent, or first-line metastatic cervical cancer who had not been treated with chemotherapy except when used concurrently as a radio-sensitizing agent [see Clinical Studies (14.12)].
 A total of 616 patients, regardless of tumor PD-L1 expression, received intravenous pembrolizumab 200 mg and chemotherapy with or without bevacizumab (n=307) every 3 weeks or placebo and chemotherapy with or without bevacizumab (n=309) every 3 weeks.
 
 The median duration of exposure to intravenous pembrolizumab was 9.9 months (range: 1 day to 26 months).
@@ -1488,7 +1488,7 @@ Table 40: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 Previously Treated Recurrent or Metastatic Cervical Cancer
 
-Among the 98 patients with cervical cancer enrolled in Cohort E of KEYNOTE-158 [see Clinical Studies (14.11)], the median duration of exposure to intravenous pembrolizumab was 2.9 months (range: 1 day to 22.1 months).
+Among the 98 patients with cervical cancer enrolled in Cohort E of KEYNOTE-158 [see Clinical Studies (14.12)], the median duration of exposure to intravenous pembrolizumab was 2.9 months (range: 1 day to 22.1 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
 
 Intravenous pembrolizumab was discontinued due to adverse reactions in 8% of patients.
@@ -1556,7 +1556,7 @@ HCC
 Previously Treated HCC
 
 The safety of intravenous pembrolizumab was investigated in KEYNOTE-394, a multicenter, double-blind, randomized, placebo-controlled trial that enrolled patients with previously treated HCC.
-Patients were randomized (2:1) and received intravenous pembrolizumab 200 mg (n=299) or placebo (n=153) intravenously every 3 weeks for up to 35 cycles [see Clinical Studies (14.12)].
+Patients were randomized (2:1) and received intravenous pembrolizumab 200 mg (n=299) or placebo (n=153) intravenously every 3 weeks for up to 35 cycles [see Clinical Studies (14.13)].
 
 The median duration of exposure was 3.3 months (range: 1 day to 27.3 months) in the intravenous pembrolizumab arm and 2.2 months (range: 1 day to 15.5 months) in the placebo arm.
 Intravenous pembrolizumab was discontinued due to adverse reactions in 13% of patients.
@@ -1611,7 +1611,7 @@ Table 44: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 BTC
 
-The safety of intravenous pembrolizumab in combination with gemcitabine and cisplatin, was investigated in KEYNOTE-966, a multicenter, double-blind, randomized, placebo-controlled trial in patients with locally advanced unresectable or metastatic BTC who had not received prior systemic therapy in the advanced disease setting [see Clinical Studies (14.13)].
+The safety of intravenous pembrolizumab in combination with gemcitabine and cisplatin, was investigated in KEYNOTE-966, a multicenter, double-blind, randomized, placebo-controlled trial in patients with locally advanced unresectable or metastatic BTC who had not received prior systemic therapy in the advanced disease setting [see Clinical Studies (14.14)].
 A total of 1063 patients received either intravenous pembrolizumab 200 mg plus gemcitabine and cisplatin chemotherapy (n=529) or placebo plus gemcitabine and cisplatin chemotherapy (n=534) every 3 weeks.
 
 The median duration of exposure to intravenous pembrolizumab was 6 months (range: 1 day to 28 months).
@@ -1630,7 +1630,7 @@ There were no clinically meaningful differences in incidence of Grade 3-4 toxici
 
 MCC
 
-Among the 105 patients with MCC enrolled in KEYNOTE-017 and KEYNOTE-913 [see Clinical Studies (14.14)], the median duration of exposure to intravenous pembrolizumab was 6.3 months (range 1 day to 28 months).
+Among the 105 patients with MCC enrolled in KEYNOTE-017 and KEYNOTE-913 [see Clinical Studies (14.15)], the median duration of exposure to intravenous pembrolizumab was 6.3 months (range 1 day to 28 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
 Adverse reactions occurring in patients with MCC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with intravenous pembrolizumab as a single agent.
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence included increased lipase (17%).
@@ -1639,7 +1639,7 @@ RCC
 
 In combination with axitinib in the first-line treatment of advanced RCC (KEYNOTE-426)
 
-The safety of intravenous pembrolizumab in combination with axitinib was investigated in KEYNOTE-426 [see Clinical Studies (14.15)].
+The safety of intravenous pembrolizumab in combination with axitinib was investigated in KEYNOTE-426 [see Clinical Studies (14.16)].
 Patients with medical conditions that required systemic corticosteroids or other immunosuppressive medications or had a history of severe autoimmune disease other than type 1 diabetes, vitiligo, Sjogren's syndrome, and hypothyroidism stable on hormone replacement were ineligible.
 Patients received intravenous pembrolizumab 200 mg intravenously every 3 weeks and axitinib 5 mg orally twice daily, or sunitinib 50 mg once daily for 4 weeks and then off treatment for 2 weeks.
 The median duration of exposure to the combination therapy of intravenous pembrolizumab and axitinib was 10.4 months (range: 1 day to 21.2 months).
@@ -1719,7 +1719,7 @@ Table 46: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 In combination with lenvatinib in the first-line treatment of advanced RCC (KEYNOTE-581)
 
-The safety of intravenous pembrolizumab was evaluated in KEYNOTE-581 [see Clinical Studies (14.15)].
+The safety of intravenous pembrolizumab was evaluated in KEYNOTE-581 [see Clinical Studies (14.16)].
 Patients received intravenous pembrolizumab 200 mg intravenously every 3 weeks in combination with lenvatinib 20 mg orally once daily (n=352), or lenvatinib 18 mg orally once daily in combination with everolimus 5 mg orally once daily (n=355), or sunitinib 50 mg orally once daily for 4 weeks then off treatment for 2 weeks (n=340).
 The median duration of exposure to the combination therapy of intravenous pembrolizumab and lenvatinib was 17 months (range: 0.1 to 39).
 
@@ -1817,7 +1817,7 @@ Recurrence of Grade ≥2 increased ALT or AST was observed on rechallenge in 10 
 
 Adjuvant treatment of RCC
 
-The safety of intravenous pembrolizumab as a single agent was investigated in KEYNOTE-564, a randomized (1:1) double-blind placebo-controlled trial in which 984 patients who had undergone nephrectomy for RCC received 200 mg of intravenous pembrolizumab by intravenous infusion every 3 weeks (n=488) or placebo (n=496) for up to one year [see Clinical Studies (14.15)].
+The safety of intravenous pembrolizumab as a single agent was investigated in KEYNOTE-564, a randomized (1:1) double-blind placebo-controlled trial in which 984 patients who had undergone nephrectomy for RCC received 200 mg of intravenous pembrolizumab by intravenous infusion every 3 weeks (n=488) or placebo (n=496) for up to one year [see Clinical Studies (14.16)].
 The median duration of exposure to intravenous pembrolizumab was 11.1 months (range: 1 day to 14.3 months).
 Patients with active autoimmune disease or a medical condition that required immunosuppression were ineligible.
 
@@ -1877,7 +1877,7 @@ Endometrial Carcinoma
 
 Primary Advanced or Recurrent Endometrial Carcinoma
 
-The safety of intravenous pembrolizumab in combination with chemotherapy (paclitaxel and carboplatin) was investigated in KEYNOTE-868, a randomized (1:1), multicenter, double-blind, placebo-controlled trial that enrolled patients with advanced or recurrent endometrial carcinoma [see Clinical Studies (14.16)].
+The safety of intravenous pembrolizumab in combination with chemotherapy (paclitaxel and carboplatin) was investigated in KEYNOTE-868, a randomized (1:1), multicenter, double-blind, placebo-controlled trial that enrolled patients with advanced or recurrent endometrial carcinoma [see Clinical Studies (14.17)].
 A total of 759 patients received intravenous pembrolizumab 200 mg every 3 weeks and chemotherapy for 6 cycles followed by intravenous pembrolizumab 400 mg every 6 weeks for up to 14 cycles (n=382) or placebo and chemotherapy for 6 cycles followed by placebo for up to 14 cycles (n=377).
 The median duration of exposure to intravenous pembrolizumab was 5.6 months (range: 1 day to 24.0 months).
 
@@ -1893,7 +1893,7 @@ Adverse reactions occurring in patients treated with intravenous pembrolizumab a
 
 In Combination with Lenvatinib for the Treatment of Advanced Endometrial Carcinoma That Is pMMR or Not MSI-H.
 
-The safety of intravenous pembrolizumab in combination with lenvatinib was investigated in KEYNOTE-775, a multicenter, open-label, randomized (1:1), active-controlled trial in patients with advanced endometrial carcinoma previously treated with at least one prior platinum-based chemotherapy regimen in any setting, including in the neoadjuvant and adjuvant settings [see Clinical Studies (14.16)].
+The safety of intravenous pembrolizumab in combination with lenvatinib was investigated in KEYNOTE-775, a multicenter, open-label, randomized (1:1), active-controlled trial in patients with advanced endometrial carcinoma previously treated with at least one prior platinum-based chemotherapy regimen in any setting, including in the neoadjuvant and adjuvant settings [see Clinical Studies (14.17)].
 Patients with endometrial carcinoma that is pMMR or not MSI-H received intravenous pembrolizumab 200 mg every 3 weeks in combination with lenvatinib 20mg orally once daily (n=342) or received doxorubicin or paclitaxel (n=325).
 
 For patients with pMMR or not MSI-H tumor status, the median duration of study treatment was 7.2 months (range 1 day to 26.8 months) and the median duration of exposure to intravenous pembrolizumab was 6.8 months (range: 1 day to 25.8 months).
@@ -1983,18 +1983,18 @@ Table 52: Laboratory Abnormalities Worsened from BaselineWith at least one grade
 
 As a Single Agent for the Treatment of Advanced MSI-H or dMMR Endometrial Carcinoma
 
-Among the 90 patients with MSI-H or dMMR endometrial carcinoma enrolled in KEYNOTE-158 [see Clinical Studies (14.16)] treated with intravenous pembrolizumab as a single agent, the median duration of exposure to intravenous pembrolizumab was 8.3 months (range: 1 day to 26.9 months).
+Among the 90 patients with MSI-H or dMMR endometrial carcinoma enrolled in KEYNOTE-158 [see Clinical Studies (14.17)] treated with intravenous pembrolizumab as a single agent, the median duration of exposure to intravenous pembrolizumab was 8.3 months (range: 1 day to 26.9 months).
 Adverse reactions occurring in patients with endometrial carcinoma were similar to those occurring in 2799 patients with melanoma or NSCLC treated with intravenous pembrolizumab as a single agent.
 
 TMB-H Cancer
 
-The safety of intravenous pembrolizumab was investigated in 105 patients with TMB-H cancer enrolled in KEYNOTE-158 [see Clinical Studies (14.17)].
+The safety of intravenous pembrolizumab was investigated in 105 patients with TMB-H cancer enrolled in KEYNOTE-158 [see Clinical Studies (14.18)].
 The median duration of exposure to intravenous pembrolizumab was 4.9 months (range: 0.03 to 35.2 months).
 Adverse reactions occurring in patients with TMB-H cancer were similar to those occurring in patients with other solid tumors who received intravenous pembrolizumab as a single agent.
 
 cSCC
 
-Among the 159 patients with advanced cSCC (recurrent or metastatic or locally advanced disease) enrolled in KEYNOTE-629 [see Clinical Studies (14.18)], the median duration of exposure to intravenous pembrolizumab was 6.9 months (range 1 day to 28.9 months).
+Among the 159 patients with advanced cSCC (recurrent or metastatic or locally advanced disease) enrolled in KEYNOTE-629 [see Clinical Studies (14.19)], the median duration of exposure to intravenous pembrolizumab was 6.9 months (range 1 day to 28.9 months).
 Patients with autoimmune disease or a medical condition that required systemic corticosteroids or other immunosuppressive medications were ineligible.
 Adverse reactions occurring in patients with recurrent or metastatic cSCC or locally advanced cSCC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with intravenous pembrolizumab as a single agent.
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence included lymphopenia (10%) and decreased sodium (10%).
@@ -2005,7 +2005,7 @@ Neoadjuvant and Adjuvant Treatment of High-Risk Early-Stage TNBC
 
 The safety of intravenous pembrolizumab in combination with neoadjuvant chemotherapy (carboplatin and paclitaxel followed by doxorubicin or epirubicin and cyclophosphamide) followed by surgery and continued adjuvant treatment with intravenous pembrolizumab as a single agent was investigated in KEYNOTE-522, a randomized (2:1), multicenter, double-blind, placebo-controlled trial in patients with newly diagnosed, previously untreated, high-risk early-stage TNBC.
 
-A total of 778 patients on the intravenous pembrolizumab arm received at least 1 dose of intravenous pembrolizumab in combination with neoadjuvant chemotherapy followed by intravenous pembrolizumab as adjuvant treatment after surgery, compared to 389 patients who received at least 1 dose of placebo in combination with neoadjuvant chemotherapy followed by placebo as adjuvant treatment after surgery [see Clinical Studies (14.19)].
+A total of 778 patients on the intravenous pembrolizumab arm received at least 1 dose of intravenous pembrolizumab in combination with neoadjuvant chemotherapy followed by intravenous pembrolizumab as adjuvant treatment after surgery, compared to 389 patients who received at least 1 dose of placebo in combination with neoadjuvant chemotherapy followed by placebo as adjuvant treatment after surgery [see Clinical Studies (14.20)].
 
 The median duration of exposure to intravenous pembrolizumab 200 mg every 3 weeks was 13.3 months (range: 1 day to 21.9 months).
 
@@ -2076,7 +2076,7 @@ Table 54: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 Locally Recurrent Unresectable or Metastatic TNBC
 
-The safety of intravenous pembrolizumab in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin was investigated in KEYNOTE-355, a multicenter, double-blind, randomized (2:1), placebo-controlled trial in patients with locally recurrent unresectable or metastatic TNBC who had not been previously treated with chemotherapy in the metastatic setting [see Clinical Studies (14.19)].
+The safety of intravenous pembrolizumab in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin was investigated in KEYNOTE-355, a multicenter, double-blind, randomized (2:1), placebo-controlled trial in patients with locally recurrent unresectable or metastatic TNBC who had not been previously treated with chemotherapy in the metastatic setting [see Clinical Studies (14.20)].
 A total of 596 patients (including 34 patients from a safety run-in) received intravenous pembrolizumab 200 mg every 3 weeks in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin.
 
 The median duration of exposure to intravenous pembrolizumab was 5.7 months (range: 1 day to 33.0 months).
@@ -2139,7 +2139,7 @@ Table 56: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 Ovarian Cancer
 
-The safety of intravenous pembrolizumab in combination with paclitaxel with or without bevacizumab was evaluated in 463 patients with epithelial ovarian, fallopian tube, or primary peritoneal carcinoma whose tumors express PD-L1 (CPS ≥1) enrolled in KEYNOTE-B96 [see Clinical Studies (14.20)].
+The safety of intravenous pembrolizumab in combination with paclitaxel with or without bevacizumab was evaluated in 463 patients with epithelial ovarian, fallopian tube, or primary peritoneal carcinoma whose tumors express PD-L1 (CPS ≥1) enrolled in KEYNOTE-B96 [see Clinical Studies (14.21)].
 Among patients who received intravenous pembrolizumab, the median duration of exposure was 7.4 months (range: 1 day to 35.9 months).
 
 Serious adverse reactions occurred in 54% of patients receiving intravenous pembrolizumab and paclitaxel with or without bevacizumab.

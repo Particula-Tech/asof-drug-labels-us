@@ -30,11 +30,24 @@ There were no notable differences in PFS or OS observed in patients who received
 
 Intravenous Pembrolizumab
 
-The effectiveness of KEYTRUDA QLEX for its approved indications [see Indications and Usage (1)] has been established based upon the evidence from the adequate and well-controlled studies conducted with intravenous pembrolizumab [see Clinical Studies (14.2-14.20)] and additional data that demonstrated comparable pharmacokinetic, efficacy, and safety profiles between KEYTRUDA QLEX and intravenous pembrolizumab in Study MK-3475A-D77 [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
+The effectiveness of KEYTRUDA QLEX for its approved indications [see Indications and Usage (1)] has been established based upon the evidence from the adequate and well-controlled studies conducted with intravenous pembrolizumab [see Clinical Studies (14.3-14.21)] and additional data that demonstrated comparable pharmacokinetic, efficacy, and safety profiles between KEYTRUDA QLEX and intravenous pembrolizumab in Study MK-3475A-D77 [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
 
 Below is a description of the efficacy results of these adequate and well-controlled studies of intravenous pembrolizumab in these patient populations.
 
-## 14.2 Melanoma
+## 14.2 Patient Experience
+
+Study MK-3475A-F11 (NCT06099782) was a randomized, multicenter, open-label, cross-over trial conducted in 147 patients with early-stage or advanced/metastatic solid tumors [resected stage IIB, IIC, or III melanoma (n=56); or intermediate-high or high-risk resected RCC (n=45); or newly diagnosed, untreated Stage IV NSCLC with a PD-L1 TPS ≥50% (n=46)].
+Patients were randomized (1:1) to receive 3 cycles of KEYTRUDA QLEX 395 mg/4,800 units subcutaneously every 3 weeks followed by 3 cycles of pembrolizumab 200 mg intravenously every 3 weeks (Arm A – SC/IV; n=71) or 3 cycles of pembrolizumab 200 mg intravenously every 3 weeks followed by 3 cycles of KEYTRUDA QLEX 395 mg/4,800 units subcutaneously every 3 weeks (Arm B – IV/SC; n=76).
+
+On Day 1 of Cycle 6, 118 out of 122 eligible patients (97%) completed the patient preference questionnaire (PPQ) after receiving treatment.
+Seventy-seven of the 118 patients (65%) reported preferring subcutaneous administration of KEYTRUDA QLEX over intravenous pembrolizumab and the most common reason was that it required less time in the clinic.
+Thirty-eight of the 118 patients (32%) reported preferring intravenous pembrolizumab over KEYTRUDA QLEX and the most common reason was that it felt more comfortable during administration.
+Three of the 118 patients (3%) had no preference for the route of administration.
+
+Patients in both arms could continue to receive treatment after the crossover period for up to 17 cycles (resected RCC and melanoma) or 35 cycles (stage IV NSCLC).
+Of the 122 patients who completed Cycle 6, 83 (68%) patients (35 from SC/IV and 48 from IV/SC) chose to continue treatment with the subcutaneous route of administration over the intravenous route of administration.
+
+## 14.3 Melanoma
 
 Ipilimumab-Naive Melanoma
 
@@ -190,7 +203,7 @@ For patients with PD-L1 positive tumors, the RFS HR was 0.54 (95% CI: 0.42, 0.69
 For patients with PD-L1 positive tumors, the DMFS HR was 0.61 (95% CI: 0.49, 0.76); p<0.0001.
 The RFS and DMFS benefit for intravenous pembrolizumab compared to placebo was observed regardless of tumor PD-L1 expression.
 
-## 14.3 Non-Small Cell Lung Cancer
+## 14.4 Non-Small Cell Lung Cancer
 
 First-line treatment of metastatic nonsquamous NSCLC with pemetrexed and platinum chemotherapy
 
@@ -539,7 +552,7 @@ Table 68: Efficacy Results in KEYNOTE-091 for Patients Who Received Adjuvant Che
 | Hazard ratioBased on the unstratified univariate Cox regression model (95% CI) | 0.73 (0.60, 0.89) |  |
 | NR = not reached |  |  |
 
-## 14.4 Malignant Pleural Mesothelioma
+## 14.5 Malignant Pleural Mesothelioma
 
 First-line treatment of unresectable advanced or metastatic malignant pleural mesothelioma (MPM) with pemetrexed and platinum chemotherapy
 
@@ -589,7 +602,7 @@ Table 69: Efficacy Results in KEYNOTE-483
 In a pre-specified exploratory analysis based on histology, in the subgroup of patients with epithelioid histology (n=345), the hazard ratio (HR) for OS was 0.89 (95% CI: 0.70, 1.13), with median OS of 19.8 months in intravenous pembrolizumab in combination with chemotherapy and 18.2 months in chemotherapy alone.
 In the subgroup of patients with non-epithelioid histology (n=95), the HR for OS was 0.57 (95% CI: 0.36, 0.89), with median OS of 12.3 months in intravenous pembrolizumab in combination with chemotherapy and 8.2 months in chemotherapy alone.
 
-## 14.5 Head and Neck Squamous Cell Cancer
+## 14.6 Head and Neck Squamous Cell Cancer
 
 Neoadjuvant and Adjuvant Treatment of Locally Advanced HNSCC for Tumors Expressing PD-L1 (CPS ≥1)
 
@@ -753,7 +766,7 @@ The median follow-up time was 8.9 months.
 Among the 28 responding patients, the median DoR had not been reached (range: 2.4+ to 27.7+ months), with 23 patients having responses of 6 months or longer.
 The ORR and DoR were similar irrespective of dosage regimen (10 mg/kg every 2 weeks or 200 mg every 3 weeks) or HPV status.
 
-## 14.6 Urothelial Cancer
+## 14.7 Urothelial Cancer
 
 In Combination with Enfortumab Vedotin for the Treatment of Patients with Urothelial Cancer
 
@@ -1014,7 +1027,7 @@ Table 78: Efficacy Results in KEYNOTE-057
 | % (n) with duration ≥12 months | 46% (18) |  |
 | + Denotes ongoing response |  |  |
 
-## 14.7 Microsatellite Instability-High or Mismatch Repair Deficient Cancer
+## 14.8 Microsatellite Instability-High or Mismatch Repair Deficient Cancer
 
 The efficacy of intravenous pembrolizumab was investigated in 504 patients with MSI-H or dMMR cancers enrolled in three multicenter, non-randomized, open-label, multi-cohort trials: KEYNOTE-164 (NCT02460198), KEYNOTE-158 (NCT02628067), and KEYNOTE-051 (NCT02332668).
 All trials excluded patients with autoimmune disease or a medical condition that required immunosuppression.
@@ -1092,7 +1105,7 @@ Exploratory analysis by TMB
 In an exploratory analysis performed in 138 patients (Cohort K of KEYNOTE-158) who were tested retrospectively for tumor mutation burden (TMB) using an FDA-authorized test, 45 (33%) had tumors with TMB score of <10 mut/Mb; ORR in these 45 patients was 6.7% (95% CI: 1.4, 18.3).
 Among the 45 patients with TMB score of <10 mut/Mb, 39 of the patients were pMMR/not MSI-H when tested using an FDA-authorized test.
 
-## 14.8 Microsatellite Instability-High or Mismatch Repair Deficient Colorectal Cancer
+## 14.9 Microsatellite Instability-High or Mismatch Repair Deficient Colorectal Cancer
 
 The efficacy of intravenous pembrolizumab was investigated in KEYNOTE-177 (NCT02563002), a multicenter, randomized, open-label, active-controlled trial that enrolled 307 patients with previously untreated unresectable or metastatic MSI-H or dMMR CRC.
 MSI or MMR tumor status was determined locally using polymerase chain reaction (PCR) or immunohistochemistry (IHC), respectively.
@@ -1147,7 +1160,7 @@ Table 81: Efficacy Results in Patients with MSI-H or dMMR CRC in KEYNOTE-177
 | % with duration ≥24 months | 43% | 18% |
 | + Denotes ongoing response NR = not reached |  |  |
 
-## 14.9 Gastric Cancer
+## 14.10 Gastric Cancer
 
 First-line Treatment of Locally Advanced Unresectable or Metastatic HER2-Positive Gastric or Gastroesophageal Junction Adenocarcinoma for Tumors Expressing PD-L1 (CPS ≥1)
 
@@ -1249,7 +1262,7 @@ Table 83: Efficacy ResultsBased on a pre-specified interim analysis for KEYNOTE-
 
 An exploratory analysis of OS in the 74 patients with MSI-H tumors irrespective of PD-L1 status showed a HR of 0.34 (95% CI: 0.18, 0.66).
 
-## 14.10 Esophageal Cancer
+## 14.11 Esophageal Cancer
 
 First-line Treatment of Locally Advanced Unresectable or Metastatic Esophageal/Gastroesophageal Junction Cancer for Tumors Expressing PD-L1 (CPS ≥1)
 
@@ -1368,7 +1381,7 @@ One hundred percent had M1 disease.
 The ORR in the 35 patients with ESCC expressing PD-L1 was 20% (95% CI: 8, 37).
 Among the 7 responding patients, the DoR ranged from 4.2 to 25.1+ months, with 5 patients (71%) having responses of 6 months or longer and 3 patients (57%) having responses of 12 months or longer.
 
-## 14.11 Cervical Cancer
+## 14.12 Cervical Cancer
 
 FIGO 2014 Stage III-IVA Cervical Cancer with Chemoradiotherapy
 
@@ -1503,7 +1516,7 @@ Table 88: Efficacy Results in Patients with Recurrent or Metastatic Cervical Can
 | % with duration ≥6 months | 91% |
 | + Denotes ongoing response NR = not reached |  |
 
-## 14.12 Hepatocellular Carcinoma
+## 14.13 Hepatocellular Carcinoma
 
 Previously Treated HCC
 
@@ -1551,7 +1564,7 @@ Table 89: Efficacy Results in Patients with Hepatocellular Carcinoma in KEYNOTE-
 | Figure 31: Kaplan-Meier Curve for Overall Survival in KEYNOTE-394 |
 | --- |
 
-## 14.13 Biliary Tract Cancer
+## 14.14 Biliary Tract Cancer
 
 The efficacy of intravenous pembrolizumab in combination with gemcitabine and cisplatin chemotherapy was investigated in KEYNOTE-966 (NCT04003636), a multicenter, randomized, double-blind, placebo-controlled trial that enrolled 1069 patients with locally advanced unresectable or metastatic BTC, who had not received prior systemic therapy in the advanced disease setting.
 Patients with autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
@@ -1599,7 +1612,7 @@ Table 90: Efficacy Results in KEYNOTE-966
 | Figure 32: Kaplan-Meier Curve for Overall Survival in KEYNOTE-966 |
 | --- |
 
-## 14.14 Merkel Cell Carcinoma
+## 14.15 Merkel Cell Carcinoma
 
 The efficacy of intravenous pembrolizumab was investigated in KEYNOTE-017 (NCT02267603) and KEYNOTE-913 (NCT03783078), two multicenter, non-randomized, open-label trials that enrolled 105 patients with recurrent locally advanced or metastatic MCC who had not received prior systemic therapy for their advanced disease.
 Patients with active autoimmune disease or a medical condition that required immunosuppression were ineligible.
@@ -1630,7 +1643,7 @@ Table 91: Efficacy Results in KEYNOTE-017 and KEYNOTE-913
 | + Denotes ongoing response |  |  |
 | NR = not reached |  |  |
 
-## 14.15 Renal Cell Carcinoma
+## 14.16 Renal Cell Carcinoma
 
 First-line treatment with axitinib
 
@@ -1826,7 +1839,7 @@ Table 95: Efficacy Results in KEYNOTE-564
 | Figure 37: Kaplan-Meier Curve for Overall Survival in KEYNOTE-564 |
 | --- |
 
-## 14.16 Endometrial Carcinoma
+## 14.17 Endometrial Carcinoma
 
 In Combination with Paclitaxel and Carboplatin for the Treatment of Primary Advanced or Recurrent Endometrial Carcinoma
 
@@ -1966,7 +1979,7 @@ Table 98: Efficacy Results in Patients with Advanced MSI-H or dMMR Endometrial C
 | % with duration ≥24 months | 44% |
 | + Denotes ongoing response NR = not reached |  |
 
-## 14.17 Tumor Mutational Burden-High Cancer
+## 14.18 Tumor Mutational Burden-High Cancer
 
 The efficacy of intravenous pembrolizumab was investigated in a prospectively-planned retrospective analysis of 10 cohorts (A through J) of patients with various previously treated unresectable or metastatic solid tumors with high tumor mutation burden (TMB-H) who were enrolled in a multicenter, non-randomized, open-label trial, KEYNOTE-158 (NCT02628067).
 The trial excluded patients who previously received an anti-PD-1 or other immune-modulating monoclonal antibody, or who had an autoimmune disease, or a medical condition that required immunosuppression.
@@ -2019,7 +2032,7 @@ Table 100: Response by Tumor Type (TMB ≥10 mut/Mb)
 
 In an exploratory analysis in 32 patients enrolled in KEYNOTE-158 whose cancer had TMB ≥10 mut/Mb and <13 mut/Mb, the ORR was 13% (95% CI: 4%, 29%), including two complete responses and two partial responses.
 
-## 14.18 Cutaneous Squamous Cell Carcinoma
+## 14.19 Cutaneous Squamous Cell Carcinoma
 
 The efficacy of intravenous pembrolizumab was investigated in patients with recurrent or metastatic cSCC or locally advanced cSCC enrolled in KEYNOTE-629 (NCT03284424), a multicenter, multi-cohort, non-randomized, open-label trial.
 The trial excluded patients with autoimmune disease or a medical condition that required immunosuppression.
@@ -2053,7 +2066,7 @@ Table 101: Efficacy Results in KEYNOTE-629
 | % with duration ≥12 months | 68% | 75% |
 | + Denotes ongoing response |  |  |
 
-## 14.19 Triple-Negative Breast Cancer
+## 14.20 Triple-Negative Breast Cancer
 
 Neoadjuvant and Adjuvant Treatment of High-Risk Early-Stage TNBC
 
@@ -2167,7 +2180,7 @@ Table 103: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 | Figure 45: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
 
-## 14.20 Ovarian Cancer
+## 14.21 Ovarian Cancer
 
 The efficacy of intravenous pembrolizumab in combination with paclitaxel, with or without bevacizumab, was evaluated in KEYNOTE-B96 (NCT05116189), a multicenter, randomized, double-blind, placebo-controlled trial that enrolled 643 patients with platinum-resistant, epithelial ovarian, fallopian tube, or primary peritoneal carcinoma who received one or two prior lines of systemic therapy for ovarian carcinoma.
 Patients must have received at least one line of platinum-based chemotherapy for ovarian cancer with radiographic evidence of disease progression within 6 months after the last dose.

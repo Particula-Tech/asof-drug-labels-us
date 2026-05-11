@@ -44,7 +44,7 @@ The volume of distribution is 6 L.
 
 Elimination
 
-Pembrolizumab clearance decreases over time, resulting in a steady state clearance (CV%) of - 195 mL/day (40%); this decrease in clearance with time is not considered clinically significant.
+Pembrolizumab clearance decreases over time, resulting in a steady state clearance (CV%) of 195 mL/day (40%); this decrease in clearance with time is not considered clinically significant.
 The terminal half-life is 22 days.
 
 Specific Populations

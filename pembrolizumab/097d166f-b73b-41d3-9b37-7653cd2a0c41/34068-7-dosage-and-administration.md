@@ -9,36 +9,36 @@ Patient Selection for Single-Agent Treatment
 
 Select patients for treatment with KEYTRUDA QLEX as a single agent based on the presence of positive PD-L1 expression in:
 
-- Stage III NSCLC who are not candidates for surgical resection or definitive chemoradiation [see Clinical Studies (14.3)].
-- metastatic NSCLC [see Clinical Studies (14.3)].
-- first-line treatment of metastatic or unresectable, recurrent HNSCC [see Clinical Studies (14.5)].
-- previously treated recurrent locally advanced or metastatic esophageal cancer [see Clinical Studies (14.10)].
-- recurrent or metastatic cervical cancer with disease progression on or after chemotherapy [see Clinical Studies (14.11)].
+- Stage III NSCLC who are not candidates for surgical resection or definitive chemoradiation [see Clinical Studies (14.4)].
+- metastatic NSCLC [see Clinical Studies (14.4)].
+- first-line treatment of metastatic or unresectable, recurrent HNSCC [see Clinical Studies (14.6)].
+- previously treated recurrent locally advanced or metastatic esophageal cancer [see Clinical Studies (14.11)].
+- recurrent or metastatic cervical cancer with disease progression on or after chemotherapy [see Clinical Studies (14.12)].
 
-For the MSI-H/dMMR indications, select patients for treatment with KEYTRUDA QLEX as a single agent based on MSI-H/dMMR status in tumor specimens [see Clinical Studies (14.7, 14.8)].
+For the MSI-H/dMMR indications, select patients for treatment with KEYTRUDA QLEX as a single agent based on MSI-H/dMMR status in tumor specimens [see Clinical Studies (14.8, 14.9)].
 
-For the TMB-H indication, select patients for treatment with KEYTRUDA QLEX as a single agent based on TMB-H status in tumor specimens [see Clinical Studies (14.17)].
+For the TMB-H indication, select patients for treatment with KEYTRUDA QLEX as a single agent based on TMB-H status in tumor specimens [see Clinical Studies (14.18)].
 
 Because subclonal dMMR mutations and microsatellite instability may arise in high-grade gliomas during temozolomide therapy, it is recommended to test for TMB-H, MSI-H, and dMMR in the primary tumor specimens obtained prior to initiation of temozolomide chemotherapy in patients with high-grade gliomas.
 
 Additional Patient Selection Information for MSI-H or dMMR in Patients with non-CRC Solid Tumors
 
 Due to discordance between local tests and FDA-authorized tests, confirmation of MSI-H or dMMR status is recommended by an FDA-authorized test in patients with MSI-H or dMMR solid tumors, if feasible.
-If unable to perform confirmatory MSI-H/dMMR testing, the presence of TMB ≥10 mut/Mb, as determined by an FDA-authorized test, may be used to select patients for treatment [see Clinical Studies (14.7)].
+If unable to perform confirmatory MSI-H/dMMR testing, the presence of TMB ≥10 mut/Mb, as determined by an FDA-authorized test, may be used to select patients for treatment [see Clinical Studies (14.8)].
 
 Patient Selection for Combination Therapy
 
-For use of KEYTRUDA QLEX as a single agent as neoadjuvant treatment, then in combination with radiotherapy (RT) with or without chemotherapy then continued as a single agent as adjuvant treatment, select patients based on presence of positive PD-L1 expression (CPS ≥1) in resectable locally advanced HNSCC [see Clinical Studies (14.5)].
+For use of KEYTRUDA QLEX as a single agent as neoadjuvant treatment, then in combination with radiotherapy (RT) with or without chemotherapy then continued as a single agent as adjuvant treatment, select patients based on presence of positive PD-L1 expression (CPS ≥1) in resectable locally advanced HNSCC [see Clinical Studies (14.6)].
 
-For use of KEYTRUDA QLEX in combination with chemotherapy, select patients based on the presence of positive PD-L1 expression (CPS ≥1) in locally advanced unresectable or metastatic gastric or gastroesophageal junction (GEJ) adenocarcinoma, and esophageal or gastroesophageal junction (GEJ) carcinoma [see Clinical Studies (14.9), (14.10)].
+For use of KEYTRUDA QLEX in combination with chemotherapy, select patients based on the presence of positive PD-L1 expression (CPS ≥1) in locally advanced unresectable or metastatic gastric or gastroesophageal junction (GEJ) adenocarcinoma, and esophageal or gastroesophageal junction (GEJ) carcinoma [see Clinical Studies (14.10), (14.11)].
 
-For use of KEYTRUDA QLEX in combination with chemotherapy, with or without bevacizumab, select patients based on the presence of positive PD-L1 expression in persistent, recurrent, or metastatic cervical cancer [see Clinical Studies (14.11)].
+For use of KEYTRUDA QLEX in combination with chemotherapy, with or without bevacizumab, select patients based on the presence of positive PD-L1 expression in persistent, recurrent, or metastatic cervical cancer [see Clinical Studies (14.12)].
 
-For the pMMR/not MSI-H advanced endometrial carcinoma indication, select patients for treatment with KEYTRUDA QLEX in combination with lenvatinib based on MMR or MSI status in tumor specimens [see Clinical Studies (14.16)].
+For the pMMR/not MSI-H advanced endometrial carcinoma indication, select patients for treatment with KEYTRUDA QLEX in combination with lenvatinib based on MMR or MSI status in tumor specimens [see Clinical Studies (14.17)].
 
-For use of KEYTRUDA QLEX in combination with chemotherapy, select patients based on the presence of positive PD-L1 expression in locally recurrent unresectable or metastatic TNBC [see Clinical Studies (14.19)].
+For use of KEYTRUDA QLEX in combination with chemotherapy, select patients based on the presence of positive PD-L1 expression in locally recurrent unresectable or metastatic TNBC [see Clinical Studies (14.20)].
 
-For use of KEYTRUDA QLEX in combination with paclitaxel, with or without bevacizumab, select patients based on the presence of positive PD-L1 expression (CPS ≥1) in platinum-resistant epithelial ovarian, fallopian tube, or primary peritoneal carcinoma [see Clinical Studies (14.20)].
+For use of KEYTRUDA QLEX in combination with paclitaxel, with or without bevacizumab, select patients based on the presence of positive PD-L1 expression (CPS ≥1) in platinum-resistant epithelial ovarian, fallopian tube, or primary peritoneal carcinoma [see Clinical Studies (14.21)].
 
 ## 2.2 Important Dosage and Administration Information
 
