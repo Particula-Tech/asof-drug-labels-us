@@ -16,6 +16,9 @@ To date, epidemiologic studies and randomized controlled trials have been inconc
 Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
 Patients should be informed of this possible risk when deciding whether to use or to continue to use testosterone cypionate.
 
+Testosterone can increase blood pressure which can increase cardiovascular (CV) risk over time.
+Monitor blood pressure periodically in men using testosterone products, especially in men with hypertension.
+Testosterone products are not recommended for use in patients with uncontrolled hypertension.
 Testosterone has been subject to abuse, typically at doses higher than recommended for the approved indication and in combination with other anabolic androgenic steroids.
 Anabolic androgenic steroid abuse can lead to serious cardiovascular and psychiatric adverse reactions (see DRUG ABUSE AND DEPENDENCE).
 
