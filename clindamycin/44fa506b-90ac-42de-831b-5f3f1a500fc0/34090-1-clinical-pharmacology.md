@@ -42,7 +42,7 @@ The extent of absorption, however, is not different between age groups and no do
 Pharmacokinetics in Pediatric Patients with PMA ≤ 32 weeks, or > 32 to ≤ 40 weeks
 
 Systemic clearance (CL) in premature infants increases with increases in bodyweight (kg) and post-menstrual age (PMA).
-The dosing regimens for pediatric patients ≤ 32 weeks PMA (5 mg/kg) and 32 to ≤ 40 weeks PMA (7 mg/kg), both administered IV every 8 hours, achieve exposures comparable to therapeutic exposures in adults (weighing 70 kg) administered clindamycin 600 mg every 8 hours (Table 4).
+The dosing regimens for pediatric patients ≤ 32 weeks PMA (5 mg/kg) and 32 to ≤ 40 weeks PMA (7 mg/kg), both administered intravenously every 8 hours, achieve exposures comparable to therapeutic exposures in adults (weighing 70 kg) administered clindamycin 600 mg every 8 hours (Table 4).
 
 Table 4: Predicted Drug Exposure (Mean ± SD) of Clindamycin in Adults and in Pediatric Patients with PMA ≤ 32 weeks, or > 32 to ≤ 40 weeks
 

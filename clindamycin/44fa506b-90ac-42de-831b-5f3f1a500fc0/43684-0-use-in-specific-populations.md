@@ -36,7 +36,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 ### Clinical Considerations
 
 If oral or intravenous clindamycin is required by a nursing mother, it is not a reason to discontinue breastfeeding, but an alternate drug may be preferred.
-Monitor the infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or blood in the stool indicating possible antibacterial-associated colitis.
+Monitor the infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or blood in the stool indicating possible antibacterial drug-associated colitis.
 
 ## 8.4 Pediatric Use
 
@@ -50,7 +50,7 @@ The potential for the toxic effect in the pediatric population from chemicals th
 ## 8.5 Geriatric Use
 
 Clinical studies of clindamycin did not include sufficient numbers of patients age 65 and over to determine whether they respond differently from younger patients.
-However, other reported clinical experience indicates that antibacterial-associated colitis and diarrhea (due to Clostridioides difficile) seen in association with most antibacterial drugs occur more frequently in the elderly (>60 years) and may be more severe.
+However, other reported clinical experience indicates that antibacterial drug-associated colitis and diarrhea (due to Clostridioides difficile) seen in association with most antibacterial drugs occur more frequently in the elderly (>60 years) and may be more severe.
 These patients should be carefully monitored for the development of diarrhea.
 
 Pharmacokinetic studies with clindamycin have shown no clinically important differences between young and elderly subjects with normal hepatic function and normal (age-adjusted) renal function after oral or intravenous administration [see Clinical Pharmacology (12.3)].

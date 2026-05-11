@@ -15,7 +15,7 @@ Clostridioides difficile colitis
 
 Gastrointestinal
 
-Antibacterial-associated colitis [see Warnings and Precautions (5.1)], pseudomembranous colitis, abdominal pain, nausea, and vomiting.
+Antibacterial drug-associated colitis [see Warnings and Precautions (5.1)], pseudomembranous colitis, abdominal pain, nausea, and vomiting.
 The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment [see Warnings and Precautions (5.1)].
 An unpleasant or metallic taste has been reported after intravenous administration of the higher doses of clindamycin phosphate.
 
@@ -24,9 +24,10 @@ Hypersensitivity Reactions
 Maculopapular rash and urticaria have been observed during drug therapy.
 Generalized mild to moderate morbilliform-like skin rashes are the most frequently reported of all adverse reactions.
 
-Severe skin reactions such as Toxic Epidermal Necrolysis, some with fatal outcome, have been reported [see Warnings and Precautions (5.2)].
-Cases of Acute Generalized Exanthematous Pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, have been associated with clindamycin.
-Anaphylactic shock, anaphylactic reaction and hypersensitivity have also been reported [see Warnings and Precautions (5.2)].
+Severe skin reactions such as toxic epidermal necrolysis, some with fatal outcome, have been reported [see Warnings and Precautions (5.2)].
+Cases of acute generalized exanthematous pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, have been associated with clindamycin.
+Anaphylactic shock, anaphylactic reaction, hypersensitivity, and acute myocardial ischemia with or without myocardial infarction occurring as part of an allergic reaction have also been reported [see Warnings and Precautions (5.2)].
+Cutaneous vasculitis and symmetrical drug-related intertriginous and flexural exanthema have also been reported.
 
 Skin and Mucous Membranes
 
