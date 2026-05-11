@@ -43,6 +43,7 @@ Do not start taking DELESTROGEN if you:
 - currently have or have had liver problems.
 - are allergic to DELESTROGEN or any of its ingredients.
   See the end of this leaflet for a list of ingredients in DELESTROGEN.
+- think you may be pregnant.
 
 Tell your healthcare provider:
 
@@ -56,13 +57,11 @@ Tell your healthcare provider:
   DELESTROGEN may also affect how your other medicines work.
 - if you are going to have surgery or will be on bed rest.
   You may need to stop taking estrogens.
-- Are pregnant or think you may be pregnant.
-  DELESTROGEN is not for pregnant women.
 
 How should I take DELESTROGEN?
 
 DELESTROGEN should be injected deeply into the upper, outer quadrant of the gluteal muscle following the usual precautions for intramuscular administration.
-By virtue of the low viscosity of the vehicles, the various preparations of DELESTROGEN (estradiol valerate injection, USP) may be administered with a small gauge needle (i.e., 20 Gauge x 1 1/2 inches long).
+By virtue of the low viscosity of the vehicles, the various preparations of DELESTROGEN (estradiol valerate injection, USP) may be administered with a small gauge needle (i.e., 20 Gauge x 1 1/2; inches long).
 Since the 40 mg potency provides a high concentration in a small volume, particular care should be observed to administer the full dose.
 
 DELESTROGEN should be visually inspected for particulate matter and color prior to administration; the solution is clear, colorless to yellow.
@@ -121,11 +120,9 @@ For additional information refer to the following FDA websites:
 
 Disposal of Unused Medicines: What You Should Know
 
-http://www.fda.gov/drugs/resourcesforyou/consumers/buyngusingmedicinesafely/ensureingsafeuseofmedicine/safedisposalofmedicines/ucm186187.htm
+http://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/ensuringsafeuseofmedicine/safedisposalofmedicines/ucm186187.htm
 
-How to Dispose of Unused Medicines
-
-http://www.fda.gov/downloads/Drugs/ResourcesForYou/Consumers/BuyingUsingMedicineSafely/UnderstandingOver-the-CounterMedicines/ucm107163.pdf
+How to Dispose of Unused Medicines http://www.fda.gov/downloads/Drugs/ResourcesForYou/Consumers/BuyingUsingMedicineSafely/Understandingover-the-CounterMedicines/ucm107163.pdf
 
 What are the possible side effects of estrogens?
 
@@ -214,10 +211,10 @@ Store DELESTROGEN at room temperature between 20° to 25°C (68° to 77°F).
 
 Manufactured for:
 
-Par Health USA
+Endo USA
 
-Rochester, MI 48307
+Malvern, PA 19355
 
-© 2025 Par Health, Inc. or one of its affiliates.
+© 2024 Endo, Inc. or one of its affiliates.
 
-Revised: 12/2025
+Revised: 05/2024
