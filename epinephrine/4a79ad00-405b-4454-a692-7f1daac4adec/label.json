@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA215425"
+  ],
+  "inn": "epinephrine",
+  "labeler": "CIVICA, INC.",
+  "package_ndcs": [
+    "72572-238-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "epinephrine",
+      "name": "EPINEPHRINE"
+    }
+  ],
+  "setid": "4a79ad00-405b-4454-a692-7f1daac4adec",
+  "source": "dailymed"
+}
