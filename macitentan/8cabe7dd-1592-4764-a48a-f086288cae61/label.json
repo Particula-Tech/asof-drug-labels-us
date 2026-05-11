@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA211026"
+  ],
+  "inn": "macitentan",
+  "labeler": "Novugen Pharma (USA) LLC",
+  "package_ndcs": [
+    "82293-041-10",
+    "82293-041-20",
+    "82293-041-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "macitentan",
+      "name": "Macitentan"
+    }
+  ],
+  "setid": "8cabe7dd-1592-4764-a48a-f086288cae61",
+  "source": "dailymed"
+}
