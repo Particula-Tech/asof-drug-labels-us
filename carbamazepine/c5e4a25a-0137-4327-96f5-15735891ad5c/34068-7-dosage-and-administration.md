@@ -43,6 +43,6 @@ DosageInformation
 |  | Initial Dose | Subsequent Dose | Maximum Daily Dose |
 | --- | --- | --- | --- |
 | Indication | Extended-release Tablets | Extended-release Tablets | Extended-release Tablets |
-| 6 to 12 years | 100 mg twice a day (200 mg/day) | Add 100 mg/day at weekly intervals, twice a day | 1,000 mg/24 hours |
+| Epilepsy 6 to 12 years | 100 mg twice a day (200 mg/day) | Add 100 mg/day at weekly intervals, twice a day | 1,000 mg/24 hours |
 | Over 12 years | 200 mg twice a day (400 mg/day) | Add up to 200 mg/day at weekly intervals, twice a day | 1,000 mg/24 hours (12 to 15 years) 1,200 mg/24 hours (greater than 15 years) 1,600 mg/24 hours (adults, in rare instances) |
 | Trigeminal Neuralgia | 100 mg twice a day (200 mg/day) | Add up to 200 mg/day in increments of 100 mg every 12 hours | 1,200 mg/24 hours |

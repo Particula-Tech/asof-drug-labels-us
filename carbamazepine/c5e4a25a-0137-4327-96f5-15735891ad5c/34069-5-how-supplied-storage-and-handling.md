@@ -39,8 +39,6 @@ Dispense in a tight container (USP).
 
 *Trademarks are the property of their respective owners.
 
-Medication Guide available at www.zydususa.com/medguides or call 1-877-993-8779.
-
 Manufactured by:
 
 Zydus Lifesciences Ltd.,
@@ -53,4 +51,4 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 10/25
+Rev.: 05/26

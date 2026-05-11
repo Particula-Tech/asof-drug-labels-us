@@ -2,8 +2,6 @@
 
 Carbamazepine (KAR-ba-MAZ-e-peen) Extended-Release Tablets, USP
 
-Medication Guide available at www.zydususa.com/medguides or call 1-877-993-8779.
-
 Read this Medication Guide before you start taking carbamazepine extended-release tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
@@ -247,4 +245,4 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 02/24
+Rev.: 05/26
