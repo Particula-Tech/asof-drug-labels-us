@@ -47,10 +47,10 @@ Before taking dronabinol capsules, tell your doctor about all of your medical co
   Dronabinol capsules may harm your unborn baby.
   Avoid the use of dronabinol capsules if you are pregnant.
 - are breastfeeding or plan to breastfeed.
+  It is not known if dronabinol passes into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take dronabinol.
   The Centers for Disease Control and Prevention recommends that mothers with HIV not breastfeed because they can pass the HIV through their breast milk to the baby.
-  It is not known if dronabinol capsules passes into your breast milk.
-  Talk to your doctor about the best way to feed your baby if you take dronabinol capsules.
-  Do not breastfeed while taking dronabinol capsules and for 9 days after your last dose of dronabinol capsules if you are being treated for nausea and vomiting caused by anti-cancer medicine.
+  If you are being treated for nausea and vomiting caused by anti-cancer medicine and you breastfeed while taking dronabinol, your doctor should check the weight of your baby regularly.
 
 Tell your doctor about all the medicines you take or have taken in the last 14 days, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Dronabinol capsules and certain other medicines can affect each other, causing serious side effects.
@@ -68,7 +68,7 @@ How should I take dronabinol capsules?
     If you are elderly, your doctor may prescribe dronabinol capsules to be taken 1 to 3 hours before your chemotherapy, 1 time each day to reduce your chance of having nervous system problems.
   - Take your first dose of dronabinol capsules on an empty stomach at least 30 minutes before eating.
     After your first dose of dronabinol capsules, you can take dronabinol capsules with or without food.
-    Always take your dose at the same time with regard to meals.
+    Always take your dose at the same time in relation to your meal times for each chemotherapy treatment.
 - If you take too much dronabinol capsules, call your Poison Control Center at 1-800-222-1222 right away.
 
 What should I avoid while taking dronabinol capsules?
@@ -125,14 +125,20 @@ Active ingredient: dronabinol
 
 Inactive ingredients: 2.5 mg capsules contain gelatin, glycerin, sesame oil, and titanium dioxide; 5 mg capsules contain iron oxide red and iron oxide black, gelatin, glycerin, sesame oil, and titanium dioxide; 10 mg capsules contain iron oxide red and iron oxide yellow, gelatin, glycerin, sesame oil, and titanium dioxide.
 
-Manufactured by: Patheon Softgels Inc., High Point, NC 27265
+Manufactured by:
 
-Distributed by: Ascend Laboratories, LLC, Parsippany, NJ 07054
+Patheon Softgels Inc.
 
-For more information, call 1-877-ASC-RX01 (1-877-272-7901).
+High Point, NC 27265
+
+Distributed by:
+
+Ascend Laboratories, LLC,
+
+Bedminster, NJ 07921
+
+For more information, call 1-877-272-7901.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: December, 2017
-
-1248C99 08/17
+Revised: April, 2026

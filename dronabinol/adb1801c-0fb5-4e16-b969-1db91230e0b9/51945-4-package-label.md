@@ -2,60 +2,60 @@
 
 PRINCIPAL DISPLAY PANEL- BOTTLE OF 60 CAPSULES
 
-Dronabinol Capsules
+NDC 67877-753-60
+
+Dronabinol Capsules, USP
 
 2.5 mg
-
-NDC 67877-753-60
 
 60 Capsules
 
 PRINCIPAL DISPLAY PANEL- CARTON OF 60 CAPSULES
 
-Dronabinol Capsules
+NDC 67877-753-60
+
+Dronabinol Capsules, USP
 
 2.5 mg
-
-NDC 67877-753-60
 
 60 Capsules
 
 PRINCIPAL DISPLAY PANEL- BOTTLE OF 60 CAPSULES
 
-Dronabinol Capsules
+NDC 67877-754-60
+
+Dronabinol Capsules, USP
 
 5 mg
-
-NDC 67877-754-60
 
 60 Capsules
 
 PRINCIPAL DISPLAY PANEL- CARTON OF 60 CAPSULES
 
-Dronabinol Capsules
+NDC 67877-754-60
+
+Dronabinol Capsules, USP
 
 5 mg
-
-NDC 67877-754-60
 
 60 Capsules
 
 PRINCIPAL DISPLAY PANEL- BOTTLE OF 60 CAPSULES
 
-Dronabinol Capsules
+NDC 67877-755-60
+
+Dronabinol Capsules, USP
 
 10 mg
-
-NDC 67877-755-60
 
 60 Capsules
 
 PRINCIPAL DISPLAY PANEL- CARTON OF 60 CAPSULES
 
-Dronabinol Capsules
+NDC 67877-755-60
+
+Dronabinol Capsules, USP
 
 10 mg
-
-NDC 67877-755-60
 
 60 Capsules
