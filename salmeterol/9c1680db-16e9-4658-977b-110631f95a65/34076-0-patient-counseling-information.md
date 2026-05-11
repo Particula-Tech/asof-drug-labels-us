@@ -76,4 +76,4 @@ Manufactured by: Respirent Pharmaceuticals Co., Ltd. No. 5, Yuntu Road, Beibei D
 Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
 0000995 L7182 Rev.
-07/2024
+03/2026

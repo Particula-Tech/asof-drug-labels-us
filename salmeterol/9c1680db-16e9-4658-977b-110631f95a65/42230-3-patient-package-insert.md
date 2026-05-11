@@ -26,7 +26,7 @@
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
 0000994 L7183 Rev.
-07/2024
+03/2026
 
 | INSTRUCTIONS FOR USEFluticasone Propionate (floo tik’ a sone proe’ pee oh nate) and Salmeterol (sal mee’ ter ol) Inhalation Powder, USP for oral inhalation use |  |
 | --- | --- |
@@ -40,4 +40,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 This Instructions for Use has been approved by the U.S. Food and Drug Administration
 
 0000994 L7184 Rev.
-07/2024
+03/2026

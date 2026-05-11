@@ -14,8 +14,6 @@ Rx Only
 
 1 Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-Lannett
-
 PRINCIPAL DISPLAY PANEL
 
 NDC 0527-6011-06
@@ -31,5 +29,3 @@ FOR ORAL INHALATION ONLY
 Rx Only
 
 1 Inhalation Device Containing 1 Foil Strip of 60 Blisters
-
-Lannett
