@@ -51,7 +51,7 @@ A total of 276 patients were enrolled into the study, 236 patients participated 
 Subjects were treated with open-label lisdexamfetamine dimesylate capsules for at least 26 weeks prior to being assessed for entry into the randomized withdrawal period.
 Eligible patients had to demonstrate treatment response as defined by CGI-S <3 and Total Score on the ADHD-RS ≤22.
 Patients that maintained treatment response for 2 weeks at the end of the open label treatment period were eligible to be randomized to ongoing treatment with the same dose of lisdexamfetamine dimesylate capsules (N=78) or switched to placebo (N=79) during the double-blind phase.
-Patients were observed for relapse (treatment failure) during the 6 week double blind phase.
+Patients were observed for relapse (treatment failure) during the 6 week double-blind phase.
 A significantly lower proportion of treatment failures occurred among lisdexamfetamine dimesylate capsules subjects (15.8%) compared to placebo (67.5%) at endpoint of the randomized withdrawal period.
 The endpoint measurement was defined as the last post-randomization treatment week at which a valid ADHD-RS Total Score and CGI-S were observed.
 Treatment failure was defined as a ≥50% increase (worsening) in the ADHD-RS Total Score and a ≥2-point increase in the CGI-S score compared to scores at entry into the double-blind randomized withdrawal phase.

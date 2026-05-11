@@ -8,7 +8,5 @@ For more information call 1-844-834-0530
 
 The trademarks referenced herein are owned by their respective companies.
 
-CIB72067C
-
-Rev.
-10/2025
+CIB72067D Rev.
+05/2026

@@ -39,6 +39,7 @@ Advise patients to contact their healthcare provider or report to the emergency 
 Concomitant Medications
 
 Advise patients to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs because there is a potential for interactions [see Drug Interactions (7.1)].
+Advise patient or caregiver of steps to take with lisdexamfetamine dimesylate capsules when a laboratory imaging procedure is ordered [see Drug Interactions (7.2)].
 
 Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
 
