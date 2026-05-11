@@ -44,6 +44,6 @@ Patients should be instructed that any time they have a medical problem they thi
 
 Distributed by: AbbVie Inc. North Chicago, Illinois 60064 © 2026 AbbVie.
 All rights reserved.
-Actonel and its design are trademarks of Allergan Pharmaceuticals International Limited, an AbbVie company.
+ACTONEL and its design are trademarks of Allergan Pharmaceuticals International Limited, an AbbVie company.
 
-133169 R1
+133169 R2
