@@ -1,10 +1,6 @@
 # Patient Information
 
-Guanfacine Extended-Release Tablets, USP
-
-(gwahn-fa-seen)
-
-Patient Information available at www1.apotex.com/products/us
+Guanfacine (gwahn-fa-seen)Extended-Release Tablets, USP
 
 Read the Patient Information that comes with guanfacine extended-release tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -36,9 +32,9 @@ Before you take guanfacine extended-release tablets, tell your doctor if you:
 - are pregnant or plan to become pregnant.
   It is not known if guanfacine extended-release tablets will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
-- There is a pregnancy registry for females who are exposed to ADHD medications, including guanfacine extended-release tablets, during pregnancy.
-  The purpose of the registry is to collect information about the health of females exposed to guanfacine extended-release tablets and their baby.
-  If you or your child becomes pregnant during treatment with guanfacine extended-release tablets, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD medications at 1-866-961-2388.
+  - There is a pregnancy registry for females who are exposed to ADHD medications, including guanfacine extended-release tablets, during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to guanfacine extended-release tablets and their baby.
+    If you or your child becomes pregnant during treatment with guanfacine extended-release tablets, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD medications at 1-866-961-2388.
 - are breastfeeding or plan to breastfeed.
   It is not known if guanfacine extended-release tablets passes into your breast milk.
   Talk to your doctor about the best way to feed your baby while taking guanfacine extended-release tablets.
@@ -146,14 +142,14 @@ This leaflet summarizes the most important information about guanfacine extended
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about guanfacine extended-release tablets that is written for health professionals.
 
-For more information, go to www.apotex.com or call 1-800-706-5575
+For more information, go to www.apotex.com or call 1-800-706-5575.
 
 What are the ingredients in guanfacine extended-release tablets?
 
 Active ingredient: guanfacine hydrochloride
 
 Inactive ingredients: anhydrous lactose, colloidal silicon dioxide, fumaric acid, hypromellose and magnesium stearate.
-In addition, the 3 mg and 4 mg tablets also contain FD&C Blue #2 and ferric oxide yellow.
+In addition, the 3 mg and 4 mg tablets also contain FD&C Blue #2 Aluminum Lake and ferric oxide yellow.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -169,9 +165,9 @@ Guanfacine Extended-Release Tablets, USP
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
-| Canada M9L 1T9 | USA 33326 |
+| Canada M9L 1T9 | 33326 |
 
-Revised: November 2022
+Revised: May 2026
 
 Rev.
-13
+14

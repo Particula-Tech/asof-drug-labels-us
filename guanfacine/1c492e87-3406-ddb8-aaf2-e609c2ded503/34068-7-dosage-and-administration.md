@@ -16,13 +16,13 @@ To balance the exposure-related potential benefits and risks, the recommended ta
 
 | Table 1: Recommended Target Dose Range for Therapy with Guanfacine Extended-Release Tablets |  |
 | --- | --- |
-| Weight | Target dose range (0.05 - 0.12 mg/kg/day) |
-| 25-33.9 kg | 2-3 mg/day |
-| 34-41.4 kg | 2-4 mg/day |
-| 41.5-49.4 kg | 3-5 mg/day |
-| 49.5-58.4 kg | 3-6 mg/day |
-| 58.5-91 kg | 4-7 mg/day |
-| >91 kg | 5-7 mg/day |
+| Weight | Target dose range (0.05 to 0.12 mg/kg/day) |
+| 25 to 33.9 kg | 2 to 3 mg/day |
+| 34 to 41.4 kg | 2 to 4 mg/day |
+| 41.5 to 49.4 kg | 3 to 5 mg/day |
+| 49.5 to 58.4 kg | 3 to 6 mg/day |
+| 58.5 to 91 kg | 4 to 7 mg/day |
+| >91 kg | 5 to 7 mg/day |
 | Doses above 4 mg/day have not been evaluated in children (ages 6 to12 years) and doses above 7 mg/day have not been evaluated in adolescents (ages 13 to 17 years) |  |
 
 In the adjunctive trial which evaluated guanfacine extended-release tablets treatment with psychostimulants, the majority of patients reached optimal doses in the 0.05 to 0.12 mg/kg/day range.

@@ -33,8 +33,6 @@ Advise breastfeeding mothers to monitor infants exposed to guanfacine through br
 
 All registered trademarks in this document are the property of their respective owners.
 
-Dispense with Patient Information available at www1.apotex.com/products/us
-
 APOTEX INC.
 
 Guanfacine Extended-Release Tablets, USP
@@ -43,4 +41,4 @@ Guanfacine Extended-Release Tablets, USP
 
 | Manufactured By: | Manufactured For: |
 | --- | --- |
-| Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Apotex Corp. Weston, Florida USA 33326 |
+| Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Apotex Corp. Weston, Florida 33326 |
