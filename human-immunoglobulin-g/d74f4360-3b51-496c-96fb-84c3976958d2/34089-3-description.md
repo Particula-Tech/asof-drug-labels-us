@@ -1,10 +1,11 @@
 # 11 DESCRIPTION
 
-ASCENIV is a purified, sterile, ready-to-use preparation of concentrated human immunoglobulin G (IgG) antibodies.
+ASCENIV (immune globulin intravenous, human - slra) is a purified, sterile, ready-to-use preparation of concentrated human immunoglobulin G (IgG) antibodies.
 The distribution of IgG subclasses is similar to that of normal plasma.
 The active ingredient is human immunoglobulin purified from source human plasma and processed using a modified classical Cohn Method 6 / Oncley Method 9 fractionation process as well as anion and cation exchange steps for added purification.
 ASCENIV contains 100 ± 10 mg/mL protein, of which not less than 96% is human immunoglobulin obtained from source human plasma.
 It is formulated in water for injection containing 0.100-0.140 M sodium chloride, 0.20-0.29 M glycine, 0.15–0.25% polysorbate 80, and pH 4.0–4.6.
+
 ASCENIV contains ≤ 200 µg/mL of IgA.
 
 Each plasma donation used for the manufacture of ASCENIV is collected from FDA-licensed facilities and undergoes rigorous testing.
@@ -18,19 +19,19 @@ In compliance with current guidelines, the steps have been separately validated 
 
 Precipitation and removal of fraction III and Q-membrane filtration removes non-enveloped viruses, solvent/detergent treatment represents a virus inactivation step for enveloped viruses, Anion exchange chromatography binds enveloped and non-enveloped viruses, and virus filtration removes both enveloped and non-enveloped viruses by size exclusion.
 In addition to the steps above, low pH during several steps of the production process contributes to virus inactivation.
-The results of virus validation studies for the ASCENIV process are shown in Table 3, expressed as log 10 reduction factors.
+The results of virus validation studies for the ASCENIV process are shown in Table 4, expressed as log 10 reduction factors.
 
-Table 3: Virus Validation Data for ASCENIV
+Table 4: Virus Removal/Inactivation (log 10)
 
 | Step/Virus | HIV | BVDV | SinV | WNV | PRV | MEV | EMC | BPV | PPV | SV40 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Virus Type | Enveloped | Enveloped | Enveloped | Enveloped | Enveloped | Non-enveloped | Non-enveloped | Non-enveloped | Non-enveloped | Non-enveloped |
 | Virus Family | Retro | Flavi | Flavi | Flavi | Herpes | Picorna | Picorna | Parvo | Parvo | Polyoma |
-| Precipitation and Removal of Fraction III and Depth Filtration | - |  | - | - | - | 5.29 | ≥5.70 | - | ≥5.78 | 2.00 * |
+| Precipitation and Removal of Fraction III and Depth Filtration | - | - | - | - | - | 5.29 | ≥5.70 | - | ≥5.78 | 2.00 * |
 | Q-Membrane Filtration 1 | - | - | - | - | - | - | - | - | 2.02 | - |
-| Solvent Detergent TNBP/Triton X-100 Treatment | ≥3.92 | ≥5.32 | >7.11 | >4.96 | ≥4.88 | - |  | - | - | - |
+| Solvent Detergent TNBP/Triton X-100 Treatment | ≥3.92 | ≥5.32 | >7.11 | >4.96 | ≥4.88 | - | - | - | - | - |
 | Anion Exchange Chromatography | 1.04 | - | - | - | - | - | - | - | 1.09 | - |
-| Virus Nanofiltration | ≥4.72 | ≥4.67 | - | - | ≥4.15 |  | ≥6.24 | 6.18 | 4.66 | >5.02 |
+| Virus Nanofiltration | ≥4.72 | ≥4.67 | - | - | ≥4.15 | - | ≥6.24 | 6.18 | 4.66 | >5.02 |
 | Low pH Treatment 2 | 2.43 | - | - | - | 3.20 2 | - | - | - | - | - |
 | Total Clearance | ≥9.68 | ≥9.99 | > 7.11 | > 4.96 | ≥12.23 | 5.29 | ≥5.70 3 | 6.18 | 11.49 | > 7.02 |
 | * without depth filtrationHIV, human immunodeficiency virus; BVDV, Bovine viral diarrhea virus, model virus for HCV; SinV, Sindbis virus, model virus for HCV; WNV, West Nile virus; PRV, Pseudorabies virus, model virus for herpes viruses and Hepatitis B virus; MEV, Murine encephalomyelitis virus, model virus for hepatitis A virus; BPV, Bovine parvovirus, model virus for human B19 virus; PPV, Porcine parvovirus, model virus for human B19 virus; SV40, Simian virus 40, model virus for highly resistant non-enveloped viruses. EMC, Encephalomyocarditis virus, model virus for hepatitis A virus 1 Q-membrane filtration step is associated with the affinity stream part of the production process. 2 Low pH treatment included in total clearance calculation based on separate mode of inactivation than VRF.3 EMC total clearance was calculated with the most conservative approach of using the lowest reduction value (>5.70) between the Fraction III precipitation/ filtration and nanofiltration steps. |  |  |  |  |  |  |  |  |  |  |

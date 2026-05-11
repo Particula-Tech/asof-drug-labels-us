@@ -2,19 +2,25 @@
 
 ## 2.1 Dose
 
-The recommended dose of ASCENIV for replacement therapy in primary humoral immunodeficiency (PI) is 300 to 800 mg/kg body weight administered every 3 to 4 weeks.
-The dose may be adjusted over time to achieve the desired trough levels and clinical response.
-
-ASCENIV dose adjustments may be required in patients who fail to maintain trough total IgG concentrations of at least 500 mg/ dL with a target of 600 mg/dL.
-Starting with the second infusion, adjust the dose proportionally, targeting a trough of ≥ 600 mg/dL, based on the previous trough and the associated dose.
-
 For intravenous use only.
 
-Table 1
+Table 1: Recommended Dosage for ASCENIV
 
 | Dose | Initial Infusion Rate | Maintenance Infusion Rate (if tolerated) |
 | --- | --- | --- |
 | 300-800 mg/kg every 3-4 weeks | 0.5 mg/kg/min (0.005 mL/kg/min) for the first 15 minutes | Increase gradually every 15 minutes (if tolerated) up to 8 mg/kg/min (0.08 mL/kg/min) |
+
+- Adjust the dose over time to achieve the desired trough levels and clinical response.
+
+Measles pre-/post exposure prophylaxis
+
+Post-exposure prophylaxis
+
+- If a patient has been exposed to measles, a dose of 400 mg/kg of ASCENIV should be administered as soon as possible after exposure.
+
+Pre-exposure prophylaxis
+
+- If a patient routinely receives a dose of less than 530 mg/kg of ASCENIV every 3 to 4 weeks and is at risk of measles exposure (e.g., traveling to a measles endemic area), administer a dose of at least 530 mg/kg prior to the expected measles exposure.
 
 ## 2.2 Preparation and Handling
 
@@ -33,12 +39,10 @@ Table 1
 
 ## 2.3 Administration
 
-Begin with an initial infusion rate of 0.5 mg/kg/min.
-If there are no adverse reactions, the infusion rate for subsequent infusions can be slowly increased to the maximum rate.
-
-Monitor patient vital signs throughout the infusion.
-Slow or stop the infusion if adverse reactions occur.
-If symptoms subside promptly, the infusion may be resumed at a slower rate which is comfortable for the patient.
-
-Ensure that patients with pre-existing renal insufficiency are not volume-depleted.
-For patients judged to be at risk for renal dysfunction or thrombotic events, administer ASCENIV at the minimum infusion rate practicable, and consider discontinuation of administration if renal function deteriorates (see Boxed Warning, Warnings and Precautions [5.2, 5.3]).
+- Begin with an initial infusion rate of 0.5 mg/kg/min.
+  If there are no adverse reactions, the infusion rate for subsequent infusions can be slowly increased to the maximum rate.
+- Monitor patient vital signs throughout the infusion.
+  Slow or stop the infusion if adverse reactions occur.
+  If symptoms subside promptly, the infusion may be resumed at a slower rate which is comfortable for the patient.
+- Ensure that patients with pre-existing renal insufficiency are not volume-depleted.
+  For patients judged to be at risk for renal dysfunction or thrombotic events, administer ASCENIV at the minimum infusion rate practicable, and consider discontinuation of administration if renal function deteriorates (see Boxed Warning, Warnings and Precautions [5.2, 5.3]).

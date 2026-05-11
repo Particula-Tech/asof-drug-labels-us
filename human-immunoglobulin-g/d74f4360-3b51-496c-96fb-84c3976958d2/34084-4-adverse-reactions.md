@@ -1,26 +1,21 @@
 # 6 ADVERSE REACTIONS
 
-The most common adverse reactions to ASCENIV (reported in ≥5% of clinical study subjects) were headache, sinusitis, diarrhea, gastroenteritis viral, nasopharyngitis, upper respiratory tract infection, bronchitis, and nausea.
-
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials cannot be directly compared to rates in the clinical trials of another product and may not reflect the rates observed in clinical practice.
 
-In a multicenter, open-label, non-randomized clinical trial, 59 subjects with PI, on regular IGIV replacement therapy, received doses of ASCENIV ranging from 284 to 1008 mg/kg (mean dose 505 mg/kg) every 3 weeks or 4 weeks for up to 12 months (mean 346 days; range 36 to 385 days) (see Clinical Studies [14]).
-The use of pre-medication was discouraged; however, if after two infusions of ASCENIV subjects required pre-medication (antipyretic, antihistamine, or antiemetic agent) for recurrent reactions, they could continue those medications for the duration of the trial.
-Of the 793 infusions administered during this trial, only 7 (11.9%) subjects received premedication prior to 7 (0.9%) infusions.
+The safety data described in this section reflects exposure to ASCENIV in two clinical studies (Study 1 and Study 2) as described below.
 
-Fifty-eight subjects (98%) had an adverse reaction during the study.
-The proportion of subjects who had at least one adverse reaction was similar for both the 3- and 4-week cycles.
-The most common adverse reactions observed in this clinical trial were headache (22 subjects, 37%), sinusitis (16 subjects, 27%), diarrhea (14 subjects, 23%), gastroenteritis viral (13 subjects, 22%), nasopharyngitis (13 subjects, 22%), upper respiratory tract infection (13 subjects, 22%), bronchitis (12 subjects, 20%), nausea (12 subjects, 20%), and acute sinusitis (11 subjects, 19%).
+Study 1
 
-Adverse reactions (ARs) occurring during or within 72 hours after the end of an infusion are presented in Table 2.
-In this study, the upper bound of the 1-sided 95% confidence interval for the proportion of ASCENIV infusions with one or more temporally associated adverse reactions was 16.4%.
-The total number of adverse reactions was 158 (a rate of 0.20 ARs per infusion).
+In Study 1, 59 patients with PI received a total of 793 infusions of ASCENIV at a median dose of 505 mg/kg (range 284 to 1008 mg/kg) every 3 weeks or 4 weeks for up to 12 months (mean 346 days; range 36 to 385 days).
+Of the 793 infusions administered during this trial, 7 (11.9%) patients received premedication prior to 7 (0.9%) infusions [see Clinical Studies (14)].
 
-Table 2: Adverse Reactions (ARs) (within 72 hours after the end of an ASCENIV infusion) in ≥ 5% of Subjects
+The most common adverse reactions occurring in ≥5% of patients in Study 1 are presented in Table 2.
 
-| Preferred Term (MedDRA v16.0) | Number (%) of Subjects (N=59) | Number (%) of Infusions (N=793) |
+Table 2: Adverse Reactions in ≥ 5% of Patients in Study 1
+
+| Adverse Reactions* | Number (%) of Patients (N=59) | Number (%) of Infusions (N=793) |
 | --- | --- | --- |
 | Headache | 14 (24) | 21 (2.6) |
 | Sinusitis | 6 (10) | 7 (0.9) |
@@ -30,21 +25,48 @@ Table 2: Adverse Reactions (ARs) (within 72 hours after the end of an ASCENIV in
 | Muscle spasms | 4 (7) | 4 (0.5) |
 | Bronchitis | 3 (5) | 3 (0.4) |
 | Diarrhea | 3 (5) | 3 (0.4) |
-| Nose Bleed | 3 (5) | 4 (0.5) |
+| Epistaxis | 3 (5) | 4 (0.5) |
 | Muscle Pain | 3 (5) | 5 (0.6) |
 | Oropharyngeal pain | 3 (5) | 3 (0.4) |
 | Pain in extremity | 3 (5) | 3 (0.4) |
 | Itching | 3 (5) | 3 (0.4) |
+
+*Adverse reactions were defined as events occurring within 72 hours after the end of an ASCENIV infusion
+
+Study 2 (Pediatric Study)
+
+In Study 2, 16 pediatric patients with PI aged 2 to 11 years received 91 infusions of ASCENIV at a median dose of 541 mg/kg (range 300-800 mg/kg) every 3 or 4 weeks for approximately 5 months.
+
+The most common adverse reactions in Study 2 are presented in Table 3 below.
+
+Table 3: Adverse Reactions in Study 2
+
+| Adverse Reactions* | Number (%) of Patients (N=16) | Number (%) of Infusions (N=91) |
+| --- | --- | --- |
+| Chest Pain | 1 (6) | 1 (1) |
+| Epistaxis | 1 (6) | 1 (1) |
+| Fatigue | 1 (6) | 1 (1) |
+| Hypersensitivity | 1 (6) | 1 (1) |
+| Diarrhea | 1 (6) | 1 (1) |
+| Headache** | 4 (25) | 5 (5) |
+| Otitis** | 2 (13) | 2 (2) |
+| Viral Rash | 1 (6) | 1 (1) |
+| Vomiting | 1 (6) | 1 (1) |
+| Nausea | 3 (19) | 4 (4) |
+
+*Adverse reactions were defined as events occurring within 72 hours after the end of an ASCENIV infusion
+
+**Includes multiple related terms.
 
 ## 6.2 Postmarketing Experience
 
 Because postmarketing reporting of adverse reactions is voluntary and from a population of uncertain size, it is not always possible to reliably estimate the frequency of these reactions or establish a causal relationship to product exposure.
 The following adverse reactions have been identified and reported during the post-approval use of IGIV products:
 
-- Respiratory: Apnea, Acute Respiratory Distress Syndrome (ARDS), cyanosis, dyspnea, bronchospasm.
-- Cardiovascular: Cardiac arrest, vascular collapse, hypotension.
-- Neurological: Coma, loss of consciousness, seizures, tremor.
-- Integumentary: Stevens-Johnson syndrome, epidermolysis, erythema multiforme, bullous dermatitis.
-- Hematologic: Pancytopenia, leukopenia.
-- General/Body as a Whole: Pyrexia, rigors.
-- Gastrointestinal: Hepatic dysfunction, abdominal pain.
+- Respiratory, thoracic and mediastinal disorders: Apnea, Acute Respiratory Distress Syndrome (ARDS), cyanosis, dyspnea, bronchospasm.
+- Cardiac disorders: Cardiac arrest, vascular collapse, hypotension.
+- Nervous system disorder: Coma, loss of consciousness, seizures, tremor.
+- Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome, epidermolysis, erythema multiforme, bullous dermatitis.
+- Blood and lymphatic system disorders: Pancytopenia, leukopenia.
+- General disorders and administration site conditions: Pyrexia, rigors.
+- Gastrointestinal disorders: Hepatic dysfunction, abdominal pain.
