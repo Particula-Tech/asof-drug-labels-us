@@ -67,17 +67,23 @@ Clindamycin has been shown to be active against most of the isolates of the foll
 
 Gram-positive bacteria
 
-- Staphylococcus aureus (methicillin-susceptible strains)
-- Streptococcus pneumoniae (penicillin-susceptible strains)
-- Streptococcus pyogenes
+Staphylococcus aureus (methicillin-susceptible strains)
+
+Streptococcus pneumoniae (penicillin-susceptible strains)
+
+Streptococcus pyogenes
 
 Anaerobic bacteria
 
-- Clostridium perfringens
-- Fusobacterium necrophorum
-- Fusobacterium nucleatum
-- Peptostreptococcus anaerobius
-- Prevotella melaninogenica
+Clostridium perfringens
+
+Fusobacterium necrophorum
+
+Fusobacterium nucleatum
+
+Peptostreptococcus anaerobius
+
+Prevotella melaninogenica
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90% of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for clindamycin against isolates of a similar genus or organism group.
@@ -85,22 +91,33 @@ However, the efficacy of clindamycin in treating clinical infections due to thes
 
 Gram-positive bacteria
 
-- Staphylococcus epidermidis (methicillin-susceptible strains)
-- Streptococcus agalactiae
-- Streptococcus anginosus
-- Streptococcus mitis
-- Streptococcus oralis
+Staphylococcus epidermidis (methicillin-susceptible strains)
+
+Streptococcus agalactiae
+
+Streptococcus anginosus
+
+Streptococcus mitis
+
+Streptococcus oralis
 
 Anaerobic bacteria
 
-- Actinomyces israelii
-- Clostridium clostridioforme
-- Eggerthella lenta
-- Finegoldia (Peptostreptococcus) magna
-- Micromonas (Peptostreptococcus) micros
-- Prevotella bivia
-- Prevotella intermedia
-- Cutibacterium acnes
+Actinomyces israelii
+
+Clostridium clostridioforme
+
+Eggerthella lenta
+
+Finegoldia (Peptostreptococcus) magna
+
+Micromonas (Peptostreptococcus) micros
+
+Prevotella bivia
+
+Prevotella intermedia
+
+Cutibacterium acnes
 
 ### Susceptibility Testing
 

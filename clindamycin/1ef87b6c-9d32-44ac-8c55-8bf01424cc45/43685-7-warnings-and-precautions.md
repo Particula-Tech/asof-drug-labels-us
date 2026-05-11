@@ -19,7 +19,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibacte
 
 Anaphylactic shock and anaphylactic reactions have been reported (see ADVERSE REACTIONS).
 
-Severe hypersensitivity reactions, including severe skin reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome (SJS), and Kounis syndrome, some with fatal outcome, have been reported (see ADVERSE REACTIONS).
+Severe hypersensitivity reactions, including acute myocardial ischemia with or without myocardial infarction, and severe skin reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome (SJS), some with fatal outcome, have been reported (see ADVERSE REACTIONS).
 
 In case of such an anaphylactic or severe hypersensitivity reaction, discontinue treatment permanently and institute appropriate therapy.
 
