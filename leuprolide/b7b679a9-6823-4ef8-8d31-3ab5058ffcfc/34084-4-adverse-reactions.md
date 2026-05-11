@@ -107,8 +107,4 @@ In a majority of these cases, a pituitary adenoma was diagnosed with a majority 
 In these cases, pituitary apoplexy has presented as sudden headache, vomiting, visual changes, ophthalmoplegia, altered mental status, and sometimes cardiovascular collapse.
 Immediate medical attention has been required.
 
-Nervous System- Convulsions
-
-Respiratory System- Interstitial lung disease
-
-Skin reactions- Erythema multiforme, SJS/TEN
+Nervous System- Convulsions Psychiatric Disorders- Suicidal ideation and attempt Respiratory System- Interstitial lung disease Skin reactions- Erythema multiforme, SJS/TEN

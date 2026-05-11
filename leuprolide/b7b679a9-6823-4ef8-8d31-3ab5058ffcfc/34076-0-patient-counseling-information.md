@@ -44,7 +44,7 @@ Continuation of ELIGARD Treatment:
 
 Manufactured by: Tolmar, Fort Collins, CO 80526
 
-©2025 Tolmar
+©2026 Tolmar
 
 04006512 Rev.
-5 02/2025
+6 04/2026

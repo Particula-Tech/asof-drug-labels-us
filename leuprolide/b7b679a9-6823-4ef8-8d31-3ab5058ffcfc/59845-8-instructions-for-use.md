@@ -22,7 +22,7 @@ Follow the detailed instructions below to ensure correct administration of ELIGA
 | 4. Using your dominant hand, insert the needle quickly at a 90° angle to the skin surface. The depth of penetration will depend on the amount and fullness of the subcutaneous tissue and the length of the needle. After the needle is inserted, release the skin. 5. Inject the drug using a slow, steady push and press down on the plunger until the syringe is empty.Make sure all the drug has been injected before removing the needle.6. Withdraw the needle quickly at the same 90° angle used for insertion. |  |
 | 7. Immediately following the withdrawal of the needle, activate the safety shield using a finger/thumb or flat surface and push until it completely covers the needle tip and locks into place.8. An audible and tactile “click” verifies a locked position.9. Check to confirm the safety shield is fully engaged. Discard all components safely in an appropriate biohazard container. |  |
 
-©2025 Tolmar
+©2026 Tolmar
 
 Manufactured by: Tolmar, Fort Collins, CO 80526 04006512 Rev.
-5 02/2025
+6 04/2026
