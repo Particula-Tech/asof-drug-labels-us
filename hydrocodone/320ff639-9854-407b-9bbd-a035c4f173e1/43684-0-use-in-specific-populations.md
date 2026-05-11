@@ -26,14 +26,15 @@ Clinical Considerations
 Fetal/Neonatal Adverse Reactions
 
 Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
-The onset duration, and severity of neonatal sleep opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
+The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
 Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.13)].
 
 Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Opioids, including hydrocodone bitartrate and homatropine methylbromide, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
 Monitor neonates exposed to opioids during labor for signs of excess sedation and respiratory depression.
@@ -99,7 +100,7 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 
 Hydrocodone bitartrate and homatropine methylbromide is contraindicated in pediatric patients younger than 6 years of age because of life-threatening respiratory depression and death have occurred in pediatric patients who received hydrocodone [see Contraindications (4), Warnings and Precautions (5.2)].
 
-The safety and effectiveness of hydrocodone bitartrate and homatropine methylbromide has not been established in patients younger than 18 years of age.
+The safety and effectiveness of hydrocodone bitartrate and homatropine methylbromide have not been established in patients younger than 18 years of age.
 Hydrocodone bitartrate and homatropine methylbromide is not recommended for use in patients younger than 18 years of age because the benefits of symptomatic treatment of cough associated with allergies or the common cold do not outweigh the risks for use of hydrocodone in these patients [see Indications (1), Warnings and Precautions (5.3)].
 
 ## 8.5 Geriatric Use

@@ -19,7 +19,7 @@ Risk of Medication Errors
 
 Ensure accuracy when prescribing, dispensing, and administering hydrocodone bitartrate and homatropine methylbromide.
 Dosing errors can result in accidental overdose and death.
-Always use an accurate milliliter measuring device when measuring and administering hydrocodone bitartrate and homatropine methylbromide oral solution [see Dosage and Administration (2.1), Warnings and Precautions (5.5)].
+Always use an accurate milliliter measuring device when measuring and administering hydrocodone bitartrate and homatropine methylbromide [see Dosage and Administration (2.1), Warnings and Precautions (5.5)].
 
 Cytochrome P450 3A4 Interaction
 
@@ -40,5 +40,5 @@ The co-ingestion of alcohol with hydrocodone bitartrate and homatropine methylbr
 Neonatal Opioid Withdrawal Syndrome
 
 Hydrocodone bitartrate and homatropine methylbromide is not recommended for use in pregnant women [see Use in Specific Populations (8.1)].
-Prolonged use of hydrocodone bitartrate and homatropine methylbromide during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
-If hydrocodone bitartrate and homatropine methylbromide is used for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Warnings and Precautions (5.13)].
+Advise pregnant women using opioids for an extended period of time of the risk of Neonatal Opioid Withdrawal Syndrome, which may be life-threatening if not recognized and treated.
+Ensure that management by neonatology experts will be available at delivery [see Warnings and Precautions (5.13)].

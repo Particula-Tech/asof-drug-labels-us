@@ -4,7 +4,8 @@ Clinical Presentation
 
 Hydrocodone
 
-Acute overdose with hydrocodone is characterized by respiratory depression (a decrease in respiratory rate and/or tidal volume, Cheyne-Stokes respiration, cyanosis), extreme somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, partial or complete airway obstruction, atypical snoring, hypotension, circulatory collapse, cardiac arrest, and death.
+Acute overdose with hydrocodone is characterized by respiratory depression (a decrease in respiratory rate and/or tidal volume, Cheyne-Stokes respiration, cyanosis), extreme somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, partial or complete airway obstruction, atypical snoring, hypotension, hypoglycemia, circulatory collapse, cardiac arrest, and death.
+Toxic leukoencephalopathy has been reported after opioid overdose and can present hours, days, or weeks after apparent recovery from the initial intoxication.
 
 Hydrocodone may cause miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origin may produce similar findings).
@@ -24,11 +25,10 @@ Employ other supportive measures (including oxygen and vasopressors) in the mana
 Cardiac arrest or arrhythmias will require advanced life-support techniques.
 Gastric emptying may be useful in removing unabsorbed drug.
 
-The opioid antagonists, naloxone and nalmefene, are specific antidotes for respiratory depression resulting from opioid overdose.
-For clinically significant respiratory or circulatory depression secondary to hydrocodone overdose, administer an opioid antagonist.
-An antagonist should not be administered in the absence of clinically significant respiratory depression.
+For clinically significant respiratory or circulatory depression secondary to hydrocodone overdose, administer an opioid overdose reversal agent such as naloxone or nalmefene.
+An opioid overdose reversal agent should not be administered in the absence of clinically significant respiratory depression.
 Because the duration of opioid reversal is expected to be less than the duration of action of hydrocodone in hydrocodone bitartrate and homatropine methylbromide, carefully monitor the patient until spontaneous respiration is reliably reestablished.
-If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product's prescribing information.
+If the response to an opioid overdose reversal agent is suboptimal or only brief in nature, administer additional reversal agent as directed by the product's prescribing information.
 
 Hemodialysis is not routinely used to enhance the elimination of hydrocodone from the body.
 

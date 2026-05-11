@@ -31,8 +31,8 @@ Advise patients to avoid engaging in hazardous tasks that require mental alertne
 
 Interactions with Benzodiazepines and Other Central Nervous System Depressants, Including Alcohol
 
-Inform patients and caregivers that potentially fatal additive effects may occur if hydrocodone bitartrate and homatropine methylbromide is used with benzodiazepines or other CNS depressants, including alcohol.
-Advise patients to avoid concomitant use of hydrocodone bitartrate and homatropine methylbromide with benzodiazepines or other CNS depressants and instruct patients not to consume alcoholic beverages, as well as prescription and over-the-counter products that contain alcohol, during treatment with hydrocodone bitartrate and homatropine methylbromide [see Warnings and Precautions (5.8)], Drug Interactions (7.1, 7.4)].
+Inform patients and caregivers that potentially fatal additive effects may occur if hydrocodone bitartrate and homatropine methylbromide is used with benzodiazepines or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids).
+Advise patients to avoid concomitant use of hydrocodone bitartrate and homatropine methylbromide with benzodiazepines or other CNS depressants and instruct patients not to consume alcoholic beverages, as well as prescription and over-the-counter products that contain alcohol, during treatment with hydrocodone bitartrate and homatropine methylbromide [see Warnings and Precautions (5.8), Drug Interactions (7.1, 7.4)].
 
 Constipation
 
@@ -59,7 +59,7 @@ Advise patients that use of hydrocodone bitartrate and homatropine methylbromide
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that use of hydrocodone bitartrate and homatropine methylbromide during pregnancy can result inneonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated Warnings and Precautions (5.13), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that use of hydrocodone bitartrate and homatropine methylbromide during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.13), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
@@ -86,7 +86,7 @@ Inform patients that hydrocodone bitartrate and homatropine methylbromide could 
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
 Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Adverse Reactions (6), Drug Interactions (7.5)].
 
-Disposal of Unused Hydrocodone Bitartrate And Homatropine Methylbromide.
+Disposal of Unused Hydrocodone bitartrate and homatropine methylbromide
 
 Advise patients to properly dispose of unused hydrocodone bitartrate and homatropine methylbromide.
 Advise patients to throw the drug in the household trash following these steps.

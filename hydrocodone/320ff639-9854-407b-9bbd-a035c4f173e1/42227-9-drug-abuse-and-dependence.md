@@ -25,10 +25,11 @@ Preoccupation with achieving adequate pain relief can be appropriate behavior in
 Abuse and addiction are separate and distinct from physical dependence and tolerance.
 Health care providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
 In addition, abuse of opioids can occur in the absence of true addiction.
+
 Hydrocodone bitartrate and homatropine methylbromide, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
 Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
 
-Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opiod drugs.
+Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
 Risks Specific to Abuse of Hydrocodone Bitartrate and Homatropine Methylbromide
 
@@ -42,12 +43,12 @@ Parenteral drug abuse is commonly associated with transmission of infectious dis
 
 Psychological dependence, physical dependence, and tolerance may develop upon repeated administration of opioids; therefore, hydrocodone bitartrate and homatropine methylbromide should be prescribed and administered for the shortest duration that is consistent with individual patient treatment goals and patients should be reevaluated prior to refills [see Dosage and Administration (2.3), Warnings and Precautions (5.1)].
 
-Physical dependence, the condition in which continued administration of the drug is required to prevent the appearance of a withdrawal syndrome, assumes clinically significant proportions only after several weeks of continued oral opioid use, although some mild degree of physical dependence may develope after a few days of opioid therapy.
+Physical dependence, the condition in which continued administration of the drug is required to prevent the appearance of a withdrawal syndrome, assumes clinically significant proportions only after several weeks of continued oral opioid use, although some mild degree of physical dependence may develop after a few days of opioid therapy.
 
-If hydrocodone bitartrate and homatropine methylbromide is abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur.
+Do not rapidly reduce or abruptly discontinue hydrocodone bitartrate and homatropine methylbromide in a patient physically dependent on opioids.
+If hydrocodone bitartrate and homatropine methylbromide is rapidly reduced or abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur.
 Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
-
 Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].

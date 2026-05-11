@@ -8,7 +8,7 @@ The following clinically significant adverse reactions are described elsewhere i
 - Decreased mental alertness with impaired mental and/or physical abilities [see Warnings and Precautions (5.6)]
 - Interactions with benzodiazepines and other CNS depressants [see Warnings and Precautions (5.8), Drug Interactions (7.1, 7.4)]
 - Paralytic ileus, gastrointestinal adverse reactions [see Warnings and Precautions (5.9)]
-- Increased intracranial pressure [see Warnings and Precautions (5.10)].
+- Increased intracranial pressure [see Warnings and Precautions (5.10)]
 - Obscured clinical course in patients with head injuries [see Warnings and Precautions (5.10)]
 - Seizures [see Warnings and Precautions (5.11)]
 - Severe hypotension [see Warnings and Precautions (5.12)]
@@ -53,3 +53,8 @@ Reproductive: Hypogonadism, infertility.
 Respiratory: Bronchitis, cough, dyspnea, nasal congestion, nasopharyngitis, respiratory depression, sinusitis, upper respiratory tract infection.
 
 Other: Drug abuse, drug dependence, opioid withdrawal syndrome.
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
+Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
+
+Opioid-induced esophageal dysfunction (OIED): Cases of OIED have been reported in patients taking opioids and may occur more frequently in patients taking higher doses of opioids, and/or in patients taking opioids longer term.

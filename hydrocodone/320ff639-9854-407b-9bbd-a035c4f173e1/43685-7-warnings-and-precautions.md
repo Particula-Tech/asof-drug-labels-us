@@ -8,6 +8,8 @@
 - Assess each patient's risk prior to prescribing hydrocodone bitartrate and homatropine methylbromide, prescribe hydrocodone bitartrate and homatropine methylbromide for the shortest duration that is consistent with individual patient treatment goals, monitor all patients regularly for the development of addiction or abuse, and refill only after reevaluation of the need for continued treatment.
 - Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed hydrocodone bitartrate and homatropine methylbromide.
   Addiction can occur at recommended dosages and if the drug is misused or abused.
+  The risk of opioid-related overdose or overdose-related death is increased with higher opioid doses, and this risk persists over the course of therapy.
+  In postmarketing studies, addiction, abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use [see Adverse Reactions (6)].
   Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 - Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
   Consider these risks when prescribing or dispensing hydrocodone bitartrate and homatropine methylbromide.
@@ -17,9 +19,9 @@
 ## 5.2 Life-Threatening Respiratory Depression
 
 - Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, including hydrocodone, one of the active ingredients in hydrocodone bitartrate and homatropine methylbromide.
-  Hydrocodone produces dose related respiratory depression by directly acting on the brain stem respiratory center that controls respiratory rhythm and may produce irregular and periodic breathing.
+  Hydrocodone produces dose-related respiratory depression by directly acting on the brain stem respiratory center that controls respiratory rhythm and may produce irregular and periodic breathing.
   Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-  Management of respiratory depression includes discontinuation of hydrocodone bitartrate and homatropine methylbromide, close observation, supportive measures, and use of opioid antagonists (e.g., naloxone), depending on the patient's clinical status [see Overdosage (10)].
+  Management of respiratory depression includes discontinuation of hydrocodone bitartrate and homatropine methylbromide, close observation, supportive measures, and use of opioid overdose reversal agents (e.g., naloxone or nalmefene), depending on the patient's clinical status [see Overdosage (10)].
   Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 - While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of hydrocodone bitartrate and homatropine methylbromide, the risk is greatest during the initiation of therapy, when hydrocodone bitartrate and homatropine methylbromide is used concomitantly with other drugs that may cause respiratory depression [see Warnings and Precautions (5.8)], in patients with chronic pulmonary disease or decreased respiratory reserve, and in patients with altered pharmacokinetics or altered clearance (e.g., elderly, cachectic, or debilitated patients) [see Warnings and Precautions (5.4)].
 - To reduce the risk of respiratory depression, proper dosing of hydrocodone bitartrate and homatropine methylbromide is essential [see Dosage and Administration (2.1), Warnings and Precautions (5.5)].
@@ -76,15 +78,15 @@ Avoid concurrent use of hydrocodone bitartrate and homatropine methylbromide wit
 
 ## 5.8 Risks from Concomitant Use with Benzodiazepines or other CNS Depressants
 
-- Concomitant use of opioids, including hydrocodone bitartrate and homatropine methylbromide, with benzodiazepines, or other CNS depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
+- Concomitant use of opioids, including hydrocodone bitartrate and homatropine methylbromide, with benzodiazepines, gabapentinoids (gabapentin or pregabalin), or other CNS depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
   Because of these risks, avoid use of opioid cough medications in patients taking benzodiazepines, other CNS depressants, or alcohol [see Drug Interactions (7.1, 7.4)].
 - Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
-  Because of similar pharmacologic properties, it is reasonable to expect similar risk with concomitant use of opioid cough medications and benzodiazepines, other CNS depressants, or alcohol.
-- Advise both patients and caregivers about the risks of respiratory depression and sedation if hydrocodone bitartrate and homatropine methylbromide is used with benzodiazepines, alcohol, or other CNS depressants [see Patient Counseling Information (17)].
+  Because of similar pharmacologic properties, it is reasonable to expect similar risk with concomitant use of opioid cough medications and benzodiazepines, gabapentinoids (gabapentin or pregabalin), other CNS depressants, or alcohol.
+- Advise both patients and caregivers about the risks of respiratory depression and sedation if hydrocodone bitartrate and homatropine methylbromide is used with benzodiazepines, gabapentinoids (gabapentin or pregabalin), alcohol, or other CNS depressants [see Patient Counseling Information (17)].
 - Patients must not consume alcoholic beverages, or prescription or non-prescription products containing alcohol, while on hydrocodone bitartrate and homatropine methylbromide therapy.
   The co-ingestion of alcohol with hydrocodone bitartrate and homatropine methylbromide may result in increased plasma levels and a potentially fatal overdose of hydrocodone [see Drug Interactions (7.1)].
 
-## 5.9 Risks of Use in Patients with Gastrointestinal Conditions
+## 5.9 Risks of Gastrointestinal Complications
 
 - Hydrocodone bitartrate and homatropine methylbromide is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus [see Contraindications (4)].
   The use of hydrocodone in hydrocodone bitartrate and homatropine methylbromide may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
@@ -94,6 +96,9 @@ Avoid concurrent use of hydrocodone bitartrate and homatropine methylbromide wit
 - The hydrocodone in hydrocodone bitartrate and homatropine methylbromide may cause spasm of the sphincter of Oddi, resulting in an increase in biliary tract pressure.
   Opioids may cause increases in serum amylase [see Warnings and Precautions (5.15)].
   Monitor patients with biliary tract disease, including acute pancreatitis for worsening symptoms.
+- Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
+  The risk of OIED may increase as the dose and/or duration of opioids increases.
+  Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain) and, if necessary, adjust opioid therapy as clinically appropriate [see Clinical Pharmacology (12.2)].
 
 ## 5.10 Risks of Use in Patients with Head Injury, Impaired Consciousness, Increased Intracranial Pressure, or Brain Tumors
 

@@ -26,8 +26,8 @@ If concomitant use of a CYP3A4 inducer is necessary, follow the patient for redu
 
 ## 7.4 Benzodiazepines, and Other CNS Depressants
 
-Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, and other opioids, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death.
-Avoid the use of hydrocodone bitartrate and homatropine methylbromide in patients who are taking benzodiazepines or other CNS depressants [see Warnings and Precautions (5.8)], and instruct patients to avoid consumption of alchohol while on hydrocodone bitartrate and homatropine methylbromide [see Drug Interactions (7.1), Patient Counseling Information (17)].
+Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids (gabapentin or pregabalin), and other opioids, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death.
+Avoid the use of hydrocodone bitartrate and homatropine methylbromide in patients who are taking benzodiazepines, gabapentinoids, or other CNS depressants [see Warnings and Precautions (5.8)], and instruct patients to avoid consumption of alcohol while on hydrocodone bitartrate and homatropine methylbromide [see Drug Interactions (7.1), Patient Counseling Information (17)].
 
 ## 7.5 Serotonergic Drugs
 
@@ -43,7 +43,7 @@ MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxi
 
 ## 7.7 Muscle Relaxants
 
-Hydrocodone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
+Hydrocodone may enhance the neuromuscular blocking action of skeletal muscle relaxants (e.g., cyclobenzaprine, metaxalone) and produce an increased degree of respiratory depression.
 Avoid the use of hydrocodone bitartrate and homatropine methylbromide in patients taking muscle relaxants.
 If concomitant use is necessary, monitor patients for signs of respiratory depression that may be greater than otherwise expected.
 
