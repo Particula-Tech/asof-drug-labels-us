@@ -14,7 +14,7 @@ Who should not use ZIANA Gel?
 
 Do not use ZIANA Gel if you:
 
-- •have Crohn's Disease
+- •have Crohn’s Disease
 - •have Ulcerative Colitis
 - •have developed colitis with past antibiotic use
 
@@ -25,8 +25,8 @@ Tell your doctor:
 - •if you are breastfeeding.
   ZIANA Gel may pass through your milk and may harm your baby.
 - •about all the medicines and skin products you use:
-  - oZIANA Gel should not be used with erythromycin-containing products.
-  - oAvoid medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and skin products that contain alcohol, astringents, spices or lime.
+  - •ZIANA Gel should not be used with erythromycin-containing products.
+  - •Avoid medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and skin products that contain alcohol, astringents, spices or lime.
     These products may cause increased skin irritation if used with ZIANA Gel.
 
 How should I use ZIANA Gel?
@@ -106,16 +106,12 @@ Active Ingredients: clindamycin phosphate 1.2% and tretinoin 0.025%
 
 Inactive Ingredients: butylated hydroxytoluene NF, carbomer 981 NF, citric acid USP, edetate disodium USP, glycerin USP, methylparaben NF, polysorbate 80 NF, propylparaben NF, purified water USP and tromethamine USP.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
-U.S. Patent 6,387,383
+ZIANA is a registered trademark of Bausch Health Companies Inc. or its affiliates.
 
-Ziana is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+© 2026 Bausch Health Companies Inc. or its affiliates
 
-©Valeant Pharmaceuticals North America LLC
-
-9480201 20001130B
-
-Revised: 03/2017
+Revised: 03/2026 9480202 20001130C

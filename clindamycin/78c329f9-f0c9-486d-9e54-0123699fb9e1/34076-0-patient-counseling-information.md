@@ -18,14 +18,12 @@ Colitis
 
 In the event a patient treated with ZIANA Gel experiences severe diarrhea or gastrointestinal discomfort, ZIANA Gel should be discontinued and a physician should be contacted.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada U.S. Patent 6,387,383
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
-Ziana is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+ZIANA is a registered trademark of Bausch Health Companies Inc. or its affiliates.
 
-©Valeant Pharmaceuticals North America LLC
+© 2026 Bausch Health Companies Inc. or its affiliates
 
-9480201
-
-20001130B
+9480202 20001130C

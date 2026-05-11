@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanisms of Action
+## 12.1 Mechanism of Action
 
 Clindamycin
 

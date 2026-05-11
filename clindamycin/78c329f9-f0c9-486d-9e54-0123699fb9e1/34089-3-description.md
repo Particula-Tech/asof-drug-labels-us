@@ -8,7 +8,7 @@ The structural formula for clindamycin phosphate is represented below:
 
 Clindamycin phosphate: Molecular Formula: C18H34ClN2O8PS Molecular Weight: 504.97
 
-The chemical name for tretinoin is 3,7-Dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2,4,6,8 nonatetraenoic acid (all-trans form).
+The chemical name for tretinoin is 3,7-Dimethyl- 9-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2,4,6,8 nonatetraenoic acid (all-trans form).
 The structural formula for tretinoin is represented below:
 
 Tretinoin:

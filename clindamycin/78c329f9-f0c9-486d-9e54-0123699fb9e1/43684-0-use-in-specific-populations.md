@@ -36,7 +36,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 Safety and effectiveness of ZIANA Gel in pediatric patients under the age of 12 have not been established.
 
-Clinical trials of ZIANA Gel included patients 12–17 years of age.
+Clinical trials of ZIANA Gel included patients 12-17 years of age.
 [See Clinical Studies (14).]
 
 ## 8.5 Geriatric Use
