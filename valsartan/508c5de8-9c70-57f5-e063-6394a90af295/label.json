@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA209139"
+  ],
+  "inn": "valsartan",
+  "labeler": "AptaPharma Inc.",
+  "package_ndcs": [
+    "76281-155-56",
+    "76281-155-64",
+    "76281-155-82",
+    "76281-155-99"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "prexxartan",
+      "name": "PREXXARTAN"
+    }
+  ],
+  "setid": "508c5de8-9c70-57f5-e063-6394a90af295",
+  "source": "dailymed"
+}

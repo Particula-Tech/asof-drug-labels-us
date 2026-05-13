@@ -1,0 +1,33 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 7621-0155-64
+
+Prexxartan TM (valsartan) Oral Solution
+
+20 mg/5 mL
+
+120 mL
+
+NDC 7621-0155-82
+
+Prexxartan TM (valsartan) Oral Solution
+
+20 mg/5 mL
+
+473 mL
+
+NDC 7621-0155-56
+
+Prexxartan TM (valsartan) Oral Solution
+
+80 mg in 20 mL
+
+Unit Dose Cup
+
+NDC 7621-0155-99
+
+Prexxartan TM (valsartan) Oral Solution
+
+80 mg/20 mL
+
+Tray (10 Unit Dose Cups)
