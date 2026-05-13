@@ -31,7 +31,7 @@ Pediatric patients including infants generally had a shorter time to maximum neu
 Table 5.
 Pharmacodynamic Dose Response* of Cisatracurium Besylate Injection During Opioid/Nitrous Oxide/Oxygen Anesthesia
 
-| ﻿ C isatracurium Besylate Dose | Time to 90% Block (minutes) | Time to Maximum Block (minutes) | 5% Recovery (minutes) | 25% Recovery (minutes) | 95% Recovery (minutes) | T4:T1 Ratio‡ ≥ 70% in minutes | 25%-75% Recovery Index in minutes |
+| ﻿ C isatracurium Besylate Dose | Time to 90% Block in minutes | Time to Maximum Block in minutes | 5% Recovery in minutes | 25% Recovery in minutes | 95% Recovery in minutes | T4:T1 Ratio‡ ≥ 70% in minutes | 25%-75% Recovery Index in minutes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Adults |  |  |  |  |  |  |  |
 | 0.1 mg/kg (2 × ED95) (n§ = 98) | 3.3 (1.0-8.7) | 5.0 (1.2-17.2) | 33 (15-51) | 42 (22-63) | 64 (25-93) | 64 (32-91) | 13 (5-30) |

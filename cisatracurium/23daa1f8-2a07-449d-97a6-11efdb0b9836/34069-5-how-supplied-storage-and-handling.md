@@ -2,7 +2,7 @@
 
 Cisatracurium Besylate Injection, USP is clear, colorless to slightly yellow or greenish yellow solution supplied as follows:
 
-| Strength (mg of cisatracurium) | Containers | Size | NDC# | Preservative |
+| Strength (mg of Cisatracurium Besylate) | Containers | Size | NDC# | Preservative |
 | --- | --- | --- | --- | --- |
 | 10 mg/5 mL (2 mg/mL) | 5 mL Single-dose vials | Pack of 1 | 70069- 141 -01 | Does not contain benzyl alcohol |
 | Pack of 10's | 70069- 141 -10 |  |  |  |

@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Cisatracurium besylate injection is available as a clear, colorless to slightly yellow or greenish yellow solution in the following strengths:
+Cisatracurium besylate injection is available as clear, colorless to slightly yellow or greenish yellow solution in the following strengths:
 
 10 mg of cisatracurium per 5 mL (2 mg/mL) in single-dose vials (equivalent to 2.68 mg/mL cisatracurium besylate)
 
