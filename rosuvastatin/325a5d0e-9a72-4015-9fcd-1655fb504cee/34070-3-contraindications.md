@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-CRESTOR is contraindicated in the following conditions:
+CRESTOR is contraindicated in patients with:
 
 - •Acute liver failure or decompensated cirrhosis [see Warnings and Precautions (5.3)].
 - •Hypersensitivity to rosuvastatin or any excipients in CRESTOR.

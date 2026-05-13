@@ -38,7 +38,7 @@ Just resume the usual schedule [see Dosage and Administration (2.1)].
 
 CRESTOR® is a trademark of the AstraZeneca group of companies.
 
-© AstraZeneca XXXX
+© AstraZeneca 2026
 
 Licensed from SHIONOGI & CO., LTD., Osaka, Japan
 

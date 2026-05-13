@@ -29,13 +29,13 @@ Major CV Events by Treatment Group in JUPITER
 
 At one year, CRESTOR increased HDL‑C and reduced LDL‑C, hsCRP, total cholesterol and serum triglyceride levels (p<0.001 for all versus placebo).
 
-Primary Hyperlipidemia in Adults
+Primary Hypercholesterolemia in Adults
 
-CRESTOR reduces Total‑C, LDL‑C, ApoB, non‑HDL‑C, and TG, and increases HDL‑C, in adult patients with hyperlipidemia and mixed dyslipidemia.
+CRESTOR reduces Total‑C, LDL‑C, ApoB, non‑HDL‑C, and TG, and increases HDL‑C, in adult patients with Hypercholesterolemia and mixed dyslipidemia.
 
-In a multicenter, double‑blind, placebo‑controlled study in patients with hyperlipidemia, CRESTOR given as a single daily dose (5 to 40 mg) for 6 weeks significantly reduced Total‑C, LDL‑C, non‑HDL‑C, and ApoB, across the dose range (Table 10).
+In a multicenter, double‑blind, placebo‑controlled study in patients with Hypercholesterolemia, CRESTOR given as a single daily dose (5 to 40 mg) for 6 weeks significantly reduced Total‑C, LDL‑C, non‑HDL‑C, and ApoB, across the dose range (Table 10).
 
-Table 10: Lipid-Modifying Effect of CRESTOR in Adult Patients with Hyperlipidemia (Adjusted Mean % Change from Baseline at Week 6)
+Table 10: Lipid-Modifying Effect of CRESTOR in Adult Patients with Hypercholesterolemia (Adjusted Mean % Change from Baseline at Week 6)
 
 | Dose | N | Total‑C | LDL‑C | Non-HDL‑C | ApoB | TG | HDL‑C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -45,16 +45,16 @@ Table 10: Lipid-Modifying Effect of CRESTOR in Adult Patients with Hyperlipidemi
 | CRESTOR 20 mg | 17 | -40 | -55 | -51 | -46 | -23 | 8 |
 | CRESTOR 40 mg | 18 | -46 | -63 | -60 | -54 | -28 | 10 |
 
-CRESTOR was compared with the statins (atorvastatin, simvastatin, and pravastatin) in a multicenter, open-label, dose‑ranging study of 2,240 patients with hyperlipidemia or mixed dyslipidemia.
+CRESTOR was compared with the statins (atorvastatin, simvastatin, and pravastatin) in a multicenter, open-label, dose‑ranging study of 2,240 patients with Hypercholesterolemia or mixed dyslipidemia.
 After randomization, patients were treated for 6 weeks with a single daily dose of either CRESTOR, atorvastatin, simvastatin, or pravastatin (see Figure 3 and Table 11).
 
 Figure 3.
-Percent LDL‑C Change by Dose of CRESTOR, Atorvastatin, Simvastatin, and Pravastatin at Week 6 in Adult Patients with Hyperlipidemia or Mixed Dyslipidemia
+Percent LDL‑C Change by Dose of CRESTOR, Atorvastatin, Simvastatin, and Pravastatin at Week 6 in Adult Patients with Hypercholesterolemia or Mixed Dyslipidemia
 
 Box plots are a representation of the 25th, 50th, and 75th percentile values, with whiskers representing the 10th and 90th percentile values.
 Mean baseline LDL‑C: 189 mg/dL.
 
-Table 11: Percent Change in LDL-C by Dose of CRESTOR, Atorvastatin, Simvastatin, and Pravastatin From Baseline to Week 6 (LS MeanCorresponding standard errors are approximately 1.00.) in Adult Patients with Hyperlipidemia or Mixed Dyslipidemia (Sample Sizes Ranging from 156–167 Patients Per Group)
+Table 11: Percent Change in LDL-C by Dose of CRESTOR, Atorvastatin, Simvastatin, and Pravastatin From Baseline to Week 6 (LS MeanCorresponding standard errors are approximately 1.00.) in Adult Patients with Hypercholesterolemia or Mixed Dyslipidemia (Sample Sizes Ranging from 156–167 Patients Per Group)
 
 |  | Treatment Daily Dose |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -122,7 +122,7 @@ The reductions in LDL‑C from baseline were generally consistent across age gro
 
 HoFH in Adult and Pediatric Patients
 
-In an open-label, forced-titration study, HoFH patients (n=40, 8‑63 years) were evaluated for their response to CRESTOR 20 to 40 mg titrated at a 6‑week interval.
+In an open-label, forced-titration study, HoFH patients (n=40, 8 to 63 years) were evaluated for their response to CRESTOR 20 to 40 mg titrated at a 6‑week interval.
 In the overall population, the mean LDL‑C reduction from baseline was 22%.
 About one-third of the patients benefited from increasing their dose from 20 mg to 40 mg with further LDL‑C lowering of greater than 6%.
 In the 27 patients with at least a 15% reduction in LDL‑C, the mean LDL‑C reduction was 30% (median 28% reduction).
