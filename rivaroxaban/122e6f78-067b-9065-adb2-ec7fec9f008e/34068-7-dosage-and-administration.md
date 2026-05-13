@@ -10,9 +10,9 @@ Table 1: Recommended Dosage in Adults
 | Reduction of Risk of Major Thrombotic Vascular Events in PAD, Including Patients after Lower Extremity Revascularization due to Symptomatic PAD | No doseadjustment neededbased on CrCl | 2.5 mg twice daily, plus aspirin (75 to 100 mg) once daily. When starting therapy after asuccessful lower extremityrevascularization procedure,initiate once hemostasis has beenestablished. | Take with or without food |
 
 * Calculate CrCl based on actual weight.
-[See Warnings and Precautions (5.4) and Use in Specific Populations (8.6)]
+[See Warnings and Precautions (5.4) and Use in Specific Populations (8.6)].
 
-† See Clinical Pharmacology (12.3)
+† [See Clinical Pharmacology ([12.3)]
 
 ## 2.2 Recommended Dosage in Pediatric Patients
 

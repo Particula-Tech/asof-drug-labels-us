@@ -22,7 +22,7 @@ Concomitant use of drugs that are known combined P-gp and strong CYP3A inhibitor
 
 Reversal of Anticoagulant Effect
 
-An agent to reverse the anti-factor Xa activity of rivaroxaban is available.
+A specific agent to reverse the anti-factor Xa activity of rivaroxaban is not available.
 Because of high plasma protein binding, rivaroxaban is not dialyzable [see Clinical Pharmacology (12.3)].
 Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of rivaroxaban.
 Use of procoagulant reversal agents, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate or recombinant factor VIIa, may be considered but has not been evaluated in clinical efficacy and safety studies.
