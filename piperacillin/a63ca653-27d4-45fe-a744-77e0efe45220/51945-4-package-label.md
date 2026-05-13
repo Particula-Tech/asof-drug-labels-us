@@ -59,6 +59,14 @@ Y37-002-612 LD-804-2
 
 F50000403335
 
+PEEL HERE
+
+Drug Chamber Discard unit if foil strip is damaged.
+Peel foil strip only when ready for use.
+Visually inspect drug prior to reconstitution.
+See package insert for complete directions for reconstitution and administration.
+LD-617-1 X27-001-488
+
 # PRINCIPAL DISPLAY PANEL – 3.375 g Container
 
 Piperacillin and Tazobactam for Injection USP and Sodium Chloride Injection USP
@@ -120,6 +128,14 @@ Y37-002-613 LD-805-2
 
 F50000403338
 
+PEEL HERE
+
+Drug Chamber Discard unit if foil strip is damaged.
+Peel foil strip only when ready for use.
+Visually inspect drug prior to reconstitution.
+See package insert for complete directions for reconstitution and administration.
+LD-617-1 X27-001-488
+
 # PRINCIPAL DISPLAY PANEL – 4.5 g Container
 
 Piperacillin and Tazobactam for Injection USP and Sodium Chloride Injection USP
@@ -180,3 +196,11 @@ API from Italy.
 Y37-002-614 LD-806-2
 
 F50000403339
+
+PEEL HERE
+
+Drug Chamber Discard unit if foil strip is damaged.
+Peel foil strip only when ready for use.
+Visually inspect drug prior to reconstitution.
+See package insert for complete directions for reconstitution and administration.
+LD-616-1 X27-001-487
