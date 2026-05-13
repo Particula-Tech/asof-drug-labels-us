@@ -21,13 +21,15 @@ Protect from light.
 
 Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-Mylan.com
+Viatris.com
 
-RALP2146
+3539/1
+
+RALP2146A1
 
 # PRINCIPAL DISPLAY PANEL - 50 mg
 
@@ -52,13 +54,15 @@ Protect from light.
 
 Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-Mylan.com
+Viatris.com
 
-RALP0243
+3541/1
+
+RALP0243A1
 
 # PRINCIPAL DISPLAY PANEL - 100 mg
 
@@ -83,10 +87,12 @@ Protect from light.
 
 Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-Mylan.com
+Viatris.com
 
-RALP0437A
+3543/1
+
+RALP0437A1
