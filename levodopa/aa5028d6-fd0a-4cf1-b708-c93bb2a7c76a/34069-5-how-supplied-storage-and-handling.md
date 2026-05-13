@@ -19,8 +19,6 @@ Dispense in a tight, light resistant container as defined in the USP using a chi
 
 Keep container tightly closed.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-Manufactured by: ALPHAPHARM PTY LTD 15 Garnet Street Carole Park QLD 4300 Australia
-
-Revised: 4/2026 ALP:CBLVER:RX [site code placeholder]
+Revised: 4/2026 ALP:CBLVER:R4

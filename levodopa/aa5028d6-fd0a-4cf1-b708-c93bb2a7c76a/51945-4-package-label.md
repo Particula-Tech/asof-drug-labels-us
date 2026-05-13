@@ -17,17 +17,17 @@ Keep this and all medication out of the reach of children.
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
 Tablets should be swallowed without chewing or crushing.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-Mylan.com
+Viatris.com
 
-RALP0088A
+RALP0088A1
 
 # PRINCIPAL DISPLAY PANEL – 50 mg/200 mg
 
@@ -48,14 +48,14 @@ Keep this and all medication out of the reach of children.
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
 Tablets should be swallowed without chewing or crushing.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-Mylan.com
+Viatris.com
 
-RALP0094A
+RALP0094A1
