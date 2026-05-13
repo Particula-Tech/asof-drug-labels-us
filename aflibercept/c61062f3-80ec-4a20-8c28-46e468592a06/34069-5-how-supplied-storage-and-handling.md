@@ -2,9 +2,9 @@
 
 ## 16.1 How Supplied
 
-Each prefilled syringe or vial is for single eye use only.
+Each prefilled syringe or vial is a clear to opalescent and colorless to slightly yellow solution and is for single eye use only.
+PAVBLU is supplied in the following presentations [see Dosage and Administration (2.1), (2.6), (2.7) and (2.8)].
 Discard unused portion.
-PAVBLU injection is a clear to opalescent and colorless to slightly yellow solution supplied in the following presentations:
 
 | NDC NUMBER | CARTON TYPE | CARTON CONTENTS |
 | --- | --- | --- |

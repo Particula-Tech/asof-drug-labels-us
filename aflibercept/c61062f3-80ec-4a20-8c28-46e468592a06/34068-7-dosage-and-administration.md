@@ -48,7 +48,6 @@ The prefilled syringe should be inspected visually prior to administration.
 It is a clear to opalescent and colorless to slightly yellow solution.
 Do not use if particulates, cloudiness, or discoloration are visible, or if the package is open or damaged.
 The appearance of the syringe cap on the prefilled syringe may vary (for example, color and design).
-
 Do not use if any part of the prefilled syringe is damaged or if the syringe cap is detached from the Luer lock.
 
 The intravitreal injection should be performed with a 30-gauge × ½-inch injection needle (not provided).
@@ -149,14 +148,14 @@ Note: When ready to withdraw PAVBLU, remove the plastic needle shield from the n
 | Figure 10a: | Figure 10b: |
 | --- | --- |
 
-Note: When ready to administer PAVBLU, remove the plastic needle shield from the needle.
+1. 9.When ready to administer PAVBLU, remove the plastic needle shield from the needle.
 
-1. 9.Holding the syringe with the needle pointing up, check the syringe for bubbles.
+1. 10.Holding the syringe with the needle pointing up, check the syringe for bubbles.
    If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 11).
 
 Figure 11:
 
-1. 10.To eliminate all of the bubbles and to expel excess drug, SLOWLY depress the plunger rod so that the plunger edge aligns with the line that marks 0.05 mL on the syringe (see Figure 12a and Figure 12b).
+1. 11.To eliminate all of the bubbles and to expel excess drug, SLOWLY depress the plunger rod so that the plunger edge aligns with the line that marks 0.05 mL on the syringe (see Figure 12a and Figure 12b).
 
 ## 2.8 Injection Procedure
 

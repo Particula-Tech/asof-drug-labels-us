@@ -35,7 +35,7 @@ Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline visu
 | --- |
 
 VIEW1 and VIEW2 studies were both 96 weeks in duration.
-However after 52 weeks patients no longer followed a fixed dosing schedule.
+However, after 52 weeks patients no longer followed a fixed dosing schedule.
 Between week 52 and week 96, patients continued to receive the drug and dosage strength to which they were initially randomized on a modified 12 week dosing schedule (doses at least every 12 weeks and additional doses as needed).
 Therefore, during the second year of these studies there was no active control comparison arm.
 
@@ -100,7 +100,7 @@ Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in VIBRANT Study
 | Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 6.9 | 17.0 |
 | (12.9) | (11.9) |  |
 | Difference in LS mean,LS mean and CI based on an ANCOVA model |  | 10.5 |
-| (95.1% CI) |  | (7.1, 14.0) |
+| (95% CI) |  | (7.1, 14.0) |
 
 | Figure 15. Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 24 in VIBRANT Study |
 | --- |
