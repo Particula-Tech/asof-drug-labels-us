@@ -30,5 +30,5 @@ Monitor the patient closely for aspiration, discontinue administration of VARIBA
 
 ## 5.5 Systemic Embolization
 
-Barium sulfate products may occasionally intravasate into the venous drainage of the large bowel and enter the circulation as a "barium embolus" leading to potentially fatal complications which include systemic and pulmonary embolism, disseminated intravascular coagulation, septicemia and prolonged severe hypotension.
+Barium sulfate products may occasionally intravasate into the venous drainage of the large bowel and enter the circulation as a “barium embolus” leading to potentially fatal complications which include systemic and pulmonary embolism, disseminated intravascular coagulation, septicemia and prolonged severe hypotension.
 Although this complication is exceedingly uncommon after oral administration of a barium sulfate suspension, monitor patients for potential intravasation when administering barium sulfate.

@@ -8,8 +8,8 @@ After administration, advise patients to:
 
 Rx only
 
-Manufactured for Bracco Diagnostics Inc. Monroe Township, NJ 08831 by EZEM Canada Inc Anjou (Quebec) Canada H1J 2Z4
+Manufactured for Bracco Diagnostics Inc. Princeton, NJ 08540 by EZEM Canada Inc Anjou (Quebec) Canada H1J 2Z4
 
 VARIBAR® is a registered trademark of E-Z-EM, Inc.
 
-Revised: August 2024 CL87D-04
+Revised: May 2025 CL87D-05

@@ -1,7 +1,7 @@
-230 mL Varibar Pudding Label
+Varibar Pudding 230 mL External Label 05-25 CE87F-05
 
-230 mL Varibar Pudding Tube
+Varibar Pudding 230 mL Tube Label 05-25 CT880-06
 
-30 mL Varibar Pudding Label
+Varibar Pudding 30 mL External Label 05-25 CE1378-02
 
-30 mL Varibar Pudding Tube
+Varibar Pudding 30 mL Tube Label 05-25 CT0881-02
