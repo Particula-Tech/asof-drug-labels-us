@@ -26,7 +26,7 @@ Advise patients and their caregivers to avoid excessive sun exposure and use sun
 
 Renal Toxicity: Advise patients and their caregivers to immediately contact their healthcare provider for signs or symptoms of renal toxicity, such as marked increases or decreases in urinary output [see Warnings and Precautions (5.8)].
 
-Risk of Serious Adverse Reactions with Medication Error: For patients who are prescribed a once weekly dosing regimen, advise patients and caregivers that the recommended dosage is to be taken once weekly as a single dose and that mistakenly taking the recommended weekly dosage once daily has led to fatal adverse reactions [see Warnings and Precautions (5.9)].
+Risk of Fatal Adverse Reactions with Medication Error: For patients who are prescribed a once weekly dosing regimen, advise patients and caregivers that the recommended dosage is to be taken once weekly as a single dose and that mistakenly taking the recommended weekly dosage once daily has led to fatal adverse reactions [see Warnings and Precautions (5.9)].
 
 Neurotoxicity: Advise patients and their caregivers to report new neurological signs or symptoms to their healthcare provider [see Warnings and Precautions (5.12)].
 
