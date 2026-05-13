@@ -17,14 +17,14 @@ In vitro studies with serdexmethylphenidate showed little or no binding of the p
 Cardiac Electrophysiology
 
 The effect of serdexmethylphenidate on QTc interval was evaluated in a randomized, double-blind, placebo-controlled, human abuse potential study (intranasal administration) in 46 healthy subjects.
-At a mean concentration 40 times the Cmax for the highest dose of AZSTARYS (52.3/10.4 mg base equivalent), serdexmethylphenidate does not prolong the QT interval to any clinically relevant extent.
+At a mean concentration 40 times the C maxfor the highest dose of AZSTARYS (52.3/10.4 mg base equivalent), serdexmethylphenidate does not prolong the QT interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 
 Serdexmethylphenidate is a prodrug of dexmethylphenidate.
 Following a single dose administration of 52.3 mg/10.4 mg AZSTARYS and 40 mg of an dexmethylphenidate hydrochloride extended-release (ER) capsule in healthy volunteers under fasted conditions:
 
-- The mean peak plasma concentration (Cmax) of dexmethylphenidate was 14.0 ng/mL and 28.2 ng/mL, respectively;
+- The mean peak plasma concentration (C max) of dexmethylphenidate was 14.0 ng/mL and 28.2 ng/mL, respectively;
 - The mean area under concentration curve (AUC) of dexmethylphenidate was 186 hour*ng/mL and 248 hour*ng/mL, respectively.
 
 The plasma PK profiles of dexmethylphenidate following administration of AZSTARYS or dexmethylphenidate hydrochloride extended-release (ER) capsule are presented in Figure 1.
@@ -33,20 +33,20 @@ Figure 1: Mean Dexmethylphenidate Plasma Concentration-Time Profiles After A Sin
 
 Approximate linear PK was demonstrated for dexmethylphenidate following single dose administration of AZSTARYS in the dose range of 26.1 mg/5.2 mg to 52.3 mg/10.4 mg.
 Steady state of dexmethylphenidate was approached after the third once-daily dose.
-At steady-state, dexmethylphenidate mean exposures (Cmax and AUC0-24h) were approximately 37% higher relative to a single-dose administration of AZSTARYS.
+At steady-state, dexmethylphenidate mean exposures (C maxand AUC 0-24h) were approximately 37% higher relative to a single-dose administration of AZSTARYS.
 No accumulation of serdexmethylphenidate was observed after once-daily administration of AZSTARYS.
-The mean relative exposure of serdexmethylphenidate to dexmethylphenidate based on molar concentrations for Cmax, Cmin, and AUC0-24hr was about 101%, 8.5%, and 55.7%, respectively, following multiple once-daily oral dosing under fasted conditions.
+The mean relative exposure of serdexmethylphenidate to dexmethylphenidate based on molar concentrations for C max, C min, and AUC 0-24hrwas about 101%, 8.5%, and 55.7%, respectively, following multiple once-daily oral dosing under fasted conditions.
 
 Absorption
 
 Cross-study calculation estimated an absolute oral bioavailability for serdexmethylphenidate of less than 3%.
-The median time to reach Cmax of serdexmethylphenidate and dexmethylphenidate (Tmax) is about 2 hours following a single dose administration of AZSTARYS under fasted conditions.
-Following oral administration of serdexmethylphenidate single moiety alone, dexmethylphenidate Tmax is reached at about 8 hours post dose.
+The median time to reach C maxof serdexmethylphenidate and dexmethylphenidate (T max) is about 2 hours following a single dose administration of AZSTARYS under fasted conditions.
+Following oral administration of serdexmethylphenidate single moiety alone, dexmethylphenidate T maxis reached at about 8 hours post dose.
 
 Effect of Food
 
 No clinically meaningful differences in the exposure of dexmethylphenidate were observed when administered after an overnight fast, with a high-fat, high-caloric meal, or sprinkled onto applesauce or water.
-The median time to peak plasma concentration (Tmax) was lengthened from 2 to 4-4.5 hours in the presence of food.
+The median time to peak plasma concentration (T max) was lengthened from 2 to 4-4.5 hours in the presence of food.
 
 Distribution
 

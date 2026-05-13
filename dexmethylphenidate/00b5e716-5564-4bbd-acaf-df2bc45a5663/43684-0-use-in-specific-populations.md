@@ -65,8 +65,8 @@ In studies evaluating extended-release methylphenidate products, patients 4 to <
 Pediatric patients 4 to <6 years of age also had a higher incidence of adverse reactions, including weight loss.
 
 The safety and effectiveness of AZSTARYS have been established in pediatric patients ages 6 to 17 years of age for the treatment of ADHD.
-Use of AZSTARYS in patients 6 to 12 years of age is supported by a randomized, double-blind, placebo-controlled, parallel group trial in 155 pediatric patients with ADHD and a 12-month open-label long term safety trial in 238 patients [see Adverse Reactions (6.1), Clinical Studies (14)].
-Use of AZSTARYS in pediatric patients 13 to 17 years of age is supported by additional pharmacokinetics analysis showing similar plasma concentration-time profiles of dexmethylphenidate in adolescents and adults after administration of the same dose of AZSTARYS [see Clinical Studies (14)].
+Use of AZSTARYS in patients 6 to 12 years of age is supported by a randomized, double-blind, placebo-controlled, parallel group trial in 155 pediatric patients with ADHD and a 12-month open-label long term safety trial in 238 patients [see Adverse Reactions(6.1), Clinical Studies(14)].
+Use of AZSTARYS in pediatric patients 13 to 17 years of age is supported by additional pharmacokinetics analysis showing similar plasma concentration-time profiles of dexmethylphenidate in adolescents and adults after administration of the same dose of AZSTARYS [see Clinical Studies(14)].
 
 Long Term Suppression of Growth
 
@@ -77,14 +77,14 @@ Juvenile Animal Toxicity Data
 
 Rats treated with racemic methylphenidate early in the postnatal period through sexual maturation demonstrated a decrease in spontaneous locomotor activity in adulthood.
 A deficit in acquisition of a specific learning task was observed in females only.
-The doses at which these findings were observed are at least 3 times the MRHD of 40 mg/day dexmethylphenidate hydrochloride given to children on a mg/m2 basis.
+The doses at which these findings were observed are at least 3 times the MRHD of 40 mg/day dexmethylphenidate hydrochloride given to children on a mg/m 2basis.
 
 In a study conducted in young rats, racemic methylphenidate hydrochloride was administered orally at doses of up to 100 mg/kg/day for 9 weeks, starting early in the postnatal period (postnatal Day 7) and continuing through sexual maturity (postnatal Week 10).
-When these animals were tested as adults (postnatal Weeks 13 to 14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day racemic methylphenidate hydrochloride [approximately 3 times the maximum recommended human dose (MRHD) of 40 mg of dexmethylphenidate hydrochloride given to children on a mg/m2 basis] or greater, and a deficit in the acquisition of a specific learning task was seen in females exposed to the highest dose (6 times the MRHD of 40 mg of dexmethylphenidate hydrochloride given to children on a mg/m2 basis).
-The no effect level for juvenile neurobehavioral development in rats was 5 mg/kg/day racemic methylphenidate hydrochloride (less than the MRHD of 40 mg of dexmethylphenidate hydrochloride given to children on a mg/m2 basis).
+When these animals were tested as adults (postnatal Weeks 13 to 14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day racemic methylphenidate hydrochloride [approximately 3 times the maximum recommended human dose (MRHD) of 40 mg of dexmethylphenidate hydrochloride given to children on a mg/m 2basis] or greater, and a deficit in the acquisition of a specific learning task was seen in females exposed to the highest dose (6 times the MRHD of 40 mg of dexmethylphenidate hydrochloride given to children on a mg/m 2basis).
+The no effect level for juvenile neurobehavioral development in rats was 5 mg/kg/day racemic methylphenidate hydrochloride (less than the MRHD of 40 mg of dexmethylphenidate hydrochloride given to children on a mg/m 2basis).
 The clinical significance of the long-term behavioral effects observed in rats is unknown.
 
-Serdexmethylphenidate was administered orally to juvenile rabbits at doses up to 280 mg/kg/day (approximately 50 times the MRHD of 52 mg/day serdexmethylphenidate given to children on a mg/m2 basis), respectively, for 6 months, starting at postnatal Day 28 and continuing through sexual maturity (postnatal Day 196).
+Serdexmethylphenidate was administered orally to juvenile rabbits at doses up to 280 mg/kg/day (approximately 50 times the MRHD of 52 mg/day serdexmethylphenidate given to children on a mg/m 2basis), respectively, for 6 months, starting at postnatal Day 28 and continuing through sexual maturity (postnatal Day 196).
 No adverse findings were observed at the highest dose of serdexmethylphenidate.
 
 ## 8.5 Geriatric Use

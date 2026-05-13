@@ -15,7 +15,7 @@ Drug addiction is a cluster of behavioral, cognitive, and physiological phenomen
 
 Misuse and abuse of the combination of dexmethylphenidate and serdexmethylphenidate may cause increased heart rate, respiratory rate, or blood pressure; sweating; dilated pupils; hyperactivity; restlessness; insomnia; decreased appetite; loss of coordination; tremors; flushed skin; vomiting; and/or abdominal pain.
 Anxiety, psychosis, hostility, aggression, and suicidal or homicidal ideation have also been observed with CNS stimulants abuse and/or misuse.
-Misuse and abuse of CNS stimulants, including AZSTARYS, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
+Misuse and abuse of CNS stimulants, including AZSTARYS, can result in overdose and death [see Overdosage (10)],and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
 ## 9.3 Dependence
 

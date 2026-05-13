@@ -8,16 +8,16 @@ AZSTARYS contains 26.1/5.2, 39.2/7.8, or 52.3/10.4 mg of serdexmethylphenidate/ 
 The combined molar dose of serdexmethylphenidate and dexmethylphenidate in each dosage strength of AZSTARYS is equivalent to 20, 30, or 40 mg dexmethylphenidate hydrochloride, respectively (equivalent to 17.3, 25.9 or 34.6 mg dexmethylphenidate free base, respectively).
 
 The chemical name of serdexmethylphenidate chloride is 3-(((1S)-1-carboxy-2-hydroxyethyl)carbamoyl)-1-((((2R)-2-(2-(1R)-methoxy-2-oxo-1-phenylethyl)piperidine-1-carbonyl)oxy)methyl)pyridinium chloride.
-Its molecular formula is C25H30N3O8+•Cl-, and its structural formula is:
+Its molecular formula is C 25H 30N 3O 8+•Cl -, and its structural formula is:
 
 Serdexmethylphenidate chloride is a white to off-white crystalline powder.
 Its solutions are acid to litmus.
 It is freely soluble in water, soluble in methanol, and slightly soluble in alcohol and acetone.
 Its molecular weight is 535.98 g/mol.
 
-Dexmethylphenidate is the d-threo enantiomer of racemic d,l-methylphenidate hydrochloride.
+Dexmethylphenidate is the d-threoenantiomer of racemic d,l-methylphenidate hydrochloride.
 The chemical name of dexmethylphenidate hydrochloride is methyl (R)-2-phenyl-2-((R)-piperidin-2-yl)acetate hydrochloride.
-Its molecular formula is C14H19NO2•HCl, and its structural formula is:
+Its molecular formula is C 14H 19NO 2•HCl, and its structural formula is:
 
 Dexmethylphenidate hydrochloride is a white to off-white powder.
 Its solutions are acid to litmus.

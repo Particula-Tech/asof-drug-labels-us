@@ -62,7 +62,7 @@ Further clinical evaluation (e.g., rheumatology referral) may be appropriate for
 
 ## 5.7 Long-Term Suppression of Growth in Pediatric Patients
 
-AZSTARYS is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
+AZSTARYS is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations(8.4)].
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 
@@ -87,7 +87,7 @@ Closely monitor AZSTARYS-treated patients with a history of abnormally increased
 ## 5.10 Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
 
 CNS stimulants, including methylphenidate, have been associated with the onset or exacerbation of motor and verbal tics.
-Worsening of Tourette’s syndrome has also been reported [see Adverse Reactions (6.2)].
+Worsening of Tourette’s syndrome has also been reported [see Adverse Reactions(6.2)].
 
 Before initiating AZSTARYS, assess the family history and clinically evaluate patients for tics or Tourette’s syndrome.
 Regularly monitor AZSTARYS-treated patients for the emergence or worsening of tics or Tourette’s syndrome, and discontinue treatment if clinically appropriate.

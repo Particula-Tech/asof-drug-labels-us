@@ -3,7 +3,7 @@
 Pediatric Patients 6 to 12 years of age with ADHD
 
 The efficacy of AZSTARYS for the treatment of ADHD in pediatric patients 6 to 12 years of age was evaluated in a randomized, double-blind, placebo-controlled, parallel group, analog classroom study (Study 1; NCT# 03292952).
-That study was conducted in 150 pediatric patients 6 to 12 years of age who met Diagnostic and Statistical Manual of Mental Disorders, 5th edition (DSM-5) criteria for a primary diagnosis of ADHD (combined, inattentive, or hyperactive/impulsive presentation) confirmed by the Mini International Neuropsychiatric Interview for Children and Adolescents (MINI-KID).
+That study was conducted in 150 pediatric patients 6 to 12 years of age who met Diagnostic and Statistical Manual of Mental Disorders, 5 thedition (DSM-5) criteria for a primary diagnosis of ADHD (combined, inattentive, or hyperactive/impulsive presentation) confirmed by the Mini International Neuropsychiatric Interview for Children and Adolescents (MINI-KID).
 
 Following washout of previous ADHD medication, subjects entered an open-label dose- optimization period (3 weeks) with an initial dosage of 39.2 mg/7.8 mg once daily in the morning.
 The dose could be titrated on a weekly basis to either 26.1 mg/5.2 mg, 39.2 mg/7.8 mg, or 52.3 mg/10.4 mg, until an optimal dose or the maximum dosage of 52.3 mg/10.4 mg/day was reached.

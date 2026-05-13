@@ -4,8 +4,8 @@
 
 Prior to treating patients with AZSTARYS, assess:
 
-- for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
-- the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome before initiating AZSTARYS [see Warnings and Precautions (5.10)].
+- for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions(5.2)].
+- the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome before initiating AZSTARYS [see Warnings and Precautions(5.10)].
 
 ## 2.2 Recommended Dosage
 

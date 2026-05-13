@@ -2,7 +2,7 @@
 
 ## 7.1 Clinically Important Interactions with AZSTARYS
 
-Table 1 presents clinically important drug interactions with AZSTARYS.
+Table 1presents clinically important drug interactions with AZSTARYS.
 
 Table 1: Clinically Important Drug Interactions with AZSTARYS
 
