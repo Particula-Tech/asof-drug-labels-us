@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA203887"
+  ],
+  "inn": "dapsone",
+  "labeler": "Solis Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "85185-104-01",
+    "85185-104-02",
+    "85185-105-01",
+    "85185-105-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dapsone 100mg",
+      "name": "Dapsone 100mg"
+    },
+    {
+      "form": "TABLET",
+      "generic": "dapsone 25mg",
+      "name": "Dapsone 25mg"
+    }
+  ],
+  "setid": "50204029-4c29-5b8d-e063-6394a90af383",
+  "source": "dailymed"
+}
