@@ -33,7 +33,7 @@ Study 2 compared doses of VIMPAT 200, 400, and 600 mg/day with placebo.
 Study 3 compared doses of VIMPAT 400 and 600 mg/day with placebo.
 Study 4 compared doses of VIMPAT 200 and 400 mg/day with placebo.
 In all three trials, following an 8-week baseline phase to establish baseline seizure frequency prior to randomization, patients were randomized and titrated to the randomized dose (a 1-step back-titration of VIMPAT 100 mg/day or placebo was allowed in the case of intolerable adverse reactions at the end of the titration phase).
-During the titration phase, in all 3 adjunctive therapy trials, treatment was initiated at 100 mg/day (50 mg twice daily), and increased in weekly increments of 100 mg/day to the target dose.
+During the titration phase, in all 3 adjunctive therapy trials, treatment was initiated at 100 mg/day (50 mg twice daily) and increased in weekly increments of 100 mg/day to the target dose.
 The titration phase lasted 6 weeks in Study 2 and Study 3, and 4 weeks in Study 4.
 In all three trials, the titration phase was followed by a maintenance phase that lasted 12 weeks, during which patients were to remain on a stable dose of VIMPAT.
 
