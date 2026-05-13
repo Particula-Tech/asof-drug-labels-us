@@ -31,7 +31,7 @@ Pediatric patients including infants generally had a shorter time to maximum neu
 Table 5.
 Pharmacodynamic Dose Response* of Cisatracurium Besylate Injection During Opioid/Nitrous Oxide/Oxygen Anesthesia
 
-| ﻿ C isatracurium Besylate Dose | Time to 90% Block (minutes) | Time to Maximum Block (minutes) | 5% Recovery (minutes) | 25% Recovery (minutes) | 95% Recovery (minutes) | T4:T1 Ratio‡ ≥ 70% in minutes | 25%-75% Recovery Index in minutes |
+| ﻿ C isatracurium Besylate Dose | Time to 90% Block in minutes | Time to Maximum Block in minutes | 5% Recovery in minutes | 25% Recovery in minutes | 95% Recovery in minutes | T4:T1 Ratio‡ ≥ 70% in minutes | 25%-75% Recovery Index in minutes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Adults |  |  |  |  |  |  |  |
 | 0.1 mg/kg (2 × ED95) (n§ = 98) | 3.3 (1.0-8.7) | 5.0 (1.2-17.2) | 33 (15-51) | 42 (22-63) | 64 (25-93) | 64 (32-91) | 13 (5-30) |
@@ -71,7 +71,7 @@ Cisatracurium plasma concentration-time data following IV bolus administration a
 Results from population pharmacokinetic/pharmacodynamic (PK/PD) analyses from 241 healthy surgical patients are summarized in Table 6.
 
 Table 6.
-Key Population PK/PD Parameter Estimates for Cisatracurium in Healthy Surgical Patients* Following 0.1 (2 × ED95) to 0.4 mg/kg (8 × ED95) of Cisatracurium besylate injection
+Key Population PK/PD Parameter Estimates for Cisatracurium in Healthy Surgical Patients* Following 0.1 (2 × ED95) to 0.4 mg/kg (8 × ED95) of Cisatracurium Besylate injection
 
 | Parameter | Estimate† | Magnitude of Interpatient Variability (CV)‡ |
 | --- | --- | --- |
@@ -198,7 +198,7 @@ Pharmacokinetic Parameters* for Cisatracurium in Healthy Adult Patients and in P
 Intensive Care Unit (ICU) Patients:
 
 The PK of cisatracurium and its metabolites were determined in six ICU patients who received cisatracurium besylate injection and are presented in Table 10.
-The relationships between plasma cisatracurium concentrations and neuromuscular blockade have not been evaluated in ICU patients.
+The relationships between plasma cisatracurium besylate injection concentrations and neuromuscular blockade have not been evaluated in ICU patients.
 
 Limited PK data are available for ICU patients with hepatic or renal impairment who received cisatracurium besylate injection.
 Relative to cisatracurium besylate injection-treated ICU patients with normal renal and hepatic function, metabolite concentrations (plasma and tissues) may be higher in cisatracurium besylate injection-treated ICU patients with renal or hepatic impairment [see Warnings and Precautions (5.3)].

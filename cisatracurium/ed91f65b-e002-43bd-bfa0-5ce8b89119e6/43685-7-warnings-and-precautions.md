@@ -20,7 +20,8 @@ The use of 10 mL cisatracurium besylate injection multiple-dose vials is contrai
 
 ## 5.3 Risk of Seizure
 
-Laudanosine, an active metabolite of cisatracurium besylate injection, has been shown to cause seizures in animals. cisatracurium besylate injection -treated patients with renal or hepatic impairment may have higher metabolite concentrations (including laudanosine) than patients with normal renal and hepatic function [see Clinical Pharmacology (12.3)].
+Laudanosine, an active metabolite of cisatracurium besylate injection, has been shown to cause seizures in animals.
+Cisatracurium besylate injection -treated patients with renal or hepatic impairment may have higher metabolite concentrations (including laudanosine) than patients with normal renal and hepatic function [see Clinical Pharmacology (12.3)].
 Therefore, patients with renal or hepatic impairment receiving extended administration of cisatracurium besylate injection may be at higher risk of seizures.
 
 The level of neuromuscular blockade during long-term cisatracurium besylate injection administration should be monitored with a nerve stimulator to titrate cisatracurium besylate injection administration to the patients' needs and limit exposure to toxic metabolites.

@@ -74,7 +74,7 @@ Intubating Conditions at 120 Seconds* in Pediatric Patients Ages 1 Month to 12 Y
 | Excellent | 100% | 83% | 90% | 63% | 73% | 70% |
 | Good | 0% | 17% | 7% | 23% | 23% | 27% |
 | Poor | 0% | 0% | 3% | 13% | 3% | 3% |
-| * Excellent: Easy passage of tube without coughing. Vocal cords relaxed and abducted. Good: Passage of tube with slight coughing and/or bucking. Vocal cords relaxed and abducted. Poor: Passage of tube with moderate coughing and/or bucking. Vocal cords moderately adducted. Response of patient requires adjustment of ventilation pressure and/or rate. |  |  |  |  |  |  |
+| * Excellent: Easy passage of the tube without coughing. Vocal cords relaxed and abducted. Good: Passage of tube with slight coughing and/or bucking. Vocal cords relaxed and abducted. Poor: Passage of tube with moderate coughing and/or bucking. Vocal cords moderately adducted. Response of patient requires adjustment of ventilation pressure and/or rate. |  |  |  |  |  |  |
 
 ## 14.3 Skeletal Muscle Relaxation in ICU Patients
 

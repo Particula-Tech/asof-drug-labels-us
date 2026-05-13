@@ -6,16 +6,18 @@ Advise the caregiver and/or family that severe hypersensitivity reactions have o
 
 Trademarks are the property of their respective owners.
 
-Made in India
-
-Code No.: KR/DRUGS/KTK/28/289/97
-
 Manufactured for:
 
 Somerset Therapeutics, LLC
 
-Hollywood, FL 33024
+Somerset, NJ 08873
 
-ST-CAB/P/03
+Customer Care # 1-800-417-9175
 
-1200708
+Made in India
+
+Code No.: KR/DRUGS/KTK/28/289/97
+
+ST-CAB/P/05
+
+1201392

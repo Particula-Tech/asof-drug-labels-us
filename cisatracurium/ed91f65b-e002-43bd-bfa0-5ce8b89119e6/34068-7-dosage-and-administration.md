@@ -7,7 +7,7 @@ Risk of Medication Errors
 Accidental administration of neuromuscular blocking agents may be fatal.
 Store cisatracurium besylate injection with the cap and ferrule intact and in a manner that minimizes the possibility of selecting the wrong product [see Warnings and Precautions (5.5)].
 
-Important administration instructions include:
+Important administration instructions:
 
 - Cisatracurium besylate injection is for intravenous use only.
 - Administer cisatracurium besylate injection in carefully adjusted dosage by or under the supervision of experienced clinicians who are familiar with the drug's actions and the possible complications.
