@@ -1,9 +1,5 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Principal Display – 25 count Carton (1.25* mg)
-
-Principal Display – 25 count Foil (1.25* mg)
-
 Principal Display – 30 count Carton (1.25* mg)
 
 Principal Display – 30 count Foil (1.25* mg)

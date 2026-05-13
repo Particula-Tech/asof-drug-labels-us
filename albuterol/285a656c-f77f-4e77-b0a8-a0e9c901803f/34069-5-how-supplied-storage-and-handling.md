@@ -8,15 +8,9 @@ Albuterol Inhalation Solution, USP 0.021% (0.63 mg / 3 mL) (potency expressed as
 
 NDC 0487-0301-01 30 foil pouches, each containing 1 vial, total 30 vials per carton
 
-NDC 0487-0301-02 30 foil pouches, each containing 1 vial, total 30 vials per carton, robot ready
-
 Albuterol Inhalation Solution, USP 0.042% (1.25 mg / 3 mL) (potency expressed as albuterol equivalent to 1.5 mg albuterol sulfate per 3 mL) in unit-dose vials and is available in the following packaging configurations:
 
-NDC 0487-9904-25 25 foil pouches, each containing 1 vial, total 25 vials per carton
-
 NDC 0487-9904-01 30 foil pouches, each containing 1 vial, total 30 vials per carton
-
-NDC 0487-9904-02 30 foil pouches, each containing 1 vial, total 30 vials, per carton, robot ready
 
 ## Storage and Handling
 
