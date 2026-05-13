@@ -16,7 +16,7 @@ Iohexol injection is indicated for:
 - Selective coronary arteriography in adults
 - Cerebral arteriography in adults
 - Peripheral arteriography in adults
-- Intra-arterial digital subtraction angiography (IA-DSA) of the head, neck, abdominal, renal and peripheral vessels in adults
+- Intra-arterial digital subtraction angiography (IA-DSA) of the head, neck, abdominal, renal, and peripheral vessels in adults
 - Pulmonary angiography in pediatric patients
 
 ## 1.3 Intravenous Procedures‡
@@ -26,7 +26,7 @@ Iohexol injection is indicated for:
 - Excretory urography in adults and pediatric patients
 - CT of the head and body in adults and pediatric patients
 - Peripheral venography (phlebography) in adults
-- Intravenous digital subtraction angiography (IV-DSA) of the head, neck, abdominal, renal and peripheral vessels in adults
+- Intravenous digital subtraction angiography (IV-DSA) of the head, neck, abdominal, renal, and peripheral vessels in adults
 
 ## 1.4 Oral or Rectal Procedures‡
 
@@ -50,4 +50,4 @@ Iohexol injection is indicated for:
 - Hysterosalpingography in adults
 - Voiding cystourethrography (VCU) in pediatric patients
 
-‡Specific dosage forms, concentrations and presentations of iohexol are recommended for each type of imaging procedure [see Dosage and Administrations (2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9) and Warnings and Precautions (5.1, 5.2)].
+‡Specific dosage forms, concentrations, and presentations of iohexol are recommended for each type of imaging procedure [see Dosage and Administrations (2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9) and Warnings and Precautions (5.1, 5.2)].

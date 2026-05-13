@@ -51,9 +51,9 @@ The safety and effectiveness of iohexol for CT cerebral ventriculography have no
 
 Intra-arterial or Intravenous Use
 
-Cardiac Ventriculography, Aortography and Pulmonary Angiography
+Cardiac Ventriculography, Aortography, and Pulmonary Angiography
 
-The safety and effectiveness of iohexol have been established in pediatric patients from birth to 17 years of age for cardiac ventriculography, aortography and pulmonary angiography.
+The safety and effectiveness of iohexol have been established in pediatric patients from birth to 17 years of age for cardiac ventriculography, aortography, and pulmonary angiography.
 Use of iohexol is supported by controlled clinical studies in adults for cardiac ventriculography and aortography, in addition to controlled clinical studies in pediatric patients undergoing cardiac ventriculography, including aortography.
 
 Excretory Urography
@@ -66,9 +66,9 @@ CT of the Head and Body
 The safety and effectiveness of iohexol have been established in pediatric patients from birth to 17 years of age for CT imaging of the head and body.
 Use of iohexol is supported by controlled clinical studies in adults for head and body CT, in addition to clinical studies in pediatric patients undergoing head CT and in 69 pediatric patients undergoing CT of the abdomen after oral administration of diluted iohexol plus intravenous administration of iohexol injection.
 
-Selective Coronary Arteriography, Cerebral and Peripheral Arteriography, Intra-arterial Digital Subtraction Angiography, Peripheral Venography and Intravenous Digital Subtraction Angiography
+Selective Coronary Arteriography, Cerebral and Peripheral Arteriography, Intra-arterial Digital Subtraction Angiography, Peripheral Venography, and Intravenous Digital Subtraction Angiography
 
-The safety and effectiveness of iohexol have not been established in pediatric patients for selective coronary arteriography, cerebral or peripheral arteriography, intra-arterial digital subtraction angiography, peripheral venography and intravenous digital subtraction angiography.
+The safety and effectiveness of iohexol have not been established in pediatric patients for selective coronary arteriography, cerebral or peripheral arteriography, intra-arterial digital subtraction angiography, peripheral venography, and intravenous digital subtraction angiography.
 
 Oral or Rectal Use
 
