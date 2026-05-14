@@ -1,8 +1,6 @@
 # PATIENT INFORMATION
 
-Metformin Hydrochloride Tablets, USP
-
-(met for' min hye'' droe klor' ide)
+Metformin Hydrochloride (met for' min hye'' droe klor' ide) Tablets, USP
 
 Read the Patient Information that comes with metformin hydrochloride tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -41,6 +39,7 @@ You have a higher chance of getting lactic acidosis if you:
 - have surgery.
 - have a heart attack, severe infection, or stroke.
 - are 80 years of age or older and have not had your kidney function tested.
+- have a genetically inherited disease affecting mitochondria (the energy-producing parts within cells).
 
 What are metformin hydrochloride tablets?
 
@@ -82,6 +81,7 @@ Before taking metformin hydrochloride tablets tell your healthcare provider if y
 - are older than 80 years.
   If you are over 80 years old you should not take metformin hydrochloride tablets unless your kidneys have been checked and they are normal.
 - drink alcohol very often, or drink a lot of alcohol in short-term “binge” drinking.
+- have a genetically inherited disease affecting mitochondria (the energy-producing parts within cells).
 - are taking insulin.
 - have any other medical conditions.
 - are pregnant or plan to become pregnant.
@@ -203,4 +203,4 @@ High blood sugar can be lowered by diet and exercise, and by certain medicines w
 
 Talk to your healthcare provider about how to prevent, recognize, and take care of low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and problems you have because of your diabetes.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 07/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 04/2026

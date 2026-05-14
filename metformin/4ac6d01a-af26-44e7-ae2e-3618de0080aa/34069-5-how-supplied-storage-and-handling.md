@@ -46,9 +46,7 @@ Bottles of 60 NDC 65862-010-60
 
 Bottles of 90 NDC 65862-010-90
 
-Bottles of 100 NDC 65862-010-01
-
-Bottles of 300 NDC 65862-010-33
+Bottles of 100 NDC 65862-010-01 Bottles of 300 NDC 65862-010-33
 
 Bottles of 500 NDC 65862-010-05
 

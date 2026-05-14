@@ -20,13 +20,13 @@ For each of the known and possible risk factors for metformin-associated lactic 
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
 Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)]:
 
-- 
-  - Before initiating metformin hydrochloride, obtain an estimated glomerular filtration rate (eGFR).
-  - Metformin hydrochloride is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)].
-  - Initiation of metformin hydrochloride is not recommended in patients with eGFR between 30 to 45 mL/min/1.73 m2.
-  - Obtain an eGFR at least annually in all patients taking metformin hydrochloride.
-    In patients at risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
-  - In patients taking metformin hydrochloride whose eGFR falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy.
+- Before initiating metformin hydrochloride, obtain an estimated glomerular filtration rate (eGFR).
+- Metformin hydrochloride is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)].
+- Initiation of metformin hydrochloride is not recommended in patients with eGFR between 30 to 45 mL/min/1.73 m2.
+- Obtain an eGFR at least annually in all patients taking metformin hydrochloride.
+  In patients at risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
+- In patients taking metformin hydrochloride whose eGFR falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy.
+
 - Drug interactions — The concomitant use of metformin hydrochloride with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance, or increase metformin accumulation.
   Consider more frequent monitoring of patients.
 - Age 65 or greater — The risk of metformin-associated lactic acidosis increases with the patient’s age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
@@ -43,6 +43,12 @@ Clinical recommendations based upon the patient’s renal function include [see 
 - Hepatic impairment — Patients with hepatic impairment have developed cases of metformin-associated lactic acidosis.
   This may be due to impaired lactate clearance resulting in higher lactate blood levels.
   Therefore, avoid use of metformin hydrochloride in patients with clinical or laboratory evidence of hepatic disease.
+
+Mitochondrial Diseases: Metformin may increase the risk of lactic acidosis in patients with mitochondrial diseases such as mitochondrial encephalopathy with lactic acidosis, and stroke-like episodes (MELAS) syndrome and maternally inherited diabetes and deafness (MIDD).
+Metformin hydrochloride is not recommended in patients with mitochondrial diseases.
+
+If a patient taking metformin hydrochloride develops elevated lactic acid levels (with or without accompanying neurologic signs and symptoms), discontinue metformin hydrochloride.
+Depending on the clinical context, consider evaluating the patient for MELAS, MIDD, or other mitochondrial disease.
 
 ## 5.2 Vitamin B12 Deficiency
 
