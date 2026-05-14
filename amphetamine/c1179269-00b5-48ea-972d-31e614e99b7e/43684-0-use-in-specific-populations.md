@@ -1,17 +1,5 @@
 # 8. USE IN SPECIFIC POPULATIONS
 
-.
-
-## 8.2 Lactation
-
-Risk Summary
-
-Based on limited case reports in published literature, amphetamine (d- or d, l-) is present in human milk at relative infant doses of 2% to 13.8% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.9 and 7.5.
-There are no reports of adverse effects on the breastfed infant.
-Long-term neurodevelopmental effects on infants from amphetamine exposure are unknown.
-It is possible that large dosages of amphetamine might interfere with milk production, especially in women whose lactation is not well established.
-Because of the potential for serious adverse reactions in nursing infants, advise patients that breastfeeding is not recommended during treatment with ADZENYS XR-ODT.
-
 ## 8.1 Pregnancy
 
 Pregnancy Exposure Registry
@@ -64,9 +52,15 @@ When pups were tested for reproductive performance at maturation, gestational we
 A number of studies in rodents indicate that prenatal or early postnatal exposure to amphetamine (d- or d, l-), at doses similar to those used clinically, can result in long-term neurochemical and behavioral alterations.
 Reported behavioral effects include learning and memory deficits, altered locomotor activity, and changes in sexual function.
 
-## 8.5 Geriatric Use
+## 8.2 Lactation
 
-ADZENYS XR-ODT has not been studied in the geriatric population.
+Risk Summary
+
+Based on limited case reports in published literature, amphetamine (d- or d, l-) is present in human milk at relative infant doses of 2% to 13.8% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.9 and 7.5.
+There are no reports of adverse effects on the breastfed infant.
+Long-term neurodevelopmental effects on infants from amphetamine exposure are unknown.
+It is possible that large dosages of amphetamine might interfere with milk production, especially in women whose lactation is not well established.
+Because of the potential for serious adverse reactions in nursing infants, advise patients that breastfeeding is not recommended during treatment with ADZENYS XR-ODT.
 
 ## 8.4 Pediatric Use
 
@@ -88,3 +82,7 @@ The latter doses are approximately 0.6, 2, and 6 times the maximum recommended h
 Post dosing hyperactivity was seen at all doses; motor activity measured prior to the daily dose was decreased during the dosing period but the decreased motor activity was largely absent after an 18 day drug-free recovery period.
 Performance in the Morris water maze test for learning and memory was impaired at the 40 mg/kg dose, and sporadically at the lower doses, when measured prior to the daily dose during the treatment period; no recovery was seen after a 19 day drug-free period.
 A delay in the developmental milestones of vaginal opening and preputial separation was seen at 40 mg/kg but there was no effect on fertility.
+
+## 8.5 Geriatric Use
+
+ADZENYS XR-ODT has not been studied in the geriatric population.

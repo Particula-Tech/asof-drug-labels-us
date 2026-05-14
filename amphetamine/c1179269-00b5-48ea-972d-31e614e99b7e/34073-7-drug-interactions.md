@@ -1,11 +1,5 @@
 # 7. DRUG INTERACTIONS
 
-## 7.2 Drug/Laboratory Test Interactions
-
-Amphetamines can cause a significant elevation in plasma corticosteroid levels.
-This increase is greatest in the evening.
-Amphetamines may interfere with urinary steroid determinations.
-
 ## 7.1 Drugs Having Clinically Important Interactions with Amphetamines
 
 Table 5: Drugs having clinically important interactions with amphetamines.
@@ -26,3 +20,9 @@ Table 5: Drugs having clinically important interactions with amphetamines.
 | Tricyclic Antidepressants |  |
 | Clinical Impact | May enhance the activity of tricyclic or sympathomimetic agents causing striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated. |
 | Intervention | Monitor frequently and adjust or use alternative therapy based on clinical response. |
+
+## 7.2 Drug/Laboratory Test Interactions
+
+Amphetamines can cause a significant elevation in plasma corticosteroid levels.
+This increase is greatest in the evening.
+Amphetamines may interfere with urinary steroid determinations.

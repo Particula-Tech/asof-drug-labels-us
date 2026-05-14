@@ -2,6 +2,11 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Abuse, Misuse, and Addiction
+
+Educate patients and their families about the risks of abuse, misuse, and addiction of ADZENYS XR-ODT, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2), Overdosage (10)].
+Advise patients to store ADZENYS XR-ODT in a safe place, preferably locked, and instruct patients to not give ADZENYS XR-ODT to anyone else.
+
 Dosage and Administration Instructions
 
 Provide the following instructions on administration to the patient:
@@ -13,11 +18,6 @@ Provide the following instructions on administration to the patient:
 - As soon as the blister is opened, the tablet should be removed and placed on the patient's tongue.
 - The whole tablet should be placed on the tongue and allowed to disintegrate without chewing or crushing.
 - The tablet will disintegrate in saliva so that it can be swallowed.
-
-Abuse, Misuse, and Addiction
-
-Educate patients and their families about the risks of abuse, misuse, and addiction of ADZENYS XR-ODT, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2), Overdosage (10)].
-Advise patients to store ADZENYS XR-ODT in a safe place, preferably locked, and instruct patients to not give ADZENYS XR-ODT to anyone else.
 
 Risks to Patients with Serious Cardiac Disease
 
@@ -51,6 +51,9 @@ Serotonin Syndrome
 Caution patients about the risk of serotonin syndrome with concomitant use of ADZENYS XR-ODT and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders and also others such as linezolid [see Contraindications (4), Warnings and Precautions (5.7) and Drug Interactions (7.1)].
 Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome.
 
+Motor and Verbal Tics, and Worsening of Tourette’s Syndrome Advise patients that motor and verbal tics and worsening of Tourette’s syndrome may occur during treatment with ADZENYS XR-ODT.
+Instruct patients to notify their healthcare provider if emergence of new tics or worsening of tics or Tourette’s syndrome occurs [see Warnings and Precautions (5.8)].
+
 Concomitant Medications
 
 Advise patients to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs because there is a potential for interactions [see Drug Interactions (7.1)].
@@ -81,6 +84,3 @@ ADZENYS XR-ODT is a registered trademark of Neos Therapeutics, Inc.
 Copyright © 2017, Neos Therapeutics, Inc.
 
 Patent Number 8,709,491 B2
-
-Motor and Verbal Tics, and Worsening of Tourette’s Syndrome Advise patients that motor and verbal tics and worsening of Tourette’s syndrome may occur during treatment with ADZENYS XR-ODT.
-Instruct patients to notify their healthcare provider if emergence of new tics or worsening of tics or Tourette’s syndrome occurs [see Warnings and Precautions (5.8)].
