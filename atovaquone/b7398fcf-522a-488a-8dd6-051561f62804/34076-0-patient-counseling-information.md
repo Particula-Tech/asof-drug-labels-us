@@ -13,7 +13,7 @@ Instruct patients to stop taking atovaquone oral suspension immediately and prom
 
 Lactation
 
-Inform women with HIV-1 that the potential risks of breastfeeding include HIV-1 transmission (in infants without HIC-1) [see Use in Specific Populations (8.2)].
+Inform women with HIV-1 that the potential risks of breastfeeding include HIV-1 transmission (in infants without HIV-1) [see Use in Specific Populations (8.2)].
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
