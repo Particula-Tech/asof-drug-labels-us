@@ -44,10 +44,12 @@ The brands listed are trademarks of their respective owners.
 
 Rx Only
 
-Manufactured by:
+Distributor:
 
-Dr. Reddy’s Laboratories Limited
+Dr. Reddy’s Laboratories Inc.,
 
-Bachupally – 500 090 INDIA
+Princeton, NJ 08540
 
-Revised: 04/2025
+Made in India
+
+Revised: 03/2026

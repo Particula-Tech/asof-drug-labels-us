@@ -200,7 +200,7 @@ Before taking ziprasidone capsules, tell your doctor if you
   You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-andresearch-programs/pregnancyregistry/
 
 - are breastfeeding or plan to breastfeed.
-  Ziprasidone capsules can pass into your breast milk.
+  Ziprasidone can pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby if you receive ziprasidone capsules.
 
 Because ziprasidone capsules can cause sleepiness, be careful when operating machinery or driving a motor vehicle.
@@ -215,7 +215,7 @@ Keep ziprasidone capsules and all medicines out of the reach of children.
 
 How to store ziprasidone capsules
 
-Store ziprasidone capsules, USP at room temperature 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F).
+Store ziprasidone capsules, USP at room temperature 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
 
 For more information about ziprasidone capsules
 
@@ -225,12 +225,12 @@ If you have any questions or want more information about ziprasidone capsules, t
 
 Rx Only
 
-Manufactured by:
+Distributor:
 
-Dr. Reddy’s Laboratories Limited
+Dr. Reddy’s Laboratories Inc.,
 
-Bachupally - 500 090 INDIA
+Princeton, NJ 08540
 
-Revised: 04/2025
+Made in India
 
-Dispense with Patient Information Sheet available at: www.drreddys.com/pi/ziprasidonecaps.pdf
+Revised: 03/2026

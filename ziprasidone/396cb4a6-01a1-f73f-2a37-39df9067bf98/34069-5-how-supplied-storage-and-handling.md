@@ -64,4 +64,4 @@ Unit-dose packages of 30 (3 x 10) NDC 55111-259-81
 
 Unit-dose packages of 100 (10 x 10) NDC 55111-259-78
 
-Ziprasidone capsules, USP should be stored at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F) [See USP Controlled Room Temperature].
+Ziprasidone capsules, USP should be stored at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].

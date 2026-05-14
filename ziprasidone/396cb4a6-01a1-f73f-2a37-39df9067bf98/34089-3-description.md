@@ -17,4 +17,4 @@ The components of the capsule shells are FD&C Blue #1, FD&C Red #3, gelatin, red
 The capsule shells are imprinted with black ink.
 The components of black ink (Black SW-9008/SW-9009) are black iron oxide, butyl alcohol, dehydrated alcohol, isopropyl alcohol, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.
 
-Ziprasidone capsules meets USP Dissolution Test 3.
+Ziprasidone capsules meets USP Dissolution Test 3
