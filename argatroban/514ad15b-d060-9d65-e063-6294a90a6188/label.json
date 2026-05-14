@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022485"
+  ],
+  "inn": "argatroban",
+  "labeler": "Plano Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "87188-104-01",
+    "87188-104-90"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "argatroban",
+      "name": "Argatroban"
+    }
+  ],
+  "setid": "514ad15b-d060-9d65-e063-6294a90a6188",
+  "source": "dailymed"
+}
