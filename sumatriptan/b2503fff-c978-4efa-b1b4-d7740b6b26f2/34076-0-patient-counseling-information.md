@@ -14,4 +14,4 @@ Pregnancy Advise patients to notify their healthcare provider if they become pre
 Lactation Advise breastfeeding women that they may develop transient breast pain when taking sumatriptan tablets.
 Advise breastfeeding women that avoiding breastfeeding for 12 hours after treatment with sumatriptan tablets can minimize their infant’s exposure to sumatriptan [see Use in Specific Populations (8.2)].
 Ability to Perform Complex Tasks Treatment with sumatriptan tablets may cause somnolence and dizziness; instruct patients to evaluate their ability to perform complex tasks after administration of sumatriptan tablets.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 02/2026
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 04/2026
