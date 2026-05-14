@@ -7,4 +7,4 @@ It is known chemically as 4-phenylbutyric acid, sodium salt with a molecular wei
 
 Chemical Structure:
 
-Each tablet of Sodium Phenylbutyrate Tablets, USP contains 500 mg of Sodium Phenylbutyrate, USP and the inactive ingredients calcium stearate NF, colloidal silicon dioxide NF, magnesium stearate and microcrystalline cellulose.
+Each tablet of Sodium Phenylbutyrate Tablets USP contains 500 mg of Sodium Phenylbutyrate, USP and the inactive ingredients calcium stearate NF, colloidal silicon dioxide NF, magnesium stearate and microcrystalline cellulose.

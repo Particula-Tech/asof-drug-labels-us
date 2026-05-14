@@ -93,13 +93,16 @@ Sodium phenylbutyrate tablets should be stored in a tightly closed bottle at roo
 
 This leaflet provides a brief summary of the information available on sodium phenylbutyrate tablets.
 The information here is incomplete and is not designed to take the place of your doctor's instructions.
-For more complete information, consult your physician or call Endo at 1-800-828-9393.
+For more complete information, consult your physician or call or write Par Health.
+Call toll free 1-800-828-9393.
 
 Trademarks are the properties of their respective owners.
 
 Manufactured for:
 
-Endo USA Malvern, PA 19355 U.S.A. Made in India
+Par Health USA Rochester, MI 48307 U.S.A.
 
-Neutral Code: TN/DRUGS/TN00002121 ©2024 Endo, Inc. or one of its affiliates.
-OS170-01-74-02 Revised: 06/2024
+Made in India
+
+Neutral Code: TN/DRUGS/TN00002121 © 2026 Par Health, Inc. or one of its affiliates.
+OS170-01-74-03 Revised: 03/2026
