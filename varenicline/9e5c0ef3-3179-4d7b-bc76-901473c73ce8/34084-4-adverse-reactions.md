@@ -91,7 +91,8 @@ Following is a list of treatment-emergent adverse events reported by patients tr
 Adverse events were categorized using MedDRA, Version 16.0.
 The listing does not include those events already listed in the previous tables or elsewhere in labeling, those events for which a drug cause was remote, those events which were so general as to be uninformative, and those events reported only once which did not have a substantial probability of being acutely life-threatening.
 
-Blood and Lymphatic System Disorders.Infrequent: anemia, lymphadenopathy.
+Blood and Lymphatic System Disorders.
+Infrequent: anemia, lymphadenopathy.
 Rare: leukocytosis, splenomegaly, thrombocytopenia.
 
 Cardiac Disorders.

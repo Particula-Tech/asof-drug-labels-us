@@ -194,7 +194,7 @@ Mortality and Adjudicated Nonfatal Serious Cardiovascular Events in the Placebo-
 | Up to 30 days after treatment |  |  |
 | Nonfatal myocardial infarction | 4 (1.1) | 1 (0.3) |
 | Nonfatal Stroke | 2 (0.6) | 0 (0) |
-| Beyond 30 days after treatment and upto 52 weeks |  |  |
+| Beyond 30 days after treatment and up to 52 weeks |  |  |
 | Nonfatal myocardial infarction | 3 (0.8) | 2 (0.6) |
 | Need for coronary revascularization | 7 (2.0) | 2 (0.6) |
 | Hospitalization for angina pectoris | 6 (1.7) | 4 (1.1) |
@@ -211,7 +211,7 @@ Overall, a small number of MACE occurred in the trials included in the meta-anal
 These events occurred primarily in patients with known CV disease.
 
 Table 13.
-Number of MACE cases, Hazard Ratio and Rate Difference in a Meta-Analysis of 15 Clinical Trials Comparing Vareniclineto Placebo*
+Number of MACE cases, Hazard Ratio and Rate Difference in a Meta-Analysis of 15 Clinical Trials Comparing Varenicline to Placebo*
 
 |  | VareniclineN=4190 | PlaceboN=2812 |
 | --- | --- | --- |
@@ -270,7 +270,7 @@ Number of Patients with Clinically Significant or Serious NPS Adverse Events by 
 | Psychiatric Hospitalizations | 1 (0.1) | 2 (0.2) | 0 (0.0) | 1 (0.1) |
 
 As shown in Table 16, there were more clinically significant NPS adverse events reported in patients in the psychiatric cohort in each treatment group compared with the non-psychiatric cohort.
-The incidence of events in the composite endpoint was higher for each of the active treatments compared to placebo: Risk Differences (RDs) (95%CI) vs placebo were 2.7% (-0.05, 5.4) for varenicline, 2.2% (-0.5, 4.9) for bupropion, and 0.4% (-2.2, 3.0) for NRT transdermal nicotine.
+The incidence of events in the composite endpoint was higher for each of the active treatments compared to placebo: Risk Differences (RDs) (95%CI) vs. placebo were 2.7% (-0.05, 5.4) for varenicline, 2.2% (-0.5, 4.9) for bupropion, and 0.4% (-2.2, 3.0) for NRT transdermal nicotine.
 
 Table 16.
 Number of Patients with Clinically Significant or Serious NPS Adverse Events by Treatment Group Among Patients with a History of Psychiatric disorder
@@ -324,18 +324,16 @@ The Incidence of MACE and Hazard Ratios in the Cardiovascular Safety Assessment 
 | --- | --- | --- | --- | --- |
 | During treatment* |  |  |  |  |
 | MACE, n [IR] | 1 [2.4] | 2 [4.9] | 1 [2.4] | 4 [9.8] |
-| HazardRatio (95% CI) vs. placebo | 0.24(0.03, 2.18) | 0.49(0.09, 2.69) | 0.24(0.03, 2.18) |  |
+| Hazard Ratio (95% CI) vs. placebo | 0.24(0.03, 2.18) | 0.49(0.09, 2.69) | 0.24(0.03, 2.18) |  |
 | Through end of study** |  |  |  |  |
 | MACE, n [IR] | 3 [2.1] | 9 [6.3] | 6 [4.3] | 8 [5.7] |
-| HazardRatio (95% CI) vs. placebo | 0.36(0.10, 1.36) | 1.09(0.42, 2.83) | 0.74(0.26, 2.13) |  |
+| Hazard Ratio (95% CI) vs. placebo | 0.36(0.10, 1.36) | 1.09(0.42, 2.83) | 0.74(0.26, 2.13) |  |
 
 [IR] indicates incidence rate per 1000 person-years
 
 *during treatment in the parent neuropsychiatric safety study
 
-**either the end of the extension study or the end of parent neuropsychiatric safety study
-
-for those subjects not enrolled into the extension study
+**either the end of the extension study or the end of parent neuropsychiatric safety study, for those subjects not enrolled into the extension study
 
 For this study, MACE+ was defined as any MACE or a new onset or worsening peripheral vascular disease (PVD) requiring intervention, a need for coronary revascularization, or hospitalization for unstable angina.
 Incidence rates of MACE+ and all-cause mortality for all randomized subjects exposed to at least 1 partial dose of study treatment in the parent study are shown for all treatment groups during treatment, and through end of study in the Table 19 below.

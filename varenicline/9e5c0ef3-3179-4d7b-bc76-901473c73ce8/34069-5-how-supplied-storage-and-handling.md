@@ -7,8 +7,8 @@ Varenicline tablets are supplied in the following package configurations:
 |  | Description | NDC |
 | --- | --- | --- |
 | Packs | Starting 4-week card: 0.5 mg x 11 tablets and 1 mg x 42 tablets | NDC 49884-944-99 |
-|  | Starting Month Box: 0.5 mg x 11 tablets and 1 mg x 42 tablets | NDC 49884-944-99 |
 |  | Continuing 4-week card: 1 mg x 56 tablets | NDC 49884-156-52 |
+|  | Starting Month Box: 0.5 mg x 11 tablets and 1 mg x 42 tablets | NDC 49884-944-99 |
 |  | Continuing Month Box: 1 mg x 56 tablets | NDC 49884-156-52 |
 | Bottles | 0.5 mg - bottle of 56 | NDC 49884-155-76 |
 |  | 1 mg - bottle of 56 | NDC 49884-156-76 |
