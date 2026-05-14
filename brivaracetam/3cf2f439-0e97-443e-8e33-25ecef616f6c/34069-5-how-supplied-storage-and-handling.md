@@ -15,14 +15,12 @@ BRIVIACT Tablets
 
 |  | Bottles of 60 tablets | NDC 50474-470-66 |
 | --- | --- | --- |
-|  | Unit dose cartons of 100 tablets | NDC 50474-470-09 |
 
 - 50 mg are yellow, oval, film-coated, and debossed with "u50" on one side.
   They are supplied as follows:
 
 |  | Bottles of 60 tablets | NDC 50474-570-66 |
 | --- | --- | --- |
-|  | Unit dose cartons of 100 tablets | NDC 50474-570-09 |
 
 - 75 mg are purple, oval, film-coated, and debossed with "u75" on one side.
   They are supplied as follows:
@@ -35,7 +33,6 @@ BRIVIACT Tablets
 
 |  | Bottles of 60 tablets | NDC 50474-770-66 |
 | --- | --- | --- |
-|  | Unit dose cartons of 100 tablets | NDC 50474-770-09 |
 
 BRIVIACT Oral Solution
 
