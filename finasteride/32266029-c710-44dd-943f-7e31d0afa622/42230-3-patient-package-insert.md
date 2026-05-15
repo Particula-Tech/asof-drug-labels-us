@@ -1,6 +1,6 @@
 # Finasteride Tablets, USP
 
-Patient Information about Finasteride Tablets, USP (fin-AS-tur-eyed) Finasteride tablets are for use by men only.
+Patient Information about Finasteride (fin as′ ter ide) Tablets, USP Finasteride tablets are for use by men only.
 Please read this leaflet before you start taking finasteride tablets.
 Also, read it each time you renew your prescription, just in case anything has changed.
 Remember, this leaflet does not take the place of careful discussions with your doctor.
@@ -19,7 +19,9 @@ Do Not Take finasteride tablets if you are:
 - allergic to finasteride or any of the ingredients in finasteride tablets.
   See the end of this leaflet for a complete list of ingredients in finasteride tablets.
 
-A warning about finasteride tablets and pregnancy: Women who are or may potentially be pregnant must not use finasteride tablets.
+A warning about finasteride tablets and pregnancy:
+
+Women who are or may potentially be pregnant must not use finasteride tablets.
 They should also not handle crushed or broken tablets of finasteride.
 Finasteride tablets are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets are not broken or crushed.
 If a woman who is pregnant with a male baby absorbs the active ingredient in finasteride tablets after oral use or through the skin, it may cause the male baby to be born with abnormalities of the sex organs.
@@ -36,6 +38,7 @@ Follow your doctor’s instruction.
 
 What are the possible side effects of finasteride tablets?
 Finasteride tablets may increase the chance of a more serious form of prostate cancer.
+
 The most common side effects of finasteride tablets include:
 
 - trouble getting or keeping an erection (impotence)
@@ -55,12 +58,14 @@ The following have been reported in general use with finasteride tablets and/or 
 - male infertility and/or poor quality of semen.
   Improvement in the quality of semen has been reported after stopping the medication.
 - depression
+- suicidal thoughts
 - decrease in sex drive that continued after stopping the medication
 - in rare cases, male breast cancer has been reported.
 
 You should discuss side effects with your doctor before taking finasteride tablets and anytime you think you are having a side effect.
 These are not all the possible side effects with finasteride tablets.
 For more information, ask your doctor or pharmacist.
+
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at: 1-800-FDA-1088.
 What you need to know while taking finasteride tablets:
@@ -113,4 +118,4 @@ However, since each case of BPH is different, you should know that:
 - You may need to take finasteride tablets for six (6) months or more to see whether it improves your symptoms.
 - Therapy with finasteride tablets may reduce your risk for a sudden inability to pass urine and the need for surgery for an enlarged prostate.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 09/2021
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 05/2026

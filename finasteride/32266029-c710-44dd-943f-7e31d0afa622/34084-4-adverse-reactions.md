@@ -3,9 +3,7 @@
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
-4-Year Placebo-Controlled Study (A Long-Term Efficacy and Safety Study)
-
-In a long-term efficacy and safety study, 1524 patients treated with finasteride and 1516 patients treated with placebo were evaluated for safety over a period of 4 years.
+4-Year Placebo-Controlled Study (A Long-Term Efficacy and Safety Study) In a long-term efficacy and safety study, 1524 patients treated with finasteride and 1516 patients treated with placebo were evaluated for safety over a period of 4 years.
 The most frequently reported adverse reactions were related to sexual function.
 3.7% (57 patients) treated with finasteride and 2.1% (32 patients) treated with placebo discontinued therapy as a result of adverse reactions related to sexual function, which are the most frequently reported adverse reactions.
 Table 1 presents the only clinical adverse reactions considered possibly, probably or definitely drug related by the investigator, for which the incidence on finasteride was ≥1% and greater than placebo over the 4 years of the study.
@@ -72,6 +70,7 @@ These events were reported rarely in men taking finasteride for the treatment of
 Most men were older and were taking concomitant medications and/or had co-morbid conditions.
 The independent role of finasteride in these events is unknown. - male infertility and/or poor seminal quality were reported rarely in men taking finasteride for the treatment of BPH.
 Normalization or improvement of poor seminal quality has been reported after discontinuation of finasteride.
-The independent role of finasteride in these events is unknown. - depression - male breast cancer.
+The independent role of finasteride in these events is unknown. - depression - suicidal ideation - male breast cancer.
+
 The following additional adverse event related to sexual dysfunction that continued after discontinuation of treatment has been reported in postmarketing experience with finasteride at lower doses used to treat male pattern baldness.
 Because the event is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate its frequency or establish a causal relationship to drug exposure: - orgasm disorders
