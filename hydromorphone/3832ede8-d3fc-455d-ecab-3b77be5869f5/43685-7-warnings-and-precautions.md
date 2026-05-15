@@ -5,7 +5,7 @@
 Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] is a 10 mg/mL concentrated solution of hydromorphone, and is intended for use in opioid-tolerant patients only.
 Patients considered opioid tolerant are those who are taking at least 60 mg oral morphine/day, 25 mcg transdermal fentanyl/hour, 30 mg oral oxycodone/day, 8 mg oral hydromorphone/day, 25 mg oral oxymorphone/day, or an equianalgesic dose of another opioid for one week or longer.
 
-Do not confuse Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] with standard parenteral formulations of Hydromorphone Hydrochloride Injection, as overdose and death could result.
+Do not confuse Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] with standard parenteral formulations of Hydromorphone Hydrochloride Injection, or other opioids as overdose and death could result.
 
 ## 5.2 Addiction, Abuse, and Misuse
 
@@ -14,6 +14,8 @@ As an opioid, Hydromorphone Hydrochloride Injection [high potency formulation (H
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed Hydromorphone Hydrochloride Injection [high potency formulation (HPF)].
 Addiction can occur at recommended dosages and if the drug is misused or abused.
+The risk of opioid-related overdose or overdose-related death is increased with higher opioid doses, and this risk persists over the course of therapy.
+In postmarketing studies, addiction, abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use [see Adverse Reactions (6)].
 
 Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing Hydromorphone Hydrochloride Injection [high potency formulation (HPF)], and monitor all patients receiving Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
@@ -29,7 +31,7 @@ Contact local state professional licensing board or state-controlled substances 
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agents (e.g., naloxone, nalmefene), depending on the patient's clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of Hydromorphone Hydrochloride Injection [high potency formulation (HPF)], the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -46,8 +48,9 @@ In patients who present with CSA, consider decreasing the opioid dosage using be
 
 ## 5.4 Risks from Concomitant Use With Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
 Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
 
@@ -66,7 +69,7 @@ Advise pregnant women using opioids for an extended period of time of the risk o
 ## 5.6 Opioid-Induced Hyperalgesia and Allodynia
 
 Opioid-Induced Hyperalgesia (OIH) occurs when an opioid analgesic paradoxically causes an increase in pain, or an increase in sensitivity to pain.
-This condition differs from tolerance, which is the need for increasing doses of opioids to maintain a defined effect [see Dependence (9.3)].
+This condition differs from tolerance, which is the need for increasing doses of opioids to maintain a defined effect [see Drug Abuse and Dependence (9.3)].
 Symptoms of OIH include (but may not be limited to) increased levels of pain upon opioid dosage increase, decreased levels of pain upon opioid dosage decrease, or pain from ordinarily non-painful stimuli (allodynia).
 These symptoms may suggest OIH only if there is no evidence of underlying disease progression, opioid tolerance, opioid withdrawal, or addictive behavior.
 
@@ -79,9 +82,13 @@ If a patient is suspected to be experiencing OIH, carefully consider appropriate
 
 The use of Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients With Chronic Pulmonary Disease: Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] [see Warnings and Precautions (5.3)].
+Patients With Chronic Pulmonary Disease:
 
-Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
+Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] [see Warnings and Precautions (5.3)].
+
+Elderly, Cachectic, or Debilitated Patients:
+
+Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
 
 Monitor such patients closely, particularly when initiating and titrating Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] and when Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.3, 5.4), Drug Interactions (7)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
@@ -112,13 +119,17 @@ Monitor such patients for signs of sedation and respiratory depression, particul
 Opioids may also obscure the clinical course in a patient with a head injury.
 Avoid the use of Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] in patients with impaired consciousness or coma.
 
-## 5.11 Risks of Use in Patients With Gastrointestinal Conditions
+## 5.11 Risks of Gastrointestinal Complications
 
 Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
 The hydromorphone in Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] may cause spasm of the sphincter of Oddi.
 Opioids may cause increases in serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
+The risk of OIED may increase as the dose and/or duration of opioids increases.
+Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain) and, if necessary, adjust opioid therapy as clinically appropriate [see Clinical Pharmacology (12.2)].
 
 ## 5.12 Increased Risk of Seizures in Patients With Seizure Disorders
 
@@ -131,7 +142,7 @@ Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and bu
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 When discontinuing Hydromorphone Hydrochloride Injection [high potency formulation (HPF)], in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.6)].
-Do not abruptly discontinue Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] in these patients [see Drug Abuse and Dependence (9.3)].
+Do not rapidly reduce or abruptly discontinue Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] in these patients [see Drug Abuse and Dependence (9.3)].
 
 ## 5.14 Risks of Driving and Operating Machinery
 

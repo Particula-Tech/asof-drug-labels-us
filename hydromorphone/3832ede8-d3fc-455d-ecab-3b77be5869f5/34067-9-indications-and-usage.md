@@ -7,9 +7,4 @@ Patients must remain on around-the-clock opioids while administering Hydromorpho
 
 Limitations of Use:
 
-Because of the risks of addiction, abuse, and misuse with opioids, which can occur at any dosage or duration [see Warnings and Precautions (5.2)], reserve Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] for use in patients for whom alternative treatment options (e.g., non-opioid analgesics or opioid combination products):
-
-- •Have not been tolerated or are not expected to be tolerated,
-- •Have not provided adequate analgesia or are not expected to provide adequate analgesia.
-
-Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] should not be used for an extended period of time unless the pain remains severe enough to require an opioid analgesic and for which alternative treatment options continue to be inadequate.
+Because of the risks of addiction, abuse, misuse, overdose, and death, which can occur at any dosage or duration and persist over the course of therapy [see Warnings and Precautions (5.2)], reserve opioid analgesics, including Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] for use in patients for whom alternative treatment options are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain.

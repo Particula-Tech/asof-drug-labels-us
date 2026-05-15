@@ -30,7 +30,7 @@ Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage 
 Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
 Opioid analgesics, including Hydromorphone Hydrochloride Injection [high potency formulation (HPF)], can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
@@ -53,6 +53,7 @@ The findings cannot be clearly attributed to maternal toxicity.
 No neural tube defects were noted at 14 mg/kg (4.7 times the human daily dose of 24 mg/day).
 
 In a published study, CF-1 mice were treated subcutaneously with continuous infusion of 7.5, 15, or 30 mg/kg/day hydromorphone hydrochloride (1.5, 3, or 6.1 times the human daily dose of 24 mg based on body surface area) via implanted osmotic pumps during organogenesis (Gestation Days 7 to 10).
+
 Soft tissue malformations (cryptorchidism, cleft palate, malformed ventricles and retina), and skeletal variations (split supraoccipital, checkerboard and split sternebrae, delayed ossification of the paws and ectopic ossification sites) were observed at doses 3 times the human dose of 24 mg/day based on body surface area.
 The findings cannot be clearly attributed to maternal toxicity.
 
