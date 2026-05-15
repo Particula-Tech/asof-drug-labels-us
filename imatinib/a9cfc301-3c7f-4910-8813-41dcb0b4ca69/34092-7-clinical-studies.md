@@ -7,7 +7,7 @@ Chronic Phase, Newly Diagnosed:
 An open-label, multicenter, international randomized Phase 3 study (imatinib mesylate versus IFN+Ara-C) has been conducted in patients with newly diagnosed Philadelphia chromosome positive (Ph+) chronic myeloid leukemia (CML) in chronic phase.
 This study compared treatment with either single-agent imatinib mesylate or a combination of interferon-alpha (IFN) plus cytarabine (Ara-C).
 Patients were allowed to cross over to the alternative treatment arm if they failed to show a complete hematologic response (CHR) at 6 months, a major cytogenetic response (MCyR) at 12 months, or if they lost a CHR or MCyR.
-Patients with increasing WBC or severe intolerance to treatment were also allowed to cross over to the alternative treatment arm with the permission of the study monitoring committee (SMC).
+Patients with increasing WBC or severe intolerance to treatment were also allowed to cross-over to the alternative treatment arm with the permission of the study monitoring committee (SMC).
 In the imatinib mesylate arm, patients were treated initially with 400 mg daily.
 Dose escalations were allowed from 400 mg daily to 600 mg daily, then from 600 mg daily to 800 mg daily.
 In the IFN arm, patients were treated with a target dose of IFN of 5 MIU/m2/day subcutaneously in combination with subcutaneous Ara-C 20 mg/m2/day for 10 days/month.
@@ -22,7 +22,7 @@ Sixty percent of patients randomized to imatinib mesylate are still receiving fi
 In these patients, the average dose of imatinib mesylate was 403 mg ± 57 mg.
 Overall, in patients receiving first line imatinib mesylate, the average daily dose delivered was 406 mg ± 76 mg.
 Due to discontinuations and cross-overs, only 2% of patients randomized to IFN were still on first-line treatment.
-In the IFN arm, withdrawal of consent (14%) was the most frequent reason for discontinuation of first-line therapy, and the most frequent reason for cross over to the imatinib mesylate arm was severe intolerance to treatment (26%) and progression (14%).
+In the IFN arm, withdrawal of consent (14%) was the most frequent reason for discontinuation of first-line therapy, and the most frequent reason for cross-over to the imatinib mesylate arm was severe intolerance to treatment (26%) and progression (14%).
 
 The primary efficacy endpoint of the study was progression-free survival (PFS).
 Progression was defined as any of the following events: progression to accelerated phase or blast crisis (AP/BC), death, loss of CHR or MCyR, or in patients not achieving a CHR an increasing WBC despite appropriate therapeutic management.
@@ -42,7 +42,7 @@ Figure 2: Time to Progression to AP or BC (ITT Principle)
 A total of 71 (12.8%) and 85 (15.4%) patients died in the imatinib mesylate and IFN+Ara-C group, respectively.
 At 84 months the estimated overall survival is 86.4% (83, 90) vs 83.3% (80, 87) in the randomized imatinib mesylate and the IFN+Ara-C group, respectively (p = 0.073 log-rank test).
 The hazard ratio is 0.750 with 95% CI 0.547 to 1.028.
-This time-to-event endpoint may be affected by the high crossover rate from IFN+Ara-C to imatinib mesylate.
+This time-to-event endpoint may be affected by the high cross-over rate from IFN+Ara-C to imatinib mesylate.
 Major cytogenetic response, hematologic response, evaluation of minimal residual disease (molecular response), time to accelerated phase or blast crisis and survival were main secondary endpoints.
 Response data are shown in Table 18.
 Complete hematologic response, major cytogenetic response and CCyR were also statistically significantly higher in the imatinib mesylate arm compared to the IFN + Ara-C arm (no cross-over data considered for evaluation of responses).
@@ -77,10 +77,10 @@ There was no apparent change from baseline in median index for patients treated 
 
 An open-label, multicenter, randomized trial (imatinib mesylate versus nilotinib) was conducted to determine the efficacy of imatinib mesylate versus nilotinib in adult patients with cytogenetically confirmed, newly diagnosed Ph+ CML-CP.
 Patients were within 6 months of diagnosis and were previously untreated for CML-CP, except for hydroxyurea and/or anagrelide.
-Efficacy was based on a total of 846 patients: 283 patients in the imatinib mesylate 400 mg once-daily group, 282 patients in the nilotinib 300 mg twice-daily group, 281 patients in the nilotinib 400 mg twice-daily group.
+Efficacy was based on a total of 846 patients: 283 patients in the imatinib mesylate 400 mg once daily group, 282 patients in the nilotinib 300 mg twice daily group, 281 patients in the nilotinib 400 mg twice daily group.
 
-Median age was 46 years in the imatinib mesylate group and 47 years in both nilotinib groups, with 12%, 13%, and 10% of patients greater than or equal to 65 years of age in imatinib mesylate 400 mg once-daily, nilotinib 300 mg twice-daily and nilotinib 400 mg twice-daily treatment groups, respectively.
-There were slightly more male than female patients in all groups (56%, 56%, and 62% in imatinib mesylate 400 mg once-daily, nilotinib 300 mg twice-daily and nilotinib 400 mg twice-daily treatment groups, respectively).
+Median age was 46 years in the imatinib mesylate group and 47 years in both nilotinib groups, with 12%, 13%, and 10% of patients greater than or equal to 65 years of age in imatinib mesylate 400 mg once daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice daily treatment groups, respectively.
+There were slightly more male than female patients in all groups (56%, 56%, and 62% in imatinib mesylate 400 mg once daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice daily treatment groups, respectively).
 More than 60% of all patients were Caucasian, and 25% were Asian.
 
 The primary data analysis was performed when all 846 patients completed 12 months of treatment or discontinued earlier.
@@ -95,7 +95,7 @@ Twelve patients in the imatinib mesylate arm progressed to either accelerated ph
 
 Table 19: Efficacy (MMR and CCyR) of Imatinib Mesylate Compared to Nilotinib in Newly Diagnosed Ph+ CML-CP
 
-|  | Imatinib Mesylate 400 mg once-daily | Nilotinib 300 mg twice-daily |
+|  | Imatinib Mesylate 400 mg once daily | Nilotinib 300 mg twice daily |
 | --- | --- | --- |
 |  | N = 283 | N = 282 |
 | MMR at 12 months (95% CI) | 22% (17.6, 27.6) | 44% (38.4, 50.3) |
@@ -234,7 +234,7 @@ Cohort 1 received the lowest intensity and cohort 5 received the highest intensi
 
 There were 50 patients with Ph+ ALL assigned to cohort 5 all of whom received imatinib mesylate plus chemotherapy; 30 were treated exclusively with chemotherapy and imatinib mesylate and 20 received chemotherapy plus imatinib mesylate and then underwent hematopoietic stem cell transplant, followed by further imatinib mesylate treatment.
 Patients in cohort 5 treated with chemotherapy received continuous daily exposure to imatinib mesylate beginning in the first course of post induction chemotherapy continuing through maintenance cycles 1 through 4 chemotherapy.
-During maintenance cycles 5 through 12 imatinib mesylate was administered 28 days out of the 56 day cycle.
+During maintenance cycles 5 through 12, imatinib mesylate was administered 28 days out of the 56 day cycle.
 Patients who underwent hematopoietic stem cell transplant received 42 days of imatinib mesylate prior to HSCT, and 28 weeks (196 days) of imatinib mesylate after the immediate post transplant period.
 The estimated 4-year EFS of patients in cohort 5 was 70% (95% CI: 54, 81).
 The median follow-up time for EFS at data cutoff in cohort 5 was 40.5 months.
@@ -357,8 +357,8 @@ Unresectable and/or Malignant Metastatic GIST
 
 Two open-label, randomized, multinational Phase 3 studies were conducted in patients with unresectable or metastatic malignant GIST.
 The two study designs were similar allowing a predefined combined analysis of safety and efficacy.
-A total of 1640 patients were enrolled into the two studies and randomized 1:1 to receive either 400 mg or 800 mg orally daily continuously until disease progression or unacceptable toxicity.
-Patients in the 400 mg daily treatment group who experienced disease progression were permitted to crossover to receive treatment with 800 mg daily.
+A total of 1,640 patients were enrolled into the two studies and randomized 1:1 to receive either 400 mg or 800 mg orally daily continuously until disease progression or unacceptable toxicity.
+Patients in the 400 mg daily treatment group who experienced disease progression were permitted to cross-over to receive treatment with 800 mg daily.
 The studies were designed to compare response rates, progression-free survival and overall survival between the dose groups.
 Median age at patient entry was 60 years.
 Males comprised 58% of the patients enrolled.
@@ -385,7 +385,7 @@ Table 26: Overall Survival, Progression-Free Survival and Tumor Response Rates i
 
 Median follow up for the combined studies was 37.5 months.
 There were no observed differences in overall survival between the treatment groups (p = 0.98).
-Patients who crossed over following disease progression from the 400 mg/day treatment group to the 800 mg/day treatment group (n = 347) had a 3.4 month median and a 7.7 month mean exposure to imatinib mesylate following crossover.
+Patients who crossed over following disease progression from the 400 mg/day treatment group to the 800 mg/day treatment group (n = 347) had a 3.4 month median and a 7.7 month mean exposure to imatinib mesylate following cross-over.
 
 One open-label, multinational Phase 2 study was conducted in patients with Kit (CD117) positive unresectable or metastatic malignant GIST.
 In this study, 147 patients were enrolled and randomized to receive either 400 mg or 600 mg orally every day for up to 36 months.
@@ -404,12 +404,12 @@ Patients were included who had a histologic diagnosis of primary GIST, expressin
 
 Recurrence-free survival (RFS) was defined as the time from date of randomization to the date of recurrence or death from any cause.
 In a planned interim analysis, the median follow up was 15 months in patients without a RFS event; there were 30 RFS events in the 12-month imatinib arm compared to 70 RFS events in the placebo arm with a hazard ratio of 0.398 (95% CI: 0.259, 0.610), p less than 0.0001.
-After the interim analysis of RFS, 79 of the 354 patients initially randomized to the placebo arm were eligible to cross over to the 12-month imatinib arm.
+After the interim analysis of RFS, 79 of the 354 patients initially randomized to the placebo arm were eligible to cross-over to the 12-month imatinib arm.
 Seventy-two of these 79 patients subsequently crossed over to imatinib therapy.
 In an updated analysis, the median follow-up for patients without a RFS event was 50 months.
-There were 74 (21%) RFS events in the 12-month imatinib arm compared to 98 (28%) events in the placebo arm with a hazard ratio of 0.718 (95% CI: 0.531-0.971) (Figure 3).
+There were 74 (21%) RFS events in the 12-month imatinib arm compared to 98 (28%) events in the placebo arm with a hazard ratio of 0.718 (95% CI: 0.531 to 0.971) (Figure 3).
 The median follow-up for OS in patients still living was 61 months.
-There were 26 (7%) and 33 (9%) deaths in the 12-month imatinib and placebo arms, respectively with a hazard ratio of 0.816 (95% CI: 0.488-1.365).
+There were 26 (7%) and 33 (9%) deaths in the 12-month imatinib and placebo arms, respectively with a hazard ratio of 0.816 (95% CI: 0.488 to 1.365).
 
 Figure 3: Study 1 Recurrence-Free Survival (ITT Population)
 

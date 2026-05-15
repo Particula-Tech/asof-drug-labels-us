@@ -3,7 +3,7 @@
 ## 2.1 Drug Administration
 
 The prescribed dose should be administered orally, with a meal and a large glass of water.
-Doses of 400 mg or 600 mg should be administered once-daily, whereas a dose of 800 mg should be administered as 400 mg twice a day.
+Doses of 400 mg or 600 mg should be administered once daily, whereas a dose of 800 mg should be administered as 400 mg twice a day.
 
 For patients unable to swallow the film-coated tablets, the tablets may be dispersed in a glass of water or apple juice.
 The required number of tablets should be placed in the appropriate volume of beverage (approximately 50 mL for a 100 mg tablet, and 200 mL for a 400 mg tablet) and stirred with a spoon.
@@ -17,12 +17,12 @@ Treatment may be continued as long as there is no evidence of progressive diseas
 
 The recommended dose of imatinib mesylate tablets is 400 mg/day for adult patients in chronic phase CML and 600 mg/day for adult patients in accelerated phase or blast crisis.
 
-In CML, a dose increase from 400 mg to 600 mg in adult patients with chronic phase disease, or from 600 mg to 800 mg (given as 400 mg twice-daily) in adult patients in accelerated phase or blast crisis may be considered in the absence of severe adverse drug reaction and severe non-leukemia related neutropenia or thrombocytopenia in the following circumstances: disease progression (at any time), failure to achieve a satisfactory hematologic response after at least 3 months of treatment, failure to achieve a cytogenetic response after 6 to 12 months of treatment, or loss of a previously achieved hematologic or cytogenetic response.
+In CML, a dose increase from 400 mg to 600 mg in adult patients with chronic phase disease, or from 600 mg to 800 mg (given as 400 mg twice daily) in adult patients in accelerated phase or blast crisis may be considered in the absence of severe adverse drug reaction and severe non-leukemia related neutropenia or thrombocytopenia in the following circumstances: disease progression (at any time), failure to achieve a satisfactory hematologic response after at least 3 months of treatment, failure to achieve a cytogenetic response after 6 to 12 months of treatment, or loss of a previously achieved hematologic or cytogenetic response.
 
 ## 2.3 Pediatric Patients with Ph+ CML CP
 
 The recommended dose of imatinib mesylate tablets for children with newly diagnosed Ph+ CML is 340 mg/m2/day (not to exceed 600 mg).
-Imatinib mesylate tablet treatment can be given as a once-daily dose or the daily dose may be split into two–one portion dosed in the morning and one portion in the evening.
+Imatinib mesylate tablet treatment can be given as a once daily dose or the daily dose may be split into two–one portion dosed in the morning and one portion in the evening.
 There is no experience with imatinib mesylate tablet treatment in children under 1 year of age.
 
 ## 2.4 Adult Patients with Ph+ ALL
@@ -32,7 +32,7 @@ The recommended dose of imatinib mesylate tablets is 600 mg/day for adult patien
 ## 2.5 Pediatric Patients with Ph+ ALL
 
 The recommended dose of imatinib mesylate tablets to be given in combination with chemotherapy to children with newly diagnosed Ph+ ALL is 340 mg/m2/day (not to exceed 600 mg).
-Imatinib mesylate tablet treatment can be given as a once-daily dose.
+Imatinib mesylate tablet treatment can be given as a once daily dose.
 
 ## 2.6 Adult Patients with MDS/MPD
 
@@ -62,7 +62,7 @@ The recommended dose of imatinib mesylate tablets is 800 mg/day for adult patien
 ## 2.10 Adult Patients with Metastatic and/or Unresectable GIST
 
 The recommended dose of imatinib mesylate tablets is 400 mg/day for adult patients with unresectable and/or metastatic, malignant GIST.
-A dose increase up to 800 mg daily (given as 400 mg twice-daily) may be considered, as clinically indicated, in patients showing clear signs or symptoms of disease progression at a lower dose and in the absence of severe adverse drug reactions.
+A dose increase up to 800 mg daily (given as 400 mg twice daily) may be considered, as clinically indicated, in patients showing clear signs or symptoms of disease progression at a lower dose and in the absence of severe adverse drug reactions.
 
 ## 2.11 Adult Patients with Adjuvant GIST
 

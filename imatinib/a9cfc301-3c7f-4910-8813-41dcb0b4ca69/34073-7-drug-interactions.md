@@ -11,10 +11,15 @@ Grapefruit juice may also increase plasma concentrations of imatinib; avoid grap
 
 ## 7.3 Interactions with Drugs Metabolized by CYP3A4
 
-Imatinib mesylate will increase plasma concentration of CYP3A4 metabolized drugs (e.g., triazolo-benzodiazepines, dihydropyridine calcium channel blockers, certain HMG-CoA reductase inhibitors, etc.). Use caution when administering imatinib mesylate with CYP3A4 substrates that have a narrow therapeutic window.
+Imatinib mesylate will increase plasma concentration of CYP3A4 metabolized drugs (e.g., triazolobenzodiazepines, dihydropyridine calcium channel blockers, certain HMG-CoA reductase inhibitors, etc.). Use caution when administering imatinib mesylate with CYP3A4 substrates that have a narrow therapeutic window.
 
 Because warfarin is metabolized by CYP2C9 and CYP3A4, use low-molecular weight or standard heparin instead of warfarin in patients who require anticoagulation [see Clinical Pharmacology (12.3)].
 
 ## 7.4 Interactions with Drugs Metabolized by CYP2D6
 
 Use caution when administering imatinib mesylate with CYP2D6 substrates that have a narrow therapeutic window.
+
+## 7.5 Interactions with Methotrexate
+
+Imatinib mesylate may delay the clearance of methotrexate and result in sustained methotrexate concentrations when methotrexate is used at high doses (> 500 mg/m2).
+Refer to the prescribing information for methotrexate injection for recommendations on management of methotrexate concentrations.
