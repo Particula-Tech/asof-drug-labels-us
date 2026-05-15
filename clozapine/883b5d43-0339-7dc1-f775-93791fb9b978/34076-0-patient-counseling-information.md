@@ -36,8 +36,8 @@ Discuss the following issues with patients and caregivers:
 
 The brands listed are trademarks of their respective owners.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-Revised: 8/2025
+Revised: 4/2026
