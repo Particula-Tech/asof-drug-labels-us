@@ -15,9 +15,11 @@
 - Advise patients of the symptoms of potential pulmonary toxicity and instruct them to seek prompt medical attention in the event of pyrexia, cough, dyspnea, or other respiratory symptoms [see Warnings and Precautions (5.10)].
 - Advise patients to notify their healthcare provider if they are using a continuous glucose monitoring system while taking hydroxyurea capsules [see Warnings and Precautions (5.11)].
 
-For more information, go to www.endo.com or call 1-800-828-9393.
+For more information, go to www.parhealth.com or call 1-800-828-9393.
 
-Manufactured for: Endo USA Malvern, PA 19355 U.S.A. Made in India
+Manufactured for:
 
-Neutral Code: TN/DRUGS/TN00002121 ©2024 Endo, Inc. or one of its affiliates.
-OS724-01-74-04 Revised: 08/2024
+Par Health USA Rochester, MI 48307 U.S.A. Made in India
+
+Neutral Code: TN/DRUGS/TN00002121 © 2026 Par Health, Inc. or one of its affiliates.
+Revised: 04/2026

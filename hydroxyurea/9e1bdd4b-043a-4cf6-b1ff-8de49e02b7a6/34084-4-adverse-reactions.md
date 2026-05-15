@@ -28,7 +28,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Immune disorders: systemic lupus erythematosus
 - Hypersensitivity: Drug-induced fever (pyrexia) (>39°C, >102°F) requiring hospitalization has been reported concurrently with gastrointestinal, pulmonary, musculoskeletal, hepatobiliary, dermatological or cardiovascular manifestations.
   Onset typically occurred within 6 weeks of initiation and resolved upon discontinuation of hydroxyurea.
-  Upon re-administration fever re-occurred typically within 24 hours
+  Upon re-administration fever re-occurred typically within 24 hours.
 - Blood and lymphatic system disorders: hemolytic anemia
 
 Adverse reactions observed with combined hydroxyurea and irradiation therapy are similar to those reported with the use of hydroxyurea or radiation treatment alone.
