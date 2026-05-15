@@ -8,7 +8,7 @@ After Exposure to Soman, Use Atropine and Pralidoxime
 - Primary protection against exposure to chemical nerve agents is the wearing of protective garments including masks, hoods, and overgarments designed specifically for this use.
   Individuals must not rely solely upon pretreatment with pyridostigmine bromide and on the antidotes atropine and pralidoxime (2-PAM) to provide complete protection from poisoning by soman nerve agent [see Dosage and Administration (2.1)].
   Pyridostigmine Bromide as Pretreatment Only
-- Pyridostigmine bromide must not be taken after exposure to soman.
-  If pyridostigmine bromide is taken immediately before exposure (e.g., when the gas attack alarm is given) or at the same time as poisoning by soman, it is not expected to be effective and may exacerbate the effects of a sub-lethal exposure to soman [see Clinical Pharmacology (12.2)].
+- If pyridostigmine bromide is taken immediately before exposure (e.g., when the gas attack alarm is given) or at the same time as poisoning by soman, it is not expected to be effective and may exacerbate the effects of a sub-lethal exposure to soman.
+  Do not take pyridostigmine bromide after exposure to soman [see Clinical Pharmacology (12.2)].
 
 FOR MILITARY MEDICAL USE ONLY

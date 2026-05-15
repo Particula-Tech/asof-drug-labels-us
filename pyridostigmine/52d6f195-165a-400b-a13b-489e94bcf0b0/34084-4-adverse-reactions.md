@@ -24,12 +24,12 @@ Table 1: Incidence of Adverse Reactions ≥ 2%
 | Adverse Reaction | Pyridostigmine N = 60% | Placebo N = 30% |
 | --- | --- | --- |
 | Diarrhea | 7 | 0 |
-| Abdominal Pain | 7 | 0 |
+| Abdominal pain | 7 | 0 |
 | Dysmenorrhea | 5 | 0 |
 | Twitch | 3 | 0 |
 | Myalgia | 2 | 0 |
-| Dry Skin | 2 | 0 |
-| Urinary Frequency | 2 | 0 |
+| Dry skin | 2 | 0 |
+| Urinary frequency | 2 | 0 |
 | Epistaxis | 2 | 0 |
 | Amblyopia | 2 | 0 |
 | Hypesthesia | 2 | 0 |
@@ -45,7 +45,7 @@ Other less common adverse reactions seen during controlled and uncontrolled clin
 - Digestive: Vomiting, borborygmi, nausea, bloating, flatulence
 - General: Warm sensation, lethargy/drowsiness, depressed mood
 
-During safety studies at the recommended dosage of immediate release pyridostigmine bromide 30 mg every 8 hours, which provides exposures comparable to pyridostigmine bromide 105 mg extended-release tablets once daily, there were two reports of loss of consciousness, one of which also included urinary and fecal incontinence, stiffness of the upper torso and arms, post-syncopal skin pallor, post-syncopal confusion, and post-syncopal weakness (suggesting a seizure event).
+During safety studies at the recommended dosage of immediate release pyridostigmine bromide 30 mg every 8 hours, which provides exposures comparable to pyridostigmine bromide 105 mg extended-release tablets once daily, there were two reports of loss of consciousness, one of which also included urinary and fecal incontinence, stiffness of the upper torso and arms, post-syncopal skin pallor, post-syncopal confusion, and post-syncopal weakness.
 
 Central Nervous System Adverse Reactions
 

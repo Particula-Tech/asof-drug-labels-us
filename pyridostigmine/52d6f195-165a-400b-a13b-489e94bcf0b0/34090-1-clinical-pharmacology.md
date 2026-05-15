@@ -92,9 +92,9 @@ No information is available on the pharmacokinetics of pyridostigmine bromide in
 
 Male and Female Patients
 
-The clearance of pyridostigmine bromide is not influenced by gender.
+The clearance of pyridostigmine bromide is not influenced by sex.
 
 Geriatric Patients
 
-In a pyridostigmine bromide study in elderly subjects (71 to 85 years of age), the elimination half-life of pyridostigmine and volume of distribution (central and steady-state) were comparable with younger subjects (21 to 51 years of age).
-However, the systemic plasma clearance was 30% lower in the elderly [see Use in Specific Populations (8.5)].
+In a pyridostigmine bromide study in elderly subjects (71 to 85 years of age), the elimination half-life and volume of distribution (central and steady-state) of pyridostigmine were comparable with younger subjects (21 to 51 years of age).
+However, the systemic plasma clearance was 30% lower in the elderly compared to younger subjects (6.7 ± 2.2 vs. 9.5 ± 2.7 mL/min/kg) [see Use in Specific Populations (8.5)].

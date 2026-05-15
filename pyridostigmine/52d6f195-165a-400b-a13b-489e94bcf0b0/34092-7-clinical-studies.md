@@ -3,7 +3,6 @@
 The effectiveness of pyridostigmine bromide as a pretreatment against the lethal effects of soman nerve agent poisoning has not been determined in humans because adequate and well-controlled field trials have not been feasible and inducing soman nerve agent poisoning in humans to study the drug’s efficacy is not ethical.
 Therefore, the effectiveness of pyridostigmine bromide as a pretreatment for against the lethal effects of soman nerve agent poisoning was established based on the results of the following adequate and well-controlled animal efficacy studies.
 
-Evidence of the effectiveness of pyridostigmine bromide as a pretreatment for soman poisoning was obtained from studies in animals alone, because it is unethical to perform such studies in humans.
 While the results of these animal studies cannot be extrapolated to humans with certainty, the extrapolation is supported by the reasonably well understood pathophysiologic mechanisms of the toxicity of soman and the mechanism of the protective effect of pyridostigmine bromide pretreatment, as examined in various animal species.
 In addition, the results of these animal studies establish that pyridostigmine bromide is reasonably likely to produce clinical benefit in humans.
 The section below explains the current understanding of the mechanism of soman toxicity and the beneficial effect of pyridostigmine bromide pretreatment, as well as the basis for extrapolating the animal findings to humans.

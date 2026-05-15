@@ -60,10 +60,10 @@ However, the FDA may review any data collected by DoD for the purpose of evaluat
 
 Questions and Requests for Information
 
-Questions about personnel rights and welfare should be directed to the unit medical officer or e-mailed to usamrmcregulatoryaffairs@mail.mil.
+Questions about personnel rights and welfare should be directed to the unit medical officer or emailed to usamrmcregulatoryaffairs@mail.mil.
 
 Personnel can receive information about pyridostigmine bromide from unit medical officers or medics.
-Questions about pyridostigmine bromide can also be e-mailed directly to the US Army Medical Research and Materiel Command at address usarmy.detrick.medcom-usammda.mbx.usamrmc-regulatory-affairs@mail.mil.
+Questions about pyridostigmine bromide can also be emailed directly to the US Army Medical Research and Materiel Command at address usarmy.detrick.medcom-usammda.mbx.usamrmc-regulatory-affairs@mail.mil.
 
 Distributed by:
 
@@ -72,4 +72,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-10-2025-01
+05-2026-02
