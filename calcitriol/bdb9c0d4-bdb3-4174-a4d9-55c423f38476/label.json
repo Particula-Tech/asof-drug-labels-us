@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021068"
+  ],
+  "inn": "calcitriol",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70954-831-10"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "calcitriol",
+      "name": "Calcitriol"
+    }
+  ],
+  "setid": "bdb9c0d4-bdb3-4174-a4d9-55c423f38476",
+  "source": "dailymed"
+}

@@ -1,0 +1,5 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+Carton Label:
+
+Container Label:
