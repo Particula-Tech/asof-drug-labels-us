@@ -1,6 +1,6 @@
-Manufactured for: Thea Pharma Inc. Lexington, MA 02420
+Manufactured for: Thea Pharma Inc. Waltham, MA 02451
 
 The COSOPT trademark is owned by Merck Sharp & Dohme Corp. and is used under license.
 
-© 2022.
-Thea Pharma Inc. All rights reserved Revision 05/2022
+© 2025.
+Thea Pharma Inc. All rights reserved

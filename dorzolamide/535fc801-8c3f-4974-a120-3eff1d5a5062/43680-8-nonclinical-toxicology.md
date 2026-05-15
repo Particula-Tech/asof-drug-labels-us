@@ -2,6 +2,8 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
+### Carcinogenesis
+
 In a two-year study of dorzolamide hydrochloride administered orally to male and female Sprague-Dawley rats, urinary bladder papillomas were seen in male rats in the highest dosage group of 20 mg/kg/day (250 times the recommended human ophthalmic dose).
 Papillomas were not seen in rats given oral doses equivalent to approximately 12 times the recommended human ophthalmic dose.
 No treatment-related tumors were seen in a 21-month study in female and male mice given oral doses up to 75 mg/kg/day (~900 times the recommended human ophthalmic dose).
@@ -21,11 +23,15 @@ The increased occurrence of mammary adenocarcinomas was associated with elevatio
 An increased incidence of mammary adenocarcinomas in rodents has been associated with administration of several other therapeutic agents that elevate serum prolactin, but no correlation between serum prolactin levels and mammary tumors has been established in humans.
 Furthermore, in adult human female subjects who received oral dosages of up to 60 mg of timolol maleate (the maximum recommended human oral dosage), there were no clinically meaningful changes in serum prolactin.
 
+### Mutagenesis
+
 The following tests for mutagenic potential were negative for dorzolamide: (1) in vivo (mouse) cytogenetic assay; (2) in vitro chromosomal aberration assay; (3) alkaline elution assay; (4) V-79 assay; and (5) Ames test.
 
-Timolol maleate was devoid of mutagenic potential when tested in vivo (mouse) in the micronucleus test and cytogenetic assay (doses up to 800 mg/kg) and in vitro in a neoplastic cell transformation assay (up to 100 µg/mL).
-In Ames tests the highest concentrations of timolol employed, 5,000 or 10,000 µg/plate, were associated with statistically significant elevations of revertants observed with tester strain TA100 (in seven replicate assays), but not in the remaining three strains.
+Timolol maleate was devoid of mutagenic potential when tested in vivo (mouse) in the micronucleus test and cytogenetic assay (doses up to 800 mg/kg) and in vitro in a neoplastic cell transformation assay (up to 100 μg/mL).
+In Ames tests the highest concentrations of timolol employed, 5,000 or 10,000 μg/plate, were associated with statistically significant elevations of revertants observed with tester strain TA100 (in seven replicate assays), but not in the remaining three strains.
 In the assays with tester strain TA100, no consistent dose response relationship was observed, and the ratio of test to control revertants did not reach 2.
 A ratio of 2 is usually considered the criterion for a positive Ames test.
+
+### Impairment of Fertility
 
 Reproduction and fertility studies in rats with either timolol maleate or dorzolamide hydrochloride demonstrated no adverse effect on male or female fertility at doses up to approximately 100 times the systemic exposure following the maximum recommended human ophthalmic dose.

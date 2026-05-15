@@ -2,24 +2,23 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects.
-Pregnancy Category C. Developmental toxicity studies with dorzolamide hydrochloride in rabbits at oral doses of ≥2.5 mg/kg/day (31 times the recommended human ophthalmic dose) revealed malformations of the vertebral bodies.
+Risk Summary There are no adequate and well-controlled studies of COSOPT PF in pregnant women to inform a drug-associated risk.
+No evidence of teratogenicity has been observed in mice, rat, and rabbits with dorzolamide hydrochloride or timolol at clinically relevant doses [see Data].
+
+Data Animal Data Oral administration of dorzolamide hydrochloride in pregnant rabbits at oral doses of ≥2.5 mg/kg/day (31 times the recommended human ophthalmic dose) revealed malformations of the vertebral bodies.
 These malformations occurred at doses that caused metabolic acidosis with decreased body weight gain in dams and decreased fetal weights.
 No treatment-related malformations were seen at 1 mg/kg/day (13 times the recommended human ophthalmic dose).
 
-Teratogenicity studies with timolol in mice, rats, and rabbits at oral doses up to 50 mg/kg/day (7,000 times the systemic exposure following the maximum recommended human ophthalmic dose) demonstrated no evidence of fetal malformations.
+Oral administration of timolol in pregnant mice, rats and rabbits at does up to 50 mg/kg/day (7,000 times the systemic exposure following the maximum recommended human ophthalmic dose) demonstrated no evidence of fetal malformations.
 Although delayed fetal ossification was observed at this dose in rats, there were no adverse effects on postnatal development of offspring.
-Doses of 1000 mg/kg/day (142,000 times the systemic exposure following the maximum recommended human ophthalmic dose) were maternotoxic in mice and resulted in an increased number of fetal resorptions.
+Doses of 1,000 mg/kg/day (142,000 times the systemic exposure following the maximum recommended human ophthalmic dose) were maternotoxic in mice and resulted in an increased number of fetal resorptions.
 Increased fetal resorptions were also seen in rabbits at doses of 14,000 times the systemic exposure following the maximum recommended human ophthalmic dose, in this case without apparent maternotoxicity.
 
-There are no adequate and well-controlled studies in pregnant women.
-COSOPT PF should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+## 8.2 Lactation
 
-## 8.3 Nursing Mothers
-
-It is not known whether dorzolamide is excreted in human milk.
-Timolol maleate has been detected in human milk following oral and ophthalmic drug administration.
-Because of the potential for serious adverse reactions from COSOPT PF in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Risk Summary It is not known whether dorzolamide hydrochloride and timolol are excreted in human milk.
+Because many drugs are excreted in human milk, caution should be exercised when COSOPT PF is administered to a nursing woman.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for COSOPT PF and any potential adverse effects on the breastfed child from COSOPT PF.
 
 ## 8.4 Pediatric Use
 

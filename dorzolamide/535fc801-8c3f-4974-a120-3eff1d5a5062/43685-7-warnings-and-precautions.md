@@ -11,7 +11,7 @@ For example, severe respiratory reactions, including death due to bronchospasm i
 Sympathetic stimulation may be essential for support of the circulation in individuals with diminished myocardial contractility, and its inhibition by beta-adrenergic receptor blockade may precipitate more severe failure.
 
 In patients without a history of cardiac failure continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
-At the first sign or symptom of cardiac failure, COSOPT PF should be discontinued [see Contraindications (4.2) and Patient Counseling Information (17.2)].
+At the first sign or symptom of cardiac failure, COSOPT PF should be discontinued [see Contraindications (4.2) and Patient Counseling Information (17)].
 
 ## 5.3 Sulfonamide Hypersensitivity
 
@@ -19,11 +19,11 @@ COSOPT PF contains dorzolamide, a sulfonamide; and although administered topical
 Therefore, the same types of adverse reactions that are attributable to sulfonamides may occur with topical administration of COSOPT PF.
 Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias.
 Sensitization may recur when a sulfonamide is readministered irrespective of the route of administration.
-If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparation [see Contraindications (4.3) and Patient Counseling Information (17.3)].
+If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparation [seeContraindications (4.3)and Patient Counseling Information (17)].
 
 ## 5.4 Obstructive Pulmonary Disease
 
-Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which COSOPT PF is contraindicated) should, in general, not receive beta-blocking agents, including COSOPT PF [see Contraindications (4.1) and Patient Counseling Information (17.1)].
+Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which COSOPT PF is contraindicated) should, in general, not receive beta-blocking agents, including COSOPT PF [see Contraindications (4.1) and Patient Counseling Information (17)].
 
 ## 5.5 Increased Reactivity to Allergens
 
