@@ -21,7 +21,7 @@ Median follow-up was 11.3 months.
 The results of the PCP event rates appear in Table 7.
 Mortality rates were similar among the groups.
 
-Table 6.
+Table 7.
 Confirmed or Presumed/Probable PCP Events (As-Treated Analysis)a
 
 | Assessment | Trial 1 |  | Trial 2 |  |  |
@@ -43,18 +43,17 @@ An analysis of all PCP events (intent-to-treat analysis) for both trials showed 
 The indication for treatment of mild‑to‑moderate PCP is based on the results of two efficacy trials: a randomized, double‑blind trial comparing atovaquone tablets with TMP‑SMX in subjects with HIV/AIDS and mild‑to‑moderate PCP (defined in the protocol as [(A‑a)DO2] ≤45 mm Hg and PaO2 ≥60 mm Hg on room air) and a randomized open-label trial comparing atovaquone tablets with IV pentamidine isethionate in subjects with mild‑to‑moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
 Both trials were conducted with the tablet formulation using 750 mg three times daily.
 Results from these efficacy trials established a relationship between plasma atovaquone concentrations and successful outcome.
-Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy [see Clinical Pharmacology (Error!
-Hyperlink reference not valid.)].
+Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy [see Clinical Pharmacology (12.2)].
 
 TMP‑SMX Comparative Trial
 
-This double‑blind, randomized trial compared the safety and efficacy of atovaquone tablets with that of TMP‑SMX for the treatment of subjects with HIV/AIDS and histologically-confirmed PCP.
+This double‑blind, randomized trial compared the safety and efficacy of atovaquone tablets with that of TMP‑SMX for the treatment of subjects with HIV/AIDS and histologically confirmed PCP.
 Only subjects with mild‑to‑moderate PCP were eligible for enrollment.
 
 A total of 408 subjects were enrolled into the trial.
 The majority of subjects were white (66%) and male (95%); the mean age was 36 years.
 Eighty‑six subjects without histologic confirmation of PCP were excluded from the efficacy analyses.
-Of the 322 subjects with histologically-confirmed PCP, 160 were randomized to receive 750 mg atovaquone (three 250 mg tablets) 3 times daily for 21 days and 162 were randomized to receive 320 mg TMP plus 1,600 mg SMX 3 times daily for 21 days.
+Of the 322 subjects with histologically confirmed PCP, 160 were randomized to receive 750 mg atovaquone (three 250 mg tablets) 3 times daily for 21 days and 162 were randomized to receive 320 mg TMP plus 1,600 mg SMX 3 times daily for 21 days.
 Therapy success was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
 Improvement in clinical and respiratory measures was assessed using a composite of parameters that included oral body temperature, respiratory rate, severity scores for cough, dyspnea, and chest pain/tightness.
 Therapy failures included lack of response, treatment discontinuation due to an adverse experience, and unevaluable.
@@ -70,7 +69,7 @@ However, only 1 (2%) of the 49 subjects with Day 4 plasma atovaquone concentrati
 
 Sixty-two percent of subjects on atovaquone and 64% of subjects on TMP‑SMX were classified as protocol-defined therapy successes (Table 8).
 
-Table 7.
+Table 8.
 Outcome of Treatment for PCP-Positive Subjects Enrolled in the TMP-SMX Comparative Trial
 
 | Outcome of Therapya | Number of Subjects (%) |  |  |  |
@@ -106,7 +105,7 @@ Among subjects for whom Day 4 plasma atovaquone concentrations were available, 3
 However, only 2 of 21 (9%) subjects with Day 4 plasma concentrations ≥5 mcg/mL died.
 The therapeutic outcomes for the 134 subjects who received trial medication in this trial are presented in Table 9.
 
-Table 8.
+Table 9.
 Outcome of Treatment for PCP-Positive Subjects (%) Enrolled in the Pentamidine Comparative Trial
 
 | Outcome of Therapy | Primary Treatment |  |  |  | Salvage Treatment |  |  |  |
@@ -118,7 +117,3 @@ Outcome of Treatment for PCP-Positive Subjects (%) Enrolled in the Pentamidine C
 | -Adverse reaction | 2 | 3.6% | 19 | 36% | 0 |  | 3 | 27% |
 | -Unevaluable | 6 | 11% | 4 | 8% | 1 | 7% | 1 | 9% |
 | Required alternate PCP therapy during trial | 19 | 34% | 29 | 55% | 0 |  | 4 | 36% |
-
-Lactation
-
-Instruct mothers with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].

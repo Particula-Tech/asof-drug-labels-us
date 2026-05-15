@@ -4,7 +4,7 @@
 
 The recommended oral dosage is 1,500 mg (10 mL) once daily administered with food.
 
-## 2.2 Dosage for the Treatment of Mild-to-Moderate P.jirovecii Pneumonia
+## 2.2 Dosage for the Treatment of Mild-to-Moderate P. jirovecii Pneumonia
 
 The recommended oral dosage is 750 mg (5 mL) twice daily (total daily dose = 1,500 mg) administered with food for 21 days.
 

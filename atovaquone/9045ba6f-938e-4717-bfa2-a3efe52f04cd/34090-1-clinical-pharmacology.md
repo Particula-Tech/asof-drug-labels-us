@@ -55,14 +55,14 @@ The mean (±SD) half-life of atovaquone was 62.5 ± 35.3 hours after IV administ
 
 Metabolism: The metabolism of atovaquone is unknown.
 
-Excretion: Following oral administration of 14C-labelled atovaquone to healthy subjects, greater than 94% of the dose was recovered as unchanged atovaquone in the feces over 21 days.
+Excretion: Following oral administration of 14C-labelled atovaquone was administered to healthy subjects, greater than 94% of the dose was recovered as unchanged atovaquone in the feces over 21 days.
 
 Specific Populations
 
 Patients with Hepatic or Renal Impairment: The pharmacokinetics of atovaquone have not been studied in patients with hepatic or renal impairment.
 
 HIV-Infected Subjects: When atovaquone oral suspension was administered to 5 HIV-1–infected subjects at a dose of 750 mg twice daily, the mean (±SD) steady-state plasma atovaquone concentration was 21 ± 4.9 mcg/mL and mean (±SD) Cmax was 24 ± 5.7 mcg/mL.
-The mean (±SD) minimum plasma atovaquone concentration (Cmin) associated with the 750-mg twice-daily regimen was 16.7 ± 4.6 mcg/mL.
+The mean (±SD) minimum plasma atovaquone concentration (Cmin) associated with the 750 mg twice-daily regimen was 16.7 ± 4.6 mcg/mL.
 
 In an open-label PCP trial in 18 HIV-1–infected subjects, administration of atovaquone oral suspension 750 mg twice daily with meals resulted in a mean (±SD) steady-state plasma atovaquone concentration of 22 ± 10.1 mcg/mL.
 
@@ -83,7 +83,7 @@ Indinavir: Concomitant administration of atovaquone (750 mg twice daily with foo
 Trimethoprim/Sulfamethoxazole (TMP-SMX): Concomitant administration of atovaquone oral suspension 500 mg once daily (not the approved dosage) and TMP-SMX in 6 HIV-infected adult subjects did not result in significant changes in either atovaquone or TMP-SMX exposure.
 
 Zidovudine: The administration of atovaquone tablets 750 mg every 12 hours with zidovudine 200 mg every 8 hours to 14 HIV-1 infected subjects resulted in a 24% ± 12% decrease in zidovudine apparent oral clearance, leading to a 35% ± 23% increase in plasma zidovudine AUC.
-The glucuronide metabolite: parent ratio decreased from a mean of 4.5 when zidovudine was administered alone to 3.1 when zidovudine was administered with atovaquone tablets.
+The glucuronide metabolite:parent ratio decreased from a mean of 4.5 when zidovudine was administered alone to 3.1 when zidovudine was administered with atovaquone tablets.
 This effect is minor and would not be expected to produce clinically significant events.
 Zidovudine had no effect on atovaquone pharmacokinetics.
 

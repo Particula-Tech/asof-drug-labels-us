@@ -1,8 +1,9 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reaction is discussed in another section of the labeling:
+The following adverse reactions are discussed in another section of the labeling:
 
 - •Hepatotoxicity [see Warnings and Precautions (5.2)].
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.3)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -127,6 +128,6 @@ Gastrointestinal Disorders Pancreatitis.
 
 Hepatobiliary Disorders Hepatitis, fatal liver failure.
 
-Skin and Subcutaneous Tissue Disorders Erythema multiforme, Stevens-Johnson syndrome, and skin desquamation.
+Skin and Subcutaneous Tissue Disorders Erythema multiforme (EM), Stevens-Johnson syndrome (SJS), skin desquamation, and drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 Renal and Urinary Disorders Acute renal impairment.
