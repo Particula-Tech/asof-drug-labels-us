@@ -7,7 +7,7 @@ Risk Summary
 Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.5)].
 There are no available data with DILAUDID in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
 
-In animal reproduction studies, reduced postnatal survival of pups, and decreased were noted following oral treatment of pregnant rats with hydromorphone during gestation and through lactation at doses 0.8 times the human daily dose of 24 mg/day (HDD), respectively.
+In animal reproduction studies, reduced postnatal survival of pups, and decreased body weight were noted following oral treatment of pregnant rats with hydromorphone during gestation and through lactation at doses 0.8 times the human daily dose of 24 mg/day (HDD), respectively.
 In published studies, neural tube defects were noted following subcutaneous injection of hydromorphone to pregnant hamsters at doses 6.4 times the HDD and soft tissue and skeletal abnormalities were noted following subcutaneous continuous infusion of 3 times the HDD to pregnant mice.
 No malformations were noted at 4 or 40.5 times the HDD in pregnant rats or rabbits, respectively [see Data].
 Based on animal data, advise pregnant women of the potential risk to a fetus.
