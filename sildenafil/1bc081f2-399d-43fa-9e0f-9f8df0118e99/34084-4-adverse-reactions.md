@@ -32,6 +32,9 @@ Most Common Adverse Reactions in Patients Treated with sildenafil tablets 20 mg,
 
 In a placebo-controlled fixed dose titration study (PACES-1) of sildenafil citrate (starting with recommended dose of 20 mg and increased to 40 mg and then 80 mg all three times a day) as an adjunct to intravenous epoprostenol in patients with PAH, no new safety issues were identified except for edema, which occurred in 25% of subjects in the combined sildenafil citrate + epoprostenol group compared with 13% of subjects in the epoprostenol group [see Clinical Studies (14)].
 
+In a study to assess the effects of multiple doses of sildenafil tablets on mortality in adults with PAH (StudyA1481324), the lower dose 5 mg TID group showed a higher observed number of deaths (all related to underlying disease/disease under study), serious adverse events, and severe adverse events than the 20 mg and 80 mg TID groups [see Clinical Studies (14)].
+Overall, the safety data for sildenafil 80 mg TID dose in Study A1481324 was consistent with the established safety profile of sildenafil in previous adult PAH studies.
+
 Pediatric use information is approved for Viatris Specialty LLC's, REVATIO (sildenafil) tablets.
 However, due to Viatris Specialty LLC's marketing exclusivity rights, this drug product is not labeled with that information.
 

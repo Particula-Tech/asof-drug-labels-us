@@ -23,7 +23,7 @@ Limited clinical data during lactation preclude a clear determination of the ris
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Sildenafil citrate have not been established in pediatric patients younger than 1 year of age.
+The safety and effectiveness of sildenafil citrate have not been established in pediatric patients younger than 1 year of age.
 
 Pediatric use information is approved for Viatris Specialty LLC's, REVATIO (sildenafil) tablets.
 However, due to Viatris Specialty LLC's marketing exclusivity rights, this drug product is not labeled with that information.

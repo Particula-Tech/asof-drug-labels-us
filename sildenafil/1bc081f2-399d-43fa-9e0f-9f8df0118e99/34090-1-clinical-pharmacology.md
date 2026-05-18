@@ -36,14 +36,14 @@ Changes from Baseline in Hemodynamic Parameters at Week 12 [mean (95% CI)] for t
 | RAP (mmHg) | 0.3 (-0.9, 1.5) | -0.8 (-1.9, 0.3) |
 | CO (L/min) | -0.1 (-0.4, 0.2) | 0.4 (0.1, 0.7) |
 | HR (beats/min) | -1.3 (-4.1, 1.4) | -3.7 (-5.9, -1.4) |
-| mPAP = mean pulmonary arterial pressure; PVR= pulmonary vascular resistance; SVR = systemic vascular resistance; RAP = right atrial pressure; CO = cardiac output; HR = heart rate |  |  |
+| mPAP = mean pulmonary arterial pressure; PVR= pulmonary vascular resistance; SVR = systemic vascular resistance; RAP = right atrial pressure; CO = cardiac output; HR = heart rate. |  |  |
 | * The number of patients per treatment group varied slightly for each parameter due to missing assessments. |  |  |
 
 Effects of Sildenafil Citrate on Blood Pressure
 
 Single oral doses of sildenafil 100 mg administered to healthy volunteers produced decreases in supine blood pressure (mean maximum decrease in systolic/diastolic blood pressure of 8/5 mmHg).
 The decrease in blood pressure was most notable approximately 1 to 2 hours after dosing and was not different from placebo at 8 hours.
-Similar effects on blood pressure were noted with 25 mg, 50 mg and 100 mg doses of sildenafil, therefore the effects are not related to dose or plasma levels within this dosage range.
+Similar effects on blood pressure were noted with 25 mg, 50 mg, and 100 mg doses of sildenafil, therefore the effects are not related to dose or plasma levels within this dosage range.
 Larger effects were recorded among patients receiving concomitant nitrates [see Contraindications (4)].
 
 Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no clinically relevant effects on electrocardiogram (ECG).
@@ -121,7 +121,7 @@ Patients with severe hepatic impairment (Child-Pugh class C) have not been studi
 
 Drug Interaction Studies
 
-In vitro studies
+In vitroStudies
 
 Sildenafil metabolism is principally mediated by the CYP3A (major route) and CYP2C9 (minor route) cytochrome P450 isoforms.
 Therefore, inhibitors of these isoenzymes may reduce sildenafil clearance and inducers of these isoenzymes may increase sildenafil clearance.
@@ -130,7 +130,7 @@ Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2
 
 Sildenafil is not expected to affect the pharmacokinetics of compounds which are substrates of these CYP enzymes at clinically relevant concentrations.
 
-In vivo studies
+In vivoStudies
 
 The effects of other drugs on sildenafil pharmacokinetics and the effects of sildenafil on the exposure to other drugs are shown in Figure 1 and Figure 2, respectively.
 
@@ -142,7 +142,7 @@ Effects of Sildenafil on Other Drugs
 
 CYP3A Inhibitors and Beta Blockers
 
-Population pharmacokinetic analysis of data from patients in clinical trials indicated an approximately 30% reduction in sildenafil clearance when it was co-administered with mild/moderate CYP3A inhibitors and an approximately 34% reductions in sildenafil clearance when co-administered with beta-blockers.
+Population pharmacokinetic analysis of data from patients in clinical trials indicated an approximately 30% reduction in sildenafil clearance when it was co-administered with mild/moderate CYP3A inhibitors and an approximately 34% reduction in sildenafil clearance when co-administered with beta-blockers.
 Sildenafil exposure at a dose of 80 mg three times a day without concomitant medication is shown to be 5-fold the exposure at a dose of 20 mg three times a day.
 This concentration range covers the same increased sildenafil exposure observed in specifically-designed drug interaction studies with CYP3A inhibitors (except for potent inhibitors such as ketoconazole, itraconazole, and ritonavir).
 
