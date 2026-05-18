@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance
 
-Dexmedetomidine is not a controlled substance
+Dexmedetomidine is not a controlled substance.
 
 ## 9.3 Dependence
 

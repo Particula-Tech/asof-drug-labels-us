@@ -2,17 +2,17 @@
 
 ## 2.1 Administration Instructions
 
-1. •Individualize and titrate dosing to desired clinical response.
-2. •Administer by continuous intravenous infusion using a controlled infusion device.
-3. •Administration duration should not exceed 24 hours [see Warnings and Precautions (5.5, 5.6)].
-4. •Dexmedetomidine Injection must be diluted prior to administration [see Dosage and Administration (2.4)].
-5. •Dexmedetomidine in 5% Dextrose Injection 200 mcg/50 mL and 400mcg/100mL single-dose bags do not require further dilution prior to administration.
-6. •Dexmedetomidine Injection and Dexmedetomidine in 5% Dextrose Injectionshould be administered only by health care providers skilled in the management of patients in the intensive care or operating room setting.
-7. •Continuously monitor blood pressure, heart rate and oxygen levels during the use of Dexmedetomidine Injection and Dexmedetomidine in 5% Dextrose Injection and as clinically appropriate after discontinuation.
-8. •Dexmedetomidine Injection and Dexmedetomidine in 5% Dextrose Injectionhas been continuously infused in mechanically ventilated adult patients prior to extubation, during extubation, and post-extubation.
-   It is not necessary to discontinue Dexmedetomidine Injection and Dexmedetomidine in 5% Dextrose Injectionprior to extubation.
-9. •Use administration components made with synthetic or coated natural rubber gaskets.
-   Dexmedetomidine Injection and Dexmedetomidine in 5% Dextrose Injection has the potential for absorption into some types of natural rubber.
+- •Individualize and titrate dosing to desired clinical response.
+- •Administer by continuous intravenous infusion using a controlled infusion device.
+- •Administration duration should not exceed 24 hours [see Warnings and Precautions (5.5, 5.7)].
+- •Dexmedetomidine Injection must be diluted prior to administration [see Dosage and Administration (2.4)].
+- •Dexmedetomidine in 5% Dextrose Injection 200 mcg/50 mL and 400mcg/100mL single-dose bags do not require further dilution prior to administration.
+- •Dexmedetomidine Injection and Dexmedetomidine in 5% Dextrose Injection should be administered only by health care providers skilled in the management of patients in the intensive care or operating room setting.
+- •Continuously monitor blood pressure, heart rate and oxygen levels during the use of Dexmedetomidine Injection and Dexmedetomidine in 5% Dextrose Injection and as clinically appropriate after discontinuation.
+- •Dexmedetomidine Injection and Dexmedetomidine in 5% Dextrose Injection has been continuously infused in mechanically ventilated adult patients prior to extubation, during extubation, and post-extubation.
+  It is not necessary to discontinue Dexmedetomidine Injection and Dexmedetomidine in 5% Dextrose Injection prior to extubation.
+- •Use administration components made with synthetic or coated natural rubber gaskets.
+  Dexmedetomidine Injection and Dexmedetomidine in 5% Dextrose Injection has the potential for absorption into some types of natural rubber.
 
 ## 2.2 Recommended Dosage
 
@@ -28,7 +28,7 @@ Table 1: Recommended Dosage in Adult Patients
 ## 2.3 Dosage Adjustment
 
 Due to possible pharmacodynamic interactions, a reduction in dosage of dexmedetomidine or other concomitant anesthetics, sedatives, hypnotics or opioids may be required when co-administered [see Drug Interactions (7.1)].
-Dosage reductions may need to be considered for adult patients with hepatic impairment, and geriatric patients [see Warnings and Precautions (5.8), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+Dosage reductions may need to be considered for adult patients with hepatic impairment, and geriatric patients [see Warnings and Precautions (5.9), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.4 Preparation of Solution
 
@@ -57,7 +57,7 @@ Discard unused portion.
 
 Dexmedetomidine in 5% Dextrose Injection,200 mcg/50 mL (4 mcg/mL) and 400 mcg/100 mL (4 mcg/mL)
 
-Dexmedetomidine in 5% Dextrose Injectionis supplied in single-port, flexible plastic ready-to-use infusion bags with dexmedetomidine solution in 5% dextrose in water.
+Dexmedetomidine in 5% Dextrose Injection is supplied in single-port, flexible plastic ready-to-use infusion bags with dexmedetomidine solution in 5% dextrose in water.
 No further dilution of these preparations is necessary.
 
 ## 2.5 Administration with Other Fluids

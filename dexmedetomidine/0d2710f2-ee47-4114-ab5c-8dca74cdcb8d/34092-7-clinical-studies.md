@@ -86,7 +86,7 @@ Study 2 evaluated dexmedetomidine in adult patients undergoing awake fiberoptic 
 
 In Study 1, the sedative properties of dexmedetomidine were evaluated by comparing the percent of adult patients not requiring rescue midazolam to achieve a specified level of sedation using the standardized Observer’s Assessment of Alertness/Sedation Scale (see Table 12).
 
-Table 12: Observer’s Assessment of Alertness/Sedation
+Table 2: Observer’s Assessment of Alertness/Sedation
 
 | Assessment Categories |  |  |  |  |
 | --- | --- | --- | --- | --- |

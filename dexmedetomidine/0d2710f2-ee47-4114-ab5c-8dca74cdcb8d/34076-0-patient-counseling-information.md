@@ -18,4 +18,5 @@ Vials made in Finland
 
 Bags made in Switzerland
 
-U.S. Patent Numbers 9,649,296 and 9,717,796
+Patented.
+See www.wgcriticalcare.com/patents

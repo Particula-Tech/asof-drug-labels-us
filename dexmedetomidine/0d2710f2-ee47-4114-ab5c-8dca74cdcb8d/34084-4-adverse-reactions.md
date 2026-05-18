@@ -173,7 +173,7 @@ Table 7: Adverse Reactions Experienced During Post-Approval Use of Dexmedetomidi
 | General Disorders and Administration Site Conditions | Chills, hyperpyrexia, pain, pyrexia, thirst |
 | Hepatobiliary Disorders | Hepatic function abnormal, hyperbilirubinemia |
 | Investigations | Alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood urea increased, electrocardiogram T wave inversion, gammaglutamyltransferase increased, electrocardiogram QT prolonged |
-| Metabolism and Nutrition Disorders | Acidosis, hyperkalemia, hypoglycemia, hypovolemia, hypernatremia |
+| Metabolism and Nutrition Disorders | Acidosis, hyperkalemia, hypoglycemia, hypovolemia, hypernatremia, diabetesinsipidus (Cases of diabetes insipidus, with associated polyuria, dilute urine, and hypernatremia have been reported.) |
 | Nervous System Disorders | Convulsion, dizziness, headache, neuralgia, neuritis, speech disorder |
 | Psychiatric Disorders | Agitation, confusional state, delirium, hallucination, illusion |
 | Renal and Urinary Disorders | Oliguria, polyuria |
