@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211120"
+  ],
+  "inn": "macitentan",
+  "labeler": "Laurus Labs Limited",
+  "package_ndcs": [
+    "42385-907-15",
+    "42385-907-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "macitentan",
+      "name": "Macitentan"
+    }
+  ],
+  "setid": "93f0ab4a-4756-4915-a000-ed65b26cd61c",
+  "source": "dailymed"
+}
