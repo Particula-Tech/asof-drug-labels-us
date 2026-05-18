@@ -34,4 +34,5 @@ Paramus, NJ 07652
 
 Made in Switzerland
 
-U.S. Patent Number 10,966,990
+Patented.
+See www.wgcriticalcare.com/patents

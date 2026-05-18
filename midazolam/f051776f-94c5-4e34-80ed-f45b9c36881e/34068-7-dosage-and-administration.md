@@ -8,8 +8,7 @@
 - •Administering personnel must be trained in the detection and management of airway obstruction, hypoventilation, and apnea, including the maintenance of a patent airway, supportive ventilation, and cardiovascular resuscitation.
 - •Supplemental oxygen, resuscitative drugs, and age‑ and size-appropriate equipment for bag/valve/mask assisted ventilation must be immediately available during administration of Midazolam in 0.9% Sodium Chloride Injection.
   A benzodiazepine reversal agent should be immediately available.
-- •Continuously monitor vital signs during sedation and through the recovery period [see Error!
-  Hyperlink reference not valid.].
+- •Continuously monitor vital signs during sedation and through the recovery period [see Warnings and Precautions (5.1)].
 
 Midazolam must never be used without individualization of dosage particularly when used with other medications capable of producing central nervous system depression [Warnings and Precautions (5.2)].
 
@@ -51,8 +50,7 @@ Monitoring
 Patient response to sedative agents, and resultant respiratory status, is variable.
 Regardless of the intended level of sedation or route of administration, sedation is a continuum; a patient may move easily from light to deep sedation, with potential loss of protective reflexes.
 This is especially true in pediatric patients.
-Continuously monitor vital signs during sedation and through the recovery period [see Error!
-Hyperlink reference not valid.].
+Continuously monitor vital signs during sedation and through the recovery period [see Warnings and Precautions (5.1)].
 
 ## 2.3 Dosing Recommendations
 
