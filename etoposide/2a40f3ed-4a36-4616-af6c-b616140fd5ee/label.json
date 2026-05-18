@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019557"
+  ],
+  "inn": "etoposide",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "69238-2811-2"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "etoposide",
+      "name": "VePesid"
+    }
+  ],
+  "setid": "2a40f3ed-4a36-4616-af6c-b616140fd5ee",
+  "source": "dailymed"
+}
