@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA219323"
+  ],
+  "inn": "mirabegron",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-890-88"
+  ],
+  "products": [
+    {
+      "form": "FOR SUSPENSION, EXTENDED RELEASE",
+      "generic": "mirabegron",
+      "name": "Mirabegron"
+    }
+  ],
+  "setid": "1c9022af-4841-4f3f-9737-1c5eef58e86b",
+  "source": "dailymed"
+}
