@@ -74,6 +74,13 @@ If particulate matter is evident in reconstituted fluids, the drug solutions sho
 When reconstituted or diluted according to the instructions below, Cefazolin for Injection is stable for 24 hours at room temperature or for 10 days if stored under refrigeration (5°C or 41°F).
 Reconstituted solutions may range in color from pale yellow to yellow without a change in potency.
 
+### Refrigeration and Crystallization
+
+Inspect reconstituted and refrigerated vials visually for the presence of crystals prior to administration as refrigeration of reconstituted solutions may result in crystal formation.
+If crystals are present, handwarm and manually agitate or shake the vials to redissolve the solution.
+Do not administer Cefazolin for Injection until the solution is clear.
+This crystallization phenomenon is expected after refrigeration and does not affect the quality or potency of the product.
+
 ### Single-Dose Vials
 
 For IM injection, IV direct (bolus) injection or IV infusion, reconstitute with Sterile Water for Injection according to the following table.
