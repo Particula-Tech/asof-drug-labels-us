@@ -93,7 +93,7 @@ Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
-Healthcare professionals can telephone Rhodes Pharmaceuticals Medical Services Department (1-888-873-5329) for information on this product.
+Healthcare professionals can telephone Rhodes Pharmaceuticals LLC's Medical Services Department (1-888-873-5329) for information on this product.
 
 Adrenal Insufficiency
 
