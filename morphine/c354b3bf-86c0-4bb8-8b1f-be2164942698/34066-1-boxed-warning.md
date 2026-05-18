@@ -8,8 +8,7 @@ Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression may occur with use of MS CONTIN, especially during initiation or following a dosage increase.
 To reduce the risk of respiratory depression, proper dosing and titration of MS CONTIN are essential.
-Instruct patients to swallow MS CONTIN tablets whole; crushing, chewing, or dissolving MS CONTIN tablets can cause rapid release and absorption of a potentially fatal dose of morphine.
-[see Warnings and Precautions (5.2)].
+Instruct patients to swallow MS CONTIN tablets whole; crushing, chewing, or dissolving MS CONTIN tablets can cause rapid release and absorption of a potentially fatal dose of morphine [see Warnings and Precautions (5.2)].
 
 Accidental Ingestion
 
