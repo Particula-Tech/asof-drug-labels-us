@@ -25,10 +25,12 @@ Net Wt.
 
 GSK
 
-©2023 GSK group of companies or its licensor.
+Made in France
 
-- 62000000090770 Rev.
-  10/23
+©2026 GSK group of companies or its licensor.
+
+- 62000000103038 Rev.
+  03/26
 
 PRINCIPAL DISPLAY PANEL
 
@@ -57,10 +59,12 @@ Net Wt.
 
 GSK
 
-©2023 GSK group of companies or its licensor.
+Made in France
 
-- 62000000090781 Rev.
-  10/23
+©2026 GSK group of companies or its licensor.
+
+- 62000000103039 Rev.
+  03/26
 
 PRINCIPAL DISPLAY PANEL
 
@@ -68,7 +72,7 @@ NDC 0173-0717-20
 
 ADVAIR HFA
 
-(fluticasone propionate salmeterol inhalation aerosol)
+(fluticasone propionate and salmeterol inhalation aerosol)
 
 230 mcg/21 mcg
 
@@ -89,7 +93,9 @@ Net Wt.
 
 GSK
 
-©2023 GSK group of companies or its licensor.
+Made in France
 
-- 62000000090778 Rev.
-  10/23
+©2026 GSK group of companies or its licensor.
+
+- 62000000103041 Rev.
+  03/26
