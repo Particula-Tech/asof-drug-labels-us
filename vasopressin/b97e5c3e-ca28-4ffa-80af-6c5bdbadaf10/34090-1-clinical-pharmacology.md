@@ -46,7 +46,7 @@ Specific Populations
 Pregnancy: Because of a spillover into blood of placental vasopressinase, the clearance of exogenous and endogenous vasopressin increases gradually over the course of a pregnancy.
 During the first trimester of pregnancy, the clearance is only slightly increased.
 However, by the third trimester the clearance of vasopressin is increased about 4-fold and at term up to 5-fold.
-After delivery, the clearance of vasopressin returns to preconception baseline within two weeks.
+After delivery, the clearance of vasopressin returns to pre-conception baseline within two weeks.
 
 Drug Interactions Indomethacin more than doubles the time to offset for vasopressin’s effect on peripheral vascular resistance and cardiac output in healthy subjects [see Drug Interactions (7.2)].
 

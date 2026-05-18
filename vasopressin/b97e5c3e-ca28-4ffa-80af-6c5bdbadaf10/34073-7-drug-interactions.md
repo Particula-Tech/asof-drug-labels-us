@@ -18,7 +18,7 @@ Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed 
 ## 7.4 Drugs Suspected of Causing SIADH
 
 Use with drugs suspected of causing SIADH (e.g., SSRIs, tricyclic antidepressants, haloperidol, chlorpropamide, enalapril, methyldopa, pentamidine, vincristine, cyclophosphamide, ifosfamide, felbamate) may increase the pressor effect in addition to the antidiuretic effect of Vasostrict®.
-Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed
+Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed.
 
 ## 7.5 Drugs Suspected of Causing Diabetes Insipidus
 
