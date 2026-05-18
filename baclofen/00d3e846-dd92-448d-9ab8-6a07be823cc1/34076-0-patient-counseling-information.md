@@ -34,4 +34,6 @@ Bethlehem, PA 18017, USA
 
 Phone: 888 822 8431
 
-Issued 12/2024
+Issued 05/2026
+
+Brands listed are the trademarks of their respective owners.
