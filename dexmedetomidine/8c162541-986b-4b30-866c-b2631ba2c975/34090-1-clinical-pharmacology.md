@@ -78,6 +78,6 @@ Patients with Hepatic Impairment
 In adult subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, or C), clearance values for dexmedetomidine were lower than in healthy subjects.
 The mean clearance values for patients with mild, moderate, and severe hepatic impairment were 74%, 64% and 53% of those observed in the normal healthy adult subjects, respectively.
 Mean clearances for free drug were 59%, 51% and 32% of those observed in the normal healthy adult subjects, respectively.
-Although dexmedetomidine is dosed to effect, it may be necessary to consider dose reduction in subjects with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.8)].
+Although dexmedetomidine is dosed to effect, it may be necessary to consider dose reduction in subjects with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.9)].
 Patients with Renal Impairment Dexmedetomidine pharmacokinetics (Cmax, Tmax, AUC, t1/2, CL, and Vss) were not significantly different in patients with severe renal impairment (creatinine clearance: <30 mL/min) compared to healthy subjects.
 Drug Interaction Studies In vitro studies: In vitro studies in human liver microsomes demonstrated no evidence of cytochrome P450 mediated drug interactions that are likely to be of clinical relevance.
