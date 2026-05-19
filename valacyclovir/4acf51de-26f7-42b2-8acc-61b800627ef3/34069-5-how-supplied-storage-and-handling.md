@@ -6,7 +6,7 @@ Bottles of 30 NDC 16714-698-01 Bottles of 90 NDC 16714-698-03 Bottles of 100 NDC
 
 Valacyclovir Tablets USP, 1 gram are blue, film-coated, capsule shaped tablets with a partial scorebar on both sides containing “F” on one side and “8” and “3” on the otherside containing 1.112 grams of valacyclovir hydrochloride equivalent to 1 gram of valacyclovir.
 
-Bottles of 30 NDC 16714-697-01 Bottles of 90 NDC 16714-697-03 Bottles of 100 NDC 16714-697-02
+Bottles of 30 NDC 16714-697-01 Bottles of 90 NDC 16714-697-03 Bottles of 100 NDC 16714-697-02 Bottles of 500 NDC 16714-697-04
 
 Store at 20o to 25oC (68o to 77oF).
 [See USP Controlled Room Temperature.]

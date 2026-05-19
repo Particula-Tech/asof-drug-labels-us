@@ -54,4 +54,4 @@ Patients should be advised to initiate treatment at the earliest sign or symptom
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
 Manufactured by: APL Healthcare Limited Unit-IV (MP SEZ), Tirupati (Dt)-524421 Andhra Pradesh, India.
 
-M.L.No.: 04/NLR/AP/2016/F/CC Revised: 02/2026
+M.L.No.: 04/NLR/AP/2016/F/CC Revised: 04/2026
