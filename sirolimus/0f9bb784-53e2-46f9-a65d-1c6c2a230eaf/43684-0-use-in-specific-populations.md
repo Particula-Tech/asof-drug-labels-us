@@ -27,6 +27,7 @@ The NOAEL for maternal toxicity was 1 mg/kg.
 
 In rabbit embryo-fetal development studies, pregnant rabbits were administered an oral formulation of sirolimus during the period of organogenesis (Gestational Day 6-18).
 There were no effects on embryo-fetal development at doses up to 0.05 mg/kg; however, at doses of 0.05 mg/kg and above, the ability to sustain a pregnancy was impaired (i.e., embryo-fetal abortion or early resorption).
+
 Maternal toxicity (decreased body weight) was observed at 0.05 mg/kg.
 The NOAEL for maternal toxicity was 0.025 mg/kg.
 

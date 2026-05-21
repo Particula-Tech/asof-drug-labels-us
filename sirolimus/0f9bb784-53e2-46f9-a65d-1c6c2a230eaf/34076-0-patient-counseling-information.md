@@ -61,8 +61,5 @@ Inform patients to avoid grapefruit and grapefruit juice while taking FYARRO.
 This product's label may have been updated.
 For current full prescribing information, please visit www.aadibio.com.
 
-Manufactured for Aadi Bioscience, Inc., Pacific Palisades, CA 90272.
-
-FYARRO is a trademark of Aadi Bioscience, Inc.
-
-Patent: www.aadibio.com/patents/
+Manufactured for Aadi Bioscience, Inc., Morristown, NJ 07960.
+FYARRO ® is a registered trademark of Aadi Bioscience, Inc. Patent: www.aadibio.com/patents/

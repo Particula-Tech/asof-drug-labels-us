@@ -7,7 +7,7 @@ Patients were required to have measurable disease at baseline, centrally confirm
 Patients with lymphangioleiomyomatosis and prior treatment with a mTOR inhibitor were excluded.
 Patients received FYARRO at a dose of 100 mg/m2 on Days 1 and 8 of 21-day cycles until disease progression or unacceptable toxicity.
 
-The efficacy population of 31 patients had the following demographic characteristics: median age 60 years (range 34 to 78), 81% Female, 74% White, 10% Black, and 81% ECOG PS of 0.
+The efficacy population of 31 patients had the following demographic characteristics: median age 60 years (range 34 to 78), 81% female, 74% White, 10% Black, and 81% ECOG PS of 0.
 Five (16%) patients had locally advanced disease and 26 (84%) had metastatic disease.
 Ninety-four percent of patients had prior surgery,19% had prior radiation therapy, and 13% had prior systemic therapy.
 
@@ -20,11 +20,13 @@ Efficacy Results in AMPECT
 
 | Efficacy Endpoints | FYARRO (N=31) |
 | --- | --- |
-| Overall Response Rate (95% CI)All responses were initially partial responses. Two patients with partial response converted to complete response during the follow up-period. | 39% (22%, 58%) |
+| Overall Response Rate (95% CI)* | 39% (22%, 58%) |
 | Duration of Response (DOR) | (N=12) |
 | Median (95% CI) in months | NR (6.5, NE) |
-| Range in months | 5.6, 55.5Denotes ongoing responses |
+| Range in months | 5.6, 55.5+ |
 | % with duration ≥6 months | 92% |
 | % with duration ≥12 months | 67% |
 | % with duration ≥24 months | 58% |
+| * All responses were initially partial responses. Two patients with partial response converted to complete response during the follow up-period. |  |
+| + Denotes ongoing responses |  |
 | CI = Confidence Interval; NR = Not Reached; NE = Not Estimable |  |

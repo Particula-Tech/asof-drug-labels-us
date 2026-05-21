@@ -46,5 +46,4 @@ The effect of race, severe renal impairment, and hepatic impairment on the pharm
 Drug Interaction Studies
 
 No studies evaluating the drug interaction potential of FYARRO have been conducted.
-
 Sirolimus is a substrate for both CYP3A4 and P-gp.

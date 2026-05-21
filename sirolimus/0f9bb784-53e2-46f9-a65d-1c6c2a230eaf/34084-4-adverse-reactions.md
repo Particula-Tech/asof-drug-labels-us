@@ -51,63 +51,76 @@ Table 4 summarizes the adverse reactions in AMPECT.
 Table 4.
 Adverse Reactions ≥10% in Patients with PEComa Who Received FYARRO in AMPECT
 
-| Adverse Reaction | All Grades (%) | Grade 3 to 4No Grade 4 reactions were reported (%) |
-| --- | --- | --- |
 |  | FYARRO (N=34) |  |
+| --- | --- | --- |
+| Adverse Reaction | All Grades (%) | Grade 3 to 4* (%) |
 | Gastrointestinal |  |  |
-| StomatitisIncludes stomatitis, aphthous ulcer, mouth ulceration, esophageal ulcer | 79 | 18 |
+| Stomatitisa | 79 | 18 |
 | Nausea | 50 | 0 |
-| DiarrheaIncludes diarrhea and enteritis | 47 | 2.9 |
+| Diarrheab | 47 | 2.9 |
 | Vomiting | 32 | 2.9 |
-| Abdominal PainIncludes abdominal pain, abdominal pain upper, and epigastric discomfort | 29 | 6 |
+| Abdominal Painc | 29 | 6 |
 | Constipation | 24 | 2.9 |
 | Dry Mouth | 15 | 0 |
 | Hemorrhoids | 12 | 0 |
 | General disorders |  |  |
 | Fatigue | 68 | 2.9 |
-| EdemaIncludes face edema, generalized edema, edema, edema peripheral, and periorbital edema | 50 | 2.9 |
+| Edemad | 50 | 2.9 |
 | Pyrexia | 24 | 0 |
 | Skin and subcutaneous tissue disorders |  |  |
-| RashIncludes dermatitis acneiform, palmar-plantar erythrodysesthesia syndrome, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, and skin exfoliation | 68 | 0 |
+| Rashe | 68 | 0 |
 | Alopecia | 24 | 0 |
 | Pruritus | 18 | 0 |
 | Dry Skin | 12 | 0 |
 | Nail disorder | 12 | 0 |
 | Infections |  |  |
-| InfectionsIncludes all reported infections, including but not limited to, upper respiratory tract infection, urinary tract infection, sinusitis, skin infection, folliculitis, nasopharyngitis, pharyngitis, pharyngitis streptococcal, pneumonia, vaginal infection | 59 | 12 |
+| Infectionsf | 59 | 12 |
 | Metabolism and nutrition |  |  |
 | Decreased appetite | 44 | 0 |
 | Dehydration | 15 | 6 |
 | Nervous system |  |  |
 | Dysgeusia | 32 | 0 |
 | Headache | 29 | 0 |
-| Peripheral neuropathyIncludes dysesthesia, hypoesthesia, neuropathy peripheral, paresthesia, and peripheral sensory neuropathy | 15 | 0 |
-| DizzinessIncludes dizziness, dizziness postural, and vertigo | 12 | 0 |
+| Peripheral neuropathyg | 15 | 0 |
+| Dizzinessh | 12 | 0 |
 | Investigations |  |  |
 | Weight decreased | 47 | 0 |
 | Musculoskeletal and connective tissue disorders |  |  |
-| Musculoskeletal painIncludes arthralgia, back pain, musculoskeletal chest pain, myalgia, neck pain, non-cardiac chest pain, pain in extremity | 47 | 2.9 |
+| Musculoskeletal paini | 47 | 2.9 |
 | Respiratory, thoracic, and mediastinal disorders |  |  |
-| CoughIncludes cough, productive cough, and upper-airway cough syndrome | 35 | 0 |
+| Coughj | 35 | 0 |
 | Pneumonitis | 18 | 0 |
-| DyspneaIncludes dyspnea and dyspnea exertional | 12 | 0 |
+| Dyspneak | 12 | 0 |
 | Vascular disorders |  |  |
 | Hypertension | 29 | 2.9 |
-| HemorrhageIncludes epistaxis, hemorrhoidal hemorrhage, mouth hemorrhage, post procedural hemorrhage, and upper gastrointestinal hemorrhage. Includes one fatal adverse reaction of upper GI hemorrhage | 24 | 2.9 |
+| Hemorrhagel | 24 | 2.9 |
 | Psychiatric disorders |  |  |
 | Insomnia | 21 | 2.9 |
 | Eye disorders |  |  |
 | Vision blurred | 12 | 0 |
 | Grading according to NCI CTCAE Version 4.03 |  |  |
+| aIncludes stomatitis, aphthous ulcer, mouth ulceration, esophageal ulcer |  |  |
+| bIncludes diarrhea and enteritis |  |  |
+| cIncludes abdominal pain, abdominal pain upper, and epigastric discomfort |  |  |
+| dIncludes face edema, generalized edema, edema, edema peripheral, and periorbital edema |  |  |
+| eIncludes dermatitis acneiform, palmar-plantar erythrodysesthesia syndrome, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, and skin exfoliation |  |  |
+| fIncludes all reported infections, including but not limited to, upper respiratory tract infection, urinary tract infection, sinusitis, skin infection, folliculitis, nasopharyngitis, pharyngitis, pharyngitis streptococcal, pneumonia, vaginal infection |  |  |
+| gIncludes dysesthesia, hypoesthesia, neuropathy peripheral, paresthesia, and peripheral sensory neuropathy |  |  |
+| hIncludes dizziness, dizziness postural, and vertigo |  |  |
+| iIncludes arthralgia, back pain, musculoskeletal chest pain, myalgia, neck pain, non-cardiac chest pain, pain in extremity |  |  |
+| jIncludes cough, productive cough, and upper-airway cough syndrome |  |  |
+| kIncludes dyspnea and dyspnea exertional |  |  |
+| lIncludes epistaxis, hemorrhoidal hemorrhage, mouth hemorrhage, post procedural hemorrhage, and upper gastrointestinal hemorrhage. Includes one fatal adverse reaction of upper GI hemorrhage |  |  |
+| *No Grade 4 reactions were reported |  |  |
 
 Table 5 summarizes the laboratory abnormalities in AMPECT.
 
 Table 5.
 Laboratory Abnormalities ≥10% That Worsened from Baseline in Patients with PEComa who Received FYARRO in AMPECT
 
-| Laboratory AbnormalityGrading according to NCI CTCAE Version 4.03 | All Grades (%) | Grades 3 to 4 (%) |
+|  | FYARRO2 (N=34) |  |
 | --- | --- | --- |
-|  | FYARROThe denominator used to calculate the rate varied from 33 to 34 based on the number of patients with a baseline value and at least one post-treatment value. (N=34) |  |
+| Laboratory Abnormality1 | All Grades (%) | Grades 3 to 4 (%) |
 | Hematology |  |  |
 | Decreased lymphocytes | 82 | 21 |
 | Decreased hemoglobin | 68 | 6 |
@@ -131,5 +144,7 @@ Laboratory Abnormalities ≥10% That Worsened from Baseline in Patients with PEC
 | Increased lipase | 12 | 6 |
 | Increased glucose | 12 | 12 |
 | Increased sodium | 12 | 0 |
+| 1Grading according to NCI CTCAE Version 4.03 |  |  |
+| 2The denominator used to calculate the rate varied from 33 to 34 based on the number of patients with a baseline value and at least one post-treatment value. |  |  |
 
 Clinically relevant adverse reactions occurring in <10% of patients included enteritis, edema, pancytopenia, acute kidney injury, and acute coronary syndrome.
