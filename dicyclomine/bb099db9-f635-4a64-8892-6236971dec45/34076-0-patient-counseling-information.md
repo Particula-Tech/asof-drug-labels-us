@@ -17,10 +17,10 @@ The patient should be warned not to engage in activities requiring mental alertn
 
 Manufactured for:
 
-Endo USA
+Par Health USA
 
-Malvern, PA 19355
+Rochester, MI 48307
 
-© 2024 Endo, Inc. or one of its affiliates.
+© 2026 Par Health, Inc. or one of its affiliates.
 
-Revised: 09/2024
+Revised: 03/2026
