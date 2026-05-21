@@ -2,4 +2,4 @@
 
 Rx only
 
-LAB-0013-5.0 Revised December 2025
+LAB-0013-6.0 Revised April 2026
