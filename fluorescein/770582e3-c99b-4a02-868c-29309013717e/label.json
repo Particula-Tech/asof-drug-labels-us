@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA220046"
+  ],
+  "inn": "fluorescein",
+  "labeler": "BPI Labs LLC",
+  "package_ndcs": [
+    "54288-179-01",
+    "54288-179-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "fluorescein",
+      "name": "Fluorescein"
+    }
+  ],
+  "setid": "770582e3-c99b-4a02-868c-29309013717e",
+  "source": "dailymed"
+}
