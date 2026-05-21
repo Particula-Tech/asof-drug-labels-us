@@ -11,15 +11,19 @@ This effect is transient, and permeability of the subcutaneous tissue is restore
 
 ## 12.2 Pharmacodynamics
 
-In Study 1 [see Clinical Studies (14)], the pharmacological effect of efgartigimod alfa-fcab was assessed by measuring the decrease in serum IgG levels and AChR autoantibody levels.
-In patients testing positive for AChR antibodies and who were treated with efgartigimod alfa-fcab intravenous, there was a reduction in total IgG levels relative to baseline.
-Decrease in AChR autoantibody levels followed a similar pattern.
-A decrease in AChR-Ab was associated with a clinical response in AChR-Ab positive patients, as measured by the change from baseline in MG- ADL total score.
+In Study 1 [see Clinical Studies (14)], the pharmacological effect of efgartigimod alfa-fcab was assessed by measuring the decrease in serum IgG levels and anti-AChR autoantibody levels.
+In patients testing positive for anti-AChR antibodies and who were treated with efgartigimod alfa-fcab intravenous, there was a reduction in total IgG levels relative to baseline.
+Decrease in anti-AChR autoantibody levels followed a similar pattern.
+A decrease in anti-AChR autoantibodies was associated with a clinical response in anti-AChR antibody positive patients, as measured by the change from baseline in MG- ADL total score.
 
-In Study 2, the pharmacological effect of VYVGART HYTRULO administered subcutaneously (SC) at 1,008 mg / 11,200 Units was compared to efgartigimod alfa-fcab administered intravenously at 10 mg/kg (EFG IV) in gMG patients.
-The maximum mean reduction in AChR-Ab level was observed at week 4, with a mean reduction of 62.2% and 59.7% in the VYVGART HYTRULO SC and efgartigimod alfa-fcab IV arm, respectively.
+In Study 2 [see Clinical Studies (14)], the pharmacological effect of efgartigimod alfa-fcab was assessed by measuring the decrease in serum IgG levels and anti-muscle-specific tyrosine kinase (MuSK) autoantibody levels.
+In patients testing negative for anti-AChR antibodies who were treated with efgartigimod alfa-fcab IV, there was a reduction in total IgG levels relative to baseline.
+In patients testing positive for anti-MuSK antibodies, decreases in anti-MuSK autoantibodies levels followed a similar pattern as total IgG levels.
+
+In Study 3, the pharmacological effect of VYVGART HYTRULO administered subcutaneously (SC) at 1,008 mg / 11,200 Units was compared to efgartigimod alfa-fcab administered intravenously at 10 mg/kg (EFG IV) in gMG patients.
+The maximum mean reduction in anti-AChR autoantibody level was observed at week 4, with a mean reduction of 62.2% and 59.7% in the VYVGART HYTRULO SC and efgartigimod alfa-fcab IV arm, respectively.
 The decrease in total IgG levels followed a similar pattern.
-The 90% confidence intervals for the geometric mean ratios of AChR-Ab reduction at day 29 and AUEC0-4w (area under the effect-time curve from time 0 to 4 weeks post dose) were within the range of 80% to 125%, indicating no clinically significant difference between the two formulations.
+The 90% confidence intervals for the geometric mean ratios of anti-AChR autoantibody reduction at day 29 and AUEC0-4w (area under the effect-time curve from time 0 to 4 weeks post dose) were within the range of 80% to 125%, indicating no clinically significant difference between the two formulations.
 
 ## 12.3 Pharmacokinetics
 
@@ -79,10 +83,10 @@ Efgartigimod alfa may decrease concentrations of compounds that bind to the huma
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of VYVGART HYTRULO or of other efgartigimod products.
 
-In Study 2, in up to 10 weeks following the initiation of a treatment period with 4 weekly administrations, the incidence of anti-efgartigimod alfa antibodies was 35% (19/55) following treatment with VYVGART HYTRULO and 20% (11/55) in patients receiving intravenous efgartigimod alfa-fcab.
+In Study 3, in up to 10 weeks following the initiation of a treatment period with 4 weekly administrations, the incidence of anti-efgartigimod alfa antibodies was 35% (19/55) following treatment with VYVGART HYTRULO and 20% (11/55) in patients receiving intravenous efgartigimod alfa-fcab.
 For both IV and SC arms, neutralizing anti-efgartigimod alfa antibodies were detected in 4% (2/55) of patients.
 
-In Study 3, in up to 12 weeks of treatment in stage A and 48 weeks in stage B, the incidence of anti-efgartigimod alfa antibodies was 6% (20/317) in stage A and 2% (2/111) in stage B, following treatment with VYVGART HYTRULO.
+In Study 4, in up to 12 weeks of treatment in stage A and 48 weeks in stage B, the incidence of anti-efgartigimod alfa antibodies was 6% (20/317) in stage A and 2% (2/111) in stage B, following treatment with VYVGART HYTRULO.
 Neutralizing anti-efgartigimod alfa antibodies were detected in 0.3% (1/317) of patients in stage A and in no patient in stage B.
 
 Some neutralizing antibodies may not be detected by the assay.

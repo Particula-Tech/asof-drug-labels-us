@@ -23,11 +23,11 @@ VYVGART HYTRULO vial is to be administered with a winged infusion set by a healt
 
 Single-Dose Prefilled Syringe
 
-The recommended dosage of VYVGART HYTRULO prefilled syringe is 1,000 mg / 10,000 units (1,000 mg efgartigimod alfa and 10,000 units hyaluronidase) administered subcutaneously over approximately 20 to 30 seconds in cycles of once weekly injections for 4 weeks.
+The recommended dosage of VYVGART HYTRULO prefilled syringe is 1,000 mg / 10,000 units (1,000 mg efgartigimod alfa and 10,000 units hyaluronidase) administered subcutaneously over approximately 20 seconds to 30 seconds in cycles of once weekly injections for 4 weeks.
 
 Single-Dose Vial
 
-The recommended dosage of VYVGART HYTRULO vial is 1,008 mg / 11,200 units (1,008 mg efgartigimod alfa and 11,200 units hyaluronidase) administered subcutaneously over approximately 30 to 90 seconds in cycles of once weekly injections for 4 weeks.
+The recommended dosage of VYVGART HYTRULO vial is 1,008 mg / 11,200 units (1,008 mg efgartigimod alfa and 11,200 units hyaluronidase) administered subcutaneously over approximately 30 seconds to 90 seconds in cycles of once weekly injections for 4 weeks.
 
 General Dosage Considerations
 
@@ -44,7 +44,7 @@ The recommended dosage of VYVGART HYTRULO prefilled syringe is 1,000 mg / 10,000
 
 Single-Dose Vial
 
-The recommended dosage of VYVGART HYTRULO vial is 1,008 mg / 11,200 units (1,008 mg efgartigimod alfa and 11,200 units hyaluronidase) administered subcutaneously over approximately 30 to 90 seconds as once weekly injections.
+The recommended dosage of VYVGART HYTRULO vial is 1,008 mg / 11,200 units (1,008 mg efgartigimod alfa and 11,200 units hyaluronidase) administered subcutaneously over approximately 30 seconds to 90 seconds as once weekly injections.
 
 General Dosage Considerations
 
@@ -67,9 +67,9 @@ Single-Dose Prefilled Syringe
 - To administer VYVGART HYTRULO prefilled syringe, use a safety needle that is 25G, 5/8 inches in length, and thin wall type.
   The safety needle is not included in the carton.
 - Choose an injection site on the abdomen (at least 2 inches away from the navel).
-  - Do not inject on areas where the skin is irritated, red, bruised, infected, tender, hard, or into areas where there are moles or scars.
+  - Do not inject into areas where the skin is irritated, red, bruised, infected, tender, hard, or into areas where there are moles or scars.
   - Rotate injection sites for subsequent administrations.
-- Inject VYVGART HYTRULO prefilled syringe subcutaneously into a pinched skin area at an angle of 45 to 90 degrees for approximately 20 to 30 seconds.
+- Inject VYVGART HYTRULO prefilled syringe subcutaneously into a pinched skin area at an angle of 45 to 90 degrees for approximately 20 seconds to 30 seconds.
 - Discard any unused portions of medicine remaining in the syringe.
 - Localized injection site reactions may occur after VYVGART HYTRULO is administered [see Adverse Reactions (6.1)].
 - Monitor for clinical signs and symptoms of hypersensitivity reactions for at least 30 minutes after administration.
@@ -103,10 +103,10 @@ Administration
 - Remove the transfer needle from the syringe and connect the syringe to the winged infusion set.
 - Prior to administration, fill the tubing of the winged infusion set by gently pressing the syringe plunger until the plunger is at 5.6 mL.
   There should be solution at the end of the winged infusion set needle.
-- Choose an injection site on the abdomen (at least 2 to 3 inches away from the navel).
-  - Do not inject on areas where the skin is red, bruised, tender, hard, or into areas where there are moles or scars.
+- Choose an injection site on the abdomen (at least 2 inches to 3 inches away from the navel).
+  - Do not inject in areas where the skin is red, bruised, tender, hard, or into areas where there are moles or scars.
   - Rotate injection sites for subsequent administrations.
-- Inject VYVGART HYTRULO vial subcutaneously into a pinched skin area at an angle of about 45 degrees over 30 to 90 seconds.
+- Inject VYVGART HYTRULO vial subcutaneously into a pinched skin area at an angle of about 45 degrees over 30 seconds to 90 seconds.
 - Localized injection site reactions may occur after VYVGART HYTRULO is administered.
   [see Adverse Reactions (6.1)].
 - Discard any unused portions of medicine remaining in the vial, the syringe and the winged infusion set.
