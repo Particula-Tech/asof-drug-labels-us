@@ -27,7 +27,7 @@ The examinations of the fetuses did not reveal any drug related morphological ch
 
 In a pre- and postnatal development study in rats, pregnant rats received oral doses of imatinib mesylate during gestation (organogenesis) and lactation up to 45 mg/kg/day.
 Five animals developed a red vaginal discharge in the 45 mg/kg/day group on Days 14 or 15 of gestation, the significance of which is unknown since all females produced viable litters and none had increased post-implantation loss.
-Other maternal effects noted only at the dose of 45 mg/kg/day (approximately one-half the maximum human dose of 800 mg/day based on BSA) included an increased number of stillborn pups and pups dying between postpartum Days 0 and 4.
+Other maternal effects noted only at the dose of 45 mg/kg/day (approximately one half the maximum human dose of 800 mg/day based on BSA) included an increased number of stillborn pups and pups dying between postpartum Days 0 and 4.
 In the F1 offspring at this same dose level, mean body weights were reduced from birth until terminal sacrifice and the number of litters achieving criterion for preputial separation was slightly decreased.
 There were no other significant effects in developmental parameters or behavioral testing.
 F1 fertility was not affected but reproductive effects were noted at 45 mg/kg/day, including an increased number of resorptions and a decreased number of viable fetuses.

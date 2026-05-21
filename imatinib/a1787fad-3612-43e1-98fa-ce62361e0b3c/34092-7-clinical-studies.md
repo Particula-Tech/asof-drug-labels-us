@@ -21,19 +21,19 @@ The median duration of second-line treatment with imatinib mesylate tablets was 
 Sixty percent of patients randomized to imatinib mesylate tablets are still receiving first-line treatment.
 In these patients, the average dose of imatinib mesylate tablets was 403 mg ± 57 mg.
 Overall, in patients receiving first line imatinib mesylate tablets, the average daily dose delivered was 406 mg ± 76 mg.
-Due to discontinuations and cross-overs, only 2% of patients randomized to IFN were still on first-line treatment.
+Due to discontinuations and crossovers, only 2% of patients randomized to IFN were still on first-line treatment.
 In the IFN arm, withdrawal of consent (14%) was the most frequent reason for discontinuation of first-line therapy, and the most frequent reason for cross over to the imatinib mesylate tablets arm was severe intolerance to treatment (26%) and progression (14%).
 
-The primary efficacy endpoint of the study was progression-free survival (PFS).
-Progression was defined as any of the following events: progression to accelerated phase or blast crisis (AP/BC), death, loss of CHR or MCyR, or in patients not achieving a CHR an increasing WBC despite appropriate therapeutic management.
-The protocol specified that the progression analysis would compare the intent to treat (ITT) population: patients randomized to receive imatinib mesylate tablets were compared with patients randomized to receive IFN.
-Patients that crossed over prior to progression were not censored at the time of cross-over, and events that occurred in these patients following cross-over were attributed to the original randomized treatment.
-The estimated rate of progression-free survival at 84 months in the ITT population was 81.2% [95% CI: 78, 85] in the imatinib mesylate tablets arm and 60.6% [56, 65] in the IFN arm (p less than 0.0001, log-rank test), (Figure 1).
-With 7 years follow up there were 93 (16.8%) progression events in the imatinib mesylate tablets arm: 37 (6.7%) progression to AP/BC, 31 (5.6%) loss of MCyR, 15 (2.7%) loss of CHR or increase in WBC and 10 (1.8%) CML unrelated deaths.
-In contrast, there were 165 (29.8%) events in the IFN+Ara-C arm of which 130 occurred during first-line treatment with IFN-Ara-C.
-The estimated rate of patients free of progression to accelerated phase (AP) or blast crisis (BC) at 84 months was 92.5% [90, 95] in the imatinib mesylate tablets arm compared to the 85.1%, [82, 89] (p less than or equal to 0.001) in the IFN arm, (Figure 2).
-The annual rates of any progression events have decreased with time on therapy.
-The probability of remaining progression free at 60 months was 95% for patients who were in complete cytogenetic response (CCyR) with molecular response (greater than or equal to 3 log reduction in BCR-ABL transcripts as measured by quantitative reverse transcriptase polymerase chain reaction) at 12 months, compared to 89% for patients in CCyR but without a major molecular response and 70% in patients who were not in CCyR at this time point (p less than 0.001).
+- •The primary efficacy endpoint of the study was progression-free survival (PFS).
+  Progression was defined as any of the following events: progression to accelerated phase or blast crisis (AP/BC), death, loss of CHR or MCyR, or in patients not achieving a CHR an increasing WBC despite appropriate therapeutic management.
+  The protocol specified that the progression analysis would compare the intent to treat (ITT) population: patients randomized to receive imatinib mesylate tablets were compared with patients randomized to receive IFN.
+  Patients that crossed over prior to progression were not censored at the time of cross-over, and events that occurred in these patients following cross-over were attributed to the original randomized treatment.
+  The estimated rate of progression-free survival at 84 months in the ITT population was 81.2% [95% CI: 78, 85] in the imatinib mesylate tablets arm and 60.6% [56, 65] in the IFN arm (p less than 0.0001, log-rank test), (Figure 1).
+  With 7 years follow up there were 93 (16.8%) progression events in the imatinib mesylate tablets arm: 37 (6.7%) progression to AP/BC, 31 (5.6%) loss of MCyR, 15 (2.7%) loss of CHR or increase in WBC and 10 (1.8%) CML unrelated deaths.
+  In contrast, there were 165 (29.8%) events in the IFN+Ara-C arm of which 130 occurred during first-line treatment with IFN-Ara-C.
+  The estimated rate of patients free of progression to accelerated phase (AP) or blast crisis (BC) at 84 months was 92.5% [90, 95] in the imatinib mesylate tablets arm compared to the 85.1%, [82, 89] (p less than or equal to 0.001) in the IFN arm, (Figure 2).
+  The annual rates of any progression events have decreased with time on therapy.
+  The probability of remaining progression free at 60 months was 95% for patients who were in complete cytogenetic response (CCyR) with molecular response (greater than or equal to 3 log reduction in BCR-ABL transcripts as measured by quantitative reverse transcriptase polymerase chain reaction) at 12 months, compared to 89% for patients in CCyR but without a major molecular response and 70% in patients who were not in CCyR at this time point (p less than 0.001).
 
 A total of 71 (12.8%) and 85 (15.4%) patients died in the imatinib mesylate tablets and IFN+Ara-C group, respectively.
 At 84 months the estimated overall survival is 86.4% (83, 90) vs 83.3% (80, 87) in the randomized imatinib mesylate tablets and the IFN+Ara-C group, respectively (p = 0.073 log-rank test).
@@ -63,7 +63,7 @@ Molecular response was defined as follows: in the peripheral blood, after 12 mon
 Molecular response was only evaluated in a subset of patients who had a CCyR by 12 months or later (N = 333).
 The molecular response rate in patients who had a CCyR in the imatinib mesylate tablets arm was 59% at 12 months and 72% at 24 months.
 
-Physical, functional, and treatment-specific biologic response modifier scales from the FACT-BRM (Functional Assessment of Cancer Therapy - Biologic Response Modifier) instrument were used to assess patient-reported general effects of interferon toxicity in 1,067 patients with CML in chronic phase.
+Physical, functional, and treatment-specific biologic response modifier scales from the FACT-BRM (Functional Assessment of Cancer Therapy Biologic Response Modifier) instrument were used to assess patient-reported general effects of interferon toxicity in 1,067 patients with CML in chronic phase.
 After one month of therapy to 6 months of therapy, there was a 13% to 21% decrease in median index from baseline in patients treated with IFN, consistent with increased symptoms of IFN toxicity.
 There was no apparent change from baseline in median index for patients treated with imatinib mesylate tablets.
 

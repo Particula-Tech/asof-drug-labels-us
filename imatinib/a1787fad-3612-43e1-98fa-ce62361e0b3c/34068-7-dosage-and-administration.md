@@ -73,7 +73,7 @@ The optimal treatment duration with imatinib mesylate tablets is not known.
 
 ## 2.12 Dose Modification Guidelines
 
-Concomitant Strong CYP3A4 Inducers: The use of concomitant strong CYP3A4 inducers should be avoided (e.g., dexamethasone, phenytoin, carbamazepine, rifampin, rifabutin, rifampacin, phenobarbital).
+Concomitant Strong CYP3A4 inducers: The use of concomitant strong CYP3A4 inducers should be avoided (e.g., dexamethasone, phenytoin, carbamazepine, rifampin, rifabutin, rifampacin, phenobarbital).
 If patients must be coadministered a strong CYP3A4 inducer, based on pharmacokinetic studies, the dosage of imatinib mesylate tablets should be increased by at least 50%, and clinical response should be carefully monitored [see Drug Interactions (7.1)].
 
 Hepatic Impairment: Patients with mild and moderate hepatic impairment do not require a dose adjustment and should be treated per the recommended dose.
