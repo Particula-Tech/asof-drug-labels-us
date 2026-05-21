@@ -12,9 +12,6 @@ Macitentan was not genotoxic in a standard battery of in vitro and in vivo assay
 
 Impairment of Fertility
 
-Treatment of juvenile rats from postnatal Day 4 to Day 114 led to reduced body weight gain and testicular tubular atrophy at exposures 7-fold the human exposure.
-Fertility was not affected.
-
 Reversible testicular tubular dilatation was observed in chronic toxicity studies at exposures greater than 7-fold and 23-fold the human exposure in rats and dogs, respectively.
 After 2 years of treatment, tubular atrophy was seen in rats at 4-fold the human exposure.
 Macitentan did not affect male or female fertility at exposures ranging from 19 to 44-fold the human exposure, respectively, and had no effect on sperm count, motility, and morphology in male rats.

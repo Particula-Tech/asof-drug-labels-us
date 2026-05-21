@@ -3,15 +3,15 @@
 Clinically significant adverse reactions that appear in other sections of the labeling include:
 
 - Embryo-fetal Toxicity [see Warnings and Precautions (5.1)]
-- Hepatotoxicity [see Warnings and Precautions (5.3)]
-- Fluid Retention [see Warnings and Precautions (5.4)]
-- Decrease in Hemoglobin [see Warnings and Precautions (5.5)]
+- Hepatotoxicity [see Warnings and Precautions (5.2)]
+- Fluid Retention [see Warnings and Precautions (5.3)]
+- Decrease in Hemoglobin [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Safety data for macitentan were obtained primarily from one placebo-controlled clinical study in 742 patients with PAH (SERAPHIN study) [see Clinical Studies (14)].
+Safety data for macitentan were obtained primarily from one placebo-controlled clinical study in 742 patients with PAH (SERAPHIN study) [see Clinical Studies (14.1)].
 The exposure to macitentan in this trial was up to 3.6 years with a median exposure of about 2 years (N=542 for 1 year; N=429 for 2 years; and N=98 for more than 3 years).
 The overall incidence of treatment discontinuations because of adverse events was similar across macitentan 10 mg and placebo treatment groups (approximately 11%).
 
@@ -37,12 +37,14 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Immune system disorders: hypersensitivity reactions (angioedema, pruritus and rash)
 
+Vascular disorders: flushing
+
 Respiratory, thoracic and mediastinal disorders: nasal congestion
 
 Gastrointestinal disorders: Elevations of liver aminotransferases (ALT, AST) and liver injury have been reported with macitentan use; in most cases alternative causes could be identified (heart failure, hepatic congestion, autoimmune hepatitis).
-Endothelin receptor antagonists have been associated with elevations of aminotransferases, hepatotoxicity, and cases of liver failure [see Warnings and Precautions (5.3)].
+Endothelin receptor antagonists have been associated with elevations of aminotransferases, hepatotoxicity, and cases of liver failure [see Warnings and Precautions (5.2)].
 
 General disorders and administration site conditions: edema/fluid retention.
-Cases of edema and fluid retention occurred within weeks of starting macitentan, some requiring intervention with a diuretic, fluid management or hospitalization for decompensated heart failure [see Warnings and Precautions (5.4)].
+Cases of edema and fluid retention occurred within weeks of starting macitentan, some requiring intervention with a diuretic, fluid management or hospitalization for decompensated heart failure [see Warnings and Precautions (5.3)].
 
 Cardiac disorders: symptomatic hypotension

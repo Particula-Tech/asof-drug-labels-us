@@ -2,27 +2,14 @@
 
 ## 5.1 Embryo-fetal Toxicity
 
-Macitentan may cause fetal harm when administered during pregnancy and is contraindicated for use in females who are pregnant.
-In females of reproductive potential, exclude pregnancy prior to initiation of therapy, ensure use of acceptable contraceptive methods and obtain monthly pregnancy tests [see Dosage and Administration (2.2) and Use in Specific Populations (8.1,8.3)].
+Based on data from animal reproduction studies, macitentan may cause fetal harm when administered to a pregnant patient and is contraindicated during pregnancy.
+The available human data for ERAs do not establish the presence or absence of major birth defects related to the use of macitentan.
+Advise patients who can become pregnant of the potential risk to a fetus.
+Obtain a pregnancy test prior to initiation of therapy with macitentan.
+Advise patients who can become pregnant to use effective contraceptive methods prior to initiation of treatment, during treatment, and for one month after discontinuation of treatment with macitentan.
+When pregnancy is detected, discontinue use as soon as possible [see Dosage and Administration (2.2), Contraindications (4.1), and Use in Specific Populations (8.1, 8.3)].
 
-Macitentan is available for females through the Macitentan REMS Program, a restricted distribution program [see Warnings and Precautions (5.2)].
-
-## 5.2 Macitentan REMS Program
-
-For all females, macitentan is available only through a restricted program called the Macitentan REMS Program, because of the risk of embryo-fetal toxicity [see Contraindications (4.1), Warnings and Precautions (5.1), and Use in Specific Populations (8.1, 8.3)].
-
-Notable requirements of the Macitentan REMS Program include the following:
-
-- Prescribers must be certified with the program by enrolling and completing training.
-- All females, regardless of reproductive potential, must enroll in the Macitentan REMS Program prior to initiating macitentan.
-  Male patients are not enrolled in the REMS.
-- Females of reproductive potential must comply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.3)].
-- Pharmacies must be certified with the program and must only dispense to patients who are authorized to receive macitentan.
-
-Further information is available at MedicalAffairs@zydususa.com or Tel.: 1-877-993-8779.
-Information on macitentan certified pharmacies or wholesale distributors are available through Zydus Pharmaceuticals (USA) Inc. at 1-877-993-8779.
-
-## 5.3 Hepatotoxicity
+## 5.2 Hepatotoxicity
 
 ERAs have caused elevations of aminotransferases, hepatotoxicity, and liver failure.
 The incidence of elevated aminotransferases in the study of macitentan in PAH is shown in Table 1.
@@ -43,7 +30,7 @@ Advise patients to report symptoms suggesting hepatic injury (nausea, vomiting, 
 If clinically relevant aminotransferase elevations occur, or if elevations are accompanied by an increase in bilirubin > 2 x ULN, or by clinical symptoms of hepatotoxicity, discontinue macitentan.
 Consider re initiation of macitentan when hepatic enzyme levels normalize in patients who have not experienced clinical symptoms of hepatotoxicity.
 
-## 5.4 Fluid Retention
+## 5.3 Fluid Retention
 
 Peripheral edema and fluid retention are known clinical consequences of PAH and known effects of ERAs.
 In the placebo-controlled study of macitentan in PAH, the incidence of edema was 21.9% in the macitentan 10 mg group and 20.5% in the placebo group.
@@ -55,7 +42,7 @@ Postmarketing cases of edema and fluid retention occurring within weeks of start
 Monitor for signs of fluid retention after macitentan initiation.
 If clinically significant fluid retention develops, evaluate the patient to determine the cause, such as macitentan or underlying heart failure, and the possible need to discontinue macitentan.
 
-## 5.5 Hemoglobin Decrease
+## 5.4 Hemoglobin Decrease
 
 Decreases in hemoglobin concentration and hematocrit have occurred following administration of other ERAs and were observed in clinical studies with macitentan.
 These decreases occurred early and stabilized thereafter.
@@ -65,12 +52,12 @@ Decreases in hemoglobin seldom require transfusion.
 Initiation of macitentan is not recommended in patients with severe anemia.
 Measure hemoglobin prior to initiation of treatment and repeat during treatment as clinically indicated [see Adverse Reactions (6.1)].
 
-## 5.6 Pulmonary Edema with Pulmonary Veno-occlusive Disease (PVOD)
+## 5.5 Pulmonary Edema with Pulmonary Veno-occlusive Disease (PVOD)
 
 Should signs of pulmonary edema occur, consider the possibility of associated PVOD.
 If confirmed, discontinue macitentan.
 
-## 5.7 Decreased Sperm Counts
+## 5.6 Decreased Sperm Counts
 
 Macitentan, like other ERAs, may have an adverse effect on spermatogenesis.
 Counsel men about potential effects on fertility [see Use in Specific Populations (8.3) and Nonclinical Toxicology (13.1)].
