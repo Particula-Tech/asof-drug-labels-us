@@ -5,10 +5,10 @@
 In a 39-week toxicology study in monkeys, tofacitinib at exposure levels approximately 6 times the recommended dose of 5 mg twice daily, and approximately 3 times the 10 mg twice daily dose (on an AUC basis at oral doses of 5 mg/kg twice daily) produced lymphomas.
 No lymphomas were observed in this study at exposure levels 1 times the recommended dose of 5 mg twice daily, and approximately 0.5 times the 10 mg twice daily dose (on an AUC basis at oral doses of 1 mg/kg twice daily).
 
-The carcinogenic potential of tofacitinib was assessed in 6 month rasH2 transgenic mouse carcinogenicity and 2 year rat carcinogenicity studies.
+The carcinogenic potential of tofacitinib was assessed in 6-month rasH2 transgenic mouse carcinogenicity and 2-year rat carcinogenicity studies.
 Tofacitinib, at exposure levels approximately 34 times the recommended dose of 5 mg twice daily, and approximately 17 times the 10 mg twice daily dose (on an AUC basis at oral doses of 200 mg/kg/day) was not carcinogenic in mice.
 
-In the 24 month oral carcinogenicity study in Sprague-Dawley rats, tofacitinib caused benign Leydig cell tumors, hibernomas (malignancy of brown adipose tissue), and benign thymomas at doses greater than or equal to 30 mg/kg/day (approximately 42 times the exposure levels at the recommended dose of 5 mg twice daily, and approximately 21 times the 10 mg twice daily dose on an AUC basis).
+In the 24-month oral carcinogenicity study in Sprague-Dawley rats, tofacitinib caused benign Leydig cell tumors, hibernomas (malignancy of brown adipose tissue), and benign thymomas at doses greater than or equal to 30 mg/kg/day (approximately 42 times the exposure levels at the recommended dose of 5 mg twice daily, and approximately 21 times the 10 mg twice daily dose on an AUC basis).
 The relevance of benign Leydig cell tumors to human risk is not known.
 
 Tofacitinib was not mutagenic in the bacterial reverse mutation assay.
