@@ -6,7 +6,8 @@ Dosing Instructions
 
 - Advise patients to swallow CREXONT whole, without chewing, dividing, or crushing [see Dosage and Administration (2.5)].
 
-- CREXONT should not be taken with alcohol [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+- For patients with difficulty swallowing, inform them that the entire contents of CREXONT may be sprinkled on 1 to 2 tablespoons of applesauce and should be swallowed immediately without chewing [see Dosage and Administration (2.4)].
+- Instruct patients that CREXONT should not be taken with alcohol [see Dosage and Administration (2.4) andClinical Pharmacology (12.3)].
 
 - Inform patients that a high fat, high calorie meal may delay the absorption of levodopa and the onset of action by 2 to 5 hours.
   For this reason, consideration should be given to taking the first dose of the day about 1 to 2 hours before eating.
@@ -61,4 +62,4 @@ Amneal Specialty, a division of Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-03-2026-03
+05-2026-04

@@ -50,14 +50,14 @@ Effect of Food
 
 Carbidopa
 
-In healthy adults, oral administration of CREXONT after a high-fat, high-calorie meal decreased both Cmax and AUC by approximately 64% for carbidopa compared to administration in the fasted state.
-The peak plasma concentrations of carbidopa were observed approximately one hour later when CREXONT is taken with a high-fat high-calorie meal.
+In healthy adults, oral administration of CREXONT following a high-fat, high-calorie meal decreased carbidopa Cmax and AUC by approximately 64% and delayed carbidopa Tmax by approximately one hour compared to administration in the fasted state.
+Oral administration of CREXONT by sprinkling the capsule contents on applesauce decreased carbidopa Cmax and AUC by approximately 13% and 9%, respectively, compared to the intact capsule administered in the fasted state [see Dosage and Administration (2.4)].
 
 Levodopa
 
-In healthy adults, oral administration of CREXONT after a high-fat, high-calorie meal increased Cmax approximately 19% and AUC0-∞ approximately 18% for levodopa compared to administration in the fasted state [see Dosage and Administration (2.4)].
-The peak plasma concentrations of levodopa were observed approximately two hours later when CREXONT is taken with a high-fat, high-calorie meal.
-In addition, absorption of levodopa may be decreased by a high protein meal.
+In healthy adults, oral administration of CREXONT following a high-fat, high-calorie meal increased levodopa Cmax and AUC by approximately 19% and 18%,, respectively, and delayed levodopa Tmax by approximately two hours compared to administration in the fasted state [see Dosage and Administration (2.4)].
+High protein meals may decrease the absorption of levodopa.
+Oral administration of CREXONT by sprinkling the capsule contents on applesauce did not significantly affect levodopa concentration time profiles compared to the intact capsule administered in the fasted state.
 
 Distribution
 

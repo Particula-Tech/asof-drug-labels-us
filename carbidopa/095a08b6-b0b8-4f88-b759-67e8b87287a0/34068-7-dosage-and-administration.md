@@ -54,6 +54,9 @@ CREXONT should not be taken with alcohol.
 A high-fat, high-calorie meal may delay the absorption of levodopa to reach the peak plasma concentration by about 2 hours [see Clinical Pharmacology (12.3)].
 
 Do not chew, divide, or crush CREXONT capsules.
+For patients who have difficulty swallowing intact capsules, administer CREXONT by carefully opening the capsule and sprinkling the entire contents on a small amount of applesauce (1 to 2 tablespoons).
+Swallow the mixture immediately without chewing.
+Do not save or store the drug/food mixture for future use [see Clinical Pharmacology (12.3)].
 
 ## 2.6 Discontinuation of CREXONT
 
