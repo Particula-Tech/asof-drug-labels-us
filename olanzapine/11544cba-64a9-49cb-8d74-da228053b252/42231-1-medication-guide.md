@@ -17,12 +17,12 @@ Before you receive ZYPREXA RELPREVV treatment you must:
 
 - understand the risks and benefits of ZYPREXA RELPREVV treatment.
   Your doctor will talk to you about the risks and benefits of ZYPREXA RELPREVV treatment.
-- register in the ZYPREXA RELPREVV Patient Care Program.
-  You must agree to the rules of the ZYPREXA RELPREVV Patient Care Program before you register.
+- register in the ZYPREXA RELPREVV REMS.
+  You must agree to the rules of the ZYPREXA RELPREVV REMS before you register.
 
 ZYPREXA RELPREVV may cause serious side effects, including:
 
-1. Post-injection Delirium Sedation Syndrome (PDSS).
+1. Post-injection Delirium/Sedation Syndrome (PDSS).
 2. Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
 3. High blood sugar (hyperglycemia).
 4. High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17.
@@ -201,11 +201,10 @@ Inactive ingredients: carboxymethylcellulose sodium, mannitol, polysorbate 80, s
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised October, 2023
+Medication Guide revised January, 2026
 
 Distributed by: H2-Pharma, LLC Montgomery, AL 36117, USA
 
-Licensed by: CHEPLAPHARM Registration GmbH Weilerstr.
-5e, 79540 Lörrach, Germany
+Licensed by: CHEPLAPHARM Registration GmbH Weiler Straße 5e, 79540 Lörrach, Germany
 
 CHEPLAPHARM Registration GmbH under the license of CHEPLAPHARM Schweiz GmbH

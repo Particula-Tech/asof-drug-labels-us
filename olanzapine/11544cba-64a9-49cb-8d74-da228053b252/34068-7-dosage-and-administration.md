@@ -33,8 +33,8 @@ ZYPREXA RELPREVV doses greater than 405 mg every 4 weeks or 300 mg every 2 weeks
 
 Post-Injection Delirium/Sedation Syndrome — During premarketing clinical studies, adverse events that presented with signs and symptoms consistent with olanzapine overdose, in particular, sedation (including coma) and/or delirium, were reported in patients following an injection of ZYPREXA RELPREVV [see Boxed Warning, Warnings and Precautions (5.1), and Overdosage (10.1)].
 Patients should be informed of this risk and how to recognize related symptoms [see Patient Counseling Information (17)].
-ZYPREXA RELPREVV must be administered in a registered healthcare facility with ready access to emergency response services.
-After each ZYPREXA RELPREVV injection, a healthcare professional must continuously observe the patient at the healthcare facility for at least 3 hours for symptoms consistent with olanzapine overdose, including sedation (ranging from mild in severity to coma) and/or delirium (including confusion, disorientation, agitation, anxiety, and other cognitive impairment).
+ZYPREXA RELPREVV must be administered in a certified healthcare setting with ready access to emergency response services.
+After each ZYPREXA RELPREVV injection, a healthcare professional must continuously observe the patient at the healthcare setting for at least 3 hours for symptoms consistent with olanzapine overdose, including sedation (ranging from mild in severity to coma) and/or delirium (including confusion, disorientation, agitation, anxiety, and other cognitive impairment).
 Other symptoms noted include extrapyramidal symptoms, dysarthria, ataxia, aggression, dizziness, weakness, hypertension, and convulsion.
 The potential for onset of an event is greatest within the first hour.
 The majority of cases have occurred within the first 3 hours after injection; however, the event has occurred after 3 hours.

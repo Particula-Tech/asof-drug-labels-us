@@ -2,7 +2,7 @@
 
 ZYPREXA RELPREVV is available only through a restricted distribution program [see Warnings and Precautions (5.2)].
 ZYPREXA RELPREVV must not be dispensed directly to a patient.
-For a patient to receive treatment, the prescriber, healthcare facility, patient, and pharmacy must all be enrolled in the ZYPREXA RELPREVV Patient Care Program.
+For a patient to receive treatment, the prescriber, healthcare setting, patient, and pharmacy must all be enrolled in the ZYPREXA RELPREVV REMS.
 To enroll, call 1-877-772-9390.
 
 ## 1.1 Schizophrenia

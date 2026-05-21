@@ -8,9 +8,9 @@ Patients should be advised to call their doctor if they do not think they are ge
 Post-Injection Delirium/Sedation Syndrome
 
 During premarketing clinical studies, reactions that presented with signs and symptoms consistent with olanzapine overdose have been reported in patients following an injection of ZYPREXA RELPREVV.
-It is mandatory that patients be enrolled in the ZYPREXA RELPREVV Patient Care Program to receive ZYPREXA RELPREVV treatment.
+It is mandatory that patients be enrolled in the ZYPREXA RELPREVV REMS to receive ZYPREXA RELPREVV treatment.
 Patients should be advised of the risk of post-injection delirium/sedation syndrome each time they receive an injection [see Warnings and Precautions (5.1, 5.2)].
-Patient and caregivers should be advised that after each ZYPREXA RELPREVV injection, patients must be observed at the healthcare facility for at least 3 hours and must be accompanied to their destination upon leaving the facility.
+Patient and caregivers should be advised that after each ZYPREXA RELPREVV injection, patients must be observed at the healthcare setting for at least 3 hours and must be accompanied to their destination upon leaving the facility.
 The Medication Guide should be distributed each time patients receive an injection.
 
 Elderly Patients with Dementia-Related Psychosis: Increased Mortality and Cerebrovascular Adverse Events (CVAE), Including Stroke

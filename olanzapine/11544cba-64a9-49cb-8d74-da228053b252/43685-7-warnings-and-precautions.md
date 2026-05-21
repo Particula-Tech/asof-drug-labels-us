@@ -14,15 +14,15 @@ The risk of an event is the same at each injection, so the risk per patient is c
 
 Healthcare professionals are advised to discuss this potential risk with patients each time they prescribe and administer ZYPREXA RELPREVV [see Patient Counseling Information (17)].
 
-## 5.2 Prescribing and Distribution Program for ZYPREXA RELPREVV
+## 5.2 ZYPREXA RELPREVV REMS
 
-ZYPREXA RELPREVV is available only through a restricted distribution program [see Boxed Warning, Indications and Usage (1), and Patient Counseling Information (17)].
+ZYPREXA RELPREVV is available only through a restricted distribution program called ZYPREXA RELPREVV REMS because of the risks of Post-Injection Delirium/Sedation Syndrome [see Boxed Warning, Indications and Usage (1), and Patient Counseling Information (17)].
 ZYPREXA RELPREVV must not be dispensed directly to a patient.
-For a patient to receive treatment, the prescriber, healthcare facility, patient, and pharmacy must all be enrolled in the ZYPREXA RELPREVV Patient Care Program.
+For a patient to receive treatment, the prescriber, healthcare setting, patient, and pharmacy must all be enrolled in the ZYPREXA RELPREVV REMS.
 To enroll, call 1-877-772-9390.
 
-ZYPREXA RELPREVV must be administered in a registered healthcare facility (such as a hospital, clinic, residential treatment center, or community healthcare center) with ready access to emergency response services.
-After each ZYPREXA RELPREVV injection, a healthcare professional must continuously observe the patient at the healthcare facility for at least 3 hours and must confirm that the patient is alert, oriented, and absent of any signs and symptoms of post-injection delirium/sedation syndrome prior to being released.
+ZYPREXA RELPREVV must be administered in a certified healthcare setting (such as a hospital, clinic, residential treatment center, or community healthcare center) with ready access to emergency response services.
+After each ZYPREXA RELPREVV injection, a healthcare professional must continuously observe the patient at the healthcare setting for at least 3 hours and must confirm that the patient is alert, oriented, and absent of any signs and symptoms of post-injection delirium/sedation syndrome prior to being released.
 All patients must be accompanied to their destination upon leaving the facility.
 For the remainder of the day of each injection, patients should not drive or operate heavy machinery, and should be advised to be vigilant for symptoms of post-injection delirium/sedation syndrome and be able to obtain medical assistance if needed.
 If post-injection delirium/sedation syndrome is suspected, close medical supervision and monitoring should be instituted in a facility capable of resuscitation [see Overdosage (10)].
@@ -120,7 +120,7 @@ In analyses of patients who completed 9-12 months of olanzapine therapy, mean ch
 
 Olanzapine Monotherapy in Adolescents — The safety and efficacy of ZYPREXA RELPREVV have not been established in patients under the age of 18 years.
 
-In an analysis of 3 placebo-controlled oral olanzapine monotherapy studies of adolescent patients (13-17 years), including those with schizophrenia (6 weeks) or bipolar I disorder (manic or mixed episodes) (3 weeks), olanzapine was associated with a greater mean change from baseline in fasting glucose levels compared to placebo (2.68 mg/dL versus -2.59 mg/dL).
+In an analysis of 3 placebo-controlled oral olanzapine monotherapy studies of adolescent patients (13-17 years), including those with schizophrenia (6 weeks) or bipolar I disorder (manic or mixed episodes) (3 weeks), olanzapine was associated with a greater mean change from baseline in fasting glucose levels compared to placebo (2.68 mg/dL versus 2.59 mg/dL).
 The mean change in fasting glucose for adolescents exposed at least 24 weeks was 3.1 mg/dL (N=121).
 Table 3 shows short-term and long-term changes in fasting blood glucose from adolescent oral olanzapine monotherapy studies.
 

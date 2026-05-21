@@ -1,9 +1,9 @@
 # WARNING: POST-INJECTION DELIRIUM/SEDATION SYNDROME and INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS
 
 Post-Injection Delirium/Sedation Syndrome— Adverse events with signs and symptoms consistent with olanzapine overdose, in particular, sedation (including coma) and/or delirium, have been reported following injections of ZYPREXA RELPREVV.
-ZYPREXA RELPREVV must be administered in a registered healthcare facility with ready access to emergency response services.
-After each injection, patients must be observed at the healthcare facility by a healthcare professional for at least 3 hours.
-Because of this risk, ZYPREXA RELPREVV is available only through a restricted distribution program called ZYPREXA RELPREVV Patient Care Program and requires prescriber, healthcare facility, patient, and pharmacy enrollment[see Dosage and Administration (2.1), Warnings and Precautions (5.1, 5.2), Overdosage (10.2), and Patient Counseling Information (17)].
+ZYPREXA RELPREVV must be administered in a certified healthcare setting with ready access to emergency response services.
+After each injection, patients must be observed at the healthcare setting by a healthcare professional for at least 3 hours.
+Because of this risk, ZYPREXA RELPREVV is available only through a restricted distribution program called ZYPREXA RELPREVV REMS and requires prescriber, healthcare setting, patient, and pharmacy enrollment[see Dosage and Administration (2.1), Warnings and Precautions (5.1, 5.2), Overdosage (10.2), and Patient Counseling Information (17)].
 
 Increased Mortality in Elderly Patients with Dementia-Related Psychosis— Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Analyses of seventeen placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.
