@@ -73,8 +73,7 @@ In the trial comparing semaglutide 1 mg and 2 mg, the mean steady state concentr
 
 Distribution
 
-The mean apparent volume of distribution of semaglutide following subcutaneous administration in patients with type 2 diabetes is approximately 12.5L.
-Semaglutide is extensively bound to plasma albumin (>99%).
+The mean apparent volume of distribution of semaglutide following subcutaneous administration in patients with type 2 diabetes is approximately 12.5 L. Semaglutide is extensively bound to plasma albumin (>99%).
 
 Elimination
 
@@ -99,6 +98,12 @@ The effects of intrinsic factors on the pharmacokinetics of semaglutide are show
 
 Figure 3.
 Impact of Intrinsic Factors on Semaglutide Exposure
+
+Semaglutide exposure (Cavg) relative to reference subject profile: non-Hispanic/non-Latino, White, female below 65 years, body weight 85 kg, with normal renal function.
+Population PK model also included maintenance dose and injection site as covariates.
+Body weight test categories (55 and 127 kg) represent the 5% and 95% percentiles in the dataset.
+Abbreviations: Cavg: average semaglutide concentration.
+CI: Confidence interval.
 
 Patients with Renal impairment - Renal impairment does not impact the pharmacokinetics of semaglutide in a clinically relevant manner.
 This was shown in a study with a single dose of 0.5 mg semaglutide in patients with different degrees of renal impairment (mild, moderate, severe, or kidney failure) compared with subjects with normal renal function.

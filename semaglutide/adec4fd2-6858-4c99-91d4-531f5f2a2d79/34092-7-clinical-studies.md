@@ -180,12 +180,12 @@ Results at Week 40 in a Trial of OZEMPIC 2 mg Compared to OZEMPIC 1 mg in Adult 
 | Baseline (mean) | 196 | 193 |
 | Change at week 40b | -55 | -59 |
 
-1. aThe intent-to-treat population includes all randomized subjects.
+1. a The intent-to-treat population includes all randomized subjects.
    At week 40 the primary HbA1c endpoint was missing for 3% and 5% of patients randomized to OZEMPIC 1 mg and OZEMPIC 2 mg, respectively.
    Missing data were imputed using multiple imputation based on retrieved dropouts.
    For calculation of proportions, imputed values are dichotomized and the denominator is the number of all randomized subjects.
 2. b Intent-to-treat analysis using ANCOVA adjusted for baseline value and stratification factor.
-3. c p<0.01 (2-sided) for superiority, adjusted for multiplicity.
+3. cp<0.01 (2-sided) for superiority, adjusted for multiplicity.
 
 The mean baseline body weight was 98.6 kg and 100.1 kg in the OZEMPIC 1 mg and OZEMPIC 2 mg arms, respectively.
 The mean changes from baseline to week 40 were -5.6 kg and -6.4 kg in the OZEMPIC 1 mg and OZEMPIC 2 mg arms, respectively.
@@ -220,7 +220,7 @@ Results at Week 30 in a Trial of OZEMPIC in Adult Patients with Type 2 Diabetes 
    At week 30 the primary HbA1c endpoint was missing for 7%, 5% and 5% of patients and during the trial rescue medication was initiated by 14%, 2% and 1% of patients randomized to placebo, OZEMPIC 0.5 mg and OZEMPIC 1 mg, respectively.
    Missing data were imputed using multiple imputation based on retrieved dropouts.
 2. b Intent-to-treat analysis using ANCOVA adjusted for baseline value, country and stratification factors.
-3. c p<0.0001 (2-sided) for superiority, adjusted for multiplicity.
+3. cp<0.0001 (2-sided) for superiority, adjusted for multiplicity.
 
 The mean baseline body weight was 89.9 kg, 92.7 kg, and 92.5 kg in the placebo, OZEMPIC 0.5 mg, and OZEMPIC 1 mg arms, respectively.
 The mean changes from baseline to week 30 were -1.2 kg, -3.5 kg, and -6 kg in the placebo, OZEMPIC 0.5 mg, and OZEMPIC 1 mg arms, respectively.
@@ -233,7 +233,7 @@ In this trial, 3,297 patients with inadequately controlled type 2 diabetes and a
 The trial compared the risk of Major Adverse Cardiovascular Event (MACE) between semaglutide and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and cardiovascular disease.
 The primary endpoint, MACE, was the time to first occurrence of a three-part composite outcome which included cardiovascular death, non-fatal myocardial infarction and non-fatal stroke.
 
-Patients eligible to enter the trial were; 50 years of age or older and had established, stable, cardiovascular, cerebrovascular, peripheral artery disease, chronic kidney disease or NYHA class II and III heart failure or were 60 years of age or older and had other specified risk factors for cardiovascular disease.
+Patients eligible to enter the trial were 50 years of age or older and had established, stable, cardiovascular, cerebrovascular, peripheral artery disease, chronic kidney disease or NYHA class II and III heart failure or were 60 years of age or older and had other specified risk factors for cardiovascular disease.
 In total, 1,940 patients (58.8%) had established cardiovascular disease without chronic kidney disease, 353 (10.7%) had chronic kidney disease only, and 442 (13.4%) had both cardiovascular disease and kidney disease; 562 patients (17%) had cardiovascular risk factors without established cardiovascular disease or chronic kidney disease.
 In the trial 453 patients (13.7%) had peripheral artery disease.
 The mean age at baseline was 65 years, and 61% were men.
@@ -247,9 +247,7 @@ The statistical analysis plan pre specified that the 0.5 mg and 1 mg doses would
 Type-1 error was controlled across multiple tests using a hierarchical testing strategy.
 
 OZEMPIC significantly reduced the occurrence of MACE.
-The estimated hazard ratio for time to first MACE
-
-was 0.74 (95% CI: 0.58, 0.95).
+The estimated hazard ratio for time to first MACE was 0.74 (95% CI: 0.58, 0.95).
 Refer to Figure 6 and Table 9.
 
 Figure 6.
@@ -273,7 +271,7 @@ a Cox-proportional hazards models with treatment as factor and stratified by evi
 
 ## 14.3 Kidney Outcomes Trial of OZEMPIC in Adults with Type 2 Diabetes Mellitus and Chronic Kidney Disease
 
-FLOW (NCT03819153) was a randomized, double-blind, placebo-controlled, event driven trial in adults with type 2 diabetes mellitus and chronic kidney disease (eGFR 25 to 75 mL/min/1.73 m2 with urine albumin-to- creatinine ratio [UACR] >100 mg/g and <5000 mg/g).
+FLOW (NCT03819153) was a randomized, double-blind, placebo-controlled, event driven trial in adults with type 2 diabetes mellitus and chronic kidney disease (eGFR 25 to 75 mL/min/1.73m2 with urine albumin-to- creatinine ratio [UACR] >100 mg/g and <5000 mg/g).
 All patients needed to have an HbA1c ≤10% at screening and be receiving standard of care background therapy, including a maximum tolerated labeled dose of a renin- angiotensin-aldosterone system (RAAS) blocking agent including an angiotensin converting enzyme (ACE) inhibitor or an angiotensin II receptor blocker (ARB), unless such treatment was contraindicated or not tolerated.
 The trial excluded patients with congenital or hereditary kidney diseases including polycystic kidney disease, autoimmune kidney diseases including glomerulonephritis or congenital urinary tract malformations.
 
@@ -284,7 +282,7 @@ At baseline, the mean eGFR was 47 mL/min/1.73m2, with 11% of patients having an 
 Median baseline UACR was 568 mg/g with 69% of patients with a UACR >300 mg/g.
 At baseline, 95% of patients were treated with an ACE inhibitor or ARB, 16% were on sodium-glucose cotransporter 2 (SGLT2) inhibitors, 76% were on a statin, and 50% were on an antiplatelet agent.
 
-OZEMPIC was superior to placebo in reducing the incidence of the primary composite endpoint of a sustained decline in eGFR of ≥50%, sustained eGFR <15 mL/min/1.73 m2, chronic renal replacement therapy, renal death, CV death (HR 0.76 [95% CI 0.66, 0.88], p=0.0003) as shown in Table 10 and Figure 7.
+OZEMPIC was superior to placebo in reducing the incidence of the primary composite endpoint of a sustained decline in eGFR of ≥50%, sustained eGFR <15 mL/min/1.73m2, chronic renal replacement therapy, renal death, CV death (HR 0.76 [95% CI 0.66, 0.88], p=0.0003) as shown in Table 10 and Figure 7.
 The treatment effect reflected a reduction in a sustained decline in eGFR of ≥50%, progression to kidney failure and CV death.
 There were few renal deaths during the trial.
 
@@ -295,12 +293,12 @@ The treatment benefit on the primary composite endpoint was not evident in patie
 
 Table 10: Analyses of the Primary and Secondary Endpoints and their Individual Components in FLOW Trial
 
-|  | Placebo N=1766 (%) | OZEMPIC 1 mg N=1767 (%) | Hazard ratio vs placebo (95% CI)1 | p-value2 |
+|  | Placebo N=1766 (%) | OZEMPIC 1 mg N=1767 (%) | Hazard Ratio vs Placebo (95% CI)1 | p-value2 |
 | --- | --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |  |
-| Composite Endpoint (≥50% sustained eGFR decline, sustained eGFR < 15 mL/min/1.73 m2, chronic renal replacement therapy, or renal or cardiovascular death (time to first occurrence)3 | 410 (23.2) | 331 (18.7) | 0.76 (0.66, 0.88) | 0.0003 |
+| Composite Endpoint (≥50% sustained eGFR decline, sustained eGFR <15 mL/min/1.73m2, chronic renal replacement therapy, or renal or cardiovascular death (time to first occurrence)3 | 410 (23.2) | 331 (18.7) | 0.76 (0.66, 0.88) | 0.0003 |
 | ≥50% sustained eGFR decline3 | 213 (12.1) | 165 (9.3) | 0.73 (0.59, 0.89) |  |
-| Sustained eGFR <15mL/min/1.73 m2 3 | 110 (6.2) | 92 (5.2) | 0.8 (0.61, 1.06) |  |
+| Sustained eGFR <15mL/min/1.73m2 3 | 110 (6.2) | 92 (5.2) | 0.8 (0.61, 1.06) |  |
 | Chronic renal replacement therapy | 100 (5.7) | 87 (4.9) | 0.84 (0.63, 1.12) |  |
 | Renal death | 5 (0.3) | 5 (0.3) | 0.97 (0.27, 3.49) |  |
 | Cardiovascular death | 169 (9.6) | 123 (7) | 0.71 (0.56, 0.89) |  |

@@ -46,7 +46,7 @@ These adverse reactions occurred more commonly on OZEMPIC than on placebo and oc
 Table 1.
 Adverse Reactions in Placebo-Controlled Trials Reported in ≥5% of OZEMPIC-Treated Patients with Type 2 Diabetes Mellitus
 
-| Adverse Reaction | Placebo(N=262)% | OZEMPIC 0.5 mg(N=260)% | OZEMPIC 1 mg(N=261)% |
+| Adverse Reaction | Placebo (N=262)% | OZEMPIC 0.5 mg(N=260)% | OZEMPIC 1 mg(N=261)% |
 | --- | --- | --- | --- |
 | Nausea | 6.1 | 15.8 | 20.3 |
 | Vomiting | 2.3 | 5 | 9.2 |
@@ -96,6 +96,7 @@ Hypoglycemia Adverse Reactions in Placebo-Controlled Trials in Patients with Typ
 
 Hypoglycemia was more frequent when OZEMPIC was used in combination with a sulfonylurea [see Warnings and Precautions (5.5), Clinical Studies (14)].
 Severe hypoglycemia occurred in 0.8% and 1.2% of patients when OZEMPIC 0.5 mg and 1 mg, respectively, was coadministered with a sulfonylurea.
+
 Documented symptomatic hypoglycemia occurred in 17.3% and 24.4% of patients when OZEMPIC 0.5 mg and 1 mg, respectively, was coadministered with a sulfonylurea.
 Severe or blood glucose confirmed symptomatic hypoglycemia occurred in 6.5% and 10.4% of patients when OZEMPIC 0.5 mg and 1 mg, respectively, was coadministered with a sulfonylurea.
 
@@ -131,16 +132,16 @@ Other adverse reactions with a frequency of >0.4% were associated with OZEMPIC i
 The following adverse reactions have been reported during post-approval use of semaglutide, the active ingredient of OZEMPIC.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal: ileus, intestinal obstruction, severe constipation including fecal impaction
+Gastrointestinal: acute pancreatitis and necrotizing pancreatitis, sometimes resulting in death; ileus, intestinal obstruction, severe constipation including fecal impaction
 
-Hypersensitivity: anaphylaxis, angioedema, rash, urticaria
+Hypersensitivity:anaphylaxis, angioedema, rash, urticaria
 
-Hepatobiliary: cholecystitis, cholecystectomy
+Hepatobiliary:cholecystitis, cholecystectomy
 
-Neurologic: dysesthesia, headache
+Neurologic:dysesthesia, headache
 
 Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.
 
 Renal: acute kidney injury
 
-Skin and Subcutaneous Tissue: alopecia
+Skin and Subcutaneous Tissue:alopecia

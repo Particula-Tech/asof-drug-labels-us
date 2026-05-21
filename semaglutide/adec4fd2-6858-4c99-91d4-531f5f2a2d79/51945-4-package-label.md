@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL – 0.25 mg or 0.5 mg doses, 2 mg/3mL
+# PRINCIPAL DISPLAY PANEL – 0.25 mg or 0.5 mg doses, 2 mg/3mL – Pen
 
 0.25 mg
 
@@ -24,7 +24,7 @@ Contains: 1 OZEMPIC pen, 6 NovoFine® Plus 32G needles, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# PRINCIPAL DISPLAY PANEL – 1 mg dose, 4 mg/3 mL
+# PRINCIPAL DISPLAY PANEL – 1 mg dose, 4 mg/3 mL – Pen
 
 1 mg
 
@@ -48,7 +48,7 @@ Contains: 1 OZEMPIC pen, 4 NovoFine® Plus 32G needles, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# PRINCIPAL DISPLAY PANEL – 2 mg dose, 8mg/3 mL
+# PRINCIPAL DISPLAY PANEL – 2 mg dose, 8mg/3 mL – Pen
 
 2 mg
 
@@ -72,7 +72,7 @@ Contains: 1 OZEMPIC pen, 4 NovoFine® Plus 32G needles, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 0.25 mg and 0/5 mg, 1.5 mL
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 0.25 mg and 0/5 mg, 1.5 mL – Pen
 
 0.25 mg
 
@@ -98,7 +98,7 @@ Contains: 1 OZEMPIC pen, 6 NovoFine® Plus 32G needles, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 1 mg, 1.5 mL
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 1 mg, 1.5 mL – Pen
 
 1 mg
 
@@ -121,3 +121,78 @@ Use OZEMPIC once weekly
 Contains: 2 OZEMPIC pens, 4 NovoFine® Plus 32G needles, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
+
+# Package/Label Display Panel – 0.25 mg/0.5 mL – Syringe
+
+1. NDC XXXX-XXXX-XX List XXXXXX
+2. Ozempic® 0.25 mg
+
+(semaglutide) injection
+
+0.25 mg/0.5 mL
+
+Use Ozempic 1 time a week
+
+For subcutaneous use only
+
+Each prefilled syringe delivers 0.25 mg semaglutide
+
+Rx only
+
+Dispense the enclosed Medication Guide to each patient.
+
+Dispense in this sealed carton.
+
+Contains: 4 x 0.5 mL Single-dose Prefilled Syringes
+
+Push to open
+
+# Package/Label Display Panel – 0.5 mg/0.5 mL – Syringe
+
+1. NDC XXXX-XXXX-XX List XXXXXX
+2. Ozempic® 0.5 mg
+
+(semaglutide) injection
+
+0.5 mg/0.5 mL
+
+Use Ozempic 1 time a week
+
+For subcutaneous use only
+
+Each prefilled syringe delivers 0.5 mg semaglutide
+
+Rx only
+
+Dispense the enclosed Medication Guide to each patient.
+
+Dispense in this sealed carton.
+
+Contains: 4 x 0.5 mL Single-dose Prefilled Syringes
+
+Push to open
+
+# Package/Label Display Panel – 1 mg/0.5 mL – Syringe
+
+1. NDC XXXX-XXXX-XX List XXXXXX
+2. Ozempic® 1 mg
+
+(semaglutide) injection
+
+1 mg/0.5 mL
+
+Use Ozempic 1 time a week
+
+For subcutaneous use only
+
+Each prefilled syringe delivers 1 mg semaglutide
+
+Rx only
+
+Dispense the enclosed Medication Guide to each patient.
+
+Dispense in this sealed carton.
+
+Contains: 4 x 0.5 mL Single-dose Prefilled Syringes
+
+Push to open
