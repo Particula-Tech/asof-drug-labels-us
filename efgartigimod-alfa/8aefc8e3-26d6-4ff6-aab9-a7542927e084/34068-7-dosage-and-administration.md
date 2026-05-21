@@ -11,7 +11,7 @@ Dilute VYVGART prior to administration.
 Administer via intravenous infusion only [see Dosage and Administration (2.3)].
 
 The recommended dosage of VYVGART is 10 mg/kg administered as an intravenous infusion over one hour once weekly for 4 weeks.
-In patients weighing 120 kg or more, the recommended dose of VYVGART is 1200 mg (3 vials) per infusion.
+In patients weighing 120 kg or more, the recommended dose of VYVGART is 1,200 mg (3 vials) per infusion.
 
 Administer subsequent treatment cycles based on clinical evaluation.
 
@@ -20,7 +20,7 @@ Thereafter, resume the original dosing schedule until the treatment cycle is com
 
 ## 2.3 Preparation and Administration Instructions
 
-Prior to administration, VYVGART single-dose vials require dilution in 0.9% Sodium Chloride Injection, USP, to make a total volume to be administered of 125 mL (see Preparation).
+Prior to administration, dilute VYVGART single-dose vials in 0.9% Sodium Chloride Injection to make a total volume to be administered of 125 mL (see Preparation).
 
 Check that the VYVGART solution is clear to slightly opalescent and colorless to slightly yellow.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
@@ -37,7 +37,7 @@ Preparation
   Each vial contains a total of 400 mg of VYVGART at a concentration of 20 mg per mL.
 - Gently withdraw the calculated dose of VYVGART from the vial(s) with a sterile syringe and needle.
   Discard any unused portion of the vials.
-- Dilute the withdrawn VYVGART with 0.9% Sodium Chloride Injection, USP to make a total volume of 125 mL for intravenous infusion.
+- Dilute the withdrawn VYVGART with 0.9% Sodium Chloride Injection to make a total volume of 125 mL for intravenous infusion.
 - Gently invert the infusion bag containing the diluted VYVGART without shaking to ensure thorough mixing of the product and the diluent.
 - The diluted solution can be administered using polyethylene (PE), polyvinyl chloride (PVC), ethylene vinyl acetate (EVA), or ethylene/polypropylene copolymer bags (polyolefins bags), and with PE, PVC, EVA, or polyurethane/polypropylene infusion lines.
 
@@ -58,7 +58,7 @@ Administration
 - Visually inspect VYVGART diluted solution for particles or discoloration prior to administration.
   Do not use if it is discolored, or if opaque or foreign particles are seen.
 - Infuse the total 125 mL of diluted solution intravenously over one hour via a 0.2 micron in-line filter.
-- After administration of VYVGART, flush the entire line with 0.9% Sodium Chloride Injection, USP.
+- After administration of VYVGART, flush the entire line with 0.9% Sodium Chloride Injection.
 - Monitor patients during administration and for 1 hour thereafter for clinical signs and symptoms of hypersensitivity reactions.
   If a hypersensitivity reaction occurs during administration, discontinue administration of VYVGART and institute appropriate supportive measures [see Warnings and Precautions (5.2)].
-- Other medications should not be injected into infusion side ports or mixed with VYVGART.
+- Do not inject other medications into infusion side ports or mix with VYVGART.

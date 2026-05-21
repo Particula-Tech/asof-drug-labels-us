@@ -6,9 +6,13 @@ Efgartigimod alfa-fcab is a human IgG1 antibody fragment that binds to the neona
 
 ## 12.2 Pharmacodynamics
 
-In Study 1 [see Clinical Studies (14)], the pharmacological effect of efgartigimod alfa-fcab was assessed by measuring the decrease in serum IgG levels and AChR autoantibody levels.
-In patients testing positive for AChR antibodies and who were treated with VYVGART, there was a reduction in total IgG levels relative to baseline.
-Decrease in AChR autoantibody levels followed a similar pattern.
+In Study 1 [see Clinical Studies (14)], the pharmacological effect of efgartigimod alfa-fcab was assessed by measuring the decrease in serum IgG levels and anti-AChR autoantibody levels.
+In patients testing positive for anti-AChR antibodies and who were treated with VYVGART, there was a reduction in total IgG levels relative to baseline.
+Decrease in anti-AChR autoantibody levels followed a similar pattern.
+
+In Study 2 [see Clinical Studies (14)], the pharmacological effect of efgartigimod alfa-fcab was assessed by measuring the decrease in serum IgG levels and anti-muscle-specific tyrosine kinase (MuSK) autoantibody levels.
+In patients testing negative for anti-AChR antibodies who were treated with VYVGART, there was a reduction in total IgG levels relative to baseline.
+In patients testing positive for anti-MuSK antibodies, decreases in anti-MuSK autoantibodies levels followed a similar pattern as total IgG levels.
 
 ## 12.3 Pharmacokinetics
 
@@ -54,3 +58,16 @@ Efgartigimod alfa-fcab is not metabolized by cytochrome P450 enzymes; therefore,
 Drug Interactions with Other Drugs or Biological Products
 
 Efgartigimod alfa-fcab may decrease concentrations of compounds that bind to the human FcRn [see Drug Interactions (7.1)].
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of VYVGART or of other efgartigimod products.
+
+In up to 26 weeks of treatment in Study 1, 20% (17/83) of patients developed antibodies to VYVGART.
+Seven percent (6/83) of patients developed neutralizing antibodies.
+
+In part A of Study 2, in up to 8 weeks following the initiation of a treatment period with 4 weekly administrations, 18% (10/57) of patients developed antibodies to VYVGART.
+None of the patients developed neutralizing antibodies.
+
+The available data are too limited to make definitive conclusions regarding immunogenicity and the effect on pharmacokinetics, safety, or efficacy of VYVGART.

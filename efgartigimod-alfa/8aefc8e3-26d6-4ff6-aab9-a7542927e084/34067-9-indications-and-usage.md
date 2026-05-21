@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-VYVGART is indicated for the treatment of generalized myasthenia gravis (gMG) in adult patients who are anti-acetylcholine receptor (AChR) antibody positive.
+VYVGART is indicated for the treatment of adult patients with generalized myasthenia gravis (gMG).

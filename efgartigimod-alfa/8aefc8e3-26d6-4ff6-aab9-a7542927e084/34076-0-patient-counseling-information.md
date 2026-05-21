@@ -18,4 +18,4 @@ Advise patients of the potential risk of infusion-related reactions, which can i
 Pregnancy Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to VYVGART during pregnancy.
-Encourage participation and advise patients about how they may enroll in the registry [see Use In Specific Populations (8.1)].
+Encourage participation and advise patients about how they may enroll in the registry [see Use in Specific Populations (8.1)].

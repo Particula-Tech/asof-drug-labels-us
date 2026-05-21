@@ -10,7 +10,7 @@ The following clinically significant adverse reactions are described elsewhere i
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In clinical studies, the safety of VYVGART has been evaluated in 246 patients who received at least one dose of VYVGART, including 57 patients exposed to at least 7 treatment cycles and 8 patients exposed to at least 10 treatment cycles.
+In clinical studies, the safety of VYVGART in adult patients with gMG has been evaluated in 364 patients who received at least one dose of VYVGART.
 
 In a placebo-controlled study (Study 1) in patients with gMG, 84 patients received VYVGART 10 mg/kg [see Clinical Studies (14)].
 Of these 84 patients, approximately 75% were female, 82% were White, 11% were Asian, and 8% were of Hispanic or Latino ethnicity.
@@ -33,7 +33,10 @@ Table 1: Adverse Reactions in ≥ 5% of Patients Treated with VYVGART and More F
 | ParaesthesiaParaesthesia includes oral hypoesthesia, hypoesthesia, and hyperesthesia. | 7 | 5 |
 | Myalgia | 6 | 1 |
 
-The safety of initiating subsequent cycles between 7 and 28 days from the last administration of the previous treatment cycle was assessed in 60 patients.
+In the placebo-controlled study in patients with gMG who are anti-acetylcholine receptor (AChR) antibody negative (Study 2), 119 patients received one cycle of once-weekly administrations for 4 weeks of either VYVGART 10 mg/kg (n=58) or placebo (n=61).
+The overall safety profile in Study 2 was consistent with the known safety profile of VYVGART in patients with gMG, except for nausea, which occurred in 7% of anti-AChR antibody negative patients who received VYVGART compared to 5% of patients who received placebo.
+
+The safety of initiating subsequent cycles between 7 and 28 days from the last administration of the previous treatment cycle was assessed in another study in 60 patients with gMG (78% AChR antibody positive and 22% anti-AChR antibody negative).
 Of these patients, 63% were exposed to treatment for over a year when cycles were initiated less than 4 weeks after the last administration.
 Safety in these patients was similar to that seen in Study 1.
 
@@ -43,15 +46,3 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune System Disorders: Hypersensitivity reactions including anaphylaxis and hypotension, and infusion-related reactions [see Warnings and Precautions (5.2, 5.3)].
-
-## 6.3 Immunogenicity
-
-As with all therapeutic proteins, there is potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to VYVGART in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
-
-In up to 26 weeks of treatment in Study 1, 20% (17/83) of patients developed antibodies to VYVGART.
-Seven percent (6/83) of patients developed neutralizing antibodies.
-
-Because few patients tested positive for anti-efgartigimod alfa-fcab antibodies and neutralizing antibodies, the available data are too limited to make definitive conclusions regarding immunogenicity and the effect on pharmacokinetics, safety, or efficacy of VYVGART.
