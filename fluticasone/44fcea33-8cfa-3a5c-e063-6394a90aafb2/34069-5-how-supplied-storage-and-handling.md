@@ -3,11 +3,13 @@
 XHANCE (fluticasone propionate) nasal spray is supplied as a non-removable amber glass bottle fitted with a metered-dose manual spray pump unit inside the white XHANCE device with a nasal applicator, valve mechanism, asymmetrical cone-shaped nosepiece, flexible mouthpiece, base, and orange cap in a box of 1.
 Each metered spray delivers 93 mcg of fluticasone propionate in an aqueous suspension through the cone shaped nosepiece.
 
-They are supplied as follows: 1 bottle net fill content of 16mL that, after priming, will provide 120 metered sprays (NDC 71715-003-31) with FDA approved Patient Labeling [see Instructions for Use].
+They are supplied as follows:
+
+One (1) bottle net fill content of 16 mL that, after priming, will provide 120 metered sprays (NDC 71715-003-31) with FDA approved Patient Labeling [see Instructions for Use].
 The bottle should be discarded after 120 metered sprays even though the bottle is not empty.
 Beyond 120 metered sprays, the correct amount of medication in each metered spray cannot be assured.
 
-1 bottle net fill content of 6.4mL that, after priming, will provide 28 metered sprays (NDC 71715-003-32) with FDA approved Patient Labeling [see Instructions for Use].
+One (1) bottle net fill content of 6.4 mL that, after priming, will provide 28 metered sprays (NDC 71715-003-32) with FDA approved Patient Labeling [see Instructions for Use].
 The bottle should be discarded after 28 metered sprays even though the bottle is not empty.
 Beyond 28 metered sprays, the correct amount of medication in each metered spray cannot be assured.
 

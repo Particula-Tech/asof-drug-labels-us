@@ -43,7 +43,7 @@ While Trial 4 included CRSwNP patients, efficacy results from Trials 3 and 4 are
 
 In both trials, patients were randomized 1:1:1 to receive XHANCE 186 mcg twice daily, XHANCE 372 mcg twice daily, or placebo, all administered nasally for 24 weeks.
 All patients enrolled in Trial 3 and Trial 4 had at least 2 active nasal symptoms (congestion/obstruction, discharge, facial pain or pressure, reduction or loss of smell) with a minimum nasal congestion score ≥1.5 out of 3 and a baseline CT scan showing ≥25% opacification of both ethmoid and at least 1 maxillary sinus.
-Refer to Table 4for the demographic and baseline characteristics of all randomized CRSsNP patients in Trials 3 and 4.
+Refer to Table 4 for the demographic and baseline characteristics of all randomized CRSsNP patients in Trials 3 and 4.
 
 Table 4: Demographics and Baseline Characteristics of Trials 3 & 4
 
@@ -66,7 +66,7 @@ CSS was the sum of the individual nasal symptom scores for congestion/obstructio
 Sinus opacification was measured by CT scan and scored using a 3-dimensional computer-assisted volumetric assessment using software to quantify the average percent of opacified volume in the ethmoid and maxillary sinuses.
 
 Efficacy was demonstrated for both coprimary endpoints (CSS and percent opacified sinus volume) for XHANCE 186 mcg twice daily and XHANCE 372 mcg twice daily.
-Refer to Table 5for coprimary endpoint results.
+Refer to Table 5 for coprimary endpoint results.
 Improvements demonstrated in CSS at Week 4 with either dose of XHANCE remained at Weeks 8 and 12.
 
 Table 5: LS Mean Change in Composite Symptom Scores (CSS) aat Week 4 and Percent Opacified Sinus Volume at Week 24 in Patients with CRSsNP in Trials 3 and 4
@@ -86,7 +86,7 @@ Table 5: LS Mean Change in Composite Symptom Scores (CSS) aat Week 4 and Percent
 | Results were based on all patients who received at least one dose of study drug and had baseline measurements for coprimary endpoints, and at least one post-baseline CSS on or before Week 4. aCSS range was 0 – 9. Scores were averaged over 7 days before a visit. bData presented for Trial 4 patients with CRSsNP only LS= Least Square; BID= twice daily; CI = Confidence Interval |  |  |  |  |  |
 
 Secondary efficacy endpoints included change from baseline in individual symptoms of the CSS (nasal congestion, nasal pain/pressure, and nasal discharge) at Week 4.
-Refer to Table 6for individual symptom score results.
+Refer to Table 6 for individual symptom score results.
 
 Table 6: LS Mean Change in Individual Symptom Scores aat Week 4 in Patients with CRSsNP in Trials 3 and 4
 

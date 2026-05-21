@@ -17,12 +17,12 @@ As with any long term topical treatment of the nasal cavity, patients using XHAN
 If a septal perforation is noted, discontinue XHANCE.
 Avoid spraying XHANCE directly on the septum.
 
-CandidaInfection
+Candida Infection
 
-In clinical trials with XHANCE, localized infections with Candida albicanshave been observed.
-Eight (0.9%) patients in uncontrolled, open-label trials of 3 to 12 months duration developed Candida albicansinfections (nasal, pharyngeal, esophageal or intestinal).
+In clinical trials with XHANCE, localized infections with Candida albicans have been observed.
+Eight (0.9%) patients in uncontrolled, open-label trials of 3 to 12 months duration developed Candida albicans infections (nasal, pharyngeal, esophageal or intestinal).
 If such an infection develops, it may require treatment with appropriate local therapy and discontinuation of XHANCE.
-Patients using XHANCE should be examined periodically for evidence of Candidainfection in the nasal and oropharyngeal mucosa.
+Patients using XHANCE should be examined periodically for evidence of Candida infection in the nasal and oropharyngeal mucosa.
 
 Impaired Wound Healing
 

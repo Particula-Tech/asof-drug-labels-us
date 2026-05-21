@@ -22,7 +22,7 @@ The trials included a total of 643 adult patients with bilateral nasal polyps an
 The overall pooled safety data included 296 (46.0%) Female, 347 (54.0%) Male, 584 (90.8%) White, 39 (6.1%) Black, 9 (1.4%) Asian, and 11 (1.7%) patients classified as Other.
 Of these patients, 45 (7%) were 65 years of age or older.
 
-Table 1displays adverse reactions with an incidence of ≥ 3% in the XHANCE 186 mcg and 372 mcg twice daily patients, and more common than placebo.
+Table 1 displays adverse reactions with an incidence of ≥ 3% in the XHANCE 186 mcg and 372 mcg twice daily patients, and more common than placebo.
 
 Table 1.
 Summary of Adverse Reactions with XHANCE Reported in ≥ 3% of Patients with CRSwNP and More Common Than Placebo in Placebo-Controlled Studies
