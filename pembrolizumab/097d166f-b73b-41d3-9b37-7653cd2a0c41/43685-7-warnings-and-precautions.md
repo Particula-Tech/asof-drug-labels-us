@@ -218,6 +218,8 @@ Endocrine: Hypoparathyroidism
 
 Hematologic/Immune: Hemolytic anemia, aplastic anemia, hemophagocytic lymphohistiocytosis, systemic inflammatory response syndrome, histiocytic necrotizing lymphadenitis (Kikuchi lymphadenitis), sarcoidosis, immune thrombocytopenic purpura, solid organ transplant rejection, other transplant (including corneal graft) rejection
 
+Other: Myocarditis-Myositis-Myasthenia Gravis (or Myasthenia-Like) Overlap Syndrome, reporting as the co-occurrence of either two or all three adverse reactions.
+
 ## 5.2 Hypersensitivity and Administration-Related Reactions
 
 KEYTRUDA QLEX can cause severe or life-threatening administration-related reactions, including hypersensitivity and anaphylaxis.
