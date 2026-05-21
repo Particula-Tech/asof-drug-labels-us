@@ -2,12 +2,12 @@ Rx only.
 
 Manufactured for:
 
-Endo USA
+Par Health USA
 
-Malvern, PA 19355
+Rochester, MI 48307
 
 Novaplus is a registered trademark of Vizient, Inc.
 
-© 2024 Endo, Inc. or one of its affiliates.
+© 2026 Par Health, Inc. or one of its affiliates.
 
-R08/2024
+R03/2026
