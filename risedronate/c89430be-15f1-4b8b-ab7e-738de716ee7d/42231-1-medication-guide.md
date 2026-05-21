@@ -15,7 +15,7 @@ Risedronate sodium delayed-release can cause serious side effects including:
 2. Low calcium levels in your blood (hypocalcemia)
 3. Severe jaw bone problems (osteonecrosis)
 4. Bone, joint, or muscle pain
-5. Unusual thigh bone fractures
+5. Unusual breaks in thigh and other bones
 
 1.
 Esophagus problems.
@@ -56,10 +56,11 @@ Bone, joint, or muscle pain.
 Some people who take Risedronate sodium delayed-release develop severe bone, joint, or muscle pain.
 
 5.
-Unusual thigh bone fractures.
+Unusual breaks in thigh and other bones.
 
-Some people have developed unusual fractures in their thigh bone.
-Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
+Some people have had unusual bone breaks, including the thigh bone, when taking Risedronate sodium delayed-release.
+A break in the thigh bone can feel like a new pain in your hip, groin, or thigh.
+People taking Risedronate sodium delayed-release can also have breaks in other bones.
 
 Call your doctor right away if you have any of these side effects.
 
@@ -186,7 +187,7 @@ This Medication Guide summarizes the most important information about Risedronat
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about Risedronate sodium delayed-release that is written for health professionals.
 
-For more information, go to www.greenstonellc.com or call Greenstone at 1-800-438-1985.
+For more information, call Viatris at 1-877-446-3679.
 
 What are the ingredients in Risedronate sodium delayed-release?
 
@@ -196,13 +197,19 @@ Inactive ingredients: Edetate disodium, ferric oxide yellow, magnesium stearate,
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Greenstone LLC Morgantown, WV 26505 U.S.A.
+Distributed by:
 
-For all medical inquiries contact: Greenstone LLC Medical Communications 1-877-446-3679
+Mylan Pharmaceuticals Inc., a Viatris Company
 
-© 2023 AbbVie.
+Morgantown, WV 26505 U.S.A.
+
+For all medical inquiries contact:
+
+Viatris
+
+1-877-446-3679
+
+© 2026 AbbVie.
 All rights reserved.
 
-Content Updated: August 2020
-
-20078946
+Content Updated: February 2026 133194

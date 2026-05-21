@@ -28,9 +28,13 @@ Remind patients to give all of their healthcare providers an accurate medication
 Instruct patients to tell all of their healthcare providers that they are taking Risedronate sodium delayed-release.
 Patients should be instructed that any time they have a medical problem they think may be from Risedronate sodium delayed-release they should talk to their doctor.
 
-Distributed by: Greenstone LLC Morgantown, WV 26505 U.S.A.
+Distributed by:
 
-© 2023 AbbVie.
+Mylan Pharmaceuticals Inc., a Viatris Company
+
+Morgantown, WV 26505 U.S.A.
+
+© 2026 AbbVie.
 All rights reserved.
 
-20078946
+133194
