@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Although available data with ZIEXTENZO or pegfilgrastim product use in pregnant women are insufficient to establish whether there is a drug associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes, there are available data from published studies in pregnant women exposed to filgrastim products.
+Although available data with pegfilgrastim product use in pregnant women are insufficient to establish whether there is a drug associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes, there are available data from published studies in pregnant women exposed to filgrastim products.
 These studies have not established an association of filgrastim product use during pregnancy with major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 
 In animal studies, no evidence of reproductive/developmental toxicity occurred in the offspring of pregnant rats that received cumulative doses of pegfilgrastim approximately 10 times the recommended human dose (based on body surface area).
@@ -36,14 +36,13 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ZIEXTENZO have been established in pediatric patients.
-No overall differences in safety were identified between adult and pediatric patients based on postmarketing surveillance and review of the scientific literature.
+The safety and effectiveness of ZIEXTENZO for chemotherapy-induced neutropenia and hematopoietic subsyndrome of acute radiation syndrome have been established in pediatric patients aged newborn and older.
 
-Use of ZIEXTENZO in pediatric patients for chemotherapy-induced neutropenia is based on ZIEXTENZO’s approval as a biosimilar to pegfilgrastim and evidence from adequate and well-controlled studies of pegfilgrastim in adults with additional pharmacokinetic and safety data of pegfilgrastim in pediatric patients with sarcoma [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
+Use of ZIEXTENZO in pediatric patients for chemotherapy-induced neutropenia is based on adequate and well-controlled studies of pegfilgrastim in adults with additional pharmacokinetic and safety data of pegfilgrastim in pediatric patients aged 8 months and older with sarcoma [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
 
-The use of ZIEXTENZO to increase survival in pediatric patients acutely exposed to myelosuppressive doses of radiation is based on ZIEXTENZO’s approval as a biosimilar to pegfilgrastim and evidence from efficacy studies of pegfilgrastim conducted in animals and clinical data supporting the use of pegfilgrastim in patients with cancer receiving myelosuppressive chemotherapy.
+The use of ZIEXTENZO to increase survival in pediatric patients acutely exposed to myelosuppressive doses of radiation is based on efficacy studies of pegfilgrastim conducted in animals and clinical data supporting the use of pegfilgrastim in patients with cancer receiving myelosuppressive chemotherapy.
 Efficacy studies of pegfilgrastim products could not be conducted in humans with acute radiation syndrome for ethical and feasibility reasons.
-Results from population modeling and simulation indicate that two doses of pegfilgrastim (Table 1), administered one week apart provide pediatric patients with exposures comparable to that in adults receiving two 6 mg doses one week apart [see Dosage and Administration (2.3), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+Results from population modeling and simulation indicate that two doses of pegfilgrastim, administered one week apart provide pediatric patients with exposures comparable to that in adults receiving two 6 mg doses one week apart [see Dosage and Administration (2.1, 2.2), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 

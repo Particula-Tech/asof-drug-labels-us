@@ -4,7 +4,7 @@ The following clinically significant adverse reactions are discussed in greater 
 
 - •Splenic Rupture [see Warnings and Precautions (5.1)]
 - •Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
-- •Serious Allergic Reactions [see Warnings and Precautions (5.3)]
+- •Serious Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
 - •Use in Patients with Sickle Cell Disorders [see Warnings and Precautions (5.4)]
 - •Glomerulonephritis [see Warnings and Precautions (5.5)]
 - •Leukocytosis [see Warnings and Precautions (5.6)]
@@ -25,14 +25,14 @@ The ethnicity was 75% Caucasian, 18% Hispanic, 5% Black, and 1% Asian.
 Patients with breast (n = 823), lung and thoracic tumors (n = 53) and lymphoma (n = 56) received pegfilgrastim after nonmyeloablative cytotoxic chemotherapy.
 Most patients received a single 100 mcg/kg (n = 259) or a single 6 mg (n = 546) dose per chemotherapy cycle over 4 cycles.
 
-The following adverse reaction data in Table 2 are from a randomized, double-blind, placebo-controlled study in patients with metastatic or non-metastatic breast cancer receiving docetaxel 100 mg/m2 every 21 days (Study 3).
+The following adverse reaction data in Table 1 are from a randomized, double-blind, placebo-controlled study in patients with metastatic or non-metastatic breast cancer receiving docetaxel 100 mg/m2 every 21 days (Study 3).
 A total of 928 patients were randomized to receive either 6 mg pegfilgrastim (n = 467) or placebo (n = 461).
 The patients were 21 to 88 years of age and 99% female.
 The ethnicity was 66% Caucasian, 31% Hispanic, 2% Black, and < 1% Asian, Native American, or other.
 
 The most common adverse reactions occurring in ≥ 5% of patients and with a between-group difference of ≥ 5% higher in the pegfilgrastim arm in placebo-controlled clinical trials are bone pain and pain in extremity.
 
-Table 2.
+Table 1.
 Adverse Reactions with ≥ 5% Higher Incidence in Pegfilgrastim Patients Compared to Placebo in Study 3
 
 | Body System Adverse Reaction | Placebo (N = 461) | Pegfilgrastim 6 mg SC on Day 2 (N = 467) |
@@ -43,19 +43,8 @@ Adverse Reactions with ≥ 5% Higher Incidence in Pegfilgrastim Patients Compare
 
 ### Leukocytosis
 
-In clinical studies, leukocytosis (WBC counts > 100 x 109 /L) was observed in less than 1% of 932 patients with non-myeloid malignancies receiving pegfilgrastim.
+In clinical studies, leukocytosis (WBC counts > 100 x 109/L) was observed in less than 1% of 932 patients with non-myeloid malignancies receiving pegfilgrastim.
 No complications attributable to leukocytosis were reported in clinical studies.
-
-## 6.2 Immunogenicity
-
-The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
-Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of pegfilgrastim or of other pegfilgrastim products.
-
-Binding antibodies to pegfilgrastim were detected using a BIAcore assay.
-The approximate limit of detection for this assay is 500 ng/mL.
-Pre-existing binding antibodies were detected in approximately 6% (51/849) of patients with metastatic breast cancer.
-Four of 521 pegfilgrastim-treated subjects who were negative at baseline developed binding antibodies to pegfilgrastim following treatment.
-None of these 4 patients had evidence of neutralizing antibodies detected using a cell-based bioassay.
 
 ## 6.3 Postmarketing Experience
 
