@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Vibramycin is an antibacterial drug synthetically derived from oxytetracycline, and is available as Vibramycin Monohydrate (doxycycline monohydrate); Vibramycin Hyclate and Vibra-Tabs (doxycycline hydrochloride hemiethanolate hemihydrate); and Vibramycin Calcium (doxycycline calcium) for oral administration.
+Vibramycin is an antibacterial drug synthetically derived from oxytetracycline, and is available as Vibramycin Monohydrate (doxycycline monohydrate); Vibramycin Hyclate (doxycycline hydrochloride hemiethanolate hemihydrate); and Vibramycin Calcium (doxycycline calcium) for oral administration.
 
 The structural formula of doxycycline monohydrate is
 
@@ -22,5 +22,3 @@ Inert ingredients in the syrup formulation are: apple flavor; butylparaben; calc
 Inert ingredients in the capsule formulations are: hard gelatin capsules (which may contain Blue 1 and other inert ingredients); magnesium stearate; microcrystalline cellulose; sodium lauryl sulfate.
 
 Inert ingredients for the oral suspension formulation are: carboxymethylcellulose sodium; Blue 1; methylparaben; microcrystalline cellulose; propylparaben; raspberry flavor; Red 28; simethicone emulsion; sucrose.
-
-Inert ingredients for the tablet formulation are: ethylcellulose; hypromellose; magnesium stearate; microcrystalline cellulose; propylene glycol; sodium lauryl sulfate; talc; titanium dioxide; Yellow 6 Lake.

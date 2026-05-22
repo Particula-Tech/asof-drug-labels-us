@@ -3,4 +3,4 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0074-28.0 Revised: 08/2025
+LAB-0074-29.0 Revised: 5/2026

@@ -2,8 +2,7 @@
   "application_numbers": [
     "NDA050006",
     "NDA050007",
-    "NDA050480",
-    "NDA050533"
+    "NDA050480"
   ],
   "inn": "doxycycline",
   "labeler": "Pfizer Laboratories Div Pfizer Inc",
@@ -12,15 +11,9 @@
     "0069-0970-65",
     "0069-0971-74",
     "0069-0971-93",
-    "0069-0971-95",
-    "0069-0990-50"
+    "0069-0971-95"
   ],
   "products": [
-    {
-      "form": "TABLET, FILM COATED",
-      "generic": "doxycycline hyclate",
-      "name": "Vibra-Tabs"
-    },
     {
       "form": "SYRUP",
       "generic": "doxycycline calcium",

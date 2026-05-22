@@ -123,15 +123,3 @@ Vibramycin® (doxycycline hyclate)
 50 Capsules
 
 Rx only
-
-# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
-
-NDC 0069-0990-50
-
-50 Tablets
-
-Vibra-Tabs® (doxycycline hyclate)
-
-100 mg*
-
-Pfizer Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
