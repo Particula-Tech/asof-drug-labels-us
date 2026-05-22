@@ -21,11 +21,11 @@ Table 3: Mean ± SD Plasma Exposures of Glycopyrronium in Adults Following Qbrex
 
 | Parameter | Adult Patients |  |  |
 | --- | --- | --- | --- |
-| Cmax (ng/mL) | 0.08 ± 0.04 |  |  |
-| AUC0-6h (h∗ng/mL) | 0.2 ± 0.14 |  |  |
-| AUC0-24h (h∗ng/mL) | 0.88 ± 0.57 |  |  |
-| Median Tmax (Range) (h) | 1 (0, 10) |  |  |
-| Abbreviations: Maximum concentration (Cmax), Area under the time concentration curve (AUC) between 0 and 6 hours following administration of Qbrexza (AU0-6h), AUC between 0 and 24 hours following administration of Qbrexza (AUC0-24h) |  |  |  |
+| C max(ng/mL) | 0.08 ± 0.04 |  |  |
+| AUC 0-6h(h ∗ng/mL) | 0.2 ± 0.14 |  |  |
+| AUC 0-24h(h ∗ng/mL) | 0.88 ± 0.57 |  |  |
+| Median T max(Range) (h) | 1 (0, 10) |  |  |
+| Abbreviations: Maximum concentration (C max), Area under the time concentration curve (AUC) between 0 and 6 hours following administration of Qbrexza (AU 0-6h), AUC between 0 and 24 hours following administration of Qbrexza (AUC 0-24h) |  |  |  |
 
 Distribution
 
@@ -55,12 +55,12 @@ There was no evidence of accumulation.
 
 Table 4: Mean ± SD Plasma Exposures of Glycopyrronium in Pediatric Subjects Aged 10 to 17 years Following Qbrexza Once Daily for 5 days
 
-| Parameter | Pediatric Patients |
+| Parameter | Pediatric Subjects |
 | --- | --- |
-| Cmax (ng/mL) | 0.07 ± 0.06 |
-| AUC0-6h (h∗ng/mL) | 0.18 ± 0.13 |
-| AUC0-24h (h∗ng/mL) | Not calculated |
-| Median Tmax (Range) (h) | 1.5 (0, 6) |
+| C max(ng/mL) | 0.07 ± 0.06 |
+| AUC 0-6h(h ∗ng/mL) | 0.18 ± 0.13 |
+| AUC 0-24h(h ∗ng/mL) | Not calculated |
+| Median T max(Range) (h) | 1.5 (0, 6) |
 
 Patients with Renal Impairment
 
@@ -70,4 +70,4 @@ Pharmacokinetics of Qbrexza in subjects with renal impairment has not been studi
 
 In Vitro Studies
 
-In vitro studies indicated that under the conditions of clinical use, Qbrexza is not expected to induce cytochrome P450 (CYP) enzymes 1A2, 2B6 and 3A4; or inhibit 1A2, 2B6, 2C8, 2C9, 2C19, 2D6 and 3A4.
+In vitrostudies indicated that under the conditions of clinical use, Qbrexza is not expected to induce cytochrome P450 (CYP) enzymes 1A2, 2B6 and 3A4; or inhibit 1A2, 2B6, 2C8, 2C9, 2C19, 2D6 and 3A4.

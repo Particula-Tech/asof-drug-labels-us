@@ -18,9 +18,9 @@ Table 5: Primary Efficacy Outcomes in Subjects with Primary Axillary Hyperhidros
 
 |  | Trial 1 |  | Trial 2 |  |
 | --- | --- | --- | --- | --- |
-| Qbrexza, 2.4% N = 229 | Vehicle N = 115 | Qbrexza 2.4% N = 234 | Vehicle N = 119 |  |
+| Qbrexza, 2.4% N = 229 | Vehicle N = 115 | Qbrexza, 2.4% N = 234 | Vehicle N = 119 |  |
 | ASDD Item #2 Response at Week 4: |  |  |  |  |
 | Proportion of subjects with at least a 4-point improvement from baseline in the weekly mean ASDD item #2 at Week 4 | 53% | 28% | 66% | 27% |
 | Change from Baseline in Sweat Production at Week 4 (mg/5 minutes): |  |  |  |  |
 | Median | -81 | -66 | -79 | -58 |
-| 25th percentile, 75th percentile | -149, -40 | -106, -28 | -144, -45 | -122, -21 |
+| 25 thpercentile, 75 thpercentile | -149, -40 | -106, -28 | -144, -45 | -122, -21 |

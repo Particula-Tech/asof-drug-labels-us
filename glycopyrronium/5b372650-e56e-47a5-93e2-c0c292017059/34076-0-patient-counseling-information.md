@@ -35,4 +35,6 @@ Manufactured for:
 
 Journey Medical Corporation Scottsdale, AZ 85258
 
-Version 2, October 2022
+Version 2, November 2022
+
+QBR-P01-R00

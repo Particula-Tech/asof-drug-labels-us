@@ -32,12 +32,12 @@ Table 2 shows the most frequently reported local skin reactions, which were rela
 
 Table 2: Local Skin Reactions
 
-| Local Skin Reactions | Qbrexza (N=454)a n (%) | Vehicle (N=231)a n (%) |  |
+| Local Skin Reactions | Qbrexza (N=454) a n (%) | Vehicle (N=231) a n (%) |  |
 | --- | --- | --- | --- |
 | Erythema | 77 (17.0%) | 39 (16.9%) |  |
 | Burning/stinging | 64 (14.1%) | 39 (16.9%) |  |
 | Pruritus | 37 (8.1%) | 14 (6.1%) |  |
-| a Patients with a post-baseline local skin reaction assessment |  |  |  |
+| aPatients with a post-baseline local skin reaction assessment |  |  |  |
 
 In an open-label safety trial (NCT02553798), 564 subjects were treated for up to an additional 44 weeks after completing Trial 1 or Trial 2.
 Adverse reactions occurring at a frequency ≥2.0% were: dry mouth (16.9%), vision blurred (6.7%), nasopharyngitis (5.8%), mydriasis (5.3%), urinary hesitation (4.2%), nasal dryness (3.6%), dry eye (2.9%), pharyngitis (2.2%), and application site reactions (pain [6.4%], dermatitis [3.8%], pruritus [3.8%], rash [3.8%], erythema [2.4%]).
