@@ -33,4 +33,4 @@
 | Marketed by: Novo Nordisk Inc., Plainsboro, NJ 08536 WEGOVY® is a registered trademark of Novo Nordisk A/S.Patent Information: http://novonordisk-us.com/products/product-patents.html © 2026 Novo NordiskFor more information, go to startWegovy.com or call 1-833-Wegovy-1. |  |  |  |  |  |  |  |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: 03/2026
+Revised: March 2026

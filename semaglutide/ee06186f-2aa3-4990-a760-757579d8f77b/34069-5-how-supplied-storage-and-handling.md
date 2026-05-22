@@ -4,27 +4,32 @@ WEGOVY Injection
 
 How Supplied
 
-WEGOVY injection is a clear, colorless solution in a prefilled, disposable, single-dose pen-injector with an integrated needle.
-It is supplied in cartons containing 4 pen-injectors in the following packaging configurations:
+WEGOVY injection is a clear, colorless solution in a prefilled, disposable, single-dose pen or single-dose syringe with an integrated needle.
+It is supplied in cartons containing 4 pens or 4 syringes in the following packaging configurations:
 
-| Name | Total Strength per Total Volume | NDC |
-| --- | --- | --- |
-| WEGOVY | 0.25 mg/0.5 mL | 0169-4525-14 |
-| 0.5 mg/0.5 mL | 0169-4505-14 |  |
-| 1 mg/0.5 mL | 0169-4501-14 |  |
-| 1.7 mg/0.75 mL | 0169-4517-14 |  |
-| 2.4 mg/0.75 mL | 0169-4524-14 |  |
-| WEGOVY HD | 7.2 mg/0.75 mL | 0169-4572-14 |
+| Device Type | Name | Total Strength per Total Volume | NDC |
+| --- | --- | --- | --- |
+| Pen | WEGOVY | 0.25 mg/0.5 mL | 0169-4525-14 |
+| Pen | 0.5 mg/0.5 mL | 0169-4505-14 |  |
+| Pen | 1 mg/0.5 mL | 0169-4501-14 |  |
+| Pen | 1.7 mg/0.75 mL | 0169-4517-14 |  |
+| Pen | 2.4 mg/0.75 mL | 0169-4524-14 |  |
+| Pen | WEGOVY HD | 7.2 mg/0.75 mL | 0169-4572-14 |
+| Syringe | WEGOVY | 0.25 mg/0.5 mL | 0169-1602-14 |
+| Syringe | 0.5 mg/0.5 mL | 0169-1605-14 |  |
+| Syringe | 1 mg/0.5 mL | 0169-1610-14 |  |
+| Syringe | 1.7 mg/0.75 mL | 0169-1617-14 |  |
+| Syringe | 2.4 mg/0.75 mL | 0169-1624-14 |  |
 
 Recommended Storage
 
-Store the WEGOVY single-dose pen in the refrigerator from 2°C to 8°C (36°F to 46°F).
-If needed, prior to cap removal, the pen can be kept from 8°C to 30°C (46°F to 86°F) up to 28 days.
-Do not store WEGOVY in the freezer or directly adjacent to the refrigerator cooling element.
-Do not freeze WEGOVY and do not use if it has been frozen.
-Protect WEGOVY from light.
-WEGOVY must be kept in the original carton until time of administration.
-Discard the WEGOVY pen after use.
+Store the WEGOVY prefilled single-dose pen or single-dose syringe in the refrigerator from 2°C to 8°C (36°F to 46°F).
+If needed, prior to the pen or syringe cap removal, the pen can be kept from 8°C to 30°C (46°F to 86°F) up to 28 days.
+Do not store WEGOVY injection in the freezer or directly adjacent to the refrigerator cooling element.
+Do not freeze WEGOVY injection and do not use if it has been frozen.
+Protect WEGOVY injection from light.
+WEGOVY injection must be kept in the original carton until time of administration.
+Discard the WEGOVY pen or syringe after use.
 
 WEGOVY Tablets
 

@@ -1,4 +1,4 @@
-# Package/Label Display Panel – 0.25 mg Injection
+# Package/Label Display Panel – 0.25 mg Pen
 
 NDC 0169-4525-14 List 452514
 
@@ -26,7 +26,7 @@ Contains: 4 Wegovy pens, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# Package/Label Display Panel – 0.5 mg Injection
+# Package/Label Display Panel – 0.5 mg Pen
 
 NDC 0169-4505-14 List 450514
 
@@ -54,7 +54,7 @@ Contains: 4 Wegovy pens, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# Package/Label Display Panel – 1 mg Injection
+# Package/Label Display Panel – 1 mg Pen
 
 NDC 0169-4501-14 List 450114
 
@@ -82,7 +82,7 @@ Contains: 4 Wegovy pens, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# Package/Label Display Panel – 1.7 mg Injection
+# Package/Label Display Panel – 1.7 mg Pen
 
 NDC 0169-4517-14 List 451714
 
@@ -110,7 +110,7 @@ Contains: 4 Wegovy pens, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# Package/Label Display Panel – 2.4 mg Injection
+# Package/Label Display Panel – 2.4 mg Pen
 
 NDC 0169-4524-14 List 452414
 
@@ -138,7 +138,7 @@ Contains: 4 Wegovy pens, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – WEGOVY HD – 7.2 mg Injection
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – WEGOVY HD – 7.2 mg Pen
 
 NDC 0169-4572-14 List 457214
 
@@ -159,6 +159,136 @@ Rx only
 Dispense the enclosed Medication Guide to each patient.
 
 Contains: 4 Single-Dose Prefilled Pens
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 0.25 mg Manual Prefilled Syringe
+
+NDC 0169-1602-14 List 160214
+
+wegovy® 0.25 mg
+
+(semaglutide) injection
+
+0.25 mg/0.5 mL
+
+Use Wegovy 1 time a week
+
+For subcutaneous use only
+
+Each prefilled syringe delivers 0.25 mg semaglutide
+
+Rx only
+
+Dispense the enclosed Medication Guide to each patient.
+
+Dispense in this sealed carton.
+
+Contains: 4 x 0.5 mL Single-Dose Prefilled Syringes
+
+Push to open
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 0.5 mg Manual Prefilled Syringe
+
+NDC 0169-1605-14 List 160514
+
+wegovy® 0.5 mg
+
+(semaglutide) injection
+
+0.5 mg/0.5 mL
+
+Use Wegovy 1 time a week
+
+For subcutaneous use only
+
+Each prefilled syringe delivers 0.5 mg semaglutide
+
+Rx only
+
+Dispense the enclosed Medication Guide to each patient.
+
+Dispense in this sealed carton.
+
+Contains: 4 x 0.5 mL Single-Dose Prefilled Syringes
+
+Push to open
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 1 mg Manual Prefilled Syringe
+
+NDC 0169-1610-14 List 161014
+
+wegovy® 1 mg
+
+(semaglutide) injection
+
+1 mg/0.5 mL
+
+Use Wegovy 1 time a week
+
+For subcutaneous use only
+
+Each prefilled syringe delivers 1 mg semaglutide
+
+Rx only
+
+Dispense the enclosed Medication Guide to each patient.
+
+Dispense in this sealed carton.
+
+Contains: 4 x 0.5 mL Single-Dose Prefilled Syringes
+
+Push to open
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 1.7 mg Manual Prefilled Syringe
+
+NDC 0169-1617-14 List 161714
+
+wegovy® 1.7 mg
+
+(semaglutide) injection
+
+1.7 mg/0.5 mL
+
+Use Wegovy 1 time a week
+
+For subcutaneous use only
+
+Each prefilled syringe delivers 1.7 mg semaglutide
+
+Rx only
+
+Dispense the enclosed Medication Guide to each patient.
+
+Dispense in this sealed carton.
+
+Contains: 4 x 0.5 mL Single-Dose Prefilled Syringes
+
+Push to open
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 2.4 mg Manual Prefilled Syringe
+
+NDC 0169-1624-14 List 162414
+
+wegovy® 2.4 mg
+
+(semaglutide) injection
+
+2.4 mg/0.5 mL
+
+Use Wegovy 1 time a week
+
+For subcutaneous use only
+
+Each prefilled syringe delivers 2.4 mg semaglutide
+
+Rx only
+
+Dispense the enclosed Medication Guide to each patient.
+
+Dispense in this sealed carton.
+
+Contains: 4 x 0.5 mL Single-Dose Prefilled Syringes
+
+Push to open
 
 # Package/Label Display Panel – 1.5 mg Tablets
 

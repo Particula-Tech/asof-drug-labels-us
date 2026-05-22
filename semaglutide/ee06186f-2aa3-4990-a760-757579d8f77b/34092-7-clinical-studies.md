@@ -94,7 +94,7 @@ Mean Changes in Anthropometry and Cardiometabolic Parameters at Week 104 in Stud
 | Diastolic Blood Pressure (mmHg) |  | 79 | -0.5 | 79 | -1 | -0.5 |
 | Heart Rate |  | 69 | 0.7 | 69 | 3.8 | 3.1 |
 | HbA1c (%) |  | 5.8 | 0 | 5.8 | -0.3 | -0.3 |
-|  | Baseline |  | % Change from Baseline (LSMean) | Baseline | % Change from Baseline (LSMean) | Relative difference from placebo (%) (LSMean) |
+|  | Baseline |  | % Change from Baseline (LSMean) | Baseline | % Change from Baseline (LSMean) | Relative Difference from Placebo (%) (LSMean) |
 | Total Cholesterol (mg/dL)4 | 156 |  | -1.9 | 155.5 | -4.6 | -2.8 |
 | LDL Cholesterol (mg/dL)4 | 78.5 |  | -3.1 | 78.5 | -5.3 | -2.2 |
 | HDL Cholesterol (mg/dL)4 | 44.2 |  | 0.6 | 44.1 | 4.9 | 4.2 |
@@ -201,13 +201,13 @@ Greater proportions of patients treated with WEGOVY injection achieved 5%, 10% a
 
 | Intention-to-Treat1 | PLACEBO N=655 | WEGOVY Injection N=1,306 | PLACEBO N=403 | WEGOVY Injection N=404 | PLACEBO N=204 | WEGOVY Injection N=407 |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Study 2 (Obesity or overweight with comorbidity) |  | Study 3 (Type 2 diabetes with obesity or overweight) |  | Study 4 (Obesity or overweight with comorbidity undergoing intensive lifestyle therapy) |  |
+|  | Study 2 (Obesity or Overweight with Comorbidity) |  | Study 3 (Type 2 Diabetes with Obesity or Overweight) |  | Study 4 (Obesity or Overweight with Comorbidity Undergoing Intensive Lifestyle Therapy) |  |
 | Body Weight |  |  |  |  |  |  |
 | Baseline mean (kg) | 105.2 | 105.4 | 100.5 | 99.9 | 103.7 | 106.9 |
 | % change from baseline (LSMean) | -2.4 | -14.9 | -3.4 | -9.6 | -5.7 | -16 |
 | % difference from placebo (LSMean) (95% CI) |  | -12.4 (‑13.3; ‑11.6)* |  | -6.2 (-7.3; -5.2)* |  | -10.3 (-11.8; -8.7)* |
 | % of Patients losing greater than or equal to 5% body weight | 31.1 | 83.5 | 30.2 | 67.4 | 47.8 | 84.8 |
-| % difference from placebo (LSMean) (95% CI) |  | 52.4 (48.1; 56.7)* |  | 37.2 (30.7; 43.8)* |  | 37 (28.9; 45.2)* |
+| % difference from placebo (LSMean) (95% CI) |  | 52.4 (48.1; 56.7)* |  | 37.2 (30.7; 43.8)* |  | 37(28.9; 45.2)* |
 | % of Patients losing greater than or equal to 10% body weight | 12 | 66.1 | 10.2 | 44.5 | 27.1 | 73 |
 | % difference from placebo (LSMean) (95% CI) |  | 54.1 (50.4; 57.9)* |  | 34.3 (28.4; 40.2)* |  | 45.9(38; 53.7)* |
 | % of Patients losing greater than or equal to 15% body weight | 4.8 | 47.9 | 4.3 | 25.1 | 13.2 | 53.4 |
@@ -262,7 +262,7 @@ Greater proportions of patients treated with WEGOVY injection achieved 5%, 10%, 
 Table 10.
 Changes in Body Weight at Week 68 in Study 6 in East-Asian Patients with WEGOVY 1.7 and 2.4 mg Injection
 
-|  | Study 6 (BMI ≥35 kg/m2 with at least one comorbidity or BMI 27-34.9 kg/m2 with at least two comorbidities) |  |  |
+|  | Study 6 (BMI ≥35 kg/m2 with at Least One Comorbidity or BMI 27 – 34.9 kg/m2 with at Least Two Comorbidities) |  |  |
 | --- | --- | --- | --- |
 | Intention-to-treat1 | PLACEBON=101 | WEGOVY 1.7 mg InjectionN=101 | WEGOVY 2.4 mg InjectionN=199 |
 | Body Weight |  |  |  |
@@ -295,7 +295,7 @@ Changes in Body Weight at Week 64 in Study 7 with WEGOVY 25 mg Tablets
 
 | Intention-to-Treat1 | PLACEBO N = 102 | WEGOVY 25 mg Tablet N = 205 |
 | --- | --- | --- |
-|  | Study 7 (Obesity or overweight with comorbidity) |  |
+|  | Study 7 (Obesity or Overweight with Comorbidity) |  |
 | Body Weight |  |  |
 | Baseline mean (kg) | 104.8 | 106.4 |
 | % change from baseline (LSMean)3 | -2.4 | -13.6 |
@@ -325,11 +325,11 @@ RD-MI: Retrieved Drop-outs Multiple Imputation
 
 For Studies 8 and 9, the primary efficacy parameters were mean percent change in body weight and the percentages of patients achieving greater than or equal to 5% weight loss from baseline to Week 72.
 
-After 72 weeks of treatment, WEGOVY 7.2 mg injection resulted in a statistically significant reduction in body weight compared with placebo in Studies 8 and 9 (see Table 12 and Figure 6 and 10).
+After 72 weeks of treatment, WEGOVY 7.2 mg injection resulted in a statistically significant reduction in body weight compared with placebo in Studies 8 and 9 (see Table 12 and Figures 6 and 10).
 
 Table 12.Changes in Body Weight at Week 72 in Studies 8 and 9 with WEGOVY 7.2 mg Injection
 
-|  | Study 8 (Patients with obesity) |  |  | Study 9 (Type 2 diabetes with obesity) |  |  |
+|  | Study 8 (Patients with Obesity) |  |  | Study 9 (Type 2 Diabetes with Obesity) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Intention-to-Treat1 | PLACEBON=201 | WEGOVY 2.4 mg Injection N=201 | WEGOVY 7.2 mg InjectionN=1005 | PLACEBON=102 | WEGOVY 2.4 mg InjectionN=103 | WEGOVY 7.2 mg InjectionN=307 |
 | Body Weight |  |  |  |  |  |  |
@@ -389,7 +389,7 @@ Change in Body Weight (%) from Baseline to Week 72 (Study 8) with WEGOVY 7.2 mg 
 Observed data from in-trial period including imputed data for missing observations (RD-MI).
 Missing observations were multiply (x1000) imputed from retrieved participants of the same randomized treatment arm and missing value was replaced by the average across imputations.
 
-The time courses of weight loss with WEGOVY injection and placebo from baseline through Week 68 are depicted in Figures 7, 8,and 9, and through week 72 in Figure 10.
+The time courses of weight loss with WEGOVY injection and placebo from baseline through Week 68 are depicted in Figures 7, 8,and 9, and through Week 72 in Figure 10.
 
 Figure 7.
 Change from Baseline (%) in Body Weight (Study 2 on Left and Study 3 on Right) with WEGOVY Injection
@@ -418,14 +418,14 @@ Observed values for patients completing each scheduled visit, and estimates with
 
 Effect of WEGOVY Injection on Anthropometry and Cardiometabolic Parameters in Adults
 
-Changes in waist circumference and cardiometabolic parameters with WEGOVY injection are shown in Table 13 for Studies 2, 3, and 4; in Table 14 for Study 5; in Table 15 for Study 6; Table 16 for study 7, and in Table 17 for Studies 8 and 9.
+Changes in waist circumference and cardiometabolic parameters with WEGOVY injection are shown in Table 13 for Studies 2, 3, and 4; in Table 14 for Study 5; in Table 15 for Study 6; Table 16 for Study 7, and in Table 17 for Studies 8 and 9.
 
 Table 13.
 Changes in Anthropometry and Cardiometabolic Parameters at Week 68 in Studies 2, 3 and 4 with WEGOVY Injection
 
 | Intention-to-Treat | PLACEBO N=655 | WEGOVY Injection N=1,306 | PLACEBO N=403 | WEGOVY Injection N=404 | PLACEBO N=204 | WEGOVY Injection N=407 |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Study 2 (Obesity or overweight with comorbidity) |  | Study 3 (Type 2 diabetes with obesity or overweight) |  | Study 4 (Obesity or overweight with comorbidity undergoing intensive lifestyle therapy) |  |
+|  | Study 2 (Obesity or Overweight with Comorbidity) |  | Study 3 (Type 2 Diabetes with Obesity or Overweight) |  | Study 4 (Obesity or Overweight with Comorbidity Undergoing Intensive Lifestyle Therapy) |  |
 | Waist Circumference (cm) Baseline Changes from baseline (LSMean1) Difference from placebo (LSMean) | 114.8-4.1 | 114.6-13.5-9.4 | 115.5-4.5 | 114.5-9.4 -4.9 | 111.8-6.3 | 113.6-14.6-8.3 |
 | Systolic Blood Pressure (mmHg) Baseline Changes from baseline (LSMean1) Difference from placebo (LSMean) | 127-1.1 | 126-6.2 -5.1 | 130-0.5 | 130-3.9 -3.4 | 124-1.6 | 124-5.6 -3.9 |
 | Diastolic Blood Pressure (mmHg)2 Baseline Changes from baseline (LSMean1) Difference from placebo (LSMean) | 80-0.4 | 80-2.8 -2.4 | 80-0.9 | 80-1.6 -0.7 | 81-0.8 | 80-3 -2.2 |
@@ -451,13 +451,13 @@ Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 5 (Obesity
 
 |  | PLACEBON=268 |  | WEGOVY InjectionN=535 |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Randomization(Week 20) | Change fromRandomization(Week 20) toWeek 68(LSMean1) | Randomization(Week 20) | Change fromRandomization(Week 20) toWeek 68 (LSMean1) | Differencefrom placebo(LSMean) |
+|  | Randomization(Week 20) | Change fromRandomization(Week 20) toWeek 68(LSMean1) | Randomization(Week 20) | Change fromRandomization(Week 20) toWeek 68 (LSMean1) | Differencefrom Placebo(LSMean) |
 | Waist Circumference (cm) | 104.7 | 3.3 | 105.5 | -6.4 | -9.7 |
 | Systolic Blood Pressure (mmHg) | 121 | 4.4 | 121 | 0.5 | -3.9 |
 | Diastolic Blood Pressure (mmHg)2 | 78 | 0.9 | 78 | 0.3 | -0.5 |
 | Heart Rate2,3 | 76 | -5.3 | 76 | -2 | 3.3 |
 | HbA1c (%)2 | 5.4 | 0.1 | 5.4 | -0.1 | -0.2 |
-|  | Randomization(Week 20) | % ChangefromRandomization(Week 20)(LSMean1) | Randomization(Week 20) | % ChangefromRandomization(Week 20)(LSMean1) | Relativedifference fromplacebo(LSMean) |
+|  | Randomization(Week 20) | % ChangefromRandomization(Week 20)(LSMean1) | Randomization(Week 20) | % ChangefromRandomization(Week 20)(LSMean1) | Relativedifference fromPlacebo(LSMean) |
 | Total Cholesterol (mg/dL)2,4 | 175.1 | 11.4 | 175.9 | 4.9 | -5.8 |
 | LDL Cholesterol (mg/dL)2,4 | 109.1 | 7.6 | 108.7 | 1.1 | -6.1 |
 | HDL Cholesterol (mg/dL)2,4 | 43.6 | 17.8 | 44.5 | 18.2 | 0.3 |
@@ -703,7 +703,7 @@ Efficacy Results at Week 72 in Adult Patients with Noncirrhotic MASH with Stage 
 
 Stage 3 Fibrosis in Study 11 of WEGOVY Injection
 
-|  | PlaceboN=266 | WEGOVY InjectionN=534 |
+|  | PLACEBON=266 | WEGOVY InjectionN=534 |
 | --- | --- | --- |
 | Resolution of steatohepatitis and no worsening of liver fibrosis |  |  |
 | Response Rate (%) | 34 | 63 |
