@@ -31,7 +31,7 @@ Use in Combination with Radium Ra 223 Dichloride
 
 Dosing and Administration
 
-- Inform patients that YONSA tablets may not be interchangeable with other abiraterone acetate products due to different dosing and food effects [see Dosage and Administration (2.2)].
+- Inform patients that YONSA tablets may not be substitutable with other abiraterone acetate products due to different dosing and food effects [see Dosage and Administration (2.2)].
 - Inform patients that YONSA is taken once daily with methylprednisolone twice daily and to not interrupt or stop either of these medications without consulting their healthcare provider [see Dosage and Administration (2.2)].
 - Inform patients receiving GnRH therapy that they need to maintain this treatment during the course of treatment with YONSA [see Dosage and Administration (2.2)].
 - Instruct patients to take YONSA tablets as a single dose once orally with or without food.
@@ -67,6 +67,6 @@ YONSA is a registered trademark of Sun Pharmaceutical Industries Limited
 
 All rights reserved.
 
-Revised: 2022 July
+Revised: 2026 April
 
-uspi-YONSA-tab-00005
+uspi-YONSA-tab-00006
