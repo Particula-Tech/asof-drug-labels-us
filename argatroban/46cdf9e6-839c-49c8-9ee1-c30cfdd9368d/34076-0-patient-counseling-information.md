@@ -10,8 +10,7 @@ Specifically inform patients to report:
 - the occurrence of any signs or symptoms of allergic reactions (e.g., airway reactions, skin reactions and vasodilation reactions).
   [see Adverse Reactions (6.1)].
 
-Manufactured For: 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
+Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
-Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta. - Sanand, Dist.- Ahmedabad – 382 210.
-India.
-10 2465 1 6026245
+Manufactured By: Intas Pharmaceuticals Limited, Plot No. 457/458-Matoda/ Plot No.191/218P-Chacharwadi, Sarkhej-Bavla Highway, Taluka -Sanand, Matoda, Ahmedabad, Gujarat-382210, India.
+10 2465 2 6039138

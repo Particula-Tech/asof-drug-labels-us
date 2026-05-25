@@ -156,3 +156,10 @@ Allergic reactions or suspected allergic reactions in populations other than pat
 Limited data are available on the potential formation of drug-related antibodies.
 Plasma from 12 healthy volunteers treated with argatroban over 6 days showed no evidence of neutralizing antibodies.
 No loss of anticoagulant activity was noted with repeated administration of argatroban to more than 40 patients.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of argatroban.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Anaphylaxis
