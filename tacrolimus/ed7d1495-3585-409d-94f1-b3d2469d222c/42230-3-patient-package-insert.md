@@ -121,7 +121,7 @@ What should I avoid while taking tacrolimus capsules?
   Wear protective clothing and use a sunscreen with a high sun protection factor (SPF).
 - Do not eat grapefruit or drink grapefruit juice during treatment with Tacrolimus.
 
-What are the possible side effects of tacrolimus capsules?
+What are the possible side effects oftacrolimus capsules?
 
 Tacrolimus capsules may cause serious side effects, including:
 
@@ -270,9 +270,9 @@ Distributed by:
 
 Strides Pharma Inc.
 
-East Brunswick, NJ 08816
+Bridgewater, NJ 08807
 
-Revised: 11/2023
+Revised: 08/2025
 
 Additional pediatric use information is approved for Astellas Pharma US, Inc.'s Prograf (tacrolimus) products.
 However, due to Astellas Pharma US, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.

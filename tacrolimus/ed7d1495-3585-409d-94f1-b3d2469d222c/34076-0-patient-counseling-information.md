@@ -51,7 +51,7 @@ Advise patients to monitor their blood pressure [see Warnings and Precautions (5
 Inform patients that tacrolimus can cause blood clotting problems.
 The risk of this occurring increases when patients take tacrolimus and sirolimus or everolimus concomitantly, or when patients develop certain infections.
 Advise them to seek medical attention promptly if they develop fever, petequiae or bruises, fatigue, confusion, jaundice, oliguria.
-[see Warnings and Precautions (5.16)]
+[seeWarnings and Precautions (5.16)]
 
 ## 17.10 Drug Interactions
 
@@ -87,6 +87,6 @@ Distributed by:
 
 Strides Pharma Inc.
 
-East Brunswick, NJ 08816
+Bridgewater, NJ 08807
 
-Revised: 11/2023
+Revised: 08/2025

@@ -75,7 +75,7 @@ Calcium-channel blocking agents may increase tacrolimus blood concentrations and
 Anaphylactic reactions have occurred with injectables containing castor oil derivatives, including tacrolimus, in a small percentage of patients (0.6%).
 The exact cause of these reactions is not known.
 Tacrolimus injection should be reserved for patients who are unable to take tacrolimus orally.
-Monitor patients for anaphylaxis when using the intravenous route of administration.
+Monitor patients for anaphylaxis when using the intravenous route of administration [see Dosage and Administration (2.1)].
 
 ## 5.10 Not Recommended for Use with Sirolimus
 

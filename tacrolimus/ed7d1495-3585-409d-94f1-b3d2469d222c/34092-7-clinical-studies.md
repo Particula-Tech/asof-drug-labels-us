@@ -119,7 +119,7 @@ Tacrolimus Whole Blood Trough Concentration Range (Study 2)
 | Day 120 (N = 176) | 8.3 (4.6 - 13.3) |
 | Day 180 (N = 171) | 7.8 (5.5 - 13.2) |
 | Day 365 (N = 178) | 7.1 (4.2 - 12.4) |
-| 1. 10 to 90th Percentile: range of Ctrough, Tac that excludes lowest 10% and highest 10% of Ctrough,Tac. |  |
+| 1. 10 to 90th Percentile:range of Ctrough, Tac that excludes lowest 10% and highest 10% of Ctrough,Tac. |  |
 
 The protocol-specified target cyclosporine whole blood concentrations (Ctrough,CsA) were 125 to 400 ng/mL for the first three months, and 100 to 300 ng/mL thereafter.
 The observed median Ctroughs, CsA approximated 280 ng/mL during the first three months and 190 ng/mL from month 4 to month 12.
