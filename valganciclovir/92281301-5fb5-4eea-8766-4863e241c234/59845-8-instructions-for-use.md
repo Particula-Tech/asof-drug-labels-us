@@ -11,12 +11,10 @@ Important:
 - Do not use valganciclovir for oral solution after the discard date on the bottle.
 - Always use the oral dispenser provided to give or take a dose of valganciclovir for oral solution.
 - Call your pharmacist if your oral dispenser is lost or damaged, and they will tell you how to continue to give or take a dose of valganciclovir for oral solution.
-- Ask your healthcare provider or pharmacist to show you how to measure your prescribed dose
+- Ask your healthcare provider or pharmacist to show you how to measure your prescribed dose.
 
 To take a dose of valganciclovir for oral solution, you will need the bottle of medicine and an oral dispenser provided with the medicine (see Figure 1).
 Your pharmacist inserts the bottle adapter in the valganciclovir for oral solution bottle.
-
-Figure 1
 
 Step 1: With the child-resistant cap on the bottle, shake the bottle well for about 5 seconds before each use.
 
@@ -64,19 +62,13 @@ How should I store valganciclovir for oral solution?
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
+Manufactured For:
 
-Actavis Laboratories FL, Inc.
+Teva Pharmaceuticals
 
-Fort Lauderdale, FL 33314 USA
-
-Distributed by:
-
-Actavis Pharma, Inc.
-
-Parsippany, NJ 07054 USA
+Parsippany, NJ 07054
 
 Rev.
-D 3/2023
+E 6/2025
 
 For more information, call 1-888-838-2872.

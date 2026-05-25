@@ -43,9 +43,11 @@ Inform patients to take valganciclovir with food to maximize bioavailability.
 
 Brands listed are the trademarks of their respective owners.
 
-Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
+Manufactured For:
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Teva Pharmaceuticals
+
+Parsippany, NJ 07054
 
 Rev.
-D 3/2023
+E 6/2025

@@ -30,8 +30,8 @@ Table 1 k Values According to Pediatric Patient Age*
 
 Monitor serum creatinine levels regularly and consider changes in height and body weight and adapt the dose as appropriate during prophylaxis period.
 
-All calculated doses should be rounded to the nearest 10 mg increment for the actual deliverable dose.
-The oral dispenser is graduated in 0.2 mL increments.
+All calculated doses should be rounded to the nearest 25 mg increment for the actual deliverable dose.
+The oral dispenser is graduated in 0.5 mL increments.
 A 50 mg dose is equivalent to 1 mL.
 If the calculated dose exceeds 900 mg, a maximum dose of 900 mg should be administered.
 Valganciclovir for oral solution is the preferred formulation since it provides the ability to administer a dose calculated according to the formula above.

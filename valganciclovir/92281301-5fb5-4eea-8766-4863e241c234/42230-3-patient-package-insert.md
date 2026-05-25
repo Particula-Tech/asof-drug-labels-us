@@ -17,9 +17,11 @@
 | General information about the safe and effective use of valganciclovir for oral solution Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use valganciclovir for oral solution for a condition for which it was not prescribed. Do not give valganciclovir for oral solution to other people, even if they have the same symptoms you have. It may harm them. You can ask your pharmacist or healthcare provider for information about valganciclovir for oral solution that is written for health professionals. |  |
 | What are the ingredients in valganciclovir for oral solution?Active ingredient: valganciclovir hydrochlorideInactive ingredients: mannitol, sodium benzoate, sucralose, tartaric acid and tutti-frutti flavoring. |  |
 
-Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
+Manufactured For:
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Teva Pharmaceuticals
+
+Parsippany, NJ 07054
 
 Rev.
-D 3/2023
+E 6/2025
