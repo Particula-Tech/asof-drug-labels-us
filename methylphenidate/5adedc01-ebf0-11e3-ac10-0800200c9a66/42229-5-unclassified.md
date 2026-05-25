@@ -1,7 +1,6 @@
 Marketed by: Rhodes Pharmaceuticals Wilson, NC 27893
 
-Manufactured by: Purdue Pharma L.P.
-Stamford, CT 06901
+Manufactured by: Patheon Manufacturing Services LLC Greenville, North Carolina 27834
 
 APTENSIO XR® is a trademark of Rhodes Pharmaceuticals.
 
