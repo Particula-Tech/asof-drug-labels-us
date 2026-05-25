@@ -12,6 +12,6 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-0815L105
+50095562
 
-Revised: 4/2021 MI:ARGAIJ:R6
+Revised: 8/2025 MI:ARGAIJ:R7

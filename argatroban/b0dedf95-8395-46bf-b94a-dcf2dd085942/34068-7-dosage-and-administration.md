@@ -94,20 +94,20 @@ Table 2: Recommended Starting and Maintenance Doses (Within the Target ACT Range
 
 Table 3: Recommended Dose Adjustments of Argatroban Injection for Patients Outside of ACT Target Range Undergoing PCI without Hepatic Impairment (1 mg/mL Final Concentration)
 
-| Body Weight (kg) | If ACTLess than 300 secondsDosage AdjustmentAdditional intravenous bolus dose of 150 mcg/kg should be administered if ACT less than 300 seconds.30 mcg/kg/min |  |  |  | If ACTGreater than 450 secondsDosage AdjustmentNo bolus dose is given if ACT greater than 450 seconds15 mcg/kg/min |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Additional Bolus Dose (mcg) | Bolus Volume (mL) | Continuous Infusion Dose (mcg/min) | Continuous Infusion Rate (mL/hr) | Continuous Infusion Dose (mcg/min) | Continuous Infusion Rate (mL/hr) |  |  |  |  |  |  |
-| 50 | 7500 | 8 | 1500 | 90 | 750 | 45 |  |  |  |  |  |
-| 60 | 9000 | 9 | 1800 | 108 | 900 | 54 |  |  |  |  |  |
-| 70 | 10500 | 11 | 2100 | 126 | 1050 | 63 |  |  |  |  |  |
-| 80 | 12000 | 12 | 2400 | 144 | 1200 | 72 |  |  |  |  |  |
-| 90 | 13500 | 14 | 2700 | 162 | 1350 | 81 |  |  |  |  |  |
-| 100 | 15000 | 15 | 3000 | 180 | 1500 | 90 |  |  |  |  |  |
-| 110 | 16500 | 17 | 3300 | 198 | 1650 | 99 |  |  |  |  |  |
-| 120 | 18000 | 18 | 3600 | 216 | 1800 | 108 |  |  |  |  |  |
-| 130 | 19500 | 20 | 3900 | 234 | 1950 | 117 |  |  |  |  |  |
-| 140 | 21000 | 21 | 4200 | 252 | 2100 | 126 |  |  |  |  |  |
-| NOTE: 1 mg = 1000 mcg; 1 kg = 2.2 lbs |  |  |  |  |  |  |  |  |  |  |  |
+| Body Weight (kg) | If ACTLess than 300 secondsDosage AdjustmentAdditional intravenous bolus dose of 150 mcg/kg should be administered if ACT less than 300 seconds.30 mcg/kg/min |  |  |  | If ACTGreater than 450 secondsDosage AdjustmentNo bolus dose is given if ACT greater than 450 seconds15 mcg/kg/min |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Additional Bolus Dose (mcg) | Bolus Volume (mL) | Continuous Infusion Dose (mcg/min) | Continuous Infusion Rate (mL/hr) | Continuous InfusionDose(mcg/min) | Continuous InfusionRate(mL/hr) |  |
+| 50 | 7500 | 8 | 1500 | 90 | 750 | 45 |
+| 60 | 9000 | 9 | 1800 | 108 | 900 | 54 |
+| 70 | 10500 | 11 | 2100 | 126 | 1050 | 63 |
+| 80 | 12000 | 12 | 2400 | 144 | 1200 | 72 |
+| 90 | 13500 | 14 | 2700 | 162 | 1350 | 81 |
+| 100 | 15000 | 15 | 3000 | 180 | 1500 | 90 |
+| 110 | 16500 | 17 | 3300 | 198 | 1650 | 99 |
+| 120 | 18000 | 18 | 3600 | 216 | 1800 | 108 |
+| 130 | 19500 | 20 | 3900 | 234 | 1950 | 117 |
+| 140 | 21000 | 21 | 4200 | 252 | 2100 | 126 |
+| NOTE: 1 mg = 1000 mcg; 1 kg = 2.2 lbs |  |  |  |  |  |  |
 
 ### Monitoring Therapy
 

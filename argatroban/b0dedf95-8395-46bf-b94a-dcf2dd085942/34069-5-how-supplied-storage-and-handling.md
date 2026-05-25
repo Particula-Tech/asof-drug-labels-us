@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Argatroban Injection is supplied in 2.5 mL solution in single-dose vials at the concentration of 100 mg/mL.
+Argatroban Injection, USP is supplied in 2.5 mL solution in single-dose vials at the concentration of 100 mg/mL.
 Each vial contains 250 mg of argatroban, USP.
 
 NDC 67457-212-02 carton containing one single-dose vial

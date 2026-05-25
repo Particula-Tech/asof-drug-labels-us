@@ -2,7 +2,7 @@
 
 NDC 67457-212-02 2.5 mL
 
-Argatroban Injection 250 mg/2.5 mL (100 mg/mL)
+Argatroban Injection, USP 250 mg/2.5 mL (100 mg/mL)
 
 For Intravenous Infusion Only
 
@@ -34,6 +34,6 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-MI:212:1C:R7
+MI:212:1C:R8
 
 Mylan.com
