@@ -6,7 +6,9 @@ Instructions for Patient Use
 
 - Advise patients to take rivaroxaban tablets only as directed.
 - Remind patients to not discontinue rivaroxaban tablets without first talking to their healthcare professional.
-  Adults
+
+Adults
+
 - Advise patients who cannot swallow the tablet whole to crush rivaroxaban tablet and combine with a small amount of applesauce followed by food [see Dosage and Administration (2.6)].
 - For patients requiring an NG tube or gastric feeding tube, instruct the patient or caregiver to crush the rivaroxaban tablet and mix it with a small amount of water before administering via the tube [see Dosage and Administration (2.6)].
 - If a dose is missed, advise the patient according to the instructions in the Full Prescribing Information based on their dosing schedule [see Dosage and Administration (2.5)].
@@ -43,4 +45,4 @@ Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Wi
 
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India
 
-Revised: 11/2025
+Revised: 05/2026

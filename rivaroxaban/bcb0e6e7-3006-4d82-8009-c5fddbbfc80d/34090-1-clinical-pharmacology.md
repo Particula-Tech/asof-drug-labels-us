@@ -37,6 +37,10 @@ Hepatic Impairment
 Anti-Factor Xa activity was similar in adult subjects with normal hepatic function and in mild hepatic impairment (Child-Pugh A class).
 There is no clear understanding of the impact of hepatic impairment beyond this degree on the coagulation cascade and its relationship to efficacy and safety.
 
+Cardiac Electrophysiology
+
+In a thorough QT study in healthy men and women aged 50 years and older, no QTc prolonging effects were observed for rivaroxaban (15 mg and 45 mg, single dose).
+
 ## 12.3 Pharmacokinetics
 
 Absorption
@@ -73,7 +77,7 @@ Excretion
 
 In a Phase 1 study, following the administration of [14C]-rivaroxaban, approximately one-third (36%) was recovered as unchanged drug in the urine and 7% was recovered as unchanged drug in feces.
 Unchanged drug is excreted into urine, mainly via active tubular secretion and to a lesser extent via glomerular filtration (approximate 5:1 ratio).
-Rivaroxaban is a substrate of the efflux transporter proteins P-gp and ABCG2 (also abbreviated BCRP).
+Rivaroxaban is a substrate of the efflux transporter proteins P-gp and ABCG2 (also known as BCRP).
 Rivaroxaban’s affinity for influx transporter proteins is unknown.
 
 Rivaroxaban is a low-clearance drug, with a systemic clearance of approximately 10 L/hr in healthy volunteers following intravenous administration.
@@ -120,7 +124,7 @@ No clinical data are available in pediatric patients with hepatic impairment.
 Drug Interactions
 
 In vitro studies indicate that rivaroxaban neither inhibits the major cytochrome P450 enzymes CYP1A2, 2C8, 2C9, 2C19, 2D6, 2J2, and 3A nor induces CYP1A2, 2B6, 2C19, or 3A.
-In vitro data also indicates a low rivaroxaban inhibitory potential for P-gp and ABCG2 transporters.
+In vitro data also indicates a low rivaroxaban inhibitory potential for P-gp and ABCG2 transporters, the latter also known as BCRP.
 
 The effects of coadministered drugs on the pharmacokinetics of rivaroxaban exposure are summarized in Figure 3 [see Drug Interactions (7)].
 
@@ -147,7 +151,3 @@ Drug-Disease Interactions with Drugs that Inhibit Cytochrome P450 3A Enzymes and
 In a pharmacokinetic trial, rivaroxaban was administered as a single dose in subjects with mild (CrCl = 50 to 79 mL/min) or moderate renal impairment (CrCl = 30 to 49 mL/min) receiving multiple doses of erythromycin (a combined P-gp and moderate CYP3A inhibitor).
 Compared to rivaroxaban administered alone in subjects with normal renal function (CrCl >80 mL/min), subjects with mild and moderate renal impairment concomitantly receiving erythromycin reported a 76% and 99% increase in AUCinf and a 56% and 64% increase in Cmax, respectively.
 Similar trends in pharmacodynamic effects were also observed.
-
-## 12.6 QT/QTc Prolongation
-
-In a thorough QT study in healthy men and women aged 50 years and older, no QTc prolonging effects were observed for rivaroxaban (15 mg and 45 mg, single-dose).

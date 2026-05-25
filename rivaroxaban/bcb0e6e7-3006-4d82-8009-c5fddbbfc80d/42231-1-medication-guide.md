@@ -12,4 +12,4 @@
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2025
+Revised: 05/2026
