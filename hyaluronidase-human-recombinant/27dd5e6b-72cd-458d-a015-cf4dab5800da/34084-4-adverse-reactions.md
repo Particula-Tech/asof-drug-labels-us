@@ -154,7 +154,7 @@ Refer to the Prescribing Information for pertuzumab for more information.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified with the use of intravenous pertuzumab and trastuzumab.
+The following adverse reactions have been identified with the use of intravenous trastuzumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Glomerulopathy

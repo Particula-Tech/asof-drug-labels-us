@@ -4,6 +4,6 @@ Manufactured by: Genentech, Inc. A Member of the Roche Group 1 DNA Way South San
 
 U.S. License No.: 1048
 
-PHESGO® is a trademark of Genentech, Inc. ©2024 Genentech, Inc.
+PHESGO® is a trademark of Genentech, Inc. ©2026 Genentech, Inc.
 
 Representative sample of labeling (see the HOW SUPPLIED section for complete listing):

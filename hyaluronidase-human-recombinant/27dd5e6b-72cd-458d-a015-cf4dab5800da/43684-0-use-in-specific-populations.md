@@ -2,9 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Pharmacovigilance Program
-
-There is a pregnancy pharmacovigilance program for PHESGO.
 If PHESGO is administered during pregnancy, or if a patient becomes pregnant while receiving PHESGO or within 7 months following the last dose of PHESGO, health care providers and patients should immediately report PHESGO exposure to Genentech at 1-888-835-2555.
 
 Risk Summary
