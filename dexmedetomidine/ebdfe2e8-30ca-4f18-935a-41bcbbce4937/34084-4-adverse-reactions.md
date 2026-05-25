@@ -110,7 +110,7 @@ Table 5: Key Treatment-Emergent Adverse Events Occurring in Dexmedetomidine- or 
 | Generalized Edema | 2% | 6% |
 | Hypomagnesemia | 1% | 7% |
 
-The following adverse events occurred between 2 and 5% for dexmedetomidine injection and Midazolam, respectively: renal failure acute (2.5%, 0.8%), acute respiratory distress syndrome (2.5%, 0.8%), and respiratory failure (4.5%, 3.3%).
+The following adverse events occurred between 2 and 5% for dexmedetomidine injection and midazolam, respectively: renal failure acute (2.5%, 0.8%), acute respiratory distress syndrome (2.5%, 0.8%), and respiratory failure (4.5%, 3.3%).
 
 Table 6: Number (%) of Adult Subjects Who Had a Dose-Related Increase in Treatment Emergent Adverse Events by Maintenance Adjusted Dose Rate Range in the Dexmedetomidine Injection Group
 
@@ -150,8 +150,38 @@ Table 7: Adverse Reactions with an Incidence > 2%–Adult Procedural Sedation Po
 | HypoxiaHypoxia was defined in absolute and relative terms as SpO2 < 90% or 10% decrease from baseline. | 2% | 3% |
 | Bradypnea | 2% | 4% |
 
-Pediatric use information is approved for Hospira Inc.’s PRECEDEX™ (dexmedetomidine hydrochloride) injection and PRECEDEX™ (dexmedetomidine hydrochloride) in sodium chloride injection.
-However, due to Hospira Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+### Pediatric Sedation for Magnetic Resonance Imaging
+
+Adverse reaction information is derived from a trial for sedation of pediatric procedural during a non-invasive procedure [see Clinical Studies (14.2)] in which 122 pediatric patients aged 1 month to less than 17 years undergoing magnetic resonance imaging (MRI) scans received dexmedetomidine injection.
+In pediatric patients 1 month to less than 2 years old, the median total dose for the dexmedetomidine injection low, middle, and high dose treatment groups was 8.30, 18.90, and 22.75 mcg, respectively.
+The median duration of treatment ranged from 52.5 to 69 minutes across treatment groups.
+In pediatric patients 2 to less than 17 years old, the median total dose for the dexmedetomidine injection low, middle, and high dose treatment groups was 21.30, 43.90, and 80.25 mcg, respectively.
+The median duration of treatment ranged from 56.5 to 66 minutes across treatment groups.
+
+All-causality treatment-emergent adverse reactions occurring in the combined age group of pediatric patients during the procedure at an incidence of > 5% are provided in Table 8.
+The most frequent treatment-emergent adverse events were bradypnea, bradycardia, hypertension, and hypotension [see Warnings and Precautions (5.2, 5.3)].
+In the combined age group and in each age group, increased incidence in bradycardia and hypertension was observed with increasing dexmedetomidine injection dose.
+Mild transient withdrawal symptoms of emergence delirium or agitation occurred in 3 of 122 patients after discontinuation of dexmedetomidine injection infusion [see Warnings and Precautions (5.5)].
+All reported treatment-emergent adverse reactions were mild to moderate in severity and the majority resolved without medical intervention.
+No subject in the study required airway intervention, including a jaw thrust or insertion of a nasal or oral airway.
+A similar profile was observed in the pediatric patients 1 month to less than 2 years old and in pediatric patients 2 to less than 17 years old.
+Pre-specified criteria for the vital signs to be reported as adverse events are footnoted below the table.
+
+Table 8: Treatment-Emergent Adverse Events with Incidence > 5%–Pediatric Patients During Noninvasive Procedure
+
+|  | Dexmedetomidine Injection Low Dose (N = 42) | Dexmedetomidine Injection Middle Dose (N = 42) | Dexmedetomidine Injection High Dose (N = 38) | Total (N = 122) |
+| --- | --- | --- | --- | --- |
+| Number (%) of Pediatric Patients | n (%) | n (%) | n (%) | n (%) |
+| Adverse Event |  |  |  |  |
+| BradypneaBradypnea was defined as respiratory rate < 1st centile of the age adjusted normal range. | 33 (79) | 27 (64) | 22 (58) | 82 (67) |
+| BradycardiaBradycardia was defined as a decrease in HR of 30% from baseline or absolute HR ≤ 1st centile of the age adjusted normal range. | 24 (57) | 24 (57) | 27 (71) | 75 (62) |
+| HypertensionFor pediatric patients 1 month to less than 1 year old, hypertension was defined as supine systolic blood pressure ≥ 104 mm/Hg and/or diastolic blood pressure ≥ 56 mmHg measurements. For pediatric patients 1 to less than 17 years old: hypertension was defined as supine systolic blood pressure and/or diastolic blood pressure measurements ≥ 95th percentile for gender, age, and height. | 11 (26) | 17 (41) | 18 (47) | 46 (38) |
+| HypotensionHypotension was defined as a decrease in systolic blood pressure ≥ 30% from baseline. | 13 (31) | 11 (26) | 6 (16) | 30 (25) |
+| HypoxiaHypoxia was defined as oxygen saturation < 90% for any duration. | 6 (14) | 3 (7) | 1 (3) | 10 (8) |
+| Diastolic Hypertension | 3 (7) | 3 (7) | 4 (11) | 10 (8) |
+| Systolic Hypertension | 1 (2) | 5 (12) | 3 (8) | 9 (7) |
+| Tachycardia | 3 (7) | 1 (2) | 1 (3) | 5 (4) |
+| N = Number of pediatric patients evaluable for adverse events. |  |  |  |  |
 
 ## 6.2 Postmarketing Experience
 
@@ -171,7 +201,7 @@ Table 9: Adverse Reactions Experienced During Post-Approval Use of Dexmedetomidi
 | General Disorders and Administration Site Conditions | Chills, hyperpyrexia, pain, pyrexia, thirst |
 | Hepatobiliary Disorders | Hepatic function abnormal, hyperbilirubinemia |
 | Investigations | Alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood urea increased, electrocardiogram T wave inversion, gammaglutamyltransferase increased, electrocardiogram QT prolonged |
-| Metabolism and Nutrition Disorders | Acidosis, hyperkalemia, hypoglycemia, hypovolemia, hypernatremia |
+| Metabolism and Nutrition Disorders | Acidosis, hyperkalemia, hypoglycemia, hypovolemia, hypernatremia, diabetes insipidus (Cases of diabetes insipidus,with associated polyuria, dilute urine, and hypernatremia, havebeen reported) |
 | Nervous System Disorders | Convulsion, dizziness, headache, neuralgia, neuritis, speech disorder |
 | Psychiatric Disorders | Agitation, confusional state, delirium, hallucination, illusion |
 | Renal and Urinary Disorders | Oliguria, polyuria |

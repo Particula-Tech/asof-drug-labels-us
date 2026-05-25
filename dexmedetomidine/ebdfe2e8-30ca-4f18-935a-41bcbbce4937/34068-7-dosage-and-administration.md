@@ -17,14 +17,18 @@ Table 1: Recommended Dosage in Adult Patients
 | Initiation of Procedural Sedation | For adult patients: a loading infusion of one mcg/kg over 10 minutes. For less invasive procedures such as ophthalmic surgery, a loading infusion of 0.5 mcg/kg given over 10 minutes may be suitable.For awake fiberoptic intubation in adult patients: a loading infusion of one mcg/kg over 10 minutes.For patients over 65 years of age: a loading infusion of 0.5 mcg/kg over 10 minutes [see Use in Specific Populations (8.5)].For adult patients with impaired hepatic function: Consider a dose reduction [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
 | Maintenance of Procedural Sedation | For adult patients: the maintenance infusion is generally initiated at 0.6 mcg/kg/hour and titrated to achieve desired clinical effect with doses ranging from 0.2 mcg/kg/hour to 1 mcg/kg/hour. Adjust the rate of the maintenance infusion to achieve the targeted level of sedation.For awake fiberoptic intubation in adult patients: a maintenance infusion of 0.7 mcg/kg/hour is recommended until the endotracheal tube is secured.For patients over 65 years of age: Consider a dose reduction [see Use in Specific Populations (8.5)].For adult patients with impaired hepatic function: Consider a dose reduction [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
 
-Pediatric use information is approved for Hospira Inc.’s PRECEDEX™ (dexmedetomidine hydrochloride) injection and PRECEDEX™ (dexmedetomidine hydrochloride) in sodium chloride injection.
-However, due to Hospira Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Table 2: Recommended Dosage in Pediatric Patients
+
+| INDICATION | DOSAGE AND ADMINISTRATION |
+| --- | --- |
+| Initiation of Sedation During Non-invasive Procedures | For pediatric patients: •1 month to less than 2 years: a loading infusion of 1.5 mcg/kg over 10 minutes.•2 to less than 18 years: a loading infusion of 2 mcg/kg over 10 minutes. Consider a reduction in dosage if clinically indicated. |
+| Maintenance of Sedation During Non-invasive Procedures | For pediatric patients: •1 month to less than 18 years: the maintenance infusion is generally initiated at 1.5 mcg/kg/hour and titrated to achieve desired clinical effect with dosage ranging from 0.5 mcg/kg/hour to 1.5 mcg/kg/hour. As clinically warranted, titrate the maintenance dose to individual patient clinical response. |
 
 ## 2.3 Dosage Adjustment
 
 Due to possible pharmacodynamic interactions, a reduction in dosage of dexmedetomidine injection or other concomitant anesthetics, sedatives, hypnotics or opioids may be required when co-administered [see Drug Interactions (7.1)].
 
-Dosage reductions may need to be considered for adult patients with hepatic impairment, and geriatric patients [see Warnings and Precautions (5.8), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+Dosage reductions may need to be considered for adult patients with hepatic impairment, and geriatric patients [see Warnings and Precautions (5.9), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.4 Preparation of Solution
 
@@ -35,7 +39,7 @@ Do not use if product is discolored or if precipitate matter is present.
 
 ### Dexmedetomidine Injection Presentations Requiring Dilution
 
-- •Dexmedetomidine Injection, 200 mg/2 mL (100 mg/mL)
+- •Dexmedetomidine Injection, 200 mcg/2 mL (100 mcg/mL)
 
 Dexmedetomidine injection must be diluted with 0.9% sodium chloride injection to achieve required concentration (4 mcg/mL) prior to administration.
 Preparation of solutions is the same, whether for the loading dose or maintenance infusion.
@@ -56,7 +60,7 @@ Dexmedetomidine injection has been shown to be compatible when administered with
 - •0.9% sodium chloride in water
 - •5% dextrose in water
 - •20% mannitol
-- •Lactated Ringer's solution
+- •Lactated Ringer’s solution
 - •100 mg/mL magnesium sulfate solution
 - •0.3% potassium chloride solution
 

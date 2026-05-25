@@ -34,7 +34,8 @@ Table 13: Midazolam Use as Rescue Medication During Intubation (ITT) Study One
 
 |  | Placebo(N = 175) | Dexmedetomidine Injection(N = 178) | p-value |
 | --- | --- | --- | --- |
-| Mean Total Dose (mg) of MidazolamStandard deviation | 19 mg53 mg | 5 mg19 mg | 0.0011ANOVA model with treatment center. |
+| Mean Total Dose (mg) of Midazolam | 19 mg | 5 mg | 0.0011ANOVA model with treatment center. |
+| Standard deviation | 53 mg | 19 mg |  |
 | Categorized Midazolam Use |  |  |  |
 | 0 mg | 43 (25%) | 108 (61%) | < 0.001Chi-square. |
 | 0–4 mg | 34 (19%) | 36 (20%) |  |
@@ -59,7 +60,8 @@ Table 14: Propofol Use as Rescue Medication During Intubation (ITT) Study Two
 
 |  | Placebo(N = 198) | Dexmedetomidine Injection(N = 203) | p-value |
 | --- | --- | --- | --- |
-| Mean Total Dose (mg) of PropofolStandard deviation | 513 mg782 mg | 72 mg249 mg | < 0.0001ANOVA model with treatment center. |
+| Mean Total Dose (mg) of Propofol | 513 mg | 72 mg | < 0.0001ANOVA model with treatment center. |
+| Standard deviation | 782 mg | 249 mg |  |
 | Categorized Propofol Use |  |  |  |
 | 0 mg | 47 (24%) | 122 (60%) | < 0.001Chi-square. |
 | 0–50 mg | 30 (15%) | 43 (21%) |  |
@@ -118,5 +120,40 @@ Table 16: Key Efficacy Results of Adult Procedural Sedation Studies
 | Study 2 | Dexmedetomidine 1 mcg/kg | 55 | 53 | 39 (20, 57) | 1.1 (1.5) | -1.8(-2.7, -0.9) |
 | Placebo | 50 | 14 | – | 2.9 (3.0) | – |  |
 
-Pediatric use information is approved for Hospira Inc.’s PRECEDEX™ (dexmedetomidine hydrochloride) injection and PRECEDEX™ (dexmedetomidine hydrochloride) in sodium chloride injection.
-However, due to Hospira Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric Patients
+
+The safety and efficacy of dexmedetomidine injection for sedation of non-intubated pediatric patients aged 1 month to less than 17 years undergoing MRI scans was evaluated in one randomized, double-blind, dose-ranging, dose-controlled multicenter clinical trial utilizing 3 different dexmedetomidine injection dosages.
+The sedative properties of dexmedetomidine injection were evaluated by age group and by the percent of pediatric patients at the high dose level versus the low dose level who did not require concomitant propofol to complete the MRI scan.
+
+A total of 122 pediatric patients were randomized to the dexmedetomidine injection low dose group (42 of 122), the middle dose group (42 of 122) or the high dose treatment group (38 of 122).
+All patients received a dexmedetomidine injection loading dose infusion over 10 minutes followed by a maintenance infusion for the duration of the MRI scan (Table 17).
+If an adequate level of sedation was not achieved within 5 minutes after the start of the dexmedetomidine injection maintenance infusion, patients could receive concomitant propofol as needed based on clinical judgment to achieve and/or maintain adequate sedation.
+
+Table 17: Dexmedetomidine Injection Loading and Maintenance Doses
+
+| Age | High Dose |  | Middle Dose |  | Low Dose |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Loading Dose (10 min) | Maintenance Dose | Loading Dose (10 min) | Maintenance Dose | Loading Dose (10 min) | Maintenance Dose |  |
+| 1 month to less than 2 years | 1.5 mcg/kg | 1.5 mcg/kg/h | 1 mcg/kg | 1 mcg/kg/h | 0.5 mcg/kg | 0.5 mcg/kg/h |
+| 2 to less than 17 years | 2 mcg/kg | 1.5 mcg/kg/h | 1.2 mcg/kg | 1 mcg/kg/h | 0.5 mcg/kg | 0.5 mcg/kg/h |
+
+The primary efficacy results from this pediatric procedural sedation study are summarized in Table 18.
+In the combined age group, the percent of pediatric patients not requiring concomitant propofol was 14.3% (6/42) in the low dose group and 63.2% (24/38) in the high dose group.
+The percentage of patients at the dexmedetomidine injection high dose who completed the MRI without concomitant propofol was statistically greater than the percentage in the dexmedetomidine injection low dose group (p < 0.001).
+
+Table 18: Percent of Pediatric Patients not Requiring Concomitant Propofol by Age Group and Overall
+
+| Age Group |  | High Dose | Middle Dose | Low Dose | High Dose vs. Low Dose |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| n (%) 95% CI* Exact 95% CI of proportion of subjects not requiring propofol in each dose level. | n (%) 95% CI | n (%) 95% CI | Odds Ratio 95% CI** p-values; CI is confidence interval of odds ratio. | p-value |  |  |
+| 1 month to less than 2 years | N = 59 | 9/18 (50.0%) (0.26, 0.74) | 2/21 (9.5%) (0.01, 0.30) | 2/20 (15.0%) (0.03, 0.38) | 0.18 (0.04, 0.82) | 0.022 |
+| 2 to less than 17 years | N = 63 | 15/20 (75.0%) (0.51, 0.91) | 13/21 (61.9%) (0.38, 0.82) | 3/22 (13.6%) (0.03, 0.35) | 0.05 (0.01, 0.26) | < 0.001 |
+| Overall | N = 122 | 24/38 (63.2%) (0.46, 0.78) | 15/42 (35.7%) (0.22, 0.52) | 6/42 (14.3%) (0.05, 0.29) | 0.10 (0.03, 0.29) | < 0.001 |
+
+Secondarily, the sedative properties were also evaluated by examining the percent of time at a target sedation score using the Pediatric Sedation State Scale (PSSS).
+The PSSS is a validated 6-point scale specifically designed for evaluating pediatric patients undergoing sedation for diagnostic and therapeutic procedures.
+The PSSS measures the effectiveness and quality of procedural sedation in children.
+The target sedation level was indicated by a PSSS score of 2 (i.e., patient is quiet [asleep or awake], not moving during procedure, has no frown [or brow furrow] indicating pain or anxiety and no verbalization of any complaint).
+
+In the dexmedetomidine injection high dose group, pediatric patients in both the combined and individual age group were at the target sedation rating scale score (PSSS of 2) for a mean > 87% of the time during the dexmedetomidine injection maintenance infusion.
+In both the combined and individual age group, an increase in the percentage of time at the target sedation rating scale score (PSSS of 2) was observed with increasing dexmedetomidine injection dosage.

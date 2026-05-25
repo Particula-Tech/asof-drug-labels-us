@@ -81,8 +81,20 @@ There were no differences in the pharmacokinetics of dexmedetomidine injection i
 
 #### Pediatric Patients
 
-Pediatric use information is approved for Hospira Inc.’s PRECEDEX™ (dexmedetomidine hydrochloride) injection and PRECEDEX™ (dexmedetomidine hydrochloride) in sodium chloride injection.
-However, due to Hospira Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+A population PK analysis was conducted with data collected from mechanically ventilated pediatric patients less than 17 years of age from 4 clinical studies.
+A linear 2-compartment model was found to best characterize the pooled dexmedetomidine concentration data.
+Mean PK parameters for each age group are summarized in Table 11.
+
+Table 11: Geometric Mean Point Estimates and 95% Confidence Intervals of PK Parameters by Pediatric Age Group
+
+| Age Group | N | CL (L/h) | Vc (L) |
+| --- | --- | --- | --- |
+| 1 to less than 6 months | 14 | 6.94 (5.46, 8.81) | 4.34 (3.25, 5.81) |
+| 6 to less than 12 months | 15 | 8.15 (7.01, 9.47) | 7.29 (5.57, 9.53) |
+| 12 to less than 24 months | 13 | 10.76 (9.09, 12.74) | 7.35 (5.59, 9.67) |
+| 2 to less than 6 years | 26 | 15.89 (14.00, 18.04) | 13.78 (10.66, 17.83) |
+| 6 to less than 17 years | 28 | 24.45 (19.34, 30.92) | 24.47 (17.06, 35.10) |
+| Abbreviations: CL = plasma clearance, Vc = volume of the central compartment. |  |  |  |
 
 #### Patients with Hepatic Impairment
 
@@ -90,7 +102,7 @@ In adult subjects with varying degrees of hepatic impairment (Child-Pugh Class A
 The mean clearance values for patients with mild, moderate, and severe hepatic impairment were 74%, 64% and 53% of those observed in the normal healthy adult subjects, respectively.
 Mean clearances for free drug were 59%, 51% and 32% of those observed in the normal healthy adult subjects, respectively.
 
-Although dexmedetomidine injection is dosed to effect, it may be necessary to consider dose reduction in subjects with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.8)].
+Although dexmedetomidine injection is dosed to effect, it may be necessary to consider dose reduction in subjects with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.9)].
 
 #### Patients with Renal Impairment
 
