@@ -6,11 +6,13 @@ Posaconazole is an azole antifungal agent [see Clinical Pharmacology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-Exposure Response Relationship Prophylaxis: In clinical studies of neutropenic patients who were receiving cytotoxic chemotherapy for acute myelogenous leukemia (AML) or myelodysplastic syndromes (MDS) or hematopoietic stem cell transplant (HSCT) recipients with Graft versus Host Disease (GVHD), a wide range of plasma exposures to posaconazole was noted following administration of posaconazole oral suspension.
-A pharmacokinetic-pharmacodynamic analysis of patient data revealed an apparent association between average posaconazole concentrations (Cavg) and prophylactic efficacy (Table 17).
+Exposure Response Relationship: Prophylaxis of invasive Aspergillus and Candida Infections in Adults Who Are at High Risk of Developing These Infections Due to Being Severely Immunocompromised
+
+In clinical studies of neutropenic patients who were receiving cytotoxic chemotherapy for acute myelogenous leukemia (AML) or myelodysplastic syndromes (MDS) or hematopoietic stem cell transplant (HSCT) recipients with Graft versus Host Disease (GVHD), a wide range of plasma posaconazole exposures was noted following administration of posaconazole oral suspension.
+A pharmacokinetic-pharmacodynamic analysis of patient data revealed an apparent association between average posaconazole concentrations (Cavg) and prophylactic efficacy (Table 18).
 A lower Cavg may be associated with an increased risk of treatment failure, defined as treatment discontinuation, use of empiric systemic antifungal therapy (SAF), or occurrence of breakthrough invasive fungal infections.
 
-Table 17: Posaconazole Oral Suspension Exposure Analysis (Cavg) in Prophylaxis Trials
+Table 18: Posaconazole Oral Suspension Exposure Analysis (Cavg) in Prophylaxis Trials
 
 |  | Prophylaxis in AML/MDS* |  | Prophylaxis in GVHD† |  |
 | --- | --- | --- | --- | --- |
@@ -26,9 +28,9 @@ Table 17: Posaconazole Oral Suspension Exposure Analysis (Cavg) in Prophylaxis T
 General Pharmacokinetic Characteristics
 
 Posaconazole delayed-release tablets exhibit dose proportional pharmacokinetics after single and multiple dosing up to 300 mg.
-The mean pharmacokinetic parameters of posaconazole at steady state following administration of posaconazole delayed-release tablets 300 mg twice daily on Day 1, then 300 mg once daily thereafter in healthy volunteers and in neutropenic patients who are receiving cytotoxic chemotherapy for AML or MDS or HSCT recipients with GVHD are shown in Table 20.
+The mean pharmacokinetic parameters of posaconazole at steady state following administration of posaconazole delayed-release tablets 300 mg twice daily on Day 1, then 300 mg once daily thereafter in healthy volunteers and in neutropenic patients who are receiving cytotoxic chemotherapy for AML or MDS or HSCT recipients with GVHD are shown in Table 21.
 
-Table 20: Arithmetic Mean (%CV) of Steady State PK Parameters in Healthy Volunteers and Patients Following Administration of Posaconazole Delayed-Release Tablets (300 mg)*
+Table 21: Arithmetic Mean (%CV) of Steady State PK Parameters in Healthy Volunteers and Patients Following Administration of Posaconazole Delayed-Release Tablets (300 mg)*
 
 |  | N | AUC 0-24 hr (ng·hr/mL) | Cav† (ng/mL) | C max (ng/mL) | C min (ng/mL) | ‡Tmax(hr) | t 1/2 (hr) | CL/F (L/hr) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -42,9 +44,9 @@ Absorption:
 When given orally in healthy volunteers, posaconazole delayed-release tablets are absorbed with a median Tmax of 4 to 5 hours.
 Steady-state plasma concentrations are attained by Day 6 at the 300 mg dose (once daily after twice daily loading dose at Day 1).
 The absolute bioavailability of the oral delayed-release tablet is approximately 54% under fasted conditions.
-The Cmax and AUC of posaconazole following administration of posaconazole delayed-release tablets is increased 16% and 51%, respectively, when given with a high fat meal compared to a fasted state (see Table 22).
+The Cmax and AUC of posaconazole following administration of posaconazole delayed-release tablets are increased 16% and 51%, respectively, when given with a high fat meal compared to a fasted state (see Table 23).
 
-Table 22: Statistical Comparison of Plasma Pharmacokinetics of Posaconazole Following Single Oral Dose Administration of 300 mg Posaconazole Delayed-Release Tablet to Healthy Subjects under Fasting and Fed Conditions
+Table 23: Statistical Comparison of Plasma Pharmacokinetics of Posaconazole Following Single Oral Dose Administration of 300 mg Posaconazole Delayed-Release Tablet to Healthy Subjects under Fasting and Fed Conditions
 
 |  | Fasting Conditions |  | Fed Conditions (High Fat Meal)* |  | Fed/Fasting |
 | --- | --- | --- | --- | --- | --- |
@@ -54,18 +56,6 @@ Table 22: Statistical Comparison of Plasma Pharmacokinetics of Posaconazole Foll
 | Tmax† (hr) | 14 | 5.00 (3.00, 8.00) | 16 | 6.00 (5.00, 24.00) | N/A |
 | GMR=Geometric least-squares mean ratio; CI=Confidence interval * 48.5 g fat † Median (Min, Max) reported for Tmax |  |  |  |  |  |
 | GMR=Geometric least-squares mean ratio; CI=Confidence interval |  |  |  |  |  |
-
-Concomitant administration of posaconazole delayed-release tablets with drugs affecting gastric pH or gastric motility did not demonstrate any significant effects on posaconazole pharmacokinetic exposure (see Table 23).
-
-Table 23: The Effect of Concomitant Medications that Affect the Gastric pH and Gastric Motility on the Pharmacokinetics of Posaconazole Delayed-Release Tablets in Healthy Volunteers
-
-| Coadministered Drug | Administration Arms | Change in Cmax (ratio estimate*; 90% CI of the ratio estimate) | Change in AUC0-last (ratio estimate*; 90% CI of the ratio estimate) |
-| --- | --- | --- | --- |
-| Mylanta® Ultimate strength liquid (Increase in gastric pH) | 25.4 mEq/5 mL, 20 mL | ↑6% (1.06; 0.90 -1.26)↑ | ↑4% (1.04; 0.90 -1.20) |
-| Ranitidine (Zantac®) (Alteration in gastric pH) | 150 mg (morning dose of 150 mg Ranitidine twice daily) | ↑4% (1.04; 0.88 -1.23)↑ | ↓3% (0.97; 0.84 -1.12) |
-| Esomeprazole (Nexium®) (Increase in gastric pH) | 40 mg (every morning for 5 days, Day -4 to 1) | ↑2% (1.02; 0.88-1.17)↑ | ↑5% (1.05; 0.89 -1.24) |
-| Metoclopramide (Reglan®) (Increase in gastric motility) | 15 mg four times daily for 2 days (Day -1 and 1) | ↓14% (0.86, 0.73,1.02) | ↓7% (0.93, 0.803,1.07) |
-| * Ratio Estimate is the ratio of coadministered drug plus posaconazole to posaconazole alone for Cmax or AUC0-last. |  |  |  |
 
 Distribution:
 
@@ -78,27 +68,103 @@ Of the circulating metabolites, the majority are glucuronide conjugates formed v
 Posaconazole does not have any major circulating oxidative (CYP450 mediated) metabolites.
 The excreted metabolites in urine and feces account for ~17% of the administered radiolabeled dose.
 
+Posaconazole is a substrate for p-glycoprotein (P-gp) efflux.
+
+In vitro studies with human hepatic microsomes and clinical studies indicate that posaconazole is an inhibitor primarily of CYP3A4.
+
+Distribution:
+
+Posaconazole is highly bound to human plasma proteins (>98%), predominantly to albumin.
+
+Metabolism:
+
+Posaconazole primarily circulates as the parent compound in plasma.
+Of the circulating metabolites, the majority are glucuronide conjugates formed via UDP glucuronidation (phase 2 enzymes).
+Posaconazole does not have any major circulating oxidative (CYP450 mediated) metabolites.
+The excreted metabolites in urine and feces account for ~17% of the administered radiolabeled dose.
+Posaconazole is a substrate for p-glycoprotein (P-gp) efflux.
+
+In vitro studies with human hepatic microsomes and clinical studies indicate that posaconazole is an inhibitor primarily of CYP3A4.
+
+Excretion:
+
+Following administration of Noxafil® oral suspension, posaconazole is predominantly eliminated in the feces (71% of the radiolabeled dose up to 120 hours) with the major component eliminated as parent drug (66% of the radiolabeled dose).
+Renal clearance is a minor elimination pathway, with 13% of the radiolabeled dose excreted in urine up to 120 hours (<0.2% of the radiolabeled dose is parent drug).
+
+Posaconazole delayed-release tablet is eliminated with a mean half-life (t½) ranging between 26 to 31 hours.
+
+Specific Populations:
+
+No clinically significant differences in the pharmacokinetics of posaconazole were observed based on age, sex, renal impairment, and indication (prophylaxis).
+
+Patients with Renal Impairment:
+
+After posaconazole oral administration, there were no significant differences in the posaconazole pharmacokinetics in patients with eGFR 20 mL/minute/1.73 m2 or higher compared to those with eGFR>80 mL/minute/1.73 m2.
+Although the mean posaconazole plasma exposure (AUC) was similar in patients with eGFR less than 20 mL/minute/1.73 m2 treated with Noxafil® oral suspension to those with eGFR >80 mL/minute/1.73 m2 treated with Noxafil® oral suspension, the range of the AUC estimates was highly variable (CV=96%) in patients with eGFR less than 20 mL/minute/1.73 m2 compared to those with eGFR>80 mL/minute/1.73 m2 (CV<40%).
+Similar posaconazole pharmacokinetic results are expected after administration of posaconazole delayed-release tablets [see Use in Specific Populations (8.6)].
+
+Patients with Hepatic Impairment:
+
+After a single oral dose of Noxafil® oral suspension 400 mg, the mean AUC was 43%, 27%, and 21% higher in subjects with mild (Child-Pugh Class A, N=6), moderate (Child-Pugh Class B, N=6), or severe (Child-Pugh Class C, N=6) hepatic impairment, respectively, compared to subjects with normal hepatic function (N=18).
+Compared to subjects with normal hepatic function, the mean Cmax was 1% higher, 40% higher, and 34% lower in subjects with mild, moderate, or severe hepatic impairment, respectively [see Use in Specific Populations (8.7)].
+
+Race/Ethnicity:
+
+In a population pharmacokinetic analysis of posaconazole, AUC was found to be 25% higher in Chinese patients relative to patients from other races/ethnicities.
+This higher exposure is not expected to be clinically relevant given the expected variability in posaconazole exposure [see Use in Specific Populations (8.9)].
+
+Patients Weighing More Than 120 kg:
+
+Weight has a clinically significant effect on posaconazole clearance.
+Relative to 70 kg patients, the Cavg is decreased by 25% in patients greater than 120 kg.
+Patients administered posaconazole weighing more than 120 kg may be at higher risk for lower posaconazole plasma concentrations compared to lower weight patients [see Use in Specific Populations (8.10)].
+
+Pediatric Patients:
+
+A total of 12 patients 13 to 17 years of age received 600 mg/day (200 mg three times a day) of Noxafil® oral suspension for prophylaxis of invasive fungal infections.
+Based on pharmacokinetic data in 10 of these pediatric patients, the mean steady-state Cav was similar between these patients and adults (≥18 years of age).
+In a study of 136 neutropenic pediatric patients 11 months to less than 18 years treated with Noxafil® oral suspension, the exposure target of steady-state posaconazole Cavg between 500 ng/mL and less than 2500 ng/mL was attained in approximately 50% of patients instead of the pre-specified 90% of patients.
+
+Drug Interaction Studies:
+
 Posaconazole is primarily metabolized via UDP glucuronidation (phase 2 enzymes) and is a substrate for p-glycoprotein (P-gp) efflux.
 Therefore, inhibitors or inducers of these clearance pathways may affect posaconazole plasma concentrations.
-A summary of drugs studied clinically with the oral suspension or an early tablet formulation, which affect posaconazole concentrations, is provided in Table 27.
+A summary of drugs studied clinically with the oral suspension or another tablet formulation, which affect posaconazole concentrations, is provided in Table 28.
 
-Table 27: Summary of the Effect of Coadministered Drugs on Posaconazole in Healthy Volunteers
+Table 30 include a summary of the drug effects of concomitant medications that may impact the absorption of posaconazole when administered as either the oral suspension or delayed-release tablets.
+
+A clinical study in healthy volunteers also indicates that posaconazole is a strong CYP3A4 inhibitor as evidenced by a >5-fold increase in midazolam AUC.
+Therefore, plasma concentrations of drugs predominantly metabolized by CYP3A4 may be increased by posaconazole.
+A summary of the drugs studied clinically, for which plasma concentrations were affected by posaconazole, is provided in Table 31 [see Contraindications (4) and Drug Interactions (7.2) including recommendations].
+
+Effects of Other Drugs on Posaconazole
+
+Table 28: Summary of the Effects of Coadministered Drugs on Posaconazole in Healthy Volunteers
 
 | Coadministered Drug (Postulated Mechanism of Interaction) | Coadministered Drug Dose/Schedule | Posaconazole Dose/Schedule | Effect on Bioavailability of Posaconazole |  |
 | --- | --- | --- | --- | --- |
 | Change in Mean Cmax (ratio estimate*; 90% CI of the ratio estimate) | Change in Mean AUC (ratio estimate*; 90% CI of the ratio estimate) |  |  |  |
-| Efavirenz (UDP-G Induction) | 400 mg once daily × 10 and 20 days | 400 mg (oral suspension) twice daily × 10 and 20 days | ↓45% (0.55; 0.47-0.66) | ↓45% (0.55; 0.47-0.66) |
+| Efavirenz (UDP-G Induction) | 400 mg once daily × 10 and 20 days | 400 mg (oral suspension) twice daily × 10 and 20 days | ↓45% (0.55; 0.47-0.66) | ↓50% (0.50; 0.43-0.60) |
 | Fosamprenavir (unknown mechanism) | 700 mg twice daily x 10 days | 200 mg once daily on the 1st day, 200 mg twice daily on the 2nd day, then 400 mg twice daily x 8 Days | ↓21% 0.79 (0.71-0.89) | ↓23% 0.77 (0.68-0.87) |
 | Rifabutin (UDP-G Induction) | 300 mg once daily x 17 days | 200 mg (tablets) once daily × 10 days† | ↓ 43% (0.57; 0.43-0.75) | ↓ 49% (0.51; 0.37-0.71) |
 | Phenytoin (UDP-G Induction) | 200 mg once daily x 10 days | 200 mg (tablets) once daily × 10 days† | ↓ 41% (0.59; 0.44-0.79) | ↓ 50% (0.50; 0.36-0.71) |
 | * Ratio Estimate is the ratio of coadministered drug plus posaconazole to posaconazole alone for Cmax or AUC. † The tablet refers to a non-commercial tablet formulation without polymer. |  |  |  |  |
 
-In vitro studies with human hepatic microsomes and clinical studies indicate that posaconazole is an inhibitor primarily of CYP3A4.
-A clinical study in healthy volunteers also indicates that posaconazole is a strong CYP3A4 inhibitor as evidenced by a >5-fold increase in midazolam AUC.
-Therefore, plasma concentrations of drugs predominantly metabolized by CYP3A4 may be increased by posaconazole.
-A summary of the drugs studied clinically, for which plasma concentrations were affected by posaconazole, is provided in Table 28 [see Contraindications (4) and Drug Interactions (7.1) including recommendations].
+Posaconazole Delayed-Release Tablets: Concomitant administration of posaconazole delayed-release tablets with drugs affecting gastric pH or gastric motility did not demonstrate any significant effects on posaconazole pharmacokinetic exposure (see Table 30).
 
-Table 28: Summary of the Effect of Posaconazole on Coadministered Drugs in Healthy Adult Volunteers and Patients
+Table 30: The Effects of Concomitant Medications that Affect the Gastric pH and Gastric Motility on the Pharmacokinetics of Posaconazole Delayed-Release Tablets in Healthy Volunteers
+
+| Coadministered Drug | Administration Arms | Change in Cmax (ratio estimate*; 90% CI of the ratio estimate) | Change in AUC0-last (ratio estimate*; 90% CI of the ratio estimate) |
+| --- | --- | --- | --- |
+| Mylanta® Ultimate strength liquid (Increase in gastric pH) | 25.4 mEq/5 mL, 20 mL | ↑6% (1.06; 0.90 -1.26)↑ | ↑4% (1.04; 0.90 -1.20) |
+| Ranitidine (Zantac®) (Alteration in gastric pH) | 150 mg (morning dose of 150 mg Ranitidine twice daily) | ↑4% (1.04; 0.88 -1.23)↑ | ↓3% (0.97; 0.84 -1.12) |
+| Esomeprazole (Nexium®) (Increase in gastric pH) | 40 mg (every morning for 5 days, Day -4 to 1) | ↑2% (1.02; 0.88-1.17)↑ | ↑5% (1.05; 0.89 -1.24) |
+| Metoclopramide (Reglan®) (Increase in gastric motility) | 15 mg four times daily for 2 days (Day -1 and 1) | ↓14% (0.86, 0.73,1.02) | ↓7% (0.93, 0.803,1.07) |
+| * Ratio Estimate is the ratio of coadministered drug plus posaconazole to posaconazole alone for Cmax or AUC0-last. |  |  |  |
+
+Effects of Posaconazole on Other Drugs:
+
+Table 31: Summary of the Effects of Posaconazole on Coadministered Drugs in Healthy Adult Volunteers and Patients
 
 | Coadministered Drug (Postulated Mechanism of Interaction is Inhibition of CYP3A4 by posaconazole) | Coadministered Drug Dose/Schedule | Posaconazole Dose/ Schedule | Effect on Bioavailability of Coadministered Drugs |  |
 | --- | --- | --- | --- | --- |
@@ -119,58 +185,29 @@ Table 28: Summary of the Effect of Posaconazole on Coadministered Drugs in Healt
 | 300 mg/100 mg once daily x 14 days | 400 mg (oral suspension) twice daily x 7 days | ↑ 53% (1.53; 1.13-2.07) | ↑ 146% (2.46; 1.93-3.13) |  |
 | * Ratio Estimate is the ratio of coadministered drug plus posaconazole to coadministered drug alone for Cmax or AUC. † The tablet refers to a non-commercial tablet formulation without polymer. ‡ The mean terminal half-life of midazolam was increased from 3 hours to 7 to 11 hours during coadministration with posaconazole. |  |  |  |  |
 
-Additional clinical studies demonstrated that no clinically significant effects on zidovudine, lamivudine, indinavir, or caffeine were observed when administered with posaconazole 200 mg once daily; therefore, no dose adjustments are required for these coadministered drugs when coadministered with posaconazole 200 mg once daily.
-
-Excretion:
-
-Following administration of Noxafil® oral suspension, posaconazole is predominantly eliminated in the feces (71% of the radiolabeled dose up to 120 hours) with the major component eliminated as parent drug (66% of the radiolabeled dose).
-Renal clearance is a minor elimination pathway, with 13% of the radiolabeled dose excreted in urine up to 120 hours (<0.2% of the radiolabeled dose is parent drug).
-Posaconazole delayed-release tablet is eliminated with a mean half-life (t½) ranging between 26 to 31 hours.
-
-Specific Patients
-
-No clinically significant differences in the pharmacokinetics of posaconazole were observed based on age, sex, renal impairment, and indication (prophylaxis).
-
-Race/Ethnicity:
-
-In a population pharmacokinetic analysis of posaconazole, AUC was found to be 25% higher in Chinese patients relative to patients from other races/ethnicities.
-This higher exposure is not expected to be clinically relevant given the expected variability in posaconazole exposure.
-
-Patients Weighing More Than 120 kg:
-
-Weight has a clinically significant effect on posaconazole clearance.
-Relative to 70 kg patients, the Cavg is decreased by 25% in patients greater than 120 kg.
-Patients administered posaconazole weighing more than 120 kg may be at higher risk for lower posaconazole plasma concentrations compared to lower weight patients [see Use in Specific Populations (8.10)].
-
-Pediatric Patients
-
-A total of 12 patients 13 to 17 years of age received 600 mg/day (200 mg three times a day) of Noxafil® oral suspension for prophylaxis of invasive fungal infections.
-Based on pharmacokinetic data in 10 of these pediatric patients, the mean steady-state Cav was similar between these patients and adults (≥18 years of age).
-In a study of 136 neutropenic pediatric patients 11 months to less than 18 years treated with Noxafil® oral suspension, the exposure target of steady-state posaconazole Cavg between 500 ng/mL and less than 2,500 ng/mL was attained in approximately 50% of patients instead of the pre-specified 90% of patients.
-
 ## 12.4 Microbiology
 
-Mechanism of Action:
+Mechanism of Action
 
 Posaconazole blocks the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14α-demethylase responsible for the conversion of lanosterol to ergosterol in the fungal cell membrane.
 This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane.
 This may be responsible for the antifungal activity of posaconazole.
 
-Resistance:
+Resistance
 
 Clinical isolates of Candida albicans and Candida glabrata with decreased susceptibility to posaconazole were observed in oral swish samples taken during prophylaxis with posaconazole and fluconazole, suggesting a potential for development of resistance.
 These isolates also showed reduced susceptibility to other azoles, suggesting cross-resistance between azoles.
 The clinical significance of this finding is not known.
 
-Antimicrobial Activity:
+Antimicrobial Activity
 
 Posaconazole has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
 
-Microorganisms:
+Microorganisms
 
 Aspergillus spp. and Candida spp.
 
-Susceptibility Testing:
+Susceptibility Testing
 
 For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see:
 

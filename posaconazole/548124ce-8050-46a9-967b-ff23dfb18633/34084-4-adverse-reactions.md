@@ -2,67 +2,56 @@
 
 The following serious and otherwise important adverse reactions are discussed in detail in another section of the labeling:
 
-- Hypersensitivity [see Contraindications (4.1)]
 - Arrhythmias and QT Prolongation [see Warnings and Precautions (5.2)]
+- Electrolyte Disturbances [see Warnings and Precautions (5.3)]
+- Pseudoaldosteronism [see Warnings and Precautions (5.4)]
 - Hepatic Toxicity [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of posaconazole cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Clinical Trial Experience in Adults
-
-Clinical Trial Experience with Posaconazole Delayed-Release Tablets for Prophylaxis
+Clinical Trial Experience with Posaconazole Delayed-Release Tablets for Prophylaxis of Invasive Aspergillus and Candida Infections
 
 The safety of posaconazole delayed-release tablets has been assessed in 230 patients in clinical trials.
 Patients were enrolled in a non-comparative pharmacokinetic and safety trial of posaconazole delayed-release tablets when given as antifungal prophylaxis (Posaconazole Delayed-Release Tablet Study).
 Patients were immunocompromised with underlying conditions including hematological malignancy, neutropenia post-chemotherapy, GVHD, and post HSCT.
-This patient population was 62% male, had a mean age of 51 years (range 19-78 years, 17% of patients were ≥65 years of age), and were 93% white and 16% Hispanic.
+This patient population was 62% male, had a mean age of 51 years (range 19-78 years, 17% of patients were ≥65 years of age), and were 93% White and 16% Hispanic.
 Posaconazole therapy was given for a median duration of 28 days.
-Twenty patients received 200 mg daily dose and 210 patients received 300 mg daily dose (following twice daily dosing on Day 1 in each cohort).
+In this study, 20 adult patients received 200 mg daily dosage (this is not a recommended dosage [see Dosage and Administration (2.2)]) and 210 adult patients received 300 mg daily dosage (following twice daily dosing on Day 1 in each cohort).
+Table 9 presents adverse reactions (incidence of ≥10%) observed in patients treated with posaconazole delayed-release tablets 300 mg daily dosage in the Posaconazole Delayed-Release Tablet Study.
 
-Table 9 presents adverse reactions observed in patients treated with 300 mg daily dose at an incidence of >10% in posaconazole delayed-release tablet study.
-
-Table 9: Posaconazole Delayed-Release Tablet Study: Adverse Reactions in at Least 10% of Subjects Treated with 300 mg Daily Dose
-
-| Body System | Posaconazole delayed-release tablet (300 mg) n=210 (%) |  |
-| --- | --- | --- |
-| Subjects Reporting any Adverse Reaction | 207 | (99) |
-| Blood and Lymphatic System Disorder |  |  |
-| Anemia | 22 | (10) |
-| Thrombocytopenia | 29 | (14) |
-| Gastrointestinal Disorders |  |  |
-| Abdominal Pain | 23 | (11) |
-| Constipation | 20 | (10) |
-| Diarrhea | 61 | (29) |
-| Nausea | 56 | (27) |
-| Vomiting | 28 | (13) |
-| General Disorders and Administration Site Conditions |  |  |
-| Asthenia | 20 | (10) |
-| Chills | 22 | (10) |
-| Mucosal Inflammation | 29 | (14) |
-| Edema Peripheral | 33 | (16) |
-| Pyrexia | 59 | (28) |
-| Metabolism and Nutrition Disorders |  |  |
-| Hypokalemia | 46 | (22) |
-| Hypomagnesemia | 20 | (10) |
-| Nervous System Disorders |  |  |
-| Headache | 30 | (14) |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |
-| Cough | 35 | (17) |
-| Epistaxis | 30 | (14) |
-| Skin and Subcutaneous Tissue Disorders |  |  |
-| Rash | 34 | (16) |
-| Vascular Disorders |  |  |
-| Hypertension | 23 | (11) |
-
-The most frequently reported adverse reactions (>25%) with posaconazole delayed-release tablets 300 mg once daily were diarrhea, pyrexia, and nausea.
-
+The most frequently reported adverse reactions (>25%) in patients treated with posaconazole delayed-release tablets 300 mg once daily were diarrhea, pyrexia, and nausea.
 The most common adverse reaction leading to discontinuation of posaconazole delayed-release tablets 300 mg once daily was nausea (2%).
+
+Table 9: Adverse Reactions in at least 10% of Adults Receiving Posaconazole Delayed-Release Tablets (300 mg Daily Dosage) for the Prophylaxis of Invasive Aspergillus and Candida infections
+
+| Adverse Reactions | Posaconazole delayed-release tablet (300 mg) n=210 (%) |
+| --- | --- |
+| Percentage of Patients Reporting any Adverse Reaction | 99 |
+| Diarrhea | 29 |
+| Pyrexia | 28 |
+| Nausea | 27 |
+| Hypokalemia | 22 |
+| Cough | 17 |
+| Edema Peripheral | 16 |
+| Rash | 16 |
+| Epistaxis | 14 |
+| Headache | 14 |
+| Mucosal Inflammation | 14 |
+| Thrombocytopenia | 14 |
+| Vomiting | 13 |
+| Abdominal Pain | 11 |
+| Hypertension | 11 |
+| Anemia | 10 |
+| Asthenia | 10 |
+| Chills | 10 |
+| Constipation | 10 |
+| Hypomagnesemia | 10 |
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reaction has been identified during the post-approval use of posaconazole.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Endocrine Disorders: Pseudoaldosteronism

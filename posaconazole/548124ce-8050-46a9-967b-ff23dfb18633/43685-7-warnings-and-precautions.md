@@ -2,7 +2,7 @@
 
 ## 5.1 Calcineurin-Inhibitor Toxicity
 
-Concomitant administration of posaconazole with cyclosporine or tacrolimus increases the whole blood trough concentrations of these calcineurin-inhibitors [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+Concomitant administration of posaconazole with cyclosporine or tacrolimus increases the whole blood trough concentrations of these calcineurin-inhibitors [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 Nephrotoxicity and leukoencephalopathy (including deaths) have been reported in clinical efficacy studies in patients with elevated cyclosporine or tacrolimus concentrations.
 Frequent monitoring of tacrolimus or cyclosporine whole blood trough concentrations should be performed during and at discontinuation of posaconazole treatment and the tacrolimus or cyclosporine dose adjusted accordingly.
 
@@ -45,18 +45,18 @@ Discontinuation of posaconazole must be considered if clinical signs and symptom
 
 ## 5.6 Renal Impairment
 
-Due to the variability in exposure with Posaconazole delayed-release tablets, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2.9) and Use in Specific Populations (8.6)].
+Due to the variability in exposure with Posaconazole delayed-release tablets, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2.11) and Use in Specific Populations (8.6)].
 
 ## 5.7 Midazolam Toxicity
 
 Concomitant administration of posaconazole with midazolam increases the midazolam plasma concentrations by approximately 5-fold.
 Increased plasma midazolam concentrations could potentiate and prolong hypnotic and sedative effects.
-Patients must be monitored closely for adverse effects associated with high plasma concentrations of midazolam and benzodiazepine receptor antagonists must be available to reverse these effects [see Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
+Patients must be monitored closely for adverse effects associated with high plasma concentrations of midazolam and benzodiazepine receptor antagonists must be available to reverse these effects [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
 ## 5.8 Vincristine Toxicity
 
 Concomitant administration of azole antifungals, including posaconazole, with vincristine has been associated with neurotoxicity and other serious adverse reactions, including seizures, peripheral neuropathy, syndrome of inappropriate antidiuretic hormone secretion, and paralytic ileus.
-Reserve azole antifungals, including posaconazole, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options [see Drug Interactions (7.10)].
+Reserve azole antifungals, including posaconazole, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options [see Drug Interactions (7.2)].
 
 ## 5.10 Breakthrough Fungal Infections
 
@@ -68,5 +68,5 @@ Concomitant administration of posaconazole, a strong CYP3A4 inhibitor, with vene
 In patients with CLL/SLL, administration of posaconazole during initiation and the ramp-up phase of venetoclax is contraindicated [see Contraindications (4.6)].
 Refer to the venetoclax labeling for safety monitoring and dose reduction in the steady daily dosing phase in CLL/SLL patients.
 
-For patients with acute myeloid leukemia (AML), dose reduction and safety monitoring are recommended across all dosing phases when coadministering posaconazole with venetoclax [see Drug Interactions (7.16)].
+For patients with acute myeloid leukemia (AML), dose reduction and safety monitoring are recommended across all dosing phases when coadministering posaconazole with venetoclax [see Drug Interactions (7.2)].
 Refer to the venetoclax prescribing information for dosing instructions.
