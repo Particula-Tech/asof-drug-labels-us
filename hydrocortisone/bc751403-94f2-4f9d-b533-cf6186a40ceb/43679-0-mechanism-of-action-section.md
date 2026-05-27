@@ -4,4 +4,4 @@ Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also h
 Their synthetic analogs are primarily used for their potent anti-inflammatory effects in disorders of many organ systems.
 
 Glucocorticoids cause profound and varied metabolic effects.
-In addition, they modify the body's immune responses to diverse stimuli.
+In addition, they modify the body’s immune responses to diverse stimuli.
