@@ -36,7 +36,7 @@ Because of the potential for serious adverse reactions in a breastfed child, ins
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Methotrexate can cause malformations and fetal death at doses less than or equal to the recommended clinical doses [Use in Specific Populations (8.1)].
+Methotrexate can cause malformations and fetal death at doses less than or equal to the recommended clinical doses [see Use in Specific Populations (8.1)].
 
 Pregnancy Testing
 

@@ -1,4 +1,4 @@
-# WARNING: EMBRYO-FETAL TOXICITY, HYPERSENSITIVITY REACTIONS, SEVERE ADVERSE REACTIONS and RISK OF MEDICATION ERRORS
+# WARNING: EMBRYO-FETAL TOXICITY, HYPERSENSITIVITY REACTIONS, SEVERE ADVERSE REACTIONS, and RISK OF MEDICATION ERRORS
 
 - •Methotrexate Tablets can cause embryo-fetal toxicity, including fetal death.
   For non-neoplastic diseases, Methotrexate Tablets are contraindicated in pregnancy.

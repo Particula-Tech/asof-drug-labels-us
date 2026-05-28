@@ -40,7 +40,7 @@ Renal Toxicity
 
 Advise patients and their caregivers to immediately contact their healthcare provider for signs or symptoms of renal toxicity, such as marked increases or decreases in urinary output [see Warnings and Precautions (5.8)].
 
-Risk of Serious Adverse Reactions with Medication Error
+Risk of Fatal Adverse Reactions with Medication Error
 
 For patients who are prescribed a once weekly dosing regimen, advise patients and caregivers that the recommended dosage is to be taken once weekly as a single dose and that mistakenly taking the recommended weekly dosage once daily has led to fatal adverse reactions [see Warnings and Precautions (5.9)].
 
@@ -70,4 +70,4 @@ Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000762/02 Revised March 2026
+C50000762/02 Revised May 2026

@@ -1,7 +1,6 @@
 # 10 OVERDOSAGE
 
-Overdosage, including fatal overdosage, has occurred with methotrexate [see Warnings and Precautions (5.
-9)].
+Overdosage, including fatal overdosage, has occurred with methotrexate [see Warnings and Precautions (5.9)].
 
 Manifestations
 
