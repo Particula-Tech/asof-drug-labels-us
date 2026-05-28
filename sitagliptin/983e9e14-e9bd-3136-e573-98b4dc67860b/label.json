@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA202425"
+  ],
+  "inn": "sitagliptin",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-3643-3",
+    "60505-3643-9",
+    "60505-3644-3",
+    "60505-3644-9",
+    "60505-3645-3",
+    "60505-3645-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sitagliptin",
+      "name": "Sitagliptin"
+    }
+  ],
+  "setid": "983e9e14-e9bd-3136-e573-98b4dc67860b",
+  "source": "dailymed"
+}

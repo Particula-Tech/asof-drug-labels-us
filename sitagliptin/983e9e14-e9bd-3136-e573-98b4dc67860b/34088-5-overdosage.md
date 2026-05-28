@@ -1,0 +1,10 @@
+# 10 OVERDOSAGE
+
+In the event of an overdose with sitagliptin tablets, contact the Poison Control Center.
+
+In the event of an overdose, it is reasonable to employ supportive measures, e.g., remove unabsorbed material from the gastrointestinal tract, employ clinical monitoring (including obtaining an electrocardiogram), and institute supportive therapy as dictated by the patient's clinical status.
+
+Sitagliptin is modestly dialyzable.
+In clinical studies, approximately 13.5% of the dose was removed over a 3- to 4-hour hemodialysis session.
+Prolonged hemodialysis may be considered if clinically appropriate.
+It is not known if sitagliptin is dialyzable by peritoneal dialysis.
