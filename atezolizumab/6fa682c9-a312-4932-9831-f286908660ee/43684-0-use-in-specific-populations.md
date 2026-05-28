@@ -62,7 +62,7 @@ The safety and effectiveness of TECENTRIQ for ASPS have not been established in 
 
 Solid Tumors and Lymphomas
 
-The safety and effectiveness of TECENTRIQ in pediatric patients have not been established in non-small cell lung cancer, small-cell lung cancer, hepatocellular carcinoma, or melanoma.
+The safety and effectiveness of TECENTRIQ in pediatric patients have not been established in non-small cell lung cancer, small-cell lung cancer, hepatocellular carcinoma, melanoma, or muscle invasive bladder cancer.
 
 The safety and effectiveness of TECENTRIQ were assessed, but not established in a single-arm, multi-center, multi-cohort trial (NCT02541604) in 60 pediatric patients aged 7 months to <17 years with relapsed or progressive solid tumors and lymphomas.
 No new safety signals were observed in pediatric patients in this study.
@@ -72,6 +72,8 @@ No new safety signals were observed in pediatric patients in this study.
 TECENTRIQ as a Single-Agent
 
 Of 2616 patients with metastatic NSCLC and other tumor types treated with single agent TECENTRIQ in clinical studies, 49% were 65 years and over and 15% were 75 years and over.
+
+Of the 167 patients with MIBC treated with TECENTRIQ in IMvigor011, 117 (70%) patients were 65 years of age and older and 44 (26%) patients were 75 years of age and older.
 
 No overall differences in safety or effectiveness were observed between patients aged 65 years or older and younger patients.
 

@@ -1,15 +1,19 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection for Treatment of Non-Small Cell Lung Cancer and Melanoma
+## 2.1 Patient Selection for Treatment of Non-Small Cell Lung Cancer, Melanoma, and Muscle Invasive Bladder Cancer
 
 Select patients with Stage II to IIIA non-small cell lung cancer for treatment with TECENTRIQ as a single agent based on PD-L1 expression on tumor cells [see Clinical Studies (14.1)].
 
 Select patients with first-line metastatic non-small cell lung cancer for treatment with TECENTRIQ as a single agent based on the PD-L1 expression on tumor cells or on tumor-infiltrating immune cells [see Clinical Studies (14.1)].
 
-Information on FDA-approved tests for the determination of PD-L1 expression in metastatic non-small cell lung cancer are available at: http://www.fda.gov/CompanionDiagnostics.
+Information on FDA-authorized tests for the determination of PD-L1 expression in metastatic non-small cell lung cancer are available at: http://www.fda.gov/CompanionDiagnostics.
 
 Select patients with unresectable or metastatic melanoma for treatment with TECENTRIQ in combination with cobimetinib and vemurafenib after confirming the presence of a BRAF V600 mutation [see Clinical Studies (14.4)].
-Information on FDA-approved tests for the detection of BRAF V600 mutations in melanoma is available at: http://www.fda.gov/CompanionDiagnostics.
+Information on FDA-authorized tests for the detection of BRAF V600 mutations in melanoma is available at: http://www.fda.gov/CompanionDiagnostics.
+
+Select patients with muscle invasive bladder cancer for treatment with TECENTRIQ as a single agent based on detection of ctDNA MRD in plasma via serial testing between six weeks and one year after cystectomy [see Clinical Studies (14.6)].
+
+Information on FDA-authorized tests for the determination of ctDNA MRD status in MIBC is available at: http://www.fda.gov/CompanionDiagnostics.
 
 ## 2.2 Recommended Dosage
 
@@ -25,6 +29,7 @@ Table 1: Recommended Dosage of TECENTRIQ as a Single Agent
 | Adjuvant Treatment of NSCLC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks | Up to one year, unless there is disease recurrence or unacceptable toxicity |
 | ASPS (adult) | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks | Until disease progression or unacceptable toxicity |
 | ASPS (pediatric, 2 years of age and older) | 15 mg/kg (up to a maximum 1200 mg) every 3 weeks |  |
+| MIBC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks | Up to one year, unless there is disease recurrence or unacceptable toxicity |
 
 The recommended intravenous dosages of TECENTRIQ in combination with other therapeutic agents are presented in Table 2.
 Refer to the respective Prescribing Information for each therapeutic agent administered in combination with TECENTRIQ for the recommended dosage information, as appropriate.
@@ -76,7 +81,7 @@ Table 3: Recommended Dosage Modifications for Adverse Reactions
 
 Preparation
 
-Visually inspect drug product for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Discard the vial if the solution is cloudy, discolored, or visible particles are observed.
 Do not shake the vial.
 
@@ -84,8 +89,8 @@ Prepare the solution for infusion as follows:
 
 - Select the appropriate vial(s) based on the prescribed dose.
 - Withdraw the required volume of TECENTRIQ from the vial(s) using sterile needle and syringe.
-- Dilute to a final concentration between 3.2 mg/mL and 16.8 mg/mL in a polyvinyl chloride (PVC), polyethylene (PE), or polyolefin (PO) infusion bag containing 0.9% Sodium Chloride Injection, USP.
-- Dilute with only 0.9% Sodium Chloride Injection, USP.
+- Dilute in an infusion bag containing 0.9% Sodium Chloride Injection, USP to a final concentration between 3.2 mg/mL and 16.8 mg/mL.
+- TECENTRIQ is compatible with an infusion bag made of polyvinyl chloride (PVC), polyethylene (PE), or polyolefin (PO).
 - Mix diluted solution by gentle inversion.
   Do not shake.
 - Discard used or empty vials of TECENTRIQ.

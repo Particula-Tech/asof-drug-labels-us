@@ -43,8 +43,8 @@ Atezolizumab serum concentrations with weight-based dosing at 15 mg/kg up to a m
 The observed incidence of anti-drug antibodies (ADA) is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of ADA in the studies described below with the incidence of ADA in other products.
 
-During the first year of treatment with TECENTRIQ across 8 clinical studies, 13% to 36% of patients developed anti-atezolizumab antibodies.
-Median atezolizumab clearance in patients who tested positive for ADA was 19% (minimum 18%, maximum 49%) higher as compared to atezolizumab clearance in patients who tested negative for ADA; this change in clearance is not expected to be clinically significant.
+During the first year of treatment with TECENTRIQ across 9 clinical studies, 13% to 36% of patients developed ADA to atezolizumab.
+Median atezolizumab clearance in patients who tested positive for ADA was 20% (minimum 10%, maximum 49%) higher as compared to atezolizumab clearance in patients who tested negative for ADA; this change in clearance is not expected to be clinically significant.
 
 In OAK and IMbrave150, exploratory analyses showed that the subset of patients who were ADA-positive appeared to have less efficacy (effect on overall survival) as compared to patients who tested negative for ADA [see Clinical Studies (14.1, 14.3)].
 In study IMpower150 and IMforte, the impact of ADA on efficacy did not appear to be clinically significant [see Clinical Studies (14.1)].
