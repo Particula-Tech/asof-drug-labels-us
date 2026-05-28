@@ -103,7 +103,7 @@ Check linezolid solution for clarity; it may exhibit a yellow color that intensi
 DOSAGE AND USE: See accompanying prescribing information.
 DISCARD UNUSED PORTION.
 The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
-MADE IN SINGAPORE
+MADE IN INDIA
 
 Pfizer Hospital
 
@@ -113,7 +113,7 @@ Distributed by Pharmacia & Upjohn Co. LLC A subsidiary of Pfizer Inc. New York, 
 
 freeflex
 
-1234567890 FUU 0703 01-68-26-020G
+1234567890 FUU 0703 01-68-26-020H
 
 LOT EXP
 
@@ -137,7 +137,6 @@ Retain overwrap prior to use.
 DOSAGE AND USE: See accompanying prescribing information.
 DISCARD UNUSED PORTION.
 The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
-MADE IN SINGAPORE
 
 Pfizer Hospital
 
@@ -145,7 +144,7 @@ Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New Yo
 
 7 OTHER
 
-FUU 0703 01-78-26-020H
+FUU 0703 01-78-26-020I
 
 LOT YYMDDU00 EXP YYYY-MM
 
@@ -153,19 +152,17 @@ LOT YYMDDU00 EXP YYYY-MM
 
 NDC 0009-5140-04 Contains 10 of NDC 0009-5140-01 QUANTITY: 1 (10 IV BAGS X 300 mL)
 
-ZYVOX® (linezolid) injection 600 mg/300mL (2 mg/mL)
-
-RX ONLY STORE AT 25°C (77°F); EXCURSIONS PERMITTED TO 15-30°C (59-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE].
+ZYVOX® (linezolid) injection 600 mg/300mL (2 mg/mL) STORE AT 25°C (77°F); EXCURSIONS PERMITTED TO 15-30°C (59-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE].
 DO NOT FREEZE.
 DISCARD UNUSED PORTION.The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
 
-Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New York, NY 10001 MADE IN SINGAPORE
+Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New York, NY 10001 MADE IN INDIA
 
 EXP YYYY-MM LOT 00000000 QTY: 01
 
 04.30.034
 
-FUU 0703 01-88-26-020M
+FUU 0703 01-88-26-020N
 
 # PRINCIPAL DISPLAY PANEL - 150 mL Bottle Label
 
