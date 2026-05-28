@@ -31,10 +31,10 @@ In utero exposure to decitabine causes temporal-related defects in the rat and/o
 Decitabine inhibits proliferation and increases apoptosis of neural progenitor cells of the fetal central nervous system (CNS) and induces palatal clefting in the developing murine fetus.
 Studies in mice have also shown that decitabine administration during osteoblastogenesis (Day 10 of gestation) induces bone loss in offspring.
 
-In mice exposed to single intraperitoneal decitabine injections (0, 0.9 and 3.0 mg/m2, approximately 2% and 7% of the recommended daily clinical dose, respectively) over gestation Days 8, 9, 10 or 11, no maternal toxicity was observed, but reduced fetal survival was observed after treatment at 3 mg/m2 and decreased fetal weight was observed at both dose levels.
+In mice exposed to single intraperitoneal decitabine injections (0, 0.9 and 3.0 mg/m2, approximately 2% and 7% of the recommended daily clinical dose, respectively) over gestation Days 8, 9, 10, or 11, no maternal toxicity was observed, but reduced fetal survival was observed after treatment at 3 mg/m2 and decreased fetal weight was observed at both dose levels.
 The 3 mg/m2 dose elicited characteristic fetal defects for each treatment day, including supernumerary ribs (both dose levels), fused vertebrae and ribs, cleft palate, vertebral defects, hind-limb defects, and digital defects of fore- and hind-limbs.
 
-In rats given a single intraperitoneal injection of 2.4, 3.6 or 6 mg/m2 decitabine (approximately 5, 8, or 13% the daily recommended clinical dose, respectively) on gestation Days 9-12, no maternal toxicity was observed.
+In rats given a single intraperitoneal injection of 2.4, 3.6, or 6 mg/m2 decitabine (approximately 5, 8, or 13% the daily recommended clinical dose, respectively) on gestation Days 9-12, no maternal toxicity was observed.
 No live fetuses were seen at any dose when decitabine was injected on gestation Day 9.
 A significant decrease in fetal survival and reduced fetal weight at doses greater than 3.6 mg/m2 was seen when decitabine was given on gestation Day 10.
 Increased incidences of vertebral and rib anomalies were seen at all dose levels, and induction of exophthalmia, exencephaly, and cleft palate were observed at 6.0 mg/m2.
@@ -83,8 +83,15 @@ The safety and effectiveness of INQOVI have not been established in pediatric pa
 
 ## 8.5 Geriatric Use
 
+Myelodysplastic Syndromes/Chronic Myelomonocytic Leukemia
+
 Of the 208 patients in clinical studies who received INQOVI, 75% were age 65 years and older, while 36% were age 75 years and older.
 No overall differences in safety or effectiveness were observed between patients age 65 years and older, 75 years and older, and younger patients.
+
+Acute Myeloid Leukemia
+
+Of the 159 patients in the clinical study who received INQOVI in combination with venetoclax, 30% were age under 75 years old, while 70% were age 75 years and older.
+No overall differences in safety or effectiveness were observed in patients under 75 years of age versus 75 years and older.
 
 ## 8.6 Renal Impairment
 

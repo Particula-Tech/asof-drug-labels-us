@@ -10,8 +10,8 @@ Decitabine also caused chromosomal rearrangements in larvae of fruit flies.
 Cedazuridine was genotoxic in a reverse bacterial mutation assay (Ames assay) and in an in vitro chromosomal aberration study using human lymphocytes.
 
 Fertility and repeat-dose toxicity studies in animals showed adverse outcomes on reproductive function and fertility.
-In male mice given intraperitoneal injections of 0.15, 0.3, or 0.45 mg/m2 decitabine (approximately 0.3% to 1% the recommended clinical dose) 3 times a week for 7 weeks, testes weights were reduced, abnormal histology was observed, and significant decreases in sperm number were found at doses ≥ 0.3 mg/m2.
-In females mated to males dosed with ≥ 0.3 mg/m2 decitabine, pregnancy rate was reduced, and preimplantation loss was significantly increased.
+In male mice given intraperitoneal injections of 0.15, 0.3, or 0.45 mg/m2 decitabine (approximately 0.3% to 1% the recommended clinical dose) 3 times a week for 7 weeks, testes weights were reduced, abnormal histology was observed, and significant decreases in sperm number were found at doses ≥0.3 mg/m2.
+In females mated to males dosed with ≥0.3 mg/m2 decitabine, pregnancy rate was reduced, and preimplantation loss was significantly increased.
 
 Decitabine was administered orally to rats at 0.75, 2.5, or 7.5 mg/kg/day in cycles of 5-days-on/23-days-off for a total of 90 days.
 Low testes and epididymis weights, abnormal histology, and reduced sperm number were observed at doses ≥ 0.75 mg/kg.
