@@ -25,5 +25,3 @@ The syringe plunger stopper and needle cap are not made with natural rubber late
 Rx Only
 
 SANDOZ
-
-A Novartis Division
