@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-Clinical Effects of Overdose:
+Clinical Effects of Overdose
 
 Overdose of CNS stimulants is characterized by the following sympathomimetic effects:
 
@@ -11,7 +11,7 @@ Overdose of CNS stimulants is characterized by the following sympathomimetic eff
   Serotonin syndrome, seizures, cerebral vascular accidents, and coma may occur.
 - •Life-threatening hyperthermia (temperatures greater than 104°F) and rhabdomyolysis may develop.
 
-Overdose Management:
+Overdose Management
 
 Consider the possibility of multiple drug ingestion.
 The pharmacokinetic profile of lisdexamfetamine dimesylate should be considered when treating patients with overdose.

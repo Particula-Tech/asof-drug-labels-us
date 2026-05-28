@@ -26,11 +26,13 @@ Intravenous administration of 50 mg lisdexamfetamine dimesylate to individuals w
 
 ## 9.3 Dependence
 
-Physical Dependence: Lisdexamfetamine dimesylate capsules may produce physical dependence.
-Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal
+Physical Dependence
 
-signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+Lisdexamfetamine dimesylate capsules may produce physical dependence.
+Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 Withdrawal signs and symptoms after abrupt discontinuation or dose reduction following prolonged use of CNS stimulants including Lisdexamfetamine dimesylate capsules include dysphoric mood; depression; fatigue; vivid, unpleasant dreams; insomnia or hypersomnia; increased appetite; and psychomotor retardation or agitation.
 
-Tolerance: Lisdexamfetamine dimesylate capsules may produce tolerance.
+Tolerance
+
+Lisdexamfetamine dimesylate capsules may produce tolerance.
 Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).

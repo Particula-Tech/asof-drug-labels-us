@@ -20,18 +20,24 @@ Avoid lisdexamfetamine dimesylate capsules use in patients with known structural
 ## 5.3 Increased Blood Pressure and Heart Rate
 
 CNS stimulants cause an increase in blood pressure (mean increase about 2 to 4 mm Hg) and heart rate (mean increase about 3 to 6 bpm).
-Some patients may have a larger increases.
+Some patients may have larger increases.
 
 Monitor all lisdexamfetamine dimesylate capsules-treated patients for potential tachycardia and hypertension.
 
 ## 5.4 Psychiatric Adverse Reactions
 
-Exacerbation of Pre-existing Psychosis: CNS stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
+Exacerbation of Pre-existing Psychosis
 
-Induction of a Manic Episode in Patients with Bipolar Disorder: CNS stimulants may induce a manic or mixed episode.
+CNS stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
+
+Induction of a Manic Episode in Patients with Bipolar Disorder
+
+CNS stimulants may induce a manic or mixed episode.
 Prior to initiating lisdexamfetamine dimesylate capsules treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms or a family history of suicide, bipolar disorder, and depression).
 
-New Psychotic or Manic Symptoms: CNS stimulants, at the recommended dosage, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
+New Psychotic or Manic Symptoms
+
+CNS stimulants, at the recommended dosage, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
 In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients compared to 0% of placebo-treated patients.
 If such symptoms occur, consider discontinuing lisdexamfetamine dimesylate capsules.
 

@@ -52,7 +52,7 @@ Specific Populations
 
 Exposures of dextroamphetamine in specific populations are summarized in Figure 1.
 
-Figure 1: Specific Populations*:
+- 
 
 *Figure 1 shows the geometric mean ratios and the 90% confidence limits for Cmax and AUC of d-amphetamine.
 Comparison for gender uses males as the reference.
@@ -62,8 +62,6 @@ Drug Interaction Studies
 
 Effects of other drugs on the exposures of dextroamphetamine are summarized in Figure 2.
 
-Figure 2: Effect of Other Drugs on Lisdexamfetamine Dimesylate:
+- 
 
 The effects of Lisdexamfetamine dimesylate on the exposures of other drugs are summarized in Figure 3.
-
-Figure 3: Effect of Lisdexamfetamine Dimesylate on Other Drugs:

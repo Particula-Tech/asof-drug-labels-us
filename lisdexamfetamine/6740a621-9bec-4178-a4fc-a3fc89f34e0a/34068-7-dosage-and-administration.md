@@ -12,7 +12,7 @@ Prior to treating patients with lisdexamfetamine dimesylate capsules, assess:
 Take lisdexamfetamine dimesylate capsules orally in the morning with or without food; avoid afternoon doses because of the potential for insomnia.
 Lisdexamfetamine dimesylate capsules may be administered in one of the following ways:
 
-Information for lisdexamfetamine dimesylate capsules:
+Information for Lisdexamfetamine Dimesylate Capsules
 
 - •Swallow lisdexamfetamine dimesylate capsules whole, or
 - •Open capsules, empty and mix the entire contents with yogurt, water, or orange juice.

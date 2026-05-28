@@ -2,7 +2,9 @@
 
 ## 14.1 Attention Deficit Hyperactivity Disorder (ADHD)
 
-Pediatric Patients Ages 6 to 12 Years with ADHD: A double-blind, randomized, placebo-controlled, parallel-group study (Study 1) was conducted in pediatric patients ages 6 to 12 years (N=290) who met DSM-IV criteria for ADHD (either the combined type or the hyperactive-impulsive type).
+Pediatric Patients Ages 6 to 12 Years with ADHD
+
+A double-blind, randomized, placebo-controlled, parallel-group study (Study 1) was conducted in pediatric patients ages 6 to 12 years (N=290) who met DSM-IV criteria for ADHD (either the combined type or the hyperactive-impulsive type).
 Patients were randomized to receive final doses of 30 mg, 50 mg, or 70 mg of lisdexamfetamine dimesylate or placebo once daily in the morning for a total of four weeks of treatment.
 All patients receiving lisdexamfetamine dimesylate were initiated on 30 mg for the first week of treatment.
 Patients assigned to the 50 mg and 70 mg dose groups were titrated by 20 mg per week until they achieved their assigned dose.
@@ -22,7 +24,9 @@ A second double-blind, placebo-controlled, randomized, crossover design, analog 
 Following a 4-week open-label dose optimization with lisdexamfetamine dimesylate (30 mg, 50 mg, 70 mg), patients were randomly assigned to continue their optimized dose of lisdexamfetamine dimesylate or placebo once daily in the morning for 1 week each treatment.
 A significant difference in patient behavior, based upon the average of investigator ratings on the SKAMP-Deportment scores across all 7 assessments conducted at 1.5, 2.5, 5.0, 7.5, 10.0, 12.0, and 13.0 hours post-dose, were observed between patients when they received lisdexamfetamine dimesylate compared to patients when they received placebo (Study 3 in Table 6, Figure 4).
 
-Pediatric Patients Ages 13 to 17 Years with ADHD: A double-blind, randomized, placebo-controlled, parallel-group study (Study 4) was conducted in pediatric patients ages 13 to 17 years (N=314) who met DSM-IV criteria for ADHD.
+Pediatric Patients Ages 13 to 17 Years with ADHD
+
+A double-blind, randomized, placebo-controlled, parallel-group study (Study 4) was conducted in pediatric patients ages 13 to 17 years (N=314) who met DSM-IV criteria for ADHD.
 In this study, patients were randomized in a 1:1:1:1 ratio to a daily morning dose of lisdexamfetamine dimesylate (30 mg/day, 50 mg/day or 70 mg/day) or placebo for a total of four weeks of treatment.
 All patients receiving lisdexamfetamine dimesylate were initiated on 30 mg for the first week of treatment.
 Patients assigned to the 50 mg and 70 mg dose groups were titrated by 20 mg per week until they achieved their assigned dose.
@@ -30,7 +34,9 @@ The primary efficacy outcome was change in Total Score from baseline to endpoint
 Endpoint was defined as the last post-randomization treatment week (i.e., Weeks 1 through 4) for which a valid score was obtained.
 All lisdexamfetamine dimesylate dose groups were superior to placebo in the primary efficacy outcome (Study 4 in Table 6).
 
-Pediatric Patients Ages 6 to 17 Years: Short-Term Treatment in ADHD: A double-blind, randomized, placebo- and active-controlled parallel-group, dose-optimization study (Study 5) was conducted in pediatric patients ages 6 to 17 years (n=336) who met DSM-IV criteria for ADHD.
+Pediatric Patients Ages 6 to 17 Years: Short-Term Treatment in ADHD
+
+A double-blind, randomized, placebo- and active-controlled parallel-group, dose-optimization study (Study 5) was conducted in pediatric patients ages 6 to 17 years (n=336) who met DSM-IV criteria for ADHD.
 In this eight-week study, patients were randomized to a daily morning dose of lisdexamfetamine dimesylate (30, 50 or 70 mg/day), an active control, or placebo (1:1:1).
 The study consisted of a Screening and Washout Period (up to 42 days), a 7-week Double-blind Evaluation Period (consisting of a 4-week Dose-Optimization Period followed by a 3-week Dose-Maintenance Period), and a 1-week Washout and Follow-up Period.
 During the Dose Optimization Period, subjects were titrated until an optimal dose, based on tolerability and investigator’s judgment, was reached.
@@ -38,7 +44,9 @@ Lisdexamfetamine dimesylate showed significantly greater efficacy than placebo.
 The placebo-adjusted mean reduction from baseline in the ADHD-RS-IV total score was 18.6.
 Subjects on lisdexamfetamine dimesylate also showed greater improvement on the Clinical Global Impression-Improvement (CGI-I) rating scale compared to subjects on placebo (Study 5 in Table 6).
 
-Pediatric Patients Ages 6 to 17 Years: Maintenance Treatment in ADHD: Maintenance of Efficacy Study (Study 6) - A double-blind, placebo-controlled, randomized withdrawal study was conducted in pediatric patients ages 6 to 17 years (N=276) who met the diagnosis of ADHD (DSM-IV criteria).
+Pediatric Patients Ages 6 to 17 Years: Maintenance Treatment in ADHD
+
+Maintenance of Efficacy Study (Study 6) - A double-blind, placebo-controlled, randomized withdrawal study was conducted in pediatric patients ages 6 to 17 years (N=276) who met the diagnosis of ADHD (DSM-IV criteria).
 A total of 276 patients were enrolled into the study, 236 patients participated in Study 5 and 40 subjects directly enrolled.
 Subjects were treated with open-label lisdexamfetamine dimesylate for at least 26 weeks prior to being assessed for entry into the randomized withdrawal period.
 Eligible patients had to demonstrate treatment response as defined by CGI-S <3 and Total Score on the ADHD-RS ≤22.
@@ -49,7 +57,9 @@ The endpoint measurement was defined as the last post-randomization treatment we
 Treatment failure was defined as a ≥50% increase (worsening) in the ADHD-RS Total Score and a ≥2-point increase in the CGI-S score compared to scores at entry into the double-blind randomized withdrawal phase.
 Subjects who withdrew from the randomized withdrawal period and who did not provide efficacy data at their last on-treatment visit were classified as treatment failures (Study 6, Figure 5).
 
-Adults: Short-Term Treatment in ADHD: A double-blind, randomized, placebo-controlled, parallel-group study (Study 7) was conducted in adults ages 18 to 55 (N=420) who met DSM-IV criteria for ADHD.
+Adults: Short-Term Treatment in ADHD
+
+A double-blind, randomized, placebo-controlled, parallel-group study (Study 7) was conducted in adults ages 18 to 55 (N=420) who met DSM-IV criteria for ADHD.
 In this study, patients were randomized to receive final doses of 30 mg, 50 mg, or 70 mg of lisdexamfetamine dimesylate or placebo for a total of four weeks of treatment.
 All patients receiving lisdexamfetamine dimesylate were initiated on 30 mg for the first week of treatment.
 Patients assigned to the 50 mg and 70 mg dose groups were titrated by 20 mg per week until they achieved their assigned dose.
@@ -65,7 +75,9 @@ PERMP total score results from the sum of the number of math problems attempted 
 Lisdexamfetamine dimesylate treatment, compared to placebo, resulted in a statistically significant improvement in attention across all post-dose time points, as measured by average PERMP total scores over the course of one assessment day, as well as at each time point measured.
 The PERMP assessments were administered at pre-dose (-0.5 hours) and at 2, 4, 8, 10, 12, and 14 hours post-dose (Study 8 in Table 6, Figure 6).
 
-Adults: Maintenance Treatment in ADHD: A double-blind, placebo-controlled, randomized withdrawal design study (Study 9) was conducted in adults ages 18 to 55 (N=123) who had a documented diagnosis of ADHD or met DSM-IV criteria for ADHD.
+Adults: Maintenance Treatment in ADHD
+
+A double-blind, placebo-controlled, randomized withdrawal design study (Study 9) was conducted in adults ages 18 to 55 (N=123) who had a documented diagnosis of ADHD or met DSM-IV criteria for ADHD.
 At study entry, patients must have had documentation of treatment with lisdexamfetamine dimesylate for a minimum of 6 months and had to demonstrate treatment response as defined by Clinical Global Impression Severity (CGI-S) ≤3 and Total Score on the ADHD-RS <22.
 ADHD-RS Total Score is a measure of core symptoms of ADHD.
 The CGI-S score assesses the clinician’s impression of the patient’s current illness state and ranges from 1 (not at all ill) to 7 (extremely ill).
@@ -79,27 +91,27 @@ Table 6: Summary of Primary Efficacy Results from Short-term Studies of Lisdexam
 
 Pediatric Patients (Ages 6 to 17) and Adults with ADHD
 
-| Study Number (Age range) | Primary Endpoint | Treatment Group | Mean Baseline Score(SD) | LS Mean Changefrom Baseline (SE) | Placebo-subtractedDifferencea (95% CI) |
+| Study Number (Age range) | Primary Endpoint | Treatment Group | Mean Baseline Score(SD) | LS Mean Change from Baseline (SE) | Placebo-subtractedDifferencea (95% CI) |
 | --- | --- | --- | --- | --- | --- |
-| Study 1 (6 -12 years) | ADHD-RS-IV | lisdexamfetamine dimesylate (30 mg/day)Doses statistically significantly superior to placebo. | 43.2 (6.7) | -21.8 (1.6) | -15.6 (-19.9, -11.2) |
+| Study 1 (6 - 12 years) | ADHD-RS-IV | lisdexamfetamine dimesylate (30 mg/day)Doses statistically significantly superior to placebo. | 43.2 (6.7) | -21.8 (1.6) | -15.6 (-19.9, -11.2) |
 |  |  | lisdexamfetamine dimesylate (50 mg/day) | 43.3 (6.7) | -23.4 (1.6) | -17.2 (-21.5, -12.9) |
 |  |  | lisdexamfetamine dimesylate (70 mg/day) | 45.1 (6.8) | -26.7 (1.5) | -20.5 (-24.8, -16.2) |
 |  |  | Placebo | 42.4 (7.1) | -6.2 (1.6) | -- |
-| Study 2 (6 -12 years) | Average SKAMP-DS | lisdexamfetamine dimesylate (30, 50 or 70 mg/day) | --b | 0.8 (0.1)d | -0.9 (-1.1, -0.7) |
+| Study 2 (6 - 12 years) | Average SKAMP-DS | lisdexamfetamine dimesylate (30, 50 or 70 mg/day) | --b | 0.8 (0.1)d | -0.9 (-1.1, -0.7) |
 |  |  | Placebo | --b | 1.7 (0.1)d | -- |
-| Study 3 (6 -12 years) | Average SKAMP-DS | lisdexamfetamine dimesylate (30, 50 or 70 mg/day) | 0.9 (1.0)c | 0.7 (0.1)d | -0.7 (-0.9, -0.6) |
+| Study 3 (6 - 12 years) | Average SKAMP-DS | lisdexamfetamine dimesylate (30, 50 or 70 mg/day) | 0.9 (1.0)c | 0.7 (0.1)d | -0.7 (-0.9, -0.6) |
 |  |  | Placebo | 0.7 (0.9)c | 1.4 (0.1)d | -- |
-| Study 4 (13 -17 years) | ADHD-RS-IV | lisdexamfetamine dimesylate (30 mg/day) | 38.3 (6.7) | -18.3 (1.2) | -5.5 (-9.0, -2.0) |
+| Study 4 (13 - 17 years) | ADHD-RS-IV | lisdexamfetamine dimesylate (30 mg/day) | 38.3 (6.7) | -18.3 (1.2) | -5.5 (-9.0, -2.0) |
 |  |  | lisdexamfetamine dimesylate (50 mg/day) | 37.3 (6.3) | -21.1 (1.3) | -8.3 (-11.8, -4.8) |
 |  |  | lisdexamfetamine dimesylate (70 mg/day) | 37.0 (7.3) | -20.7 (1.3) | -7.9 (-11.4, -4.5) |
 |  |  | Placebo | 38.5 (7.1) | -12.8 (1.2) | -- |
-| Study 5 (6 -17 years) | ADHD-RS- IV | lisdexamfetamine dimesylate (30, 50 or 70 mg/day) | 40.7 (7.3) | -24.3 (1.2) | -18.6 (-21.5, -15.7) |
+| Study 5 (6 - 17 years) | ADHD-RS- IV | lisdexamfetamine dimesylate (30, 50 or 70 mg/day) | 40.7 (7.3) | -24.3 (1.2) | -18.6 (-21.5, -15.7) |
 |  |  | Placebo | 41.0 (7.1) | -5.7 (1.1) | -- |
-| Study 7 (18 -55 years) | ADHD-RS-IV | lisdexamfetamine dimesylate (30 mg/day) | 40.5 (6.2) | -16.2 (1.1) | -8.0 (-11.5, -4.6) |
+| Study 7 (18 - 55 years) | ADHD-RS-IV | lisdexamfetamine dimesylate (30 mg/day) | 40.5 (6.2) | -16.2 (1.1) | -8.0 (-11.5, -4.6) |
 |  |  | lisdexamfetamine dimesylate (50 mg/day) | 40.8 (7.3) | -17.4 (1.0) | -9.2 (-12.6, -5.7) |
 |  |  | lisdexamfetamine dimesylate (70 mg/day) | 41.0 (6.0) | -18.6 (1.0) | -10.4 (-13.9, -6.9) |
 |  |  | Placebo | 39.4 (6.4) | -8.2 (1.4) | -- |
-| Study 8 (18 -55 years) | Average PERMP | lisdexamfetamine dimesylate (30, 50 or 70 mg/day) | 260.1 (86.2)c | 312.9 (8.6)d | 23.4 (15.6, 31.2) |
+| Study 8 (18 - 55 years) | Average PERMP | lisdexamfetamine dimesylate (30, 50 or 70 mg/day) | 260.1 (86.2)c | 312.9 (8.6)d | 23.4 (15.6, 31.2) |
 |  |  | Placebo | 261.4 (75.0)c | 289.5 (8.6)d | -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval.a Difference (drug minus placebo) in least-squares mean change from baseline.b Pre-dose SKAMP-DS was not collected.c Pre-dose SKAMP-DS (Study 3) or PERMP (Study 8) total score, averaged over both periods.d LS Mean for SKAMP-DS (Study 2 and 3) or PERMP (Study 8) is post-dose average score over all sessions of the treatment day, rather than change from baseline. |  |  |  |  |  |
 
