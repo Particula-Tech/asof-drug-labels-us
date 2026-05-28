@@ -4,7 +4,7 @@ Manufactured by: Steri-Pharma, LLC Syracuse, NY 13202, USA
 
 For patent information: www.msd.com/research/patent
 
-Copyright © 2015-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+Copyright © 2015-2026 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
 All rights reserved.
 
-uspi-mk7625a-iv-2205r008
+uspi-mk7625a-iv-2605r009

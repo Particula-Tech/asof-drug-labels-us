@@ -56,21 +56,17 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Complicated Intra-abdominal Infections (cIAI) and Complicated Urinary Tract Infections (cUTI), including Pyelonephritis
+The safety and effectiveness of ZERBAXA for the treatment of cIAI, cUTI, and HABP/VABP have been established in pediatric patients at least 32 weeks gestational age and older.
+Use of ZERBAXA in this age group is supported by evidence from adequate and well-controlled trials of ZERBAXA in adults with additional pharmacokinetic and safety data from trials in pediatric patients with cUTI, cIAI, and HABP/VABP [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
-The safety and effectiveness of ZERBAXA for the treatment of cIAI and cUTI have been established in pediatric patients aged birth to less than 18 years old.
-Use of ZERBAXA in these age groups is supported by evidence from adequate and well-controlled studies of ZERBAXA in adults with cUTI and cIAI and additional pharmacokinetic and safety data from pediatric trials [see Clinical Pharmacology (12.3) and Clinical Studies (14.1 and 14.2)].
+The safety profile of ZERBAXA in pediatric patients was similar to adults with cIAI, cUTI, and HABP/VABP treated with ZERBAXA [see Adverse Reactions (6.1)].
 
-The safety profile of ZERBAXA in pediatric patients was similar to adults with cIAI and cUTI, treated with ZERBAXA [see Adverse Reactions (6.1)].
+See Table 4 for recommended dosage in pediatric patients 2 years of age and older with renal impairment [see Dosage and Administration (2.4)].
+There is insufficient information to establish dosing for pediatric patients younger than 2 years of age with renal impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
-There is insufficient information to recommend dosage adjustment for pediatric patients younger than 18 years of age with cIAI and cUTI with eGFR 50 mL/min/1.73m2 or less [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+The safety and effectiveness of ZERBAXA have not been established in pediatric patients less than 32 weeks gestational age.
 
-ZERBAXA is not recommended in pediatric patients who have an eGFR 50 mL/min/1.73m2 or less.
-Pediatric patients born at term or pre-term may not have an eGFR of 50 mL/min/1.73m2 or greater at birth or within the first few months of life.
-
-Hospital-acquired Bacterial Pneumonia and Ventilator-associated Bacterial Pneumonia (HABP/VABP)
-
-The safety and effectiveness of ZERBAXA in pediatric patients have not been established for the treatment of HABP and VABP.
+ZERBAXA is not recommended in pediatric patients younger than 2 years of age with renal impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
@@ -87,12 +83,17 @@ ZERBAXA is substantially excreted by the kidney and the risk of adverse reaction
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 Adjust dosage for elderly patients based on renal function [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
-## 8.6 Patients with Renal Impairment
+## 8.6 Renal Impairment
 
 Adult Patients
 
-Dosage adjustment is required in adult patients with CrCl 50 mL/min or less, including adult patients with ESRD on HD [see Dosage and Administration (2.2), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+See Table 3 for recommended dosage in adult patients with a CrCl less than 90 mL/min or CrCl less than 15 mL/min and receiving intermittent hemodialysis.
+Dosage is not established for adult patients with a CrCl <15 mL/min who are not receiving intermittent hemodialysis.
+[see Dosage and Administration (2.3), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 Pediatric Patients
 
-No dose adjustment has been established in pediatric patients aged birth to less than 18 years of age with eGFR 50 mL/min/1.73 m2 or less [see Clinical Pharmacology (12.3)].
+See Table 4 for recommended dosage in pediatric patients 2 years of age and older with an eGFR less than 90 mL/min/1.73 m2 or eGFR less than 15 mL/min/1.73 m2 and receiving intermittent hemodialysis.
+Dosage is not established for pediatric patients with an eGFR <15 mL/min/1.73m2 who are not receiving intermittent hemodialysis.
+There is insufficient information to recommend dosage adjustment for pediatric patients younger than 2 years of age with renal impairment.
+[See Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].

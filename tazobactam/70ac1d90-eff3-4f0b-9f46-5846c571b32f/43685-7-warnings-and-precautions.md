@@ -2,12 +2,12 @@
 
 ## 5.1 Decreased Efficacy in Patients with Baseline Creatinine Clearance of 30 to 50 mL/min
 
-In a subgroup analysis of a Phase 3 cIAI trial of adult patients, clinical cure rates were lower in patients with baseline CrCl of 30 to 50 mL/min compared to those with CrCl greater than 50 mL/min (Table 5).
+In a subgroup analysis of a Phase 3 cIAI trial of adult patients, clinical cure rates were lower in patients with baseline CrCl of 30 to 50 mL/min compared to those with CrCl greater than 50 mL/min (Table 6).
 The reduction in clinical cure rates was more marked in the ZERBAXA plus metronidazole arm compared to the meropenem arm.
 A similar trend was also seen in the cUTI trial.
 Monitor CrCl at least daily in patients with changing renal function and adjust the dosage of ZERBAXA accordingly [see Dosage and Administration (2.2)].
 
-Table 5: Clinical Cure Rates in a Phase 3 Trial of Adult cIAI Patients by Baseline Renal Function (MITT Population)
+Table 6: Clinical Cure Rates in a Phase 3 Trial of Adult cIAI Patients by Baseline Renal Function (MITT Population)
 
 | Baseline Renal Function | ZERBAXA plus Metronidazole n/N (%) | Meropenem n/N (%) |
 | --- | --- | --- |
@@ -22,7 +22,7 @@ Before initiating therapy with ZERBAXA, make careful inquiry about previous hype
 If this product is to be given to a patient with a cephalosporin, penicillin, or other beta-lactam allergy, exercise caution because cross sensitivity has been established.
 If an anaphylactic reaction to ZERBAXA occurs, discontinue the drug and institute appropriate therapy.
 
-## 5.3 Clostridioides difficile-associated Diarrhea
+## 5.3 Clostridioides difficile-Associated Diarrhea
 
 Clostridioides difficile-associated diarrhea (CDAD) has been reported for nearly all systemic antibacterial agents, including ZERBAXA, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of C. difficile.

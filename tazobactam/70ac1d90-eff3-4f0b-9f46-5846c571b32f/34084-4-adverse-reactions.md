@@ -13,16 +13,16 @@ Adult Patients
 
 Complicated Intra-abdominal Infections and Complicated Urinary Tract Infections, Including Pyelonephritis
 
-ZERBAXA was evaluated in Phase 3 comparator-controlled clinical trials of cIAI and cUTI, which included a total of 1015 patients treated with ZERBAXA (1.5 g every 8 hours, adjusted based on renal function where appropriate) and 1032 patients treated with comparator (levofloxacin 750 mg daily in cUTI or meropenem 1 g every 8 hours in cIAI) for up to 14 days.
+ZERBAXA was evaluated in Phase 3 comparator-controlled clinical trials of cIAI (Trial 1) and cUTI (Trial 2), which included a total of 1015 patients treated with ZERBAXA (1.5 g every 8 hours, adjusted based on renal function where appropriate) and 1032 patients treated with comparator (levofloxacin 750 mg daily in cUTI or meropenem 1 g every 8 hours in cIAI) for up to 14 days.
 The mean age of treated patients was 48 to 50 years (range 18 to 92 years), across treatment arms and indications.
 In both indications, about 25% of the subjects were 65 years of age or older.
 Most patients (75%) enrolled in the cUTI trial were female, and most patients (58%) enrolled in the cIAI trial were male.
 Most patients (>70%) in both trials were enrolled in Eastern Europe and were White.
 
 The most common adverse reactions (5% or greater in either indication) occurring in patients receiving ZERBAXA were nausea, diarrhea, headache, and pyrexia.
-Table 6 lists adverse reactions occurring in 1% or greater of patients receiving ZERBAXA in Phase 3 cIAI and cUTI clinical trials.
+Table 7 lists adverse reactions occurring in 1% or greater of patients receiving ZERBAXA in Phase 3 cIAI and cUTI clinical trials.
 
-Table 6: Adverse Reactions Occurring in 1% or Greater of Adult Patients (18 years and older) Receiving ZERBAXA in Phase 3 cIAI and cUTI Clinical Trials
+Table 7: Adverse Reactions Occurring in 1% or Greater of Adult Patients Receiving ZERBAXA in Phase 3 cIAI and cUTI Clinical Trials (Trial 1 and Trial 2)
 
 | ZERBAXAThe ZERBAXA for injection dose was 1.5 g intravenously every 8 hours, adjusted to match renal function where appropriate. In the cIAI trials, ZERBAXA was given in conjunction with metronidazole. (N=482) n (%) | Meropenem (N=497) n (%) | ZERBAXA (N=533) n (%) | Levofloxacin (N=535) n (%) |  |
 | --- | --- | --- | --- | --- |
@@ -70,18 +70,18 @@ The following selected adverse reactions were reported in ZERBAXA-treated subjec
 - Skin and subcutaneous tissue disorders: urticaria
 - Vascular disorders: venous thrombosis
 
-Hospital-acquired Bacterial Pneumonia and Ventilator-associated Bacterial Pneumonia (HABP/VABP)
+Hospital-acquired Bacterial Pneumonia and Ventilator-associated Bacterial Pneumonia
 
-ZERBAXA was evaluated in a Phase 3 comparator-controlled clinical trial for HABP/VABP, which included a total of 361 patients treated with ZERBAXA (3 g every 8 hours, adjusted based on renal function where appropriate) and 359 patients treated with comparator (meropenem 1 g every 8 hours) for up to 14 days.
+ZERBAXA was evaluated in a Phase 3 comparator-controlled clinical trial for HABP/VABP (Trial 3), which included a total of 361 patients treated with ZERBAXA (3 g every 8 hours, adjusted based on renal function where appropriate) and 359 patients treated with comparator (meropenem 1 g every 8 hours) for up to 14 days.
 The mean age of treated patients was 60 years (range 18 to 98 years), across treatment arms.
 About 44% of the subjects were 65 years of age or older.
 Most patients (71%) enrolled in the trial were male.
 All subjects were mechanically ventilated at randomization and 92% were in an intensive care unit (ICU) at randomization.
 The median APACHE II score was 17, and 33% of subjects had a baseline APACHE II score of ≥20, indicating a high severity of illness for many patients enrolled in this trial.
 
-Table 7 lists adverse reactions occurring in 2% or greater of patients receiving ZERBAXA in a Phase 3 HABP/VABP clinical trial.
+Table 8 lists adverse reactions occurring in 2% or greater of patients receiving ZERBAXA in a Phase 3 HABP/VABP clinical trial.
 
-Table 7: Adverse Reactions Occurring in 2% or Greater of Adult Patients (18 years and older) Receiving ZERBAXA in a Phase 3 HABP/VABP Clinical Trial
+Table 8: Adverse Reactions Occurring in 2% or Greater of Adult Patients Receiving ZERBAXA in a Phase 3 HABP/VABP Clinical Trial (Trial 3)
 
 | Adverse Reactions | ZERBAXAThe ZERBAXA for injection dose was 3 g intravenously every 8 hours, adjusted to match renal function where appropriate. N=361 n (%) | Meropenem N=359 n (%) |
 | --- | --- | --- |
@@ -104,13 +104,13 @@ Pediatric Patients
 
 Complicated Intra-abdominal Infections and Complicated Urinary Tract Infections, Including Pyelonephritis
 
-ZERBAXA was evaluated in two blinded, randomized, active-controlled clinical studies in pediatric patients from birth to less than 18 years of age, one in cIAI and the other in cUTI, which included a total of 170 pediatric patients treated with ZERBAXA and 54 pediatric patients treated with the comparator.
+ZERBAXA was evaluated in two blinded, randomized, active-controlled clinical studies in pediatric patients from birth to less than 18 years of age, one in cIAI (Trial 4) and the other in cUTI (Trial 5), which included a total of 170 pediatric patients treated with ZERBAXA and 54 pediatric patients treated with the comparator.
 The ZERBAXA dosing regimen was the same in each trial [see Dosage and Administration (2.2)].
-Patients were randomized 3:1 to receive ZERBAXA plus metronidazole or meropenem plus placebo in the cIAI study and ZERBAXA or meropenem in the cUTI study [see Clinical Studies [(14.1, 14.2)].
+Patients were randomized 3:1 to receive ZERBAXA plus metronidazole or meropenem plus placebo in the cIAI study and ZERBAXA or meropenem in the cUTI study [see Clinical Studies (14.1, 14.2)].
 In these pediatric patients, the type of adverse reactions were generally comparable to those observed in adults.
-Table 8 lists adverse reactions occurring in 4% or greater of pediatric patients receiving ZERBAXA in either the pediatric cIAI or cUTI clinical trial.
+Table 9 lists adverse reactions occurring in 4% or greater of pediatric patients receiving ZERBAXA in either the pediatric cIAI or cUTI clinical trial.
 
-Table 8: Adverse Reactions Occurring in 4% or Greater of Pediatric Patients (birth to less than 18 years of age) Receiving ZERBAXA in either the cIAI or cUTI Clinical Trial
+Table 9: Adverse Reactions Occurring in 4% or Greater of Pediatric Patients (birth to less than 18 years of age) Receiving ZERBAXA in either the cIAI or cUTI Clinical Trials (Trial 4 and Trial 5)
 
 | ZERBAXAIn the cIAI trials, ZERBAXA was given in conjunction with metronidazole. (N=70) n (%) | Meropenem (N=21) n (%) | ZERBAXA (N=100) n (%) | Meropenem (N=33) n (%) |  |
 | --- | --- | --- | --- | --- |
@@ -127,8 +127,15 @@ Table 8: Adverse Reactions Occurring in 4% or Greater of Pediatric Patients (bir
 | PhlebitisIncludes superficial phlebitis. | 4 (6) | 0 (0) | 1 (1) | 1 (3) |
 | Hypertension | 3(4) | 0 (0) | 0 (0) | 1 (3) |
 | Gastritis | 3 (4) | 0 (0) | 0 (0) | 0 (0) |
-| HypokalemiaIncludes blood potassium decreased. | 3 (4) | 0 (0) | 0 (0) | 0 (0) |
-| BradypneaIncludes respiratory rate decreased. | 3 (4) | 0 (0) | 0 (0) | 0 (0) |
+| Hypokalemia Includes blood potassium decreased. | 3 (4) | 0 (0) | 0 (0) | 0 (0) |
+| Bradypnea Includes respiratory rate decreased., | 3 (4) | 0 (0) | 0 (0) | 0 (0) |
+
+Hospital-acquired Bacterial Pneumonia and Ventilator-associated Bacterial Pneumonia
+
+The safety of ZERBAXA was evaluated in an open-label, non-comparative, multicenter clinical study in pediatric patients from 33 weeks post-menstrual age to less than 18 years of age diagnosed with HABP/VABP (NCT04223752; Trial 6).
+A total of 40 pediatric patients ranging from 10 days of age up to 16 years and 7 months of age were enrolled in the study and received ZERBAXA 60 mg/kg (ceftolozane 40 mg/kg and tazobactam 20 mg/kg) every 8 hours, up to a maximum dose of 3 g, intravenously over 1 hour for a duration of 8 to 14 days [see Dosage and Administration (2.2)].
+The safety profile of ZERBAXA in pediatric patients with HABP/VABP was similar to that in pediatric patients with cIAI and cUTI and adult patients with HABP/VABP.
+The most common adverse reactions that occurred in greater than 7% of pediatric patients included thrombocytosis, pyrexia, increased AST and ALT, anemia, diarrhea, and leukopenia.
 
 Laboratory Values
 

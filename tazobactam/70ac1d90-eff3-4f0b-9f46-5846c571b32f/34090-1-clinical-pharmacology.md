@@ -19,9 +19,9 @@ In a randomized, positive and placebo-controlled crossover thorough QTc study, 5
 Ceftolozane and tazobactam pharmacokinetics are similar following single- and multiple-dose administrations.
 The Cmax and AUC of ceftolozane and tazobactam increase in proportion to dose.
 
-The mean steady-state population pharmacokinetic parameters of ZERBAXA in patients with cIAI and cUTI receiving 1-hour intravenous infusions of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) or patients with HABP/VABP receiving 1-hour intravenous infusions of ZERBAXA 3 g (ceftolozane 2 g and tazobactam 1 g) every 8 hours are summarized in Table 9.
+The mean steady-state population pharmacokinetic parameters of ZERBAXA in patients with cIAI and cUTI receiving 1-hour intravenous infusions of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) or patients with HABP/VABP receiving 1-hour intravenous infusions of ZERBAXA 3 g (ceftolozane 2 g and tazobactam 1 g) every 8 hours are summarized in Table 10.
 
-Table 9: Mean (SD) Steady-State Plasma Population Pharmacokinetic Parameters of ZERBAXA (ceftolozane and tazobactam) after Multiple Intravenous 1-hour Infusions of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) or 3 g (ceftolozane 2 g and tazobactam 1 g) Every 8 Hours in Adult Patients with CrCl Greater than 50 mL/min
+Table 10: Mean (SD) Steady-State Plasma Population Pharmacokinetic Parameters of ZERBAXA (ceftolozane and tazobactam) after Multiple Intravenous 1-hour Infusions of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) or 3 g (ceftolozane 2 g and tazobactam 1 g) Every 8 Hours in Adult Patients with CrCl Greater than 50 mL/min
 
 | Ceftolozane (n=317) | Tazobactam (n=244) | Ceftolozane (n=247) | Tazobactam (n=247) |  |
 | --- | --- | --- | --- | --- |
@@ -60,16 +60,14 @@ Specific Populations
 Dose adjustment is not warranted on the basis of age (18 years and older), gender, or race/ethnicity.
 No significant differences in the pharmacokinetics of ceftolozane and tazobactam were observed based on age (18 years and older), gender, weight, or race/ethnicity.
 
-Patients with Renal Impairment
+Adult Patients with Renal Impairment
 
 The ceftolozane dose normalized geometric mean AUC increased up to 1.26-fold, 2.5-fold, and 5-fold in subjects with CrCl 80-51 mL/min, 50-30 mL/min, and 29-15 mL/min, respectively, compared to healthy subjects with normal renal function.
 The respective tazobactam dose normalized geometric mean AUC increased approximately up to 1.3-fold, 2-fold, and 4-fold.
-To maintain similar systemic exposures to those with normal renal function, dosage adjustment is required [see Dosage and Administration (2.2)].
+In subjects with CrCl less than 15 mL/min on intermittent hemodialysis, approximately two-thirds of the administered ZERBAXA dose is removed by intermittent hemodialysis.
 
-In subjects with ESRD on HD, approximately two-thirds of the administered ZERBAXA dose is removed by HD.
-A single loading dose of ZERBAXA followed by a maintenance dose administered every 8 hours for the remainder of the treatment period is recommended in patients with ESRD on HD.
-On HD days, administer the dose at the earliest possible time following completion of HD.
-[See Dosage and Administration (2.2).]
+For ZERBAXA dosage recommendation in adult patients with renal impairment refer to Table 3 [see Dosage and Administration (2.3)].
+Dosage is not established for adult patients with a CrCl less than 15 mL/min who are not receiving intermittent hemodialysis.
 
 Patients with Augmented Renal Function
 
@@ -87,23 +85,23 @@ Geriatric Patients
 In a population pharmacokinetic analysis of ZERBAXA, no clinically relevant differences in exposure were observed with regard to age.
 
 No dose adjustment of ZERBAXA based on age is recommended.
-Dosage adjustment for ZERBAXA in geriatric patients should be based on renal function [see Dosage and Administration (2.2)].
+Dosage adjustment for ZERBAXA in geriatric patients should be based on renal function [see Dosage and Administration (2.3)].
 
 Pediatric Patients
 
-The pharmacokinetics of ceftolozane and tazobactam in pediatric patients (birth to <18 years) were evaluated from 3 clinical studies: patients with proven or suspected gram-negative infection, cIAI, and cUTI.
-Ceftolozane exposures were numerically higher in pediatric patients with cUTI compared to pediatric patients with cIAI, however, such a difference was not observed for tazobactam (Table 10 and Table 11) [see Clinical Studies 14.2].
+Pediatric Patients with cIAI and cUTI
 
-In patients with cIAI (Table 10) and cUTI (Table 11) total body clearance of both ceftolozane and tazobactam increases with age, with values in adolescents approaching those in the adult population.
+The pharmacokinetics of ceftolozane and tazobactam in patients 23 days to 17 years and 7 months old were evaluated from 3 clinical studies: patients with proven or suspected gram-negative infection, cIAI, and cUTI.
+Ceftolozane exposures were numerically higher in pediatric patients with cUTI compared to pediatric patients with cIAI, however, such a difference was not observed for tazobactam (Table 11 and Table 12) [see Clinical Studies (14.2)].
+
+In patients with cIAI (Table 11) and cUTI (Table 12) total body clearance of both ceftolozane and tazobactam increases with age, with values in adolescents approaching those in the adult population.
 Whereas elimination half-life tends to decrease with a decrease of age.
 While ceftolozane exposures in pediatric patients with cIAI and cUTI overlap with the range of exposures seen in adults, in general they are lower than mean exposures in adults.
 Tazobactam exposures are comparable between pediatric and adult patients except for patients aged birth to <3 months (Group 5) with cUTI, who had higher exposures.
 
-Population pharmacokinetic analyses and target attainment simulations in pediatric patients with cIAI and cUTI demonstrated that the recommended pediatric dosing regimens for patients from birth to less than 18 years with eGFR greater than 50 mL/min/1.73 m2 result in no clinically relevant differences in systemic exposure to those in adult patients given ZERBAXA 1.5 grams.
+Population pharmacokinetic analyses and target attainment simulations in pediatric patients with cIAI and cUTI demonstrated that the recommended pediatric dosage for patients from birth to less than 18 years without renal impairment result in no clinically relevant differences in systemic exposure to those in adult patients given ZERBAXA 1.5 grams.
 
-There is insufficient information to assess the exposure of ZERBAXA in the pediatric patients with eGFR ≤ 50 mL/min/1.73 m2.
-
-Table 10: Steady-State Plasma Population Pharmacokinetic Parameters (Mean and SD) of ZERBAXA (ceftolozane and tazobactam) in Pediatric cIAI PatientsOne patient was enrolled in Group 4 in the C/T arm but discontinued before the day of PK sample collection; one participant was enrolled for Group 5 in the C/T arm with steady-state ceftolozane PK parameter values: AUC0-8=173 mcg*h/mL; Ceoi=43.4 mcg/mL; and with tazobactam PK parameter values: AUC0-8=69.9 mcg*h/mL; Ceoi=30.5 mcg/mL.
+Table 11: Steady-State Plasma Population Pharmacokinetic Parameters (Mean and SD) of ZERBAXA (ceftolozane and tazobactam) in Pediatric cIAI PatientsOne patient was enrolled in Group 4 in the C/T arm but discontinued before the day of PK sample collection; one participant was enrolled for Group 5 in the C/T arm with steady-state ceftolozane PK parameter values: AUC0-8=173 mcg*h/mL; Ceoi=43.4 mcg/mL; and with tazobactam PK parameter values: AUC0-8=69.9 mcg*h/mL; Ceoi=30.5 mcg/mL.
 
 | Patient Characteristics | Group 1 (12 to <18 years) | Group 2 (6 to <12 years) | Group 3 (2 to <6 years) |
 | --- | --- | --- | --- |
@@ -122,7 +120,7 @@ Table 10: Steady-State Plasma Population Pharmacokinetic Parameters (Mean and SD
 | Clearance (L/h) | 18.87 (7.54) | 11.02 (4.06) | 7.62 (2.40) |
 | AUC0-8, area under the curve in the dosing interval 0 to 8 hours at steady-state; Ceoi, concentration at the end of infusion; CL, elimination clearance; SD, standard deviation; t1/2, terminal half-life; Vss, steady-state volume of distribution. |  |  |  |
 
-Table 11: Steady-State Plasma Population Pharmacokinetic Parameters (Mean and SD) of ZERBAXA (ceftolozane and tazobactam) in Pediatric cUTI Patients
+Table 12: Steady-State Plasma Population Pharmacokinetic Parameters (Mean and SD) of ZERBAXA (ceftolozane and tazobactam) in Pediatric cUTI Patients
 
 | Patient Characteristics | Group 1 (12 to <18 years) | Group 2 (6 to <12 years) | Group 3 (2 to <6 years) | Group 4 (3 months to <2 years) | Group 5 (Birth to <3 months) |
 | --- | --- | --- | --- | --- | --- |
@@ -141,7 +139,42 @@ Table 11: Steady-State Plasma Population Pharmacokinetic Parameters (Mean and SD
 | Clearance (L/h) | 15.67 (4.49) | 12.83 (5.39) | 6.37 (2.02) | 3.53 (1.71) | 1.32 (0.81) |
 | AUC0-8, area under the curve in the dosing interval 0 to 8 hours at steady-state; Ceoi, concentration at the end of infusion; CL, elimination clearance; SD, standard deviation; t1/2, terminal half-life; VSS, steady-state volume of distribution. |  |  |  |  |  |
 
-For ZERBAXA dosage recommendation in pediatric cIAI and cUTI patients, refer to table 2 [see Dosage and Administration (2.1)].
+For ZERBAXA dosage recommendation in pediatric cIAI and cUTI patients, refer to Table 2 [see Dosage and Administration (2.2)].
+
+Pediatric Patients with HABP/VABP
+
+The pharmacokinetics of ceftolozane and tazobactam were evaluated in Trial 6 in pediatric patients 10 days to 16 years and 7 months of age with HABP/VABP.
+Patients 12 to less than 18 years of age received ZERBAXA 3 g (ceftolozane 2 g and tazobactam 1 g) and patients at least 33 weeks post-menstrual age to less than 12 years of age received ZERBAXA 60 mg/kg (ceftolozane 40 mg/kg and tazobactam 20 mg/kg) intravenously over 1 hour for a minimum of 8 days.
+At the recommended dosage, the mean population pharmacokinetic parameters after multiple dose administration of ceftolozane and tazobactam in pediatric patients at least 35 weeks post-menstrual age to less than 18 years of age with HABP/VABP enrolled into 5 age groups are shown in Table 13 [see Dosage and Administration (2.2)].
+
+In patients with HABP/VABP, total body clearance of both ceftolozane and tazobactam increased with age, with values in pediatric patients aged 12 years to younger than 17 years of age approaching those in the adult population, whereas elimination half-life tended to decrease with a decrease of age.
+With the recommended dosage, both ceftolozane and tazobactam exposures overlapped with the range of exposures seen in adults [see Dosage and Administration (2.2, 2.4)].
+
+Table 13: Steady-State Plasma Population Pharmacokinetic Parameters (Mean and SD) of ZERBAXA (ceftolozane and tazobactam) in Pediatric HABP/VABP Patients
+
+| Patient Characteristics | Group 1 (12 to <18 years) | Group 2 (7 to <12 years) | Group 3 (2 to <7 years) | Group 4 (3 months to <2 years) | Group 5 (Birth to <3 months)Includes pediatric patients at least 35 weeks post-menstrual age. |
+| --- | --- | --- | --- | --- | --- |
+|  | N=8 | N=7 | N=7 | N=10 | N=7 |
+| Ceftolozane |  |  |  |  |  |
+| Cmax (mcg/mL) | 77.6 (12) | 86.0 (17) | 78.2 (11) | 73.9 (16) | 83.7 (14) |
+| AUC0-8 (mcg•h/mL) | 235 (39) | 251 (62) | 220 (43) | 258 (103) | 350 (101) |
+| t1/2 (hr) | 1.8 (0.2) | 1.7 (0.2) | 1.5 (0.3) | 2.2 (0.8) | 3.1 (0.9) |
+| Vss (L) | 17.9 (3.8) | 11.4 (6.0) | 4.9 (0.7) | 2.8 (1.0) | 1.7 (0.5) |
+| Clearance (L/h) | 8.53 (1.66) | 5.92 (2.68) | 3.10 (0.84) | 1.24 (0.65) | 0.44 (0.17) |
+| Tazobactam |  |  |  |  |  |
+| Cmax (mcg/mL) | 13.1 (2) | 17.2 (6) | 14.2 (4) | 15.6 (6) | 18.8 (5) |
+| AUC0-8 (mcg•h/mL) | 29.3 (5) | 40.5 (17) | 31.8 (9) | 41.1 (24) | 55.2 (27) |
+| t1/2 (hr) | 1.7 (0.1) | 1.7 (0.3) | 1.4 (0.1) | 1.7 (0.5) | 2.1 (0.7) |
+| Vss (L) | 27.4 (7.3) | 18.1 (9.7) | 7.7 (1.6) | 4.5 (1.6) | 2.5 (0.7) |
+| Clearance (L/h) | 34.09 (6.09) | 19.17 (8.05) | 11.26 (4.37) | 4.39 (2.76) | 1.50 (0.62) |
+| C max, maximum serum concentration; AUC0-8, area under the curve in the dosing interval 0 to 8 hours at steady-state; t1/2, terminal half-life; VSS, steady-state volume of distribution. |  |  |  |  |  |
+
+Pediatric Patients with Renal Impairment
+
+The exposures of ZERBAXA at the recommended dosages [see Dosage and Administration (2.4)] in pediatric patients aged 2 years and older with an eGFR less than 90 mL/min/1.73m2 or eGFR less than 15 mL/min/1.73 m2 and receiving intermittent hemodialysis were predicted to be similar to adult patients.
+There is insufficient information to assess the exposure of ZERBAXA in pediatric patients less than 2 years of age with renal impairment.
+For ZERBAXA dosage recommendation in pediatric patients aged 2 years of age and older with renal impairment refer to Table 4 [see Dosage and Administration (2.4)].
+Dosage is not established for pediatric patients with an eGFR less than 15 mL/min who are not receiving intermittent hemodialysis.
 
 Drug Interactions
 
@@ -191,13 +224,13 @@ Clinical isolates may produce multiple beta-lactamases, express varying levels o
 
 Culture and susceptibility information and local epidemiology should be considered in selecting or modifying antibacterial therapy.
 
-ZERBAXA demonstrated in vitro activity against Enterobacteriaceae in the presence of some extended-spectrum beta-lactamases (ESBLs) and other beta-lactamases of the following groups: TEM, SHV, CTX-M, and OXA.
+ZERBAXA demonstrated in vitro activity against Enterobacterales in the presence of some extended-spectrum beta-lactamases (ESBLs) and other beta-lactamases of the following groups: TEM, SHV, CTX-M, and OXA.
 ZERBAXA is not active against bacteria that produce serine carbapenemases [K. pneumoniae carbapenemase (KPC)], and metallo-beta-lactamases.
 
-In ZERBAXA clinical trials, some isolates of Enterobacteriaceae with minimum inhibitory concentration to ZERBAXA of ≤2 mcg/mL produced beta-lactamases.
+In ZERBAXA clinical trials, some isolates of Enterobacterales with minimum inhibitory concentration to ZERBAXA of ≤2 mcg/mL produced beta-lactamases.
 These isolates produced one or more beta-lactamases of the following enzyme groups: CTX-M, OXA, TEM, or SHV.
 
-Some of these beta-lactamases were also produced by isolates of Enterobacteriaceae with minimum inhibitory concentration to ZERBAXA >2 mcg/mL.
+Some of these beta-lactamases were also produced by isolates of Enterobacterales with minimum inhibitory concentration to ZERBAXA >2 mcg/mL.
 
 ZERBAXA demonstrated in vitro activity against P. aeruginosa isolates tested that had chromosomal AmpC, loss of outer membrane porin (OprD), or up regulation of efflux pumps (MexXY, MexAB).
 
@@ -211,7 +244,7 @@ Antimicrobial Activity
 
 ZERBAXA has been shown to be active against the following bacteria, both in vitro and in clinical infections [see Indications and Usage (1)].
 
-Complicated Intra-abdominal Infections
+Complicated Intraabdominal Infections
 
 Gram-negative bacteria:
 
