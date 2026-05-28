@@ -13,7 +13,7 @@ No accumulation of misoprostol acid was noted in multiple dose studies; plasma s
 Maximum plasma concentrations of misoprostol acid are diminished when the dose is taken with food and total availability of misoprostol acid is reduced by use of concomitant antacid.
 Clinical trials were conducted with concomitant antacid, however, so this effect does not appear to be clinically important.
 
-| Mean ± SD | Cmax(pg/ml) | AUC(0–4) (pg∙hr/ml) | Tmax(min) |
+| Mean ± SD | Cmax(pg/ml) | AUC(0–4) (pg·hr/ml) | Tmax(min) |
 | --- | --- | --- | --- |
 | Fasting | 811 ± 317 | 417 ± 135 | 14 ± 8 |
 | With Antacid | 689 ± 315 | 349 ± 108Comparisons with fasting results statistically significant, p<0.05. | 20 ± 14 |

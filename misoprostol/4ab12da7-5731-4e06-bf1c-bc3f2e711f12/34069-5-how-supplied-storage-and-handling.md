@@ -5,7 +5,6 @@ Cytotec 100-mcg tablets are white, round, with SEARLE debossed on one side and 1
 | NDC Number | Size |
 | --- | --- |
 | 0025-1451-60 | unit-of-use bottle of 60 |
-| 0025-1451-34 | carton of 100 unit dose |
 
 Cytotec 200-mcg tablets are white, hexagonal, with SEARLE debossed above and 1461 debossed below the line on one side and a double stomach debossed on the other side; supplied as:
 
