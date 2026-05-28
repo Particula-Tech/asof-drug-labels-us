@@ -1822,3 +1822,5 @@ Eye: Vogt-Koyanagi-Harada (VKH) syndrome
 Complications of Intravenous Nivolumab Treatment After Allogeneic HSCT: Treatment refractory, severe acute and chronic GVHD
 
 Blood and lymphatic system disorders: Hemophagocytic lymphohistiocytosis (HLH) (including fatal cases), autoimmune hemolytic anemia (including fatal cases)
+
+Metabolism and nutrition disorders: tumor lysis syndrome
