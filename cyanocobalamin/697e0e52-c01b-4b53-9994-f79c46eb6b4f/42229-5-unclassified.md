@@ -94,16 +94,16 @@ Active ingredient: cyanocobalamin
 
 Inactive ingredients: benzalkonium chloride in purified water, citric acid, glycerin and sodium citrate.
 
-Manufactured by:
+For more information, go to www.endo.com or call 1-800-828-9393.
 
-Par Pharmaceuticals, Inc.
+Manufactured for:
 
-1 Ram Ridge Road
+Endo USA
 
-Chestnut Ridge, NY 10977
+Malvern, PA 19355
 
-For more information, go to www.parpharm.com or call 1-800-828-9393.
+©2024 Endo, Inc. or one of its affiliates.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2018
+Revised: 03/2024

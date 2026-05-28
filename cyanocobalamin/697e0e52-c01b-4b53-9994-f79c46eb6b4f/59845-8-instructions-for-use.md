@@ -41,11 +41,19 @@ Step 5.
 Remove the nozzle from your nostril.
 At the same time, keep your head straight for 10 to 20 seconds while gently breathing in through your nose and breathing out through your mouth.
 
-How to dispose of (throw away) NASCOBAL?
+How to dispose of (throw away) NASCOBAL
 
 NASCOBAL can be disposed of in your household trash.
 Place the NASCOBAL nasal spray in a container such as a zip-top or sealable plastic bag, and throw the container away in your household trash.
 
+Manufactured for:
+
+Endo USA
+
+Malvern, PA 19355
+
+©2024 Endo, Inc. or one of its affiliates.
+
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2018
+Revised: 03/2024

@@ -18,3 +18,13 @@ Use of Nasal Spray Device
 
 Provide patients with instructions on nasal administration of NASCOBAL.
 In addition to alerting patients to the instructions contained in the Instructions For Use and instructions supplied on each carton, demonstrate procedures for use to each patient.
+
+Manufactured for:
+
+Endo USA
+
+Malvern, PA 19355
+
+©2024 Endo, Inc. or one of its affiliates.
+
+Revised: 03/2024
