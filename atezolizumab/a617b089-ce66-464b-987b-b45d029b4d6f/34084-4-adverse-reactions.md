@@ -812,6 +812,59 @@ Table 24: Laboratory Abnormalities Worsening from Baseline Occurring in ≥ 20% 
 | Decreased Sodium | 43 | 0 |
 | Increased Lipase | 25 | 25 |
 
+Adverse Reactions in Adult Patients with Muscle Invasive Bladder Cancer
+
+The safety of TECENTRIQ HYBREZA for its approved muscle invasive bladder cancer (MIBC) indication [see Indications and Usage (1.6)] has been established in an adequate and well-controlled study of intravenous atezolizumab for MIBC (IMvigor011 study).
+
+Muscle Invasive Bladder Cancer
+
+IMvigor011
+
+The safety of intravenous atezolizumab was evaluated in IMvigor011, a multi-center, randomized, double-blind, placebo-controlled trial in 248 patients with MIBC after cystectomy who had circulating tumor DNA molecular residual disease (ctDNA MRD) [see Clinical Studies (14.6)].
+Patients received intravenous atezolizumab 1680 mg (n=165) or placebo (n=83) every 4 weeks for up to 12 cycles or 1 year (whichever occurred first) unless either unacceptable toxicity or disease recurrence occurred.
+The median duration of exposure to intravenous atezolizumab was 6.5 months (0 to 11.8 months).
+
+Serious adverse reactions occurred in 27% of patients who received intravenous atezolizumab.
+Serious adverse reactions in ≥ 2% of patients included urinary tract infection (9%), and acute kidney injury (2.4%).
+
+Fatal adverse reactions occurred in 3% of patients who received intravenous atezolizumab including septic shock, skin infection, death of unknown cause, interstitial lung disease, and congestive cardiac failure (1 patient each).
+
+Permanent discontinuation of intravenous atezolizumab due to adverse reactions occurred in 9% of patients.
+Adverse reactions which resulted in permanent discontinuation of intravenous atezolizumab in ≥1% of patients included pneumonitis (1.8%).
+
+Dosage interruptions of intravenous atezolizumab due to adverse reactions occurred in 24% of patients.
+Adverse reactions which required dosage interruptions in ≥1% of patients included urinary tract infection (4.8%), COVID-19 (3.6%), increased blood creatinine, atrial fibrillation, abnormal hepatic function, pneumonitis, rash, hyperthyroidism, and hypothyroidism (1.2% each).
+
+Tables 25 and 26 summarize the adverse reactions and laboratory abnormalities in patients receiving intravenous atezolizumab in IMvigor011.
+
+Table 25: Adverse Reactions Occurring in ≥10% of Patients with MIBC Who Received Intravenous Atezolizumab [at a Higher Incidence (Between Arm Difference of ≥2%) Compared to Placebo] in IMvigor011
+
+| All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse ReactionGraded per NCI-CTCAE v5.0 | Intravenous Atezolizumab N = 165 |  | Placebo N=83 |  |
+| Renal and Urinary Disorders |  |  |  |  |
+| Urinary tract infectionIncludes multiple related terms | 22 | 8.5 | 18 | 4.8 |
+| Skin and Subcutaneous Tissue |  |  |  |  |
+| Pruritus | 18 | 0 | 11 | 0 |
+| Rash | 13 | 0.6 | 3.6 | 0 |
+| Endocrine Disorders |  |  |  |  |
+| Hypothyroidism | 13 | 0 | 4.8 | 0 |
+| Gastrointestinal |  |  |  |  |
+| Constipation | 11 | 0 | 7 | 0 |
+
+Table 26 Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with MIBC Who Received Intravenous Atezolizumab [at a Higher Incidence (Between Arm Difference of ≥2%) Compared to Placebo] in IMvigor011
+
+| All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Laboratory Abnormality | Intravenous Atezolizumab N=165 |  | Placebo N=83 |  |
+| Hematology |  |  |  |  |
+| Decreased hemoglobin | 30 | 1.8 | 24 | 0 |
+| Decreased lymphocytes | 26 | 3.1 | 15 | 0 |
+| Chemistry |  |  |  |  |
+| Increased alanine aminotransferase | 23 | 2.5 | 10 | 0 |
+| Increased alkaline phosphatase | 23 | 1.2 | 15 | 0 |
+| Graded per NCI-CTCAE v5.0 Denominator is based on patients with at least one post-baseline assessment. For each parameter, the denominator includes patients with baseline Grade 0-2 in the specified direction of abnormality or patients with missing baseline values |  |  |  |  |
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of intravenous atezolizumab.

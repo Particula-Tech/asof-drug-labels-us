@@ -57,9 +57,9 @@ A key secondary efficacy outcome measure was overall survival (OS) in the intent
 
 At the time of the interim DFS analysis, the study demonstrated a statistically significant improvement in DFS in the PD-L1 ≥ 1% TC, Stage II – IIIA patient population.
 
-Efficacy results are presented in Table 25 and Figure 1.
+Efficacy results are presented in Table 27 and Figure 1.
 
-Table 25: Efficacy Results from IMpower010 in Patients with Stage II - IIIA NSCLC with PD-L1 expression ≥ 1% TC
+Table 27: Efficacy Results from IMpower010 in Patients with Stage II - IIIA NSCLC with PD-L1 expression ≥ 1% TC
 
 |  | Arm A: Intravenous Atezolizumab N = 248 | Arm B: Best Supportive Care N = 228 |
 | --- | --- | --- |
@@ -110,9 +110,9 @@ Baseline ECOG performance status was 0 (36%) or 1 (64%); 88% were current or pre
 
 The trial demonstrated a statistically significant improvement in OS for patients with high PD-L1 expression (TC ≥ 50% or IC ≥ 10%) at the time of the OS interim analysis.
 There was no statistically significant difference in OS for the other two PD-L1 subgroups (TC ≥ 5% or IC ≥ 5%; and TC ≥ 1% or IC ≥ 1%) at the interim or final analyses.
-Efficacy results for patients with NSCLC with high PD-L1 expression are presented in Table 26 and Figure 2.
+Efficacy results for patients with NSCLC with high PD-L1 expression are presented in Table 28 and Figure 2.
 
-Table 26: Efficacy Results from IMpower110 in Patients with NSCLC with High PD-L1 Expression (TC ≥ 50% or IC ≥ 10%) and without EGFR or ALK Genomic Tumor Aberrations
+Table 28: Efficacy Results from IMpower110 in Patients with NSCLC with High PD-L1 Expression (TC ≥ 50% or IC ≥ 10%) and without EGFR or ALK Genomic Tumor Aberrations
 
 |  | N = 107 | N = 98 |
 | --- | --- | --- |
@@ -168,9 +168,9 @@ PD-L1 was TC3 and any IC in 12%, TC0/1/2 and IC2/3 in 13%, and TC0/1/2 and IC0/1
 The demographics for the 696 patients in the ITT-WT subpopulation were similar to the ITT population except for the absence of patients with EGFR- or ALK-positive NSCLC.
 
 The trial demonstrated a statistically significant improvement in PFS between Arms B and C in both the tGE-WT and ITT-WT subpopulations, but did not demonstrate a significant difference for either subpopulation between Arms A and C based on the final PFS analyses.
-In the interim analysis of OS, a statistically significant improvement was observed for Arm B compared to Arm C, but not for Arm A compared to Arm C. Efficacy results for the ITT-WT subpopulation are presented in Table 27 and Figure 3.
+In the interim analysis of OS, a statistically significant improvement was observed for Arm B compared to Arm C, but not for Arm A compared to Arm C. Efficacy results for the ITT-WT subpopulation are presented in Table 29 and Figure 3.
 
-Table 27: Efficacy Results in ITT-WT Population in IMpower150
+Table 29: Efficacy Results in ITT-WT Population in IMpower150
 
 |  | N = 337 | N = 359 | N = 349 |
 | --- | --- | --- | --- |
@@ -227,9 +227,9 @@ Baseline ECOG performance status was 0 (41%) or 1 (58%).
 Most patients were current or previous smokers (90%).
 PD-L1 tumor expression was TC0/1/2 and IC0/1 in 73%; TC3 and any IC in 14%; and TC0/1/2 and IC2/3 in 13%.
 
-Efficacy results for the ITT-WT population are presented in Table 28 and Figure 4.
+Efficacy results for the ITT-WT population are presented in Table 30 and Figure 4.
 
-Table 28: Efficacy Results from IMpower130
+Table 30: Efficacy Results from IMpower130
 
 |  | Intravenous Atezolizumab with Paclitaxel Protein-Bound and Carboplatin | Paclitaxel Protein-Bound and Carboplatin |
 | --- | --- | --- |
@@ -273,9 +273,9 @@ Additional efficacy outcome measures were OS in all randomized patients (n = 122
 Among the first 850 randomized patients, the median age was 64 years (33 to 85 years) and 47% were ≥ 65 years old; 61% were male; 70% were White and 21% were Asian; 15% were current smokers and 67% were former smokers; and 37% had baseline ECOG PS of 0 and 63% had a baseline ECOG PS of 1.
 Nearly all (94%) had metastatic disease, 74% had non-squamous histology, 75% had received only one prior platinum-based chemotherapy regimen, and 55% of patients had PD-L1-expressing tumors.
 
-Efficacy results are presented in Table 29 and Figure 5
+Efficacy results are presented in Table 31 and Figure 5
 
-Table 29: Efficacy Results in OAK
+Table 31: Efficacy Results in OAK
 
 |  | Intravenous Atezolizumab | Docetaxel |
 | --- | --- | --- |
@@ -354,9 +354,9 @@ A total of 403 patients were randomized, including 201 to the intravenous atezol
 The median age was 64 years (range: 26 to 90) and 65% were male.
 The majority of patients were White (80%); 17% were Asian, 4% were Hispanic and 1% were Black.
 Baseline ECOG performance status was 0 (35%) or 1 (65%); 9% of patients had a history of brain metastases, and 97% were current or previous smokers.
-Efficacy results are presented in Table 30 and Figure 6.
+Efficacy results are presented in Table 32 and Figure 6.
 
-Table 30: Efficacy Results from IMpower133
+Table 32: Efficacy Results from IMpower133
 
 |  | Intravenous Atezolizumab with Carboplatin and Etoposide | Placebo with Carboplatin and Etoposide |
 | --- | --- | --- |
@@ -404,9 +404,9 @@ A total of 483 patients were randomized, including 242 to the intravenous atezol
 The median age was 66 years (range 35 to 85 years); 63% male; 82% White; 13% Asian; 0.8% were Black or African American; 7% were of Hispanic or Latino ethnicity and 98% were current or previous smokers.
 Baseline ECOG performance status was 0 (43%) or 1 (57%).
 
-Efficacy results are presented in Table 31 and Figures 7 and 8.
+Efficacy results are presented in Table 33 and Figures 7 and 8.
 
-Table 31: Efficacy Results from IMforte
+Table 33: Efficacy Results from IMforte
 
 |  | Intravenous Atezolizumab with Lurbinectedin N=242 | Intravenous Atezolizumab N=241 |  |  |
 | --- | --- | --- | --- | --- |
@@ -459,9 +459,9 @@ The majority of patients had BCLC stage C (82%) disease at baseline, while 16% h
 The major efficacy outcome measures were overall survival (OS) and independent review facility (IRF)-assessed progression free survival (PFS) per RECIST v1.1.
 Additional efficacy outcome measures were IRF-assessed overall response rate (ORR) per RECIST and mRECIST.
 
-Efficacy results are presented in Table 32 and Figure 9.
+Efficacy results are presented in Table 34 and Figure 9.
 
-Table 32: Efficacy Results from IMbrave150
+Table 34: Efficacy Results from IMbrave150
 
 |  | Intravenous Atezolizumab in combination with Bevacizumab (N= 336) | Sorafenib (N=165) |
 | --- | --- | --- |
@@ -536,10 +536,10 @@ Additional efficacy outcomes included PFS assessed by an independent central rev
 The median age of the study population was 54 years (range: 22–88), 58% of patients were male, 95% were White, a baseline ECOG performance status of 0 (77%) or 1 (23%), 33% had elevated LDH, 94% had metastatic disease, 60% were Stage IV (M1C), 56% had less than three metastatic sites at baseline, 3% had prior treatment for brain metastases, 30% had liver metastases at baseline, and 14% had received prior adjuvant systemic therapy.
 Based on central testing, 74% were identified as having a V600E mutation, 11% as having V600K mutation, and 1% as having V600D or V600R mutations.
 
-Efficacy results are summarized in Table 33 and Figure 10.
+Efficacy results are summarized in Table 35 and Figure 10.
 Patients had a median survival follow up time of 18.9 months.
 
-Table 33: Efficacy Results from IMspire150
+Table 35: Efficacy Results from IMspire150
 
 |  | Intravenous Atezolizumab + Cobimetinib + Vemurafenib N = 256 | Placebo + Cobimetinib + Vemurafenib N = 258 |
 | --- | --- | --- |
@@ -583,9 +583,9 @@ The median age of patients was 31 years (range: 12–70); 2% of adult patients (
 All patients had prior surgery for ASPS and 55% received at least one prior line of treatment for ASPS; 55% received radiotherapy and 53% received chemotherapy.
 Of the patients who reported staging at initial diagnosis, all were Stage IV.
 
-Efficacy results of this study are summarized in Table 34.
+Efficacy results of this study are summarized in Table 36.
 
-Table 34: Efficacy Results from Study ML39345
+Table 36: Efficacy Results from Study ML39345
 
 | Endpoint | All Patients (N=49) |
 | --- | --- |
@@ -601,7 +601,76 @@ Table 34: Efficacy Results from Study ML39345
 | ≥ 12 months, n (%) | 5 (42%) |
 | CI: confidence interval; N: number of patients; +: Censored |  |
 
-## 14.6 Patient Experience
+## 14.6 Muscle Invasive Bladder Cancer
+
+The efficacy of TECENTRIQ HYBREZA as an adjuvant treatment for adult patients with MIBC after cystectomy who have ctDNA MRD has been established in an adequate and well-controlled study of intravenous atezolizumab for MIBC.
+Below is a description of the efficacy results of intravenous atezolizumab in this adequate and well-controlled MIBC trial.
+
+Muscle Invasive Bladder Cancer
+
+IMvigor011
+
+The efficacy of intravenous atezolizumab was evaluated in IMvigor011 (NCT04660344), a multi-center, randomized, double-blind, placebo-controlled trial for the adjuvant treatment of patients with MIBC after cystectomy who had circulating tumor DNA molecular residual disease (ctDNA MRD).
+
+The trial enrolled patients with histologically confirmed MIBC who underwent radical cystectomy with lymph node dissection.
+Eligible patients had pathologic tumor staging of pT2-4a and/or positive lymph nodes following cystectomy, with no evidence of residual disease or metastasis on imaging, confirmed within 28 days before randomization.
+Patients were eligible regardless of whether they had received prior neoadjuvant chemotherapy (NAC) or not.
+Patients were excluded if they had received any anti-cancer therapy within 3 weeks prior to trial enrollment or had a history of autoimmune disease.
+
+Serial ctDNA MRD testing was performed every 6 weeks for 9 months starting at least 6 weeks after cystectomy with a final test at one year.
+Patients who did not develop ctDNA MRD within the testing period were monitored without study treatment, while those who had ctDNA MRD were screened for the treatment phase by confirming that they remained free of radiographic disease.
+The ctDNA MRD status was determined using either a Signatera™ clinical trial assay (whole exome-based tumor NGS sequencing and 16-plex NGS-based plasma sequencing) or a clinical trial assay performed locally in China.
+
+Randomization was stratified by nodal status (positive vs. negative), tumor stage (≤(y)pT2 vs. (y)pT3/pT4), PD-L1 immunohistochemistry (IHC) (IC <5% vs. IC ≥5%), and time from cystectomy to first ctDNA MRD positive sample (≤20 weeks vs. >20 weeks).
+
+A total of 250 patients were randomized 2:1 to receive either:
+
+- Arm A: Intravenous atezolizumab 1680 mg intravenously every 4 weeks on Day 1 of each 28 -day cycle.
+- Arm B: Placebo intravenously every 4 weeks on Day 1 of each 28-day cycle
+
+Treatment continued for up to 12 cycles or 1 year (whichever occurred first) unless there was disease recurrence, or unacceptable toxicity.
+
+Tumor assessments were conducted every 9 weeks for the first two years, then every 12 weeks for year 3, and every 24 weeks thereafter.
+
+Among the 250 patients, the median age was 69 years (range: 42 to 87); 83% were male.
+The majority of patients were White (62%), 32% Asian, 1.6% American Indian or Alaska Native, 0.8% Black or African American, and 4.4% unknown; 11% Hispanic or Latino ethnicity, 84% not Hispanic or Latino, and 4% not reported/unknown ethnicity.
+Baseline ECOG performance status was 0 in 66% of patients and 1 in 32%.
+A total of 48% of patients in the TECENTRIQ arm received prior platinum containing neoadjuvant chemotherapy.
+
+The major efficacy outcome measure was investigator-assessed disease-free survival (DFS).
+Overall Survival (OS) was an additional efficacy measure.
+
+The study demonstrated statistically significant improvements in DFS and OS for patients randomized to the intravenous atezolizumab arm compared with placebo.
+Efficacy results are presented in Table 37 and Figures 11 and 12.
+
+Table 37: Efficacy Results from IMvigor011
+
+|  | Intravenous Atezolizumab N=167 | Placebo N=83 |
+| --- | --- | --- |
+| Investigator-assessed DFS |  |  |
+| Number of events (%) | 112 (67%) | 66 (80%) |
+| MedianBased on Kaplan-Meier estimates, months | 9.9 | 4.8 |
+| (95% CI) | (7.2, 12.7) | (4.1, 8.3) |
+| Hazard ratioBased on stratified Cox proportional hazards model,Stratified by programmed death-ligand 1 (PD-L1) status, nodal status, tumor stage after cystectomy (95% CI) | 0.64 (0.47, 0.87) |  |
+| p-value,Based on stratified log-rank test | 0.0047 |  |
+| Overall survival |  |  |
+| Number of deaths (%) | 60 (36%) | 36 (43%) |
+| Median, months | 32.8 | 21.1 |
+| (95% CI) | (27.7, NE) | (14.7, NE) |
+| Hazard ratio, (95% CI) | 0.59 (0.39, 0.90) |  |
+| p-value, | 0.0131 |  |
+| CI=confidence interval; NE=not estimable |  |  |
+
+Figure 11: Kaplan-Meier Plot of Investigator-Assessed Disease-Free Survival in IMvigor011
+
+Figure 12: Kaplan-Meier Plot of Overall Survival in IMvigor011
+
+In a pre-specified exploratory analysis based on time from cystectomy to first ctDNA MRD positive sample, the unstratified hazard ratio (HR) for investigator-assessed DFS in the subgroup of patients who had ≤20 weeks to first ctDNA MRD positive sample (n=176), was 0.52 (95% CI: 0.37, 0.74), with median DFS of 8.3 months (95% CI: 6.2, 12.7) in the intravenous atezolizumab arm and 4.1 months (95% CI: 2.3, 6.2) in the placebo arm.
+The unstratified HR for OS was 0.63 (95% CI: 0.39, 1.00), with median OS of 32.8 months (95% CI: 24.4, not reached) in the intravenous atezolizumab arm and 18.2 months (95% CI: 13.1, not reached) in the placebo arm.
+In the subgroup of patients who had >20 weeks to first ctDNA MRD positive sample (n=74), the unstratified HR for investigator-assessed DFS was 1.04 (95% CI: 0.54, 1.97), with median DFS of 10.5 months (95% CI: 6.9, 20.9) in the intravenous atezolizumab arm and 10.5 months (95% CI: 6.5, 20.5) in the placebo arm.
+The unstratified HR for OS was 0.77 (95% CI: 0.30, 1.96); median OS was not reached in either arm (95% CI: 21.1 months, not reached in the intravenous atezolizumab arm and 18.4 months, not reached in the placebo arm).
+
+## 14.7 Patient Experience
 
 The IMscin002 study (NCT03735121) was a randomized, multi-center, open-label cross-over trial conducted in 179 patients with either PD-L1-positive early-stage NSCLC receiving adjuvant treatment or were chemotherapy-naïve with high PD-L1 stage IV NSCLC.
 Patients were randomized (1:1) to receive 3 cycles of TECENTRIQ HYBREZA followed by 3 cycles of intravenous atezolizumab (Arm A) or 3 cycles of intravenous atezolizumab followed by 3 cycles of TECENTRIQ HYBREZA (Arm B).

@@ -132,7 +132,7 @@ Two patients with hypothyroidism remained on thyroid hormone replacement.
 
 Intravenous Atezolizumab in Combination with Platinum-based Chemotherapy:
 
-Hypothyroidism occurred in 11% (277/2421) of patients with NSCLC (N = 2223) or SCLC (N = 198) enrolled in five randomized, active-controlled trials, including IMpower150, IMpower130 and IMpower133 receiving intravenous atezolizumab in combination with platinum-based chemotherapy, including Grade 4 (< 0.1%), Grade 3 (0.3%), and Grade 2 (5.7%) adverse reactions.
+Hypothyroidism occurred in 11% (277/2421) of patients with NSCLC (N = 2223) or SCLC (N = 198) enrolled in five randomized, active-controlled trials, including IMpower150, IMpower130 and IMpower133 receiving intravenous atezolizumab in combination with platinum-based chemotherapy, including Grade 4 (<0.1%), Grade 3 (0.3%), and Grade 2 (5.7%) adverse reactions.
 Hypothyroidism led to permanent discontinuation of intravenous atezolizumab in 0.1% and withholding of intravenous atezolizumab in 1.6% of patients.
 
 Hormone replacement therapy was required in 71% (198/277) of patients with hypothyroidism.
@@ -191,7 +191,8 @@ Severe or fatal cases have been reported for some of these adverse reactions.
 - Gastrointestinal: Pancreatitis to include increases in serum amylase and lipase levels, gastritis, duodenitis.
 - Musculoskeletal and Connective Tissue: Myositis/polymyositis, rhabdomyolysis and associated sequelae including renal failure, arthritis, polymyalgia rheumatic.
 - Endocrine: Hypoparathyroidism.
-- Other (Hematologic/Immune): Hemolytic anemia, aplastic anemia, hemophagocytic lymphohistiocytosis, systemic inflammatory response syndrome, histiocytic necrotizing lymphadenitis (Kikuchi lymphadenitis), sarcoidosis, immune thrombocytopenic purpura, solid organ transplant rejection, other transplant (including corneal graft) rejection.
+- Hematologic/Immune: Hemolytic anemia, aplastic anemia, hemophagocytic lymphohistiocytosis, systemic inflammatory response syndrome, histiocytic necrotizing lymphadenitis (Kikuchi lymphadenitis), sarcoidosis, immune thrombocytopenic purpura, solid organ transplant rejection, other transplant (including corneal graft) rejection.
+- Other: Myocarditis-Myositis-Myasthenia Gravis (or Myasthenia-Like) Overlap Syndrome, reported as the co-occurrence of either two or all three adverse reactions.
 
 ## 5.2 Infusion-Related Reactions
 

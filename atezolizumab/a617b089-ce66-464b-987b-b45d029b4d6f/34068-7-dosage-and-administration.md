@@ -1,14 +1,15 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection for Treatment of Non-Small Cell Lung Cancer and Melanoma
+## 2.1 Patient Selection for Treatment of Non-Small Cell Lung Cancer, Melanoma and Muscle Invasive Bladder Cancer
 
 Select adult patients with:
 
 - Stage II to IIIA NSCLC for adjuvant treatment with TECENTRIQ HYBREZA as a monotherapy (following tumor resection and platinum-based chemotherapy) based on PD-L1 expression on tumor cells [see Clinical Studies (14.1)].
 - Metastatic NSCLC for first-line treatment with TECENTRIQ HYBREZA as monotherapy based on the PD-L1 expression on tumor cells or on tumor-infiltrating immune cells [see Clinical Studies (14.1)].
 - Unresectable or metastatic melanoma for treatment with TECENTRIQ HYBREZA in combination with cobimetinib and vemurafenib after confirming the presence of a BRAF V600 mutation [see Clinical Studies (14.4)].
+- MIBC for treatment with TECENTRIQ HYBREZA, as a monotherapy based on detection of ctDNA MRD in plasma via serial testing between six weeks and one year after cystectomy [see Clinical Studies (14.6)].
 
-Information on FDA-approved tests for the determination of PD-L1 expression in metastatic NSCLC or for detection of BRAF V600 mutations in melanoma is available at: http://www.fda.gov/CompanionDiagnostics.
+Information on FDA-authorized tests for the determination of PD-L1 expression in metastatic NSCLC, for detection of BRAF V600 mutations in melanoma, or for the determination of ctDNA MRD status in MIBC is available at: http://www.fda.gov/CompanionDiagnostics.
 
 ## 2.2 Important Dosage and Administration Information
 
@@ -49,6 +50,7 @@ Table 1: TECENTRIQ HYBREZA Administration Instructions and Duration of Therapy
 | Hepatocellular Carcinoma | Administer TECENTRIQ HYBREZA prior to bevacizumab when given on the same day. Bevacizumab is administered intravenously at 15 mg/kg every 3 weeks. |  |
 | Melanoma | Prior to initiating TECENTRIQ HYBREZA, patients should receive the following 28-day treatment cycle of cobimetinib and vemurafenib: Days 1 to 21: cobimetinib 60 mg orally once daily in combination with 960 mg of oral vemurafenib twice dailyDays 22 to 28: withhold cobimetinib and administer vemurafenib 720 mg orally twice daily |  |
 | Alveolar Soft Part Sarcoma | Administer TECENTRIQ HYBREZA as monotherapy | Until disease progression or unacceptable toxicity |
+| Muscle Invasive Bladder Cancer | Administer TECENTRIQ HYBREZA as monotherapy | Up to one year, unless there is disease recurrence or unacceptable toxicity |
 
 ## 2.4 Dosage Modifications for Adverse Reactions
 

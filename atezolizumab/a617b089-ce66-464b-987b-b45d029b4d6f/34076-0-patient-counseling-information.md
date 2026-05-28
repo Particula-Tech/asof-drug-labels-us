@@ -12,7 +12,10 @@ Inform patients of the risk of immune-mediated adverse reactions that may requir
 - Endocrinopathies: Advise patients to contact their healthcare provider immediately for signs or symptoms of hypophysitis, hyperthyroidism, hypothyroidism, adrenal insufficiency, or type 1 diabetes mellitus, including diabetic ketoacidosis [see Warnings and Precautions (5.1)].
 - Nephritis: Advise patients to contact their healthcare provider immediately for pelvic pain, frequent urination, or unusual swelling [see Warnings and Precautions (5.1)].
 - Dermatologic Adverse Reactions: Advise patients to contact their healthcare provider immediately for generalized rash, skin eruption, or painful skin and mucous membrane lesions [see Warnings and Precautions (5.1)].
-- Other Immune-Mediated Adverse Reactions: Advise patients to contact their healthcare provider immediately for signs or symptoms of other potential immune-mediated adverse reactions [see Warnings and Precautions (5.1)].
+- Other Immune-Mediated Adverse Reactions:
+  - Advise patients to contact their healthcare provider immediately for signs or symptoms of other potential immune-mediated adverse reactions [see Warnings and Precautions (5.1)].
+  - Advise patients of the risk of solid organ transplant rejection and other transplant (including corneal graft) rejection.
+    Advise patients to contact their healthcare provider immediately for signs and symptoms of organ transplant rejection and other transplant (including corneal graft) rejection [see Warnings and Precautions (5.1)].
 
 Infusion-Related Reactions
 
