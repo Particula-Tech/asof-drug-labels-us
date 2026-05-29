@@ -1,72 +1,159 @@
 # WARNINGS
 
-## Neuroleptic Malignant Syndrome (NMS)
+## Tardive Dyskinesia (see BOXED WARNING)
 
-There have been rare reports of an uncommon but potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) associated with metoclopramide.
-Clinical manifestations of NMS include hyperthermia, muscle rigidity, altered consciousness, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac arrhythmias).
+Metoclopramide, including metoclopramide injection, can cause tardive dyskinesia (TD), a syndrome of potentially irreversible and disfiguring involuntary movements of the face or tongue, and sometimes of the trunk and/or extremities.
+Metoclopramide, including metoclopramide injection, may also suppress, or partially suppress, the signs of TD, and may delay the diagnosis of TD because it may mask the underlying disease process.
+The effect of the symptomatic suppression upon the long-term course of TD is unknown.
+TD may remit, partially or completely, if treatment with metoclopramide injection is discontinued.
 
-The diagnostic evaluation of patients with this syndrome is complicated.
-In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
-Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, malignant hyperthermia, drug fever and primary central nervous system (CNS) pathology.
+In patients treated with metoclopramide, including metoclopramide injection, the risk of developing TD and the likelihood that TD will become irreversible increases with duration of treatment and total cumulative dosage.
+Additionally, the risk of developing TD is increased in elderly patients, especially in elderly women, and in patients with diabetes mellitus.
 
-The management of NMS should include 1) immediate discontinuation of metoclopramide and other drugs not essential to concurrent therapy, 2) intensive symptomatic treatment and medical monitoring, and 3) treatment of any concomitant serious medical problems for which specific treatments are available.
-Bromocriptine and dantrolene sodium have been used in treatment of NMS, but their effectiveness have not been established (see ADVERSE REACTIONS).
+Prevention, Mitigation, and Monitoring for TD
 
-## Extrapyramidal Symptoms (EPS)
+- Metoclopramide injection, contraindicated in patients with history of TD
+- Avoid use of metoclopramide injection in patients receiving concomitant antipsychotics due to the potential additive effects of TD.
+- Reduce the dosage of metoclopramide injection in the elderly.
+  (see DOSAGE AND ADMINISTRATION, Renal and Hepatic Impairment).
+- Immediately discontinue metoclopramide injection immediately in patients who develop signs and symptoms of TD.
+- In patients with diabetic gastroparesis, avoid a total duration of treatment with metoclopramide products, including metoclopramide injection, for longer than 12 weeks.
+  If longer-term use is unavoidable, routinely monitor for signs and symptoms of TD.
+- If patients have continued TD symptoms, consider TD treatment.
 
-### Acute Dystonic Reactions
+## Other Extrapyramidal Symptoms
 
-Acute dystonic reactions occur in approximately 1 in 500 patients treated with the usual adult dosages of 30 to 40 mg/day of metoclopramide.
-These usually are seen during the first 24 to 48 hours of treatment with metoclopramide, occur more frequently in pediatric patients and adult patients less than 30 years of age and are even more frequent at the higher doses used in prophylaxis of vomiting due to cancer chemotherapy.
-These symptoms may include involuntary movements of limbs and facial grimacing, torticollis, oculogyric crisis, rhythmic protrusion of tongue, bulbar type of speech, trismus, or dystonic reactions resembling tetanus.
-Rarely, dystonic reactions may present as stridor and dyspnea, possibly due to laryngospasm.
-If these symptoms should occur, inject 50 mg Benadryl® (diphenhydramine hydrochloride) intramuscularly, and they usually will subside.
-Cogentin® (benztropine mesylate), 1 to 2 mg intramuscularly, may also be used to reverse these reactions.
+In addition to TD, metoclopramide may cause other extrapyramidal symptoms (EPS), parkinsonian symptoms, and motor restlessness.
+Advise patients to seek immediate medical attention if such symptoms occur and to discontinue metoclopramide injection.
 
-### Tardive Dyskinesia (see Boxed Warnings)
+- Extrapyramidal symptoms (EPS), such as acute dystonic reactions, occurred in patients treated with metoclopramide dosages of 30 mg to 40 mg daily.
+  Such reactions occurred more frequently in adults less than 30 years of age and at the higher dosages used in prophylaxis of vomiting due to cancer chemotherapy.
+  EPS occurred more frequently in pediatric patients compared to adults (metoclopramide injection is only approved in pediatric patients for small bowel intubation).
+  Symptoms can occur in the first 24 to 48 hours after starting metoclopramide.
+  Symptoms included involuntary movements of limbs and facial grimacing, torticollis, oculogyric crisis, rhythmic protrusion of tongue, bulbar type of speech, trismus, or dystonic reactions resembling tetanus.
+  Rarely, dystonic reactions were present as stridor and dyspnea, possibly due to laryngospasm.
+  Diphenhydramine hydrochloride or benztropine mesylate may be used to treat these adverse reactions.
+  Avoid metoclopramide injection in patients receiving other drugs that can cause EPS (e.g., antipsychotics).
+- Parkinsonian symptoms (bradykinesia, tremor, cogwheel rigidity, mask-like facies), have occurred after starting metoclopramide, more commonly within the first 6 months, but also after longer periods.
+  Symptoms generally have subsided within 2 to 3 months after discontinuation of metoclopramide.
+  Avoid metoclopramide injection in patients with Parkinson’s disease and other patients being treated with antiparkinsonian drugs due to potential exacerbation of symptoms.
+  If treatment is unavoidable, use metoclopramide injection for the shortest duration of treatment and periodically reassess the need for continued treatment.
+  Routinely monitor for signs and symptoms of Parkinson’s disease.
+- Motor restlessness (akathisia) has developed and consisted of feelings of anxiety, agitation, jitteriness, and insomnia, as well as inability to sit still, pacing, and foot tapping.
+  If symptoms resolve, consider restarting at a lower dosage.
 
-Treatment with metoclopramide can cause tardive dyskinesia (TD), a potentially irreversible and disfiguring disorder characterized by involuntary movements of the face, tongue, or extremities.
-The risk of developing tardive dyskinesia increases with the duration of treatment and the total cumulative dose.
-An analysis of utilization patterns showed that about 20% of patients who used metoclopramide took it for longer than 12 weeks.
-Treatment with metoclopramide for longer than the recommended 12 weeks should be avoided in all but rare cases where therapeutic benefit is thought to outweigh the risk of developing TD.
+## Neuroleptic Malignant Syndrome
 
-Although the risk of developing TD in the general population may be increased among the elderly, women, and diabetics, it is not possible to predict which patients will develop metoclopramide-induced TD.
-Both the risk of developing TD and the likelihood that TD will become irreversible increase with duration of treatment and total cumulative dose.
+Metoclopramide may cause a potentially fatal symptom complex called neuroleptic malignant syndrome (NMS).
+NMS has been reported in association with metoclopramide overdosage and concomitant treatment with another drug associated with NMS.
+Avoid metoclopramide injection in patients receiving other drugs associated with NMS, including typical and atypical antipsychotics.
 
-Metoclopramide should be discontinued in patients who develop signs or symptoms of TD.
-There is no known effective treatment for established cases of TD, although in some patients, TD may remit, partially or completely, within several weeks to months after metoclopramide is withdrawn.
+Clinical manifestations of NMS include hyperpyrexia, muscle rigidity, altered mental status, and manifestations of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac arrhythmias).
+Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
+Patients with such symptoms should be evaluated immediately.
 
-Metoclopramide itself may suppress, or partially suppress, the signs of TD, thereby masking the underlying disease process.
-The effect of this symptomatic suppression upon the long-term course of TD is unknown.
-Therefore, metoclopramide should not be used for the symptomatic control of TD.
+In the diagnostic evaluation, consider the presence of other serious medical conditions (e.g., pneumonia, systemic infection) and untreated or inadequately treated extrapyramidal signs and symptoms.
+Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, malignant hyperthermia, drug fever, serotonin syndrome, and primary central nervous system pathology.
 
-## Parkinsonian-like Symptoms
+Management of NMS includes:
 
-Parkinsonian-like symptoms, including bradykinesia, tremor, cogwheel rigidity, or mask-like facies, have occurred more commonly within the first 6 months after beginning treatment with metoclopramide, but occasionally after longer periods.
-These symptoms generally subside within 2 to 3 months following discontinuance of metoclopramide.
-Patients with preexisting Parkinson's disease should be given metoclopramide cautiously, if at all, since such patients may experience exacerbation of parkinsonian symptoms when taking metoclopramide.
+- Immediate discontinuation of metoclopramide injection and other drugs not essential to concurrent therapy (see PRECAUTIONS – Drug Interactions).
+- Intensive symptomatic treatment and medical monitoring.
+- Treatment of any concomitant serious medical problems for which specific treatments are available
 
 ## Depression
 
-Mental depression has occurred in patients with and without prior history of depression.
+Depression has occurred in patients with and without prior history of depression.
 Symptoms have ranged from mild to severe and have included suicidal ideation and suicide.
 Metoclopramide should be given to patients with a prior history of depression only if the expected benefits outweigh the potential risks.
 
 # PRECAUTIONS
 
-## General
+## Hypertension
 
-In one study in hypertensive patients, intravenously administered metoclopramide was shown to release catecholamines; hence, caution should be exercised when metoclopramide is used in patients with hypertension.
+In one study in hypertensive patients, intravenously administered metoclopramide was shown to release catecholamines; avoid metoclopramide injection in patients with hypertension or patients taking monoamine oxidase inhibitors (see PRECAUTIONS – Drug Interactions).
 
-Intravenous injections of undiluted metoclopramide should be made slowly allowing 1 to 2 minutes for 10 mg since a transient but intense feeling of anxiety and restlessness, followed by drowsiness, may occur with rapid administration.
+There are also clinical reports of hypertensive crises in patients with undiagnosed pheochromocytoma.
+Metoclopramide injection is contraindicated in patients with pheochromocytoma or other catecholamine-releasing paragangliomas.
+Discontinue metoclopramide injection in any patient with a rapid rise in blood pressure.
+
+## Fluid Overload
 
 Because metoclopramide produces a transient increase in plasma aldosterone, certain patients, especially those with cirrhosis or congestive heart failure, may be at risk of developing fluid retention and volume overload.
-If these side effects occur at any time during metoclopramide therapy, the drug should be discontinued.
+Discontinue metoclopramide injection if any of these adverse reactions occur.
+
+## Adverse Reactions with Rapid Intravenous Administration
+
+Intravenous injections of undiluted metoclopramide injection should be made slowly allowing 1 to 2 minutes for 10 mg since a transient but intense feeling of anxiety and restlessness, followed by drowsiness, may occur with rapid administration.
 
 Intravenous administration of metoclopramide injection diluted in a parenteral solution should be made slowly over a period of not less than 15 minutes.
 
+## Anastamotic Dehiscence
+
 Giving a promotility drug such as metoclopramide theoretically could put increased pressure on suture lines following a gut anastomosis or closure.
-This possibility should be considered and weighed when deciding whether to use metoclopramide or nasogastric suction in the prevention of postoperative nausea and vomiting.
+This possibility should be considered and weighed when deciding whether to use metoclopramide injection or nasogastric suction in the prevention of postoperative nausea and vomiting.
+
+## Effects on the Ability to Drive and Operate Machinery
+
+Metoclopramide may impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle.
+Concomitant use of central nervous system (CNS) depressants or drugs associated with EPS may increase this effect (e.g., alcohol, sedatives, hypnotics, opiates, and anxiolytics).
+Avoid metoclopramide injection or the interacting drug, depending on the importance of the drug to the patient.
+
+## Drug Interactions
+
+Effects of Other Drugs on Metoclopramide
+
+Table 3 displays the effects of other drugs on metoclopramide.
+
+Table 3.
+Effects of Other Drugs on Metoclopramide
+
+| Antipsychotics |  |
+| --- | --- |
+| Clinical Impact | Potential for additive effects, including increased frequency and severity of tardive dyskinesia (TD), other extrapyramidal symptoms (EPS), and neuroleptic malignant syndrome (NMS). |
+| Intervention | Avoid concomitant use. |
+| Strong CYP2D6 Inhibitors, not Included in Antipsychotic Category Above |  |
+| Clinical Impact | Increased plasma concentrations of metoclopramide; risk of exacerbation of extrapyramidal symptoms. |
+| Intervention | Avoid metoclopramide injection. If use is unavoidable, monitor for adverse reactions |
+| Examples | quinidine, bupropion, fluoxetine, and paroxetine |
+| Monoamine Oxidase Inhibitors |  |
+| Clinical Impact | Increased risk of hypertension. |
+| Intervention | Avoid concomitant use. |
+| Central Nervous System (CNS) Depressants |  |
+| Clinical Impact | Increased risk of CNS depression. |
+| Intervention | Avoid metoclopramide injection or the interacting drug, depending on the importance of the drug to the patient |
+| Examples | alcohol, sedatives, hypnotics, opiates and anxiolytics |
+| Drugs that Impair Gastrointestinal Motility |  |
+| Clinical Impact | Decreased systemic absorption of metoclopramide. |
+| Intervention | Monitor for reduced therapeutic effect. |
+| Examples | antiperistaltic antidiarrheal drugs, anticholinergic drugs, and opiates |
+| Dopaminergic Agonists and Other Drugs that Increase Dopamine Concentrations |  |
+| Clinical Impact | Decreased therapeutic effect of metoclopramide due to opposing effects on dopamine. |
+| Intervention | Monitor for reduced therapeutic effect. |
+| Examples | apomorphine, bromocriptine, cabergoline, levodopa, pramipexole, ropinirole, and rotigotine |
+
+Effects of Metoclopramide on Other Drugs
+
+Table 4 displays the effects of metoclopramide on other drugs.
+
+Table 4.
+Effects of Metoclopramide on Other Drugs
+
+| Dopaminergic Agonists and Drugs Increasing Dopamine Concentrations |  |
+| --- | --- |
+| Clinical Impact | Opposing effects of metoclopramide and the interacting drug on dopamine. Potential exacerbation of symptoms (e.g., parkinsonian symptoms). |
+| Intervention | Avoid concomitant use. |
+| Examples | Apomorphine, bromocriptine, cabergoline, levodopa, pramipexole, ropinirole, rotigotine |
+| Succinylcholine, Mivacurium |  |
+| Clinical Impact | Metoclopramide inhibits plasma cholinesterase leading to enhanced neuromuscular blockade. |
+| Intervention | Monitor for signs and symptoms of prolonged neuromuscular blockade |
+| Drugs with Absorption Altered due to Increased Gastrointestinal Motility |  |
+| Clinical Impact | The effect of metoclopramide on other drugs is variable. Increased gastrointestinal (GI) motility by metoclopramide may impact absorption of other drugs leading to decreased or increased drug exposure. |
+| Intervention | Drugs with Decreased Absorption (e.g., digoxin, atovaquone, posaconazole oral suspension*, fosfomycin): Monitor for reduced therapeutic effect of the interacting drug. For digoxin monitor therapeutic drug concentrations and increase the digoxin dose as needed (see prescribing information for digoxin).Drugs with Increased Absorption (e.g., sirolimus, tacrolimus, cyclosporine): Monitor therapeutic drug concentrations and adjust the dose as needed. See prescribing information for the interacting drug. |
+| Insulin |  |
+| Clinical Impact | Increased GI motility by metoclopramide may increase delivery of food to the intestines and increase blood glucose. |
+| Intervention | Monitor blood glucose and adjust insulin dosage regimen as needed. |
+| *Interaction does not apply to posaconazole delayed-release tablets |  |
 
 ## Information for Patients
 
@@ -75,21 +162,31 @@ The prescriber or health professional should instruct patients, their families, 
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 Refer to accompanying Medication Guide.
 
-Metoclopramide may impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle.
-The ambulatory patient should be cautioned accordingly.
+Tardive Dyskinesia and/or other Extrapyramidal Reactions
 
-## Drug Interactions
+Metoclopramide injection may cause tardive dyskinesia or other extrapyramidal symptoms, parkinsonian symptoms, and motor restlessness.
+Instruct patients to immediately contact their healthcare provider if symptoms occur.
+See WARNINGS.
 
-The effects of metoclopramide on gastrointestinal motility are antagonized by anticholinergic drugs and narcotic analgesics.
-Additive sedative effects can occur when metoclopramide is given with alcohol, sedatives, hypnotics, narcotics, or tranquilizers.
+Neuroleptic Malignant Syndrome
 
-The finding that metoclopramide releases catecholamines in patients with essential hypertension suggests that it should be used cautiously, if at all, in patients receiving monoamine oxidase inhibitors.
+Serious neuroleptic malignant syndrome (NMS) has been reported in association with concomitant treatment of metoclopramide with another drug associated with NMS.
+Advise patients to report all prescription and over-the-counter medications to the healthcare provider.
+Instruct patients to seek medical attention if symptoms occur.
 
-Absorption of drugs from the stomach may be diminished (e.g., digoxin) by metoclopramide, whereas the rate and/or extent of absorption of drugs from the small bowel may be increased (e.g., acetaminophen, tetracycline, levodopa, ethanol, cyclosporine).
+Depression and/or Possible Suicidal Ideation
 
-Gastroparesis (gastric stasis) may be responsible for poor diabetic control in some patients.
-Exogenously administered insulin may begin to act before food has left the stomach and lead to hypoglycemia.
-Because the action of metoclopramide will influence the delivery of food to the intestines and thus the rate of absorption, insulin dosage or timing of dosage may require adjustment.
+Symptoms of new onset or worsening depression as well as suicidal ideation have been reported in patients taking metoclopramide.
+Instruct patients to contact their healthcare provider if any of these symptoms occur.
+
+Drug Interactions
+
+Concomitant treatment with numerous other medications can precipitate or worsen serious adverse reactions such as tardive dyskinesia or other extrapyramidal reactions, neuroleptic malignant syndrome, and CNS depression.
+Advise patients to report all prescriptions and over the counter medications to the healthcare provider.
+
+Effects on the Ability to Drive and Operate Machinery
+
+Metoclopramide can cause drowsiness or dizziness, or otherwise impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -102,46 +199,60 @@ Neither clinical studies nor epidemiologic studies conducted to date, however, h
 
 An Ames mutagenicity test performed on metoclopramide was negative.
 
-## Pregnancy Category B
+## Pregnancy
 
 Reproduction studies performed in rats, mice and rabbits by the IM, IV, subcutaneous (SC), and oral routes at maximum levels ranging from 12 to 250 times the human dose have demonstrated no impairment of fertility or significant harm to the fetus due to metoclopramide.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
+Fetal/Neonatal Adverse Reactions
+
+Metoclopramide crosses the placental barrier and may cause extrapyramidal signs and methemoglobinemia in neonates with material administration during delivery.
+Monitor neonates for extrapyramidal signs.
+
 ## Nursing Mothers
 
 Metoclopramide is excreted in human milk.
-Caution should be exercised when metoclopramide is administered to a nursing mother.
+Monitor breastfeeding neonates because metoclopramide may cause extrapyramidal signs (dystonias) and methemoglobinemia.
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established except as stated to facilitate small bowel intubation (see OVERDOSAGE and DOSAGE AND ADMINISTRATION).
+The safety and effectiveness of metoclopramide injection has been established as a single dose to facilitate small bowel intubation in pediatric patients in whom the tube does not pass the pylorus with conventional maneuvers.
 
-Care should be exercised in administering metoclopramide to neonates since prolonged clearance may produce excessive serum concentrations (see CLINICAL PHARMACOLOGY — Pharmacokinetics).
-In addition, neonates have reduced levels of NADH-cytochrome b5 reductase which, in combination with the aforementioned pharmacokinetic factors, make neonates more susceptible to methemoglobinemia (see OVERDOSAGE).
+The safety and effectiveness of metoclopramide injection has not been established in pediatric patients for the following:
+
+- relief of symptoms associated with diabetic gastroparesis
+- prevention of nausea and vomiting associated with emetogenic cancer chemotherapy
+- prevention of postoperative nausea and vomiting
+- to stimulate gastric emptying and intestinal transit of barium where delayed emptying interferes with radiological examination of the stomach and/or small intestine.
 
 The safety profile of metoclopramide in adults cannot be extrapolated to pediatric patients.
-Dystonias and other extrapyramidal reactions associated with metoclopramide are more common in the pediatric population than in adults.
-(See WARNINGS and ADVERSE REACTIONS — Extrapyramidal Reactions.)
+Neonates have reduced levels of NADH-cytochrome b5 reductase which, make neonates more susceptible to methemoglobinemia (see OVERDOSAGE).
+Dystonias and other extrapyramidal reactions associated with metoclopramide are more common in the pediatric population than in adults (see WARNINGS and ADVERSE REACTIONS —Extrapyramidal Reactions).
 
 ## Geriatric Use
 
-Clinical studies of metoclopramide injection did not include sufficient numbers of subjects aged 65 and over to determine whether elderly subjects respond differently from younger subjects.
+Metoclopramide is known to be substantially excreted by the kidney, and the risk of adverse reactions, including TD, may be greater in patients with impaired renal function (see WARNINGS – Tardive Dyskinesia).
 
 The risk of developing parkinsonian-like side effects increases with ascending dose.
 Geriatric patients should receive the lowest dose of metoclopramide injection that is effective.
-If parkinsonian-like symptoms develop in a geriatric patient receiving metoclopramide injection, metoclopramide injection should generally be discontinued before initiating any specific anti-parkinsonian agents (see WARNINGS).
-
-The elderly may be at greater risk for tardive dyskinesia (see WARNINGS - Tardive Dyskinesia).
+If parkinsonian-like symptoms develop in a geriatric patient receiving metoclopramide injection, metoclopramide injection should generally be discontinued before initiating any specific anti-parkinsonian agents (see WARNINGS – Other Extrapyramidal Symptoms).
 
 Sedation has been reported in metoclopramide injection users.
 Sedation may cause confusion and manifest as over-sedation in elderly (see CLINICAL PHARMACOLOGY, PRECAUTIONS – Information for Patients and ADVERSE REACTIONS – CNS Effects).
 
-Metoclopramide injection is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (see DOSAGE AND ADMINISTRATION - Use in Patients With Renal or Hepatic Impairment).
-
-For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (see Use in Patients With Renal or Hepatic Impairment).
+For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (see DOSAGE AND ADMINISTRATION - Use in Patients with Renal or Hepatic Impairment).
 
 ## Other Special Populations
 
+NADH-Cytochrome b5 Reductase Deficiency
+
 Patients with NADH-cytochrome b5 reductase deficiency are at an increased risk of developing methemoglobinemia and/or sulfhemoglobinemia when metoclopramide is administered.
-In patients with G6PD deficiency who experience metoclopramide-induced methemoglobinemia, methylene blue treatment is not recommended (see OVERDOSAGE).
+In patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency who experience metoclopramide-induced methemoglobinemia, methylene blue treatment is not recommended (see OVERDOSAGE).
+
+CYP2D6 Poor Metabolizers
+
+Metoclopramide is a substrate of CYP2D6.
+The elimination of metoclopramide may be slowed in patients who are CYP2D6 poor metabolizers (compared to patients who are CYP2D6 intermediate, extensive, or ultra-rapid metabolizers); possibly increasing the risk of dystonic and other adverse reactions to metoclopramide injection.
+Avoid metoclopramide injection in patients who are poor CYP2D6 metabolizers.
+If use in unavoidable, monitor for adverse reactions.

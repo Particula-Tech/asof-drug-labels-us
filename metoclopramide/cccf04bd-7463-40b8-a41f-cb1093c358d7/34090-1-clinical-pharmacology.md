@@ -37,13 +37,9 @@ The average elimination half-life in individuals with normal renal function is 5
 Approximately 85% of the radioactivity of an orally administered dose appears in the urine within 72 hr. Of the 85% eliminated in the urine, about half is present as free or conjugated metoclopramide.
 
 The drug is not extensively bound to plasma proteins (about 30%).
-The whole body volume of distribution is high (about 3.5 L/kg) which suggests extensive distribution of drug to the tissues.
+The whole body volume of distribution is high (about 3.5 L/kg) which suggests extensive distribution of drug to the tissues (see Table 1).
 
-Renal impairment affects the clearance of metoclopramide.
-In a study with patients with varying degrees of renal impairment, a reduction in creatinine clearance was correlated with a reduction in plasma clearance, renal clearance, non-renal clearance, and increase in elimination half-life.
-The kinetics of metoclopramide in the presence of renal impairment remained linear however.
-The reduction in clearance as a result of renal impairment suggests that adjustment downward of maintenance dosage should be done to avoid drug accumulation.
-
+Table 1.
 Adult Pharmacokinetic Data
 
 | Parameter | Value |
@@ -53,30 +49,31 @@ Adult Pharmacokinetic Data
 | t1/2 (hr) | 5 to 6 |
 | Oral Bioavailability | 80%±15.5% |
 
+Patients with Renal Impairment
+
+In a study of 24 patients with varying degrees of renal impairment (moderate, severe, and end-stage renal disease (ESRD) requiring dialysis), the systemic exposure (AUC) of metoclopramide following intravenous administration in patients with moderate to severe renal impairment was about 2-fold the AUC in subjects with normal renal function.
+The AUC of metoclopramide in patients with ESRD in dialysis was about 3.5-fold the AUC in subjects with normal renal function.
+
+Patients with Hepatic Impairment
+
+In a group of 8 patients with severe hepatic impairment (Child-Pugh C) administered intravenous metoclopramide, the average metoclopramide clearance was reduced by approximately 50% compared to patients with normal hepatic function.
+
+Effect of CYP2D6 Inhibitors on Metoclopramide
+
+In healthy subjects, 20 mg of oral metoclopramide and 60 mg of fluoxetine (a strong CYP2D6 inhibitor) were administered, following prior exposure to 60 mg fluoxetine orally for 8 days.
+The patients who received concomitant metoclopramide and fluoxetine had a 40% and 90% increase in metoclopramide Cmax and AUC0-∞, respectively, compared to patients who received metoclopramide alone (see Table 2).
+
+Table 2.
+Oral Metoclopramide Pharmacokinetic Parameters in Healthy Subjects with and without Fluoxetine
+
+| Parameter | Metoclopramide alone (mean ±SD) | Metoclopramide with fluoxetine(mean ±SD) |
+| --- | --- | --- |
+| Cmax (ng/mL) | 44±15 | 62.7±9.2 |
+| AUC0-∞ (ng∙h/mL) | 313±113 | 591±140 |
+| T1/2(h) | 5.5±1.1 | 8.5±2.2 |
+
+Pediatric Patients
+
 In pediatric patients, the pharmacodynamics of metoclopramide following oral and intravenous administration are highly variable and a concentration-effect relationship has not been established.
 
 There are insufficient reliable data to conclude whether the pharmacokinetics of metoclopramide in adults and the pediatric population are similar.
-Although there are insufficient data to support the efficacy of metoclopramide in pediatric patients with symptomatic gastroesophageal reflux (GER) or cancer chemotherapy-related nausea and vomiting, its pharmacokinetics have been studied in these patient populations.
-
-In an open-label study, six pediatric patients (age range, 3.5 weeks to 5.4 months) with GER received a metoclopramide 0.15 mg/kg oral solution every 6 hours for 10 doses.
-The mean peak plasma concentration of metoclopramide after the tenth dose was 2-fold (56.8 mcg/L) higher compared to that observed after the first dose (29 mcg/L) indicating drug accumulation with repeated dosing.
-After the tenth dose, the mean time to reach peak concentrations (2.2 hr), half-life (4.1 hr), clearance (0.67 L/h/kg), and volume of distribution (4.4 L/kg) of metoclopramide were similar to those observed after the first dose.
-In the youngest patient (age, 3.5 weeks), metoclopramide half-life after the first and the tenth dose (23.1 and 10.3 hr, respectively) was significantly longer compared to other infants due to reduced clearance.
-This may be attributed to immature hepatic and renal systems at birth.
-
-Single intravenous doses of metoclopramide 0.22 to 0.46 mg/kg (mean, 0.35 mg/kg) were administered over 5 minutes to 9 pediatric cancer patients receiving chemotherapy (mean age, 11.7 years; range, 7 to 14 yr) for prophylaxis of cytotoxic-induced vomiting.
-The metoclopramide plasma concentrations extrapolated to time zero ranged from 65 to 395 mcg/L (mean, 152 mcg/L).
-The mean elimination half-life, clearance, and volume of distribution of metoclopramide were 4.4 hr (range, 1.7 to 8.3 hr), 0.56 L/h/kg (range, 0.12 to 1.20 L/h/kg), and 3.0 L/kg (range, 1.0 to 4.8 L/kg), respectively.
-
-In another study, nine pediatric cancer patients (age range, 1 to 9 yr) received 4 to 5 intravenous infusions (over 30 minutes) of metoclopramide at a dose of 2 mg/kg to control emesis.
-After the last dose, the peak serum concentrations of metoclopramide ranged from 1060 to 5680 mcg/L.
-The mean elimination half-life, clearance, and volume of distribution of metoclopramide were 4.5 hr (range, 2.0 to 12.5 hr), 0.37 L/h/kg (range, 0.10 to 1.24 L/h/kg), and 1.93 L/kg (range, 0.95 to 5.50 L/kg), respectively.
-
-| Reference | Dose, Route | t1/2 (hr) | Cl (L/hr/kg) | Vd (L/kg) | Cmax (mcg/L) |
-| --- | --- | --- | --- | --- | --- |
-| Pediatric Pharmacokinetic Studies |  |  |  |  |  |
-| 1. | 0.35 mg/kg, IV over 5 min | 4.4±0.56 | 0.56±0.10 | 3.0±0.38 (Dose/Cp0) | 152±31 |
-| 2. | 2 mg/kg 30 min IV infusion 4 to 5 times within 9.5 hours | 4.5a | 0.37a | 1.93a | 1060 to 5680a |
-| a. SEM not available. |  |  |  |  |  |
-| 1. Bateman, DN, et al. Br J Clin Pharmac 15:557-559, 1983. |  |  |  |  |  |
-| 2. Ford, C. Clin Pharmac Ther 43:196, 1988. |  |  |  |  |  |

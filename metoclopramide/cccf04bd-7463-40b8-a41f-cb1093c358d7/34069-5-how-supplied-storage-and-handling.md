@@ -17,7 +17,7 @@ Do not freeze.
 Do not store open single-dose vials for later use, as they contain no preservative.
 Discard unused portion.
 
-Dispense with Medication Guide available at: www.tevausa.com/medguides
+To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 Manufactured In Croatia By: Pliva Hrvatska d.o.o.
 Zagreb, Croatia
@@ -25,4 +25,4 @@ Zagreb, Croatia
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-A 1/2022
+B 4/2026

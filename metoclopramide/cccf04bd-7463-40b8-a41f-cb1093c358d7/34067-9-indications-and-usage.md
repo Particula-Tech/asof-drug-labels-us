@@ -1,21 +1,21 @@
 # INDICATIONS AND USAGE
 
-## Diabetic Gastroparesis (Diabetic Gastric Stasis)
+## Diabetic Gastroparesis
 
-Metoclopramide injection is indicated for the relief of symptoms associated with acute and recurrent diabetic gastric stasis.
+Metoclopramide injection is indicated for the relief of symptoms associated with acute and recurrent diabetic gastroparesis is in adults.
 
 ## The Prevention of Nausea and Vomiting Associated with Emetogenic Cancer Chemotherapy
 
-Metoclopramide injection is indicated for the prophylaxis of vomiting associated with emetogenic cancer chemotherapy.
+Metoclopramide injection is indicated for the prophylaxis of vomiting associated with emetogenic cancer chemotherapy in adults.
 
 ## The Prevention of Postoperative Nausea and Vomiting
 
-Metoclopramide injection is indicated for the prophylaxis of postoperative nausea and vomiting in those circumstances where nasogastric suction is undesirable.
+Metoclopramide injection is indicated for the prophylaxis of postoperative nausea and vomiting in those circumstances where nasogastric suction is undesirable in adults.
 
 ## Small Bowel Intubation
 
-Metoclopramide injection may be used to facilitate small bowel intubation in adults and pediatric patients in whom the tube does not pass the pylorus with conventional maneuvers.
+Metoclopramide injection is indicated to facilitate small bowel intubation in adult and pediatric patients in whom the tube does not pass the pylorus with conventional maneuvers.
 
 ## Radiological Examination
 
-Metoclopramide injection may be used to stimulate gastric emptying and intestinal transit of barium in cases where delayed emptying interferes with radiological examination of the stomach and/or small intestine.
+Metoclopramide injection is indicated to stimulate gastric emptying and intestinal transit of barium where delayed emptying interferes with radiological examination of the stomach and/or small intestine in adults.

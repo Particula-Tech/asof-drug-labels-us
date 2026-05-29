@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
 In general, the incidence of adverse reactions correlates with the dose and duration of metoclopramide administration.
-The following reactions have been reported, although in most instances, data do not permit an estimate of frequency:
+The following reactions have been reported, although in most instances, data do not permit an estimate of frequency.
 
 ## CNS Effects
 
@@ -67,5 +67,3 @@ Visual disturbances.
 Porphyria.
 
 Transient flushing of the face and upper body, without alterations in vital signs, following high doses intravenously.
-
-To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

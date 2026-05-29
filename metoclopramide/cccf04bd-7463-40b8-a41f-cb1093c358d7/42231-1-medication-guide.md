@@ -1,33 +1,29 @@
-Dispense with Medication Guide available at: www.tevausa.com/medguides
-
 MEDICATION GUIDE Metoclopramide (met” oh kloe’ pra mide) Injection
-
-Rx Only
 
 You or your caregiver should read the Medication Guide before you start receiving metoclopramide injection and before you get another dose of metoclopramide injection.
 There may be new information.
-If you take another product that contains metoclopramide (such as metoclopramide tablets, metoclopramide orally disintegrating tablets, or metoclopramide oral solution), you should read the Medication Guide that comes with that product.
+If you take another product that contains metoclopramide (such as tablets, orally disintegrating tablets, oral syrup, or nasal spray), you should read the Medication Guide that comes with that product.
 Some of the information may be different.
 This Medication Guide does not take the place of talking to your doctor about your medical condition or your treatment.
 
-What is the most important information I should know about metoclopramide?
+What is the most important information I should know about metoclopramide injection?
 
-Metoclopramide can cause serious side effects, including:
+Metoclopramide injection can cause serious side effects, including:
 
-Abnormal muscle movements called tardive dyskinesia (TD).
-These movements happen mostly in the face muscles.
-You cannot control these movements.
-They may not go away even after stopping metoclopramide.
-There is no treatment for TD, but symptoms may lessen or go away over time after you stop taking metoclopramide.
+Tardive Dyskinesia:
 
-Your chances for getting TD go up:
+Metoclopramide, including metoclopramide injection, can cause tardive dyskinesia (TD), a potentially irreversible serious movement disorder.
 
-- the longer you take metoclopramide and the more metoclopramide you take.
-  You should not take metoclopramide for more than 12 weeks.
-- if you are older, especially if you are a woman
+- These movements happen mostly in the face or tongue, and sometimes in the arms or legs.
+  You cannot control these movements.
+- These symptoms may not go away even after stopping metoclopramide injection.
+  Your chances for getting TD go up:
+- the longer you take metoclopramide injection and the more metoclopramide injection you take.
+  People taking metoclopramide injection to relieve the symptoms of slow stomach emptying due to diabetes, should not take metoclopramide injection, or other drugs containing metoclopramide, for more than 12 weeks.
+- if you are older, especially if you are a woman.
 - if you have diabetes
 
-It is not possible for your doctor to know if you will get TD if you take metoclopramide.
+It is not possible for your doctor to know if you will get TD if you take metoclopramide injection.
 
 Call your doctor right away if you get movements you can not stop or control, such as:
 
@@ -37,139 +33,149 @@ Call your doctor right away if you get movements you can not stop or control, su
 - blinking and moving your eyes
 - shaking of your arms and legs
 
-See the section “What are the possible side effects of metoclopramide?” for more information about side effects.
+Your doctor may stop treatment with metoclopramide injection if you develop signs or symptoms of TD.
 
-What is metoclopramide?
+See the section “What are the possible side effects of metoclopramide injection?” for more information about side effects.
 
-Metoclopramide is a prescription medicine used to:
+What is metoclopramide injection?
 
-- relieve symptoms of slow stomach emptying in people with diabetes
-- prevent nausea and vomiting that can happen with cancer chemotherapy
-- prevent nausea and vomiting that may happen after surgery, if your doctor decides that you should not be treated with a stomach tube and suction
+Metoclopramide injection is a prescription medicine used to:
+
+- relieve symptoms of slow stomach emptying in adults with diabetes.
+- prevent nausea and vomiting that can happen with cancer chemotherapy in adults.
+- prevent nausea and vomiting that may happen after surgery in adults, if your doctor decides that you should not be treated with a stomach tube and suction.
 - help make it easier to insert a tube into the small intestine in both adults and children, if the tube does not pass into the stomach normally.
-- to help empty stomach contents or to help barium move through your intestine, when you get an X-ray examination of the stomach or small intestine.
-  It is not known if metoclopramide is safe and works in children except when used to help insert a tube into the small intestine.
+- to help empty stomach contents or to help barium move through the intestine in adults, when you get an X-ray examination of the stomach or small intestine.
 
-Who should not receive metoclopramide?
+It is not known if metoclopramide is safe and effective in children except when used to help insert a tube into the small intestine.
 
-Do not receive metoclopramide if you:
+Who should not receive metoclopramide injection?
 
-- have stomach or intestine problems that could get worse with metoclopramide, such as bleeding, blockage or a tear in your stomach or bowel wall
-- have an adrenal gland tumor called pheochromocytoma
-- are allergic to metoclopramide or anything in it.
-  See the end of this Medication Guide for a list of ingredients in metoclopramide.
-- take medicines that can cause uncontrolled movements, such as medicines for mental illness
-- have seizures
+Do not receive metoclopramide injection if you:
 
-What should I tell my doctor before receiving metoclopramide?
+- have a history of tardive dyskinesia or have a problem controlling your muscles and movements after taking metoclopramide injection or a medicine that works like metoclopramide injection.
+- have stomach or intestine problems that could get worse with metoclopramide injection, such as bleeding, blockage or a tear in your stomach or bowel wall.
+- have an adrenal gland tumor called pheochromocytoma.
+- are allergic to metoclopramide.
+- have seizures.
 
-Tell your doctor about all of your medical conditions, including if you have:
+What should I tell my doctor before receiving metoclopramide injection?
 
-- depression
-- Parkinson’s disease
-- high blood pressure
-- kidney problems.
-  Your doctor may start with a lower dose.
-- liver problems or heart failure.
-  Metoclopramide may cause your body to hold fluids.
-- diabetes.
+Tell your doctor about all of your medical conditions, including if you:
+
+- have problems controlling your muscle movements after taking any medicine.
+- have Parkinson’s disease.
+- have or had depression or mental illness.
+- have kidney or liver problems.
+- have heart failure or heart rhythm problems.
+- have high blood pressure.
+- drink alcohol.
+- have diabetes.
   Your dose of insulin may need to be changed.
-- breast cancer
-- you are pregnant or plan to become pregnant.
-  It is not known if metoclopramide will harm your unborn child.
-- you are breastfeeding.
+- are pregnant or plan to become pregnant.
+  It is not known if metoclopramide injection will harm your unborn child.
+- are breastfeeding.
   Metoclopramide is passed into human milk and may harm your baby.
-  Talk with your doctor about the best way to feed your baby if you take metoclopramide.
+  Talk with your doctor about the best way to feed your baby if you take metoclopramide injection.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
-Metoclopramide and some other medicines can affect each other and may not work as well, or cause possible side effects.
-Do not start any new medicines while receiving metoclopramide until you talk with your doctor.
+Metoclopramide injection and some other medicines can affect each other and may not work as well, or cause possible side effects.
+Do not start any new medicines while receiving metoclopramide injection until you talk with your doctor.
 
 Especially tell your doctor if you take:
 
-- another medicine that contains metoclopramide, such as metoclopramide tablets, metoclopramide orally disintegrating tablets, or metoclopramide oral solution
-- a blood pressure medicine
+- another medicine that contains metoclopramide, such as metoclopramide tablets, metoclopramide orally disintegrating tablets, metoclopramide oral syrup, or Gimoti nasal spray
+- an anti-psychotic medicine, used to treat mental illness such as schizophrenia
+- a medicine for Parkinson’s disease
 - a medicine for depression, especially a Monoamine Oxidase Inhibitor (MAOI)
 - insulin
-- a medicine that can make you sleepy, such as anti-anxiety medicine, sleep medicines, and narcotics.
+- medicines that can make you sleepy, such as anti-anxiety medicines, sleep medicines, and narcotics.
 
 If you are not sure if your medicine is one listed above, ask your doctor or pharmacist.
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
 
-How will I receive metoclopramide?
+How will I receive metoclopramide injection?
 
-- Metoclopramide will be given to you by intravenous (IV) infusion into your vein or by intramuscular (IM) injection into a large muscle.
+- Metoclopramide injection will be given to you by intravenous (IV) infusion into your vein or by intramuscular (IM) injection into a large muscle.
   Where and how you receive your metoclopramide injection (IV or IM) will depend on why you are receiving it.
-- Certain side effects can happen if metoclopramide is given too fast.
-  See the section “What are the possible side effects of metoclopramide?”
-- You should not take or receive metoclopramide for more than 12 weeks.
+- Certain side effects can happen if metoclopramide injection is given too fast.
+  See the section “What are the possible side effects of metoclopramide injection?”
+- You should not take or receive medicines containing metoclopramide (including metoclopramide injection) for more than 12 weeks.
 
-What should I avoid while receiving metoclopramide?
+What should I avoid while receiving metoclopramide injection?
 
-- Do not drink alcohol while receiving metoclopramide.
-  Alcohol may make some side effects of metoclopramide worse, such as feeling sleepy.
+- Do not drink alcohol while receiving metoclopramide injection.
+  Alcohol may make some side effects of metoclopramide injection worse, such as feeling sleepy.
 - Do not drive, work with machines, or do dangerous tasks until you know how metoclopramide affects you.
-  Metoclopramide may cause sleepiness.
+  Metoclopramide injection may cause sleepiness.
+- You should avoid taking antipsychotic medicines (used to treat mental illness such as schizophrenia), while receiving metoclopramide injection.
+  Taking these medicines with metoclopramide injection may make the serious side effect TD worse.
 
-What are the possible side effects of metoclopramide?
+What are the possible side effects of metoclopramide injection?
 
-Metoclopramide can cause serious side effects, including:
+Metoclopramide injection can cause serious side effects, including:
 
-- Abnormal muscle movements.
-  See the section “What is the most important information I should know about metoclopramide?”
+- Tardive dyskinesia (Abnormal muscle movements).
+  See the section “What is the most important information I should know about metoclopramide injection?”
 - Uncontrolled spasms of your face and neck muscles, or muscles of your body, arms, and legs (dystonia).
   These muscle spasms can cause abnormal movements and body positions.
   These spasms usually start within the first 2 days of treatment.
-  These spasms happen more often in children and adults under age 30.
-- Depression, thoughts about suicide, and suicide.
-  Some people who take metoclopramide become depressed.
-  You may have thoughts about hurting or killing yourself.
-  Some people who take metoclopramide have ended their own lives (suicide).
-- Neuroleptic Malignant Syndrome (NMS).
-  NMS is a very rare but very serious condition that can happen with metoclopramide.
-  NMS can cause death and must be treated in a hospital.
-  Symptoms of NMS include: high fever, stiff muscles, problems thinking, very fast or uneven heartbeat, and increased sweating.
+  These spasms happen more often in children and adults under age 30 and in those who took higher doses of metoclopramide.
 - Parkinsonism.
   Symptoms include slight shaking, body stiffness, trouble moving or keeping your balance.
-  If you already have Parkinson’s disease, your symptoms may become worse while you are receiving metoclopramide.
+  If you already have Parkinson’s disease, your symptoms may become worse while you are receiving metoclopramide injection.
+- Being unable to sit still or feeling you need to move your hands, feet, or body (akathisia).
+  Symptoms can include feeling jittery, anxious, irritated or unable to sleep (insomnia), feeling the need to walk around (pacing) and tapping your feet.
+- Neuroleptic Malignant Syndrome (NMS).
+  NMS is a very rare but very serious condition that can happen with metoclopramide injection.
+  NMS can cause death and must be treated in a hospital.
+  Symptoms of NMS include: high fever, stiff muscles, problems thinking, very fast or uneven heartbeat, and increased sweating.
+- Depression, thoughts about suicide, and suicide.
+  Some people who take metoclopramide injection become depressed.
+  You may have thoughts about hurting or killing yourself.
+  Some people who take metoclopramide injection have ended their own lives (suicide).
+- High blood pressure. metoclopramide injection can cause your blood pressure to increase.
+- Too much body water.
+  People who have certain liver problems or heart failure and take metoclopramide injection may hold too much water in their body (fluid retention).
+  Tell your doctor right away if you have sudden weight gain, or swelling of your hands, legs, or feet.
 
 Call your doctor and get medical help right away if you:
 
+- have muscle movements you cannot stop or control
+- have muscle movements that are new or unusual
 - feel depressed or have thoughts about hurting or killing yourself
 - have high fever, stiff muscles, problems thinking, very fast or uneven heartbeat, and increased sweating
-- have muscle movements you can not stop or control
-- have muscle movements that are new or unusual
 
-Common side effects of metoclopramide include:
+Common side effects of metoclopramide injection include:
 
 - feeling restless, sleepy, tired, dizzy, or exhausted
 - headache
 - confusion
 - trouble sleeping
 
-Infusion related side effects can happen if metoclopramide is given too fast.
-You may feel very anxious and restless for a short time, and then become sleepy while you are receiving a dose of metoclopramide.
+Infusion related side effects can happen if metoclopramide injection is given too fast.
+You may feel very anxious and restless for a short time, and then become sleepy while you are receiving a dose of metoclopramide injection.
 Tell your doctor or nurse right away if this happens.
 
-You may have more side effects the longer you take metoclopramide and the more metoclopramide you take.
+You may have more side effects the longer you take metoclopramide injection and the more metoclopramide injection you take.
 
 Tell your doctor about any side effects that bother you or do not go away.
-These are not all the possible side effects of metoclopramide.
+These are not all the possible side effects of metoclopramide injection.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-General information about metoclopramide
+General information about metoclopramide injection
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 
-This Medication Guide summarizes the most important information about metoclopramide.
-If you would like more information about metoclopramide, talk with your doctor.
-You can ask your doctor or pharmacist for information about metoclopramide that is written for healthcare professionals.
+This Medication Guide summarizes the most important information about metoclopramide injection.
+If you would like more information about metoclopramide injection, talk with your doctor.
+You can ask your doctor or pharmacist for information about metoclopramide injection that is written for healthcare professionals.
 For more information, call Teva at 1-888-838-2872.
 
-What are the ingredients in metoclopramide?
+What are the ingredients in metoclopramide injection?
 
 Active ingredient: metoclopramide
 
@@ -179,10 +185,15 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Brands listed are the trademarks of their respective owners.
 
-Manufactured In Croatia By: Pliva Hrvatska d.o.o.
+Manufactured In Croatia By:
+
+Pliva Hrvatska d.o.o.
+
 Zagreb, Croatia
 
-Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
+Manufactured For:
+
+Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-A 1/2022
+B 4/2026
