@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019557"
+  ],
+  "inn": "etoposide",
+  "labeler": "Onesource Specialty Pharma Limited",
+  "package_ndcs": [
+    "83270-451-05"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "etoposide",
+      "name": "ETOPOSIDE"
+    }
+  ],
+  "setid": "7bc994df-ee84-4ed7-80fa-737f70918953",
+  "source": "dailymed"
+}
