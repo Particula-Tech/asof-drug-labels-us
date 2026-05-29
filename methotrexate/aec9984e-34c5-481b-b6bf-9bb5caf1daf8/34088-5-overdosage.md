@@ -13,7 +13,7 @@ Administer leucovorin or levoleucovorin as soon as possible after overdosage (re
 Monitor serum methotrexate concentrations closely to guide leucovorin or levoleucovorin therapy.
 Monitor serum creatinine concentrations closely because high serum methotrexate concentrations may cause renal damage leading to acute renal failure.
 
-Glucarpidase is indicated for the treatment of toxic methotrexate concentrations in patients with delayed methotrexate clearance due to impaired renal function (refer to the glucarpidase Prescribing Information).
+Glucarpidase is indicated for the treatment of toxic methotrexate concentrations in patients with delayed methotrexate clearance due to impaired renal function (refer to the glucarpidase prescribing information).
 If glucarpidase is used, do not administer leucovorin within 2 hours before or after a dose of glucarpidase because leucovorin is a substrate for glucarpidase.
 
 In cases of massive overdosage, hydration and urinary alkalinization may be necessary to prevent the precipitation of methotrexate and/or its metabolites in the renal tubules.

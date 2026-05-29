@@ -12,16 +12,16 @@ A pharmacist can provide an appropriate device and can provide instructions for 
 
 ## 2.2 Acute Lymphoblastic Leukemia
 
-The recommended starting dose of XATMEP, in multi-agent combination chemotherapy maintenance regimens, is 20 mg/m 2given one time weekly.
+The recommended starting dose of XATMEP, in multi-agent combination chemotherapy maintenance regimens, is 20 mg/m2 given one time weekly.
 After initiating XATMEP, continuation of appropriate dosing requires periodic monitoring of absolute neutrophil count (ANC) and platelet count to assure sufficient drug exposure (that is to maintain ANC at a desirable level) and to adjust for excessive hematological toxicity.
 
 ## 2.3 Polyarticular Juvenile Idiopathic Arthritis
 
-The recommended starting dose of XATMEP is 10 mg/m 2given one time weekly.
+The recommended starting dose of XATMEP is 10 mg/m2 given one time weekly.
 
 Dosages should be tailored to the individual patient and adjusted gradually to achieve an optimal response.
-Although there is experience with doses up to 30 mg/m 2/week in pediatric patients, doses greater than 20 mg/m 2/week may result in a significant increase in the incidence and severity of serious toxic reactions, especially bone marrow suppression.
-Doses between 20 and 30 mg/m 2/week (0.65 to 1 mg/kg/week) may have better absorption and fewer gastrointestinal side effects if methotrexate is administered by an alternative route using another formulation.
+Although there is experience with doses up to 30 mg/m2/week in pediatric patients, doses greater than 20 mg/m2/week may result in a significant increase in the incidence and severity of serious toxic reactions, especially bone marrow suppression.
+Doses between 20 and 30 mg/m2/week (0.65 to 1 mg/kg/week) may have better absorption and fewer gastrointestinal side effects if methotrexate is administered by an alternative route using another formulation.
 
 Therapeutic response usually begins within 3 to 6 weeks and the patient may continue to improve for another 12 weeks or more.
 
@@ -35,5 +35,4 @@ Exclude pregnancy in females of reproductive potential before starting XATMEP [s
 ## 2.5 Handling Information
 
 XATMEP is a cytotoxic drug.
-Follow applicable special handling and disposal procedures.
-1
+Follow applicable special handling and disposal procedures.1

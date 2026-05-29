@@ -33,7 +33,7 @@ Caution should be used when NSAIDs and salicylates are administered concomitantl
 These drugs have been reported to reduce the tubular secretion of methotrexate in an animal model and may enhance its toxicity.
 
 Despite the potential interactions, studies of methotrexate in patients with rheumatoid arthritis, including patients with polyarticular juvenile idiopathic arthritis (pJIA), have usually included concurrent use of constant dosage regimens of NSAIDs, without apparent problems.
-It should be appreciated, however, that the doses used in pJIA (10 mg/m 2/week as starting dose) are somewhat lower than those used in acute lymphoblastic leukemia and that larger doses could lead to unexpected toxicity.
+It should be appreciated, however, that the doses used in pJIA (10 mg/m2/week as starting dose) are somewhat lower than those used in acute lymphoblastic leukemia and that larger doses could lead to unexpected toxicity.
 Aspirin, NSAIDs, and/or low dose steroids may be continued, although the possibility of increased toxicity with concomitant use of NSAIDs including salicylates has not been fully explored.
 Steroids may be reduced gradually in patients who respond to methotrexate.
 

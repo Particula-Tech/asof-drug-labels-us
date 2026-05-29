@@ -2,7 +2,7 @@
 
 Importance of Proper Dosing and Administration
 
-Advise patients that the recommended dose should be taken one timeweekly, as directed, and that mistaken daily use of the recommended dose has led to fatal toxicity [see Dosage and Administration (2.1), Warnings and Precautions (5.15)].
+Advise patients that the recommended dose should be taken one time weekly, as directed, and that mistaken daily use of the recommended dose has led to fatal toxicity [see Dosage and Administration (2.1), Warnings and Precautions (5.15)].
 
 Advise patients and caregivers to measure XATMEP with an accurate milliliter measuring device.
 A household teaspoon is not an accurate measuring device.
@@ -63,3 +63,14 @@ Proper Storage and Disposal
 Advise patients to store XATMEP either refrigerated (2°C to 8°C/36°F to 46°F) or at room temperature (20°C to 25°C/68°F to 77°F) with excursions permitted to 15°C to 30°C/59°F to 86°F.
 If stored at room temperature, discard after 60 days.
 Inform patients and caregivers of the need for proper storage and disposal of dispensing bottles and dosing devices [see References (15)].
+
+Manufactured for:
+
+Woburn, MA 01801 USA
+
+Patent: https://azurity.com/patents_and_trademarks/
+
+This product’s label may have been updated.
+For current Full Prescribing Information, please visit www.xatmep.com
+
+REV05

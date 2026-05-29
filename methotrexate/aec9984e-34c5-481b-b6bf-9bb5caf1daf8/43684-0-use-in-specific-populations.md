@@ -4,7 +4,7 @@
 
 ### Risk Summary
 
-Based on published reports and methotrexate’s mechanism of action, methotrexate is a teratogen that can cause embryo-fetal toxicity and fetal death when administered to a pregnant woman [see Dataand Clinical Pharmacology (12.1)].
+Based on published reports and methotrexate’s mechanism of action, methotrexate is a teratogen that can cause embryo-fetal toxicity and fetal death when administered to a pregnant woman [see Data and Clinical Pharmacology (12.1)].
 In pregnant women with non-malignant disease, XATMEP is contraindicated.
 Consider the benefits and risks of XATMEP and risks to the fetus when prescribing XATMEP to a pregnant patient with a neoplastic disease.
 There are no animal data that meet current standards for nonclinical developmental toxicity studies.
