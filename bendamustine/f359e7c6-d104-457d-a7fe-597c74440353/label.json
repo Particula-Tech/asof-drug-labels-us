@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA219014"
+  ],
+  "inn": "bendamustine",
+  "labeler": "Avyxa Pharma, LLC",
+  "package_ndcs": [
+    "83831-183-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bendamustine hydrochloride",
+      "name": "BENDAMUSTINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "f359e7c6-d104-457d-a7fe-597c74440353",
+  "source": "dailymed"
+}
