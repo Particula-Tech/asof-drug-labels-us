@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA202327"
+  ],
+  "inn": "sitagliptin",
+  "labeler": "Teva Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0480-2607-56",
+    "0480-2607-98",
+    "0480-2608-56",
+    "0480-2608-98",
+    "0480-2609-10",
+    "0480-2609-56",
+    "0480-2609-98"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sitagliptin",
+      "name": "Sitagliptin"
+    }
+  ],
+  "setid": "5fa5aa67-455e-4ac6-864d-268a91286432",
+  "source": "dailymed"
+}
