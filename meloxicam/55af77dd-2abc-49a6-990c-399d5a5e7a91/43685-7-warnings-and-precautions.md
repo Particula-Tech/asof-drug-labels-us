@@ -50,9 +50,7 @@ Strategies to Minimize the GI Risks in NSAID-treated patients:
 - Use the lowest effective dosage for the shortest possible duration.
 - Avoid administration of more than one NSAID at a time.
 - Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
-
-For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
-
+  For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
 - Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
 - If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue meloxicam oral suspension until a serious GI adverse event is ruled out.
 - In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
@@ -126,6 +124,8 @@ When meloxicam oral suspension is used in patients with preexisting asthma (with
 ## 5.9 Serious Skin Reactions
 
 NSAIDs, including meloxicam, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of meloxicam oral suspension at the first appearance of skin rash or any other sign of hypersensitivity. meloxicam oral suspension is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 

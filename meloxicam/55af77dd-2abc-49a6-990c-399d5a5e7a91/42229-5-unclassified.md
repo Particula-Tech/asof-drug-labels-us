@@ -4,6 +4,6 @@ Manufactured for Emerald Therapeutics, LLC, Birmingham, AL 35209 USA
 
 Made in Canada
 
-© 2022 Emerald Therapeutics, LLC
+© 2024 Emerald Therapeutics, LLC
 
-C-A235
+C-A235R1
