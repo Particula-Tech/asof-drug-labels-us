@@ -16,7 +16,7 @@ The potential for these risks should not, however, prevent the proper management
 Patients at increased risk may be prescribed opioids such as buprenorphine transdermal system but use in such patients necessitates intensive counseling about the risks and proper use of buprenorphine transdermal system, along with frequent reevaluation for signs of addiction, abuse, or misuse.
 Consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
 
-Abuse or misuse of buprenorphine transdermal system by placing it in the mouth, chewing it, swallowing it, or using it in ways other than indicated may cause choking, overdose and death [see Overdosage (10)].
+Abuse or misuse of buprenorphine transdermal system by placing it in the mouth, chewing it, swallowing it, or using it in ways other than indicated may cause choking, overdose, and death [see Overdosage (10)].
 
 Opioids are sought for nonmedical use and are subject to diversion from legitimate prescribed use.
 Consider these risks when prescribing or dispensing buprenorphine transdermal system.
@@ -156,7 +156,7 @@ Regularly evaluate these patients for signs of hypotension after initiating or t
 In patients with circulatory shock, buprenorphine transdermal system may cause vasodilation that can further reduce cardiac output and blood pressure.
 Avoid the use of buprenorphine transdermal system in patients with circulatory shock.
 
-## 5.13 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury or Impaired Consciousness
+## 5.13 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
 In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), buprenorphine transdermal system may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with buprenorphine transdermal system.
@@ -169,7 +169,7 @@ Avoid the use of buprenorphine transdermal system in patients with impaired cons
 Cases of cytolytic hepatitis and hepatitis with jaundice have been observed in individuals receiving sublingual buprenorphine for the treatment of opioid dependence, both in clinical trials and in post-marketing adverse event reports.
 The spectrum of abnormalities ranges from transient asymptomatic elevations in hepatic transaminases to case reports of hepatic failure, hepatic necrosis, hepatorenal syndrome, and hepatic encephalopathy.
 In many cases, the presence of pre-existing liver enzyme abnormalities, infection with hepatitis B or hepatitis C virus, concomitant usage of other potentially hepatotoxic drugs, and ongoing injection drug abuse may have played a causative or contributory role.
-For patients at increased risk of hepatotoxicity (e.g., patients with a history of excessive alcohol intake, intravenous drug abuse or liver disease), obtain baseline liver enzyme levels and monitor periodically and during treatment with buprenorphine transdermal system.
+For patients at increased risk of hepatotoxicity (e.g., patients with a history of excessive alcohol intake, intravenous drug abuse, or liver disease), obtain baseline liver enzyme levels and monitor periodically and during treatment with buprenorphine transdermal system.
 
 ## 5.15 Risks of Gastrointestinal Complications
 

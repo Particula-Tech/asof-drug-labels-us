@@ -21,7 +21,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Buprenorphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System
 
@@ -110,7 +110,7 @@ In a crossover study of healthy subjects receiving endotoxin or placebo challeng
 
 Distribution
 
-Buprenorphine is approximately 96% bound to plasma proteins, mainly to alpha- and beta- globulin.
+Buprenorphine is approximately 96% bound to plasma proteins, mainly to alpha- and beta-globulin.
 
 Studies of IV buprenorphine have shown a large volume of distribution (approximately 430 L), implying extensive distribution of buprenorphine.
 

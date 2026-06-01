@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Table 5 Includes clinically significant drug interactions with buprenorphine transdermal system.
+Table 5 includes clinically significant drug interactions with buprenorphine transdermal system.
 
 Table 5: Clinically Significant Drug Interactions with Buprenorphine Transdermal System
 

@@ -62,7 +62,7 @@ Serotonin Syndrome
 
 Inform patients that opioids could cause a rare but potentially life-threatening condition called serotonin syndrome resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
-Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Drug Interactions (7)].
+Instruct patients to inform their physicians if they are taking, or plan to take, serotonergic medications [see Drug Interactions (7)].
 
 MAOI Interaction
 
@@ -114,7 +114,7 @@ Advise patients how to recognize such a reaction and when to seek medical attent
 
 Pregnancy
 
-- Neonatal Opioid Withdrawal Syndrome Inform female patients of reproductive potential the use of buprenorphine transdermal system for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+- Neonatal Opioid Withdrawal Syndrome Inform female patients of reproductive potential that the use of buprenorphine transdermal system for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 - Embryofetal Toxicity Inform female patients of reproductive potential that buprenorphine transdermal system can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation

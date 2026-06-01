@@ -94,7 +94,7 @@ General disorders and administration site conditions: fatigue, peripheral edema,
 
 Infections and infestations: urinary tract infection, upper respiratory tract infection, nasopharyngitis, influenza, sinusitis, and bronchitis
 
-Injury, poisoning and procedural complications: fall
+Injury, poisoning, and procedural complications: fall
 
 Metabolism and nutrition disorders: anorexia
 
@@ -104,7 +104,7 @@ Nervous system disorders: hypoesthesia, tremor, migraine, and paresthesia
 
 Psychiatric disorders: insomnia, anxiety, and depression
 
-Respiratory, thoracic and mediastinal disorders: dyspnea, pharyngolaryngeal pain, and cough
+Respiratory, thoracic, and mediastinal disorders: dyspnea, pharyngolaryngeal pain, and cough
 
 Skin and subcutaneous tissue disorders: pruritus, hyperhidrosis, rash, and generalized pruritus
 

@@ -126,8 +126,8 @@ If you prefer not to flush the used patch down the toilet, and if there is not a
 Never put used buprenorphine transdermal system patches in the trash without first sealing them in the Patch-Disposal Unit.
 This "Instructions for Use" has been approved by the U.S. Food and Drug Administration.
 
-Marketed by: Rhodes Pharmaceuticals, Wilson, NC 27893
+Marketed by: Rhodes Pharmaceuticals LLC, Wilson, NC 27893
 
-Revised: 2/2023
+Revised: 05/2026
 
 Bioclusive is a trademark of Systagenix Wound Management (US), Inc. Tegaderm is a trademark of 3M.

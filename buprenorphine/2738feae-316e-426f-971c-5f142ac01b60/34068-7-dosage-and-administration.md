@@ -73,7 +73,7 @@ Methadone has a long half-life and can accumulate in the plasma.
 
 Individually titrate buprenorphine transdermal system to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving buprenorphine transdermal system to assess the maintenance of pain control, signs and symptoms of opioid withdrawal and other adverse reactions, as well as reassessing for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1, 5.19)].
-Frequent communication is important among the prescriber, other members of healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
+Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 During use of opioid therapy for an extended period of time, periodically reassess the continued need for opioid analgesics.
 
 The minimum buprenorphine transdermal system titration interval is 72 hours, based on the pharmacokinetic profile and time to reach steady state levels [see Clinical Pharmacology (12.3)].
@@ -131,7 +131,7 @@ As buprenorphine transdermal system is only intended for 7-day application, cons
 - Instruct patients to apply immediately after removal from the individually sealed pouch.
   Instruct patients not to use buprenorphine transdermal system if the pouch seal is broken or the patch is cut, damaged, or changed in any way.
   See the Instructions for Use for step-by-step instructions for applying buprenorphine transdermal system.
-- Apply buprenorphine transdermal system to the upper outer arm, upper chest, upper back or the side of the chest.
+- Apply buprenorphine transdermal system to the upper outer arm, upper chest, upper back, or the side of the chest.
   These 4 sites (each present on both sides of the body) provide 8 possible application sites.
   Rotate buprenorphine transdermal system among the 8 described skin sites.
   After buprenorphine transdermal system removal, wait a minimum of 21 days before reapplying to the same skin site [see Clinical Pharmacology (12.3)].
@@ -141,7 +141,7 @@ As buprenorphine transdermal system is only intended for 7-day application, cons
   If the application site must be cleaned, clean the site with water only.
   Do not use soaps, alcohol, oils, lotions, or abrasive devices.
   Allow the skin to dry before applying buprenorphine transdermal system.
-- Incidental exposure of the buprenorphine transdermal system patch to water, such as while bathing or showering is acceptable based on experience during clinical studies.
+- Incidental exposure of the buprenorphine transdermal system patch to water, such as while bathing or showering, is acceptable based on experience during clinical studies.
 - If problems with adhesion of buprenorphine transdermal system occur, the edges may be taped with first aid tape.
   If problems with lack of adhesion continue, the patch may be covered with waterproof or semipermeable adhesive dressings suitable for 7 days of wear.
 - If buprenorphine transdermal system falls off during the 7-day dosing interval, dispose of the transdermal system properly and place a new buprenorphine transdermal system patch on at a different skin site.

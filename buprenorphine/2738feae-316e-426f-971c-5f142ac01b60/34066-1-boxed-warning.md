@@ -8,7 +8,7 @@ Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression may occur with use of buprenorphine transdermal system, especially during initiation or following a dosage increase.
 To reduce the risk of respiratory depression, proper dosing and titration of buprenorphine transdermal system are essential.
-Misuse or abuse of buprenorphine transdermal system by chewing, swallowing, snorting or injecting buprenorphine extracted from the transdermal system will result in the uncontrolled delivery of buprenorphine and pose a significant risk of overdose and death [see Warnings and Precautions (5.2)].
+Misuse or abuse of buprenorphine transdermal system by chewing, swallowing, snorting, or injecting buprenorphine extracted from the transdermal system will result in the uncontrolled delivery of buprenorphine and pose a significant risk of overdose and death [see Warnings and Precautions (5.2)].
 
 Accidental Exposure
 

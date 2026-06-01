@@ -58,7 +58,7 @@ Because of the potential for serious adverse reactions, including excess sedatio
 Clinical Considerations
 
 Monitor infants exposed to buprenorphine transdermal system through breast milk for excess sedation and respiratory depression.
-Withdrawal symptoms can occur in breastfed infants when maternal administration of buprenorphine is stopped or when breast-feeding is stopped.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of buprenorphine is stopped or when breastfeeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -69,7 +69,7 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of buprenorphine transdermal system in patients under 18 years of age has not been established.
+The safety and efficacy of buprenorphine transdermal system in patients under 18 years of age have not been established.
 Buprenorphine transdermal system has been evaluated in an open-label clinical trial in pediatric patients.
 However, definitive conclusions are not possible because of the small sample size.
 
