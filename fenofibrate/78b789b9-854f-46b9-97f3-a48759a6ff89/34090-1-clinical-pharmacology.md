@@ -64,7 +64,7 @@ Use in Specific Populations
 Geriatric Patients
 
 In geriatric volunteers 77 to 87 years of age, the apparent oral clearance of fenofibric acid following a single oral dose of fenofibrate was 1.2 L/h, which compares to 1.1 L/h in young adults.
-This indicates that an similar dosage regimen can be used in geriatric patients with normal renal function, without increasing accumulation of the drug or metabolites [see Dosage and Administration (2) and Use in Specific Populations (8)].
+This indicates that a similar dosage regimen can be used in geriatric patients with normal renal function, without increasing accumulation of the drug or metabolites [see Dosage and Administration (2) and Use in Specific Populations (8)].
 
 Pediatric Patients
 
