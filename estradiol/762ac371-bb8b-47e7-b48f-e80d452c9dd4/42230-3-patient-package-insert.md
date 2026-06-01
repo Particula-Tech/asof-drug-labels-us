@@ -8,7 +8,7 @@ Read this Patient Information before you start using EstroGel, and each time you
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-| What is the most important information I should know about EstroGel (an estrogen hormone)? Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are using EstroGel. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause. |
+| What is the most important information I should know about EstroGel (an estrogen hormone)? Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are using EstroGel. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia (decline in brain function).Using estrogen-alone may increase your chances of getting strokes and blood clots.Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age and older.Do not use estrogens with progestogens to prevent heart disease, heart attack, strokes or dementia.Using estrogens with progestogens may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots.Using estrogens with progestogens may increase your chance of getting dementia, based on a study of women 65 years of age and older.Only one estrogen-alone product and dose have been shown to increase your chances of getting strokes, blood clots, and dementia. Only one estrogen with progestogen product and dose have been shown to increase your chances of getting heart attacks, strokes, breast cancer, blood clots, and dementia. Because other products and doses have not been studied in the same way, it is not known how the use of EstroGel will affect your chances of these conditions. You and your healthcare provider should talk regularly about whether you still need treatment with EstroGel. |
 | --- |
 
 What is EstroGel?
@@ -75,10 +75,16 @@ Side effects are grouped by how serious they are and how often they happen when 
 
 Serious, but less common side effects include:
 
+- heart attack
+- stroke
+- blood clots
+- breast cancer
 - cancer of the lining of the uterus (womb)
 - cancer of the ovary
+- dementia
 - high or low blood calcium
 - gallbladder disease
+- worsening of swelling of face and tongue (angioedema) in women with a history of angioedema
 - visual abnormalities
 - high blood pressure
 - high levels of fat (triglycerides) in your blood
@@ -86,8 +92,7 @@ Serious, but less common side effects include:
 - changes in your thyroid hormone levels
 - fluid retention
 - cancer changes of endometriosis
-- enlargement of benign tumors of the uterus (“fibroids”)
-- worsening of swelling of face and tongue (angioedema) in women with a history of angioedema
+- enlargement of benign tumors of the uterus ("fibroids")
 - changes in laboratory test results such as bleeding time and high blood sugar
 
 Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
@@ -112,8 +117,7 @@ Common side effects of EstroGel include:
 These are not all of the possible side effects of EstroGel.
 For more information, ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effects that bother you or do not go away.
-You may report side effects to FDA at 1-800-FDA-1088 or to ASCEND Therapeutics® US, LLC at 1‑877-204-1013.
-
+You may report side effects to FDA at 1-800-FDA 1088 or to ASCEND Therapeutics® US, LLC at 1‑877-204-1013.
 What can I do to lower my chances of a serious side effect with EstroGel?
 
 - Talk with your healthcare provider regularly about whether you should continue using EstroGel.
@@ -125,28 +129,26 @@ What can I do to lower my chances of a serious side effect with EstroGel?
 - If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances of getting heart disease.
 
 Ask your healthcare provider for ways to lower your chances of getting heart disease.
-
 How should I store EstroGel?
 
 - Store EstroGel at room temperature between 68°F to 77°F (20°C to 25°C).
 
 Keep EstroGel and all medicines out of the reach of children.
-
 General information about the safe and effective use of EstroGel
 
 Medicines are sometimes prescribed for conditions that are not mentioned in Patient Information leaflets.
 Do not use EstroGel for conditions for which it was not prescribed.
 Do not give EstroGel to other people, even if they have the same symptoms you have.
 It may harm them.
-You can ask your healthcare provider or pharmacist for information about EstroGel that is written for health professionals.
-For more information, go to www.estrogel.com, or call ASCEND Therapeutics ® US, LLC at 1-877-204-1013.
 
+You can ask your healthcare provider or pharmacist for information about EstroGel that is written for health professionals.
+
+For more information, go to www.estrogel.com, or call ASCEND Therapeutics ® US, LLC at 1-877-204-1013.
 What are the ingredients in EstroGel?
 
 Active ingredient: estradiol
 
 Inactive ingredients: purified water, alcohol, triethanolamine, and carbomer 974P.
-
 Instructions for Use
 
 EstroGel ® 0.06% (ĕs’ trə jĕl)
@@ -162,6 +164,7 @@ You will need the following supplies to use EstroGel: See Figure A.
 Figure A
 
 EstroGel is supplied in a metered-dose pump that delivers a measured amount of estradiol to your skin each time you press the pump.
+
 EstroGel is available in a 50-gram canister.
 
 Step 1.
@@ -229,4 +232,15 @@ Throwing away used EstroGel canisters
   You may not get the correct dose.
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Manufactured for: ASCEND Therapeutics® US, LLC Bridgewater, NJ 08807 141339Rev122025 Utilizes EHG® Technology ©2025 ASCEND Therapeutics® US, LLC Revised: 12/2025
+
+Manufactured for:
+
+ASCEND Therapeutics® US, LLC
+
+Bridgewater, NJ 08807
+
+141367Rev052025
+
+Utilizes EHG® Technology
+
+©2024 ASCEND Therapeutics® US, LLC
