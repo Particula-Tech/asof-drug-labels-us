@@ -2,54 +2,51 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
-Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
+Risk Summary Available data from case reports, case series, and observational studies on fluocinolone acetonide use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
+Observational studies suggest maternal use of high to super-high potency topical steroids may be associated with an increased risk of low birthweight infants.
+Advise pregnant women to use DERMA-SMOOTHE/FS Body Oil on the smallest area of skin and for the shortest duration possible.
 
-There are no adequate and well-controlled studies in pregnant women on teratogenic effects from Derma-Smoothe/FS®.
-Therefore, Derma-Smoothe/FS® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Corticosteroids can cause fetal malformations in laboratory animals when administered systemically at relatively low dosage levels.
+Some corticosteroids cause fetal malformations after dermal application in laboratory animals.
 
-## 8.3 Nursing Mothers
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
-It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
+## 8.2 Lactation
 
-Because many drugs are excreted in human milk, caution should be exercised when Derma-Smoothe/FS® is administered to a nursing woman.
+Risk Summary There is no information regarding the presence of fluocinolone acetonide in breast milk or its effects on the breastfed infant or on milk production.
+It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in breast milk.
+To minimize potential exposure to the breastfed infant via breast milk, use DERMA-SMOOTHE/FS Body Oil on the smallest area of skin and for the shortest duration possible while breastfeeding.
+Advise breastfeeding women not to apply DERMA-SMOOTHE/FS Body Oil directly to the nipple and areola to avoid direct infant exposure [see Warnings and Precautions (5.1)and Use in Specific Populations (8.4)].
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for DERMA-SMOOTHE/FS Body Oil and any potential adverse effects on the breastfed infant from DERMA-SMOOTHE/FS Body Oil or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-8.4.1 Systemic Adverse Reactions in Pediatric Patients
+The safety and effectiveness of DERMA-SMOOTHE/FS Body Oil for the topical treatment of moderate to severe atopic dermatitis have been established in pediatric patients aged 3 months and older for up to 4 weeks.
 
-HPA axis suppression, Cushing's syndrome, and intracranial hypertension have been reported in children receiving topical corticosteroids.
+Safety and effectiveness of DERMA-SMOOTHE/FS Body Oil in pediatric patients with atopic dermatitis below the age of 3 months have not been established.
+
+Systemic Adverse Reactions in Pediatric Patients HPA axis suppression, Cushing's syndrome, and intracranial hypertension have been reported in pediatric patients receiving topical corticosteroids.
 Manifestations of adrenal suppression in children include linear growth retardation, delayed weight gain, low plasma cortisol levels, and subnormal response to ACTH stimulation.
 Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
 
-Because of a higher ratio of skin surface area to body mass, children are at a greater risk for systemic adverse reactions than are adults when treated with topical corticosteroids.
-[See Warnings and Precautions (5.1)]
+Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk for systemic adverse reactions than are adults when treated with topical corticosteroids [see Warnings and Precautions (5.1)].
 
-8.4.2 Evaluation in Peanut-Sensitive Pediatric Subjects
-
-A clinical study was conducted to assess the safety of Derma-Smoothe/FS®, which contains refined peanut oil, on subjects with known peanut allergies.
-The study enrolled 13 subjects with atopic dermatitis, 6 to 17 years of age.
+Evaluation in Peanut-Sensitive Pediatric Patients A clinical trial was conducted to assess the safety of DERMA-SMOOTHE/FS Body Oil, which contains refined peanut oil, on pediatric subjects with known peanut allergies.
+The study enrolled 13 pediatric subjects with atopic dermatitis, 6 to 17 years of age.
 Of the 13 subjects, 9 were Radioallergosorbent Test (RAST) positive to peanuts and 4 had no peanut sensitivity (controls).
-The study evaluated the subjects' responses to both prick test and patch test utilizing peanut oil NF, Derma-Smoothe/FS® and histamine/saline controls.
-Subjects were also treated with Derma-Smoothe/FS® twice daily for 7 days.
-Prick test and patch test results for all 13 patients were negative to Derma-Smoothe/FS® and the refined peanut oil.
-One of the 9 peanut-sensitive patients experienced an exacerbation of atopic dermatitis after 5 days of Derma-Smoothe/FS®.
-The bulk peanut oil NF, used in Derma-Smoothe/FS® is heated at 475°F for at least 15 minutes, which should provide for adequate decomposition of allergenic proteins.
-[See Description (11)]
+The trial evaluated the subjects' responses to both prick test and patch test utilizing refined peanut oil, DERMA-SMOOTHE/FS Body Oil and histamine/saline controls.
+Subjects were also treated with DERMA-SMOOTHE/FS Body Oil twice daily for 7 days.
+Prick test and patch test results for all 13 patients were negative to DERMA-SMOOTHE/FS Body Oil and the refined peanut oil.
+One of the 9 peanut-sensitive patients experienced an exacerbation of atopic dermatitis after 5 days of DERMA-SMOOTHE/FS Body Oil.
 
-8.4.3 Evaluation in Pediatric Subjects 2 to 6 years old
-
-Open-label safety studies were conducted on 33 children (20 subjects ages 2 to 6 years, 13 subjects ages 7 to 12 years) with moderate to severe stable atopic dermatitis.
-Subjects were treated with Derma-Smoothe/FS® twice daily for 4 weeks.
+Evaluation in Pediatric Patients 2 to 6 years old Use of DERMA-SMOOTHE/FS Body Oil in pediatric patients 2 to 6 years old is supported by open-label safety trials conducted in 33 pediatric subjects (20 subjects ages 2 to 6 years, 13 subjects ages 7 to 12 years) with moderate to severe stable atopic dermatitis.
 Baseline body surface area involvement was 50% to 75% in 15 subjects and greater than 75% in 18 subjects.
-Morning pre-stimulation cortisol and post-ACTH stimulation cortisol levels were obtained in each subject at the beginning of the trial and at the end of 4 weeks of treatment.
-At the end of treatment, 4 out of 18 subjects aged 2 to 5 years showed low pre-stimulation cortisol levels (3.2 to 6.6 µg/dL; normal: cortisol > 7µg/dL) but all had normal responses to 0.25 mg of ACTH stimulation (cortisol > 18 µg/dL).
+Subjects were treated with DERMA-SMOOTHE/FS Body Oil twice daily for 4 weeks.
+Morning pre-stimulation cortisol and post-ACTH stimulation cortisol levels were obtained in each subject the beginning of the trial and at the end of 4 weeks of treatment.
+At the end of treatment, 4 out of 18 subjects aged 2 to 5 years showed low pre-stimulation cortisol levels (3.2 to 6.6 µg/dL; normal: cortisol > 7µg/dL) but all had normal responses to 0.25 mg of ACTH stimulation (cortisol > 18 µg/dL) [see Clinical Pharmacology (12.2)].
 
-8.4.4 Evaluation in Pediatric Subjects 3 months to 2 years old
-
-An open-label safety study was conducted in 29 children (7 subjects ages 3 to 6 months, 7 subjects ages > 6 to 12 months and 15 subjects ages > 12 months to 2 years of age) to assess the HPA axis by ACTH stimulation testing following use of Derma-Smoothe/FS® twice daily for 4 weeks.
-All subjects had moderate to severe atopic dermatitis with disease involvement on at least 20% body surface area.
-Baseline body surface area involvement was 50% to 75% in 11 subjects and greater than 75% in 7 subjects.
+Evaluation in Pediatric Patients 3 months to 2 years old Use of DERMA-SMOOTHE/FS Body Oil in pediatric patients 3 months to 2 years old is supported by an open-label safety trial conducted in 29 pediatric subjects (7 subjects ages 3 to 6 months, 7 subjects ages > 6 to 12 months, and 15 subjects ages > 12 months to 2 years) to assess the HPA axis by ACTH stimulation testing following use of DERMA-SMOOTHE/FS Body Oil twice daily for 4 weeks [see Adverse Reactions (6.1)].
 Morning pre-stimulation and post-ACTH stimulation cortisol levels were obtained in each subject at the beginning of the trial and at the end of 4 weeks of treatment.
-All subjects had normal responses to 0.125 mg of ACTH stimulation (cortisol > 18 µg/dL).
+All subjects had normal responses to 0.125 mg of ACTH stimulation (cortisol > 18 µg/dL) [see Clinical Pharmacology (12.2)].

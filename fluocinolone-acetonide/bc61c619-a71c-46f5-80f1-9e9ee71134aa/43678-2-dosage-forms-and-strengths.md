@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Derma-Smoothe/FS® (fluocinolone acetonide), Topical Oil, 0.01% (Body Oil) is supplied in bottles containing 4 fluid ounces.
+DERMA-SMOOTHE/FS Body Oil is a topical oil containing 0.01% fluocinolone acetonide, supplied in bottles containing 4 fluid ounces.
