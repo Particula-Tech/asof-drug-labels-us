@@ -2,19 +2,19 @@
 
 Hepatotoxicity
 
-Inform patients that fenofibrate may cause liver enzyme elevations and possibly liver failure.
+Inform patients that fenofibrate capsules may cause liver enzyme elevations and possibly liver failure.
 Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Contraindications (4) and Warnings and Precautions (5.2)].
 
 Myopathy and Rhabdomyolysis
 
-Advise patients that fenofibrate may cause myopathy and rhabdomyolysis.
+Advise patients that fenofibrate capsules may cause myopathy and rhabdomyolysis.
 Inform patients that the risk is also increased when taking certain types of medication and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
-Instruct patients to inform other healthcare providers prescribing a new medication or increasing the dosage of an existing medication that they are taking fenofibrate.
+Instruct patients to inform other healthcare providers prescribing a new medication or increasing the dosage of an existing medication that they are taking fenofibrate capsules.
 Instruct patients to promptly report any unexplained muscle pain, tenderness, or weakness particularly if accompanied by malaise or fever [see Warnings and Precautions (5.3) and Drug Interactions (7)].
 
 Increased Bleeding Risk with Coumarin Anticoagulants
 
-Inform patients that the concomitant use of fenofibrate with coumarin-type anticoagulants may increase the risk of bleeding.
+Inform patients that the concomitant use of fenofibrate capsules with coumarin-type anticoagulants may increase the risk of bleeding.
 Advise patients if they are taking or planning to take coumarin-type anticoagulants to inform their healthcare providers and that increased monitoring may be necessary [see Warnings and Precautions (5.6) and Drug Interactions (7)].
 
 Hypersensitivity Reactions
@@ -24,11 +24,11 @@ Advise patients to report immediately any signs or symptoms suggesting allergic 
 
 Pregnancy
 
-Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if fenofibrate should be discontinued [see Use in Specific Populations (8.1)].
+Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if fenofibrate capsules should be discontinued [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Advise patients that breastfeeding during treatment with fenofibrate is not recommended [see Use in Specific Populations (8.2)].
+Advise patients that breastfeeding during treatment with fenofibrate capsules is not recommended [see Use in Specific Populations (8.2)].
 
 Missed Doses
 

@@ -19,7 +19,7 @@ The following serious adverse reactions are described below and elsewhere in the
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 The safety of fenofibrate capsules has been established in adults with hypertriglyceridemia or primary hyperlipidemia based on adequate and well-controlled trials of other formulations of fenofibrate, referenced below as "fenofibrate" [see Clinical Studies (14)].
-Dosages of fenofibrate used in these trials were comparable to fenofibrate 150 mg per day [see Clinical Pharmacology (12.3)].
+Dosages of fenofibrate used in these trials were comparable to fenofibrate capsules 150 mg per day [see Clinical Pharmacology (12.3)].
 
 Adverse reactions reported by 2% or more of patients treated with fenofibrate (and greater than placebo) during the double-blind, placebo-controlled trials are listed in Table 1 below.
 Adverse reactions led to discontinuation of treatment in 5% of patients treated with fenofibrate and in 3% treated with placebo.
@@ -50,7 +50,7 @@ In an 8-week trial, the incidence of ALT or AST elevations ≥ 3 times the upper
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of fenofibrate.
+The following adverse reactions have been identified during post-approval use of fenofibrate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
 Blood: Anemia, white blood cell decreases

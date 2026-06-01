@@ -23,7 +23,7 @@ The HR for cardiac deaths was 2.2, 95% CI, 0.94 to 5.05.
 
 ## 5.2 Hepatotoxicity
 
-Serious drug-induced liver injury (DILI), including liver transplantation and death, have been reported postmarketing with fenofibrate.
+Serious drug-induced liver injury (DILI), including liver transplantation and death, has been reported with postmarketing use of fenofibrates.
 DILI has been reported within the first few weeks of treatment or after several months of therapy and in some cases has reversed with discontinuation of fenofibrate treatment.
 Patients with DILI have experienced signs and symptoms including dark urine, abnormal stool, jaundice, malaise, abdominal pain, myalgia, weight loss, pruritus, and nausea.
 Many patients had concurrent elevations of total bilirubin, serum alanine transaminase (ALT), and aspartate transaminase (AST).
@@ -50,7 +50,7 @@ Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis
 Data from observational studies indicate that the risk for rhabdomyolysis is increased when fibrates, including fenofibrates, are co-administered with a statin.
 Avoid concomitant use unless the benefit of further alterations in TG levels is likely to outweigh the increased risk of this drug combination [see Drug Interactions (7), Clinical Pharmacology (12.3), and Clinical Studies (14.4)].
 
-Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates, including fenofibrate, co-administered with colchicine.
+Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrates, including fenofibrate capsules, co-administered with colchicine.
 Consider whether the benefit of using colchicine concomitantly with fenofibrate outweighs the increased risk of myopathy [see Drug Interactions (7)].
 
 Discontinue fenofibrate if markedly elevated CK levels occur or if myopathy is either diagnosed or suspected.
@@ -63,22 +63,22 @@ Instruct patients to promptly report any unexplained muscle pain, tenderness or 
 ## 5.4 Increases in Serum Creatinine
 
 Increases in serum creatinine have been reported in patients receiving fenofibrates.
-These increases tend to return to baseline following discontinuation of fenofibrate.
+These increases tend to return to baseline following discontinuation of fenofibrate capsules.
 The clinical significance of this finding is unknown.
-Monitor renal function in patients with renal impairment taking fenofibrate.
-Renal monitoring should also be considered for patients taking fenofibrate at risk for renal insufficiency, such as geriatric patients and patients with diabetes.
-Fenofibrate is contraindicated in patients with severe renal impairment, including those with end-stage renal disease (ESRD) and those receiving dialysis [see Dosage and Administration (2.3), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
+Monitor renal function in patients with renal impairment taking fenofibrate capsules.
+Renal monitoring should also be considered for patients taking fenofibrate capsules at risk for renal insufficiency, such as geriatric patients and patients with diabetes.
+Fenofibrate capsules are contraindicated in patients with severe renal impairment, including those with end-stage renal disease (ESRD) and those receiving dialysis [see Dosage and Administration (2.3), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
 
 ## 5.5 Cholelithiasis
 
 Fenofibrate may increase cholesterol excretion into the bile, leading to cholelithiasis.
 If cholelithiasis is suspected, gallbladder studies are indicated.
 Fenofibrate therapy should be discontinued if gallstones are found.
-Fenofibrate is contraindicated in patients with pre-existing gallbladder disease.
+Fenofibrate capsules are contraindicated in patients with pre-existing gallbladder disease.
 
 ## 5.6 Increased Bleeding Risk with Coumarin Anticoagulants
 
-Exercise caution when co-administering anticoagulants with fenofibrate because of the potentiation of coumarin-type anticoagulant effects in prolonging the prothrombin time/International Normalized Ratio (PT/INR).
+Exercise caution when co-administering anticoagulants with fenofibrate capsules because of the potentiation of coumarin-type anticoagulant effects in prolonging the prothrombin time/International Normalized Ratio (PT/INR).
 To prevent bleeding complications, monitor the PT/INR frequently and adjust the dosage of the anticoagulant until the PT/INR has stabilized [see Drug Interactions (7)].
 
 ## 5.7 Pancreatitis
