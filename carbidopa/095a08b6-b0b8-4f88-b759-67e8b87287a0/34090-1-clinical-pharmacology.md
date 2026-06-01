@@ -51,11 +51,11 @@ Effect of Food
 Carbidopa
 
 In healthy adults, oral administration of CREXONT following a high-fat, high-calorie meal decreased carbidopa Cmax and AUC by approximately 64% and delayed carbidopa Tmax by approximately one hour compared to administration in the fasted state.
-Oral administration of CREXONT by sprinkling the capsule contents on applesauce decreased carbidopa Cmax and AUC by approximately 13% and 9%, respectively, compared to the intact capsule administered in the fasted state [see Dosage and Administration (2.4)].
+Oral administration of CREXONT by sprinkling the capsule contents on applesauce decreased carbidopa Cmax and AUC by approximately 13% and 9%, respectively, compared to the intact capsule administered in the fasted state [see Dosage and Administration (2.5)].
 
 Levodopa
 
-In healthy adults, oral administration of CREXONT following a high-fat, high-calorie meal increased levodopa Cmax and AUC by approximately 19% and 18%,, respectively, and delayed levodopa Tmax by approximately two hours compared to administration in the fasted state [see Dosage and Administration (2.4)].
+In healthy adults, oral administration of CREXONT following a high-fat, high-calorie meal increased levodopa Cmax and AUC by approximately 19% and 18%,, respectively, and delayed levodopa Tmax by approximately two hours compared to administration in the fasted state [see Dosage and Administration (2.5)].
 High protein meals may decrease the absorption of levodopa.
 Oral administration of CREXONT by sprinkling the capsule contents on applesauce did not significantly affect levodopa concentration time profiles compared to the intact capsule administered in the fasted state.
 
@@ -95,5 +95,5 @@ In Vitro Studies
 
 Effect of Ethanol
 
-Ethanol-induced dose dumping of CREXONT was observed in the presence of 40% ethanol (80 proof) solution in a dissolution study [see Dosage and Administration (2.4)]; however, dose dumping was not observed in the presence of lower ethanol concentrations.
+Ethanol-induced dose dumping of CREXONT was observed in the presence of 40% ethanol (80 proof) solution in a dissolution study [see Dosage and Administration (2.5)]; however, dose dumping was not observed in the presence of lower ethanol concentrations.
 The clinical significance of this dose dumping was not fully characterized in humans.

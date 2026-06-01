@@ -11,7 +11,7 @@ Dosing Instructions
 
 - Inform patients that a high fat, high calorie meal may delay the absorption of levodopa and the onset of action by 2 to 5 hours.
   For this reason, consideration should be given to taking the first dose of the day about 1 to 2 hours before eating.
-  The patient should also be advised that a change in diet to foods that are high in protein may delay the absorption of levodopa and may reduce the amount taken up in the circulation [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+  The patient should also be advised that a change in diet to foods that are high in protein may delay the absorption of levodopa and may reduce the amount taken up in the circulation [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 - Advise patients to call their healthcare provider before stopping CREXONT.
   Discontinue CREXONT slowly.
