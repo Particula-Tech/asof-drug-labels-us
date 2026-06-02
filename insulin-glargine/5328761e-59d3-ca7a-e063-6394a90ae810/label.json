@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761412"
+  ],
+  "inn": "insulin-glargine",
+  "labeler": "Lanexa Biologics, LLC.",
+  "package_ndcs": [
+    "87682-090-01",
+    "87682-090-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin glargine-aldy",
+      "name": "Langlara"
+    }
+  ],
+  "setid": "5328761e-59d3-ca7a-e063-6394a90ae810",
+  "source": "dailymed"
+}
