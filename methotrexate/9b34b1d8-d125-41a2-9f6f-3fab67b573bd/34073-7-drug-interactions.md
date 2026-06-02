@@ -10,14 +10,8 @@ Increased organ specific adverse reactions may also occur when methotrexate is c
 
 If coadministration cannot be avoided, monitor closely for methotrexate adverse reactions when coadministered with:
 
-| Oral antibiotics (including neomycin) | Antifolate drugs (e.g., dapsone, pemetrexed, pyrimethamine and sulfonamides) |
+| Oral antibiotics (including neomycin)Oral or intravenous penicillin or sulfonamide antibioticsHighly protein-bound drugs (e.g., oral anticoagulants, phenytoin, salicylates, sulfonamides, sulfonylureas, and tetracyclines)Probenecid | Antifolate drugs (e.g., dapsone, pemetrexed, pyrimethamine and sulfonamides)Aspirin and other nonsteroidal anti-inflammatory drugsHepatotoxic productsProton pump inhibitorsWeak acids (e.g., salicylates)Nephrotoxic products |
 | --- | --- |
-| Oral or intravenous penicillin or sulfonamide antibiotics | Aspirin and other nonsteroidal anti-inflammatory drugs |
-|  | Hepatotoxic products |
-| Highly protein-bound drugs (e.g., oral | Proton pump inhibitors |
-| anticoagulants, phenytoin, salicylates, | Weak acids (e.g., salicylates) |
-| sulfonamides, sulfonylureas, and tetracyclines) | Nephrotoxic products |
-| Probenecid |  |
 
 Nitrous Oxide
 

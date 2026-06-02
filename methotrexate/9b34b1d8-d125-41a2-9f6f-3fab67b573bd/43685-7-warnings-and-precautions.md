@@ -68,7 +68,7 @@ Withhold or discontinue methotrexate for severe renal toxicity taking into accou
 Administer glucarpidase in patients with toxic plasma methotrexate concentrations (> 1 micromole per liter) and delayed methotrexate clearance due to impaired renal function.
 Refer to the glucarpidase prescribing information for additional information.
 
-## 5.9 Risk of Serious Adverse Reactions with Medication Error
+## 5.9 Risk of Fatal Adverse Reactions with Medication Error
 
 Deaths occurred in patients as a result of medication errors.
 Most commonly, these errors occurred in patients who were taking methotrexate daily when a weekly dosing regimen was prescribed.
