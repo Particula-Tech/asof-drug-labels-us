@@ -40,7 +40,7 @@ Renal Toxicity
 
 Advise patients and their caregivers to immediately contact their healthcare provider for signs or symptoms of renal toxicity, such as marked increases or decreases in urinary output [see Warnings and Precautions (5.8)].
 
-Risk of Serious Adverse Reactions with Medication Error
+Risk of Fatal Adverse Reactions with Medication Error
 
 For patients who are prescribed a once weekly dosing regimen, advise patients and caregivers that the recommended dosage is to be taken once weekly as a single dose and that mistakenly taking the recommended weekly dosage once daily has led to fatal adverse reactions [see Warnings and Precautions (5.9)].
 
@@ -64,17 +64,10 @@ Drug Interactions
 
 Advise patients and caregivers to inform their healthcare provider of all concomitant medications, including prescription medicines, over-the-counter drugs, vitamins, and herbal products [see Drug Interactions (7)].
 
-Manufactured In Czech Republic By:
-
-Teva Czech Industries, s.r.o.
-
+Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For:
-
-Teva Pharmaceuticals USA, Inc.
-
-Parsippany, NJ 07054
+Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
 Rev.
-B 4/2021
+C 5/2026

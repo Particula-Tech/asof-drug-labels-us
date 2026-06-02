@@ -30,10 +30,8 @@ Patients received methotrexate 7.5 mg to 15 mg orally once weekly.
 Most patients received concomitant nonsteroidal anti-inflammatory drugs (NSAIDs) and some also received corticosteroids.
 Hepatic histology was not examined in these short-term studies.
 
-| Incidence ≥10%: | Elevated liver tests 15%, nausea/vomiting 10% |
+| Incidence ≥10%:Incidence 3% to <10%:Incidence 1% to <3%: | Elevated liver tests 15%, nausea/vomiting 10%Stomatitis, thrombocytopenia (platelet count < 100,000/mm3)Rash/pruritus/dermatitis, diarrhea, alopecia, leukopenia (white blood cell count < 3000/mm3), pancytopenia, dizziness |
 | --- | --- |
-| Incidence 3% to <10%: | Stomatitis, thrombocytopenia (platelet count < 100,000/mm3) |
-| Incidence 1% to <3%: | Rash/pruritus/dermatitis, diarrhea, alopecia, leukopenia (white blood cell count < 3000/mm3), pancytopenia, dizziness |
 
 Two other controlled trials of patients (n=680) with rheumatoid arthritis who received methotrexate 7.5 mg to 15 mg orally once weekly showed the following serious adverse reaction:
 

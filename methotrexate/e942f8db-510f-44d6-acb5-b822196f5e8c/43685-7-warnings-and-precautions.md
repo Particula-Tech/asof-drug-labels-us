@@ -68,7 +68,7 @@ Withhold or discontinue TREXALL for severe renal toxicity taking into account th
 Administer glucarpidase in patients with toxic plasma methotrexate concentrations (> 1 micromole per liter) and delayed TREXALL clearance due to impaired renal function.
 Refer to the glucarpidase prescribing information for additional information.
 
-## 5.9 Risk of Serious Adverse Reactions with Medication Error
+## 5.9 Risk of Fatal Adverse Reactions with Medication Error
 
 Deaths occurred in patients as a result of medication errors.
 Most commonly, these errors occurred in patients who were taking TREXALL daily when a weekly dosing regimen was prescribed.
@@ -77,14 +77,10 @@ For patients prescribed a once weekly dosing regimen, instruct patients and care
 
 ## 5.10 Folic Acid Supplementation
 
-Neoplastic Diseases
-
-Products containing folic acid or its derivatives may decrease the clinical effectiveness of methotrexate.
+Neoplastic Diseases Products containing folic acid or its derivatives may decrease the clinical effectiveness of methotrexate.
 Therefore, instruct patients not to take products containing folic acid or folinic acid unless directed to do so by their healthcare provider.
 
-Non-neoplastic Diseases
-
-Folate deficiency may increase TREXALL adverse reactions.
+Non-neoplastic Diseases Folate deficiency may increase TREXALL adverse reactions.
 Administer folic acid or folinic acid for patients with rheumatoid arthritis, pJIA, and psoriasis [see Dosage and Administration (2.3, 2.4, 2.5)].
 
 ## 5.11 Serious Infections
