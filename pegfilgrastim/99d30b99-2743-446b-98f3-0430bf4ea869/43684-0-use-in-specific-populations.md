@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Although available data with NYVEPRIA or pegfilgrastim product use in pregnant women are insufficient to establish whether there is a drug associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes, there are available data from published studies in pregnant women exposed to filgrastim products.
+Although available data with pegfilgrastim product use in pregnant women are insufficient to establish whether there is a drug associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes, there are available data from published studies in pregnant women exposed to filgrastim products.
 These studies have not established an association of filgrastim product use during pregnancy with major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 
 In animal studies, no evidence of reproductive/developmental toxicity occurred in the offspring of pregnant rats that received cumulative doses of pegfilgrastim approximately 10 times the recommended human dose (based on body surface area).
@@ -12,7 +12,7 @@ In pregnant rabbits, increased embryolethality and spontaneous abortions occurre
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Data
 
@@ -36,10 +36,9 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of pegfilgrastim have been established in pediatric patients.
-No overall differences in safety were identified between adult and pediatric patients based on postmarketing surveillance and review of the scientific literature.
+The safety and effectiveness of NYVEPRIA for chemotherapy-induced neutropenia have been established in pediatric patients aged newborn and older.
 
-Use of pegfilgrastim in pediatric patients for chemotherapy-induced neutropenia is based on adequate and well-controlled studies in adults with additional pharmacokinetic and safety data in pediatric patients with sarcoma [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
+Use of NYVEPRIA in pediatric patients weighing at least 45 kg for chemotherapy-induced neutropenia is supported by evidence from adequate and well-controlled studies of pegfilgrastim in adults with additional pharmacokinetic and safety data of pegfilgrastim in pediatric patients aged 8 months and older with sarcoma [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
 
 ## 8.5 Geriatric Use
 

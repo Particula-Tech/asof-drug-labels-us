@@ -1,5 +1,7 @@
 # 14 CLINICAL STUDIES
 
+Patients with Cancer Receiving Myelosuppressive Chemotherapy
+
 Pegfilgrastim was evaluated in three randomized, double-blind, controlled studies.
 Studies 1 and 2 were active-controlled studies that employed doxorubicin 60 mg/m2 and docetaxel 75 mg/m2 administered every 21 days for up to 4 cycles for the treatment of metastatic breast cancer.
 Study 1 investigated the utility of a fixed dose of pegfilgrastim.

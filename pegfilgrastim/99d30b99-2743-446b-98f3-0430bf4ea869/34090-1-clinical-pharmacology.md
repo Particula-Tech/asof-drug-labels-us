@@ -32,3 +32,14 @@ Pediatric Patients with Cancer Receiving Myelosuppressive Chemotherapy
 The pharmacokinetics and safety of pegfilgrastim were studied in 37 pediatric patients with sarcoma in Study 4 [see Clinical Studies (14)].
 The mean (± standard deviation [SD]) systemic exposure (AUC0–inf) of pegfilgrastim after subcutaneous administration at 100 mcg/kg was 47.9 (± 22.5) mcg∙hr/mL in the youngest age group (0 to 5 years, n = 11), 22.0 (± 13.1) mcg∙hr/mL in the 6 to 11 years age group (n = 10), and 29.3 (± 23.2) mcg∙hr/mL in the 12 to 21 years age group (n = 13).
 The terminal elimination half-lives of the corresponding age groups were 30.1 (± 38.2) hours, 20.2 (± 11.3) hours, and 21.2 (± 16.0) hours, respectively.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of pegfilgrastim or of other pegfilgrastim products.
+
+Binding antibodies to pegfilgrastim were detected using a BIAcore assay.
+The approximate limit of detection for this assay is 500 ng/mL.
+Pre-existing binding antibodies were detected in approximately 6% (51/849) of patients with metastatic breast cancer.
+Four of 521 pegfilgrastim-treated subjects who were negative at baseline developed binding antibodies to pegfilgrastim following treatment.
+None of these 4 patients had evidence of neutralizing antibodies detected using a cell-based bioassay.

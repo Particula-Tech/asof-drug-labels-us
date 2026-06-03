@@ -2,36 +2,26 @@
 
 ## 2.1 Patients with Cancer Receiving Myelosuppressive Chemotherapy
 
-The recommended dosage of NYVEPRIA is a single subcutaneous injection of 6 mg administered once per chemotherapy cycle.
-For dosing in pediatric patients weighing less than 45 kg, refer to Table 1.
-Do not administer NYVEPRIA between 14 days before and 24 hours after administration of cytotoxic chemotherapy.
+The recommended dosage of NYVEPRIA for adults of any weight and pediatric patients weighing at least 45 kg with cancer receiving myelosuppressive chemotherapy is a single subcutaneous injection of 6 mg administered once per chemotherapy cycle.
+Do not administer NYVEPRIA between 14 days before and 24 hours after administration of chemotherapy.
 
-## 2.2 Administration
+## 2.2 Preparation and Administration
 
-NYVEPRIA is administered subcutaneously via a single-dose prefilled syringe for manual use.
+NYVEPRIA is supplied in a single-dose prefilled syringe for manual use [see Dosage Forms and Strengths (3)].
 
-Prior to use‚ remove the carton from the refrigerator and allow the NYVEPRIA prefilled syringe to reach room temperature for a minimum of 30 minutes.
-Discard any prefilled syringe left at room temperature for greater than 15 days.
+Before using NYVEPRIA:
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-NYVEPRIA is supplied as a clear and colorless solution.
-Do not administer NYVEPRIA if discoloration or particulates are observed.
+- •Remove the carton from the refrigerator and allow the NYVEPRIA prefilled syringe to reach room temperature, 20°C to 25°C (68°F to 77°F), for a minimum of 30 minutes.
+  Do not warm in any other way.
+  Discard any prefilled syringe left at room temperature for greater than 15 days.
+- •NYVEPRIA is a clear, colorless, preservative-free solution.
+  Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+  Do not administer NYVEPRIA if discoloration or particulates are observed.
+
+Prefilled Syringe for Manual Use
+
+For adult patients of any weight and pediatric patients weighing at least 45 kg, the single-dose prefilled syringe for manual use is intended for subcutaneous administration of a single 6 mg/0.6 mL dose of NYVEPRIA.
+The syringe does not bear graduation marks and therefore does not allow for direct administration of doses less than 6 mg/0.6 mL.
+There is no presentation for NYVEPRIA that allows weight-based dosing for pediatric patients below 45 kg.
 
 The NYVEPRIA syringe plunger stopper and needle cover are not made with natural rubber latex.
-
-Pediatric Patients Weighing Less than 45 kg
-
-The NYVEPRIA prefilled syringe is not designed to allow for direct administration of doses less than 0.6 mL (6 mg).
-The syringe does not bear graduation marks, which are necessary to accurately measure doses of NYVEPRIA less than 0.6 mL (6 mg) for direct administration to patients.
-Thus, the direct administration to patients requiring dosing of less than 0.6 mL (6 mg) is not recommended due to the potential for dosing errors.
-Refer to Table 1.
-
-Table 1.
-Dosing of NYVEPRIA for Pediatric Patients Weighing Less than 45 kg
-
-| Body Weight | NYVEPRIA Dose | Volume to Administer |
-| --- | --- | --- |
-| Less than 10 kgFor pediatric patients weighing less than 10 kg, administer 0.1 mg/kg (0.01 mL/kg) of NYVEPRIA. | See below | See below |
-| 10 – 20 kg | 1.5 mg | 0.15 mL |
-| 21 – 30 kg | 2.5 mg | 0.25 mL |
-| 31 – 44 kg | 4 mg | 0.4 mL |

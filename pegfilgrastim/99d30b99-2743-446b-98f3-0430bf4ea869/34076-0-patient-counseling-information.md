@@ -6,10 +6,10 @@ Advise patients of the following risks and potential risks with NYVEPRIA:
 
 - •Splenic rupture and splenomegaly
 - •Acute Respiratory Distress Syndrome
-- •Serious allergic reactions
+- •Serious hypersensitivity reactions
 - •Sickle cell crisis
 - •Glomerulonephritis
-- •Increased risk of Myelodysplastic Syndrome and/or Acute Myeloid Leukemia in patients with breast and lung cancer who receive pegfilgrastim products in conjunction with chemotherapy and/or radiation therapy
+- •Increased risk of Myelodysplastic Syndrome and/or Acute Myeloid Leukemia in patients with breast and lung cancer who receive NYVEPRIA in conjunction with chemotherapy and/or radiation therapy
 - •Capillary Leak Syndrome
 - •Aortitis
 

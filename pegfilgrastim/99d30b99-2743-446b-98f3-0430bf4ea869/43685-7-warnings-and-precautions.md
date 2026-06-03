@@ -11,13 +11,13 @@ Acute respiratory distress syndrome (ARDS) can occur in patients receiving pegfi
 Evaluate patients who develop fever and lung infiltrates or respiratory distress after receiving NYVEPRIA, for ARDS.
 Discontinue NYVEPRIA in patients with ARDS.
 
-## 5.3 Serious Allergic Reactions
+## 5.3 Serious Hypersensitivity Reactions
 
-Serious allergic reactions, including anaphylaxis, can occur in patients receiving pegfilgrastim products.
+Serious hypersensitivity reactions, including anaphylaxis, can occur in patients receiving pegfilgrastim products.
 The majority of reported events occurred upon initial exposure.
-Allergic reactions, including anaphylaxis, can recur within days after the discontinuation of initial anti-allergic treatment.
-Permanently discontinue NYVEPRIA in patients with serious allergic reactions.
-Do not administer NYVEPRIA to patients with a history of serious allergic reactions to pegfilgrastim products or filgrastim products.
+Hypersensitivity reactions, including anaphylaxis, can recur within days after the discontinuation of initial therapies to manage the reaction.
+Permanently discontinue NYVEPRIA in patients with serious hypersensitivity reactions.
+NYVEPRIA is contraindicated in patients with a history of a serious hypersensitivity reaction to pegfilgrastim products or filgrastim products.
 
 ## 5.4 Use in Patients with Sickle Cell Disorders
 
@@ -39,8 +39,8 @@ Monitoring of complete blood count (CBC) during NYVEPRIA therapy is recommended.
 
 ## 5.7 Thrombocytopenia
 
-Thrombocytopenia has been reported in patients receiving pegfilgrastim products.
-Monitor platelet counts.
+Pegfilgrastim products can cause thrombocytopenia.
+Monitor platelet counts during NYVEPRIA therapy.
 
 ## 5.8 Capillary Leak Syndrome
 
@@ -68,5 +68,5 @@ Discontinue NYVEPRIA if aortitis is suspected.
 
 ## 5.12 Nuclear Imaging
 
-Increased hematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone imaging changes.
+Increased hematopoietic activity of the bone marrow in response to growth factor therapy, including pegfilgrastim products, has been associated with transient positive bone imaging changes.
 This should be considered when interpreting bone imaging results.
