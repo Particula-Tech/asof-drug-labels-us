@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA219542"
+  ],
+  "inn": "tofacitinib",
+  "labeler": "Ajanta Pharma USA Inc.",
+  "package_ndcs": [
+    "27241-270-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "tofacitinib",
+      "name": "Tofacitinib"
+    }
+  ],
+  "setid": "024bb9f2-8c26-4d9d-a33b-eb3c0a7c59ed",
+  "source": "dailymed"
+}
