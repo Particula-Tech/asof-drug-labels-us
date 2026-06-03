@@ -1,6 +1,6 @@
 # INSTRUCTIONS FOR USE
 
-EZALLOR SPRINKLE® [Ez-Aah-Lor Spr-En-Kle]
+EZALLOR SPRINKLE ®[Ez-Aah-Lor Spr-En-Kle]
 
 (rosuvastatin) capsules, for oral use
 

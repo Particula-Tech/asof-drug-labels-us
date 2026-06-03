@@ -2,7 +2,7 @@
 
 Rosuvastatin calcium is a 3-hydroxy-3-methylglutaryl coenzyme A (HMG CoA)-reductase inhibitor.
 
-The chemical name for rosuvastatin calcium is bis[(E)-7-[4-(4-fluorophenyl)-6-isopropyl-2-[methyl(methylsulfonyl)amino] pyrimidin-5-yl]-(3R,5S)-3,5-dihydroxyhept-6-enoic acid] calcium salt with the following structural formula: The molecular formula for rosuvastatin calcium is (C22H27FN3O6S)2·Ca and the molecular weight is 1,001.14.
+The chemical name for rosuvastatin calcium is bis[(E)-7-[4-(4-fluorophenyl)-6-isopropyl-2-[methyl(methylsulfonyl)amino] pyrimidin-5-yl]-(3R,5S)-3,5-dihydroxyhept-6-enoic acid] calcium salt with the following structural formula: The molecular formula for rosuvastatin calcium is (C 22H 27FN 3O 6S) 2·Ca and the molecular weight is 1,001.14.
 Rosuvastatin calcium is off-white to light yellow amorphous powder that is slightly soluble in water and methanol, and insoluble in ethanol.
 Rosuvastatin calcium is a hydrophilic compound with a partition coefficient (octanol/water) of 0.13 at pH of 7.
 

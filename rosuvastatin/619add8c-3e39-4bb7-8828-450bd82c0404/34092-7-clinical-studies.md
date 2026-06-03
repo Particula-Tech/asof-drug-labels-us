@@ -54,17 +54,17 @@ Percent LDL-C Change by Dose of Rosuvastatin, Atorvastatin, Simvastatin, and Pra
 Box plots are a representation of the 25th, 50th, and 75th percentile values, with whiskers representing the 10th and 90th percentile values.
 Mean baseline LDL-C: 189 mg/dL
 
-Table 11: Percent Change in LDL-C by Dose of Rosuvastatin, Atorvastatin, Simvastatin, and Pravastatin From Baseline to Week 6 (LS Mean1) in Adult Patients with Hyperlipidemia or Mixed Dyslipidemia (Sample Sizes Ranging from 156 to 167 Patients Per Group)
+Table 11: Percent Change in LDL-C by Dose of Rosuvastatin, Atorvastatin, Simvastatin, and Pravastatin From Baseline to Week 6 (LS Mean 1) in Adult Patients with Hyperlipidemia or Mixed Dyslipidemia (Sample Sizes Ranging from 156 to 167 Patients Per Group)
 
 |  | Treatment Daily Dose |  |  |  |
 | --- | --- | --- | --- | --- |
 | Treatment | 10 mg | 20 mg | 40 mg | 80 mg |
-| Rosuvastatin | -462 | -523 | -554 | --- |
+| Rosuvastatin | -46 2 | -52 3 | -55 4 | --- |
 | Atorvastatin | -37 | -43 | -48 | -51 |
 | Simvastatin | -28 | -35 | -39 | -46 |
 | Pravastatin | -20 | -24 | -30 | --- |
 
-1 Corresponding standard errors are approximately 1.
+1Corresponding standard errors are approximately 1.
 
 2Rosuvastatin 10 mg reduced LDL-C significantly more than atorvastatin 10 mg; pravastatin 10 mg, 20 mg, and 40 mg; simvastatin 10 mg, 20 mg, and 40 mg.
 (p<0.002)
@@ -77,7 +77,7 @@ Table 11: Percent Change in LDL-C by Dose of Rosuvastatin, Atorvastatin, Simvast
 
 Slowing of the Progression of Atherosclerosis
 
-In the Measuring Effects on Intima Media Thickness: an Evaluation Of Rosuvastatin 40 mg (METEOR) study, the effect of therapy with rosuvastatin on carotid atherosclerosis was assessed by B-mode ultrasonography in patients with elevated LDL-C, at low risk (Framingham risk <10% over ten years) for symptomatic coronary artery disease and with subclinical atherosclerosis as evidenced by carotid intimal-medial thickness (cIMT).
+In the Measuring Effects on Intima Media Thickness: an Evaluation Of Rosuvastatin 40 mg (METEOR)study, the effect of therapy with rosuvastatin on carotid atherosclerosis was assessed by B-mode ultrasonography in patients with elevated LDL-C, at low risk (Framingham risk <10% over ten years) for symptomatic coronary artery disease and with subclinical atherosclerosis as evidenced by carotid intimal-medial thickness (cIMT).
 In this double-blind, placebo-controlled clinical study 984 adult patients were randomized (of whom 876 were analyzed) in a 5:2 ratio to rosuvastatin 40 mg or placebo once daily.
 Ultrasonograms of the carotid walls were used to determine the annualized rate of change per patient from baseline to two years in mean maximum cIMT of 12 measured segments.
 The estimated difference in the rate of change in the maximum cIMT analyzed over all 12 carotid artery sites between patients treated with rosuvastatin and placebo-treated patients was -0.0145 mm/year (95% CI –0.0196, –0.0093; p<0.0001).
@@ -101,7 +101,7 @@ Table 12: LDL-C Percent Change from Baseline
 | Week 12 | 40 mg | -55% (-57%, -54%) | -47% (-49%, -45%) |
 | Week 18 | 80 mg | NA | -52% (-54%, -50%) |
 
-1 LS Means are least square means adjusted for baseline LDL-C
+1LS Means are least square means adjusted for baseline LDL-C
 
 HeFH in Pediatric Patients
 
@@ -114,18 +114,18 @@ The 12-week double-blind phase was followed by a 40 week open label dose-titrati
 Rosuvastatin significantly reduced LDL-C (primary end point), total cholesterol and ApoB levels at each dose compared to placebo.
 Results are shown in Table 13 below.
 
-Table 13: Lipid-Modifying Effects of Rosuvastatin in Pediatric Patients 10 to 17 years of Age with HeFH (Least-Squares Mean Percent Change from Baseline To Week 12)
+Table 13: Lipid-Modifying Effects of Rosuvastatin in Pediatric Patients 10 to 17 years of Age withHeFH(Least-Squares Mean Percent Change from Baseline To Week 12)
 
 | Dose (mg) | N | LDL-C | HDL-C | Total-C | TG1 | ApoB |
 | --- | --- | --- | --- | --- | --- | --- |
 | Placebo | 46 | -1% | +7% | 0% | -7% | -2% |
-| 5 | 42 | -38% | +4%2 | -30% | -13%2 | -32% |
-| 10 | 44 | -45% | +11%2 | -34% | -15%2 | -38% |
-| 20 | 44 | -50% | +9%2 | -39% | 16%2 | -41% |
+| 5 | 42 | -38% | +4% 2 | -30% | -13% 2 | -32% |
+| 10 | 44 | -45% | +11% 2 | -34% | -15% 2 | -38% |
+| 20 | 44 | -50% | +9% 2 | -39% | 16% 2 | -41% |
 
-1 Median percent change
+1Median percent change
 
-2 Difference from placebo not statistically significant
+2Difference from placebo not statistically significant
 
 Rosuvastatin was also studied in a two year open-label, uncontrolled, titration-to-goal trial that included 175 pediatric patients with HeFH who were 8 to 17 years old (79 males and 96 females).
 All patients had a documented genetic defect in the LDL receptor or in ApoB.
@@ -160,16 +160,16 @@ Rosuvastatin 20 mg significantly reduced LDL-C, total cholesterol, ApoB, and non
 
 Table 14: Lipid-Modifying Effects of Rosuvastatin in Pediatric Patients 7 to 15 years of Age with HoFH After 6 Weeks
 
-|  | Placebo (N=13) | Rosuvastatin 20 mg (N=13) | Percent difference (95% CI) |
+|  | Placebo (N=13) | Rosuvastatin20 mg (N=13) | Percent difference (95% CI) |
 | --- | --- | --- | --- |
-| LDL-C (mg/dL) | 481 | 396 | -22.3% (-33.5, -9.1)1 |
-| Total-C (mg/dL) | 539 | 448 | -20.1% (-29.7, -9.1)2 |
-| Non-HDL-C (mg/dL) | 505 | 412 | -22.9% (-33.7, -10.3)2 |
-| ApoB (mg/dL) | 268 | 235 | -17.1% (-29.2, -2.9)3 |
+| LDL-C (mg/dL) | 481 | 396 | -22.3% (-33.5, -9.1) 1 |
+| Total-C (mg/dL) | 539 | 448 | -20.1% (-29.7, -9.1) 2 |
+| Non-HDL-C (mg/dL) | 505 | 412 | -22.9% (-33.7, -10.3) 2 |
+| ApoB (mg/dL) | 268 | 235 | -17.1% (-29.2, -2.9) 3 |
 
 % Difference estimates are based on transformations of the estimated mean difference in log LDL measurements between rosuvastatin and placebo using a mixed model adjusted for study period
 
-1 p=0.005, 2 p=0.003, 3 p=0.024
+1p=0.005, 2p=0.003, 3p=0.024
 
 Primary Dysbetalipoproteinemia in Adults
 

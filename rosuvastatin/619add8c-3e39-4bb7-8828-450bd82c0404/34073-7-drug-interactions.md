@@ -60,7 +60,7 @@ Table 5: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis
 
 Table 6 presents drug interactions that may decrease the efficacy of EZALLOR SPRINKLE and instructions for preventing or managing them.
 
-Table 6: Drug Interactions that Decrease the Efficacy of EZALLOR SPRINKLE
+Table 6: Drug Interactions that Decrease the Efficacy ofEZALLOR SPRINKLE
 
 | Antacids |  |
 | --- | --- |
@@ -71,7 +71,7 @@ Table 6: Drug Interactions that Decrease the Efficacy of EZALLOR SPRINKLE
 
 Table 7 presents EZALLOR SPRINKLE effect on other drugs and instructions for preventing or managing them.
 
-Table 7: Rosuvastatin Effects on Other Drugs
+Table 7:RosuvastatinEffects on Other Drugs
 
 | Warfarin |  |
 | --- | --- |

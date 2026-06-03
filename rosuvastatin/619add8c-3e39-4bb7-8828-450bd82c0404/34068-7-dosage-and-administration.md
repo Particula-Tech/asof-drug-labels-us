@@ -32,7 +32,7 @@ Consider the risks and benefits of EZALLOR SPRINKLE when treating Asian patients
 
 ## 2.5 Recommended Dosage in Patients with Renal Impairment
 
-In patients with severe renal impairment (CLcr less than 30 mL/min/1.73 m2) not on hemodialysis, the recommended starting dosage is 5 mg once daily and should not exceed 10 mg once daily [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
+In patients with severe renal impairment (CLcr less than 30 mL/min/1.73 m 2) not on hemodialysis, the recommended starting dosage is 5 mg once daily and should not exceed 10 mg once daily [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
 
 There are no dosage adjustment recommendations for patients with mild and moderate renal impairment.
 
@@ -42,7 +42,7 @@ Table 1 displays dosage modifications for EZALLOR SPRINKLE due to drug interacti
 
 Table 1: EZALLOR SPRINKLE Dosage Modifications Due to Drug Interactions
 
-| Concomitantly Used Drug | EZALLOR SPRINKLE Dosage Modifications |
+| Concomitantly Used Drug | EZALLORSPRINKLE Dosage Modifications |
 | --- | --- |
 | Cyclosporine | Do not exceed 5 mg once daily. |
 | Teriflunomide | Do not exceed 10 mg once daily. |

@@ -13,7 +13,7 @@ An increased incidence of hepatocellular tumors was not seen at lower doses.
 Mutagenesis
 
 Rosuvastatin was not mutagenic or clastogenic with or without metabolic activation in the Ames test with Salmonella typhimurium and Escherichia coli, the mouse lymphoma assay, and the chromosomal aberration assay in Chinese hamster lung cells.
-Rosuvastatin was negative in the in vivo mouse micronucleus test.
+Rosuvastatin was negative in the in vivomouse micronucleus test.
 
 Impairment of Fertility
 

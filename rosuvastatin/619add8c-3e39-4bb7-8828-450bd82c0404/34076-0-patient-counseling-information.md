@@ -34,7 +34,7 @@ When taking EZALLOR SPRINKLE with an aluminum and magnesium hydroxide combinatio
 Missed Doses
 
 If a dose is missed, advise patients not to take an extra dose.
-Just resume the usual schedule [see Dosage and Administration (2.1)].
+Just resume the usual schedule [seeDosage and Administration (2.1)].
 
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 

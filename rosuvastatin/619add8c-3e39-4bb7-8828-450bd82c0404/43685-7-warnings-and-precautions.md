@@ -8,14 +8,12 @@ Acute kidney injury secondary to myoglobinuria and rare fatalities have occurred
 Risk Factors for Myopathy
 
 Risk factors for myopathy include age 65 years or greater, uncontrolled hypothyroidism, renal impairment, concomitant use with certain other drugs (including other lipid-lowering therapies), and higher EZALLOR SPRINKLE dosage.
-Asian patients on EZALLOR SPRINKLE may be at higher risk for myopathy [see Drug Interactions (7.1) and Use in Specific Populations (8.8)].
-The myopathy risk is greater in patients taking EZALLOR SPRINKLE 40 mg daily compared with lower EZALLOR SPRINKLE dosages.
+Asian patients on EZALLOR SPRINKLE may be at higher risk for myopathy [see Drug Interactions (7.1) and Use in Specific Populations (8.8)].The myopathy risk is greater in patients taking EZALLOR SPRINKLE 40 mg daily compared with lower EZALLOR SPRINKLE dosages.
 
 Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis
 
 The concomitant use of EZALLOR SPRINKLE with cyclosporine or gemfibrozil is not recommended.
-EZALLOR SPRINKLE dosage modifications are recommended for patients taking certain antiviral medications, darolutamide, and regorafenib [see Dosage and Administration (2.6)].
-Niacin, fibrates, and colchicine may also increase the risk of myopathy and rhabdomyolysis [see Drug Interactions (7.1)].
+EZALLOR SPRINKLE dosage modifications are recommended for patients taking certain antiviral medications, darolutamide, and regorafenib [see Dosage and Administration (2.6)].Niacin, fibrates, and colchicine may also increase the risk of myopathy and rhabdomyolysis [see Drug Interactions (7.1)].
 
 Discontinue EZALLOR SPRINKLE if markedly elevated CK levels occur or if myopathy is either diagnosed or suspected.
 Muscle symptoms and CK elevations may resolve if EZALLOR SPRINKLE is discontinued.
@@ -34,8 +32,7 @@ Discontinue EZALLOR SPRINKLE if IMNM is suspected.
 
 ## 5.3 Hepatic Dysfunction
 
-Increases in serum transaminases have been reported with use of EZALLOR SPRINKLE [see Adverse Reactions (6.1)].
-In most cases, these changes appeared soon after initiation, were transient, were not accompanied by symptoms, and resolved or improved on continued therapy or after a brief interruption in therapy.
+Increases in serum transaminases have been reported with use of EZALLOR SPRINKLE [see Adverse Reactions (6.1)].In most cases, these changes appeared soon after initiation, were transient, were not accompanied by symptoms, and resolved or improved on continued therapy or after a brief interruption in therapy.
 In a pooled analysis of placebo-controlled trials, increases in serum transaminases to more than three times the ULN occurred in 1.1% of patients taking EZALLOR SPRINKLE versus 0.5% of patients treated with placebo.
 Marked persistent increases of hepatic transaminases have also occurred with EZALLOR Sprinkle.
 There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including EZALLOR SPRINKLE.

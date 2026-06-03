@@ -14,7 +14,7 @@ Atherosclerosis is a chronic process and the discontinuation of lipid-lowering d
 Available data from case series and prospective and retrospective observational cohort studies over decades of use with statins in pregnant women have not identified a drug-associated risk of major congenital malformations.
 Published data from prospective and retrospective observational cohort studies with rosuvastatin use in pregnant women are insufficient to determine if there is a drug-associated risk of miscarriage (see Data).
 
-In animal reproduction studies, no adverse developmental effects were observed in pregnant rats or rabbits orally administered rosuvastatin during the period of organogenesis at doses that resulted in systemic exposures equivalent to human exposures at the maximum recommended human dose (MRHD) of 40 mg/day, based on AUC and body surface area (mg/m2), respectively (see Data).
+In animal reproduction studies, no adverse developmental effects were observed in pregnant rats or rabbits orally administered rosuvastatin during the period of organogenesis at doses that resulted in systemic exposures equivalent to human exposures at the maximum recommended human dose (MRHD) of 40 mg/day, based on AUC and body surface area (mg/m 2), respectively (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
