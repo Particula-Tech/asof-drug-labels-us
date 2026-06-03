@@ -23,7 +23,7 @@ Table 1: Recommended Dosing for Quetiapine Tablets
 
 Maintenance Treatment for Schizophrenia and Bipolar I Disorder
 
-Maintenance Treatment - Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.2)].
+Maintenance Treatment -Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.2)].
 
 ## 2.3 Dose Modifications in Elderly Patients
 
@@ -39,7 +39,7 @@ The dose should be increased daily in increments of 25 mg/day to 50 mg/day to an
 
 ## 2.5 Dose Modifications when used with CYP3A4 Inhibitors
 
-Quetiapine tablets dose should be reduced to one sixth of original dose when co-medicated with a potent CYP3A4 inhibitor (e.g., ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.). When the CYP3A4 inhibitor is discontinued, the dose of quetiapine tablets should be increased by 6-fold [see Clinical Pharmacology (12.3) and Drug Interactions (7.1)].
+Quetiapine tablets dose should be reduced to one sixth of original dose when co-medicated with a potent CYP3A4 inhibitor (e.g., ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.). When the CYP3A4 inhibitor is discontinued, the dose of quetiapine tablets should be increased by 6-fold [see Clinical Pharmacology (12.3) andDrug Interactions (7.1)].
 
 ## 2.6 Dose Modifications when used with CYP3A4 Inducers
 

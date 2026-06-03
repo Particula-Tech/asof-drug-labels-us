@@ -3,13 +3,13 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of quetiapine in the listed indications is unclear.
-However, the efficacy of quetiapine in these indications could be mediated through a combination of dopamine type 2 (D2) and serotonin type 2 (5HT2) antagonism.
-The active metabolite, N-desalkyl quetiapine (norquetiapine), has similar activity at D2, but greater activity at 5HT2A receptors, than the parent drug (quetiapine).
+However, the efficacy of quetiapine in these indications could be mediated through a combination of dopamine type 2 (D 2) and serotonin type 2 (5HT 2) antagonism.
+The active metabolite, N-desalkyl quetiapine (norquetiapine), has similar activity at D 2, but greater activity at 5HT 2Areceptors, than the parent drug (quetiapine).
 
 ## 12.2 Pharmacodynamics
 
 Quetiapine and its metabolite, norquetiapine, have affinity for multiple neurotransmitter receptors with norquetiapine binding with higher affinity than quetiapine in general.
-The Ki values for quetiapine and norquetiapine at the dopamine D1 are 428/99.8 nM, at D2 626/489nM, at serotonin 5HT1A 1,040/191 nM at 5HT2A 38/2.9 nM, at histamine H1 4.4/1.1 nM, at muscarinic M1 1,086/38.3 nM, and at adrenergic α1b 14.6/46.4 nM and, at α2 receptors 617/1,290 nM, respectively.
+The K ivalues for quetiapine and norquetiapine at the dopamine D 1are 428/99.8 nM, at D 2626/489nM, at serotonin 5HT 1A1,040/191 nM at 5HT 2A38/2.9 nM, at histamine H 14.4/1.1 nM, at muscarinic M 11,086/38.3 nM, and at adrenergic α 1b 14.6/46.4 nM and, at α 2receptors 617/1,290 nM, respectively.
 Quetiapine and norquetiapine lack appreciable affinity to the benzodiazepine receptors.
 Effect on QT Interval
 
@@ -30,15 +30,15 @@ Quetiapine is unlikely to interfere with the metabolism of drugs metabolized by 
 Children and Adolescents
 
 At steady state the pharmacokinetics of the parent compound, in children and adolescents (10 to 17 years of age), were similar to adults.
-However, when adjusted for dose and weight, AUC and Cmax of the parent compound were 41% and 39% lower, respectively, in children and adolescents than in adults.
-For the active metabolite, norquetiapine, AUC and Cmax were 45% and 31% higher, respectively, in children and adolescents than in adults.
+However, when adjusted for dose and weight, AUC and C maxof the parent compound were 41% and 39% lower, respectively, in children and adolescents than in adults.
+For the active metabolite, norquetiapine, AUC and C maxwere 45% and 31% higher, respectively, in children and adolescents than in adults.
 When adjusted for dose and weight, the pharmacokinetics of the metabolite, norquetiapine, was similar between children and adolescents and adults [see Use in Specific Populations (8.4)].
 
 Absorption
 
 Quetiapine is rapidly absorbed after oral administration, reaching peak plasma concentrations in 1.5 hours.
 The tablet formulation is 100% bioavailable relative to solution.
-The bioavailability of quetiapine is marginally affected by administration with food, with Cmax and AUC values increased by 25% and 15%, respectively.
+The bioavailability of quetiapine is marginally affected by administration with food, with C maxand AUC values increased by 25% and 15%, respectively.
 
 Distribution
 
@@ -54,7 +54,7 @@ Approximately 73% and 20% of the dose was recovered in the urine and feces, resp
 
 Quetiapine is extensively metabolized by the liver.
 The major metabolic pathways are sulfoxidation to the sulfoxide metabolite and oxidation to the parent acid metabolite; both metabolites are pharmacologically inactive.
-In vitro studies using human liver microsomes revealed that the cytochrome P450 3A4 isoenzyme is involved in the metabolism of quetiapine to its major, but inactive, sulfoxide metabolite and in the metabolism of its active metabolite N-desalkyl quetiapine.
+In vitrostudies using human liver microsomes revealed that the cytochrome P450 3A4 isoenzyme is involved in the metabolism of quetiapine to its major, but inactive, sulfoxide metabolite and in the metabolism of its active metabolite N-desalkyl quetiapine.
 
 Age
 
@@ -74,16 +74,16 @@ Smoking has no effect on the oral clearance of quetiapine.
 
 Renal Insufficiency
 
-Patients with severe renal impairment (Clcr=10 to 30 mL/min/1.73 m2, n=8) had a 25% lower mean oral clearance than normal subjects (Clcr > 80 mL/min/1.73 m2, n=8), but plasma quetiapine concentrations in the subjects with renal insufficiency were within the range of concentrations seen in normal subjects receiving the same dose.
+Patients with severe renal impairment (Clcr=10 to 30 mL/min/1.73 m 2, n=8) had a 25% lower mean oral clearance than normal subjects (Clcr > 80 mL/min/1.73 m 2, n=8), but plasma quetiapine concentrations in the subjects with renal insufficiency were within the range of concentrations seen in normal subjects receiving the same dose.
 Dosage adjustment is therefore not needed in these patients [see Use in Specific Populations (8.6)].
 Hepatic Insufficiency
 
 Hepatically impaired patients (n=8) had a 30% lower mean oral clearance of quetiapine than normal subjects.
-In two of the 8 hepatically impaired patients, AUC and Cmax were 3 times higher than those observed typically in healthy subjects.
-Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration (2.4) and Use in Specific Populations (8.7)].
+In two of the 8 hepatically impaired patients, AUC and C maxwere 3 times higher than those observed typically in healthy subjects.
+Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration (2.4)and Use in Specific Populations (8.7)].
 Drug-Drug Interaction Studies
 
-The in vivo assessments of effect of other drugs on the pharmacokinetics of quetiapine are summarized in Table 17 [see Dosage and Administration (2.5 and 2.6) and Drug Interactions (7.1)].
+The in vivoassessments of effect of other drugs on the pharmacokinetics of quetiapine are summarized in Table 17 [see Dosage and Administration (2.5and2.6)andDrug Interactions (7.1)].
 Table 17: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 
 | Coadministered Drug | Dose Schedules |  | Effect on Quetiapine Pharmacokinetics |
@@ -99,7 +99,7 @@ Table 17: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 | Haloperidol | 7.5 mg twice daily | 300 mg twice daily | No change in steady state PK |
 | Risperidone | 3 mg twice daily | 300 mg twice daily | No change in steady state PK |
 
-In vitro enzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivo metabolism mediated by cytochromes CYP 1A2, 2C9, 2C19, 2D6, and 3A4.
+In vitroenzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivometabolism mediated by cytochromes CYP 1A2, 2C9, 2C19, 2D6, and 3A4.
 Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetics of antipyrine, lithium, or lorazepam (Table 18) [see Drug Interactions (7.2)].
 Table 18: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
 

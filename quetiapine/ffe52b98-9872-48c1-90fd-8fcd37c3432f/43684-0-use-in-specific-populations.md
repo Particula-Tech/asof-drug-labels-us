@@ -49,12 +49,12 @@ A retrospective cohort study from a Medicaid database of 9258 women exposed to a
 Animal Data
 
 When pregnant rats and rabbits were exposed to quetiapine during organogenesis, there was no teratogenic effect in fetuses.
-Doses were 25, 50 and 200 mg/kg in rats and 25, 50 and 100 mg/kg in rabbits which are approximately 0.3, 0.6 and 2-times (rats) and 0.6, 1 and 2-times (rabbits) the MRHD for schizophrenia of 800 mg/day based on mg/m2 body surface area.
+Doses were 25, 50 and 200 mg/kg in rats and 25, 50 and 100 mg/kg in rabbits which are approximately 0.3, 0.6 and 2-times (rats) and 0.6, 1 and 2-times (rabbits) the MRHD for schizophrenia of 800 mg/day based on mg/m 2body surface area.
 However, there was evidence of embryo-fetal toxicity including delays in skeletal ossification at approximately 1 and 2 times the MRHD of 800 mg/day in both rats and rabbits, and an increased incidence of carpal/tarsal flexure (minor soft tissue anomaly) in rabbit fetuses at approximately 2 times the MRHD.
 In addition, fetal weights were decreased in both species.
 Maternal toxicity (observed as decreased body weights and/or death) occurred at 2 times the MRHD in rats and approximately 1 to 2 times the MRHD (all doses tested) in rabbits.
 
-In a peri/postnatal reproductive study in rats, no drug-related effects were observed when pregnant dams were treated with quetiapine at doses 0.01, 0.1, and 0.2 times the MRHD of 800 mg/day based on mg/m2 body surface area.
+In a peri/postnatal reproductive study in rats, no drug-related effects were observed when pregnant dams were treated with quetiapine at doses 0.01, 0.1, and 0.2 times the MRHD of 800 mg/day based on mg/m 2body surface area.
 However, in a preliminary peri/postnatal study, there were increases in fetal and pup death, and decreases in mean litter weight at 3 times the MRHD.
 
 ## 8.2 Lactation
@@ -103,7 +103,7 @@ Safety and effectiveness of quetiapine in pediatric patients less than 18 years 
 A clinical trial with Seroquel XR* was conducted in children and adolescents (10 to 17 years of age) with bipolar depression, efficacy was not established.
 
 Some differences in the pharmacokinetics of quetiapine were noted between children/adolescents (10 to 17 years of age) and adults.
-When adjusted for weight, the AUC and Cmax of quetiapine were 41% and 39% lower, respectively, in children and adolescents compared to adults.
+When adjusted for weight, the AUC and C maxof quetiapine were 41% and 39% lower, respectively, in children and adolescents compared to adults.
 The pharmacokinetics of the active metabolite, norquetiapine, were similar between children/adolescents and adults after adjusting for weight [see Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
