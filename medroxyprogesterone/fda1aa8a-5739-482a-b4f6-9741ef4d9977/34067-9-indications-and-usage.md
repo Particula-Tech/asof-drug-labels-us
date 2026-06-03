@@ -1,4 +1,5 @@
 # 1 INDICATIONS AND USAGE
 
-Medroxyprogesterone acetate is indicated only for the prevention of pregnancy.
-The loss of bone mineral density (BMD) in women of all ages and the impact on peak bone mass in adolescents should be considered, along with the decrease in BMD that occurs during pregnancy and/or lactation, in the risk/benefit assessment for women who use Medroxyprogesterone acetate long-term [see Warnings and Precautions (5.1)].
+Medroxyprogesterone acetate is indicated for use by females of reproductive potential to prevent pregnancy.
+
+Limitations of Use: The use of Medroxyprogesterone acetate is not recommended as a long-term (i.e., longer than 2 years) birth control method unless other options are considered inadequate [see Dosage and Administration (2.1) and Warnings and Precautions (5.1)].

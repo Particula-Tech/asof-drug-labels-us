@@ -50,7 +50,8 @@ Do not twist cap as Needle-Pro® EDGE™ safety device may be loosened from the 
 An audible click may be heard as an indication that the needle is engaged into the needle protection device.
 AS THE SHEATH IS PRESSED (FIGURE 1), THE NEEDLE IS FIRMLY ENGAGED INTO THE SHEATH (FIGURE 2).
 
-3.7 Visually confirm that the needle is fully engaged into the needle protection sheath.3.8 After use, place syringe and needle into a sharps container.
+3.7 Visually confirm that the needle is fully engaged into the needle protection sheath.
+3.8 After use, place syringe and needle into a sharps container.
 Dispose of sharps container containing used syringe and needle in a safe manner according to Centers for Disease Control and Prevention, USA and Federal/State/Local regulations (EPA, OSHA) and health care facility guidelines or local equivalent.
 
 The Smiths Medical and Jelco design marks; Needle-Pro®EDGE; and the color orange applied to the needle protection device are trademarks of the Smiths Medical family of companies.

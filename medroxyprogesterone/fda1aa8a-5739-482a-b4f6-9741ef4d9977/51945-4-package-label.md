@@ -8,7 +8,9 @@ MedroxyPROGESTERone ACETATE INJECTABLE SUSPENSION, USP
 
 150 mg (150 mg/mL)
 
-Rx Only One 1 mL Single-Dose Vial For Intramuscular Use Only
+Rx Only
+
+One 1 mL Single-Dose Vial For Intramuscular Use Only
 
 Each mL contains: Medroxyprogesterone acetate, 150 mg.
 Also polyethylene glycol 3350, 28.9 mg; polysorbate 80, 2.41 mg; sodium chloride, 8.68 mg; and added as preservatives, methylparaben, 1.37 mg; propylparaben, 0.150 mg.
@@ -44,4 +46,4 @@ MedroxyPROGESTERone ACETATE INJECTABLE SUSPENSION, USP
 
 Rx Only
 
-For Intramuscular Use Only Single Dose Syringe
+For Intramuscular Use Only Single Use Syringe
