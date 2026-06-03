@@ -22,15 +22,18 @@ Supplies you will need for mixing and taking sodium oxybate oral solution.
 See Figure A:
 
 - Bottle of sodium oxybate oral solution medicine
+- Press-in-bottle-adaptor with straw attached
 - Dosing syringe for measuring and dispensing the sodium oxybate oral solution dose
 - Measuring cup that is able to measure about ¼ cup of water (not provided with the sodium oxybate oral solution shipment)
 - 2 empty pharmacy containers with child-resistant caps for mixing, storing, and taking the sodium oxybate oral solution doses
 - Alarm clock (not pictured which may be included in the first shipment)
 - Medication Guide
 
+Figure A
+
 Step 1: Setup
 
-- Take the sodium oxybate oral solution bottle, syringe, and pharmacy containers out of the shipping box.
+- Take the sodium oxybate oral solution bottle, press-in-bottle-adaptor, syringe, and pharmacy containers out of the shipping box.
 - Take the syringe out of the plastic wrapper.
   Use only the syringe provided with the sodium oxybate oral solution prescription.
 - Fill a measuring cup (not provided) with about ¼ cup of water available for mixing your dose.
@@ -38,47 +41,78 @@ Step 1: Setup
 - Open both pharmacy containers by holding the tab under the cap and turning counterclockwise (to the left).
   See Figure B.
 
-Remove the tamper evident band by pulling at the perforations and then remove the bottle cap from the sodium oxybate oral solution bottle by pushing down while turning the cap counterclockwise.
+Figure B
+
+Remove the bottle cap from the sodium oxybate oral solution bottle by pushing down while turning the cap counterclockwise and then peel off the foil tamper evident seal.
 See Figure C.
+
+Figure C
+
+- The press-in-bottle-adaptor may already be put in place by the pharmacy.
+  If it is not already in place, you will have to do it yourself.
+  After removing the cap from the sodium oxybate oral solution bottle, set the bottle upright on a tabletop.
+- While holding the sodium oxybate oral solution bottle in its upright position, insert the press-in-bottle-adaptor into the neck of the sodium oxybate oral solution bottle.
+  See Figure D.
+
+Figure D
+
+- Tilt the straw toward the edge of the bottom of the bottle to be sure you can draw out your dose of the medicine.
+  You only need to do this the first time you open the bottle.
+  See Figure E.
+
+Figure E
+
+- After you draw out your dose of the medicine, leave the adaptor in the bottle for all your future uses.
+  See Figure F.
+
+Figure F
 
 Step 2.
 Prepare the first sodium oxybate oral solution dose (prepare before bedtime)
 
 Place the sodium oxybate oral solution bottle on a hard, flat surface and grip the bottle with one hand and firmly press the syringe into the center opening of the bottle with the other hand.
-See Figure D.
+See Figure G.
 
-Figure D
+Figure G
 
 Pull back on the plunger until the medicine flows into the syringe and the liquid level is lined up with the marking on the syringe that matches your dose.
-See Figure E.
+See Figure H.
 
-Figure E
+Figure H
 
 Note: The sodium oxybate oral solution medicine will not flow into the syringe unless you keep the bottle upright.
 
-Figure F shows an example of drawing up a sodium oxybate oral solution dose of 2.25 g. Figure G shows an example if an air space forms when drawing up the dose.
+Figure I shows an example of drawing up a sodium oxybate oral solution dose of 2.25 g.
 
-Figure F Figure G
+Figure J shows an example if an air space forms when drawing up the dose.
+
+Figure I Figure J
 
 Note: If an air space forms between the plunger and the liquid when drawing up the medicine, line up the liquid level with the marking on the syringe that matches your dose.
-See Figure G above.
+See Figure J above.
 
 - After you draw up the first divided sodium oxybate oral solution dose, remove the syringe from the opening of the sodium oxybate oral solution bottle.
 - Empty all of the medicine from the syringe into one of the provided empty pharmacy containers by pushing down on the plunger until it stops.
-  See Figure H.
+  See Figure K.
 
-Figure H
+Figure K
 
 - Using a measuring cup, pour about ¼ cup of water into the pharmacy container.
   Be careful to add only water to the pharmacy container and not more sodium oxybate oral solution.
 - All shipped bottles of sodium oxybate oral solution contain the concentrated medicine.
   Water for mixing the medicine is not provided in the shipment.
 - After mixing the medicine and water in the provided pharmacy container, place the child-resistant cap on the filled pharmacy container and turn the cap clockwise (to the right) until it clicks and locks into its child-resistant position.
-  See Figure I.
+  See Figure L.
 - Caution: the pharmacy container cap is reversible with a non-child resistant side.
-  See Figure J. Make sure the child-resistant side of the cap is used to prevent access to the medicine by children.
+  See Figure M. Make sure the child-resistant side of the cap is used to prevent access to the medicine by children.
 
-Figure I Figure J
+Cap shown in child-resistant position.
+
+Figure L
+
+Note: Do not place the cap back on the container in a non-child resistant position as shown below.
+
+Figure M
 
 Step 3.
 Prepare the second sodium oxybate oral solution dose (prepare before bedtime)
@@ -135,12 +169,20 @@ Throwing away (disposing of) sodium oxybate oral solution
   - place the empty sodium oxybate oral solution bottle in the trash
 - Keep sodium oxybate oral solution and all medicines out of the reach of children and pets.
 
-﻿Manufactured by:Ascent Pharmaceuticals Inc. Central Islip, NY 11722
+Manufactured by:
 
-Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
+Ascent Pharmaceuticals Inc.
+
+Central Islip, NY 11722
+
+Manufactured for:
+
+Camber Pharmaceuticals, Inc.
+
+Piscataway, NJ 08854
 
 This Instructions for Use have been approved by the U.S. Food and Drug Administration.
-Revised: 10/2025
+Revised: 04/2026
 
 Pediatric use information is approved for Jazz Pharmaceuticals Inc.’s XYREM (sodium oxybate) Oral Solution.
-However, due to Jazz Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+However, due to Jazz Pharmaceuticals Inc.’s marketingexclusivity rights, this drug product is not labeled with that pediatric information.

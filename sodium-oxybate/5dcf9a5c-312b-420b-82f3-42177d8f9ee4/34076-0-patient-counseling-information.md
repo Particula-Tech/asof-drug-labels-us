@@ -57,4 +57,4 @@ Manufactured by: Ascent Pharmaceuticals, Inc. Central Islip, NY 11722
 
 Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
 
-Rev: 10/2025
+Rev: 04/2026

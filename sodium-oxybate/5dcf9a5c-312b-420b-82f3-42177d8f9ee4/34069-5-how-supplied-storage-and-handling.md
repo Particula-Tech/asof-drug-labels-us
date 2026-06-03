@@ -3,8 +3,8 @@
 ## 16.1 How Supplied
 
 Sodium oxybate oral solution is a clear to slightly opalescent oral solution.
-Each prescription includes one bottle of sodium oxybate oral solution with attached press in bottle adaptor, and an oral measuring device (plastic syringe).
-The pharmacy provides two empty containers with child-resistant caps with each sodium oxybate oral solution shipment.
+Each prescription includes one bottle of sodium oxybate oral solution, a press-in-bottle-adaptor, a 10 mL oral measuring device (plastic syringe) and a Medication Guide.
+One of the participating pharmacies provides two empty containers with child-resistant caps with each sodium oxybate oral solution shipment.
 
 Each amber bottle contains sodium oxybate oral solution at a concentration of 0.5 g per mL (0.5 g/mL of sodium oxybate equivalent to 0.413 g/mL of oxybate) and has a child-resistant cap.
 
