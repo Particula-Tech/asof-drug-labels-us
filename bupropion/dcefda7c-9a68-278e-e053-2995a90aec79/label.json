@@ -9,9 +9,16 @@
     "81968-045-14",
     "81968-045-30",
     "81968-045-31",
-    "81968-045-60"
+    "81968-045-60",
+    "81968-345-01",
+    "81968-345-03"
   ],
   "products": [
+    {
+      "form": "KIT",
+      "generic": "dextromethorphan hydrobromide, bupropion hydrochloride",
+      "name": "AUVELITY"
+    },
     {
       "form": "TABLET, MULTILAYER, EXTENDED RELEASE",
       "generic": "dextromethorphan hydrobromide, bupropion hydrochloride",
