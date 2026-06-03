@@ -11,24 +11,24 @@ The usual duration of ZOSYN treatment is from 7 to 10 days.
 
 ## 2.3 Dosage in Adult Patients With Nosocomial Pneumonia
 
-Initial presumptive treatment of adult patients with nosocomial pneumonia should start with ZOSYN at a dosage of 4.5 g every six hours plus an aminoglycoside, [totaling 18.0 g (16.0 g piperacillin and 2.0 g tazobactam)], administered by intravenous infusion over 30 minutes.
+Initial presumptive treatment of adult patients with nosocomial pneumonia should start with ZOSYN at a dosage of 4.5 g every six hours plus an aminoglycoside, [totaling 18 g (16 g piperacillin and 2 g tazobactam)], administered by intravenous infusion over 30 minutes.
 The recommended duration of ZOSYN treatment for nosocomial pneumonia is 7 to 14 days.
 Treatment with the aminoglycoside should be continued in patients from whom P. aeruginosa is isolated.
 
 ## 2.4 Dosage in Adult Patients With Renal Impairment
 
-In adult patients with renal impairment (creatinine clearance ≤ 40 mL/min) and dialysis patients (hemodialysis and CAPD), the intravenous dose of ZOSYN should be reduced based on the degree of renal impairment.
+In adult patients with renal impairment (creatinine clearance less than or equal to 40 mL/min) and dialysis patients (hemodialysis and CAPD), the intravenous dose of ZOSYN should be reduced based on the degree of renal impairment.
 The recommended daily dosage of ZOSYN for patients with renal impairment administered by intravenous infusion over 30 minutes is described in Table 1.
 
 Table 1: Recommended Dosage of ZOSYN in Patients with Normal Renal Function and Renal Impairment (As total grams piperacillin and tazobactam)Administer ZOSYN by intravenous infusion over 30 minutes.
 
 | Creatinine clearance, mL/min | All Indications (except nosocomial pneumonia) | Nosocomial Pneumonia |
 | --- | --- | --- |
-| Greater than 40 mL/min | 3.375 every 6 hours | 4.5 every 6 hours |
-| 20 to 40 mL/minCreatinine clearance for patients not receiving hemodialysis | 2.25 every 6 hours | 3.375 every 6 hours |
-| Less than 20 mL/min | 2.25 every 8 hours | 2.25 every 6 hours |
-| Hemodialysis0.75 g (0.67 g piperacillin and 0.08 g tazobactam) should be administered following each hemodialysis session on hemodialysis days | 2.25 every 12 hours | 2.25 every 8 hours |
-| CAPD | 2.25 every 12 hours | 2.25 every 8 hours |
+| Greater than 40 mL/min | 3.375 grams every 6 hours | 4.5 grams every 6 hours |
+| 20 mL/min to 40 mL/minCreatinine clearance for patients not receiving hemodialysis | 2.25 grams every 6 hours | 3.375 grams every 6 hours |
+| Less than 20 mL/min | 2.25 grams every 8 hours | 2.25 grams every 6 hours |
+| Hemodialysis0.75 g (0.67 g piperacillin and 0.08 g tazobactam) should be administered following each hemodialysis session on hemodialysis days | 2.25 grams every 12 hours | 2.25 grams every 8 hours |
+| CAPD | 2.25 grams every 12 hours | 2.25 grams every 8 hours |
 
 For patients on hemodialysis, the maximum dose is 2.25 g every twelve hours for all indications other than nosocomial pneumonia and 2.25 g every eight hours for nosocomial pneumonia.
 Since hemodialysis removes 30% to 40% of the administered dose, an additional dose of 0.75 g ZOSYN (0.67 g piperacillin and 0.08 g tazobactam) should be administered following each dialysis period on hemodialysis days.
@@ -94,7 +94,7 @@ If a dose of ZOSYN is required that does not equal 2.25 g, 3.375 g, or 4.5 g, ZO
 
 Store in a freezer capable of maintaining a temperature of -20°C (-4°F).
 
-For GALAXY Containers, the thawed solution is stable for 14 days under refrigeration (2°C to 8°C [36°F to 46°F]) or 24 hours at room temperature 20°C to 25°C [68°F to 77°F].
+For GALAXY Containers, the thawed solution is stable for 21 days under refrigeration (2°C to 8°C [36°F to 46°F]) or 24 hours at room temperature 20°C to 25°C [68°F to 77°F].
 Do not refreeze thawed ZOSYN Injection.
 
 ## 2.7 Compatibility With Aminoglycosides
@@ -106,10 +106,10 @@ In circumstances where co-administration via Y-site is necessary, ZOSYN formulat
 
 Table 3: Compatibility with Aminoglycosides
 
-| Aminoglycoside | ZOSYN Dose(grams) | AminoglycosideConcentrationRangeThe concentration ranges in Table 3 are based on administration of the aminoglycoside in divided doses (10-15 mg/kg/day in two daily doses for amikacin and 3-5 mg/kg/day in three daily doses for gentamicin). Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with ZOSYN containing EDTA has not been evaluated. See package insert for each aminoglycoside for complete Dosage and Administration instructions.(mg/mL) | Acceptable Diluents |
+| Aminoglycoside | ZOSYN Dose | AminoglycosideConcentrationRangeThe concentration ranges in Table 3 are based on administration of the aminoglycoside in divided doses (10 mg/kg/day to 15 mg/kg/day in two daily doses for amikacin and 3 mg/kg/day to 5 mg/kg/day in three daily doses for gentamicin). Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with ZOSYN containing EDTA has not been evaluated. See package insert for each aminoglycoside for complete Dosage and Administration instructions. | Acceptable Diluents |
 | --- | --- | --- | --- |
-| Amikacin | 2.253.3754.5 | 1.75 - 7.5 | 0.9% sodium chloride or 5% dextrose |
-| Gentamicin | 2.253.375ZOSYN 3.375 g per 50 mL GALAXY Containers are NOT compatible with gentamicin for co-administration via a Y-site due to the higher concentrations of piperacillin and tazobactam.4.5 | 0.7 - 3.32 | 0.9% sodium chloride or 5% dextrose |
+| Amikacin | 2.25 grams3.375 grams4.5 grams | 1.75 mg/mL to 7.5 mg/mL | 0.9% sodium chloride or 5% dextrose |
+| Gentamicin | 2.25 grams3.375 gramsZOSYN 3.375 g per 50 mL GALAXY Containers are NOT compatible with gentamicin for co-administration via a Y-site due to the higher concentrations of piperacillin and tazobactam.4.5 grams | 0.7 mg/mL to 3.32 mg/mL | 0.9% sodium chloride or 5% dextrose |
 
 Only the concentration and diluents for amikacin or gentamicin with the dosages of ZOSYN listed above have been established as compatible for co-administration via Y-site infusion.
 Simultaneous co-administration via Y-site infusion in any manner other than listed above may result in inactivation of the aminoglycoside by ZOSYN.

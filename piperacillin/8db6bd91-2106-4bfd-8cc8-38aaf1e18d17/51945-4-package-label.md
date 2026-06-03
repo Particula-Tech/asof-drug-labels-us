@@ -11,7 +11,7 @@ Code 2G3582 Sterile Nonpyrogenic Rx only
 Store at or below -20°C/-4°F.
 Thaw at room temperature 20° to 25°C (68° to 77°F) or under refrigeration 2° to 8°C (36° to 46°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
-Thawed solution remains stable for 14 days under refrigeration or 24 hours at room temperature.
+Thawed solution remains stable for 21 days under refrigeration or 24 hours at room temperature.
 Do not refreeze.
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
@@ -27,7 +27,7 @@ Approximately 100 mg Sodium Citrate Dihydrate added as a buffer. pH adjusted wit
 
 Baxter Logo Manufactured by Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-07-34-00-2323
+07-34-00-2683
 
 Barcode 3 03389 63201 6
 
@@ -42,7 +42,7 @@ Code 2G3583 Sterile Nonpyrogenic Rx only
 Store at or below -20°C/-4°F.
 Thaw at room temperature 20° to 25°C (68° to 77°F) or under refrigeration 2° to 8°C (36° to 46°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
-Thawed solution remains stable for 14 days under refrigeration or 24 hours at room temperature.
+Thawed solution remains stable for 21 days under refrigeration or 24 hours at room temperature.
 Do not refreeze.
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
@@ -58,7 +58,7 @@ Approximately 150 mg Sodium Citrate Dihydrate added as a buffer. pH adjusted wit
 
 Baxter Logo Manufactured by Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-07-34-00-2322
+07-34-00-2682
 
 Barcode 3 03389 63601 4
 
@@ -73,7 +73,7 @@ Code 2G3584 Sterile Nonpyrogenic Rx only
 Store at or below -20°C/-4°F.
 Thaw at room temperature 20° to 25°C (68° to 77°F) or under refrigeration 2° to 8°C (36° to 46°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
-Thawed solution remains stable for 14 days under refrigeration or 24 hours at room temperature.
+Thawed solution remains stable for 21 days under refrigeration or 24 hours at room temperature.
 Do not refreeze.
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
@@ -89,13 +89,13 @@ Approximately 200 mg Sodium Citrate Dihydrate added as a buffer. pH adjusted wit
 
 Baxter Logo Manufactured by Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-07-34-00-2321
+07-34-00-2681
 
 Barcode 3 03389 63801 8
 
 Thaw at room temperature 20° to 25°C (68° to 77°F) or under refrigeration 2° to 8°C (36° to 46°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
-Thawed solution remains stable for 14 days under refrigeration 2° to 8°C (36° to 46°F) or 24 hours at room temperature 20° to 25°C (68° to 77°F).
+Thawed solution remains stable for 21 days under refrigeration 2° to 8°C (36° to 46°F) or 24 hours at room temperature 20° to 25°C (68° to 77°F).
 Do not refreeze.
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
@@ -104,7 +104,7 @@ Manufactured by Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Baxter Logo
 
-GTIN: 20303389632249 07-04-00-1383
+GTIN: 20303389632249 07-04-00-1644
 
 ZOSYN Rx only
 
@@ -119,7 +119,7 @@ Do not refreeze.
 
 NDC 0338-9632-24 Contains 24 of NDC 0338-9632-01 Code 2G3582
 
-* BAR CODE POSITION ONLY (01) 20303389632249
+Bar Code (01) 20303389632249
 
 GALAXY Container
 
@@ -143,7 +143,7 @@ Do not use unless solution is clear.
 
 Thaw at room temperature 20° to 25°C (68° to 77°F) or under refrigeration 2° to 8°C (36° to 46°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
-Thawed solution remains stable for 14 days under refrigeration 2° to 8°C (36° to 46°F) or 24 hours at room temperature 20° to 25°C (68° to 77°F).
+Thawed solution remains stable for 21 days under refrigeration 2° to 8°C (36° to 46°F) or 24 hours at room temperature 20° to 25°C (68° to 77°F).
 Do not refreeze.
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
@@ -152,7 +152,7 @@ Manufactured by Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Baxter Logo
 
-GTIN: 20303389636247 07-04-00-1382
+GTIN: 20303389636247 07-04-00-1643
 
 ZOSYN Rx only
 
@@ -167,7 +167,7 @@ Do not refreeze.
 
 NDC 0338-9636-24 Contains 24 of NDC 0338-9636-01 Code 2G3583
 
-* BAR CODE POSITION ONLY (01) 20303389636247
+BAR CODE (01) 20303389636247
 
 GALAXY Container
 
@@ -191,7 +191,7 @@ Do not use unless solution is clear.
 
 Thaw at room temperature 20° to 25°C (68° to 77°F) or under refrigeration 2° to 8°C (36° to 46°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
-Thawed solution remains stable for 14 days under refrigeration 2° to 8°C (36° to 46°F) or 24 hours at room temperature 20° to 25°C (68° to 77°F).
+Thawed solution remains stable for 21 days under refrigeration 2° to 8°C (36° to 46°F) or 24 hours at room temperature 20° to 25°C (68° to 77°F).
 Do not refreeze.
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
@@ -200,7 +200,7 @@ Manufactured by Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Baxter Logo
 
-GTIN: 20303389638128 07-04-00-1381
+GTIN: 20303389638128 07-04-00-1642
 
 ZOSYN Rx only
 
@@ -215,7 +215,7 @@ Do not refreeze.
 
 NDC 0338-9638-12 Contains 12 of NDC 0338-9638-01 Code 2G3584
 
-* BAR CODE POSITION ONLY (01) 20303389638128
+BAR CODE (01) 20303389638128
 
 GALAXY Container
 
