@@ -23,7 +23,7 @@ This package not for household use.
 
 # PRINCIPAL DISPLAY PANEL - 0.625 mg Tablet Bottle Carton
 
-Pfizer NDC 0046-1102-91 Rx only
+Pfizer NDC 0046-1102-91
 
 PREMARIN® (conjugated estrogens tablets, USP)
 
@@ -32,7 +32,7 @@ PREMARIN® (conjugated estrogens tablets, USP)
 Note: Dispense in tight (USP), child-resistant containers.
 This package not for household use.
 
-1,000 Tablets
+1,000 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 0.625 mg Tablet Blister Card
 
@@ -87,7 +87,7 @@ This package not for household use.
 
 # PRINCIPAL DISPLAY PANEL - 0.3 mg Tablet Bottle Carton
 
-Pfizer NDC 0046-1100-91 Rx only
+Pfizer NDC 0046-1100-91
 
 PREMARIN® (conjugated estrogens tablets, USP)
 
@@ -96,7 +96,7 @@ PREMARIN® (conjugated estrogens tablets, USP)
 Note: Dispense in tight (USP), child-resistant containers.
 This package not for household use.
 
-1,000 Tablets
+1,000 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 0.3 mg Tablet Blister Card
 
