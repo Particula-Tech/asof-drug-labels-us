@@ -13,4 +13,4 @@ Manufactured for: Macleods Pharma USA, Inc.
 Princeton, NJ 08540
 
 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA.
-Revised: November 2022
+Revised: September 2025

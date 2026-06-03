@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Olmesartan medoxomil tablets are supplied as yellow, round, biconvex, film-coated, non-scored tablets debossed with "C51" on one side and plain on other side containing 5 mg of olmesartan medoxomil, as white, round, biconvex, film-coated, non-scored tablets debossed with "C53" on one side and plain on other side containing 20 mg of olmesartan medoxomil and as white, oval, biconvex, film-coated, non-scored tablets debossed with "C54" on one side and plain on other side containing 40 mg of olmesartan medoxomil.
+Olmesartan medoxomil tablets, USP are supplied as yellow, round, biconvex, film-coated, non-scored tablets debossed with "C51" on one side and plain on other side containing 5 mg of olmesartan medoxomil, as white, round, biconvex, film-coated, non-scored tablets debossed with "C53" on one side and plain on other side containing 20 mg of olmesartan medoxomil and as white, oval, biconvex, film-coated, non-scored tablets debossed with "C54" on one side and plain on other side containing 40 mg of olmesartan medoxomil.
 Tablets are supplied as follows:
 
 |  | 5 mg | 20 mg | 40 mg |
