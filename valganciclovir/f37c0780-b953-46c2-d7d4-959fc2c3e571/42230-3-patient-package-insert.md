@@ -161,13 +161,15 @@ For more information, call 1-888-375-3784.
 
 Rx Only
 
-Manufactured by
+Distributor:
 
-Dr. Reddy’s Laboratories Limited
+Dr. Reddy’s Laboratories Inc.,
 
-Bachupally – 500 090 INDIA
+Princeton, NJ 08540
 
-Revised: 0122
+Product of Italy
+
+Revised: 10/2025
 
 Dispense with Patient Information Sheet available at:
 
