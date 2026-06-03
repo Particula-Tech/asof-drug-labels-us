@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA218651"
+  ],
+  "inn": "fluorescein",
+  "labeler": "Zydus Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "70710-2045-1",
+    "70710-2045-9",
+    "70710-2046-1",
+    "70710-2046-9"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "fluorescein",
+      "name": "Fluorescein"
+    }
+  ],
+  "setid": "19aea137-3f47-4b69-9884-3bff5f79b04a",
+  "source": "dailymed"
+}
