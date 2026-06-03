@@ -6,7 +6,7 @@ Recommended Daily Dosage by Indication
 |  | Initial Dose | Titration (Increments) | Target Dose | Effective Dose Range |
 | --- | --- | --- | --- | --- |
 | Schizophrenia: adults (2.1) | 2 mg | 1 to 2 mg | 4 to 8 mg | 4 to 16 mg |
-| Schizophrenia: adolescents (2.2) | 0.5 mg | 0.5 to 1 mg | 3 mg | 1 to 6 mg |
+| Schizophrenia: adolescents (2.1) | 0.5 mg | 0.5 to 1 mg | 3 mg | 1 to 6 mg |
 | Bipolar mania: adults (2.2) | 2 to 3 mg | 1 mg | 1 to 6 mg | 1 to 6 mg |
 | Bipolar mania: children and adolescents (2.2) | 0.5 mg | 0.5 to 1 mg | 1 to 2.5 mg | 1 to 6 mg |
 | Irritability in autistic disorder (2.3) | 0.25 mg Can increase to 0.5 mg by Day 4: (body weight less than 20 kg) 0.5 mg Can increase to 1 mg by Day 4: (body weight greater than or equal to 20 kg) | After Day 4, at intervals of > 2 weeks: 0.25 mg (body weight less than 20 kg) 0.5 mg (body weight greater than or equal to 20 kg) | 0.5 mg: (body weight less than 20 kg) 1 mg: (body weight greater than or equal to 20 kg) | 0.5 to 3 mg |
@@ -40,7 +40,7 @@ Patients experiencing persistent somnolence may benefit from administering half 
 
 Maintenance Therapy
 
-While it is unknown how long a patient with schizophrenia should remain on RISPERDAL, the effectiveness of RISPERDAL 2 mg per day to 8 mg per day at delaying relapse was demonstrated in a controlled trial in adult patients who had been clinically stable for at least 4 weeks and were then followed for a period of 1 to 2 years [seeClinical Studies (14.1)].
+While it is unknown how long a patient with schizophrenia should remain on RISPERDAL, the effectiveness of RISPERDAL 2 mg per day to 8 mg per day at delaying relapse was demonstrated in a controlled trial in adult patients who had been clinically stable for at least 4 weeks and were then followed for a period of 1 to 2 years [see Clinical Studies (14.1)].
 Both adult and adolescent patients who respond acutely should generally be maintained on their effective dose beyond the acute episode.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
@@ -61,7 +61,7 @@ Adults
 The initial dose range is 2 mg to 3 mg per day.
 The dose may be adjusted at intervals of 24 hours or greater, in increments of 1 mg per day.
 The effective dose range is 1 mg to 6 mg per day, as studied in the short-term, placebo-controlled trials.
-In these trials, short-term (3 week) anti-manic efficacy was demonstrated in a flexible dosage range of 1 mg to 6 mg per day [seeClinical Studies (14.2, 14.3)].
+In these trials, short-term (3 week) anti-manic efficacy was demonstrated in a flexible dosage range of 1 mg to 6 mg per day [see Clinical Studies (14.2, 14.3)].
 RISPERDAL doses higher than 6 mg per day were not studied.
 
 Pediatrics
@@ -101,18 +101,18 @@ Patients experiencing persistent somnolence may benefit from a once-daily dose a
 
 For patients with severe renal impairment (Clcr< 30 mL/min) or hepatic impairment (10–15 points on Child Pugh System), the initial starting dose is 0.5 mg twice daily.
 The dose may be increased in increments of 0.5 mg or less, administered twice daily.
-For doses above 1.5 mg twice daily, increase in intervals of one week or greater [see Use in Specific Populations (8.6and 8.7)].
+For doses above 1.5 mg twice daily, increase in intervals of one week or greater [see Use in Specific Populations (8.6 and 8.7)].
 
 ## 2.5 Dose Adjustments for Specific Drug Interactions
 
 When RISPERDAL is co-administered with enzyme inducers (e.g., carbamazepine), the dose of RISPERDAL should be increased up to double the patient's usual dose.
-It may be necessary to decrease the RISPERDAL dose when enzyme inducers such as carbamazepine are discontinued [seeDrug Interactions (7.1)].
+It may be necessary to decrease the RISPERDAL dose when enzyme inducers such as carbamazepine are discontinued [see Drug Interactions (7.1)].
 Similar effect may be expected with co-administration of RISPERDAL with other enzyme inducers (e.g., phenytoin, rifampin, and phenobarbital).
 
 When fluoxetine or paroxetine is co-administered with RISPERDAL, the dose of RISPERDAL should be reduced.
 The RISPERDAL dose should not exceed 8 mg per day in adults when co-administered with these drugs.
 When initiating therapy, RISPERDAL should be titrated slowly.
-It may be necessary to increase the RISPERDAL dose when enzyme inhibitors such as fluoxetine or paroxetine are discontinued [seeDrug Interactions (7.1)].
+It may be necessary to increase the RISPERDAL dose when enzyme inhibitors such as fluoxetine or paroxetine are discontinued [see Drug Interactions (7.1)].
 
 ## 2.6 Administration of RISPERDAL Oral Solution
 

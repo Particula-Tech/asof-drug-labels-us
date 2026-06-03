@@ -3,14 +3,14 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of risperidone in schizophrenia is unclear.
-The drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D 2) and serotonin Type 2 (5HT 2) receptor antagonism.
+The drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D2) and serotonin Type 2 (5HT2) receptor antagonism.
 The clinical effect from risperidone results from the combined concentrations of risperidone and its major metabolite, 9-hydroxyrisperidone (paliperidone) [see Clinical Pharmacology (12.3)].
-Antagonism at receptors other than D 2and 5HT 2may explain some of the other effects of risperidone [see Clinical Pharmacology (12.1)].
+Antagonism at receptors other than D2 and 5HT2 may explain some of the other effects of risperidone [see Clinical Pharmacology (12.1)].
 
 ## 12.2 Pharmacodynamics
 
-Risperidone is a monoaminergic antagonist with high affinity (Ki of 0.12 to 7.3 nM) for the serotonin Type 2 (5HT 2), dopamine Type 2 (D 2), α 1and α 2adrenergic, and H 1histaminergic receptors.
-Risperidone showed low to moderate affinity (Ki of 47 to 253 nM) for the serotonin 5HT 1C, 5HT 1D, and 5HT 1Areceptors, weak affinity (Ki of 620 to 800 nM) for the dopamine D 1and haloperidol-sensitive sigma site, and no affinity (when tested at concentrations >10 -5M) for cholinergic muscarinic or β 1and β 2adrenergic receptors.
+Risperidone is a monoaminergic antagonist with high affinity (Ki of 0.12 to 7.3 nM) for the serotonin Type 2 (5HT2), dopamine Type 2 (D2), α1 and α2 adrenergic, and H1 histaminergic receptors.
+Risperidone showed low to moderate affinity (Ki of 47 to 253 nM) for the serotonin 5HT1C, 5HT1D, and 5HT1A receptors, weak affinity (Ki of 620 to 800 nM) for the dopamine D1 and haloperidol-sensitive sigma site, and no affinity (when tested at concentrations >10-5 M) for cholinergic muscarinic or β1 and β2 adrenergic receptors.
 
 ## 12.3 Pharmacokinetics
 
@@ -37,7 +37,7 @@ Distribution
 
 Risperidone is rapidly distributed.
 The volume of distribution is 1–2 L/kg.
-In plasma, risperidone is bound to albumin and α 1-acid glycoprotein.
+In plasma, risperidone is bound to albumin and α1-acid glycoprotein.
 The plasma protein binding of risperidone is approximately 90%, and that of its major metabolite, 9-hydroxyrisperidone, is 77%.
 Neither risperidone nor 9-hydroxyrisperidone displaces each other from plasma binding sites.
 High therapeutic concentrations of sulfamethazine (100 mcg/mL), warfarin (10 mcg/mL), and carbamazepine (10mcg/mL) caused only a slight increase in the free fraction of risperidone at 10 ng/mL and 9-hydroxyrisperidone at 50 ng/mL, changes of unknown clinical significance.
@@ -76,22 +76,22 @@ Second, co-administration of known enzyme inducers (e.g., carbamazepine, phenyto
 It would also be possible for risperidone to interfere with metabolism of other drugs metabolized by CYP 2D6.
 Relatively weak binding of risperidone to the enzyme suggests this is unlikely [see Drug Interactions (7)].
 
-In vitrostudies indicate that risperidone is a relatively weak inhibitor of CYP 2D6.
+In vitro studies indicate that risperidone is a relatively weak inhibitor of CYP 2D6.
 Therefore, RISPERDAL is not expected to substantially inhibit the clearance of drugs that are metabolized by this enzymatic pathway.
 In drug interaction studies, RISPERDAL did not significantly affect the pharmacokinetics of donepezil and galantamine, which are metabolized by CYP 2D6.
 
-In vitrostudies demonstrated that drugs metabolized by other CYP isozymes, including 1A1, 1A2, 2C9, 2C19, and 3A4, are only weak inhibitors of risperidone metabolism.
+In vitro studies demonstrated that drugs metabolized by other CYP isozymes, including 1A1, 1A2, 2C9, 2C19, and 3A4, are only weak inhibitors of risperidone metabolism.
 
 Specific Populations
 
 Renal and Hepatic Impairment
 
-[See Use in Specific Populations (8.6and 8.7)].
+[See Use in Specific Populations (8.6 and 8.7)].
 
 Elderly
 
 In healthy elderly subjects, renal clearance of both risperidone and 9-hydroxyrisperidone was decreased, and elimination half-lives were prolonged compared to young healthy subjects.
-Dosing should be modified accordingly in the elderly patients [seeUse in Specific Populations (8.5)].
+Dosing should be modified accordingly in the elderly patients [see Use in Specific Populations (8.5)].
 
 Pediatric
 

@@ -19,7 +19,7 @@ RISPERDAL (risperidone) is not approved for the treatment of dementia-related ps
 Cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities, were reported in patients (mean age 85 years; range 73–97) in trials of risperidone in elderly patients with dementia-related psychosis.
 In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with risperidone compared to patients treated with placebo.
 RISPERDAL is not approved for the treatment of patients with dementia-related psychosis.
-[seeBoxed WarningandWarnings and Precautions (5.1)].
+[see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
@@ -202,7 +202,7 @@ When treating pediatric patients with RISPERDAL for any indication, weight gain 
 
 ## 5.6 Hyperprolactinemia
 
-As with other drugs that antagonize dopamine D 2receptors, RISPERDAL elevates prolactin levels and the elevation persists during chronic administration.
+As with other drugs that antagonize dopamine D2 receptors, RISPERDAL elevates prolactin levels and the elevation persists during chronic administration.
 RISPERDAL is associated with higher levels of prolactin elevation than other antipsychotic agents.
 
 Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.
@@ -211,14 +211,14 @@ Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in pati
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
-An increase in pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [seeNonclinical Toxicology (13.1)].
+An increase in pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
 Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 ## 5.7 Orthostatic Hypotension
 
 RISPERDAL may induce orthostatic hypotension associated with dizziness, tachycardia, and in some patients, syncope, especially during the initial dose-titration period, probably reflecting its alpha-adrenergic antagonistic properties.
 Syncope was reported in 0.2% (6/2607) of RISPERDAL-treated patients in Phase 2 and 3 studies in adults with schizophrenia.
-The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 2 mg total (either once daily or 1 mg twice daily) in normal adults and 0.5 mg twice daily in the elderly and patients with renal or hepatic impairment [seeDosage and Administration (2.1, 2.4)].
+The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 2 mg total (either once daily or 1 mg twice daily) in normal adults and 0.5 mg twice daily in the elderly and patients with renal or hepatic impairment [see Dosage and Administration (2.1, 2.4)].
 Monitoring of orthostatic vital signs should be considered in patients for whom this is of concern.
 A dose reduction should be considered if hypotension occurs.
 RISPERDAL should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension, e.g., dehydration and hypovolemia, and in the elderly and patients with renal or hepatic impairment.
@@ -232,14 +232,14 @@ For patients, particularly the elderly, with diseases, conditions, or medication
 
 ## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
 
-Class Effect:In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including RISPERDAL.
+Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including RISPERDAL.
 Agranulocytosis has also been reported.
 
 Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
 Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of RISPERDAL should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm 3) should discontinue RISPERDAL and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue RISPERDAL and have their WBC followed until recovery.
 
 ## 5.10 Potential for Cognitive and Motor Impairment
 
@@ -258,7 +258,7 @@ RISPERDAL should be used cautiously in patients with a history of seizures.
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's dementia.
 RISPERDAL and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
-[seeBoxed Warningand Warnings and Precautions (5.1)].
+[see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.13 Priapism
 

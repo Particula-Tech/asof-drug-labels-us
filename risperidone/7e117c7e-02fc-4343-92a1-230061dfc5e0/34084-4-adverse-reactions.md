@@ -2,25 +2,25 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Increased mortality in elderly patients with dementia-related psychosis [seeBoxed WarningandWarnings and Precautions (5.1)]
-- Cerebrovascular adverse events, including stroke, in elderly patients with dementia-related psychosis [seeWarnings and Precautions (5.2)]
-- Neuroleptic malignant syndrome [seeWarnings and Precautions (5.3)]
-- Tardive dyskinesia [seeWarnings and Precautions (5.4)]
-- Metabolic Changes (Hyperglycemia and diabetes mellitus, Dyslipidemia, and Weight Gain) [seeWarnings and Precautions (5.5)]
-- Hyperprolactinemia [seeWarnings and Precautions (5.6)]
-- Orthostatic hypotension [seeWarnings and Precautions (5.7)]
+- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
+- Cerebrovascular adverse events, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
+- Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
+- Tardive dyskinesia [see Warnings and Precautions (5.4)]
+- Metabolic Changes (Hyperglycemia and diabetes mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.5)]
+- Hyperprolactinemia [see Warnings and Precautions (5.6)]
+- Orthostatic hypotension [see Warnings and Precautions (5.7)]
 - Falls [see Warnings and Precautions (5.8)]
 - Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.9)]
 - Potential for cognitive and motor impairment [see Warnings and Precautions (5.10)]
-- Seizures [seeWarnings and Precautions (5.11)]
-- Dysphagia [seeWarnings and Precautions (5.12)]
-- Priapism [seeWarnings and Precautions (5.13)]
-- Disruption of body temperature regulation [seeWarnings and Precautions (5.14)]
-- Patients with Phenylketonuria [seeWarnings and Precautions (5.15)].
+- Seizures [see Warnings and Precautions (5.11)]
+- Dysphagia [see Warnings and Precautions (5.12)]
+- Priapism [see Warnings and Precautions (5.13)]
+- Disruption of body temperature regulation [see Warnings and Precautions (5.14)]
+- Patients with Phenylketonuria [see Warnings and Precautions (5.15)].
 
 The most common adverse reactions in clinical trials (>5% and twice placebo) were parkinsonism, akathisia, dystonia, tremor, sedation, dizziness, anxiety, blurred vision, nausea, vomiting, upper abdominal pain, stomach discomfort, dyspepsia, diarrhea, salivary hypersecretion, constipation, dry mouth, increased appetite, increased weight, fatigue, rash, nasal congestion, upper respiratory tract infection, nasopharyngitis, and pharyngolaryngeal pain.
 
-The most common adverse reactions that were associated with discontinuation from clinical trials (causing discontinuation in >1% of adults and/or >2% of pediatrics) were nausea, somnolence, sedation, vomiting, dizziness, and akathisia [seeAdverse Reactions, Discontinuations Due to Adverse Reactions (6.1)].
+The most common adverse reactions that were associated with discontinuation from clinical trials (causing discontinuation in >1% of adults and/or >2% of pediatrics) were nausea, somnolence, sedation, vomiting, dizziness, and akathisia [see Adverse Reactions, Discontinuations Due to Adverse Reactions (6.1)].
 
 The data described in this section are derived from a clinical trial database consisting of 9803 adult and pediatric patients exposed to one or more doses of RISPERDAL for the treatment of schizophrenia, bipolar mania, autistic disorder, and other psychiatric disorders in pediatrics and elderly patients with dementia.
 Of these 9803 patients, 2687 were patients who received RISPERDAL while participating in double-blind, placebo-controlled trials.
@@ -73,7 +73,7 @@ Adverse Reactions in ≥2% of RISPERDAL-Treated Adult Patients (and greater than
 | Arthralgia | 2 | 3 | <1 |
 | Pain in extremity | 2 | 1 | 1 |
 | Nervous System Disorders |  |  |  |
-| Parkinsonism Parkinsonism includes extrapyramidal disorder, musculoskeletal stiffness, parkinsonism, cogwheel rigidity, akinesia, bradykinesia, hypokinesia, masked facies, muscle rigidity, and Parkinson's disease. Akathisia includes akathisia and restlessness. Dystonia includes dystonia, muscle spasms, muscle contractions involuntary, muscle contracture, oculogyration, tongue paralysis. Tremor includes tremor and parkinsonian rest tremor. | 14 | 17 | 8 |
+| ParkinsonismParkinsonism includes extrapyramidal disorder, musculoskeletal stiffness, parkinsonism, cogwheel rigidity, akinesia, bradykinesia, hypokinesia, masked facies, muscle rigidity, and Parkinson's disease. Akathisia includes akathisia and restlessness. Dystonia includes dystonia, muscle spasms, muscle contractions involuntary, muscle contracture, oculogyration, tongue paralysis. Tremor includes tremor and parkinsonian rest tremor. | 14 | 17 | 8 |
 | Akathisia | 10 | 10 | 3 |
 | Sedation | 10 | 5 | 2 |
 | Dizziness | 7 | 4 | 2 |
@@ -108,7 +108,7 @@ Adverse Reactions in ≥5% of RISPERDAL-Treated Pediatric Patients (and greater 
 | Salivary hypersecretion | 0 | 10 | 2 |
 | Nervous System Disorders |  |  |  |
 | Sedation | 24 | 12 | 4 |
-| Parkinsonism Parkinsonism includes extrapyramidal disorder, muscle rigidity, musculoskeletal stiffness, and hypokinesia. Akathisia includes akathisia and restlessness. Dystonia includes dystonia and oculogyration. | 16 | 28 | 11 |
+| ParkinsonismParkinsonism includes extrapyramidal disorder, muscle rigidity, musculoskeletal stiffness, and hypokinesia. Akathisia includes akathisia and restlessness. Dystonia includes dystonia and oculogyration. | 16 | 28 | 11 |
 | Tremor | 11 | 10 | 6 |
 | Akathisia | 9 | 10 | 4 |
 | Dizziness | 7 | 14 | 2 |
@@ -138,7 +138,7 @@ Adverse Reactions in ≥2% of RISPERDAL-Treated Adult Patients (and greater than
 | General Disorders |  |  |
 | Fatigue | 2 | 1 |
 | Nervous System Disorders |  |  |
-| Parkinsonism Parkinsonism includes extrapyramidal disorder, parkinsonism, musculoskeletal stiffness, hypokinesia, muscle rigidity, muscle tightness, bradykinesia, cogwheel rigidity. Akathisia includes akathisia and restlessness. Tremor includes tremor and parkinsonian rest tremor. Dystonia includes dystonia, muscle spasms, oculogyration, torticollis. | 25 | 9 |
+| ParkinsonismParkinsonism includes extrapyramidal disorder, parkinsonism, musculoskeletal stiffness, hypokinesia, muscle rigidity, muscle tightness, bradykinesia, cogwheel rigidity. Akathisia includes akathisia and restlessness. Tremor includes tremor and parkinsonian rest tremor. Dystonia includes dystonia, muscle spasms, oculogyration, torticollis. | 25 | 9 |
 | Sedation | 11 | 4 |
 | Akathisia | 9 | 3 |
 | Tremor | 6 | 3 |
@@ -167,7 +167,7 @@ Adverse Reactions in ≥2% of RISPERDAL-Treated Adult Patients (and greater than
 | Infections and Infestations |  |  |
 | Urinary tract infection | 2 | 1 |
 | Nervous System Disorders |  |  |
-| Parkinsonism Parkinsonism includes extrapyramidal disorder, hypokinesia and bradykinesia. Akathisia includes hyperkinesia and akathisia. | 14 | 4 |
+| ParkinsonismParkinsonism includes extrapyramidal disorder, hypokinesia and bradykinesia. Akathisia includes hyperkinesia and akathisia. | 14 | 4 |
 | Sedation | 9 | 4 |
 | Akathisia | 8 | 0 |
 | Dizziness | 7 | 2 |
@@ -206,7 +206,7 @@ Adverse Reactions in ≥5% of RISPERDAL-Treated Pediatric Patients (and greater 
 | Nervous System Disorders |  |  |  |
 | Sedation | 42 | 56 | 19 |
 | Dizziness | 16 | 13 | 5 |
-| Parkinsonism Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, bradykinesia, and nuchal rigidity. Dystonia includes dystonia, laryngospasm, and muscle spasms. Akathisia includes restlessness and akathisia. | 6 | 12 | 3 |
+| ParkinsonismParkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, bradykinesia, and nuchal rigidity. Dystonia includes dystonia, laryngospasm, and muscle spasms. Akathisia includes restlessness and akathisia. | 6 | 12 | 3 |
 | Dystonia | 6 | 5 | 0 |
 | Akathisia | 0 | 8 | 2 |
 | Psychiatric Disorders |  |  |  |
@@ -251,7 +251,7 @@ Adverse Reactions in ≥5% of RISPERDAL-Treated Pediatric Patients (and greater 
 | Headache | 12 | 10 |
 | Tremor | 8 | 1 |
 | Dizziness | 8 | 2 |
-| Parkinsonism Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, muscle rigidity, cogwheel rigidity, and muscle tightness. | 8 | 1 |
+| ParkinsonismParkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, muscle rigidity, cogwheel rigidity, and muscle tightness. | 8 | 1 |
 | Renal and Urinary Disorders |  |  |
 | Enuresis | 16 | 10 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |
@@ -415,7 +415,7 @@ Table 17.
 
 Dystonia
 
-Class Effect:Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
