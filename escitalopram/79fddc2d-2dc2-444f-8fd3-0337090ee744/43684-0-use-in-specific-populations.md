@@ -73,10 +73,13 @@ Use of escitalopram oral solution for this indication is supported by evidence f
 The safety of escitalopram oral solution was similar to adult patients with MDD [see Adverse Reactions (6.1)].
 
 The safety and effectiveness of escitalopram oral solution for the treatment of major depressive disorder have not been established in pediatric patients younger than 12 years of age.
-In a 24-week, open- label safety study in 118 pediatric patient (aged 7 to 11 years) who had major depressive disorder, the safety findings were consistent with the known safety and tolerability profile for escitalopram oral solution.
+In a 24-week, open- label safety study in 118 pediatric patients aged 7 to 11 years who had major depressive disorder, the safety findings were consistent with the known safety and tolerability profile for escitalopram oral solution.
 
 Generalized Anxiety Disorder
 
+The safety and effectiveness of escitalopram oral solution for the treatment of generalized anxiety disorder have been established in pediatric patients 7 years of age and older.
+Use of escitalopram oral solution for this indication is supported by evidence from adequate and well-controlled studies in adults with additional evidence from an 8-week, flexible-dose, placebo-controlled study that compared escitalopram oral solution 10 mg to 20 mg once daily to placebo in pediatric patients 7 to 17 years of age with GAD [see Clinical Studies (14.2)].
+The safety of escitalopram oral solution was similar to adult patients with GAD [see Adverse Reactions (6.1)].
 The safety and effectiveness of escitalopram oral solution for the treatment of generalized anxiety disorder have not been established in pediatric patients younger than 7 years of age.
 
 Antidepressants increase the risk of suicidal thoughts and behaviors in pediatric patients [see Warnings and Precautions (5.1)].
@@ -92,9 +95,6 @@ However, there was no effect on reproductive function.
 Increased motor activity (both ambulatory and fine movements) was observed in females prior to daily dosing at ≥ 40 mg/kg/day (3.5 times the MRHD based on AUC levels).
 A reversible disruption of learning and memory function was observed in males at 80 mg/kg/day with a NOAEL of 40 mg/kg/day, which was associated with an AUC level 3.5 times those measured at the MRHD in pediatrics.
 There was no effect on learning and memory function in treated female rats.
-
-Additional pediatric use information is approved for AbbVie Inc.’s LEXAPRO (escitalopram) oral solution.
-However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 

@@ -2,9 +2,7 @@
 
 How Supplied
 
-Oral Solution
-
-Escitalopram Oral Solution USP 5 mg/5 mL is a clear, colorless peppermint flavored liquid.
+Oral Solution Escitalopram Oral Solution USP 5 mg/5 mL is a clear, colorless peppermint flavored liquid.
 
 240 mL Bottle NDC 16571-769-24
 
