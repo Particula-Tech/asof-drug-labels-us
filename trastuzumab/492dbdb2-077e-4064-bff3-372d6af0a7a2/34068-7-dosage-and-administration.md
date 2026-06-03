@@ -10,10 +10,10 @@ Verify the pregnancy status of females of reproductive potential prior to the in
 ## 2.2 Patient Selection
 
 Select patients based on HER2 protein overexpression or HER2 gene amplification in tumor specimens [see Indications and Usage (1) and Clinical Studies (14)].
-Assessment of HER2 protein overexpression and HER2 gene amplification should be performed using FDA-approved tests specific for breast or gastric cancers by laboratories with demonstrated proficiency.
-Information on the FDA-approved tests for the detection of HER2 protein overexpression and HER2 gene amplification is available at: http://www.fda.gov/CompanionDiagnostics.
+Assessment of HER2 protein overexpression and HER2 gene amplification should be performed using FDA-authorized tests specific for breast or gastric cancers by laboratories with demonstrated proficiency.
+Information on the FDA-authorized tests for the detection of HER2 protein overexpression and HER2 gene amplification is available at: http://www.fda.gov/CompanionDiagnostics.
 
-Assessment of HER2 protein overexpression and HER2 gene amplification in metastatic gastric cancer should be performed using FDA-approved tests specifically for gastric cancers due to differences in gastric vs. breast histopathology, including incomplete membrane staining and more frequent heterogeneous expression of HER2 seen in gastric cancers.
+Assessment of HER2 protein overexpression and HER2 gene amplification in metastatic gastric cancer should be performed using FDA-authorized tests specifically for gastric cancers due to differences in gastric vs. breast histopathology, including incomplete membrane staining and more frequent heterogeneous expression of HER2 seen in gastric cancers.
 
 Improper assay performance, including use of suboptimally fixed tissue, failure to utilize specified reagents, deviation from specific assay instructions, and failure to include appropriate controls for assay validation, can lead to unreliable results.
 

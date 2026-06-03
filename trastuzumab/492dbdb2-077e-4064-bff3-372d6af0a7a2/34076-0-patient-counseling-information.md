@@ -8,6 +8,5 @@ Embryo-Fetal Toxicity
 
 - Advise pregnant women and females of reproductive potential that Herceptin exposure during pregnancy or within 7 months prior to conception can result in fetal harm.
   Advise female patients to contact their healthcare provider with a known or suspected pregnancy [see Use in Specific Populations (8.1)].
-- Advise women who are exposed to Herceptin during pregnancy or who become pregnant within 7 months following the last dose of Herceptin that there is a pregnancy pharmacovigilance program that monitor pregnancy outcomes.
-  Encourage these patients to report their pregnancy to Genentech [see Use in Specific Populations (8.1)].
+- Encourage women who are exposed to Herceptin during pregnancy or who become pregnant within 7 months following the last dose of Herceptin to report their pregnancy to Genentech [see Use in Specific Populations (8.1)].
 - Advise females of reproductive potential to use effective contraception during treatment and for 7 months following the last dose of Herceptin [see Use in Specific Populations (8.3)].

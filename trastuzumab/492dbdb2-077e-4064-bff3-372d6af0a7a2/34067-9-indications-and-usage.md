@@ -8,7 +8,7 @@ Herceptin is indicated in adults for adjuvant treatment of HER2 overexpressing n
 - as part of a treatment regimen with docetaxel and carboplatin
 - as a single agent following multi-modality anthracycline based therapy.
 
-Select patients for therapy based on an FDA-approved companion diagnostic for Herceptin [see Dosage and Administration (2.2)].
+Select patients for therapy based on an FDA-authorized companion diagnostic for Herceptin [see Dosage and Administration (2.2)].
 
 ## 1.2 Metastatic Breast Cancer
 
@@ -17,10 +17,10 @@ Herceptin is indicated in adults:
 - In combination with paclitaxel for first-line treatment of HER2-overexpressing metastatic breast cancer
 - As a single agent for treatment of HER2-overexpressing breast cancer in patients who have received one or more chemotherapy regimens for metastatic disease.
 
-Select patients for therapy based on an FDA-approved companion diagnostic for Herceptin [see Dosage and Administration (2.2)].
+Select patients for therapy based on an FDA-authorized companion diagnostic for Herceptin [see Dosage and Administration (2.2)].
 
 ## 1.3 Metastatic Gastric Cancer
 
 Herceptin is indicated in adults, in combination with cisplatin and capecitabine or 5-fluorouracil, for the treatment of patients with HER2-overexpressing metastatic gastric or gastroesophageal junction adenocarcinoma who have not received prior treatment for metastatic disease.
 
-Select patients for therapy based on an FDA-approved companion diagnostic for Herceptin [see Dosage and Administration (2.2)].
+Select patients for therapy based on an FDA-authorized companion diagnostic for Herceptin [see Dosage and Administration (2.2)].
