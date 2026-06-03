@@ -9,7 +9,7 @@ There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 
 What is Fosaprepitant for Injection?
-Fosaprepitant for Injection is a prescription medicine used with other medicines that treat nausea and vomiting in patients 18 years of age and older to prevent nausea and vomiting caused by certain anti-cancer (chemotherapy) medicines.
+Fosaprepitant for Injection is a prescription medicine used with other medicines that treat nausea and vomiting in patients 6 months of age and older to prevent nausea and vomiting caused by certain anti-cancer (chemotherapy) medicines.
 
 - •Fosaprepitant for Injection is not used to treat nausea and vomiting that you already have.
 - •It is not known if Fosaprepitant for Injection is safe and effective in children less than 6 months of age.
@@ -48,6 +48,16 @@ Adults 18 years of age and older:
 Fosaprepitant for Injection will be given on Day 1 of chemotherapy treatment.
 It will be given to you by intravenous (IV) infusion in your vein about 50 to 60 minutes before you start your chemotherapy treatment.
 
+Children 6 months to 17 years of age:
+
+Fosaprepitant for Injection will be given to your child by intravenous (IV) infusion into a large vein through a type of IV line called a central venous catheter, about 1 hour to 1½; hours before the start of their chemotherapy treatment.
+Depending on the chemotherapy treatment, there are 2 ways that Fosaprepitant for Injection may be given:
+
+1. 1.Fosaprepitant for Injection is given on Day 1 only (single day of chemotherapy).
+2. 2.Fosaprepitant for Injection is given on Days 1, 2, and 3 (single or multiple days of chemotherapy).
+3. •Your child may receive capsules of aprepitant or an oral suspension of aprepitant instead of Fosaprepitant for Injection on Days 2 and 3.
+   If your child will receive either of these, see the Patient Information for aprepitant capsules or aprepitant for oral suspension for further information.
+
 If you take the blood thinner medicine warfarin sodium (COUMADIN®, JANTOVEN®), your healthcare provider may do blood tests after you receive Fosaprepitant for Injection to check your blood clotting.
 
 What are the possible side effects of Fosaprepitant for Injection?
@@ -72,6 +82,12 @@ In adults, the most common side effects of Fosaprepitant for Injection include:
 | •low white blood cell and red blood cell counts | •urinary tract infection |
 | •weakness | •pain in your arms and legs |
 
+In children 6 months to 17 years of age, the most common side effects of Fosaprepitant for Injection include:
+
+| •low red blood cell count | •low blood platelet count |
+| --- | --- |
+| •low white blood cell count | •low white blood cell count with a fever |
+
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 These are not all of the possible side effects of Fosaprepitant for Injection.
 For more information ask your healthcare provider or pharmacist.
@@ -91,9 +107,6 @@ Active ingredient: fosaprepitant
 
 Inactive ingredients: edetate disodium, polysorbate 80, lactose anhydrous, sodium hydroxide and/or hydrochloric acid (for pH adjustment)
 
-Pediatric use information is approved for Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.’s Emend (fosaprepitant) for injection.
-However, due to Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 Manufactured for: Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Baxter is a registered trademark of Baxter International Inc.
@@ -102,4 +115,4 @@ Any other trademarks, product names or brand images appearing herein are the pro
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 09/2019
+Revised: 05/2026
