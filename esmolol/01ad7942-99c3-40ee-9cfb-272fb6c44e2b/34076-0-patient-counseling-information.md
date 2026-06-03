@@ -11,4 +11,6 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Bangalore, India
 
-OCTOBER 2023
+50109130
+
+Revised: 3/2026 MI:ESMOSCIJ:R1
