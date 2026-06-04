@@ -1,6 +1,6 @@
 Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761
 
-Dist. by: Sun Pharmaceutical Industries, Inc., Cranbury, NJ 08512
+Dist. by: Sun Pharmaceutical Industries, Inc.,Cranbury, NJ 08512
 
 Revised: November 2025
 
