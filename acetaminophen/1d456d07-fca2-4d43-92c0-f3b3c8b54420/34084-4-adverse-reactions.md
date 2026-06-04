@@ -10,7 +10,7 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed cannot be directly compared to rates in other clinical trials and may not reflect the rates observed in practice.
 
-Adult Population
+### Adult Population
 
 A total of 1020 adult patients have received acetaminophen in clinical trials, including 37.3% (n=380) who received 5 or more doses, and 17.0% (n=173) who received more than 10 doses.
 Most patients were treated with acetaminophen 1000 mg every 6 hours.
@@ -22,16 +22,14 @@ The most common adverse events in adult patients treated with acetaminophen (inc
 Table 4.
 Treatment-Emergent Adverse Reactions Occurring in ≥ 3% of Acetaminophen-treated Adult Patients and at a Greater Frequency than Placebo in Placebo-Controlled, Repeated Dose Studies
 
-| System Organ Class – Preferred Term | Acetaminophen(N=402)n (%) | Placebo(N=379)n (%) |
+| System Organ Class – Preferred Term | Acetaminophen (N=402) n (%) | Placebo (N=379) n (%) |
 | --- | --- | --- |
-| Gastrointestinal Disorders Nausea Vomiting | 138 (34)62 (15) | 119 (31)42 (11) |
-| General Disorders and Administration Site Conditions Pyrexia* | 22 (5) | 52 (14) |
-| Nervous System Disorders Headache | 39 (10) | 33 (9) |
-| Psychiatric Disorders Insomnia | 30 (7) | 21 (5) |
+| Gastrointestinal DisordersNauseaVomiting | 138 (34)62 (15) | 119 (31)42 (11) |
+| General Disorders and Administration Site ConditionsPyrexiaPyrexia adverse reaction frequency data is included in order to alert healthcare practitioners that the antipyretic effects of acetaminophen may mask fever. | 22 (5) | 52 (14) |
+| Nervous System DisordersHeadache | 39 (10) | 33 (9) |
+| Psychiatric DisordersInsomnia | 30 (7) | 21 (5) |
 
-*Pyrexia adverse reaction frequency data is included in order to alert healthcare practitioners that the antipyretic effects of acetaminophen may mask fever.
-
-Other Adverse Reactions Observed During Clinical Studies of Acetaminophen in Adults
+### Other Adverse Reactions Observed During Clinical Studies of Acetaminophen in Adults
 
 The following additional treatment-emergent adverse reactions were reported by adult subjects treated with acetaminophen in all clinical trials (n=1020) that occurred with an incidence of at least 1% and at a frequency greater than placebo (n=525).
 
@@ -51,7 +49,7 @@ Respiratory, thoracic and mediastinal disorders: dyspnea
 
 Vascular disorders: hypertension, hypotension
 
-Pediatric Population
+### Pediatric Population
 
 A total of 483 pediatric patients (72 neonates, 167 infants, 171 children, and 73 adolescents) have received acetaminophen in active-controlled (n=250) and open-label clinical trials (n=225), including 43.9% (n=212) who received 5 or more doses and 31.2% (n=153) who received more than 10 doses.
 Pediatric patients received acetaminophen doses up to 15 mg/kg on an every 4 hours, every 6 hours, or every 8 hours schedule.
@@ -59,7 +57,7 @@ The maximum exposure was 7.7, 6.4, 6.8, and 7.1 days in neonates, infants, child
 
 The most common adverse events (incidence ≥ 5%) in pediatric patients treated with acetaminophen were nausea, vomiting, constipation, and pruritus.
 
-Other Adverse Reactions Observed During Clinical Studies of Acetaminophen in Pediatrics
+### Other Adverse Reactions Observed During Clinical Studies of Acetaminophen in Pediatrics
 
 The following additional treatment-emergent adverse reactions were reported by pediatric subjects treated with acetaminophen (n=483) that occurred with an incidence of at least 1%.
 

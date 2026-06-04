@@ -20,7 +20,7 @@ Dosing for Adults and Adolescents
 | Age group | Dose given every 4 hours | Dose given every 6 hours | Maximum single dose | Maximum total daily dose of acetaminophen (by all routes) |
 | --- | --- | --- | --- | --- |
 | Adults and adolescents (13 years and older) weighing ≥ 50 kg | 650 mg | 1000 mg | 1000 mg | 4000 mg in 24 hours |
-| Adults and adolescents (13 years and older) weighing < 50 kg | 12.5 mg/kg | 15 mg/kg | 15 mg/kg (up to 750 mg) | 75 mg/kg in 24 hours (up to 3750 mg) |
+| Adults and adolescents (13 years and older) weighing < 50 kg | 12.5 mg/kg | 15 mg/kg | 15 mg/kg(up to 750 mg) | 75 mg/kg in 24 hours(up to 3750 mg) |
 
 ## 2.3 Recommended Dosage: Children
 
@@ -31,7 +31,7 @@ Dosing for Children
 
 | Age group | Dose given every 4 hours | Dose given every 6 hours | Maximum single dose | Maximum total daily dose of acetaminophen (by all routes) |
 | --- | --- | --- | --- | --- |
-| Children 2 to 12 years of age | 12.5 mg/kg | 15 mg/kg | 15 mg/kg (up to 750 mg) | 75 mg/kg in 24 hours (up to 3750 mg) |
+| Children 2 to 12 years of age | 12.5 mg/kg | 15 mg/kg | 15 mg/kg(up to 750 mg) | 75 mg/kg in 24 hours(up to 3750 mg) |
 
 ## 2.4 Recommended Dosage for Treatment of Fever in Neonates and Infants
 
@@ -42,7 +42,7 @@ Infants 29 days to 2 years of age: the recommended dosage of acetaminophen injec
 Table 3.
 Dosing for Treatment of Fever in Neonates and Infants
 
-| Age group | Dose given every 6 hours | Maximum total daily dose of acetaminophen (by all routes) |
+| Age group | Dose givenevery 6 hours | Maximum total daily dose of acetaminophen(by all routes) |
 | --- | --- | --- |
 | Neonates (birth to 28 days) | 12.5 mg/kg | 50 mg/kg |
 | Infants (29 days to 2 years) | 15 mg/kg | 60 mg/kg |

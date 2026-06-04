@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
+### Risk Summary
 
 Published epidemiological studies with oral acetaminophen use during pregnancy have not reported a clear association with acetaminophen use and birth defects, miscarriage, or adverse maternal or fetal outcomes [see Data].
 Animal reproduction studies have not been conducted with IV acetaminophen.
@@ -17,9 +17,9 @@ The estimated background risk of major birth defects and miscarriages for the in
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Data
+### Data
 
-Human Data
+#### Human Data
 
 The results from a large population-based prospective cohort, including data from 26,424 women with live born singletons who were exposed to oral acetaminophen during the first trimester, indicate no increased risk for congenital malformations, compared to a control group of unexposed children.
 The rate of congenital malformations (4.3%) was similar to the rate in the general population.
@@ -27,7 +27,7 @@ A population-based, case-control study from the National Birth Defects Preventio
 Other epidemiological data showed similar results.
 However, these studies cannot definitely establish the absence of any risk because of methodological limitations, including recall bias.
 
-Animal Data
+#### Animal Data
 
 Studies in pregnant rats that received oral acetaminophen during organogenesis at doses up to 0.85 times the maximum human daily dose (MHDD = 4 grams/day, based on a body surface area comparison) showed evidence of fetotoxicity (reduced fetal weight and length) and a dose-related increase in bone variations (reduced ossification and rudimentary rib changes).
 Offspring had no evidence of external, visceral, or skeletal malformations.
@@ -41,7 +41,7 @@ Animals in the high dose group had a reduced number of litters per mating pair, 
 
 ## 8.2 Lactation
 
-Risk Summary
+### Risk Summary
 
 There is no information regarding the presence of acetaminophen in human milk, the effects on the breastfed infant, or the effects on milk production.
 However, limited published studies report that acetaminophen passes rapidly into human milk with similar levels in the milk and plasma.
@@ -59,9 +59,9 @@ Additional published animal studies indicate that acetaminophen exposure in uter
 
 ## 8.4 Pediatric Use
 
-Treatment of Acute Pain
+### Treatment of Acute Pain
 
-The safety and effectiveness of acetaminophen for the treatment of acute pain in pediatric patients ages 2 years and older is supported by evidence from adequate and well-controlled studies of acetaminophen in adults and safety and pharmacokinetic data from adult and 483 pediatric patients across all age groups [see Dosage and Administration (2.3)andPharmacokinetics (12.3)].
+The safety and effectiveness of acetaminophen for the treatment of acute pain in pediatric patients ages 2 years and older is supported by evidence from adequate and well-controlled studies of acetaminophen in adults and safety and pharmacokinetic data from adult and 483 pediatric patients across all age groups [see Dosage and Administration (2.3) and Pharmacokinetics (12.3)].
 
 The effectiveness of acetaminophen for the treatment of acute pain in pediatric patients younger than 2 years of age has not been established.
 
@@ -69,7 +69,7 @@ In patients younger than 2 years, efficacy was not demonstrated in a double-blin
 Pediatric patients less than 2 years of age, including neonates from 28 to 40 weeks gestational age at birth, were randomized to receive opioid plus acetaminophen or opioid plus placebo.
 No difference in analgesic effect of intravenous acetaminophen, measured by assessment of reduced need for additional opioid treatment for pain control, was observed.
 
-Treatment of Fever
+### Treatment of Fever
 
 The safety and effectiveness of acetaminophen for the treatment of fever in pediatric patients, including premature neonates born at ≥ 32 weeks gestational age is supported by adequate and well-controlled studies of acetaminophen in adults, clinical studies in 244 pediatric patients 2 years and older, and safety and pharmacokinetic data from 239 patients younger than 2 years including neonates ≥ 32 weeks gestational age.
 

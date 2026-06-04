@@ -1,8 +1,8 @@
 # 11 DESCRIPTION
 
 Acetaminophen is a non-salicylate antipyretic and non-opioid analgesic agent.
-Its chemical name is N-acetyl-p-aminophenol.
 Acetaminophen is a white, crystalline powder.
+Its chemical name is N-acetyl-p-aminophenol.
 Acetaminophen has a molecular weight of 151.16.
 Its structural formula is:
 

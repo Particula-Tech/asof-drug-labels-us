@@ -14,7 +14,7 @@ Clinical studies of both healthy subjects and patients with hemophilia showed no
 
 ## 12.3 Pharmacokinetics
 
-Distribution
+### Distribution
 
 The pharmacokinetics of acetaminophen have been studied in patients and healthy subjects up to 60 years old.
 The pharmacokinetic profile of acetaminophen has been demonstrated to be dose proportional in adults following administration of single doses of 500, 650, and 1000 mg.
@@ -29,7 +29,7 @@ Acetaminophen Pharmacokinetic Parameters
 
 | Subpopulations | Mean (SD) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| AUC0-6h(mcg × h/mL) | Cmax(mcg/mL) | T½(h) | CL(L/h/kg) | Vss(L/kg) |  |
+| AUC0-6h(mcg × h/mL) | Cmax(mcg/mL) | T1/2(h) | CL(L/h/kg) | Vss(L/kg) |  |
 | Children | 38 (8) | 29 (7) | 3.0 (1.5) | 0.34 (0.10) | 1.2 (0.3) |
 | Adolescents | 41 (7) | 31 (9) | 2.9 (0.7) | 0.29 (0.08) | 1.1 (0.3) |
 | Adults | 43 (11) | 28 (21) | 2.4 (0.6) | 0.27 (0.08) | 0.8 (0.2) |
@@ -39,7 +39,7 @@ The concentrations of acetaminophen observed in neonates greater than 32 weeks g
 At therapeutic levels, binding of acetaminophen to plasma proteins is low (ranging from 10% to 25%).
 Acetaminophen appears to be widely distributed throughout most body tissues except fat.
 
-Metabolism and Excretion
+### Metabolism and Excretion
 
 Acetaminophen is primarily metabolized in the liver by first-order kinetics and involves three principal separate pathways: Conjugation with glucuronide, conjugation with sulfate, and oxidation via the cytochrome P450 enzyme pathway, primarily CYP2E1, to form a reactive intermediate metabolite (N-acetyl-p-benzoquinone imine or NAPQI).
 With therapeutic doses, NAPQI undergoes rapid conjugation with glutathione and is then further metabolized to form cysteine and mercapturic acid conjugates.

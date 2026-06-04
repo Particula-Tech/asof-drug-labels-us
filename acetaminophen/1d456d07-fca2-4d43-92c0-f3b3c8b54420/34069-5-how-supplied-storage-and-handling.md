@@ -15,16 +15,12 @@ For single-dose only.
 The product should be used within 6 hours after opening.
 Do not refrigerate or freeze.
 
-Manufactured for:
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
-Mylan Institutional LLC
+Manufactured by: Mylan Laboratories Limited Bangalore, India
 
-Morgantown, WV 26505 U.S.A.
+50109171
 
-Manufactured by:
+Revised: 3/2026
 
-Mylan Laboratories Limited
-
-Bangalore, India
-
-JANUARY 2023
+MI:ACETAMIJ:R1

@@ -2,21 +2,21 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenesis
+### Carcinogenesis
 
 Long-term studies in mice and rats have been completed by the National Toxicology Program to evaluate the carcinogenic potential of acetaminophen.
 In 2-year feeding studies, F344/N rats and B6C3F1 mice were fed a diet containing acetaminophen up to 6000 ppm.
 Female rats demonstrated equivocal evidence of carcinogenic activity based on increased incidences of mononuclear cell leukemia at 0.8 times the maximum human daily dose (MHDD) of 4 grams/day, based on a body surface area comparison.
 In contrast, there was no evidence of carcinogenic activity in male rats (0.7 times) or mice (1.2 to 1.4 times the MHDD, based on a body surface area comparison).
 
-Mutagenesis
+### Mutagenesis
 
 Acetaminophen was not mutagenic in the bacterial reverse mutation assay (Ames test).
 In contrast, acetaminophen tested positive in the in vitro mouse lymphoma assay and the in vitro chromosomal aberration assay using human lymphocytes.
 In the published literature, acetaminophen has been reported to be clastogenic when administered a dose of 1500 mg/kg/day to the rat model (3.6 times the MHDD, based on a body surface area comparison).
 In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8 times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
 
-Impairment of Fertility
+### Impairment of Fertility
 
 In studies conducted by the National Toxicology Program, fertility assessments have been completed in Swiss mice via a continuous breeding study.
 There were no effects on fertility parameters in mice consuming up to 1.7 times the MHDD of acetaminophen, based on a body surface area comparison.
