@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA220137"
+  ],
+  "inn": "tofacitinib",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-841-01",
+    "70069-842-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "tofacitinib",
+      "name": "TOFACITINIB"
+    }
+  ],
+  "setid": "2726c2b0-c763-4635-ac6b-4334c3a5a8bc",
+  "source": "dailymed"
+}
