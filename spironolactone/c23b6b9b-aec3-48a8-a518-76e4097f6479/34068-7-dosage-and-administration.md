@@ -9,7 +9,7 @@ Spironolactone tablets can be taken with or without food, but should be taken co
 In patients with serum potassium ≤5 mEq/L and eGFR >50 mL/min/1.73 m², initiate treatment at 25 mg once daily.
 Patients who tolerate 25 mg once daily may have their dosage increased to 50 mg once daily as clinically indicated.
 Patients who develop hyperkalemia on 25 mg once daily may have their dosage reduced to 25 mg every other day [see Warnings and Precautions (5.1)].
-In patients with an eGFR between 30 and 50 mL/min/1.73 m2, consider initiating therapy at 25 mg every other day because of the risk of hyperkalemia [see Use in Specific Populations (8.6)].
+In patients with an eGFR between 30 and 50 mL/min/1.73 m 2, consider initiating therapy at 25 mg every other day because of the risk of hyperkalemia [see Use in Specific Populations (8.6)].
 
 ## 2.3 Treatment of Essential Hypertension
 

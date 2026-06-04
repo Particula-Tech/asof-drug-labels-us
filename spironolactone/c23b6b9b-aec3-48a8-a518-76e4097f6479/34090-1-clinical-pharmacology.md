@@ -38,22 +38,22 @@ Metabolites can be divided into two main categories: those in which sulfur of th
 In humans, the potencies of TMS and 7-α-thiospirolactone in reversing the effects of the synthetic mineralocorticoid, fludrocortisone, on urinary electrolyte composition were approximately a third relative to spironolactone.
 However, since the serum concentrations of these steroids were not determined, their incomplete absorption and/or first-pass metabolism could not be ruled out as a reason for their reduced in vivo activities.
 
-Excretion: The metabolites are excreted primarily in the urine and secondarily in bile.
+Excretion:The metabolites are excreted primarily in the urine and secondarily in bile.
 
 Specific Populations
 
 The impact of age, sex, race/ethnicity, and renal impairment on the pharmacokinetics of spironolactone have not been specifically studied.
 
-Patients with Hepatic Impairment: The terminal half-life of spironolactone has been reported to be increased in patients with cirrhotic ascites [see Use in Specific Populations (8.7)].
+Patients with Hepatic Impairment:The terminal half-life of spironolactone has been reported to be increased in patients with cirrhotic ascites [see Use in Specific Populations (8.7)].
 
 Drug Interaction Studies:
 
-Drugs and Supplements Increasing Serum Potassium: Concomitant administration of spironolactone tablets with potassium supplementation, salt substitutes containing potassium, a diet rich in potassium, or drugs that can increase potassium, including ACE inhibitors, angiotensin II antagonists, non-steroidal anti-inflammatory drugs (NSAIDs), heparin and low molecular weight heparin, may lead to severe hyperkalemia [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
+Drugs and Supplements Increasing Serum Potassium:Concomitant administration of spironolactone tablets with potassium supplementation, salt substitutes containing potassium, a diet rich in potassium, or drugs that can increase potassium, including ACE inhibitors, angiotensin II antagonists, non-steroidal anti-inflammatory drugs (NSAIDs), heparin and low molecular weight heparin, may lead to severe hyperkalemia [see Warnings and Precautions (5.1)and Drug Interactions (7.1)].
 
-Lithium: Spironolactone tablets reduces the renal clearance of lithium, inducing a high risk of lithium toxicity [see Drug Interactions (7.2)].
+Lithium:Spironolactone tablets reduces the renal clearance of lithium, inducing a high risk of lithium toxicity [see Drug Interactions (7.2)].
 
-Nonsteroidal Anti-Inflammatory Drugs (NSAIDs): In some patients, the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effect of loop, potassium-sparing, and thiazide diuretics [see Drug Interactions (7.3)].
+Nonsteroidal Anti-Inflammatory Drugs (NSAIDs):In some patients, the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effect of loop, potassium-sparing, and thiazide diuretics [see Drug Interactions (7.3)].
 
-Acetylsalicylic acid: A single dose of 600 mg of acetylsalicylic acid inhibited the natriuretic effect of spironolactone, which was hypothesized be due to inhibition of tubular secretion of canrenone, causing decreased effectiveness of spironolactone [see Drug Interactions (7.6)].
+Acetylsalicylic acid:A single dose of 600 mg of acetylsalicylic acid inhibited the natriuretic effect of spironolactone, which was hypothesized be due to inhibition of tubular secretion of canrenone, causing decreased effectiveness of spironolactone [see Drug Interactions (7.6)].
 
-Mitotane: The effect of concomitant spironolactone on the pharmacokinetics of mitotane has not been studied; however, patients exhibited significantly lower mitotane levels compared to those who did not receive concomitant spironolactone despite receiving higher mitotane doses [see Drug Interactions (7.8)].
+Mitotane:The effect of concomitant spironolactone on the pharmacokinetics of mitotane has not been studied; however, patients exhibited significantly lower mitotane levels compared to those who did not receive concomitant spironolactone despite receiving higher mitotane doses [see Drug Interactions (7.8)].
