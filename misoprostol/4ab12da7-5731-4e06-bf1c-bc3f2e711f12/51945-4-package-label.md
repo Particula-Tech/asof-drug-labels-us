@@ -1,24 +1,3 @@
-# PRINCIPAL DISPLAY PANEL - 100 mcg Tablet Blister Pack
-
-NDC 0025-1451-34
-
-Cytotec® misoprostol tablets 100 mcg
-
-Distributed by Pfizer Labs Division of Pfizer Inc., NY, NY 10001
-
-EXP.
-YYYY.MM.DD LOT A01234
-
-21542269
-
-# PRINCIPAL DISPLAY PANEL - 100 mcg Tablet Blister Pack Carton
-
-Pfizer
-
-Cytotec® 100 mcg misoprostol tablets
-
-100 Tablets For in-institution use only
-
 # PRINCIPAL DISPLAY PANEL - 100 mcg Tablet Bottle Label
 
 Pfizer
