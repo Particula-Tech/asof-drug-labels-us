@@ -2,5 +2,4 @@
 
 Injection: 100 units/mL (U-100) a clear and colorless solution available as:
 
-- 10 mL multiple-dose vial
-- 3 mL single-patient-use Langlara SoloStar prefilled pen
+- 3 mL single-patient-use LANGLARA prefilled pen

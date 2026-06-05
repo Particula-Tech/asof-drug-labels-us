@@ -1,9 +1,8 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Never Share a Langlara SoloStar Prefilled Pen, Insulin Syringe, or Needle Between Patients
+## 5.1 Never Share a LANGLARA Prefilled Pen or Needle Between Patients
 
-Langlara SoloStar prefilled pens must never be shared between patients, even if the needle is changed.
-Patients using Langlara vials must never re-use or share needles or syringes with another person.
+LANGLARA prefilled pens must never be shared between patients, even if the needle is changed.
 Sharing poses a risk for transmission of blood-borne pathogens.
 
 ## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
@@ -17,19 +16,19 @@ For patients with type 2 diabetes, dosage adjustments of concomitant oral and an
 
 ## 5.3 Hypoglycemia
 
-Hypoglycemia is the most common adverse reaction associated with insulins, including Langlara.
+Hypoglycemia is the most common adverse reaction associated with insulins, including insulin glargine products.
 Severe hypoglycemia can cause seizures, may be life-threatening or cause death.
 Hypoglycemia can impair concentration ability and reaction time; this may place the patient and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
 
 Hypoglycemia can happen suddenly, and symptoms may differ in each patient and change over time in the same patient.
 Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes, in patients with diabetic neuropathy, using drugs that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7)], or who experience recurrent hypoglycemia.
 
-The long-acting effect of Langlara may delay recovery from hypoglycemia.
+The long-acting effect of insulin glargine products may delay recovery from hypoglycemia.
 
 Risk Factors for Hypoglycemia
 
 The risk of hypoglycemia after an injection is related to the duration of action of the insulin and, in general, is highest when the glucose lowering effect of the insulin is maximal.
-As with all insulins, the glucose lowering effect time course of Langlara may vary in different patients or at different times in the same patient and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
+As with all insulins, the glucose lowering effect time course of insulin glargine products may vary in different patients or at different times in the same patient and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
 Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to concomitant drugs [see Drug Interactions (7)].
 Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
 
@@ -42,17 +41,17 @@ In patients at higher risk for hypoglycemia and patients who have reduced sympto
 ## 5.4 Hypoglycemia Due to Medication Errors
 
 Accidental mix-ups among insulin products have been reported.
-To avoid medication errors between Langlara and other insulins, instruct patients to always check the insulin label before each injection [see Adverse Reactions (6.3)].
+To avoid medication errors between LANGLARA and other insulins, instruct patients to always check the insulin label before each injection [see Adverse Reactions (6.3)].
 
 ## 5.5 Hypersensitivity Reactions
 
-Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulins, including Langlara [see Adverse Reactions (6.1)].
-If hypersensitivity reactions occur, discontinue Langlara; treat per standard of care and monitor until symptoms and signs resolve.
-Langlara is contraindicated in patients who have had hypersensitivity reactions to insulin glargine or one of the excipients.
+Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulins, including insulin glargine products [see Adverse Reactions (6.1)].
+If hypersensitivity reactions occur, discontinue LANGLARA; treat per standard of care and monitor until symptoms and signs resolve.
+LANGLARA is contraindicated in patients who have had hypersensitivity reactions to insulin glargine products or one of the excipients.
 
 ## 5.6 Hypokalemia
 
-All insulins, including Langlara, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
+All insulins, including insulin glargine products, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
 Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
 Monitor potassium levels in patients at risk for hypokalemia, if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations).
 
@@ -60,5 +59,5 @@ Monitor potassium levels in patients at risk for hypokalemia, if indicated (e.g.
 
 Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, when used in combination with insulin.
 Fluid retention may lead to or exacerbate heart failure.
-Patients treated with insulin, including Langlara, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
+Patients treated with insulin, including LANGLARA, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
 If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.

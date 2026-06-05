@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Langlara is contraindicated:
+LANGLARA is contraindicated:
 
 - During episodes of hypoglycemia [see Warnings and Precautions (5.3)]
-- In patients with hypersensitivity to insulin glargine or any of the excipients in Langlara [see Warnings and Precautions (5.5)]
+- In patients with hypersensitivity to any insulin glargine product or any of the inactive ingredients of LANGLARA [see Warnings and Precautions (5.5)]

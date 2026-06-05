@@ -12,38 +12,42 @@ The following adverse reactions are discussed elsewhere:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trial of another drug and may not reflect the rates observed in practice.
 
-The data in Table 1 reflect the exposure of 2,327 patients with type 1 diabetes to Langlara or NPH in Studies A, B, C, and D [see Clinical Studies (14.2)].
+The data in Table 1 reflect the exposure of 2,327 patients with type 1 diabetes to insulin glargine or NPH in Studies A, B, C, and D [see Clinical Studies (14.2)].
 The type 1 diabetes population had the following characteristics: the mean age was 39 years, 54% were male, and mean body mass index (BMI) was 25.1 kg/m 2.
 Ninety-seven percent were White, 2% were Black or African American and less than 1% were Asian.
 Approximately 3% of the patients in studies B and C were Hispanic.
 
-The data in Table 2 reflect the exposure of 1,563 patients with type 2 diabetes to Langlara or NPH in Studies E, F, and G [see Clinical Studies (14.3)].
+The data in Table 2 reflect the exposure of 1,563 patients with type 2 diabetes to insulin glargine or NPH in Studies E, F, and G [see Clinical Studies (14.3)].
 The type 2 diabetes population had the following characteristics: the mean age was 59 years, 58% were male, and mean BMI was 29.2 kg/m 2.
 Eighty-seven percent were White, 8% were Black or African American and 3% were Asian.
 Approximately 9% of patients in Study F were Hispanic.
 
-The frequencies of adverse reactions during Langlara clinical studies in patients with type 1 diabetes mellitus and type 2 diabetes mellitus are listed in the tables below (Tables 1, 2, 3, and 4).
+The frequencies of adverse reactions during insulin glargine clinical studies in patients with type 1 diabetes mellitus and type 2 diabetes mellitus are listed in the tables below (Tables 1, 2, 3, and 4).
 
 Table 1: Adverse Reactions Occurring ≥5% in Pooled Clinical Studies up to 28 Weeks Duration in Adults with Type 1 Diabetes
 
-|  | Langlara, % (n=1,257) | NPH, % (n=1,070) |
+|  | Insulin Glargine, %(n=1,257) | NPH, %(n=1,070) |
 | --- | --- | --- |
 | Upper respiratory tract infection | 22.4 | 23.1 |
-| Infection Body system not specified | 9.4 | 10.3 |
+| Infection* | 9.4 | 10.3 |
 | Accidental injury | 5.7 | 6.4 |
 | Headache | 5.5 | 4.7 |
 
+*Body system not specified.
+
 Table 2: Adverse Reactions Occurring ≥5% in Pooled Clinical Studies up to 1 Year Duration in Adults with Type 2 Diabetes
 
-|  | Langlara, % (n=849) | NPH, % (n=714) |
+|  | Insulin Glargine, %(n=849) | NPH, %(n=714) |
 | --- | --- | --- |
 | Upper respiratory tract infection | 11.4 | 13.3 |
-| Infection Body system not specified | 10.4 | 11.6 |
+| Infection* | 10.4 | 11.6 |
 | Retinal vascular disorder | 5.8 | 7.4 |
+
+*Body system not specified.
 
 Table 3: Adverse Reactions Occurring ≥10% in a 5-Year Study of Adults with Type 2 Diabetes
 
-|  | Langlara, % (n=514) | NPH, % (n=503) |
+|  | Insulin Glargine, %(n=514) | NPH, %(n=503) |
 | --- | --- | --- |
 | Upper respiratory tract infection | 29.0 | 33.6 |
 | Edema peripheral | 20.0 | 22.7 |
@@ -63,52 +67,54 @@ Table 3: Adverse Reactions Occurring ≥10% in a 5-Year Study of Adults with Typ
 
 Table 4: Adverse Reactions Occurring ≥5% in a 28-Week Clinical Study in Pediatric Patients with Type 1 Diabetes
 
-|  | Langlara, % (n=174) | NPH, % (n=175) |
+|  | Insulin Glargine, %(n=174) | NPH, %(n=175) |
 | --- | --- | --- |
-| Infection Body system not specified | 13.8 | 17.7 |
+| Infection* | 13.8 | 17.7 |
 | Upper respiratory tract infection | 13.8 | 16.0 |
 | Pharyngitis | 7.5 | 8.6 |
 | Rhinitis | 5.2 | 5.1 |
 
+*Body system not specified.
+
 Severe Hypoglycemia
 
-Hypoglycemia was the most commonly observed adverse reaction in patients treated with Langlara.
-Tables 5, 6, and 7 summarize the incidence of severe hypoglycemia in the Langlara clinical studies.
+Hypoglycemia was the most commonly observed adverse reaction in patients treated with insulin glargine.
+Tables 5, 6, and 7 summarize the incidence of severe hypoglycemia in the insulin glargine clinical studies.
 Severe symptomatic hypoglycemia was defined as an event with symptoms consistent with hypoglycemia requiring the assistance of another person and associated with either a blood glucose below 50 mg/dL (≤56 mg/dL in the 5-year study and ≤36 mg/dL in the ORIGIN study) or prompt recovery after oral carbohydrate, intravenous glucose, or glucagon administration.
 
-Percentages of Langlara-treated adult patients who experienced severe symptomatic hypoglycemia in the Langlara clinical studies [see Clinical Studies (14)] were comparable to percentages of NPH-treated patients for all treatment regimens (see Tables 5and 6).
+Percentages of insulin glargine-treated adult patients who experienced severe symptomatic hypoglycemia in the insulin glargine clinical studies [see Clinical Studies (14)] were comparable to percentages of NPH-treated patients for all treatment regimens (see Tables 5 and 6).
 In the pediatric clinical study, pediatric patients with type 1 diabetes had a higher incidence of severe symptomatic hypoglycemia in the two treatment groups compared to the adult studies with type 1 diabetes.
 
 Table 5: Severe Symptomatic Hypoglycemia in Patients with Type 1 Diabetes
 
-|  | Langlara N=292 | NPH N=293 | Langlara N=264 | NPH N=270 | Langlara N=310 | NPH N=309 | Langlara N=174 | NPH N=175 |
+|  | Study AType 1 DiabetesAdults28 weeksIn combination with regular insulin |  | Study BType 1 DiabetesAdults28 weeksIn combination with regular insulin |  | Study CType 1 DiabetesAdults16 weeksIn combination with insulin lispro |  | Study DType 1 DiabetesPediatrics26 weeksIn combination with regular insulin |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Study A Type 1 Diabetes Adults 28 weeks In combination with regular insulin |  | Study B Type 1 Diabetes Adults 28 weeks In combination with regular insulin |  | Study C Type 1 Diabetes Adults 16 weeks In combination with insulin lispro |  | Study D Type 1 Diabetes Pediatrics 26 weeks In combination with regular insulin |  |
+|  | Insulin Glargine N=292 | NPH N=293 | Insulin Glargine N=264 | NPH N=270 | Insulin GlargineN=310 | NPH N=309 | Insulin Glargine N=174 | NPH N=175 |
 | Percent of patients | 10.6 | 15.0 | 8.7 | 10.4 | 6.5 | 5.2 | 23.0 | 28.6 |
 
 Table 6: Severe Symptomatic Hypoglycemia in Patients with Type 2 Diabetes
 
-|  | Langlara N=289 | NPH N=281 | Langlara N=259 | NPH N=259 | Langlara N=513 | NPH N=504 |
+|  | Study EType 2 DiabetesAdults52 weeksIn combination with oral agents |  | Study FType 2 DiabetesAdults28 weeksIn combination with regular insulin |  | Study GType 2 DiabetesAdults5 yearsIn combination with regular insulin |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Study E Type 2 Diabetes Adults 52 weeks In combination with oral agents |  | Study F Type 2 Diabetes Adults 28 weeks In combination with regular insulin |  | Study G Type 2 Diabetes Adults 5 years In combination with regular insulin |  |
+|  | Insulin Glargine N=289 | NPHN=281 | Insulin GlargineN=259 | NPHN=259 | Insulin GlargineN=513 | NPHN=504 |
 | Percent of patients | 1.7 | 1.1 | 0.4 | 2.3 | 7.8 | 11.9 |
 
 Table 7 displays the proportion of patients who experienced severe symptomatic hypoglycemia in the Langlara and Standard Care groups in the ORIGIN study [see Clinical Studies (14)].
 
 Table 7: Severe Symptomatic Hypoglycemia in the ORIGIN Study
 
-|  | Langlara N=6231 | Standard Care N=6273 |
+|  | ORIGIN StudyMedian duration of follow-up: 6.2 years |  |
 | --- | --- | --- |
-|  | ORIGIN Study Median duration of follow-up: 6.2 years |  |
+|  | Insulin GlargineN=6231 | Standard CareN=6273 |
 | Percent of patients | 5.6 | 1.8 |
 
 Peripheral Edema
 
-Some patients taking Langlara have experienced sodium retention and edema, particularly if previously poor metabolic control was improved by intensified insulin therapy.
+Some patients taking insulin glargine products have experienced sodium retention and edema, particularly if previously poor metabolic control was improved by intensified insulin therapy.
 
 Lipodystrophy
 
-Administration of insulin subcutaneously, including Langlara, has resulted in lipoatrophy (depression in the skin) or lipohypertrophy (enlargement or thickening of tissue) in some patients [see Dosage and Administration (2.2)].
+Administration of insulin subcutaneously, including insulin glargine products, has resulted in lipoatrophy (depression in the skin) or lipohypertrophy (enlargement or thickening of tissue) in some patients [see Dosage and Administration (2.2)].
 
 Insulin Initiation and Intensification of Glucose Control
 
@@ -117,33 +123,36 @@ However, long-term glycemic control decreases the risk of diabetic retinopathy a
 
 Weight Gain
 
-Weight gain has occurred with insulin including Langlara and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.
+Weight gain has occurred with insulin including insulin glargine products and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.
 
 Hypersensitivity Reactions
 
 Local Reactions
 
-Patients taking Langlara experienced injection site reactions, including redness, pain, itching, urticaria, edema, and inflammation.
-In clinical studies in adult patients, there was a higher incidence of injection site pain in Langlara-treated patients (2.7%) compared to NPH insulin-treated patients (0.7%).
+Patients taking insulin glargine experienced injection site reactions, including redness, pain, itching, urticaria, edema, and inflammation.
+In clinical studies in adult patients, there was a higher incidence of injection site pain in insulin glargine-treated patients (2.7%) compared to NPH insulin-treated patients (0.7%).
 The reports of pain at the injection site did not result in discontinuation of therapy.
 
 Systemic Reactions
 
-Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock have occurred with insulin, including Langlara and may be life threatening.
+Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock have occurred with insulin, including insulin glargine products and may be life threatening.
 
 ## 6.2 Immunogenicity
 
-As with all therapeutic proteins, there is potential for immunogenicity.
+As with all therapeutic proteins, there is potential for immunogenicity.The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other insulin glargine products may be misleading.
+
 All insulin products can elicit the formation of insulin antibodies.
 The presence of such insulin antibodies may increase or decrease the efficacy of insulin and may require adjustment of the insulin dose.
-In clinical studies of Langlara, increases in titers of antibodies to insulin were observed in NPH insulin and Langlara treatment groups with similar incidences.
+In clinical studies of insulin glargine, increases in titers of antibodies to insulin were observed in NPH insulin and insulin glargine treatment groups with similar incidences.
 
 ## 6.3 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of Langlara.
+The following adverse reactions have been identified during post approval use of insulin glargine products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Medication errors have been reported in which rapid-acting insulins and other insulins, have been accidentally administered instead of Langlara.
+Medication errors have been reported in which rapid-acting insulins and other insulins, have been accidentally administered instead of insulin glargine products.
 
 Localized cutaneous amyloidosis at the injection site has occurred.
 Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.

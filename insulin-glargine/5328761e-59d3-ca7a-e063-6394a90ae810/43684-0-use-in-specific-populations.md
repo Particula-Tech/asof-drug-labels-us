@@ -44,31 +44,31 @@ Risk Summary
 
 There are either no or only limited data on the presence of insulin glargine in human milk, the effects on breastfed infant, or the effects on milk production.
 Endogenous insulin is present in human milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Langlara, and any potential adverse effects on the breastfed child from Langlara or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for LANGLARA, and any potential adverse effects on the breastfed child from LANGLARA or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Langlara to improve glycemic control in pediatric patients with diabetes mellitus have been established.
-Use of Langlara for this indication is supported by evidence from an adequate and well-controlled study (Study D) in 174 Langlara-treated pediatric patients aged 6 to 15 years with type 1 diabetes mellitus, and from adequate and well-controlled studies of Langlara in adults with diabetes mellitus [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+The safety and effectiveness of LANGLARA to improve glycemic control in pediatric patients with diabetes mellitus have been established.
+Use of LANGLARA for this indication is supported by evidence from an adequate and well-controlled study (Study D) in 174 insulin glarine-treated pediatric patients aged 6 to 15 years with type 1 diabetes mellitus, and from adequate and well-controlled studies of insulin glargine in adults with diabetes mellitus [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
 In the pediatric clinical study, pediatric patients with type 1 diabetes had a higher incidence of severe symptomatic hypoglycemia compared to the adults in studies with type 1 diabetes [see Adverse Reactions (6.1)].
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects in controlled clinical studies of patients with type 1 and type 2 diabetes who were treated with Langlara, 15% (n=316) were ≥65 years of age and 2% (n=42) were ≥75 years of age.
-No overall differences in safety or effectiveness of Langlara have been observed between patients 65 years of age and older and younger adult patients.
+Of the total number of subjects in controlled clinical studies of patients with type 1 and type 2 diabetes who were treated with insulin glargine, 15% (n=316) were ≥65 years of age and 2% (n=42) were ≥75 years of age.
+No overall differences in safety or effectiveness of insulin glargine have been observed between patients 65 years of age and older and younger adult patients.
 
-Nevertheless, caution should be exercised when Langlara is administered to geriatric patients.
+Nevertheless, caution should be exercised when LANGLARA is administered to geriatric patients.
 In geriatric patients with diabetes, the initial dosing, dosage increments, and maintenance dosage should be conservative to avoid hypoglycemic reactions.
 Hypoglycemia may be difficult to recognize in geriatric patients.
 
 ## 8.6 Renal Impairment
 
-The effect of kidney impairment on the pharmacokinetics of Langlara has not been studied.
+The effect of kidney impairment on the pharmacokinetics of insulin glargine products has not been studied.
 Some studies with human insulin have shown increased circulating levels of insulin in patients with kidney failure.
-Frequent glucose monitoring and dosage adjustment may be necessary for Langlara in patients with kidney impairment [see Warnings and Precautions (5.3)].
+Frequent glucose monitoring and dosage adjustment may be necessary for LANGLARA in patients with kidney impairment [see Warnings and Precautions (5.3)].
 
 ## 8.7 Hepatic Impairment
 
-The effect of hepatic impairment on the pharmacokinetics of Langlara has not been studied.
-Frequent glucose monitoring and dosage adjustment may be necessary for Langlara in patients with hepatic impairment [see Warnings and Precautions (5.3)].
+The effect of hepatic impairment on the pharmacokinetics of insulin glargine products has not been studied.
+Frequent glucose monitoring and dosage adjustment may be necessary for LANGLARA in patients with hepatic impairment [see Warnings and Precautions (5.3)].

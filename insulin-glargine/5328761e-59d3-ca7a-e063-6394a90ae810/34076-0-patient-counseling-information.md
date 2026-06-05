@@ -1,12 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
-There are separate Instructions for Use for the Vial and Langlara SoloStar Pen.
 
-Never Share a Langlara SoloStar Prefilled Pen or Insulin Syringe Between Patients
+Never Share a LANGLARA Prefilled Pen or Insulin Syringe Between Patients
 
-Advise patients that they must never share a Langlara SoloStar pen with another person, even if the needle is changed.
-Advise patients using Langlara vials not to re-use or share needles or insulin syringes with another person.
+Advise patients that they must never share a LANGLARA prefilled pen with another person, even if the needle is changed.
 Sharing carries a risk for transmission of blood-borne pathogens [see Warnings and Precautions (5.1)].
 
 Hyperglycemia or Hypoglycemia
@@ -18,11 +16,11 @@ Advise patients who have frequent hypoglycemia or reduced or absent warning sign
 
 Advise patients that changes in insulin regimen can predispose to hyperglycemia or hypoglycemia and that changes in insulin regimen should be made under close medical supervision [see Warnings and Precautions (5.2)].
 
-Hypoglycemia Due to Medications Errors
+Hypoglycemia Due to Medication Errors
 
 Instruct patients to always check the insulin label before each injection to reduce the risk of a medication error [see Warnings and Precautions (5.4)].
 
 Hypersensitivity Reactions
 
-Advise patients that hypersensitivity reactions have occurred with Langlara.
+Advise patients that hypersensitivity reactions have occurred with LANGLARA.
 Inform patients about the symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
