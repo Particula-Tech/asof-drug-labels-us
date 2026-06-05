@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA217298"
+  ],
+  "inn": "tofacitinib",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-121-81"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tofacitinib",
+      "name": "TOFACITINIB"
+    }
+  ],
+  "setid": "327f6b60-1a5d-49e6-acff-18603d0ee9d0",
+  "source": "dailymed"
+}
