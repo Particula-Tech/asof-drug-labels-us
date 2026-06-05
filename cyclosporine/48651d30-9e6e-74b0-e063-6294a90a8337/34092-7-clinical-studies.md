@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of Verkazia for the treatment of VKC was evaluated in two randomized, multi-center, double-masked, vehicle-controlled, clinical trials (VEKTIS Study NCT01751126 and NOVATIVE Study NCT00328653).
+The safety and efficacy of Verkazia for the treatment of VKC was evaluated in two randomized, multi-center, double-masked, vehicle-controlled, clinical trials (VEKTIS Study NCT01751126and NOVATIVE Study NCT00328653). and NOVATIVE Study NCT00328653).
 
 In the VEKTIS study, patients with severe VKC were randomized to four times daily of Verkazia 1 mg/mL or two times daily (BID) of Verkazia 1 mg/mL and vehicle group for the first 4 months (Period 1).
 Similarly, in the NOVATIVE study, patients with moderate to severe VKC were randomized to QID of Verkazia 1 mg/mL or QID of cyclosporine ophthalmic emulsion 0.5 mg/mL and vehicle group for the first 1 month (Period 1).
