@@ -80,11 +80,13 @@ Mean estimated tocilizumab exposure parameters were similar between the two dose
 
 COVID-19 -Intravenous Administration
 
-The pharmacokinetics of tocilizumab in COVID-19 patients was characterized by a population pharmacokinetic analysis of a dataset composed of 380 adult patients treated with tocilizumab 8mg/kg intravenously (IV) in the COVACTA study [see Clinical Studies (14.5)] and another clinical study.
+The pharmacokinetics of tocilizumab in adult COVID-19 patients was characterized by a population pharmacokinetic analysis of a dataset composed of 380 adult patients treated with tocilizumab 8 mg/kg intravenously (IV) in the COVACTA study [see Clinical Studies (14.5)] and another clinical study.
 
-For one dose of 8 mg/kg tocilizumab IV, the estimated median (range) Cmax and Cday28 of tocilizumab were 151 (77.5-319) mcg/mL and 0.229 (0.00119-19.4) mcg/mL, respectively.
+For one dose of 8 mg/kg tocilizumab-IV, the estimated median (range) Cmax and Cday28 of tocilizumab were 151 (77.5-319) mcg/mL and 0.229 (0.00119-19.4) mcg/mL, respectively.
 For two doses of 8 mg/kg tocilizumab IV separated by at least 8 hours, the estimated median (range) Cmax and Cday28 of tocilizumab was 290 (152-604) mcg/mL and 7.04 (0.00474-54.8) mcg/mL, respectively.
-The weight-tiered dosing used in RECOVERY study, 800 mg for patients >90 kg, 600 mg for patients >65 and ≤90 kg, 400 mg for patients >40 and ≤65 kg, and 8mg/kg for patients ≤40 kg, is comparable to 8 mg/kg dosing and is expected to have similar exposure.
+The weight-tiered dosing used in RECOVERY study, 800 mg for patients >90 kg, 600 mg for patients >65 and ≤90 kg, 400 mg for patients >40 and ≤65 kg, and 8 mg/kg for patients ≤40 kg, is comparable to 8 mg/kg dosing and is expected to have similar exposure.
+
+Based on PK-sIL-6R modeling and simulation, the recommended dosing regimen for tocilizumab products is expected to result in comparable plasma exposures of tocilizumab products in pediatric patients aged 2 years and older with COVID-19 as observed in adults with COVID-19 [see Use in Specific Populations (8.4)].
 
 Distribution
 
@@ -97,7 +99,7 @@ In pediatric patients with PJIA, the central volume of distribution was 1.98 L, 
 
 In pediatric patients with SJIA, the central volume of distribution was 1.87 L, the peripheral volume of distribution was 2.14 L resulting in a volume of distribution at steady state of 4.01 L.
 
-In COVID-19 patients treated with one or two infusions of tocilizumab 8 mg/kg intravenously separated by 8 hours, the estimated central volume of distribution was 4.52 L, and the estimated peripheral volume of distribution was 4.23 L, resulting in a volume of distribution of 8.75 L.
+In adult COVID-19 patients treated with one or two infusions of tocilizumab 8 mg/kg intravenously separated by 8 hours, the estimated central volume of distribution was 4.52 L, and the estimated peripheral volume of distribution was 4.23 L, resulting in a volume of distribution of 8.75 L.
 
 Elimination
 
@@ -110,7 +112,7 @@ The pharmacokinetic parameters of tocilizumab do not change with time.
 Population pharmacokinetic analyses in any patient population tested so far indicate no relationship between apparent clearance and the presence of anti-drug antibodies.
 
 The linear clearance in the population pharmacokinetic analysis was estimated to be 12.5 mL per h in RA patients, 6.7 mL per h in GCA patients, 5.8 mL per h in pediatric patients with PJIA, and 5.7 mL per h in pediatric patients with SJIA.
-In COVID-19 patients, serum concentrations were below the limit of quantification after 35 days on average following one infusion of tocilizumab 8 mg/kg intravenously.
+In adult COVID-19 patients, serum concentrations were below the limit of quantification after 35 days on average following one infusion of tocilizumab 8 mg/kg intravenously.
 The average linear clearance in the population pharmacokinetic analysis was estimated to be 17.6 mL per hour in patients with baseline ordinal scale category 3 (OS 3, patients requiring supplemental oxygen), 22.5 mL per hour in patients with baseline OS 4 (patients requiring high-flow oxygen or non-invasive ventilation), 29 mL per hour in patients with baseline OS 5 (patients requiring mechanical ventilation), and 35.4 mL per hour in patients with baseline OS 6 (patients requiring extracorporeal membrane oxygenation (ECMO) or mechanical ventilation and additional organ support).
 
 Due to the dependence of total clearance on tocilizumab serum concentrations, the half-life of tocilizumab is also concentration-dependent and varies depending on the serum concentration level.

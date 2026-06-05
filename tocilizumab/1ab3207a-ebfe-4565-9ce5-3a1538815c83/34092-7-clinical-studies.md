@@ -232,9 +232,20 @@ Health Related Outcomes
 Physical function and disability were assessed using the Childhood Health Assessment Questionnaire Disability Index (CHAQ-DI).
 Seventy-seven percent (58 out of 75) of patients in the tocilizumab treatment group achieved a minimal clinically important improvement in CHAQ-DI (change from baseline of ≥ 0.13 units) at week 12 compared to 19% (7 out of 37) in the placebo treatment group.
 
-## 14.5 COVID-19 - Intravenous Administration
+## 14.5 Cytokine Release Syndrome – Intravenous Administration
 
-The efficacy of tocilizumab for the treatment of COVID-19 was based on RECOVERY (NCT04381936), a randomized, controlled, open-label, platform study, and supported by the results from EMPACTA (NCT04372186), a randomized, double-blind, placebo-controlled study.
+The efficacy of tocilizumab for the treatment of CRS was assessed in a retrospective analysis of pooled outcome data from clinical trials of CAR T-cell therapies for hematological malignancies.
+Evaluable patients had been treated with tocilizumab 8 mg/kg (12 mg/kg for patients < 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CRS; only the first episode of CRS was included in the analysis.
+The study population included 24 males and 21 females (total 45 patients) of median age 12 years (range, 3-23 years); 82% were Caucasian.
+The median time from start of CRS to first dose of tocilizumab was 4 days (range, 0-18 days).
+Resolution of CRS was defined as lack of fever and off vasopressors for at least 24 hours.
+Patients were considered responders if CRS resolved within 14 days of the first dose of tocilizumab, if no more than 2 doses of tocilizumab were needed, and if no drugs other than tocilizumab and corticosteroids were used for treatment.
+Thirty-one patients (69%; 95% CI: 53%-82%) achieved a response.
+Achievement of resolution of CRS within 14 days was confirmed in a second study using an independent cohort that included 15 patients (range: 9-75 years old) with CAR T cell-induced CRS.
+
+## 14.6 COVID-19 - Intravenous Administration
+
+The efficacy of tocilizumab for the treatment of COVID-19 in adults was based on RECOVERY (NCT04381936), a randomized, controlled, open-label, platform study, and supported by the results from EMPACTA (NCT04372186), a randomized, double-blind, placebo-controlled study.
 Results of two other randomized, double-blind, placebo-controlled studies, COVACTA (NCT04320615) and REMDACTA (NCT04409262), which evaluated the efficacy of tocilizumab for the treatment of COVID-19 are also summarized.
 
 RECOVERY (Randomised Evaluation of COVID-19 Therapy) Collaborative Group Study in Hospitalized Adults Diagnosed with COVID-19
@@ -252,7 +263,7 @@ The results for the overall population and the subgroups of patients who were or
 
 Table 9 Mortality through Day 28 in RECOVERY
 
-|  | tocilizumab + SoC N=2022 n (%)P-value reflects that the RECOVERY trial primary analysis results were statistically significant at the two-sided significance level of α = 0.05. | SoC N=2094 n (%) | Hazard Ratio (95% CI) | Risk Difference (95% CI) |
+|  | Tocilizumab + SoC N=2022 n (%)P-value reflects that the RECOVERY trial primary analysis results were statistically significant at the two-sided significance level of α = 0.05. | SoC N=2094 n (%) | Hazard Ratio (95% CI) | Risk Difference (95% CI) |
 | --- | --- | --- | --- | --- |
 | Mortality | 621 (30.7%) | 729 (34.9%) | 0.85 (0.76, 0.94) p= 0.0028 | -4.1% (-7.0, -1.3) |
 | By baseline receipt of corticosteroid use |  |  |  |  |
@@ -286,7 +297,7 @@ Mortality at Day 28 was 19.7% in the tocilizumab arm versus 19.4% in the placebo
 
 REMDACTA
 
-REMDACTA was a randomized, double-blind, placebo-controlled, multicenter study to evaluate intravenous tocilizumab 8 mg/kg in combination with intravenous remdesivir (RDV) 200 mg on Day 1 followed by 100 mg once daily for a total of 10 days in hospitalized patients with severe COVID-19 pneumonia.
+REMDACTA was a randomized, double-blind, placebo-controlled, multicenter study to evaluate intravenous tocilizumab 8 mg/kg in combination with intravenous remdesivir (RDV) 200 mg on Day 1 followed by 100 mg once daily for a total of 10 days in hospitalized adult patients with severe COVID-19 pneumonia.
 The study randomized 649 adult patients with SARS-CoV-2 infection confirmed by a positive polymerase chain reaction (PCR) result, pneumonia confirmed by radiography, and who required supplemental oxygen > 6 L/min to maintain SpO2 >93%.
 At baseline, 7% of patients were on low flow oxygen, 80% were on non-invasive ventilation or high flow oxygen, 14% were on invasive mechanical ventilation, and 84% were on corticosteroids.
 

@@ -5,7 +5,7 @@
 Risk Summary
 
 The available data with tocilizumab products from a pregnancy exposure registry, retrospective cohort study, pharmacovigilance, and published literature are insufficient to draw conclusions about a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
-These studies had methodological limitations, including small sample size of tocilizumab exposed groups, missing exposure and outcomes information, and lack of adjustment for cofounders.
+These studies had methodological limitations, including small sample size of tocilizumab exposed groups, missing exposure and outcomes information, and lack of adjustment for confounders.
 Monoclonal antibodies, such as tocilizumab products, are actively transported across the placenta during the third trimester of pregnancy and may affect immune response in the in utero exposed infant [see Clinical Considerations].
 In animal reproduction studies, intravenous administration of tocilizumab to Cynomolgus monkeys during organogenesis caused abortion/embryo-fetal death at doses 1.25 times and higher than the maximum recommended human dose by the intravenous route of 8 mg per kg every 2 to 4 weeks.
 The literature in animals suggests that inhibition of IL-6 signaling may interfere with cervical ripening and dilatation and myometrial contractile activity leading to potential delays of parturition [see Data].
@@ -49,7 +49,7 @@ No information is available on the presence of tocilizumab products in human mil
 Maternal immunoglobulin G (IgG) is present in human milk.
 If tocilizumab products are transferred into human milk, the effects of local exposure in the gastrointestinal tract and potential limited systemic exposure in the infant to tocilizumab products are unknown.
 
-The lack of clinical data during lactation precludes clear determination of the risk of tocilizumab products to an infant during lactation; therefore the developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for TOFIDENCE and the potential adverse effects on the breastfed child from Tofidence or from the underlying maternal condition.
+The lack of clinical data during lactation precludes clear determination of the risk of tocilizumab products to an infant during lactation; therefore the developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for TOFIDENCE and the potential adverse effects on the breastfed child from TOFIDENCE or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
@@ -57,9 +57,11 @@ TOFIDENCE by intravenous use is indicated for the treatment of pediatric patient
 
 - Active systemic juvenile idiopathic arthritis in patients 2 years of age and older
 - Active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older
+- Severe or life-threatening CAR T cell-induced cytokine release syndrome (CRS) in patients 2 years of age and older.
+- Hospitalized Coronavirus disease 2019 (COVID-19) patients 2 years of age and older who are receiving systemic corticosteroids and require supplemental oxygen, non-invasive or invasive mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).
 
-The safety and effectiveness of TOFIDENCE in pediatric patients with conditions other than PJIA or SJIA have not been established.
-The safety and effectiveness in pediatric patients below the age of 2 have not been established in PJIA or SJIA.
+The safety and effectiveness of TOFIDENCE in pediatric patients with conditions other than PJIA, SJIA, CRS or COVID-19 have not been established.
+The safety and effectiveness in pediatric patients below the age of 2 have not been established in PJIA, SJIA, CRS or COVID-19.
 
 Systemic Juvenile Idiopathic Arthritis – Intravenous Use
 
@@ -78,11 +80,25 @@ Three patients with hypersensitivity reactions (two with serious hypersensitivit
 There were no cases of MAS based on the protocol-specified criteria, but 2 cases of suspected MAS based on Ravelli criteriaRavelli A, Minoia F, Davì S on behalf of the Paediatric Rheumatology International Trials Organisation, the Childhood Arthritis and Rheumatology Research Alliance, the Pediatric Rheumatology Collaborative Study Group, and the Histiocyte Society, et al. 2016 Classification Criteria for Macrophage Activation Syndrome Complicating Systemic Juvenile Idiopathic Arthritis.
 Annals of the Rheumatic Diseases 2016;75:481-489..
 
+Cytokine Release Syndrome – Intravenous Use
+
+In the retrospective analysis of pooled outcome data for patients treated with tocilizumab for CAR T cell-induced CRS, 25 patients were children (2 years up to 12 years of age), and 17 patients were adolescents (12 years up to 18 years of age).
+There were no differences between the pediatric patients and the adults for safety or efficacy.
+
+COVID-19 – Intravenous Use
+
+The safety and effectiveness of TOFIDENCE have been established for the treatment of pediatric patients aged 2 years and older with COVID-19.
+Use of TOFIDENCE in these age groups is supported by evidence from adequate and well-controlled studies of tocilizumab in adults with COVID-19 [see Adverse Reactions (6.5) and Clinical Studies (14.5)], predicted pharmacokinetic data modeling and simulation for pediatric patients aged 2 years and older with COVID-19 [see Clinical Pharmacology (12.3)], safety data from a randomized, double-blind, placebo-controlled study of tocilizumab in pediatric patients aged 2 years and older with systemic juvenile idiopathic arthritis, and additional uncontrolled pharmacovigilance data in pediatric patients aged 2 years and older with COVID-19 who received tocilizumab under Emergency Use Authorization.
+
+The safety and effectiveness of TOFIDENCE has not been established in pediatric COVID-19 patients younger than 2 years of age.
+
 ## 8.5 Geriatric Use
 
 Of the 2644 patients who received tocilizumab in Studies I to V [see Clinical Studies (14)], a total of 435 rheumatoid arthritis patients were 65 years of age and older, including 50 patients 75 years and older.
 The frequency of serious infection among tocilizumab treated subjects 65 years of age and older was higher than those under the age of 65.
 As there is a higher incidence of infections in the elderly population in general, caution should be used when treating the elderly.
+
+Clinical studies that included tocilizumab for CRS did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
 
 In the EMPACTA, COVACTA, and REMDACTA studies, of the 974 COVID-19 patients in the tocilizumab arm, 375 (39%) were 65 years of age or older.
 No overall differences in safety or effectiveness of tocilizumab were observed between patients 65 years of age and older and those under the age of 65 years of age in these studies [see Adverse Reactions (6.5) and Clinical Studies (14.5)].

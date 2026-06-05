@@ -89,7 +89,7 @@ In the all-exposure population, the pattern and incidence of decreases in platel
 Elevated Liver Enzymes
 
 Liver enzyme abnormalities are summarized in Table 1.
-In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of tocilizumab-IV, or reduction in tocilizumab-IV dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.8)].
+In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of tocilizumab-IV, or reduction in tocilizumab-IV dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.9)].
 These elevations were not associated with clinically relevant increases in direct bilirubin, nor were they associated with clinical evidence of hepatitis or hepatic insufficiency [see Warnings and Precautions (5.3, 5.4)].
 
 Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period of Studies I to VFor a description of these studies, see Section 14, Clinical Studies.
@@ -112,9 +112,7 @@ In the all-exposure population, the elevations in ALT and AST remained consisten
 In Study WA25204, of the 1538 patients with moderate to severe RA [see Clinical Studies (14.1)] and treated with tocilizumab, elevations in ALT or AST >3 x ULN occurred in 5.3% and 2.2% patients, respectively.
 One serious event of drug induced hepatitis with hyperbilirubinemia was reported in association with tocilizumab.
 
-Lipids
-
-Elevations in lipid parameters (total cholesterol, LDL, HDL, triglycerides) were first assessed at 6 weeks following initiation of tocilizumab-IV in the controlled 24 week clinical trials.
+Lipids Elevations in lipid parameters (total cholesterol, LDL, HDL, triglycerides) were first assessed at 6 weeks following initiation of tocilizumab-IV in the controlled 24 week clinical trials.
 Increases were observed at this time point and remained stable thereafter.
 Increases in triglycerides to levels above 500 mg per dL were rarely observed.
 Changes in other lipid parameters from baseline to week 24 were evaluated and are summarized below:
@@ -214,7 +212,7 @@ Laboratory Abnormalities
 
 Neutropenia
 
-During routine laboratory monitoring in the tocilizumab-IV all exposure population, a decrease in neutrophil counts below 1 × 109 per L occurred in 3.7% of patients.
+During routine laboratory monitoring in the tocilizumab-IV all exposure population, a decrease in neutrophil counts below 1 x 109 per L occurred in 3.7% of patients.
 
 There was no clear relationship between decreases in neutrophils below 1 x 109 per L and the occurrence of serious infections.
 
@@ -281,7 +279,7 @@ Laboratory Abnormalities
 
 Neutropenia
 
-During routine monitoring in the 12 week controlled phase, a decrease in neutrophil below 1 × 109 per L occurred in 7% of patients in the tocilizumab-IV group, and in no patients in the placebo group.
+During routine monitoring in the 12 week controlled phase, a decrease in neutrophil below 1 x 109 per L occurred in 7% of patients in the tocilizumab-IV group, and in no patients in the placebo group.
 In the open label extension over an average duration of 73 weeks of treatment, a decreased neutrophil count occurred in 17% of the tocilizumab-IV group.
 There was no clear relationship between decrease in neutrophils below 1 x 109 per L and the occurrence of serious infections.
 
@@ -304,16 +302,22 @@ Elevation in LDL greater than 1.5x ULN – 2x ULN occurred in 1.9% of patients i
 
 In the open label extension study over an average duration of 73 weeks of treatment, the pattern and incidence of elevations in lipid parameters remained consistent with the 12 week controlled study data.
 
-## 6.5 Clinical Trials Experience in COVID-19 Patients Treated with Intravenous Tocilizumab (Tocilizumab-IV)
+## 6.5 Clinical Trials Experience in Patients with Cytokine Release Syndrome Treated with Intravenous Tocilizumab (Tocilizumab-IV)
 
-The safety of tocilizumab in hospitalized COVID-19 patients was evaluated in a pooled safety population that includes patients enrolled in EMPACTA, COVACTA, AND REMDACTA.
+In a retrospective analysis of pooled outcome data from multiple clinical trials 45 patients were treated with tocilizumab 8 mg/kg (12 mg/kg for patients less than 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CAR T-cell-induced CRS.
+A median of 1 dose of tocilizumab (range, 1-4 doses) was administered.
+No adverse reactions related to tocilizumab were reported [see Clinical Studies (14.6)].
+
+## 6.6 Clinical Trials Experience in COVID-19 Patients Treated with Intravenous Tocilizumab (Tocilizumab-IV)
+
+The safety of tocilizumab in hospitalized adult COVID-19 patients was evaluated in a pooled safety population that includes patients enrolled in EMPACTA, COVACTA, AND REMDACTA.
 The analysis of adverse reactions included a total of 974 patients exposed to tocilizumab.
 Patients received a single, 60-minute infusion of intravenous tocilizumab 8 mg/kg (maximum dose of 800 mg).
-If clinical signs or symptoms worsened or did not improve, one additional dose of tocilizumab 8 mg/kg could be administered between 8- 24 hours after the initial dose.
+If clinical signs or symptoms worsened or did not improve, one additional dose of tocilizumab 8 mg/kg could be administered between 8-24 hours after the initial dose.
 
 Adverse reactions summarized in Table 3 occurred in at least 3% of tocilizumab -treated patients and more commonly than in patients on placebo in the pooled safety population.
 
-Table 3 Adverse ReactionsPatients are counted once for each category regardless of the number of reactions Identified From the Pooled COVID-19 Safety Population
+Table 3 Adverse ReactionsPatients are counted once for each category regardless of the number of reactions Identified From the Pooled COVID-19 Adult Safety Population
 
 |  | N = 974 (%) | N = 483 (%) |
 | --- | --- | --- |
@@ -332,11 +336,11 @@ In the pooled safety population, the rates of infection/serious infection events
 
 Laboratory Abnormalities
 
-In the pooled safety population of EMPACTA, COVACTA, and REMDACTA, neutrophil counts <1000 cells/mcl occurred in 3.4% of patients who received tocilizumab and 0.5% of patients who received placebo.
+In the pooled adult safety population of EMPACTA, COVACTA, and REMDACTA, neutrophil counts <1000 cells/mcl occurred in 3.4% of patients who received tocilizumab and 0.5% of patients who received placebo.
 Platelet counts <50,000 cells/mcl occurred in 3.2% of patients who received tocilizumab and 1.5% of patients who received placebo.
 ALT or AST at or above 5x ULN occurred in 11.7% of patients who received tocilizumab and 9.9% of patients who received placebo.
 
-## 6.6 Postmarketing Experience
+## 6.7 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of tocilizumab products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -344,3 +348,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Hypersensitivity Reactions: Fatal anaphylaxis, Stevens-Johnson Syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.6)]
 - Pancreatitis
 - Drug-induced liver injury, Hepatitis, Hepatic failure, Jaundice [see Warnings and Precautions (5.3)]
+- Hypofibrinogenemia

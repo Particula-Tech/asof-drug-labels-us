@@ -12,6 +12,8 @@ Baseline Laboratory Evaluation Prior to Treatment
 Obtain and assess baseline complete blood count (CBC) and liver function tests prior to treatment.
 
 - RA, GCA, PJIA and SJIA – It is recommended that TOFIDENCE not be initiated in patients with an absolute neutrophil count (ANC) below 2000 per mm3, platelet count below 100,000 per mm3, or ALT or AST above 1.5 times the upper limit of normal (ULN) [see Warnings and Precautions (5.3, 5.4)].
+- CRS – Patients with severe or life-threatening CRS frequently have cytopenias or elevated ALT or AST due to the lymphodepleting chemotherapy or the CRS.
+  The decision to administer TOFIDENCE should take into account the potential benefit of treating the CRS versus the risks of short-term treatment with TOFIDENCE.
 - COVID-19 - It is recommended that TOFIDENCE not be initiated in patients with an absolute neutrophil count (ANC) below 1000 per mm3, platelet count below 50,000 mm3, or ALT or AST above 10 times ULN [see Warnings and Precautions (5.3, 5.4)].
 
 ## 2.2 Recommended Dosage for Rheumatoid Arthritis
@@ -22,12 +24,12 @@ Recommended Intravenous Dosage Regimen:
 
 The recommended dosage of TOFIDENCE for adult patients given as a 60-minute single intravenous drip infusion is 4 mg per kg every 4 weeks followed by an increase to 8 mg per kg every 4 weeks based on clinical response.
 
-- Reduction of dose from 8 mg per kg to 4 mg per kg is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.8), Warnings and Precautions (5.3, 5.4), and Adverse Reactions (6.1)].
+- Reduction of dose from 8 mg per kg to 4 mg per kg is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.9), Warnings and Precautions (5.3, 5.4), and Adverse Reactions (6.1)].
 - Doses exceeding 800 mg per infusion are not recommended in RA patients [see Clinical Pharmacology (12.3)].
 
 When transitioning from intravenous therapy with TOFIDENCE to subcutaneous therapy with another tocilizumab product, administer the first subcutaneous dose instead of the next scheduled intravenous dose.
 
-Interruption of dose is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.8) and Warnings and Precautions (5.3, 5.4)].
+Interruption of dose is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.9) and Warnings and Precautions (5.3, 5.4)].
 
 ## 2.3 Recommended Dosage for Giant Cell Arteritis
 
@@ -37,7 +39,7 @@ The recommended dosage of TOFIDENCE for adult patients given as a 60-minute sing
 
 TOFIDENCE can be used alone following discontinuation of glucocorticoids.
 
-- Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.8)].
+- Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.9)].
 - Doses exceeding 600 mg per infusion are not recommended in GCA patients [see Clinical Pharmacology (12.3)].
 
 When transitioning from intravenous therapy with TOFIDENCE to subcutaneous therapy with another tocilizumab product, administer the first subcutaneous dose instead of the next scheduled intravenous dose.
@@ -58,7 +60,7 @@ The recommended dosage of TOFIDENCE for PJIA patients given once every 4 weeks a
 
 When transitioning from intravenous therapy with TOFIDENCE to subcutaneous therapy with another tocilizumab product, administer the first subcutaneous dose instead of the next scheduled intravenous dose.
 
-Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.8)].
+Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.9)].
 
 ## 2.5 Recommended Dosage for Systemic Juvenile Idiopathic Arthritis
 
@@ -76,18 +78,39 @@ The recommended dose of TOFIDENCE for SJIA patients given once every 2 weeks as 
 
 When transitioning from intravenous therapy with TOFIDENCE to subcutaneous therapy with another tocilizumab product, administer the first subcutaneous dose instead of the next scheduled intravenous dose.
 
-Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.8)].
+Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.9)].
 
-## 2.6 Coronavirus Disease 2019 (COVID-19)
+## 2.6 Recommended Dosage for Cytokine Release Syndrome (CRS)
+
+Use only the intravenous route for treatment of CRS.
+The recommended dose of TOFIDENCE for treatment of CRS given as a 60-minute intravenous infusion is:
+
+| Recommended Intravenous CRS Dosage |  |
+| --- | --- |
+| Patients less than 30 kg weight | 12 mg per kg |
+| Patients at or above 30 kg weight | 8 mg per kg |
+| Alone or in combination with corticosteroids |  |
+
+- If no clinical improvement in the signs and symptoms of CRS occurs after the first dose, up to 3 additional doses of TOFIDENCE may be administered.
+  The interval between consecutive doses should be at least 8 hours.
+- Doses exceeding 800 mg per infusion are not recommended in CRS patients.
+
+## 2.7 Recommended Dosage for Coronavirus Disease 2019 (COVID-19)
 
 Administer TOFIDENCE by intravenous infusion only.
 
-The recommended dosage of TOFIDENCE for treatment of adult patients with COVID-19 is 8 mg per kg administered as a single 60-minute intravenous infusion.
+The recommended dosage of TOFIDENCE for treatment of patients with COVID-19 given as a single 60-minute intravenous infusion is:
+
+| Recommended Intravenous COVID-19 Dosage |  |
+| --- | --- |
+| Patients less than 30 kg weight | 12 mg per kg |
+| Patients at or above 30 kg weight | 8 mg per kg |
+
 If clinical signs or symptoms worsen or do not improve after the first dose, one additional infusion of TOFIDENCE may be administered at least 8 hours after the initial infusion.
 
 - Doses exceeding 800 mg per infusion are not recommended in patients with COVID-19.
 
-## 2.7 Preparation and Administration Instructions for Intravenous Infusion
+## 2.8 Preparation and Administration Instructions for Intravenous Infusion
 
 TOFIDENCE for intravenous infusion should be diluted by a healthcare professional using aseptic technique as follows:
 
@@ -95,16 +118,16 @@ TOFIDENCE for intravenous infusion should be diluted by a healthcare professiona
 - Patients less than 30 kg: use a 50 mL infusion bag or bottle of 0.9% Sodium Chloride Injection, USP, and then follow steps 1 and 2 below.
 - Patients at or above 30 kg weight: use a 100 mL infusion bag or bottle, and then follow steps 1 and 2 below.
 - Step 1.
-  Withdraw a volume of 0.9% Sodium Chloride Injection, USP, equal to the volume of the TOFIDENCE injection required for the patient’s dose from the infusion bag or bottle [see Dosage and Administration (2.2, 2.4, 2.5)].
+  Withdraw a volume of 0.9% Sodium Chloride Injection, USP, equal to the volume of the TOFIDENCE injection required for the patient’s dose from the infusion bag or bottle [see Dosage and Administration (2.2, 2.4, 2.5, 2.6)].
 
 | For Intravenous Use: Volume of TOFIDENCE Injection per kg of Body Weight |  |  |
 | --- | --- | --- |
 | Dosage | Indication | Volume of TOFIDENCE injection per kg of body weight |
 | 4 mg/kg | Adult RA | 0.2 mL/kg |
 | 6 mg/kg | Adult GCA | 0.3 mL/kg |
-| 8 mg/kg | Adult RA Adult COVID-19 SJIA and PJIA (greater than or equal to 30 kg of body weight) | 0.4 mL/kg |
+| 8 mg/kg | Adult RA SJIA, PJIA, CRS and COVID-19 (greater than or equal to 30 kg of body weight) | 0.4 mL/kg |
 | 10 mg/kg | PJIA (less than 30 kg of body weight) | 0.5 mL/kg |
-| 12 mg/kg | SJIA (less than 30 kg of body weight) | 0.6 mL/kg |
+| 12 mg/kg | SJIA, CRS and COVID-19 (less than 30 kg of body weight) | 0.6 mL/kg |
 
 - Step 2.
   Withdraw the amount of TOFIDENCE for intravenous infusion from the vial(s) and add slowly into the 0.9% Sodium Chloride Injection, USP infusion bag or bottle.
@@ -120,7 +143,7 @@ TOFIDENCE for intravenous infusion should be diluted by a healthcare professiona
   If particulates and discolorations are noted, the product should not be used.
 - Fully diluted TOFIDENCE solutions are compatible with infusion bags and/or infusion sets with the following materials: polypropylene, polyethylene, polyolefin, polyvinyl chloride, polyethersulfone, polyurethane, nylon and stainless steel.
 
-## 2.8 Dosage Modifications due to Serious Infections or Laboratory Abnormalities
+## 2.9 Dosage Modifications due to Serious Infections or Laboratory Abnormalities
 
 Serious Infections
 

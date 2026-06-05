@@ -65,12 +65,13 @@ Increased frequency and magnitude of these elevations was observed when potentia
 For RA and GCA patients, obtain a liver test panel (serum alanine aminotransferase [ALT], aspartate aminotransferase [AST], alkaline phosphatase, and total bilirubin) before initiating TOFIDENCE, every 4 to 8 weeks after start of therapy for the first 6 months of treatment and every 3 months thereafter.
 It is not recommended to initiate TOFIDENCE treatment in RA or GCA patients with elevated transaminases ALT or AST greater than 1.5x ULN.
 In patients who develop elevated ALT or AST greater than 5x ULN, discontinue TOFIDENCE.
-For recommended modifications based upon increase in transaminases [see Dosage and Administration (2.8)].
+For recommended modifications based upon increase in transaminases [see Dosage and Administration (2.9)].
 
 Patients hospitalized with COVID-19 may have elevated ALT or AST levels.
 Multi-organ failure with involvement of the liver is recognized as a complication of severe COVID-19.
 The decision to administer TOFIDENCE should balance the potential benefit of treating COVID-19 against the potential risks of acute treatment with TOFIDENCE.
 It is not recommended to initiate TOFIDENCE treatment in COVID-19 patients with elevated ALT or AST above 10 x ULN.
+
 Monitor ALT and AST during treatment.
 Measure liver tests promptly in patients who report symptoms that may indicate liver injury, such as fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
 In this clinical context, if the patient is found to have abnormal liver tests (e.g., ALT greater than three times the upper limit of the reference range, serum total bilirubin greater than two times the upper limit of the reference range), TOFIDENCE treatment should be interrupted and investigation done to establish the probable cause.
@@ -92,7 +93,7 @@ Infections have been uncommonly reported in association with treatment-related n
 In patients who develop an absolute neutrophil count less than 500 per mm3 treatment is not recommended.
 
 – Monitor neutrophils 4 to 8 weeks after start of therapy and every 3 months thereafter [see Clinical Pharmacology (12.2)].
-For recommended modifications based on ANC results see Dosage and Administration (2.8).
+For recommended modifications based on ANC results [see Dosage and Administration (2.9)].
 
 – It is not recommended to initiate TOFIDENCE treatment in COVID-19 patients with an ANC less than 1000 per mm3.
 Neutrophils should be monitored.
@@ -106,7 +107,7 @@ Treatment-related reduction in platelets was not associated with serious bleedin
 In patients who develop a platelet count less than 50,000 per mm3 treatment is not recommended.
 
 – Monitor platelets 4 to 8 weeks after start of therapy and every 3 months thereafter.
-For recommended modifications based on platelet counts see Dosage and Administration (2.8).
+For recommended modifications based on platelet counts [see Dosage and Administration (2.9)].
 
 – In COVID-19 patients with a platelet count less than 50,000 per mm3, treatment is not recommended.
 Platelets should be monitored.
@@ -114,7 +115,7 @@ Platelets should be monitored.
 Elevated Liver Enzymes
 
 Refer to 5.3 Hepatotoxicity.
-For recommended modifications see Dosage and Administration (2.8).
+For recommended modifications [see Dosage and Administration (2.9)].
 
 Lipid Abnormalities
 
@@ -128,7 +129,7 @@ Patients with Polyarticular and Systemic Juvenile Idiopathic Arthritis
 
 A similar pattern of liver enzyme elevation, low neutrophil count, low platelet count and lipid elevations is noted with tocilizumab products treatment in the PJIA and SJIA populations.
 Monitor neutrophils, platelets, ALT and AST at the time of the second administration and thereafter every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA.
-Monitor lipids as above for approved adult indications [see Dosage and Administration (2.8)].
+Monitor lipids as above for approved adult indications [see Dosage and Administration (2.9)].
 
 ## 5.5 Immunosuppression
 
@@ -145,7 +146,7 @@ Reactions that required treatment discontinuation included generalized erythema,
 
 In the postmarketing setting, events of hypersensitivity reactions, including anaphylaxis and death have occurred in patients treated with a range of doses of intravenous tocilizumab products, with or without concomitant therapies.
 Events have occurred in patients who received premedication.
-Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of tocilizumab products [see Adverse Reactions (6.6)].
+Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of tocilizumab products [see Adverse Reactions (6.7)].
 In addition, serious cutaneous reactions, including Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have been reported in patients with autoinflammatory conditions treated with tocilizumab products.
 
 TOFIDENCE for intravenous use should only be infused by a healthcare professional with appropriate medical support to manage anaphylaxis.
