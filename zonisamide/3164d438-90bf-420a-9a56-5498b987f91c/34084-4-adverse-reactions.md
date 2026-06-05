@@ -5,7 +5,7 @@ The most common adverse reactions with zonisamide (an incidence at least 4% grea
 In controlled clinical trials, 12% of patients receiving zonisamide as adjunctive therapy discontinued due to an adverse reaction compared to 6% receiving placebo.
 Approximately 21% of the 1,336 patients with epilepsy who received zonisamide in clinical studies discontinued treatment because of an adverse reaction.
 The most common adverse reactions leading to discontinuation were somnolence, fatigue and/or ataxia (6%), anorexia (3%), difficulty concentrating (2%), difficulty with memory, mental slowing, nausea/vomiting (2%), and weight loss (1%).
-Many of these adverse reactions were dose-related (see WARNINGS and PRECAUTIONS).
+Many of these adverse reactions were dose-related (see WARNINGSand PRECAUTIONS).
 
 Adverse Reaction Incidence in Controlled Clinical Trials:
 
@@ -67,48 +67,48 @@ Adverse Reactions in Placebo-Controlled, Add-On Trials (Events that occurred in 
 
 Other Adverse Reactions in Clinical Trials: Zonisamide has been administered to 1,598 individuals during all clinical trials, only some of which were placebo-controlled.
 The frequencies represent the proportion of the 1,598 individuals exposed to zonisamide who experienced an event on at least one occasion.
-All events are included except those already listed in the previous table or discussed in WARNINGS or PRECAUTIONS, trivial events, those too general to be informative, and those not reasonably associated with zonisamide.
+All events are included except those already listed in the previous table or discussed in WARNINGSor PRECAUTIONS, trivial events, those too general to be informative, and those not reasonably associated with zonisamide.
 
-Events are further classified within each category and listed in order of decreasing frequency as follows: frequent occurring in at least 1:100 patients; infrequent occurring in 1:100 to 1:1,000 patients; rare occurring in fewer than 1:1,000 patients.
+Events are further classified within each category and listed in order of decreasing frequency as follows: frequentoccurring in at least 1:100 patients; infrequentoccurring in 1:100 to 1:1,000 patients; rareoccurring in fewer than 1:1,000 patients.
 
-Body as a Whole: Frequent: Accidental injury, asthenia.
-Infrequent: Chest pain, flank pain, malaise, allergic reaction, face edema, neck rigidity.
-Rare: Lupus erythematosus.
+Body as a Whole: Frequent:Accidental injury, asthenia.
+Infrequent:Chest pain, flank pain, malaise, allergic reaction, face edema, neck rigidity.
+Rare:Lupus erythematosus.
 
-Cardiovascular: Infrequent: Palpitation, tachycardia, vascular insufficiency, hypotension, hypertension, thrombophlebitis, syncope, bradycardia.
-Rare: Atrial fibrillation, heart failure, pulmonary embolus, ventricular extrasystoles.
+Cardiovascular: Infrequent:Palpitation, tachycardia, vascular insufficiency, hypotension, hypertension, thrombophlebitis, syncope, bradycardia.
+Rare:Atrial fibrillation, heart failure, pulmonary embolus, ventricular extrasystoles.
 
-Digestive: Frequent: Vomiting.
-Infrequent: Flatulence, gingivitis, gum hyperplasia, gastritis, gastroenteritis, stomatitis, cholelithiasis, glossitis, melena, rectal hemorrhage, ulcerative stomatitis, gastro-duodenal ulcer, dysphagia, gum hemorrhage.
-Rare: Cholangitis, hematemesis, cholecystitis, cholestatic jaundice, colitis, duodenitis, esophagitis, fecal incontinence, mouth ulceration.
+Digestive: Frequent:Vomiting.
+Infrequent:Flatulence, gingivitis, gum hyperplasia, gastritis, gastroenteritis, stomatitis, cholelithiasis, glossitis, melena, rectal hemorrhage, ulcerative stomatitis, gastro-duodenal ulcer, dysphagia, gum hemorrhage.
+Rare:Cholangitis, hematemesis, cholecystitis, cholestatic jaundice, colitis, duodenitis, esophagitis, fecal incontinence, mouth ulceration.
 
-Hematologic and Lymphatic: Infrequent: Leukopenia, anemia, immunodeficiency, lymphadenopathy.
-Rare: Thrombocytopenia, microcytic anemia, petechia.
+Hematologic and Lymphatic: Infrequent:Leukopenia, anemia, immunodeficiency, lymphadenopathy.
+Rare:Thrombocytopenia, microcytic anemia, petechia.
 
-Metabolic and Nutritional: Infrequent: Peripheral edema, weight gain, edema, thirst, dehydration.
-Rare: Hypoglycemia, hyponatremia, lactic dehydrogenase increased, SGOT increased, SGPT increased.
+Metabolic and Nutritional: Infrequent:Peripheral edema, weight gain, edema, thirst, dehydration.
+Rare:Hypoglycemia, hyponatremia, lactic dehydrogenase increased, SGOT increased, SGPT increased.
 
-Musculoskeletal: Infrequent: Leg cramps, myalgia, myasthenia, arthralgia, arthritis.
+Musculoskeletal: Infrequent:Leg cramps, myalgia, myasthenia, arthralgia, arthritis.
 
-Nervous System: Frequent: Tremor, convulsion, abnormal gait, hyperesthesia, incoordination.
-Infrequent: Hypertonia, twitching, abnormal dreams, vertigo, libido decreased, neuropathy, hyperkinesia, movement disorder, dysarthria, cerebrovascular accident, hypotonia, peripheral neuritis, reflexes increased.
-Rare: Dyskinesia, dystonia, encephalopathy, facial paralysis, hypokinesia, hyperesthesia, myoclonus, oculogyric crisis.
+Nervous System: Frequent:Tremor, convulsion, abnormal gait, hyperesthesia, incoordination.
+Infrequent:Hypertonia, twitching, abnormal dreams, vertigo, libido decreased, neuropathy, hyperkinesia, movement disorder, dysarthria, cerebrovascular accident, hypotonia, peripheral neuritis, reflexes increased.
+Rare:Dyskinesia, dystonia, encephalopathy, facial paralysis, hypokinesia, hyperesthesia, myoclonus, oculogyric crisis.
 
-Behavioral Abnormalities-Non-Psychosis-Related: Infrequent: Euphoria.
+Behavioral Abnormalities-Non-Psychosis-Related: Infrequent:Euphoria.
 
-Respiratory: Frequent: Pharyngitis, cough increased.
-Infrequent: Dyspnea.
-Rare: Apnea, hemoptysis.
+Respiratory: Frequent:Pharyngitis, cough increased.
+Infrequent:Dyspnea.
+Rare:Apnea, hemoptysis.
 
-Skin and Appendages: Frequent: Pruritus.
-Infrequent: Maculopapular rash, acne, alopecia, dry skin, sweating, eczema, urticaria, hirsutism, pustular rash, vesiculobullous rash.
+Skin and Appendages: Frequent:Pruritus.
+Infrequent:Maculopapular rash, acne, alopecia, dry skin, sweating, eczema, urticaria, hirsutism, pustular rash, vesiculobullous rash.
 
-Special Senses: Frequent: Amblyopia, tinnitus.
-Infrequent: Conjunctivitis, parosmia, deafness, visual field defect, glaucoma.
-Rare: Photophobia, iritis.
+Special Senses: Frequent:Amblyopia, tinnitus.
+Infrequent:Conjunctivitis, parosmia, deafness, visual field defect, glaucoma.
+Rare:Photophobia, iritis.
 
-Urogenital: Infrequent: Urinary frequency, dysuria, urinary incontinence, hematuria, impotence, urinary retention, urinary urgency, amenorrhea, polyuria, nocturia.
-Rare: Albuminuria, enuresis, bladder pain, bladder calculus, gynecomastia, mastitis, menorrhagia.
+Urogenital: Infrequent:Urinary frequency, dysuria, urinary incontinence, hematuria, impotence, urinary retention, urinary urgency, amenorrhea, polyuria, nocturia.
+Rare:Albuminuria, enuresis, bladder pain, bladder calculus, gynecomastia, mastitis, menorrhagia.
 
 POST MARKETING EXPERIENCE
 

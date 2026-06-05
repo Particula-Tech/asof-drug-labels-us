@@ -157,7 +157,7 @@ Zonisamide capsules can cause serious side effects.
 See “What is the most important information I should know about Zonisamide Capsules?”
 Other serious side effects include:
 
-- kidney stones: back pain, stomach pain, or blood in your urine may mean you have kidney stones.
+- kidney stones:back pain, stomach pain, or blood in your urine may mean you have kidney stones.
   Drink plenty of fluids while you take zonisamide capsules to lower your chance of getting kidney stones.
 - problems with mood or thinking (new or worse depression; sudden changes in mood, behavior, or loss of contact with reality, sometimes associated with hearing voices or seeing things that are not really there; feeling sleepy or tired; trouble concentrating; speech and language problems).
   Call your healthcare provider right away if you have any of the symptoms listed above.
@@ -189,7 +189,7 @@ Do not give zonisamide capsules to other people, even if they have the same symp
 It may harm them.
 You can ask your pharmacist or healthcare provider for information about zonisamide capsules that is written for health professionals.
 What are the ingredients in Zonisamide Capsules?
-Active ingredient: zonisamide Inactive ingredients: microcrystalline cellulose, hydrogenated vegetable oil, gelatin, and titanium dioxide.
+Active ingredient:zonisamide Inactive ingredients:microcrystalline cellulose, hydrogenated vegetable oil, gelatin, and titanium dioxide.
 In addition, individual empty hard gelatin capsule shell contains: 50 mg: Black iron oxide 100 mg: FD&C Blue # 1 and FD&C Red # 40.
 The imprinting ink contains black iron oxide, shellac glaze, propylene glycol and also contains either FD & C Blue No. 2, FD & C Red No. 40, FD & C Blue No. 1 and D & C Yellow No.10 or strong ammonia solution and potassium hydroxide.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

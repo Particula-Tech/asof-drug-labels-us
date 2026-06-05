@@ -1,6 +1,6 @@
 # DRUG ABUSE AND DEPENDENCE
 
-The abuse and dependence potential of zonisamide has not been evaluated in human studies (see WARNINGS, Cognitive/Neuropsychiatric Adverse Events subsection).
+The abuse and dependence potential of zonisamide has not been evaluated in human studies (see WARNINGS, Cognitive/Neuropsychiatric Adverse Eventssubsection).
 In a series of animal studies, zonisamide did not demonstrate abuse liability and dependence potential.
 Monkeys did not self-administer zonisamide in a standard reinforcing paradigm.
 Rats exposed to zonisamide did not exhibit signs of physical dependence of the CNS-depressant type.
