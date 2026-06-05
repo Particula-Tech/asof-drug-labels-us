@@ -3,13 +3,13 @@
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
 - Hyponatremia [see Warnings and Precautions (5.1)]
-- Anaphylactic Reactions and Angioedema [see Warnings and Precautions (5.2)]
-- Cross Hypersensitivity Reaction to Carbamazepine [see Warnings and Precautions (5.3)]
-- Serious Dermatological Reactions [see Warnings and Precautions (5.4)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
-- Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.7)]
-- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity [see Warnings and Precautions (5.8)]
-- Hematologic Events [see Warnings and Precautions (5.9)]
+- Anaphylactic Reactions and Angioedema [seeWarnings and Precautions (5.2)]
+- Cross Hypersensitivity Reaction to Carbamazepine [seeWarnings and Precautions (5.3)]
+- Serious Dermatological Reactions [seeWarnings and Precautions (5.4)]
+- Suicidal Behavior and Ideation [seeWarnings and Precautions (5.5)]
+- Cognitive/Neuropsychiatric Adverse Reactions [seeWarnings and Precautions (5.7)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity [seeWarnings and Precautions (5.8)]
+- Hematologic Events [seeWarnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -64,7 +64,7 @@ Table 3: Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy 
 |  | Oxcarbazepine dosage (mg/day) |  |  |  |
 | --- | --- | --- | --- | --- |
 | Oxcarbazepine 600 | Oxcarbazepine 1,200 | Oxcarbazepine 2,400 | Placebo |  |
-| Body system/ Adverse reaction | N=163 % | N=171 % | N=126 % | N=166 % |
+| Body system/ Adversereaction | N=163 % | N=171 % | N=126 % | N=166 % |
 | Body as a whole |  |  |  |  |
 | Fatigue | 15 | 12 | 15 | 7 |
 | Asthenia | 6 | 3 | 6 | 5 |
@@ -269,29 +269,29 @@ Events common in the population, events reflecting chronic illness and events li
 They are listed in order of decreasing frequency.
 Because the reports cite events observed in open label and uncontrolled trials, the role of oxcarbazepine in their causation cannot be reliably determined.
 
-Body as a Whole: fever, malaise, pain chest precordial, rigors, weight decrease
+Body as a Whole:fever, malaise, pain chest precordial, rigors, weight decrease
 
-Cardiovascular System: bradycardia, cardiac failure, cerebral hemorrhage, hypertension, hypotension postural, palpitation, syncope, tachycardia
+Cardiovascular System:bradycardia, cardiac failure, cerebral hemorrhage, hypertension, hypotension postural, palpitation, syncope, tachycardia
 
-Digestive System: appetite increased, blood in stool, cholelithiasis, colitis, duodenal ulcer, dysphagia, enteritis, eructation, esophagitis, flatulence, gastric ulcer, gingival bleeding, gum hyperplasia, hematemesis, hemorrhage rectum, hemorrhoids, hiccup, mouth dry, pain biliary, pain right hypochondrium, retching, sialoadenitis, stomatitis, stomatitis ulcerative
+Digestive System:appetite increased, blood in stool, cholelithiasis, colitis, duodenal ulcer, dysphagia, enteritis, eructation, esophagitis, flatulence, gastric ulcer, gingival bleeding, gum hyperplasia, hematemesis, hemorrhage rectum, hemorrhoids, hiccup, mouth dry, pain biliary, pain right hypochondrium, retching, sialoadenitis, stomatitis, stomatitis ulcerative
 
-Hematologic and Lymphatic System: thrombocytopenia
+Hematologic and Lymphatic System:thrombocytopenia
 
-Laboratory Abnormality: gamma-GT increased, hyperglycemia, hypocalcemia, hypoglycemia, hypokalemia, liver enzymes elevated, serum transaminase increased
+Laboratory Abnormality:gamma-GT increased, hyperglycemia, hypocalcemia, hypoglycemia, hypokalemia, liver enzymes elevated, serum transaminase increased
 
-Musculoskeletal System: hypertonia muscle
+Musculoskeletal System:hypertonia muscle
 
 Nervous System: aggressive reaction, amnesia, anguish, anxiety, apathy, aphasia, aura, convulsions aggravated, delirium, delusion, depressed level of consciousness, dysphonia, dystonia, emotional lability, euphoria, extrapyramidal disorder, feeling drunk, hemiplegia, hyperkinesia, hyperreflexia, hypoesthesia, hypokinesia, hyporeflexia, hypotonia, hysteria, libido decreased, libido increased, manic reaction, migraine, muscle contractions involuntary, nervousness, neuralgia, oculogyric crisis, panic disorder, paralysis, paroniria, personality disorder, psychosis, ptosis, stupor, tetany
 
 Respiratory System: asthma, dyspnea, epistaxis, laryngismus, pleurisy
 
-Skin and Appendages: acne, alopecia, angioedema, bruising, dermatitis contact, eczema, facial rash, flushing, folliculitis, heat rash, hot flushes, photosensitivity reaction, pruritus genital, psoriasis, purpura, rash erythematous, rash maculopapular, vitiligo, urticaria
+Skin and Appendages:acne, alopecia, angioedema, bruising, dermatitis contact, eczema, facial rash, flushing, folliculitis, heat rash, hot flushes, photosensitivity reaction, pruritus genital, psoriasis, purpura, rash erythematous, rash maculopapular, vitiligo, urticaria
 
 Special Senses: accommodation abnormal, cataract, conjunctival hemorrhage, edema eye, hemianopia, mydriasis, otitis externa, photophobia, scotoma, taste perversion, tinnitus, xerophthalmia
 
-Surgical and Medical Procedures: procedure dental oral, procedure female reproductive, procedure musculoskeletal, procedure skin
+Surgical and Medical Procedures:procedure dental oral, procedure female reproductive, procedure musculoskeletal, procedure skin
 
-Urogenital and Reproductive System:dysuria, hematuria, intermenstrual bleeding, leukorrhea, menorrhagia, micturition frequency, pain renal, pain urinary tract, polyuria, priapism, renal calculus
+Urogenital and Reproductive System: dysuria, hematuria, intermenstrual bleeding, leukorrhea, menorrhagia, micturition frequency, pain renal, pain urinary tract, polyuria, priapism, renal calculus
 
 Other: Systemic lupus erythematosus
 
@@ -300,11 +300,11 @@ Laboratory Tests
 Serum sodium levels below 125 mmol/L have been observed in patients treated with Oxcarbazepine [see Warnings and Precautions (5.1)].
 Experience from clinical trials indicates that serum sodium levels return toward normal when the Oxcarbazepine dosage is reduced or discontinued, or when the patient was treated conservatively (e.g., fluid restriction).
 
-Laboratory data from clinical trials suggest that Oxcarbazepine use was associated with decreases in T4, without changes in T3 or TSH.
+Laboratory data from clinical trials suggest that Oxcarbazepine use was associated with decreases in T 4, without changes in T 3or TSH.
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of Oxcarbazepine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Body as a Whole: multi-organ hypersensitivity disorders characterized by features such as rash, fever, lymphadenopathy, abnormal liver function tests, eosinophilia and arthralgia [see Warnings and Precautions (5.8)] Cardiovascular System: atrioventricular block Immune System Disorders: anaphylaxis [see Warnings and Precautions (5.2)] Digestive System: pancreatitis and/or lipase and/or amylase increase Hematologic and Lymphatic Systems: aplastic anemia [see Warnings and Precautions (5.9)] Metabolism and Nutrition Disorders: hypothyroidism and syndrome of inappropriate antidiuretic hormone secretion (SIADH) Skin and Subcutaneous Tissue Disorders: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis [see Warnings and Precautions (5.4)], Acute Generalized Exanthematous Pustulosis (AGEP) Musculoskeletal, Connective Tissue and Bone Disorders: There have been reports of decreased bone mineral density, osteoporosis, and fractures in patients on long-term therapy with oxcarbazepine.
-Injury, Poisoning, and Procedural Complications: fall Nervous System Disorders: dysarthria
+Body as a Whole: multi-organ hypersensitivity disorders characterized by features such as rash, fever, lymphadenopathy, abnormal liver function tests, eosinophilia and arthralgia [see Warnings and Precautions (5.8)] Cardiovascular System: atrioventricular block Immune System Disorders:anaphylaxis [see Warnings and Precautions (5.2)] Digestive System:pancreatitis and/or lipase and/or amylase increase Hematologic and Lymphatic Systems:aplastic anemia [see Warnings and Precautions (5.9)] Metabolism and Nutrition Disorders:hypothyroidism and syndrome of inappropriate antidiuretic hormone secretion (SIADH) Skin and Subcutaneous Tissue Disorders:erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis [see Warnings and Precautions (5.4)], Acute Generalized Exanthematous Pustulosis (AGEP) Musculoskeletal, Connective Tissue and Bone Disorders: There have been reports of decreased bone mineral density, osteoporosis, and fractures in patients on long-term therapy with oxcarbazepine.
+Injury, Poisoning, and Procedural Complications:fall Nervous System Disorders: dysarthria

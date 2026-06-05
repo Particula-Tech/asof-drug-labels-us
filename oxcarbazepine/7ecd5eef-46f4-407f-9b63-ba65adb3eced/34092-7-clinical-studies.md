@@ -61,11 +61,11 @@ Table 8: Summary of Percentage Change in Partial-Onset Seizure Frequency From Ba
 
 | Trial | Treatment Group | N | Baseline median seizure rate* | Median % reduction |
 | --- | --- | --- | --- | --- |
-| 1 (pediatrics) | Oxcarbazepine | 136 | 12.5 | 34.81 |
+| 1 (pediatrics) | Oxcarbazepine | 136 | 12.5 | 34.8 1 |
 | Placebo | 128 | 13.1 | 9.4 |  |
-| 2 (adults) | Oxcarbazepine 2,400 mg/day | 174 | 10 | 49.91 |
-| Oxcarbazepine 1,200 mg/day | 177 | 9.8 | 40.21 |  |
-| Oxcarbazepine 600 mg/day | 168 | 9.6 | 26.41 |  |
+| 2 (adults) | Oxcarbazepine 2,400 mg/day | 174 | 10 | 49.9 1 |
+| Oxcarbazepine 1,200 mg/day | 177 | 9.8 | 40.2 1 |  |
+| Oxcarbazepine 600 mg/day | 168 | 9.6 | 26.4 1 |  |
 | Placebo | 173 | 8.6 | 7.6 |  |
 
 1 p=0.0001; * = number of seizures per 28 days Subset analyses of the antiepileptic efficacy of oxcarbazepine with regard to gender in these trials revealed no important differences in response between men and women.

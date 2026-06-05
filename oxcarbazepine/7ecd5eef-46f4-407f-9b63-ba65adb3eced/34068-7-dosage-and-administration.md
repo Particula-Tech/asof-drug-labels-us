@@ -26,8 +26,7 @@ Controlled trials in these patients examined the effectiveness of a 1,200 mg/day
 In pediatric patients aged 4 to 16 years, initiate oxcarbazepine at a daily dose of 8 to 10 mg/kg generally not to exceed 600 mg/day, given twice a day.
 The target maintenance dose of oxcarbazepine should be achieved over 2 weeks, and is dependent upon patient weight, according to the following chart: 20 to 29 kg - 900 mg/day 29.1 to 39 kg - 1,200 mg/day 39 kg – 1,800 mg/day In the clinical trial, in which the intention was to reach these target doses, the median daily dose was 31 mg/kg with a range of 6 to 51 mg/kg.
 In pediatric patients aged 2 to <4 years, initiate oxcarbazepine at a daily dose of 8 to 10 mg/kg generally not to exceed 600 mg/day, given twice a day.
-For patients less than 20 kg, a starting dose of 16 to 20 mg/kg may be considered [see Clinical Pharmacology (12.3)].
-The maximum maintenance dose of oxcarbazepine should be achieved over 2 to 4 weeks and should not exceed 60 mg/kg/day in a twice a day regimen.
+For patients less than 20 kg, a starting dose of 16 to 20 mg/kg may be considered [see Clinical Pharmacology (12.3)].The maximum maintenance dose of oxcarbazepine should be achieved over 2 to 4 weeks and should not exceed 60 mg/kg/day in a twice a day regimen.
 In the clinical trial in pediatric patients (2 to 4 years of age), in which the intention was to reach the target dose of 60 mg/kg/day, 50% of patients reached a final dose of at least 55 mg/kg/day.
 Under adjunctive therapy (with and without enzyme-inducing AEDs), when normalized by body weight, apparent clearance (L/hr/kg) decreased when age increased such that children 2 to <4 years of age may require up to twice the oxcarbazepine dose per body weight compared to adults; and children 4 to ≤12 years of age may require a 50% higher oxcarbazepine dose per body weight compared to adults.
 Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain AEDs [see Drug Interactions (7.1, 7.2)].
@@ -68,5 +67,5 @@ In patients with impaired renal function (creatinine clearance <30 mL/min), init
 
 ## 2.8 Administration Information
 
-Oxcarbazepine can be taken with or without food [see Clinical Pharmacology (12.3)].
+Oxcarbazepine can be taken with or without food [seeClinical Pharmacology (12.3)].
 Oxcarbazepine oral suspension and oxcarbazepine film-coated tablets may be substituted at equal doses.

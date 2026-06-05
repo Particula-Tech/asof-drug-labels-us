@@ -22,7 +22,7 @@ These patients should not be rechallenged with the drug [see Warnings and Precau
 
 Approximately 25% to 30% of patients who have had hypersensitivity reactions to carbamazepine will experience hypersensitivity reactions with oxcarbazepine.
 For this reason, patients should be specifically questioned about any prior experience with carbamazepine, and patients with a history of hypersensitivity reactions to carbamazepine should ordinarily be treated with oxcarbazepine only if the potential benefit justifies the potential risk.
-If signs or symptoms of hypersensitivity develop, oxcarbazepine should be discontinued immediately [see Warnings andPrecautions (5.2, 5.8)].
+If signs or symptoms of hypersensitivity develop, oxcarbazepine should be discontinued immediately [see Warnings andPrecautions (5.2,5.8)].
 
 ## 5.4 Serious Dermatological Reactions
 

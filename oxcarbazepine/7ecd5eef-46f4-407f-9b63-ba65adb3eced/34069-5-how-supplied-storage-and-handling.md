@@ -13,7 +13,7 @@ NDC 62756-183-13
 
 Bottle of 1000: …………… NDC 62756-183-18
 
-300 mg Film-Coated Tablets: yellow color, capsule-shaped, biconvex, coated tablets scored and debossed with ‘184’ on one side and scored on other side.
+300 mg Film-Coated Tablets:yellow color, capsule-shaped, biconvex, coated tablets scored and debossed with ‘184’ on one side and scored on other side.
 
 Bottle of 30: Child Resistant Cap…………….NDC 62756-184-83
 
@@ -26,7 +26,7 @@ Bottle of 500: …………………………………NDC 62756-184-13
 Bottle of 1000: ……………………………….
 NDC 62756-184-18
 
-600 mg Film-Coated Tablets: yellow color, capsule-shaped, biconvex, coated tablets scored and debossed with ‘185’ on one side and scored on other side.
+600 mg Film-Coated Tablets:yellow color, capsule-shaped, biconvex, coated tablets scored and debossed with ‘185’ on one side and scored on other side.
 
 Bottle of 30: Child Resistant Cap …………… NDC 62756-185-83
 

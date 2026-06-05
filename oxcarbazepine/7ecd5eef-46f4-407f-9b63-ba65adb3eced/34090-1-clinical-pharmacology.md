@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The pharmacological activity of oxcarbazepine is primarily exerted through the 10-monohydroxy metabolite (MHD) of oxcarbazepine [see Clinical Pharmacology (12.3)].
-The precise mechanism by which oxcarbazepine and MHD exert their anti-seizure effect is unknown; however, in vitro electrophysiological studies indicate that they produce blockade of voltage-sensitive sodium channels, resulting in stabilization of hyperexcited neural membranes, inhibition of repetitive neuronal firing, and diminution of propagation of synaptic impulses.
+The precise mechanism by which oxcarbazepine and MHD exert their anti-seizure effect is unknown; however, in vitroelectrophysiological studies indicate that they produce blockade of voltage-sensitive sodium channels, resulting in stabilization of hyperexcited neural membranes, inhibition of repetitive neuronal firing, and diminution of propagation of synaptic impulses.
 These actions are thought to be important in the prevention of seizure spread in the intact brain.
 In addition, increased potassium conductance and modulation of high-voltage activated calcium channels may contribute to the anticonvulsant effects of the drug.
 No significant interactions of oxcarbazepine or MHD with brain neurotransmitter or modulator receptor sites have been demonstrated.
@@ -20,7 +20,7 @@ Following oral administration of oxcarbazepine tablets, oxcarbazepine is complet
 In a mass balance study in people, only 2% of total radioactivity in plasma was due to unchanged oxcarbazepine, with approximately 70% present as MHD, and the remainder attributable to minor metabolites.
 The half-life of the parent is about 2 hours, while the half-life of MHD is about 9 hours, so that MHD is responsible for most antiepileptic activity.
 Absorption Based on MHD concentrations, oxcarbazepine tablets and suspension were shown to have similar bioavailability.
-After single-dose administration of oxcarbazepine tablets to healthy male volunteers under fasted conditions, the median tmax was 4.5 (range, 3 to 13) hours.
+After single-dose administration of oxcarbazepine tablets to healthy male volunteers under fasted conditions, the median t maxwas 4.5 (range, 3 to 13) hours.
 Steady-state plasma concentrations of MHD are reached within 2 to 3 days in patients when oxcarbazepine is given twice a day.
 At steady state the pharmacokinetics of MHD are linear and show dose proportionality over the dose range of 300 to 2,400 mg/day.
 Food has no effect on the rate and extent of absorption of oxcarbazepine from oxcarbazepine tablets.
@@ -89,24 +89,24 @@ As binding of MHD to plasma proteins is low (40%), clinically significant intera
 - In Vivo
 
 Other Antiepileptic Drugs Potential interactions between oxcarbazepine and other AEDs were assessed in clinical studies.
-The effect of these interactions on mean AUCs and Cmin are summarized in Table 7 [see Drug Interactions (7.1, 7.2)].
+The effect of these interactions on mean AUCs and C minare summarized in Table 7 [see Drug Interactions (7.1, 7.2)].
 Table 7: Summary of Antiepileptic Drug Interactions With Oxcarbazepine
 
 | AED Coadministered | Dose of AED (mg/day) | Oxcarbazepine Dose (mg/day) | Influence of oxcarbazepine on AED Concentration (mean change, 90% confidence interval) | Influence of AED on MHD Concentration (mean change, 90% confidence interval) |
 | --- | --- | --- | --- | --- |
-| Carbamazepine | 400 to 2,000 | 900 | nc1 | 40% decrease [CI: 17% decrease, 57% decrease] |
+| Carbamazepine | 400 to 2,000 | 900 | nc 1 | 40% decrease [CI: 17% decrease, 57% decrease] |
 | Phenobarbital | 100 to 150 | 600 to 1,800 | 14% increase [CI: 2% increase, 24% increase] | 25% decrease [CI: 12% decrease, 51% decrease] |
-| Phenytoin | 250 to 500 | 600 to 1,800 >1,200 to 2,400 | nc1,2 up to 40% increase3 [CI: 12% increase, 60% increase] | 30% decrease [CI: 3% decrease, 48% decrease] |
-| Valproic acid | 400 to 2,800 | 600 to 1,800 | nc1 | 18% decrease [CI: 13% decrease, 40% decrease] |
-| Lamotrigine | 200 | 1,200 | nc1 | nc1 |
+| Phenytoin | 250 to 500 | 600 to 1,800 >1,200 to 2,400 | nc 1,2 up to 40% increase 3[CI: 12% increase, 60% increase] | 30% decrease [CI: 3% decrease, 48% decrease] |
+| Valproic acid | 400 to 2,800 | 600 to 1,800 | nc 1 | 18% decrease [CI: 13% decrease, 40% decrease] |
+| Lamotrigine | 200 | 1,200 | nc 1 | nc 1 |
 
 Abbreviations: AED, antiepileptic drugs; CI, confidence interval; MHD, 10-monohydroxy derivative.
 
-1 nc denotes a mean change of less than 10%
+1nc denotes a mean change of less than 10%
 
-2 Pediatrics
+2Pediatrics
 
-3 Mean increase in adults at high oxcarbazepine doses
+3Mean increase in adults at high oxcarbazepine doses
 
 Hormonal Contraceptives Coadministration of oxcarbazepine with an oral contraceptive has been shown to influence the plasma concentrations of the two hormonal components: ethinylestradiol (EE) and levonorgestrel (LNG) [see Drug Interactions (7.3)].
 The mean AUC values of EE were decreased by 48% [90% CI: 22 to 65] in one study and 52% [90% CI: 38 to 52] in another study.

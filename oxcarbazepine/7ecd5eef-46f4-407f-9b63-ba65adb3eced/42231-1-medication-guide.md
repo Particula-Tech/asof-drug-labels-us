@@ -26,7 +26,7 @@ Suicidal thoughts or actions may be caused by things other than medicines.
 If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 What are oxcarbazepine tablets?
 Oxcarbazepine tablets are prescription medicine used: • alone or with other medicines to treat partial-onset seizures in adults • alone to treat partial-onset seizures in children 4 years of age and older • with other medicines to treat partial-onset seizures in children 2 years of age and older It is not known if oxcarbazepine is safe and effective for use alone to treat partial-onset seizures in children less than 4 years of age or for use with other medicines to treat partial-onset seizures in children less than 2 years of age.
-Do not take oxcarbazepine tablets if you are allergic to oxcarbazepine or any of the other ingredients in oxcarbazepine tablets, or to eslicarbazepine acetate.
+Do not take oxcarbazepine tablets if you areallergic to oxcarbazepine or any of the other ingredients in oxcarbazepine tablets, or to eslicarbazepine acetate.
 See the end of this Medication Guide for a complete list of ingredients in oxcarbazepine tablets.
 Many people who are allergic to carbamazepine are also allergic to oxcarbazepine.
 Tell your healthcare provider if you are allergic to carbamazepine.
