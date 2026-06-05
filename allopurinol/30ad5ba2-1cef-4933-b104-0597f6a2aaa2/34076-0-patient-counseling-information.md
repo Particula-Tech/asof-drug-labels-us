@@ -21,8 +21,12 @@ Pregnancy Advise pregnant women of the potential risk to a fetus.
 Advise women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with allopurinol tablets [see Use in Specific Populations (8.1)].
 Lactation Advise women not to breastfeed during treatment with allopurinol tablets and for one week after the last dose [see Use in Specific Populations (8.2)].
 
-Manufactured by: Casper Pharma Private Limited Telangana-500108, India M.L No.: TS/RR/2020-58622
-
 Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
 
-PIA88510-02
+Made in India
+
+Neutral Code: 4323066/TS/DRUGS/2025
+
+Revised: 05/2026
+
+PIA88510-03

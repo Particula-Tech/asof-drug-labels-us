@@ -32,9 +32,9 @@ Because of the potential for serious adverse reactions in a breastfed child, adv
 
 Hyperuricemia Associated with Cancer Therapy The safety and effectiveness of allopurinol for the management of pediatric patients with leukemia, lymphoma and solid tumor malignancies who are receiving cancer therapy which causes elevations of serum and urinary uric acid levels have been established in approximately 200 pediatric patients.
 The efficacy and safety profile observed in this patient population were similar to that observed in adults.
-Primary or Secondary Gout The safety and effectiveness of allopurinol have not been established for the treatment of signs and symptoms of primary or secondary gout in pediatric patients.
-Recurrent Calcium Oxalate Calculi The safety and effectiveness of allopurinol have not been established for the management of pediatric patients with recurrent calcium oxalate calculi.
-Inborn Errors of Metabolism The safety and effectiveness of allopurinol have not been established in pediatric patients with rare inborn errors of purine metabolism.
+Primary or Secondary GoutThe safety and effectiveness of allopurinol have not been established for the treatment of signs and symptoms of primary or secondary gout in pediatric patients.
+Recurrent Calcium Oxalate CalculiThe safety and effectiveness of allopurinol have not been established for the management of pediatric patients with recurrent calcium oxalate calculi.
+Inborn Errors of MetabolismThe safety and effectiveness of allopurinol have not been established in pediatric patients with rare inborn errors of purine metabolism.
 
 ## 8.6 Renal Impairment
 

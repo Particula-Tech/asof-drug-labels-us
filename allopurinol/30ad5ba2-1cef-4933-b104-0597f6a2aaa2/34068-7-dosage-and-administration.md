@@ -73,7 +73,7 @@ Recommended Initial Dosage in Adult Patients with Gout
 
 The maximum dosage that should be used in patients with various levels of renal impairment is not defined at different eGFR levels.
 Patients with Recurrent Calcium Oxalate Calculi Data are insufficient to provide dosage recommendations for the treatment of recurrent calcium oxalate calculi in patients with renal impairment.
-Allopurinol and its metabolites are excreted by the kidney, and accumulation of the drug can occur in renal failure [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+Allopurinol and its metabolites are excreted by the kidney, and accumulation of the drug can occur in renal failure [see Warnings and Precautions (5.3) and Use inSpecific Populations (8.6)].
 Hyperuricemia Associated with Cancer Therapy The recommended dosage of allopurinol tablets for the management of hyperuricemia associated with cancer therapy in adult patients with renal impairment is shown in Table 2 [see Use in Specific Populations (8.6)].
 Table 2.
 Recommended Dosage of Allopurinol Tablets in Adult Patients for Management of Hyperuricemia Associated with Cancer Therapy with Renal Impairment
