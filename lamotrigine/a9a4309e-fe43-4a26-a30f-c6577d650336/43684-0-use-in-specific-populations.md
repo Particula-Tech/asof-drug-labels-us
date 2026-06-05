@@ -87,7 +87,7 @@ Data from multiple small studies indicate that lamotrigine plasma levels in nurs
 
 ## 8.4 Pediatric Use
 
-Epilepsy Lamotrigine tablets are indicated as adjunctive therapy in patients aged 2 years and older for partial-onset seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
+Epilepsy Lamotrigine is indicated as adjunctive therapy in patients aged 2 years and older for partial-onset seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
 Safety and efficacy of lamotrigine used as adjunctive treatment for partial-onset seizures were not demonstrated in a small, randomized, double-blind, placebo-controlled withdrawal trial in very young pediatric patients (aged 1 to 24 months).
 Lamotrigine was associated with an increased risk for infectious adverse reactions (lamotrigine 37%, placebo 5%), and respiratory adverse reactions (lamotrigine 26%, placebo 5%).
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.

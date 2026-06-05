@@ -132,7 +132,7 @@ Medication errors involving lamotrigine have occurred.
 In particular, the name lamotrigine can be confused with the names of other commonly used medications.
 Medication errors may also occur between the different formulations of lamotrigine.
 To reduce the potential of medication errors, write and say lamotrigine clearly.
-Depictions of the lamotrigine tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
+Depictions of the lamotrigine can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 To avoid the medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription.
 
 ## 5.9 Concomitant Use with Estrogen-Containing Products, Including Oral Contraceptives
