@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211128"
+  ],
+  "inn": "macitentan",
+  "labeler": "Alembic Pharmaceuticals Limited",
+  "package_ndcs": [
+    "46708-373-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "macitentan",
+      "name": "Macitentan"
+    }
+  ],
+  "setid": "4d9d9a84-6853-4004-b20a-8849b34453a4",
+  "source": "dailymed"
+}
