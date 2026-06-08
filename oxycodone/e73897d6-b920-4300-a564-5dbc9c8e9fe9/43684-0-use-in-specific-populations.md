@@ -11,7 +11,7 @@ In several published studies, treatment of pregnant rats with oxycodone at clini
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -26,7 +26,7 @@ Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage 
 Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid overdose reversal agent such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Oxycodone hydrochloride is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
 Opioid analgesics, including oxycodone hydrochloride, can prolong labor through actions which temporarily reduce the strength, duration and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
@@ -57,8 +57,8 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Clinical Considerations
 
-Monitor infants exposed to oxycodone hydrochloride through breast milk should be monitored for excess sedation and respiratory depression.
-Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped or when breast-feeding is stopped.
+Monitor infants exposed to oxycodone hydrochloride through breast milk for excess sedation and respiratory depression.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped or when breastfeeding is stopped.
 
 Data Oxycodone concentration data from 76 lactating women receiving immediate-release oxycodone products for postpartum pain management, and 28 infants exposed to oxycodone in breastmilk showed that following a median (range) dose of oxycodone in mothers of 9.2 (5-10) mg/dose or 33.0 (5.4¬-59.3) mg/day, oxycodone concentrated in breastmilk with a median (range) milk to plasma ratio of 3.2 (1.2-5.3).
 However, when using maternal breastmilk data to estimate the daily and relative infant dose, the infant dose was 0.006 mg/kg/day, which is 1.3% of a weight-adjusted maternal dose of 10 mg every 6 hours.

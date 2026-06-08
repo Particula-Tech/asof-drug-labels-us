@@ -6,7 +6,7 @@ Oxycodone hydrochloride tablets contains oxycodone, a Schedule II controlled sub
 
 ## 9.2 Abuse
 
-Oxycodone hydrochloride tablets contain oxycodone, a substance with high potential for misuse and abuse, which can lead to the development of substance use disorder, including addiction [see Warnings and Precautions (5.1)].
+Oxycodone hydrochloride tablets contains oxycodone, a substance with high potential for misuse and abuse, which can lead to the development of substance use disorder, including addiction [see Warnings and Precautions (5.1)].
 
 Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a healthcare provider or for whom it was not prescribed.
 
@@ -24,10 +24,10 @@ Patients at high risk of oxycodone hydrochloride abuse include those with a hist
 
 “Drug-seeking” behavior is very common in persons with substance use disorders.
 Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated “loss” of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare provider(s).
-“Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is common among people who abuse drug and people with substance use disorder.
+“Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is common among people who abuse drugs and people with substance use disorder.
 Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with inadequate pain control.
 
-Oxycodone hydrochloride, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+Oxycodone hydrochloride, like other opioids, can be diverted for nonmedical use into illicit channels of distribution.
 Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
 
 Proper assessment of the patient, proper prescribing practices, periodic reevaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
@@ -47,10 +47,10 @@ Tolerance is a physiological state characterized by a reduced response to a drug
 
 Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 
-Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
-Do not abruptly discontinue oxycodone hydrochloride in a patient physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue oxycodone hydrochloride in a patient physically dependent on opioids.
 Rapid tapering of oxycodone hydrochloride in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 

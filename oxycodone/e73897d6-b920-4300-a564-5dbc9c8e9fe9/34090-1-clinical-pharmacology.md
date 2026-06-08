@@ -18,19 +18,20 @@ Oxycodone produces respiratory depression by direct action on brain stem respira
 The respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to both increases in carbon dioxide tension and electrical stimulation.
 
 Oxycodone causes miosis, even in total darkness.
-Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situations.
+Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
+Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situations.
 
 Effects on Gastrointestinal Tract and Other Smooth Muscle
 
 Oxycodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on Cardiovascular System
 
 Oxycodone produces peripheral vasodilatation, which may result in orthostatic hypotension or syncope.
-Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating and/or orthostatic hypotension.
+Manifestations of histamine release and/or peripheral vasodilatation may include pruritus, flushing, red eyes, sweating and/or orthostatic hypotension.
 
 Effects on the Endocrine System
 
@@ -85,7 +86,7 @@ Oxycodone hydrochloride 15 mg tablets and 30 mg tablets are bioequivalent to the
 Dose proportionality of oxycodone has been established using the oxycodone hydrochloride 5 mg tablets at doses of 5 mg, 15 mg (three 5 mg tablets) and 30 mg (six 5 mg tablets) based on extent of absorption (AUC) (see Figure 1).
 It takes approximately 18 to 24 hours to reach steady-state plasma concentrations of oxycodone with oxycodone hydrochloride tablets.
 
-Food Effects
+Food Effect
 
 A single-dose food effect study was conducted in normal volunteers using the 5 mg/5 mL solution.
 The concurrent intake of a high fat meal was shown to enhance the extent (27% increase in AUC), but not the rate of oxycodone absorption from the oral solution (see Table 2).
