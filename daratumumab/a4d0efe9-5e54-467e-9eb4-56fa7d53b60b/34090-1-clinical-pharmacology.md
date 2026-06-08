@@ -4,12 +4,12 @@
 
 CD38 is a transmembrane glycoprotein (48 kDa) expressed on the surface of hematopoietic cells, including multiple myeloma and other cell types and tissues and has multiple functions, such as receptor mediated adhesion, signaling, and modulation of cyclase and hydrolase activity.
 Daratumumab is an IgG1κ human monoclonal antibody (mAb) that binds to CD38 and inhibits the growth of CD38 expressing tumor cells by inducing apoptosis directly through Fc mediated cross linking as well as by immune-mediated tumor cell lysis through complement dependent cytotoxicity (CDC), antibody dependent cell mediated cytotoxicity (ADCC) and antibody dependent cellular phagocytosis (ADCP).
-A subset of myeloid derived suppressor cells (CD38+MDSCs), regulatory T cells (CD38+T regs) and B cells (CD38+B regs) are decreased by daratumumab.
+A subset of myeloid derived suppressor cells (CD38+MDSCs), regulatory T cells (CD38+Tregs) and B cells (CD38+Bregs) are decreased by daratumumab.
 
 ## 12.2 Pharmacodynamics
 
 NK cells express CD38 and are susceptible to daratumumab mediated cell lysis.
-Decreases in absolute counts and percentages of total NK cells (CD16+CD56+) and activated (CD16+CD56 dim) NK cells in peripheral whole blood and bone marrow were observed with DARZALEX treatment.
+Decreases in absolute counts and percentages of total NK cells (CD16+CD56+) and activated (CD16+CD56dim) NK cells in peripheral whole blood and bone marrow were observed with DARZALEX treatment.
 
 Exposure-Response Relationship
 
@@ -24,12 +24,12 @@ There is no evidence from non-clinical or clinical data to suggest that DARZALEX
 
 Daratumumab area under the concentration-time curve (AUC) increases more than proportionally over a dosage range from 1 to 24 mg/kg (0.06 to 1.5 times the approved recommended dosage) as monotherapy or 1 to 16 mg/kg (0.06 to 1 time the approved recommended dosage) as combination therapy.
 
-Following administration of the approved recommended dosage of DARZALEX as monotherapy or in combination therapy, the mean serum maximal concentration (C max) was approximately 2.7 to 3-fold higher at the end of weekly dosing compared to the first dose.
-The mean ± standard deviation (SD) trough serum concentration (C min) at the end of weekly dosing was 573 ± 332 µg/mL when DARZALEX was administered as monotherapy and 502 ± 196 to 607 ± 231 µg/mL when DARZALEX was administered as combination therapy.
-Split dosing of the first dose resulted in a different PK profile in the first day compared to single dosing; however, similar C maxand C minconcentrations were both predicted and observed following the administration of the second split dose on Week 1 Day 2.
+Following administration of the approved recommended dosage of DARZALEX as monotherapy or in combination therapy, the mean serum maximal concentration (Cmax) was approximately 2.7 to 3-fold higher at the end of weekly dosing compared to the first dose.
+The mean ± standard deviation (SD) trough serum concentration (Cmin) at the end of weekly dosing was 573 ± 332 µg/mL when DARZALEX was administered as monotherapy and 502 ± 196 to 607 ± 231 µg/mL when DARZALEX was administered as combination therapy.
+Split dosing of the first dose resulted in a different PK profile in the first day compared to single dosing; however, similar Cmax and Cmin concentrations were both predicted and observed following the administration of the second split dose on Week 1 Day 2.
 
-When DARZALEX was administered as monotherapy, daratumumab steady state was achieved approximately 5 months into the every 4-week dosing period (by the 21 st infusion).
-At steady state, daratumumab mean ± SD accumulation ratio for C max was 1.6 ± 0.5.
+When DARZALEX was administered as monotherapy, daratumumab steady state was achieved approximately 5 months into the every 4-week dosing period (by the 21st infusion).
+At steady state, daratumumab mean ± SD accumulation ratio for Cmax was 1.6 ± 0.5.
 
 Distribution
 

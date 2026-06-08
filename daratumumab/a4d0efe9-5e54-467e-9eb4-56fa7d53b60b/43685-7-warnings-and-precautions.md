@@ -50,7 +50,16 @@ The determination of a patient's ABO and Rh blood type are not impacted [see Dru
 Notify blood transfusion centers of this interference with serological testing and inform blood banks that a patient has received DARZALEX.
 Type and screen patients prior to starting DARZALEX [see Dosage and Administration (2.1)].
 
-## 5.3 Neutropenia
+## 5.3 Infections
+
+DARZALEX can cause serious, life-threatening, or fatal infections.
+In patients who received DARZALEX in a pooled safety population (N=2066), serious infections, including opportunistic infections, occurred in 22.6% of patients, Grade 3 or 4 infections occurred in 24.3%, and fatal infections occurred in 1.2%.
+The most common (≥2%) types of serious infection reported were pneumonia (11%), upper respiratory tract infection (4%), sepsis (3%), and bronchitis (2%).
+
+Monitor patients for signs and symptoms of infection prior to and during treatment with DARZALEX and treat appropriately.
+Administer prophylactic antimicrobials according to guidelines [see Dosage and Administration (2.3)].
+
+## 5.4 Neutropenia
 
 DARZALEX may increase neutropenia induced by background therapy [see Adverse Reactions (6.1)].
 
@@ -58,19 +67,19 @@ Monitor complete blood cell counts periodically during treatment according to ma
 Monitor patients with neutropenia for signs of infection.
 Consider withholding DARZALEX until recovery of neutrophils.
 
-## 5.4 Thrombocytopenia
+## 5.5 Thrombocytopenia
 
 DARZALEX may increase thrombocytopenia induced by background therapy [see Adverse Reactions (6.1)].
 
 Monitor complete blood cell counts periodically during treatment according to manufacturer's prescribing information for background therapies.
 Consider withholding DARZALEX until recovery of platelets.
 
-## 5.5 Interference with Determination of Complete Response
+## 5.6 Interference with Determination of Complete Response
 
 Daratumumab is a human IgG kappa monoclonal antibody that can be detected on both, the serum protein electrophoresis (SPE) and immunofixation (IFE) assays used for the clinical monitoring of endogenous M-protein [see Drug Interactions (7.1)].
 This interference can impact the determination of complete response and of disease progression in some patients with IgG kappa myeloma protein.
 
-## 5.6 Embryo-Fetal Toxicity
+## 5.7 Embryo-Fetal Toxicity
 
 Based on the mechanism of action, DARZALEX can cause fetal harm when administered to a pregnant woman.
 DARZALEX may cause depletion of fetal immune cells and decreased bone density.

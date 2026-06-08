@@ -3,8 +3,9 @@
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
 - Infusion-related reactions [see Warnings and Precautions (5.1)].
-- Neutropenia [see Warnings and Precautions (5.3)].
-- Thrombocytopenia [see Warnings and Precautions (5.4)].
+- Infections [see Warnings and Precautions (5.3)].
+- Neutropenia [see Warnings and Precautions (5.4)].
+- Thrombocytopenia [see Warnings and Precautions (5.5)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -33,13 +34,13 @@ Table 7: Adverse Reactions Reported in ≥10% of Patients and With at Least a 5%
 | Nausea | 32 | 1 | 0 | 23 | 1 | 0 |
 | Vomiting | 17 | 1 | 0 | 12 | <1 | 0 |
 | Infections |  |  |  |  |  |  |
-| Upper respiratory tract infection Acute sinusitis, Bacterial rhinitis, Laryngitis, Metapneumovirus infection, Nasopharyngitis, Oropharyngeal candidiasis, Pharyngitis, Respiratory syncytial virus infection, Respiratory tract infection, Respiratory tract infection viral, Rhinitis, Rhinovirus infection, Sinusitis, Tonsillitis, Tracheitis, Upper respiratory tract infection, Viral pharyngitis, Viral rhinitis, Viral upper respiratory tract infection | 52 | 2 | <1 | 36 | 2 | <1 |
-| Bronchitis Bronchiolitis, Bronchitis, Bronchitis viral, Respiratory syncytial virus bronchiolitis, Tracheobronchitis | 29 | 3 | 0 | 21 | 1 | 0 |
-| Pneumonia Atypical pneumonia, Bronchopulmonary aspergillosis, Lung infection, Pneumocystis jirovecii infection, Pneumocystis jirovecii pneumonia, Pneumonia, Pneumonia aspiration, Pneumonia pneumococcal, Pneumonia viral, Pulmonary mycosis | 26 | 14 | 1 | 14 | 7 | 1 |
+| Upper respiratory tract infectionAcute sinusitis, Bacterial rhinitis, Laryngitis, Metapneumovirus infection, Nasopharyngitis, Oropharyngeal candidiasis, Pharyngitis, Respiratory syncytial virus infection, Respiratory tract infection, Respiratory tract infection viral, Rhinitis, Rhinovirus infection, Sinusitis, Tonsillitis, Tracheitis, Upper respiratory tract infection, Viral pharyngitis, Viral rhinitis, Viral upper respiratory tract infection | 52 | 2 | <1 | 36 | 2 | <1 |
+| BronchitisBronchiolitis, Bronchitis, Bronchitis viral, Respiratory syncytial virus bronchiolitis, Tracheobronchitis | 29 | 3 | 0 | 21 | 1 | 0 |
+| PneumoniaAtypical pneumonia, Bronchopulmonary aspergillosis, Lung infection, Pneumocystis jirovecii infection, Pneumocystis jirovecii pneumonia, Pneumonia, Pneumonia aspiration, Pneumonia pneumococcal, Pneumonia viral, Pulmonary mycosis | 26 | 14 | 1 | 14 | 7 | 1 |
 | Urinary tract infection | 18 | 2 | 0 | 10 | 2 | 0 |
 | General disorders and administration site conditions |  |  |  |  |  |  |
-| Infusion-related reactions Infusion-related reaction includes terms determined by investigators to be related to infusion | 41 | 2 | <1 | 0 | 0 | 0 |
-| Peripheral edema Generalized edema, Gravitational edema, Edema, Peripheral edema, Peripheral swelling | 41 | 2 | 0 | 33 | 1 | 0 |
+| Infusion-related reactionsInfusion-related reaction includes terms determined by investigators to be related to infusion | 41 | 2 | <1 | 0 | 0 | 0 |
+| Peripheral edemaGeneralized edema, Gravitational edema, Edema, Peripheral edema, Peripheral swelling | 41 | 2 | 0 | 33 | 1 | 0 |
 | Fatigue | 40 | 8 | 0 | 28 | 4 | 0 |
 | Asthenia | 32 | 4 | 0 | 25 | 3 | <1 |
 | Pyrexia | 23 | 2 | 0 | 18 | 2 | 0 |
@@ -48,8 +49,8 @@ Table 7: Adverse Reactions Reported in ≥10% of Patients and With at Least a 5%
 | Back pain | 34 | 3 | <1 | 26 | 3 | <1 |
 | Muscle spasms | 29 | 1 | 0 | 22 | 1 | 0 |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |
-| Dyspnea Dyspnea, Dyspnea exertional | 32 | 3 | <1 | 20 | 1 | 0 |
-| Cough Cough, Productive cough | 30 | <1 | 0 | 18 | 0 | 0 |
+| DyspneaDyspnea, Dyspnea exertional | 32 | 3 | <1 | 20 | 1 | 0 |
+| CoughCough, Productive cough | 30 | <1 | 0 | 18 | 0 | 0 |
 | Nervous system disorders |  |  |  |  |  |  |
 | Peripheral sensory neuropathy | 24 | 1 | 0 | 15 | 0 | 0 |
 | Headache | 19 | 1 | 0 | 11 | 0 | 0 |
@@ -59,7 +60,7 @@ Table 7: Adverse Reactions Reported in ≥10% of Patients and With at Least a 5%
 | Hyperglycemia | 14 | 6 | 1 | 8 | 3 | 1 |
 | Hypocalcemia | 14 | 1 | <1 | 9 | 1 | 1 |
 | Vascular disorders |  |  |  |  |  |  |
-| Hypertension Blood pressure increased, Hypertension | 13 | 6 | <1 | 7 | 4 | 0 |
+| HypertensionBlood pressure increased, Hypertension | 13 | 6 | <1 | 7 | 4 | 0 |
 | Key: D=daratumumab, Rd=lenalidomide-dexamethasone. |  |  |  |  |  |  |
 
 Laboratory abnormalities worsening during treatment from baseline listed in Table 8.
@@ -89,16 +90,16 @@ Table 9: Adverse Reactions Reported in ≥10% of Patients and With at Least a 5%
 | --- | --- | --- | --- | --- | --- | --- |
 | Body System Adverse Reaction | D-VMP (N=346) |  |  | VMP (N=354) |  |  |
 | Infections |  |  |  |  |  |  |
-| Upper respiratory tract infection upper respiratory tract infection, bronchitis, bronchitis bacterial, epiglottitis, laryngitis, laryngitis bacterial, metapneumovirus infection, nasopharyngitis, oropharyngeal candidiasis, pharyngitis, pharyngitis streptococcal, respiratory syncytial virus infection, respiratory tract infection, respiratory tract infection viral, rhinitis, sinusitis, tonsillitis, tracheitis, tracheobronchitis, viral pharyngitis, viral rhinitis, viral upper respiratory tract infection | 48 | 5 | 0 | 28 | 3 | 0 |
-| Pneumonia pneumonia, lung infection, pneumonia aspiration, pneumonia bacterial, pneumonia pneumococcal, pneumonia streptococcal, pneumonia viral, and pulmonary sepsis | 16 | 12 | < 1 | 6 | 5 | < 1 |
+| Upper respiratory tract infectionupper respiratory tract infection, bronchitis, bronchitis bacterial, epiglottitis, laryngitis, laryngitis bacterial, metapneumovirus infection, nasopharyngitis, oropharyngeal candidiasis, pharyngitis, pharyngitis streptococcal, respiratory syncytial virus infection, respiratory tract infection, respiratory tract infection viral, rhinitis, sinusitis, tonsillitis, tracheitis, tracheobronchitis, viral pharyngitis, viral rhinitis, viral upper respiratory tract infection | 48 | 5 | 0 | 28 | 3 | 0 |
+| Pneumoniapneumonia, lung infection, pneumonia aspiration, pneumonia bacterial, pneumonia pneumococcal, pneumonia streptococcal, pneumonia viral, and pulmonary sepsis | 16 | 12 | < 1 | 6 | 5 | < 1 |
 | General disorders and administration site conditions |  |  |  |  |  |  |
-| Infusion-related reactions Infusion-related reaction includes terms determined by investigators to be related to infusion | 28 | 4 | 1 | 0 | 0 | 0 |
-| Peripheral edema edema peripheral, generalized edema, peripheral swelling | 21 | 1 | < 1 | 14 | 1 | 0 |
+| Infusion-related reactionsInfusion-related reaction includes terms determined by investigators to be related to infusion | 28 | 4 | 1 | 0 | 0 | 0 |
+| Peripheral edemaedema peripheral, generalized edema, peripheral swelling | 21 | 1 | < 1 | 14 | 1 | 0 |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |
-| Cough cough, productive cough | 16 | < 1 | 0 | 8 | < 1 | 0 |
-| Dyspnea dyspnea, dyspnea exertional | 13 | 2 | 1 | 5 | 1 | 0 |
+| Coughcough, productive cough | 16 | < 1 | 0 | 8 | < 1 | 0 |
+| Dyspneadyspnea, dyspnea exertional | 13 | 2 | 1 | 5 | 1 | 0 |
 | Vascular disorders |  |  |  |  |  |  |
-| Hypertension hypertension, blood pressure increased | 10 | 4 | < 1 | 3 | 2 | 0 |
+| Hypertensionhypertension, blood pressure increased | 10 | 4 | < 1 | 3 | 2 | 0 |
 | Key: D=daratumumab, VMP=bortezomib-melphalan-prednisone. |  |  |  |  |  |  |
 
 Laboratory abnormalities worsening during treatment from baseline listed in Table 10.
@@ -130,16 +131,16 @@ Table 11: Adverse Reactions Reported in ≥ 10% of Patients and With at Least a 
 | --- | --- | --- | --- | --- | --- | --- |
 | Body System Adverse Reaction | DVTd (N=536) |  |  | VTd (N=538) |  |  |
 | General disorders and administration site conditions |  |  |  |  |  |  |
-| Infusion-related reactions Infusion-related reaction includes terms determined by investigators to be related to infusion | 35 | 3 | <1 | 0 | 0 | 0 |
+| Infusion-related reactionsInfusion-related reaction includes terms determined by investigators to be related to infusion | 35 | 3 | <1 | 0 | 0 | 0 |
 | Pyrexia | 26 | 2 | <1 | 21 | 2 | 0 |
 | Gastrointestinal disorders |  |  |  |  |  |  |
 | Nausea | 30 | 4 | 0 | 24 | 2 | <1 |
 | Vomiting | 16 | 2 | 0 | 10 | 2 | 0 |
 | Infections |  |  |  |  |  |  |
-| Upper respiratory tract infection Laryngitis, Laryngitis viral, Metapneumovirus infection, Nasopharyngitis, Oropharyngeal candidiasis, Pharyngitis, Respiratory syncytial virus infection, Respiratory tract infection, Respiratory tract infection viral, Rhinitis, Rhinovirus infection, Sinusitis, Tonsillitis, Tracheitis, Upper respiratory tract infection, Viral pharyngitis, Viral rhinitis, Viral upper respiratory tract infection | 27 | 1 | 0 | 17 | 1 | 0 |
-| Bronchitis Bronchiolitis, Bronchitis, Bronchitis chronic, Respiratory syncytial virus bronchitis, Tracheobronchitis | 20 | 1 | 0 | 13 | 1 | 0 |
+| Upper respiratory tract infectionLaryngitis, Laryngitis viral, Metapneumovirus infection, Nasopharyngitis, Oropharyngeal candidiasis, Pharyngitis, Respiratory syncytial virus infection, Respiratory tract infection, Respiratory tract infection viral, Rhinitis, Rhinovirus infection, Sinusitis, Tonsillitis, Tracheitis, Upper respiratory tract infection, Viral pharyngitis, Viral rhinitis, Viral upper respiratory tract infection | 27 | 1 | 0 | 17 | 1 | 0 |
+| BronchitisBronchiolitis, Bronchitis, Bronchitis chronic, Respiratory syncytial virus bronchitis, Tracheobronchitis | 20 | 1 | 0 | 13 | 1 | 0 |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |
-| Cough Cough, Productive cough | 17 | 0 | 0 | 9 | 0 | 0 |
+| CoughCough, Productive cough | 17 | 0 | 0 | 9 | 0 | 0 |
 | Vascular disorders |  |  |  |  |  |  |
 | Hypertension | 10 | 4 | 0 | 5 | 2 | 0 |
 | Key: D=daratumumab, VTd=bortezomib-thalidomide -dexamethasone. Note: Hematology laboratory related toxicities were excluded and reported separately in the table below. |  |  |  |  |  |  |
@@ -174,9 +175,9 @@ Table 13: Adverse Reactions Reported in ≥ 10% of Patients and With at Least a 
 | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Reaction | DRd (N=283) |  |  | Rd (N=281) |  |  |
 | Infections |  |  |  |  |  |  |
-| Upper respiratory tract infection upper respiratory tract infection, bronchitis, sinusitis, respiratory tract infection viral, rhinitis, pharyngitis, respiratory tract infection, metapneumovirus infection, tracheobronchitis, viral upper respiratory tract infection, laryngitis, respiratory syncytial virus infection, staphylococcal pharyngitis, tonsillitis, viral pharyngitis, acute sinusitis, nasopharyngitis, bronchiolitis, bronchitis viral, pharyngitis streptococcal, tracheitis, upper respiratory tract infection bacterial, bronchitis bacterial, epiglottitis, laryngitis viral, oropharyngeal candidiasis, respiratory moniliasis, viral rhinitis, acute tonsillitis, rhinovirus infection | 65 | 6 | < 1 | 51 | 4 | 0 |
+| Upper respiratory tract infectionupper respiratory tract infection, bronchitis, sinusitis, respiratory tract infection viral, rhinitis, pharyngitis, respiratory tract infection, metapneumovirus infection, tracheobronchitis, viral upper respiratory tract infection, laryngitis, respiratory syncytial virus infection, staphylococcal pharyngitis, tonsillitis, viral pharyngitis, acute sinusitis, nasopharyngitis, bronchiolitis, bronchitis viral, pharyngitis streptococcal, tracheitis, upper respiratory tract infection bacterial, bronchitis bacterial, epiglottitis, laryngitis viral, oropharyngeal candidiasis, respiratory moniliasis, viral rhinitis, acute tonsillitis, rhinovirus infection | 65 | 6 | < 1 | 51 | 4 | 0 |
 | General disorders and administration site conditions |  |  |  |  |  |  |
-| Infusion-related reactions Infusion-related reaction includes terms determined by investigators to be related to infusion | 48 | 5 | 0 | 0 | 0 | 0 |
+| Infusion-related reactionsInfusion-related reaction includes terms determined by investigators to be related to infusion | 48 | 5 | 0 | 0 | 0 | 0 |
 | Fatigue | 35 | 6 | < 1 | 28 | 2 | 0 |
 | Pyrexia | 20 | 2 | 0 | 11 | 1 | 0 |
 | Gastrointestinal disorders |  |  |  |  |  |  |
@@ -184,8 +185,8 @@ Table 13: Adverse Reactions Reported in ≥ 10% of Patients and With at Least a 
 | Nausea | 24 | 1 | 0 | 14 | 0 | 0 |
 | Vomiting | 17 | 1 | 0 | 5 | 1 | 0 |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |
-| Cough cough, productive cough, allergic cough | 30 | 0 | 0 | 15 | 0 | 0 |
-| Dyspnea dyspnea, dyspnea exertional | 21 | 3 | < 1 | 12 | 1 | 0 |
+| Coughcough, productive cough, allergic cough | 30 | 0 | 0 | 15 | 0 | 0 |
+| Dyspneadyspnea, dyspnea exertional | 21 | 3 | < 1 | 12 | 1 | 0 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |  |  |
 | Muscle spasms | 26 | 1 | 0 | 19 | 2 | 0 |
 | Nervous system disorders |  |  |  |  |  |  |
@@ -223,17 +224,17 @@ Table 15: Adverse Reactions Reported in ≥10% of Patients and With at Least a 5
 | Nervous system disorders |  |  |  |  |  |  |
 | Peripheral sensory neuropathy | 47 | 5 | 0 | 38 | 6 | < 1 |
 | General disorders and administration site conditions |  |  |  |  |  |  |
-| Infusion-related reactions Infusion-related reaction includes terms determined by investigators to be related to infusion | 45 | 9 | 0 | 0 | 0 | 0 |
-| Peripheral edema edema peripheral, edema, generalized edema, peripheral swelling | 22 | 1 | 0 | 13 | 0 | 0 |
+| Infusion-related reactionsInfusion-related reaction includes terms determined by investigators to be related to infusion | 45 | 9 | 0 | 0 | 0 | 0 |
+| Peripheral edemaedema peripheral, edema, generalized edema, peripheral swelling | 22 | 1 | 0 | 13 | 0 | 0 |
 | Pyrexia | 16 | 1 | 0 | 11 | 1 | 0 |
 | Infections |  |  |  |  |  |  |
-| Upper respiratory tract infection upper respiratory tract infection, bronchitis, sinusitis, respiratory tract infection viral, rhinitis, pharyngitis, respiratory tract infection, metapneumovirus infection, tracheobronchitis, viral upper respiratory tract infection, laryngitis, respiratory syncytial virus infection, staphylococcal pharyngitis, tonsillitis, viral pharyngitis, acute sinusitis, nasopharyngitis, bronchiolitis, bronchitis viral, pharyngitis streptococcal, tracheitis, upper respiratory tract infection bacterial, bronchitis bacterial, epiglottitis, laryngitis viral, oropharyngeal candidiasis, respiratory moniliasis, viral rhinitis, acute tonsillitis, rhinovirus infection | 44 | 6 | 0 | 30 | 3 | < 1 |
+| Upper respiratory tract infectionupper respiratory tract infection, bronchitis, sinusitis, respiratory tract infection viral, rhinitis, pharyngitis, respiratory tract infection, metapneumovirus infection, tracheobronchitis, viral upper respiratory tract infection, laryngitis, respiratory syncytial virus infection, staphylococcal pharyngitis, tonsillitis, viral pharyngitis, acute sinusitis, nasopharyngitis, bronchiolitis, bronchitis viral, pharyngitis streptococcal, tracheitis, upper respiratory tract infection bacterial, bronchitis bacterial, epiglottitis, laryngitis viral, oropharyngeal candidiasis, respiratory moniliasis, viral rhinitis, acute tonsillitis, rhinovirus infection | 44 | 6 | 0 | 30 | 3 | < 1 |
 | Gastrointestinal disorders |  |  |  |  |  |  |
 | Diarrhea | 32 | 3 | < 1 | 22 | 1 | 0 |
 | Vomiting | 11 | 0 | 0 | 4 | 0 | 0 |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |
-| Cough cough, productive cough, allergic cough | 27 | 0 | 0 | 14 | 0 | 0 |
-| Dyspnea dyspnea, dyspnea exertional | 21 | 4 | 0 | 11 | 1 | 0 |
+| Coughcough, productive cough, allergic cough | 27 | 0 | 0 | 14 | 0 | 0 |
+| Dyspneadyspnea, dyspnea exertional | 21 | 4 | 0 | 11 | 1 | 0 |
 | Key: D=daratumumab, Vd=bortezomib-dexamethasone. |  |  |  |  |  |  |
 
 Laboratory abnormalities worsening during treatment are listed in Table 16.
@@ -249,7 +250,7 @@ Table 16: Treatment-Emergent Hematology Laboratory Abnormalities in CASTOR
 | Anemia | 48 | 13 | 0 | 56 | 14 | 0 |
 | Key: D=daratumumab, Vd=bortezomib-dexamethasone. |  |  |  |  |  |  |
 
-Combination Treatment with Twice-Weekly (20/56 mg/m 2) Carfilzomib and Dexamethasone
+Combination Treatment with Twice-Weekly (20/56 mg/m2) Carfilzomib and Dexamethasone
 
 The safety of DARZALEX in combination with twice weekly carfilzomib and dexamethasone was evaluated in CANDOR [see Clinical Studies (14.2)].
 Adverse reactions described in Table 17 reflect exposure to DARZALEX for a median treatment duration of 16.1 months (range: 0.1 to 23.7 months) for the daratumumab-carfilzomib-dexamethasone (DKd) group and median treatment duration of 9.3 months (range: 0.1 to 22.4 months) for the carfilzomib-dexamethasone group (Kd).
@@ -271,23 +272,23 @@ Table 17: Adverse Reactions (≥15%) in Patients Who Received DARZALEX in Combin
 | Adverse Reaction | DKd (N=308) |  | Kd (N=153) |  |
 | All Grades | Grades 3 or 4 | All Grades | Grades 3 or 4 |  |
 | General Disorders and Administration Site Conditions |  |  |  |  |
-| Infusion-related reactions The incidence of infusion-related reactions is based on a group of symptoms (including hypertension, pyrexia, rash, myalgia, hypotension, blood pressure increased, urticaria, acute kidney injury, bronchospasm, face edema, hypersensitivity, rash, syncope, wheezing, eye pruritus, eyelid edema, renal failure, swelling face) related to infusion reactions which occurred within 1 day after DKd or Kd administration. | 41 | 12 | 28 | 5 |
-| Fatigue Fatigue includes fatigue and asthenia. | 32 | 11 | 28 | 8 |
+| Infusion-related reactionsThe incidence of infusion-related reactions is based on a group of symptoms (including hypertension, pyrexia, rash, myalgia, hypotension, blood pressure increased, urticaria, acute kidney injury, bronchospasm, face edema, hypersensitivity, rash, syncope, wheezing, eye pruritus, eyelid edema, renal failure, swelling face) related to infusion reactions which occurred within 1 day after DKd or Kd administration. | 41 | 12 | 28 | 5 |
+| FatigueFatigue includes fatigue and asthenia. | 32 | 11 | 28 | 8 |
 | Pyrexia | 20 | 1.9 | 15 | 0.7 |
 | Infections |  |  |  |  |
-| Respiratory tract infection Respiratory tract infection includes respiratory tract infection, lower respiratory tract infection, upper respiratory tract infection and viral upper respiratory tract infection. | 40 Includes fatal adverse reactions. | 7 | 29 | 3.3 |
+| Respiratory tract infectionRespiratory tract infection includes respiratory tract infection, lower respiratory tract infection, upper respiratory tract infection and viral upper respiratory tract infection. | 40Includes fatal adverse reactions. | 7 | 29 | 3.3 |
 | Pneumonia | 18 | 13 | 12 | 9 |
 | Bronchitis | 17 | 2.6 | 12 | 1.3 |
 | Blood and lymphatic system disorders |  |  |  |  |
-| Thrombocytopenia Thrombocytopenia includes platelet count decreased and thrombocytopenia. | 37 | 25 | 30 | 16 |
-| Anemia Anemia includes anemia, hematocrit decreased and hemoglobin decreased. | 33 | 17 | 31 | 14 |
+| ThrombocytopeniaThrombocytopenia includes platelet count decreased and thrombocytopenia. | 37 | 25 | 30 | 16 |
+| AnemiaAnemia includes anemia, hematocrit decreased and hemoglobin decreased. | 33 | 17 | 31 | 14 |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 32 | 3.9 | 14 | 0.7 |
 | Nausea | 18 | 0 | 13 | 0.7 |
 | Vascular Disorders |  |  |  |  |
 | Hypertension | 31 | 18 | 28 | 13 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
-| Cough Cough includes productive cough and cough. | 21 | 0 | 21 | 0 |
+| CoughCough includes productive cough and cough. | 21 | 0 | 21 | 0 |
 | Dyspnea | 20 | 3.9 | 22 | 2.6 |
 | Psychiatric disorders |  |  |  |  |
 | Insomnia | 18 | 3.9 | 11 | 2 |
@@ -308,7 +309,7 @@ Adverse Reactions Occurring at a Frequency of < 15%
 - Respiratory, thoracic and mediastinal disorders: pulmonary edema
 - Skin and subcutaneous tissue disorders: rash, pruritus
 
-Combination Treatment with Once-Weekly (20/70 mg/m 2) Carfilzomib and Dexamethasone
+Combination Treatment with Once-Weekly (20/70 mg/m2) Carfilzomib and Dexamethasone
 
 The safety of DARZALEX in combination with once-weekly carfilzomib and dexamethasone was evaluated in EQUULEUS [see Clinical Studies (14.2)].
 Adverse reactions described in Table 18 reflect exposure to DARZALEX for a median treatment duration of 19.8 months (range: 0.3 to 34.5 months).
@@ -329,16 +330,16 @@ Table 18: Adverse Reactions (≥15%) of Patients Who Received DARZALEX in Combin
 | --- | --- | --- |
 | Adverse Reaction | DKd (N=85) |  |
 | Blood and lymphatic system disorders |  |  |
-| Thrombocytopenia Thrombocytopenia includes platelet count decreased and thrombocytopenia. | 68 | 32 |
-| Anemia Anemia includes anemia, hematocrit decreased and hemoglobin decreased. | 52 | 21 |
-| Neutropenia Neutropenia includes neutrophil count decreased and neutropenia. | 31 | 21 |
-| Lymphopenia Lymphopenia includes lymphocyte count decreased and lymphopenia | 29 | 25 |
+| ThrombocytopeniaThrombocytopenia includes platelet count decreased and thrombocytopenia. | 68 | 32 |
+| AnemiaAnemia includes anemia, hematocrit decreased and hemoglobin decreased. | 52 | 21 |
+| NeutropeniaNeutropenia includes neutrophil count decreased and neutropenia. | 31 | 21 |
+| LymphopeniaLymphopenia includes lymphocyte count decreased and lymphopenia | 29 | 25 |
 | General disorder and administration site conditions |  |  |
-| Fatigue Fatigue includes fatigue and asthenia. | 54 | 18 |
-| Infusion-related reactions The incidence of infusion-related reactions is based on a group of symptoms (including hypertension, pyrexia, rash, myalgia, hypotension, blood pressure increased, urticaria, acute kidney injury, bronchospasm, face edema, hypersensitivity, rash, syncope, wheezing, eye pruritus, eyelid edema, renal failure, swelling face) related to infusion reactions which occurred within 1 day after DKd administration. | 53 | 12 |
+| FatigueFatigue includes fatigue and asthenia. | 54 | 18 |
+| Infusion-related reactionsThe incidence of infusion-related reactions is based on a group of symptoms (including hypertension, pyrexia, rash, myalgia, hypotension, blood pressure increased, urticaria, acute kidney injury, bronchospasm, face edema, hypersensitivity, rash, syncope, wheezing, eye pruritus, eyelid edema, renal failure, swelling face) related to infusion reactions which occurred within 1 day after DKd administration. | 53 | 12 |
 | Pyrexia | 37 | 1.2 |
 | Infections |  |  |
-| Respiratory tract infection Respiratory tract infection includes respiratory tract infection, lower respiratory tract infection, upper respiratory tract infection and viral upper respiratory tract infection. | 53 | 3.5 |
+| Respiratory tract infectionRespiratory tract infection includes respiratory tract infection, lower respiratory tract infection, upper respiratory tract infection and viral upper respiratory tract infection. | 53 | 3.5 |
 | Bronchitis | 19 | 0 |
 | Nasopharyngitis | 18 | 0 |
 | Influenza | 17 | 3.5 |
@@ -349,7 +350,7 @@ Table 18: Adverse Reactions (≥15%) of Patients Who Received DARZALEX in Combin
 | Constipation | 17 | 0 |
 | Respiratory, thoracic and mediastinal disorders |  |  |
 | Dyspnea | 35 | 3.5 |
-| Cough Cough includes productive cough and cough. | 33 | 0 |
+| CoughCough includes productive cough and cough. | 33 | 0 |
 | Vascular disorders |  |  |
 | Hypertension | 33 | 20 |
 | Psychiatric disorders |  |  |
@@ -389,19 +390,19 @@ Table 19: Adverse Reactions With Incidence ≥10% Reported in EQUULEUS
 | Adverse Reaction | DPd (N=103) |  |  |
 | General disorders and administration site conditions |  |  |  |
 | Fatigue | 50 | 10 | 0 |
-| Infusion-related reactions Infusion-related reaction includes terms determined by investigators to be related to infusion | 50 | 4 | 0 |
+| Infusion-related reactionsInfusion-related reaction includes terms determined by investigators to be related to infusion | 50 | 4 | 0 |
 | Pyrexia | 25 | 1 | 0 |
 | Chills | 20 | 0 | 0 |
-| Edema peripheral edema, edema peripheral, peripheral swelling | 17 | 4 | 0 |
+| Edema peripheraledema, edema peripheral, peripheral swelling | 17 | 4 | 0 |
 | Asthenia | 15 | 0 | 0 |
 | Non-cardiac chest pain | 15 | 0 | 0 |
 | Pain | 11 | 0 | 0 |
 | Infections |  |  |  |
-| Upper respiratory tract infection acute tonsillitis, bronchitis, laryngitis, nasopharyngitis, pharyngitis, respiratory syncytial virus infection, rhinitis, sinusitis, tonsillitis, upper respiratory tract infection | 50 | 4 | 1 |
-| Pneumonia lung infection, pneumonia, pneumonia aspiration | 15 | 8 | 2 |
+| Upper respiratory tract infectionacute tonsillitis, bronchitis, laryngitis, nasopharyngitis, pharyngitis, respiratory syncytial virus infection, rhinitis, sinusitis, tonsillitis, upper respiratory tract infection | 50 | 4 | 1 |
+| Pneumonialung infection, pneumonia, pneumonia aspiration | 15 | 8 | 2 |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |
-| Cough cough, productive cough, allergic cough | 43 | 1 | 0 |
-| Dyspnea dyspnea, dyspnea exertional | 33 | 6 | 1 |
+| Coughcough, productive cough, allergic cough | 43 | 1 | 0 |
+| Dyspneadyspnea, dyspnea exertional | 33 | 6 | 1 |
 | Nasal congestion | 16 | 0 | 0 |
 | Gastrointestinal disorders |  |  |  |
 | Diarrhea | 38 | 3 | 0 |
@@ -462,7 +463,7 @@ Table 21: Adverse Reactions With Incidence ≥10% in Patients With Multiple Myel
 | --- | --- | --- | --- |
 | Adverse Reaction | DARZALEX (N=156) |  |  |
 | General disorders and administration site conditions |  |  |  |
-| Infusion-related reaction Infusion-related reaction includes terms determined by investigators to be related to infusion | 48 | 3 | 0 |
+| Infusion-related reactionInfusion-related reaction includes terms determined by investigators to be related to infusion | 48 | 3 | 0 |
 | Fatigue | 39 | 2 | 0 |
 | Pyrexia | 21 | 1 | 0 |
 | Chills | 10 | 0 | 0 |
@@ -483,7 +484,7 @@ Table 21: Adverse Reactions With Incidence ≥10% in Patients With Multiple Myel
 | Infections |  |  |  |
 | Upper respiratory tract infection | 20 | 1 | 0 |
 | Nasopharyngitis | 15 | 0 | 0 |
-| Pneumonia Pneumonia also includes the terms streptococcal pneumonia and lobar pneumonia. | 11 | 6 | 0 |
+| PneumoniaPneumonia also includes the terms streptococcal pneumonia and lobar pneumonia. | 11 | 6 | 0 |
 | Metabolism and nutrition disorders |  |  |  |
 | Decreased appetite | 15 | 1 | 0 |
 | Nervous system disorders |  |  |  |
@@ -506,24 +507,6 @@ Herpes Zoster Virus Reactivation
 Prophylaxis for Herpes Zoster Virus reactivation was recommended for patients in some clinical trials of DARZALEX.
 In monotherapy studies, herpes zoster was reported in 3% of patients.
 In the combination therapy studies, herpes zoster was reported in 2–5% of patients receiving DARZALEX.
-
-Infections
-
-Grade 3 or 4 infections were reported as follows:
-
-- Relapsed/refractory patient studies: DVd: 21% vs. Vd: 19%; DRd: 28% vs. Rd: 23%; DPd: 28%; DKd where carfilzomib 20/56 mg/m2 was administered twice-weekly: 37%, Kd: 29%; DKd where carfilzomib 20/70 mg/m2 was administered once-weekly: 21%
-- Newly diagnosed patient studies: D-VMP: 23%, VMP: 15%; DRd: 32%, Rd: 23%; DVTd: 22%; VTd: 20%.
-
-Pneumonia was the most commonly reported severe (Grade 3 or 4) infection across studies.
-In active controlled studies, discontinuations from treatment due to infections occurred in 1–4% of patients.
-
-Fatal infections (Grade 5) were reported as follows:
-
-- Relapsed/refractory patient studies: DVd: 1%, Vd: 2%; DRd: 2%, Rd: 1%; DPd: 2%; DKd: 5%, Kd: 3%; DKd: 0%
-- Newly diagnosed patient studies: D-VMP: 1%, VMP: 1%; DRd: 2%, Rd: 2%; DVTd: 0%, VTd: 0%.
-
-Fatal infections were generally infrequent and balanced between the DARZALEX containing regimens and active control arms.
-Fatal infections were primarily due to pneumonia and sepsis.
 
 Hepatitis B Virus (HBV) Reactivation
 

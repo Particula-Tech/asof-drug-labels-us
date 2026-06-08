@@ -21,7 +21,7 @@ Efficacy was evaluated by progression free survival (PFS) based on International
 MAIA demonstrated an improvement in Progression Free Survival (PFS) in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 31.9 months in the Rd arm (hazard ratio [HR]=0.56; 95% CI: 0.43, 0.73; p<0.0001), representing 44% reduction in the risk of disease progression or death in patients treated with DRd.
 After a median follow-up of 64 months, the median PFS was 61.9 months (95% CI: 54.8, NE) in the DRd arm and 34.4 months (95% CI: 29.6, 39.2) in the Rd arm.
 
-| Figure 1: Kaplan-Meier Curve of PFS in MAIA PFS median follow-up of 28 months |
+| Figure 1: Kaplan-Meier Curve of PFS in MAIAPFS median follow-up of 28 months |
 | --- |
 
 After a median follow-up of 56 months, MAIA demonstrated an improvement in overall survival (OS) in the DRd arm as compared to the Rd arm (HR=0.68; 95% CI: 0.53, 0.86; p=0.0013), representing a 32% reduction in the risk of death in patients treated in the DRd arm.
@@ -34,12 +34,12 @@ After a median follow-up of 89 months, the median OS was 90.3 months (95% CI: 80
 
 Additional efficacy results from MAIA are presented in Table 23.
 
-Table 23: Additional Efficacy Results From MAIA Based on intent-to-treat population.
+Table 23: Additional Efficacy Results From MAIABased on intent-to-treat population.
 
 |  | DRd (N=368) | Rd (N=369) |
 | --- | --- | --- |
 | Overall response (sCR+CR+VGPR+PR) n(%) | 342 (92.9%) | 300 (81.3%) |
-| p-value p-value from Cochran Mantel-Haenszel Chi-Squared test. | <0.0001 |  |
+| p-valuep-value from Cochran Mantel-Haenszel Chi-Squared test. | <0.0001 |  |
 | Stringent complete response (sCR) | 112 (30.4%) | 46 (12.5%) |
 | Complete response (CR) | 63 (17.1%) | 46 (12.5%) |
 | Very good partial response (VGPR) | 117 (31.8%) | 104 (28.2%) |
@@ -48,9 +48,9 @@ Table 23: Additional Efficacy Results From MAIA Based on intent-to-treat populat
 | p-value | <0.0001 |  |
 | VGPR or better (sCR + CR + VGPR) | 292 (79.3%) | 196 (53.1%) |
 | p-value | <0.0001 |  |
-| MRD negativity rate,Based on threshold of 10-5 using a next-generation sequencing assay (clonoSEQ).n(%) | 89 (24.2%) | 27 (7.3%) |
+| MRD negativity rate, Based on threshold of 10-5 using a next-generation sequencing assay (clonoSEQ). n(%) | 89 (24.2%) | 27 (7.3%) |
 | 95% CI (%) | (19.9%, 28.9%) | (4.9%, 10.5%) |
-| p-value p-value from Fisherʼs exact test. | <0.0001 |  |
+| p-valuep-value from Fisherʼs exact test. | <0.0001 |  |
 | MRD negativity rate in patients with CR or better |  |  |
 | Number of patients with CR or better | N=175 | N=92 |
 | MRD negativity rate n(%) | 89 (50.9%) | 27 (29.3%) |
@@ -63,8 +63,8 @@ The median duration of response had not been reached in the DRd group and was 34
 Combination Treatment with Bortezomib, Melphalan and Prednisone (VMP) in Patients Ineligible for Autologous Stem Cell Transplant
 
 ALCYONE (NCT02195479), an open-label, randomized, active-controlled trial, compared treatment with DARZALEX 16 mg/kg in combination with bortezomib, melphalan and prednisone (D-VMP), to treatment with VMP in patients with newly diagnosed multiple myeloma ineligible for autologous stem cell transplant.
-Bortezomib was administered by subcutaneous (SC) injection at a dose of 1.3 mg/m 2 body surface area twice weekly at Weeks 1, 2, 4 and 5 for the first 6-week cycle (Cycle 1; 8 doses), followed by once weekly administrations at Weeks 1, 2, 4 and 5 for eight more 6-week cycles (Cycles 2–9; 4 doses per cycle).
-Melphalan at 9 mg/m 2, and prednisone at 60 mg/m 2 were orally administered on Days 1 to 4 of the nine 6-week cycles (Cycles 1–9).
+Bortezomib was administered by subcutaneous (SC) injection at a dose of 1.3 mg/m2 body surface area twice weekly at Weeks 1, 2, 4 and 5 for the first 6-week cycle (Cycle 1; 8 doses), followed by once weekly administrations at Weeks 1, 2, 4 and 5 for eight more 6-week cycles (Cycles 2–9; 4 doses per cycle).
+Melphalan at 9 mg/m2, and prednisone at 60 mg/m2 were orally administered on Days 1 to 4 of the nine 6-week cycles (Cycles 1–9).
 DARZALEX was continued until disease progression or unacceptable toxicity.
 
 A total of 706 patients were randomized: 350 to the D-VMP arm and 356 to the VMP arm.
@@ -85,7 +85,7 @@ Median OS had not been reached for either arm.
 
 After a median follow-up of 87 months, the median OS was 83 months (95% CI: 72.5, NE) in the D-VMP arm and 53.6 months (95% CI: 46.3, 60.9) in the VMP arm.
 
-| Figure 4: Kaplan-Meier Curve of OS in ALCYONE OS median follow-up of 40 months |
+| Figure 4: Kaplan-Meier Curve of OS in ALCYONEOS median follow-up of 40 months |
 | --- |
 
 Additional efficacy results from ALCYONE are presented in Table 24.
@@ -94,15 +94,15 @@ Table 24: Additional Efficacy Results From ALCYONE
 
 |  | D-VMP (N=350) | VMP (N=356) |
 | --- | --- | --- |
-| Overall response (sCR+CR+VGPR+PR) n(%) Based on intent-to-treat population | 318 (90.9%) | 263 (73.9%) |
-| p-value p-value from Cochran Mantel-Haenszel Chi-Squared test. | <0.0001 |  |
+| Overall response (sCR+CR+VGPR+PR) n(%)Based on intent-to-treat population | 318 (90.9%) | 263 (73.9%) |
+| p-valuep-value from Cochran Mantel-Haenszel Chi-Squared test. | <0.0001 |  |
 | Stringent complete response (sCR) | 63 (18.0%) | 25 (7.0%) |
 | Complete response (CR) | 86 (24.6%) | 62 (17.4%) |
 | Very good partial response (VGPR) | 100 (28.6%) | 90 (25.3%) |
 | Partial response (PR) | 69 (19.7%) | 86 (24.2%) |
-| MRD negativity rate,Based on threshold of 10-5 using a next-generation sequencing assay (clonoSEQ). n(%) | 78 (22.3%) | 22 (6.2%) |
+| MRD negativity rate, Based on threshold of 10-5 using a next-generation sequencing assay (clonoSEQ). n(%) | 78 (22.3%) | 22 (6.2%) |
 | 95% CI (%) | (18.0, 27.0) | (3.9, 9.2) |
-| p-value p-value from Fisher's exact test. | <0.0001 |  |
+| p-valuep-value from Fisher's exact test. | <0.0001 |  |
 | MRD negativity rate in patients with CR or better |  |  |
 | Number of patients with CR or better | N=149 | N=87 |
 | MRD negativity rate n(%) | 74 (49.7%) | 22 (25.3%) |
@@ -117,7 +117,7 @@ Combination Treatment with Bortezomib, Thalidomide and Dexamethasone in Patients
 CASSIOPEIA (NCT02541383), an open-label, randomized, active-controlled trial compared induction and consolidation treatment with DARZALEX 16 mg/kg in combination with bortezomib, thalidomide and dexamethasone (DVTd) to treatment with bortezomib, thalidomide and dexamethasone (VTd) in patients with newly diagnosed multiple myeloma eligible for ASCT.
 The consolidation phase of treatment began a minimum of 30 days post-ASCT, when the patient had recovered sufficiently, and engraftment was complete.
 The trial was limited to patients 65 years of age and younger.
-Bortezomib was administered by subcutaneous (SC) injection or intravenous (IV) injection at a dose of 1.3 mg/m 2body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 28-day (4-week) induction treatment cycles (Cycles 1–4) and two consolidation cycles (Cycles 5 and 6) following ASCT after Cycle 4.
+Bortezomib was administered by subcutaneous (SC) injection or intravenous (IV) injection at a dose of 1.3 mg/m2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 28-day (4-week) induction treatment cycles (Cycles 1–4) and two consolidation cycles (Cycles 5 and 6) following ASCT after Cycle 4.
 Thalidomide was administered orally at 100 mg daily during the six bortezomib cycles.
 Dexamethasone (oral or intravenous) was administered at 40 mg on Days 1, 2, 8, 9, 15, 16, 22 and 23 of Cycles 1 and 2, and at 40 mg on Days 1–2 and 20 mg on subsequent dosing days (Days 8, 9, 15, 16) of Cycles 3–4.
 Dexamethasone 20 mg was administered on Days 1, 2, 8, 9, 15, 16 in Cycles 5 and 6.
@@ -135,9 +135,9 @@ Table 25: Efficacy Results From CASSIOPEIA at Day 100 Post-Transplant
 
 |  | DVTd (N=543) | VTd (N=542) |
 | --- | --- | --- |
-| Overall response (sCR+CR+VGPR+PR) n(%) Based on intent-to-treat population | 503 (92.6%) | 487 (89.9%) |
+| Overall response (sCR+CR+VGPR+PR) n(%)Based on intent-to-treat population | 503 (92.6%) | 487 (89.9%) |
 | Stringent complete response (sCR) | 157 (28.9%) | 110 (20.3%) |
-| p-value p-value from Cochran Mantel-Haenszel Chi-Squared test. | 0.0010 |  |
+| p-valuep-value from Cochran Mantel-Haenszel Chi-Squared test. | 0.0010 |  |
 | Complete response (CR) | 54 (9.9%) | 31 (5.7%) |
 | Very good partial response (VGPR) | 242 (44.6%) | 282 (52.0%) |
 | Partial response (PR) | 50 (9.2%) | 64 (11.8%) |
@@ -183,12 +183,12 @@ Figure 7: Kaplan-Meier Curve of OS in POLLUX
 
 Additional efficacy results from POLLUX are presented in Table 26.
 
-Table 26: Additional Efficacy Results From POLLUX Based on Intent-to-treat population
+Table 26: Additional Efficacy Results From POLLUXBased on Intent-to-treat population
 
 |  | DRd (N=286) | Rd (N=283) |
 | --- | --- | --- |
 | Overall response (sCR+CR+VGPR+PR) | 261 (91.3%) | 211 (74.6%) |
-| p-value p-value from Cochran Mantel-Haenszel Chi-Squared test. | <0.0001 |  |
+| p-valuep-value from Cochran Mantel-Haenszel Chi-Squared test. | <0.0001 |  |
 | Stringent complete response (sCR) | 51 (17.8%) | 20 (7.1%) |
 | Complete response (CR) | 70 (24.5%) | 33 (11.7%) |
 | Very good partial response (VGPR) | 92 (32.2%) | 69 (24.4%) |
@@ -201,7 +201,7 @@ The median duration of response had not been reached in the DRd group (range: 1+
 Combination Treatment with Bortezomib and Dexamethasone
 
 CASTOR (NCT02136134), an open-label, randomized, active-controlled Phase 3 trial, compared treatment with DARZALEX 16 mg/kg in combination with bortezomib and dexamethasone (DVd), to treatment with bortezomib and dexamethasone (Vd) in patients with multiple myeloma who had received at least one prior therapy.
-Bortezomib was administered by SC injection or IV injection at a dose of 1.3 mg/m 2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 21 day (3-week) treatment cycles, for a total of 8 cycles.
+Bortezomib was administered by SC injection or IV injection at a dose of 1.3 mg/m2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 21 day (3-week) treatment cycles, for a total of 8 cycles.
 Dexamethasone was administered orally at a dose of 20 mg on Days 1, 2, 4, 5, 8, 9, 11, and 12 of each of the 8 bortezomib cycles (80 mg/week for two out of three weeks of the bortezomib cycle) or a reduced dose of 20 mg/week for patients >75 years, BMI <18.5, poorly controlled diabetes mellitus or prior intolerance to steroid therapy.
 On the days of DARZALEX infusion, 20 mg of the dexamethasone dose was administered as a pre-infusion medication.
 For patients on a reduced dexamethasone dose, the entire 20 mg dose was given as a DARZALEX pre-infusion medication.
@@ -231,12 +231,12 @@ Figure 9: Kaplan-Meier Curve of OS in CASTOR
 
 Additional efficacy results from CASTOR are presented in Table 27.
 
-Table 27: Additional Efficacy Results From CASTOR Based on Intent-to-treat population
+Table 27: Additional Efficacy Results From CASTORBased on Intent-to-treat population
 
 |  | DVd (N=251) | Vd (N=247) |
 | --- | --- | --- |
 | Overall response (sCR+CR+VGPR+PR) | 199 (79.3%) | 148 (59.9%) |
-| P-value p-value from Cochran Mantel-Haenszel Chi-Squared test. | <0.0001 |  |
+| P-valuep-value from Cochran Mantel-Haenszel Chi-Squared test. | <0.0001 |  |
 | Stringent complete response (sCR) | 11 (4.4%) | 5 (2.0%) |
 | Complete response (CR) | 35 (13.9%) | 16 (6.5%) |
 | Very good partial response (VGPR) | 96 (38.2%) | 47 (19.0%) |
@@ -246,7 +246,7 @@ Table 27: Additional Efficacy Results From CASTOR Based on Intent-to-treat popul
 In responders, the median time to response was 0.8 months (range: 0.7 to 4 months) in the DVd group and 1.5 months (range: 0.7 to 5 months) in the Vd group.
 The median duration of response had not been reached in the DVd group (range: 1.4+ to 14.1+ months) and was 7.9 months (1.4+ to 12+ months) in the Vd group.
 
-Combination Treatment with Twice-Weekly (20/56 mg/m 2) Carfilzomib and Dexamethasone
+Combination Treatment with Twice-Weekly (20/56 mg/m2) Carfilzomib and Dexamethasone
 
 CANDOR (NCT03158688) was a randomized, open-label, multicenter trial which evaluated the combination of DARZALEX with twice-weekly carfilzomib and dexamethasone (DKd) versus twice-weekly carfilzomib and dexamethasone (Kd) in patients with relapsed or refractory multiple myeloma who had received at least 1 to 3 prior lines of therapy.
 Patients who had the following were excluded from the trial: known moderate or severe persistent asthma within the past 2 years, known chronic obstructive pulmonary disease (COPD) with a FEV1 <50% of predicted normal, and active congestive heart failure.
@@ -254,7 +254,7 @@ Randomization was stratified by the ISS (stage 1 or 2 vs stage 3) at screening, 
 
 DARZALEX was administered intravenously at a dose of 8 mg/kg in Cycle 1 on Days 1 and 2.
 Thereafter, DARZALEX was administered intravenously at a dose of 16 mg/kg on Days 8, 15 and 22 of Cycle 1; Days 1, 8 and 15 and 22 of Cycle 2; Days 1 and 15 of Cycles 3 to 6; and Day 1 of each 28-day cycle until disease progression.
-Carfilzomib was administered intravenously at a dose of 20 mg/m 2in Cycle 1 on Days 1 and 2; at a dose of 56 mg/m 2 in Cycle 1 on Days 8, 9, 15, and 16; and at a dose 56 mg/m 2 on Days 1, 2, 8, 9, 15, and 16 of each 28-day cycle thereafter.
+Carfilzomib was administered intravenously at a dose of 20 mg/m2 in Cycle 1 on Days 1 and 2; at a dose of 56 mg/m2 in Cycle 1 on Days 8, 9, 15, and 16; and at a dose 56 mg/m2 on Days 1, 2, 8, 9, 15, and 16 of each 28-day cycle thereafter.
 Dexamethasone 20 mg was administered orally or intravenously on Days 1, 2, 8, 9, 15 and 16 and then 40 mg orally or intravenously on Day 22 of each 28-day cycle.
 For patients >75 years on a reduced dexamethasone dose of 20 mg, the entire 20 mg dose was given as a DARZALEX pre-infusion medication on days when DARZALEX was administered.
 Dosing of dexamethasone was otherwise split across days when carfilzomib was administered in both study arms.
@@ -281,27 +281,27 @@ Table 28: Additional Efficacy Results From CANDOR (Intent-to-Treat Population)
 | --- | --- | --- |
 | Overall response (sCR+CR+VGPR+PR) n(%) | 263 (84%) | 115 (75%) |
 | 95% CI (%) | (80, 88) | (67, 81) |
-| p-value p-value from the stratified Cochran Mantel-Haenszel Chi-Squared test(1-sided) | 0.0040 |  |
+| p-valuep-value from the stratified Cochran Mantel-Haenszel Chi-Squared test(1-sided) | 0.0040 |  |
 | Complete response (CR) | 89 (28%) | 16 (10%) |
 | Very good partial response (VGPR) | 127 (41%) | 59 (38%) |
 | Partial response (PR) | 47 (15%) | 40 (26%) |
-| MRD [-] CR rate at 12 months n(%) MRD[-]CR (at a 10-5 level) is defined as achievement of CR per IMWG-URC and MRD[-] status as assessed by the next-generation sequencing assay (ClonoSEQ). | 39 (12%) | 2 (1.3%) |
+| MRD [-] CR rate at 12 months n(%)MRD[-]CR (at a 10-5 level) is defined as achievement of CR per IMWG-URC and MRD[-] status as assessed by the next-generation sequencing assay (ClonoSEQ). | 39 (12%) | 2 (1.3%) |
 | 95% CI (%) | (9, 17) | (0.2, 4.6) |
-| p-value (1-sided) | <0.0001 |  |
+| p-value(1-sided) | <0.0001 |  |
 | MRD [-] CR | 43 (14%) | 5 (3.2%) |
 | DKd = daratumumab-carfilzomib-dexamethasone; Kd =carfilzomib-dexamethasone; MRD [-] CR=minimal residual disease; CI=confidence interval |  |  |
 
 The median time to response was 1 month (range: 1 to 14 months) in the DKd group and 1 month (range: 1 to 10 months) in the Kd group.
 The median duration of response had not been reached in the DKd group and was 16.6 months (95% CI: 13.9, not estimable) in the Kd group.
 
-Combination Treatment with Once-Weekly (20/70 mg/m 2) Carfilzomib and Dexamethasone
+Combination Treatment with Once-Weekly (20/70 mg/m2) Carfilzomib and Dexamethasone
 
 EQUULEUS (NCT01998971) was an open-label, multi-cohort trial which evaluated the combination of DARZALEX with one-weekly carfilzomib and dexamethasone in patients with relapsed or refractory multiple myeloma who had received at least 1 to 3 prior lines of therapy.
 Patients who had the following were excluded from the trial: known moderate or severe persistent asthma within the past 2 years, known chronic obstructive pulmonary disease (COPD) with a FEV1 <50% of predicted normal, or active congestive heart failure (defined as New York Heart Association Class III–IV).
 
 Ten patients were administered DARZALEX at a dose of 16 mg/kg intravenously on Cycle 1, Day 1 and the remaining patients were administered DARZALEX at a dose of 8 mg/kg intravenously on Cycle 1, Days 1 and 2.
 Thereafter, DARZALEX was administered intravenously at a dose of 16 mg/kg on Days 8, 15 and 22 of Cycle 1; Days 1, 8, 15 and 22 of Cycle 2; Days 1 and 15 of Cycles 3 to 6; and then Day 1 for the remaining cycles of each 28 day cycle.
-Carfilzomib was administered intravenously once weekly at a dose of 20 mg/m 2 on Cycle 1 Day 1 and escalated to dose of 70 mg/m 2 on Cycle 1 Days 8 and 15, and Days 1, 8, and 15 of each subsequent 28-day cycle.
+Carfilzomib was administered intravenously once weekly at a dose of 20 mg/m2 on Cycle 1 Day 1 and escalated to dose of 70 mg/m2 on Cycle 1 Days 8 and 15, and Days 1, 8, and 15 of each subsequent 28-day cycle.
 In Cycles 1 and 2, dexamethasone 20 mg was administered orally or intravenously on Days 1, 2, 8, 9, 15, 16, 22 and 23; in cycles 3 to 6, dexamethasone 20 mg was administered orally or intravenously on Days 1, 2, 15 and 16 and at a dose of 40 mg on Day 8 and 22; and in cycles 7 and thereafter, dexamethasone 20 mg was administered orally or intravenously on Days 1 and 2 and at a dose of 40 mg on Days 8, 15, and 22.
 For patients >75 years of age, dexamethasone 20 mg was administered orally or intravenously weekly after the first week.
 Treatment continued until disease progression or unacceptable toxicity.

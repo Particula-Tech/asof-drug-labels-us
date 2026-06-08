@@ -2,4 +2,4 @@ Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044, USA U.S. License Numbe
 
 For patent information: www.janssenpatents.com
 
-© 2015–2021 Janssen Pharmaceutical Companies
+© 2021 Janssen Pharmaceutical Companies
