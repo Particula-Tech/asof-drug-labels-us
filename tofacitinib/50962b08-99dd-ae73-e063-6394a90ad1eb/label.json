@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA215356"
+  ],
+  "inn": "tofacitinib",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-459-60",
+    "59651-460-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "tofacitinib",
+      "name": "TOFACITINIB"
+    }
+  ],
+  "setid": "50962b08-99dd-ae73-e063-6394a90ad1eb",
+  "source": "dailymed"
+}
