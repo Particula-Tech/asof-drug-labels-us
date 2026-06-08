@@ -160,9 +160,9 @@ Distributed by:
 
 Strides Pharma Inc.
 
-East Brunswick, NJ 08816
+Bridgewater, NJ 08807
 
-Revised: 12/2019
+Revised: 08/2025
 
 COMPLERA, DESCOVY, GENVOYA, HARVONI, HEPSERA, ODEFSEY, STRIBILD, TRUVADA, VEMLIDY and TENOFOVIR DISOPROXIL FUMARATE are registered trademarks of Gilead Sciences Inc., or its related companies.
 ATRIPLA is a registered trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.

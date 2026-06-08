@@ -34,7 +34,7 @@ Data through 144 weeks are reported for Trial 903, a double-blind, active-contro
 Subjects had a mean age of 36 years (range 18-64), 74% were male, 64% were Caucasian and 20% were Black.
 The mean baseline CD4+ cell count was 279 cells/mm3 (range 3-956) and median baseline plasma HIV-1 RNA was 77,600 copies/mL (range 417-5,130,000).
 Subjects were stratified by baseline HIV-1 RNA and CD4+ cell count.
-Forty-three percent of subjects had baseline viral loads >100,000 copies/mL and 39% had CD4+ cell counts <200 cells/mm3.
+Forty-three percent of subjects had baseline viral loads >100,000 copies/mL and 39% had CD4+cell counts <200 cells/mm3.
 Table 20 provides treatment outcomes through 48 and 144 weeks.
 
 Table 20 Outcomes of Randomized Treatment at Week 48 and 144 (Trial 903)
