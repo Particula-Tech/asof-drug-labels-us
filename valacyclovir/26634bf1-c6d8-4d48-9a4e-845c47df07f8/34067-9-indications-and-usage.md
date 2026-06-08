@@ -9,16 +9,16 @@ The efficacy of valacyclovir tablets initiated after the development of clinical
 
 Genital Herpes
 
-Initial Episode: Valacyclovir tablets are indicated for treatment of the initial episode of genital herpes in immunocompetent adults.
+Initial Episode:Valacyclovir tablets are indicated for treatment of the initial episode of genital herpes in immunocompetent adults.
 The efficacy of treatment with valacyclovir tablets when initiated more than 72 hours after the onset of signs and symptoms has not been established.
 
-Recurrent Episodes: Valacyclovir tablets are indicated for treatment of recurrent episodes of genital herpes in immunocompetent adults.
+Recurrent Episodes:Valacyclovir tablets are indicated for treatment of recurrent episodes of genital herpes in immunocompetent adults.
 The efficacy of treatment with valacyclovir tablets when initiated more than 24 hours after the onset of signs and symptoms has not been established.
 
-Suppressive Therapy: Valacyclovir tablets are indicated for chronic suppressive therapy of recurrent episodes of genital herpes in immunocompetent and in HIV‑1-infected adults.
+Suppressive Therapy:Valacyclovir tablets are indicated for chronic suppressive therapy of recurrent episodes of genital herpes in immunocompetent and in HIV‑1-infected adults.
 The efficacy and safety of valacyclovir tablets, USP for the suppression of genital herpes beyond 1 year in immunocompetent patients and beyond 6 months in HIV‑1-infected patients have not been established.
 
-Reduction of Transmission: Valacyclovir tablets are indicated for the reduction of transmission of genital herpes in immunocompetent adults.
+Reduction of Transmission:Valacyclovir tablets are indicated for the reduction of transmission of genital herpes in immunocompetent adults.
 The efficacy of valacyclovir tablets for the reduction of transmission of genital herpes beyond 8 months in discordant couples has not been established.
 The efficacy of valacyclovir tablets for the reduction of transmission of genital herpes in individuals with multiple partners and non‑heterosexual couples has not been established.
 Safer sex practices should be used with suppressive therapy (see current Centers for Disease Control and Prevention [CDC] Sexually Transmitted Diseases Treatment Guidelines).
@@ -44,7 +44,7 @@ Based on efficacy data from clinical trials with oral acyclovir, treatment with 
 
 The efficacy and safety of valacyclovir tablets have not been established in:
 
-- Immunocompromised patients other than for the suppression of genital herpes in HIV‑1-infected patients with a CD4+ cell count greater than or equal to 100 cells/mm3.
+- Immunocompromised patients other than for the suppression of genital herpes in HIV‑1-infected patients with a CD4+ cell count greater than or equal to 100 cells/mm 3.
 - Patients aged less than 12 years with cold sores (herpes labialis).
 - Patients aged less than 2 years or greater than or equal to 18 years with chickenpox.
 - Patients aged less than 18 years with genital herpes.

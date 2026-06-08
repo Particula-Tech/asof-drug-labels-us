@@ -29,7 +29,7 @@ Valacyclovir hydrochloride should be discontinued if central nervous system adve
 
 ## 5.4 Severe Cutaneous Adverse Reactions
 
-Severe cutaneous adverse reactions (SCARs), including acute generalized exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN) have been reported during postmarketing experience with valacyclovir [see Contraindications (4) and Adverse Reactions (6.3)].
+Severe cutaneous adverse reactions (SCARs), including acute generalized exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN) have been reported during postmarketing experience with valacyclovir [see Contraindications (4)and Adverse Reactions (6.3)].
 Discontinue valacyclovir hydrochloride immediately if a painful rash with mucosal involvement or a progressive severe rash develops.
 Closely monitor clinical status and initiate appropriate therapy.
 Valacyclovir hydrochloride is contraindicated in patients who have developed SCARs with the use of valacyclovir or acyclovir, or any component of the formulation [see Contraindications (4), Adverse Reactions (6.3)].

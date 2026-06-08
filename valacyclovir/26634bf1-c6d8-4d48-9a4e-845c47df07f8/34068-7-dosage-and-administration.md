@@ -12,18 +12,18 @@ Therapy should be initiated at the earliest symptom of a cold sore (e.g., tingli
 
 Genital Herpes
 
-Initial Episode: The recommended dosage of valacyclovir tablets for treatment of initial genital herpes is 1 gram twice daily for 10 days.
+Initial Episode:The recommended dosage of valacyclovir tablets for treatment of initial genital herpes is 1 gram twice daily for 10 days.
 Therapy was most effective when administered within 48 hours of the onset of signs and symptoms.
 
-Recurrent Episodes: The recommended dosage of valacyclovir tablets for treatment of recurrent genital herpes is 500 mg twice daily for 3 days.
+Recurrent Episodes:The recommended dosage of valacyclovir tablets for treatment of recurrent genital herpes is 500 mg twice daily for 3 days.
 Initiate treatment at the first sign or symptom of an episode.
 
-Suppressive Therapy: The recommended dosage of valacyclovir tablets for chronic suppressive therapy of recurrent genital herpes is 1 gram once daily in patients with normal immune function.
+Suppressive Therapy:The recommended dosage of valacyclovir tablets for chronic suppressive therapy of recurrent genital herpes is 1 gram once daily in patients with normal immune function.
 In patients with a history of 9 or fewer recurrences per year, an alternative dose is 500 mg once daily.
 
-In HIV‑1-infected patients with a CD4 + cell count greater than or equal to 100 cells/mm3, the recommended dosage of valacyclovir tablets for chronic suppressive therapy of recurrent genital herpes is 500 mg twice daily.
+In HIV‑1-infected patients with a CD4 + cell count greater than or equal to 100 cells/mm 3, the recommended dosage of valacyclovir tablets for chronic suppressive therapy of recurrent genital herpes is 500 mg twice daily.
 
-Reduction of Transmission: The recommended dosage of valacyclovir tablets for reduction of transmission of genital herpes in patients with a history of 9 or fewer recurrences per year is 500 mg once daily for the source partner.
+Reduction of Transmission:The recommended dosage of valacyclovir tablets for reduction of transmission of genital herpes in patients with a history of 9 or fewer recurrences per year is 500 mg once daily for the source partner.
 
 Herpes Zoster
 
@@ -72,7 +72,7 @@ Instructions for Preparing Suspension at Time of Dispensing
 ## 2.4 Patients with Renal Impairment
 
 Dosage recommendations for adult patients with reduced renal function are provided in Table 1 [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
-Data are not available for the use of valacyclovir tablets in pediatric patients with a creatinine clearance less than 50 mL/min/1.73 m2.
+Data are not available for the use of valacyclovir tablets in pediatric patients with a creatinine clearance less than 50 mL/min/1.73 m 2.
 
 Table 1.
 Valacyclovir Tablets Dosage Recommendations for Adults with Renal Impairment
@@ -81,9 +81,9 @@ Valacyclovir Tablets Dosage Recommendations for Adults with Renal Impairment
 | --- | --- | --- | --- | --- |
 | 30 to 49 | 10 to 29 | < 10 |  |  |
 | Cold sores (Herpes Labialis)Do not exceed 1 day of treatment. | Two 2-gram doses taken 12 hours apart | Two 1-gram doses taken 12 hours apart | Two 500-mg doses taken 12 hours apart | 500-mg single dose |
-| Genital herpes: Initial episode | 1 gram every 12 hours | no reduction | 1 gram every 24 hours | 500 mg every 24 hours |
-| Genital herpes: Recurrent episode | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
-| Genital herpes: Suppressive therapy |  |  |  |  |
+| Genital herpes:Initial episode | 1 gram every 12 hours | no reduction | 1 gram every 24 hours | 500 mg every 24 hours |
+| Genital herpes:Recurrent episode | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
+| Genital herpes:Suppressive therapy |  |  |  |  |
 | Immunocompetent patients | 1 gram every 24 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
 | Alternate dose for immunocompetent patients withless than or equal to 9 recurrences/year | 500 mg every 24 hours | no reduction | 500 mg every 48 hours | 500 mg every 48 hours |
 | HIV‑1-infected patients | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |

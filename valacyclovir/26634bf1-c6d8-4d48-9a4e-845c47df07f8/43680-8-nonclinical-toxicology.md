@@ -14,7 +14,7 @@ Mutagenesis
 
 Valacyclovir was tested in 5 genetic toxicity assays.
 An Ames assay was negative in the absence or presence of metabolic activation.
-Also negative were an in vitro cytogenetic study with human lymphocytes and a rat cytogenetic study.
+Also negative were an in vitrocytogenetic study with human lymphocytes and a rat cytogenetic study.
 
 In the mouse lymphoma assay, valacyclovir was not mutagenic in the absence of metabolic activation.
 In the presence of metabolic activation (76% to 88% conversion to acyclovir), valacyclovir was mutagenic.

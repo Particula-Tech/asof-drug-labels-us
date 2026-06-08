@@ -16,14 +16,14 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-Associated Maternal and/or Embryo/Fetal Risk: The risk of neonatal HSV infection varies from 30% to 50% for genital HSV acquired in late pregnancy (third trimester), whereas with HSV acquisition in early pregnancy, the risk of neonatal infection is about 1%.
+Disease-Associated Maternal and/or Embryo/Fetal Risk:The risk of neonatal HSV infection varies from 30% to 50% for genital HSV acquired in late pregnancy (third trimester), whereas with HSV acquisition in early pregnancy, the risk of neonatal infection is about 1%.
 A primary herpes occurrence during the first trimester of pregnancy has been associated with neonatal chorioretinitis, microcephaly, and, in rare cases, skin lesions.
 In very rare cases, transplacental transmission can occur resulting in congenital infection, including microcephaly, hepatosplenomegaly, intrauterine growth restriction, and stillbirth.
 Co-infection with HSV increases the risk of perinatal HIV transmission in women who had a clinical diagnosis of genital herpes during pregnancy.
 
 Data
 
-Human Data: Clinical data over several decades with valacyclovir and its metabolite, acyclovir, in pregnant women, based on published literature, have not identified a drug-associated risk of major birth defects.
+Human Data:Clinical data over several decades with valacyclovir and its metabolite, acyclovir, in pregnant women, based on published literature, have not identified a drug-associated risk of major birth defects.
 There are insufficient data on the use of valacyclovir regarding miscarriage or adverse maternal or fetal outcomes.
 
 The Acyclovir and the Valacyclovir Pregnancy Registries, both population-based international prospective studies, collected pregnancy data through April 1999.
@@ -34,7 +34,7 @@ The occurrence of major birth defects during first-trimester exposure to valacyc
 
 Available studies have methodological limitations including insufficient sample size to support conclusions about overall malformation risk or for making comparisons of the frequencies of specific birth defects.
 
-Animal Data: Valacyclovir was administered orally to pregnant rats and rabbits (up to 400 mg/kg/day) during organogenesis (Gestation Days 6 through 15, and 6 through 18, respectively).
+Animal Data:Valacyclovir was administered orally to pregnant rats and rabbits (up to 400 mg/kg/day) during organogenesis (Gestation Days 6 through 15, and 6 through 18, respectively).
 No adverse embryo-fetal effects were observed in rats and rabbits at acyclovir exposures (AUC) of up to approximately 4 (rats) and 7 (rabbits) times the exposure in humans at the MRHD.
 Early embryo death, fetal growth retardation (weight and length), and variations in fetal skeletal development (primarily extra ribs and delayed ossification of sternebrae) were observed in rats and associated with maternal toxicity (200 mg/kg/day; approximately 6 times higher than human exposure at the MRHD).
 
@@ -46,13 +46,12 @@ No significant adverse effects were observed in offspring exposed daily from bef
 Risk Summary
 
 Although there is no information on the presence of valacyclovir in human milk, its metabolite, acyclovir, is present in human milk following oral administration of valacyclovir.
-Based on published data, a 500-mg maternal dose of valacyclovir twice daily would provide a breastfed child with an oral acyclovir dosage of approximately 0.6 mg/kg/day (see Data).
-There is no data on the effects of valacyclovir or acyclovir on the breastfed child or on milk production.
+Based on published data, a 500-mg maternal dose of valacyclovir twice daily would provide a breastfed child with an oral acyclovir dosage of approximately 0.6 mg/kg/day (see Data).There is no data on the effects of valacyclovir or acyclovir on the breastfed child or on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clincial need for valacyclovir and any potential adverse effects on the breastfed child from valacyclovir or from the underlying maternal condition.
 
 Data
 
-Following oral administration of a 500-mg dose of valacyclovir to 5 lactating women, peak acyclovir concentrations (Cmax) in breast milk ranged from 0.5 to 2.3 times (median 1.4) the corresponding maternal acyclovir serum concentrations.
+Following oral administration of a 500-mg dose of valacyclovir to 5 lactating women, peak acyclovir concentrations (C max) in breast milk ranged from 0.5 to 2.3 times (median 1.4) the corresponding maternal acyclovir serum concentrations.
 The acyclovir breast milk AUC ranged from 1.4 to 2.6 times (median 2.2) maternal serum AUC.
 A 500-mg maternal dose of valacyclovir twice daily would provide a breastfed child with an oral acyclovir dosage of approximately 0.6 mg/kg/day.
 Unchanged valacyclovir was not detected in maternal serum, breast milk or infant urine.
@@ -81,14 +80,14 @@ Trial 1 was a single-dose pharmacokinetic, multiple-dose safety trial in 27 pedi
 Trial 2 was a single-dose pharmacokinetic and safety trial in pediatric subjects aged 1 month to less than 6 years who had an active herpes virus infection or who were at risk for herpes virus infection.
 Fifty-seven subjects were enrolled and received a single dose of 25 mg/kg valacyclovir oral suspension.
 In infants and children aged 3 months to less than 6 years, this dose provided comparable systemic acyclovir exposures to that from a 1 gram dose of valacyclovir in adults (historical data).
-In infants aged 1 month to less than 3 months, mean acyclovir exposures resulting from a 25 mg/kg dose were higher (Cmax: ↑30%, AUC: ↑60%) than acyclovir exposures following a 1 gram dose of valacyclovir in adults.
+In infants aged 1 month to less than 3 months, mean acyclovir exposures resulting from a 25 mg/kg dose were higher (C max: ↑30%, AUC: ↑60%) than acyclovir exposures following a 1 gram dose of valacyclovir in adults.
 Acyclovir is not approved for suppressive therapy in infants and children following neonatal HSV infections; therefore, valacyclovir is not recommended for this indication because efficacy cannot be extrapolated from acyclovir.
 
 Trial 3 was a single-dose pharmacokinetic, multiple-dose safety trial in 28 pediatric subjects aged 1 to less than 12 years with clinically suspected HSV infection.
 None of the subjects enrolled in this trial had genital herpes.
 Each subject was dosed with valacyclovir oral suspension, 10 mg/kg twice daily for 3 to 5 days.
 Acyclovir systemic exposures in pediatric subjects following valacyclovir oral suspension were compared with historical acyclovir systemic exposures in immunocompetent adults receiving the solid oral dosage form of valacyclovir or acyclovir for the treatment of recurrent genital herpes.
-The mean projected daily acyclovir systemic exposures in pediatric subjects across all age-groups (1 to less than 12 years) were lower (Cmax: ↓20%, AUC: ↓33%) compared with the acyclovir systemic exposures in adults receiving valacyclovir 500 mg twice daily but were higher (daily AUC: ↑16%) than systemic exposures in adults receiving acyclovir 200 mg 5 times daily.
+The mean projected daily acyclovir systemic exposures in pediatric subjects across all age-groups (1 to less than 12 years) were lower (C max: ↓20%, AUC: ↓33%) compared with the acyclovir systemic exposures in adults receiving valacyclovir 500 mg twice daily but were higher (daily AUC: ↑16%) than systemic exposures in adults receiving acyclovir 200 mg 5 times daily.
 Insufficient data are available to support valacyclovir for the treatment of recurrent genital herpes in this age-group because clinical information on recurrent genital herpes in young children is limited; therefore, extrapolating efficacy data from adults to this population is not possible.
 Moreover, valacyclovir has not been studied in children aged 1 to less than 12 years with recurrent genital herpes.
 

@@ -47,7 +47,7 @@ Recurrence Rates in Immunocompetent Adults at 6 and 12 Months
 | Valacyclovir hydrochloride1 gramOnce Daily(n = 269) | Oral Acyclovir400 mgTwice Daily(n = 267) | Placebo(n = 134) | Valacyclovir hydrochloride 1 gram Once Daily(n = 269) | Oral Acyclovir400 mgTwice Daily(n = 267) | Placebo(n = 134) |  |
 | Recurrence free | 55% | 54% | 7% | 34% | 34% | 4% |
 | Recurrences | 35% | 36% | 83% | 46% | 46% | 85% |
-| Unknowna | 10% | 10% | 10% | 19% | 19% | 10% |
+| Unknown a | 10% | 10% | 10% | 19% | 19% | 10% |
 
 aIncludes lost to follow-up, discontinuations due to adverse events, and consent withdrawn.
 
@@ -55,18 +55,18 @@ Subjects with 9 or fewer recurrences per year showed comparable results with val
 
 In a second trial, 293 HIV‑1-infected adults on stable antiretroviral therapy with a history of 4 or more recurrences of ano‑genital herpes per year were randomized to receive either valacyclovir hydrochloride 500 mg twice daily (n = 194) or matching placebo (n = 99) for 6 months.
 The median duration of recurrent genital herpes in enrolled subjects was 8 years, and the median number of recurrences in the year prior to enrollment was 5.
-Overall, the median pretrial HIV‑1 RNA was 2.6 log10 copies/mL.
-Among subjects who received valacyclovir hydrochloride, the pretrial median CD4+ cell count was 336 cells/mm3; 11% had less than 100 cells/mm3, 16% had 100 to 199 cells/mm3, 42% had 200 to 499 cells/mm3, and 31% had greater than or equal to 500 cells/mm3.
+Overall, the median pretrial HIV‑1 RNA was 2.6 log 10 copies/mL.
+Among subjects who received valacyclovir hydrochloride, the pretrial median CD4+ cell count was 336 cells/mm 3; 11% had less than 100 cells/mm 3, 16% had 100 to 199 cells/mm 3, 42% had 200 to 499 cells/mm 3, and 31% had greater than or equal to 500 cells/mm 3.
 Outcomes for the overall trial population are shown in Table 9.
 
 Table 9.
-Recurrence Rates in HIV-1‑Infected Adults at 6 Months
+Recurrence Rates in HIV-1‑ Infected Adults at 6 Months
 
 | Outcome | Valacyclovir hydrochloride 500 mg Twice Daily(n = 194) | Placebo(n = 99) |
 | --- | --- | --- |
 | Recurrence free | 65% | 26% |
 | Recurrences | 17% | 57% |
-| Unknowna | 18% | 17% |
+| Unknown a | 18% | 17% |
 
 aIncludes lost to follow-up, discontinuations due to adverse events, and consent withdrawn.
 
@@ -82,15 +82,15 @@ Overall HSV-2 acquisition was defined as symptomatic HSV‑2 acquisition and/or 
 The efficacy results are summarized in Table 10.
 
 Table 10.
-Percentage of Susceptible Partners Who Acquired HSV‑2 Defined by the Primary and Selected Secondary Endpoints
+Percentage of Susceptible Partners Who Acquired HSV‑ 2 Defined by the Primary and Selected Secondary Endpoints
 
-| Endpoint | Valacyclovir hydrochloridea(n = 743) | Placebo(n = 741) |
+| Endpoint | Valacyclovir hydrochloride a(n = 743) | Placebo(n = 741) |
 | --- | --- | --- |
 | Symptomatic HSV‑2 acquisition | 4 (0.5%) | 16 (2.2%) |
 | HSV‑2 seroconversion | 12 (1.6%) | 24 (3.2%) |
 | Overall HSV‑2 acquisition | 14 (1.9%) | 27 (3.6%) |
 
-a Results show reductions in risk of 75% (symptomatic HSV‑ 2 acquisition), 50% (HSV‑ 2 seroconversion), and 48% (overall HSV‑ 2 acquisition) with valacyclovir hydrochloride versus placebo.
+aResults show reductions in risk of 75% (symptomatic HSV‑ 2 acquisition), 50% (HSV‑ 2 seroconversion), and 48% (overall HSV‑ 2 acquisition) with valacyclovir hydrochloride versus placebo.
 Individual results may vary based on consistency of safer sex practices.
 
 ## 14.3 Herpes Zoster
@@ -110,7 +110,7 @@ The use of valacyclovir hydrochloride for treatment of chickenpox in pediatric s
 The single-dose pharmacokinetic and multiple-dose safety trial enrolled 27 pediatric subjects aged 1 to less than 12 years with clinically suspected VZV infection.
 Each subject was dosed with valacyclovir oral suspension, 20 mg/kg 3 times daily for 5 days.
 Acyclovir systemic exposures in pediatric subjects following valacyclovir oral suspension were compared with historical acyclovir systemic exposures in immunocompetent adults receiving the solid oral dosage form of valacyclovir or acyclovir for the treatment of herpes zoster.
-The mean projected daily acyclovir exposures in pediatric subjects across all age-groups (1 to less than 12 years) were lower (Cmax: ↓13%, AUC: ↓30%) than the mean daily historical exposures in adults receiving valacyclovir 1 gram 3 times daily, but were higher (daily AUC: ↑50%) than the mean daily historical exposures in adults receiving acyclovir 800 mg 5 times daily.
+The mean projected daily acyclovir exposures in pediatric subjects across all age-groups (1 to less than 12 years) were lower (C max: ↓13%, AUC: ↓30%) than the mean daily historical exposures in adults receiving valacyclovir 1 gram 3 times daily, but were higher (daily AUC: ↑50%) than the mean daily historical exposures in adults receiving acyclovir 800 mg 5 times daily.
 The projected daily exposures in pediatric subjects were greater (daily AUC approximately 100% greater) than the exposures seen in immunocompetent pediatric subjects receiving acyclovir 20 mg/kg 4 times daily for the treatment of chickenpox.
 Based on the pharmacokinetic and safety data from this trial and the safety and extrapolated efficacy data from the acyclovir trials, oral valacyclovir 20 mg/kg 3 times a day for 5 days (not to exceed 1 gram 3 times daily) is recommended for the treatment of chickenpox in pediatric patients aged 2 to less than 18 years.
 Because the efficacy and safety of acyclovir for the treatment of chickenpox in children aged less than 2 years have not been established, efficacy data cannot be extrapolated to support valacyclovir treatment in children aged less than 2 years with chickenpox.
