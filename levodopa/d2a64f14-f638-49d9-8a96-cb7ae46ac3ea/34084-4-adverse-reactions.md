@@ -43,49 +43,49 @@ The adverse experiences observed in patients in uncontrolled studies were simila
 
 Other adverse experiences reported overall in clinical trials in 748 patients treated with carbidopa and levodopa extended-release tablets, listed by body system in order of decreasing frequency, include:
 
-Body as a Whole: Asthenia, fatigue, abdominal pain, orthostatic effects.
+Body as a Whole:Asthenia, fatigue, abdominal pain, orthostatic effects.
 
-Cardiovascular: Palpitation, hypertension, hypotension, myocardial infarction.
+Cardiovascular:Palpitation, hypertension, hypotension, myocardial infarction.
 
 Gastrointestinal: Gastrointestinal pain, dysphagia, heartburn.
 
-Metabolic: Weight loss.
+Metabolic:Weight loss.
 
-Musculoskeletal: Leg pain.
+Musculoskeletal:Leg pain.
 
-Nervous System/Psychiatric: Chorea, somnolence, falling, anxiety, disorientation, decreased mental acuity, gait abnormalities, extrapyramidal disorder, agitation, nervousness, sleep disorders, memory impairment.
+Nervous System/Psychiatric:Chorea, somnolence, falling, anxiety, disorientation, decreased mental acuity, gait abnormalities, extrapyramidal disorder, agitation, nervousness, sleep disorders, memory impairment.
 
-Respiratory: Cough, pharyngeal pain, common cold.
+Respiratory:Cough, pharyngeal pain, common cold.
 
-Skin: Rash.
+Skin:Rash.
 
-Special Senses: Blurred vision.
+Special Senses:Blurred vision.
 
-Urogenital: Urinary incontinence.
+Urogenital:Urinary incontinence.
 
-Laboratory Tests: Decreased white blood cell count and serum potassium; increased BUN, serum creatinine and serum LDH; protein and glucose in the urine.
+Laboratory Tests:Decreased white blood cell count and serum potassium; increased BUN, serum creatinine and serum LDH; protein and glucose in the urine.
 
-The following adverse experiences have been reported in postmarketing experience with carbidopa and levodopa extended-release tablets: Cardiovascular: Cardiac irregularities, syncope
+The following adverse experiences have been reported in postmarketing experience with carbidopa and levodopa extended-release tablets: Cardiovascular:Cardiac irregularities, syncope
 
-Gastrointestinal: Taste alterations, dark saliva.
+Gastrointestinal:Taste alterations, dark saliva.
 
-Hypersensitivity: Angioedema, urticaria, pruritus, bullous lesions (including pemphigus-like reactions).
-Nervous System/Psychiatric: Increased tremor, peripheral neuropathy, psychotic episodes including delusions and paranoid ideation, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
-Skin: Alopecia, flushing, dark sweat.
-Urogenital: Dark urine.
-Other adverse reactions that have been reported with levodopa alone and with various carbidopa and levodopa formulations and may occur with carbidopa and levodopa extended-release tablets are: Cardiovascular: Phlebitis.
-Gastrointestinal: Gastrointestinal bleeding, development of duodenal ulcer, sialorrhea, bruxism, hiccups, flatulence, burning sensation of tongue.
-Hematologic: Hemolytic and non-hemolytic anemia, thrombocytopenia, leukopenia, agranulocytosis.
-Hypersensitivity: Henoch-Schönlein purpura.
-Metabolic: Weight gain, edema.
-Nervous System/Psychiatric: Ataxia, depression with suicidal tendencies, dementia, euphoria, convulsions (however, a causal relationship has not been established); bradykinetic episodes, numbness, muscle twitching, blepharospasm (which may be taken as an early sign of excess dosage; consideration of dosage reduction may be made at this time), trismus, activation of latent Horner's syndrome, nightmares.
+Hypersensitivity:Angioedema, urticaria, pruritus, bullous lesions (including pemphigus-like reactions).
+Nervous System/Psychiatric:Increased tremor, peripheral neuropathy, psychotic episodes including delusions and paranoid ideation, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
+Skin:Alopecia, flushing, dark sweat.
+Urogenital:Dark urine.
+Other adverse reactions that have been reported with levodopa alone and with various carbidopa and levodopa formulations and may occur with carbidopa and levodopa extended-release tablets are: Cardiovascular:Phlebitis.
+Gastrointestinal:Gastrointestinal bleeding, development of duodenal ulcer, sialorrhea, bruxism, hiccups, flatulence, burning sensation of tongue.
+Hematologic:Hemolytic and non-hemolytic anemia, thrombocytopenia, leukopenia, agranulocytosis.
+Hypersensitivity:Henoch-Schönlein purpura.
+Metabolic:Weight gain, edema.
+Nervous System/Psychiatric:Ataxia, depression with suicidal tendencies, dementia, euphoria, convulsions (however, a causal relationship has not been established); bradykinetic episodes, numbness, muscle twitching, blepharospasm (which may be taken as an early sign of excess dosage; consideration of dosage reduction may be made at this time), trismus, activation of latent Horner's syndrome, nightmares.
 
-Skin: Malignant melanoma (see also CONTRAINDICATIONS), increased sweating.
+Skin:Malignant melanoma (see also CONTRAINDICATIONS), increased sweating.
 
-Special Senses: Oculogyric crises, mydriasis, diplopia.
+Special Senses:Oculogyric crises, mydriasis, diplopia.
 
-Urogenital: Urinary retention, priapism.
+Urogenital:Urinary retention, priapism.
 
-Miscellaneous: Faintness, hoarseness, malaise, hot flashes, sense of stimulation, bizarre breathing patterns.
+Miscellaneous:Faintness, hoarseness, malaise, hot flashes, sense of stimulation, bizarre breathing patterns.
 
-Laboratory Tests: Abnormalities in alkaline phosphatase, SGOT (AST), SGPT (ALT), bilirubin, Coombs test, uric acid.
+Laboratory Tests:Abnormalities in alkaline phosphatase, SGOT (AST), SGPT (ALT), bilirubin, Coombs test, uric acid.

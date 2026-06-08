@@ -1,8 +1,7 @@
 # WARNINGS
 
 When patients are receiving levodopa without a decarboxylase inhibitor, levodopa must be discontinued at least twelve hours before carbidopa and levodopa extended-release tablets are started.
-In order to reduce adverse reactions, it is necessary to individualize therapy.
-See DOSAGE AND ADMINISTRATION section before initiating therapy.
+In order to reduce adverse reactions, it is necessary to individualize therapy.See DOSAGE AND ADMINISTRATIONsection before initiating therapy.
 
 Carbidopa and levodopa extended-release tablets should be substituted at a dosage that will provide approximately 25% of the previous levodopa dosage (see DOSAGE AND ADMINISTRATION).
 Carbidopa does not decrease adverse reactions due to central effects of levodopa.
@@ -123,7 +122,7 @@ Therefore, when therapy with carbidopa and levodopa extended-release tablets is 
 For patients receiving MAO inhibitors (Type A or B), see CONTRAINDICATIONS.
 Concomitant therapy with selegiline and carbidopa and levodopa may be associated with severe orthostatic hypotension not attributable to carbidopa and levodopa alone (see CONTRAINDICATIONS).
 There have been rare reports of adverse reactions, including hypertension and dyskinesia, resulting from the concomitant use of tricyclic antidepressants and carbidopa and levodopa preparations.
-Dopamine D2 receptor antagonists (e.g., phenothiazines, butyrophenones, risperidone) and isoniazid may reduce the therapeutic effects of levodopa.
+Dopamine D 2receptor antagonists (e.g., phenothiazines, butyrophenones, risperidone) and isoniazid may reduce the therapeutic effects of levodopa.
 In addition, the beneficial effects of levodopa in Parkinson's disease have been reported to be reversed by phenytoin and papaverine.
 Patients taking these drugs with carbidopa and levodopa extended-release tablets should be carefully observed for loss of therapeutic response.
 Use of carbidopa and levodopa extended-release tablets with dopamine-depleting agents (e.g., reserpine and tetrabenazine) or other drugs known to deplete monoamine stores is not recommended.

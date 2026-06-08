@@ -26,7 +26,7 @@ Carbidopa and levodopa extended-release tablet contains either 50 mg of carbidop
 With carbidopa and levodopa extended-release tablets there is less variation in plasma levodopa levels than with carbidopa and levodopa tablets, the conventional formulation.
 However, carbidopa and levodopa extended-release tablets are less systemically bioavailable than carbidopa and levodopa tablets and may require increased daily doses to achieve the same level of symptomatic relief as provided by carbidopa and levodopa tablets.
 
-In clinical trials, patients with moderate to severe motor fluctuations who received carbidopa and levodopa extended-release tablets did not experience quantitatively significant reductions in `off' time when compared to carbidopa and levodopa tablets.
+In clinical trials, patients with moderate to severe motor fluctuations who received carbidopa and levodopa extended-release tablets did not experience quantitatively significant reductionsin `off' time when compared to carbidopa and levodopa tablets.
 However, global ratings of improvement as assessed by both patient and physician were better during therapy with carbidopa and levodopa extended-release tablets than with carbidopa and levodopa tablets.
 In patients without motor fluctuations, carbidopa and levodopa extended-release tablets, under controlled conditions, provided the same therapeutic benefit with less frequent dosing when compared to carbidopa and levodopa tablets.
 
@@ -48,16 +48,16 @@ The extent of availability and peak concentrations of levodopa after a single do
 At steady state, the bioavailability of carbidopa from carbidopa and levodopa tablets is approximately 99% relative to the concomitant administration of carbidopa and levodopa.
 At steady state, carbidopa bioavailability from carbidopa and levodopa extended-release tablets 50 mg/200 mg is approximately 58% relative to that from carbidopa and levodopa tablets.
 
-Pyridoxine hydrochloride (vitamin B6), in oral doses of 10 mg to 25 mg, may reverse the effects of levodopa by increasing the rate of aromatic amino acid decarboxylation.
+Pyridoxine hydrochloride (vitamin B 6), in oral doses of 10 mg to 25 mg, may reverse the effects of levodopa by increasing the rate of aromatic amino acid decarboxylation.
 Carbidopa inhibits this action of pyridoxine.
 
 ## Special Populations
 
-Geriatric: A study in eight young healthy subjects (21 to 22 yr) and eight elderly healthy subjects (69 to 76 yr) showed that the absolute bioavailability of levodopa was similar between young and elderly subjects following oral administration of levodopa and carbidopa.
+Geriatric:A study in eight young healthy subjects (21 to 22 yr) and eight elderly healthy subjects (69 to 76 yr) showed that the absolute bioavailability of levodopa was similar between young and elderly subjects following oral administration of levodopa and carbidopa.
 However, the systemic exposure (AUC) of levodopa was increased by 55% in elderly subjects compared to young subjects.
 Based on another study in forty patients with Parkinson’s disease, there was a correlation between age of patients and the increase of AUC of levodopa following administration of levodopa and an inhibitor of peripheral dopa decarboxylase.
 AUC of levodopa was increased by 28% in elderly patients (≥ 65 yr) compared to young patients (< 65 yr).
-Additionally, mean value of Cmax for levodopa was increased by 24% in elderly patients (≥ 65 yr) compared to young patients (< 65 yr) (see PRECAUTIONS, Geriatric Use).
+Additionally, mean value of C maxfor levodopa was increased by 24% in elderly patients (≥ 65 yr) compared to young patients (< 65 yr) (see PRECAUTIONS, Geriatric Use).
 
 The AUC of carbidopa was increased in elderly subjects (n=10, 65 to 76 yr) by 29% compared to young subjects (n=24, 23 to 64 yr) following IV administration of 50 mg levodopa with carbidopa (50 mg).
 This increase is not considered a clinically significant impact.
