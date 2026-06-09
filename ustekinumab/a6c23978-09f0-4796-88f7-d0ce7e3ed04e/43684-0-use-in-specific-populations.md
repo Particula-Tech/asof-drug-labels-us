@@ -62,9 +62,9 @@ Plaque Psoriasis
 
 The safety and effectiveness of WEZLANA have been established for the treatment of moderate to severe plaque psoriasis in pediatric patients 6 years of age and older who are candidates for phototherapy or systemic therapy.
 
-Use of WEZLANA in pediatric patients 12 to less than 17 years of age is supported by evidence from a multicenter, randomized, 60-week trial (Ps STUDY 3) of ustekinumab that included a 12-week, double-blind, placebo-controlled, parallel-group portion, in 110 pediatric subjects 12 years of age and older [see Adverse Reactions (6.1), Clinical Studies (14.2)].
+Use of WEZLANA in pediatric patients 12 to less than 17 years of age is supported by evidence from a multicenter, randomized, 60-week trial (Ps STUDY 3) of ustekinumab that included a 12-week, double-blind, placebo-controlled, parallel-group portion, in 110 pediatric subjects 12 years of age and older [see Adverse Reactions (6.1), and Clinical Studies (14.2)].
 
-Use of WEZLANA in pediatric patients 6 to 11 years of age is supported by evidence from an open-label, single-arm, efficacy, safety, and pharmacokinetics trial (Ps STUDY 4) of ustekinumab in 44 subjects [see Adverse Reactions (6.1), Pharmacokinetics (12.3)].
+Use of WEZLANA in pediatric patients 6 to 11 years of age is supported by evidence from an open-label, single-arm, efficacy, safety, and pharmacokinetics trial (Ps STUDY 4) of ustekinumab in 44 subjects [see Adverse Reactions (6.1), and Clinical Pharmacology (12.3)].
 
 The safety and effectiveness of WEZLANA have not been established in pediatric patients less than 6 years of age with plaque psoriasis.
 
@@ -77,9 +77,9 @@ The observed pre-dose (trough) concentrations are generally comparable between a
 
 The safety and effectiveness of WEZLANA have not been established in pediatric patients less than 6 years old with psoriatic arthritis.
 
-Crohn's Disease and Ulcerative Colitis
+Ulcerative Colitis
 
-The safety and effectiveness of WEZLANA have not been established in pediatric patients with Crohn's disease or ulcerative colitis.
+The safety and effectiveness of WEZLANA have not been established in pediatric patients with ulcerative colitis.
 
 ## 8.5 Geriatric Use
 

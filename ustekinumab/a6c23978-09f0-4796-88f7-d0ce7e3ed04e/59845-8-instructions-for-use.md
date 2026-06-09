@@ -1,10 +1,10 @@
-# INSTRUCTIONS FOR USE WEZLANA™ (wez-LAH-nah) (ustekinumab-auub) injection, for subcutaneous use single-dose prefilled syringe
+# INSTRUCTIONS FOR USE WEZLANA® (wez-LAH-nah) (ustekinumab-auub) injection, for subcutaneous use single-dose prefilled syringe
 
 This Instructions for Use contains information on how to inject WEZLANA using a prefilled syringe.
 
 The WEZLANA prefilled syringe is for subcutaneous use only (inject directly under the skin).
 
-| Getting to Know Your Prefilled Syringe |
+| Getting to Know The Prefilled Syringe |
 | --- |
 
 Step 1.
@@ -13,23 +13,23 @@ Important Information You Need to Know Before Injecting WEZLANA
 Dosing:
 
 - WEZLANA comes in two different doses: 45 mg and 90 mg.
-  Check your prescription to make sure you have the correct dose.
+  Check the prescription to make sure you have the correct dose.
   - If the dose is 45 mg, you will receive one 45 mg prefilled syringe.
   - If the dose is 90 mg, you will receive either one 90 mg prefilled syringe or two 45 mg prefilled syringes.
     If you receive two 45 mg prefilled syringes for a 90 mg dose, you will need to give two injections, one right after the other.
 - The look of the prefilled syringe will be different for each dose.
   The amount of medicine in the syringe will also be different for each dose.
 - The 45 mg dose will have a smaller amount of medicine and the 90 mg dose will have a larger amount of medicine.
-  Check the figures below to see what your dose looks like in the syringe.
+  Check the figures below to see what the dose looks like in the syringe.
 
-| 45 mg/0.5 mL | 90 mg/mL |
-| --- | --- |
+| 45 mg/0.5 mL |  | 90 mg/mL |
+| --- | --- | --- |
 
-Using your WEZLANA prefilled syringe:
+Using the WEZLANA prefilled syringe:
 
 - It is important that you do not try to give the injection until you have fully read and understood this Instructions for Use.
-- If your healthcare provider decides that you or a caregiver can give your WEZLANA injection at home, you should receive training on the right way to prepare and give the injections.
-  Do not try to inject WEZLANA until you have been shown the right way to give the injections by your healthcare provider.
+- If a healthcare provider decides that you or a caregiver can give the WEZLANA injection at home, you should receive training on the right way to prepare and give the injections.
+  Do not try to inject WEZLANA until you have been shown the right way to give the injections by a healthcare provider.
 - Do not use the syringe if the carton is damaged or seal is broken.
 - Do not use the syringe after the expiration date on the label.
 - Do not shake the syringe.
@@ -60,7 +60,7 @@ Storing and Preparing to Inject WEZLANA
 
 2a Refrigerate the syringe carton until you are ready to use it.
 
-- Keep the syringe in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Keep the syringe in the refrigerator between 36 °F to 46 °F (2 °C to 8 °C).
 - Keep the syringe in the original carton to protect it from light or physical damage until you are ready to use it.
 - Do not freeze the syringe.
 - Do not store the syringe in extreme heat or cold.
@@ -76,7 +76,9 @@ To prevent early activation of the needle safety guard, do not touch the NEEDLE 
 - Do not grab the needle guard clips.
 - Remove the number of syringes you need for your injection.
 - Put any unused syringes back into refrigerator.
-  WAIT
+
+| WAIT |
+| --- |
 
 2c Wait 30 minutes for the syringe to reach room temperature.
 
@@ -85,17 +87,17 @@ To prevent early activation of the needle safety guard, do not touch the NEEDLE 
 - Do not shake the syringe at any time.
 - Using the syringe at room temperature allows for a more comfortable injection.
 
-2d You may also keep WEZLANA at room temperature for up to 30 days, if needed.
+2d If needed, individual WEZLANA prefilled syringes may be stored at room temperature for up to 30 days.
 
-- Keep it at room temperature between 68°F to 77°F (20°C to 25°C) for a maximum single period of up to 30 days.
-- Do not use WEZLANA if the prefilled syringe has been stored above 86ºF (30ºC).
+- Keep WEZLANA at room temperature between 68 °F to 77 °F (20 °C to 25 °C) for a maximum single period of up to 30 days.
+- Do not use WEZLANA if the prefilled syringe has been stored above 86 ºF (30 ºC).
 - Do not put WEZLANA back in refrigerator after it has been stored at room temperature.
 - Record the date you removed WEZLANA from the refrigerator and use within 30 days.
 
 | Important: Throw away (discard) the syringe in a sharps disposal container if it has reached room temperature and has not been used within 30 days. |
 | --- |
 
-2e Gather and place the following items for your injection on a clean, flat, and well-lit surface:
+2e Gather and place the following items for the injection on a clean, flat, and well-lit surface:
 
 - WEZLANA syringe (room temperature)
 - Sharps disposal container (see Step 5.
@@ -105,7 +107,7 @@ To prevent early activation of the needle safety guard, do not touch the NEEDLE 
 - Cotton ball or gauze pad
 
 Step 3.
-Getting Ready for Your Injection
+Getting Ready for The Injection
 
 3a Inspect the medicine through the viewing window.
 It should be clear to white like an opal and colorless to light yellow.
@@ -158,27 +160,33 @@ Injecting WEZLANA
 - Do not try to push air bubbles out.
   It is okay to see air bubbles.
 - A drop of medicine at the needle tip is normal.
-  PINCH
+
+PINCH
 
 4b Pinch the skin around injection site before injection.
 
-- Gently pinch the skin with one hand between the thumb and index finger to create a bump for the injection.
+- Gently pinch the skin with 1 hand between the thumb and index finger to create a bump for the injection.
 - If possible, the bump should be about 2 inches wide.
-  Important: Continue to pinch the skin until the injection is complete.
-  INSERT
+
+| Important: Continue to pinch the skin until the injection is complete. |
+| --- |
+
+INSERT
 
 4c Insert the needle into the pinched skin.
 
 - Insert the needle into the pinched skin at about a 45-degree angle.
 - Do not place your finger on the plunger rod while inserting the needle, as this may result in lost medicine.
-  INJECT
+
+INJECT
 
 4d Inject all of the liquid by slowly pressing the plunger head all the way down with your thumb until it is completely between the needle guard clips.
 Hold the finger grips with your fingers as shown in the figure.
 
 - Do not pull back on the plunger rod at any time.
 - Do not remove the syringe until all medicine has been injected.
-  LIFT
+
+LIFT
 
 4e Keep pressure on the plunger head with your thumb and remove the needle from your skin.
 
@@ -186,11 +194,12 @@ Hold the finger grips with your fingers as shown in the figure.
 - Slowly take your thumb off the plunger head.
   This will let the empty syringe move up until the entire needle is automatically covered by the needle guard.
 
-If a second injection is required:
+| If a second injection is required: |
+| --- |
 
 4f Repeat steps 1 to 5 if a second injection is required.
 
-- Check your prescription for your dose.
+- Check the prescription for the dose.
 - If the dose is 90 mg, you will receive either one 90 mg prefilled syringe or two 45 mg prefilled syringes.
   - If you receive two 45 mg prefilled syringes for a 90 mg dose, you will need to give a second injection right after the first injection.
   - Repeat Steps 1 to 5 for the second injection using a new syringe.
@@ -234,22 +243,16 @@ There may be state or local laws about how you should throw away used needles an
 For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal
 
 Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+
 Do not recycle your used sharps disposal container.
 
 For more information or help call 1-800-77-AMGEN (1-800-772-6436).
 
-Manufactured for Nuvaila, Dublin, Ireland
-
-Manufactured by: Amgen Inc., One Amgen Center Drive, Thousand Oaks, California 91320-1799 US License Number 1080
-
-© 2025 Amgen Inc. All rights reserved.
-
+Manufactured for Nuvaila, Dublin, Ireland Manufactured by: Amgen Inc., One Amgen Center Drive, Thousand Oaks, California 91320-1799 US License Number 1080 © 2025-2026 Amgen Inc. All rights reserved.
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 10/2025
+Revised: 05/2026 v3
 
-v2
-
-# INSTRUCTIONS FOR USE WEZLANA™ (wez-LAH-nah) (ustekinumab-auub) injection, for subcutaneous use single-dose vial
+# INSTRUCTIONS FOR USE WEZLANA® (wez-LAH-nah) (ustekinumab-auub) injection, for subcutaneous use single-dose vial
 
 This Instructions for Use contains information on how to inject WEZLANA using a vial.
 
@@ -263,13 +266,15 @@ If you cannot give the injection:
 
 Do not try to inject WEZLANA until you have been shown the right way to give the injections by a healthcare provider.
 
-Important information You Need to Know Before Injecting WEZLANA:
+Important Information You Need to Know Before Injecting WEZLANA:
 
 - For subcutaneous use only (inject directly under the skin).
-- Before you start, check the carton to make sure that it is the right dose.
+- Before you start, check the carton to make sure that the number of vials and strength is correct.
   You will have either 45 mg or 90 mg as prescribed by the healthcare provider.
   - If the dose is 45 mg or less, you will receive one 45 mg vial.
-  - If the dose is 90 mg, you will receive two 45 mg vials and you will need to give two injections, one right after the other.
+  - If the dose is more than 45 mg, you will receive two 45 mg vials and you will need to give two injections, one right after the other.
+  - Make sure you know the proper amount (volume) to remove from the vial(s) and type of syringe(s) needed for dosing.
+    If you do not know the amount or type of syringe(s) needed, contact your healthcare provider for further instructions.
 - Check the expiration date on the vial and carton.
   If the expiration date has passed, do not use it.
   If the expiration date has passed, call the healthcare provider or pharmacist, or call 1-800-77-AMGEN (1-800-772-6436) for help.
@@ -281,7 +286,7 @@ Important information You Need to Know Before Injecting WEZLANA:
   Shaking the vial may damage the WEZLANA medicine.
   If the vial has been shaken, do not use it.
   Get a new vial.
-- Do not use a WEZLANA vial more than one time, even if there is medicine left in the vial.
+- Do not use a WEZLANA vial more than 1 time, even if there is medicine left in the vial.
   After the rubber stopper is punctured, WEZLANA can become contaminated by harmful bacteria which could cause an infection if re-used.
   Therefore, throw away any unused WEZLANA after you give the injection.
 - Safely throw away (dispose of) WEZLANA vials, needles, and syringes after use.
@@ -291,12 +296,12 @@ Important information You Need to Know Before Injecting WEZLANA:
 
 Storing WEZLANA vials
 
-- Store WEZLANA vials in a refrigerator between 36°F to 46°F (2°C to 8°C).
+- Store WEZLANA vials in a refrigerator between 36 °F to 46 °F (2 °C to 8 °C).
 - Store WEZLANA vials in the original carton to protect from light until the time of use.
 - Do not freeze WEZLANA vials.
-- If needed, the WEZLANA vial can also be stored at room temperature up to 86°F (30°C) for a maximum single period of up to 30 days in the original carton to protect from light.
+- If needed, the WEZLANA vial can also be stored at room temperature up to 86 °F (30 °C) for a maximum single period of up to 30 days in the original carton to protect from light.
   Write the date that you removed WEZLANA from the refrigerator on the carton in the space provided.
-- Do not use WEZLANA if it has been stored above 86°F (30°C).
+- Do not use WEZLANA if it has been stored above 86 °F (30 °C).
 - Do not put WEZLANA back in the refrigerator after it has been stored at room temperature.
 - Throw away (discard) the vial if it is not used within 30 days of room temperature storage.
 
@@ -324,15 +329,15 @@ Preparing the injection
 - Wash your hands well with soap and warm water.
 
 Step 2.
-Preparing your injection site
+Preparing the injection site
 
 Figure B
 
 * Areas in blue are recommended injection sites.
 
 - Choose an injection site around the stomach area (abdomen), or upper legs (thighs).
-- If a caregiver is giving the injection, the outer area of the upper arms, or the buttocks may also be used.
   (See Figure B)
+- If a caregiver is giving the injection, the outer area of the upper arms, or the buttocks may also be used.
 - Use a different injection site for each injection.
   Do not give an injection in an area of the skin that is tender, bruised, red or hard.
 - Clean the skin with an alcohol wipe where you plan to give the injection.
@@ -389,7 +394,7 @@ Figure G
 - Push down on the plunger until all of the air has gone from the syringe into the vial.
 - Turn the vial and the syringe upside down.
   (See Figure G)
-- Hold the WEZLANA vial with one hand.
+- Hold the WEZLANA vial with 1 hand.
 - It is important that the needle is always in the liquid in order to prevent air bubbles forming in the syringe.
 - Pull back on the syringe plunger with your other hand.
 - Fill the syringe until the black tip of the plunger lines up with the mark that matches the prescribed dose.
@@ -413,7 +418,7 @@ Figure I
 
 5a
 
-- Hold the barrel of the syringe in one hand, between the thumb and index fingers.
+- Hold the barrel of the syringe in 1 hand, between the thumb and index fingers.
 - Do not pull back on the plunger at any time.
 - Use the other hand to gently pinch the cleaned area of skin.
   Hold firmly.
@@ -434,7 +439,7 @@ Figure J
   Do not rub the injection site.
   You may cover the injection site with a small adhesive bandage, if necessary.
 
-If the dose is 90 mg, you will receive two 45 mg vials and you will need to give a second injection right after the first.
+If the dose is more than 45 mg, you will receive two 45 mg vials and you will need to give a second injection right after the first.
 Repeat Steps 1 to 6 using a new syringe.
 Choose a different site for the second injection.
 
@@ -459,13 +464,6 @@ Disposing of needles, syringes, and vials
 - Throw away the vial into the container where you put the syringes and needles.
 - If you have any questions, talk to your healthcare provider or pharmacist.
 
-Manufactured for Nuvaila, Dublin, Ireland
-
-Manufactured by: Amgen Inc., One Amgen Center Drive, Thousand Oaks, California 91320-1799 US License Number 1080
-
-© 2025 Amgen Inc. All rights reserved.
-
+Manufactured for Nuvaila, Dublin, Ireland Manufactured by: Amgen Inc., One Amgen Center Drive, Thousand Oaks, California 91320-1799 US License Number 1080 © 2025-2026 Amgen Inc. All rights reserved.
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised 10/2025
-
-v2
+Revised 05/2026 v3

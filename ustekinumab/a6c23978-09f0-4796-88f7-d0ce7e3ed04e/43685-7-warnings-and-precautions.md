@@ -7,9 +7,9 @@ Serious bacterial, mycobacterial, fungal, and viral infections were observed in 
 
 Serious infections requiring hospitalization, or otherwise clinically significant infections, reported in clinical trials included the following:
 
-- Plaque Psoriasis: diverticulitis, cellulitis, pneumonia, appendicitis, cholecystitis, sepsis, osteomyelitis, viral infections, gastroenteritis and urinary tract infections.
+- Plaque Psoriasis: diverticulitis, cellulitis, pneumonia, appendicitis, cholecystitis, sepsis, osteomyelitis, viral infections, gastroenteritis, and urinary tract infections.
 - Psoriatic arthritis: cholecystitis.
-- Crohn's disease: anal abscess, gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeria meningitis.
+- Crohn's disease in adults: anal abscess, gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeria meningitis.
 - Ulcerative colitis: gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeriosis.
 
 Avoid initiating treatment with WEZLANA in patients with any clinically important active infection until the infection resolves or is adequately treated.
@@ -38,7 +38,7 @@ Closely monitor patients receiving WEZLANA for signs and symptoms of active tube
 
 Ustekinumab products are immunosuppressants and may increase the risk of malignancy.
 Malignancies were reported among subjects who received ustekinumab in clinical trials [see Adverse Reactions (6.1)].
-In rodent models, inhibition of IL-12/IL-23p40 increased the risk of malignancy [see Nonclinical Toxicology (13)].
+In rodent models, inhibition of IL-12/IL-23p40 increased the risk of malignancy [see Nonclinical Toxicology (13.1)].
 
 The safety of ustekinumab products has not been evaluated in patients who have a history of malignancy or who have a known malignancy.
 
@@ -46,10 +46,11 @@ There have been post-marketing reports of the rapid appearance of multiple cutan
 Monitor all patients receiving WEZLANA for the appearance of non-melanoma skin cancer.
 Closely follow patients greater than 60 years of age, those with a medical history of prolonged immunosuppressant therapy and those with a history of PUVA treatment [see Adverse Reactions (6.1)].
 
-## 5.5 Hypersensitivity Reactions
+## 5.5 Serious Hypersensitivity Reactions
 
-Hypersensitivity reactions, including anaphylaxis and angioedema, have been reported with ustekinumab products [see Adverse Reactions (6.1, 6.3)].
-If an anaphylactic or other clinically significant hypersensitivity reaction occurs, institute appropriate therapy and discontinue WEZLANA.
+Serious hypersensitivity reactions, including anaphylaxis and angioedema, have been reported with ustekinumab products in clinical trials and postmarketing.
+Some serious hypersensitivity reactions have occurred during the first intravenous dose of ustekinumab products [see Adverse Reactions (6.1, 6.3)].
+If a severe or clinically significant hypersensitivity reaction occurs, discontinue WEZLANA immediately and initiate appropriate medical treatment [see Contraindications (4)].
 
 ## 5.6 Posterior Reversible Encephalopathy Syndrome (PRES)
 
@@ -77,4 +78,4 @@ Cases of interstitial pneumonia, eosinophilic pneumonia, and cryptogenic organiz
 Clinical presentations included cough, dyspnea, and interstitial infiltrates following one to three doses.
 Serious outcomes have included respiratory failure and prolonged hospitalization.
 Patients improved with discontinuation of therapy and in certain cases administration of corticosteroids.
-If diagnosis is confirmed, discontinue WEZLANA and institute appropriate treatment [see Postmarketing Experience (6.3)].
+If diagnosis is confirmed, discontinue WEZLANA and institute appropriate treatment [see Adverse Reactions (6.3)].

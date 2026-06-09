@@ -101,26 +101,44 @@ Recommended Dose of WEZLANA for Subcutaneous Injection in Pediatric Patients 6 Y
 | 60 kg or more | 45 mg |
 | greater than 100 kg with co-existent moderate-to-severe plaque psoriasis | 90 mg |
 
-## 2.3 Recommended Dosage in Crohn's Disease and Ulcerative Colitis
+## 2.3 Recommended Adult Dosage in Crohn's Disease
 
 Intravenous Induction Adult Dosage Regimen
 
-A single intravenous infusion dose of WEZLANA using the weight-based dosage regimen specified in Table 4 [see Instructions for dilution of WEZLANA 130 mg vial for intravenous infusion (2.5)].
+The recommended induction dosage is a single intravenous infusion using the weight-based dosage regimen specified in Table 4 [see Dosage and Administration (2.6)].
 
 Table 4.
-Initial Intravenous Dosage of WEZLANA
+Initial Intravenous Dosage of WEZLANA in Adult Patients with Crohn's Disease
 
-| Body Weight of Patient at the time of dosing | Dose | Number of 130 mg/26 mL (5 mg/mL) WEZLANA vials |
-| --- | --- | --- |
-| 55 kg or less | 260 mg | 2 |
-| more than 55 kg to 85 kg | 390 mg | 3 |
-| more than 85 kg | 520 mg | 4 |
+| Body Weight of Patient at the Time of Dosing | Dose |
+| --- | --- |
+| 55 kg or less | 260 mg |
+| greater than 55 kg to 85 kg | 390 mg |
+| greater than 85 kg | 520 mg |
 
 Subcutaneous Maintenance Adult Dosage Regimen
 
 The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 weeks after the initial intravenous dose, then every 8 weeks thereafter.
 
-## 2.4 General Considerations for Administration
+## 2.4 Recommended Dosage in Ulcerative Colitis
+
+Intravenous Induction Adult Dosage Regimen
+
+The recommended induction dosage is a single intravenous infusion using the weight-based dosage regimen specified in Table 5 [see Dosage and Administration (2.6)]
+
+Table 5: Initial Intravenous Dosage of WEZLANA in Adult Patients with Ulcerative Colitis
+
+| Body Weight of Patient at the Time of Dosing | Dose |
+| --- | --- |
+| 55 kg or less | 260 mg |
+| greater than 55 kg to 85 kg | 390 mg |
+| greater than 85 kg | 520 mg |
+
+Subcutaneous Maintenance Adult Dosage Regimen
+
+The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 weeks after the initial intravenous dose, then every 8 weeks thereafter.
+
+## 2.5 General Considerations for Administration
 
 - WEZLANA is intended for use under the guidance and supervision of a healthcare provider.
   WEZLANA should only be administered to patients who will be closely monitored and have regular follow-up visits with a healthcare provider.
@@ -136,32 +154,34 @@ The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 w
   Do not use WEZLANA if it is discolored or cloudy, or if other particulate matter is present.
   WEZLANA does not contain preservatives; therefore, discard any unused product remaining in the vial and/or syringe.
 
-## 2.5 Preparation and Administration of WEZLANA 130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn's Disease and Ulcerative Colitis)
+## 2.6 Preparation and Administration of WEZLANA 130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn's Disease and Ulcerative Colitis)
 
-WEZLANA solution for intravenous infusion must be diluted, prepared and infused by a healthcare professional using aseptic technique.
+WEZLANA solution for intravenous infusion must be diluted, prepared, and infused by a healthcare professional using aseptic technique.
 
-1. Calculate the dose and the number of WEZLANA vials needed based on patient weight (Table 4).
+1. Calculate the dose and the number of WEZLANA vials needed based on patient weight (see Table 4 and Table 5 above).
    Each 26 mL vial of WEZLANA contains 130 mg of ustekinumab-auub.
-2. Withdraw, and then discard a volume of the 0.9% Sodium Chloride Injection, USP from the 250 mL infusion bag equal to the volume of WEZLANA to be added (discard 26 mL sodium chloride for each vial of WEZLANA needed, for 2 vials- discard 52 mL, for 3 vials- discard 78 mL, 4 vials- discard 104 mL).
-   Alternatively, a 250 mL infusion bag containing 0.45% Sodium Chloride Injection, USP may be used.
-3. Withdraw 26 mL of WEZLANA from each vial needed and add it to the 250 mL infusion bag.
-   The final volume in the infusion bag should be 250 mL.
-   Gently mix.
+2. Obtain the appropriate infusion solution (0.45% or 0.9% Sodium Chloride Injection, USP) in a 250 mL infusion bag.
+   Withdraw, and discard a volume of the infusion solution equal to the volume of WEZLANA to be added.
+3. Add the volume of WEZLANA solution equal to the calculated dose of WEZLANA to the infusion solution and gently mix.
 4. Visually inspect the diluted solution before infusion.
    Do not use if visibly opaque particles, discoloration or foreign particles are observed.
 5. Infuse the diluted solution over a period of at least one hour.
-   Once diluted, the infusion should be completely administered within eight hours of the dilution in the infusion bag.
+   Once diluted, the infusion should be completely administered within the storage time (see Storage below).
 6. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
 7. Do not infuse WEZLANA concomitantly in the same intravenous line with other agents.
 8. WEZLANA does not contain preservatives.
    Each vial is for a one-time use in only one patient.
    Discard any remaining solution.
    Dispose any unused medicinal product in accordance with local requirements.
+9. Discard any unused portion of the infusion solution.
 
 Storage
 
-If necessary, the diluted infusion solution may be kept at room temperature up to 25°C (77°F) for up to 7 hours.
-Storage time at room temperature begins once the diluted solution has been prepared.
-The infusion should be completed within 8 hours after the dilution in the infusion bag (cumulative time after preparation including the storage and the infusion period).
 Do not freeze.
-Discard any unused portion of the infusion solution.
+
+Storage time at room temperature begins once the diluted solution has been prepared.
+
+250 mL infusion bag:
+
+- If necessary, the diluted infusion solution may be kept at room temperature up to 25°C (77°F) for up to 7 hours.
+- The infusion should be completed within 8 hours after the dilution in the infusion bag (cumulative time after preparation including the storage and the infusion period).
