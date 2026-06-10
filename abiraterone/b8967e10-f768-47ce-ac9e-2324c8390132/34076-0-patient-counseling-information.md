@@ -63,10 +63,10 @@ U.S. Patent Nos. 8,808,751, 9,889,144 and 10,292,990
 
 YONSA is a registered trademark of Sun Pharmaceutical Industries Limited
 
-© 2022 Sun Pharmaceutical Industries Limited
+© 2026 Sun Pharmaceutical Industries Limited
 
 All rights reserved.
 
-Revised: 2026 April
+Revised: 2026 May
 
 uspi-YONSA-tab-00006
