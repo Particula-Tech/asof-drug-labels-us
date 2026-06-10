@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Embryo-Fetal Toxicity
 
-- Advise females of reproductive potential of the potential risk to a fetus and to inform their healthcare provider of a known or suspected pregnancy [see Contraindications (4), Warnings and Precautions (5.1), Use in Specific Populations (8.1)].
+- Advise females of reproductive potential of the potential risk to a fetus and to inform their healthcare provider of a known or suspected pregnancy [see Contraindications (4),Warnings and Precautions (5.1),Use in Specific Populations (8.1)].
 - Advise females of reproductive potential to use effective contraception during treatment with JYLAMVO and for 6 months after the final dose [see Use in Specific Populations (8.3)].
 - Advise males of reproductive potential to use effective contraception during treatment with JYLAMVO and for at least 3 months after the final dose [see Use in Specific Populations (8.3)].
 
@@ -40,9 +40,9 @@ Renal Toxicity
 
 Advise patients and their caregivers to immediately contact their healthcare provider for signs or symptoms of renal toxicity, such as marked increases or decreases in urinary output [see Warnings and Precautions (5.8)].
 
-Risk of Serious Adverse Reactions with Medication Error
+Risk of Fatal Adverse Reactions with Medication Error
 
-For patients who are prescribed a once weekly dosing regimen, advise patients and caregivers that the recommended dosage is to be taken once weekly as a single dose and that mistakenly taking the recommended weekly dosage once daily has led to fatal adverse reactions [see Warnings and Precautions (5.9)].
+For patients who are prescribed a once weekly dosing regimen, advise patients and caregivers that the recommended dosage is to be taken once weekly as a single dose and that mistakenly taking the recommended weekly dosage once daily has led to death [seeWarnings and Precautions (5.9)].
 
 Importance of Proper Dosage and Administration
 
@@ -67,7 +67,7 @@ Instruct women not to breastfeed during treatment with JYLAMVO and for 1 week af
 
 Infertility
 
-Advise females and males of reproductive potential that methotrexate may impair fertility [see Warnings and Precautions (5.16), Use in Specific Populations (8.3)].
+Advise females and males of reproductive potential that methotrexate may impair fertility [see Warnings and Precautions (5.16),Use in Specific Populations (8.3)].
 
 Drug Interactions
 

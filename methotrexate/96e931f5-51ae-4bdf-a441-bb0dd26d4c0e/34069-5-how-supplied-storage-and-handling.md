@@ -12,4 +12,5 @@ Keep the bottle tightly closed.
 After first opening, discard any unused medicine after 3 months.
 
 JYLAMVO is a hazardous drug.
-Follow applicable special handling and disposal procedures.1
+Follow applicable special handling and disposal procedures.
+1

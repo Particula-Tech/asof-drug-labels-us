@@ -4,7 +4,7 @@ WARNING: Hazardous drug
 
 NDC 81927-204-01
 
-Jylamvo®
+Jylamvo ®
 
 (methotrexate)
 
@@ -14,7 +14,7 @@ Oral Solution
 
 For Oral Use Only
 
-Attention Pharmacist: Dispense the accompanying Patient Information to each patient.
+PHARMACIST: DISPENSE THE PATIENT INFORMATION.
 
 60 mL
 
@@ -24,7 +24,7 @@ WARNING: hazardous drug
 
 NDC 81927-204-01
 
-Jylamvo®
+Jylamvo ®
 
 (methotrexate)
 
@@ -34,7 +34,7 @@ Oral Solution
 
 For Oral Use Only
 
-Attention Pharmacist: Dispense the accompanying Patient Information to each patient.
+PHARMACIST: DISPENSE THE PATIENT INFORMATION.
 
 60 mL
 

@@ -1,9 +1,9 @@
 Manufactured By:
 
-SGS Quay Pharmaceuticals Ltd., Deeside, UK
+SGS United Kingdom Ltd., Deeside, UK
 
 Distributed By:
 
 Shorla Oncology Inc., Cambridge, MA 02142, USA.
 
-Version: JYLPI010
+Version: JYLPI012
