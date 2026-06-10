@@ -7,7 +7,7 @@ There are risks to the mother associated with untreated thrombosis in pregnancy 
 In animal reproduction studies, there was no evidence of adverse developmental outcomes with intravenous administration of argatroban during organogenesis in rats and rabbits at doses up to 0.3- and 0.2-times, respectively, the maximum recommended human dose (MHRD) (see Data).
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk Pregnancy confers an increased risk for thromboembolism that is higher for women with underlying thromboembolic disease and certain high risk pregnancy conditions.
 Published data describe that women with a previous history of venous thrombosis are at high risk for recurrence during pregnancy.
 Fetal/Neonatal Adverse Reactions Use of anticoagulants, including argatroban, may increase the risk of bleeding in the fetus and neonate.

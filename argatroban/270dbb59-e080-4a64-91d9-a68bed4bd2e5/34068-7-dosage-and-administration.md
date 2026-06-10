@@ -2,8 +2,8 @@
 
 ## 2.1 Preparation for Intravenous Administration
 
-Dilution is not required for Argatroban Injection, USP 50 mg/50 mL (1 mg/mL).
-Argatroban Injection, USP 50 mg/50 mL (1 mg/mL) Each 50 mL glass vial contains 50 mg argatroban (1 mg/mL); and, as supplied, is ready for intravenous infusion.
+Dilution is not required for Argatroban Injection 50 mg/50 mL (1 mg/mL).
+Argatroban Injection 50 mg/50 mL (1 mg/mL) Each 50 mL glass vial contains 50 mg argatroban (1 mg/mL); and, as supplied, is ready for intravenous infusion.
 Dilution is not required.
 Argatroban Injection is a clear, colorless to pale yellow solution.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
@@ -55,35 +55,35 @@ Check the ACT after each additional bolus or change in the rate of infusion.
 | --- | --- | --- | --- | --- |
 | Body Weight (kg) | Starting Bolus Dose (350 mcg/kg) |  | Starting and Maintenance Continuous Infusion Dosing For ACT 300-450 seconds 25 mcg/kg/min |  |
 | Bolus Dose (mcg) | Bolus Volume (mL) | Continuous Infusion Dose (mcg/min) | Continuous Infusion Rate (mL/hr) |  |
-| 50 | 17500 | 18 | 1250 | 75 |
-| 60 | 21000 | 21 | 1500 | 90 |
-| 70 | 24500 | 25 | 1750 | 105 |
-| 80 | 28000 | 28 | 2000 | 120 |
-| 90 | 31500 | 32 | 2250 | 135 |
-| 100 | 35000 | 35 | 2500 | 150 |
-| 110 | 38500 | 39 | 2750 | 165 |
-| 120 | 42000 | 42 | 3000 | 180 |
-| 130 | 45500 | 46 | 3250 | 195 |
-| 140 | 49000 | 49 | 3500 | 210 |
+| 50 | 17,500 | 18 | 1,250 | 75 |
+| 60 | 21,000 | 21 | 1,500 | 90 |
+| 70 | 24,500 | 25 | 1,750 | 105 |
+| 80 | 28,000 | 28 | 2,000 | 120 |
+| 90 | 31,500 | 32 | 2,250 | 135 |
+| 100 | 35,000 | 35 | 2,500 | 150 |
+| 110 | 38,500 | 39 | 2,750 | 165 |
+| 120 | 42,000 | 42 | 3,000 | 180 |
+| 130 | 45,500 | 46 | 3,250 | 195 |
+| 140 | 49,000 | 49 | 3,500 | 210 |
 
-NOTE: 1 mg = 1000 mcg; 1 kg = 2.2 lbs
+NOTE: 1 mg = 1,000 mcg; 1 kg = 2.2 lbs
 
 | Table 3 Recommended Dose Adjustments of Argatroban Injection for Patients Outside of ACT Target Range Undergoing PCI Without Hepatic Impairment (1 mg/mL Final Concentration) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Body Weight (kg) | If ACT Less than 300 seconds Dosage Adjustment† 30 mcg/kg/min |  |  |  | If ACT Greater than 450 seconds Dosage Adjustment* 15 mcg/kg/min |  |
 | Additional Bolus Dose (mcg) | Bolus Volume (mL) | Continuous Infusion Dose (mcg/min) | Continuous Infusion Rate (mL/hr) | Continuous Infusion Dose (mcg/min) | Continuous Infusion Rate (mL/hr) |  |
-| 50 | 7500 | 8 | 1500 | 90 | 750 | 45 |
-| 60 | 9000 | 9 | 1800 | 108 | 900 | 54 |
-| 70 | 10500 | 11 | 2100 | 126 | 1050 | 63 |
-| 80 | 12000 | 12 | 2400 | 144 | 1200 | 72 |
-| 90 | 13500 | 14 | 2700 | 162 | 1350 | 81 |
-| 100 | 15000 | 15 | 3000 | 180 | 1500 | 90 |
-| 110 | 16500 | 17 | 3300 | 198 | 1650 | 99 |
-| 120 | 18000 | 18 | 3600 | 216 | 1800 | 108 |
-| 130 | 19500 | 20 | 3900 | 234 | 1950 | 117 |
-| 140 | 21000 | 21 | 4200 | 252 | 2100 | 126 |
+| 50 | 7,500 | 8 | 1,500 | 90 | 750 | 45 |
+| 60 | 9,000 | 9 | 1,800 | 108 | 900 | 54 |
+| 70 | 10,500 | 11 | 2,100 | 126 | 1,050 | 63 |
+| 80 | 12,000 | 12 | 2,400 | 144 | 1,200 | 72 |
+| 90 | 13,500 | 14 | 2,700 | 162 | 1,350 | 81 |
+| 100 | 15,000 | 15 | 3,000 | 180 | 1,500 | 90 |
+| 110 | 16,500 | 17 | 3,300 | 198 | 1,650 | 99 |
+| 120 | 18,000 | 18 | 3,600 | 216 | 1,800 | 108 |
+| 130 | 19,500 | 20 | 3,900 | 234 | 1,950 | 117 |
+| 140 | 21,000 | 21 | 4,200 | 252 | 2,100 | 126 |
 
-NOTE: 1 mg = 1000 mcg; 1 kg = 2.2 lbs
+NOTE: 1 mg = 1,000 mcg; 1 kg = 2.2 lbs
 
 †Additional intravenous bolus dose of 150 mcg/kg should be administered if ACT less than 300 seconds. * No bolus dose is given if ACT greater than 450 seconds
 
@@ -96,7 +96,7 @@ Continued Anticoagulation after PCI If a patient requires anticoagulation after 
 
 ## 2.4 Dosing in Patients with Hepatic Impairment
 
-Initial Dosage For adult patients with HIT and moderate or severe hepatic impairment (based on Child- Pugh classification), an initial dose of 0.5 mcg/kg/min is recommended, based on the approximately 4-fold decrease in argatroban clearance relative to those with normal hepatic function.
+Initial Dosage For adult patients with HIT and moderate or severe hepatic impairment (based on Child-Pugh classification), an initial dose of 0.5 mcg/kg/min is recommended, based on the approximately 4-fold decrease in argatroban clearance relative to those with normal hepatic function.
 Monitor the aPTT closely, and adjust the dosage as clinically indicated.
 Monitoring Therapy Achievement of steady state aPTT levels may take longer and require more dose adjustments in patients with hepatic impairment compared to patients with normal hepatic function.
 For patients with hepatic impairment undergoing PCI and who have HIT or are at risk for HIT, carefully titrate argatroban until the desired level of anticoagulation is achieved.

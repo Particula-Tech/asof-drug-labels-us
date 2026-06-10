@@ -18,7 +18,7 @@ Secondary analyses included evaluation of the event rates for the components of 
 In Study 1, a total of 304 patients were enrolled as follows: active HIT (n = 129), active HITTS (n =144), or latent disease (n = 31).
 Among the 193 historical controls, 139 (72%) had active HIT, 46 (24%) had active HITTS, and 8 (4%) had latent disease.
 Within each group, those with active HIT and those with latent disease were analyzed together.
-Positive laboratory confirmation of HIT/HITTS by the heparin-induced platelet aggregation test or serotonin release assay was demonstrated in 174 of 304 (57%) argatrobantreated patients (i.e., in 80 with HIT or latent disease and 94 with HITTS) and in 149 of 193 (77%) historical controls (i.e., in 119 with HIT or latent disease and 30 with HITTS).
+Positive laboratory confirmation of HIT/HITTS by the heparin-induced platelet aggregation test or serotonin release assay was demonstrated in 174 of 304 (57%) argatroban-treated patients (i.e., in 80 with HIT or latent disease and 94 with HITTS) and in 149 of 193 (77%) historical controls (i.e., in 119 with HIT or latent disease and 30 with HITTS).
 The test results for the remainder of the patients and controls were either negative or not determined.
 There was a significant improvement in the composite outcome in patients with HIT and HITTS treated with argatroban versus those in the historical control group (see Table 9).
 The components of the composite endpoint are shown in Table 9.
@@ -42,12 +42,12 @@ A time-to-event analysis for the composite endpoint is shown in Figure 3 for pat
 Figure 3.
 Time to First Event for the Composite Efficacy Endpoint: HIT Patients
 
-* Censored indicates no clinical endpoint (defined as death, amputation, or new thrombosis) was observed during the follow-up period (maximum period of follow-up was 37 days).
+*Censored indicates no clinical endpoint (defined as death, amputation, or new thrombosis) was observed during the follow-up period (maximum period of follow-up was 37 days).
 
 Figure 4.
 Time to First Event for the Composite Efficacy Endpoint: HITTS Patients
 
-* Censored indicates no clinical endpoint (defined as death, amputation, or new thrombosis) was observed during the follow-up period (maximum period of follow-up was 37 days).
+*Censored indicates no clinical endpoint (defined as death, amputation, or new thrombosis) was observed during the follow-up period (maximum period of follow-up was 37 days).
 
 In Study 2, a total of 264 patients were enrolled as follows: HIT (n = 125) or HITTS (n = 139).
 There was a significant improvement in the composite efficacy outcome for argatroban-treated patients, versus the same historical control group from Study 1, among patients having HIT (25.6% vs. 38.8%), patients having HITTS (41.0% vs. 56.5%), and patients having either HIT or HITTS (33.7% vs. 43.0%).
@@ -74,7 +74,7 @@ Simultaneously, a maintenance infusion of 25 mcg/kg/min was initiated to achieve
 If necessary to achieve this therapeutic range, the maintenance infusion dose was titrated (15 to 40 mcg/kg/min) and/or an additional bolus dose of 150 mcg/kg could be given.
 Each patient’s ACT was checked 5 to 10 minutes following the bolus dose.
 The ACT was checked as clinically indicated.
-Arterial and venous sheaths were removed no sooner than 2 hours after discontinuation of argatroban and when the ACT was less than160 seconds.
+Arterial and venous sheaths were removed no sooner than 2 hours after discontinuation of argatroban and when the ACT was less than 160 seconds.
 If a patient required anticoagulation after the procedure, argatroban could be continued, but at a lower infusion dose between 2.5 and 5 mcg/kg/min.
 An aPTT was drawn 2 hours after this dose reduction and the dose of argatroban then was adjusted as clinically indicated (not to exceed 10 mcg/kg/min), to reach an aPTT between 1.5 and 3 times baseline value (not to exceed 100 seconds).
 In 92 of the 112 interventions (82%), the patient received the initial bolus of 350 mcg/kg and an initial infusion dose of 25 mcg/kg/min.

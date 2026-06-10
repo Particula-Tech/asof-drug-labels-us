@@ -15,7 +15,7 @@ Table 4 gives an overview of the most frequently observed hemorrhagic reactions,
 | Table 4 Major and Minor Hemorrhagic Adverse Reactions in Patients With HIT* |  |  |
 | --- | --- | --- |
 | Major Hemorrhagic Reactionsa |  |  |
-|  | Argatroban-treated Patients (Study 1 and Study 2) (n = 568) % | Historical ControlC (n = 193) % |
+|  | Argatroban-treated Patients (Study 1 and Study 2) (n = 568) % | Historical Controlc (n = 193) % |
 | Overall bleeding | 5.3 | 6.7 |
 | Gastrointestinal | 2.3 | 1.6 |
 | Genitourinary and hematuria | 0.9 | 0.5 |
@@ -24,7 +24,7 @@ Table 4 gives an overview of the most frequently observed hemorrhagic reactions,
 | Limb and BKA stump | 0.5 | 0 |
 | Intracranial hemorrhage | 0b | 0.5 |
 | Minor Hemorrhagic Reactionsa |  |  |
-|  | Argatroban-treated Patients (Study 1 and Study 2) (n = 568) % | Historical ControlC (n = 193) % |
+|  | Argatroban-treated Patients (Study 1 and Study 2) (n = 568) % | Historical Controlc (n = 193) % |
 | Gastrointestinal | 14.4 | 18.1 |
 | Genitourinary and hematuria | 11.6 | 0.8 |
 | Decrease in hemoglobin and hematocrit | 10.4 | 0 |
@@ -60,7 +60,7 @@ Table 5 gives an overview of the most frequently observed non-hemorrhagic reacti
 | Cerebrovascular disorder | 2.3 | 4.1 |
 
 a) Patients may have experienced more than 1 adverse reaction. b) With or without thrombosis c) The historical control group consisted of patients with a clinical diagnosis of HIT (with or without thrombosis) that were considered eligible by an independent medical panel.
-Adverse Reactions in Patients with or at Risk for HIT Undergoing PCI The following safety information is based on 91 patients initially treated with Argatroban and 21 patients subsequently re-exposed to argatroban for a total of 112 PCIs with argatroban anticoagulation.
+Adverse Reactions in Patients with or at Risk for HIT Undergoing PCI The following safety information is based on 91 patients initially treated with argatroban and 21 patients subsequently re-exposed to argatroban for a total of 112 PCIs with argatroban anticoagulation.
 Adverse reactions are separated into hemorrhagic (Table 6) and non-hemorrhagic (Table 7) reactions.
 Major bleeding was defined as bleeding that was overt and associated with a hemoglobin decrease ≥5 g/dL, that led to a transfusion of ≥2 units, or that was intracranial, retroperitoneal, or into a major prosthetic joint.
 The rate of major bleeding events in patients treated with argatroban in the PCI trials was 1.8%.
@@ -85,7 +85,7 @@ The rate of major bleeding events in patients treated with argatroban in the PCI
 
 a) Patients may have experienced more than 1 adverse reaction. b) 91 patients who underwent 112 interventions.
 CABG = coronary artery bypass graft.
-Table 7 gives an overview of the most frequently observed non-hemorrhagic adverse reactions (>2%), sorted by decreasing frequency of occurrence among argatroban treated PCI patients.
+Table 7 gives an overview of the most frequently observed non-hemorrhagic adverse reactions (>2%), sorted by decreasing frequency of occurrence among argatroban-treated PCI patients.
 
 | Table 7 Non-hemorrhagic Adverse Reactionsa in Patients With HIT Undergoing PCI |  |
 | --- | --- |
@@ -147,3 +147,10 @@ About 95% (148/156) of these reactions occurred in patients who concomitantly re
 Allergic reactions or suspected allergic reactions in populations other than patients with HIT (with or without thrombosis) include (in descending order of frequency): • Airway reactions (coughing, dyspnea): 10% or more • Skin reactions (rash, bullous eruption): 1 to <10% • General reactions (vasodilation): 1 to 10% Limited data are available on the potential formation of drug-related antibodies.
 Plasma from 12 healthy volunteers treated with argatroban over 6 days showed no evidence of neutralizing antibodies.
 No loss of anticoagulant activity was noted with repeated administration of argatroban to more than 40 patients.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of argatroban.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Anaphylaxis

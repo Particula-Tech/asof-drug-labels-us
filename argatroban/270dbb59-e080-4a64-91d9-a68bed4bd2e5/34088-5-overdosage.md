@@ -7,3 +7,5 @@ No specific antidote to argatroban is available; if life-threatening bleeding oc
 When argatroban was administered as a continuous infusion (2 mcg/kg/min) prior to and during a 4-hour hemodialysis session, approximately 20% of argatroban was cleared through dialysis.
 Single intravenous doses of argatroban at 200, 124, 150, and 200 mg/kg were lethal to mice, rats, rabbits, and dogs, respectively.
 The symptoms of acute toxicity were loss of righting reflex, tremors, clonic convulsions, paralysis of hind limbs, and coma.
+
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.

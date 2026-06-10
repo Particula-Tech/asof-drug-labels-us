@@ -8,7 +8,7 @@ The molecular formula of argatroban is C23H36N6O5S•H2O.
 Its molecular weight is 526.66 g/mol.
 The structural formula is shown below:
 
-Argatroban is a white, odorless crystalline powder that is freely soluble in glacial acetic acid, slightly soluble in ethanol, and insoluble in acetone, ethyl acetate, and ether.
+Argatroban is a white to off white crystalline powder that is freely soluble in acetic acid, sparingly soluble in methanol, slightly soluble in ethanol and very slightly soluble in water.
 Argatroban Injection, USP 50 mg/50 mL (1 mg/mL) is a sterile clear, colorless to pale yellow, solution.
 Argatroban Injection, USP 50 mg/50 mL (1 mg/mL) is available in 50-mg (in 50-mL) single-dose vials, with blue color matte top caps.
 Each mL of sterile, nonpyrogenic solution contains 1 mg Argatroban.
