@@ -97,6 +97,7 @@ Effect of Coadministered Drugs on Pitavastatin Systemic Exposure
 
 | Coadministered drug | Dosage regimen | Change in AUC Data presented as x-fold change represent the ratio between coadministration and pitavastatin alone (i.e., 1-fold = no change). Data presented as % change represent % difference relative to pitavastatin alone (i.e., 0% = no change). | Change in C max |
 | --- | --- | --- | --- |
+| BID = twice daily; QD = once daily; LA = Long Acting |  |  |  |
 | Cyclosporine | Pitavastatin 2 mg QD for 6 days + cyclosporine 2 mg/kg on Day 6 | ↑ 4.6 fold Considered clinically significant [see Dosage and Administration (2.4), Drug Interactions (7)] | ↑ 6.6 fold |
 | Erythromycin | Pitavastatin 4 mg single dose on Day 4 + erythromycin 500 mg 4 times daily for 6 days | ↑ 2.8 fold | ↑ 3.6 fold |
 | Rifampin | Pitavastatin 4 mg QD + rifampin 600 mg QD for 5 days | ↑ 29% | ↑ 2.0 fold |
@@ -111,7 +112,6 @@ Effect of Coadministered Drugs on Pitavastatin Systemic Exposure
 | Diltiazem LA | Pitavastatin 4 mg QD on Days 1 to 5 and 11 to 15 and diltiazem LA 240 mg on Days 6 to 15 | ↑ 10% | ↑ 15% |
 | Grapefruit Juice | Pitavastatin 2 mg single dose on Day 3 + grapefruit juice for 4 days | ↑ 15% | ↓ 12% |
 | Itraconazole | Pitavastatin 4 mg single dose on Day 4 + itraconazole 200 mg daily for 5 days | ↓ 23% | ↓ 22% |
-| BID = twice daily; QD = once daily; LA = Long Acting |  |  |  |
 
 Table 4 presents the effect of pitavastatin coadministration on systemic exposure of other drugs:
 
@@ -120,6 +120,7 @@ Effect of Pitavastatin Coadministration on Systemic Exposure to Other Drugs
 
 | Coadministered drug | Dosage regimen |  | Change in AUC Data presented as % change represent % difference relative to the investigated drug alone (i.e., 0% = no change). | Change in C max |
 | --- | --- | --- | --- | --- |
+| BID = twice daily; QD = once daily; LA = Long Acting |  |  |  |  |
 | Atazanavir | Pitavastatin 4 mg QD + atazanavir 300 mg daily for 5 days |  | ↑ 6% | ↑ 13% |
 | Darunavir | Pitavastatin 4 mg QD on Days 1 to 5 and 12 to 16 + darunavir/ritonavir 800 mg/100 mg QD on Days 6 to 16 |  | ↑ 3% | ↑ 6% |
 | Lopinavir | Pitavastatin 4 mg QD on Days 1 to 5 and 20 to 24 + lopinavir/ritonavir 400 mg/100 mg BID on Days 9 to 24 |  | ↓ 9% | ↓ 7% |
@@ -133,4 +134,3 @@ Effect of Pitavastatin Coadministration on Systemic Exposure to Other Drugs
 | Digoxin | Pitavastatin 4 mg QD + digoxin 0.25 mg for 7 days |  | ↓ 3% | ↓ 4% |
 | Diltiazem LA | Pitavastatin 4 mg QD on Days 1 to 5 and 11 to 15 and diltiazem LA 240 mg on Days 6 to 15 |  | ↓ 2% | ↓ 7% |
 | Rifampin | Pitavastatin 4 mg QD + rifampin 600 mg QD for 5 days |  | ↓ 15% | ↓ 18% |
-| BID = twice daily; QD = once daily; LA = Long Acting |  |  |  |  |
