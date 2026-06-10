@@ -12,29 +12,24 @@ Lisdexamfetamine dimesylate capsules may cause serious side effects, including:
   Lisdexamfetamine dimesylate capsules, has a high chance for abuse and misuse and may lead to substance use problems, including addiction.
   Misuse and abuse of lisdexamfetamine dimesylate capsules, other amphetamine containing medicines, and methylphenidate containing medicines, can lead to overdose and death.
   The risk of overdose and death is increased with higher doses of lisdexamfetamine dimesylate capsules or when it is used in ways that are not approved, such as snorting or injection.
-- •Your healthcare provider should check you or your child’s risk for abuse, misuse, and addiction before starting treatment with lisdexamfetamine dimesylate capsules and will monitor you or your child during treatment.
-- •Lisdexamfetamine dimesylate capsules may lead to physical dependence after prolonged use, even if taken as directed by your healthcare provider.
-- •Do not give lisdexamfetamine dimesylate capsules to anyone else.
+- oYour healthcare provider should check you or your child’s risk for abuse, misuse, and addiction before starting treatment with lisdexamfetamine dimesylate capsules and will monitor you or your child during treatment.
+- oLisdexamfetamine dimesylate capsules may lead to physical dependence after prolonged use, even if taken as directed by your healthcare provider.
+- oDo not give lisdexamfetamine dimesylate capsules to anyone else.
   See “What are lisdexamfetamine dimesylate capsules?” for more information.
-- •Keep lisdexamfetamine dimesylate capsules in a safe place and properly dispose of any unused medicine.
+- oKeep lisdexamfetamine dimesylate capsules in a safe place and properly dispose of any unused medicine.
   See "How should I store lisdexamfetamine dimesylate capsules?" for more information.
-- •Tell your healthcare provider if you or your child have ever abused or been dependent on alcohol, prescription medicines, or street drugs.
-
-Risks for people with serious heart disease.
-Sudden death has happened in people who have heart defects or other serious heart disease.
-Your healthcare provider should check you or your child carefully for heart problems before starting treatment with lisdexamfetamine dimesylate capsules.
-Tell your healthcare provider if you or your child have any heart problems, heart disease, or heart defects.
-
-Call your healthcare provider right away or go to the nearest hospital emergency room right away if you or your child have any signs of heart problems such as chest pain, shortness of breath, or fainting during treatment with lisdexamfetamine dimesylate capsules.
-
-Increased blood pressure and heart rate.
-Your healthcare provider should check you or your child’s blood pressure and heart rate regularly during treatment with lisdexamfetamine dimesylate capsules.
-
-Mental (psychiatric) problems, including:
-
-- •new or worse behavior and thought problems
-- •new or worse bipolar illness
-- •new psychotic symptoms (such as hearing voices, or seeing or believing things that are not real) or new manic symptoms
+- oTell your healthcare provider if you or your child have ever abused or been dependent on alcohol, prescription medicines, or street drugs.
+- •Risks for people with serious heart disease.
+  Sudden death has happened in people who have heart defects or other serious heart disease.
+  Your healthcare provider should check you or your child carefully for heart problems before starting treatment with lisdexamfetamine dimesylate capsules.
+  Tell your healthcare provider if you or your child have any heart problems, heart disease, or heart defects.
+- Call your healthcare provider right away or go to the nearest hospital emergency room right away if you or your child have any signs of heart problems such as chest pain, shortness of breath, or fainting during treatment with lisdexamfetamine dimesylate capsules.
+- •Increased blood pressure and heart rate.
+  Your healthcare provider should check you or your child’s blood pressure and heart rate regularly during treatment with lisdexamfetamine dimesylate capsules.
+- •Mental (psychiatric) problems, including:
+- onew or worse behavior and thought problems
+- onew or worse bipolar illness
+- onew psychotic symptoms (such as hearing voices, or seeing or believing things that are not real) or new manic symptoms
 - Tell your healthcare provider about any mental problems you or your child have or about a family history of suicide, bipolar illness, or depression.
 - Call your healthcare provider right away if you or your child have any new or worsening mental symptoms or problems during treatment with lisdexamfetamine dimesylate capsules, especially hearing voices, seeing or believing things that are not real, or new manic symptoms.
 
@@ -132,7 +127,7 @@ Lisdexamfetamine dimesylate capsules may cause serious side effects, including:
   Children should have their height and weight checked often during treatment with lisdexamfetamine dimesylate capsules.
   Lisdexamfetamine dimesylate capsules treatment may be stopped if your child is not growing or gaining weight as expected.
 - •Circulation problems in fingers and toes (peripheral vasculopathy, including Raynaud’s phenomenon).
-- •Signs and symptoms may include:
+  Signs and symptoms may include:
 - ofingers or toes may feel numb, cool, painful
 - ofingers or toes may change color from pale, to blue, to red
 - Tell your healthcare provider if you or your child have numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.
@@ -141,14 +136,14 @@ Lisdexamfetamine dimesylate capsules may cause serious side effects, including:
   A potentially life-threatening problem called serotonin syndrome may happen when lisdexamfetamine dimesylate capsules are taken with certain other medicines.
   Stop taking lisdexamfetamine dimesylate capsules and call your healthcare provider or go to the nearest hospital emergency room right away if you or your child develop any of the following signs and symptoms of serotonin syndrome:
 
-| oagitation | ofast heartbeat |
-| --- | --- |
-| oflushing | oseizures |
-| ocoma | osweating |
-| oloss of coordination | oconfusion |
-| odizziness | otremors, stiff muscles, or muscle twitching |
-| oseeing or hearing things that are not real (hallucination) | ochanges in blood pressureonausea, vomiting, diarrhea |
-| ohigh body temperature (hyperthermia) |  |
+| oagitation | ofast heartbeat |  |  |
+| --- | --- | --- | --- |
+| oflushing | oseizures |  |  |
+| ocoma | osweating |  |  |
+| oloss of coordination | oconfusion |  |  |
+| odizziness | otremors, stiff muscles, or muscle twitching |  |  |
+| oseeing or hearing things that are not real (hallucination) | ochanges in blood pressureonausea, vomiting, diarrhea |  |  |
+| ohigh body temperature (hyperthermia) |  |  |  |
 
 - •New or worsening tics or worsening Tourette’s syndrome.
   Tell your healthcare provider if you or your child get any new or worsening tics or worsening Tourette’s syndrome during treatment with lisdexamfetamine dimesylate capsules.
