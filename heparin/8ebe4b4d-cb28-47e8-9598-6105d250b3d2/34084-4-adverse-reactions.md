@@ -8,6 +8,7 @@ The following clinically significant adverse reactions are described elsewhere i
 - Thrombocytopenia [see Warnings and Precautions (5.5)]
 - Heparin Resistance [see Warnings and Precautions (5.7)]
 - Hypersensitivity [see Warnings and Precautions (5.8)]
+- Hyperkalemia [see Warnings and Precautions (5.9)]
 
 ## 6.1 Postmarketing Experience
 
@@ -28,5 +29,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Hypersensitivity – Generalized hypersensitivity reactions have been reported, with chills, fever and urticaria as the most usual manifestations, and asthma, rhinitis, lacrimation, headache, nausea and vomiting, and anaphylactoid reactions, including shock, occurring less frequently.
   Itching and burning, especially on the plantar side of the feet, may occur.
   [see Warnings and Precautions (5.8)].
-- Elevations of aminotransferases – Significant elevations of aspartate aminotransferase (AST) and alanine aminotransferase (ALT) levels have occurred in patients who have received heparin [see Drug Interactions (7.4)].
+- Elevations of aminotransferases – Significant elevations of aspartate aminotransferase (AST) and alanine aminotransferase (ALT) levels have occurred in patients who have received heparin.
 - Miscellaneous – Osteoporosis following long-term administration of high doses of heparin, cutaneous necrosis after systemic administration, suppression of aldosterone synthesis, delayed transient alopecia, priapism, and rebound hyperlipemia on discontinuation of heparin sodium have also been reported.
+- Metabolism and Nutrition Disorders – Hyperkalemia.

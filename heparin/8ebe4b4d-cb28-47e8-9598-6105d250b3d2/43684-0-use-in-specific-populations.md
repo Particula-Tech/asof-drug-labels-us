@@ -41,7 +41,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 ## 8.4 Pediatric Use
 
 There are no adequate and well controlled studies on heparin use in pediatric patients.
-Pediatric dosing recommendations are based on clinical experience [see Dosage and Administration (2.4)].
+Pediatric dosing recommendations are based on clinical experience [see Dosage and Administration (2.5)].
 
 Carefully examine all heparin sodium vials to confirm choice of the correct strength prior to administration of the drug.
 Pediatric patients, including neonates, have died as a result of medication errors in which heparin sodium vials have been confused with “catheter lock flush” vials [see Warnings and Precautions (5.1)].

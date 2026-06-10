@@ -41,10 +41,10 @@ Patients presenting with thrombocytopenia or thrombosis after discontinuation of
 
 ## 5.4 Risk of Serious Adverse Reactions in Infants Due to Benzyl Alcohol Preservative
 
-Serious and fatal adverse reactions including “gasping syndrome” can occur in neonates and infants treated with benzyl alcohol-preserved drugs, including heparin sodium multiple-dose vials.
+Serious and fatal adverse reactions including “gasping syndrome” can occur in neonates and infants treated with benzyl alcohol-preserved drugs, including heparin sodium vials.
 The “gasping syndrome” is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
 
-When prescribing heparin sodium multiple-dose vials in infants consider the combined daily metabolic load of benzyl alcohol from all sources including heparin sodium multiple-dose vials (contains 10.42 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol.
+When prescribing heparin sodium vials in infants consider the combined daily metabolic load of benzyl alcohol from all sources including heparin sodium (contains 10.42 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol.
 The minimum amount of benzyl alcohol at which toxicity may occur is not known [see Use in Specific Populations (8.4)].
 
 ## 5.5 Thrombocytopenia
@@ -59,7 +59,7 @@ If the count falls below 100,000/mm3 or if recurrent thrombosis develops, prompt
 
 When using a full dose heparin regimen, adjust the heparin dose based on frequent blood coagulation tests.
 If the coagulation test is unduly prolonged or if hemorrhage occurs, discontinue heparin promptly [see Overdosage (10)].
-Periodic platelet counts and hematocrits are recommended during the entire course of heparin therapy, regardless of the route of administration [see Dosage and Administration (2.2)].
+Periodic platelet counts and hematocrits are recommended during the entire course of heparin therapy, regardless of the route of administration [see Dosage and Administration (2.3)].
 
 ## 5.7 Heparin Resistance
 
@@ -72,3 +72,10 @@ Adjustment of heparin doses based on anti-Factor Xa levels may be warranted.
 Patients with documented hypersensitivity to heparin should be given the drug only in clearly life-threatening situations.
 
 Because heparin sodium is derived from animal tissue, it should be used with caution in patients with a history of allergy.
+
+## 5.9 Hyperkalemia
+
+Heparin can suppress adrenal secretion of aldosterone leading to hyperkalemia, particularly in patients with diabetes mellitus, chronic renal failure, pre-existing metabolic acidosis, a raised plasma potassium, or taking potassium sparing drugs.
+The risk of hyperkalemia appears to increase with duration of therapy but is usually reversible upon discontinuation of heparin.
+
+Measure blood potassium in patients at risk of hyperkalemia before starting heparin therapy and periodically in all patients treated for more than 5 days or earlier as deemed fit by the clinician.
