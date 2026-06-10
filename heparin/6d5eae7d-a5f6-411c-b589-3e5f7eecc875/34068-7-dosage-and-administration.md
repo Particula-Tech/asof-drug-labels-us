@@ -9,8 +9,7 @@ Inspect parenteral drug products visually for particulate matter and discolorati
 Use only if solution is clear and the seal is intact.
 Do not use if solution is discolored or contains a precipitate.
 
-When heparin is added to an infusion solution for continuous intravenous (IV) administration, invert the container at least six times to ensure adequate mixing and prevent pooling of the heparin in the solution.
-Storage of prepared infusion solution should not exceed 4 hours at room temperature or 24 hours at 2° to 8°C (36° to 46°F).
+When heparin is added to an infusion solution for continuous intravenous administration, the container should be inverted at least six times to ensure adequate mixing and prevent pooling of the heparin in the solution.
 
 Administer heparin sodium injection by intermittent intravenous injection, intravenous infusion, or deep subcutaneous (intrafat, i.e., above the iliac crest or abdominal fat layer) injection.
 The intramuscular route of administration should be avoided because of the frequent occurrence of hematoma at the injection site [see Adverse Reactions (6.1)].
@@ -25,12 +24,12 @@ After deep subcutaneous (intrafat) injections, tests for adequacy of dosage are 
 
 Periodically monitor platelet counts, hematocrit, and occult blood in stool during the entire course of heparin therapy, regardless of the route of administration.
 
-## 2.3 Therapeutic Anticoagulant Effect with Full-Dose Heparin
+## 2.3 Therapeutic Anticoagulant Effect with Full-Dose Heparin Sodium Injection
 
 The dosing recommendations in Table 1 are based on clinical experience.
 Although dosages must be adjusted for the individual patient according to the results of suitable laboratory tests, the following dosage schedules may be used as guidelines:
 
-Table 1: Recommended Adult Full-Dose Heparin Regimens for Therapeutic Anticoagulant Effect
+Table 1: Recommended Adult Full-Dose Heparin Sodium Injection Regimens for Therapeutic Anticoagulant Effect
 
 | METHOD OF ADMINISTRATION | FREQUENCY | RECOMMENDED DOSE |
 | --- | --- | --- |
