@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA220787"
+  ],
+  "inn": "cefepime",
+  "labeler": "Wockhardt Suisse USA LLC",
+  "package_ndcs": [
+    "87706-866-00",
+    "87706-866-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "zidebactam dihydrate and cefepime hydrochloride",
+      "name": "ZAYNICH"
+    }
+  ],
+  "setid": "c84e652e-5e76-4568-8812-bd5fa34803b6",
+  "source": "dailymed"
+}
