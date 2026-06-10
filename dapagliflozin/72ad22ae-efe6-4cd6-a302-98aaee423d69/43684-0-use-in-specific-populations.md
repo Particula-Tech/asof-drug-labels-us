@@ -7,7 +7,7 @@
 Based on animal data showing adverse renal effects, FARXIGA is not recommended during the second and third trimesters of pregnancy.
 
 Limited data with FARXIGA in pregnant women are not sufficient to determine drug-associated risk for major birth defects or miscarriage.
-There are risks to the mother and fetus associated with poorly controlled diabetes and untreated heart failure in pregnancy (see).
+There are risks to the mother and fetus associated with poorly controlled diabetes and untreated heart failure in pregnancy (see clinical considerations).
 
 In animal studies, adverse renal pelvic and tubule dilatations, that were not fully reversible, were observed in rats when dapagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy, at all doses tested; the lowest of which provided an exposure 15-times the 10 mg clinical dose (see Data).
 
@@ -15,7 +15,7 @@ The estimated background risk of major birth defects is 6 to 10% in women with p
 The estimated background risk of miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations
+### Clinical Considerations
 
 Disease-associated maternal and/or embryofetal risk
 
@@ -67,9 +67,9 @@ The safety and effectiveness of FARXIGA for glycemic control in type 2 diabetes 
 
 The safety and effectiveness of FARXIGA have not been established in pediatric patients to reduce the risk of [see Indications and Usage (1)]:
 
-- •sustained eGFR decline, end-stage kidney disease, cardiovascular death, and hospitalization for heart failure in patients with chronic kidney disease at risk of progression.
-- •cardiovascular death, hospitalization for heart failure, and urgent heart failure visit in patients with heart failure.
-- •hospitalization for heart failure in patients with type 2 diabetes mellitus and either established cardiovascular disease or multiple cardiovascular risk factors.
+- •sustained eGFR decline, end-stage kidney disease, CV death, and hospitalization for heart failure in patients with chronic kidney disease at risk of progression.
+- •CV death, hospitalization for heart failure, and urgent heart failure visit in patients with heart failure.
+- •hospitalization for heart failure in patients with type 2 diabetes mellitus and either established CV disease or multiple CV risk factors.
 
 ## 8.5 Geriatric Use
 

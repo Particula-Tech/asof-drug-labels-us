@@ -4,10 +4,8 @@ The following important adverse reactions are described below and elsewhere in t
 
 - •Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.1)]
 - •Volume Depletion [see Warnings and Precautions (5.2)]
-- •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.3)]
+- •Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections [see Warnings and Precautions (5.3)]
 - •Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.4)]
-- •Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene) [see Warnings and Precautions (5.5)]
-- •Genital Mycotic Infections [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -168,7 +166,7 @@ The FARXIGA safety profile observed in a 26-week placebo-controlled clinical tri
 
 ## 6.2 Postmarketing Experience
 
-Additional adverse reactions have been identified during post-approval use of FARXIGA in patients with diabetes mellitus.
+Additional adverse reactions have been identified during post-approval use of FARXIGA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Infections: Necrotizing fasciitis of the perineum (Fournier’s Gangrene), urosepsis and pyelonephritis

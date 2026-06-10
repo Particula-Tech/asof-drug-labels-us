@@ -334,7 +334,7 @@ The mean eGFR at baseline was 115 mL/min/1.73 m2 in FARXIGA-treated patients and
 At Week 26, treatment with FARXIGA provided statistically significant improvements in HbA1c compared with placebo (Table 14).
 This effect was consistent across subgroups including race, ethnicity, sex, age group (≥10 to <15 years of age and ≥15 to <18 years of age), background antidiabetic treatment, and baseline BMI.
 
-Table 13: Results at Week 26 in a Placebo-Controlled Trial of FARXIGA as Add-On to Metformin and/or Insulin in Pediatric Patients Aged 10 Years and Older with Type 2 Diabetes Mellitus
+Table 14: Results at Week 26 in a Placebo-Controlled Trial of FARXIGA as Add-On to Metformin and/or Insulin in Pediatric Patients Aged 10 Years and Older with Type 2 Diabetes Mellitus
 
 | Intent-to-Treat Population (N)All randomized patients who received at least one dose of double-blind trial medication during the treatment period. Includes data regardless of rescue or premature treatment discontinuation. | 81 | 76 |
 | --- | --- | --- |
@@ -352,7 +352,7 @@ Table 13: Results at Week 26 in a Placebo-Controlled Trial of FARXIGA as Add-On 
 
 ## 14.3 Cardiovascular Outcomes in Adults with Type 2 Diabetes Mellitus
 
-Dapagliflozin Effect on Cardiovascular Events (DECLARE, NCT01730534) was an international, multicenter, randomized, double-blind, placebo-controlled, clinical trial conducted to determine the effect of FARXIGA relative to placebo on cardiovascular (CV) outcomes when added to current background therapy.
+Dapagliflozin Effect on Cardiovascular Events (DECLARE, NCT01730534) was an international, multicenter, randomized, double-blind, placebo-controlled, clinical trial conducted to determine the effect of FARXIGA relative to placebo on CV outcomes when added to current background therapy.
 All patients had type 2 diabetes mellitus and either established CV disease or two or more additional CV risk factors (age ≥55 years in men or ≥60 years in women and one or more of dyslipidemia, hypertension, or current tobacco use).
 Concomitant antidiabetic and atherosclerotic therapies could be adjusted, at the discretion of investigators, to ensure participants were treated according to the standard care for these diseases.
 
@@ -383,7 +383,7 @@ FARXIGA was superior to placebo in reducing the incidence of the primary composi
 
 The treatment effect was due to a significant reduction in the risk of hospitalization for heart failure in subjects randomized to FARXIGA [HR 0.73 (95% CI 0.61, 0.88)], with no change in the risk of CV death (Table 15 and Figures 4 and 5).
 
-Table 14: Treatment Effects for the Primary EndpointsFull analysis set. and their Components in the DECLARE Trial
+Table 15: Treatment Effects for the Primary EndpointsFull analysis set. and their Components in the DECLARE Trial
 
 |  | Patients with events n (%) |  |  |
 | --- | --- | --- | --- |
@@ -429,7 +429,7 @@ There were few renal deaths during the trial (Table 16, Figure 6).
 
 FARXIGA also reduced the incidence of the composite endpoint of CV death or hospitalization for heart failure [HR 0.71 (95% CI 0.55, 0.92), p=0.0089] and all-cause mortality [HR 0.69 (95% CI 0.53, 0.88), p=0.0035].
 
-Table 15: Treatment Effect for the Primary Composite Endpoint, its Components, and Secondary Composite Endpoints, in the DAPA-CKD Trial
+Table 16: Treatment Effect for the Primary Composite Endpoint, its Components, and Secondary Composite Endpoints, in the DAPA-CKD Trial
 
 |  | Patients with events (event rate) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -466,10 +466,10 @@ Exploratory analyses of a randomized, double-blind, placebo-controlled trial con
 
 The efficacy and safety of FARXIGA 10 mg were assessed independently in two Phase 3 trials in adult patients with heart failure.
 
-Dapagliflozin And Prevention of Adverse outcomes in Heart Failure (DAPA-HF, NCT03036124) was an international, multicenter, randomized, double-blind, placebo-controlled trial in patients with heart failure [New York Heart Association (NYHA) functional class II-IV] with reduced ejection fraction [left ventricular ejection fraction (LVEF) 40% or less] to determine whether FARXIGA reduces the risk of cardiovascular death and hospitalization for heart failure.
+Dapagliflozin And Prevention of Adverse outcomes in Heart Failure (DAPA-HF, NCT03036124) was an international, multicenter, randomized, double-blind, placebo-controlled trial in patients with heart failure [New York Heart Association (NYHA) functional class II-IV] with reduced ejection fraction [left ventricular ejection fraction (LVEF) 40% or less] to determine whether FARXIGA reduces the risk of CV death and hospitalization for heart failure.
 Of 4744 patients, 2373 were randomized to FARXIGA 10 mg and 2371 to placebo and were followed for a median of 18 months.
 
-Dapagliflozin Evaluation to Improve the LIVEs of Patients with PReserved Ejection Fraction Heart Failure (DELIVER, NCT03619213) was an international, multicenter, randomized, double-blind, placebo-controlled trial in patients aged ≥40 years with heart failure (NYHA class II-IV) with LVEF >40% and evidence of structural heart disease to determine whether FARXIGA reduces the risk of cardiovascular death, hospitalization for heart failure or urgent heart failure visits.
+Dapagliflozin Evaluation to Improve the LIVEs of Patients with PReserved Ejection Fraction Heart Failure (DELIVER, NCT03619213) was an international, multicenter, randomized, double-blind, placebo-controlled trial in patients aged ≥40 years with heart failure (NYHA class II-IV) with LVEF >40% and evidence of structural heart disease to determine whether FARXIGA reduces the risk of CV death, hospitalization for heart failure or urgent heart failure visits.
 Of 6263 patients, 3131 were randomized to FARXIGA 10 mg and 3132 to placebo and were followed for a median of 28 months.
 The trial included 654 (10%) heart failure patients who were randomized during hospitalization for heart failure or within 30 days of discharge.
 
@@ -479,24 +479,24 @@ In DELIVER, at baseline, 77% of patients were treated with ACEi, ARB or ARNI, 83
 
 In both trials, FARXIGA reduced the incidence of the primary composite endpoint of CV death, hospitalization for heart failure or urgent heart failure visit (see Table 17).
 
-Table 16: Treatment Effect for the Primary Composite Endpoint* and its Components* in the DAPA-HF and DELIVER Trials
+Table 17: Treatment Effect for the Primary Composite Endpoint* and its Components* in the DAPA-HF and DELIVER Trials
 
 |  | DAPA-HF Trial |  |  |  | DELIVER Trial |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Patients with events (event rate) |  | Hazard ratio (95% CI) | p-value† | Patients with events (event rate) |  | Hazard ratio (95% CI) | p-value† |  |
-| Efficacy Variable(Time to first occurrence) | FARXIGA 10 mg N=2373 |  | Placebo N=2371 | FARXIGA 10 mg N=3131 |  | Placebo N=3132 |  |  |
+| Efficacy Variable(Time to first occurrence) | FARXIGA 10 mg N=2373 |  |  |  | Placebo N=2371 | FARXIGA 10 mg N=3131 |  | Placebo N=3132 |
 | Composite of Hospitalization for Heart Failure, CV Death‡ or Urgent Heart Failure Visit | 386 (11.6) | 502 (15.6) | 0.74 (0.65, 0.85) | <0.0001 | 512 (7.8) | 610 (9.6) | 0.82 (0.73, 0.92) | 0.0008 |
 | Components of the composite endpoints |  |  |  |  |  |  |  |  |
 | CV Death‡ | 227 (6.5) | 273 (7.9) | 0.82 (0.69, 0.98) |  | 231 (3.3) | 261 (3.8) | 0.88 (0.74, 1.05) |  |
 | Hospitalization for Heart Failure or Urgent Heart Failure Visit | 237 (7.1) | 326 (10.1) | 0.70 (0.59, 0.83) |  | 368 (5.6) | 455 (7.2) | 0.79 (0.69, 0.91) |  |
 | Hospitalization for Heart Failure | 231 (6.9) | 318 (9.8) | 0.70 (0.59, 0.83) |  | 329 (5.0) | 418 (6.5) | 0.77 (0.67, 0.89) |  |
 | Urgent Heart Failure Visit | 10 (0.3) | 23 (0.7) | 0.43 (0.20, 0.90) |  | 60 (0.9) | 78 (1.1) | 0.76 (0.55, 1.07) |  |
-| N=Number of patients, CI=Confidence interval, CV=Cardiovascular. |  |  |  |  |  |  |  |  |
+| N=Number of patients, CI=Confidence interval, CV=Cardiovascular.* Full analysis set.† Two-sided p-values.‡ In DAPA-HF, the CV death component of the primary endpoint included death of undetermined cause. In DELIVER, the CV death component of the primary endpoint excluded death of undetermined cause.NOTE: Time to first event was analyzed in a Cox proportional hazards model. The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint. Event rates are presented as the number of subjects with event per 100 patient years of follow-up. |  |  |  |  |  |  |  |  |
 
 In both trials, all three components of the primary composite endpoint individually contributed to the treatment effect.
 In both trials, the FARXIGA and placebo event curves separated early and continued to diverge over the trial period (see Figures 7 and 9).
 
-Figure 7: Time to the First Occurrence of the Composite of Cardiovascular Death*, Hospitalization for Heart Failure or Urgent Heart Failure Visit
+Figure 7: Time to the First Occurrence of the Composite of CV Death*, Hospitalization for Heart Failure or Urgent Heart Failure Visit
 
 A) DAPA-HF Trial
 
@@ -511,7 +511,7 @@ In DELIVER, the CV death component of the primary endpoint excluded death of und
 
 HR=Hazard ratio, CI=Confidence interval, CV=Cardiovascular.
 
-Figure 8: Time to Cardiovascular Death*
+Figure 8: Time to CV Death*
 
 A) DAPA-HF Trial
 
@@ -540,7 +540,7 @@ In DELIVER, FARXIGA reduced the total number of heart failure events (first and 
 
 In both trials, the results of the primary composite endpoint were consistent across the subgroups examined (see Figure 10).
 
-Figure 10: Treatment Effects for Primary Composite Endpoint (Cardiovascular Death and Heart Failure Events) Subgroup Analysis
+Figure 10: Treatment Effects for Primary Composite Endpoint (CV Death and Heart Failure Events) Subgroup Analysis
 
 A) DAPA-HF Trial
 
@@ -571,9 +571,9 @@ NOTE: The figure above presents effects in various subgroups, all of which are b
 The 95% confidence limits that are shown do not take into account the number of comparisons made and may not reflect the effect of a particular factor after adjustment for all other factors.
 Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 
-The treatment effect of FARXIGA on the composite endpoint of cardiovascular death, hospitalization for heart failure or urgent heart failure was consistent across the LVEF range as evaluated in DAPA-HF and DELIVER trials (Figure 11).
+The treatment effect of FARXIGA on the composite endpoint of CV death, hospitalization for heart failure or urgent heart failure was consistent across the LVEF range as evaluated in DAPA-HF and DELIVER trials (Figure 11).
 
-Figure 11: Treatment Effects for Primary Composite Endpoint (Cardiovascular Death and Heart Failure Events) by LVEF (DAPA-HF and DELIVER Trials)
+Figure 11: Treatment Effects for Primary Composite Endpoint (CV Death and Heart Failure Events) by LVEF (DAPA-HF and DELIVER Trials)
 
 * 1 patient in DAPA-HF trial had LVEF >40.
 4 patients in DELIVER trial had LVEF ≤40.

@@ -21,7 +21,7 @@ For Adult and Pediatric Patients with Type 2 Diabetes Mellitus and Renal Impairm
 
 The recommended dosage of FARXIGA is 10 mg orally once daily in adults for the following indications:
 
-- •To reduce the risk of sustained eGFR decline, end-stage kidney disease (ESKD), cardiovascular (CV) death, and hospitalization for heart failure (hHF) in patients with chronic kidney disease at risk of progression.
+- •To reduce the risk of sustained eGFR decline, end-stage kidney disease (ESKD), CV death, and hospitalization for heart failure (hHF) in patients with chronic kidney disease at risk of progression.
 - •To reduce the risk of CV death, hHF, and urgent heart failure visit in patients with heart failure.
 - •To reduce the risk of hHF in patients with type 2 diabetes mellitus and either established CV disease or multiple CV risk factors.
 
@@ -33,5 +33,10 @@ For Adults with Renal Impairment Receiving FARXIGA for Indications Other than Gl
 
 ## 2.4 Temporary Interruption for Surgery
 
-- Withhold FARXIGA for at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting.
+- Withhold FARXIGA for at least 3 days, if possible, prior to surgery or procedures associated with prolonged fasting.
   Resume FARXIGA when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.2)].
+
+## 2.5 Recommendations Regarding Missed Dose
+
+- •If a dose is missed, instruct patients to take the dose as soon as possible.
+- •Advise patients not to double up the next dose.
