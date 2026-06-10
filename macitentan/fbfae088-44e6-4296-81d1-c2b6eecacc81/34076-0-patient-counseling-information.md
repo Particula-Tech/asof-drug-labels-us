@@ -33,6 +33,8 @@ Advise patients that they should contact their doctor if they have unusual weigh
 
 Trademarks are the property of their respective owners.
 
-Manufactured by: TORRENT PHARMACEUTICALS LTD., INDIA.
-Manufactured for: TORRENT PHARMA INC., Basking Ridge, NJ 07920.
-8065228 Revised: June 2025
+Manufactured by:
+
+Torrent Pharmaceuticals LTD., India.
+Manufactured for: Torrent Pharma INC., Basking Ridge, NJ 07920.
+8110110 Revised: May 2026
