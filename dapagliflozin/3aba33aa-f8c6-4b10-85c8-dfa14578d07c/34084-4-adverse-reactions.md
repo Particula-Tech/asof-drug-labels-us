@@ -4,10 +4,8 @@ The following important adverse reactions are described below and elsewhere in t
 
 - •Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.1)]
 - •Volume Depletion [see Warnings and Precautions (5.2)]
-- •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.3)]
+- •Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections [see Warnings and Precautions (5.3)]
 - •Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.4)]
-- •Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene) [see Warnings and Precautions (5.5)]
-- •Genital Mycotic Infections [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -129,7 +127,7 @@ Genital mycotic infections that caused trial drug discontinuation were reported 
 Hypersensitivity Reactions
 
 Hypersensitivity reactions (e.g., angioedema, urticaria, hypersensitivity) were reported with dapagliflozin treatment.
-In glycemic control trials, serious anaphylactic reactions and severe cutaneous adverse reactions and angioedema were reported in 0.2% of comparator-treated patients and 0.3% of dapagliflozin-treated patients.
+In glycemic control trials in adults, serious anaphylactic reactions and severe cutaneous adverse reactions and angioedema were reported in 0.2% of comparator-treated patients and 0.3% of dapagliflozin-treated patients.
 If hypersensitivity reactions occur, discontinue use of DAPAGLIFLOZIN TABLETS; treat per standard of care and monitor until signs and symptoms resolve.
 
 Ketoacidosis in Patients with Diabetes Mellitus
@@ -168,7 +166,7 @@ The dapagliflozin safety profile observed in a 26-week placebo-controlled clinic
 
 ## 6.2 Postmarketing Experience
 
-Additional adverse reactions have been identified during post-approval use of dapagliflozin in patients with diabetes mellitus.
+Additional adverse reactions have been identified during post-approval use of dapagliflozin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Infections: Necrotizing fasciitis of the perineum (Fournier’s Gangrene), urosepsis and pyelonephritis

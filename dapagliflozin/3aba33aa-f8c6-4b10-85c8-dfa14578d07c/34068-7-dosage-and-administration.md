@@ -14,14 +14,14 @@ For additional glycemic control, the dosage can be increased to 10 mg orally onc
 For Adult and Pediatric Patients with Type 2 Diabetes Mellitus and Renal Impairment:
 
 - •The recommended dosage for DAPAGLIFLOZIN TABLETS in patients with an eGFR greater than or equal to 45 mL/min/1.73 m2 is the same as the recommended dosage in patients with normal renal function.
-- •DAPAGLIFLOZIN TABLETS is not recommended for use to improve glycemic control in patients with type 2 diabetes mellitus with an eGFR less than 45 mL/min/1.73 m2.
-  DAPAGLIFLOZIN TABLETS is likely to be ineffective to improve glycemic control in this setting based upon its mechanism of action.
+- •DAPAGLIFLOZIN TABLETS are not recommended for use to improve glycemic control in patients with type 2 diabetes mellitus with an eGFR less than 45 mL/min/1.73 m2.
+  DAPAGLIFLOZIN TABLETS are likely to be ineffective to improve glycemic control in this setting based upon its mechanism of action.
 
 ## 2.3 Recommended Dosage for Other Indications in Adults
 
 The recommended dosage of DAPAGLIFLOZIN TABLETS is 10 mg orally once daily in adults for the following indications:
 
-- •To reduce the risk of sustained eGFR decline, end stage kidney disease (ESKD), cardiovascular (CV) death, and hospitalization for heart failure (hHF) in patients with chronic kidney disease at risk of progression.
+- •To reduce the risk of sustained eGFR decline, end stage kidney disease (ESKD), CV death, and hospitalization for heart failure (hHF) in patients with chronic kidney disease at risk of progression.
 - •To reduce the risk of CV death, hHF, and urgent heart failure visit in patients with heart failure.
 - •To reduce the risk of hHF in patients with type 2 diabetes mellitus and either established CV disease or multiple CV risk factors.
 
@@ -33,5 +33,10 @@ For Adults with Renal Impairment Receiving DAPAGLIFLOZIN TABLETS for Indications
 
 ## 2.4 Temporary Interruption for Surgery
 
-Withhold DAPAGLIFLOZIN TABLETS for at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting.
+Withhold DAPAGLIFLOZIN TABLETS for at least 3 days, if possible, prior to surgery or procedures associated with prolonged fasting.
 Resume DAPAGLIFLOZIN TABLETS when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.2)].
+
+## 2.5 Recommendations Regarding Missed Dose
+
+- •If a dose is missed, instruct patients to take the dose as soon as possible.
+- •Advise patients not to double up the next dose.

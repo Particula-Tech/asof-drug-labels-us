@@ -2,7 +2,7 @@
 
 ## 14.1 Glycemic Control in Adults with Type 2 Diabetes Mellitus
 
-### Overview of Clinical Studies of dapagliflozin for Type 2 Diabetes Mellitus
+### Overview of Clinical Trials of dapagliflozin for Type 2 Diabetes Mellitus
 
 Dapagliflozin has been studied in adult patients as monotherapy, in combination with metformin, pioglitazone, sulfonylurea (glimepiride), sitagliptin (with or without metformin), metformin plus a sulfonylurea, or insulin (with or without other oral antidiabetic therapy), compared to a sulfonylurea (glipizide), and in combination with a GLP-1 receptor agonist (exenatide extended release) added on to metformin.
 Dapagliflozin has also been studied in adult patients with type 2 diabetes mellitus and moderate renal impairment.
@@ -21,7 +21,7 @@ At Week 24, treatment with dapagliflozin 10 mg QAM provided significant improvem
 
 Table 7: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.) in a Placebo-Controlled Trial of Dapagliflozin Monotherapy in Adults with Type 2 Diabetes Mellitus (Main Cohort AM Doses)
 
-| Efficacy Parameter | Dapagliflozin 10 mg N=70All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | Dapagliflozin 5 mg N=64 | Placebo N=75 |
+| Efficacy Parameter | Dapagliflozin 10 mg N=70All randomized patients who took at least one dose of double-blind trial medication during the short-term double-blind period. | Dapagliflozin 5 mg N=64 | Placebo N=75 |
 | --- | --- | --- | --- |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 8.0 | 7.8 | 7.8 |
@@ -352,7 +352,7 @@ Table 14: Results at Week 26 in a Placebo-Controlled Trial of Dapagliflozin as A
 
 ## 14.3 Cardiovascular Outcomes in Adults with Type 2 Diabetes Mellitus
 
-Dapagliflozin Effect on Cardiovascular Events (DECLARE, NCT01730534) was an international, multicenter, randomized, double-blind, placebo-controlled, clinical trial conducted to determine the effect of dapagliflozin relative to placebo on cardiovascular (CV) outcomes when added to current background therapy.
+Dapagliflozin Effect on Cardiovascular Events (DECLARE, NCT01730534) was an international, multicenter, randomized, double-blind, placebo-controlled, clinical trial conducted to determine the effect of dapagliflozin relative to placebo on CV outcomes when added to current background therapy.
 All patients had type 2 diabetes mellitus and either established CV disease or two or more additional CV risk factors (age ≥55 years in men or ≥60 years in women and one or more of dyslipidemia, hypertension, or current tobacco use).
 Concomitant antidiabetic and atherosclerotic therapies could be adjusted, at the discretion of investigators, to ensure participants were treated according to the standard care for these diseases.
 
@@ -464,10 +464,10 @@ Exploratory analyses of a randomized, double-blind, placebo-controlled trial con
 
 The efficacy and safety of dapagliflozin 10 mg were assessed independently in two Phase 3 trials in adult patients with heart failure.
 
-Dapagliflozin And Prevention of Adverse outcomes in Heart Failure (DAPA-HF, NCT03036124) was an international, multicenter, randomized, double-blind, placebo-controlled trial in patients with heart failure [New York Heart Association (NYHA) functional class II-IV] with reduced ejection fraction [left ventricular ejection fraction (LVEF) 40% or less] to determine whether dapagliflozin reduces the risk of cardiovascular death and hospitalization for heart failure.
+Dapagliflozin And Prevention of Adverse outcomes in Heart Failure (DAPA-HF, NCT03036124) was an international, multicenter, randomized, double-blind, placebo-controlled trial in patients with heart failure [New York Heart Association (NYHA) functional class II-IV] with reduced ejection fraction [left ventricular ejection fraction (LVEF) 40% or less] to determine whether dapagliflozin reduces the risk of CV death and hospitalization for heart failure.
 Of 4744 patients, 2373 were randomized to dapagliflozin 10 mg and 2371 to placebo and were followed for a median of 18 months.
 
-Dapagliflozin Evaluation to Improve the LIVEs of Patients with PReserved Ejection Fraction Heart Failure (DELIVER, NCT03619213) was an international, multicenter, randomized, double-blind, placebo-controlled trial in patients aged ≥40 years with heart failure (NYHA class II-IV) with LVEF >40% and evidence of structural heart disease to determine whether dapagliflozin reduces the risk of cardiovascular death, hospitalization for heart failure or urgent heart failure visits.
+Dapagliflozin Evaluation to Improve the LIVEs of Patients with PReserved Ejection Fraction Heart Failure (DELIVER, NCT03619213) was an international, multicenter, randomized, double-blind, placebo-controlled trial in patients aged ≥40 years with heart failure (NYHA class II-IV) with LVEF >40% and evidence of structural heart disease to determine whether dapagliflozin reduces the risk of CV death, hospitalization for heart failure or urgent heart failure visits.
 Of 6263 patients, 3131 were randomized to dapagliflozin 10 mg and 3132 to placebo and were followed for a median of 28 months.
 The trial included 654 (10%) heart failure patients who were randomized during hospitalization for heart failure or within 30 days of discharge.
 
@@ -498,7 +498,7 @@ Event rates are presented as the number of subjects with event per 100 patient y
 In both trials, all three components of the primary composite endpoint individually contributed to the treatment effect.
 In both trials, the dapagliflozin and placebo event curves separated early and continued to diverge over the trial period (see Figures 7 and 9).
 
-Figure 7: Time to the First Occurrence of the Composite of Cardiovascular Death*, Hospitalization for Heart Failure or Urgent Heart Failure Visit
+Figure 7: Time to the First Occurrence of the Composite of CV Death*, Hospitalization for Heart Failure or Urgent Heart Failure Visit
 
 A) DAPA-HF Trial
 
@@ -513,7 +513,7 @@ In DELIVER, the CV death component of the primary endpoint excluded death of und
 
 HR=Hazard ratio, CI=Confidence interval, CV=Cardiovascular.
 
-Figure 8: Time to Cardiovascular Death*
+Figure 8: Time to CV Death*
 
 A) DAPA-HF Trial
 
@@ -542,7 +542,7 @@ In DELIVER, dapagliflozin reduced the total number of heart failure events (firs
 
 In both trials, the results of the primary composite endpoint were consistent across the subgroups examined (see Figure 10).
 
-Figure 10: Treatment Effects for Primary Composite Endpoint (Cardiovascular Death and Heart Failure Events) Subgroup Analysis
+Figure 10: Treatment Effects for Primary Composite Endpoint (CV Death and Heart Failure Events) Subgroup Analysis
 
 A) DAPA-HF Trial
 
@@ -573,9 +573,9 @@ NOTE: The figure above presents effects in various subgroups, all of which are b
 The 95% confidence limits that are shown do not take into account the number of comparisons made and may not reflect the effect of a particular factor after adjustment for all other factors.
 Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 
-The treatment effect of dapagliflozin on the composite endpoint of cardiovascular death, hospitalization for heart failure or urgent heart failure was consistent across the LVEF range as evaluated in DAPA-HF and DELIVER trials (Figure 11).
+The treatment effect of dapagliflozin on the composite endpoint of CV death, hospitalization for heart failure or urgent heart failure was consistent across the LVEF range as evaluated in DAPA-HF and DELIVER trials (Figure 11).
 
-Figure 11: Treatment Effects for Primary Composite Endpoint (Cardiovascular Death and Heart Failure Events) by LVEF (DAPA-HF and DELIVER Trials)
+Figure 11: Treatment Effects for Primary Composite Endpoint (CV Death and Heart Failure Events) by LVEF (DAPA-HF and DELIVER Trials)
 
 * 1 patient in DAPA-HF trial had LVEF >40.
 4 patients in DELIVER trial had LVEF≤40.
