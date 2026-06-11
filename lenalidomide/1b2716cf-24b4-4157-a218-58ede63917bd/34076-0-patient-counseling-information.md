@@ -97,4 +97,4 @@ Manufactured In India By: Natco Pharma Limited Visakhapatnam ‐ 531019, AP, Ind
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-C 2/2026
+D 5/2026

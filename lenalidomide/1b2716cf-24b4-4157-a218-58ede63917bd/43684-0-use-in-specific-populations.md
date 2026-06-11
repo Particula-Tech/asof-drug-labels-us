@@ -95,6 +95,11 @@ Grade 3 or 4 adverse reactions in the General Disorders and Administration Site 
 Grade 3 or 4 adverse reactions in the Infections and Infestations, Cardiac Disorders (including cardiac failure and congestive cardiac failure), Skin and Subcutaneous Tissue Disorders, and Renal and Urinary Disorders (including renal failure) body systems were also reported slightly, but consistently, more frequently (<5% difference), in older subjects than in younger subjects across all treatment arms.
 For other body systems (e.g., Blood and Lymphatic System Disorders, Infections and Infestations, Cardiac Disorders, Vascular Disorders), there was a less consistent trend for increased frequency of grade 3/4 adverse reactions in older vs younger subjects across all treatment arms Serious adverse reactions were generally reported at a higher frequency in the older subjects than in the younger subjects across all treatment arms.
 
+MM Maintenance Therapy: Overall, 10% (106/1,018) of patients were 65 years of age or older, while no patients were over 75 years of age.
+Grade 3 or 4 adverse reactions were higher in the lenalidomide capsules arm (more than 5% higher) in the patients 65 years of age or older versus younger patients.
+The frequency of Grade 3 or 4 adverse reactions in the Blood and Lymphatic System Disorders were higher in the lenalidomide capsules arm (more than 5% higher) in the patients 65 years of age or older versus younger patients.
+There were not a sufficient number of patients 65 years of age or older in lenalidomide capsules maintenance studies who experienced either a serious adverse reaction, or discontinued therapy due to an adverse reaction to determine whether elderly patients respond relative to safety differently from younger patients.
+
 MM After At Least One Prior Therapy: Of the 703 MM patients who received study treatment in Studies 1 and 2, 45% were age 65 or over while 12% of patients were age 75 and over.
 The percentage of patients age 65 or over was not significantly different between the lenalidomide/dexamethasone and placebo/dexamethasone groups.
 Of the 353 patients who received lenalidomide/dexamethasone, 46% were age 65 and over.
@@ -111,6 +116,13 @@ The overall frequency of adverse reactions was similar in patients over 65 years
 The overall incidence of grade 3 and 4 adverse reactions was also similar in these 2 patient groups (79% vs. 78%, respectively).
 The frequency of serious adverse reactions was higher in patients over 65 years of age than in younger patients (55% vs. 41%).
 No differences in efficacy were observed between patients over 65 years of age and younger patients.
+
+FL or MZL in Combination: Overall, 48% (282/590) of patients were 65 years of age or older, while 14% (82/590) of patients were over 75 years of age.
+The overall frequency of adverse reactions was similar in patients 65 years of age or older and younger patients for both studies pooled (98%).
+Grade 3 or 4 adverse reactions were higher in the lenalidomide capsules arm (more than 5% higher) in the patients 65 years of age or older versus younger patients (71% versus 59%).
+The frequency of Grade 3 or 4 adverse reactions were higher in the lenalidomide capsules arm (more than 5% higher) in the patients 65 years of age or older versus younger patients in the Blood and Lymphatic System Disorders (47% versus 40%) and Infections and Infestations (16% versus 11%).
+Serious adverse reactions were higher in the lenalidomide capsules arm (more than 5% higher) in the patients 65 years of age or older versus younger patients (37% versus 18%).
+The frequency of serious adverse reactions were higher in the lenalidomide capsules arm (more than 5% higher) in the patients 65 years of age or older versus younger patients in Infections and Infestations (15% versus 6%).
 
 Since elderly patients are more likely to have decreased renal function, care should be taken in dose selection.
 Monitor renal function.

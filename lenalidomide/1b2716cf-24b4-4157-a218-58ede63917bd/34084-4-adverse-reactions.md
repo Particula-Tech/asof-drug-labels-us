@@ -143,6 +143,114 @@ Table 4: All Adverse Reactions in ≥5% and Grade 3/4 Adverse Reactions in ≥1%
 | Rash: Rash, rash pruritic, rash erythematous, rash maculo-papular, rash generalized, rash papular, exfoliative rash, rash follicular, rash macular, drug rash with eosinophilia and systemic symptoms, erythema multiforme, rash pustular |  |  |  |  |  |  |
 | Deep Vein Thrombosis: Deep vein thrombosis, venous thrombosis limb, venous thrombosis |  |  |  |  |  |  |
 
+Newly Diagnosed MM - Lenalidomide Capsules Maintenance Therapy Following Auto-HSCT:
+
+Data were evaluated from 1,018 patients in two randomized trials who received at least one dose of lenalidomide capsules 10 mg daily as maintenance therapy after auto-HSCT until progressive disease or unacceptable toxicity.
+The mean treatment duration for lenalidomide capsules treatment was 30.3 months for Maintenance Study 1 and 24.0 months for Maintenance Study 2 (overall range across both studies from 0.1 to 108 months).
+As of the cut-off date of 1 Mar 2015, 48 patients (21%) in the Maintenance Study 1 lenalidomide capsules arm were still on treatment and none of the patients in the Maintenance Study 2 lenalidomide capsules arm were still on treatment at the same cut-off date.
+
+The adverse reactions listed from Maintenance Study 1 included events reported post-transplant (completion of high-dose melphalan /auto-HSCT), and the maintenance treatment period.
+In Maintenance Study 2, the adverse reactions were from the maintenance treatment period only.
+In general, the most frequently reported adverse reactions (more than 20% in the lenalidomide capsules arm) across both studies were neutropenia, thrombocytopenia, leukopenia, anemia, upper respiratory tract infection, bronchitis, nasopharyngitis, cough, gastroenteritis, diarrhea, rash, fatigue, asthenia, muscle spasm and pyrexia.
+The most frequently reported Grade 3 or 4 reactions (more than 20% in the lenalidomide capsules arm) included neutropenia, thrombocytopenia, and leukopenia.
+The serious adverse reactions lung infection and neutropenia (more than 4.5%) occurred in the lenalidomide capsules arm.
+
+For lenalidomide capsules, the most common adverse reactions leading to dose interruption were hematologic events (29.7%, data available in Maintenance Study 2 only).
+The most common adverse reaction leading to dose reduction of lenalidomide capsules were hematologic events (17.7%, data available in Maintenance Study 2 only).
+The most common adverse reactions leading to discontinuation of lenalidomide capsules were thrombocytopenia (2.7%) in Maintenance Study 1 and neutropenia (2.4%) in Maintenance Study 2.
+
+The frequencies of onset of adverse reactions were generally highest in the first 6 months of treatment and then the frequencies decreased over time or remained stable throughout treatment.
+
+Table 5 summarizes the adverse reactions reported for the lenalidomide capsules and placebo maintenance treatment arms.
+
+Table 5: All Adverse Reactions in ≥5% and Grade 3/4 Adverse Reactions in ≥1% of Patients with MM in the Lenalidomide Capsules Vs Placebo Arms*
+
+| Body SystemAdverse Reaction | Maintenance Study 1 |  |  |  | Maintenance Study 2 |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| All Adverse Reactions a |  | Grade 3/4 Adverse Reactions b |  | All Adverse Reactions a |  | Grade 3/4 AdverseReactions b |  |  |
+| Lenalidomide Capsules(N=224)n (%) | Placebo(N=221)n (%) | Lenalidomide Capsules(N=224)n (%) | Placebo(N=221)n (%) | Lenalidomide Capsules(N=293)n (%) | Placebo(N=280)n (%) | Lenalidomide Capsules(N=293)n (%) | Placebo(N=280)n (%) |  |
+| Blood and lymphatic system disorders |  |  |  |  |  |  |  |  |
+| Neutropenia c % | 177 (79) | 94 (43) | 133 (59) | 73 (33) | 178 (61) | 33 (12) | 158 (54) | 21 (8) |
+| Thrombocytopenia c % | 162 (72) | 101 (46) | 84 (38) | 67 (30) | 69 (24) | 29 (10) | 38 (13) | 8 (3) |
+| Leukopenia c | 51 (23) | 25 (11) | 45 (20) | 22 (10) | 93 (32) | 21 (8) | 71 (24) | 5 (2) |
+| Anemia | 47 (21) | 27 (12) | 23 (10) | 18 (8) | 26 (9) | 15 (5) | 11 (4) | 3 (1) |
+| Lymphopenia | 40 (18) | 29 (13) | 37 (17) | 26 (12) | 13 (4) | 3 (1) | 11 (4) | < 1% |
+| Pancytopenia c d % | < 1% | 0 (0) | 0 (0) | 0 (0) | 12 (4) | < 1% | 7 (2) | < 1% |
+| Febrile neutropenia c | 39 (17) | 34 (15) | 39 (17) | 34 (15) | 7 (2) | < 1% | 5 (2) | < 1% |
+| Infections and infestations# |  |  |  |  |  |  |  |  |
+| Upper respiratory tract infection e | 60 (27) | 35 (16) | 7 (3) | 9 (4) | 32 (11) | 18 (6) | < 1% | 0 (0) |
+| Neutropenic infection | 40 (18) | 19 (9) | 27 (12) | 14 (6) | 0 (0) | 0 (0) | 0 (0) | 0 (0) |
+| Pneumonias* c % | 31 (14) | 15 (7) | 23 (10) | 7 (3) | 50 (17) | 13 (5) | 27 (9) | 5 (2) |
+| Bronchitis c | 10 (4) | 9 (4) | < 1% | 5 (2) | 139 (47) | 104 (37) | 4 (1) | < 1% |
+| Nasopharyngitis e | 5 (2) | < 1% | 0 (0) | 0 (0) | 102 (35) | 84 (30) | < 1% | 0 (0) |
+| Gastroenteritis c | 0 (0) | 0 (0) | 0 (0) | 0 (0) | 66 (23) | 55 (20) | 6 (2) | 0 (0) |
+| Rhinitis e | < 1% | 0 (0) | 0 (0) | 0 (0) | 44 (15) | 19 (7) | 0 (0) | 0 (0) |
+| Sinusitis e | 8 (4) | 3 (1) | 0 (0) | 0 (0) | 41 (14) | 26 (9) | 0 (0) | < 1% |
+| Influenza c | 8 (4) | 5 (2) | < 1% | < 1% | 39 (13) | 19 (7) | 3 (1) | 0 (0) |
+| Lung infection c | 21 (9) | < 1% | 19 (8) | < 1% | 9 (3) | 4 (1) | < 1% | 0 (0) |
+| Lower respiratory tract infection e | 13 (6) | 5 (2) | 6 (3) | 4 (2) | 4 (1) | 4 (1) | 0 (0) | < 1% |
+| Infection c | 12 (5) | 6 (3) | 9 (4) | 5 (2) | 17 (6) | 5 (2) | 0 (0) | 0 (0) |
+| Urinary tract infection c d e | 9 (4) | 5 (2) | 4 (2) | 4 (2) | 22 (8) | 17 (6) | < 1% | 0 (0) |
+| Lower respiratory tract infection bacterial d | 6 (3) | < 1% | 4 (2) | 0 (0) | 0 (0) | 0 (0) | 0 (0) | 0 (0) |
+| Bacteremia d | 5 (2) | 0 (0) | 4 (2) | 0 (0) | 0 (0) | 0 (0) | 0 (0) | 0 (0) |
+| Herpes zoster c d | 11 (5) | 10 (5) | 3 (1) | < 1% | 29 (10) | 25 (9) | 6 (2) | < 1% |
+| Sepsis* c d @ | < 1% | < 1% | 0 (0) | 0 (0) | 6 (2) | < 1% | 4 (1) | < 1% |
+| Gastrointestinal disorders |  |  |  |  |  |  |  |  |
+| Diarrhea | 122 (54) | 83 (38) | 22 (10) | 17 (8) | 114 (39) | 34 (12) | 7 (2) | 0 (0) |
+| Nausea e | 33 (15) | 22 (10) | 16 (7) | 10 (5) | 31 (11) | 28 (10) | 0 (0) | 0 (0) |
+| Vomiting | 17 (8) | 12 (5) | 8 (4) | 5 (2) | 16 (5) | 15 (5) | < 1% | 0 (0) |
+| Constipation e | 12 (5) | 8 (4) | 0 (0) | 0 (0) | 37 (13) | 25 (9) | < 1% | 0 (0) |
+| Abdominal pain e | 8 (4) | 7 (3) | < 1% | 4 (2) | 31 (11) | 15 (5) | < 1% | < 1% |
+| Abdominal pain upper e | 0 (0) | 0 (0) | 0 (0) | 0 (0) | 20 (7) | 12 (4) | < 1% | 0 (0) |
+| General disorders and administration site conditions |  |  |  |  |  |  |  |  |
+| Asthenia | 0 (0) | < 1% | 0 (0) | 0 (0) | 87 (30) | 53 (19) | 10 (3) | < 1% |
+| Fatigue | 51 (23) | 30 (14) | 21 (9) | 9 (4) | 31 (11) | 15 (5) | 3 (1) | 0 (0) |
+| Pyrexia e | 17 (8) | 10 (5) | < 1% | < 1% | 60 (20) | 26 (9) | < 1% | 0 (0) |
+| Skin and subcutaneous tissue disorders |  |  |  |  |  |  |  |  |
+| Dry skin e | 9 (4) | 4 (2) | 0 (0) | 0 (0) | 31 (11) | 21 (8) | 0 (0) | 0 (0) |
+| Rash | 71 (32) | 48 (22) | 11 (5) | 5 (2) | 22 (8) | 17 (6) | 3 (1) | 0 (0) |
+| Pruritus | 9 (4) | 4 (2) | 3 (1) | 0 (0) | 21 (7) | 25 (9) | < 1% | 0 (0) |
+| Nervous system disorders |  |  |  |  |  |  |  |  |
+| Paresthesia e | < 1% | 0 (0) | 0 (0) | 0 (0) | 39 (13) | 30 (11) | < 1% | 0 (0) |
+| Peripheral neuropathy* e | 34 (15) | 30 (14) | 8 (4) | 8 (4) | 29 (10) | 15 (5) | 4 (1) | < 1% |
+| Headache d | 11 (5) | 8 (4) | 5 (2) | < 1% | 25 (9) | 21 (8) | 0 (0) | 0 (0) |
+| Investigations |  |  |  |  |  |  |  |  |
+| Alanine aminotransferase increased | 16 (7) | 3 (1) | 8 (4) | 0 (0) | 5 (2) | 5 (2) | 0 (0) | < 1% |
+| Aspartate aminotransferase increased d | 13 (6) | 5 (2) | 6 (3) | 0 (0) | < 1% | 5 (2) | 0 (0) | 0 (0) |
+| Metabolism and nutrition disorders |  |  |  |  |  |  |  |  |
+| Hypokalemia | 24 (11) | 13 (6) | 16 (7) | 12 (5) | 12 (4) | < 1% | < 1% | 0 (0) |
+| Dehydration | 9 (4) | 5 (2) | 7 (3) | 3 (1) | 0 (0) | 0 (0) | 0 (0) | 0 (0) |
+| Hypophosphatemia d | 16 (7) | 15 (7) | 13 (6) | 14 (6) | 0 (0) | < 1% | 0 (0) | 0 (0) |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |  |  |  |  |
+| Muscle spasms e | 0 (0) | < 1% | 0 (0) | 0 (0) | 98 (33) | 43 (15) | < 1% | 0 (0) |
+| Myalgia e | 7 (3) | 8 (4) | 3 (1) | 5 (2) | 19 (6) | 12 (4) | < 1% | < 1% |
+| Musculoskeletal pain e | < 1% | < 1% | 0 (0) | 0 (0) | 19 (6) | 11 (44) | 0 (0) | 0 (0) |
+| Hepatobiliary disorders |  |  |  |  |  |  |  |  |
+| Hyperbilirubinemia e | 34 (15) | 19 (9) | 4 (2) | < 1% | 4 (1) | < 1% | < 1% | 0 (0) |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |  |  |
+| Cough e | 23 (10) | 12 (5) | 3 (1) | < 1% | 80 (27) | 56 (20) | 0 (0) | 0 (0) |
+| Dyspnea c e | 15 (7) | 9 (4) | 8 (4) | 4 (2) | 17 (6) | 9 (3) | < 1% | 0 (0) |
+| Rhinorrhea e | 0 (0) | 3 (1) | 0 (0) | 0 (0) | 15 (5) | 6 (2) | 0 (0) | 0 (0) |
+| Pulmonary embolism c d e | 0 (0) | 0 (0) | 0 (0) | 0 (0) | 3 (1) | 0 (0) | < 1% | 0 (0) |
+| Vascular disorders |  |  |  |  |  |  |  |  |
+| Deep vein thrombosis*c d % | 8 (4) | < 1% | 5 (2) | < 1% | 7 (2) | < 1% | 4 (1) | < 1% |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  |  |  |  |  |
+| Myelodysplastic syndrome c d e | 5 (2) | 0 (0) | < 1% | 0 (0) | 3 (1) | 0 (0) | < 1% | 0 (0) |
+| Note: Adverse Events (AEs) are coded to Body System /Adverse Reaction using MedDRA v15.1. A subject with multiple occurrences of an adverse reaction is counted only once under the applicable Body System/Adverse Reaction. |  |  |  |  |  |  |  |  |
+| a All treatment-emergent AEs in at least 5% of patients in the lenalidomide capsules Maintenance group and at least 2% higher frequency (%) than the Placebo Maintenance group. |  |  |  |  |  |  |  |  |
+| b All grade 3 or 4 treatment-emergent AEs in at least 1% of patients in the lenalidomide capsules Maintenance group and at least 1% higher frequency (%) than the Placebo Maintenance group. |  |  |  |  |  |  |  |  |
+| c All serious treatment-emergent AEs in at least 1% of patients in the lenalidomide capsules Maintenance group and at least 1% higher frequency (%) than the Placebo Maintenance group. |  |  |  |  |  |  |  |  |
+| d Footnote “a” not applicable for either study |  |  |  |  |  |  |  |  |
+| e Footnote “b” not applicable for either study |  |  |  |  |  |  |  |  |
+| @ -ADRs where at least one resulted in a fatal outcome |  |  |  |  |  |  |  |  |
+| % - ADRs where at least one was considered to be Life Threatening (if the outcome of the event was death, it is included with death cases) |  |  |  |  |  |  |  |  |
+| # - All adverse reactions under Body System of Infections and Infestation except for rare infections of Public Health interest will be considered listed |  |  |  |  |  |  |  |  |
+| *Adverse Reactions for combined ADR terms (based on relevant TEAE PTs included in Maintenance Studies 1 and 2 [per MedDRA v 15.1]): |  |  |  |  |  |  |  |  |
+| Pneumonias Bronchopneumonia, Lobar pneumonia, Pneumocystis jiroveci pneumonia, Pneumonia, Pneumonia klebsiella, Pneumonia legionella, Pneumonia mycoplasmal, Pneumonia pneumococcal, Pneumonia streptococcal, Pneumonia viral, Lung disorder, Pneumonitis |  |  |  |  |  |  |  |  |
+| Sepsis: Bacterial sepsis, Pneumococcal sepsis, Sepsis, Septic shock, Staphylococcal sepsis |  |  |  |  |  |  |  |  |
+| Peripheral neuropathy: Neuropathy peripheral, Peripheral motor neuropathy, Peripheral sensory neuropathy, Polyneuropathy |  |  |  |  |  |  |  |  |
+| Deep vein thrombosis: Deep vein thrombosis, Thrombosis, Venous thrombosis |  |  |  |  |  |  |  |  |
+
 After At Least One Prior Therapy for MM:
 
 Data were evaluated from 703 patients in two studies who received at least one dose of lenalidomide/dexamethasone (353 patients) or placebo/dexamethasone (350 patients).
@@ -633,6 +741,116 @@ Infections and infestations: Clostridium difficile colitis, sepsis
 Neoplasms benign, malignant and unspecified (including cysts and polyps): Basal cell carcinoma
 
 Respiratory, thoracic, and mediastinal disorders: Chronic obstructive pulmonary disease, pulmonary embolism
+
+Follicular Lymphoma or Marginal Zone Lymphoma
+
+The safety of lenalidomide capsules/rituximab was evaluated in 398 patients with either previously treated follicular lymphoma or marginal zone lymphoma in two clinical trials; AUGMENT (N=176) and MAGNIFY (N=222) [see Clinical Studies (14.4)].
+Subjects were 18 years or older in age, had an ECOG PS ≤2, ANC ≥1,000 cells/mm3 and platelets ≥ 75,000/mm3 (unless secondary to bone marrow involvement by lymphoma), hemoglobin ≥8g/dL, AST and ALT ≤ 3x ULN (unless documented liver involvement with lymphoma, and creatinine clearance of ≥ 30mL/min.
+Subjects with active HIV, hepatitis B or C were not eligible.
+
+In the AUGMENT trial, patients received lenalidomide capsules 20 mg daily by mouth on days 1 to 21 of each 28 day cycle with rituximab 375 mg/m2 weekly (days 1, 8, 15 and 22 in cycle 1) then on day 1 of cycles 2 to 5 (n=176) or placebo with rituximab 375 mg/m2 weekly (days 1, 8, 15 and 22 in cycle 1) then on day 1 of cycles 2 to 5 (n=180) for up to 12 cycles.
+In the MAGNIFY trial, patients received lenalidomide capsules 20 mg by mouth daily, days 1 to 21 of each 28 day cycle with rituximab 375 mg/m2 weekly (days 1, 8, 15 and 22 in cycle 1) then on day 1 of cycles 3, 5, 7, 9 and 11 in the induction phase of the trial (n=222).
+In the AUGMENT trial, 88.1% of patients completed at least 6 cycles of lenalidomide capsules/rituximab, and 71% of patients completed 12 cycles.
+In the ongoing MAGNIFY trial as of May 1, 2017, 62.2% of patients completed at least 6 cycles of lenalidomide capsules/rituximab, and 30.6% of patients completed 12 cycles.
+
+Across both clinical trials (AUGMENT and MAGNIFY), patients had a median age of 64.5 years (26 to 91); 49% were male; and 81% were White.
+
+Fatal adverse reactions occurred in 6 patients (1.5%) receiving lenalidomide capsules/rituximab.
+Fatal adverse reactions (1 each) included cardio-respiratory arrest, arrhythmia, cardiopulmonary failure, multiple organ dysfunction syndrome, sepsis, and acute kidney injury.
+Serious adverse reactions occurred in 26% of patients receiving lenalidomide capsules/rituximab in AUGMENT and 29% in MAGNIFY.
+The most frequent serious adverse reaction that occurred in ≥ 2.5% of patients in the lenalidomide capsules/rituximab arm was febrile neutropenia (3%).
+Permanent discontinuation of lenalidomide capsules or rituximab due to an adverse reaction occurred in 14.6% of patients in the lenalidomide capsules/rituximab arm.
+The most common adverse reaction (in at least 1%) requiring permanent discontinuation of lenalidomide capsules or rituximab was neutropenia (4.8%).
+
+The most common adverse reactions occurring in at least 20% of subjects were; neutropenia (48%), fatigue (37%), diarrhea (32%), constipation (27%), nausea (21%), and cough (20%).
+
+Table 12: All Grade Adverse Reactions (≥5%) or Grade 3/4 Adverse Reactions (≥1%) in Patients with FL and MZL with a Difference Between Arms of >1% When Compared to Control Arm in AUGMENT Trial
+
+| Body SystemAdverse Reaction* | All Adverse Reactions 1 |  | Grade 3 / 4 Adverse Reactions 2 |  |
+| --- | --- | --- | --- | --- |
+| Lenalidomide Capsules +Rituximab Arm(N=176)n (%) | Rituximab + Placebo(Control Arm)(N=180)n (%) | Lenalidomide Capsules +Rituximab Arm(N=176)n (%) | Rituximab + Placebo(Control Arm)(N=180)n (%) |  |
+| Infections and infestations |  |  |  |  |
+| Upper respiratory tract infection | 32 (18) | 23 (13) | 2 (1.1) | 4 (2.2) |
+| Influenza % | 17 (10) | 8 (4.4) | 1 (< 1) | 0 (0) |
+| Pneumonia 3,$,% | 13 (7) | 6 (3.3) | 6 (3.4) | 4 (2.2) |
+| Sinusitis | 13 (7) | 5 (2.8) | 0 (0) | 0 (0) |
+| Urinary tract infection$ | 13 (7) | 7 (3.9) | 1 (< 1) | 1 (< 1) |
+| Bronchitis | 8 (4.5) | 6 (3.3) | 2 (1.1) | 0 (0) |
+| Gastroenteritis $ | 6 (3.4) | 4 (2.2) | 2 (1.1) | 0 (0) |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  |
+| Tumor flare $ | 19 (11) | 1 (< 1) | 1 (< 1) | 0 (0) |
+| Blood and lymphatic disorders |  |  |  |  |
+| Neutropenia 3,$, % | 102 (58) | 40 (22) | 88 (50) | 23 (13) |
+| Leukopenia$,% | 36 (20) | 17 (9) | 12 (7) | 3 (1.7) |
+| Anemia 3,$ | 28 (16) | 8 (4.4) | 8 (4.5) | 1 (< 1) |
+| Thrombocytopenia 3,$,% | 26 (15) | 8 (4.4) | 4 (2.3) | 2 (1.1) |
+| Lymphopenia | 8 (4.5) | 14 (8) | 5 (2.8) | 2 (1.1) |
+| Febrile Neutropenia 3,$,% | 5 (2.8) | 1 (< 1) | 5 (2.8) | 1 (< 1) |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Decreased Appetite | 23 (13) | 11 (6) | 2 (1.1) | 0 (0) |
+| Hypokalemia % | 14 (8) | 5 (2.8) | 4 (2.3) | 0 (0) |
+| Hyperuricemia | 10 (6) | 8 (4.4) | 1 (< 1) | 1 (< 1) |
+| Nervous system disorders |  |  |  |  |
+| Headache | 26 (15) | 17 (9) | 1 (< 1) | 0 (0) |
+| Dizziness | 15 (9) | 9 (5) | 0 (0) | 0 (0) |
+| Vascular disorders |  |  |  |  |
+| Hypotension % | 9 (5) | 1 (< 1) | 1 (< 1) | 0 (0) |
+| Thromboembolic events a,$ | 8 (4.5) | 2 (1.1) | 4 (2.3) | 2 (1.1) |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+| Cough b | 43 (24) | 35 (19) | 1 (< 1) | 0 (0) |
+| Dyspnea $ | 19 (11) | 8 (4.4) | 2 (1.1) | 1 (< 1) |
+| Oropharyngeal pain | 10 (6) | 8 (4.4) | 0 (0) | 0 (0) |
+| Pulmonary Embolism 3,$ | 4 (2.3) | 1 (< 1) | 4 (2.3) | 1 (< 1) |
+| Chronic obstructive pulmonary disease$ | 3 (1.7) | 0 (0) | 2 (1.1) | 0 (0) |
+| Respiratory failure 3,$ | 2 (1.1) | 1 (< 1) | 2 (1.1) | 0 (0) |
+| Gastrointestinal disorders |  |  |  |  |
+| Diarrhea $,% | 55 (31) | 41 (23) | 5 (2.8) | 0 (0) |
+| Constipation | 46 (26) | 25 (14) | 0 (0) | 0 (0) |
+| Abdominal pain c,$ | 32 (18) | 20 (11) | 2 (1.1) | 0 (0) |
+| Vomiting $ | 17 (10) | 13 (7) | 0 (0) | 0 (0) |
+| Dyspepsia | 16 (9) | 5 (2.8) | 0 (0) | 0 (0) |
+| Stomatitis | 9 (5) | 7 (3.9) | 0 (0) | 0 (0) |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+| Rash $,d | 39 (22) | 14 (8) | 5 (2.8) | 2 (1.1) |
+| Pruritus $,e | 36 (20) | 9 (5) | 2 (1.1) | 0 (0) |
+| Dry skin | 9 (5) | 6 (3.3) | 0 (0) | 0 (0) |
+| Dermatitis acneiform | 8 (4.5) | 0 (0) | 2 (1.1) | 0 (0) |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Muscle Spasms | 23 (13) | 9 (5) | 1 (< 1) | 1 (< 1) |
+| Pain in Extremity $ | 8 (4.5) | 9 (5) | 2 (1) | 0 (0) |
+| Renal disorders |  |  |  |  |
+| Acute Kidney Injury 3,$,@,% | 3 (1.7) | 0 (0) | 2 (1.1) | 0 (0) |
+| Cardiac disorders |  |  |  |  |
+| Supraventricular tachycardia 3,$ | 2 (1.1) | 0 (0) | 2 (1.1) | 0 (0) |
+| General disorders and administration site conditions |  |  |  |  |
+| Fatigue | 38 (22) | 33 (18) | 2 (1.1) | 1 (< 1) |
+| Pyrexia 3,$ | 37 (21) | 27 (15) | 1 (< 1) | 3 (1.7) |
+| Asthenia $,% | 24 (14) | 19 (11) | 2 (1.1) | 1 (< 1) |
+| Edema Peripheral $ | 23 (13) | 16 (9) | 0 (0) | 0 (0) |
+| Chills | 14 (8) | 8 (4.4) | 0 (0) | 0 (0) |
+| Malaise | 13 (7) | 10 (6) | 0 (0) | 0 (0) |
+| Influenza like illness | 9 (5) | 7 (3.9) | 0 (0) | 0 (0) |
+| Psychiatric disorders |  |  |  |  |
+| Insomnia | 14 (8) | 11 (6) | 0 (0) | 0 (0) |
+| Investigations |  |  |  |  |
+| Alanine Aminotransferase Increased | 18 (10) | 15 (8) | 3 (1.7) | 1 (< 1) |
+| WBC count decreased | 16 (9) | 13 (7) | 5 (2.8) | 2 (1.1) |
+| Lymphocyte count decreased | 12 (7) | 12 (7) | 6 (3.4) | 2 (1.1) |
+| Blood bilirubin increased | 10 (6) | 0 (0) | 0 (0) | 0 (0) |
+| Weight Decreased | 12 (7) | 2 (1.1) | 0 (0) | 0 (0) |
+| Note: Adverse reactions are coded to body system/adverse reaction using MedDRA 21. A patient with multiple occurrences of an adverse reaction is counted only once under the applicable Body System/Adverse reaction. |  |  |  |  |
+| 1 All treatment-emergent AEs in at least 5% of patients in the lenalidomide capsules + rituximab group and at least 1% higher frequency (%) than the rituximab + placebo group (control arm). |  |  |  |  |
+| 2 All grade 3 or 4 treatment-emergent AEs in at least 1% of patients in the lenalidomide capsules + rituximab group and at least 1% higher frequency (%) than the rituximab + placebo group (control arm). |  |  |  |  |
+| 3 All serious treatment-emergent AEs in at least 1% of patients in the lenalidomide capsules + rituximab group and at least 1% higher frequency (%) than the rituximab + placebo group (control arm). |  |  |  |  |
+| $ Serious ADR reported. |  |  |  |  |
+| @ - adverse reactions in which at least one resulted in a fatal outcome. |  |  |  |  |
+| % - adverse reactions in which at least one was considered to be life threatening (if the outcome of the reaction was death, it is included with death cases). |  |  |  |  |
+| *Adverse Reactions for combined ADR terms (based on relevant TEAE PTs [per MedDRA version 21.0]): |  |  |  |  |
+| a “Thromboembolic events” combined term includes the following PTs: pulmonary embolism, deep vein thrombosis, cerebrovascular accident, embolism, and thrombosis. |  |  |  |  |
+| b “Cough” combined AE term includes the following PTs: cough and productive cough. |  |  |  |  |
+| c “Abdominal pain” combined AE term includes the following PTs: abdominal pain and abdominal pain upper. |  |  |  |  |
+| d “Rash” combined AE term includes the following PTs: rash maculo-papular, rash erythematous, rash macular, rash papular, rash pruritic, and rash generalized. |  |  |  |  |
+| e “Pruritus” combined AE term includes the following PTs: pruritus, pruritus generalized, rash pruritic, and pruritus allergic. |  |  |  |  |
 
 ## 6.2 Postmarketing Experience
 

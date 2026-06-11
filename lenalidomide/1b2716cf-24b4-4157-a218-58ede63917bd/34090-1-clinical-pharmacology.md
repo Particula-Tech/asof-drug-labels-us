@@ -5,10 +5,11 @@
 Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties.
 Cellular activities of lenalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex.
 In vitro, in the presence of drug, substrate proteins (including Aiolos, Ikaros, and CK1α) are targeted for ubiquitination and subsequent degradation leading to direct cytotoxic and immunomodulatory effects.
-Lenalidomide inhibits proliferation and induces apoptosis of certain hematopoietic tumor cells including MM, mantle cell lymphoma, and del (5q) myelodysplastic syndromes in vitro.
+Lenalidomide inhibits proliferation and induces apoptosis of certain hematopoietic tumor cells including MM, mantle cell lymphoma, and del (5q) myelodysplastic syndromes, follicular lymphoma and marginal zone lymphoma in vitro.
 Lenalidomide causes a delay in tumor growth in some in vivo nonclinical hematopoietic tumor models including MM.
 Immunomodulatory properties of lenalidomide include increased number and activation of T cells and natural killer (NK) cells leading to direct and enhanced antibody-dependent cell-mediated cytotoxicity (ADCC) via increased secretion of interleukin-2 and interferon-gamma, increased numbers of NKT cells, and inhibition of pro-inflammatory cytokines (e.g., TNF-α and IL-6) by monocytes.
 In MM cells, the combination of lenalidomide and dexamethasone synergizes the inhibition of cell proliferation and the induction of apoptosis.
+The combination of lenalidomide and rituximab increases ADCC and direct tumor apoptosis in follicular lymphoma cells and increases ADCC in marginal zone lymphoma cells compared to rituximab alone in vitro.
 
 ## 12.2 Pharmacodynamics
 

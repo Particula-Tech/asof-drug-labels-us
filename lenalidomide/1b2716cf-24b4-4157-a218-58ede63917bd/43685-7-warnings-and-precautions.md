@@ -47,9 +47,9 @@ Monitor patients with neutropenia for signs of infection.
 Advise patients to observe for bleeding or bruising, especially with use of concomitant medication that may increase risk of bleeding.
 Patients taking lenalidomide capsules should have their complete blood counts assessed periodically as described below [see Dosage and Administration (2.1, 2.2, 2.3)].
 
-Monitor complete blood counts (CBC) in patients taking lenalidomide capsules in combination with dexamethasone for MM every 7 days (weekly) for the first 2 cycles, on Days 1 and 15 of Cycle 3, and every 28 days (4 weeks) thereafter.
+Monitor complete blood counts (CBC) in patients taking lenalidomide capsules in combination with dexamethasone or as lenalidomide capsules maintenance therapy for MM every 7 days (weekly) for the first 2 cycles, on Days 1 and 15 of Cycle 3, and every 28 days (4 weeks) thereafter.
 A dose interruption and/or dose reduction may be required [see Dosage and Administration (2.1)].
-In trials for another indication, Grade 3 or 4 neutropenia was reported in up to 59% of lenalidomide capsules-treated patients and Grade 3 or 4 thrombocytopenia in up to 38% of lenalidomide capsules-treated patients.
+In the MM maintenance therapy trials, Grade 3 or 4 neutropenia was reported in up to 59% of lenalidomide capsules-treated patients and Grade 3 or 4 thrombocytopenia in up to 38% of lenalidomide capsules-treated patients [see Adverse Reactions (6.1)].
 
 Monitor complete blood counts (CBC) in patients taking lenalidomide capsules for MDS weekly for the first 8 weeks and at least monthly thereafter.
 Grade 3 or 4 hematologic toxicity was seen in 80% of patients enrolled in the MDS study.
@@ -60,6 +60,11 @@ Monitor complete blood counts (CBC) in patients taking lenalidomide capsules for
 Patients may require dose interruption and/or dose reduction.
 In the MCL trial, Grade 3 or 4 neutropenia was reported in 43% of the patients.
 Grade 3 or 4 thrombocytopenia was reported in 28% of the patients.
+
+Monitor complete blood counts (CBC) in patients taking lenalidomide capsules for FL or MZL weekly for the first 3 weeks of Cycle 1 (28 days), every 2 weeks during Cycles 2 to 4, and then monthly thereafter.
+Patients may require dose interruption and/or dose reduction.
+In the AUGMENT and MAGNIFY trials, Grade 3 or 4 neutropenia was reported in 50% and 33%, respectively, of patients in the lenalidomide/rituximab arm.
+Grade 3 or 4 thrombocytopenia was reported in 2% and 8%, respectively, of patients in the lenalidomide/rituximab arm [see Adverse Reactions (6.1)].
 
 ## 5.4 Venous and Arterial Thromboembolism
 
@@ -79,6 +84,9 @@ In controlled clinical trials that did not use concomitant thromboprophylaxis, 2
 The median time to first thrombosis event was 2.8 months.
 In the NDMM study in which nearly all patients received antithrombotic prophylaxis, the overall frequency of thrombotic events was 17.4% in patients in the combined Rd Continuous and Rd18 Arms, and was 11.6% in the MPT Arm.
 The median time to first thrombosis event was 4.3 months in the combined Rd Continuous and Rd18 Arms.
+
+In the AUGMENT trial, the incidence of VTE (including DVT and PE) in FL or MZL patients was 3.4% in the lenalidomide capsules/rituximab arm [see Adverse Reactions (6.1)].
+In the AUGMENT trial, the incidence of ATE (including MI) in FL or MZL patients was 0.6% in the lenalidomide capsules/rituximab arm [see Adverse Reactions (6.1)].
 
 Thromboprophylaxis is recommended.
 The regimen of thromboprophylaxis should be based on an assessment of the patient’s underlying risks.
@@ -100,7 +108,7 @@ In clinical trials in patients with MM receiving lenalidomide capsules, an incre
 An increase in hematologic SPM including AML and MDS occurred in 5.3% of patients with NDMM receiving lenalidomide capsules in combination with oral melphalan compared with 1.3% of patients receiving melphalan without lenalidomide capsules.
 The frequency of AML and MDS cases in patients with NDMM treated with lenalidomide capsules in combination with dexamethasone without melphalan was 0.4%.
 
-In a study for another indication, hematologic SPM occurred in 7.5% of patients compared to 3.3% in patients receiving placebo.
+In patients receiving lenalidomide capsules maintenance therapy following high dose intravenous melphalan and auto-HSCT, hematologic SPM occurred in 7.5% of patients compared to 3.3% in patients receiving placebo.
 The incidence of hematologic plus solid tumor (excluding squamous cell carcinoma and basal cell carcinoma) SPM was 14.9%, compared to 8.8% in patients receiving placebo with a median follow-up of 91.5 months.
 Non-melanoma skin cancer SPM, including squamous cell carcinoma and basal cell carcinoma, occurred in 3.9% of patients receiving lenalidomide capsules maintenance, compared to 2.6% in the placebo arm.
 
@@ -108,6 +116,12 @@ In patients with relapsed or refractory MM treated with lenalidomide capsules/de
 Non-melanoma skin cancer SPM, including squamous cell carcinoma and basal cell carcinoma, occurred in 3.1% of patients receiving lenalidomide capsules/dexamethasone, compared to 0.6% in the dexamethasone alone arm.
 
 Patients who received lenalidomide-containing therapy until disease progression did not show a higher incidence of invasive SPM than patients treated in the fixed duration lenalidomide-containing arms.
+Monitor patients for the development of second primary malignancies.
+Take into account both the potential benefit of lenalidomide capsules and the risk of second primary malignancies when considering treatment with lenalidomide capsules.
+
+In the AUGMENT trial with FL or MZL patients receiving lenalidomide capsules/rituximab therapy, hematologic plus solid tumor SPMs, notably AML, have been observed.
+In the AUGMENT trial, hematologic SPM of AML occurred in 0.6% of patients with FL or MZL receiving lenalidomide capsules/rituximab therapy.
+The incidence of hematologic plus solid tumor SPMs (excluding nonmelanoma skin cancers) was 1.7% in the lenalidomide capsules/rituximab arm with a median follow-up of 29.8 months (range 0.5 to 51.3 months) [see Adverse Reactions (6.1)].
 Monitor patients for the development of second primary malignancies.
 Take into account both the potential benefit of lenalidomide capsules and the risk of second primary malignancies when considering treatment with lenalidomide capsules.
 
@@ -141,16 +155,21 @@ Fatal instances of tumor lysis syndrome (TLS) have been reported during treatmen
 The patients at risk of TLS are those with high tumor burden prior to treatment.
 Monitor patients at risk closely and take appropriate preventive approaches.
 
+In the AUGMENT trial in FL or MZL patients, TLS occurred in 2 patients (1.1%) in the lenalidomide capsules/rituximab arm.
+TLS occurred in 1 patient (0.5%) in the MAGNIFY trial during the lenalidomide capsules/rituximab induction period; the event was a serious, Grade 3 adverse reaction.
+
 ## 5.11 Tumor Flare Reaction
 
 Tumor flare reaction (TFR), including fatal reactions, have occurred during investigational use of lenalidomide for CLL and lymphoma, and is characterized by tender lymph node swelling, low grade fever, pain and rash.
 Lenalidomide is not indicated and not recommended for use in CLL outside of controlled clinical trials.
 
-Monitoring and evaluation for TFR is recommended in patients with MCL.
+Monitoring and evaluation for TFR is recommended in patients with MCL, FL, or MZL.
 Tumor flare reaction may mimic progression of disease (PD).
 
 In the MCL trial, 13/134 (10%) of subjects experienced TFR; all reports were Grade 1 or 2 in severity.
 All of the events occurred in Cycle 1 and one patient developed TFR again in Cycle 11.
+In the AUGMENT trial in FL or MZL patients, TFR was reported in 19/176 (10.8%) of patients in lenalidomide capsules with rituximab arm; one patient in the lenalidomide capsules/rituximab arm experienced a Grade 3 TFR.
+In the MAGNIFY trial, 9/222 (4.1%) of patients experienced TFR; all reports were Grade 1 or 2 in severity and 1 event was considered as serious.
 In a separate MCL phase 2 trial, one case of TFR resulted in a fatal outcome.
 
 Lenalidomide may be continued in patients with Grade 1 and 2 TFR without interruption or modification, at the physician’s discretion.

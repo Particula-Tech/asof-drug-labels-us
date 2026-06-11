@@ -84,6 +84,91 @@ CI = confidence interval; d = low-dose dexamethasone; HR = hazard ratio; M = mel
 
 Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤18 cycles; T = thalidomide.
 
+Randomized, Placebo-Controlled Clinical Trials - Maintenance Following Auto-HSCT:
+
+Two multicenter, randomized, double-blind, parallel group, placebo-controlled studies were conducted to evaluate the efficacy and safety of lenalidomide capsules maintenance therapy in the treatment of MM patients after auto-HSCT.
+In Maintenance Study 1, patients between 18 and 70 years of age who had undergone induction therapy followed by auto-HSCT were eligible.
+Induction therapy must have occurred within 12 months.
+Within 90 to 100 days after auto-HSCT, patients with at least a stable disease response were randomized 1:1 to receive either lenalidomide capsules or placebo maintenance.
+In Maintenance Study 2, patients aged < 65 years at diagnosis who had undergone induction therapy followed by auto-HSCT and had achieved at least a stable disease response at the time of hematologic recovery were eligible.
+Within 6 months after auto-HSCT, patients were randomized 1:1 to receive either lenalidomide capsules or placebo maintenance.
+Patients eligible for both trials had to have CLcr ≥30 mL/minute.
+
+In both studies, the lenalidomide capsules maintenance dose was 10 mg once daily on days 1 to 28 of repeated 28-day cycles, could be increased to 15 mg once daily after 3 months in the absence of dose-limiting toxicity, and treatment was to be continued until disease progression or patient withdrawal for another reason.
+The dose was reduced, or treatment was temporarily interrupted or stopped, as needed to manage toxicity.
+A dose increase to 15 mg once daily occurred in 135 patients (58%) in Maintenance Study 1, and in 185 patients (60%) in Maintenance Study 2.
+
+The demographics and disease-related baseline characteristics of the patients were similar across the two studies and reflected a typical MM population after auto- HSCT (see Table 14).
+
+Table 14: Baseline Demographic and Disease-Related Characteristics – MM Maintenance Studies 1 and 2
+
+|  | Maintenance Study 1 |  | Maintenance Study 2 |  |
+| --- | --- | --- | --- | --- |
+|  | Lenalidomide CapsulesN = 231 | PlaceboN = 229 | Lenalidomide CapsulesN = 307 | PlaceboN = 307 |
+| Age (years) |  |  |  |  |
+| Median | 58 | 58 | 57.5 | 58.1 |
+| (Min, max) | (29, 71) | (39, 71) | (22.7, 68.3) | (32.3, 67) |
+| Sex, n (%) |  |  |  |  |
+| Male | 121 (52) | 129 (56) | 169 (55) | 181 (59) |
+| Female | 110 (48) | 100 (44) | 138 (45) | 126 (41) |
+| ISS Stage at Diagnosis, n (%) |  |  |  |  |
+| Stage I or II | 120 (52) | 131 (57) | 232 (76) | 250 (81) |
+| Stage I | 62 (27) | 85 (37) | 128 (42) | 143 (47) |
+| Stage II | 58 (25) | 46 (20) | 104 (34) | 107 (35) |
+| Stage III | 39 (17) | 35 (15) | 66 (21) | 46 (15) |
+| Missing | 72 (31) | 63 (28) | 9 (3) | 11 (4) |
+| CrCl at Post-auto-HSCT,n (%) |  |  |  |  |
+| < 50 mL/min | 23 (10) | 16 (7) | 10 (3) | 9 (3) |
+| ≥ 50 mL/min | 201 (87) | 204 (89) | 178 (58) | 200 (65) |
+| Missing | 7 (3) | 9 (4) | 119 (39) | 98 (32) |
+| Data cutoff date = 1 March 2015. |  |  |  |  |
+
+The major efficacy endpoint of both studies was PFS defined from randomization to the date of progression or death, whichever occurred first; the individual studies were not powered for an overall survival endpoint.
+Both studies were unblinded upon the recommendations of their respective data monitoring committees and after surpassing the respective thresholds for preplanned interim analyses of PFS.
+After unblinding, patients continued to be followed as before.
+Patients in the placebo arm of Maintenance Study 1 were allowed to cross over to receive lenalidomide capsules before disease progression (76 patients [33%] crossed over to lenalidomide capsules); patients in Maintenance Study 2 were not recommended to cross over.
+The efficacy results are summarized in the following table.
+In both studies, the primary analysis of PFS at unblinding was significantly longer with lenalidomide capsules compared to placebo: Maintenance Study 1 HR 0.38 (95% CI: 0.27 to 0.54 p <0.001) and Maintenance Study 2 HR 0.50 (95% CI: 0.39 to 0.64 p <0.001).
+For both studies, PFS was updated with a cutoff date of 1 March 2015 as shown in the table and the following Kaplan Meier graphs.
+With longer follow-up (median 72.4 and 86.0 months, respectively), the updated PFS analyses for both studies continue to show a PFS advantage for lenalidomide capsules compared to placebo: Maintenance Study 1 HR 0.38 (95% CI: 0.28-0.50) with median PFS of 68.6 months and Maintenance Study 2 HR 0.53 (95% CI: 0.44-0.64) with median PFS of 46.3 months.
+
+Descriptive analysis of OS data with a cutoff date of 1 February 2016 are provided in Table 15.
+Median follow-up time was 81.6 and 96.7 months for Maintenance Study 1 and Maintenance Study 2, respectively.
+Median OS was 111.0 and 84.2 months for lenalidomide capsules and placebo, respectively, for Maintenance Study 1, and 105.9 and 88.1 months, for lenalidomide capsules and placebo, respectively, for Maintenance Study 2.
+
+Table 15: Progression-free Survival and Overall Survival from Randomization in MM Maintenance Studies 1 and 2 (ITT Post-Auto-HSCT Population)
+
+|  | Maintenance Study 1 |  | Maintenance Study 2 |  |
+| --- | --- | --- | --- | --- |
+|  | Lenalidomide CapsulesN = 231 | PlaceboN = 229 | Lenalidomide CapsulesN = 307 | PlaceboN = 307 |
+| PFS at Unblinding |  |  |  |  |
+| PFS Events n (%) | 46 (20) | 98 (43) | 103 (34) | 160 (52) |
+| Median in months [95% CI] | 33.9[NE, NE] | 19[16.2, 25.6] | 41.2[38.3, NE] | 23.0[21.2, 28.0] |
+| Hazard Ratio [95% CI] | 0.38[0.27, 0.54] |  | 0.50[0.39, 0.64] |  |
+| Log-rank Test p-value | <0.001 |  | <0.001 |  |
+| PFS at Updated Analysis1 March 2015 (Studies 1 and 2) |  |  |  |  |
+| PFS Events n (%) | 97 (42) | 116 (51) | 191 (62) | 248 (81) |
+| Median in months [95% CI] | 68.6[52.8, NE] | 22.5[18.8, 30.0] | 46.3[40.1, 56.6] | 23.8[21.0, 27.3] |
+| Hazard Ratio [95% CI] | 0.38[0.28, 0.50] |  | 0.53[0.44, 0.64] |  |
+| OS at Updated Analysis1 Feb 2016 (Studies 1 and 2) |  |  |  |  |
+| OS Events n (%) | 82 (35) | 114 (50) | 143 (47) | 160 (52) |
+| Median in months [95% CI] | 111[101.8, NE] | 84.2[71.0, 102.7] | 105.9[88.8, NE] | 88.1[80.7, 108.4] |
+| Hazard Ratio [95% CI] | 0.59[0.44, 0.78] |  | 0.90[0.72, 1.13] |  |
+| Date of Unblinding in Maintenance Study 1 and 2 = 17 December 2009 and 7 July 2010, respectively. |  |  |  |  |
+| Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; ITT = intent to treat; NE = not estimable; PFS = progression-free survival. |  |  |  |  |
+| PFS at time of unblinding for Maintenance Study 2 was based on assessment by an Independent Review Committee. All other PFS analyses were based on assessment by investigator. |  |  |  |  |
+| Note: The median is based on Kaplan-Meier estimate, with 95% CIs about the median overall PFS time. Hazard ratio is based on a proportional hazards model stratified by stratification factors comparing the hazard functions associated with treatment arms (lenalidomide capsules: placebo). |  |  |  |  |
+
+Kaplan-Meier Curves of Progression-free Survival from Randomization
+
+(ITT Post-Auto-HSCT Population) in MM Maintenance Study 1 between Lenalidomide Capsules and Placebo Arms (Updated Cutoff Date 1 March 2015)
+
+Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; HR = hazard ratio; ITT = intent to treat; KM = Kaplan-Meier; PFS = progression-free survival; vs = versus.
+
+Kaplan-Meier Curves of Progression-free Survival from Randomization (ITT Post-Auto-HSCT Population) in MM Maintenance Study 2 between Lenalidomide Capsules and Placebo Arms (Updated Cutoff Date 1 March 2015)
+
+Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; HR = hazard ratio; ITT = intent to treat; KM = Kaplan-Meier; NE = not estimable; PFS = progression-free survival; vs = versus.
+
 Randomized, Open-Label Clinical Studies in Patients with MM After At Least One Prior Therapy
 
 Two randomized studies (Studies 1 and 2) were conducted to evaluate the efficacy and safety of lenalidomide.
@@ -295,3 +380,117 @@ Table 20: Response Outcomes in the Pivotal Mantle Cell Lymphoma Trial
 | Partial Response (PR) | 25 (19) |  |
 | Duration of Response (months) | Median | 95% CI |
 | Duration of Overall Response (CR + CRu + PR) (N = 34) | 16.6 | (7.7, 26.7) |
+
+## 14.4 Follicular and Marginal Zone Lymphoma
+
+The efficacy of lenalidomide capsules with rituximab in patients with relapsed or refractory follicular and marginal zone lymphoma was evaluated in the AUGMENT (NCT01938001) and MAGNIFY (NCT01996865) trials.
+
+AUGMENT is a randomized, double-blind, multicenter trial (n=358) in which patients with relapsed or refractory follicular or marginal zone lymphoma were randomized 1:1 to receive lenalidomide capsules and rituximab or rituximab and placebo.
+AUGMENT included patients diagnosed with Grade 1, 2, or 3a follicular lymphoma, who received at least 1 prior systemic therapy, were refractory or relapsed, not rituximab-refractory, had at least one measurable nodal or extranodal lesion by CT or MRI scan, and had adequate bone marrow, liver, and renal function.
+Randomization was stratified by follicular versus marginal zone lymphoma, previous rituximab therapy, and time since other anti-lymphoma therapy.
+In AUGMENT, lenalidomide capsules was administered orally 20 mg once daily for Days 1 to 21 of repeating 28-day cycles for a maximum of 12 cycles or until unacceptable toxicity.
+The dose of rituximab was 375 mg/m2 every week in Cycle 1 (Days 1, 8, 15, and 22) and on Day 1 of every 28-day cycle from Cycles 2 through 5.
+All dosage calculations for rituximab were based on the patient’s body surface area (BSA), using actual patient weight.
+Dose adjustments for lenalidomide capsules were allowed based on clinical and laboratory findings.
+A patient with moderate renal insufficiency (≥30 to <60 mL/minute) received a lower lenalidomide capsules starting dose of 10 mg daily on the same schedule.
+After 2 cycles, the lenalidomide capsules dose could be increased to 15 mg once daily on Days 1 to 21 of each 28-day cycle if the patient tolerated the medication.
+
+MAGNIFY is an open-label, multicenter trial (n=232) in which patients with relapsed or refractory follicular, marginal zone, or mantle cell lymphoma received 12 induction cycles of lenalidomide capsules and rituximab.
+MAGNIFY included patients diagnosed with Grade 1, 2,3a, 3b follicular (including transformed), marginal zone, or mantle cell lymphoma Stage I to IV who were previously treated for their lymphoma, had been refractory or had a relapse after their last treatment, had at least one measurable nodal or extranodal lesion by CT or MRI scan, and had adequate bone marrow, liver, and renal function.
+Patients refractory to rituximab were also included.
+The information from the subjects who received at least 1 dose of initial therapy in the first 12 induction cycles (n=222) in the MAGNIFY trial was included in the evaluation of the efficacy of lenalidomide capsules/rituximab in patients with relapsed or refractory follicular and marginal zone lymphoma.
+In MAGNIFY, lenalidomide capsules 20 mg was given on Days 1 to 21 of repeated 28-day cycles for up to 12 cycles or until unacceptable toxicity, progression, or withdrawal of consent.
+The dose of rituximab was 375 mg/m2 every week in Cycle 1 (Days 1, 8, 15, and 22) and on Day 1 of every other 28-day cycle (Cycles 3,5,7,9, and 11) up to 12 cycles therapy.
+All dosage calculations for rituximab were based on the patient BSA and actual weight.
+Dose adjustments were allowed based on clinical and laboratory findings.
+
+The demographic and disease-related baseline characteristics in the AUGMENT and MAGNIFY trials are shown in the following table.
+
+Table 21: Baseline Demographics and Disease-Related Characteristics of Patients with FL and MZL in AUGMENT and MAGNIFY Trials
+
+| Parameter | AUGMENT Trial |  | MAGNIFY Trial |
+| --- | --- | --- | --- |
+| Lenalidomide Capsules + Rituximab(N=178) | Rituximab + Placebo(Control Arm)(N=180) | Lenalidomide Capsules + Rituximab(N=222) |  |
+| Age (years) |  |  |  |
+| Median (Max, Min) | 64 (26, 86) | 62 (35, 88) | 65 (35, 91) |
+| Age distribution, n (%) |  |  |  |
+| <65 years | 96 (54) | 107 (59) | 103 (46) |
+| ≥65 years | 82 (46) | 73 (41) | 119 (54) |
+| Sex, n (%) |  |  |  |
+| Male | 75 (42) | 97 (54) | 122 (55) |
+| Female | 103 (58) | 83 (46) | 100 (45) |
+| Race |  |  |  |
+| White | 118 (66) | 115 (64) | 206 (93) |
+| Other races | 54 (30) | 64 (36) | 14 (6) |
+| Not collected or reported | 6 (3) | 1 (0.6) | 2 (1) |
+| Body Surface Area (BSA, m2) |  |  |  |
+| Median (Max, Min) | 1.8 (1.4, 3.1) | 1.8 (1.3, 2.7) | 2 (1.3, 2.6) |
+| Disease Type FL or MZL |  |  |  |
+| Follicular lymphoma | 147 (83) | 148 (82) | 177 (80) |
+| Marginal zone lymphoma | 31 (17) | 32 (18) | 45 (20) |
+| MZL subtype at diagnosis (investigator), n (%) |  |  |  |
+| MALT | 14 (45) | 16 (50) | 10 (22) |
+| Nodal | 8 (26) | 10 (31) | 25 (56) |
+| Splenic | 9 (29) | 6 (19) | 10 (22) |
+| FL stage at diagnosis (investigator), n (%) |  |  |  |
+| FL Grade 1-2 | 125 (85) | 123 (83) | 149 (84) |
+| FL Grade 3a | 22 (15) | 25 (17) | 28 (16) |
+| FLIPI score at baseline (calculated), n (%) |  |  | Not Collected |
+| Low risk (0,1) | 52 (29) | 67 (37) |  |
+| Intermediate risk (2) | 55 (31) | 58 (32) |  |
+| High risk (≥3) | 69 (39) | 54 (30) |  |
+| Missing | 2 (1) | 1 (0.6) |  |
+| ECOG score at baseline, n (%) |  |  |  |
+| 0 | 116 (65) | 128 (71) | 102 (46) |
+| 1 | 60 (34) | 50 (28) | 113 (51) |
+| 2 | 2 (1) | 2 (1) | 7 (3) |
+| High tumor burdena at baseline, n (%) |  |  |  |
+| Yes | 97 (54) | 86 (48) | 148 (67) |
+| No | 81 (46) | 94 (52) | 74 (33) |
+| Number of prior systemic antilymphoma therapies |  |  |  |
+| 1 | 102 (57) | 97 (54) | 94 (42)b |
+| >1 | 76 (43) | 83 (46) | 128 (58) |
+| Data Cutoff: 22 June 2018 (AUGMENT) and 1 May 2017 (MAGNIFY). |  |  |  |
+| a Defined by GELF criteria. |  |  |  |
+| b Patient had either 0 (n=2) or 1 prior systemic therapy. |  |  |  |
+| ECOG = Eastern Cooperative Oncology Group; FLIPI = follicular lymphoma international prognostic index |  |  |  |
+
+In AUGMENT, efficacy was established in the intent-to-treat (ITT) population based on progression-free survival by Independent Review Committee using modified 2007 International Working Group response criteria.
+Efficacy results are summarized in Table 22.
+
+Table 22: Efficacy Results for Patients in the AUGMENT Trial (ITT FL and MZL Population)
+
+| Parameter | Lenalidomide Capsules + Rituximab(N=178) | Rituximab + Placebo(N=180) |
+| --- | --- | --- |
+| PFS |  |  |
+| Patients with event, n (%) | 68 (38.2) | 115 (63.9) |
+| Death | 6 (8.8) | 2 (1.7) |
+| Progression of disease | 62 (91.2) | 113 (98.3) |
+| PFS, median a [95% CI] (months) | 39.4 [22.9, NE] | 14.1 [11.4, 16.7] |
+| HR b [95% CI] | 0.46 [0.34, 0.62] |  |
+| p-value c | <0.0001 |  |
+| Objective response (CR+PR), n(%) [95% CI] d | 138 (77.5) [70.7, 83.4] | 96 (53.3) [45.8, 60.8] |
+| a Median estimate is from Kaplan-Meier analysis. |  |  |
+| b hazard ratio and its CI were estimated from Cox proportional hazard model adjusting for the stratification 3: previous rituximab treatment (yes, no), time since last antilymphoma therapy (≤ 2, > 2 years), and disease histology (FL, MZL). |  |  |
+| c p-value from log-rank test stratified by 3 factors noted above: previous rituximab treatment (yes, no), time since last antilymphoma therapy (≤ 2, > 2 years), and disease histology (FL, MZL). |  |  |
+| d Exact confidence interval for binomial distribution. |  |  |
+
+Kaplan-Meier Curves of Progression-free Survival by IRC Assessment Between Arms in AUGMENT Trial (ITT FL and MZL Population)
+
+a = Stratification factors included: previous rituximab treatment (y/n), time since last anti-lymphoma therapy (≤2 years, >2years), and disease histology (FL or MZL).
+
+CI = confidence interval; HR = hazard ratio; KM = Kaplan-Meier; PFS = progression-free survival
+
+Follicular Lymphoma
+
+In AUGMENT, the objective response by IRC assessment for patients with follicular lymphoma was 80% (118/147) [95% CI: 73%, 86%]) in lenalidomide capsules with rituximab arm compared to 55% (82/148) [95% CI: 47, 64] in control arm.
+
+In MAGNIFY, the overall response by investigator assessment was 59% (104/177) [95% CI: 51, 66] for patients with follicular lymphoma.
+Median duration of response was not reached with a median follow-up time of 7.9 months [95% CI: 4.6, 9.2].
+
+Marginal Zone Lymphoma
+
+In AUGMENT, the objective response by IRC assessment for patients with marginal zone lymphoma was 65% (20/31) [95% CI: 45%, 81%] in lenalidomide capsules with rituximab arm compared to 44% (14/32) [95% CI: 26%, 62%] in control arm.
+
+In MAGNIFY, the overall response by investigator assessment was 51% (23/45) [95% CI: 36, 66] for patients with marginal zone lymphoma.
+Median duration of response was not reached with a median follow-up time of 11.5 months [95% CI: 8.0, 18.9].
