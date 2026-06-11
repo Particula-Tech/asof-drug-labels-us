@@ -8,7 +8,7 @@ For patent information: www.organon.com/our-solutions/patent/
 © 2026 Organon group of companies.
 All rights reserved.
 
-uspi-og8415-iptx-2601r003
+uspi-og8415-iptx-2605r004
 
 Manufactured for: Organon USA LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA
 
@@ -20,10 +20,10 @@ For patent information: www.organon.com/our-solutions/patent/
 © 2026 Organon group of companies.
 All rights reserved.
 
-usppi-og8415-iptx-2601r003
+usppi-og8415-iptx-2605r004
 
 For more information, go to www.nexplanon.com or call 1-844-674-3200.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 01/2026
+Revised: 05/2026

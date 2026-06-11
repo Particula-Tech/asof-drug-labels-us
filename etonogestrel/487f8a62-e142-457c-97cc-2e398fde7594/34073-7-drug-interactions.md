@@ -16,9 +16,9 @@ Substances increasing the plasma concentrations of HCs:
 
 Co-administration of certain HCs and strong or moderate CYP3A4 inhibitors such as itraconazole, voriconazole, fluconazole, grapefruit juice, or ketoconazole may increase the serum concentrations of progestins, including etonogestrel.
 
-Human Immunodeficiency Virus (HIV)/Hepatitis C Virus (HCV) protease inhibitors and non-nucleoside reverse transcriptase inhibitors:
+Human Immunodeficiency Virus (HIV) protease inhibitors and non-nucleoside reverse transcriptase inhibitors:
 
-Significant changes (increase or decrease) in the plasma concentrations of progestin have been noted in cases of co-administration with HIV protease inhibitors (decrease [e.g., nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir] or increase [e.g., indinavir and atazanavir/ritonavir])/HCV protease inhibitors (decrease [e.g., boceprevir and telaprevir]) or with non-nucleoside reverse transcriptase inhibitors (decrease [e.g., nevirapine, efavirenz] or increase [e.g., etravirine]).
+Significant changes (increase or decrease) in the plasma concentrations of progestin have been noted in cases of co-administration with HIV protease inhibitors (decrease [e.g., nelfinavir] or increase [e.g., indinavir, ritonavir and ritonavir-boosted protease inhibitors]) or with non-nucleoside reverse transcriptase inhibitors (decrease [e.g., nevirapine, efavirenz] or increase [e.g., etravirine]).
 These changes may be clinically relevant in some cases.
 
 Consult the prescribing information of anti-viral and anti-retroviral concomitant medications to identify potential interactions.

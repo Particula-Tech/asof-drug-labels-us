@@ -86,7 +86,6 @@ Using certain medicines with NEXPLANON, including those listed below, may make N
 - St. John's wort
 - topiramate
 - HIV medicines
-- Hepatitis C Virus medicines
 
 Ask your healthcare professional if you are not sure if your medicine is one listed above.
 
