@@ -81,7 +81,7 @@ Distributed by: CELLTRION USA, Inc., One Evertrust Plaza Suite 1207, Jersey City
 
 # Instructions for Use
 
-VTOZMA® (AV-TOZE'-MAH) (tocilizumab-anoh) Injection, For Subcutaneous Use Single-dose Prefilled Autoinjector
+AVTOZMA® (AV-TOZE'-MAH) (tocilizumab-anoh) Injection, For Subcutaneous Use Single-dose Prefilled Autoinjector
 
 Read and follow the Instructions for Use that come with your AVTOZMA prefilled autoinjector before you start using it and each time you get a reﬁll.
 There may be new information.
