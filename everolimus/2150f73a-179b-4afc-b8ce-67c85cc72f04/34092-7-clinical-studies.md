@@ -12,17 +12,17 @@ Patients were randomized 2:1 to AFINITOR 10 mg orally once daily in combination 
 The two treatment groups were generally balanced with respect to baseline demographics and disease characteristics.
 Patients were not permitted to cross over to AFINITOR at the time of disease progression.
 
-The trial demonstrated a statistically significant improvement in PFS by investigator assessment (Table 20 and Figure 1).
+The trial demonstrated a statistically significant improvement in PFS by investigator assessment (Table 21 and Figure 1).
 The results of the PFS analysis based on independent central radiological assessment were consistent with the investigator assessment.
 PFS results were also consistent across the subgroups of age, race, presence and extent of visceral metastases, and sensitivity to prior hormonal therapy.
 
-ORR was higher in the AFINITOR in combination with exemestane arm vs. the placebo in combination with exemestane arm (Table 20).
+ORR was higher in the AFINITOR in combination with exemestane arm vs. the placebo in combination with exemestane arm (Table 21).
 There were 3 complete responses (0.6%) and 58 partial responses (12%) in the AFINITOR arm.
 There were no complete responses and 4 partial responses (1.7%) in the placebo in combination with exemestane arm.
 
 After a median follow-up of 39.3 months, there was no statistically significant difference in OS between the AFINITOR in combination with exemestane arm and the placebo in combination with exemestane arm [HR 0.89 (95% CI: 0.73, 1.10)].
 
-Table 20: Efficacy Results in Hormone-Receptor Positive, HER-2 Negative Breast Cancer in BOLERO-2
+Table 21: Efficacy Results in Hormone-Receptor Positive, HER-2 Negative Breast Cancer in BOLERO-2
 
 | Analysis | AFINITOR with Exemestane N = 485 | Placebo with Exemestane N = 239 | Hazard Ratio | p-value |  |
 | --- | --- | --- | --- | --- | --- |
@@ -50,11 +50,11 @@ Patients were randomized 1:1 to receive either AFINITOR 10 mg once daily (n = 20
 Demographics were well balanced (median age 58 years, 55% male, 79% white).
 Of the 203 patients randomized to BSC, 172 patients (85%) received AFINITOR following documented radiologic progression.
 
-The trial demonstrated a statistically significant improvement in PFS (Table 21 and Figure 2).
+The trial demonstrated a statistically significant improvement in PFS (Table 22 and Figure 2).
 PFS improvement was observed across all patient subgroups, irrespective of prior somatostatin analog use.
-The PFS results by investigator radiological review, central radiological review and adjudicated radiological review are shown below in Table 21.
+The PFS results by investigator radiological review, central radiological review and adjudicated radiological review are shown below in Table 22.
 
-Table 21: Progression-Free Survival Results in PNET in RADIANT-3
+Table 22: Progression-Free Survival Results in PNET in RADIANT-3
 
 | Analysis | N | AFINITOR N = 207 | Placebo N = 203 | Hazard Ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- | --- |
@@ -81,10 +81,10 @@ A total of 302 patients were randomized, 205 to the AFINITOR arm and 97 to the p
 The median age was 63 years (22 to 86 years); 47% were male; 76% were white; 74% had WHO performance status of 0 and 26% had WHO performance status of 1.
 The most common primary sites of tumor were lung (30%), ileum (24%), and rectum (13%).
 
-The study demonstrated a statistically significant improvement in PFS per independent radiological review (Table 22 and Figure 3).
+The study demonstrated a statistically significant improvement in PFS per independent radiological review (Table 23 and Figure 3).
 The final OS analysis did not show a statistically significant difference between those patients who received AFINITOR or placebo (HR = 0.90 [95% CI: 0.66, 1.24]).
 
-Table 22: Progression-Free Survival in Neuroendocrine Tumors of Gastrointestinal or Lung Origin in RADIANT-4
+Table 23: Progression-Free Survival in Neuroendocrine Tumors of Gastrointestinal or Lung Origin in RADIANT-4
 
 |  | AFINITOR N = 205 | Placebo N = 97 |
 | --- | --- | --- |
@@ -119,12 +119,12 @@ Other outcome measures included OS.
 In total, 416 patients were randomized 2:1 to receive AFINITOR (n = 277) or placebo (n = 139).
 Demographics were well balanced between the arms (median age 61 years; 77% male, 88% white, 74% received prior sunitinib or sorafenib, and 26% received both sequentially).
 
-AFINITOR was superior to placebo for PFS (Table 23 and Figure 4).
+AFINITOR was superior to placebo for PFS (Table 24 and Figure 4).
 The treatment effect was similar across prognostic scores and prior sorafenib and/or sunitinib.
 Final OS results yield a hazard ratio of 0.90 (95% CI: 0.71, 1.14), with no statistically significant difference between the arms.
 Planned cross-over from placebo due to disease progression to open-label AFINITOR occurred in 80% of the 139 patients and may have confounded the OS benefit.
 
-Table 23: Progression-Free Survival and Objective Response Rate by Central Radiologic Review in RCC in RECORD-1
+Table 24: Progression-Free Survival and Objective Response Rate by Central Radiologic Review in RCC in RECORD-1
 
 |  | AFINITOR N = 277 | Placebo N = 139 | Hazard Ratio (95% CI) | p-valuea |
 | --- | --- | --- | --- | --- |
@@ -154,13 +154,13 @@ The median values for the sum of all target renal angiomyolipoma lesions at base
 Forty-six (39%) patients had prior renal embolization or nephrectomy.
 The median duration of follow-up was 8.3 months (0.7 to 24.8 months) at the time of the primary analysis.
 
-The renal angiomyolipoma response rate was statistically significantly higher in AFINITOR-treated patients (Table 24).
+The renal angiomyolipoma response rate was statistically significantly higher in AFINITOR-treated patients (Table 25).
 The median response duration was 5.3+ months (2.3+ to 19.6+ months).
 
 There were 3 patients in the AFINITOR arm and 8 patients in the placebo arm with documented angiomyolipoma progression by central radiologic review (defined as a ≥ 25% increase from nadir in the sum of angiomyolipoma target lesion volumes to a value greater than baseline, appearance of a new angiomyolipoma ≥ 1 cm in longest diameter, an increase in renal volume ≥ 20% from nadir for either kidney and to a value greater than baseline, or Grade ≥ 2 angiomyolipoma-related bleeding).
 The time to angiomyolipoma progression was statistically significantly longer in the AFINITOR arm (HR 0.08 [95% CI: 0.02, 0.37]; p < 0.0001).
 
-Table 24: Angiomyolipoma Response Rate in TSC-Associated Renal Angiomyolipoma in EXIST-2
+Table 25: Angiomyolipoma Response Rate in TSC-Associated Renal Angiomyolipoma in EXIST-2
 
 |  | AFINITOR | Placebo | p-value |
 | --- | --- | --- | --- |
@@ -205,13 +205,13 @@ The median values for the sum of all target SEGA lesions at baseline were 1.63 c
 Eight (7%) patients had prior SEGA-related surgery.
 The median duration of follow-up was 8.4 months (4.6 to 17.2 months) at the time of primary analysis.
 
-The SEGA response rate was statistically significantly higher in AFINITOR-treated patients (Table 25).
+The SEGA response rate was statistically significantly higher in AFINITOR-treated patients (Table 26).
 At the time of the primary analysis, all SEGA responses were ongoing and the median duration of response was 5.3 months (2.1 to 8.4 months).
 
 With a median follow-up of 8.4 months, SEGA progression was detected in 15.4% of the 39 patients randomized to receive placebo and none of the 78 patients randomized to receive AFINITOR.
 No patient in either treatment arm required surgical intervention.
 
-Table 25: Subependymal Giant Cell Astrocytoma Response Rate in TSC-Associated SEGA in EXIST-1
+Table 26: Subependymal Giant Cell Astrocytoma Response Rate in TSC-Associated SEGA in EXIST-1
 
 |  | AFINITOR | Placebo | p-value |
 | --- | --- | --- | --- |
@@ -268,9 +268,9 @@ The most common major features of TSC were cortical tubers (92%), hypomelanotic 
 While 17% of the patients had SEGA, 42% had renal angiomyolipoma, and 9% had both SEGA and renal angiomyolipoma; no patients were receiving treatment with AFINITOR or AFINITOR DISPERZ for these manifestations of TSC.
 During the Baseline phase, 65% of patients had complex partial seizures, 52% had secondarily generalized seizures, 19% had simple partial seizures, and 2% had generalized onset seizures.
 The median seizure frequency per week during the Baseline phase was 9.4 for all patients and 47% of patients were receiving 3 AEDs during the Baseline phase.
-The efficacy results are summarized in Table 26.
+The efficacy results are summarized in Table 27.
 
-Table 26: Percentage Reduction in Seizure Frequency and Response Rate in TSC-Associated Partial-Onset Seizures in EXIST-3
+Table 27: Percentage Reduction in Seizure Frequency and Response Rate in TSC-Associated Partial-Onset Seizures in EXIST-3
 
 |  | AFINITOR DISPERZ |  | Placebo |
 | --- | --- | --- | --- |

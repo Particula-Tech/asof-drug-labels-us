@@ -5,7 +5,6 @@
 - AFINITOR and AFINITOR DISPERZ are two different dosage forms.
   Select the recommended dosage form based on the indication [see Indications and Usage (1)].
   Do not combine AFINITOR and AFINITOR DISPERZ to achieve the total dose.
-- Modify the dosage for patients with hepatic impairment or for patients taking drugs that inhibit or induce P-glycoprotein (P-gp) and CYP3A4 [see Dosage and Administration (2.10, 2.11, 2.12)].
 
 ## 2.2 Recommended Dosage for Hormone Receptor-Positive, HER2-Negative Breast Cancer
 
@@ -51,8 +50,9 @@ Table 1: Recommended Timing of Therapeutic Drug Monitoring
 | Initiation of AFINITOR/AFINITOR DISPERZ | 1 to 2 weeks |
 | Modification of AFINITOR/AFINITOR DISPERZ dose | 1 to 2 weeks |
 | Switch between AFINITOR and AFINITOR DISPERZ | 1 to 2 weeks |
-| Initiation or discontinuation of P-gp and moderate CYP3A4 inhibitor | 2 weeks |
-| Initiation or discontinuation of P-gp and strong CYP3A4 inducer | 2 weeks |
+| Initiation or discontinuation of moderate CYP3A inhibitor and P-gp inhibitor | 2 weeks |
+| Initiation or discontinuation of cannabidiol oral solution | 2 weeks |
+| Initiation or discontinuation of strong CYP3A inducer and P-gp inducer | 2 weeks |
 | Change in hepatic function | 2 weeks |
 | Stable dose with changing body surface area (BSA) | Every 3 to 6 months |
 | Stable dose with stable BSA | Every 6 to 12 months |
@@ -96,32 +96,44 @@ Table 3: Recommended Dosage Modifications for Patients With Hepatic Impairment
 | TSC-Associated SEGA and TSC- Associated Partial-Onset Seizures | Severe hepatic impairment (Child-Pugh class C) – 2.5 mg/m2 orally once daily.Adjust dose based on everolimus trough concentrations as recommended [see Dosage and Administration (2.8)]. |  |
 | Abbreviations: NET, Neuroendocrine Tumors; RCC, Renal Cell Carcinoma; SEGA, Subependymal Giant Cell Astrocytoma; TSC, Tuberous Sclerosis Complex. |  |  |
 
-## 2.11 Dosage Modifications for P-gp and CYP3A4 Inhibitors
+## 2.11 Dosage Modifications for Drug Interactions
 
-- Avoid the concomitant use of P-gp and strong CYP3A4 inhibitors [see Drug Interactions (7.1)].
-- Avoid ingesting grapefruit and grapefruit juice.
-- Reduce the dose for patients taking AFINITOR/AFINITOR DISPERZ with a P-gp and moderate CYP3A4 inhibitor as recommended in Table 4 [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+Strong or Moderate CYP3A Inhibitor and P-glycoprotein (P-gp) Inhibitor
 
-Table 4: Recommended Dosage Modifications for Concurrent Use of AFINITOR/AFINITOR DISPERZ With a P-gp and Moderate CYP3A4 Inhibitor
+- Avoid the coadministration of a strong CYP3A inhibitor and P-gp inhibitor [see Drug Interactions (7.1)].
+- Reduce the dosage for AFINITOR/AFINITOR DISPERZ with a moderate CYP3A inhibitor and P-gp as recommended in Table 4 [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
-| Indication | Dose Modification for AFINITOR/AFINITOR DISPERZ |
+Table 4: Recommended Dosage Modifications with a Moderate CYP3A Inhibitor and P-gp Inhibitor
+
+| Indication | Dosage Modification for AFINITOR/AFINITOR DISPERZ |
 | --- | --- |
-| Breast Cancer, NET, RCC, and TSC-Associated Renal Angiomyolipoma | Reduce dose to 2.5 mg once daily.May increase dose to 5 mg once daily if tolerated.Resume dose administered prior to inhibitor initiation, once the inhibitor is discontinued for 3 days. |
-| TSC-Associated SEGA and TSC- Associated Partial-Onset Seizures | Reduce the daily dose by 50%.Change to every other day dosing if the reduced dose is lower than the lowest available strength.Resume dose administered prior to inhibitor initiation, once the inhibitor is discontinued for 3 days.Assess trough concentrations when initiating and discontinuing the inhibitor [see Dosage and Administration (2.8)]. |
+| Breast Cancer, NET, RCC, and TSC-Associated Renal Angiomyolipoma | Reduce dose to 2.5 mg once daily.May increase dose to 5 mg once daily if tolerated.Resume dosage administered prior to inhibitor initiation, once the inhibitor is discontinued for 3 days. |
+| TSC-Associated SEGA and TSC- Associated Partial-Onset Seizures | Reduce the daily dose by 50%.Change to every other day dosing if the reduced dose is lower than the lowest available strength.Resume dosage administered prior to inhibitor initiation, once the inhibitor is discontinued for 3 days.Assess trough concentrations when initiating and discontinuing the inhibitor [see Dosage and Administration (2.8)]. |
 
-## 2.12 Dosage Modifications for P-gp and CYP3A4 Inducers
+Cannabidiol Oral Solution
 
-- Avoid concomitant use of St. John’s Wort (Hypericum perforatum).
-- Increase the dose for patients taking AFINITOR/AFINITOR DISPERZ with a P-gp and strong CYP3A4 inducer as recommended in Table 5 [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+- Reduce the dosage of AFINITOR/AFINITOR DISPERZ when coadministered with cannabidiol oral solution as recommended in Table 5 [see Clinical Pharmacology (12.3)].
+  The effects of other cannabidiol products on everolimus exposure are unknown.
 
-Table 5: Recommended Dosage Modifications for Concurrent Use of AFINITOR/AFINITOR DISPERZ With P-gp and Strong CYP3A4 Inducers
+Table 5: Recommended Dosage Modifications with Cannabidiol Oral Solution
 
-| Indication | Dose Modification for AFINITOR/AFINITOR DISPERZ |
+| Indication | Dosage Modification for AFINITOR/AFINITOR DISPERZ |
 | --- | --- |
-| Breast Cancer, NET, RCC, and TSC-Associated Renal Angiomyolipoma | Avoid coadministration where alternatives exist.If coadministration cannot be avoided, double the daily dose using increments of 5 mg or less. Multiple increments may be required. Resume the dose administered prior to inducer initiation, once an inducer is discontinued for 5 days. |
-| TSC-Associated SEGA and TSC- Associated Partial-Onset Seizures | Double the daily dose using increments of 5 mg or less. Multiple increments may be required.Addition of another strong CYP3A4 inducer in a patient already receiving treatment with a strong CYP3A4 inducer may not require additional dosage modification.Assess trough concentrations when initiating and discontinuing the inducer [see Dosage and Administration (2.8)].Resume the dose administered before starting any inducer, once all inducers are discontinued for 5 days. |
+| Breast Cancer, NET, RCC, and TSC-Associated Renal Angiomyolipoma | Reduce dose to 5 mg once daily.May increase dose to 7.5 mg once daily if tolerated.Resume dosage administered prior to cannabidiol oral solution initiation, once cannabidiol oral solution is discontinued for 3 days. |
+| TSC-Associated SEGA and TSC- Associated Partial-Onset Seizures | Reduce the daily dose by 50%.Change to every other day dosing if the reduced dose is lower than the lowest available strength.Resume dosage administered prior to cannabidiol oral solution initiation, once cannabidiol oral solution is discontinued for 3 days.Assess trough concentrations when initiating and discontinuing the inhibitor [see Dosage and Administration (2.8)]. |
 
-## 2.13 Administration and Preparation
+Strong CYP3A Inducer and P-gp Inducer
+
+- Increase the dosage for AFINITOR/AFINITOR DISPERZ with a strong CYP3A inducer and P-gp inducer as recommended in Table 6 [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+
+Table 6: Recommended Dosage Modifications with a Strong CYP3A Inducer and P-gp Inducer
+
+| Indication | Dosage Modification for AFINITOR/AFINITOR DISPERZ |
+| --- | --- |
+| Breast Cancer, NET, RCC, and TSC-Associated Renal Angiomyolipoma | Avoid coadministration where alternatives exist.If coadministration cannot be avoided, double the daily dose using increments of 5 mg or less. Multiple increments may be required.Resume the dosage administered prior to inducer initiation, once an inducer is discontinued for 5 days. |
+| TSC-Associated SEGA and TSC- Associated Partial-Onset Seizures | Double the daily dose using increments of 5 mg or less. Multiple increments may be required.Addition of another strong CYP3A4 inducer in a patient already receiving treatment with a strong CYP3A4 inducer may not require additional dosage modification.Assess trough concentrations when initiating and discontinuing the inducer [see Dosage and Administration (2.8)].Resume the dosage administered before starting any inducer, once all inducers are discontinued for 5 days. |
+
+## 2.12 Administration and Preparation
 
 - Administer AFINITOR/AFINITOR DISPERZ at the same time each day.
 - Administer AFINITOR/AFINITOR DISPERZ consistently either with or without food [see Clinical Pharmacology (12.3)].
