@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA217299"
+  ],
+  "inn": "tofacitinib",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-139-28",
+    "72205-139-60",
+    "72205-140-18",
+    "72205-140-28",
+    "72205-140-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "tofacitinib",
+      "name": "Tofacitinib"
+    }
+  ],
+  "setid": "253635c8-1ea7-41ba-b216-dea5e3305c47",
+  "source": "dailymed"
+}
