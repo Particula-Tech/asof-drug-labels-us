@@ -29,11 +29,10 @@ An analysis of all PCP events (intent-to-treat analysis) for both trials showed 
 
 ## 14.2 Treatment of PCP
 
-The indication for treatment of mild-to-moderate PCP is based on the results of 2 efficacy trials: a randomized, double-blind trial comparing atovaquone tablets with TMP-SMX in subjects with HIV/AIDS and mild-to-moderate PCP (defined in the protocol as [(A-a)DO 2] ≤45 mm Hg and PaO 2≥60 mm Hg on room air) and a randomized open-label trial comparing atovaquone tablets with IV pentamidine isethionate in subjects with mild-to-moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
+The indication for treatment of mild-to-moderate PCP is based on the results of 2 efficacy trials: a randomized, double-blind trial comparing atovaquone tablets with TMP-SMX in subjects with HIV/AIDS and mild-to-moderate PCP (defined in the protocol as [(A-a)DO2] ≤45 mm Hg and PaO2 ≥60 mm Hg on room air) and a randomized open-label trial comparing atovaquone tablets with IV pentamidine isethionate in subjects with mild-to-moderate PCP who could not tolerate trimethoprim or sulfa antimicrobials.
 Both trials were conducted with the tablet formulation using 750 mg 3 times daily.
 Results from these efficacy trials established a relationship between plasma atovaquone concentrations and successful outcome.
 Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy [see Clinical Pharmacology (12.2)].
-
 TMP-SMX Comparative Trial This double-blind, randomized trial compared the safety and efficacy of atovaquone tablets with that of TMP-SMX for the treatment of subjects with HIV/AIDS and histologically confirmed PCP.
 Only subjects with mild-to-moderate PCP were eligible for enrollment.
 A total of 408 subjects were enrolled into the trial.
@@ -43,13 +42,13 @@ Of the 322 subjects with histologically confirmed PCP, 160 were randomized to re
 Therapy success was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
 Improvement in clinical and respiratory measures was assessed using a composite of parameters that included oral body temperature, respiratory rate, severity scores for cough, dyspnea, and chest pain/tightness.
 Therapy failures included lack of response, treatment discontinuation due to an adverse experience, and unevaluable.
-There was a significant difference (P= 0.03) in mortality rates between the treatment groups favoring TMP-SMX.
+There was a significant difference (P = 0.03) in mortality rates between the treatment groups favoring TMP-SMX.
 Among the 322 subjects with confirmed PCP, 13 of 160 (8%) subjects treated with atovaquone and 4 of 162 (2.5%) subjects receiving TMP-SMX died during the 21-day treatment course or 8-week follow-up period.
-In the intent-to-treat analysis for all 408 randomized subjects, there were 16 (8%) deaths among subjects treated with atovaquone and 7 (3.4%) deaths among subjects treated with TMP-SMX (P= 0.051).
+In the intent-to-treat analysis for all 408 randomized subjects, there were 16 (8%) deaths among subjects treated with atovaquone and 7 (3.4%) deaths among subjects treated with TMP-SMX (P = 0.051).
 Of the 13 subjects with confirmed PCP and treated with atovaquone who died, 4 died of PCP and 5 died with a combination of bacterial infections and PCP; bacterial infections did not appear to be a factor in any of the 4 deaths among TMP-SMX-treated subjects.
 A correlation between plasma atovaquone concentrations and death demonstrated that subjects with lower plasma concentrations were more likely to die.
 For those subjects for whom Day 4 plasma atovaquone concentration data are available, 5 (63%) of 8 subjects with concentrations <5 mcg/mL died during participation in the trial.
-However, only 1 (2%) of the 49 subjects with Day 4 plasma atovaquone concentrations ≥5 mcg/mL died.
+However, only 1 (2.0%) of the 49 subjects with Day 4 plasma atovaquone concentrations ≥5 mcg/mL died.
 Sixty-two percent of subjects on atovaquone and 64% of subjects on TMP-SMX were classified as protocol-defined therapy successes (Table 8).
 Table 8.
 Outcome of Treatment for PCP-Positive Subjects Enrolled in the TMP-SMX Comparative Trial
@@ -81,9 +80,9 @@ The therapeutic outcomes for the 134 subjects who received trial medication in t
 Table 9.
 Outcome of Treatment for PCP-Positive Subjects (%) Enrolled in the Pentamidine Comparative Trial
 
-| Outcome of Therapy | Primary Treatment |  |  |  | Salvage Treatment |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Atovaquone(n = 56) |  | Pentamidine (n = 53) |  | Atovaquone(n = 14) |  |  | Pentamidine (n = 11) |  |  |  |  |
-| Therapy success | 32 | 57% | 21 | 40% |  | 13 | 93% |  | 7 | 64% |  |
-| Therapy failure due to: -Lack of response -Adverse reaction -Unevaluable | 16 2 6 | 29% 3.6% 11% | 9 19 4 | 17% 36% 8% |  | 0 0 1 | 7% |  | 0 3 1 | 27% 9% |  |
-| Required alternate PCP therapy during trial | 19 | 34% | 29 | 55% |  | 0 |  |  | 4 | 36% |  |
+| Outcome of Therapy | Primary Treatment |  |  |  | Salvage Treatment |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Atovaquone(n = 56) |  | Pentamidine (n = 53) |  | Atovaquone (n = 14) |  | Pentamidine (n = 11) |  |  |
+| Therapy success | 32 | 57% | 21 | 40% | 13 | 93% | 7 | 64% |
+| Therapy failure due to: -Lack of response -Adverse reaction -Unevaluable | 16 2 6 | 29% 3.6% 11% | 9 19 4 | 17% 36% 8% | 0 0 1 | 7% | 0 3 1 | 27% 9% |
+| Required alternate PCP therapy during trial | 19 | 34% | 29 | 55% | 0 |  | 4 | 36% |
