@@ -36,8 +36,9 @@ There are no data on the effects on milk production.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of deflazacort oral suspension for the treatment of DMD have been established in patients 5 years of age and older.
+The safety and effectiveness of deflazacort oral suspension for the treatment of DMD have been established in patients 2 years of age and older.
 Use of deflazacort oral suspension in pediatric patients is supported by a multicenter, randomized, double-blind, placebo- and active-controlled study in 196 males 5 to 15 years of age [see Clinical Studies (14)].
+Use of deflazacort oral suspension in patients 2 years to less than 5 years of age is supported by the findings of efficacy and safety in patients 5 years and older with DMD.
 
 Safety and effectiveness in pediatric patients below the age of 2 years have not been established.
 
@@ -57,9 +58,6 @@ Oral administration of deflazacort (0, 0.1, 0.3, and 1.0 mg/kg/day) to juvenile 
 A no-effect dose was not identified.
 In addition, neurological and neurobehavioral abnormalities were observed at the mid and/or high dose.
 Plasma 21-desDFZ exposure (AUC) at the lowest dose tested (0.1 mg/kg/day) was lower than that in humans at the recommended human dose of deflazacort oral suspension (0.9 mg/kg/day).
-
-Additional pediatric use information is approved for PTC Therapeutics, Inc.'s Emflaza® (deflazacort) oral suspension.
-However, due to PTC Therapeutics, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
