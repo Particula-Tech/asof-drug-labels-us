@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761473"
+  ],
+  "inn": "ranibizumab",
+  "labeler": "Zydus Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "70710-2172-1",
+    "70710-2173-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ranibizumab-leyk",
+      "name": "NUFYMCO"
+    }
+  ],
+  "setid": "05ed75bc-ae21-480b-9be4-cbc51689dd8a",
+  "source": "dailymed"
+}
