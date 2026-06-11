@@ -60,31 +60,7 @@ Less Common Adverse Reactions Observed in Clinical Studies
 
 Other adverse reactions (≥ 1% frequency in any deflazacort treatment group and greater than placebo) that were observed during the 12-week placebo-controlled phase of Study 1 are shown below.
 
-Eye Disorders: Lacrimation increased
-
-Gastrointestinal Disorders: Dyspepsia, nausea, gastrointestinal disorder
-
-General Disorders and Administration Site Conditions: Thirst
-
-Infections: Hordeolum, impetigo, influenza, otitis externa, pharyngitis, tooth abscess, urinary tract infection, viral infection Injury, Poisoning and Procedural Complications: Back injury, contusion, face injury, fibula fracture, greenstick fracture, heat exhaustion
-
-Investigations: Glucose urine present, heart rate irregular
-
-Musculoskeletal and Connective Tissue Disorders: Back pain, muscle spasms, myalgia, neck mass, neck pain, pain in extremity
-
-Nervous System Disorders: Dizziness, psychomotor hyperactivity
-
-Psychiatric Disorders: Affect lability, aggression, depression, emotional disorder, middle insomnia, mood altered, mood swings, sleep disorder
-
-Renal and Urinary Disorders: Chromaturia, dysuria, hypertonic bladder
-
-Reproductive System and Breast Disorders: Testicular pain
-
-Respiratory, Thoracic, and Mediastinal Disorders: Hypoventilation, rhinorrhea
-
-Skin and Subcutaneous Tissue Disorders: Acne, alopecia, dermatitis acneiform
-
-Vascular Disorders: Hot flush
+Eye Disorders: Lacrimation increased Gastrointestinal Disorders: Dyspepsia, nausea, gastrointestinal disorder General Disorders and Administration Site Conditions: Thirst Infections: Hordeolum, impetigo, influenza, otitis externa, pharyngitis, tooth abscess, urinary tract infection, viral infection Injury, Poisoning and Procedural Complications: Back injury, contusion, face injury, fibula fracture, greenstick fracture, heat exhaustion Investigations: Glucose urine present, heart rate irregular Musculoskeletal and Connective Tissue Disorders: Back pain, muscle spasms, myalgia, neck mass, neck pain, pain in extremity Nervous System Disorders: Dizziness, psychomotor hyperactivity Psychiatric Disorders: Affect lability, aggression, depression, emotional disorder, middle insomnia, mood altered, mood swings, sleep disorder Renal and Urinary Disorders: Chromaturia, dysuria, hypertonic bladder Reproductive System and Breast Disorders: Testicular pain Respiratory, Thoracic, and Mediastinal Disorders: Hypoventilation, rhinorrhea Skin and Subcutaneous Tissue Disorders: Acne, alopecia, dermatitis acneiform Vascular Disorders: Hot flush
 
 ## 6.2 Postmarketing Experience
 
@@ -97,13 +73,7 @@ Cardiac Disorder: Heart failure
 
 Eye Disorders: Chorioretinopathy, corneal or scleral thinning
 
-Gastrointestinal Disorders: Acute pancreatitis (especially in children), hemorrhage, peptic ulceration, perforation of peptic ulcer
-
-General Disorders and Administration Site Conditions: Edema, impaired healing
-
-Immune System Disorders: Hypersensitivity including anaphylaxis
-
-Metabolism and Nutrition Disorders: Impaired carbohydrate tolerance with increased requirement for anti-diabetic therapy, negative protein and calcium balance, potassium loss and hypokalemic alkalosis when co-administered with beta 2-agonist and xanthines
+Gastrointestinal Disorders: Acute pancreatitis (especially in children), hemorrhage, peptic ulceration, perforation of peptic ulcer General Disorders and Administration Site Conditions: Edema, impaired healing Immune System Disorders: Hypersensitivity including anaphylaxis Metabolism and Nutrition Disorders: Impaired carbohydrate tolerance with increased requirement for anti-diabetic therapy, negative protein and calcium balance, potassium loss and hypokalemic alkalosis when co-administered with beta 2-agonist and xanthines
 
 Musculoskeletal and Connective Tissue Disorders: Avascular necrosis, muscle wasting, negative nitrogen balance, tendonitis and tendon rupture when co-administered with quinolones, vertebral and long bone fractures
 

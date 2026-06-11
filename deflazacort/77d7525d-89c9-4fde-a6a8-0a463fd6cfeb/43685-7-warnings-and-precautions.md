@@ -80,13 +80,17 @@ For patients who show evidence of hepatitis B infection, recommend consultation 
 Fungal Infections Corticosteroids, including deflazacort, may exacerbate systemic fungal infections; therefore, avoid deflazacort use in the presence of such infections unless deflazacort is needed to control drug reactions.
 For patients on chronic deflazacort therapy who develop systemic fungal infections, deflazacort withdrawal or dose reduction is recommended.
 
-Amebiasis Corticosteroids, including deflazacort, may activate latent amebiasis.
+Amebiasis
+
+Corticosteroids, including deflazacort, may activate latent amebiasis.
 Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating deflazacort in patients who have spent time in the tropics or patients with unexplained diarrhea.
 
 Strongyloides Infestation Corticosteroids, including deflazacort, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
 In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
 
-Cerebral Malaria Avoid corticosteroids, including deflazacort, in patients with cerebral malaria.
+Cerebral Malaria
+
+Avoid corticosteroids, including deflazacort, in patients with cerebral malaria.
 
 ## 5.3 Alterations in Cardiovascular/Renal Function
 
