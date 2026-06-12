@@ -21,31 +21,3 @@ SHAKE WELL BEFORE USE
 Net Contents 118.28 mL (4 fL. oz.)
 
 ROYAL PHARMACEUTICALS ®
-
-PRINCIPAL DISPLAY PANEL - 20 mL Carton Physcian Sample Label
-
-NOT FOR SALE
-
-PHYSICIAN SAMPLE
-
-NDC 68791-101-01
-
-Rx only
-
-Derma-Smoothe/FS ®
-
-Fluocinolone Acetonide 0.01% Topical Oil
-
-(BODY OIL)
-
-FOR TOPICAL USE ONLY
-
-NOT FOR ORAL OPHTHALMIC,
-
-OR INTRAVAGINAL USE
-
-SHAKE WELL BEFORE USE
-
-NET Contents: 20 mL
-
-Royal Pharmaceuticals ®
