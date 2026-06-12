@@ -2,4 +2,4 @@ Distributed by Hospira, Inc. Lake Forest, IL 60045
 
 Novaplus is a registered trademark of Vizient, Inc.
 
-LAB-1480-4.0
+LAB-1480-5.0
