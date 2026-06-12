@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 DERMA-SMOOTHE/FS Scalp Oil (fluocinolone acetonide) topical oil, 0.01% contains fluocinolone acetonide [(6α, 11β, 16α)-6,9-difluoro-11,21-dihydroxy-16,17[(1–methylethylidene) bis(oxy)]-pregna-1,4-diene-3,20-dione, cyclic 16,17 acetal with acetone], a synthetic corticosteroid for topical dermatologic use.
-Chemically, fluocinolone acetonide is C24 H30 F2 O6.
+Chemically, fluocinolone acetonide is C 24H 30F 2O 6.
 It has the following structural formula:
 
 Fluocinolone acetonide has a molecular weight of 452.50.
