@@ -96,7 +96,7 @@ The plasma elimination half-life of vilanterol, as determined from inhalation ad
 
 Specific Populations
 
-The effects of renal and hepatic impairment and other intrinsic factors on the pharmacokinetics of fluticasone furoate and vilanterol are shown in Figure 1Figure 1.
+The effects of renal and hepatic impairment and other intrinsic factors on the pharmacokinetics of fluticasone furoate and vilanterol are shown in Figure 1.
 
 Figure 1.
 Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) Following Administration as Fluticasone Furoate/Vilanterol Combination
