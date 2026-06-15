@@ -4,8 +4,8 @@ QUILLIVANT XR is a powder that, after reconstitution with water, forms an extend
 QUILLIVANT XR contains approximately 20% immediate-release and 80% extended-release methylphenidate.
 After reconstitution, QUILLIVANT XR contains in each 1 mL the equivalent of 5 mg of methylphenidate hydrochloride, present as methylphenidate (4.32 mg) complexed with sodium polystyrene sulfonate.
 
-Methylphenidate is a central nervous system (CNS) stimulant.
-The chemical name is methyl α-phenyl-2-piperidineacetate, and its structural formula is shown in Figure 1.
+Methylphenidate HCl is a central nervous system (CNS) stimulant.
+The chemical name is methyl α-phenyl-2-piperidineacetate hydrochloride, and its structural formula is shown in Figure 1.
 
 Figure 1: Methylphenidate structure
 
