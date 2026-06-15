@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA204242"
+  ],
+  "inn": "buprenorphine",
+  "labeler": "Edenbridge Pharmaceuticals LLC.",
+  "package_ndcs": [
+    "82111-201-30",
+    "82111-202-30",
+    "82111-203-30",
+    "82111-204-30",
+    "82111-205-30",
+    "82111-206-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "buprenorphine hydrochloride and naloxone hydrochloride",
+      "name": "Zubsolv"
+    }
+  ],
+  "setid": "57583c1d-9c44-4503-917d-68dba7377bd1",
+  "source": "dailymed"
+}
