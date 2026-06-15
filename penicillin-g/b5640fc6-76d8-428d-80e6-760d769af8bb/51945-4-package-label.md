@@ -4,7 +4,7 @@ NDC 60793-601-02
 
 BICILLIN® C-R (600,000 units penicillin G benzathine and 600,000 units penicillin G procaine injectable suspension) 1,200,000 units per 2 mL Not for the Treatment of Syphilis FOR DEEP INTRAMUSCULAR INJECTION ONLY WARNING: FATAL IF GIVEN BY OTHER ROUTES
 
-Distributed by Pfizer Inc New York, NY 10017
+Distributed by Pfizer Inc. New York, NY 10001
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Syringe Package - 601
 
@@ -24,7 +24,7 @@ WARNING: FATAL IF GIVEN BY OTHER ROUTES BEFORE INJECTING, SEE PACKAGE INSERT FOR
 
 NOT FOR THE TREATMENT OF SYPHILIS
 
-Pfizer Injectables
+Pfizer Hospital
 
 Rx only
 
@@ -34,7 +34,7 @@ NDC 60793-600-02
 
 BICILLIN® C-R (penicillin G benzathine and penicillin G procaine injectable suspension in equal portions) 1,200,000 units per 2 mL Not for the Treatment of Syphilis FOR DEEP INTRAMUSCULAR INJECTION ONLY WARNING: FATAL IF GIVEN BY OTHER ROUTES
 
-Distributed by Pfizer Inc New York, NY 10017
+Distributed by Pfizer Inc. New York, NY 10001
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Syringe Package - 600
 
@@ -52,6 +52,6 @@ WARNING: FATAL IF GIVEN BY OTHER ROUTES BEFORE INJECTING, SEE PACKAGE INSERT FOR
 
 NOT FOR THE TREATMENT OF SYPHILIS
 
-Pfizer Injectables
+Pfizer Hospital
 
 Rx only
