@@ -166,14 +166,11 @@ Inactive ingredients in entecavir tablets: lactose monohydrate, microcrystalline
 
 Tablet film-coat: titanium dioxide, hypromellose, polyethylene glycol and iron oxide red (1 mg tablet only).
 
-Pediatric use information is approved for Bristol-Myers Squibb Company's Baraclude® (entecavir) tablets.
-However, due to Bristol-Myers Squibb Company's marketing exclusivity rights, this drug product is not labeled with that information.
-
 Manufactured by:
 
 Cipla, Limited,
 
-Indore SEZ, Pithampur, INDIA.
+Indore SEZ-454775, MP, INDIA.
 
 Manufactured for:
 
@@ -185,4 +182,4 @@ Warren, NJ 07059
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 12/2019
+Revised: 5/2024

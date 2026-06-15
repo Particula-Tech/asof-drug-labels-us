@@ -36,7 +36,7 @@ Manufactured by:
 
 Cipla, Limited,
 
-Indore SEZ, Pithampur, INDIA.
+Indore SEZ-454775, MP, INDIA.
 
 Manufactured for:
 
@@ -48,4 +48,4 @@ Warren, NJ 07059
 
 Disclaimer: Other brands listed are the registered trademarks of their respective owners and are not of Cipla Ltd.
 
-Revised: 12/2019
+Revised: 5/2024
