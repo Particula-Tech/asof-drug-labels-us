@@ -6,17 +6,13 @@ NORMOSOL®-M is a registered trademark of Abbott Hospital Products (Division of 
 
 ISOLYTE® E is a registered trademark of McGaw, Inc.
 
-Manufactured by:
-
-EUROFARMA LABORATORIOS S.A.
+Manufactured by: EUROFARMA LABORATORIOS S.A.
 Rod.
 Pres.
 Castelo Branco, 3565 Itapevi, Sao Paulo, 06696000, Brazil Made in Brazil
 
-Distributed by:
+Distributed by: EUROFARMA, INC. 14 Sylvan Way, Suite C Parsippany, New Jersey 07054 USA
 
-MEDIMETRIKS PHARMACEUTICALS, INC. 383 Route 46 West Fairfield, New Jersey 07004 USA
-
-Product of China IP056 Iss: 11/24
+Product of China IP056-R1 Iss: 04/26
 
 258424-00 (D) - F. 52-D1 - (10/24)

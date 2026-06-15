@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 1 g Vial Carton
 
-MEDIMETRIKS PHARMACEUTICALS, INC.
+eurofarma
 
 NDC 43538-810-10 Vancomycin Hydrochloride for Injection, USP
 
@@ -18,9 +18,11 @@ Preservative free
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
 
-MEDIMETRIKS PHARMACEUTICALS, INC.
+eurofarma
 
-NDC 43538-805-10 Vancomycin Hydrochloride for Injection, USP
+NDC 43538-805-10
+
+Vancomycin Hydrochloride for Injection, USP
 
 500 mg* per vial *Equivalent to 500 mg Vancomycin
 

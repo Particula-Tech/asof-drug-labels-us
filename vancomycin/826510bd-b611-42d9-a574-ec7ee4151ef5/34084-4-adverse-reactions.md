@@ -53,4 +53,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Severe dermatologic reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and linear IgA bullous dermatosis (LABD) (see WARNINGS, Severe Dermatologic Reactions).
 
-To report SUSPECTED ADVERSE EVENTS, contact Medimetriks Pharmaceuticals, Inc. at 973-882-7512 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE EVENTS, contact Eurofarma, Inc. at 973-882-7512 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
