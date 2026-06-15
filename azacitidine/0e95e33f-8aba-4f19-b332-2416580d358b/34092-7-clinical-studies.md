@@ -58,11 +58,7 @@ Table 4: Baseline Demographics and Disease-Related Characteristics in QUAZAR
 | Not in CR or CRi | 9 (4) | 13 (6) |
 | Not Reported | 0 | 2 (1) |
 | AML=Acute Myeloid Leukemia, MDS=Myelodysplastic Syndrome, CMML=Chronic Myelomonocytic Leukemia, ECOG=Eastern Cooperative Oncology Group, CR=Morphologic Complete Remission, CRi=Morphologic complete remission with incomplete blood count recovery. 1 Intermediate risk was defined as normal cytogenetics +8, t(9;11), or Other undefined. 2 Poor risk was defined as Complex (≥ 3 abnormalities): -5; 5q-; -7; 7q-; 11q23 - non t(9;11); inv(3); t(3;3); t(6;9); or t(9;22). |  |  |
-
-1. Source for Intermediate and Poor Risk: National Comprehensive Cancer Network Clinical Practice Guidelines in Oncology for Acute Myeloid Leukemia.
-   National Comprehensive Cancer Network website.
-   Available at http://www.nccn.org/professionals/physician_gls/PDF/aml.pdf.
-   Accessed 01 Mar 2011.
+| Source for Intermediate and Poor Risk: National Comprehensive Cancer Network Clinical Practice Guidelines in Oncology for Acute Myeloid Leukemia. National Comprehensive Cancer Network website. Available at http://www.nccn.org/professionals/physician_gls/PDF/aml.pdf. Accessed 01 Mar 2011. |  |  |
 
 The efficacy of ONUREG was established on the basis of overall survival (OS).
 The trial demonstrated a statistically significant improvement in OS for patients randomized to ONUREG compared to placebo.

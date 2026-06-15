@@ -1,3 +1,5 @@
+# Patient Package Insert
+
 | Patient Information ONUREG® (on-u-reg) (azacitidine) tablets, for oral use |  |  |
 | --- | --- | --- |
 | What is ONUREG? |  |  |
@@ -21,7 +23,7 @@
 | •nausea and vomiting. See "How should I take ONUREG?"•diarrhea. You may need to be treated with anti-diarrheal medicines.•tiredness or weakness•constipation•sore throat and runny nose•pneumonia•stomach area (abdominal) pain |  | •joint pain•decreased appetite•low white blood cell counts•dizziness•skin infection•pain in arms or legs |
 | These are not all of the possible side effects of ONUREG. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |
 | How should I store ONUREG? |  |  |
-| •Store bottles or blisters of ONUREG tablets at room temperature between 68°F to 77°F (20°C to 25°C).•Store ONUREG tablets in the original bottle or the original aluminum-aluminum blisters.•Bottles of ONUREG contain 2 drying agent (desiccant) canisters. Do not eat the desiccant canisters.•Keep the ONUREG bottle tightly closed.•Talk to your healthcare provider about how to safely throw away (dispose of) any unused or expired ONUREG. |  |  |
+| •Store blisters of ONUREG tablets at room temperature between 68°F to 77°F (20°C to 25°C).•Store ONUREG tablets in the original aluminum-aluminum blisters.•Talk to your healthcare provider about how to safely throw away (dispose of) any unused or expired ONUREG. |  |  |
 | Keep ONUREG and all medicines out of the reach of children |  |  |
 | General information about the safe and effective use of ONUREG. |  |  |
 | Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use ONUREG for a condition for which it was not prescribed. Do not give ONUREG to other people, even if they have the same symptoms you have. It may harm them. You can ask your pharmacist or healthcare provider for information about ONUREG that is written for health professionals. |  |  |
@@ -31,5 +33,7 @@
 | Each core tablet contains: croscarmellose sodium, magnesium stearate, mannitol, and silicified microcrystalline cellulose. |  |  |
 | The pink 200 mg tablet coating contains: hypromellose, iron oxide red, lactose monohydrate, polyethylene glycol, titanium dioxide, and triacetin. |  |  |
 | The brown 300 mg tablet coating contains: black iron oxide, hypromellose, iron oxide red, iron oxide yellow, lactose monohydrate, polyethylene glycol, titanium dioxide, and triacetin. |  |  |
-| Marketed by: Bristol-Myers Squibb Company, Princeton, NJ 08543 USA ONUREG® is a trademark of Celgene Corporation, a Bristol-Myers Squibb company. ONUPPI V5 4/2026 For more information, go to www.ONUREG.com or call 1-800-721-5072. |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. Revised: April 2026 |  |  |
+| Marketed by: Bristol-Myers Squibb Company, Princeton, NJ 08543 USA ONUREG® is a trademark of Celgene Corporation, a Bristol-Myers Squibb company. ONUPPI V6 6/2026 For more information, go to www.ONUREG.com or call 1-800-721-5072. |  |  |
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+Revised: June 2026
