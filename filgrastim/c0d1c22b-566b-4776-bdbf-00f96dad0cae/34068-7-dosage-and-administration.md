@@ -93,8 +93,7 @@ The visibility of these markings is necessary to accurately measure doses of ZAR
 Thus, the direct administration to patients requiring doses of less than 0.3 mL (180 mcg) is not recommended due to the potential for dosing errors.
 If less than 0.3 mL is needed the ZARXIO single-dose vial should be used.
 
-Persons with latex allergies should not administer the ZARXIO prefilled syringe, because the needle cap contains natural rubber latex (derived from latex).
-For latex sensitive individuals the ZARXIO vial should be considered as the vial stopper is not made with natural rubber latex.
+The prefilled syringe with safety guard is not made with natural rubber latex.
 
 Prior to use‚ remove the prefilled syringe from the refrigerator and allow ZARXIO to reach room temperature [between 20°C to 25°C (68°F to 77°F)] for a minimum of 30 minutes.
 If not used immediately, the prefilled syringe may be stored at room temperature for up to 8 days.
@@ -112,6 +111,8 @@ If not used immediately, the vial may be stored at room temperature for up to 8 
 Discard any vial left at room temperature for greater than 8 days.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit (the solution is clear and colorless to slightly yellowish).
 Do not administer ZARXIO if particulates or discoloration are observed.
+
+The vial stopper is not made with natural rubber latex.
 
 Discard the unused portion of ZARXIO in single-dose vial and do not re-enter the vial.
 Do not save unused drug for later administration.
