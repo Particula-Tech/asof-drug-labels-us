@@ -4,7 +4,7 @@ How Supplied
 
 Allopurinol Tablets, USP are available in two tablet strengths with functional scoring and package sizes as listed in Table 4.
 
-Table 4: Allopurinol Tablets Presentations
+TABLE 4: Allopurinol Tablets Presentations
 
 | Tablet Strength | Tablet Description | Package Sizes (NDC) |
 | --- | --- | --- |

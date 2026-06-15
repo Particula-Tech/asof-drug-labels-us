@@ -52,16 +52,5 @@ Advise women not to breastfeed during treatment with allopurinol tablets and for
 
 Manufactured for:
 
-Endo USA
-
-Malvern, PA 19355 U.S.A.
-
-Made in India
-
-Neutral Code: TN/DRUGS/TN00002121
-
-© 2024 Endo, Inc. or one of its affiliates.
-
-OS2115H-01-74-05
-
-Revised: 09/2024
+Par Health USA Rochester, MI 48307 U.S.A. Made in India Neutral Code: TN/DRUGS/TN00002121 © 2026 Par Health, Inc. or one of its affiliates.
+OS2115H-01-74-06 Revised: 04/2026
