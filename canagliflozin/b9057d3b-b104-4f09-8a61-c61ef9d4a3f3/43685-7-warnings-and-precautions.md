@@ -29,9 +29,7 @@ Educate all patients on the signs and symptoms of ketoacidosis and instruct pati
 
 ## 5.2 Lower Limb Amputation
 
-An increased risk of lower limb amputations associated with INVOKANA use versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1,000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1,000 patient-years), two randomized, placebo-controlled trials evaluating adult patients with type 2 diabetes mellitus who had either established cardiovascular disease or were at risk for cardiovascular disease.
-The risk of lower limb amputations was observed at both the 100 mg and 300 mg once daily dosage regimens.
-The amputation data for CANVAS and CANVAS-R are shown in Tables 3 and 4, respectively [see Adverse Reactions (6.1)].
+An increased risk of lower limb amputations associated with INVOKANA use versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1,000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1,000 patient-years), two randomized, placebo-controlled trials evaluating adult patients with type 2 diabetes mellitus who had either established cardiovascular disease or were at risk for cardiovascular disease [see Adverse Reactions (6.1) and Clinical Studies (14.3)].
 
 Amputations of the toe and midfoot (99 out of 140 patients with amputations receiving INVOKANA in the two trials) were the most frequent; however, amputations involving the leg, below and above the knee, were also observed (41 out of 140 patients with amputations receiving INVOKANA in the two trials).
 Some patients had multiple amputations, some involving both lower limbs.
@@ -40,7 +38,7 @@ Lower limb infections, gangrene, and diabetic foot ulcers were the most common p
 The risk of amputation was highest in patients with a baseline history of prior amputation, peripheral vascular disease, and neuropathy.
 
 Counsel patients about the importance of routine preventative foot care.
-Monitor patients receiving INVOKANA for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and discontinue INVOKANA if these complications occur.
+Monitor patients receiving INVOKANA for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and institute appropriate treatment.
 
 ## 5.3 Volume Depletion
 
@@ -50,11 +48,19 @@ Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m 2), elder
 Before initiating INVOKANA in patients with one or more of these characteristics, assess and correct volume status.
 Monitor for signs and symptoms of volume depletion after initiating therapy.
 
-## 5.4 Urosepsis and Pyelonephritis
+## 5.4 Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections
 
-There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving INVOKANA.
-Treatment with INVOKANA increases the risk for urinary tract infections.
-Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
+INVOKANA increases urinary glucose excretion [see Clinical Pharmacology (12.2)] and increases the risk of genitourinary infections including urinary tract infections and genital mycotic infections in both male and female patients [see Adverse Reactions (6.1)].
+
+Serious genitourinary infections, including urosepsis, pyelonephritis, and necrotizing fasciitis of the perineum (Fournier’s gangrene, a rare life-threatening infection requiring urgent surgical intervention), have occurred in patients receiving SGLT2 inhibitors, including INVOKANA [see Adverse Reactions (6.2)].
+Cases have required hospitalization.
+In patients with Fournier’s gangrene, serious outcomes have included multiple surgeries and death.
+
+Patients with a history of genitourinary infections are more likely to develop genitourinary infections when using INVOKANA.
+Monitor patients for signs and symptoms of genitourinary infections and treat promptly, if indicated.
+
+Immediately evaluate patients presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, for necrotizing fasciitis.
+If suspected, discontinue INVOKANA and promptly institute appropriate medical and/or surgical intervention.
 
 ## 5.5 Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
 
@@ -63,29 +69,13 @@ INVOKANA may increase the risk of hypoglycemia when combined with insulin or an 
 The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin.
 Inform patients using these concomitant medications of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
 
-## 5.6 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
-
-Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including INVOKANA.
-Cases have been reported in both females and males.
-Serious outcomes have included hospitalization, multiple surgeries, and death.
-
-Patients treated with INVOKANA presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
-If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
-Discontinue INVOKANA, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
-
-## 5.7 Genital Mycotic Infections
-
-INVOKANA increases the risk of genital mycotic infections.
-Patients with a history of genital mycotic infections and uncircumcised males were more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
-Monitor and treat appropriately.
-
-## 5.8 Hypersensitivity Reactions
+## 5.6 Hypersensitivity Reactions
 
 Hypersensitivity reactions, including angioedema and anaphylaxis, have been reported with INVOKANA.
 These reactions generally occurred within hours to days after initiating INVOKANA.
-If hypersensitivity reactions occur, discontinue use of INVOKANA; treat and monitor until signs and symptoms resolve [see Contraindications (4)and Adverse Reactions (6.1, 6.2)].
+If hypersensitivity reactions occur, discontinue use of INVOKANA; treat and monitor until signs and symptoms resolve [see Contraindications (4) and Adverse Reactions (6.1, 6.2)].
 
-## 5.9 Bone Fracture
+## 5.7 Bone Fracture
 
 An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in adult patients using INVOKANA in the CANVAS trial [see Clinical Studies (14.3)].
 Consider factors that contribute to fracture risk prior to initiating INVOKANA [see Adverse Reactions (6.1)].

@@ -43,3 +43,8 @@ When co-administering INVOKANA with an inducer of UGT (e.g., rifampin, phenytoin
 
 Withhold INVOKANA at least 3 days, if possible, prior to surgery or procedures associated with prolonged fasting.
 Resume INVOKANA when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.1)and Clinical Pharmacology (12.2)].
+
+## 2.6 Recommendations Regarding Missed Dose
+
+- If a dose is missed, instruct patients to take the dose as soon as possible.
+- Advise patients not to double up the next dose.

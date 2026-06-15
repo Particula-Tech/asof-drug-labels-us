@@ -108,9 +108,9 @@ In Vivo Assessment of Drug Interactions
 
 Table 8: Effect of Co–Administered Drugs on Systemic Exposures of Canagliflozin
 
-| AUC AUC inf for drugs given as a single dose and AUC 24h for drugs given as multiple doses (90% CI) | C max (90% CI) |  |  |  |
+| AUC AUCinf for drugs given as a single-dose and AUC24h for drugs given as multiple doses (90% CI) | C max (90% CI) |  |  |  |
 | --- | --- | --- | --- | --- |
-| Co-Administered Drug | Dose of Co-Administered Drug Single dose unless otherwise noted | Dose of Canagliflozin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.0 |  |
+| Co-Administered Drug | Dose of Co-Administered Drug Single-dose unless otherwise noted | Dose of Canagliflozin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.0 |  |
 | SeeDrug Interactions (7)for the clinical relevance of the following: |  |  |  |  |
 | Rifampin | 600 mg QD for 8 days | 300 mg | 0.49 (0.44; 0.54) | 0.72 (0.61; 0.84) |
 | No dose adjustments of INVOKANA required for the following: |  |  |  |  |
@@ -123,14 +123,14 @@ Table 8: Effect of Co–Administered Drugs on Systemic Exposures of Canagliflozi
 
 Table 9: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 
-|  | AUC AUC inf for drugs given as a single dose and AUC 24h for drugs given as multiple doses (90% CI) | C max (90% CI) |  |  |  |
+|  | AUC AUCinf for drugs given as a single-dose and AUC24h for drugs given as multiple doses (90% CI) | C max (90% CI) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Co-Administered Drug | Dose of Co-Administered Drug Single dose unless otherwise noted | Dose of Canagliflozin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.0 |  |  |
+| Co-Administered Drug | Dose of Co-Administered Drug Single-dose unless otherwise noted | Dose of Canagliflozin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.0 |  |  |
 | SeeDrug Interactions (7)for the clinical relevance of the following: |  |  |  |  |  |
 | Digoxin | 0.5 mg QD first day followed by 0.25 mg QD for 6 days | 300 mg QD for 7 days | Digoxin | 1.20 (1.12; 1.28) | 1.36 (1.21; 1.53) |
 | No dose adjustments of co-administered drug required for the following: |  |  |  |  |  |
-| Acetaminophen | 1,000 mg | 300 mg BID for 25 days | Acetaminophen | 1.06 AUC 0–12h (0.98; 1.14) | 1.00 (0.92; 1.09) |
-| Ethinyl estradiol and levonorgestrel | 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel | 200 mg QD for 6 days | ethinyl estradiol | 1.07 (0.99; 1.15) | 1.22 (1.10; 1.35) |
+| Acetaminophen | 1,000 mg | 300 mg BID for 25 days | Acetaminophen | 1.06 AUC0–12h (0.98; 1.14) | 1.00 (0.92; 1.09) |
+| Ethinyl estradiol and levonorgestrel | 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel | 200 mg QD for 6 days | Ethinyl estradiol | 1.07 (0.99; 1.15) | 1.22 (1.10; 1.35) |
 | Levonorgestrel | 1.06 (1.00; 1.13) | 1.22 (1.11; 1.35) |  |  |  |
 | Glyburide | 1.25 mg | 200 mg QD for 6 days | Glyburide | 1.02 (0.98; 1.07) | 0.93 (0.85; 1.01) |
 | 3-cis-hydroxy-glyburide | 1.01 (0.96; 1.07) | 0.99 (0.91; 1.08) |  |  |  |
@@ -138,7 +138,7 @@ Table 9: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 | Hydrochlorothiazide | 25 mg QD for 35 days | 300 mg QD for 7 days | Hydrochlorothiazide | 0.99 (0.95; 1.04) | 0.94 (0.87; 1.01) |
 | Metformin HCl | 2,000 mg | 300 mg QD for 8 days | Metformin HCl | 1.20 (1.08; 1.34) | 1.06 (0.93; 1.20) |
 | Simvastatin | 40 mg | 300 mg QD for 7 days | Simvastatin | 1.12 (0.94; 1.33) | 1.09 (0.91; 1.31) |
-| simvastatin acid | 1.18 (1.03; 1.35) | 1.26 (1.10; 1.45) |  |  |  |
+| Simvastatin acid | 1.18 (1.03; 1.35) | 1.26 (1.10; 1.45) |  |  |  |
 | Warfarin | 30 mg | 300 mg QD for 12 days | (R)-warfarin | 1.01 (0.96; 1.06) | 1.03 (0.94; 1.13) |
 | (S)-warfarin | 1.06 (1.00; 1.12) | 1.01 (0.90; 1.13) |  |  |  |
 | INR | 1.00 (0.98; 1.03) | 1.05 (0.99; 1.12) |  |  |  |

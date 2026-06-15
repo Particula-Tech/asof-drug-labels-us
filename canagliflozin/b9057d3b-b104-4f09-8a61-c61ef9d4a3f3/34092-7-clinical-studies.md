@@ -199,7 +199,7 @@ Table 16: Results from 26–Week Placebo-Controlled Clinical Trial of INVOKANA i
 | Baseline (mean) | 8.40 | 8.50 |
 | Change from baseline (adjusted mean) | -0.03 | -0.83 |
 | Difference from placebo (adjusted mean) (95% CI) Early treatment discontinuation before week 26, occurred in 11.0% and 24.1% of INVOKANA and placebo patients, respectively.Estimated using a multiple imputation method modeling a "wash-out" of the treatment effect for patients having missing data who discontinued treatment. Missing data was imputed only at week 26 and analyzed using ANCOVA. |  | -0.81 p<0.001 (-1.11; -0.51) |
-| Percent of patients achieving HbA 1C< 7% Patients without week 26 efficacy data were considered as non-responders when estimating the proportion achieving HbA 1C < 7%. | 9 | 28 |
+| Percent of patients achieving HbA 1C< 7% Patients without week 26 efficacy data were considered as non-responders when estimating the proportion achieving HbA1C < 7%. | 9 | 28 |
 | Fasting Plasma Glucose (mg/dL)Estimated using a multiple imputation method modeling a "wash-out" of the treatment effect for patients having missing data who discontinued treatment. A mixed model for repeated measures was used to analyze the imputed data. |  |  |
 | Baseline (mean) | 180 | 185 |
 | Change from baseline (adjusted mean) | -3 | -28 |
@@ -329,13 +329,13 @@ The mean BMI was 30.8 kg/m 2(range 18–57 kg/m 2) and the mean BMI Z-score was 
 
 At Week 26, treatment with canagliflozin provided statistically significant improvement in HbA 1Cfrom baseline, compared with placebo (see Table 20).
 
-Table 20: Results at Week 26 in a Placebo-Controlled Trial of INVOKANA in Combination with Metformin HCl and/or Insulin or as Monotherapy in Pediatric Patients Aged 10 Years and Older with Type 2 Diabetes Mellitus Modified intent-to-treat set (All randomized and treated patients with baseline HbA 1C measurement).
+Table 20: Results at Week 26 in a Placebo-Controlled Trial of INVOKANA in Combination with Metformin HCl and/or Insulin or as Monotherapy in Pediatric Patients Aged 10 Years and Older with Type 2 Diabetes Mellitus Modified intent-to-treat set (All randomized and treated patients with baseline HbA1C measurement).
 
 | Efficacy Parameter | Placebo (N=87) | INVOKANA (N=84) |
 | --- | --- | --- |
 | HbA 1C(%) |  |  |
 | Baseline (mean) | 8.3 | 7.8 |
-| Change from baseline Multiple imputation using retrieved dropout approach with 1000 iterations for missing data (canagliflozin N=7 (8.3%), placebo N=7 (8.1%) for HbA 1C and canagliflozin N=9 (10.7%), placebo N=7 (8.1%) for FPG). Least-Square Mean from Analysis of Covariance (ANCOVA) adjusted for baseline value, baseline age stratum (< 15 years vs 15 to < 18 years) and baseline antihyperglycemic agent (AHA) background (i.e, diet and exercise only, metformin monotherapy, insulin monotherapy, or combination of insulin and metformin). | 0.34 | -0.38 |
+| Change from baseline Multiple imputation using retrieved dropout approach with 1000 iterations for missing data (canagliflozin N=7 (8.3%), placebo N=7 (8.1%) for HbA1C and canagliflozin N=9 (10.7%), placebo N=7 (8.1%) for FPG). Least-Square Mean from Analysis of Covariance (ANCOVA) adjusted for baseline value, baseline age stratum (< 15 years vs 15 to < 18 years) and baseline antihyperglycemic agent (AHA) background (i.e, diet and exercise only, metformin monotherapy, insulin monotherapy, or combination of insulin and metformin). | 0.34 | -0.38 |
 | Difference from placebo 95% CI |  | -0.73 (-1.26, -0.19) P-value=0.008 (two-sided) |
 | FPG (mg/dL) |  |  |
 | Baseline (mean) | 156.5 | 154.8 |
@@ -411,7 +411,7 @@ Canagliflozin 100 mg also significantly reduced the risk of hospitalization for 
 
 Table 22: Analysis of Primary Endpoint (including the Individual Components) and Secondary Endpoints from the CREDENCE Trial in Adults with Diabetic Nephropathy and Albuminuria
 
-| Endpoint | N=2,199 (%) | Event Rate Event rate per 100 patient-years. | N=2,202 (%) | Event Rate | HR Hazard ratio (canagliflozin compared to placebo), 95% CI and p-value are estimated using a stratified Cox proportional hazards model including treatment as the explanatory variable and stratified by screening eGFR (≥ 30 to < 45, ≥ 45 to < 60, ≥ 60 to < 90 mL/min/1.73 m 2). HR is not presented for renal death due to the small number of events in each group. (95% CI) |
+| Endpoint | N=2,199 (%) | Event Rate Event rate per 100 patient-years. | N=2,202 (%) | Event Rate | HR Hazard ratio (canagliflozin compared to placebo), 95% CI and p-value are estimated using a stratified Cox proportional hazards model including treatment as the explanatory variable and stratified by screening eGFR (≥ 30 to < 45, ≥ 45 to < 60, ≥ 60 to < 90 mL/min/1.73 m2). HR is not presented for renal death due to the small number of events in each group. (95% CI) |
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo |  | canagliflozin |  |  |
 | Primary Composite Endpoint (ESKD, doubling of serum creatinine, renal death, or CV death) | 340 (15.5) | 6.1 | 245 (11.1) | 4.3 | 0.70 (0.59, 0.82) P-value <0.0001 |
