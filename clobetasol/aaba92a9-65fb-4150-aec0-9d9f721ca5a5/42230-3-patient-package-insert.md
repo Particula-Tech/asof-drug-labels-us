@@ -48,7 +48,8 @@ Tell your doctor if you have any side effect that bothers you or that does not g
 These are not all the possible side effects of CLOBEX® Spray.
 For more information, ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.You may also report side effects to Galderma Laboratories, L.P. at 1-866-735-4137
+You may report side effects to FDA at 1-800-FDA-1088.
+You may also report side effects to Galderma Laboratories, L.P. at 1-866-735-4137
 
 How should I store CLOBEX®Spray? • Store CLOBEX® Spray at room temperature between 68°F to 77°F (20°C to 25°C). • Do not store CLOBEX® Spray above 86°F (30°C). • Do not freeze or refrigerate CLOBEX® Spray. • Keep the bottle of CLOBEX® Spray tightly closed. • Keep away from heat or flame.
 
