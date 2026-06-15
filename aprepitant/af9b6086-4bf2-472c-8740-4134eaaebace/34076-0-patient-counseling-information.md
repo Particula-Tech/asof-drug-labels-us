@@ -27,3 +27,13 @@ TORRENT PHARMA INC., Basking Ridge, NJ 07920
 Revised: 06/2022
 
 2823402/3
+
+Manufactured by:
+
+Torrent Pharmaceuticals LTD., Bharuch-392130, India.
+
+Manufactured for:
+
+Torrent Pharma INC., Basking Ridge, NJ 07920.
+
+8101457 Revised: July 2025
