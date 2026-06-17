@@ -103,8 +103,6 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured for UPSHER-SMITH LABORATORIES,LLC Maple Grove, MN 55369
 
-Made in China
-
 VIGADRONE is a registered trademark of Upsher-Smith Laboratories, LLC.
 
-LB5060-00 Revised 1/2024
+LB5060-02 Revised 12/2025

@@ -56,8 +56,6 @@ As with all AEDs, withdrawal should normally be gradual [see Warnings and Precau
 
 Manufactured for UPSHER-SMITH LABORATORIES,LLC Maple Grove, MN 55369
 
-Made in China
-
 VIGADRONE is a registered trademark of Upsher-Smith Laboratories, LLC.
 
-LB5060-00 Revised 1/2024
+LB5060-02 Revised 12/2025
