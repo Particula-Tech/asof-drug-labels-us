@@ -30,6 +30,6 @@ The NDC number is 65219-596-01.
 Storage and Handling: Do not use beyond expiration date on the container, package, prefilled syringe, or autoinjector.
 TYENNE must be refrigerated at 36°F to 46°F (2ºC to 8ºC).
 Do not freeze.
-A single prefilled syringe (or autoinjector) may be stored at room temperature at or below 77°F (25°C) for a single period of up to 14 days.
+A single prefilled syringe (or autoinjector) may be stored at room temperature at or below 86°F (30°C) for a single period of up to 14 days.
 Protect the vials, syringes and autoinjectors from light by storage in the original package until time of use, and keep syringes and autoinjectors dry.
 Do not shake.

@@ -33,7 +33,7 @@ The primary endpoint was the proportion of patients who achieved an ACR 20 respo
 
 Clinical Response
 
-The percentages of intravenous tocilizumab-treated patients achieving ACR 20, 50 and 70 responses are shown inTable 4.
+The percentages of intravenous tocilizumab-treated patients achieving ACR 20, 50 and 70 responses are shown in Table 4.
 In all intravenous studies, patients treated with 8 mg per kg tocilizumab had higher ACR 20, ACR 50, and ACR 70 response rates versus MTX- or placebo-treated patients at week 24.
 
 During the 24 week controlled portions of Studies I to V, patients treated with tocilizumab at a dose of 4 mg per kg in patients with inadequate response to DMARDs or TNF antagonist therapy had lower response rates compared to patients treated with tocilizumab 8 mg per kg.
@@ -90,26 +90,25 @@ Table 6 Components of ACR Response at Week 24 in Trials of Intravenous Tocilizum
 |  | Study III |  |  |  |  |  | Study V |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Tocilizumab 4 mg per kg + MTX N=213 |  | Tocilizumab 8 mg per kg + MTX N=205 |  | Placebo + MTX N=204 |  | Tocilizumab 4 mg per kg + MTX N=161 |  | Tocilizumab 8 mg per kg + MTX N=170 |  | Placebo + MTX N=158 |  |
-| Component (mean) | Baseline | Week 24a | Baseline | Week 24 a | Baseline | Week 24 | Baseline | Week 24 a | Baseline | Week 24 a | Baseline | Week 24 |
-| Number of | 33 | 19 | 32 | 14.5 | 33 | 25 | 31 | 21 | 32 | 17 | 30 | 30 |
-| tender joints | -7.0 | -9.6 | -10.8 | -15.1 |  |  |  |  |  |  |  |  |
-| (0-68) | (-10.0, -4.1) | (-12.6, -6.7) | (-14.6, -7.1) | (-18.8, -11.4) |  |  |  |  |  |  |  |  |
-| Number of | 20 | 10 | 19.5 | 8 | 21 | 15 | 19.5 | 13 | 19 | 11 | 19 | 18 |
-| swollen | -4.2 | -6.2 | -6.2 | -7.2 |  |  |  |  |  |  |  |  |
-| joints (0-66) | (-6.1, -2.3) | (-8.1, -4.2) | (-9.0, -3.5) | (-9.9, -4.5) |  |  |  |  |  |  |  |  |
+| Component (mean) | Baseline | Week 24 a | Baseline | Week 24 a | Baseline | Week 24 | Baseline | Week 24 a | Baseline | Week 24 a | Baseline | Week 24 |
+| Number of tender joints(0-68) | 33 | 19 | 32 | 14.5 | 33 | 25 | 31 | 21 | 32 | 17 | 30 | 30 |
+| -7.0 | -9.6 | -10.8 | -15.1 |  |  |  |  |  |  |  |  |  |
+| (-10.0, -4.1) | (-12.6, -6.7) | (-14.6, -7.1) | (-18.8, -11.4) |  |  |  |  |  |  |  |  |  |
+| Number of swollen joints (0-66) | 20 | 10 | 19.5 | 8 | 21 | 15 | 19.5 | 13 | 19 | 11 | 19 | 18 |
+| -4.2 | -6.2 | -6.2 | -7.2 |  |  |  |  |  |  |  |  |  |
+| (-6.1, -2.3) | (-8.1, -4.2) | (-9.0, -3.5) | (-9.9, -4.5) |  |  |  |  |  |  |  |  |  |
 | Pain b | 61 | 33 -11.0 | 60 | 30 -15.8 | 57 | 43 | 63.5 | 43 -12.4 | 65 | 33 -23.9 | 64 | 48 |
 | (-17.0, -5.0) | (-21.7, -9.9) | (-22.1, -2.1) | (-33.7, -14.1) |  |  |  |  |  |  |  |  |  |
-| Patient | 66 | 34 | 65 | 31 | 64 | 45 | 70 | 46 | 70 | 36 | 71 | 51 |
-| global | -10.9 | -14.9 | -10.0 | -17.4 |  |  |  |  |  |  |  |  |
-| Assessment b | (-17.1, -4.8) | (-20.9, -8.9) | (-20.3, 0.3) | (-27.8, -7.0) |  |  |  |  |  |  |  |  |
-| Physician | 64 | 26 | 64 | 23 | 64 | 32 | 66.5 | 39 | 66 | 28 | 67.5 | 43 |
-| global | -5.6 | -9.0 | -10.5 | -18.2 |  |  |  |  |  |  |  |  |
-| Assessment b | (-10.5, -0.8) | (-13.8, -4.2) | (-18.6, -2.5) | (-26.3, -10.0) |  |  |  |  |  |  |  |  |
-| Disability | 1.64 | 1.01 | 1.55 | 0.96 | 1.55 | 1.21 | 1.67 | 1.39 | 1.75 | 1.34 | 1.70 | 1.58 |
-| index | -0.18 | -0.21 | -0.25 | -0.34 |  |  |  |  |  |  |  |  |
-| (HAQ)c | (-0.34, -0.02) | (-0.37, -0.05) | (-0.42, -0.09) | (-0.51, -0.17) |  |  |  |  |  |  |  |  |
-| CRP (mg per | 2.79 | 1.17 -1.30 | 2.61 | 0.25 -2.156 | 2.36 | 1.89 | 3.11 | 1.77 -1.34 | 2.80 | 0.28 -2.52 | 3.705 | 3.06 |
-| dL) |  |  |  |  |  |  |  |  |  |  |  |  |
+| Patient globalAssessment b | 66 | 34 | 65 | 31 | 64 | 45 | 70 | 46 | 70 | 36 | 71 | 51 |
+| -10.9 | -14.9 | -10.0 | -17.4 |  |  |  |  |  |  |  |  |  |
+| (-17.1, -4.8) | (-20.9, -8.9) | (-20.3, 0.3) | (-27.8, -7.0) |  |  |  |  |  |  |  |  |  |
+| Physician globalAssessment b | 64 | 26 | 64 | 23 | 64 | 32 | 66.5 | 39 | 66 | 28 | 67.5 | 43 |
+| -5.6 | -9.0 | -10.5 | -18.2 |  |  |  |  |  |  |  |  |  |
+| (-10.5, -0.8) | (-13.8, -4.2) | (-18.6, -2.5) | (-26.3, -10.0) |  |  |  |  |  |  |  |  |  |
+| Disability index(HAQ)c | 1.64 | 1.01 | 1.55 | 0.96 | 1.55 | 1.21 | 1.67 | 1.39 | 1.75 | 1.34 | 1.70 | 1.58 |
+| -0.18 | -0.21 | -0.25 | -0.34 |  |  |  |  |  |  |  |  |  |
+| (-0.34, -0.02) | (-0.37, -0.05) | (-0.42, -0.09) | (-0.51, -0.17) |  |  |  |  |  |  |  |  |  |
+| CRP (mg per dL) | 2.79 | 1.17 -1.30 | 2.61 | 0.25 -2.156 | 2.36 | 1.89 | 3.11 | 1.77 -1.34 | 2.80 | 0.28 -2.52 | 3.705 | 3.06 |
 | (-2.0, -0.59) | (-2.86, -1.46) | (-2.5, -0.15) | (-3.72, -1.32) |  |  |  |  |  |  |  |  |  |
 | a Data shown is mean at week 24, difference in adjusted mean change from baseline compared with placebo + MTX at week 24 and 95% confidence interval for that difference b Visual analog scale: 0 = best, 100 = worst c Health Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -342,11 +341,11 @@ Table 10 Efficacy Findings at Week 12
 | Weighted difference (95% CI) | 62 (45, 78) | - |
 | JIA ACR Response Rates at Week 12 |  |  |
 | JIA ACR 30 |  |  |
-| Responders Weighted difference a (95% CI) b | 91% 67 (51, 83) | 24% - |
+| Responders Weighted differencea (95% CI)b | 91% 67 (51, 83) | 24% - |
 | JIA ACR 50 |  |  |
-| Responders Weighted difference a (95% CI) b | 85% 74 (58, 90) | 11% - |
+| Responders Weighted differencea (95% CI)b | 85% 74 (58, 90) | 11% - |
 | JIA ACR 70 |  |  |
-| Responders Weighted difference a (95% CI) b | 71% 63 (46, 80) | 8% - |
+| Responders Weighted differencea (95% CI)b | 71% 63 (46, 80) | 8% - |
 | aThe weighted difference is the difference between the tocilizumab and Placebo response rates, adjusted for the stratification factors (weight, disease duration, background oral corticosteroid dose and background methotrexate use). b CI: confidence interval of the weighted difference. |  |  |
 
 The treatment effect of tocilizumab was consistent across all components of the JIA ACR response core variables.
@@ -391,7 +390,7 @@ Achievement of resolution of CRS within 14 days was confirmed in a second study 
 
 ## 14.10 COVID-19 – Intravenous Administration
 
-The efficacy of tocilizumab for the treatment of COVID-19 was based on RECOVERY (NCT04381936), a randomized, controlled, open-label, platform study, and supported by the results from EMPACTA (NCT04372186), a randomized, double-blind, placebo-controlled study.
+The efficacy of tocilizumab for the treatment of COVID-19 in adults was based on RECOVERY (NCT04381936), a randomized, controlled, open-label, platform study, and supported by the results from EMPACTA (NCT04372186), a randomized, double-blind, placebo-controlled study.
 Results of two other randomized, double-blind, placebo-controlled studies, COVACTA (NCT04320615) and REMDACTA (NCT04409262), which evaluated the efficacy of tocilizumab for the treatment of COVID-19 are also summarized.
 
 RECOVERY (Randomised Evaluation of COVID-19 Therapy) Collaborative Group Study in Hospitalized Adults Diagnosed with COVID-19
