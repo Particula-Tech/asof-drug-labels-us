@@ -5,7 +5,7 @@
 Risk Summary
 
 The available data with tocilizumab products from a pregnancy exposure registry, retrospective cohort study, pharmacovigilance, and published literature are insufficient to draw conclusions about a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
-These studies had methodological limitations, including small sample size of tocilizumab exposed groups, missing exposure and outcomes information, and lack of adjustment for cofounders.
+These studies had methodological limitations, including small sample size of tocilizumab exposed groups, missing exposure and outcomes information, and lack of adjustment for confounders.
 Monoclonal antibodies, such as tocilizumab products, are actively transported across the placenta during the third trimester of pregnancy and may affect immune response in the in utero exposed infant [see Clinical Considerations].
 In animal reproduction studies, intravenous administration of tocilizumab to Cynomolgus monkeys during organogenesis caused abortion/embryo-fetal death at doses 1.25 times and higher than the maximum recommended human dose by the intravenous route of 8 mg per kg every 2 to 4 weeks.
 The literature in animals suggests that inhibition of IL-6 signaling may interfere with cervical ripening and dilatation and myometrial contractile activity leading to potential delays of parturition [see Data].
@@ -59,14 +59,15 @@ TYENNE by intravenous use is indicated for the treatment of pediatric patients w
 - •Active systemic juvenile idiopathic arthritis in patients 2 years of age and older
 - •Active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older
 - •Severe or life-threatening CAR T cell-induced cytokine release syndrome (CRS) in patients 2 years of age and older.
+- •Hospitalized Coronavirus disease 2019 (COVID-19) patients 2 years of age and older who are receiving systemic corticosteroids and require supplemental oxygen, non-invasive or invasive mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).
 
 TYENNE by subcutaneous use is indicated for the treatment of pediatric patients with:
 
 - •Active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older
 - •Active systemic juvenile idiopathic arthritis in patients 2 years of age and older
 
-The safety and effectiveness of TYENNE in pediatric patients with conditions other than PJIA, SJIA or CRS have not been established.
-The safety and effectiveness in pediatric patients below the age of 2 have not been established in PJIA, SJIA or CRS.
+The safety and effectiveness of TYENNE in pediatric patients with conditions other than PJIA, SJIA, CRS or COVID-19 have not been established.
+The safety and effectiveness in pediatric patients below the age of 2 have not been established in PJIA, SJIA, CRS or COVID-19.
 
 Systemic Juvenile Idiopathic Arthritis – Intravenous Use
 
@@ -78,16 +79,23 @@ Patients who completed the 12-week period could continue to the optional extensi
 
 The primary PK endpoints (Cmax, Ctrough and AUC2weeks) of tocilizumab at steady-state in this study were within the ranges of these parameters observed in patients with SJIA aged 2 to 17 years.
 
-The safety and immunogenicity of tocilizumab for patien ts with SJIA under 2 years of age was assessed descriptively.
+The safety and immunogenicity of tocilizumab for patients with SJIA under 2 years of age was assessed descriptively.
 SAEs, AEs leading to discontinuation, and infectious AEs were reported by 27.3%, 36.4%, and 81.8% of patients.
 Six patients (54.5%) experienced hypersensitivity reactions, defined as all adverse events occurring during or within 24 hours after an infusion considered related to tocilizumab.
 Three of these patients experienced serious hypersensitivity reactions and were withdrawn from the study.
-Three patients with hypersensitivity reactions (two with serious hypersensitivity reactions) developed treatment induced anti- tocilizumab antibodies after the event.
+Three patients with hypersensitivity reactions (two with serious hypersensitivity reactions) developed treatment induced anti-tocilizumab antibodies after the event.
 There were no cases of MAS based on the protocol-specified criteria, but 2 cases of suspected MAS based on Ravelli criteriaRavelli A, Minoia F, Davì S on behalf of the Paediatric Rheumatology International Trials Organisation, the Childhood Arthritis and Rheumatology Research Alliance, the Pediatric Rheumatology Collaborative Study Group, and the Histiocyte Society, et al. 2016 Classification Criteria for Macrophage Activation Syndrome Complicating Systemic Juvenile Idiopathic Arthritis.
 Annals of the Rheumatic Diseases 2016;75:481-489..
 
 Cytokine Release Syndrome – Intravenous Use In the retrospective analysis of pooled outcome data for patients treated with tocilizumab for CAR T cell-induced CRS, 25 patients were children (2 years up to 12 years of age), and 17 patients were adolescents (12 years up to 18 years of age).
 There were no differences between the pediatric patients and the adults for safety or efficacy.
+
+COVID-19 – Intravenous Use
+
+The safety and effectiveness of TYENNE have been established for the treatment of pediatric patients aged 2 years and older with COVID-19.
+Use of TYENNE in these age groups is supported by evidence from adequate and well-controlled studies of tocilizumab in adults with COVID-19 [See Adverse Reactions (6.10) and Clinical Studies (14.10)], predicted pharmacokinetic data modeling and simulation for pediatric patients aged 2 years and older with COVID-19 [See Clinical Pharmacology (12.3)], safety data from a randomized, double-blind, placebo-controlled study of tocilizumab in pediatric patients aged 2 years and older with systemic juvenile idiopathic arthritis, and additional uncontrolled pharmacovigilance data in pediatric patients aged 2 years and older with COVID-19 who received tocilizumab under Emergency Use Authorization.
+
+The safety and effectiveness of TYENNE has not been established in pediatric COVID-19 patients younger than 2 years of age.
 
 ## 8.5 Geriatric Use
 
@@ -105,7 +113,7 @@ No overall differences in effectiveness of tocilizumab were observed between pat
 
 ## 8.6 Hepatic Impairment
 
-The safety and efficacy of tocilizumab products have not been studied in patients with hepatic impairment, including patients with positive HBV and HCV serology [see Warnings and Precautions (5.8)].
+The safety and efficacy of tocilizumab products have not been studied in patients with hepatic impairment, including patients with positive HBV and HCV serology [see Warnings and Precautions 5.8)].
 
 ## 8.7 Renal Impairment
 

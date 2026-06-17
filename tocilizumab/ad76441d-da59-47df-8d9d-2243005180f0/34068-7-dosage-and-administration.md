@@ -128,11 +128,17 @@ The recommended dose of TYENNE for treatment of CRS given as a 60-minute intrave
 - •Doses exceeding 800 mg per infusion are not recommended in CRS patients.
 - •Subcutaneous administration is not approved for CRS.
 
-## 2.7 Coronavirus Disease 2019 (COVID-19)
+## 2.7 Recommended Dosage for Coronavirus Disease 2019 (COVID-19)
 
 Administer TYENNE by intravenous infusion only.
 
-The recommended dosage of TYENNE for treatment of adult patients with COVID-19 is 8 mg per kg administered as a single 60-minute intravenous infusion.
+The recommended dosage of TYENNE for treatment of patients with COVID-19 given as a single 60-minute intravenous infusion is:
+
+| Recommended Intravenous COVID-19 Dosage |  |
+| --- | --- |
+| Patients less than 30 kg weight | 12 mg per kg |
+| Patients at or above 30 kg weight | 8 mg per kg |
+
 If clinical signs or symptoms worsen or do not improve after the first dose, one additional infusion of TYENNE may be administered at least 8 hours after the initial infusion.
 
 - •Doses exceeding 800 mg per infusion are not recommended in patients with COVID-19.
@@ -153,9 +159,9 @@ TYENNE for intravenous infusion should be diluted by a healthcare professional u
 | Dosage | Indication | Volume of TYENNE injection per kg of body weight |
 | 4 mg/kg | Adult RA | 0.2 mL/kg |
 | 6 mg/kg | Adult GCA | 0.3 mL/kg |
-| 8 mg/kg | Adult RA Adult COVID-19SJIA, PJIA and CRS (greater than or equal to 30 kg of body weight) | 0.4 mL/kg |
+| 8 mg/kg | Adult RA SJIA, PJIA, CRS and COVID-19 (greater than or equal to 30 kg of body weight) | 0.4 mL/kg |
 | 10 mg/kg | PJIA (less than 30 kg of body weight) | 0.5 mL/kg |
-| 12 mg/kg | SJIA and CRS (less than 30 kg of body weight) | 0.6 mL/kg |
+| 12 mg/kg | SJIA, CRS and COVID-19 (less than 30 kg of body weight) | 0.6 mL/kg |
 
 - -Step 2.
   Withdraw the amount of TYENNE for intravenous infusion from the vial(s) and add slowly into the 0.9% or 0.45% Sodium Chloride Injection, USP infusion bag or bottle.

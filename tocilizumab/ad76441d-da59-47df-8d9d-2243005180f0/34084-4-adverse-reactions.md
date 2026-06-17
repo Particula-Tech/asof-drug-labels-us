@@ -148,7 +148,7 @@ In the all-exposure population, the rate of malignancies remained consistent wit
 
 Other Adverse Reactions
 
-Adverse reactions occurring in 2% or more of patients on 4 or 8 mg per kg tocilizumab-IV plus DMARD and at least 1% greater than that observed in patients on placebo plus DMARD are summarized inTable 2.
+Adverse reactions occurring in 2% or more of patients on 4 or 8 mg per kg tocilizumab-IV plus DMARD and at least 1% greater than that observed in patients on placebo plus DMARD are summarized in Table 2.
 
 Table 2 Adverse Reactions Occurring in at Least 2% or More of Patients on 4 or 8 mg per kg Tocilizumab plus DMARD and at Least 1% Greater Than That Observed in Patients on Placebo plus DMARD
 
@@ -194,7 +194,7 @@ Endocrine disorders: hypothyroidism
 
 The tocilizumab-SC data in rheumatoid arthritis (RA) includes 2 double-blind, controlled, multicenter studies.
 Study SC-I was a non-inferiority study that compared the efficacy and safety of tocilizumab 162 mg administered every week subcutaneously and 8 mg/kg intravenously every four weeks in 1262 adult subjects with rheumatoid arthritis.
-Study SC-II was a placebo-controlled superiority study that evaluated the safety and efficacy of tocilizumab 162 mg administered every other week subcutaneously or placebo in 656 patients.
+Study SC-II was a placebo- controlled superiority study that evaluated the safety and efficacy of tocilizumab 162 mg administered every other week subcutaneously or placebo in 656 patients.
 All patients in both studies received background non-biologic DMARDs.
 
 The safety observed for tocilizumab-SC administered subcutaneously was consistent with the known safety profile of intravenous tocilizumab, with the exception of injection site reactions (ISRs), which were more common with tocilizumab-SC compared with placebo SC injections (IV arm).
@@ -370,7 +370,7 @@ Anaphylaxis was reported in 1 out of 112 patients (less than 1%) treated with to
 Immunogenicity
 
 All 112 patients were tested for anti-tocilizumab antibodies at baseline.
-Two patients developed positive anti- tocilizumab antibodies: one of these patients experienced serious adverse events of urticaria and angioedema consistent with an anaphylactic reaction which led to withdrawal; the other patient developed macrophage activation syndrome while on escape therapy and was discontinued from the study.
+Two patients developed positive anti-tocilizumab antibodies: one of these patients experienced serious adverse events of urticaria and angioedema consistent with an anaphylactic reaction which led to withdrawal; the other patient developed macrophage activation syndrome while on escape therapy and was discontinued from the study.
 
 Laboratory Abnormalities
 
@@ -423,14 +423,14 @@ No adverse reactions related to tocilizumab were reported [see Clinical Studies 
 
 ## 6.10 Clinical Trials Experience in COVID-19 Patients Treated with Intravenous Tocilizumab (tocilizumab-IV)
 
-The safety of tocilizumab in hospitalized COVID-19 patients was evaluated in a pooled safety population that includes patients enrolled in EMPACTA, COVACTA, AND REMDACTA.
+The safety of tocilizumab in hospitalized adult COVID-19 patients was evaluated in a pooled safety population that includes patients enrolled in EMPACTA, COVACTA, AND REMDACTA.
 The analysis of adverse reactions included a total of 974 patients exposed to tocilizumab.
 Patients received a single, 60-minute infusion of intravenous tocilizumab 8 mg/kg (maximum dose of 800 mg).
 If clinical signs or symptoms worsened or did not improve, one additional dose of tocilizumab 8 mg/kg could be administered between 8- 24 hours after the initial dose.
 
 Adverse reactions summarized in Table 3 occurred in at least 3% of tocilizumab-treated patients and more commonly than in patients on placebo in the pooled safety population.
 
-Table 3 Adverse Reactions1 Identified From the Pooled COVID-19 Safety Population
+Table 3 Adverse Reactions Identified From the Pooled COVID-19 Adult Safety Population
 
 | Adverse Reaction | Tocilizumab 8 mg per kg N = 974 (%) | Placebo N = 483 (%) |
 | --- | --- | --- |
@@ -449,7 +449,7 @@ In the pooled safety population, the rates of infection/serious infection events
 
 Laboratory Abnormalities
 
-In the pooled safety population of EMPACTA, COVACTA, and REMDACTA, neutrophil counts <1000 cells/mcl occurred in 3.4% of patients who received tocilizumab and 0.5% of patients who received placebo.
+In the pooled adult safety population of EMPACTA, COVACTA, and REMDACTA, neutrophil counts <1000 cells/mcl occurred in 3.4% of patients who received tocilizumab and 0.5% of patients who received placebo.
 Platelet counts <50,000 cells/mcl occurred in 3.2% of patients who received tocilizumab and 1.5% of patients who received placebo.
 ALT or AST at or above 5x ULN occurred in 11.7% of patients who received tocilizumab and 9.9% of patients who received placebo.
 
@@ -461,3 +461,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •Hypersensitivity Reactions: Fatal anaphylaxis, Stevens-Johnson Syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.6)]
 - •Pancreatitis
 - •Drug-induced liver injury, Hepatitis, Hepatic failure, Jaundice [see Warnings and Precautions (5.3)]
+- •Hypofibrinogenemia

@@ -108,8 +108,8 @@ Table 6 Components of ACR Response at Week 24 in Trials of Intravenous Tocilizum
 | Disability | 1.64 | 1.01 | 1.55 | 0.96 | 1.55 | 1.21 | 1.67 | 1.39 | 1.75 | 1.34 | 1.70 | 1.58 |
 | index | -0.18 | -0.21 | -0.25 | -0.34 |  |  |  |  |  |  |  |  |
 | (HAQ)c | (-0.34, -0.02) | (-0.37, -0.05) | (-0.42, -0.09) | (-0.51, -0.17) |  |  |  |  |  |  |  |  |
-| CRP (mg per | 2.79 | 1.17 -1.30 | 2.61 | 0.25 -2.156 | 2.36 | 1.89 | 3.11 | 1.77 -1.34 | 2.80 | 0.28 -2.52 | 3.705 | 3.06 |
-| dL) |  |  |  |  |  |  |  |  |  |  |  |  |
+| CRP (mg per dL) | 2.79 | 1.17 | 2.61 | 0.25 | 2.36 | 1.89 | 3.11 | 1.77 | 2.80 | 0.28 | 3.705 | 3.06 |
+| -1.30 | -2.156 | -1.34 | -2.52 |  |  |  |  |  |  |  |  |  |
 | (-2.0, -0.59) | (-2.86, -1.46) | (-2.5, -0.15) | (-3.72, -1.32) |  |  |  |  |  |  |  |  |  |
 | a Data shown is mean at week 24, difference in adjusted mean change from baseline compared with placebo + MTX at week 24 and 95% confidence interval for that difference b Visual analog scale: 0 = best, 100 = worst c Health Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -342,11 +342,11 @@ Table 10 Efficacy Findings at Week 12
 | Weighted difference (95% CI) | 62 (45, 78) | - |
 | JIA ACR Response Rates at Week 12 |  |  |
 | JIA ACR 30 |  |  |
-| Responders Weighted difference a (95% CI) b | 91% 67 (51, 83) | 24% - |
+| Responders Weighted differencea (95% CI)b | 91% 67 (51, 83) | 24% - |
 | JIA ACR 50 |  |  |
-| Responders Weighted difference a (95% CI) b | 85% 74 (58, 90) | 11% - |
+| Responders Weighted differencea (95% CI) b | 85% 74 (58, 90) | 11% - |
 | JIA ACR 70 |  |  |
-| Responders Weighted difference a (95% CI) b | 71% 63 (46, 80) | 8% - |
+| Responders Weighted differencea (95% CI) b | 71% 63 (46, 80) | 8% - |
 | aThe weighted difference is the difference between the tocilizumab and Placebo response rates, adjusted for the stratification factors (weight, disease duration, background oral corticosteroid dose and background methotrexate use). b CI: confidence interval of the weighted difference. |  |  |
 
 The treatment effect of tocilizumab was consistent across all components of the JIA ACR response core variables.
@@ -391,7 +391,7 @@ Achievement of resolution of CRS within 14 days was confirmed in a second study 
 
 ## 14.10 COVID-19 – Intravenous Administration
 
-The efficacy of tocilizumab for the treatment of COVID-19 was based on RECOVERY (NCT04381936), a randomized, controlled, open-label, platform study, and supported by the results from EMPACTA (NCT04372186), a randomized, double-blind, placebo-controlled study.
+The efficacy of tocilizumab for the treatment of COVID-19 in adults was based on RECOVERY (NCT04381936), a randomized, controlled, open-label, platform study, and supported by the results from EMPACTA (NCT04372186), a randomized, double-blind, placebo-controlled study.
 Results of two other randomized, double-blind, placebo-controlled studies, COVACTA (NCT04320615) and REMDACTA (NCT04409262), which evaluated the efficacy of tocilizumab for the treatment of COVID-19 are also summarized.
 
 RECOVERY (Randomised Evaluation of COVID-19 Therapy) Collaborative Group Study in Hospitalized Adults Diagnosed with COVID-19
@@ -444,7 +444,7 @@ Mortality at Day 28 was 19.7% in the tocilizumab arm versus 19.4% in the placebo
 
 REMDACTA
 
-REMDACTA was a randomized, double-blind, placebo-controlled, multicenter study to evaluate intravenous tocilizumab 8 mg/kg in combination with intravenous remdesivir (RDV) 200 mg on Day 1 followed by 100 mg once daily for a total of 10 days in hospitalized patients with severe COVID-19 pneumonia.
+REMDACTA was a randomized, double-blind, placebo-controlled, multicenter study to evaluate intravenous tocilizumab 8 mg/kg in combination with intravenous remdesivir (RDV) 200 mg on Day 1 followed by 100 mg once daily for a total of 10 days in hospitalized adult patients with severe COVID-19 pneumonia.
 The study randomized 649 adult patients with SARS-CoV-2 infection confirmed by a positive polymerase chain reaction (PCR) result, pneumonia confirmed by radiography, and who required supplemental oxygen > 6 L/min to maintain SpO2 >93%.
 At baseline, 7% of patients were on low flow oxygen, 80% were on non-invasive ventilation or high flow oxygen, 14% were on invasive mechanical ventilation, and 84% were on corticosteroids.
 
