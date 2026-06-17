@@ -49,7 +49,7 @@ Specific Populations
 
 Geriatric Patients
 
-In a pharmacokinetic study which compared healthy young and geriatric (≥65 years) volunteers, pitavastatin Cmax and AUC were 10 and 30% higher, respectively, in the geriatric patients [see Use in Specific Populations (8.4)]
+In a pharmacokinetic study which compared healthy young and geriatric (≥65 years) volunteers, pitavastatin Cmax and AUC were 10 and 30% higher, respectively, in the geriatric patients [see Use in Specific Populations (8.4)].
 
 Pediatric Patients
 

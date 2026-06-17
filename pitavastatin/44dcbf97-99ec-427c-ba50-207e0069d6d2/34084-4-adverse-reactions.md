@@ -5,7 +5,7 @@ The following serious adverse reactions are discussed in other sections of the l
 - Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.1)]
 - Immune-Mediated Necrotizing Myopathy [see Warning and Precautions (5.2)]
 - Hepatic Dysfunction [see Warning and Precautions (5.3)]
-- Increases in HbA1c and Fasting Serum Glucose Levels [see Warning and Precautions (5.4)].
+- Increases in HbA1c and Fasting Serum Glucose Levels [see Warning and Precautions (5.4)]
 
 ## 6.1 Clinical Studies Experience
 

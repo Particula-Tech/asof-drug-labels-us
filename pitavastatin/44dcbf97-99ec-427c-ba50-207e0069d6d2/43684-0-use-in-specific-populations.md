@@ -50,8 +50,7 @@ There is no available information about the prescence of pitavastatin in human o
 However, it has been shown that another drug in this class passes into human milk.
 Statins, including LIVALO, decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol and may cause harm to the breastfed infant.
 
-Because of the potential for serious adverse reactions in a breastfed infant, based upon the mechanism of action, advise patients that breastfeeding is not recommended during treatment with LIVALO.
-[see Use in Specific Populations (8.1), Clinical Pharmacology (12.1)]
+Because of the potential for serious adverse reactions in a breastfed infant, based upon the mechanism of action, advise patients that breastfeeding is not recommended during treatment with LIVALO [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1)].
 
 ## 8.4 Pediatric Use
 
@@ -66,15 +65,14 @@ In controlled clinical studies, 1,209 (43%) patients were 65 years and older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.
 
 Advanced age (≥65 years) is a risk factor for LIVALO-associated myopathy and rhabdomyolysis.
-Dose selection for a geriatric patient should be cautious, reognizing the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of myopathy.
+Dose selection for a geriatric patient should be cautious, recognizing the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of myopathy.
 Monitor geriatric patients receiving LIVALO for the increased risk of myopathy [see Warnings and Precautions (5.1)].
 
 ## 8.6 Renal Impairment
 
 Renal impairment is a risk factor for myopathy and rhabdomyolysis.
 Monitor all patients with renal impairment for development of myopathy.
-Due to the risk of myopathy, a dosage modification of LIVALO is recommended for patients with moderate and severe renal impairment (estimated glomerular filtration rate 30 – 59 mL/min/1.73 m2 and 15 – 29 mL/min/1.73 m2, respectively), as well as end-stage renal disease receiving hemodialysis.
-[see Dosage and Administration (2.3), Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
+Due to the risk of myopathy, a dosage modification of LIVALO is recommended for patients with moderate and severe renal impairment (estimated glomerular filtration rate 30 – 59 mL/min/1.73 m2 and 15 – 29 mL/min/1.73 m2, respectively), as well as end-stage renal disease receiving hemodialysis [see Dosage and Administration (2.3), Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

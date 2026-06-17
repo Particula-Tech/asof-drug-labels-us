@@ -102,7 +102,7 @@ Lipid Response by Dose of LIVALO and Atorvastatin in Adult Patients with Type 2 
 | LIVALO 4 mg daily | 274 | -41 | -32 | -28 | -20 | 7 | -36 |
 | Atorvastatin 20 mg daily | 136 | -43 | -34 | -32 | -27 | 8 | -40 |
 
-The treatment differences in efficacy in LDL-C change from baseline between LIVALO and active controls (i.e., atorvastatin, simvastatin, or pravastatin) in the in the active-controlled studies described above are summarized in Figure 1.
+The treatment differences in efficacy in LDL-C change from baseline between LIVALO and active controls (i.e., atorvastatin, simvastatin, or pravastatin) in the active-controlled studies described above are summarized in Figure 1.
 
 Figure 1.
 Treatment Difference in Adjusted Mean Percent Change in LDL-C between LIVALO and the Comparator (Atorvastatin, Simvastatin, or Pravastatin)
