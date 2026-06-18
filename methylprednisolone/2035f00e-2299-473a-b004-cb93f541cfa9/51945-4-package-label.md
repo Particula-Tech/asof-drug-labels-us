@@ -1,6 +1,6 @@
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 40 mg per vial - Container Label
 
-Rx only NDC 55150-262-03 MethylPREDNISolone Sodium Succinate for Injection, USP 40 mg per vial For I.M. or I.V.
+Rx onlyNDC 55150-262-03 MethylPREDNISolone Sodium Succinate for Injection, USP 40 mg per vial For I.M. or I.V.
 Use Only Lyophilized Single-Dose Vial
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 40 mg per vial - Container-Carton (25 Vials)
@@ -8,7 +8,7 @@ Use Only Lyophilized Single-Dose Vial
 Rx only NDC 55150-262-03 MethylPREDNISolone Sodium Succinate for Injection, USP 40 mg* per vial For Intramuscular or Intravenous Use Only This Package Does Not Contain Diluent.
 The Recommended Diluents are Water for Injection USP or Bacteriostatic Water for Injection USP.
 Bacteriostatic Water for Injection USP Contains Benzyl Alcohol as a Preservative.
-Lyophilized Sterile, Non-pyrogenic eugia 25 Single Dose Vials
+Lyophilized Sterile, Non-pyrogenic eugia 25 Single-Dose Vials
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 125 mg per vial - Container Label
 
