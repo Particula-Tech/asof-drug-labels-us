@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-HYSINGLA ER (hydrocodone bitartrate) extended-release tablets are supplied in 20 mg, 30 mg, 40 mg, 60 mg, 80 mg, 100 mg and 120 mg film-coated tablets for oral administration.
+HYSINGLA ER (hydrocodone bitartrate) extended-release tablets are supplied in 20 mg, 30 mg, 40 mg, 60 mg, 80 mg, 100 mg film-coated tablets for oral administration.
 The tablet strengths describe the amount of hydrocodone per tablet as the bitartrate salt.
 
 Hydrocodone bitartrate is an opioid agonist.
@@ -14,7 +14,7 @@ Hydrocodone bitartrate exists as fine white crystals or a crystalline powder.
 It is affected by light.
 It is soluble in water, slightly soluble in alcohol, and insoluble in ether and chloroform.
 
-The 20 mg, 30 mg, 40 mg, 60 mg, 80 mg, 100 mg and 120 mg tablets contain the following inactive ingredients: Butylated Hydroxytoluene (BHT, an additive in Polyethylene Oxide), Hydroxypropyl Cellulose, Macrogol/PEG 3350, Magnesium Stearate, Microcrystalline Cellulose, Polyethylene Oxide, Polysorbate 80, Polyvinyl Alcohol, Talc, Titanium Dioxide, and Black Ink.
+The 20 mg, 30 mg, 40 mg, 60 mg, 80 mg, 100 mg tablets contain the following inactive ingredients: Butylated Hydroxytoluene (BHT, an additive in Polyethylene Oxide), Hydroxypropyl Cellulose, Macrogol/PEG 3350, Magnesium Stearate, Microcrystalline Cellulose, Polyethylene Oxide, Polysorbate 80, Polyvinyl Alcohol, Talc, Titanium Dioxide, and Black Ink.
 
 The 20 mg tablets also contain Iron Oxide Yellow and FD&C Blue #2 Aluminum Lake/Indigo Carmine Aluminum Lake.
 

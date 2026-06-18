@@ -111,22 +111,3 @@ Rx Only
 
 Swallow tablets whole.
 Do not cut, break, chew, crush, or dissolve.
-
-# PRINCIPAL DISPLAY PANEL - 120 mg Tablet Bottle Label
-
-NDC 59011-277-60
-
-Hysingla® ER (hydrocodone bitartrate) extended-release tablets
-
-CII
-
-120 mg
-
-Attention Dispenser: Accompanying Medication Guide must be provided to the patient upon dispensing.
-
-60 Tablets
-
-Rx Only
-
-Swallow tablets whole.
-Do not cut, break, chew, crush, or dissolve.

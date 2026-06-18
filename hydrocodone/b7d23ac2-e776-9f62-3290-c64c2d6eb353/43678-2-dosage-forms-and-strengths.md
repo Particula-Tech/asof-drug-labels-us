@@ -6,4 +6,3 @@
 - 60 mg film-coated extended-release tablets (round, beige-colored, bi-convex tablets printed with "HYD 60")
 - 80 mg film-coated extended-release tablets (round, pink-colored, bi-convex tablets printed with "HYD 80")
 - 100 mg film-coated extended-release tablets (round, blue-colored, bi-convex tablets printed with "HYD 100")
-- 120 mg film-coated extended-release tablets (round, white-colored, bi-convex tablets printed with "HYD 120")
