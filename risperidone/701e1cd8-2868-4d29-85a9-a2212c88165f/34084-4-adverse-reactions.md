@@ -2,7 +2,7 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.1)]
+- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
 - Cerebrovascular adverse events, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
 - Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
 - Tardive dyskinesia [see Warnings and Precautions (5.4)]
@@ -73,7 +73,7 @@ Adverse Reactions in ≥2% of Risperidone-Treated Adult Patients (and greater th
 | Arthralgia | 2 | 3 | <1 |
 | Pain in extremity | 2 | 1 | 1 |
 | Nervous System Disorders |  |  |  |
-| Parkinsonism Parkinsonism includes extrapyramidal disorder, musculoskeletal stiffness, parkinsonism, cogwheel rigidity, akinesia, bradykinesia, hypokinesia, masked facies, muscle rigidity, and Parkinson's disease. Akathisia includes akathisia and restlessness. Dystonia includes dystonia, muscle spasms, muscle contractions involuntary, muscle contracture, oculogyration, tongue paralysis. Tremor includes tremor and parkinsonian rest tremor. | 14 | 17 | 8 |
+| ParkinsonismParkinsonism includes extrapyramidal disorder, musculoskeletal stiffness, parkinsonism, cogwheel rigidity, akinesia, bradykinesia, hypokinesia, masked facies, muscle rigidity, and Parkinson's disease. Akathisia includes akathisia and restlessness. Dystonia includes dystonia, muscle spasms, muscle contractions involuntary, muscle contracture, oculogyration, tongue paralysis. Tremor includes tremor and parkinsonian rest tremor. | 14 | 17 | 8 |
 | Akathisia | 10 | 10 | 3 |
 | Sedation | 10 | 5 | 2 |
 | Dizziness | 7 | 4 | 2 |
@@ -108,7 +108,7 @@ Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greate
 | Salivary hypersecretion | 0 | 10 | 2 |
 | Nervous System Disorders |  |  |  |
 | Sedation | 24 | 12 | 4 |
-| Parkinsonism Parkinsonism includes extrapyramidal disorder, muscle rigidity, musculoskeletal stiffness, and hypokinesia. Akathisia includes akathisia and restlessness. Dystonia includes dystonia and oculogyration. | 16 | 28 | 11 |
+| ParkinsonismParkinsonism includes extrapyramidal disorder, muscle rigidity, musculoskeletal stiffness, and hypokinesia. Akathisia includes akathisia and restlessness. Dystonia includes dystonia and oculogyration. | 16 | 28 | 11 |
 | Tremor | 11 | 10 | 6 |
 | Akathisia | 9 | 10 | 4 |
 | Dizziness | 7 | 14 | 2 |
@@ -138,7 +138,7 @@ Adverse Reactions in ≥2% of Risperidone-Treated Adult Patients (and greater th
 | General Disorders |  |  |
 | Fatigue | 2 | 1 |
 | Nervous System Disorders |  |  |
-| Parkinsonism Parkinsonism includes extrapyramidal disorder, parkinsonism, musculoskeletal stiffness, hypokinesia, muscle rigidity, muscle tightness, bradykinesia, cogwheel rigidity. Akathisia includes akathisia and restlessness. Tremor includes tremor and parkinsonian rest tremor. Dystonia includes dystonia, muscle spasms, oculogyration, torticollis. | 25 | 9 |
+| ParkinsonismParkinsonism includes extrapyramidal disorder, parkinsonism, musculoskeletal stiffness, hypokinesia, muscle rigidity, muscle tightness, bradykinesia, cogwheel rigidity. Akathisia includes akathisia and restlessness. Tremor includes tremor and parkinsonian rest tremor. Dystonia includes dystonia, muscle spasms, oculogyration, torticollis. | 25 | 9 |
 | Sedation | 11 | 4 |
 | Akathisia | 9 | 3 |
 | Tremor | 6 | 3 |
@@ -167,7 +167,7 @@ Adverse Reactions in ≥2% of Risperidone-Treated Adult Patients (and greater th
 | Infections and Infestations |  |  |
 | Urinary tract infection | 2 | 1 |
 | Nervous System Disorders |  |  |
-| Parkinsonism Parkinsonism includes extrapyramidal disorder, hypokinesia and bradykinesia. Akathisia includes hyperkinesia and akathisia. | 14 | 4 |
+| ParkinsonismParkinsonism includes extrapyramidal disorder, hypokinesia and bradykinesia. Akathisia includes hyperkinesia and akathisia. | 14 | 4 |
 | Sedation | 9 | 4 |
 | Akathisia | 8 | 0 |
 | Dizziness | 7 | 2 |
@@ -206,7 +206,7 @@ Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greate
 | Nervous System Disorders |  |  |  |
 | Sedation | 42 | 56 | 19 |
 | Dizziness | 16 | 13 | 5 |
-| Parkinsonism Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, bradykinesia, and nuchal rigidity. Dystonia includes dystonia, laryngospasm, and muscle spasms. Akathisia includes restlessness and akathisia. | 6 | 12 | 3 |
+| ParkinsonismParkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, bradykinesia, and nuchal rigidity. Dystonia includes dystonia, laryngospasm, and muscle spasms. Akathisia includes restlessness and akathisia. | 6 | 12 | 3 |
 | Dystonia | 6 | 5 | 0 |
 | Akathisia | 0 | 8 | 2 |
 | Psychiatric Disorders |  |  |  |
@@ -251,7 +251,7 @@ Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greate
 | Headache | 12 | 10 |
 | Tremor | 8 | 1 |
 | Dizziness | 8 | 2 |
-| Parkinsonism Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, muscle rigidity, cogwheel rigidity, and muscle tightness. | 8 | 1 |
+| ParkinsonismParkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, muscle rigidity, cogwheel rigidity, and muscle tightness. | 8 | 1 |
 | Renal and Urinary Disorders |  |  |
 | Enuresis | 16 | 10 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |
@@ -415,7 +415,7 @@ Table 17.
 
 Dystonia
 
-Class Effect:Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.

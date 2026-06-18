@@ -2,15 +2,15 @@
 
 ## 7.1 Pharmacokinetic-related Interactions
 
-The dose of risperidone should be adjusted when used in combination with CYP2D6 enzyme inhibitors (e.g., fluoxetine, and paroxetine) and enzyme inducers (e.g., carbamazepine) [see Table 18and Dosage and Administration (2.5)].
+The dose of risperidone should be adjusted when used in combination with CYP2D6 enzyme inhibitors (e.g., fluoxetine, and paroxetine) and enzyme inducers (e.g., carbamazepine) [see Table 18 and Dosage and Administration (2.5)].
 Dose adjustment is not recommended for Risperidone when co-administered with ranitidine, cimetidine, amitriptyline, or erythromycin [see Table 18].
 
 Table 18.
 Summary of Effect of Coadministered Drugs on Exposure to Active Moiety (Risperidone + 9-Hydroxy-Risperidone) in Healthy Subjects or Patients with Schizophrenia
 
-|  | Coadministered Drug | Risperidone | AUC | C max |  |
+|  | Coadministered Drug | Risperidone | AUC | Cmax |  |
 | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dosing Schedule |  | Effect on Active Moiety (Risperidone + 9-Hydroxy-Risperidone (Ratio Change relative to reference) |  | Risperidone Dose Recommendation |
+| Coadministered Drug | Dosing Schedule |  | Effect on Active Moiety (Risperidone + 9-Hydroxy-Risperidone (RatioChange relative to reference) |  | Risperidone Dose Recommendation |
 | Enzyme (CYP2D6) Inhibitors |  |  |  |  |  |
 | Fluoxetine | 20 mg/day | 2 or 3 mg twice daily | 1.4 | 1.5 | Re-evaluate dosing. Do not exceed 8 mg/day |
 | Paroxetine | 10 mg/day | 4 mg/day | 1.3 | - | Re-evaluate dosing. Do not exceed 8 mg/day |
@@ -29,13 +29,13 @@ Effect of Risperidone on Other Drugs
 
 Lithium
 
-Repeated oral doses of risperidone (3 mg twice daily) did not affect the exposure (AUC) or peak plasma concentrations (C max) of lithium (n=13).
+Repeated oral doses of risperidone (3 mg twice daily) did not affect the exposure (AUC) or peak plasma concentrations (Cmax) of lithium (n=13).
 Dose adjustment for lithium is not recommended.
 
 Valproate
 
 Repeated oral doses of risperidone (4 mg once daily) did not affect the pre-dose or average plasma concentrations and exposure (AUC) of valproate (1000 mg/day in three divided doses) compared to placebo (n=21).
-However, there was a 20% increase in valproate peak plasma concentration (C max) after concomitant administration of risperidone.
+However, there was a 20% increase in valproate peak plasma concentration (Cmax) after concomitant administration of risperidone.
 Dose adjustment for valproate is not recommended.
 
 Digoxin
