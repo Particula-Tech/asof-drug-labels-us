@@ -20,13 +20,13 @@ Unit dose (blister pack), Box of 56 capsules (7-day pack) contains: NDC 49502-40
 
 ## 16.2 Storage and Handling
 
-Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F)
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
 
 Protect TOBI Podhaler from moisture.
 
-- •TOBI Podhaler capsules should be used with the Podhaler device only.
+- oTOBI Podhaler capsules should be used with the Podhaler device only.
   The Podhaler device should not be used with any other capsules.
-- •Capsules should always be stored in the blister and each capsule should only be removed immediately before use.
-- •Always use the new Podhaler device provided with each weekly pack.
+- oCapsules should always be stored in the blister and each capsule should only be removed immediately before use.
+- oAlways use the new Podhaler device provided with each weekly pack.
 
 Keep this and all drugs out of the reach of children.

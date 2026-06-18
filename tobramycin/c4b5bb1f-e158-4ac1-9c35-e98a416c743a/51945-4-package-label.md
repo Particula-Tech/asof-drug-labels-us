@@ -17,7 +17,7 @@ This package contains a 4-week supply of capsules: 4 weekly packs x 56 capsules 
 Each capsule contains 28 mg tobramycin with 1,2-distearoyl-sn-glycero-3-phosphocholine (DSPC), calcium chloride, and sulfuric acid (for pH adjustment)
 
 Dosage: See prescribing information.
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F); protect from moisture.
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F); protect from moisture.
 
 Capsules Should Always Be Stored in the Blister and Only Removed Immediately Before Use.
 
@@ -27,13 +27,19 @@ Keep this and all drugs out of the reach of children.
 
 Contents: 4 weekly packs, each containing: 56 capsules (7 blister cards of 8 capsules) 1 Podhaler® device Patient information leaflet 1 Reserve Podhaler® device Prescribing Information
 
-Product of Hungary
+Reserve Podhaler®
 
-Manufactured for: Mylan Specialty L.P.
-Morgantown, WV 26505 U.S.A.
+device
 
-Manufactured by: Mylan Pharmaceuticals Inc. San Carlos, CA 94070 U.S.A.
+Use this if your weekly inhaler is not functioning correctly, is wet, dirty, broken, or has dropped on the ground.
+(See patient information leaflet)
 
-© 2020 Mylan Inc.
+Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-GTIN: 00349502401244 EXP/LOT
+Made in Portugal
+
+© 2026 Viatris Inc.
+
+GTIN: 00349502401244
+
+EXP/LOT

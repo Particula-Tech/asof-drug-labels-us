@@ -13,10 +13,10 @@ Important Information:
   Each blister card has 8 TOBI Podhaler capsules: 4 capsules for inhalation in the morning and 4 capsules for inhalation in the evening.
 - •You must inhale all of the powdered medicine from all 4 TOBI Podhaler capsules to get the full dose.
   If all of the powdered TOBI Podhaler medicine is not inhaled, you will not get the full dose.
-  - •After you have inhaled 2 times from a capsule, remove the capsule from the capsule chamber and hold the used capsule up to the light and look through it.
+  - oAfter you have inhaled 2 times from a capsule, remove the capsule from the capsule chamber and hold the used capsule up to the light and look through it.
     It should be empty with only a fine coating of powder left on the inside surface of the capsule (See Figure S).
-    - •If the capsule is empty, throw it away and continue following the Instructions for Use.
-    - •If the capsule is not empty, see the section “What to do with a capsule that has not been emptied” below for instructions.
+    - ▪If the capsule is empty, throw it away and continue following the Instructions for Use.
+    - ▪If the capsule is not empty, see the section “What to do with a capsule that has not been emptied” below for instructions.
 - •You or a caregiver should tell your healthcare provider as soon as possible if you think you or your child has not received the full TOBI Podhaler dose.
   Your healthcare provider should show you how to use TOBI Podhaler the right way.
   Follow the instructions below for using your TOBI Podhaler.
@@ -24,21 +24,21 @@ Important Information:
   If you have any questions, ask your healthcare provider or pharmacist.
   TOBI Podhaler is available as a 28-day, 7-day, and 1-day supply package.
   Each TOBI Podhaler package contains (See Figure A):
-  - •4 weekly packs (28-day supply), each containing:
-    - •56 capsules (7 blister cards of 8 capsules).
+  - o4 weekly packs (28-day supply), each containing:
+    - ▪56 capsules (7 blister cards of 8 capsules).
       Each blister card contains 8 TOBI Podhaler capsules (4 capsules for inhalation in the morning and 4 capsules for inhalation in the evening).
-    - •1 Podhaler device and its storage case. and
-    - •1 extra (reserve) Podhaler device (to be used if needed) and its storage case.
+    - ▪1 Podhaler device and its storage case. and
+    - ▪1 extra (reserve) Podhaler device (to be used if needed) and its storage case.
 - Or:
-  1. •7-day pack (7-day supply) containing:
-     - •56 capsules (7 blister cards of 8 capsules).
+  1. o7-day pack (7-day supply) containing:
+     - ▪56 capsules (7 blister cards of 8 capsules).
        Each blister card contains 8 TOBI Podhaler capsules (4 capsules for inhalation in the morning and 4 capsules for inhalation in the evening).
-     - •1 Podhaler device and its storage case.
+     - ▪1 Podhaler device and its storage case.
 - Or:
-  1. •1-day pack (1-day supply) containing:
-     - •8 capsules (1 blister card of 8 capsules).
+  1. o1-day pack (1-day supply) containing:
+     - ▪8 capsules (1 blister card of 8 capsules).
        Each blister card contains 8 TOBI Podhaler capsules (4 capsules for inhalation in the morning and 4 capsules for inhalation in the evening).
-     - •1 Podhaler device and its storage case.
+     - ▪1 Podhaler device and its storage case.
 
 Note:
 
@@ -54,9 +54,9 @@ Note:
 - •Small pieces of the capsules can get into your mouth and you may be able to feel these pieces on your tongue.
   These small pieces will not hurt you if you swallow or inhale them.
 - •The extra (reserve) Podhaler device provided in the 28-day supply package may be used if the Podhaler device:
-  - •is wet, dirty, or broken
-  - •has been dropped
-  - •does not seem to be piercing the capsule properly (see Step 17)
+  - ois wet, dirty, or broken
+  - ohas been dropped
+  - odoes not seem to be piercing the capsule properly (see Step 17)
 
 Getting ready:
 
@@ -120,21 +120,21 @@ It should be empty with only a fine coating of powder remaining on the inside su
 What to do with a capsule that has not been emptied:
 
 - •If the capsule is pierced but still contains more than just a fine coating of powder (See Figure T) you must inhale from it again 2 times:
-  - •Put the capsule back into the Podhaler device capsule chamber with the pierced side of the capsule pointing down.
-  - •Screw the mouthpiece back on the Podhaler device by turning it to the right (clockwise) until it is tight.
-  - •Repeat Step 10 to Step 17.
+  - oPut the capsule back into the Podhaler device capsule chamber with the pierced side of the capsule pointing down.
+  - oScrew the mouthpiece back on the Podhaler device by turning it to the right (clockwise) until it is tight.
+  - oRepeat Step 10 to Step 17.
 
 - •If the capsule is not pierced (See Figure U) you must pierce it again and inhale from it 2 times:
-  - •Put the capsule back into the Podhaler device capsule chamber.
-  - •Screw the mouthpiece back on the Podhaler device by turning it to the right (clockwise) until it is tight.
-  - •Repeat Step 9 to Step 17 making sure to press the blue button all the way down.
+  - oPut the capsule back into the Podhaler device capsule chamber.
+  - oScrew the mouthpiece back on the Podhaler device by turning it to the right (clockwise) until it is tight.
+  - oRepeat Step 9 to Step 17 making sure to press the blue button all the way down.
 
 - Note: If you have tried to pierce the capsule 2 times and it is still not pierced, use the extra (reserve) Podhaler device provided in the TOBI Podhaler package instead (only available in the 28-day supply package).
   If you need a new device, ask your healthcare provider.
 
 - 
-  - •Prepare the extra (reserve) Podhaler device by following Step 1 to Step 3.
-  - •Then using the same capsule, repeat Step 7 to Step 17.
+  - oPrepare the extra (reserve) Podhaler device by following Step 1 to Step 3.
+  - oThen using the same capsule, repeat Step 7 to Step 17.
 
 Step 18: Repeat Step 5 to Step 17 for 3 more times until your full dose (4 capsules) has been taken (See Figure V).
 
@@ -162,13 +162,13 @@ How should I store TOBI Podhaler?
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-© 2020 Mylan Inc.
+© 2026 Viatris Inc.
 
-Tobi® and Podhaler® are registered trademarks of BGP Products Operations GmbH, a Mylan company.
+Tobi® and Podhaler® are registered trademarks of BGP Products Operations GmbH, a Viatris Company.
 
-Manufactured for: Mylan Specialty L.P.
-Morgantown, WV 26505 U.S.A.
+Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Mylan Pharmaceuticals Inc. 150 Industrial Road San Carlos, CA 94070 U.S.A.
+Manufactured by: Hovione FarmaCiencia, S.A.
+Quinta Sao Pedro Sete Casas 2674-506 Loures Portugal
 
-Revised: 2/2023 N:TOBRIP:R4/PI:TOBRIP:R4/IFU:TOBRIP:R2
+Revised: 4/2026 VSL:TOBRIP:R1/VSL:PIL:TOBRIP:R1/VSL:IFU:TOBRIP:R1

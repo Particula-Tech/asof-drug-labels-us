@@ -11,7 +11,7 @@ Ototoxicity with use of TOBI Podhaler
 
 Caution should be exercised when prescribing TOBI Podhaler to patients with known or suspected auditory or vestibular dysfunction.
 
-Ototoxicity, as measured by complaints of hearing loss or tinnitus, was reported by patients in the TOBI Podhaler clinical studies [seeAdverse Reactions (6.1)].
+Ototoxicity, as measured by complaints of hearing loss or tinnitus, was reported by patients in the TOBI Podhaler clinical studies [see Adverse Reactions (6.1)].
 Tinnitus may be a sentinel symptom of ototoxicity, and therefore the onset of this symptom warrants caution.
 Ototoxicity, manifested as both auditory (hearing loss) and vestibular toxicity, has been reported with parenteral aminoglycosides.
 Vestibular toxicity may be manifested by vertigo, ataxia or dizziness.
