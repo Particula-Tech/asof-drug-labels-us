@@ -64,7 +64,9 @@ Also instruct women to promptly notify their healthcare providers if they experi
 
 Discontinuing SUBVENITE
 
-Instruct patients to contact their healthcare providers before stopping SUBVENITE for any reason and to consult with their healthcare providers before resuming SUBVENITE Aseptic Meningitis
+Instruct patients to contact their healthcare providers before stopping SUBVENITE for any reason and to consult with their healthcare providers before resuming SUBVENITE.
+
+Aseptic Meningitis
 
 Inform patients that SUBVENITE may cause aseptic meningitis.
 Instruct them to notify their healthcare providers immediately if they develop signs and symptoms of meningitis such as headache, fever, nausea, vomiting, stiff neck, rash, abnormal sensitivity to light, myalgia, chills, confusion, or drowsiness while taking SUBVENITE.
@@ -81,4 +83,4 @@ To avoid a medication error of using the wrong drug or formulation, strongly adv
 | Manufactured by: |
 | DPT Laboratories, Ltd 307 E Josephine Street, San Antonio, TX 78215. |
 
-8082096 OWOSSUBOSPI0126
+8082096 OWOSSUBOSPI0626
