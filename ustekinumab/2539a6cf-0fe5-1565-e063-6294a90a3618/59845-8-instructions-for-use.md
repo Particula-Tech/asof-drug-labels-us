@@ -99,7 +99,7 @@ Step 3: Injecting IMULDOSA
 
 Figure D
 
-- Hold the body of the prefilled syringe in one hand between the thumb and index fingers.
+- Hold the body of the prefilled syringe in 1 hand between the thumb and index fingers.
   (See Figure E)
 
 Figure E

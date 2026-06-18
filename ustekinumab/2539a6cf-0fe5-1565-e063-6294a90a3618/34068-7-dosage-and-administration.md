@@ -46,25 +46,43 @@ Table 2: Recommended Dose of IMULDOSA for Subcutaneous Injection in Pediatric Pa
 
 There is no dosage form for IMULDOSA that allows weight-based dosing for pediatric patients below 60 kg.
 
-## 2.3 Recommended Dosage in Crohn’s Disease and Ulcerative Colitis
+## 2.3 Recommended Adult Dosage in Crohn’s Disease
 
 Intravenous Induction Adult Dosage Regimen
 
-A single intravenous infusion dose of IMULDOSA using the weight-based dosage regimen specified in Table 3 [see Instructions for dilution of IMULDOSA 130 mg vial for intravenous infusion (2.5)].
+The recommended induction dosage is a single intravenous infusion using the weight-based dosage regimen specified in Table 3 [see Dosage and Administration (2.6)]
 
-Table 3: Initial Intravenous Dosage of IMULDOSA
+Table 3: Initial Intravenous Dosage of IMULDOSA in Adult Patients with Crohn’s Disease
 
-| Body Weight of Patient at the time of dosing | Dose | Number of 130 mg/26 mL (5 mg/mL) IMULDOSA vials |
+| Body Weight of Patient at the Time of Dosing | Dose |  |
 | --- | --- | --- |
-| 55 kg or less | 260 mg | 2 |
-| more than 55 kg to 85 kg | 390 mg | 3 |
-| more than 85 kg | 520 mg | 4 |
+| 55 kg or less | 260 mg |  |
+| greater than 55 kg to 85 kg | 390 mg |  |
+| greater than 85 kg | 520 mg |  |
 
 Subcutaneous Maintenance Adult Dosage Regimen
 
 The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 weeks after the initial intravenous dose, then every 8 weeks thereafter.
 
-## 2.4 General Considerations for Administration
+## 2.4 Recommended Dosage in Ulcerative Colitis
+
+Intravenous Induction Adult Dosage Regimen
+
+The recommended induction dosage is a single intravenous infusion using the weight-based dosage regimen specified in Table 4 [see Dosage and Administration (2.6)]
+
+Table 4: Initial Intravenous Dosage of WEZLANA in Adult Patients with Ulcerative Colitis
+
+| Body Weight of Patient at the Time of Dosing | Dose |
+| --- | --- |
+| 55 kg or less | 260 mg |
+| greater than 55 kg to 85 kg | 390 mg |
+| greater than 85 kg | 520 mg |
+
+Subcutaneous Maintenance Adult Dosage Regimen
+
+The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 weeks after the initial intravenous dose, then every 8 weeks thereafter.
+
+## 2.5 General Considerations for Administration
 
 - IMULDOSA is intended for use under the guidance and supervision of a healthcare provider.
   IMULDOSA should only be administered to patients who will be closely monitored and have regular follow-up visits with a healthcare provider.
@@ -78,11 +96,11 @@ The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 w
   Do not use IMULDOSA if it is discolored or cloudy, or if other particulate matter is present.
   IMULDOSA does not contain preservatives; therefore, discard any unused product remaining in the vial and/or syringe.
 
-## 2.5 Preparation and Administration of IMULDOSA 130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn’s Disease and Ulcerative Colitis)
+## 2.6 Preparation and Administration of IMULDOSA 130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn’s Disease and Ulcerative Colitis)
 
 IMULDOSA solution for intravenous infusion must be diluted, prepared and infused by a healthcare professional using aseptic technique.
 
-1. Calculate the dose and the number of IMULDOSA vials needed based on patient weight (Table 3).
+1. Calculate the dose and the number of IMULDOSA vials needed based on patient weight (Table 3 and Table 4).
    Each 26 mL vial of IMULDOSA contains 130 mg of ustekinumab-srlf.
 2. Withdraw, and then discard a volume of the 0.9% Sodium Chloride Injection, USP from the 250 mL infusion bag equal to the volume of IMULDOSA to be added (discard 26 mL sodium chloride for each vial of IMULDOSA needed, for 2 vials- discard 52 mL, for 3 vials- discard 78 mL, 4 vials- discard 104 mL).
    Alternatively, a 250 mL infusion bag containing 0.45% Sodium Chloride Injection, USP may be used.
@@ -96,8 +114,7 @@ IMULDOSA solution for intravenous infusion must be diluted, prepared and infused
    Once diluted, the infusion should be completely administered within eight hours of the dilution in the infusion bag.
 6. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
 7. Do not infuse IMULDOSA concomitantly in the same intravenous line with other agents.
-8. 8.
-   IMULDOSA does not contain preservatives.
+8. IMULDOSA does not contain preservatives.
    Each vial is for one-time use in only one patient.
    Discard any remaining solution.
    Dispose any unused medicinal product in accordance with local requirements.

@@ -37,7 +37,7 @@ Closely monitor patients receiving IMULDOSA for signs and symptoms of active tub
 
 Ustekinumab products are immunosuppressants and may increase the risk of malignancy.
 Malignancies were reported among subjects who received Ustekinumab in clinical trials [see Adverse Reactions (6.1)].
-In rodent models, inhibition of IL-12/IL-23p40 increased the risk of malignancy [see Nonclinical Toxicology (13)].
+In rodent models, inhibition of IL-12/IL-23p40 increased the risk of malignancy [see Nonclinical Toxicology (13.1)].
 
 The safety of Ustekinumab products has not been evaluated in patients who have a history of malignancy or who have a known malignancy.
 There have been post-marketing reports of the rapid appearance of multiple cutaneous squamous cell carcinomas in patients receiving ustekinumab products who had pre-existing risk factors for developing non-melanoma skin cancer.
@@ -67,7 +67,6 @@ Prior to initiating therapy with IMULDOSA, patients should receive all age-appro
 Patients being treated with IMULDOSA should avoid receiving live vaccines.
 Avoid administering BCG vaccines during treatment with IMULDOSA or for one year prior to initiating treatment or one year following discontinuation of treatment.
 Caution is advised when administering live vaccines to household contacts of patients receiving IMULDOSA because of the potential risk for shedding from the household contact and transmission to patient.
-
 Non-live vaccinations received during a course of IMULDOSA may not elicit an immune response sufficient to prevent disease.
 
 ## 5.8 Noninfectious Pneumonia

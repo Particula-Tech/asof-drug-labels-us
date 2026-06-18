@@ -21,22 +21,22 @@ The PGA is a 6-category scale ranging from 0 (cleared) to 5 (severe) that indica
 
 Clinica Response
 
-The results of Ps STUDY 1 and Ps STUDY 2 are presented in Table 7 below.
+The results of Ps STUDY 1 and Ps STUDY 2 are presented in Table 8 below.
 
-Table 7: Clinical Outcomes at week 12 in Adults with Plaque Psoriasis in Ps STUDY 1 and Ps STUDY 2
+Table 8: Clinical Outcomes at week 12 in Adults with Plaque Psoriasis in Ps STUDY 1 and Ps STUDY 2
 
 | Week 12 | Ps STUDY 1 Ustekinumab |  |  | Ps STUDY 2 Ustekinumab |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Placebo | 45 mg | 90 mg | Placebo | 45 mg | 90 mg |  |
 | Subjects randomized | 255 | 255 | 256 | 410 | 409 | 411 |
 | PASI 75 response | 8 (3%) | 171 (67%) | 170 (66%) | 15 (4%) | 273 (67%) | 311 (76%) |
-| PG A of Cleared or Minimal | 10 (4%) | 151 (59%) | 156 (61%) | 18 (4%) | 277 (68%) | 300 (73%) |
+| PGA ofCleared or Minimal | 10 (4%) | 151 (59%) | 156 (61%) | 18 (4%) | 277 (68%) | 300 (73%) |
 
 Examination of age, gender, and race subgroups did not identify differences in response to ustekinumab among these subgroups.
 
-In subjects who weighed 100 kg or less, response rates were comparable with both the 45 mg and 90 mg doses; however, in subjects who weighed greater than 100 kg, higher response rates were seen with 90 mg dosing compared with 45 mg dosing (Table 8 below).
+In subjects who weighed 100 kg or less, response rates were comparable with both the 45 mg and 90 mg doses; however, in subjects who weighed greater than 100 kg, higher response rates were seen with 90 mg dosing compared with 45 mg dosing (Table 9 below).
 
-Table 8: Clinical Outcomes by Weight at week 12 in Adult Subjects with Plaque Psoriasis in Ps STUDY 1 and Ps STUDY 2
+Table 9: Clinical Outcomes by Weight at week 12 in Adult Subjects with Plaque Psoriasis in Ps STUDY 1 and Ps STUDY 2
 
 |  | Ps STUDY 1 Ustekinumab |  |  | Ps STUDY 2 Ustekinumab |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -73,9 +73,9 @@ Subjects were followed for up to 60 weeks following first administration of tria
 
 Clinical Response
 
-The efficacy results at Week 12 for Ps STUDY 3 are presented in Table 9.
+The efficacy results at Week 12 for Ps STUDY 3 are presented in Table 10.
 
-Table 9: Efficacy Results at Week 12 in pediatric subjects 12 Years of Age and Older with Plaque Psoriasis in Ps STUDY 3
+Table 10: Efficacy Results at Week 12 in pediatric subjects 12 Years of Age and Older with Plaque Psoriasis in Ps STUDY 3
 
 |  | Ps STUDY 3 |  |
 | --- | --- | --- |
@@ -110,7 +110,7 @@ ACR 70 responses were also higher in the ustekinumab 45 mg and 90 mg groups, alt
 Responses were consistent in subjects treated with ustekinumab alone or in combination with methotrexate.
 Responses were similar in subjects regardless of prior TNFα exposure.
 
-Table 10: ACR 20, ACR 50, ACR 70 and PASI 75 responses in PsA STUDY 1 and PsA STUDY 2 at Week 24
+Table 11: ACR 20, ACR 50, ACR 70 and PASI 75 responses in PsA STUDY 1 and PsA STUDY 2 at Week 24
 
 |  | Ps STUDY 1 Ustekinumab |  |  | Ps STUDY 2 Ustekinumab |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -129,7 +129,7 @@ Figure 1: Percent of patients achieving ACR 20 response through Week 24
 
 The results of the components of the ACR response criteria are shown in Table 11.
 
-Table 11: Mean change from baseline in ACR components at Week 24
+Table 12: Mean change from baseline in ACR components at Week 24
 
 |  | PsA STUDY 1 Ustekinumab |  |  |
 | --- | --- | --- | --- |
@@ -184,7 +184,7 @@ The median baseline CDAI score was 286 in the ustekinumab and 290 in the placebo
 In these induction trials, a greater proportion of subjects treated with ustekinumab (at the recommended dose of approximately 6 mg/kg dose) achieved clinical response at Week 6 and clinical remission at Week 8 compared to placebo (see Table 12 for clinical response and remission rates).
 Clinical response and remission were significant as early as Week 3 in ustekinumab -treated subjects and continued to improve through Week 8.
 
-Table 12: Induction of Clinical Response and Remission in CD-1* and CD-2**
+Table 13: Induction of Clinical Response and Remission in CD-1* and CD-2**
 
 |  | CD-1 n = 741 |  |  | CD-2 n = 627 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -197,7 +197,7 @@ Table 12: Induction of Clinical Response and Remission in CD-1* and CD-2**
 | Clinical remission is defined as CDAI score < 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission: 70 point response is defined as reduction in CDAI score by at least 70 points * Patient population consisted of patients who failed or were intolerant to TNF blocker therapy ** Patient population consisted of patients who failed or were intolerant to corticosteroids or immunomodulators (e.g., 6-MP, AZA, MTX) and previously received but not failed a TNF blocker or were never treated with a TNF blocker. † Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 3. a0.001≤ p < 0.01 bp < 0.001 |  |  |  |  |  |  |
 
 Trial CD-3 The maintenance trial (CD-3), evaluated 388 subjects who achieved clinical response (≥100 point reduction in CDAI score) at Week 8 with either induction dose of ustekinumab in trials CD-1 or CD-2.
-Subjects were randomized to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks or placebo for 44 weeks (see Table 13).
+Subjects were randomized to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks or placebo for 44 weeks (see Table 14).
 
 Table 13: Clinical Response and Remission in CD-3 (Week 44; 52 weeks from initiation of the induction dose)
 
@@ -244,9 +244,9 @@ Clinical remission with a definition of: Mayo stool frequency subscore of 0 or 1
 The secondary endpoints were clinical response, endoscopic improvement, and histologic-endoscopic mucosal improvement.
 Clinical response with a definition of (≥ 2 points and ≥ 30% decrease in modified Mayo score, defined as 3-component Mayo score without the Physician’s Global Assessment, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1), endoscopic improvement with a definition of Mayo endoscopy subscore of 0 or 1, and histologic-endoscopic mucosal improvement with a definition of combined endoscopic improvement and histologic improvement of the colon tissue [neutrophil infiltration in <5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue] are provided in Table 14.
 
-In UC-1, a significantly greater proportion of subjects treated with ustekinumab (at the recommended dose of approximately 6 mg/kg dose) were in clinical remission and response and achieved endoscopic improvement and histologic-endoscopic mucosal improvement compared to placebo (see Table 14).
+In UC-1, a significantly greater proportion of subjects treated with ustekinumab (at the recommended dose of approximately 6 mg/kg dose) were in clinical remission and response and achieved endoscopic improvement and histologic-endoscopic mucosal improvement compared to placebo (see Table 15).
 
-Table 14: Proportion of Subjects Meeting Efficacy Endpoints at Week 8 in UC-1
+Table 15: Proportion of Subjects Meeting Efficacy Endpoints at Week 8 in UC-1
 
 | Endpoint | Placebo N = 319 |  | Ustekinumab† N = 322 |  | Treatmentdifferenceand 97.5% CIa |
 | --- | --- | --- | --- | --- | --- |
@@ -275,9 +275,9 @@ These subjects were randomized to receive a subcutaneous maintenance regimen of 
 The primary endpoint was the proportion of subjects in clinical remission at Week 44.
 The secondary endpoints included the proportion of subjects maintaining clinical response at Week 44, the proportion of subjects with endoscopic improvement at Week 44, the proportion of subjects with corticosteroid-free clinical remission at Week 44, and the proportion of subjects maintaining clinical remission at Week 44 among subjects who achieved clinical remission 8 weeks after induction.
 
-Results of the primary and secondary endpoints at Week 44 in subjects treated with ustekinumab at the recommended dosage (90 mg every 8 weeks) compared to the placebo are shown in Table 15.
+Results of the primary and secondary endpoints at Week 44 in subjects treated with ustekinumab at the recommended dosage (90 mg every 8 weeks) compared to the placebo are shown in Table 16.
 
-Table 15: Efficacy Endpoints of Maintenance at Week 44 in UC-2 (52 Weeks from Initiation of the Induction Dose)
+Table 16: Efficacy Endpoints of Maintenance at Week 44 in UC-2 (52 Weeks from Initiation of the Induction Dose)
 
 | End point | Placebo* N = 175† |  | 90mgUstekinumab every8weeks N = 176 |  | Treatmentdifferenceand 95% CI |
 | --- | --- | --- | --- | --- | --- |

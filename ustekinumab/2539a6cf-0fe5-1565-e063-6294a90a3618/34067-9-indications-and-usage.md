@@ -12,6 +12,6 @@ IMULDOSA is indicated for the treatment of adults and pediatric patients 6 years
 
 IMULDOSA is indicated for the treatment of adult patients with moderately to severely active Crohn’s disease.
 
-## 1.4 Ulcerative Colitis
+## 1.4 Ulcerative Colitis (UC)
 
 IMULDOSA is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis.

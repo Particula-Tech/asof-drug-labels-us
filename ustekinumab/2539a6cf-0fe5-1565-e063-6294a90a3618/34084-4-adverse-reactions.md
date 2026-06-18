@@ -13,9 +13,9 @@ The following serious adverse reactions are discussed elsewhere in the label:
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Adult Subjects with Plaque Psoriasis The safety data reflect exposure to Ustekinumab in 3117 adult subjects with plaque psoriasis, including 2414 exposed for at least 6 months, 1855 exposed for at least one year, 1653 exposed for at least two years, 1569 exposed for at least three years, 1482 exposed for at least four years and 838 exposed for at least five years.
-Table 4 summarizes the adverse reactions that occurred at a rate of at least 1% with higher rates in the Ustekinumab groups during the placebo-controlled period of Ps STUDY 1 and Ps STUDY 2 [see Clinical Studies(14)].
+Table 5 summarizes the adverse reactions that occurred at a rate of at least 1% with higher rates in the Ustekinumab groups during the placebo-controlled period of Ps STUDY 1 and Ps STUDY 2 [see Clinical Studies(14)].
 
-Table 4: Adverse Reactions, Reported by ≥1% of Subjects with Plaque Psoriasis and at Higher Rates in the Ustekinumab groups through Week 12 in Ps STUDY 1 and Ps STUDY 2
+Table 5: Adverse Reactions, Reported by ≥1% of Subjects with Plaque Psoriasis and at Higher Rates in the Ustekinumab groups through Week 12 in Ps STUDY 1 and Ps STUDY 2
 
 |  |  | Ustekinumab |  |
 | --- | --- | --- | --- |
@@ -56,7 +56,7 @@ Psoriatic Arthritis The safety of ustekinumab was assessed in 927 subjects in tw
 The overall safety profile of ustekinumab in subjects with PsA was consistent with the safety profile seen in clinical trials in adult subjects with plaque psoriasis.
 A higher incidence of arthralgia, nausea, and dental infections was observed in ustekinumab-treated subjects when compared with placebo-treated subjects (3% vs. 1% for arthralgia and 3% vs. 1% for nausea; 1% vs. 0.6% for dental infections) in the placebo- controlled portions of the PsA clinical trials.
 
-Crohn’s Disease The safety of ustekinumab was assessed in 1407 subjects with moderately to severely active Crohn’s disease (Crohn’s Disease Activity Index [CDAI] greater than or equal to 220 and less than or equal to 450) in three randomized, double- blind, placebo-controlled, parallel-group, multicenter trials.
+Adult Subjects with Crohn’s Disease The safety of ustekinumab was assessed in 1407 subjects with moderately to severely active Crohn’s disease (Crohn’s Disease Activity Index [CDAI] greater than or equal to 220 and less than or equal to 450) in three randomized, double- blind, placebo-controlled, parallel-group, multicenter trials.
 These 1407 subjects included 40 subjects who received a prior investigational intravenous ustekinumab formulation but were not included in the efficacy analyses.
 In trials CD-1 and CD-2 there were 470 subjects who received ustekinumab 6 mg/kg as a weight-based single intravenous induction dose and 466 who received placebo [see Dosage and Administration(2.3)].
 Subjects who were responders in either trial CD-1 or CD-2 were randomized to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, or placebo for 44 weeks in trial CD-3.
@@ -64,7 +64,7 @@ Subjects in these 3 trials may have received other concomitant therapies includi
 The overall safety profile of ustekinumab was consistent with the safety profile seen in the clinical trials in adult subjects with plaque psoriasis and psoriatic arthritis.
 Common adverse reactions in trials CD-1 and CD-2 and in trial CD-3 are listed in Tables 5 and 6, respectively.
 
-Table 5:Common adverse reactions through Week 8 in trials CD-1 and CD-2 occurring in ≥3% of ustekinumab-treated subjects and higher than subjects receiving placebo
+Table 6:Common adverse reactions through Week 8 in trials CD-1 and CD-2 occurring in ≥3% of ustekinumab-treated subjects and higher than subjects receiving placebo
 
 |  | Placebo N=466 | Ustekinumab 6 mg/kg single intravenous induction dose N=470 |
 | --- | --- | --- |
@@ -74,7 +74,7 @@ Other less common adverse reactions reported in subjects in trials CD-1 and CD-2
 
 Table 6: Common adverse reactions through Week 44 in trial CD-3 occurring in ≥3% of ustekinumab-treated subjects and higher than subjects receiving placebo
 
-|  | Placebo N=133 | Ustekinumab90 mg subcutaneous maintenance dose every 8 weeks N=131 |
+|  | Placebo N=133 | Ustekinumab 90 mg subcutaneous maintenance dose every 8 weeks N=131 |
 | --- | --- | --- |
 | Nasopharyngitis | 8% | 11% |
 | Injection site erythema | 0 | 5% |
