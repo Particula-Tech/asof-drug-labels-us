@@ -12,4 +12,4 @@ Distributed by Hospira, Inc. Lake Forest, IL 60045
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-LAB-1531-2.0
+LAB-1531-3.0

@@ -48,15 +48,26 @@ In adult subjects, withdrawal symptoms were not seen after discontinuation of sh
 
 In pediatric patients, mild transient withdrawal symptoms of emergence delirium or agitation were seen after discontinuation of short‑term infusions of PRECEDEX (<2 hours) [see Adverse Reactions (6.1)].
 
-## 5.6 Tolerance and Tachyphylaxis
+## 5.6 Diabetes Insipidus
+
+Cases of diabetes insipidus (DI) have been reported with use of dexmedetomidine in the setting of sedation.
+Signs of DI in this setting include polyuria (output >125 mL/hr), diluted urine (osmolality <300 mOsm/kg), and hypernatremia (serum sodium >145 mmol/L).
+If unrecognized, this condition can lead to hemodynamic instability including unstable blood pressure and increased risk of other cardiovascular sequelae.
+
+In reported cases, signs of DI have spontaneously resolved following discontinuation of dexmedetomidine, with resolution often occurring after 24 hours.
+Monitor urine output and laboratory data for signs of DI during and after dexmedetomidine administration.
+If DI is suspected, adjust fluid management, provide supportive care, and consider discontinuing dexmedetomidine.
+If such care is insufficient, or in a setting where dexmedetomidine is used for an extended treatment period, consider expert consultation to assist with patient management.
+
+## 5.7 Tolerance and Tachyphylaxis
 
 Use of dexmedetomidine beyond 24 hours has been associated with tolerance and tachyphylaxis and a dose-related increase in adverse reactions [see Adverse Reactions (6.1)].
 
-## 5.7 Hyperthermia or Pyrexia
+## 5.8 Hyperthermia or Pyrexia
 
 PRECEDEX may induce hyperthermia or pyrexia, which may be resistant to traditional cooling methods, such as administration of cooled intravenous fluids and antipyretic medications.
 Discontinue PRECEDEX if drug-related hyperthermia or pyrexia is suspected and monitor patients until body temperature normalizes.
 
-## 5.8 Hepatic Impairment
+## 5.9 Hepatic Impairment
 
 Since PRECEDEX clearance decreases with severity of hepatic impairment, dose reduction should be considered in patients with impaired hepatic function [see Dosage and Administration (2.2, 2.3)].
