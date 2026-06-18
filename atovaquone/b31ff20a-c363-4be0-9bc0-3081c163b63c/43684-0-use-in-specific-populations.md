@@ -1,6 +1,4 @@
-# 8 USE IN SPECIFIC POPULATIONS
-
-## 8.1 Pregnancy
+# 8.1 Pregnancy
 
 Risk Summary
 
@@ -25,21 +23,22 @@ Atovaquone crossed the placenta and was present in fetal rat and rabbit tissue.
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV-1 infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
 There are no data on the presence of atovaquone in human milk, the effects on the breastfed child, or the effects on milk production.
 Atovaquone was detected in rat milk when lactating rats were administered oral atovaquone (see Data).
 When a drug is present in animal milk, it is likely the drug will be present in human milk.
-Because of the potential for HIV-1 transmission to HIV-negative infants, instruct mothers with HIV-1 not to breastfeed if they are taking atovaquone for the prevention or treatment of PCP.
+
+For women with HIV-1, potential risks of breastfeeding include HIV-1 transmission (in infants without HIV-1).
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for atovaquone oral suspension and any potential adverse effects on the breastfed child from atovaquone oral suspension or from the underlying maternal condition.
 
 Data In a rat study with doses of 10 and 250 mg/kg given orally by gavage on postpartum Day 11, atovaquone concentrations in the milk were 30% of the concurrent atovaquone concentrations in the maternal plasma at both doses.
 The concentration of drug in animal milk does not necessarily predict the concentration of drug in human milk.
 
-## 8.4 Pediatric Use
+### 8.4 Pediatric Use
 
 Evidence of safety and effectiveness in pediatric patients (aged 12 years and younger) has not been established.
 In a trial of atovaquone oral suspension administered once daily with food for 12 days to 27 HIV-1-infected, asymptomatic infants and children aged between 1 month and 13 years, the pharmacokinetics of atovaquone were age-dependent.
 The average steady-state plasma atovaquone concentrations in the 24 subjects with available concentration data are shown in Table 5.
 
-## 8.5 Geriatric Use
+#### 8.5 Geriatric Use
 
 Clinical trials of atovaquone did not include sufficient numbers of subjects aged 65 years and older to determine whether they respond differently from younger subjects.
