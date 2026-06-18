@@ -13,39 +13,32 @@ Hypotension necessitating alterations in intravenous amiodarone therapy was repo
 Treat hypotension initially by slowing the infusion; additional standard therapy may be needed, including the following: vasopressor drugs, positive inotropic agents, and volume expansion.
 Monitor the initial rate of infusion closely and do not exceed the recommended rate [see Dosage and Administration (2)].
 
-## 5.3 Primary Graft Dysfunction (PGD) Post Cardiac Transplant
+## 5.3 Bradycardia and Atrioventricular Block
 
-In retrospective studies, amiodarone use in transplant recipients prior to heart transplants has been associated with an increased risk of PGD.
-PGD is a life-threatening complication of heart transplantation that presents as a left, right or biventricular dysfunction occurring within the first 24 hours of transplant surgery for which there is no identifiable secondary cause (see section 6.2).
-Severe PGD may be irreversible.
-For patients who are on the heart transplant waiting list, consideration should be given to use an alternative antiarrhythmic drug as early as possible before transplant.
-
-## 5.4 Bradycardia and Atrioventricular Block
-
-NEXTERONE Premixed Injection causes bradycardia and AV block which may require slowing the infusion rate or discontinuing NEXTERONE.
+NEXTERONE causes bradycardia and AV block which may require slowing the infusion rate or discontinuing NEXTERONE.
 In some patients, inserting a pacemaker is required.
 Have a temporary pacemaker available when treating a patient predisposed to bradycardia or AV block.
 
-## 5.5 Hepatic Injury
+## 5.4 Hepatic Injury
 
 Acute hepatocellular necrosis leading to hepatic coma, acute renal failure, and death has been associated with the administration of intravenous amiodarone.
 Intravenous infusions at much higher concentrations and rates of infusion than those recommended appear to increase this risk [see Dosage and Administration (2)].
 
-Carefully monitor patients receiving NEXTERONE Premixed Injection for evidence of progressive hepatic injury.
-Consider reducing the rate of administration or withdrawing NEXTERONE Premixed Injection if hepatic injury occurs.
+Carefully monitor patients receiving NEXTERONE for evidence of progressive hepatic injury.
+Consider reducing the rate of administration or withdrawing NEXTERONE if hepatic injury occurs.
 
-## 5.6 Proarrhythmia
+## 5.5 Proarrhythmia
 
-NEXTERONE Premixed Injection may cause a worsening of existing arrhythmias or precipitate a new arrhythmia, sometimes leading to fatal outcomes [see Adverse Reactions (6.2)].
+NEXTERONE may cause a worsening of existing arrhythmias or precipitate a new arrhythmia, sometimes leading to fatal outcomes [see Adverse Reactions (6.2)].
 Proarrhythmia, primarily torsade de pointes (TdP), has been associated with prolongation, by intravenous amiodarone.
 Although QTc prolongation occurred frequently in patients receiving intravenous amiodarone, TdP or new-onset VF occurred infrequently (less than 2%).
-Monitor patients for QTc prolongation during infusion with NEXTERONE Premixed Injection.
+Monitor patients for QTc prolongation during infusion with NEXTERONE.
 Reserve the combination of amiodarone with other antiarrhythmic therapies that prolong the QTc to patients with life-threatening ventricular arrhythmias who are incompletely responsive to a single agent.
 
-Correct hypokalemia, hypomagnesemia or hypocalcemia whenever possible before initiating treatment with NEXTERONE Premixed Injection, as these disorders can exaggerate the degree of QTc prolongation and increase the potential for TdP.
+Correct hypokalemia, hypomagnesemia or hypocalcemia whenever possible before initiating treatment with NEXTERONE, as these disorders can exaggerate the degree of QTc prolongation and increase the potential for TdP.
 Give special attention to electrolyte and acid-base balance in patients experiencing severe or prolonged diarrhea or in patients receiving concomitant diuretics and laxatives.
 
-## 5.7 Pulmonary Injury
+## 5.6 Pulmonary Injury
 
 Early-onset Pulmonary Toxicity There have been postmarketing reports of acute-onset (days to weeks) pulmonary injury in patients treated with intravenous amiodarone.
 Findings have included pulmonary infiltrates and masses on X-ray, pulmonary fibrosis, bronchospasm, wheezing, fever, dyspnea, cough, hemoptysis, and hypoxia.
@@ -55,7 +48,7 @@ Some cases have progressed to respiratory failure or death.
 Monitor for new respiratory symptoms and evaluate appropriately.
 Obtain a baseline chest X-ray and pulmonary function tests in patients who are expected to be receiving amiodarone chronically.
 
-## 5.8 Loss of Vision
+## 5.7 Loss of Vision
 
 Cases of optic neuropathy and optic neuritis, usually resulting in visual impairment, have been reported in patients treated with oral amiodarone or intravenous amiodarone.
 In some cases, visual impairment has progressed to permanent blindness.
@@ -63,9 +56,9 @@ Optic neuropathy and neuritis may occur at any time following initiation of ther
 Perform an ophthalmic examination if symptoms of visual impairment appear, such as changes in visual acuity and decreases in peripheral vision.
 Re-evaluate the necessity of amiodarone therapy if optic neuropathy or neuritis is suspected.
 
-## 5.9 Thyroid Abnormalities
+## 5.8 Thyroid Abnormalities
 
-NEXTERONE Premixed Injection inhibits peripheral conversion of throxine (T4) to triiodothyronine (T3) and may cause increased T3 levels, and increased levels of inactive reverse T3 (rT3) in clinically euthyroid patients.
+Nexterone inhibits peripheral conversion of throxine (T4) to triiodothyronine (T3) and may cause increased T3 levels, and increased levels of inactive reverse T3 (rT3) in clinically euthyroid patients.
 Monitor thyroid function prior to treatment and periodically thereafter, particularly in elderly patients, and in any patient with a history of thyroid nodules, goiter, or other thyroid dysfunction.
 
 Hyperthyroidism may induce arrhythmia breakthrough.
@@ -75,21 +68,21 @@ Antithyroid drugs, β-adrenergic blockers, temporary corticosteroid therapy may 
 The action of antithyroid drugs may be delayed in amiodarone-induced thyrotoxicosis because of substantial quantities of preformed thyroid hormones stored in the gland.
 Radioactive iodine therapy is contraindicated because of the low radioiodine uptake associated with amiodarone-induced hyperthyroidism.
 
-NEXTERONE Premixed Injection induced hyperthyroidism may be followed by a transient period of hypothyroidism.
+Nexterone-induced hyperthyroidism may be followed by a transient period of hypothyroidism.
 In some clinically hypothyroid amiodarone-treated patients, free thyroxine index values may be normal.
 Manage hypothyroidism by reducing the dose of or discontinuing amiodarone and thyroid hormone supplementation.
 
-## 5.10 Neonatal Injury
+## 5.9 Neonatal Injury
 
 Amiodarone can cause fetal harm when administered to a pregnant woman.
 Fetal exposure may increase the potential for adverse experiences including cardiac, thyroid, neurodevelopmental, neurological and growth effects in neonate.
-Inform the patient of the potential hazard to the fetus if NEXTERONE Premixed Injection is administered during pregnancy or if the patient becomes pregnant while taking NEXTERONE [see Pregnancy (8.1)].
+Inform the patient of the potential hazard to the fetus if NEXTERONE is administered during pregnancy or if the patient becomes pregnant while taking NEXTERONE [see Pregnancy (8.1)].
 
-## 5.11 Hypersensitivity Reactions
+## 5.10 Hypersensitivity Reactions
 
 Anaphylactic/anaphylactoid reactions have been reported with intravenous amiodarone including shock (sometimes fatal), cardiac arrest, and the following manifestations: hypotension, tachycardia, hypoxia, cyanosis, rash, Stevens-Johnson syndrome, flushing, hyperhidrosis and cold sweat.
 
-## 5.12 Phlebitis
+## 5.11 Phlebitis
 
 Infusion site phlebitis has occurred in patients receiving intravenous amiodarone.
 Intravenous amiodarone concentrations greater than 3 mg/mL have been associated with a high incidence of peripheral vein phlebitis.

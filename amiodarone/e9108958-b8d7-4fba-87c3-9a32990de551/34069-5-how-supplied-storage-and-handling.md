@@ -2,9 +2,9 @@
 
 NEXTERONE (amiodarone HCl) Premixed Injection is supplied as a ready-to-use, sterile, nonpyrogenic, iso-osmotic solution in 100 mL and 200 mL single-dose GALAXY containers packaged in individual cartons as follows:
 
-| 150 mg/100 mL | NDC 43066 – 150 – 10 |
-| --- | --- |
-| 360 mg/200 mL | NDC 43066 – 360 – 20 |
+| 150 mg/100 mL | NDC 43066 – 150 – 10 | 2G3451 |
+| --- | --- | --- |
+| 360 mg/200 mL | NDC 43066 – 360 – 20 | 2G3450 |
 
 Do not add supplementary medication to NEXTERONE Premixed Injection.
 

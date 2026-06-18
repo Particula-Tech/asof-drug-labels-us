@@ -13,16 +13,16 @@ NEXTERONE Premixed Injection is available in GALAXY containers as a single-use, 
 No further dilution is required.
 Discard any unused portion after use.
 
-Administer NEXTERONE Premixed Injection, whenever possible, through a central venous catheter dedicated to that purpose.
+Administer NEXTERONE, whenever possible, through a central venous catheter dedicated to that purpose.
 Use an in-line filter during administration.
 
 ## 2.2 Recommended Dosage
 
-NEXTERONE Premixed Injection response can vary.
+NEXTERONE response can vary.
 Monitor patient response and adjust dose accordingly.
 In controlled clinical trials, mean daily doses above 2100 mg were associated with an increased risk of hypotension.
 
-Table 1: NEXTERONE Premixed Injection Dosage Recommendations
+Table 1: NEXTERONE Dosage Recommendations
 
 | Loading Infusion | First Rapid | 150 mg over the FIRST 10 minutes (15 mg/min). Directly infuse NEXTERONE Premixed Injection (150 mg/100 mL; 1.5 mg/mL) at a rate of 10 mL/min. |
 | --- | --- | --- |

@@ -1,8 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-Drug interactions with amiodarone are described in Table 4 below.
+Drug interactions with amiodarone are described in Table 5 below.
 
-Table 4: Amiodarone Drug Interactions
+Table 5: Amiodarone Drug Interactions
 
 | Concomitant Drug Class/Name | Examples | Clinical Comment |
 | --- | --- | --- |

@@ -34,11 +34,11 @@ Adverse effects on fetal growth and survival also were noted in one of two strai
 
 Risk Summary Amiodarone and one of its major metabolites, DEA, are present in breastmilk at between 3.5% and 45% of the maternal weight-adjusted dosage of amiodarone.
 There are cases of hypothyroidism and bradycardia in breastfed infants, although it is unclear if these effects are due to amiodarone exposure in breastmilk.
-Breastfeeding is not recommended during treatment with NEXTERONE Premixed Injection [see Warnings and Precautions (5.9)].
+Breastfeeding is not recommended during treatment with NEXTERONE [see Warnings and Precautions (5.6, 5.7)].
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Infertility Based on animal fertility studies, NEXTERONE Premixed Injection may reduce female and male fertility.
+Infertility Based on animal fertility studies, NEXTERONE may reduce female and male fertility.
 It is not known if this effect is reversible.
 [see Nonclinical Toxicology (13.1)].
 

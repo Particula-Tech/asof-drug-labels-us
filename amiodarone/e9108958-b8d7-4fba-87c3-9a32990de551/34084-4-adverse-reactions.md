@@ -3,12 +3,11 @@
 The following adverse reactions are described elsewhere in labeling:
 
 - •Hypotension [see Warnings and Precautions (5.2)]
-- •Primary Graft Dysfunction (PGD) Post Cardiac Transplant [see Warnings and Precautions (5.3)]
-- •Hepatic injury [see Warnings and Precautions (5.5)]
-- •Proarrhythmia [see Warnings and Precautions (5.6)]
-- •Pulmonary injury [see Warnings and Precautions (5.7)]
-- •Thyroid injury [see Warnings and Precautions (5.9)]
-- •Hypersensitivity [see Warnings and Precautions (5.11)]
+- •Hepatic injury [see Warnings and Precautions (5.4)]
+- •Proarrhythmia [see Warnings and Precautions (5.5)]
+- •Pulmonary injury [see Warnings and Precautions (5.6)]
+- •Thyroid injury [see Warnings and Precautions (5.8)]
+- •Hypersensitivity [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -42,8 +41,6 @@ Gastrointestinal Disorders: pancreatitis.
 General Disorders and Administration Site Conditions: infusion site reactions, including thombosis, phlebitis, thrombophlebitis, cellulitis, pain, induration, edema, inflammation, urticaria, pruritus, erythema, pigment changes, hypoesthesia, skin sloughing, extravasation possibly leading to venous/infusion site necrosis, and granuloma.
 
 Hepatobiliary Disorders: cholestasis, cirrhosis, jaundice, alkaline phosphatase and blood lactate dehydrogenase increase.
-
-Injury, poisoning and procedural complications: transplant dysfunction (primary graft dysfunction post cardiac transplant).
 
 Musculoskeletal and Connective Tissue Disorders: myopathy, muscle weakness, rhabdomyolysis, muscle spasms, and back pain.
 

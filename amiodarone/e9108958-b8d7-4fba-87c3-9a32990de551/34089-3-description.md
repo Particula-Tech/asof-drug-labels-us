@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-NEXTERONE Premixed Injection contains amiodarone HCl (C25H29I2NO3•HCl), a class III antiarrhythmic drug.
+NEXTERONE contains amiodarone HCl (C25H29I2NO3•HCl), a class III antiarrhythmic drug.
 Amiodarone HCl is (2-butyl-3-benzo-furanyl)[4-[2-(diethylamino)ethoxy]-3,5-diiodophenyl]methanone hydrochloride.
 
 Amiodarone HCl has the following structural formula:
@@ -20,7 +20,7 @@ NEXTERONE Premixed Injection (360 mg/200 mL, 1.8 mg/mL):
 Each mL contains 1.8 mg of amiodarone HCl, USP, 18 mg Betadex Sulfobutyl Ether Sodium, NF, 0.362 mg citric acid anhydrous, 0.183 mg sodium citrate dihydrate and 41.4 mg dextrose anhydrous in water for injection.
 Sodium hydroxide or hydrochloric acid may have been added to adjust pH.
 
-NEXTERONE Premixed Injection does not contain polysorbate 80 or benzyl alcohol.
+NEXTERONE does not contain polysorbate 80 or benzyl alcohol.
 
 The GALAXY container is fabricated from a specially designed multilayered plastic.
 Solutions are in contact with the polyethylene layer of the container and can leach out certain chemical components of the plastic in very small amounts within the expiration period.
