@@ -248,7 +248,7 @@ Regularly evaluate patients with biliary tract disease, including acute pancreat
 
 Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
 The risk of OIED may increase as the dose and/or duration of opioids increases.
-Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain) and, if necessary, adjust opioid therapy as clinically appropriate (seeCLINICAL PHARMACOLOGY).
+Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain) and, if necessary, adjust opioid therapy as clinically appropriate (see CLINICAL PHARMACOLOGY).
 
 ## Increased Risk of Seizures in Patients with Seizure Disorders
 

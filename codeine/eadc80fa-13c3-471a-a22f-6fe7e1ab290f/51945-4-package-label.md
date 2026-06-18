@@ -18,9 +18,9 @@ This package is not for household use.
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-Mallinckrodt™
+Par Health™
 
-L00A28 Rev 08/2017
+L00A28 Rev 01/2026
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 300 mg/30 mg Bottle
 
@@ -44,9 +44,9 @@ This package is not for household use.
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-Mallinckrodt™
+Par Health™
 
-L00A34 Rev 08/2017
+L00A34 Rev 01/2026
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 300 mg/60 mg Bottle
 
@@ -70,6 +70,6 @@ This package is not for household use.
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-Mallinckrodt™
+Par Health™
 
-L00A37 Rev 08/2017
+L00A37 Rev 01/206
