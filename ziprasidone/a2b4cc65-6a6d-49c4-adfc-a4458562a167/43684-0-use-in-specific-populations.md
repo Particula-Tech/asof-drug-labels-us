@@ -75,7 +75,7 @@ Infants exposed to GEODON should be monitored for excess sedation, irritability,
 
 #### Females
 
-Based on the pharmacologic action of ziprasidone (D2 antagonism), treatment with GEODON may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.16) and Nonclinical Toxicology (13.1)].
+Based on the pharmacologic action of ziprasidone (D2 antagonism), treatment with GEODON may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.15) and Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

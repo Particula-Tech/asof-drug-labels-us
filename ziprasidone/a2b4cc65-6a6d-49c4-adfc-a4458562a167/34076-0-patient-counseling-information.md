@@ -16,9 +16,14 @@ Advise patients to inform their health care providers of the following: History 
 Instruct patients to report the onset of any conditions that put them at risk for significant electrolyte disturbances, hypokalemia in particular, including but not limited to the initiation of diuretic therapy or prolonged diarrhea.
 In addition, instruct patients to report symptoms such as dizziness, palpitations, or syncope to the prescriber [see Warnings and Precautions (5.3)].
 
+Serotonin Syndrome
+
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of GEODON with other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair the metabolism of serotonin (in particular, MAOIs, which include those intended to treat psychiatric disorders and also others, such as linezolid).
+Instruct patients to contact their health care provider, or report to the emergency room, should they experience signs or symptoms of serotonin syndrome [see Contraindication (4.3), Warnings and Precautions (5.4), Drug Interactions (7.3)].
+
 Severe Cutaneous Adverse Reactions
 
-Instruct patients to report to their health care provider at the earliest onset any signs or symptoms that may be associated with Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) or with severe cutaneous adverse reactions, such as Stevens-Johnson syndrome [see Warnings and Precautions (5.5)].
+Instruct patients to report to their health care provider at the earliest onset any signs or symptoms that may be associated with Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) or with severe cutaneous adverse reactions, such as Stevens-Johnson syndrome [see Warnings and Precautions (5.6)].
 
 Pregnancy
 
@@ -37,10 +42,10 @@ The effects on fertility are reversible [see Warnings and Precautions (5.15) and
 
 Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-© 2024 Viatris Inc.
+© 2025 Viatris Inc.
 
 GEODON is a registered trademark of Viatris Specialty LLC, a Viatris Company.
 
 The brands listed are trademarks of their respective owners.
 
-UPJ:GDNCI:R1
+UPJ:GDNCI:R2

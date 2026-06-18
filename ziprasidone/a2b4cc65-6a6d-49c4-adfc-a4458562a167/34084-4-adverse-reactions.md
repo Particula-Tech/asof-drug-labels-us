@@ -181,7 +181,7 @@ Metabolic and Nutritional Disorders
 
 Infrequent thirst, transaminase increased, peripheral edema, hyperglycemia, creatine phosphokinase increased, alkaline phosphatase increased, hypercholesteremia, dehydration, lactic dehydrogenase increased, albuminuria, hypokalemia
 
-Rare BUN increased, creatinine increased, hyperlipemia, hypocholesteremia, hyperkalemia, hypochloremia, hypoglycemia, hyponatremia, hypoproteinemia, glucose tolerance decreased, gout, hyperchloremia, hyperuricemia, hypocalcemia, hypoglycemicreaction, hypomagnesemia, ketosis, respiratory alkalosis
+Rare BUN increased, creatinine increased, hyperlipemia, hypocholesteremia, hyperkalemia, hypochloremia, hypoglycemia, hyponatremia, hypoproteinemia, glucose tolerance decreased, gout, hyperchloremia, hyperuricemia, hypocalcemia, hypoglycemic reaction, hypomagnesemia, ketosis, respiratory alkalosis
 
 Musculoskeletal System
 

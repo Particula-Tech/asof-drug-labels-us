@@ -60,11 +60,15 @@ Who should NOT take GEODON?
 Elderly patients with a diagnosis of psychosis related to dementia.
 GEODON is not approved for the treatment of these patients.
 
-Anything that can increase the chance of a heart rhythm abnormality should be avoided.
-Therefore, do not take GEODON if:
+Do not take GEODON if you:
 
-- •You have certain heart diseases, for example, long QT syndrome, a recent heart attack, severe heart failure, or certain irregularities of heart rhythm (discuss the specifics with your doctor)
-- •You are currently taking medications that should not be taken in combination with ziprasidone, for example, dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, pimozide, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol or tacrolimus.
+- •take anything that can increase the chance of a heart rhythm abnormality.
+- •have certain heart diseases, for example, long QT syndrome, a recent heart attack, severe heart failure, or certain irregularities of heart rhythm (discuss the specifics with your doctor).
+- •are currently taking medications that should not be taken in combination with ziprasidone, for example, dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, pimozide, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol or tacrolimus.
+- •are taking a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including linezolid or intravenous methylene blue.
+- •have stopped taking an MAOI in the last 14 days.
+- •are allergic to ziprasidone or any of the ingredients in GEODON.
 
 What To Tell Your Doctor Before You Start GEODON
 
@@ -136,6 +140,12 @@ In case of an overdose, call your doctor or poison control center right away or 
 
 Other Important Safety Information
 
+A potentially life-threatening problem called serotonin syndrome can happen when you take GEODON with certain other medicines.
+
+See “Who should NOT take GEODON?”
+
+- •Call your healthcare provider if you have any of the following signs and symptoms of serotonin syndrome: agitation, hallucinations, coma, or other changes in mental status; racing heartbeat, high or low blood pressure; coordination problems or muscle twitching; nausea, vomiting, or diarrhea; sweating or fever; muscle rigidity.
+
 A serious condition called neuroleptic malignant syndrome (NMS) can occur with all antipsychotic medications including GEODON.
 Signs of NMS include very high fever, rigid muscles, shaking, confusion, sweating, or increased heart rate and blood pressure.
 NMS is a rare but serious side effect that could be fatal.
@@ -187,12 +197,12 @@ If you have any questions or want more information about GEODON, talk with your 
 
 Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-© 2024 Viatris Inc.
+© 2025 Viatris Inc.
 
 GEODON is a registered trademark of Viatris Specialty LLC, a Viatris Company.
 
 The brands listed are trademarks of their respective owners.
 
-UPJ:PL:GDNCI:R1
+UPJ:PL:GDNCI:R2
 
-Revised: 3/2024
+Revised: 1/2025
