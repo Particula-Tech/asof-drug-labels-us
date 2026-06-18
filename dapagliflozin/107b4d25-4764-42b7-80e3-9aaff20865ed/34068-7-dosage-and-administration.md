@@ -10,9 +10,12 @@
 
 In adults with type 2 diabetes mellitus, the recommended starting dosage of dapagliflozin tablet is 5 mg orally once daily to improve glycemic control.
 For additional glycemic control, the dosage can be increased to 10 mg orally once daily.
-For Adult Patients with Type 2 Diabetes Mellitus and Renal Impairment: • The recommended dosage for dapagliflozin tablet in patients with an eGFR greater than or equal to 45 mL/min/1.73 m2 is the same as the recommended dosage in patients with normal renal function.
-Dapagliflozin tablet is not recommended for use to improve glycemic control in patients with type 2 diabetes mellitus with an eGFR less than 45 mL/min/1.73 m2.
-Dapagliflozin tablet is likely to be ineffective to improve glycemic control in this setting based upon its mechanism of action.
+For Adult Patients with Type 2 Diabetes Mellitus and Renal Impairment:
+
+- The recommended dosage for dapagliflozin tablet in patients with an eGFR greater than or equal to 45 mL/min/1.73 m2 is the same as the recommended dosage in patients with normal renal function.
+- Dapagliflozin tablet is not recommended for use to improve glycemic control in patients with type 2 diabetes mellitus with an eGFR less than 45 mL/min/1.73 m2.
+  Dapagliflozin tablet is likely to be ineffective to improve glycemic control in this setting based upon its mechanism of action.
+
 Pediatric use information is approved for AstraZeneca AB’s Farxiga® (dapagliflozin) Tablets.
 However, due to AstraZeneca AB’s marketing exclusivity rights, this drug product is not labeled with that information.
 

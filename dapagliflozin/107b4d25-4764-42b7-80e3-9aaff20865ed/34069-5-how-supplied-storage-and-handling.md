@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-How Supplied Dapagliflozin tablets have markings on both sides and are available in the strengths and packages listed in Table 18.
-Table 18: Dapagliflozin Tablet Presentations
+How Supplied Dapagliflozin tablets, USP have markings on both sides and are available in the strengths and packages listed in Table 18.
+Table 18: Dapagliflozin Tablet, USP Presentations
 
 | Tablet Strength | Film-CoatedTablet Color/Shape | Tablet Markings | Package Size | NDC Code |
 | --- | --- | --- | --- | --- |
