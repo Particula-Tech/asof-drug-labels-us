@@ -27,4 +27,3 @@ Closely monitor blood pressure, renal function and electrolytes in patients on i
 
 Do not coadminister aliskiren with irbesartan tablets in patients with diabetes.
 Avoid use of aliskiren with irbesartan tablets in patients with renal impairment (GFR <60 mL/min).
-1

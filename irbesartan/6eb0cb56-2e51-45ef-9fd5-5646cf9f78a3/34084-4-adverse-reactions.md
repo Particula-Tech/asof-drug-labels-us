@@ -32,4 +32,18 @@ In IDNT, the adverse reactions were similar to those seen in patients with hyper
 The following adverse reactions have been identified during postapproval use of irbesartan tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or to establish a causal relationship to drug exposure.
 
-Urticaria; angioedema (involving swelling of the face, lips, pharynx, and/or tongue); anaphylactic reaction including anaphylactic shock; increased liver function tests; jaundice; hepatitis; hyperkalemia; anemia; thrombocytopenia; increased cpk; tinnitus; and hypoglycemia in diabetic patients.
+Blood and lymphatic system:Anemia, Thrombocytopenia
+
+Ear and labyrinth:Tinnitus
+
+Gastrointestinal:Intestinal angioedema
+
+Hepatobiliary:Hepatitis, Jaundice
+
+Immune system:Anaphylactic reaction including anaphylactic shock
+
+Investigations:Increased liver function tests, Increased CPK (Creatine Phosphokinase)
+
+Metabolism and nutrition:Hyperkalemia, Hypoglycemia in diabetic patients
+
+Skin and subcutaneous tissue:Urticaria, Angioedema (involving swelling of the face, lips, pharynx, and/or tongue)
