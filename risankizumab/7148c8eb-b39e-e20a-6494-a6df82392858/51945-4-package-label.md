@@ -419,3 +419,31 @@ www.SKYRIZI.com
 Rx only
 
 abbvie
+
+NDC 0074-4059-01
+
+One 0.37 mL Single-Dose Prefilled Syringe
+
+Skyrizi® 55mg mg/0.37 mL
+
+risankizumab-rzaa
+
+Injection
+
+FOR SUBCUTANEOUS USE ONLY
+
+www.SKYRIZI.com
+
+For children and adolescents less than 40kg (88lb)
+
+Return to pharmacy if carton perforations are broken.
+
+ATTENTION PHARMACIST:
+
+Each patient is required to receive the enclosed Medication Guide.
+
+The entire carton is to be dispensed as a unit.
+
+Rx only
+
+abbvie

@@ -3,15 +3,15 @@
 ## 2.1 Procedures Prior to Treatment Initiation
 
 - For the treatment of Crohn’s disease and ulcerative colitis, obtain liver enzymes and bilirubin levels prior to initiating treatment with SKYRIZI [see Warnings and Precautions (5.4)]
-- Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with SKYRIZI [see Warnings and Precautions (5.3)].
-- Complete all age-appropriate vaccinations as recommended by current immunization guidelines [see Warnings and Precautions (5.5)].
+- Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with SKYRIZI [see Warnings and Precautions (5.3)]
+- Complete all age appropriate vaccinations as recommended by current immunization guidelines [see Warnings and Precautions (5.5)]
 
 ## 2.2 General Considerations for Administration
 
 • Visually inspect SKYRIZI for particulate matter and discoloration prior to administration.
 The solution may contain a few translucent to white particles.
 
-○ SKYRIZI 150 mg/mL prefilled pen or prefilled syringe, 180 mg/1.2 mL prefilled syringe or prefilled cartridge, and 360 mg/2.4 mL prefilled cartridge: a colorless to yellow, and clear to slightly opalescent solution.
+○ SKYRIZI 55 mg/0.37 mL prefilled syringe, 150 mg/mL prefilled pen or prefilled syringe, 180 mg/1.2 mL prefilled syringe or prefilled cartridge, and 360 mg/2.4 mL prefilled cartridge: a colorless to yellow, and clear to slightly opalescent solution.
 
 ○ SKYRIZI 90 mg/mL prefilled syringe and 600 mg/10 mL vial: a colorless to slightly yellow, and clear to slightly opalescent solution.
 
@@ -20,9 +20,23 @@ The solution may contain a few translucent to white particles.
 • Discard after use.
 Do not reuse.
 
-## 2.3 Recommended Dosage for Plaque Psoriasis
+## 2.3 Recommended Dosage for Moderate-to-Severe Plaque Psoriasis
 
-The recommended dosage is 150 mg administered by subcutaneous injection at Week 0, Week 4, and every 12 weeks thereafter.
+Adults
+
+The recommended dosage for adults is 150 mg administered by subcutaneous injection at Week 0, Week 4, and every 12 weeks thereafter.
+
+Pediatric Patients 6 Years of Age and Older
+
+The recommended dosage for pediatric patients 6 years of age and older is based on body weight (see Table 1) and administered by subcutaneous injection at Week 0, Week 4, and every 12 weeks thereafter.
+
+Table 1.
+Recommended Dose of SKYRIZI for Pediatric Patients 6 Years of Age and Older with Moderate-to-Severe Plaque Psoriasis
+
+| Body Weight | Recommended Dose |
+| --- | --- |
+| less than 40 kg | 55 mg |
+| 40 kg or greater | 150 mg |
 
 ## 2.4 Recommended Dosage for Psoriatic Arthritis
 
@@ -30,11 +44,22 @@ The recommended dosage is 150 mg administered by subcutaneous injection at Week 
 
 SKYRIZI may be administered alone or in combination with non-biologic disease-modifying antirheumatic drugs (DMARDs).
 
-## 2.5 Preparation and Administration Instructions (Plaque Psoriasis and Psoriatic Arthritis)
+## 2.5 Preparation and Administration Instructions (Moderate-to-Severe Plaque Psoriasis and Psoriatic Arthritis)
 
-- Administer SKYRIZI 150 mg/mL prefilled pen or prefilled syringe subcutaneously.
-- Patients may self-inject SKYRIZI after training in subcutaneous injection technique.
-  Provide proper training to patients and/or caregivers on the subcutaneous injection technique of SKYRIZI.
+• Administer SKYRIZI 55 mg/0.37 mL prefilled syringe, 150 mg/mL prefilled pen or prefilled syringe subcutaneously.
+
+• Provide proper training to patients and/or caregivers on the subcutaneous injection technique of SKYRIZI.
+After proper training:
+
+Adults
+
+- Adults may self-inject SKYRIZI.
+
+Pediatric Patients 6 Years of Age and Older
+
+- For pediatric patients 10 years of age and older, it is recommended that SKYRIZI be administered by or under the supervision of an adult.
+- For pediatric patients 6 to less than 10 years of age, SKYRIZI should be administered by an adult.
+
 - Before injecting, remove the carton with SKYRIZI from the refrigerator and without removing the prefilled pen or prefilled syringe from the carton, allow SKYRIZI to reach room temperature out of direct sunlight (30 to 90 minutes for the prefilled pen and 15 to 30 minutes for the prefilled syringe).
 - Do not inject into areas where the skin is tender, bruised, erythematous, indurated or affected by psoriasis.
   Administration of SKYRIZI in the upper, outer arm may only be performed by a healthcare professional or caregiver.
@@ -75,10 +100,10 @@ SKYRIZI vial for intravenous administration is intended for administration by a 
 
 2.
 Prior to intravenous administration, determine the dose and number of SKYRIZI vials needed based on the patient’s indication (see table below).
-Withdraw 10 mL of SKYRIZI solution from a vial (600 mg/10 mL) and inject into an intravenous infusion bag or glass bottle containing 5% Dextrose Injection or 0.9% Sodium Chloride Injection (see Table 1 below) for a final concentration of approximately 1.2 mg/mL to 6 mg/mL.
+Withdraw 10 mL of SKYRIZI solution from a vial (600 mg/10 mL) and inject into an intravenous infusion bag or glass bottle containing 5% Dextrose Injection or 0.9% Sodium Chloride Injection (see Table 2 below) for a final concentration of approximately 1.2 mg/mL to 6 mg/mL.
 Discard any remaining solution in the vial.
 
-Table 1.
+Table 2.
 Total Volume of Diluent Required for Intravenous Induction Dose
 
 | Indication | Intravenous Induction Dose | Number of SKYRIZI 600 mg/10 mL Vials | Total Volume of 5% Dextrose or 0.9% Sodium Chloride Injection |

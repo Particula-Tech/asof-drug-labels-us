@@ -1,90 +1,101 @@
 INSTRUCTIONS FOR USE SKYRIZI® (sky-RIZZ-ee) Pen (risankizumab-rzaa) injection, for subcutaneous use
 
+single-dose prefilled pen
+
+150 mg/mL
+
 Read Before First Use
 
 Refer to the Medication Guide for product information.
 
-Read this Instructions for Use before using SKYRIZI Pen (risankizumab-rzaa) injection.
+Read complete Instructions for Use before using SKYRIZI Pen (risankizumab-rzaa) injection.
 
-Before using SKYRIZI, you should receive training from your healthcare provider on how to inject SKYRIZI.
+Before using SKYRIZI, you should receive training from your healthcare provider on how to inject SKYRIZI Pen.
 
-SKYRIZI Single-Dose Pen
+In children 10 years of age and older, it is recommended that SKYRIZI Pen be given by an adult or with an adult watching (supervision).
 
-Important Information
+In children 6 years to less than 10 years of age, SKYRIZI should be given by an adult.
 
-- Store SKYRIZI in the refrigerator at 36°F to 46°F (2°C to 8°C).
-- Keep SKYRIZI in the original carton to protect from light until you are ready to use.
-- Before injecting, take the SKYRIZI carton out of the refrigerator.
+SKYRIZI Pen
+
+Important Information You Need to Know Before Injecting SKYRIZI Pen
+
+- Store SKYRIZI Pen in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Keep SKYRIZI Pen in the original carton to protect from light until you are ready to use.
+- Before injecting, take the SKYRIZI Pen carton out of the refrigerator.
   Leave the carton at room temperature and out of direct sunlight for 30 to 90 minutes.
 - The liquid in the inspection window should look clear to yellow and may contain tiny white or clear particles.
-- Do not use SKYRIZI if the liquid is discolored, cloudy or contains flakes or large particles.
-- Do not use SKYRIZI if the expiration date (EXP) has passed.
-- Do not use SKYRIZI if the liquid has been frozen, even if it has been thawed.
-- Do not shake SKYRIZI.
+- Do not use SKYRIZI Pen if the liquid is discolored, cloudy or contains flakes or large particles.
+- Do not use SKYRIZI Pen if the expiration date (EXP) has passed.
+- Do not use SKYRIZI Pen if the liquid has been frozen, even if it has been thawed.
+- Do not shake SKYRIZI Pen.
 - Do not use if the SKYRIZI Pen has been dropped or damaged.
-- Do not use SKYRIZI if carton perforations are broken.
+- Do not use SKYRIZI Pen if carton perforations are broken.
   Return product to pharmacy.
 - Do not remove the dark gray cap until right before injection.
-- SKYRIZI is not made with natural rubber latex.
+- SKYRIZI Pen is not made with natural rubber latex.
 
-| Prepare SKYRIZI injection | Take the SKYRIZI carton out of the refrigerator. Leave the carton at room temperature and out of direct sunlight for 30 to 90 minutes before injecting. Do not remove the Pen from the carton while allowing SKYRIZI to reach room temperature. Do not warm SKYRIZI in any other way. For example, do not warm it in a microwave or in hot water. Do not use the Pen if the liquid has been frozen, even if it has been thawed. |
+| Prepare SKYRIZI Pen injection | Take the SKYRIZI Pen carton out of the refrigerator. Leave the carton at room temperature and out of direct sunlight for 30 to 90 minutes before injecting. Do not remove the SKYRIZI Pen from the carton while allowing SKYRIZI to reach room temperature. Do not warm SKYRIZI Pen in any other way. For example, do not warm it in a microwave or in hot water. Do not use the SKYRIZI Pen if the liquid has been frozen, even if it has been thawed. |
 | --- | --- |
-|  | Check expiration date (EXP). Do not use the Pen if expiration date has passed. Place the following on a clean, flat surface: 1 single-dose SKYRIZI Pen (included) 1 alcohol swab (not included) 1 cotton ball or gauze pad (not included) FDA-cleared sharps disposal container (not included). See “Used SKYRIZI Prefilled Pen Disposal” for information on how to throw away (dispose of) used Pens. Wash and dry your hands. |
-|  | Choose an injection site: on the front of your thighs or your abdomen (belly) at least 2 inches from your navel (belly button) Wipe the injection site in a circular motion with the alcohol swab and let it dry. Do not touch or blow on the injection site after it is cleaned. Allow the skin to dry before injecting. Do not inject through clothes. Do not inject into skin that is sore, bruised, red, hard, scarred, has stretch marks, or areas with psoriasis. |
-|  | Hold the Pen with the dark gray cap pointing up. Pull the dark gray cap straight off. Throw the dark gray cap away. Check the liquid through the inspection window. It is normal to see 1 or more bubbles in the liquid. The liquid should look clear to yellow and may contain tiny white or clear particles. Do not use if the liquid is discolored, cloudy or contains flakes or large particles. |
-| Give SKYRIZI injection | Hold the Pen with your fingers on the gray hand grips. Turn the Pen so that the white needle sleeve points toward the injection site and you can see the green activator button. Pinch the skin at your injection site to make a raised area and hold it firmly. Place the white needle sleeve straight (90-degree angle) against the raised injection site. |
-|  | Hold the Pen so that you can see the green activator button and inspection window. Push and keep pressing the Pen down against the raised injection site. The Pen will activate only if the white needle sleeve is pressed down against the injection site before pressing the green activator button. Press the green activator button and hold the Pen for 15 seconds. The first loud “click” means the start of the injection. |
-|  | Keep pressing the Pen down against the injection site. The injection is complete when: the Pen has made a second “click” or the yellow indicator has filled the inspection window This takes up to 15 seconds. |
-| After SKYRIZI injection | When the injection is complete, slowly pull the Pen straight out from the skin. The white needle sleeve will cover the needle tip and make another “click.” After completing the injection, place a cotton ball or gauze pad on the skin at the injection site. Do not rub the injection site. Slight bleeding at the injection site is normal. |
-|  | Throw away (dispose of) the used Pen in a FDA-cleared sharps disposal container right away after use. ● Do not dispose of used Pens in your household trash unless your community guidelines permit this. ● Do not recycle your sharps disposal container. The dark gray cap, alcohol swab, cotton ball or gauze pad, and packaging may be placed in your household trash. For more information, see “Used SKYRIZI Prefilled Pen Disposal”. |
+|  | Check expiration date (EXP). Do not use the SKYRIZI Pen if expiration date has passed. Gather and Place the following on a clean, flat surface: 1 single-dose SKYRIZI Pen (included) 1 alcohol swab (not included) 1 cotton ball or gauze pad (not included) Sharps disposal container (not included). See “Used SKYRIZI Pen Disposal” for information on how to throw away (dispose of) used SKYRIZI Pens. Wash and dry your hands. |
+|  | Choose an injection site: on the front of your left thigh or right thigh or your abdomen (belly) at least 2 inches from your navel (belly button) Wipe the injection site in a circular motion with the alcohol swab and let it dry. Do not touch or blow on the injection site after it is cleaned. Allow the skin to dry before injecting. Do not inject through clothes. Do not inject into skin that is sore, bruised, red, hard, scarred, has stretch marks, or areas with psoriasis. |
+|  | Hold the SKYRIZI Pen with the dark gray cap pointing up. Pull the dark gray cap straight off. Throw the dark gray cap away. Check the liquid through the inspection window. It is normal to see 1 or more bubbles in the liquid. The liquid should look clear to yellow and may contain tiny white or clear particles. Do not use if the liquid is discolored, cloudy or contains flakes or large particles. |
+| Give SKYRIZI Pen injection | Hold the SKYRIZI Pen with your fingers on the gray hand grips. Turn the SKYRIZI Pen so that the white needle sleeve points toward the injection site and you can see the green activator button. Pinch the skin at your injection site to make a raised area and hold it firmly. Place the white needle sleeve straight (90-degree angle) against the raised injection site. |
+|  | Hold the SKYRIZI Pen so that you can see the green activator button and inspection window. Push and keep pressing the SKYRIZI Pen down firmly against the raised injection site. The SKYRIZI Pen will activate only if the white needle sleeve is pressed down against the injection site before pressing the green activator button. Press the green activator button and hold the SKYRIZI Pen for 15 seconds. The first loud “click” means the start of the injection. |
+|  | Keep pressing the SKYRIZI Pen down firmly against the injection site until the injection is complete. This takes up to 15 seconds. The injection is complete when: the SKYRIZI Pen has made a second “click” or the yellow indicator has filled the inspection window |
+| After SKYRIZI Pen injection | When the injection is complete, slowly pull the SKYRIZI Pen straight out from the skin. The white needle sleeve will cover the needle tip and make another “click.” After completing the injection, place a cotton ball or gauze pad on the skin at the injection site. Do not rub the injection site. Slight bleeding at the injection site is normal. |
+|  | Throw away (dispose of) the used SKYRIZI Pen in a sharps disposal container right away after use. ● Do not dispose of used SKYRIZI Pens in your household trash unless your community guidelines permit this. ● Do not recycle your sharps disposal container. The dark gray cap, alcohol swab, cotton ball or gauze pad, and packaging may be placed in your household trash. For more information see “Used SKYRIZI Pen Disposal” section located on the other side of the instructions. |
 
-Important Information
+Important Information You Need to Know Before Injecting SKYRIZI Pen
 
-- Store SKYRIZI in the refrigerator at 36°F to 46°F (2°C to 8°C).
-- Keep SKYRIZI in the original carton to protect from light until you are ready to use.
-- Before injecting, take the SKYRIZI carton out of the refrigerator.
+- Before injecting, take the SKYRIZI Pen carton out of the refrigerator.
   Leave the carton at room temperature and out of direct sunlight for 30 to 90 minutes.
 - The liquid in the inspection window should look clear to yellow and may contain tiny white or clear particles.
-- Do not use SKYRIZI if the liquid is discolored, cloudy or contains flakes or large particles.
-- Do not use SKYRIZI if the expiration date (EXP) has passed.
-- Do not use SKYRIZI if the liquid has been frozen, even if it has been thawed.
-- Do not shake SKYRIZI.
+- Do not use SKYRIZI Pen if the liquid is discolored, cloudy or contains flakes or large particles.
+- Do not use SKYRIZI Pen if the expiration date (EXP) has passed.
 - Do not use if the SKYRIZI Pen has been dropped or damaged.
-- Do not use SKYRIZI if carton perforations are broken.
+- Do not use SKYRIZI Pen if carton perforations are broken.
   Return product to pharmacy.
 - Do not remove the dark gray cap until right before injection.
-- SKYRIZI is not made with natural rubber latex.
+- SKYRIZI Pen is not made with natural rubber latex.
+
+Storage Information
+
+- Store SKYRIZI Pen in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Keep SKYRIZI Pen in the original carton to protect from light until you are ready to use.
+- Do not use SKYRIZI Pen if the liquid has been frozen, even if it has been thawed.
+- Do not shake SKYRIZI Pen.
 
 Keep the SKYRIZI Pen and sharps disposal container out of the reach of children.
 
-Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 if you need help or do not know how to proceed.
+Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 or go to www.SKYRIZI.com if you need help or do not know how to proceed.
 
 Questions About Using the SKYRIZI Pen
 
-Q.What if I need help on how to inject SKYRIZI?
+Q.What if I need help on how to inject SKYRIZI Pen?
 
 A. Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 if you need help.
 
 Q.I have removed the dark gray cap and pressed the green activator button.
-Why isn’t my injection starting?
+Why is my injection not starting?
 
 A. The green activator button will not start the injection unless the white needle sleeve is pressed firmly against the injection site.
 
 Q.How do I know when the injection is complete?
 
-A. The injection is complete if the Pen makes a second “click” or the yellow indicator fills the inspection window.
+A. The injection is complete if the SKYRIZI Pen makes a second “click” or the yellow indicator fills the inspection window.
 This takes up to 15 seconds.
 
 Q.What should I do if there are more than a few drops of liquid on the injection site?
 
 A. Call (866) SKYRIZI or (866) 759-7494 for help.
 
-Q.What should I do with the used Pen after my injection?
+Q.What should I do with the used SKYRIZI Pen after my injection?
 
-A. Dispose of the used Pen in a sharps disposal container right after use.
-Do not dispose of the used Pen in your household trash.
+A. Throw away (dispose of) the used SKYRIZI Pen in a sharps disposal container right after use.
+Do not throw away in your household trash.
 
-You can sign up to receive sharps containers for SKYRIZI Pen disposal at no additional cost by going to www.SKYRIZI.com or calling (866) SKYRIZI or (866) 759-7494.
+For more information, see “Used SKYRIZI Pen Disposal” section.
 
 Call (866) SKYRIZI or (866) 759-7494 or go to www.SKYRIZI.com for help with your injection.
 
@@ -95,9 +106,9 @@ Keep the SKYRIZI Pen and sharps disposal container out of the reach of children.
 
 Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 if you need help or have questions about the use of SKYRIZI.
 
-Used SKYRIZI Prefilled Pen Disposal
+Used SKYRIZI Pen Disposal
 
-If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+If you do not have a sharps disposal container, you may use a household container that is:
 
 - made of a heavy-duty plastic,
 - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
@@ -106,96 +117,110 @@ If you do not have a FDA-cleared sharps disposal container, you may use a househ
 - properly labeled to warn of hazardous waste inside the container.
 
 When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
-There may be state or local laws about how you should throw away used Pens.
+There may be state or local laws about how you should throw away used SKYRIZI Pens.
 
 For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: www.fda.gov/safesharpsdisposal.
 
 Do not recycle your used sharps disposal container.
 
-Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2024 AbbVie Inc. 20086179
+Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2026 AbbVie Inc. 20101613
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 6/2024
+Revised: 6/2026
 
-INSTRUCTIONS FOR USE SKYRIZI® (sky-RIZZ-ee) (risankizumab-rzaa) injection, for subcutaneous use 150 mg/mL prefilled syringe
+INSTRUCTIONS FOR USE SKYRIZI® (sky-RIZZ-ee) (risankizumab-rzaa) injection, for subcutaneous use
+
+55 mg/0.37 mL single-dose prefilled syringe,
+
+150 mg/mL single-dose prefilled syringe
 
 Read Before First Use
 
 Refer to the Medication Guide for product information.
 
-SKYRIZI Single-Dose Prefilled Syringe
+Read complete Instructions for Use before using SKYRIZI prefilled syringe.
 
-Important Information
+Before using SKYRIZI, you should receive training from your healthcare provider on how to inject SKYRIZI prefilled syringe.
 
-- Keep SKYRIZI in the original carton to protect from light until time to use.
+In children 10 years of age and older, it is recommended that SKYRIZI prefilled syringe be given by an adult or with an adult watching (supervision).
+
+In children 6 years to less than 10 years of age, SKYRIZI should be given by an adult.
+
+SKYRIZI Prefilled Syringe
+
+Important Information You Need to Know Before Injecting SKYRIZI Prefilled Syringe
+
+- Keep SKYRIZI prefilled syringe in the original carton to protect from light until time to use.
 - The liquid should look clear to yellow and may contain tiny white or clear particles.
-- Do not use SKYRIZI if the liquid is discolored, cloudy or contains flakes or large particles.
-- Do not use SKYRIZI if the expiration date (EXP:) shown on the carton and prefilled syringe has passed.
-- Do not use SKYRIZI if the liquid has been frozen (even if thawed).
-- Do not shake SKYRIZI.
-- Do not use SKYRIZI if the prefilled syringe has been dropped or damaged.
-- Do not use SKYRIZI if carton perforations are broken.
+- Do not use SKYRIZI prefilled syringe if the liquid is discolored, cloudy or contains flakes or large particles.
+- Do not use SKYRIZI prefilled syringe if the expiration date (EXP:) shown on the carton and prefilled syringe has passed.
+- Do not use SKYRIZI prefilled syringe if the liquid has been frozen (even if thawed).
+- Do not shake SKYRIZI prefilled syringe.
+- Do not use SKYRIZI if the prefilled syringe has been dropped.
+- Do not use SKYRIZI if the prefilled syringe is damaged (for example, the needle is bent or the plunger rod is not connected to the body of the syringe).
+- Do not use SKYRIZI prefilled syringe if carton perforations are broken.
   Return product to the pharmacy.
 - Do not remove the needle cover until right before giving the injection.
+- SKYRIZI prefilled syringe is not made with natural rubber latex.
 
-Keep SKYRIZI and all medicines out of the reach of children.
-
-Please Read Complete Instructions for Use Before Using SKYRIZI Prefilled Syringe
+Keep SKYRIZI prefilled syringe and all medicines out of the reach of children.
 
 Before Injecting
 
 - Receive training on how to inject SKYRIZI before giving injection.
   Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 if you need help.
-- Mark your calendar ahead of time to remember when to take SKYRIZI.
+- Mark your calendar ahead of time to remember when to take SKYRIZI prefilled syringe.
 - Leave the carton at room temperature and out of direct sunlight for 15 to 30 minutes to warm.
-  - Do not remove the syringe from the carton while allowing SKYRIZI to reach room temperature.
-  - Do not warm SKYRIZI in any other way (for example, do not warm it in a microwave or in hot water).
+  - Do not remove the prefilled syringe from the carton while allowing SKYRIZI prefilled syringe to reach room temperature.
+  - Do not warm SKYRIZI prefilled syringe in any other way (for example, do not warm it in a microwave or in hot water).
 
-Important Information
+Important Information You Need to Know Before Injecting SKYRIZI Prefilled Syringe
 
 - The liquid should look clear to yellow and may contain tiny white or clear particles.
-- Do not use SKYRIZI if the liquid is discolored, cloudy or contains flakes or large particles.
-- Do not use SKYRIZI if the expiration date (EXP:) shown on the carton and prefilled syringe has passed.
-- Do not use SKYRIZI if the syringe has been dropped or damaged.
-- Do not use SKYRIZI if carton perforations are broken.
+- Do not use SKYRIZI prefilled syringe if the liquid is discolored, cloudy or contains flakes or large particles.
+- Do not use SKYRIZI prefilled syringe if the expiration date (EXP:) shown on the carton and prefilled syringe has passed.
+- Do not use SKYRIZI if the prefilled syringe has been dropped.
+- Do not use SKYRIZI if the prefilled syringe is damaged (for example, the needle is bent or the plunger rod is not connected to the body of the syringe).
+- Do not use SKYRIZI prefilled syringe if carton perforations are broken.
   Return product to the pharmacy.
+- Do not remove the needle cover until right before giving the injection.
+- SKYRIZI prefilled syringe is not made with natural rubber latex.
 
 Storage Information
 
-- Store SKYRIZI in the refrigerator between 36°F to 46°F (2°C to 8°C).
-- Do not shake SKYRIZI.
-- Keep SKYRIZI in the original carton to protect from light until time to use.
-- SKYRIZI is not made with natural rubber latex.
+- Store SKYRIZI prefilled syringe in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Do not shake SKYRIZI prefilled syringe.
+- Keep SKYRIZI prefilled syringe in the original carton to protect from light until time to use.
 - Do not use if the liquid has been frozen (even if thawed).
 
-Keep SKYRIZI and all medicines out of the reach of children.
+Keep SKYRIZI prefilled syringe and all medicines out of the reach of children.
 
-Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 if you need help or do not know how to proceed.
+Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 or go to www.SKYRIZI.com if you need help or do not know how to proceed.
 
-|  |  | Gather the supplies for the injection. Do not hold or pull the plunger rod when removing the prefilled syringe from the sleeve. Place the following on a clean, flat surface: 1 prefilled syringe (included) 1 alcohol swab (not included) 1 cotton ball or gauze pad (not included) FDA-cleared sharps disposal container (not included). See “Used SKYRIZI Prefilled Syringe Disposal” for information on how to throw away (dispose of) used prefilled syringes. Wash and dry your hands. |
+|  |  | Gather and Place the supplies for the injection. Do not hold or pull the plunger rod when removing the prefilled syringe from the sleeve. Do not remove the needle cover until right before giving the injection. Place the following on a clean, flat surface: 1 prefilled syringe (included). Check to make sure that you have the correct medicine and dose. 1 alcohol swab (not included) 1 cotton ball or gauze pad (not included) Sharps disposal container (not included). See “Used SKYRIZI Prefilled Syringe Disposal” for information on how to throw away (dispose of) used SKYRIZI prefilled syringes. Wash and dry your hands. |
 | --- | --- | --- |
-|  |  | Remove prefilled syringe from cardboard sleeve by holding the finger grip. |
-|  |  | Pick from the 3 injectable areas: Front of left thigh or right thigh Your abdomen (belly) at least 2 inches from your navel (belly button) Wipe the injection site in a circular motion with the alcohol swab before the injection. Do not touch or blow on the injection site after it is cleaned. Allow the skin to dry before injecting. Do not inject through clothes. Do not inject into skin that is sore, bruised, red, hard, scarred, or has stretch marks, or into areas affected by psoriasis. |
-|  |  | Hold the prefilled syringe with covered needle facing down, as shown. Check the liquid in the prefilled syringe. It is normal to see 1 or more bubbles in the window. The liquid should look clear to yellow and may contain tiny white or clear particles. Do not use the prefilled syringe if the liquid is discolored, cloudy or contains flakes or large particles. |
-|  |  | Remove the needle cover. Hold the prefilled syringe in 1 hand between the finger grip and needle cover. With the other hand, gently pull the needle cover straight off. Do not hold or pull the plunger rod when removing the needle cover. You may see a drop of liquid at the end of the needle. This is normal. Throw away the needle cover. Do not touch the needle with your fingers or let the needle touch anything. |
-|  |  | Hold the body of the prefilled syringe in 1 hand between the thumb and index fingers. Pinch the area of cleaned skin with your other hand and hold it firmly. Insert the needle into the skin at about a 45-degree angle using a quick, short movement. Hold angle steady. |
-|  |  | Slowly push the plunger rod all the way in until all of the liquid is injected, and the prefilled syringe is empty. Pull the needle out of the skin while keeping the prefilled syringe at the same angle. Release the plunger rod and allow the prefilled syringe to move up until the entire needle is covered by the needle guard. The prefilled syringe needle guard will not activate unless all the liquid has been injected. Press a cotton ball or gauze pad over the injection site and hold for 10 seconds. Do not rub the injection site. You may have slight bleeding. This is normal. |
-|  |  | Put your used prefilled syringe in a FDA-cleared sharps disposal container right away after use. Do not throw away (dispose of) the used prefilled syringe in the household trash. For more information, see “Used SKYRIZI Prefilled Syringe Disposal” section. |
+|  |  | Remove SKYRIZI prefilled syringe from cardboard sleeve by holding the finger grip. |
+|  |  | Pick from the 3 injectable areas: Front of left thigh or right thigh or Your abdomen (belly) at least 2 inches from your navel (belly button) Wipe the injection site in a circular motion with the alcohol swab before the injection. Do not touch or blow on the injection site after it is cleaned. Allow the skin to dry before injecting. Do not inject through clothes. Do not inject into skin that is sore, bruised, red, hard, scarred, or has stretch marks, or into areas affected by psoriasis. |
+|  |  | Hold the SKYRIZI prefilled syringe with covered needle facing down, as shown. Check the liquid in the SKYRIZI prefilled syringe. It is normal to see 1 or more bubbles in the window; they do not need to be removed. The liquid should look clear to yellow and may contain tiny white or clear particles. Do not use the SKYRIZI prefilled syringe if the liquid is discolored, cloudy or contains flakes or large particles. |
+|  |  | Remove the needle cover. Do not hold or pull the plunger rod when removing the needle cover. Hold the SKYRIZI prefilled syringe in 1 hand between the finger grip and needle cover. With the other hand, gently pull the needle cover straight off. You may see a drop of liquid at the end of the needle. This is normal. Throw away the needle cover. Do not touch the needle with your fingers or let the needle touch anything. Do not use SKYRIZI if the prefilled syringe has been dropped. Do not use SKYRIZI if the prefilled syringe is damaged (for example, the needle is bent or the plunger rod is not connected to the body of the syringe). |
+|  |  | Hold the body of the SKYRIZI prefilled syringe in 1 hand between the thumb and index fingers. Pinch the area of cleaned skin with your other hand and hold it firmly. Insert the needle into the skin at about a 45-degree angle using a quick, short movement. Hold angle steady. |
+|  |  | Slowly push the plunger rod all the way in until all of the liquid is injected, and the SKYRIZI prefilled syringe is empty. Pull the needle out of the skin while keeping the SKYRIZI prefilled syringe at the same angle. Release the plunger rod. Allow the SKYRIZI prefilled syringe to move up until the entire needle is covered by the needle guard. The SKYRIZI prefilled syringe needle guard will not automatically activate unless all the liquid has been injected. Press a cotton ball or gauze pad over the injection site and hold for 10 seconds. Do not rub the injection site. You may have slight bleeding. This is normal. |
+|  |  | Put your used SKYRIZI prefilled syringe in a sharps disposal container right away after use. Do not throw away (dispose of) the used SKYRIZI prefilled syringe in the household trash. For more information, see “Used SKYRIZI Prefilled Syringe Disposal” section located on the other side of these instructions. |
 
-Questions About Using SKYRIZI
+Questions About Using SKYRIZI Prefilled Syringe
 
-| Q. What if I need help on how to inject SKYRIZI? |
+| Q. What if I need help on how to inject SKYRIZI prefilled syringe? |
 | --- |
 | A. Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 if you need help. |
-| Q. What should I do with the used prefilled syringe after my injection? |
-| A. Throw away (dispose of) the used prefilled syringe in a sharps disposal container and not your household trash. You can sign up to receive sharps containers for SKYRIZI syringe disposal at no additional cost by going to www.SKYRIZI.com or calling (866) SKYRIZI or (866) 759-7494. |
+| Q. What should I do with the used SKYRIZI prefilled syringe after my injection? |
+| A. Throw away (dispose of) the used SKYRIZI prefilled syringe in a sharps disposal container. Do not throw away in your household trash. For more information, see “Used SKYRIZI Prefilled Syringe Disposal” section. |
 | Q. How do I know when the injection is complete? |
-| A. The injection is complete when the prefilled syringe is empty, the plunger rod is pushed all the way in, and the syringe needle guard is activated. |
+| A. The injection is complete when the SKYRIZI prefilled syringe is empty, the plunger rod is pushed all the way in, and the syringe needle guard is activated. |
 
 Used SKYRIZI Prefilled Syringe Disposal
 
-If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+If you do not have a sharps disposal container, you may use a household container that is:
 
 - made of a heavy-duty plastic,
 - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
@@ -210,11 +235,11 @@ For more information about safe sharps disposal, and for specific information ab
 
 Do not recycle your used sharps disposal container.
 
-Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2024 AbbVie Inc. 20086082
+Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2026 AbbVie Inc. 20092742
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 6/2024
+Revised: 6/2026
 
 Instructions for Use SKYRIZI® (sky-RIZZ-ee) (risankizumab-rzaa) injection, for subcutaneous use
 

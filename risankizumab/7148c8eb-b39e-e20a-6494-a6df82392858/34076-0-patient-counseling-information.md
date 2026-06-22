@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient and/or caregiver to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+Advise patients and/or caregivers to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Hypersensitivity Reactions
 
@@ -11,12 +11,12 @@ Infections
 Inform patients that SKYRIZI may lower the ability of their immune system to fight infections.
 Instruct patients of the importance of communicating any history of infections to the healthcare provider and contacting their healthcare provider if they develop any symptoms of an infection [see Warnings and Precautions (5.2)].
 
-Hepatotoxicity in Treatment of Inflammatory Bowel Disease
+Hepatotoxicity
 
 Inform patients that SKYRIZI may cause liver injury, especially during the initial 12 weeks of treatment.
 Instruct patients to seek immediate medical attention if they experience symptoms suggestive of liver dysfunction (e.g., unexplained rash, nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine) [see Warnings and Precautions (5.4)].
 
-Administration of Vaccines
+Immunizations
 
 Advise patients that vaccination with live vaccines is not recommended during SKYRIZI treatment and immediately prior to or after SKYRIZI treatment.
 Medications that interact with the immune system may increase the risk of infection following administration of live vaccines.
@@ -24,7 +24,10 @@ Instruct patients to inform the healthcare practitioner that they are taking SKY
 
 Administration Instruction
 
-Instruct patients or caregivers to perform the first self-injected dose under the supervision and guidance of a qualified healthcare professional for training in preparation and administration of SKYRIZI, including choosing anatomical sites for administration, and proper subcutaneous injection technique [see Instructions for Use].
+Instruct patients or caregivers to perform the first self-injected dose under the supervision and guidance of a qualified healthcare professional for training in preparation and administration of SKYRIZI, including choosing anatomical sites for administration, and proper subcutaneous injection technique [see Dosage and Administration (2.5)].
+
+For pediatric patients, inform patients and caregivers that for pediatric patients 10 years of age and older, it is recommended that SKYRIZI be administered by or under supervision of an adult.
+For pediatric patients 6 to less than 10 years of age, SKYRIZI should be administered by an adult [see Dosage and Administration (2.5)].
 
 If using SKYRIZI 90 mg/mL, instruct patients or caregivers to administer two 90 mg single-dose syringes to achieve the full 180 mg maintenance dose or four 90 mg single-dose syringes to achieve the full 360 mg maintenance dose of SKYRIZI for Crohn’s disease or ulcerative colitis [see Instructions for Use].
 
@@ -40,4 +43,4 @@ Manufactured by: AbbVie Inc. North Chicago, IL 60064, USA
 
 US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2026 AbbVie Inc.
 
-20098758 3/2026
+20100656 6/2026

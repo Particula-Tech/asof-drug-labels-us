@@ -25,7 +25,7 @@ Consider anti-TB therapy prior to initiating SKYRIZI in patients with a past his
 Monitor patients for signs and symptoms of active TB during and after SKYRIZI treatment.
 Do not administer SKYRIZI to patients with active TB.
 
-## 5.4 Hepatotoxicity in Treatment of Inflammatory Bowel Disease
+## 5.4 Hepatotoxicity
 
 A serious adverse reaction of drug-induced liver injury in conjunction with a rash that required hospitalization was reported in a patient with Crohn’s disease (ALT 54x ULN, AST 30x ULN, and total bilirubin 2.2x ULN) following two 600 mg intravenous doses of SKYRIZI.
 The liver test abnormalities resolved following administration of steroids.
@@ -39,9 +39,9 @@ Prompt investigation of the cause of liver enzyme elevation is recommended to id
 Interrupt treatment if drug-induced liver injury is suspected, until this diagnosis is excluded.
 Instruct patients to seek immediate medical attention if they experience symptoms suggestive of hepatic dysfunction.
 
-## 5.5 Administration of Vaccines
+## 5.5 Immunizations
 
 Avoid use of live vaccines in patients treated with SKYRIZI.
-Medications that interact with the immune system may increase the risk of infection following administration of live vaccines.
+Drugs that interact with the immune system may increase the risk of infection following administration of live vaccines.
 Prior to initiating therapy with SKYRIZI, complete all age-appropriate vaccinations according to current immunization guidelines.
 No data are available on the response to live or inactive vaccines.

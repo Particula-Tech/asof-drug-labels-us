@@ -63,7 +63,18 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of SKYRIZI have not been established in pediatric patients.
+Moderate-to-Severe Plaque Psoriasis
+
+The safety and effectiveness of SKYRIZI for the treatment of moderate-to-severe plaque psoriasis have been established in pediatric patients 6 years of age and older who are candidates for systemic therapy or phototherapy.
+
+Use of SKYRIZI for this indication is supported by evidence from a four-part trial in a total of 137 pediatric subjects 6 years of age and older with moderate-to-severe plaque psoriasis.
+In addition to two lead-in pharmacokinetic cohorts, the trial also included a randomized, efficacy assessor-blinded, active treatment-controlled cohort that enrolled 82 pediatric subjects 12 years of age and older and a single-arm, open-label cohort that enrolled 30 pediatric subjects 6 to less than 12 years of age [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
+
+The safety and effectiveness of SKYRIZI have not been established in pediatric patients younger than 6 years of age with moderate-to-severe plaque psoriasis.
+
+Psoriatic Arthritis, Crohn’s Disease, and Ulcerative Colitis
+
+The safety and effectiveness of SKYRIZI have not been established in pediatric patients with psoriatic arthritis, Crohn’s disease or ulcerative colitis.
 
 ## 8.5 Geriatric Use
 
@@ -71,4 +82,4 @@ Of the 6,862 subjects exposed to SKYRIZI, a total of 664 were 65 years and older
 
 Clinical studies of SKYRIZI, within each indication, did not include sufficient numbers of subjects 65 years of age and older to determine whether they respond differently from younger adult subjects.
 
-No clinically meaningful differences in the pharmacokinetics of risankizumab-rzaa were observed based on age[see Clinical Pharmacology (12.3)].
+No clinically meaningful differences in the pharmacokinetics of risankizumab-rzaa were observed based on age [see Clinical Pharmacology (12.3)].

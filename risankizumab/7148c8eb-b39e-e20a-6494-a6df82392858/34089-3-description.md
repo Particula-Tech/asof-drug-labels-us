@@ -3,6 +3,12 @@
 Risankizumab-rzaa, an interleukin-23 (IL-23) antagonist, is a humanized immunoglobulin G1 (IgG1) monoclonal antibody.
 Risankizumab-rzaa is produced by recombinant DNA technology in Chinese hamster ovary cells and has an approximate molecular weight of 149 kDa.
 
+SKYRIZI (risankizumab-rzaa) injection 55 mg/0.37 mL prefilled syringe for subcutaneous use
+
+Each SKYRIZI prefilled syringe contains a sterile, preservative-free, colorless to yellow, and clear to slightly opalescent solution.
+Each syringe delivers 55 mg of risankizumab-rzaa and the inactive ingredients glacial acetic acid (0.02 mg), polysorbate 20 (0.07 mg), sodium acetate (0.28 mg), trehalose (23.4 mg), and Water for Injection, USP.
+The pH is 5.7.
+
 SKYRIZI (risankizumab-rzaa) injection 90 mg/mL prefilled syringe for subcutaneous use
 
 Each SKYRIZI prefilled syringe contains a sterile, preservative-free, colorless to slightly yellow, and clear to slightly opalescent solution.
@@ -18,7 +24,7 @@ The pH is 5.7.
 SKYRIZI (risankizumab-rzaa) injection 180 mg/1.2 mL prefilled syringe for subcutaneous use
 
 Each SKYRIZI prefilled syringe contains a sterile, preservative-free, colorless to yellow, and clear to slightly opalescent solution.
-Each syringe delivers 180 mg of risankizumab-rzaa, and inactive ingredients glacial acetic acid (0.065 mg), polysorbate 20 (0.24 mg), sodium acetate (0.898 mg), trehalose (76.0 mg), and Water for Injection, USP.
+Each syringe delivers 180 mg of risankizumab-rzaa, and inactive ingredients glacial acetic acid (0.065 mg), polysorbate 20 (0.24 mg), sodium acetate (0.898 mg), trehalose (76 mg), and Water for Injection, USP.
 The pH is 5.7.
 
 SKYRIZI (risankizumab-rzaa) injection 180 mg/1.2mL (150 mg/mL) prefilled cartridge for use with supplied on-body-injector for subcutaneous use
