@@ -4,7 +4,7 @@
 
 Imatinib mesylate is a protein-tyrosine kinase inhibitor that inhibits the BCR-ABL tyrosine kinase, the constitutive abnormal tyrosine kinase created by the Philadelphia chromosome abnormality in CML.
 Imatinib inhibits proliferation and induces apoptosis in BCR-ABL positive cell lines as well as fresh leukemic cells from Philadelphia chromosome positive chronic myeloid leukemia.
-Imatinib inhibits colony formation in assays using ex vivo peripheral blood and bone marrow samples from CML patients.
+Imatinib inhibits colony formation in assays using ex vivoperipheral blood and bone marrow samples from CML patients.
 
 In vivo, imatinib inhibits tumor growth of BCR-ABL transfected murine myeloid cells as well as BCR-ABL positive leukemia lines derived from CML patients in blast crisis.
 
@@ -18,11 +18,11 @@ The pharmacokinetics of imatinib mesylate are similar in CML and GIST patients.
 
 Absorption and Distribution
 
-Imatinib is well absorbed after oral administration with Cmax achieved within 2 to 4 hours post-dose.
+Imatinib is well absorbed after oral administration with C maxachieved within 2 to 4 hours post-dose.
 Mean absolute bioavailability is 98%.
 Mean imatinib AUC increases proportionally with increasing doses ranging from 25 mg to 1,000 mg.
 There is no significant change in the pharmacokinetics of imatinib on repeated dosing, and accumulation is 1.5- to 2.5-fold at steady state when imatinib mesylate is dosed once daily.
-At clinically relevant concentrations of imatinib, binding to plasma proteins in in vitro experiments is approximately 95%, mostly to albumin and α1-acid glycoprotein.
+At clinically relevant concentrations of imatinib, binding to plasma proteins in in vitroexperiments is approximately 95%, mostly to albumin and α1-acid glycoprotein.
 Elimination
 
 Metabolism
@@ -30,7 +30,7 @@ Metabolism
 CYP3A4 is the major enzyme responsible for metabolism of imatinib.
 Other cytochrome P450 enzymes, such as CYP1A2, CYP2D6, CYP2C9, and CYP2C19, play a minor role in its metabolism.
 The main circulating active metabolite in humans is the N-demethylated piperazine derivative, formed predominantly by CYP3A4.
-It shows in vitro potency similar to the parent imatinib.
+It shows in vitropotency similar to the parent imatinib.
 The plasma AUC for this metabolite is about 15% of the AUC for imatinib.
 The plasma protein binding of N-demethylated metabolite CGP74588 is similar to that of the parent compound.
 Human liver microsome studies demonstrated that imatinib mesylate is a potent competitive inhibitor of CYP2C9, CYP2D6, and CYP3A4/5 with Ki values of 27, 7.5, and 8 µM, respectively.
@@ -49,8 +49,8 @@ Specific Populations Hepatic Impairment
 The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 patients with cancer and varying degrees of hepatic impairment [see Use in Specific Populations (8.6)] at imatinib doses ranging from 100 mg to 800 mg.
 Exposure to both imatinib and CGP74588 was comparable between each of the mildly and moderately hepatically-impaired groups and the normal group.
 Patients with severe hepatic impairment tend to have higher exposure to both imatinib and its metabolite than patients with normal hepatic function.
-At steady state, the mean Cmax/dose and AUC/dose for imatinib increased by about 63% and 45%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
-The mean Cmax/dose and AUC/dose for CGP74588 increased by about 56% and 55%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
+At steady state, the mean C max/dose and AUC/dose for imatinib increased by about 63% and 45%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
+The mean C max/dose and AUC/dose for CGP74588 increased by about 56% and 55%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
 Dose reductions are necessary for patients with severe hepatic impairment [see Dosage and Administration (2.12)].
 
 Renal Impairment
@@ -64,21 +64,21 @@ Dose reductions are necessary for patients with moderate and severe renal impair
 
 Pediatric Use
 
-As in adult patients, imatinib was rapidly absorbed after oral administration in pediatric patients, with a Cmax of 2 to 4 hours.
-Apparent oral clearance was similar to adult values (11.0 L/hr/m2 in children vs. 10.0 L/hr/m2 in adults), as was the half-life (14.8 hours in children vs. 17.1 hours in adults).
-Dosing in children at both 260 mg/m2 and 340 mg/m2 achieved an AUC similar to the 400 mg dose in adults.
-The comparison of AUC on Day 8 vs. Day 1 at 260 mg/m2 and 340 mg/m2 dose levels revealed a 1.5- and 2.2-fold drug accumulation, respectively, after repeated once daily dosing.
+As in adult patients, imatinib was rapidly absorbed after oral administration in pediatric patients, with a C maxof 2 to 4 hours.
+Apparent oral clearance was similar to adult values (11.0 L/hr/m 2in children vs. 10.0 L/hr/m 2in adults), as was the half-life (14.8 hours in children vs. 17.1 hours in adults).
+Dosing in children at both 260 mg/m 2and 340 mg/m 2achieved an AUC similar to the 400 mg dose in adults.
+The comparison of AUC on Day 8 vs. Day 1 at 260 mg/m 2and 340 mg/m 2dose levels revealed a 1.5- and 2.2-fold drug accumulation, respectively, after repeated once daily dosing.
 Mean imatinib AUC did not increase proportionally with increasing dose.
 
 Based on pooled population pharmacokinetic analysis in pediatric patients with hematological disorders (CML, Ph+ ALL, or other hematological disorders treated with imatinib), clearance of imatinib increases with increasing BSA.
 After correcting for the BSA effect, other demographics, such as age, body weight, and body mass index did not have clinically significant effects on the exposure of imatinib.
-The analysis confirmed that exposure of imatinib in pediatric patients receiving 260 mg/m2 once daily (not exceeding 400 mg once-daily) or 340 mg/m2 once daily (not exceeding 600 mg once daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once daily.
+The analysis confirmed that exposure of imatinib in pediatric patients receiving 260 mg/m 2once daily (not exceeding 400 mg once-daily) or 340 mg/m 2once daily (not exceeding 600 mg once daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once daily.
 
 Drug Interactions
 
 Agents Inducing CYP3A Metabolism
 
-Pretreatment of healthy volunteers with multiple doses of rifampin followed by a single dose of imatinib mesylate, increased imatinib mesylate oral-dose clearance by 3.8-fold, which significantly (p less than 0.05) decreased mean Cmax and AUC.
+Pretreatment of healthy volunteers with multiple doses of rifampin followed by a single dose of imatinib mesylate, increased imatinib mesylate oral-dose clearance by 3.8-fold, which significantly (p less than 0.05) decreased mean C maxand AUC.
 
 Similar findings were observed in patients receiving 400 to 1,200 mg/day imatinib mesylate concomitantly with enzyme-inducing anti-epileptic drugs (EIAED) (e.g., carbamazepine, oxcarbamazepine, phenytoin, fosphenytoin, phenobarbital, and primidone).
 The mean dose normalized AUC for imatinib in the patients receiving EIAED’s decreased by 73% compared to patients not receiving EIAED.
@@ -90,13 +90,13 @@ Imatinib mesylate doses up to 1,200 mg/day (600 mg twice daily) have been given 
 
 Agents Inhibiting CYP3A Metabolism
 
-There was a significant increase in exposure to imatinib (mean Cmax and AUC increased by 26% and 40%, respectively) in healthy subjects when imatinib mesylate was coadministered with a single dose of ketoconazole (a CYP3A4 inhibitor).
+There was a significant increase in exposure to imatinib (mean C maxand AUC increased by 26% and 40%, respectively) in healthy subjects when imatinib mesylate was coadministered with a single dose of ketoconazole (a CYP3A4 inhibitor).
 Caution is recommended when administering imatinib mesylate with strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, and voriconazole).
 Grapefruit juice may also increase plasma concentrations of imatinib and should be avoided.
 
 Interactions with Drugs Metabolized by CYP3A4
 
-Imatinib mesylate increases the mean Cmax and AUC of simvastatin (CYP3A4 substrate) 2- and 3.5-fold, respectively, suggesting an inhibition of the CYP3A4 by imatinib mesylate.
+Imatinib mesylate increases the mean C maxand AUC of simvastatin (CYP3A4 substrate) 2- and 3.5-fold, respectively, suggesting an inhibition of the CYP3A4 by imatinib mesylate.
 Particular caution is recommended when administering imatinib mesylate with CYP3A4 substrates that have a narrow therapeutic window (e.g., alfentanil, cyclosporine, diergotamine, ergotamine, fentanyl, pimozide, quinidine, sirolimus or tacrolimus).
 
 Imatinib mesylate will increase plasma concentration of other CYP3A4 metabolized drugs (e.g., triazolo-benzodiazepines, dihydropyridine calcium channel blockers, certain HMG-CoA reductase inhibitors, etc.).
@@ -105,7 +105,7 @@ Because warfarin is metabolized by CYP2C9 and CYP3A4, patients who require antic
 
 Interactions with Drugs Metabolized by CYP2D6
 
-Imatinib mesylate increased the mean Cmax and AUC of metoprolol by approximately 23% suggesting that imatinib mesylate has a weak inhibitory effect on CYP2D6-mediated metabolism.
+Imatinib mesylate increased the mean C maxand AUC of metoprolol by approximately 23% suggesting that imatinib mesylate has a weak inhibitory effect on CYP2D6-mediated metabolism.
 No dose adjustment is necessary, however, caution is recommended when administering imatinib mesylate with CYP2D6 substrates that have a narrow therapeutic window.
 Interactions with Acetaminophen
 

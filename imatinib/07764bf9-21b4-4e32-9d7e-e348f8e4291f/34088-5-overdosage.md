@@ -11,7 +11,7 @@ Adult Overdose
 
 6,400 mg (single dose): One case in the literature reported one patient who experienced nausea, vomiting, abdominal pain, pyrexia, facial swelling, neutrophil count decreased, increase transaminases.
 
-8 to 10 g (single dose): Vomiting and GI pain have been reported.
+8 to 10 g (single dose):Vomiting and GI pain have been reported.
 
 A patient with myeloid blast crisis experienced Grade 1 elevations of serum creatinine, Grade 2 ascites and elevated liver transaminase levels, and Grade 3 elevations of bilirubin after inadvertently taking 1,200 mg of imatinib mesylate daily for 6 days.
 Therapy was temporarily interrupted and complete reversal of all abnormalities occurred within 1 week.

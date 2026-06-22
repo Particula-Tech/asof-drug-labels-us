@@ -43,14 +43,14 @@ These reactions were usually managed by interrupting imatinib mesylate treatment
 These reactions may be serious or life threatening.
 Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the imatinib mesylate-treated patients are shown in Tables 2, 3, and 4.
 
-Table 2: Adverse Reactions Regardless of Relationship to Study Drug Reported in Newly Diagnosed CML Clinical Trial in the Imatinib Mesylate versus IFN+Ara-C Study (greater than or equal to 10% of Imatinib Mesylate-Treated Patients)All adverse reactions occurring in greater than or equal to 10% of imatinib mesylate treated patients are listed regardless of suspected relationship to treatment.
+Table 2: Adverse Reactions Regardless of Relationship to Study Drug Reported in Newly Diagnosed CML Clinical Trial in the Imatinib Mesylate versus IFN+Ara-C Study (greater than or equal to 10% of Imatinib Mesylate-Treated Patients) All adverse reactions occurring in greater than or equal to 10% of imatinib mesylate treated patients are listed regardless of suspected relationship to treatment.
 
 |  | All Grades |  | CTC Grades 3/4 |  |
 | --- | --- | --- | --- | --- |
 | Preferred Term | Imatinib Mesylate N=551 (%) | IFN+Ara−C N=533 (%) | Imatinib Mesylate N=551 (%) | IFN+Ara−C N=533 (%) |
 | Fluid retention | 61.7 | 11.1 | 2.5 | 0.9 |
 | − Superficial edema | 59.9 | 9.6 | 1.5 | 0.4 |
-| − Other fluid retention reactionsOther fluid retention reactions include pleural effusion, ascites, pulmonary edema, pericardial effusion, anasarca, edema aggravated, and fluid retention not otherwise specified. | 6.9 | 1.9 | 1.3 | 0.6 |
+| − Other fluid retention reactions Other fluid retention reactions include pleural effusion, ascites, pulmonary edema, pericardial effusion, anasarca, edema aggravated, and fluid retention not otherwise specified. | 6.9 | 1.9 | 1.3 | 0.6 |
 | Nausea | 49.5 | 61.5 | 1.3 | 5.1 |
 | Muscle cramps | 49.2 | 11.8 | 2.2 | 0.2 |
 | Musculoskeletal pain | 47 | 44.8 | 5.4 | 8.6 |
@@ -82,12 +82,12 @@ Table 2: Adverse Reactions Regardless of Relationship to Study Drug Reported in 
 
 Abbreviations: CML, chronic myeloid leukemia; CNS, central nervous system; CTC, common terminology criteria; GI, gastrointestinal; IFN, Interferon-alpha. *NCI Common Terminology Criteria for Adverse Events, version 3.0.
 
-Table 3: Most Frequently Reported Non-Hematologic Adverse Reactions (regardless of relationship to study drug) in Patients With Newly Diagnosed Ph+ CML-CP in the Imatinib Mesylate versus nilotinib Study (greater than or equal to 10% in Imatinib Mesylate 400 mg once daily or nilotinib 300 mg twice daily Groups) 60-Month AnalysisExcluding laboratory abnormalities
+Table 3: Most Frequently Reported Non-Hematologic Adverse Reactions (regardless of relationship to study drug) in Patients With Newly Diagnosed Ph+ CML-CP in the Imatinib Mesylate versus nilotinib Study (greater than or equal to 10% in Imatinib Mesylate 400 mg once daily or nilotinib 300 mg twice daily Groups) 60-Month Analysis Excluding laboratory abnormalities
 
 |  |  | Patients With Newly Diagnosed Ph+ CML-CP |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | imatinib mesylate 400 mg once daily N=280 | nilotinib 300 mg twice daily N=279 | imatinib mesylate 400 mg once daily N=280 | nilotinib 300 mg twice daily N=279 |  |  |
-| Body System and Preferred Term |  | All Grades (%) |  | CTC GradesNCI Common Terminology Criteria for Adverse Events, Version 3.0 3/4 (%) |  |
+| Body System and Preferred Term |  | All Grades (%) |  | CTC Grades NCI Common Terminology Criteria for Adverse Events, Version 3.0 3/4 (%) |  |
 | Skin and subcutaneous tissue disorders | Rash | 19 | 38 | 2 | <1 |
 | Pruritus | 7 | 21 | 0 | <1 |  |
 | Alopecia | 7 | 13 | 0 | 0 |  |
@@ -125,14 +125,14 @@ Table 3: Most Frequently Reported Non-Hematologic Adverse Reactions (regardless 
 
 Abbreviation: Ph+ CML-CP, Philadelphia chromosome positive chronic myeloid leukemia-chronic phase.
 
-Table 4: Adverse Reactions Regardless of Relationship to Study Drug Reported in Other CML Clinical Trials (greater than or equal to 10% of all patients in any trial)(1)
+Table 4: Adverse Reactions Regardless of Relationship to Study Drug Reported in Other CML Clinical Trials (greater than or equal to 10% of all patients in any trial) (1)
 
 |  | Myeloid Blast Crisis (n=260) % |  | Accelerated Phase (n=235) % |  | Chronic Phase, IFN Failure (n=532) % |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Preferred Term | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
 | Fluid retention | 72 | 11 | 76 | 6 | 69 | 4 |
 | -Superficial edema | 66 | 6 | 74 | 3 | 67 | 2 |
-| -Other fluid retention reactions(2) | 22 | 6 | 15 | 4 | 7 | 2 |
+| -Other fluid retention reactions (2) | 22 | 6 | 15 | 4 | 7 | 2 |
 | Nausea | 71 | 5 | 73 | 5 | 63 | 3 |
 | Muscle cramps | 28 | 1 | 47 | 0.4 | 62 | 2 |
 | Vomiting | 54 | 4 | 58 | 3 | 36 | 2 |
@@ -186,7 +186,7 @@ Table 5: Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Imatini
 | CTC Grades | Imatinib Mesylate N=551 % |  | IFN+Ara−C N=533 % |  |
 | --- | --- | --- | --- | --- |
 | Grade 3 | Grade 4 | Grade 3 | Grade 4 |  |
-| Hematology Parametersp less than 0.001 (difference in Grade 3 plus 4 abnormalities between the two treatment groups) |  |  |  |  |
+| Hematology Parameters p less than 0.001 (difference in Grade 3 plus 4 abnormalities between the two treatment groups) |  |  |  |  |
 | − Neutropenia | 13.1 | 3.6 | 20.8 | 4.5 |
 | − Thrombocytopenia | 8.5 | 0.4 | 15.9 | 0.6 |
 | − Anemia | 3.3 | 1.1 | 4.1 | 0.2 |
@@ -198,7 +198,7 @@ Table 5: Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Imatini
 
 Abbreviations: CML, chronic myeloid leukemia; IFN, Interferon-alpha; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT).
 
-Table 6: Percent Incidence of Clinically Relevant Grade 3/4NCI Common Terminology Criteria for Adverse Events, version 3.0 Laboratory Abnormalities in the Newly Diagnosed CML Clinical Trial (imatinib mesylate versus nilotinib)
+Table 6: Percent Incidence of Clinically Relevant Grade 3/4 NCI Common Terminology Criteria for Adverse Events, version 3.0Laboratory Abnormalities in the Newly Diagnosed CML Clinical Trial (imatinib mesylate versus nilotinib)
 
 |  | imatinib mesylate 400 mg once daily N=280 (%) | nilotinib 300 mg twice daily N=279 (%) |
 | --- | --- | --- |
@@ -227,7 +227,7 @@ Table 7: Laboratory Abnormalities in Other CML Clinical Trials
 
 |  | Myeloid Blast Crisis (n=260) 600 mg n=223 400 mg n=37 % |  | Accelerated Phase (n=235) 600 mg n=158 400 mg n=77 % |  | Chronic Phase, IFN Failure (n=532) 400 mg % |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| CTC Grades CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5 to 1 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10 to 50 x 109/L, Grade 4 less than 10 x 109/L), anemia (hemoglobin greater than or equal to 65 to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3 to 6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3 to 10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase (Grade 3 greater than 5 to 20 x ULN, Grade 4 greater than 20 x ULN), elevated SGOT or SGPT (Grade 3 greater than 5 to 20 x ULN, Grade 4 greater than 20 x ULN) | Grade 3 | Grade 4 | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
+| CTC Grades CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5 to 1 x 10 9/L, Grade 4 less than 0.5 x 10 9/L), thrombocytopenia (Grade 3 greater than or equal to 10 to 50 x 10 9/L, Grade 4 less than 10 x 109/L), anemia (hemoglobin greater than or equal to 65 to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3 to 6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3 to 10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase (Grade 3 greater than 5 to 20 x ULN, Grade 4 greater than 20 x ULN), elevated SGOT or SGPT (Grade 3 greater than 5 to 20 x ULN, Grade 4 greater than 20 x ULN) | Grade 3 | Grade 4 | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
 | Hematology Parameters |  |  |  |  |  |  |
 | − Neutropenia | 16 | 48 | 23 | 36 | 27 | 9 |
 | − Thrombocytopenia | 30 | 33 | 31 | 13 | 21 | <1 |
@@ -341,7 +341,7 @@ Table 11: Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Stud
 
 |  | N=12 |  |
 | --- | --- | --- |
-| CTC Grades CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5 to 1 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10 to 50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65 to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3 to 6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN) | Grade 3 % | Grade 4 % |
+| CTC Grades CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5 to 1 x 10 9/L, Grade 4 less than 0.5 x 10 9/L), thrombocytopenia (Grade 3 greater than or equal to 10 to 50 x 10 9/L, Grade 4 less than 10 x 10 9/L), anemia (Grade 3 greater than or equal to 65 to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3 to 6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN) | Grade 3 % | Grade 4 % |
 | Hematology Parameters |  |  |
 | - Anemia | 17 | 0 |
 | - Thrombocytopenia | 17 | 0 |
@@ -394,7 +394,7 @@ Table 12: Number (%) of Patients With Adverse Reactions Regardless of Relationsh
 | Other renal/genitourinary toxicity | 14.2 | 6.5 | 13.6 | 5.2 |
 | Arthralgia (joint pain) | 13.6 | 4.8 | 12.3 | 3.0 |
 | Dyspnea (shortness of breath) | 13.6 | 6.8 | 14.2 | 5.6 |
-| Fever in absence of neutropenia (ANC < 1.0 x 109 /L) | 13.2 | 4.9 | 12.9 | 3.4 |
+| Fever in absence of neutropenia (ANC < 1.0 x 10 9/L) | 13.2 | 4.9 | 12.9 | 3.4 |
 | Sweating | 12.7 | 4.6 | 8.5 | 2.8 |
 | Other hemorrhage | 12.3 | 6.7 | 13.3 | 6.1 |
 | Weight gain | 12.0 | 1.0 | 10.6 | 0.6 |
@@ -415,7 +415,7 @@ Severe abnormal laboratory values reported in the Phase 2 GIST trial are present
 
 Table 13: Laboratory Abnormalities in the Phase 2 Unresectable and/or Malignant Metastatic GIST Trial
 
-| CTC Grades1 | 400 mg (n = 73) % |  | 600 mg (n = 74) % |  |
+| CTC Grades 1 | 400 mg (n = 73) % |  | 600 mg (n = 74) % |  |
 | --- | --- | --- | --- | --- |
 | Grade 3 | Grade 4 | Grade 3 | Grade 4 |  |
 | Hematology Parameters |  |  |  |  |
@@ -432,7 +432,7 @@ Table 13: Laboratory Abnormalities in the Phase 2 Unresectable and/or Malignant 
 
 Abbreviations: CTC, common terminology criteria; GIST, gastrointestinal stromal tumors; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT).
 
-1CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5–1.0 x 109 /L, Grade 4 less than 0.5 x 109 /L), thrombocytopenia (Grade 3 greater than or equal to 10–50 x 109 /L, Grade 4 less than 10 x 109 /L), anemia (Grade 3 greater than or equal to 65 to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3–6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3–10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase, SGOT or SGPT (Grade 3 greater than 5–20 x ULN, Grade 4 greater than 20 x ULN), albumin (Grade 3 less than 20 g/L).
+1CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5–1.0 x 10 9/L, Grade 4 less than 0.5 x 10 9/L), thrombocytopenia (Grade 3 greater than or equal to 10–50 x 10 9/L, Grade 4 less than 10 x 10 9/L), anemia (Grade 3 greater than or equal to 65 to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3–6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3–10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase, SGOT or SGPT (Grade 3 greater than 5–20 x ULN, Grade 4 greater than 20 x ULN), albumin (Grade 3 less than 20 g/L).
 
 Adjuvant Treatment of GIST
 
@@ -448,7 +448,7 @@ As in previous trials the most common adverse reactions were diarrhea, fatigue, 
 Adverse reactions, regardless of relationship to study drug, that were reported in at least 5% of the patients treated with imatinib mesylate are shown in Table 14 (Study 1) and Table 15 (Study 2).
 There were no deaths attributable to imatinib mesylate treatment in either trial.
 
-Table 14: Adverse Reactions Regardless of Relationship to Study Drug Reported in Study 1 (greater than or equal to 5% of Imatinib Mesylate-treated patients)(1)
+Table 14: Adverse Reactions Regardless of Relationship to Study Drug Reported in Study 1 (greater than or equal to 5% of Imatinib Mesylate-treated patients) (1)
 
 | Preferred Term | All CTC Grades |  | CTC Grade 3* and Above |  |
 | --- | --- | --- | --- | --- |
@@ -511,7 +511,7 @@ Abbreviations: CTC, common terminology criteria; GIST, gastrointestinal stromal 
 
 A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category.
 
-Table 15: Adverse Reactions Regardless of Relationship to Study Drug by Preferred Term All Grades and 3/4 Grades (greater than or equal to 5% of Imatinib Mesylate-treated patients) Study 2(1)
+Table 15: Adverse Reactions Regardless of Relationship to Study Drug by Preferred Term All Grades and 3/4 Grades (greater than or equal to 5% of Imatinib Mesylate-treated patients) Study 2 (1)
 
 | Preferred Term | All CTC Grades |  | CTC Grades 3 and Above |  |
 | --- | --- | --- | --- | --- |
@@ -573,39 +573,39 @@ Abbreviations: AE, adverse event; CTC, common terminology criteria.
 
 A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category.
 
-Adverse Reactions from Multiple Clinical Trials Cardiac Disorders: Estimated 1% to 10%: palpitations, pericardial effusion Estimated 0.1% to 1%: congestive cardiac failure, tachycardia, pulmonary edema Estimated 0.01% to 0.1%: arrhythmia, atrial fibrillation, cardiac arrest, myocardial infarction, angina pectoris Vascular Disorders: Estimated 1% to 10%: flushing, hemorrhage Estimated 0.1% to 1%: hypertension, hypotension, peripheral coldness, Raynaud’s phenomenon, hematoma, subdural hematoma Investigations: Estimated 1% to 10%: blood creatine phosphokinase (CPK) increased, blood amylase increased Estimated 0.1% to 1%: blood lactate dehydrogenase (LDH) increased Skin and Subcutaneous Tissue Disorders: Estimated 1% to 10%: dry skin, alopecia, face edema, erythema, photosensitivity reaction, nail disorder, purpura Estimated 0.1% to 1%: exfoliative dermatitis, bullous eruption, psoriasis, rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, skin hyperpigmentation, onychoclasis, folliculitis, petechiae, erythema multiforme, panniculitis (including erythema nodosum) Estimated 0.01% to 0.1%: vesicular rash, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discoloration, angioneurotic edema, leucocytoclastic vasculitis Gastrointestinal Disorders: Estimated 1% to 10%: abdominal distention, gastroesophageal reflux, dry mouth, gastritis Estimated 0.1% to 1%: gastric ulcer, stomatitis, mouth ulceration, eructation, melena, esophagitis, ascites, hematemesis, chelitis, dysphagia, pancreatitis Estimated 0.01% to 0.1%: colitis, ileus, inflammatory bowel disease General Disorders and Administration-Site Conditions: Estimated 1% to 10%: weakness, anasarca, chills Estimated 0.1% to 1%: malaise Blood and Lymphatic System Disorders: Estimated 1% to 10%: pancytopenia, febrile neutropenia, lymphopenia, eosinophilia Estimated 0.1% to 1%: thrombocythemia, bone marrow depression, lymphadenopathy Estimated 0.01% to 0.1%: hemolytic anemia, aplastic anemia Hepatobiliary Disorders: Estimated 0.1% to 1%: hepatitis, jaundice Estimated 0.01% to 0.1%: hepatic failure and hepatic necrosis1 Immune System Disorders: Estimated 0.01% to 0.1%: angioedema Infections and Infestations: Estimated 0.1% to 1%: sepsis, herpes simplex, herpes zoster, cellulitis, urinary tract infection, gastroenteritis Estimated 0.01% to 0.1%: fungal infection Metabolism and Nutrition Disorders: Estimated 1% to 10%: weight decreased, decreased appetite Estimated 0.1% to 1%: dehydration, gout, increased appetite, hyperuricemia, hypercalcemia, hyperglycemia, hyponatremia, hyperkalemia, hypomagnesemia Musculoskeletal and Connective Tissue Disorders: Estimated 1% to 10%: joint swelling Estimated 0.1% to 1%: joint and muscle stiffness, muscular weakness, arthritis Nervous System/Psychiatric Disorders: Estimated 1% to 10%: paresthesia, hypesthesia Estimated 0.1% to 1%: syncope, peripheral neuropathy, somnolence, migraine, memory impairment, libido decreased, sciatica, restless leg syndrome, tremor Estimated 0.01% to 0.1%: increased intracranial pressure1, confusional state, convulsions, optic neuritis Renal and Urinary Disorders: Estimated 0.1% to 1%: renal failure acute, urinary frequency increased, hematuria, renal pain Reproductive System and Breast Disorders: Estimated 0.1% to 1%: breast enlargement, menorrhagia, sexual dysfunction, gynecomastia, erectile dysfunction, menstruation irregular, nipple pain, scrotal edema Respiratory, Thoracic and Mediastinal Disorders: Estimated 1% to 10%: epistaxis Estimated 0.1% to 1%: pleural effusion Estimated 0.01% to 0.1%: interstitial pneumonitis, pulmonary fibrosis, pleuritic pain, pulmonary hypertension, pulmonary hemorrhage
+Adverse Reactions from Multiple Clinical Trials Cardiac Disorders: Estimated 1% to 10%: palpitations, pericardial effusion Estimated 0.1% to 1%: congestive cardiac failure, tachycardia, pulmonary edema Estimated 0.01% to 0.1%: arrhythmia, atrial fibrillation, cardiac arrest, myocardial infarction, angina pectoris Vascular Disorders: Estimated 1% to 10%: flushing, hemorrhage Estimated 0.1% to 1%: hypertension, hypotension, peripheral coldness, Raynaud’s phenomenon, hematoma, subdural hematoma Investigations: Estimated 1% to 10%: blood creatine phosphokinase (CPK) increased, blood amylase increased Estimated 0.1% to 1%: blood lactate dehydrogenase (LDH) increased Skin and Subcutaneous Tissue Disorders: Estimated 1% to 10%: dry skin, alopecia, face edema, erythema, photosensitivity reaction, nail disorder, purpura Estimated 0.1% to 1%: exfoliative dermatitis, bullous eruption, psoriasis, rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, skin hyperpigmentation, onychoclasis, folliculitis, petechiae, erythema multiforme, panniculitis (including erythema nodosum) Estimated 0.01% to 0.1%: vesicular rash, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discoloration, angioneurotic edema, leucocytoclastic vasculitis Gastrointestinal Disorders: Estimated 1% to 10%: abdominal distention, gastroesophageal reflux, dry mouth, gastritis Estimated 0.1% to 1%: gastric ulcer, stomatitis, mouth ulceration, eructation, melena, esophagitis, ascites, hematemesis, chelitis, dysphagia, pancreatitis Estimated 0.01% to 0.1%: colitis, ileus, inflammatory bowel disease General Disorders and Administration-Site Conditions: Estimated 1% to 10%: weakness, anasarca, chills Estimated 0.1% to 1%: malaise Blood and Lymphatic System Disorders: Estimated 1% to 10%: pancytopenia, febrile neutropenia, lymphopenia, eosinophilia Estimated 0.1% to 1%: thrombocythemia, bone marrow depression, lymphadenopathy Estimated 0.01% to 0.1%: hemolytic anemia, aplastic anemia Hepatobiliary Disorders: Estimated 0.1% to 1%: hepatitis, jaundice Estimated 0.01% to 0.1%: hepatic failure and hepatic necrosis 1 Immune System Disorders: Estimated 0.01% to 0.1%: angioedema Infections and Infestations: Estimated 0.1% to 1%: sepsis, herpes simplex, herpes zoster, cellulitis, urinary tract infection, gastroenteritis Estimated 0.01% to 0.1%: fungal infection Metabolism and Nutrition Disorders: Estimated 1% to 10%: weight decreased, decreased appetite Estimated 0.1% to 1%: dehydration, gout, increased appetite, hyperuricemia, hypercalcemia, hyperglycemia, hyponatremia, hyperkalemia, hypomagnesemia Musculoskeletal and Connective Tissue Disorders: Estimated 1% to 10%: joint swelling Estimated 0.1% to 1%: joint and muscle stiffness, muscular weakness, arthritis Nervous System/Psychiatric Disorders: Estimated 1% to 10%: paresthesia, hypesthesia Estimated 0.1% to 1%: syncope, peripheral neuropathy, somnolence, migraine, memory impairment, libido decreased, sciatica, restless leg syndrome, tremor Estimated 0.01% to 0.1%: increased intracranial pressure 1, confusional state, convulsions, optic neuritis Renal and Urinary Disorders: Estimated 0.1% to 1%: renal failure acute, urinary frequency increased, hematuria, renal pain Reproductive System and Breast Disorders: Estimated 0.1% to 1%: breast enlargement, menorrhagia, sexual dysfunction, gynecomastia, erectile dysfunction, menstruation irregular, nipple pain, scrotal edema Respiratory, Thoracic and Mediastinal Disorders: Estimated 1% to 10%: epistaxis Estimated 0.1% to 1%: pleural effusion Estimated 0.01% to 0.1%: interstitial pneumonitis, pulmonary fibrosis, pleuritic pain, pulmonary hypertension, pulmonary hemorrhage
 
 Endocrine Disorders:
 
 Estimated 0.1%–1%: hypothyroidism, hyperthyroidism
 
-Eye, Ear and Labyrinth Disorders: Estimated 1% to 10%: conjunctivitis, vision blurred, orbital edema, conjunctival hemorrhage, dry eye Estimated 0.1% to 1%: vertigo, tinnitus, eye irritation, eye pain, scleral hemorrhage, retinal hemorrhage, blepharitis, macular edema, hearing loss, cataract Estimated 0.01% to 0.1%: papilledema1, glaucoma 1Including some fatalities
+Eye, Ear and Labyrinth Disorders: Estimated 1% to 10%: conjunctivitis, vision blurred, orbital edema, conjunctival hemorrhage, dry eye Estimated 0.1% to 1%: vertigo, tinnitus, eye irritation, eye pain, scleral hemorrhage, retinal hemorrhage, blepharitis, macular edema, hearing loss, cataract Estimated 0.01% to 0.1%: papilledema 1, glaucoma 1Including some fatalities
 
 ## 6.2 Postmarketing Experience
 
 The following additional adverse reactions have been identified during post approval use of imatinib mesylate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System Disorders: thrombotic microangiopathy
+Blood and Lymphatic System Disorders:thrombotic microangiopathy
 
-Cardiac Disorders: pericarditis, cardiac tamponade1
+Cardiac Disorders:pericarditis, cardiac tamponade 1
 
-Eye Disorders: vitreous hemorrhage
+Eye Disorders:vitreous hemorrhage
 
-Gastrointestinal Disorders: ileus/intestinal obstruction, tumor hemorrhage/tumor necrosis, GI perforation1 [see Warnings and Precautions (5.6)], diverticulitis, gastric antral vascular ectasia
+Gastrointestinal Disorders:ileus/intestinal obstruction, tumor hemorrhage/tumor necrosis, GI perforation 1[see Warnings and Precautions (5.6)], diverticulitis, gastric antral vascular ectasia
 
-Infections: hepatitis B virus reactivation1
+Infections:hepatitis B virus reactivation 1
 
-Musculoskeletal and Connective Tissue Disorders: osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthralgia, bone pain)
+Musculoskeletal and Connective Tissue Disorders:osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthralgia, bone pain)
 
-Nervous System Disorders: cerebral edema1
+Nervous System Disorders:cerebral edema 1
 
-Reproduction Disorders: hemorrhagic corpus luteum/hemorrhagic ovarian cyst
+Reproduction Disorders:hemorrhagic corpus luteum/hemorrhagic ovarian cyst
 
-Respiratory, Thoracic and Mediastinal Disorders: acute respiratory failure1, interstitial lung disease
+Respiratory, Thoracic and Mediastinal Disorders:acute respiratory failure 1, interstitial lung disease
 
-Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxic epidermal necrolysis, palmar-plantar erythrodysesthesia syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), pseudoporphyria, pemphigus
+Skin and Subcutaneous Tissue Disorders:lichenoid keratosis, lichen planus, toxic epidermal necrolysis, palmar-plantar erythrodysesthesia syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), pseudoporphyria, pemphigus
 
-Vascular Disorders: thrombosis/embolism, anaphylactic shock
+Vascular Disorders:thrombosis/embolism, anaphylactic shock
 
 1Including some fatalities.

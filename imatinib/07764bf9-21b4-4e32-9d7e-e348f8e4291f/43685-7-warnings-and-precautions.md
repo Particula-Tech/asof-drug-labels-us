@@ -31,8 +31,7 @@ Evaluate and treat any patient with signs or symptoms consistent with cardiac or
 
 ## 5.4 Hepatotoxicity
 
-Hepatotoxicity, occasionally severe, may occur with imatinib mesylate [see Adverse Reactions (6.1)].
-Cases of fatal liver failure and severe liver injury requiring liver transplants have been reported with both short-term and long-term use of imatinib mesylate.
+Hepatotoxicity, occasionally severe, may occur with imatinib mesylate [see Adverse Reactions (6.1)].Cases of fatal liver failure and severe liver injury requiring liver transplants have been reported with both short-term and long-term use of imatinib mesylate.
 Monitor liver function (transaminases, bilirubin, and alkaline phosphatase) before initiation of treatment and monthly, or as clinically indicated.
 Manage laboratory abnormalities with imatinib mesylate interruption and/or dose reduction [see Dosage and Administration (2.13)].
 When imatinib mesylate is combined with chemotherapy, liver toxicity in the form of transaminase elevation and hyperbilirubinemia has been observed.
@@ -106,5 +105,5 @@ Recommend caution when driving a car or operating machinery.
 ## 5.14 Renal Toxicity
 
 A decline in renal function may occur in patients receiving imatinib mesylate.
-Median estimated glomerular filtration rate (eGFR) values in patients on imatinib mesylate 400 mg daily for newly-diagnosed CML (four randomized trials) and malignant GIST (one single-arm trial) declined from a baseline value of 85 mL/min/1.73m2 (N=1,190) to 75 mL/min/1.73m2 at 12 months (N=1,082) and 69 mL/min/1.73m2 at 60 months (N=549).
+Median estimated glomerular filtration rate (eGFR) values in patients on imatinib mesylate 400 mg daily for newly-diagnosed CML (four randomized trials) and malignant GIST (one single-arm trial) declined from a baseline value of 85 mL/min/1.73m 2(N=1,190) to 75 mL/min/1.73m 2at 12 months (N=1,082) and 69 mL/min/1.73m 2at 60 months (N=549).
 Evaluate renal function prior to initiating imatinib mesylate and monitor during therapy, with attention to risk factors for renal dysfunction, such as preexisting renal impairment, diabetes mellitus, hypertension, and congestive heart failure.
