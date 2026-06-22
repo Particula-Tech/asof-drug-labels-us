@@ -7,7 +7,7 @@ Clostridioides difficile-Associated Diarrhea
 Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including clindamycin hydrochloride, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.
 
-C. difficile produces toxins A and B, which contribute to the development of CDAD.
+C. difficileproduces toxins A and B, which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficilecause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibacterial drug use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
@@ -31,7 +31,7 @@ Clindamycin is potentially nephrotoxic and cases with acute kidney injury have b
 Consider monitoring of renal function particularly in patients with pre-existing renal dysfunction or those taking concomitant nephrotoxic drugs.
 In case of acute kidney injury, discontinue clindamycin hydrochloride when no other etiology is identified.
 
-Usage in Meningitis - Since clindamycin does not diffuse adequately into the cerebrospinal fluid, the drug should not be used in the treatment of meningitis.
+Usage in Meningitis -Since clindamycin does not diffuse adequately into the cerebrospinal fluid, the drug should not be used in the treatment of meningitis.
 
 # PRECAUTIONS
 
@@ -57,7 +57,7 @@ However, periodic liver enzyme determinations should be made when treating patie
 
 Prescribing clindamycin hydrochloride capsules in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-Due to the risk of esophagitis and esophageal ulcer, it is important to ensure adherence with administration guidance (See DOSAGE AND ADMINISTRATION and ADVERSE REACTIONS).
+Due to the risk of esophagitis and esophageal ulcer, it is important to ensure adherence with administration guidance (See DOSAGE AND ADMINISTRATIONand ADVERSE REACTIONS).
 
 ## Information for Patients
 
@@ -70,7 +70,7 @@ Diarrhea is a common problem caused by antibacterial drugs which usually ends wh
 Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial drug.
 If this occurs, patients should contact their physician as soon as possible.
 
-Advise patients that due to the risk of esophagitis and esophageal ulcer, it is important to adhere to the administration guidance for clindamycin hydrochloride capsules (See DOSAGE AND ADMINISTRATION and ADVERSE REACTIONS).
+Advise patients that due to the risk of esophagitis and esophageal ulcer, it is important to adhere to the administration guidance for clindamycin hydrochloride capsules (See DOSAGE AND ADMINISTRATIONand ADVERSE REACTIONS).
 
 ## Laboratory Tests
 
@@ -86,7 +86,7 @@ Therefore, inhibitors of CYP3A4 and CYP3A5 may increase plasma concentrations of
 In the presence of strong CYP3A4 inhibitors, monitor for adverse reactions.
 In the presence of strong CYP3A4 inducers such as rifampicin, monitor for loss of effectiveness.
 
-In vitro studies indicate that clindamycin does not inhibit CYP1A2, CYP2C9, CYP2C19, CYP2E1 or CYP2D6 and only moderately inhibits CYP3A4.
+In vitrostudies indicate that clindamycin does not inhibit CYP1A2, CYP2C9, CYP2C19, CYP2E1 or CYP2D6 and only moderately inhibits CYP3A4.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -95,7 +95,7 @@ Genotoxicity tests performed included a rat micronucleus test and an Ames Salmon
 Both tests were negative.
 Fertility studies in rats treated orally with up to 300 mg/kg/day (approximately 1.6 times the highest recommended adult human dose based on mg/m 2) revealed no effects on fertility or mating ability.
 
-Pregnancy: Teratogenic effects
+Pregnancy:Teratogenic effects
 
 In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters, has not been associated with an increased frequency of congenital abnormalities.
 
