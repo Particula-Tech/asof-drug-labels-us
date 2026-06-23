@@ -14,7 +14,6 @@ If symptoms of ketoacidosis occur, instruct patients to discontinue STEGLATRO an
 
 Lower Limb Amputation
 
-Inform patients of the potential for an increased risk of amputations.
 Counsel patients about the importance of routine preventative foot care.
 Instruct patients to monitor for new pain or tenderness, sores or ulcers, or infections involving the leg or foot and to seek medical advice immediately if such signs or symptoms develop [see Warnings and Precautions (5.2)].
 
@@ -23,32 +22,16 @@ Volume Depletion
 Inform patients that symptomatic hypotension may occur with STEGLATRO and advise them to contact their doctor if they experience such symptoms [see Warnings and Precautions (5.3)].
 Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
 
-Serious Urinary Tract Infections
+Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections
 
-Inform patients of the potential for urinary tract infections, which may be serious.
-Provide them with information on the symptoms of urinary tract infections.
-Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.4)].
+Counsel patients that genitourinary infections may occur when taking STEGLATRO and may become serious.
+Educate patients on the symptoms and advise them to seek medical advice if symptoms occur.
+Specifically, advise patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise [see Warnings and Precautions (5.4)].
 
 Hypoglycemia with Concomitant Use of Insulin or Insulin Secretagogue
 
 Inform patients that the incidence of hypoglycemia may increase when STEGLATRO is used with insulin or an insulin secretagogue.
 Educate patients or caregivers on the signs and symptoms of hypoglycemia [see Warnings and Precautions (5.5)].
-
-Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
-
-Inform patients that necrotizing infections of the perineum (Fournier's Gangrene) have occurred with SGLT2 inhibitors.
-Counsel patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise [see Warnings and Precautions (5.6)].
-
-Genital Mycotic Infections in Females (e.g., Vulvovaginitis)
-
-Inform female patients that vaginal yeast infections may occur and provide them with information on the signs and symptoms of vaginal yeast infection.
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
-
-Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis)
-
-Inform male patients that yeast infections of the penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males.
-Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
 
 Fetal Toxicity
 
@@ -67,4 +50,4 @@ Missed Dose
 
 Instruct patients to take STEGLATRO only as prescribed.
 If a dose is missed, it should be taken as soon as the patient remembers.
-Advise patients not to double their next dose.
+Advise patients not to double their next dose [see Dosage and Administration (2.4)].

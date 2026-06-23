@@ -5,10 +5,8 @@ The following important adverse reactions are described elsewhere in the labelin
 - Diabetic Ketoacidosis in Patients with Type 1 Diabetes and Other Ketoacidosis [see Warnings and Precautions (5.1)]
 - Lower Limb Amputation [see Warnings and Precautions (5.2)]
 - Volume Depletion [see Warnings and Precautions (5.3)]
-- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
+- Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections [see Warnings and Precautions (5.4)]
 - Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues [see Warnings and Precautions (5.5)]
-- Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.6)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
