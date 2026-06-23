@@ -163,7 +163,7 @@ U.S. License No. 1864 at Baxter Pharmaceutical Solutions, Bloomington, IN 47403 
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 4/2026
+Revised: 6/2026
 
 # INSTRUCTIONS FOR USE
 
@@ -361,4 +361,4 @@ U.S. License No. 1864 at Cilag AG, Schaffhausen, Switzerland
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 4/2026
+Revised: 6/2026
