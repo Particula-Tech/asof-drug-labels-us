@@ -35,7 +35,7 @@ It is unknown whether patients with a history of pancreatitis are at increased r
 
 ## 5.3 Lower Limb Amputation
 
-In a long-term cardiovascular outcomes study [see Clinical Studies (14.2)], in patients with type 2 diabetes mellitus and established cardiovascular disease, the occurrence of non-traumatic lower limb amputations was reported with event rates of 4.7, 5.7, and 6.0 events per 1000 patient-years in the placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg treatment arms, respectively.
+In a long-term cardiovascular outcomes study, in patients with type 2 diabetes mellitus and established cardiovascular disease, the occurrence of non-traumatic lower limb amputations was reported with event rates of 4.7, 5.7, and 6.0 events per 1000 patient-years in the placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg treatment arms, respectively [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
 
 Amputation of the toe and foot were most frequent (81 out of 109 patients with lower limb amputations).
 Some patients had multiple amputations, some involving both lower limbs.
@@ -43,10 +43,8 @@ Some patients had multiple amputations, some involving both lower limbs.
 Lower limb infections, gangrene, and diabetic foot ulcers were the most common precipitating medical events leading to the need for an amputation.
 Patients with amputations were more likely to be male, have higher A1C (%) at baseline, have a history of peripheral arterial disease, amputation or peripheral revascularization procedure, diabetic foot, and to have been taking diuretics or insulin.
 
-Across seven ertugliflozin clinical trials, non-traumatic lower limb amputations were reported in 1 (0.1%) patient in the comparator group, 3 (0.2%) patients in the ertugliflozin 5 mg group, and 8 (0.5%) patients in the ertugliflozin 15 mg group.
-
 Counsel patients about the importance of routine preventative foot care.
-Monitor patients receiving STEGLUJAN for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and discontinue STEGLUJAN if these complications occur.
+Monitor patients receiving STEGLUJAN for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and institute appropriate treatment.
 
 ## 5.4 Acute Renal Failure
 
@@ -66,11 +64,19 @@ Before initiating STEGLUJAN in patients with one or more of these characteristic
 In patients with volume depletion, correct this condition before initiating STEGLUJAN.
 Monitor for signs and symptoms of volume depletion, and renal function after initiating therapy.
 
-## 5.6 Urosepsis and Pyelonephritis
+## 5.6 Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections
 
-There have been postmarketing reports of serious urinary tract infections, including urosepsis and pyelonephritis, requiring hospitalization in patients receiving medicines containing SGLT2 inhibitors.
-Treatment with medicines containing SGLT2 inhibitors increases the risk for urinary tract infections.
-Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
+STEGLUJAN increases urinary glucose excretion [see Clinical Pharmacology (12.2)] and increases the risk of genitourinary infections including urinary tract infections and genital mycotic infections in both male and female patients [see Adverse Reactions (6.1)].
+
+Serious genitourinary infections, including urosepsis, pyelonephritis, and necrotizing fasciitis of the perineum (Fournier’s gangrene, a rare life-threatening infection requiring urgent surgical intervention), have occurred in patients receiving SGLT2 inhibitors [see Adverse Reactions (6.2)].
+Cases have required hospitalization.
+In patients with Fournier’s gangrene, serious outcomes have included multiple surgeries and death.
+
+Patients with a history of genitourinary infections are more likely to develop genitourinary infections when using STEGLUJAN.
+Monitor patients for signs and symptoms of genitourinary infections and treat promptly, if indicated.
+
+Immediately evaluate patients presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, for necrotizing fasciitis.
+If suspected, discontinue STEGLUJAN and promptly institute appropriate medical and/or surgical intervention.
 
 ## 5.7 Heart Failure
 
@@ -87,23 +93,7 @@ Ertugliflozin, may increase the risk of hypoglycemia when used in combination wi
 The risk of hypoglycemia may be lowered by a reduction in the dose of insulin or sulfonylurea (or other concomitantly administered insulin secretagogues).
 Inform patients using these medications concomitantly of this risk and educate them on the signs and symptoms of hypoglycemia.
 
-## 5.9 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
-
-Reports of necrotizing fasciitis of the perineum (Fournier's Gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including ertugliflozin.
-Cases have been reported in females and males.
-Serious outcomes have included hospitalization, multiple surgeries, and death.
-
-Patients treated with STEGLUJAN presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
-If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
-Discontinue STEGLUJAN, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
-
-## 5.10 Genital Mycotic Infections
-
-Ertugliflozin, increases the risk of genital mycotic infections.
-Patients who have a history of genital mycotic infections or who are uncircumcised are more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
-Monitor and treat appropriately.
-
-## 5.11 Hypersensitivity Reactions
+## 5.9 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with sitagliptin.
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions including Stevens-Johnson syndrome.
@@ -113,7 +103,7 @@ If a hypersensitivity reaction is suspected, discontinue STEGLUJAN, assess for o
 Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
 Use caution in a patient with a history of angioedema with another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with STEGLUJAN.
 
-## 5.12 Severe and Disabling Arthralgia
+## 5.10 Severe and Disabling Arthralgia
 
 There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
 The time to onset of symptoms following initiation of drug therapy varied from one day to years.
@@ -121,7 +111,7 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.13 Bullous Pemphigoid
+## 5.11 Bullous Pemphigoid
 
 Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.

@@ -81,7 +81,7 @@ Sitagliptin
 The pharmacokinetics of sitagliptin have been extensively characterized in healthy subjects and patients with type 2 diabetes mellitus.
 After oral administration of a 100-mg dose to healthy subjects, sitagliptin was rapidly absorbed, with peak plasma concentrations (median Tmax) occurring 1 to 4 hours postdose.
 Plasma AUC of sitagliptin increased in a dose proportional manner.
-Following a single oral 100-mg dose to healthy volunteers, mean plasma AUC of sitagliptin was 8.52 µM∙hr, Cmax was 950 nM, and apparent terminal half-life (t1/2) was 12.4 hours.
+Following a single oral 100-mg dose to healthy volunteers, mean plasma AUC of sitagliptin was 8.52 μM∙hr, Cmax was 950 nM, and apparent terminal half-life (t1/2) was 12.4 hours.
 Plasma AUC of sitagliptin increased approximately 14% following 100-mg doses at steady state compared to the first dose.
 The intra subject and inter subject coefficients of variation for sitagliptin AUC were small (5.8% and 15.1%).
 The pharmacokinetics of sitagliptin was generally similar in healthy subjects and in patients with type 2 diabetes mellitus.

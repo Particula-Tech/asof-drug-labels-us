@@ -2,19 +2,17 @@
 
 The following important adverse reactions are described elsewhere in the labeling:
 
-- Diabetic Ketoacidosis in Patients with Type 1 Diabetes and Other Ketoacidosis [see Warnings and Precautions (5.1)]
+- Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.1)]
 - Pancreatitis [see Warnings and Precautions (5.2)]
 - Lower Limb Amputation [see Warnings and Precautions (5.3)]
 - Acute Renal Failure [see Warnings and Precautions (5.4)]
 - Volume Depletion [see Warnings and Precautions (5.5)]
-- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.6)]
+- Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections [see Warnings and Precautions (5.6)]
 - Heart Failure [see Warnings and Precautions (5.7)]
 - Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues [see Warnings and Precautions (5.8)]
-- Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.9)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.10)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.11)]
-- Severe and Disabling Arthralgia [see Warnings and Precautions (5.12)]
-- Bullous Pemphigoid [see Warnings and Precautions (5.13)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.10)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
