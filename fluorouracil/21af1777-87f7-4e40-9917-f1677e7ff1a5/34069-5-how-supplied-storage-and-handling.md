@@ -6,7 +6,7 @@ Fluorouracil injection, USP is supplied as follows:
 
 | Product No. | NDC No. | Strength |  |
 | --- | --- | --- | --- |
-| PRX101751 | 63323-117-58 | 2.5 g per 50 mL(50 mg per mL) | 50 mL flip-top Pharmacy Bulk Package vial, individually packaged |
+| PRX101751 | 63323-117-58 | 2.5 g per 50 mL(50 mg per mL) | 50 mL flip-top Pharmacy Bulk Package vial, individually packaged. |
 | PRX101761 | 63323-117-68 | 5 g per 100 mL(50 mg per mL) | 100 mL flip-top Pharmacy Bulk Package vial, individually packaged. |
 
 ## 16.2 Storage

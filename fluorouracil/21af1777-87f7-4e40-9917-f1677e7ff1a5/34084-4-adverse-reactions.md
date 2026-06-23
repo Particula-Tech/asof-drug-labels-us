@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- •Serious Adverse Reactions from Dihydropyrimidine Dehydrogenase (DPD) Deficiency [see Warnings and Precautions (5.1)]
+- •Serious Adverse Reactions or Death from Dihydropyrimidine Dehydrogenase (DPD) Deficiency [see Warnings and Precautions (5.1)]
 - •Cardiotoxicity [see Warnings and Precautions (5.2)]
 - •Hyperammonemic encephalopathy [see Warnings and Precautions (5.3)]
 - •Neurologic toxicity [see Warnings and Precautions (5.4)]

@@ -2,7 +2,7 @@
 
 Advise:
 
-- •Inform patients of the potential for serious and life-threatening adverse reactions due to DPD deficiency and discuss with your patient whether they should be tested for genetic variants of DPYD that are associated with an increased risk of serious adverse reactions from the use of fluorouracil.
+- •Prior to initiating fluorouracil treatment, inform patients of the potential for serious or fatal adverse reactions due to DPD deficiency and testing for genetic variants of DPYD.
   Advise patients to immediately contact their healthcare provider if symptoms of severe mucositis, diarrhea, neutropenia, and neurotoxicity occur [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.5)].
 - •Patients of the risk of cardiotoxicity.
   Advise patients to immediately contact their healthcare provider or to go to an emergency room for new onset of chest pain, shortness of breath, dizziness, or lightheadedness [see Warnings and Precautions (5.2)].
@@ -20,4 +20,4 @@ Advise:
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-Manufactured by: Fresenius Kabi Lake Zurich, IL 60047 www.fresenius-kabi.com/us 451412B
+Manufactured by: Fresenius Kabi Lake Zurich, IL 60047 www.fresenius-kabi.com/us 451412C
