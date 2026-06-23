@@ -1,18 +1,18 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise patient to read the FDA-approved patient labeling (Medication Guide).
 
 Serious Infections
 
 Inform patients that tofacitinib extended-release tablets may lower the ability of their immune system to fight infections.
 Advise patients not to start taking tofacitinib extended-release tablets if they have an active infection.
-Instruct patients to contact their healthcare provider immediately during treatment if symptoms suggesting infection appear in order to ensure rapid evaluation and appropriate treatment [see Warnings and Precautions (5.1)].
+Instruct patients to contact their healthcare provider immediately during treatment if symptoms suggesting infection appear to ensure rapid evaluation and appropriate treatment [see Warnings and Precautions (5.1)].
 
-Advise patients that the risk of herpes zoster, some cases of which can be serious, is increased in patients treated with tofacitinib tablets/tofacitinib extended-release tablets [see Warnings and Precautions (5.1)].
+Advise patients that the risk of herpes zoster, some cases of which can be serious, is increased in patients treated with tofacitinib extended-release tablets [see Warnings and Precautions (5.1)].
 
 Malignancies and Lymphoproliferative Disorders
 
-Inform patients that tofacitinib extended-release tablets may increase their risk of certain cancers, and that lymphoma and other cancers have been observed in patients taking tofacitinib tablets.
+Inform patients that tofacitinib extended-release tablets may increase their risk of certain cancers, and that lymphoma and other cancers have been observed in patients taking XELJANZ.
 Instruct patients to inform their healthcare provider if they have ever had any type of cancer [see Warnings and Precautions (5.3)].
 
 Major Adverse Cardiovascular Events
@@ -30,11 +30,11 @@ Advise patients to stop taking tofacitinib extended-release tablets and to call 
 
 Important Information on Laboratory Abnormalities
 
-Inform patients that tofacitinib extended-release tablets may affect certain lab test results, and that blood tests are required before and during tofacitinib treatment [see Warnings and Precautions (5.8)].
+Inform patients that tofacitinib extended-release tablets may affect certain lab test results, and that blood tests are required before and during tofacitinib extended-release tablets treatment [see Warnings and Precautions (5.8)].
 
 Pregnancy
 
-Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+Advise pregnant females and females of reproductive potential of the potential risk to a fetus.
 Advise females to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
@@ -46,12 +46,10 @@ Infertility
 Advise females of reproductive potential that tofacitinib extended-release tablets may impair fertility [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)].
 It is not known if this effect is reversible.
 
-For medical information about tofacitinib extended-release tablets, please call 855-664-7744.
-
 Product of India
 
-Manufactured by: Ajanta Pharma Limited, India Marketed by:
+Manufactured by: Ajanta Pharma Limited, India
 
-Ajanta Pharma USA Inc.
+Marketed by: Ajanta Pharma USA Inc. Bridgewater, NJ 08807.
 
-Bridgewater, NJ 08807.
+Xeljanz is a registered trademark of Pfizer, Inc. Xeljanz Oral Solution is a registered trademark of Pfizer, Inc. All trademarks are the property of their respective owners.

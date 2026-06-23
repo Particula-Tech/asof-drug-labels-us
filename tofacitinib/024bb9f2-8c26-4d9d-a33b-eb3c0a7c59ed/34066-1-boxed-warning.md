@@ -1,40 +1,42 @@
 # WARNING: SERIOUS INFECTIONS, MORTALITY, MALIGNANCY, MAJOR ADVERSE CARDIOVASCULAR EVENTS, and THROMBOSIS
 
-SERIOUS INFECTIONS Patients treated with tofacitinib extended-release tablets are at increased risk for developing serious infections that may lead to hospitalization or death [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
+SERIOUS INFECTIONS
+
+Patients treated with tofacitinib extended-release tablets are at increased risk for developing serious bacterial, fungal, viral, and opportunistic infections, including tuberculosis (TB), that may lead to hospitalization or death [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
 Most patients who developed these infections were taking concomitant immunosuppressants such as methotrexate or corticosteroids.
+Reported infections included:
 
-If a serious infection develops, interrupt tofacitinib extended-release tablets until the infection is controlled.
-
-Reported infections include:
-
-- Active tuberculosis, which may present with pulmonary or extrapulmonary disease.
-  Patients should be tested for latent tuberculosis before tofacitinib extended-release tablets use and during therapy.
+- Active TB, which may present with pulmonary or extrapulmonary disease.
+  Patients should be tested for latent TB before tofacitinib extended-release tablets use and during therapy.
   Treatment for latent infection should be initiated prior to tofacitinib extended-release tablets use.
 - Invasive fungal infections, including cryptococcosis and pneumocystosis.
   Patients with invasive fungal infections may present with disseminated, rather than localized, disease.
 - Bacterial, viral, including herpes zoster, and other infections due to opportunistic pathogens.
 
-The risks and benefits of treatment with tofacitinib extended-release tablets should be carefully considered prior to initiating therapy in patients with chronic or recurrent infection.
+The risks and benefits of tofacitinib extended-release tablets treatment should be carefully considered prior to initiating therapy in patients with chronic or recurrent infection.
 
-Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with tofacitinib extended-release tablets, including the possible development of tuberculosis in patients who tested negative for latent tuberculosis infection prior to initiating therapy [see Warnings and Precautions (5.1)].
+Patients should be closely monitored for the development of signs and symptoms of infection during and after tofacitinib extended-release tablets treatment, including the possible development of TB in patients who tested negative for latent TB infection prior to initiating therapy.
+If a serious infection develops, interrupt tofacitinib extended-release tablets until the infection is controlled [see Warnings and Precautions (5.1)].
 
-MORTALITY In a large, randomized, postmarketing safety study in rheumatoid arthritis (RA) patients 50 years of age and older with at least one cardiovascular risk factor comparing tofacitinib tablets 5 mg twice a day or tofacitinib tablets 10 mg twice a day to tumor necrosis factor (TNF) blockers, a higher rate of all-cause mortality, including sudden cardiovascular death, was observed with tofacitinib tablets 5 mg twice a day or tofacitinib tablets 10 mg twice a day [see Warnings and Precautions (5.2)].
-A tofacitinib tablets 10 mg twice daily (or a tofacitinib extended-release tablets 22 mg once daily) dosage is not recommended for the treatment of RA or PsA [see Dosage and Administration (2.2)].
+MORTALITY
+
+In a large, randomized, postmarketing safety study in rheumatoid arthritis (RA) patients 50 years of age and older with at least one cardiovascular (CV) risk factor comparing tofacitinib tablets 5 mg or 10 mg twice a day to tumor necrosis factor (TNF) blockers, a higher rate of all-cause mortality, including sudden CV death, was observed with tofacitinib tablets 5 mg or 10 mg twice a day [see Warnings and Precautions (5.2)].
+Tofacitinib tablets 10 mg twice daily dosages are not recommended for the treatment of RA, psoriatic arthritis (PsA), or ankylosing spondylitis (AS) [see Dosage and Administration (2.3)].
 
 MALIGNANCIES Malignancies, including lymphomas and solid tumors, have occurred in patients treated with tofacitinib and other Janus kinase inhibitors used to treat inflammatory conditions.
-In RA patients, a higher rate of malignancies (excluding NMSC) was observed in patients treated with tofacitinib tablets 5 mg twice a day or tofacitinib tablets 10 mg twice a day compared with TNF blockers [see Warnings and Precautions (5.3)].
+In RA patients, a higher rate of malignancies (excluding non-melanoma skin cancer NMSC)) was observed in patients treated with tofacitinib tablets 5 mg or 10 mg twice a day compared with TNF blockers [see Warnings and Precautions (5.3)].
 
-Lymphomas and lung cancers were observed at a higher rate in patients treated with tofacitinib tablets 5 mg twice a day or tofacitinib tablets 10 mg twice a day in RA patients compared to those treated with TNF blockers.
+Lymphomas and lung cancers were observed at a higher rate in patients treated with tofacitinib tablets 5 mg or 10 mg twice a day in RA patients compared to those treated with TNF blockers.
 Patients who are current or past smokers are at additional increased risk.
 
-Epstein Barr Virus-associated post-transplant lymphoproliferative disorder has been observed at an increased rate in renal transplant patients treated with tofacitinib and concomitant immunosuppressive medications [see Warnings and Precautions (5.3)].
-
-MAJOR ADVERSE CARDIOVASCULAR EVENTS RA patients 50 years of age and older with at least one cardiovascular risk factor, treated with tofacitinib tablets 5 mg twice daily or tofacitinib tablets 10 mg twice daily, had a higher rate of major adverse cardiovascular events (MACE) (defined as cardiovascular death, myocardial infarction, and stroke), compared to those treated with TNF blockers.
+MAJOR ADVERSE CARDIOVASCULAR EVENTS RA patients 50 years of age and older with at least one cardiovascular risk factor, treated with tofacitinib tablets 5 mg or 10 mg twice daily, had a higher rate of major adverse cardiovascular events (MACE) (defined as cardiovascular death, myocardial infarction, and stroke), compared to those treated with TNF blockers.
 Patients who are current or past smokers are at additional increased risk.
-Discontinue tofacitinib in patients that have experienced a myocardial infarction or stroke [see Warnings and Precautions (5.4)].
+Discontinue tofacitinib extended-release tablets in patients that have experienced a myocardial infarction or stroke [see Warnings and Precautions (5.4)].
 
-THROMBOSIS Thrombosis, including pulmonary embolism, deep venous thrombosis, and arterial thrombosis have occurred in patients treated with tofacitinib and other Janus kinase inhibitors used to treat inflammatory conditions.
+THROMBOSIS
+
+Thrombosis, including pulmonary embolism, deep venous thrombosis, and arterial thrombosis have occurred in patients treated with tofacitinib and other Janus kinase inhibitors used to treat inflammatory conditions.
 Many of these events were serious and some resulted in death.
-RA patients 50 years of age and older with at least one cardiovascular risk factor treated with tofacitinib tablets 5 mg twice daily or tofacitinib tablets 10 mg twice daily compared to TNF blockers had an observed increase in incidence of these events.
+RA patients 50 years of age and older with at least one cardiovascular risk factor treated with tofacitinib tablets 5 mg or 10 mg twice daily compared to TNF blockers had an observed increase in incidence of these events.
 Avoid tofacitinib in patients at risk.
-Discontinue tofacitinib and promptly evaluate patients with symptoms of thrombosis [see Warnings and Precautions (5.5)].
+Discontinue tofacitinib extended-release tablets and promptly evaluate patients with symptoms of thrombosis [see Warnings and Precautions (5.5)].
