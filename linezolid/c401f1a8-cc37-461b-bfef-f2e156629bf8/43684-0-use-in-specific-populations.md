@@ -27,7 +27,7 @@ The effects consisted of decreased fetal body weights and reduced ossification o
 Fetal malformations were not observed.
 Maternal toxicity, in the form of reduced body weight gain, was seen at 50 mg/kg/day.
 
-In rabbits, reduced fetal body weight occurred only in the presence of maternal toxicity (clinical signs, reduced body weight gain and food consumption) when administered at an oral dose of 15 mg/kg/day given from GD 6–20 (0.06 times the estimated human exposure based on AUCs).
+In rabbits, reduced fetal body weight occurred only in the presence of maternal toxicity (clinical signs, reduced body weight gain and food consumption) when administered at an oral dose of 15 mg/kg/day given from GD 6‑20 (0.06 times the estimated human exposure based on AUCs).
 Fetal malformations were not observed.
 
 When female rats were treated with 50 mg/kg/day (approximately equivalent to the estimated human exposure based on AUCs) of linezolid during pregnancy and lactation (GD 6 through Lactation Day 20), survival of pups was decreased on postnatal days 1 to 4.

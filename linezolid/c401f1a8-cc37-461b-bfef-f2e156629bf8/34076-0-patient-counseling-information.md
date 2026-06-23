@@ -10,7 +10,8 @@ Advise patients to inform their physician if they experience changes in vision w
 
 Serotonin Syndrome
 
-Advise patients to inform their physician if taking serotonergic agents, including serotonin re-uptake inhibitors or other antidepressants and opioids [see Warnings and Precautions (5.3)].
+Advise patients to inform their physician if taking serotonergic agents, including serotonin reuptake inhibitors or other antidepressants and opioids.
+Advise patients of the increased risk of serotonin syndrome when Linezolid injection is used concomitantly with serotonergic agents [see Warnings and Precautions (5.3)].
 
 Potential Interactions Producing Elevation of Blood Pressure
 
