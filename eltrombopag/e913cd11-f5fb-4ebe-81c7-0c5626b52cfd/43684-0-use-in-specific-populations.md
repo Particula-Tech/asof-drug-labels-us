@@ -9,7 +9,7 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 Data Animal Data In an early embryonic development study, female rats received oral eltrombopag at doses of 10, 20, or 60 mg/kg/day (0.8, 2, and 6 times, respectively, the human clinical exposure based on AUC in patients with ITP at 75 mg/day and 0.3, 1, and 3 times, respectively, the human clinical exposure based on AUC in patients with chronic hepatitis C at 100 mg/day).
-Increased pre-and post-implantation loss and reduced fetal weight were observed at the highest dose which also caused maternal toxicity.
+Increased pre- and post-implantation loss and reduced fetal weight were observed at the highest dose which also caused maternal toxicity.
 In an embryo-fetal development study eltrombopag was administered orally to pregnant rats during the period of organogenesis at doses of 10, 20, or 60 mg/kg/day (0.8, 2, and 6 times, respectively, the human clinical exposure based on AUC in patients with ITP at 75 mg/day and 0.3, 1, and 3 times, respectively, the human clinical exposure based on AUC in patients with chronic hepatitis C at 100 mg/day).
 Decreased fetal weights (6% to 7%) and a slight increase in the presence of cervical ribs were observed at the highest dose which also caused maternal toxicity.
 However, no evidence of major structural malformations was observed.
@@ -33,14 +33,18 @@ Sexually-active females of reproductive potential should use effective contracep
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of eltrombopag have been established in pediatric patients 1 year and older with persistent or chronic ITP.
+The safety and efficacy of eltrombopag have been established in pediatric patients 1 year and older with persistent or chronic ITP and in pediatric patients 2 years and older with IST-naïve severe aplastic anemia (in combination with h-ATG and cyclosporine).
 Safety and efficacy in pediatric patients below the age of 1 year with ITP have not been established.
 Safety and efficacy in pediatric patients with thrombocytopenia associated with chronic hepatitis C and refractory severe aplastic anemia have not been established.
 The safety and efficacy of eltrombopag in pediatric patients 1 year and older with persistent or chronic ITP were evaluated in two double-blind, placebo-controlled trials [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 The pharmacokinetics of eltrombopag have been evaluated in 168 pediatric patients 1 year and older with ITP dosed once daily [see Clinical Pharmacology (12.3)].
 See Dosage and Administration (2.1)for dosing recommendations for pediatric patients 1 year and older.
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's PROMACTA ®(eltrombopag) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+The safety and efficacy of eltrombopag in combination with h-ATG and cyclosporine for the first-line treatment of severe aplastic anemia in pediatric patients 2 years and older were evaluated in a single-arm, open-label trial [see Adverse Reactions (6.1),Clinical Studies (14.3)].
+A total of 26 pediatric patients (ages 2 to < 17 years) were evaluated; 12 children (aged 2 to < 12 years) and 14 adolescents (aged 12 to < 17).
+See Dosage and Administration (2.3)for dosing recommendations for pediatric patients 2 years and older.
+The safety and efficacy of eltrombopag in combination with h-ATG and cyclosporine in pediatric patients younger than 2 years for the first-line treatment of severe aplastic anemia have not yet been established.
+In patients 2 to 16 years of age, 69% of patients experienced serious adverse events compared to 42% in patients 17 years and older.
+Among the 12 patients who were 2 to 11 years of age in the eltrombopag D1-M6 cohort and reached the 6-month assessment or withdrew earlier, the complete response rate at Month 6 was 8% versus 46% in patients age 12 to 16 years and 50% in patients 17 years of age and older.
 
 ## 8.5 Geriatric Use
 
@@ -52,11 +56,11 @@ No overall differences in safety or effectiveness were observed between these pa
 ## 8.6 Hepatic Impairment
 
 Patients With Persistent or Chronic ITP and Severe Aplastic Anemia Reduce the initial dose of eltrombopag in patients with persistent or chronic ITP (adult and pediatric patients 6 years and older only) or refractory severe aplastic anemia who also have hepatic impairment (Child-Pugh class A, B, C) [see Dosage and Administration (2.1,2.3),Warnings and Precautions (5.2),Clinical Pharmacology (12.3)].
+In a clinical trial in patients with severe aplastic anemia who had not received prior definitive immunosuppressive therapy, patients with baseline ALT or AST > 5 x ULN were ineligible to participate.
+If a patient with hepatic impairment (Child-Pugh class A, B, C) initiates therapy with eltrombopag for the first-line treatment of severe aplastic anemia, reduce the initial dose [see Dosage and Administration (2.3), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 Patients With Chronic Hepatitis C No dosage adjustment is recommended in patients with chronic hepatitis C and hepatic impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Ethnicity
 
 Reduce the initial dose of eltrombopag for patients of East-/Southeast-Asian ancestry with ITP (adult and pediatric patients 6 years and older only) or severe aplastic anemia [see Dosage and Administration (2.1,2.3), Clinical Pharmacology (12.3)].
 No reduction in the initial dose of eltrombopag is recommended in patients of East-/Southeast-Asian ancestry with chronic hepatitis C [see Clinical Pharmacology (12.3)].
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's PROMACTA ®(eltrombopag) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.

@@ -117,7 +117,36 @@ ALT or AST greater than or equal to 3 x ULN was reported in 34% and 38% of patie
 In the two controlled clinical trials in patients with chronic hepatitis C, cataracts developed or worsened in 8% of patients treated with eltrombopag and 5% of patients treated with placebo.
 The safety of eltrombopag was also assessed in all patients treated with eltrombopag in the two controlled trials, including patients who initially received eltrombopag in the pre-antiviral treatment phase of the trial and were later randomized to the placebo arm (N = 1520 eltrombopag-treated patients).
 Hepatic failure was reported in 0.8% of eltrombopag-treated patients and 0.4% of placebo-treated patients.
-Severe Aplastic Anemia: Refractory Severe Aplastic Anemia In the single-arm, open-label trial, 43 patients with refractory severe aplastic anemia received eltrombopag.
+Severe Aplastic Anemia: First-Line Treatment of Severe Aplastic Anemia The safety of eltrombopag was established based upon a single-arm trial of 153 patients with severe aplastic anemia who had not received prior definitive immunosuppressive therapy.
+In this trial, eltrombopag was administered in combination with horse antithymocyte globulin (h-ATG) and cyclosporine [see Clinical Studies (14.3)].
+Among the 153 patients who were dosed in this trial, 92 patients were evaluable for safety of the concurrent use of eltrombopag, h-ATG, and cyclosporine at the recommended dose and schedule.
+In this cohort, eltrombopag was administered at up to 150 mg once daily on Day 1 to Month 6 (D1-M6) in combination with h-ATG on Days 1 to 4 and cyclosporine for 6 months, followed by low dose of cyclosporine (maintenance dose) for an additional 18 months for patients who achieved a hematologic response at 6 months.
+The median duration of exposure to eltrombopag in this cohort was 183 days with 70% of patients exposed for > 24 weeks.
+Table 12 presents the most common adverse reactions (experienced by greater than or equal to 5% of patients) associated with eltrombopag in the D1-M6 cohort.
+Table 12.
+Adverse Reactions (≥ 5%) From One Open-label Trial in First-Line Treatment of Patients With Severe Aplastic Anemia
+
+| Adverse reaction | Eltrombopag n = 92 (%) |
+| --- | --- |
+| ALT increased | 29 |
+| AST increased | 17 |
+| Blood bilirubin increased | 17 |
+| Rash | 8 |
+| Skin discoloration, including hyperpigmentation | 5 |
+
+Abbreviations: ALT, alanine aminotransferase; AST, aspartate aminotransferase.
+In the eltrombopag D1-M6 cohort, ALT increased (29%), AST increased (17%), and blood bilirubin increased (17%) were reported more frequently than in patients with refractory severe aplastic anemia (see Table 13).
+New or worsening liver function laboratory abnormalities (CTCAE Grade 3 and Grade 4) in the eltrombopag D1-M6 cohort were 15% and 2% for AST, 26% and 4% for ALT, and 12% and 1% for bilirubin, respectively.
+In this single-arm open-label clinical trial, ALT or AST > 3 x ULN with total bilirubin > 1.5 x ULN and ALT or AST > 3 x ULN with total bilirubin > 2 x ULN were reported in 44% and 32% of patients, respectively, in the eltrombopag D1-M6 cohort.
+Pediatric Patients A total of 34 pediatric patients (2 patients 2 to 5 years of age, 12 patients 6 to 11 years of age, and 20 patients 12 to 16 years of age) were enrolled in this single-arm trial of which 26 pediatric patients were enrolled in the eltrombopag D1-M6 cohort.
+In this cohort, the most frequent serious adverse reactions (experienced by ≥ 10% of patients) were upper respiratory tract infection (12% in patients age 2 to 16 years compared to 5% in patients 17 years of age and older, respectively) and rash (12% compared to 2%).
+The most common adverse reactions (experienced by ≥ 10% of patients) associated with eltrombopag were ALT increased (23% in patients age 2 to 16 years compared to 32% in patients 17 years of age and older, respectively), blood bilirubin increased (12% compared to 20%), AST increased (12% compared to 20%), and rash (12% compared to 6%).
+Cytogenetic Abnormalities In this trial, patients had bone marrow aspirates evaluated for cytogenetic abnormalities.
+Seven patients in the eltrombopag D1-M6 cohort had a new cytogenetic abnormality reported of which 4 had the loss of chromosome 7; these 4 occurred within 6.1 months.
+Across all cohorts, clonal cytogenetic evolution occurred in 15 out of 153 (10%) patients.
+Of the 15 patients who experienced a cytogenetic abnormality: 7 patients had the loss of chromosome 7, 6 of which occurred within 6.1 months; 4 patients had chromosomal aberrations which were of unclear significance; 3 patients had a deletion of chromosome 13; and 1 patient had a follow-up bone marrow assessment at 5 years with features of dysplasia with hypercellularity concerning for potential development of MDS.
+It is unclear whether these findings occurred due to the underlying disease, the immunosuppressive therapy, and/or treatment with eltrombopag.
+Refractory Severe Aplastic Anemia In the single-arm, open-label trial, 43 patients with refractory severe aplastic anemia received eltrombopag.
 Eleven patients (26%) were treated for greater than 6 months and 7 patients (16%) were treated for greater than 1 year.
 The most common adverse reactions (greater than or equal to 20%) were nausea, fatigue, cough, diarrhea, and headache.
 Table 13.
@@ -151,5 +180,3 @@ Eight patients had a new cytogenetic abnormality reported on therapy, including 
 The following adverse reactions have been identified during post approval use of eltrombopag.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
 Skin and Subcutaneous Tissue Disorders:Skin discoloration, including hyperpigmentation and skin yellowing.
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's PROMACTA ®(eltrombopag) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.

@@ -25,4 +25,4 @@ By: HETERO TM Hetero Labs Limited, Plot No. 28P1 to 36P1 & 37 to 54, Vemagal Ind
 
 By: Evaric Pharmaceuticals Inc. 155 Commerce Drive, Hauppauge, New York 11788, United States (USA).
 
-Revised: 08/2025
+Revised: 06/2026

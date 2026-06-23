@@ -12,10 +12,8 @@ Eltrombopag tablets should be used only in patients with chronic hepatitis C who
 
 ## 1.3 Treatment of Severe Aplastic Anemia
 
-• Eltrombopag tablets are indicated for the treatment of patients with severe aplastic anemia who have had an insufficient response to immunosuppressive therapy.
+• Eltrombopag tablets are indicated in combination with standard immunosuppressive therapy (IST) for the first-line treatment of adult and pediatric patients 2 years and older with severe aplastic anemia. • Eltrombopag tablets are indicated for the treatment of patients with severe aplastic anemia who have had an insufficient response to immunosuppressive therapy.
 
 ## 1.4 Limitations of Use
 
 • Eltrombopag tablets are not indicated for the treatment of patients with myelodysplastic syndromes (MDS) [see Warnings and Precautions (5.3)]. • Safety and efficacy have not been established in combination with direct-acting antiviral agents used without interferon for treatment of chronic hepatitis C infection.
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's PROMACTA ®(eltrombopag) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.

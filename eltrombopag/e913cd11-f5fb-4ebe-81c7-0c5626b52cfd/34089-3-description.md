@@ -12,4 +12,4 @@ Eltrombopag tablets contain eltrombopag olamine in the amount equivalent to 12.5
 The inactive ingredients of eltrombopag tablets are:
 
 Tablet Core:magnesium stearate, mannitol, microcrystalline cellulose, povidone and sodium starch glycolate.
-Coating:FD&C Blue #2/Indigo carmine aluminum lake (for 25 mg), FD & C Yellow # 6/Sunset Yellow FCF Aluminum lake (for 25 mg), hypromellose, iron oxide yellow (for 75 mg), polyethylene glycol, polysorbate 80 (for 12.5 mg and 75 mg) and titanium dioxide.
+Coating:FD&C Blue #2/Indigo carmine aluminum lake (for 25 mg), FD&C Yellow # 6/Sunset Yellow FCF Aluminum lake (for 25 mg), hypromellose, iron oxide yellow (for 75 mg), polyethylene glycol, polysorbate 80 (for 12.5 mg and 75 mg) and titanium dioxide.

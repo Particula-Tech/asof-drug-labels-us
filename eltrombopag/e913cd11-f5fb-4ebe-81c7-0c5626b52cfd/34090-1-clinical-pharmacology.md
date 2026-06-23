@@ -15,7 +15,7 @@ Cardiac Electrophysiology At doses up to 150 mg (the maximum recommended dose) d
 Eltrombopag demonstrated a dose-proportional increase in exposure between doses of 50 to 150 mg/day in healthy adult subjects.
 Eltrombopag AUC was approximately 1.7-fold higher in patients with persistent or chronic ITP and approximately 2.8-fold higher in patients with HCV compared to healthy subjects.
 Steady-state was achieved after approximately 1 week of once daily treatment, with geometric mean accumulation ratio of 1.56 (90% confidence interval 1.20, 1.63) at 75 mg/day.
-Eltrombopag for oral suspension delivered 22% higher plasma AUC 0-INFthan the tablet formulation.
+Eltrombopag AUC was approximately 3.2-fold higher in patients with definitive immunosuppressive therapy-naïve severe aplastic anemia compared to healthy subjects suggesting higher relative exposure compared to healthy subjects or patients with ITP and similar exposure compared to patients with chronic hepatitis C. Eltrombopag for oral suspension delivered 22% higher plasma AUC 0-INFthan the tablet formulation.
 Absorption Eltrombopag is absorbed with a peak concentration occurring 2 to 6 hours after oral administration.
 Oral absorption of drug-related material following administration of a single 75 mg solution dose was estimated to be at least 52%.
 Effect of Food A standard high-fat breakfast (876 calories, 52 g fat, 71 g carbohydrate, 34 g protein, and 427 mg calcium) significantly decreased plasma eltrombopag AUC 0-INFby approximately 59% and C maxby 65% and delayed T maxby 1 hour.
@@ -72,5 +72,3 @@ Effect of Eltrombopag on Rosuvastatin: The coadministration of multiple doses of
 Effect of Eltrombopag on HCV Protease Inhibitors: The coadministration of repeat-dose telaprevir (750 mg every 8 hours) or boceprevir (800 mg every 8 hours) with a single dose of eltrombopag (200 mg) to healthy adult subjects in a clinical trial did not alter plasma telaprevir or boceprevir AUC 0-INFor C maxto a significant extent.
 In vitroStudies Eltrombopag Effect on Metabolic Enzymes Eltrombopag has demonstrated the potential to inhibit CYP2C8, CYP2C9, UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, UGT2B7, and UGT2B15.
 Eltrombopag Effect on Transporters Eltrombopag has demonstrated the potential to inhibit OATP1B1 and BCRP.
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's PROMACTA ®(eltrombopag) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.

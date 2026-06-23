@@ -22,6 +22,9 @@ If the potential benefit for reinitiating treatment with eltrombopag is consider
 Hepatotoxicity may reoccur if eltrombopag is reinitiated.
 If liver test abnormalities persist, worsen, or recur, then permanently discontinue eltrombopag.
 
+First-Line Treatment of Severe Aplastic Anemia Measure ALT, AST, and bilirubin prior to initiation of eltrombopag, every other day while hospitalized for h-ATG therapy, and then every 2 weeks during treatment.
+During treatment, manage increases in ALT or AST levels as recommended in Table 6.
+
 ## 5.3 Increased Risk of Death and Progression of Myelodysplastic Syndromes to Acute Myeloid Leukemia
 
 A randomized, double-blind, placebo-controlled, multicenter trial in patients with International Prognostic Scoring System (IPSS) intermediate-1, intermediate-2 or high risk MDS with thrombocytopenia, receiving azacitidine in combination with either eltrombopag (n = 179) or placebo (n = 177) was terminated due to lack of efficacy and safety reasons, including increased progression to acute myeloid leukemia (AML).
@@ -60,5 +63,3 @@ Inaccurate test results that are inconsistent with clinical observations may occ
 In addition, other lab tests may be impacted, including but not limited to total protein and albumin, and incorrect test results may be generated if there is eltrombopag in the patient’s specimen.
 Communicate to the lab conducting the testing if your patient is taking eltrombopag.
 Re-testing using other methods may also help in determining the validity of the test results [see Drug Interactions (7.5)].
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's PROMACTA ®(eltrombopag) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.

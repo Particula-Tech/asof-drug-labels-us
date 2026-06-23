@@ -152,6 +152,47 @@ A greater proportion of patients on eltrombopag did not require any antiviral do
 
 ## 14.3 Severe Aplastic Anemia
 
+First-Line Treatment of Severe Aplastic Anemia Eltrombopag in combination with h-ATG and cyclosporine was investigated in a single-arm, single-center, open-label sequential cohort trial (Study ETB115AUS01T, referred to as Study US01T [NCT01623167]) in patients with severe aplastic anemia who had not received prior immunosuppressive therapy (IST) with any ATG, alemtuzumab, or high dose cyclophosphamide.
+A total of 153 patients received eltrombopag in Study US01T in three sequential cohorts and an extension of the third cohort.
+The multiple cohorts received the same eltrombopag starting dose but differed by treatment start day and duration.
+The starting dose of eltrombopag for patients 12 years and older was 150 mg once daily (a reduced dose of 75 mg was administered for East-/Southeast-Asians), 75 mg once daily for pediatric patients aged 6 to 11 years (a reduced dose of 37.5 mg was administered for East-/Southeast-Asians), and 2.5 mg/kg once daily for pediatric patients aged 2 to 5 years (a reduced dose of 1.25 mg/kg was administered for East-/Southeast-Asians). • Cohort 1 (n = 30): Eltrombopag on Day 14 to Month 6 (D14-M6) plus h-ATG and cyclosporine • Cohort 2 (n = 31): Eltrombopag on Day 14 to Month 3 (D14-M3) plus h-ATG and cyclosporine • Cohort 3 + Extension cohort [eltrombopag D1-M6 cohort] (n = 92): Eltrombopag on Day 1 to Month 6 (D1-M6) plus h-ATG and cyclosporine (with all patients eligible to receive low dose of cyclosporine (maintenance dose) if they achieved a hematologic response at 6 months) Eltrombopag dose reductions were conducted for elevated platelet counts and hepatic impairment.
+Table 21 includes the dosages of h-ATG and cyclosporine administered in combination with eltrombopag in Study US01T.
+Data from the Cohort 3 + Extension cohort support the efficacy of eltrombopag for the first-line treatment of patients with severe aplastic anemia (Table 22).
+The results presented in this section represent the findings from the Cohort 3 and Extension cohort (n = 92).
+Table 21.
+Dosages of Immunosuppressive Therapy Administered With Eltrombopag in Study US01T
+
+| Agent | Dose Administered in the Pivotal Trial |
+| --- | --- |
+| Horse antithymocyte globulin (h-ATG) | 40 mg/kg/day, based on actual body weight, administered intravenously on Days 1 to 4 of the 6-month treatment period |
+| Cyclosporine a (therapeutic dose for 6 months, from Day 1 to Month 6, adjusted to obtain a target therapeutic trough level between 200 mcg/L and 400 mcg/L) | Patients 12 years and older (total daily dose of 6mg/kg/day) 3 mg/kg, based on actual body weight, orally every 12 hours for 6 months, starting on Day 1 Patients > 20 years of age with a body mass index > 35 or patients 12 to 20 years of age with a body mass index > 95 thpercentile: 3 mg/kg, based on adjusted body weight b, orally every 12 hours for 6 months, starting on Day 1 Patients 2 to 11 years of age (total daily dose of 12 mg/kg/day) 6 mg/kg, based on actual body weight, orally every 12 hours for 6 months, starting on Day 1 Patients 2 to 11 years of age with a body mass index > 95 thpercentile: 6 mg/kg, based on adjusted body weight b, orally every 12 hours for 6 months, starting on Day 1 |
+| Cyclosporine (maintenance dose, from Month 6 to Month 24) | For patients who achieve a hematologic response at 6 months 2 mg/kg/day administered orally at a fixed dose for an additional 18 months |
+
+aDose of cyclosporine was adjusted to achieve the above recommended target trough levels; refer to the appropriate cyclosporine prescribing information. bCalculated as the midpoint between the ideal body weight and actual body weight.
+In the eltrombopag D1-M6 cohort, the median age was 28 years (range, 5 to 82 years) with 16% and 28% of patients ≥ 65 years of age and < 17 years of age, respectively.
+Forty-six percent of patients were male and the majority of patients were White (62%).
+Patients weighing 12 kg or less or patients with ALT or AST > 5x upper limit of normal were excluded from the trial.
+The efficacy of eltrombopag in combination with h-ATG and cyclosporine was established on the basis of complete hematological response at 6 months.
+A complete response was defined as hematological parameters meeting all 3 of the following values on 2 consecutive serial blood count measurements at least one week apart: absolute neutrophil count (ANC) > 1000/mcL, platelet count > 100 x 10 9/L and hemoglobin > 10 g/dL.
+A partial response was defined as blood counts no longer meeting the standard criteria for severe pancytopenia in severe aplastic anemia equivalent to 2 of the following values on 2 consecutive serial blood count measurements at least one week apart: ANC > 500/mcL, platelet count > 20 x 10 9/L, or reticulocyte count > 60,000/mcL.
+Overall response rate is defined as the number of partial responses plus complete responses.
+
+Table 22.
+Study US01T: Hematologic Response in First-Line Treatment of Patients With Severe Aplastic Anemia
+
+|  | Eltrombopag D1-M6 + h-ATG + cyclosporine n = 92 |
+| --- | --- |
+| Month 6, n a Overall response, n (%) [95% CI] Complete response, n (%) [95% CI] | 87 69 (79) [69, 87] 38 (44) [33, 55] |
+| Median duration of overall response, n b | 70 |
+| Months (95% CI) | 24.3 (21.4, NE) |
+| Median duration of complete response, n b | 46 |
+| Months (95% CI) | 24.3 (23.0, NE) |
+
+Abbreviation: NE, not estimable. aThe number of patients who reached the 6-month assessment or withdrew earlier is the denominator for percentage calculation. bNumber of responders at any time.
+The overall and complete hematological response rates at Year 1 (n = 78) are 56.4% and 38.5% and at Year 2 (n = 62) are 38.7% and 30.6%, respectively.
+Pediatric Patients Thirty-four patients 2 to 16 years of age were enrolled in Study US01T.
+In the D1-M6 cohort, 7 and 17 out of 25 pediatric patients achieved a complete and overall response, respectively, at 6 months.
+
 Refractory Severe Aplastic Anemia Eltrombopag was studied in a single-arm, single-center, open-label trial (Study ETB115AUS28T, referred to as Study US28T [NCT00922883]) in 43 patients with severe aplastic anemia who had an insufficient response to at least one prior immunosuppressive therapy and who had a platelet count less than or equal to 30 x 10 9/L.
 Eltrombopag was administered at an initial dose of 50 mg once daily for 2 weeks and increased over 2-week periods up to a maximum dose of 150 mg once daily.
 The efficacy of eltrombopag in the study was evaluated by the hematologic response assessed after 12 weeks of treatment.
@@ -175,5 +216,3 @@ Study US28T: Hematologic Response in Patients With Refractory Severe Aplastic An
 aIncludes single-and multi-lineage. bNR = not reached due to few events (relapsed).
 In the 17 responders, the platelet transfusion-free period ranged from 8 to 1096 days with a median of 200 days, and the RBC transfusion-free period ranged from 15 to 1082 days with a median of 208 days.
 In the extension phase, 8 patients achieved a multi-lineage response; 4 of these patients subsequently tapered off treatment with eltrombopag and maintained the response (median follow-up: 8.1 months, range, 7.2 to 10.6 months).
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's PROMACTA ®(eltrombopag) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
