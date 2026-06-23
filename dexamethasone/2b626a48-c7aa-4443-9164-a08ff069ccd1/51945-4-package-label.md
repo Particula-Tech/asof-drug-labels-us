@@ -79,7 +79,7 @@ See insert for other routes.
 
 25 x 1 mL
 
-Single Dose Vial Rx only
+Single Dose Vials Rx only
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY – Dexamethasone Sodium Phosphate 5 mL Vial Label
 
@@ -123,7 +123,7 @@ See insert for other routes.
 
 25 x 5 mL
 
-Multiple Dose Vial Rx only
+Multiple Dose Vials Rx only
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY – Dexamethasone Sodium Phosphate 5 mL Vial Label
 
@@ -167,7 +167,7 @@ See insert for other routes.
 
 25 x 5 mL
 
-Multiple Dose Vial Rx only
+Multiple Dose Vials Rx only
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY – Dexamethasone Sodium Phosphate 30 mL Vial Label
 
@@ -195,7 +195,7 @@ Multiple Dose Vial Rx only
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY – Dexamethasone Sodium Phosphate 30 mL Individual Carton Label
 
-NDC 63323-165-30 16530
+NDC 63323-165-30
 
 Dexamethasone
 
