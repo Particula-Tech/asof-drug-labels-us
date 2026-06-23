@@ -14,12 +14,12 @@ Throughout lisdexamfetamine dimesylate capsules treatment, reassess each patient
 
 ## 5.2 Risks to Patients with Serious Cardiac Disease
 
-Sudden death has been reported in patients withstructural cardiac abnormalities or other serious cardiac disease who were treated with CNS stimulants at the recommended ADHD dosage.
+Sudden death has been reported in patients with structural cardiac abnormalities or other serious cardiac disease who were treated with CNS stimulants at the recommended ADHD dosage.
 Avoid lisdexamfetamine dimesylate capsules use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease, or other serious cardiac disease.
 
 ## 5.3 Increased Blood Pressure and Heart Rate
 
-CNS stimulantscause an increase in blood pressure (mean increase about 2 to 4 mm Hg) and heart rate (mean increase about 3 to 6 bpm).
+CNS stimulants cause an increase in blood pressure (mean increase about 2 to 4 mm Hg) and heart rate (mean increase about 3 to 6 bpm).
 Some patients may have larger increases.
 
 Monitor all lisdexamfetamine dimesylate capsules-treated patients for potential tachycardia and hypertension.

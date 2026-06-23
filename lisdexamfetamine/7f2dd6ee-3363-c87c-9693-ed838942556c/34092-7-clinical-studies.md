@@ -113,7 +113,7 @@ Table 6: Summary of Primary Efficacy Results from Short-term Studies of Lisdexam
 | Placebo | 261.4 (75.0)c | 289.5 (8.6)d | -- |  |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval. a Difference (drug minus placebo) in least-squares mean change from baseline. b Pre-dose SKAMP-DS was not collected. c Pre-dose SKAMP-DS (Study 3) or PERMP (Study 8) total score, averaged over both periods. d LS Mean for SKAMP-DS (Study 2 and 3) or PERMP (Study 8) is post-dose average score over all sessions of the treatment day, rather than change from baseline. * Doses statistically significantly superior to placebo. |  |  |  |  |  |
 
-Figure 4 LS Mean SKAMP Deportment Subscale Score by Treatment and Time-point for Pediatric Patients Ages 6 to 12 with ADHD after 1 Week of Double Blind Treatment (Study 3)
+Figure 4 LS Mean SKAMP Deportment Subscale Score by Treatment and Time-point for Pediatric Patients Ages 6 to 12 with ADHD after 1 Week of Double-Blind Treatment (Study 3)
 
 Higher score on the SKAMP-Deportment scale indicates more severe symptoms
 

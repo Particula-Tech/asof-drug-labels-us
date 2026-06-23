@@ -8,10 +8,10 @@ The following adverse reactions are discussed in greater detail in other section
 - Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions (5.2)]
 - Increased Blood Pressure and Heart Rate [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
-- Long-Term Suppression of Growth in Pediatric Patients [see Warnings and Precautions(5.5)]
+- Long-Term Suppression of Growth in Pediatric Patients [see Warnings and Precautions (5.5)]
 - Peripheral Vasculopathy, including Raynaud's phenomenon [see Warnings and Precautions (5.6)]
 - Serotonin Syndrome [see Warnings and Precautions (5.7)]
-- Motor and Verbal Tics, and Worsening of Tourette’s Syndrome [see Warnings andPrecautions (5.8)]
+- Motor and Verbal Tics, and Worsening of Tourette’s Syndrome [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -125,11 +125,11 @@ In controlled trials of patients ages 18 to 55 years, 5.1% (19/373) of lisdexamf
 No single adverse reaction led to discontinuation in 1% or more of lisdexamfetamine dimesylate-treated patients.
 Less commonly reported adverse reactions (less than 1% or less than twice rate of placebo) included increased heart rate, headache, abdominal pain upper, dyspnea, rash, insomnia, irritability, feeling jittery and anxiety.
 
-Adverse Reactions Occurring at an Incidence of 5% or More and At Least Twice Placebo Among Lisdexamfetamine Dimesylate Treated Patients with BED in Clinical Trials
+Adverse Reactions Occurring at an Incidence of 5% or More and At Least Twice Placebo Among Lisdexamfetamine Dimesylate-Treated Patients with BED in Clinical Trials
 
 The most common adverse reactions (incidence ≥5% and at a rate at least twice placebo) reported in adults were dry mouth, insomnia, decreased appetite, increased heart rate, constipation, feeling jittery, and anxiety.
 
-Adverse Reactions Occurring at an Incidence of 2% or More and At Least Twice Placebo Among Lisdexamfetamine Dimesylate Treated Patients with BED in Clinical Trials
+Adverse Reactions Occurring at an Incidence of 2% or More and At Least Twice Placebo Among Lisdexamfetamine Dimesylate-Treated Patients with BED in Clinical Trials
 
 Adverse reactions reported in the pooled controlled trials in adult patients (Study 11 and 12) treated with lisdexamfetamine dimesylate or placebo are presented in Table 4 below.
 

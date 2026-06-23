@@ -10,7 +10,7 @@ Advise patients to store lisdexamfetamine dimesylate capsules in a safe place, p
 Risks to Patients with Serious Cardiac Disease
 
 Advise patients that there are potential risks to patients with serious cardiac disease, including sudden death, with lisdexamfetamine dimesylate capsules use.
-Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, orother symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
+Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
 
 Increased Blood Pressure and Heart Rate
 
@@ -39,6 +39,7 @@ Advise patients to contact their healthcare provider or report to the emergency 
 Concomitant Medications
 
 Advise patients to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs because there is a potential for interactions [see Drug Interactions (7.1)].
+Advise patient or caregiver of steps to take with lisdexamfetamine dimesylate capsules when a laboratory imaging procedure is ordered [see Drug Interactions (7.2)].
 
 Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
 

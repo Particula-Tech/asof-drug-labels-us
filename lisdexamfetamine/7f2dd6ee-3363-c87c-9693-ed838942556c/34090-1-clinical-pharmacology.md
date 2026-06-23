@@ -14,7 +14,7 @@ The parent drug, lisdexamfetamine, does not bind to the sites responsible for th
 ## 12.3 Pharmacokinetics
 
 Pharmacokinetic studies after oral administration of lisdexamfetamine dimesylate have been conducted in healthy adult (capsule and chewable tablet formulations) and pediatric (6 to 12 years) patients with ADHD (capsule formulation).
-After single dose administration of lisdexamfetamine dimesylate, pharmacokinetics of dextroamphetamine was found to be linear between 30 mg and 70 mg in a pediatric (6 to 12 years), and between 50 mg and 250 mg in an adult study.
+After single dose administration of lisdexamfetamine dimesylate, pharmacokinetics of dextroamphetamine was found to be linear between 30 mg and 70 mg in a pediatric study (6 to 12 years), and between 50 mg and 250 mg in an adult study.
 Dextroamphetamine pharmacokinetic parameters following administration of lisdexamfetamine dimesylate in adults exhibited low inter-subject (<25%) and intra-subject (<8%) variability.
 There is no accumulation of lisdexamfetamine and dextroamphetamine at steady state in healthy adults.
 
