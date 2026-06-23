@@ -6,7 +6,7 @@ Olanzapine Orally Disintegrating Tablets USP
 
 (oh lan' za peen)
 
-Read the Medication Guide that comes with olanzapine orally disintegrating tablets before you start taking them and each time you get a refill.
+Read the Medication Guide that comes with olanzapine orally disintegrating tablets before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your medical condition or treatment.
 Talk with your doctor or pharmacist if there is something you do not understand or you want to learn more about olanzapine orally disintegrating tablets.
@@ -254,4 +254,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 03/2025
+Revised: 03/2026
