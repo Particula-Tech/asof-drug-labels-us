@@ -13,14 +13,14 @@ Based on data from published observational studies, exposure to SSRIs, particula
 
 Overall, available published epidemiologic studies of pregnant women exposed to sertraline in the first trimester suggest no difference in major birth defect risk compared to the background rate for major birth defects in comparator populations.
 Some studies have reported increases for specific major birth defects; however, these study results are inconclusive [See Data].
-There are clinical considerations regarding neonates exposed to SSRIs and SNRIs, including sertraline, during the third trimester of pregnancy [See Clinical Considerations].
+There are clinical considerations regarding neonates exposed to SSRIs and SNRIs, including sertraline hydrochloride, during the third trimester of pregnancy [See Clinical Considerations].
 
 Although no teratogenicity was observed in animal reproduction studies, delayed fetal ossification was observed when sertraline was administered during the period of organogenesis at doses less than the maximum recommended human dose (MRHD) in rats and doses 3.1 times the MRHD in rabbits on a mg/m2 basis in adolescents.
 When sertraline was administered to female rats during the last third of gestation, there was an increase in the number of stillborn pups and pup deaths during the first four days after birth at the MRHD [See Data].
 
 The background risk of major birth defects and miscarriage for the indicated population are unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
-Advise a pregnant woman of possible risks to the fetus when prescribing sertraline.
+Advise a pregnant woman of possible risks to the fetus when prescribing sertraline hydrochloride.
 
 Clinical Considerations
 
@@ -32,14 +32,14 @@ Consider the risks of untreated depression when discontinuing or changing treatm
 
 Maternal Adverse Reactions
 
-Use of sertraline in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.3)].
+Use of sertraline hydrochloride in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.3)].
 
 Fetal/Neonatal adverse reactions
 
-Exposure to SSRIs and SNRIs, including sertralinein late pregnancy may lead to an increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding, and/or persistent pulmonary hypertension of the newborn (PPHN).
+Exposure to SSRIs and SNRIs, including sertraline hydrochloride in late pregnancy may lead to an increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding, and/or persistent pulmonary hypertension of the newborn (PPHN).
 
-When treating a pregnant woman with sertralineduring the third trimester, carefully consider both the potential risks and benefits of treatment.
-Monitor neonates who were exposed to sertralinein the third trimester of pregnancy for PPHN and drug discontinuation syndrome [See Data].
+When treating a pregnant woman with sertraline hydrochloride during the third trimester, carefully consider both the potential risks and benefits of treatment.
+Monitor neonates who were exposed to sertraline hydrochloride in the third trimester of pregnancy for PPHN and drug discontinuation syndrome [See Data].
 
 Data
 
@@ -47,7 +47,7 @@ Human Data
 
 Third Trimester Exposure
 
-Neonates exposed to sertralineand other SSRIs or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Neonates exposed to sertraline hydrochloride and other SSRIs or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 These findings are based on post-marketing reports.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
@@ -84,7 +84,7 @@ Risk Summary
 
 Available data from published literature demonstrate low levels of sertraline and its metabolites in human milk [See Data].
 There are no data on the effects of sertraline on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for sertralineand any potential adverse effects on the breastfed infant from the drug or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for sertraline hydrochloride and any potential adverse effects on the breastfed infant from the drug or from the underlying maternal condition.
 
 Data
 
@@ -93,25 +93,25 @@ No adverse reactions were observed in these infants.
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of sertralinehave been established in the treatment of OCD in pediatric patients aged 6 to 17 [See Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+The safety and efficacy of sertraline hydrochloride have been established in the treatment of OCD in pediatric patients aged 6 to 17 [See Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 Safety and effectiveness in pediatric patients in patients with OCD below the age of 6 have not been established.
 Safety and effectiveness have not been established in pediatric patients for indications other than OCD.
 Two placebo-controlled trials were conducted in pediatric patients with MDD, but the data were not sufficient to support an indication for use in pediatric patients.
 
-Monitoring Pediatric Patients Treated with Sertraline
+Monitoring Pediatric Patients Treated with Sertraline Hydrochloride
 
 Monitor all patients being treated with antidepressants for clinical worsening, suicidal thoughts, and unusual changes in behavior, especially during the initial few months of treatment, or at times of dose increases or decreases [See Boxed Warning, Warnings and Precautions (5.1)].
 Decreased appetite and weight loss have been observed with the use of SSRIs.
-Monitor weight and growth in pediatric patients treated with an SSRI such as sertraline.
+Monitor weight and growth in pediatric patients treated with an SSRI such as sertraline hydrochloride.
 
 Weight Loss in Studies in Pediatric Patients with MDD
 
-In a pooled analysis of two 10-week, double-blind, placebo-controlled, flexible dose (50-200 mg) outpatient trials for MDD (n=373), there was a difference in weight change between sertralineand placebo of roughly 1 kg, for both children (ages 6-11) and adolescents (ages 12-17), in both age groups representing a slight weight loss for the sertralinegroup compared to a slight gain for the placebo group.
-For children, about 7% of the sertraline-treated patients had a weight loss greater than 7% of body weight compared to 0% of the placebo-treated patients; for adolescents, about 2% of sertraline-treated patients had a weight loss > 7% of body weight compared to about 1% of placebo-treated patients.
+In a pooled analysis of two 10-week, double-blind, placebo-controlled, flexible dose (50-200 mg) outpatient trials for MDD (n=373), there was a difference in weight change between sertraline hydrochloride and placebo of roughly 1 kg, for both children (ages 6-11) and adolescents (ages 12-17), in both age groups representing a slight weight loss for the sertraline hydrochloride group compared to a slight gain for the placebo group.
+For children, about 7% of the sertraline hydrochloride-treated patients had a weight loss greater than 7% of body weight compared to 0% of the placebo-treated patients; for adolescents, about 2% of sertraline hydrochloride-treated patients had a weight loss > 7% of body weight compared to about 1% of placebo-treated patients.
 
-A subset of patients who completed the randomized controlled trials in patients with MDD (sertralinen=99, placebo n=122) were continued into a 24-week, flexible-dose, open-label, extension study.
-Those subjects who completed 34 weeks of sertralinetreatment (10 weeks in a placebo-controlled trial + 24 weeks open-label, n=68) had weight gain that was similar to that expected using data from age-adjusted peers.
-However, there are no studies that directly evaluate the long-term effects of sertralineon the growth, development, and maturation in pediatric patients.
+A subset of patients who completed the randomized controlled trials in patients with MDD (sertraline hydrochloride n=99, placebo n=122) were continued into a 24-week, flexible-dose, open-label, extension study.
+Those subjects who completed 34 weeks of sertraline hydrochloride treatment (10 weeks in a placebo-controlled trial + 24 weeks open-label, n=68) had weight gain that was similar to that expected using data from age-adjusted peers.
+However, there are no studies that directly evaluate the long-term effects of sertraline hydrochloride on the growth, development, and maturation in pediatric patients.
 
 Juvenile Animal Data
 
@@ -123,19 +123,19 @@ The highest dose of 80 mg/kg/day produced plasma levels (AUC) of sertraline 5 ti
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients in clinical studies of sertraline in patients with MDD, OCD, PD, PTSD, SAD and PMDD, 797 (17%) were ≥ 65 years old, while 197 (4%) were ≥ 75 years old.
+Of the total number of patients in clinical studies of sertraline hydrochloride in patients with MDD, OCD, PD, PTSD, SAD and PMDD, 797 (17%) were ≥ 65 years old, while 197 (4%) were ≥ 75 years old.
 
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be conservative, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-In 354 geriatric subjects treated with sertraline in MDD placebo-controlled trials, the overall profile of adverse reactions was generally similar to that shown in Table 3[See Adverse Reactions (6.1)], except for tinnitus, arthralgia with an incidence of at least 2% and at a rate greater than placebo in geriatric patients.
+In 354 geriatric subjects treated with sertraline hydrochloride in MDD placebo-controlled trials, the overall profile of adverse reactions was generally similar to that shown in Table 3[See Adverse Reactions (6.1)], except for tinnitus, arthralgia with an incidence of at least 2% and at a rate greater than placebo in geriatric patients.
 
-SNRIs and SSRIs, including sertraline, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [See Warnings and Precautions (5.8)].
+SNRIs and SSRIs, including sertraline hydrochloride, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [See Warnings and Precautions (5.8)].
 
 ## 8.6 Hepatic Impairment
 
 The recommended dosage in patients with mild hepatic impairment (Child-Pugh score 5 or 6) is half the recommended dosage due to increased exposure in this patient population.
-The use of sertraline in patients with moderate (Child-Pugh score 7 to 10) or severe hepatic impairment (Child-Pugh score 10-15) is not recommended, because sertraline is extensively metabolized, and the effects of sertraline in patients with moderate and severe hepatic impairment have not been studied [See Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+The use of sertraline hydrochloride in patients with moderate (Child-Pugh score 7 to 10) or severe hepatic impairment (Child-Pugh score 10-15) is not recommended, because sertraline hydrochloride is extensively metabolized, and the effects of sertraline hydrochloride in patients with moderate and severe hepatic impairment have not been studied [See Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

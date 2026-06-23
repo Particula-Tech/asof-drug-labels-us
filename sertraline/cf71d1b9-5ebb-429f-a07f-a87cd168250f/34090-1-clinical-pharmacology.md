@@ -14,33 +14,23 @@ Sertraline does not inhibit monoamine oxidase.
 
 Alcohol
 
-In healthy subjects, the acute cognitive and psychomotor effects of alcohol were not potentiated by sertraline.
+In healthy subjects, the acute cognitive and psychomotor effects of alcohol were not potentiated by sertraline hydrochloride.
 
 Cardiac Electrophysiology
 
-The effect of sertraline on the QTc interval was evaluated in a randomized, double-blind, placebo- and
-
-positive-controlled three-period crossover thorough QTc study in 54 healthy adult subjects.
-At 2-fold the maximum
-
-recommended daily dose (~3-fold the steady-state exposure for sertraline and N-desmethylsertraline), the largest
-
-mean ΔΔQTc was 10 ms with upper bound of two-sided 90% confidence interval of 12 ms. The length of the QTc interval was also positively correlated with serum concentrations of sertraline and N- desmethylsertraline
-
-concentrations.
-These concentration-based analyses, however, indicated a lesser effect on QTc at maximally
-
-observed concentration than in the primary analysis [See Warnings and Precautions (5), Adverse Reactions (6), Drug Interactions (7), Overdosage (10)].
+The effect of sertraline on the QTc interval was evaluated in a randomized, double-blind, placebo- and positive-controlled three-period crossover thorough QTc study in 54 healthy adult subjects.
+At 2-fold the maximum recommended daily dose (~3-fold the steady-state exposure for sertraline and N-desmethylsertraline), the largest mean ΔΔQTc was 10 ms with upper bound of two-sided 90% confidence interval of 12 ms. The length of the QTc interval was also positively correlated with serum concentrations of sertraline and N- desmethylsertraline concentrations.
+These concentration-based analyses, however, indicated a lesser effect on QTc at maximally observed concentration than in the primary analysis [See Warnings and Precautions (5), Adverse Reactions (6), Drug Interactions (7), Overdosage (10)].
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
-Following oral once-daily sertraline dosing over the range of 50 to 200 mg for 14 days, mean peak plasma concentrations (Cmax) of sertraline occurred between 4.5 to 8.4 hours post-dosing.
+Following oral once-daily sertraline hydrochloride dosing over the range of 50 to 200 mg for 14 days, mean peak plasma concentrations (Cmax) of sertraline occurred between 4.5 to 8.4 hours post-dosing.
 The average terminal elimination half-life of plasma sertraline is about 26 hours.
 Consistent with the terminal elimination half-life, there is an approximately two-fold accumulation up to steady-state concentrations, which are achieved after one week of once-daily dosing.
 Linear dose-proportional pharmacokinetics were demonstrated in a single dose study in which the Cmax and area under the plasma concentration time curve (AUC) of sertraline were proportional to dose over a range of 50 to 200 mg.
-The single dose bioavailability of sertraline tablets is approximately equal to an equivalent dose of sertraline oral solution.
+The single dose bioavailability of sertraline hydrochloride tablets is approximately equal to an equivalent dose of sertraline oral solution.
 Administration with food causes a small increase in Cmax and AUC.
 
 Metabolism
@@ -72,16 +62,16 @@ The half-life was similar to that in adults, and no gender-associated difference
 
 Geriatric Patients
 
-Sertraline plasma clearance in a group of 16 (8 male, 8 female) elderly patients treated with 100 mg/day of sertraline for 14 days was approximately 40% lower than in a similarly studied group of younger (25 to 32 year old) individuals.
+Sertraline plasma clearance in a group of 16 (8 male, 8 female) elderly patients treated with 100 mg/day of sertraline hydrochloride for 14 days was approximately 40% lower than in a similarly studied group of younger (25 to 32 year old) individuals.
 Steady-state, therefore, was achieved after 2 to 3 weeks in older patients.
 The same study showed a decreased clearance of desmethylsertraline in older males, but not in older females [See Use in Specific Populations (8.5)].
 
 Hepatic Impairment
 
-In patients with chronic mild liver impairment (N=10: 8 patients with Child-Pugh scores of 5 to 6; and 2 patients with Child-Pugh scores of 7 to 8) who received 50 mg of sertraline per day for 21 days, sertraline clearance was reduced, resulting in approximately 3-fold greater exposure compared to age-matched volunteers with normal hepatic function (N=10).
+In patients with chronic mild liver impairment (N=10: 8 patients with Child-Pugh scores of 5 to 6; and 2 patients with Child-Pugh scores of 7 to 8) who received 50 mg of sertraline hydrochloride per day for 21 days, sertraline clearance was reduced, resulting in approximately 3-fold greater exposure compared to age-matched volunteers with normal hepatic function (N=10).
 The exposure to desmethylsertraline was approximately 2-fold greater in patients with mild hepatic impairment compared to age-matched volunteers with normal hepatic function.
 There were no significant differences in plasma protein binding observed between the two groups.
-The effects of sertraline in patients with moderate and severe hepatic impairment have not been studied [See Dosage and Administration (2.4), Use in Specific Populations (8.6)].
+The effects of sertraline hydrochloride in patients with moderate and severe hepatic impairment have not been studied [See Dosage and Administration (2.4), Use in Specific Populations (8.6)].
 
 Renal Impairment
 
@@ -93,57 +83,57 @@ Drug Interaction Studies
 
 Pimozide
 
-In a controlled study of a single dose (2 mg) of pimozide, 200 mg sertraline (once daily) co-administration to steady state was associated with a mean increase in pimozide AUC and Cmax of about 40%, but was not associated with any changes in ECG.
-The highest recommended pimozide dose (10 mg) has not been evaluated in combination with sertraline.
+In a controlled study of a single dose (2 mg) of pimozide, 200 mg sertraline hydrochloride (once daily) co-administration to steady state was associated with a mean increase in pimozide AUC and Cmax of about 40%, but was not associated with any changes in ECG.
+The highest recommended pimozide dose (10 mg) has not been evaluated in combination with sertraline hydrochloride.
 The effect on QTc interval and PK parameters at doses higher than 2 mg of pimozide are not known [See Drug Interactions (7.1)].
 
 Drugs Metabolized by CYP2D6
 
-Many antidepressant drugs (e.g., SSRIs, including sertraline, and most tricyclic antidepressant drugs) inhibit the biochemical activity of the drug metabolizing isozyme CYP2D6 (debrisoquin hydroxylase), and, thus, may increase the plasma concentrations of co-administered drugs that are metabolized by CYP2D6.
+Many antidepressant drugs (e.g., SSRIs, including sertraline hydrochloride, and most tricyclic antidepressant drugs) inhibit the biochemical activity of the drug metabolizing isozyme CYP2D6 (debrisoquin hydroxylase), and, thus, may increase the plasma concentrations of co-administered drugs that are metabolized by CYP2D6.
 The drugs for which this potential interaction is of greatest concern are those metabolized primarily by CYP2D6 and that have a narrow therapeutic index (e.g., tricyclic antidepressant drugs and the Type 1C antiarrhythmics propafenone and flecainide).
 The extent to which this interaction is an important clinical problem depends on the extent of the inhibition of CYP2D6 by the antidepressant and the therapeutic index of the co-administered drug.
-There is variability among the drugs effective in the treatment of MDD in the extent of clinically important 2D6 inhibition, and in fact sertraline at lower doses has a less prominent inhibitory effect on 2D6 than some others in the class.
-Nevertheless, even sertraline has the potential for clinically important 2D6 inhibition [See Drug Interactions (7.1)].
+There is variability among the drugs effective in the treatment of MDD in the extent of clinically important 2D6 inhibition, and in fact sertraline hydrochloride at lower doses has a less prominent inhibitory effect on 2D6 than some others in the class.
+Nevertheless, even sertraline hydrochloride has the potential for clinically important 2D6 inhibition [See Drug Interactions (7.1)].
 
 Phenytoin
 
-Clinical trial data suggested that sertraline may increase phenytoin concentrations [See Drug Interactions (7.1)].
+Clinical trial data suggested that sertraline hydrochloride may increase phenytoin concentrations [See Drug Interactions (7.1)].
 
 Cimetidine
 
-In a study assessing disposition of sertraline (100 mg) on the second of 8 days of cimetidine administration (800 mg daily), there were increases in sertraline mean AUC (50%), Cmax (24%) and half-life (26%) compared to the placebo group [See Drug Interactions (7.2)].
+In a study assessing disposition of sertraline hydrochloride (100 mg) on the second of 8 days of cimetidine administration (800 mg daily), there were increases in sertraline hydrochloride mean AUC (50%), Cmax (24%) and half-life (26%) compared to the placebo group [See Drug Interactions (7.2)].
 
 Diazepam
 
-In a study comparing the disposition of intravenously administered diazepam before and after 21 days of dosing with either sertraline (50 to 200 mg/day escalating dose) or placebo, there was a 32% decrease relative to baseline in diazepam clearance for the sertraline group compared to a 19% decrease relative to baseline for the placebo group (p<0.03).
-There was a 23% increase in Tmax for desmethyldiazepam in the sertraline group compared to a 20% decrease in the placebo group (p<0.03) [See Drug Interactions (7.2)].
+In a study comparing the disposition of intravenously administered diazepam before and after 21 days of dosing with either sertraline hydrochloride (50 to 200 mg/day escalating dose) or placebo, there was a 32% decrease relative to baseline in diazepam clearance for the sertraline hydrochloride group compared to a 19% decrease relative to baseline for the placebo group (p<0.03).
+There was a 23% increase in Tmax for desmethyldiazepam in the sertraline hydrochloride group compared to a 20% decrease in the placebo group (p<0.03) [See Drug Interactions (7.2)].
 
 Lithium
 
-In a placebo-controlled trial in normal volunteers, the administration of two doses of sertraline did not significantly alter steady-state lithium levels or the renal clearance of lithium [See Drug Interactions (7.2)].
+In a placebo-controlled trial in normal volunteers, the administration of two doses of sertraline hydrochloride did not significantly alter steady-state lithium levels or the renal clearance of lithium [See Drug Interactions (7.2)].
 
 Tolbutamide
 
-In a placebo-controlled trial in normal volunteers, administration of sertraline for 22 days (including 200 mg/day for the final 13 days) caused a statistically significant 16% decrease from baseline in the clearance of tolbutamide following an intravenous 1,000 mg dose.
-Sertraline administration did not noticeably change either the plasma protein binding or the apparent volume of distribution of tolbutamide, suggesting that the decreased clearance was due to a change in the metabolism of the drug [See Drug Interactions (7.2)].
+In a placebo-controlled trial in normal volunteers, administration of sertraline hydrochloride for 22 days (including 200 mg/day for the final 13 days) caused a statistically significant 16% decrease from baseline in the clearance of tolbutamide following an intravenous 1,000 mg dose.
+Sertraline hydrochloride administration did not noticeably change either the plasma protein binding or the apparent volume of distribution of tolbutamide, suggesting that the decreased clearance was due to a change in the metabolism of the drug [See Drug Interactions (7.2)].
 
 Atenolol
 
-Sertraline (100 mg) when administered to 10 healthy male subjects had no effect on the beta-adrenergic blocking ability of atenolol [See Drug Interactions (7.2)].
+Sertraline hydrochloride (100 mg) when administered to 10 healthy male subjects had no effect on the beta-adrenergic blocking ability of atenolol [See Drug Interactions (7.2)].
 
 Digoxin
 
-In a placebo-controlled trial in normal volunteers, administration of sertraline for 17 days (including 200 mg/day for the last 10 days) did not change serum digoxin levels or digoxin renal clearance [See Drug Interactions (7.2)].
+In a placebo-controlled trial in normal volunteers, administration of sertraline hydrochloride for 17 days (including 200 mg/day for the last 10 days) did not change serum digoxin levels or digoxin renal clearance [See Drug Interactions (7.2)].
 
 Drugs Metabolized by CYP3A4
 
-In three separate in vivo interaction studies, sertraline was co-administered with CYP3A4 substrates, terfenadine, carbamazepine, or cisapride under steady-state conditions.
-The results of these studies indicated that sertraline did not increase plasma concentrations of terfenadine, carbamazepine, or cisapride.
-These data indicate that sertraline’s extent of inhibition of CYP3A4 activity is not likely to be of clinical significance.
-Results of the interaction study with cisapride indicate that sertraline 200 mg (once daily) induces the metabolism of cisapride (cisapride AUC and Cmax were reduced by aboutt 35%) [See Drug Interactions (7.2)].
+In three separate in vivo interaction studies, sertraline hydrochloride was co-administered with CYP3A4 substrates, terfenadine, carbamazepine, or cisapride under steady-state conditions.
+The results of these studies indicated that sertraline hydrochloride did not increase plasma concentrations of terfenadine, carbamazepine, or cisapride.
+These data indicate that sertraline hydrochloride’s extent of inhibition of CYP3A4 activity is not likely to be of clinical significance.
+Results of the interaction study with cisapride indicate that sertraline hydrochloride 200 mg (once daily) induces the metabolism of cisapride (cisapride AUC and Cmax were reduced by about 35%) [See Drug Interactions (7.2)].
 
 Microsomal Enzyme Induction
 
-Preclinical studies have shown sertraline to induce hepatic microsomal enzymes.
-In clinical studies, sertraline was shown to induce hepatic enzymes minimally as determined by a small (5%) but statistically significant decrease in antipyrine half-life following administration of 200 mg of sertraline per day for 21 days.
+Preclinical studies have shown sertraline hydrochloride to induce hepatic microsomal enzymes.
+In clinical studies, sertraline hydrochloride was shown to induce hepatic enzymes minimally as determined by a small (5%) but statistically significant decrease in antipyrine half-life following administration of 200 mg of sertraline hydrochloride per day for 21 days.
 This small change in antipyrine half-life reflects a clinically insignificant change in hepatic metabolism.

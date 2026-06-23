@@ -18,12 +18,12 @@ The following adverse reactions are described in more detail in other sections o
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below are from randomized, double-blind, placebo-controlled trials of sertraline (mostly 50 mg to 200 mg per day) in 3,066 adults diagnosed with MDD, OCD, PD, PTSD, SAD, and PMDD.
-These 3,066 patients exposed to sertraline for 8 to12 weeks represent 568 patient-years of exposure.
+The data described below are from randomized, double-blind, placebo-controlled trials of sertraline hydrochloride (mostly 50 mg to 200 mg per day) in 3,066 adults diagnosed with MDD, OCD, PD, PTSD, SAD, and PMDD.
+These 3,066 patients exposed to sertraline hydrochloride for 8 to12 weeks represent 568 patient-years of exposure.
 The mean age was 40 years; 57% were females and 43% were males.
 
-The most common adverse reactions (>5% and twice placebo) in all pooled placebo-controlled clinical trials of all sertraline -treated patients with MDD, OCD, PD, PTSD, SAD and PMDD were nausea, diarrhea/loose stool, tremor, dyspepsia, decreased appetite, hyperhidrosis, ejaculation failure, and decreased libido (see Table 3).
-The following are the most common adverse reactions in trials of sertraline (>5% and twice placebo) by indication that were not mentioned previously.
+The most common adverse reactions (>5% and twice placebo) in all pooled placebo-controlled clinical trials of all sertraline hydrochloride-treated patients with MDD, OCD, PD, PTSD, SAD and PMDD were nausea, diarrhea/loose stool, tremor, dyspepsia, decreased appetite, hyperhidrosis, ejaculation failure, and decreased libido (see Table 3).
+The following are the most common adverse reactions in trials of sertraline hydrochloride (>5% and twice placebo) by indication that were not mentioned previously.
 
 - MDD: somnolence;
 - OCD: insomnia, agitation;
@@ -34,7 +34,7 @@ The following are the most common adverse reactions in trials of sertraline (>5%
 
 Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults with MDD, OCD, PD, PTSD, SAD, and PMDD*
 
-|  | Sertraline (N=3066) | Placebo (N=2293) |
+|  | Sertraline Hydrochloride (N=3066) | Placebo (N=2293) |
 | --- | --- | --- |
 | Cardiac disorders |  |  |
 | Palpitations | 4% | 2% |
@@ -67,14 +67,14 @@ Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults 
 | Skin and subcutaneous tissue disorders |  |  |
 | Hyperhidrosis | 7% | 3% |
 
-(1) Denominator used was for male patients only (n=1316 sertraline; n=973 placebo).
+(1) Denominator used was for male patients only (n=1316 sertraline hydrochloride; n=973 placebo).
 
-* Adverse reactions that occurred greater than 2% in sertraline -treated patients and at least 2% greater in sertraline -treated patients than placebo-treated patients.
+* Adverse reactions that occurred greater than 2% in sertraline hydrochloride-treated patients and at least 2% greater in sertraline hydrochloride-treated patients than placebo-treated patients.
 
 Adverse Reactions Leading to Discontinuation in Placebo-Controlled Clinical Trials
 
-In all placebo-controlled studies in patients with MDD, OCD, PD, PTSD, SAD and PMDD, 368 (12%) of the 3,066 patients who received sertraline discontinued treatment due to an adverse reaction, compared with 93 (4%) of the 2,293 placebo-treated patients.
-In placebo-controlled studies, the following were the common adverse reactions leading to discontinuation in sertraline -treated patients:
+In all placebo-controlled studies in patients with MDD, OCD, PD, PTSD, SAD and PMDD, 368 (12%) of the 3,066 patients who received sertraline hydrochloride discontinued treatment due to an adverse reaction, compared with 93 (4%) of the 2,293 placebo-treated patients.
+In placebo-controlled studies, the following were the common adverse reactions leading to discontinuation in sertraline hydrochloride-treated patients:
 
 - MDD, OCD, PD, PTSD, SAD and PMDD: nausea (3%), diarrhea (2%), agitation (2%), and insomnia (2%).
 - MDD (>2% and twice placebo): decreased appetite, dizziness, fatigue, headache, somnolence, tremor, and vomiting.
@@ -87,13 +87,13 @@ Although changes in sexual desire, sexual performance and sexual satisfaction of
 However, reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance and satisfaction are difficult to obtain, in part because patients and healthcare providers may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in labeling may underestimate their actual incidence.
 
-Table 4 below displays the incidence of sexual adverse reactions reported by at least 2% of sertraline-treated patients and twice placebo from pooled placebo-controlled trials.
+Table 4 below displays the incidence of sexual adverse reactions reported by at least 2% of sertraline hydrochloride-treated patients and twice placebo from pooled placebo-controlled trials.
 For men and all indications, the most common adverse reactions (>2% and twice placebo) included: ejaculation failure, decreased libido, erectile dysfunction, ejaculation disorder, and male sexual dysfunction.
 For women, the most common adverse reaction (≥2% and twice placebo) was decreased libido.
 
-Table 4: Most Common Sexual Adverse Reactions (≥2% and twice placebo) in Men or Women from Sertraline Pooled Controlled Trials in Adults with MDD, OCD, PD, PTSD, SAD, and PMDD
+Table 4: Most Common Sexual Adverse Reactions (≥2% and twice placebo) in Men or Women from Sertraline Hydrochloride Pooled Controlled Trials in Adults with MDD, OCD, PD, PTSD, SAD, and PMDD
 
-|  | Sertraline | Placebo |
+|  | Sertraline Hydrochloride | Placebo |
 | --- | --- | --- |
 | Men only | (N=1316) | (N=973) |
 | Ejaculation failure | 8% | 1% |
@@ -106,12 +106,12 @@ Table 4: Most Common Sexual Adverse Reactions (≥2% and twice placebo) in Men o
 
 Adverse Reactions in Pediatric Patients
 
-In 281 pediatric patients treated with sertraline in placebo-controlled studies, the overall profile of adverse reactions was generally similar to that seen in adult studies.
+In 281 pediatric patients treated with sertraline hydrochloride in placebo-controlled studies, the overall profile of adverse reactions was generally similar to that seen in adult studies.
 Adverse reactions that do not appear in Table 3 (most common adverse reactions in adults) yet were reported in at least 2% of pediatric patients and at a rate of at least twice the placebo rate include fever, hyperkinesia, urinary incontinence, aggression, epistaxis, purpura, arthralgia, decreased weight, muscle twitching, and anxiety.
 
-Other Adverse Reactions Observed During the Premarketing Evaluation of Sertraline
+Other Adverse Reactions Observed During the Premarketing Evaluation of Sertraline Hydrochloride
 
-Other infrequent adverse reactions, not described elsewhere in the prescribing information, occurring at an incidence of < 2% in patients treated with sertraline were:
+Other infrequent adverse reactions, not described elsewhere in the prescribing information, occurring at an incidence of < 2% in patients treated with sertraline hydrochloride were:
 
 Cardiac disorders – tachycardia
 
@@ -149,7 +149,7 @@ Vascular disorders - hemorrhage, hypertension, vasodilation
 
 ## 6.2 Post-marketing Experience
 
-The following adverse reactions have been identified during postapproval use of sertraline.
+The following adverse reactions have been identified during postapproval use of sertraline hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Bleeding or clotting disorders - increased coagulation times (altered platelet function)
