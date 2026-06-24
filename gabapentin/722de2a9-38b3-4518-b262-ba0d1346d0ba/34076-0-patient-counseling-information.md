@@ -8,7 +8,7 @@ Inform patients that gabapentin capsules are taken orally with or without food.
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
 
-Prior to initiation of treatment with gabapentin, instruct patients that a rash or other signs or symptoms of hypersensitivity (such as fever or lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately [see Warnings and Precautions (5.1)].
+Prior to initiation of treatment with gabapentin, instruct patients that a rash or other signs or symptoms of hypersensitivity (such as fever or lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a healthcare provider immediately [see Warnings and Precautions (5.1)].
 
 Anaphylaxis and Angioedema
 
@@ -25,17 +25,18 @@ Suicidal Thinking and Behavior
 
 Counsel the patient, their caregivers, and families that AEDs, including gabapentin, may increase the risk of suicidal thoughts and behavior.
 Advise patients of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Instruct patients to report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.6)].
+Instruct patients to report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.5)].
+Also, inform patients who plan to or have discontinued gabapentin that suicidal thoughts and behavior can appear even after the drug is stopped.
 
 Respiratory Depression
 
 Inform patients about the risk of respiratory depression.
 Include information that the risk is greatest for those using concomitant CNS depressants (such as opioid analgesics) or those with underlying respiratory impairment.
-Teach patients how to recognize respiratory depression and advise them to seek medical attention immediately if it occurs [see Warnings and Precautions (5.7)].
+Teach patients how to recognize respiratory depression and advise them to seek medical attention immediately if it occurs [see Warnings and Precautions (5.8)].
 
 Use in Pregnancy
 
-Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy, and to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.1) and (8.2)].
+Instruct patients to notify their healthcare provider if they are pregnant or intend to become pregnant during therapy, and to notify their healthcare provider if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.1) and (8.2)].
 
 Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
@@ -51,8 +52,8 @@ Distributed by:
 
 Ascend Laboratories, LLC
 
-Bedminster, NJ 07921 Revised: January, 2025
+Bedminster, NJ 07921 Revised: January 2026
 
-PT1702-13
+PT1702-14
 
 Trademarks are the property of their respective owners.

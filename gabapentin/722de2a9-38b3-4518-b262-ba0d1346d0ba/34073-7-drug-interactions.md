@@ -2,7 +2,7 @@
 
 ## 7.1 Opioids
 
-Respiratory depression and sedation, sometimes resulting in death, have been reported following coadministration of gabapentin with opioids (e.g., morphine, hydrocodone, oxycodone, buprenorphine) [see Warnings and Precautions (5.7)].
+Respiratory depression and sedation, sometimes resulting in death, have been reported following coadministration of gabapentin with opioids (e.g., morphine, hydrocodone, oxycodone, buprenorphine) [see Warnings and Precautions (5.8)].
 
 Hydrocodone
 

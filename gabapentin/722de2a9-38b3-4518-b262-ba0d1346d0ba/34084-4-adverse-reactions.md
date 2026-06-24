@@ -1,22 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed in greater detail in other sections:
-
-· Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see Warnings and Precautions (5.1)]
-
-· Anaphylaxis and Angioedema [see Warnings and Precautions (5.2)]
-
-· Somnolence/Sedation and Dizziness [see Warnings and Precautions (5.4)]
-
-· Withdrawal Precipitated Seizure, Status Epilepticus [see Warnings and Precautions (5.5)]
-
-· Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
-
-- Respiratory Depression [see Warnings and Precautions (5.7)]
-
-· Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age) [see Warnings and Precautions (5.8)]
-
-· Sudden and Unexplained Death in Patients with Epilepsy [see Warnings and Precautions (5.10)]
+The following serious adverse reactions are discussed in greater detail in other sections: • Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see Warnings and Precautions (5.1)] • Anaphylaxis and Angioedema [see Warnings and Precautions (5.2)] • Somnolence/Sedation and Dizziness [see Warnings and Precautions (5.4)] • Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)] • Increased Risk of Seizures and Other Adverse Reactions with Abrupt or Rapid Discontinuation [see Warnings and Precautions (5.6)] • Status Epilepticus [see Warnings and Precautions (5.7)] • Respiratory Depression [see Warnings and Precautions (5.8)] • Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age) [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -75,7 +59,7 @@ Epilepsy with Partial Onset Seizures (Adjunctive Therapy)
 
 The most common adverse reactions with gabapentin in combination with other antiepileptic drugs in patients >12 years of age, not seen at an equivalent frequency among placebo-treated patients, were somnolence, dizziness, ataxia, fatigue, and nystagmus.
 
-The most common adverse reactions with gabapentin in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility [see Warnings and Precautions (5.8)].
+The most common adverse reactions with gabapentin in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility [see Warnings and Precautions (5.9)].
 
 Approximately 7% of the 2074 patients >12 years of age and approximately 7% of the 449 pediatric patients 3 to 12 years of age who received gabapentin in premarketing clinical trials discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with withdrawal in patients >12 years of age were somnolence (1.2%), ataxia (0.8%), fatigue (0.6%), nausea and/or vomiting (0.6%), and dizziness (0.6%).
@@ -182,7 +166,7 @@ Reproductive System and Breast Disorders: breast enlargement, changes in libido,
 
 Skin and Subcutaneous Tissue Disorders: angioedema [see Warnings and Precautions (5.2)], bullous pemphigoid,erythema multiforme, Stevens-Johnson syndrome.
 
-There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking gabapentin with opioids or other CNS depressants, or in the setting of underlying respiratory impairment [see Warnings and Precautions (5.7)].
+There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking gabapentin with opioids or other CNS depressants, or in the setting of underlying respiratory impairment [see Warnings and Precautions (5.8)].
 
-Adverse reactions following the abrupt discontinuation of gabapentin have also been reported.
-The most frequently reported reactions were anxiety, insomnia, nausea, pain, and sweating.
+There are postmarketing reports of withdrawal symptoms after discontinuation of gabapentin.
+Reported adverse reactions include, but are not limited to, seizures, depression, suicidal ideation and behavior, agitation, confusion, disorientation, psychotic symptoms, anxiety, insomnia, nausea, pain, sweating, tremor, headache, dizziness, and malaise [see Warnings and Precautions (5.6)].

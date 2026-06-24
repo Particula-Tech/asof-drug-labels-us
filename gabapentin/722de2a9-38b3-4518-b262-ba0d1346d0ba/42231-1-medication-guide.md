@@ -15,6 +15,7 @@ Gabapentin can cause serious side effects including:
 1.
 Suicidal Thoughts.
 Like other antiepileptic drugs, gabapentin may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+This can happen while you take gabapentin as well as after stopping gabapentin.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -158,6 +159,8 @@ How should I take gabapentin?
   Your healthcare provider will tell you how much gabapentin to take.
 
 - Do not change your dose of gabapentin without talking to your healthcare provider.
+- Do not stop taking gabapentin without talking to your healthcare provider first.
+  If you stop taking gabapentin suddenly, you may develop side effects.
 - Gabapentin can be taken with or without food.
 - Swallow gabapentin capsules whole with water.
 - If you take an antacid containing aluminum and magnesium, such as Maalox, Mylanta, Gelusil, Gaviscon, or Di-Gel, you should wait at least 2 hours before taking your next dose of gabapentin.
@@ -176,14 +179,13 @@ What are the possible side effects of gabapentin?
 
 Gabapentin may cause serious side effects, including:
 
-See “What is the most important information I should know about gabapentin?”
-
+- See “What is the most important information I should know about gabapentin?”
 - problems driving while using gabapentin.
   See “What should I avoid while taking gabapentin?”
 
 - sleepiness and dizziness, which could increase your chance of having an accidental injury, including falls.
 
-- The most common side effects of gabapentin include:
+The most common side effects of gabapentin include:
 
 - lack of coordination
 
@@ -264,4 +266,4 @@ For more information, call 1-877-272-7901.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: January, 2025
+Revised: January 2026
