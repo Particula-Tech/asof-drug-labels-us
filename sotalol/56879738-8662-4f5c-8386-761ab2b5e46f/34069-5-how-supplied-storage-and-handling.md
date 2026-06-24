@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Sotalol Hydrochloride Tablets, USP; capsule-shaped light-blue scored tablets, imprinted with the strength and “B104”, “B105”, and “B106” are available as follows:
+Sotalol Hydrochloride Tablets USP are capsule-shaped light-blue scored tablets, debossed ‘B104’, ‘B105’, and ‘B106’ on one side and scored on the other side are available as follows:
 
 80 mg strength, bottles of 100 (NDC 76385-114-01) 80 mg strength, bottles of 500 (NDC 76385-114-50) 120 mg strength, bottles of 100 (NDC 76385-115-01) 120 mg strength, bottles of 500 (NDC 76385-115-50) 160 mg strength, bottles of 100 (NDC 76385-116-01) 160 mg strength, bottles of 500 (NDC 76385-116-50)
 
