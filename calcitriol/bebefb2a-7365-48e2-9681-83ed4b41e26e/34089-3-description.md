@@ -10,4 +10,4 @@ Calcitriol is a white, crystalline compound which occurs naturally in humans.
 It has a calculated molecular weight of 416.65 and is soluble in organic solvents but relatively insoluble in water.
 Chemically, calcitriol is 9, 10-seco(5Z,7E)-5,7,10(19) cholestatriene-1α, 3β, 25-triol and has the following structural formula:
 
-The other names frequently used for calcitriol are lα,25-dihydroxycholecalciferol, 1, 25-dihydroxyvitamin D3, 1,25-DHCC, 1,25(OH)2D3 and 1,25-diOHC.
+The other names frequently used for calcitriol are lα,25-dihydroxycholecalciferol, 1, 25-dihydroxyvitamin D 3, 1,25-DHCC, 1,25(OH) 2D 3and 1,25-diOHC.

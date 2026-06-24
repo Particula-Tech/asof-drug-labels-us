@@ -1,9 +1,9 @@
 # CLINICAL PHARMACOLOGY
 
-Man's natural supply of vitamin D depends mainly on exposure to the ultraviolet rays of the sun for conversion of 7-dehydrocholesterol in the skin to vitamin D3 (cholecalciferol).
-Vitamin D3 must be metabolically activated in the liver and the kidney before it is fully active as a regulator of calcium and phosphorus metabolism at target tissues.
-The initial transformation of vitamin D3 is catalyzed by a vitamin D3-25-hydroxylase enzyme (25-OHase) present in the liver, and the product of this reaction is 25-hydroxyvitamin D3 [25-(OH)D3].
-Hydroxylation of 25-(OH)D3 occurs in the mitochondria of kidney tissue, activated by the renal 25-hydroxyvitamin D3-1 alpha-hydroxylase (alpha-OHase), to produce 1,25-(OH)2D3 (calcitriol), the active form of vitamin D3.
+Man's natural supply of vitamin D depends mainly on exposure to the ultraviolet rays of the sun for conversion of 7-dehydrocholesterol in the skin to vitamin D 3(cholecalciferol).
+Vitamin D 3must be metabolically activated in the liver and the kidney before it is fully active as a regulator of calcium and phosphorus metabolism at target tissues.
+The initial transformation of vitamin D 3is catalyzed by a vitamin D 3-25-hydroxylase enzyme (25-OHase) present in the liver, and the product of this reaction is 25-hydroxyvitamin D 3[25-(OH)D 3].
+Hydroxylation of 25-(OH)D 3occurs in the mitochondria of kidney tissue, activated by the renal 25-hydroxyvitamin D 3-1 alpha-hydroxylase (alpha-OHase), to produce 1,25-(OH) 2D 3(calcitriol), the active form of vitamin D 3.
 Endogenous synthesis and catabolism of calcitriol, as well as physiological control mechanisms affecting these processes, play a critical role regulating the serum level of calcitriol.
 Physiological daily production is normally 0.5 to 1.0 mcg and is somewhat higher during periods of increased bone synthesis (eg, growth or pregnancy).
 
@@ -12,7 +12,7 @@ Physiological daily production is normally 0.5 to 1.0 mcg and is somewhat higher
 The two known sites of action of calcitriol are intestine and bone.
 A calcitriol receptor-binding protein appears to exist in the mucosa of human intestine.
 Additional evidence suggests that calcitriol may also act on the kidney and the parathyroid glands.
-Calcitriol is the most active known form of vitamin D3 in stimulating intestinal calcium transport.
+Calcitriol is the most active known form of vitamin D 3in stimulating intestinal calcium transport.
 In acutely uremic rats calcitriol has been shown to stimulate intestinal calcium absorption.
 
 The kidneys of uremic patients cannot adequately synthesize calcitriol, the active hormone formed from precursor vitamin D. Resultant hypocalcemia and secondary hyperparathyroidism are a major cause of the metabolic bone disease of renal failure.
@@ -47,9 +47,9 @@ In vivo and in vitro studies indicate the presence of two pathways of metabolism
 The first pathway involves the 24-hydroxylase as the first step in catabolism of calcitriol.
 There is definite evidence of 24-hydroxylase activity in the kidney; this enzyme is also present in many target tissues which possess the vitamin D receptor such as the intestine.
 The end product of this pathway is a side chain shortened metabolite, calcitroic acid.
-The second pathway involves the conversion of calcitriol via the stepwise hydroxylation of carbon-26 and carbon-23, and cyclization to yield ultimately lα, 25R(OH)2-26, 23S-lactone D3.
+The second pathway involves the conversion of calcitriol via the stepwise hydroxylation of carbon-26 and carbon-23, and cyclization to yield ultimately lα, 25R(OH) 2-26, 23S-lactone D 3.
 The lactone appears to be the major metabolite circulating in humans, with mean serum concentrations of 131±17 pg/mL.
-In addition, several other metabolites of calcitriol have been identified: lα, 25(OH)2-24-oxo-D3; lα, 23,25(OH)3-24-oxo-D3; lα, 24R,25(OH)3D3; lα, 25S,26(OH)3D3; lα, 25(OH)2-23-oxo-D3; lα, 25R,26(OH)3-23-oxo-D3; 1α, (OH)24,25,26,27-tetranor-COOH-D3.
+In addition, several other metabolites of calcitriol have been identified: lα, 25(OH) 2-24-oxo-D 3; lα, 23,25(OH) 3-24-oxo-D 3; lα, 24R,25(OH) 3D 3; lα, 25S,26(OH) 3D 3; lα, 25(OH) 2-23-oxo-D 3; lα, 25R,26(OH) 3-23-oxo-D 3; 1α, (OH)24,25,26,27-tetranor-COOH-D 3.
 
 ### Excretion
 
@@ -66,7 +66,7 @@ The elimination half-life of calcitriol in serum after single oral doses is abou
 
 The steady-state pharmacokinetics of oral calcitriol were determined in a small group of pediatric patients (age range: 1.8 to 16 years) undergoing peritoneal dialysis.
 Calcitriol capsule was administered for 2 months at an average dose of 10.2 ng/kg (SD 5.5 ng/kg).
-In this pediatric population, mean Cmax was 116 pmol/L, mean serum half-life was 27.4 hours, and mean clearance was 15.3 mL/hr/kg1.
+In this pediatric population, mean C maxwas 116 pmol/L, mean serum half-life was 27.4 hours, and mean clearance was 15.3 mL/hr/kg 1.
 
 ### Geriatric
 

@@ -3,7 +3,7 @@
 Administration of calcitriol to patients in excess of their daily requirements can cause hypercalcemia, hypercalciuria, and hyperphosphatemia.
 Since calcitriol is a derivative of vitamin D, the signs and symptoms of overdose are the same as for an overdose of vitamin D (see ADVERSE REACTIONS).
 High intake of calcium and phosphate concomitant with calcitriol may lead to similar abnormalities.
-The serum calcium times phosphate (Ca x P) product should not be allowed to exceed 70 mg2/dL2.
+The serum calcium times phosphate (Ca x P) product should not be allowed to exceed 70 mg 2/dL 2.
 High levels of calcium in the dialysate bath may contribute to the hypercalcemia (see WARNINGS).
 
 ## Treatment of Hypercalcemia and Overdosage in Dialysis Patients and Hypoparathyroidism Patients

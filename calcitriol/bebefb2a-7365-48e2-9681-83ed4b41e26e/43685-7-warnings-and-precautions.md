@@ -3,13 +3,13 @@
 Overdosage of any form of vitamin D is dangerous (see OVERDOSAGE).
 Progressive hypercalcemia due to overdosage of vitamin D and its metabolites may be so severe as to require emergency attention.
 Chronic hypercalcemia can lead to generalized vascular calcification, nephrocalcinosis and other soft-tissue calcification.
-The serum calcium times phosphate (Ca x P) product should not be allowed to exceed 70 mg2/dL2.
+The serum calcium times phosphate (Ca x P) product should not be allowed to exceed 70 mg 2/dL 2.
 Radiographic evaluation of suspect anatomical regions may be useful in the early detection of this condition.
 
 Calcitriol is the most potent metabolite of vitamin D available.
 The administration of calcitriol to patients in excess of their daily requirements can cause hypercalcemia, hypercalciuria, and hyperphosphatemia.
 Therefore, pharmacologic doses of vitamin D and its derivatives should be withheld during calcitriol treatment to avoid possible additive effects and hypercalcemia.
-If treatment is switched from ergocalciferol (vitamin D2) to calcitriol, it may take several months for the ergocalciferol level in the blood to return to the baseline value (see OVERDOSAGE).
+If treatment is switched from ergocalciferol (vitamin D 2) to calcitriol, it may take several months for the ergocalciferol level in the blood to return to the baseline value (see OVERDOSAGE).
 
 Calcitriol increases inorganic phosphate levels in serum.
 While this is desirable in patients with hypophosphatemia, caution is called for in patients with renal failure because of the danger of ectopic calcification.
@@ -65,11 +65,11 @@ During the titration period of treatment with calcitriol, serum calcium levels s
 
 ### Cholestyramine
 
-Cholestyramine has been reported to reduce intestinal absorption of fat-soluble vitamins; as such it may impair intestinal absorption of calcitriol (see WARNINGS and PRECAUTIONS: General).
+Cholestyramine has been reported to reduce intestinal absorption of fat-soluble vitamins; as such it may impair intestinal absorption of calcitriol (see WARNINGSand PRECAUTIONS: General).
 
 ### Phenytoin/Phenobarbital
 
-The coadministration of phenytoin or phenobarbital will not affect plasma concentrations of calcitriol, but may reduce endogenous plasma levels of 25(OH)D3 by accelerating metabolism.
+The coadministration of phenytoin or phenobarbital will not affect plasma concentrations of calcitriol, but may reduce endogenous plasma levels of 25(OH)D 3by accelerating metabolism.
 Since blood level of calcitriol will be reduced, higher doses of calcitriol may be necessary if these drugs are administered simultaneously.
 
 ### Thiazides
@@ -98,7 +98,7 @@ Since calcitriol also has an effect on phosphate transport in the intestine, kid
 
 ### Vitamin D
 
-Since calcitriol is the most potent active metabolite of vitamin D3, pharmacological doses of vitamin D and its derivatives should be withheld during treatment with calcitriol to avoid possible additive effects and hypercalcemia (see WARNINGS).
+Since calcitriol is the most potent active metabolite of vitamin D 3, pharmacological doses of vitamin D and its derivatives should be withheld during treatment with calcitriol to avoid possible additive effects and hypercalcemia (see WARNINGS).
 
 ### Calcium Supplements
 
@@ -118,19 +118,19 @@ No significant effects of calcitriol on fertility and/or general reproductive pe
 
 Teratogenic Effects
 
-Pregnancy Category C. Calcitriol has been found to be teratogenic in rabbits when given at doses of 0.08 and 0.3 mcg/kg (approximately 2 and 6 times the maximum recommended dose based on mg/m2).
+Pregnancy Category C. Calcitriol has been found to be teratogenic in rabbits when given at doses of 0.08 and 0.3 mcg/kg (approximately 2 and 6 times the maximum recommended dose based on mg/m 2).
 All 15 fetuses in 3 litters at these doses showed external and skeletal abnormalities.
 However, none of the other 23 litters (156 fetuses) showed external and skeletal abnormalities compared with controls.
 
-Teratogenicity studies in rats at doses up to 0.45 mcg/kg (approximately 5 times maximum recommended dose based on mg/m2) showed no evidence of teratogenic potential.
+Teratogenicity studies in rats at doses up to 0.45 mcg/kg (approximately 5 times maximum recommended dose based on mg/m 2) showed no evidence of teratogenic potential.
 There are no adequate and well-controlled studies in pregnant women.
 Calcitriol capsules should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Nonteratogenic Effects
 
 In the rabbit, dosages of 0.3 mcg/kg/day (approximately 6 times maximum recommended dose based on surface area) administered on days 7 to 18 of gestation resulted in 19% maternal mortality, a decrease in mean fetal body weight and a reduced number of newborn surviving to 24 hours.
-A study of perinatal and postnatal development in rats resulted in hypercalcemia in the offspring of dams given calcitriol at doses of 0.08 or 0.3 mcg/kg/day (approximately 1 and 3 times the maximum recommended dose based on mg/m2), hypercalcemia and hypophosphatemia in dams given calcitriol at a dose of 0.08 or 0.3 mcg/kg/day, and increased serum urea nitrogen in dams given calcitriol at a dose of 0.3 mcg/kg/day.
-In another study in rats, maternal weight gain was slightly reduced at a dose of 0.3 mcg/kg/day (approximately 3 times the maximum recommended dose based on mg/m2) administered on days 7 to 15 of gestation.
+A study of perinatal and postnatal development in rats resulted in hypercalcemia in the offspring of dams given calcitriol at doses of 0.08 or 0.3 mcg/kg/day (approximately 1 and 3 times the maximum recommended dose based on mg/m 2), hypercalcemia and hypophosphatemia in dams given calcitriol at a dose of 0.08 or 0.3 mcg/kg/day, and increased serum urea nitrogen in dams given calcitriol at a dose of 0.3 mcg/kg/day.
+In another study in rats, maternal weight gain was slightly reduced at a dose of 0.3 mcg/kg/day (approximately 3 times the maximum recommended dose based on mg/m 2) administered on days 7 to 15 of gestation.
 The offspring of a woman administered 17 mcg/day to 36 mcg/day of calcitriol (approximately 17 to 36 times the maximum recommended dose), during pregnancy manifested mild hypercalcemia in the first 2 days of life which returned to normal at day 3.
 
 ## Nursing Mothers
