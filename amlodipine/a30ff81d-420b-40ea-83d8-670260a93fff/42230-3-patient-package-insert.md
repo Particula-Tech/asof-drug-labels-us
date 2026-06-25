@@ -1,5 +1,3 @@
-# Patient Package Insert
-
 | Patient Information WIDAPLIKTM (wid-UH-plick) (telmisartan, amlodipine, and indapamide) Tablets, for oral use |
 | --- |
 | What is the most important information I should know about Widaplik? Widaplik can cause harm or death to an unborn baby. Talk to your healthcare provider about other ways to lower your blood pressure if you plan to become pregnant. If you get pregnant during treatment with Widaplik, stop taking Widaplik and tell your healthcare provider right away. |
