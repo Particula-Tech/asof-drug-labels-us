@@ -6,5 +6,5 @@ The structural formula is:
 
 Dapagliflozin is a white to off-white solid and soluble in methanol and ethanol.
 
-Dapagliflozin tablets are available as a film-coated tablet for oral administration.
+Dapagliflozin tablets, USP are available as a film-coated tablet for oral administration.
 Each tablet contains 5 mg or 10 mg dapagliflozin and contains following inactive ingredients: anhydrous lactose, crospovidone, colloidal silicon dioxide, hypromellose, microcrystalline cellulose, poloxamer, polyethylene glycol, sodium stearyl fumarate, talc and titanium dioxide.

@@ -28,11 +28,16 @@ The recommended dosage of dapagliflozin is 10 mg orally once daily in adults for
 
 For Adults with Renal Impairment Receiving Dapagliflozin for Indications Other than Glycemic Control:
 
-- The recommended dosage of dapagliflozin in patients with an eGFR greater than or equal to 25 mL/min/1.73 m2 is the same as the recommended dosage in patients with normal renal function.
+- The recommended dosage of dapagliflozin in patients with an eGFR greater than or equal to 25 mL/min/1.73 m2is the same as the recommended dosage in patients with normal renal function.
 - Initiation with dapagliflozin is not recommended in patients with an eGFR less than 25 mL/min/1.73 m2.
 - If the eGFR falls below 25 mL/min/1.73 m2while receiving treatment with dapagliflozin, patients may continue dapagliflozin 10 mg orally once daily.
 
 ## 2.4 Temporary Interruption for Surgery
 
-Withhold dapagliflozin for at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting.
+Withhold dapagliflozin for at least 3 days, if possible, prior to surgery or procedures associated with prolonged fasting.
 Resume dapagliflozin when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.2)].
+
+## 2.5 Recommendations Regarding Missed Dose
+
+- If a dose is missed, instruct patients to take the dose as soon as possible.
+- Advise patients not to double up the next dose.

@@ -63,7 +63,7 @@ The safety and effectiveness of dapagliflozin for glycemic control in type 2 dia
 
 The safety and effectiveness of dapagliflozin have not been established in pediatric patients to reduce the risk of [see Indications and Usage (1)]:
 
-- hospitalization for heart failure in patients with type 2 diabetes mellitus and either established cardiovascular disease or multiple cardiovascular risk factors.
+- hospitalization for heart failure in patients with type 2 diabetes mellitus and either established CV disease or multiple CV risk factors.
 
 Pediatric use information is approved for AstraZeneca AB's Farxiga® (dapagliflozin) Tablets.
 However, due to AstraZeneca AB's marketing exclusivity rights, this drug product is not labeled with that information.
