@@ -175,4 +175,4 @@ Active ingredient: alendronate monosodium salt trihydrate Inactive ingredients: 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India.
-M.L.No.: 19/HD/AP/95/F/R Revised: 02/2026
+M.L.No.: 19/HD/AP/95/F/R Revised: 06/2026

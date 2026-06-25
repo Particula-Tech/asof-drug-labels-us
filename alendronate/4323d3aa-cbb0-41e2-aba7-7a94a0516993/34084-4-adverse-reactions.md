@@ -12,7 +12,7 @@ The following clinically significant adverse drug reactions are described elsewh
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinicalpractice.
 Treatment of Osteoporosis in Postmenopausal Women Daily Dosing The safety of alendronate sodium in the treatment of postmenopausal osteoporosis was assessed in four clinical trials that enrolled 7453 women aged 44 to 84 years.
 Study 1 and Study 2 were identically designed, three-year, placebo-controlled, double-blind, multicenter studies (United States and Multinational n=994); Study 3 was the three-year vertebral fracture cohort of the Fracture Intervention Trial [FIT] (n=2027) and Study 4 was the four-year clinical fracture cohort of FIT (n=4432).
 Overall, 3620 patients were exposed to placebo and 3432 patients exposed to alendronate sodium.
@@ -125,7 +125,7 @@ Table 4: Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Prob
 | nausea | 2.1 | 0 | 0 | 0 |
 
 Glucocorticoid-Induced Osteoporosis In two, one-year, placebo-controlled, double-blind, multicenter studies in patients receiving glucocorticoid treatment, the overall safety and tolerability profiles of alendronate 5 and 10 mg/day were generally similar to that of placebo.
-The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients treated with either alendronate 5 or 10 mg/day or placebo are presented in Table 5.
+The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to1% of patients treated with either alendronate 5 or 10 mg/day or placebo are presented in Table 5.
 
 Table 5: One-Year Studies in Glucocorticoid-Treated Patients Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
 
