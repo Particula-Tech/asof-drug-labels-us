@@ -12,22 +12,5 @@ Rx Only
 
 Manufactured for:
 
-Endo USA
-
-Malvern, PA 19355 U.S.A.
-
-Made in India
-
-Product of Italy
-
-from Active Pharmaceutical
-
-Ingredient made in Italy
-
-Neutral Code: TN/DRUGS/TN00002121
-
-© 2024 Endo, Inc. or one of its affiliates.
-
-OS412-01-74-03
-
-Revised: 10/2024
+Par Health USA Woodcliff Lake, NJ 07677 U.S.A. Product of Italy Made in India Neutral Code: TN/DRUGS/TN00002121 © 2026 Par Health, Inc. or one of its affiliates.
+OS412-01-74-04 Revised: 05/2026

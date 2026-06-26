@@ -7,9 +7,9 @@ Dosing regimen should be adjusted according to each patient’s need at the disc
 
 ## 2.2 Liver Function Tests
 
-Liver function tests (y-GT, alkaline phosphatase, AST, ALT) and bilirubin levels should be monitored every month for three months after start of therapy, and every six months thereafter [see Warnings and Precautions (5.1)].
+Liver function tests (γ-GT, alkaline phosphatase, AST, ALT) and bilirubin levels should be monitored every month for three months after start of therapy, and every six months thereafter [see Warnings and Precautions (5.1)].
 
-## 2.3 Scoring the Ursodiol Tablet 500 mg
+## 2.3 Scoring the Ursodiol Tablets 500 mg
 
 The ursodiol 500 mg scored tablet can be broken in halves to provide recommended dosage.
 

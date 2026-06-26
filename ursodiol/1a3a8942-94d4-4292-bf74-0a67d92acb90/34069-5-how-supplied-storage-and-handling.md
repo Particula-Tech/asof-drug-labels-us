@@ -12,7 +12,8 @@ The 500 mg dosage form is a white to off-white, modified capsule shaped, film-co
 
 Tablets are supplied in bottles of 100 (NDC 49884-413-01) with a child resistant closure.
 
-Half-tablets (scored ursodiol 500 mg tablets broken in half) maintain acceptable quality for up to 28 days when stored in the current packaging (bottles) at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
+Half-tablets (scored ursodiol 500 mg tablets broken in half) maintain acceptable quality for up to 28 days when stored in the current packaging (bottles) at 20º to 25ºC (68º to 77ºF).
+[See USP Controlled Room Temperature].
 Due to the bitter taste, the halved segments should be stored separately from the whole tablets [see Dosage and Administration (2.2)].
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure.
