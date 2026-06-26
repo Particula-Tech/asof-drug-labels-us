@@ -3,9 +3,9 @@
 ## 5.1 Thromboembolic Disorders and Other Vascular Conditions
 
 Women are at increased risk for a venous thromboembolic event (VTE) when using CHCs, including TWIRLA.
-The risk of VTE may be greater in women with a BMI ≥ 30 kg/m2 compared to women with a lower BMI, and TWIRLA is contraindicated in obese patients [see Contraindications (4)].
+The risk of VTE may be greater in women with a BMI ≥ 30 kg/m 2compared to women with a lower BMI, and TWIRLA is contraindicated in obese patients [see Contraindications (4)].
 In the Phase 3 clinical trial, four TWIRLA-treated women experienced a VTE.
-All of these women had a BMI > 30 kg/m2 [see Adverse Reactions (6.1)].
+All of these women had a BMI > 30 kg/m 2 [see Adverse Reactions (6.1)].
 
 - Stop TWIRLA if an arterial or venous thromboembolic event occurs.
 - Stop TWIRLA if there is unexplained loss of vision, proptosis, diplopia, papilledema, or retinal vascular lesions.
@@ -67,7 +67,7 @@ TWIRLA can be restarted approximately 2 weeks following completion of treatment 
 
 ## 5.4 Hypertension
 
-TWIRLA is contraindicated in women with uncontrolled hypertension or hypertension with vascular disease [see Contraindications (4)].
+TWIRLA is contraindicated in women with uncontrolled hypertension or hypertension with vascular disea se [see Contraindications (4)].
 For all women, including those with well-controlled hypertension, monitor blood pressure at routine visits and stop TWIRLA if blood pressure rises significantly.
 
 An increase in blood pressure has been reported in women using CHCs, and this increase is more likely in older women with extended duration of use.

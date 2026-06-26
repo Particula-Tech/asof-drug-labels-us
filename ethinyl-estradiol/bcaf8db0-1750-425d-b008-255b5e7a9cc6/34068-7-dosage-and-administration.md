@@ -89,7 +89,7 @@ If the TDS has been off or partially off:
   No back-up contraception is needed and the “Patch Change Day” will stay the same.
 - For more than one day OR if unsure of the timeframe, the woman may not be protected from pregnancy.
   To reduce this risk, apply a new TDS and start a new 4-week cycle.
-  The woman will now have a new “Patch Change Day” and MUST USE NON-HORMONAL BACK-UP CONTRACEPTION (such as condoms and spermicide, or diaphragm and spermicide) for the first 7 days of the new cycle.
+  The woman will now have a new “Patch Change Day” and MUST USE NON-HORMONAL BACK-UP CONTRACEPTION(such as condoms and spermicide, or diaphragm and spermicide) for the first 7 days of the new cycle.
 
 ## 2.3 Missed Doses
 
@@ -97,17 +97,17 @@ Instruct women about the handling of missed doses (e.g., missed or delayed TDS a
 
 FORGETTING TO CHANGE THE TDS:
 
-- At the start of any TDS cycle (Week 1/Day 1): THE WOMAN MAY NOT BE PROTECTED FROM PREGNANCY.
+- At the start of any TDS cycle (Week 1/Day 1):THE WOMAN MAY NOT BE PROTECTED FROM PREGNANCY.
   The woman should apply the first TDS of her new cycle as soon as she remembers, and this becomes the new "Patch Change Day" and a new "Day 1" of the cycle.
   The woman should use non-hormonal back-up contraception (such as condoms and spermicide, or diaphragm and spermicide) for the first 7 days of the new cycle.
-- In the middle of the TDS cycle (Week 2/Day 8 or Week 3/Day 15), for 1 or 2 days (up to 48 hours): The woman should apply a new TDS immediately.
+- In the middle of the TDS cycle (Week 2/Day 8 or Week 3/Day 15), for 1 or 2 days (up to 48 hours):The woman should apply a new TDS immediately.
   The next TDS should be applied on the usual "Patch Change Day".
   No back-up contraception is needed.
-- For more than 2 days (48 hours or more): THE WOMAN MAY NOT BE PROTECTED FROM PREGNANCY.
+- For more than 2 days (48 hours or more):THE WOMAN MAY NOT BE PROTECTED FROM PREGNANCY.
   The woman should stop the current contraceptive cycle and start a new four-week cycle immediately by putting on a new TDS.
   This is now a new "Patch Change Day" and a new "Day 1" of the cycle.
   Non-hormonal back-up contraception must be used for 7 days.
-- At the end of the TDS cycle Week 3 (Day 22): If the woman forgets to remove her TDS, she should take it off as soon as she remembers.
+- At the end of the TDS cycle Week 3 (Day 22):If the woman forgets to remove her TDS, she should take it off as soon as she remembers.
   The next cycle should be started on the usual "Patch Change Day", which is the day after Day 28.
   No back-up contraception is needed.
 
@@ -122,7 +122,6 @@ Table 2: Managing Partial or Complete TDS Detachments and Late/Missed TDS Applic
 | ≥ 48 hours late for Patch Change Day (Day 8 or 15) | Yes | Yes | Yes |
 | Forgets to remove last TDS on Day 22 | No | No | No |
 
-Under no circumstances should there be more than a seven-day TDS-free interval between cycles.
-If there are more than 7 TDS-free days, THE WOMAN MAY NOT BE PROTECTED FROM PREGNANCY and non-hormonal back-up contraception (such as a condoms and spermicide, or diaphragm and spermicide) must be used for 7 days.
+Under no circumstances should there be more than a seven-day TDS-free interval between cycles.If there are more than 7 TDS-free days, THE WOMAN MAY NOT BE PROTECTED FROM PREGNANCY and non-hormonal back-up contraception (such as a condoms and spermicide, or diaphragm and spermicide) must be used for 7 days.
 As with CHCs, the risk of ovulation increases with each day beyond the recommended drug-free period.
 If the woman has intercourse during such an extended TDS-free interval, consider the possibility of pregnancy.

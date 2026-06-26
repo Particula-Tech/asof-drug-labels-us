@@ -5,13 +5,13 @@ TWIRLA (levonorgestrel and ethinyl estradiol) transdermal system (TDS) contains 
 Figure 3.
 Structural Formulas
 
-TWIRLA is designed to provide daily exposure of 120 mcg LNG and 30 mcg EE.
-TWIRLA is a matrix type TDS consisting of a 15 cm2 active adhesive laminate center, surrounded by a peripheral inactive adhesive laminate.
-The entire area of TWIRLA is 28 cm2.
+TWIRLA is designed to provide daily exposure of 40 mcg LNG and 10 mcg EE.
+TWIRLA is a matrix type TDS consisting of a 15 cm 2active adhesive laminate center, surrounded by a peripheral inactive adhesive laminate.
+The entire area of TWIRLA is 28 cm 2.
 
 TWIRLA consists of 5 layers and a release liner which is removed and discarded prior to application.
 The two innermost layers contain the active ingredients (LNG and EE), as well as inactive components.
-Proceeding from the outer surface toward the surface adhering to the skin, the layers are (1) a woven peripheral backing layer, which is etched with “TWIRLA Levonorgestrel 120 mcg/day Ethinyl Estradiol 30 mcg/day”; (2) an inactive peripheral acrylic adhesive layer; (3) an inactive peripheral polyisobutylene adhesive layer; (4) an internal membrane to separate the active adhesive matrix from the inactive adhesive laminate; (5) the active adhesive matrix (Figure 4).
+Proceeding from the outer surface toward the surface adhering to the skin, the layers are (1) a woven peripheral backing layer, which is etched with “TWIRLA Levonorgestrel 40 mcg/day Ethinyl Estradiol 10 mcg/day”; (2) an inactive peripheral acrylic adhesive layer; (3) an inactive peripheral polyisobutylene adhesive layer; (4) an internal membrane to separate the active adhesive matrix from the inactive adhesive laminate; (5) the active adhesive matrix (Figure 4).
 
 Figure 4.
 Schematic Depiction of the TWIRLA TDS

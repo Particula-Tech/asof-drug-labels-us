@@ -1,5 +1,8 @@
-| INSTRUCTIONS FOR USETWIRLA® (TWER-la)(levonorgestrel and ethinyl estradiol) transdermal system |
-| --- |
+INSTRUCTIONS FOR USE
+
+TWIRLA ®(TWER-la)
+
+(levonorgestrel and ethinyl estradiol) transdermal system
 
 TWIRLA is for skin use only.
 
@@ -7,20 +10,19 @@ Read this Instructions for Use before you start using the TWIRLA transdermal sys
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your contraceptive treatment.
 
-Do not cut, damage or change the TWIRLA patch in any way.
-If the patch is cut, damaged or changed in any way, it may be less effective.
+Do not cut, damage or change the TWIRLA patch in any way.If the patch is cut, damaged or changed in any way, it may be less effective.
 
-Starting TWIRLA for the first time: If you are starting TWIRLA for the first time, you should wait until you begin your menstrual period.
+Starting TWIRLA for the first time:If you are starting TWIRLA for the first time, you should wait until you begin your menstrual period.
 
 - Day 1 Start.
   You should apply your first patch during the first 24 hours of your menstrual period.
-  Your Patch Change Day will be on this day every week.
+  Your Patch Change Daywill be on this day every week.
   If you start after Day 1 of your menstrual period, non-hormonal back up birth control (such as condoms and spermicide, or diaphragm and spermicide) should be used in addition to the patch for the first 7 days of your first patch cycle.
 
 If you are changing from the oral hormone birth control pills, vaginal contraceptive ring or another transdermal patch to TWIRLA:
 
 - Day 1 Start: You should apply your first patch during the first 24 hours of your menstrual period.
-  Your Patch Change Day will be on this day every week.
+  Your Patch Change Daywill be on this day every week.
   If you start after Day 1 of your menstrual period, non-hormonal back up birth control (such as condoms and spermicide, or diaphragm and spermicide) should be used in addition to the patch for the first 7 days of your first patch cycle.
 
 - Finish your current oral hormone birth control pill cycle, vaginal ring cycle or other transdermal patch cycle.
@@ -38,7 +40,7 @@ If you are starting TWIRLA after a miscarriage or abortion:
 
 - If you do not start TWIRLA within 5 days after a first trimester miscarriage or abortion, use a non-hormonal contraceptive method of birth control, such as a condom and spermicide or diaphragm and spermicide, while you wait for your period to start.
 
-- If you are starting TWIRLA after a miscarriage or abortion that occurs after the first 12 weeks of pregnancy (second trimester), wait 4 weeks before using TWIRLA and use a non-hormonal contraceptive method of birth control, such as a condom and spermicide or diaphragm and spermicide, for the first 7 days of your first patch cycle only.
+- If you are starting TWIRLA after a miscarriage or abortion that occurs afterthe first 12 weeks of pregnancy (second trimester), wait 4 weeks before using TWIRLA and use a non-hormonal contraceptive method of birth control, such as a condom and spermicide or diaphragm and spermicide, for the first 7 days of your first patch cycle only.
 
 If you are starting TWIRLA after childbirth:
 
@@ -63,24 +65,24 @@ Where should the patch be applied?
 
 Where not to place the patch.
 
-- Do not put the patch on your waistline or near clothing or undergarment seams.
-- Do not put the patch on the breasts, on cut or irritated skin (rashes or other skin problems), or on the same location as the old patch.
+- Do notput the patch on your waistline or near clothing or undergarment seams.
+- Do notput the patch on the breasts, on cut or irritated skin (rashes or other skin problems), or on the same location as the old patch.
 
 Patch Application Instructions
 
 |  | Before the patch is applied, make sure your skin is clean and dry. Also make sure you have not used any make up, creams, lotions, oils, powders or any other products on the skin area where you put or plan to put the patchEach patch is individually sealed in a pouch.It is important that you immediately apply the patch after being removed from the pouch. |  |
 | --- | --- | --- |
 |  | Step 1. Tear the pouch open at the notch on the pouch. |  |
-|  | Step 2. Open the pouch and carefully remove the patch. The patch is attached to a clear protective liner. |  |
-| Avoid touching the sticky side of the patch | Step 3a. Hold the patch with the clear protective liner facing you. You will see two sections: a large section and a small section. Avoid touching the sticky side of the patch with your fingers. Step 3b. Hold the small section of the liner. Remove and throw away (discard) the large section of the liner while still holding the small section of the liner. |  |
-|  | Step 4. Hold the small section of the liner and apply the sticky side of the patch to the chosen patch site. |  |
-|  | Step 5. Press the sticky side of the patch firmly onto your skin and smooth it down. |  |
+|  | Step 2.Open the pouch and carefully remove the patch. The patch is attached to a clear protective liner. |  |
+| Avoid touching the sticky side of the patch | Step 3a.Hold the patch with the clear protective liner facing you. You will see two sections: a large section and a small section. Avoid touching the sticky side of the patch with your fingers. Step 3b.Hold the small section of the liner. Remove and throw away (discard) the large section of the liner while still holding the small section of the liner. |  |
+|  | Step 4.Hold the small section of the liner and apply the sticky side of the patch to the chosen patch site. |  |
+|  | Step 5.Press the sticky side of the patch firmly onto your skin and smooth it down. |  |
 | Avoid wrinkles or folds |  |  |
-|  | Step 6. If the patch is not flat on the skin or there are large wrinkles, gently pull the patch off the skin while holding only the remaining protective liner and then put it on again. |  |
-|  | Step 7. After the patch is flat with no wrinkles, pull an edge of the remaining protective liner and gently pull it off. |  |
-|  | Step 8a. After the patch is on your body, press the entire patch firmly into place with your hand for 10 seconds, making sure the edges stick well. Step 8b. Make sure the patch is on your skin all the way. |  |
-|  | Step 9. The edges of the patch should be smoothed over with your finger and make sure there is good contact around the patch with your skin and make sure there are no wrinkles. |  |
-|  | Step 10. It is important that you check the patch every day to make sure it is in the right place. The patch should be checked after any water exposure (such as bathing, showering, or swimming) to make sure it is in the right place because water may affect how well the patch sticks to your skin. |  |
+|  | Step 6.If the patch is not flat on the skin or there are large wrinkles, gently pull the patch off the skin while holding only the remaining protective liner and then put it on again. |  |
+|  | Step 7.After the patch is flat with no wrinkles, pull an edge of the remaining protective liner and gently pull it off. |  |
+|  | Step 8a.After the patch is on your body, press the entire patch firmly into place with your hand for 10 seconds, making sure the edges stick well. Step 8b.Make sure the patch is on your skin all the way. |  |
+|  | Step 9.The edges of the patch should be smoothed over with your finger and make sure there is good contact around the patch with your skin and make sure there are no wrinkles. |  |
+|  | Step 10.It is important that you check the patch every day to make sure it is in the right place. The patch should be checked after any water exposure (such as bathing, showering, or swimming) to make sure it is in the right place because water may affect how well the patch sticks to your skin. |  |
 
 How do I throw away TWIRLA patches?
 
@@ -112,16 +114,16 @@ What if a patch starts to lift off your skin or completely comes off?
 - If your patch starts to lift off your skin or completely comes off and you do not replace it, you may not get enough hormones to keep you from getting pregnant.
 
 - If a patch starts to lift off your skin or is completely off for less than one day (up to 24 hours), you should try and put it on again to the same place or replace it with a new patch immediately.
-  No back up birth control is needed and your Patch Change Day will remain the same.
+  No back up birth control is needed and your Patch Change Daywill remain the same.
 
-- If a patch starts to lift off your skin or is completely off for more than 1 day (24 hours or more) or if you are not sure how long the patch has been not attached to your skin, you may not be protected from pregnancy.
+- If a patch starts to lift off your skin or is completely off for more than 1 day (24 hours or more) orif you are not sure how long the patch has been not attached to your skin, you may not be protected from pregnancy.
   You should stop your current patch cycle and start over on a new patch cycle right away by putting on a new patch.
-  The day you apply your new patch is now your new Day 1 and your new Patch Change Day.
+  The day you apply your new patch is now your new Day 1and your new Patch Change Day.
   Non-hormonal back up birth control, (such as condoms and spermicide, or diaphragm and spermicide) must be used for the first week of the new patch cycle.
 
 - Do not put a patch on again if it is no longer sticky, if it has become stuck to itself or another surface or if it has other material stuck to it.
   If your patch cannot be put on again, a new patch should be put on right away.
-  If you need help applying a patch, contact Agile Medical Information at 1-855-389-4752 or email: medicalaffairs@agiletherapeutics.com.
+  If you need help applying a patch, contact Exeltis at 1-877-324-9349.
 
 Can I wear the patch when I am exercising, or using a sauna, swimming pool, or whirlpool?
 
@@ -137,22 +139,21 @@ Can I wear the patch when I am exercising, or using a sauna, swimming pool, or w
   Before applying the patch, make sure your skin is clean and dry.
 
 - Make sure you have not used any make up, creams, lotions, oils, powders or any other products on the skin area where you put or plan to put the patch.
-  If you find yourself in need of an additional patch because you needed to replace a patch, contact Agile Medical Information at 1-855-389-4752 or email: medicalaffairs@agiletherapeutics.com.
+  If you find yourself in need of an additional patch because you needed to replace a patch, contact Exeltis at 1-877-324-9349.
 
 What if you forget to change your patch (left your patch on more than 7 days)?
 
-- If you forget to change your patch at the start of any patch cycle (Day 1): You may not be protected from pregnancy.
-  You should apply the first patch of your new patch cycle as soon as you remember.
-  This is now your new Patch Change Day and your new Day 1.
+- If you forget to change your patch at the start of any patch cycle(Day 1): You may not be protected from pregnancy.You should apply the first patch of your new patch cycle as soon as you remember.
+  This is now your new Patch Change Dayand your new Day 1.
   You must use non-hormonal back up birth control (such as condoms and spermicide, or diaphragm and spermicide) for the first week of your new patch cycle.
 
-- If you forget to change your patch in the middle of the patch cycle (Day 8 or Day 15): for 1 or 2 days (up to 48 hours): you should apply a new patch right away.
+- If you forget to change your patch in the middle of the patch cycle(Day 8 or Day 15): for 1 or 2 days (up to 48 hours): you should apply a new patch right away.
   The next patch should be applied on your usual Patch Change Day.
   No back up birth control is needed.
 
-- If you forget to change your patch for more than 2 days (48 hours or more): You may not be protected from pregnancy.
+- If you forget to change your patch for more than 2 days(48 hours or more): You may not be protected from pregnancy.
   You should stop your current patch cycle and start a new 4 week patch cycle right away by putting on a new patch.
-  This is now your new Patch Change Day and your new Day 1.
+  This is now your new Patch Change Dayand your new Day 1.
   You must use non-hormonal back up birth control for the first week of your new patch cycle.
 
 What to do if the patch starts to lift or the patch completely comes off from the skin and Late or Missed Patch Applications
@@ -162,8 +163,8 @@ What to do if the patch starts to lift or the patch completely comes off from th
 | Did not apply patch on scheduled Day 1 of new patch cycle | Yes | Yes | Yes (for 7 days) |
 | Patch not attached for less than 24 hours | No | No | No |
 | Patch not attached for 24 hours or more, or unsure how long | Yes | Yes | Yes (for 7 days) |
-| Less than 48 hours late for Patch Change Day (Day 8 or 15) | No | No | No |
-| 48 hours or more late for Patch Change Day (Day 8 or 15) | Yes | Yes | Yes (for 7 days) |
+| Less than 48 hours late for Patch Change Day(Day 8 or 15) | No | No | No |
+| 48 hours or more late for Patch Change Day(Day 8 or 15) | Yes | Yes | Yes (for 7 days) |
 | Forgets to remove last patch on Day 22 | No | No | No |
 
 What if you forget to remove your patch for the patch free week?
@@ -178,19 +179,25 @@ What if you forget to remove your patch for the patch free week?
 
 - As with all hormonal birth control, the risk of getting pregnant increases with each day you go past the recommended 7 day patch free period.
 
-What if you wish to change your Patch Change Day?
+What if youwish to change your Patch Change Day?
 
-- If you want to change your Patch Change Day you should complete your current patch cycle, removing the third patch on the correct day.
-  During the Patch Free Week, you may select an earlier Patch Change Day by applying a new patch on the chosen day.
+- If you want to change your Patch Change Dayyou should complete your current patch cycle, removing the third patch on the correct day.
+  During the Patch Free Week, you may select an earlier Patch Change Dayby applying a new patch on the chosen day.
 
 Your TWIRLA patch should never be off more than 7 days in a row.
 
-Manufactured by: Corium International, Inc. 4558 50th Street, SE Grand Rapids, MI 49512
+Distributed by:
 
-Manufactured for: Agile Therapeutics, Inc. 500 College Rd.
-E, Suite 310 Princeton, NJ 08540
+Exeltis USA, Inc.
 
-For more information call 1-855-389-4752 or email: medicalaffairs@agiletherapeutics.com.
+180 Park Ave, Suite 101
 
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration | Approved: 04/2022 |
-| --- | --- |
+Florham Park, NJ 07932
+
+For more information call 1-877-324-9349.
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration
+
+Revised: 06/2026
+
+1000311-02

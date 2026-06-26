@@ -1,4 +1,10 @@
-Manufactured by: Corium International, Inc. 4558 50th Street, SE Grand Rapids, MI 49512
+Distributed by: Exeltis USA, Inc.
 
-Manufactured for: Agile Therapeutics, Inc. 500 College Rd.
-E, Suite 310 Princeton, NJ 08540
+180 Park Ave, Suite 101
+
+Florham Park, NJ 07932
+
+1000301-02
+
+Rev.
+06/2026

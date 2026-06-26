@@ -18,11 +18,11 @@ Table 4: Significant Drug Interactions Involving Substances That Affect CHCs
 
 | Metabolic Enzyme Inducers |  |
 | --- | --- |
-| Clinical effect | Concomitant use of CHCs with metabolic enzyme inducers may decrease the plasma concentrations of the estrogen and/or progestin component of CHCs [see Clinical Pharmacology (12.3)].Decreased exposure of the estrogen and/or progestin component of CHCs may potentially diminish the effectiveness of CHCs and may lead to contraceptive failure or an increase in breakthrough bleeding. |
+| Clinical effect | Concomitant use of CHCs with metabolic enzyme inducers may decrease the plasma concentrations of the estrogen and/or progestin component of CHCs [see Clinical Pharmacology (12.3)]. Decreased exposure of the estrogen and/or progestin component of CHCs may potentially diminish the effectiveness of CHCs and may lead to contraceptive failure or an increase in breakthrough bleeding. |
 | Prevention or management | Counsel women to use an alternative method of contraception or a backup method when enzyme inducers are used with CHCs.Continue backup contraception for 28 days after discontinuing the enzyme inducer to maintain contraceptive reliability. |
-| Examples | Aprepitant, barbiturates, bosentan, carbamazepine, efavirenz, felbamate, griseofulvin, oxcarbazepine, phenytoin, rifampin, rifabutin, rufinamide, topiramate, products containing St. John’s wort,Induction potency of St. John’s wort may vary widely based on preparation. and certain protease inhibitors (see separate section on protease inhibitors below). |
+| Examples | Aprepitant, barbiturates, bosentan, carbamazepine, efavirenz, felbamate, griseofulvin, oxcarbazepine, phenytoin, rifampin, rifabutin, rufinamide, topiramate, products containing St. John’s wort, Induction potency of St. John’s wort may vary widely based on preparation.and certain protease inhibitors (see separate section on protease inhibitors below). |
 | Colesevelam |  |
-| Clinical effect | Concomitant use of CHCs with Colesevelam significantly decreases systemic exposure of ethinyl estradiol [see Clinical Pharmacology (12.3)].Decreased exposure of the estrogen component of CHCs may potentially reduce contraceptive efficacy or result in an increase in breakthrough bleeding, depending on the strength of ethinyl estradiol in the CHC. |
+| Clinical effect | Concomitant use of CHCs with Colesevelam significantly decreases systemic exposure of ethinyl estradiol [see Clinical Pharmacology (12.3)]. Decreased exposure of the estrogen component of CHCs may potentially reduce contraceptive efficacy or result in an increase in breakthrough bleeding, depending on the strength of ethinyl estradiol in the CHC. |
 | Prevention or management | Administer 4 or more hours apart to attenuate this drug interaction. |
 
 Substances increasing the systemic exposure of CHCs: Co-administration of atorvastatin or rosuvastatin and CHCs containing ethinyl estradiol increase systemic exposure of ethinyl estradiol by approximately 20 to 25 percent.
@@ -41,7 +41,7 @@ Table 5: Significant Drug Interaction Information for Drugs Co-Administered with
 
 | Lamotrigine |  |
 | --- | --- |
-| Clinical effect | Concomitant use of CHCs with lamotrigine may significantly decrease systemic exposure of lamotrigine due to induction of lamotrigine glucuronidation [see Clinical Pharmacology (12.3)].Decreased systemic exposure of lamotrigine may reduce seizure control. |
+| Clinical effect | Concomitant use of CHCs with lamotrigine may significantly decrease systemic exposure of lamotrigine due to induction of lamotrigine glucuronidation [see Clinical Pharmacology (12.3)]. Decreased systemic exposure of lamotrigine may reduce seizure control. |
 | Prevention or management | Dose adjustment may be necessary. Consult the approved product labeling for lamotrigine. |
 | Thyroid Hormone Replacement Therapy or Corticosteroid Replacement Therapy |  |
 | Clinical effect | Concomitant use of CHCs with thyroid hormone replacement therapy or corticosteroid replacement therapy may increase systemic exposure of thyroid-binding and cortisol-binding globulin [see Warnings and Precautions (5.12)]. |

@@ -19,7 +19,7 @@ Human Data No studies have been conducted on the use of TWIRLA in breastfeeding 
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of TWIRLA as a method of contraception have been established in females of reproductive potential with a BMI < 30 kg/m2.
+The safety and effectiveness of TWIRLA as a method of contraception have been established in females of reproductive potential with a BMI < 30 kg/m 2.
 Efficacy is expected to be the same in postmenarcheal females regardless of age.
 TWIRLA is not indicated in females before menarche.
 
@@ -35,8 +35,8 @@ Acute or chronic disturbances of liver function may necessitate the discontinuat
 
 ## 8.9 Body Mass Index (BMI)
 
-Compared to women with a lower BMI, women with a BMI ≥ 30 kg/m2 had reduced effectiveness and may have a higher risk for VTEs.
-Therefore, TWIRLA is contraindicated in women with a BMI ≥ 30 kg/m2 [see Contraindications (4) and Clinical Studies (14)].
+Compared to women with a lower BMI, women with a BMI ≥ 30 kg/m 2had reduced effectiveness and may have a higher risk for VTEs.
+Therefore, TWIRLA is contraindicated in women with a BMI ≥ 30 kg/m 2[see Contraindications (4) and Clinical Studies (14)].
 
-TWIRLA has demonstrated reduced efficacy in women with a BMI ≥ 25 and < 30 kg/m2 [see Clinical Studies (14)].
-Consider this before prescribing TWIRLA to women with a BMI ≥ 25 to < 30 kg/m2.
+TWIRLA has demonstrated reduced efficacy in women with a BMI ≥ 25 and < 30 kg/m 2[see Clinical Studies (14)].
+Consider this before prescribing TWIRLA to women with a BMI ≥ 25 to < 30 kg/m 2.

@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-TWIRLA (levonorgestrel and ethinyl estradiol) transdermal system is a beige 28 cm2 round product etched with “TWIRLA Levonorgestrel 120 mcg/day Ethinyl Estradiol 30 mcg/day” and supplied as:
+TWIRLA (levonorgestrel and ethinyl estradiol) transdermal system is a beige 28 cm 2 round product etched with “TWIRLA Levonorgestrel 40 mcg/day Ethinyl Estradiol 10 mcg/day” and supplied as:
 
 - a carton of 3 identical TDS, each TDS is packaged in an individual pouch.
   NDC 71671-100-03
@@ -18,4 +18,4 @@ Store in original unopened pouch.
 Used TDS still contain some active hormones.
 To discard, fold the sticky sides of the TDS together, place in a sturdy container, preferably with a child-resistant cap, and place this container in the trash.
 Used TDS should not be flushed down the toilet.
-See www.fda.gov/drugdisposal for more information about disposal of medicines.
+See www.fda.gov/drugdisposalfor more information about disposal of medicines.

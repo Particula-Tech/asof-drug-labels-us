@@ -17,21 +17,21 @@ TWIRLA delivers medication to the systemic circulation by absorption of LNG and 
 
 Absorption Following application of TWIRLA, both LNG and EE reach a plateau by 24 to 48 hours (Figures 5 and 6).
 Delivery of hormones is continuous over the 7 days of TWIRLA wear.
-The mean pharmacokinetic parameters (Css and AUC0‑168) for LNG and EE following two consecutive cycles of TWIRLA are summarized in Table 6.
+The mean pharmacokinetic parameters (C ssand AUC 0‑168) for LNG and EE following two consecutive cycles of TWIRLA are summarized in Table 6.
 
-Table 6: Mean (%CVCoefficient of Variation) Pharmacokinetic Parameters of Levonorgestrel and Ethinyl Estradiol Following Two Consecutive Cycles of TWIRLA Wear on the Buttock
+Table 6: Mean (%CV Coefficient of Variation) Pharmacokinetic Parameters of Levonorgestrel and Ethinyl Estradiol Following Two Consecutive Cycles of TWIRLA Wear on the Buttock
 
 | NC: not calculable |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Analyte | Parameter | Cycle 1 Week 1 (N=18) | Cycle 1 Week 3 (N=18) | Cycle 2 Week 1 (N=18) | Cycle 2 Week 3 (N=18) |
-| LNG | Css (pg/mL)Average concentration within the 48-168 h time interval | 842 (41.2) | 2009 (47.2) | 1389 (46.5) | 2209 (44.5) |
-| AUC0-168 (ng∙h/mL)AUC0-168: area under the plasma drug concentration-time curve calculated between 0 and 168 h | 120.0 (39.1) | 339.0 (41.1) | 207.0 (44.1) | 378.0 (43.8) |  |
-| t1/2 (h)t1/2: elimination half-life | NC | 38.2 (22.7) | NC | 40.5 (15.4) |  |
-| EE | Css (pg/mL) | 31.9 (37.4) | 34.8 (37.4) | 38.6 (41.7) | 40.3 (38.9) |
-| AUC0-168 (pg∙h/mL) | 5040 (35.4) | 6210 (34.2) | 6060 (35.9) | 7120 (36.6) |  |
-| t1/2 (h) | NC | 19.7 (18.8) | NC | 20.5 (18.2) |  |
+| LNG | C ss(pg/mL) Average concentration within the 48-168 h time interval | 842 (41.2) | 2009 (47.2) | 1389 (46.5) | 2209 (44.5) |
+| AUC 0-168 (ng∙h/mL) AUC0-168: area under the plasma drug concentration-time curve calculated between 0 and 168 h | 120.0 (39.1) | 339.0 (41.1) | 207.0 (44.1) | 378.0 (43.8) |  |
+| t 1/2(h) t 1/2: elimination half-life | NC | 38.2 (22.7) | NC | 40.5 (15.4) |  |
+| EE | C ss(pg/mL) | 31.9 (37.4) | 34.8 (37.4) | 38.6 (41.7) | 40.3 (38.9) |
+| AUC 0-168 (pg∙h/mL) | 5040 (35.4) | 6210 (34.2) | 6060 (35.9) | 7120 (36.6) |  |
+| t 1/2(h) | NC | 19.7 (18.8) | NC | 20.5 (18.2) |  |
 
-In multiple dose studies, AUC0-168 for LNG and EE showed within-cycle and between cycle increases and the mean serum concentrations of EE and LNG were highest during the third Week of Cycle 2 after two consecutive cycles of wear (Figures 5 and 6).
+In multiple dose studies, AUC 0-168for LNG and EE showed within-cycle and between cycle increases and the mean serum concentrations of EE and LNG were highest during the third Week of Cycle 2 after two consecutive cycles of wear (Figures 5 and 6).
 In a three-cycle study, the steady-state pharmacokinetics of EE and LNG was reached during Cycle 2.
 Upon removal of TWIRLA, serum levels of EE and LNG reach non‑measurable levels and low levels within 3 days, respectively.
 
