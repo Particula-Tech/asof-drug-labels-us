@@ -1,11 +1,11 @@
 # MEDICATION GUIDE
 
-Colchicine Tablets, USP (KOL chi seen) Read the Medication Guide that comes with colchicine tablets, USP before you start taking it and each time you get a refill.
+Colchicine Tablets (KOL chi seen) Read the Medication Guide that comes with colchicine tablets, USP before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 You and your healthcare provider should talk about colchicine tablets, USP when you start taking it and at regular checkups.
-What is the most important information that I should know about colchicine tablets, USP? • Colchicine tablets, USP can cause serious side effects or death if levels of colchicine tablets, USP are too high in your body. • Taking certain medicines with colchicine tablets, USP can cause your level of colchicine tablets, USP to be too high, especially if you have kidney or liver problems. • Tell your healthcare provider about all your medical conditions, including if you have kidney or liver problems.
-Your dose of colchicine tablets, USP may need to be changed. • Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements. • Even medicines that you take for a short period of time, such as antibiotics, can interact with colchicine tablets, USP and cause serious side effects or death. • Talk to your healthcare provider or pharmacist before taking any new medicine. • Especially tell your healthcare provider if you take:
+What is the most important information that I should know about colchicine tablets, USP? •Colchicine tablets, USP can cause serious side effects or death if levels of colchicine tablets, USP are too high in your body. •Taking certain medicines with colchicine tablets, USP can cause your level of colchicine tablets, USP to be too high, especially if you have kidney or liver problems. •Tell your healthcare provider about all your medical conditions, including if you have kidney or liver problems.
+Your dose of colchicine tablets, USP may need to be changed. •Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements. •Even medicines that you take for a short period of time, such as antibiotics, can interact with colchicine tablets, USP and cause serious side effects or death. •Talk to your healthcare provider or pharmacist before taking any new medicine. •Especially tell your healthcare provider if you take:
 
 | atazanavir sulfate (Reyataz) | clarithromycin (Biaxin) |
 | --- | --- |
@@ -71,9 +71,9 @@ How should I take colchicine tablets, USP?
 - If you take colchicine tablets, USP daily and you miss a dose, then take it as soon as you remember.
   If it is almost time for your next dose, just skip the missed dose.
   Take the next dose at your regular time.
-  Do not take 2 doses at the same time.
+  Do not take 2doses at the same time.
 
-What should I avoid while taking colchicine tablets, USP? • Avoid eating grapefruit or drinking grapefruit juice while taking colchicine tablets, USP.
+What should I avoid while taking colchicine tablets, USP? •Avoid eating grapefruit or drinking grapefruit juice while taking colchicine tablets, USP.
 It can increase your chances of getting serious side effects.
 
 What are the possible side effects of colchicine tablets, USP?
@@ -120,4 +120,4 @@ Inactive Ingredients: FD&C Blue #2, FD&C Red #40, hypromellose, lactose monohydr
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
 
-Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921 Revised: February 2025 PT2919-04
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921 Revised: November 2025 PT2919-05
