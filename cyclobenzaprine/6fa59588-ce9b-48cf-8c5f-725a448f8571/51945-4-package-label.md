@@ -2,14 +2,8 @@
 
 NDC 70792-102-30 30 Tablets
 
-Rx ONLY
+Tonmya®
 
-Tonmya™
-
-(cyclobenzaprine HCl sublingual tablets)
-
-Distributed by: Tonix Medicines, Inc. Chatham, NJ 07928
+(cyclobenzaprine HCl) sublingual tablets)
 
 2.8 mg
-
-TONIX MEDICINES

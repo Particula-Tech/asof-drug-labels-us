@@ -27,7 +27,8 @@ Table 2: Primary Efficacy Endpoint: Mean Change from Baseline in Weekly Average 
 | Visit/ Statistics | Value | Change from baseline | Value | Change from baseline |
 | --- | --- | --- | --- | --- |
 |  | Placebo |  | TONMYA |  |
-| Trial 1 Baseline |  |  |  |  |
+| Trial 1 |  |  |  |  |
+| Baseline |  |  |  |  |
 | N | 255 |  | 248 |  |
 | Mean (SD) | 6.0 (1.08) |  | 6.1 (1.06) |  |
 | (Minimum, Maximum) | (4, 9) |  | (4, 9) |  |
@@ -37,7 +38,8 @@ Table 2: Primary Efficacy Endpoint: Mean Change from Baseline in Weekly Average 
 | Difference in LS mean (SE) |  |  |  | -0.4 (0.16) |
 | 95% CI for difference in LS mean |  |  |  | (-0.7, -0.1) |
 | p-value for difference |  |  |  | 0.010 |
-| Trial 3 Baseline |  |  |  |  |
+| Trial 3 |  |  |  |  |
+| Baseline |  |  |  |  |
 | N | 225 |  | 231 |  |
 | Mean (SD) | 5.9 (1.08) |  | 5.9 (1.05) |  |
 | (Minimum, Maximum) | (4, 9) |  | (4, 9) |  |
@@ -49,25 +51,21 @@ Table 2: Primary Efficacy Endpoint: Mean Change from Baseline in Weekly Average 
 | p-value for difference |  |  |  | <0.001 |
 | CI = confidence interval; LS = least squares; SD = standard deviation; SE = standard error |  |  |  |  |
 
-Figure 1 Mean Change from Baseline in Weekly Average of Daily 24-Hour Recall Pain Intensity Scores Over Time in Adult Patients with Fibromyalgia (Trials 1 and 3)
-
-Trial 1
-
-| Error bars represent +/- the standard error (SE). |
+| Trial 1 |
 | --- |
-
-Trial 3
-
+| Figure 1 Mean Change from Baseline in Weekly Average of Daily 24-Hour Recall Pain Intensity Scores Over Time in Adult Patients with Fibromyalgia (Trials 1 and 3) |
 | Error bars represent +/- the standard error (SE). |
+
+| Trial 3 |
 | --- |
+| Error bars represent +/- the standard error (SE). |
 
 Figure 2 shows the percentage of patients in Trials 1 and 3 who achieved various degrees of improvement in the change from baseline to Week 14 in the weekly averages of daily diary pain scores.
 The figures are cumulative so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the trial were assigned 0% improvement.
 For example, in Trial 1 and Trial 3, the percentage of TONMYA-treated patients who achieved at least a 30% improvement from baseline in their weekly average of daily 24-hour recall pain intensity score at Week 14 was 47% and 46%, respectively.
 
-Figure 2 Patients Who Achieved Various Levels of Improvement in Pain Intensity at Week 14 – Trial 1 and Trial 3
-
-Trial 1
-
-Trial 3
+| Trial 1 |
+| --- |
+| Figure 2 Patients Who Achieved Various Levels of Improvement in Pain Intensity at Week 14 – Trial 1 and Trial 3 |
+| Trial 3 |
