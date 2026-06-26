@@ -67,6 +67,10 @@ Metabolic
 
 - Negative nitrogen balance due to protein catabolism
 
+Vascular
+
+- Flushing
+
 The following additional reactions have been reported following oral as well as parenteral therapy:
 
 Urticaria and other allergic, anaphylactic or hypersensitivity reactions.
