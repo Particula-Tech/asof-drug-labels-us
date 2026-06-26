@@ -37,10 +37,10 @@ Recommended Dosage in Pediatric Patients Aged 2 to less than 12 Years of Age to 
 
 To treat severe hypoglycemia in pediatric patients aged 2 to less than 12 years of age with diabetes, use GVOKE HypoPen, GVOKE PFS, or GVOKE Kit.
 
-- •The recommended dose in those who weigh:
-- oLess than 45 kg is 0.5 mg administered by subcutaneous injection into the lower abdomen, outer thigh, or outer upper arm.
-- o45 kg or greater is 1 mg administered by subcutaneous injection into the lower abdomen, outer thigh, or outer upper arm.
-- •If there has been no response after 15 minutes, an additional 0.5 mg dose (for those who weigh less than 45 kg) or 1 mg dose (for those who weigh 45 kg or greater) from a new GVOKE HypoPen, GVOKE PFS, or GVOKE Kit may be administered while waiting for emergency assistance.
+- The recommended dose in those who weigh:
+- Less than 45 kg is 0.5 mg administered by subcutaneous injection into the lower abdomen, outer thigh, or outer upper arm.
+- 45 kg or greater is 1 mg administered by subcutaneous injection into the lower abdomen, outer thigh, or outer upper arm.
+- If there has been no response after 15 minutes, an additional 0.5 mg dose (for those who weigh less than 45 kg) or 1 mg dose (for those who weigh 45 kg or greater) from a new GVOKE HypoPen, GVOKE PFS, or GVOKE Kit may be administered while waiting for emergency assistance.
 
 ## 2.2 Dosage and Administration of GVOKE VialDx for Intravenous Use as a Diagnostic Aid in Adults
 
