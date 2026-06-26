@@ -11,7 +11,7 @@ Fluorouracil injection, USP is supplied as follows:
 ## 16.2 Storage
 
 Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
-Protect from light.
+PROTECT FROM LIGHT.
 DO NOT FREEZE.
 Retain in carton until time of use.
 

@@ -1,20 +1,20 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Serious Adverse Reactions from Dihydropyrimidine Dehydrogenase (DPD) Deficiency
+## 5.1 Serious Adverse Reactions or Death from Dihydropyrimidine Dehydrogenase (DPD) Deficiency
 
 Patients with certain homozygous or compound heterozygous variants in the DPYD gene known to result in complete or near complete absence of DPD activity (complete DPD deficiency) are at increased risk for acute early-onset toxicity and serious, including fatal, adverse reactions due to fluorouracil (e.g., mucositis, diarrhea, neutropenia, and neurotoxicity).
-Patients with partial DPD activity (partial DPD deficiency) may also have increased risk of serious, including fatal, adverse reactions.
+Patients with partial DPD activity (partial DPD deficiency) may also have increased risk of serious, or fatal, adverse reactions.
 
-Fluorouracil is not recommended for use in patients known to have certain homozygous or compound heterozygous DPYD variants that result in complete DPD deficiency.
-
-Withhold or permanently discontinue fluorouracil based on clinical assessment of the onset, duration, and severity of the observed adverse events in patients with evidence of acute early-onset or unusually severe reactions, which may indicate complete DPD deficiency.
-No fluorouracil dose has been proven safe for patients with complete DPD deficiency.
-There are insufficient data to recommend a specific dose in patients with partial DPD deficiency.
-
-Consider testing for genetic variants of DPYD prior to initiating fluorouracil to reduce the risk of serious adverse reactions if the patient’s clinical status permits and based on clinical judgement [see Clinical Pharmacology (12.5)].
+Prior to initiating fluorouracil, test patients for genetic variants of the DPYD gene unless immediate treatment is necessary [see Clinical Pharmacology (12.5)].
 Serious adverse reactions may still occur even if no DPYD variants are identified.
 
-An FDA-authorized test for the detection of genetic variants of DPYD to identify patients at risk of serious adverse reactions due to increased systemic exposure to fluorouracil is not currently available.
+Avoid use of fluorouracil in patients with certain homozygous or compound heterozygous DPYD variants that result in complete DPD deficiency.
+
+Withhold or permanently discontinue fluorouracil based on clinical assessment of the onset, duration, and severity of adverse reactions in patients with evidence of acute early-onset or unusually severe reactions.
+No fluorouracil dose has been proven safe for patients with complete DPD deficiency.
+For patients with partial DPD deficiency, individualize the dosage and modify based on tolerability and intent of treatment.
+
+An FDA-authorized test for the detection of genetic variants of the DPYD gene to identify patients at risk of serious adverse reactions with fluorouracil treatment is not currently available.
 Currently available tests used to identify DPYD variants may vary in accuracy and design (e.g., which DPYD variant(s) they identify).
 
 ## 5.2 Cardiotoxicity
