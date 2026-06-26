@@ -1,3 +1,5 @@
+# BOXED WARNING
+
 Sodium Nitroprusside Injection is not suitable for direct injection.
 The solution must be further diluted in sterile 5% dextrose injection before infusion.
 
