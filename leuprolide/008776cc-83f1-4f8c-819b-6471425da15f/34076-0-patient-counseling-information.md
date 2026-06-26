@@ -44,7 +44,7 @@ Continuation of VABRINTY Treatment
 
 Manufactured by: Tolmar, Inc. Fort Collins, CO 80526 Distributed by: UroNova Pharmaceuticals, Inc. Buffalo Grove, IL 60089
 
-©2025 UroNova Pharmaceuticals, Inc.
+©2026 UroNova Pharmaceuticals, Inc.
 
 25002394 Rev.
-0 06/2025
+1 04/2026

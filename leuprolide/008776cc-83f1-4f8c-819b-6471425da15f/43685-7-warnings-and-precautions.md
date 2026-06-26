@@ -39,7 +39,7 @@ Patients receiving a GnRH agonist who experience convulsion should be managed ac
 
 ## 5.6 Severe Cutaneous Adverse Reactions
 
-Severe cutaneous adverse reactions (SCARs), including Steve-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN), and erythema multiforme, occurred in patients receiving VABRINTY [see Adverse Reactions (6.2)].
+Severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN), and erythema multiforme, occurred in patients receiving VABRINTY [see Adverse Reactions (6.2)].
 
 Monitor patients for the development of SCARs.
 Advise patients of the signs and symptoms of SCARs (e.g., a prodrome of fever, flu-like symptoms, mucosal lesions, progressive skin rash, or lymphadenopathy).
