@@ -101,6 +101,8 @@ Co-administration of intravenous fentanyl with 180 mg loading dose of ticagrelor
 
 Figure 8 - Effect of co-administered drugs on the pharmacokinetics of ticagrelor
 
+*See Dosage and Administration (2)
+
 Effects of Ticagrelor on Other Drugs
 
 In vitro metabolism studies demonstrate that ticagrelor and its major active metabolite are weak inhibitors of CYP3A4, potential activators of CYP3A5 and inhibitors of the P-gp transporter.

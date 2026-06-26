@@ -24,7 +24,7 @@ Princeton, NJ 08540
 
 Made in India
 
-Issued: 09/2025
+Revised: 05/2026
 
 For Medication Guide, please visit:
 
