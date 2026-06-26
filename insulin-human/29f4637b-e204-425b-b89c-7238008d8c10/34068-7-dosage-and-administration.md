@@ -7,6 +7,9 @@ Before initiating AFREZZA, perform a medical history, physical examination and s
 
 ## 2.2 Important Administration Information
 
+Prior to initiation, train patients and/or their caregiver(s) on proper administration of AFREZZA.
+After training, adult and pediatric patients aged 10 and older may self-administer AFREZZA if the healthcare provider determines that it is appropriate.
+
 Refer patients to the Instructions for Use for detailed instructions and visuals on how to prepare, administer, and store AFREZZA; use the AFREZZA cartridges; and use the AFREZZA inhaler.
 
 - Only administer AFREZZA via oral inhalation using the AFREZZA Inhaler.
@@ -40,8 +43,8 @@ Follow the recommendations in Table 1to convert each injected mealtime insulin d
 
 Subcutaneous, Pre-Mixed Insulin:
 
-- Refer to the prescribing information for the pre-mixed insulin to estimate the mealtime subcutaneous insulin dosage based on the product's pharmacokinetic and pharmacodynamic properties.
-- Follow the recommendations in Table 1to convert each estimated injected mealtime dosage to an AFREZZA mealtime dose.
+- Refer to the prescribing information for the pre-mixed insulin to estimate the mealtime subcutaneous insulin dosage based on the product’s pharmacokinetic and pharmacodynamic properties.
+- Follow the recommendations in Table 1 to convert each estimated injected mealtime dosage to an AFREZZA mealtime dose.
 - If basal insulin is clinically indicated, refer to the prescribing information for the chosen basal insulin for dosage recommendations.
 
 Table 1.
@@ -53,7 +56,10 @@ Recommended Starting Mealtime Dosage of AFREZZA when Switching from Other Mealti
 | 4 to 5 units | 8 units |
 | 6 to 7 units | 12 units |
 | 8 or more units | 16 units |
-| * For AFREZZA doses exceeding the contents of a single cartridge at mealtime, use more than one cartridge. To achieve the required total mealtime dosage, use a combination of 4 unit, 8 unit, and 12 unit cartridges. When titrating dosages above 16 units after the initial conversion dosage, use combinations of different cartridges [see Dosage and Administration (2.4), Dosage Forms and Strengths (3), How Supplied/Storage and Handling (16)]. |  |
+
+* For AFREZZA doses exceeding the contents of a single cartridge at mealtime, use more than one cartridge.
+To achieve the required total mealtime dosage, use a combination of 4 unit, 8 unit, and 12 unit cartridges.
+When titrating dosages above 16 units after the initial conversion dosage, use combinations of different cartridges [see Dosage and Administration (2.4), Dosage Forms and Strengths (3), How Supplied/Storage and Handling (16)].
 
 ## 2.4 Mealtime AFREZZA Dosage Modification
 
@@ -66,5 +72,5 @@ Recommended Starting Mealtime Dosage of AFREZZA when Switching from Other Mealti
 
 Dosage modification may be needed when:
 
-- AFREZZA is used concomitantly with certain drugs that increase and/or decrease the glucose lowering effect [see Drug Interactions (7.1, 7.2, 7.3)].
+- AFREZZA is used concomitantly with certain drugs that increase and/or decrease the glucose lowering effect [see Drug Interactions (7)].
 - Switching from another insulin to AFREZZA [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)]

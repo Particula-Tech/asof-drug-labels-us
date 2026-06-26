@@ -8,9 +8,9 @@ Insulin inhibits lipolysis in adipocytes, inhibits proteolysis, and enhances pro
 ## 12.2 Pharmacodynamics
 
 The time course of insulin action (i.e., glucose lowering) may vary considerably in different patients or within the same patient, or when switching from subcutaneous mealtime insulin to AFREZZA.
-The average pharmacodynamic profile [i.e., glucose lowering effect measured by glucose infusion rate (GIR) over time in a euglycemic clamp study] after administration of a single AFREZZA dose of 4, 12, and 48 units in 30 patients with type 1 diabetes is shown in Figure 2(A), and key characteristics regarding the timing of the effects are described in Table 5:
+The average pharmacodynamic profile [i.e., glucose lowering effect measured by glucose infusion rate (GIR) over time in a euglycemic clamp study] after administration of a single AFREZZA dose of 4, 12, and 48 units in 30 patients with type 1 diabetes mellitus is shown in Figure 2(A), and key characteristics regarding the timing of the effects are described in Table 7:
 
-Table 5.
+Table 7.
 Timing of Insulin Effect (i.e., mean pharmacodynamics effect) After Administration of a Single AFREZZA Dose in Patients (N=30) with Type 1 Diabetes Mellitus
 
 | Parameter for Insulin Effect | AFREZZA 4 units | AFREZZA 12 units | AFREZZA 48 units |
@@ -19,16 +19,9 @@ Timing of Insulin Effect (i.e., mean pharmacodynamics effect) After Administrati
 | Time to peak effect | ~35 minutes | ~45 minutes | ~55 minutes |
 | Time for effect to return to baseline | ~90 minutes | ~180 minutes | ~270 minutes |
 
-Figure 2.
-Results After Administration of AFREZZA 4, 12, and 48 Units in Patients with T1DM (N=30)
-
-A) Mean Insulin Effect (Baseline-Corrected Glucose Infusion Rate); and
-
-B) Pharmacokinetic (Baseline-Corrected Serum Insulin Concentration Profiles)
-
 On average, the pharmacodynamics effect of AFREZZA, measured as area under the glucose infusion rate – time curve (AUC GIR) increased linearly with doses up to 48 units (106, 387, and 1581 mg/kg for 4, 12, and 48 units doses, respectively).
 
-Intrapatient variability in AUC GIR and GIR maxwas approximately 28% (95% CI 21-42%) and 27% (95% CI 20-40%), respectively.
+Intrapatient variability in AUC GIR and GIRmax was approximately 28% (95% CI 21-42%) and 27% (95% CI 20-40%), respectively.
 
 ## 12.3 Pharmacokinetics
 
@@ -37,7 +30,7 @@ Intrapatient variability of AUC and peak concentration (C max) of insulin was ap
 
 Absorption
 
-The pharmacokinetic profiles for orally inhaled AFREZZA 4, 12, and 48 units from a study in 30 patients with type 1 diabetes are shown in Figure 2(B).
+The pharmacokinetic profiles for orally inhaled AFREZZA 4, 12, and 48 units from a study in 30 patients with type 1 diabetes mellitus are shown in Figure 2(B).
 A higher maximum plasma insulin concentration was achieved at an earlier timepoint in this study when patients were switched from subcutaneous mealtime insulin to AFREZZA [see Dosage and Administration (2.3)].
 The time to maximum serum insulin concentration (t max) ranged from 10-20 minutes after oral inhalation of 4 to 48 units of AFREZZA.
 
@@ -56,11 +49,18 @@ Clinical pharmacology studies showed that carrier particles [see Description (11
 Following oral inhalation of AFREZZA, a mean of 39% of the inhaled dose of carrier particles was distributed to the lungs and a mean of 7% of the dose was swallowed.
 The swallowed fraction was not absorbed from the GI tract and was eliminated unchanged in the feces.
 
+Specific Populations
+
+Pediatric Patients
+
+In pediatric patients aged 8 years and older, insulin serum concentration profiles (T max and time decline to baseline) showed a similar time course between adult and pediatric patients following administration of AFREZZA.
+Insulin Cmax and AUC increased in a dose-dependent manner following a single dose of 4 units to 12 units.
+
 Drug Interaction Studies
 
 Bronchodilators and Inhaled Steroids
 
-Albuterol increased the AUC insulin after AFREZZA administration by 25% in patients with asthma [see Drug Interactions (7.2)].
+Albuterol increased the AUC insulin after AFREZZA administration by 25% in patients with asthma [see Drug Interactions (7)].
 AFREZZA is contraindicated in patients with asthma.
 
 In a study in healthy volunteers no significant change in insulin exposure was observed when fluticasone was administered following AFREZZA administration.

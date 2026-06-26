@@ -1,21 +1,23 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs That May Increase the Risk of Hypoglycemia
+Table 6 presents clinically significant drug interactions with AFREZZA.
 
-The risk of hypoglycemia associated with AFREZZA use may be increased with antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates, fluoxetine, monoamine oxidase inhibitors, pentoxifylline, pramlintide, salicylates, somatostatin analogs (e.g., octreotide), and sulfonamide antibiotics.
-Dose modification and increased frequency of glucose monitoring may be required when AFREZZA is given concomitantly with these drugs.
+Table 6.
+Clinically Significant Drug Interactions with AFREZZA
 
-## 7.2 Drugs That May Decrease the Blood Glucose Lowering Effect of AFREZZA
-
-The glucose lowering effect of AFREZZA may be decreased when given concomitantly with atypical antipsychotics (e.g., olanzapine and clozapine), corticosteroids, danazol, diuretics, estrogens, glucagon, isoniazid, niacin, oral contraceptives, phenothiazines, progestogens (e.g., in oral contraceptives), protease inhibitors, somatropin, sympathomimetic agents (e.g., albuterol, epinephrine, terbutaline) and thyroid hormones.
-Dosage modification and increased frequency of glucose monitoring may be required when AFREZZA is given concomitantly with these drugs.
-
-## 7.3 Drugs That May Increase or Decrease the Blood Glucose Lowering Effect of AFREZZA
-
-The glucose lowering effect of AFREZZA may be increased or decreased when used concomitantly with alcohol, beta-blockers, clonidine, and lithium salts.
-Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia.
-Dosage modification and increased frequency of glucose monitoring may be required when AFREZZA is given concomitantly with these drugs.
-
-## 7.4 Drugs That May Affect Hypoglycemia Signs and Symptoms
-
-The signs and symptoms of hypoglycemia may be blunted when beta-blockers, clonidine, guanethidine, and reserpine are given concomitantly with AFREZZA.
+| Antidiabetic agents, Angiotensin-Converting Enzyme Inhibitors, Angiotensin II Receptor Blocking Agents, Disopyramide, Fibrates, Fluoxetine, Monoamine Oxidase Inhibitors, Pentoxifylline, Pramlintide, Salicylates, Somatostatin Analogs (e.g., octreotide), and Sulfonamide Antibiotics |  |
+| --- | --- |
+| Prevention or Management | Monitor blood glucose more frequently and modify AFREZZA dosage, as clinically indicated, when used concomitantly with these drugs. |
+| Mechanism and Clinical Effect(s) | Concomitant use of these drugs with AFREZZA may increase the risk of hypoglycemia. |
+| Atypical Antipsychotics (e.g., olanzapine and clozapine), Corticosteroids, Danazol, Diuretics, Estrogens, Glucagon, Isoniazid, Niacin, Oral Contraceptives, Phenothiazines, Progestogens (e.g., in oral contraceptives), Protease inhibitors, Somatropin, Sympathomimetic Agents (e.g., albuterol, epinephrine, terbutaline) and Thyroid Hormones. |  |
+| Prevention or Management | Monitor blood glucose more frequently and modify AFREZZA dosage, as clinically indicated, when used concomitantly with these drugs. |
+| Mechanism and Clinical Effect(s) | Concomitant use of these drugs with AFREZZA may reduce the blood glucose lowering effect of AFREZZA. |
+| Alcohol, Beta-blockers, Clonidine, and Lithium Salts |  |
+| Prevention or Management | Monitor blood glucose more frequently and modify AFREZZA dosage, as clinically indicated, when used concomitantly with these drugs. |
+| Mechanism and Clinical Effect(s) | Concomitant use with AFREZZA may either increase or decrease the blood glucose lowering effect of AFREZZA. |
+| Pentamidine |  |
+| Prevention or Management | Monitor blood glucose more frequently and modify AFREZZA dosage, as clinically indicated, when used concomitantly with these drugs. |
+| Mechanism and Clinical Effect(s) | Concomitant use of pentamidine with AFREZZA may cause hypoglycemia, which may sometimes be followed by hyperglycemia |
+| Beta-blockers, Clonidine, Guanethidine, and Reserpine |  |
+| Prevention or Management | Monitor blood glucose more frequently and modify AFREZZA dosage, as clinically indicated, when used concomitantly with these drugs. |
+| Mechanism and Clinical Effect(s) | Concomitant use of these drugs with AFREZZA may blunt the signs and symptoms of hypoglycemia, making it more difficult to recognize |

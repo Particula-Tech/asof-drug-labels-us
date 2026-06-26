@@ -2,8 +2,8 @@
 
 ## 11.1 AFREZZA Cartridges
 
-Human insulin is a rapid acting human insulin produced by recombinant DNA technology utilizing a non-pathogenic laboratory strain of Escherichia coli(K12).
-Chemically, human insulin has the empirical formula C 257H 383N 65O 77S 6and a molecular weight of 5808.
+Human insulin is a rapid acting human insulin produced by recombinant DNA technology utilizing a non-pathogenic laboratory strain of Escherichia coli (K12).
+Chemically, human insulin has the empirical formula C 257H 383N 65O 77S 6 and a molecular weight of 5808.
 Human insulin has the following primary amino acid sequence:
 
 AFREZZA (human insulin) inhalation powder is available in single-use plastic cartridges filled with a white powder containing insulin (human), which is administered via oral inhalation using the AFREZZA Inhaler only.

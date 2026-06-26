@@ -7,14 +7,14 @@ Before initiating therapy with AFREZZA, evaluate patients with a medical history
 
 Acute bronchospasm has been observed in AFREZZA-treated patients with asthma and COPD.
 In a study of patients with asthma whose bronchodilators were temporarily withheld for assessment, bronchoconstriction and wheezing following AFREZZA dosing was reported in 29% (5/17) and 0% (0/13) of patients with and without a diagnosis of asthma, respectively.
-In this study, a mean decline in FEV 1of 400 mL was observed 15 minutes after a single AFREZZA dose in patients with asthma.
-In a subset study of 8 patients with COPD, a mean decline in FEV 1of 200 mL was observed 18 minutes after a single AFREZZA dose.
+In this study, a mean decline in FEV 1 of 400 mL was observed 15 minutes after a single AFREZZA dose in patients with asthma.
+In a subset study of 8 patients with COPD, a mean decline in FEV 1 of 200 mL was observed 18 minutes after a single AFREZZA dose.
 
 ## 5.2 Hypoglycemia or Hyperglycemia with Changes in Insulin Regimen
 
 Changes in an insulin regimen (e.g., insulin strength, manufacturer, injection site or type, or method of administration) may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia.
 If clinically indicated, make any necessary changes to a patient's insulin regimen under close medical supervision with increased frequency of blood glucose monitoring.
-For patients with type 2 diabetes, dosage modifications of concomitant oral antidiabetic treatment may be needed [see Drug Interactions (7.1, 7.2, and 7.3)].
+For patients with type 2 diabetes mellitus, dosage modifications of concomitant oral antidiabetic treatment may be needed [see Drug Interactions (7)].
 
 ## 5.3 Hypoglycemia
 
@@ -24,7 +24,7 @@ Hypoglycemia can impair concentration ability and reaction time; this may place 
 
 AFREZZA's time action profile impacts the timing of hypoglycemia following inhalation of the drug product [see Clinical Pharmacology (12.3)].
 Hypoglycemia can occur suddenly, and symptoms may differ across patients and change over time in the same patient.
-Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes, in patients with diabetic nerve disease, in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7)], or in patients who experience recurrent hypoglycemia.
+Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes mellitus, in patients with diabetic nerve disease, in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7)], or in patients who experience recurrent hypoglycemia.
 
 Risk Factors and Mitigation Strategies for Hypoglycemia
 
@@ -38,17 +38,17 @@ In patients at higher risk for hypoglycemia and patients who have reduced sympto
 ## 5.4 Decline in Pulmonary Function
 
 AFREZZA causes a decline in pulmonary function over time as measured by FEV 1.
-In clinical trials excluding patients with chronic lung disease and lasting up to 2 years, AFREZZA-treated patients experienced a small [40 mL (95% CI: -80, -1)] but greater FEV 1decline than comparator-treated patients.
-The FEV 1decline was noted within the first 3 months, and persisted for the entire duration of therapy (up to 2 years of observation).
-In this population, the annual rate of FEV 1decline did not appear to worsen with increased duration of use.
+In clinical trials excluding patients with chronic lung disease and lasting up to 2 years, AFREZZA-treated patients experienced a small [40 mL (95% CI: -80, -1)] but greater FEV 1 decline than comparator-treated patients.
+The FEV 1 decline was noted within the first 3 months, and persisted for the entire duration of therapy (up to 2 years of observation).
+In this population, the annual rate of FEV 1 decline did not appear to worsen with increased duration of use.
 The effects of AFREZZA on pulmonary function for treatment duration longer than 2 years has not been established.
-There are insufficient data in long term studies to draw conclusions regarding reversal of the effect on FEV 1after discontinuation of AFREZZA.
-The observed changes in FEV 1were similar in patients with type 1 and type 2 diabetes.
+There are insufficient data in long term studies to draw conclusions regarding reversal of the effect on FEV 1 after discontinuation of AFREZZA.
+The observed changes in FEV 1 were similar in patients with type 1 and type 2 diabetes mellitus.
 
 Assess pulmonary function (e.g., spirometry) at baseline, after the first 6 months of therapy, and annually thereafter, even in the absence of pulmonary symptoms.
-In patients who have a decline of ≥ 20% in FEV 1from baseline, consider discontinuing AFREZZA.
+In patients who have a decline of ≥ 20% in FEV 1 from baseline, consider discontinuing AFREZZA.
 Consider more frequent monitoring of pulmonary function in patients with pulmonary symptoms such as wheezing, bronchospasm, breathing difficulties, or persistent or recurring cough.
-If symptoms persist, discontinue AFREZZA [see Adverse Reactions (6)].
+If symptoms persist, discontinue AFREZZA [see Adverse Reactions (6.1)].
 
 ## 5.5 Lung Cancer
 
@@ -61,7 +61,7 @@ In patients with active lung cancer, a prior history of lung cancer, or in patie
 
 ## 5.6 Diabetic Ketoacidosis
 
-In clinical trials enrolling patients with type 1 diabetes, DKA was more common in AFREZZA-treated patients (0.43%; n=13) than in comparator-treated patients (0.14%; n=3).
+In clinical trials enrolling patients with type 1 diabetes mellitus, DKA was more common in AFREZZA-treated patients (0.43%; n=13) than in comparator-treated patients (0.14%; n=3).
 Patients with type 1 diabetes should always use AFREZZA concomitantly with basal insulin.
 In patients at risk for DKA, such as those with an acute illness or infection, increase the frequency of glucose monitoring and consider discontinuing AFREZZA and giving insulin using an alternate route of administration.
 
@@ -69,7 +69,7 @@ In patients at risk for DKA, such as those with an acute illness or infection, i
 
 Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with AFREZZA.
 
-If hypersensitivity reactions occur, discontinue AFREZZA, treat per standard of care and monitor until symptoms and signs resolve [see Adverse Reactions (6)].
+If hypersensitivity reactions occur, discontinue AFREZZA, treat per standard of care and monitor until symptoms and signs resolve [see Adverse Reactions (6.1)].
 AFREZZA is contraindicated in patients with a previous severe hypersensitivity reaction to any regular human insulin product or any of the inactive ingredients in AFREZZA [see Contraindications (4)].
 
 ## 5.8 Hypokalemia
@@ -85,4 +85,4 @@ Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor 
 Fluid retention may lead to or exacerbate heart failure.
 
 Patients treated with insulin, including AFREZZA, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
-If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist should be considered.
+If heart failure develops, manage according to current standards of care, and consider discontinuing or reducing the dosage of the PPAR-gamma agonist.

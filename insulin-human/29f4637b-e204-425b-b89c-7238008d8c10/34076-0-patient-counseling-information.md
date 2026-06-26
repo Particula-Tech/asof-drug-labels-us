@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guideand Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Instruct patients to use AFREZZA only with the AFREZZA inhaler.
 
@@ -35,6 +35,6 @@ Hypersensitivity Reactions
 Advise patients that hypersensitivity reactions can occur with insulin therapy including AFREZZA.
 Inform patients on the symptoms of hypersensitivity reactions [see Warnings and Precautions (5.7)].
 
-Manufactured by: MannKind Corporation, Danbury, CT 06810 US License No. #2190 © 2016 – 2024 MannKind Corporation
+Manufactured by: MannKind Corporation, Danbury, CT 06810 US License No. #2190 © 2016 – 2026 MannKind Corporation
 
 AFREZZA is a registered trademark of MannKind Corporation Patent: www.mannkindcorp.com/patent-notices
