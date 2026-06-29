@@ -7,7 +7,7 @@ Proper dosing and titration are essential and Methadone Hydrochloride Intensolâ„
 Monitor for respiratory depression, especially during initiation of Methadone Hydrochloride Intensolâ„¢ or following a dose increase.
 The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak pharmacologic effect, especially during the initial dosing period.
 
-Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
+Managing Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
 Concomitant use with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, is a risk factor for respiratory depression and death [see Warnings and Precautions (5.2)].
 

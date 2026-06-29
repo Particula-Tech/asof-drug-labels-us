@@ -44,12 +44,12 @@ Tolerance is the need for increasing doses of opioids to maintain a defined effe
 Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
 
 Physical dependence results in withdrawal symptoms after abrupt discontinuation or significant dose reduction of a drug.
-Withdrawal is also precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone) or mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Withdrawal is also precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene) or mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 Physical dependence is expected during opioid agonist therapy of opioid addiction.
 
-Methadone Hydrochloride Intensol™ should not be abruptly discontinued [see Dosage and Administration (2.6, 2.7)].
-If Methadone Hydrochloride Intensol™ is abruptly discontinued in a physically dependent patient, a withdrawal syndrome may occur.
+Methadone Hydrochloride Intensol™ should not be rapidly reduced or abruptly discontinued [see Dosage and Administration (2.6, 2.7)].
+If Methadone Hydrochloride Intensol™ is rapidly reduced or abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur.
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate [see Dosage and Administration (2.6)].
 

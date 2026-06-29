@@ -17,7 +17,7 @@ Regulatory Exceptions to the General Requirement for Certification to Provide Op
 
 Methadone Hydrochloride Intensol™ is for oral administration only.
 The preparation must not be injected.
-Package in child-resistant containers and inform patients that Methadone Hydrochloride Intensol™ should be kept out of reach of children to prevent accidental ingestion [see Patient Counseling Information (17)].
+Package in child-resistant containers and inform patients that Methadone Hydrochloride Intensol™ should be kept out of reach of children to prevent accidental ingestion.
 
 Consider the following important factors that differentiate methadone from other opioids:
 
@@ -31,24 +31,18 @@ Consider the following important factors that differentiate methadone from other
 
 Methadone Hydrochloride Intensol™ as a narrow therapeutic index, especially when combined with other drugs.
 
-## 2.3 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.3 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with methadone oral concentrate [see Warnings and Precautions (5.1), Overdosage (10)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent.
+Because patients being treated with methadone may be at risk for opioid overdose during initiation or titration, or in the case of relapse to illicit use, strongly consider recommending or prescribing an overdose reversal agent for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Methadone Hydrochloride Intensol™.
+Also consider recommending or prescribing such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.1)].
 
-For Patients Being Treated for Pain
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.1)].
 
-Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
-For Patients Being Treated for Opioid Addiction
-
-Because patients being treated with methadone may be at risk for opioid overdose during initiation or titration, or in the case of relapse to illicit use, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Methadone Hydrochloride Intensol™.
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
-If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Warnings and Precautions (5.1), Patient Counseling (17)].
-
-Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with Methadone Hydrochloride Intensol™ itself.
-
-Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
+Advise patients and caregivers that opioid overdose reversal agents, such as naloxone or nalmefene may also be administered for a known or suspected overdose with Methadone Hydrochloride Intensol™ itself [see Overdosage (10)].
 
 ## 2.4 Induction/Initial Dosing for Detoxification and Maintenance Treatment of Opioid Addiction
 
@@ -94,7 +88,7 @@ During prolonged administration of methadone, monitor patients for persistent co
 There is considerable variability in the appropriate rate of methadone taper in patients choosing medically supervised withdrawal from methadone treatment.
 Dose reductions should generally be less than 10% of the established tolerance or maintenance dose, and 10- to 14-day intervals should elapse between dose reductions.
 Apprise patients of the high risk of relapse to illicit drug use associated with discontinuation of methadone maintenance treatment.
-Do not abruptly discontinue Methadone Hydrochloride Intensol™ in a physically dependent patient [see Warnings and Precautions (5.15)].
+Do not rapidly reduce or abruptly discontinue Methadone Hydrochloride Intensol™ in patients who may be physically dependent on opioids [see Warnings and Precautions (5.15)].
 
 ## 2.7 Risk of Relapse in Patients on Methadone Maintenance Treatment of Opioid Addiction
 
