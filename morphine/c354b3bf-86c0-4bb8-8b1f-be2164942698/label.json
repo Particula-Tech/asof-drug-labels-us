@@ -16,6 +16,11 @@
       "form": "TABLET",
       "generic": "morphine sulfate",
       "name": "MS Contin"
+    },
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "morphine sulfate",
+      "name": "MS Contin"
     }
   ],
   "setid": "c354b3bf-86c0-4bb8-8b1f-be2164942698",
