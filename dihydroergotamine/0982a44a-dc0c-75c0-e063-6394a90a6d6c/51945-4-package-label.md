@@ -1,25 +1,3 @@
-# PRINCIPAL DISPLAY PANEL - 5.2 mg Bottle Carton
-
-Atzumi™ (dihydroergotamine) nasal powder
-
-5.2 mg
-
-For nasal use only.
-Discard after use.
-Contains:
-
-- 8 preﬁlled single-dose devices
-- Instructions for Use
-- Medication Guide
-- Prescribing Information
-
-Nasal devices not for individual sale.
-Dispense entire carton and accompanying Medication Guide to each patient.
-
-Rx Only NDC 76978-101-08
-
-© 2025 Satsuma Pharmaceuticals, Inc. All rights reserved.
-
 # PRINCIPAL DISPLAY PANEL - 5.2 mg Device Pouch Label
 
 Atzumi™ (dihydroergotamine) nasal powder
@@ -41,4 +19,26 @@ Rx Only NDC 76978-101-01
 
 Manufactured for Satsuma Pharmaceuticals, Inc. Durham, NC 27703
 
-© 2025 Satsuma Pharmaceuticals, Inc. All rights reserved.
+© 2026 Satsuma Pharmaceuticals, Inc. All rights reserved.
+
+# PRINCIPAL DISPLAY PANEL - 5.2 mg Device Pouch Carton
+
+Atzumi™ (dihydroergotamine) nasal powder
+
+5.2 mg
+
+For nasal use only.
+Discard after use.
+Contains:
+
+- 8 preﬁlled single-dose devices
+- Instructions for Use
+- Medication Guide
+- Prescribing Information
+
+Nasal devices not for individual sale.
+Dispense entire carton and accompanying Medication Guide to each patient.
+
+Rx Only NDC 76978-101-08
+
+© 2026 Satsuma Pharmaceuticals, Inc. All rights reserved.
