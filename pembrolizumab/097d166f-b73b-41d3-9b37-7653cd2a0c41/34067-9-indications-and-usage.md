@@ -100,6 +100,8 @@ KEYTRUDA QLEX, in combination with lenvatinib, is indicated for the first-line t
 
 KEYTRUDA QLEX is indicated for the adjuvant treatment of adult patients with RCC at intermediate-high or high risk of recurrence following nephrectomy, or following nephrectomy and resection of metastatic lesions [see Clinical Studies (14.16)].
 
+KEYTRUDA QLEX, in combination with belzutifan, is indicated for the adjuvant treatment of adult patients with RCC with a clear cell component (ccRCC) at intermediate-high or high risk of recurrence following nephrectomy, or following nephrectomy and resection of metastatic lesions.
+
 ## 1.15 Endometrial Carcinoma
 
 KEYTRUDA QLEX, in combination with carboplatin and paclitaxel, followed by KEYTRUDA QLEX as a single agent, is indicated for the treatment of adult patients with primary advanced or recurrent endometrial carcinoma.
