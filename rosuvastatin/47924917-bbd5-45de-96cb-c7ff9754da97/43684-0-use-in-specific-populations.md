@@ -8,8 +8,8 @@ Discontinue rosuvastatin when pregnancy is recognized.
 Alternatively, consider the ongoing therapeutic needs of the individual patient.
 
 Rosuvastatin decreases synthesis of cholesterol and possibly other biologically active substances derived from cholesterol; therefore, rosuvastatin may cause fetal harm when administered to pregnant patients based on the mechanism of action [see Clinical Pharmacology (12.1)].
-In addition, treatment of hyperlipidemia is not generally necessary during pregnancy.
-Atherosclerosis is a chronic process and the discontinuation of lipid-lowering drugs during pregnancy should have little impact on the outcome of long-term therapy of primary hyperlipidemia for most patients.
+In addition, treatment of hypercholesterolemia is not generally necessary during pregnancy.
+Atherosclerosis is a chronic process and the discontinuation of lipid-lowering drugs during pregnancy should have little impact on the outcome of long-term therapy of primary hypercholesterolemia for most patients.
 
 Available data from case series and prospective and retrospective observational cohort studies over decades of use with statins in pregnant women have not identified a drug-associated risk of major congenital malformations.
 Published data from prospective and retrospective observational cohort studies with rosuvastatin use in pregnant women are insufficient to determine if there is a drug-associated risk of miscarriage (see Data).
@@ -27,7 +27,7 @@ Study limitations include reliance on physician coding to define the presence of
 
 Animal Data
 
-In female rats given 5, 15 and 50 mg/kg/day before mating and continuing through to gestation day 7 resulted in decreased fetal body weight (female pups) and delayed ossification at 50 mg/kg/day (10 times the human exposure at the MRHD dose of 40 mg/day based on AUC).
+In female rats given 5, 15 and 50 mg/kg/day before mating and continuing through to gestation day 7 resulted in decreased fetal body weight (female pups) and delayed ossification at 50 mg/kg/day (10 times the human exposure at the MRHD of 40 mg/day based on AUC).
 
 In pregnant rats given 2, 10 and 50 mg/kg/day of rosuvastatin from gestation day 7 through lactation day 21 (weaning), decreased pup survival occurred at 50 mg/kg/day (dose equivalent to 12 times the MRHD of 40 mg/day based body surface area).
 
@@ -55,7 +55,7 @@ In the 1-year trial with a 12-week controlled phase, there was no detectable eff
 The safety and effectiveness of rosuvastatin as an adjunct to other LDL-C-lowering therapies to reduce LDL-C have been established in pediatric patients 7 years of age and older with HoFH.
 Use of rosuvastatin for this indication is based on a randomized, placebo-controlled, cross-over study in 14 pediatric patients 7 years of age and older with HoFH [see Clinical Studies (14)].
 
-The safety and effectiveness of rosuvastatin have not been established in pediatric patients younger than 8 years of age with HeFH, younger than 7 years of age with HoFH, or in pediatric patients with other types of hyperlipidemia (other than HeFH or HoFH).
+The safety and effectiveness of rosuvastatin have not been established in pediatric patients younger than 8 years of age with HeFH, younger than 7 years of age with HoFH, or in pediatric patients with other types of hypercholesterolemia (other than HeFH or HoFH).
 
 ## 8.5 Geriatric Use
 

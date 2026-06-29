@@ -5,7 +5,7 @@ Primary Prevention of CV Disease
 In the Justification for the Use of Statins in Primary Prevention: An Intervention Trial Evaluating Rosuvastatin (JUPITER) study, the effect of rosuvastatin on the occurrence of major CV disease events was assessed in 17,802 males (≥50 years) and females (≥60 years) who had no clinically evident CV disease, LDL-C levels <130 mg/dL and hsCRP levels ≥2 mg/L.
 The study population had an estimated baseline coronary heart disease risk of 11.6% over 10 years based on the Framingham risk criteria and included a high percentage of patients with additional risk factors such as hypertension (58%), low HDL-C levels (23%), cigarette smoking (16%), or a family history of premature CHD (12%).
 Patients had a median baseline LDL-C of 108 mg/dL and hsCRP of 4.3 mg/L.
-Patients were randomly assigned to placebo (n=8901) or rosuvastatin 20 mg once daily (n=8901) and were followed for a mean duration of 2 years.
+Patients were randomly assigned to placebo (n=8,901) or rosuvastatin 20 mg once daily (n=8,901) and were followed for a mean duration of 2 years.
 The JUPITER study was stopped early by the Data Safety Monitoring Board due to meeting predefined stopping rules for efficacy in rosuvastatin-treated subjects.
 
 The primary end point was a composite end point consisting of the time-to-first occurrence of any of the following major CV events: CV death, nonfatal myocardial infarction, nonfatal stroke, hospitalization for unstable angina or an arterial revascularization procedure.
@@ -29,13 +29,13 @@ Major CV Events by Treatment Group in JUPITER
 
 At one year, rosuvastatin increased HDL-C and reduced LDL-C, hsCRP, total cholesterol and serum triglyceride levels (p<0.001 for all versus placebo).
 
-Primary Hyperlipidemia in Adults
+Primary Hypercholesterolemia in Adults
 
-Rosuvastatin reduces Total-C, LDL-C, ApoB, non-HDL-C, and TG, and increases HDL-C, in adult patients with hyperlipidemia and mixed dyslipidemia.
+Rosuvastatin reduces Total-C, LDL-C, ApoB, non-HDL-C, and TG, and increases HDL-C, in adult patients with hypercholesterolemia and mixed dyslipidemia.
 
-In a multicenter, double-blind, placebo-controlled study in patients with hyperlipidemia, rosuvastatin given as a single daily dose (5 to 40 mg) for 6 weeks significantly reduced Total-C, LDL-C, non-HDL-C, and ApoB, across the dose range (Table 10).
+In a multicenter, double-blind, placebo-controlled study in patients with hypercholesterolemia, rosuvastatin given as a single daily dose (5 to 40 mg) for 6 weeks significantly reduced Total-C, LDL-C, non-HDL-C, and ApoB, across the dose range (Table 10).
 
-Table 10: Lipid-Modifying Effect of Rosuvastatin in Adult Patients with Hyperlipidemia (Adjusted Mean % Change from Baseline at Week 6)
+Table 10: Lipid-Modifying Effect of Rosuvastatin in Adult Patients with Hypercholesterolemia (Adjusted Mean % Change from Baseline at Week 6)
 
 | Dose | N | Total-C | LDL-C | Non-HDL-C | ApoB | TG | HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -45,16 +45,16 @@ Table 10: Lipid-Modifying Effect of Rosuvastatin in Adult Patients with Hyperlip
 | Rosuvastatin 20 mg | 17 | -40 | -55 | -51 | -46 | -23 | 8 |
 | Rosuvastatin 40 mg | 18 | -46 | -63 | -60 | -54 | -28 | 10 |
 
-Rosuvastatin was compared with the statins (atorvastatin, simvastatin, and pravastatin) in a multicenter, open-label, dose-ranging study of 2,240 patients with hyperlipidemia or mixed dyslipidemia.
+Rosuvastatin was compared with the statins (atorvastatin, simvastatin, and pravastatin) in a multicenter, open-label, dose-ranging study of 2,240 patients with hypercholesterolemia or mixed dyslipidemia.
 After randomization, patients were treated for 6 weeks with a single daily dose of either rosuvastatin, atorvastatin, simvastatin, or pravastatin (see Figure 3 and Table 11).
 
 Figure 3.
-Percent LDL-C Change by Dose of Rosuvastatin, Atorvastatin, Simvastatin, and Pravastatin at Week 6 in Adult Patients with Hyperlipidemia or Mixed Dyslipidemia
+Percent LDL-C Change by Dose of Rosuvastatin, Atorvastatin, Simvastatin, and Pravastatin at Week 6 in Adult Patients with Hypercholesterolemia or Mixed Dyslipidemia
 
 Box plots are a representation of the 25th, 50th, and 75th percentile values, with whiskers representing the 10th and 90th percentile values.
 Mean baseline LDL-C: 189 mg/dL
 
-Table 11: Percent Change in LDL-C by Dose of Rosuvastatin, Atorvastatin, Simvastatin, and Pravastatin From Baseline to Week 6 (LS Mean1) in Adult Patients with Hyperlipidemia or Mixed Dyslipidemia (Sample Sizes Ranging from 156 to 167 Patients Per Group)
+Table 11: Percent Change in LDL-C by Dose of Rosuvastatin, Atorvastatin, Simvastatin, and Pravastatin From Baseline to Week 6 (LS Mean1) in Adult Patients with Hypercholesterolemia or Mixed Dyslipidemia (Sample Sizes Ranging from 156 to 167 Patients Per Group)
 
 |  | Treatment Daily Dose |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -72,7 +72,7 @@ Table 11: Percent Change in LDL-C by Dose of Rosuvastatin, Atorvastatin, Simvast
 ³ Rosuvastatin 20 mg reduced LDL-C significantly more than atorvastatin 20 mg and 40 mg; pravastatin 20 mg and 40 mg; simvastatin 20 mg, 40 mg, and 80 mg.
 (p<0.002)
 
-⁴ Rosuvastatin 40 mg reduced LDL-C significantly more than atorvastatin 40 mg; pravastatin 40 mg; simvastatin 40 mg, and 80 mg.
+⁴Rosuvastatin 40 mg reduced LDL-C significantly more than atorvastatin 40 mg; pravastatin 40 mg; simvastatin 40 mg, and 80 mg.
 (p<0.002)
 
 Slowing of the Progression of Atherosclerosis
@@ -179,7 +179,7 @@ Table 15: Lipid-Modifying Effects of Rosuvastatin 10 mg and 20 mg in Adult Patie
 
 |  | Median at Baseline (mg/dL) | Median percent change from baseline (95% CI) Rosuvastatin 10 mg | Median percent change from baseline (95% CI) Rosuvastatin 20 mg |
 | --- | --- | --- | --- |
-| Total-C | 342.5 | -43.3 (-46.9, - 37.5) | -47.6 (-51.6,-42.8) |
+| Total-C | 342.5 | -43.3 (-46.9, - 37.5) | -47.6 (-51.6, -42.8) |
 | Triglycerides | 503.5 | -40.1 (-44.9, -33.6) | -43.0 (-52.5, -33.1) |
 | Non-HDL-C | 294.5 | -48.2 (-56.7, -45.6) | -56.4 (-61.4, -48.5) |
 | VLDL-C + IDL-C | 209.5 | -46.8 (-53.7, -39.4) | -56.2 (-67.7, -43.7) |

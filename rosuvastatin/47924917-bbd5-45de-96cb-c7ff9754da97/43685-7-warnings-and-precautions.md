@@ -13,7 +13,8 @@ The myopathy risk is greater in patients taking rosuvastatin 40 mg daily compare
 
 Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis
 
-The concomitant use of rosuvastatin with cyclosporine or gemfibrozil is not recommended. rosuvastatin dosage modifications are recommended for patients taking certain antiviral medications, darolutamide, and regorafenib [see Dosage and Administration (2.6)].
+The concomitant use of rosuvastatin with cyclosporine or gemfibrozil is not recommended.
+Rosuvastatin dosage modifications are recommended for patients taking certain antiviral medications, darolutamide, and regorafenib [see Dosage and Administration (2.6)].
 Niacin, fibrates, and colchicine may also increase the risk of myopathy and rhabdomyolysis [see Drug Interactions (7.1)].
 
 Discontinue rosuvastatin if markedly elevated CK levels occur or if myopathy is either diagnosed or suspected.

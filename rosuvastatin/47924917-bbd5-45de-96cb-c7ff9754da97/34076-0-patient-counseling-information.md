@@ -37,4 +37,4 @@ Just resume the usual schedule [see Dosage and Administration (2.1)].
 
 Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India
 
-Revised: 09/2024
+Revised: 06/2026
