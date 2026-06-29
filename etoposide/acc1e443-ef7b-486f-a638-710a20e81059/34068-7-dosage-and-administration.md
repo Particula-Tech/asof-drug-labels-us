@@ -30,7 +30,7 @@ Repeat treatment cycles every 3 to 4 weeks.
 No dosage modification is recommended for patients with creatinine clearance (CLcr) > 50 mL/min.
 The recommended dosage of AVOPEF in patients with CLcr of 15 to 50 mL/min is listed in Table 1.
 
-Table 1: Recommended Dosage of AVOPEF in Patients with Creatine Clearance of 15 to 50 mL/min
+Table 1: Recommended Dosage of AVOPEF in Patients with Creatinine Clearance of 15 to 50 mL/min
 
 |  | Recommended AVOPEF Dosage* |
 | --- | --- |

@@ -21,7 +21,7 @@ Gastrointestinal disorders: abdominal pain, anorexia, constipation, diarrhea, dy
 
 General disorders and administration site conditions: fatigue, fever, and infusion site extravasation with necrosis
 
-Hepatobiliary disorders: hepatoxicity, metabolic acidosis
+Hepatobiliary disorders: hepatotoxicity, metabolic acidosis
 
 Immune system disorders: allergic reaction, anaphylactic reaction (including chills, fever, tachycardia, bronchospasm, dyspnea, hypotension, hypertension, flushing, facial swelling, tongue swelling, coughing, diaphoresis, cyanosis, tightness in throat, laryngospasm, back pain, loss of consciousness, hypersensitivity-associated apnea), hypersensitivity, infusion-related reaction.
 

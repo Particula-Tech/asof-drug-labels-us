@@ -30,7 +30,7 @@ The mean renal clearance of etoposide is 7 mL/min/m2 to 10 mL/min/m2 over a dose
 Metabolism
 
 Etoposide is metabolized by opening of the lactone ring, O-demethylation and conjugation (i.e., glucuronidation and sulfation.
-O-demethylation occurs through CY3A to the active catechol metabolite.
+O-demethylation occurs through CYP3A to the active catechol metabolite.
 
 Excretion
 

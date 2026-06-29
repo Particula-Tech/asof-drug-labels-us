@@ -34,7 +34,7 @@ Because the potential for serious adverse reactions in breastfed children, advis
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Based on animal data and its mechanism of action, AVOPEF can cause fetal harm when administered to pregnant women [see Use in Specific Population (8.1)].
+Based on animal data and its mechanism of action, AVOPEF can cause fetal harm when administered to pregnant women [see Use in Specific Populations (8.1)].
 
 Pregnancy Testing
 

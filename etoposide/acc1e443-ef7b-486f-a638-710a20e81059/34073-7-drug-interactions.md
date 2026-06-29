@@ -22,4 +22,4 @@ Vitamin K Antagonists
 
 Monitor INR more frequently and modify the dosage of the vitamin K antagonists as appropriate.
 
-Co-administration of AVOEPF with warfarin can result in elevated international normalized ratio (INR).
+Co-administration of AVOPEF with warfarin can result in elevated international normalized ratio (INR).

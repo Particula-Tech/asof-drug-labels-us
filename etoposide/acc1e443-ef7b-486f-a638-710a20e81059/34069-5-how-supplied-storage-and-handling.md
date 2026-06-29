@@ -1,10 +1,11 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-AVOPEF (etoposide) Injection, 100 mg/5 mL (20 mg/mL) is a sterile, clear, colorless to light yellow liquid available in multiple-dose glass vials as follows:
+AVOPEF (etoposide) Injection, 100 mg/5 mL (20 mg/mL) and 500 mg/25 mL (20 mg/mL) is a sterile, clear, colorless to light yellow liquid available in multiple-dose glass vials as follows:
 
 | NDC Number | Strength | Package |
 | --- | --- | --- |
 | 83831-144-05 | 100 mg/5 mL (20 mg/mL) | 1 multiple-dose vial in 1 carton. |
+| 83831-145-25 | 500 mg/25 mL (20 mg/mL) | 1 multiple-dose vial in 1 carton. |
 
 This container closure is not made with natural rubber latex.
 
