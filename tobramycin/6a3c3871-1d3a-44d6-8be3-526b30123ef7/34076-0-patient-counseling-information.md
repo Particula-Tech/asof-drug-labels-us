@@ -23,15 +23,12 @@ Lactation:
 
 Advise a woman to monitor their breastfed infants for diarrhea and/or bloody stools [see Use in Specific Populations (8.2)].
 
-Manufactured for: Mylan Specialty L.P.
-Morgantown, WV 26505 U.S.A.
+Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Woodstock Sterile Solutions, Inc. Woodstock, IL 60098 U.S.A.
-
-© 2023 Viatris Inc.
+© 2025 Viatris Inc.
 
 TOBI is a registered trademark of BGP Products Operations GmbH, a Viatris Company.
 
 The brands listed are trademarks of their respective owners.
 
-WS:TOBRIS:R2
+VSL:CB:TOBRIS:R1

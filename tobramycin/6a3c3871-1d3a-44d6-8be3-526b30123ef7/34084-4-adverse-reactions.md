@@ -18,7 +18,7 @@ Patients received TOBI in alternating periods of 28 days on and 28 days off drug
 
 Table 1 lists the percent of patients with selected adverse reactions that occurred in >5% of TOBI patients during the two Phase 3 studies.
 
-Table 1: Percent of Patients With Selected Adverse Reactions Occurring in >5% of TOBI Patients
+Table 1: Percent of Patients with Selected Adverse Reactions Occurring in > 5% of TOBI Patients
 
 | Adverse Reaction | Tobramycin Inhalation Solution(n = 258)% | Placebo(n = 262)% |
 | --- | --- | --- |

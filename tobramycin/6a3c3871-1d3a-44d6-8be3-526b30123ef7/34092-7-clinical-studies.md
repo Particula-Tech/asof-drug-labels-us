@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
 Two identically designed, double-blind, randomized, placebo-controlled, parallel group, 24-week clinical studies (Study 1 and Study 2) at a total of 69 cystic fibrosis centers in the United States were conducted in cystic fibrosis patients with P. aeruginosa.
-Subjects who were less than 6 years of age, had a baseline creatinine of >2 mg/dL, or had Burkholderia cepacia isolated from sputum were excluded.
+Subjects who were less than 6 years of age, had a baseline creatinine of > 2 mg/dL, or had Burkholderia cepacia isolated from sputum were excluded.
 
 All subjects had baseline FEV1 % predicted between 25% and 75%.
 In these clinical studies, 258 patients received TOBI therapy on an outpatient basis (see Table 2) using a hand-held PARI LC PLUS Reusable Nebulizer with a DeVilbiss Pulmo-Aide compressor.
@@ -35,8 +35,8 @@ Patients treated with TOBI required an average of 9.6 days of parenteral antipse
 During the 6 months of treatment, 40% of TOBI patients and 53% of placebo patients were treated with parenteral antipseudomonal antibacterials.
 
 The relationship between in vitro susceptibility test results and clinical outcome with TOBI therapy is not clear.
-However, four TOBI patients who began the clinical trial with P. aeruginosa isolates having MIC values ≥128 mcg/mL did not experience an improvement in FEV1 or a decrease in sputum bacterial density.
+However, four TOBI patients who began the clinical trial with P. aeruginosa isolates having MIC values ≥ 128 mcg/mL did not experience an improvement in FEV1 or a decrease in sputum bacterial density.
 
 Treatment with TOBI did not affect the susceptibility of the majority of P. aeruginosa isolates during the 6-month studies.
 However, some P. aeruginosa isolates did exhibit increased tobramycin MICs.
-The percentage of patients with P. aeruginosa isolates with tobramycin MICs ≥16 mcg/mL was 13% at the beginning, and 23% at the end of 6 months of the TOBI regimen.
+The percentage of patients with P. aeruginosa isolates with tobramycin MICs ≥ 16 mcg/mL was 13% at the beginning, and 23% at the end of 6 months of the TOBI regimen.

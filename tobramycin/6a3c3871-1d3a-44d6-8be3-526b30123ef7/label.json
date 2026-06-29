@@ -5,7 +5,9 @@
   "inn": "tobramycin",
   "labeler": "Viatris Specialty LLC",
   "package_ndcs": [
+    "49502-345-01",
     "49502-345-73",
+    "49502-345-74",
     "49502-345-99"
   ],
   "products": [

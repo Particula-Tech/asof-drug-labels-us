@@ -27,7 +27,7 @@ Cystic fibrosis may increase the risk for preterm delivery.
 
 No reproductive toxicity studies have been conducted with TOBI (tobramycin administered by inhalation).
 However, subcutaneous administration of tobramycin at doses of up to 100 (rat) or 20 (rabbit) mg/kg/day during organogenesis was not associated with adverse developmental outcomes.
-Doses of tobramycin ≥40 mg/kg/day were severely maternally toxic to rabbits and precluded the evaluation of adverse developmental outcomes.
+Doses of tobramycin ≥ 40 mg/kg/day were severely maternally toxic to rabbits and precluded the evaluation of adverse developmental outcomes.
 Ototoxicity was not evaluated in offspring during non-clinical reproductive toxicity studies with tobramycin.
 
 ## 8.2 Lactation
@@ -48,7 +48,7 @@ Advise a woman to monitor the breastfed infant for loose or bloody stools and ca
 ## 8.4 Pediatric Use
 
 The safety and efficacy of TOBI in pediatric patients under 6 years of age has not been established.
-The use of TOBI is not indicated in children <6 years of age [see Indications and Usage (1) and Dosage and Administration (2)].
+The use of TOBI is not indicated in children < 6 years of age [see Indications and Usage (1) and Dosage and Administration (2)].
 
 ## 8.5 Geriatric Use
 

@@ -11,15 +11,10 @@
 | These are not all of the possible side effects of TOBI. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |
 | General information about the safe and effective use of TOBIMedicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use TOBI for a condition for which it was not prescribed. Do not give it to other people, even if they have the same symptoms you have. It may harm them. You can ask your pharmacist or healthcare provider for more information about TOBI that is written for health professionals. |  |  |
 | What are the ingredients in TOBI? Active ingredient: tobramycinInactive ingredients: sodium chloride in sterile water for injection, sulfuric acid, sodium hydroxide, and nitrogen |  |  |
-| What is Pseudomonas aeruginosa?It is a very common bacterium that infects the lungs of nearly everyone with cystic fibrosis at some time during their lives. Some people do not get this infection until later in their lives, while others get it very young. It is one of the most damaging bacteria for people with cystic fibrosis. If the infection is not properly managed, it will continue to damage your lungs causing further problems to your breathing.Manufactured for: Mylan Specialty L.P., Morgantown, WV 26505 U.S.A.For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX). |  |  |
+| What is Pseudomonas aeruginosa?It is a very common bacterium that infects the lungs of nearly everyone with cystic fibrosis at some time during their lives. Some people do not get this infection until later in their lives, while others get it very young. It is one of the most damaging bacteria for people with cystic fibrosis. If the infection is not properly managed, it will continue to damage your lungs causing further problems to your breathing. Distributed by:Viatris Specialty LLCMorgantown, WV 26505 U.S.A. © 2025 Viatris Inc. TOBI is a registered trademark of BGP Products Operations GmbH, a Viatris Company. The brands listed are trademarks of their respective owners. For more information, call Viatris at 1-877-446-3679 (1-877-4-INFO-RX). |  |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 2/2023
 
-© 2023 Viatris Inc.
+Revised: 11/2025
 
-TOBI is a registered trademark of BGP Products Operations GmbH, a Viatris Company.
-
-The brands listed are trademarks of their respective owners.
-
-WS:PIL:TOBRIS:R2
+VSL:CB:PIL:TOBRIS:R1

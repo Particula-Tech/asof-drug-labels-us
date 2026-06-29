@@ -12,7 +12,7 @@ The following instructions tell you how to use the DeVilbiss Pulmo-Aide air comp
 
 You will need the following supplies (See Figure A):
 
-- •1 TOBI plastic ampule (TOBI is packaged with 4 ampules in each foil pouch)
+- •1 TOBI plastic ampule (TOBI is packaged with either 4 or 14 ampules in each foil pouch)
 - •DeVilbiss Pulmo-Aide air compressor
 - •PARI LC PLUS Reusable Nebulizer
 - •Tubing to connect the nebulizer and compressor
@@ -160,19 +160,16 @@ Nebulizer: 1-800-327-8632
 
 Compressor: 1-800-338-1988
 
-TOBI: Call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
+TOBI: Call Viatris at 1-877-446-3679 (1-877-4-INFO-RX).
 
-Manufactured for: Mylan Specialty L.P.
-Morgantown, WV 26505 U.S.A.
+Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Woodstock Sterile Solutions, Inc. Woodstock, IL 60098 U.S.A.
-
-© 2023 Viatris Inc.
+© 2025 Viatris Inc.
 
 TOBI is a registered trademark of BGP Products Operations GmbH, a Viatris Company.
 
 The brands listed are trademarks of their respective owners.
 
-WS:IFU:TOBRIS:R2
+VSL:CB:IFU:TOBRIS:R1
 
-Revised: 2/2023
+Revised: 11/2025
