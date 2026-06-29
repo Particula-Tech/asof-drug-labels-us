@@ -26,7 +26,7 @@ Table 2: Mean Percentage Change from Baseline in Daily "Off" Hours at End of Tre
 
 Figure 1 shows the mean daily percent “OFF” time during treatment over the whole study period for patients treated with ZELAPAR vs. patients treated with placebo.
 
-Figure 1: Mean Daily Percent "OFF" Time During Treatment Over the Whole Study Period for Patients Treated with ZELAPAR vs. Patients Treated with Placebo
+Figure 1: Mean Daily Percent “OFF” Time During Treatment Over the Whole Study Period for Patients Treated with ZELAPAR vs. Patients Treated with Placebo
 
 Dosage reduction of levodopa was allowed during this study if dopaminergic side effects, including dyskinesia and hallucinations, emerged.
 In those patients who had levodopa dosage reduced, the dose was reduced on average by 24% in ZELAPAR-treated patients and by 21% in placebo-treated patients.
