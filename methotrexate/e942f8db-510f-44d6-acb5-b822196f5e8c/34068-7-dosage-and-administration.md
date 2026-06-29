@@ -20,7 +20,7 @@ After initiating TREXALL, periodically monitor absolute neutrophil count (ANC) a
 
 Mycosis Fungoides The recommended dosage of TREXALL is 25 mg to 75 mg orally once weekly when administered as a single agent or 10 mg/m2 orally twice weekly as part of a combination chemotherapy regimen.
 
-Relapsed or Refractory Non-Hodgkin Lymphomas The recommended dosage of methotrexate is 2.5 mg orally 2 to 4 times per week (maximum 10 mg per week) as part of a metronomic combination chemotherapy regimen.
+Relapsed or Refractory Non-Hodgkin Lymphomas The recommended dosage of methotrexate tablets is 2.5 mg orally 2 to 4 times per week (maximum 10 mg per week) as part of a metronomic combination chemotherapy regimen.
 
 ## 2.3 Recommended Dosage for Rheumatoid Arthritis
 

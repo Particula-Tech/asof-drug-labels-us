@@ -2,8 +2,8 @@
 
 ## 5.1 Embryo-Fetal Toxicity
 
-Based on published reports and its mechanism of action, methotrexate can cause fetal harm, including fetal death, when administered to a pregnant woman.
-Methotrexate is contraindicated for use in pregnant women receiving TREXALL for the treatment of non-malignant diseases.
+Based on published reports and its mechanism of action, methotrexate tablets can cause fetal harm, including fetal death, when administered to a pregnant woman.
+Methotrexate tablets are contraindicated for use in pregnant women receiving TREXALL for the treatment of non-malignant diseases.
 Advise pregnant women with neoplastic diseases of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment with TREXALL and for 6 months after the final dose.
 Advise males with female partners of reproductive potential to use effective contraception during TREXALL treatment and for 3 months after the final dose [see Contraindications (4), Use in Specific Populations (8.1, 8.3)].
@@ -20,7 +20,7 @@ TREXALL suppresses hematopoiesis and can cause severe and life-threatening pancy
 
 Obtain blood counts at baseline, periodically during treatment, and as clinically indicated.
 Monitor patients for clinical complications of myelosuppression.
-Withhold, dose reduce, or discontinue methotrexate taking into account the importance of TREXALL treatment in the context of the severity of the disease being treated, the severity of the adverse drug reaction, and availability of alternative therapy [see Dosage and Administration (2.6)].
+Withhold, dose reduce, or discontinue methotrexate tablets taking into account the importance of TREXALL treatment in the context of the severity of the disease being treated, the severity of the adverse drug reaction, and availability of alternative therapy [see Dosage and Administration (2.6)].
 
 ## 5.4 Gastrointestinal Toxicity
 
@@ -45,7 +45,7 @@ Withhold or discontinue TREXALL taking into account the importance of TREXALL tr
 
 Pulmonary toxicity, including acute or chronic interstitial pneumonitis and irreversible or fatal cases, can occur with TREXALL [see Adverse Reactions (6.1, 6.2)].
 
-Monitor patients for pulmonary toxicity and withhold or discontinue methotrexate taking into account the importance of TREXALL treatment in the context of the severity of the disease being treated, the severity of the adverse drug reaction, and availability of alternative therapy [see Dosage and Administration (2.6)].
+Monitor patients for pulmonary toxicity and withhold or discontinue methotrexate tablets taking into account the importance of TREXALL treatment in the context of the severity of the disease being treated, the severity of the adverse drug reaction, and availability of alternative therapy [see Dosage and Administration (2.6)].
 
 ## 5.7 Dermatologic Reactions
 
@@ -87,15 +87,15 @@ Administer folic acid or folinic acid for patients with rheumatoid arthritis, pJ
 
 Patients treated with TREXALL are at increased risk for developing life-threatening or fatal bacterial, fungal, or viral infections, including opportunistic infections such as Pneumocystis jiroveci pneumonia, invasive fungal infections, hepatitis B reactivation, tuberculosis primary infection or reactivation, and disseminated Herpes zoster and cytomegalovirus infections [see Adverse Reactions (6.2)].
 
-Monitor patients for infection during and after treatment with methotrexate.
-Withhold or discontinue methotrexate for serious infections taking into account the importance of methotrexate treatment in the context of the severity of the disease being treated, the severity of the adverse drug reaction, and availability of alternative therapy [see Dosage and Administration (2.6)].
+Monitor patients for infection during and after treatment with methotrexate tablets.
+Withhold or discontinue methotrexate tablets for serious infections taking into account the importance of methotrexate tablet treatment in the context of the severity of the disease being treated, the severity of the adverse drug reaction, and availability of alternative therapy [see Dosage and Administration (2.6)].
 
 ## 5.12 Neurotoxicity
 
 TREXALL can cause severe acute and chronic neurotoxicity, which can be progressive, irreversible, and fatal [see Adverse Reactions (6.2)].
 The risk of leukoencephalopathy is increased in patients who received prior cranial radiation.
 
-Monitor patients for neurotoxicity and withhold or discontinue TREXALL taking into account the importance of methotrexate treatment in the context of the severity of the disease being treated, the severity of the adverse drug reaction, and availability of alternative therapy [see Dosage and Administration (2.6)].
+Monitor patients for neurotoxicity and withhold or discontinue TREXALL taking into account the importance of methotrexate tablet treatment in the context of the severity of the disease being treated, the severity of the adverse drug reaction, and availability of alternative therapy [see Dosage and Administration (2.6)].
 
 ## 5.13 Secondary Malignancies
 
@@ -103,7 +103,7 @@ Secondary malignancies can occur with TREXALL [see Adverse Reactions (6.2)].
 The risk of cutaneous malignancies is further increased when cyclosporine is administered to patients with psoriasis who received prior methotrexate.
 
 In some cases, lymphoproliferative disease occurring during therapy with low-dose TREXALL regressed completely following withdrawal of methotrexate.
-If lymphoproliferative disease occurs, discontinue methotrexate [see Dosage and Administration (2.6)].
+If lymphoproliferative disease occurs, discontinue methotrexate tablets [see Dosage and Administration (2.6)].
 
 ## 5.14 Tumor Lysis Syndrome
 
@@ -116,7 +116,7 @@ Disseminated infections following administration of live vaccines have been repo
 Immunization with live vaccines is not recommended during treatment.
 Follow current vaccination practice guidelines for administration of immunizations in patients receiving TREXALL.
 
-Update immunizations according to immunization guidelines prior to initiating methotrexate.
+Update immunizations according to immunization guidelines prior to initiating methotrexate tablets.
 The interval between live vaccinations and initiation of methotrexate should be in accordance with current vaccination guidelines regarding immunosuppressive agents.
 
 ## 5.16 Infertility
@@ -128,4 +128,4 @@ Discuss the risk of infertility with females and males of reproductive potential
 ## 5.17 Increased Risk of Adverse Reactions Due to Third-Space Accumulation
 
 Methotrexate accumulates in third-spaces (e.g., pleural effusions or ascites), which results in prolonged elimination and increases the risk of adverse reactions.
-Evacuate significant third- space accumulations prior to methotrexate administration taking into account the importance of methotrexate treatment in the context of the severity of the disease being treated, the severity of the adverse drug reaction, and availability of alternative therapy.
+Evacuate significant third- space accumulations prior to methotrexate tablets administration taking into account the importance of methotrexate tablet treatment in the context of the severity of the disease being treated, the severity of the adverse drug reaction, and availability of alternative therapy.

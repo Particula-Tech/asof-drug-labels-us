@@ -6,7 +6,7 @@ TREXALL is indicated for the:
 
 - treatment of adults and pediatric patients with acute lymphoblastic leukemia (ALL) as part of a combination chemotherapy maintenance regimen
 - treatment of adults with mycosis fungoides (cutaneous T-cell lymphoma) as a single agent or as part of a combination chemotherapy regimen
-- treatment of adults with relapsed or refractory non-Hodgkin lymphomas as part of a metronomic combination chemotherapy regimen.
+- treatment of adults with relapsed or refractory non-Hodgkin lymphomas as part of a metronomic combination chemotherapy regimen
 
 ## 1.2 Rheumatoid Arthritis
 

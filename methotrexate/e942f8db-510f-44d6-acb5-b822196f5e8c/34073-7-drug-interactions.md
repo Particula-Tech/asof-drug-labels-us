@@ -2,15 +2,13 @@
 
 ## 7.1 Effects of Other Drugs on Methotrexate
 
-Drugs that Increase Methotrexate Exposure
-
-Coadministration of methotrexate with the following products may increase methotrexate plasma concentrations, which may increase the risk of methotrexate severe adverse reactions.
+Drugs that Increase Methotrexate Exposure Coadministration of methotrexate with the following products may increase methotrexate plasma concentrations, which may increase the risk of methotrexate severe adverse reactions.
 In some cases, the coadministration of methotrexate with these products may also subsequently reduce active metabolite formation, which may decrease the clinical effectiveness of methotrexate.
 Increased organ specific adverse reactions may also occur when methotrexate is coadministered with hepatotoxic or nephrotoxic products.
 
 If coadministration cannot be avoided, monitor closely for methotrexate adverse reactions when coadministered with:
 
-| Oral antibiotics (including neomycin)Oral or intravenous penicillin or sulfonamide antibioticsHighly protein-bound drugs (e.g., oral anticoagulants, phenytoin, salicylates, sulfonamides, sulfonylureas, and tetracyclines)Probenecid | Antifolate drugs (e.g., dapsone, pemetrexed, pyrimethamine and sulfonamides)Aspirin and other nonsteroidal anti-inflammatory drugsHepatotoxic productsProton pump inhibitorsWeak acids (e.g., salicylates)Nephrotoxic products |
+| Oral antibiotics (including neomycin)Oral or intravenous penicillin or sulfonamide antibioticsAntifolate drugs (e.g., dapsone, pemetrexed, pyrimethamine and sulfonamides)Aspirin and other nonsteroidal anti-inflammatory drugsHepatotoxic products | Highly protein-bound drugs (e.g., oral anticoagulants, phenytoin, salicylates, sulfonamides, sulfonylureas, and tetracyclines)ProbenecidProton pump inhibitorsWeak acids (e.g., salicylates)Nephrotoxic products |
 | --- | --- |
 
 Nitrous Oxide Coadministration of methotrexate with nitrous oxide anesthesia potentiates the effect of methotrexate on folate-dependent metabolic pathways, which may increase the risk of severe methotrexate adverse reactions.
