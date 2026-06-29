@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA220436"
+  ],
+  "inn": "fosaprepitant",
+  "labeler": "Avyxa Pharma, LLC",
+  "package_ndcs": [
+    "83831-153-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "fosaprepitant",
+      "name": "NAVITRUX"
+    }
+  ],
+  "setid": "a41b7c3a-1376-43a7-b5b9-6ba2eba1e169",
+  "source": "dailymed"
+}
