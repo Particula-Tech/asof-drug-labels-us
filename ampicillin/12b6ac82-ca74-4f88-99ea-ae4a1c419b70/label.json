@@ -1,12 +1,11 @@
 {
   "application_numbers": [
-    "ANDA063142"
+    "ANDA201404"
   ],
   "inn": "ampicillin",
   "labeler": "WG Critical Care, LLC",
   "package_ndcs": [
-    "44567-104-01",
-    "44567-104-10"
+    "44567-104-01"
   ],
   "products": [
     {
