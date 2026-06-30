@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA022108"
+  ],
+  "inn": "bupropion",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-580-30",
+    "68682-581-30",
+    "68682-582-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "bupropion hydrobromide",
+      "name": "Bupropion Hydrobromide"
+    }
+  ],
+  "setid": "3ec04240-baef-44d7-8d73-a181171eec43",
+  "source": "dailymed"
+}
