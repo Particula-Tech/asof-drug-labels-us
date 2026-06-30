@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA217437"
+  ],
+  "inn": "leuprolide",
+  "labeler": "Endo USA, Inc.",
+  "package_ndcs": [
+    "42023-259-00",
+    "42023-259-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "leuprolide acetate",
+      "name": "LEUPROLIDE ACETATE"
+    }
+  ],
+  "setid": "290b0716-2fd5-43a1-8d3c-4857c1b2eefa",
+  "source": "dailymed"
+}
