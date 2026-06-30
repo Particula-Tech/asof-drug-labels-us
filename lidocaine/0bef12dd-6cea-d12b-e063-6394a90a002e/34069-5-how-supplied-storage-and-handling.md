@@ -7,14 +7,14 @@ Carton of 30 patches, packaged into individual child-resistant envelopes NDC 514
 Store at 25 oC (77 oF); excursions permitted to 15 o-30 oC (59 o-86 oF).
 [See USP Controlled Room Temperature].
 
-For more information, call Endo at 1-800-828-9393.
+For more information, call Par Health at 1-800-828-9393.
 
-Manufactured for: Endo USA Malvern, PA 19355
+Manufactured for:
 
-Revised: April 2024
+Par Health USA
 
-Marketed by:
+Rochester, MI 48307
 
-GSMS, Inc.
+Revised: December 2025
 
-Camarillo, CA 93012 USA
+Marketed by: GSMS, Inc. Camarillo, CA 93012 USA

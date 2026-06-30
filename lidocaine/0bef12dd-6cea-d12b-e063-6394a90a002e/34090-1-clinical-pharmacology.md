@@ -15,7 +15,7 @@ In a pharmacokinetic study, three LIDOCAINE PATCH 5% patches were applied over a
 Blood samples were withdrawn for determination of lidocaine concentration during the application and for 12 hours after removal of patches.
 The results are summarized in Table 1.
 
-| LIDOCAINE PATCH 5% | Application Site | Area (cm 2) | Dose Absorbed (mg) | C max (mcg/mL) | T max (hr) |
+| LIDOCAINE PATCH 5% Patch | Application Site | Area (cm 2) | Dose Absorbed (mg) | C max (mcg/mL) | T max (hr) |
 | --- | --- | --- | --- | --- | --- |
 | Table 1 Absorption of lidocaine from LIDOCAINE PATCH 5% Normal volunteers (n = 15, 12-hour wearing time) |  |  |  |  |  |
 | 3 patches (2100 mg) | Back | 420 | 64 ± 32 | 0.13 ± 0.06 | 11 hr |
