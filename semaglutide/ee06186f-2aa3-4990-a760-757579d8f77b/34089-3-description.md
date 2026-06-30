@@ -17,5 +17,12 @@ Each 1 mL of WEGOVY contains the following inactive ingredients: disodium phosph
 WEGOVY has a pH of approximately 7.4.
 Hydrochloric acid or sodium hydroxide may be added to adjust pH.
 
+Each 3 mL prefilled single-patient-use pen contains semaglutide 9.6 mg (3.2 mg/mL), which provides 4 doses of 2.4 mg semaglutide per 0.75 mL.
+Each 1 mL of WEGOVY FlexTouch solution also contains the following inactive ingredients: disodium phosphate dihydrate, 1.42 mg; phenol, 5.5 mg; propylene glycol, 14 mg; and water for injections.
+WEGOVY has a pH of approximately 7.4.
+Hydrochloric acid or sodium hydroxide may be added to adjust pH.
+
+Each single-patient-use WEGOVY FlexTouch Pen contains additional volume to allow for device priming.
+
 WEGOVY tablets include semaglutide as a white to almost white hygroscopic powder.
 Each tablet of WEGOVY contains 1.5 mg, 4 mg, 9 mg or 25 mg of semaglutide and the following inactive ingredients: magnesium stearate and salcaprozate sodium (SNAC).

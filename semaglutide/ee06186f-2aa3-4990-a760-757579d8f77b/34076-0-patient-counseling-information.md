@@ -52,11 +52,22 @@ Pulmonary Aspiration During General Anesthesia or Deep Sedation
 Inform patients that WEGOVY may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
 Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking WEGOVY [see Warnings and Precautions (5.10)].
 
+Never Share a WEGOVY FlexTouch Pen Between Patients
+
+Advise patients that they must never share a WEGOVY FlexTouch with another person, even if the needle is changed, because doing so carries a risk for transmission of blood-borne pathogens [see Warnings and Precautions (5.11)].
+
 Pregnancy
 
 WEGOVY may cause fetal harm.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy.
 Advise patients who are exposed to WEGOVY during pregnancy to contact Novo Nordisk at 1-877-390-2760 or www.wegovypregnancyregistry.com [see Use in Specific Populations (8.1)].
+
+Administration
+
+Instruct patients how to prepare and administer the correct dose of WEGOVY and assess their ability to inject subcutaneously to ensure the proper administration of WEGOVY.
+Inform patients and their caregiver(s) which WEGOVY presentation (e.g., single-dose pen or syringe, WEGOVY FlexTouch single-patient-use pen) they will receive and ensure they receive training appropriate for that specific presentation.
+If the prescribed WEGOVY presentation changes, ensure patients and caregivers receive appropriate training and instruct them to consult the Instructions for Use for the newly prescribed presentation.
+Advise caregivers that WEGOVY FlexTouch is not recommended for self-administration by those with visual impairment unless their healthcare provider determines the patient can properly administer [see Dosage and Administration (2.1)].
 
 Missed Doses
 
@@ -82,7 +93,7 @@ Plainsboro, NJ 08536
 
 1-833-934-6891
 
-WEGOVY® is a registered trademark of Novo Nordisk A/S.
+WEGOVY®and FlexTouch® are registered trademarks of Novo Nordisk A/S.
 
 Patent Information: http://www.novonordisk-us.com/products/product-patents.html
 

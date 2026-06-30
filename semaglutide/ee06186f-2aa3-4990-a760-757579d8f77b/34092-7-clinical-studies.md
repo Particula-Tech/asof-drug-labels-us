@@ -7,7 +7,7 @@ Overview of Clinical Trial
 Study 1 (NCT03574597) was a multi-national, multi-center, placebo-controlled, double-blind trial to determine the effect of WEGOVY injection relative to placebo on major adverse CV events (MACE) when added to current standard of care, which included management of CV risk factors and individualized healthy lifestyle counseling (including diet and physical activity) in adults with established CV disease and either obesity or overweight.
 The primary endpoint, MACE, was the time to first occurrence of a three-part composite outcome which included CV death, non-fatal myocardial infarction, and non-fatal stroke.
 During the 16-week dose escalation period, patients were titrated to WEGOVY 2.4 mg injected subcutaneously once weekly or placebo.
-Patients who could not tolerate the recommended escalation dosage, could stay at a lower dose level.
+Patients who could not tolerate the recommended escalation dosage could stay at a lower dose level.
 
 All patients were 45 years or older, with an initial BMI of 27 kg/m2 or greater and established CV disease (prior myocardial infarction, prior stroke, or peripheral arterial disease).
 Patients with a history of type 1 or type 2 diabetes were excluded.
@@ -606,7 +606,7 @@ b Parameters not included in the pre-specified hierarchical testing.
 * p<0.0001 (unadjusted 2-sided) for superiority.
 
 The time course of change in BMI with WEGOVY injection and placebo from baseline through Week 68 is depicted in Figure 11.
-The cumulative frequency distribution of change in BMI is shown in Figure 10.
+The cumulative frequency distribution of change in BMI is shown in Figure 12.
 
 Figure 11.
 Change from Baseline (%) in BMI in Pediatric Patients with Obesity Aged 12 Years and Older in Study 10 with WEGOVY Injection

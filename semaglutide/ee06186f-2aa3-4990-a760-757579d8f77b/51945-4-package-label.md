@@ -290,6 +290,26 @@ Contains: 4 x 0.5 mL Single-Dose Prefilled Syringes
 
 Push to open
 
+# Package/Label Display Panel - FlexTouch
+
+NDC 0169-4915-32
+
+wegovy® FlexTouch® Rx only
+
+(semaglutide) injection
+
+9.6 mg/3 mL (3.2 mg/mL)
+
+Use Wegovy FlexTouch Once Weekly
+
+For Single-Patient-Use Only
+
+For subcutaneous use only
+
+Dispense the enclosed Medication Guide to each patient.
+
+Contains: 1 single-patient-use pen, 4 NovoFine Plus 32G needles
+
 # Package/Label Display Panel – 1.5 mg Tablets
 
 1. NDC 0169-4415-31 LIST 441531

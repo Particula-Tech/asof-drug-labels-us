@@ -2,22 +2,27 @@
 
 Injection: clear, colorless solution available as follows:
 
-| Single-Dose Prefilled Pens |  |
+| Single-Dose Pens |  |
 | --- | --- |
 | Dose per Injection | Total Strength per Total Volume |
-| 0.25 mg | 0.25 mg / 0.5 mL |
-| 0.5 mg | 0.5 mg / 0.5 mL |
-| 1 mg | 1 mg / 0.5 mL |
+| 0.25 mg | 0.25 mg/0.5 mL |
+| 0.5 mg | 0.5 mg/0.5 mL |
+| 1 mg | 1 mg/0.5 mL |
 | 1.7 mg | 1.7 mg/0.75 mL |
 | 2.4 mg | 2.4 mg/0.75 mL |
 | 7.2 mg (WEGOVY HD) | 7.2 mg/0.75 mL |
 
-| Single-Dose Prefilled Syringes |  |
+| Single-Patient-Use Pen (4 doses per Pen) (WEGOVY FlexTouch) |  |
 | --- | --- |
 | Dose per Injection | Total Strength per Total Volume |
-| 0.25 mg | 0.25 mg / 0.5 mL |
-| 0.5 mg | 0.5 mg / 0.5 mL |
-| 1 mg | 1 mg / 0.5 mL |
+| 2.4 mg | 9.6 mg/3 mL (3.2 mg/mL) |
+
+| Single-Dose Syringes |  |
+| --- | --- |
+| Dose per Injection | Total Strength per Total Volume |
+| 0.25 mg | 0.25 mg/0.5 mL |
+| 0.5 mg | 0.5 mg/0.5 mL |
+| 1 mg | 1 mg/0.5 mL |
 | 1.7 mg | 1.7 mg/0.75 mL |
 | 2.4 mg | 2.4 mg/0.75 mL |
 
