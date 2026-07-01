@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA205489"
+  ],
+  "inn": "methylphenidate",
+  "labeler": "Neos Therapeutics, LP",
+  "package_ndcs": [
+    "62542-100-31",
+    "62542-250-31",
+    "62542-350-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "methylphenidate extended-release",
+      "name": "Methylphenidate Extended-Release"
+    }
+  ],
+  "setid": "c2fec19b-6610-4ce0-8e60-f8218a11f62f",
+  "source": "dailymed"
+}
