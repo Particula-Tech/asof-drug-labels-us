@@ -39,4 +39,4 @@ Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA
 
 © 2022 Bausch & Lomb Incorporated or its affiliates
 
-9633502 (Folded) 9633402 (Flat)
+9633503 (Folded) 9633403 (Flat)
