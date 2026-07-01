@@ -48,9 +48,10 @@ In addition to the adverse reactions reported during North American clinical tri
 Encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), aphasia, myoclonus, seizures, and nonconvulsive status epilepticus have been reported [see Warnings and Precautions (5.2)].
 
 Anaphylaxis including anaphylactic shock, transient leukopenia, neutropenia, agranulocytosis, and thrombocytopenia, have been reported.
+Acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction.
 
 ## 6.3 Cephalosporin-Class Adverse Reactions
 
 In addition to the adverse reactions listed above that have been observed in patients treated with cefepime, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibacterial drugs:
 
-Kounis syndrome, Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, fall in prothrombin activity, hepatic dysfunction including cholestasis, and pancytopenia.
+Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, fall in prothrombin activity, hepatic dysfunction including cholestasis, and pancytopenia.
