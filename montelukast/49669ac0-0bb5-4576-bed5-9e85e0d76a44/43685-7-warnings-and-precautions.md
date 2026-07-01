@@ -10,7 +10,7 @@ Animal studies showed that montelukast distributes into the brain in rats [see C
 Based upon the available data, it is difficult to identify risk factors for or quantify the risk of NP events with montelukast sodium use.
 
 Because of the risk of NP events, the benefits of montelukast sodium may not outweigh the risks in some patients, particularly when the symptoms of disease may be mild and adequately treated with alternative therapies.
-Reserve use of montelukast sodium for patients with allergic rhinitis who have an inadequate response or intolerance to alternative therapies [see Indications and Usage (1.3)].
+Reserve use of montelukast sodium forpatients with allergic rhinitis who have an inadequate response or intolerance to alternative therapies [see Indications and Usage (1.3)].
 In patients with asthma or exercise-induced bronchoconstriction, consider the benefits and risks before prescribing montelukast sodium.
 
 Discuss the benefits and risks of montelukast sodium use with patients and caregivers when prescribing montelukast sodium.
@@ -48,4 +48,4 @@ A causal association between montelukast sodium and these underlying conditions 
 Montelukast sodium contains aspartame, a source of phenylalanine.
 Phenylalanine can be harmful to patients with phenylketonuria (PKU).
 Each 4 mg and 5 mg chewable tablet contains 0.674 mg and 0.842 mg of phenylalanine, respectively.
-Before prescribing montelukast sodium to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including montelukast sodium.
+Before prescribing montelukast sodium toa patient with PKU, consider the combined daily amount of phenylalanine from all sources, including montelukast sodium.
