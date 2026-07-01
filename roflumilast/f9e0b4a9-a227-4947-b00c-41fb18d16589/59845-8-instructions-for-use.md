@@ -23,9 +23,9 @@ Applying ZORYVE foam:
 
 Apply a thin layer of ZORYVE foam 1 time a day to the affected areas of your body and scalp when they are not wet.
 
-| Step 1: Shake. Shake the can well before each use. |  |
+| Step 1: Shake. Shake the can well before each use so the foam dispenses correctly. |  |
 | --- | --- |
-| Step 2: Dispense. Turn the can upside down and press the nozzle.Dispense a small amount into your hand. |  |
+| Step 2: Dispense. Turn the can completely upside down and press the nozzle to dispense a small amount into your hand.If you do not hold the can completely upside down, the foam may not dispense correctly. |  |
 | Step 3: Apply. Use enough ZORYVE foam to cover all affected areas with a thin layer. Rub the foam in completely.If you are treating your scalp, part the hair so that ZORYVE foam can be applied directly to the affected area on the skin.Wash your hands after applying the medicine. If someone else applies ZORYVE foam for you, they should wash their hands after applying it. |  |
 
 Storing ZORYVE foam
@@ -47,6 +47,6 @@ For more information on ZORYVE foam, call 1-844-692-6729 or visit http://www.zor
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 5/2025
+Revised: 6/2026
 
-v2
+v3
