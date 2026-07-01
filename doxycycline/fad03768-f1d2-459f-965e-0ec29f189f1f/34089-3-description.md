@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Doxycycline Hyclate Tablets, USP and and Doxycycline Hyclate Capsules, USP contain Doxycycline Hyclate, USP a tetracycline class drug synthetically derived from oxytetracycline, in an immediate release formulation for oral administration.
+Doxycycline Hyclate Tablets, USP and Doxycycline Hyclate Capsules, USP contain Doxycycline Hyclate, USP a tetracycline class drug synthetically derived from oxytetracycline, in an immediate release formulation for oral administration.
 
 The molecular formula of doxycycline hyclate is (C 22H 24N 2O 8•HCl) 2•C 2H 6O•H 2O and the molecular weight of doxycycline hyclate is 1025.87.
 The chemical name for doxycycline hyclate is:
