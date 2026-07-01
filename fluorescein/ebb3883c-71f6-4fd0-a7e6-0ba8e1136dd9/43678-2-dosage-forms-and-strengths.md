@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Single use 5 mL vial containing 100 mg/mL fluorescein.
+Injection: 500mg/5 mL (100mg/mL) in a single-dose vial.

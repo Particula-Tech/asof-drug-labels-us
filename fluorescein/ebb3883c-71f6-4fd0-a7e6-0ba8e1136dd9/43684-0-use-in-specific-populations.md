@@ -2,14 +2,14 @@
 
 ## 8.1 Pregnancy
 
-Adequate animal reproduction studies have not been conducted with fluorescein sodium.
-It is also not known whether fluorescein sodium can cause fetal harm when administered to a pregnant woman.
+Risk Summary There is insufficient data with the use of fluorescein in pregnant women to inform a drug-associated risk.
+Adequate animal reproduction studies have not been conducted with fluorescein.
 Fluorescein sodium should be given to a pregnant woman only if clearly needed.
+The background risk of major birth defects and miscarriage for the indicated population is unknown; however, in the U.S. general population, the estimated background risk of major birth defects is 2%-4% and of miscarriage is 15%-20% of clinically recognized pregnancies Data Animal Data Intravenous administration of a single dose of fluorescein to pregnant rats resulted in rapid distribution into the amniotic fluid and fetus.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Fluorescein sodium injection has been demonstrated to be excreted in human milk for up to 4 days.
-Following fluorescein angiography, breast-feeding should therefore be discontinued for at least 4 days and the milk should be pumped off and discarded during this period.
+Risk Summary Fluorescein injection has been demonstrated to be transferred into human milk for up to 4 days following IV administration.
 
 ## 8.4 Pediatric Use
 

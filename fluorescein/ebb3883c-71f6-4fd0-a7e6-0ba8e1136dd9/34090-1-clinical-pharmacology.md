@@ -15,7 +15,7 @@ Within 7 to 14 seconds after intravenous (IV) administration into antecubital ve
 Within a few minutes of IV administration of fluorescein sodium, a yellowish discoloration of the skin occurs, which begins to fade after 6 to 12 hours of dosing.
 Various estimates of volume of distribution indicate that fluorescein distributes well into interstitial space (0.5 L/kg).
 
-Metabolism:
+Elimination Metabolism:
 
 Fluorescein undergoes rapid metabolism to fluorescein monoglucuronide.
 After IV administration of fluorescein sodium (14 mg/kg) to 7 healthy subjects, approximately 80% of fluorescein in plasma was converted to glucuronide conjugate after a period of 1 hour post dose, indicating relatively rapid conjugation.
