@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA219131"
+  ],
+  "inn": "duloxetine",
+  "labeler": "Almatica Pharma LLC",
+  "package_ndcs": [
+    "52427-791-30",
+    "52427-821-30",
+    "52427-913-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "duloxetine",
+      "name": "Duloxetine"
+    }
+  ],
+  "setid": "bb2ca3bf-983c-1e4a-a91d-dc7dee66d741",
+  "source": "dailymed"
+}
