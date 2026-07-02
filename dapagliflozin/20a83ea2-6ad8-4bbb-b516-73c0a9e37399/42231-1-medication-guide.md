@@ -12,7 +12,7 @@ Dapagliflozin tablets can cause serious side effects, including:
   Ketoacidosis can happen even if your blood sugar is less than 250 mg/dL.
   Your healthcare provider may ask you to periodically check ketones in your urine or blood.
 
-Stoptakingdapagliflozintabletsand call your healthcare provider or get medical help right away if you get any of the following.
+Stop taking dapagliflozin tabletsand call your healthcare provider or get medical help right away if you get any of the following.
 If possible, check for ketones in your urine or blood, even if your blood sugar is less than 250 mg/dL.
 
 | o nausea | o tiredness |
@@ -32,23 +32,37 @@ If possible, check for ketones in your urine or blood, even if your blood sugar 
 Talk to your healthcare provider about what you can do to prevent dehydration including how much fluid you should drink on a daily basis.
 Call your healthcare provider right away if you reduce the amount of food or liquid you drink, for example if you cannot eat or you start to lose liquids from your body, for example from vomiting, diarrhea, or being in the sun too long.
 
+- Genital and urinary tract infections.Dapagliflozin tablets can cause serious infections in your genital area or urinary tract that could require hospitalization.
+  A rare but serious bacterial infection called necrotizing fasciitis can cause damage to the tissue under the skin in the area between and around the anus and genitals (perineum).This infection may require hospitalization, multiple surgeries, and could lead to death.
+  Seek medical attention immediately if you have a fever or you are feeling very weak, tired or uncomfortable (malaise), and you develop any of the following symptoms in the area between and around your anus and genitals:
+
+| o pain or tenderness | o swelling | o redness of skin (erythema) |
+| --- | --- | --- |
+
+Also tell your healthcare provider if you have any of these signs or symptoms of urinary tract infections or yeast infections:
+
+- Urinary tract infection:
+  - burning feeling when you urinate
+  - need to urinate often or right away
+  - pain in the lower part of your stomach (pelvis)
+  - blood in your urine
+
+You may also have a fever, back pain, nausea, or vomiting.
+
 - Vaginal yeast infection.
-  Women who take dapagliflozin tablets may get vaginal yeast infections.
-  Symptoms of a vaginal yeast infection include:
   - vaginal odor
   - white or yellowish vaginal discharge (discharge may be lumpy or look like cottage cheese)
   - vaginal itching
 
-- Yeast infection of the penis (balanitis).Swelling of an uncircumcised penis may develop that makes it difficult to pull back the skin around the tip of the penis.
-  Other symptoms of yeast infection of the penis include:
+- Yeast infection of the skin around the penis (balanitis or balanoposthitis): If you are uncircumcised, swelling may make it difficult to pull back the skin around the tip of the penis.
+  Other symptoms include:
   - redness, itching, or swelling of the penis
-  - foul smelling discharge from the penis
+  - bad smelling discharge from the penis
   - rash of the penis
   - pain in the skin around the penis
 
-Talk to your healthcare provider about what to do if you get symptoms of a yeast infection of the vagina or penis.
-Your healthcare provider may suggest you use an over-the-counter antifungal medicine.
-Talk to your healthcare provider right away if you use an over-the-counter antifungal medication and your symptoms do not go away.
+Talk to your healthcare provider about what to do if you get symptoms of a yeast infection They may suggest you use an over-the-counter antifungal medicine.
+Contact your healthcare provider right away if your symptoms do not improve after using an over-the-counter antifungal medicine.
 
 What are dapagliflozin tablets?
 
@@ -60,7 +74,7 @@ What are dapagliflozin tablets?
 - Dapagliflozin tablets are not for use to improve blood sugar (glucose) control in people with type 2 diabetes who have moderate to severe kidney problems, because it may not work.
 - It is not known if dapagliflozin tablets are safe and effective to lower blood sugar (glucose) in children younger than 10 years of age with type 2 diabetes.
 
-Whoshould not take dapagliflozin tablets?
+Who should not take dapagliflozin tablets?
 
 Do not take dapagliflozin tablets if you:
 
@@ -123,7 +137,7 @@ How should I takedapagliflozin tablets?
     Tell your healthcare provider right away if you have any of these conditions and follow your healthcare provider's instructions.
   - Your healthcare provider may tell you to take dapagliflozin tablets along with other diabetes medicines.
     Low blood sugar can happen more often when dapagliflozin tablets is taken with certain other diabetes medicines.
-    See " What are the possible side effects of dapagliflozin tablets?".
+    See " "What are the possible side effects of dapagliflozin tablets?".
 
 - Dapagliflozin tablets will cause your urine to test positive for glucose.
 - Your healthcare provider may do certain blood tests before you start dapagliflozin tablets and during treatment as needed.
@@ -133,12 +147,8 @@ What are the possible side effects of dapagliflozin tablets?
 
 Dapagliflozin tablets may cause serious side effects, including:
 
-See "Whatis the most important information I should know about dapagliflozin tablets?".
+See "What isthe most important information I should know about dapagliflozin tablets?".
 
-- Serious urinary tract infections.
-  Serious urinary tract infections that may lead to hospitalization have happened in people who are taking dapagliflozin tablets.
-  Tell your healthcare provider if you have any signs or symptoms of a urinary tract infection such as a burning feeling when passing urine, a need to urinate often, the need to urinate right away, pain in the lower part of your stomach (pelvis), or blood in the urine.
-  Sometimes people also may have a fever, back pain, nausea or vomiting.
 - Low blood sugar (hypoglycemia) in patients with diabetes mellitus.
   If you take dapagliflozin tablets with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
   The dose of your sulfonylurea medicine or insulin may need to be lowered while you take dapagliflozin tablets.
@@ -149,13 +159,6 @@ See "Whatis the most important information I should know about dapagliflozin tab
 | o confusion | o dizziness | o sweating |
 | o hunger | o fast heartbeat | o irritability |
 | o shaking or feeling jittery |  |  |
-
-- A rare but serious bacterial infection that causes damage to the tissue under the skin (necrotizing fasciitis) in the area between and around the anus and genitals (perineum).Necrotizing fasciitis of the perineum has happened in women and men with diabetes mellitus who take dapagliflozin tablets.
-  Necrotizing fasciitis of the perineum may lead to hospitalization, may require multiple surgeries, and may lead to death.
-  Seek medical attention right away if you have fever or you are feeling very weak, tired, or uncomfortable (malaise) and you develop any of the following symptoms in the area between and around the anus and genitals:
-  - pain or tenderness
-  - swelling
-  - redness of skin (erythema)
 
 - Serious allergic reaction.If you have any symptoms of a serious allergic reaction, stop taking dapagliflozin tablets and call your healthcare provider right away or go to the nearest hospital emergency room.
   See " Who should not take dapagliflozin tablets?".
@@ -214,7 +217,7 @@ Boca Raton, FL 33487
 
 Toll-Free# 1-800-315-0985.
 
-Revised: 04/2026
+Revised: 06/2026
 
 Pediatric use information is approved for AstraZeneca AB's Farxiga ®(dapagliflozin) Tablets.
 However, due to AstraZeneca AB's marketing exclusivity rights, this drug product is not labeled with that information.

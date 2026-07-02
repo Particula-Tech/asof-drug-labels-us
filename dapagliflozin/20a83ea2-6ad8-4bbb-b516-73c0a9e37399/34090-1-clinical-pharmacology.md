@@ -7,7 +7,7 @@ Dapagliflozin is an inhibitor of SGLT2.
 By inhibiting SGLT2, dapagliflozin reduces reabsorption of filtered glucose and thereby promotes urinary glucose excretion.
 
 Dapagliflozin also reduces sodium reabsorption and increases the delivery of sodium to the distal tubule.
-This may influence several physiological functions including, but not restricted to, lowering both pre- and afterload of the heart and downregulation of sympathetic activity.
+This may influence several physiological functions including, but not restricted to, lowering both pre- and afterload of the heart and downregulation of sympathetic activity, and decreased intraglomerular pressure which is believed to be mediated by increased tubuloglomerular feedback.
 
 ## 12.2 Pharmacodynamics
 

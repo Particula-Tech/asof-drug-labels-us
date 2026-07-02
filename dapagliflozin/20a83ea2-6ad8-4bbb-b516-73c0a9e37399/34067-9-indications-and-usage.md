@@ -2,7 +2,7 @@
 
 Dapagliflozin tablets are indicated:
 
-- To reduce the risk of hospitalization for heart failure in adults with type 2 diabetes mellitus and either established cardiovascular disease or multiple cardiovascular risk factors.
+- To reduce the risk of hospitalization for heart failure in adults with type 2 diabetes mellitus and either established CV disease or multiple CV risk factors.
 - As an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
 
 Limitationsof Use

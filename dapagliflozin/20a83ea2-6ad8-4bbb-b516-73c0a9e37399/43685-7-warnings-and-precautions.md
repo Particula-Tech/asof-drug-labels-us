@@ -35,31 +35,19 @@ Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m 2), elder
 Before initiating dapagliflozin tablets in patients with one or more of these characteristics, assess volume status and renal function.
 Monitor for signs and symptoms of hypotension, and renal function after initiating therapy.
 
-## 5.3 Urosepsis and Pyelonephritis
+## 5.3 Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections
 
-Serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization have been reported in patients receiving SGLT2 inhibitors, including dapagliflozin tablets.
-Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
-Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
+Dapagliflozin tablets increases urinary glucose excretion [see Clinical Pharmacology(12.2)] and increases the riskof genitourinary infections including urinary tract infections and genital mycotic infections in both maleand female patients [see Adverse Reactions (6.1)].
+Serious genitourinary infections, including urosepsis, pyelonephritis, and necrotizing fasciitis of the perineum (Fournier’s gangrene, a rare life-threatening infection requiring urgent surgical intervention), have occurred in patients receiving SGLT2 inhibitors, including dapagliflozin tablets [see Adverse Reactions(6.2)].
+Cases have required hospitalization.
+In patients with Fournier’s gangrene, serious outcomes haveincluded multiple surgeries and death.
+Patients with a history of genitourinary infections are more likely to develop genitourinary infections when using Dapagliflozin tablets.
+Monitor patients for signs and symptoms of genitourinary infections and treat promptly, if indicated.
+Immediately evaluate patients presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, for necrotizing fasciitis.
+If suspected, discontinue Dapagliflozin tablets and promptly institute appropriate medical and/or surgical intervention.
 
 ## 5.4 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Insulin and insulin secretagogues (e.g., sulfonylureas) are known to cause hypoglycemia.
 Dapagliflozin tablets may increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue [see Adverse Reactions (6.1)].
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when these agents are used in combination with dapagliflozin tablets [see Drug Interactions (7)].
-
-## 5.5 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
-
-Reports of necrotizing fasciitis of the perineum (Fournier's Gangrene), a rare but serious and life- threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including dapagliflozin tablets.
-Cases have been reported in both females and males.
-Serious outcomes have included hospitalization, multiple surgeries, and death.
-
-Patients treated with dapagliflozin tablets presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
-If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
-
-Discontinue dapagliflozin tablets, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
-
-## 5.6 Genital Mycotic Infections
-
-Dapagliflozin tablets increases the risk of genital mycotic infections.
-Patients with a history of genital mycotic infections were more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
-Monitor and treat appropriately.

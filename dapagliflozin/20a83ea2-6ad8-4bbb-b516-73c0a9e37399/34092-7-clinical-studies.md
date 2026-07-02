@@ -336,7 +336,7 @@ However, due to AstraZeneca AB's marketing exclusivity rights, this drug product
 
 ## 14.3 Cardiovascular Outcomes in Adults with Type 2 Diabetes Mellitus
 
-Dapagliflozin Effect on Cardiovascular Events (DECLARE, NCT01730534) was an international, multicenter, randomized, double-blind, placebo-controlled, clinical trial conducted to determine the effect of dapagliflozin tablets relative to placebo on cardiovascular (CV) outcomes when added to current background therapy.
+Dapagliflozin Effect on Cardiovascular Events (DECLARE, NCT01730534) was an international, multicenter, randomized, double-blind, placebo-controlled, clinical trial conducted to determine the effect of dapagliflozin tablets relative to placebo on CV outcomes when added to current background therapy.
 All patients had type 2 diabetes mellitus and either established CV disease or two or more additional CV risk factors (age ≥55 years in men or ≥60 years in women and one or more of dyslipidemia, hypertension, or current tobacco use).
 Concomitant antidiabetic and atherosclerotic therapies could be adjusted, at the discretion of investigators, to ensure participants were treated according to the standard care for these diseases.
 

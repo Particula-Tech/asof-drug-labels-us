@@ -61,9 +61,9 @@ Juvenile rats directly exposed to dapagliflozin showed risk to the developing ki
 
 The safety and effectiveness of dapagliflozin tablets for glycemic control in type 2 diabetes mellitus have not been established in pediatric patients less than 10 years of age.
 
-The safety and effectiveness of dapagliflozin tablets have not been established in pediatric patients to reduce the risk of [seeIndications and Usage (1)]:
+The safety and effectiveness of dapagliflozin tablets have not been established in pediatric patients to reduce the risk of [seeIndications and Usage (1)]
 
-- Hospitalization for heart failure in patients with type 2 diabetes mellitus and either established cardiovascular disease or multiple cardiovascular risk factors.
+- Hospitalization for heart failure in patients with type 2 diabetes mellitus and either established CV disease or multiple CV risk factors.
 
 Pediatric use information is approved for AstraZeneca AB's Farxiga®(dapagliflozin) Tablets.
 However, due to AstraZeneca AB's marketing exclusivity rights, this drug product is not labeled with that information.
@@ -78,7 +78,8 @@ In patients ≥65 years of age, a higher proportion of patients treated with dap
 
 ## 8.6 Renal Impairment
 
-Dapagliflozin tablets was evaluated in two glycemic control adult trials that included patients with type 2 diabetes mellitus with moderate renal impairment (an eGFR of 45 to less than 60 mL/min/1.73 m 2[seeClinical Studies (14.1)], and an eGFR of 30 to less than 60 mL/min/1.73 m 2, respectively).Patients with diabetes and renal impairment using dapagliflozin tablets may be more likely to experience hypotension and may be at higher risk for acute kidney injury secondary to volume depletion.
+Dapagliflozin tablets was evaluated in two glycemic control adult trials that included patients with type 2 diabetes mellitus with moderate renal impairment (an eGFR of 45 to less than 60 mL/min/1.73 m 2[seeClinical Studies (14.1)], and an eGFR of 30 to less than 60 mL/min/1.73 m 2, respectively).
+Patients with diabetes and renal impairment using dapagliflozin tablets may be more likely to experience hypotension and may be at higher risk for acute kidney injury secondary to volume depletion.
 In the trial of adult patients with an eGFR 30 to less than 60 mL/min/1.73 m 2, 13 patients receiving dapagliflozin tablets experienced bone fractures compared to none receiving placebo.
 Use of dapagliflozin tablets for glycemic control in patients without established CV disease or CV risk factors is not recommended when eGFR is less than 45 mL/min/1.73 m 2[seeDosage and Administration (2.1)].
 
