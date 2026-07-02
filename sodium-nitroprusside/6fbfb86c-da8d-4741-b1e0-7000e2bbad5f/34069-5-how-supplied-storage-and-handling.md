@@ -11,6 +11,8 @@ Discard unused portion.
 
 Distributed by: Mylan Institutional LLC, a Viatris Company Morgantown, WV 26505 U.S.A.
 
-50107418
+Manufactured by: Mylan Laboratories Limited Bangalore, India
 
-Revised: 11/2025 MI:SONPIJ:R1
+50109691
+
+Revised: 4/2026 MI:SONPIJ:R2
