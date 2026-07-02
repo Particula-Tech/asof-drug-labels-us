@@ -18,7 +18,7 @@ Twirla is contraindicated in females who are known to have or develop the follow
   Compared to women with a lower BMI, women with a BMI ≥ 30 kg/m 2had reduced effectiveness and may have a higher risk for VTEs [see Warnings and Precautions (5.1), Use in Specific Populations (8.9) and Clinical Studies (14)].
 - Liver tumors (benign or malignant), acute viral hepatitis, or severe (decompensated) cirrhosis, or liver disease [see Warnings and Precautions (5.2)]
 - Undiagnosed abnormal uterine bleeding [see Warnings and Precautions (5.9)]
-- Pregnancy, because there is no reason to use CHCs during pregnancy [see Use in Specific Populations (8.1)]
+- Pregnancy, given there is no reason to use CHCs during pregnancy [see Use in Specific Populations (8.1)]
 - Current diagnosis of, or history of, breast cancer, which may be hormone-sensitive [see Warnings and Precautions (5.11)]
 - Hypersensitivity to any components of TWIRLA.
   Observed reactions include itching and irritation at the TDS application site [see Adverse Reactions (6.1)]

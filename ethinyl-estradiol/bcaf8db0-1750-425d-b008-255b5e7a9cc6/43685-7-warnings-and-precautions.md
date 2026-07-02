@@ -67,7 +67,7 @@ TWIRLA can be restarted approximately 2 weeks following completion of treatment 
 
 ## 5.4 Hypertension
 
-TWIRLA is contraindicated in women with uncontrolled hypertension or hypertension with vascular disea se [see Contraindications (4)].
+TWIRLA is contraindicated in women with uncontrolled hypertension or hypertension with vascular disease [see Contraindications (4)].
 For all women, including those with well-controlled hypertension, monitor blood pressure at routine visits and stop TWIRLA if blood pressure rises significantly.
 
 An increase in blood pressure has been reported in women using CHCs, and this increase is more likely in older women with extended duration of use.
@@ -138,7 +138,9 @@ Data on the association of CHCs with onset of depression or exacerbation of exis
 
 ## 5.11 Malignant Neoplasms
 
-Breast Cancer Twirla is contraindicated in females who currently have or have had breast cancer because breast cancer may be hormonally sensitive [see Contraindications (4)].
+Breast Cancer
+
+Twirla is contraindicated in females who currently have or have had breast cancer because breast cancer may be hormonally sensitive [see Contraindications (4)].
 
 Epidemiology studies have not found a consistent association between use of COCs and breast cancer risk.
 Studies do not show an association between ever (current or past) use of COCs and risk of breast cancer.

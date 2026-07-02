@@ -97,23 +97,23 @@ Instruct women about the handling of missed doses (e.g., missed or delayed TDS a
 
 FORGETTING TO CHANGE THE TDS:
 
-- At the start of any TDS cycle (Week 1/Day 1):THE WOMAN MAY NOT BE PROTECTED FROM PREGNANCY.
+- At the start of any TDS cycle (Week 1/Day 1): THE WOMAN MAY NOT BE PROTECTED FROM PREGNANCY.
   The woman should apply the first TDS of her new cycle as soon as she remembers, and this becomes the new "Patch Change Day" and a new "Day 1" of the cycle.
   The woman should use non-hormonal back-up contraception (such as condoms and spermicide, or diaphragm and spermicide) for the first 7 days of the new cycle.
-- In the middle of the TDS cycle (Week 2/Day 8 or Week 3/Day 15), for 1 or 2 days (up to 48 hours):The woman should apply a new TDS immediately.
+- In the middle of the TDS cycle (Week 2/Day 8 or Week 3/Day 15), for 1 or 2 days (up to 48 hours): The woman should apply a new TDS immediately.
   The next TDS should be applied on the usual "Patch Change Day".
   No back-up contraception is needed.
-- For more than 2 days (48 hours or more):THE WOMAN MAY NOT BE PROTECTED FROM PREGNANCY.
+- For more than 2 days (48 hours or more): THE WOMAN MAY NOT BE PROTECTED FROM PREGNANCY.
   The woman should stop the current contraceptive cycle and start a new four-week cycle immediately by putting on a new TDS.
   This is now a new "Patch Change Day" and a new "Day 1" of the cycle.
   Non-hormonal back-up contraception must be used for 7 days.
-- At the end of the TDS cycle Week 3 (Day 22):If the woman forgets to remove her TDS, she should take it off as soon as she remembers.
+- At the end of the TDS cycle Week 3 (Day 22): If the woman forgets to remove her TDS, she should take it off as soon as she remembers.
   The next cycle should be started on the usual "Patch Change Day", which is the day after Day 28.
   No back-up contraception is needed.
 
 Table 2: Managing Partial or Complete TDS Detachments and Late/Missed TDS Applications
 
-| Scenario | Results in New TDS- Change Day | Back-up Contraception Required (7 Days) | Starts New Cycle |
+| Scenario | Results in New TDS-Change Day | Starts New Cycle | Back-up Contraception Required (7 Days) |
 | --- | --- | --- | --- |
 | Did not apply TDS on scheduled Day 1/Week 1 of new cycle (late TDS-on day) | Yes | Yes | Yes |
 | TDS detached for < 24 hours | No | No | No |
