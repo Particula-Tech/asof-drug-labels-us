@@ -2,7 +2,7 @@
 
 Plaque Psoriasis
 
-- Use ZORYVE cream, 0.3%, for the treatment of plaque psoriasis in adult and pediatric patients 6 years of age and older.
+- Use ZORYVE cream, 0.3%, for the treatment of plaque psoriasis in adult and pediatric patients 2 years of age and older.
 
 Atopic Dermatitis
 

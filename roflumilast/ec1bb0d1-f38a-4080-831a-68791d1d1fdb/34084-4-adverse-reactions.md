@@ -27,7 +27,12 @@ Table 1: Adverse Reactions Reported in ≥1% of Adult and Pediatric Subjects 6 Y
 | Upper respiratory tract infection | 6 (1.0) | 1 (0.3) |
 | Urinary tract infection | 6 (1.0) | 2 (0.7) |
 
-In 594 subjects with plaque psoriasis who continued treatment with ZORYVE cream, 0.3%, for up to 64 weeks in open-label extension trials, the adverse reaction profile was consistent with that observed in vehicle-controlled trials.
+In 644 subjects 6 years of age and older with plaque psoriasis who continued treatment with ZORYVE cream, 0.3%, for up to 64 weeks in open-label extension trials, the adverse reaction profile was consistent with that observed in vehicle-controlled trials.
+
+Pediatric Subjects 2 to 5 Years of Age
+
+The safety of ZORYVE cream, 0.3%, once daily was assessed in an open-label trial for up to 24 weeks.
+The adverse reaction profile in pediatric subjects 2 years to 5 years of age with plaque psoriasis was consistent with that observed in adult and pediatric subjects 6 years of age and older.
 
 Atopic Dermatitis
 
@@ -59,7 +64,7 @@ Table 3 presents adverse reactions that occurred in at least 1% of subjects trea
 
 Table 3: Adverse Reactions Reported in ≥1% of Pediatric Subjects 2 to 5 Years of Age with Atopic Dermatitis Treated with ZORYVE Cream, 0.05%, (and More Frequently than Vehicle) for 4 Weeks in Trial INTEGUMENT-PED
 
-| Adverse Reaction | ZORYVE Cream, 0.05% N=437 n (%) | Vehicle Cream N=215 n (%) |
+| Adverse Reaction | ZORYVE Cream, 0.05% (N=437) n (%) | Vehicle Cream (N=215) n (%) |
 | --- | --- | --- |
 | Upper respiratory tract infection | 18 (4.1) | 3 (1.4) |
 | Diarrhea | 11 (2.5) | 1 (0.5) |
@@ -70,5 +75,5 @@ Table 3: Adverse Reactions Reported in ≥1% of Pediatric Subjects 2 to 5 Years 
 
 Adult and Pediatric Subjects 2 Years of Age and Older
 
-The long-term safety of ZORYVE cream, 0.15%, and ZORYVE cream, 0.05%, was assessed in an open-label extension trial of 1219 subjects 2 years of age and older with mild to moderate atopic dermatitis who had completed one of the 4-week vehicle-controlled trials.
+The long-term safety of ZORYVE cream, 0.15%, and ZORYVE cream, 0.05%, was assessed in an open-label extension trial of 1219 subjects 2 years of age and older with mild to moderate atopic dermatitis who had completed one of the 4-week, vehicle-controlled trials.
 The safety profile observed in the open-label extension trial was generally consistent with the safety profile observed at Week 4.

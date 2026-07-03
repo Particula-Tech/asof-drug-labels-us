@@ -25,9 +25,9 @@ Plasma concentrations of roflumilast and roflumilast N-oxide (see Metabolism) we
 In adults, the mean ± SD systemic exposure (AUC0-24) was 72.7 ± 53.1 and 628 ± 648 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
 In pediatric subjects (13 to 16 years of age), the mean ± SD AUC0-24 was 25.1 ± 24.0 and 140 ± 179 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
 
-The PK of ZORYVE cream, 0.3%, was assessed in 10 pediatric subjects (6 to less than 12 years of age) with at least mild plaque psoriasis and a mean ± SD BSA involvement of 10.9 ± 6.56%.
+The PK of ZORYVE cream, 0.3%, was assessed in 10 pediatric subjects (6 to 11 years of age) with at least mild plaque psoriasis and a mean ± SD BSA involvement of 10.9 ± 6.56%.
 The 14-day mean ± SD extrapolated AUC0-24 was 75.6 ± 87.3 and 693 ± 986 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
-In another study, the PK of ZORYVE cream, 0.3%, was assessed in 9 pediatric subjects (2 to less than 6 years of age) with at least mild plaque psoriasis and a mean ± SD BSA involvement of 9.44 ± 5.57%.
+In another study, the PK of ZORYVE cream, 0.3%, was assessed in 9 pediatric subjects (2 to 5 years of age) with at least mild plaque psoriasis and a mean ± SD BSA involvement of 9.44 ± 5.57%.
 The 14-day mean ± SD extrapolated AUC0-24 was 51.6 ± 29.9 and 539 ± 372 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
 
 Atopic Dermatitis

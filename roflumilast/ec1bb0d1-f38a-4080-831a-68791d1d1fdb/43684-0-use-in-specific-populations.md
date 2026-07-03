@@ -74,12 +74,18 @@ In a human spermatogenesis study, oral roflumilast 500 mcg had no effects on sem
 
 Plaque Psoriasis
 
-The safety and effectiveness of ZORYVE cream, 0.3%, for the topical treatment of plaque psoriasis, including intertriginous areas, have been established in pediatric patients 6 years of age and older.
-Use of ZORYVE cream, 0.3%, in pediatric patients 6 years of age and older is supported by data from two 8-week, vehicle-controlled, safety and efficacy trials which included 18 subjects 6 to 17 years of age, of whom 11 received ZORYVE cream, 0.3%.
-Use of ZORYVE cream, 0.3%, in pediatric patients 12 years of age and older is also supported by data from open-label trials of 2- and 24-weeks duration which included 18 subjects 12 to 17 years of age treated with ZORYVE cream, 0.3%.
-Use of ZORYVE cream, 0.3%, in pediatric patients 6 to less than 12 years of age is also supported by data from one 4-week, open-label, safety and pharmacokinetic (PK) study which included 20 pediatric subjects 6 to less than 12 years of age [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1)].
+The safety and effectiveness of ZORYVE cream, 0.3%, for the topical treatment of plaque psoriasis, including intertriginous areas, have been established in pediatric patients 2 years of age and older.
+Use of ZORYVE cream, 0.3%, for this indication is supported by data from:
 
-The safety and effectiveness of ZORYVE cream, 0.3%, have not been established in pediatric patients younger than 6 years of age.
+- Two 8-week, vehicle-controlled, safety and efficacy trials in adults and 18 subjects 6 to 17 years of age, of whom 11 received ZORYVE cream, 0.3%;
+- One open-label, safety trial in 21 pediatric subjects 2 to 5 years of age with up to 25% BSA involvement who applied ZORYVE cream, 0.3%, up to 24 weeks;
+
+With additional safety and pharmacokinetic (PK) data from:
+
+- Open-label trials of 2- and 24-weeks duration which included 25 subjects 12 to 17 years of age treated with ZORYVE cream, 0.3%;
+- Two 4-week, open-label, safety and PK studies which included 20 pediatric subjects 6 to 11 years of age and 10 pediatric subjects 2 to 5 years of age, treated with ZORYVE cream, 0.3% [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1)].
+
+The safety and effectiveness of ZORYVE cream, 0.3%, have not been established in pediatric patients younger than 2 years of age.
 
 Atopic Dermatitis
 
