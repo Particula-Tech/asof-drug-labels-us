@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA214290"
+  ],
+  "inn": "sugammadex",
+  "labeler": "Zydus Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "70710-1650-1",
+    "70710-1650-6",
+    "70710-1651-1",
+    "70710-1651-6"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "sugammadex",
+      "name": "Sugammadex"
+    }
+  ],
+  "setid": "21028965-598b-4cfa-a614-5c28ed40306a",
+  "source": "dailymed"
+}
