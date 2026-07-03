@@ -2,9 +2,9 @@
 
 ## 2.1 Procedures Prior to Treatment Initiation
 
-- For the treatment of Crohn’s disease and ulcerative colitis, obtain liver enzymes and bilirubin levels prior to initiating treatment with SKYRIZI [see Warnings and Precautions (5.4)]
-- Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with SKYRIZI [see Warnings and Precautions (5.3)]
-- Complete all age appropriate vaccinations as recommended by current immunization guidelines [see Warnings and Precautions (5.5)]
+- For the treatment of moderately to severely active Crohn’s disease and ulcerative colitis, obtain liver enzymes and bilirubin levels prior to initiating treatment with SKYRIZI [see Warnings and Precautions (5.4)].
+- Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with SKYRIZI [see Warnings and Precautions (5.3)].
+- Complete all age-appropriate vaccinations as recommended by current immunization guidelines [see Warnings and Precautions (5.5)].
 
 ## 2.2 General Considerations for Administration
 
@@ -38,13 +38,29 @@ Recommended Dose of SKYRIZI for Pediatric Patients 6 Years of Age and Older with
 | less than 40 kg | 55 mg |
 | 40 kg or greater | 150 mg |
 
-## 2.4 Recommended Dosage for Psoriatic Arthritis
+## 2.4 Recommended Dosage for Active Psoriatic Arthritis
 
-The recommended dosage is 150 mg administered by subcutaneous injection at Week 0, Week 4, and every 12 weeks thereafter.
+Adults
+
+The recommended dosage for adult patients is 150 mg administered by subcutaneous injection at Week 0, Week 4, and every 12 weeks thereafter.
 
 SKYRIZI may be administered alone or in combination with non-biologic disease-modifying antirheumatic drugs (DMARDs).
 
-## 2.5 Preparation and Administration Instructions (Moderate-to-Severe Plaque Psoriasis and Psoriatic Arthritis)
+Pediatric Patients 6 Years of Age and Older
+
+The recommended dosage for pediatric patients 6 years of age and older is based on body weight (see Table 2) and administered by subcutaneous injection at Week 0, Week 4, and every 12 weeks thereafter.
+
+Table 2.
+Recommended Dose of SKYRIZI for Pediatric Patients 6 Years of Age and Older with Active Psoriatic Arthritis
+
+| Body Weight | Recommended Dose |
+| --- | --- |
+| less than 40 kg | 55 mg |
+| 40 kg or greater | 150 mg |
+
+SKYRIZI may be administered alone or in combination with non-biologic disease-modifying antirheumatic drugs (DMARDs).
+
+## 2.5 Preparation and Administration Instructions (Moderate-to-Severe Plaque Psoriasis and Active Psoriatic Arthritis)
 
 • Administer SKYRIZI 55 mg/0.37 mL prefilled syringe, 150 mg/mL prefilled pen or prefilled syringe subcutaneously.
 
@@ -53,12 +69,13 @@ After proper training:
 
 Adults
 
-- Adults may self-inject SKYRIZI.
+○ Adults may self-inject SKYRIZI.
 
 Pediatric Patients 6 Years of Age and Older
 
-- For pediatric patients 10 years of age and older, it is recommended that SKYRIZI be administered by or under the supervision of an adult.
-- For pediatric patients 6 to less than 10 years of age, SKYRIZI should be administered by an adult.
+○ For pediatric patients 10 years of age and older, it is recommended that SKYRIZI be administered by or under the supervision of an adult.
+
+○ For pediatric patients 6 to less than 10 years of age, SKYRIZI should be administered by an adult.
 
 - Before injecting, remove the carton with SKYRIZI from the refrigerator and without removing the prefilled pen or prefilled syringe from the carton, allow SKYRIZI to reach room temperature out of direct sunlight (30 to 90 minutes for the prefilled pen and 15 to 30 minutes for the prefilled syringe).
 - Do not inject into areas where the skin is tender, bruised, erythematous, indurated or affected by psoriasis.
@@ -69,7 +86,7 @@ Pediatric Patients 6 Years of Age and Older
 The SKYRIZI “Instructions for Use” contains more detailed instructions on the preparation and administration of SKYRIZI [see Instructions for Use].
 Instruct the patient to read the Instructions for Use before administration.
 
-## 2.6 Recommended Dosage for Crohn’s Disease
+## 2.6 Recommended Dosage for Moderately to Severely Active Crohn’s Disease
 
 Adult Patients: Induction
 
@@ -80,7 +97,7 @@ Adult Patients: Maintenance
 The recommended maintenance dosage of SKYRIZI is 180 mg or 360 mg administered by subcutaneous injection at Week 12, and every 8 weeks thereafter.
 Use the lowest effective dosage needed to maintain therapeutic response.
 
-## 2.7 Recommended Dosage for Ulcerative Colitis
+## 2.7 Recommended Dosage for Moderately to Severely Active Ulcerative Colitis
 
 Adult Patients: Induction
 
@@ -91,7 +108,7 @@ Adult Patients: Maintenance
 The recommended maintenance dosage of SKYRIZI is 180 mg or 360 mg administered by subcutaneous injection at Week 12, and every 8 weeks thereafter.
 Use the lowest effective dosage needed to maintain therapeutic response.
 
-## 2.8 Preparation and Administration Instructions (Crohn’s Disease and Ulcerative Colitis)
+## 2.8 Preparation and Administration Instructions (Moderately to Severely Active Crohn’s Disease and Ulcerative Colitis)
 
 Intravenous Induction Dosing Regimen:
 
@@ -100,10 +117,10 @@ SKYRIZI vial for intravenous administration is intended for administration by a 
 
 2.
 Prior to intravenous administration, determine the dose and number of SKYRIZI vials needed based on the patient’s indication (see table below).
-Withdraw 10 mL of SKYRIZI solution from a vial (600 mg/10 mL) and inject into an intravenous infusion bag or glass bottle containing 5% Dextrose Injection or 0.9% Sodium Chloride Injection (see Table 2 below) for a final concentration of approximately 1.2 mg/mL to 6 mg/mL.
+Withdraw 10 mL of SKYRIZI solution from a vial (600 mg/10 mL) and inject into an intravenous infusion bag or glass bottle containing 5% Dextrose Injection or 0.9% Sodium Chloride Injection (see Table 3 below) for a final concentration of approximately 1.2 mg/mL to 6 mg/mL.
 Discard any remaining solution in the vial.
 
-Table 2.
+Table 3.
 Total Volume of Diluent Required for Intravenous Induction Dose
 
 | Indication | Intravenous Induction Dose | Number of SKYRIZI 600 mg/10 mL Vials | Total Volume of 5% Dextrose or 0.9% Sodium Chloride Injection |

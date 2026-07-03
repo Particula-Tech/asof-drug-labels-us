@@ -24,9 +24,9 @@ Both trials assessed the responses at Week 16 compared with placebo for the two 
 
 Secondary endpoints included the proportion of subjects who achieved PASI 100, sPGA 0, and Psoriasis Symptom Scale (PSS) 0 at Week 16.
 
-The results are presented in Table 7.
+The results are presented in Table 8.
 
-Table 7.
+Table 8.
 Efficacy Results at Week 16 in Adults with Moderate-to-Severe Plaque Psoriasis in PsO-1 and PsO-2
 
 |  | PsO-1 |  | PsO-2 |  |
@@ -84,9 +84,9 @@ Baseline sPGA score was 4 (“severe”) in 24% of the subjects.
 
 At baseline, 54% of subjects were naïve to both non-biologic systemic and biologic therapy, 0% of subjects had received prior phototherapy, 15% had received prior non-biologic systemic therapy, and 37% had received prior biologic therapy.
 
-The results are presented in Table 8.
+The results are presented in Table 9.
 
-Table 8.
+Table 9.
 Efficacy Results at Week 16 in Adults with Moderate-to-Severe Psoriasis of the Scalp in PsO-5 Trial S
 
 | Endpoint | SKYRIZI (N=51) n (%) | Placebo (N=54) n (%) | Treatment Difference (95% CI) |
@@ -108,9 +108,9 @@ Baseline sPGA score was 4 (“severe”) in 19% of the subjects.
 
 At baseline, 61% of subjects were naïve to both non-biologic systemic and biologic therapy, 3% of subjects had received prior phototherapy, 17% had received prior non-biologic systemic therapy, and 26% had received prior biologic therapy.
 
-The results are presented in Table 9.
+The results are presented in Table 10.
 
-Table 9.
+Table 10.
 Efficacy Results at Week 16 in Adults with Moderate-to-Severe Psoriasis of the Genital Area in PsO-5 Trial G
 
 | Endpoint | SKYRIZI (N=55) n (%) | Placebo (N=54) n (%) | Treatment Difference (95% CI) |
@@ -137,9 +137,9 @@ A total of 4% of subjects had received prior biologic therapy.
 The co-primary endpoints were sPGA score of 0 (“clear”) or 1 (“almost clear”) and at least a 2-point improvement from baseline, and PASI 75 at Week 16.
 The duration of treatment was up to 68 weeks.
 
-The efficacy results are presented below (see Table 10).
+The efficacy results are presented below (see Table 11).
 
-Table 10.
+Table 11.
 Efficacy Results at Week 16 in Pediatric Subjects 12 Years of Age and Older with Moderate-to-Severe Plaque Psoriasis in PsO-6
 
 |  | SKYRIZI (N = 54) n (%) |
@@ -156,7 +156,7 @@ Maintenance of Response
 Subjects originally treated with SKYRIZI who achieved sPGA of 0 or 1 at Week 16 were re-randomized to continue SKYRIZI every 12 weeks through Week 52 or were withdrawn from treatment.
 For subjects who were re-randomized and also had at least a 2-point improvement in sPGA from baseline at Week 16, 95% (18/19) of the subjects continuing SKYRIZI had sPGA of 0 or 1 and at least a 2-point improvement from baseline at Week 52 compared with 39% (7/18) for those withdrawn from SKYRIZI.
 
-## 14.2 Psoriatic Arthritis
+## 14.2 Clinical Trials in Adults with Active Psoriatic Arthritis
 
 The safety and efficacy of SKYRIZI were assessed in 1407 subjects in 2 randomized, double-blind, placebo-controlled trials (964 in PsA-1 [NCT03675308] and 443 in PsA-2 [NCT03671148]) in subjects 18 years and older with active psoriatic arthritis (PsA).
 
@@ -177,13 +177,13 @@ For both trials, the primary endpoint was the proportion of subjects who achieve
 Clinical Response
 
 In both trials, treatment with SKYRIZI resulted in significant improvement in measures of disease activity compared with placebo at Week 24.
-See Tables 11 and 12 for key efficacy results.
+See Tables 12 and 13 for key efficacy results.
 
 In both trials, similar responses were seen regardless of concomitant non-biologic DMARD use, number of prior non-biologic DMARDs, age, gender, race, and BMI.
 In PsA-2, responses were seen regardless of prior biologic therapy.
 
-Table 11.
-Efficacy Results in Trial PsA-1
+Table 12.
+Efficacy Results at Week 16 and Week 24 in Adults with Active Psoriatic Arthritis in Trial PsA-1
 
 | Endpoint | Placebo N=481 Response Rate | SKYRIZI N=483 Response Rate | Difference from Placebo (95% CI) |
 | --- | --- | --- | --- |
@@ -198,8 +198,8 @@ Efficacy Results in Trial PsA-1
 | Week 24 | 4.7% | 15.3% | 10.5% (6.9, 14.2) |
 | a. multiplicity-controlled p≤0.001, SKYRIZI vs. placebo comparison. *A Subject was considered as a non-responder after initiation of rescue medication or concomitant medications for PsA that could meaningfully impact efficacy assessment. |  |  |  |
 
-Table 12.
-Efficacy Results in Trial PsA-2
+Table 13.
+Efficacy Results at Week 16 and Week 24 in Adults with Active Psoriatic Arthritis in Trial PsA-2
 
 | Endpoint | Placebo N=219 Response Rate | SKYRIZI N=224 Response Rate | Difference from Placebo (95% CI) |
 | --- | --- | --- | --- |
@@ -217,11 +217,11 @@ Efficacy Results in Trial PsA-2
 The percent of subjects achieving ACR20 responses in trial PsA-1 through Week 24 is shown in Figure 1.
 
 Figure 1.
-Percent of Subjects Achieving ACR20 Responses in Trial PsA-1 through Week 24
+Percent of Adult Subjects with Active Psoriatic Arthritis Achieving ACR20 Responses in Trial PsA-1 through Week 24
 
-The results of the components of the ACR response criteria for both trials are shown in Table 13.
+The results of the components of the ACR response criteria for both trials are shown in Table 14.
 
-Table 13.
+Table 14.
 Mean Change from Baseline in ACR Components
 
 |  | PsA-1 |  | PsA-2 |  |
@@ -263,7 +263,7 @@ In patients with coexistent plaque psoriasis receiving SKYRIZI, the skin lesions
 
 Physical Function
 
-In both trials, patients treated with SKYRIZI showed statistically significant improvement from baseline in physical function compared with placebo as assessed by HAQ-DI at Week 24 (Table 13).
+In both trials, patients treated with SKYRIZI showed statistically significant improvement from baseline in physical function compared with placebo as assessed by HAQ-DI at Week 24 (Table 14).
 The mean difference (95% CI) from placebo in HAQ-DI change from baseline at Week 24 was -0.20 (-0.26, -0.14) in trial PsA-1 and -0.16 (-0.26, -0.07) in trial PsA-2.
 
 In both trials, a greater proportion of subjects achieved a reduction of at least 0.35 in HAQ-DI score from baseline in the SKYRIZI group compared with placebo at Week 24.
@@ -277,7 +277,7 @@ In both trials at Week 24, subjects treated with SKYRIZI showed improvements in 
 There were also numerical improvements in subjects treated with SKYRIZI in physical functioning, role physical, bodily pain, general health, vitality, social functioning, mental health, role emotional domain scores and mental component summary scores in both trials at week 24 compared to placebo.
 In both trials at Week 24, subjects treated with SKYRIZI showed improvements in FACIT-Fatigue scores compared with subjects who received placebo.
 
-## 14.3 Crohn’s Disease
+## 14.3 Clinical Trials in Subjects with Moderately to Severely Active Crohn’s Disease
 
 Induction Trials (Trials CD-1 and CD-2)
 
@@ -292,11 +292,11 @@ At baseline, 30% and 34% of patients were receiving corticosteroids, 24% and 23%
 In CD-1 and CD-2 combined, the median age was 36 years (ranging from 16 to 80 years), 81% (1145/1419) of subjects were white, and 53% (753/1419) were male.
 
 In CD-1 and CD-2, the co-primary endpoints were clinical remission and endoscopic response at Week 12.
-Secondary endpoints included clinical response and endoscopic remission (see Table 14 and Table 15).
+Secondary endpoints included clinical response and endoscopic remission (see Table 15 and Table 16).
 The SKYRIZI 1,200 mg dosage did not demonstrate additional treatment benefit over the 600 mg dosage and is not a recommended regimen [see Dosage and Administration (2.6)].
 
-Table 14.
-Proportion of Subjects Meeting Efficacy Endpoints at Week 12 – Trial CD-1
+Table 15.
+Proportion of Subjects with Moderately to Severely Active Crohn’s Disease Meeting Efficacy Endpoints at Week 12 – Trial CD-1
 
 | Endpoint | Placebo | SKYRIZI 600 mg Intravenous Infusiona | Treatment Differenceb (95% CI) |
 | --- | --- | --- | --- |
@@ -318,8 +318,8 @@ Proportion of Subjects Meeting Efficacy Endpoints at Week 12 – Trial CD-1
 | Without prior biologic failure | N=78 14% | N=141 32% |  |
 | a. SKYRIZI 600 mg as an intravenous infusion at Week 0, Week 4, and Week 8 b. Adjusted treatment difference (95% CI) based on Cochran-Mantel-Haenszel method adjusted for randomization stratification factors c. Co-primary endpoints d. CDAI <150 e. p <0.001 f. Prior biologic failure includes inadequate response, loss of response, or intolerance to one or more biologic treatments for CD g. A decrease in SES-CD > 50% from baseline, or a decrease of at least 2 points for subjects with a baseline score of 4 and isolated ileal disease, based on central reading h. A reduction of CDAI ≥ 100 points from baseline i. SES-CD ≤ 4 and at least a 2-point reduction from baseline, with no individual subscore greater than 1, based on central reading |  |  |  |
 
-Table 15.
-Proportion of Subjects Meeting Efficacy Endpoints at Week 12 – Trial CD-2a
+Table 16.
+Proportion of Subjects with Moderately to Severely Active Crohn’s Disease Meeting Efficacy Endpoints at Week 12 – Trial CD-2a
 
 | Endpoint | Placebo N=187 | SKYRIZI 600 mg Intravenous Infusionb N=191 | Treatment Differencec (95% CI) |
 | --- | --- | --- | --- |
@@ -338,10 +338,10 @@ Trial CD-3
 The maintenance trial CD-3 evaluated 382 subjects who achieved clinical response defined as a reduction in CDAI of at least 100 points from baseline after 12 weeks of induction treatment with intravenous SKYRIZI in trials CD-1 and CD-2.
 Subjects were randomized to receive a maintenance regimen of SKYRIZI 180 mg or SKYRIZI 360 mg or placebo at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks.
 
-The co-primary endpoints in CD-3 were clinical remission and endoscopic response at Week 52 (see Table 16).
+The co-primary endpoints in CD-3 were clinical remission and endoscopic response at Week 52 (see Table 17).
 
-Table 16.
-Proportion of Subjects Meeting Efficacy Endpoints at Week 52 - Trial CD-3
+Table 17.
+Proportion of Subjects with Moderately to Severely Active Crohn’s Disease Meeting Efficacy Endpoints at Week 52 - Trial CD-3
 
 | Endpoint | Placeboa | SKYRIZI 180 mg Subcutaneous Injectionb | SKYRIZI 360 mg Subcutaneous Injectionc | Treatment Difference vs Placebod (95% CI) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -359,7 +359,7 @@ Proportion of Subjects Meeting Efficacy Endpoints at Week 52 - Trial CD-3
 Endoscopic remission was observed at Week 52 in 33% (44/135) of subjects treated with the SKYRIZI 180 mg maintenance regimen and 41% (48/117) of subjects treated with the SKYRIZI 360 mg maintenance regimen, compared to 13% (17/130) of subjects treated with placebo.
 This endpoint was not statistically significant under the prespecified multiple testing procedure.
 
-## 14.4 Ulcerative Colitis
+## 14.4 Clinical Trials in Subjects with Moderately to Severely Active Ulcerative Colitis
 
 Induction Trial (Trial UC-1)
 
@@ -375,11 +375,11 @@ Of these 499 subjects, 484 (97%) failed biologics and 90 (18%) failed JAK inhibi
 Enrolled subjects were permitted to use a stable dose of oral corticosteroids (up to 20 mg/day prednisone or equivalent), immunomodulators, and aminosalicylates.
 At baseline, 36% of subjects were receiving corticosteroids, 16% of subjects were receiving immunomodulators (including azathioprine, 6-mercaptopurine, methotrexate), and 73% of subjects were receiving aminosalicylates in UC-1.
 
-In UC-1, the primary endpoint was clinical remission defined using the mMS at Week 12 (see Table 17).
-Key secondary endpoints included clinical response, endoscopic improvement, and histologic endoscopic mucosal improvement (see Table 17).
+In UC-1, the primary endpoint was clinical remission defined using the mMS at Week 12 (see Table 18).
+Key secondary endpoints included clinical response, endoscopic improvement, and histologic endoscopic mucosal improvement (see Table 18).
 
-Table 17.
-Proportion of Subjects Meeting Efficacy Endpoints at Week 12 – Trial UC-1
+Table 18.
+Proportion of Subjects with Moderately to Severely Active Ulcerative Colitis Meeting Efficacy Endpoints at Week 12 – Trial UC-1
 
 | Endpoint | Placebo | SKYRIZI 1,200 mg Intravenous Infusiona | Treatment Difference (95% CI)b |
 | --- | --- | --- | --- |
@@ -433,11 +433,11 @@ Subjects were randomized to receive a maintenance regimen of subcutaneous (SC) S
 In UC-2, 75% (411/547) of subjects had failed (inadequate response or intolerance) treatment with one or more biologics, JAKi, or S1PRM.
 Of these 411 subjects, 407 (99%) failed biologics and 78 (19%) failed JAK inhibitors.
 
-The primary endpoint in UC-2 was clinical remission using mMS at Week 52 (see Table 18).
-Key secondary endpoints included corticosteroid-free clinical remission, endoscopic improvement, and histologic endoscopic mucosal improvement (see Table 18).
+The primary endpoint in UC-2 was clinical remission using mMS at Week 52 (see Table 19).
+Key secondary endpoints included corticosteroid-free clinical remission, endoscopic improvement, and histologic endoscopic mucosal improvement (see Table 19).
 
-Table 18.
-Proportion of Subjects Meeting Efficacy Endpoints at Week 52 - Trial UC-2
+Table 19.
+Proportion of Subjects with Moderately to Severely Active Ulcerative Colitis Meeting Efficacy Endpoints at Week 52 - Trial UC-2
 
 | Endpoint | Placeboa | SKYRIZI 180 mg SC Injectionb | SKYRIZI 360 mg SC Injectionc |
 | --- | --- | --- | --- |

@@ -6,7 +6,7 @@ SKYRIZI® is indicated for the treatment of moderate-to-severe plaque psoriasis 
 
 ## 1.2 Psoriatic Arthritis
 
-SKYRIZI is indicated for the treatment of active psoriatic arthritis in adults.
+SKYRIZI is indicated for the treatment of active psoriatic arthritis in adults and pediatric patients 6 years of age and older.
 
 ## 1.3 Crohn’s Disease
 

@@ -49,6 +49,7 @@ Pediatric Patients
 
 - Plaque Psoriasis: Risankizumab-rzaa exposures in pediatric subjects 6 years of age and older with plaque psoriasis receiving weight-based dosing regimens were consistent with those in adults.
   At the recommended dosing regimens evaluated in these subjects, estimated median steady-state peak and trough plasma concentrations were 15.7 and 2.3 mcg/mL, respectively, in subjects weighing less than 40 kg, and 11.1 and 1.6 mcg/mL, respectively, in subjects weighing 40 kg or greater.
+- Psoriatic Arthritis: Risankizumab exposures in patients 6 years of age and older with active psoriatic arthritis at the recommended pediatric dosage are predicted to be comparable to those observed in adult patients with psoriatic arthritis based on population pharmacokinetic modeling simulation.
 
 Geriatric Patients
 
@@ -80,21 +81,21 @@ In pediatric subjects 6 years of age and older, approximately 15% (13/88) of sub
 Of the 13 subjects who developed antibodies to risankizumab-rzaa, approximately 15% (2.3% of all subjects treated with SKYRIZI) had antibodies that were classified as neutralizing.
 Due to the small number of subjects who developed antibodies to risankizumab-rzaa, it is difficult to determine the impact of the antibodies on pharmacokinetics, pharmacodynamics, safety, and/or effectiveness.
 
-Psoriatic Arthritis
+Active Psoriatic Arthritis
 
-By Week 28, approximately 12.1% (79/652) of subjects treated with SKYRIZI at the recommended dose developed antibodies to risankizumab-rzaa.
+By Week 28, approximately 12.1% (79/652) of adult subjects treated with SKYRIZI at the recommended dose developed antibodies to risankizumab-rzaa.
 None of the subjects who developed antibodies to risankizumab-rzaa had antibodies that were classified as neutralizing.
 Antibodies to risankizumab-rzaa were not associated with changes in clinical response for psoriatic arthritis.
 A higher proportion of subjects with anti-drug antibodies experienced hypersensitivity reactions (6.3% (5/79)) and injection site reactions (2.5% (2/79)) compared to subjects without anti-drug antibodies (3.8% (22/574) with hypersensitivity reactions and 0.7% (4/574) with injection site reactions).
 None of these hypersensitivity and injection site reactions led to discontinuation of risankizumab-rzaa.
 
-Crohn’s Disease
+Moderately to Severely Active Crohn’s Disease
 
 By Week 64, antibodies to risankizumab-rzaa developed in approximately 3.4% (2/58) of subjects treated with SKYRIZI induction followed by 360 mg maintenance regimen.
 No subjects (0/57) treated with SKYRIZI induction followed by 180 mg maintenance regimen developed antibodies to risankizumab-rzaa.
 None of the subjects who developed antibodies to risankizumab-rzaa had antibodies that were classified as neutralizing.
 
-Ulcerative Colitis
+Moderately to Severely Active Ulcerative Colitis
 
 By Week 64, antibodies to risankizumab-rzaa developed in approximately 8.9% (8/90) or 4.4% (4/91) of subjects treated with SKYRIZI induction followed by the 180 mg or 360 mg maintenance regimen, respectively.
 Of the subjects who developed antibodies to risankizumab-rzaa, 75% (6.7% of all subjects treated with SKYRIZI induction followed by the 180 mg maintenance regimen) or 50% (2.2% of all subjects treated with SKYRIZI induction followed by the 360 mg maintenance regimen), respectively, had antibodies that were classified as neutralizing.

@@ -123,7 +123,9 @@ For more information about safe sharps disposal, and for specific information ab
 
 Do not recycle your used sharps disposal container.
 
-Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2026 AbbVie Inc. 20101613
+Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI and its design are trademarks of AbbVie Biotechnology Ltd. © 2026 AbbVie.
+All rights reserved.
+20101613
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -235,7 +237,9 @@ For more information about safe sharps disposal, and for specific information ab
 
 Do not recycle your used sharps disposal container.
 
-Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2026 AbbVie Inc. 20092742
+Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI and its design are trademarks of AbbVie Biotechnology Ltd. © 2026 AbbVie.
+All rights reserved.
+20092742
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 

@@ -72,9 +72,18 @@ In addition to two lead-in pharmacokinetic cohorts, the trial also included a ra
 
 The safety and effectiveness of SKYRIZI have not been established in pediatric patients younger than 6 years of age with moderate-to-severe plaque psoriasis.
 
-Psoriatic Arthritis, Crohn’s Disease, and Ulcerative Colitis
+Active Psoriatic Arthritis
 
-The safety and effectiveness of SKYRIZI have not been established in pediatric patients with psoriatic arthritis, Crohn’s disease or ulcerative colitis.
+The safety and effectiveness of SKYRIZI for the treatment of psoriatic arthritis have been established in pediatric patients 6 years of age and older.
+
+Use of SKYRIZI for this indication is supported by evidence from well-controlled studies of SKYRIZI in adults with psoriatic arthritis, pharmacokinetic data from adult patients with psoriatic arthritis or plaque psoriasis, and pharmacokinetic, safety, and immunogenicity data from pediatric patients with moderate-to-severe plaque psoriasis [see Adverse Reactions (6.1), Clinical Pharmacology (12.3, 12.6), and Clinical Studies (14.2)].
+Risankizumab exposures in pediatric patients with psoriatic arthritis at the recommended dosage are predicted to be comparable to those observed in adults with psoriatic arthritis based on population pharmacokinetic modeling and simulation.
+
+The safety and effectiveness of SKYRIZI have not been established in pediatric patients younger than 6 years of age with psoriatic arthritis.
+
+Crohn’s Disease and Ulcerative Colitis
+
+The safety and effectiveness of SKYRIZI have not been established in pediatric patients with Crohn’s disease or ulcerative colitis.
 
 ## 8.5 Geriatric Use
 
