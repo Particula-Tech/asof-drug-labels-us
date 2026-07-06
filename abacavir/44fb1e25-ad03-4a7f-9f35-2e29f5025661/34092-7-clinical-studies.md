@@ -10,7 +10,7 @@ The outcomes of randomized treatment are provided in Table 7.
 Table 7.
 Outcomes of Randomized Treatment through Week 48 (CNA30024)
 
-| Outcome | Abacavirplus Lamivudine plus Efavirenz (n = 324) | Zidovudine plus Lamivudine plus Efavirenz (n = 325) |
+| Outcome | Abacavir plus Lamivudine plus Efavirenz (n = 324) | Zidovudine plus Lamivudine plus Efavirenz(n = 325) |
 | --- | --- | --- |
 | Responder a | 69% (73%) | 69% (71%) |
 | Virologic failures b | 6% | 4% |
@@ -28,7 +28,7 @@ Proportions of subjects with plasma HIV-1 RNA less than 400 copies per mL (using
 Table 8.
 Outcomes of Randomized Treatment through Week 48 (CNA3005)
 
-| Outcome | Abacavirplus Lamivudine/Zidovudine (n = 262) | Indinavir plus Lamivudine/Zidovudine (n = 265) |
+| Outcome | Abacavir plus Lamivudine/Zidovudine (n = 262) | Indinavir plus Lamivudine/Zidovudine (n = 265) |
 | --- | --- | --- |
 | Responder a | 49% | 50% |
 | Virologic failure b | 31% | 28% |
@@ -40,7 +40,7 @@ Treatment response by plasma HIV-1 RNA strata is shown in Table 9.
 Table 9.
 Proportions of Responders through Week 48 by Screening Plasma HIV-1 RNA Levels (CNA3005)
 
-| Screening HIV-1 RNA (copies/mL) | Abacavirplus Lamivudine/Zidovudine (n = 262) |  | Indinavir plus Lamivudine/Zidovudine (n = 265) |  |
+| Screening HIV-1 RNA (copies/mL) | Abacavir plus Lamivudine/Zidovudine (n = 262) |  | Indinavir plus Lamivudine/Zidovudine (n = 265) |  |
 | --- | --- | --- | --- | --- |
 | <400 copies/mL | n | <400 copies/mL | n |  |
 | ≥10,000 - ≤100,000 >100,000 | 50% 48% | 166 96 | 48% 52% | 165 100 |
@@ -56,7 +56,7 @@ The outcomes of randomized treatment are provided in Table 10.
 Table 10.
 Outcomes of Randomized Treatment through Week 48 (CNA30021)
 
-| Outcome | Abacavir 600 mg q.d. plus EPIVIRplus Efavirenz (n = 384) | Abacavir300 mg b.i.d. plus EPIVIRplus Efavirenz (n = 386) |
+| Outcome | Abacavir 600 mg q.d. plus EPIVIR plus Efavirenz (n = 384) | Abacavir 300 mg b.i.d. plus EPIVIR plus Efavirenz (n = 386) |
 | --- | --- | --- |
 | Responder a | 64% (71%) | 65% (72%) |
 | Virologic failure b | 11% (5%) | 11% (5%) |
@@ -87,7 +87,7 @@ The differences between virologic responses in the two treatment arms were compa
 Table 11.
 Virologic Outcome of Randomized Treatment at Week 96 a(ARROW Randomization 3)
 
-| Outcome | Abacavir plus Lamivudine Twice-Daily Dosing (n = 333) | Abacavir plus Lamivudine Once-daily Dosing (n = 336) |
+| Outcome | Abacavir plus Lamivudine Twice-Daily Dosing (n = 333) | Abacavir plus Lamivudine Once-Daily Dosing (n = 336) |
 | --- | --- | --- |
 | HIV-1 RNA <80 copies/mL b | 70% | 67% |
 | HIV-1 RNA ≥80 copies/mL c | 28% | 31% |
@@ -95,3 +95,5 @@ Virologic Outcome of Randomized Treatment at Week 96 a(ARROW Randomization 3)
 | Discontinued due to adverse event or death | 1% | <1% |
 | Discontinued study for other reasons d | 0% | <1% |
 | Missing data during window but on study | 1% | 1% |
+
+a Analyses were based on the last observed viral load data within the Week 96 window. b Predicted difference (95% CI) of response rate is -4.5% (-11% to 2%) at Week 96. c Includes subjects who discontinued due to lack or loss of efficacy or for reasons other than an adverse event or death, and who had a viral load value of greater than or equal to 80 copies per mL, or subjects who had a switch in background regimen that was not permitted by the protocol. d Other includes reasons such as withdrew consent, loss to follow-up, etc. and the last available HIV-1 RNA less than 80 copies per mL (or missing).

@@ -5,7 +5,7 @@ The following adverse reactions are discussed in other sections of the labeling:
 ## 6.1 Clinical Trials Experience in Adult Subjects
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
-Serious and Fatal Abacavir-associated Hypersensitivity Reactions In clinical trials, serious and sometimes fatal hypersensitivity reactions have occurred with abacavir [see Boxed Warning, Warnings and Precautions (5.1)].
+Serious and Fatal Abacavir-Associated Hypersensitivity Reactions In clinical trials, serious and sometimes fatal hypersensitivity reactions have occurred with abacavir [see Boxed Warning, Warnings and Precautions (5.1)].
 These reactions have been characterized by 2 or more of the following signs or symptoms: (1) fever; (2) rash; (3) gastrointestinal symptoms (including nausea, vomiting, diarrhea, or abdominal pain); (4) constitutional symptoms (including generalized malaise, fatigue, or achiness); (5) respiratory symptoms (including dyspnea, cough, or pharyngitis).
 Almost all abacavir hypersensitivity reactions include fever and/or rash as part of the syndrome.
 Other signs and symptoms have included lethargy, headache, myalgia, edema, arthralgia, and paresthesia.
@@ -13,8 +13,9 @@ Anaphylaxis, liver failure, renal failure, hypotension, adult respiratory distre
 Physical findings have included lymphadenopathy, mucous membrane lesions (conjunctivitis and mouth ulcerations), and maculopapular or urticarial rash (although some patients had other types of rashes and others did not have a rash).
 There were reports of erythema multiforme.
 Laboratory abnormalities included elevated liver chemistries, elevated creatine phosphokinase, elevated creatinine, and lymphopenia, and abnormal chest x-ray findings (predominantly infiltrates, which were localized).
-Additional Adverse Reactions with Use of Abacavir Therapy-Naive Adults:Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with abacavir 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily compared with zidovudine 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily from CNA30024 are listed in Table 2 Table 2.
-Treatment-emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2 to 4, Greater than or Equal to 5% Frequency) in Therapy-Naive Adults (CNA30024a) through 48 Weeks of Treatment.
+Additional Adverse Reactions with Use of Abacavir Therapy-Naive Adults:Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with abacavir 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily compared with zidovudine 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily from CNA30024 are listed in Table 2.
+Table 2.
+Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2 to 4, Greater than or Equal to 5% Frequency) in Therapy-Naive Adults (CNA30024a) through 48 Weeks of Treatment.
 
 | Adverse Reaction | Abacavir plus Lamivudine plus Efavirenz (n = 324) | Zidovudine plus Lamivudine plus Efavirenz (n = 325) |
 | --- | --- | --- |
@@ -24,9 +25,9 @@ aThis trial used double-blind ascertainment of suspected hypersensitivity reacti
 During the blinded portion of the trial, suspected hypersensitivity to abacavir was reported by investigators in 9% of 324 subjects in the abacavir group and 3% of 325 subjects in the zidovudine group. bTen (3%) cases of suspected drug hypersensitivity were reclassified as not being due to abacavir following unblinding.
 Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with abacavir 300 mg twice daily, lamivudine 150 mg twice daily, and zidovudine 300 mg twice daily compared with indinavir 800 mg 3 times daily, lamivudine 150 mg twice daily, and zidovudine 300 mg twice daily from CNA3005 are listed in Table 3.
 Table 3.
-Treatment-emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2 to 4, Greater than or Equal to 5% Frequency) in Therapy-Naive Adults (CNA3005) through 48 Weeks of Treatment
+Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2 to 4, Greater than or Equal to 5% Frequency) in Therapy-Naive Adults (CNA3005) through 48 Weeks of Treatment
 
-| Adverse Reaction | Abacavirplus Lamivudine/Zidovudine (n = 262) | Indinavir plus Lamivudine/Zidovudine (n = 264) |
+| Adverse Reaction | Abacavir plus Lamivudine/Zidovudine (n = 262) | Indinavir plus Lamivudine/Zidovudine (n = 264) |
 | --- | --- | --- |
 | Nausea | 19% | 17% |
 | Headache | 13% | 9% |
@@ -44,7 +45,7 @@ Treatment-emergent (All Causality) Adverse Reactions of at Least Moderate Intens
 
 Five subjects receiving abacavir in CNA3005 experienced worsening of pre-existing depression compared with none in the indinavir arm.
 The background rates of pre-existing depression were similar in the 2 treatment arms.
-Abacavir Once Daily Versus Abacavir Twice Daily (CNA30021):Treatment-emergent clinical adverse reactions (rated by the investigator as at least moderate) with a greater than or equal to 5% frequency during therapy with abacavir 600 mg once daily or abacavir 300 mg twice daily both in combination with lamivudine 300 mg once daily and efavirenz 600 mg once daily from CNA30021, were similar.
+Abacavir Once Daily Versus Abacavir Twice Daily (CNA30021):Treatment-emergent clinical adverse reactions (rated by the investigator as at least moderate) with a greater than or equal to 5% frequency during therapy with abacavir 600 mg once daily or abacavir 300 mg twice daily, both in combination with lamivudine 300 mg once daily and efavirenz 600 mg once daily from CNA30021, were similar.
 For hypersensitivity reactions, subjects receiving abacavir once daily showed a rate of 9% in comparison with a rate of 7% for subjects receiving abacavir twice daily.
 However, subjects receiving abacavir 600 mg once daily experienced a significantly higher incidence of severe drug hypersensitivity reactions and severe diarrhea compared with subjects who received abacavir 300 mg twice daily.
 Five percent (5%) of subjects receiving abacavir 600 mg once daily had severe drug hypersensitivity reactions compared with 2% of subjects receiving abacavir 300 mg twice daily.
@@ -53,7 +54,7 @@ Laboratory Abnormalities: Laboratory abnormalities (Grades 3 to 4) in therapy-na
 Table 4.
 Laboratory Abnormalities (Grades 3 to 4) in Therapy-Naive Adults (CNA30024) through 48 Weeks of Treatment
 
-| Grade 3/4 Laboratory Abnormalities | Abacavirplus Lamivudine plus Efavirenz (n = 324) | Zidovudine plus Lamivudine plus Efavirenz (n = 325) |
+| Grade 3/4 Laboratory Abnormalities | Abacavir plus Lamivudine plus Efavirenz (n = 324) | Zidovudine plus Lamivudine plus Efavirenz (n = 325) |
 | --- | --- | --- |
 | Elevated CPK (>4 X ULN) | 8% | 8% |
 | Elevated ALT (>5 X ULN) | 6% | 6% |
@@ -70,7 +71,7 @@ Laboratory abnormalities in CNA3005 are listed in Table 5.
 Table 5.
 Treatment-Emergent Laboratory Abnormalities (Grades 3 to 4) in CNA3005
 
-| Grade 3/4 Laboratory Abnormalities | Abacavirplus Lamivudine/Zidovudine (n = 262) | Indinavir plus Lamivudine/Zidovudine (n = 264) |
+| Grade 3/4 Laboratory Abnormalities | Abacavir plus Lamivudine/Zidovudine (n = 262) | Indinavir plus Lamivudine/Zidovudine (n = 264) |
 | --- | --- | --- |
 | Elevated CPK (>4 x ULN) | 18 (7%) | 18 (7%) |
 | ALT (>5.0 x ULN) | 16 (6%) | 16 (6%) |
@@ -85,11 +86,11 @@ The frequencies of treatment-emergent laboratory abnormalities were comparable b
 
 ## 6.2 Clinical Trials Experience in Pediatric Subjects
 
-Therapy-Experienced Pediatric Subjects (Twice-daily Dosing) Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with abacavir 8 mg per kg twice daily, lamivudine 4 mg per kg twice daily, and zidovudine 180 mg per m 2twice daily compared with lamivudine 4 mg per kg twice daily and zidovudine 180 mg per m 2twice daily from CNA3006 are listed in Table 6.
+Therapy-Experienced Pediatric Subjects (Twice-Daily Dosing) Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with abacavir 8 mg per kg twice daily, lamivudine 4 mg per kg twice daily, and zidovudine 180 mg per m 2twice daily compared with lamivudine 4 mg per kg twice daily and zidovudine 180 mg per m 2twice daily from CNA3006 are listed in Table 6.
 Table 6.
 Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2 to 4, Greater than or Equal to 5% Frequency) in Therapy-Experienced Pediatric Subjects (CNA3006) through 16 Weeks of Treatment
 
-| Adverse Reaction | Abacavirplus Lamivudine plus Zidovudine (n = 102) | Lamivudine plus Zidovudine (n = 103) |
+| Adverse Reaction | Abacavir plus Lamivudine plus Zidovudine (n = 102) | Lamivudine plus Zidovudine (n = 103) |
 | --- | --- | --- |
 | Fever and/or chills Nausea and vomiting Skin rashes Ear/nose/throat infections Pneumonia Headache | 9% 9% 7% 5% 4% 1% | 7% 2% 1% 1% 5% 5% |
 

@@ -1,6 +1,4 @@
-# WARNING: RISK OF HYPERSENSITIVITY REACTIONS, LACTIC ACIDOSIS, AND SEVERE HEPATOMEGALY
-
-WARNING: HYPERSENSITIVITY REACTIONS
+# WARNING: HYPERSENSITIVITY REACTIONS
 
 Serious and sometimes fatal hypersensitivity reactions, with multiple organ involvement, have occured with abacavir tablets.
 Patients who carry the HLA-B*5701 allele are at a higher risk of a hypersensitivity reaction to abacavir; although, hypersensitivity reactions have occurred in patients who do not carry the HLA-B*5701 allele [see Warnings and Precautions (5.1)].
