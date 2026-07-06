@@ -9,53 +9,67 @@ Potentially any fetus exposed during pregnancy can be affected.
 There are no accurate means of determining prenatally whether an exposed fetus has been affected.
 Major congenital malformations, spontaneous abortions, and premature births have been documented following exposure to isotretinoin during pregnancy [see Use in Specific Populations (8.1)].
 
-If a pregnancy occurs during ABSORICA/ABSORICA LD treatment, discontinue ABSORICA/ABSORICA LD immediately and refer the patient to an obstetrician/gynecologist experienced in reproductive toxicity for further evaluation and counseling.
-Any suspected fetal exposure during or 1 month after ABSORICA/ABSORICA LD therapy must be reported immediately to the FDA via the MedWatch telephone number 1-800-FDA-1088, and also to the iPLEDGE pregnancy registry at 1-866-495-0654 or via the internet (www.ipledgeprogram.com).
+If a pregnancy occurs during ABSORICA/ABSORICA LD treatment, immediately discontinue ABSORICA/ABSORICA LD and refer the patient to an obstetrician/gynecologist experienced in reproductive toxicity for further evaluation and counseling.
+Immediately report any suspected fetal exposure during or 1 month after ABSORICA/ABSORICA LD treatment to the FDA via the MedWatch telephone number 1-800-FDA-1088, and also to the iPLEDGE pregnancy registry at 1-866-495-0654 or via the internet (www.ipledgeprogram.com).
 
-Patients must be informed not to donate blood during ABSORICA/ABSORICA LD therapy and for 1 month following discontinuation because the blood might be given to a pregnant patient whose fetus must not be exposed to isotretinoin.
+Patients must be informed not to donate blood during ABSORICA/ABSORICA LD treatment and for 1 month following discontinuation because the blood might be given to a pregnant patient whose fetus must not be exposed to isotretinoin.
 
 ABSORICA/ABSORICA LD is available only through a restricted program under a REMS [see Warnings and Precautions (5.2)].
 
-## 5.2 iPLEDGE Program
+## 5.2 iPLEDGE REMS
 
 ABSORICA/ABSORICA LD are available only through a restricted program under a REMS called the iPLEDGE REMS because of the risk of embryo-fetal toxicity [see Warnings and Precautions (5.1)].
+
 Notable requirements of the iPLEDGE REMS include the following:
 
-- •Prescribers must be certified with the program and comply with the following requirements: Determine reproductive status of all patients prior to initiating treatment
-- oProvide contraception counseling to patients who can get pregnant prior to and during treatment, or refer patients who can get pregnant to an expert for such counseling
-- oProvide scheduled pregnancy testing, and verify and document the negative pregnancy test result prior to writing each prescription, for no more than a 30-day supply
-- •Patients who can become pregnant must be enrolled by signing an informed consent form and must comply with the following requirements
-- oComply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.3)]
-- oDemonstrate comprehension of the safe-use conditions of the program every month
-- oObtain the prescription within 7 days of the pregnancy test collection
-- •Patients who cannot become pregnant must be enrolled by signing an informed consent form and must obtain the prescription within 30 days of the office visit
-- •Pharmacies that dispense ABSORICA/ABSORICA LD must be certified by being registered and activated in the program, must only dispense to patients who are authorized to receive ABSORICA/ABSORICA LD, and comply with the following requirements: o Only dispense a maximum of a 30-day supply with a Medication Guide. o Do not dispense refills.
-  Dispense only with a new prescription and a new authorization from the program. o Return ABSORICA/ABSORICA LD to inventory if patients do not obtain the prescription by the “Do Not Dispense To After” date
-- •Wholesalers and distributors must be registered with the program and must only distribute to certified pharmacies.
+- Prescribers must be certified in the REMS and comply with the REMS requirements, including the following:
+  - Assess the reproductive status of all patients prior to initiating treatment and during treatment.
+  - Counsel patients who cannot get pregnant on the risk and REMS requirements prior to initiating treatment.
+  - Counsel patients who can get pregnant on the risk and REMS requirements prior to and during treatment.
+  - Counsel patients who can get pregnant on pregnancy prevention requirements prior to and during treatment, or refer patients who can get pregnant to an expert for such counseling.
+  - Comply with the pregnancy testing requirements.
+  - Assess the pregnancy status for patients who can get pregnant by reviewing pregnancy tests and documenting a negative result prior to each prescription.
+  - Report all pregnancies to the REMS.
+
+- Patients who can get pregnant must be enrolled in the REMS and must comply with the REMS requirements, including the following
+
+- Comply with the pregnancy testing and pregnancy prevention requirements [seeUse in Specific Populations (8.3)].
+- Demonstrate comprehension of the risk and REMS requirements before each prescription is dispensed.
+- Obtain the prescription within the 7-day prescription window (i.e., within 7 days of the pregnancy test collection).
+
+- Patients who cannot get pregnant must be enrolled in the REMS and must comply with the REMS requirements, including to not share isotretinoin and not donate blood.
+
+- Pharmacies that dispense ABSORICA/ABSORICA LD must be certified in the REMS and must comply with the REMS requirements, including the following:
+
+- Obtain authorization to dispense and only dispense to patients who are authorized to receive ABSORICA/ABSORICA LD.
+- Dispense a maximum of a 30-day supply with a Medication Guide.
+- Do not dispense refills.
+
+- Wholesalers and distributors must be registered in the REMS and must only distribute to certified pharmacies.
 
 Further information, including a list of qualified pharmacies and distributors, is available at www.ipledgeprogram.com or 1-866-495-0654.
 
 ## 5.3 ABSORICA and ABSORICA LD are Not Substitutable
 
-Given that the bioavailability and the recommended dosage of ABSORICA and ABSORICA LD are different, ABSORICA and ABSORICA LD are not substitutable.
+Given that the bioavailability and the recommended dosage of ABSORICA and ABSORICA LD are different, ABSORICA and ABSORICA LD are not substitutableon a mg per mg basis.
 For example, ABSORICA and ABSORICA LD have a 20 mg strength; however, these strengths have different bioavailability and are not substitutable.
 
 ## 5.4 Psychiatric Disorders
 
-ABSORICA/ABSORICA LD may cause depression, psychosis and, rarely, suicidal ideation, suicide attempts, suicide, and aggressive and/or violent behaviors [see Adverse Reactions (6)].
+ABSORICA/ABSORICA LD may cause depression, psychosis and, rarely, suicidal ideation, suicide attempts, suicide, and aggressive and/or violent behaviors [seeAdverse Reactions (6)].
 
-Healthcare providers should be alert to the warning signs of psychiatric disorders to help ensure patients receive the help they need (Prescribers should read the brochure, Recognizing Psychiatric Disorders in Adolescents and Young Adults: A Guide for Prescribers of Isotretinoin).
-Prior to initiation of ABSORICA/ABSORICA LD therapy, patients and family members should be asked about any history of psychiatric disorder, and at each visit during therapy patients should be assessed for symptoms of depression, mood disturbance, psychosis, or aggression to determine if further evaluation is necessary.
+Be alert to the warning signs of psychiatric disorders to help ensure patients receive the help they need (Prescribers should read the REMS educational material on recognizing psychiatric disorders).
+Prior to initiation of ABSORICA/ABSORICA LD treatment, ask patients and family members about any history of psychiatric disorder, and at each visit during treatment assess patients for symptoms of depression, mood disturbance, psychosis, or aggression to determine if further evaluation is necessary.
 
-Patients should immediately stop ABSORICA/ABSORICA LD and the patient (or caregiver) should promptly contact their prescriber if the patient develops depression, mood disturbance, psychosis, or aggression.
+If a patient develops depression, mood disturbance, psychosis, or aggression, instruct patients (or caregivers) to immediately stop ABSORICA/ABSORICA LD and promptly contact their health care provider.
 Discontinuation of ABSORICA/ABSORICA LD may be insufficient; further evaluation may be necessary such as a referral to a mental healthcare professional.
 
 ## 5.5 Intracranial Hypertension (Pseudotumor Cerebri)
 
 Isotretinoin use has been associated with cases of intracranial hypertension (pseudotumor cerebri), some of which involved concomitant use of tetracyclines.
-Concomitant treatment with tetracyclines should therefore be avoided with ABSORICA/ABSORICA LD use.
+Avoid concomitant use of ABSORICA/ABSORICA LD with tetracyclines [see Drug Interactions (7.2)].
 Early signs and symptoms of intracranial hypertension include papilledema, headache, nausea and vomiting, and visual disturbances.
-Patients with these symptoms should be screened for papilledema and, if present, they should be told to discontinue ABSORICA/ABSORICA LD immediately and be referred to a neurologist for further diagnosis and care [see Adverse Reactions (6)].
+Screen patients with these symptoms for papilledema and, if present, immediately discontinue ABSORICA/ABSORICA LD and refer the patient to a neurologist for further diagnosis and care [see Adverse Reactions (6)].
 
 ## 5.6 Serious Skin Reactions
 
@@ -79,12 +93,12 @@ The cardiovascular consequences of hypertriglyceridemia associated with isotreti
 
 Fasting lipid tests should be performed before ABSORICA/ABSORICA LD treatment and then at intervals until the lipid response to ABSORICA/ABSORICA LD is known, which usually occurs within 4 weeks.
 Careful consideration should be given to risk/benefit of ABSORICA/ABSORICA LD in patients who are at higher risk of hypertriglyceridemia (e.g., patients with diabetes, obesity, increased alcohol intake, lipid metabolism disorder or familial history of lipid metabolism disorder).
-If ABSORICA/ABSORICA LD therapy is instituted in such patients, more frequent checks of serum values for lipids are recommended [see Warnings and Precautions (5.15)].
+If ABSORICA/ABSORICA LD treatment is instituted in such patients, more frequent checks of serum values for lipids are recommended [see Warnings and Precautions (5.15)].
 ABSORICA/ABSORICA LD should be stopped if hypertriglyceridemia cannot be controlled.
 
 ## 5.9 Hearing Impairment
 
-Impaired hearing has been reported in patients taking isotretinoin; in some cases, the hearing impairment has been reported to persist after therapy has been discontinued.
+Impaired hearing has been reported in patients taking isotretinoin; in some cases, the hearing impairment has been reported to persist after treatment has been discontinued.
 Mechanism(s) and causality for this reaction have not been established.
 Patients who experience tinnitus or hearing impairment should discontinue ABSORICA/ABSORICA LD treatment and be referred for specialized care for further evaluation.
 
@@ -105,41 +119,43 @@ Patients experiencing abdominal pain, rectal bleeding or severe diarrhea should 
 Bone Mineral Density Changes, Osteoporosis, and Fractures
 
 Isotretinoin may have a negative effect on bone mineral density (BMD) in some patients.
-In a clinical trial of ABSORICA and another isotretinoin capsule product, 27/306 (9%) of adolescents had BMD declines, defined as ≥ 4% lumbar spine or total hip, or ≥ 5% femoral neck, during the 20-week treatment period.
+In a clinical trial of ABSORICA and another isotretinoin capsule product, 27/306 (9%) of pediatric subjects 12 years of age and older had BMD declines, defined as ≥ 4% lumbar spine or total hip, or ≥ 5% femoral neck, during the 20-week treatment period.
 Repeat scans conducted within 2 to 3 months after the post-treatment scan showed no recovery of BMD.
-Long-term data at 4 to 11 months showed that 3 out of 7 patients had total hip and femoral neck BMD below pre-treatment baseline, and 2 others did not show the increase in BMD above baseline expected in this adolescent population.
-Therefore, healthcare providers should use caution when prescribing ABSORICA/ABSORICA LD to patients with a history of childhood osteoporosis conditions, osteomalacia, or other disorders of bone metabolism.
-This would include patients diagnosed with anorexia nervosa and those who are on chronic drug therapy that causes drug-induced osteoporosis/osteomalacia and/or affects vitamin D metabolism, such as systemic corticosteroids and any anticonvulsant [see Use in Specific Populations (8.4)].
+Long-term data at 4 to 11 months showed that 3 out of 7 subjects had total hip and femoral neck BMD below pre-treatment baseline, and 2 others did not show the increase in BMD above baseline expected in this pediatric population.
+Therefore, healthcare providers should use caution when prescribing ABSORICA/ABSORICA LD to patients with a history of childhood osteoporosis conditions, osteomalacia, or other disorders of bone metabolism or patients diagnosed with anorexia nervosa [see Use in Specific Populations (8.4)].
 
-There have been spontaneous reports of osteoporosis, osteopenia, fractures and/or delayed healing of fractures in patients while on therapy with isotretinoin or following cessation of therapy with isotretinoin.
+There have been spontaneous reports of osteoporosis, osteopenia, fractures and/or delayed healing of fractures in patients while on treatment with isotretinoin or following cessation of treatment with isotretinoin.
+
+Patients in early and late adolescence who participate in sports with repetitive impact may be at an increased risk of spondylolisthesis with and without pars fractures, and hip growth plate injuries have been reported.
+
+There have been spontaneous reports of osteoporosis, osteopenia, fractures and/or delayed healing of fractures in patients while on treatment with isotretinoin or following cessation of treatment with isotretinoin.
 
 Patients in early and late adolescence who participate in sports with repetitive impact may be at an increased risk of spondylolisthesis with and without pars fractures, and hip growth plate injuries have been reported.
 
 Musculoskeletal Abnormalities
 
-Approximately 16% of patients treated with isotretinoin capsules in a clinical trial developed musculoskeletal symptoms (including arthralgia) during treatment.
+Approximately 16% of subjects treated with isotretinoin capsules in a clinical trial developed musculoskeletal symptoms (including arthralgia) during treatment.
 In general, these symptoms were mild to moderate, but occasionally required discontinuation of isotretinoin.
 
-In a trial of pediatric patients treated with isotretinoin capsules, approximately 29% (104/358) developed back pain.
-Back pain was severe in 14% (14/104) of the cases and occurred at a higher frequency in female patients than male patients.
-
-Arthralgias were experienced in 22% (79/358) of pediatric patients.
-Arthralgias were severe in 8% (6/79) of patients.
-Appropriate evaluation of the musculoskeletal system should be done in patients who present with these symptoms during or after a course of ABSORICA/ABSORICA LD.
+In a trial of pediatric subjects treated with isotretinoin capsules, approximately 29% (104/358) developed back pain.
+Back pain was severe in 14% (14/104) of the cases and occurred at a higher frequency in female subjects than male subjects.
+Arthralgias were experienced in 22% (79/358) of pediatric subjects.
+Arthralgias were severe in 8% (6/79) of subjects.
+Evaluate the musculoskeletal system of patients who present with these symptoms during or after a course of ABSORICA/ABSORICA LD.
 Consider discontinuing ABSORICA/ABSORICA LD if any significant abnormality is found.
 
 Effects of multiple courses of isotretinoin on the developing musculoskeletal system are unknown.
-There is some evidence that long-term, high-dose, or multiple courses of therapy with isotretinoin have more of an effect than a single course of therapy on the musculoskeletal system.
-It is important that ABSORICA/ABSORICA LD be given at the recommended dose for no longer than the recommended duration.
+There is some evidence that long-term, high-dose, or multiple courses of treatment with isotretinoin have more of an effect than a single course of treatment on the musculoskeletal system.
+It is important to administer ABSORICA/ABSORICA LD at the recommended dose for no longer than the recommended duration.
 
 Hyperostosis
 
 A high prevalence of skeletal hyperostosis was noted in clinical trials for disorders of keratinization with a mean dose of 2.24 mg/kg/day of isotretinoin capsules (approximately 1.1 times the maximum recommended daily dosage).
 Additionally, skeletal hyperostosis was noted in 6 of 8 patients in a prospective trial of disorders of keratinization.
-Minimal skeletal hyperostosis and calcification of ligaments and tendons have also been observed by x-ray in prospective trials of nodular acne patients treated with a single course of therapy at recommended doses.
+Minimal skeletal hyperostosis and calcification of ligaments and tendons have also been observed by x-ray in prospective trials of nodular acne patients treated with a single course of treatment at recommended doses.
 The skeletal effects of multiple isotretinoin treatment courses for acne are unknown.
 
-In a clinical trial of 217 pediatric patients (12 to 17 years) with severe recalcitrant nodular acne, hyperostosis was not observed after 16 to 20 weeks of treatment with approximately 1 mg/kg/day of isotretinoin capsules given in two divided doses.
+In a clinical trial of 217 pediatric subjects 12 years of age and older with severe recalcitrant nodular acne, hyperostosis was not observed after 16 to 20 weeks of treatment with approximately 1 mg/kg/day of isotretinoin capsules given in two divided doses.
 Hyperostosis may require a longer time frame to appear.
 The clinical course and significance remain unknown.
 
@@ -148,22 +164,22 @@ Premature Epiphyseal Closure
 There are spontaneous literature reports of premature epiphyseal closure in acne patients receiving recommended doses of isotretinoin capsules.
 The effect of multiple courses of isotretinoin on epiphyseal closure is unknown.
 
-In a 20-week clinical trial that included 289 adolescents on ABSORICA or another isotretinoin capsule product who had hand radiographs taken to assess bone age, a total of 9 (3%) patients had bone age changes that were clinically significant and for which a drug-related effect cannot be excluded.
+In a 20-week clinical trial that included 289 pediatric subjects 12 years of age and older on ABSORICA or another isotretinoin capsule product who had hand radiographs taken to assess bone age, a total of 9 (3%) subjects had bone age changes that were clinically significant and for which a drug-related effect cannot be excluded.
 
 ## 5.13 Ocular Abnormalities
 
-Visual problems should be carefully monitored.
+Carefully monitor for visual problems.
 If visual difficulties occur, discontinue ABSORICA/ABSORICA LD treatment and obtain an ophthalmological examination [see Adverse Reactions (6)].
 
 Corneal Opacities
 
 Corneal opacities have occurred in patients receiving isotretinoin capsules and more frequently when higher drug dosages were used in patients with disorders of keratinization.
-The corneal opacities that have been observed in clinical trial patients treated with isotretinoin capsules have either completely resolved or were resolving at follow-up 6 to 7 weeks after discontinuation of isotretinoin [see Adverse Reactions (6)].
+The corneal opacities that have been observed in clinical trial subjects treated with isotretinoin capsules have either completely resolved or were resolving at follow-up 6 to 7 weeks after discontinuation of isotretinoin [see Adverse Reactions (6)].
 
 Decreased Night Vision
 
-Decreased night vision has been reported during isotretinoin use and in some instances the event has persisted after therapy was discontinued.
-Because the onset in some patients was sudden, patients should be advised of this potential problem and warned to be cautious when driving or operating any vehicle at night.
+Decreased night vision has been reported during isotretinoin use and in some instances the event has persisted after treatment was discontinued.
+Because the onset in some patients was sudden, advise patients of this potential problem and warn patients to be cautious when driving or operating any vehicle at night.
 
 Dry Eyes
 
@@ -187,34 +203,25 @@ Thus, in patients with allergic reactions to tartrazine, avoid using the 25 mg A
 
 Laboratory Monitoring
 
-Pregnancy Testing
+Pregnancy Testing: Obtain a screening and confirmatory pregnancy test prior to treatment initiation.
+Repeat a pregnancy test prior to each prescription, at the end of the entire course of ABSORICA/ABSORICA LD treatment, and 1 month after the discontinuation of ABSORICA/ABSORICA LD (8.3)].
 
-A pregnancy test must be obtained prior to obtaining a prescription, repeated each month, at the end of the entire course of ABSORICA/ABSORICA LD therapy and 1 month after the discontinuation of ABSORICA/ABSORICA LD [see Use in Specific Populations (8.3)].
-
-Lipid Tests
-
-Pretreatment and follow-up fasting lipid tests should be obtained under fasting conditions.
-After consumption of alcohol, at least 36 hours should elapse before testing is performed.
+Lipid Tests: Obtain pretreatment and follow-up fasting lipid tests under fasting conditions.
+Wait 36 hours after consumption of alcohol before testing is performed.
 It is recommended that these tests be performed periodically until the lipid response to ABSORICA/ABSORICA LD is known.
 The incidence of hypertriglyceridemia is 25% in patients treated with isotretinoin capsules [see Warnings and Precautions (5.8)].
 
-Liver Function Tests
-
-As elevations of liver enzymes have been observed during clinical trials, and hepatitis has been reported in patients on isotretinoin capsules, pretreatment and follow-up liver function tests should be performed periodically until the response to ABSORICA/ABSORICA LD is known [see Warnings and Precautions (5.10)].
+Liver Function Tests: As elevations of liver enzymes have been observed during clinical trials, and hepatitis has been reported in patients on isotretinoin capsules, perform pretreatment and follow-up liver function tests periodically until the response to ABSORICA/ABSORICA LD is known (5.10)].
 
 Additional Laboratory Abnormalities
 
-Glucose
-
-With isotretinoin use, some patients have experienced problems in the control of their blood sugar.
+Glucose: With isotretinoin use, some patients have experienced problems in the control of their blood sugar.
 In addition, new cases of diabetes have been diagnosed during isotretinoin use.
 
-CPK
-
-Some patients undergoing vigorous physical activity while taking isotretinoin have experienced elevated CPK levels; however, the clinical significance is unknown.
+CPK: Some patients undergoing vigorous physical activity while taking isotretinoin have experienced elevated CPK levels; however, the clinical significance is unknown.
 There have been rare postmarketing reports of rhabdomyolysis with isotretinoin use, some associated with strenuous physical activity.
-In a clinical trial of 924 patients, marked elevations in CPK (≥350 U/L) were observed in approximately 24% of patients treated with isotretinoin capsules.
+In a clinical trial of 924 subjects, marked elevations in CPK (≥350 U/L) were observed in approximately 24% of subjects treated with isotretinoin capsules.
 
-In another clinical trial of 217 pediatric patients (12 to 17 years old) elevations in CPK were observed in 12% of patients, including those undergoing strenuous physical activity in association with reported musculoskeletal adverse events such as back pain, arthralgia, limb injury, or muscle sprain.
-In these patients, approximately half of the CPK elevations returned to normal within 2 weeks and half returned to normal within 4 weeks.
+In another clinical trial of 217 pediatric subjects 12 years of age and older elevations in CPK were observed in 12% of subjects, including those undergoing strenuous physical activity in association with reported musculoskeletal adverse events such as back pain, arthralgia, limb injury, or muscle sprain.
+In these subjects, approximately half of the CPK elevations returned to normal within 2 weeks and half returned to normal within 4 weeks.
 No cases of rhabdomyolysis were reported in this clinical trial.

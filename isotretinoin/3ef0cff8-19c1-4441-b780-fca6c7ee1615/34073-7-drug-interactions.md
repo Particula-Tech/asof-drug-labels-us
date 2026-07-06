@@ -2,26 +2,15 @@
 
 ## 7.1 Vitamin A
 
-ABSORICA/ABSORICA LD is closely related to vitamin A. Therefore, the use of both vitamin A and ABSORICA/ABSORICA LD at the same time may lead to vitamin A related adverse reactions.
-Patients treated with ABSORICA/ABSORICA LD should be advised against taking supplements containing Vitamin A to avoid additive toxic effects.
+Avoid concomitant use of ABSORICA/ABSORICA LD with supplements containing vitamin A.
+
+ABSORICA/ABSORICA LD is closely related to vitamin A. Therefore, concomitant use of ABSORICA/ABSORICA LD with vitamin A may lead to ABSORICA/ABSORICA LD-associated adverse reactions.
 
 ## 7.2 Tetracyclines
 
-Concomitant treatment with ABSORICA/ABSORICA LD and tetracyclines should be avoided because isotretinoin use has been associated with a number of cases of intracranial hypertension (pseudotumor cerebri), some of which involved concomitant use of tetracyclines [see Warnings and Precautions (5.5)].
+Avoid concomitant use of ABSORICA/ABSORICA LD with tetracyclines because isotretinoin use has been associated with a number of cases of intracranial hypertension (pseudotumor cerebri), some of which involved concomitant use of tetracyclines [see Warnings and Precautions (5.5)].
 
-## 7.3 Phenytoin
+## 7.3 Oral Contraceptives
 
-Phenytoin is known to cause osteomalacia.
-No formal clinical trials have been conducted to assess if there is an interactive effect on bone loss between phenytoin and isotretinoin.
-Therefore, caution should be exercised when using these drugs together.
-
-## 7.4 Systemic Corticosteroids
-
-Systemic corticosteroids are known to cause osteoporosis.
-No formal clinical trials have been conducted to assess if there is an interactive effect on bone loss with concomitant use of systemic corticosteroids and isotretinoin.
-Therefore, caution should be exercised when using these drugs together.
-
-## 7.5 Norethindrone/ethinyl estradiol
-
-In a trial of 31 premenopausal female patients with severe recalcitrant nodular acne receiving norethindrone and ethinyl estradiol as an oral contraceptive agent, isotretinoin capsules within the recommended dosage, did not induce clinically relevant changes in the pharmacokinetics of ethinyl estradiol and norethindrone and in the serum levels of progesterone, follicle-stimulating hormone (FSH) and luteinizing hormone (LH).
-Although this study did not show any clinically significant interaction between isotretinoin and norethindrone, it is not known if there is an interaction between isotretinoin with other progestins.
+Isotretinoin Capsules did not result in clinically significant changes in the pharmacokinetics of norethindrone and ethinyl estradiol when used concomitantly with a norethindrone and ethinyl estradiol oral contraceptive [see Clinical Pharmacology (12.3)].
+It is not known if there is an interaction with the concomitant use of ABSORICA/ABSORICA LD with other oral contraceptives.

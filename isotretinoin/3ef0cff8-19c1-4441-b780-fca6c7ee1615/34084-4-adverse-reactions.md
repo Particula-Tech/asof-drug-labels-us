@@ -2,20 +2,20 @@
 
 The following adverse reactions with ABSORICA/ABSORICA LD or other isotretinoin capsule products are described in more detail in other sections of the labeling:
 
-- •Embryo-Fetal Toxicity [see Warnings and Precautions (5.1)]
-- •Psychiatric Disorders [see Warnings and Precautions (5.4)]
-- •Intracranial Hypertension (Pseudotumor Cerebri) [see Warnings and Precautions (5.5)]
-- •Serious Skin Reactions [see Warnings and Precautions (5.6)]
-- •Pancreatitis [see Warnings and Precautions (5.7)]
-- •Lipid Abnormalities [see Warnings and Precautions (5.8)]
-- •Hearing Impairment [see Warnings and Precautions (5.9)]
-- •Hepatotoxicity [see Warnings and Precautions (5.10)]
-- •Inflammatory Bowel Disease [see Warnings and Precautions (5.11)]
-- •Musculoskeletal Abnormalities [see Warnings and Precautions (5.12)]
-- •Ocular Abnormalities [see Warnings and Precautions (5.13)]
-- •Hypersensitivity Reactions [see Warnings and Precautions (5.14)]
+- Embryo-Fetal Toxicity [see Warnings and Precautions (5.1)]
+- Psychiatric Disorders [see Warnings and Precautions (5.4)]
+- Intracranial Hypertension (Pseudotumor Cerebri) [see Warnings and Precautions (5.5)]
+- Serious Skin Reactions [see Warnings and Precautions (5.6)]
+- Pancreatitis [see Warnings and Precautions (5.7)]
+- Lipid Abnormalities [see Warnings and Precautions (5.8)]
+- Hearing Impairment [see Warnings and Precautions (5.9)]
+- Hepatotoxicity [see Warnings and Precautions (5.10)]
+- Inflammatory Bowel Disease [see Warnings and Precautions (5.11)]
+- Musculoskeletal Abnormalities [see Warnings and Precautions (5.12)]
+- Ocular Abnormalities [see Warnings and Precautions (5.13)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.14)]
 
-The following adverse reactions associated with the use of isotretinoin capsules were identified in clinical studies or postmarketing reports.
+The following adverse reactions associated with the use of isotretinoin capsules were identified in clinical trials or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Dose Relationship
@@ -64,8 +64,8 @@ Headache, syncope, intracranial hypertension (pseudotumor cerebri), dizziness, d
 
 Psychiatric
 
-Suicidal ideation, insomnia, anxiety, depression, irritability, panic attack, anger, euphoria, violent behaviors, emotional instability, suicide attempts, suicide, aggression, psychosis and auditory hallucinations.
-Of the patients reporting depression, some reported that the depression subsided with discontinuation of therapy and recurred with reinstitution of therapy.
+Suicidal ideation, insomnia, anxiety, depression, irritability, panic attack, anger, violent behaviors, emotional instability, suicide attempts, suicide, aggression, psychosis and auditory hallucinations.
+Of the patients reporting depression, some reported that the depression subsided with discontinuation of treatment and recurred with reinstitution of treatment.
 
 Reproductive System
 

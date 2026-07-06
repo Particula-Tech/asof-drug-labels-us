@@ -2,14 +2,15 @@
 
 ## 12.1 Mechanism of Action
 
-ABSORICA/ABSORICA LD is a retinoid, which when administered at the recommended dosage [see Dosage and Administration (2.1)], inhibits sebaceous gland function and keratinization.
+The exact mechanism of action of ABSORICA/ABSORICA LD in the treatment of severe recalcitrant nodular acne in non-pregnant patients 12 years of age and older with multiple inflammatory nodules with a diameter of 5 mm or greater who are unresponsive to conventional therapy, including systemic antibiotics is unknown.
+
+ABSORICA/ABSORICA LD is a retinoid, which inhibits sebaceous gland function and keratinization.
 Clinical improvement in nodular acne patients occurs in association with a reduction in sebum secretion.
-The decrease in sebum secretion is temporary and is related to the dose and duration of treatment with isotretinoin capsules and reflects a reduction in sebaceous gland size and an inhibition of sebaceous gland differentiation.
-The exact mechanism of action of ABSORICA/ABSORICA LD in the treatment of severe recalcitrant nodular acne is unknown.
+The decrease in sebum secretion is temporary and reflects a reduction in sebaceous gland size and an inhibition of sebaceous gland differentiation.
 
 ## 12.2 Pharmacodynamics
 
-The pharmacodynamics of ABSORICA/ABSORICA LD are unknown.
+Decreased sebum secretion is related to the dose and duration of treatment with ABSORICA/ABSORICA LD.
 
 ## 12.3 Pharmacokinetics
 
@@ -64,4 +65,7 @@ In both age groups, 4-oxo-isotretinoin was the major metabolite; tretinoin and 4
 
 Drug Interaction Studies
 
-No clinically significant differences in the pharmacokinetics of phenytoin (CYP2C9 substrate) were observed when used concomitantly with isotretinoin.
+Phenytoin: No clinically significant differences in the pharmacokinetics of phenytoin (CYP2C9 substrate) were observed when used concomitantly with isotretinoin.
+
+Norethindrone and Ethinyl Estradiol: There were no clinically significant differences in the pharmacokinetics of norethindrone and ethinyl estradiol after the concomitant use of Isotretinoin Capsules 1 mg/kg/day with an oral contraceptive in premenopausal female patients with severe recalcitrant nodular acne.
+Additionally, there were no clinically significant differences in the serum levels of progesterone, follicle-stimulating hormone and luteinizing hormone in the serum levels of progesterone, follicle-stimulating hormone and luteinizing hormone in these patients.

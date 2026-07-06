@@ -1,9 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-## 4.1 Pregnancy
+ABSORICA/ABSORICA LD is contraindicated in:
 
-ABSORICA/ABSORICA LD is contraindicated in pregnancy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
-
-## 4.2 Hypersensitivity
-
-ABSORICA/ABSORICA LD is contraindicated in patients with hypersensitivity to isotretinoin (or Vitamin A, given the chemical similarity to isotretinoin) or to any of its components (anaphylaxis and other allergic reactions have occurred) [see Warnings and Precautions (5.14)].
+- Pregnancy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+- Patients with hypersensitivity to isotretinoin (or Vitamin A, given the chemical similarity to isotretinoin) or to any of its components (anaphylaxis and other allergic reactions have occurred) [see Warnings and Precautions (5.14)].

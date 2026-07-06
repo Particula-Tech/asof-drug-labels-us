@@ -5,23 +5,26 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Embryo-Fetal Toxicity
 
 There is an extremely high risk of life-threatening birth defects when ABSORICA/ABSORICA LD is used in pregnancy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
-Instruct patients who can become pregnant that they must not be pregnant during or up to one month after ABSORICA/ABSORICA LD therapy.
-Instruct patients to not donate blood during ABSORICA/ABSORICA LD therapy and for 1 month following discontinuation to avoid blood donation to a pregnant patient.
+Instruct patients who can become pregnant that they must not be pregnant during or up to 1 month after ABSORICA/ABSORICA LD treatment.
+Instruct patients to not donate blood during ABSORICA/ABSORICA LD treatment and for 1 month following discontinuation to avoid blood donation to a pregnant patient.
 
-iPLEDGE
+iPLEDGE REMS
 
-ABSORICA and ABSORICA LD are available only through a restricted program called iPLEDGE [see Warnings and Precautions (5.2)].
-Inform patients who can become pregnant of the following notable requirements.
+ABSORICA and ABSORICA LD are available only through a restricted program called the iPLEDGE REMS [see Warnings and Precautions (5.2)].
+Inform patients who can get pregnant of the following notable requirements.
 These patients must:
 
-- •Sign an informed consent form to be enrolled in the program
-- •Comply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.3)]
-- •Demonstrate comprehension of the safe-use conditions of the program every month
-- •Obtain the prescription within 7 days of the pregnancy test collection
+- Enroll in the REMS
+- Comply with REMS requirements including:
+  - Comply with the pregnancy testing and pregnancy prevention requirements [see Use in Specific Populations (8.3)].
+  - Demonstrate comprehension of the risk and REMS requirements prior to each prescription.
+  - Obtain the prescription within the 7-day prescription window (i.e., within 7 days of the pregnancy test collection).
+  - Inform their prescriber if they get pregnant and stop treatment.
 
-Inform patients who cannot become pregnant of the following notable requirements.
-These patients must sign an informed consent form to enroll in the program and they must obtain the prescription within 30 days of the office visit.
-ABSORICA/ABSORICA LD is available only from certified pharmacies participating in the program.
+Inform patients who cannot get pregnant of the following notable requirements.
+These patients must enroll in the REMS and comply with the REMS requirements.
+
+ABSORICA/ABSORICA LD is available only from certified pharmacies participating in the REMS.
 Therefore, provide patients with the telephone number and website for information on how to obtain ABSORICA/ABSORICA LD [see Warnings and Precautions (5.2)].
 
 Lactation
@@ -30,15 +33,11 @@ Because of the potential for serious adverse reactions in nursing infants from i
 
 Psychiatric Disorders
 
-Instruct patients and/or their caregivers/families that ABSORICA/ABSORICA LD may cause depression, psychosis, suicidal ideation, suicide attempts, and aggressive or violent behavior.
-Instruct patients to read the Recognizing Psychiatric Disorders in Adolescents and Young Adults brochure prior to taking ABSORICA/ABSORICA LD.
-Instruct patients to stop ABSORICA/ABSORICA LD and to contact a healthcare provider if they develop any of these signs or symptoms [see Warnings and Precautions (5.4)].
+Because of the potential for serious adverse reactions in nursing infants from isotretinoin, advise patients that breastfeeding is not recommended during treatment with ABSORICA/ABSORICA LD, and for at least 8 days after the last dose of ABSORICA/ABSORICA LD [see Warnings and Precautions (5.4)].
 
 Important Administration Instructions
 
-To decrease the risk of esophageal irritation, instruct patients to swallow the capsules with a full glass of liquid [see
-
-Dosage and Administration (2.1)].
+To decrease the risk of esophageal irritation, instruct patients to swallow the capsules with a full glass of liquid [seeDosage and Administration (2.1)].
 
 Intracranial Hypertension (Pseudotumor Cerebri)
 
@@ -51,23 +50,22 @@ Advise patients that severe skin reactions (Stevens-Johnson syndrome and toxic e
 
 Inflammatory Bowel Disease
 
-Advise patients that inflammatory bowel disease (including regional ileitis) have occurred with isotretinoin use including those without a prior history of IBD and if they experience IBD symptoms, they should discontinue
-
-ABSORICA/ABSORICA LD immediately [see Warnings and Precautions (5.11)].
+Advise patients that inflammatory bowel disease (including regional ileitis) have occurred with isotretinoin use including those without a prior history of IBD and if they experience IBD symptoms, to discontinue ABSORICA/ABSORICA LD immediately [see Warnings and Precautions (5.11)].
 
 Musculoskeletal Abnormalities
 
 Inform patients that:
 
-- •There have been reports of osteoporosis and fractures and that isotretinoin may have a negative effect on bone mineral density [see Warnings and Precautions (5.12)].
-- •Isotretinoin use has been associated with musculoskeletal abnormalities (e.g., arthralgia, back pain) [see Warnings and Precautions (5.12)].
+- There have been reports of osteoporosis and fractures and that isotretinoin may have a negative effect on bone mineral density [see Warnings and Precautions (5.12)].
+- Isotretinoin use has been associated with musculoskeletal abnormalities (e.g., arthralgia, back pain) [see Warnings and Precautions (5.12)].
 
-Inform adolescents and their families that isotretinoin use in adolescents who participated in sports with repetitive impact increase their risk of spondylolisthesis or hip growth plate injuries [see Warnings and Precautions (5.12)].
+Inform pediatric patients and their families that isotretinoin use in pediatric patients who participated in sports with repetitive impact increased their risk of spondylolisthesis or hip growth plate injuries [see Warnings and Precautions (5.12)].
+
 Inform pediatric patients and their caregivers that pediatric patients treated with isotretinoin capsules developed back pain including severe back pain, and arthralgias including severe arthralgias [see Use in Specific Populations (8.4)].
 
 Ocular Abnormalities
 
-Inform patients that they may experience dry eyes, corneal opacities, and decreased night vision and contact lens wearers may experience decreased tolerance to contact lenses during and after therapy [see Warnings and Precautions (5.13)].
+Inform patients that they may experience dry eyes, corneal opacities, and decreased night vision and contact lens wearers may experience decreased tolerance to contact lenses during and after treatment [see Warnings and Precautions (5.13)].
 
 Rhabdomyolysis
 
@@ -85,13 +83,17 @@ Additional Instructions
 
 Inform patients:
 
-- •To not share ABSORICA/ABSORICA LD with anyone else because of the risk of birth defects and other serious adverse reactions.
-- •That transient exacerbation (flare) of acne has been seen, generally during the initial period of therapy.
-- •That wax epilation and skin resurfacing procedures (such as dermabrasion, laser) should be avoided during ABSORICA/ABSORICA LD therapy and for at least 6 months thereafter due to the possibility of scarring.
-- •To avoid prolonged exposure to UV rays or sunlight.
+- To not share ABSORICA/ABSORICA LD with anyone else because of the risk of birth defects and other serious adverse reactions.
+- That transient exacerbation (flare) of acne has been seen, generally during the initial period of treatment.
+- To avoid wax epilation and skin resurfacing procedures (such as dermabrasion, laser) during ABSORICA/ABSORICA LD treatment and for at least 6 months thereafter due to the possibility of scarring.
+- To avoid prolonged exposure to UV rays or sunlight.
+
+Manufactured by: ABSORICA Galephar Pharmaceutical Research, Inc. Humacao, PR 00792
+
+ABSORICA LD Ohm Laboratories Inc. New Brunswick, NJ 08901
 
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
 ABSORICA and ABSORICA LD are registered trademarks of Sun Pharmaceutical Industries, Inc. All other trademarks are property of their respective owners.
 
-ABSORICA LD 8 mg, 16 mg, 20 mg, 24 mg, 28 mg and 32 mg is protected by US Patent No. US 9,700,535 and US 9,750,711.
+ABSORICA LD 8 mg, 16 mg, 20 mg, 24 mg, 28 mg and 32 mg are protected by US Patent No. US 9,700,535 and US 9,750,711.
