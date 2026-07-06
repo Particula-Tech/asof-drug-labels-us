@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs that May Affect the Neuromuscular Blocking Action of succinylcholine chloride injection
+## 7.1 Drugs that May Affect the Neuromuscular Blocking Action of Succinylcholine Chloride Injection
 
 Drugs that may enhance the neuromuscular blocking action of succinylcholine include: promazine, oxytocin, aprotinin, certain non-penicillin antibiotics, quinidine, β-adrenergic blockers, procainamide, lidocaine, trimethaphan, lithium carbonate, magnesium salts, quinine, chloroquine, isoflurane, desflurane, metoclopramide, and terbutaline.
 

@@ -60,7 +60,7 @@ If a suitable vein is inaccessible, succinylcholine chloride injection may be ad
 The total dose administered by the intramuscular route should not exceed 150 mg.
 The onset of effect of succinylcholine given intramuscularly is usually observed in about 2 to 3 minutes.
 
-## 2.5 Preparation of succinylcholine chloride injection
+## 2.5 Preparation of Succinylcholine Chloride Injection
 
 Succinylcholine chloride injection supplied in single-dose vials must be diluted before use.
 Succinylcholine chloride injection supplied in multiple-dose vials does not require dilution before use.
