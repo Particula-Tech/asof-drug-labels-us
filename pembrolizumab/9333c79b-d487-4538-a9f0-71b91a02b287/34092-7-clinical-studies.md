@@ -2225,7 +2225,52 @@ Table 112: Efficacy Results in KEYNOTE-522
 | Figure 45: Kaplan-Meier Curve for Overall Survival in KEYNOTE-522 |
 | --- |
 
-Locally Recurrent Unresectable or Metastatic TNBC for Tumors Expressing PD-L1 (CPS≥ 10)
+Unresectable Locally Advanced or Metastatic TNBC for Tumors Expressing PD-L1 (CPS≥ 10)
+
+The efficacy of KEYTRUDA in combination with sacituzumab govitecan-hziy was evaluated in KEYNOTE-D19 (NCT05382286), a multicenter, open-label, randomized, active-controlled trial that enrolled 443 patients with unresectable locally advanced or metastatic TNBC, who had not been previously treated with systemic therapy for advanced disease and whose tumors express PD-L1 expression (CPS ≥10) according to the PD-L1 IHC 22C3 pharmDx assay.
+Patients may have received chemotherapy with or without a PD-1 or PD-L1 inhibitor and/or radiotherapy in early-stage TNBC; however, at least 6 months must have elapsed between the completion of systemic breast cancer therapy or surgery, whichever occurred last, and first local or distant recurrence.
+Patients with active autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
+
+Randomization was stratified by treatment-free interval (de novo vs. recurrent disease within 6 to 12 months from completion of treatment in the curative setting vs. recurrent disease occurring more than 12 months from completion of treatment in the curative setting), geographic region (US/Canada/Western Europe vs. Rest of World), and prior exposure to PD-1 or PD-L1 inhibitor (yes vs. no).
+
+Patients were randomized (1:1) to receive one of the following treatment arms; all study medications were administered via intravenous infusion:
+
+- KEYTRUDA 200 mg on Day 1 every 3 weeks in combination with sacituzumab govitecan-hziy 10 mg/kg on Days 1 and 8 every 21 days.
+- KEYTRUDA 200 mg on Day 1 every 3 weeks in combination with nab-paclitaxel 100 mg/m2 on Days 1, 8 and 15 every 28 days, or paclitaxel 90 mg/m2 on Days 1, 8, and 15 every 28 days, or gemcitabine 1000 mg/m2 and carboplatin AUC 2 mg/mL/min on Days 1 and 8 every 21 days.
+
+Assessment of tumor status was performed every 8 weeks for the first 18 months, and every 12 weeks thereafter.
+Treatment beyond BICR-verified disease progression per RECIST 1.1 was permitted if the patient was clinically stable and considered to be deriving clinical benefit by the investigator.
+Crossover to sacituzumab govitecan-hziy monotherapy was offered following disease progression and study treatment discontinuation.
+
+The primary efficacy outcome measure was PFS as assessed by BICR according to RECIST v1.1.
+Additional efficacy outcome measures were OS and ORR as assessed by BICR using RECIST v1.1.
+
+The median age was 55 years (range: 23 to 88); 26% age 65 or older, 100% female; 58% White, 24% Asian, 6% American Indian or Alaska Native, 5% Black, and 7% not specified; 29% Hispanic/Latino, 69% non-Hispanic/non-Latino and 2.0% not specified; and 70% ECOG PS of 0, 30% ECOG PS of 1, and 0.2% ECOG PS of 2; and 34% presented with de novo metastatic disease at screening, 18% with recurrent disease within 6 to 12 months; 48% with recurrent disease >12 months.
+Sixty-five percent of patients had visceral metastasis at baseline and 3% had previously treated brain metastases.
+
+The trial demonstrated a statistically significant improvement in PFS.
+The OS data were immature and a total of 203 (46%) had died across both study arms.
+
+Table 113 and Figure 46 summarize the efficacy results for KEYNOTE-D19.
+
+Table 113: Efficacy Results in KEYNOTE-D19
+
+| Endpoint | KEYTRUDA plus Sacituzumab Govitecan-hziy n=221 | KEYTRUDA plus chemotherapyChemotherapy: paclitaxel, nab-paclitaxel, or gemcitabine and carboplatin n=222 |
+| --- | --- | --- |
+| PFSAssessed by BICR using RECIST 1.1 |  |  |
+| Number of patients with event (%) | 109 (49%) | 140 (63%) |
+| Median in months (95% CI) | 11.2 (9.3, 16.7) | 7.8 (7.3, 9.3) |
+| Hazard ratioBased on the stratified Cox proportional hazards model (95% CI) | 0.65 (0.51, 0.84) |  |
+| p-ValueTwo-sided p-Value based on stratified log-rank test. | 0.0009 |  |
+| Objective Response Rate |  |  |
+| ORR, (95% CI) | 61% (55, 68) | 55% (48, 62) |
+| Complete Response | 12% | 8% |
+| Partial Response | 50% | 47% |
+
+| Figure 46: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-D19 |
+| --- |
+
+Locally Recurrent Unresectable or Metastatic TNBC for Tumors Expressing PD-L1 (CPS ≥10)
 
 The efficacy of KEYTRUDA in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin was investigated in KEYNOTE-355 (NCT02819518), a multicenter, double-blind, randomized, placebo-controlled trial conducted in 847 patients with locally recurrent unresectable or metastatic TNBC, regardless of tumor PD-L1 expression, who had not been previously treated with chemotherapy in the metastatic setting.
 Patients with active autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
@@ -2243,9 +2288,9 @@ Additional efficacy outcome measures were ORR and DoR as assessed by BICR.
 The study population characteristics for patients were: median age of 53 years (range: 22 to 85), 21% age 65 or older; 100% female; 68% White, 21% Asian, and 4% Black; 60% ECOG PS of 0 and 40% ECOG PS of 1; and 68% were post-menopausal status.
 Seventy-five percent of patients had tumor PD-L1 expression CPS ≥1 and 38% had tumor PD-L1 expression CPS ≥10.
 
-Table 113 and Figures 46 and 47 summarize the efficacy results for KEYNOTE-355.
+Table 114 and Figures 47 and 48 summarize the efficacy results for KEYNOTE-355.
 
-Table 113: Efficacy Results in KEYNOTE-355 (CPS ≥10)
+Table 114: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks with chemotherapy n=220 | Placebo every 3 weeks with chemotherapy n=103 |
 | --- | --- | --- |
@@ -2266,10 +2311,10 @@ Table 113: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 | Duration of Response | n=116 | n=42 |
 | Median in months (95% CI) | 12.8 (9.9, 25.9) | 7.3 (5.5, 15.4) |
 
-| Figure 46: Kaplan-Meier Curve for Overall Survival in KEYNOTE-355 (CPS ≥10) |
+| Figure 47: Kaplan-Meier Curve for Overall Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
 
-| Figure 47: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
+| Figure 48: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
 
 ## 14.21 Ovarian Cancer
@@ -2300,9 +2345,9 @@ The population characteristics of these 466 patients were: median age of 62 year
 The platinum-free interval following the most recent line of therapy was <3 months in 47% of patients, and 3 to 6 months in 53% of patients.
 
 The study demonstrated statistically significant improvement in PFS and OS for patients randomized to KEYTRUDA in combination with paclitaxel with or without bevacizumab compared to placebo in combination with paclitaxel with or without bevacizumab in patients whose tumors expressed PD-L1 CPS ≥1.
-Efficacy results are summarized in Table 114 and Figures 48 and 49.
+Efficacy results are summarized in Table 115 and Figures 49 and 50.
 
-Table 114: Efficacy Results in KEYNOTE-B96 (CPS ≥1)
+Table 115: Efficacy Results in KEYNOTE-B96 (CPS ≥1)
 
 | Endpoint | KEYTRUDA 400 mg every 6 weeks plus paclitaxel with or without bevacizumab n=234 | Placebo plus paclitaxel with or without bevacizumab n=232 |
 | --- | --- | --- |
@@ -2317,8 +2362,8 @@ Table 114: Efficacy Results in KEYNOTE-B96 (CPS ≥1)
 | Hazard ratio (95% CI) | 0.76 (0.61, 0.94) |  |
 | p-Value | 0.0053Based on stratified log-rank test (p-Value [one sided] is compared to an alpha boundary of 0.0083) |  |
 
-| Figure 48: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-B96 (CPS ≥1) |
+| Figure 49: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-B96 (CPS ≥1) |
 | --- |
 
-| Figure 49: Kaplan-Meier Curve for Overall Survival in KEYNOTE-B96 (CPS ≥1) |
+| Figure 50: Kaplan-Meier Curve for Overall Survival in KEYNOTE-B96 (CPS ≥1) |
 | --- |
