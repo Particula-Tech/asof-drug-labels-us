@@ -22,10 +22,10 @@ Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situa
 Effects on the Gastrointestinal Tract and Other Smooth Muscle Hydromorphone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System Hydromorphone produces peripheral vasodilation which may result in orthostatic hypotension or syncope.
-Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes and sweating and/or orthostatic hypotension.
+Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes and sweating, and/or orthostatic hypotension.
 
 Effects on the Endocrine System Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
@@ -50,9 +50,9 @@ Hydromorphone is rapidly absorbed from the gastrointestinal tract after oral adm
 Exposure of hydromorphone (Cmax and AUC0-24) is dose-proportional at a dose range of 2 and 8 mg.
 In vivo bioavailability following single-dose administration of the 8 mg tablet is approximately 24% (coefficient of variation 21%).
 
-After oral administration of hydromorphone hydrochloride tablets, peak plasma hydromorphone concentrations are generally attained within &frac12; to 1 hour.
+After oral administration of hydromorphone hydrochloride tablets, peak plasma hydromorphone concentrations are generally attained within 1/2; to 1 hour.
 
-| Dosage Form | Cmax (ng) | Tmax (hrs) | AUC (ng*hr/mL) | T&frac12; (hrs) |
+| Dosage Form | Cmax (ng) | Tmax (hrs) | AUC (ng*hr/mL) | T1/2; (hrs) |
 | --- | --- | --- | --- | --- |
 | Mean (%cv) |  |  |  |  |
 | 8 mg Tablet | 5.5 (33%) | 0.74 (34%) | 23.7 (28%) | 2.6 (18%) |
