@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203540"
+  ],
+  "inn": "raltegravir",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-584-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "raltegravir",
+      "name": "Raltegravir"
+    }
+  ],
+  "setid": "090aa265-9fc8-4aea-81fe-ce052c3f38df",
+  "source": "dailymed"
+}
