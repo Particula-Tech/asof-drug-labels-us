@@ -19,4 +19,4 @@ Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 Product of Italy
 
 Rev.
-10-2024-02
+10-2025-03
