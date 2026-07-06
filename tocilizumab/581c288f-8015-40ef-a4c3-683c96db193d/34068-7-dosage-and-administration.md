@@ -12,7 +12,7 @@ Baseline Laboratory Evaluation Prior to Treatment
 Obtain and assess baseline complete blood count (CBC) and liver function tests prior to treatment.
 
 - RA, GCA, PJIA and SJIA – It is recommended that AVTOZMA not be initiated in patients with an absolute neutrophil count (ANC) below 2000 per mm3, platelet count below 100,000 per mm3, or ALT or AST above 1.5 times the upper limit of normal (ULN) [see Warnings and Precautions (5.3, 5.4)].
-- CRS - ﻿Patients with severe or life-threatening CRS frequently have cytopenias or elevated ALT or AST due to the lymphodepleting chemotherapy or the CRS.
+- CRS - Patients with severe or life-threatening CRS frequently have cytopenias or elevated ALT or AST due to the lymphodepleting chemotherapy or the CRS.
   The decision to administer AVTOZMA should take in to account the potential benefit of treating the CRS versus the risks of short-term treatment with AVTOZMA.
 - COVID-19 – It is recommended that AVTOZMA not be initiated in patients with an absolute neutrophil count (ANC) below 1000 per mm3, platelet count below 50,000 mm3, or ALT or AST above 10 times ULN [see Warnings and Precautions (5.3, 5.4)].
 

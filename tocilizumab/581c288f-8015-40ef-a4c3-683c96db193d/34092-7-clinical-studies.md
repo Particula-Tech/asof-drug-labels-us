@@ -40,7 +40,7 @@ During the 24 week controlled portions of Studies I to V, patients treated with 
 
 Table 4 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Trials of Intravenous Tocilizumab (Percent of Patients)
 
-| N=284 | N=286 (95% CI) | N=393 | N=399 (95% CICI: 95% confidence interval of the weighted difference to placebo adjusted for site (and disease duration for Study I only)) | N=398 (95% CI) | N=204 | N=213 (95% CI) | N=205 (95% CI) | N=413 | N=803 (95% CI) | N=158 | N=161 (95% CI) | N=170 (95% CI) |  |
+| N=284 | N=286 (95% CIa) | N=393 | N=399 (95% CIa) | N=398 (95% CIa) | N=204 | N=213 (95% CIa) | N=205 (95% CIa) | N=413 | N=803 (95% CIa) | N=158 | N=161 (95% CIa) | N=170 (95% CIa) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Percent of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Response Rate | Study I |  | Study II |  |  | Study III |  |  | Study IV |  | Study V |  |  |
@@ -54,8 +54,10 @@ Table 4 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Tr
 | ACR 70 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 24 | 15% | 28% (0.07, 0.22) | 2% | 11% (0.03, 0.13) | 13% (0.05, 0.15) | 2% | 12% (0.04, 0.18) | 22% (0.12, 0.27) | 3% | 21% (0.13, 0.21) | 1% | 5% (-0.06, 0.14) | 12% (0.03, 0.22) |
 | Week 52 | N/A | N/A | 4% | 16% (0.08, 0.17) | 20% (0.12, 0.21) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| Major Clinical Responses Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week periodHealth Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activitiesThe same patients may not have responded at each timepoint.sThe same patients may not have responded at each timepoint.Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week periodHealth Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activitiesThe same patients may not have responded at each timepoint. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Major Clinical Responsesb |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 52 | N/A | N/A | 1% | 4% (0.01, 0.06) | 7% (0.03, 0.09) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+
+aCI: 95% confidence interval of the weighted difference to placebo adjusted for site (and disease duration for Study I only) bMajor clinical response is defined as achieving an ACR 70 response for a continuous 24 week period
 
 In study II, a greater proportion of patients treated with 4 mg per kg and 8 mg per kg tocilizumab + MTX achieved a low level of disease activity as measured by a DAS 28-ESR less than 2.6 compared with placebo +MTX treated patients at week 52.
 The proportion of tocilizumab-treated patients achieving DAS 28-ESR less than 2.6, and the number of residual active joints in these responders in Study II are shown in Table 5.
@@ -78,24 +80,27 @@ Similar results to Study III were observed in Studies I, II and IV.
 
 Table 6 Components of ACR Response at Week 24 in Trials of Intravenous Tocilizumab
 
-| Component (mean) | Baseline | Week 24Data shown is mean at week 24, difference in adjusted mean change from baseline compared with placebo + MTX at week 24 and 95% confidence interval for that difference | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 |
+| Component (mean) | Baseline | Week 24a | Baseline | Week 24a | Baseline | Week 24 | Baseline | Week 24a | Baseline | Week 24a | Baseline | Week 24 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Study III |  |  |  |  |  | Study V |  |  |  |  |  |
 |  | Tocilizumab 4 mg per kg + MTX |  | Tocilizumab 8 mg per kg + MTX |  | Placebo + MTX |  | Tocilizumab 4 mg per kg + MTX |  | Tocilizumab 8 mg per kg + MTX |  | Placebo + MTX |  |
 |  | N=213 |  | N=205 |  | N=204 |  | N=161 |  | N=170 |  | N=158 |  |
 | Number of tender joints (0-68) | 33 | 19 -7.0 (-10.0, -4.1) | 32 | 14.5 -9.6 (-12.6, -6.7) | 33 | 25 | 31 | 21 -10.8 (-14.6, -7.1) | 32 | 17 -15.1 (-18.8, -11.4) | 30 | 30 |
 | Number of swollen joints (0-66) | 20 | 10 -4.2 (-6.1, -2.3) | 19.5 | 8 -6.2 (-8.1, -4.2) | 21 | 15 | 19.5 | 13 -6.2 (-9.0, -3.5) | 19 | 11 -7.2 (-9.9, -4.5) | 19 | 18 |
-| Pain Visual analog scale: 0 = best, 100 = worst | 61 | 33 -11.0 (-17.0, -5.0) | 60 | 30 -15.8 (-21.7, -9.9) | 57 | 43 | 63.5 | 43 -12.4 (-22.1, -2.1) | 65 | 33 -23.9 (-33.7, -14.1) | 64 | 48 |
-| Patient global assessment | 66 | 34 -10.9 (-17.1, -4.8) | 65 | 31 -14.9 (-20.9, -8.9) | 64 | 45 | 70 | 46 -10.0 (-20.3, 0.3) | 70 | 36 -17.4 (-27.8, -7.0) | 71 | 51 |
-| Physician global assessment | 64 | 26 -5.6 (-10.5, -0.8) | 64 | 23 -9.0 (-13.8, -4.2) | 64 | 32 | 66.5 | 39 -10.5 (-18.6, -2.5) | 66 | 28 -18.2 (-26.3, -10.0) | 67.5 | 43 |
-| Disability index (HAQ) Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week periodHealth Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activitiesThe same patients may not have responded at each timepoint.sThe same patients may not have responded at each timepoint.Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week periodHealth Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activitiesThe same patients may not have responded at each timepoint. | 1.64 | 1.01 -0.18 (-0.34, -0.02) | 1.55 | 0.96 -0.21 (-0.37, -0.05) | 1.55 | 1.21 | 1.67 | 1.39 -0.25 (-0.42, -0.09) | 1.75 | 1.34 -0.34 (-0.51, -0.17) | 1.70 | 1.58 |
+| Painb | 61 | 33 -11.0 (-17.0, -5.0) | 60 | 30 -15.8 (-21.7, -9.9) | 57 | 43 | 63.5 | 43 -12.4 (-22.1, -2.1) | 65 | 33 -23.9 (-33.7, -14.1) | 64 | 48 |
+| Patient global assessmentb | 66 | 34 -10.9 (-17.1, -4.8) | 65 | 31 -14.9 (-20.9, -8.9) | 64 | 45 | 70 | 46 -10.0 (-20.3, 0.3) | 70 | 36 -17.4 (-27.8, -7.0) | 71 | 51 |
+| Physician global assessmentb | 64 | 26 -5.6 (-10.5, -0.8) | 64 | 23 -9.0 (-13.8, -4.2) | 64 | 32 | 66.5 | 39 -10.5 (-18.6, -2.5) | 66 | 28 -18.2 (-26.3, -10.0) | 67.5 | 43 |
+| Disability index (HAQ)c | 1.64 | 1.01 -0.18 (-0.34, -0.02) | 1.55 | 0.96 -0.21 (-0.37, -0.05) | 1.55 | 1.21 | 1.67 | 1.39 -0.25 (-0.42, -0.09) | 1.75 | 1.34 -0.34 (-0.51, -0.17) | 1.70 | 1.58 |
 | CRP (mg per dL) | 2.79 | 1.17 -1.30 (-2.0, -0.59) | 2.61 | 0.25 -2.156 (-2.86, -1.46) | 2.36 | 1.89 | 3.11 | 1.77 -1.34 (-2.5, -0.15) | 2.80 | 0.28 -2.52 (-3.72, -1.32) | 3.705 | 3.06 |
+
+aData shown is mean at week 24, difference in adjusted mean change from baseline compared with placebo + MTX at week 24 and 95% confidence interval for that difference bVisual analog scale: 0 = best, 100 = worst cHealth Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities
 
 The percent of ACR 20 responders by visit for Study III is shown in Figure 1.
 Similar response curves were observed in studies I, II, IV, and V.
 
-| Figure 1 Percent of ACR 20 Responders by Visit for Study III (Inadequate Response to MTX) Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week periodHealth Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activitiesThe same patients may not have responded at each timepoint.sThe same patients may not have responded at each timepoint.Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week periodHealth Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activitiesThe same patients may not have responded at each timepoint. |
+| Figure 1 Percent of ACR 20 Responders by Visit for Study III (Inadequate Response to MTX) |
 | --- |
+| *The same patients may not have responded at each timepoint |
 
 Radiographic Response
 
@@ -227,16 +232,19 @@ Table 9 Efficacy Results from Study WA28119
 
 |  | PBO + 26 weeks prednisone taper N=50 | PBO + 52 weeks prednisone taper N=51 | TCZ 162mg SC QW + 26 weeks prednisone taper N=100 | TCZ 162 mg SC Q2W + 26 weeks prednisone taper N=49 |
 | --- | --- | --- | --- | --- |
-| Sustained remission Sustained remission was achieved by a patient meeting all of the following components: absence of GCA signs and symptomsb, normalization of ESRc, normalization of CRPd and adherence to the prednisone taper regimene |  |  |  |  |
+| Sustained remissiona |  |  |  |  |
 | Responders, n (%) | 7 (14.0%) | 9 (17.6%) | 56 (56.0%) | 26 (53.1%) |
 | Unadjusted difference in proportions vs PBO + 26 weeks taper (99.5% CI) | N/A | N/A | 42.0% (18.0, 66.0) | 39.1% (12.5, 65.7) |
 | Unadjusted difference in proportions vs PBO + 52 weeks taper (99.5% CI) | N/A | N/A | 38.4% (14.4, 62.3) | 35.4% (8.6, 62.2) |
 | Components of Sustained Remission |  |  |  |  |
-| Sustained absence of GCA signs and symptomsPatients who did not have any signs or symptoms of GCA recorded from Week 12 up to Week 52., n (%) | 20 (40.0%) | 23 (45.1%) | 69 (69.0%) | 28 (57.1%) |
-| Sustained ESR<30 mm/hrPatients who did not have an elevated ESR ≥30 mm/hr which was classified as attributed to GCA from Week 12 up to Week 52., n (%) | 20 (40.0%) | 22 (43.1%) | 83 (83.0%) | 37 (75.5%) |
-| Sustained CRP normalizationPatients who did not have two or more consecutive CRP records of ≥ 1mg/dL from Week 12 up to Week 52., n (%) | 17 (34.0%) | 13 (25.5%) | 72 (72.0%) | 34 (69.4%) |
-| Successful prednisone taperingPatients who did not enter escape therapy and received ≤ 100mg of additional concomitant prednisone from Week 12 up to Week 52., n (%) | 10 (20.0%) | 20 (39.2%) | 60 (60.0%) | 28 (57.1%) |
-| Patients not completing the study to week 52 were classified as non-responders in the primary and key secondary analysis: PBO+26: 6 (12.0%), PBO+52: 5 (9.8%), TCZ QW: 15 (15.0%), TCZ Q2W: 9 (18.4%). CRP = C-reactive protein ESR = erythrocyte sedimentation rate PBO = placebo Q2W = every other week dose QW = every week dose TCZ = tocilizumab |  |  |  |  |
+| Sustained absence of GCA signs and symptomsb, n (%) | 20 (40.0%) | 23 (45.1%) | 69 (69.0%) | 28 (57.1%) |
+| Sustained ESR<30 mm/hrc, n (%) | 20 (40.0%) | 22 (43.1%) | 83 (83.0%) | 37 (75.5%) |
+| Sustained CRP normalizationd, n (%) | 17 (34.0%) | 13 (25.5%) | 72 (72.0%) | 34 (69.4%) |
+| Successful prednisone taperinge, n (%) | 10 (20.0%) | 20 (39.2%) | 60 (60.0%) | 28 (57.1%) |
+
+aSustained remission was achieved by a patient meeting all of the following components: absence of GCA signs and symptomsb, normalization of ESRc, normalization of CRPd and adherence to the prednisone taper regimene. bPatients who did not have any signs or symptoms of GCA recorded from Week 12 up to Week 52. cPatients who did not have an elevated ESR ≥30 mm/hr which was classified as attributed to GCA from Week 12 up to Week 52. dPatients who did not have two or more consecutive CRP records of ≥ 1mg/dL from Week 12 up to Week 52. ePatients who did not enter escape therapy and received ≤ 100mg of additional concomitant prednisone from Week 12 up to Week 52.
+Patients not completing the study to week 52 were classified as non-responders in the primary and key secondary analysis: PBO+26: 6 (12.0%), PBO+52: 5 (9.8%), TCZ QW: 15 (15.0%), TCZ Q2W: 9 (18.4%).
+CRP = C-reactive protein ESR = erythrocyte sedimentation rate PBO = placebo Q2W = every other week dose QW = every week dose TCZ = tocilizumab
 
 The estimated annual cumulative prednisone dose was lower in the two tocilizumab dose groups (medians of 1887 mg and 2207 mg on tocilizumab QW and Q2W, respectively) relative to the placebo arms (medians of 3804 mg and 3902 mg on placebo + 26 weeks prednisone and placebo + 52 weeks prednisone taper, respectively).
 
@@ -428,4 +436,4 @@ For each of the four studies, the risk difference through Day 28 was estimated b
 Patients from the RECOVERY trial represent 78.8% of the total sample size in this meta-analysis.
 The combined risk difference showed that tocilizumab treatment (n=2261) resulted in a 4.61% absolute reduction in the risk of death at Day 28 (risk difference=-4.6%; 95% CI: -7.3% to -1.9%) compared to SoC (n=2034).
 
-Figure 2 Risk Differences Through Day 28 for Baseline Corticosteroid Use Subpopulation in RECOVERY, EMPACTA, COVACTA and REMDACTA studies
+Figure 2 Risk Differenes Through Day 28 for Basaeline Corticosteriod Use Subpopulation in RECOVERY, EMPACTA, COVACTA and REMDACTA studies

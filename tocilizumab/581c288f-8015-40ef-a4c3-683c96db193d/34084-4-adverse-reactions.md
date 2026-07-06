@@ -89,7 +89,7 @@ In the all-exposure population, the pattern and incidence of decreases in platel
 Elevated Liver Enzymes
 
 Liver enzyme abnormalities are summarized in Table 1.
-In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of tocilizumab-IV, or reduction in tocilizumab-IV dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.10)].
+In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of tocilizumab-IV, or reduction in tocilizumab-IV dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.9)].
 These elevations were not associated with clinically relevant increases in direct bilirubin, nor were they associated with clinical evidence of hepatitis or hepatic insufficiency [see Warnings and Precautions (5.3, 5.4)].
 
 Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period of Studies I to VFor a description of these studies, see Section 14, Clinical Studies.
@@ -97,7 +97,6 @@ Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period
 |  | N = 288 (%) | N = 284 (%) | N = 774 (%) | N = 1582 (%) | N = 1170 (%) |
 | --- | --- | --- | --- | --- | --- |
 |  | Tocilizumab 8 mg per kg MONOTHERAPY | Methotrexate | Tocilizumab 4 mg per kg + DMARDs | Tocilizumab 8 mg per kg + DMARDs | Placebo + DMARDs |
-| ULN = Upper Limit of Normal |  |  |  |  |  |
 | AST (U/L) |  |  |  |  |  |
 | > ULN to 3× ULN | 22 | 26 | 34 | 41 | 17 |
 | > 3× ULN to 5× ULN | 0.3 | 2 | 1 | 2 | 0.3 |
@@ -106,6 +105,7 @@ Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period
 | > ULN to 3× ULN | 36 | 33 | 45 | 48 | 23 |
 | > 3× ULN to 5× ULN | 1 | 4 | 5 | 5 | 1 |
 | > 5× ULN | 0.7 | 1 | 1.3 | 1.5 | 0.3 |
+| ULN = Upper Limit of Normal |  |  |  |  |  |
 
 In the all-exposure population, the elevations in ALT and AST remained consistent with what was seen in the 24 week, controlled clinical trials.
 
@@ -404,7 +404,10 @@ A total of 41.2% (21/51) SJIA patients experienced ISRs to tocilizumab-SC.
 The most common ISRs were erythema, pruritus, pain, and swelling at the injection site.
 The majority of ISRs reported were Grade 1 events and all ISRs reported were non-serious and none required patient withdrawal from treatment or dose interruption.
 
-## 6.9 Clinical Trials Experience in Patients with Cytokine Release Syndrome Treated with Intravenous AVTOZMA (Tocilizumab-IV)
+Immunogenicity Forty-six of the 51 (90.2%) patients who were tested for anti-tocilizumab antibodies at baseline had at least one post-baseline screening assay result.
+No patient developed positive anti-tocilizumab antibodies post-baseline.
+
+## 6.9 Clinical Trials Experience in Patients with Cytokine Release Syndrome Treated with Intravenous Tocilizumab (Tocilizumab-IV)
 
 In a retrospective analysis of pooled outcome data from multiple clinical trials 45 patients were treated with tocilizumab 8 mg/kg (12 mg/kg for patients less than 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CAR T cell-induced CRS.
 A median of 1 dose of tocilizumab (range, 1-4 doses) was administered.

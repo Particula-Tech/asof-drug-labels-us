@@ -95,7 +95,7 @@ Of the 1069 patients who received tocilizumab-SC in studies SC-I and SC-II there
 The frequency of serious infection among tocilizumab treated subjects 65 years of age and older was higher than those under the age of 65.
 As there is a higher incidence of infections in the elderly population in general, caution should be used when treating the elderly.
 
-Clinical studies that included AVTOZMA for CRS did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
+Clinical studies that included tocilizumab for CRS did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
 
 In the EMPACTA, COVACTA, and REMDACTA studies, of the 974 COVID-19 patients in the tocilizumab arm, 375 (39%) were 65 years of age or older.
 No overall differences in safety or effectiveness of tocilizumab were observed between patients 65 years of age and older and those under the age of 65 years of age in these studies [see Adverse Reactions (6.1) and Clinical Studies (14.10)].

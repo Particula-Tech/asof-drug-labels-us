@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 80 mg/4 mL Vial Carton
 
-NDC 72606-042-02 Rx only
+NDC 72606-042-01 Rx only
 
 Avtozma® (tocilizumab-anoh)
 
@@ -10,13 +10,13 @@ For Intravenous Infusion After Dilution.
 Single-Dose Vial.
 Discard Unused Portion.
 
-4 vials
+1 vial
 
 CELLTRION USA CELLTRION
 
 # PRINCIPAL DISPLAY PANEL - 200 mg/10 mL Vial Carton
 
-NDC 72606-043-02 Rx only
+NDC 72606-043-01 Rx only
 
 Avtozma® (tocilizumab-anoh)
 
@@ -26,13 +26,13 @@ For Intravenous Infusion After Dilution.
 Single-Dose Vial.
 Discard Unused Portion.
 
-4 vials
+1 vial
 
 CELLTRION USA CELLTRION
 
 # PRINCIPAL DISPLAY PANEL - 400 mg/20 mL Vial Carton
 
-NDC 72606-044-02 Rx only
+NDC 72606-044-01 Rx only
 
 Avtozma® (tocilizumab-anoh)
 
@@ -42,7 +42,7 @@ For Intravenous Infusion After Dilution.
 Single-Dose Vial.
 Discard Unused Portion.
 
-4 vials
+1 vial
 
 CELLTRION USA CELLTRION
 
@@ -60,7 +60,9 @@ Rx only
 
 Each carton contains 1 single-dose Prefilled syringe with safety guard, 1 Medication Guide, 1 Prescribing Information and 1 Instructions for Use
 
-1 single-dose Prefilled syringe with safety guard
+1 single-dose
+
+Prefilled syringe with safety guard
 
 CELLTRION USA CELLTRION
 
@@ -78,25 +80,9 @@ Rx only
 
 Each carton contains 4 single-dose Prefilled syringes with safety guard, 1 Medication Guide, 1 Prescribing Information and 1 Instructions for Use
 
-4 single-dose Prefilled syringe with safety guard
+4 single-dose
 
-CELLTRION USA CELLTRION
-
-# PRINCIPAL DISPLAY PANEL - 4 Prefilled Syringe Carton - NDC 72606-045-03
-
-Avtozma® (tocilizumab-anoh) Injection
-
-162 mg/0.9 mL
-
-FOR SUBCUTANEOUS USE ONLY ATTENTION: Dispense the enclosed Medication Guide to each patient
-
-NDC 72606-045-03
-
-Rx only
-
-Each carton contains 4 single-dose Prefilled syringes with safety guard, 1 Medication Guide, 1 Prescribing Information and 1 Instructions for Use
-
-4 single-dose Prefilled syringe with safety guard
+Prefilled syringe with safety guard
 
 CELLTRION USA CELLTRION
 
@@ -153,24 +139,6 @@ Avtozma® (tocilizumab-anoh) Injection
 FOR SUBCUTANEOUS USE ONLY ATTENTION: Dispense the enclosed Medication Guide to each patient
 
 NDC 72606-045-05
-
-Rx only
-
-Each carton contains 4 single-dose Autoinjectors, 1 Medication Guide, 1 Prescribing Information and 1 Instructions for Use
-
-4 single-dose Autoinjectors
-
-CELLTRION USA CELLTRION
-
-# PRINCIPAL DISPLAY PANEL - 4 Autoinjectors Carton - NDC 72606-045-06
-
-Avtozma® (tocilizumab-anoh) Injection
-
-162 mg/0.9 mL
-
-FOR SUBCUTANEOUS USE ONLY ATTENTION: Dispense the enclosed Medication Guide to each patient
-
-NDC 72606-045-06
 
 Rx only
 
