@@ -4,13 +4,13 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Hypocalcemia
 
-Advise the patient to adequately supplement with calcium and vitamin D and instruct them on the importance of maintaining serum calcium levels while receiving Prolia [see Warnings and Precautions (5.1), Use in Specific Populations (8.6)].
+Advise the patient to adequately supplement with calcium and vitamin D and instruct them on the importance of maintaining serum calcium levels while receiving Prolia [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
 Advise patients to seek prompt medical attention if they develop signs or symptoms of hypocalcemia.
 
 Severe Hypocalcemia in Patients with Advanced Chronic Kidney Disease
 
 Advise patients with advanced chronic kidney disease, including those who are dialysis-dependent, about the symptoms of hypocalcemia and the importance of maintaining serum calcium levels with adequate calcium and activated vitamin D supplementation.
-Advise these patients to have their serum calcium measured weekly for the first month after Prolia administration and monthly thereafter [see Dosage and Administration (2.2), Warnings and Precautions (5.1), Use in Specific Populations (8.6)]
+Advise these patients to have their serum calcium measured weekly for the first month after Prolia administration and monthly thereafter [see Dosage and Administration (2.2), Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
 
 Drug Products with Same Active Ingredient
 
@@ -19,7 +19,7 @@ Advise patients that if they receive Prolia, they should not receive other denos
 Hypersensitivity
 
 Advise patients to seek prompt medical attention if signs or symptoms of hypersensitivity reactions occur.
-Advise patients who have had signs or symptoms of systemic hypersensitivity reactions that they should not receive denosumab products [see Warnings and Precautions (5.3), Contraindications (4)].
+Advise patients who have had signs or symptoms of systemic hypersensitivity reactions that they should not receive denosumab products [see Warnings and Precautions (5.3) and Contraindications (4)].
 
 Osteonecrosis of the Jaw
 
@@ -52,7 +52,7 @@ Pregnancy/Nursing
 Counsel females of reproductive potential to use effective contraceptive measure to prevent pregnancy during treatment and for at least 5 months after the last dose of Prolia.
 Advise the patient to contact their physician immediately if pregnancy does occur during these times.
 Advise patients not to take Prolia while pregnant or breastfeeding.
-If a patient wishes to start breastfeeding after treatment, advise her to discuss the appropriate timing with her physician [see Contraindications (4), Use in Specific Populations (8.1)].
+If a patient wishes to start breastfeeding after treatment, advise her to discuss the appropriate timing with her physician [see Contraindications (4) and Use in Specific Populations (8.1)].
 
 Schedule of Administration
 

@@ -40,7 +40,7 @@ This analysis showed no notable differences in pharmacokinetics with age (in pos
 
 Seminal Fluid Pharmacokinetic Study
 
-Serum and seminal fluid concentrations of denosumab were measured in 12 healthy male volunteers (age range: 43-65 years).
+Serum and seminal fluid concentrations of denosumab were measured in 12 healthy male volunteers (age range: 43 to 65 years).
 After a single 60 mg subcutaneous administration of denosumab, the mean (± SD) Cmax values in the serum and seminal fluid samples were 6170 (± 2070) and 100 (± 81.9) ng/mL, respectively, resulting in a maximum seminal fluid concentration of approximately 2% of serum levels.
 The median (range) Tmax values in the serum and seminal fluid samples were 8.0 (7.9 to 21) and 21 (8.0 to 49) days, respectively.
 Among the subjects, the highest denosumab concentration in seminal fluid was 301 ng/mL at 22 days post-dose.

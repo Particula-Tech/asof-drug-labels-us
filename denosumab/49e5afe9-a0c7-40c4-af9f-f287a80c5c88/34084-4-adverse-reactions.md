@@ -110,7 +110,7 @@ Multiple Vertebral Fractures (MVF) Following Discontinuation of Prolia Treatment
 
 In the osteoporosis clinical trial program, multiple vertebral fractures were reported in patients after discontinuation of Prolia.
 In the phase 3 trial in women with postmenopausal osteoporosis, 6% of women who discontinued Prolia and remained in the study developed new vertebral fractures, and 3% of women who discontinued Prolia and remained in the study developed multiple new vertebral fractures.
-The mean time to onset of multiple vertebral fractures was 17 months (range: 7-43 months) after the last injection of Prolia.
+The mean time to onset of multiple vertebral fractures was 17 months (range: 7 to 43 months) after the last injection of Prolia.
 Prior vertebral fracture was a predictor of multiple vertebral fractures after discontinuation [see Warnings and Precautions (5.6)].
 
 Pancreatitis
@@ -238,8 +238,9 @@ The following adverse reactions have been identified during post approval use of
 - Musculoskeletal pain, including severe cases
 - Parathyroid hormone (PTH): Marked elevation in serum PTH in patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis
 - Multiple vertebral fractures following discontinuation of Prolia
-- Cutaneous and mucosal lichenoid drug eruptions (e.g., lichen planus-like reactions)
+- Cutaneous and mucosal lichenoid drug eruptions (e.g. lichen planus-like reactions)
 - Alopecia
 - Vasculitis (e.g.
   ANCA positive vasculitis, leukocytoclastic vasculitis)
 - Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome
+- Injection site reactions

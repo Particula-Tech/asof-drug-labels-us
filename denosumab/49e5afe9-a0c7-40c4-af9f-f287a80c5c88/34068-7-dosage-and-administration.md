@@ -8,7 +8,7 @@ Based on findings in animals, Prolia can cause fetal harm when administered to p
 
 ## 2.2 Laboratory Testing in Patients with Advanced Chronic Kidney Disease Prior to Initiation of Prolia
 
-In patients with advanced chronic kidney disease [i.e., estimated glomerular filtration rate (eGFR) < 30 mL/min/1.73 m2], including dialysis-dependent patients, evaluate for the presence of chronic kidney disease mineral and bone disorder (CKD-MBD) with intact parathyroid hormone (iPTH), serum calcium, 25(OH) vitamin D, and 1,25 (OH)2 vitamin D prior to decisions regarding Prolia treatment.
+In patients with advanced chronic kidney disease [i.e., estimated glomerular filtration rate (eGFR) < 30 mL/min/1.73 m2], including dialysis-dependent patients, evaluate for the presence of chronic kidney disease-mineral and bone disorder (CKD-MBD) with intact parathyroid hormone (iPTH), serum calcium, 25(OH) vitamin D, and 1,25 (OH)2 vitamin D prior to decisions regarding Prolia treatment.
 Consider also assessing bone turnover status (serum markers of bone turnover or bone biopsy) to evaluate the underlying bone disease that may be present [see Warnings and Precautions (5.1)].
 
 ## 2.3 Recommended Dosage
@@ -49,9 +49,7 @@ Step 2: Administer Subcutaneous Injection
 
 |  | Choose an injection site. The recommended injection sites for Prolia include: the upper arm OR the upper thigh OR the abdomen. |  |
 | --- | --- | --- |
-
 |  | Insert needle and inject all the liquid subcutaneously. Do not administer into muscle or blood vessel. |  |
-| --- | --- | --- |
 
 DO NOT put gray needle cap back on needle.
 
