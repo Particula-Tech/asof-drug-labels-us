@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+Argatroban Injection is a clear, colorless to pale yellow solution.
+
 Argatroban Injection is supplied as a single-dose vial containing 125 mg argatroban in 125 mL of aqueous sodium chloride solution (1 mg/mL).
 The vial is sealed with a gray rubber stopper and a green aluminum flip-off seal.
 

@@ -13,6 +13,3 @@ Distributed by
 Plano Pharmaceuticals Inc.
 
 125 S Wilke Rd. suite 353, Arlington Heights, IL 60005
-
-Rev.
-May 2026

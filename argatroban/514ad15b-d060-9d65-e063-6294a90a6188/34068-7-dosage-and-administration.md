@@ -1,9 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+1
+
 ## 2.1 Intravenous Administration
 
-Each 125 mL glass vial contains 125 mg of argatroban (1 mg/mL); and, as supplied, is ready for intravenous infusion.
-Dilution is not required.
+Each glass vial contains 125 mg of argatroban in 125 mL of aqueous sodium chloride solution (1 mg/mL); and, as supplied, is ready for intravenous infusion.
+Do not dilute prior to administration.
+
+Vials may be inverted for use with a medical infusion set.
 
 Argatroban Injection is a clear, colorless to pale yellow solution.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.

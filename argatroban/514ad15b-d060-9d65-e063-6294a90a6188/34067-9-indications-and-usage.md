@@ -1,5 +1,7 @@
 # 1 INDICATIONS AND USAGE
 
+1
+
 ## 1.1 Heparin-Induced Thrombocytopenia
 
 Argatroban Injection is indicated for prophylaxis or treatment of thrombosis in adult patients with heparin-induced thrombocytopenia (HIT).
