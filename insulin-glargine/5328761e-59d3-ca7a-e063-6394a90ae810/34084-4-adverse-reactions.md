@@ -33,7 +33,7 @@ Table 1: Adverse Reactions Occurring ≥5% in Pooled Clinical Studies up to 28 W
 | Accidental injury | 5.7 | 6.4 |
 | Headache | 5.5 | 4.7 |
 
-*Body system not specified.
+* Body system not specified
 
 Table 2: Adverse Reactions Occurring ≥5% in Pooled Clinical Studies up to 1 Year Duration in Adults with Type 2 Diabetes
 
@@ -43,7 +43,7 @@ Table 2: Adverse Reactions Occurring ≥5% in Pooled Clinical Studies up to 1 Ye
 | Infection* | 10.4 | 11.6 |
 | Retinal vascular disorder | 5.8 | 7.4 |
 
-*Body system not specified.
+* Body system not specified
 
 Table 3: Adverse Reactions Occurring ≥10% in a 5-Year Study of Adults with Type 2 Diabetes
 
@@ -74,7 +74,7 @@ Table 4: Adverse Reactions Occurring ≥5% in a 28-Week Clinical Study in Pediat
 | Pharyngitis | 7.5 | 8.6 |
 | Rhinitis | 5.2 | 5.1 |
 
-*Body system not specified.
+* Body system not specified
 
 Severe Hypoglycemia
 
@@ -82,7 +82,7 @@ Hypoglycemia was the most commonly observed adverse reaction in patients treated
 Tables 5, 6, and 7 summarize the incidence of severe hypoglycemia in the insulin glargine clinical studies.
 Severe symptomatic hypoglycemia was defined as an event with symptoms consistent with hypoglycemia requiring the assistance of another person and associated with either a blood glucose below 50 mg/dL (≤56 mg/dL in the 5-year study and ≤36 mg/dL in the ORIGIN study) or prompt recovery after oral carbohydrate, intravenous glucose, or glucagon administration.
 
-Percentages of insulin glargine-treated adult patients who experienced severe symptomatic hypoglycemia in the insulin glargine clinical studies [see Clinical Studies (14)] were comparable to percentages of NPH-treated patients for all treatment regimens (see Tables 5 and 6).
+Percentages of insulin glargine-treated adult patients who experienced severe symptomatic hypoglycemia in the insulin glargine clinical studies [see Clinical Studies (14)] were comparable to percentages of NPH-treated patients for all treatment regimens (see Tables 5and 6).
 In the pediatric clinical study, pediatric patients with type 1 diabetes had a higher incidence of severe symptomatic hypoglycemia in the two treatment groups compared to the adult studies with type 1 diabetes.
 
 Table 5: Severe Symptomatic Hypoglycemia in Patients with Type 1 Diabetes
@@ -99,7 +99,7 @@ Table 6: Severe Symptomatic Hypoglycemia in Patients with Type 2 Diabetes
 |  | Insulin Glargine N=289 | NPHN=281 | Insulin GlargineN=259 | NPHN=259 | Insulin GlargineN=513 | NPHN=504 |
 | Percent of patients | 1.7 | 1.1 | 0.4 | 2.3 | 7.8 | 11.9 |
 
-Table 7 displays the proportion of patients who experienced severe symptomatic hypoglycemia in the Langlara and Standard Care groups in the ORIGIN study [see Clinical Studies (14)].
+Table 7 displays the proportion of patients who experienced severe symptomatic hypoglycemia in the insulin glargine and Standard Care groups in the ORIGIN study [see Clinical Studies (14)].
 
 Table 7: Severe Symptomatic Hypoglycemia in the ORIGIN Study
 
@@ -139,7 +139,8 @@ Severe, life-threatening, generalized allergy, including anaphylaxis, generalize
 
 ## 6.2 Immunogenicity
 
-As with all therapeutic proteins, there is potential for immunogenicity.The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+As with all therapeutic proteins, there is potential for immunogenicity.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other insulin glargine products may be misleading.
 

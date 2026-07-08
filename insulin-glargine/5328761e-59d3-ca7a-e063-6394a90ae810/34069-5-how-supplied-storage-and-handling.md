@@ -13,7 +13,7 @@ Additional Information about LANGLARA prefilled pen:
 - The LANGLARA prefilled pen dials in 1-unit increments.
 - Needles are not included in the packs.
 
-Use BD Ultra-Fine ® needles with the LANGLARA prefilled pens (these BD manufactured needles are sold separately).
+Use BD Ultra-Fine ®needles with the LANGLARA prefilled pens (these BD manufactured needles are sold separately).
 
 ## 16.2 Storage
 
@@ -26,6 +26,6 @@ Protect LANGLARA from direct heat and light.
 
 Storage conditions are summarized in the following table.
 
-|  | Not in-use (unopened)Refrigerated (36°F-46°F [2°C-8°C]) | Not in-use (unopened) Room Temperature (up to 86°F [30°C]) | In-use (opened)(see temperature below) |
+|  | Not in-use (unopened)Refrigerated(36°F-46°F [2°C-8°C]) | Not in-use (unopened) Room Temperature(up to 86°F [30°C]) | In-use (opened)(see temperature below) |
 | --- | --- | --- | --- |
 | 3 mL single-patient-use prefilled pen | Until expiration date | 28 days | 28 daysRoom temperature only(Do not refrigerate) |

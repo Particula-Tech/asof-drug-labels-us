@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Published studies with use of insulin glargine during pregnancy have not reported a clear association with insulin glargine and adverse developmental outcomes (see Data).
+Published studies with use of insulin glargine products during pregnancy have not reported a clear association with insulin glargine products and adverse developmental outcomes (see Data).
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
 
 Rats and rabbits were exposed to insulin glargine in animal reproduction studies during organogenesis, respectively 50 times and 10 times the human subcutaneous dosage of 0.2 units/kg/day.
@@ -26,7 +26,7 @@ Data
 
 Human Data
 
-Published data do not report a clear association with insulin glargine and major birth defects, miscarriage, or adverse maternal or fetal outcomes when insulin glargine is used during pregnancy.
+Published data do not report a clear association with insulin glargine products and major birth defects, miscarriage, or adverse maternal or fetal outcomes when insulin glargine is used during pregnancy.
 However, these studies cannot definitely establish the absence of any risk because of methodological limitations including small sample size and some lacking comparator groups.
 
 Animal Data
@@ -42,14 +42,14 @@ Fertility and early embryonic development appeared normal.
 
 Risk Summary
 
-There are either no or only limited data on the presence of insulin glargine in human milk, the effects on breastfed infant, or the effects on milk production.
+There are either no or only limited data on the presence of insulin glargine products in human milk, the effects on breastfed infant, or the effects on milk production.
 Endogenous insulin is present in human milk.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for LANGLARA, and any potential adverse effects on the breastfed child from LANGLARA or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of LANGLARA to improve glycemic control in pediatric patients with diabetes mellitus have been established.
-Use of LANGLARA for this indication is supported by evidence from an adequate and well-controlled study (Study D) in 174 insulin glarine-treated pediatric patients aged 6 to 15 years with type 1 diabetes mellitus, and from adequate and well-controlled studies of insulin glargine in adults with diabetes mellitus [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+Use of LANGLARA for this indication is supported by evidence from an adequate and well-controlled study (Study D) in 174 insulin glargine-treated pediatric patients aged 6 to 15 years with type 1 diabetes mellitus, and from adequate and well-controlled studies of insulin glargine in adults with diabetes mellitus [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
 In the pediatric clinical study, pediatric patients with type 1 diabetes had a higher incidence of severe symptomatic hypoglycemia compared to the adults in studies with type 1 diabetes [see Adverse Reactions (6.1)].
 

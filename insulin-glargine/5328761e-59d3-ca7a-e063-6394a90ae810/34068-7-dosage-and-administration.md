@@ -6,7 +6,7 @@
 - Visually inspect LANGLARA prefilled pens for particulate matter and discoloration prior to administration.
   Only use if the solution is clear and colorless with no visible particles.
 - Administer LANGLARA subcutaneously into the abdominal area, thigh, or deltoid, and rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
-  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6)].
+  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2)and Adverse Reactions (6)].
 - During changes to a patient's insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - Do not administer intravenously or via an insulin pump.
 - Do not dilute or mix LANGLARA with any other insulin or solution.
@@ -35,7 +35,6 @@ The recommended starting dosage of LANGLARA in patients with type 2 diabetes who
 ## 2.4 Switching to LANGLARA from Other Insulin Therapies
 
 Dosage adjustments are recommended to lower the risk of hypoglycemia when switching patients to LANGLARA from other insulin therapies [see Warnings and Precautions (5.3)].
-
 When switching from:
 
 - Once-daily Insulin Glargine (300 units/mL) to once-daily LANGLARA (100 units/mL), the recommended starting LANGLARA dosage is 80% of the insulin glargine (300 units/mL) dosage that is being discontinued.

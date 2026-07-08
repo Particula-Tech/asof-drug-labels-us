@@ -12,7 +12,7 @@ U.S. License No. 2343
 
 Distributed by:
 
-Lanexa Biologics, LLC.
+Lanexa Biologics, LLC
 
 Trevose, PA 19053
 

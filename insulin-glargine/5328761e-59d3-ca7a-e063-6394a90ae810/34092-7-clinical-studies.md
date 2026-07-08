@@ -36,7 +36,7 @@ In these 3 adult studies, insulin glargine and NPH insulin had similar effects o
 
 Table 9: Type 1 Diabetes Mellitus – Adults
 
-| Treatment durationTreatment in combination with | Study A28 weeks Regular insulin |  | Study B28 weeks Regular insulin |  | Study C16 weeks Insulin lispro |  |
+| Treatment durationTreatment in combination with | Study A28 weeksRegular insulin |  | Study B28 weeksRegular insulin |  | Study C16 weeksInsulin lispro |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Insulin Glargine | NPH | Insulin Glargine | NPH | Insulin Glargine | NPH |  |
 | Number of subjects treated | 292 | 293 | 264 | 270 | 310 | 309 |
@@ -147,7 +147,7 @@ Table 11: Type 2 Diabetes Mellitus – Adults
 | Body weight (kg) |  |  |  |  |  |  |  |  |  |
 | Baseline mean | 83.5 | 82.1 |  | 89.6 | 90.7 |  | 100 | 99 |  |
 | Adj. mean change from baseline | 2.0 | 1.9 |  | 0.4 | 1.4 |  | 3.7 | 4.8 |  |
-| *In Study G, the baseline dose of basal or total insulin was the first available on-treatment dose prescribed during the study (on visit month 1.5). |  |  |  |  |  |  |  |  |  |
+| * In Study G, the baseline dose of basal or total insulin was the first available on-treatment dose prescribed during the study (on visit month 1.5). |  |  |  |  |  |  |  |  |  |
 
 ## 14.4 Additional Clinical Studies in Adults with Diabetes Type 1 and Type 2
 
@@ -157,7 +157,7 @@ The safety and efficacy of once daily insulin glargine administered either at pr
 Patients were also treated with insulin lispro at mealtime.
 The average age was 41 years.
 All patients were White (100%) and 54% were male.
-The mean BMI was approximately 25.3 kg/m2.
+The mean BMI was approximately 25.3 kg/m 2.
 The mean duration of diabetes was 17 years.
 
 Insulin glargine administered at pre-breakfast or at pre-dinner (both once daily) resulted in similar reductions in HbA1c compared to that with bedtime administration (see Table 12).
@@ -170,7 +170,7 @@ The safety and efficacy of once daily insulin glargine administered pre-breakfas
 All patients in this study also received glimepiride 3 mg daily.
 The average age was 61 years.
 The majority of patients were White (97%) and 54% were male.
-The mean BMI was approximately 28.7 kg/m2.
+The mean BMI was approximately 28.7 kg/m 2.
 The mean duration of diabetes was 10 years.
 Insulin glargine given before breakfast was at least as effective in lowering HbA1c as insulin glargine given at bedtime or NPH insulin given at bedtime (see Table 12).
 
@@ -274,7 +274,7 @@ In the ORIGIN study, the overall incidence of cancer (all types combined) or dea
 
 Table 15: Cancer Outcomes in ORIGIN – Time to First Event Analyses
 
-|  | Insulin GlargineN=6,264 | Standard Care N=6,273 | Insulin Glargine vs Standard Care |
+|  | Insulin GlargineN=6,264 | Standard CareN=6,273 | Insulin Glargine vs Standard Care |
 | --- | --- | --- | --- |
 | n(Events per 100 PY) | n(Events per 100 PY) | Hazard Ratio (95% CI) |  |
 | Cancer endpoints |  |  |  |

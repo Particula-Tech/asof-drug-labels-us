@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Never Share a LANGLARA Prefilled Pen or Insulin Syringe Between Patients
+Never Share a LANGLARA Prefilled Pen Between Patients
 
 Advise patients that they must never share a LANGLARA prefilled pen with another person, even if the needle is changed.
 Sharing carries a risk for transmission of blood-borne pathogens [see Warnings and Precautions (5.1)].
@@ -22,5 +22,5 @@ Instruct patients to always check the insulin label before each injection to red
 
 Hypersensitivity Reactions
 
-Advise patients that hypersensitivity reactions have occurred with LANGLARA.
+Advise patients that hypersensitivity reactions have occurred with insulin glargine products.
 Inform patients about the symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
