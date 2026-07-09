@@ -12,7 +12,7 @@ This dose provides 6.4 mg/kg/day of the clavulanic acid component.
 
 Table 1: General Dosage Guidelines for AUGMENTIN ES-600 in Pediatric Patients
 
-| Body Weight (kg) | Volume of AUGMENTIN ES-600for oral suspensionproviding 90 mg/kg/day |
+| Body Weight (kg) | Volume ofAUGMENTIN ES-600for oral suspensionproviding 90 mg/kg/day |
 | --- | --- |
 | 8 | 3 mL twice daily |
 | 12 | 4.5 mL twice daily |
@@ -24,7 +24,7 @@ Table 1: General Dosage Guidelines for AUGMENTIN ES-600 in Pediatric Patients
 | 36 | 13.5 mL twice daily |
 | 40 | 15 mL twice daily |
 
-Pediatric patients weighing greater than 40 kg: Experience with AUGMENTIN ES-600 in this group is not available.
+Pediatric patients weighing greater than 40 kg:Experience with AUGMENTIN ES-600 in this group is not available.
 
 ## 2.3 Dosage in Adult Patients
 

@@ -29,12 +29,12 @@ Two patients in the group treated with AUGMENTIN ES-600 and one patient in the g
 The following adverse reactions have been identified during postmarketing use of AUGMENTIN products, including AUGMENTIN ES-600.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal: Drug-induced enterocolitis syndrome (DIES), diarrhe, nausea, vomiting, indigestion, gastritis, stomatitis, glossitis, black “hairy” tongue, mucocutaneous candidiasis, enterocolitis, and hemorrhagic/pseudomembranous colitis.
+Gastrointestinal:Drug-induced enterocolitis syndrome (DIES), diarrhe, nausea, vomiting, indigestion, gastritis, stomatitis, glossitis, black “hairy” tongue, mucocutaneous candidiasis, enterocolitis, and hemorrhagic/pseudomembranous colitis.
 Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment [see Warnings and Precautions (5.5)].
 
-Immune: Hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock), angioedema, serum sickness-like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), hypersensitivity vasculitis[see Warnings and Precautions (5.1)].
+Immune: Hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock), angioedema, serum sickness-like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), hypersensitivity vasculitis [see Warnings and Precautions (5.1)].
 
-Skin and Appendages: Rashes, pruritus, urticaria, erythema multiforme, SJS, TEN, DRESS, AGEP, exfoliative dermatitis, and linear IgA bullous dermatosis [see Warnings and Precautions (5.1, 5.2, 5.6)].
+Skin and Appendages:Rashes, pruritus, urticaria, erythema multiforme, SJS, TEN, DRESS, AGEP, exfoliative dermatitis, and linear IgA bullous dermatosis [see Warnings and Precautions (5.1, 5.2, 5.6)].
 
 Liver: A moderate rise in AST (SGOT) and/or ALT (SGPT) has been noted in patients treated with ampicillin-class antibacterials.
 Hepatic dysfunction, including increases in serum transaminases (AST and/or ALT), serum bilirubin, and/or alkaline phosphatase, has been infrequently reported with AUGMENTIN or AUGMENTIN ES-600.
@@ -44,15 +44,15 @@ The onset of signs/symptoms of hepatic dysfunction may occur during or several w
 The hepatic dysfunction, which may be severe, is usually reversible.
 Deaths have been reported [see Contraindications (4.2), Warnings and Precautions (5.4)].
 
-Renal: Interstitial nephritis and hematuria have been reported.
+Renal:Interstitial nephritis and hematuria have been reported.
 Crystalluria has also been reported [see Overdosage (10)].
 
-Hemic and Lymphatic Systems: Anemia, including hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and agranulocytosis have been reported during therapy with penicillins.
+Hemic and Lymphatic Systems:Anemia, including hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and agranulocytosis have been reported during therapy with penicillins.
 These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
 There have been reports of increased prothrombin time in patients receiving AUGMENTIN and anticoagulant therapy concomitantly.
 
 Central Nervous System: Agitation, anxiety, behavioral changes, aseptic meningitis, confusion, convulsions, dizziness, insomnia, and reversible hyperactivity have been reported.
 
-Miscellaneous: Tooth discoloration (brown, yellow, or gray staining) has been reported.
+Miscellaneous:Tooth discoloration (brown, yellow, or gray staining) has been reported.
 Most reports occurred in pediatric patients.
 Discoloration was reduced or eliminated with brushing or dental cleaning in most cases.

@@ -47,4 +47,4 @@ The safety and effectiveness of Augmentin ES-600 have not been established in pe
 Acute Bacterial Sinusitis
 
 The safety and effectiveness of AUGMENTIN ES-600 have been established for the treatment of pediatric patients (3 months to 12 years of age) with acute bacterial sinusitis.
-This use is supported by evidence from adequate and well-controlled studies of AUGMENTIN XRTM Extended Release Tablets in adults with acute bacterial sinusitis, studies of AUGMENTIN ES-600 in pediatric patients with acute otitis media, and by similar pharmacokinetics of amoxicillin and clavulanate in pediatric patients taking AUGMENTIN ES-600 [see Clinical Pharmacology (12)] and adults taking AUGMENTIN XR.
+This use is supported by evidence from adequate and well-controlled studies of AUGMENTIN XRTM Extended Release Tablets in adults with acute bacterial sinusitis, studies of AUGMENTIN ES-600 in pediatric patients with acute otitis media, and by similar pharmacokinetics of amoxicillin and clavulanate in pediatric patients taking AUGMENTIN ES-600 [see Clinical Pharmacology (12)]and adults taking AUGMENTIN XR.

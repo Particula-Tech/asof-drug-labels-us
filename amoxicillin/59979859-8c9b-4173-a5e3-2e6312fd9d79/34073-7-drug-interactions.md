@@ -24,7 +24,7 @@ AUGMENTIN ES-600 may affect intestinal flora, leading to lower estrogen reabsorp
 
 ## 7.5 Effects on Laboratory Tests
 
-High urine concentrations of amoxicillin may result in false-positive reactions when testing for the presence of glucose in urine using CLINITEST®, Benedict's Solution, or Fehling's Solution.
+High urine concentrations of amoxicillin may result in false-positive reactions when testing for the presence of glucose in urine using CLINITEST ®, Benedict's Solution, or Fehling's Solution.
 Since this effect may also occur with AUGMENTIN ES-600, it is recommended that glucose tests based on enzymatic glucose oxidase reactions be used.
 
 Following administration of amoxicillin to pregnant women, a transient decrease in plasma concentration of total conjugated estriol, estriol-glucuronide, conjugated estrone, and estradiol has been noted.

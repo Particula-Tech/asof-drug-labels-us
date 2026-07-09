@@ -19,8 +19,8 @@ Bacteriologic Eradication Rates in the Per Protocol Population
 | --- | --- | --- | --- |
 | Pathogen | n/N | % | 95% CI* |
 | All S. pneumoniae | 121/123 | 98 | (94.3, 99.8) |
-| S. pneumoniae with penicillin MIC equal to 2 mcg/mL | 19/19 | 100 | (82.4, 100.0) |
-| S. pneumoniae with penicillin MIC equal to 4 mcg/mL | 12/14 | 86 | (57.2, 98.2) |
+| S. pneumoniaewith penicillin MIC equal to 2 mcg/mL | 19/19 | 100 | (82.4, 100.0) |
+| S. pneumoniaewith penicillin MIC equal to 4 mcg/mL | 12/14 | 86 | (57.2, 98.2) |
 | H. influenzae | 75/81 | 93 | (84.6, 97.2) |
 | M. catarrhalis | 11/11 | 100 | (71.5, 100.0) |
 | * CI equals confidence intervals; 95% CIs are not adjusted for multiple comparisons. |  |  |  |
@@ -37,8 +37,8 @@ Clinical Assessments in the Per Protocol Population (Includes S. pneumoniae Pati
 | --- | --- | --- | --- |
 | Pathogen | n/N | % | 95% CI† |
 | All S. pneumoniae | 122/137 | 89 | (82.6, 93.7) |
-| S. pneumoniae with penicillin MIC equal to 2 mcg/mL | 17/20 | 85 | (62.1, 96.8) |
-| S. pneumoniae with penicillin MIC equal to 4 mcg/mL | 11/14 | 79 | (49.2, 95.3) |
+| S. pneumoniaewith penicillin MIC equal to 2 mcg/mL | 17/20 | 85 | (62.1, 96.8) |
+| S. pneumoniaewith penicillin MIC equal to 4 mcg/mL | 11/14 | 79 | (49.2, 95.3) |
 | H. influenzae | 141/162 | 87 | (80.9, 91.8) |
 | M. catarrhalis | 22/26 | 85 | (65.1, 95.6) |
 
@@ -46,12 +46,12 @@ Clinical Assessments in the Per Protocol Population (Includes S. pneumoniae Pati
 | --- | --- | --- | --- |
 | Pathogen | n/N | % | 95% CI† |
 | All S. pneumoniae | 95/136 | 70 | (61.4, 77.4) |
-| S. pneumoniae with penicillin MIC equal to 2 mcg/mL | 11/20 | 55 | (31.5, 76.9) |
-| S. pneumoniae with penicillin MIC equal to 4 mcg/mL | 5/14 | 36 | (12.8, 64.9) |
+| S. pneumoniaewith penicillin MIC equal to 2 mcg/mL | 11/20 | 55 | (31.5, 76.9) |
+| S. pneumoniaewith penicillin MIC equal to 4 mcg/mL | 5/14 | 36 | (12.8, 64.9) |
 | H. influenzae | 106/156 | 68 | (60.0, 75.2) |
 | M. catarrhalis | 14/25 | 56 | (34.9, 75.6) |
-| * S. pneumoniae strains with penicillin MICs of 2 or 4 mcg/mL are considered resistant to penicillin. |  |  |  |
+| * S. pneumoniaestrains with penicillin MICs of 2 or 4 mcg/mL are considered resistant to penicillin. |  |  |  |
 | † CI equals confidence intervals; 95% CIs are not adjusted for multiple comparisons. |  |  |  |
 | ‡ Clinical assessments at 15 to 18 days post-therapy may have been confounded by viral infections and new episodes of acute otitis media with time elapsed post-treatment. |  |  |  |
 
-In the intent-to-treat analysis, overall clinical outcomes at 2 to 4 days and 15 to 18 days post-treatment in patients with S. pneumoniae with penicillin MIC equal to 2 mcg/mL and 4 mcg/mL were 29/41 (71%) and 17/41 (42%), respectively.
+In the intent-to-treat analysis, overall clinical outcomes at 2 to 4 days and 15 to 18 days post-treatment in patients with S. pneumoniaewith penicillin MIC equal to 2 mcg/mL and 4 mcg/mL were 29/41 (71%) and 17/41 (42%), respectively.

@@ -5,7 +5,8 @@ Rash, hyperactivity, or drowsiness have also been observed in a small number of 
 
 In the case of overdosage, discontinue AUGMENTIN ES-600, treat symptomatically, and institute supportive measures as required.
 If the overdosage is very recent and there is no contraindication, an attempt at emesis or other means of removal of drug from the stomach may be performed.
-A prospective study of 51 pediatric patients at a poison control center suggested that overdosages of less than 250 mg/kg of amoxicillin are not associated with significant clinical symptoms and do not require gastric emptying.1
+A prospective study of 51 pediatric patients at a poison control center suggested that overdosages of less than 250 mg/kg of amoxicillin are not associated with significant clinical symptoms and do not require gastric emptying.
+1
 
 Interstitial nephritis resulting in oliguric renal failure has been reported in a small number of patients after overdosage with amoxicillin.
 
