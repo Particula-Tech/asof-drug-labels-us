@@ -4,17 +4,15 @@
 
 incobotulinumtoxinA
 
-XEOMIN® For injection
+XEOMIN® for Injection
 
-For Intramuscular And Intraglandular Use
+For Intramuscular and Intraglandular Use
 
-50 units/vial
+WARNING: Dosing Units of botulinum toxins are not interchangeable between commercial products.
 
-Dispense the enclosed Medication Guide to each patient.
+MERZ
 
-WARNING: Dosing units of botulinum toxins are not interchangeable between commercial products.
-
-MERZ THERAPEUTICS
+50 units/vial Dispense the enclosed Medication Guide to each patient.
 
 # PRINCIPAL DISPLAY PANEL - 100 Unit Vial Carton
 
@@ -22,17 +20,15 @@ MERZ THERAPEUTICS
 
 incobotulinumtoxinA
 
-XEOMIN® For injection
+XEOMIN® for Injection
 
-For Intramuscular And Intraglandular Use
+For Intramuscular and Intraglandular Use
 
-100 units/vial
+WARNING: Dosing Units of botulinum toxins are not interchangeable between commercial products.
 
-Dispense the enclosed Medication Guide to each patient.
+MERZ
 
-WARNING: Dosing units of botulinum toxins are not interchangeable between commercial products.
-
-MERZ THERAPEUTICS
+100 units/vial Dispense the enclosed Medication Guide to each patient.
 
 # PRINCIPAL DISPLAY PANEL - 50 Unit Vial Carton - NDC 0259-4150-01
 
@@ -40,19 +36,15 @@ MERZ THERAPEUTICS
 
 incobotulinumtoxinA
 
-XEOMIN® For injection
+XEOMIN® for Injection
 
-Physician sample - not for resale
+For Intramuscular and Intraglandular Use
 
-For Intramuscular And Intraglandular Use
+WARNING: Dosing Units of botulinum toxins are not interchangeable between commercial products.
 
-50 units/vial
+MERZ
 
-Dispense the enclosed Medication Guide to each patient.
-
-WARNING: Dosing units of botulinum toxins are not interchangeable between commercial products.
-
-MERZ THERAPEUTICS
+50 units/vial Dispense the enclosed Medication Guide to each patient.
 
 # PRINCIPAL DISPLAY PANEL - 100 Unit Vial Carton - NDC 0259-4110-01
 
@@ -60,19 +52,15 @@ MERZ THERAPEUTICS
 
 incobotulinumtoxinA
 
-XEOMIN® For injection
+XEOMIN® for Injection
 
-Physician sample - not for resale
+For Intramuscular and Intraglandular Use
 
-For Intramuscular And Intraglandular Use
+WARNING: Dosing Units of botulinum toxins are not interchangeable between commercial products.
 
-100 units/vial
+MERZ
 
-Dispense the enclosed Medication Guide to each patient.
-
-WARNING: Dosing units of botulinum toxins are not interchangeable between commercial products.
-
-MERZ THERAPEUTICS
+100 units/vial Dispense the enclosed Medication Guide to each patient.
 
 # PRINCIPAL DISPLAY PANEL - 200 Unit Vial Carton
 
@@ -80,14 +68,12 @@ MERZ THERAPEUTICS
 
 incobotulinumtoxinA
 
-XEOMIN® For injection
+XEOMIN® for Injection
 
-For Intramuscular And Intraglandular Use
+For Intramuscular and Intraglandular Use
 
-200 units/vial
+WARNING: Dosing Units of botulinum toxins are not interchangeable between commercial products.
 
-Dispense the enclosed Medication Guide to each patient.
+MERZ
 
-WARNING: Dosing units of botulinum toxins are not interchangeable between commercial products.
-
-MERZ THERAPEUTICS
+200 units/vial Dispense the enclosed Medication Guide to each patient.

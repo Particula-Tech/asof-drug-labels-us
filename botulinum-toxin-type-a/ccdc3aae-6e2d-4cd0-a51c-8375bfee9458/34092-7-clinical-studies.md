@@ -147,7 +147,7 @@ Figure 8: Investigator's GICS in Adult Upper Limb Spasticity Study 1
 Upper Limb Spasticity in Pediatric Patients
 
 Study 1 (NCT02002884) was a prospective, double-blind, dose-response, randomized, multi-center trial with an open-label extension period to evaluate the efficacy and safety of XEOMIN for the treatment of upper limb spasticity in pediatric patients.
-Study 1 enrolled a total of 350 pediatric patients 2 to 17 years of age with upper limb spasticity in one or both upper limbs.
+Study 1 enrolled a total of 350 pediatric patients 2 to 17 years of age with upper limb spasticity in one or both upper limbs due to cerebral palsy.
 In the double-blind main period of Study 1, patients were randomized to one of three dosages of XEOMIN: 2 Units/kg (maximum 50 Units per upper limb), 6 Units/kg (maximum 150 Units per upper limb); or 8 Units/kg (maximum 200 Units per upper limb).
 The maximum dose, if both upper limbs were treated, respectively was 4 Units/kg (maximum 100 Units), 12 Units/kg (maximum 300 Units), or 16 Units/kg (maximum 400 Units).
 For treatment of flexed elbow, injection of biceps brachii was mandatory.

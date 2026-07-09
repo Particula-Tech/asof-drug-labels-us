@@ -95,7 +95,7 @@ Table 3: XEOMIN Dosing by Muscle for Treatment of Adult Upper Limb Spasticity
 
 Figure 3: Muscles Involved In Adult Upper Limb Spasticity
 
-Upper Limb Spasticity in Pediatric Patients, Excluding Spasticity Caused by Cerebral Palsy
+Upper Limb Spasticity in Pediatric Patients
 
 Tailor the exact dosage, frequency, and number of injection sites to the individual patient based on size, number and localization of involved muscles; the severity of spasticity; and the presence of local muscle weakness.
 
@@ -108,7 +108,7 @@ Most patients in clinical studies were retreated between 12 and 16 weeks.
 
 Table 4 includes the recommended dose ranges for the treatment of the clinical patterns of flexed elbow, flexed wrist, pronated forearm, clenched fist, and thumb-in-palm.
 
-Table 4: XEOMIN Dosing by Muscle for Treatment of Pediatric Upper Limb Spasticity, Excluding Spasticity Caused by Cerebral Palsy
+Table 4: XEOMIN Dosing by Muscle for Treatment of Pediatric Upper Limb Spasticity
 
 | Range (Units/kg) | Maximum (Units) |  |  |
 | --- | --- | --- | --- |
@@ -136,6 +136,7 @@ Figure 4: Muscles Injected for Pediatric Upper Limb Spasticity
 ## 2.4 Recommended Dose for Cervical Dystonia
 
 The recommended initial dose of XEOMIN for cervical dystonia is 120 Units.
+In a placebo-controlled trial utilizing initial XEOMIN doses of 120 Units and 240 Units, no meaningful difference in effectiveness was demonstrated between the doses [see Clinical Studies (14.3)].
 In previously treated patients, their past dose, response to treatment, duration of effect, and adverse event history should be taken into consideration when determining the XEOMIN dose.
 
 In the treatment of cervical dystonia, XEOMIN is usually injected into the sternocleidomastoid, levator scapulae, splenius capitis, scalenus, and/or the trapezius muscle(s) (see Figure 5).
@@ -144,7 +145,7 @@ The dose and number of injection sites in each treated muscle should be individu
 
 The frequency of XEOMIN repeat treatments should be determined by clinical response, but should generally be no more frequent than every 12 weeks [see Clinical Studies (14.3)].
 
-Figure 5: Muscles Involved in Cervical Dystonia
+Figure 5: Muscles Involved in Cervical Dsytonia
 
 ## 2.5 Recommended Dose for Blepharospasm
 
@@ -266,7 +267,7 @@ Use a sterile needle (e.g., 26-gauge (0.45 mm diameter), 37 mm length for superf
 
 Localization of the involved muscles with electromyographic guidance, nerve stimulation, or ultrasound techniques is recommended.
 
-Upper Limb Spasticity in Pediatric Patients, Excluding Spasticity Caused by Cerebral Palsy
+Upper Limb Spasticity in Pediatric Patients
 
 Use a sterile needle (e.g., 30-gauge (0.30 mm diameter), 25 mm length for superficial muscles; or 27-gauge (0.40 mm diameter), 37 mm length for deeper musculature) in the intramuscular administration in the treatment of upper limb spasticity in pediatric patients.
 
