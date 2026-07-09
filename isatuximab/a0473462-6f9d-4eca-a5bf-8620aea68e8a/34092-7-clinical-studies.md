@@ -138,7 +138,7 @@ Efficacy results are presented in Table 12 and Kaplan-Meier curves for PFS are p
 
 Table 12 – Efficacy Results of SARCLISA in combination with bortezomib, lenalidomide, and dexamethasone versus bortezomib, lenalidomide, and dexamethasone (IMROZ)
 
-| Endpoint | SARCLISA + bortezomib + lenalidomide + dexamethasone N =265 | Bortezomib + lenalidomide + dexamethasone N = 181 |
+| Endpoint | SARCLISA + Bortezomib + Lenalidomide + Dexamethasone N =265 | Bortezomib + Lenalidomide + Dexamethasone N = 181 |
 | --- | --- | --- |
 | Progression-Free SurvivalBased on ITT population. |  |  |
 | Median (months) [95% CI] | NR [NR–NR] | 54.34 [45.21–NR] |

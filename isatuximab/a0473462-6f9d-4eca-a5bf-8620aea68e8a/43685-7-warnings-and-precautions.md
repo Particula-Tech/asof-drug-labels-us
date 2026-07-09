@@ -2,7 +2,8 @@
 
 ## 5.1 Infusion-Related Reactions
 
-Serious infusion-related reactions including life-threatening anaphylactic reactions have occurred with SARCLISA treatment.
+SARCLISA can cause severe and/or serious infusion-related reactions including anaphylactic reactions.
+These reactions can be life-threatening and fatal outcomes have been reported [see Adverse Reactions (6.2)].
 Severe signs and symptoms included cardiac arrest, hypertension, hypotension, bronchospasm, dyspnea, angioedema, and swelling.
 In clinical trials (ICARIA-MM, IKEMA, and IMROZ), in patients treated with SARCLISA (N=592), infusion-related reactions occurred in 206 patients (35%).
 Among these 206 patients, 92% experienced infusion-related reactions during the first infusion and 12% after the first cycle.

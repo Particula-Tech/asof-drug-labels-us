@@ -4,4 +4,4 @@ A SANOFI COMPANY U.S. License No. 1752
 
 SARCLISA is a registered trademark of Sanofi
 
-©2025 sanofi-aventis U.S. LLC
+©2026 sanofi-aventis U.S. LLC

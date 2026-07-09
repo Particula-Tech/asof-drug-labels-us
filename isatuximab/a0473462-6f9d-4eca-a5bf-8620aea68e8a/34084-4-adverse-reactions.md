@@ -198,3 +198,10 @@ Cardiac failure
 In IKEMA, cardiac failure (including cardiac failure, cardiac failure congestive, cardiac failure acute, cardiac failure chronic, left ventricular failure, and pulmonary edema) was reported in 7% of patients with the Isa-Kd group (grade ≥3 in 4%) and in 7% of patients with the Kd group (grade ≥3 in 4.1%).
 Serious cardiac failure was observed in 4% of patients in the Isa-Kd group and in 3.3% of patients in the Kd group.
 See the current prescribing information for carfilzomib for more information.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified with postapproval use of SARCLISA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Immune System Disorders: Anaphylactic reactions including fatal cases.
