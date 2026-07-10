@@ -5,11 +5,18 @@
   "inn": "diazepam",
   "labeler": "Hikma Pharmaceuticals USA Inc.",
   "package_ndcs": [
-    "0641-6243-10"
+    "0641-6243-10",
+    "0641-6283-01",
+    "0641-6283-25"
   ],
   "products": [
     {
       "form": "INJECTION",
+      "generic": "diazepam",
+      "name": "Diazepam"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
       "generic": "diazepam",
       "name": "Diazepam"
     }

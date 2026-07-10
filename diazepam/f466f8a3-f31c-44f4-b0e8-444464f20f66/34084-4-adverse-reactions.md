@@ -22,3 +22,5 @@ Minor changes in EEG patterns, usually low-voltage fast activity, have been obse
 In peroral endoscopic procedures, coughing, depressed respiration, dyspnea, hyperventilation, laryngospasm and pain in throat or chest have been reported.
 
 Because of isolated reports of neutropenia and jaundice, periodic blood counts and liver function tests are advisable during long-term therapy.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-845-0689 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

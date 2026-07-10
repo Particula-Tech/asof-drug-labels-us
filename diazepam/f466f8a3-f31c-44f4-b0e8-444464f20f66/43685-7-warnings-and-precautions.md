@@ -25,18 +25,18 @@ For patients using diazepam more frequently than recommended, to reduce the risk
 
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
 
-Acute Withdrawal Reactions
+### Acute Withdrawal Reactions
 
 The continued use of benzodiazepines, including diazepam may lead to clinically significant physical dependence.
 Although diazepam is indicated only for intermittent use (see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION), if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction of diazepam or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE; Dependence).
 
-Protracted Withdrawal Syndrome
+### Protracted Withdrawal Syndrome
 
 In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE; Dependence).
 
 When used intravenously, the following procedures should be undertaken to reduce the possibility of venous thrombosis, phlebitis, local irritation, swelling, and, rarely, vascular impairment; the solution should be injected slowly, taking at least one minute for each 5 mg (1 mL) given except for treatment of status epilepticus in children (see DOSAGE AND ADMINISTRATION); do not use small veins, such as those on the dorsum of the hand or wrist; extreme care should be taken to avoid intra-arterial administration or extravasation.
 
-Do not mix or dilute diazepam with other solutions or drugs in syringe or infusion container.
+Do not mix or dilute diazepam injection with other solutions or drugs in syringe or infusion container.
 If it is not feasible to administer diazepam directly intravenous, it may be injected slowly through the infusion tubing as close as possible to the vein insertion.
 
 Extreme care must be used in administering diazepam injection, particularly by the intravenous route, to the elderly, to very ill patients and to those with limited pulmonary reserve because of the possibility that apnea and/or cardiac arrest may occur.
@@ -51,7 +51,7 @@ As is true of most CNS-acting drugs, patients receiving diazepam should be cauti
 
 Tonic status epilepticus has been precipitated in patients treated with intravenous diazepam for petit mal status or petit mal variant status.
 
-Neonatal Sedation and Withdrawal Syndrome
+### Neonatal Sedation and Withdrawal Syndrome
 
 Use of Diazepam injection late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS; Pregnancy).
 Monitor neonates exposed to Diazepam injection during pregnancy or labor for signs of sedation and monitor neonates exposed to Diazepam injection during pregnancy for signs of withdrawal; manage these neonates accordingly.
@@ -62,7 +62,7 @@ Efficacy and safety of parenteral diazepam has not been established in the neona
 
 Prolonged central nervous system depression has been observed in neonates, apparently due to inability to biotransform diazepam into inactive metabolites.
 
-In pediatric use for the treatment of status epilepticus, in order to obtain maximal clinical effect with the minimum amount of drug and thus to reduce the risk of hazardous side effects, such as apnea or prolonged periods of somnolence, it is recommended that the drug be given as a slow IV push over 1 minute (see DOSAGE AND ADMINISTRATION).
+In pediatric use for the treatment of status epilepticus, in order to obtain maximal clinical effect with the minimum amount of drug and thus to reduce the risk of hazardous side effects, such as apnea or prolonged periods of somnolence, it is recommended that the drug be given as a slow intravenous push over 1 minute (see DOSAGE AND ADMINISTRATION).
 The safety and tolerability of the recommended dosage regimen is supported by a randomized, double-blind study that included 162 pediatric patients ages 3 months to 17 years who received intravenous diazepam for the treatment of status epilepticus.
 In this study, 16% of pediatric patients who received diazepam experienced severe or life-threatening respiratory depression.
 
@@ -108,11 +108,11 @@ Inform patients that in some cases, patients taking benzodiazepines have develop
 
 ## Pregnancy
 
-Advise pregnant females that use of diazepam Injection late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS; Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS; Pregnancy).
+Advise pregnant females that use of diazepam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS; Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS; Pregnancy).
 
 Instruct patients to inform their healthcare provider if they are pregnant.
 
-Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Diazepam Injection during pregnancy (see PRECAUTIONS; Pregnancy).
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to diazepam during pregnancy (see PRECAUTIONS; Pregnancy).
 
 ## Nursing
 
@@ -125,7 +125,7 @@ Benzodiazepines interact at GABAA sites and opioids interact primarily at mµ re
 When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
 Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
 
-If diazepam is to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed—particularly with known compounds which may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
+If diazepam is to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed - particularly with known compounds which may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
 In highly anxious patients with evidence of accompanying depression, particularly those who may have suicidal tendencies, protective measures may be necessary.
 
 Diazepam injection has produced hypotension or muscular weakness in some patients particularly when used with narcotics, barbiturates or alcohol.
@@ -135,30 +135,30 @@ The clinical significance of this is unclear.
 
 ## Pregnancy:
 
-Pregnancy Exposure Registry
+### Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs, such as Diazepam injection, during pregnancy.
 Healthcare providers are encouraged to recommend that pregnant patient taking Diazepam injection enroll in the NAAED Pregnancy Registry by calling 1-888-233-2334 or online at http://www.aedpregnancyregistry.org/.
 
-Risk Summary
+### Risk Summary
 
-Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS; Neonatal Sedation and Withdrawal Syndrome, and PRECAUTIONS: Clinical Considerations).
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS; Neonatal Sedation and Withdrawal Syndrome, and PRECAUTIONS; Clinical Considerations).
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Clinical Considerations
+### Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
 Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia, and sedation in neonates.
-Monitor neonates exposed to Diazepam injection during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
-Monitor neonates exposed to Diazepam injection during pregnancy for signs of withdrawal.
+Monitor neonates exposed to Diazepam during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
+Monitor neonates exposed to diazepam during pregnancy for signs of withdrawal.
 Manage these neonates accordingly (see WARNINGS; Neonatal Sedation and Withdrawal Syndrome).
 
-Data
+### Data
 
 Human Data
 
@@ -176,13 +176,13 @@ The window of vulnerability to these changes in rats (postnatal days 0-14) inclu
 
 ## Nursing Mothers:
 
-Risk Summary
+### Risk Summary
 
 Diazepam is present in breastmilk.
 There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk.
 There are no data on the effects of diazepam on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Diazepam injection and any potential adverse effects on the breastfed infant from Diazepam injection or from the underlying maternal condition.
 
-Clinical Considerations
+### Clinical Considerations
 
 Infants exposed to Diazepam injection through breast milk should be monitored for sedation, poor feeding and poor weight gain.

@@ -4,7 +4,7 @@ Overdosage of benzodiazepines is characterized by central nervous system depress
 In mild to moderate cases, symptoms can include drowsiness, confusion, dysarthria, lethargy, hypnotic state, diminished reflexes, ataxia, and hypotonia.
 Rarely, paradoxical or disinhibitory reactions (including agitation, irritability, impulsivity, violent behavior, confusion, restlessness, excitement, and talkativeness) may occur.
 In severe overdosage cases, patients may develop respiratory depression and coma.
-Overdosage of benzodiazepines in combination with other CNS depressants (including alcohol and opioids) may be fatal (see Warnings; Abuse, Misuse, and Addiction).
+Overdosage of benzodiazepines in combination with other CNS depressants (including alcohol and opioids) may be fatal (see WARNINGS; Abuse, Misuse, and Addiction).
 Markedly abnormal (lowered or elevated) blood pressure, heart rate, or respiratory rate raise the concern that additional drugs and/or alcohol are involved in the overdosage.
 
 In managing benzodiazepine overdosage, employ general supportive measures, including intravenous fluids and airway maintenance.
@@ -21,9 +21,7 @@ Consider contacting a poison center (1-800-222-1222), poisoncontrol.org or a med
 Oral LD50 of diazepam is 720 mg/kg in mice and 1240 mg/kg in rats.
 Intraperitoneal administration of 400 mg/kg to a monkey resulted in death on the sixth day.
 
-## Reproduction Studies
-
-A series of rat reproduction studies was performed with diazepam in oral doses of 1, 10, 80 and 100 mg/kg given for periods ranging from 60 to 228 days prior to mating.
+Reproduction Studies: A series of rat reproduction studies was performed with diazepam in oral doses of 1, 10, 80 and 100 mg/kg given for periods ranging from 60 to 228 days prior to mating.
 At 100 mg/kg there was a decrease in the number of pregnancies and surviving offspring in these rats.
 These effects may be attributable to prolonged sedative activity, resulting in lack of interest in mating and lessened maternal nursing and care of the young.
 Neonatal survival of rats at doses lower than 100 mg/kg was within normal limits.
@@ -36,6 +34,6 @@ CAUTION: Federal (USA) law prohibits dispensing without prescription.
 
 Manufactured by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised 05 2023
+Revised: December 2025
 
-462-003-07
+462-003-10
