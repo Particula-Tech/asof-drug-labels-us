@@ -91,6 +91,9 @@ Below is a description of geriatric use information from the intravenous pembrol
 
 - Of 3781 patients with melanoma, NSCLC, HNSCC, or urothelial carcinoma who were treated with intravenous pembrolizumab in clinical studies, 48% were 65 years and over and 17% were 75 years and over.
 - Of 506 adult patients with Stage IB (T2a ≥4 cm), II, or IIIA NSCLC following complete resection and platinum-based chemotherapy who were treated with intravenous pembrolizumab in KEYNOTE-091, 242 (48%) were 65 years and over.
+- Of 221 adult patients with TNBC who were treated with intravenous pembrolizumab in combination with sacituzumab govitecan-hziy in KEYNOTE-D19, 26% of patients were 65 years and over and 5% were 75 years and older.
+  No overall differences in effectiveness were observed between elderly patients and younger patients.
+  There was a higher rate of serious adverse reactions in patients aged 65 years or older (48%) compared with younger adult patients (34%).
 - Of 596 adult patients with TNBC who were treated with intravenous pembrolizumab in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin in KEYNOTE-355, 137 (23%) were 65 years and over.
 - Of 406 adult patients with endometrial carcinoma who were treated with intravenous pembrolizumab in combination with lenvatinib in KEYNOTE-775, 201 (50%) were 65 years and over.
 - Of the 564 patients with locally advanced or metastatic urothelial cancer treated with intravenous pembrolizumab in combination with enfortumab vedotin, 44% (n=247) were 65-74 years and 26% (n=144) were 75 years or older.

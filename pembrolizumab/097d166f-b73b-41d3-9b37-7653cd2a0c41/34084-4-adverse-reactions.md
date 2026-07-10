@@ -25,7 +25,9 @@ The most common adverse reactions (≥20%) in patients who received intravenous 
 - in combination with chemotherapy and bevacizumab: peripheral neuropathy, alopecia, anemia, fatigue/asthenia, nausea, neutropenia, diarrhea, hypertension, thrombocytopenia, constipation, arthralgia, vomiting, urinary tract infection, rash, leukopenia, hypothyroidism, decreased appetite, pyrexia, epistaxis, decreased white blood cell count, and stomatitis.
 - in combination with axitinib: diarrhea, fatigue/asthenia, hypertension, hepatotoxicity, hypothyroidism, decreased appetite, palmar-plantar erythrodysesthesia, nausea, stomatitis/mucosal inflammation, dysphonia, rash, cough, and constipation.
 - in combination with lenvatinib: hypothyroidism, hypertension, fatigue, diarrhea, musculoskeletal disorders, nausea, decreased appetite, vomiting, stomatitis, weight loss, abdominal pain, urinary tract infection, proteinuria, constipation, headache, hemorrhagic events, palmar-plantar erythrodysesthesia, dysphonia, rash, hepatotoxicity, and acute kidney injury.
+- in combination with belzutifan (reported in ≥25%): decreased hemoglobin, increased alanine aminotransferase, fatigue, increased aspartate aminotransferase, decreased lymphocytes, and increased alkaline phosphatase.
 - in combination with enfortumab vedotin: rash, peripheral neuropathy, fatigue, pruritus, diarrhea, alopecia, weight loss, decreased appetite, dry eye, nausea, constipation, dysgeusia, and urinary tract infection.
+- in combination with sacituzumab govitecan-hziy: anemia, neutropenia, diarrhea, nausea, fatigue, alopecia, constipation, rash, vomiting, headache and abdominal pain.
 
 Adverse Reactions in Patients with NSCLC Treated with KEYTRUDA QLEX
 
@@ -436,7 +438,7 @@ The safety of intravenous pembrolizumab was investigated in KEYNOTE-010, a multi
 A total of 991 patients received intravenous pembrolizumab 2 mg/kg (n=339) or 10 mg/kg (n=343) every 3 weeks or docetaxel (n=309) at 75 mg/m2 every 3 weeks.
 Patients with autoimmune disease, medical conditions that required systemic corticosteroids or other immunosuppressive medication, or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
 
-The median duration of exposure to intravenous pembrolizumab 2 mg/kg every 3 weeks was 3.5 months (range: 1 day to 22.4 months) and to intravenous pembrolizumab 10 mg/kg every 3 weeks was 3.5 months (range 1 day to 20.8 months).
+The median duration of exposure to intravenous pembrolizumab 2 mg/kg every 3 weeks was 3.5 months (range: 1 day to 22.4 months) and to intravenous pembrolizumab 10 mg/kg every 3 weeks was 3.5 months (range: 1 day to 20.8 months).
 The data described below reflect exposure to intravenous pembrolizumab 2 mg/kg in 31% of patients exposed to intravenous pembrolizumab for ≥6 months.
 In the intravenous pembrolizumab 10 mg/kg arm, 34% of patients were exposed to intravenous pembrolizumab for ≥6 months.
 
@@ -834,7 +836,7 @@ Cisplatin-ineligible patients with urothelial cancer in combination with enfortu
 
 The safety of intravenous pembrolizumab in combination with enfortumab vedotin was investigated in KEYNOTE-869 in patients with locally advanced or metastatic urothelial cancer and who are not eligible for cisplatin-based chemotherapy [see Clinical Studies (14.7)].
 A total of 121 patients received intravenous pembrolizumab 200 mg on Day 1, and enfortumab vedotin 1.25 mg/kg on days 1 and 8 of each 21-day cycle.
-The median duration of exposure to intravenous pembrolizumab was 6.9 months (range 1 day to 29.6 months).
+The median duration of exposure to intravenous pembrolizumab was 6.9 months (range: 1 day to 29.6 months).
 
 Fatal adverse reactions occurred in 5% of patients treated with intravenous pembrolizumab in combination with enfortumab vedotin, including sepsis (1.6%), bullous dermatitis (0.8%), myasthenia gravis (0.8%), and pneumonitis (0.8%).
 
@@ -1878,7 +1880,6 @@ In combination with belzutifan for the adjuvant treatment of ccRCC (LITESPARK-02
 The safety of intravenous pembrolizumab in combination with belzutifan versus intravenous pembrolizumab in combination with placebo was investigated in LITESPARK-022, a randomized, double-blind trial in 1,828 patients who had undergone nephrectomy for ccRCC [see Clinical Studies (14.16)].
 Patients received either intravenous pembrolizumab 400 mg every 6 weeks in combination with belzutifan 120 mg orally once daily (n=915) or intravenous pembrolizumab 400 mg every 6 weeks in combination with oral placebo (n=913) for up to 9 cycles (54 weeks) until disease recurrence or unacceptable toxicity.
 The median duration of exposure to intravenous pembrolizumab in the treatment arm was 11.1 months (range: 1 day to 16.1 months).
-Patients with active autoimmune disease or a medical condition that required immunosuppression were ineligible.
 
 Serious adverse reactions occurred in 30% of patients who received intravenous pembrolizumab in combination with belzutifan.
 Serious adverse reactions in ≥1% of patients included pneumonia (2%), hypoxia (1.9%), pneumonitis (1.6%), arrhythmia (1.5%), diarrhea (1.1%), and acute kidney injury (1.1%).
@@ -1946,7 +1947,7 @@ In Combination with Lenvatinib for the Treatment of Advanced Endometrial Carcino
 The safety of intravenous pembrolizumab in combination with lenvatinib was investigated in KEYNOTE-775, a multicenter, open-label, randomized (1:1), active-controlled trial in patients with advanced endometrial carcinoma previously treated with at least one prior platinum-based chemotherapy regimen in any setting, including in the neoadjuvant and adjuvant settings [see Clinical Studies (14.17)].
 Patients with endometrial carcinoma that is pMMR or not MSI-H received intravenous pembrolizumab 200 mg every 3 weeks in combination with lenvatinib 20mg orally once daily (n=342) or received doxorubicin or paclitaxel (n=325).
 
-For patients with pMMR or not MSI-H tumor status, the median duration of study treatment was 7.2 months (range 1 day to 26.8 months) and the median duration of exposure to intravenous pembrolizumab was 6.8 months (range: 1 day to 25.8 months).
+For patients with pMMR or not MSI-H tumor status, the median duration of study treatment was 7.2 months (range: 1 day to 26.8 months) and the median duration of exposure to intravenous pembrolizumab was 6.8 months (range: 1 day to 25.8 months).
 
 Fatal adverse reactions among these patients occurred in 4.7% of those treated with intravenous pembrolizumab and lenvatinib, including 2 cases of pneumonia, and 1 case of the following: acute kidney injury, acute myocardial infarction, colitis, decreased appetite, intestinal perforation, lower gastrointestinal hemorrhage, malignant gastrointestinal obstruction, multiple organ dysfunction syndrome, myelodysplastic syndrome, pulmonary embolism, and right ventricular dysfunction.
 
@@ -2123,6 +2124,24 @@ Table 56: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 | Hypocalcemia | 31 | 2.2 | 28 | 3.1 |
 | Hypokalemia | 31 | 6 | 22 | 2.8 |
 | Hypophosphatemia | 20 | 6 | 15 | 4.2 |
+
+Locally Advanced or Metastatic TNBC
+
+The safety of intravenous pembrolizumab in combination with sacituzumab govitecan-hziy was evaluated in KEYNOTE-D19 in 221 patients with unresectable locally advanced or metastatic TNBC who had not been previously treated with systemic therapy for advanced disease and whose tumors express PD-L1, and who had received at least one dose of intravenous pembrolizumab 200 mg every 3 weeks in combination with sacituzumab govitecan-hziy [see Clinical Studies (14.20)].
+The median duration of exposure to intravenous pembrolizumab was 8.5 months (range: 1 day to 26.8 months).
+
+Fatal adverse reactions occurred in 3.2% of patients receiving intravenous pembrolizumab in combination with sacituzumab govitecan-hziy, including death due to unknown cause (0.9%), and completed suicide, neutropenic sepsis, sepsis, pneumonia, and pulmonary embolism (0.5% each).
+
+Serious adverse reactions occurred in 38% of patients receiving intravenous pembrolizumab in combination with sacituzumab govitecan-hziy.
+Serious adverse reactions in ≥2% of patients were febrile neutropenia (7%), neutropenia (6%), diarrhea (5%), fatigue and pneumonia (2.3% each).
+
+Permanent discontinuation of intravenous pembrolizumab due to an adverse reaction occurred in 9% of patients.
+The adverse reactions which resulted in permanent discontinuation of intravenous pembrolizumab most commonly (≥1%) were pneumonitis and rash (1.4% each).
+
+Dosage interruptions of intravenous pembrolizumab due to adverse reactions occurred in 67% of patients.
+Adverse reactions which required dosage interruption in ≥2% of patients included neutropenia (36%), diarrhea (7%), upper respiratory tract infection (4.5%), anemia (4.1%), fatigue (4.1%), increased ALT (3.2%), cough (2.7%), leukopenia (2.7%), nausea (2.7%), pyrexia (2.7%), rash (2.7%), vomiting (2.7%), and COVID-19 (2.3%).
+
+The most common (≥25%) adverse reactions, including laboratory abnormalities, occurring in patients treated with intravenous pembrolizumab in combination with sacituzumab govitecan-hziy were decreased neutrophil count and decreased hemoglobin (86% each), decreased leukocyte count (84%), diarrhea (72%), nausea (68%), decreased lymphocyte count (61%), fatigue (58%), alopecia (52%) increased alkaline phosphatase and increased glucose (50% each), increased alanine aminotransferase (47%), constipation (41%), increased aspartate aminotransferase (40%), rash (37%), decreased potassium (35%), increased lactate dehydrogenase (34%), vomiting (29%), abdominal pain, headache, and increased eosinophils (26% each), and decreased albumin (25%).
 
 Locally Recurrent Unresectable or Metastatic TNBC
 
