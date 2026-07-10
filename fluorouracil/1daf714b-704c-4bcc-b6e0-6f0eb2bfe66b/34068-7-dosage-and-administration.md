@@ -17,17 +17,17 @@ Dosage recommendations are in Table 1.
 
 Table 1: Recommended dosage of FAVLYXA
 
-| Indication | Recommended Dosage | Duration of Treatment |
-| --- | --- | --- |
-| Adenocarcinoma of the Colon and Rectum |  |  |
-| In combination with leucovorin or as a component of a multidrug chemotherapy regimen that includes leucovorin | 400 mg/m2 for one dose, followed by 2,400 mg/m2 to 3,000 mg/m2 over 46 hours on day 1 of each 2-week cycle | Until disease progression or unacceptable toxicity. |
-| In combination with leucovorin alone (bolus regimen) | 500 mg/m2 on days 1, 8, 15, 22, 29 and 36 of each 8-week cycle | Until disease progression or unacceptable toxicity. |
-| Adenocarcinoma of the Breast |  |  |
-| In combination with cyclophosphamide-based multidrug regimen (bolus regimen) | 500 mg/m2 or 600 mg/m2 on days 1 and 8 of each 28-day cycle | Until disease progression or unacceptable toxicity or 6 cycles |
-| Gastric Adenocarcinoma |  |  |
-| In combination with a platinum-containing multidrug regimen | 200 mg/m2 to 1,000 mg/m2 over 24 hours | Frequency in each cycle and length of each cycle depend on dose of FAVLYXA and specific regimen |
-| Pancreatic Adenocarcinoma |  |  |
-| In combination with leucovorin or as a component of a multidrug chemotherapy regimen that includes leucovorin | 400 mg/m2 on day 1, followed by 2,400 mg/m2 over 46 hours every 2 weeks | Until disease progression or unacceptable toxicity. |
+| Indication | Recommended Dosage | Duration of Treatment |  |  |
+| --- | --- | --- | --- | --- |
+| Adenocarcinoma of the Colon and Rectum |  |  |  |  |
+| In combination with leucovorin or as a component of a multidrug chemotherapy regimen that includes leucovorin | 400 mg/m2 for one dose, followed by 2,400 mg/m2 to 3,000 mg/m2 over 46 hours on day 1 of each 2-week cycle | Until disease progression or unacceptable toxicity. |  |  |
+| In combination with leucovorin alone (bolus regimen) | 500 mg/m2 on days 1, 8, 15, 22, 29 and 36 of each 8-week cycle | Until disease progression or unacceptable toxicity. |  |  |
+| Adenocarcinoma of the Breast |  |  |  |  |
+| In combination with cyclophosphamide-based multidrug regimen (bolus regimen) | 500 mg/m2 or 600 mg/m2 on days 1 and 8 of each 28-day cycle | Until disease progression or unacceptable toxicity or 6 cycles |  |  |
+| Gastric Adenocarcinoma |  |  |  |  |
+| In combination with a platinum-containing multidrug regimen | 200 mg/m2 to 1,000 mg/m2 over 24 hours | Frequency in each cycle and length of each cycle depend on dose of FAVLYXA and specific regimen |  |  |
+| Pancreatic Adenocarcinoma |  |  |  |  |
+| In combination with leucovorin or as a component of a multidrug chemotherapy regimen that includes leucovorin | 400 mg/m2 on day 1, followed by 2,400 mg/m2 over 46 hours every 2 weeks | Until disease progression or unacceptable toxicity. |  |  |
 
 ## 2.3 Dosage Modifications for Adverse Reactions
 
@@ -58,7 +58,9 @@ Preparation
 
 - Select the appropriate number of vial(s) based on the prescribed dose.
 - Withdraw the calculated dose into a sterile syringe.
-- Discard partially used or empty vials of FAVLYXA.
+- If using a single-dose vial, discard partially used or empty single-dose vials.
+- If using a multiple-dose vial, after first use, store the partially used multiple-dose vial in the original carton at room temperature 20°C to 25°C (68°F to 77°F) for up to 28 days.
+  Discard unused portion of the multiple-dose vial after 28 days.
 
 Administration
 
@@ -77,6 +79,9 @@ Preparation
 - Select the appropriate number of vial(s) based on the prescribed dose.
 - Withdraw the calculated dose into a sterile syringe.
 - Dilute the calculated dose in an appropriate amount of 0.9% Sodium Chloride Injection, or 5% Dextrose Injection, to prepare an infusion solution with a final concentration ranging from 1.5 mg/mL to 10 mg/mL.
+- If using a single-dose vial, discard partially used or empty single-dose vials.
+- If using a multiple-dose vial, after first use, store the partially used multiple-dose vial in the original carton at room temperature 20°C to 25°C (68°F to 77°F) for up to 28 days.
+  Discard unused portion of the multiple-dose vial after 28 days.
 
 Administration
 

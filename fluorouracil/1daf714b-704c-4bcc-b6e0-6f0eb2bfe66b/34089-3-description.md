@@ -8,6 +8,6 @@ Molecular formula: C4H3FN2O2
 
 Molecular weight: 130.08 g/mole
 
-FAVLYXA injection 250 mg/10 mL is a sterile, colorless to light yellow clear solution available in single-dose vials for intravenous bolus or infusion administration.
+FAVLYXA injection is a sterile, colorless to light yellow clear solution available in 250 mg/10 mL single-dose vials and 2,500 mg/100 mL multiple-dose vials for intravenous bolus or infusion administration.
 Each mL contains 25 mg fluorouracil in water for injection.
 Sodium hydroxide is added to adjust the pH to 8.6 to 9.4.

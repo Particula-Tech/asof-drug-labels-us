@@ -31,7 +31,7 @@ Inform patients who develop a fever of 100.5°F or greater or other evidence of 
 
 Mucositis
 
-Inform patients experiencing grade 2 stomatitis (painful erythema, edema or ulcers of the mouth or tongue, but able to eat) or greater to contact their healthcare provider [see Adverse Reactions (5.8)].
+Inform patients experiencing grade 2 stomatitis (painful erythema, edema or ulcers of the mouth or tongue, but able to eat) or greater to contact their healthcare provider [see Warnings and Precautions (5.8)].
 
 Increased Risk of Bleeding with Concomitant Warfarin
 
@@ -69,4 +69,4 @@ Avyxa Pharma, LLC New Jersey 07054, USA
 
 Made in China
 
-Revised: 02/2026
+Revised: 07/2026
