@@ -1,9 +1,10 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Severe Skin Reactions
+## 5.1 Skin and Hypersensitivity Reactions
 
 Severe skin reactions, including Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN), have been reported during the postmarketing experience with doravirine-containing regimens [see Adverse Reactions (6.2)].
-Discontinue DELSTRIGO, and other medications known to be associated with severe skin reactions, immediately if a painful rash with mucosal involvement or a progressive severe rash develops.
+In addition, Drug Rash with Eosinophilia and Systemic Symptoms (DRESS syndrome) was reported in a clinical trial with a two-drug regimen containing doravirine.
+Discontinue DELSTRIGO, and other medications known to be associated with severe skin reactions, immediately if a painful rash with mucosal involvement, a progressive severe rash, or a rash with constitutional symptoms, eosinophilia, lymphadenopathy, or other organ involvement develops.
 Clinical status should be closely monitored, and appropriate therapy should be initiated.
 
 ## 5.2 Severe Acute Exacerbation of Hepatitis B in People with Concomitant HIV-1 and HBV

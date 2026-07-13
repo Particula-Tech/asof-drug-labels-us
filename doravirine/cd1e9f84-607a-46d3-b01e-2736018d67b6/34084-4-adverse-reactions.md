@@ -2,6 +2,7 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
+- Skin and Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Severe Acute Exacerbation of Hepatitis B in people with concomitant HIV-1 and HBV [see Warnings and Precautions (5.2)]
 - New Onset or Worsening Renal Impairment [see Warnings and Precautions (5.3)]
 - Bone Loss and Mineralization Defects [see Warnings and Precautions (5.5)]

@@ -2,11 +2,11 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Severe Skin Reactions
+Skin and Hypersensitivity Reactions
 
-Inform patients that severe skin reactions including Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) have been reported with DELSTRIGO.
+Inform patients that severe skin reactions including Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) and Drug Rash with Eosinophilia and Systemic Symptoms (DRESS) have been reported with doravirine-containing regimens.
 Advise patients to immediately contact their healthcare provider if they develop a rash.
-Instruct patients to immediately stop taking DELSTRIGO and seek medical attention if a painful rash with mucosal involvement develops [see Warnings and Precautions (5.1)].
+Instruct patients to immediately stop taking DELSTRIGO and seek medical attention if a painful rash with mucosal involvement or a rash with constitutional symptoms develops [see Warnings and Precautions (5.1)].
 
 Severe Acute Exacerbation of Hepatitis B in people with concomitant HIV-1 and HBV
 
