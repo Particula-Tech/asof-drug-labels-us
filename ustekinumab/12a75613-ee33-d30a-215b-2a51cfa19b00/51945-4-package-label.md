@@ -2,7 +2,7 @@
 
 NDC 83257-023-41
 
-YesintekTM (ustekinumab-kfce) Injection
+Yesintek® (ustekinumab-kfce) Injection
 
 45 mg/0.5 mL
 
@@ -37,7 +37,7 @@ Write the date removed from the refrigerator ____/____/______.
 
 Discard if not used within 30 days at room temperature.
 
-Do not use YesintekTM injection after the expiration date on the carton or on the prefilled syringe.
+Do not use Yesintek® injection after the expiration date on the carton or on the prefilled syringe.
 
 No preservative.
 
@@ -45,7 +45,9 @@ Manufactured by:
 
 Biocon Biologics Inc.
 
-245 Main St, 2nd Floor Cambridge, MA 02142 U.S.A.
+685 Route 202/206, Suite 204,
+
+Bridgewater, NJ 08807, U.S.A.
 
 U.S. License No. 2324
 
@@ -59,7 +61,7 @@ No.: KTK/29/8253/2020
 
 NDC 83257-025-41
 
-YesintekTM (ustekinumab-kfce) Injection
+Yesintek® (ustekinumab-kfce) Injection
 
 90 mg/mL
 
@@ -94,7 +96,7 @@ Write the date removed from the refrigerator ____/____/______.
 
 Discard if not used within 30 days at room temperature.
 
-Do not use YesintekTM injection after the expiration date on the carton or on the prefilled syringe.
+Do not use Yesintek® injection after the expiration date on the carton or on the prefilled syringe.
 
 No preservative.
 
@@ -102,7 +104,9 @@ Manufactured by:
 
 Biocon Biologics Inc.
 
-245 Main St, 2nd Floor Cambridge, MA 02142 U.S.A.
+685 Route 202/206, Suite 204,
+
+Bridgewater, NJ 08807, U.S.A.
 
 U.S. License No. 2324
 
@@ -116,7 +120,7 @@ No.: KTK/29/8253/2020
 
 NDC 83257-026-11
 
-YesintekTM (ustekinumab-kfce) Injection
+Yesintek® (ustekinumab-kfce) Injection
 
 130 mg/26 mL (5 mg/mL)
 
@@ -147,9 +151,9 @@ Manufactured by:
 
 Biocon Biologics Inc.
 
-245 Main St, 2nd Floor Cambridge,
+685 Route 202/206, Suite 204,
 
-MA 02142 U.S.A.
+Bridgewater, NJ 08807, U.S.A.
 
 U.S. License No. 2324
 
@@ -161,7 +165,7 @@ Product of India
 
 NDC 83257-024-11
 
-YesintekTM (ustekinumab-kfce) Injection
+Yesintek® (ustekinumab-kfce) Injection
 
 45 mg/0.5 mL Vial
 
@@ -194,9 +198,9 @@ Manufactured by:
 
 Biocon Biologics Inc.
 
-245 Main St, 2nd Floor
+685 Route 202/206, Suite 204,
 
-Cambridge, MA 02142 U.S.A.
+Bridgewater, NJ 08807, U.S.A.
 
 U.S. License No. 2324
 

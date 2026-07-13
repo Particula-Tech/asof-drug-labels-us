@@ -1,6 +1,6 @@
 INSTRUCTIONS FOR USE
 
-YESINTEKTM (Yes-in-tek)
+YESINTEK® (Yes-in-tek)
 
 (ustekinumab-kfce)
 
@@ -162,23 +162,23 @@ Manufactured by:
 
 Biocon Biologics Inc.
 
-245 Main St, 2nd Floor
+685 Route 202/206, Suite 204,
 
-Cambridge, MA 02142 U.S.A.
+Bridgewater, NJ 08807, U.S.A.
 
 U.S. License No. 2324
 
 Product of India
 
-© 2026 Biocon Biologics Inc.
+© 2024 Biocon Biologics Inc.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 01/2026
+Revised: 03/2026
 
 INSTRUCTIONS FOR USE
 
-YESINTEKTM (Yes-in-tek)
+YESINTEK® (Yes-in-tek)
 
 (ustekinumab-kfce)
 
@@ -376,16 +376,16 @@ Manufactured by:
 
 Biocon Biologics Inc.
 
-245 Main St, 2nd Floor
+685 Route 202/206, Suite 204,
 
-Cambridge, MA 02142 U.S.A.
+Bridgewater, NJ 08807, U.S.A.
 
 U.S. License No. 2324
 
 Product of India
 
-© 2026 Biocon Biologics Inc.
+© 2024 Biocon Biologics Inc.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 01/2026
+Revised: 03/2026
