@@ -18,9 +18,9 @@ The recommended dosage of BKEMV for the treatment of PNH in patients 18 years of
 
 Administer BKEMV at the recommended dosage regimen time points, or within two days of these time points [see Warnings and Precautions (5.4)].
 
-## 2.3 Recommended Dosage for Adults – aHUS and gMG
+## 2.3 Recommended Dosage for Adults – aHUS, gMG, and NMOSD
 
-The recommended dosage of BKEMV for the treatment of aHUS and gMG in patients 18 years of age and older is administered as an intravenous infusion [see Dosage and Administration (2.7)] as follows:
+The recommended dosage of BKEMV for the treatment of aHUS, gMG, or NMOSD in patients 18 years of age and older is administered as an intravenous infusion [see Dosage and Administration (2.7)] as follows:
 
 - 900 mg weekly for the first 4 weeks, followed by
 - 1,200 mg for the fifth dose 1 week later, then
@@ -44,7 +44,7 @@ Administer BKEMV at the recommended dosage regimen time points, or within two da
 
 ## 2.5 Dose Adjustment in Case of Plasmapheresis, Plasma Exchange, Fresh Frozen Plasma Infusion or IVIg
 
-For adult and pediatric patients with aHUS, and adult patients with gMG, supplemental dosing of BKEMV is required in the setting of concomitant plasmapheresis or plasma exchange, or fresh frozen plasma infusion (PE/PI) (Table 2).
+For adult and pediatric patients with aHUS, and adult patients with gMG or NMOSD, supplemental dosing of BKEMV is required in the setting of concomitant plasmapheresis or plasma exchange, or fresh frozen plasma infusion (PE/PI) (Table 2).
 
 Table 2: Supplemental Dose of BKEMV after Plasmapheresis/PE/PI
 
@@ -72,7 +72,7 @@ Dilute BKEMV to a final admixture concentration of 5 mg/mL using the following s
 
 - Withdraw the required amount of BKEMV from the vial into a sterile syringe.
 - Transfer the recommended dose to an infusion bag.
-- Dilute BKEMV to a final concentration of 5 mg/mL by adding the appropriate amount (equal volume of diluent to drug volume) of 0.9% Sodium Chloride Injection, USP; 0.45% Sodium Chloride Injection, USP; 5% Dextrose in Water Injection, USP; or Ringer's Injection, USP to the infusion bag.
+- Dilute BKEMV to a final concentration of 5 mg/mL by adding the appropriate amount (equal volume of diluent to drug volume) of 0.9% Sodium Chloride Injection, USP; 0.45% Sodium Chloride Injection, USP; 5% Dextrose Injection, USP; or Ringer's Injection, USP to the infusion bag.
 
 The final admixed BKEMV 5 mg/mL infusion volume is 60 mL for 300 mg doses, 120 mL for 600 mg doses, 180 mL for 900 mg doses or 240 mL for 1,200 mg doses (Table 4).
 

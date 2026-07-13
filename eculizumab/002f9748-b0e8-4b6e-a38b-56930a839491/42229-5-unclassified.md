@@ -6,6 +6,6 @@ U.S. License Number 1080
 
 AMGEN and BKEMV (eculizumab-aeeb) are trademarks owned or licensed by Amgen Inc., its subsidiaries, or affiliates.
 
-© 2024-2025 Amgen Inc. All rights reserved.
+© 2024-2026 Amgen Inc. All rights reserved.
 
-1xxxxxx-v3
+1xxxxxx-v4

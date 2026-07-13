@@ -46,9 +46,9 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-PNH
+PNH and NMOSD
 
-Safety and effectiveness of BKEMV for the treatment of PNH in pediatric patients have not been established.
+Safety and effectiveness of BKEMV for the treatment of PNH or NMOSD in pediatric patients have not been established.
 
 aHUS
 
@@ -63,5 +63,5 @@ Administer vaccinations for the prevention of infection due to Neisseria meningi
 
 ## 8.5 Geriatric Use
 
-Fifty-one patients 65 years of age or older (15 with PNH, 4 with aHUS, 26 with gMG, and 6 with another indication) were treated with eculizumab in clinical trials in the approved indications.
+Fifty-one patients 65 years of age or older (15 with PNH, 4 with aHUS, 26 with gMG, and 6 with NMOSD) were treated with eculizumab in clinical trials in the approved indications.
 Although there were no apparent age-related differences observed in these studies, the number of patients aged 65 and over is not sufficient to determine whether they respond differently from younger patients.
