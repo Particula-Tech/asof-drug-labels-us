@@ -136,7 +136,6 @@ Figure 4: Muscles Injected for Pediatric Upper Limb Spasticity
 ## 2.4 Recommended Dose for Cervical Dystonia
 
 The recommended initial dose of XEOMIN for cervical dystonia is 120 Units.
-In a placebo-controlled trial utilizing initial XEOMIN doses of 120 Units and 240 Units, no meaningful difference in effectiveness was demonstrated between the doses [see Clinical Studies (14.3)].
 In previously treated patients, their past dose, response to treatment, duration of effect, and adverse event history should be taken into consideration when determining the XEOMIN dose.
 
 In the treatment of cervical dystonia, XEOMIN is usually injected into the sternocleidomastoid, levator scapulae, splenius capitis, scalenus, and/or the trapezius muscle(s) (see Figure 5).
@@ -145,7 +144,7 @@ The dose and number of injection sites in each treated muscle should be individu
 
 The frequency of XEOMIN repeat treatments should be determined by clinical response, but should generally be no more frequent than every 12 weeks [see Clinical Studies (14.3)].
 
-Figure 5: Muscles Involved in Cervical Dsytonia
+Figure 5: Muscles Involved in Cervical Dystonia
 
 ## 2.5 Recommended Dose for Blepharospasm
 

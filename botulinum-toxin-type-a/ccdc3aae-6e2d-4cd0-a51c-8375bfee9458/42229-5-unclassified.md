@@ -1,4 +1,4 @@
-Manufactured by: Merz Pharmaceuticals GmbH Eckenheimer Landstraße 100 Frankfurt am Main Germany U.S. License Number 1830
+Manufactured by: Merz Pharmaceuticals GmbH Eckenheimer Landstraße 100 60318 Frankfurt am Main Germany U.S. License Number 1830
 
 Distributed by: Merz Pharmaceuticals, LLC 6601 Six Forks Road, Suite 400 Raleigh, NC 27615
 
