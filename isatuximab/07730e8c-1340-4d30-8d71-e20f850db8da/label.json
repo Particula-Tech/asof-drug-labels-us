@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761445"
+  ],
+  "inn": "isatuximab",
+  "labeler": "Sanofi-Aventis U.S. LLC",
+  "package_ndcs": [
+    "0024-0674-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "isatuximab-irfc",
+      "name": "Sarclisa Escena"
+    }
+  ],
+  "setid": "07730e8c-1340-4d30-8d71-e20f850db8da",
+  "source": "dailymed"
+}
