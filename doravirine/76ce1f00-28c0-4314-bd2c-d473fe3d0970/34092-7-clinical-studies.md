@@ -101,7 +101,7 @@ The efficacy of DELSTRIGO (DOR/3TC/TDF) was evaluated in cohort 2 of an open-lab
 In cohort 1, virologically-suppressed participants (n=9) received a single 100 mg dose of PIFELTRO followed by intensive PK sampling.
 In cohort 2, virologically-suppressed participants (n=43) were switched to DELSTRIGO and treatment-naïve participants (n=2) were started on DELSTRIGO.
 
-In cohort 2, at baseline the median age of participants was 15 years (range: 12 to 17), the median weight was 52 kg (range: 45 to 80), 58% were female, 78% were Asian and 22% were Black, and the median CD4+ T-cell count was 713 cells per mm3 (range 84 to 1397).
+In cohort 2, at baseline the median age of participants was 15 years (range: 12 to 17), the median weight was 52 kg (range: 45 to 80), 58% were female, 78% were Asian and 22% were Black, and the median CD4+ T-cell count was 713 cells per mm3 (range: 84 to 1397).
 After switching to DELSTRIGO, 95% (41/43) of virologically-suppressed participants remained suppressed (HIV-1 RNA <50 copies/mL) at Week 24.
 One of the two treatment-naïve participants achieved HIV-1 RNA <50 copies/mL at Week 24.
 The other treatment-naïve participant met the protocol-defined virologic failure criteria (defined as 2 consecutive plasma HIV-1 RNA test results ≥200 copies/mL at or after Week 24) and was evaluated for the development of resistance; no emergence of genotypic or phenotypic resistance to doravirine, lamivudine, or tenofovir was detected.

@@ -2,6 +2,7 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
+- Skin and Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Immune Reconstitution Syndrome [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience

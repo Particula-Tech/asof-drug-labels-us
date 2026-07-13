@@ -4,10 +4,10 @@ For patent information: www.msd.com/research/patent
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2018-2025 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+Copyright © 2018-2026 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
 All rights reserved.
 
-uspi-mk1439-t-2510r008
+uspi-mk1439-t-2607r009
 
 Manufactured for: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
@@ -15,12 +15,12 @@ For patent information: www.msd.com/research/patent
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2018-2024 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+Copyright © 2018-2026 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
 All rights reserved.
 
-usppi-mk1439-t-2411r005
+usppi-mk1439-t-2607r006
 
 For more information, go to www.PIFELTRO.com or call 1-877-888-4231.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 11/2024
+Revised: 07/2026
