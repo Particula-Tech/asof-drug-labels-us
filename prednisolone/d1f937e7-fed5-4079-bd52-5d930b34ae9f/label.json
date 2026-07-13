@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019157"
+  ],
+  "inn": "prednisolone",
+  "labeler": "PAI Holdings, LLC dba PAI Pharma",
+  "package_ndcs": [
+    "0121-1100-04"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "prednisolone sodium phosphate",
+      "name": "PrednisoLONE Sodium Phosphate"
+    }
+  ],
+  "setid": "d1f937e7-fed5-4079-bd52-5d930b34ae9f",
+  "source": "dailymed"
+}
