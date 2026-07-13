@@ -10,7 +10,8 @@ Advise patients to inform their physician if they experience changes in vision w
 
 Serotonin Syndrome
 
-Advise patients to inform their physician if taking serotonergic agents, including serotonin re-uptake inhibitors or other antidepressants and opioids [see Warnings and Precautions (5.3)].
+Advise patients to inform their physician if taking serotonergic agents, including serotonin reuptake inhibitors or other antidepressants and opioids.
+Advise patients of the increased risk of serotonin syndrome when Linezolid for Oral Suspension ‎is used concomitantly with ‎serotonergic agents [see Warnings and Precautions (5.3)].
 
 Potential Interactions Producing Elevation of Blood Pressure
 
@@ -47,7 +48,7 @@ Phenylketonuria
 Advise patients with phenylketonuria (PKU) that each 5 mL of the 100 mg/5 mL linezolid for Oral Suspension contains 20 mg phenylalanine.
 The other linezolid formulations do not contain phenylalanine.
 Phenylalanine can be harmful to patients with phenylketonuria.
-Contact your physician or pharmacist when prescribed with linezolid Oral Suspension [see Warnings and Precautions (5.12)].
+Contact your physician or pharmacist when prescribed with linezolid for Oral Suspension [see Warnings and Precautions (5.12)].
 
 Antibacterial Resistance
 

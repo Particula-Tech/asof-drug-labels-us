@@ -66,7 +66,7 @@ Table 3 shows the incidence of all-causality, treatment-emergent adverse reactio
 Table 3.
 Incidence (%) of Treatment-Emergent Adverse Reactions Occurring in > 1% of Pediatric Patients (and >1 Patient) in Either Treatment Group in Comparator-Controlled Clinical Trials
 
-|  | Linezolid (n=248) | Cefadroxil (n=251) |  | Linezolid (n=215) |  | Vancomycin (n=101) |
+|  | Linezolid (n=248) | Cefadroxil (n=251) | Linezolid (n=215) |  | Vancomycin (n=101) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | ADVERSE REACTIONS | Uncomplicated Skin and Skin Structure InfectionsPatients 5 through 11 years of age received linezolid 10 mg/kg by mouth every 12 hours or cefadroxil 15 mg/kg by mouth every 12 hours. Patients 12 years or older received linezolid 600 mg by mouth every 12 hours or cefadroxil 500 mg by mouth every 12 hours. |  | All Other IndicationsPatients from birth through 11 years of age received linezolid 10 mg/kg intravenously by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6–24 hours, depending on age and renal clearance. |  |  |  |
 | Diarrhea | 7.8 | 8.0 |  | 10.8 |  | 12.1 |
