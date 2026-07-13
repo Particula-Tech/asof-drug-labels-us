@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Tranexamic acid is contraindicated:
+Tranexamic acid injection is contraindicated:
 
 - As a neuraxial (i.e., intrathecal, epidural) injection [see Warnings and Precautions (5.1)].
 - In patients with subarachnoid hemorrhage.
