@@ -2,10 +2,9 @@
 
 Fluorometholone ophthalmic suspension, USP, 0.1% is supplied sterile in opaque white LDPE bottles with high density pink caps as follows:
 
-1. 5 mL in 10 mL bottle NDC 0781-6187-75
-2. 10 mL in 10 mL bottle NDC 0781-6187-70
+5 mL in 10 mL bottle NDC 0781-6187-75 10 mL in 10 mL bottle NDC 0781-6187-70
 
-Storage:Store at 2° to 25°C (36° to77°F); Protect from freezing.
+Storage: Store at 2° to 25°C (36° to77°F); Protect from freezing.
 Store in an upright position.
 
 Rev.
