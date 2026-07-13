@@ -23,8 +23,8 @@ Administer SOLIRIS at the recommended dosage regimen time points, or within two 
 The recommended dosage of SOLIRIS for the treatment of aHUS, gMG, or NMOSD in patients 18 years of age and older is administered as an intravenous infusion [see Dosage and Administration (2.7)] as follows:
 
 - 900 mg weekly for the first 4 weeks, followed by
-- 1200 mg for the fifth dose 1 week later, then
-- 1200 mg every 2 weeks thereafter.
+- 1,200 mg for the fifth dose 1 week later, then
+- 1,200 mg every 2 weeks thereafter.
 
 ## 2.4 Recommended Dosage for Pediatric Patients – aHUS and gMG
 
@@ -34,7 +34,7 @@ Table 1: Dosing Recommendations in Pediatric Patients Less Than 18 Years of Age 
 
 | Patient Body Weight | Induction | Maintenance |
 | --- | --- | --- |
-| 40 kg and over | 900 mg weekly for the first 4 weeks | 1200 mg at week 5; then 1200 mg every 2 weeks |
+| 40 kg and over | 900 mg weekly for the first 4 weeks | 1,200 mg at week 5; then 1,200 mg every 2 weeks |
 | 30 kg to less than 40 kg | 600 mg for the first 2 weeks | 900 mg at week 3; then 900 mg every 2 weeks |
 | 20 kg to less than 30 kg | 600 mg for the first 2 weeks | 600 mg at week 3; then 600 mg every 2 weeks |
 | 10 kg to less than 20 kg | 600 mg single dose at Week 1 | 300 mg at week 2; then 300 mg every 2 weeks |
@@ -72,9 +72,9 @@ Dilute SOLIRIS to a final admixture concentration of 5 mg/mL using the following
 
 - Withdraw the required amount of SOLIRIS from the vial into a sterile syringe.
 - Transfer the recommended dose to an infusion bag.
-- Dilute SOLIRIS to a final concentration of 5 mg/mL by adding the appropriate amount (equal volume of diluent to drug volume) of 0.9% Sodium Chloride Injection, USP; 0.45% Sodium Chloride Injection, USP; 5% Dextrose in Water Injection, USP; or Ringer's Injection, USP to the infusion bag.
+- Dilute SOLIRIS to a final concentration of 5 mg/mL by adding the appropriate amount (equal volume of diluent to drug volume) of 0.9% Sodium Chloride Injection, USP; 0.45% Sodium Chloride Injection, USP; 5% Dextrose Injection, USP; or Ringer's Injection, USP to the infusion bag.
 
-The final admixed SOLIRIS 5 mg/mL infusion volume is 60 mL for 300 mg doses, 120 mL for 600 mg doses, 180 mL for 900 mg doses or 240 mL for 1200 mg doses (Table 4).
+The final admixed SOLIRIS 5 mg/mL infusion volume is 60 mL for 300 mg doses, 120 mL for 600 mg doses, 180 mL for 900 mg doses or 240 mL for 1,200 mg doses (Table 4).
 
 Table 4: Preparation and Reconstitution of SOLIRIS
 
@@ -83,7 +83,7 @@ Table 4: Preparation and Reconstitution of SOLIRIS
 | 300 mg | 30 mL | 60 mL |
 | 600 mg | 60 mL | 120 mL |
 | 900 mg | 90 mL | 180 mL |
-| 1200 mg | 120 mL | 240 mL |
+| 1,200 mg | 120 mL | 240 mL |
 
 Gently invert the infusion bag containing the diluted SOLIRIS solution to ensure thorough mixing of the product and diluent.
 Discard any unused portion left in a vial, as the product contains no preservatives.
@@ -93,6 +93,10 @@ The admixture must not be heated in a microwave or with any heat source other th
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
+Storage of Diluted SOLIRIS:
+
+If not used immediately, store the diluted SOLIRIS solution up to 24 hours at 2°C to 8°C (36°F to 46°F) or at room temperature [18°C to 25°C, 64°F to 77°F].
+
 ## 2.7 Administration
 
 Only administer as an intravenous infusion.
@@ -100,7 +104,6 @@ Only administer as an intravenous infusion.
 Do not administer as an intravenous push or bolus injection.
 
 Administer the SOLIRIS admixture by intravenous infusion over 35 minutes in adults and 1 to 4 hours in pediatric patients via gravity feed, a syringe-type pump, or an infusion pump.
-Admixed solutions of SOLIRIS are stable for 24 h at 2°C to 8°C (36°F to 46°F) and at room temperature.
 
 If an adverse reaction occurs during the administration of SOLIRIS, the infusion may be slowed or stopped at the discretion of the physician.
 If the infusion is slowed, the total infusion time should not exceed two hours in adults.

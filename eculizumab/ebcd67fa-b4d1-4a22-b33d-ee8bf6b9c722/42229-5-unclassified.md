@@ -8,4 +8,4 @@ This product, or its use, may be covered by one or more US patents, including US
 
 SOLIRIS is a registered trademark of Alexion Pharmaceuticals, Inc.
 
-© 2025 Alexion Pharmaceuticals, Inc.
+© 2026 Alexion Pharmaceuticals, Inc.

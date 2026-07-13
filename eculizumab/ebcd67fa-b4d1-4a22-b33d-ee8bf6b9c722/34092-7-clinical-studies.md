@@ -66,7 +66,7 @@ However, the majority of patients received concomitant anticoagulants; the effec
 
 Five single-arm studies [four prospective: C08-002A/B (NCT00844545 and NCT00844844), C08-003A/B (NCT00838513 and NCT00844428), C10-003 (NCT01193348), and C10-004 (NCT01194973); and one retrospective: C09-001r (NCT01770951)] evaluated the safety and efficacy of SOLIRIS for the treatment of aHUS.
 Patients with aHUS received meningococcal vaccination prior to receipt of SOLIRIS or received prophylactic treatment with antibiotics until 2 weeks after vaccination.
-In all studies, the dose of SOLIRIS in adult and adolescent patients was 900 mg every 7 ± 2 days for 4 weeks, followed by 1200 mg 7 ± 2 days later, then 1200 mg every 14 ± 2 days thereafter.
+In all studies, the dose of SOLIRIS in adult and adolescent patients was 900 mg every 7 ± 2 days for 4 weeks, followed by 1,200 mg 7 ± 2 days later, then 1,200 mg every 14 ± 2 days thereafter.
 The dosage regimen for pediatric patients weighing less than 40 kg enrolled in Study C09-001r and Study C10-003 was based on body weight [see Dosage and Administration (2.3)].
 Efficacy evaluations were based on thrombotic microangiopathy (TMA) endpoints.
 
@@ -265,7 +265,7 @@ Table 20: Baseline Characteristics of Patients Enrolled in Study C10-003
 | Time from aHUS diagnosis until start of study drug in months, median (range) | 0.51 (0.03 – 58) | 0.56 (0.03-191) |
 | Time from current clinical TMA manifestation until first study dose in months, median (range) | 0.23 (0.03 – 4) | 0.2 (0.03-4) |
 | Baseline platelet count (× 109/L), median (range) | 110 (19-146) | 91 (19-146) |
-| Baseline LDH (U/L) median (range) | 1510 (282-7164) | 1244 (282-7164) |
+| Baseline LDH (U/L) median (range) | 1,510 (282-7164) | 1,244 (282-7164) |
 
 Patients in Study C10-003 received SOLIRIS for a minimum of 26 weeks.
 In Study C10-003, the median duration of SOLIRIS therapy was approximately 44 weeks (range: 1 dose to 88 weeks).

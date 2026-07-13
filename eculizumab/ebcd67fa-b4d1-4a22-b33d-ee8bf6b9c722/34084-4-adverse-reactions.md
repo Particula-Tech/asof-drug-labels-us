@@ -219,7 +219,7 @@ Table 10: Adverse Reactions Reported in 5% or More of SOLIRIS-Treated Patients i
 
 |  | SOLIRIS (N=96) N (%) | Placebo (N=47) N (%) |
 | --- | --- | --- |
-| Events/Patients | 1295/88 | 617/45 |
+| Events/Patients | 1,295/88 | 617/45 |
 | Blood and lymphatic system disorders |  |  |
 | Leukopenia | 5 (5) | 1 (2) |
 | Lymphopenia | 5 (5) | 0 (0) |
