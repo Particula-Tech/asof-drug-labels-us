@@ -6,7 +6,7 @@ Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopen
 In cases where the outcome is known, when linezolid was discontinued, the affected hematologic parameters have risen toward pretreatment levels.
 Thrombocytopenia has been reported more often in patients with severe renal impairment, whether or not on dialysis, and in patients with moderate to severe hepatic impairment.
 Complete blood counts should be monitored weekly in patients who receive linezolid, particularly in those who receive linezolid for longer than two weeks, those with pre-existing myelosuppression, those with severe renal impairment or moderate to severe hepatic impairment, those receiving concomitant drugs that produce bone marrow suppression, or those with a chronic infection who have received previous or concomitant antibacterial drug therapy.
-Discontinuation of therapy with linezolid should be considered in patients who develop or have worsening myelosuppression [seeAdverse Reactions (6.2)].
+Discontinuation of therapy with linezolid should be considered in patients who develop or have worsening myelosuppression [see Adverse Reactions (6.2)].
 
 ## 5.2 Peripheral and Optic Neuropathy
 
@@ -21,15 +21,15 @@ If peripheral or optic neuropathy occurs, the continued use of ZYVOX in these pa
 
 ## 5.3 Serotonin Syndrome
 
-Spontaneous reports of serotonin syndrome including fatal cases associated with the co-administration of ZYVOX and serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs), have been reported.
+Spontaneous reports of serotonin syndrome including fatal cases associated with the concomitant use ‎of ZYVOX and serotonergic agents have been reported.
 
-Unless clinically appropriate and patients are carefully observed for signs and/or symptoms of serotonin syndrome or neuroleptic malignant syndrome-like (NMS-like) reactions, linezolid should not be administered to patients with carcinoid syndrome and/or patients taking any of the following medications: serotonin re-uptake inhibitors, tricyclic antidepressants, bupropion, buspirone, serotonin 5-HT1 receptor agonists (triptans), and opioids, including meperidine [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Commonly used serotonergic agents include serotonin reuptake inhibitors, serotonin-norepinephrine reuptake inhibitors, ‎tricyclic antidepressants, buspirone, serotonin 5‑HT1 receptor agonists (triptans), and opioids, including meperidine.
 
-In some cases, a patient already receiving a serotonergic antidepressant or buspirone may require urgent treatment with linezolid.
-If alternatives to linezolid are not available and the potential benefits of linezolid outweigh the risks of serotonin syndrome or NMS-like reactions, the serotonergic antidepressant should be stopped promptly and linezolid administered.
-The patient should be monitored for two weeks (five weeks if fluoxetine was taken) or until 24 hours after the last dose of linezolid, whichever comes first.
-Symptoms of serotonin syndrome or NMS-like reactions include hyperthermia, rigidity, myoclonus, autonomic instability, and mental status changes that include extreme agitation progressing to delirium and coma.
-The patient should also be monitored for discontinuation symptoms of the antidepressant (see package insert of the specified agent(s) for a description of the associated discontinuation symptoms).
+Symptoms associated with ‎serotonin syndrome may include hyperthermia, diaphoresis, agitation, hyperreflexia, clonus, pyrexia, opsoclonus, muscle ‎rigidity, tremor, and hypertonia.
+
+Monitor patients for the emergence of serotonin syndrome with the concomitant use of ZYVOX and ‎serotonergic agents or with use of ZYVOX in patients with carcinoid syndrome.
+If signs or symptoms of ‎serotonin syndrome occur, consider discontinuing ZYVOX and/or concomitant serotonergic agents as ‎clinically appropriate and initiate supportive treatment.
+Inform patients of the increased risk of serotonin ‎syndrome when ZYVOX is used concomitantly with serotonergic agents.‎
 
 ## 5.4 Mortality Imbalance in an Investigational Study in Patients with Catheter-Related Bloodstream Infections, Including Those with Catheter-Site Infections
 

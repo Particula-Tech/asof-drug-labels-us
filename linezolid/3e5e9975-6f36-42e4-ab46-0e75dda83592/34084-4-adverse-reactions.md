@@ -157,17 +157,17 @@ Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with Z
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of ZYVOX.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure;
 
 - •Anaphylaxis, angioedema, bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome, and hypersensitivity vasculitis.
 - •Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopenia).
-  Thrombocytopenia has been reported more often in patients with severe renal impairment and in patients with moderate to severe hepatic impairment [seeWarnings and Precautions (5.1)]; sideroblastic anemia.
+  Thrombocytopenia has been reported more often in patients with severe renal impairment and in patients with moderate to severe hepatic impairment [see Warnings and Precautions (5.1)]; sideroblastic anemia.
 - •Peripheral neuropathy, and optic neuropathy sometimes progressing to loss of vision [see Warnings and Precautions (5.2)].
 - •Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and opioids, and ZYVOX [see Warnings and Precautions (5.3)].
 - •Lactic acidosis [see Warnings and Precautions (5.7)].
   Although these reports have primarily been in patients treated for longer than the maximum recommended duration of 28 days, these events have also been reported in patients receiving shorter courses of therapy.
 - •Convulsions [see Warnings and Precautions (5.8)].
-- •Rhabdomyolysis [seeWarnings and Precautions (5.9)].
+- •Rhabdomyolysis [see Warnings and Precautions (5.9)].
 - •Hypoglycemia, including symptomatic episodes [see Warnings and Precautions (5.10)].
 - •Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) [see Warnings and Precautions (5.11)].
 - •Superficial tooth discoloration and tongue discoloration have been reported with the use of linezolid.
