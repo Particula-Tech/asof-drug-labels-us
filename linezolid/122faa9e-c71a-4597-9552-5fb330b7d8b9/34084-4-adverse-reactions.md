@@ -5,7 +5,7 @@ The following clinically significant adverse reactions are described elsewhere i
 - •Myelosuppression [see Warnings and Precautions (5.1)]
 - •Peripheral and Optic Neuropathy [see Warnings and Precautions (5.2)]
 - •Serotonin Syndrome [see Warnings and Precautions (5.3)]
-- •Clostridioides difficile -Associated Diarrhea [see Warnings and Precautions (5.5)]
+- •Clostridioides difficile‑Associated Diarrhea [see Warnings and Precautions (5.5)]
 - •Lactic Acidosis [see Warnings and Precautions (5.7)]
 - •Convulsions [see Warnings and Precautions (5.8)]
 - •Rhabdomyolysis [see Warnings and Precautions (5.9)]
