@@ -37,16 +37,15 @@ The safety and effectiveness of XEOMIN have not been established in pediatric pa
 
 Chronic Sialorrhea in Pediatric Patients
 
-The safety and effectiveness of XEOMIN have been established by evidence from an adequate and well-controlled study of XEOMIN in patients 6 to 17 years of age with chronic sialorrhea [See Clinical Studies (14.1)].
+The safety and effectiveness of XEOMIN have been established by evidence from an adequate and well-controlled study of XEOMIN in patients 6 to 17 years of age with chronic sialorrhea [see Clinical Studies (14.1)].
 Use of XEOMIN in patients 2 to 5 years of age is supported by the findings of efficacy and safety in patients 6 years and older with chronic sialorrhea, and by safety data in patients 2 to 5 years of age.
+
 Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Warnings and Precautions (5.1)].
 
-Upper Limb Spasticity in Pediatric Patients, Excluding Spasticity Caused by Cerebral Palsy
+Upper Limb Spasticity in Pediatric Patients
 
-Safety and effectiveness have been established in pediatric patients 2 to 17 years of age [see Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Studies (14.2)].
-The safety and effectiveness of XEOMIN have been established by evidence from adequate and well-controlled studies of XEOMIN in patients 2 to 17 years of age with upper limb spasticity.
-A pediatric assessment for XEOMIN demonstrates that XEOMIN is safe and effective in another pediatric population.
-However, XEOMIN is not approved for such patient population due to marketing exclusivity for another botulinum toxin.
+The safety and effectiveness of XEOMIN for the treatment of upper limb spasticity have been established by evidence from an adequate and well-controlled study of XEOMIN in pediatric patients 2 to 17 years of age [see Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Studies (14.2)].
+
 Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Warnings and Precautions (5.1)].
 
 Juvenile Animal Toxicity Data

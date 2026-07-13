@@ -95,7 +95,7 @@ Table 3: XEOMIN Dosing by Muscle for Treatment of Adult Upper Limb Spasticity
 
 Figure 3: Muscles Involved In Adult Upper Limb Spasticity
 
-Upper Limb Spasticity in Pediatric Patients, Excluding Spasticity Caused by Cerebral Palsy
+Upper Limb Spasticity in Pediatric Patients
 
 Tailor the exact dosage, frequency, and number of injection sites to the individual patient based on size, number and localization of involved muscles; the severity of spasticity; and the presence of local muscle weakness.
 
@@ -108,7 +108,7 @@ Most patients in clinical studies were retreated between 12 and 16 weeks.
 
 Table 4 includes the recommended dose ranges for the treatment of the clinical patterns of flexed elbow, flexed wrist, pronated forearm, clenched fist, and thumb-in-palm.
 
-Table 4: XEOMIN Dosing by Muscle for Treatment of Pediatric Upper Limb Spasticity, Excluding Spasticity Caused by Cerebral Palsy
+Table 4: XEOMIN Dosing by Muscle for Treatment of Pediatric Upper Limb Spasticity
 
 | Range (Units/kg) | Maximum (Units) |  |  |
 | --- | --- | --- | --- |
@@ -266,7 +266,7 @@ Use a sterile needle (e.g., 26-gauge (0.45 mm diameter), 37 mm length for superf
 
 Localization of the involved muscles with electromyographic guidance, nerve stimulation, or ultrasound techniques is recommended.
 
-Upper Limb Spasticity in Pediatric Patients, Excluding Spasticity Caused by Cerebral Palsy
+Upper Limb Spasticity in Pediatric Patients
 
 Use a sterile needle (e.g., 30-gauge (0.30 mm diameter), 25 mm length for superficial muscles; or 27-gauge (0.40 mm diameter), 37 mm length for deeper musculature) in the intramuscular administration in the treatment of upper limb spasticity in pediatric patients.
 
