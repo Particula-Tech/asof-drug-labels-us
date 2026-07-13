@@ -3,21 +3,21 @@
 ## 8.1 Pregnancy
 
 Risk Summary There are insufficient data on use of fosaprepitant in pregnant women to inform a drug associated risk.
-In animal reproduction studies, no adverse developmental effects were observed in rats or rabbits exposed during the period of organogenesis to systemic drug levels (AUC) approximately equivalent to the exposure at the recommended human dose (RHD) of 150 mg [see Data].
+In animal reproduction studies, no adverse developmental effects were observed in rats or rabbits exposed during the period of organogenesis tosystemic drug levels (AUC) approximately equivalent to the exposure at the recommended human dose (RHD) of 150 mg [see Data].
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
-Data Animal Data In embryofetal development studies in rats and rabbits, aprepitant was administered during the period of organogenesis at oral doses up to 1000 mg/kg twice daily (rats) and up to the maximum tolerated dose of 25 mg/kg/day (rabbits).
+Data Animal Data In embryofetal development studies in rats and rabbits, aprepitant was administered during the period of organogenesis at oral doses up to 1,000 mg/kg twice daily (rats) and up to the maximum tolerated dose of 25 mg/kg/day (rabbits).
 No embryofetal lethality or malformations were observed at any dose level in either species.
-The exposures (AUC) in pregnant rats at 1000 mg/kg twice daily and in pregnant rabbits at 25 mg/kg/day were approximately equivalent to the exposure at the RHD of 150 mg.
+The exposures (AUC) in pregnant rats at 1,000 mg/kg twice daily and in pregnant rabbits at 25 mg/kg/day were approximately equivalent to the exposure at the RHD of 150 mg.
 Aprepitant crosses the placenta in rats and rabbits.
 
 ## 8.2 Lactation
 
 Risk Summary
 
-Lactation studies have not been conducted to assess the presence of aprepitant in human milk, the effects on the breastfed infant, or the effects on milk production.
+Lactation studies have not been conducted to assess the presence of aprepitant in humanmilk, the effects on the breastfed infant, or the effects on milk production.
 Aprepitant is present in rat milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for fosaprepitant and any potential adverse effects on the breastfed infant from fosaprepitant or from the underlying maternal condition.
+The developmental andhealth benefits of breastfeeding should be considered along with the mother’s clinical need for fosaprepitant and any potential adverseeffects on the breastfed infant from fosaprepitant or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -31,6 +31,7 @@ Advise females of reproductive potential using hormonal contraceptives to use an
 The safety and effectiveness of a single dose and a 3-day regimen of fosaprepitant have been established in pediatric patients 6 months to 17 years for the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of HEC and MEC.
 Use of fosaprepitant in this age group is supported by evidence from adequate and well-controlled studies of fosaprepitant for injection in adults, with additional safety, efficacy and pharmacokinetic data in pediatric patients 6 months to 17 years.
 Efficacy and safety were also supported by data from an adequate and well- controlled study of a 3-day oral aprepitant regimen in pediatric patients 6 months to 17 years.
+The safety of the 3-day fosaprepitant for injection regimen in pediatric patients 6 months to 17 years of age was supported by an open-label study in 100 patients receiving HEC or MEC.
 See the full prescribing information for aprepitant capsules for complete clinical information regarding studies performed with oral aprepitant.
 Adverse reactions were similar to those reported in adult patients [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3)].
 The safety and effectiveness of fosaprepitant dimeglumine for the prevention of nausea and vomiting associated with HEC or MEC have not been established in patients less than 6 months of age.
@@ -42,9 +43,6 @@ A study was also conducted in young rats to evaluate the effects of aprepitant o
 Rats were treated at oral doses up to the maximum feasible dose of 1000 mg/kg twice daily (providing exposure in male and female rats lower than the exposure at the recommended pediatric human dose) from the early postnatal period (Postnatal Day 10 (equivalent to a newborn human) through Postnatal Day 58 (approximately equivalent to a 15 year old human)).
 Slight changes in the onset of sexual maturation were observed in female and male rats; however, there were no effects on mating, fertility, embryonic-fetal survival, or histomorphology of the reproductive organs.
 There were no effects in neurobehavioral tests of sensory function, motor function, and learning and memory.
-
-Additional pediatric use information is approved for Merck Sharp & Dohme LLC’s EMEND (fosaprepitant) for injection.
-However, due to Merck Sharp & Dohme LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 

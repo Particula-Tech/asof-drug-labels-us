@@ -40,7 +40,7 @@ These differences are not considered clinically meaningful [see Use in Specific 
 
 Age: Pediatric Population Single Dose Fosaprepitant for Injection Regimen: Simulated systemic exposures of aprepitant in patients 2 years to less than 12 years and observed systemic exposures in patients 6 months to less than 2 years and 12 to 17 years are shown in Table 9, including AUC0-24hr, peak plasma concentration (Cmax) on Day 1 and concentrations at the end of Day 1 (C24), Day 2 (C48) and Day 3 (C72).
 
-Table 9 Systemic Exposures of Aprepitant for Single Dose Fosaprepitant for Injection Regimen in Pediatric Patients
+Table 9Systemic Exposures of Aprepitant for Single Dose Fosaprepitant for Injection Regimen in Pediatric Patients
 
 | Population | Single Dose of Fosaprepitant for Injection Regimen | Geometric Mean |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ Table 9 Systemic Exposures of Aprepitant for Single Dose Fosaprepitant for Injec
 Pharmacokinetic samples were not collected to support the parameter value of interest. †NE = Not Estimated.
 The geometric mean could not be estimated due to values being below the limitation of quantification.
 3-Day IV/Oral/Oral Fosaprepitant Regimen: Simulated aprepitant systemic exposures in patients 6 months to less than 12 years and observed systemic exposures in patients 12 to 17 years are shown in Table 10, including AUC0-24hr, peak plasma concentration (Cmax) on Day 1 and concentrations at the end of Day 1 (C24), Day 2 (C48) and Day 3 (C72).
-Table 10 Systemic Exposures of Aprepitant for 3-Day IV/Oral/Oral Regimen in Pediatric Patients
+Table 10Systemic Exposures of Aprepitant for 3-Day IV/Oral/Oral Regimen in Pediatric Patients
 
 | Population | 3-Day Dose of Fosaprepitant (IV/Oral/Oral*) | Geometric Mean |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -66,7 +66,24 @@ Table 10 Systemic Exposures of Aprepitant for 3-Day IV/Oral/Oral Regimen in Pedi
 
 *IV on Day 1, Oral on Day 2, and Oral on Day 3 †NE = Not Estimated.
 The geometric mean could not be estimated due to values being below the limitation of quantification.
-Plasma concentrations of fosaprepitant are negligible within 15 – 30 minutes after the completion of the infusion in pediatric patients.
+
+3-Day IV/IV/IV fosaprepitant Regimen: Simulated aprepitant systemic exposures in patients 6 months to 17 years are shown in Table 11, including AUC, peak plasma concentration (C) on Day 1 and concentrations at the end of Day 1 (C), Day 2 (C) and Day 3 (C).
+
+Table 11
+
+Systemic Exposures of Aprepitant for 3-Day IV/IV/IV Regimen in Pediatric Patients
+
+| Population | 3-Day Dose of Fosaprepitant (IV/IV/IV)* | Geometric Mean |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| AUC 0-24hr. (mcg*hr/m L) | Cmax (mcg/m L) | C24 (mcg/m L) | C48 (mcg/m L) | C72 (mcg/m L) |  |  |
+| 12 Years to 17 Years | 115/80/80 mg | 21.1 | 2.5 | 0.4 | 0.4 | 0.4 |
+| 6 Years to less than 12 Years | 3/2/2 mg/kg | 25.6 | 2.7 | 0.5 | 0.4 | 0.4 |
+| 2 Years to less than 6 Years | 20.3 | 2.3 | 0.3 | 0.2 | 0.2 |  |
+| 6 Months to less than 2 Years | 16.7 | 1.9 | 0.2 | 0.2 | 0.2 |  |
+
+*IV on Day 1, Day 2, and Day 3
+
+Plasma concentrations of fosaprepitant are negligible within 15 to 30 minutes after the completion of the infusion in pediatric patients.
 
 Sex Following oral administration of a single dose of aprepitant, ranging from 40 mg to 375 mg, the AUC0-24hr and Cmax are 9% and 17% higher in females as compared with males.
 The half-life of aprepitant is approximately 25% lower in females as compared with males and Tmax occurs at approximately the same time.
@@ -84,7 +101,8 @@ Hepatic Impairment Fosaprepitant is metabolized in various extrahepatic tissues;
 Following administration of a single 125-mg oral dose of aprepitant on Day 1 and 80 mg once daily on Days 2 and 3 to patients with mild hepatic impairment (Child-Pugh score 5 to 6), the AUC0-24hr of aprepitant was 11% lower on Day 1 and 36% lower on Day 3, as compared with healthy subjects given the same regimen.
 In patients with moderate hepatic impairment (Child-Pugh score 7 to 9), the AUC0-24hr of aprepitant was 10% higher on Day 1 and 18% higher on Day 3, as compared with healthy subjects given the same regimen.
 These differences in AUC0-24hr are not considered clinically meaningful.
-There are no clinical or pharmacokinetic data in patients with severe hepatic impairment (Child-Pugh score greater than 9) [see Use in Specific Populations (8.6)] Body Mass Index (BMI) For every 5 kg/m2 increase in BMI, AUC0-24hr and Cmax of aprepitant decrease by 9% and 10%.
+There are no clinical or pharmacokinetic data in patients with severe hepatic impairment (Child-Pugh score greater than 9) [see Use in Specific Populations (8.6)].
+Body Mass Index (BMI) For every 5 kg/m2 increase in BMI, AUC0-24hr and Cmax of aprepitant decrease by 9% and 10%.
 BMI of subjects in the analysis ranged from 18 kg/m2 to 36 kg/m2.
 This change is not considered clinically meaningful.
 Drug Interactions Studies Fosaprepitant, given as a single 150-mg dose, is a weak inhibitor of CYP3A4, with no evidence of inhibition or induction of CYP3A4 observed on Day 4.
@@ -112,6 +130,3 @@ The mean maximum decrease in systolic blood pressure was also greater after co-a
 Co-administration of fosaprepitant and diltiazem; however, did not result in any additional clinically significant changes in heart rate or PR interval, beyond those changes observed with diltiazem alone [see Drug Interactions (7.2)].
 Paroxetine: Coadministration of once daily doses of oral aprepitant 170 mg, with paroxetine 20 mg once daily, resulted in a decrease in AUC by approximately 25% and Cmax by approximately 20% of both aprepitant and paroxetine.
 This effect was not considered clinically important.
-
-Additional pediatric use information is approved for Merck Sharp & Dohme LLC’s EMEND (fosaprepitant) for injection.
-However, due to Merck Sharp & Dohme LLC’s marketing exclusivity rights, this drug product is not labeled with that information.

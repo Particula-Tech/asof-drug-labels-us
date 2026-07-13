@@ -3,16 +3,16 @@
 ## 7.1 Effect of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Drugs
 
 When administered intravenously, fosaprepitant, a prodrug of aprepitant, is converted to aprepitant within 30 minutes.
-Therefore, drug interactions following administration of fosaprepitant for injection are likely to occur with drugs that interact with oral aprepitant.
+Therefore, drug interactions following administration of fosaprepitant forinjection are likely to occur with drugs that interact with oral aprepitant.
 Fosaprepitant, given as a single 150-mg dose, is a weak inhibitor of CYP3A4, and the weak inhibition of CYP3A4 continues for 2 days after single dose administration.
 Single dose fosaprepitant does not induce CYP3A4.
 Aprepitant is a substrate, an inhibitor, and an inducer of CYP3A4.
 Aprepitant is also an inducer of CYP2C9 [see Clinical Pharmacology (12.3)].
 Some substrates of CYP3A4 are contraindicated with fosaprepitant [see Contraindications (4)].Dosage adjustment of some CYP3A4 and CYP2C9 substrates may be warranted, as shown in Table 7.
 
-Table 7 Effects of fosaprepitant/aprepitant on the Pharmacokinetics of Other Drugs
+Table 7 Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Drugs
 
-| CYP3A4 Substrates |  |
+| CYP3A4Substrates |  |
 | --- | --- |
 | Pimozide |  |
 | Clinical Impact | Increased pimozide exposure |
@@ -38,8 +38,8 @@ Table 7 Effects of fosaprepitant/aprepitant on the Pharmacokinetics of Other Dru
 | Clinical Impact | Decreased warfarin exposure and decreased prothrombin time (INR) [see Warnings and Precautions (5.4), Clinical Pharmacology (12.3)]. |
 | Intervention | In patients on chronic warfarin therapy, monitor the prothrombin time (INR) in the 2-week period, particularly at 7 to 10 days, following administration of fosaprepitant with each chemotherapy cycle. |
 | Other |  |
-| 5-HT3 Antagonists |  |
-| Clinical Impact | No change in the exposure of the 5-HT3 antagonist [see Clinical Pharmacology (12.3)]. |
+| 5-HT3Antagonists |  |
+| Clinical Impact | No change in the exposure of the 5-HT3antagonist [see Clinical Pharmacology (12.3)]. |
 | Intervention | No dosage adjustment needed |
 | Examples | ondansetron, granisetron, dolasetron |
 
@@ -48,7 +48,7 @@ Table 7 Effects of fosaprepitant/aprepitant on the Pharmacokinetics of Other Dru
 Aprepitant is a CYP3A4 substrate [see Clinical Pharmacology (12.3)].
 Co-administration of fosaprepitant with drugs that are inhibitors or inducers of CYP3A4 may result in increased or decreased plasma concentrations of aprepitant, respectively, as shown in Table 8.
 
-Table 8 Effects of Other Drugs on Pharmacokinetics of fosaprepitant/aprepitant
+Table 8 Effects of Other Drugs on Pharmacokinetics of Fosaprepitant/Aprepitant
 
 | Moderate to Strong CYP3A4 Inhibitors |  |
 | --- | --- |
@@ -57,5 +57,5 @@ Table 8 Effects of Other Drugs on Pharmacokinetics of fosaprepitant/aprepitant
 | Examples | Moderate inhibitor: diltiazem Strong inhibitors: ketoconazole, itraconazole, nefazodone, troleandomycin, clarithromycin, ritonavir, nelfinavir |
 | Strong CYP3A4 Inducers |  |
 | Clinical Impact | Substantially decreased exposure of aprepitant in patients chronically taking a strong CYP3A4 inducer may decrease the efficacy of fosaprepitant [see Clinical Pharmacology (12.3)]. |
-| Intervention | Avoid concomitant use of fosaprepitant. |
+| Intervention | Avoid concomitant use of fosaprepitant |
 | Examples | rifampin, carbamazepine, phenytoin |

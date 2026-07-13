@@ -48,7 +48,7 @@ Table 13 Percent of Adult Patients Receiving HEC Responding by Treatment Group a
 
 ## 14.2 Prevention of Nausea and Vomiting Associated with MEC in Adults
 
-In a randomized, parallel, double-blind, active comparator-controlled study, fosaprepitant for injection 150 mg as a single intravenous infusion (N=502) in combination with ondansetron and dexamethasone (fosaprepitant dimeglumine regimen) was compared with ondansetron and dexamethasone alone (standard therapy) (N=498) (see Table 14) in patients receiving a MEC regimen.
+In a randomized, parallel, double-blind, active comparator-controlled study, fosaprepitant forinjection 150 mg as a single intravenous infusion (N=502) in combination with ondansetron and dexamethasone (fosaprepitant dimeglumine regimen) was compared with ondansetron and dexamethasone alone (standard therapy) (N=498) (see Table 14) in patients receiving a MEC regimen.
 Patient demographics were similar between the two treatment groups.
 Of the total 1,000 patients included in the efficacy analysis, 41% were men, 84% White, 4% Asian, 1% American Indian/Alaska Native, 2% Black, 10% Multi-Racial, and 19% Hispanic/Latino ethnicity.
 Patient ages ranged from 23 to 88 years of age, with a mean age of 60 years.
@@ -65,15 +65,15 @@ Table 14 Treatment Regimens in Adult MEC Trial*
 | Oral Dexamethasone | 20 mg | none | none |
 | Oral Ondansetron‡ | 8 mg for 2 doses | 8 mg twice daily | 8 mg twice daily |
 
-* Fosaprepitant for injection placebo and dexamethasone placebo (on Day 1) were used to maintain blinding. †Dexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1.
-The 12 mg dose reflects a dosage adjustment to account for a drug interaction with the Fosaprepitant for injection regimen [see Clinical Pharmacology (12.3)]. ‡The first ondansetron dose was administered 30 to 60 minutes prior to chemotherapy treatment on Day 1 and the second dose was administered 8 hours after first ondansetron dose.
+* Fosaprepitant forinjection placebo and dexamethasone placebo (on Day 1) were used to maintain blinding. †Dexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1.
+The 12 mg dose reflects a dosage adjustment to account for a drug interaction with the fosaprepitant for injection regimen [see Clinical Pharmacology (12.3)]. ‡The first ondansetron dose was administered 30 to 60 minutes prior to chemotherapy treatment on Day 1 and the second dose was administered 8 hours after first ondansetron dose.
 
 The primary endpoint was complete response (defined as no vomiting and no rescue therapy) in the delayed phase (25 to 120 hours) of chemotherapy-induced nausea and vomiting.
 The results by treatment group are shown in Table 15.
 
 Table 15 Percent of Adult Patients Receiving MEC Responding by Treatment Group
 
-| ENDPOINTS | Fosaprepitant for Injection Regimen (N = 502)* % | Standard Therapy Regimen (N = 498)* % | P-Value | Treatment Difference (95% CI) |
+| ENDPOINTS | Fosaprepitant forInjection Regimen (N=502)* % | Standard Therapy Regimen (N=498)* % | P-Value | Treatment Difference (95% CI) |
 | --- | --- | --- | --- | --- |
 | PRIMARY ENDPOINT |  |  |  |  |
 | Complete Response† |  |  |  |  |
