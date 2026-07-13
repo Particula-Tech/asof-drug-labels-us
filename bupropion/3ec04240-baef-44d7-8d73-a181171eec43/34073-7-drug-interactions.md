@@ -3,19 +3,19 @@
 ## 7.1 Potential for Other Drugs to Affect Bupropion Hydrobromide Extended-Release Tablets
 
 Bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
-Therefore, the potential exists for drug interactions between bupropion hydrobromide extended-release tabletsand drugs that are inhibitors or inducers of CYP2B6.
+Therefore, the potential exists for drug interactions between bupropion hydrobromide extended-release tablets and drugs that are inhibitors or inducers of CYP2B6.
 
 Inhibitors of CYP2B6
 
-Ticlopidine and Clopidogrel:Concomitant treatment with these drugs can increase bupropion exposures but decrease hydroxybupropion exposure.
+Ticlopidine and Clopidogrel: Concomitant treatment with these drugs can increase bupropion exposures but decrease hydroxybupropion exposure.
 Based on clinical response, dosage adjustment of bupropion hydrobromide extended-release tablets may be necessary when coadministered with CYP2B6 inhibitors (e.g., ticlopidine or clopidogrel) [see Clinical Pharmacology (12.3)].
 
 Inducers of CYP2B6
 
-Ritonavir, Lopinavir, and Efavirenz:Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
+Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
 Dosage increase of bupropion hydrobromide extended-release tablets may be necessary when coadministered with ritonavir, lopinavir, or efavirenz but should not exceed the maximum recommended dose [see Clinical Pharmacology (12.3)].
 
-Carbamazepine, Phenobarbital, Phenytoin:While not systemically studied, these drugs may induce metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology (12.3)].
+Carbamazepine, Phenobarbital, Phenytoin: While not systemically studied, these drugs may induce metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology (12.3)].
 If bupropion is used concomitantly with a CYP inducer, it may be necessary to increase the dose of bupropion, but the maximum recommended dose should not be exceeded.
 
 ## 7.2 Potential for Bupropion Hydrobromide Extended-Release Tablets to Affect Other Drugs

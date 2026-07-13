@@ -13,7 +13,7 @@ Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
 Although bupropion hydrobromide extended-release tablets are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN which is approved for this use.
 Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking bupropion.
-Instruct patients to discontinue bupropion hydrobromide extended-release tablets and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2)and Adverse Reactions (6.2)].
+Instruct patients to discontinue bupropion hydrobromide extended-release tablets and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2) and Adverse Reactions (6.2)].
 
 Severe Allergic Reactions
 

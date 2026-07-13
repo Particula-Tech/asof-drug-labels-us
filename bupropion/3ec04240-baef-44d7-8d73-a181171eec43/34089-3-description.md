@@ -4,7 +4,7 @@ Bupropion Hydrobromide Extended-Release Tablets, an antidepressant of the aminok
 Its structure closely resembles that of diethylpropion; it is related to phenylethylamines.
 It is designated as (±)-2-(tert-butylamino)-3'-chloropropiophenone hydrobromide.
 The molecular weight is 320.6.
-The molecular formula is C 13H 18ClNO•HBr.
+The molecular formula is C13H18ClNO•HBr.
 Bupropion hydrobromide powder is white or almost white, crystalline, and soluble in water.
 It has a bitter taste and produces the sensation of local anesthesia on the oral mucosa.
 The structural formula is:

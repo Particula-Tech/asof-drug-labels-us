@@ -49,13 +49,13 @@ For the findings of LVOTO and VSD, the studies were limited by the small number 
 
 Animal Data
 
-In studies conducted in pregnant rats and rabbits, bupropion was administered orally during the period of organogenesis at doses of up to 450 and 150 mg/kg/day, respectively (approximately 10 and 6 times the MRHD, respectively, on a mg/m 2basis).
+In studies conducted in pregnant rats and rabbits, bupropion was administered orally during the period of organogenesis at doses of up to 450 and 150 mg/kg/day, respectively (approximately 10 and 6 times the MRHD, respectively, on a mg/m2 basis).
 There was no evidence of fetal malformations in rats.
-When given to pregnant rabbits during organogenesis, non-dose-related increases in incidence of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg/kg/day, approximately equal to the MRHD on a mg/m 2basis) and greater.
-Decreased fetal weights were observed at 50 mg/kg (approximately 2 times the MRHD on a mg/m 2basis) and greater.
+When given to pregnant rabbits during organogenesis, non-dose-related increases in incidence of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg/kg/day, approximately equal to the MRHD on a mg/m2 basis) and greater.
+Decreased fetal weights were observed at 50 mg/kg (approximately 2 times the MRHD on a mg/m2 basis) and greater.
 No maternal toxicity was evident at doses of 50/mg/kg/day or less.
 
-In a pre- and postnatal development study, bupropion administered orally to pregnant rats at doses of up to 150 mg/kg/day (approximately 6 times the MRHD on a mg/m 2basis) from embryonic implantation through lactation, had no effect on pup growth or development.
+In a pre- and postnatal development study, bupropion administered orally to pregnant rats at doses of up to 150 mg/kg/day (approximately 6 times the MRHD on a mg/m2 basis) from embryonic implantation through lactation, had no effect on pup growth or development.
 
 ## 8.2 Lactation
 
@@ -76,7 +76,7 @@ The relationship of bupropion exposure and these seizures is unclear.
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in the pediatric population have not been established.
-When considering the use of bupropion hydrobromide extended-release tablets in a child or adolescent, balance the potential risks with the clinical need [see Boxed Warningand Warnings and Precautions (5.1)].
+When considering the use of bupropion hydrobromide extended-release tablets in a child or adolescent, balance the potential risks with the clinical need [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 8.5 Geriatric Use
 
@@ -93,9 +93,9 @@ Because elderly patients are more likely to have decreased renal function, it ma
 
 Consider a reduced dose and/or dosing frequency of bupropion hydrobromide extended-release tablets in patients with renal impairment (glomerular filtration rate: <90 mL/min).
 Bupropion and its metabolites are cleared renally and may accumulate in such patients to a greater extent than usual.
-Monitor closely for adverse reactions that could indicate high bupropion or metabolite exposures [see Dosage and Administration (2.7)and Clinical Pharmacology (12.3)].
+Monitor closely for adverse reactions that could indicate high bupropion or metabolite exposures [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum bupropion hydrobromide extended-release tablets dose is 174 mg every other day.
-In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Dosage and Administration (2.6)and Clinical Pharmacology (12.3)].
+In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].

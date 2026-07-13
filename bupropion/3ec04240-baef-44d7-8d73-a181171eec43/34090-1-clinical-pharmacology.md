@@ -65,11 +65,11 @@ The elimination of the major metabolites of bupropion may be affected by reduced
 Patients with Renal Impairment
 
 There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
-An inter-trial comparison between normal subjects and subjects with end-stage renal failure demonstrated that the parent drug C maxand AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for subjects with end-stage renal failure.
+An inter-trial comparison between normal subjects and subjects with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for subjects with end-stage renal failure.
 A second study, comparing normal subjects and subjects with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that after a single 150 mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function, while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and subsequently excreted by the kidneys.
 The elimination of the major metabolites of bupropion may be reduced by impaired renal function.
-Bupropion Hydrobromide Extended-Release Tablets should be used with caution in patients with renal impairment, and a reduced frequency and/or dose should be considered [see Dosage and Administration (2.7)and Use in Specific Populations (8.6)].
+Bupropion Hydrobromide Extended-Release Tablets should be used with caution in patients with renal impairment, and a reduced frequency and/or dose should be considered [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment
 
@@ -79,13 +79,13 @@ Although not statistically significant, the AUCs for bupropion and hydroxybuprop
 The differences in half-life for bupropion and the other metabolites in the 2 groups were minimal.
 
 The second trial demonstrated no statistically significant differences in the pharmacokinetics of bupropion and its active metabolites in 9 subjects with mild to moderate hepatic cirrhosis compared to 8 healthy volunteers.
-However, more variability was observed in some of the pharmacokinetic parameters for bupropion (AUC, C max, and T max) and its active metabolites (t ½) in subjects with mild to moderate hepatic cirrhosis.
+However, more variability was observed in some of the pharmacokinetic parameters for bupropion (AUC, Cmax, and Tmax) and its active metabolites (t½) in subjects with mild to moderate hepatic cirrhosis.
 In addition, in patients with severe hepatic cirrhosis, the bupropion Cmax and AUC were substantially increased (mean difference: by approximately 70% and 3-fold, respectively) and more variable when compared to values in healthy volunteers; the mean bupropion half-life was also longer (29 hours in subjects with severe hepatic cirrhosis vs. 19 hours in healthy subjects).
 For the metabolite hydroxybupropion, the mean Cmax was approximately 69% lower.
 For the combined amino-alcohol isomers threohydrobupropion and erythrohydrobupropion, the mean Cmax was approximately 31% lower.
 The mean AUC increased by about 1½-fold for hydroxybupropion and about 2½-fold for threo/erythrohydrobupropion.
-The median T maxwas observed 19 hours later for hydroxybupropion and 31 hours later for threo/erythrohydrobupropion.
-The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5- and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers [see Dosage and Administration (2.6)and Use in Specific Populations (8.7)].
+The median Tmax was observed 19 hours later for hydroxybupropion and 31 hours later for threo/erythrohydrobupropion.
+The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5- and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers [see Dosage and Administration (2.6) and Use in Specific Populations (8.7)].
 
 Left Ventricular Dysfunction
 
@@ -106,7 +106,7 @@ The mean systemic exposure (AUC) was approximately 13% higher in male volunteers
 Smokers
 
 The effects of cigarette smoking on the pharmacokinetics of bupropion hydrochloride were studied in 34 healthy male and female volunteers; 17 were chronic cigarette smokers and 17 were nonsmokers.
-Following oral administration of a single 150 mg dose of bupropion, there was no statistically significant difference in C max, half-life, T max, AUC, or clearance of bupropion or its active metabolites between smokers and nonsmokers.
+Following oral administration of a single 150 mg dose of bupropion, there was no statistically significant difference in Cmax, half-life, Tmax, AUC, or clearance of bupropion or its active metabolites between smokers and nonsmokers.
 
 Drug Interactions
 
@@ -118,30 +118,30 @@ In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine
 
 Inhibitors of CYP2B6
 
-Ticlopidine, Clopidogrel:In a study in healthy male volunteers, clopidogrel 75 mg once daily or ticlopidine 250 mg twice daily increased exposures (C maxand AUC) of bupropion by 40% and 60% for clopidogrel, by 38% and 85% for ticlopidine, respectively.
+Ticlopidine, Clopidogrel: In a study in healthy male volunteers, clopidogrel 75 mg once daily or ticlopidine 250 mg twice daily increased exposures (Cmax and AUC) of bupropion by 40% and 60% for clopidogrel, by 38% and 85% for ticlopidine, respectively.
 The exposures of hydroxybupropion were decreased.
 
-Prasugrel:In healthy subjects, prasugrel increased bupropion C maxand AUC values by 14% and 18%, respectively, and decreased C maxand AUC values of hydroxybupropion by 32% and 24%, respectively.
+Prasugrel: In healthy subjects, prasugrel increased bupropion Cmax and AUC values by 14% and 18%, respectively, and decreased Cmax and AUC values of hydroxybupropion by 32% and 24%, respectively.
 
-Cimetidine:Following oral administration of bupropion 300 mg with and without cimetidine 800 mg in 24 healthy young male volunteers, the pharmacokinetics of bupropion and hydroxybupropion were unaffected.
-However, there were 16% and 32% increases in the AUC and C max, respectively, of the combined moieties of threohydrobupropion and erythrohydrobupropion.
+Cimetidine: Following oral administration of bupropion 300 mg with and without cimetidine 800 mg in 24 healthy young male volunteers, the pharmacokinetics of bupropion and hydroxybupropion were unaffected.
+However, there were 16% and 32% increases in the AUC and Cmax, respectively, of the combined moieties of threohydrobupropion and erythrohydrobupropion.
 
-Citalopram:Citalopram did not affect the pharmacokinetics of bupropion and its three metabolites.
+Citalopram: Citalopram did not affect the pharmacokinetics of bupropion and its three metabolites.
 
 Inducers of CYP2B6
 
-Ritonavir and Lopinavir:In a healthy volunteer study, ritonavir 100 mg twice daily reduced the AUC and C maxof bupropion by 22% and 21%, respectively.
+Ritonavir and Lopinavir: In a healthy volunteer study, ritonavir 100 mg twice daily reduced the AUC and Cmax of bupropion by 22% and 21%, respectively.
 The exposure of the hydroxybupropion metabolite was decreased by 23%, the threohydrobupropion decreased by 38%, and the erythrohydrobupropion decreased by 48%.
-In a second healthy volunteer study, ritonavir 600 mg twice daily decreased the AUC and C maxof bupropion by 66% and 62%, respectively.
+In a second healthy volunteer study, ritonavir 600 mg twice daily decreased the AUC and Cmax of bupropion by 66% and 62%, respectively.
 The exposure of the hydroxybupropion metabolite was decreased by 78%, the threohydrobupropion decreased by 50%, and the erythrohydrobupropion decreased by 68%.
 
-In another healthy volunteer study, lopinavir 400 mg/ritonavir 100 mg twice daily decreased bupropion AUC and C maxby 57%.
-The AUC and C maxof hydroxybupropion metabolite were decreased by 50% and 31%, respectively.
+In another healthy volunteer study, lopinavir 400 mg/ritonavir 100 mg twice daily decreased bupropion AUC and Cmax by 57%.
+The AUC and Cmax of hydroxybupropion metabolite were decreased by 50% and 31%, respectively.
 
-Efavirenz:In a study of healthy volunteers, efavirenz 600 mg once daily for 2 weeks reduced the AUC and C maxof bupropion by approximately 55% and 34%, respectively.
-The AUC of hydroxybupropion was unchanged, whereas C maxof hydroxybupropion was increased by 50%.
+Efavirenz: In a study of healthy volunteers, efavirenz 600 mg once daily for 2 weeks reduced the AUC and Cmax of bupropion by approximately 55% and 34%, respectively.
+The AUC of hydroxybupropion was unchanged, whereas Cmax of hydroxybupropion was increased by 50%.
 
-Carbamazepine, Phenobarbital, Phenytoin:While not systematically studied, these drugs may induce the metabolism of bupropion.
+Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce the metabolism of bupropion.
 
 Potential for Bupropion Hydrobromide Extended-Release Tablets to Affect Other Drugs
 
@@ -152,10 +152,10 @@ Nevertheless, there may be the potential for clinically important alterations of
 Drugs Metabolized by CYP2D6
 
 In vitro, bupropion and hydroxybupropion are CYP2D6 inhibitors.
-In a clinical study of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion given as 150 mg twice daily followed by a single dose of 50 mg desipramine increased the C max, AUC, and T ½of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.
+In a clinical study of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion given as 150 mg twice daily followed by a single dose of 50 mg desipramine increased the Cmax, AUC, and T½ of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.
 The effect was present for at least 7 days after the last dose of bupropion.
 Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been formally studied.
 
-Citalopram:Although citalopram is not primarily metabolized by CYP2D6, in one study bupropion increased the C maxand AUC of citalopram by 30% and 40%, respectively.
+Citalopram: Although citalopram is not primarily metabolized by CYP2D6, in one study bupropion increased the Cmax and AUC of citalopram by 30% and 40%, respectively.
 
-Lamotrigine:Multiple oral doses of bupropion had no statistically significant effects on the single-dose pharmacokinetics of lamotrigine in 12 healthy volunteers.
+Lamotrigine: Multiple oral doses of bupropion had no statistically significant effects on the single-dose pharmacokinetics of lamotrigine in 12 healthy volunteers.

@@ -9,7 +9,7 @@ Bupropion Hydrobromide Extended-Release Tablets should be administered in the mo
 
 ## 2.2 Equivalent Daily Doses of Bupropion hydrobromide and Bupropion hydrochloride
 
-See Table 1for equivalent daily doses of bupropion hydrobromide and bupropion hydrochloride.
+See Table 1 for equivalent daily doses of bupropion hydrobromide and bupropion hydrochloride.
 
 Table 1: Equivalent Daily Doses of Bupropion hydrobromide and Bupropion hydrochloride
 
@@ -46,16 +46,17 @@ When discontinuing treatment in patients treated with bupropion hydrobromide ext
 
 ## 2.6 Dosage Adjustment in Patients with Hepatic Impairment
 
-In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose is 174 mg every other day.In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7)and Clinical Pharmacology (12.3)].
+In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose is 174 mg every other day.
+In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
 ## 2.7 Dosage Adjustment in Patients with Renal Impairment
 
-Consider reducing the dose and/or frequency of bupropion hydrobromide extended-release tablets in patients with renal impairment (glomerular filtration rate less than 90 mL/min) [see Use in Specific Populations (8.6)and Clinical Pharmacology (12.3)].
+Consider reducing the dose and/or frequency of bupropion hydrobromide extended-release tablets in patients with renal impairment (glomerular filtration rate less than 90 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.8 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with bupropion hydrobromide extended-release tablets.
-Conversely, at least 14 days should be allowed after stopping bupropion hydrobromide extended-release tablets before starting an MAOI antidepressant [see Contraindications (4)and Drug Interactions (7.6)].
+Conversely, at least 14 days should be allowed after stopping bupropion hydrobromide extended-release tablets before starting an MAOI antidepressant [see Contraindications (4) and Drug Interactions (7.6)].
 
 ## 2.9 Use of Bupropion Hydrobromide Extended-Release Tablets with Reversible MAOIs such as Linezolid or Methylene Blue
 
@@ -70,4 +71,4 @@ The patient should be monitored for 2 weeks or until 24 hours after the last dos
 Therapy with bupropion hydrobromide extended-release tablets may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue.
 
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg per kg with bupropion hydrobromide extended-release tablets is unclear.
-The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use [see Contraindications (4)and Drug Interactions (7.6)].
+The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use [see Contraindications (4) and Drug Interactions (7.6)].
