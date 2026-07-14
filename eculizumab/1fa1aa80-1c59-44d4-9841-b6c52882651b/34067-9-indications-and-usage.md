@@ -15,3 +15,7 @@ EPYSQLI is not indicated for the treatment of patients with Shiga toxin E. coli 
 ## 1.3 Generalized Myasthenia Gravis (gMG)
 
 EPYSQLI is indicated for the treatment of generalized myasthenia gravis (gMG) in adult patients who are anti-acetylcholine receptor (AChR) antibody positive.
+
+## 1.4 Neuromyelitis Optica Spectrum Disorder (NMOSD)
+
+EPYSQLI is indicated for the treatment of neuromyelitis optica spectrum disorder (NMOSD) in adult patients who are anti-aquaporin-4 (AQP4) antibody positive.

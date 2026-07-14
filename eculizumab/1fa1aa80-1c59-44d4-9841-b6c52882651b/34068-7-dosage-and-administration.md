@@ -18,9 +18,9 @@ The recommended dosage of EPYSQLI for the treatment of PNH in patients 18 years 
 
 Administer EPYSQLI at the recommended dosage regimen time points, or within two days of these time points [see Warnings and Precautions (5.4)].
 
-## 2.3 Recommended Dosage for Adults – aHUS and gMG
+## 2.3 Recommended Dosage for Adults – aHUS, gMG, and NMOSD
 
-The recommended dosage of EPYSQLI for the treatment of aHUS and gMG in patients 18 years of age and older is administered as an intravenous infusion [see Dosage and Administration (2.7)] as follows:
+The recommended dosage of EPYSQLI for the treatment of aHUS, gMG, or NMOSD in patients 18 years of age and older is administered as an intravenous infusion [see Dosage and Administration (2.7)] as follows:
 
 - 900 mg weekly for the first 4 weeks, followed by
 - 1,200 mg for the fifth dose 1 week later, then
@@ -44,7 +44,7 @@ Administer EPYSQLI at the recommended dosage regimen time points, or within two 
 
 ## 2.5 Dose Adjustment in Case of Plasmapheresis, Plasma Exchange, Fresh Frozen Plasma Infusion or IVIg
 
-For adult and pediatric patients with aHUS, and adult patients with gMG, supplemental dosing of EPYSQLI is required in the setting of concomitant plasmapheresis or plasma exchange, or fresh frozen plasma infusion (PE/PI) (Table 2).
+For adult and pediatric patients with aHUS, and adult patients with gMG or NMOSD, supplemental dosing of EPYSQLI is required in the setting of concomitant plasmapheresis or plasma exchange, or fresh frozen plasma infusion (PE/PI) (Table 2).
 
 Table 2: Supplemental Dose of EPYSQLI after Plasmapheresis/PE/PI
 

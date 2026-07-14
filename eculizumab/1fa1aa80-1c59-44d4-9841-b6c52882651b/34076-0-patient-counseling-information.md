@@ -43,7 +43,7 @@ Inform patients that there may be an increased risk of other types of infections
 
 Aspergillus infections have occurred in immunocompromised and neutropenic patients.
 
-Inform parents or caregivers of children receiving EPYSQLI for the treatment of Ahus that their child should be vaccinated against Streptococcus pneumoniae and Haemophilus influenzae type b (Hib) according to current medical guidelines.
+Inform parents or caregivers of children receiving EPYSQLI for the treatment of aHus that their child should be vaccinated against Streptococcus pneumoniae and Haemophilus influenzae type b (Hib) according to current medical guidelines.
 
 Infusion-Related Reactions
 
@@ -61,7 +61,5 @@ Manufactured by:
 Samsung Bioepis Co., Ltd. 76, Songdogyoyuk-ro, Yeonsu-gu, Incheon, 21987 Republic of Korea
 
 US License Number 2046
-
-Product of Australia
 
 Manufactured for: Teva Pharmaceuticals Parsippany, NJ 07054

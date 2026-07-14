@@ -2,12 +2,12 @@
 
 ## 14.1 Paroxysmal Nocturnal Hemoglobinuria (PNH)
 
-The safety and efficacy of eculizumab in PNH patients with hemolysis were assessed in a randomized, double-blind, placebo-controlled 26 week study (PNH Study 1, NCT00122330); PNH patients were also treated with eculizumab in a single arm 52 week study (PNH Study 2, NCT00122304) and in a long- term extension study (E05-001, NCT00122317).
+The safety and efficacy of eculizumab in PNH patients with hemolysis were assessed in a randomized, double-blind, placebo-controlled 26 week study (PNH Study 1, NCT00122330); PNH patients were also treated with eculizumab in a single arm 52 week study (PNH Study 2, NCT00122304) and in a long-term extension study (E05-001, NCT00122317).
 Patients received meningococcal vaccination prior to receipt of eculizumab.
 In all studies, the dose of eculizumab was 600 mg study drug every 7 ± 2 days for 4 weeks, followed by 900 mg 7 ± 2 days later, then 900 mg every 14 ± 2 days for the study duration.
 Eculizumab was administered as an intravenous infusion over 25 - 45 minutes.
 
-PNH Study 1:
+PNH Study 1
 
 PNH patients with at least four transfusions in the prior 12 months, flow cytometric confirmation of at least 10% PNH cells and platelet counts of at least 100,000/microliter were randomized to either eculizumab (n = 43) or placebo (n = 44).
 Prior to randomization, all patients underwent an initial observation period to confirm the need for RBC transfusion and to identify the hemoglobin concentration (the "set-point") which would define each patient's hemoglobin stabilization and transfusion outcomes.
@@ -16,9 +16,9 @@ Endpoints related to hemolysis included the numbers of patients achieving hemogl
 To achieve a designation of hemoglobin stabilization, a patient had to maintain a hemoglobin concentration above the hemoglobin set-point and avoid any RBC transfusion for the entire 26 week period.
 Hemolysis was monitored mainly by the measurement of serum LDH levels, and the proportion of PNH RBCs was monitored by flow cytometry.
 Patients receiving anticoagulants and systemic corticosteroids at baseline continued these medications.
-Major baseline characteristics were balanced (see Table 11).
+Major baseline characteristics were balanced (see Table 12).
 
-Table 11: PNH Study 1 Patient Baseline Characteristics
+Table 12: PNH Study 1 Patient Baseline Characteristics
 
 |  | Study 1 |  |
 | --- | --- | --- |
@@ -34,12 +34,12 @@ Table 11: PNH Study 1 Patient Baseline Characteristics
 | Pre-treatment LDH levels (median, U/L) | 2,234 | 2,032 |
 | Free hemoglobin at baseline (median, mg/dL) | 46 | 41 |
 
-Patients treated with eculizumab had significantly reduced (p< 0.001) hemolysis resulting in improvements in anemia as indicated by increased hemoglobin stabilization and reduced need for RBC transfusions compared to placebo treated patients (see Table 12).
+Patients treated with eculizumab had significantly reduced (p< 0.001) hemolysis resulting in improvements in anemia as indicated by increased hemoglobin stabilization and reduced need for RBC transfusions compared to placebo treated patients (see Table 13).
 These effects were seen among patients within each of the three pre-study RBC transfusion strata (4 - 14 units; 15 - 25 units; > 25 units).
 After 3 weeks of eculizumab treatment, patients reported less fatigue and improved health- related quality of life.
 Because of the study sample size and duration, the effects of eculizumab products on thrombotic events could not be determined.
 
-Table 12: PNH Study 1 Results
+Table 13: PNH Study 1 Results
 
 |  | Placebo (N=44) | Eculizumab (N=43) |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ Table 12: PNH Study 1 Results
 | LDH levels at end of study (median, U/L) | 2,167 | 239 |
 | Free hemoglobin at end of study (median, mg/dL) | 62 | 5 |
 
-PNH Study 2 and Extension Study:
+PNH Study 2 and Extension Study
 
 PNH patients with at least one transfusion in the prior 24 months and at least 30,000 platelets/microliter received eculizumab over a 52-week period.
 Concomitant medications included anti- thrombotic agents in 63% of the patients and systemic corticosteroids in 40% of the patients.
@@ -85,9 +85,9 @@ In order to qualify for enrollment, patients were required to have a platelet co
 The median patient age was 28 (range: 17 to 68 years).
 Patients enrolled in Study C08- 002A/B were required to have ADAMTS13 activity level above 5%; observed range of values in the trial were 70%-121%.
 Seventy-six percent of patients had an identified complement regulatory factor mutation or auto-antibody.
-Table 13 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C08-002A/B.
+Table 14 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C08-002A/B.
 
-Table 13: Baseline Characteristics of Patients Enrolled in Study C08-002A/B
+Table 14: Baseline Characteristics of Patients Enrolled in Study C08-002A/B
 
 | Parameter | C08-002A/B (N=17) |
 | --- | --- |
@@ -110,9 +110,9 @@ When treatment was continued for more than 26 weeks, two additional patients ach
 Hematologic Normalization and Complete TMA response were maintained by all responders.
 In Study C08-002A/B, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins.
 
-Table 14 summarizes the efficacy results for Study C08-002A/B.
+Table 15 summarizes the efficacy results for Study C08-002A/B.
 
-Table 14: Efficacy Results for Study C08-002A/B
+Table 15: Efficacy Results for Study C08-002A/B
 
 | Efficacy Parameter | Study C08-002A/B at 26 wks1 (N=17) | Study C08-002A/B at 2 yrs2 (N=17) |
 | --- | --- | --- |
@@ -132,9 +132,9 @@ Patients on chronic dialysis were permitted to enroll in Study C08- 003A/B.
 The median patient age was 28 years (range: 13 to 63 years).
 Patients enrolled in Study C08- 003A/B were required to have ADAMTS13 activity level above 5%; observed range of values in the trial were 37%-118%.
 Seventy percent of patients had an identified complement regulatory factor mutation or auto-antibody.
-Table 15 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C08-003A/B.
+Table 16 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C08-003A/B.
 
-Table 15: Baseline Characteristics of Patients Enrolled in Study C08-003A/B
+Table 16: Baseline Characteristics of Patients Enrolled in Study C08-003A/B
 
 | Parameter | Study C08-003A/B (N=20) |
 | --- | --- |
@@ -158,9 +158,9 @@ When treatment was continued for more than 26 weeks, six additional patients ach
 Complete TMA Response and Hematologic Normalization were maintained by all responders.
 In Study C08-003A/B, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins.
 
-Table 16 summarizes the efficacy results for Study C08-003A/B.
+Table 17 summarizes the efficacy results for Study C08-003A/B.
 
-Table 16: Efficacy Results for Study C08-003A/B
+Table 17: Efficacy Results for Study C08-003A/B
 
 | Efficacy Parameter | Study C08-003A/B at 26 wks1 (N=20) | Study C08-003A/B at 2 yrs2 (N=20) |
 | --- | --- | --- |
@@ -184,10 +184,10 @@ A total of 19 pediatric patients (ages 2 months to 17 years) received eculizumab
 The median duration of eculizumab therapy was 16 weeks (range 4 to 70 weeks) for children <2 years of age (n=5), 31 weeks (range 19 to 63 weeks) for children 2 to <12 years of age (n=10), and 38 weeks (range 1 to 69 weeks) for patients 12 to <18 years of age (n=4).
 Fifty-three percent of pediatric patients had an identified complement regulatory factor mutation or auto-antibody.
 
-Overall, the efficacy results for these pediatric patients appeared consistent with what was observed in patients enrolled in Studies C08-002A/B and C08-003A/B (Table 17).
+Overall, the efficacy results for these pediatric patients appeared consistent with what was observed in patients enrolled in Studies C08-002A/B and C08-003A/B (Table 18).
 No pediatric patient required new dialysis during treatment with eculizumab.
 
-Table 17: Efficacy Results in Pediatric Patients Enrolled in Study C09-001r
+Table 18: Efficacy Results in Pediatric Patients Enrolled in Study C09-001r
 
 | Efficacy Parameter | <2 yrs (N=5) | 2 to <12 yrs (N=10) | 12 to <18 yrs (N=4) | Total (N=19) |
 | --- | --- | --- | --- | --- |
@@ -207,9 +207,9 @@ The median patient age was 35 (range: 18 to 80 years).
 All patients enrolled in Study C10-004 were required to have ADAMTS13 activity level above 5%; observed range of values in the trial were 28%-116%.
 Fifty-one percent of patients had an identified complement regulatory factor mutation or auto-antibody.
 A total of 35 patients received PE/PI prior to eculizumab.
-Table 18 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C10-004.
+Table 19 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C10-004.
 
-Table 18: Baseline Characteristics of Patients Enrolled in Study C10-004
+Table 19: Baseline Characteristics of Patients Enrolled in Study C10-004
 
 | Parameter | Study C10-004 (N=41) |
 | --- | --- |
@@ -227,12 +227,12 @@ Twenty of the 24 patients who required dialysis at study baseline were able to d
 
 Reduction in terminal complement activity and an increase in platelet count relative to baseline were observed after commencement of eculizumab.
 Eculizumab reduced signs of complement-mediated TMA activity, as shown by an increase in mean platelet counts from baseline to 26 weeks.
-In Study C10- 004, mean platelet count (± SD) increased from 119 ± 66 x109/L at baseline to 200 ± 84 x109/L by one week; this effect was maintained through 26 weeks (mean platelet count (± SD) at week 26: 252 ± 70 x109/L).
+In Study C10-004, mean platelet count (± SD) increased from 119 ± 66 x109/L at baseline to 200 ± 84 x109/L by one week; this effect was maintained through 26 weeks (mean platelet count (± SD) at week 26: 252 ± 70 x109/L).
 In Study C10-004, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins or auto-antibodies to factor H.
 
-Table 19 summarizes the efficacy results for Study C10-004.
+Table 20 summarizes the efficacy results for Study C10-004.
 
-Table 19: Efficacy Results for Study C10-004
+Table 20: Efficacy Results for Study C10-004
 
 | Efficacy Parameter | Study C10-004 (N=41) |
 | --- | --- |
@@ -249,9 +249,9 @@ The median patient age was 6.5 (range: 5 months to 17 years).
 Patients enrolled in Study C10-003 were required to have ADAMTS13 activity level above 5%; observed range of values in the trial were 38%-121%.
 Fifty percent of patients had an identified complement regulatory factor mutation or auto-antibody.
 A total of 10 patients received PE/PI prior to eculizumab.
-Table 20 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C10-003.
+Table 21 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C10-003.
 
-Table 20: Baseline Characteristics of Patients Enrolled in Study C10-003
+Table 21: Baseline Characteristics of Patients Enrolled in Study C10-003
 
 | Parameter | Patients 1 month to <12 years (N=18) | All Patients (N=22) |
 | --- | --- | --- |
@@ -275,9 +275,9 @@ Eculizumab reduced signs of complement-mediated TMA activity, as shown by an inc
 The mean platelet count (± SD) increased from 88 ± 42 x109/L at baseline to 281 ± 123 x109/L by one week; this effect was maintained through 26 weeks (mean platelet count (±SD) at week 26: 293 ± 106 x109/L).
 In Study C10-003, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins or auto-antibodies to factor H.
 
-Table 21 summarizes the efficacy results for Study C10-003.
+Table 22 summarizes the efficacy results for Study C10-003.
 
-Table 21: Efficacy Results for Study C10-003
+Table 22: Efficacy Results for Study C10-003
 
 | Efficacy Parameter | Patients 1 month to <12 years (N=18) | All Patients (N=22) |
 | --- | --- | --- |
@@ -302,11 +302,11 @@ Baseline characteristics were similar between treatment groups, including age at
 Over 95% of patients in each group were receiving acetylcholinesterase (AchE) inhibitors, and 98% were receiving immunosuppressant therapies (ISTs).
 Approximately 50% of each group had been previously treated with at least 3 ISTs.
 
-Eculizumab was administered according to the recommended dosage regimen [see Dosage and Administration (2.4)].
+Eculizumab was administered according to the recommended dosage regimen [see Dosage and Administration (2.3)].
 
-The primary efficacy endpoint for Study ECU-MG-301 was a comparison of the change from baseline between treatment groups in the Myasthenia Gravis-Specific Activities of Daily Living scale (MGADL) total score at Week 26.
+The primary efficacy endpoint for Study ECU-MG-301 was a comparison of the change from baseline between treatment groups in the Myasthenia Gravis-Specific Activities of Daily Living scale (MG-ADL) total score at Week 26.
 The MG-ADL is a categorical scale that assesses the impact on daily function of 8 signs or symptoms that are typically affected in gMG.
-Each item is assessed on a 4point scale where a score of 0 represents normal function and a score of 3 represents loss of ability to perform that function (total score 0-24).
+Each item is assessed on a 4-point scale where a score of 0 represents normal function and a score of 3 represents loss of ability to perform that function (total score 0-24).
 A statistically significant difference favoring eculizumab was observed in the mean change from baseline to Week 26 in MG-ADL total scores [-4.2 points in the eculizumab-treated group compared with -2.3 points in the placebo-treated group (p=0.006)].
 
 A key secondary endpoint in Study ECU-MG-301 was the change from baseline in the Quantitative Myasthenia Gravis (QMG) total score at Week 26.
@@ -314,9 +314,9 @@ The QMG is a 13-item categorical scale assessing muscle weakness.
 Each item is assessed on a 4-point scale where a score of 0 represents no weakness and a score of 3 represents severe weakness (total score 0-39).
 A statistically significant difference favoring eculizumab was observed in the mean change from baseline to Week 26 in QMG total scores [-4.6 points in the eculizumab-treated group compared with -1.6 points in the placebo-treated group (p=0.001)].
 
-The results of the analysis of the MG-ADL and QMG from Study ECU-MG-301 are shown in Table 22.
+The results of the analysis of the MG-ADL and QMG from Study ECU-MG-301 are shown in Table 23.
 
-Table 22: Analysis of Change from Baseline to Week 26 in MG-ADL and QMG Total Scores in Study ECU-MG-301
+Table 23: Analysis of Change from Baseline to Week 26 in MG-ADL and QMG Total Scores in Study ECU-MG-301
 
 | Efficacy Endpoints | Eculizumab-LS Mean (N=62) (SEM) | Placebo-LS Mean (N=63) (SEM) | Eculizumab change relative to placebo – LS Mean Difference (95% CI) | p-values |
 | --- | --- | --- | --- | --- |
@@ -329,3 +329,42 @@ In Study ECU-MG-301, a clinical response was defined in the MG-ADL total score a
 The proportion of clinical responders at Week 26 with no rescue therapy was statistically significantly higher for eculizumab compared to placebo for both measures.
 For both endpoints, and also at higher response thresholds (≥4-, 5-, 6-, 7-, or 8-point improvement on MG-ADL, and ≥6-, 7-, 8-, 9-, or 10-point improvement on QMG), the proportion of clinical responders was consistently greater for eculizumab compared to placebo.
 Available data suggest that clinical response is usually achieved by 12 weeks of eculizumab treatment.
+
+## 14.4 Neuromyelitis Optica Spectrum Disorder (NMOSD)
+
+The efficacy of eculizumab for the treatment of NMOSD was established in NMOSD Study 1 (NCT01892345), a randomized, double-blind, placebo-controlled trial that enrolled 143 patients with NMOSD who were anti-AQP4 antibody positive and met the following criteria at screening:
+
+1. History of at least 2 relapses in last 12 months or 3 relapses in the last 24 months, with at least 1 relapse in the 12 months prior to screening,
+2. Expanded Disability Status Scale (EDSS) score ≤ 7 (consistent with the presence of at least limited ambulation with aid),
+3. If on immunosuppressive therapy (IST), on a stable dose regimen,
+4. The use of concurrent corticosteroids was limited to 20 mg per day or less,
+5. Patients were excluded if they had been treated with rituximab or mitoxantrone within 3 months or with IVIg within 3 weeks prior to screening.
+
+A total of 96 patients were randomized to receive eculizumab treatment and 47 were randomized to receive placebo.
+
+The baseline demographic and disease characteristics were balanced between treatment groups.
+During the treatment phase of the trial, 76% percent of patients received concomitant IST, including chronic corticosteroids; 24% of patients did not receive concomitant IST or chronic corticosteroids during the treatment phase of the trial.
+
+Eculizumab was administered according to the recommended dosage regimen [see Dosage and Administration (2.3)].
+
+The primary endpoint for NMOSD Study 1 was the time to the first adjudicated on-trial relapse.
+The time to the first adjudicated on-trial relapse was significantly longer in eculizumab-treated patients compared to placebo-treated patients (relative risk reduction 94%; hazard ratio 0.058; p < 0.0001) (Figure 1).
+
+| Figure 1: Kaplan-Meier Survival Estimates for Time to First Adjudicated On-Trial Relapse – Full Analysis Set |
+| --- |
+| Note: Patients who did not experience an adjudicated on-trial relapse were censored at the end of the study period. Abbreviations: CI = confidence interval |
+
+Eculizumab-treated patients experienced similar improvement in time to first adjudicated on-trial relapse with or without concomitant treatment.
+Eculizumab-treated patients had a 96% relative reduction in the adjudicated on-trial annualized relapse rate (ARR) compared to patients on placebo, as shown in Table 24.
+
+Table 24: Adjudicated On-trial Annualized Relapse Rate – Full Analysis Set
+
+| Variable | Statistic | Placebo (N=47) | Eculizumab (N=96) |
+| --- | --- | --- | --- |
+| Total number of relapses | Sum | 21 | 3 |
+| Adjusted adjudicated ARRBased on a Poisson regression adjusted for randomization strata and historical ARR in 24 months prior to screening. | Rate | 0.350 | 0.016 |
+| Treatment effect | Rate ratio (eculizumab/placebo) | … | 0.045 |
+| p-value | … | <0.0001 |  |
+| ARR = annualized relapse rate |  |  |  |
+
+Compared to placebo-treated patients, eculizumab-treated patients had reduced annualized rates of hospitalizations (0.04 for eculizumab versus 0.31 for placebo), of corticosteroid administrations to treat acute relapses (0.07 for eculizumab versus 0.42 for placebo), and of plasma exchange treatments (0.02 for eculizumab versus 0.19 for placebo).

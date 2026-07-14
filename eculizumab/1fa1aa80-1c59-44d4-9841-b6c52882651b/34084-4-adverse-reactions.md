@@ -190,7 +190,7 @@ Adults
 
 In a 26-week placebo-controlled trial evaluating the effect of eculizumab for the treatment of adult patients with gMG (Study ECU-MG-301), 62 patients received eculizumab at the recommended dosage regimen and 63 patients received placebo [see Clinical Studies (14.3)].
 Patients were 19 to 79 years of age, and 66% were female.
-Table 10 displays the most common adverse reactions from gMG Study 1 that occurred in ≥5% of eculizumab-treated patients and at a greater frequency than on placebo.
+Table 10 displays the most common adverse reactions from Study ECU-MG-301 that occurred in ≥5% of eculizumab-treated patients and at a greater frequency than on placebo.
 
 Table 10: Adverse Reactions Reported in 5% or More of Eculizumab-Treated Patients in Study ECU-MG-301 and at a Greater Frequency than in Placebo-Treated Patients
 
@@ -209,6 +209,55 @@ Table 10: Adverse Reactions Reported in 5% or More of Eculizumab-Treated Patient
 | Musculoskeletal pain | 9 (15) | 5 (8) |
 
 The most common adverse reactions (≥10%) that occurred in eculizumab-treated patients in the long-term extension to Study ECU-MG-301, Study ECU-MG-302, and that are not included in Table 8 were headache (26%), nasopharyngitis (24%), diarrhea (15%), arthralgia (12%), upper respiratory tract infection (11%), and nausea (10%).
+
+Neuromyelitis Optica Spectrum Disorder (NMOSD)
+
+In a placebo-controlled trial evaluating the effect of eculizumab for the treatment of NMOSD (NMOSD Study 1), 96 patients received eculizumab at the recommended dosage regimen and 47 patients received placebo [see Clinical Studies (14.4)].
+Patients were 19 to 75 years of age (mean 44 years of age), and 91% were female.
+Table 11 displays the most common adverse reactions from NMOSD Study 1 that occurred in ≥5% of eculizumab-treated patients and at a greater frequency than on placebo.
+
+Table 11: Adverse Reactions Reported in 5% or More of Eculizumab-Treated Patients in NMOSD Study 1 and at a Greater Frequency than in Placebo-Treated Patients
+
+|  | Eculizumab (N=96) N (%) | Placebo (N=47) N (%) |
+| --- | --- | --- |
+| Events/Patients | 1295/88 | 617/45 |
+| Blood and lymphatic system disorders |  |  |
+| Leukopenia | 5 (5) | 1 (2) |
+| Lymphopenia | 5 (5) | 0 (0) |
+| Eye disorders |  |  |
+| Cataract | 6 (6) | 2 (4) |
+| Gastrointestinal disorders |  |  |
+| Diarrhea | 15 (16) | 7 (15) |
+| Constipation | 9 (9) | 3 (6) |
+| General disorders and administration site conditions |  |  |
+| Asthenia | 5 (5) | 1 (2) |
+| Infections and infestations |  |  |
+| Upper respiratory tract infection | 28 (29) | 6 (13) |
+| Nasopharyngitis | 20 (21) | 9 (19) |
+| Influenza | 11 (11) | 2 (4) |
+| Pharyngitis | 10 (10) | 3 (6) |
+| Bronchitis | 9 (9) | 3 (6) |
+| Conjunctivitis | 9 (9) | 4 (9) |
+| Cystitis | 8 (8) | 1 (2) |
+| Hordeolum | 7 (7) | 0 (0) |
+| Sinusitis | 6 (6) | 0 (0) |
+| Cellulitis | 5 (5) | 1 (2) |
+| Injury, poisoning and procedural complications |  |  |
+| Contusion | 10 (10) | 2 (4) |
+| Metabolism and nutrition disorders |  |  |
+| Decreased appetite | 5 (5) | 1 (2) |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Back pain | 14 (15) | 6 (13) |
+| Arthralgia | 11 (11) | 5 (11) |
+| Musculoskeletal pain | 6 (6) | 0 (0) |
+| Muscle spasms | 5 (5) | 2 (4) |
+| Nervous system disorders |  |  |
+| Dizziness | 14 (15) | 6 (13) |
+| Paresthesia | 8 (8) | 3 (6) |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| Oropharyngeal pain | 7 (7) | 2 (4) |
+| Skin and subcutaneous tissue disorders |  |  |
+| Alopecia | 5 (5) | 2 (4) |
 
 ## 6.2 Postmarketing Experience
 
