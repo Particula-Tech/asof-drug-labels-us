@@ -8,4 +8,4 @@ ANASTROZOLE TABLETS, USP
 
 Rx Only 90 Tablets
 
-breckenridge | A Towa Company
+breckenridge A Towa Company

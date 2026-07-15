@@ -130,7 +130,7 @@ Table 10 - Efficacy Summary
 Two double-blind, controlled clinical studies of similar design (0030, a North American study and 0027, a predominately European study) were conducted to assess the efficacy of anastrozole tablets compared with tamoxifen as first-line therapy for hormone receptor positive or hormone receptor unknown locally advanced or metastatic breast cancer in postmenopausal women.
 A total of 1021 patients between the ages of 30 and 92 years old were randomized to receive trial treatment.
 Patients were randomized to receive 1 mg of anastrozole tablets once daily or 20 mg of tamoxifen once daily.
-The primary end points for both trials were time to tumor progression, objective tumor response rate, and safety.
+The primary endpoints for both trials were time to tumor progression, objective tumor response rate, and safety.
 
 Demographics and other baseline characteristics, including patients who had measurable and no measurable disease, patients who were given previous adjuvant therapy, the site of metastatic disease and ethnic origin were similar for the two treatment groups for both trials.
 The following table summarizes the hormone receptor status at entry for all randomized patients in trials 0030 and 0027.
@@ -142,7 +142,7 @@ Table 11 – Demographic and Other Baseline Characteristics
 |  | Number (%) of subjects |  |  |  |
 |  | Trial 0030 |  | Trial 0027 |  |
 | ERER=Estrogen receptor and/or PgRPgR=Progesterone receptor | 151 (88.3) | 162 (89.0) | 154 (45.3) | 144 (43.9) |
-| ER unknown, PgR Unknown | 19 (11.1) | 20 (11.0) | 185 (54.4) | 183 (55.8) |
+| ER unknown, PgR unknown | 19 (11.1) | 20 (11.0) | 185 (54.4) | 183 (55.8) |
 
 For the primary endpoints, trial 0030 showed that anastrozole tablets had a statistically significant advantage over tamoxifen (p=0.006) for time to tumor progression; objective tumor response rates were similar for anastrozole tablets and tamoxifen.
 Trial 0027 showed that anastrozole tablets and tamoxifen had similar objective tumor response rates and time to tumor progression (see Table 12 and Figures 5 and 6).

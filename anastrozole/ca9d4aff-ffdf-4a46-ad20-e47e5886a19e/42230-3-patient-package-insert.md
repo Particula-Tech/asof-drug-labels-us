@@ -15,7 +15,7 @@ Anastrozole tablets are a prescription medicine used in women after menopause ("
 - treatment of early breast cancer
   - after surgery
   - in women whose breast cancer is hormone receptor-positive
-- the first treatment of breast cancer that has spread to nearby tissue or lymph nodes (locally advanced) or has spread to other parts of the body (metastatic), in women whose breast cancer is hormone receptor-positive or the hormone receptors are not known.
+- the first treatment of breast cancer that has spread to nearby tissue or lymph nodes (locally advanced) or has spread to other parts of the body (metastatic), in women whose breast cancer is hormone receptor-positive or the hormone receptors are not known
 - treatment of advanced breast cancer, if the cancer has grown, or the disease has spread after tamoxifen therapy
 
 Anastrozole tablets does not work in women with breast cancer who have not gone through menopause (premenopausal women).
@@ -26,7 +26,7 @@ Do not take anastrozole tablet if you:
 
 - have had a severe allergic reaction to anastrozole or any of the ingredients in anastrozole tablets.
   See the end of this leaflet for a complete list of ingredients in anastrozole tablets.
-  Symptoms of a severe allergic reaction to anastrozole tablets include: swelling of the face, lips, tongue or throat, trouble breathing or swallowing, hives and itching.
+  Symptoms of a severe allergic reaction to anastrozole tablets include: swelling of the face, lips, tongue, or throat, trouble breathing or swallowing, hives and itching.
 
 What should I tell my healthcare provider before taking anastrozole tablets?
 
@@ -160,10 +160,12 @@ Inactive ingredients: hypromellose, lactose monohydrate, magnesium stearate, pol
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by: Natco Pharma Limited.
-Visakhapatnam - 531019 AP, India.
+Kothur - 509 228, India.
+OR Manufactured by: Natco Pharma Limited.
+Visakhapatnam - 531019 AP, India
 
 Distributed by: Breckenridge Pharmaceutical, Inc. Berkeley Heights, NJ 07922
 
-XXXXXXXX
+40500604
 
-Revised: 10/2024
+Revised: 02/2025

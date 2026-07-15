@@ -329,4 +329,5 @@ The following have been reported in post-approval use of anastrozole tablets:
 - Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
 - Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
 - Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4)]
-- Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)
+- Myalgia and hypercalcemia (with or without an increase in parathyroid hormone)
+- Tendon disorders including tendon rupture, tendonitis, tenosynovitis, and tenosynovitis stenosans (trigger finger)
