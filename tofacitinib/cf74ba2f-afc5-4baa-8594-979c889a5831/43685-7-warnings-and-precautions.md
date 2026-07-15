@@ -135,7 +135,13 @@ Reactions such as angioedema and urticaria that may reflect drug hypersensitivit
 Some events were serious.
 If a serious hypersensitivity reaction occurs, promptly discontinue XELJANZ/XELJANZ XR while evaluating the potential cause or causes of the reaction [see Adverse Reactions (6.2)].
 
-## 5.8 Laboratory Abnormalities
+## 5.8 Hypoglycemia in Patients with Diabetes
+
+Hypoglycemia, including severe hypoglycemia, has been reported following initiation of XELJANZ/XELJANZ XR and other JAK inhibitors in patients with diabetes.
+During treatment with XELJANZ/XELJANZ XR, consider increased monitoring of blood glucose as clinically indicated in patients with diabetes.
+Advise patients with diabetes to notify their healthcare provider if they develop signs or symptoms of hypoglycemia.
+
+## 5.9 Laboratory Abnormalities
 
 Laboratory abnormalities may occur with XELJANZ (tablets and oral solution) and XELJANZ XR (extended-release tablets).
 
@@ -181,13 +187,13 @@ The effect of these lipid parameter elevations on cardiovascular morbidity and m
 - •Perform assessment of lipid parameters approximately 4-8 weeks following initiation of XELJANZ/XELJANZ XR therapy.
 - •Manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
 
-## 5.9 Vaccinations
+## 5.10 Vaccinations
 
 Avoid use of live vaccines concurrently with XELJANZ (tablets and oral solution) or XELJANZ XR (extended-release tablets).
 Prior to initiating XELJANZ/XELJANZ XR therapy, update immunizations in agreement with current immunization guidelines.
 The interval between live vaccinations and initiation of XELJANZ/XELJANZ XR therapy should be in accordance with current vaccination guidelines regarding immunosuppressive agents.
 
-## 5.10 Risk of Gastrointestinal Obstruction with XELJANZ XR - A Non-Deformable Extended-Release Formulation
+## 5.11 Risk of Gastrointestinal Obstruction with XELJANZ XR - A Non-Deformable Extended-Release Formulation
 
 Gastrointestinal obstruction may occur with XELJANZ XR (extended-release tablets).
 Avoid use of XELJANZ XR in patients with pre-existing severe gastrointestinal narrowing (pathologic or iatrogenic).

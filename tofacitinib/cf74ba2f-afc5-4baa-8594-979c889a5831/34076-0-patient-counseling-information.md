@@ -28,9 +28,14 @@ Hypersensitivity
 
 Advise patients to stop taking XELJANZ/XELJANZ XR and to call their healthcare provider right away if they experience any symptoms of allergic reactions while taking XELJANZ/XELJANZ XR [see Warnings and Precautions (5.7)].
 
+Hypoglycemia in Patients with Diabetes
+
+Consider advising patients with diabetes to increase monitoring of blood glucose since hypoglycemia, including severe hypoglycemia, has been reported after starting XELJANZ/XELJANZ XR.
+Advise patients with diabetes to notify their healthcare provider if they develop signs or symptoms of hypoglycemia [see Warnings and Precautions (5.8)].
+
 Important Information on Laboratory Abnormalities
 
-Inform patients that XELJANZ/XELJANZ XR may affect certain lab test results, and that blood tests are required before and during XELJANZ/XELJANZ XR treatment [see Warnings and Precautions (5.8)].
+Inform patients that XELJANZ/XELJANZ XR may affect certain lab test results, and that blood tests are required before and during XELJANZ/XELJANZ XR treatment [see Warnings and Precautions (5.9)].
 
 Pregnancy
 
@@ -54,4 +59,4 @@ Patients should be informed that the active medication has already been absorbed
 This product’s labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0445-30.0
+LAB-0445-31.0
