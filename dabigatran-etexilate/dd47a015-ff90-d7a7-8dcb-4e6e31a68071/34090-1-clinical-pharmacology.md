@@ -30,12 +30,17 @@ In the RE-LY trial, the median (10th to 90th percentile) trough ECT in patients 
 
 In orthopedic hip surgery patients, maximum aPTT response (Emax) to dabigatran and baseline aPTT were higher shortly after surgery than at later time points (e.g. ≥3 days after surgery).
 
+Pediatrics
+
+As in adults, there is a correlation between plasma dabigatran concentrations and the degree of its anticoagulant effect in pediatric patients with venous thromboembolism.
+The parameters dTT and ECT increased in direct linear proportion to the plasma concentration of dabigatran, whereas aPTT prolongation increases in a nonlinear fashion with dabigatran plasma concentrations.
+
+Similar PK/PD relationships for aPTT, ECT, and dTT were observed across age groups of pediatric patients (ages 26 days to < 18 years) and between pediatric and adult patients with venous thromboembolism.
+This similarity in PK/PD relationship suggests that similar exposure-response relationship is expected for dabigatran etexilate treatment across the pediatric age groups and adult patients.
+
 Cardiac Electrophysiology
 
 No prolongation of the QTc interval was observed with dabigatran etexilate at doses up to 600 mg.
-
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 12.3 Pharmacokinetics
 
@@ -44,7 +49,7 @@ The ester is then hydrolyzed, forming dabigatran, the active moiety.
 Dabigatran is metabolized to four different acyl glucuronides and both the glucuronides and dabigatran have similar pharmacological activity.
 Pharmacokinetics described here refer to the sum of dabigatran and its glucuronides.
 Dabigatran displays dose-proportional pharmacokinetics in healthy adult subjects and adult patients in the range of doses from 10 to 400 mg.
-Given twice daily, dabigatran’s accumulation factor in adults is approximately two.
+Given twice daily, dabigatran’s accumulation factor in adults and pediatrics is approximately two.
 
 Absorption
 
@@ -68,6 +73,7 @@ Dabigatran is eliminated primarily in the urine.
 Renal clearance of dabigatran is 80% of total clearance after intravenous administration.
 After oral administration of radiolabeled dabigatran, 7% of radioactivity is recovered in urine and 86% in feces.
 The half-life of dabigatran in healthy adult subjects is 12 to 17 hours.
+Population pharmacokinetic simulation shows that the elimination half-life in pediatric patients is 12 to 14 hours.
 
 Metabolism
 
@@ -78,6 +84,11 @@ Dabigatran is subject to conjugation, forming pharmacologically active acyl gluc
 Four positional isomers, 1-O, 2-O, 3-O, and 4-O-acylglucuronide exist, and each accounts for less than 10% of total dabigatran in plasma.
 
 Specific Populations
+
+Pediatric Patients
+
+The pharmacokinetics of dabigatran was characterized in two clinical studies (DIVERSITY and Study 2) following multiple doses in pediatric patients from birth to less than 18 years old.
+In pediatric patients taking age- and weight-adjusted dosages of dabigatran etexilate capsules (aged 8 to 18 years), the observed geometric mean steady-state trough concentration was 97.9 ng/mL (63.7 to 151 ng/mL, 10th to 90th percentile) compared to the steady-state geometric mean trough concentration of 59.7 ng/mL (26.3 to 146 ng/mL, 10th to 90th percentile) observed in adult patients with DVT/PE.
 
 Renal Impairment
 
@@ -117,6 +128,3 @@ In RE-LY, dabigatran plasma samples were also collected.
 The concomitant use of proton pump inhibitors, H2 antagonists, and digoxin did not appreciably change the trough concentration of dabigatran.
 
 Impact of Dabigatran on Other Drugs In clinical studies exploring CYP3A4, CYP2C9, P-gp and other pathways, dabigatran did not meaningfully alter the pharmacokinetics of amiodarone, atorvastatin, clarithromycin, diclofenac, clopidogrel, digoxin, pantoprazole, or ranitidine.
-
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

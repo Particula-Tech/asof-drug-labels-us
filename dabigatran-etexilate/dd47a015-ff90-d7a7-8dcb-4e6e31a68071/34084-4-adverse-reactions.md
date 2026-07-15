@@ -60,7 +60,7 @@ Table 3 Adjudicated Major Bleeding Events in Treated Patientsa
 
 There was a higher rate of any gastrointestinal bleeds in patients receiving dabigatran etexilate capsules 150 mg than in patients receiving warfarin (6.6% vs 4.2%, respectively).
 
-The risk of major bleeds was similar with dabigatran etexilate capsules 150 mg and warfarin across major subgroups defined by baseline characteristics (see Figure 1), with the exception of age, where there was a trend toward a higher incidence of major bleeding on dabigatran etexilate capsules (hazard ratio 1.2, 95% CI: 1 to 1.5) for patients ≥75 years of age.
+The risk of major bleeds was similar with dabigatran etexilate capsules 150 mg and warfarin across major subgroups defined by baseline characteristics (see Figure 1), with the exception of age, where there was a trend toward a higher incidence of major bleeding on dabigatran etexilate capsules (hazard ratio 1.2, 95% CI: 1.0 to 1.5) for patients ≥75 years of age.
 
 Figure 1 Adjudicated Major Bleeding by Baseline Characteristics Including Hemorrhagic Stroke Treated Patients
 
@@ -85,7 +85,7 @@ The demographic characteristics were similar among the 4 pivotal studies and bet
 Approximately 60% of the treated patients were male, with a mean age of 55.1 years.
 The majority of the patients were white (87.7%), 10.3% were Asian, and 1.9% were black with a mean CrCl of 105.6 mL/min.
 
-Bleeding events for the 4 pivotal studies were classified as major bleeding events if at least one of the following criteria applied: fatal bleeding, symptomatic bleeding in a critical area or organ (intraocular, intracranial, intraspinal or intramuscular with compartment syndrome, retroperitoneal bleeding, intra-articular bleeding, or pericardial bleeding), bleeding causing a fall in hemoglobin level of 2 g/dL (1.24 mmol/L or more, or leading to transfusion of 2 or more units of whole blood or red cells).
+Bleeding events for the 4 pivotal studies were classified as major bleeding events if at least one of the following criteria applied: fatal bleeding, symptomatic bleeding in a critical area or organ (intraocular, intracranial, intraspinal or intramuscular with compartment syndrome, retroperitoneal bleeding, intra-articular bleeding, or pericardial bleeding), bleeding causing a fall in hemoglobin level of 2.0 g/dL (1.24 mmol/L or more, or leading to transfusion of 2 or more units of whole blood or red cells).
 
 RE-COVER and RE-COVER II studies compared dabigatran etexilate capsules 150 mg twice daily and warfarin for the treatment of deep vein thrombosis and pulmonary embolism.
 Patients received 5 to 10 days of an approved parenteral anticoagulant therapy followed by 6 months, with mean exposure of 164 days, of oral only treatment; warfarin was overlapped with parenteral therapy.
@@ -195,7 +195,7 @@ In the placebo-controlled study, a similar rate of nonfatal and fatal clinical m
 Gastrointestinal Adverse Reactions
 
 In the four pivotal studies, patients on dabigatran etexilate capsules 150 mg had a similar incidence of gastrointestinal adverse reactions (24.7% vs 22.7% on warfarin).
-Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on dabigatran etexilate capsules 7.5% vs 5.5% on warfarin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 3% vs 1.7%, respectively.
+Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on dabigatran etexilate capsules 7.5% vs 5.5% on warfarin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 3.0% vs 1.7%, respectively.
 
 Hypersensitivity Reactions
 
@@ -208,7 +208,7 @@ The demographic characteristics were similar across the two studies and between 
 Approximately 45.3% of the treated patients were male, with a mean age of 63.2 years.
 The majority of the patients were white (96.1%), 3.6% were Asian, and 0.3% were black with a mean CrCl of 92 mL/min.
 
-Bleeding events for the RE-NOVATE and RE-NOVATE II studies were classified as major bleeding events if at least one of the following criteria applied: fatal bleeding, symptomatic bleeding in a critical area or organ (intraocular, intracranial, intraspinal or retroperitoneal bleeding), bleeding causing a fall in hemoglobin level of 2 g/dL (1.24 mmol/L) or more, or leading to transfusion of 2 or more units of whole blood or red cells, requiring treatment cessation or leading to re-operation.
+Bleeding events for the RE-NOVATE and RE-NOVATE II studies were classified as major bleeding events if at least one of the following criteria applied: fatal bleeding, symptomatic bleeding in a critical area or organ (intraocular, intracranial, intraspinal or retroperitoneal bleeding), bleeding causing a fall in hemoglobin level of 2.0 g/dL (1.24 mmol/L) or more, or leading to transfusion of 2 or more units of whole blood or red cells, requiring treatment cessation or leading to re-operation.
 
 The RE-NOVATE study compared dabigatran etexilate capsules 75 mg taken orally 1 to 4 hours after surgery followed by 150 mg once daily, dabigatran etexilate capsules 110 mg taken orally 1 to 4 hours after surgery followed by 220 mg once daily and subcutaneous enoxaparin 40 mg once daily initiated the evening before surgery for the prophylaxis of deep vein thrombosis and pulmonary embolism in patients who had undergone hip replacement surgery.
 The RE-NOVATE II study compared dabigatran etexilate capsules 110 mg taken orally 1 to 4 hours after surgery followed by 220 mg once daily and subcutaneous enoxaparin 40 mg once daily initiated the evening before surgery for the prophylaxis of deep vein thrombosis and pulmonary embolism in patients who had undergone hip replacement surgery.
@@ -238,7 +238,7 @@ In the two studies, the rate of major gastrointestinal bleeds in patients receiv
 Gastrointestinal Adverse Reactions
 
 In the two studies, the incidence of gastrointestinal adverse reactions for patients on dabigatran etexilate capsules 220 mg and enoxaparin was 39.5% and 39.5%, respectively.
-Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on dabigatran etexilate capsules 220 mg in 4.1% vs. 3.8% on enoxaparin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 0.6% vs 1%, respectively.
+Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on dabigatran etexilate capsules 220 mg in 4.1% vs 3.8% on enoxaparin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 0.6% vs 1.0%, respectively.
 
 Hypersensitivity Reactions
 
@@ -248,8 +248,58 @@ Clinical Myocardial Infarction Events
 
 In the two studies, clinical myocardial infarction was reported in 2 (0.1%) of patients who received dabigatran etexilate capsules 220 mg and 6 (0.3%) of patients who received enoxaparin.
 
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric Trials
+
+Treatment of VTE in Pediatric Patients
+
+The safety of dabigatran etexilate capsules in the treatment of VTE in pediatric patients was studied in one phase III trial (DIVERSITY).
+The DIVERSITY study was a randomized, open-label, active-controlled, parallel-group trial comparing dabigatran etexilate with standard of care – SOC (vitamin K antagonists, low molecular weight heparin, or fondaparinux).
+There were 266 pediatric patients who received study treatment, 176 patients treated with dabigatran etexilate and 90 patients treated with SOC.
+Patients on dabigatran etexilate capsules received age- and weight-adjusted dosages of an age-appropriate formulation of dabigatran etexilate twice daily.
+
+Patients had a median age of 14 years (range: 0 to 17 years), 92% were white, and half the patients were male (50%).
+Following at least 5 days of parenteral anticoagulant therapy, the median duration of treatment with dabigatran etexilate was 85 days (range: 1 to 105).
+Patients with estimated glomerular filtration rate (eGFR) < 50 mL/min/1.73 m2 were excluded from the trial.
+
+Bleeding
+
+Data on adjudicated major bleeding, clinically relevant non-major (CRNM) bleeding and minor bleeding events, for the dabigatran etexilate group and the SOC group in the DIVERSITY study, are reported in Table 9.
+There was no statistically significant difference in the time to first major bleeding event.
+
+Table 9 Summary of All Adjudicated Bleeding Events During On-Treatment Period in DIVERSITY
+
+| Dabigatran etexilate capsules N (%) |  | Standard of Care (SOC) N (%) |  |
+| --- | --- | --- | --- |
+| Patients | N=176 | N=90 |  |
+| Major bleeding event1 | 4 (2.3) | 2 (2.2) |  |
+| Fatal bleeding | 0 | 1 (1.1) |  |
+| Clinically relevant non-major bleeding | 2 (1.1) | 1 (1.1) |  |
+| Minor bleeding | 33 (19) | 21 (23) |  |
+| Major and clinically relevant non-major bleeding | 6 (3.4) | 3 (3.3) |  |
+| Any bleeding | 38 (22) | 22 (24) |  |
+
+1 Major bleeding event if at least one of the following criteria applied: fatal bleeding, symptomatic bleeding in a critical area or organ (intraocular, intracranial, intraspinal or intramuscular with compartment syndrome, retroperitoneal bleeding, intra-articular bleeding, or pericardial bleeding), bleeding causing a fall in hemoglobin level of 2.0 g/dL (1.24 mmol/L) or more, or leading to transfusion of 2 or more units of whole blood or red cells.
+
+Site-specific bleeding rates were comparable between the two arms, with the exception of the rate of any gastrointestinal bleeds (5.7% in dabigatran etexilate arm vs 1.8% in SOC arm).
+
+Gastrointestinal Adverse Reactions
+
+The incidence of gastrointestinal adverse reactions for patients on dabigatran etexilate and SOC was 32% and 12%, respectively, with the following occurring in ≥ 5% of patients taking dabigatran etexilate: dyspepsia (including term gastro-esophageal reflux disease, gastric pH decreased and esophagitis) in 9% (vs 2%), upper abdominal pain in 5% (vs 1%), vomiting in 8% (vs 2%), nausea 5% (vs 4%), and diarrhea 5% (vs 1%).
+
+Reduction in Risk of Recurrence of VTE in Pediatric Patients
+
+The safety of dabigatran etexilate in the reduction in the risk of recurrence of VTE in pediatric patients was studied in one open-label single-arm trial (Study 2).
+Study 2 enrolled patients who required further anticoagulation due to the presence of a clinical risk factor after completing the initial treatment for confirmed VTE (for at least 3 months) or after completing the DIVERSITY study and received dabigatran etexilate until the clinical risk factor resolved, or up to a maximum of 12 months.
+There were 213 pediatric patients treated with dabigatran etexilate, in a similar fashion as in the DIVERSITY trial.
+
+Patients had a median age of 14 years (range: 0 to 18 years), 91% were white, and 55% of patients were male.
+Patients previously enrolled on DIVERSITY accounted for 43% of patients enrolled on Study 2 (29% from dabigatran etexilate arm and 14% from SOC arm).
+The median duration of treatment with dabigatran etexilate in Study 2 was 42 weeks (range: 0 to 56 weeks), with 45% of patients completing the 12-month planned duration, 17% stopping due to resolution of VTE risk factors, 12% stopping due to failure to attain target dabigatran concentration and 6% had an adverse event leading to discontinuation.
+
+During the on-treatment period of Study 2, 3 patients (1.4%) had a major bleeding event, 3 patients (1.4%) had a clinically relevant non-major bleeding event, and 44 patients (20%) had a minor bleeding event.
+The most common drug-related adverse reactions were dyspepsia (5%), epistaxis (3.3%), nausea (3.3%) and menorrhagia (2.8%).
+
+The adverse reaction profile in pediatric patients was generally consistent with that of adult patients.
 
 ## 6.2 Postmarketing Experience
 

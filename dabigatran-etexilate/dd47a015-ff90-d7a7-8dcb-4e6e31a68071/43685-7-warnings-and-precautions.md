@@ -2,7 +2,7 @@
 
 ## 5.1 Increased Risk of Thrombotic Events after Premature Discontinuation
 
-Premature discontinuation of any oral anticoagulant, including dabigatran etexilate capsules, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.
+Premature discontinuation of any oral anticoagulant, including dabigatran etexilate, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.
 If dabigatran etexilate capsules are discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant and restart dabigatran etexilate capsules as soon as medically appropriate [see Dosage and Administration (2.6, 2.7, 2.8)].
 
 ## 5.2 Risk of Bleeding
@@ -14,9 +14,9 @@ Discontinue dabigatran etexilate capsules in patients with active pathological b
 Risk factors for bleeding include the concomitant use of other drugs that increase the risk of bleeding (e.g., anti-platelet agents, heparin, fibrinolytic therapy, and chronic use of NSAIDs).
 Dabigatran etexilate capsule’s anticoagulant activity and half-life are increased in patients with renal impairment [see Clinical Pharmacology (12.2)].
 
-Reversal of Anticoagulant Effect:
+Reversal of Anticoagulant Effect
 
-In adults, a specific reversal agent (idarucizumab) for dabigatran etexilate capsules is available when reversal of the anticoagulant effect of dabigatran is needed:
+In adults, a specific reversal agent (idarucizumab) for dabigatran etexilate is available when reversal of the anticoagulant effect of dabigatran is needed:
 
 - For emergency surgery/urgent procedures
 - In life-threatening or uncontrolled bleeding
@@ -68,8 +68,9 @@ Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Fol
 
 Avoid use of dabigatran etexilate capsules and concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Drug Interactions (7.3) and Use in Specific Populations (8.6)].
 
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Treatment and reduction in risk of recurrence of VTE in pediatric patients
+
+The concomitant use of dabigatran etexilate capsules with P-gp-inhibitors has not been studied in pediatric patients but may increase exposure to dabigatran.
 
 ## 5.6 Increased Risk of Thrombosis in Patients with Triple-Positive Antiphospholipid Syndrome
 
