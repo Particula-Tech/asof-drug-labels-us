@@ -18,6 +18,9 @@ Store bottle below 30 °C (86 °F).
 
 Keep bottle tightly closed.
 
+The bottle containing 50 mg/200 mg/25 mg tablets (NDC 61958-2501-1) may have a tamper-evident seal over the cap.
+If a tamper-evident seal is present, do not use if the seal is opened or damaged.
+
 Blister Packs
 
 50 mg/200 mg/25 mg tablets each contain 50 mg of BIC, 200 mg of FTC, and 25 mg of TAF.
