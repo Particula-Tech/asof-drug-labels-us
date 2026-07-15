@@ -1,9 +1,7 @@
-© 2024 Janssen Pharmaceutical Companies
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560, USA
 
-Revised: 12/2024
+For patent information: www.janssenpatents.com
 
-Manufactured for:
+© Johnson & Johnson and its affiliates 2026
 
-Janssen Pharmaceuticals, Inc.
-
-Titusville, NJ 08560, USA
+Revised: 7/2026

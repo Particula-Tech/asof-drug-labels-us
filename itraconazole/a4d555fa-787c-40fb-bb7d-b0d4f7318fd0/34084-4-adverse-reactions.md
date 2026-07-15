@@ -2,10 +2,10 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-SPORANOX ® has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
+SPORANOX® has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
 Some of these cases had neither pre-existing liver disease nor a serious underlying medical condition.
 If clinical signs or symptoms develop that are consistent with liver disease, treatment should be discontinued and liver function testing performed.
-The risks and benefits of SPORANOX ® use should be reassessed.
+The risks and benefits of SPORANOX® use should be reassessed.
 (See WARNINGS: Hepatic Effects and PRECAUTIONS: Hepatotoxicity and Information for Patients.)
 
 ## Adverse Events in the Treatment of Systemic Fungal Infections
@@ -31,7 +31,7 @@ Table 3: Clinical Trials of Systemic Fungal Infections: Adverse Events Occurring
 | Fever | 3 |
 | Malaise | 1 |
 | Skin and Appendages |  |
-| Rash Rash tends to occur more frequently in immunocompromised patients receiving immunosuppressive medications. | 9 |
+| RashRash tends to occur more frequently in immunocompromised patients receiving immunosuppressive medications. | 9 |
 | Pruritus | 3 |
 | Central/Peripheral Nervous System |  |
 | Headache | 4 |
@@ -92,9 +92,9 @@ The following adverse events occurred with an incidence of greater than or equal
 
 ## Adverse Events Reported from Other Clinical Trials
 
-In addition, the following adverse drug reaction was reported in patients who participated in SPORANOX ® Capsules clinical trials: Hepatobiliary Disorders:hyperbilirubinemia.
+In addition, the following adverse drug reaction was reported in patients who participated in SPORANOX® Capsules clinical trials: Hepatobiliary Disorders: hyperbilirubinemia.
 
-The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of SPORANOX ® Oral Solution and itraconazole IV excluding the adverse reaction term "Injection site inflammation" which is specific to the injection route of administration:
+The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of SPORANOX® Oral Solution and itraconazole IV excluding the adverse reaction term "Injection site inflammation" which is specific to the injection route of administration:
 
 Cardiac Disorders: cardiac failure, left ventricular failure, tachycardia;
 
@@ -102,7 +102,7 @@ General Disorders and Administration Site Conditions: face edema, chest pain, ch
 
 Hepatobiliary Disorders: hepatic failure, jaundice;
 
-Investigations:alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood lactate dehydrogenase increased, blood urea increased, gamma-glutamyltransferase increased, urine analysis abnormal;
+Investigations: alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood lactate dehydrogenase increased, blood urea increased, gamma-glutamyltransferase increased, urine analysis abnormal;
 
 Metabolism and Nutrition Disorders: hyperglycemia, hyperkalemia, hypomagnesemia;
 
@@ -118,7 +118,7 @@ Vascular Disorders: hypotension
 
 ## Postmarketing Experience
 
-Adverse drug reactions that have been first identified during postmarketing experience with SPORANOX ®(all formulations) are listed in the table below.
+Adverse drug reactions that have been first identified during postmarketing experience with SPORANOX® (all formulations) are listed in the table below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
 Table 6: Postmarketing Reports of Adverse Drug Reactions
@@ -141,7 +141,7 @@ Table 6: Postmarketing Reports of Adverse Drug Reactions
 | General Disorders and Administration Site Conditions: | Peripheral edema |
 | Investigations: | Blood creatine phosphokinase increased |
 
-There is limited information on the use of SPORANOX ®during pregnancy.
+There is limited information on the use of SPORANOX® during pregnancy.
 Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during postmarketing experience.
-A causal relationship with SPORANOX ®has not been established.
+A causal relationship with SPORANOX® has not been established.
 (See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactions for more information.)
