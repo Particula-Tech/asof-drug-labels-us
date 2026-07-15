@@ -9,11 +9,11 @@ The blood pressure lowering effects of enalapril maleate and thiazides are appro
 ## Heart Failure
 
 Enalapril maleate is indicated for the treatment of symptomatic congestive heart failure, usually in combination with diuretics and digitalis.
-In these patients enalapril maleate improves symptoms, increases survival, and decreases the frequency of hospitalization (see CLINICAL PHARMACOLOGY, Heart Failure, Mortality Trials for details and limitations of survival trials).
+In these patients enalapril maleate improves symptoms, increases survival, and decreases the frequency of hospitalization (see CLINICAL PHARMACOLOGY, Heart Failure, Mortality Trialsfor details and limitations of survival trials).
 
 ## Asymptomatic Left Ventricular Dysfunction
 
-In clinically stable asymptomatic patients with left ventricular dysfunction (ejection fraction ≤35 percent), enalapril maleate decreases the rate of development of overt heart failure and decreases the incidence of hospitalization for heart failure (see CLINICAL PHARMACOLOGY, Heart Failure, Mortality Trials for details and limitations of survival trials).
+In clinically stable asymptomatic patients with left ventricular dysfunction (ejection fraction ≤35 percent), enalapril maleate decreases the rate of development of overt heart failure and decreases the incidence of hospitalization for heart failure (see CLINICAL PHARMACOLOGY, Heart Failure, Mortality Trialsfor details and limitations of survival trials).
 
 In using enalapril maleate consideration should be given to the fact that another angiotensin-converting enzyme inhibitor, captopril, has caused agranulocytosis, particularly in patients with renal impairment or collagen vascular disease, and that available data are insufficient to show that enalapril maleate does not have a similar risk (see WARNINGS, Neutropenia/Agranulocytosis).
 

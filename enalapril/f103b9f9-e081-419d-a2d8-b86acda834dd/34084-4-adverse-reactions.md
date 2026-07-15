@@ -70,38 +70,38 @@ The percentage of patients with severe heart failure (NYHA Class IV) was 29 perc
 
 Other serious clinical adverse experiences occurring since the drug was marketed or adverse experiences occurring in 0.5 to 1.0 percent of patients with hypertension or heart failure in clinical trials are listed below and, within each category, are in order of decreasing severity.
 
-Body As A Whole: Anaphylactoid reactions (see WARNINGS, Anaphylactoid and Possibly Related Reactions).
+Body As A Whole:Anaphylactoid reactions (see WARNINGS, Anaphylactoid and Possibly Related Reactions).
 
-Cardiovascular: Cardiac arrest; myocardial infarction or cerebrovascular accident, possibly secondary to excessive hypotension in high risk patients (see WARNINGS, Hypotension); pulmonary embolism and infarction; pulmonary edema; rhythm disturbances including atrial tachycardia and bradycardia; atrial fibrillation; palpitation, Raynaud's phenomenon.
+Cardiovascular:Cardiac arrest; myocardial infarction or cerebrovascular accident, possibly secondary to excessive hypotension in high risk patients (see WARNINGS, Hypotension); pulmonary embolism and infarction; pulmonary edema; rhythm disturbances including atrial tachycardia and bradycardia; atrial fibrillation; palpitation, Raynaud's phenomenon.
 
-Digestive: Ileus, pancreatitis, hepatic failure, hepatitis (hepatocellular [proven on rechallenge] or cholestatic jaundice) (see WARNINGS, Hepatic Failure), melena, anorexia, dyspepsia, constipation, glossitis, stomatitis, dry mouth.
+Digestive:Ileus, pancreatitis, hepatic failure, hepatitis (hepatocellular [proven on rechallenge] or cholestatic jaundice) (see WARNINGS, Hepatic Failure), melena, anorexia, dyspepsia, constipation, glossitis, stomatitis, dry mouth.
 
-Hematologic: Rare cases of neutropenia, thrombocytopenia and bone marrow depression.
+Hematologic:Rare cases of neutropenia, thrombocytopenia and bone marrow depression.
 
-Musculoskeletal: Muscle cramps.
+Musculoskeletal:Muscle cramps.
 
-Nervous/Psychiatric: Depression, confusion, ataxia, somnolence, insomnia, nervousness, peripheral neuropathy (e.g., paresthesia, dysesthesia), dream abnormality.
+Nervous/Psychiatric:Depression, confusion, ataxia, somnolence, insomnia, nervousness, peripheral neuropathy (e.g., paresthesia, dysesthesia), dream abnormality.
 
-Respiratory: Bronchospasm, rhinorrhea, sore throat and hoarseness, asthma, upper respiratory infection, pulmonary infiltrates, eosinophilic pneumonitis.
+Respiratory:Bronchospasm, rhinorrhea, sore throat and hoarseness, asthma, upper respiratory infection, pulmonary infiltrates, eosinophilic pneumonitis.
 
-Skin: Exfoliative dermatitis, toxic epidermal necrolysis, Stevens-Johnson syndrome, pemphigus, herpes zoster, erythema multiforme, urticaria, pruritus, alopecia, flushing, diaphoresis, photosensitivity.
+Skin:Exfoliative dermatitis, toxic epidermal necrolysis, Stevens-Johnson syndrome, pemphigus, herpes zoster, erythema multiforme, urticaria, pruritus, alopecia, flushing, diaphoresis, photosensitivity.
 
-Special Senses: Blurred vision, taste alteration, anosmia, tinnitus, conjunctivitis, dry eyes, tearing.
+Special Senses:Blurred vision, taste alteration, anosmia, tinnitus, conjunctivitis, dry eyes, tearing.
 
-Urogenital: Renal failure, oliguria, renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION), flank pain, gynecomastia, impotence.
+Urogenital:Renal failure, oliguria, renal dysfunction (see PRECAUTIONSand DOSAGE AND ADMINISTRATION), flank pain, gynecomastia, impotence.
 
-Miscellaneous: A symptom complex has been reported which may include some or all of the following: a positive ANA, an elevated erythrocyte sedimentation rate, arthralgia/arthritis, myalgia/myositis, fever, serositis, vasculitis, leukocytosis, eosinophilia, photosensitivity, rash and other dermatologic manifestations.
+Miscellaneous:A symptom complex has been reported which may include some or all of the following: a positive ANA, an elevated erythrocyte sedimentation rate, arthralgia/arthritis, myalgia/myositis, fever, serositis, vasculitis, leukocytosis, eosinophilia, photosensitivity, rash and other dermatologic manifestations.
 
-Angioedema: Angioedema has been reported in patients receiving enalapril maleate, with an incidence higher in black than in non-black patients.
+Angioedema:Angioedema has been reported in patients receiving enalapril maleate, with an incidence higher in black than in non-black patients.
 Angioedema associated with laryngeal edema may be fatal.
 If angioedema of the face, extremities, lips, tongue, glottis and/or larynx occurs, treatment with enalapril maleate should be discontinued and appropriate therapy instituted immediately (see WARNINGS, Head and Neck Angioedema).
 
-Hypotension: In the hypertensive patients, hypotension occurred in 0.9 percent and syncope occurred in 0.5 percent of patients following the initial dose or during extended therapy.
+Hypotension:In the hypertensive patients, hypotension occurred in 0.9 percent and syncope occurred in 0.5 percent of patients following the initial dose or during extended therapy.
 Hypotension or syncope was a cause for discontinuation of therapy in 0.1 percent of hypertensive patients.
 In heart failure patients, hypotension occurred in 6.7 percent and syncope occurred in 2.2 percent of patients.
 Hypotension or syncope was a cause for discontinuation of therapy in 1.9 percent of patients with heart failure (see WARNINGS, Hypotension).
 
-Cough: See PRECAUTIONS, Cough.
+Cough:See PRECAUTIONS, Cough.
 
 ## Pediatric Patients
 

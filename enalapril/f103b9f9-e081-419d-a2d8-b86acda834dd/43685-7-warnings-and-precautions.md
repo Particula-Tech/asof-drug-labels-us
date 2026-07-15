@@ -11,7 +11,7 @@ This may occur at any time during treatment.
 In such cases enalapril maleate should be promptly discontinued and appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms has occurred.
 In instances where swelling has been confined to the face and lips the condition has generally resolved without treatment, although antihistamines have been useful in relieving symptoms.
 Angioedema associated with laryngeal edema may be fatal.
-Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway, should be promptly provided (see ADVERSE REACTIONS).
+Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway, should be promptly provided(see ADVERSE REACTIONS).
 
 Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema (see PRECAUTIONS).
 
@@ -22,7 +22,7 @@ These patients presented with abdominal pain (with or without nausea or vomiting
 The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor.
 Intestinal angioedema should be included in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain.
 
-Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (see also INDICATIONS AND USAGE and CONTRAINDICATIONS).
+Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (see also INDICATIONS AND USAGEand CONTRAINDICATIONS).
 
 ## Anaphylactoid Reactions During Desensitization
 
@@ -39,7 +39,7 @@ Anaphylactoid reactions have also been reported in patients undergoing low-densi
 Excessive hypotension is rare in uncomplicated hypertensive patients treated with enalapril maleate alone.
 Patients with heart failure given enalapril maleate commonly have some reduction in blood pressure, especially with the first dose, but discontinuation of therapy for continuing symptomatic hypotension usually is not necessary when dosing instructions are followed; caution should be observed when initiating therapy (see DOSAGE AND ADMINISTRATION).
 Patients at risk for excessive hypotension, sometimes associated with oliguria and/or progressive azotemia, and rarely with acute renal failure and/or death, include those with the following conditions or characteristics: heart failure, hyponatremia, high-dose diuretic therapy, recent intensive diuresis or increase in diuretic dose, renal dialysis, or severe volume and/or salt depletion of any etiology.
-It may be advisable to eliminate the diuretic (except in patients with heart failure), reduce the diuretic dose or increase salt intake cautiously before initiating therapy with enalapril maleate in patients at risk for excessive hypotension who are able to tolerate such adjustments (see PRECAUTIONS, Drug Interactions and ADVERSE REACTIONS).
+It may be advisable to eliminate the diuretic (except in patients with heart failure), reduce the diuretic dose or increase salt intake cautiously before initiating therapy with enalapril maleate in patients at risk for excessive hypotension who are able to tolerate such adjustments (see PRECAUTIONS, Drug Interactionsand ADVERSE REACTIONS).
 In patients at risk for excessive hypotension, therapy should be started under very close medical supervision and such patients should be followed closely for the first two weeks of treatment and whenever the dose of enalapril and/or diuretic is increased.
 Similar considerations may apply to patients with ischemic heart or cerebrovascular disease, in whom an excessive fall in blood pressure could result in a myocardial infarction or cerebrovascular accident.
 
@@ -101,7 +101,7 @@ Some patients with hypertension or heart failure with no apparent pre-existing r
 This is more likely to occur in patients with pre-existing renal impairment.
 Dosage reduction and/or discontinuation of the diuretic and/or enalapril maleate may be required.
 
-Evaluation of patients with hypertension or heart failure should always include assessment of renal function (see DOSAGE AND ADMINISTRATION).
+Evaluation of patients with hypertension or heart failure should always include assessment of renal function(see DOSAGE AND ADMINISTRATION).
 
 ### Hyperkalemia
 
@@ -174,7 +174,7 @@ Avoid use of aliskiren with enalapril maleate in patients with renal impairment 
 
 Patients on diuretics and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with enalapril.
 The possibility of hypotensive effects with enalapril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with enalapril.
-If it is necessary to continue the diuretic, provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour (See WARNINGS, Hypotension and DOSAGE AND ADMINISTRATION).
+If it is necessary to continue the diuretic, provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour (See WARNINGS, Hypotensionand DOSAGE AND ADMINISTRATION).
 
 ### Agents Causing Renin Release
 
@@ -221,7 +221,7 @@ There was no evidence of a tumorigenic effect when enalapril was administered fo
 These doses are 26 times (in rats and female mice) and 13 times (in male mice) the maximum recommended human daily dose (MRHDD) when compared on a body surface area basis.
 
 Neither enalapril maleate nor the active diacid was mutagenic in the Ames microbial mutagen test with or without metabolic activation.
-Enalapril was also negative in the following genotoxicity studies: rec-assay, reverse mutation assay with E. coli, sister chromatid exchange with cultured mammalian cells, and the micronucleus test with mice, as well as in an in vivo cytogenic study using mouse bone marrow.
+Enalapril was also negative in the following genotoxicity studies: rec-assay, reverse mutation assay with E. coli,sister chromatid exchange with cultured mammalian cells, and the micronucleus test with mice, as well as in an in vivocytogenic study using mouse bone marrow.
 
 There were no adverse effects on reproductive performance of male and female rats treated with up to 90 mg/kg/day of enalapril (26 times the MRHDD when compared on a body surface area basis).
 
@@ -241,6 +241,6 @@ Exchange transfusions or dialysis may be required as a means of reversing hypote
 Enalapril, which crosses the placenta, has been removed from neonatal circulation by peritoneal dialysis with some clinical benefit, and theoretically may be removed by exchange transfusion, although there is no experience with the latter procedure.
 
 Antihypertensive effects of enalapril maleate have been established in hypertensive pediatric patients age 1 month to 16 years.
-Use of enalapril maleate in these age groups is supported by evidence from adequate and well-controlled studies of enalapril maleate in pediatric and adult patients as well as by published literature in pediatric patients (see CLINICAL PHARMACOLOGY, Clinical Pharmacology in Pediatric Patients and DOSAGE AND ADMINISTRATION).
+Use of enalapril maleate in these age groups is supported by evidence from adequate and well-controlled studies of enalapril maleate in pediatric and adult patients as well as by published literature in pediatric patients (see CLINICAL PHARMACOLOGY, Clinical Pharmacology in Pediatric Patientsand DOSAGE AND ADMINISTRATION).
 
-Enalapril maleate is not recommended in neonates and in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2, as no data are available.
+Enalapril maleate is not recommended in neonates and in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m 2, as no data are available.
