@@ -2,14 +2,20 @@
 
 ## 16.1 How Supplied
 
-| STRATTERA® Capsules | 10 mga | 18 mga | 25 mga | 40 mga | 60 mga | 80 mga | 100 mga |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Color | Opaque White, Opaque White | Gold, Opaque White | Opaque Blue, Opaque White | Opaque Blue, Opaque Blue | Opaque Blue, Gold | Opaque Brown, Opaque White | Opaque Brown, Opaque Brown |
-| Identification | LILLY 3227 | LILLY 3238 | LILLY 3228 | LILLY 3229 | LILLY 3239 | LILLY 3250 | LILLY 3251 |
-|  | 10 mg | 18 mg | 25 mg | 40 mg | 60 mg | 80 mg | 100 mg |
-| NDC Codes: |  |  |  |  |  |  |  |
-| Bottles of 30 | 0002-3227-30 | 0002-3238-30 | 0002-3228-30 | 0002-3229-30 | 0002-3239-30 | 0002-3250-30 | 0002-3251-30 |
-| a Atomoxetine base equivalent. |  |  |  |  |  |  |  |
+Table 10 displays the available STRATTERA (atomoxetine) capsules strengths.
+
+Table 10: STRATTERA (atomoxetine) Capsules Strengths
+
+| Strengtha | Color | Identification | NDC |
+| --- | --- | --- | --- |
+| 10 mg | opaque white, opaque white | LILLY 3227 | 0002-3227-30 |
+| 18 mg | gold, opaque white | LILLY 3238 | 0002-3238-30 |
+| 25 mg | opaque blue, opaque white | LILLY 3228 | 0002-3228-30 |
+| 40 mg | opaque blue, opaque blue | LILLY 3229 | 0002-3229-30 |
+| 60 mg | opaque blue, gold | LILLY 3239 | 0002-3239-30 |
+| 80 mg | opaque brown, opaque white | LILLY 3250 | 0002-3250-30 |
+| 100 mg | opaque brown, opaque brown | LILLY 3251 | 0002-3251-30 |
+| a Strength is based on the base (atomoxetine). |  |  |  |
 
 ## 16.2 Storage and Handling
 
