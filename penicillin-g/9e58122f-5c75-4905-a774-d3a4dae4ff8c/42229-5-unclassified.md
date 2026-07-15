@@ -1,8 +1,8 @@
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of Penicillin G Potassium Injection, USP and other antibacterial drugs, Penicillin G Potassium Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
-# DIRECTIONS FOR USE OF GALAXY CONTAINER (PL 2040 PLASTIC)
+# DIRECTIONS FOR USE OF GALAXY CONTAINER
 
-Penicillin G Potassium Injection, USP in GALAXY Container (PL 2040 Plastic) is for intravenous administration using sterile equipment.
+Penicillin G Potassium Injection, USP in Galaxy Container is for intravenous administration using sterile equipment.
 
 ## Storage
 
@@ -50,4 +50,4 @@ Clinitest is a trademark of Siemens Healthcare Diagnostics Inc.
 07-19-03-154
 
 Rev.
-May 2021
+April 2025
