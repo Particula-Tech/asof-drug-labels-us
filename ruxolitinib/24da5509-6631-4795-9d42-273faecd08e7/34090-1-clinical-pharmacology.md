@@ -51,7 +51,7 @@ In Trial INCB18424-103, in subjects 13 to 17 years of age with atopic dermatitis
 
 In Trial INCB18424-109, the pharmacokinetics of ruxolitinib was evaluated in 27 subjects 2 to 11 years of age with atopic dermatitis with a mean ± SD BSA involvement of 58.9 ± 20.6% (range 35% to 92%).
 The mean ± SD daily dose of the cream was 8.5 ± 6.3 g. Plasma concentrations of ruxolitinib were quantifiable in all subjects.
-The mean ± SD steady state plasma concentration (Css) and projected area under the concentration time curve from 0 to 12 hours post dose (AUC0-12h) for ruxolitinib were 84.1 ± 183 nM and 1009.2 ± 2196 h*nM, respectively in subjects 7 to less than 12 years of age (n=12) and 109 ± 122 nM and 1308 ± 1464 h*nM, respectively in subjects 2 to less than 7 years of age (n=15).
+The mean ± SD steady state plasma concentration (Css) and projected area under the concentration time curve from 0 to 12 hours post dose (AUC0-12h) for ruxolitinib were 84.1 ± 183 nM and 1009.2 ± 2196 h*nM, respectively in subjects 7 to less than 12 years of age (n = 12) and 109 ± 122 nM and 1308 ± 1464 h*nM, respectively in subjects 2 to less than 7 years of age (n = 15).
 
 There is no evidence of ruxolitinib accumulation after twice daily application of OPZELURA for 28 days in subjects 2 years to 17 years of age with atopic dermatitis.
 
@@ -68,6 +68,6 @@ Drug interaction studies with OPZELURA have not been conducted.
 
 In Vitro Studies
 
-- Cytochrome P450 (CYP) Enzymes:Ruxolitinib is not expected to inhibit CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6 and CYP3A4 or induce CYP1A2, 2B6 and 3A4 following topical application.
-- Transporter Systems:Ruxolitinib is not expected to inhibit P-gp, BCRP, OATP1B1, OATP1B3, OCT1, OCT2, OAT1, or OAT3 transporter systems following topical application.
+- Cytochrome P450 (CYP) Enzymes: Ruxolitinib is not expected to inhibit CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6 and CYP3A4 or induce CYP1A2, 2B6 and 3A4 following topical application.
+- Transporter Systems: Ruxolitinib is not expected to inhibit P-gp, BCRP, OATP1B1, OATP1B3, OCT1, OCT2, OAT1, or OAT3 transporter systems following topical application.
   Ruxolitinib is not a substrate for the P-gp transporter.

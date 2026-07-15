@@ -53,7 +53,7 @@ The safety and effectiveness of OPZELURA for the topical short-term and non-cont
 Use of OPZELURA in this age group is supported by evidence from adequate and well-controlled trials in adults and pediatric subjects ages 2 years and older with mild to moderate atopic dermatitis [see Clinical Studies (14.1)].
 Trials included 92 subjects 12 to 17 years of age and 130 subjects 2 to 11 years of age treated with OPZELURA.
 
-Application site reactions, pyrexia, and decreased white blood cell were reported more frequently in pediatric subjects ages 2 to ll years compared to adults and pediatric subjects ages 12 years and older [see Adverse Reactions (6.1)].
+Application site reactions, pyrexia, and decreased white blood cell were reported more frequently in pediatric subjects ages 2 to 11 years compared to adults and pediatric subjects ages 12 years and older [see Adverse Reactions (6.1)].
 The safety and effectiveness of OPZELURA have not been established in pediatric patients younger than 2 years of age with atopic dermatitis.
 
 Nonsegmental Vitiligo

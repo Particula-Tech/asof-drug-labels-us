@@ -57,5 +57,5 @@ Manufactured for: Incyte Corporation 1801 Augustine Cut-off Wilmington, DE 19803
 
 OPZELURA is a registered trademark of Incyte.
 All rights reserved.
-Patent Information: www.incyte.com/patents © 2021-2025 Incyte Corporation.
+Patent Information: www.incyte.com/patents © 2021-2026 Incyte Corporation.
 All rights reserved.

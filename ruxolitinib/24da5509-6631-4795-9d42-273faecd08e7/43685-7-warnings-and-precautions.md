@@ -94,6 +94,8 @@ Consider the benefits and risks for individual patients who have a known history
 Perform CBC monitoring as clinically indicated.
 Discontinue OPZELURA if signs and/or symptoms associated with clinically significant decreases in laboratory values occur.
 
-## 5.7 Lipid Elevations
+## 5.7 Potential Risks Related to JAK Inhibition
 
-Treatment with oral ruxolitinib has been associated with increases in lipid parameters including total cholesterol, low-density lipoprotein (LDL) cholesterol, and triglycerides.
+Treatment with oral JAK inhibitors has been associated with increases in lipid parameters including total cholesterol, low-density lipoprotein (LDL) cholesterol, and triglycerides.
+
+Treatment with oral JAK inhibitors has been associated with hypoglycemia in patients with diabetes.
