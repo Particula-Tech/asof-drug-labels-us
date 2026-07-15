@@ -5,7 +5,7 @@ Loteprednol etabonate is a white to off-white powder.
 
 Loteprednol etabonate is represented by the following structural formula:
 
-C24H31ClO7
+C 24H 31ClO 7
 
 Mol.
 Wt.
