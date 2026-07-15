@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA220418"
+  ],
+  "inn": "sodium-phenylbutyrate",
+  "labeler": "Navinta LLC",
+  "package_ndcs": [
+    "68475-011-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sodium phenylbutyrate",
+      "name": "Sodium phenylbutyrate"
+    }
+  ],
+  "setid": "c564778d-b285-4d1d-a641-9d4ee76079cf",
+  "source": "dailymed"
+}
