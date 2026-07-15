@@ -16,7 +16,3 @@ Molecular weight: 491.07
 Molecular formula: C27H38N2O4 • HCl
 
 Verapamil hydrochloride is not chemically related to other antiarrhythmic drugs.
-
-The plastic syringe is molded from a specially formulated polypropylene.
-Water permeates from inside the container at an extremely slow rate which will have an insignificant effect on solution concentration over the expected shelf life.
-Solutions in contact with the plastic container may leach out certain chemical components from the plastic in very small amounts; however, biological testing was supportive of the safety of the syringe material.

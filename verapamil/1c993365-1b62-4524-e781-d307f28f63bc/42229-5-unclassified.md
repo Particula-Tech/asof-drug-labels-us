@@ -1,5 +1,3 @@
-Ansyr™ Plastic Syringe
-
 Ampul
 
 Fliptop Vial
