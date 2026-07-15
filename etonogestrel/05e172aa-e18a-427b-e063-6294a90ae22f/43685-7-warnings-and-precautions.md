@@ -93,7 +93,7 @@ Discontinue etonogestrel and ethinyl estradiol vaginal ring prior to starting th
 Etonogestrel and ethinyl estradiol vaginal ring can be restarted approximately 2 weeks following completion of treatment with this hepatitis C combination drug regimen.
 
 During clinical trials with some HCV combination drug regimens, ALT elevations were observed in women using ethinyl estradiol containing medications [see Drug Interactions (7)].
-For example, the Hepatitis C combination drug regimen that contains ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, ALT elevations greater than 5 times the upper limit of normal (ULN), including some cases greater than 20 times the ULN, were significantly more frequent in women using ethinyl estradiol-containing medications, such as CHCs.
+For example, the Hepatitis C combination drug regimen that contains ombitasvir/paritaprevir/ritonavir, with and without dasabuvir, ALT elevations greater than 5 times the upper limit of normal (ULN), including some cases greater than 20 times the ULN, were significantly more frequent in women using ethinyl estradiol-containing medications, such as CHCs.
 
 ## 5.5 High Blood Pressure
 

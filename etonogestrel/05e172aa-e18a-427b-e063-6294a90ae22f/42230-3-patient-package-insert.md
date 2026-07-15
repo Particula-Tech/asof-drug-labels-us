@@ -1,4 +1,4 @@
-# PATIENT PACKAGE INFORMATION
+# Patient Information
 
 Etonogestrel/ethinyl estradiol vaginal ring
 
@@ -83,7 +83,7 @@ Before you use Etonogestrel and ethinyl estradiol vaginal ring tell your healthc
   Hormonal birth control methods that contain estrogen, like Etonogestrel and ethinyl estradiol vaginal ring, may decrease the amount of milk you make.
   A small amount of hormones from Etonogestrel and ethinyl estradiol vaginal ring may pass into your breast milk.
   Consider another non-hormonal method of birth control until you are ready to stop breastfeeding.
-- have (or ever had) an allergic reaction while using Etonogestrel and ethinyl estradiol vaginal ring, including hives, swelling of the face, lips, tongue, and/or throat causing difficulty in breathing or swallowing (anaphylaxis and/or angioedema).
+- have (or have ever had) an allergic reaction while using Etonogestrel and ethinyl estradiol vaginal ring, including hives, swelling of the face, lips, tongue, and/or throat causing difficulty in breathing or swallowing (anaphylaxis and/or angioedema).
 - have a family history of angioedema.
   Products containing estrogens may cause or worsen these symptoms.
 
@@ -207,7 +207,7 @@ Other serious risks include:
 - high blood pressure
 - gallbladder problems
 - accidental insertion into bladder
-- symptoms of a problem called angioedema if you already have a family history of angioedema
+- symptoms of a problem called angioedema if you already have a (family) history of angioedema
 
 The most common side effects of Etonogestrel and ethinyl estradiol vaginal ring are:
 
@@ -279,7 +279,7 @@ Active ingredients:etonogestrel and ethinyl estradiol Inactive ingredients:ethyl
 
 Etonogestrel and ethinyl estradiol vaginal ring is not made with natural rubber latex.
 
-Do Hormonal Birth Control Methods Cause Cancer?
+Does hormonal birth control cause cancer?
 
 It is not known if hormonal birth control causes breast cancer.
 Some studies, but not all, suggest that there could be a slight increase in the risk of breast cancer among current users with longer duration of use.
@@ -462,5 +462,5 @@ Note:You should only choose to do option 2 if you used Etonogestrel and ethinyl 
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Manufactured For: AvKARE Pulaski, TN 38478 PI-478-01 Rev.
-06/2024
+Manufactured For: AvKARE Pulaski, TN 38478 PI-478-02 Rev.
+07/2026
