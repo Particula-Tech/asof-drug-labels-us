@@ -17,7 +17,7 @@ For information on systemic supplementation, see prescribing information for tho
 Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios (see PRECAUTIONS: Pediatric Use).
 
 If irritation develops, desonide lotion should be discontinued and appropriate therapy instituted.
-Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids.
+Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to healrather than noting a clinical exacerbation as with most topical products not containing corticosteroids.
 Such an observation should be corroborated with appropriate diagnostic patch testing.
 
 If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used.
