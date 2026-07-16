@@ -4,14 +4,14 @@
 
 ### Congestive Heart Failure and Cardiac Effects
 
-- If signs or symptoms of congestive heart failure occur during administration of SPORANOX ®(itraconazole) Oral Solution, continued SPORANOX ®use should be reassessed.
+- If signs or symptoms of congestive heart failure occur during administration of SPORANOX® (itraconazole) Oral Solution, continued SPORANOX® use should be reassessed.
 - When itraconazole was administered intravenously to dogs and healthy human volunteers, negative inotropic effects were seen.
-  (See CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions, ADVERSE REACTIONS: Postmarketing Experience, and CLINICAL PHARMACOLOGY: Special Populationsfor more information.)
+  (See CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions, ADVERSE REACTIONS: Postmarketing Experience, and CLINICAL PHARMACOLOGY: Special Populations for more information.)
 
 ### Drug Interactions
 
-- Coadministration of a number of CYP3A4 substrates are contraindicated with SPORANOX ®.
-  Some examples of drugs that are contraindicated for coadministration with SPORANOX ®Oral Solution are: methadone, disopyramide, dofetilide, dronedarone, quinidine, isavuconazole, ergot alkaloids (such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine)), irinotecan, lurasidone, oral midazolam, pimozide, triazolam, felodipine, nisoldipine, ivabradine, ranolazine, eplerenone, cisapride, naloxegol, lomitapide, lovastatin, simvastatin, avanafil, ticagrelor, finerenone, voclosporin.
+- Coadministration of a number of CYP3A4 substrates are contraindicated with SPORANOX®.
+  Some examples of drugs that are contraindicated for coadministration with SPORANOX® Oral Solution are: methadone, disopyramide, dofetilide, dronedarone, quinidine, isavuconazole, ergot alkaloids (such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine)), irinotecan, lurasidone, oral midazolam, pimozide, triazolam, felodipine, nisoldipine, ivabradine, ranolazine, eplerenone, cisapride, naloxegol, lomitapide, lovastatin, simvastatin, avanafil, ticagrelor, finerenone, voclosporin.
 - Coadministration with colchicine, fesoterodine and solifenacin is contraindicated in subjects with varying degrees of renal or hepatic impairment.
 - Coadministration with eliglustat is contraindicated in subjects that are poor or intermediate metabolizers of CYP2D6 and in subjects taking strong or moderate CYP2D6 inhibitors.
 - Coadministration with venetoclax is contraindicated in patients with chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL) during the dose initiation and ramp-up phase of venetoclax.
