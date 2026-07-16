@@ -14,8 +14,7 @@ Complete healing of the lesions may not be evident for 1 to 2 months following c
 
 ## Superficial Basal Cell Carcinomas
 
-Only the 5% strength is recommended.
-Apply solution twice daily in an amount sufficient to cover the lesions.
+Only the 5% strength is recommended.Apply solution twice daily in an amount sufficient to cover the lesions.
 Treatment should be continued for at least 3 to 6 weeks.
 Therapy may be required for as long as 10 to 12 weeks before the lesions are obliterated.
 As in any neoplastic condition, the patient should be followed for a reasonable period of time to determine if a cure has been obtained.

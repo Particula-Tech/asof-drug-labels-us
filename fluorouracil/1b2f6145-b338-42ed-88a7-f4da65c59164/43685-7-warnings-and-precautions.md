@@ -43,15 +43,15 @@ Follow-up biopsies should be performed as indicated in the management of superfi
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Adequate long-term studies in animals to evaluate carcinogenic potential have not been conducted with fluorouracil.
-Studies with the active ingredient of fluorouracil topical solution, 5-fluorouracil, have shown positive effects in in vitro tests for mutagenicity and on impairment of fertility.
+Studies with the active ingredient of fluorouracil topical solution, 5-fluorouracil, have shown positive effects in in vitrotests for mutagenicity and on impairment of fertility.
 
-5-Fluorouracil was positive in three in vitro cell neoplastic transformation assays.
+5-Fluorouracil was positive in three in vitrocell neoplastic transformation assays.
 In the C3H/10T½ clone 8 mouse embryo cell system, the resulting morphologically transformed cells formed tumors when inoculated into immunosuppressed syngeneic mice.
 
-While no evidence for mutagenic activity was observed in the Ames test (three studies), fluorouracil has been shown to be mutagenic in the survival count rec-assay with Bacillus subtilis and in the Drosophila wing-hair spot test.
-Fluorouracil produced petite mutations in Saccharomyces cerevisiae and was positive in the micronucleus test (bone marrow cells of male mice).
+While no evidence for mutagenic activity was observed in the Ames test (three studies), fluorouracil has been shown to be mutagenic in the survival count rec-assay with Bacillus subtilisand in the Drosophila wing-hair spot test.
+Fluorouracil produced petite mutations in Saccharomyces cerevisiaeand was positive in the micronucleus test (bone marrow cells of male mice).
 
-Fluorouracil was clastogenic in vitro (i.e., chromatid gaps, breaks, and exchanges) in Chinese hamster fibroblasts at concentrations of 1 and 2 mcg/mL and has been shown to increase sister chromatid exchange in vitro in human lymphocytes.
+Fluorouracil was clastogenic in vitro(i.e., chromatid gaps, breaks, and exchanges) in Chinese hamster fibroblasts at concentrations of 1 and 2 mcg/mL and has been shown to increase sister chromatid exchange in vitroin human lymphocytes.
 In addition, 5-fluorouracil has been reported to produce an increase in numerical and structural chromosome aberrations in peripheral lymphocytes of patients treated with this product.
 
 Doses of 125 to 250 mg/kg, administered intraperitoneally, have been shown to induce chromosomal aberrations and changes in chromosome organization of spermatogonia in rats.
