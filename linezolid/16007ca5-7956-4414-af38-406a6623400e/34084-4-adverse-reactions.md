@@ -4,7 +4,9 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adults: The safety of linezolid formulations was evaluated in 2,046 adult patients enrolled in seven Phase 3 comparator-controlled clinical trials, who were treated for up to 28 days.
+Adults
+
+The safety of linezolid formulations was evaluated in 2,046 adult patients enrolled in seven Phase 3 comparator-controlled clinical trials, who were treated for up to 28 days.
 
 Of the patients treated for uncomplicated skin and skin structure infections (uSSSIs), 25.4% of linezolid-treated and 19.6% of comparator-treated patients experienced at least one drug-related adverse event.
 For all other indications, 20.4% of linezolid-treated and 14.3% of comparator-treated patients experienced at least one drug-related adverse event.
@@ -37,7 +39,9 @@ Of the patients treated for uSSSIs, 3.5% of linezolid-treated and 2.4% of compar
 For all other indications, discontinuations due to drug-related adverse events occurred in 2.1% of linezolid-treated and 1.7% of comparator-treated patients.
 The most common reported drug-related adverse events leading to discontinuation of treatment were nausea, headache, diarrhea, and vomiting.
 
-Pediatric Patients: The safety of linezolid formulations was evaluated in 215 pediatric patients ranging in age from birth through 11 years, and in 248 pediatric patients aged 5 through 17 years (146 of these 248 were age 5 through 11 and 102 were age 12 to 17).
+Pediatric Patients
+
+The safety of linezolid formulations was evaluated in 215 pediatric patients ranging in age from birth through 11 years, and in 248 pediatric patients aged 5 through 17 years (146 of these 248 were age 5 through 11 and 102 were age 12 to 17).
 These patients were enrolled in two Phase 3 comparator-controlled clinical trials and were treated for up to 28 days.
 In the study of hospitalized pediatric patients (birth through 11 years) with Gram-positive infections, who were randomized 2 to 1 (linezolid: vancomycin), mortality was 6% (13/215) in the linezolid arm and 3% (3/101) in the vancomycin arm.
 However, given the severe underlying illness in the patient population, no causality could be established.
@@ -69,7 +73,9 @@ Incidence (%) of Treatment-Emergent Adverse Reactions Occurring in >1% of Pediat
 Of the pediatric patients treated for uSSSIs, 1.6% of linezolid-treated and 2.4% of comparator-treated patients discontinued treatment due to drug-related adverse events.
 For all other indications, discontinuations due to drug-related adverse events occurred in 0.9% of linezolid-treated and 6.1% of comparator-treated patients.
 
-Laboratory Abnormalities: Linezolid has been associated with thrombocytopenia when used in doses up to and including 600 mg every 12 hours for up to 28 days.
+Laboratory Abnormalities
+
+Linezolid has been associated with thrombocytopenia when used in doses up to and including 600 mg every 12 hours for up to 28 days.
 In Phase 3 comparator-controlled trials, the percentage of adult patients who developed a substantially low platelet count (defined as less than 75% of lower limit of normal and/or baseline) was 2.4% (range among studies: 0.3 to 10%) with linezolid and 1.5% (range among studies: 0.4 to 7%) with a comparator.
 In a study of hospitalized pediatric patients ranging in age from birth through 11 years, the percentage of patients who developed a substantially low platelet count (defined as less than 75% of lower limit of normal and/or baseline) was 12.9% with linezolid and 13.4% with vancomycin.
 In an outpatient study of pediatric patients aged from 5 through 17 years, the percentage of patients who developed a substantially low platelet count was 0% with linezolid and 0.4% with cefadroxil.

@@ -2,7 +2,9 @@
 
 ## 14.1 Adults
 
-Nosocomial Pneumonia: Adult patients with clinically and radiologically documented nosocomial pneumonia were enrolled in a randomized, multi-center, double-blind trial.
+Nosocomial Pneumonia
+
+Adult patients with clinically and radiologically documented nosocomial pneumonia were enrolled in a randomized, multi-center, double-blind trial.
 Patients were treated for 7 to 21 days.
 One group received linezolid I.V. injection 600 mg every 12 hours, and the other group received vancomycin 1 g every 12 hours intravenously.
 Both groups received concomitant aztreonam (1 to 2 g every 8 hours intravenously), which could be continued if clinically indicated.
@@ -56,7 +58,9 @@ The other group of patients received vancomycin 1 g every 12 hours intravenously
 Both groups were treated for 7 to 28 days, and could receive concomitant aztreonam or gentamicin if clinically indicated.
 The cure rates in microbiologically evaluable patients with MRSA skin and skin structure infection were 26/33 (79%) for linezolid-treated patients and 24/33 (73%) for vancomycin-treated patients.
 
-Diabetic Foot Infections: Adult diabetic patients with clinically documented complicated skin and skin structure infections (“diabetic foot infections”) were enrolled in a randomized (2:1 ratio), multi-center, open-label trial comparing study medications administered intravenously or orally for a total of 14 to 28 days of treatment.
+Diabetic Foot Infections
+
+Adult diabetic patients with clinically documented complicated skin and skin structure infections (“diabetic foot infections”) were enrolled in a randomized (2:1 ratio), multi-center, open-label trial comparing study medications administered intravenously or orally for a total of 14 to 28 days of treatment.
 One group of patients received linezolid 600 mg every 12 hours intravenously or orally; the other group received ampicillin/sulbactam 1.5 to 3 g intravenously or amoxicillin/clavulanate 500 to 875 mg every 8 to 12 hours orally.
 In countries where ampicillin/sulbactam is not marketed, amoxicillin/clavulanate 500 mg to 2 g every 6 hours was used for the intravenous regimen.
 Patients in the comparator group could also be treated with vancomycin 1 g every 12 hours intravenously if MRSA was isolated from the foot infection.
@@ -81,7 +85,9 @@ Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patie
 | Methicillin-resistant S. aureus | 12/17 (71) | 2/3 (67) |
 | Streptococcus agalactiae | 25/29 (86) | 9/16 (56) |
 
-Vancomycin-Resistant Enterococcal Infections: Adult patients with documented or suspected vancomycin-resistant enterococcal infection were enrolled in a randomized, multi-center, double-blind trial comparing a high dose of linezolid (600 mg) with a low dose of linezolid (200 mg) given every 12 hours either intravenously (IV) or orally for 7 to 28 days.
+Vancomycin-Resistant Enterococcal Infections
+
+Adult patients with documented or suspected vancomycin-resistant enterococcal infection were enrolled in a randomized, multi-center, double-blind trial comparing a high dose of linezolid (600 mg) with a low dose of linezolid (200 mg) given every 12 hours either intravenously (IV) or orally for 7 to 28 days.
 Patients could receive concomitant aztreonam or aminoglycosides.
 There were 79 patients randomized to high-dose linezolid and 66 to low-dose linezolid.
 The intent-to-treat (ITT) population with documented vancomycin-resistant enterococcal infection at baseline consisted of 65 patients in the high-dose arm and 52 in the low-dose arm.
@@ -106,7 +112,9 @@ Cure Rates at the Test-of-Cure Visit for ITT Adult Patients with Documented Vanc
 
 ## 14.2 Pediatric Patients
 
-Infections due to Gram-positive Bacteria: A safety and efficacy study provided experience on the use of linezolid in pediatric patients for the treatment of nosocomial pneumonia, complicated skin and skin structure infections, and other infections due to Gram-positive bacterial pathogens, including methicillin-resistant and -susceptible Staphylococcus aureus and vancomycin-resistant Enterococcus faecium.
+Infections due to Gram-positive Bacteria
+
+A safety and efficacy study provided experience on the use of linezolid in pediatric patients for the treatment of nosocomial pneumonia, complicated skin and skin structure infections, and other infections due to Gram-positive bacterial pathogens, including methicillin-resistant and -susceptible Staphylococcus aureus and vancomycin-resistant Enterococcus faecium.
 Pediatric patients ranging in age from birth through 11 years with infections caused by the documented or suspected Gram-positive bacteria were enrolled in a randomized, open-label, comparator-controlled trial.
 One group of patients received linezolid I.V.
 Injection 10 mg/kg every 8 hours followed by Linezolid for Oral Suspension 10 mg/kg every 8 hours.
@@ -121,7 +129,7 @@ Table 17 provides clinical cure rates by pathogen for microbiologically evaluabl
 Table 16.
 Cure Rates at the Test-of-Cure Visit for Intent-to-Treat, Modified Intent-to-Treat, and Clinically Evaluable Pediatric Patients for the Overall Population and by Select Baseline Diagnosis
 
-| Population | ITT |  | MITTMIT = ITT patients with an isolated Gram-positive pathogen at baseline |  | Clinically Evaluable |  |
+| Population | ITT |  | MITTMITT = ITT patients with an isolated Gram-positive pathogen at baseline |  | Clinically Evaluable |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Linezolid n/N (%) | Vancomycin n/N (%) | Linezolid n/N (%) | Vancomycin n/N (%) | Linezolid n/N (%) | Vancomycin n/N (%) |  |
 | Any diagnosis | 150/186 (81) | 69/83 (83) | 86/108 (80) | 44/49 (90) | 106/117 (91) | 49/54 (91) |

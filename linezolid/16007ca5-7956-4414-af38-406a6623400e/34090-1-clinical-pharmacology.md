@@ -17,7 +17,7 @@ Plasma concentrations of linezolid at steady-state after oral doses of 600 mg gi
 Table 8.
 Mean (Standard Deviation) Pharmacokinetic Parameters of Linezolid in Adults
 
-| Dose of Linezolid | Cmaxmcg/mL | Cminmcg/mL | Tmaxhrs | AUCAUC for single dose = AUC0-∞; for multiple-dose = AUC0-τmcg • h/mL | t1/2hrs | CL mL/min |
+| Dose of Linezolid | Cmaxmcg/mL | Cminmcg/mL | Tmaxhrs | AUCAUC for single dose = AUC0-∞; for multiple dose = AUC0-τmcg•h/mL | t1/2hrs | CL mL/min |
 | --- | --- | --- | --- | --- | --- | --- |
 | 400 mg tablet |  |  |  |  |  |  |
 | single doseData dose-normalized from 375 mg | 8.10 | --- | 1.52 | 55.10 | 5.20 | 146 |
@@ -41,7 +41,9 @@ Mean (Standard Deviation) Pharmacokinetic Parameters of Linezolid in Adults
 Figure 1.
 Plasma Concentrations of Linezolid in Adults at Steady-State Following Oral Dosing Every 12 Hours (Mean ± Standard Deviation, n=16)
 
-Absorption: Linezolid is extensively absorbed after oral dosing.
+Absorption
+
+Linezolid is extensively absorbed after oral dosing.
 Maximum plasma concentrations are reached approximately 1 to 2 hours after dosing, and the absolute bioavailability is approximately 100%.
 Therefore, linezolid may be given orally or intravenously without dose adjustment.
 
@@ -49,29 +51,41 @@ Linezolid may be administered without regard to the timing of meals.
 The time to reach the maximum concentration is delayed from 1.5 hours to 2.2 hours and Cmax is decreased by about 17% when high fat food is given with linezolid.
 However, the total exposure measured as AUC0-∞ is similar under both conditions.
 
-Distribution: Animal and human pharmacokinetic studies have demonstrated that linezolid readily distributes to well-perfused tissues.
+Distribution
+
+Animal and human pharmacokinetic studies have demonstrated that linezolid readily distributes to well-perfused tissues.
 The plasma protein binding of linezolid is approximately 31% and is concentration-independent.
 The volume of distribution of linezolid at steady-state averaged 40 to 50 liters in healthy adult volunteers.
 
 Linezolid concentrations have been determined in various fluids from a limited number of subjects in Phase 1 volunteer studies following multiple dosing of linezolid.
 The ratio of linezolid in saliva relative to plasma was 1.2 to 1 and the ratio of linezolid in sweat relative to plasma was 0.55 to 1.
 
-Metabolism: Linezolid is primarily metabolized by oxidation of the morpholine ring, which results in two inactive ring-opened carboxylic acid metabolites: the aminoethoxyacetic acid metabolite (A), and the hydroxyethyl glycine metabolite (B).
+Metabolism
+
+Linezolid is primarily metabolized by oxidation of the morpholine ring, which results in two inactive ring-opened carboxylic acid metabolites: the aminoethoxyacetic acid metabolite (A), and the hydroxyethyl glycine metabolite (B).
 Formation of metabolite A is presumed to be formed via an enzymatic pathway whereas metabolite B is mediated by a non-enzymatic chemical oxidation mechanism in vitro.
 In vitro studies have demonstrated that linezolid is minimally metabolized and may be mediated by human cytochrome P450.
 However, the metabolic pathway of linezolid is not fully understood.
 
-Excretion: Nonrenal clearance accounts for approximately 65% of the total clearance of linezolid.
+Excretion
+
+Nonrenal clearance accounts for approximately 65% of the total clearance of linezolid.
 Under steady-state conditions, approximately 30% of the dose appears in the urine as linezolid, 40% as metabolite B, and 10% as metabolite A. The mean renal clearance of linezolid is 40 mL/min which suggests net tubular reabsorption.
 Virtually no linezolid appears in the feces, while approximately 6% of the dose appears in the feces as metabolite B, and 3% as metabolite A.
 
 A small degree of nonlinearity in clearance was observed with increasing doses of linezolid, which appears to be due to lower renal and nonrenal clearance of linezolid at higher concentrations.
 However, the difference in clearance was small and was not reflected in the apparent elimination half-life.
 
-Specific Populations: Geriatric Patients: The pharmacokinetics of linezolid are not significantly altered in elderly patients (65 years or older).
+Specific Populations
+
+Geriatric Patients
+
+The pharmacokinetics of linezolid are not significantly altered in elderly patients (65 years or older).
 Therefore, dose adjustment for geriatric patients is not necessary.
 
-Pediatric Patients: The pharmacokinetics of linezolid following a single intravenous dose were investigated in pediatric patients ranging in age from birth through 17 years (including premature and full-term neonates), in healthy adolescent subjects ranging in age from 12 through 17 years, and in pediatric patients ranging in age from 1 week through 12 years.
+Pediatric Patients
+
+The pharmacokinetics of linezolid following a single intravenous dose were investigated in pediatric patients ranging in age from birth through 17 years (including premature and full-term neonates), in healthy adolescent subjects ranging in age from 12 through 17 years, and in pediatric patients ranging in age from 1 week through 12 years.
 The pharmacokinetic parameters of linezolid are summarized in Table 9 for the pediatric populations studied and healthy adult subjects after administration of single intravenous doses.
 
 The Cmax and the volume of distribution (Vss) of linezolid are similar regardless of age in pediatric patients.
@@ -87,7 +101,7 @@ Pediatric patients 12 years and older should receive 600 mg every 12 hours [see 
 Table 9.
 Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Single Intravenous Infusion of 10 mg/kg or 600 mg Linezolid (Mean: (%CV); [Min, Max Values])
 
-| Age Group | Cmaxmcg/mL | Vss L/kg | AUCAUC = Single dose AUC0-∞ ** In this data set, “pre-term” is defined as <34 weeks gestational age (Note: Only 1 patient enrolled was pre-term with a postnatal age between 1 week and 28 days) ***In this data set, “full-term” is defined as ≥34 weeks gestational age mcg ● h/mL | t1/2hrs | CL mL/min/kg |
+| Age Group | Cmaxmcg/mL | Vss L/kg | AUCAUC = Single dose AUC0-∞ **In this data set, “pre-term” is defined as <34 weeks gestational age (Note: Only 1 patient enrolled was pre-term with a postnatal age between 1 week and 28 days); ***In this data set, “full-term” is defined as ≥34 weeks gestational age. mcg●h/mL | t1/2hrs | CL mL/min/kg |
 | --- | --- | --- | --- | --- | --- |
 | Neonatal PatientsPre-term ˂ 1 week (N=9)Dose of 10 mg/kg | 12.7 (30%) [9.6, 22.2] | 0.81 (24%) [0.43, 1.05] | 108 (47%) [41, 191] | 5.6 (46%) [2.4, 9.8] | 2.0 (52%) [0.9, 4.0] |
 | Full-term*** < 1 week (N=10) | 11.5 (24%) [8.0, 18.3] | 0.78 (20%) [0.45, 0.96] | 55 (47%) [19, 103] | 3.0 (55%) [1.3, 6.1] | 3.8 (55%) [1.5, 8.8] |
@@ -95,16 +109,20 @@ Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Sin
 | Infant Patients > 28 days to < 3 Months (N=12) | 11.0 (27%) [7.2, 18.0] | 0.79 (26%) [0.42, 1.08] | 33 (26%) [17, 48] | 1.8 (28%) [1.2, 2.8] | 5.4 (32%) [3.5, 9.9] |
 | Pediatric Patients 3 months through 11 years (N=59) | 15.1 (30%) [6.8, 36.7] | 0.69 (28%) [0.31, 1.50] | 58 (54%) [19, 153] | 2.9 (53%) [0.9, 8.0] | 3.8 (53%) [1.0, 8.5] |
 | Adolescent Subjects and Patients 12 through 17 yearsDose of 600 mg or 10 mg/kg up to a maximum of 600 mg(N=36) | 16.7 (24%) [9.9, 28.9] | 0.61 (15%) [0.44, 0.79] | 95 (44%) [32, 178] | 4.1 (46%) [1.3, 8.1] | 2.1 (53%) [0.9, 5.2] |
-| Adult SubjectsDose normalized to 600 mg Cmax =Maximum plasma concentration; Vss= Volume of distribution; AUC = Area under concentration-time curve; t1/2 =Apparent elimination half-life; CL = Systemic clearance normalized for body weight (N= 29) | 12.5 (21%) [8.2, 19.3] | 0.65 (16%) [0.45, 0.84] | 91 (33%) [53, 155] | 4.9 (35%) [1.8, 8.3] | 1.7 (34%) [0.9, 3.3] |
+| Adult SubjectsDose normalized to 600 mg; Cmax =Maximum plasma concentration; Vss= Volume of distribution; AUC = Area under concentration-time curve; t1/2 =Apparent elimination half-life; CL = Systemic clearance normalized for body weight (N= 29) | 12.5 (21%) [8.2, 19.3] | 0.65 (16%) [0.45, 0.84] | 91 (33%) [53, 155] | 4.9 (35%) [1.8, 8.3] | 1.7 (34%) [0.9, 3.3] |
 
-Gender: Females have a slightly lower volume of distribution of linezolid than males.
+Gender
+
+Females have a slightly lower volume of distribution of linezolid than males.
 Plasma concentrations are higher in females than in males, which is partly due to body weight differences.
 After a 600-mg dose, mean oral clearance is approximately 38% lower in females than in males.
 However, there are no significant gender differences in mean apparent elimination-rate constant or half-life.
 Thus, drug exposure in females is not expected to substantially increase beyond levels known to be well tolerated.
 Therefore, dose adjustment by gender does not appear to be necessary.
 
-Renal Impairment: The pharmacokinetics of the parent drug, linezolid, are not altered in patients with any degree of renal impairment; however, the two primary metabolites of linezolid accumulate in patients with renal impairment, with the amount of accumulation increasing with the severity of renal dysfunction (see Table 10).
+Renal Impairment
+
+The pharmacokinetics of the parent drug, linezolid, are not altered in patients with any degree of renal impairment; however, the two primary metabolites of linezolid accumulate in patients with renal impairment, with the amount of accumulation increasing with the severity of renal dysfunction (see Table 10).
 The pharmacokinetics of linezolid and its two metabolites have also been studied in patients with end-stage renal disease (ESRD) receiving hemodialysis.
 In the ESRD study, 14 patients were dosed with linezolid 600 mg every 12 hours for 14.5 days (see Table 11).
 Because similar plasma concentrations of linezolid are achieved regardless of renal function, no dose adjustment is recommended for patients with renal impairment.
@@ -143,42 +161,64 @@ Mean (Standard Deviation) AUCs and Elimination Half-lives of Linezolid and Metab
 | AUC0-12, mcg h/mL (after last dose) | 356 (99.7) |
 | t1/2, h (after last dose) | 34.8 (23.1) |
 
-Hepatic Impairment: The pharmacokinetics of linezolid are not altered in patients (n=7) with mild-to-moderate hepatic impairment (Child-Pugh class A or B). On the basis of the available information, no dose adjustment is recommended for patients with mild-to-moderate hepatic impairment.
+Hepatic Impairment
+
+The pharmacokinetics of linezolid are not altered in patients (n=7) with mild-to-moderate hepatic impairment (Child-Pugh class A or B). On the basis of the available information, no dose adjustment is recommended for patients with mild-to-moderate hepatic impairment.
 The pharmacokinetics of linezolid in patients with severe hepatic impairment have not been evaluated.
 
-Drug Interactions: Drugs Metabolized by Cytochrome P450: Linezolid is not an inducer of cytochrome P450 (CYP450) in rats.
+Drug Interactions
+
+Drugs Metabolized by Cytochrome P450
+
+Linezolid is not an inducer of cytochrome P450 (CYP450) in rats.
 In addition, linezolid does not inhibit the activities of clinically significant human CYP isoforms (e.g., 1A2, 2C9, 2C19, 2D6, 2E1, 3A4).
 Therefore, linezolid is not expected to affect the pharmacokinetics of other drugs metabolized by these major enzymes.
 Concurrent administration of linezolid does not substantially alter the pharmacokinetic characteristics of (S)-warfarin, which is extensively metabolized by CYP2C9.
 Drugs such as warfarin and phenytoin, which are CYP2C9 substrates, may be given with linezolid without changes in dosage regimen.
 
-Antibacterial Drugs: Aztreonam: The pharmacokinetics of linezolid or aztreonam are not altered when administered together.
+Antibacterial Drugs
+
+Aztreonam: The pharmacokinetics of linezolid or aztreonam are not altered when administered together.
 
 Gentamicin: The pharmacokinetics of linezolid or gentamicin are not altered when administered together.
 
-Antioxidants: The potential for drug-drug interactions with linezolid and the antioxidants Vitamin C and Vitamin E was studied in healthy volunteers.
+Antioxidants
+
+The potential for drug-drug interactions with linezolid and the antioxidants Vitamin C and Vitamin E was studied in healthy volunteers.
 Subjects were administered a 600 mg oral dose of linezolid on Day 1, and another 600 mg dose of linezolid on Day 8.
 On Days 2-9, subjects were given either Vitamin C (1,000 mg/day) or Vitamin E (800 IU/ day).
 The AUC0-∞ of linezolid increased 2.3% when co-administered with Vitamin C and 10.9% when co‑administered with Vitamin E. No linezolid dose adjustment is recommended during co-administration with Vitamin C or Vitamin E.
 
-Strong CYP 3A4 Inducers: Rifampin: The effect of rifampin on the pharmacokinetics of linezolid was evaluated in a study of 16 healthy adult males.
+Strong CYP 3A4 Inducers
+
+Rifampin
+
+The effect of rifampin on the pharmacokinetics of linezolid was evaluated in a study of 16 healthy adult males.
 Volunteers were administered oral linezolid 600 mg twice daily for 5 doses with and without rifampin 600 mg once daily for 8 days.
 Co-administration of rifampin with linezolid resulted in a 21% decrease in linezolid Cmax [90% CI, 15% to 27%] and a 32% decrease in linezolid AUC0-12 [90% CI, 27% to 37%].
 The clinical significance of this interaction is unknown.
 The mechanism of this interaction is not fully understood and may be related to the induction of hepatic enzymes.
 Other strong inducers of hepatic enzymes (e.g. carbamazepine, phenytoin, phenobarbital) could cause a similar or smaller decrease in linezolid exposure.
 
-Monoamine Oxidase Inhibition: Linezolid is a reversible, nonselective inhibitor of monoamine oxidase.
+Monoamine Oxidase Inhibition
+
+Linezolid is a reversible, nonselective inhibitor of monoamine oxidase.
 Therefore, linezolid has the potential for interaction with adrenergic and serotonergic agents.
 
-Adrenergic Agents: Some individuals receiving linezolid may experience a reversible enhancement of the pressor response to indirect-acting sympathomimetic agents, vasopressor or dopaminergic agents.
+Adrenergic Agents
+
+Some individuals receiving linezolid may experience a reversible enhancement of the pressor response to indirect-acting sympathomimetic agents, vasopressor or dopaminergic agents.
 Commonly used drugs such as phenylpropanolamine and pseudoephedrine have been specifically studied.
 Initial doses of adrenergic agents, such as dopamine or epinephrine, should be reduced and titrated to achieve the desired response.
 
-Tyramine: A significant pressor response has been observed in normal adult subjects receiving linezolid and tyramine doses of more than 100 mg.
+Tyramine
+
+A significant pressor response has been observed in normal adult subjects receiving linezolid and tyramine doses of more than 100 mg.
 Therefore, patients receiving linezolid need to avoid consuming large amounts of foods or beverages with high tyramine content [see Patient Counseling Information (17)].
 
-Pseudoephedrine HCl or Phenylpropanolamine HCl: A reversible enhancement of the pressor response of either pseudoephedrine HCl (PSE) or phenylpropanolamine HCl (PPA) is observed when linezolid is administered to healthy normotensive subjects [see Warnings and Precautions (5.6) and Drug Interactions (7)].
+Pseudoephedrine HCl or Phenylpropanolamine HCl
+
+A reversible enhancement of the pressor response of either pseudoephedrine HCl (PSE) or phenylpropanolamine HCl (PPA) is observed when linezolid is administered to healthy normotensive subjects [see Warnings and Precautions (5.6) and Drug Interactions (7)].
 A similar study has not been conducted in hypertensive patients.
 The interaction studies conducted in normotensive subjects evaluated the blood pressure and heart rate effects of placebo, PPA or PSE alone, linezolid alone, and the combination of steady-state linezolid (600 mg every 12 hours for 3 days) with two doses of PPA (25 mg) or PSE (60 mg) given 4 hours apart.
 Heart rate was not affected by any of the treatments.
@@ -188,7 +228,11 @@ The results of the PPA study follow, showing the mean (and range) maximum systol
 The results from the PSE study were similar to those in the PPA study.
 The mean maximum increase in systolic blood pressure over baseline was 32 mm Hg (range: 20-52 mm Hg) and 38 mm Hg (range: 18 to 79 mm Hg) during co-administration of linezolid with pseudoephedrine or phenylpropanolamine, respectively.
 
-Serotonergic Agents: Dextromethorphan: The potential drug-drug interaction with dextromethorphan was studied in healthy volunteers.
+Serotonergic Agents
+
+Dextromethorphan
+
+The potential drug-drug interaction with dextromethorphan was studied in healthy volunteers.
 Subjects were administered dextromethorphan (two 20-mg doses given 4 hours apart) with or without linezolid.
 No serotonin syndrome effects (confusion, delirium, restlessness, tremors, blushing, diaphoresis, hyperpyrexia) have been observed in normal subjects receiving linezolid and dextromethorphan.
 
@@ -226,7 +270,7 @@ Gram-positive bacteria
 4. Streptococcus pneumoniae
 5. Streptococcus pyogenes
 
-The following in vitro data are available, but their clinical significance is unknown.
+The following in vitrodata are available, but their clinical significance is unknown.
 Greater than 90% of the following bacteria exhibit an in vitro MIC less than or equal to the linezolid-susceptible breakpoint for organisms of similar genus.
 The safety and effectiveness of linezolid in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
@@ -236,7 +280,7 @@ Gram-positive bacteria
 2. Enterococcus faecium (vancomycin-susceptible isolates)
 3. Staphylococcus epidermidis (including methicillin-resistant isolates)
 4. Staphylococcus haemolyticus
-5. Viridans group streptococci
+5. Viridans groupstreptococci
 
 Gram-negative bacteria
 

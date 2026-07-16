@@ -14,7 +14,7 @@ Dosage Guidelines for Linezolid
 | Community-acquired pneumonia, including concurrent bacteremia |  |  |  |
 | Complicated skin and skin structure infections |  |  |  |
 | Vancomycin-resistant Enterococcus faecium infections, including concurrent bacteremia | 10 mg/kg intravenously or oral every 8 hours | 600 mg intravenously or oral every 12 hours | 14 to 28 |
-| Uncomplicated skin and skin structure infections | Less than 5 yrs: 10 mg/kg oral every 8 hours5 to 11 yrs: 10 mg/kg oral every 12 hours | Adults: 400 mg oral every 12 hoursAdolescents: 600 mg oral every 12 hours | 10 to 14 |
+| Uncomplicated skin and skin structure infections | less than 5 yrs: 10 mg/kg oral every 8 hours5 to 11 yrs: 10 mg/kg oral every 12 hours | Adults: 400 mg oral every 12 hoursAdolescents: 600 mg oral every 12 hours | 10 to 14 |
 
 No dose adjustment is necessary when switching from intravenous to oral administration.
 
