@@ -16,15 +16,16 @@
 - Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with oxycodone HCl tablets.
   Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5)].
 
-## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with oxycodone HCl tablets [see Warnings and Precautions (5.3)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+The presence of risk factors for overdose should not prevent the management of pain in any patient [see Warnings and Precautions (5.1, 5.2, 5.3)].
 
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
-Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.2, 5.3)].
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the­-counter, or as part of a community-based program) [see Warnings and Precautions (5.2)].
 
-Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
 ## 2.3 Initial Dosage
 
@@ -76,9 +77,9 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 ## 2.5 Safe Reduction or Discontinuation of Oxycodone HCl Tablets
 
-Do not abruptly discontinue oxycodone HCl in patients who may be physically dependent on opioids.
-Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
-Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Do not rapidly reduce or abruptly discontinue oxycodone HCl in patients who may be physically dependent on opioids.
+Rapid reduction or abrupt discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid reduction or abrupt discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
 When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking oxycodone HCl, there are a variety of factors that should be considered, including the total daily dose of opioid (including oxycodone HCl tablets) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
