@@ -37,15 +37,14 @@ Lactation: Advise women not to breastfeed during treatment with Jobevne and for 
 
 The brands listed are trademarks of their respective owners.
 
-JOBEVNE™ is a trademark of Biosimilars Newco.
-Ltd.; a Biocon Biologics Company.
+JOBEVNE™ is a trademark of Biocon Biologics UK PLC.; a Biocon Biologics Company.
 
 Copyright © 2025 Biocon Biologics Inc. All rights reserved.
 
-Manufactured by: Biocon Biologics Inc. 245 Main St, 2nd Floor Cambridge, MA 02142, U.S.A. U.S. License No. 2324
+Manufactured by: Biocon Biologics Inc. 685 Route 202/206, Suite 204, Bridgewater, NJ 08807, U.S.A. U.S. Licence No. 2324
 
 Product of India
 
-Revised: 04/2025
+Revised: 03/2026
 
 KR/DRUGS/KTK/28D/07/2006
