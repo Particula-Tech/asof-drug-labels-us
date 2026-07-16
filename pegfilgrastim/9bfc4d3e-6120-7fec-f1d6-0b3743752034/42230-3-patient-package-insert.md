@@ -1,6 +1,6 @@
 # Patient Information
 
-| Fulphila® (FULL-fil-ah) (pegfilgrastim-jmdb) Injection Single-Dose Prefilled Syringe |
+| FulphilaTM (FULL-fil-ah) (pegfilgrastim-jmdb) Injection Single-Dose Prefilled Syringe |
 | --- |
 | What is Fulphila?Fulphila is a man-made form of granulocyte colony-stimulating factor (G-CSF). G-CSF is a substance produced by the body. It stimulates the growth of neutrophils, a type of white blood cell important in the body’s fight against infection. |
 | Do not take Fulphila if you have had a serious allergic reaction to pegfilgrastim products or filgrastim products. |
@@ -9,26 +9,24 @@
 | What are possible side effects of Fulphila? Fulphila may cause serious side effects, including: •Spleen rupture. Your spleen may become enlarged and can rupture. A ruptured spleen can cause death. Call your healthcare provider right away if you have pain in the left upper stomach area or your left shoulder. •A serious lung problem called Acute Respiratory Distress Syndrome (ARDS). Call your healthcare provider or get emergency care right away if you have shortness of breath with or without a fever, trouble breathing, or a fast rate of breathing. •Serious allergic reactions. Fulphila can cause serious allergic reactions. These reactions can cause a rash over your whole body, shortness of breath, wheezing, dizziness, swelling around your mouth or eyes, fast heart rate, and sweating. If you have any of these symptoms, stop using Fulphila and call your healthcare provider or get emergency medical help right away. •Sickle cell crises. You may have a serious sickle cell crisis if you have a sickle cell disorder and receive Fulphila. Serious sickle cell crises have happened in people with sickle cell disorders receiving pegfilgrastim that has sometimes led to death. Call your healthcare provider right away if you have symptoms of sickle cell crisis such as pain or difficulty breathing. •Kidney injury (glomerulonephritis). Fulphila can cause kidney injury. Call your healthcare provider right away if you develop any of the following symptoms: •swelling of your face or ankles •blood in your urine or dark colored urine •you urinate less than usual •Increased white blood cell count (leukocytosis). Your healthcare provider will check your blood during treatment with Fulphila. •Decreased platelet count (thrombocytopenia). Your healthcare provider will check your blood during treatment with Fulphila. Tell your healthcare provider if you have unusual bleeding or bruising during treatment with Fulphila. This could be a sign of decreased platelet counts, which may reduce the ability of your blood to clot.•Capillary Leak Syndrome. Fulphila can cause fluid to leak from blood vessels into your body’s tissues. This condition is called “Capillary Leak Syndrome” (CLS). CLS can quickly cause you to have symptoms that may become life-threatening. Get emergency medical help right away if you develop any of the following symptoms: •swelling or puffiness and are urinating less than usual •trouble breathing •swelling of your stomach-area (abdomen) and feeling of fullness •dizziness or feeling faint •a general feeling of tiredness •Myelodysplastic syndrome and acute myeloid leukemia. If you have breast cancer or lung cancer, when Fulphila is used with chemotherapy and radiation therapy, or with radiation therapy alone, you may have an increased risk of developing a precancerous blood condition called myelodysplastic syndrome (MDS) or a blood cancer called acute myeloid leukemia (AML). Symptoms of MDS and AML may include tiredness, fever, and easy bruising or bleeding. Call your healthcare provider if you develop these symptoms during treatment with Fulphila•Inflammation of the aorta (aortitis). Inflammation of the aorta (the large blood vessel which transports blood from the heart to the body) has been reported in patients who received pegfilgrastim. Symptoms may include fever, abdominal pain, feeling tired, and back pain. Call your healthcare provider if you experience these symptoms. The most common side effects of Fulphila are pain in the bones, arms, and legs. These are not all the possible side effects of Fulphila. Call your health care provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
 | How should I store Fulphila? •Store Fulphila in the refrigerator between 36°F to 46°F (2°C to 8°C). •Take Fulphila out of the refrigerator 30 minutes before use and allow it to reach room temperature before preparing an injection.•Avoid freezing. If Fulphila is accidently frozen, allow the prefilled syringe to thaw in the refrigerator before injecting.•Do not use a Fulphila prefilled syringe that has been frozen more than 1 time. Use a new Fulphila prefilled syringe.•Keep the prefilled syringe in the original carton to protect from light or physical damage. •Do not shake the prefilled syringe.•Throw away (dispose of) any Fulphila that has been left at room temperature, 68°F to 77ºF (20°C to 25ºC) for more than 72 hours or frozen more than 1 time. Keep the Fulphila prefilled syringe out of the reach of children. |
 | General information about the safe and effective use of Fulphila. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use Fulphila for a condition for which it was not prescribed. Do not give Fulphila to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about Fulphila that is written for health professionals. |
-| What are the ingredients in Fulphila? Active ingredient: pegfilgrastim-jmdbInactive ingredients: acetate, D-sorbitol, polysorbate 20, and sodium in Water for Injection.Manufactured by: Biocon Biologics Inc.245 Main st, 2nd Floor Cambridge, MA 02142 U.S.A U.S. License No. 2324 Product of India. Code No.: KR/DRUGS/KTK/28D/07/2006 For more information, go to www.fulphila.com or call 1-833-986-1468. |
+| What are the ingredients in Fulphila? Active ingredient: pegfilgrastim-jmdbInactive ingredients: acetate, D-sorbitol, polysorbate 20, and sodium in Water for Injection.Manufactured by: Biocon Biologics Inc.685 Route 202/206, Suite 204, Bridgewater, NJ 08807, U.S.A.U.S. License No. 2324 Product of India. Code No.: KR/DRUGS/KTK/28D/07/2006 For more information, go to www.fulphila.com or call 1-833-986-1468. |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 06/2023
+Revised: 01/2026
 
-FULPHILA® is a registered trademark of Biosimilars New Co Ltd; a Biocon Biologics Company.
+FULPHILA™ is a trademark of Biocon Biologics UK PLC.; a Biocon Biologics Company.
 
 Copyright © 2023 Biocon Biologics Inc. All rights reserved
 
-Manufactured by: Biocon Biologics Inc. 245 Main st. 2nd Floor Cambridge, MA 02142 U.S.A. U.S. License No. 2324
+Manufactured by: Biocon Biologics Inc. 685 Route 202/206, Suite 204, Bridgewater, NJ 08807, U.S.A. U.S. License No. 2324
 
 Product of India
 
 KR/DRUGS/KTK/28D/07/2006
 
-Revised: 06/2023
+Revised: 01/2026
 
-BF1639/05
-
-| Instructions for UseFULPHILA® (FULL-fil-ah)(pegfilgrastim-jmdb)injection, for subcutaneous useSingle-Dose Prefilled Syringe |  |
+| Instructions for UseFULPHILATM (FULL-fil-ah)(pegfilgrastim-jmdb)injection, for subcutaneous useSingle-Dose Prefilled Syringe |  |
 | --- | --- |
 | Guide to Parts |  |
 | Before Use | After Use |
@@ -55,12 +53,10 @@ BF1639/05
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Biocon Biologics Inc. 245 Main St, 2nd Floor Cambridge, MA 02142, U.S.A. U.S. License No. 2324
+Manufactured by: Biocon Biologics Inc. 685 Route 202/206, Suite 204, Bridgewater, NJ 08807, U.S.A. U.S. License No. 2324
 
 KR/DRUGS/KTK/28D/07/2006
 
 Copyright © 2023 Biocon Biologics Inc. All rights reserved.
 
-Revised: 06/2023
-
-BF1638/05
+Revised: 01/2026

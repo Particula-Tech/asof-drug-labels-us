@@ -19,4 +19,4 @@ Instruct patients who self-administer Fulphila using the single-dose prefilled s
 - •Dangers of reusing syringes.
 - •Importance of following local requirements for proper disposal of used syringes.
 
-Manufactured by: Biocon Biologics Inc. 245 Main st, 2nd Floor Cambridge, MA 02142 U.S.A. U.S. License No. 2324
+Manufactured by: Biocon Biologics Inc. 685 Route 202/206, Suite 204, Bridgewater, NJ 08807, U.S.A. U.S. License No. 2324

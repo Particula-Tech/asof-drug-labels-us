@@ -2,7 +2,7 @@
 
 NDC 83257-005-41 Rx only
 
-Fulphila® (pegfilgrastim-jmdb) Injection 6 mg/0.6 mL
+FulphilaTM (pegfilgrastim-jmdb) Injection 6 mg/0.6 mL
 
 Single-Dose Prefilled Syringe
 
@@ -23,14 +23,10 @@ Keep this and all medication out of the reach of children.
 
 Dosage: See prescribing information for dosage and instructions for use.
 
-Manufactured by: Biocon Biologics Inc. 245 Main St, 2nd Floor Cambridge, MA 02142, U.S.A.
+Manufactured by: Biocon Biologics Inc. 685 Route 202/206, Suite 204, Bridgewater, NJ 08807, U.S.A.
 
 U.S. License No. 2324
 
 Product of India
 
 KR/DRUGS/KTK/28D/07/2006
-
-Copyright © 2023 Biocon Biologics Inc.
-
-All rights reserved.
