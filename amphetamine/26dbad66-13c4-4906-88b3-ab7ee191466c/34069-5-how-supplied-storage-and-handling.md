@@ -8,4 +8,4 @@ Dispense in a well closed container, as defined in the USP.
 
 Manufactured by: Granules Pharmaceuticals Inc., Chantilly, VA 20151
 
-Revised: 09/2025
+Revised: 07/2026
