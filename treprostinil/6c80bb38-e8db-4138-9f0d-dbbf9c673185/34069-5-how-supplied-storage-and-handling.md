@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Remodulin is supplied in 20-mL multidose vials as sterile solutions in water for injection, individually packaged in cartons.
-Unopened vials of Remodulin are stable until the date indicated when stored at 25°C (77°F), with excursions permitted to 2-30°C (36-86°F).
+Unopened vials of Remodulin are stable until the date indicated when stored at 25°C (77°F), with excursions permitted to 2°C to 30°C (36°F to 86°F).
 A single vial of Remodulin should be used for no more than 30 days after the initial introduction into the vial.
 
 Remodulin Injection is supplied as:
