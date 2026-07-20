@@ -9,4 +9,4 @@ OR
 Manufactured by: Amneal Pharmaceuticals Pvt.
 Ltd. Ahmedabad 382220, INDIA
 
-Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 Revised: 12-2019-00
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 Revised: 03-2026-01
