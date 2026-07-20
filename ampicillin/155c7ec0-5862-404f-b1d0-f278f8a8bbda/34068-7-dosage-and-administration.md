@@ -2,24 +2,23 @@
 
 UNASYN may be administered by either the IV or the IM routes.
 
-For IV administration, the dose can be given by slow intravenous injection over at least 10–15 minutes or can also be delivered in greater dilutions with 50–100 mL of a compatible diluent as an intravenous infusion over 15–30 minutes.
+For IV administration, the dose can be given by slow intravenous injection over at least 10–15 minutes or can also be delivered in greater dilutions with 50 mL–100 mL of a compatible diluent as an intravenous infusion over 15–30 minutes.
+(see DIRECTIONS FOR USE-Preparation for Intravenous Use section).
 
-UNASYN may be administered by deep intramuscular injection.
-(see DIRECTIONS FOR USE-Preparation for Intramuscular Injection section).
+UNASYN may be administered by deep intramuscular injection (see DIRECTIONS FOR USE-Preparation for Intramuscular Injection section).
 
-The recommended adult dosage of UNASYN is 1.5 g (1 g ampicillin as the sodium salt plus 0.5 g sulbactam as the sodium salt) to 3 g (2 g ampicillin as the sodium salt plus 1 g sulbactam as the sodium salt) every six hours.
-This 1.5 to 3 g range represents the total of ampicillin content plus the sulbactam content of UNASYN, and corresponds to a range of 1 g ampicillin plus 0.5 g sulbactam to 2 g ampicillin plus 1 g sulbactam.
-The total dose of sulbactam should not exceed 4 grams per day.
+The recommended adult dosage of UNASYN is 1.5 g (ampicillin 1 g and sulbactam 0.5 g) to 3 g (ampicillin 2 g and sulbactam 1 g) every six hours.
+This 1.5 g to 3 g range represents the total of ampicillin content plus the sulbactam content of UNASYN, and corresponds to a range of 1 g ampicillin and 0.5 g sulbactam to 2 g ampicillin and 1 g sulbactam.
+The total dose of sulbactam should not exceed 4 g per day.
 
 ## Pediatric Patients 1 Year of Age or Older
 
 The recommended daily dose of UNASYN in pediatric patients is 300 mg per kg of body weight administered via intravenous infusion in equally divided doses every 6 hours.
-This 300 mg/kg/day dosage represents the total ampicillin content plus the sulbactam content of UNASYN, and corresponds to 200 mg ampicillin/100 mg sulbactam per kg per day.
+This 300 mg/kg/day dosage represents the total ampicillin content plus the sulbactam content of UNASYN, and corresponds to 200 mg ampicillin and 100 mg sulbactam per kg per day.
 The safety and efficacy of UNASYN administered via intramuscular injection in pediatric patients have not been established.
-Pediatric patients weighing 40 kg or more should be dosed according to adult recommendations, and the total dose of sulbactam should not exceed 4 grams per day.
+Pediatric patients weighing 40 kg or more should be dosed according to adult recommendations, and the total dose of sulbactam should not exceed 4 g per day.
 The course of intravenous therapy should not routinely exceed 14 days.
-In clinical trials, most children received a course of oral antimicrobials following initial treatment with intravenous UNASYN.
-(see CLINICAL STUDIES section).
+In clinical trials, most pediatric patients received a course of oral antimicrobials following initial treatment with intravenous UNASYN (see CLINICAL STUDIES section).
 
 ## Impaired Renal Function
 
@@ -30,13 +29,13 @@ TABLE 3 UNASYN Dosage Guide for Patients with Renal Impairment
 
 | Creatinine Clearance (mL/min/1.73m2) | Ampicillin and Sulbactam Half-Life (Hours) | Recommended UNASYN Dosage |
 | --- | --- | --- |
-| ≥30 | 1 | 1.5–3 g q 6h–q 8h |
-| 15–29 | 5 | 1.5–3 g q 12h |
-| 5–14 | 9 | 1.5–3 g q 24h |
+| ≥30 | 1 | 1.5 g to 3 g every 6 to 8 hours |
+| 15–29 | 5 | 1.5 g to 3 g every 12 hours |
+| 5–14 | 9 | 1.5 g to 3 g every 24 hours |
 
 When only serum creatinine is available, the following formula (based on sex, weight, and age of the patient) may be used to convert this value into creatinine clearance.
 The serum creatinine should represent a steady state of renal function.
 
-|  | Males | weight (kg) × (140 − age) 72 × serum creatinine |  |
-| --- | --- | --- | --- |
-|  | Females | 0.85 × above value |  |
+| Males | Weight (kg) x (140 – age)72 x serum creatinine |
+| --- | --- |
+| Females | 0.85 x above value |

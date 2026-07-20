@@ -8,9 +8,18 @@
     "0049-0013-81",
     "0049-0013-83",
     "0049-0014-81",
-    "0049-0014-83"
+    "0049-0014-83",
+    "0049-0710-01",
+    "0049-0710-10",
+    "0049-3003-01",
+    "0049-3003-10"
   ],
   "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "ampicillin and sulbactam",
+      "name": "UNASYN"
+    },
     {
       "form": "INJECTION, POWDER, FOR SOLUTION",
       "generic": "ampicillin sodium and sulbactam sodium",
