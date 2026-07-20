@@ -89,20 +89,20 @@ TARGRETIN can cause serious side effects, including:
 - •Inflammation of the pancreas (acute pancreatitis).
   TARGRETIN can sometimes cause pancreatitis that comes on suddenly (acute), and that can lead to death.
   Your risk of developing acute pancreatitis may be greater if you:
-  - •have had pancreatitis in the past
-  - •high levels of fats in your blood that are not controlled
-  - •drink large amounts of alcohol
-  - •have gallbladder problems
-  - •have diabetes that is not controlled
-  - •take certain medicines that can increase the amount of triglycerides in your blood
-  - •take medicines that can harm your pancreas
+  - ohave had pancreatitis in the past
+  - ohigh levels of fats in your blood that are not controlled
+  - odrink large amounts of alcohol
+  - ohave gallbladder problems
+  - ohave diabetes that is not controlled
+  - otake certain medicines that can increase the amount of triglycerides in your blood
+  - otake medicines that can harm your pancreas
 
 Tell your healthcare provider right away if you develop signs or symptoms of pancreatitis during treatment with TARGRETIN, including:
 
 - 
-  - •nausea that will not go away
-  - •vomiting
-  - •stomach-area (abdominal) or back pain
+  - onausea that will not go away
+  - ovomiting
+  - ostomach-area (abdominal) or back pain
 - •Liver problems, including liver failure.
   TARGRETIN can cause increased liver function blood test results, or liver problems that can lead to death.
 - •Thyroid problems (hypothyroidism) are common with TARGRETIN.
