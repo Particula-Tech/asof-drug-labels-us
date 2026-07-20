@@ -1,11 +1,13 @@
 # 5.WARNINGS AND PRECAUTIONS
 
+.
+
 ## 5.1CardiovascularRisk
 
 General
 
 There is a potential for cardiac risk of sexual activity in patients with preexisting cardiovascular disease.
-Therefore, treatments for erectile dysfunction, including VYBIRQUE should not be used in men for whom sexual activity is inadvisable because of their underlying cardiovascular status.
+Therefore, treatments for erectile dysfunction, including VYBRIQUE should not be used in men for whom sexual activity is inadvisable because of their underlying cardiovascular status.
 
 The following groups of patients were not included in clinical safety and efficacy trials for sildenafil, and therefore, until further information is available, VYBRIQUE is not recommended for use in the following groups:
 

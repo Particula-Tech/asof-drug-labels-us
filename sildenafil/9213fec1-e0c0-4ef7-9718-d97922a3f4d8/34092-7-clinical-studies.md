@@ -20,17 +20,7 @@ The efficacy of VYBRIQUE, administered at flexible doses of 25 mg, 50 mg, 75 mg 
 Efficacy results are shown in Figure 6.
 Subgroup analyses by age, race, and ethnicity showed efficacy results consistent with the overall population.
 
-Table 5: Co-Primary Efficacy Results in a Randomized, Double-Blind, Placebo-Controlled, Flexible-Dose Study of VYBRIQUE
-
-|  | IIEF-EF Domain Score Mean (SD) |  | SEP Q2 Percentage (%) of ‘Yes’ Responses Mean (SD) |  | SEP Q3 Percentage (%) of ‘Yes’ Responses Mean (SD) |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Sildenafil (N=354) | Placebo (N=121) | Sildenafil (N=354) | Placebo (N=121) | Sildenafil (N=354) | Placebo (N=121) |
-| Baseline | 12.9 (4.8) | 12.7 (4.8) | 42.7 (34.3) | 44.2 (36.5) | 11.5 (17.2) | 8.9 (16.0) |
-| Week 12 | 24.3 (6.6) | 21.0 (8.7) | 82.1 (28.8) | 68.6 (36.5) | 69.7 (34.2) | 49.9 (38.7) |
-| Change fromBaseline | 11.5 (7.1) | 8.2 (8.9) | 39.5 (35.3) | 24.2 (36.2) | 58.2 (34.6) | 41.3 (39.6) |
-| Sildenafil - Placebo | IIEF-EF |  | SEP Q2 |  | SEP Q3 |  |
-| LS Means [95% CI] | 3.3* [1.6, 5.0] |  | 13.9%* [7.9%, 19.9%] |  | 19.0%* [11.8%, 26.3%] |  |
-| *Statistically significant differences vs. placebo; p-value <0.001 |  |  |  |  |  |  |
+*Statistically significant differences vs. placebo; p-value <0.001
 
 IIEF= International Index of Erectile Function, EF = Erectile Function, SEP Q2=Sexual Encounter Profile Question 2, SEP Q3 = Sexual Encounter Profile Question 3, N = Number of Subjects, SD = Standard Deviation, LS = Least Squares, CI = Confidence Interval.
 
@@ -39,7 +29,7 @@ Sildenafil was evaluated primarily at doses of 25 mg, 50 mg and 100 mg in 21 ran
 Sildenafil was administered to more than 3,000 patients aged 19 to 87 years, with ED of various etiologies (organic, psychogenic, mixed) with a mean duration of 5 years. sildenafil citrate demonstrated statistically significant improvement compared to placebo in all 21 studies.
 The studies that established benefit demonstrated improvements in success rates for sexual intercourse compared with placebo.
 
-Sildenafil Efficacy Results from Controlled Clinical Studies
+SildenafilEfficacy Results from Controlled Clinical Studies
 
 The effect of sildenafil on one of the major end points, maintenance of erections after penetration, is shown in Figure 7, for the pooled results of 5 sildenafil fixed-dose, dose-response studies of greater than one-month duration, showing response according to baseline function.
 Results with all doses have been pooled, but scores showed greater improvement at the 50 and 100 mg doses than at the 25 mg dose.

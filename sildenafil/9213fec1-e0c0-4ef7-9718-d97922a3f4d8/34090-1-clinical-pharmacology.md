@@ -1,5 +1,7 @@
 # 12CLINICAL PHARMACOLOGY
 
+.
+
 ## 12.1Mechanism of Action
 
 The physiologic mechanism of erection of the penis involves release of nitric oxide (NO) in the corpus cavernosum during sexual stimulation.
@@ -24,12 +26,12 @@ The inhibition of PDE5 in some of these tissues by sildenafil may be the basis f
 
 ## 12.2Pharmacodynamics
 
-Effects ofSildenafil on Erectile Response:In eight double-blind, placebo-controlled crossover studies of patients with either organic or psychogenic erectile dysfunction, sexual stimulation resulted in improved erections, as assessed by an objective measurement of hardness and duration of erections (RigiScan®), after sildenafil administration compared with placebo.
+Effects ofSildenafilon Erectile Response:In eight double-blind, placebo-controlled crossover studies of patients with either organic or psychogenic erectile dysfunction, sexual stimulation resulted in improved erections, as assessed by an objective measurement of hardness and duration of erections (RigiScan®), after sildenafil administration compared with placebo.
 Most studies assessed the efficacy of sildenafil approximately 60 minutes post dose.
 The erectile response, as assessed by RigiScan®, generally increased with increasing sildenafil dose and plasma concentration.
 The time course of effect was examined in one study, showing an effect for up to 4 hours but the response was diminished compared to 2 hours.
 
-Effects ofVYBRIQUE on Blood Pressure:
+Effects ofVYBRIQUEon Blood Pressure:
 
 Single oral doses (50 mg, 75 mg, 100 mg) of VYBRIQUE administered to 12 healthy young volunteers produced decreases in supine blood pressure.
 The placebo-subtracted mean maximum decreases in systolic/diastolic blood pressure were 6.1/2.8 mmHg after a single 100 mg dose.
@@ -43,15 +45,15 @@ The placebo-subtracted maximum mean decreases in systolic/diastolic blood pressu
 Subjects were under fasting conditions and lay in the supine position for the first 4 hours post-dose and were not initially titrated.
 The decrease in supine blood pressure was generally observed from 15 min to 4 h post-dose.
 
-Figure2: Mean Change from Baseline inSupineSystolic Blood Pressure,Elderly
+Figure2:Mean Change from Baseline inSupineSystolic Blood Pressure,Elderly
 
-Effects ofSildenafil on Blood Pressure When Nitroglycerin is Subsequently Administered:Based on the pharmacokinetic profile of a single 100 mg sildenafil oral dose given to healthy normal volunteers, the plasma levels of sildenafil at 24 hours post dose are approximately 2 ng/mL (compared to peak plasma levels of approximately 440 ng/mL).
+Effects ofSildenafilon Blood Pressure When Nitroglycerin is Subsequently Administered:Based on the pharmacokinetic profile of a single 100 mg sildenafil oral dose given to healthy normal volunteers, the plasma levels of sildenafil at 24 hours post dose are approximately 2 ng/mL (compared to peak plasma levels of approximately 440 ng/mL).
 In the following patients: age >65 years, hepatic impairment (e.g., cirrhosis), severe renal impairment (e.g., creatinine clearance <30 mL/min), and concomitant use of erythromycin or strong CYP3A4 inhibitors, plasma levels of sildenafil at 24 hours post dose have been found to be 3 to 8 times higher than those seen in healthy volunteers.
 Although plasma levels of sildenafil at 24 hours post dose are much lower than at peak concentration, it is unknown whether nitrates can be safely co-administered at this time point [see Contraindications (4.1)].
 
 Effects ofSildenafilon Blood Pressure When Co-administered with Alpha-Blockers:Three double-blind, placebo-controlled, randomized, two-way crossover studies were conducted to assess the interaction of sildenafil with doxazosin, an alpha-adrenergic blocking agent.
 
-Study 1:Sildenafil with Doxazosin
+Study 1:Sildenafilwith Doxazosin
 
 In the first study, a single oral dose of sildenafil 100 mg or matching placebo was administered in a 2-period crossover design to 4 generally healthy males with benign prostatic hyperplasia (BPH).
 Following at least 14 consecutive daily doses of doxazosin, sildenafil 100 mg or matching placebo was administered simultaneously with doxazosin.
@@ -60,11 +62,6 @@ Thereafter, 17 subjects were treated with sildenafil 25 mg or matching placebo i
 The mean subject age was 66.5 years.
 
 For the 17 subjects who received sildenafil 25 mg and matching placebo, the placebo-subtracted mean maximum decreases from baseline (95% CI) in systolic blood pressure were as follows:
-
-| Placebo-subtracted mean maximum decreasein systolic blood pressure (mm Hg) | Sildenafil 25 mg |
-| --- | --- |
-| Supine | 7.4 (-0.9,15.7) |
-| Standing | 6.0 (-0.8, 12.8) |
 
 The mean profiles of the change from baseline in standing systolic blood pressure in subjects treated with doxazosin in combination with 25 mg sildenafil or matching placebo are shown in Figure 3.
 
@@ -82,7 +79,7 @@ For these four subjects, the placebo-subtracted mean maximum decreases from base
 Two of these subjects had a standing SBP <85mmHg.
 Both these subjects were protocol violators, one due to a low baseline standing SBP, and the other due to baseline orthostatic hypotension.
 
-Study 2: Sildenafil with Doxazosin
+Study 2: Sildenafilwith Doxazosin
 
 In the second study, a single oral dose of sildenafil 50 mg or matching placebo was administered in a 2-period crossover design to 20 generally healthy males with BPH.
 Following at least 14 consecutive days of doxazosin, sildenafil 50 mg or matching placebo was administered simultaneously with doxazosin 4 mg (17 subjects) or with doxazosin 8 mg (3 subjects).
@@ -94,14 +91,9 @@ This patient had been taking minoxidil, a potent vasodilator, during the study.
 
 For the 19 subjects who received both sildenafil and matching placebo, the placebo-subtracted mean maximum decreases from baseline (95% CI) in systolic blood pressure were as follows:
 
-| Placebo-subtracted mean maximum decrease in systolic blood pressure (mm Hg) | Sildenafil50 mg (95% CI) |
-| --- | --- |
-| Supine | 9.08 (5.48, 12.68) |
-| Standing | 11.62 (7.34, 15.90) |
-
 The mean profiles of the change from baseline in standing systolic blood pressure in subjects treated with doxazosin in combination with 50 mg sildenafil or matching placebo are shown in Figure 4.
 
-Figure4: Mean Standing Systolic Blood Pressure Change from Baseline
+Figure4:Mean Standing Systolic Blood Pressure Change from Baseline
 
 Blood pressure was measured after administration of sildenafil at the same times as those specified for the first doxazosin study.
 There were two subjects who had a standing SBP of <85 mmHg.
@@ -125,11 +117,6 @@ Of the twenty subjects who were ultimately assigned to treatment, a total of 13 
 
 For the 20 subjects who received sildenafil 100 mg and matching placebo, the placebo-subtracted mean maximum decreases from baseline (95% CI) in systolic blood pressure were as follows:
 
-| Placebo-subtracted mean maximum decrease in systolic blood pressure (mm Hg) | Sildenafil100 mg |
-| --- | --- |
-| Supine | 7.9 (4.6, 11.1) |
-| Standing | 4.3 (-1.8,10.3) |
-
 The mean profiles of the change from baseline in standing systolic blood pressure in subjects treated with doxazosin in combination with 100 mg sildenafil citrate or matching placebo are shown in Figure 5.
 
 Figure5: Mean Standing Systolic Blood Pressure Change from Baseline
@@ -149,7 +136,7 @@ The maximum observed decrease in diastolic blood pressure was -17.2 mmHg when si
 There were no reports of postural dizziness or orthostatic hypotension.
 The maximum recommended dose of 100 mg sildenafil was not evaluated in this study [seeDrug Interactions (7.5)].
 
-Effects ofSildenafil on Cardiac Parameters:Single oral doses of sildenafil up to 100 mg produced no clinically relevant changes in the ECGs of normal male volunteers.
+Effects ofSildenafilon Cardiac Parameters:Single oral doses of sildenafil up to 100 mg produced no clinically relevant changes in the ECGs of normal male volunteers.
 
 Studies have produced relevant data on the effects of sildenafil citrate on cardiac output.
 In one small, open-label, uncontrolled, pilot study, eight patients with stable ischemic heart disease underwent Swan-Ganz catheterization.
@@ -159,25 +146,12 @@ The results from this pilot study are shown in Table 4; the mean resting systoli
 Mean resting values for right atrial pressure, pulmonary artery pressure, pulmonary artery occluded pressure and cardiac output decreased by 28%, 28%, 20% and 7% respectively.
 Even though this total dosage produced plasma sildenafil concentrations which were approximately 2 to 5 times higher than the mean maximum plasma concentrations following a single oral dose of 100 mg in healthy male volunteers, the hemodynamic response to exercise was preserved in these patients.
 
-Table 4: Hemodynamic Data in Patients with Stable Ischemic Heart Disease after IntravenousAdministration of 40 mg of Sildenafil
-
-| Means ± SD | At rest |  |  |  | After 4 minutes of exercise |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | n | Baseline (B2) | n | Sildenafil (D1) | n | Baseline | n | Sildenafil |
-| PAOP (mmHg) | 8 | 8.1 ± 5.1 | 8 | 6.5 ± 4.3 | 8 | 36.0 ± 13.7 | 8 | 27.8 ± 15.3 |
-| Mean PAP (mmHg) | 8 | 16.7 ± 4 | 8 | 12.1 ± 3.9 | 8 | 39.4 ± 12.9 | 8 | 31.7 ± 13.2 |
-| Mean RAP (mmHg) | 7 | 5.7 ± 3.7 | 8 | 4.1 ± 3.7 | - | - | - | - |
-| Systolic SAP (mmHg) | 8 | 150.4 ± 12.4 | 8 | 140.6 ± 16.5 | 8 | 199.5 ± 37.4 | 8 | 187.8 ± 30.0 |
-| Diastolic SAP (mmHg) | 8 | 73.6 ± 7.8 | 8 | 65.9 ± 10 | 8 | 84.6 ± 9.7 | 8 | 79.5 ± 9.4 |
-| Cardiac output (L/min) | 8 | 5.6 ± 0.9 | 8 | 5.2 ± 1.1 | 8 | 11.5 ± 2.4 | 8 | 10.2 ± 3.5 |
-| Heart rate (bpm) | 8 | 67 ± 11.1 | 8 | 66.9 ± 12 | 8 | 101.9 ± 11.6 | 8 | 99.0 ± 20.4 |
-
 In a double-blind study, 144 patients with erectile dysfunction and chronic stable angina limited by exercise, not receiving chronic oral nitrates, were randomized to a single dose of placebo or sildenafil 100 mg 1 hour prior to exercise testing.
 The primary endpoint was time to limiting angina in the evaluable cohort.
 The mean times (adjusted for baseline) to onset of limiting angina were 423.6 and 403.7 seconds for sildenafil (N=70) and placebo, respectively.
 These results demonstrated that the effect of sildenafil on the primary endpoint was statistically non-inferior to placebo.
 
-Effects ofSildenafil on Vision:At single oral doses of 100 mg and 200 mg, transient dose-related impairment of color discrimination was detected using the Farnsworth-Munsell 100-hue test, with peak effects near the time of peak plasma levels.
+Effects ofSildenafilon Vision:At single oral doses of 100 mg and 200 mg, transient dose-related impairment of color discrimination was detected using the Farnsworth-Munsell 100-hue test, with peak effects near the time of peak plasma levels.
 This finding is consistent with the inhibition of PDE6, which is involved in phototransduction in the retina.
 Subjects in the study reported this finding as difficulties in discriminating blue/green.
 An evaluation of visual function at doses up to twice the maximum recommended dose revealed no effects of sildenafil on visual acuity, intraocular pressure, or pupillometry.
