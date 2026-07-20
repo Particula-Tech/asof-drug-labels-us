@@ -1,9 +1,10 @@
 # 11 DESCRIPTION
 
-Buprenorphine Sublingual Tablets are a white to off white round shaped tablet debossed with ˄ on 2 mg and ˄ on 8 mg on one side and plain on the other side.
-B9 B10
+Buprenorphine Sublingual Tablets are a white to off white round convex, tablet debossed with ˄ on 2 mg, ˄ on 8 mg on one side and plain on the B9 B10
 
-It contains buprenorphine HCl, a partial agonist at the mu-opioid receptor, and is available in two dosage strengths, 2 mg buprenorphine and 8 mg buprenorphine (as the free base, equivalent to 2.16 mg buprenorphine hydrochloride USP and 8.64 mg buprenorphine hydrochloride USP).
+other side, debossed with 24 on one side and ˄ on other side of 4 mg, debossed with L52 on one side and ˄ on other side of 12 mg.
+
+It contains buprenorphine HCl, a partial agonist at the mu-opioid receptor, and is available in four dosage strengths, buprenorphine 2 mg, buprenorphine 4 mg, buprenorphine 8 mg and buprenorphine 12 mg (as the free base, equivalent to 2.16 mg buprenorphine hydrochloride USP, 4.3 mg buprenorphine hydrochloride USP, 8.64 mg buprenorphine hydrochloride USP and 12.96 mg buprenorphine hydrochloride USP).
 Each tablet also contains lactose monohydrate, mannitol, corn starch, citric acid anhydrous, sodium citrate dihydrate and magnesium stearate.
 
 Chemically, buprenorphine HCl is (2S)-2-[17-Cyclopropylmethyl-4,5α-epoxy-3-hydroxy-6-methoxy-6α,14-ethano-14α-morphinan-7α-yl]-3,3-dimethylbutan -2-ol hydrochloride.

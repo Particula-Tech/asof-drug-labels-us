@@ -99,7 +99,7 @@ Table 2 shows adverse events reported by at least 5% of subjects in any dose gro
 The following adverse reactions have been identified during post approval use of buprenorphine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The most frequently reported post-marketing adverse events with buprenorphine not observed in clinical trials, excluding drug exposure during pregnancy, was drug misuse or abuse.
+The most frequently reported post-marketing adverse events with buprenorphine sublingual tablets not observed in clinical trials, excluding drug exposure during pregnancy, was drug misuse or abuse.
 
 Serotonin syndrome:Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 
@@ -109,7 +109,7 @@ Anaphylaxis:Anaphylaxis has been reported with ingredients contained in Buprenor
 
 Androgen deficiency:Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
 
-Local reactions:Dental decay (including caries, tooth fracture, and tooth loss), glossodynia, glossitis, oral muscosal erythema, oral hypoesthesia, and stomatitis.
+Local reactions:Dental decay (including caries, tooth fracture, and tooth loss), glossodynia, glossitis, oral mucosal erythema, oral hypoesthesia, and stomatitis.
 
 Hypoglycemia:Cases of hypoglycemia have been reported in patients taking opioids.
 Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).

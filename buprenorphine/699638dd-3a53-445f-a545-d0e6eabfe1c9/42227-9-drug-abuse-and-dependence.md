@@ -13,7 +13,7 @@ Healthcare professionals should contact their state professional licensing board
 Patients who continue to misuse, abuse, or divert, buprenorphine products or other opioids should be provided or referred for more intensive and structured treatment.
 
 Abuse of buprenorphine poses a risk of overdose and death.
-This risk is increased with the use of buprenorphine and alcohol and/or other substances, especially benzodiazepines.
+This risk is increased with the use of buprenorphine and alcohol and other substances, especially benzodiazepines.
 
 The healthcare provider may be able to more easily detect misuse or diversion by maintaining records of medication prescribed including date, dose, quantity, frequency of refills, and renewal requests of medication prescribed.
 
