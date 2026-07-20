@@ -56,6 +56,8 @@ Further clinical evaluation (e.g., rheumatology referral) may be appropriate for
 
 ## 5.7 Long-Term Suppression of Growth in Pediatric Patients
 
+Dexmethylphenidate hydrochloride extended-release is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
+
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 
 In a 7-week, double-blind, placebo-controlled study of dexmethylphenidate hydrochloride extended-release capsules, the mean weight gain was greater for pediatric patients (ages 6 to 17 years) receiving placebo (+0.4 kg) than for patients receiving dexmethylphenidate hydrochloride extended-release capsules (-0.5 kg).

@@ -108,9 +108,9 @@ Table 4: Changes (Mean ± SD) in Vital Signs and Weight by Randomized Dose Durin
 
 |  | Dexmethylphenidate Hydrochloride Extended-Release Capsules, 20 mg(N = 57) | Dexmethylphenidate Hydrochloride Extended-Release Capsules, 30 mg(N = 54) | Dexmethylphenidate Hydrochloride Extended-Release Capsules, 40 mg(N = 54) | Placebo(N = 53) |
 | --- | --- | --- | --- | --- |
-| Pulse (bpm) | 3.1 ± 11.1 | 4.3 ± 11.7 | 6.0 ± 10.1 | -1.4 ± 9.3 |
-| Diastolic BP (mmHg) | -0.2 ± 8.2 | 1.2 ± 8.9 | 2.1 ± 8.0 | 0.3 ± 7.8 |
-| Weight (kg) | -1.4 ± 2.0 | -1.2 ± 1.9 | -1.7 ± 2.3 | -0.1 ± 3.9 |
+| Pulse (bpm) | 3.1 ± 11.1 | 4.3 ± 11.7 | 6 ± 10.1 | -1.4 ± 9.3 |
+| Diastolic BP (mmHg) | -0.2 ± 8.2 | 1.2 ± 8.9 | 2.1 ± 8 | 0.3 ± 7.8 |
+| Weight (kg) | -1.4 ± 2 | -1.2 ± 1.9 | -1.7 ± 2.3 | -0.1 ± 3.9 |
 
 ## 6.2 Postmarketing Experience
 

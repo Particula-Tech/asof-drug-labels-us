@@ -37,7 +37,7 @@ Patients were randomized to receive either a fixed dose of dexmethylphenidate hy
 Patients randomized to dexmethylphenidate hydrochloride extended-release capsules were initiated on a 10 mg/day starting dose and titrated in increments of 10 mg/week to the randomly assigned fixed dose.
 Patients were maintained on their fixed dose (20, 30, or 40 mg/day) for a minimum of 2 weeks.
 
-Signs and symptoms of ADHD were evaluated by comparing the mean change from baseline to endpoint for dexmethylphenidate hydrochloride extended-release capsules and placebo-treated patients using an intent-to-treat analysis of the primary efficacy outcome measure, the investigator-administered DSM-IV Attention-Deficit/Hyperactivity Disorder Rating Scale (DSM-IV ADHD RS).
+Signs and symptoms of ADHD were evaluated by comparing the mean change from baseline to endpoint for dexmethylphenidate hydrochloride extended-release capsules and placebo-treated patients using an intent-to-treat analysis of the primary efficacy outcome measure, the investigator-administered DSM-IV Attention-Deficit/Hyperactivity Disorder Rating Scale (DSM-IV ADHD-RS).
 
 The DSM-IV ADHD-RS is an 18-item questionnaire with a score range of 0 to 54 points that measures the core symptoms of ADHD and includes both hyperactive/impulsive and inattentive subscales.
 

@@ -54,11 +54,12 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of dexmethylphenidate hydrochloride extended-release capsules have not been established in pediatric patients below the age of 6 years.
+
+In studies evaluating extended-release methylphenidate products, patients 4 to <6 years of age had higher systemic methylphenidate exposures than those observed in older pediatric patients at the same dosage.
+Pediatric patients 4 to <6 years of age also had a higher incidence of adverse reactions, including weight loss.
+
 The safety and effectiveness of dexmethylphenidate hydrochloride extended-release capsules for the treatment of ADHD have been established in pediatric patients aged 6 to 17 years in two adequate and well-controlled clinical trials [see Clinical Studies (14.2)].
-
-The safety and effectiveness of dexmethylphenidate hydrochloride extended-release capsules in pediatric patients aged less than 6 years have not been established.
-
-The long-term efficacy of dexmethylphenidate hydrochloride extended-release capsules in pediatric patients has not been established.
 
 Long Term Suppression of Growth
 
