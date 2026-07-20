@@ -5,9 +5,16 @@
   "inn": "ampicillin",
   "labeler": "Roerig",
   "package_ndcs": [
-    "0049-0024-28"
+    "0049-0024-28",
+    "0049-1515-01",
+    "0049-1515-02"
   ],
   "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "ampicillin and sulbactam",
+      "name": "UNASYN"
+    },
     {
       "form": "INJECTION, POWDER, FOR SOLUTION",
       "generic": "ampicillin sodium and sulbactam sodium",
