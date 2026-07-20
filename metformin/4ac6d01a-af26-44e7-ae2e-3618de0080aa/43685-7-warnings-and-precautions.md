@@ -43,12 +43,10 @@ Clinical recommendations based upon the patient’s renal function include [see 
 - Hepatic impairment — Patients with hepatic impairment have developed cases of metformin-associated lactic acidosis.
   This may be due to impaired lactate clearance resulting in higher lactate blood levels.
   Therefore, avoid use of metformin hydrochloride in patients with clinical or laboratory evidence of hepatic disease.
-
-Mitochondrial Diseases: Metformin may increase the risk of lactic acidosis in patients with mitochondrial diseases such as mitochondrial encephalopathy with lactic acidosis, and stroke-like episodes (MELAS) syndrome and maternally inherited diabetes and deafness (MIDD).
-Metformin hydrochloride is not recommended in patients with mitochondrial diseases.
-
-If a patient taking metformin hydrochloride develops elevated lactic acid levels (with or without accompanying neurologic signs and symptoms), discontinue metformin hydrochloride.
-Depending on the clinical context, consider evaluating the patient for MELAS, MIDD, or other mitochondrial disease.
+- Mitochondrial Diseases: Metformin may increase the risk of lactic acidosis in patients with mitochondrial diseases such as mitochondrial encephalomyopathy with lactic acidosis, and stroke-like episodes (MELAS) syndrome and maternally inherited diabetes and deafness (MIDD).
+  Metformin hydrochloride tablets are not recommended in patients with mitochondrial diseases such as MELAS syndrome and MIDD.
+- If a patient taking metformin hydrochloride tablets develops elevated lactic acid levels (with or without accompanying neurologic signs and symptoms), discontinue metformin hydrochloride tablets.
+  Depending on the clinical context, consider evaluating the patient for MELAS, MIDD, or other mitochondrial disease.
 
 ## 5.2 Vitamin B12 Deficiency
 

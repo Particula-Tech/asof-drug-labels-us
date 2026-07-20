@@ -39,7 +39,7 @@ You have a higher chance of getting lactic acidosis if you:
 - have surgery.
 - have a heart attack, severe infection, or stroke.
 - are 80 years of age or older and have not had your kidney function tested.
-- have a genetically inherited disease affecting mitochondria (the energy-producing parts within cells).
+- have a genetically inherited disease affecting mitochondria (the energy-producing parts within cells) such as mitochondrial encephalomyopathy with lactic acidosis, and stroke-like episodes (MELAS) syndrome and maternally inherited diabetes and deafness (MIDD).
 
 What are metformin hydrochloride tablets?
 
@@ -81,7 +81,6 @@ Before taking metformin hydrochloride tablets tell your healthcare provider if y
 - are older than 80 years.
   If you are over 80 years old you should not take metformin hydrochloride tablets unless your kidneys have been checked and they are normal.
 - drink alcohol very often, or drink a lot of alcohol in short-term “binge” drinking.
-- have a genetically inherited disease affecting mitochondria (the energy-producing parts within cells).
 - are taking insulin.
 - have any other medical conditions.
 - are pregnant or plan to become pregnant.
@@ -90,6 +89,7 @@ Before taking metformin hydrochloride tablets tell your healthcare provider if y
 - are breast-feeding or plan to breast-feed.
   It is not known if metformin hydrochloride passes into your breast milk.
   Talk with your healthcare provider about the best way to feed your baby while you take metformin hydrochloride tablets.
+- have a genetically inherited disease affecting mitochondria (the energy-producing parts within cells) such as MELAS syndrome and MIDD.
 
 Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Know the medicines you take.
@@ -203,4 +203,4 @@ High blood sugar can be lowered by diet and exercise, and by certain medicines w
 
 Talk to your healthcare provider about how to prevent, recognize, and take care of low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and problems you have because of your diabetes.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 04/2026
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 07/2026
