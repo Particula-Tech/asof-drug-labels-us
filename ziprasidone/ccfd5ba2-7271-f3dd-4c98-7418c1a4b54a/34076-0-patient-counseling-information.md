@@ -51,7 +51,7 @@ ZIPRASIDONE CAPSULES, USP
 
 20 mg, 40 mg, 60 mg and 80 mg
 
-| Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida USA, 33326 |
+| Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida 33326 |
 | --- | --- |
 
-Revision: 20
+Revision: 21

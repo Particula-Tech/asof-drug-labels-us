@@ -35,7 +35,7 @@ The conditions and duration of treatment with ziprasidone included open-label an
 Adverse reactions during exposure were obtained by collecting voluntarily reported adverse experiences, as well as results of physical examinations, vital signs, weights, laboratory analyses, ECGs, and results of ophthalmologic examinations.
 
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
-A reaction was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
+A reaction was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 
 Adverse Findings Observed in Short-Term, Placebo-Controlled Trials with Oral Ziprasidone
 

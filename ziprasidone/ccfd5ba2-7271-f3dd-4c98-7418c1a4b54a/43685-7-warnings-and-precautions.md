@@ -65,6 +65,7 @@ Ziprasidone can precipitate serotonin syndrome, a potentially life-threatening c
 The risk is increased with concomitant use of other serotonergic drugs (including selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, tramadol, meperidine, methadone, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., monoamine oxidase inhibitors (MAOIs) [see Contraindications (4.3), Adverse Reactions (6.2), Drug Interactions (7.3)].
 
 Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+
 The concomitant use of ziprasidone with MAOIs is contraindicated.
 In addition, do not initiate ziprasidone in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
 If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking ziprasidone, discontinue ziprasidone before initiating treatment with the MAOI [see Contraindications (4.3), Drug Interactions (7.3)].
@@ -142,7 +143,7 @@ Any patient treated with atypical antipsychotics should be monitored for symptom
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of antidiabetic treatment despite discontinuation of the suspect drug.
 
-Pooled data from short-term, placebo-controlled studies in schizophrenia and bipolar disorder are presented in Table 1 to 4.
+Pooled data from short-term, placebo-controlled studies in schizophrenia and bipolar disorder are presented in Tables 1 to 4.
 Note that for the flexible dose studies in both schizophrenia and bipolar disorder, each subject is categorized as having received either low (20 to 40 mg BID) or high (60 to 80 mg BID) dose based on the subject’s modal daily dose.
 In the tables showing categorical changes, the percentages (% column) are calculated as 100x(n/N).
 

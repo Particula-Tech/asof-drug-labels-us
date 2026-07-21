@@ -31,7 +31,7 @@ It is greater than 99% bound to plasma proteins, binding primarily to albumin an
 The in vitro plasma protein binding of ziprasidone was not altered by warfarin or propranolol, two highly protein-bound drugs, nor did ziprasidone alter the binding of these drugs in human plasma.
 Thus, the potential for drug interactions with ziprasidone due to displacement is minimal.
 
-Metabolism and Elimination:Ziprasidone is extensively metabolized after oral administration with only a small amount excreted in the urine (<1%) or feces (<4%) as unchanged drug.
+Metabolism and Elimination: Ziprasidone is extensively metabolized after oral administration with only a small amount excreted in the urine (<1%) or feces (<4%) as unchanged drug.
 Ziprasidone is primarily cleared via three metabolic routes to yield four major circulating metabolites, benzisothiazole (BITP) sulphoxide, BITP-­sulphone, ziprasidone sulphoxide, and S-methyl-dihydroziprasidone.
 Approximately 20% of the dose is excreted in the urine, with approximately 66% being eliminated in the feces.
 Unchanged ziprasidone represents about 44% of total drug-related material in serum.

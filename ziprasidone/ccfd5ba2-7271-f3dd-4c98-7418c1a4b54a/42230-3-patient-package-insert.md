@@ -170,7 +170,8 @@ Before taking ziprasidone capsules, tell your doctor if you
   - If you become pregnant while receiving ziprasidone capsules, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
     You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
 
-- are breastfeeding or plan to breastfeed. ziprasidone capsules can pass into your breast milk.
+- are breastfeeding or plan to breastfeed.
+  Ziprasidone can pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby if you receive ziprasidone capsules.
 
 Because ziprasidone capsules can cause sleepiness, be careful when operating machinery or driving a motor vehicle.
@@ -201,8 +202,8 @@ All registered trademarks in this document are the property of their respective 
 
 APOTEX INC. ZIPRASIDONE CAPSULES, USP 20 mg, 40 mg, 60 mg and 80 mg
 
-Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 USA, 33326
+Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: March 2025
+Revised: June 2026
 
-Revision: 20
+Revision: 21
