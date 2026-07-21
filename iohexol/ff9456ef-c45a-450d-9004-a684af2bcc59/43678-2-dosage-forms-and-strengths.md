@@ -4,4 +4,5 @@ Injection: Clear, colorless to pale yellow solution available in the following p
 
 | Dosage Form | Concentration(mg of iodine/mL) | Package Size | Package Type |
 | --- | --- | --- | --- |
-| Injection | 300 | 75 mL and 100 mL | Single-Dose Bottle |
+| Injection | 300 | 50 mL, 75 mL and 100 mL | Single-Dose Bottle |
+| 350 | 50 mL, 75 mL and 100 mL |  |  |

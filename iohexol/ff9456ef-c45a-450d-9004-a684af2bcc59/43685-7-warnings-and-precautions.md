@@ -3,7 +3,7 @@
 ## 5.1 Risks Associated with Intrathecal Administration of Iohexol Injection 140 mg Iodine/mL and 350 mg Iodine/mL
 
 Use only the iodine concentrations and presentations recommended for intrathecal procedures [see Dosage and Administration (2.2, 2.8)].
-Intrathecal administration of iohexol injection of a wrong iodine concentration, even if inadvertent, can cause death, convulsions, seizures, cerebral hemorrhage, coma, paralysis, arachnoiditis, acute renal failure, cardiac arrest, rhabdomyolysis, hyperthermia, and brain edema.
+Intrathecal administration of iohexol injection of a wrong iodine concentration, even if inadvertent, can cause death, convulsions, seizures, cerebral hemorrhage, coma, paralysis, arachnoiditis, acute renal failure, cardiac arrest, rhabdomyolysis, hyperthermia and brain edema.
 
 ## 5.2 Risks Associated with Parenteral Administration of Iohexol Oral Solution
 
@@ -13,7 +13,7 @@ Iohexol oral solution is for oral use only.
 ## 5.3 Hypersensitivity Reactions
 
 Iohexol can cause life-threatening or fatal hypersensitivity reactions including anaphylaxis.
-Manifestations include respiratory arrest, laryngospasm, bronchospasm, angioedema, and shock.
+Manifestations include respiratory arrest, laryngospasm, bronchospasm, angioedema and shock.
 Most severe reactions develop shortly after the start of the injection (within 1 to 3 minutes), but delayed reactions can also occur.
 There is an increased risk in patients with a history of a previous reaction to contrast agent and known allergic disorders (i.e., bronchial asthma, drug, or food allergies) or other hypersensitivities.
 Premedication with antihistamines or corticosteroids does not prevent serious life-threatening reactions but may reduce both their incidence and severity.
@@ -34,7 +34,7 @@ Do not use laxatives, diuretics, or preparatory dehydration prior to iohexol inj
 
 Life-threatening or fatal cardiovascular reactions including hypotension, shock, cardiac arrest have occurred with the parenteral administration of iohexol injection.
 Most deaths occur during injection or five to ten minutes later, with cardiovascular disease as the main aggravating factor.
-Cardiac decompensation, serious arrhythmias, and myocardial ischemia or infarction can occur during coronary arteriography and ventriculography.
+Cardiac decompensation, serious arrhythmias and myocardial ischemia or infarction can occur during coronary arteriography and ventriculography.
 
 Based on clinical literature, reported deaths from the administration of iodinated contrast agents range from 6.6 per million (0.00066%) to 1 in 10,000 (0.01%).
 Use the lowest necessary dose of iohexol in patients with congestive heart failure and always have emergency resuscitation equipment and trained personnel available.
@@ -44,9 +44,9 @@ Monitor all patients for severe cardiovascular reactions.
 
 Serious, rarely fatal, thromboembolic events causing myocardial infarction and stroke can occur during angiocardiography procedures with iodinated contrast agents including iohexol.
 During these procedures, increased thrombosis and activation of the complement system occurs.
-Risk factors for thromboembolic events include: length of procedure, catheter and syringe material, underlying disease state, and concomitant medications.
+Risk factors for thromboembolic events include: length of procedure, catheter and syringe material, underlying disease state and concomitant medications.
 
-To minimize thromboembolic events, use meticulous angiographic techniques, and minimize the length of the procedure.
+To minimize thromboembolic events, use meticulous angiographic techniques and minimize the length of the procedure.
 Avoid blood remaining in contact with syringes containing iohexol, which increases the risk of clotting.
 Avoid angiocardiography in patients with homocystinuria because of the risk of inducing thrombosis and embolism.
 
@@ -65,7 +65,7 @@ Evaluate the risk in such patients before use of iohexol.
 
 Thyroid dysfunction characterized by hypothyroidism or transient thyroid suppression has been reported after both single exposure and multiple exposures to iodinated contrast media (ICM) in pediatric patients 0 to 3 years of age.
 
-Younger age, very low birth weight, prematurity, underlying medical conditions affecting thyroid function, admission to neonatal or pediatric intensive care units, and congenital cardiac conditions are associated with an increased risk of hypothyroidism after ICM exposure.
+Younger age, very low birth weight, prematurity, underlying medical conditions affecting thyroid function, admission to neonatal or pediatric intensive care units and congenital cardiac conditions are associated with an increased risk of hypothyroidism after ICM exposure.
 Pediatric patients with congenital cardiac conditions may be at the greatest risk given that they often require high doses of contrast during invasive cardiac procedures.
 
 An underactive thyroid during early life may be harmful for cognitive and neurological development and may require thyroid hormone replacement therapy.
@@ -75,7 +75,7 @@ After exposure to ICM, individualize thyroid function monitoring based on underl
 
 Hypertensive crisis has occurred after the use of iodinated contrast agents in patient with pheochromocytoma.
 Monitor patients when administering iohexol injection intravenously or intra-arterially if pheochromocytoma or catecholamine-secreting paragangliomas are suspected.
-Inject the minimum amount of contrast necessary, assess the blood pressure throughout the procedure, and have measures for treatment of a hypertensive crisis readily available.
+Inject the minimum amount of contrast necessary, assess the blood pressure throughout the procedure and have measures for treatment of a hypertensive crisis readily available.
 
 ## 5.11 Sickle Cell Crisis in Patients with Sickle Cell Disease
 

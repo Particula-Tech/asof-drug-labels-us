@@ -2,8 +2,8 @@
 
 ## 2.1 Important Dosage and Administration Instructions
 
-- Specific dosage forms, concentrations, and presentations of iohexol are recommended for each type of imaging procedure [see Dosage and Administration (2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9) and Warnings and Precautions (5.1, 5.2)].
-- Individualize the volume, strength, and rate of administration of iohexol injection according to the specific dosing tables [see Dosage and Administration (2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9)].
+- Specific dosage forms, concentrations and presentations of iohexol are recommended for each type of imaging procedure [see Dosage and Administration (2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9) and Warnings and Precautions (5.1, 5.2)].
+- Individualize the volume, strength and rate of administration of iohexol injection according to the specific dosing tables [see Dosage and Administration (2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9)].
   Consider factors such as age, body weight, vessel size, blood flow rate within the vessel, anticipated pathology, degree and extent of opacification required, structures or area to be examined, disease processes affecting the patient, and equipment and technique to be employed.
 - Hydrate patients before and after administration of iohexol injection [see Warnings and Precautions (5.4)].
 - Use aseptic technique for all handling and administration of iohexol injection.
@@ -48,7 +48,7 @@ Table 2: Recommended Concentrations and Volumes of Iohexol Injection for Intra-a
 | Imaging Procedure |  | Concentration (mg Iodine/mL) | Volume to Administer per Single Injection for Selective Injection Sites | Maximum Cumulative Total Dose |
 | --- | --- | --- | --- | --- |
 | Cardiac Ventriculography |  | 350* | 40 mL (Range of 30 mL to 60 mL)may be combined with selective coronary arteriography | 250 mL |
-| Aortography and Selective Visceral Arteriography |  | 300* | Aorta (aortic arch, ascending aorta): 50 mL to 80 mLAbdominal aorta and its branches (celiac, mesenteric, hepatic, and splenic arteries): 30 mL to 60 mLRenal arteries: 5 mL to 15 mL | 290 mL |
+| Aortography and Selective Visceral Arteriography |  | 300* | Aorta (aortic arch, ascending aorta): 50 mL to 80 mLAbdominal aorta and its branches (celiac, mesenteric, hepatic and splenic arteries): 30 mL to 60 mLRenal arteries: 5 mL to 15 mL | 290 mL |
 | 350* | 250 mL |  |  |  |
 | Aortic root and arch study when used alone |  | 350* | 50 mL (Range of 20 mL to 75 mL) | 250 mL |
 | Selective Coronary Arteriography |  | 350* | 5 mL (Range of 3 mL to 14 mL) | 250 mL |
@@ -57,7 +57,7 @@ Table 2: Recommended Concentrations and Volumes of Iohexol Injection for Intra-a
 | 350* | 20 mL to 70 mL | 250 mL |  |  |
 | Selective Arteriogram | 300* | 10 mL to 60 mL | 290 mL |  |
 | 350* | 10 mL to 30 mL | 250 mL |  |  |
-| IA-DSA (head, neck, abdominal, renal, and peripheral vessels) |  | 140* | Aorta: 20 mL to 45 mL at 8 mL/sec to 20 mL/secCarotid artery: 5 mL to 10 mL at 3 mL/sec to 6 mL/secFemoral artery: 9 mL to 20 mL at 3 mL/sec to 6 mL/secVertebral artery: 4 mL to 10 mL at 2 mL/sec to 8 mL/secRenal arteries: 6 mL to 12 mL at 3 mL/sec to 6 mL/secOther branches of aorta (includes subclavian, axillary, innominate, and iliac): 8 mL to 25 mL at 3 mL/sec to 10 mL/sec | 250 mL |
+| IA-DSA (head, neck, abdominal, renal and peripheral vessels) |  | 140* | Aorta: 20 mL to 45 mL at 8 mL/sec to 20 mL/secCarotid artery: 5 mL to 10 mL at 3 mL/sec to 6 mL/secFemoral artery: 9 mL to 20 mL at 3 mL/sec to 6 mL/secVertebral artery: 4 mL to 10 mL at 2 mL/sec to 8 mL/secRenal arteries: 6 mL to 12 mL at 3 mL/sec to 6 mL/secOther branches of aorta (includes subclavian, axillary, innominate and iliac): 8 mL to 25 mL at 3 mL/sec to 10 mL/sec | 250 mL |
 | *Use single-dose containers. |  |  |  |  |
 
 ## 2.4 Recommended Dosage for Intravenous Procedures in Adults
@@ -77,7 +77,7 @@ Table 3: Recommended Concentrations and Volumes of Iohexol Injection for Intrave
 | 350** | 60 mL to 100 mL by rapid injection |  |  |
 | Peripheral Venography (phlebography) |  | 240* | 20 mL to 150 mL per leg |
 | 300* | 40 mL to 100 mL per leg |  |  |
-| IV-DSA (head, neck, abdominal, renal, and peripheral vessels) |  | 350* | 30 mL to 50 mL at 7.5 mL/sec to 30 mL/sec using a pressure injectorFrequently three or more doses may be required; the maximum cumulative total dose is 250 mL |
+| IV-DSA (head, neck, abdominal, renal and peripheral vessels) |  | 350* | 30 mL to 50 mL at 7.5 mL/sec to 30 mL/sec using a pressure injectorFrequently three or more doses may be required; the maximum cumulative total dose is 250 mL |
 | *Use single-dose containers.**Use single-dose containers. |  |  |  |
 
 ## 2.5 Recommended Dosage for Oral Procedures in Adults
@@ -95,8 +95,8 @@ Table 4: Recommended Concentrations and Volumes of Diluted Iohexol Injection and
 | Concentration(mg Iodine/mL) | Volume to Administer | Administration Instructions |
 | --- | --- | --- |
 | Oral Dose Using Diluted Iohexol Injection |  |  |
-| 6 mg Iodine/mL to 12 mg Iodine/mL of Diluted Iohexol Injection§§See Table 5 for dilutioninstructions of Iohexol injection | 500 mL to 1,000 mL | Administer the oral dose all at once or over a period of up to 45 minutes if there is difficulty in consuming the required volume.Use a higher iodine concentration of the diluted product if a smaller volume needs to be administered (see Table 5). |
-| Intravenous Dose of Iohexol injection in Conjunction with Oral Administration |  |  |
+| 6 mg Iodine/mL to 12 mg Iodine/mL of Diluted Iohexol Injection§§See Table 5 for dilution instructions of Iohexol injection | 500 mL to 1,000 mL | Administer the oral dose all at once or over a period of up to 45 minutes if there is difficulty in consuming the required volume.Use a higher iodine concentration of the diluted product if a smaller volume needs to be administered (see Table 5). |
+| Intravenous Dose of Iohexol Injection in Conjunction with Oral Administration |  |  |
 | 300** | 100 mL to 150 mL | Administer up to 40 minutes AFTER consumption of the oral dose. |
 | **Use single-dose containers. |  |  |
 
@@ -149,7 +149,7 @@ Table 7: Recommended Concentrations and Volumes of Iohexol Injection for Body Ca
 | Hysterosalpingography | 240* | 50 mL | Intrauterine |
 | *Use single-dose containers. |  |  |  |
 
-## 2.8 Recommended Dosage for Intrathecal, Intra-arterial, and Intravenous Procedures in Pediatric Patients
+## 2.8 Recommended Dosage for Intrathecal, Intra-arterial and Intravenous Procedures in Pediatric Patients
 
 Recommended Dosage for Intrathecal Procedures in Pediatric Patients Aged 2 Weeks and Older
 
@@ -179,7 +179,7 @@ Table 9: Recommended Concentrations and Volumes of Iohexol Injection per Body We
 | --- | --- | --- | --- |
 | Cardiac Ventriculography | 300* | 1.75 mL/kg(Range of 1.5 mL/kg to 2 mL/kg) | 6 mL/kg up to a total volume of 290 mL |
 | 350* | 1.25 mL/kg(Range of 1 mL/kg to 1.5 mL/kg) | 5 mL/kg up to a total volume of 250 mL |  |
-| Aortography (aortic root, aortic arch, and descending aorta) | 350* | 1 mL/kg | 5 mL/kg up to a total volume of 250 mL |
+| Aortography (aortic root, aortic arch and descending aorta) | 350* | 1 mL/kg | 5 mL/kg up to a total volume of 250 mL |
 | Pulmonary Angiography | 350* | 1 mL/kg | 5 mL/kg up to a total volume of 250 mL |
 | *Use single-dose containers. |  |  |  |
 

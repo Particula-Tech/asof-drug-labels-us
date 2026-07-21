@@ -10,11 +10,11 @@ Since concentration changes over time, iohexol provides time-dependent image con
 Intrathecal Administration
 
 The initial concentration and volume of the contrast medium, in conjunction with patient manipulation and the volume of cerebrospinal fluid (CSF) into which the contrast medium is placed, will determine the extent of the contrast that can be achieved.
-Following intrathecal injection in conventional radiography, iohexol injection 180 mg iodine/mL, 240 mg iodine/mL, and 300 mg iodine/mL will continue to provide contrast for at least 30 minutes.
+Following intrathecal injection in conventional radiography, iohexol injection 180 mg iodine/mL, 240 mg iodine/mL and 300 mg iodine/mL will continue to provide contrast for at least 30 minutes.
 Slow diffusion of iohexol takes place throughout the CSF with subsequent absorption into the bloodstream.
 At approximately 1 hour following injection, contrast will no longer be sufficient for conventional myelography.
 
-After administration into the lumbar subarachnoid space, computerized tomography shows the presence of contrast medium in the thoracic region in about 1 hour, in the cervical region in about 2 hours, and in the basal cisterns in 3 hours to 4 hours.
+After administration into the lumbar subarachnoid space, computerized tomography shows the presence of contrast medium in the thoracic region in about 1 hour, in the cervical region in about 2 hours and in the basal cisterns in 3 hours to 4 hours.
 
 Intravenous or Intra-arterial Administration
 

@@ -23,7 +23,7 @@ Adverse reactions (≥ 1%) in 1,531 adult patients following intrathecal adminis
 
 Table 16: Adverse Reactions (≥ 1%) in Adult Patients Following Intrathecal Administration of Iohexol Injection in Clinical Trials
 
-| System Organ Class | Adverse Reaction | IncidenceN=1,531 |
+| System Organ Class | Adverse Reaction | IncidenceN = 1,531 |
 | --- | --- | --- |
 | Nervous system disorders | Headaches | 18% |
 | Musculoskeletal and connective tissue disorders | Pain including backache, neckache, stiffness, neuralgia | 8% |
@@ -59,7 +59,7 @@ Adverse reactions (≥ 1%) are presented in Table 17.
 
 Table 17: Adverse Reactions (≥ 1%) in Pediatric Patients Following Intrathecal Administration of Iohexol Injection 180 mg iodine/mL by Lumbar Puncture for Myelography in Clinical Trials
 
-| System Organ Class | Adverse Reaction | IncidenceN=152 |
+| System Organ Class | Adverse Reaction | IncidenceN = 152 |
 | --- | --- | --- |
 | Nervous system disorders | Headache | 9% |
 | Gastrointestinal disorders | Vomiting | 6% |
@@ -85,7 +85,7 @@ Adverse reactions (≥ 1%) in 1,485 adult patients following intra-arterial or i
 
 Table 18: Adverse Reactions (≥ 1%) in Adult Patients Following Intra-arterial or Intravenous Administration of Iohexol Injection in Clinical Trials
 
-| System Organ Class | Adverse Reaction | Incidence(N=1,485) |
+| System Organ Class | Adverse Reaction | Incidence(N = 1,485) |
 | --- | --- | --- |
 | Cardiac disorders | Arrhythmias including PVCs and PACs | 2% |
 | Nervous system disorders | Pain | 3% |
@@ -114,7 +114,7 @@ Psychiatric disorders: anxiety, syncope
 Pediatric Patients
 
 Adverse reactions reported in pediatric patients following intra-arterial or intravenous administration of iohexol injection were generally similar in quality and frequency to those reported in adults.
-A total of 391 pediatric patients in clinical trials were administered iohexol injection 240 mg iodine/mL, 300 mg iodine/mL, or 350 mg iodine/mL by intra-arterial or intravenous injection for pediatric cardiac ventriculography, excretory urography, and CT head imaging.
+A total of 391 pediatric patients in clinical trials were administered iohexol injection 240 mg iodine/mL, 300 mg iodine/mL, or 350 mg iodine/mL by intra-arterial or intravenous injection for pediatric cardiac ventriculography, excretory urography and CT head imaging.
 
 Adverse reactions (≥ 1%) were vomiting (2%) and nausea (1%).
 
@@ -141,7 +141,7 @@ Adverse reactions (≥ 1%) are presented in Table 19.
 
 Table 19: Adverse Reactions (≥ 1%) in Adult Patients Following Oral Administration of Undiluted Iohexol Injection 350 mg Iodine/mL in Clinical Trials
 
-| System Organ Class | Adverse Reaction | Incidence N=54 |
+| System Organ Class | Adverse Reaction | Incidence N = 54 |
 | --- | --- | --- |
 | Gastrointestinal disorders | Diarrhea | 42% |
 | Nausea | 15% |  |
@@ -157,7 +157,7 @@ Adverse reactions (≥ 1%) are presented in Table 20.
 
 Table 20: Adverse Reactions (≥ 1%) in Pediatric Patients Following Oral or Rectal Administration of Iohexol Injection in Clinical Trials
 
-| System Organ Class | Adverse Reaction | Incidence N=58 |
+| System Organ Class | Adverse Reaction | Incidence N = 58 |
 | --- | --- | --- |
 | Gastrointestinal disorders | Diarrhea | 36% |
 | Vomiting | 9% |  |
