@@ -43,7 +43,7 @@ Safety and effectiveness of metformin hydrochloride tablets have not been establ
 Use of metformin hydrochloride tablets in pediatric patients 10 to 16 years old for the treatment of type 2 diabetes mellitus is supported by evidence from adequate and well-controlled studies of metformin hydrochloride tablets in adults with additional data from a controlled clinical study in pediatric patients 10 to 16 years old with type 2 diabetes mellitus, which demonstrated a similar response in glycemic control to that seen in adults [see Clinical Studies (14.1)].
 In this study, adverse reactions were similar to those described in adults.
 A maximum daily dose of 2000 mg of metformin hydrochloride tablets is recommended.
-[See Dosage and Administration (2.2)]
+[See Dosage and Administration (2.2)].
 
 ## 8.5 Geriatric Use
 
@@ -53,8 +53,10 @@ Assess renal function more frequently in elderly patients [see Warnings and Prec
 
 ## 8.6 Renal Impairment
 
-Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment. metformin hydrochloride tablets are contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m 2 [see Dosage and Administration (2.3), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
+Metformin hydrochloride tablets are contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m 2​​​​​​​ [see Dosage and Administration (2.3), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology 12.3)].
 
 ## 8.7 Hepatic Impairment
 
-Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis. metformin hydrochloride tablets is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1)].
+Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
+Metformin hydrochloride tablets is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1)].

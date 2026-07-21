@@ -14,18 +14,9 @@ Vitamin B 12 Deficiency: Inform patients about importance of regular hematologic
 
 Females of Reproductive Age: Inform females that treatment with metformin hydrochloride tablets may result in ovulation in some premenopausal anovulatory women which may lead to unintended pregnancy [see Use in Specific Populations (8.3)].
 
-Manufactured by:
-
-Chartwell Pharmaceuticals, LLC.
-
-Congers, NY 10920
-
-Manufactured for:
-
-Chartwell RX, LLC.
-
+Manufactured for: Chartwell RX, LLC.
 Congers, NY 10920
 
 L70824
 
-Rev: 03/2022
+Revision 01

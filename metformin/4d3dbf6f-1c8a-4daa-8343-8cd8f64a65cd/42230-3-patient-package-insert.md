@@ -12,8 +12,7 @@ What is the most important information I should know about metformin hydrochlori
 
 Serious side effects can happen in people taking metformin hydrochloride tablets, including:
 
-Lactic Acidosis.
-Metformin hydrochloride, the medicine in metformin hydrochloride tablets, can cause a rare, but serious, side effect called lactic acidosis (a build-up of lactic acid in the blood) that can cause death.
+Lactic Acidosis.Metformin hydrochloride, the medicine in metformin hydrochloride tablets, can cause a rare, but serious, side effect called lactic acidosis (a build-up of lactic acid in the blood) that can cause death.
 Lactic acidosis is a medical emergency and must be treated in a hospital.
 
 Stop taking metformin hydrochloride tablets and call your healthcare provider right away if you get any of the following symptoms of lactic acidosis:
@@ -64,7 +63,7 @@ Do not take metformin hydrochloride tablets if you:
   See the end of this leaflet for a complete list of ingredients in metformin hydrochloride tablets.
 - are going to get an injection of dye or contrast agents for an x-ray procedure or if you are going to have surgery and not able to eat or drink much.
   In these situations, metformin hydrochloride tablets will need to be stopped for a short time.
-  Talk to your healthcare provider about when you should stop metformin hydrochloride tablets and when you should metformin hydrochloride tablets again.
+  Talk to your healthcare provider about when you should stop metformin hydrochloride tablets and when you should start metformin hydrochloride tablets again.
   See “What is the most important information I should know about metformin hydrochloride tablets?”
 
 What should I tell my healthcare provider before taking metformin hydrochloride tablets?
@@ -87,10 +86,11 @@ Before taking metformin hydrochloride tablets, tell your healthcare provider if 
   It is not known if metformin hydrochloride tablets will harm your unborn baby.
   If you are pregnant, talk with your healthcare provider about the best way to control your blood sugar while you are pregnant.
 - are breast-feeding or plan to breast-feed.
-  It is not known if metformin hydrochloride tablets passes into your breast milk.
-  Talk with your healthcare provider about the best way to feed your baby while you take metformin hydrochloride tablets.
+  It is not known if metformin hydrochloride passes into your breast milk.
+  Talk with your healthcare provider about the best way to feed your baby while you take metformin hydrochloride.
+- have a genetically inherited disease affecting mitochondria (the energy-producing parts within cells) such as MELAS syndrome and MIDD.
 
-Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take,including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Know the medicines you take.
 Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
 
@@ -197,18 +197,9 @@ High blood sugar can be lowered by diet and exercise, and by certain medicines w
 
 Talk to your healthcare provider about how to prevent, recognize, and take care of low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and problems you have because of your diabetes.
 
-Manufactured by:
-
-Chartwell Pharmaceuticals, LLC.
-
-Congers, NY 10920
-
-Manufactured for:
-
-Chartwell RX, LLC.
-
-Congers, NY 10920
+Manufactured for: Chartwell RX, LLC. ​​​​​​​Congers, NY 10920
 
 L70825
 
-Rev: 03/2022
+Rev.
+07/2026-01

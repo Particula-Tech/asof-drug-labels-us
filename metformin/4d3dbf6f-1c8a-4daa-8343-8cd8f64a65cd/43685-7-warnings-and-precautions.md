@@ -15,15 +15,15 @@ Educate patients and their families about the symptoms of lactic acidosis and, i
 
 For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
 
-- Renal impairment—The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
-  The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
-  Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.1) and Clinical Pharmacology (12.3)]
-  - Before initiating metformin hydrochloride tablets, obtain an estimated glomerular filtration rate (eGFR).
-  - Metformin hydrochloride tablets are contraindicated in patients with an eGFR less than 30 mL/min/1.73 m 2 [see Contraindications (4)]
-  - Initiation of metformin hydrochloride tablets is not recommended in patients with eGFR between 30-45 mL/min/1.73 m 2.
-  - Obtain an eGFR at least annually in all patients taking metformin hydrochloride tablets.
-    In patients at risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
-  - In patients taking metformin hydrochloride tablets whose eGFR falls below 45 mL/min/1.73 m 2, assess the benefit and risk of continuing therapy.
+- Renal impairment — The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment. ​​​​​​​ The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
+  Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)]
+- Before initiating metformin hydrochloride tablets, obtain an estimated glomerular filtration rate (eGFR).
+- Metformin hydrochloride tablets are contraindicated in patients with an eGFR less than 30 mL/min/1.73 m 2 [see Contraindications (4)]
+- Initiation of metformin hydrochloride tablets is not recommended in patients with eGFR between 30-45 mL/min/1.73 m 2.
+- Obtain an eGFR at least annually in all patients taking metformin hydrochloride tablets.
+  In patients at risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
+- In patients taking metformin hydrochloride tablets whose eGFR falls below 45 mL/min/1.73 m 2, assess the benefit and risk of continuing therapy.
+
 - Drug interactions — The concomitant use of metformin hydrochloride tablets with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance, or increase metformin accumulation.
   Consider more frequent monitoring of patients.
 - Age 65 or greater — The risk of metformin-associated lactic acidosis increases with the patient’s age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
@@ -41,13 +41,17 @@ For each of the known and possible risk factors for metformin-associated lactic 
 - Hepatic impairment — Patients with hepatic impairment have developed cases of metformin-associated lactic acidosis.
   This may be due to impaired lactate clearance resulting in higher lactate blood levels.
   Therefore, avoid use of metformin hydrochloride tablets in patients with clinical or laboratory evidence of hepatic disease.
+- Mitochondrial Diseases— Metformin may increase the risk of lactic acidosis in patients with mitochondrial diseases such as mitochondrial encephalomyopathy with lactic acidosis, and stroke-like episodes (MELAS) syndrome and maternally inherited diabetes and deafness (MIDD).
+  Metformin hydrochloride tablets is not recommended in patients with mitochondrial diseases such as MELAS syndrome and MIDD.
+  If a patient taking metformin hydrochloride tablets develops elevated lactic acid levels (with or without accompanying neurologic signs and symptoms), discontinue metformin hydrochloride tablets.
+  Depending on the clinical context, consider evaluating the patient for MELAS, MIDD, or other mitochondrial disease.
 
-## 5.2 Vitamin B 12 Deficiency
+## 5.2 Vitamin B 12Deficiency
 
 In metformin hydrochloride tablets clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B 12 levels was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B 12 absorption from the B 12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin hydrochloride tablets or vitamin B 12 supplementation.
 Certain individuals (those with inadequate vitamin B 12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B 12 levels.
-Measure hematologic parameters on an annual basis and vitamin B 12 at 2 to 3 year intervals in patients on metformin hydrochloride tablets and manage any abnormalities [see Adverse Reactions(6.1)].
+Measure hematologic parameters on an annual basis and vitamin B 12 at 2 to 3 year intervals in patients on metformin hydrochloride tablets and manage any abnormalities [see Adverse Reactions (6.1)].
 
 ## 5.3 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 

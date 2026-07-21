@@ -2,7 +2,7 @@
 
 The following adverse reactions are also discussed elsewhere in the labeling:
 
-- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
+- Lactic Acidosis [see Boxed Warningand Warnings and Precautions (5.1)]
 - Vitamin B 12 Deficiency [see Warnings and Precautions (5.2)]
 - Hypoglycemia [see Warnings and Precautions (5.3)]
 

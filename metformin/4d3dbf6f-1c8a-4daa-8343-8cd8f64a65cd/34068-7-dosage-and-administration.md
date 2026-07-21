@@ -15,15 +15,11 @@ Metformin hydrochloride tablets
 
 ## 2.3 Recommendations for Use in Renal Impairment
 
-Assess renal function prior to initiation of metformin hydrochloride tablets and periodically thereafter.
-
-Metformin hydrochloride tablets is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/minute/1.73 m 2.
-
-Initiation of metformin hydrochloride tablets in patients with an eGFR between 30 – 45 mL/minute/1.73 m 2 is not recommended.
-
-In patients taking metformin hydrochloride tablets whose eGFR later falls below 45 mL/min/1.73 m 2, assess the benefit risk of continuing therapy.
-
-Discontinue metformin hydrochloride tablets if the patient’s eGFR later falls below 30 mL/minute/1.73 m 2 [see Warnings and Precautions (5.1)]
+- Assess renal function prior to initiation of metformin hydrochloride tablets and periodically thereafter.
+- Metformin hydrochloride tablets is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/minute/1.73 m 2.
+- Initiation of metformin hydrochloride tablets in patients with an eGFR between 30 – 45 mL/minute/1.73 m 2 is not recommended.
+- In patients taking metformin hydrochloride tablets whose eGFR later falls below 45 mL/min/1.73 m 2, assess the benefit risk of continuing therapy.
+- Discontinue metformin hydrochloride tablets if the patient’s eGFR later falls below 30 mL/minute/1.73 m 2 [see Warnings and Precautions (5.1)].
 
 ## 2.4 Discontinuation for Iodinated Contrast Imaging Procedures
 

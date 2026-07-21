@@ -8,7 +8,7 @@ No evidence of carcinogenicity with metformin was found in either male or female
 Similarly, there was no tumorigenic potential observed with metformin in male rats.
 There was, however, an increased incidence of benign stromal uterine polyps in female rats treated with 900 mg/kg/day.
 
-There was no evidence of a mutagenic potential of metformin in the following in vitro tests: Ames test (S. typhimurium), gene mutation test (mouse lymphoma cells), or chromosomal aberrations test (human lymphocytes).
-Results in the in vivo mouse micronucleus test were also negative.
+There was no evidence of a mutagenic potential of metformin in the following in vitrotests: Ames test (S. typhimurium), gene mutation test (mouse lymphoma cells), or chromosomal aberrations test (human lymphocytes).
+Results in the in vivomouse micronucleus test were also negative.
 
 Fertility of male or female rats was unaffected by metformin when administered at doses as high as 600 mg/kg/day, which is approximately 2 times the maximum recommended human daily dose of 2550 mg based on body surface area comparisons.

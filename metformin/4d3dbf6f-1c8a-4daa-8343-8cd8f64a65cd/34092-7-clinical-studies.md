@@ -10,10 +10,9 @@ Table 7: Mean Change in Fasting Plasma Glucose and HbA1c at Week 29 Comparing Me
 
 |  | Metformin Hydrochloride Tablets (n=141) | Placebo (n=145) | p-Value |
 | --- | --- | --- | --- |
-| FPG (mg/dL) Baseline Change at FINAL VISIT | 241.5 53.0 | 237.7 6.3 | NS* 0.001 |
-| Hemoglobin A1c (%) Baseline Change at FINAL VISIT | 8.4 1.4 | 8.2 0.4 | NS* 0.001 |
-
-* Not statistically significant
+| FPG (mg/dL) Baseline Change at FINAL VISIT | 241.5 -53.0 | 237.7 6.3 | NS* 0.001 |
+| Hemoglobin A1c (%) Baseline Change at FINAL VISIT | 8.4 -1.4 | 8.2 0.4 | NS* 0.001 |
+| * Not statistically significant |  |  |  |
 
 Mean baseline body weight was 201 lbs and 206 lbs in the metformin hydrochloride tablets and placebo arms, respectively.
 Mean change in body weight from baseline to week 29 was -1.4 lbs and -2.4 lbs in the metformin hydrochloride tablets and placebo arms, respectively.
@@ -33,8 +32,7 @@ Table 8: Mean Change in Fasting Plasma Glucose and HbA1c at Week 29 Comparing Me
 |  | Comb(n=213) | Glyb(n=209) | MET(n=210) | Glyb vs Comb | MET vs Comb | MET vs Glyb |
 | Fasting Plasma Glucose (mg/dL) Baseline Change at FINAL VISIT | 250.5-63.5 | 247.513.7 | 253.9-0.9 | NS*0.001 | NS*0.001 | NS*0.025 |
 | Hemoglobin A1c (%) Baseline Change at FINAL VISIT | 8.8-1.7 | 8.50.2 | 8.9-0.4 | NS*0.001 | NS*0.001 | 0.0070.001 |
-
-* Not statistically significant
+| * Not statistically significant |  |  |  |  |  |  |
 
 Mean baseline body weight was 202 lbs, 203 lbs, and 204 lbs in the metformin hydrochloride tablets/glyburide, glyburide, and metformin hydrochloride tablets arms, respectively.
 Mean change in body weight from baseline to week 29 was 0.9 lbs, -0.7 lbs, and -8.4 lbs in the metformin hydrochloride tablets/glyburide, glyburide, and metformin hydrochloride tablets arms, respectively.
@@ -44,37 +42,13 @@ Pediatric Clinical Studies
 A double-blind, placebo-controlled study in pediatric patients aged 10 to 16 years with type 2 diabetes mellitus (mean FPG 182.2 mg/dL), treatment with metformin hydrochloride tablets (up to 2000 mg/day) for up to 16 weeks (mean duration of treatment 11 weeks) was conducted.
 The results are displayed in Table 9.
 
-Table 9: Mean Change in Fasting Plasma Glucose at Week 16 Comparing Metformin Hydrochloride Tablets vs Placebo in Pediatric Patients a with Type 2 Diabetes Mellitus
+Table 9: Mean Change in Fasting Plasma Glucose at Week 16 Comparing Metformin Hydrochloride Tablets vs Placebo in Pediatric Patients awith Type 2 Diabetes Mellitus
 
 |  | Metformin Hydrochloride | Placebo | p-Value |
 | --- | --- | --- | --- |
 | FPG (mg/dL) | (n=37) | (n=36) | - |
-| Baseline Change at FINAL VISIT | 162.4 42.9 | 192.3 21.4 | <0.001 |
-
-aPediatric patients mean age 13.8 years (range 10-16 years)
+| Baseline Change at FINAL VISIT | 162.4 -42.9 | 192.3 21.4 | <0.001 |
+| a Pediatric patients mean age 13.8 years (range 10-16 years) |  |  |  |
 
 Mean baseline body weight was 205 lbs and 189 lbs in the metformin hydrochloride tablets and placebo arms, respectively.
 Mean change in body weight from baseline to week 16 was -3.3 lbs and -2.0 lbs in the metformin hydrochloride tablets and placebo arms, respectively.
-
-## 14.2 Metformin Hydrochloride Extended-Release Tablets
-
-A 24-week, double-blind, randomized study of metformin hydrochloride extended-release tablets, taken once daily with the evening meal, and metformin hydrochloride tablets, taken twice daily (with breakfast and evening meal), was conducted in patients with type 2 diabetes mellitus who had been treated with metformin hydrochloride tablets 500 mg twice daily for at least 8 weeks prior to study entry.
-The results are shown in Table 11.
-
-Table 11: Mean Changes from Baseline* in HbA1c and Fasting Plasma Glucose at Week 24 Comparing Metformin Hydrochloride Extended-Release Tablets vs Metformin Hydrochloride Tablets in Patients with Type 2 Diabetes Mellitus
-
-|  | Metformin Hydrochloride Tablets 500 mg Twice Daily | Metformin Hydrochloride Extended-Release Tablets |  |
-| --- | --- | --- | --- |
-|  |  | 1000 mgOnce Daily | 1500 mgOnce Daily |
-| Hemoglobin A1c (%) | (n=67) | (n=72) | (n=66) |
-| Baseline | 7.06 | 6.99 | 7.02 |
-| Change at FINAL VISIT (95% CI) | 0.14 a (-0.04,0.31) | 0.27 (0.11,0.43) | 0.13 (-0.02,0.28) |
-| FPG (mg/dL) | (n=69) | (n=72) | (n=70) |
-| Baseline | 127.2 | 131.0 | 131.4 |
-| Change at FINAL VISIT | 14.0 | 11.5 | 7.6 |
-| (95% CI) | (7.0,21.0) | (4.4,18.6) | (1.0,14.2) |
-
-a n=68
-
-Mean baseline body weight was 210 lbs, 203 lbs and 193 lbs in the metformin hydrochloride tablets 500 mg twice daily, and metformin hydrochloride extended-release tablets 1000 mg and 1500 mg once daily arms, respectively.
-Mean change in body weight from baseline to week 24 was 0.9 lbs, 1.1 lbs and 0.9 lbs, respectively.
