@@ -2,11 +2,11 @@
 
 Paclitaxel Injection USP is available as follows:
 
-| NDC 0703-3213-01 | 30 mg/5 mL | Multidose vial individually packaged in a carton. |
+| NDC 0703-3213-01 | 30 mg/5 mL | Carton containing 1 multiple-dose vial. |
 | --- | --- | --- |
-| NDC 0703-3216-01 | 100 mg/16.7 mL | Multidose vial individually packaged in a carton. |
-| NDC 0703-3217-01 | 150 mg/25 mL | Multidose vial individually packaged in a carton. |
-| NDC 0703-3218-01 | 300 mg/50 mL | Multidose vial individually packaged in a carton. |
+| NDC 0703-3216-01 | 100 mg/16.7 mL | Carton containing 1 multiple-dose vial. |
+| NDC 0703-3217-01 | 150 mg/25 mL | Carton containing 1 multiple-dose vial. |
+| NDC 0703-3218-01 | 300 mg/50 mL | Carton containing 1 multiple-dose vial. |
 
 ## Storage
 

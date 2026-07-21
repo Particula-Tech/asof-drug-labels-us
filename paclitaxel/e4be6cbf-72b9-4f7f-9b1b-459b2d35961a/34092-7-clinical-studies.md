@@ -56,6 +56,10 @@ TABLE 2B: EFFICACY IN THE PHASE 3 FIRST-LINE OVARIAN CARCINOMA INTERGROUP STUDY
 | b Among patients with measurable disease only. |  |  |  |
 | c Unstratified. |  |  |  |
 
+FIGURE 1: SURVIVAL: Cc VERSUS Tc (INTERGROUP)
+
+FIGURE 2: SURVIVAL: Cc VERSUS Tc (GOG-111)
+
 The adverse event profile for patients receiving paclitaxel in combination with cisplatin in these studies was qualitatively consistent with that seen for the pooled analysis of data from 812 patients treated with single-agent paclitaxel in 10 clinical studies.
 These adverse events and adverse events from the Phase 3 first-line ovarian carcinoma studies are described in the ADVERSE REACTIONS section in tabular (TABLES 10 and 11) and narrative form.
 
@@ -126,6 +130,10 @@ For disease-free survival and overall survival, p-values were not adjusted for i
 Kaplan-Meier curves are shown in FIGURES 3 and 4.
 Increasing the dose of doxorubicin higher than 60 mg/m2 had no effect on either disease-free survival or overall survival.
 
+FIGURE 3: DISEASE-FREE SURVIVAL: AC VERSUS AC+T
+
+FIGURE 4: SURVIVAL: AC VERSUS AC+T
+
 #### Subset Analyses
 
 Subsets defined by variables of known prognostic importance in adjuvant breast carcinoma were examined, including number of positive lymph nodes, tumor size, hormone receptor status, and menopausal status.
@@ -156,10 +164,18 @@ TABLE 4: SUBSET ANALYSES—ADJUVANT BREAST CARCINOMA STUDY
 | b Negative or missing for both estrogen and progesterone receptors (both missing: n = 15). |  |  |  |  |  |
 
 These retrospective subgroup analyses suggest that the beneficial effect of paclitaxel is clearly established in the receptor-negative subgroup, but the benefit in receptor-positive patients is not yet clear.
-With respect to menopausal status, the benefit of paclitaxel is consistent (see TABLE 4 and FIGURES 5to8).
+With respect to menopausal status, the benefit of paclitaxel is consistent (see TABLE 4 and FIGURES 5 to 8).
 
 The adverse event profile for the patients who received paclitaxel subsequent to AC was consistent with that seen in the pooled analysis of data from 812 patients (TABLE 10) treated with single-agent paclitaxel in 10 clinical studies.
 These adverse events are described in the ADVERSE REACTIONS section in tabular (TABLES 10 and 13) and narrative form.
+
+FIGURE 5: DISEASE-FREE SURVIVAL—RECEPTOR STATUS NEGATIVE/UNKNOWN AC VERSUS AC+T
+
+FIGURE 6: DISEASE-FREE SURVIVAL—RECEPTOR STATUS POSITIVE AC VERSUS AC+T
+
+FIGURE 7: DISEASE-FREE SURVIVAL—PREMENOPAUSAL AC VERSUS AC+T
+
+FIGURE 8: DISEASE-FREE SURVIVAL—POSTMENOPAUSAL AC VERSUS AC+T
 
 ## After Failure of Initial Chemotherapy
 

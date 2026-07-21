@@ -19,7 +19,7 @@
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
 Rev.
-C 7/2015
+D 6/2026
 
 Manufactured In The Netherlands By: Pharmachemie B.V.
 Haarlem, The Netherlands

@@ -8,18 +8,21 @@ Such premedication may consist of dexamethasone 20 mg PO administered approximat
 
 For patients with carcinoma of the ovary, the following regimens are recommended (see CLINICAL STUDIES, Ovarian Carcinoma):
 
-1. For previously untreated patients with carcinoma of the ovary, one of the following recommended regimens may be given every 3 weeks.
-   In selecting the appropriate regimen, differences in toxicities should be considered (see TABLE 11 in ADVERSE REACTIONS, Disease-Specific Adverse Event Experiences).
-   - Paclitaxel injection administered intravenously over 3 hours at a dose of 175 mg/m2 followed by cisplatin at a dose of 75 mg/m2; or
-   - Paclitaxel injection administered intravenously over 24 hours at a dose of 135 mg/m2 followed by cisplatin at a dose of 75 mg/m2.
-2. In patients previously treated with chemotherapy for carcinoma of the ovary, paclitaxel injection has been used at several doses and schedules; however, the optimal regimen is not yet clear (see CLINICAL STUDIES, Ovarian Carcinoma).
-   The recommended regimen is paclitaxel injection 135 mg/m2 or 175 mg/m2 administered intravenously over 3 hours every 3 weeks.
+1) For previously untreated patients with carcinoma of the ovary, one of the following recommended regimens may be given every 3 weeks.
+In selecting the appropriate regimen, differences in toxicities should be considered (see TABLE 11 in ADVERSE REACTIONS, Disease-Specific Adverse Event Experiences).
+
+1. Paclitaxel injection administered intravenously over 3 hours at a dose of 175 mg/m2 followed by cisplatin at a dose of 75 mg/m2; or
+2. Paclitaxel injection administered intravenously over 24 hours at a dose of 135 mg/m2 followed by cisplatin at a dose of 75 mg/m2.
+
+2) In patients previously treated with chemotherapy for carcinoma of the ovary, paclitaxel injection has been used at several doses and schedules; however, the optimal regimen is not yet clear (see CLINICAL STUDIES, Ovarian Carcinoma).
+The recommended regimen is paclitaxel injection 135 mg/m2 or 175 mg/m2 administered intravenously over 3 hours every 3 weeks.
 
 For patients with carcinoma of the breast, the following is recommended (see CLINICAL STUDIES, Breast Carcinoma):
 
-1. For the adjuvant treatment of node-positive breast cancer, the recommended regimen is paclitaxel injection, at a dose of 175 mg/m2 intravenously over 3 hours every 3 weeks for 4 courses administered sequentially to doxorubicin-containing combination chemotherapy.
-   The clinical trial used 4 courses of doxorubicin and cyclophosphamide (see CLINICAL STUDIES, Breast Carcinoma).
-2. After failure of initial chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy, paclitaxel injection at a dose of 175 mg/m2 administered intravenously over 3 hours every 3 weeks has been shown to be effective.
+1) For the adjuvant treatment of node-positive breast cancer, the recommended regimen is paclitaxel injection, at a dose of 175 mg/m2 intravenously over 3 hours every 3 weeks for 4 courses administered sequentially to doxorubicin-containing combination chemotherapy.
+The clinical trial used 4 courses of doxorubicin and cyclophosphamide (see CLINICAL STUDIES, Breast Carcinoma).
+
+2) After failure of initial chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy, paclitaxel injection at a dose of 175 mg/m2 administered intravenously over 3 hours every 3 weeks has been shown to be effective.
 
 For patients with non-small cell lung carcinoma, the recommended regimen, given every 3 weeks, is paclitaxel injection administered intravenously over 24 hours at a dose of 135 mg/m2 followed by cisplatin, 75 mg/m2.
 
@@ -29,10 +32,13 @@ In addition, all patients with low performance status were treated with the latt
 
 Based upon the immunosuppression in patients with advanced HIV disease, the following modifications are recommended in these patients:
 
-1. Reduce the dose of dexamethasone as 1 of the 3 premedication drugs to 10 mg PO (instead of 20 mg PO);
-2. Initiate or repeat treatment with paclitaxel injection only if the neutrophil count is at least 1000 cells/mm3;
-3. Reduce the dose of subsequent courses of paclitaxel injection by 20% for patients who experience severe neutropenia (neutrophil < 500 cells/mm3 for a week or longer); and
-4. Initiate concomitant hematopoietic growth factor (G-CSF) as clinically indicated.
+1) Reduce the dose of dexamethasone as 1 of the 3 premedication drugs to 10 mg PO (instead of 20 mg PO);
+
+2) Initiate or repeat treatment with paclitaxel injection only if the neutrophil count is at least 1000 cells/mm3;
+
+3) Reduce the dose of subsequent courses of paclitaxel injection by 20% for patients who experience severe neutropenia (neutrophil < 500 cells/mm3 for a week or longer); and
+
+4) Initiate concomitant hematopoietic growth factor (G-CSF) as clinically indicated.
 
 For the therapy of patients with solid tumors (ovary, breast, and NSCLC), courses of paclitaxel injection should not be repeated until the neutrophil count is at least 1500 cells/mm3 and the platelet count is at least 100,000 cells/mm3.
 Paclitaxel injection should not be given to patients with AIDS-related Kaposi’s sarcoma if the baseline or subsequent neutrophil count is less than 1000 cells/mm3.

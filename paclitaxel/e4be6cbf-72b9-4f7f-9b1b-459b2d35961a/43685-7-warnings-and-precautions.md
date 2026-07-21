@@ -104,14 +104,11 @@ Paclitaxel has been shown to be clastogenic in vitro (chromosome aberrations in 
 Paclitaxel was not mutagenic in the Ames test or the CHO/HGPRT gene mutation assay.
 
 Administration of paclitaxel prior to and during mating produced impairment of fertility in male and female rats at doses equal to or greater than 1 mg/kg/day (about 0.04 the daily maximum recommended human dose on a mg/m2 basis).
-At this dose, to or greater than 1 mg/kg/day (about 0.04 the daily maximum recommended human on a mg/m2 basis).
 At this dose, paclitaxel caused reduced fertility and reproductive indices, and increased embryo- and fetotoxicity (see WARNINGS).
 
 ## Pregnancy
 
 ### Teratogenic Effects
-
-#### Pregnancy Category D
 
 (See WARNINGS.)
 

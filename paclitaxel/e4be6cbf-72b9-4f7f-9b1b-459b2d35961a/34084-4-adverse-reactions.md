@@ -363,6 +363,7 @@ In the adjuvant breast carcinoma trial, the incidence of severe thrombocytopenia
 
 Anemia (Hb < 11 g/dL) was observed in 78% of all patients and was severe (Hb < 8 g/dL) in 16% of the cases.
 No consistent relationship between dose or schedule and the frequency of anemia was observed.
+Red cell transfusions were required in 25% of all hemoglobin, 69% became anemic on study but only 7% had severe anemia.
 Among all patients with normal baseline hemoglobin, 69% became anemic on study but only 7% had severe anemia.
 Red cell transfusions were required in 25% of all patients and in 12% of those with normal baseline hemoglobin levels.
 
@@ -418,7 +419,7 @@ Pleural effusion and respiratory failure have been reported.
 
 ### Neurologic
 
-The assessment of neurologic toxicity was conducted differently among the studies as evident from the data reported in each individual study (see TABLES 10to16).
+The assessment of neurologic toxicity was conducted differently among the studies as evident from the data reported in each individual study (see TABLES 10 to 16).
 Moreover, the frequency and severity of neurologic manifestations were influenced by prior and/or concomitant therapy with neurotoxic agents.
 
 In general, the frequency and severity of neurologic manifestations were dose-dependent in patients receiving single-agent paclitaxel.

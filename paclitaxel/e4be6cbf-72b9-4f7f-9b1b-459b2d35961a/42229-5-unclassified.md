@@ -1,7 +1,3 @@
-# PRINCIPAL DISPLAY PANEL
-
 3213 3216 3217 3218
 
-Rx Only
-
-(Patient Information Included)
+Rx Only (Patient Information Included)

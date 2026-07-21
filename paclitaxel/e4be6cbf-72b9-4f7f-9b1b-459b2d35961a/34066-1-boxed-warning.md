@@ -1,4 +1,4 @@
-# WARNING
+WARNING
 
 Paclitaxel injection should be administered under the supervision of a physician experienced in the use of cancer chemotherapeutic agents.
 Appropriate management of complications is possible only when adequate diagnostic and treatment facilities are readily available.
