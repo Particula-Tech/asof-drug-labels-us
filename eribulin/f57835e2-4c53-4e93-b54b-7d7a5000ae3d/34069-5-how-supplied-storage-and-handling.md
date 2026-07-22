@@ -3,6 +3,7 @@
 NDC 68083-592-01
 
 Eribulin Mesylate Injection: 1 mg/2 mL (0.5 mg/mL) single-dose vial.
+
 Discard unused portion.
 One vial per carton.
 Eribulin mesylate injection is a clear, colorless solution.

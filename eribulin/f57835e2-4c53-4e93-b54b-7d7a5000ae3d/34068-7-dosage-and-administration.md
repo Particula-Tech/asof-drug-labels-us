@@ -31,15 +31,15 @@ Table 1: Recommended Dose Reductions
 
 | Event Description | Recommended Eribulin Mesylate Injection Dose |
 | --- | --- |
-| Permanently reduce the 1.4 mg/m2 Eribulin Mesylate Injection dose for any of the following: | 1.1 mg/m2 |
+| Permanently reduce the 1.4 mg/m2 eribulin mesylate injection dose for any of the following: | 1.1 mg/m2 |
 | ANC <500/mm3 for >7 days |  |
 | ANC <1,000 /mm3 with fever or infection |  |
 | Platelets <25,000/mm3 |  |
 | Platelets <50,000/mm3 requiring transfusion |  |
 | Non-hematologic Grade 3 or 4 toxicities |  |
-| Omission or delay of Day 8 eribulin mesylate injection dose inprevious cycle for toxicity |  |
+| Omission or delay of Day 8 eribulin mesylate injection dose in previous cycle for toxicity |  |
 | Occurrence of any event requiring permanent dose reduction while receiving 1.1 mg/m2 | 0.7 mg/m2 |
-| Occurrence of any event requiring permanent dose reduction whilereceiving 0.7 mg/m2 | Discontinue Eribulin Mesylate Injection |
+| Occurrence of any event requiring permanent dose reduction while receiving 0.7 mg/m2 | Discontinue eribulin mesylate injection |
 | ANC = absolute neutrophil count. Toxicities graded in accordance with National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 3.0. |  |
 
 ## 2.3 Instructions for Preparation and Administration

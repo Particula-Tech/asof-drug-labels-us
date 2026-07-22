@@ -20,13 +20,11 @@ Lactation
 
 Advise women not to breastfeed during treatment with eribulin mesylate and for 2 weeks after the final dose [see Use in Specific Populations (8.2)].
 
-Manufactured by: Gland Pharma Limited Visakhapatnam-530049 Andhra Pradesh, India.
+Manufactured by: Gland Pharma Limited Unit-II, Block-C, Phase-I, VSEZ, Duvvada, Visakhapatnam-530049, Andhra Pradesh, India.
 
-Revised: 05/2023
+Revised: 07/2026
 
-ERIBULIN MESYLATE (ER-i-BUE-lin MES-i-late)
-
-injection, for intravenous use
+PATIENT INFORMATION ERIBULIN MESYLATE (ER-i-BUE-lin MES-i-late) injection, for intravenous use
 
 What is the most important information I should know about eribulin mesylate injection?
 
@@ -46,9 +44,9 @@ Eribulin mesylate injection can cause serious side effects, including:
   Tell your healthcare provider if you have new or worsening symptoms of peripheral neuropathy.
 - Your healthcare provider may delay, decrease your dose, or stop treatment with eribulin mesylate injection if you have side effects.
 
-See “What are possible side effects of Eribulin Mesylate Injection?” for more information about side effects.
+See “What are possible side effects of eribulin mesylate injection?” for more information about side effects.
 
-What is Eribulin Mesylate Injection?
+What is eribulin mesylate injection?
 
 Eribulin mesylate injection is a prescription medicine used to treat people with:
 
@@ -62,7 +60,7 @@ Eribulin mesylate injection is a prescription medicine used to treat people with
 
 It is not known if eribulin mesylate injection is safe and effective in children under 18 years of age.
 
-Before you receive Eribulin Mesylate Injection, tell your healthcare provider about all of your medical conditions, including if you:
+Before you receive eribulin mesylate injection, tell your healthcare provider about all of your medical conditions, including if you:
 
 - have liver or kidney problems
 - have heart problems, including a problem called congenital long QT syndrome
@@ -78,25 +76,24 @@ Before you receive Eribulin Mesylate Injection, tell your healthcare provider ab
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
-How will I receive Eribulin Mesylate Injection?
+How will I receive eribulin mesylate injection?
 
 - Eribulin mesylate injection is given by intravenous (IV) injection in your vein.
 - Eribulin mesylate injection is given in “cycles” of treatment, with each cycle lasting 21 days.
+- Eribulin mesylate injection is usually given on day 1 and day 8 of a treatment cycle.
 
-Eribulin mesylate injection is usually given on day 1 and day 8 of a treatment cycle.
-
-What are the possible side effects of Eribulin Mesylate Injection?
+What are the possible side effects of eribulin mesylate injection?
 
 Eribulin mesylate injection may cause serious side effects, including:
 
-- See “What is the most important information I should know about Eribulin Mesylate Injection?”
-- Eribulin Mesylate Injection can cause changes in your heartbeat (called QT prolongation).
+- See “What is the most important information I should know about eribulin mesylate injection?”
+- Eribulin mesylate injection can cause changes in your heartbeat (called QT prolongation).
   This can cause irregular heartbeats.
   Your healthcare provider may do heart monitoring (electrocardiogram or ECG) or blood tests during your treatment with eribulin mesylate injection to check for heart problems.
 
 The most common side effects of eribulin mesylate injection in people with breast cancer include:
 
-| low white blood cell count (neutropenia) | ·nausea |
+| low white blood cell count (neutropenia) | nausea |
 | --- | --- |
 | low red blood cell count (anemia) | constipation |
 | weakness or tiredness |  |
@@ -106,7 +103,7 @@ The most common side effects of eribulin mesylate injection in people with lipos
 
 | tiredness | stomach pain |
 | --- | --- |
-| ·nausea | fever |
+| nausea | fever |
 | hair loss (alopecia) |  |
 | constipation |  |
 
@@ -122,21 +119,23 @@ These are not all the possible side effects of eribulin mesylate injection.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-General information about Eribulin Mesylate Injection
+General information about eribulin mesylate injection
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 You can ask your pharmacist or healthcare provider for information about eribulin mesylate injection that is written for health professionals.
 
-What are the ingredients in Eribulin Mesylate Injection?
+What are the ingredients in eribulin mesylate injection?
 
 Active Ingredient: eribulin mesylate
 
 Inactive Ingredients: dehydrated alcohol, water for injection, and sodium hydroxide or hydrochloric acid may be used for pH adjustment.
 
-For more information, contact Gland Pharma Limited at 609-250-7990.
+For more information, contact Gland Pharma Limited at 866-770-7144.
 
-Manufactured by: Gland Pharma Limited Visakhapatnam-530049 Andhra Pradesh, India.
+Manufactured by: Gland Pharma Limited
 
-Revised: 05/2023
+Unit-II, Block-C, Phase-I, VSEZ, Duvvada, Visakhapatnam-530049, Andhra Pradesh, India.
+
+Revised: 07/2026
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

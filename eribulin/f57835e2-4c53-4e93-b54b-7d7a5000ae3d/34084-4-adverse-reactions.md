@@ -106,12 +106,12 @@ The most common adverse reactions resulting in discontinuation of eribulin mesyl
 Twenty-six percent of patients required at least one dose reduction.
 The most frequent adverse reactions that led to dose reduction were neutropenia (18%) and peripheral neuropathy (4.0%).
 
-Table 3 summarizes the incidence of adverse reactions occurring in at least 10% of patients in the Eribulin mesylate -treated arm in Study 2.
+Table 3 summarizes the incidence of adverse reactions occurring in at least 10% of patients in the eribulin mesylate-treated arm in Study 2.
 
-| Table 3: Adverse Reactionsa Occurring in ≥10% (all Grades) of Patients Treated on the Eribulin mesylate arm and at a Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% for All Grades or ≥2% for Grades 3 and 4) (Study 2)b |  |  |  |  |
+| Table 3: Adverse Reactionsa Occurring in ≥10% (all Grades) of Patients Treated on the Eribulin Mesylate arm and at a Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% for All Grades or ≥2% for Grades 3 and 4) (Study 2)b |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Adverse Reaction | Eribulin mesylate n=223 |  | Dacarbazine n=221 |  |
-| All Grades | Grades 3-4 | All Grades | Grades 3-4 |  |
+| Adverse Reaction | Eribulin Mesylate n=223 |  | Dacarbazine n=221 |  |
+| All Grades | Grades 3 to 4 | All Grades | Grades 3 to 4 |  |
 | Nervous system disorders |  |  |  |  |
 | Peripheral Neuropathyc | 29% | 3.1% | 8% | 0.5% |
 | Headache | 18% | 0% | 10% | 0% |
@@ -144,10 +144,10 @@ Other clinically important adverse reactions occurring in ≥10% of the eribulin
 - Respiratory, Thoracic, and Mediastinal Disorders: oropharyngeal pain
 - Vascular Disorders: hypotension
 
-| Table 4: Laboratory Abnormalities Occurring in ≥10% (all Grades) of Patients Treated on the Eribulin Mesylate arm and ata Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% for All Grades or ≥2% for Grades 3 and 4)a (Study 2)† |  |  |  |  |
+| Table 4: Laboratory Abnormalities Occurring in ≥10% (all Grades) of Patients Treated on the Eribulin Mesylate arm and at a Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% for All Grades or ≥2% for Grades 3 and 4)a (Study 2)† |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Laboratory Abnormality | Eribulin Mesylate |  | Dacarbazine |  |
-| All Grades | Grades 3 - 4 | All Grades | Grades 3 – 4 |  |
+| All Grades | Grades 3 to 4 | All Grades | Grades 3 to 4 |  |
 | Hematology |  |  |  |  |
 | Anemia | 70% | 4.1% | 52% | 6% |
 | Neutropenia | 63% | 32% | 30% | 8.9% |
@@ -157,7 +157,7 @@ Other clinically important adverse reactions occurring in ≥10% of the eribulin
 | Hypokalemia | 30% | 5.4% | 14% | 2.8% |
 | Hypocalcemia | 28% | 5% | 18% | 1.4% |
 | Hypophosphatemia | 20% | 3.2% | 11% | 1.4% |
-| aEach test incidence is based on the number of patients who had both baseline and at least one on-study measurement and at least 1 grade increase from baseline. Eribulin mesylate group (range 221-222) and dacarbazine group (range 214-215) †Laboratory results were graded per NCI CTCAE v4.03. |  |  |  |  |
+| aEach test incidence is based on the number of patients who had both baseline and at least one on-study measurement and at least 1 grade increase from baseline. Eribulin mesylate group (range 221 to 222) and dacarbazine group (range 214 to 215) †Laboratory results were graded per NCI CTCAE v4.03. |  |  |  |  |
 
 ## 6.2 Postmarketing Experience
 

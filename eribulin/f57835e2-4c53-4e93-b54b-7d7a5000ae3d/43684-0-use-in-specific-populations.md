@@ -51,8 +51,9 @@ Based on animal data, eribulin mesylate may result in damage to male reproductiv
 
 The safety and effectiveness of eribulin mesylate in pediatric patients have not been established.
 
-Pediatric use information describing clinical studies in which efficacy was not demonstrated is approved for Eisai Inc’s HALAVEN® (eribulin mesylate) injection.
-However, due to Eisai Inc’s marketing exclusivity rights, this drug product is not labeled with that information.
+The safety and effectiveness of eribulin mesylate alone or in combination with irinotecan in pediatric patients were assessed but not established in three open-label studies (NCT02171260, NCT03441360, and NCT03245450) in 77 pediatric patients aged 2 to <17 years with relapsed or refractory solid tumors and lymphomas, excluding central nervous system tumors.
+No new safety signals were observed in these studies.
+The pharmacokinetics (PK) of eribulin were within range of values of adult patients with metastatic liposarcoma or other tumors given the same dose per body surface area.
 
 ## 8.5 Geriatric Use
 
