@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA217379"
+  ],
+  "inn": "nilotinib",
+  "labeler": "Cycle Pharmaceuticals Ltd",
+  "package_ndcs": [
+    "70709-191-12",
+    "70709-192-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "nilotinib",
+      "name": "CAVHANZA"
+    }
+  ],
+  "setid": "98b197ea-bca4-427e-8737-97f70a3262bc",
+  "source": "dailymed"
+}
