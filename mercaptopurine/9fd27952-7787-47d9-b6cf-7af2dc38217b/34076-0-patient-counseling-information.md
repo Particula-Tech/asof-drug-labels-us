@@ -19,4 +19,4 @@ Manufactured by: Nova Laboratories Ltd Leicester LE 18 4YL United Kingdom
 
 Manufactured for: Rare Disease Therapeutics 2550 Meridian Blvd., Suite 150 Franklin, TN 37067 www.raretx.com
 
-Part Number: D001355/1
+Part Number: D001517/1

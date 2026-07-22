@@ -3,7 +3,7 @@
 ## 2.1 Recommended Dosage
 
 The recommended starting dose of PURIXAN is 1.5 mg/kg to 2.5 mg/kg (50 mg/m2 to 75 mg/m2) orally once daily as part of combination chemotherapy maintenance regimen.
-Take PURIXAN either consistently with or without food.
+Take PURIXAN either consistently with or without food [see Clinical Pharmacology (12.3)].
 After initiating PURIXAN, monitor complete blood counts (CBC) and adjust the dose to maintain absolute neutrophil count (ANC) at a desirable level and for excessive myelosuppression.
 Evaluate the bone marrow in patients with prolonged myelosuppression or repeated episodes of myelosuppression to assess leukemia status and marrow cellularity.
 Evaluate thiopurine S-methyltransferase (TPMT) and nucleotide diphosphatase (NUDT15) status in patients with severe myelosuppression or repeated episodes of myelosuppression [see Dosage and Administration (2.2)].
@@ -11,7 +11,7 @@ If a patient misses a dose, instruct the patient to continue with the next sched
 
 ## 2.2 Dosage Modifications in Patients with TPMT and/or NUDT15 Deficiency
 
-Consider testing for TPMT and NUDT15 deficiency in patients who experience severe myelosuppression or repeated episodes of myelosuppression [see Warnings and Precautions (5.1)and Clinical Pharmacology (12.5)].
+Consider testing for TPMT and NUDT15 deficiency in patients who experience severe myelosuppression or repeated episodes of myelosuppression [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.5)].
 Homozygous Deficiency in either TPMT or NUDT15 Patients with homozygous deficiency of either enzyme typically require 10% or less of the recommended dosage.
 Reduce the recommended starting dosage of PURIXAN in patients who are known to have homozygous TPMT or NUDT15 deficiency.
 Heterozygous Deficiency in TPMT and/or NUDT15 Reduce the PURIXAN dosage based on tolerability.
@@ -20,10 +20,10 @@ Patients who are heterozygous for both TPMT and NUDT15 may require more substant
 
 ## 2.3 Dosage Modifications in Renal and Hepatic Impairment
 
-Renal Impairment Use the lowest recommended starting dosage for PURIXAN in patients with renal impairment (CLcr less than 50 mL/min).
-Adjust the dosage to maintain absolute neutrophil count (ANC) at a desirable level and for adverse reactions [see Uses in Specific Populations (8.6)].
+Renal Impairment Use the lowest recommended starting dosage for PURIXAN or increase the dosing interval to every 36 to 48 hours in patients with renal impairment (CLcr less than 50 mL/min).
+Adjust the dosage to maintain absolute neutrophil count (ANC) at a desirable level and for adverse reactions [see Use in Specific Populations (8.6)].
 Hepatic Impairment Use the lowest recommended starting dosage for PURIXAN in patients with hepatic impairment.
-Adjust the dosage to maintain absolute neutrophil count (ANC) at a desirable level and for adverse reactions [see Uses in Specific Populations (8.7)].
+Adjust the dosage to maintain absolute neutrophil count (ANC) at a desirable level and for adverse reactions [see Use in Specific Populations (8.7)].
 
 ## 2.4 Dosage Modification with Concomitant Use of Allopurinol
 
@@ -116,17 +116,17 @@ An increased incidence of miscarriage has been reported in women who received me
 Adverse embryo-fetal findings, including miscarriage and stillbirth, have been reported in women who received mercaptopurine after the first trimester of pregnancy.
 Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment with PURIXAN and for 6 months after the last dose.
-Advise males with female partners of reproductive potential to use effective contraception during treatment with PURIXAN and for 3 months after the last dose [see Use in Specific Populations (8.1,8.3)].
+Advise males with female partners of reproductive potential to use effective contraception during treatment with PURIXAN and for 3 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
 
 ## 6 ADVERSE REACTIONS
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
 - Myelosuppression [see Warnings and Precautions (5.1)]
-- Hepatotoxicity [see Warnings and Precautions (5.2)]
-- Immunosuppression [see Warnings and Precautions (5.3)]
-- Treatment Related Malignancies [see Warnings and Precautions (5.4)]
-- Macrophage Activation Syndrome [see Warnings and Precautions (5.5)]
+- Hepatotoxicity [[see Warnings and Precautions (5.2)]
+- Immunosuppression [[see Warnings and Precautions (5.3)]
+- Treatment Related Malignancies [[see Warnings and Precautions (5.4)]
+- Macrophage Activation Syndrome [[see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -143,7 +143,7 @@ Drug fever has been reported with PURIXAN.
 
 The following adverse reactions have been identified during postapproval use of PURIXAN.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These reactions include: photosensitivity, hypoglycemia, portal hypertension, intrahepatic cholestasis of pregnancy (ICP), pellagra, and erythema nodosum.
+These reactions include: photosensitivity, hypoglycemia, portal hypertension, intrahepatic cholestasis of pregnancy (ICP), pellagra, erythema nodosum, and mucosal inflammation.
 
 ## 7 DRUG INTERACTIONS
 
@@ -211,7 +211,7 @@ The long-term effects of mercaptopurine on female and male fertility, including 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of PURIXAN has been established in pediatric patients.
+Safety and effectiveness of PURIXAN have been established in pediatric patients.
 Use of PURIXAN in pediatrics is supported by evidence from the published literature and clinical experience.
 Symptomatic hypoglycemia has been reported in pediatric patients with ALL receiving mercaptopurine.
 Reported cases were in pediatrics less than 6 years or with a low body mass index.
