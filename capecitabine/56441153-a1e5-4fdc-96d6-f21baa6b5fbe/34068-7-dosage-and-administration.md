@@ -1,28 +1,46 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage for Colorectal Cancer
+## 2.1 Evaluation and Testing of DPD Deficiency Before Initiating Capecitabine Tablets
+
+Prior to initiating capecitabine tablets, test patients for genetic variants of the DPYD gene unless immediate treatment is necessary.
+An FDA-authorized test for the detection of the DPYD gene to identify patients at risk of serious adverse reactions with capecitabine tablets is not currently available.
+Currently available tests used to identify DPYD variants may vary in accuracy and design (e.g., which DPYD variant(s) they identify).
+
+Avoid use of capecitabine tablets in patients known to have certain homozygous or compound heterozygous DPYD variants that result in complete DPD deficiency.
+No capecitabine tablets dose has been proven safe for patients with complete DPD deficiency.
+For patients with partial DPD deficiency, individualize the dosage and modify based on tolerability and intent of treatment [see Warnings and Precautions (5.1)].
+
+## 2.2 Recommended Dosage for Colorectal Cancer
 
 Adjuvant Treatment of Colon Cancer
 
 Single Agent
 
-The recommended dosage of capecitabine tablets are 1,250 mg/m2orally twice daily for the first 14 days of each 21-day cycle for a maximum of 8 cycles.
+The recommended dosage of capecitabine tablets are 1,250 mg/m2 orally twice daily for the first 14 days of each 21-day cycle for a maximum of 8 cycles.
 
-In Combination with Oxaliplatin-Containing Regimens The recommended dosage of capecitabine tablets are 1,000 mg/m2orally twice daily for the first 14 days of each 21-day cycle for a maximum of 8 cycles in combination with oxaliplatin 130 mg/m2 administered intravenously on day 1 of each cycle.
+In Combination with Oxaliplatin-Containing Regimens
+
+The recommended dosage of capecitabine tablets are 1,000 mg/m2 orally twice daily for the first 14 days of each 21-day cycle for a maximum of 8 cycles in combination with oxaliplatin 130 mg/m2 administered intravenously on day 1 of each cycle.
 
 Refer to the oxaliplatin prescribing information for additional dosing information as appropriate.
+
 Perioperative Treatment of Rectal Cancer
 
 The recommended dosage of capecitabine tablets are 825 mg/m2 orally twice daily when administered with concomitant radiation therapy and 1,250 mg/m2 orally twice daily when administered without radiation therapy as part of a peri-operative combination regimen.
 
 Unresectable or Metastatic Colorectal Cancer
 
-Single Agent The recommended dosage of capecitabine tablets are 1,250 mg/m2 orally twice daily for the first 14 days of a 21-day cycle until disease progression or unacceptable toxicity.
-In Combination with Oxaliplatin The recommended dosage of capecitabine tablets are 1,000 mg/m2 orally twice daily for the first 14 days of each 21-day cycle until disease progression or unacceptable toxicity in combination with oxaliplatin 130 mg/m2 administered intravenously on day 1 of each cycle.
+Single Agent
+
+The recommended dosage of capecitabine tablets are 1,250 mg/m2 orally twice daily for the first 14 days of a 21-day cycle until disease progression or unacceptable toxicity.
+
+In Combination with Oxaliplatin
+
+The recommended dosage of capecitabine tablets are 1,000 mg/m2 orally twice daily for the first 14 days of each 21-day cycle until disease progression or unacceptable toxicity in combination with oxaliplatin 130 mg/m2 administered intravenously on day 1 of each cycle.
 
 Refer to the Prescribing Information for oxaliplatin for additional dosing information as appropriate.
 
-## 2.2 Recommended Dosage for Breast Cancer
+## 2.3 Recommended Dosage for Breast Cancer
 
 Advanced or Metastatic Breast Cancer
 
@@ -37,7 +55,7 @@ The recommended dosage of capecitabine tablets are 1,000 mg/m2 or 1,250 mg/m2 or
 
 Refer to the Prescribing Information for docetaxel for additional dosing information as appropriate.
 
-## 2.3 Recommended Dosage for Gastric, Esophageal, or Gastroesophageal Junction Cancer
+## 2.4 Recommended Dosage for Gastric, Esophageal, or Gastroesophageal Junction Cancer
 
 The recommended dosage of capecitabine tablets are for unresectable or metastatic gastric, esophageal, or gastroesophageal junction cancer is:
 
@@ -52,18 +70,18 @@ The recommended dosage of capecitabine tablets are for HER2-overexpressing metas
 
 Refer to the Prescribing Information for agents used in combination for additional dosing information as appropriate.
 
-## 2.4 Recommended Dosage for Pancreatic Cancer
+## 2.5 Recommended Dosage for Pancreatic Cancer
 
 The recommended dosage of capecitabine tablets are 830 mg/m2 orally twice daily for the first 21 days of each 28-day cycle until disease progression, unacceptable toxicity, or for a maximum 6 cycles in combination with gemcitabine 1,000 mg/m2 administered intravenously on days 1, 8, and 15 of each cycle.
 
 Refer to Prescribing Information for gemcitabine for additional dosing information as appropriate.
 
-## 2.5 Dosage Modifications for Adverse Reactions
+## 2.6 Dosage Modifications for Adverse Reactions
 
 Monitor patients for adverse reactions and modify dosages of capecitabine tablets as described in Table 1.
 Do not replace missed doses of capecitabine tablets; instead resume capecitabine tablets are with the next planned dosage.
 
-When capecitabine tablets are administered with docetaxel, withhold capecitabine tablets and docetaxel until the requirements for resuming both capecitabine tablets and docetaxel are met.
+When capecitabine tablets areadministered with docetaxel, withhold capecitabine tablets and docetaxel until the requirements for resuming both capecitabine tablets and docetaxel are met.
 Refer to the Prescribing Information for docetaxel for additional dosing information as appropriate.
 
 Table 1 Recommended Dosage Modifications for Adverse Reactions
@@ -71,27 +89,27 @@ Table 1 Recommended Dosage Modifications for Adverse Reactions
 | Severity | Dosage Modification | Resume at Same or Reduced Dose (Percent of Current Dose) |
 | --- | --- | --- |
 | Grade 2 |  |  |
-| 1st appearance | Withhold until resolved to grade 0-1. | 100% |
+| 1st appearance | Withhold until resolved to grade 0 to 1. | 100% |
 | 2nd appearance | 75% |  |
 | 3rd appearance | 50% |  |
 | 4th appearance | Permanently discontinue. | - |
 | Grade 3 |  |  |
-| 1st appearance | Withhold until resolved to grade 0-1. | 75% |
+| 1st appearance | Withhold until resolved to grade 0 to 1. | 75% |
 | 2nd appearance | 50% |  |
 | 3rd appearance | Permanently discontinue. | - |
 | Grade 4 |  |  |
-| 1st appearance | Permanently discontinue OR Withhold until resolved to grade 0-1. | 50% |
+| 1st appearance | Permanently discontinue OR Withhold until resolved to grade 0 to 1. | 50% |
 
 Hyperbilirubinemia
 
-Patients with Grade 3-4 hyperbilirubinemia may resume treatment once the event is Grade 2 or less (less than three times the upper limit of normal), using the percent of current dose as shown in column 3 of Table 1 [see Warnings and Precautions (5.10)].
+Patients with Grade 3 to 4 hyperbilirubinemia may resume treatment once the event is Grade 2 or less (less than three times the upper limit of normal), using the percent of current dose as shown in column 3 of Table 1 [see Warnings and Precautions (5.10)].
 
-## 2.6 Dosage Modification For Renal Impairment
+## 2.7 Dosage Modification For Renal Impairment
 
 Reduce the dose of capecitabine tablets by 25% for patients with creatinine clearance (CLcr) of 30 to 50 mL/min as determined by Cockcroft-Gault equation.
 A dosage has not been established in patients with severe renal impairment (CLcr <30 mL/min) [see Use in Specific Populations (8.6)].
 
-## 2.7 Administration
+## 2.8 Administration
 
 Round the recommended dosage for patients to the nearest 150 mg dose to provide whole
 

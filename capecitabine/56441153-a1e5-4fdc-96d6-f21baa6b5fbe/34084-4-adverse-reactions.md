@@ -30,7 +30,7 @@ Most common adverse reactions (>30%) were palmar-plantar erythrodysesthesia synd
 
 Tables 2 and 3 summarize the adverse reactions and laboratory abnormalities in X-ACT.
 
-Table 2 Adverse Reactions (>10%) in Patients Who Received Capecitabine for Adjuvant Treatment of Colon Cancer in X-ACT
+Table 2 Adverse Reactions (≥10%) in Patients Who Received Capecitabine for Adjuvant Treatment of Colon Cancer in X-ACT
 
 | Adverse Reaction | Capecitabine (N=995) |  | Fluorouracil + Leucovorin (N=974) |  |
 | --- | --- | --- | --- | --- |
@@ -102,7 +102,7 @@ Most common adverse reactions (>30%) were anemia, diarrhea, palmar-plantar eryth
 
 Table 4 shows the adverse reactions occurring in this pooled colorectal cancer population.
 
-Table 4 Adverse Reactions (>10%) in Patients Who Received Capecitabine in Pooled Metastatic Colorectal Cancer Population (Study SO14695 and Study SO14796)
+Table 4 Adverse Reactions (≥10%) in Patients Who Received Capecitabine in Pooled Metastatic Colorectal Cancer Population (Study SO14695 and Study SO14796)
 
 | Adverse Reaction | Capecitabine (N=596) |  |  | Fluorouracil + Leucovorin (N=593) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -177,7 +177,7 @@ Metastatic Breast Cancer
 In Combination with Docetaxel
 
 The safety of capecitabine in combination with docetaxel was evaluated in patients with metastatic breast cancer in Study SO14999 [see Clinical Studies (14.2)].
-Patients received capecitabine 1,250 mg/m2 orally twice daily for the first 14 days of a 21-day cycle with docetaxel 75 mg/m2 as 1- hour intravenous infusion on day 1 of each 21-day cycle for at least 6 weeks or docetaxel 100 mg/m2 as a 1-hour intravenous infusion on day 1 of each 21-day cycle for at least 6 weeks.
+Patients received capecitabine 1,250 mg/m2 orally twice daily for the first 14 days of a 21-day cycle with docetaxel 75 mg/m2 as 1- hour intravenous infusion on day 1 of each 21-day cycle for at least 6 weeks or docetaxel 100 mg/m2 as a 1-hour intravenous infusion on day1 of each 21-day cycle for at least 6 weeks.
 Among patients who received capecitabine, the mean duration of treatment was 4.2 months.
 
 Permanent discontinuation due to an adverse reaction occurred in 26% of patients who received capecitabine.
@@ -242,39 +242,37 @@ Clinically relevant adverse reactions in <10% of patients are presented below:
 
 Blood and Lymphatic System: agranulocytosis, prothrombin decreased
 
-Cardiac:supraventricular tachycardia
+Cardiac: supraventricular tachycardia
 
 Eye:conjunctivitis, eye irritation
 
-Gastrointestinal:ileus, necrotizing enterocolitis, esophageal ulcer, hemorrhagic diarrhea, dry mouth
+Gastrointestinal: ileus, necrotizing enterocolitis, esophageal ulcer, hemorrhagic diarrhea, dry mouth
 
-General:chest pain (non-cardiac), lethargy, pain, influenza-like illness
+General: chest pain (non-cardiac), lethargy, pain, influenza-like illness
 
-Hepatobiliary:jaundice, abnormal liver function tests, hepatic failure, hepatic coma, hepatotoxicity
+Hepatobiliary: jaundice, abnormal liver function tests, hepatic failure, hepatic coma, hepatotoxicity
 
-Immune System:hypersensitivity
+Immune System: hypersensitivity
 
-Infection:hypoesthesia, neutropenic sepsis, sepsis, bronchopneumonia, oral candidiasis, urinary tract infection
+Infection: hypoesthesia, neutropenic sepsis, sepsis, bronchopneumonia, oral candidiasis, urinary tract infection
 
-Metabolism and Nutrition:weight decreased
+Metabolism and Nutrition: weight decreased
 
 Musculoskeletal and Connective Tissue:bone pain
 
-Nervous System:insomnia, peripheral neuropathy, ataxia, syncope, taste loss, polyneuropathy, migraine
+Nervous System: insomnia, peripheral neuropathy, ataxia, syncope, taste loss, polyneuropathy, migraine
 
-Psychiatric:depression
+Psychiatric: depression
 
-Renal and Urinary:renal failure
+Renal and Urinary: renal failure
 
-Respiratory, Thoracic and Mediastinal:upper respiratory tract infection, pleural effusion, epistaxis, rhinorrhea
+Respiratory, Thoracic and Mediastinal: upper respiratory tract infection, pleural effusion, epistaxis, rhinorrhea
 
-Skin and Subcutaneous Tissue:pruritis, rash erythematous, dermatitis, nail discoloration, onycholysis
+Skin and Subcutaneous Tissue: pruritis, rash erythematous, dermatitis, nail discoloration, onycholysis
 
-Vascular:lymphedema, hypotension, venous phlebitis and thrombophlebitis, postural hypotension, flushing
+Vascular: lymphedema, hypotension, venous phlebitis and thrombophlebitis, postural hypotension, flushing
 
 Table 6 summarizes the laboratory abnormalities in this trial.
-
-Table 6 Laboratory Abnormalities (≥20%) in Patients Who Received Capecitabine with Docetaxel for Metastatic Breast Cancer in Study SO14999
 
 Table 6 Laboratory Abnormalities (≥20%) in Patients Who Received Capecitabine with Docetaxel for Metastatic Breast Cancer in Study SO14999
 

@@ -22,7 +22,7 @@ Table 9 Baseline Demographics in X-ACT
 |  | Capecitabine (N=1004) | Fluorouracil + Leucovorin (N=983) |
 | --- | --- | --- |
 | Age (median, years) | 62 | 63 |
-| Range | (25-80) | (22-82) |
+| Range | (25 to 80) | (22 to 82) |
 | Sex |  |  |
 | Male, % | 54 | 54 |
 | Female, % | 46 | 46 |
@@ -93,12 +93,12 @@ Table 11 Baseline Demographics for Study SO14695 and Study SO14796
 | --- | --- | --- | --- | --- |
 | Capecitabine (N=302) | Fluorouracil + Leucovorin (N=303) | Capecitabine (N=301) | Fluorouracil + Leucovorin (N=301) |  |
 | Age (median, years) | 64 | 63 | 64 | 64 |
-| Range | (23-86) | (24-87) | (29-84) | (36-86) |
+| Range | (23 to 86) | (24 to 87) | (29 to 84) | (36 to 86) |
 | Sex |  |  |  |  |
 | Male, % | 60 | 65 | 57 | 57 |
 | Female, % | 40 | 35 | 43 | 43 |
 | Karnofsky PS (median) | 90 | 90 | 90 | 90 |
-| Range | (70-100) | (70-100) | (70-100) | (70-100) |
+| Range | (70 to 100) | (70 to 100) | (70 to 100) | (70 to 100) |
 | Colon, % | 74 | 77 | 66 | 65 |
 | Rectum, % | 26 | 23 | 34 | 35 |
 | Prior radiation therapy, % | 17 | 21 | 14 | 14 |
@@ -232,8 +232,8 @@ Table 16 Baseline Demographics in Metastatic Breast Cancer (Study SO14697)
 | Age (median, years) | 55 | 56 |
 | Karnofsky Performance Status | 90 | 90 |
 | No. Disease Sites |  |  |
-| 1-2, % | 32 | 37 |
-| 3-4, % | 46 | 43 |
+| 1 to 2, % | 32 | 37 |
+| 3 to 4, % | 46 | 43 |
 | >5, % | 22 | 21 |
 | Dominant Site of Disease |  |  |
 | Visceral1, % | 75 | 68 |
@@ -257,7 +257,7 @@ Table 17 Efficacy Results in Metastatic Breast Cancer (Study SO14697)
 | Response Rate1 (95% CI) | 25.6% (13.5, 41.2) |
 | Complete Response | 0% |
 | Partial Response1 | 11% |
-| Duration of Response1 Median, months2(Range) | 5.1 (2.1-7.7) |
+| Duration of Response1 Median, months2(Range) | 5.1 (2.1 to 7.7) |
 | 1 Includes 2 patients treated with an anthracenedione 2 From date of first response |  |
 
 For the subgroup of 43 patients who were doubly resistant, the median time to progression was 3.4 months and the median survival was 8.4 months.
