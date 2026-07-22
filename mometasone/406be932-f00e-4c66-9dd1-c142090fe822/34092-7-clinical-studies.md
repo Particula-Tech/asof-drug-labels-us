@@ -1,14 +1,16 @@
 # 14 CLINICAL STUDIES
 
+Adult and Pediatric Patients 12 Years of Age and Older
+
 The efficacy of RYALTRIS was evaluated in two multicenter, randomized, double-blind, placebo-and active-controlled clinical studies of 2-week duration in Study 1 (NCT02631551) and Study 2 (NCT02870205).
 The two studies were of similar design, including a single blind, placebo run-in period for 7 to 10 days, and enrolled a total of 2352 patients 12 years of age and older with seasonal allergic rhinitis.
-Patients had a history of seasonal allergic rhinitis for at least 2 years prior to screening, a positive skin prick test (wheal diameter 5mm or greater than negative diluent control) to relevant seasonal allergens (tree/grass pollen in Study 1 and ragweed/mountain cedar pollen in Study 2), and nasal symptoms defined as a 12-hour rTNSS ≥8 out of 12 and a congestion score ≥2 for the morning (AM) assessment at screening.
+Patients had a history of seasonal allergic rhinitis for at least 2 years prior to screening, a positive skin prick test (wheal diameter 5mm or greater than negative diluent control) to relevant seasonal allergens (tree/grass pollen in Study 1 and ragweed/mountain cedar pollen in Study 2), and nasal symptoms defined as a 12-hour Reflective Total Nasal Symptom Score (rTNSS) ≥8 out of 12 and a congestion score ≥2 for the morning (AM) assessment at screening.
 
 In Studies 1 and 2, patients were randomized to 1 of 4 treatment groups: RYALTRIS 2 sprays (665 mcg olopatadine hydrochloride and 25 mcg mometasone furoate per spray) per nostril twice daily, olopatadine hydrochloride nasal spray 2 sprays (665 mcg per spray) per nostril twice daily, mometasone furoate nasal spray 2 sprays (25 mcg per spray) per nostril twice daily, and vehicle placebo for 2 weeks.
 The olopatadine hydrochloride and mometasone furoate comparators used the same device and vehicle as RYALTRIS but were non-US approved drugs.
 The demographics in Studies 1 and 2 were similar as shown in Table 2.
 
-Table 2: Study 1 and Study 2 - Summary of Demographics
+Table 2: Study 1 and Study 2 - Summary of Demographics of Adults and Pediatric Patients 12 Years of Age and Older
 
 |  | Study 1 (N=1180) | Study 2 (N=1172) |
 | --- | --- | --- |
@@ -65,7 +67,7 @@ Least Square (LS) Means, 95% Confidence Intervals (CIs), and p-values were based
 In the two studies, RYALTRIS also demonstrated statistically significant improvement in iTNSS as compared with placebo.
 Results from both studies are shown in Table 4.
 
-Table 4: Mean Change from Baseline in Instantaneous Total Nasal Symptom Scores Over 2 Weeks* in Adults and Pediatric Patients ≥ 12 Years with Seasonal Allergic Rhinitis in Study 1 and Study 2
+Table 4: Mean Change from Baseline in Instantaneous Total Nasal Symptom Scores Over 2 Weeks* in Adults and Pediatric Patients ≥ 12 Years of Age with Seasonal Allergic Rhinitis in Study 1 and Study 2
 
 | Treatment (2 sprays/nostril twice daily) | Study 1 |  |  |  | Study 2 |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -94,3 +96,25 @@ An overall RQLQ(S) score is calculated from the mean of all items in the instrum
 A change from baseline of at least 0.5 points is considered a clinically meaningful improvement.
 In each of these studies, treatment with RYALTRIS resulted in a statistically significant greater decrease from baseline in the overall RQLQ(S) than placebo (LS mean difference from placebo for Study 1: -0.5 [-0.8, -0.3]; for Study 2: ‑0.5 [95% CI: ‑0.7, ‑0.2]).
 In these studies, the treatment differences between RYALTRIS and the monotherapies were less than the minimum important difference of 0.5 points.
+
+Pediatric Patients 6 Years to 11 Years of Age
+
+The efficacy of RYALTRIS was evaluated in one double-blind, randomized, parallel group trial in 441 pediatric patients 6 years to 11 years of age with seasonal allergic rhinitis for 2 weeks (Study 3 [NCT03463031]).
+A total of 446 patients were randomized 1:1 to receive either one spray per nostril twice daily of RYALTRIS (N=225) or placebo [vehicle control] (N=221).
+
+Patients had a history of seasonal allergic rhinitis for at least 2 years prior to screening, a positive skin prick test (wheal diameter 5 mm or greater than negative diluent control) to at least one seasonal allergen (tree/grass pollen or ragweed pollen), and nasal symptoms defined as a 12-hour rTNSS ≥6 out of 12 for the morning (AM) assessment at screening.
+
+The primary efficacy endpoint was the mean change from baseline in average morning (AM) and evening (PM) patient-reported 12-hour Reflective Total Nasal Symptom Score (rTNSS) over the 2 weeks Randomized Treatment Period.
+Patients treated with RYALTRIS, one spray per nostril twice daily, had statistically significantly greater decreases in rTNSS compared to placebo (vehicle control) nasal spray.
+Results for rTNSS are shown in Table 5.
+
+Table 5: Mean Change from Baseline in Reflective Total Nasal Symptom Scores Over 2 Weeks in Pediatric Patients 6 Years to 11 Years of Age with Seasonal Allergic Rhinitis in Study 3
+
+| Treatment | n* | Baseline | Change From Baseline LS Mean | Difference from Placebo LS Mean, (95% CI) | P-value |
+| --- | --- | --- | --- | --- | --- |
+| RYALTRIS (N = 225) | 222 | 8.8 | -2.2 | -0.6, (-0.9, -0.2) | 0.001 |
+| Placebo(N = 221) | 219 | 8.8 | -1.6 |  |  |
+
+Abbreviation: CI, confidence interval.
+
+*Efficacy analysis was based on the Full Analysis Set which included patients who were randomized, received at least 1 dose of treatment, and had at least 1 post-baseline primary efficacy assessment

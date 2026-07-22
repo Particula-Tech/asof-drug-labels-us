@@ -14,7 +14,7 @@ The following clinically significant adverse reactions are described elsewhere i
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared with rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-Adults and Pediatric Patients 12 Years of Age and Older
+Adverse Reactions in Adults and Pediatric Patients 12 Years of Age and Older
 
 The pooled RYALTRIS safety population reflects exposure to RYALTRIS at 2 sprays (2 sprays deliver a total of 1,330 mcg of olopatadine hydrochloride and 50 mcg of mometasone furoate) in each nostril twice daily in a total of 1189 patients from Studies 1 and 2 [see Clinical Studies (14)] and from three additional placebo and/or active-controlled studies in patients with allergic rhinitis.
 One placebo controlled study was a 52-week safety study.
@@ -35,3 +35,10 @@ Table 1: Adverse Reactions with ≥1% Incidence that Were Reported More Frequent
 | Nasal discomfort | 8 (1.0) | 4 (0.5) | 4 (0.5) | 6 (0.8) |
 
 * Non-US approved drugs
+
+Adverse Reactions in Pediatric Patients 6 Years to 11 Years of Age
+
+The safety data of RYALTRIS in pediatric patients 6 years to11 years of age with seasonal allergic rhinitis was based on 225 patients who received RYALTRIS in a 2-week, double-blind, randomized, parallel-group, placebo-controlled study [see Clinical Studies (14)].
+Patients in the study received 1 spray per nostril of RYALTRIS, twice daily.
+The adverse reactions observed in pediatric patients 6 years to 11 years of age were similar to the adults and pediatric patients 12 years of age and older.
+Additionally, headache was reported in 1% of pediatric patients 6 years to 11 years of age treated with RYALTRIS and 0.5% of pediatric patients 6 years to 11 years of age treated with placebo.

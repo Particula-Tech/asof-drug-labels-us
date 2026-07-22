@@ -12,7 +12,7 @@ Before you use RYALTRIS, make sure your healthcare provider shows you the right 
 
 Shake the bottle for at least 10 seconds before each use.
 
-When RYALTRIS is not in use, the purple dust cap should always be kept tightly placed on the white nozzle tip.
+When RYALTRIS is not in use, the purple dust cap should always be kept tightly placed on the spray nozzle tip.
 
 Your RYALTRIS nasal spray bottle (See Figure A)
 
@@ -30,8 +30,6 @@ Remove the purple dust cap from the spray nozzle tip of the bottle.
 (See Figure B)
 
 Figure B
-
-Preparing the nasal spray bottle
 
 Step 2.
 Hold the nasal spray bottle firmly and upright with your index and middle finger on either side of the spray nozzle unit (on finger rests) while supporting the grooved base of the bottle with your thumb.
@@ -92,7 +90,7 @@ Repeat Steps 6 through 8 with 2 sprays in the other nostril.
   This will keep the medicine from going into your throat.
 
 Step 11.
-To prevent any blockage, wipe the white spray nozzle tip with a clean dry tissue or cloth after each use.
+To prevent any blockage, wipe the spray nozzle tip with a clean dry tissue or cloth after each use.
 (See Figure H)
 
 Figure H
@@ -103,7 +101,7 @@ Hold the nozzle unit and push the purple dust cap back on the nozzle until you h
 
 Figure I
 
-Each bottle of RYALTRIS contains enough medicine for you to spray from the bottle 240 times after the first (initial) priming.
+Each bottle of RYALTRIS 240 metered sprays contains enough medicine for you to spray from the bottle 240 times after the first (initial) priming.
 You should keep track of the number of sprays used from each bottle of RYALTRIS.
 Do not count any sprays used for initial priming of the bottle.
 
@@ -135,7 +133,7 @@ Place the purple dust cap back on the spray nozzle unit and put the spray nozzle
 Figure N
 
 Step 16.
-After following the steps to clear your blocked spray nozzle tip see “Priming your RYALTRIS pump before use” section above and re-prime using 2 sprays.
+After following the steps to clear your blocked spray nozzle tip see “Preparing the nasal spray bottle” section above and re-prime using 2 sprays.
 Replace the purple dust cap, and your RYALTRIS is ready for use.
 
 Repeat the unblocking steps if needed.
@@ -148,7 +146,7 @@ Do not freeze or refrigerate.
 
 Do not use RYALTRIS after the expiration date on the label or the box.
 
-Throw away your RYALTRIS bottle after using 240 sprays after first priming.
+Throw away your RYALTRIS 240 metered sprays bottle after using 240 sprays after first priming.
 Even though the bottle may not be completely empty, you may not get the correct dose of medicine if you continue to use it.
 
 Keep RYALTRIS and all medicines out of the reach of children.
@@ -161,5 +159,5 @@ Elmwood Park, NJ 07407
 
 RYALTRIS and the RYALTRIS logo are registered trademarks of Glenmark Specialty SA
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-January 2026
+- This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+  Revised: July 2026

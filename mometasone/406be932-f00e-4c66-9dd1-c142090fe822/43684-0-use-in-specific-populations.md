@@ -70,10 +70,13 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of RYALTRIS for the treatment of symptoms associated with seasonal allergic rhinitis have been established in pediatric patients 12 years and older.
-Use of RYALTRIS for this indication is supported by evidence from adequate and well-controlled studies in adult and pediatric patients 12 years and older [see Clinical Studies (14)].
+The safety and effectiveness of RYALTRIS for the treatment of symptoms of seasonal allergic rhinitis have been established in pediatric patients 6 years of age and older.
+Use of RYALTRIS for this indication is supported by evidence with the following:
 
-The safety and effectiveness of RYALTRIS in pediatric patients below the age of 12 years have not been established.
+- •an adequate and well-controlled 2-week study in pediatric patients 6 years to 11 years of age [see Adverse Reactions (6.1), Clinical Studies (14)].
+- •adequate and well-controlled studies in adult and pediatric patients 12 years and older [see Adverse Reactions (6.1), Clinical Studies (14), Pharmacokinetics (12.3)].
+
+The safety and effectiveness of RYALTRIS in pediatric patients below the age of 6 years have not been established.
 
 Effect on Growth
 

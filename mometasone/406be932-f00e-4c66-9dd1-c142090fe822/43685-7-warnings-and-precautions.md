@@ -47,7 +47,7 @@ Persons who are using drugs that suppress the immune system, such as corticoster
 Chickenpox and measles, for example, can have a more serious or even fatal course in susceptible children or adults using corticosteroids.
 In children or adults who have not had these diseases or been properly immunized, particular care should be taken to avoid exposure.
 How the dose, route, and duration of corticosteroid administration affect the risk of developing a disseminated infection is not known.
-The safety and effectiveness of RYALTRIS have not been established in pediatric patients less than 12 years of age and RYALTRIS is not indicated for use in this population.
+The safety and effectiveness of RYALTRIS have not been established in pediatric patients less than 6 years of age and RYALTRIS is not indicated for use in this population.
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
 If exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
 If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated (see the respective Prescribing Information for VZIG and IG).
@@ -62,5 +62,5 @@ Hypercorticism and adrenal suppression may occur when nasal corticosteroids, inc
 ## 5.7 Effect on Growth
 
 Nasal corticosteroids, including RYALTRIS, may cause a reduction in growth velocity when administered to pediatric patients.
-The safety and effectiveness of RYALTRIS have not been established in pediatric patients less than 12 years of age and RYALTRIS is not indicated for use in this population.
+The safety and effectiveness of RYALTRIS have not been established in pediatric patients less than 6 years of age and RYALTRIS is not indicated for use in this population.
 Routinely monitor the growth of pediatric patients receiving RYALTRIS [see Use in Specific Populations (8.4)].

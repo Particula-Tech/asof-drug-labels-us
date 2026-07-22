@@ -10,9 +10,9 @@ Do not spray RYALTRIS into your eyes or mouth.
 What is RYALTRIS?
 
 RYALTRIS is a prescription nasal spray that contains 2 medicines, olopatadine hydrochloride, an antihistamine, and mometasone furoate, a corticosteroid.
-RYALTRIS is used to treat symptoms of seasonal allergies in people 12 years of age and older.
+RYALTRIS is used to treat symptoms of seasonal allergies in people 6 years of age and older.
 
-It is not known if RYALTRIS is safe and effective in children under 12 years of age.
+It is not known if RYALTRIS is safe and effective in children under 6 years of age.
 
 Do not use RYALTRIS if you are allergic to olopatadine hydrochloride, mometasone furoate monohydrate, or any of the ingredients in RYALTRIS.
 See the end of this Patient Information leaflet for a complete list of ingredients in RYALTRIS.
@@ -72,20 +72,21 @@ RYALTRIS may cause serious side effects, including the following:
   - osores (ulcers) in the nose
   - ohole in the cartilage between your nose (nasal septal perforation).
     Symptoms of nasal septal perforation may include:
-    - •crusting in the nose
-    - •nosebleeds
-    - •runny nose
-    - •whistling sound when you breathe
+    - ▪crusting in the nose
+    - ▪nosebleeds
+    - ▪runny nose
+    - ▪whistling sound when you breathe
   - oslow wound healing.
     You should not use RYALTRIS until your nose has healed if you have a sore in your nose, if you have had surgery on your nose, or if your nose has been injured.
   - othrush (Candida), a certain fungal infection in your nose and throat.
     Tell your healthcare provider if you have any redness or white-colored patches in your nose or mouth.
+- •sleepiness or drowsiness.
 - •eye problems, including glaucoma or cataracts.
   You should have regular eye exams when using RYALTRIS.
 - •allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following signs of a serious allergic reaction:
 
-| owheezingorashohives | oswelling of your face, mouth, and tongueobreathing problems |
+| •wheezing•rash•hives | •swelling of your face, mouth, and tongue•breathing problems |
 | --- | --- |
 
 - •immune system problems that may increase your risk of infections.
@@ -95,25 +96,25 @@ RYALTRIS may cause serious side effects, including the following:
   If you come in contact with someone who has chicken pox or measles call your healthcare provider right away.
   Symptoms of infection may include:
 
-| ofeveroaches or pains | ochills ofeeling tired |
+| •fever•aches or pains | •chills •feeling tired |
 | --- | --- |
 
 - •adrenal insufficiency.
   Adrenal insufficiency happens when your adrenal glands do not make enough steroid hormones.
   Symptoms of adrenal insufficiency can include:
 
-| otirednessoweaknessonausea | ovomitingolow blood pressure |
+| •tiredness•weakness•nausea | •vomiting•low blood pressure |
 | --- | --- |
 
 - •slowed growth in children.
   A child’s growth should be checked regularly while using RYALTRIS.
-- •sleepiness or drowsiness.
 
-The most common side effects of RYALTRIS include the following:
+The most common side effects of RYALTRIS include:
 
 - •unpleasant taste
 - •nosebleeds
 - •nasal discomfort
+- •headache
 
 Tell your healthcare provider if you have any side effects that bother you or that do not go away.
 These are not all of the possible side effects of RYALTRIS.
@@ -127,7 +128,7 @@ How should I store RYALTRIS?
 - •Store RYALTRIS upright with the purple dust cap on at room temperature between 68°F to 77°F (20°C to 25°C).
 - •Do not freeze or refrigerate.
 - •Safely throw away medicine that is out of date or no longer needed.
-- •Throw away your RYALTRIS bottle after using 240 sprays after the first priming.
+- •Throw away your RYALTRIS 240 metered sprays bottle after using 240 sprays after the first priming.
   Even though the bottle may not be completely empty, you may not get the correct dose of medicine if you continue to use it.
 
 Keep RYALTRIS and all medicines out of reach of children.
@@ -149,4 +150,6 @@ Inactive ingredients: benzalkonium chloride, carboxymethyl cellulose sodium, dib
 
 For more information, go to www.RYALTRIS.com or call Glenmark Pharmaceuticals Inc., USA at 1 (888) 721-7115.
 
-- This Patient Information has been approved by the U.S. Food and Drug Administration Issued: January 2026
+This Patient Information has been approved by the U.S. Food and Drug Administration
+
+- Revised: July 2026

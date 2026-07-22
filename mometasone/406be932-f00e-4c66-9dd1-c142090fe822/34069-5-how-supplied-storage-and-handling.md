@@ -3,8 +3,9 @@
 RYALTRIS (NDC 68462-659-27) is supplied in a white plastic bottle fitted with a metered‑dose spray nozzle unit.
 Each bottle contains a net fill weight of 31 g and will deliver 240 metered sprays in addition to six (6) initial priming sprays [see Description (11)].
 
-Each spray delivers a volume of 0.1 mL suspension as a fine mist, containing 665 mcg of olopatadine hydrochloride equivalent to 600 mcg of olopatadine (base) and 25 mcg of mometasone furoate monohydrate (on the anhydrous basis).
 The bottle should be discarded after 240 sprays have been used.
+
+Each spray delivers a volume of 0.1 mL suspension as a fine mist, containing 665 mcg of olopatadine hydrochloride equivalent to 600 mcg of olopatadine (base) and 25 mcg of mometasone furoate monohydrate (on the anhydrous basis).
 
 Storage
 

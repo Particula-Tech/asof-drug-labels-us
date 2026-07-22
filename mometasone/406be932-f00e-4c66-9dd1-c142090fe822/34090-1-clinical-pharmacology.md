@@ -89,8 +89,7 @@ In these patients, peak steady-state plasma concentrations of olopatadine were a
 
 The effects of renal impairment on mometasone furoate pharmacokinetics have not been adequately investigated.
 
-Pediatric Patients: RYALTRIS pharmacokinetics has not been investigated in patients under 12 years of age [see Use in Specific Populations (8.4)].
-Based on population pharmacokinetic analysis among patients 12 years of age and older, the pharmacokinetics of olopatadine and mometasone furoate with RYALTRIS was not influenced by age.
+Pediatric Patients: Formal pharmacokinetic studies have not been conducted in the pediatric population (6 years to < 12 years of age).
 
 Male and Female Patients: Based on population pharmacokinetic analysis, the pharmacokinetics of olopatadine and mometasone furoate with RYALTRIS was not influenced by gender.
 
