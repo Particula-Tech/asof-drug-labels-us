@@ -12,4 +12,16 @@ Alcohol 0.95% v/v
 
 (118 mL)
 
-The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 473 mL
+
+NDC 0574-1104-16
+
+Rx Only
+
+Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dextromethorphan Hydrobromide Oral Syrup
+
+Alcohol 0.95% v/v
+
+1 Pint
+
+(473 mL)
