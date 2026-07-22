@@ -43,16 +43,16 @@ Patients Using Continuous Subcutaneous Insulin Pumps
 - Instruct patients of the risk of hypoglycemia from pump malfunction.
   If these problems cannot be promptly corrected, instruct patients to resume therapy with subcutaneous insulin injection and contact their physician [see Warnings and Precautions (5) and How Supplied/Storage and Handling (16.2)].
 
-Kirsty™ is a trademark of Biosimilars New Co Ltd; a Biocon Biologics Company.
-Copyright © 2023 Biocon Biologics Inc. All rights reserved.
+KIRSTY™ is a trademark of Biocon Biologics UK PLC; a Biocon Biologics company.
+Copyright © 2025 Biocon Biologics Inc. All rights reserved.
 
 Manufactured by:
 
 Biocon Biologics Inc.
 
-245 Main st, 2nd Floor
+685 Route 202/206, Suite 204,
 
-Cambridge, MA 02142, U.S.A.
+Bridgewater, NJ 08807, U.S.A.
 
 U.S License No. 2324
 

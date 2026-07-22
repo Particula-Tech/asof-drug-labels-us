@@ -104,15 +104,17 @@ General information about the safe and effective use of KIRSTY
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-KIRSTY™ is a trademark of Biosimilars New Co Ltd; a Biocon Biologics Company.
+KIRSTY™ is a trademark of Biocon Biologics UK PLC; a Biocon Biologics company.
 
-Copyright © 2023 Biocon Biologics Inc. All rights reserved.
+Copyright © 2025 Biocon Biologics Inc. All rights reserved.
 
-Manufactured by: Biocon Biologics Inc. 245 Main st, 2nd Floor Cambridge, MA 02142, U.S.A. U.S. License No. 2324
+Manufactured by: Biocon Biologics Inc.
+
+685 Route 202/206, Suite 204, Bridgewater, NJ 08807, U.S.A. U.S. License No. 2324
 
 Product of Malaysia
 
-Approved: 07/2025
+Revised: 01/2026
 
 # INSTRUCTIONS FOR USE
 
@@ -211,16 +213,14 @@ Do not refill your Prefilled Pen.
 - !Remember to keep the disposable KIRSTY Prefilled Pen with you.
   Do not leave it in a car or other location where it can get too hot or too cold.
 
-BD is a registered trademark of Becton, Dickinson and Company.
-
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-KIRSTY™ is a trademark of Biosimilars New Co. Ltd.; a Biocon Biologics Company.
+KIRSTY™ is a trademark of Biocon Biologics UK PLC; a Biocon Biologics company.
 
-Copyright © 2023 Biocon Biologics Inc. All rights reserved.
+Copyright © 2025 Biocon Biologics Inc. All rights reserved.
 
-Manufactured by: Biocon Biologics Inc. 245 Main st, 2nd Floor Cambridge, MA 02142, U.S.A. U.S. License No. 2324
+Manufactured by: Biocon Biologics Inc. 685 Route 202/206, Suite 204, Bridgewater, NJ 08807, U.S.A. U.S. License No. 2324
 
 Product of Malaysia
 
-Approved: 07/2025
+Revised: 01/2026

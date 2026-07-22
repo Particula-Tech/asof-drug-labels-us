@@ -30,7 +30,7 @@ Manufactured by:
 
 Biocon Biologics Inc.
 
-245 Main St, 2nd Floor Cambridge, MA 02142, U.S.A.
+685 Route 202/206, Suite 204, Bridgewater, NJ 08807, U.S.A.
 
 U.S. License No. 2324
 
@@ -99,9 +99,11 @@ Manufactured by:
 
 Biocon Biologics Inc.
 
-245 Main St, 2nd Floor, Cambridge, MA 02142, U.S.A.
+685 Route 202/206, Suite 204, Bridgewater, NJ 08807, U.S.A.
 
-U.S. License No. 2324 Product of Malaysia
+U.S. License No. 2324
+
+Product of Malaysia
 
 # PRINCIPAL DISPLAY PANEL 10mL - Diluting Medium
 
@@ -134,6 +136,8 @@ Manufactured by:
 
 Biocon Biologics Inc.
 
-245 Main St, 2nd Floor Cambridge, MA 02142, U.S.A.
+685 Route 202/206, Suite 204, Bridgewater, NJ 08807, U.S.A.
 
-U.S. License No. 2324 Product of Malaysia
+U.S. License No. 2324
+
+Product of Malaysia
