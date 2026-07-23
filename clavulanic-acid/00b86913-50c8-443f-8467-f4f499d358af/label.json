@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA065162"
+  ],
+  "inn": "clavulanic-acid",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-095-75"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "amoxicillin and clavulanate potassium",
+      "name": "amoxicillin and clavulanate potassium"
+    }
+  ],
+  "setid": "00b86913-50c8-443f-8467-f4f499d358af",
+  "source": "dailymed"
+}
