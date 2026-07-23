@@ -149,11 +149,11 @@ Metabolic and Nutritional: glycosuria.
 
 Musculoskeletal: leg cramps, fever/rhabdomyolysis, and muscle weakness.
 
-Nervous System: abnormal coordination, depersonalization, emotional lability, hyperkinesia, hypertonia, hypesthesia, vertigo, amnesia, ataxia, derealization, abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hypokinesia, increased libido, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, and unmasking tardive dyskinesia.
+Nervous System: abnormal coordination, depersonalization, emotional lability, hyperkinesia, hypertonia, hypesthesia, vertigo, amnesia, ataxia, derealization, abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hypokinesia, increased libido, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, unmasking tardive dyskinesia and aseptic meningitis.
 
 Respiratory: bronchospasm and pneumonia.
 
-Skin and subcutaneous tissue disorders: maculopapular rash, alopecia, angioedema, exfoliative dermatitis, and hirsutism, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, and drug reaction with eosinophilia and systemic symptoms (DRESS).
+Skin and subcutaneous tissue disorders: maculopapular rash, alopecia, angioedema, exfoliative dermatitis, hirsutism, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, and drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 Special Senses: accommodation abnormality, dry eye, deafness, increased intraocular pressure, angle-closure glaucoma, and mydriasis.
 
