@@ -23,8 +23,6 @@ Sterile, Nonpyrogenic, Preservative-free.
 
 The container closure is not made with natural rubber latex.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Italy ©2019 Sagent Pharmaceuticals, Inc.
+sagent® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60173 (USA) Made in India ©2025 Sagent Pharmaceuticals
 
-September 2019
-
-SAGENT Pharmaceuticals®
+Revised: September 2025

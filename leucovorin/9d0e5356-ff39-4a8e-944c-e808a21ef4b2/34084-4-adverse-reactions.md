@@ -29,4 +29,4 @@ PERCENTAGE OF PATIENTS TREATED WITH LEUCOVORIN/FLUOROURACIL FOR ADVANCED COLOREC
 | Any = percentage of patients reporting toxicity of any severity |  |  |  |  |  |  |
 | Grade 3+ = percentage of patients reporting toxicity of Grade 3 or higher |  |  |  |  |  |  |
 
-To report SUSPECTED ADVERSE REACTIONS, contact Sagent Pharmaceuticals, Inc. at 1-866-625-1618 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Sagent Pharmaceuticals at 1-866-625-1618 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

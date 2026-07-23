@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Leucovorin calcium rescue is indicated after high dose methotrexate therapy in osteosarcoma.
+Leucovorin rescue is indicated after high dose methotrexate therapy in osteosarcoma.
 Leucovorin Calcium for Injection is also indicated to diminish the toxicity and counteract the effects of impaired methotrexate elimination and of inadvertent overdosages of folic acid antagonists.
 
 Leucovorin Calcium for Injection is indicated in the treatment of megaloblastic anemias due to folic acid deficiency when oral therapy is not feasible.
