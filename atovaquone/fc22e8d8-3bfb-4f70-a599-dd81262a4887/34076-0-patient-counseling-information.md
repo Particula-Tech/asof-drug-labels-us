@@ -14,8 +14,7 @@ Instruct patients to stop taking MALARONE immediately and promptly report the fi
 
 Hepatotoxicity
 
-Elevated liver laboratory tests and cases of hepatitis and hepatic failure requiring liver transplantation have been reported with prophylactic use of MALARONE.
-[see Warnings and Precautions (5.3)].
+Elevated liver laboratory tests and cases of hepatitis and hepatic failure requiring liver transplantation have been reported with prophylactic use of MALARONE [see Warnings and Precautions (5.3)].
 
 Advise patients to immediately report symptoms such as yellowing of the skin or eyes, dark urine, pale stools, abdominal pain, nausea, vomiting, fatigue, or itching.
 
@@ -29,4 +28,4 @@ Durham, NC 27701
 
 ©2026 GSK group of companies or its licensor.
 
-MLR:12PI
+MLR:13PI

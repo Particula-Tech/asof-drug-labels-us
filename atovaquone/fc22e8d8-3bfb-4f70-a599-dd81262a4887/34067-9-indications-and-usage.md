@@ -2,7 +2,7 @@
 
 ## 1.1 Prevention of Malaria
 
-MALARONE is indicated for the prophylaxis of Plasmodium falciparum malaria, including in areas where chloroquine resistance has been reported.
+MALARONE is indicated for the prophylaxis of Plasmodium falciparum (P. falciparum) malaria, including in areas where chloroquine resistance has been reported.
 
 ## 1.2 Treatment of Malaria
 

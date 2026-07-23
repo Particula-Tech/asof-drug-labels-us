@@ -11,7 +11,7 @@ In patients with severe or persistent diarrhea or vomiting, alternative antimala
 
 ## 5.2 Relapse of Infection
 
-In mixed P. falciparum and Plasmodium vivax infections, P. vivax parasite relapse occurred commonly when patients were treated with MALARONE alone.
+In mixed P. falciparum and Plasmodium vivax (P. vivax) infections, P. vivax parasite relapse occurred commonly when patients were treated with MALARONE alone.
 
 In the event of recrudescent P. falciparum infections after treatment with MALARONE or failure of chemoprophylaxis with MALARONE, patients should be treated with a different blood schizonticide.
 

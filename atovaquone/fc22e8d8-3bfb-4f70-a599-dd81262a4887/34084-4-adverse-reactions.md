@@ -95,14 +95,14 @@ By Day 14 of this 28‑day study, the frequency of transaminase elevations equal
 
 ## 6.2 Postmarketing Experience
 
-In addition to adverse events reported from clinical trials, the following events have been identified during postmarketing use of MALARONE.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to MALARONE.
+The following reactions have been identified during postapproval use of MALARONE.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+These adverse reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal relationship to MALARONE.
 
 Blood and Lymphatic System Disorders
 
 Neutropenia and anemia.
-Pancytopenia in patients with severe renal impairment treated with proguanil [see Contraindications (4.2)].
+Pancytopenia in patients with severe renal impairment treated with proguanil [see Contraindications (4)].
 
 Immune System Disorders
 
@@ -110,7 +110,7 @@ Allergic reactions including anaphylaxis, angioedema, urticaria, and vasculitis.
 
 Nervous System Disorders
 
-Seizures and psychotic events (such as hallucinations); however, a causal relationship has not been established.
+Seizures and psychiatric adverse reactions, such as hallucinations, depression, anxiety, panic attacks, crying, nightmares, and psychotic disorders.
 
 Gastrointestinal Disorders
 
@@ -118,7 +118,7 @@ Stomatitis.
 
 Hepatobiliary Disorders
 
-Elevated liver laboratory tests, hepatitis, cholestasis; hepatic failure requiring transplant has been reported.
+Elevated liver laboratory tests, hepatitis, cholestasis, and hepatic failure requiring transplant has been reported.
 
 Skin and Subcutaneous Tissue Disorders
 
