@@ -8,7 +8,7 @@ Subcutaneous Adult Dosage Regimen
 - For patients weighing more than 100 kg, the recommended dosage is 90 mg initially and 4 weeks later, followed by 90 mg every 12 weeks.
 
 In subjects weighing more than 100 kg, 45 mg was also shown to be efficacious.
-However, 90 mg resulted in greater efficacy in these subjects [see Clinical Studies (14)].
+However, 90 mg resulted in greater efficacy in these subjects [see Clinical Studies (14.1)].
 
 Subcutaneous Pediatric Dosage Regimen
 
