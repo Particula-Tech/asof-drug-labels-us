@@ -4,12 +4,12 @@
 
 The brands listed are trademarks of their respective owners.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderbad -500 096, India
 
-75082191
+75113436
 
-Revised: 8/2021
+Revised: 6/2026
 
-MX:BUSPAS:R1ppt/MX:PL:BUSPAS:R1p/MX:PL:BUSPAS:R1pt
+MX:BUSPAS:R2p/MX:PL:BUSPAS:R2p

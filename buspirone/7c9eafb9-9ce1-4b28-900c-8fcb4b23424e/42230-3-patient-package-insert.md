@@ -1,5 +1,7 @@
 # Buspirone Hydrochloride Tablets, USP Patient Instruction Sheet
 
+Rx only
+
 HOW TO USE:
 
 Buspirone Hydrochloride Tablets, USP 15 mg and 30 mg Tablets
@@ -19,10 +21,10 @@ If your doctor prescribed the 15 mg tablet:
 To break a multi-scored tablet accurately and easily, hold the tablet between your thumbs and index fingers close to the appropriate tablet score (groove) as shown in the photo.
 Then, with the tablet score facing you, apply pressure and snap the tablet segments apart (segments breaking incorrectly should not be used).
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderbad -500 096, India
 
-75082191
+75113436
 
-Revised: 8/2021 MX:PL:BUSPAS:R1p
+Revised: 6/2026 MX:PL:BUSPAS:R2p
