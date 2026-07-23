@@ -22,7 +22,7 @@ Advise patients to report signs of fluid retention such as peripheral edema in t
 
 Second Primary Malignancies
 
-Advise patients on the risk of second primary malignancies during treatment with Docetaxel Injection [see Warnings and Precautions (5.7)].
+Advise patients on the risk of second primary malignancies during treatment with docetaxel injection [see Warnings and Precautions (5.7)].
 
 Cutaneous Reactions
 
@@ -36,12 +36,12 @@ Instruct patients to immediately report neurologic reactions to their healthcare
 
 Eye Disorders
 
-Advise patients that vision disturbances and excessive tearing are associated with Docetaxel Injection administration.
+Advise patients that vision disturbances and excessive tearing are associated with docetaxel injection administration.
 Instruct patients to immediately report any vision changes to their healthcare provider [see Warnings and Precautions (5.10)].
 
 Gastrointestinal Reactions
 
-Explain to patients that nausea, vomiting, diarrhea, and constipation are associated with Docetaxel Injection administration.
+Explain to patients that nausea, vomiting, diarrhea, and constipation are associated with docetaxel injection administration.
 Instruct patients to report any severe events to their healthcare provider [see Adverse Reactions (6)].
 
 Cardiac Disorders
@@ -50,7 +50,7 @@ Advise patients to report any irregular and/or rapid heartbeat, severe shortness
 
 Other Common Adverse Reactions
 
-Advise patients that other common adverse reactions associated with Docetaxel Injection may include alopecia (cases of permanent hair loss have been reported), asthenia, anorexia, dysgeusia, mucositis, myalgia, nail disorders, or pain.
+Advise patients that other common adverse reactions associated with docetaxel injection may include alopecia (cases of permanent hair loss have been reported), asthenia, anorexia, dysgeusia, mucositis, myalgia, nail disorders, or pain.
 Instruct patients to report these reactions to their healthcare provider if serious events occur [see Adverse Reactions (6)].
 
 Importance of Corticosteroids
@@ -60,45 +60,42 @@ Instruct patients to report to their healthcare provider if they were not compli
 
 Embryo-Fetal Toxicity
 
-Docetaxel Injection can cause fetal harm.
+Docetaxel injection can cause fetal harm.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy.
 Advise patients to avoid becoming pregnant while receiving this drug.
-Advise female patients of reproductive potential to use effective contraceptives during treatment and for 6 months after the last dose of Docetaxel Injection.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of Docetaxel Injection [see Warnings and Precautions (5.12), Use in Specific Populations (8.1,8.3)].
+Advise female patients of reproductive potential to use effective contraceptives during treatment and for 2 months after the last dose of docetaxel injection.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after the last dose of docetaxel injection [see Warnings and Precautions (5.12), Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 
-Advise women not to breastfeed during Docetaxel Injection treatment and for 1 week after the last dose [see Use in Specific Populations (8.2)].
+Advise women not to breastfeed during docetaxel injection treatment and for 1 week after the last dose [see Use in Specific Populations (8.2)].
 
 Infertility
 
-Advise males of reproductive potential that Docetaxel Injection may impair fertility [see Nonclinical Toxicology (13.1)].
+Advise males of reproductive potential that docetaxel injection may impair fertility [see Nonclinical Toxicology (13.1)].
 
 Alcohol Content in Docetaxel Injection
 
-Explain to patients the possible effects of the alcohol content in Docetaxel Injection, including possible effects on the central nervous system [see Warnings and Precautions (5.13)].
+Explain to patients the possible effects of the alcohol content in docetaxel injection, including possible effects on the central nervous system [see Warnings and Precautions (5.13)].
+
+Tumor Lysis Syndrome
+
+Advise patients of the potential risk of tumor lysis syndrome and to immediately report any signs or symptoms associated with this event (nausea, vomiting, confusion, shortness of breath, seizure, irregular heartbeat, dark or cloudy urine, reduced amount of urine, unusual tiredness, muscle cramps) to their healthcare provider.
+Advise patients of the importance of keeping scheduled appointment for blood work or other laboratory tests and of drinking adequate fluids to avoid dehydration [see Warnings and Precautions (5.14)].
 
 Ability to Drive or Operate Machines
 
-Explain to patients that Docetaxel Injection may impair their ability to drive or operate machines due to its side effects [see Adverse Reactions (6)] or due to the alcohol content of Docetaxel Injection [see Warnings and Precautions (5.13)].
+Explain to patients that docetaxel injection may impair their ability to drive or operate machines due to its side effects [see Adverse Reactions (6)] or due to the alcohol content of docetaxel injection [see Warnings and Precautions (5.13)].
 Advise them not to drive or use machines if they experience these side effects during treatment.
 
 Drug Interactions
 
 Inform patients about the risk of drug interactions and the importance of providing a list of prescription and non-prescription drugs to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured for:
+Distributed by: Mylan Institutional LLC, a Viatris Company Morgantown, WV 26505 U.S.A.
 
-Mylan Institutional LLC
+Manufactured by: Mylan Laboratories Limited Bangalore, India
 
-Morgantown, WV 26505 U.S.A.
-
-Manufactured by:
-
-Mylan Laboratories Limited
-
-Bangalore, India
-
-JULY 2021
+Revised: 4/2026 MI/NP:DOCEIJ:R1
 
 Novaplus is a registered trademark of Vizient, Inc.

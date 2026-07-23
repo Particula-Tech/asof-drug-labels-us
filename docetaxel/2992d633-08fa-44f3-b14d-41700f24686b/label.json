@@ -1,11 +1,15 @@
 {
   "application_numbers": [
+    "ANDA208859",
+    "ANDA210072",
     "ANDA210848"
   ],
   "inn": "docetaxel",
   "labeler": "Mylan Institutional LLC",
   "package_ndcs": [
-    "72078-040-08"
+    "72078-040-08",
+    "72078-086-02",
+    "72078-087-16"
   ],
   "products": [
     {
