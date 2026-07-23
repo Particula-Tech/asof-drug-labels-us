@@ -22,7 +22,7 @@ Supplies needed for measuring and taking PHEBURANE
 
 - Bottle of PHEBURANE oral pellets.
 - Calibrated dosing spoon provided with PHEBURANE.
-- A drink such as water, fruit juices or protein-free infant formulas, orsoft food, such as apple sauce or carrot puree.
+- A drink such as water, fruit juices or protein-free infant formulas, or soft food, such as apple sauce or carrot puree.
   It is not recommended to use other foods to take your dose of PHEBURANE oral pellets.
 
 Measuring PHEBURANE

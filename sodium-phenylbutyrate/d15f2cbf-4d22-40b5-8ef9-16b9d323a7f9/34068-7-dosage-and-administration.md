@@ -19,6 +19,8 @@ Combine PHEBURANE with dietary protein restriction and, in some cases, amino aci
 Measure the dose using only the calibrated spoon provided in the packaging.
 This calibrated dosing spoon directly measures PHEBURANE oral pellets as sodium phenylbutyrate [see Dosage and Administration (2.4)].
 
+Missed Dose
+
 If a dose is missed, take the missed dose as soon as possible.
 There should be at least 3 hours between two doses and doses should not be doubled to make up for the missed dose.
 

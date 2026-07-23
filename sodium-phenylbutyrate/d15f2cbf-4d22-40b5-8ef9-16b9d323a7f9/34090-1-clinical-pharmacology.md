@@ -48,4 +48,8 @@ PHEBURANE has not been studied in patients with renal impairment or in patients 
 
 Drug Interaction Studies
 
-In vitro or clinical studies with PHEBURANE for determination of potential drug-drug interaction have not been conducted.
+In Vitro Studies
+
+Sodium phenylbutyrate or phenylacetate is not an inhibitor of CYP2C8, CYP2C19 and CYP3A at clinically relevant concentrations.
+
+Sodium phenylbutyrate or phenylacetate is not a substrate of efflux transporters P-gp and BCRP.

@@ -10,9 +10,9 @@ Valproic Acid and Haloperidol
 
 Hyperammonemia may be induced by haloperidol and by valproic acid.
 
-Monitor plasma ammonia levels closely when corticosteroids, valproic acid, or haloperidol is used concomitantly with PHEBURANE.
+Monitor plasma ammonia levels closely when PHEBURANE is used concomitantly with corticosteroids, valproic acid, or haloperidol.
 
-## 7.2 Potential for Other Drugs to Affect PHEBURANE
+## 7.2 Effects of Other Drugs on PHEBURANE
 
 Probenecid
 
