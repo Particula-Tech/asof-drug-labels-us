@@ -79,9 +79,11 @@ Disposing of the Inhaler and Capsules
 - Throw out all used capsules in your household trash.
 - After all capsules in the carton have been used, throw out the inhaler and use a new carton containing a new inhaler and capsules.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration Rev: 03/2025
+This Instructions for Use has been approved by the U.S. Food and Drug Administration Rev: 07/2026
 
 Marketed by: Merz Pharmaceuticals, LLC Raleigh, NC 27615
+
+Optional: Scan the QR Code or call 1-833-INBRIJA for additional information on how to use the inhaler.
 
 INBRIJA® is a registered trademark of Merz Pharmaceuticals, LLC.
 
@@ -90,4 +92,4 @@ All rights reserved.
 
 U.S. Patent Nos. 7182961, 8404276, 8545878, 8586093, 8685442, 8945612, 9155699, 9393210 and RE43711
 
-FPI-0053 v2.0
+FPI-0053 v3.0
