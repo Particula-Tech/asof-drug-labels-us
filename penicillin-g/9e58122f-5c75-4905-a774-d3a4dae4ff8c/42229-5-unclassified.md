@@ -2,7 +2,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 # DIRECTIONS FOR USE OF GALAXY CONTAINER
 
-Penicillin G Potassium Injection, USP in Galaxy Container is for intravenous administration using sterile equipment.
+Penicillin G Potassium Injection, USP in GALAXY Container is for intravenous administration using sterile equipment.
 
 ## Storage
 
@@ -47,7 +47,7 @@ Clinistix is a registered trademark of Ascensia Diabetes Care Holdings AG
 
 Clinitest is a trademark of Siemens Healthcare Diagnostics Inc.
 
-07-19-03-154
+0719000624
 
 Rev.
-April 2025
+July 2026
