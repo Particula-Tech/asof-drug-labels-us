@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Armlupeg (pegfilgrastim-unne) injection is a clear, colorless solution supplied in a prefilled single-dose syringe for manual use containing 6 mg pefilgrastim-unne, supplied with a 27-gauge, 1/2-inch needle with an UltraSafe® Plus PassiveTM Needle Guard.
+Armlupeg (pegfilgrastim-unne) injection is a clear, colorless solution supplied in a prefilled single-dose syringe for manual use containing 6 mg pegfilgrastim-unne, supplied with a 27-gauge, 1/2-inch needle with an UltraSafe® Plus PassiveTM Needle Guard.
 
 The needle cap of the prefilled syringe contains dry natural rubber (a derivative of latex).
 

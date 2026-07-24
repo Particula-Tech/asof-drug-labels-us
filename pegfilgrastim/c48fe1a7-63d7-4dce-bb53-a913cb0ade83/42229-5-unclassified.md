@@ -1,10 +1,6 @@
 ARMLUPEG®(pegfilgrastim-unne)
 
-Manufactured for:
-
-Lupin Pharmaceuticals, Inc.
-
-Naples, FL 34108 United States
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
 
 Manufactured by:
 

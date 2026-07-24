@@ -230,11 +230,7 @@ Apply an adhesive bandage if needed.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for:
-
-Lupin Pharmaceuticals, Inc.
-
-Naples, FL 34108 United States.
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
 
 Manufactured by:
 
@@ -257,4 +253,4 @@ New York, NY USA 10022
 
 U.S. License No. 2052
 
-Approved: November 2025
+Revised: 06/2026
