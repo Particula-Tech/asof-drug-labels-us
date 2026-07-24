@@ -26,7 +26,7 @@ The most common adverse reactions (≥20%) in patients who received intravenous 
 - in combination with axitinib: diarrhea, fatigue/asthenia, hypertension, hepatotoxicity, hypothyroidism, decreased appetite, palmar-plantar erythrodysesthesia, nausea, stomatitis/mucosal inflammation, dysphonia, rash, cough, and constipation.
 - in combination with lenvatinib: hypothyroidism, hypertension, fatigue, diarrhea, musculoskeletal disorders, nausea, decreased appetite, vomiting, stomatitis, weight loss, abdominal pain, urinary tract infection, proteinuria, constipation, headache, hemorrhagic events, palmar-plantar erythrodysesthesia, dysphonia, rash, hepatotoxicity, and acute kidney injury.
 - in combination with belzutifan (reported in ≥25%): decreased hemoglobin, increased alanine aminotransferase, fatigue, increased aspartate aminotransferase, decreased lymphocytes, and increased alkaline phosphatase.
-- in combination with enfortumab vedotin: rash, peripheral neuropathy, fatigue, pruritus, diarrhea, alopecia, weight loss, decreased appetite, dry eye, nausea, constipation, dysgeusia, and urinary tract infection.
+- in combination with enfortumab vedotin-ejfv: rash, peripheral neuropathy, fatigue, pruritus, diarrhea, alopecia, weight loss, decreased appetite, dry eye, nausea, constipation, dysgeusia, and urinary tract infection.
 - in combination with sacituzumab govitecan-hziy: anemia, neutropenia, diarrhea, nausea, fatigue, alopecia, constipation, rash, vomiting, headache and abdominal pain.
 
 Adverse Reactions in Patients with NSCLC Treated with KEYTRUDA QLEX
@@ -763,16 +763,16 @@ Adverse reactions occurring in patients with HNSCC were generally similar to tho
 
 Urothelial Cancer
 
-Patients with urothelial cancer in combination with enfortumab vedotin
+Patients with urothelial cancer in combination with enfortumab vedotin-ejfv
 
-The safety of intravenous pembrolizumab in combination with enfortumab vedotin was investigated in KEYNOTE-A39 in patients with locally advanced or metastatic urothelial cancer [see Clinical Studies (14.7)].
-A total of 440 patients received intravenous pembrolizumab 200 mg on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle compared to 433 patients who received gemcitabine on Days 1 and 8 and investigator’s choice of cisplatin or carboplatin on Day 1 of each 21-day cycle.
-Among patients who received intravenous pembrolizumab and enfortumab vedotin, the median duration of exposure to intravenous pembrolizumab was 8.5 months (range: 9 days to 28.5 months).
+The safety of intravenous pembrolizumab in combination with enfortumab vedotin-ejfv was investigated in KEYNOTE-A39 in patients with locally advanced or metastatic urothelial cancer [see Clinical Studies (14.7)].
+A total of 440 patients received intravenous pembrolizumab 200 mg on Day 1 and enfortumab vedotin-ejfv 1.25 mg/kg on Days 1 and 8 of each 21-day cycle compared to 433 patients who received gemcitabine on Days 1 and 8 and investigator’s choice of cisplatin or carboplatin on Day 1 of each 21-day cycle.
+Among patients who received intravenous pembrolizumab and enfortumab vedotin-ejfv, the median duration of exposure to intravenous pembrolizumab was 8.5 months (range: 9 days to 28.5 months).
 
-Fatal adverse reactions occurred in 3.9% of patients treated with intravenous pembrolizumab in combination with enfortumab vedotin including acute respiratory failure (0.7%), pneumonia (0.5%), and pneumonitis/ILD (0.2%).
+Fatal adverse reactions occurred in 3.9% of patients treated with intravenous pembrolizumab in combination with enfortumab vedotin-ejfv including acute respiratory failure (0.7%), pneumonia (0.5%), and pneumonitis/ILD (0.2%).
 
-Serious adverse reactions occurred in 50% of patients receiving intravenous pembrolizumab in combination with enfortumab vedotin.
-Serious adverse reactions in ≥2% of patients receiving intravenous pembrolizumab in combination with enfortumab vedotin were rash (6%), acute kidney injury (5%), pneumonitis/ILD (4.5%), urinary tract infection (3.6%), diarrhea (3.2%), pneumonia (2.3%), pyrexia (2%), and hyperglycemia (2%).
+Serious adverse reactions occurred in 50% of patients receiving intravenous pembrolizumab in combination with enfortumab vedotin-ejfv.
+Serious adverse reactions in ≥2% of patients receiving intravenous pembrolizumab in combination with enfortumab vedotin-ejfv were rash (6%), acute kidney injury (5%), pneumonitis/ILD (4.5%), urinary tract infection (3.6%), diarrhea (3.2%), pneumonia (2.3%), pyrexia (2%), and hyperglycemia (2%).
 
 Permanent discontinuation of intravenous pembrolizumab occurred in 27% of patients.
 The most common adverse reactions (≥2%) resulting in permanent discontinuation of intravenous pembrolizumab were pneumonitis/ILD (4.8%) and rash (3.4%).
@@ -780,13 +780,13 @@ The most common adverse reactions (≥2%) resulting in permanent discontinuation
 Dose interruptions of intravenous pembrolizumab occurred in 61% of patients.
 The most common adverse reactions (≥2%) resulting in interruption of intravenous pembrolizumab were rash (17%), peripheral neuropathy (7%), COVID-19 (5%), diarrhea (4.3%), pneumonitis/ILD (3.6%), neutropenia (3.4%), fatigue (3%), alanine aminotransferase increased (2.7%), hyperglycemia (2.5%), pneumonia (2%), and pruritus (2%).
 
-Tables 22 and 23 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in combination with enfortumab vedotin in KEYNOTE-A39.
+Tables 22 and 23 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in combination with enfortumab vedotin-ejfv in KEYNOTE-A39.
 
-Table 22: Adverse Reactions ≥20% (All Grades) in Patients Treated with Intravenous Pembrolizumab in Combination with Enfortumab Vedotin in KEYNOTE-A39
+Table 22: Adverse Reactions ≥20% (All Grades) in Patients Treated with Intravenous Pembrolizumab in Combination with Enfortumab Vedotin-ejfv in KEYNOTE-A39
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
-| Adverse Reaction | Intravenous Pembrolizumab in combination with Enfortumab Vedotin n=440 |  | Chemotherapy n=433 |  |
+| Adverse Reaction | Intravenous Pembrolizumab in combination with Enfortumab Vedotin-ejfv n=440 |  | Chemotherapy n=433 |  |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
 | RashIncludes multiple terms | 68 | 15 | 15 | 0 |
 | Pruritus | 41 | 1.1 | 7 | 0 |
@@ -815,7 +815,7 @@ Table 23: Selected Laboratory Abnormalities Worsened from Baseline Occurring in 
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: intravenous pembrolizumab (range: 407 to 439 patients) | Intravenous Pembrolizumab 200 mg every 3 weeks and Enfortumab Vedotin |  | Chemotherapy |  |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: intravenous pembrolizumab (range: 407 to 439 patients) | Intravenous Pembrolizumab 200 mg every 3 weeks and Enfortumab Vedotin-ejfv |  | Chemotherapy |  |
 | Chemistry |  |  |  |  |
 | Increased aspartate aminotransferase | 75 | 4.6 | 39 | 3.3 |
 | Increased creatinine | 71 | 3.2 | 68 | 2.6 |
@@ -832,16 +832,16 @@ Table 23: Selected Laboratory Abnormalities Worsened from Baseline Occurring in 
 | Anemia | 53 | 7 | 89 | 33 |
 | Neutropenia | 30 | 9 | 80 | 50 |
 
-Cisplatin-ineligible patients with urothelial cancer in combination with enfortumab vedotin
+Cisplatin-ineligible patients with urothelial cancer in combination with enfortumab vedotin-ejfv
 
-The safety of intravenous pembrolizumab in combination with enfortumab vedotin was investigated in KEYNOTE-869 in patients with locally advanced or metastatic urothelial cancer and who are not eligible for cisplatin-based chemotherapy [see Clinical Studies (14.7)].
-A total of 121 patients received intravenous pembrolizumab 200 mg on Day 1, and enfortumab vedotin 1.25 mg/kg on days 1 and 8 of each 21-day cycle.
+The safety of intravenous pembrolizumab in combination with enfortumab vedotin-ejfv was investigated in KEYNOTE-869 in patients with locally advanced or metastatic urothelial cancer and who are not eligible for cisplatin-based chemotherapy [see Clinical Studies (14.7)].
+A total of 121 patients received intravenous pembrolizumab 200 mg on Day 1, and enfortumab vedotin-ejfv 1.25 mg/kg on days 1 and 8 of each 21-day cycle.
 The median duration of exposure to intravenous pembrolizumab was 6.9 months (range: 1 day to 29.6 months).
 
-Fatal adverse reactions occurred in 5% of patients treated with intravenous pembrolizumab in combination with enfortumab vedotin, including sepsis (1.6%), bullous dermatitis (0.8%), myasthenia gravis (0.8%), and pneumonitis (0.8%).
+Fatal adverse reactions occurred in 5% of patients treated with intravenous pembrolizumab in combination with enfortumab vedotin-ejfv, including sepsis (1.6%), bullous dermatitis (0.8%), myasthenia gravis (0.8%), and pneumonitis (0.8%).
 
-Serious adverse reactions occurred in 50% of patients receiving intravenous pembrolizumab and enfortumab vedotin.
-Serious adverse reactions in ≥2% of patients receiving intravenous pembrolizumab in combination with enfortumab vedotin were acute kidney injury (7%), urinary tract infection (7%), urosepsis (5%), hematuria (3.3%), pneumonia (3.3%), pneumonitis (3.3%), sepsis (3.3%), anemia (2.5%), diarrhea (2.5%), hypotension (2.5%), myasthenia gravis (2.5%), myositis (2.5%), and urinary retention (2.5%).
+Serious adverse reactions occurred in 50% of patients receiving intravenous pembrolizumab and enfortumab vedotin-ejfv.
+Serious adverse reactions in ≥2% of patients receiving intravenous pembrolizumab in combination with enfortumab vedotin-ejfv were acute kidney injury (7%), urinary tract infection (7%), urosepsis (5%), hematuria (3.3%), pneumonia (3.3%), pneumonitis (3.3%), sepsis (3.3%), anemia (2.5%), diarrhea (2.5%), hypotension (2.5%), myasthenia gravis (2.5%), myositis (2.5%), and urinary retention (2.5%).
 
 Permanent discontinuation of intravenous pembrolizumab occurred in 32% of patients.
 The most common adverse reactions (≥2%) resulting in permanent discontinuation of intravenous pembrolizumab were pneumonitis (5%), peripheral neuropathy (5%), rash (3.3%), and myasthenia gravis (2.5%).
@@ -849,13 +849,13 @@ The most common adverse reactions (≥2%) resulting in permanent discontinuation
 Dose interruptions of intravenous pembrolizumab occurred in 69% of patients.
 The most common adverse reactions (≥2%) resulting in interruption of intravenous pembrolizumab were peripheral neuropathy (22%), rash (17%), neutropenia (7%), fatigue (6%), diarrhea (5%), lipase increased (5%), acute kidney injury (3.3%), ALT increased (2.5%), and COVID-19 (2.5%).
 
-Tables 24 and 25 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in combination with enfortumab vedotin in KEYNOTE-869.
+Tables 24 and 25 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in combination with enfortumab vedotin-ejfv in KEYNOTE-869.
 
-Table 24: Adverse Reactions Occurring in ≥20% of Patients Treated with Intravenous Pembrolizumab in Combination with Enfortumab Vedotin in KEYNOTE-869
+Table 24: Adverse Reactions Occurring in ≥20% of Patients Treated with Intravenous Pembrolizumab in Combination with Enfortumab Vedotin-ejfv in KEYNOTE-869
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grade 3-4 % |  |
 | --- | --- | --- |
-| Adverse Reaction | Intravenous Pembrolizumab in combination with Enfortumab Vedotin n=121 |  |
+| Adverse Reaction | Intravenous Pembrolizumab in combination with Enfortumab Vedotin-ejfv n=121 |  |
 | Skin and subcutaneous tissue disorders |  |  |
 | RashIncludes: blister, conjunctivitis, dermatitis, dermatitis bullous, dermatitis exfoliative generalized, erythema, erythema multiforme, exfoliative rash, palmar-plantar erythrodysesthesia syndrome, pemphigoid, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, rash vesicular, skin exfoliation, and stomatitis | 71 | 21 |
 | Alopecia | 52 | 0 |
@@ -889,7 +889,7 @@ Table 25: Selected Laboratory Abnormalities Worsened from Baseline Occurring in 
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % |  |
 | --- | --- | --- |
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: intravenous pembrolizumab (range: 114 to 121 patients) | Intravenous Pembrolizumab 200 mg every 3 weeks and Enfortumab Vedotin |  |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: intravenous pembrolizumab (range: 114 to 121 patients) | Intravenous Pembrolizumab 200 mg every 3 weeks and Enfortumab Vedotin-ejfv |  |
 | Chemistry |  |  |
 | Hyperglycemia | 74 | 13 |
 | Increased aspartate aminotransferase | 73 | 9 |
@@ -1025,22 +1025,117 @@ Table 28: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 | Hyperkalemia | 28 | 0.8 | 27 | 6 |
 | Hypocalcemia | 26 | 1.6 | 34 | 2.1 |
 
-Neoadjuvant and Adjuvant Treatment of Cisplatin-Ineligible Patients with MIBC in Combination with Enfortumab Vedotin
+Neoadjuvant and Adjuvant Treatment of Patients Who are Cisplatin-Eligible with MIBC in Combination with Enfortumab Vedotin-ejfv
 
-The safety of intravenous pembrolizumab in combination with enfortumab vedotin as neoadjuvant treatment and continued after radical cystectomy (RC) as adjuvant treatment was investigated in KEYNOTE-905, an open-label, multicenter, randomized, active-controlled trial in patients with previously untreated MIBC who were ineligible for or declined cisplatin-based chemotherapy.
-Patients received intravenous pembrolizumab in combination with enfortumab vedotin (n=167) before and after RC with pelvic lymph node dissection (PLND) or RC with PLND alone (n=159) [see Clinical Studies (14.7)].
+The safety of intravenous pembrolizumab in combination with enfortumab vedotin-ejfv as neoadjuvant treatment and continued after radical cystectomy (RC) as adjuvant treatment was investigated in KEYNOTE-B15, an open-label, multicenter, randomized, active-controlled trial in patients with previously untreated MIBC who were eligible for cisplatin-based chemotherapy.
+Patients received intravenous pembrolizumab in combination with enfortumab vedotin-ejfv (n=403) before and after RC with pelvic lymph node dissection (PLND) or chemotherapy (gemcitabine with cisplatin) before RC with PLND followed by observation (n=396) [see Clinical Studies (14.7)].
+
+For the 403 patients who received intravenous pembrolizumab in the neoadjuvant phase, the median duration of exposure to intravenous pembrolizumab 200 mg every 3 weeks was 2.1 months (range: 1 day to 3.9 months) and the median number of cycles of intravenous pembrolizumab was 4 (range: 1 to 4) out of the planned 4 cycles in the neoadjuvant phase.
+For the 262 patients randomized to receive intravenous pembrolizumab in combination with enfortumab vedotin-ejfv and who received any adjuvant treatment, 249 patients received intravenous pembrolizumab in the adjuvant phase.
+The median duration of exposure to intravenous pembrolizumab 200 mg every 3 weeks was 8.3 months (range: 1 day to 18.9 months) and the median number of cycles of intravenous pembrolizumab was 13 (range: 1 to 13) out of the planned 13 cycles for patients who received intravenous pembrolizumab in the adjuvant phase.
+Across the combined neoadjuvant and adjuvant phases (n=403), the median number of cycles of intravenous pembrolizumab was 10 (range: 1 to 17) out of the planned 17 cycles.
+Tables 29 and 30 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in combination with enfortumab vedotin-ejfv in KEYNOTE-B15.
+
+Table 29: Adverse Reactions ≥20% (All Grades) in Patients Treated with Intravenous Pembrolizumab in Combination with Enfortumab Vedotin-ejfv in KEYNOTE-B15
+
+| All GradesGraded per NCI CTCAE v5.0 % | Grade 3-4 % | All Grades % | Grade 3-4 % |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | Perioperative Intravenous Pembrolizumab 200 mg every 3 weeks in combination with Enfortumab Vedotin-ejfv n=403 |  | Neoadjuvant Gemcitabine with Cisplatin n=396 |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+| RashIncludes multiple terms. | 63 | 12 | 9 | 0.3 |
+| Pruritus | 46 | 3.2 | 4.5 | 0 |
+| Alopecia | 32 | 0.5 | 11 | 0 |
+| General disorders and administration site conditions |  |  |  |  |
+| Fatigue | 48 | 2.7 | 49 | 2.3 |
+| Nervous system disorders |  |  |  |  |
+| Peripheral neuropathy | 43 | 3 | 11 | 0.8 |
+| Dysgeusia | 28 | 0.2 | 10 | 0 |
+| Gastrointestinal disorders |  |  |  |  |
+| Diarrhea | 36 | 3.2 | 16 | 1.3 |
+| Nausea | 28 | 1 | 47 | 0.5 |
+| Constipation | 27 | 0.7 | 37 | 0.5 |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Decreased appetite | 29 | 1 | 18 | 0.5 |
+| Hyperglycemia | 20 | 7 | 7 | 0.8 |
+| Infections and infestations |  |  |  |  |
+| Urinary tract infection | 25 | 10 | 21 | 10 |
+| Eye Disorders |  |  |  |  |
+| Dry eye | 25 | 0 | 1.3 | 0 |
+| Investigations |  |  |  |  |
+| Weight loss | 22 | 2.5 | 6 | 0.3 |
+
+Clinically relevant adverse reactions (<20%) include dry skin (16%), vomiting (13%), hypothyroidism (12%), pneumonitis/ILD (8%), skin hyperpigmentation (3.5%), myositis (0.7%), infusion site extravasation (0.5%), and myasthenia gravis (0.2%).
+
+Table 30: Selected Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Treated with Intravenous Pembrolizumab in Combination with Enfortumab Vedotin-ejfv in KEYNOTE-B15
+
+| All GradesGraded per NCI CTCAE v5.0 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
+| --- | --- | --- | --- | --- |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: intravenous pembrolizumab in combination with enfortumab vedotin-ejfv (range: 399 to 403 patients), and chemotherapy alone (range: 388 to 393 patients). | Perioperative Intravenous Pembrolizumab 200 mg every 3 weeks in combination with Enfortumab Vedotin-ejfv n=403 |  | Neoadjuvant Gemcitabine with Cisplatin n=396 |  |
+| Hematology |  |  |  |  |
+| Decreased hemoglobin | 70 | 8 | 92 | 20 |
+| Decreased lymphocytes | 52 | 17 | 46 | 11 |
+| Decreased neutrophils | 32 | 13 | 75 | 40 |
+| Chemistry |  |  |  |  |
+| Increased AST | 69 | 7 | 23 | 0.5 |
+| Increased ALT | 67 | 8 | 30 | 0 |
+| Increased creatinine | 49 | 8 | 53 | 6 |
+| Decreased sodium | 43 | 4.2 | 39 | 1.3 |
+| Decreased albumin | 42 | 3.3 | 36 | 1.8 |
+| Increased potassium | 35 | 4.7 | 31 | 5 |
+| Decreased potassium | 22 | 3 | 20 | 2.8 |
+| ALT = alanine aminotransferase; AST = aspartate aminotransferase. |  |  |  |  |
+
+Neoadjuvant Phase of KEYNOTE-B15
+
+A total of 403 patients received at least 1 dose of intravenous pembrolizumab in combination with enfortumab vedotin-ejfv as neoadjuvant treatment before receiving RC.
+
+In the neoadjuvant phase, serious adverse reactions occurred in 27% of patients who received intravenous pembrolizumab in combination with enfortumab vedotin-ejfv.
+The most frequent (≥ 1.5%) serious adverse reactions were rash (3.2%), pneumonitis/ILD (2.2%), and diarrhea (1.7%).
+Fatal adverse reactions occurred in 1.7% of patients, including multiple organ dysfunction syndrome (0.5%), and COVID-19 pneumonia, cardiac arrest, pneumonia, septic shock, and urosepsis (0.2% each).
+Additional fatal adverse reactions were reported in 2 patients in the post-surgery phase before adjuvant treatment started, including pneumonia and sepsis (1 patient each).
+
+Permanent discontinuation of intravenous pembrolizumab in the neoadjuvant phase due to an adverse reaction occurred in 17% of patients.
+The most frequent (>1%) adverse reactions resulting in permanent discontinuation of intravenous pembrolizumab were rash (2.2%), increased ALT and pneumonitis/ILD (1.7% each), and hepatitis (1.2%).
+
+Adverse reactions leading to dose interruption of intravenous pembrolizumab in the neoadjuvant phase occurred in 29% of patients.
+The most common adverse reactions (≥2%) leading to dose interruption of intravenous pembrolizumab were rash (8%), increased ALT (3.7%), neutropenia (3.2%), and hyperglycemia (2.5%).
+Of the 403 patients in the intravenous pembrolizumab in combination with enfortumab vedotin-ejfv arm who received neoadjuvant treatment, 13 patients (3.2%) did not receive surgery due to adverse reactions.
+The adverse reactions that led to cancellation of surgery were multiple organ dysfunction syndrome (0.5%) and adenocarcinoma of colon, COVID-19 pneumonia, cardiac arrest, chronic obstructive pulmonary disease, coronary artery disease, glomerulonephritis, immune-mediated lung disease, myocarditis, pneumonia, pneumonitis and urosepsis (0.2% each).
+
+Of the 351 patients who received neoadjuvant treatment with intravenous pembrolizumab in combination with enfortumab vedotin-ejfv and underwent radical cystectomy, 26 (7%) patients experienced delay of surgery (defined as time from last neoadjuvant treatment to surgery exceeding 8 weeks) due to adverse reactions.
+
+Adjuvant Phase of KEYNOTE-B15
+
+Patients who did not proceed to surgery were ineligible for adjuvant therapy.
+Of the 351 patients who received neoadjuvant treatment and underwent surgery, 249 patients received adjuvant treatment with intravenous pembrolizumab with or without enfortumab vedotin-ejfv.
+Of the 102 patients who did not receive adjuvant intravenous pembrolizumab, discontinuation of intravenous pembrolizumab prior to the adjuvant phase was due to an adverse event in 57 patients.
+
+In the adjuvant phase, serious adverse reactions occurred in 35% of patients who received intravenous pembrolizumab in the adjuvant phase; the most frequent (≥1.5%) serious adverse reactions were urinary tract infection (8%), sepsis (2.8%), diarrhea, hyperglycemia, and pneumonitis/ILD (1.6% each).
+Fatal adverse reactions occurred in 3.2% of patients who received intravenous pembrolizumab in the adjuvant phase, including death (0.8%) and cardiac arrest, duodenal ulcer perforation, acute pancreatitis, renal failure, small cell lung cancer and toxic shock syndrome (0.4% each).
+
+Permanent discontinuation of intravenous pembrolizumab due to an adverse reaction occurred in 23% of patients who received intravenous pembrolizumab in the adjuvant phase.
+The most frequent (>1%) adverse reactions resulting in permanent discontinuation of intravenous pembrolizumab were diarrhea and pneumonitis/ILD (2.4% each), rash (2%), and hyperglycemia and sepsis (1.2% each).
+
+Adverse reactions leading to dose interruption of intravenous pembrolizumab in the adjuvant phase occurred in 39% of patients who received intravenous pembrolizumab in the adjuvant phase.
+The most common adverse reactions (≥2%) leading to dose interruption of intravenous pembrolizumab were diarrhea (6%), urinary tract infection (5%), COVID-19 (3.6%), rash (2.8%), and nausea (2%).
+
+Neoadjuvant and Adjuvant Treatment of Patients Who are Cisplatin-Ineligible with MIBC in Combination with Enfortumab Vedotin-ejfv
+
+The safety of intravenous pembrolizumab in combination with enfortumab vedotin-ejfv as neoadjuvant treatment and continued after radical cystectomy (RC) as adjuvant treatment was investigated in KEYNOTE-905, an open-label, multicenter, randomized, active-controlled trial in patients with previously untreated MIBC who were ineligible for or declined cisplatin-based chemotherapy.
+Patients received intravenous pembrolizumab in combination with enfortumab vedotin-ejfv (n=167) before and after RC with pelvic lymph node dissection (PLND) or RC with PLND alone (n=159) [see Clinical Studies (14.7)].
 
 For the 167 patients who received intravenous pembrolizumab in the neoadjuvant phase, the median duration of exposure to intravenous pembrolizumab 200 mg every 3 weeks was 1.4 months (range: 1 day to 2.7 months) and the median number of cycles of intravenous pembrolizumab was 3 (range: 1 to 3) out of the planned 3 cycles in the neoadjuvant phase.
-For the 96 patients who received intravenous pembrolizumab in the adjuvant phase, the median duration of exposure to intravenous pembrolizumab 200 mg every 3 weeks was 8.5 months (range: 1 day to 12.9 months) and the median number of cycles of intravenous pembrolizumab was 12 (range: 1 to 14) out of the planned 14 cycles in the adjuvant phase.
+For the 100 patients randomized to receive intravenous pembrolizumab in combination with enfortumab vedotin-ejfv and who received any adjuvant treatment, 96 patients received intravenous pembrolizumab in the adjuvant phase.
+The median duration of exposure to intravenous pembrolizumab 200 mg every 3 weeks was 8.5 months (range: 1 day to 12.9 months) and the median number of cycles of intravenous pembrolizumab was 12 (range: 1 to 14) out of the planned 14 cycles for patients who received intravenous pembrolizumab in the adjuvant phase.
 Across the combined neoadjuvant and adjuvant phases (n=167), the median number of cycles of intravenous pembrolizumab was 5 (range: 1 to 17) out of the planned 17 cycles.
 
-Tables 29 and 30 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in combination with enfortumab vedotin in KEYNOTE-905.
+Tables 31 and 32 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in combination with enfortumab vedotin-ejfv in KEYNOTE-905.
 
-Table 29: Adverse Reactions ≥20% (All Grades) in Patients Treated with Intravenous Pembrolizumab in Combination with Enfortumab Vedotin in KEYNOTE-905
+Table 31: Adverse Reactions ≥20% (All Grades) in Patients Treated with Intravenous Pembrolizumab in Combination with Enfortumab Vedotin-ejfv in KEYNOTE-905
 
 | All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 % |  |
 | --- | --- | --- | --- | --- |
-| Adverse Reaction | Intravenous Pembrolizumab 200 mg every 3 weeks in combination with enfortumab vedotin before and after RC with PLND n=167 |  | RC with PLND alone n=159 |  |
+| Adverse Reaction | Intravenous Pembrolizumab 200 mg every 3 weeks in combination with enfortumab vedotin-ejfv before and after RC with PLND n=167 |  | RC with PLND alone n=159 |  |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
 | RashIncludes multiple terms., Includes rash, rash maculo-papular, conjunctivitis, erythema, eczema, skin exfoliation, palmar-plantar erythrodysesthesia syndrome, blister, dermatitis, dermatitis exfoliative generalized, exfoliative rash, rash papular, rash pruritic, dermatitis bullous, drug eruption, pemphigoid, rash vesicular, and dermatitis contact. | 54 | 7 | 1.3 | 0 |
 | Pruritus | 47 | 3 | 0 | 0 |
@@ -1065,11 +1160,11 @@ Table 29: Adverse Reactions ≥20% (All Grades) in Patients Treated with Intrave
 
 Clinically relevant adverse reactions (<20%) include dry skin (15%), hypothyroidism (14%), vomiting (9%), pneumonitis/ILD (4.2%), skin hyperpigmentation (3.0%), infusion site extravasation (1.2%), and myasthenia gravis and myositis (0.6% each).
 
-Table 30: Selected Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Treated with Intravenous Pembrolizumab in Combination with Enfortumab Vedotin in KEYNOTE-905
+Table 32: Selected Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Treated with Intravenous Pembrolizumab in Combination with Enfortumab Vedotin-ejfv in KEYNOTE-905
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: Intravenous pembrolizumab in combination with enfortumab vedotin (167 patients), and RC and PLND alone (range: 110 to 121 patients). | Intravenous Pembrolizumab 200 mg every 3 weeks in combination with enfortumab vedotin before and after RC with PLND n=167 |  | RC with PLND alone n=159 |  |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: Intravenous pembrolizumab in combination with enfortumab vedotin-ejfv (167 patients), and RC and PLND alone (range: 110 to 121 patients). | Intravenous Pembrolizumab 200 mg every 3 weeks in combination with enfortumab vedotin-ejfv before and after RC with PLND n=167 |  | RC with PLND alone n=159 |  |
 | Chemistry |  |  |  |  |
 | Increased glucose | 72 | 12 | 24 | 1.7 |
 | Increased AST | 55 | 6 | 11 | 1.8 |
@@ -1085,9 +1180,9 @@ Table 30: Selected Laboratory Abnormalities Worsened from Baseline Occurring in 
 
 Neoadjuvant Phase of KEYNOTE-905
 
-A total of 167 patients received at least 1 dose of intravenous pembrolizumab in combination with enfortumab vedotin as neoadjuvant treatment before receiving RC.
+A total of 167 patients received at least 1 dose of intravenous pembrolizumab in combination with enfortumab vedotin-ejfv as neoadjuvant treatment before receiving RC.
 
-In the neoadjuvant phase, serious adverse reactions occurred in 27% of patients receiving intravenous pembrolizumab in combination with enfortumab vedotin.
+In the neoadjuvant phase, serious adverse reactions occurred in 27% of patients receiving intravenous pembrolizumab in combination with enfortumab vedotin-ejfv.
 The most frequent (≥2%) serious adverse reactions were urinary tract infection (3.6%) and hematuria (2.4%).
 Fatal adverse reactions occurred in 1.2% of patients, including myasthenia gravis and toxic epidermal necrolysis (0.6% each).
 Additional fatal adverse reactions were reported in 2.7% of patients in the post-surgery phase before adjuvant treatment started, including sepsis and intestinal obstruction (1.4% each).
@@ -1097,24 +1192,24 @@ The most frequent (>1%) adverse reactions resulting in permanent discontinuation
 
 Adverse reactions leading to dose interruption of intravenous pembrolizumab in the neoadjuvant phase occurred in 20% of patients.
 The most common adverse reactions (≥2%) leading to dose interruption of intravenous pembrolizumab were rash (4.8%) and neutropenia (2.4%).
-Of the 167 patients in the intravenous pembrolizumab in combination with enfortumab vedotin arm who received neoadjuvant treatment, 7 (4.2%) patients did not receive surgery due to adverse reactions.
+Of the 167 patients in the intravenous pembrolizumab in combination with enfortumab vedotin-ejfv arm who received neoadjuvant treatment, 7 (4.2%) patients did not receive surgery due to adverse reactions.
 The adverse reactions that led to cancellation of surgery were acute myocardial infarction, bile duct cancer, colon cancer, respiratory distress, urinary tract infection, and the two deaths due to myasthenia gravis and toxic epidermal necrolysis (0.6% each).
 
-Of the 146 patients who received neoadjuvant treatment with intravenous pembrolizumab in combination with enfortumab vedotin and underwent radical cystectomy, 6 (4.1%) patients experienced delay of surgery (defined as time from last neoadjuvant treatment to surgery exceeding 8 weeks) due to adverse reactions.
+Of the 146 patients who received neoadjuvant treatment with intravenous pembrolizumab in combination with enfortumab vedotin-ejfv and underwent radical cystectomy, 6 (4.1%) patients experienced delay of surgery (defined as time from last neoadjuvant treatment to surgery exceeding 8 weeks) due to adverse reactions.
 
 Adjuvant Phase of KEYNOTE-905
 
 Patients who did not proceed to surgery were ineligible for adjuvant therapy.
-Of the 149 patients who underwent surgery, 100 patients received adjuvant treatment with intravenous pembrolizumab in combination with enfortumab vedotin.
-Of the 49 patients who did not receive adjuvant treatment, discontinuation of treatment prior to the adjuvant phase was due to an adverse event in 21 patients.
+Of the 146 patients who received neoadjuvant treatment and underwent surgery, 96 patients received adjuvant treatment with intravenous pembrolizumab with or without enfortumab vedotin-ejfv.
+Of the 50 patients who did not receive adjuvant intravenous pembrolizumab, discontinuation of intravenous pembrolizumab prior to the adjuvant phase was due to an adverse event in 19 patients.
 
-In the adjuvant phase, serious adverse reactions occurred in 43% of patients; the most frequent (≥2%) serious adverse reactions were urinary tract infection (8%), acute kidney injury and pyelonephritis (5% each), urosepsis (4%), and hypokalemia, intestinal obstruction, and sepsis (2% each).
-Fatal adverse reactions occurred in 7% of patients, including urosepsis, intracranial hemorrhage, death, myocardial infarction, multiple organ dysfunction syndrome, and pseudomonal pneumonia (1% each).
+In the adjuvant phase, serious adverse reactions occurred in 45% of patients who received intravenous pembrolizumab in the adjuvant phase; the most frequent (≥2%) serious adverse reactions were urinary tract infection (8%), acute kidney injury and pyelonephritis (5% each), urosepsis (4.2%), and hypokalemia, intestinal obstruction, and sepsis (2.1% each).
+Fatal adverse reactions occurred in 7% of patients who received intravenous pembrolizumab in the adjuvant phase, including urosepsis, intracranial hemorrhage, death, myocardial infarction, multiple organ dysfunction syndrome, and pseudomonal pneumonia (1% each).
 
-Permanent discontinuation of intravenous pembrolizumab due to an adverse reaction occurred in 28% of patients.
-The most frequent (>1%) adverse reactions resulting in permanent discontinuation of intravenous pembrolizumab were diarrhea (5%), and peripheral neuropathy, acute kidney injury, and pneumonitis (2% each).
+Permanent discontinuation of intravenous pembrolizumab due to an adverse reaction occurred in 29% of patients who received intravenous pembrolizumab in the adjuvant phase.
+The most frequent (>2%) adverse reactions resulting in permanent discontinuation of intravenous pembrolizumab were diarrhea (5%), and peripheral neuropathy, acute kidney injury, and pneumonitis (2% each).
 
-Adverse reactions leading to dose interruption of intravenous pembrolizumab in the adjuvant phase occurred in 38% of patients.
+Adverse reactions leading to dose interruption of intravenous pembrolizumab in the adjuvant phase occurred in 40% of patients who received intravenous pembrolizumab in the adjuvant phase.
 The most common adverse reactions (≥2%) leading to dose interruption of intravenous pembrolizumab were rash (7%), urinary tract infection (6%), diarrhea (4%), and abdominal pain, COVID-19, fatigue, pruritus, and pyelonephritis (2% each).
 
 BCG-unresponsive High-risk NMIBC
@@ -1129,9 +1224,9 @@ The most common adverse (>1%) reaction resulting in permanent discontinuation of
 Adverse reactions leading to interruption of intravenous pembrolizumab occurred in 22% of patients; the most common (≥2%) were diarrhea (4%) and urinary tract infection (2%).
 Serious adverse reactions occurred in 28% of intravenous pembrolizumab-treated patients.
 The most frequent serious adverse reactions (≥2%) in intravenous pembrolizumab-treated patients were pneumonia (3%), cardiac ischemia (2%), colitis (2%), pulmonary embolism (2%), sepsis (2%), and urinary tract infection (2%).
-Tables 31 and 32 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in KEYNOTE-057.
+Tables 33 and 34 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in KEYNOTE-057.
 
-Table 31: Adverse Reactions Occurring in ≥10% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-057
+Table 33: Adverse Reactions Occurring in ≥10% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-057
 
 | All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3–4 (%) |  |
 | --- | --- | --- |
@@ -1159,7 +1254,7 @@ Table 31: Adverse Reactions Occurring in ≥10% of Patients Receiving Intravenou
 | Endocrine |  |  |
 | Hypothyroidism | 11 | 0 |
 
-Table 32: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of BCG-unresponsive NMIBC Patients Receiving Intravenous Pembrolizumab in KEYNOTE-057
+Table 34: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of BCG-unresponsive NMIBC Patients Receiving Intravenous Pembrolizumab in KEYNOTE-057
 
 | All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4 (%) |  |
 | --- | --- | --- |
@@ -1227,9 +1322,9 @@ Adverse reaction resulting in permanent discontinuation of intravenous pembroliz
 Dosage interruptions of intravenous pembrolizumab due to an adverse reaction occurred in 65% of patients.
 Adverse reactions or laboratory abnormalities leading to interruption of intravenous pembrolizumab (≥2%) were neutropenia (21%), thrombocytopenia (13%), diarrhea (5.5%), fatigue (4.8%), infection (4.8%), anemia (4.5%), increased AST (4.3%), increased ALT (3.8%), increased blood bilirubin (3.3%), white blood cell count decreased (2.2%), nausea (2%), palmar-plantar erythrodysesthesia syndrome (2%), and vomiting (2%).
 
-Tables 33 and 34 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in KEYNOTE-859.
+Tables 35 and 36 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in KEYNOTE-859.
 
-Table 33: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-859
+Table 35: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-859
 
 | All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -1251,7 +1346,7 @@ Table 33: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenou
 | Investigations |  |  |  |  |
 | Weight loss | 20 | 2.8 | 19 | 2.7 |
 
-Table 34: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-859
+Table 36: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-859
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
@@ -1292,9 +1387,9 @@ The most common adverse reactions resulting in permanent discontinuation of intr
 Adverse reactions leading to interruption of intravenous pembrolizumab occurred in 67% of patients.
 The most common adverse reactions leading to interruption of intravenous pembrolizumab (≥2%) were neutropenia (19%), fatigue/asthenia (8%), decreased white blood cell count (5%), pneumonia (5%), decreased appetite (4.3%), anemia (3.2%), increased blood creatinine (3.2%), stomatitis (3.2%), malaise (3.0%), thrombocytopenia (3%), pneumonitis (2.7%), diarrhea (2.4%), dysphagia (2.2%), and nausea (2.2%).
 
-Tables 35 and 36 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in KEYNOTE-590.
+Tables 37 and 38 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in KEYNOTE-590.
 
-Table 35: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-590
+Table 37: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-590
 
 | All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4One fatal event of diarrhea was reported in each arm. (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -1312,7 +1407,7 @@ Table 35: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenou
 | Investigations |  |  |  |  |
 | Weight loss | 24 | 3.0 | 24 | 5 |
 
-Table 36: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Esophageal Cancer Patients Receiving Intravenous Pembrolizumab in KEYNOTE-590
+Table 38: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Esophageal Cancer Patients Receiving Intravenous Pembrolizumab in KEYNOTE-590
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
@@ -1361,9 +1456,9 @@ The most common adverse reaction (≥1%) resulting in permanent discontinuation 
 
 Adverse reactions leading to interruption of intravenous pembrolizumab occurred in 47% of patients; the most common adverse reactions leading to interruption of intravenous pembrolizumab (≥2%) were anemia (7%), COVID-19 (7%), SARS-CoV-2 test positive (4.8%), diarrhea (4.1%), increased ALT (4.1%), increased AST (3.4%) decreased neutrophil count (3.1%), and urinary tract infection (2.7%).
 
-Table 37 and Table 38 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in KEYNOTE-A18.
+Table 39 and Table 40 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in KEYNOTE-A18.
 
-Table 37: Adverse Reactions Occurring in ≥10% of Patients with FIGO 2014 Stage III-IVA Cervical Cancer Receiving Intravenous Pembrolizumab in KEYNOTE-A18
+Table 39: Adverse Reactions Occurring in ≥10% of Patients with FIGO 2014 Stage III-IVA Cervical Cancer Receiving Intravenous Pembrolizumab in KEYNOTE-A18
 
 | All GradesGraded per NCI CTCAE v5.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -1396,7 +1491,7 @@ Table 37: Adverse Reactions Occurring in ≥10% of Patients with FIGO 2014 Stage
 | Reproductive System |  |  |  |  |
 | Pelvic pain | 11 | 1.0 | 14 | 1.7 |
 
-Table 38: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients with FIGO 2014 Stage III-IVA Cervical Cancer Receiving Intravenous Pembrolizumab in KEYNOTE-A18
+Table 40: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients with FIGO 2014 Stage III-IVA Cervical Cancer Receiving Intravenous Pembrolizumab in KEYNOTE-A18
 
 | All GradesGraded per NCI CTCAE v5.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -1438,9 +1533,9 @@ Adverse reactions leading to interruption of intravenous pembrolizumab occurred 
 
 For patients treated with intravenous pembrolizumab, chemotherapy, and bevacizumab (n=196), the most common (≥20%) adverse reactions were peripheral neuropathy (62%), alopecia (58%), anemia (55%), fatigue/asthenia (53%), nausea (41%), neutropenia (41%), diarrhea (39%), hypertension (35%), thrombocytopenia (35%), constipation (31%), arthralgia (31%), vomiting (30%), urinary tract infection (27%), rash (26%), leukopenia (24%), hypothyroidism (22%), and decreased appetite (21%).
 
-Table 39 and Table 40 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in KEYNOTE-826.
+Table 41 and Table 42 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in KEYNOTE-826.
 
-Table 39: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-826
+Table 41: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-826
 
 | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -1464,7 +1559,7 @@ Table 39: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenou
 | Infections |  |  |  |  |
 | Urinary tract infection | 24 | 9 | 26 | 8 |
 
-Table 40: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-826
+Table 42: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-826
 
 | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -1496,9 +1591,9 @@ Patients with autoimmune disease or a medical condition that required immunosupp
 Intravenous pembrolizumab was discontinued due to adverse reactions in 8% of patients.
 Serious adverse reactions occurred in 39% of patients receiving intravenous pembrolizumab.
 The most frequent serious adverse reactions reported included anemia (7%), fistula (4.1%), hemorrhage (4.1%), and infections [except UTIs] (4.1%).
-Tables 41 and 42 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in KEYNOTE-158.
+Tables 43 and 44 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in KEYNOTE-158.
 
-Table 41: Adverse Reactions Occurring in ≥10% of Patients with Cervical Cancer in KEYNOTE-158
+Table 43: Adverse Reactions Occurring in ≥10% of Patients with Cervical Cancer in KEYNOTE-158
 
 |  | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3–4 (%) |
 | --- | --- | --- |
@@ -1532,7 +1627,7 @@ Table 41: Adverse Reactions Occurring in ≥10% of Patients with Cervical Cancer
 | Respiratory, Thoracic and Mediastinal |  |  |
 | Dyspnea | 10 | 1.0 |
 
-Table 42: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients with Cervical Cancer in KEYNOTE-158
+Table 44: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients with Cervical Cancer in KEYNOTE-158
 
 |  | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) |
 | --- | --- | --- |
@@ -1565,9 +1660,9 @@ Intravenous pembrolizumab was discontinued due to adverse reactions in 13% of pa
 The most common adverse reaction resulting in permanent discontinuation of intravenous pembrolizumab was ascites (2.3%).
 Adverse reactions leading to interruption of intravenous pembrolizumab occurred in 26% of patients; the most common adverse reactions or laboratory abnormalities leading to interruption of intravenous pembrolizumab (≥2%) were increased blood bilirubin (9%), increased AST (5%), and increased ALT (2%).
 
-Tables 43 and 44 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in KEYNOTE-394.
+Tables 45 and 46 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in KEYNOTE-394.
 
-Table 43: Adverse Reactions Occurring in ≥10% of Patients with HCC Receiving Intravenous Pembrolizumab in KEYNOTE-394
+Table 45: Adverse Reactions Occurring in ≥10% of Patients with HCC Receiving Intravenous Pembrolizumab in KEYNOTE-394
 
 | All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-5 (%) | All Grades (%) | Grades 3-5 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -1588,7 +1683,7 @@ Table 43: Adverse Reactions Occurring in ≥10% of Patients with HCC Receiving I
 | Endocrine |  |  |  |  |
 | Hypothyroidism | 10 | 0 | 7 | 0 |
 
-Table 44: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients with HCC Receiving Intravenous Pembrolizumab in KEYNOTE-394
+Table 46: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients with HCC Receiving Intravenous Pembrolizumab in KEYNOTE-394
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
@@ -1624,15 +1719,15 @@ The most common adverse reaction resulting in permanent discontinuation of intra
 Adverse reactions leading to the interruption of intravenous pembrolizumab occurred in 55% of patients.
 The most common adverse reactions or laboratory abnormalities leading to interruption of intravenous pembrolizumab (≥2%) were decreased neutrophil count (18%), decreased platelet count (10%), anemia (6%), decreased white blood count (4%), pyrexia (3.8%), fatigue (3.0%), cholangitis (2.8%), increased ALT (2.6%), increased AST (2.5%), and biliary obstruction (2.3%).
 
-In the intravenous pembrolizumab plus chemotherapy versus placebo plus chemotherapy arms, there was a difference of ≥5% incidence in adverse reactions between patients treated with intravenous pembrolizumab versus placebo for pyrexia (26% vs 20%), rash (21% vs 13%), pruritus (15% vs 10%), and hypothyroidism (9% vs. 2.6%).
+In the intravenous pembrolizumab plus chemotherapy versus placebo plus chemotherapy arms, there was a difference of ≥5% incidence in adverse reactions between patients treated with intravenous pembrolizumab versus placebo for pyrexia (26% vs. 20%), rash (21% vs. 13%), pruritus (15% vs. 10%), and hypothyroidism (9% vs. 2.6%).
 There were no clinically meaningful differences in incidence of Grade 3-4 toxicity between arms.
 
-There was a difference of ≥5% incidence in laboratory abnormalities between patients treated with intravenous pembrolizumab plus chemotherapy versus placebo plus chemotherapy for decreased lymphocytes (69% vs 61%).
+There was a difference of ≥5% incidence in laboratory abnormalities between patients treated with intravenous pembrolizumab plus chemotherapy versus placebo plus chemotherapy for decreased lymphocytes (69% vs. 61%).
 There were no clinically meaningful differences in incidence of Grade 3-4 toxicity between arms.
 
 MCC
 
-Among the 105 patients with MCC enrolled in KEYNOTE-017 and KEYNOTE-913 [see Clinical Studies (14.15)], the median duration of exposure to intravenous pembrolizumab was 6.3 months (range 1 day to 28 months).
+Among the 105 patients with MCC enrolled in KEYNOTE-017 and KEYNOTE-913 [see Clinical Studies (14.15)], the median duration of exposure to intravenous pembrolizumab was 6.3 months (range: 1 day to 28 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
 Adverse reactions occurring in patients with MCC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with intravenous pembrolizumab as a single agent.
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence included increased lipase (17%).
@@ -1666,9 +1761,9 @@ The most common adverse reactions (≥20%) in patients receiving intravenous pem
 
 Twenty-seven percent (27%) of patients treated with intravenous pembrolizumab in combination with axitinib received an oral prednisone dose equivalent to ≥40 mg daily for an immune-mediated adverse reaction.
 
-Tables 45 and 46 summarize the adverse reactions and laboratory abnormalities, respectively, that occurred in at least 20% of patients treated with intravenous pembrolizumab and axitinib in KEYNOTE-426.
+Tables 47 and 48 summarize the adverse reactions and laboratory abnormalities, respectively, that occurred in at least 20% of patients treated with intravenous pembrolizumab and axitinib in KEYNOTE-426.
 
-Table 45: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab with Axitinib in KEYNOTE-426
+Table 47: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab with Axitinib in KEYNOTE-426
 
 | All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -1695,7 +1790,7 @@ Table 45: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenou
 | Dysphonia | 25 | 0.2 | 3.3 | 0 |
 | Cough | 21 | 0.2 | 14 | 0.5 |
 
-Table 46: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab with Axitinib in KEYNOTE-426
+Table 48: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab with Axitinib in KEYNOTE-426
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
@@ -1739,9 +1834,9 @@ The most common adverse reactions (≥3%) resulting in interruption of intraveno
 
 Fifteen percent (15%) of patients treated with intravenous pembrolizumab in combination with lenvatinib received an oral prednisone equivalent to ≥40 mg daily for an immune-mediated adverse reaction.
 
-Tables 47 and 48 summarize the adverse reactions and laboratory abnormalities, respectively, that occurred in ≥20% of patients treated with intravenous pembrolizumab and lenvatinib in KEYNOTE-581.
+Tables 49 and 50 summarize the adverse reactions and laboratory abnormalities, respectively, that occurred in ≥20% of patients treated with intravenous pembrolizumab and lenvatinib in KEYNOTE-581.
 
-Table 47: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab with Lenvatinib in KEYNOTE-581
+Table 49: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab with Lenvatinib in KEYNOTE-581
 
 | All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -1781,7 +1876,7 @@ Table 47: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenou
 
 Clinically relevant adverse reactions (<20%) that occurred in patients receiving intravenous pembrolizumab with lenvatinib were myocardial infarction (3%) and angina pectoris (1%).
 
-Table 48: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% (All Grades) of Patients Receiving Intravenous Pembrolizumab with Lenvatinib in KEYNOTE-581
+Table 50: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% (All Grades) of Patients Receiving Intravenous Pembrolizumab with Lenvatinib in KEYNOTE-581
 
 | All Grades %Laboratory abnormality percentage is based on the number of patients who had both baseline and at least one post-baseline laboratory measurement for each parameter: intravenous pembrolizumab with lenvatinib (range: 343 to 349 patients) and sunitinib (range: 329 to 335 patients). | Grade 3-4 % | All Grades % | Grade 3-4 % |  |
 | --- | --- | --- | --- | --- |
@@ -1831,9 +1926,9 @@ Discontinuation of intravenous pembrolizumab due to an adverse reaction occurred
 
 Dose interruptions of intravenous pembrolizumab due to an adverse reaction occurred in 26% of patients; the most common (≥1%) were increased AST (2.3%), arthralgia (1.6%), hypothyroidism (1.6%), diarrhea (1.4%), increased ALT (1.4%), fatigue (1.4%), rash, decreased appetite, and vomiting (1% each).
 
-Tables 49 and 50 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in KEYNOTE-564.
+Tables 51 and 52 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in KEYNOTE-564.
 
-Table 49: SelectedAdverse reactions occurring at same or higher incidence than in placebo arm Adverse Reactions Occurring in ≥10% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-564
+Table 51: SelectedAdverse reactions occurring at same or higher incidence than in placebo arm Adverse Reactions Occurring in ≥10% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-564
 
 | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -1861,7 +1956,7 @@ Table 49: SelectedAdverse reactions occurring at same or higher incidence than i
 | Renal and Urinary |  |  |  |  |
 | Acute kidney injuryIncludes acute kidney injury, blood creatinine increased, renal failure, renal impairment, oliguria, glomerular filtration rate decreased, nephropathy toxic | 13 | 1.2 | 10 | 0.2 |
 
-Table 50: SelectedLaboratory abnormalities occurring at same or higher incidence than placebo Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-564
+Table 52: SelectedLaboratory abnormalities occurring at same or higher incidence than placebo Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-564
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
@@ -1893,9 +1988,9 @@ Adverse reactions which required dosage interruption of intravenous pembrolizuma
 
 The most common (≥25%) adverse reactions, including laboratory abnormalities, in patients who received intravenous pembrolizumab in combination with belzutifan were decreased hemoglobin, increased ALT, fatigue, increased AST, decreased lymphocytes, and increased alkaline phosphatase.
 
-Tables 51 and 52 summarize adverse reactions and laboratory abnormalities, respectively, in LITESPARK-022.
+Tables 53 and 54 summarize adverse reactions and laboratory abnormalities, respectively, in LITESPARK-022.
 
-Table 51: Adverse Reactions (≥10%) of Patients with ccRCC Who Received Intravenous Pembrolizumab in Combination with Belzutifan [at a Higher Incidence (Between Arm Difference of ≥4%) Compared to Control] in LITESPARK-022
+Table 53: Adverse Reactions (≥10%) of Patients with ccRCC Who Received Intravenous Pembrolizumab in Combination with Belzutifan [at a Higher Incidence (Between Arm Difference of ≥4%) Compared to Control] in LITESPARK-022
 
 |  | All GradesGraded per NCI CTCAE v5.0 (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
 | --- | --- | --- | --- | --- |
@@ -1911,7 +2006,7 @@ Table 51: Adverse Reactions (≥10%) of Patients with ccRCC Who Received Intrave
 | Respiratory, thoracic, and mediastinal |  |  |  |  |
 | Dyspnea | 12 | 0.9 | 6 | 0.1 |
 
-Table 52: Laboratory Abnormalities Worsened from Baseline (≥20%) in Patients with ccRCC Who Received Intravenous Pembrolizumab in Combination with Belzutifan [at a Higher Incidence (Between Arm Difference of ≥10%) Compared to Control] in LITESPARK-022
+Table 54: Laboratory Abnormalities Worsened from Baseline (≥20%) in Patients with ccRCC Who Received Intravenous Pembrolizumab in Combination with Belzutifan [at a Higher Incidence (Between Arm Difference of ≥10%) Compared to Control] in LITESPARK-022
 
 | All GradesGraded per NCI CTCAE v5.0 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
@@ -1960,9 +2055,9 @@ The most common adverse reaction leading to discontinuation of intravenous pembr
 Dose interruptions of intravenous pembrolizumab due to an adverse reaction occurred in 48% of these patients.
 The most common adverse reactions leading to interruption of intravenous pembrolizumab (≥3%) were diarrhea (8%), increased ALT (4.4%), increased AST (3.8%), and hypertension (3.5%).
 
-Tables 53 and 54 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in combination with lenvatinib in KEYNOTE-775.
+Tables 55 and 56 summarize adverse reactions and laboratory abnormalities, respectively, in patients on intravenous pembrolizumab in combination with lenvatinib in KEYNOTE-775.
 
-Table 53: Adverse Reactions Occurring in ≥20% of Patients with Endometrial Carcinoma in KEYNOTE-775
+Table 55: Adverse Reactions Occurring in ≥20% of Patients with Endometrial Carcinoma in KEYNOTE-775
 
 |  | All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |
 | --- | --- | --- | --- | --- |
@@ -2000,7 +2095,7 @@ Table 53: Adverse Reactions Occurring in ≥20% of Patients with Endometrial Car
 | Palmar-plantar erythrodysesthesiaIncludes palmar-plantar erythrodysesthesia syndrome, palmar erythema, plantar erythema | 23 | 2.9 | 0.9 | 0 |
 | RashIncludes rash, rash maculo-papular, rash pruritic, rash erythematous, rash macular, rash pustular, rash papular, rash vesicular, application site rash | 20 | 2.3 | 4.9 | 0 |
 
-Table 54: Laboratory Abnormalities Worsened from BaselineWith at least one grade increase from baseline Occurring in ≥20% (All Grades) or ≥3% (Grades 3-4) of Patients with Endometrial Carcinoma in KEYNOTE-775
+Table 56: Laboratory Abnormalities Worsened from BaselineWith at least one grade increase from baseline Occurring in ≥20% (All Grades) or ≥3% (Grades 3-4) of Patients with Endometrial Carcinoma in KEYNOTE-775
 
 |  | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |
 | --- | --- | --- | --- | --- |
@@ -2045,7 +2140,7 @@ Adverse reactions occurring in patients with TMB-H cancer were similar to those 
 
 cSCC
 
-Among the 159 patients with advanced cSCC (recurrent or metastatic or locally advanced disease) enrolled in KEYNOTE-629 [see Clinical Studies (14.19)], the median duration of exposure to intravenous pembrolizumab was 6.9 months (range 1 day to 28.9 months).
+Among the 159 patients with advanced cSCC (recurrent or metastatic or locally advanced disease) enrolled in KEYNOTE-629 [see Clinical Studies (14.19)], the median duration of exposure to intravenous pembrolizumab was 6.9 months (range: 1 day to 28.9 months).
 Patients with autoimmune disease or a medical condition that required systemic corticosteroids or other immunosuppressive medications were ineligible.
 Adverse reactions occurring in patients with recurrent or metastatic cSCC or locally advanced cSCC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with intravenous pembrolizumab as a single agent.
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence included lymphopenia (10%) and decreased sodium (10%).
@@ -2070,9 +2165,9 @@ The most common adverse reactions (≥1%) resulting in permanent discontinuation
 Adverse reactions leading to the interruption of intravenous pembrolizumab occurred in 57% of patients.
 The most common adverse reactions leading to interruption of intravenous pembrolizumab (≥2%) were neutropenia (26%), thrombocytopenia (6%), increased ALT (6%), increased AST (3.7%), anemia (3.5%), rash (3.2%), febrile neutropenia (2.8%), leukopenia (2.8%), upper respiratory tract infection (2.6%), pyrexia (2.2%), and fatigue (2.1%).
 
-Tables 55 and 56 summarize the adverse reactions and laboratory abnormalities, respectively, in patients treated with intravenous pembrolizumab in KEYNOTE-522.
+Tables 57 and 58 summarize the adverse reactions and laboratory abnormalities, respectively, in patients treated with intravenous pembrolizumab in KEYNOTE-522.
 
-Table 55: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-522
+Table 57: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-522
 
 | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -2103,7 +2198,7 @@ Table 55: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenou
 | Psychiatric |  |  |  |  |
 | Insomnia | 21 | 0.5 | 19 | 0 |
 
-Table 56: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-522
+Table 58: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab in KEYNOTE-522
 
 | All GradesGraded per NCI CTCAE v4.0 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
@@ -2160,9 +2255,9 @@ The most common adverse reactions resulting in permanent discontinuation of intr
 Adverse reactions leading to the interruption of intravenous pembrolizumab occurred in 50% of patients.
 The most common adverse reactions leading to interruption of intravenous pembrolizumab (≥2%) were neutropenia (22%), thrombocytopenia (14%), anemia (7%), increased ALT (6%), leukopenia (5%), increased AST (5%), decreased white blood cell count (3.9%), and diarrhea (2%).
 
-Tables 57 and 58 summarize the adverse reactions and laboratory abnormalities in patients on intravenous pembrolizumab in KEYNOTE-355.
+Tables 59 and 60 summarize the adverse reactions and laboratory abnormalities in patients on intravenous pembrolizumab in KEYNOTE-355.
 
-Table 57: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab with Chemotherapy in KEYNOTE-355
+Table 59: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab with Chemotherapy in KEYNOTE-355
 
 | All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -2184,7 +2279,7 @@ Table 57: Adverse Reactions Occurring in ≥20% of Patients Receiving Intravenou
 | Nervous System |  |  |  |  |
 | HeadacheIncludes headache, migraine, tension headache | 20 | 0.7 | 23 | 0.7 |
 
-Table 58: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab with Chemotherapy in KEYNOTE-355
+Table 60: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving Intravenous Pembrolizumab with Chemotherapy in KEYNOTE-355
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |

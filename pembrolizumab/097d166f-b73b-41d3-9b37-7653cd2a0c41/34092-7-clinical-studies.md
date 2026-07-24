@@ -68,9 +68,9 @@ Among patients with BRAF mutation-positive melanoma, 139 (46%) were previously t
 The study demonstrated statistically significant improvements in OS and PFS for patients randomized to intravenous pembrolizumab as compared to ipilimumab.
 Among the 91 patients randomized to intravenous pembrolizumab 10 mg/kg every 3 weeks with an objective response, response durations ranged from 1.4+ to 8.1+ months.
 Among the 94 patients randomized to intravenous pembrolizumab 10 mg/kg every 2 weeks with an objective response, response durations ranged from 1.4+ to 8.2 months.
-Efficacy results are summarized in Table 59 and Figure 1.
+Efficacy results are summarized in Table 61 and Figure 1.
 
-Table 59: Efficacy Results in KEYNOTE-006
+Table 61: Efficacy Results in KEYNOTE-006
 
 | Endpoint | Intravenous Pembrolizumab 10 mg/kg every 3 weeks n=277 | Intravenous Pembrolizumab 10 mg/kg every 2 weeks n=279 | Ipilimumab 3 mg/kg every 3 weeks n=278 |
 | --- | --- | --- | --- |
@@ -108,9 +108,9 @@ The study demonstrated a statistically significant improvement in PFS for patien
 There was no statistically significant difference between intravenous pembrolizumab 2 mg/kg and chemotherapy or between intravenous pembrolizumab 10 mg/kg and chemotherapy in the OS analysis in which 55% of the patients who had been randomized to receive chemotherapy had crossed over to receive intravenous pembrolizumab.
 Among the 38 patients randomized to intravenous pembrolizumab 2 mg/kg with an objective response, response durations ranged from 1.3+ to 11.5+ months.
 Among the 46 patients randomized to intravenous pembrolizumab 10 mg/kg with an objective response, response durations ranged from 1.1+ to 11.1+ months.
-Efficacy results are summarized in Table 60 and Figure 2.
+Efficacy results are summarized in Table 62 and Figure 2.
 
-Table 60: Efficacy Results in KEYNOTE-002
+Table 62: Efficacy Results in KEYNOTE-002
 
 |  | n=180 | n=181 | n=179 |
 | --- | --- | --- | --- |
@@ -147,9 +147,9 @@ The study population characteristics were: median age of 61 years (range: 16 to 
 Sixty-four percent had Stage IIB and 35% had Stage IIC.
 
 The trial demonstrated a statistically significant improvement in RFS and DMFS for patients randomized to the intravenous pembrolizumab arm compared with placebo.
-Efficacy results are summarized in Table 61 and Figure 3.
+Efficacy results are summarized in Table 63 and Figure 3.
 
-Table 61: Efficacy Results in KEYNOTE-716
+Table 63: Efficacy Results in KEYNOTE-716
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks n=487 | Placebo n=489 |
 | --- | --- | --- |
@@ -181,9 +181,9 @@ The study population characteristics were: median age of 54 years (range: 19 to 
 Sixteen percent had Stage IIIA, 46% had Stage IIIB, 18% had Stage IIIC (1-3 positive lymph nodes), and 20% had Stage IIIC (≥4 positive lymph nodes); 50% were BRAF V600 mutation positive and 44% were BRAF wild-type; and 84% had PD-L1 positive melanoma with TPS ≥1% according to an IUO assay.
 
 The trial demonstrated a statistically significant improvement in RFS and DMFS for patients randomized to the intravenous pembrolizumab arm compared with placebo.
-Efficacy results are summarized in Table 62 and Figure 4.
+Efficacy results are summarized in Table 64 and Figure 4.
 
-Table 62: Efficacy Results in KEYNOTE-054
+Table 64: Efficacy Results in KEYNOTE-054
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks n=514 | Placebo n=505 |
 | --- | --- | --- |
@@ -228,9 +228,9 @@ Seventy-two percent received carboplatin and 12% were never smokers.
 A total of 85 patients in the placebo and chemotherapy arm received an anti-PD-1/PD-L1 monoclonal antibody at the time of disease progression.
 
 The trial demonstrated a statistically significant improvement in OS and PFS for patients randomized to intravenous pembrolizumab in combination with pemetrexed and platinum chemotherapy compared with placebo, pemetrexed, and platinum chemotherapy.
-Table 63 and Figure 5 summarize the efficacy results for KEYNOTE-189.
+Table 65 and Figure 5 summarize the efficacy results for KEYNOTE-189.
 
-Table 63: Efficacy Results in KEYNOTE-189
+Table 65: Efficacy Results in KEYNOTE-189
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks Pemetrexed Platinum Chemotherapy n=410 | Placebo Pemetrexed Platinum Chemotherapy n=206 |
 | --- | --- | --- |
@@ -276,9 +276,9 @@ The study population characteristics were: median age of 65 years (range: 29 to 
 Thirty-five percent had tumor PD-L1 expression TPS <1%; 19% were from the East Asian region; and 60% received paclitaxel.
 
 The trial demonstrated a statistically significant improvement in OS, PFS and ORR in patients randomized to intravenous pembrolizumab in combination with carboplatin and either paclitaxel or paclitaxel protein-bound chemotherapy compared with patients randomized to placebo with carboplatin and either paclitaxel or paclitaxel protein-bound chemotherapy.
-Table 64 and Figure 6 summarize the efficacy results for KEYNOTE-407.
+Table 66 and Figure 6 summarize the efficacy results for KEYNOTE-407.
 
-Table 64: Efficacy Results in KEYNOTE-407
+Table 66: Efficacy Results in KEYNOTE-407
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks Carboplatin Paclitaxel/Paclitaxel protein-bound n=278 | Placebo Carboplatin Paclitaxel/Paclitaxel protein-bound n=281 |
 | --- | --- | --- |
@@ -329,9 +329,9 @@ Sixty-nine percent had ECOG PS of 1; 39% with squamous and 61% with nonsquamous 
 Forty-seven percent of patients had TPS ≥50% NSCLC and 53% had TPS 1 to 49% NSCLC.
 
 The trial demonstrated a statistically significant improvement in OS for patients (PD-L1 TPS ≥50%, TPS ≥20%, TPS ≥1%) randomized to intravenous pembrolizumab as compared with chemotherapy.
-Table 65 and Figure 7 summarize the efficacy results in the subgroup of patients with TPS ≥50% and in all randomized patients with TPS ≥1%.
+Table 67 and Figure 7 summarize the efficacy results in the subgroup of patients with TPS ≥50% and in all randomized patients with TPS ≥1%.
 
-Table 65: Efficacy Results of All Randomized Patients (TPS ≥1% and TPS ≥50%) in KEYNOTE-042
+Table 67: Efficacy Results of All Randomized Patients (TPS ≥1% and TPS ≥50%) in KEYNOTE-042
 
 | n=637 | n=637 | n=299 | n=300 |  |
 | --- | --- | --- | --- | --- |
@@ -382,9 +382,9 @@ The study population characteristics were: median age of 65 years (range: 33 to 
 A total of 66 patients in the chemotherapy arm received intravenous pembrolizumab at the time of disease progression.
 
 The trial demonstrated a statistically significant improvement in both PFS and OS for patients randomized to intravenous pembrolizumab as compared with chemotherapy.
-Table 66 and Figure 8 summarize the efficacy results for KEYNOTE-024.
+Table 68 and Figure 8 summarize the efficacy results for KEYNOTE-024.
 
-Table 66: Efficacy Results in KEYNOTE-024
+Table 68: Efficacy Results in KEYNOTE-024
 
 |  | n=154 | n=151 |
 | --- | --- | --- |
@@ -422,9 +422,9 @@ Additional efficacy outcome measures were ORR and DoR in the subgroup of patient
 The study population characteristics were: median age of 63 years (range: 20 to 88), 42% age 65 or older; 61% male; 72% White and 21% Asian; 66% ECOG PS of 1; 43% with high PD-L1 tumor expression; 21% with squamous, 70% with nonsquamous, and 8% with mixed, other or unknown histology; 91% metastatic (M1) disease; 15% with history of brain metastases; and 8% and 1% with EGFR and ALK genomic aberrations, respectively.
 All patients had received prior therapy with a platinum-doublet regimen, 29% received two or more prior therapies for their metastatic disease.
 
-Tables 67 and 68 and Figure 9 summarize efficacy results in the subgroup with TPS ≥50% population and in all patients, respectively.
+Tables 69 and 70 and Figure 9 summarize efficacy results in the subgroup with TPS ≥50% population and in all patients, respectively.
 
-Table 67: Efficacy Results of the Subgroup of Patients with TPS ≥50% in KEYNOTE-010
+Table 69: Efficacy Results of the Subgroup of Patients with TPS ≥50% in KEYNOTE-010
 
 | Endpoint | Intravenous Pembrolizumab 2 mg/kg every 3 weeks n=139 | Intravenous Pembrolizumab 10 mg/kg every 3 weeks n=151 | Docetaxel 75 mg/m2 every 3 weeks n=152 |
 | --- | --- | --- | --- |
@@ -444,7 +444,7 @@ Table 67: Efficacy Results of the Subgroup of Patients with TPS ≥50% in KEYNOT
 | Median duration of response in months (range) | NR (0.7+, 16.8+) | NR (2.1+, 17.8+) | 8.1 (2.1+, 8.8+) |
 | NR = not reached |  |  |  |
 
-Table 68: Efficacy Results of All Randomized Patients (TPS ≥1%) in KEYNOTE-010
+Table 70: Efficacy Results of All Randomized Patients (TPS ≥1%) in KEYNOTE-010
 
 | Endpoint | Intravenous Pembrolizumab 2 mg/kg every 3 weeks n=344 | Intravenous Pembrolizumab 10 mg/kg every 3 weeks n=346 | Docetaxel 75 mg/m2 every 3 weeks n=343 |
 | --- | --- | --- | --- |
@@ -495,9 +495,9 @@ Eighty-one percent of patients in the intravenous pembrolizumab in combination w
 
 The trial demonstrated statistically significant improvements in OS and EFS for patients randomized to intravenous pembrolizumab in combination with platinum-containing chemotherapy followed by intravenous pembrolizumab as a single agent compared with patients randomized to placebo in combination with platinum-containing chemotherapy followed by placebo alone.
 
-Table 69 and Figure 10 summarize the efficacy results for KEYNOTE-671.
+Table 71 and Figure 10 summarize the efficacy results for KEYNOTE-671.
 
-Table 69: Efficacy Results in KEYNOTE-671
+Table 71: Efficacy Results in KEYNOTE-671
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks with chemotherapy/Intravenous Pembrolizumab n=397 | Placebo with chemotherapy/Placebo n=400 |
 | --- | --- | --- |
@@ -540,9 +540,9 @@ The trial met its primary endpoint, demonstrating a statistically significant im
 In an exploratory subgroup analysis of the 167 patients (14%) who did not receive adjuvant chemotherapy, the DFS HR was 1.25 (95% CI: 0.76, 2.05).
 OS results were not mature with only 42% of pre-specified OS events in the overall population.
 
-Table 70 and Figure 11 summarize the efficacy results for KEYNOTE-091 in patients who received adjuvant chemotherapy.
+Table 72 and Figure 11 summarize the efficacy results for KEYNOTE-091 in patients who received adjuvant chemotherapy.
 
-Table 70: Efficacy Results in KEYNOTE-091 for Patients Who Received Adjuvant Chemotherapy
+Table 72: Efficacy Results in KEYNOTE-091 for Patients Who Received Adjuvant Chemotherapy
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks n=506 | Placebo n=504 |
 | --- | --- | --- |
@@ -574,9 +574,9 @@ The study population characteristics were: median age of 70 years (77% age 65 or
 Seventy-eight percent had epithelioid and 22% had non-epithelioid histology; 60% had tumors with PD-L1 CPS ≥1 and 30% had tumors with PD-L1 CPS <1.
 
 The trial demonstrated a statistically significant improvement in OS, PFS, and ORR in patients randomized to intravenous pembrolizumab in combination with chemotherapy compared with patients randomized to chemotherapy alone.
-Table 71 and Figure 12 summarize the efficacy results for KEYNOTE-483.
+Table 73 and Figure 12 summarize the efficacy results for KEYNOTE-483.
 
-Table 71: Efficacy Results in KEYNOTE-483
+Table 73: Efficacy Results in KEYNOTE-483
 
 |  | (n=222) | (n=218) |
 | --- | --- | --- |
@@ -639,9 +639,9 @@ In the intravenous pembrolizumab arm, 35% of patients received intravenous pembr
 On the SoC arm, 52% of patients received cisplatin with concurrent RT while 48% patients received RT alone.
 
 The trial demonstrated a statistically significant improvement in EFS for patients randomized to the intravenous pembrolizumab arm compared to those randomized to the standard of care (SOC) arm at the first pre-specified interim analysis.
-Table 72 and Figure 13 summarize efficacy results in KEYNOTE-689 for patients with HNSCC CPS ≥1.
+Table 74 and Figure 13 summarize efficacy results in KEYNOTE-689 for patients with HNSCC CPS ≥1.
 
-Table 72: Efficacy Results for Perioperative Intravenous Pembrolizumab with adjuvant RT with or without cisplatin in Patients with HNSCC CPS ≥1 in KEYNOTE-689
+Table 74: Efficacy Results for Perioperative Intravenous Pembrolizumab with adjuvant RT with or without cisplatin in Patients with HNSCC CPS ≥1 in KEYNOTE-689
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks with RT with or without cisplatin n=347 | RT with or without cisplatin n=335 |
 | --- | --- | --- |
@@ -687,9 +687,9 @@ Twenty-two percent of patients' tumors were HPV-positive, 23% had PD-L1 TPS ≥5
 Eighty-five percent of patients' tumors had PD-L1 expression of CPS ≥1 and 43% had CPS ≥20.
 
 The trial demonstrated a statistically significant improvement in OS for patients randomized to intravenous pembrolizumab in combination with chemotherapy compared to those randomized to cetuximab in combination with chemotherapy at a pre-specified interim analysis in the overall population.
-Table 73 and Figure 14 summarize efficacy results for intravenous pembrolizumab in combination with chemotherapy.
+Table 75 and Figure 14 summarize efficacy results for intravenous pembrolizumab in combination with chemotherapy.
 
-Table 73: Efficacy ResultsResults at a pre-specified interim analysis for Intravenous Pembrolizumab plus Platinum/Fluorouracil in KEYNOTE-048
+Table 75: Efficacy ResultsResults at a pre-specified interim analysis for Intravenous Pembrolizumab plus Platinum/Fluorouracil in KEYNOTE-048
 
 |  | n=281 | n=278 |
 | --- | --- | --- |
@@ -719,10 +719,10 @@ First-line treatment of metastatic or unresectable, recurrent HNSCC for Tumors E
 The trial also demonstrated a statistically significant improvement in OS for the subgroup of patients with PD-L1 CPS ≥1 randomized to intravenous pembrolizumab as a single agent compared to those randomized to cetuximab in combination with chemotherapy at a pre-specified interim analysis.
 At the time of the interim and final analyses, there was no significant difference in OS between the intravenous pembrolizumab single agent arm and the control arm for the overall population.
 
-Table 74 summarizes efficacy results for intravenous pembrolizumab as a single agent in the subgroups of patients with CPS ≥1 HNSCC and CPS ≥20 HNSCC.
+Table 76 summarizes efficacy results for intravenous pembrolizumab as a single agent in the subgroups of patients with CPS ≥1 HNSCC and CPS ≥20 HNSCC.
 Figure 15 summarizes the OS results in the subgroup of patients with CPS ≥1 HNSCC.
 
-Table 74: Efficacy ResultsResults at a pre-specified interim analysis for Intravenous Pembrolizumab as a Single Agent in KEYNOTE-048 (CPS ≥1 and CPS ≥20)
+Table 76: Efficacy ResultsResults at a pre-specified interim analysis for Intravenous Pembrolizumab as a Single Agent in KEYNOTE-048 (CPS ≥1 and CPS ≥20)
 
 | n=257 | n=255 | n=133 | n=122 |  |
 | --- | --- | --- | --- | --- |
@@ -768,15 +768,15 @@ The ORR and DoR were similar irrespective of dosage regimen (10 mg/kg every 2 we
 
 ## 14.7 Urothelial Cancer
 
-In Combination with Enfortumab Vedotin for the Treatment of Patients with Urothelial Cancer
+In Combination with Enfortumab Vedotin-ejfv for the Treatment of Patients with Urothelial Cancer
 
-The efficacy of intravenous pembrolizumab in combination with enfortumab vedotin was evaluated in KEYNOTE-A39 (NCT04223856), an open-label, randomized, multicenter trial that enrolled 886 patients with locally advanced or metastatic urothelial cancer who received no prior systemic therapy for locally advanced or metastatic disease.
+The efficacy of intravenous pembrolizumab in combination with enfortumab vedotin-ejfv was evaluated in KEYNOTE-A39 (NCT04223856), an open-label, randomized, multicenter trial that enrolled 886 patients with locally advanced or metastatic urothelial cancer who received no prior systemic therapy for locally advanced or metastatic disease.
 Patients with active CNS metastases, ongoing sensory or motor neuropathy Grade ≥2, or uncontrolled diabetes defined as hemoglobin A1C (HbA1c) ≥8% or HbA1c ≥7% with associated diabetes symptoms were excluded.
 
 Patients were randomized 1:1 to receive either:
 
-- Intravenous pembrolizumab 200 mg over 30 minutes on Day 1 and enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle.
-  Intravenous pembrolizumab was given approximately 30 minutes after enfortumab vedotin.
+- Intravenous pembrolizumab 200 mg over 30 minutes on Day 1 and enfortumab vedotin-ejfv 1.25 mg/kg on Days 1 and 8 of each 21-day cycle.
+  Intravenous pembrolizumab was given approximately 30 minutes after enfortumab vedotin-ejfv.
   Treatment was continued until disease progression or unacceptable toxicity.
   In the absence of disease progression or unacceptable toxicity, intravenous pembrolizumab was continued for up to 2 years.
 - Gemcitabine 1000 mg/m2 on Days 1 and 8 of a 21-day cycle with cisplatin 70 mg/m2 or carboplatin (AUC = 4.5 or 5) on Day 1 of a 21-day cycle.
@@ -794,14 +794,14 @@ Forty-six percent of patients were considered cisplatin-ineligible and 54% were 
 The major efficacy outcome measures were OS and PFS as assessed by BICR according to RECIST v1.1.
 Additional efficacy outcome measures included ORR as assessed by BICR.
 
-The trial demonstrated statistically significant improvements in OS, PFS, and ORR for patients randomized to intravenous pembrolizumab in combination with enfortumab vedotin as compared to platinum-based chemotherapy.
+The trial demonstrated statistically significant improvements in OS, PFS, and ORR for patients randomized to intravenous pembrolizumab in combination with enfortumab vedotin-ejfv as compared to platinum-based chemotherapy.
 Efficacy results were consistent across all stratified patient subgroups.
 
-Table 75 and Figures 16 and 17 summarize the efficacy results for KEYNOTE-A39.
+Table 77 and Figures 16 and 17 summarize the efficacy results for KEYNOTE-A39.
 
-Table 75: Efficacy Results in KEYNOTE-A39
+Table 77: Efficacy Results in KEYNOTE-A39
 
-| Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks in combination with Enfortumab Vedotin n=442 | Cisplatin or Carboplatin with Gemcitabine n=444 |
+| Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks in combination with Enfortumab Vedotin-ejfv n=442 | Cisplatin or Carboplatin with Gemcitabine n=444 |
 | --- | --- | --- |
 | OS |  |  |
 | Number (%) of patients with event | 133 (30%) | 226 (51%) |
@@ -813,22 +813,22 @@ Table 75: Efficacy Results in KEYNOTE-A39
 | Median in months (95% CI) | 12.5 (10.4, 16.6) | 6.3 (6.2, 6.5) |
 | Hazard ratio (95% CI) | 0.45 (0.38, 0.54) |  |
 | p-Value | <0.0001 |  |
-| Confirmed Objective Response RateIncludes only patients with measurable disease at baseline (n=437 for intravenous pembrolizumab in combination with enfortumab vedotin, n=441 for chemotherapy). |  |  |
+| Confirmed Objective Response RateIncludes only patients with measurable disease at baseline (n=437 for intravenous pembrolizumab in combination with enfortumab vedotin-ejfv, n=441 for chemotherapy). |  |  |
 | ORRBased on patients with a best overall response as confirmed complete or partial response % (95% CI) | 68% (63, 72) | 44% (40, 49) |
 | p-ValueTwo-sided p-Value based on Cochran-Mantel-Haenszel test stratified by PD-L1 expression, cisplatin eligibility and liver metastases | <0.0001 |  |
 | Complete response | 29% | 12% |
 | Partial response | 39% | 32% |
 | NR = not reached |  |  |
 
-In Combination with Enfortumab Vedotin for the Treatment of Cisplatin-Ineligible Patients with Urothelial Cancer
+In Combination with Enfortumab Vedotin-ejfv for the Treatment of Patients who are Cisplatin-Ineligible with Urothelial Cancer
 
-The efficacy of intravenous pembrolizumab in combination with enfortumab vedotin was evaluated in KEYNOTE-869 (NCT03288545), an open-label, multi-cohort (dose escalation cohort, Cohort A, Cohort K) study in patients with locally advanced or metastatic urothelial cancer who were ineligible for cisplatin-containing chemotherapy and received no prior systemic therapy for locally advanced or metastatic disease.
+The efficacy of intravenous pembrolizumab in combination with enfortumab vedotin-ejfv was evaluated in KEYNOTE-869 (NCT03288545), an open-label, multi-cohort (dose escalation cohort, Cohort A, Cohort K) study in patients with locally advanced or metastatic urothelial cancer who were ineligible for cisplatin-containing chemotherapy [see Dosage and Administration (2.2)] and received no prior systemic therapy for locally advanced or metastatic disease.
 Patients with active CNS metastases, ongoing sensory or motor neuropathy Grade ≥2, or uncontrolled diabetes defined as hemoglobin A1C (HbA1c) ≥8% or HbA1c ≥7% with associated diabetes symptoms were excluded from participating in the study.
 
-Patients in the dose escalation cohort (n=5), Cohort A (n=40), and Cohort K (n=76) received enfortumab vedotin 1.25 mg/kg as an IV infusion over 30 minutes on Days 1 and 8 of a 21-day cycle followed by intravenous pembrolizumab 200 mg as an IV infusion on Day 1 of a 21-day cycle approximately 30 minutes after enfortumab vedotin.
+Patients in the dose escalation cohort (n=5), Cohort A (n=40), and Cohort K (n=76) received enfortumab vedotin-ejfv 1.25 mg/kg as an IV infusion over 30 minutes on Days 1 and 8 of a 21-day cycle followed by intravenous pembrolizumab 200 mg as an IV infusion on Day 1 of a 21-day cycle approximately 30 minutes after enfortumab vedotin-ejfv.
 Patients were treated until disease progression or unacceptable toxicity.
 
-A total of 121 patients received intravenous pembrolizumab in combination with enfortumab vedotin.
+A total of 121 patients received intravenous pembrolizumab in combination with enfortumab vedotin-ejfv.
 The median age was 71 years (range: 51 to 91); 74% were male; 85% were White, 5% were Black, 4% were Asian and 6% were other, unknown or not reported.
 Ten percent of patients were Hispanic or Latino.
 Forty-five percent of patients had an ECOG performance status of 1 and 15% had an ECOG performance status of 2.
@@ -844,11 +844,11 @@ The major efficacy outcome measures were ORR and DoR as assessed by BICR accordi
 
 The median follow-up time for the dose escalation cohort + Cohort A was 44.7 months (range: 0.7 to 52.4) and for Cohort K was 14.8 months (range: 0.6 to 26.2).
 
-Efficacy results are presented in Table 76 below.
+Efficacy results are presented in Table 78 below.
 
-Table 76: Efficacy Results in KEYNOTE-869, Combined Dose Escalation Cohort, Cohort A, and Cohort K
+Table 78: Efficacy Results in KEYNOTE-869, Combined Dose Escalation Cohort, Cohort A, and Cohort K
 
-| Endpoint | Intravenous Pembrolizumab in combination with Enfortumab Vedotin n=121 |
+| Endpoint | Intravenous Pembrolizumab in combination with Enfortumab Vedotin-ejfv n=121 |
 | --- | --- |
 | Confirmed ORR (95% CI) | 68% (58.7, 76.0) |
 | Complete response rate | 12% |
@@ -856,7 +856,7 @@ Table 76: Efficacy Results in KEYNOTE-869, Combined Dose Escalation Cohort, Coho
 
 The median duration of response for the dose escalation cohort + Cohort A was 22.1 months (range: 1.0+ to 46.3+) and for Cohort K was not reached (range: 1.2 to 24.1+).
 
-Platinum-Ineligible Patients with Urothelial Carcinoma
+Patients who are Platinum-Ineligible with Urothelial Carcinoma
 
 The efficacy of intravenous pembrolizumab was investigated in KEYNOTE-052 (NCT02335424), a multicenter, open-label, single-arm trial in 370 patients with locally advanced or metastatic urothelial carcinoma who had one or more comorbidities, including patients who were not eligible for any platinum-containing chemotherapy.
 The trial excluded patients with autoimmune disease or a medical condition that required immunosuppression.
@@ -874,9 +874,9 @@ Fifty percent of patients had baseline creatinine clearance of <60 mL/min, 32% h
 Ninety percent of patients were treatment naïve, and 10% received prior adjuvant or neoadjuvant platinum-based chemotherapy.
 
 The median follow-up time for 370 patients treated with intravenous pembrolizumab was 11.4 months (range: 0.1 to 63.8 months).
-Efficacy results are summarized in Table 77.
+Efficacy results are summarized in Table 79.
 
-Table 77: Efficacy Results in KEYNOTE-052
+Table 79: Efficacy Results in KEYNOTE-052
 
 |  | All Subjects n=370 |
 | --- | --- |
@@ -923,9 +923,9 @@ Seventy-six percent of patients received prior cisplatin, 23% had prior carbopla
 The study demonstrated statistically significant improvements in OS and ORR for patients randomized to intravenous pembrolizumab as compared to chemotherapy.
 There was no statistically significant difference between intravenous pembrolizumab and chemotherapy with respect to PFS.
 The median follow-up time for this trial was 9.0 months (range: 0.2 to 20.8 months).
-Table 78 and Figure 18 summarize the efficacy results for KEYNOTE-045.
+Table 80 and Figure 18 summarize the efficacy results for KEYNOTE-045.
 
-Table 78: Efficacy Results in KEYNOTE-045
+Table 80: Efficacy Results in KEYNOTE-045
 
 |  | n=270 | n=272 |
 | --- | --- | --- |
@@ -948,16 +948,65 @@ Table 78: Efficacy Results in KEYNOTE-045
 | Median duration of response in months (range) | NR (1.6+, 15.6+) | 4.3 (1.4+, 15.4+) |
 | + Denotes ongoing response NR = not reached |  |  |
 
-Neoadjuvant and Adjuvant Treatment of Cisplatin-Ineligible Patients with MIBC in Combination with Enfortumab Vedotin
+Neoadjuvant and Adjuvant Treatment of Patients Who are Cisplatin-Eligible with MIBC in Combination with Enfortumab Vedotin-ejfv
 
-The efficacy of intravenous pembrolizumab in combination with enfortumab vedotin as neoadjuvant treatment and continued after radical cystectomy as adjuvant treatment was investigated in KEYNOTE-905 (NCT03924895), an open-label, randomized, multicenter, active-controlled trial in patients with previously untreated MIBC with predominant urothelial carcinoma histology and who were candidates for radical cystectomy (RC) with pelvic lymph node dissection (PLND) but were ineligible for or declined cisplatin-based chemotherapy.
+The efficacy of intravenous pembrolizumab in combination with enfortumab vedotin-ejfv as neoadjuvant treatment and continued after radical cystectomy (RC) as adjuvant treatment was investigated in KEYNOTE-B15 (NCT04700124), an open-label, randomized, multicenter, active-controlled trial in patients with previously untreated MIBC with predominant urothelial carcinoma histology and who were candidates for RC with pelvic lymph node dissection (PLND) and were eligible for cisplatin-based chemotherapy.
 The study excluded patients with primary non-bladder urothelial cancer (i.e., cancer of the ureter, urethra, or renal pelvis) and those with active autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression.
 
-Randomization was stratified by tumor stage (T2N0 vs T3/T4aN0 vs T1-T4aN1), cisplatin-eligibility (cisplatin-ineligible vs cisplatin-eligible but declined), and geographic region (United States vs European Union vs Rest of World).
+Randomization was stratified by tumor stage (T2N0 vs. T3/T4aN0 vs. T1-T4aN1), PD-L1 combined positive score (CPS ≥10 vs. CPS <10), and geographic region (United States vs. European Union vs. Rest of World).
+
+Patients were randomized 1:1 to receive either:
+
+- Neoadjuvant intravenous pembrolizumab 200 mg intravenously on Day 1 and enfortumab vedotin-ejfv 1.25 mg/kg intravenously on Days 1 and 8 of each 21-day cycle for 4 cycles prior to surgery, followed by adjuvant intravenous pembrolizumab 200 mg on Day 1 of each 21-day cycle for 13 cycles and adjuvant enfortumab vedotin-ejfv 1.25 mg/kg on Days 1 and 8 of each 21-day cycle for 5 cycles (n=405) or
+- Neoadjuvant gemcitabine 1000 mg/m2 on Days 1 and 8 and cisplatin 70 mg/m2 on Day 1 of each 21-day cycle for 4 cycles prior to surgery, followed by observation (n=403).
+
+Treatment continued until completion of study medications, disease progression, not undergoing or refusal of RC and PLND, disease recurrence in the adjuvant phase, or unacceptable toxicity.
+Assessment of tumor status, including CT/MRI, was performed at baseline, within 5 weeks prior to RC and PLND, and at 6 weeks post-RC.
+Following RC and PLND, assessment of tumor status, including cystoscopy and urine cytology for patients who did not undergo surgery, was performed every 12 weeks up to 2 years, and every 24 weeks thereafter.
+
+The study population characteristics were: median age of 66 years (range: 35 to 85 years); 81% male; 80% White, 17% Asian, 1.4% Multiple, 1.2% Black or African American, 0.6% American Indian or Alaska Native, and 0.2% missing; 90% not Hispanic or Latino, 8% Hispanic or Latino, and 1.7% ethnicity unknown/not reported.
+Seventy-eight percent had ECOG PS of 0 and 22% had ECOG PS of 1; 19%, were T2N0, 73% T3/T4aN0, and 8% T1-T4aN1.
+Eighty-nine percent of patients had pure urothelial carcinoma histology; 4.8% had urothelial carcinoma with squamous differentiation, 2.6% had urothelial carcinoma with glandular differentiation, and 3.1% had urothelial carcinoma with other variant histology.
+
+A total of 351 (87%) patients in the intravenous pembrolizumab in combination with enfortumab vedotin-ejfv arm and 361 (90%) patients in the gemcitabine with cisplatin arm underwent RC and PLND.
+A total of 25 (6%) of patients in the gemcitabine with cisplatin arm received adjuvant nivolumab.
+
+The trial was not designed to isolate the effect of intravenous pembrolizumab in each phase (neoadjuvant or adjuvant) of treatment.
+
+The major efficacy outcome measure was event-free survival (EFS) as assessed by BICR.
+Overall survival (OS) and pathological complete response (pCR) rate as assessed by blinded independent pathology review were additional efficacy outcome measures.
+
+The trial demonstrated a statistically significant improvement in EFS and OS in patients treated with neoadjuvant and adjuvant intravenous pembrolizumab in combination with enfortumab vedotin-ejfv compared with neoadjuvant gemcitabine with cisplatin.
+Table 81 and Figures 19 and 20 summarize key efficacy measures.
+
+Table 81: Efficacy Results for Perioperative Intravenous Pembrolizumab with Enfortumab Vedotin-ejfv in KEYNOTE-B15
+
+| Endpoint | Perioperative Intravenous Pembrolizumab 200 mg every 3 weeks in combination with Enfortumab Vedotin-ejfv n=405 | Neoadjuvant Gemcitabine with Cisplatin n=403 |
+| --- | --- | --- |
+| EFS |  |  |
+| Number of patients with event (%) | 87 (21%) | 146 (36%) |
+| Median in monthsBased on Kaplan-Meier estimates (95% CI) | NR (NR, NR) | 48.5 (43.3, NR) |
+| Hazard ratioBased on stratified Cox regression model with Efron’s method of tie handling with treatment as a covariate (95% CI) | 0.53 (0.41, 0.70) |  |
+| p-ValueOne-sided p-value based on stratified log-rank test | <0.0001 |  |
+| OS |  |  |
+| Number of patients with event (%) | 69 (17%) | 99 (25%) |
+| Median in months (95% CI) | NR (NR, NR) | NR (NR, NR) |
+| Hazard ratio (95% CI) | 0.65 (0.48, 0.89) |  |
+| p-Value | 0.0029 |  |
+| NR = not reached EFS is defined as time from randomization to the first of: disease progression preventing curative surgery, failure to undergo surgery for participants with muscle invasive residual disease, incomplete surgical resection, local or distant recurrence after surgery, or death. |  |  |
+
+The trial demonstrated a statistically significant difference in pCR rate (55.8% [95% CI: 50.8, 60.7] vs. 32.5% [95% CI: 28.0, 37.3]; p<0.0001).
+
+Neoadjuvant and Adjuvant Treatment of Patients who are Cisplatin-Ineligible with MIBC in Combination with Enfortumab Vedotin-ejfv
+
+The efficacy of intravenous pembrolizumab in combination with enfortumab vedotin-ejfv as neoadjuvant treatment and continued after radical cystectomy as adjuvant treatment was investigated in KEYNOTE-905 (NCT03924895), an open-label, randomized, multicenter, active-controlled trial in patients with previously untreated MIBC with predominant urothelial carcinoma histology and who were candidates for radical cystectomy (RC) with pelvic lymph node dissection (PLND) but were ineligible for or declined cisplatin-based chemotherapy.
+The study excluded patients with primary non-bladder urothelial cancer (i.e., cancer of the ureter, urethra, or renal pelvis) and those with active autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression.
+
+Randomization was stratified by tumor stage (T2N0 vs. T3/T4aN0 vs. T1-T4aN1), cisplatin-eligibility (cisplatin-ineligible vs. cisplatin-eligible but declined), and geographic region (United States vs. European Union vs. Rest of World).
 
 Patients were randomized 1:1 to receive:
 
-- Neoadjuvant intravenous pembrolizumab 200 mg over 30 minutes as an intravenous infusion on Day 1 and enfortumab vedotin 1.25 mg/kg as an intravenous infusion on Days 1 and 8 of each 21-day cycle for 3 cycles prior to surgery, followed by adjuvant intravenous pembrolizumab 200 mg over 30 minutes on Day 1 of each 21-day cycle for 14 cycles and adjuvant enfortumab vedotin 1.25 mg/kg on Days 1 and 8 of each 21-day cycle for 6 cycles (n=170).
+- Neoadjuvant intravenous pembrolizumab 200 mg intravenously on Day 1 and enfortumab vedotin-ejfv 1.25 mg/kg intravenously on Days 1 and 8 of each 21-day cycle for 3 cycles prior to surgery, followed by adjuvant intravenous pembrolizumab 200 mg over 30 minutes on Day 1 of each 21-day cycle for 14 cycles and adjuvant enfortumab vedotin-ejfv 1.25 mg/kg on Days 1 and 8 of each 21-day cycle for 6 cycles (n=170).
 - Immediate RC and PLND alone (n=174).
 
 Treatment continued until completion of study medications, disease progression, not undergoing or refusal of RC and PLND, disease recurrence in the adjuvant phase, or unacceptable toxicity.
@@ -968,19 +1017,20 @@ The study population characteristics were: median age of 73 years (range: 46 to 
 Ninety-one percent of patients had pure urothelial carcinoma histology; 4.4% had urothelial carcinoma with squamous differentiation, 2.6% had urothelial carcinoma with glandular differentiation, and 2% had urothelial carcinoma with other variant histology.
 Among the 281 patients who were ineligible for cisplatin, 72% had baseline creatinine clearance of 30-59 mL/min, 17% had ECOG PS of 2, 21% had Grade 2 or greater hearing loss, 3.9% had New York Heart Association Class III heart failure, and 13% met more than one cisplatin-ineligibility criterion.
 
-A total of 149 (88%) patients in the intravenous pembrolizumab in combination with enfortumab vedotin arm and 156 (90%) patients in the RC and PLND alone arm underwent RC and PLND.
+A total of 149 (88%) patients in the intravenous pembrolizumab in combination with enfortumab vedotin-ejfv arm and 156 (90%) patients in the RC and PLND alone arm underwent RC and PLND.
+A total of 29 (17%) of patients in the RC and PLND alone arm received adjuvant nivolumab.
 
 The trial was not designed to isolate the effect of intravenous pembrolizumab in each phase (neoadjuvant or adjuvant) of treatment.
 
 The major efficacy outcome measure was EFS as assessed by BICR.
 Overall survival (OS) and pathological complete response (pCR) rate as assessed by blinded independent pathology review were additional efficacy outcome measures.
 
-The trial demonstrated a statistically significant improvement in EFS and OS in patients treated with neoadjuvant and adjuvant intravenous pembrolizumab in combination with enfortumab vedotin compared with RC and PLND alone.
-Table 79 and Figures 19 and 20 summarize key efficacy measures.
+The trial demonstrated a statistically significant improvement in EFS and OS in patients treated with neoadjuvant and adjuvant intravenous pembrolizumab in combination with enfortumab vedotin-ejfv compared with RC and PLND alone.
+Table 82 and Figures 21 and 22 summarize key efficacy measures.
 
-Table 79: Efficacy Results for Perioperative Intravenous Pembrolizumab with Enfortumab Vedotin in KEYNOTE-905
+Table 82: Efficacy Results for Perioperative Intravenous Pembrolizumab with Enfortumab Vedotin-ejfv in KEYNOTE-905
 
-| Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks in combination with enfortumab vedotin before and after RC with PLND n=170 | RC with PLND alone n=174 |
+| Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks in combination with enfortumab vedotin-ejfv before and after RC with PLND n=170 | RC with PLND alone n=174 |
 | --- | --- | --- |
 | EFS |  |  |
 | Number of patients with event (%) | 48 (28%) | 95 (55%) |
@@ -1015,9 +1065,9 @@ Baseline high-risk NMIBC disease status was 27% persistent and 73% recurrent.
 The median number of prior instillations of BCG was 12.
 
 The median follow-up time was 28.0 months (range: 4.6 to 40.5 months).
-Efficacy results are summarized in Table 80.
+Efficacy results are summarized in Table 83.
 
-Table 80: Efficacy Results in KEYNOTE-057
+Table 83: Efficacy Results in KEYNOTE-057
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks n=96 |  |
 | --- | --- | --- |
@@ -1055,9 +1105,9 @@ Discordant results were observed between local MSI-H or dMMR tests and central t
 Among 104 tumor samples that were MSI-H or dMMR by local testing and also tested using the FoundationOne®CDx (F1CDx) test, 59 (56.7%) were MSI-H and 45 (43.3%) were not MSI-H.
 Among 169 tumor samples that were MSI-H or dMMR by local testing and also tested using the VENTANA MMR RxDx Panel, 105 (62.1%) were dMMR and 64 (37.9%) were pMMR.
 
-Efficacy results are summarized in Tables 81 and 82.
+Efficacy results are summarized in Tables 84 and 85.
 
-Table 81: Efficacy Results for Patients with MSI-H/dMMR Cancer
+Table 84: Efficacy Results for Patients with MSI-H/dMMR Cancer
 
 | Endpoint | Intravenous Pembrolizumab n=504Median follow-up time of 20.1 months (range 0.1 to 71.4 months) |
 | --- | --- |
@@ -1071,7 +1121,7 @@ Table 81: Efficacy Results for Patients with MSI-H/dMMR Cancer
 | % with duration ≥36 months | 39% |
 | + Denotes ongoing response |  |
 
-Table 82: Response by Tumor Type
+Table 85: Response by Tumor Type
 
 |  | N | n (%) | 95% CI | (months) |
 | --- | --- | --- | --- | --- |
@@ -1134,9 +1184,9 @@ The trial demonstrated a statistically significant improvement in PFS for patien
 There was no statistically significant difference between intravenous pembrolizumab and chemotherapy in the final OS analysis.
 Sixty percent of the patients who had been randomized to receive chemotherapy had crossed over to receive subsequent anti-PD-1/PD-L1 therapies including intravenous pembrolizumab.
 The median follow-up time at the final analysis was 38.1 months (range: 0.2 to 58.7 months).
-Table 83 and Figure 21 summarize the key efficacy measures for KEYNOTE-177.
+Table 86 and Figure 23 summarize the key efficacy measures for KEYNOTE-177.
 
-Table 83: Efficacy Results in Patients with MSI-H or dMMR CRC in KEYNOTE-177
+Table 86: Efficacy Results in Patients with MSI-H or dMMR CRC in KEYNOTE-177
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks n=153 | Chemotherapy n=154 |
 | --- | --- | --- |
@@ -1187,9 +1237,9 @@ Eighty-five percent of patients received CAPOX.
 
 A statistically significant improvement in OS and PFS was demonstrated in patients randomized to intravenous pembrolizumab in combination with trastuzumab and chemotherapy compared with placebo in combination with trastuzumab and chemotherapy; however, an exploratory analysis of OS in the PD-L1 CPS <1 population showed a HR of 1.10 (95% CI: 0.72, 1.68), indicating that the improvement in the ITT population was primarily attributed to the results observed in the subgroup of patients with PD-L1 CPS ≥1.
 
-Efficacy results at the final analysis for the subgroup of patients whose tumors expressed PD-L1 with a CPS ≥1 are summarized in Table 84 and Figure 22.
+Efficacy results at the final analysis for the subgroup of patients whose tumors expressed PD-L1 with a CPS ≥1 are summarized in Table 87 and Figure 24.
 
-Table 84: Efficacy Results for KEYNOTE-811 with PD-L1 Expression CPS ≥1
+Table 87: Efficacy Results for KEYNOTE-811 with PD-L1 Expression CPS ≥1
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks Trastuzumab Fluoropyrimidine and Platinum Chemotherapy n=298 | Placebo Trastuzumab Fluoropyrimidine and Platinum Chemotherapy n=296 |
 | --- | --- | --- |
@@ -1233,9 +1283,9 @@ Five percent (n=66) had tumors that were MSI-H.
 Eighty-six percent of patients received CAPOX.
 
 A statistically significant improvement in OS, PFS, and ORR was demonstrated in patients randomized to intravenous pembrolizumab in combination with chemotherapy compared with placebo in combination with chemotherapy at the time of a pre-specified interim analysis of OS; however, an exploratory analysis of OS in the PD-L1 CPS <1 population showed a HR of 0.92 (95% CI 0.73, 1.17) indicating that the improvement in the ITT population was primarily attributed to the results observed in the subgroup of patients with PD-L1 CPS ≥1.
-Efficacy results for patients whose tumors expressed PD-L1 CPS ≥1 and CPS ≥10 are summarized in Table 85 and Figures 23 and 24.
+Efficacy results for patients whose tumors expressed PD-L1 CPS ≥1 and CPS ≥10 are summarized in Table 88 and Figures 25 and 26.
 
-Table 85: Efficacy ResultsBased on a pre-specified interim analysis for KEYNOTE-859
+Table 88: Efficacy ResultsBased on a pre-specified interim analysis for KEYNOTE-859
 
 |  | CPS ≥1 |  | CPS ≥10 |  |
 | --- | --- | --- | --- | --- |
@@ -1292,9 +1342,9 @@ Seventy-four percent had a tumor histology of squamous cell carcinoma, and 26% h
 
 The trial demonstrated a statistically significant improvement in OS and PFS for patients randomized to intravenous pembrolizumab in combination with chemotherapy compared to chemotherapy; however, an exploratory analysis of OS in the PD-L1 CPS <1 population showed an HR of 0.96 (0.59, 1.55), indicating that the improvement in the ITT population was primarily attributed to the results observed in the subgroup of patients with PD-L1 CPS ≥1.
 
-Table 86 and Figures 25 and 26 summarize the efficacy results for KEYNOTE-590 in patients whose tumors expressed PD-L1 CPS ≥1 and CPS ≥10.
+Table 89 and Figures 27 and 28 summarize the efficacy results for KEYNOTE-590 in patients whose tumors expressed PD-L1 CPS ≥1 and CPS ≥10.
 
-Table 86: Efficacy Results in Patients with Locally Advanced Unresectable or Metastatic Esophageal Cancer in KEYNOTE-590
+Table 89: Efficacy Results in Patients with Locally Advanced Unresectable or Metastatic Esophageal Cancer in KEYNOTE-590
 
 |  | CPS ≥1 |  | CPS ≥10 |  |
 | --- | --- | --- | --- | --- |
@@ -1347,9 +1397,9 @@ Thirty-three percent of patients received prior treatment with a taxane.
 
 The observed OS hazard ratio was 0.77 (95% CI: 0.63, 0.96) in patients with ESCC, 0.70 (95% CI: 0.52, 0.94) in patients with tumors expressing PD-L1 CPS ≥10, and 0.89 (95% CI: 0.75, 1.05) in all randomized patients.
 On further examination in patients whose ESCC tumors expressed PD-L1 (CPS ≥10), an improvement in OS was observed among patients randomized to intravenous pembrolizumab as compared with chemotherapy.
-Table 87 and Figure 27 summarize the key efficacy measures for KEYNOTE-181 for patients with ESCC CPS ≥10.
+Table 90 and Figure 29 summarize the key efficacy measures for KEYNOTE-181 for patients with ESCC CPS ≥10.
 
-Table 87: Efficacy Results in Patients with Recurrent or Metastatic ESCC (CPS ≥10) in KEYNOTE-181
+Table 90: Efficacy Results in Patients with Recurrent or Metastatic ESCC (CPS ≥10) in KEYNOTE-181
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks n=85 | Chemotherapy n=82 |
 | --- | --- | --- |
@@ -1405,9 +1455,9 @@ Regarding radiation, 86% of patients received IMRT or VMAT EBRT, and the median 
 
 The trial demonstrated statistically significant improvements in PFS and OS in the ITT population.
 Exploratory analyses of PFS and OS by the stratification factor of FIGO 2014 stage showed that the improvement in the ITT population was primarily attributed to the results seen in the patients with FIGO 2014 Stage III-IVA disease.
-Table 88 and Figures 28 and 29 summarize the results in exploratory subgroup analyses of 599 patients with FIGO 2014 Stage III-IVA disease.
+Table 91 and Figures 30 and 31 summarize the results in exploratory subgroup analyses of 599 patients with FIGO 2014 Stage III-IVA disease.
 
-Table 88: Efficacy Results in KEYNOTE-A18 (Patients with FIGO 2014 Stage III-IVA Cervical Cancer)
+Table 91: Efficacy Results in KEYNOTE-A18 (Patients with FIGO 2014 Stage III-IVA Cervical Cancer)
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks and 400 mg every 6 weeks with CRT n=295 | Placebo with CRT n=304 |
 | --- | --- | --- |
@@ -1458,9 +1508,9 @@ At study entry, 21% of patients had metastatic disease only and 79% had persiste
 
 A statistically significant improvement in OS and PFS was demonstrated in patients randomized to receive intravenous pembrolizumab compared with patients randomized to receive placebo.
 An updated OS analysis was conducted at the time of final analysis when 354 deaths in the CPS ≥1 population were observed.
-Table 89 and Figure 30 summarize the key efficacy measures for KEYNOTE-826 for patients with tumors expressing PD-L1 (CPS ≥1).
+Table 92 and Figure 32 summarize the key efficacy measures for KEYNOTE-826 for patients with tumors expressing PD-L1 (CPS ≥1).
 
-Table 89: Efficacy Results in Patients with Persistent, Recurrent, or Metastatic Cervical Cancer (CPS ≥1) in KEYNOTE-826
+Table 92: Efficacy Results in Patients with Persistent, Recurrent, or Metastatic Cervical Cancer (CPS ≥1) in KEYNOTE-826
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks and chemotherapyChemotherapy (paclitaxel and cisplatin or paclitaxel and carboplatin) with or without bevacizumab n=273 | Placebo and chemotherapy with or without bevacizumab n=275 |
 | --- | --- | --- |
@@ -1501,9 +1551,9 @@ PD-L1 status was determined using the IHC 22C3 pharmDx assay.
 The baseline characteristics of these 77 patients were: median age of 45 years (range: 27 to 75); 81% White, 14% Asian, and 3% Black; 32% ECOG PS of 0 and 68% ECOG PS of 1; 92% had squamous cell carcinoma, 6% adenocarcinoma, and 1% adenosquamous histology; 95% had M1 disease and 5% had recurrent disease; and 35% had one and 65% had two or more prior lines of therapy in the recurrent or metastatic setting.
 
 No responses were observed in patients whose tumors did not have PD-L1 expression (CPS <1).
-Efficacy results are summarized in Table 90 for patients with PD-L1 expression (CPS ≥1).
+Efficacy results are summarized in Table 93 for patients with PD-L1 expression (CPS ≥1).
 
-Table 90: Efficacy Results in Patients with Recurrent or Metastatic Cervical Cancer (CPS ≥1) in KEYNOTE-158
+Table 93: Efficacy Results in Patients with Recurrent or Metastatic Cervical Cancer (CPS ≥1) in KEYNOTE-158
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks n=77Median follow-up time of 11.7 months (range: 0.6 to 22.7 months) |
 | --- | --- |
@@ -1539,9 +1589,9 @@ The study enrolled 453 patients, and 360 (79%) had active hepatitis B. The popul
 Patient characteristics also included extrahepatic disease (77%), macrovascular invasion (10%), BCLC stage C (93%) and B (7%), and baseline AFP ≥200 ng/mL (57%).
 
 KEYNOTE-394 demonstrated improved OS in patients with HCC secondary to hepatitis B randomized to intravenous pembrolizumab compared with placebo.
-Efficacy results are summarized in Table 91 and Figure 31.
+Efficacy results are summarized in Table 94 and Figure 33.
 
-Table 91: Efficacy Results in Patients with Hepatocellular Carcinoma in KEYNOTE-394
+Table 94: Efficacy Results in Patients with Hepatocellular Carcinoma in KEYNOTE-394
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks n=236 | Placebo n=124 |
 | --- | --- | --- |
@@ -1561,7 +1611,7 @@ Table 91: Efficacy Results in Patients with Hepatocellular Carcinoma in KEYNOTE-
 | Median in monthsBased on Kaplan-Meier estimate (range) | 23.9 (2.6+, 44.4+) | 5.6 (3.0+, 5.6) |
 | + Denotes ongoing response |  |  |
 
-| Figure 31: Kaplan-Meier Curve for Overall Survival in KEYNOTE-394 |
+| Figure 33: Kaplan-Meier Curve for Overall Survival in KEYNOTE-394 |
 | --- |
 
 ## 14.14 Biliary Tract Cancer
@@ -1584,9 +1634,9 @@ Study population characteristics were median age of 64 years (range: 23 to 85), 
 The major efficacy outcome measure was OS.
 Additional efficacy outcome measures were PFS, ORR and DoR as assessed by BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
 
-Table 92 and Figure 32 summarize the efficacy results for KEYNOTE-966.
+Table 95 and Figure 34 summarize the efficacy results for KEYNOTE-966.
 
-Table 92: Efficacy Results in KEYNOTE-966
+Table 95: Efficacy Results in KEYNOTE-966
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks with gemcitabine/cisplatin n=533 | Placebo with gemcitabine/cisplatin n=536 |
 | --- | --- | --- |
@@ -1609,7 +1659,7 @@ Table 92: Efficacy Results in KEYNOTE-966
 | Median in months Based on Kaplan-Meier estimate (95% CI) | 8.3 (6.9, 10.2) | 6.8 (5.7, 7.1) |
 | NS = not significant |  |  |
 
-| Figure 32: Kaplan-Meier Curve for Overall Survival in KEYNOTE-966 |
+| Figure 34: Kaplan-Meier Curve for Overall Survival in KEYNOTE-966 |
 | --- |
 
 ## 14.15 Merkel Cell Carcinoma
@@ -1626,9 +1676,9 @@ Among the 105 patients enrolled, the median age was 73 years (range: 38 to 91), 
 Thirteen percent had stage IIIB disease and 84% had stage IV.
 Seventy-six percent of patients had prior surgery and 51% had prior radiation therapy.
 
-Efficacy results are summarized in Table 93.
+Efficacy results are summarized in Table 96.
 
-Table 93: Efficacy Results in KEYNOTE-017 and KEYNOTE-913
+Table 96: Efficacy Results in KEYNOTE-017 and KEYNOTE-913
 
 | Endpoint | KEYNOTE-017 Intravenous Pembrolizumab 2 mg/kg every 3 weeks n=50 | KEYNOTE-913 Intravenous Pembrolizumab 200 mg or 2 mg/kg every 3 weeks n=55 |
 | --- | --- | --- |
@@ -1672,9 +1722,9 @@ Additional efficacy outcome measures included ORR, as assessed by BICR.
 A statistically significant improvement in OS was demonstrated at the first pre-specified interim analysis in patients randomized to intravenous pembrolizumab in combination with axitinib compared with sunitinib.
 The trial also demonstrated statistically significant improvements in PFS and ORR.
 An updated OS analysis was conducted when 418 deaths were observed based on the planned number of deaths for the pre-specified final analysis.
-Table 94 and Figure 33 summarize the efficacy results for KEYNOTE-426.
+Table 97 and Figure 35 summarize the efficacy results for KEYNOTE-426.
 
-Table 94: Efficacy Results in KEYNOTE-426
+Table 97: Efficacy Results in KEYNOTE-426
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks and Axitinib n=432 | Sunitinib n=429 |
 | --- | --- | --- |
@@ -1699,7 +1749,7 @@ Table 94: Efficacy Results in KEYNOTE-426
 | p-ValueBased on Miettinen and Nurminen method stratified by IMDC risk group and geographic region | <0.0001 |  |
 | NR = not reached |  |  |
 
-| Figure 33: Kaplan-Meier Curve for Updated Overall Survival in KEYNOTE-426 |
+| Figure 35: Kaplan-Meier Curve for Updated Overall Survival in KEYNOTE-426 |
 | --- |
 
 In an exploratory analysis, the updated analysis of OS in patients with IMDC favorable, intermediate, intermediate/poor, and poor risk demonstrated a HR of 1.17 (95% CI: 0.76, 1.80), 0.67 (95% CI: 0.52, 0.86), 0.64 (95% CI: 0.52, 0.80), and 0.51 (95% CI: 0.32, 0.81), respectively.
@@ -1729,9 +1779,9 @@ Common sites of metastases in patients were lung (68%), lymph node (45%), and bo
 The major efficacy outcome measures were PFS, as assessed by independent radiologic review (IRC) according to RECIST v1.1, and OS.
 Additional efficacy outcome measures included confirmed ORR as assessed by IRC. intravenous pembrolizumab in combination with lenvatinib demonstrated statistically significant improvements in PFS, OS, and ORR compared with sunitinib.
 An updated OS analysis was conducted when 304 deaths were observed based on the planned number of deaths for the pre-specified final analysis.
-Table 95 and Figures 34 and 35 summarize the efficacy results for KEYNOTE-581.
+Table 98 and Figures 36 and 37 summarize the efficacy results for KEYNOTE-581.
 
-Table 95: Efficacy Results in KEYNOTE-581
+Table 98: Efficacy Results in KEYNOTE-581
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks and Lenvatinib n=355 | Sunitinib n=357 |
 | --- | --- | --- |
@@ -1759,10 +1809,10 @@ Table 95: Efficacy Results in KEYNOTE-581
 | p-ValueTwo-sided p-Value based upon CMH test. | <0.0001 |  |
 | Tumor assessments were based on RECIST 1.1; only confirmed responses are included for ORR. Data cutoff date = 28 Aug 2020, Updated OS cutoff date = 31 July 2022 CI = confidence interval; NR= Not reached |  |  |
 
-| Figure 34: Kaplan-Meier Curve for PFS in KEYNOTE-581 |
+| Figure 36: Kaplan-Meier Curve for PFS in KEYNOTE-581 |
 | --- |
 
-| Figure 35: Kaplan-Meier Curve for Updated Overall Survival in KEYNOTE-581 |
+| Figure 37: Kaplan-Meier Curve for Updated Overall Survival in KEYNOTE-581 |
 | --- |
 
 KEYNOTE-B61
@@ -1780,9 +1830,9 @@ Common sites of metastases in patients were lymph node (65%), lung (35%), bone (
 
 The major efficacy outcome measure was ORR as assessed by BICR using RECIST 1.1.
 Additional efficacy outcome measures included DOR as assessed by BICR using RECIST 1.1.
-Efficacy results are summarized in Table 96.
+Efficacy results are summarized in Table 99.
 
-Table 96: Efficacy Results in KEYNOTE-B61
+Table 99: Efficacy Results in KEYNOTE-B61
 
 | Endpoint | Intravenous Pembrolizumab 400 mg every 6 weeks and Lenvatinib n=158 |
 | --- | --- |
@@ -1813,9 +1863,9 @@ Ninety-two percent of patients had a radical nephrectomy, and 8% had a partial n
 The major efficacy outcome measure was investigator-assessed disease-free survival (DFS), defined as time to recurrence, metastasis, or death.
 An additional outcome measure was OS.
 Statistically significant improvements in DFS and OS were demonstrated at pre-specified interim analyses in patients randomized to the intravenous pembrolizumab arm compared with placebo.
-Efficacy results are summarized in Table 97 and Figures 36 and 37.
+Efficacy results are summarized in Table 100 and Figures 38 and 39.
 
-Table 97: Efficacy Results in KEYNOTE-564
+Table 100: Efficacy Results in KEYNOTE-564
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks n=496 | Placebo n=498 |
 | --- | --- | --- |
@@ -1833,10 +1883,10 @@ Table 97: Efficacy Results in KEYNOTE-564
 | 48-month OS rate (95% CI) | 91% (88, 93) | 86% (83, 89) |
 | NR = not reached |  |  |
 
-| Figure 36: Kaplan-Meier Curve for Disease-Free Survival in KEYNOTE-564 |
+| Figure 38: Kaplan-Meier Curve for Disease-Free Survival in KEYNOTE-564 |
 | --- |
 
-| Figure 37: Kaplan-Meier Curve for Overall Survival in KEYNOTE-564 |
+| Figure 39: Kaplan-Meier Curve for Overall Survival in KEYNOTE-564 |
 | --- |
 
 Adjuvant Treatment of ccRCC in Combination with Belzutifan (LITESPARK-022)
@@ -1859,9 +1909,9 @@ The major efficacy outcome measure was investigator-assessed disease-free surviv
 An additional outcome measure was overall survival (OS).
 A statistically significant improvement in DFS was demonstrated at pre-specified interim analysis in patients randomized to the intravenous pembrolizumab plus belzutifan arm compared with the intravenous pembrolizumab plus placebo arm.
 At the protocol pre-specified interim analysis, OS data were not mature with 29% of the required events for the final analysis.
-Efficacy results are summarized in Table 98 and Figure 38.
+Efficacy results are summarized in Table 101 and Figure 40.
 
-Table 98: Efficacy Results in LITESPARK-022
+Table 101: Efficacy Results in LITESPARK-022
 
 | Efficacy Outcome Measure | Intravenous Pembrolizumab plus Belzutifan n=921 | Intravenous Pembrolizumab plus Placebo n=920 |
 | --- | --- | --- |
@@ -1873,7 +1923,7 @@ Table 98: Efficacy Results in LITESPARK-022
 | 24-month DFS rate (95% CI) | 81% (78, 83) | 74% (71, 77) |
 | CI = confidence interval; NR = not reached |  |  |
 
-| Figure 38: Kaplan-Meier Curve for Disease-Free Survival in LITESPARK-022 |
+| Figure 40: Kaplan-Meier Curve for Disease-Free Survival in LITESPARK-022 |
 | --- |
 
 ## 14.17 Endometrial Carcinoma
@@ -1907,10 +1957,10 @@ The pMMR population characteristics were: median age of 66 years (range: 29 to 9
 The histologic subtypes were endometrioid carcinoma (52%), serous carcinoma (26%), adenocarcinoma NOS (10%), clear cell carcinoma (7%), and other (5%).
 
 The trial demonstrated statistically significant improvements in PFS for patients randomized to intravenous pembrolizumab in combination with paclitaxel and carboplatin compared to placebo in combination with paclitaxel and carboplatin in both the dMMR and pMMR populations.
-Table 99 and Figures 39 and 40 summarize the efficacy results for KEYNOTE-868 by MMR status.
+Table 102 and Figures 41 and 42 summarize the efficacy results for KEYNOTE-868 by MMR status.
 At the time of the PFS analysis, OS data were not mature with 12% deaths in the dMMR population and 17% deaths in the pMMR population.
 
-Table 99: Efficacy Results in KEYNOTE-868
+Table 102: Efficacy Results in KEYNOTE-868
 
 | Intravenous Pembrolizumab with paclitaxel and carboplatin n=110 | Placebo with paclitaxel and carboplatin n=112 | Intravenous Pembrolizumab with paclitaxel and carboplatin n=294 | Placebo with paclitaxel and carboplatin n=294 |  |
 | --- | --- | --- | --- | --- |
@@ -1922,10 +1972,10 @@ Table 99: Efficacy Results in KEYNOTE-868
 | p-ValueBased on the stratified log-rank test | <0.0001 |  | <0.0001 |  |
 | NR = not reached |  |  |  |  |
 
-| Figure 39: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-868 (dMMR Population) |
+| Figure 41: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-868 (dMMR Population) |
 | --- |
 
-| Figure 40: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-868 (pMMR Population) |
+| Figure 42: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-868 (pMMR Population) |
 | --- |
 
 Lack of Effectiveness for Adjuvant Treatment of Patients with Endometrial Carcinoma
@@ -1956,9 +2006,9 @@ The histologic subtypes were endometrioid carcinoma (55%), serous (30%), clear c
 All 697 of these patients received prior systemic therapy for endometrial carcinoma: 67% had one, 30% had two, and 3% had three or more prior systemic therapies.
 Thirty-seven percent of patients received only prior neoadjuvant or adjuvant therapy.
 
-Efficacy results for the pMMR or not MSI-H patients are summarized in Table 100 and Figures 41 and 42.
+Efficacy results for the pMMR or not MSI-H patients are summarized in Table 103 and Figures 43 and 44.
 
-Table 100: Efficacy Results in KEYNOTE-775
+Table 103: Efficacy Results in KEYNOTE-775
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks and Lenvatinib n=346 | Doxorubicin or Paclitaxel n=351 |
 | --- | --- | --- |
@@ -1981,10 +2031,10 @@ Table 100: Efficacy Results in KEYNOTE-775
 | Duration of Response | n=105 | n=53 |
 | Median in months (range) | 9.2 (1.6+, 23.7+) | 5.7 (0.0+, 24.2+) |
 
-| Figure 41: Kaplan-Meier Curve for Overall Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
+| Figure 43: Kaplan-Meier Curve for Overall Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
 | --- |
 
-| Figure 42: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
+| Figure 44: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
 | --- |
 
 As a Single Agent for the Treatment of Advanced MSI-H or dMMR Endometrial Carcinoma
@@ -2000,9 +2050,9 @@ The major efficacy outcome measures were ORR and DoR as assessed by BICR accordi
 Among the 90 patients evaluated, the baseline characteristics were: median age of 64 years (range: 42 to 86); 83% White, 8% Asian, and 3% Black; 12% Hispanic or Latino; 39% ECOG PS of 0 and 61% ECOG PS of 1; 96% had M1 disease and 4% had M0 disease at study entry; and 51% had one and 48% had two or more prior lines of therapy.
 Nine patients received only adjuvant therapy and one patient received only neoadjuvant and adjuvant therapy before participating in the study.
 
-Efficacy results are summarized in Table 101.
+Efficacy results are summarized in Table 104.
 
-Table 101: Efficacy Results in Patients with Advanced MSI-H or dMMR Endometrial Carcinoma in KEYNOTE-158
+Table 104: Efficacy Results in Patients with Advanced MSI-H or dMMR Endometrial Carcinoma in KEYNOTE-158
 
 | Endpoint | Intravenous Pembrolizumab n=90Median follow-up time of 16.0 months (range: 0.5 to 62.1 months) |
 | --- | --- |
@@ -2033,9 +2083,9 @@ Of the 790 patients, 102 (13%) had tumors identified as TMB-H, defined as TMB �
 Among the 102 patients with TMB-H advanced solid tumors, the study population characteristics were: median age of 61 years (range: 27 to 80), 34% age 65 or older; 34% male; 81% White; and 41% ECOG PS of 0 and 58% ECOG PS of 1.
 Fifty-six percent of patients had at least two prior lines of therapy.
 
-Efficacy results are summarized in Tables 102 and 103.
+Efficacy results are summarized in Tables 105 and 106.
 
-Table 102: Efficacy Results for Patients with TMB-H Cancer in KEYNOTE-158
+Table 105: Efficacy Results for Patients with TMB-H Cancer in KEYNOTE-158
 
 |  | TMB ≥10 mut/Mb n=102Median follow-up time of 11.1 months | TMB ≥13 mut/Mb n=70 |
 | --- | --- | --- |
@@ -2050,7 +2100,7 @@ Table 102: Efficacy Results for Patients with TMB-H Cancer in KEYNOTE-158
 | % with duration ≥24 months | 50% | 50% |
 | + Denotes ongoing response NR = not reached |  |  |
 
-Table 103: Response by Tumor Type (TMB ≥10 mut/Mb)
+Table 106: Response by Tumor Type (TMB ≥10 mut/Mb)
 
 |  | N | n (%) | 95% CI | (months) |
 | --- | --- | --- | --- | --- |
@@ -2087,9 +2137,9 @@ Eighty-seven percent received one or more prior lines of therapy; 73% received p
 Among the 54 patients with locally advanced cSCC treated, the study population characteristics were: median age of 76 years (range: 35 to 95), 80% age 65 or older; 72% male; 83% White, 13% race unknown; 41% ECOG PS of 0 and 59% ECOG PS of 1.
 Twenty-two percent received one or more prior lines of therapy; 63% received prior radiation therapy.
 
-Efficacy results are summarized in Table 104.
+Efficacy results are summarized in Table 107.
 
-Table 104: Efficacy Results in KEYNOTE-629
+Table 107: Efficacy Results in KEYNOTE-629
 
 | Endpoint | Intravenous Pembrolizumab Recurrent or Metastatic cSCC n=105 | Intravenous Pembrolizumab Locally Advanced cSCC n=54 |
 | --- | --- | --- |
@@ -2145,9 +2195,9 @@ The study population characteristics were: median age of 49 years (range: 22 to 
 
 Statistically significant improvements in pCR, EFS, and OS were demonstrated at pre-specified interim analyses for patients randomized to intravenous pembrolizumab in combination with chemotherapy followed by intravenous pembrolizumab as a single agent compared with patients randomized to placebo in combination with chemotherapy followed by placebo alone.
 
-Table 105 and Figures 43 and 44 summarize the efficacy results for KEYNOTE-522.
+Table 108 and Figures 45 and 46 summarize the efficacy results for KEYNOTE-522.
 
-Table 105: Efficacy Results in KEYNOTE-522
+Table 108: Efficacy Results in KEYNOTE-522
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks with chemotherapy/Intravenous Pembrolizumab n=784 | Placebo with chemotherapy/Placebo n=390 |
 | --- | --- | --- |
@@ -2164,10 +2214,10 @@ Table 105: Efficacy Results in KEYNOTE-522
 | Hazard ratio (95% CI) | 0.66 (0.50, 0.87) |  |
 | p-Value,Based on a pre-specified OS interim analysis (compared to a significance level of 0.0050) | 0.00150 |  |
 
-| Figure 43: Kaplan-Meier Curve for Event-Free Survival in KEYNOTE-522 |
+| Figure 45: Kaplan-Meier Curve for Event-Free Survival in KEYNOTE-522 |
 | --- |
 
-| Figure 44: Kaplan-Meier Curve for Overall Survival in KEYNOTE-522 |
+| Figure 46: Kaplan-Meier Curve for Overall Survival in KEYNOTE-522 |
 | --- |
 
 Unresectable Locally Advanced or Metastatic TNBC for Tumors Expressing PD-L1 (CPS≥ 10)
@@ -2190,15 +2240,15 @@ Crossover to sacituzumab govitecan-hziy monotherapy was offered following diseas
 The primary efficacy outcome measure was PFS as assessed by BICR according to RECIST v1.1.
 Additional efficacy outcome measures were OS and ORR as assessed by BICR using RECIST v1.1.
 
-The median age was 55 years (range: 23 to 88); 26% age 65 or older, 100% female; 58% White, 24% Asian, 6% American Indian or Alaska Native, 5% Black, and 6.5% not specified; 29% Hispanic/Latino, 69% non-Hispanic/non-Latino and 2.0% not specified; and 70% ECOG PS of 0, 30% ECOG PS of 1, and 0.2% ECOG PS of 2; and 34% presented with de novo metastatic disease at screening, 18% with recurrent disease within 6 to 12 months; 48% with recurrent disease >12 months.
+The median age was 55 years (range: 23 to 88); 26% age 65 or older, 100% female; 58% White, 24% Asian, 6% American Indian or Alaska Native, 5% Black, and 7% not specified; 29% Hispanic/Latino, 69% non-Hispanic/non-Latino and 2.0% not specified; and 70% ECOG PS of 0, 30% ECOG PS of 1, and 0.2% ECOG PS of 2; and 34% presented with de novo metastatic disease at screening, 18% with recurrent disease within 6 to 12 months; 48% with recurrent disease >12 months.
 Sixty-five percent of patients had visceral metastasis at baseline and 3% had previously treated brain metastases.
 
 The trial demonstrated a statistically significant improvement in PFS.
 The OS data were immature and a total of 203 (46%) had died across both study arms.
 
-Table 106 and Figure 45 summarize the efficacy results for KEYNOTE-D19.
+Table 109 and Figure 47 summarize the efficacy results for KEYNOTE-D19.
 
-Table 106: Efficacy Results in KEYNOTE-D19
+Table 109: Efficacy Results in KEYNOTE-D19
 
 | Endpoint | Intravenous pembrolizumab plus Sacituzumab Govitecan-hziy n=221 | Intravenous pembrolizumab plus chemotherapyChemotherapy: paclitaxel, nab-paclitaxel, or gemcitabine and carboplatin n=222 |
 | --- | --- | --- |
@@ -2212,7 +2262,7 @@ Table 106: Efficacy Results in KEYNOTE-D19
 | Complete Response | 12% | 8% |
 | Partial Response | 50% | 47% |
 
-| Figure 45: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-D19 |
+| Figure 47: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-D19 |
 | --- |
 
 Locally Recurrent Unresectable or Metastatic TNBC for Tumors Expressing PD-L1 (CPS≥ 10)
@@ -2233,9 +2283,9 @@ Additional efficacy outcome measures were ORR and DoR as assessed by BICR.
 The study population characteristics for patients were: median age of 53 years (range: 22 to 85), 21% age 65 or older; 100% female; 68% White, 21% Asian, and 4% Black; 60% ECOG PS of 0 and 40% ECOG PS of 1; and 68% were post-menopausal status.
 Seventy-five percent of patients had tumor PD-L1 expression CPS ≥1 and 38% had tumor PD-L1 expression CPS ≥10.
 
-Table 107 and Figures 46 and 47 summarize the efficacy results for KEYNOTE-355.
+Table 110 and Figures 48 and 49 summarize the efficacy results for KEYNOTE-355.
 
-Table 107: Efficacy Results in KEYNOTE-355 (CPS ≥10)
+Table 110: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 
 | Endpoint | Intravenous Pembrolizumab 200 mg every 3 weeks with chemotherapy n=220 | Placebo every 3 weeks with chemotherapy n=103 |
 | --- | --- | --- |
@@ -2256,10 +2306,10 @@ Table 107: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 | Duration of Response | n=116 | n=42 |
 | Median in months (95% CI) | 12.8 (9.9, 25.9) | 7.3 (5.5, 15.4) |
 
-| Figure 46: Kaplan-Meier Curve for Overall Survival in KEYNOTE-355 (CPS ≥10) |
+| Figure 48: Kaplan-Meier Curve for Overall Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
 
-| Figure 47: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
+| Figure 49: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
 
 ## 14.21 Ovarian Cancer
@@ -2290,9 +2340,9 @@ The population characteristics of these 466 patients were: median age of 62 year
 The platinum-free interval following the most recent line of therapy was <3 months in 47% of patients, and 3 to 6 months in 53% of patients.
 
 The study demonstrated statistically significant improvement in PFS and OS for patients randomized to intravenous pembrolizumab in combination with paclitaxel with or without bevacizumab compared to placebo in combination with paclitaxel with or without bevacizumab in patients whose tumors expressed PD-L1 CPS ≥1.
-Efficacy results are summarized in Table 108 and Figures 48 and 49.
+Efficacy results are summarized in Table 111 and Figures 50 and 51.
 
-Table 108: Efficacy Results in KEYNOTE-B96 (CPS ≥1)
+Table 111: Efficacy Results in KEYNOTE-B96 (CPS ≥1)
 
 | Endpoint | Intravenous pembrolizumab 400 mg every 6 weeks plus paclitaxel with or without bevacizumab n=234 | Placebo plus paclitaxel with or without bevacizumab n=232 |
 | --- | --- | --- |
@@ -2307,8 +2357,8 @@ Table 108: Efficacy Results in KEYNOTE-B96 (CPS ≥1)
 | Hazard ratio (95% CI) | 0.76 (0.61, 0.94) |  |
 | p-Value | 0.0053Based on stratified log-rank test (p-Value [one-sided] is compared to an alpha boundary of 0.0083) |  |
 
-| Figure 48: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-B96 (CPS ≥1) |
+| Figure 50: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-B96 (CPS ≥1) |
 | --- |
 
-| Figure 49: Kaplan-Meier Curve for Overall Survival in KEYNOTE-B96 (CPS ≥1) |
+| Figure 51: Kaplan-Meier Curve for Overall Survival in KEYNOTE-B96 (CPS ≥1) |
 | --- |
