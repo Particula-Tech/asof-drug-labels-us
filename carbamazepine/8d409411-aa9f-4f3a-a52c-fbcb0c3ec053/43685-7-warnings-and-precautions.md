@@ -5,8 +5,12 @@
 Serious and sometimes fatal dermatologic reactions, including toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS), have been reported with Tegretol treatment.
 The risk of these events is estimated to be about 1 to 6 per 10,000 new users in countries with mainly Caucasian populations.
 However, the risk in some Asian countries is estimated to be about 10 times higher.
+
+Fixed drug eruption (FDE), which presents with single or multiple, circumscribed patches that occur in the same location with each exposure to an offending drug, has been reported with Tegretol.
+With repeated exposure to Tegretol, the skin lesions may progress to generalized bullous fixed drug eruption (GBFDE), a serious skin reaction which may resemble SJS/TEN.
+
 Tegretol should be discontinued at the first sign of a rash, unless the rash is clearly not drug related.
-If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed, and alternative therapy should be considered.
+If signs or symptoms suggest SJS/TEN, FDE, or GBFDE, use of this drug should not be resumed, and alternative therapy should be considered.
 
 ## SJS/TEN and HLA-B*1502 Allele
 

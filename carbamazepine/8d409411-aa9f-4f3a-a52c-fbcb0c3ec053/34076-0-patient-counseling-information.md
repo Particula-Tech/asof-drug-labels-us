@@ -17,7 +17,7 @@ Patients, their caregivers, and families should be counseled that AEDs, includin
 Behaviors of concern should be reported immediately to healthcare providers.
 
 Tegretol may interact with some drugs.
-Therefore, patients should be advised to report to their doctors the use of any other prescription or nonprescription medications or herbal products.
+Therefore, patients should be advised to report to their doctors the use of any other prescription or non-prescription medications or herbal products.
 
 Caution should be exercised if alcohol is taken in combination with Tegretol therapy, due to a possible additive sedative effect.
 

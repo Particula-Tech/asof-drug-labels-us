@@ -16,13 +16,15 @@ TEGRETOL can cause serious side effects, including:
 
 1. TEGRETOL may cause rare but serious skin rashes that may lead to death.
    These serious skin reactions are more likely to happen when you begin taking TEGRETOL within the first four months of treatment but may occur at later times.
-   These reactions can happen in anyone, but are more likely in people of Asian descent.
+   These reactions can happen in anyone, but some types of skin reactions are more likely in people of Asian descent.
    If you are of Asian descent, you may need a genetic blood test before you take TEGRETOL to see if you are at a higher risk for serious skin reactions with this medicine.
-   Symptoms may include:
+   Reactions may include:
    - skin rash
    - hives
    - sores in your mouth
    - blistering or peeling of the skin
+   - round or oval patches, which can include redness, swelling, blistering, itching, peeling or darkening of the skin, that appear in the same place on your body as when you took Tegretol in the past.
+     This may progress to a serious reaction.
 2. TEGRETOL may cause rare but serious blood problems.
    Symptoms may include:
    - fever, sore throat, or other infections that come and go or do not go away
@@ -107,6 +109,7 @@ Before you take TEGRETOL, tell your healthcare provider if you:
 - have or ever had blood problems
 - have or ever had liver problems
 - have or ever had kidney problems
+- have ever had a skin reaction to TEGRETOL (carbamazepine)
 - have or ever had allergic reactions to medicines
 - have or ever had increased pressure in your eye
 - have any other medical conditions
@@ -231,10 +234,10 @@ Inactive ingredients:
 - TEGRETOL Suspension: citric acid, FD&C Yellow No. 6, flavoring, polymer, potassium sorbate, propylene glycol (25 mg/ mL), purified water, sorbitol, sucrose, and xanthan gum.
 - TEGRETOL-XR Tablets: cellulose compounds, dextrates, iron oxides, magnesium stearate, mannitol, polyethylene glycol, sodium lauryl sulfate, titanium dioxide (200 mg tablets only).
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-September 2025 T2025-65
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Revised: July 2026 T2026-28
