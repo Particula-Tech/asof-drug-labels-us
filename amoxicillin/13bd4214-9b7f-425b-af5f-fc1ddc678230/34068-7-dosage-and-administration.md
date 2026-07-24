@@ -14,11 +14,13 @@ To minimize the potential for gastrointestinal intolerance, amoxcillin should be
 Table 1.
 Dosage Recommendations for Adult and Pediatric Patients Aged 3 Months (12 Weeks) and Older
 
-| Infection | Severity | Recommended Dosage for Adult and Pediatrics Patients Aged 3 Months and Older and Weight Greater than 40 kg | Recommended Dosage for Pediatric Patient Aged 3 Months and Older and Weight Less than 40 kg |
+| Infection | Severity* | Recommended Dosage for Adult and Pediatrics Patients Aged 3 Months and Older and Weight Greater than 40 kg | Recommended Dosage for Pediatric Patient Aged 3 Months and Older and Weight Less than 40 kg |
 | --- | --- | --- | --- |
 | Ear/Nose/ThroatSkin/Skin StructureGenitourinary Tract | Mild/Moderate | 500 mg every 12 hours or250 mg every 8 hours | 25 mg/kg/day in divided dosesevery 12 hoursor20 mg/kg/day in divided dosesevery 8 hours |
 |  | Severe | 875 mg every 12 hours or500 mg every 8 hours | 45 mg/kg/day in divided dosesevery 12 hoursor40 mg/kg/day in divided dosesevery 8 hours |
 | Lower RespiratoryTract | Mild/Moderate orSevere | 875 mg every 12 hours or500 mg every 8 hours | 45 mg/kg/day in divided dosesevery 12 hoursor40 mg/kg/day in divided dosesevery 8 hours |
+
+* Dosage for infections caused by bacteria that are intermediate in their susceptibility to amoxicillin should follow the recommendations for severe infections.
 
 ## 2.3 Dosage in Pediatric Patients Aged Less than 12 Weeks (3 months)
 

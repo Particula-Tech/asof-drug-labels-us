@@ -24,15 +24,13 @@ Capsules, USP
 
 500 mg
 
-Rx Only
-
 100 Capsules
 
 SANDOZ
 
 # 500 mg Tablet Label
 
-NDC 0781-5060-20
+NDC 0781-5060-20 Rx Only
 
 Amoxicillin
 
@@ -40,9 +38,7 @@ Tablets, USP
 
 500 mg
 
-Rx Only
-
-20 Tablets
+100 Tablets
 
 SANDOZ
 
