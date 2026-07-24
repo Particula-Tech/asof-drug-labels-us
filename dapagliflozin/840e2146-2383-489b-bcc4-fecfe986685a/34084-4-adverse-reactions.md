@@ -1,6 +1,10 @@
 # 6 ADVERSE REACTIONS
 
-The following important adverse reactions are described below and elsewhere in the labeling: • Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.1)] • Volume Depletion [see Warnings and Precautions (5.2)] • Urosepsis and Pyelonephritis [see Warnings and Precautions (5.3)] • Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.4)] • Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene) [see Warnings and Precautions (5.5)] • Genital Mycotic Infections [see Warnings and Precautions (5.6)]
+The following important adverse reactions are described below and elsewhere in the labeling: • Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.1)] • Volume Depletion [see Warnings and Precautions (5.2)]
+
+• Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections [see Warnings and Precautions (5.3)]
+
+• Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -10,7 +14,9 @@ Dapagliflozin has been evaluated in clinical trials in adult patients with type 
 The overall safety profile of dapagliflozin was consistent across the studied indications.
 Severe hypoglycemia and diabetic ketoacidosis (DKA) were observed only in patients with diabetes mellitus.
 
-Clinical Trials for Glycemic Control in Adult Patients with Type 2 Diabetes Mellitus Pool of 12 Placebo-Controlled Adult Trials for Dapagliflozin 5 and 10 mg for Glycemic ControlThe data in Table 1 is derived from 12 glycemic control placebo-controlled trials in adult patients with type 2 diabetes mellitus ranging from 12 to 24 weeks.
+Clinical Trials for Glycemic Control in Adult Patients with Type 2 Diabetes Mellitus Pool of 12 Placebo-Controlled Adult Trials for Dapagliflozin 5 and 10 mg for Glycemic Control
+
+The data in Table 1 is derived from 12 glycemic control placebo-controlled trials in adult patients with type 2 diabetes mellitus ranging from 12 to 24 weeks.
 In 4 trials dapagliflozin was used as monotherapy, and in 8 trials dapagliflozin was used as add-on to background antidiabetic therapy or as combination therapy with metformin [see Clinical Studies (14.1)].
 
 These data reflect exposure of 2338 adult patients to dapagliflozin with a mean exposure duration of 21 weeks.
@@ -173,6 +179,6 @@ However, due to AstraZeneca AB’s marketing exclusivity rights, this drug produ
 
 ## 6.2 Postmarketing Experience
 
-Additional adverse reactions have been identified during post-approval use of dapagliflozin in patients with diabetes mellitus.
+Additional adverse reactions have been identified during post-approval use of dapagliflozin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Infections: Necrotizing fasciitis of the perineum (Fournier’s Gangrene), urosepsis and pyelonephritis Metabolism and Nutrition Disorders: Ketoacidosis Renal and Urinary Disorders: Acute kidney injury Skin and Subcutaneous Tissue Disorders: Rash
