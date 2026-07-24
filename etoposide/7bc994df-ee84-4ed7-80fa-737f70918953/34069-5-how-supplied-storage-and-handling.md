@@ -1,6 +1,6 @@
 # How Supplied
 
-VePesid® (Etoposide Capsules, USP), 50 mg, are supplied as pink capsules with “V3545” printed in black and are available in blister packs of 20 individually labeled blisters, each containing one capsule (NDC 83270-451-05).
+Etoposide Capsules, USP, 50 mg, are supplied as pink capsules with “V3545” printed in black and are available in blister packs of 20 individually labeled blisters, each containing one capsule (NDC 83270-451-05).
 Capsules are to be stored under refrigeration, between 2°C to 8°C (36°F to 46°F).
 DO NOT FREEZE.
 
@@ -44,4 +44,4 @@ Am J Health-Syst Pharm.
 1996;53:1669-1685.
 
 Manufactured by: Eirgen Pharma Ltd Westside Business Park, Waterford, X91 YV67, Ireland Rev.
-05-2026-00
+07-2026-00

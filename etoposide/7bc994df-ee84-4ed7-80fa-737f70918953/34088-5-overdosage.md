@@ -1,3 +1,3 @@
 # OVERDOSAGE
 
-No proven antidotes have been established for etoposide overdosage.
+No proven antidotes have been established for Etoposide overdosage.
