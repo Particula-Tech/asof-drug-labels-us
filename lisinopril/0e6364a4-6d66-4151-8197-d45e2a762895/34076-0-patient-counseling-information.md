@@ -3,7 +3,7 @@
 NOTE: This information is intended to aid in the safe and effective use of this medication.
 It is not a disclosure of all possible adverse or intended effects.
 Pregnancy: Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
-Advise females of reproductive potential to notify their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+Advise females of reproductive potential to notify their healthcare provider with a known or suspected pregnancy [seeWarnings and Precautions (5.1) and Use in Specific Populations (8.1)].
 Angioedema: Angioedema, including laryngeal edema may occur at any time during treatment with angiotensin converting enzyme inhibitors, including lisinopril.
 Tell patients to report immediately any signs or symptoms suggesting angioedema (swelling of face, extremities, eyes, lips, tongue, difficulty in swallowing or breathing) and to take no more drug until they have consulted with the prescribing physician.
 Lactation: Advise women not to breastfeed during treatment with lisinopril [see Use in Specific Populations (8.2)].
