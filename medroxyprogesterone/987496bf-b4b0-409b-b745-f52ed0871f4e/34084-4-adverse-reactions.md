@@ -27,7 +27,7 @@ Adverse Reactions that Were Reported by More than 5% of Subjects
 | Body as a Whole | Headache (16.5%) Abdominal pain/discomfort (11.2%) |
 | Metabolic/Nutritional | Increased weight >10 lb at 24 months (37.7%) |
 | Nervous | Nervousness (10.8%) Dizziness (5.6%) Libido decreased (5.5%) |
-| Reproductive (Urogenital1) | Menstrual irregularities: bleeding (57.3% at 12 months, 32.1% at 24 months) amenorrhea (55% at 12 months, 68% at 24 months) |
+| Reproductive (Urogenital) | Menstrual irregularities: bleeding (57.3% at 12 months, 32.1% at 24 months) amenorrhea (55% at 12 months, 68% at 24 months) |
 
 Table 2.
 Adverse Reactions that Were Reported by between 1 and 5% of Subjects
@@ -40,7 +40,7 @@ Adverse Reactions that Were Reported by between 1 and 5% of Subjects
 | Musculoskeletal | Leg cramps (3.7%) Arthralgia (1.0%) |
 | Nervous | Depression (1.5%) Insomnia (1.0%) |
 | Skin and Appendages | Acne (1.2%) No hair growth/alopecia (1.1%) Rash (1.1%) |
-| Reproductive (Urogenital1) | Leukorrhea (2.9%) Breast pain (2.8%) Vaginitis (1.2%) |
+| Reproductive (Urogenital) | Leukorrhea (2.9%) Breast pain (2.8%) Vaginitis (1.2%) |
 
 Adverse reactions leading to study discontinuation in ≥2% of subjects: bleeding (8.2%), amenorrhea (2.1%), weight gain (2.0%).
 
@@ -65,4 +65,4 @@ Adverse Reactions Reported during Post-Marketing Experience
 | Nervous | Paralysis, Facial palsy, Paresthesia, Drowsiness |
 | Respiratory | Dyspnea and asthma, Hoarseness |
 | Skin and Appendages | Hirsutism, Excessive sweating and body odor, Dry skin, Scleroderma, Melasma, Chloasma |
-| Reproductive (Urogenital1) | Lack of return to fertility, Unexpected pregnancy, Changes in breast size, Breast lumps or nipple bleeding, Galactorrhea, Increased libido, Uterine hyperplasia, Vaginal cysts, Genitourinary infections, Dyspareunia |
+| Reproductive (Urogenital) | Lack of return to fertility, Unexpected pregnancy, Changes in breast size, Breast lumps or nipple bleeding, Galactorrhea, Increased libido, Uterine hyperplasia, Vaginal cysts, Genitourinary infections, Dyspareunia |
