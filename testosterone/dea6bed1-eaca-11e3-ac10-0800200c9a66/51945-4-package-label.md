@@ -4,7 +4,7 @@ www.natesto.com
 
 NDC 42667-5511-1 CIII
 
-natesto ® (testosterone) nasal gel CIII
+natesto® (testosterone) nasal gel CIII
 
 5.5mg of testosterone per actuation*
 

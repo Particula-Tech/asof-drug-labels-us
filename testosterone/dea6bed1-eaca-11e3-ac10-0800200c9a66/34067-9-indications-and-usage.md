@@ -9,5 +9,4 @@ Natesto is indicated for replacement therapy in adult males for conditions assoc
 
 Limitations of use:
 
-- Safety and efficacy of Natesto in men with "age-related hypogonadism" (also referred to as "late-onset hypogonadism") have not been established.
 - Safety and efficacy of Natesto in males less than 18 years old have not been established [see Use in Specific Populations (8.4)].

@@ -2,9 +2,9 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Use in Men With Known or Suspected Prostate or Breast Cancer
+Use in Patients With Metastatic Prostate Cancer or Breast Cancer
 
-Men with known or suspected prostate or breast cancer should not use Natesto [see Contraindications (4) and Warnings and Precaution (5.5)].
+Patients with metastatic prostate cancer or breast cancer should not use Natesto [see Contraindications (4) and Warnings and Precaution (5.5)].
 
 Nasal Adverse Reactions
 

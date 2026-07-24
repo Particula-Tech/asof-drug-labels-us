@@ -14,7 +14,7 @@ Parts of your Natesto dispenser (See Figure A)
 
 Information about your Natesto:
 
-- Do notblow your nose or sniff for 1 hour after using Natesto.
+- Do not blow your nose or sniff for 1 hour after using Natesto.
 - Before you use Natesto for the first time, you will need to prime your Natesto pump.
 
 How to prime your Natesto pump:
@@ -30,41 +30,41 @@ How to prime your Natesto pump:
 
 Giving your Natesto dose:
 
-Step 1:Blow your nose.
+Step 1: Blow your nose.
 
-Step 2:Remove the Natesto cap.
+Step 2: Remove the Natesto cap.
 
-Step 3:While looking in the mirror, put your right first (index) finger on the pump of your Natesto actuator and slowly slide the tip of the actuator up into your left nostril until your finger on the pump touches the bottom of your nose (See Figure C).
+Step 3: While looking in the mirror, put your right first (index) finger on the pump of your Natesto actuator and slowly slide the tip of the actuator up into your left nostril until your finger on the pump touches the bottom of your nose (See Figure C).
 
 | (Figure C) |
 | --- |
 
-Step 4:Gently tilt the Natesto actuator so that the hole in the tip touches the lateral (side) wall of your nostril.
+Step 4: Gently tilt the Natesto actuator so that the hole in the tip touches the lateral (side) wall of your nostril.
 This will make sure that Natesto is given in the correct place (See Figure D).
 
 | (Figure D) |
 | --- |
 
-Step 5:With the actuator in place, slowly and firmly push the pump down until it fully stops and remove the actuator from your nose.
+Step 5: With the actuator in place, slowly and firmly push the pump down until it fully stops and remove the actuator from your nose.
 
-Step 6:While looking in the mirror, put your left first (index) finger on the pump of your Natesto actuator and slowly slide the tip of the actuator up into your right nostril until your finger on the pump touches the bottom of your nose (See Figure E).
+Step 6: While looking in the mirror, put your left first (index) finger on the pump of your Natesto actuator and slowly slide the tip of the actuator up into your right nostril until your finger on the pump touches the bottom of your nose (See Figure E).
 
 | (Figure E) |
 | --- |
 
-Step 7:Gently tilt the tip of the Natesto actuator so that the hole in the tip touches the lateral (side) wall of your nostril.
+Step 7: Gently tilt the tip of the Natesto actuator so that the hole in the tip touches the lateral (side) wall of your nostril.
 This will make sure that Natesto is given in the correct place (See Figure F).
 
 | (Figure F) |
 | --- |
 
-Step 8:Slowly and firmly push down on the pump until it fully stops and remove the actuator from your nose.
+Step 8: Slowly and firmly push down on the pump until it fully stops and remove the actuator from your nose.
 
-Step 9:Wipe the tip of the actuator with a clean, dry tissue.
+Step 9: Wipe the tip of the actuator with a clean, dry tissue.
 
-Step 10:Replace the cap.
+Step 10: Replace the cap.
 
-Step 11:Press your nostrils together just below the middle of your nose (bridge) and lightly rub them together (See Figure G).
+Step 11: Press your nostrils together just below the middle of your nose (bridge) and lightly rub them together (See Figure G).
 
 | (Figure G) |
 | --- |

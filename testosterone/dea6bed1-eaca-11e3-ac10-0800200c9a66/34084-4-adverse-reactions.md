@@ -14,7 +14,7 @@ Of these, 78 received Natesto at a dose of 11 mg three times daily.
 Among the 78 patients who received Natesto three times daily in the 90-day clinical study, the most common adverse reactions were: prostate specific antigen (PSA) increased, headache, rhinorrhea, epistaxis, nasal discomfort, nasopharyngitis, upper respiratory tract infection (URI), sinusitis, bronchitis and nasal scab.
 PSA increased was considered an adverse reaction by meeting one of two pre-specified criteria: (1) increase from baseline serum PSA greater than 1.4 ug/L, or (2) serum PSA greater than 4.0 ug/L.
 
-Table 1shows adverse reactions reported by ≥3% of patients treated with 11 mg three times daily in the 90-day clinical study.
+Table 1 shows adverse reactions reported by ≥3% of patients treated with 11 mg three times daily in the 90-day clinical study.
 
 Table 1: Adverse Reactions Reported by ≥3% of Patients Treated with Natesto (11 mg of testosterone) Three Times Daily in the 90-Day Clinical Study
 
@@ -39,7 +39,7 @@ Among the 78 patients who received Natesto three times daily in the 90-day clini
 
 Among these 69 patients, the most common adverse reactions were: nasopharyngitis, PSA increased, parosmia, nasal discomfort, rhinorrhea and nasal scab.
 
-Table 2shows adverse reactions reported by ≥3% of patients who received Natesto three times daily in both the 90-day clinical study and in the 90-day extension period.
+Table 2 shows adverse reactions reported by ≥3% of patients who received Natesto three times daily in both the 90-day clinical study and in the 90-day extension period.
 
 Table 2: Adverse Reactions Reported by ≥3% of Patients in Both the 90-Day Clinical Study and in the 90-Day Extension Period
 
@@ -87,7 +87,7 @@ The mean duration of therapy was approximately 22 months.
 The mean duration of follow-up was 33 months.
 Approximately 61% of all patients discontinued topical testosterone gel or placebo therapy.
 
-The mean patient age (±SD) was 63.3 (7.9) years with 2452 patients aged 65 years or more (47%); 2847 (about 55%) patients had pre-existing cardiovascular disease, whereas 2357 patients (about 45%) had an elevated cardiovascular risk at baseline, and mean BMI was 35 kg/m 2.
+The mean patient age (±SD) was 63.3 (7.9) years with 2452 patients aged 65 years or more (47%); 2847 (about 55%) patients had pre-existing cardiovascular disease, whereas 2357 patients (about 45%) had an elevated cardiovascular risk at baseline, and mean BMI was 35 kg/m2.
 Approximately 80% of patients were White, 17% were Black, and 3% were of other races or ethnic groups.
 Approximately 69%, 84%, and 93% had diabetes mellitus, hyperlipidemia, and hypertension, respectively.
 
@@ -107,6 +107,6 @@ For the adverse reaction of bone fracture, each event was adjudicated by clinica
 The following adverse reactions have been identified during post-approval use of testosterone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiovascular Disorders: myocardial infarction, stroke [see Warnings and Precautions (5.6)]
+Cardiovascular Disorders: myocardial infarction, stroke [see Warnings and Precautions (5.7)]
 
 Vascular Disorders: Venous thromboembolism [see Warnings and Precautions (5.4)]

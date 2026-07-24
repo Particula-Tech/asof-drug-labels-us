@@ -20,7 +20,7 @@ Absorption
 Natesto delivers physiologic amounts of testosterone, producing circulating concentrations that approximate normal testosterone concentrations (i.e., 300 to 1,050 ng/dL) seen in healthy men.
 The maximum concentration for Natesto is achieved within approximately 40 minutes of administration and has a half-life ranging from 10 to 100 minutes.
 
-Figure 1summarizes the pharmacokinetic profiles of total testosterone in patients completing 90 days of Natesto treatment administered as 33 mg of testosterone daily (11 mg three times daily).
+Figure 1 summarizes the pharmacokinetic profiles of total testosterone in patients completing 90 days of Natesto treatment administered as 33 mg of testosterone daily (11 mg three times daily).
 
 Figure 1: Mean Serum Total Testosterone Concentrations on Day 90 Following Natesto Administered As 11 mg of Testosterone Three Times Daily (N=69)
 
@@ -46,10 +46,10 @@ Inactivation of testosterone occurs primarily in the liver.
 
 Drug Interactions
 
-Use in patients with allergic rhinitis and oxymetazoline:The effects of allergic rhinitis and the use of oxymetazoline on the absorption of testosterone were investigated in a 3-way cross-over clinical study.
+Use in patients with allergic rhinitis and oxymetazoline: The effects of allergic rhinitis and the use of oxymetazoline on the absorption of testosterone were investigated in a 3-way cross-over clinical study.
 Eighteen males with seasonal allergic rhinitis received 3 doses of 11 mg of testosterone intranasally (testosterone dose of 33 mg/day) while they were in the asymptomatic, symptomatic, and symptomatic but treated (with oxymetazoline) states using an environmental challenge chamber model.
 
 Serum total testosterone concentrations were decreased by 21 to 24% in males with symptomatic allergic rhinitis.
-A 2.6% decrease in mean AUC(0-24) and 3.6% decrease in mean C maxof total testosterone was observed in males with symptomatic seasonal rhinitis when treated with oxymetazoline 30 minutes prior to Natesto compared to when left untreated.
+A 2.6% decrease in mean AUC(0-24) and 3.6% decrease in mean Cmax of total testosterone was observed in males with symptomatic seasonal rhinitis when treated with oxymetazoline 30 minutes prior to Natesto compared to when left untreated.
 Oxymetazoline does not impact the absorption of testosterone when concomitantly administered with Natesto [see Clinical Pharmacology (12.3)].
 Drug interaction potential with nasally administered drugs other than oxymetazoline has not been studied.

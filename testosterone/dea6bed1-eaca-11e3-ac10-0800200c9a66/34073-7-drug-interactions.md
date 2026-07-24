@@ -15,6 +15,6 @@ The concurrent use of testosterone with corticosteroids may result in increased 
 
 ## 7.4 Oxymetazoline
 
-A 2.6% decrease in mean AUC(0-24) and 3.6% decrease in mean C maxof total testosterone was observed in males with symptomatic seasonal rhinitis when treated with oxymetazoline 30 minutes prior to Natesto compared to when left untreated.
+A 2.6% decrease in mean AUC(0-24) and 3.6% decrease in mean Cmax of total testosterone was observed in males with symptomatic seasonal rhinitis when treated with oxymetazoline 30 minutes prior to Natesto compared to when left untreated.
 Oxymetazoline does not impact the absorption of testosterone when concomitantly administered with Natesto [see Clinical Pharmacology (12.3)].
 Drug interaction potential with other nasally administered drugs other than oxymetazoline has not been studied.
