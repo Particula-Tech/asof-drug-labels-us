@@ -28,6 +28,4 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 
 Brands listed are the trademarks of their respective owners.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2023 Sagent Pharmaceuticals
-
-SAGENT Pharmaceuticals ®
+sagent® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60173 (USA) Made in India ©2025 Sagent Pharmaceuticals
