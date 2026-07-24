@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA218805"
+  ],
+  "inn": "ivermectin",
+  "labeler": "EPIC PHARMA LLC",
+  "package_ndcs": [
+    "42806-017-20"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ivermectin",
+      "name": "ivermectin"
+    }
+  ],
+  "setid": "c8005642-3bf0-41b9-8a53-8b933c68c073",
+  "source": "dailymed"
+}
