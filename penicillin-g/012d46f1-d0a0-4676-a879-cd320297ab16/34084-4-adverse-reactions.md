@@ -9,7 +9,7 @@ The following adverse reactions have been reported with Bicillin L-A during post
 Skin and Appendages: Stevens-Johnson syndrome (SJS) and drug reaction with eosinophilia and systemic symptoms (DRESS).
 (See WARNINGS.)
 
-Immune System Disorders: Acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction (Kounis syndrome).
+Immune System Disorders: Acute myocardial ischemia with or without myocardial infarction occurring as part of an allergic reaction.
 
 The following have been reported with parenteral penicillin G (the active moiety in Bicillin L-A):
 
