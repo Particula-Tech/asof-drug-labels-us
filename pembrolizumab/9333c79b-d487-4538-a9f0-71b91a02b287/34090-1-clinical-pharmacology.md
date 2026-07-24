@@ -18,7 +18,7 @@ There are no clinically significant exposure-response relationships for efficacy
 The pharmacokinetics (PK) of pembrolizumab was characterized using a population PK analysis with concentration data collected from 2993 patients with various cancers who received pembrolizumab doses of 1 to 10 mg/kg every 2 weeks, 2 to 10 mg/kg every 3 weeks, or 200 mg every 3 weeks.
 
 Steady-state concentrations of pembrolizumab were reached by 16 weeks of repeated dosing with an every 3-week regimen and the systemic accumulation was 2.1-fold.
-The peak concentration (Cmax), trough concentration (Cmin), and area under the plasma concentration versus time curve at steady state (AUCss) of pembrolizumab increased dose proportionally in the dose range of 2 to 10 mg/kg every 3 weeks.
+The peak concentration (Cmax), trough concentration (Cmin), and area under the plasma concentration versus time curve at steady state (AUCss) of pembrolizumab increased dose proportionally in the dose range: of 2 to 10 mg/kg every 3 weeks.
 
 Distribution
 
