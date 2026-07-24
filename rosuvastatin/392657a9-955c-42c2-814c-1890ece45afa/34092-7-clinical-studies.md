@@ -5,7 +5,7 @@ Primary Prevention of CV Disease
 In the Justification for the Use of Statins in Primary Prevention: An Intervention Trial Evaluating Rosuvastatin (JUPITER) study, the effect of rosuvastatin on the occurrence of major CV disease events was assessed in 17,802 males (≥50 years) and females (≥60 years) who had no clinically evident CV disease, LDL-C levels <130 mg/dL and hsCRP levels ≥2 mg/L.
 The study population had an estimated baseline coronary heart disease risk of 11.6% over 10 years based on the Framingham risk criteria and included a high percentage of patients with additional risk factors such as hypertension (58%), low HDL-C levels (23%), cigarette smoking (16%), or a family history of premature CHD (12%).
 Patients had a median baseline LDL-C of 108 mg/dL and hsCRP of 4.3 mg/L.
-Patients were randomly assigned to placebo (n=8901) or rosuvastatin 20 mg once daily (n=8901) and were followed for a mean duration of 2 years.
+Patients were randomly assigned to placebo (n=8,901) or rosuvastatin 20 mg once daily (n=8,901) and were followed for a mean duration of 2 years.
 The JUPITER study was stopped early by the Data Safety Monitoring Board due to meeting predefined stopping rules for efficacy in rosuvastatin -treated subjects.
 
 The primary end point was a composite end point consisting of the time-to-first occurrence of any of the following major CV events: CV death, nonfatal myocardial infarction, nonfatal stroke, hospitalization for unstable angina or an arterial revascularization procedure.
@@ -29,13 +29,13 @@ Major CV Events by Treatment Group in JUPITER
 
 At one year, rosuvastatin increased HDL-C and reduced LDL-C, hsCRP, total cholesterol and serum triglyceride levels (p<0.001 for all versus placebo).
 
-Primary Hyperlipidemia in Adults
+Primary Hypercholesterolemia in Adults
 
-Rosuvastatin reduces Total-C, LDL-C, ApoB, non-HDL-C, and TG, and increases HDL-C, in adult patients with hyperlipidemia and mixed dyslipidemia.
+Rosuvastatin reduces Total-C, LDL-C, ApoB, non-HDL-C, and TG, and increases HDL-C, in adult patients with hypercholesterolemia and mixed dyslipidemia.
 
-In a multicenter, double-blind, placebo-controlled study in patients with hyperlipidemia, rosuvastatin given as a single daily dose (5 to 40 mg) for 6 weeks significantly reduced Total-C, LDL-C, non-HDL-C, and ApoB, across the dose range (Table 10).
+In a multicenter, double-blind, placebo-controlled study in patients with hypercholesterolemia, rosuvastatin given as a single daily dose (5 to 40 mg) for 6 weeks significantly reduced Total-C, LDL-C, non-HDL-C, and ApoB, across the dose range (Table 10).
 
-Table 10: Lipid-Modifying Effect of Rosuvastatin in Adult Patients with Hyperlipidemia (Adjusted Mean % Change from Baseline at Week 6)
+Table 10: Lipid-Modifying Effect of Rosuvastatin in Adult Patients with Hypercholesterolemia (Adjusted Mean % Change from Baseline at Week 6)
 
 | Dose | N | Total-C | LDL-C | Non-HDL-C | ApoB | TG | HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -45,16 +45,16 @@ Table 10: Lipid-Modifying Effect of Rosuvastatin in Adult Patients with Hyperlip
 | Rosuvastatin 20 mg | 17 | -40 | -55 | -51 | -46 | -23 | 8 |
 | Rosuvastatin 40 mg | 18 | -46 | -63 | -60 | -54 | -28 | 10 |
 
-Rosuvastatin was compared with the statins (atorvastatin, simvastatin, and pravastatin) in a multicenter, open-label, dose-ranging study of 2,240 patients with hyperlipidemia or mixed dyslipidemia.
+Rosuvastatin was compared with the statins (atorvastatin, simvastatin, and pravastatin) in a multicenter, open-label, dose-ranging study of 2,240 patients with hypercholesterolemia or mixed dyslipidemia.
 After randomization, patients were treated for 6 weeks with a single daily dose of either rosuvastatin, atorvastatin, simvastatin, or pravastatin (see Figure 3 and Table 11).
 
 Figure 3.
-Percent LDL-C Change by Dose of Rosuvastatin, Atorvastatin, Simvastatin, and Pravastatin at Week 6 in Adult Patients with Hyperlipidemia or Mixed Dyslipidemia
+Percent LDL-C Change by Dose of Rosuvastatin, Atorvastatin, Simvastatin, and Pravastatin at Week 6 in Adult Patients with Hypercholesterolemia or Mixed Dyslipidemia
 
 Box plots are a representation of the 25th, 50th, and 75th percentile values, with whiskers representing the 10th and 90th percentile values.
 Mean baseline LDL-C: 189 mg/dL
 
-Table 11: Percent Change in LDL-C by Dose of Rosuvastatin, Atorvastatin, Simvastatin, and Pravastatin From Baseline to Week 6 (LS Mean1) in Adult Patients with Hyperlipidemia or Mixed Dyslipidemia (Sample Sizes Ranging from 156–167 Patients Per Group)
+Table 11: Percent Change in LDL-C by Dose of Rosuvastatin, Atorvastatin, Simvastatin, and Pravastatin From Baseline to Week 6 (LS Mean1) in Adult Patients with Hypercholesterolemia or Mixed Dyslipidemia (Sample Sizes Ranging from 156–167 Patients Per Group)
 
 |  | Treatment Daily Dose |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -64,9 +64,7 @@ Table 11: Percent Change in LDL-C by Dose of Rosuvastatin, Atorvastatin, Simvast
 | Simvastatin | -28 | -35 | -39 | -46 |
 | Pravastatin | -20 | -24 | -30 | --‑ |
 
-- 1 Corresponding standard errors are approximately 1
-- 2 Rosuvastatin 10 mg reduced LDL-C significantly more than atorvastatin 10 mg; pravastatin 10 mg, 20 mg, and 40 mg; simvastatin 10 mg, 20 mg, and 40 mg.
-  (p<0.002)
+1. 1Corresponding standard errors are approximately 1
 
 Slowing of the Progression of Atherosclerosis
 
@@ -88,7 +86,7 @@ Significant LDL-C reductions from baseline were seen at each dose in both treatm
 
 Table 12: LDL-C Percent Change from Baseline
 
-|  |  | Rosuvastatin (n=435) LS Mean1(95% CI) | Atorvastatin (n=187) LS Mean1(95% CI) |
+|  |  | Rosuvastatin (n=435) LS Mean1 (95% CI) | Atorvastatin (n=187) LS Mean1 (95% CI) |
 | --- | --- | --- | --- |
 | Week 6 | 20 mg | -47% (-49%, -46%) | -38% (-40%, -36%) |
 | Week 12 | 40 mg | -55% (-57%, -54%) | -47% (-49%, -45%) |
@@ -132,7 +130,7 @@ The reductions in LDL-C from baseline were generally consistent across age group
 
 HoFH in Adult and Pediatric Patients
 
-In an open-label, forced-titration study, HoFH patients (n=40, 8-63 years) were evaluated for their response to rosuvastatin 20 to 40 mg titrated at a 6-week interval.
+In an open-label, forced-titration study, HoFH patients (n=40, 8 to 63 years) were evaluated for their response to rosuvastatin 20 to 40 mg titrated at a 6-week interval.
 In the overall population, the mean LDL-C reduction from baseline was 22%.
 About one-third of the patients benefited from increasing their dose from 20 mg to 40 mg with further LDL-C lowering of greater than 6%.
 In the 27 patients with at least a 15% reduction in LDL-C, the mean LDL-C reduction was 30% (median 28% reduction).

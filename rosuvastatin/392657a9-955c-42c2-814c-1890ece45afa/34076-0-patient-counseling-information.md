@@ -36,7 +36,7 @@ Missed Doses
 If a dose is missed, advise patients not take an extra dose.
 Just resume the usual schedule [see Dosage and Administration (2.1)].
 
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
@@ -47,4 +47,4 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-August 2025
+May 2026

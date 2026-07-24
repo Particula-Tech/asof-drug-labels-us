@@ -8,53 +8,61 @@ Table 5 includes a list of drugs that increase the risk of myopathy and rhabdomy
 
 Table 5: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with rosuvastatin
 
-| Cyclosporine |  |  |
+| Sofosbuvir/velpatasvir/voxilaprevir or Ledipasvir/sofosbuvir |  |  |
 | --- | --- | --- |
-| Clinical Impact: | Cyclosporine increased rosuvastatin exposure 7-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use of cyclosporine or gemfibrozil with rosuvastatin. |  |
-| Intervention: | If used concomitantly, do not exceed a dose of rosuvastatin 5 mg once daily. |  |
-| Teriflunomide |  |  |
-| Clinical Impact: | Teriflunomide increased rosuvastatin exposure more than 2.5-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
-| Intervention: | In patients taking teriflunomide, do not exceed a dose of rosuvastatin 10 mg once daily. |  |
-| Enasidenib |  |  |
-| Clinical Impact: | Enasidenib increased rosuvastatin exposure more than 2.4-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
-| Intervention: | In patients taking enasidenib, do not exceed a dose of rosuvastatin 10 mg once daily. |  |
-| Capmatinib |  |  |
-| Clinical Impact: | Capmatinib increased rosuvastatin exposure more than 2.1-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
-| Intervention: | In patients taking capmatinib, do not exceed a dose of rosuvastatin 10 mg once daily. |  |
-| Fostamatinib |  |  |
-| Clinical Impact: | Fostamatinib increased rosuvastatin exposure more than 2.0-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
-| Intervention: | In patients taking fostamatinib, do not exceed a dose of rosuvastatin 20 mg once daily. |  |
-| Febuxostat |  |  |
-| Clinical Impact: | Febuxostat increased rosuvastatin exposure more than 1.9-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
-| Intervention: | In patients taking febuxostat, do not exceed a dose of rosuvastatin 20 mg once daily. |  |
+| Prevention or | Avoid concomitant use with rosuvastatin. |  |
+| Mechanism and | Rosuvastatin plasma levels were significantly increased with concomitant administration of many anti-viral drugs, which increases the risk of myopathy and rhabdomyolysis. |  |
 | Gemfibrozil |  |  |
-| Clinical Impact: | Gemfibrozil significantly increased rosuvastatin exposure and gemfibrozil may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use of gemfibrozil with rosuvastatin. |  |
-| Intervention: | Avoid concomitant use of gemfibrozil with rosuvastatin. If used concomitantly, initiate rosuvastatin at 5 mg once daily and do not exceed a dose of rosuvastatin 10 mg once daily. |  |
+| Prevention or Management: | Avoid concomitant use of gemfibrozil with rosuvastatin. If use is unavoidable, initiate rosuvastatin at 5 mg once daily and do not exceed a dosage of rosuvastatin 10 mg once daily. |  |
+| Mechanism and | Gemfibrozil significantly increased rosuvastatin exposure and gemfibrozil may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
 | Tafamidis |  |  |
-| Clinical Impact: | Tafamidis significantly increased rosuvastatin exposure and tafamidis may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use of tafamidis with rosuvastatin. |  |
-| Intervention: | Avoid concomitant use of tafamidis with rosuvastatin. If used concomitantly, initiate rosuvastatin at 5 mg once daily and do not exceed a dose of rosuvastatin 20 mg once daily. Monitor for signs of myopathy and rhabdomyolysis if used concomitantly with rosuvastatin. |  |
-| Anti-Viral Medications |  |  |
-| Clinical Impact: | Rosuvastatin plasma levels were significantly increased with concomitant administration of many anti-viral drugs, which increases the risk of myopathy and rhabdomyolysis. |  |
-| Intervention: | •Sofosbuvir/velpatasvir/voxilaprevir•Ledipasvir/sofosbuvir | Avoid concomitant use with rosuvastatin. |
-|  | •Simeprevir•Dasabuvir/ombitasvir/paritaprevir/ritonavir•Elbasvir/grazoprevir•Sofosbuvir/velpatasvir•Glecaprevir/pibrentasvir•Atazanavir/ritonavir•Lopinavir/ritonavir | Initiate with rosuvastatin 5 mg once daily, and do not exceed a dose of rosuvastatin 10 mg once daily. |
+| Prevention or | Avoid concomitant use of tafamidis with rosuvastatin. If use is unavoidable, initiate rosuvastatin at 5 mg once daily and do not exceed a dosage of rosuvastatin 20 mg once daily. Monitor for signs of myopathy and rhabdomyolysis if used concomitantly with rosuvastatin. |  |
+| Mechanism and | Tafamidis significantly increased rosuvastatin exposure and tafamidis may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
+| Belumosudil |  |  |
+| Prevention or | In patients taking belumosudil, do not exceed a dosage of rosuvastatin 5 mg once daily. |  |
+| Mechanism and | Belumosudil increased rosuvastatin exposure more than 4.6-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
+| Cyclosporine |  |  |
+| Prevention or | In patients taking cyclosporine, do not exceed a dosage of rosuvastatin 5 mg once daily. |  |
+| Mechanism and | Cyclosporine increased rosuvastatin exposure 7-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
 | Darolutamide |  |  |
-| Clinical Impact: | Darolutamide increased rosuvastatin exposure more than 5-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
-| Intervention: | In patients taking darolutamide, do not exceed a dose of rosuvastatin 5 mg once daily. |  |
+| Prevention or | In patients taking darolutamide, do not exceed a dosage of rosuvastatin 5 mg once daily. |  |
+| Mechanism and | Darolutamide increased rosuvastatin exposure more than 5-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
+| Additional Anti-Viral Medications |  |  |
+| Prevention or | •Simeprevir•Dasabuvir/ombitasvir/paritaprevir/ritonavir•Elbasvir/grazoprevir•Sofosbuvir/velpatasvir•Glecaprevir/pibrentasvir•Atazanavir/ritonavir•Lopinavir/ritonavir | Initiate with rosuvastatin 5 mg once daily, and do not exceed a dosage of rosuvastatin 10 mg once daily. |
+| Mechanism and | Rosuvastatin plasma levels were significantly increased with concomitant administration of many anti-viral drugs, which increases the risk of myopathy and rhabdomyolysis. |  |
+| Capmatinib |  |  |
+| Prevention or | In patients taking capmatinib, do not exceed a dosage of rosuvastatin 10 mg once daily. |  |
+| Mechanism and | Capmatinib increased rosuvastatin exposure more than 2.1-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
+| Enasidenib |  |  |
+| Prevention or | In patients taking enasidenib, do not exceed a dosage of rosuvastatin 10 mg once daily. |  |
+| Mechanism and | Enasidenib increased rosuvastatin exposure more than 3.4-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
+| Momelotinib |  |  |
+| Prevention or | In patients taking momelotinib, do not exceed a dosage of rosuvastatin 10 mg once daily. |  |
+| Mechanism and | Momelotinib increased rosuvastatin exposure by 2.7-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
 | Regorafenib |  |  |
-| Clinical Impact: | Regorafenib increased rosuvastatin exposure and may increase the risk of myopathy. |  |
-| Intervention: | In patients taking regorafenib, do not exceed a dose of rosuvastatin 10 mg once daily. |  |
-| Fenofibrates (e.g., fenofibrate and fenofibric acid) s |  |  |
-| Clinical Impact: | Fibrates may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use of fibrates with rosuvastatin. |  |
-| Intervention: | Consider if the benefit of using fibrates concomitantly with rosuvastatin outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. |  |
-| Niacin |  |  |
-| Clinical Impact: | Cases of myopathy and rhabdomyolysis have occurred with concomitant use of lipid-modifying doses (≥1 g/day) of niacin with rosuvastatin. |  |
-| Intervention: | Consider if the benefit of using lipid-modifying doses (≥1 g/day) of niacin concomitantly with rosuvastatin outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. |  |
-| Colchicine |  |  |
-| Clinical Impact: | Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with rosuvastatin. |  |
-| Intervention: | Consider if the benefit of using colchicine concomitantly with rosuvastatin outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. |  |
+| Prevention or | In patients taking regorafenib, do not exceed a dosage of rosuvastatin 10 mg once daily. |  |
+| Mechanism and | Regorafenib increased rosuvastatin exposure and may increase the risk of myopathy and rhabdomyolysis. |  |
+| Teriflunomide |  |  |
+| Prevention or | In patients taking teriflunomide, do not exceed a dosage of rosuvastatin 10 mg once daily. |  |
+| Mechanism and | Teriflunomide increased rosuvastatin exposure more than 2.5-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
 | Ticagrelor |  |  |
-| Clinical Impact: | Concomitant use of rosuvastatin and ticagrelor has been shown to increase rosuvastatin concentrations, which may result in increased risk of myopathy. Cases of myopathy and rhabdomyolysis have been reported in patients using both products concomitantly. Cases have occurred more frequently in patients taking 40 mg of rosuvastatin. |  |
-| Intervention: | In patients taking concomitant ticagrelor, especially those with additional risk factors for myopathy and rhabdomyolysis, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of rosuvastatin. |  |
+| Prevention or | In patients taking ticagrelor, do not exceed a dosage of rosuvastatin 20 mg once daily. In patients at increased risk for rhabdomyolysis [seeWarnings and Precautions (5.1)], consider dosages less than 20 mg per day. |  |
+| Mechanism and | Ticagrelor increased rosuvastatin exposure by 2.3-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
+| Febuxostat |  |  |
+| Prevention or | In patients taking febuxostat, do not exceed a dosage of rosuvastatin 20 mg once daily. |  |
+| Mechanism and | Febuxostat increased rosuvastatin exposure more than 1.9-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
+| Fostamatinib |  |  |
+| Prevention or | In patients taking fostamatinib, do not exceed a dosage of rosuvastatin 20 mg once daily. |  |
+| Mechanism and | Fostamatinib increased rosuvastatin exposure more than 2.0-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
+| Fenofibrates (e.g., fenofibrate and fenofibric acid) |  |  |
+| Prevention or | Consider if the benefit of using fibrates concomitantly with rosuvastatin outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. |  |
+| Mechanism and Clinical Effect(s): | Fibrates may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
+| Colchicine |  |  |
+| Prevention or | Consider if the benefit of using colchicine concomitantly with rosuvastatin outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. |  |
+| Mechanism and | Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with rosuvastatin. |  |
+| Niacin |  |  |
+| Prevention or | Consider if the benefit of using lipid-modifying doses (≥1 g/day) of niacin concomitantly with rosuvastatin outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. |  |
+| Mechanism and | Cases of myopathy and rhabdomyolysis have occurred with concomitant use of lipid-modifying dosage (≥1 g/day) of niacin with rosuvastatin. |  |
 
 ## 7.2 Drug Interactions that Decrease the Efficacy of Rosuvastatin
 
@@ -64,8 +72,8 @@ Table 6: Drug Interactions that Decrease the Efficacy of Rosuvastatin
 
 | Antacids |  |
 | --- | --- |
-| Clinical Impact: | Concomitant aluminum and magnesium hydroxide combination antacid administration decreased the mean exposure of rosuvastatin 50% [see Clinical Pharmacology (12.3)]. |
-| Intervention: | In patients taking antacid, administer rosuvastatin at least 2 hours before the antacid. |
+| Prevention orManagement: | In patients taking antacid, administer rosuvastatin at least 2 hours before the antacid. |
+| Mechanism andClinical Effect(s): | Concomitant aluminum and magnesium hydroxide combination antacid administration decreased the mean exposure of rosuvastatin 50% [see Clinical Pharmacology (12.3)]. |
 
 ## 7.3 Rosuvastatin Effects on Other Drugs
 
@@ -75,5 +83,5 @@ Table 7: Rosuvastatin Effects on Other Drugs
 
 | Warfarin |  |
 | --- | --- |
-| Clinical Impact: | Rosuvastatin significantly increased the INR in patients receiving warfarin [see Clinical Pharmacology (12.3)]. |
-| Intervention: | In patients taking warfarin, obtain an INR before starting rosuvastatin and frequently enough after initiation, dose titration or discontinuation to ensure that no significant alteration in INR occurs. Once the INR is stable, monitor INR at regularly recommended intervals. |
+| Prevention or Management: | In patients taking warfarin, obtain an INR before starting rosuvastatin and frequently enough after initiation, dosage titration or discontinuation to ensure that no significant alteration in INR occurs. Once the INR is stable, monitor INR at regularly recommended intervals. |
+| Mechanism and Clinical Effect(s): | Rosuvastatin significantly increased the INR in patients receiving warfarin [see Clinical Pharmacology (12.3)]. |

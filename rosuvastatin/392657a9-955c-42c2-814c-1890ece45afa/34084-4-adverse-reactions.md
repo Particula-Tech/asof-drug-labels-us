@@ -30,7 +30,7 @@ Table 2: Adverse Reactions Reported in ≥2% of Patients Treated with Rosuvastat
 | Constipation | 2.4 | 2.1 | 2.1 | 4.7 | 2.8 | 2.4 |
 
 Other adverse reactions reported in clinical studies were abdominal pain, dizziness, hypersensitivity (including rash, pruritus, urticaria, and angioedema) and pancreatitis.
-The following laboratory abnormalities have also been reported: dipstick-positive proteinuria and microscopic hematuria;elevated creatine phosphokinase, transaminases, glucose, glutamyl transpeptidase, alkaline phosphatase, and bilirubin; and thyroid function abnormalities.
+The following laboratory abnormalities have also been reported: dipstick-positive proteinuria and microscopic hematuria; elevated creatine phosphokinase, transaminases, glucose, glutamyl transpeptidase, alkaline phosphatase, and bilirubin; and thyroid function abnormalities.
 
 In the METEOR study, patients were treated with rosuvastatin 40 mg (n=700) or placebo (n=281) with a mean treatment duration of 1.7 years.
 Adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 3.
