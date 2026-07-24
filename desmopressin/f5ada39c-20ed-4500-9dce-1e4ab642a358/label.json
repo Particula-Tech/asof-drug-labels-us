@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020355"
+  ],
+  "inn": "desmopressin",
+  "labeler": "Ferring Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "55566-3000-0"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "desmopressin acetate",
+      "name": "Stimate"
+    }
+  ],
+  "setid": "f5ada39c-20ed-4500-9dce-1e4ab642a358",
+  "source": "dailymed"
+}
