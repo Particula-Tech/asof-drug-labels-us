@@ -5,6 +5,7 @@ In both studies, patients were enrolled with a Clinical Dementia Rating (CDR) gl
 All patients had a Mini-Mental State Examination (MMSE) score of ≥22 and ≤30, and had objective impairment in episodic memory as indicated by at least 1 standard deviation below age-adjusted mean in the Wechsler-Memory Scale-IV Logical Memory II (subscale) (WMS-IV LMII).
 Patients were enrolled with or without concomitant approved therapies (cholinesterase inhibitors and the N-methyl-D-aspartate antagonist memantine) for Alzheimer’s disease.
 The dosage of 10 mg/kg administered once every 2 weeks by intravenous infusion was assessed in the 18-month placebo-controlled portions of Study 1 and Study 2 and continued in the optional long-term extension in each study.
+The effectiveness of subcutaneous LEQEMBI is based on the established effectiveness of intravenous LEQEMBI supported by comparable pharmacokinetic exposures and reductions of amyloid beta plaque level.
 Transitioning to intravenous 10 mg/kg once every 4 weeks or subcutaneous 360 mg every week after 18 months of dosing is supported by pharmacokinetic and pharmacodynamic modeling using observed data [see Clinical Pharmacology (12.2)]; however, there are limited data to assess the long-term clinical benefit of transitioning to the dosing regimen of intravenous 10 mg/kg once every 4 weeks or subcutaneous 360 mg every week [see Dosage and Administration (2.2)].
 
 Study 1
@@ -18,12 +19,12 @@ At baseline, the mean age of randomized patients was 71 years, with a range of 5
 Fifty percent of patients were male and 90% were White.
 
 In Study 1, a subgroup of 315 patients were enrolled in the amyloid PET substudy; of these, 277 were evaluated at Week 79.
-Results from the amyloid beta PET substudy are described in Figure 1 and Table 9.
-Plasma biomarkers are described in Table 7.
+Results from the amyloid beta PET substudy are described in Figure 1 and Table 10.
+Plasma biomarkers are described in Table 8.
 
 Figure 1: Reduction in Brain Amyloid Beta Plaque (Adjusted Mean Change from Baseline in Amyloid Beta PET Composite, SUVR and Centiloids) in Study 1
 
-Table 9: Results for Amyloid Beta PET in Study 1
+Table 10: Results for Amyloid Beta PET in Study 1
 
 | Biomarker Endpoints | LEQEMBI 10 mg/kg Every Two Weeks | Placebo |
 | --- | --- | --- |
@@ -57,7 +58,7 @@ Key secondary endpoints included change from baseline at 18 months for the follo
 
 LEQEMBI treatment met the primary endpoint and reduced clinical decline on the global cognitive and functional scale, CDR-SB, compared to placebo at 18 months (-0.45 [-27%], P<0.0001).
 
-Statistically significant differences (P<0.01) between treatment groups were also seen in the results for ADAS-Cog14 and ADCS MCI-ADL at 18 months, as presented in Table 10.
+Statistically significant differences (P<0.01) between treatment groups were also seen in the results for ADAS-Cog14 and ADCS MCI-ADL at 18 months, as presented in Table 11.
 
 Both ApoE ε4 carriers and ApoE ε4 noncarriers showed statistically significant treatment differences for the primary endpoint and all secondary endpoints.
 In an exploratory subgroup analysis of ApoE ε4 homozygotes, which represented 15% of the trial population, a treatment effect was not observed with LEQEMBI treatment on the primary endpoint, CDR-SB, compared to placebo, although treatment effects that favored LEQEMBI were observed for the secondary clinical endpoints, ADAS-Cog14 and ADCS MCI-ADL.
@@ -65,7 +66,7 @@ Treatment effects on disease-relevant biomarkers (amyloid beta PET, plasma Aβ42
 
 Starting at six months, across all time points, LEQEMBI treatment showed statistically significant changes in the primary and all key secondary endpoints from baseline compared to placebo; see Figure 2.
 
-Table 10: Results for CDR-SB, ADAS-Cog14, and ADCS MCI-ADL in Study 2
+Table 11: Results for CDR-SB, ADAS-Cog14, and ADCS MCI-ADL in Study 2
 
 | Clinical Endpoints | LEQEMBI 10 mg/kg Every Two Weeks | Placebo |
 | --- | --- | --- |

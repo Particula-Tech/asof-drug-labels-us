@@ -23,9 +23,9 @@ In the double-blind, placebo-controlled period in Study 1, patients stopped stud
 In Study 1, the most common adverse reaction leading to discontinuation of LEQEMBI was infusion-related reactions that led to discontinuation in 2% (4/161) of patients treated with LEQEMBI, compared to 1% (2/245) of patients on placebo.
 In Study 2, the most common adverse reaction leading to discontinuation of LEQEMBI was ARIA-H microhemorrhages that led to discontinuation in 2% (15/898) of patients treated with LEQEMBI, compared to <1% (1/897) of patients on placebo.
 
-Table 5 shows adverse reactions that were reported in at least 5% of patients treated with LEQEMBI and at least 2% more frequently than in patients on placebo in Study 1.
+Table 6 shows adverse reactions that were reported in at least 5% of patients treated with LEQEMBI and at least 2% more frequently than in patients on placebo in Study 1.
 
-Table 5: Adverse Reactions Reported in at Least 5% of Patients Treated with LEQEMBI 10 mg/kg Every Two Weeks and at least 2% Higher than Placebo in Study 1
+Table 6: Adverse Reactions Reported in at Least 5% of Patients Treated with LEQEMBI 10 mg/kg Every Two Weeks and at least 2% Higher than Placebo in Study 1
 
 | Adverse Reaction | LEQEMBI 10 mg/kg Every Two Weeks N=161 % | Placebo N=245 % |
 | --- | --- | --- |
@@ -35,9 +35,9 @@ Table 5: Adverse Reactions Reported in at Least 5% of Patients Treated with LEQE
 | Cough | 9 | 5 |
 | Diarrhea | 8 | 5 |
 
-Table 6 shows adverse reactions that were reported in at least 5% of patients treated with LEQEMBI and at least 2% more frequently than in patients on placebo in Study 2.
+Table 7 shows adverse reactions that were reported in at least 5% of patients treated with LEQEMBI and at least 2% more frequently than in patients on placebo in Study 2.
 
-Table 6: Adverse Reactions Reported in at Least 5% of Patients Treated with LEQEMBI 10 mg/kg Every Two Weeks and at least 2% Higher than Placebo in Study 2
+Table 7: Adverse Reactions Reported in at Least 5% of Patients Treated with LEQEMBI 10 mg/kg Every Two Weeks and at least 2% Higher than Placebo in Study 2
 
 | Adverse Reaction | LEQEMBI 10 mg/kg Every Two Weeks N=898 % | Placebo N=897 % |
 | --- | --- | --- |
@@ -48,7 +48,8 @@ Table 6: Adverse Reactions Reported in at Least 5% of Patients Treated with LEQE
 | Superficial siderosis of central nervous system | 6 | 3 |
 | Rash1 | 6 | 4 |
 | Nausea/Vomiting | 6 | 4 |
-| 1 Rash includes acne, erythema, infusion site rash, injection site rash, rash, rash erythematous, rash pruritic, skin reactions, and urticaria. |  |  |
+
+1 Rash includes acne, erythema, infusion site rash, injection site rash, rash, rash erythematous, rash pruritic, skin reactions, and urticaria.
 
 Less Common Adverse Reactions
 
@@ -57,9 +58,12 @@ In Study 1, lymphopenia or decreased lymphocyte count was reported in 4% of pati
 
 Clinical Trials with Subcutaneous Administration
 
-The safety of LEQEMBI IQLIK for maintenance treatment was evaluated in an open-label study, which included 49 patients who received LEQEMBI IQLIK 360 mg by subcutaneous administration once every week.
-The overall safety profile in these patients was similar to what was observed in patients who received LEQEMBI by intravenous infusion in Study 1 and Study 2.
-Patients who received LEQEMBI IQLIK experienced localized and systemic injection-related reactions.
-Localized injection-related reactions included erythema, induration, swelling, heat, pain, pruritis, rash, ecchymosis, and hematoma.
-Systemic injection-related reactions were observed less frequently, with symptoms of headache, fever, and fatigue.
-Injection-related reactions in patients receiving LEQEMBI IQLIK were mild or moderate in severity.
+The safety of LEQEMBI for subcutaneous administration once every week was evaluated in open-label studies in 424 patients.
+This included 72 lecanemab-naïve patients [see Clinical Pharmacology (12.2)], and 49 patients who received subcutaneous LEQEMBI 360 mg, and 273 patients who received subcutaneous LEQEMBI 500 mg for treatment continuation.
+The overall safety profile in these patients was similar to that observed in patients who received LEQEMBI by intravenous infusion in Study 1 and Study 2.
+Injection-related reactions were observed in patients who received LEQEMBI subcutaneously, most of which were localized reactions; systemic reactions were less frequently observed.
+The majority of injection-related reactions occurred at the time of the first dose when initiating therapy.
+Recurrent localized injection-related reactions and/or delayed reactions occurring up to several days after an injection, were also observed.
+Localized injection-related reactions included erythema, induration, swelling, heat, pain, pruritus, rash, ecchymosis, nodule, and hematoma.
+Systemic injection-related reactions presented with symptoms of headache, chills, fever, and fatigue.
+Severe localized injection-related reactions and localized injection-related reactions leading to discontinuation or interruption of subcutaneous LEQEMBI did occur.

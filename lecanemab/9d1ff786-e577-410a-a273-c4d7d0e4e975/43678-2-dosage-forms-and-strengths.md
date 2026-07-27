@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Lecanemab-irmb is a clear to opalescent and colorless to pale yellow solution, available as:
+Lecanemab-irmb is a clear to very opalescent, colorless to pale yellow solution, available as:
 
 Intravenous Infusion
 
@@ -9,4 +9,5 @@ Intravenous Infusion
 
 Subcutaneous Injection
 
-- Injection: 360 mg/1.8 mL (200 mg/mL) in a single-dose prefilled autoinjector
+- Injection: 250 mg/1.25 mL (200 mg/mL) in a single-dose prefilled LEQEMBI IQLIK® autoinjector
+- Injection: 360 mg/1.8 mL (200 mg/mL) in a single-dose prefilled LEQEMBI IQLIK® autoinjector

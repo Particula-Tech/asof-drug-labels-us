@@ -76,9 +76,9 @@ Caution should be exercised when considering the use of LEQEMBI in patients with
 
 Radiographic Severity
 
-The radiographic severity of ARIA associated with LEQEMBI was classified by the criteria shown in Table 4.
+The radiographic severity of ARIA associated with LEQEMBI was classified by the criteria shown in Table 5.
 
-Table 4: ARIA MRI Classification Criteria
+Table 5: ARIA MRI Classification Criteria
 
 | ARIA Type | Radiographic Severity |  |  |
 | --- | --- | --- | --- |
@@ -117,7 +117,7 @@ Providers and patients can contact Eisai at 888-274-2378 for a list of currently
 
 Hypersensitivity reactions, including angioedema, bronchospasm, and anaphylaxis, have occurred in patients who were treated with LEQEMBI.
 If LEQEMBI is being administered intravenously, promptly discontinue the infusion upon the first observation of any signs or symptoms consistent with a hypersensitivity reaction, and initiate appropriate therapy.
-LEQEMBI is contraindicated in patients with a history of serious hypersensitivity to lecanemab-irmb or to any of the excipients of LEQEMBI or LEQEMBI IQLIK.
+LEQEMBI is contraindicated in patients with a history of serious hypersensitivity to lecanemab-irmb or to any of the excipients.
 
 ## 5.3 Infusion-Related Reactions
 

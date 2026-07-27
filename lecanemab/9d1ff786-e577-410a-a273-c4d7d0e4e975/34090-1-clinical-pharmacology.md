@@ -24,18 +24,20 @@ In Study 2, treatment with LEQEMBI 10 mg/kg every two weeks reduced amyloid beta
 After Week 79 of treatment with LEQEMBI 10 mg/kg every two weeks, 67% of patients had amyloid levels less than 30 Centiloids as measured by PET.
 Reduction of amyloid to levels less than 30 Centiloids was inversely related to amyloid PET levels at baseline.
 The percentage of patients achieving amyloid levels less than 30 Centiloids after continuous treatment with LEQEMBI 10 mg/kg every two weeks is predicted to increase over time.
-It is predicted that, after Week 79 of treatment with LEQEMBI intravenous infusion of 10 mg/kg every 2 weeks, transitioning to a dosing regimen of either LEQEMBI intravenous infusion of 10 mg/kg every 4 weeks or a LEQEMBI IQLIK subcutaneous injection of 360 mg once a week will also continue the reduction in amyloid beta plaque levels.
+Based on exposure-response modeling, initiation of therapy with either lecanemab-irmb by intravenous administration (10 mg/kg every two weeks) or subcutaneous administration (500 mg once weekly) is predicted to have similar reduction of amyloid beta plaque levels.
+It is predicted that, after Week 79 of treatment with LEQEMBI intravenous infusion of 10 mg/kg every 2 weeks, transitioning to a dosing regimen of either LEQEMBI intravenous infusion of 10 mg/kg every 4 weeks or LEQEMBI subcutaneous injection of 360 mg once a week will also continue the reduction in amyloid beta plaque levels.
 Based on exposure-response modeling, the intravenous (10 mg/kg every 4 weeks) and subcutaneous (360 mg once weekly) maintenance dosing regimens of lecanemab-irmb are predicted to have similar reduction of amyloid beta plaque levels.
 
-An increase in plasma Aβ42/40 ratio (Table 6) and CSF Aβ[1-42] was observed with LEQEMBI 10 mg/kg every two weeks dosing compared to placebo.
-Exposure-response modeling predicts that, after Week 79 of treatment with LEQEMBI intravenous infusion of 10 mg/kg every 2 weeks, transitioning to a dosing regimen of either LEQEMBI intravenous infusion of 10 mg/kg every 4 weeks or a LEQEMBI IQLIK subcutaneous injection of 360 mg once a week will maintain increases in the plasma Aβ42/40 ratio.
+An increase in plasma Aβ42/40 ratio (Table 8) and CSF Aβ[1-42] was observed with LEQEMBI 10 mg/kg every two weeks dosing compared to placebo.
+Exposure-response modeling predicts that, after Week 79 of treatment with LEQEMBI intravenous infusion of 10 mg/kg every 2 weeks, transitioning to a dosing regimen of either LEQEMBI intravenous infusion of 10 mg/kg every 4 weeks or LEQEMBI subcutaneous injection of 360 mg once a week will maintain increases in the plasma Aβ42/40 ratio.
 
 Effect of LEQEMBI on Tau Pathophysiology
 
-A reduction in plasma p-tau181 (Table7), CSF p-tau181, and CSF t-tau was observed with LEQEMBI 10 mg/kg every two weeks compared to placebo.
-Exposure-response modeling predicts that, after Week 79 of treatment with LEQEMBI intravenous infusion of 10 mg/kg every two weeks, transitioning to a dosing regimen of LEQEMBI intravenous infusion of 10 mg/kg every 4 weeks or a LEQEMBI IQLIK subcutaneous injection of 360 mg once a week will maintain the reduction in plasma p-tau181.
+A reduction in plasma p-tau181 (Table 8), CSF p-tau181, and CSF t-tau was observed with LEQEMBI 10 mg/kg every two weeks compared to placebo.
+Based on exposure-response modeling, initiation of therapy with either lecanemab-irmb by intravenous administration (10 mg/kg every two weeks) or subcutaneous administration (500 mg once weekly) is predicted to have similar decrease in plasma p-tau181.
+Exposure-response modeling predicts that, after Week 79 of treatment with LEQEMBI intravenous infusion of 10 mg/kg every two weeks, transitioning to a dosing regimen of LEQEMBI intravenous infusion of 10 mg/kg every 4 weeks or LEQEMBI subcutaneous injection of 360 mg once a week will maintain the reduction in plasma p-tau181.
 
-Table7: Effect of LEQEMBI on Plasma Aβ42/40 and Plasma p-tau181 in Study 1 and Study 2
+Table 8: Effect of LEQEMBI on Plasma Aβ42/40 and Plasma p-tau181 in Study 1 and Study 2
 
 | Biomarker Endpoints | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
@@ -57,32 +59,40 @@ No statistically significant differences were observed for the whole cortical gr
 
 Exposure-Response Relationships
 
+Efficacy
+
 Model-based exposure-response analyses demonstrated that higher exposures to lecanemab-irmb were associated with greater reduction in clinical decline on Clinical Dementia Rating scale Sum of Boxes (CDR-SB) and Alzheimer Disease Assessment Scale – Cognitive Subscale 14 (ADAS-Cog14).
 In addition, higher exposures to lecanemab-irmb were associated with greater reduction in amyloid beta plaque.
 An association between reduction in amyloid beta plaque and clinical decline on CDR-SB and ADAS-Cog14 was also observed.
 
 Higher exposures to lecanemab-irmb were also associated with greater increase in plasma Aβ42/40 ratio and greater reduction in plasma p-tau181.
 
+Safety
+
+The safety related to exposure-dependent adverse events for subcutaneous LEQEMBI 500 mg as a starting dose was extrapolated from the established safety of intravenous LEQEMBI based on comparable pharmacokinetic exposures, supported by additional safety data from 72 patients who received subcutaneous LEQEMBI as a starting dose.
+
 ## 12.3 Pharmacokinetics
 
 Steady-state concentrations of lecanemab-irmb were reached after 6 weeks of 10 mg/kg administered every 2 weeks and systemic accumulation was 1.4-fold.
 The peak concentration (Cmax) and area under the plasma concentration versus time curve (AUC) of lecanemab-irmb increased dose proportionally in the dose range of 0.3 to 15 mg/kg following single dose.
 
-The estimated mean steady-state concentrations of lecanemab-irmb following 10 mg/kg biweekly intravenous infusion, 10 mg/kg monthly intravenous infusion and 360 mg weekly subcutaneous administration by autoinjector are provided in Table 8.
-Using population pharmacokinetic modeling and simulation, the intravenous (10 mg/kg once every 4 weeks) and subcutaneous (360 mg once weekly) maintenance dosing regimens of lecanemab-irmb were predicted to have similar pharmacokinetic exposure.
+The estimated mean steady-state concentrations of lecanemab-irmb following 10 mg/kg biweekly intravenous infusion, 10 mg/kg monthly intravenous infusion, 500 mg weekly subcutaneous administration by autoinjector, and 360 mg weekly subcutaneous administration by autoinjector are provided in Table 9.
+Using population pharmacokinetic modeling and simulation, initiation of therapy with the intravenous dosing regimen (10 mg/kg once every 2 weeks) or subcutaneous dosing regimen (500 mg once weekly) as well as maintenance of therapy with intravenous dosing regimen (10 mg/kg once every 4 weeks) or subcutaneous dosing regimen (360 mg once weekly) were predicted to have similar pharmacokinetic exposures.
 
-Table 8: Estimated Systemic Exposure of Lecanemab-irmb at Steady State in Patients with Alzheimer’s Disease*
+Table 9: Estimated Systemic Exposure of Lecanemab-irmb at Steady State in Patients with Alzheimer’s Disease*
 
 |  | Cavg,ss (mcg/mL) Mean (CV%) |
 | --- | --- |
 | Intravenous infusion 10 mg/kg every two weeks | 156 (37.7) |
 | Intravenous infusion 10 mg/kg every four weeks | 78.1 (37.7) |
+| Subcutaneous injection 500 mg weekly | 164 (45.3) |
 | Subcutaneous injection 360 mg weekly | 83.1 (58.8) |
 | *Based on simulations in 1000 virtual patients |  |
 
 Absorption
 
-The bioavailability of lecanemab-irmb following subcutaneous administration of 360 mg by autoinjector relative to a 10 mg/kg intravenous infusion in patients was approximately 53% and was not affected by the injection site (abdomen, upper thigh, or back of the upper arm).
+The absolute bioavailability of lecanemab-irmb was approximately 77.5% and 53%, respectively, following subcutaneous administration of 500 mg and 360 mg by autoinjector.
+The bioavailability was not affected by the injection site (abdomen, upper thigh, or back of the upper arm).
 
 Distribution
 
@@ -117,7 +127,8 @@ Although there was no clear clinically meaningful impact of ADA (including neutr
 
 Subcutaneous Injection
 
-After 18 months of intravenous LEQEMBI 10 mg/kg once every 2 weeks, patients who received 360 mg subcutaneous LEQEMBI IQLIK once weekly in the open-label portion of Study 2 were assessed for immunogenicity using a different assay that was drug-tolerant for anti-lecanemab-irmb antibodies and neutralizing antibodies.
-The anti-lecanemab-irmb antibody incidence was 2.0% (1/49) following a median treatment duration of 83 days with 360 mg subcutaneous LEQEMBI IQLIK.
-Neutralizing anti-lecanemab-irmb antibodies were not detected in this patient.
-Because of the limited data regarding anti-lecanemab-irmb antibodies, there is insufficient information to characterize the effects of anti-lecanemab-irmb antibodies on the pharmacokinetics, pharmacodynamics, safety, or effectiveness of subcutaneous LEQEMBI IQLIK.
+After 18 months of intravenous LEQEMBI 10 mg/kg once every 2 weeks, patients who received 360 mg or 500 mg subcutaneous LEQEMBI (i.e., administered with LEQEMBI IQLIK) once weekly in the open-label portion of Study 2 were assessed for immunogenicity.
+The anti-lecanemab-irmb antibody incidence was 2.0% (1/49) or 1.4% (3/211) following a median treatment duration of 83 days or 85 days with 360 mg or 500 mg subcutaneous LEQEMBI, respectively.
+In a substudy with lecanemab-naïve patients, the anti-lecanemab-irmb antibody incidence was 3.2% (2/63) following a median treatment duration of 18 months with subcutaneous lecanemab at comparable pharmacokinetic exposures with LEQEMBI IQLIK.
+Neutralizing anti-lecanemab-irmb antibodies were not detected in any of the ADA-positive patients.
+Because of the limited data regarding anti-lecanemab-irmb antibodies, there is insufficient information to characterize the effects of anti-lecanemab-irmb antibodies on the pharmacokinetics, pharmacodynamics, safety, or effectiveness of subcutaneous LEQEMBI.

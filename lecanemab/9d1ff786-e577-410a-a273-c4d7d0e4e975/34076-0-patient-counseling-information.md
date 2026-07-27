@@ -39,11 +39,18 @@ Advise patients that symptoms can occur during infusion or after they leave the 
 
 Injection-Related Reactions
 
-For patients receiving LEQEMBI IQLIK via subcutaneous injection, advise them of the potential risks of injection reactions, which may present as erythema, induration, swelling, heat, rash, pain, itching, ecchymosis and hematoma at the injection site, but may also present with symptoms such as headache, fever and fatigue.
+For patients receiving LEQEMBI IQLIK subcutaneous injection, advise them of the potential risks of injection reactions, which may present as erythema, induration, swelling, heat, rash, pain, itching, ecchymosis and hematoma at the injection site, but may also present with symptoms such as headache, fever, chills and fatigue.
 Instruct patients to contact their healthcare provider if injection-related reactions occur [see Adverse Reactions (6.1)].
+
+Administration Instructions
+
+For patients receiving LEQEMBI via subcutaneous injection, advise patients and caregivers that initiation of therapy will be performed under the supervision of a healthcare provider.
+Educate patients and/or caregivers on recognizing symptoms and management of anaphylaxis.
+If determined by a healthcare provider that administration of LEQEMBI by the patient or caregiver is appropriate, instruct them on the proper dosing regimen and the proper method of subcutaneous administration with LEQEMBI IQLIK.
+Instruct patients and/or caregivers to read and follow the Instructions for Use each time they use LEQEMBI IQLIK on their own [see Dosage and Administration (2.6)].
 
 Manufactured by Eisai Inc. Nutley, NJ 07110 U.S. License No. 1862
 
-LEQEMBI® is a registered trademark of Eisai R&D Management Co., Ltd. LEQEMBI IQLIK™ is a trademark of Eisai R&D Management Co., Ltd.
+LEQEMBI® is a registered trademark of Eisai R&D Management Co., Ltd. LEQEMBI IQLIK® is a registered trademark of Eisai R&D Management Co., Ltd.
 
-© 2025 Eisai Inc. and Biogen
+© 2026 Eisai Inc. and Biogen
