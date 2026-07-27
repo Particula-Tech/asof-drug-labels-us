@@ -20,4 +20,4 @@ Sandoz Private Ltd., India for
 
 Sandoz Inc., Princeton, NJ 08540
 
-Revised: 12/2025
+Revised: April 2025
