@@ -32,7 +32,7 @@ There was no apparent accumulation in serum ustekinumab concentration over time 
 
 Following the recommended intravenous induction dose, mean ±SD peak serum ustekinumab concentration was 125.2 ± 33.6 mcg/mL in subjects with Crohn's disease, and 129.1 ± 27.6 mcg/mL in subjects with ulcerative colitis.
 Starting at Week 8, the recommended subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 weeks.
-Steady state ustekinumab concentration was achieved by the start of the second maintenance dose.
+Steady-state ustekinumab concentration was achieved by the start of the second maintenance dose.
 There was no apparent accumulation in ustekinumab concentration over time when given subcutaneously every 8 weeks.
 Mean ±SD steady-state trough concentration was 2.5 ± 2.1 mcg/mL in subjects with Crohn's disease, and 3.3 ± 2.3 mcg/mL in subjects with ulcerative colitis for 90 mg ustekinumab administered every 8 weeks.
 
@@ -84,3 +84,15 @@ No clinically significant changes in exposure of caffeine (CYP1A2 substrate), wa
 Population pharmacokinetic analyses indicated that the clearance of ustekinumab was not impacted by concomitant MTX, NSAIDs, and oral corticosteroids, or prior exposure to a TNF blocker in subjects with psoriatic arthritis.
 
 In subjects with Crohn's disease and ulcerative colitis, population pharmacokinetic analyses did not indicate changes in ustekinumab clearance with concomitant use of corticosteroids or immunomodulators (AZA, 6-MP, or MTX); and serum ustekinumab concentrations were not impacted by concomitant use of these medications.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of Ustekinumab or of other ustekinumab products.
+
+Approximately 6 to 12.4% of subjects treated with Ustekinumab in clinical trials in subjects with plaque psoriasis and psoriatic arthritis developed antibodies to ustekinumab, which were generally low-titer.
+In clinical trials in subjects with plaque psoriasis, antibodies to ustekinumab were associated with reduced or undetectable serum ustekinumab concentrations and reduced efficacy.
+In trials in subjects with plaque psoriasis, the majority of subjects who were positive for antibodies to ustekinumab had neutralizing antibodies.
+
+In clinical trials in subjects with Crohn's disease and ulcerative colitis, 2.9% and 4.6% of subjects, respectively, developed antibodies to ustekinumab when treated with Ustekinumab for approximately one year.
+No apparent association between the development of antibodies to ustekinumab and the development of injection site reactions was seen.

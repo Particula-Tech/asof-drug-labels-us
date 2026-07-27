@@ -83,8 +83,7 @@ The safety and effectiveness of Ustekinumab for the treatment of moderately to s
 Use of Ustekinumab for this indication is supported by evidence from adequate and well-controlled studies in adults with additional safety, efficacy, and pharmacokinetic data from a 52-week study in 101 pediatric subjects aged 2 to 17 years of age.
 The adverse reaction profile in these pediatric subjects was similar to adverse reactions reported in the clinical trials of adults with Crohn's disease.
 Other adverse reactions reported in at least 10% of pediatric subjects were upper respiratory tract infection (13% during induction and 17% during maintenance), COVID-19 (17% during maintenance), and headache (10% during maintenance).
-Serum concentrations in pediatric subjects with Crohn's disease, were generally comparable to those in the adult Crohn's disease population.
-[see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.4, 14.5)].
+Serum concentrations in pediatric subjects with Crohn's disease, were generally comparable to those in the adult Crohn's disease population [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.4, 14.5)].
 
 The safety and effectiveness of Ustekinumab for the treatment of moderately to severely active Crohn's disease have not been established in pediatric patients less than 2 years of age.
 

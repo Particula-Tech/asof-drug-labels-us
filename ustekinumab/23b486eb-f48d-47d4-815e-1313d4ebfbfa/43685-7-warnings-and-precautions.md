@@ -3,7 +3,7 @@
 ## 5.1 Infections
 
 Ustekinumab may increase the risk of infections and reactivation of latent infections.
-Serious bacterial, mycobacterial, fungal, and viral infections were observed in patients receiving Ustekinumab [see Adverse Reactions (6.1, 6.3)].
+Serious bacterial, mycobacterial, fungal, and viral infections were observed in patients receiving Ustekinumab [see Adverse Reactions (6.1, 6.2)].
 
 Serious infections requiring hospitalization, or otherwise clinically significant infections, reported in clinical trials included the following:
 
@@ -50,7 +50,7 @@ Closely follow patients greater than 60 years of age, those with a medical histo
 ## 5.5 Serious Hypersensitivity Reactions
 
 Serious hypersensitivity reactions, including anaphylaxis and angioedema, have been reported with Ustekinumab in clinical trials and postmarketing.
-Some serious hypersensitivity reactions have occurred during the first intravenous dose of Ustekinumab [see Adverse Reactions (6.1, 6.3)].
+Some serious hypersensitivity reactions have occurred during the first intravenous dose of Ustekinumab [see Adverse Reactions (6.1, 6.2)].
 
 If a severe or clinically significant hypersensitivity reaction occurs, discontinue Ustekinumab immediately and initiate appropriate medical treatment [see Contraindications (4)].
 
@@ -80,4 +80,4 @@ Cases of interstitial pneumonia, eosinophilic pneumonia, and cryptogenic organiz
 Clinical presentations included cough, dyspnea, and interstitial infiltrates following one to three doses.
 Serious outcomes have included respiratory failure and prolonged hospitalization.
 Patients improved with discontinuation of therapy and in certain cases administration of corticosteroids.
-If diagnosis is confirmed, discontinue Ustekinumab and institute appropriate treatment [see Adverse Reactions (6.3)].
+If diagnosis is confirmed, discontinue Ustekinumab and institute appropriate treatment [see Adverse Reactions (6.2)].

@@ -15,6 +15,8 @@ Serious Hypersensitivity Reactions
 - Inform patients that serious hypersensitivity reactions have been reported with intravenous and subcutaneous administration of Ustekinumab.
   Instruct patients to discontinue Ustekinumab and seek immediate medical attention if they experience any signs or symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
 - Inform patients the needle cover on the prefilled syringe contains dry natural rubber (a derivative of latex), which may cause allergic reactions in individuals sensitive to latex [see Dosage and Administration (2.6)].
+- Inform patients that serious hypersensitivity reactions have been reported with postmarketing use of Ustekinumab in patients with a history of alpha-gal syndrome, allergy to mammalian meat or meat products, or anti-alpha-gal IgE [see Adverse Reactions (6.2)].
+  Instruct patients to inform their healthcare provider if they have a hypersensitivity to alpha-gal or have been diagnosed with alpha-gal syndrome.
 
 Posterior Reversible Encephalopathy Syndrome (PRES)
 

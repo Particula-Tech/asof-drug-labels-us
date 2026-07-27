@@ -16,9 +16,9 @@ Adult Subjects with Plaque Psoriasis
 
 The safety data reflect exposure to Ustekinumab in 3117 adult subjects with plaque psoriasis, including 2414 exposed for at least 6 months, 1855 exposed for at least one year, 1653 exposed for at least two years, 1569 exposed for at least three years, 1482 exposed for at least four years and 838 exposed for at least five years.
 
-Table 8 summarizes the adverse reactions that occurred at a rate of at least 1% with higher rates in the Ustekinumab groups during the placebo-controlled period of Ps STUDY 1 and Ps STUDY 2 [see Clinical Studies (14)].
+Table 8 summarizes the adverse reactions that occurred at a rate of at least 1% with higher rates in the Ustekinumab groups during the placebo-controlled period of Ps STUDY 1 and Ps STUDY 2 [see Clinical Studies (14.1)].
 
-Table 8: Adverse Reactions, Reported by ≥1% of Subjects with Plaque Psoriasis and at Higher Rates in the Ustekinumab groups through Week 12 in Ps STUDY 1 and Ps STUDY 2
+Table 8: Adverse Reactions, Reported by ≥1% of Subjects with Plaque Psoriasis and at Higher Rates in the Ustekinumab Groups through Week 12 in Ps STUDY 1 and Ps STUDY 2
 
 |  | Placebo | 45 mg | 90 mg |
 | --- | --- | --- | --- |
@@ -143,23 +143,14 @@ Malignancies
 With up to one year of treatment in the ulcerative colitis clinical trials, 0.4% of Ustekinumab-treated subjects (0.48 events per hundred patient-years) and 0.0% of subjects receiving placebo (0.00 events per hundred patient-years) developed non-melanoma skin cancer.
 Malignancies other than non-melanoma skin cancers occurred in 0.5% of Ustekinumab-treated subjects (0.64 events per hundred patient-years) and 0.2% of subjects receiving placebo (0.40 events per hundred patient-years).
 
-## 6.2 Immunogenicity
-
-The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
-Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in studies of other ustekinumab products.
-Approximately 6 to 12.4% of subjects treated with Ustekinumab in clinical trials in subjects with plaque psoriasis and psoriatic arthritis developed antibodies to ustekinumab, which were generally low-titer.
-In clinical trials in subjects with plaque psoriasis, antibodies to ustekinumab were associated with reduced or undetectable serum ustekinumab concentrations and reduced efficacy.
-In trials in subjects with plaque psoriasis, the majority of subjects who were positive for antibodies to ustekinumab had neutralizing antibodies.
-
-In clinical trials in subjects with Crohn's disease and ulcerative colitis, 2.9% and 4.6% of subjects, respectively, developed antibodies to ustekinumab when treated with Ustekinumab for approximately one year.
-No apparent association between the development of antibodies to ustekinumab and the development of injection site reactions was seen.
-
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported during post-approval use of Ustekinumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to Ustekinumab exposure.
 
 Immune system disorders: Hypersensitivity reactions (e.g., anaphylaxis, angioedema, dyspnea, rash, urticaria), including a fatal case that presented with chest tightness and dyspnea during infusion of the first dose.
+Some cases of serious hypersensitivity reactions have been reported in patients with a history of alpha-gal syndrome, allergy to mammalian meat or meat products, or anti-alpha-gal IgE.
+In most of these cases the reactions occurred at the time of initial administration.
 
 Infections and infestations: Lower respiratory tract infection (including opportunistic fungal infections and tuberculosis).
 
