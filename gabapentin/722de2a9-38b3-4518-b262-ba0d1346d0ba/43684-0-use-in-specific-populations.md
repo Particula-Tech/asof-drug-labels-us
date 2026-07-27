@@ -4,8 +4,8 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), such as gabapentin, during pregnancy.
-Encourage women who are taking gabapentin during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling the toll-free number 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), such as gabapentin capsules, during pregnancy.
+Encourage women who are taking gabapentin capsules during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling the toll-free number 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
 
 Risk Summary
 
@@ -23,7 +23,7 @@ In the U.S. general population, the estimated background risk of major birth def
 Clinical Considerations Fetal/Neonatal Adverse Reactions Neonatal withdrawal syndrome has been reported in newborns exposed to gabapentin in utero for an extended period of time when also exposed to opioids close to delivery.
 Neonatal withdrawal signs and symptoms reported have included tachypnea, vomiting, diarrhea, hypertonia, irritability, sneezing, poor feeding, hyperactivity, abnormal sleep pattern, and tremor.
 Reported signs and symptoms that may also be related to withdrawal include tongue thrusting, wandering eye movements while awake, back arching, and continuous extremity movements.
-Observe neonates exposed to gabapentin and opioids for signs and symptoms of neonatal withdrawal and manage accordingly.
+Observe neonates exposed to gabapentin capsules andopioids for signs and symptoms of neonatal withdrawal and manage accordingly.
 
 Data
 
@@ -60,22 +60,22 @@ Risk Summary
 
 Gabapentin is secreted in human milk following oral administration.
 The effects on the breastfed infant and on milk production are unknown.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for gabapentin and any potential adverse effects on the breastfed infant from gabapentin or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for gabapentin capsules and any potential adverse effects on the breastfed infant from gabapentin capsules or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of gabapentin in the management of postherpetic neuralgia in pediatric patients have not been established.
-Safety and effectiveness as adjunctive therapy in the treatment of partial seizures in pediatric patients below the age of 3 years has not been established [see Clinical Studies (14.2)].
+Safety and effectiveness of gabapentin capsules in the management of postherpetic neuralgia in pediatric patients have not been established.
+Safety and effectiveness as adjunctive therapy in the treatment of partial seizures in pediatric patients below the age of 3 years has not been established[see Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 
-The total number of patients treated with gabapentin in controlled clinical trials in patients with postherpetic neuralgia was 336, of which 102 (30%) were 65 to 74 years of age, and 168 (50%) were 75 years of age and older.
+The total number of patients treated with gabapentin capsules in controlled clinical trials in patients with postherpetic neuralgia was 336, of which 102 (30%) were 65 to 74 years of age, and 168 (50%) were 75 years of age and older.
 There was a larger treatment effect in patients 75 years of age and older compared to younger patients who received the same dosage.
 Since gabapentin is almost exclusively eliminated by renal excretion, the larger treatment effect observed in patients ≥ 75 years may be a consequence of increased gabapentin exposure for a given dose that results from an age-related decrease in renal function.
 However, other factors cannot be excluded.
 The types and incidence of adverse reactions were similar across age groups except for peripheral edema and ataxia, which tended to increase in incidence with age.
 
-Clinical studies of gabapentin in epilepsy did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently from younger subjects.
+Clinical studies of gabapentin capsules in epilepsy did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 

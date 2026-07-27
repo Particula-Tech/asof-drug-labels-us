@@ -2,7 +2,7 @@
 
 ## 2.1 Dosage for Postherpetic Neuralgia
 
-In adults with postherpetic neuralgia, gabapentin may be initiated on Day 1 as a single 300 mg dose, on Day 2 as 600 mg/day (300 mg two times a day), and on Day 3 as 900 mg/day (300 mg three times a day).
+In adults with postherpetic neuralgia, gabapentin capsules may be initiated on Day 1 as a single 300 mg dose, on Day 2 as 600 mg/day (300 mg two times a day), and on Day 3 as 900 mg/day (300 mg three times a day).
 The dose can subsequently be titrated up as needed for pain relief to a dose of 1800 mg/day (600 mg three times a day).
 In clinical studies, efficacy was demonstrated over a range of doses from 1800 mg/day to 3600 mg/day with comparable effects across the dose range; however, in these clinical studies, the additional benefit of using doses greater than 1800 mg/day was not demonstrated.
 
@@ -11,18 +11,18 @@ In clinical studies, efficacy was demonstrated over a range of doses from 1800 m
 Patients 12 Years of Age and Above
 
 The starting dose is 300 mg three times a day.
-The recommended maintenance dose of gabapentin is 300 mg to 600 mg three times a day.
+The recommended maintenance dose of gabapentin capsules is 300 mg to 600 mg three times a day.
 Dosages up to 2400 mg/day have been administered in long-term clinical studies.
 Doses of 3600 mg/day have also been administered to a small number of patients for a relatively short duration.
-Administer gabapentin three times a day using 300 mg or 400 mg capsules.
+Administer gabapentin capsules three times a day using 300 mg or 400 mg capsules.
 The maximum time between doses should not exceed 12 hours.
 
 Pediatric Patients Age 3 to 11 Years
 
 The starting dose range is 10 mg/kg/day to 15 mg/kg/day, given in three divided doses, and the recommended maintenance dose reached by upward titration over a period of approximately 3 days.
-The recommended maintenance dose of gabapentin in patients 3 to 4 years of age is 40 mg/kg/day, given in three divided doses.
-The recommended maintenance dose of gabapentin in patients 5 to 11 years of age is 25 mg/kg/day to 35 mg/kg/day, given in three divided doses.
-Gabapentin may be administered as the oral capsule.
+The recommended maintenance dose of gabapentin capsules in patients 3 to 4 years of age is 40 mg/kg/day, given in three divided doses.
+The recommended maintenance dose of gabapentin capsules in patients 5 to 11 years of age is 25 mg/kg/day to 35 mg/kg/day, given in three divided doses.
+Gabapentin capsules may be administered as the oral capsule.
 Dosages up to 50 mg/kg/day have been administered in a long-term clinical study.
 The maximum time interval between doses should not exceed 12 hours.
 
@@ -31,7 +31,7 @@ The maximum time interval between doses should not exceed 12 hours.
 Dosage adjustment in patients 12 years of age and older with renal impairment or undergoing hemodialysis is recommended, as follows (see dosing recommendations above for effective doses in each indication):
 
 TABLE 1.
-Gabapentin Dosage Based on Renal Function
+Gabapentin Capsules Dosage Based on Renal Function
 
 | Renal Function Creatinine Clearance (mL/min) | Total Daily Dose Range (mg/day) | Dose Regimen (mg) |
 | --- | --- | --- |
@@ -51,7 +51,7 @@ b Patients on hemodialysis should receive maintenance doses based on estimates o
 Creatinine clearance (CLCr) is difficult to measure in outpatients.
 In patients with stable renal function, creatinine clearance can be reasonably well estimated using the equation of Cockcroft and Gault:
 
-The use of gabapentin in patients less than 12 years of age with compromised renal function has not been studied.
+The use of gabapentin capsules in patients less than 12 years of age with compromised renal function has not been studied.
 
 ## 2.4 Dosage in Elderly
 
@@ -59,8 +59,8 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 ## 2.5 Administration Information
 
-Administer gabapentin orally with or without food.
+Administer gabapentin capsules orally with or without food.
 
 Gabapentin capsules should be swallowed whole with water.
 
-If the gabapentin dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).
+If the gabapentin capsules dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).

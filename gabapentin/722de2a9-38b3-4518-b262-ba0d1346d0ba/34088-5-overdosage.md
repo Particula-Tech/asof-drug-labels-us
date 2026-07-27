@@ -2,9 +2,9 @@
 
 Signs of acute toxicity in animals included ataxia, labored breathing, ptosis, sedation, hypoactivity, or excitation.
 
-Acute oral overdoses of gabapentin have been reported.
+Acute oral overdoses of gabapentin capsules havebeen reported.
 Symptoms have included double vision, tremor, slurred speech, drowsiness, altered mental status, dizziness, lethargy, and diarrhea.
-Fatal respiratory depression has been reported with gabapentin overdose, alone and in combination with other CNS depressants.
+Fatal respiratory depression has been reported with gabapentin capsules overdose, alone and in combination with other CNS depressants.
 
 Gabapentin can be removed by hemodialysis.
 

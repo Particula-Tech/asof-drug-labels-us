@@ -6,7 +6,7 @@ Respiratory depression and sedation, sometimes resulting in death, have been rep
 
 Hydrocodone
 
-Coadministration of gabapentin with hydrocodone decreases hydrocodone exposure [see Clinical Pharmacology (12.3)].
+Coadministration of gabapentin capsules with hydrocodone decreases hydrocodone exposure [see Clinical Pharmacology (12.3)].
 The potential for alteration in hydrocodone exposure and effect should be considered when gabapentin is started or discontinued in a patient taking hydrocodone.
 
 Morphine

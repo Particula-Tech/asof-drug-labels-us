@@ -39,7 +39,7 @@ Age
 The effect of age was studied in subjects 20 to 80 years of age.
 Apparent oral clearance (CL/F) of gabapentin decreased as age increased, from about 225 mL/min in those under 30 years of age to about 125 mL/min in those over 70 years of age.
 Renal clearance (CLr) and CLr adjusted for body surface area also declined with age; however, the decline in the renal clearance of gabapentin with age can largely be explained by the decline in renal function.
-[see Dosage and Administration (2.4) and Use in Specific Populations (8.5)].
+[see Dosageand Administration (2.4) and Use in Specific Populations (8.5)].
 
 Gender
 
@@ -73,12 +73,12 @@ Adult Patients with Renal Impairment
 
 Subjects (N=60) with renal impairment (mean creatinine clearance ranging from 13 to 114 mL/min) were administered single 400 mg oral doses of gabapentin.
 The mean gabapentin half-life ranged from about 6.5 hours (patients with creatinine clearance >60 mL/min) to 52 hours (creatinine clearance <30 mL/min) and gabapentin renal clearance from about 90 mL/min (>60 mL/min group) to about 10 mL/min (<30 mL/min).
-Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min [see Dosageand Administration (2.3) and Use in Specific Populations (8.6)].
 Pediatric patients with renal insufficiency have not been studied.
 
 Hemodialysis
 
-In a study in anuric adult subjects (N=11), the apparent elimination half-life of gabapentin on nondialysis days was about 132 hours; during dialysis the apparent half-life of gabapentin was reduced to 3.8 hours.
+In a study in anuric adult subjects (N=11), the apparent elimination half-life of gabapentin on no dialysis days was about 132 hours; during dialysis the apparent half-life of gabapentin was reduced to 3.8 hours.
 Hemodialysis thus has a significant effect on gabapentin elimination in anuric subjects [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 
 Hepatic Disease
@@ -99,7 +99,7 @@ The drug interaction data described in this section were obtained from studies i
 
 Phenytoin
 
-In a single (400 mg) and multiple dose (400 mg three times a day) study of gabapentin in epileptic patients (N=8) maintained on phenytoin monotherapy for at least 2 months, gabapentin had no effect on the steady-state trough plasma concentrations of phenytoin and phenytoin had no effect on gabapentin pharmacokinetics.
+In a single (400 mg) and multiple dose (400 mg three times a day) study of gabapentin capsules in epileptic patients (N=8) maintained on phenytoin monotherapy for at least 2 months, gabapentin had no effect on the steady-state trough plasma concentrations of phenytoin and phenytoin had no effect on gabapentin pharmacokinetics.
 
 Carbamazepine
 
@@ -116,14 +116,14 @@ Estimates of steady-state pharmacokinetic parameters for phenobarbital or gabape
 
 Naproxen
 
-Coadministration (N=18) of naproxen sodium capsules (250 mg) with gabapentin (125 mg) appears to increase the amount of gabapentin absorbed by 12% to 15%.
+Coadministration (N=18) of naproxen sodium capsules (250 mg) with gabapentin capsules(125 mg) appears to increase the amount of gabapentin absorbed by 12% to 15%.
 Gabapentin had no effect on naproxen pharmacokinetic parameters.
 These doses are lower than the therapeutic doses for both drugs.
 The magnitude of interaction within the recommended dose ranges of either drug is not known.
 
 Hydrocodone
 
-Coadministration of gabapentin (125 to 500 mg; N=48) decreases hydrocodone (10 mg; N=50) Cmax and AUC values in a dose-dependent manner relative to administration of hydrocodone alone; Cmax and AUC values are 3% to 4% lower, respectively, after administration of 125 mg gabapentin and 21% to 22% lower, respectively, after administration of 500 mg gabapentin.
+Coadministration of gabapentin (125 to 500 mg; N=48) decreases hydrocodone (10 mg; N=50) Cmax and AUC values in a dose-dependent manner relative to administration of hydrocodone alone; Cmax and AUC values are 3% to 4% lower, respectively, after administration of 125 mg gabapentin capsules and21% to 22% lower, respectively, after administration of 500 mg gabapentin capsules.
 The mechanism for this interaction is unknown.
 Hydrocodone increases gabapentin AUC values by 14%.
 The magnitude of interaction at other doses is not known.
@@ -131,7 +131,7 @@ The magnitude of interaction at other doses is not known.
 Morphine
 
 A literature article reported that when a 60 mg controlled-release morphine capsule was administered 2 hours prior to a 600 mg gabapentin capsule (N=12), mean gabapentin AUC increased by 44% compared to gabapentin administered without morphine.
-Morphine pharmacokinetic parameter values were not affected by administration of gabapentin 2 hours after morphine.
+Morphine pharmacokinetic parameter values were not affected by administration of gabapentin capsules2 hours after morphine.
 The magnitude of interaction at other doses is not known.
 
 Cimetidine
@@ -146,7 +146,7 @@ Oral Contraceptive
 Based on AUC and half-life, multiple-dose pharmacokinetic profiles of norethindrone and ethinyl estradiol following administration of tablets containing 2.5 mg of norethindrone acetate and 50 mcg of ethinyl estradiol were similar with and without coadministration of gabapentin (400 mg three times a day; N=13).
 The Cmax of norethindrone was 13% higher when it was coadministered with gabapentin; this interaction is not expected to be of clinical importance.
 
-Antacid (Maalox®) (aluminum hydroxide, magnesium hydroxide)
+Antacid (Maalox®)(aluminum hydroxide, magnesium hydroxide)
 
 Antacid (Maalox®) containing magnesium and aluminum hydroxides reduced the mean bioavailability of gabapentin (N=16) by about 20%.
 This decrease in bioavailability was about 10% when gabapentin was administered 2 hours after Maalox.

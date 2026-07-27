@@ -12,4 +12,4 @@ Each gabapentin capsule contains 100 mg, 300 mg, or 400 mg of gabapentin and the
 The 100 mg capsule shell contains gelatin, sodium lauryl sulfate, and titanium dioxide.
 The 300 mg capsule shell contains gelatin, sodium lauryl sulfate, titanium dioxide, and yellow iron oxide.
 The 400 mg capsule shell contains gelatin, sodium lauryl sulfate, red iron oxide, titanium dioxide, and yellow iron oxide.
-The imprinting ink contains shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propyl glycol, strong ammonia solution, and titanium dioxide.
+The imprinting ink contains shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, and titanium dioxide.
