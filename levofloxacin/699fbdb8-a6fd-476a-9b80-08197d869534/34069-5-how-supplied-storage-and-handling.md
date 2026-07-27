@@ -3,7 +3,7 @@
 ## 16.1 Levofloxacin Injection Pre-Mixed Solution, Single-Use in Flexible Container
 
 Levofloxacin Injection in 5% dextrose is supplied as a single-use, premixed solution in flexible containers.
-Each bag contains a dilute solution with the equivalent of 250, 500, or 750 mg of levofloxacin, respectively, in 5% Dextrose (D5W).
+Each bag contains a dilute solution with the equivalent to 250, 500, or 750 mg of levofloxacin, respectively, in 5% Dextrose (D5W).
 
 | NDC | Levofloxacin Injection (in 5% dextrose) (5 mg per mL) | Package Factor |
 | --- | --- | --- |
