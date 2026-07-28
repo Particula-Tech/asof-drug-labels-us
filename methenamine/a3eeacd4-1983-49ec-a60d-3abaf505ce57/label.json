@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA017681"
+  ],
+  "inn": "methenamine",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70954-959-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methenamine hippurate",
+      "name": "Methenamine Hippurate"
+    }
+  ],
+  "setid": "a3eeacd4-1983-49ec-a60d-3abaf505ce57",
+  "source": "dailymed"
+}
