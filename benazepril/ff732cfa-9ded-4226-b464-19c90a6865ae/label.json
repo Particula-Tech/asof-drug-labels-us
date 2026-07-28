@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA076333"
+  ],
+  "inn": "benazepril",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-524-01",
+    "62559-524-05",
+    "62559-525-01",
+    "62559-525-05",
+    "62559-526-01",
+    "62559-526-05",
+    "62559-527-01",
+    "62559-527-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "benazepril hydrochloride",
+      "name": "Benazepril Hydrochloride"
+    }
+  ],
+  "setid": "ff732cfa-9ded-4226-b464-19c90a6865ae",
+  "source": "dailymed"
+}
