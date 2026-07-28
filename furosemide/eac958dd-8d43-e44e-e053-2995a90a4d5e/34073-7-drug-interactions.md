@@ -7,8 +7,8 @@
 | Aminoglycoside antibiotics | Furosemide may increase the ototoxic potential of aminoglycoside antibiotics, especially in the presence of impaired renal function [see Warnings and Precautions (5.3)]. | Avoid combination except in life-threatening situations. |
 | Ethacrynic acid | Possibility of ototoxicity [see Warnings and Precautions (5.3)]. | Avoid concomitant use with ethacrynic acid. |
 | Salicylates | May experience salicylate toxicity at lower doses because of competitive renal excretory sites. | Monitor for symptoms of salicylate toxicity. |
-| Cisplatin | There is a risk of ototoxic effects if cisplatin and furosemide are given concomitantly [see Warnings and Precautions (5.3)]. |  |
-| Cisplatin and nephrotoxic drugs | Nephrotoxicity | Administer furosemide at lower doses and with positive fluid balance when used to achieve forced diuresis during cisplatin treatment. Monitor renal function. |
+| Cisplatin | There is a risk of ototoxic effects if cisplatin and furosemide are given concomitantly [see Warnings and Precautions (5.3)]. | Administer furosemide at lower doses and with positive fluid balance when used to achieve forced diuresis during cisplatin treatment. Monitor renal function. |
+| Cisplatin and nephrotoxic drugs | Nephrotoxicity |  |
 | Paralytic agents | Furosemide has a tendency to antagonize the skeletal muscle relaxing effect of tubocurarine and may potentiate the action of succinylcholine. | Monitor for skeletal muscle effect. |
 | Lithium | Furosemide reduces lithium’s renal clearance and add a high-risk of lithium toxicity. | Avoid concomitant use with lithium. |
 | Angiotensin converting enzyme inhibitors or angiotensin II receptor blockers | May lead to severe hypotension and deterioration in renal function, including renal failure. | Monitor for changes in blood pressure and renal function and interrupt or reduce the dosage of furosemide, angiotensin converting enzyme inhibitors, or angiotensin receptor blockers if needed. |

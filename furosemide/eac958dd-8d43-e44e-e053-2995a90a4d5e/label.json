@@ -3,11 +3,17 @@
     "NDA209988"
   ],
   "inn": "furosemide",
-  "labeler": "scPharmaceuticals Inc.",
+  "labeler": "scPharmaceuticals Inc., a wholly owned subsidiary of MannKind Corporation",
   "package_ndcs": [
-    "71767-100-01"
+    "71767-100-01",
+    "71767-111-01"
   ],
   "products": [
+    {
+      "form": "INJECTION",
+      "generic": "furosemide",
+      "name": "FUROSCIX"
+    },
     {
       "form": "INJECTION",
       "generic": "furosemide injection 80 mg/ 10 ml",

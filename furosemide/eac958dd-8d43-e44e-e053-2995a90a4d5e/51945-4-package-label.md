@@ -97,3 +97,73 @@ FOR SUBCUTANEOUS USE ONLY
 Single Dose
 
 Rx Only
+
+Autoinjector Carton
+
+NDC 71767-111-01
+
+1 Single Dose Prefilled Autoinjector
+
+FUROSCIX ReadyFlow™
+
+(furosemide injection) 80 mg/ml
+
+For subcutaneous use in the abdomen only
+
+Sterile Solution.
+Do not refrigerate
+
+Rx Only
+
+Autoinjector
+
+NDC 71767-111-01
+
+FUROSCIX ReadyFlow™
+
+(furosemide injection) 80 mg/ml
+
+Single dose prefilled autoinjector
+
+For subcutaneous use in the abdomen only.
+
+Do not refrigerate or freeze.
+
+Rx Only
+
+Autoinjector Carton for Physician Samples
+
+NDC 71767-111-01
+
+1 Single Dose Prefilled Autoinjector
+
+FUROSCIX ReadyFlow™
+
+(furosemide injection) 80 mg/ml
+
+PHYSICIAN SAMPLE ONLY NOT FOR SALE
+
+For subcutaneous use in the abdomen only
+
+Sterile Solution.
+Do not refrigerate
+
+Rx Only
+
+Autoinjector Sample
+
+NDC 71767-111-01
+
+FUROSCIX ReadyFlow™
+
+(furosemide injection) 80 mg/ml
+
+SAMPLE NOT FOR SALE
+
+Single dose prefilled autoinjector
+
+For subcutaneous use in the abdomen only.
+
+Do not refrigerate or freeze.
+
+Rx Only

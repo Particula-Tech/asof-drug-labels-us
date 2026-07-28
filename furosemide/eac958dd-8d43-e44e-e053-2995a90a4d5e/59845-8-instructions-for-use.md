@@ -280,3 +280,83 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 Issued: 10/2023
 
 Reg-0017 Rev 01
+
+INSTRUCTIONS FOR USE
+
+FUROSCIX ReadyFlow™ [fue roe’ six]
+
+(furosemide injection) for subcutaneous use
+
+Single-dose autoinjector
+
+80 mg/mL
+
+This Instructions for Use contains information on how to use the FUROSCIX ReadyFlow autoinjector to inject an 80 mg dose of furosemide under the skin (subcutaneous).
+Read this Instructions for Use before using the FUROSCIX ReadyFlow autoinjector.
+
+Before using the FUROSCIX ReadyFlow autoinjector, your healthcare provider should show you how to use it the right way.
+If you have any questions, ask your healthcare provider.
+
+INSTRUCTIONS FOR USE
+
+Important Information You Need to Know Before Using the FUROSCIX ReadyFlow autoinjector
+
+- The autoinjector is for single use only.
+- The autoinjector is for subcutaneous (under the skin) injection into the stomach area (abdomen) only.
+
+Before injection
+
+- Do not remove the blue Cap until you are ready to inject (see Step 6).
+- Do not touch or push on the Needle cover.
+  The needle is covered by the grey Needle cover and will not be seen.
+- Do not use in extreme heat or cold.
+
+During injection
+
+- Only inject into the stomach area (abdomen).
+  Do not inject into any other area of the body.
+- Do not lift the autoinjector from your skin before the yellow Plunger rod has stopped moving and fills the Viewing window.
+- If the yellow Plunger rod does not move or does not fill the Viewing window, contact your healthcare provider.
+- If you lift the autoinjector too early or do not press the autoinjector firmly against the skin for the entire injection, the Medicine may appear on the skin or squirt from the needle, and you may not get your full dose of FUROSCIX.
+  If you believe you have not received a full dose, contact your healthcare provider.
+
+After injection
+
+- You should notice an increase in urine production about an hour after the injection and may need to make frequent bathroom visits.
+  Be sure you have access to a bathroom for up to 6 hours after the injection.
+  If you do not notice the need to use the bathroom, contact your healthcare provider.
+
+Storing FUROSCIX ReadyFlow autoinjector
+
+- The autoinjector should be stored at room temperature between 68°F and 77°F (20°C and 25°C).
+- Do not refrigerate or freeze.
+- Keep the autoinjector in the original carton until ready to use to protect from light.
+- Keep the autoinjector and all medicines out of the reach of children.
+
+| Preparing to Inject Gather supplies Gather all supplies needed for your injection on a clean, well-lit work surface: FUROSCIX ReadyFlow autoinjectorOther supplies (not included) ◦ Alcohol wipe◦ Cotton balls or gauze◦ Small bandage◦ Sharps disposal container (see Step 9) |  |
+| --- | --- |
+| Inspect autoinjector Inspect the autoinjector and make sure: the Medicine in the Viewing window is clear and colorless to slightly yellowthe Expiration date has not passedthere are no signs of cracks or damage Do not use the autoinjector if you see particles in the Medicine. Do not use the autoinjector if the Medicine is discolored or cloudy. Do not use the autoinjector after the Expiration date. Do not use the autoinjector if there are signs of cracks or damage. |  |
+| Wash hands Wash your hands with soap and water before using the autoinjector. |  |
+| Select injection site on the stomach area (abdomen) Select an injection site on the stomach area only, at least two inches away from the belly button (navel). Do not select a site where the skin is irritated or broken. Avoid areas with scars or stretch marks. Make sure you switch areas on the stomach area each time you give an injection. |  |
+| Clean the injection site Wipe the injection site with an alcohol wipe and allow the area to dry.Do not blow on or touch the cleaned area again before injecting. |  |
+| Injecting FUROSCIX Remove Cap Pull the blue Cap straight off and throw away (dispose of) Cap.When the Cap is removed, use the autoinjector right away.Do not put the Cap back onto the autoinjector. Do not touch or push on the grey Needle cover (needle inside). |  |
+| Place autoinjector Hold the autoinjector at 90 degrees with the grey Needle cover flat against the clean stomach area injection site. Make sure you can see the Viewing window. |  |
+| Deliver injection a. Firmly push and hold the autoinjector against stomach area until the yellow Plunger rod stops moving. This may take about 10 seconds. You may or may not hear 2 clicks during the injection.Do not lift the autoinjector while the yellow Plunger rod is moving.If the yellow Plunger rod does not start moving, press the autoinjector more firmly against your skin. |  |
+| b. Check that the yellow Plunger rod has stopped moving and fills the Viewing window. Do not lift the autoinjector before the injection is done. If the Viewing window does not turn completely yellow, or if you see Medicine coming out of the autoinjector, you might not have received a full dose. Contact your healthcare provider. |  |
+| C. When the injection is complete, lift the autoinjector. The grey Needle cover will automatically extend and lock out over the needle. Do not reuse the autoinjector. You cannot stop and restart an injection. It is for single use only.If you see some blood at the injection site, this is normal. Lightly dab with a cotton ball and apply a small bandage. |  |
+| ​ After Injecting Throw away (dispose of) the autoinjector Put your used autoinjector into an FDA-cleared sharps disposal container right away after use.Do not throw away (dispose of) the autoinjector in your household trash. If you do not have a FDA-cleared sharps disposal container, you may use a household container that: is made of a heavy-duty plastic,can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,is upright and stable during use,is leak-resistant, andis properly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes.For more information about safe sharps disposal and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal Do not dispose of your sharps disposal container in household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. Keep the sharps disposal container out of the reach of children. |  |
+| Expect increased need to urinate Urine production should increase about an hour after the injection for up to 6 hours. If you do not notice the need to use the bathroom, contact your healthcare provider |  |
+
+For additional resources call 1-877-323-8505
+
+© 2026 MannKind Corporation, 25 Mall Road, Burlington, MA 01803 USA
+
+FUROSCIX READYFLOW is a trademark of MannKind Corporation
+
+Patent: www.mannkindcorp.com/patent-notices
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Approved: 7/2026
+
+REG-0021 R06

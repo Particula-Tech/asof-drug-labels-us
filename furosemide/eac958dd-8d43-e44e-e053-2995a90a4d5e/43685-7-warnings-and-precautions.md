@@ -24,10 +24,13 @@ These patients require careful monitoring, especially during the initial stages 
 
 ## 5.5 Incomplete Dosing
 
-The On-body Infusor should not be allowed to get wet from water or any other fluids (blood or drug product).
+The FUROSCIX ReadyFlow should be held against the abdomen until the yellow plunger rod stops moving and fills the viewing window.
+This may take about 10 seconds.
+
+The On-body Infusor for FUROSCIX should not be allowed to get wet from water or any other fluids (blood or drug product).
 Fluid contact with the circuit board can lead to device errors and premature termination of infusion.
 
-The On-body Infusor is intended for use in a setting where the patient can limit their activity for the duration of administration.
+The On-body Infusor for FUROSCIX is intended for use in a setting where the patient can limit their activity for the duration of administration.
 Certain patient movements may cause interruption of device adherence to skin and premature termination of infusion.
 
 The On-body Infusor for FUROSCIX should only be administered in settings where alarms can be detected and responded to in order to ensure a complete dose is administered [see Dosage and Administration (2.2)].

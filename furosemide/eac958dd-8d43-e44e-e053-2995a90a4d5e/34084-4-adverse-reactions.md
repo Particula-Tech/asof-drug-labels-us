@@ -22,6 +22,6 @@ Dermatologic Hypersensitivity Reactions: toxic epidermal necrolysis, Stevens-Joh
 
 Cardiovascular Reactions: orthostatic hypotension, increase in cholesterol and triglyceride serum levels.
 
-Administration Site and Skin Reactions: erythema, bruising, edema, infusion site pain.
+Administration Site and Skin Reactions: administration site erythema, bruising, edema, mass, pruritus, and pain.
 
 Other Reactions: glycosuria, muscle spasm, weakness, restlessness, urinary bladder spasm, thrombophlebitis, transient injection site pain following intramuscular injection, fever.

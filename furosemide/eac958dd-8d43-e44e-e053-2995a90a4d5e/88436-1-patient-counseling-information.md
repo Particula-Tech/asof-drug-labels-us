@@ -2,7 +2,8 @@
 
 Advise the patient and/or caregiver to read the FDA-approved patient labeling [see FDA-approved Instructions for Use].
 
-Advise the patient that they should not allow the On-body Infusor to come into contact with water or other fluids.Advise patients and/or caregiver to check the device for alarms to ensure a complete dose is administered [see Warnings and Precautions (5.5)].
+Advise patients that they should not allow the On-body Infusor to come into contact with water or other fluids.
+Advise patients and/or caregivers to check the device for alarms to ensure a complete dose is administered [see Warnings and Precautions (5.5)].
 
 Fluid, Electrolyte, and Metabolic Abnormalities
 
@@ -18,22 +19,22 @@ The skin of some patients may be more sensitive to the effects of sunlight while
 
 Advise hypertensive patients to avoid medications that may increase blood pressure, including over-the-counter products for appetite suppression and cold symptoms [see Drug Interactions (7.1)].
 
-For more information about FUROSCIX, go to www.FUROSCIX.com or call 1-855-SCPHARMA (1-855-727-4276)
+For more information about FUROSCIX, go to www.FUROSCIX.com or call call 1-877-323-8505
 
-scPharmaceuticals, Inc.
-
-FUROSCIX ® (furosemide injection 80 mg/10 mL) for subcutaneous use
+FUROSCIX ® (furosemide injection) for subcutaneous use
 
 Manufactured for:
 
-scPharmaceuticals Inc.,
+MannKind Corporation
 
-25 Mall Road, Suite 203,
+25 Mall Road
 
 Burlington, MA 01803
 
-Patent Protected: www.scpharmaceuticals.com/patents
+Patent: www.mannkindcorp.com/patent-notices
 
-FUROSCIX ® is a mark of scPharmaceuticals Inc.
+FUROSCIX, FUROSCIX READYFLOW, and MANNKIND are trademarks of MannKind Corporation
 
-Reg-0018 Rev 04
+© 2026 MannKind Corporation
+
+REG-0018 Rev 05

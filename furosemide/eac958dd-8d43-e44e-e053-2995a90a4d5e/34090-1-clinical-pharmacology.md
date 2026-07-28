@@ -8,22 +8,35 @@ The action on the distal tubule is independent of any inhibitory effect on carbo
 
 ## 12.2 Pharmacodynamics
 
-In adult patients with NYHA Class II and Class III heart failure, subcutaneous administration of FUROSCIX (30 mg furosemide over the first hour followed by 12.5 mg per hour for the subsequent 4 hours, total 80mg furosemide) produced similar diuresis and natriuresis to intravenous administration (two 40 mg bolus doses separated by 120 minutes) at 8 and 24 hour post-dose.
-The duration of diuretic effect with FUROSCIX is up to 8 hours after initiation of dosing.
+In healthy adults, subcutaneous administration of FUROSCIX (80 mg furosemide injection via the ReadyFlow) produced similar diuresis, natriuresis, and kaliuresis to intravenous administration (two 40 mg bolus doses separated by 120 minutes) at 6, 8, and 12 hours post-dose.
+The duration of diuretic effect with FUROSCIX ReadyFlow was up to 6 hours after initiation of dosing.
+
+In adult patients with NYHA Class II and Class III heart failure, subcutaneous administration of FUROSCIX (30 mg furosemide over the first hour followed by 12.5 mg per hour for the subsequent 4 hours, total 80 mg furosemide) produced similar diuresis and natriuresis to intravenous administration (two 40 mg bolus doses separated by 120 minutes) at 8 and 24 hours post-dose.
+The duration of diuretic effect with FUROSCIX On-body Infusor was up to 8 hours after initiation of dosing.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
-In adult patients with NYHA Class II-III congestive heart failure, subcutaneous infusion of FUROSCIX (30 mg furosemide over the first hour followed by 12.5 mg per hour for the subsequent 4 hours, 80 mg furosemide total), the bioavailability was 99.6% (90% CI: 94.8, 104.8) with a median T max of 4 hours relative to 80 mg intravenous furosemide (two 40-mg bolus doses separated by 120 minutes).
-The pharmacokinetic parameters of FUROSCIX are presented in Table 1 below:
+In healthy adults, subcutaneous injection of FUROSCIX (80 mg furosemide injection via the ReadyFlow), the bioavailability was 107.3% (90% CI: 103.9, 110.8) relative to 80 mg intravenous furosemide (two 40‑mg bolus doses separated by 120 minutes) with a median (min-max) T max of 0.75 (0.5-1.5) hours.
+The pharmacokinetic parameters of FUROSCIX following subcutaneous injection via the ReadyFlow autoinjector are presented in Table 1 below:
 
-Table 1: Pharmacokinetic Data of FUROSCIX Following Subcutaneous Infusion (n = 15)
+Table 1: Pharmacokinetic Data of FUROSCIX Following Subcutaneous Injection via the ReadyFlow Autoinjector (n = 19)
 
-| Dose | C max(ng/mL) | AUC t (ng×hr/mL) | T 1/2 (hr) | AUC ∞(ng×hr/mL) |
+| Dose | C max(ng/mL) | AUC t (ng×hr/mL) | T 1/2(hr) | AUC ∞(ng×hr/mL) |
 | --- | --- | --- | --- | --- |
-| FUROSCIX: 30 mg subcutaneously infused over the first hour followed by 12.5 mg per hour for the subsequent 4 hours (total dose: 80 mg furosemide) | 2040 ± 449 | 13000 ± 4000 | 3.2 ± 0.9 | 13100 ± 4010 |
-| Furosemide administered as 2 x 40 mg bolus doses intravenously, separated by 120 minutes (total dose: 80 mg furosemide) | 8580 ± 2540 | 13000 ± 4050 | 2.6 ± 0.3 | 13200 ± 4170 |
+| FUROSCIX: 80 mg injection via the ReadyFlow | 4,530 ± 1,500 | 12,500 ± 4,010 | 2.2 ± 0.3 | 12,700 ± 4,120 |
+| Furosemide administered as 2 x 40 mg bolus doses intravenously, separated by 120 minutes (total dose: 80 mg furosemide) | 10,100 ± 2,810 | 11,700 ± 3,450 | 1.9 ± 0.4 | 11,800 ± 3,510 |
+
+In adult patients with NYHA Class II-III congestive heart failure, subcutaneous infusion of FUROSCIX (30 mg furosemide over the first hour followed by 12.5 mg per hour for the subsequent 4 hours, 80 mg furosemide total), the bioavailability was 99.6% (90% CI: 94.8, 104.8) relative to 80 mg intravenous furosemide (two 40-mg bolus doses separated by 120 minutes) with a median T max (min-max) of 4 (1.00 - 5.08) hours.
+The pharmacokinetic parameters of FUROSCIX following subcutaneous infusion via the On-body Infusor are presented in Table 2 below:
+
+Table 2: Pharmacokinetic Data of FUROSCIX Following Subcutaneous Infusion via the On-body Infusor (n = 15)
+
+| Dose | Cmax(ng/mL) | AUCt(ng×hr/mL) | T1/2 (hr) | AUC∞(ng×hr/mL) |
+| --- | --- | --- | --- | --- |
+| FUROSCIX: 30 mg subcutaneously infused over the first hour followed by 12.5 mg per hour for the subsequent 4 hours (total dose: 80 mg furosemide) | 2,040 ± 449 | 13,000 ± 4,000 | 3.2 ± 0.9 | 13,100 ± 4,010 |
+| Furosemide administered as 2 x 40 mg bolus doses intravenously, separated by 120 minutes (total dose: 80 mg furosemide) | 8,580 ± 2,540 | 13,000 ± 4,050 | 2.6 ± 0.3 | 13,200 ± 4,170 |
 
 The impact of subcutaneous edema at the administration site of FUROSCIX on drug absorption is unknown.
 
@@ -50,7 +63,7 @@ Specific Populations
 Pediatric Patients
 
 FUROSCIX was not evaluated in a pediatric clinical study.
-Based on population pharmacokinetic modeling and simulation, pediatric patients aged 6 to <17 years and weighing 43 kg and above are predicted to have comparable exposures to adult patients following FUROSCIX administration.
+Based on population pharmacokinetic modeling and simulation, pediatric patients aged 6 to <17 years and weighing 43 kg and above are predicted to have comparable exposures to adult patients following FUROSCIX administration using the FUROSCIX On-body Infusor.
 
 Geriatric Patients
 

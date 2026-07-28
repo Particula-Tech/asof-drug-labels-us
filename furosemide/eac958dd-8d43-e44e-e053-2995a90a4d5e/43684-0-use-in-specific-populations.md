@@ -9,6 +9,8 @@ Untreated congestive heart failure and cirrhosis of the liver can lead to advers
 
 In animal reproduction studies, furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits when administered orally during organogenesis at 4 times a human i.v. dose of 80 mg based on body surface area (BSA) and oral bioavailability corrections, presumably secondary to volume depletion (see Data).
 
+FUROSCIX ReadyFlow contains benzyl alcohol (BA) as a preservative.
+Because BA is rapidly metabolized by a pregnant female, BA exposure in the fetus is unlikely.
 The estimated background risk for major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
@@ -46,11 +48,15 @@ Risk Summary
 The presence of furosemide has been reported in human breast milk.
 There are no data on the effects on the breastfed infant or the effects on milk production.
 Doses of furosemide associated with clinically significant diuresis may impair milk production.
+FUROSCIX ReadyFlow contains benzyl alcohol (BA) as a preservative.
+Because BA is rapidly metabolized by a pregnant female, BA exposure in the breastfed neonate is unlikely.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for furosemide and any potential adverse effects on the breastfed infant from furosemide or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-FUROSCIX is approved for the treatment of edema in pediatric patients weighing at least 43 kg with chronic heart failure or chronic kidney disease, including the nephrotic syndrome.
+Safety and efficacy of the FUROSCIX ReadyFlow for pediatric use have not been established.
+
+The On-body Infusor for FUROSCIX is approved for the treatment of edema in pediatric patients weighing at least 43 kg with chronic heart failure or chronic kidney disease, including the nephrotic syndrome.
 FUROSCIX has not been studied in pediatric patients.
 Use of FUROSCIX for this indication is supported by: 1) efficacy, safety, and pharmacokinetic data of furosemide in adult and pediatric patients; 2) pharmacokinetic and pharmacodynamic data of FUROSCIX in adults with New York Heart Association (NYHA) Functional Classification Class II and Class III heart failure [see Clinical Pharmacology (12.2, 12.3)]; and 3) population pharmacokinetic modeling which demonstrated no significant difference in furosemide exposure following FUROSCIX administration in a simulated pediatric population weighing 43 kg and above and aged 6 to <17 years compared to adult patients with chronic heart failure [see Clinical Pharmacology (12.3)].
 
@@ -68,7 +74,7 @@ Because elderly patients are more likely to have decreased renal function, care 
 ## 8.6 Renal Impairment
 
 Significantly reduced renal function can affect the response to furosemide.
-The On-body Infusor will deliver only an 80 mg dose of furosemide, and patients with significantly reduced renal function may require additional diuretic therapy.
+The FUROSCIX ReadyFlow and the On-body Infusor will deliver only an 80 mg dose of furosemide, and patients with significantly reduced renal function may require additional diuretic therapy.
 
 ## 8.7 Hepatic Impairment
 
