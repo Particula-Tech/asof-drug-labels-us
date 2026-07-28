@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described elsewhere in the labeling: • Anaphylaxis and Hypersensitivity [see Contraindications (4), Warnings and Precautions (5.1)] • Marked Bradycardia [see Warnings and Precautions (5.2)]
+The following serious adverse reactions are described elsewhere in the labeling: • Anaphylaxis and Hypersensitivity [see Contraindications (4),Warnings and Precautions (5.1)] • Marked Bradycardia [see Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -10,6 +10,7 @@ The population was 18 to 92 years old, 47% male and 53% female, 34% ASA (America
 Most subjects received a single dose of sugammadex 2 mg/kg or 4 mg/kg.
 Adverse reactions reported in ≥10% of patients at a 2, 4, or 16 mg/kg sugammadex dose with a rate higher than the placebo rate are: vomiting, pain, nausea, hypotension, and headache.
 All adverse reactions occurring in ≥2% of subjects treated with sugammadex and more often than placebo for adult subjects who received anesthesia and/or neuromuscular blocking agent in pooled Phase 1 to 3 studies are presented in Table 2.
+
 Table 2: Percent of Subject Exposures in Pooled Phase 1 to 3 Studies with Adverse Reactions Incidence ≥2%
 
 |  | Sugammadex |  |  | Placebo |
@@ -66,7 +67,38 @@ Table 2: Percent of Subject Exposures in Pooled Phase 1 to 3 Studies with Advers
 | Surgical and medical procedures |  |  |  |  |
 | Hysterectomy | 0 | 0 | 2 (2) | 0 |
 
-*Combinations of preferred terms are as follows: Nausea includes preferred terms nausea and procedural nausea Vomiting includes preferred terms vomiting and procedural vomiting Abdominal pain includes preferred terms abdominal pain, abdominal pain upper, abdominal discomfort, abdominal pain lower, and epigastric discomfort Pain includes preferred terms pain and procedural pain Red blood cell count decreased includes preferred terms red blood cell count decreased, hemoglobin decreased, and hematocrit decreased Electrocardiogram QT interval abnormal includes preferred terms electrocardiogram QT interval abnormal and electrocardiogram QT interval prolonged Hypertension includes preferred terms hypertension, procedural hypertension, and blood pressure increased Hypotension includes preferred terms hypotension, procedural hypotension, and blood pressure decreased Tachycardia includes preferred terms tachycardia and heart rate increased Bradycardia includes preferred terms bradycardia and heart rate decreased Anaphylaxis and Hypersensitivity Hypersensitivity reactions, including anaphylaxis, have occurred in both premarketing clinical trials and in post-marketing spontaneous reports.
+* Combinations of preferred terms are as follows:
+
+Nausea includes preferred terms nausea and procedural nausea Vomiting includes preferred terms vomiting and procedural vomiting Abdominal pain includes preferred terms abdominal pain, abdominal pain upper, abdominal discomfort, abdominal pain lower, and epigastric discomfort Pain includes preferred terms pain and procedural pain Red blood cell count decreased includes preferred terms red blood cell count decreased, hemoglobin decreased, and hematocrit decreased Electrocardiogram QT interval abnormal includes preferred terms electrocardiogram QT interval abnormal and electrocardiogram QT interval prolonged Hypertension includes preferred terms hypertension, procedural hypertension, and blood pressure increased Hypotension includes preferred terms hypotension, procedural hypotension, and blood pressure decreased Tachycardia includes preferred terms tachycardia and heart rate increased Bradycardia includes preferred terms bradycardia and heart rate decreased
+
+Pediatric Patients 2 to <17 years of age The safety of sugammadex has been assessed in a randomized, active-controlled study of pediatric patients 2 to <17 years of age, with 242 receiving treatment with sugammadex.
+Adverse events occurring in ≥5% of pediatric patients are presented in Table 3.
+The safety profile was generally consistent with that observed in adults.
+
+Table 3: Pediatric Patients (2 to <17 years of age) with Adverse Events Incidence ≥5% in One or More Treatment Groups Up to 7 Days Post-Treatment
+
+|  | Sugammadex 2 mg/kg |  | Sugammadex 4 mg/kg |  |
+| --- | --- | --- | --- | --- |
+| n | (%) | n | (%) |  |
+| Subjects in population | 51 |  | 191 |  |
+| with one or more specific adverse events | 40 | (78) | 143 | (75) |
+| with no specific adverse events | 11 | (22) | 48 | (25) |
+| Cardiac disorders | 5 | (10) | 16 | (8) |
+| Bradycardia ∗ | 5 | (10) | 13 | (7) |
+| Eye disorders | 3 | (6) | 1 | (1) |
+| Gastrointestinal disorders | 8 | (16) | 35 | (18) |
+| Nausea | 1 | (2) | 12 | (6) |
+| Vomiting | 4 | (8) | 20 | (10) |
+| Injury, poisoning and procedural complications | 34 | (67) | 121 | (63) |
+| Incision site pain | 3 | (6) | 6 | (3) |
+| Procedural nausea | 4 | (8) | 9 | (5) |
+| Procedural pain | 30 | (59) | 111 | (58) |
+| Procedural vomiting | 3 | (6) | 5 | (3) |
+
+∗Combines preferred terms of bradycardia and sinus bradycardia Every subject is counted a single time for each applicable row and column.
+A system organ class or specific adverse event appears in this table only if its incidence in one or more of the columns meets the incidence criterion in the table title, after rounding.
+
+Anaphylaxis and Hypersensitivity Hypersensitivity reactions, including anaphylaxis, have occurred in both premarketing clinical trials and in post-marketing spontaneous reports.
 In a dedicated hypersensitivity study in healthy volunteers, the frequency of anaphylaxis was 0.3% [see Warnings and Precautions (5.1)].
 These reactions varied from isolated skin reactions to serious systemic reactions (i.e., anaphylaxis, anaphylactic shock) and have occurred in patients with no prior exposure to sugammadex.
 Symptoms associated with these reactions can include: flushing, urticaria, erythematous rash, (severe) hypotension, tachycardia, swelling of tongue, swelling of pharynx, bronchospasm and pulmonary obstructive events.
@@ -79,18 +111,21 @@ There was a single case of adjudicated anaphylaxis after the first dose of sugam
 The frequency of anaphylaxis for the 299 healthy volunteers treated with intravenous sugammadex was 0.3%.
 There was no evidence of increased frequency or severity of hypersensitivity with repeat dosing.
 In a previous study of similar design, there were three adjudicated cases of anaphylaxis, all after sugammadex 16 mg/kg (incidence 1% in the 298 healthy volunteers treated with sugammadex).
-Recurrence of Neuromuscular Blockade In clinical studies with subjects treated with rocuronium or vecuronium, where sugammadex was administered using a dose labeled for the depth of neuromuscular blockade (N=2022), an incidence of <1% was observed for recurrence of neuromuscular blockade as based on neuromuscular monitoring or clinical evidence [see Warnings and Precautions (5.8)].
+Recurrence of Neuromuscular Blockade
+
+In clinical studies with subjects treated with rocuronium or vecuronium, where sugammadex was administered using a dose labeled for the depth of neuromuscular blockade (N=2022), an incidence of <1% was observed for recurrence of neuromuscular blockade as based on neuromuscular monitoring or clinical evidence [see Warnings and Precautions (5.8)].
 Bronchospasm In one dedicated clinical trial and in post-marketing data, in patients with a history of pulmonary complications [see Use in Specific Populations (8.9)], bronchospasm was reported as a possibly related adverse event.
-Pediatric use information is approved for Merck Sharp & Dohme Corp., a subsidiary of Merck & Co. Inc.’s Bridion ®(Sugammadex Injection).
-However, due to Merck Sharp & Dohme Corp., a subsidiary of Merck & Co. Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+
+Additional pediatric use information is approved for Merck Sharp & Dohme LLC’s BRIDION ®(sugammadex) injection.
+However, due to Merck Sharp & Dohme LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Post-Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of sugammadex.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Cardiac Disorders: Cases of marked bradycardia and bradycardia with cardiac arrest have been observed within minutes after administration of sugammadex [see Warnings and Precautions (5.2)].
+Cardiac Disorders:Cases of marked bradycardia and bradycardia with cardiac arrest have been observed within minutes after administration of sugammadex [see Warnings and Precautions (5.2)].
 Other cardiac rhythm abnormalities have included atrial fibrillation, atrioventricular block, cardiac/cardiorespiratory arrest, electrocardiographic (ECG) ST segment changes, supraventricular tachycardia/extrasystoles, tachycardia, ventricular fibrillation, and ventricular tachycardia.
 Anaphylaxis associated with ECG ST segment changes (elevation or depression) consistent with myocardial ischemia or coronary spasm has also been reported.
-General Disorders and Administration Site Conditions:Cases of sugammadex not having the intended effect.
-Immune System Disorders:Hypersensitivity events including anaphylactic shock, anaphylactic reaction, anaphylactoid reaction, and Type 1 hypersensitivity have been reported [see Warnings and Precautions (5.1)].
+General Disorders and Administration Site Conditions: Cases of sugammadex not having the intended effect.
+Immune System Disorders: Hypersensitivity events including anaphylactic shock, anaphylactic reaction, anaphylactoid reaction, and Type 1 hypersensitivity have been reported [see Warnings and Precautions (5.1)].
 Respiratory, Thoracic, and Mediastinal Disorders: Events of laryngospasm, dyspnea, wheezing, pulmonary edema, and respiratory arrest have been reported.

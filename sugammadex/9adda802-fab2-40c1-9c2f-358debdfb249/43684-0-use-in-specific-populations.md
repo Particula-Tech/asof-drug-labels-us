@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary There are no clinical trial data on sugammadex use in pregnant women to inform any drug-associated risks.
+Risk Summary
+
+There are no clinical trial data on sugammadex use in pregnant women to inform any drug-associated risks.
 The available data from the pharmacovigilance safety database and published literature on sugammadex use in pregnant women are insufficient to identify a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 In animal reproduction studies, there was no evidence of malformations following daily intravenous administration of sugammadex to rats and rabbits during organogenesis at exposures of up to 6 and 8 times, respectively, the maximum recommended human dose (MRHD) of 16 mg/kg.
 However, there was an increase in the incidence of incomplete ossification of the sternebra and reduced fetal body weights in the rabbit study at 8 times the MRHD, which is a dose level in which maternal toxicity was also observed.
@@ -17,6 +19,7 @@ In addition, incomplete ossification of sternebra, and unossified 1st metacarpal
 Maternal toxicity was also observed at 200 mg/kg.
 Considering the observed effects of sugammadex on bone [see Nonclinical Toxicology (13.2)], it is possible that these findings may be attributable to drug.
 There was no evidence of malformations at any dose.
+
 In a prenatal and postnatal development study, pregnant rats were administered sugammadex intravenously at 0, 30, 120, and 500 mg/kg (0.3, 1, and 6 times the MRHD, respectively, based on AUC comparison) from Gestational Day (GD) 6 to Postnatal Day (PND) 21 (corresponding to the beginning of organogenesis through parturition and subsequent pup weaning).
 Postnatal loss during PND 1 to 4 was noted across control litters and treated litters from dams receiving sugammadex as a result of pup cannibalization by dams.
 Overall incidence of affected litters was 2, 1, 4, and 3 litters, respectively, at 0, 30, 120, or 500 mg/kg/day.
@@ -39,7 +42,9 @@ Advise female patients of reproductive potential using hormonal contraceptives t
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in patients younger than 2 years of age have not been established.
+The safety and effectiveness of sugammadex for reversal of neuromuscular blockade induced by rocuronium bromide or vecuronium bromide have been established in pediatric patients aged 2 years and older.
+Use of sugammadex in these age groups is supported by evidence from adequate and well-controlled studies of sugammadex [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
+In pediatric patients, the safety profile is generally consistent with that observed in adults [see Adverse Reactions (6.1)].
 Juvenile Animal Studies In a bone deposition study, sugammadex concentrations were significantly higher in juvenile rats compared to adult rats (13% vs. 3% of the administered dose, respectively) following a single intravenous (IV) dose at 30 mg/kg (0.3 times the MRHD based on adult AUC comparison).
 In a juvenile animal bone toxicity study, 7-day old rats were dosed intravenously once daily for 28 days with 0, 30, 120, and 500 mg/kg sugammadex (approximately 0.1, 0.6, and 3 times the MRHD, respectively, by adult AUC comparison).
 Sugammadex at 120 and 500 mg/kg decreased ulna and femur bone lengths by approximately 3%, which did not recover after an 8-week treatment-free period.
@@ -48,8 +53,8 @@ In molars, this effect was only observed at 500 mg/kg.
 The no-observed-effect-level (NOEL) was 30 mg/kg.
 In a second juvenile animal bone toxicity study, 7-day old rats were dosed once weekly for 8 weeks with 0, 7.5, 30, and 120 mg/kg (up to 1.2 times the MRHD of 16 mg/kg based on adult AUC comparison).
 No adverse effects on bone or teeth were noted.
-Pediatric use information is approved for Merck Sharp & Dohme Corp., a subsidiary of Merck & Co. Inc.’s Bridion ®(Sugammadex Injection).
-However, due to Merck Sharp & Dohme Corp., a subsidiary of Merck & Co. Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Additional pediatric use information is approved for Merck Sharp & Dohme LLC’s BRIDION ®(sugammadex) injection.
+However, due to Merck Sharp & Dohme LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
@@ -58,7 +63,7 @@ The median time to recovery of the TOF (T 4/T 1) ratio to 0.9 in 18 to 64 year-o
 For time to recovery from neuromuscular blockade induced by rocuronium following administration of 4 mg/kg sugammadex given at 1 to 2 PTCs, results across clinical trials revealed a median recovery of 2.5 minutes for geriatric patients (≥65 years, N=63) versus 2.0 minutes, for adults aged 18 to 64 years (N=359).
 Hence no dose adjustment is necessary in geriatric patients with normal organ function [see Dosage and Administration (2.2)].
 This drug is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see U se in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
@@ -93,3 +98,11 @@ Patients received 2 mg/kg or 4 mg/kg sugammadex, as appropriate for level of blo
 Pooled across depth of block and neuromuscular blocking agent, the median time to recover to a train-of-four (TOF) ratio ≥0.9 in patients dosed by ABW (1.8 minutes) was statistically significantly faster compared to patients dosed by IBW (3.3 minutes).
 The adverse reaction profile was generally similar to the profile in adult patients in pooled Phase 1 to 3 studies [see Adverse Reactions (6.1)].
 No dosage adjustment is necessary [see Dosage and Administration (2.2)].
+
+## 8.11 American Society of Anesthesiologists Class 3 or 4 Patients
+
+One trial of 331 patients who were assessed as ASA Class 3 or 4 investigated the incidence of treatment-emergent arrhythmias (sinus bradycardia, sinus tachycardia, or other cardiac arrhythmias) after administration of sugammadex.
+In patients receiving sugammadex (2 mg/kg, 4 mg/kg, or 16 mg/kg), the number (%) of patients with treatment-emergent sinus bradycardia (up to 35 minutes post-administration of sugammadex) was 1/105 (1.0%) in the 2 mg/kg sugammadex treatment group, 2/107 (1.9%) in the 4 mg/kg sugammadex treatment group, and 5/68 (7.4%) in the 16 mg/kg sugammadex treatment group, compared to 4/51 (7.8%) in the neostigmine (50 μg/kg up to 5 mg maximum dose) + glycopyrrolate (10 μg/kg up to 1 mg maximum dose) treatment group.
+The number of patients with treatment-emergent sinus tachycardia (up to 35 minutes post-administration of sugammadex) was 7/105 (6.7%) in the 2 mg/kg sugammadex treatment group, 10/107 (9.3%) in the 4 mg/kg sugammadex treatment group, and 6/68 (8.8%) in the 16 mg/kg sugammadex treatment group, compared to 11/51 (21.6%) in the neostigmine + glycopyrrolate treatment group.
+The number of other treatment-emergent arrhythmias (up to 35 minutes post administration of sugammadex) was 1/105 (1.0%) in the 2 mg/kg sugammadex treatment group, 0/107 (0%) in the 4 mg/kg sugammadex treatment group, and 1/68 (1.5%) in the 16 mg/kg sugammadex treatment group, compared to 1/51 (2.0%) in the neostigmine + glycopyrrolate treatment group.
+The adverse reaction profiles in ASA Class 3 and 4 patients were generally similar to those in adult patients in pooled Phase 1 to 3 studies; therefore, no dosage adjustment is necessary [see Dosage and Administration (2.1), Adverse Reactions (6.1)].

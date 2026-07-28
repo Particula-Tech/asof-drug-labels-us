@@ -15,6 +15,7 @@ The recovery to TOF ratio to 0.9 could therefore be delayed in patients who have
 In vitrobinding studies indicate that sugammadex may bind to progestogen, thereby decreasing progestogen exposure.
 Therefore, the administration of a bolus dose of sugammadex is considered to be equivalent to missing dose(s) of oralcontraceptives containing an estrogen or progestogen.
 If an oral contraceptive is taken on the same day that sugammadex is administered, the patient must use an additional, non-hormonal contraceptive method or back-up method of contraception (such as condoms and spermicides) for the next 7 days.
+
 In the case of non-oralhormonal contraceptives, the patient must use an additional, non-hormonal contraceptive method or back-up method of contraception (such as condoms and spermicides) for the next 7 days.
 
 ## 7.4 Interference with Laboratory Tests

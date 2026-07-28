@@ -8,6 +8,7 @@ The nature and frequency of anaphylaxis and hypersensitivity associated with sug
 The frequency of anaphylaxis for the 299 healthy volunteers treated with intravenous sugammadex was 0.3% (n=1 in the sugammadex 16 mg/kg group on the first dose).
 Signs and symptoms included conjunctival edema, urticaria, erythema, swelling of the uvula and reduction in peak expiratory flow within 5 minutes of dose administration.
 The most common hypersensitivity adverse reactions reported were nausea, pruritus and urticaria and showed a dose response relationship, occurring more frequently in the 16 mg/kg group compared to the 4 mg/kg and placebo groups.
+
 Anaphylaxis has also been reported in the post-marketing setting, including at doses less than 16 mg/kg.
 The most commonly described clinical features in reports of anaphylaxis were dermatologic symptoms (including urticaria, rash, erythema, flushing and skin eruption); and clinically important hypotension often requiring the use of vasopressors for circulatory support.
 In addition, prolonged hospitalization and/or the use of additional respiratory support until full recovery (re-intubation, prolonged intubation, manual or mechanical ventilation) have been noted in a number of the anaphylaxis reports.
@@ -32,6 +33,7 @@ Thus, it is important to monitor ventilation until recovery occurs.
 ## 5.5 Waiting Times for Re-Administration of Neuromuscular Blocking Agents for Intubation Following Reversal with Sugammadex
 
 A minimum waiting time is necessary before administration of a steroidal neuromuscular blocking agent after administration of sugammadex.
+
 Table 1: Re-administration of Rocuronium or Vecuronium after Reversal (up to 4 mg/kg Sugammadex)
 
 | Minimum Waiting Time | NMBA and Dose to be Administered |
@@ -40,6 +42,7 @@ Table 1: Re-administration of Rocuronium or Vecuronium after Reversal (up to 4 m
 | 4 hours | 0.6 mg/kg rocuronium or 0.1 mg/kg vecuronium |
 
 When rocuronium 1.2 mg/kg is administered within 30 minutes after reversal with sugammadex, the onset of neuromuscular blockade may be delayed up to approximately 4 minutes and the duration of neuromuscular blockade may be shortened up to approximately 15 minutes.
+
 The recommended waiting time in patients with mild or moderate renal impairment for re-use of 0.6 mg/kg rocuronium or 0.1 mg/kg vecuronium after reversal with up to 4 mg/kg sugammadex should be 24 hours.
 If a shorter waiting time is required, the rocuronium dose for a new neuromuscular blockade should be 1.2 mg/kg.
 For re-administration of rocuronium or administration of vecuronium after reversal of rocuronium with 16 mg/kg sugammadex, a waiting time of 24 hours is suggested.

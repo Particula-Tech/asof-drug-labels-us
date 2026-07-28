@@ -37,7 +37,13 @@ In a second study comparing subjects with moderate or severe renal impairment to
 Exposure was 2-fold and 5-fold higher in subjects with moderate and severe renal impairment, respectively.
 Sugammadex concentrations were no longer detectable beyond 7 days post-dose in subjects with severe renal impairment.
 Geriatric Patients Geriatric patients may have mild or moderate renal impairment.
-Population pharmacokinetic analysis indicated that, beyond the effects of a decreased creatinine clearance, increased age has limited impact on sugammadex PK parameters [see Use in Specific Populations (8.5,8.6)].
+Population pharmacokinetic analysis indicated that, beyond the effects of a decreased creatinine clearance, increased age has limited impact on sugammadex PK parameters [see Use in Specific Populations (8.5, 8.6)].
+Pediatric Patients The pharmacokinetics of sugammadex in pediatric patients have been evaluated following administration of intravenous doses of 2 or 4 mg/kg sugammadex administered for reversal of moderate or deep neuromuscular blockade, respectively.
+In one study, sugammadex pharmacokinetic parameters were estimated in pediatric patients 2 to <17 years of age with patients enrolled into 3 age groups (2 to <6, 6 to <12 and 12 to <17 years of age).
+Sugammadex exposure (AUC 0-infand C max) increased in a dose-dependent, linear manner following administration of 2 or 4 mg/kg across patients 2 to <17 years of age.
+Sugammadex exposure was approximately 40% lower in patients 2 to <6 years of age following administration of 2 or 4 mg/kg sugammadex compared to older pediatric patients (6 to <17 years) and adults; however, this difference was not clinically relevant [see Clinical Studies (14.1)].
+Both clearance and volume of distribution increase with increasing age in pediatric patients, whereas elimination half-life is generally similar across pediatric patients.
+As a result, the observed steady-state volume of distribution of sugammadex is approximately 3 to 10 liters and clearance is approximately 38 to 95 mL/min resulting in a half-life of approximately 1-2 hours in pediatric patients 2 to <17 years of age.
 Sex No pharmacokinetic differences between male and female subjects were observed.
 Race In a study in healthy Japanese and Caucasian subjects no clinically relevant differences in pharmacokinetic parameters were observed.
 Limited data do not indicate differences in pharmacokinetic parameters in Black or African Americans.
@@ -46,5 +52,5 @@ Sugammadex exposure increased in a dose-dependent, linear manner following admin
 No clinically relevant differences in pharmacokinetic parameters were observed between obese patients and the general population, when dosed according to ABW.
 [See Use in Specific Populations (8.10).]
 Systemic exposure of sugammadex is approximately 50% lower with IBW dosing compared to ABW.
-Pediatric use information is approved for Merck Sharp & Dohme Corp., a subsidiary of Merck & Co. Inc.’s Bridion ®(Sugammadex Injection).
-However, due to Merck Sharp & Dohme Corp., a subsidiary of Merck & Co. Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Additional pediatric use information is approved for Merck Sharp & Dohme LLC’s BRIDION ®(sugammadex) injection.
+However, due to Merck Sharp & Dohme LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
