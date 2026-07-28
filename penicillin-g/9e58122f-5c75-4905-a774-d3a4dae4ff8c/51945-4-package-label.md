@@ -28,11 +28,9 @@ Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-PL 2040 Plastic 07-34-00-1034
+07-34-00-1034
 
-*BAR CODE POSITION ONLY
-
-303381023416
+BAR CODE 303381023416
 
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
@@ -104,9 +102,9 @@ Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-PL 2040 Plastic 07-34-00-1035
+07-34-00-1035
 
-*BAR CODE POSITION ONLY 303381025410
+BAR CODE 303381025410
 
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
