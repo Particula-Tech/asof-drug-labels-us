@@ -14,7 +14,7 @@ In a Positron Emission Tomography (PET) study with SUBLOCADE in 2 subjects (one 
 The opioid blockade study evaluated the blockade of subjective opioid effects, pharmacokinetics (PK) and safety of subcutaneous injections of SUBLOCADE.
 Stabilization doses of SL buprenorphine prior to injection of SUBLOCADE failed to provide full blockade of subjective effects of hydromorphone 18 mg IM.
 After SUBLOCADE injections at Weeks 0 and 4, on average, subjective effects of both 6 mg and 18 mg doses of hydromorphone were blocked; however, wide variability was seen across subjects.
-Complete blockade continued throughout the 8 weeks of observation that followed the 2ndSUBLOCADE injection [see Clinical Studies (14.1)].
+Complete blockade continued throughout the 8 weeks of observation that followed the 2 ndSUBLOCADE injection [see Clinical Studies (14.1)].
 
 Figure 10illustrates the relationship between buprenorphine plasma level and drug liking after 18 mg hydromorphone IM.
 
@@ -36,14 +36,14 @@ Review of ECG and adverse event data provided no evidence for syncope, seizure, 
 Physiological Effects
 
 Buprenorphine in IV (2, 4, 8, 12 and 16 mg) and sublingual (12 mg) doses have been administered to opioid-experienced subjects who were not physically dependent to examine cardiovascular, respiratory, and subjective effects at doses comparable to those used for treatment of opioid dependence.
-Compared to placebo, there were no statistically significant differences among any of the treatment conditions for blood pressure, heart rate, respiratory rate, O2 saturation, or skin temperature across time.
+Compared to placebo, there were no statistically significant differences among any of the treatment conditions for blood pressure, heart rate, respiratory rate, O 2saturation, or skin temperature across time.
 Systolic BP was higher in the 8 mg group than placebo (3 hour AUC values).
 Minimum and maximum effects were similar across all treatments.
 Subjects remained responsive to low voice and responded to computer prompts.
 Some subjects showed irritability, but no other changes were observed.
 The respiratory effects of sublingual buprenorphine were compared with the effects of methadone in a double-blind, parallel group, dose ranging comparison of single doses of buprenorphine sublingual solution (1, 2, 4, 8, 16, or 32 mg) and oral methadone (15, 30, 45, or 60 mg) in non-dependent, opioid-experienced volunteers.
 In this study, hypoventilation not requiring medical intervention was reported more frequently after buprenorphine doses of 4 mg and higher than after methadone.
-Both drugs decreased O2 saturation to the same degree.
+Both drugs decreased O 2saturation to the same degree.
 
 In clinical studies conducted with SUBLOCADE at doses ranging from 50 to 300 mg, no incidences of temperature elevations, or clinically significant lowering of oxygen saturation were observed.
 
@@ -78,20 +78,20 @@ Absorption
 
 The pharmacokinetics (PK) of buprenorphine following subcutaneous injection of SUBLOCADE was evaluated in subjects with opioid use disorder after single doses (50 mg to 200 mg) and repeated doses (50 to 300 mg) separated by 28 days for up to 12 injections.
 
-After SUBLOCADE injection, an initial buprenorphine peak was observed and the median Tmax occurred at 24 hours after injection.
+After SUBLOCADE injection, an initial buprenorphine peak was observed and the median T maxoccurred at 24 hours after injection.
 After the initial buprenorphine peak, the plasma buprenorphine concentrations decreased slowly to a plateau.
 Steady-state was achieved at 4-6 months.
 
-Mean buprenorphine plasma concentrations levels for Cavg, Cmax and Ctrough at steady-state are presented in Table 7for SUBLOCADE in comparison to daily transmucosal buprenorphine.
+Mean buprenorphine plasma concentrations levels for C avg, C maxand C troughat steady-state are presented in Table 7for SUBLOCADE in comparison to daily transmucosal buprenorphine.
 
-Table 7 Comparison of Steady-state Buprenorphine Plasma Exposure Between Daily Transmucosal Buprenorphine and Once Monthly SUBLOCADE at Trough (Ctrough), Average (Cavg) and Peak (Cmax) Levels (Geometric Mean (CV%))
+Table 7 Comparison of Steady-state Buprenorphine Plasma Exposure Between Daily Transmucosal Buprenorphine and Once Monthly SUBLOCADE at Trough (C trough), Average (C avg) and Peak (C max) Levels (Geometric Mean (CV%))
 
 | Pharmacokinetic parameters | Transmucosal Buprenorphine |  |  |  | SUBLOCADE |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 8 mg | 12 mg | 16 mg | 24 mg | 100 mg | 300 mg |  |
-| Cavg,ss(ng/mL) | 1.37 (40) | 1.79 (40) | 2.16 (40) | 2.84 (40) | 2.87 (32) | 6.32 (32) |
-| Cmax,ss(ng/mL) | 4.27 (45) | 5.60 (45) | 6.77 (45) | 8.86 (45) | 5.10 (33) | 11.81 (35) |
-| Ctrough,ss(ng/mL) | 0.66 (63) | 0.87 (63) | 1.04 (61) | 1.37 (62) | 2.46 (40) | 5.47 (39) |
+| C avg,ss(ng/mL) | 1.37 (40) | 1.79 (40) | 2.16 (40) | 2.84 (40) | 2.87 (32) | 6.32 (32) |
+| C max,ss(ng/mL) | 4.27 (45) | 5.60 (45) | 6.77 (45) | 8.86 (45) | 5.10 (33) | 11.81 (35) |
+| C trough,ss(ng/mL) | 0.66 (63) | 0.87 (63) | 1.04 (61) | 1.37 (62) | 2.46 (40) | 5.47 (39) |
 
 At steady state, buprenorphine plasma concentrations achieved with 100 mg monthly dosing are contained within the range obtained with transmucosal treatment; peak concentrations with SUBLOCADE may be lower, while average and trough concentrations may be higher.
 Potential differences in steady state levels need to be taken into consideration when transitioning a patient established on long term treatment with transmucosal buprenorphine to SUBLOCADE.
@@ -159,5 +159,5 @@ Population PK analyses indicated no notable relationship between creatinine clea
 
 HCV infection
 
-In subjects with HCV infection but no sign of hepatic impairment, the changes in the mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant in comparison to healthy subjects without HCV infection.
+In subjects with HCV infection but no sign of hepatic impairment, the changes in the mean C max, AUC 0-last, and half-life values of buprenorphine were not clinically significant in comparison to healthy subjects without HCV infection.
 No dose adjustment is needed in patients with HCV infection.

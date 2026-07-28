@@ -9,9 +9,9 @@ There are limited data from randomized clinical trials in women maintained on bu
 
 Observational studies have reported congenital malformations among buprenorphine‐exposed pregnancies, but were also not designed appropriately to assess the risk of congenital malformations specifically due to buprenorphine exposure [see Human Data].
 
-In animal reproduction studies with SUBLOCADE, SUBLOCADE administered subcutaneously to pregnant rats and rabbits during the period of organogenesis at a buprenorphine dose equivalent to 38 and 15 times, respectively, the maximum recommended human dose (MRHD) of 300 mg caused embryolethality, which appeared to be attributable primarily to the SUBLOCADE vehicle (ATRIGEL®delivery system).
+In animal reproduction studies with SUBLOCADE, SUBLOCADE administered subcutaneously to pregnant rats and rabbits during the period of organogenesis at a buprenorphine dose equivalent to 38 and 15 times, respectively, the maximum recommended human dose (MRHD) of 300 mg caused embryolethality, which appeared to be attributable primarily to the SUBLOCADE vehicle (ATRIGEL ®delivery system).
 In addition, reduced fetal body weights, increased visceral malformations and skeletal malformations were observed in rats and rabbits at buprenorphine doses equivalent to 38 and 15 times, respectively, the MRHD.
-These effects were also observed with the ATRIGEL®delivery system alone, but the skeletal and visceral malformations in rat appear at least partially attributable to buprenorphine [see Animal Data].
+These effects were also observed with the ATRIGEL ®delivery system alone, but the skeletal and visceral malformations in rat appear at least partially attributable to buprenorphine [see Animal Data].
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -41,7 +41,7 @@ Labor or Delivery
 Opioid-dependent women on buprenorphine maintenance therapy may require additional analgesia during labor.
 As with all opioids, use of buprenorphine prior to delivery may result in respiratory depression in the newborn.
 Closely monitor neonates for signs of respiratory depression.
-An opioid overdose reversal agent, such as naloxone or nalmefene, should be available for reversal of opioid induced respiratory depression in the neonate.
+An opioid antagonist such as naloxone should be available for reversal of opioid induced respiratory depression in the neonate.
 
 Data
 
@@ -57,14 +57,14 @@ They reported no significant difference in the incidence of NOWS, but in the pre
 
 Animal Data
 
-In an embryofetal development study in rats, SUBLOCADE administered subcutaneously to pregnant animals before mating and again on Gestation Day (GD) 7 during the period of organogenesis resulted in increased post-implantation loss, which correlated with higher mean number of resorptions and decreased number of viable fetuses per litter, and decreased mean fetal body weights at 900 mg/kg (approximately 38 times the maximum recommended human dose [MRHD] of 300 mg of SUBLOCADE on an AUC basis); however, similar effects were observed with an equivalent level of ATRIGEL®delivery system alone, indicating they may be attributable to the vehicle.
+In an embryofetal development study in rats, SUBLOCADE administered subcutaneously to pregnant animals before mating and again on Gestation Day (GD) 7 during the period of organogenesis resulted in increased post-implantation loss, which correlated with higher mean number of resorptions and decreased number of viable fetuses per litter, and decreased mean fetal body weights at 900 mg/kg (approximately 38 times the maximum recommended human dose [MRHD] of 300 mg of SUBLOCADE on an AUC basis); however, similar effects were observed with an equivalent level of ATRIGEL ®delivery system alone, indicating they may be attributable to the vehicle.
 Dose-related increases in incidences of skeletal malformations of the head and visceral malformations were observed with SUBLOCADE with significant changes at 900 mg/kg (approximately 38 times the MRHD on an AUC basis).
-Although similar effects were observed with equivalent levels of ATRIGEL®delivery system, the incidence of skeletal malformations, primarily skull malformations, was higher in the SUBLOCADE groups suggesting that buprenorphine contributed to the increased incidence.
+Although similar effects were observed with equivalent levels of ATRIGEL ®delivery system, the incidence of skeletal malformations, primarily skull malformations, was higher in the SUBLOCADE groups suggesting that buprenorphine contributed to the increased incidence.
 Based on these results, the NOAEL for developmental toxicity was approximately 15 times the MRHD on an AUC basis.
 
 In an embryofetal development study in rabbits, administration of a single subcutaneous injection of SUBLOCADE to pregnant animals on GD 7 during the period of organogenesis resulted an increased litter incidence of skeletal malformations at 155 mg/kg (approximately 7 times the MRHD on an AUC basis), which appear to be buprenorphine-related adverse effects.
-There was also an increased litter incidence of external malformations, visceral, and skeletal malformations and variations at 390 mg/kg SUBLOCADE (approximately 15 times the MRHD on an AUC basis); however, similar effects were observed with an equivalent level of the ATRIGEL®delivery system, indicating they may be attributable to the vehicle.
-In addition, increased post-implantation loss, which correlated with increased mean number of resorptions and decreased mean number of viable fetuses, and decreased fetal body weights were observed at 390 mg/kg (approximately 15 times the MRHD on an AUC basis); however, similar findings were also observed with an equivalent level of the ATRIGEL®delivery system alone.
+There was also an increased litter incidence of external malformations, visceral, and skeletal malformations and variations at 390 mg/kg SUBLOCADE (approximately 15 times the MRHD on an AUC basis); however, similar effects were observed with an equivalent level of the ATRIGEL ®delivery system, indicating they may be attributable to the vehicle.
+In addition, increased post-implantation loss, which correlated with increased mean number of resorptions and decreased mean number of viable fetuses, and decreased fetal body weights were observed at 390 mg/kg (approximately 15 times the MRHD on an AUC basis); however, similar findings were also observed with an equivalent level of the ATRIGEL ®delivery system alone.
 Based on these results, the NOAEL for developmental toxicity for SUBLOCADE was 78 mg/kg (approximately 2 times the MRHD on an AUC basis).
 
 In a pre- and postnatal development study in rats, SUBLOCADE was administered subcutaneously to pregnant animals once during implantation (on GD 7) and once during weaning (on Lactation Day 7).
@@ -89,7 +89,7 @@ Data were consistent from two studies (N=13) of breastfeeding infants whose moth
 
 In a study of six lactating women who were taking a median sublingual buprenorphine dose of 0.29 mg/kg/day 5 to 8 days after delivery, breast milk provided a median infant dose of 0.42 mcg/kg/day of buprenorphine and 0.33 mcg/kg/day of norbuprenorphine, equal to 0.2% and 0.12%, respectively, of the maternal weight-adjusted dose (relative dose/kg (%) of norbuprenorphine was calculated from the assumption that buprenorphine and norbuprenorphine are equipotent).
 
-Data from a study of seven lactating women who were taking a median sublingual buprenorphine dose of 7 mg/day an average of 1.12 months after delivery indicated that the mean milk concentrations (Cavg) of buprenorphine and norbuprenorphine were 3.65 mcg/L and 1.94 mcg/L respectively.
+Data from a study of seven lactating women who were taking a median sublingual buprenorphine dose of 7 mg/day an average of 1.12 months after delivery indicated that the mean milk concentrations (C avg) of buprenorphine and norbuprenorphine were 3.65 mcg/L and 1.94 mcg/L respectively.
 Based on the study data, and assuming milk consumption of 150 mL/kg/day, an exclusively breastfed infant would receive an estimated mean absolute infant dose (AID) of 0.55 mcg/kg/day of buprenorphine and 0.29 mcg/kg/day of norbuprenorphine, or a mean relative infant dose (RID) of 0.38% and 0.18%, respectively, of the maternal weight-adjusted dose.
 
 ## 8.3 Females and Males of Reproductive Potential

@@ -41,26 +41,24 @@ Opioids can cause sleep-related breathing disorders including central sleep apne
 Opioid use increases the risk of CSA in a dose-dependent fashion.
 In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.7)].
 
-Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
-Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent.
-Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider recommending or prescribing an opioid overdose reversal agent for the emergency treatment of an opioid overdose, both when initiating and renewing treatment with SUBLOCADE.
-Also consider recommending or prescribing such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.2)].
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
 
-Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program).
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with SUBLOCADE.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.2)].
 
-There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
-Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
+Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with buprenorphine itself.
+Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of buprenorphine and its affinity for the mu-opioid receptor [see Overdosage (10)].
 
-Advise patients and caregivers that an opioid overdose reversal agent, such as naloxone or nalmefene, may also be administered for a known or suspected overdose with buprenorphine itself.
-Higher than normal doses and repeated administration of an opioid overdose reversal agent may be necessary due to the long duration of action of buprenorphine and its affinity for the mu-opioid receptor [see Overdosage (10)].
+Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
 
-Educate patients and caregivers on how to recognize respiratory depression, and how to use an opioid overdose reversal agent for the emergency treatment of opioid overdose.
-Emphasize the importance of calling 911 or getting emergency medical help, even if an opioid overdose reversal agent is administered.
+Educate patients and caregivers on how to recognize respiratory depression and, if naloxone is prescribed, how to treat with naloxone.
+Emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
 
 ## 5.5 Managing Risks From Concomitant Use of Benzodiazepines or Other CNS Depressants With Buprenorphine
 
-Concomitant use of buprenorphine and benzodiazepines and/or other CNS depressants (e.g., alcohol, non-benzodiazepine sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids) increases the risk of adverse reactions including overdose, respiratory depression, and death.
+Concomitant use of buprenorphine and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose, respiratory depression, and death.
 Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
 Prohibiting or creating barriers to treatment can pose an even greater risk of morbidity and mortality due to the opioid use disorder alone.
 
@@ -79,7 +77,7 @@ For patients in buprenorphine treatment, benzodiazepines are not the treatment o
 Before co-prescribing benzodiazepines, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments to address anxiety or insomnia.
 Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient's buprenorphine treatment and coordinate care to minimize the risks associated with concomitant use.
 
-If concomitant use is warranted, strongly consider recommending or prescribing an opioid overdose reversal agent, as is recommended for all patients on buprenorphine treatment for opioid use disorder [see Warnings and Precautions (5.4)].
+If concomitant use is warranted, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, as is recommended for all patients in buprenorphine treatment for opioid use disorder [see Warnings and Precautions (5.4)].
 
 In addition, take measures to confirm that patients are taking their medications as prescribed and are not diverting or supplementing with illicit drugs.
 Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].

@@ -18,7 +18,7 @@ In 2-year inhalation and dietary studies in rats, NMP did not result in evidence
 
 Mutagenicity
 
-No evidence of mutagenic potential for subcutaneous SUBLOCADE was found in in vivo subcutaneous micronucleus test using rats' marrow.
+No evidence of mutagenic potential for subcutaneous SUBLOCADE was found in in vivosubcutaneous micronucleus test using rats' marrow.
 
 Mutagenic potential for buprenorphine was studied in a series of tests utilizing gene, chromosome, and DNA interactions in both prokaryotic and eukaryotic systems.
 Results were negative in yeast (S. cerevisiae) for recombinant, gene convertant, or forward mutations; negative in Bacillus subtilis “rec” assay, negative for clastogenicity in CHO cells, Chinese hamster bone marrow and spermatogonia cells, and negative in the mouse lymphoma L5178Y assay.
@@ -28,10 +28,10 @@ Results were positive in the Green-Tweets (E. coli) survival test, positive in a
 
 Impairment of Fertility
 
-In a fertility study in rats, SUBLOCADE or ATRIGEL®was administered every 28 days for 3 months (males) or once before mating and once on GD 7; female mating, fertility, and fecundity indices were unaffected by the subcutaneous administration of SUBLOCADE up to 900 mg/kg buprenorphine (approximately 38 times the maximum recommended human dose [MRHD] of 300 mg on an AUC basis).
-However, higher mean post-implantation loss was observed with SUBLOCADE at 900 mg/kg buprenorphine and at an equivalent level of ATRIGEL®alone, which correlated with higher mean number of resorptions and reduced mean number of viable fetuses/litter size.
-Mean gravid uterine weight and mean final body weight were lower with SUBLOCADE at 900 mg/kg buprenorphine and an equivalent level of the ATRIGEL®alone, and correlated with higher mean number of resorptions and lower fetal body weights.
+In a fertility study in rats, SUBLOCADE or ATRIGEL ®was administered every 28 days for 3 months (males) or once before mating and once on GD 7; female mating, fertility, and fecundity indices were unaffected by the subcutaneous administration of SUBLOCADE up to 900 mg/kg buprenorphine (approximately 38 times the maximum recommended human dose [MRHD] of 300 mg on an AUC basis).
+However, higher mean post-implantation loss was observed with SUBLOCADE at 900 mg/kg buprenorphine and at an equivalent level of ATRIGEL ®alone, which correlated with higher mean number of resorptions and reduced mean number of viable fetuses/litter size.
+Mean gravid uterine weight and mean final body weight were lower with SUBLOCADE at 900 mg/kg buprenorphine and an equivalent level of the ATRIGEL ®alone, and correlated with higher mean number of resorptions and lower fetal body weights.
 The NOAEL for female fertility was 900 mg/kg and the NOAEL for female-mediated developmental parameters was 600 mg/kg (approximately 25 times the MRHD on an AUC basis).
 
-Male fertility and reproduction indices were lower as evidenced by abnormal sperm parameters (low motility, low mean number of sperm, and higher percentage of abnormal sperm) with SUBLOCADE at 600 mg/kg and with an equivalent level of ATRIGEL®.
+Male fertility and reproduction indices were lower as evidenced by abnormal sperm parameters (low motility, low mean number of sperm, and higher percentage of abnormal sperm) with SUBLOCADE at 600 mg/kg and with an equivalent level of ATRIGEL ®.
 The NOAEL for male fertility parameters, including sperm analysis, and male-mediated developmental parameters was 300 mg/kg (approximately 32 times the MRHD on an AUC basis).

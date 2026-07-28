@@ -5,9 +5,9 @@ It is designed to deliver buprenorphine at a controlled rate over a one month pe
 
 The active ingredient in SUBLOCADE is buprenorphine free base, a mu-opioid receptor partial agonist and a kappa-opioid receptor antagonist.
 
-Buprenorphine is dissolved in the ATRIGEL®delivery system at 18% by weight.
+Buprenorphine is dissolved in the ATRIGEL ®delivery system at 18% by weight.
 
-The ATRIGEL®delivery system is a biodegradable 50:50 poly(DL-lactide-co-glycolide) polymer and a biocompatible solvent, N-methyl-2-pyrrolidone (NMP).
+The ATRIGEL ®delivery system is a biodegradable 50:50 poly(DL-lactide-co-glycolide) polymer and a biocompatible solvent, N-methyl-2-pyrrolidone (NMP).
 
 SUBLOCADE is provided in dosage strengths of 100 mg and 300 mg.
 Table 6presents the delivered amounts of the raw materials and the approximate delivered volume for the two dosage strengths.
@@ -21,6 +21,6 @@ Table 6 Amounts of Raw Materials and Delivered Volume for the Dosage Strengths
 | N-methyl-2-pyrrolidone | 278 mg | 833 mg |
 | Approximate Delivered Volume | 0.5 mL | 1.5 mL |
 
-The molecular weight of buprenorphine free base is 467.6, and its molecular formula is C29H41NO4.
+The molecular weight of buprenorphine free base is 467.6, and its molecular formula is C 29H 41NO 4.
 Chemically, buprenorphine is (2S)-2-[17-(Cyclopropylmethyl)-4,5α-epoxy-3-hydroxy-6-methoxy-6α,14-ethano-14α-morphinan-7α-yl]-3,3-dimethylbutan-2-ol.
 The structural formula is:
