@@ -95,7 +95,7 @@ Results of a 26-week Trial of Liraglutide as Add-on to Metformin in Adults with 
 | Change from baseline (adjusted mean) b | -2.8 | -2.6 | -1.5 | +1 |
 | Difference from placebo + metformin arm (adjusted mean) b 95% Confidence Interval | -1.3*(-2.2, -0.4) | -1.1*(-2, -0.2) |  |  |
 | Difference from glimepiride + metformin arm (adjusted mean) b | -3.8** | -3.5** |  |  |
-| 95% Confidence Interval | (-4.5, -3.0) | (-4.3, -2.8) |  |  |
+| 95% Confidence Interval | (-4.5, -3) | (-4.3, -2.8) |  |  |
 | a Intent-to-treat population using last observation on studyb Least squares mean adjusted for baseline value† For glimepiride, one-half of the maximal approved United States dose.* p-value <0.05** p-value <0.0001 |  |  |  |  |
 
 Liraglutide Compared to Sitagliptin, Both as Add-on to Metformin
@@ -358,7 +358,7 @@ Liraglutide Compared to Placebo Both With or Without Metformin and/or Sulfonylur
 In this 26-week, double-blind, randomized, placebo-controlled, parallel-group trial in adult patients with type 2 diabetes mellitus, 279 patients with moderate renal impairment, as per MDRD formula (eGFR 30−59 mL/min/1.73 m2), were randomized to liraglutide or placebo once daily.
 Liraglutide was added to the patient’s stable pre-trial antidiabetic regimen (insulin therapy and/or metformin, pioglitazone, or sulfonylurea).
 The dose of liraglutide injection was escalated according to approved labeling to achieve a dose of 1.8 mg per day.
-The insulin dose was reduced by 20% at randomization for patients with baseline HbA1c ≤8% and fixed until liraglutide dose escalation was complete.
+The insulin dose was reduced by 20% at randomization for patients with baseline HbA1c ≤ 8% and fixed until liraglutide dose escalation was complete.
 Dose reduction of insulin and SU was allowed in case of hypoglycemia; up titration of insulin was allowed but not beyond the pre-trial dose.
 
 The mean age of participants was 67 years, and the mean duration of diabetes was 15 years.

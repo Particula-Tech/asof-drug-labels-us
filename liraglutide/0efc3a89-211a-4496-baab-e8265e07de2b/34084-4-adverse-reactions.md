@@ -29,7 +29,7 @@ These adverse reactions occurred more commonly on liraglutide than on placebo an
 Overall, the type, and severity of adverse reactions in pediatric patients 10 years of age and older and above were comparable to that observed in the adult population.
 
 Table 1.
-Adverse Reactions Reported in ≥5% of Adult Patients Treated with Liraglutide Injection for Type 2 Diabetes Mellitus
+Adverse Reactions Reported in ≥ 5% of Adult Patients Treated with Liraglutide Injection for Type 2 Diabetes Mellitus
 
 |  | PlaceboN=661 | Liraglutide 1.2 mgN= 645 | Liraglutide 1.8 mgN= 1,024 |
 | --- | --- | --- | --- |

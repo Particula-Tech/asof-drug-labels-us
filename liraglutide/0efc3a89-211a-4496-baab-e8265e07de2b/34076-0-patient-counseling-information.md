@@ -56,12 +56,12 @@ Liraglutide injection should be titrated at the discretion of the healthcare pro
 
 For information about liraglutide injection, contact Meitheal Pharmaceuticals Inc. at 1-844-824-8426.
 
-meitheal® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2025 Meitheal Pharmaceuticals Inc.
+meitheal® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2026 Meitheal Pharmaceuticals Inc.
 
 Mfd. by Nanjing King-Friend Biochemical Pharmaceutical Co., Ltd. Nanjing, China 210061
 
 Product of China
 
-Revised: November 2025
+Revised: March 2026
 
-8N3AAM9-03
+8N3AAM9-04

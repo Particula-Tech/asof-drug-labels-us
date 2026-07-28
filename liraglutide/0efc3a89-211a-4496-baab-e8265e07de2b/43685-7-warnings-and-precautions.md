@@ -47,7 +47,7 @@ Monitor renal function in patients reporting adverse reactions to liraglutide th
 ## 5.6 Severe Gastrointestinal Adverse Reactions
 
 Use of GLP-1 receptor agonists, including liraglutide, has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6)].
-In liraglutide injection clinical trials, severe gastrointestinal adverse reactions were reported more frequently among patients receiving liraglutide (1.2 mg 4.4%, 1.8 mg 4.2%) than placebo (1.1%).
+In liraglutide injection clinical trials, severe gastrointestinal adverse reactions were reported more frequently among patients receiving liraglutide (1.2 mg 4.4 %, 1.8 mg 4.2 %) than placebo (1.1 %).
 Severe gastrointestinal adverse reactions have also been reported postmarketing with GLP-1 receptor agonists.
 Liraglutide injection is not recommended in patients with severe gastroparesis.
 

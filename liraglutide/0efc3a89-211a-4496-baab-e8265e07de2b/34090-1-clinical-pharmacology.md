@@ -109,7 +109,7 @@ Compared to healthy subjects, liraglutide AUC in mild, moderate, and severe rena
 Patients with Hepatic Impairment
 
 The single-dose pharmacokinetics of liraglutide were evaluated in patients with varying degrees of hepatic impairment.
-Patients with mild (Child Pugh score 5-6) to severe (Child Pugh score >9) hepatic impairment were included in the trial.
+Patients with mild (Child Pugh score 5-6) to severe (Child Pugh score > 9) hepatic impairment were included in the trial.
 Compared to healthy subjects, liraglutide AUC in patients with mild, moderate and severe hepatic impairment was on average 11%, 14% and 42% lower, respectively [see Use in Specific Populations (8.7)].
 
 Drug Interaction Studies

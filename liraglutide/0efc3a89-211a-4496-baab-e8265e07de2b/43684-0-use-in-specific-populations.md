@@ -32,7 +32,7 @@ The incidence of fetal malformations in liraglutide-treated groups exceeding con
 
 Pregnant rabbits given subcutaneous doses of 0.01, 0.025 and 0.05 mg/kg/day liraglutide from gestation day 6 through day 18 inclusive, had estimated systemic exposures less than the human exposure at the MRHD of 1.8 mg/day at all doses, based on plasma AUC.
 Liraglutide decreased fetal weight and dose-dependently increased the incidence of total major fetal abnormalities at all doses.
-The incidence of malformations exceeded concurrent and historical controls at 0.01 mg/kg/day (kidneys, scapula), ≥0.01 mg/kg/day (eyes, forelimb), 0.025 mg/kg/day (brain, tail and sacral vertebrae, major blood vessels and heart, umbilicus), ≥0.025 mg/kg/day (sternum) and at 0.05 mg/kg/day (parietal bones, major blood vessels).
+The incidence of malformations exceeded concurrent and historical controls at 0.01 mg/kg/day (kidneys, scapula), ≥ 0.01 mg/kg/day (eyes, forelimb), 0.025 mg/kg/day (brain, tail and sacral vertebrae, major blood vessels and heart, umbilicus), ≥ 0.025 mg/kg/day (sternum) and at 0.05 mg/kg/day (parietal bones, major blood vessels).
 Irregular ossification and/or skeletal abnormalities occurred in the skull and jaw, vertebrae and ribs, sternum, pelvis, tail, and scapula; and dose-dependent minor skeletal variations were observed.
 Visceral abnormalities occurred in blood vessels, lung, liver, and esophagus.
 Bilobed or bifurcated gallbladder was seen in all treatment groups, but not in the control group.
