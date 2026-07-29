@@ -23,7 +23,7 @@ There have not been sufficient numbers of geriatric patients involved in control
 Of the 306 patients enrolled in the Phase 3 clinical trial utilizing Natesto, 60 were 65 years of age or older, and 9 were 75 years of age or older.
 There are insufficient long-term safety data in geriatric patients to assess the potential for increased risks of cardiovascular disease and prostate cancer.
 
-Geriatric patients treated with androgens may also be at risk for worsening of signs and symptoms of BPH [see Warnings and Precautions (5.6)].
+Geriatric patients treated with androgens may also be at risk for worsening of signs and symptoms of BPH [see Warnings and Precautions (5.5)].
 
 ## 8.6. Renal Impairment
 

@@ -8,7 +8,7 @@ Patients were Caucasian (89%), African-American (6%), Asian (5%), or of other et
 
 Patients were instructed to self-administer Natesto (11 mg of testosterone) intranasally either two or three times daily.
 
-The primary endpoint was the percentage of patients with an average serum total testosterone concentration (Cavg) within the normal range (300 to1050 ng/dL) on Day 90.
+The primary endpoint was the percentage of patients with an average serum total testosterone concentration (Cavg) within the normal range (300 to 1050 ng/dL) on Day 90.
 
 The secondary endpoint was the percentage of patients with a maximum total testosterone concentration (Cmax) above three predetermined limits: greater than 1500 ng/dL, between 1800 and 2500 ng/dL, and greater than 2500 ng/dL.
 
