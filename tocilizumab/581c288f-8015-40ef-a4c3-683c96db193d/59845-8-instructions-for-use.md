@@ -19,7 +19,8 @@ Storing AVTOZMA
 - Store the unused prefilled syringe in the original carton in a refrigerator between 36°F to 46°F (2°C to 8°C).
   Do not freeze.
 - When removed from the refrigerator, AVTOZMA can be stored up to 3 weeks at or below 77°F (25°C).
-  If not used within the 3 weeks, AVTOZMA should be thrown away (discarded).
+  If necessary, the pre-filled syringe may be returned to the refrigerator once within these 3 weeks and stored refrigerated until the expiry date.
+  The pre-filled syringe must be discarded if not used within the 3-week period.
 - Keep the prefilled syringe out of direct sunlight.
 - Do not remove the prefilled syringe from its original carton during storage.
 - Do not leave the prefilled syringe unattended.
@@ -32,20 +33,20 @@ Parts of your Prefilled Syringe (See Figure A).
 
 Preparing for the Injection
 
-|  | 1. Gather the supplies for the injection.a. Prepare a clean, flat surface, such as a table or countertop, in a well-lit area.b. Take the carton containing the preﬁlled syringe out of the refrigerator.c. Make sure you have the following supplies (see Figure B):-Carton containing AVTOZMA preﬁlled syringe Not included in the carton: - Cotton ball or gauze - Adhesive bandage - FDA-cleared sharps disposal container - Alcohol swab |
+|  | 1. Gather the supplies for the injection.a. Prepare a clean, flat surface, such as a table or countertop, in a well-lit area.b. Take the carton containing the preﬁlled syringe out of the refrigerator.c. Make sure you have the following supplies (see Figure B):-Carton containing AVTOZMA preﬁlled syringe Not included in the carton:- Cotton ball or gauze- Adhesive bandage- FDA-cleared sharps disposal container- Alcohol swab |
 | --- | --- |
 | Figure B |  |
 |  | 2. Inspect the carton (see Figure C).a. Look at the carton and make sure you have the correct medicine and dose strength. (AVTOZMA)b. Check the expiration (EXP) date on the carton to make sure the date has not passed. Do not use the prefilled syringe if the expiration (EXP) date has passed.Do not use the prefilled syringe if the carton looks like it has been opened or damaged if you are opening the carton for the first time and check to make sure that it is properly sealed. |
 | Figure C |  |
 |  | 3. Inspect the Prefilled Syringe.a. Open the carton and remove 1 single-dose prefilled syringe from the carton. Return any remaining AVTOZMA prefilled syringes in the carton to the refrigerator.b. Check the expiration (EXP) date on the AVTOZMA prefilled syringe (see Figure D). Do not use the prefilled syringe if the expiration (EXP) date has passed. If the expiration (EXP) date has passed, safely throw away (dispose of) the prefilled syringe in your FDA-cleared sharps disposal container and get a new one. c. Check the prefilled syringe to make sure it is not damaged and shows no sign of leakage. Do not use the prefilled syringe if it has been dropped, damaged, or has leaked. |
 | Figure D |  |
-|  | 4. Wait 30 minutes.a. Leave the prefilled syringe outside of the carton at room temperature between 68°F to 77°F (20°C to 25°C) for 30 minutes to allow it to warm up (see Figure E). Do not warm the prefilled syringe using heat sources such as hot water or a microwave.Do not leave the prefilled syringe in the direct sunlight.Do not remove the cap while allowing your prefilled syringe to reach room temperature.If the prefilled syringe does not reach room temperature, this could cause discomfort and make it hard to push the plunger. |
+|  | 4. Wait 30 minutes.a. Leave the prefilled syringe outside of the carton at room temperature between 64.4°F to 82.4°F (18°C to 28°C) for 30 minutes to allow it to warm up (see Figure E). Do not warm the prefilled syringe using heat sources such as hot water or a microwave.Do not leave the prefilled syringe in the direct sunlight.Do not remove the cap while allowing your prefilled syringe to reach room temperature.If the prefilled syringe does not reach room temperature, this could cause discomfort and make it hard to push the plunger. |
 | Figure E |  |
 |  | 5. Inspect the medicine.a. Hold your AVTOZMA with the cap pointing down.b. Look at the medicine and conﬁrm that the liquid is clear, to slightly pearly and colorless to yellow and does not contain any particles or ﬂakes (see Figure F). Do not use the prefilled syringe if the liquid is discolored, cloudy, or has particles or ﬂakes in it. Safely dispose of the prefilled syringe in a FDA-cleared sharps disposal container and use a new one.Air bubbles are normal. |
 | Figure F |  |
 |  | 6. Wash your hands.a. Wash your hands with soap and water and dry them thoroughly (see Figure G). |
 | Figure G |  |
-|  | 7. Choose an injection site (see Figure H).a. You may inject into - The front of the thighs - The stomach (abdomen), except for the 2 inches (5 cm) around the belly button. - The outer area of the upper arm (only if you are a caregiver). Do not inject into the upper arm by yourself.Choose a different injection site for each new injection at least 1 inch (2.5 cm) from the last area you injected.Do not inject into moles, scars, bruises, or areas where the skin is tender, red, hard or not intact. |
+|  | 7. Choose an injection site (see Figure H).a. You may inject into- The front of the thighs- The stomach (abdomen), except for the 2 inches (5 cm) around the belly button.- The outer area of the upper arm (only if you are a caregiver). Do not inject into the upper arm by yourself.Choose a different injection site for each new injection at least 1 inch (2.5 cm) from the last area you injected.Do not inject into moles, scars, bruises, or areas where the skin is tender, red, hard or not intact. |
 | Figure H |  |
 |  | 8. Clean the injection site.a. Wipe the injection site with an alcohol swab and let it air dry for about 10 seconds (see Figure I). This will reduce the chance of getting an infection. Do not touch the injection site again before giving the injection.Do not fan or blow on the clean area. |
 | Figure I |  |
@@ -73,7 +74,7 @@ After the Injection
 | 15. Record your injection.a.Write the date, time, and speciﬁc part of your body where you injected yourself. |  |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Issued: 7/2025
+Issued: 7/2026
 
 Manufactured by: CELLTRION, Inc., 23, Academy-ro, Yeonsu-gu, Incheon, 22014, Republic of Korea US License Number 1996
 
@@ -100,7 +101,8 @@ Storing AVTOZMA
 - Store the unused prefilled autoinjector in the original carton in a refrigerator between 36°F to 46ºF (2°C to 8ºC).
   Do not freeze.
 - When removed from the refrigerator, AVTOZMA can be stored up to 3 weeks at or below 77°F (25°C).
-  If not used within the 3 weeks, AVTOZMA should be thrown away (discarded).
+  If necessary, the pre-filled autoinjector may be returned to the refrigerator once within these 3 weeks and stored refrigerated until the expiry date.
+  The pre-filled syringe must be discarded if not used within the 3-week period.
 - Keep the prefilled autoinjector out of direct sunlight.
 - Do not remove the prefilled autoinjector from its original carton during storage.
 - Do not leave the prefilled autoinjector unattended.
@@ -113,20 +115,20 @@ Parts of your AVTOZMA prefilled autoinjector (See Figure A).
 
 Preparing for the Injection
 
-|  | 1. Gather the supplies for the injection.a. Prepare a clean, flat surface, such as a table or countertop, in a well-lit area.b. Take the carton containing the prefilled autoinjector out of the refrigerator.c. Make sure you have the following supplies (see Figure B):-Carton containing AVTOZMA preﬁlled autoinjector Not included in the carton: - Cotton ball or gauze - Adhesive bandage - FDA-cleared Sharps disposal container - Alcohol swab |
+|  | 1. Gather the supplies for the injection.a. Prepare a clean, flat surface, such as a table or countertop, in a well-lit area.b. Take the carton containing the prefilled autoinjector out of the refrigerator.c. Make sure you have the following supplies (see Figure B):-Carton containing AVTOZMA preﬁlled autoinjector Not included in the carton:- Cotton ball or gauze- Adhesive bandage- FDA-cleared Sharps disposal container- Alcohol swab |
 | --- | --- |
 | Figure B |  |
 |  | 2. Inspect the carton (see Figure C).a. Look at the carton and make sure you have the correct medicine and dose strength. (AVTOZMA)b. Check the expiration (EXP) date on the carton to make sure the date has not passed. Do not use the prefilled autoinjector if the expiration (EXP) date has passed.If you are opening the carton for the first time, check to make sure that it is properly sealed.Do not use the prefilled autoinjector if the carton looks like it has been opened or damaged. |
 | Figure C |  |
 |  | 3. Inspect the Prefilled autoinjector.a. Open the carton and remove one single-dose prefilled autoinjector from the carton. Return any remaining AVTOZMA prefilled autoinjectors in the box to the refrigerator.b. Check the expiration (EXP) date on the AVTOZMA prefilled autoinjector (see Figure D). Do not use the prefilled autoinjector if the expiration (EXP) date has passed. If the expiration (EXP) date has passed, safely throw away (dispose of) the prefilled autoinjector in your sharps disposal container and get a new one. c. Check the prefilled autoinjector to make sure it is not damaged and shows no sign of leakage. Do not use the prefilled autoinjector if it has been dropped, damaged, or has leaked. Note: A small gap between the orange cap and injector body is normal. |
 | Figure D |  |
-|  | 4. Wait 45 minutes.a. Leave the prefilled autoinjector outside of the carton at room temperature between 68°F to 77°F (20°C to 25°C) for 45 minutes to allow it to warm up (see Figure E). Do not warm the prefilled autoinjector using heat sources such as hot water or a microwave.Do not leave the prefilled autoinjector in the direct sunlight.Do not remove the cap while allowing your prefilled autoinjector to reach room temperature.If the prefilled autoinjector does not reach room temperature, this could cause discomfort. |
+|  | 4. Wait 45 minutes.a. Leave the prefilled autoinjector outside of the carton at room temperature between 64.4°F to 82.4°F (18°C to 28°C) for 45 minutes to allow it to warm up (see Figure E). Do not warm the prefilled autoinjector using heat sources such as hot water or a microwave.Do not leave the prefilled autoinjector in the direct sunlight.Do not remove the cap while allowing your prefilled autoinjector to reach room temperature.If the prefilled autoinjector does not reach room temperature, this could cause discomfort. |
 | Figure E |  |
 |  | 5. Inspect the medicine.a. Hold your AVTOZMA with the cap pointing down.b. Look at the medicine and conﬁrm that the liquid is clear, to slightly pearly and colorless to yellow and does not contain any particles or ﬂakes (see Figure F). Do not use the prefilled autoinjector if the liquid is discolored, cloudy, or has particles or ﬂakes in it. Safely dispose of the prefilled autoinjector in a FDA-cleared sharps disposal container and use a new one.Air bubbles are normal. |
 | Figure F |  |
 |  | 6. Wash your hands.a. Wash your hands with soap and water and dry them thoroughly (see Figure G). |
 | Figure G |  |
-|  | 7. Choose an injection site (see Figure H).a. You may inject into - The front of the thighs - The stomach (abdomen), except for the 2 inches (5 cm) around the belly button. - The outer area of the upper arm (only if you are a caregiver). Do not inject into the upper arm by yourself.Choose a different injection site for each new injection at least 1 inch (2.5 cm) from the last area you injected.Do not inject into moles, scars, bruises, or areas where the skin is tender, red, hard or not intact. |
+|  | 7. Choose an injection site (see Figure H).a. You may inject into- The front of the thighs- The stomach (abdomen), except for the 2 inches (5 cm) around the belly button.- The outer area of the upper arm (only if you are a caregiver). Do not inject into the upper arm by yourself.Choose a different injection site for each new injection at least 1 inch (2.5 cm) from the last area you injected.Do not inject into moles, scars, bruises, or areas where the skin is tender, red, hard or not intact. |
 | Figure H |  |
 |  | 8. Clean the injection site.a. Wipe the injection site with an alcohol swab and let it air dry for about 10 seconds (see Figure I). This will reduce the chance of getting an infection. Do not touch the injection site again before giving the injection.Do not fan or blow on the clean area. |
 | Figure I |  |
@@ -155,7 +157,7 @@ After the Injection
 | 15. Record your injection.a.Write the date, time, and speciﬁc part of your body where you injected yourself. |  |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Issued: 7/2025
+Issued: 7/2026
 
 Manufactured by: CELLTRION, Inc., 23, Academy-ro, Yeonsu-gu, Incheon, 22014, Republic of Korea US License Number 1996
 

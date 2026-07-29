@@ -35,4 +35,4 @@
 | Active ingredient: tocilizumab-anoh. Inactive ingredients of Intravenous AVTOZMA: histidine, L-histidine hydrochloride monohydrate, methionine, polysorbate 80, threonine, and water for Injection. Inactive ingredients of Subcutaneous AVTOZMA: histidine, L-histidine hydrochloride monohydrate, methionine, polysorbate 80, threonine, and water for Injection. |  |  |  |  |  |
 | Manufactured by: CELLTRION, Inc., 23, Academy-ro, Yeonsu-gu, Incheon, 22014, Republic of Korea US License Number 1996 |  |  |  |  |  |
 | Distributed by: CELLTRION USA, Inc., One Evertrust Plaza, Suite 1207, Jersey City, NJ 07302, USA |  |  |  |  |  |
-| Medication Guide has been approved by the U.S. Food and Drug Administration |  |  |  |  | Issued: 7/2025 |
+| Medication Guide has been approved by the U.S. Food and Drug Administration |  |  |  |  | Issued: 7/2026 |
