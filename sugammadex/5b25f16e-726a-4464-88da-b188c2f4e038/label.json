@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA215575"
+  ],
+  "inn": "sugammadex",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-619-02",
+    "25021-619-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "sugammadex sodium",
+      "name": "Sugammadex"
+    }
+  ],
+  "setid": "5b25f16e-726a-4464-88da-b188c2f4e038",
+  "source": "dailymed"
+}
