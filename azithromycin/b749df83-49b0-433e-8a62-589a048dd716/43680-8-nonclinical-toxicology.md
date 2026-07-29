@@ -2,14 +2,22 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long-term studies in animals have not been performed to evaluate carcinogenic potential.
+Carcinogenesis
+
+Long term studies in animals have not been performed to evaluate carcinogenic potential.
+
+Mutagenesis
+
 Azithromycin has shown no mutagenic potential in standard laboratory tests: mouse lymphoma assay, human lymphocyte clastogenic assay, and mouse bone marrow clastogenic assay.
+
+Impairment of Fertility
+
 In fertility studies conducted in male and female rats, oral administration of azithromycin for 64 to 66 days (males) or 15 days (females) prior to and during cohabitation resulted in decreased pregnancy rate at 20 and 30 mg/kg/day when both males and females were treated with azithromycin.
 This minimal effect on pregnancy rate (approximately 12% reduction compared to concurrent controls) did not become more pronounced when the dose was increased from 20 to 30 mg/kg/day (approximately 0.3 to 0.5 times the adult human daily dose of 600 mg based on body surface area) and it was not observed when only one animal in the mated pair was treated.
 There were no effects on any other reproductive parameters, and there were no effects on fertility at 10 mg/kg/day.
 The relevance of these findings to patients being treated with azithromycin at the doses and durations recommended in the prescribing information is uncertain.
 
-## 13.2 Animal Toxicology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 Phospholipidosis (intracellular phospholipid accumulation) has been observed in some tissues of mice, rats, and dogs given multiple doses of azithromycin.
 It has been demonstrated in numerous organ systems (e.g., eye, dorsal root ganglia, liver, gallbladder, kidney, spleen, and/or pancreas) in dogs and rats treated with azithromycin at doses which, expressed on the basis of body surface area, are similar to or less than the highest recommended adult human dose.

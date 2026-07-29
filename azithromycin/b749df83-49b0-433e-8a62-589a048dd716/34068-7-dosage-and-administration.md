@@ -1,23 +1,22 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-[see Indications and Usage (1)]
+## 2.1 Important Administration Instructions
 
-ZITHROMAX for oral suspension (single dose 1 g packet) can be taken with or without food after constitution.
+Administer ZITHROMAX capsules, at least 1 hour before or 2 hours after a meal.
+Do not mix or take ZITHROMAX capsules with food [ZITHROMAX 250 mg capsules are not currently being marketed].
+
+Administer ZITHROMAX tablets with or without food.
+However, increased tolerability has been observed when tablets are taken with food [ZITHROMAX 600 mg tablets are not currently being marketed].
+
+ZITHROMAX for oral suspension (single-dose 1 g packet) can be taken with or without food after constitution [see Dosage and Administration (2.4)].
 However, increased tolerability has been observed when tablets are taken with food.
 
-Zithromax for oral suspension (single dose 1 g packet) is not for pediatric use.
-For pediatric suspension see the prescribing information for ZITHROMAX (azithromycin for oral suspension) 100 mg/5 mL and 200 mg/5 mL bottles.
+## 2.2 Recommended Dosage for Sexually Transmitted Diseases
 
-Directions for administration of ZITHROMAX for oral suspension in the single dose packet (1 g): The entire contents of the packet should be mixed thoroughly with two ounces (approximately 60 mL) of water.
-Drink the entire contents immediately; add an additional two ounces of water, mix, and drink to ensure complete consumption of dosage.
-The single dose packet should not be used to administer doses other than 1000 mg of azithromycin.
+The recommended dose of ZITHROMAX for the treatment of non-gonococcal urethritis and cervicitis due to C. trachomatis is a single 1 g (1000 mg) dose of ZITHROMAX.
+This dose can be administered as four 250 mg capsules or as one single-dose packet (1 g).
 
-## 2.1 Sexually Transmitted Diseases
-
-The recommended dose of ZITHROMAX for the treatment of non-gonococcal urethritis and cervicitis due to C. trachomatis is a single 1 gram (1000 mg) dose of ZITHROMAX.
-This dose can be administered as one single dose packet (1 g).
-
-## 2.2 Mycobacterial Infections
+## 2.3 Recommended Dosage for Mycobacterial Infections
 
 Prevention of Disseminated MAC Infections
 
@@ -28,3 +27,11 @@ Treatment of Disseminated MAC Infections
 
 ZITHROMAX should be taken at a daily dose of 600 mg, in combination with ethambutol at the recommended daily dose of 15 mg/kg.
 Other antimycobacterial drugs that have shown in vitro activity against MAC may be added to the regimen of azithromycin plus ethambutol at the discretion of the physician or health care provider.
+
+## 2.4 Directions for the preparation and Administration of ZITHROMAX for Oral Suspension
+
+Directions for the preparation and administration of ZITHROMAX for oral suspension in the single-dose packet (1 g) are as follows:
+
+- •Mix the entire contents of the single-dose packet thoroughly with two ounces (approximately 60 mL) of water.
+- •Drink the entire contents immediately; add an additional two ounces (approximately 60 mL) of water, mix, and drink to ensure complete consumption of dosage.
+- •The single-dose packet should not be used to administer doses other than 1 g of ZITHROMAX for oral suspension.

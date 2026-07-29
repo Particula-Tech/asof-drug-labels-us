@@ -53,17 +53,20 @@ Breastmilk (colostrum) samples obtained between 12 and 48 hours after dosing rev
 
 ## 8.4 Pediatric Use
 
-In controlled clinical studies, azithromycin has been administered to pediatric patients ranging in age from 6 months to 12 years.
-For information regarding the use of ZITHROMAX (azithromycin for oral suspension) in the treatment of pediatric patients, [see Indications and Usage (1) and Dosage and Administration (2)] of the prescribing information for ZITHROMAX (azithromycin for oral suspension) 100 mg/5 mL and 200 mg/5 mL bottles.
+The safety and effectiveness of ZITHROMAX have not been established for the treatment of sexually transmitted diseases and mycobacterial infections in pediatric patients [see Indications and Usage (1)].
 
-HIV-Infected Pediatric Patients: The safety and efficacy of azithromycin for the prevention or treatment of MAC in HIV-infected children have not been established.
+ZITHROMAX for oral suspension (single-dose 1 g packet) is not indicated for pediatric use.
+
+HIV-Infected Pediatric Patients
+
+The safety and efficacy of azithromycin for the prevention or treatment of MAC in HIV-infected children have not been established.
 Safety data are available for 72 children 5 months to 18 years of age (mean 7 years) who received azithromycin for treatment of opportunistic infections.
-The mean duration of therapy was 242 days (range 3–2004 days) at doses of <1 to 52 mg/kg/day (mean 12 mg/kg/day).
+The mean duration of therapy was 242 days (range 3-2004 days) at doses of <1 to 52 mg/kg/day (mean 12 mg/kg/day).
 Adverse reactions were similar to those observed in the adult population, most of which involved the gastrointestinal tract.
 Treatment-related reversible hearing impairment in children was observed in 4 subjects (5.6%).
 Two (2.8%) children prematurely discontinued treatment due to adverse reactions: one due to back pain and one due to abdominal pain, hot and cold flushes, dizziness, headache, and numbness.
 A third child discontinued due to a laboratory abnormality (eosinophilia).
-The protocols upon which these data are based specified a daily dose of 10–20 mg/kg/day (oral and/or IV) of azithromycin.
+The protocols upon which these data are based specified a daily dose of 10-20 mg/kg/day (oral and/or IV) of azithromycin.
 
 ## 8.5 Geriatric Use
 
@@ -74,9 +77,11 @@ Elderly patients may be more susceptible to development of torsades de pointes a
 [see Warnings and Precautions (5.4)]
 
 ZITHROMAX 600 mg tablets contain 2.1 mg of sodium per tablet.
-ZITHROMAX for oral suspension 1 gram single-dose packets contain 37.0 mg of sodium per packet.
+ZITHROMAX for oral suspension 1 g single-dose packets contain 37.0 mg of sodium per packet.
 
-Geriatric Patients with Opportunistic Infections, Including (MAC) Disease: Safety data are available for 30 patients (65–94 years old) treated with azithromycin at doses >300 mg/day for a mean of 207 days.
+Geriatric Patients with Opportunistic Infections, Including (MAC) Disease
+
+Safety data are available for 30 patients (65–94 years old) treated with azithromycin at doses >300 mg/day for a mean of 207 days.
 These patients were treated for a variety of opportunistic infections, including MAC.
 The adverse reaction were generally similar to that seen in younger patients, except for a higher incidence of adverse reactions relating to the gastrointestinal system and to reversible impairment of hearing.
 [see Dosage and Administration (2)]
