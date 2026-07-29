@@ -7,6 +7,7 @@ For the 291 patients who were evaluable for clinical efficacy, the clinical outc
 
 | Clinical Outcome | Azithromycin | Comparator |
 | --- | --- | --- |
+| Table 4. Clinical Outcomes in Community‑Acquired Pneumonia: Azithromycin vs Comparator |  |  |
 | Cure | 46% | 44% |
 | Improved | 32% | 30% |
 | Success (Cure + Improved) | 78% | 74% |
@@ -16,6 +17,7 @@ The clinical outcome rates, i.e., cure, improved, and success (cure + improved) 
 
 | Clinical Outcome | Azithromycin |
 | --- | --- |
+| Table 5. Clinical Outcomes in an Uncontrolled U.S. Trial of Azithromycin for Community‑Acquired Pneumonia |  |
 | Cure | 60% |
 | Improved | 29% |
 | Success (Cure + Improved) | 89% |
@@ -24,10 +26,9 @@ Microbiological determinations in both trials were made at the pre-treatment vis
 Serological testing was done on baseline and final visit specimens.
 The following combined presumptive bacteriological eradication rates were obtained from the evaluable groups:
 
-Combined Bacteriological Eradication Rates for Azithromycin:
-
 | (at last completed visit) | Azithromycin |
 | --- | --- |
+| Table 6. Combined Bacteriological Eradication Rates for Azithromycin |  |
 | S. pneumoniae | 64/67 (96%)Nineteen of twenty-four patients (79%) with positive blood cultures for S. pneumoniae were cured (intent-to-treat analysis) with eradication of the pathogen. |
 | H. influenzae | 41/43 (95%) |
 | M. catarrhalis | 9/10 (90%) |
@@ -37,6 +38,7 @@ The presumed bacteriological outcomes at 10 to 14 days post-therapy for patients
 
 | Evidence of Infection | Total | Cure | Improved | Cure + Improved |
 | --- | --- | --- | --- | --- |
+| Table 7. Bacteriological Response Rates for Atypical Pathogens After Azithromycin Therapy |  |  |  |  |
 | Mycoplasma pneumoniae | 18 | 11 (61%) | 5 (28%) | 16 (89%) |
 | Chlamydia pneumoniae | 34 | 15 (44%) | 13 (38%) | 28 (82%) |
 | Legionella pneumophila | 16 | 5 (31%) | 8 (50%) | 13 (81%) |

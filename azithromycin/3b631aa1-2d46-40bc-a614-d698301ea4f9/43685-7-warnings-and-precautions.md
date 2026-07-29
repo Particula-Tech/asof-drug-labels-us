@@ -46,7 +46,7 @@ Consider balancing this potential risk with treatment benefits when prescribing 
 
 ## 5.6 Clostridioides difficile-Associated Diarrhea
 
-Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ZITHROMAX (azithromycin for injection), and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-Associated Diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ZITHROMAX (azithromycin for injection), and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.

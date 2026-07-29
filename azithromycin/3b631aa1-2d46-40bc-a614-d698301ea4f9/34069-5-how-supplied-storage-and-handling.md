@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ZITHROMAX for injection is supplied as white to off-white lyophilized powder under a vacuum in a single-dose vial equivalent to 500 mg of azithromycin for intravenous administration.
+ZITHROMAX for injection (azithromycin for injection, USP) is supplied as white to off-white lyophilized powder under a vacuum in a single-dose vial equivalent to 500 mg of azithromycin for intravenous administration.
 
 These are packaged as follows:
 
