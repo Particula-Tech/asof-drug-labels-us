@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.1)]
+- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
 - Cerebrovascular adverse reactions, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
 - Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
 - QT prolongation [see Warnings and Precautions (5.4)]
@@ -185,7 +185,7 @@ Treatment-Emergent Extrapyramidal Symptoms (EPS) Assessed by Incidence of Rating
 | Akathisia 2 | 6 | 6 | 4 | 7 | 9 |
 | Use of Anticholinergic medications 3 | 10 | 10 | 9 | 22 | 22 |
 
-1. 1 For Parkinsonism, percent of patients with Simpson-Angus global score > 0.3 2 For Akathisia, percent of patients with Barnes Akathisia Rating Scale global score ≥ 2 3 Percent of patients who received anticholinergic medications to treat emergent EPS
+1 For Parkinsonism, percent of patients with Simpson-Angus global score > 0.3 (global score defined as total sum of items score devided by the number of items) 2 For Akathisia, percent of patients with Barnes Akathisia Rating Scale global score ≥ 2 3 Percent of patients who received anticholinergic medications to treat emergent EPS
 
 Table 8.
 Treatment-Emergent Extrapyramidal Symptoms (EPS)-Related Adverse Events by MedDRA Preferred Term – Schizophrenia Studies in Adults

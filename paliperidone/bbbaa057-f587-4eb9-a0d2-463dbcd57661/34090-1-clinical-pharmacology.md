@@ -1,5 +1,7 @@
 # 12. CLINICAL PHARMACOLOGY
 
+.
+
 ## 12.1 Mechanism of Action
 
 Paliperidone is the major active metabolite of risperidone.
@@ -28,7 +30,7 @@ Absorption and Distribution
 
 The absolute oral bioavailability of paliperidone following paliperidone extended-release tablet administration is 28%.
 
-Administration of a 12 mg paliperidone extended-release tablet to healthy ambulatory subjects with a standard high-fat/high-caloric meal gave mean C maxand AUC values of paliperidone that were increased by 60% and 54%, respectively, compared with administration under fasting conditions.
+Administration of a 12 mg paliperidone extended-release tablet to healthy ambulatory subjects with a standard high-fat/high-caloric meal gave mean C max and AUC values of paliperidone that were increased by 60% and 54%, respectively, compared with administration under fasting conditions.
 Clinical trials establishing the safety and efficacy of paliperidone were carried out in subjects without regard to the timing of meals.
 While paliperidone can be taken without regard to food, the presence of food at the time of paliperidone administration may increase exposure to paliperidone [see Dosage and Administration (2.3)].
 
@@ -36,7 +38,7 @@ Based on a population analysis, the apparent volume of distribution of paliperid
 
 Metabolism and Elimination
 
-Although in vitrostudies suggested a role for CYP2D6 and CYP3A4 in the metabolism of paliperidone, in vivoresults indicate that these isozymes play a limited role in the overall elimination of paliperidone [see Drug Interactions (7)].
+Although in vitro studies suggested a role for CYP2D6 and CYP3A4 in the metabolism of paliperidone, in vivo results indicate that these isozymes play a limited role in the overall elimination of paliperidone [see Drug Interactions (7)].
 
 One week following administration of a single oral dose of 1 mg immediate-release 14C-paliperidone to 5 healthy volunteers, 59% (range 51% - 67%) of the dose was excreted unchanged into urine, 32% (26% - 41%) of the dose was recovered as metabolites, and 6% - 12% of the dose was not recovered.
 Approximately 80% of the administered radioactivity was recovered in urine and 11% in the feces.

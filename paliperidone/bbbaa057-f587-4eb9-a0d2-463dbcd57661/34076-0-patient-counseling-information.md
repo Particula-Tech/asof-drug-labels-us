@@ -69,7 +69,9 @@ Infertility
 Advise females of reproductive potential that paliperidone may impair fertility due to an increase in serum prolactin levels.
 The effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
-Paliperidone extended-release tablets Product of India
+Paliperidone extended-release tablets
+
+Product of India
 
 The brand RISPERDAL is not belongs to Inventia Healthcare Limited and a trademark of their respective owner.
 
@@ -77,4 +79,6 @@ Manufactured by: Inventia Healthcare Limited, F1-F1/1-F75/1, Additional Ambernat
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-10307 Rev 02/25 Revised: February 2025
+10307 Rev 04/25
+
+Revised: April 2025

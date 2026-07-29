@@ -54,7 +54,7 @@ There was no evidence of teratogenicity in embryo-fetal developmental toxicity s
 When the offspring of pregnant rats, treated with risperidone at 0.6 times the MRHD based on mg/m 2body surface area, reached adulthood, learning was impaired.
 Increased neuronal cell death occurred in the fetal brains of the offspring of pregnant rats treated at 0.5 to 1.2 times the MRHD; the postnatal development and growth of the offspring was delayed.
 
-In rat reproduction studies with risperidone, pup deaths occurred at oral doses which are less than the MRHD of risperidone based on mg/m 2body surface area; it is not known whether these deaths were due to a direct effect on the fetuses or pups or to effects on the dams (see RISPERDAL ®package insert).
+In rat reproduction studies with risperidone, pup deaths occurred at oral doses which are less than the MRHD of risperidone based on mg/m 2body surface area; it is not known whether these deaths were due to a direct effect on the fetuses or pups or to effects on the dams (see RISPERDAL ® package insert).
 
 ## 8.2 Lactation
 
@@ -81,7 +81,7 @@ Based on the pharmacologic action of paliperidone (D 2receptor antagonism), trea
 Safety and effectiveness of paliperidone in the treatment of schizophrenia were evaluated in 150 adolescent subjects 12-17 years of age with schizophrenia who received paliperidone in the dose range of 1.5 mg to 12 mg/day in a 6-week, double-blind, placebo-controlled trial.
 
 Safety and effectiveness of paliperidone for the treatment of schizophrenia in patients < 12 years of age have not been established.
-Safety and effectiveness of paliperidone for the treatment of schizoaffective disorder in patients< 18 years of age have not been studied.
+Safety and effectiveness of paliperidone for the treatment of schizoaffective disorder in patients < 18 years of age have not been studied.
 
 Juvenile Animal Studies
 

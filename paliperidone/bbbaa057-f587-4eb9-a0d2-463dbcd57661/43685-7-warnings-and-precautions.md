@@ -14,7 +14,7 @@ Paliperidone is not approved for the treatment of dementia-related psychosis [se
 
 In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
 Paliperidone was not marketed at the time these studies were performed.
-Paliperidone is not approved for the treatment of patients with dementia-related psychosis [see also Boxed Warningand Warnings and Precautions (5.1)].
+Paliperidone is not approved for the treatment of patients with dementia-related psychosis [see also Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
@@ -212,7 +212,7 @@ In the study that examined high- and low-dose groups, the increase in body weigh
 
 ## 5.7 Hyperprolactinemia
 
-Like other drugs that antagonize dopamine D 2receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
+Like other drugs that antagonize dopamine D 2 receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
 Paliperidone has a prolactin-elevating effect similar to that seen with risperidone, a drug that is associated with higher levels of prolactin than other antipsychotic drugs.
 
 Hyperprolactinemia, regardless of etiology, may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotrophin secretion.

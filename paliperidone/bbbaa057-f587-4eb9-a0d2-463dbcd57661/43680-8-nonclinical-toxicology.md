@@ -1,5 +1,7 @@
 # 13. NONCLINICAL TOXICOLOGY
 
+.
+
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis
@@ -16,7 +18,7 @@ The relevance of these tumor findings in rodents to human risk is unclear [see W
 
 Mutagenesis
 
-No evidence of genotoxic potential for paliperidone was found in the Ames reverse mutation test, the mouse lymphoma assay, or the in vivorat micronucleus test.
+No evidence of genotoxic potential for paliperidone was found in the Ames reverse mutation test, the mouse lymphoma assay, or the in vivo rat micronucleus test.
 
 Impairment of Fertility
 
