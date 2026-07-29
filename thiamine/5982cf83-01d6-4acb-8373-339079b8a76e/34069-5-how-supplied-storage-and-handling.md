@@ -20,8 +20,6 @@ Use only if solution is clear and seal intact.
 Sterile, Nonpyrogenic.
 The container closure is not made with natural rubber latex.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2020 Sagent Pharmaceuticals, Inc.
+sagent® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60173 (USA) Made in India ©2025 Sagent Pharmaceuticals
 
-Revised: January 2020
-
-SAGENT Pharmaceuticals®
+Revised: June 2025

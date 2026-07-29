@@ -1,3 +1,3 @@
 (For Intravenous or Intramuscular Use)
 
-SAGENT® Rx only
+sagent® Rx only
