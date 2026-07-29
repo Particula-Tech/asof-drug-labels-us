@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA214236"
+  ],
+  "inn": "sugammadex",
+  "labeler": "Dr. Reddy's Laboratories Inc.",
+  "package_ndcs": [
+    "43598-924-11",
+    "43598-924-26",
+    "43598-925-11",
+    "43598-925-37"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "sugammadex",
+      "name": "Sugammadex"
+    }
+  ],
+  "setid": "4f90c37e-3505-0968-38fd-fc7e4dd66e82",
+  "source": "dailymed"
+}
