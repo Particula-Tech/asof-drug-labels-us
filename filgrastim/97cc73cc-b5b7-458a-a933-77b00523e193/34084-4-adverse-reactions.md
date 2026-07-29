@@ -14,7 +14,7 @@ The following serious adverse reactions are discussed in greater detail in other
 - Thrombocytopenia [see Warnings and Precautions (5.9)]
 - Leukocytosis [see Warnings and Precautions (5.10)]
 - Cutaneous Vasculitis [see Warnings and Precautions (5.11)]
-- Aortitis [see Warnings and Precautions (5.15)]
+- Large and Medium Vessel Arteritis [see Warnings and Precautions (5.15)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -24,8 +24,8 @@ Adverse Reactions in Patients with Cancer Receiving Myelosuppressive Chemotherap
 
 The following adverse reaction data in Table 2 are from three randomized, placebo-controlled studies in patients with:
 
-- small cell lung cancer receiving standard dose chemotherapy with cyclophosphamide‚ doxorubicin‚ and etoposide (Study 1)
-- small cell lung cancer receiving ifosfamide, doxorubicin‚ and etoposide (Study 2), and
+- small cell lung cancer receiving standard dose chemotherapy with cyclophosphamide, doxorubicin, and etoposide (Study 1)
+- small cell lung cancer receiving ifosfamide, doxorubicin, and etoposide (Study 2), and
 - non-Hodgkin's lymphoma (NHL) receiving doxorubicin, cyclophosphamide, vindesine, bleomycin, methylprednisolone, and methotrexate ("ACVBP") or mitoxantrone, ifosfamide, mitoguazone, teniposide, methotrexate, folinic acid, methylprednisolone, and methotrexate ("VIM3") (Study 3).
 
 A total of 451 patients were randomized to receive subcutaneous NEUPOGEN 230 mcg/m2 (Study 1), 240 mcg/m2 (Study 2) or 4 or 5 mcg/kg/day (Study 3) (n = 294) or placebo (n = 157).
@@ -35,7 +35,7 @@ The ethnicity was 95% Caucasian, 4% African American, and 1% Asian.
 Table 2.
 Adverse Reactions in Patients with Cancer Receiving Myelosuppressive Chemotherapy (With ≥ 5% Higher Incidence in NEUPOGEN Compared to Placebo)
 
-| System Organ Class Preferred Term | NEUPOGEN (N = 294) | Placebo (N = 157) |
+| Body System Adverse Reactions | NEUPOGEN (N = 294) | Placebo (N = 157) |
 | --- | --- | --- |
 | Blood and lymphatic system disorders |  |  |
 | Thrombocytopenia | 38% | 29% |
@@ -62,7 +62,7 @@ Adverse Reactions in Patients with Cancer Receiving Myelosuppressive Chemotherap
 | Blood lactate dehydrogenase increased | 6% | 1% |
 | Blood alkaline phosphatase increased | 6% | 1% |
 
-Adverse events with ≥ 5% higher incidence in NEUPOGEN patients compared to placebo and associated with the sequelae of the underlying malignancy or cytotoxic chemotherapy delivered included anemia, constipation, diarrhea, oral pain, vomiting, asthenia, malaise, edema peripheral, hemoglobin decreased, decreased appetite, oropharyngeal pain, and alopecia.
+Adverse reactions with ≥ 5% higher incidence in NEUPOGEN patients compared to placebo and associated with the sequelae of the underlying malignancy or chemotherapy delivered included anemia, constipation, diarrhea, oral pain, vomiting, asthenia, malaise, edema peripheral, hemoglobin decreased, decreased appetite, oropharyngeal pain, and alopecia.
 
 Adverse Reactions in Patients with Acute Myeloid Leukemia
 
@@ -72,7 +72,7 @@ The median age was 54 (range 16 to 89) years and 54% were male.
 
 Adverse reactions with ≥ 2% higher incidence in NEUPOGEN patients compared to placebo included epistaxis, back pain, pain in extremity, erythema, and rash maculo-papular.
 
-Adverse events with ≥ 2% higher incidence in NEUPOGEN patients compared to placebo and associated with the sequelae of the underlying malignancy or cytotoxic chemotherapy included diarrhea, constipation, and transfusion reaction.
+Adverse events with ≥ 2% higher incidence in NEUPOGEN patients compared to placebo and associated with the sequelae of the underlying malignancy or chemotherapy included diarrhea, constipation, and transfusion reaction.
 
 Adverse Reactions in Patients with Cancer Undergoing Bone Marrow Transplantation
 
@@ -88,14 +88,14 @@ Adverse reactions in patients receiving intensive chemotherapy followed by autol
 Adverse Reactions in Patients with Cancer Undergoing Autologous Peripheral Blood Progenitor Cell Collection
 
 The adverse reaction data in Table 3 are from a series of 7 trials in patients with cancer undergoing mobilization of autologous peripheral blood progenitor cells for collection by leukapheresis.
-Patients (n = 166) in all these trials underwent a similar mobilization/collection regimen: NEUPOGEN was administered for 6 to 8 days‚ in most cases the apheresis procedure occurred on days 5‚ 6, and 7.
+Patients (n = 166) in all these trials underwent a similar mobilization/collection regimen: NEUPOGEN was administered for 6 to 8 days, in most cases the apheresis procedure occurred on days 5, 6, and 7.
 The dosage of NEUPOGEN ranged between 5 to 30 mcg/kg/day and was administered subcutaneously by injection or continuous infusion.
 The median age was 39 (range 15 to 67) years, and 48% were male.
 
 Table 3.
 Adverse Reactions in Patients with Cancer Undergoing Autologous PBPC in the Mobilization Phase (≥ 5% Incidence in NEUPOGEN Patients)
 
-| System Organ Class Preferred Term | Mobilization Phase (N = 166) |
+| Body System Adverse Reactions | Mobilization Phase (N = 166) |
 | --- | --- |
 | Musculoskeletal and connective tissue disorders |  |
 | Bone pain | 30% |
@@ -139,5 +139,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Sweet's syndrome (acute febrile neutrophilic dermatosis)
 - decreased bone density and osteoporosis in pediatric patients receiving chronic treatment with NEUPOGEN
 - myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer receiving chemotherapy and/or radiotherapy [see Warnings and Precautions (5.8)]
-- aortitis [see Warnings and Precautions (5.15)]
+- Large and medium vessel arteritis, including aortitis [see Warnings and Precautions (5.15)]
 - extramedullary hematopoiesis

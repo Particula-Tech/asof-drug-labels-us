@@ -1,6 +1,6 @@
 # Instructions for Use
 
-NEUPOGEN® (nu-po-jen) (filgrastim) Injection Single-Dose Prefilled Syringe
+NEUPOGEN® (nu-po-jen) (filgrastim) injection, for subcutaneous use Single-Dose Prefilled Syringe
 
 Guide to parts
 
@@ -17,19 +17,21 @@ Before you use a NEUPOGEN prefilled syringe, read this important information.
 
 Storing your prefilled syringe
 
-- Store the prefilled syringe in the refrigerator between 36°F to 46°F (2°C to 8°C).
-- Do not freeze.
+- Store the prefilled syringe in the refrigerator between 36˚F and 46˚F (2˚C and 8˚C).
+- Avoid freezing.
+  If NEUPOGEN prefilled syringe is frozen 1 time, thaw in the refrigerator before using it.
+  If it is frozen more than 1 time, throw it away and use a new prefilled syringe.
 - Keep the prefilled syringe in the original carton to protect from light or physical damage.
-- Take the prefilled syringe out of the refrigerator 30 minutes before use and allow it to reach room temperature before preparing an injection.
-- Throw away (dispose of) any prefilled syringe that has been left at room temperature for longer than 24 hours.
-- After you inject your dose, throw away (dispose of) any unused NEUPOGEN left in the prefilled syringe.
-  Do not save unused NEUPOGEN in the prefilled syringe for later use.
+- Throw away any prefilled syringe that has been left at room temperature, 68°F to 77°F, (20°C to 25°C), for longer than 24 hours.
 - Keep the NEUPOGEN prefilled syringe out of the reach of children.
 
 Using your prefilled syringe
 
 - It is important that you do not try to give the injection unless you or your caregiver has received training from your healthcare provider.
 - Make sure the name NEUPOGEN appears on the carton and prefilled syringe label.
+- Only use the prefilled syringe 1 time.
+  After you inject your dose, throw away (discard) any unused NEUPOGEN left in the prefilled syringe.
+  Do not save unused NEUPOGEN left in the prefilled syringe for later use.
 - Do not use a prefilled syringe after the expiration date on the label.
 - Do not shake the prefilled syringe.
 - Do not remove the gray needle cap from the prefilled syringe until you are ready to inject.
@@ -52,9 +54,8 @@ A Remove the prefilled syringe carton from the refrigerator.
 
 Put the original carton with any unused prefilled syringes back in the refrigerator.
 
-Remove the syringe tray from the carton.
-On a clean, well-lit surface, place the syringe tray at room temperature for 30 minutes before you give an injection.
-
+- Remove the syringe tray from the carton.
+  On a clean, well-lit surface, place the syringe tray at room temperature, 68°F to 77°F (20°C to 25°C), for 30 minutes before you give an injection.
 - Do not use the prefilled syringe if the carton is damaged.
 - Do not try to warm the prefilled syringe by using a heat source such as hot water or microwave.
 - Do not leave the prefilled syringe in direct sunlight.
@@ -123,7 +124,7 @@ If you want to use the same injection site, make sure it is not the same spot on
 - Do not hold the prefilled syringe by the plunger rod.
 - Do not put the gray needle cap back onto the prefilled syringe.
 
-Important: Throw the gray needle cap into the sharps disposal container.
+Important: Throw away the gray needle cap into the sharps disposal container.
 
 | F |  | Check your prescription before you inject your dose. |
 | --- | --- | --- |
@@ -134,7 +135,7 @@ Your healthcare provider has prescribed either a "full" syringe dose or a "parti
   For a full dose, go directly to Step 3: Subcutaneous (under the skin) injection.
 - If you are prescribed a partial dose of NEUPOGEN, start with Step G below.
 
-G Point the needle up and tap gently until the air rises to the top.
+G Point the needle up and tap gently on the syringe with your fingers until the air bubble rises to the top of the syringe.
 
 | H | Slowly push the plunger rod up to the line on the syringe barrel that matches your prescribed dose. |  |
 | --- | --- | --- |
@@ -177,12 +178,12 @@ Once extended, the orange safety guard will lock into position and will not slid
 
 Keep your hands away from the needle at all times.
 
-M Discard (throw away) the used prefilled syringe.
+M Throw away (discard) the used prefilled syringe.
 
-- Put the used prefilled syringe in a FDA-cleared sharps disposal container right away after use.
-  Do not throw away (dispose of) the prefilled syringe in your household trash.
+- Put the used prefilled syringe in an FDA-cleared sharps disposal container right away after use.
+  Do not throw away (discard) the prefilled syringe in your household trash.
 
-- If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+- If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
   - made of a heavy-duty plastic,
   - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
   - upright and stable during use,
@@ -207,14 +208,12 @@ Manufactured by:
 
 Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S. License No. 1080
 
-© 2016, 2025 All rights reserved.
-1xxxxxx Revised: 06/2025
-
-v2
+© 2016, 2026 All rights reserved.
+1xxxxxx Revised: 07/2026 V3
 
 # Instructions for Use
 
-NEUPOGEN® (nu-po-jen) (filgrastim) Injection Single-Dose Vial
+NEUPOGEN® (nu-po-jen) (filgrastim) injection, for subcutaneous use Single-Dose Vial
 
 Important
 
@@ -224,13 +223,12 @@ Before you use a NEUPOGEN vial, read this important information:
 
 Storing your NEUPOGEN vial
 
-- Store the vial in the refrigerator between 36°F to 46°F (2°C to 8°C).
-- Do not freeze.
+- Store the vial in the refrigerator between 36˚F and 46˚F (2˚C and 8˚C).
+- Avoid freezing.
+  If Neupogen vial is frozen 1 time, thaw in the refrigerator before using it.
+  If it is frozen more than 1 time, throw away and use a new vial.
 - Keep the vial in the original carton to protect from light or physical damage.
-- Take the vial out of the refrigerator 30 minutes before use and allow it to reach room temperature before preparing an injection.
-- Throw away (dispose of) any vial that has been left at room temperature for longer than 24 hours.
-- After you inject your dose, throw away (dispose of) any unused NEUPOGEN left in the vial.
-  Do not save unused NEUPOGEN in the vial for later use.
+- Throw away any vial that has been left at room temperature, 68°F to 77°F, (20°C to 25°C), for longer than 24 hours.
 - Keep the NEUPOGEN vial out of the reach of children.
 
 Using your vial
@@ -238,7 +236,9 @@ Using your vial
 - It is important that you do not try to give the injection unless you or your caregiver has received training from your healthcare provider.
 - Make sure the name NEUPOGEN appears on the carton and vial label.
 - Only use the vial 1 time.
-  Discard (throw away) the vial with any remaining NEUPOGEN liquid.
+  After you inject your dose, throw away (discard) any unused NEUPOGEN left in the vial.
+- Do not save unused NEUPOGEN left in the vial for later use.
+  See "Step S."
 - Do not use a vial after the expiration date on the label.
 - Do not shake the vial.
 - Do not use the vial if the medicine is cloudy or discolored or contains flakes or particles.
@@ -249,12 +249,14 @@ Step 1: Prepare
 
 A Remove the vial from the refrigerator.
 
-On a clean, well-lit surface, place the vial at room temperature for 30 minutes before you give an injection.
+On a clean, well-lit surface, place the vial at room temperature, 68°F to 77°F (20°C to 25°C), for 30 minutes before you give an injection.
 
 - Do not try to warm the vial by using a heat source such as hot water or microwave.
 - Do not leave the vial in direct sunlight.
 - Do not shake the vial.
 - Use the vial only 1 time.
+
+Put the original carton with any unused vials back in the refrigerator.
 
 B Inspect the vial.
 
@@ -280,7 +282,7 @@ On a clean, well-lit work surface, place the:
 
 - Only use the disposable syringes and needles that your healthcare provider prescribes.
 - Only use the syringes and needles 1 time.
-  Discard (throw away) any used syringes and needles.
+  Throw away any used syringes and needles.
 - You should only use a syringe that is marked in tenths of milliliters (mL).
 - Your healthcare provider will show you how to measure the correct dose of NEUPOGEN.
   This dose will be measured in milliliters (mL).
@@ -289,10 +291,10 @@ Step 2: Get Ready
 
 | D | Take the cap off the vial. Clean the rubber stopper with one alcohol wipe. |  |
 | --- | --- | --- |
-| E | Check the carton containing the syringe. If the carton has been opened or damaged, do not use that syringe. Dispose of (throw away) that syringe in the sharps disposal container. |  |
+| E | Check the carton containing the syringe. If the carton has been opened or damaged, do not use that syringe. Throw away that syringe in the sharps disposal container. |  |
 | F | Hold the syringe by the barrel with the needle cap pointing up. Carefully pull the needle cap straight off and away from your body. |  |
 |  | Pull back on the plunger and draw air into the syringe that is the same amount (mL) as the dose of NEUPOGEN that your healthcare provider prescribed. |  |
-| Important: Throw the needle cap into the sharps disposal container. |  |  |
+| Important: Throw away the needle cap into the sharps disposal container. |  |  |
 | G | Keep the vial on the flat working surface and insert the needle straight down through the rubber stopper. Do not insert the needle through the rubber stopper more than 1 time. |  |
 | H | Push the plunger down and inject all the air from the syringe into the vial of NEUPOGEN. |  |
 | I | Keep the needle in the vial and turn the vial upside down. Make sure that the NEUPOGEN liquid is covering the tip of the needle. |  |
@@ -335,10 +337,10 @@ When done gently pull the syringe off of your skin.
 
 Step 5: Finish
 
-S Discard (throw away) the used syringe and vial.
+S Throw away (discard) the used syringe and vial.
 
-- Put your used syringes, needles, and vials in a FDA-cleared sharps disposal container right away after use.
-  Do not throw away (dispose of) needles, syringes and vials in your household trash.
+- Put your used syringes, needles, and vials in an FDA-cleared sharps disposal container right away after use.
+  Do not throw away (discard) needles, syringes and vials in your household trash.
 
 - If you do not have an FDA-cleared sharps disposal container, you may use a household container that:
   - is made of a heavy-duty plastic,
@@ -364,10 +366,12 @@ T Examine the injection site.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-NEUPOGEN® (filgrastim) Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S.A. U.S. License No. 1080 Revised: 06/2025
+NEUPOGEN® (filgrastim) Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S.A. U.S. License No. 1080
+
+Revised: 07/2026
 
 1xxxxxx
 
-© 1991-2016, 2025 Amgen Inc. All rights reserved.
+© 1991-2016, 2026 Amgen Inc. All rights reserved.
 
-v2
+V3

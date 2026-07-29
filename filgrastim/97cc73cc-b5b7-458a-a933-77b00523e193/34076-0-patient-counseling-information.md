@@ -12,7 +12,7 @@ Advise patients of the following risks and potential risks with NEUPOGEN:
   Advise patients to report pain in these areas to their physician immediately [see Warnings and Precautions (5.1)].
 - Dyspnea, with or without fever, progressing to Acute Respiratory Distress Syndrome, may occur.
   Advise patients to report dyspnea to their physician immediately [see Warnings and Precautions (5.2)].
-- Serious allergic reactions may occur, which may be signaled by rash‚ facial edema‚ wheezing‚ dyspnea‚ hypotension‚ or tachycardia.
+- Serious allergic reactions may occur, which may be signaled by rash, facial edema, wheezing, dyspnea, hypotension, or tachycardia.
   Advise patients to seek immediate medical attention if signs or symptoms of hypersensitivity reaction occur [see Warnings and Precautions (5.3)].
 - In patients with sickle cell disease, sickle cell crisis and death have occurred.
   Discuss potential risks and benefits for patients with sickle cell disease prior to the administration of human granulocyte colony-stimulating factors [see Warnings and Precautions (5.4)].
@@ -24,9 +24,9 @@ Advise patients of the following risks and potential risks with NEUPOGEN:
   Advise patients to report to their physician signs and symptoms of MDS/AML [see Warnings and Precautions (5.8)].
 - Cutaneous vasculitis may occur, which may be signaled by purpura or erythema.
   Advise patients to report signs or symptoms of vasculitis to their physician immediately [see Warnings and Precautions (5.11)].
-- Aortitis may occur.
-  Symptoms may include fever, abdominal pain, malaise, back pain, and increased inflammatory markers.
-  Advise patients to report signs and symptoms of aortitis to their physician immediately [see Warnings and Precautions (5.15)].
+- Arteritis, including aortitis, may occur.
+  Signs and symptoms may include fever, abdominal pain, malaise, back pain, headache, neck pain, and increased inflammatory markers.
+  Advise patients to report signs and symptoms of arteritis to their physician immediately [see Warnings and Precautions (5.15)].
 
 Advise patients acutely exposed to myelosuppressive doses of radiation (Hematopoietic Syndrome of Acute Radiation Syndrome) that efficacy studies of NEUPOGEN for this indication could not be conducted in humans for ethical and feasibility reasons and that, therefore, approval of this use was based on efficacy studies conducted in animals [see Clinical Studies (14.6)].
 
@@ -39,3 +39,5 @@ Instruct patients who self-administer NEUPOGEN using the prefilled syringe or si
   If difficulty occurs, use of the NEUPOGEN vial may be considered.
 - Difference in product concentration of the NEUPOGEN prefilled syringe in comparison to the NEUPOGEN vial.
   When switching patients from the NEUPOGEN prefilled syringe to the NEUPOGEN vial, or vice versa, ensure that patients understand the correct volume to be administered since the concentration of NEUPOGEN differs between the prefilled syringe and the vial.
+
+NEUPOGEN® (filgrastim)

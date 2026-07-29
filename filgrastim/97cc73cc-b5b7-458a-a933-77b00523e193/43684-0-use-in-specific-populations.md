@@ -4,12 +4,12 @@
 
 Risk Summary
 
-Available data from published studies, including several observational studies of pregnancy outcomes in women exposed to filgrastim products and those who were unexposed, have not established an association with NEUPOGEN use during pregnancy and major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
+Available data from published studies, including several observational studies of pregnancy outcomes in women exposed to filgrastim products and those who were unexposed, have not established an association with NEUPOGEN use during pregnancy and major birth defects, miscarriage, or adverse maternal or fetal outcomes [see Data].
 Reports in the scientific literature have described transplacental passage of NEUPOGEN in pregnant women when administered ≤ 30 hours prior to preterm delivery (≤ 30 weeks gestation).
 In animal reproduction studies, effects of filgrastim on prenatal development have been studied in rats and rabbits.
 No malformations were observed in either species.
 No maternal or fetal effects were observed in pregnant rats at doses up to 58 times the human doses.
-Filgrastim has been shown to have adverse effects in pregnant rabbits at doses 2 to 10 times higher than the human doses (see Data).
+Filgrastim has been shown to have adverse effects in pregnant rabbits at doses 2 to 10 times higher than the human doses [see Data].
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -45,10 +45,10 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-In patients with cancer receiving myelosuppressive chemotherapy‚ 15 pediatric patients median age 2.6 (range 1.2 to 9.4) years with neuroblastoma were treated with myelosuppressive chemotherapy (cyclophosphamide‚ cisplatin‚ doxorubicin‚ and etoposide) followed by subcutaneous NEUPOGEN at doses of 5, 10, or 15 mcg/kg/day for 10 days (n = 5/dose) (Study 8).
+In patients with cancer receiving myelosuppressive chemotherapy, 15 pediatric patients median age 2.6 (range 1.2 to 9.4) years with neuroblastoma were treated with myelosuppressive chemotherapy (cyclophosphamide, cisplatin, doxorubicin, and etoposide) followed by subcutaneous NEUPOGEN at doses of 5, 10, or 15 mcg/kg/day for 10 days (n = 5/dose) (Study 8).
 The pharmacokinetics of NEUPOGEN in pediatric patients after chemotherapy are similar to those in adults receiving the same weight-normalized doses, suggesting no age-related differences in the pharmacokinetics of NEUPOGEN.
-In this population‚ NEUPOGEN was well tolerated.
-There was one report of palpable splenomegaly and one report of hepatosplenomegaly associated with NEUPOGEN therapy; however, the only consistently reported adverse event was musculoskeletal pain‚ which is no different from the experience in the adult population.
+In this population, NEUPOGEN was well tolerated.
+There was one report of palpable splenomegaly and one report of hepatosplenomegaly associated with NEUPOGEN therapy; however, the only consistently reported adverse event was musculoskeletal pain, which is no different from the experience in the adult population.
 
 The safety and effectiveness of NEUPOGEN have been established in pediatric patients with SCN [see Clinical Studies (14.5)].
 In a phase 3 study (Study 7) to assess the safety and efficacy of NEUPOGEN in the treatment of SCN, 123 patients with a median age of 12 years (range 7 months to 76 years) were studied.
