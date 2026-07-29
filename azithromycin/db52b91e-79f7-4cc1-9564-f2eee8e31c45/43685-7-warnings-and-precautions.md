@@ -30,9 +30,9 @@ Prolonged cardiac repolarization and QT interval, imparting a risk of developing
 Cases of torsades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving azithromycin.
 Providers should consider the risk of QT prolongation which can be fatal when weighing the risks and benefits of azithromycin for at-risk groups including:
 
-- • patients with known prolongation of the QT interval, a history of torsades de pointes, congenital long QT syndrome, bradyarrhythmias or uncompensated heart failure
-- • patients on drugs known to prolong the QT interval
-- • patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents.
+- •patients with known prolongation of the QT interval, a history of torsades de pointes, congenital long QT syndrome, bradyarrhythmias or uncompensated heart failure
+- •patients on drugs known to prolong the QT interval
+- •patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents.
 
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
 
@@ -44,9 +44,9 @@ This potential risk was noted to be greater during the first five days of azithr
 The data in these observational studies are insufficient to establish or exclude a causal relationship between acute cardiovascular death and azithromycin use.
 Consider balancing this potential risk with treatment benefits when prescribing ZITHROMAX.
 
-## 5.6 Clostridioides difficile-Associated Diarrhea (CDAD)
+## 5.6 Clostridioides difficile-Associated Diarrhea
 
-Clostridioides difficile-associated diarrhea has been reported with use of nearly all antibacterial agents, including ZITHROMAX, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ZITHROMAX, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -61,7 +61,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Exacerbation of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
 
-## 5.8 Use in Sexually Transmitted Infections
+## 5.8 Risk of Antibacterial Resistance in Sexually Transmitted Infections
 
 ZITHROMAX, at the recommended dose, should not be relied upon to treat syphilis.
 Antibacterial agents used to treat non-gonococcal urethritis may mask or delay the symptoms of incubating syphilis.
