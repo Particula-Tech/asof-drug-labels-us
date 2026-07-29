@@ -295,7 +295,7 @@ Table 19: ASAS Components and Other Measures of Disease Activity in Adults with 
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo (N=136) |  | XELJANZ 5 mg Twice Daily (N=133) |  |  |
 | ASAS Components |  |  |  |  |  |
-| -Patient Global Assessment of Disease Activity (0–10)Measured on a numerical rating scale with 0 = not active or no pain, 10 = very active or most severe pain.,type I error-controlled. | 7.0 | -1.0 | 6.9 | -2.5 | -1.5 (-2.00, -0.97)p < 0.0001. |
+| -Patient Global Assessment of Disease Activity (0–10)Measured on a numerical rating scale with 0 = not active or no pain, 10 = very active or most severe pain.,type I error-controlled. | 7.0 | -1.0 | 6.9 | -2.5 | -1.5 (-2.00, -0.97)p <0.0001. |
 | -Total spinal pain (0–10), | 6.9 | -1.1 | 6.9 | -2.6 | -1.5 (-2.00, -1.03) |
 | -BASFI (0–10)Bath Ankylosing Spondylitis Functional Index measured on a numerical rating scale with 0 = easy and 10 = impossible., | 5.9 | -0.8 | 5.8 | -2.0 | -1.2 (-1.64, -0.79) |
 | -Inflammation (0–10)Inflammation is the mean of two patient-reported stiffness self-assessments in BASDAI., | 6.8 | -1.1 | 6.6 | -2.8 | -1.7 (-2.13, -1.18) |
@@ -384,7 +384,7 @@ Table 20: Proportion of Adult Patients with Moderately to Severely Active UC Who
 | Remission at Week 8Remission was defined as clinical remission (a Mayo score ≤2 with no individual subscore >1) and rectal bleeding subscore of 0. |  |  |  |
 | Total Population | N=1228% | N=47618% | 10%p-value <0.01.(4.3, 16.3) |
 | With Prior TNF Blocker FailurePrior TNF blocker failure was defined in this program as inadequate response, loss of response, or intolerance to TNF blocker therapy. | N=642% | N=24311% |  |
-| Without Prior TNF Blocker FailurePatients in this group had failed one or more conventional therapies (corticosteroid, azathioprine, 6 mercaptopurine) but did not have history of prior failure of TNF blocker therapy.,XELJANZ and XELJANZ XR are indicated only for use in patients who have had inadequate response or intolerance to one or more TNF blockers [see Indications and Usage (1.5)]. | N=5816% | N=23326% |  |
+| Without Prior TNF Blocker FailurePatients in this group had failed one or more conventional therapies (corticosteroid, azathioprine, 6-mercaptopurine) but did not have history of prior failure of TNF blocker therapy.,XELJANZ and XELJANZ XR are indicated only for use in patients who have had inadequate response or intolerance to one or more TNF blockers [see Indications and Usage (1.5)]. | N=5816% | N=23326% |  |
 | Improvement of Endoscopic Appearance of the Mucosa at Week 8Improvement of endoscopic appearance of the mucosa was defined as Mayo endoscopy subscore of 0 (normal or inactive disease) or 1 (erythema, decreased vascular pattern). |  |  |  |
 | Total Population | N=12216% | N=47631% | 16%p-value <0.001.(8.1, 23.4) |
 | With Prior TNF Blocker Failure | N=646% | N=24323% |  |
@@ -503,7 +503,7 @@ Cardiovascular risk factors included cigarette smoking (current or past) (48%), 
 The non-inferiority criterion was not met for the primary comparison of the combined XELJANZ dosages to TNF blockers since the upper limit of the 95% CI exceeded the pre-specified non-inferiority criterion of 1.8 (for MACE, the upper limit of the 95% CI was 1.94; for malignancies excluding NMSC, the upper limit of the 95% CI was 2.09).
 
 Table 22 shows the study results for each of the co-primary endpoints, and other endpoints.
-There was an increased risk of death, MACE, malignancies, serious infections, and thromboembolic events, and fractures associated with both dosages of XELJANZ.
+There was an increased risk of death, MACE, malignancies, serious infections, thromboembolic events, and fractures associated with both dosages of XELJANZ.
 
 Table 22: Results of RA Safety Study 1 in Adults with Rheumatoid Arthritis 50 years of Age and Older with at Least One Cardiovascular Risk Factor
 

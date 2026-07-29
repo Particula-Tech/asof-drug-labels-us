@@ -6,16 +6,16 @@ Prior to initiating XELJANZ (tablets and oral solution) or XELJANZ XR (extended-
 
 - •Active and latent tuberculosis (TB) infection evaluation: If the patient has latent TB, treat for TB prior to XELJANZ/XELJANZ XR treatment [see Warnings and Precautions (5.1)].
 - •Viral hepatitis screening in accordance with clinical guidelines [see Warnings and Precautions (5.1)].
-- •A complete blood count: Avoid initiation of XELJANZ/XELJANZ XR treatment in patients with a lymphocyte count less than 500 cells/mm3, absolute neutrophil count less than 1000 cells/mm3, or hemoglobin level less than 9 g/dL [see Warnings and Precautions (5.8)].
+- •A complete blood count: Avoid initiation of XELJANZ/XELJANZ XR treatment in patients with a lymphocyte count less than 500 cells/mm3, absolute neutrophil count less than 1000 cells/mm3, or hemoglobin level less than 9 g/dL [see Warnings and Precautions (5.9)].
 - •Baseline hepatic function evaluation: XELJANZ/XELJANZ XR is not recommended for patients with severe hepatic impairment [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 - •Update immunizations according to current immunization guidelines.
-  The interval between live vaccinations and initiation of XELJANZ/XELJANZ XR should be in accordance with current vaccination guidelines regarding immunosuppressive agents [see Warnings and Precautions (5.9)].
+  The interval between live vaccinations and initiation of XELJANZ/XELJANZ XR should be in accordance with current vaccination guidelines regarding immunosuppressive agents [see Warnings and Precautions (5.10)].
 
 ## 2.2 Important Administration Instructions
 
 - •XELJANZ XR (extended-release tablets) is not substitutable with XELJANZ (tablets and oral solution).
   Switching between XELJANZ and XELJANZ XR should be made by the healthcare provider.
-- •Dose interruption is recommended for management of lymphopenia, neutropenia, and anemia [see Warnings and Precautions (5.8) and Adverse Reactions (6.1)].
+- •Dose interruption is recommended for management of lymphopenia, neutropenia, and anemia [see Warnings and Precautions (5.9) and Adverse Reactions (6.1)].
 - •Interrupt use of XELJANZ/XELJANZ XR if a patient develops a serious infection until the infection is controlled [see Warnings and Precautions (5.1)].
 - •Take XELJANZ/XELJANZ XR with or without food [see Clinical Pharmacology (12.3)].
 - •Swallow XELJANZ XR whole and intact.
