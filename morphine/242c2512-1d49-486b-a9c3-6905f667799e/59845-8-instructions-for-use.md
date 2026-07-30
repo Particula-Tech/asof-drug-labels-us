@@ -31,8 +31,8 @@ How should I store morphine sulfate oral solution?
 - Protect from light.
 - Keep morphine sulfate oral solution and all medicines out of the reach of children.
 
-Manufactured by: SpecGx LLC Webster Groves, MO 63119 USA www.mallinckrodt.com or call 1-800-778-7898
+Manufactured for: SpecGx LLC Webster Groves, MO 63119 USA www.parhealth.com or call 1-800-778-7898
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: December 2023
+Revised: January 2026

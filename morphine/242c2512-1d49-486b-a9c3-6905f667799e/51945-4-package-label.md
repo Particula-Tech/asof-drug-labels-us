@@ -16,11 +16,11 @@ Sugar and Alcohol Free.
 
 Rx only
 
-Mallinckrodt™
+Par Health™
 
 L00M90
 
-Rev 10/2018
+Rev 01/2026
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 240 mL Carton
 
@@ -41,6 +41,6 @@ Sugar and Alcohol Free.
 
 Rx only
 
-Mallinckrodt™
+Par Health™
 
-P/N: L10M12 Rev 06/2025
+P/N: L10M12 Rev 01/2026

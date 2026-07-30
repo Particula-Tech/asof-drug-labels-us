@@ -20,7 +20,7 @@ The onset, duration, and severity of neonatal opioid withdrawal syndrome vary ba
 Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.5)].
 
 Labor or Delivery Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Morphine sulfate oral solution is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
 Opioid analgesics, including morphine sulfate oral solution, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
@@ -80,9 +80,6 @@ In published animal studies, morphine administration adversely effected fertilit
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of morphine sulfate oral solution 100 mg per 5 mL (20 mg/mL) have not been established in pediatric patients.
-
-Pediatric use information is approved for Hikma Pharmaceuticals USA Inc.’s morphine sulfate oral solution.
-However, due to Hikma Pharmaceuticals USA Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 

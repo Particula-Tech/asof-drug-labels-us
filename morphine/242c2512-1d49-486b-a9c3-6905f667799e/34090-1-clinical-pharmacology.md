@@ -22,7 +22,7 @@ Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situa
 Effects on the Gastrointestinal Tract and Other Smooth Muscle Morphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System Morphine produces peripheral vasodilation which may result in orthostatic hypotension or syncope.
 Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
@@ -86,6 +86,3 @@ Adequate studies of the pharmacokinetics of morphine in patients with severe hep
 Renal Impairment: Morphine pharmacokinetics are altered in patients with renal failure.
 Clearance is decreased and the metabolites, M3G and M6G, may accumulate to much higher plasma levels in patients with renal failure as compared to patients with normal renal function.
 Adequate studies of the pharmacokinetics of morphine in patients with severe renal impairment have not been conducted.
-
-Pediatric use information is approved for Hikma Pharmaceuticals USA Inc.’s morphine sulfate oral solution.
-However, due to Hikma Pharmaceuticals USA Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
