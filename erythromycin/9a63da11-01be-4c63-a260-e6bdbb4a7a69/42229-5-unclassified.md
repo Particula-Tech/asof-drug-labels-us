@@ -1,14 +1,13 @@
-Rx Only
-
 For Dermatologic Use Only
 
 Not for Ophthalmic Use
 
-Manufactured by Padagis, Yeruham, Israel
+Manufactured by Padagis® Yeruham, Israel
 
-Distributed By Padagis, Allegan, MI 49010 www.padagis.com
+www.padagis.com
 
-Rev.
-02-22
+Rev 10-25
 
-6E500 RC J5
+6E572 RC F8
+
+PADAGIS is a registered trademark of Padagis US LLC.
