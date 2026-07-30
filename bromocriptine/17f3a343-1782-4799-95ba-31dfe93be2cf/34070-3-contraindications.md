@@ -1,10 +1,8 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Hypersensitivity to bromocriptine or to any of the excipients of bromocriptine mesylate, uncontrolled hypertension and sensitivity to any ergot alkaloids.
-In patients being treated for hyperprolactinemia, bromocriptine mesylate should be withdrawn when pregnancy is diagnosed (see PRECAUTIONS, Hyperprolactinemic States).
-In the event that bromocriptine mesylate is reinstituted to control a rapidly expanding macroadenoma (see PRECAUTIONS, Hyperprolactinemic States) and a patient experiences a hypertensive disorder of pregnancy, the benefit of continuing bromocriptine mesylate must be weighed against the possible risk of its use during a hypertensive disorder of pregnancy.
-When bromocriptine mesylate is being used to treat acromegaly, prolactinoma, or Parkinson’s disease in patients who subsequently become pregnant, a decision should be made as to whether the therapy continues to be medically necessary or can be withdrawn.
-If it is continued, the drug should be withdrawn in those who may experience hypertensive disorders of pregnancy (including eclampsia, preeclampsia, or pregnancy-induced hypertension) unless withdrawal of bromocriptine mesylate is considered to be medically contraindicated.
+Bromocriptine mesylate is contraindicated in patients with:
 
-The drug should not be used during the postpartum period in women with a history of coronary artery disease and other severe cardiovascular conditions unless withdrawal is considered medically contraindicated.
-If the drug is used in the postpartum period, the patient should be observed with caution.
+- History of cardiac valvular disorders or a history of pericardial fibrosis [see Warnings and Precautions (5.1)].
+- History of pleural, pulmonary, or retroperitoneal fibrotic disorders [see Warnings and Precautions (5.2)].
+- Uncontrolled hypertension [see Warnings and Precautions (5.3)].
+- Hypersensitivity to bromocriptine or to any of the excipients of bromocriptine mesylate tablets or capsules or sensitivity to other ergot alkaloids.

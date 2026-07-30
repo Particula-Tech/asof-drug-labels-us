@@ -1,14 +1,8 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-The most commonly reported signs and symptoms associated with acute bromocriptine mesylate overdose are: nausea, vomiting, constipation, diaphoresis, dizziness, pallor, severe hypotension, malaise, confusion, lethargy, drowsiness, delusions, hallucinations, and repetitive yawning.
-The lethal dose has not been established and the drug has a very wide margin of safety.
-However, one death occurred in a patient who committed suicide with an unknown quantity of bromocriptine mesylate and chloroquine.
+The most commonly reported signs and symptoms associated with acute bromocriptine mesylate overdose are nausea, vomiting, constipation, diaphoresis, dizziness, pallor, severe hypotension, malaise, confusion, lethargy, drowsiness, delusions, hallucinations, and repetitive yawning.
 
-Treatment of overdose consists of removal of the drug by emesis (if conscious), gastric lavage, activated charcoal, or saline catharsis.
-Careful supervision and recording of fluid intake and output is essential.
-Hypotension should be treated by placing the patient in the Trendelenburg position and administering I.V. fluids.
-If satisfactory relief of hypotension cannot be achieved by using the above measures to their fullest extent, vasopressors should be considered.
+Overdose signs and symptoms from isolated reports of children who accidentally ingested bromocriptine mesylate included vomiting, somnolence and fever.
+The children recovered either spontaneously within a few hours or after appropriate management.
 
-There have been isolated reports of children who accidentally ingested bromocriptine mesylate.
-Vomiting, somnolence and fever were reported as adverse events.
-Patients recovered either spontaneously within a few hours or after appropriate management.
+If an overdose occurs, consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for overdose management recommendations.
