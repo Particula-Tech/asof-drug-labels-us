@@ -4,7 +4,7 @@
 
 Hemorrhage can occur at any site in the body in patients receiving argatroban.
 An unexplained fall in hematocrit or hemoglobin or a fall in blood pressure should lead to consideration of a hemorrhagic event.
-Argatroban Injection should be used with extreme caution in disease states and other circumstances in which there is an increased danger of hemorrhage.
+Argatroban in 0.9% Sodium Chloride Injection should be used with extreme caution in disease states and other circumstances in which there is an increased danger of hemorrhage.
 These include severe hypertension; immediately following lumbar puncture; spinal anesthesia; major surgery, especially involving the brain, spinal cord, or eye; hematologic conditions associated with increased bleeding tendencies such as congenital or acquired bleeding disorders and gastrointestinal lesions such as ulcerations.
 
 Concomitant use of argatroban with antiplatelet agents, thrombolytics, and other anticoagulants may increase the risk of bleeding.

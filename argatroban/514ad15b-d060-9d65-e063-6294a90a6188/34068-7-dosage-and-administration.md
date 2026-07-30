@@ -9,7 +9,6 @@ Do not dilute prior to administration.
 
 Vials may be inverted for use with a medical infusion set.
 
-Argatroban Injection is a clear, colorless to pale yellow solution.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
 Do not use if the solution is cloudy, contains precipitates, or if the flip-off seal is not intact.
@@ -127,7 +126,7 @@ Use of Argatroban in PCI patients with clinically significant hepatic disease or
 Initiating Oral Anticoagulant Therapy
 
 When converting patients from Argatroban to oral anticoagulant therapy, consider the potential for combined effects on International Normalized Ratio (INR).
-To avoid prothrombotic effects and to ensure continuous anticoagulation when initiating warfarin, overlap Argatroban Injection and warfarin therapy.
+To avoid prothrombotic effects and to ensure continuous anticoagulation when initiating warfarin, overlap Argatroban in 0.9% Sodium Chloride Injection and warfarin therapy.
 There are insufficient data available to recommend the duration of the overlap.
 Initiate therapy using the expected daily dose of warfarin.
 A loading dose of warfarin should not be used.
@@ -137,15 +136,15 @@ The combination of argatroban and warfarin does not cause further reduction in t
 The relationship between INR obtained on combined therapy and INR obtained on warfarin alone is dependent on both the dose of argatroban and the thromboplastin reagent used.
 The INR value on warfarin alone (INRW) can be calculated from the INR value on combination argatroban and warfarin therapy [see Drug Interactions (7.2) and Clinical Pharmacology (12.2)].
 
-Co-Administration of Warfarin and Argatroban Injection at Doses Up to 2 mcg/kg/min
+Co-Administration of Warfarin and Argatroban in 0.9% Sodium Chloride Injection at Doses Up to 2 mcg/kg/min
 
-Measure INR daily while Argatroban Injection and warfarin are co-administered.
-In general, with doses of Argatroban Injection up to 2 mcg/kg/min, Argatroban Injection can be discontinued when the INR is >4 on combined therapy.
-After Argatroban Injection is discontinued, repeat the INR measurement in 4 to 6 hours.
-If the repeat INR is below the desired therapeutic range, resume the infusion of Argatroban Injection and repeat the procedure daily until the desired therapeutic range on warfarin alone is reached.
+Measure INR daily while Argatroban in 0.9% Sodium Chloride Injection and warfarin are co-administered.
+In general, with doses of Argatroban in 0.9% Sodium Chloride Injection up to 2 mcg/kg/min, Argatroban in 0.9% Sodium Chloride Injection can be discontinued when the INR is >4 on combined therapy.
+After Argatroban in 0.9% Sodium Chloride Injection is discontinued, repeat the INR measurement in 4 to 6 hours.
+If the repeat INR is below the desired therapeutic range, resume the infusion of Argatroban in 0.9% Sodium Chloride Injection and repeat the procedure daily until the desired therapeutic range on warfarin alone is reached.
 
-Co-Administration of Warfarin and Argatroban Injection at Doses Greater than 2 mcg/kg/min
+Co-Administration of Warfarin and Argatroban in 0.9% Sodium Chloride Injection at Doses Greater than 2 mcg/kg/min
 
 For doses greater than 2 mcg/kg/min, the relationship of INR between warfarin alone to the INR on warfarin plus argatroban is less predictable.
-In this case, in order to predict the INR on warfarin alone, temporarily reduce the dose of Argatroban Injection to a dose of 2 mcg/kg/min.
-Repeat the INR on Argatroban Injection and warfarin 4 to 6 hours after reduction of the Argatroban Injection dose and follow the process outlined above for administering Argatroban Injection at doses up to 2 mcg/kg/min.
+In this case, in order to predict the INR on warfarin alone, temporarily reduce the dose of Argatroban in 0.9% Sodium Chloride Injection to a dose of 2 mcg/kg/min.
+Repeat the INR on Argatroban in 0.9% Sodium Chloride Injection and warfarin 4 to 6 hours after reduction of the Argatroban in 0.9% Sodium Chloride Injection dose and follow the process outlined above for administering Argatroban in 0.9% Sodium Chloride Injection at doses up to 2 mcg/kg/min.

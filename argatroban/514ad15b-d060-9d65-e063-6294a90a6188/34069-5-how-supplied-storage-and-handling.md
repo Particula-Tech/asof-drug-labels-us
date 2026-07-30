@@ -1,11 +1,11 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Argatroban Injection is a clear, colorless to pale yellow solution.
+Argatroban in 0.9% Sodium Chloride Injection is a clear, colorless to pale yellow solution.
 
-Argatroban Injection is supplied as a single-dose vial containing 125 mg argatroban in 125 mL of aqueous sodium chloride solution (1 mg/mL).
+Argatroban in 0.9% Sodium Chloride Injection is supplied as a single-dose vial containing 125 mg argatroban in 125 mL of aqueous sodium chloride solution (1 mg/mL).
 The vial is sealed with a gray rubber stopper and a green aluminum flip-off seal.
 
-NDC 87188-104-90 one package containing two vials of Argatroban Injection (each vial contains 125 mg of argatroban).
+NDC 87188-104-90 one package containing two vials of Argatroban in 0.9% Sodium Chloride Injection (each vial contains 125 mg of argatroban).
 
 Vial may be inverted for use with a medical infusion set.
 

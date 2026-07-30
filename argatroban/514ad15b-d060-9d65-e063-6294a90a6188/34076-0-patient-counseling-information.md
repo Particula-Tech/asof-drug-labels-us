@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Inform patients of the risks associated with Argatroban Injection as well as the plan for regular monitoring during administration of the drug.
+Inform patients of the risks associated with Argatroban in 0.9% Sodium Chloride Injection as well as the plan for regular monitoring during administration of the drug.
 Specifically, inform patients to report:
 
 - the use of any other products known to affect bleeding.
