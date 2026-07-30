@@ -77,12 +77,10 @@ Advise patients and caregivers:
   It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 - Advise patients to inform their family members that, in the event of emergency, the treating healthcare providers or emergency room staff should be informed that the patient is physically dependent on an opioid and that the patient is being treated with buprenorphine sublingual tablets.
 
-Dispense with Medication Guide available at: www.tevausa.com/medguides
-
 Manufactured In Czech Republic By: Teva Czech Industries s.r.o.
 Opava-Komarov, Czech Republic
 
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-B 12/2025
+D 5/2026

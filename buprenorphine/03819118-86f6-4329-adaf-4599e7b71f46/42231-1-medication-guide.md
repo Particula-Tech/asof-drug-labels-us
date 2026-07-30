@@ -1,7 +1,5 @@
 # MEDICATION GUIDE
 
-Dispense with Medication Guide available at: www.tevausa.com/medguides
-
 | BUPRENORPHINE (bue" pre nor' feen) SUBLINGUAL TABLETS, CIII |  |  |
 | --- | --- | --- |
 | IMPORTANT:Keep buprenorphine sublingual tablets in a secure place away from children. Accidental use by a child is a medical emergency and can result in death. If a child accidentally takes buprenorphine sublingual tablets, get emergency help or call 911 right away. Tell your healthcare provider if you are living in a household where there are small children. |  |  |
@@ -27,4 +25,4 @@ Dispense with Medication Guide available at: www.tevausa.com/medguides
 | Buprenorphine sublingual tablets may affect fertility in males and females. Talk to your healthcare provider if this is a concern for you. These are not all the possible side effects of buprenorphine sublingual tablets.Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |
 | General information about the safe and effective use of buprenorphine sublingual tablets. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not take buprenorphine sublingual tablets for a condition for which they were not prescribed. Do not give buprenorphine sublingual tablets to other people, even if they have the same symptoms you have. It may harm them and it is against the law.You can ask your doctor or pharmacist for information that is written for healthcare professionals. |  |  |
 | Manufactured In Czech Republic By: Teva Czech Industries s.r.o., Opava-Komarov, Czech Republic Manufactured For: Teva Pharmaceuticals, Parsippany, NJ 07054For more information, call Teva at 1-888-838-2872. |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. Rev. B 10/2025 |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. Rev. C 2/2026 |  |  |

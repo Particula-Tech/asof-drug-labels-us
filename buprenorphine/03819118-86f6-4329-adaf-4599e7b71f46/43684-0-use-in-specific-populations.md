@@ -29,8 +29,8 @@ In addition, untreated opioid addiction often results in continued or relapsing 
 
 Dose Adjustment during Pregnancy and the Postpartum Period
 
-Dosage adjustments of buprenorphine may be required during pregnancy, even if the patient was maintained on a stable dose prior to pregnancy.
-Withdrawal signs and symptoms should be monitored closely and the dose adjusted as necessary.
+Dosage adjustments of buprenorphine, such as a higher doses, may be required during pregnancy, even if the patient was maintained on a stable dose prior to pregnancy.
+Dosing should be based on individual response, and withdrawal signs and symptoms should be monitored closely and the dose adjusted as necessary.
 
 Fetal/neonatal adverse reactions
 
