@@ -21,3 +21,7 @@ Montelukast Sodium Tablets USP 10 mg (Dahej)
 Montelukast Sodium Oral Granules USP 4mg (Packets)-Indrad
 
 Montelukast Sodium Oral Granules USP 4mg (Carton)-Indrad
+
+Montelukast Sodium Oral Granules USP 4mg (Packets)-Dahej
+
+Montelukast Sodium Oral Granules USP 4mg (Carton)-Dahej
