@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA211415"
+  ],
+  "inn": "cetirizine",
+  "labeler": "ESTEVE PHARMACEUTICALS, S.A.",
+  "package_ndcs": [
+    "68118-100-01",
+    "68118-100-10",
+    "68118-100-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "cetirizine hydrochloride",
+      "name": "QUZYTTIR"
+    }
+  ],
+  "setid": "573770f6-b76e-f6ba-e063-6294a90aa54d",
+  "source": "dailymed"
+}
