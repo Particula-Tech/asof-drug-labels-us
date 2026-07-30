@@ -25,10 +25,11 @@ Thrombosis
 Advise patients to stop taking tofacitinib tablets and to call their healthcare provider right away if they experience any symptoms of thrombosis (sudden shortness of breath, chest pain worsened with breathing, swelling of leg or arm, leg pain or tenderness, red or discolored skin in the affected leg or arm) [see Warnings and Precautions (5.5)].
 
 Hypersensitivity Advise patients to stop taking tofacitinib tablets and to call their healthcare provider right away if they experience any symptoms of allergic reactions while taking tofacitinib tablets [see Warnings and Precautions (5.7)].
-
+Hypoglycemia in Patients with Diabetes Consider advising patients with diabetes to increase monitoring of blood glucose since hypoglycemia, including severe hypoglycemia, has been reported after starting tofacitinib tablets.
+Advise patients with diabetes to notify their healthcare provider if they develop signs or symptoms of hypoglycemia [see Warnings and Precautions (5.8)].
 Important Information on Laboratory Abnormalities
 
-Inform patients that tofacitinib tablets may affect certain lab test results, and that blood tests are required before and during tofacitinib tablets treatment [see Warnings and Precautions (5.8)].
+Inform patients that tofacitinib tablets may affect certain lab test results, and that blood tests are required before and during tofacitinib tablets treatment [see Warnings and Precautions (5.9)].
 
 Pregnancy
 
@@ -52,4 +53,4 @@ Xeljanz Oral Solution is a registered trademark of Pfizer, Inc.
 
 All trademarks are the property of their respective owners.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Issued: May 2026
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 07/2026

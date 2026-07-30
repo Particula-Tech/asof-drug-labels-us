@@ -136,7 +136,13 @@ Reactions such as angioedema and urticaria that may reflect drug hypersensitivit
 Some events were serious.
 If a serious hypersensitivity reaction occurs, promptly discontinue tofacitinib tablets while evaluating the potential cause or causes of the reaction [see Adverse Reactions (6.2)].
 
-## 5.8 Laboratory Abnormalities
+## 5.8 Hypoglycemia in Patients with Diabetes
+
+Hypoglycemia, including severe hypoglycemia, has been reported following initiation of tofacitinib tablets and other JAK inhibitors in patients with diabetes.
+During treatment with tofacitinib tablets, consider increased monitoring of blood glucose as clinically indicated in patients with diabetes.
+Advise patients with diabetes to notify their healthcare provider if they develop signs or symptoms of hypoglycemia.
+
+## 5.9 Laboratory Abnormalities
 
 Laboratory abnormalities may occur with tofacitinib tablets.
 
@@ -182,7 +188,7 @@ The effect of these lipid parameter elevations on cardiovascular morbidity and m
 - Perform assessment of lipid parameters approximately 4 to 8 weeks following initiation of tofacitinib tablets therapy.
 - Manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
 
-## 5.9 Vaccinations
+## 5.10 Vaccinations
 
 Avoid use of live vaccines concurrently with tofacitinib tablets.
 Prior to initiating tofacitinib tablets therapy, update immunizations in agreement with current immunization guidelines.

@@ -8,19 +8,19 @@ Prior to initiating tofacitinib tablets, consider performing the following:
 
 - Viral hepatitis screening in accordance with clinical guidelines [see Warnings and Precautions (5.1)].
 
-- A complete blood count: Avoid initiation of tofacitinib tablets treatment in patients with a lymphocyte count less than 500 cells/mm3, absolute neutrophil count less than 1000 cells/mm3, or hemoglobin level less than 9 g/dL [see Warnings and Precautions (5.8)].
+- A complete blood count: Avoid initiation of tofacitinib tablets treatment in patients with a lymphocyte count less than 500 cells/mm3, absolute neutrophil count less than 1000 cells/mm3, or hemoglobin level less than 9 g/dL [see Warnings and Precautions (5.9)].
 
 - Baseline hepatic function evaluation: Tofacitinib tablets are not recommended for patients with severe hepatic impairment [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
 - Update immunizations according to current immunization guidelines.
-  The interval between live vaccinations and initiation of tofacitinib tablets should be in accordance with current vaccination guidelines regarding immunosuppressive agents [see Warnings and Precautions (5.9)].
+  The interval between live vaccinations and initiation of tofacitinib tablets should be in accordance with current vaccination guidelines regarding immunosuppressive agents [see Warnings and Precautions (5.10)].
 
 ## 2.2 Important Administration Instructions
 
 - XELJANZ XR (extended-release tablets) is not substitutable with tofacitinib tablets.
   Switching between tofacitinib tablets and XELJANZ XR should be made by the healthcare provider.
 
-- Dose interruption is recommended for management of lymphopenia, neutropenia, and anemia [see Warnings and Precautions (5.8) and Adverse Reactions (6.1)].
+- Dose interruption is recommended for management of lymphopenia, neutropenia, and anemia [see Warnings and Precautions (5.9) and Adverse Reactions (6.1)].
 
 - Interrupt use of tofacitinib tablets if a patient develops a serious infection until the infection is controlled [see Warnings and Precautions (5.1)].
 
@@ -68,7 +68,7 @@ Patients treated with tofacitinib tablets 5 mg twice daily may be switched to XE
 ## 2.4 Recommended Dosage in Pediatric Patients 2 Years of Age and Older with Psoriatic Arthritis or Polyarticular Course Juvenile Idiopathic Arthritis
 
 Table 2 displays the recommended body weight-based dosages for tofacitinib tablets in pediatric patients 2 years of age and older with PsA or pcJIA [see Indication and Usage (1.2, 1.4)] with and without renal impairment (including those who are undergoing hemodialysis) or hepatic impairment [see Use in Specific Populations (8.6,8.7)].
-The table also includes recommended dosage modification for pediatric patients concomitantly using CYP2C19 and/or CYP3A4 inhibitors [see Drug Interactions (7)and Clinical Pharmacology (12.3)], and pediatric patients with lymphopenia, neutropenia, or anemia.
+The table also includes recommended dosage modification for pediatric patients concomitantly using CYP2C19 and/or CYP3A4 inhibitors [see Drug Interactions (7) and Clinical Pharmacology (12.3)], and pediatric patients with lymphopenia, neutropenia, or anemia.
 
 Table 2: Recommended Dosage of Tofacitinib Tablets in Pediatric Patients 2 Years of Age and Older with PsA or pcJIA
 

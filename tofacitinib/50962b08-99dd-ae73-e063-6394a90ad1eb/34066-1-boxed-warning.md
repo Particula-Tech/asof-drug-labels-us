@@ -2,7 +2,7 @@
 
 SERIOUS INFECTIONS
 
-Patients treated with tofacitinib tablets are at increased risk for developing serious bacterial, fungal, viral, and opportunistic infections, including tuberculosis (TB), that may lead to hospitalization or death [see Warnings and Precautions (5.1)and Adverse Reactions (6.1)].
+Patients treated with tofacitinib tablets are at increased risk for developing serious bacterial, fungal, viral, and opportunistic infections, including tuberculosis (TB), that may lead to hospitalization or death [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 Most patients who developed these infections were taking concomitant immunosuppressants such as methotrexate or corticosteroids.
 Reported infections included:
 
@@ -30,10 +30,7 @@ In RA patients, a higher rate of malignancies (excluding non-melanoma skin cance
 
 Lymphomas and lung cancers were observed at a higher rate in patients treated with tofacitinib tablets 5 mg or 10 mg twice a day in RA patients compared to those treated with TNF blockers.
 Patients who are current or past smokers are at additional increased risk.
-
-MAJOR ADVERSE CARDIOVASCULAR EVENTS
-
-RA patients 50 years of age and older with at least one cardiovascular risk factor, treated with tofacitinib tablets 5 mg or 10 mg twice daily, had a higher rate of major adverse cardiovascular events (MACE) (defined as cardiovascular death, myocardial infarction, and stroke), compared to those treated with TNF blockers.
+MAJOR ADVERSE CARDIOVASCULAR EVENTS RA patients 50 years of age and older with at least one cardiovascular risk factor, treated with tofacitinib tablets 5 mg or 10 mg twice daily, had a higher rate of major adverse cardiovascular events (MACE) (defined as cardiovascular death, myocardial infarction, and stroke), compared to those treated with TNF blockers.
 Patients who are current or past smokers are at additional increased risk.
 Discontinue tofacitinib tablets in patients that have experienced a myocardial infarction or stroke [see Warnings and Precautions (5.4)].
 
