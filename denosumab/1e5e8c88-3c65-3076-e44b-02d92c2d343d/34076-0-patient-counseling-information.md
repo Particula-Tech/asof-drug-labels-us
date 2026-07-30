@@ -68,9 +68,9 @@ Manufactured by:
 
 Biocon Biologics Inc.
 
-245 Main st, 2nd floor, Cambridge
+685 Route 202/206, Suite 204,
 
-MA 02142, U.S.A.
+Bridgewater, NJ 08807, U.S.A.
 
 U.S License No. 2324
 
