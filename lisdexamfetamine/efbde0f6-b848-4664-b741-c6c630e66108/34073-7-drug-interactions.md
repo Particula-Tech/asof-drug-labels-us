@@ -24,9 +24,8 @@ Table 5: Drugs Having Clinically Important Interactions with Amphetamines
 | Clinical Impact | May enhance the activity of tricyclic or sympathomimetic agents causing striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated. |
 | Intervention | Monitor frequently and adjust or use alternative therapy based on clinical response. |
 
-## 7.2 Drugs Having No Clinically Important Interactions with Lisdexamfetamine Dimesylate
+## 7.2 Interference with Laboratory Test
 
-From a pharmacokinetic perspective, no dose adjustment of lisdexamfetamine dimesylate is necessary when lisdexamfetamine dimesylate is co-administered with guanfacine, venlafaxine, or omeprazole.
-In addition, no dose adjustment of guanfacine or venlafaxine is needed when lisdexamfetamine dimesylate is co-administered [see Clinical Pharmacology (12.3)].
-
-From a pharmacokinetic perspective, no dose adjustment for drugs that are substrates of CYP1A2 (e.g., theophylline, duloxetine, melatonin), CYP2D6 (e.g., atomoxetine, desipramine, venlafaxine), CYP2C19 (e.g., omeprazole, lansoprazole, clobazam), and CYP3A4 (e.g., midazolam, pimozide, simvastatin) is necessary when lisdexamfetamine dimesylate is co-administered [see Clinical Pharmacology (12.3)].
+Allow for an adequate washout period between administration of lisdexamfetamine dimesylate and radioactive diagnostic agents used for dopamine transporter (DAT) visualization.
+Lisdexamfetamine dimesylate can interfere with the test results of a radioactive diagnostic agent (ioflupane I-123) that is used for DAT visualization by binding and internalization of the DAT, which may result in lower DAT in the striatum.
+This may lead to false-positive diagnostic results.
