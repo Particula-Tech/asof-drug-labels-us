@@ -1,31 +1,33 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Lactic Acidosis and Severe Hepatomegaly with Steatosis
+## 5.1 Exacerbations of Hepatitis after Discontinuation of Treatment
 
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including lamivudine tablets (HBV) and other antiretrovirals.
-A majority of these cases have been in women.
-Obesity and prolonged nucleoside exposure may be risk factors.
-Most of these reports have described patients receiving nucleoside analogues for treatment of HIV infection, but there have been reports of lactic acidosis in patients receiving lamivudine for hepatitis B. Caution should be exercised when administering lamivudine tablets (HBV) to any patient with known risk factors for liver disease; however, cases also have been reported in patients with no known risk factors.
-Treatment with lamivudine tablets (HBV) should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
-
-## 5.2 Exacerbations of Hepatitis after Discontinuation of Treatment
-
-Clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of lamivudine tablets (HBV) (these have been primarily detected by serum ALT elevations, in addition to the re-emergence of HBV DNA commonly observed after stopping treatment; see Table 4 for more information regarding frequency of posttreatment ALT elevations) [see Adverse Reactions (6.1)].
+Clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of lamivudine.
+These exacerbations have been detected primarily by serum ALT elevations in addition to re-emergence of HBV DNA commonly observed after stopping treatment; see Table 4 for more information regarding frequency of posttreatment ALT elevations [see Adverse Reactions (6.1)].
 Although most events appear to have been self-limited, fatalities have been reported in some cases.
-The causal relationship of hepatitis exacerbation after discontinuation of lamivudine tablets (HBV) has not been clearly established.
+The causal relationship to discontinuation of lamivudine treatment is unknown.
 Patients should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with lamivudine tablets (HBV).
 There is insufficient evidence to determine whether re-initiation of lamivudine tablets (HBV) alters the course of posttreatment exacerbations of hepatitis.
 
-## 5.3 Risk of HIV-1 Resistance if Lamivudine Tablets (HBV) Is Used in Patients with Unrecognized or Untreated HIV-1 Infection
+## 5.2 Risk of HIV-1 Resistance if lamivudine tablets (HBV) is Used in Patients with Unrecognized or Untreated HIV-1 Infection
 
 Lamivudine tablets (HBV) contain a lower lamivudine dose than the lamivudine dose used to treat HIV-1 infection with lamivudine tablets and oral solution or with lamivudine- containing antiretroviral fixed-dose combination products.
 Lamivudine tablets (HBV) is not appropriate for patients co-infected with HBV and HIV-1.
-If a patient with unrecognized or untreated HIV-1 infection is prescribed lamivudine tablets (HBV) for the treatment of HBV, rapid emergence of HIV-1 resistance is likely to result because of the subtherapeutic dose and the inappropriate use of monotherapy for HIV-1 treatment.
+If a patient with unrecognized or untreated HIV-1 infection is prescribed lamivudine tablets (HBV) for the treatment of HBV, rapid emergence of HIV-1 resistance is likely to result because of the sub therapeutic dose and the inappropriate use of monotherapy for HIV-1 treatment.
 HIV counseling and testing should be offered to all patients before beginning treatment with lamivudine tablets (HBV) and periodically during treatment because of the risk of rapid emergence of resistant HIV-1 and limitation of treatment options if lamivudine tablets (HBV) is prescribed to treat chronic hepatitis B in a patient who has unrecognized or untreated HIV-1 infection or who acquires HIV-1 infection during treatment.
 
-## 5.4 Emergence of Resistance-Associated HBV Substitutions
+## 5.3 Emergence of Resistance-Associated HBV Substitutions
 
-In controlled clinical trials, YMDD-mutant HBV was detected in subjects with on– lamivudine tablets (HBV) re-appearance of HBV DNA after an initial decline below the solution-hybridization assay limit [see Microbiology (12.4)].Subjects treated with lamivudine tablets (HBV) (adults and children) with YMDD-mutant HBV at 52 weeks showed diminished treatment responses in comparison with subjects treated with lamivudine tablets (HBV) without evidence of YMDD substitutions, including the following: lower rates of HBeAg seroconversion and HBeAg loss (no greater than placebo recipients), more frequent return of positive HBV DNA, and more frequent ALT elevations.
-In the controlled trials, when subjects developed YMDD-mutant HBV, they had a rise in HBV DNA and ALT from their own previous on-treatment levels.
+In controlled clinical trials, YMDD-mutant HBV was detected in subjects with on– lamivudine tablets (HBV) re-appearance of HBV DNA after an initial decline below the assay limit [see Microbiology (12.4)].
+Subjects treated with lamivudine tablets (HBV) (adults and children) with YMDD-mutant HBV at 52 weeks showed diminished treatment responses in comparison with subjects treated with lamivudine tablets (HBV) without evidence of YMDD substitutions, including the following: lower rates of HBeAg seroconversion and HBeAg loss (no greater than placebo recipients), more frequent return of positive HBV DNA, and more frequent ALT elevations.
+In the controlled trials, when subjects developed YMDD-mutant HBV, they had a rise in HBV DNA and ALT from their previous on-treatment levels.
 Progression of hepatitis B, including death, has been reported in some subjects with YMDD-mutant HBV, including subjects from the liver transplant setting and from other clinical trials.
-In clinical practice, monitoring of ALT and HBV DNA levels during treatment with lamivudine tablets (HBV) may aid in treatment decisions if emergence of viral mutants is suspected.
+In order to reduce the risk of resistance in patients receiving monotherapy with lamivudine tablets (HBV), a switch to an alternative regimen should be considered if serum HBV DNA remains detectable after 24 weeks of treatment.
+Optimal therapy should be guided by resistance testing.
+
+## 5.4 Lactic Acidosis and Severe Hepatomegaly with Steatosis
+
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues, including lamivudine tablets (HBV).
+A majority of these cases have been in women.
+Female sex and obesity may be risk factors for the development of lactic acidosis and severe hepatomegaly with steatosis in patients treated with antiretroviral nucleoside analogues.
+Most of these reports have described patients receiving nucleoside analogues for treatment of HIV infection, but there have been reports of lactic acidosis in patients receiving lamivudine for hepatitis B. Treatment with lamivudine tablets (HBV) should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations.

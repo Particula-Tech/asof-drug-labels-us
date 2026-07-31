@@ -1,8 +1,8 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 HIV Counseling and Testing
 
-HIV counseling and testing should be offered to all patients before beginning treatment with lamivudine tablets (HBV) and periodically during treatment because of the risk of emergence of resistant-HIV-1 and limitation of treatment options if lamivudine tablets (HBV) is prescribed to treat chronic hepatitis B infection in a patient who has unrecognized HIV-1 infection or acquires HIV-1 infection during treatment [see Warnings and Precautions (5.3)].
+HIV counseling and testing should be offered to all patients before beginning treatment with lamivudine tablets (HBV) and periodically during treatment because of the risk of emergence of resistant human immunodeficiency virus type 1 (HIV-1) and limitation of treatment options if lamivudine tablets (HBV) is prescribed to treat chronic hepatitis B infection in a patient who has unrecognized HIV-1 infection or acquires HIV-1 infection during treatment [see Warnings and Precautions (5.2)].
 
 ## 2.2 Recommended Dosage for Adult Patients
 
@@ -16,15 +16,16 @@ The oral solution formulation should be prescribed for patients requiring a dosa
 ## 2.4 Patients with Renal Impairment
 
 Dosage recommendations for adult patients with reduced renal function are provided in Table 1 [see Clinical Pharmacology (12.3)].
+
 Table 1.
 Dosage of Lamivudine Tablets (HBV) in Adult Patients with Renal Impairment
 
 | Creatinine Clearance (mL/min) | Recommended Dosage of Lamivudine Tablets (HBV) |
 | --- | --- |
 | ≥50 | 100 mg once daily |
-| 30-49 | 100 mg first dose, then 50 mg once daily |
-| 15-29 | 100 mg first dose, then 25 mg once daily |
-| 5-14 | 35 mg first dose, then 15 mg once daily |
+| 30 to 49 | 100 mg first dose, then 50 mg once daily |
+| 15 to 29 | 100 mg first dose, then 25 mg once daily |
+| 5 to 14 | 35 mg first dose, then 15 mg once daily |
 | <5 | 35 mg first dose, then 10 mg once daily |
 
 Following correction of the dosage for renal impairment, no additional dosage modification of lamivudine tablets (HBV) is required after routine (4-hour) hemodialysis or peritoneal dialysis [see Clinical Pharmacology (12.3)].
@@ -32,7 +33,7 @@ There are insufficient data to recommend a specific dosage of lamivudine tablets
 
 ## 2.5 Important Administration Instructions
 
-• Lamivudine tablets (HBV) may be administered with or without food. • The tablets and oral solution may be used interchangeably [see Clinical Pharmacology (12.3)]. • The oral solution should be used for doses less than 100 mg. • Lamivudine tablets (HBV) should not be used with other medications that contain lamivudine or medications that contain emtricitabine
+• Lamivudine tablets (HBV) may be administered with or without food. • The tablets and oral solution may be used interchangeably [see Clinical Pharmacology (12.3)]. • The oral solution should be used for doses less than 100 mg. • Lamivudine tablets (HBV) should not be used with other medications that contain lamivudine or medications that contain emtricitabine.
 
 ## 2.6 Assessing Patients during Treatment
 

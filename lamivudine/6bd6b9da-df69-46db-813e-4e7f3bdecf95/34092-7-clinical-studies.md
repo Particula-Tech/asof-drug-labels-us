@@ -1,12 +1,12 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Clinical Studies of Lamivudine Tablets (HBV) in Adult Patients
+## 14.1 Adult Subjects
 
 The safety and efficacy of lamivudine tablets (HBV) 100 mg once daily versus placebo were evaluated in 3 controlled trials in subjects with compensated chronic hepatitis B virus infection.
 All subjects were aged 16 years or older and had chronic hepatitis B virus infection (serum HBsAg-positive for at least 6 months) accompanied by evidence of HBV replication (serum HBeAg-positive and positive for serum HBV DNA) and persistently elevated ALT levels and/or chronic inflammation on liver biopsy compatible with a diagnosis of chronic viral hepatitis.
 The results of these trials are summarized below.
 
-- Trial 1 was a randomized, double-blind trial of lamivudine tablets (HBV) 100 mg once daily versus placebo for 52 weeks followed by a 16-week no-treatment period in 141 treatment-naive US subjects.
+- Trial 1 was a randomized, double-blind trial of lamivudine tablets (HBV) 100 mg once daily versus placebo for 52 weeks followed by a 16-week no-treatment period in 141 treatment-naive U.S. subjects.
 - Trial 2 was a randomized, double-blind, 3-arm trial that compared lamivudine tablets (HBV) 25 mg once daily versus lamivudine tablets (HBV) 100 mg once daily versus placebo for 52 weeks in 358 Asian subjects.
 - Trial 3 was a randomized, partially-blind trial conducted primarily in North America and Europe in 238 subjects who had ongoing evidence of active chronic hepatitis B despite previous treatment with interferon alfa.
   The trial compared lamivudine tablets (HBV) 100 mg once daily for 52 weeks, followed by either lamivudine tablets (HBV) 100 mg or matching placebo once daily for 16 weeks (Arm 1), versus placebo once daily for 68 weeks (Arm 2).
@@ -14,7 +14,7 @@ The results of these trials are summarized below.
 Principal endpoint comparisons for the histologic and serologic outcomes in subjects receiving lamivudine tablets (HBV) (100 mg daily) or placebo in these trials are shown in the following tables.
 
 Table 7.
-Histologic Response at Week 52 among Adult Subjects Receiving Lamivudine Tablets (HBV)100 mg Once Daily or Placebo
+Hist ologicRe sponse at Wee k 52 amo ngA dultS ubject sRece ivingLamivudine Tablets (HBV)100 mg Once Daily or Placebo
 
 | Assessment | Trial 1 |  | Trial 2 |  | Trial 3 |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -40,9 +40,9 @@ Normalization of serum ALT levels was more frequent with treatment of lamivudine
 The majority of subjects treated with lamivudine tablets (HBV) showed a decrease of HBV DNA to below the assay limit early in the course of therapy.
 However, reappearance of assay-detectable HBV DNA during treatment with lamivudine tablets (HBV) was observed in approximately one-third of subjects after this initial response.
 
-## 14.2 Clinical Studies of Lamivudine Tablets (HBV) in Pediatric Subjects
+## 14.2 Pediatric Subjects
 
-The safety and efficacy of lamivudine tablets (HBV) were evaluated in a double-blind clinical trial in 286 subjects aged from 2 to 17 years, who were randomized (2:1) to receive 52 weeks of lamivudine tablets (HBV) (3 mg per kg once daily to a maximum of 100 mg once daily) or placebo.
+The safety and efficacy of lamivudine tablets (HBV) were evaluated in a double-blind clinical trial in 286 subjects aged 2 to 17 years, who were randomized (2:1) to receive 52 weeks of lamivudine tablets (HBV) (3 mg per kg once daily to a maximum of 100 mg once daily) or placebo.
 All subjects had compensated chronic hepatitis B accompanied by evidence of hepatitis B virus replication (positive serum HBeAg and positive for serum HBV DNA by a research branched-chain DNA assay) and persistently elevated serum ALT levels.
 The combination of loss of HBeAg and reduction of HBV DNA to below the assay limit of the research assay, evaluated at Week 52, was observed in 23% of subjects treated with lamivudine tablets (HBV) and 13% of placebo-treated subjects.
 Normalization of serum ALT was achieved and maintained to Week 52 more frequently in subjects treated with lamivudine tablets (HBV) compared with placebo (55% versus 13%).
