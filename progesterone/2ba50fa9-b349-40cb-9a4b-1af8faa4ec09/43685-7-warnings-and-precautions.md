@@ -2,14 +2,12 @@
 
 ## 5.1 Cardiovascular or Cerebrovascular Disorders
 
-The physician should be alert to earliest signs of myocardial infarction, cerebrovascular disorders, arterial or venous thromboembolism (venous thromboembolism or pulmonary embolism), thrombophlebitis, or retinal thrombosis.
+Life-threatening arterial or venous thromboembolic disorders may occur during hormone treatment, including treatment with ENDOMETRIN.
+
+The healthcare provider should be alert to earliest signs of myocardial infarction, cerebrovascular disorders, arterial or venous thromboembolism (venous thromboembolism or pulmonary embolism), thrombophlebitis, or retinal thrombosis.
 ENDOMETRIN should be discontinued if any of these are suspected.
 
 ## 5.2 Depression
 
-Patients with a history of depression need to be closely observed.
-Consider discontinuation if symptoms worsen.
-
-## 5.3 Use of Other Vaginal Products
-
-ENDOMETRIN should not be recommended for use with other vaginal products (such as antifungal products) as this may alter progesterone release and absorption from the vaginal insert [see Drug Interactions (7)].
+ENDOMETRIN-treated women with a history of depression should be closely observed.
+Consider ENDOMETRIN discontinuation if symptoms worsen.

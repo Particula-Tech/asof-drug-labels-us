@@ -1,7 +1,3 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing Information
-
-The dose of ENDOMETRIN is 100 mg administered vaginally two or three times daily starting the day after oocyte retrieval and continuing for up to 10 weeks total duration.
-Efficacy in women 35 years of age and older has not been clearly established.
-The appropriate dose of ENDOMETRIN in this age group has not been determined.
+The recommended ENDOMETRIN dose is 100 mg administered vaginally two or three times daily starting the day after oocyte retrieval and continuing for up to 10 weeks total duration.

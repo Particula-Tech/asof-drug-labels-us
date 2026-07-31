@@ -1,10 +1,10 @@
 # 4 CONTRAINDICATIONS
 
-ENDOMETRIN is contraindicated in individuals with any of the following conditions:
+ENDOMETRIN is contraindicated in women with any of the following conditions:
 
-- Previous allergic reactions to progesterone or any of the ingredients of ENDOMETRIN [see Description (11)]
-- Undiagnosed vaginal bleeding
+- Previous hypersensitivity reactions to progesterone or any of the ingredients of ENDOMETRIN [see Description (11)]
+- Abnormal vaginal bleeding that has an undiagnosed etiology
 - Known missed abortion or ectopic pregnancy
-- Liver disease
-- Known or suspected malignancy of the breast or genital organs
+- Hepatic adenoma, hepatocellular carcinoma, acute hepatitis, or severe (decompensated) cirrhosis
+- Current diagnosis of, or history of, a hormone-sensitive malignancy (e.g., breast cancer)
 - Active arterial or venous thromboembolism or severe thrombophlebitis, or a history of these events
