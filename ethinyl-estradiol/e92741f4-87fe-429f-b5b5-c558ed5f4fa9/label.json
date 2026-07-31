@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA219990"
+  ],
+  "inn": "ethinyl-estradiol",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "49502-627-61",
+    "49502-627-62",
+    "49502-627-63",
+    "49502-627-64",
+    "49502-627-65"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "norelgestromin and ethinyl estradiol",
+      "name": "Gwyn Lo"
+    }
+  ],
+  "setid": "e92741f4-87fe-429f-b5b5-c558ed5f4fa9",
+  "source": "dailymed"
+}
