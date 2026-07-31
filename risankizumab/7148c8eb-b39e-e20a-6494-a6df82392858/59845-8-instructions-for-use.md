@@ -239,11 +239,11 @@ Do not recycle your used sharps disposal container.
 
 Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI and its design are trademarks of AbbVie Biotechnology Ltd. © 2026 AbbVie.
 All rights reserved.
-20092742
+20102228
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 6/2026
+Revised: 7/2026
 
 Instructions for Use SKYRIZI® (sky-RIZZ-ee) (risankizumab-rzaa) injection, for subcutaneous use
 

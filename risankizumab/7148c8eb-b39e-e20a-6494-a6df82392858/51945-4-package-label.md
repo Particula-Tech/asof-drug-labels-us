@@ -4,7 +4,9 @@ One 1 mL Single-Dose Prefilled Pen
 
 Skyrizi® PEN 150 mg/mL
 
-risankizumab-rzaa Injection
+risankizumab-rzaa
+
+Injection
 
 FOR SUBCUTANEOUS USE ONLY
 
