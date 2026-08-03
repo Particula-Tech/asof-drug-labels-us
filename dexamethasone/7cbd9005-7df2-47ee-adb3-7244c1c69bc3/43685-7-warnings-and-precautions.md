@@ -7,20 +7,74 @@ Specific events reported include, but are not limited to, spinal cord infarction
 These serious neurologic events have been reported with and without use of fluoroscopy.
 The safety and effectiveness of epidural administration of corticosteroids have not been established, and corticosteroids are not approved for this use.
 
-In patients on corticosteroid therapy subject to any unusual stress, increased dosage of rapidly acting corticosteroids before, during, and after the stressful situation is indicated.
-Corticosteroids may mask some signs of infection, and new infections may appear during their use.
-There may be decreased resistance and inability to localize infection when corticosteroids are used.
+In patients on corticosteroid therapy subject to any unusual stress, increased dosage of rapidly acting corticosteroids before, during and after the stressful situation is indicated.
 
 Prolonged use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to fungi or viruses.
 
-Children who are on immunosuppressant drugs are more susceptible to infections than healthy children.
-Chickenpox and measles, for example, can have a more serious or even fatal course in children on immunosuppressant corticosteroids.
-In such children or in adults who have not had these diseases, particular care should be taken to avoid exposure.
-If exposed, therapy with varicella zoster immune globulin (VZIG) or pooled intravenous immunoglobulin (IVIG), as appropriate, may be indicated.
-If chickenpox develops, treatment with antiviral agents may be considered.
+## Immunosuppression and Increased Risk of Infection
 
-Similarly, corticosteroids should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
+Corticosteroids, including dexamethasone sodium phosphate injection, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens.
+Corticosteroids can:
+
+- •Reduce resistance to new infections
+- •Exacerbate existing infections
+- •Increase the risk of disseminated infections
+- •Increase the risk of reactivation or exacerbation of latent infections
+- •Mask some signs of infection
+
+Corticosteroid-associated infections can be mild but can be severe and at times fatal.
+The rate of infectious complications increases with increasing corticosteroid dosages.
+
+Monitor for the development of infection and consider dexamethasone sodium phosphate injection withdrawal or dosage reduction as needed.
+
+Do not administer dexamethasone sodium phosphate injection by an intraarticular, intrabursal, intratendinous, or intralesional route in the presence of acute local infection.
+
+Tuberculosis
+
+If dexamethasone sodium phosphate injection is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, reactivation of the disease may occur.
+Closely monitor such patients for reactivation.
+During prolonged dexamethasone sodium phosphate injection therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
+
+Varicella Zoster and Measles Viral Infections
+
+Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including dexamethasone sodium phosphate injection.
+In corticosteroid-treated patients who have not had these diseases or are non-immune, particular care should be taken to avoid exposure to varicella and measles:
+
+- •If a dexamethasone sodium phosphate injection-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
+  If varicella develops, treatment with antiviral agents may be considered.
+- •If a dexamethasone sodium phosphate injection-treated patient is exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
+
+Hepatitis B Virus Reactivation
+
+Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including dexamethasone sodium phosphate injection.
+Reactivation can also occur infrequently in corticosteroid-treated patients who appear to have resolved hepatitis B infection.
+
+Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with dexamethasone sodium phosphate injection.
+For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy.
+
+Fungal Infections
+
+Corticosteroids, including dexamethasone sodium phosphate injection, may exacerbate systemic fungal infections; therefore, avoid dexamethasone sodium phosphate injection use in the presence of such infections unless dexamethasone sodium phosphate injection is needed to control drug reactions.
+For patients on chronic dexamethasone sodium phosphate injection therapy who develop systemic fungal infections, dexamethasone sodium phosphate injection withdrawal or dosage reduction is recommended.
+
+Amebiasis
+
+Corticosteroids, including dexamethasone sodium phosphate injection, may activate latent amebiasis.
+Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating dexamethasone sodium phosphate injection in patients who have spent time in the tropics or patients with unexplained diarrhea.
+
+Strongyloides Infestation
+
+Corticosteroids, including dexamethasone sodium phosphate injection, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
 In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
+
+Cerebral Malaria
+
+Avoid corticosteroids, including dexamethasone sodium phosphate injection, in patients with cerebral malaria.
+
+Kaposi’s Sarcoma
+
+Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
+Discontinuation of corticosteroids may result in clinical improvement of Kaposi’s sarcoma.
 
 ## Usage in Pregnancy
 
@@ -35,11 +89,6 @@ All corticosteroids increase calcium excretion.
 
 While on corticosteroid therapy patients should not be vaccinated against smallpox.
 Other immunization procedures should not be undertaken in patients who are on corticosteroids, especially in high doses, because of possible hazards of neurological complications and lack of antibody response.
-
-The use of dexamethasone sodium phosphate injection in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate anti-tuberculosis regimen.
-
-If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
-During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
 
 Because rare instances of anaphylactoid reactions have occurred in patients receiving parenteral corticosteroid therapy, appropriate precautionary measures should be taken prior to administration, especially when the patient has a history of allergy to any drug.
 
@@ -67,7 +116,6 @@ Growth and development of infants and children on prolonged corticosteroid thera
 Patients who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chickenpox or measles and, if exposed, to obtain medical advice.
 
 Intra-articular injection of a corticosteroid may produce systemic as well as local effects.
-
 Appropriate examination of any joint fluid present is necessary to exclude a septic process.
 
 A marked increase in pain accompanied by local swelling, further restriction of joint motion, fever, and malaise are suggestive of septic arthritis.

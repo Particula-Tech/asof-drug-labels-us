@@ -4,13 +4,13 @@ Dexamethasone Sodium Phosphate Injection, USP (Preservative Free) equivalent to 
 
 | Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| PRX500601 | NDC 63323-506-16 Unit of 25 | 10 mg per mL | NDC 63323-506-41 1 mL single dose vial |
+| PRX500601 | NDC 63323-506-16 Unit of 25 | 10 mg per mL | NDC 63323-506-41 1 mL Single Dose Vial |
 
-This container closure is not made with natural rubber latex.
+The container closure is not made with natural rubber latex.
 
 ## Storage
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
 Sensitive to heat.
 Do not autoclave.
 
