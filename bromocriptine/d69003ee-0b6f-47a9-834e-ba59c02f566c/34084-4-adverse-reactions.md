@@ -1,105 +1,63 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Adverse Reactions from Clinical Trials
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-Hyperprolactinemic Indications
+- Cardiac Valvulopathy and Pericardial Fibrosis [see Warnings and Precautions (5.1)]
+- Pleural, Pulmonary, and Retroperitoneal Fibrosis [see Warnings and Precautions (5.2)]
+- Hypotension/Orthostatic Hypotension [see Warnings and Precautions (5.3)]
+- Risks with Use of bromocriptine mesylate for Postpartum Lactation Inhibition or Suppression [see Warnings and Precautions (5.4)]
+- Impulse Control Disorders and Compulsive Behaviors [see Warnings and Precautions (5.5)]
+- Falling Asleep During Activities of Daily Living [see Warnings and Precautions (5.6)]
+- Visual Impairment in Patients with Prolactin-secreting Adenomas [see Warnings and Precautions (5.7)]
+- Exacerbation of Psychosis in Patients with Severe Psychotic Disorders [see Warnings and Precautions (5.8)]
+- Risks in Patients with Hereditary Problems of Galactose Intolerance, Severe Lactase Deficiency, or Glucose-Galactose Malabsorption [see Warnings and Precautions (5.9)]
+- Additional Clinically Significant Adverse Reactions and Risks in Patients with Acromegaly [see Warnings and Precautions (5.10)]
+- Additional Clinically Significant Adverse Reactions and Risks in Patients with Idiopathic Parkinson's Disease or Postencephalitic Parkinsonism [see Warnings and Precautions (5.11)]
 
-The incidence of adverse effects is quite high (69%) but these are generally mild to moderate in degree.
-Therapy was discontinued in approximately 5% of patients because of adverse effects.
-These in decreasing order of frequency are: nausea (49%), headache (19%), dizziness (17%), fatigue (7%), lightheadedness (5%), vomiting (5%), abdominal cramps (4%), nasal congestion (3%), constipation (3%), diarrhea (3%) and drowsiness (3%).
+## 6.1 Clinical Trials Experience
 
-A slight hypotensive effect may accompany bromocriptine mesylate treatment.
-The occurrence of adverse reactions may be lessened by temporarily reducing dosage to ½ a bromocriptine mesylate tablet 2 or 3 times daily.
-A few cases of cerebrospinal fluid rhinorrhea have been reported in patients receiving bromocriptine for treatment of large prolactinomas.
-This has occurred rarely, usually only in patients who have received previous transsphenoidal surgery, pituitary radiation, or both, and who were receiving bromocriptine for tumor recurrence.
-It may also occur in previously untreated patients whose tumor extends into the sphenoid sinus.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Acromegaly
+Adverse Reactions in Studies of Patients with Hyperprolactinemia-Associated Dysfunctions and Prolactin-secreting Adenomas
 
-The most frequent adverse reactions encountered in acromegalic patients treated with bromocriptine were: nausea (18%), constipation (14%), postural/orthostatic hypotension (6%), anorexia (4%), dry mouth/nasal stuffiness (4%), indigestion/dyspepsia (4%), digital vasospasm (3%), drowsiness/tiredness (3%) and vomiting (2%).
+Bromocriptine mesylate capsules therapy was discontinued in approximately 5% of patients with hyperprolactinemia associated dysfunctions.
+The most common adverse reactions in bromocriptine mesylate-treated patients with hyperprolactinemia-associated dysfunctions were nausea (49%), headache (19%), dizziness (17%), fatigue (7%), lightheadedness (5%), vomiting (5%), abdominal cramps (4%), nasal congestion (3%), constipation (3%), diarrhea (3%) and drowsiness (3%).
 
-Less frequent adverse reactions (less than 2%) were: gastrointestinal bleeding, dizziness, exacerbation of Raynaud's syndrome, headache and syncope.
-Rarely (less than 1%) hair loss, alcohol potentiation, faintness, lightheadedness, arrhythmia, ventricular tachycardia, decreased sleep requirement, visual hallucinations, lassitude, shortness of breath, bradycardia, vertigo, paresthesia, sluggishness, vasovagal attack, delusional psychosis, paranoia, insomnia, heavy headedness, reduced tolerance to cold, tingling of ears, facial pallor and muscle cramps have been reported.
+A few cases of cerebrospinal fluid rhinorrhea have been reported in bromocriptine mesylate-treated patients with large prolactinomas who have received previous transsphenoidal surgery, pituitary radiation, or both.
 
-Parkinson's Disease
+Adverse Reactions in Studies of Patients with Acromegaly
 
-In clinical trials in which bromocriptine was administered with concomitant reduction in the dose of levodopa/carbidopa, the most common newly appearing adverse reactions were: nausea, abnormal involuntary movements, hallucinations, confusion, "on-off" phenomenon, dizziness, drowsiness, faintness/fainting, vomiting, asthenia, abdominal discomfort, visual disturbance, ataxia, insomnia, depression, hypotension, shortness of breath, constipation, and vertigo.
+The most frequent adverse reactions in bromocriptine mesylate-treated patients with acromegaly were nausea (18%), constipation (14%), postural/orthostatic hypotension (6%), anorexia (4%), dry mouth/nasal stuffiness (4%), indigestion/dyspepsia (4%), digital vasospasm (3%), drowsiness/tiredness (3%) and vomiting (2%).
 
-Less common adverse reactions which may be encountered include: anorexia, anxiety, blepharospasm, dry mouth, dysphagia, edema of the feet and ankles, erythromelalgia, epileptiform seizure, fatigue, headache, lethargy, mottling of skin, nasal stuffiness, nervousness, nightmares, paresthesia, skin rash, urinary frequency, urinary incontinence, urinary retention, and rarely, signs and symptoms of ergotism such as tingling of fingers, cold feet, numbness, muscle cramps of feet and legs or exacerbation of Raynaud's syndrome.
+Adverse reactions that occurred in less than 2% of bromocriptine mesylate-treated patients with acromegaly were gastrointestinal bleeding, dizziness, exacerbation of Raynaud's syndrome, headache, and syncope.
 
-Abnormalities in laboratory tests may include elevations in blood urea nitrogen, SGOT, SGPT, GGPT, CPK, alkaline phosphatase and uric acid, which are usually transient and not of clinical significance.
+Adverse reactions that occured in less than 1% of bromocriptine mesylate-treated patients with acromegaly were hair loss, alcohol potentiation, faintness, light headedness, arrhythmia, ventricular tachycardia, decreased sleep requirement, visual hallucinations, lassitude, shortness of breath, bradycardia, vertigo, paresthesia, sluggishness, vasovagal attack, delusional psychosis, paranoia, insomnia, heavy headedness, reduced tolerance to cold, tingling of ears, facial pallor, and muscle cramps.
 
-Adverse Reactions from Postmarketing Experience
+Adverse Reactions in Studies of Patients with Idiopathic Parkinson's Disease or Postencephalitic Parkinsonism
 
-The following adverse reactions have been reported during postapproval use of bromocriptine (All Indications Combined).
-Because adverse reactions from spontaneous reports are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+In clinical trials in bromocriptine mesylate-treated patients with idiopathic Parkinson's disease or postencephalitic parkinsonism where patients had a reduction in the levodopa/carbidopa dosage, the most common adverse reactions were nausea, abnormal involuntary movements, hallucinations, confusion, "on-off'' phenomenon, dizziness, drowsiness, faintness/fainting, vomiting, asthenia, abdominal discomfort, visual disturbance, ataxia, insomnia, depression, hypotension, shortness of breath, constipation, and vertigo.
 
-Psychiatric disorders
+Less common adverse reactions in bromocriptine mesylate-treated patients with idiopathic Parkinson's disease or postencephalitic parkinsonism were anorexia, anxiety, blepharospasm, dry mouth, dysphagia, edema of the feet and ankles, erythromelalgia, epileptiform seizure, fatigue, headache, lethargy, mottling of skin, nasal stuffiness, nervousness, nightmares, paresthesia, skin rash, urinary frequency, urinary incontinence, urinary retention, and rarely, signs and symptoms of ergotism such as tingling of fingers, cold feet, numbness, muscle cramps of feet and legs or exacerbation of Raynaud's syndrome.
 
-Confusion, psychomotor agitation/excitation, hallucinations, psychotic disorders, insomnia, libido increase, hypersexuality and impulse control/compulsive behaviors (including gambling, spending, and other intense urges).
+Abnormalities in laboratory tests in bromocriptine mesylate-treated patients with idiopathic or postencephalitic Parkinson's disease may include elevations in blood urea nitrogen, ALT, AST, GGPT, CPK, alkaline phosphatase and uric acid, which are usually transient.
 
-Nervous system disorders
+Additional Adverse Reactions in Clinical Studies of Bromocriptine Mesylate
 
-Headache, drowsiness, dizziness, dyskinaesia, somnolence, paraesthesia, excess daytime somnolence, sudden onset of sleep.
+During clinical trials, dizziness, drowsiness, faintness, fainting, and syncope have been reported early in the course of bromocriptine mesylate therapy.
 
-Eye disorders
+## 6.2 Postmarketing Experience
 
-Visual disturbance, vision blurred.
+The following adverse reactions have been identified during post approval use of bromocriptine mesylate capsules.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Ear and labyrinth disorders
-
-Tinnitus.
-
-Cardiac disorders
-
-Pericardial effusion, constrictive pericarditis, tachycardia, bradycardia, arrhythmia, cardiac valve fibrosis.
-
-Vascular disorders
-
-Hypotension, orthostatic hypotension (very rarely leading to syncope), reversible pallor of fingers and toes induced by cold (especially in patients with history of Raynaud's phenomenon).
-
-Respiratory, thoracic and mediastinal disorders
-
-Nasal congestion, pleural effusion, pleural fibrosis, pleurisy, pulmonary fibrosis, dyspnoea.
-
-Gastrointestinal disorders
-
-Nausea, constipation, vomiting, dry mouth, diarrhea, abdominal pain, retroperitoneal fibrosis, gastrointestinal ulcer, gastrointestinal hemorrhage.
-
-Skin and subcutaneous tissue disorders
-
-Allergic skin reactions, hair loss.
-
-Musculoskeletal and connective tissue disorders
-
-Leg cramps.
-
-General disorders and administration site conditions
-
-Fatigue, peripheral oedema, a syndrome resembling Neuroleptic Malignant Syndrome on abrupt withdrawal of bromocriptine, withdrawal symptoms (including apathy, anxiety, depression, fatigue, insomnia, sweating, and pain) with taper or after discontinuation (see Precautions).
-
-Adverse Events Observed in Other Conditions
-
-Postpartum Patients (see above Warnings)
-
-In postpartum studies with bromocriptine 23 percent of postpartum patients treated had at least 1 side effect, but they were generally mild to moderate in degree.
-Therapy was discontinued in approximately 3% of patients.
-The most frequently occurring adverse reactions were: headache (10%), dizziness (8%), nausea (7%), vomiting (3%), fatigue (1.0%), syncope (0.7%), diarrhea (0.4%) and cramps (0.4%).
-Decreases in blood pressure (≥ 20 mm Hg systolic and ≥ 10 mm Hg diastolic) occurred in 28% of patients at least once during the first 3 postpartum days; these were usually of a transient nature.
-Reports of fainting in the puerperium may possibly be related to this effect.
-In postmarketing experience in the U.S., serious adverse reactions reported include 72 cases of seizures (including 4 cases of status epilepticus), 30 cases of stroke, and 9 cases of myocardial infarction among postpartum patients.
-Seizure cases were not necessarily accompanied by the development of hypertension.
-An unremitting and often progressively severe headache, sometimes accompanied by visual disturbance, often preceded by hours to days many cases of seizure and/or stroke.
-Most patients had shown no evidence of any of the hypertensive disorders of pregnancy including eclampsia, preeclampsia or pregnancy-induced hypertension.
-One stroke case was associated with sagittal sinus thrombosis, and another was associated with cerebral and cerebellar vasculitis.
-One case of myocardial infarction was associated with unexplained disseminated intravascular coagulation and a second occurred in conjunction with use of another ergot alkaloid.
-The relationship of these adverse reactions to bromocriptine administration has not been established.
-
-In rare cases serious adverse events, including hypertension, myocardial infarction, seizures, stroke, or psychic disorders have been reported in postpartum women treated with bromocriptine.
-In some patients the development of seizures or stroke was preceded by severe headache and/or transient visual disturbances.
-Although the causal relationship of these events to the drug is uncertain, periodic monitoring of blood pressure is advisable in postpartum women receiving bromocriptine.
-If hypertension, severe, progressive, or unremitting headache (with or without visual disturbances), or evidence of CNS toxicity develop, the administration of bromocriptine should be discontinued and the patient should be evaluated promptly.
-
-Particular caution is required in patients who have recently been treated or are on concomitant therapy with drugs that can alter blood pressure, e.g., vasoconstrictors such as sympathomimetics or ergot alkaloids including ergometrine or methylergometrine and their concomitant use in the puerperium is not recommended.
-
-To report SUSPECTED ADVERSE REACTIONS, contact Zydus Pharmaceuticals (USA) Inc. at 1-877-993-8779 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+- Cardiac disorders: Pericardial effusion, constrictive pericarditis, tachycardia, bradycardia, arrhythmia, cardiac valve fibrosis.
+- Ear and labyrinth disorders:Tinnitus.
+- Eye disorders:Visual disturbance, vision blurred.
+- General disorders and administration site conditions:Fatigue, peripheral edema.
+- Gastrointestinal disorders:Nausea, constipation, vomiting, dry mouth, diarrhea, abdominal pain, retroperitoneal fibrosis, gastrointestinal ulcer, gastrointestinal hemorrhage.
+- Musculoskeletal and connective tissue disorders:Leg cramps.
+- Nervous system disorders:Headache, drowsiness, dizziness, dyskinesia, somnolence, paraesthesia, excess daytime somnolence, sudden onset of sleep.
+- Respiratory, thoracic and mediastinal disorders:Nasal congestion, pleural effusion, pleural fibrosis, pleurisy, pulmonary fibrosis, dyspnea.
+- Psychiatric disorders:Confusion, psychomotor agitation/excitation, hallucinations, psychotic disorders, insomnia, libido increase, hypersexuality, and impulse control/compulsive behaviors (including gambling, spending, and other intense urges).
+- Skin and subcutaneous tissue disorders:Allergic skin reactions, hair loss.
+- Vascular disorders:Hypotension, orthostatic hypotension (very rarely leading to syncope), reversible pallor of fingers and toes induced by cold (especially in patients with history of Raynaud's phenomenon).

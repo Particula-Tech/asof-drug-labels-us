@@ -1,230 +1,159 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Since hyperprolactinemia with amenorrhea/galactorrhea and infertility has been found in patients with pituitary tumors, a complete evaluation of the pituitary is indicated before treatment with bromocriptine mesylate capsules.
+## 5.1 Cardiac Valvulopathy and Pericardial Cardiac Fibrosis
 
-If pregnancy occurs during bromocriptine administration, careful observation of these patients is mandatory.
-Prolactin-secreting adenomas may expand and compression of the optic or other cranial nerves may occur, emergency pituitary surgery becoming necessary.
-In most cases, the compression resolves following delivery.
-Reinitiation of bromocriptine treatment has been reported to produce improvement in the visual fields of patients in whom nerve compression has occurred during pregnancy.
-The safety of bromocriptine treatment during pregnancy to the mother and fetus has not been established.
+Before initiating bromocriptine mesylate, perform a cardiovascular evaluation, including with an echocardiogram, to evaluate for valvular disease.
+Bromocriptine mesylate is contraindicated in the presence of valvular disease or pericardial fibrosis. bromocriptine mesylate is not recommended in patients treated with other drugs associated with valvulopathy.
+Following bromocriptine mesylate treatment initiation, monitor for the development of valvulopathy with a cardiac echocardiogram at intervals of 6 to 12 months or as clinically indicated with new onset edema, cardiac murmur, dyspnea, or heart failure.
+During bromocriptine mesylate treatment, monitor for chest pain and signs and symptoms of heart failure and if heart failure occurs, valvular fibrosis and pericarditis should be excluded.
+Consider clinical and diagnostic monitoring such as erythrocyte sedimentation rate, serum creatinine measurements, chest-x-ray, and other investigations and cardiac imaging at baseline and as necessary while patients are treated with during bromocriptine mesylate treatment.
+Discontinue bromocriptine mesylate capsules if the patient has a new diagnosis of valvular regurgitation, valvular restriction, valve leaflet thickening, or pericarditis.
 
-Bromocriptine mesylate has been associated with somnolence, and episodes of sudden sleep onset, particularly in patients with Parkinson's disease.
-Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported.
-Patients must be informed of this and advised not to drive or operate machines during treatment with bromocriptine.
-Patients who have experienced somnolence and/or an episode of sudden sleep onset must not drive or operate machines.
-Furthermore, a reduction of dosage or termination of therapy may be considered.
+Cases of cardiac valvulopathy have occurred in bromocriptine mesylate-treated patients.
+Pericardial effusions, as well as constrictive pericarditis, have been reported in bromocriptine mesylate-treated patients, particularly those on long-term and high-dosage treatment.
 
-Symptomatic hypotension can occur in patients treated with bromocriptine for any indication.
-In postpartum studies with bromocriptine, decreases in supine systolic and diastolic pressures of greater than 20 mm and 10 mm Hg, respectively, have been observed in almost 30% of patients receiving bromocriptine.
-On occasion, the drop in supine systolic pressure was as much as 50-59 mm of Hg.
+## 5.2 Pleural, Pulmonary, and Retroperitoneal Fibrosis
 
-Since, especially during the first days of treatment, hypotensive reactions may occasionally occur and result in reduced alertness, particular care should be exercised when driving a vehicle or operating machinery.
+Bromocriptine mesylate is contraindicated in patients with a history of pleural, pulmonary, or retroperitoneal fibrosis.
+During bromocriptine mesylate treatment monitor for signs and symptoms of progressive fibrosis, including:
 
-While hypotension during the start of therapy with bromocriptine occurs in some patients, in rare cases serious adverse events, including hypertension, myocardial infarction, seizures, stroke, have been reported in postpartum women treated with bromocriptine for the inhibition of lactation.
-Hypertension have been reported, sometimes at the initiation of therapy, but often developing in the second week of therapy; seizures have also been reported both with and without the prior development of hypertension; stroke have been reported mostly in postpartum patients whose prenatal and obstetric courses had been uncomplicated.
-Many of these patients experiencing seizures (including cases of status epilepticus) and/or strokes reported developing a constant and often progressively severe headache hours to days prior to the acute event.
+- Pleuro-pulmonary disease (e.g., dyspnea, shortness of breath, persistent cough, chest pain).
+- Renal impairment or ureteral/abdominal vascular obstruction (e.g., pain in the loin/flank, lower limb edema, abdominal masses or tenderness that may indicate retroperitoneal fibrosis).
+
+Consider clinical and diagnostic monitoring for pleural, pulmonary, and retroperitoneal fibrosis such as with erythrocyte sedimentation rate, serum creatinine measurements, chest-x-ray, and other investigations at baseline and as necessary during bromocriptine mesylate treatment.
+If pleural, pericardial, retroperitoneal, or pulmonary fibrosis occur, discontinue bromocriptine mesylate.
+
+Pleural and Pulmonary Fibrosis
+
+Patients with unexplained pleuropulmonary disorders should be examined thoroughly and discontinuation of bromocriptine mesylate therapy should be considered.
+
+Pleural effusions, pleural fibrosis, and pulmonary fibrosis have been reported in bromocriptine mesylate-treated patients, particularly those on long-term and high-dosage treatment.
+In those instances, in which bromocriptine mesylate treatment was stopped, the changes slowly reverted towards normal.
+
+Retroperitoneal Fibrosis
+
+To ensure recognition of retroperitoneal fibrosis at an early reversible stage recommend that patients on long-term and high-dosage treatment should be monitored for its manifestations (e.g., back pain, lower limb edema, impaired kidney function). bromocriptine mesylate should be withdrawn if fibrotic changes in the retroperitoneum are diagnosed or suspected.
+
+Retroperitoneal fibrosis has been reported in a few bromocriptine mesylate-treated patients, particularly those on long-term and high-dosage treatment.
+Retroperitoneal fibrosis has been reported in a few patients with Parkinson's disease who received long-term bromocriptine mesylate therapy (2 years to 10 years) in dosages that ranged from 30 mg daily to 140 mg daily (9.3 times, 1.4 times, and 1.4 times the maximum recommended bromocriptine mesylate dosage for the hyperprolactionemia-associate dysfunction, acromegaly, and idiopathic Parkinson's disease or postencephalitic parkinsonism indications, respectively [see Dosage and Administration (2.6)]).
+
+## 5.3 Hypotension/Orthostatic Hypotension
+
+Hypotension/Orthostatic Hypotension
+
+Check blood pressure at baseline and during treatment with bromocriptine mesylate and monitor for hypotension.
+Instruct patients to report dizziness or lightheadedness with changes in position to their healthcare provider.
+Particular care should be exercised in bromocriptine mesylate-treated patients when driving a vehicle or operating hazardous machinery.
+
+Hypotensive reactions may occur during bromocriptine mesylate treatment, especially during the first days of treatment.
+
+Orthostatic Hypotension in Patients with Parkinson's Disease
+
+Patients with Parkinson's disease being treated with dopaminergic agonists, including bromocriptine mesylate, should be monitored for signs and symptoms of orthostatic hypotension, especially during dose escalation, and should be informed of this risk because patients with Parkinson's disease may have an impaired capacity to respond to an orthostatic challenge.
+
+## 5.4 Risks with Use of Bromocriptine Mesylate for Postpartum Lactation Inhibition or Suppression
+
+Avoid use of bromocriptine mesylate for the inhibition or suppression of postpartum physiologic lactation.
+Use of bromocriptine mesylate for this unapproved use has been associated with serious adverse reactions, including hypertension, psychotic reactions, acute myocardial infarction, seizures (including status epilepticus), stroke, and death.
+
+- Hypertension has occurred at the initiation of bromocriptine mesylate therapy, but often in the second week of therapy.
+- Seizures have been reported with and without the prior development of hypertension.
+- Stroke has mostly occurred in postpartum females whose prenatal and obstetric courses had been uncomplicated.
+
+Many of the bromocriptine mesylate-treated patients who experienced seizures (including cases of status epilepticus) and/or strokes reported developing a constant and often progressively severe headache accompanied by visual disturbance hours to days prior to the acute event.
 Some cases of strokes and seizures were also preceded by visual disturbances (blurred vision, and transient cortical blindness).
-Cases of acute myocardial infarction have also been reported.
 
-Although a causal relationship between bromocriptine administration and hypertension, seizures, strokes, and myocardial infarction in postpartum women has not been established, use of the drug for prevention of physiological lactation, or in patients with uncontrolled hypertension is not recommended.
-In patients being treated for hyperprolactinemia bromocriptine should be withdrawn when pregnancy is diagnosed (see PRECAUTIONS, Hyperprolactinemic States).
-In the event that bromocriptine is reinstituted to control a rapidly expanding macroadenoma (see PRECAUTIONS, Hyperprolactinemic States) and a patient experiences a hypertensive disorder of pregnancy, the benefit of continuing bromocriptine mesylate capsules must be weighed against the possible risk of its use during a hypertensive disorder of pregnancy.
-When bromocriptine is being used to treat acromegaly or Parkinson's disease in patients who subsequently become pregnant, a decision should be made as to whether the therapy continues to be medically necessary or can be withdrawn.
-If it is continued, the drug should be withdrawn in those who may experience hypertensive disorders of pregnancy (including eclampsia, preeclampsia, or pregnancy-induced hypertension) unless withdrawal of bromocriptine is considered to be medically contraindicated.
-Because of the possibility of an interaction between bromocriptine and other ergot alkaloids, the concomitant use of these medications is not recommended.
-Periodic monitoring of the blood pressure, particularly during the first weeks of therapy is prudent.
-If hypertension, severe, progressive, or unremitting headache (with or without visual disturbance), or evidence of CNS toxicity develops, drug therapy should be discontinued and the patient should be evaluated promptly.
-Particular attention should be paid to patients who have recently been treated or are on concomitant therapy with drugs that can alter blood pressure.
-Their concomitant use in the puerperium is not recommended.
+In postmarketing experience in the U.S., serious adverse reactions reported in bromocriptine mesylate-treated postpartum patients included 72 cases of seizures (including 4 cases of status epilepticus), 30 cases of stroke, and 9 cases of myocardial infarction.
+One stroke case was associated with sagittal sinus thrombosis, and another was associated with cerebral and cerebellar vasculitis.
+One case of myocardial infarction was associated with unexplained disseminated intravascular coagulation and a second occurred in conjunction with use of another ergot alkaloid.
 
-Among patients on bromocriptine, particularly on long-term and high-dose treatment, pleural and pericardial effusions, as well as pleural and pulmonary fibrosis and constrictive pericarditis, have been reported.
-Patients with unexplained pleuropulmonary disorders should be examined thoroughly and discontinuation of bromocriptine mesylate capsules therapy should be considered.
-In those instances in which bromocriptine treatment was terminated, the changes slowly reverted towards normal.
+## 5.5 Impulse Control Disorders and Compulsive Behaviors
 
-In a few patients on bromocriptine, particularly on long-term and high-dose treatment, retroperitoneal fibrosis has been reported.
-To ensure recognition of retroperitoneal fibrosis at an early reversible stage it is recommended that its manifestations (e.g., back pain, edema of the lower limbs, impaired kidney function) should be watched in this category of patients.
-Bromocriptine medication should be withdrawn if fibrotic changes in the retroperitoneum are diagnosed or suspected.
+Because patients may not recognize impulse control and compulsive behaviors as abnormal, it is important for healthcare providers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending, binge or compulsive eating, or other urges while being treated with bromocriptine mesylate.
+Consider dosage reduction or stopping bromocriptine mesylate if a patient develops such urges while taking bromocriptine mesylate.
 
-# PRECAUTIONS
+Patients can experience intense urges to gamble or to spend money, increased sexual urges, binge eating, and/or other intense urges, and the inability to control these urges while taking one or more drugs that increase central dopaminergic tone, including bromocriptine mesylate.
+In some cases, these urges were reported to have stopped when the dosage was reduced, or the drug was discontinued.
 
-General
+## 5.6 Falling Asleep During Activities of Daily Living
 
-There have been reports of patients experiencing intense urges to gamble, increased sexual urges, intense urges to spend money uncontrollably, and/or other intense urges, and the inability to control these urges while taking one or more of the medications, including bromocriptine, that increase central dopaminergic tone.
-In some cases, although not all, these urges were reported to have stopped when the dose was reduced, or the medication was discontinued.
-Because patients may not recognize these behaviors as abnormal, it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending, or other urges while being treated with bromocriptine for Parkinson's disease or hyperprolactinemia-associated dysfunctions.
-Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking bromocriptine.
+Before initiating treatment with bromocriptine mesylate, advise patients of the potential to develop drowsiness and specifically ask them about factors that may increase their risk for somnolence with dopaminergic drugs, such as concomitant sedating drugs or the presence of a sleep disorder.
+If a patient develops daytime sleepiness or episodes of falling asleep during activities that require full attention (e.g., driving a motor vehicle, conversations, eating), consider reducing the bromocriptine mesylate dosage or discontinuing bromocriptine mesylate.
+If a decision is made to continue bromocriptine mesylate, advise the patient to avoid driving or performing potentially dangerous activities.
 
-Safety and efficacy of bromocriptine have not been established in patients with renal or hepatic disease.
-Care should be exercised when administering bromocriptine mesylate capsule therapy concomitantly with other medications known to lower blood pressure.
+Patients treated with dopaminergic drugs, including bromocriptine mesylate, have reported falling asleep while engaged in activities of daily living, including the operation of motor vehicles, which sometimes has resulted in accidents.
+Patients may not perceive warning signs, such as excessive drowsiness, or they may report feeling alert immediately prior to the event.
 
-The drug should be used with caution in patients with a history of psychosis or cardiovascular disease.
-If acromegalic patients or patients with prolactinoma or Parkinson's disease are being treated with bromocriptine during pregnancy, they should be cautiously observed, particularly during the postpartum period if they have a history of cardiovascular disease.
+## 5.7 Visual Impairment in Patients with Prolactin-secreting Adenomas
 
-Patients with rare hereditary problems of galactose intolerance, severe lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+Recommend monitoring of visual fields in bromocriptine mesylate-treated patients with macroprolactinoma for an early recognition of secondary field loss due to chiasmal herniation. bromocriptine mesylate-patients with rapidly progressive visual field loss should be evaluated by a neurosurgeon to help decide on the most appropriate therapy.
 
-Hyperprolactinemic States
+In some bromocriptine mesylate-patients patients, a secondary deterioration of visual fields may develop (despite normalized prolactin levels and tumor shrinkage) which may result from traction on the optic chiasm which is pulled down into the now partially empty sella.
+Reduction of the bromocriptine mesylate dosage may improve the visual field defect (there may be some elevation of prolactin and tumor re-expansion).
+The relative efficacy of bromocriptine mesylate versus surgery in preserving visual fields in patients with prolactin-secreting adenomas is not known.
 
-Visual field impairment is a known complication of macroprolactinoma.
-Effective treatment with bromocriptine leads to a reduction in hyperprolactinemia and often to a resolution of the visual impairment.
-In some patients, however, a secondary deterioration of visual fields may subsequently develop despite normalized prolactin levels and tumor shrinkage, which may result from traction on the optic chiasm which is pulled down into the now partially empty sella.
-In these cases, the visual field defect may improve on reduction of bromocriptine dosage while there is some elevation of prolactin and some tumor re-expansion.
-Monitoring of visual fields in patients with macroprolactinoma is therefore recommended for an early recognition of secondary field loss due to chiasmal herniation and adaptation of drug dosage.
+## 5.8 Exacerbation of Psychosis in Patients with Severe Psychotic Disorders
 
-The relative efficacy of bromocriptine versus surgery in preserving visual fields is not known.
-Patients with rapidly progressive visual field loss should be evaluated by a neurosurgeon to help decide on the most appropriate therapy.
+The use of bromocriptine mesylate in patients with severe psychotic disorders is not recommended.
 
-Since pregnancy is often the therapeutic objective in many hyperprolactinemic patients presenting with amenorrhea/galactorrhea and hypogonadism (infertility), a careful assessment of the pituitary is essential to detect the presence of a prolactin-secreting adenoma.
-Patients not seeking pregnancy, or those harboring large adenomas, should be advised to use contraceptive measures, other than oral contraceptives, during treatment with bromocriptine.
-Since pregnancy may occur prior to reinitiation of menses, a pregnancy test is recommended at least every 4 weeks during the amenorrheic period, and, once menses are reinitiated, every time a patient misses a menstrual period.
-Treatment with bromocriptine mesylate capsules should be discontinued as soon as pregnancy has been established.
-Patients must be monitored closely throughout pregnancy for signs and symptoms that may signal the enlargement of a previously undetected or existing prolactin-secreting tumor.
-Discontinuation of bromocriptine treatment in patients with known macroadenomas has been associated with rapid regrowth of tumor and increase in serum prolactin in most cases.
+In patients with severe psychotic disorders, treatment with a dopamine receptor agonist including bromocriptine mesylate may exacerbate the psychosis or may diminish the effectiveness of drugs used to treat the severe psychotic disorder.
 
-Cerebrospinal fluid rhinorrhea has been observed in some patients with prolactin-secreting adenomas treated with bromocriptine.
+## 5.9 Risks in Patients with Hereditary Problems of Galactose Intolerance, Severe Lactase Deficiency, or Glucose-Galactose Malabsorption
 
-Acromegaly
+Avoid use of bromocriptine mesylate in patients with rare hereditary problems of galactose intolerance, severe lactase deficiency, or glucose-galactose malabsorption.
+Bromocriptine mesylate contains lactose as an inactive ingredient.
 
-Cold-sensitive digital vasospasm has been observed in some acromegalic patients treated with bromocriptine.
-The response, should it occur, can be reversed by reducing the dose of bromocriptine and may be prevented by keeping the fingers warm.
-Cases of severe gastrointestinal bleeding from peptic ulcers have been reported, some fatal.
-Although there is no evidence that bromocriptine increases the incidence of peptic ulcers in acromegalic patients, symptoms suggestive of peptic ulcer should be investigated thoroughly and treated appropriately.
-Patients with a history of peptic ulcer or gastrointestinal bleeding should be observed carefully during treatment with bromocriptine.
+The use of lactose in patients with rare hereditary problems of galactose intolerance, severe lactase deficiency, or glucose-galactose malabsorption increases the risk of diarrhea, abdominal pain, bloating, and malabsorption.
 
-Possible tumor expansion while receiving bromocriptine mesylate capsule therapy has been reported in a few patients.
-Since the natural history of growth hormone-secreting tumors is unknown, all patients should be carefully monitored and, if evidence of tumor expansion develops, discontinuation of treatment and alternative procedures considered.
+## 5.10 Additional Clinically Significant Adverse Reactions and Risks in Patients with Acromegaly
 
-Parkinson's Disease
+Cold-sensitive Digital Vasospasm
 
-Safety during long-term use for more than 2 years at the doses required for parkinsonism has not been established.
+Vasospam may be prevented in bromocriptine mesylate-treated patients by keeping the fingers warm.
 
-As with any chronic therapy, periodic evaluation of hepatic, hematopoietic, cardiovascular, and renal function is recommended.
-Symptomatic hypotension can occur and, therefore, caution should be exercised when treating patients receiving antihypertensive drugs.
+Cold-sensitive digital vasospasm has been observed in some bromocriptine mesylate-treated patients with acromegly.
+If vasospasm occurs, it can be reversed by reducing the bromocriptine mesylate dosage.
 
-High doses of bromocriptine may be associated with confusion and mental disturbances.
-Since parkinsonian patients may manifest mild degrees of dementia, caution should be used when treating such patients.
+Gastrointestinal Bleeding
 
-Bromocriptine administered alone or concomitantly with levodopa may cause hallucinations (visual or auditory).
-Hallucinations usually resolve with dosage reduction; occasionally, discontinuation of bromocriptine is required.
-Rarely, after high doses, hallucinations have persisted for several weeks following discontinuation of bromocriptine.
+Patients with a history of peptic ulcer or gastrointestinal bleeding should be monitored carefully during bromocriptine mesylate treatment.
 
-As with levodopa, caution should be exercised when administering bromocriptine to patients with a history of myocardial infarction who have a residual atrial, nodal, or ventricular arrhythmia.
+Cases of severe gastrointestinal bleeding from peptic ulcers have been reported, some fatal, in bromocriptine mesylate-treated patients.
 
-Retroperitoneal fibrosis has been reported in a few patients receiving long-term therapy (2 years to 10 years) with bromocriptine mesylate capsules in doses ranging from 30 mg to 140 mg daily.
+Tumor Expansion
 
-Epidemiological studies have shown that patients with Parkinson's disease have a higher risk (2-approximately 6-fold higher) of developing melanoma than the general population.
-Whether the increased risk observed was due to Parkinson's disease or other factors, such as drugs used to treat Parkinson's disease, is unclear.
-For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using bromocriptine for any indication.
-Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
+Because the natural history of growth hormone-secreting tumors is unknown, bromocriptine mesylate-treated patients with acromegaly should be carefully monitored and, if evidence of tumor expansion develops, discontinuation of bromocriptine mesylate treatment and alternative procedures should be considered.
 
-Discontinuation of bromocriptine should be undertaken gradually whenever possible, even if the patient is to remain on levodopa.
-A symptom complex resembling the neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in antiparkinsonian therapy.
+Possible growth hormone-secreting tumor expansion has been reported in a few bromocriptine mesylate-treated patients.
 
-Symptoms including apathy, anxiety, depression, fatigue, insomnia, sweating, and pain have been reported during taper or after discontinuation of dopamine agonists, including bromocriptine.
-These symptoms generally do not respond to levodopa.
-Prior to discontinuation of bromocriptine, patients should be informed about potential withdrawal symptoms, and closely monitored during and after discontinuation of bromocriptine.
-In case of severe withdrawal symptoms, re-administration of a dopamine agonist at the lowest effective dose may be considered.
+Withdrawal Adverse Reactions After Rapid Dosage Reduction or Discontinuation
 
-Information for Patients
+Prior to bromocriptine mesylate discontinuation, patients with acromegaly should be informed about a potential withdrawal symptom, and closely monitored during and after bromocriptine mesylate discontinuation.
+Bromocriptine mesylate discontinuation should be undertaken gradually whenever possible.
+In case of severe withdrawal symptoms, consider re-administration of bromocriptine mesylate in patients with acromegaly at the lowest effective dosage.
 
-During clinical trials, dizziness, drowsiness, faintness, fainting, and syncope have been reported early in the course of bromocriptine mesylate capsule therapy.
-In postmarketing reports, bromocriptine has been associated with somnolence, and episodes of sudden sleep onset, particularly in patients with Parkinson's disease.
-Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported very rarely.
-All patients receiving bromocriptine should be cautioned with regard to engaging in activities requiring rapid and precise responses, such as driving an automobile or operating machinery.
-Patients being treated with bromocriptine and presenting with somnolence and/or sudden sleep episodes must be advised not to drive or engage in activities where impaired alertness may put themselves or others at risk of serious injury or death (e.g., operating machines).
+## 5.11 Additional Clinically Significant Adverse Reactions and Risks in Patients with Idiopathic Parkinson’s Disease or Postencephalitic Parkinsonism
 
-Patients receiving bromocriptine for hyperprolactinemic states associated with macroadenoma or those who have had previous transsphenoidal surgery should be told to report any persistent watery nasal discharge to their physician.
-Patients receiving bromocriptine for treatment of a macroadenoma should be told that discontinuation of drug may be associated with rapid regrowth of the tumor and recurrence of their original symptoms.
+Mental Disturbances and Psychotic Symptoms
 
-Patients and their caregivers should be alerted to the possibility that patients may experience intense urges to spend money uncontrollably, intense urges to gamble, increased sexual urges and other intense urges and the inability to control these urges while taking bromocriptine.
-Advise patients and their caregivers to inform their healthcare provider if they develop new or increased uncontrolled spending, gambling urges, sexual urges, or other urges while being treated with bromocriptine [see PRECAUTIONS].
+Bromocriptine mesylate administered alone or concomitantly with levodopa may cause hallucinations (visual or auditory).
+Hallucinations may be accompanied by abnormal thinking and behavior which may present with one or more symptoms, including paranoid ideation, delusions, confusion, psychotic-like behavior, disorientation, aggressive behavior, agitation, and delirium.
+Symptoms may be more frequent at higher dosages.
+Because of the risk of exacerbation of mental disturbances in patients with Parkison's disease-related dementia, consider a lower bromocriptine mesylate dosage in these patients.
+The use of bromocriptine mesylate in patients with severe psychotic disorders is not recommended [see Warnings and Precautions (5.8)].
 
-Especially during the first days of treatment, hypotensive reactions may occasionally occur and result in reduced alertness, particular care should be exercised when driving a vehicle or operating machinery.
+Hallucinations usually resolve with bromocriptine mesylate dosage reduction; occasionally, discontinuation of bromocriptine mesylate is required.
+Rarely, after high bromocriptine mesylate dosage treatment, hallucinations have persisted for several weeks following bromocriptine mesylate discontinuation.
 
-Advise patients to contact their healthcare provider if they wish to discontinue bromocriptine or decrease the dose of bromocriptine.
-Advise patients who have been prescribed a lower dose or who have been withdrawn from the drug to notify their healthcare provider if they have withdrawal symptoms such as fever, muscular rigidity, altered consciousness, apathy, anxiety, depression, fatigue, insomnia, sweating, or pain (see Precautions).
+Risk of Exacerbation of Arrhythmias in Patients with a History of Myocardial Infarction with a Residual Arrthythmia
 
-Drug Interactions
+Caution should be exercised when administering bromocriptine mesylate to patients with a history of myocardial infarction who have a residual atrial, nodal, or ventricular arrhythmia.
 
-The risk of using bromocriptine in combination with other drugs has not been systematically evaluated, but alcohol may potentiate the side effects of bromocriptine.
-Bromocriptine may interact with dopamine antagonists, butyrophenones, and certain other agents.
-Compounds in these categories result in a decreased efficacy of bromocriptine: phenothiazines, haloperidol, metoclopramide and pimozide.
-Bromocriptine is a substrate of CYP3A4.
-Caution should therefore be used when coadministering drugs which are strong inhibitors of this enzyme (such as azole antimycotics, HIV protease inhibitors).
-The concomitant use of macrolide antibiotics such as erythromycin was shown to increase the plasma levels of bromocriptine (mean AUC and Cmax values increased 3.7-fold and 4.6-fold, respectively).1 The concomitant treatment of acromegalic patients with bromocriptine and octreotide led to increased plasma levels of bromocriptine (bromocriptine AUC increased about 38%).4Concomitant use of bromocriptine with other ergot alkaloids is not recommended.
-Dose adjustment may be necessary in those cases where high doses of bromocriptine are being used (such as Parkinson's disease indication).
+Withdrawal Adverse Reactions After Rapid Dosage Reduction or Discontinuation
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility
+Prior to bromocriptine mesylate discontinuation, patients should be informed about potential withdrawal symptoms, and closely monitored during and after bromocriptine mesylate discontinuation. bromocriptine mesylate discontinuation should be undertaken gradually whenever possible, even if the patient is to remain on levodopa.
+In case of severe withdrawal symptoms, consider re-administration of bromocriptine mesylate at the lowest effective dosage.
 
-A 74-week study was conducted in mice using dietary levels of bromocriptine mesylate equivalent to oral doses of 10 and 50 mg/kg/day.
-A 100-week study in rats was conducted using dietary levels equivalent to oral doses of 1.7, 9.8, and 44 mg/kg/day.
-The highest doses tested in mice and rats were approximately 2.5 and 4.4 times, respectively, the maximum human dose administered in controlled clinical trials (100 mg/day) based on body surface area.
-Malignant uterine tumors, endometrial and myometrial, were found in rats as follows: 0/50 control females, 2/50 females given 1.7 mg/kg daily, 7/49 females given 9.8 mg/kg daily, and 9/50 females given 44 mg/kg daily.
-The occurrence of these neoplasms is probably attributable to the high estrogen/progesterone ratio which occurs in rats as a result of the prolactin-inhibiting action of bromocriptine mesylate.
-The endocrine mechanisms believed to be involved in the rats are not present in humans.
-There is no known correlation between uterine malignancies occurring in bromocriptine-treated rats and human risk.
-In contrast to the findings in rats, the uteri from mice killed after 74 weeks of treatment did not exhibit evidence of drug-related changes.
-
-Bromocriptine mesylate was evaluated for mutagenic potential in the battery of tests that included Ames bacterial mutation assay, mutagenic activity in vitro on V79 Chinese hamster fibroblasts, cytogenetic analysis of Chinese hamster bone marrow cells following in vivo treatment, and an in vivo micronucleus test for mutagenic potential in mice.
-
-No mutagenic effects were obtained in any of these tests.
-
-Fertility and reproductive performance in female rats were not influenced adversely by treatment with bromocriptine beyond the predicted decrease in the weight of pups due to suppression of lactation.
-In males treated with 50 mg/kg of this drug, mating and fertility were within the normal range.
-Increased perinatal loss was produced in the subgroups of dams, sacrificed on day 21 postpartum (p.p.) after mating with males treated with the highest dose (50 mg/kg).
-
-Pregnancy
-
-Administration of 10 mg/kg to 30 mg/kg of bromocriptine to 2 strains of rats on days 6 to 15 postcoitum (p.c.) as well as a single dose of 10 mg/kg on day 5 p.c. interfered with nidation.
-Three mg/kg given on days 6 to 15 were without effect on nidation, and did not produce any anomalies.
-In animals treated from day 8 to 15 p.c., i.e., after implantation, 30 mg/kg produced increased prenatal mortality in the form of increased incidence of embryonic resorption.
-One anomaly, aplasia of spinal vertebrae and ribs, was found in the group of 262 fetuses derived from the dams treated with 30 mg/kg bromocriptine.
-No fetotoxic effects were found in offspring of dams treated during the peri- or postnatal period.
-
-Two studies were conducted in rabbits (2 strains) to determine the potential to interfere with nidation.
-Dose levels of 100 mg/kg/day or 300 mg/kg/day from day 1 to day 6 p.c. did not adversely affect nidation.
-The high dose was approximately 63 times the maximum human dose administered in controlled clinical trials (100 mg/day), based on body surface area.
-In New Zealand white rabbits, some embryo mortality occurred at 300 mg/kg which was a reflection of overt maternal toxicity.
-Three studies were conducted in 2 strains of rabbits to determine the teratological potential of bromocriptine at dose levels of 3 mg/kg, 10 mg/kg, 30 mg/kg, 100 mg/kg, and 300 mg/kg given from day 6 to day 18 p.c.
-In 2 studies with the Yellow-silver strain, cleft palate was found in 3 and 2 fetuses at maternally toxic doses of 100 mg/kg and 300 mg/kg, respectively.
-One control fetus also exhibited this anomaly.
-In the third study conducted with New Zealand white rabbits using an identical protocol, no cleft palates were produced.
-
-No teratological or embryotoxic effects of bromocriptine were produced in any of 6 offspring from 6 monkeys at a dose level of 2 mg/kg.
-
-Information concerning 1,276 pregnancies in women taking bromocriptine has been collected.
-In the majority of cases, bromocriptine was discontinued within 8 weeks into pregnancy (mean 28.7 days), however, 8 patients received the drug continuously throughout pregnancy.
-The mean daily dose for all patients was 5.8 mg (range 1 mg to 40 mg).
-
-Of these 1,276 pregnancies, there were 1,088 full-term deliveries (4 stillborn), 145 spontaneous abortions (11.4%), and 28 induced abortions (2.2%).
-Moreover, 12 extrauterine gravidities and 3 hydatidiform moles (twice in the same patient) caused early termination of pregnancy.
-These data compare favorably with the abortion rate (11% to 25%) cited for pregnancies induced by clomiphene citrate, menopausal gonadotropin, and chorionic gonadotropin.
-
-Although spontaneous abortions often go unreported, especially prior to 20 weeks of gestation, their frequency has been estimated to be 15%.
-
-The incidence of birth defects in the population at large ranges from 2% to 4.5%.
-The incidence in 1,109 live births from patients receiving bromocriptine is 3.3%.
-
-There is no suggestion that bromocriptine contributed to the type or incidence of birth defects in this group of infants.
-
-Nursing Mothers
-
-Bromocriptine should not be used during lactation in postpartum women.
-
-Pediatric Use
-
-The safety and effectiveness of bromocriptine for the treatment of prolactin-secreting pituitary adenomas have been established in patients age 16 to adult.
-No data are available for bromocriptine use in pediatric patients under the age of 8 years.
-A single 8-year-old patient treated with bromocriptine for a prolactin-secreting pituitary macroadenoma has been reported without therapeutic response.
-
-The use of bromocriptine for the treatment of prolactin-secreting adenomas in pediatric patients in the age group 11 to under 16 years is supported by evidence from well-controlled trials in adults, with additional data in a limited number (n=14) of children and adolescents 11 years to 15 years of age with prolactin-secreting pituitary macro- and microadenomas who have been treated with bromocriptine.
-Of the 14 reported patients, 9 had successful outcomes, 3 partial responses, and 2 failed to respond to bromocriptine treatment.
-Chronic hypopituitarism complicated macroadenoma treatment in 5 of the responders, both in patients receiving bromocriptine alone and in those who received bromocriptine in combination with surgical treatment and/or pituitary irradiation.
-
-Safety and effectiveness of bromocriptine in pediatric patients have not been established for any other indication listed in the INDICATIONS AND USAGE section.
-
-Geriatric Use
-
-Clinical studies for bromocriptine did not include sufficient numbers of subjects aged 65 years and over to determine whether the elderly respond differently from younger subjects.
-However, other reported clinical experiences, including postmarketing reporting of adverse events, have not identified differences in response or tolerability between elderly and younger patients.
-Even though no variation in efficacy or adverse reaction profile in geriatric patients taking bromocriptine has been observed, greater sensitivity of some elderly individuals cannot be categorically ruled out.
-In general, dose selection for an elderly patient should be cautious, starting at the lower end of the dose range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy in this population.
+A symptom complex resembling the neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dosage reduction or withdrawal of antiparkinsonian therapy.
+Symptoms including apathy, anxiety, depression, fatigue, insomnia, sweating, and pain have been reported during taper or after discontinuation of dopamine agonists, including bromocriptine mesylate.
+These withdrawal symptoms generally have not responded to levodopa.

@@ -1,48 +1,56 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-General
+## 2.1 Recommended Evaluation Before Initiating bromocriptine mesylate
 
-It is recommended that bromocriptine mesylate capsules be taken with food.
-Patients should be evaluated frequently during dose escalation to determine the lowest dosage that produces a therapeutic response.
+Before initiating bromocriptine mesylate evaluate for valvular heart disease, including with an echocardiogram.
+If valvular disease is detected, do not administer bromocriptine mesylate [see Contraindications (4) and Warnings and Precautions (5.1)].
 
-Hyperprolactinemic Indications
+## 2.2 Important Administration Instructions
 
-The initial dosage of bromocriptine mesylate tablets in adults is one ½ to one 2½ mg scored tablet daily.
-An additional 2½ mg tablet may be added to the treatment regimen as tolerated every 2 to 7 days until an optimal therapeutic response is achieved.
-The therapeutic dosage ranged from 2.5 to 15 mg daily in adults studied clinically.
+Take bromocriptine mesylate orally with food because a high percentage of patients vomited after they received bromocriptine mesylate under fasting conditions.
 
-Based on limited data in children of age 11 to 15, (see Pediatric Use) the initial dose is one ½ to one 2½ mg scored tablet daily.
-Dosing may need to be increased as tolerated until a therapeutic response is achieved.
-The therapeutic dosage ranged from 2.5 to 10 mg daily in children with prolactin-secreting pituitary adenomas.
+## 2.3 Recommended Dosage for Hyperprolactinemia-Associated Dysfunction
 
-In order to reduce the likelihood of prolonged exposure to bromocriptine mesylate capsules should an unsuspected pregnancy occur, a mechanical contraceptive should be used in conjunction with bromocriptine mesylate capsule therapy until normal ovulatory menstrual cycles have been restored.
-Contraception may then be discontinued in patients desiring pregnancy.
+The recommended starting dosage of bromocriptine mesylate in adults with hyperprolactinemia-associated dysfunction is 1.25 mg (one-half of a tablet) to 2.5 mg once daily.
+Increase the bromocriptine mesylate dosage up to 2.5 mg once daily every two to seven days as tolerated until an optimal therapeutic response is achieved within a recommended dosage of 2.5 mg to 15 mg once daily.
 
-Thereafter, if menstruation does not occur within 3 days of the expected date, bromocriptine mesylate capsule therapy should be discontinued and a pregnancy test performed.
+## 2.4 Recommended Dosage for Prolactin-Secreting Adenomas
 
-Acromegaly
+The recommended starting dosage of bromocriptine mesylate in adult and pediatric patients 11 years of age and older with prolactin-secreting adenomas is 1.25 mg (one-half of a tablet) to 2.5 mg once daily.
+Increase the bromocriptine mesylate dosage as tolerated until an optimal therapeutic response is achieved within a recommended dosage of 2.5 mg to 10 mg once daily.
 
-Virtually all acromegalic patients receiving therapeutic benefit from bromocriptine mesylate capsules also have reductions in circulating levels of growth hormone.
-Therefore, periodic assessment of circulating levels of growth hormone will, in most cases, serve as a guide in determining the therapeutic potential of bromocriptine.
-If, after a brief trial with bromocriptine mesylate capsule therapy, no significant reduction in growth hormone levels has taken place, careful assessment of the clinical features of the disease should be made, and if no change has occurred, dosage adjustment or discontinuation of therapy should be considered.
+In cases where adenectomy is elected for prolactin-secreting adenomas, a course of bromocriptine mesylate therapy may be used to reduce the tumor mass prior to surgery.
 
-The initial recommended dosage is one ½ to one 2½ mg bromocriptine mesylate tablet on retiring (with food) for 3 days.
-An additional one ½ to 1 bromocriptine mesylate tablet should be added to the treatment regimen as tolerated every 3 to 7 days until the patient obtains optimal therapeutic benefit.
-Patients should be reevaluated monthly and the dosage adjusted based on reductions of growth hormone or clinical response.
-The usual optimal therapeutic dosage range of bromocriptine mesylate capsules varies from 20 mg/day to 30 mg/day in most patients.
-The maximal dosage should not exceed 100 mg/day.
+## 2.5 Recommended Dosage for Acromegaly
 
-Patients treated with pituitary irradiation should be withdrawn from bromocriptine mesylate capsule therapy on a yearly basis to assess both the clinical effects of radiation on the disease process as well as the effects of bromocriptine mesylate capsule therapy.
-Usually a 4 week to 8 week withdrawal period is adequate for this purpose.
-Recurrence of the signs/symptoms or increases in growth hormone indicate the disease process is still active and further courses of bromocriptine should be considered.
+The recommended starting dosage of bromocriptine mesylate in adults for acromegaly is 1.25 mg (one-half of a tablet) to 2.5 mg once at bedtime for 3 days.
+Increase the dosage 1.25 mg to 2.5 mg once daily every 3 days to 7 days, as tolerated, until an optimal therapeutic response is achieved.
+Reevaluate patients monthly and modify the dosage based on growth hormone levels and clinical response.
+For adults with acromegaly, the usual optimal therapeutic dosage range varies from 20 mg to 30 mg once at bedtime in most patients, and the maximum recommended dosage is 100 mg/daily.
 
-Parkinson's Disease
+After a brief trial with bromocriptine mesylate therapy in adults with acromegaly, if there is no significant reduction in growth hormone levels and no changes in the clinical features of acromegaly consider increasing the dosage or discontinuing bromocriptine mesylate.
 
-The basic principle of bromocriptine mesylate capsule therapy is to initiate treatment at a low dosage and, on an individual basis, increase the daily dosage slowly until a maximum therapeutic response is achieved.
-The dosage of levodopa during this introductory period should be maintained, if possible.
-The initial dose of bromocriptine is one ½ of a 2½ mg tablet twice daily with meals.
-Assessments are advised at 2-week intervals during dosage titration to ensure that the lowest dosage producing an optimal therapeutic response is not exceeded.
-If necessary, the dosage may be increased every 14 to 28 days by 2½ mg/day with meals.
-Should it be advisable to reduce the dosage of levodopa because of adverse reactions, the daily dosage of bromocriptine, if increased, should be accomplished gradually in small (2½ mg) increments.
+For patients with acromegaly treated with pituitary irradiation, withdraw bromocriptine mesylate (e.g., for four to eight weeks) on a yearly basis to assess the clinical effects of radiation on the disease process as well as the effects of bromocriptine mesylate therapy.
+Consider restarting bromocriptine mesylate if signs or symptoms of acromegaly or increases in growth hormone occur.
 
-The safety of bromocriptine mesylate capsules have not been demonstrated in dosages exceeding 100 mg/day.
+## 2.6 Recommended Dosage for Idiopathic Parkinson’s Disease or Postencephalitic Parkinson Parkinsonism
+
+The recommended starting dosage of bromocriptine mesylate in adults with idiopathic Parkinson's disease or postencephalitic parkinsonism is 1.25 mg (one-half of a tablet) twice daily.
+Increase the dosage by 1.25 mg (one half of a tablet) twice daily every 14 days to 28 days based on therapeutic response and tolerability, up to the maximum recommended daily dosage of 100 mg/day.
+
+For patients receiving concomitant levodopa, maintain the levodopa dosage during bromocriptine mesylate dosage escalation.
+If the levodopa dosage is decreased, increase the bromocriptine mesylate dosage in increments of 1.25 mg twice daily.
+
+## 2.7 Dosage Modification for Strong and Moderate CYP3A4 Inhibitors
+
+Avoid concomitant use of bromocriptine mesylate with strong CYP3A4 inhibitors.
+Dosage modifications of bromocriptine mesylate for concomitant use with moderate CYP3A4 inhibitors are provided in Table 1 [see Drug Interactions (7)].
+
+Table 1 Dosage Modifications of Bromocriptine Mesylate for Concomitant Use with Moderate CYP3A4 Inhibitors
+
+|  | Starting Dosage | Maximum Dosage |
+| --- | --- | --- |
+| Hyperprolactinemia-associated dysfunction in adults | 1.25 mg once daily (one-half of a tablet) | 3.75 mg once daily |
+| Prolactin-secreting adenomas in adult and pediatric patients 11 years of age and older | 1.25 mg once daily | 2.5 mg once daily |
+| Acromegaly in adults | 1.25 mg once daily | 25 mg once daily |
+| Idiopathic or postencephalitic parkinsonism in adults | 1.25 mg once daily | 12.5 mg twice daily |
