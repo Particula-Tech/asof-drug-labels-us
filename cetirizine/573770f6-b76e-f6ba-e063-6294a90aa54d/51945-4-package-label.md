@@ -1,6 +1,6 @@
 Principal Display Panel – Carton Label
 
-NDC 70720-100-25
+NDC 68118-100-25
 
 Quzyttir®
 
@@ -22,7 +22,7 @@ Rx only
 
 Principal Display Panel – Carton Label
 
-NDC 70720-100-10 Rx only
+NDC 68118-100-10 Rx only
 
 Quzyttir®
 
@@ -38,7 +38,7 @@ Single-Dose Vial - Discard Unused Portion
 
 Principal Display Panel – Vial Label
 
-NDC 70720-100-01
+NDC 68118-100-02
 
 Quzyttir®
 
@@ -56,4 +56,4 @@ Each 1 mL vial contains Cetirizine Hydrochloride 10 mg (equivalent to 8.42 mg of
 
 Single-Dose Vial - Discard Unused Portion
 
-Distributed by: TerSera Therapeutics LLC
+Distributed by: Esteve Pharmaceuticals, S.A.
