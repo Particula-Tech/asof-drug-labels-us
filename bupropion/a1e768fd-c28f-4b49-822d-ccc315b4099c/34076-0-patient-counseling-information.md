@@ -64,4 +64,4 @@ Brands listed are the trademarks of their respective owners.
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-H 11/2025
+I 7/2026
