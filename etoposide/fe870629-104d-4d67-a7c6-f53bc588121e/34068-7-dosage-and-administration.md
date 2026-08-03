@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION:
 
-Note: Plastic devices made of acrylic or ABS (a polymer composed of acrylonitrile, butadiene, and styrene) have been reported to crack and leak when used with undilutedEtoposide Injection, USP.
+Note: Plastic devices made of acrylic or ABS (a polymer composed of acrylonitrile, butadiene, and styrene) have been reported to crack and leak when used with undiluted Etoposide Injection, USP.
 
 Etoposide Injection, USP
 

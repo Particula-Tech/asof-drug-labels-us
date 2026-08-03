@@ -64,7 +64,7 @@ Subsequent etoposide dosing should be based on patient tolerance and clinical ef
 
 Data are not available in patients with creatinine clearances < 15 mL/min and further dose reduction should be considered in these patients.
 
-## Carcinogenesis(see WARNINGS), Mutagenesis, Impairment of Fertility
+## Carcinogenesis (see WARNINGS), Mutagenesis, Impairment of Fertility
 
 Etoposide has been shown to be mutagenic in Ames assay.
 
