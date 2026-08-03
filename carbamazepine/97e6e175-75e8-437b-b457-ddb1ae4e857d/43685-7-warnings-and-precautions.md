@@ -109,6 +109,15 @@ Anyone considering prescribing carbamazepine or any other AED must balance the r
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
+## Cardiac Rhythm and Conduction Abnormalities
+
+In vitro findings indicate that carbamazepine can cause serious and potentially life-threatening cardiac rhythm and conduction abnormalities, particularly in patients with underlying cardiac disorders or arrhythmias.
+AV heart block, including second- and third-degree block, have been reported following carbamazepine treatment.
+This occurred generally, but not solely, in patients with underlying EKG abnormalities or risk factors for conduction disturbances.
+
+Therapy should be prescribed only after critical benefit-to-risk appraisal in patients with a history of structural or functional heart disease, cardiac arrhythmia, or cardiac conduction disturbance, including second- and third-degree AV heart block; cardiac, hepatic, or renal damage; adverse hematologic or hypersensitivity reaction to other drugs, including reactions to other anticonvulsants; or interrupted courses of therapy with carbamazepine.
+If excessive depression of cardiac conduction or significant arrhythmias occur during treatment, discontinue carbamazepine.
+
 ## General
 
 Carbamazepine has shown mild anticholinergic activity that may be associated with increased intraocular pressure; therefore, patients with increased intraocular pressure should be closely observed during therapy.
@@ -172,11 +181,6 @@ Before initiating therapy, a detailed history and physical examination should be
 
 Carbamazepine should be used with caution in patients with a mixed seizure disorder that includes atypical absence seizures, since in these patients carbamazepine has been associated with increased frequency of generalized convulsions (see INDICATIONS AND USAGE).
 
-Therapy should be prescribed only after critical benefit-to-risk appraisal in patients with a history of cardiac conduction disturbance, including second- and third-degree AV heart block; cardiac, hepatic, or renal damage; adverse hematologic or hypersensitivity reaction to other drugs, including reactions to other anticonvulsants; or interrupted courses of therapy with carbamazepine.
-
-AV heart block, including second- and third-degree block, have been reported following carbamazepine treatment.
-This occurred generally, but not solely, in patients with underlying EKG abnormalities or risk factors for conduction disturbances.
-
 Hepatic effects, ranging from slight elevations in liver enzymes to rare cases of hepatic failure have been reported (see ADVERSE REACTIONS and PRECAUTIONS, Laboratory Tests).
 In some cases, hepatic effects may progress despite discontinuation of the drug.
 In addition, rare instances of vanishing bile duct syndrome have been reported.
@@ -201,6 +205,9 @@ Advise patients to immediately report signs and symptoms suggesting angioedema (
 
 Patients, their caregivers, and families should be counseled that AEDs, including carbamazepine, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
+
+Patients should be informed about the potential for cardiac rhythm and conduction abnormalities, particularly in patients with underlying cardiac disease or arrhythmias.
+Advise patients to notify their physician if they experience palpitations, syncope, dizziness, chest pain, or shortness of breath.
 
 Carbamazepine may interact with some drugs.
 Therefore, patients should be advised to report to their doctors the use of any other prescription or nonprescription medications or herbal products.

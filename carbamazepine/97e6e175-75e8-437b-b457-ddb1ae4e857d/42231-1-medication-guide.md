@@ -56,7 +56,7 @@ Call your healthcare provider right away if you have any of the following:
 - severe fatigue or weakness
 - severe muscle pain
 
-4.
+5.
 Like other antiepileptic drugs, carbamazepine tablets or chewable tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
@@ -73,6 +73,17 @@ Call your healthcare provider right away if you have any of these symptoms, espe
 - acting on dangerous impulses
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
+
+6.
+Carbamazepine tablets or chewable tablets can cause abnormal heart rhythms, which may be life-threatening.
+This risk may be increased in patients with underlying heart problems.
+Call your healthcare provider right away if you have:
+
+- Fast, slow, or pounding heartbeat
+- Loss of consciousness (fainting)
+- Dizziness
+- Chest pain
+- Shortness of breath
 
 How can I watch for early symptoms of suicidal thoughts and actions?
 
@@ -130,8 +141,7 @@ Before you take carbamazepine tablets or chewable tablets, tell your healthcare 
 - are pregnant or plan to become pregnant.
   Carbamazepine tablets or chewable tablets may harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking carbamazepine tablets or chewable tablets.
-  You and your healthcare provider should decide if you should take carbamazepine tablets or chewable tablets while you are pregnant.
-- If you become pregnant while taking carbamazepine tablets or chewable tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+  You and your healthcare provider should decide if you should take carbamazepine tablets or chewable tablets while you are pregnant. • If you become pregnant while taking carbamazepine tablets or chewable tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
   The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
   You can enroll in this registry by calling 1-888-233-2334.
 - are breastfeeding or plan to breastfeed.
@@ -172,18 +182,9 @@ See "What is the most important information I should know about carbamazepine ta
 Carbamazepine tablets or chewable tablets may cause other serious side effects.
 These include:
 
-- Irregular heartbeat - symptoms include:
-- Fast, slow, or pounding heartbeat
-- Shortness of breath
-- Feeling lightheaded
-- Fainting
 - Liver problems - symptoms include:
-- yellowing of your skin or the whites of your eyes
-- dark urine
-- pain on the right side of your stomach area (abdominal pain)
-- easy bruising
-- loss of appetite
-- nausea or vomiting
+
+o yellowing of your skin or the whites of your eyes o dark urine o pain on the right side of your stomach area (abdominal pain) o easy bruising o loss of appetite o nausea or vomiting
 
 Get medical help right away if you have any of the symptoms listed above or listed in "What is the most important information I should know about carbamazepine tablets or chewable tablets?"
 
@@ -246,4 +247,4 @@ Manufactured for:
 
 Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8109620 Revised: May 2026
+8113103 Revised: July 2026
