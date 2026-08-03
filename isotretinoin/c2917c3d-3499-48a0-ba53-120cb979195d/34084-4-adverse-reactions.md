@@ -1,76 +1,88 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Clinical Trials and Postmarketing Surveillance
+The following adverse reactions with isotretinoin capsules are described in more detail in other sections of the labeling:
 
-The adverse reactions listed below reflect the experience from investigational studies of isotretinoin, and the postmarketing experience.
-The relationship of some of these events to isotretinoin therapy is unknown.
-Many of the side effects and adverse reactions seen in patients receiving isotretinoin are similar to those described in patients taking very high doses of vitamin A (dryness of the skin and mucous membranes, e.g., of the lips, nasal passage, and eyes).
+- Embryo-Fetal Toxicity [see Warnings and Precautions (5.1)]
+- Psychiatric Disorders [see Warnings and Precautions (5.3)]
+- Intracranial Hypertension (Pseudotumor Cerebri) [see Warnings and Precautions (5.4)]
+- Serious Skin Reactions [see Warnings and Precautions (5.5)]
+- Pancreatitis [see Warnings and Precautions (5.6)]
+- Lipid Abnormalities [see Warnings and Precautions (5.7)]
+- Hearing Impairment [see Warnings and Precautions (5.8)]
+- Hepatotoxicity [see Warnings and Precautions (5.9)]
+- Inflammatory Bowel Disease [see Warnings and Precautions (5.10)]
+- Musculoskeletal Abnormalities [see Warnings and Precautions (5.11)]
+- Ocular Abnormalities [see Warnings and Precautions (5.12)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.13)]
 
-Dose Relationship
+The following adverse reactions, presented alphabetically by body system, associated with the use of isotretinoin capsules were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cheilitis and hypertriglyceridemia are usually dose related.
-Most adverse reactions reported in clinical trials were reversible when therapy was discontinued; however, some persisted after cessation of therapy (see WARNINGSandADVERSE REACTIONS).
+Adverse Reactions with a Dose Relationship
+
+Cheilitis and hypertriglyceridemia were dose related.
 
 Body as a Whole
 
-Allergic reactions, including vasculitis, systemic hypersensitivity (see PRECAUTIONS, Hypersensitivity), edema, fatigue, lymphadenopathy, weight loss.
+Allergic reactions, dry mouth, edema, fatigue, irritability, lymphadenopathy, pain, systemic hypersensitivity, vasculitis, weight loss.
 
 Cardiovascular
 
-Palpitation, tachycardia, vascular thrombotic disease, stroke.
+Palpitation, stroke, tachycardia, vascular thrombotic disease
 
-Endocrine/Metabolic
+Endocrine/Metabolism and Nutritional
 
-Hypertriglyceridemia (see WARNINGS, Lipids), alterations in blood sugar levels (see PRECAUTIONS, Laboratory Tests).
+Alterations in blood sugar levels, decreased appetite, hypertriglyceridemia, weight fluctuation.
 
 Gastrointestinal
 
-Inflammatory bowel disease (see WARNINGS, Inflammatory Bowel Disease), hepatitis (see WARNINGS, Hepatotoxicity), pancreatitis (see WARNINGS, Lipids), bleeding and inflammation of the gums, colitis, esophagitis/esophageal ulceration, ileitis, nausea, other nonspecific gastrointestinal symptoms.
+Abdominal pain, bleeding and inflammation of the gums, colitis, constipation, diarrhea, esophageal ulceration, esophagitis, ileitis, nausea, hepatitis, inflammatory bowel disease, other nonspecific gastrointestinal symptoms, pancreatitis, vomiting.
 
 Hematologic
 
-Allergic reactions (see PRECAUTIONS, Hypersensitivity), anemia, thrombocytopenia, neutropenia, rare reports of agranulocytosis (see PRECAUTIONS, Information for Patients).
-See PRECAUTIONS, Laboratory Tests for other hematological parameters.
+Anemia, neutropenia including severe neutropenia, rare reports of agranulocytosis. thrombocytopenia,
 
-## Musculoskeletal
+Infections and Infestations
 
-Skeletal hyperostosis, calcification of tendons and ligaments, premature epiphyseal closure, decreases in bone mineral density (see WARNINGS, Skeletal), musculoskeletal symptoms (sometimes severe) including back pain, myalgia, and arthralgia (see PRECAUTIONS, Information for Patients), transient pain in the chest (see PRECAUTIONS, Information for Patients), arthritis, tendonitis, other types of bone abnormalities, elevations of CPK/rare reports of rhabdomyolysis (see PRECAUTIONS, Laboratory Tests).
+Infections (including disseminated herpes simplex, hordeolum, nasopharyngitis, upper respiratory tract infections).
+
+Laboratory Abnormalities
+
+- The following lab test values were increased: alkaline phosphatase, ALT, AST, bilirubin, cholesterol, CPK, fasting blood glucose, gamma-glutamyltransferase, LDH, LDL, platelet counts, sedimentation rate, triglycerides, and uric acid (hyperuricemia).
+- The following lab test values were decreased: high density lipoprotein (HDL), RBC parameters, and WBC counts.
+- Urine findings included increased microscopic or gross hematuria, proteinuria, white cells.
+
+Musculoskeletal and Connective Tissue
+
+Arthritis, calcification of tendons and ligaments; decreases in bone mineral density; elevations of CPK/rare reports of rhabdomyolysis musculoskeletal symptoms (sometimes severe) including arthralgia, back pain, extremity pain, musculoskeletal pain or stiffness, myalgia, neck pain [see Warnings and Precautions (5.11)]; other types of bone abnormalities; premature epiphyseal closure; skeletal hyperostosis; tendonitis; and transient chest pain.
 
 Neurological
 
-Pseudotumor cerebri (see WARNINGS, Pseudotumor Cerebri), dizziness, drowsiness, headache, insomnia, lethargy, malaise, nervousness, paresthesias, seizures, stroke, syncope, weakness.
+Dizziness, drowsiness, intracranial hypertension (pseudotumor cerebri), headache, insomnia, lethargy, malaise, nervousness, paresthesia, seizures, syncope, stroke, and weakness.
 
 Psychiatric
 
-Suicidal ideation, suicide attempts, suicide, depression, psychosis, aggression, violent behaviors (see WARNINGS, Psychiatric Disorders), emotional instability.
-Of the patients reporting depression, some reported that the depression subsided with discontinuation of therapy and recurred with reinstitution of therapy.
+Aggression, auditory hallucinations, anger, depression, emotional instability, insomnia, irritability, panic attack,
+
+psychosis, suicidal ideation, suicide, suicide attempts, violent behaviors.
+In some patients who reported depression, their depression subsided with discontinuation of isotretinoin capsules treatment but recurred with reinstitution of isotretinoin capsules treatment
 
 Reproductive System
 
-Abnormal menses.
+Abnormal menses, sexual dysfunction that may continue after discontinuation of treatment (including erectile dysfunction, decreased libido, decreased vaginal lubrication, and vaginal dryness).
 
 Respiratory
 
-Bronchospasms (with or without a history of asthma), respiratory infection, voice alteration.
+Bronchospasm (with or without a history of asthma), epistaxis, nasal dryness, respiratory infection, voice alteration.
 
-## Skin and Appendages
+Skin and Subcutaneous Tissue
 
-Acne fulminans, alopecia (which in some cases persists), bruising, cheilitis (dry lips), dry mouth, dry nose, dry skin, epistaxis, eruptive xanthomas,7 erythema multiforme, flushing, fragility of skin, hair abnormalities, hirsutism, hyperpigmentation and hypopigmentation, infections (including disseminated herpes simplex), nail dystrophy, paronychia, peeling of palms and soles, photoallergic/photosensitizing reactions, pruritus, pyogenic granuloma, rash (including facial erythema, seborrhea, and eczema), Stevens-Johnson syndrome, sunburn susceptibility increased, sweating, toxic epidermal necrolysis, urticaria, vasculitis (including Wegener's granulomatosis; see PRECAUTIONS, Hypersensitivity), abnormal wound healing (delayed healing or exuberant granulation tissue with crusting; see PRECAUTIONS, Information for Patients).
+Abnormal wound healing (delayed healing or exuberant granulation tissue with crusting), acne fulminans, alopecia (which in some cases persists), bruising, cheilitis (dry lips), contact dermatitis, dermatitis, dry mouth, dry nose, dry skin, epistaxis, erythema, eruptive xanthomas, erythema multiforme, flushing, hair abnormalities, hirsutism, hyperpigmentation and hypopigmentation, nail dystrophy, paronychia, peeling of palms and soles, photoallergic/photosensitizing reactions, pruritus, pyogenic granuloma, rash (including facial erythema, seborrhea, and eczema), skin fragility, Stevens-Johnson syndrome, sunburn, sweating, toxic epidermal necrolysis, urticaria, vasculitis (including granulomatosis with polyangiitis), wound healing abnormal (delayed healing or exuberant granulation tissue with crusting).
 
-Special Senses:Hearing: hearing impairment (see WARNINGS, Hearing Impairment), tinnitus.
+Senses
 
-Vision: corneal opacities (see WARNINGS, Corneal Opacities), decreased night vision which may persist (see WARNINGS, Decreased Night Vision), cataracts, color vision disorder, conjunctivitis, dry eyes, eyelid inflammation, keratitis, optic neuritis, photophobia, visual disturbances.
+Hearing: hearing impairment, tinnitus.
 
-Urinary System: glomerulonephritis (see PRECAUTIONS, Hypersensitivity), nonspecific urogenital findings (see PRECAUTIONS, Laboratory Tests for other urological parameters).
+Ocular: asthenopia, blurred vision, cataracts, color vision disorder, conjunctivitis, corneal opacities, decreased night vision which may persist, dry eyes, eye irritation, eye pruritus, eyelid inflammation, increased lacrimation, keratitis, ocular hyperemia, optic neuritis, photophobia, reduced visual acuity, visual disturbances.
 
-Laboratory
-
-Elevation of plasma triglycerides (see WARNINGS, Lipids), decrease in serum high-density lipoprotein (HDL) levels, elevations of serum cholesterol during treatment.
-
-Increased alkaline phosphatase, SGOT (AST), SGPT (ALT), GGTP or LDH (see WARNINGS, Hepatotoxicity).
-
-Elevation of fasting blood sugar, elevations of CPK (see PRECAUTIONS, Laboratory Tests), hyperuricemia.
-
-Decreases in red blood cell parameters, decreases in white blood cell counts (including severe neutropenia and rare reports of agranulocytosis; (seePRECAUTIONS, Information for Patients), elevated sedimentation rates, elevated platelet counts, thrombocytopenia.
-
-White cells in the urine, proteinuria, microscopic or gross hematuria.
+Renal and Urinary Glomerulonephritis, nonspecific urogenital findings.

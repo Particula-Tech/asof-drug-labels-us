@@ -1,293 +1,303 @@
 # MEDICATION GUIDE
 
-Isotretinoin (EYE so TRET i noyn)Capsules
+Isotretinoin (EYE so TRET i noyn) Capsules, USP
 
-Read the Medication Guide that comes with isotretinoin capsules before you start taking it and each time you get a prescription.
+for oral use
+
+Read the Medication Guide that comes with Isotretinoin Capsules before you start taking it and each time you get a prescription.
 There may be new information.
-This information does not take the place of talking with your doctor about your medical condition or your treatment.
+This information does not take the place of talking with your health care provider about your medical condition or your treatment.
 
-What is the most important information I should know aboutisotretinoin capsules?
+What is the most important information I should know about Isotretinoin Capsules?
 
-- Isotretinoin capsules are used to treat a type of severe acne (nodular acne) that has not been helped by other treatments, including antibiotics.
-- Because isotretinoin capsules can cause birth defects, isotretinoin capsules are only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE REMS.
-- Isotretinoin capsules may cause serious mental health problems.
+- Isotretinoin Capsules can harm your unborn baby, including birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
+  Patients who are pregnant or who plan to become pregnant must not take Isotretinoin Capsules.
 
-1. Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
-   Patients who are pregnant or who plan to become pregnant must not take isotretinoin capsules.
-   Patients must not get pregnant:
+- Because of the risk of birth defects, Isotretinoin Capsules are only available through a special program called the iPLEDGE Risk Evaluation and Mitigation Strategy (REMS).
+- Your healthcare provider must be enrolled in the iPLEDGE REMS for you to be prescribed Isotretinoin Capsules.
+- Before you start treatment with Isotretinoin Capsules, you must enroll in the iPLEDGE REMS.
+- You must understand and agree to do everything required in the iPLEDGE REMS.
 
-- for 1 month before starting isotretinoin capsules
-- while taking isotretinoin capsules
-- for 1 month after stopping isotretinoin capsules.If you get pregnant while takingisotretinoin capsules, stop taking it right away and call your doctor.
-  Doctors and patients should report all cases of pregnancy to:
+Patients must not get pregnant:
+
+- for 1 month before starting Isotretinoin Capsules
+- during treatment with Isotretinoin Capsules
+- for 1 month after stopping Isotretinoin Capsules
+
+If you get pregnant during treatment with Isotretinoin Capsules, stop taking it right away and tell your health care provider.
+Health care providers and patients should report all cases of pregnancy that happen during treatment or 1 month after stopping treatment to:
 
 - FDA MedWatch at 1-800-FDA-1088, and
-- The iPLEDGE Pregnancy Registry at 1-866-495-0654
+- the iPLEDGE Pregnancy Registry at 1-866-495-0654 or www.ipledgeprogram.com
 
-1. Serious mental health problems.
-   Isotretinoin capsules may cause:
+If you have any questions about the iPLEDGE REMS, ask your healthcare provider, or go to www.ipledgeprogram.com or call 1-866-495-0654.
 
+- Serious mental health problems, including:
 - depression
 - psychosis (seeing or hearing things that are not real)
 - suicide.
-  Some patients taking isotretinoin capsules have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
+  Some patients taking Isotretinoin Capsules have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
   Some people tried to end their own lives.
-  And some people have ended their own lives.
+  Some people have ended their own lives.
 
-Stop isotretinoin capsulesand call your doctor right away if you or a family member notices that you have any of the following signs and symptoms of depression or psychosis:
+Stop taking Isotretinoin Capsules and tell your health care provider right away if you or a family member notices that you get any of the following signs and symptoms of depression or psychosis:
 
 - start to feel sad or have crying spells
-- lose interest in activities you once enjoyed
-- sleep too much or have trouble sleeping
-- become more irritable, angry, or aggressive than usual (for example, temper outbursts, thoughts of violence)
-- have a change in your appetite or body weight
 - have trouble concentrating
+- lose interest in activities you once enjoyed
 - withdraw from your friends or family
+- sleep too much or have trouble sleeping
 - feel like you have no energy
+- become more irritable, angry, or aggressive than usual (for example, temper outbursts, thoughts of violence)
 - have feelings of worthlessness or guilt
 - start having thoughts about hurting yourself or taking your own life (suicidal thoughts)
+- have a change in your appetite or body weight
+- suicide attempts
 - start acting on dangerous impulses
 - start seeing or hearing things that are not real
 
-After stopping isotretinoin capsules, you may also need follow-up mental health care if you had any of these symptoms.
+Your health care provider may tell you to see a mental health care professional if you have any of these symptoms.
 
-What areisotretinoin capsules?
+See “What are the possible side effects of Isotretinoin Capsules?” for more information about side effects.
 
-Isotretinoin capsules are a medicine taken by mouth to treat the most severe form of acne (nodular acne) that cannot be cleared up by any other acne treatments, including antibiotics.
-Isotretinoin capsules can cause serious side effects (see “What is the most important information I should know about isotretinoin capsules?”).
-Isotretinoin capsules can only be:
+What are Isotretinoin Capsules?
 
-- prescribed by doctors that are enrolled in the iPLEDGE REMS
-- dispensed by a pharmacy that is enrolled with the iPLEDGE REMS
-- given to patients who are enrolled in the iPLEDGE REMS and agree to do everything required in the program
+Isotretinoin Capsules is a prescription medicine used in patients 12 years of age and older, who are not pregnant, for the treatment of severe acne (nodular acne) that cannot be cleared up by any other acne treatments, including antibiotics.
+Isotretinoin Capsules can cause serious side effects (see “What is the most important information I should know about Isotretinoin Capsules?”).
 
-What is severe nodular acne?
+Isotretinoin Capsules can only be:
 
-Severe nodular acne is when many red, swollen, tender lumps form in the skin.
-These can be the size of pencil erasers or larger.
-If untreated, nodular acne can lead to permanent scars.
+- prescribed by health care providers that are enrolled in the iPLEDGE REMS
+- dispensed by a pharmacy that is enrolled in the iPLEDGE REMS
+- given to patients who are enrolled in the iPLEDGE REMS and agree to do everything required in the program.
 
-Who should not take isotretinoin capsules?
+It is not known if Isotretinoin Capsules is safe and effective in children less than 12 years of age.
 
-- Do not take isotretinoin capsules if you are pregnant, plan to become pregnant, or become pregnant during isotretinoin capsules treatment.
-  Isotretinoin capsules cause life-threatening birth defects.
-  See “What is the most important information I should know about isotretinoin capsules?”
-- Do not take isotretinoin capsules if you are allergic to anything in it.
-  See the end of this Medication Guide for a complete list of ingredients in isotretinoin capsules.
+Do not take Isotretinoin Capsules if you:
 
-What should I tell my doctor before taking isotretinoin capsules?
+- are pregnant, plan to become pregnant, or become pregnant during Isotretinoin Capsules treatment.
+  Isotretinoin Capsules can cause life-threatening birth defects.
+  See “What is the most important information I should know about Isotretinoin Capsules?”
+- are allergic to isotretinoin, vitamin A, or any of the ingredients in Isotretinoin Capsules.
+  See the end of this Medication Guide for a complete list of ingredients in Isotretinoin Capsules.
 
-Tell your doctor if you or a family member has any of the following health conditions:
+Before taking Isotretinoin Capsules, tell your health care provider if you or a family member has any of the following health conditions:
 
-- mental problems
+- mental health problems
 - asthma
-- liver disease
+- liver problems
 - diabetes
 - heart disease
-- bone loss (osteoporosis) or weak bones
+- increase blood fat levels (cholesterol and triglycerides)
+- bone loss (osteoporosis), weak bones or any other bone problems
 - an eating problem called anorexia nervosa (where people eat too little)
-- food or medicine allergies
+- bowel or digestion problems
 
-Tell your doctor if you are pregnant or breastfeeding.
-Isotretinoin capsulesmust not be used by patients who are pregnant or breastfeeding.
+Tell your health care provider if you are pregnant or breastfeeding.
+Do not breastfeed during treatment or for at least 8 days after the last dose of Isotretinoin Capsules.
 
-Tell your doctor about all of the medicines you take including prescription and non-prescription medicines, vitamins and herbal supplements.
-Isotretinoin capsules and certain other medicines can interact with each other, sometimes causing serious side effects.
-Especially tell your doctor if you take:
+Tell your health care provider about all of the medicines you take including prescription and over-the-counter medicines, vitamins and herbal supplements.
+Isotretinoin Capsules and certain other medicines can affect each other, sometimes causing serious side effects.
 
-- Vitamin A supplements.
-  Vitamin A in high doses has many of the same side effects as isotretinoin capsules.
-  Taking both together may increase your chance of getting side effects.
-- Tetracycline antibiotics.
-  Tetracycline antibiotics taken with isotretinoin capsules can increase the chances of getting increased pressure in the brain.
-- Progestin-only birth control pills (mini-pills).
-  They may not work while you take isotretinoin capsules.
-  Ask your doctor or pharmacist if you are not sure what type you are using.
-- Dilantin (phenytoin).
-  This medicine taken with isotretinoin capsules may weaken your bones.
-- Corticosteroid medicines.
-  These medicines taken with isotretinoin capsules may weaken your bones.
-- St. John’s Wort.
-  This herbal supplement may make birth control pills work less effectively.
+Do not take the following medicines during treatment with Isotretinoin Capsules:
 
-These medicines should not be used with isotretinoin capsulesunless your doctor tells you it is okay.
+- vitamin A supplements
+- tetracycline antibiotics
 
 Know the medicines you take.
-Keep a list of them to show to your doctor and pharmacist.
-Do not take any new medicine without talking with your doctor.
+Keep a list of them to show to your health care provider and pharmacist.
+Do not take any new medicine without talking with your healthcare provider.
 
-How should I takeisotretinoin capsules?
+You will not be prescribed Isotretinoin Capsules if you cannot agree to or follow all the instructions of the iPLEDGE REMS.
 
-- You must take isotretinoin capsules exactly as prescribed.
-  You must also follow all the instructions of the iPLEDGE REMS.
-  Before prescribing isotretinoin capsules, your doctor will:
+- You will get no more than a 30-day supply of Isotretinoin Capsules at a time.
+  This is to make sure you are following the Isotretinoin Capsules iPLEDGE REMS.
+
+How should I take Isotretinoin Capsules?
+
+You must take Isotretinoin Capsules exactly as prescribed.
+You must also follow all the instructions of the iPLEDGE REMS.
+
+Before prescribing Isotretinoin Capsules, your health care provider will:
+
 - explain the iPLEDGE REMS to you
-- have you sign the Patient Enrollment Form for Patients who cannot get Pregnant.
-  Patients who can get pregnant must also sign another enrollment form.
-
-You will not be prescribed isotretinoin capsules if you cannot agree to or follow all the instructions of the iPLEDGE REMS.
-
-- You will get no more than a 30-day supply of isotretinoin capsules at a time.
-  This is to make sure you are following the isotretinoin capsules iPLEDGE REMS.
-  You should talk with your doctor each month about side effects.
-- The amount of isotretinoin capsules you take has been specially chosen for you.
-  It is based on your body weight, and may change during treatment.
-- Take isotretinoin capsules 2 times a day with a meal, unless your doctor tells you otherwise.
-  Swallow your isotretinoincapsules whole with a full glass of liquid.
-  Do not chew or suck on the capsule.
-  Isotretinoin capsules can hurt the tube that connects your mouth to your stomach (esophagus) if it is not swallowed whole.
+- have you sign the Patient Informed Consent form (for all patients).
+  Patients who can get pregnant must also sign another consent form.
+- get pregnancy tests to make sure you are not pregnant before you start Isotretinoin Capsules.
+  You will take 2 pregnancy tests at least 30 days apart before starting treatment.
+- The amount of Isotretinoin Capsules you take has been specially chosen for you.
+  It is based on your body weight and may change during treatment.
+- Take Isotretinoin Capsules two times a day with food.
+  Swallow Isotretinoin Capsules whole with a full glass of liquid.
+  Do not split, crush, chew, or suck on the capsules.
+  Isotretinoin Capsules can hurt the tube that connects your mouth to your stomach (esophagus) if not swallowed whole.
+- Your health care provider will tell you how long you will receive treatment with Isotretinoin Capsules.
 - If you miss a dose, just skip that dose.
   Do not take two doses at the same time.
-- If you take too much isotretinoin capsules or overdose, call your doctor or poison control center right away.
-- Your acne may get worse when you first start taking isotretinoin capsules.
+- If you take too much Isotretinoin Capsules, call your health care provider or Poison Help line at 1-800-222-1222 right away.
+- Your acne may get worse when you first start taking Isotretinoin Capsules.
   This should last only a short while.
-  Talk with your doctor if this is a problem for you.
-- You must return to your doctor as directed to make sure you don’t have signs of serious side effects.
-  Your doctor may do blood tests to check for serious side effects from isotretinoin capsules.
-  Patients who can get pregnant will get a pregnancy test each month.
-- Patients who can get pregnant must agree to use two separate forms of effective birth control at the same time one month before, while taking, and for one month after taking isotretinoin capsules.
-  You must access the iPLEDGE REMS system to answer questions about the program requirements and to enter your two chosen forms of birth control.
+  Talk with your health care provider if this is a concern for you.
+  Your acne may continue to improve after treatment.
+- You must return to your health care provider as directed to make sure you don’t have signs of serious side effects.
+  Your health care provider may do blood tests to check for serious side effects from Isotretinoin Capsules and may stop treatment if you get certain side effects.
+- Patients who can get pregnant will get a pregnancy test before each prescription is given during treatment with Isotretinoin Capsules, when you stop treatment, and 1 month after you stop treatment.
+- You must get your prescription within seven days of receiving your pregnancy test.
+- Patients who can get pregnant must:
+- Talk about birth control options with your health care provider or go for a free visit to talk about birth control with another health care provider or family planning expert.
+  Your health care provider can arrange this free visit, which will be paid for by the company that makes Isotretinoin Capsules.
+- Use your chosen pregnancy prevention methods.
+  You must choose two separate forms of birth control at the same time or commit to not having sexual contact with a partner that could result in pregnancy for at least 1 month before treatment, during treatment, and for 1 month after treatment with Isotretinoin Capsules.
+- Access the iPLEDGE REMS system to answer questions about the REMS requirements and enter your two chosen pregnancy prevention methods (two separate forms of birth control or commitment to not having sexual contact with a partner that could result in pregnancy).
   To access the iPLEDGE REMS system, go to www.ipledgeprogram.com or call 1-866-495-0654.
 
-You must talk about effective birth control forms with your doctor or go for a free visit to talk about birth control with another doctor or family planning expert.
-Your doctor can arrange this free visit, which will be paid for by the company that makes isotretinoin capsules.
+If you have sex at any time without using two forms of birth control 1 month before, during, or 1 month after treatment, get pregnant, or miss your expected period, stop taking Isotretinoin Capsules and call your health care provider right away.
 
-If you have sex at any time without using two forms of effective birth control, get pregnant, or
+What should I avoid while taking Isotretinoin Capsules?
 
-miss your expected period, stop using isotretinoin capsulesand call your doctor right away.
-
-What should I avoid while takingisotretinoin capsules?
-
-- Do not get pregnant while taking isotretinoin capsules and for one month after stopping isotretinoin capsules.
-  See "What is the most important information I should know aboutisotretinoin capsules?”
-- Do not breast feed while taking isotretinoin capsules and for one month after stopping isotretinoin capsules.
-  We do not know if isotretinoin can pass through your milk and harm the baby.
-- Do not give blood while you take isotretinoin capsules and for one month after stopping isotretinoin capsules.
-  If someone who is pregnant gets your donated blood, their baby may be exposed to isotretinoin capsules and may be born with birth defects.
-- Do not take other medicines or herbal products with isotretinoin capsules unless you talk to your doctor.
-- See “What should I tell my doctor before takingisotretinoin capsules?”
-- Do not drive at night until you know if isotretinoin capsuleshave affected your vision.
-  Isotretinoin capsules may decrease your ability to see in the dark.
-- Do not have cosmetic procedures to smooth your skin, including waxing, dermabrasion, or laser procedures, while you are using isotretinoin capsulesand for at least 6 months after you stop.
-  Isotretinoin capsules can increase your chance of scarring from these procedures.
-  Check with your doctor for advice about when you can have cosmetic procedures.
+- Do not give blood during treatment with Isotretinoin Capsules and for 1 month after stopping Isotretinoin Capsules.
+  If someone who is pregnant gets your donated blood, Isotretinoin Capsules may cause miscarriage, premature birth, birth defects, or death of the baby.
+- Do not take other medicines or herbal products during treatment with Isotretinoin Capsules unless you talk to your health care provider.
+  See “Before taking Isotretinoin Capsules”
+- Do not drive at night until you know if Isotretinoin Capsules have affected your vision.
+  Isotretinoin Capsules may decrease your ability to see in the dark.
+- Do not have cosmetic procedures to smooth your skin, including waxing, dermabrasion, or laser procedures, during treatment with Isotretinoin Capsules and for at least 6 months after you stop.
+  Isotretinoin Capsules can increase your chance of scarring from these procedures.
+  Check with your health care provider for advice about when you can have cosmetic procedures.
 - Avoid sunlight and ultraviolet lights as much as possible.
   Tanning machines use ultraviolet lights.
-  Isotretinoin capsules may make your skin more sensitive to light.
-- Do not share isotretinoin capsuleswith other people.
-  It can cause birth defects and other serious health problems.
+  Isotretinoin Capsules may make your skin more sensitive to light.
+- Do not share Isotretinoin Capsules with other people.
+  Isotretinoin Capsules can cause life-threatening birth defects and other serious health problems.
 
-What are the possible side effects ofisotretinoin capsules?
+What are the possible side effects of Isotretinoin Capsules?
 
-- Isotretinoin capsulescan cause birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
-  See “What is the most important information I should know aboutisotretinoin capsules?”
-- Isotretinoin capsulesmay cause serious mental health problems.
-  See “What is the most important information I should know aboutisotretinoin capsules?”
-- serious brain problems.
-  Isotretinoin capsules can increase the pressure in your brain.
-  This can lead to permanent loss of eyesight and, in rare cases, death.
-  Stop taking isotretinoin capsules and call your doctor right away if you get any of these signs of increased brain pressure:
+Isotretinoin Capsules can cause serious side effects, including:
+
+- See “What is the most important information I should know about Isotretinoin Capsules”?
+- increased pressure in the brain (intracranial hypertension).
+  Isotretinoin Capsules can increase the pressure in your brain.
+  This can lead to permanent loss of eyesight, and in rare cases, death.
+  Stop taking Isotretinoin Capsules and tell your health care provider right away if you get any of these signs of increased brain pressure:
 - bad headache
-- blurred vision
-- dizziness
 - nausea or vomiting
+- blurred vision or other visual problems
 - seizures (convulsions)
+- dizziness
 - stroke
-- skin problems.
-  Skin rash can occur in patients taking isotretinoin capsules.
-  In some patients a rash can be serious.
-  Stop using isotretinoin capsules and call your doctor right away if you develop conjunctivitis (red or inflamed eyes, like “pink eye”), a rash with a fever, blisters on legs, arms or face and/or sores in your mouth, throat, nose, eyes, or if your skin begins to peel.
-- stomach area (abdomen) problems.
-  Certain symptoms may mean that your internal organs are being damaged.
-  These organs include the liver, pancreas, bowel (intestines), and esophagus (connection between mouth and stomach).
-  If your organs are damaged, they may not get better even after you stop taking isotretinoin capsules.
-  Stop taking isotretinoin capsules and call your doctor if you get:
-- severe stomach, chest or bowel pain
-- trouble swallowing or painful swallowing
-- new or worsening heartburn
-- diarrhea
-- rectal bleeding
-- yellowing of your skin or eyes
-- dark urine
-- bone and muscle problems.
-  Isotretinoin capsules may affect bones, muscles, and ligaments and cause pain in your joints or muscles.
-  Tell your doctor if you plan hard physical activity during treatment with isotretinoin capsules.
-  Tell your doctor if you get:
-- back pain
-- joint pain
-- broken bone.
-  Tell all healthcare providers that you take isotretinoin capsules if you break a bone.
-
-Stop isotretinoin capsulesand call your doctor right away if you have muscle weakness.
-Muscle weakness with or without pain can be a sign of serious muscle damage.
-
-Isotretinoin capsules may stop long bone growth in teenagers who are still growing.
-
+- serious skin problems.
+  Skin rash can happen in patients taking Isotretinoin Capsules.
+  Sometimes rash can be severe and may be life-threatening and lead to hospitalization or death.
+  Stop taking Isotretinoin Capsules and tell your health care provider right away if you get:
+- conjunctivitis (red or inflamed eyes, like “pink eye”)
+- sores in your mouth, throat, nose or eyes
+- rash with a fever
+- peeling of your skin
+- blisters on legs, arms or face
+- inflammation of your pancreas (pancreatitis) can happen in patients who take Isotretinoin Capsules and can lead to death.
+  Stop taking Isotretinoin Capsules and tell your health care provider right away if you get any of the following symptoms of pancreatitis:
+- severe upper stomach (abdomen) pain
+- nausea and vomiting
+- swelling of your stomach
+- fever
+- increased blood fat (lipid) levels.
+  Isotretinoin Capsules can raise blood fat levels (cholesterol and triglycerides).
+  Your health care provider will do blood tests to check your lipids before and during treatment.
+  These problems usually go away when Isotretinoin Capsules treatment is finished.
 - hearing problems.
-  Stop using isotretinoin capsules and call your doctor if your hearing gets worse or if you have ringing in your ears.
+  Stop taking Isotretinoin Capsules and tell your health care provider if your hearing gets worse or if you have ringing in your ears.
   Your hearing loss may be permanent.
+- liver problems, including hepatitis.
+  Your health care provider will do tests to check your liver before and during treatment with Isotretinoin Capsules.
+  Tell your health care provider right away if you get:
+- yellowing of your skin or the whites of your eyes
+- dark urine
+- pain on the right side of your stomach area (abdomen)
+- bleeding or bruising more easily than normal
+- inflammation of your digestive tract (inflammatory bowel disease).
+  Stop taking Isotretinoin Capsules right away and tell your health care provider right away if you get:
+- severe stomach, chest or bowel pain
+- new or worsening heartburn
+- nausea or vomiting
+- diarrhea
+- trouble swallowing or painful swallowing
+- rectal bleeding
+- bone and muscle problems including bone pain, softening or thinning of bones (which may lead to fractures).
+  Isotretinoin Capsules may stop long bone growth in teenagers who are still growing.
+  Teenagers who participate in sports with hard physical activity and repeated actions during treatment with Isotretinoin Capsules may have a higher risk of bone fractures or injuries.
+  Tell your health care provider if you get:
+- bone pain
+- back pain
+- broken bone (fracture).
+- muscle problems.
+  Stop taking Isotretinoin Capsules and tell your health care provider right away if you have muscle or joint pain or weakness.
+  Muscle weakness with or without pain can be a sign of serious muscle damage.
 - vision problems.
-  Isotretinoin capsules may affect your ability to see in the dark.
-  This condition usually clears up after you stop taking isotretinoin capsules, but it may be permanent.
-  Other serious eye effects can occur.
-  Stop taking isotretinoin capsules and call your doctor right away if you have any problems with your vision or dryness of the eyes that is painful or constant.
-  If you wear contact lenses, you may have trouble wearing them while taking isotretinoin capsules and after treatment.
-- lipid (fats and cholesterol in blood) problems.
-  Isotretinoin capsules can raise the level of fats and cholesterol in your blood.
-  This can be a serious problem.
-  Return to your doctor for blood tests to check your lipids and to get any needed treatment.
-  These problems usually go away when isotretinoin capsules treatment is finished.
+  Stop taking Isotretinoin Capsules and tell your health care provider right away if you have any vision changes.
+  Isotretinoin Capsules may affect your ability to see in the dark.
+  This usually goes away after you stop taking Isotretinoin Capsules, but it may be permanent.
+  Some patients get dry eyes during treatment.
+  If you wear contact lenses, you may have trouble wearing them during and after you stop treatment with Isotretinoin Capsules.
 - serious allergic reactions.
-  Stop taking isotretinoin capsules and get emergency care right away if you develop hives, a swollen face or mouth, or have trouble breathing.
-  Stop taking isotretinoin capsules and call your doctor if you get a fever, rash, or red patches or bruises on your legs.
-- blood sugar problems.
-  Isotretinoin capsules may cause blood sugar problems including diabetes.
-  Tell your doctor if you are very thirsty or urinate a lot.
-- decreased red and white blood cells.
-  Call your doctor if you have trouble breathing, faint, or feel weak.
-- The common, less serious side effects of isotretinoin capsules are dry skin, chapped lips, dry eyes, and dry nose that may lead to nosebleeds.
-  Call your doctor if you get any side effect that bothers you or that does not go away.
+  Stop taking Isotretinoin Capsules and get emergency medical help right away if you get hives, a swollen face or mouth, or have trouble breathing.
+  Stop taking Isotretinoin Capsules and tell your health care provider if you get a fever, rash, or red patches or bruises on your legs.
+- blood sugar problems, including diabetes.
+  Tell your health care provider if you are very thirsty or urinate more than usual.
 
-These are not all of the possible side effects with isotretinoin capsules.
-Your doctor or pharmacist can give you more detailed information.
+The most common side effects of Isotretinoin Capsules include:
+
+- dry lips
+- headache
+- dry skin
+- upper respiratory tract infection (common cold)
+- back pain
+- chapped lips or swelling of the lips
+- dry eyes
+- skin reactions
+- joint pain
+- muscle problems
+- nose bleeds
+- eye problems, including decreased vision
+
+These are not all of the possible side effects of Isotretinoin Capsules.
+
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 or Amneal Pharmaceuticals at 1-877-835-5472.
+You may report side effects to FDA at 1-800-FDA-1088 or Amneal Pharmaceuticals LLC at 1-877-835-5472.
 
-How should I storeisotretinoin capsules?
+How should I store Isotretinoin Capsules?
 
-- Store isotretinoin capsules at 20° to 25°C (68° to 77°F).
+- Store Isotretinoin Capsules at room temperature, 68° to 77°F (20°C to 25°C).
   Protect from light.
-- Keep isotretinoin capsulesand all medicines out of the reach of children.
 
-General Information aboutisotretinoin capsules.
+Keep Isotretinoin Capsules and all medicines out of the reach of children.
 
-Medicines are sometimes prescribed for conditions that are not mentioned in Medication Guides.
-Do not use isotretinoin capsules for a condition for which it was not prescribed.
-Do not give isotretinoin capsules to other people, even if they have the same symptoms that you have.
+General information about the safe and effective use of Isotretinoin Capsules
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use Isotretinoin Capsules for a condition for which it was not prescribed.
+Do not give Isotretinoin Capsules to other people, even if they have the same symptoms that you have.
 It may harm them.
-
-This Medication Guide summarizes the most important information about isotretinoin capsules.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about isotretinoin capsules that is written for healthcare professionals.
+You can ask your pharmacist or health care provider for information about Isotretinoin Capsules that is written for health professionals.
 
 You can also call iPLEDGE REMS at 1-866-495-0654 or visit www.ipledgeprogram.com.
 
-What are the ingredients inisotretinoin capsules?
+What are the ingredients in Isotretinoin Capsules?
 
-Active Ingredient: Isotretinoin
+Active ingredient: isotretinoin, USP
 
-Inactive Ingredients: Each capsule contains the following inactive ingredients: butylated hydroxyanisole, edetate disodium dihydrate, gelatin, glycerin, hydrogenated vegetable oil, purified water, soybean oil, titanium dioxide and white wax (beeswax).
+Inactive ingredients: Each capsule contains the following inactive ingredients: butylated hydroxyanisole, edetate disodium dihydrate, gelatin, glycerin, hydrogenated vegetable oil, purified water, soybean oil, titanium dioxide and white wax (beeswax).
 
 In addition, the 10 mg capsule contains iron oxide black and iron oxide yellow.
 The 20 mg capsule contains iron oxide black, iron oxide red and iron oxide yellow.
 The 30 mg capsule contains FD&C yellow #6 aluminum lake.
 The 40 mg capsule contains FD&C yellow #6 aluminum lake.
 
+Distributed by:
+
+Amneal Pharmaceuticals LLC
+
+Bridgewater, NJ 08807
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Dilantin is a registered trademark of Warner-Lambert Company LLC.
-
-Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
-
 Rev.
-03-2022-04
+07-2026-06
