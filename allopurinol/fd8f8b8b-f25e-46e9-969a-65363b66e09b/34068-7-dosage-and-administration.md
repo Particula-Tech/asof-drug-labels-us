@@ -91,7 +91,7 @@ The maximum dosage that should be used in patients with various levels of renal 
 Patients with Recurrent Calcium Oxalate Calculi
 
 Data are insufficient to provide dosage recommendations for the treatment of recurrent calcium oxalate calculi in patients with renal impairment.
-Allopurinol and its metabolites are excreted by the kidney, and accumulation of the drug can occur in renal failure [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+Allopurinol and its metabolites are excreted by the kidney, and accumulation of the drug can occur in renal failure [see Warnings and Precautions (5.3)and Use in Specific Populations (8.6)].
 
 Hyperuricemia Associated with Cancer Therapy
 
@@ -109,4 +109,4 @@ Recommended Dosage of Allopurinol Tablets in Adult Patients for Management of Hy
 
 Treatment with allopurinol tablets has not been studied in pediatric patients with severe renal impairment (eGFR < 20 mL/min) or on dialysis.
 There is insufficient information to establish dosing for allopurinol tablets in pediatric patients with renal impairment.
-In these patients, consider the risks and potential benefits before initiating treatment with allopurinol tablets [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+In these patients, consider the risks and potential benefits before initiating treatment with allopurinol tablets [see Warnings and Precautions (5.3)and Use in Specific Populations (8.6)].
