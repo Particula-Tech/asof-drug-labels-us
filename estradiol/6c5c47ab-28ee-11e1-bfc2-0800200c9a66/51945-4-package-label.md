@@ -204,7 +204,7 @@ Contents: 8 Systems
 
 Rx Only
 
-Each 3.3 cm2 system contains 1.83 mg of estradiol USP.
+Each 3.3 cm2 system contains 0.83 mg of estradiol USP.
 
 Inactive components: acrylic adhesive, silicone adhesive, oleyl alcohol, dipropylene glycol, povidone, polyolefin laminate backing, polyester release liner.
 
@@ -281,7 +281,7 @@ Minivelle®
 
 (estradiol transdermal system)
 
-Delivers 0.05 mg/day
+Delivers 0.075 mg/day
 
 Twice-Weekly
 
@@ -346,13 +346,13 @@ Dist. by: Noven Therapeutics, LLC
 
 Miami, Florida 33186
 
-0.05 mg/day
+0.075 mg/day
 
 Minivelle®
 
 (estradiol transdermal system)
 
-Delivers 0.025 mg/day
+Delivers 0.075 mg/day
 
 01440
 
@@ -372,7 +372,7 @@ Minivelle®
 
 (estradiol transdermal system)
 
-Delivers 0.05 mg/day
+Delivers 0.1 mg/day
 
 Twice-Weekly
 
@@ -443,7 +443,7 @@ Minivelle®
 
 (estradiol transdermal system)
 
-Delivers 0.025 mg/day
+Delivers 0.1 mg/day
 
 01440
 
