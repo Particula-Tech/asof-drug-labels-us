@@ -4,7 +4,7 @@ ANECTINE (Succinylcholine Chloride Injection, USP) is supplied as a clear, color
 
 200 mg/10 mL (20 mg/mL)
 
-1. Carton of 10 Vials NDC 0781-9053-95
+Carton of 10 Vials NDC 0781-9053-95
 
 Store in refrigerator at 2° to 8°C (36° to 46°F).
 
