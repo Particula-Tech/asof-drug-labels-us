@@ -11,14 +11,14 @@ If you cannot give the injection:
 
 Do not try to inject Ustekinumab-aekn yourself until you have been shown how to inject Ustekinumab-aekn by a healthcare provider.
 
-Important Information You Need to Know Before Injecting Ustekinumab-aekn
+Important Information You Need to Know Before Injecting Ustekinumab-aekn:
 
 - For subcutaneous use only (inject directly under the skin).
 - Before you start, check the carton to make sure that it is the right dose.
   You will have either 45 mg or 90 mg as prescribed by the healthcare provider.
   - If the dose is 45 mg, you will receive one 45 mg prefilled syringe.
   - If the dose is 90 mg, you will receive either one 90 mg prefilled syringe or two 45 mg prefilled syringes.
-    If you receive two 45 mg prefilled syringes for a 90 mg dose, you will need to give yourself two injections, one right after the other.
+    If you receive two 45 mg prefilled syringes for a 90 mg dose, you will need to give two injections, one right after the other.
 - Check the expiration date on the prefilled syringe and carton.
   If the expiration date has passed or if the prefilled syringe has been kept at room temperature up to 86°F (30°C) for longer than a maximum single period of 30 days or if the prefilled syringe has been stored above 86°F (30°C), do not use it.
   If the expiration date has passed or if the prefilled syringe has been stored above 86°F (30°C) or at room temperature for longer than 30 days, call the healthcare provider or pharmacist, or call 1-888-483-8279 for help.
@@ -39,11 +39,11 @@ Storing Ustekinumab-aekn prefilled syringes
 - Store Ustekinumab-aekn prefilled syringes in the refrigerator between 36°F to 46°F (2°C to 8°C).
 - Store Ustekinumab-aekn prefilled syringes in the original carton to protect it from light until time to use it.
 - Do not freeze Ustekinumab-aekn prefilled syringes.
-- Do not shake Ustekinumab-aekn.
-- If needed, individual prefilled syringes may be stored at room temperature up to 86°F(30°C) for a maximum single period of up to 30 days in the original carton to protect from light
+- Do not shake Ustekinumab-aekn prefilled syringes.
+- If needed, individual prefilled syringes may be stored at room temperature up to 86°F (30°C) for a maximum single period of up to 30 days in the original carton to protect from light.
 - Record the date when the prefilled syringe is first removed from the refrigerator on the carton in the space provided.
 - After a prefilled syringe has been stored at room temperature, do not return it to the refrigerator.
-- Throw away (discard)the prefilled syringe if not used within 30 days at room temperature storage.
+- Throw away (discard) the prefilled syringe if not used within 30 days at room temperature storage.
   Do not use Ustekinumab-aekn after the expiration date on the carton or on the prefilled syringe.
 
 Keep Ustekinumab-aekn and all medicines out of the reach of children.
@@ -53,15 +53,16 @@ Preparing to inject Ustekinumab-aekn
 Gather the supplies you will need to prepare and to give the injection.
 (See Figure B)
 
-- You will need:
-  - antiseptic wipes
-  - cotton balls or gauze pads
-  - adhesive bandage
-  - your prescribed dose of Ustekinumab-aekn (See Figure A)
-  - FDA-cleared sharps disposal container.
-    See"Step 4: Disposing of the used prefilled syringe."
+You will need:
 
-Step 1: Preparing the Injection
+- antiseptic wipes
+- cotton balls or gauze pads
+- adhesive bandage
+- your prescribed dose of Ustekinumab-aekn (See Figure A)
+- FDA-cleared sharps disposal container.
+  See “Step 4: Disposing of the used prefilled syringe.”
+
+Step 1: Preparing the injection
 
 - Choose a well-lit, clean, flat work surface.
 - Wash your hands well with soap and warm water.
@@ -74,17 +75,17 @@ Step 2: Preparing the injection site
   (See Figure C)
 - Use a different injection site for each injection.
   Do not give an injection in an area of the skin that is tender, bruised, red or hard.
-- Clean the skin with an antiseptic wipe where you plan to give your injection.
+- Clean the skin with an antiseptic wipe where you plan to give the injection.
 - Do not touch this area again before giving the injection.
-  Let your skin dry before injecting.
+  Let the skin dry before injecting.
 - Do not fan or blow on the clean area.
 - Do not inject through clothes.
 
-Step 3: Injecting Ustekinumab-aekn
+Step 3:Injecting Ustekinumab-aekn
 
 - Remove the needle cover when you are ready to inject Ustekinumab-aekn.
 - Do not touch the plunger or plunger head while removing the needle cover.
-- Hold the body of the prefilled syringe with one hand,and pull the needle cover straight off.
+- Hold the body of the prefilled syringe with one hand, and pull the needle cover straight off.
   (See Figure D)
 - Put the needle cover in the trash.
   Do not recap.
@@ -111,15 +112,14 @@ Step 3: Injecting Ustekinumab-aekn
   This will let the empty syringe move up until the entire needle is covered by the needle guard.
   (See Figure H)
 
-- When the needle is pulled out of with the skin, there may be a little bleeding at the injection site.
+- When the needle is pulled out of the skin, there may be a little bleeding at the injection site.
   This is normal.
-- You can press a cotton ball or gauze pad on the skin of the injection site, if needed (See Figure I). Do not rub the injection site.
-- Cover the injection site with a small adhesive bandage, if necessary.
+  You can press a cotton ball or gauze pad on the skin of the injection site, if needed (See Figure I). Do not rub the injection site.
+  Cover the injection site with a small adhesive bandage, if necessary.
 
 If the dose is 90 mg, you will receive either one 90 mg prefilled syringe or two 45 mg prefilled syringes.
 If you receive two 45 mg prefilled syringes for a 90 mg dose, you will need to give a second injection right after the first.
 Repeat Steps 1 to 3 for the second injection using a new syringe.
-
 Choose a different site for the second injection.
 
 Step 4: Disposing of the syringes
@@ -132,12 +132,12 @@ Step 4: Disposing of the syringes
   - upright and stable during use,
   - leak-resistant,
   - and properly labeled to warn of hazardous waste inside the container.
-  - When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
-    There may be local or state laws about how to throw away syringes and needles.
-    For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.
-  - Do not dispose of your sharps disposal container in your household trash unless your community guidelines permit this.
-  - Do not recycle your sharps disposal container.
-  - If you have any questions, talk to your healthcare provider or pharmacist.
+- When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be local or state laws about how to throw away syringes and needles.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+- Do not dispose of your sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your sharps disposal container.
+- If you have any questions, talk to your healthcare provider or pharmacist.
 
 Manufactured By: Alvotech USA Inc. Leesburg, VA 20175
 
@@ -193,9 +193,9 @@ If you cannot give the injection:
 
 Storing Ustekinumab-aekn vials
 
-- Store Ustekinumab-aekn in a refrigerator between 36°F to 46°F (2°C to 8°C).
-- Store Ustekinumab-aekn standing up straight (upright).
-- Store Ustekinumab-aekn in the original carton to protect it from light until time to use it.
+- Store Ustekinumab-aekn vials in a refrigerator between 36°F to 46°F (2°C to 8°C).
+- Store Ustekinumab-aekn vials standing up straight (upright).
+- Store Ustekinumab-aekn vials in the original carton to protect from light until the time to use it.
 - Do not freeze Ustekinumab-aekn vials.
 - Do not shake Ustekinumab-aekn vials.
 

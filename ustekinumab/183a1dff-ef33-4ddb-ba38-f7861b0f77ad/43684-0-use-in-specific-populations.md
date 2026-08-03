@@ -22,7 +22,7 @@ Fetal/Neonatal Adverse Reactions
 
 Transport of endogenous IgG antibodies across the placenta increases as pregnancy progresses, and peaks during the third trimester.
 Therefore, ustekinumab products may be present in infants exposed in utero.
-The potential clinical impact of ustekinumab products exposure in infants exposed in utero should be considered.
+The potential clinical impact of ustekinumab product exposure in infants exposed in utero should be considered.
 
 Data
 

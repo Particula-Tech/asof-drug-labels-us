@@ -92,7 +92,7 @@ Table 6: Common Adverse Reactions Through Week 8 in Trials CD-1 and CD-2 occurri
 
 Other less common adverse reactions reported in subjects in trials CD-1 and CD-2 included asthenia (1% vs 0.4%), acne (1% vs 0.4%), and pruritus (2% vs 0.4%).
 
-Table 7: Common Adverse Reactions Through Week 44 in Trial CD-3 occurring in ≥3% of Ustekinumab–Treated Subjects and Higher Than Subjects Receiving Placebo
+Table 7: Common Adverse Reactions Through Week 44 in Trial CD-3 occurring in ≥3% of Ustekinumab-Treated Subjects and Higher Than Subjects Receiving Placebo
 
 |  | Placebo | Ustekinumab 90 mg subcutaneous maintenance dose every 8 weeks |
 | --- | --- | --- |
@@ -144,7 +144,7 @@ Malignancies other than non-melanoma skin cancers occurred in 0.5% of ustekinuma
 ## 6.2 Immunogenicity
 
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
-Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of ustekinumab or of other ustekinumab products.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those ustekinumab or of other ustekinumab products.
 
 Approximately 6 to 12.4% of subjects treated with ustekinumab in clinical trials in subjects with plaque psoriasis and psoriatic arthritis developed antibodies to ustekinumab, which were generally low-titer.
 In clinical trials in subjects with plaque psoriasis, antibodies to ustekinumab were associated with reduced or undetectable serum ustekinumab concentrations and reduced efficacy.

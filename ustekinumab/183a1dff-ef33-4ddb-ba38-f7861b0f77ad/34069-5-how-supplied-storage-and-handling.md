@@ -41,4 +41,4 @@ Do not use Ustekinumab-aekn after the expiration date on the carton or on the pr
 If needed, Ustekinumab-aekn 130 mg vials may be stored at room temperature up to 86°F (30°C) for a maximum single period of up to 7 days, in the original carton to protect from light.
 Once a vial has been stored at room temperature, do not return to the refrigerator.
 Discard the vial if not used within 7 days at room temperature storage.
-Do not use ustekinumab-aekn after the expiration date on the carton or on the vial.
+Do not use Ustekinumab-aekn after the expiration date on the carton or on the vial.

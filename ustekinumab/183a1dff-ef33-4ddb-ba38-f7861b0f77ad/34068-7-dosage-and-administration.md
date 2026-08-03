@@ -152,7 +152,7 @@ Ustekinumab-aekn solution for intravenous infusion must be diluted, prepared and
 6. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
 7. Do not infuse Ustekinumab-aekn concomitantly in the same intravenous line with other agents.
 8. Ustekinumab-aekn does not contain preservatives.
-   Each vial is for one-time use in only one patient.
+   Each vial is for a one-time use in only one patient.
    Discard any remaining solution.
    Dispose any unused medicinal product in accordance with local requirements.
 
