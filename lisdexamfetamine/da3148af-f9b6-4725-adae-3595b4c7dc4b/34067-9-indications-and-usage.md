@@ -7,7 +7,7 @@ Lisdexamfetamine dimesylate capsules and lisdexamfetamine dimesylate chewable ta
 
 Limitations of Use:
 
-- Pediatric patients with ADHD younger than 6 years of age experienced more long-term weight loss than patients 6 years and older [see Use in Specific Populations (8.4)].
+- The use of lisdexamfetamine dimesylate is not recommended in pediatric patients younger than 6 years of age because they had higher plasma exposure and a higher incidence of adverse reactions (e.g., weight loss) than patients 6 years and older at the same dosage [see Warnings and Precautions (5.5), Use in Specific Populations (8.4)].
 - Lisdexamfetamine dimesylate is not indicated or recommended for weight loss.
   Use of other sympathomimetic drugs for weight loss has been associated with serious cardiovascular adverse events.
   The safety and effectiveness of lisdexamfetamine dimesylate for the treatment of obesity have not been established [see Warnings and Precautions (5.2)].

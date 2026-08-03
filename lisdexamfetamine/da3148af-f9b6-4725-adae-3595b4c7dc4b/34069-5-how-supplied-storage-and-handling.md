@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Information for Lisdexamfetamine Dimesylate Capsules:
+Lisdexamfetamine Dimesylate Capsules:
 
 - Lisdexamfetamine dimesylate capsules 10 mg: White to off-white powder filled in pink opaque cap and pink opaque body imprinted with 'RM46' on cap and '10 mg' on body in black ink, bottles of 100 CRC, NDC 57664-046-88
 - Lisdexamfetamine dimesylate capsules 20 mg: White to off-white powder filled in off white opaque cap and off white opaque imprinted with 'RM47' on cap and '20 mg' on body in black ink, bottles of 100 CRC, NDC 57664-047-88
@@ -12,7 +12,7 @@ Information for Lisdexamfetamine Dimesylate Capsules:
 - Lisdexamfetamine dimesylate capsules 60 mg: White to off-white powder filled in aqua blue opaque cap and aqua blue opaque body imprinted with 'RM51' on cap and '60 mg' on body in black ink, bottles of 100 CRC, NDC 57664-051-88
 - Lisdexamfetamine dimesylate capsules 70 mg: White to off-white powder filled in blue opaque cap and orange opaque body imprinted with 'RM52' on cap and '70 mg' on body in black ink, bottles of 100 CRC, NDC 57664-052-88
 
-Information for Lisdexamfetamine Dimesylate Chewable Tablets:
+Lisdexamfetamine Dimesylate Chewable Tablets:
 
 - Lisdexamfetamine dimesylate chewable tablets 10 mg: White to off-white round shaped tablet debossed with ‘10’ on one side and ‘S83’ on the other side, bottles of 100 CRC, NDC 57664-083-88
 - Lisdexamfetamine dimesylate chewable tablets 20 mg: White to off-white hexagonal shaped tablet debossed with ‘20’ on one side and ‘S84’ on the other side, bottles of 100 CRC, NDC 57664-084-88

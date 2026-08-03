@@ -19,7 +19,7 @@ Long-term neurochemical and behavioral effects have also been reported in animal
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
@@ -36,7 +36,7 @@ Data
 Animal Data
 
 Lisdexamfetamine dimesylate had no apparent effects on embryo-fetal morphological development or survival when administered orally to pregnant rats and rabbits throughout the period of organogenesis at doses of up to 40 and 120 mg/kg/day, respectively.
-These doses are approximately 5.5 and 33 times, respectively, the maximum recommended human dose (MRHD) of 70 mg/day given to adults, on a mg/m 2body surface area basis.
+These doses are approximately 5.5 and 33 times, respectively, the maximum recommended human dose (MRHD) of 70 mg/day given to adults, on a mg/m 2 body surface area basis.
 
 A study was conducted with amphetamine (d- to l- enantiomer ratio of 3:1) in which pregnant rats received daily oral doses of 2, 6, and 10 mg/kg from gestation day 6 to lactation day 20.
 All doses caused hyperactivity and decreased weight gain in the dams.
@@ -61,11 +61,11 @@ Because of the potential for serious adverse reactions in nursing infants, inclu
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of lisdexamfetamine dimesylate have not been established in pediatric patients below the age of 6 years.
+
 ADHD
 
 Safety and effectiveness of lisdexamfetamine dimesylate have been established in pediatric patients with ADHD ages 6 to 17 years [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
-
-Safety and effectiveness of lisdexamfetamine dimesylate have not been established in pediatric patients below the age of 6 years.
 
 Safety and efficacy of lisdexamfetamine dimesylate were evaluated in a double-blind, randomized, parallel-group, placebo-controlled, fixed-dose study in pediatric patients ages 4 to 5 years with ADHD, followed by a 1-year open-label extension study.
 In these studies, patients experienced elevated rates of adverse reactions, including weight loss, decreased BMI, decreased appetite, insomnia, infections (upper respiratory and nasopharyngitis), irritability, and affect lability.

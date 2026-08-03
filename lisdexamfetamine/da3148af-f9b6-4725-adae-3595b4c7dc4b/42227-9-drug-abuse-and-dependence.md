@@ -9,9 +9,7 @@ Lisdexamfetamine dimesylate capsules and lisdexamfetamine dimesylate chewable ta
 Lisdexamfetamine dimesylate has a high potential for abuse and misuse which can lead to the development of a substance use
 
 disorder, including addiction [see Warnings and Precautions (5.1)].
-Lisdexamfetamine dimesylate can be diverted for non-medical use
-
-into illicit channels or distribution.
+Lisdexamfetamine dimesylate can be diverted for non-medical use into illicit channels or distribution.
 
 Abuse is the intentional non-therapeutic use of a drug, even once, to achieve a desired psychological or physiological effect.
 Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.

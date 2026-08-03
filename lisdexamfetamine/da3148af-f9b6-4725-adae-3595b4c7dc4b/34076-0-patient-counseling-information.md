@@ -40,6 +40,8 @@ Concomitant Medications
 
 Advise patients to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs because there is a potential for interactions [see Drug Interactions (7.1)].
 
+Advise patient or caregiver of steps to take with lisdexamfetamine dimesylate when a laboratory imaging procedure is ordered [see Drug Interactions (7.2)].
+
 Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
 
 Advise patients that motor and verbal tics and worsening of Tourette’s Syndrome may occur during treatment with lisdexamfetamine dimesylate.
@@ -79,6 +81,6 @@ Sun Pharmaceutical Industries, Inc.
 Cranbury, NJ 08512
 
 Rev.
-10/2023
+05/2026
 
-000000
+5272659

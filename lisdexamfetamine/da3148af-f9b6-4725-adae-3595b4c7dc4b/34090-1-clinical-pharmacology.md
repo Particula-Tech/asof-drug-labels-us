@@ -65,9 +65,9 @@ Exposures of dextroamphetamine in specific populations are summarized in Figure 
 
 Figure 1: Specific Populations*:
 
-- *Figure 1 shows the geometric mean ratios and the 90% confidence limits for C maxand AUC of d-amphetamine.
-  Comparison for gender uses males as the reference.
-  Comparison for age uses 55-64 years as the reference.
+*Figure 1 shows the geometric mean ratios and the 90% confidence limits for C maxand AUC of d-amphetamine.
+Comparison for gender uses males as the reference.
+Comparison for age uses 55 to 64 years as the reference.
 
 Drug Interaction Studies
 

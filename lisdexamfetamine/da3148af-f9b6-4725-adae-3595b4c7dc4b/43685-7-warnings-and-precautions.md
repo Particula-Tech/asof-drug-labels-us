@@ -10,9 +10,7 @@ to the risks of abuse and misuse, which can lead to the development of a substan
 Lisdexamfetamine dimesylate can be diverted for non-medical use into illicit channels or distribution [see Drug Abuse and Dependence
 
 (9.2)].
-Misuse and abuse of CNS stimulants, including lisdexamfetamine dimesylate, can result in overdose and death [see
-
-Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
+Misuse and abuse of CNS stimulants, including lisdexamfetamine dimesylate, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
 Before prescribing lisdexamfetamine dimesylate, assess each patient’s risk for abuse, misuse, and addiction.
 Educate patients and
@@ -59,13 +57,13 @@ If such symptoms occur, consider discontinuing lisdexamfetamine dimesylate.
 
 ## 5.5 Long-Term Suppression of Growth in Pediatric Patients
 
-CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
+Lisdexamfetamine dimesylate is not approved for use and is not recommended in pediatric patients below 6 yearsof age [see Use in Specific Populations (8.4)].
 
-In a 4-week, placebo-controlled trial of lisdexamfetamine dimesylate in pediatric patients ages 6 to 12 years old with ADHD, there was a dose-related decrease in weight in the lisdexamfetamine dimesylate groups compared to weight gain in the placebo group.
+CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.In a 4-week, placebo-controlled trial of lisdexamfetamine dimesylate in pediatric patients ages 6 to 12 years old with ADHD, there was a dose-related decrease in weight in the lisdexamfetamine dimesylate groups compared to weight gain in the placebo group.
 Additionally, in studies of another stimulant, there was slowing of the increase in height [see Adverse Reactions (6.1)].
 
-Closely monitor growth (weight and height) in lisdexamfetamine dimesylate-treated pediatric patients.Patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
-Lisdexamfetamine dimesylate is not approved for use in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
+Closely monitor growth (weight and height) in lisdexamfetamine dimesylate-treated pediatric patients.
+Patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
 
 ## 5.6 Peripheral Vasculopathy, including Raynaud’s Phenomenon
 
