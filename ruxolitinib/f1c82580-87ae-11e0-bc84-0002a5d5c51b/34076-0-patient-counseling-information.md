@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Thrombocytopenia, Anemia and Neutropenia
+Thrombocytopenia, Anemia, and Neutropenia
 
 Inform patients that JAKAFI/JAKAFI XR is associated with thrombocytopenia, anemia and neutropenia, and of the need to monitor CBC before and during treatment.
 Advise patients to observe for and report bleeding [see Warnings and Precautions (5.1)].

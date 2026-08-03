@@ -39,13 +39,13 @@ Table 15: Myelofibrosis: Nonhematologic Adverse Reactions Occurring in Patients 
 |  | JAKAFI (N = 155) |  |  | Placebo (N = 151) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Reactions | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE), version 3.0. (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
-| Bruisingincludes contusion, ecchymosis, hematoma, injection site hematoma, periorbital hematoma, vessel puncture site hematoma, increased tendency to bruise, petechiae, purpura. | 23 | < 1 | 0 | 15 | 0 | 0 |
-| Dizzinessincludes dizziness, postural dizziness, vertigo, balance disorder, Meniere’s Disease, labyrinthitis. | 18 | < 1 | 0 | 7 | 0 | 0 |
+| BruisingIncludes contusion, ecchymosis, hematoma, injection site hematoma, periorbital hematoma, vessel puncture site hematoma, increased tendency to bruise, petechiae, purpura. | 23 | < 1 | 0 | 15 | 0 | 0 |
+| DizzinessIncludes dizziness, postural dizziness, vertigo, balance disorder, Meniere’s Disease, labyrinthitis. | 18 | < 1 | 0 | 7 | 0 | 0 |
 | Headache | 15 | 0 | 0 | 5 | 0 | 0 |
-| Urinary Tract Infectionsincludes urinary tract infection, cystitis, urosepsis, urinary tract infection bacterial, kidney infection, pyuria, bacteria urine, bacteria urine identified, nitrite urine present. | 9 | 0 | 0 | 5 | < 1 | < 1 |
-| Weight Gainincludes weight increased, abnormal weight gain. | 7 | < 1 | 0 | 1 | < 1 | 0 |
+| Urinary Tract InfectionsIncludes urinary tract infection, cystitis, urosepsis, urinary tract infection bacterial, kidney infection, pyuria, bacteria urine, bacteria urine identified, nitrite urine present. | 9 | 0 | 0 | 5 | < 1 | < 1 |
+| Weight GainIncludes weight increased, abnormal weight gain. | 7 | < 1 | 0 | 1 | < 1 | 0 |
 | Flatulence | 5 | 0 | 0 | < 1 | 0 | 0 |
-| Herpes Zosterincludes herpes zoster and post-herpetic neuralgia. | 2 | 0 | 0 | < 1 | 0 | 0 |
+| Herpes ZosterIncludes herpes zoster and post-herpetic neuralgia. | 2 | 0 | 0 | < 1 | 0 | 0 |
 
 Description of Selected Adverse Reactions
 
@@ -107,14 +107,14 @@ Table 17: Polycythemia Vera: Nonhematologic Adverse Reactions Occurring in ≥ 5
 | --- | --- | --- | --- | --- |
 | Adverse Reactions | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events, version 3.0. (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
 | Diarrhea | 15 | 0 | 7 | < 1 |
-| Dizzinessincludes dizziness and vertigo. | 15 | 0 | 13 | 0 |
-| Dyspneaincludes dyspnea and dyspnea exertional. | 13 | 3 | 4 | 0 |
+| DizzinessIncludes dizziness and vertigo. | 15 | 0 | 13 | 0 |
+| DyspneaIncludes dyspnea and dyspnea exertional. | 13 | 3 | 4 | 0 |
 | Muscle Spasms | 12 | < 1 | 5 | 0 |
 | Constipation | 8 | 0 | 3 | 0 |
-| Herpes Zosterincludes herpes zoster and post-herpetic neuralgia. | 6 | < 1 | 0 | 0 |
+| Herpes ZosterIncludes herpes zoster and post-herpetic neuralgia. | 6 | < 1 | 0 | 0 |
 | Nausea | 6 | 0 | 4 | 0 |
-| Weight Gainincludes weight increased and abnormal weight gain. | 6 | 0 | < 1 | 0 |
-| Urinary Tract Infectionsincludes urinary tract infection and cystitis. | 6 | 0 | 3 | 0 |
+| Weight GainIncludes weight increased and abnormal weight gain. | 6 | 0 | < 1 | 0 |
+| Urinary Tract InfectionsIncludes urinary tract infection and cystitis. | 6 | 0 | 3 | 0 |
 | Hypertension | 5 | < 1 | 3 | < 1 |
 
 Clinically relevant laboratory abnormalities are shown in Table 18.
@@ -244,4 +244,4 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
 - Infections and Infestations: herpes simplex virus reactivation and/or dissemination
-- Metabolism and Nutrition disorders: hypoglycemia
+- Metabolism and Nutrition disorders: hypoglycemia (class effect)

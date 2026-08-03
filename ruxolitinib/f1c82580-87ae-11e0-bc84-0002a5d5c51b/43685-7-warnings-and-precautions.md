@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Thrombocytopenia, Anemia and Neutropenia
+## 5.1 Thrombocytopenia, Anemia, and Neutropenia
 
 Treatment with JAKAFI/JAKAFI XR can cause thrombocytopenia, anemia, and neutropenia [see Adverse Reactions (6.1)].
 

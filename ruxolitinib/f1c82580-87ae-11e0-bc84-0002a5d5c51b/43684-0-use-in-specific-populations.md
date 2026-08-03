@@ -78,7 +78,7 @@ Juvenile Animal Toxicity Data
 
 Administration of ruxolitinib to juvenile rats resulted in effects on growth and bone measures.
 When administered starting at postnatal Day 7 (the equivalent of a human newborn) at doses of 1.5 to 75 mg/kg/day, evidence of fractures occurred at doses ≥ 30 mg/kg/day, and effects on body weight and other bone measures (eg, bone mineral content, peripheral quantitative computed tomography, and x-ray analysis) occurred at doses ≥ 5 mg/kg/day.
-When administered starting at postnatal day 21 (the equivalent of a human 2-3 years of age) at doses of 5 to 60 mg/kg/day, effects on body weight and bone occurred at doses ≥ 15 mg/kg/day, which were considered adverse at 60 mg/kg/day.
+When administered starting at postnatal Day 21 (the equivalent of a human 2-3 years of age) at doses of 5 to 60 mg/kg/day, effects on body weight and bone occurred at doses ≥ 15 mg/kg/day, which were considered adverse at 60 mg/kg/day.
 Males were more severely affected than females in all age groups, and effects were generally more severe when administration was initiated earlier in the postnatal period.
 These findings were observed at exposures that are at least 27% the clinical exposure at the maximum recommended dose of 25 mg twice daily.
 

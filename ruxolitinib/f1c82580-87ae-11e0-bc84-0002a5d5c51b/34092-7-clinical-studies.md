@@ -71,7 +71,7 @@ Table 24 presents assessments of Total Symptom Score from baseline to Week 24 in
 At baseline, the mean Total Symptom Score was 18.0 in the JAKAFI group and 16.5 in the placebo group.
 A higher proportion of patients in the JAKAFI group had a 50% or greater reduction in Total Symptom Score than in the placebo group, with a median time to response of less than 4 weeks.
 
-Table 24: Improvement in Total Symptom Score in Patients with Myelofibrosis
+Table 24: Improvement in Total Symptom Score in Patients With Myelofibrosis
 
 |  | JAKAFI (N = 148) | Placebo (N = 152) |
 | --- | --- | --- |
@@ -177,7 +177,7 @@ Below is a display of the efficacy results of the adequate and well‑controlled
 
 Study 5 (REACH-3; NCT03112603) was a randomized, open-label, multicenter study of JAKAFI in comparison to BAT for treatment of corticosteroid-refractory cGVHD after allogeneic stem cell transplantation.
 Eligible patients were ≥ 12 years old with moderate or severe cGVHD as defined by NIH Consensus Criteria requiring additional therapy after failure of corticosteroid therapy and no more than 1 additional salvage treatment.
-Patients were excluded if they had ANC < 1 Gi/L and platelet count < 25 Gi/L, estimated creatinine clearance < 30 ml/min, progressive onset cGVHD, oxygen saturation < 90%, total bilirubin > 2 mg/dL, or diarrhea due to GVHD.
+Patients were excluded if they had ANC < 1 Gi/L and platelet count < 25 Gi/L, estimated creatinine clearance < 30 mL/min, progressive onset cGVHD, oxygen saturation < 90%, total bilirubin > 2 mg/dL, or diarrhea due to GVHD.
 
 A total of 329 patients were randomized 1:1 to receive either JAKAFI 10 mg twice daily (n = 165) or BAT (n = 164).
 Best available therapy was selected by the investigator prior to randomization and included the following treatments: extracorporeal photopheresis (ECP), low‑dose methotrexate (MTX), mycophenolate mofetil (MMF), mTOR inhibitors (everolimus or sirolimus), infliximab, rituximab, pentostatin, imatinib, or ibrutinib.
@@ -211,7 +211,7 @@ Table 27: REACH-3: Demographics and Baseline Chronic GVHD Characteristics
 | ≥ 4 Organs involved, n (%) | 67 (41) | 63 (38) |
 | Severe cGVHD, n (%) | 86 (52) | 79 (48) |
 | Median (range) cGVHD Total Symptom Score | 19 (0-80) | 18 (1-54) |
-| Median (range) corticosteroid dose at baseline (PE mg/kg)Prednisone equivalent milligrams/kilogram | 0.29 (0.01-1.81) | 0.26 (0.06-1.21) |
+| Median (range) corticosteroid dose at baseline (PE mg/kg)Prednisone equivalent milligrams/kilogram. | 0.29 (0.01-1.81) | 0.26 (0.06-1.21) |
 
 The efficacy of JAKAFI was based on ORR through Cycle 7 Day 1, where overall response included complete response or partial response according to the 2014 NIH Response Criteria and durability of the response.
 The ORR results are presented in Table 28; the difference in ORR between JAKAFI and BAT arms was 13% (95% CI 3, 23).

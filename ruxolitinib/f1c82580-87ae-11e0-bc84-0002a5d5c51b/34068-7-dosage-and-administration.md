@@ -35,9 +35,9 @@ Table 2: Myelofibrosis: JAKAFI Dosing Recommendations for Thrombocytopenia for P
 | --- | --- | --- | --- | --- | --- |
 | Platelet Count | 25 mg Twice Daily | 20 mg Twice Daily | 15 mg Twice Daily | 10 mg Twice Daily | 5 mg Twice Daily |
 | New Dose | New Dose | New Dose | New Dose | New Dose |  |
-| 100 to less than 125 x 109/L | 20 mg twice daily | 15 mg twice daily | No Change | No Change | No Change |
-| 75 to less than 100 x 109/L | 10 mg twice daily | 10 mg twice daily | 10 mg twice daily | No Change | No Change |
-| 50 to less than 75 x 109/L | 5 mg twice daily | 5 mg twice daily | 5 mg twice daily | 5 mg twice daily | No Change |
+| 100 to less than 125 x 109/L | 20 mg twice daily | 15 mg twice daily | No change | No change | No change |
+| 75 to less than 100 x 109/L | 10 mg twice daily | 10 mg twice daily | 10 mg twice daily | No change | No change |
+| 50 to less than 75 x 109/L | 5 mg twice daily | 5 mg twice daily | 5 mg twice daily | 5 mg twice daily | No change |
 | Less than 50 x 109/L | Hold | Hold | Hold | Hold | Hold |
 
 JAKAFI XR dose reductions should be considered if the platelet counts decrease as outlined in Table 3, with the goal of avoiding dose interruptions for thrombocytopenia.
@@ -88,7 +88,7 @@ Consider dose increases in patients who meet all of the following conditions:
 
 1. Failure to achieve a reduction from pretreatment baseline in either palpable spleen length of 50% or a 35% reduction in spleen volume as measured by computed tomography (CT) or magnetic resonance imaging (MRI);
 2. Platelet count greater than 125 x 109/L at 4 weeks and platelet count never below 100 x 109/L;
-3. ANC Levels greater than 0.75 x 109/L.
+3. ANC levels greater than 0.75 x 109/L.
 
 Based on limited clinical data, long-term maintenance at a JAKAFI 5 mg twice daily dose has not shown responses and continued use at this dose should be limited to patients in whom the benefits outweigh the potential risks.
 Discontinue JAKAFI/JAKAFI XR if there is no spleen size reduction or symptom improvement after 6 months of therapy.
@@ -256,7 +256,7 @@ Table 10: Dose Modifications for Adverse Reactions in Patients With Acute GVHD
 | Laboratory Parameter | Dosing Recommendations |
 | --- | --- |
 | Clinically significant thrombocytopenia after supportive measures | Reduce dose by 1 dose level. When platelets recover to previous values, dosing may return to prior dose level. |
-| ANC less than 1 x 109/L considered related to JAKAFI/JAKAFI XR | Hold JAKAFI/JAKAFI XR up to 14 days; resume at 1 dose level lower upon recoverySee Table 9 for reduced dose levels.. |
+| ANC less than 1 x 109/L considered related to JAKAFI/JAKAFI XR | Hold JAKAFI/JAKAFI XR up to 14 days; resume at 1 dose level lower upon recovery.See Table 9 for reduced dose levels. |
 | Total bilirubin elevation, no liver GVHD | 3−5 x ULN: Continue JAKAFI/JAKAFI XR at 1 dose level lower until recovery. > 5−10 x ULN: Hold JAKAFI/JAKAFI XR for up to 14 days until bilirubin ≤ 1.5 x ULN; resume at current dose upon recovery. Total bilirubin > 10 x ULN: Hold JAKAFI/JAKAFI XR for up to 14 days until bilirubin ≤ 1.5 x ULN; resume at 1 dose level lower upon recovery. |
 | Total bilirubin elevation, liver GVHD | > 3 × ULN: Continue JAKAFI/JAKAFI XR at 1 dose level lower until recovery. |
 
@@ -288,7 +288,7 @@ Table 11: Dose Modifications for Adverse Reactions in Patients With Chronic GVHD
 
 | Parameter | Dosing Recommendations |
 | --- | --- |
-| Platelet count less than 20 × 109/L | Reduce JAKAFI/JAKAFI XR by 1 dose levelSee Table 9 for reduced dose levels.. If resolved within 7 days, dosing may return to initial dose level. If not resolved within 7 days, then maintain at 1 dose level lower. |
+| Platelet count less than 20 × 109/L | Reduce JAKAFI/JAKAFI XR by 1 dose level.See Table 9 for reduced dose levels. If resolved within 7 days, dosing may return to initial dose level. If not resolved within 7 days, then maintain at 1 dose level lower. |
 | ANC less than 0.75 × 109/L considered related to JAKAFI/JAKAFI XR | Reduce JAKAFI/JAKAFI XR by 1 dose level; resume at initial dose level upon recovery. |
 | ANC less than 0.5 × 109/L considered related to JAKAFI/JAKAFI XR | Hold JAKAFI/JAKAFI XR for up to 14 days; resume at 1 dose level lower upon recovery. May resume initial dose level when ANC greater than 1 × 109/L. |
 | Total bilirubin: 3-5 × ULN | Continue JAKAFI/JAKAFI XR at 1 dose level lower until recovery. If resolved within 14 days, then increase by 1 dose level. If not resolved within 14 days, then maintain the reduced dose level. |
