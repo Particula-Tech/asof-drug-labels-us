@@ -1,12 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Argatroban Injection is available as follows:
+Argatroban Injection, USP is available as follows:
 
-| NDC | Argatroban Injection (1 mg per mL) | Package Factor |
+| NDC | Argatroban Injection, USP (1 mg per mL) | Package Factor |
 | --- | --- | --- |
 | 25021-414-50 | 50 mg per 50 mL Single-Dose Vial | 1 vial per carton |
 
-Argatroban Injection is a clear colorless to pale yellow color solution, free from visible particulates.
+Argatroban Injection, USP is a clear colorless to pale yellow color solution, free from visible particulates.
 
 Storage Conditions
 

@@ -8,10 +8,6 @@ Specifically, inform patients to report:
 - any bleeding signs or symptoms
 - the occurrence of any signs or symptoms of allergic reactions (e.g., airway reactions, skin reactions and vasodilation reactions)
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India
+sagent® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60173 (USA) Made in India ©2025 Sagent Pharmaceuticals
 
-©2021 Sagent Pharmaceuticals, Inc.
-
-March 2021
-
-SAGENT Pharmaceuticals®
+Revised: September 2025

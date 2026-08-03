@@ -4,7 +4,7 @@ NDC 25021-414-50
 
 Rx only
 
-Argatroban Injection
+Argatroban Injection, USP
 
 50 mg per 50 mL
 

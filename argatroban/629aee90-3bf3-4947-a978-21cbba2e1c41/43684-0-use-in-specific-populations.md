@@ -76,7 +76,7 @@ In addition, the described dosage did not take into account multiple factors tha
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects (1340) in clinical studies of argatroban, 35% were 65 and over.
+Of the total number of subjects (1,340) in clinical studies of argatroban, 35% were 65 and over.
 In the clinical studies of adult patients with HIT (with or without thrombosis), the effectiveness of argatroban was not affected by age.
 No trends were observed across age groups for both aPTT and the ACT.
 The safety analysis did suggest that older patients had increased underlying conditions, which may predispose them to adverse reactions.
