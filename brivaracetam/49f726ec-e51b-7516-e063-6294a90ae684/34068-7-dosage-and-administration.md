@@ -30,11 +30,11 @@ Brivaracetam tablets should not be chewed or crushed.
 
 ## 2.4 Discontinuation of Brivaracetam Tablets
 
-Avoid abrupt withdrawal from brivaracetam tablets in order to minimize the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.6) and Clinical Studies (14)].
+Avoid abrupt withdrawal from brivaracetam tablets in order to minimize the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.6)andClinical Studies (14)].
 
 ## 2.5 Patients with Hepatic Impairment
 
-The recommended dosage for patients with hepatic impairment is included in Table 2 [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+The recommended dosage for patients with hepatic impairment is included in Table 2 [see Use in Specific Populations (8.7)and Clinical Pharmacology (12.3)].
 
 Table 2: Recommended Dosage for Patients with Hepatic Impairment
 
@@ -48,4 +48,4 @@ Table 2: Recommended Dosage for Patients with Hepatic Impairment
 
 ## 2.6 Co-administration with Rifampin
 
-Increase the brivaracetam dosage in patients on concomitant rifampin by up to 100% (i.e., double the dosage) [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+Increase the brivaracetam dosage in patients on concomitant rifampin by up to 100% (i.e., double the dosage) [see Drug Interactions (7.1)and Clinical Pharmacology (12.3)].

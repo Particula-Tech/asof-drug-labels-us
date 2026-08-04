@@ -66,4 +66,4 @@ There are no data in patients with end-stage renal disease undergoing dialysis, 
 
 ## 8.7 Hepatic Impairment
 
-Because of increases in brivaracetam exposure, dosage adjustment is recommended for all stages of hepatic impairment [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Because of increases in brivaracetam exposure, dosage adjustment is recommended for all stages of hepatic impairment [see Dosage and Administration (2.5)and Clinical Pharmacology (12.3)].

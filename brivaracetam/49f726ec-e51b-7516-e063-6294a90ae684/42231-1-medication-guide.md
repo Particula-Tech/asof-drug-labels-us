@@ -59,7 +59,7 @@ Before taking brivaracetam tablets, tell your healthcare provider about all of y
   Brivaracetam passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby if you take brivaracetam tablets.
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take,including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Brivaracetam tablets may affect the way other medicines work, and other medicines may affect how brivaracetam tablets work.
 Do not start a new medicine without first talking with your healthcare provider.
 Know the medicines you take.
@@ -86,16 +86,14 @@ What are the possible side effects of brivaracetam tablets?
 Brivaracetam tablets may cause serious side effects, including:
 
 - See " What is the most important information I should know about brivaracetam tablets?"
-- Nervous system problems.
-  Drowsiness, tiredness, and dizziness are common with brivaracetam tablets, but can be severe.
+- Nervous system problems.Drowsiness, tiredness, and dizziness are common with brivaracetam tablets, but can be severe.
   See " What should I avoid while taking brivaracetam tablets?"
   Brivaracetam tablets can also cause problems with balance and coordination.
-- Mental (psychiatric) symptoms.
-  Brivaracetam tablets can cause mood and behavior changes such as aggression, agitation, anger, anxiety, apathy, mood swings, depression, hostility, and irritability.
+- Mental (psychiatric) symptoms.Brivaracetam tablets can cause mood and behavior changes such as aggression, agitation, anger, anxiety, apathy, mood swings, depression, hostility, and irritability.
   Irritability and anxiety are common with brivaracetam tablets, and can be severe.
   People who take brivaracetam tablets can also get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs), and unusual behavior.
-- Serious allergic reactions. ​​​​Stop taking brivaracetam and call your healthcare provider right away if you have any of these signs of a serious allergic reaction: o swelling of your face, mouth, lips, gums, tongue, throat, or necko trouble breathing
-- Serious skin rashes. brivaracetam may cause a severe rash with blisters and peeling skin.
+- Serious allergic reactions.​​​​Stop taking brivaracetam and call your healthcare provider right away if you have any of these signs of a serious allergic reaction: o swelling of your face, mouth, lips, gums, tongue, throat, or necko trouble breathing
+- Serious skin rashes.brivaracetam may cause a severe rash with blisters and peeling skin.
   This may occur around the mouth, nose, eyes, and genitals or over much of the body.
   A mild rash may become a serious reaction and may cause death.
   Call your healthcare provider right away if you have a rash, skin blisters, sores in the mouth, or hives.
@@ -136,15 +134,15 @@ You can ask your pharmacist or healthcare provider for information about brivara
 
 What are the ingredients in brivaracetam tablets?
 
-Active ingredient: brivaracetam
+Active ingredient:brivaracetam
 
-Tablet inactive ingredients: croscarmellose sodium, lactose monohydrate, anhydrous lactose, and magnesium stearate.
+Tablet inactive ingredients:croscarmellose sodium, lactose monohydrate, anhydrous lactose, and magnesium stearate.
 The tablet film coating contains the inactive ingredients listed below:
 
-- 10 mg and 100 mg tablets: polyvinyl alcohol, talc, polyethylene glycol 3350, titanium dioxide
-- 25 mg tablets: polyvinyl alcohol, talc, polyethylene glycol 3350, titanium dioxide, yellow iron oxide, black iron oxide, red iron oxide
-- 50 mg tablets: polyvinyl alcohol, talc, polyethylene glycol 3350, titanium dioxide, yellow iron oxide
-- 75 mg tablets: polyvinyl alcohol, talc, polyethylene glycol 3350, titanium dioxide, yellow iron oxide, red iron oxide
+- 10 mg and 100 mg tablets:polyvinyl alcohol, talc, polyethylene glycol 3350, titanium dioxide
+- 25 mg tablets:polyvinyl alcohol, talc, polyethylene glycol 3350, titanium dioxide, yellow iron oxide, black iron oxide, red iron oxide
+- 50 mg tablets:polyvinyl alcohol, talc, polyethylene glycol 3350, titanium dioxide, yellow iron oxide
+- 75 mg tablets:polyvinyl alcohol, talc, polyethylene glycol 3350, titanium dioxide, yellow iron oxide, red iron oxide
 
 Manufactured by:
 
