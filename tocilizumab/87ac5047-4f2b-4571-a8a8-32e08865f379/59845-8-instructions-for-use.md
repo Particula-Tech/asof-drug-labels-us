@@ -32,7 +32,7 @@ Storing TYENNE autoinjectors
   Throw away (dispose of) in a sharps disposal container.
 - •Do not expose TYENNE to heat or direct sunlight.
 - •Keep the autoinjector out of the reach of children.
-- •TYENNE may be stored at room temperature at or below 77°F (25°C) in the original carton for up to 14 days.
+- •TYENNE may be stored at room temperature at or below 86°F (30°C) in the original carton for up to 14 days.
   Throw away (dispose of) TYENNE in a sharp disposal container if it has been out of the refrigerator more than 14 days.
   After being stored at room temperature, do not place it back in the refrigerator.
   See the Medication Guide for more information.
@@ -141,7 +141,7 @@ Always keep the sharps disposal container out of reach of children.
 
 Manufactured by: Fresenius Kabi USA, LLC Lake Zurich, Illinois 60047 U.S. License No. 2146
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 02/2025
+This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 09/2025
 
 Read and follow the Instructions for Use that come with your TYENNE prefilled syringe before you start using it and each time you get a refill.
 There may be new information.
@@ -173,7 +173,7 @@ Storing TYENNE prefilled syringes
   Do not use TYENNE if frozen.
   Throw away (dispose of) in a sharps disposal container.
 - •Do not expose TYENNE to heat or direct sunlight.
-- •If needed, for example when traveling, TYENNE may be stored at room temperature at or below 77°F (25°C) in the original carton for up to 14 days.
+- •If needed, for example when traveling, TYENNE may be stored at room temperature at or below 86°F (30°C) in the original carton for up to 14 days.
   Throw away (dispose of) TYENNE in a sharps disposal container if it has been out of the refrigerator for more than 14 days.
   After being stored at room temperature, do not place it back in the refrigerator.
 
@@ -344,4 +344,4 @@ Manufactured by: Fresenius Kabi USA, LLC Lake Zurich, Illinois 60047
 
 U.S. License No. 2146
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 02/2025
+This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 09/2025
