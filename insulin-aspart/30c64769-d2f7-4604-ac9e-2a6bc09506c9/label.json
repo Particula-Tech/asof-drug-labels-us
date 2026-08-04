@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "BLA761497"
+  ],
+  "inn": "insulin-aspart",
+  "labeler": "Meitheal Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "71288-903-80",
+    "71288-903-81",
+    "71288-904-10",
+    "71288-909-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin aspart-fsan",
+      "name": "Garzulys"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "water injection",
+      "name": "Insulin Diluting Medium for Garzulys"
+    }
+  ],
+  "setid": "30c64769-d2f7-4604-ac9e-2a6bc09506c9",
+  "source": "dailymed"
+}
