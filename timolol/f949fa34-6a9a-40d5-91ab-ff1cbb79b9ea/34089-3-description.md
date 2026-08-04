@@ -19,5 +19,5 @@ Timolol maleate ophthalmic solution, USP is supplied as a sterile, isotonic, buf
 Each mL of timolol maleate ophthalmic solution 0.25% contains 2.5 mg of timolol (3.4 mg of timolol maleate).
 The pH of the solution is 6.5 to 7.5, and the osmolality is 280 to 320 mOsm/kg.
 Each mL of timolol maleate ophthalmic solution 0.5% contains 5 mg of timolol (6.8 mg of timolol maleate).
-Inactive ingredients: monobasic and dibasic sodium phosphate, sodium hydroxide to adjust pH, and purified water.
-Benzalkonium chloride 0.01% is added as preservative.
+Inactive ingredients: dibasic sodium phosphate, monobasic sodium phosphate, purified water, and sodium hydroxide to adjust pH.
+Preservative: benzalkonium chloride 0.01%.
