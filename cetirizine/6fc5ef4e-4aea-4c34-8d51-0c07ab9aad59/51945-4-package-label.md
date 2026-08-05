@@ -1,4 +1,4 @@
-# Principal Display Panel – 2.5 mL Carton Label
+# Principal Display Panel – 30 single use container vial carton
 
 NDC 82667-015-24
 
@@ -12,4 +12,4 @@ ZERVIATE®
 
 FOR TOPICAL OPHTHALMIC USE
 
-Rx Only HARROW® Sterile
+Rx Only HARROW ® Sterile

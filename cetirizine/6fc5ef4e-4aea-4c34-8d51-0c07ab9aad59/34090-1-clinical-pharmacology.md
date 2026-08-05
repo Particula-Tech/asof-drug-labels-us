@@ -10,5 +10,5 @@ In vitroreceptor binding studies have shown no measurable affinity for other tha
 
 ## 12.3 Pharmacokinetics
 
-In healthy subjects, bilateral topical ocular dosing of one drop of ZERVIATE ®resulted in a mean cetirizine plasma C maxof 1.7 ng/mL following a single dose and 3.1 ng/mL after twice-daily dosing for one week.
-The observed mean terminal half-life of cetirizine was 8.6 hours following a single dose and 8.2 hours after twice-daily dosing of ZERVIATE ®for one week.
+In healthy subjects, bilateral topical ocular dosing of one drop of ZERVIATE ® resulted in a mean cetirizine plasma C max of 1.7 ng/mL following a single dose and 3.1 ng/mL after twice-daily dosing for one week.
+The observed mean terminal half-life of cetirizine was 8.6 hours following a single dose and 8.2 hours after twice-daily dosing of ZERVIATE ® for one week.

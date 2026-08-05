@@ -3,10 +3,10 @@
 The efficacy of ZERVIATE ®(cetirizine ophthalmic solution) 0.24% was established in three randomized, double-masked, placebocontrolled, conjunctival allergen challenge (CAC) clinical trials in patients with a history of allergic conjunctivitis.
 Onset and duration of action were evaluated in two of these trials in which patients were randomized to receive ZERVIATE ®or vehicle ophthalmic solutions.
 Patients were evaluated with an ocular itching severity score ranging from 0 (no itching) to 4 (incapacitating itch) at several time points after CAC administration.
-Table 1displays data from the mean ocular itching severity scores after ocular administration of an antigen using the CAC model.
+Table 1 displays data from the mean ocular itching severity scores after ocular administration of an antigen using the CAC model.
 A one unit difference compared to vehicle is considered a clinically meaningful change in the ocular itching severity score.
 
-Patients treated with ZERVIATE ®demonstrated statistically and clinically significantly less ocular itching compared to vehicle at 15 minutes and 8 hours after treatment.
+Patients treated with ZERVIATE ® demonstrated statistically and clinically significantly less ocular itching compared to vehicle at 15 minutes and 8 hours after treatment.
 
 Table 1 Itching Scores in the ITT Population by Treatment Group and Treatment Difference
 
