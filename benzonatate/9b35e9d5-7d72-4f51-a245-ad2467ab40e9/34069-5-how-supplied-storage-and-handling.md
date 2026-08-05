@@ -20,19 +20,15 @@ Dispense in tight (USP), child-resistant containers.
 
 Rx Only
 
-Manufactured by:
-
-Humanwell PuraCap Pharmaceutical
-
-Wuhan, Hubei 430206, China
-
 Distributed by:
 
 Epic Pharma, LLC
 
 Laurelton, NY 11413
 
-Rev.
-10-2018-00
+Product of Taiwan.
 
-PI-EBEN-00
+Rev.
+06-2025-00
+
+ZLN029
