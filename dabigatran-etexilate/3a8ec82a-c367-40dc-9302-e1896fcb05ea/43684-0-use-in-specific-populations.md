@@ -45,7 +45,8 @@ Death of offspring and mother rats during labor in association with uterine blee
 
 Risk Summary
 
-There are no data on the presence of dabigatran in human milk, the effects on the breastfed child, or on milk production.
+There are insufficient data to assess the presence of dabigatran in human milk.
+There are no data on the effects of dabigatran on the breastfed child or on milk production.
 Dabigatran and/or its metabolites were present in rat milk.
 Breastfeeding is not recommended during treatment with Dabigatran Etexilate Capsules.
 
@@ -57,10 +58,12 @@ The risk of clinically significant uterine bleeding, potentially requiring gynec
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of Dabigatran Etexilate Capsules have not been established in pediatric patients with non-valvular atrial fibrillation or those who have undergone hip replacement surgery.
+The safety and effectiveness of Dabigatran Etexilate Capsules for the treatment and the reduction in risk of recurrence of venous thromboembolism have been established in pediatric patients 8 to less than 18 years of age.
+Use of Dabigatran Etexilate Capsules for this indication is supported by evidence from adequate and well-controlled studies in pediatric patients.
+These studies included an open-label, randomized, parallel-group study and an open-label, single-arm safety study [see Adverse Reactions (6.1) and Clinical Studies (14.4, 14.5)].
+Other age-appropriate pediatric dosage forms of dabigatran etexilate are available for pediatric patients less than 8 years of age for these indications.
 
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Safety and effectiveness of Dabigatran Etexilate Capsules have not been established in pediatric patients with non-valvular atrial fibrillation or those who have undergone hip replacement surgery.
 
 ## 8.5 Geriatric Use
 
@@ -92,5 +95,7 @@ Dosing recommendations for patients with CrCl <30 mL/min or on dialysis cannot b
 
 Avoid use of Dabigatran Etexilate Capsules with concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.3), and Clinical Pharmacology (12.2, 12.3)].
 
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Treatment and Reduction in the Risk of Recurrence of VTE in Pediatric Patients Dabigatran Etexilate Capsules has not been studied in pediatric patients with e GFR < 50 m L/min/1.73 m2.
+Reduced renal function could increase exposure.
+Dosing recommendations cannot be provided for treatment of these patients.
+Avoid use of Dabigatran Etexilate Capsules in these patients [see Dosage and Administration (2.4)].

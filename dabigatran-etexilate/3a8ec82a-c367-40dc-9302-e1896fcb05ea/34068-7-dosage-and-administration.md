@@ -40,8 +40,28 @@ For patients with CrCl >30 mL/min, the recommended dosage of Dabigatran Etexilat
 If Dabigatran Etexilate Capsules is not started on the day of surgery, after hemostasis has been achieved initiate treatment with 220 mg once daily.
 Dosing recommendations for patients with a CrCl ≤30 mL/min or on dialysis cannot be provided [see Dosage and Administration (2.4), Use in Specific Populations (8.6), and Clinical Pharmacology (12.2, 12.3)].
 
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+## 2.3 Recommended Dabigatran Etexilate Capsules Dosage for Pediatrics
+
+Dabigatran Etexilate Capsules can be used in pediatric patients aged 8 to less than 18 years of age who are able to swallow the capsules whole.
+Other age-appropriate pediatric dosage forms of dabigatran etexilate are available for pediatric patients less than 8 years of age.
+For the treatment of VTE in pediatric patients, initiate treatment following treatment with a parenteral anticoagulant for at least 5 days.
+For reduction in risk of recurrence of VTE, initiate treatment following previous treatment.
+Dabigatran Etexilate Capsules is dosed orally twice daily, one dose in the morning and one dose in the evening, at approximately the same time every day.
+The dosing interval should be as close to 12 hours as possible.
+The recommended dosage of Dabigatran Etexilate Capsules for the treatment of or reducing the risk of VTE in pediatric patients 8 to less than 18 years of age is based on the patient's actual weight as shown in Table 1 below.
+Administer Dabigatran Etexilate Capsules twice daily.
+Adjust the dosage according to actual weight as treatment progresses [see Dosage and Administration (2.5)].
+
+Table 1 Weight-Based Dabigatran Etexilate Capsules Dosage for Pediatric Patients Aged 8 to Less Than 18 Years
+
+| Actual Weight (kg) | Dosage (mg) | Number of Capsules Needed |
+| --- | --- | --- |
+| 11 kg to less than 16 kg | 75 mg twice daily | one 75 mg capsule twice daily |
+| 16 kg to less than 26 kg | 110 mg twice daily | one 110 mg capsule twice daily |
+| 26 kg to less than 41 kg | 150 mg twice daily | one 150 mg capsule twice daily or two 75 mg capsules twice daily |
+| 41 kg to less than 61 kg | 185 mg twice daily | one 110 mg capsule plus one 75 mg capsule twice daily |
+| 61 kg to less than 81 kg | 220 mg twice daily | two 110 mg capsule twice daily |
+| 81 kg or greater | 260 mg twice daily | one 150 mg capsule plus one 110 mg capsule twice daily or one 110 mg capsule plus two 75 mg capsules twice daily |
 
 ## 2.4 Dosage Adjustments
 
@@ -71,8 +91,12 @@ Avoid use of concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see D
 
 Pediatric patients with renal impairment
 
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Treatment and reduction in risk of recurrence of VTE in pediatric patients
+
+Due to lack of data in pediatric patients with e GFR < 50 m L/min/1.73 m2 and the risk of increased exposure, avoid use of Dabigatran Etexilate Capsules in these patients.
+Prior to the initiation of treatment with Dabigatran Etexilate Capsules, estimate the glomerular filtration rate (e GFR) using the Schwartz formula: e GFR (Schwartz) = (0.413 x height in cm) / serum creatinine in mg/d L.
+
+Treat patients with an e GFR > 50 m L/min/1.73 m2 with the dosage according to Table 1 [see Dosage and Administration (2.3)].
 
 ## 2.5 Administration
 
@@ -98,24 +122,26 @@ Adults
 - For CrCl 15 to 30 mL/min, start warfarin 1 day before discontinuing Dabigatran Etexilate Capsules.
 - For CrCl <15 mL/min, no recommendations can be made.
 
-Because Dabigatran Etexilate Capsules can increase INR, the INR will better reflect warfarin’s effect only after Dabigatran Etexilate Capsules has been stopped for at least 2 days [see Clinical Pharmacology (12.2)].
+Pediatrics • For e GFR ≥ 50 m L/min/1.73 m2, start warfarin 3 days before discontinuing Dabigatran Etexilate Capsules. • Pediatric patients with an e GFR < 50 m L/min/1.73 m2 have not been studied.
+Avoid use of Dabigatran Etexilate Capsules in these patients.
 
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Because Dabigatran Etexilate Capsules can increase INR, the INR will better reflect warfarin’s effect only after Dabigatran Etexilate Capsules has been stopped for at least 2 days [see Clinical Pharmacology (12.2)].
 
 ## 2.7 Converting from or to Parenteral Anticoagulants
 
-For adult patients currently receiving a parenteral anticoagulant, start Dabigatran Etexilate Capsules 0 to 2 hours before the time that the next dose of the parenteral drug was to have been administered or at the time of discontinuation of a continuously administered parenteral drug (e.g., intravenous unfractionated heparin).
+For adult andpediatric patients currently receiving a parenteral anticoagulant, start Dabigatran Etexilate Capsules 0 to 2 hours before the time that the next dose of the parenteral drug was to have been administered or at the time of discontinuation of a continuously administered parenteral drug (e.g., intravenous unfractionated heparin).
 
 For adult patients currently taking Dabigatran Etexilate Capsules wait 12 hours (CrCl ≥30 mL/min) or 24 hours (CrCl <30 mL/min) after the last dose of Dabigatran Etexilate Capsules before initiating treatment with a parenteral anticoagulant [see Clinical Pharmacology (12.3)].
 
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+For pediatric patients currently taking Dabigatran Etexilate Capsules, wait 12 hours after the last dose before switching to a parenteral anticoagulant.
 
 ## 2.8 Discontinuation for Surgery and Other Interventions
 
 If possible, discontinue Dabigatran Etexilate Capsules in adults 1 to 2 days (CrCl ≥50 mL/min) or 3 to 5 days (CrCl <50 mL/min) before invasive or surgical procedures because of the increased risk of bleeding.
 Consider longer times for patients undergoing major surgery, spinal puncture, or placement of a spinal or epidural catheter or port, in whom complete hemostasis may be required [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+
+For pediatric patients, discontinue Dabigatran Etexilate Capsules 24 hours before an elective surgery (e GFR > 80 m L/min/1.73 m2) or 2 days before an elective surgery (e GFR 50-80 m L/min/1.73 m2).
+Pediatric patients with an e GFR <50 m L/min/1.73 m2have not been studied, avoid use of Dabigatran Etexilate Capsules in these patients.
 
 If surgery cannot be delayed, there is an increased risk of bleeding [see Warnings and Precautions (5.2)].
 This risk of bleeding should be weighed against the urgency of intervention [see Warnings and Precautions (5.1, 5.3)].
@@ -123,6 +149,3 @@ Use a specific reversal agent (idarucizumab) in case of emergency surgery or urg
 Efficacy and safety of idarucizumab have not been established in pediatric patients [see Warnings and Precautions (5.2)].
 Refer to the idarucizumab prescribing information for additional information.
 Restart Dabigatran Etexilate Capsules as soon as medically appropriate.
-
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

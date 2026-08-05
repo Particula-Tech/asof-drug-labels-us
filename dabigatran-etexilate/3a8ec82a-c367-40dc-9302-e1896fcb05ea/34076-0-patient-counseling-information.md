@@ -12,8 +12,7 @@ Instructions for Patients
 - Instruct patient to remove only one capsule from the opened bottle at the time of use.
   The bottle should be immediately and tightly closed.
 - Advise patients not to chew or break the capsules before swallowing them and not to open the capsules and take the pellets alone.
-- Advise patients that the capsule should be taken with a full glass of water.
-  [see Boxed Warning, Dosage and Administration (2.5)]
+- Advise patients that the capsule should be taken with a full glass of water.[see Boxed Warning, Dosage and Administration (2.5)]
 
 Bleeding
 
@@ -40,7 +39,7 @@ Instruct patients to call their healthcare provider if they experience any signs
 
 - Dyspepsia (upset stomach), burning, or nausea
 - Abdominal pain or discomfort
-- Epigastric discomfort, GERD (gastric indigestion) [see Adverse Reactions (6.1)]
+- Epigastric discomfort, GERD (gastric indigestion)[see Adverse Reactions (6.1)]
 
 Invasive or Surgical Procedures
 
@@ -57,8 +56,8 @@ Instruct patients to inform their healthcare provider if they will have or have 
 Allergic Reactions
 
 Advise adult patients and caregivers that some adults taking Dabigatran Etexilate Capsules have developed symptoms of an allergic reaction.
-Advise adult patients or caregivers to inform their healthcare provider if they develop symptoms of an allergic reaction, such as hives, rash, or itching.
-Advise adult patients or caregivers to seek emergency medical attention if they develop chest pain or tightness, swelling of the face or tongue, trouble breathing or wheezing, or feeling dizzy or faint.
+Advise adult patients or caregivers to inform their healthcare provider if they or their child develop symptoms of an allergic reaction, such as hives, rash, or itching.
+Advise adult patients or caregivers to seek emergency medical attention if they or their child develop chest pain or tightness, swelling of the face or tongue, trouble breathing or wheezing, or feeling dizzy or faint.
 
 Pregnancy
 
@@ -68,19 +67,8 @@ Lactation
 
 Advise patients not to breastfeed if they are taking Dabigatran Etexilate Capsules [see Use in Specific Populations (8.2)].
 
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
 
-Manufactured by:
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
 
-Alkem Laboratories Ltd.,
-
-INDIA.
-
-Distributed by:
-
-Ascend Laboratories, LLC
-
-Parsippany, NJ 07054
-
-Revised: July 2024
+Revised: September 2025
