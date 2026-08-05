@@ -6,7 +6,7 @@ Rx Only
 
 10 single-dose vials
 
-Emblaveo™ 2g per vial*
+Emblaveo® 2g per vial*
 
 (aztreonam and avibactam) for injection
 
