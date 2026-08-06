@@ -16,14 +16,20 @@ Keep bottles tightly closed.
 
 Dispense in a light-resistant, tight container.
 
-Manufactured for: Endo USA Malvern, PA 19355 U.S.A.
+Manufactured for:
+
+Par Health USA
+
+Woodcliff Lake, NJ 07677 U.S.A.
+
+Product of Italy
 
 Made in India
 
 Neutral Code: TN/DRUGS/TN00002121
 
-© 2024 Endo, Inc. or one of its affiliates.
+© 2026 Par Health, Inc. or one of its affiliates.
 
-OS556-01-74-02
+OS556-01-74-03
 
-Revised: 08/2024
+Revised: 06/2026

@@ -12,4 +12,4 @@ Methemoglobinemia is so infrequent at these doses that further discussion of its
 
 Data are not available to allow estimation of the frequency of adverse reactions during treatment with isosorbide dinitrate.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Endo at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Par Health at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
