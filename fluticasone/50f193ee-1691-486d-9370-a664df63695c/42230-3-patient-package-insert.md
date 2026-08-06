@@ -12,8 +12,8 @@
 |  | orash | oswelling of your face, mouth, and tongue |
 |  | ohives | obreathing problems |
 | •bone thinning or weakness (osteoporosis).•slow growth in children and adolescents. A child’s or adolescent’s growth should be checked often.•eye problems including glaucoma, increased pressure in your eye, cataracts, or other changes in vision. You should have regular eye exams while using ARNUITY ELLIPTA. Common side effects of ARNUITY ELLIPTA include: |  |  |
-| •runny nose and sore throat |  | •breathing problems (bronchitis) |
-| •headache |  | •flu |
+| orunny nose and sore throat |  | obreathing problems (bronchitis) |
+| oheadache |  | oflu |
 | These are not all the possible side effects of ARNUITY ELLIPTA. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |
 | How should I store ARNUITY ELLIPTA? •Store ARNUITY ELLIPTA at room temperature between 68°F and 77°F (20°C and 25°C). Keep in a dry place away from heat and sunlight. •Store ARNUITY ELLIPTA in the unopened tray and only open when ready for use.•Safely throw away ARNUITY ELLIPTA in the trash 6 weeks after you open the tray or when the counter reads “0”, whichever comes first. Write the date you open the tray on the label on the inhaler. Keep ARNUITY ELLIPTA and all medicines out of the reach of children. |  |  |
 | General information about the safe and effective use of ARNUITY ELLIPTA.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use ARNUITY ELLIPTA for a condition for which it was not prescribed. Do not give ARNUITY ELLIPTA to other people, even if they have the same symptoms that you have. It may harm them.You can ask your healthcare provider or pharmacist for information about ARNUITY ELLIPTA that is written for health professionals. |  |  |
