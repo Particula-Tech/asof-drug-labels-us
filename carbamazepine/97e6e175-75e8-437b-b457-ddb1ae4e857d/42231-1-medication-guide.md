@@ -19,14 +19,16 @@ Carbamazepine tablets or chewable tablets can cause serious side effects, includ
 1.
 Carbamazepine tablets or chewable tablets may cause rare but serious skin rashes that may lead to death.
 These serious skin reactions are more likely to happen when you begin taking carbamazepine tablets or chewable tablets within the first four months of treatment but may occur at later times.
-These reactions can happen in anyone, but are more likely in people of Asian descent.
+These reactions can happen in anyone, but some types of skin reactions are more likely in people of Asian descent.
 If you are of Asian descent, you may need a genetic blood test before you take carbamazepine tablets or chewable tablets to see if you are at a higher risk for serious skin reactions with this medicine.
-Symptoms may include:
+Reactions may include:
 
 - skin rash
 - hives
 - sores in your mouth
 - blistering or peeling of the skin
+- round or oval patches, which can include redness, swelling, blistering, itching, peeling or darkening of the skin, that appear in the same place on your body as when you took carbamazepine tablets or chewable tablets in the past.
+  This may progress to a serious reaction.
 
 2.
 Carbamazepine tablets or chewable tablets may cause rare but serious blood problems.
@@ -131,6 +133,7 @@ Before you take carbamazepine tablets or chewable tablets, tell your healthcare 
 - have or ever had blood problems
 - have or ever had liver problems
 - have or ever had kidney problems
+- have ever had a skin reaction to carbamazepine tablets or chewable tablets
 - have or ever had allergic reactions to medicines
 - have or ever had increased pressure in your eye
 - have any other medical conditions
@@ -235,8 +238,6 @@ Carbamazepine tablets: colloidal silicon dioxide, FD&C Red #40 aluminum lake, hy
 
 Carbamazepine tablets (Chewable): artificial flavors, colloidal silicon dioxide, compressible sugar, corn starch, FD&C Red #40 aluminum lake, hydroxypropyl methyl cellulose, magnesium stearate, and sodium starch glycolate.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
 Trademarks are the property of their respective owners.
 
 Manufactured by:
@@ -247,4 +248,6 @@ Manufactured for:
 
 Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8113103 Revised: July 2026
+8113103 Revised: August 2026
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
