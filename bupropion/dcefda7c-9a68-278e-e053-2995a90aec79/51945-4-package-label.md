@@ -291,3 +291,31 @@ treatment of agitation that may happen with
 dementia due to Alzheimer's disease.
 
 axsome
+
+# PRINCIPAL DISPLAY PANEL - NDC: 81968-453-01 - Patient Sample Titration Kit for the Treatment of Agitation Associated with Dementia Due to Alzheimer's Disease
+
+Rx ony NDC 81968-453-01
+
+For oral use NOT FOR SALE
+
+Auvelity®
+
+(dextromethorphan HBr and bupropion HCl) extended-release tablets
+
+For agitation that may happen with dementia due to Alzheimer’s disease
+
+AUVELITY should not be used as an “as needed” treatment for agitation that may happen with dementia due to Alzheimer’s disease.
+
+PATIENT SAMPLE
+
+TITRATION PACK
+
+TITRATION BOTTLE MAINTENANCE BOTTLE
+
+30 mg/105 mg 45 mg/105 mg
+
+Weeks 1 & 2: 21 white tablets Week 3: 14 beige tablets
+
+See back panel for information on how to take AUVELITY.
+
+ATTENTION: Dispense in original package; do not dispense bottles individually.
