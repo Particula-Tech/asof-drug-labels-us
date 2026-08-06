@@ -33,15 +33,15 @@ Dosage adjustment in patients 12 years of age and older with renal impairment or
 TABLE 1.
 NEURONTIN Dosage Based on Renal Function
 
-| Renal Function Creatinine Clearance (mL/min) | Total Daily Dose Range(mg/day) | Dose Regimen(mg) |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| ≥ 60 | 900 to 3600 | 300 TID | 400 TID | 600 TID | 800 TID | 1200 TID |  |
-| >30 to 59 | 400 to 1400 | 200 BID | 300 BID | 400 BID | 500 BID | 700 BID |  |
-| >15 to 29 | 200 to 700 | 200 QD | 300 QD | 400 QD | 500 QD | 700 QD |  |
-| 15For patients with creatinine clearance <15 mL/min, reduce daily dose in proportion to creatinine clearance (e.g., patients with a creatinine clearance of 7.5 mL/min should receive one-half the daily dose that patients with a creatinine clearance of 15 mL/min receive). | 100 to 300 | 100 QD | 125 QD | 150 QD | 200 QD | 300 QD |  |
-|  |  | Post-Hemodialysis Supplemental Dose (mg)Patients on hemodialysis should receive maintenance doses based on estimates of creatinine clearance as indicated in the upper portion of the table and a supplemental post-hemodialysis dose administered after each 4 hours of hemodialysis as indicated in the lower portion of the table. |  |  |  |  |  |
-| Hemodialysis |  | 125 | 150 | 200 | 250 |  | 350 |
-| TID = Three times a day; BID = Two times a day; QD = Single daily dose |  |  |  |  |  |  |  |
+| Renal Function Creatinine Clearance (mL/min) | Total Daily Dose Range(mg/day) | Dose Regimen(mg) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| ≥ 60 | 900 to 3600 | 300 TID | 400 TID | 600 TID | 800 TID | 1200 TID |
+| >30 to 59 | 400 to 1400 | 200 BID | 300 BID | 400 BID | 500 BID | 700 BID |
+| >15 to 29 | 200 to 700 | 200 QD | 300 QD | 400 QD | 500 QD | 700 QD |
+| 15For patients with creatinine clearance <15 mL/min, reduce daily dose in proportion to creatinine clearance (e.g., patients with a creatinine clearance of 7.5 mL/min should receive one-half the daily dose that patients with a creatinine clearance of 15 mL/min receive). | 100 to 300 | 100 QD | 125 QD | 150 QD | 200 QD | 300 QD |
+|  |  | Post-Hemodialysis Supplemental Dose (mg)Patients on hemodialysis should receive maintenance doses based on estimates of creatinine clearance as indicated in the upper portion of the table and a supplemental post-hemodialysis dose administered after each 4 hours of hemodialysis as indicated in the lower portion of the table. |  |  |  |  |
+| Hemodialysis |  | 125 | 150 | 200 | 250 | 350 |
+| TID = Three times a day; BID = Two times a day; QD = Single daily dose |  |  |  |  |  |  |
 
 Creatinine clearance (CLCr) is difficult to measure in outpatients.
 In patients with stable renal function, creatinine clearance can be reasonably well estimated using the equation of Cockcroft and Gault:
