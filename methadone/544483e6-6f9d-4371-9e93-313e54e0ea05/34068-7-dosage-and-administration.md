@@ -31,15 +31,18 @@ Consider the following important factors that differentiate methadone from other
 
 Methadone hydrochloride tablets for oral suspension have a narrow therapeutic index, especially when combined with other drugs.
 
-## 2.3 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.3 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
-Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with methadone hydrochloride tablets for oral suspension.
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.1)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent.
+Because patients being treated with methadone may be at risk for opioid overdose during initiation or titration, or in the case of relapse to illicit use, strongly consider recommending or prescribing an overdose reversal agent for the emergency treatment of opioid overdose, both when initiating and renewing treatment with methadone hydrochloride tablets for oral suspension.
+Also consider recommending or prescribing such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.1)].
 
-Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with methadone hydrochloride tablets for oral suspension itself [see Overdosage (10)].
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.1)].
 
-Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
+
+Advise patients and caregivers that opioid overdose reversal agents, such as naloxone or nalmefene, may also be administered for a known or suspected overdose with methadone hydrochloride tablets for oral suspension itself [see Overdosage (10)].
 
 ## 2.4 Dosing Instructions
 
@@ -98,7 +101,7 @@ There is considerable variability in the appropriate rate of methadone taper in 
 Dose reductions should generally be less than 10% of the established tolerance or maintenance dose, and 10- to 14-day intervals should elapse between dose reductions.
 Because methadone hydrochloride tablets for oral suspension can be administered only in 10 mg increments, it may not be the appropriate product for gradual dose reduction in many patients.
 Apprise patients of the high risk of relapse to illicit drug use associated with discontinuation of methadone maintenance treatment.
-Do not abruptly discontinue methadone hydrochloride tablets for oral suspension in a physically dependent patient [see Warnings and Precautions (5.15)].
+Do not rapidly reduce or abruptly discontinue methadone hydrochloride tablets for oral suspension in patients who may be physically dependent on opioids [see Warnings and Precautions (5.15)].
 
 ## 2.8 Risk of Relapse in Patients on Methadone Maintenance Treatment of Opioid Addiction
 

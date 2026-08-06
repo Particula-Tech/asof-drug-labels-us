@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-METHADOSE™ Dispersible Tablets, 40 mg:
+METHADOSE® Dispersible Tablets, 40 mg:
 
 Available as a white, round tablet, debossed with “METHADOSE 40” on one side, a quadrisect on the other.
 

@@ -59,3 +59,5 @@ Anaphylaxis: Anaphylaxis has been reported with ingredients contained in methado
 Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
 
 Hypoglycemia: Cases of hypoglycemia have been reported in patients taking methadone [see Warnings and Precautions (5.17)].
+
+Opioid-induced esophageal dysfunction (OIED): Cases of OIED have been reported in patients taking opioids and may occur more frequently in patients taking higher doses of opioids, and/or in patients taking opioids longer term [see Warnings and Precautions (5.13)].

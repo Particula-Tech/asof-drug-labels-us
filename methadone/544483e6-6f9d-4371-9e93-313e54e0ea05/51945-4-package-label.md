@@ -4,7 +4,7 @@ NDC 0406-0540-34
 
 100 TABLETS
 
-METHADOSE™ Dispersible Tablets (Methadone Hydrochloride Tablets for Oral Suspension USP)
+METHADOSE® Dispersible Tablets (Methadone Hydrochloride Tablets for Oral Suspension USP)
 
 CII
 
@@ -15,9 +15,9 @@ Each tablet contains: Methadone Hydrochloride USP.......
 
 Rx only
 
-Mallinckrodt™
+Par Health™
 
-L00M10 Rev 07/2017
+L00M10 Rev 01/2026
 
 # PRINCIPAL DISPLAY PANEL - METHADONE HYDROCHLORIDE TABLETS
 
@@ -38,6 +38,6 @@ Each tablet contains: Methadone Hydrochloride USP.......
 
 Rx only
 
-Mallinckrodt™
+Par Health™
 
-L00M82 Rev 01/2021
+L00M82 Rev 01/2026

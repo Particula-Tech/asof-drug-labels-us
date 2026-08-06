@@ -6,7 +6,7 @@ Serious, life-threatening, or fatal respiratory depression has been reported wit
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
 Respiratory depression from opioids is manifested by a reduced urge to breathe and a decreased rate of respiration, often associated with a “sighing” pattern of breathing (deep breaths separated by abnormally long pauses).
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agents, depending on the patient’s clinical status [see Overdosage (10)].
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of methadone hydrochloride tablets for oral suspension, the risk is greatest during the initiation of therapy or following a dose increase.
 The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak pharmacologic effect, especially during the initial dosing period.
@@ -31,19 +31,26 @@ Opioids can cause sleep-related breathing disorders including central sleep apne
 Opioid use increases the risk of CSA in a dose-dependent fashion.
 In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2)].
 
-Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
-Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with methadone hydrochloride tablets for oral suspension.
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.3)].
+Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with methadone hydrochloride tablets for oral suspension itself [see Overdosage (10)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent.
+Because patients being treated with methadone may be at risk for opioid overdose during initiation or titration, or in the case of relapse to illicit use, strongly consider recommending or prescribing an opioid overdose reversal agent for the emergency treatment of an opioid overdose, both when initiating and renewing treatment with methadone hydrochloride tablets for oral suspension.
+Also consider recommending or prescribing such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.3)].
 
-Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
-Educate patients and caregivers on how to recognize respiratory depression and, if naloxone is prescribed, how to treat with naloxone.
-Emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program).
+
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
+
+Advise patients and caregivers that an opioid overdose reversal agent, such as naloxone or nalmefene, may also be administered for a known or suspected overdose with methadone hydrochloride tablets for oral suspension itself [see Overdosage (10)].
+
+Educate patients and caregivers on how to recognize respiratory depression, and how to use an opioid overdose reversal agent for the emergency treatment of opioid overdose.
+Emphasize the importance of calling 911 or getting emergency medical help, even if an opioid overdose reversal agent is administered.
 
 ## 5.2 Managing Risks from Concomitant Use of Benzodiazepines or Other CNS Depressants with Methadone
 
-Concomitant use of methadone and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
+Concomitant use of methadone and benzodiazepines and/or other CNS depressants (e.g., alcohol, non-benzodiazepine sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids), increases the risk of adverse reactions, including overdose and death.
+
 Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
 Prohibiting or creating barriers to treatment can pose an even greater risk of morbidity and mortality due to the opioid use disorder alone.
 
@@ -62,7 +69,7 @@ For patients in methadone treatment, benzodiazepines are not the treatment of ch
 Before co-prescribing benzodiazepines, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments to address anxiety or insomnia.
 Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient’s methadone treatment and coordinate care to minimize the risks associated with concomitant use.
 
-If concomitant use is warranted, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, as is recommended for all patients in methadone treatment for opioid use disorder [see Warnings and Precautions (5.1)].
+If concomitant use is warranted, strongly consider recommending or prescribing an opioid overdose reversal agent, as is recommended for all patients on methadone treatment for opioid use disorder [see Warnings and Precautions (5.1)].
 
 In addition, take measures to confirm that patients are taking the medications prescribed and not diverting or supplementing with illicit drugs.
 Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].
@@ -163,12 +170,17 @@ Opioids may also obscure the clinical course in a patient with a head injury.
 
 Avoid the use of methadone in patients with impaired consciousness or coma.
 
-## 5.13 Risks of Use in Patients with Gastrointestinal Conditions
+## 5.13 Risks of Gastrointestinal Complications
 
 Methadone hydrochloride tablets for oral suspension are contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
+
 The methadone in methadone hydrochloride tablets for oral suspension may cause spasm of the sphincter of Oddi.
 Opioids may cause increases in the serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
+The risk of OIED may increase as the dose and/or duration of opioids increases.
+Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain) and, if necessary, adjust opioid therapy as clinically appropriate [see Clinical Pharmacology (12.2)].
 
 ## 5.14 Increased Risks of Seizure in Patients with Seizure Disorders
 
@@ -181,7 +193,7 @@ Avoid the use of mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and bu
 In these patients, mixed agonists/antagonist and partial agonist analgesics may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 When discontinuing methadone hydrochloride tablets for oral suspension, gradually taper the dosage [see Dosage and Administration (2.7, 2.8)].
-Do not abruptly discontinue methadone hydrochloride tablets for oral suspension [see Drug Abuse and Dependence (9.3)].
+Do not rapidly reduce or abruptly discontinue methadone hydrochloride tablets for oral suspension [see Drug Abuse and Dependence (9.3)].
 
 ## 5.16 Risks of Driving and Operating Machinery
 

@@ -8,7 +8,7 @@ It is present in methadone hydrochloride tablets for oral suspension as the race
 Methadone hydrochloride has a melting point of 235°C, a pKa of 8.25 in water at 20°C, a solution (1 part per 100) pH between 4.5 and 6.5, a partition coefficient of 117 at pH 7.4 in octanol/water and a molecular weight of 345.91.
 Its molecular formula is C21H27NO•HCl and its structural formula is:
 
-Each METHADOSE™ Dispersible Tablet (methadone hydrochloride tablets for oral suspension USP) contains 40 mg of methadone hydrochloride USP and the following inactive ingredients: dibasic calcium phosphate, microcrystalline cellulose, magnesium stearate, colloidal silicon dioxide, pregelatinized starch, stearic acid.
+Each METHADOSE® Dispersible Tablet (methadone hydrochloride tablets for oral suspension USP) contains 40 mg of methadone hydrochloride USP and the following inactive ingredients: dibasic calcium phosphate, microcrystalline cellulose, magnesium stearate, colloidal silicon dioxide, pregelatinized starch, stearic acid.
 
 Each Methadone Hydrochloride Tablet (methadone hydrochloride tablets for oral suspension USP) (dispersible, orange flavored) contains 40 mg of methadone hydrochloride USP and the following inactive ingredients: colloidal silicon dioxide; monobasic potassium phosphate; magnesium stearate; microcrystalline cellulose; pregelatinized starch; stearic acid; orange blend: FD&C yellow #6, FD&C yellow #6 lake, and FD&C yellow #5 lake; orange flavor.
 
