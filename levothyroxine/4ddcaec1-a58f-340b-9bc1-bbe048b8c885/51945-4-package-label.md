@@ -117,3 +117,11 @@ Levothyroxine Sodium Tablets, USP
 300 mcg
 
 90 Tablets Rx Only
+
+# PACKAGE LABEL PRINCIPAL DISPLAY PANEL SECTION
+
+NDC 47781-728-90
+
+Levothyroxine Sodium Tablets, USP 175 mcg 90 Tablets
+
+Rx Only
