@@ -1,40 +1,43 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-In the presence of a high environmental temperature, heat prostration (fever and heat stroke due to decreased sweating) can occur with use of glycopyrrolate.
+## 5.1 Precipitation of Acute Glaucoma
 
-Diarrhea may be an early symptom of incomplete intestinal obstruction, especially in patients with ileostomyor colostomy.
-In this instance treatment with this drug would be inappropriate and possibly harmful.
+Glycopyrrolate may cause increased intraocular pressure in patients with glaucoma and reduce the effects of antiglaucoma agents.
+Instruct patients to discontinue glycopyrrolate and promptly seek medical care if they experience symptoms of acute angle-closure glaucoma (pain and reddening of the eyes accompanied by dilated pupils) [see Contraindications (4)].
 
-Glycopyrrolate may produce drowsiness or blurred vision.
-In this event, the patient should be warned not to engage in activities requiring mental alertness such as operating a motor vehicle or other machinery, or performing hazardous work while taking this drug.
+## 5.2 Partial or Complete Mechanical Intestinal Obstruction
 
-Theoretically, with overdosage, a curare-like action may occur, i.e., neuro-muscular blockade leading to muscular weakness and possible paralysis.
+Glycopyrrolate may worsen intestinal mechanical obstruction, and diarrhea may be an early symptom of incomplete intestinal obstruction, especially in patients with ileostomy or colostomy.
+If partial or complete intestinal obstruction is suspected, discontinue the use of glycopyrrolate and evaluate for potential intestinal obstruction [see Contraindications (4)].
 
-## Pregnancy
+## 5.3 Gastrointestinal Adverse Reactions Due to Decreased Gastrointestinal Motility
 
-The safety of this drug during pregnancy has not been established.
-The use of any drug during pregnancy requires that the potential benefits of the drug be weighed against possible hazards to mother and child.
-Reproduction studies in rats revealed no teratogenic effects from glycopyrrolate; however, the potent anticholinergic action of this agent resulted in diminished rates of conception and of survival at weaning, in a dose-related manner.
-Other studies in dogs suggest that this may be due to diminished seminal secretion which is evident at high doses of glycopyrrolate.
-Information on possible adverse effects in the pregnant female is limited to uncontrolled data derived from marketing experience.
-Such experience has revealed no reports of teratogenic or other fetus-damaging potential.
-No controlled studies to establish the safety of the drug in pregnancy have been performed.
+Glycopyrrolate reduces gastrointestinal motility and may result in delayed gastric emptying, constipation, and intestinal pseudo-obstruction and may precipitate or aggravate paralytic ileus and toxic megacolon [see Contraindications (4)].
+The risk of gastrointestinal adverse reactions is further increased with the use of other anticholinergics and other medications that decrease gastrointestinal peristalsis.
 
-## Nursing Mothers
+Monitor patients for symptoms of decreased gastrointestinal motility.
+Concomitant use of glycopyrrolate and other anticholinergics or other medications that decrease GI peristalsis is not recommended [see Drug Interactions (7.2)].
 
-It is not known whether this drug is excreted in human milk.
-As a general rule, nursing should not be undertaken while a patient is on a drug since many drugs are excreted in human milk.
+## 5.4 Cognitive and Visual Adverse Reactions
 
-## Pediatric Use
+Glycopyrrolate may produce drowsiness and blurred vision and impair the mental and/or physical abilities required for the performance of hazardous tasks such as driving a motor vehicle, operating machinery, or performing other hazardous work [see Adverse Reactions (6)].
+Concomitant use of other drugs that have anticholinergic properties may increase these effects [see Drug Interactions (7.1)].
 
-Since there is no adequate experience in pediatric patients who have received this drug, safety and efficacy in pediatric patients have not been established.
+Inform patients not to operate motor vehicles or other dangerous machinery or perform other hazardous tasks until they are reasonably certain that glycopyrrolate tablets does not affect them adversely.
 
-# PRECAUTIONS
+Discontinue glycopyrrolate tablets if signs or symptoms of cognitive or visual impairment develop.
 
-Use glycopyrrolate with caution in the elderly and in all patients with:
+## 5.5 Heat Prostration at High Environmental Temperatures
 
-- Autonomic neuropathy.
-- Hepatic or renal disease.
-- Ulcerative colitis-large doses may suppress intestinal motility to the point of producing a paralytic ileus and for this reason may precipitate or aggravate “toxic megacolon,” a serious complication of the disease.
-- Hyperthyroidism, coronary heart disease, congestive heart failure, cardiac tachyarrhythmias, tachycardia, hypertension and prostatic hypertrophy.
-- Hiatal hernia associated with reflux esophagitis, since anticholinergic drugs may aggravate this condition.
+In the presence of a high environmental temperature, heat prostration resulting in fever and heatstroke can occur with the use of glycopyrrolate due to decreased sweating, particularly in geriatric patients [see Adverse Reactions (6)].
+Advise patients to avoid exposure to hot or very warm environmental temperatures when taking glycopyrrolate.
+Glycopyrrolate is not recommended in geriatric patients [see Warnings and Precautions (5.7)].
+
+## 5.6 Other Conditions Exacerbated by Anticholinergic Adverse Reactions
+
+Glycopyrrolate is not recommended in patients with other conditions exacerbated by anticholinergic adverse reactions (e.g., autonomic neuropathy, hyperthyroidism, cardiac disease, and hiatal hernia associated with reflux esophagitis) and in patients taking other anticholinergic medications [see Drug Interactions (7.1)].
+
+## 5.7 Increased Risk of Anticholinergic Adverse Reactions in Geriatric Patients
+
+Geriatric patients 65 years of age and older are at increased risk of anticholinergic adverse reactions that may lead to complications of urinary retention, bowel obstruction, heat prostration, arrhythmias, delirium, and falls or fractures.
+Glycopyrrolate is not recommended in geriatric patients and may be contraindicated in some geriatric patients with underlying medical conditions [see Contraindications (4), Warnings and Precautions (5.2, 5.5), Adverse Reactions (6) and Use in Specific Populations (8.5)].

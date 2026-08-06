@@ -1,13 +1,8 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Glycopyrrolate tablets contain the synthetic anticholinergic glycopyrrolate.
-Glycopyrrolate is a quaternary ammonium compound with the following chemical name:
+Glycopyrrolate tablets, USP contain synthetic anticholinergic glycopyrrolate.
+Glycopyrrolate is a quaternary ammonium compound with the following chemical name: 3-[(cyclopentylhydroxyphenylacetyl)oxy]-1,1-dimethylpyrrolidinium bromide.
+The molecular formula for glycopyrrolate is C19H28BrNO3, the molecular weight is 398.33 g/mol, and the structural formula is:
 
-3-[(cyclopentylhydroxyphenylacetyl)oxy]-1,1-dimethylpyrrolidinium bromide.
-Its empirical formula is C19H28BrNO3, its molecular weight is 398.33, and its structural formula is:
-
-Each 1 mg tablet contains: Glycopyrrolate, USP 1mg
-
-Each 2 mg tablet contains: Glycopyrrolate, USP 2mg
-
-Inactive Ingredients: Dibasic Calcium Phosphate, Lactose, Magnesium Stearate, Povidone, Sodium Starch Glycolate.
+Each glycopyrrolate tablets, USP contains glycopyrrolate, USP 1 mg or 2 mg, as the active ingredient.
+The inactive ingredients are dibasic calcium phosphate, lactose monohydrate, magnesium stearate, povidone, and sodium starch glycolate.

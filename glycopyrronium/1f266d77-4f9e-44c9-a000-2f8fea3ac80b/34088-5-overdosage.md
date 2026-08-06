@@ -1,8 +1,8 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-The symptoms of overdosage of glycopyrrolate are peripheral in nature rather than central.
+Signs and symptoms of glycopyrrolate overdosage are related to excessive anti-muscarinic anticholinergic activity and are generally peripheral (e.g., flushing, hyperthermia, tachycardia, ileus, urinary retention, loss of ocular accommodation, and light sensitivity due to mydriasis), but central nervous system toxicity (agitation, seizures, hyperthermia) may also occur.
 
-1. To guard against further absorption of the drug-use gastric lavage, cathartics and/or enemas.
-2. To combat peripheral anticholinergic effects (residual mydriasis, dry mouth, etc.)-utilize a quaternary ammonium anticholinesterase, such as neostigmine methylsulfate.
-3. To combat hypotension-use pressor amines (norepinephrine, metaraminol) i.v.; and supportive care.
-4. To combat respiratory depression-administer oxygen; utilize a respiratory stimulant such as Dopram® i.v.; artificial respiration.
+If over-exposure occurs, call the Poison Control Center at 1-800-222-1222 for current information on the management of glycopyrrolate poisoning and overdosage.
+
+Management of glycopyrrolate overdosage is based upon presenting signs and symptoms, including close observation for severe or life-threatening complications which may require respiratory and cardiovascular monitoring and support.
+Consider administration of activated charcoal and/or use of a reversible anticholinesterase as appropriate or recommended by Poison Control.

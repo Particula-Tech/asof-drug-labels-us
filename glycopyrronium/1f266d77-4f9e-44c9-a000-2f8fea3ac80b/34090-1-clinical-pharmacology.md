@@ -1,9 +1,16 @@
-# ACTIONS
+# 12 CLINICAL PHARMACOLOGY
 
-Glycopyrrolate, like other anticholinergic (antimuscarinic) agents, inhibits the action of acetylcholine on structures innervated by postganglionic cholinergic nerves and on smooth muscles that respond to acetylcholine but lack cholinergic innervation.
-These peripheral cholinergic receptors are present in the autonomic effector cells of smooth muscle, cardiac muscle, the sino-atrial node, the atrioventricular node, exocrine glands, and, to a limited degree, in the autonomic ganglia.
-Thus, it diminishes the volume and free acidity of gastric secretions and controls excessive pharyngeal, tracheal, and bronchial secretions.
+## 12.1 Mechanism of Action
 
-Glycopyrrolate antagonizes muscarinic symptoms (e.g., bronchorrhea, bronchospasm, bradycardia, and intestinal hypermotility) induced by cholinergic drugs such as the anticholinesterases.
+Glycopyrrolate, an anticholinergic (antimuscarinic) agent, inhibits the action of acetylcholine on parietal cells in the stomach and decreases the volume and acidity of gastric secretions.
 
-The highly polar quaternary ammonium group of glycopyrrolate limits its passage across lipid membranes, such as the blood-brain barrier, in contrast to atropine sulfate and scopolamine hydrobromide, which are non-polar tertiary amines which penetrate lipid barriers easily.
+## 12.2 Pharmacodynamics
+
+No formal pharmacodynamic studies have been conducted with glycopyrrolate.
+
+## 12.3 Pharmacokinetics
+
+Patients with Renal Impairment
+
+In the published literature, glycopyrrolate 4 mcg/kg was administered intravenously (glycopyrrolate tablets are not recommended for intravenous use) in uremic patients undergoing renal transplantation surgery.
+The mean AUC (10.6 mcg·h/L) and 24-hour urinary excretion (7%) for glycopyrrolate were significantly different from normal healthy adult subjects undergoing general surgery (3.7 mcg·h/L, and 65%, respectively) [see Use in Specific Populations (8.6)].

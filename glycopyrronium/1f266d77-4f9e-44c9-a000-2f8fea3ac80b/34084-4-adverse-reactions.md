@@ -1,7 +1,34 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions.
-Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations.
+The following serious or otherwise important adverse reactions are discussed elsewhere in the labeling:
 
-Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide.
-For this reason the occurrence of CNS related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily.
+- Precipitation of Acute Glaucoma [see Warnings and Precautions (5.1)]
+- Partial or Complete Mechanical Intestinal Obstruction [see Warnings and Precautions (5.2)]
+- Gastrointestinal Adverse Reactions due to Decreased Gastrointestinal Motility [see Warnings and Precautions (5.3)]
+- Cognitive and Visual Adverse Reactions [see Warnings and Precautions (5.4)]
+- Heat Prostration at High Environmental Temperatures [see Warnings and Precautions (5.5)]
+- Other Conditions Exacerbated by Anticholinergic Adverse Reactions [see Warnings and Precautions (5.6)]
+- Increased Risk of Anticholinergic Adverse Reactions in Geriatric Patients [see Warnings and Precautions (5.7)]
+
+The following adverse reactions associated with the use of glycopyrrolate, or other anticholinergic drugs, were identified in clinical studies or postmarketing reports.
+Because some of these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Cardiac Disorders: chest, pain, hypertension, tachycardia
+
+Endocrine Disorders: decreased sweating
+
+Eye Disorders: blurred vision, cycloplegia, dilatation of the pupil, increased ocular tension
+
+Gastrointestinal Disorders: bloated feeling, constipation, dry mouth, dysgeusia, nausea, vomiting
+
+Immune System Disorders: anaphylaxis [see Contraindications (4)]
+
+Nervous System Disorders: agitation, dizziness, drowsiness, headache, insomnia, mental confusion, nervousness, weakness
+
+Respiratory Disorders: respiratory depression, throat irritation
+
+Renal and Urinary Disorders: urinary hesitancy, urinary retention
+
+Reproductive System and Breast Disorders: impotence, suppression of lactation
+
+Vascular Disorders: flushing
