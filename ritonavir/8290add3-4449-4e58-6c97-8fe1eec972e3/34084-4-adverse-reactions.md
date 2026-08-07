@@ -223,13 +223,21 @@ Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% Pediatric Patients in Stud
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported during postmarketing use of KALETRA.
-Because these reactions are reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to KALETRA exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to KALETRA exposure.
 
-Body as a Whole Redistribution/accumulation of body fat has been reported [see Warnings and Precautions (5.10)].
+Body as a Whole
 
-Cardiovascular Bradyarrhythmias.
+Redistribution/accumulation of body fat has been reported [see Warnings and Precautions (5.10)].
+
+Cardiovascular
+
+Bradyarrhythmias.
 First-degree AV block, second-degree AV block, third-degree AV block, QTc interval prolongation, torsades (torsade) de pointes [see Warnings and Precautions (5.5, 5.6)].
 
-Renal and Urinary Disorders Nephrolithiasis
+Renal and Urinary Disorders
 
-Skin and Appendages Toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome and erythema multiforme.
+Nephrolithiasis
+
+Skin and Appendages
+
+Toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome and erythema multiforme.

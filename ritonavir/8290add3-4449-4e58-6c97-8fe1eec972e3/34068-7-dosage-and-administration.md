@@ -3,7 +3,8 @@
 ## 2.1 General Administration Recommendations
 
 KALETRA tablets may be taken with or without food.
-The tablets should be swallowed whole and not chewed, broken, or crushed.
+Swallow KALETRA tablets whole.
+Do not chew, break, or crush KALETRA tablets.
 KALETRA oral solution must be taken with food.
 
 ## 2.2 Administering Oral Solution by Feeding Tube
@@ -14,7 +15,7 @@ Follow instructions for use of the feeding tube to administer the medicine.
 
 ## 2.3 Dosage Recommendations in Adults
 
-KALETRA can be given in once daily or twice daily dosing regimen at dosages noted in Tables 1 and 2.
+Give KALETRA in once daily or twice daily dosing regimen at dosages noted in Tables 1 and 2.
 KALETRA once daily dosing regimen is not recommended in:
 
 - Adult patients with three or more of the following lopinavir resistance-associated substitutions: L10F/I/R/V, K20M/N/R, L24I, L33F, M36I, I47V, G48V, I54L/T/V, V82A/C/F/S/T, and I84V [see Microbiology (12.4)].
@@ -39,7 +40,7 @@ Recommended Dosage in Adults - KALETRA Twice Daily Regimen
 | 200 mg/50 mg Tablets | 400 mg/100 mg (2 tablets) twice daily |
 | 80 mg/20 mg per mL Oral Solution | 400 mg/100 mg (5 mL) twice daily |
 
-The dose of KALETRA must be increased when administered in combination with efavirenz, nevirapine or nelfinavir.
+Increase the dose of KALETRA when administered in combination with efavirenz, nevirapine or nelfinavir.
 Table 3 outlines the dosage recommendations for twice daily dosing when KALETRA is taken in combination with these agents.
 
 Table 3.
@@ -53,7 +54,7 @@ Recommended Dosage in Adults - KALETRA Twice Daily Regimen in Combination with E
 ## 2.4 Dosage Recommendations in Pediatric Patients
 
 KALETRA tablets and oral solution are not recommended for once daily dosing in pediatric patients younger than 18 years of age.
-The dose of the oral solution should be administered using the calibrated cup (supplied) or oral dosing syringe.
+Administer the dose of the oral solution using the calibrated cup (supplied) or oral dosing syringe.
 KALETRA 100/25 mg tablets should be considered only in children who have reliably demonstrated the ability to swallow the intact tablet.
 
 KALETRA oral solution is not recommended in neonates before a postmenstrual age (first day of the mother’s last menstrual period to birth plus the time elapsed after birth) of 42 weeks and a postnatal age of at least 14 days has been attained [see Warnings and Precautions (5.2)].
@@ -77,7 +78,7 @@ Based on BSA:
 
 Patient BSA (m2) × Prescribed lopinavir dose (mg/m2) = Administered lopinavir dose (mg)
 
-If KALETRA oral solution is used, the volume (mL) of KALETRA solution can be determined as follows:
+The KALETRA oral solution volume (mL) can be determined as follows:
 
 Volume of KALETRA solution (mL) = Administered lopinavir dose (mg) ÷ 80 (mg/mL)
 
@@ -86,7 +87,7 @@ Oral Solution Dosage Recommendation in Pediatric Patients 14 Days to Less Than 1
 Table 4 summarizes the recommended daily dosing regimen for pediatric patients 14 days to less than 18 years of age using the oral solution.
 
 KALETRA administered in combination with efavirenz, nevirapine, or nelfinavir in patients younger than 6 months of age is not recommended.
-Total dose of KALETRA oral solution in pediatric patients should not exceed the recommended adult daily dose of 400/100 mg (5mL) twice daily.
+Do not exceed the recommended adult daily dose of 400/100 mg (5mL) twice daily in pediatric patients.
 
 Table 4.
 KALETRA Oral Solution Daily Dosage Recommendations in Pediatric Patients 14 days to Less Than 18 Years Without Concomitant Efavirenz, Nevirapine, or Nelfinavir
@@ -94,7 +95,7 @@ KALETRA Oral Solution Daily Dosage Recommendations in Pediatric Patients 14 days
 | Patient Age | Based on Weight (mg/kg) |  | Based on BSA (mg/m2) | Frequency |
 | --- | --- | --- | --- | --- |
 | 14 days to 6 months | 16/4 |  | 300/75 | Given twice daily |
-| Older than 6 months to less than 18 years | Less than15 kg | 12/3 | 230/57.5 | Given twice daily |
+| Older than 6 months to less than 18 years | Less than 15 kg | 12/3 | 230/57.5 | Given twice daily |
 |  | 15 kg to 40 kg | 10/2.5 |  |  |
 
 Tablet Dosage Recommendation in Pediatric Patients Older than 6 Months to Less than 18 Years:

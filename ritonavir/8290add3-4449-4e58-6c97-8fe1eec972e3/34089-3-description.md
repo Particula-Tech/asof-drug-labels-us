@@ -18,17 +18,11 @@ Ritonavir has the following structural formula:
 
 KALETRA tablets are available for oral administration in two strengths:
 
-- Yellow or red tablets containing 200 mg of lopinavir and 50 mg of ritonavir
-- Pale yellow or pink tablets containing 100 mg of lopinavir and 25 mg of ritonavir.
-
-The yellow, 200 mg lopinavir and 50 mg ritonavir, tablets contain the following inactive ingredients: colloidal silicon dioxide, copovidone, sodium stearyl fumarate and sorbitan monolaurate.
-The following are the ingredients in the film coating: colloidal silicon dioxide, hydroxypropyl cellulose, hypromellose, polyethylene glycol 400, polyethylene glycol 3350, polysorbate 80, talc, titanium dioxide, and yellow ferric oxide E172.
+- Red tablets containing 200 mg of lopinavir and 50 mg of ritonavir
+- Pink tablets containing 100 mg of lopinavir and 25 mg of ritonavir.
 
 The red, 200 mg lopinavir and 50 mg ritonavir, tablets contain the following inactive ingredients: colloidal silicon dioxide, copovidone, sodium stearyl fumarate and sorbitan monolaurate.
 The following are the ingredients in the film coating: colloidal silicon dioxide, hydroxypropyl cellulose, hypromellose, polyethylene glycol 400, polyethylene glycol 3350, polysorbate 80, talc, titanium dioxide, and red ferric oxide E172.
-
-The pale yellow, 100 mg lopinavir and 25 mg ritonavir, tablets contain the following inactive ingredients: colloidal silicon dioxide, copovidone, sodium stearyl fumarate, and sorbitan monolaurate.
-The following are the ingredients in the film coating: polyethylene glycol 3350, polyvinyl alcohol, talc, titanium dioxide, and yellow ferric oxide E172.
 
 The pink, 100 mg lopinavir and 25 mg ritonavir, tablets contain the following inactive ingredients: colloidal silicon dioxide, copovidone, sodium stearyl fumarate, and sorbitan monolaurate.
 The following are the ingredients in the film coating: polyethylene glycol 3350, polyvinyl alcohol, talc, titanium dioxide, and red ferric oxide E172.

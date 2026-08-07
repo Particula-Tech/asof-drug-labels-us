@@ -73,7 +73,7 @@ Lopinavir Pharmacokinetic Data from Pediatric Clinical Trials, Mean ± SD
 | Age ≥ 6 Months to ≤ 12 years Cohort (N = 24): |  |  |
 | 8.2 ± 2.9b | 3.4 ± 2.1b | 72.6 ± 31.1b |
 | 10.0 ± 3.3c | 3.6 ± 3.5c | 85.8 ± 36.9c |
-| KALETRA oral solution300/75 mg/m2 twice daily without concomitant NNRTI therapy KALETRA oral solution 230/57.5 mg/m2 twice daily without nevirapine (n=12) KALETRA oral solution 300/75 mg/m2 twice daily with nevirapine (n=12) |  |  |
+| KALETRA oral solution 300/75 mg/m2 twice daily without concomitant NNRTI therapy KALETRA oral solution 230/57.5 mg/m2 twice daily without nevirapine (n=12) KALETRA oral solution 300/75 mg/m2 twice daily with nevirapine (n=12) |  |  |
 
 Pregnancy
 
