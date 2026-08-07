@@ -7,7 +7,7 @@ Protect from moisture.
 
 Dispense in a tight container.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Endo at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Par Health at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Manufactured for: Endo USA Malvern, PA 19355 U.S.A. Made in India Neutral Code: TN/DRUGS/TN00002121 © 2024 Endo, Inc. or one of its affiliates.
-OS2000-01-74-02 Revised: 08/2024
+Manufactured for: Par Health USA Woodcliff Lake, NJ 07677 U.S.A. Product of India Made in India Neutral Code: TN/DRUGS/TN00002121 © 2026 Par Health, Inc. or one of its affiliates.
+OS2000-01-74-04 Revised: 06/2026

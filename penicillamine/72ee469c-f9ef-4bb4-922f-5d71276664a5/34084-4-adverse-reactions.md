@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-To report SUSPECTED ADVERSE REACTIONS, contact Endo at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Par Health at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 Penicillamine is a drug with a high incidence of untoward reactions, some of which are potentially fatal.
 Therefore, it is mandatory that patients receiving penicillamine therapy remain under close medical supervision throughout the period of drug administration (see WARNINGS and PRECAUTIONS).
