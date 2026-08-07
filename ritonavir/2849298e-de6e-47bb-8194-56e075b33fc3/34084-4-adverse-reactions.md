@@ -120,7 +120,7 @@ The following Grade 3-4 laboratory abnormalities occurred in greater than 3% of 
 ## 6.2 Postmarketing Experience
 
 The following adverse events (not previously mentioned in the labeling) have been reported during post-marketing use of NORVIR.
-Because these reactions are reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to NORVIR exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to NORVIR exposure.
 
 Body as a Whole
 

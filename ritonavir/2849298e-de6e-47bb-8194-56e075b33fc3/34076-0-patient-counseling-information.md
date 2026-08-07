@@ -76,5 +76,7 @@ NORVIR tablets are manufactured by: AbbVie Inc. North Chicago, IL 60064 USA
 
 NORVIR oral powder is manufactured for: AbbVie Inc. North Chicago, IL 60064 USA
 
-© 2024 AbbVie Inc. All rights reserved.
-20086922 R1
+NORVIR and its design are trademarks of AbbVie Inc.
+
+© 2026 AbbVie Inc. All rights reserved.
+20098856

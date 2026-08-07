@@ -25,8 +25,6 @@ Absorption
 The absolute bioavailability of ritonavir has not been determined.
 After a 100 mg tablet dose of NORVIR, peak concentrations of ritonavir were achieved approximately 3 hours and 4 hours after dosing under fasting conditions and moderate-fat (857 KCal; 31% fat, 13% protein, and 56% carbohydrate) meal, respectively.
 
-After administration of a single 100 mg dose under fed conditions (approximately 600 Kcal, 30% calories from fat), NORVIR oral powder showed 23% higher exposure compared to the tablet.
-
 Effect of Food on Oral Absorption
 
 The bioavailability of NORVIR tablet and oral powder is decreased under fed conditions as compared to fasted conditions.
