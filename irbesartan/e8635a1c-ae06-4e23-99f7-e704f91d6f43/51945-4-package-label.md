@@ -4,7 +4,7 @@ Irbesartan Tablets USP, 75 mg
 
 90 Tablets NDC 33342-047-10 Rx only Macleods Pharmaceuticals Ltd. (Daman)
 
-Irbesartan Tablets USP, 75 mg
+Irbesartan Tablets USP,75 mg
 
 90 Tablets NDC 33342-047-10 Rx only Macleods Pharmaceuticals Ltd. (Pithampur)
 
@@ -16,10 +16,6 @@ Irbesartan Tablets USP, 150 mg
 
 90 Tablets NDC 33342-048-10 Rx only Macleods Pharmaceuticals Ltd. (Pithampur)
 
-Irbesartan Tablets USP, 150 mg
-
-90 Tablets NDC 33342-048-10 Rx only Macleods Pharmaceuticals Ltd. (Legacy)
-
 Irbesartan Tablets USP, 300 mg
 
 90 Tablets NDC 33342-049-10 Rx only Macleods Pharmaceuticals Ltd. (Daman)
@@ -27,10 +23,6 @@ Irbesartan Tablets USP, 300 mg
 Irbesartan Tablets USP, 300 mg
 
 90 Tablets NDC 33342-049-10 Rx only Macleods Pharmaceuticals Ltd. (Pithampur)
-
-Irbesartan Tablets USP, 300 mg
-
-90 Tablets NDC 33342-049-10 Rx only Macleods Pharmaceuticals Ltd. (Legacy)
 
 Irbesartan Tablets USP, 75 mg
 
