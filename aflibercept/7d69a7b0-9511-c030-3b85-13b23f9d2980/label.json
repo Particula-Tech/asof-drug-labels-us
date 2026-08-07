@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761274"
+  ],
+  "inn": "aflibercept",
+  "labeler": "Biocon Biologics Inc.",
+  "package_ndcs": [
+    "83257-035-41"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "aflibercept-jbvf",
+      "name": "YESAFILI"
+    }
+  ],
+  "setid": "7d69a7b0-9511-c030-3b85-13b23f9d2980",
+  "source": "dailymed"
+}
