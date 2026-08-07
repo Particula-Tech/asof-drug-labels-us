@@ -16,7 +16,7 @@ Advise patients to inform physicians and dentists that they are taking BRILINTA 
 
 Advise women that breastfeeding is not recommended during treatment with BRILINTA [see Use in Specific Populations (8.2)].
 
-BRILINTA® is a trademark of the AstraZeneca group of companies.
+BRILINTA® is a registered trademark of the AstraZeneca group of companies.
 
 Distributed by: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 

@@ -130,7 +130,7 @@ Figure 4 – Time course of GUSTO severe bleeding events
 
 KM%: Kaplan-Meier percentage evaluated at Day 30; T = Ticagrelor; P = placebo; N = Number of patients
 
-GUSTO Severe: Any one of the following: fatal bleeding, intracranial bleeding (excluding asymptomatic hemorrhagic transformations of ischemic brain infarctions and excluding microhemorrhages < 10 mm evident only on gradient-echo magnetic resonance imaging), bleeding that caused hemodynamic compromise requiring intervention (e.g., systolic blood pressure <90 mmg Hg that required blood or fluid replacement, or vasopressor/inotropic support, or surgical intervention).
+GUSTO Severe: Any one of the following: fatal bleeding, intracranial bleeding (excluding asymptomatic hemorrhagic transformations of ischemic brain infarctions and excluding microhemorrhages < 10 mm evident only on gradient-echo magnetic resonance imaging), bleeding that caused hemodynamic compromise requiring intervention (e.g., systolic blood pressure <90 mg Hg that required blood or fluid replacement, or vasopressor/inotropic support, or surgical intervention).
 
 Intracranial bleeding and fatal bleeding in THALES: In total, there were 21 intracranial hemorrhages (ICHs) for BRILINTA and 6 ICHs for placebo.
 Fatal bleedings, almost all ICH, occurred in 11 for BRILINTA and in 2 for placebo.

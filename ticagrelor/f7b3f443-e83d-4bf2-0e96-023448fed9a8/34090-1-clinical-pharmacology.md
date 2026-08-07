@@ -102,7 +102,7 @@ Effects of BRILINTA on Other Drugs
 In vitro metabolism studies demonstrate that ticagrelor and its major active metabolite are weak inhibitors of CYP3A4, potential activators of CYP3A5 and inhibitors of the P-gp transporter.
 In vitro metabolism studies demonstrate that ticagrelor is a BCRP inhibitor.
 Ticagrelor and AR-C124910XX were shown to have no inhibitory effect on human CYP1A2, CYP2C19, and CYP2E1 activity.
-For specific in vivo effects on the pharmacokinetics of simvastatin, atorvastatin, ethinyl estradiol, levonorgesterol, tolbutamide, digoxin and cyclosporine, see Figure 9.
+For specific in vivo effects on the pharmacokinetics of simvastatin, atorvastatin, ethinyl estradiol, levonorgestrel, tolbutamide, digoxin and cyclosporine, see Figure 9.
 
 Figure 9 - Impact of BRILINTA on the pharmacokinetics of co-administered drugs
 
