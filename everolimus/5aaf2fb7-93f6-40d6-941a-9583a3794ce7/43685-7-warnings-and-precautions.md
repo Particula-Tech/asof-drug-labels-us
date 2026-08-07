@@ -8,7 +8,7 @@ The incidence of Grade 3 and 4 non-infectious pneumonitis was up to 4% and up to
 Fatal outcomes have been observed.
 
 Consider a diagnosis of non-infectious pneumonitis in patients presenting with non-specific respiratory signs and symptoms.
-Consider opportunistic infections such as pneumocystis jiroveci pneumonia (PJP) in the differential diagnosis.
+Consider opportunistic infections, such as pneumocystis jiroveci pneumonia (PJP) in the differential diagnosis.
 Advise patients to report promptly any new or worsening respiratory symptoms.
 
 Continue Everolimus without dose alteration in patients who develop radiological changes suggestive of non-infectious pneumonitis and have few or no symptoms.

@@ -2,7 +2,7 @@
 
 ## 14.3 Renal Cell Carcinoma (RCC)
 
-An international, multi-center, randomized, double-blind trial (RECORD-1, NCT00410124) comparing Everolimus 10 mg once daily and placebo, both in conjunction with BSC, was conducted in patients with metastatic RCC whose disease had progressed despite prior treatment with sunitinib, sorafenib, or both sequentially.
+An international, multicenter, randomized, double-blind trial (RECORD-1, NCT00410124) comparing Everolimus 10 mg once daily and placebo, both in conjunction with BSC, was conducted in patients with metastatic RCC whose disease had progressed despite prior treatment with sunitinib, sorafenib, or both sequentially.
 Prior therapy with bevacizumab, interleukin 2, or interferon-α was also permitted.
 Randomization was stratified according to prognostic score and prior anticancer therapy.
 The major efficacy outcome measure for the trial was PFS evaluated by RECIST, based on a blinded, independent, central radiologic review.
@@ -12,12 +12,12 @@ Other outcome measures included OS.
 In total, 416 patients were randomized 2:1 to receive Everolimus (n=277) or placebo (n=139).
 Demographics were well balanced between the arms (median age 61 years; 77% male, 88% white, 74% received prior sunitinib or sorafenib, and 26% received both sequentially).
 
-Everolimus was superior to placebo for PFS (Table 23 and Figure 4).
+Everolimus was superior to placebo for PFS (Table 24 and Figure 4).
 The treatment effect was similar across prognostic scores and prior sorafenib and/or sunitinib.
 Final OS results yield a hazard ratio of 0.90 (95% CI: 0.71, 1.14), with no statistically significant difference between the arms.
 Planned cross-over from placebo due to disease progression to open-label Everolimus occurred in 80% of the 139 patients and may have confounded the OS benefit.
 
-Table 23: Progression-Free Survival and Objective Response Rate by Central Radiologic Review in RCC in RECORD-1
+Table 24: Progression-Free Survival and Objective Response Rate by Central Radiologic Review in RCC in RECORD-1
 
 |  | Everolimus N = 277 | Placebo N = 139 | Hazard Ratio (95% CI) | p-valueLog-rank test stratified by prognostic score. |
 | --- | --- | --- | --- | --- |
@@ -44,18 +44,18 @@ The median values for the sum of all target renal angiomyolipoma lesions at base
 Forty-six (39%) patients had prior renal embolization or nephrectomy.
 The median duration of follow-up was 8.3 months (0.7 to 24.8 months) at the time of the primary analysis.
 
-The renal angiomyolipoma response rate was statistically significantly higher in Everolimus-treated patients (Table 24).
+The renal angiomyolipoma response rate was statistically significantly higher in Everolimus-treated patients (Table 25).
 The median response duration was 5.3+ months (2.3+ to 19.6+ months).
 
 There were 3 patients in the Everolimus arm and 8 patients in the placebo arm with documented angiomyolipoma progression by central radiologic review (defined as a ≥ 25% increase from nadir in the sum of angiomyolipoma target lesion volumes to a value greater than baseline, appearance of a new angiomyolipoma ≥ 1 cm in longest diameter, an increase in renal volume ≥ 20% from nadir for either kidney and to a value greater than baseline, or Grade ≥ 2 angiomyolipoma-related bleeding).
 The time to angiomyolipoma progression was statistically significantly longer in the Everolimus arm (HR 0.08 [95% CI: 0.02, 0.37]; p < 0.0001).
 
-Table 24: Angiomyolipoma Response Rate in TSC-Associated Renal Angiomyolipoma in EXIST-2
+Table 25: Angiomyolipoma Response Rate in TSC-Associated Renal Angiomyolipoma in EXIST-2
 
 |  | EverolimusN = 79 | PlaceboN = 39 | p-value |
 | --- | --- | --- | --- |
 | Primary analysis |  |  |  |
-| Angiomyolipoma response ratePer independent central radiology review. – % 95% CI | 41.8(30.8, 53.4) | 0(0.0, 9.0) | <0.0001 |
+| Angiomyolipoma response ratePer independent central radiology review. – (%) 95% CI | 41.8(30.8, 53.4) | 0(0.0, 9.0) | <0.0001 |
 
 Skin lesion response rates were assessed by local investigators for 77 patients in the Everolimus arm and 37 patients in the placebo arm who presented with skin lesions at study entry.
 The skin lesion response rate was statistically significantly higher in the Everolimus arm (26% vs. 0, p = 0.0011); all skin lesion responses were partial responses, defined as visual improvement in 50% to 99% of all skin lesions durable for at least 8 weeks (Physician's Global Assessment of Clinical Condition).

@@ -11,7 +11,7 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - •Impaired Wound Healing [see Warnings and Precautions (5.7)].
 - •Metabolic Disorders [see Warnings and Precautions(5.9)].
 - •Myelosuppression [seeWarnings and Precautions(5.10)].
-- •Radiation Sensitization and Radiation Recall [see Warnings and Precautions (6.2)].
+- •Radiation Sensitization and Radiation Recall [see Warnings and Precautions (5.12)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -32,14 +32,14 @@ The most common adverse reactions leading to treatment discontinuation were pneu
 Infections, stomatitis, and pneumonitis were the most common reasons for treatment delay or dose reduction.
 The most common medical interventions required during Everolimus treatment were for infections, anemia, and stomatitis.
 
-Adverse reactions reported with an incidence of ≥ 10% for patients receiving Everolimus vs. placebo are presented in Table 12.
-Laboratory abnormalities are presented in Table 13.
+Adverse reactions reported with an incidence of ≥ 10% for patients receiving Everolimus vs. placebo are presented in Table 13.
+Laboratory abnormalities are presented in Table 14.
 
-Table 12: Adverse Reactions Reported in ≥ 10% of Patients with RCC and at a Higher Rate in the Everolimus Arm than in the Placebo Arm in RECORD-1
+Table 13: Adverse Reactions Reported in ≥ 10% of Patients with RCC and at a Higher Rate in the Everolimus Arm than in the Placebo Arm in RECORD-1
 
 |  |  | Everolimus N = 274 |  | Placebo N = 137 |  |
 | --- | --- | --- | --- | --- | --- |
-|  | All Grades |  | Grades 3-4 | All Grades | Grades 3-4 |
+|  | All Grades |  | Grade 3-4 | All Grades | Grade 3-4 |
 |  |  | % | % | % | % |
 | Gastrointestinal |  |  |  |  |  |
 | StomatitisStomatitis (including aphthous stomatitis), and mouth and tongue ulceration. |  | 44 | 4 | 8 | 0 |
@@ -87,7 +87,7 @@ Other notable adverse reactions occurring more frequently with Everolimus than w
 12. Musculoskeletal and Connective Tissue: Jaw pain (3%)
 13. Hematologic: Hemorrhage (3%)
 
-Table 13: Selected Laboratory Abnormalities Reported in Patients with RCC at a Higher Rate in the Everolimus Arm Than the Placebo Arm in RECORD-1
+Table 14: Selected Laboratory Abnormalities Reported in Patients with RCC at a Higher Rate in the Everolimus Arm Than the Placebo Arm in RECORD-1
 
 | Laboratory Parameter | Everolimus N = 274 |  | Placebo N = 137 |  |
 | --- | --- | --- | --- | --- |
@@ -125,18 +125,18 @@ Adverse reactions leading to permanent discontinuation in the Everolimus arm wer
 Dose adjustments (interruptions or reductions) due to adverse reactions occurred in 52% of Everolimus-treated patients.
 The most common adverse reaction leading to Everolimus dose adjustment was stomatitis.
 
-Adverse reactions reported with an incidence of ≥ 10% for patients receiving Everolimus and occurring more frequently with Everolimus than with placebo are presented in Table 14.
-Laboratory abnormalities are presented in Table 15.
+Adverse reactions reported with an incidence of ≥ 10% for patients receiving Everolimus and occurring more frequently with Everolimus than with placebo are presented in Table 15.
+Laboratory abnormalities are presented in Table 16.
 
-Table 14: Adverse Reactions Reported in ≥ 10% of Everolimus-Treated Patients with TSC-Associated Renal Angiomyolipoma in EXIST-2
+Table 15: Adverse Reactions Reported in ≥ 10% of Everolimus-Treated Patients with TSC-Associated Renal Angiomyolipoma in EXIST-2
 
 |  | EverolimusN = 79 |  | PlaceboN = 39 |  |
 | --- | --- | --- | --- | --- |
 |  | All Grades | Grade 3-4 | All Grades | Grade 3-4 |
 |  | % | % | % | % |
 | Gastrointestinal |  |  |  |  |
-| Stomatitis | 78 | 6No Grade 4 adverse reactions were reported | 23 | 0 |
-| Includes stomatitis, aphthous stomatitis, mouth ulceration, gingival pain, glossitis, and glossodynia. Vomiting | 15 | 0 | 5 | 0 |
+| StomatitisIncludes stomatitis, aphthous stomatitis, mouth ulceration, gingival pain, glossitis, and glossodynia. | 78 | 6No Grade 4 adverse reactions were reported. | 23 | 0 |
+| Vomiting | 15 | 0 | 5 | 0 |
 | Diarrhea | 14 | 0 | 5 | 0 |
 | General |  |  |  |  |
 | Peripheral edema | 13 | 0 | 8 | 0 |
@@ -155,7 +155,7 @@ Other adverse reactions involving the female reproductive system were menorrhagi
 
 The following additional adverse reactions occurred in less than 10% of Everolimus-treated patients: epistaxis (9%), decreased appetite (6%), otitis media (6%), depression (5%), abnormal taste (5%), increased blood luteinizing hormone (LH) levels (4%), increased blood follicle stimulating hormone (FSH) levels (3%), hypersensitivity (3%), ovarian cyst (3%), pneumonitis (1%), and angioedema (1%).
 
-Table 15: Selected Laboratory Abnormalities Reported in Everolimus-Treated Patients with TSC-Associated Renal Angiomyolipoma in EXIST-2
+Table 16: Selected Laboratory Abnormalities Reported in Everolimus-Treated Patients with TSC-Associated Renal Angiomyolipoma in EXIST-2
 
 |  | EverolimusN = 79 |  | PlaceboN = 39 |  |
 | --- | --- | --- | --- | --- |

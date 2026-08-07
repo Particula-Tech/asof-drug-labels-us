@@ -37,7 +37,7 @@ Symptoms of hepatitis B or infection may include the following:
 - •Yellowing of the skin
 - •Pain in the upper right side of the stomach
 - 3.Severe allergic reactions.
-  Call your healthcare provider or get medical help right away if you get signs and symptoms of a severe allergic reaction including: rash, itching, hives, flushing, trouble breathing or swallowing, chest pain or dizziness.
+  Call your healthcare provider or get medical help right away if you get signs and symptoms of a severe allergic reaction, including: rash, itching, hives, flushing, trouble breathing or swallowing, chest pain or dizziness.
 - 4.Possible increased risk for a type of allergic reaction called angioedema, in people who take an Angiotensin-Converting Enzyme (ACE) inhibitor medicine during treatment with Everolimus Tablets.
   Talk with your healthcare provider before taking Everolimus Tablets if you are not sure if you take an ACE inhibitor medicine.
   Get medical help right away if you have trouble breathing or develop swelling of your tongue, mouth, or throat during treatment with Everolimus Tablets.
@@ -46,7 +46,7 @@ Symptoms of hepatitis B or infection may include the following:
   When you start treatment with everolimus, your healthcare provider may tell you to also start a prescription mouthwash to reduce the likelihood of getting mouth ulcers or sores and to reduce their severity.
   Follow your healthcare provider’s instructions on how to use this prescription mouthwash.
   If you develop pain, discomfort, or open sores in your mouth, tell your healthcare provider.
-  Your healthcare provider may tell you to re-start this mouthwash or to use a special mouthwash or mouth gel that does not contain alcohol, peroxide, iodine, or thyme.
+  Your healthcare provider may tell you to restart this mouthwash or to use a special mouthwash or mouth gel that does not contain alcohol, peroxide, iodine, or thyme.
 - 6.You may develop kidney failure.
   In some people this may be severe and can lead to death.
   Your healthcare provider should do tests to check your kidney function before and during your treatment with Everolimus Tablets.
@@ -58,7 +58,7 @@ What are Everolimus Tablets?
 
 Everolimus Tablets are a prescription medicine used to treat:
 
-- •Adults with advanced kidney cancer (renal cell carcinoma or RCC) when certain other medicines have not worked.
+- •adults with advanced kidney cancer (renal cell carcinoma or RCC) when certain other medicines have not worked.
 - •people with the following types of tumors that are seen with a genetic condition called tuberous sclerosis complex (TSC):
   - oadults with a kidney tumor called angiomyolipoma, when their kidney tumor does not require surgery right away.
 
@@ -113,6 +113,7 @@ Especially tell your healthcare provider if you take:
 
 - •St.
   John’s Wort (Hypericum perforatum)
+- •Cannabidiol oral solution
 - •Medicine for:
 - oFungal infections
 - oBacterial infections
@@ -131,6 +132,8 @@ How should I take Everolimus Tablets?
 - •Your healthcare provider will prescribe the dose of Everolimus Tablets that is right for you.
 - •Take Everolimus Tablets exactly as your healthcare provider tells you to.
 - •Your healthcare provider may change your dose of Everolimus Tablets or tell you to temporarily interrupt dosing, if needed.
+- •Take only Everolimus Tablets or Everolimus Tablets for Oral Suspension.
+  Do not mix Everolimus Tablets and Everolimus Tablets for Oral Suspension together.
 - •Use scissors to open the blister pack.
 - •Take Everolimus Tablets 1 time each day at about the same time.
 - •Take Everolimus Tablets the same way each time, either with food or without food.
@@ -171,17 +174,8 @@ Everolimus Tablets can cause serious side effects, including:
 
 The most common side effects of Everolimus Tablets in people with advanced kidney cancer include:
 
-- •Infections
-- •Rash
-- •Feeling weak or tired
-- •Diarrhea
-- •Swelling of arms, hands, feet, ankles, face, or other parts of the body
-- •Stomach-area (abdominal) pain
-- •Nausea
-- •Fever
-- •Cough
-- •Headache
-- •Decreased appetite
+| •Infections•Rash•Feeling weak or tired•Diarrhea•Swelling of arms, hands, feet, ankles, face, or other parts of the body | •Stomach-area (abdominal) pain•Nausea •Fever •Cough•Headache•Decreased appetite |
+| --- | --- |
 
 The most common side effects of Everolimus Tablets in people who have renal angiomyolipoma with TSC include respiratory tract infections.
 
@@ -242,4 +236,4 @@ Berkeley Heights, NJ 07922
 
 C50001080
 
-Revised April 2024
+Revised June 2026

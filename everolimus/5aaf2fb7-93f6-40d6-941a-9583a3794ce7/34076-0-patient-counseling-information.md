@@ -12,7 +12,7 @@ Advise patients that they are more susceptible to infections and that they shoul
 
 Hypersensitivity Reactions
 
-Advise patients of the risk of clinically significant hypersensitivity reactions and to promptly contact their healthcare provider or seek emergency care for signs of hypersensitivity reaction including rash, itching, hives, difficulty breathing or swallowing, flushing, chest pain, or dizziness [seeContraindications (4), Warnings and Precautions (5.3)].
+Advise patients of the risk of clinically significant hypersensitivity reactions and to promptly contact their healthcare provider or seek emergency care for signs of hypersensitivity reaction, including rash, itching, hives, difficulty breathing or swallowing, flushing, chest pain, or dizziness [seeContraindications (4), Warnings and Precautions (5.3)].
 
 Angioedema with Concomitant Use of ACE Inhibitors
 
@@ -53,7 +53,7 @@ Advise males with female partners of reproductive potential to use effective con
 Radiation Sensitization and Radiation Recall
 
 Radiation sensitization and recall can occur in patients treated with radiation prior to, during, or subsequent to everolimus treatment.
-Advise patients to inform their health care provider if they have had or are planning to receive radiation therapy [see Warning and Precautions (5.12)].
+Advise patients to inform their healthcare provider if they have had or are planning to receive radiation therapy [see Warnings and Precautions (5.12)].
 
 Lactation
 
@@ -71,4 +71,4 @@ Berkeley Heights, NJ 07922
 
 C50001080
 
-Revised April 2024
+Revised June 2026

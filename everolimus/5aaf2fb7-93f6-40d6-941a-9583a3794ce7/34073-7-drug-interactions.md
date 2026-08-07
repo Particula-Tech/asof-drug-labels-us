@@ -2,15 +2,22 @@
 
 ## 7.1 Effect of Other Drugs on Everolimus
 
-Inhibitors
+Strong or Moderate CYP3A Inhibitor and P-gp Inhibitor
 
-Avoid the concomitant use of P-gp and strong CYP3A4 inhibitors [see Dosage and Administration (2.11), Clinical Pharmacology (12.3)].
+Avoid the coadministration of a strong CYP3A inhibitor and P-gp inhibitor [see Dosage and Administration (2.11), Clinical Pharmacology (12.3)].
 
-Reduce the dose for patients taking Everolimus with a P-gp and moderate CYP3A4 inhibitor as recommended [see Dosage and Administration (2.11), Clinical Pharmacology (12.3)].
+Reduce the dosage for Everolimus with a moderate CYP3A inhibitor and P-gp inhibitor as recommended [see Dosage and Administration (2.11), Clinical Pharmacology (12.3)].
 
-Inducers
+Cannabidiol Oral Solution
 
-Increase the dose for patients taking Everolimus with a P-gp and strong CYP3A4 inducer as recommended [see Dosage and Administration (2.12), Clinical Pharmacology (12.3)].
+Reduce the dosage of Everolimus when coadministered with cannabidiol oral solution [see Dosage and Administration (2.11)].
+
+Coadministration with cannabidiol oral solution increases everolimus exposure [see Clinical Pharmacology (12.3)], which may increase the risk of everolimus adverse reactions.
+The effects of other cannabidiol products on everolimus exposure are unknown.
+
+Strong CYP3A Inducer and P-gp Inducer
+
+Increase the dosage for Everolimus with a strong CYP3A inducer and P-gp inducer as recommended [see Dosage and Administration (2.11), Clinical Pharmacology (12.3)].
 
 ## 7.2 Effects of Combination Use of Angiotensin Converting Enzyme (ACE) Inhibitors
 

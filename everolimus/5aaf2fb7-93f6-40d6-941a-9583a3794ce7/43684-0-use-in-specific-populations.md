@@ -20,7 +20,7 @@ In rabbits, embryo-toxicity evident as an increase in resorptions occurred at an
 The effect in rabbits occurred in the presence of maternal toxicities.
 
 In a pre- and post-natal development study in rats, animals were dosed from implantation through lactation.
-At the dose of ≥0.1 mg/kg (0.6 mg/m2), there were no adverse effects on delivery and lactation or signs of maternal toxicity; however, there were reductions in body weight (up to 9% reduction from the control) and in survival of offspring (~5% died or missing).
+At the dose of 0.1 mg/kg (0.6 mg/m2), there were no adverse effects on delivery and lactation or signs of maternal toxicity; however, there were reductions in body weight (up to 9% reduction from the control) and in survival of offspring (~5% died or missing).
 There were no drug-related effects on the developmental parameters (morphological development, motor activity, learning, or fertility assessment) in the offspring.
 
 ## 8.2 Lactation

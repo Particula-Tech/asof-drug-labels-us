@@ -37,4 +37,4 @@ Store at 20° to 25°C (68° to 77°F).
 
 Store in the original container; protect from light and moisture.
 
-Follow special handling and disposal procedures for anticancer pharmaceuticals.1
+Follow special handling and disposal procedures for anti-cancer pharmaceuticals.1

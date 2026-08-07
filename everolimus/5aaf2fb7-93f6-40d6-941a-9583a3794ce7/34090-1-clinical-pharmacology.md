@@ -19,7 +19,7 @@ Overactivation of mTOR results in neuronal dysplasia, aberrant axonogenesis and 
 
 Cardiac Electrophysiology
 
-In a randomized, placebo-controlled, cross-over study, 59 healthy subjects were administered a single oral dose of Everolimus (20 mg and 50 mg) and placebo.
+In a randomized, placebo-controlled, cross-over study, 59 healthy subjects received a single oral dose of Everolimus (20 mg and 50 mg) and placebo.
 Everolimus at single doses up to 50 mg did not prolong the QT/QTc interval.
 
 ## 12.3 Pharmacokinetics
@@ -37,7 +37,7 @@ Light-fat meals (containing approximately 500 calories and 20 grams of fat) redu
 Distribution
 
 The blood-to-plasma ratio of everolimus, which is concentration-dependent over the range of 5 to 5000 ng/mL, is 17% to 73%.
-The amount of everolimus confined to the plasma is approximately 20% at blood concentrations observed in cancer patients given Everolimus 10 mg orally once daily.
+The amount of everolimus confined to plasma is approximately 20% at blood concentrations observed in cancer patients given Everolimus 10 mg orally once daily.
 Plasma protein binding is approximately 74% both in healthy subjects and in patients with moderate hepatic impairment.
 
 Elimination
@@ -67,19 +67,21 @@ Oral clearance (CL/F) is on average 20% higher in black patients than in white p
 
 Drug Interaction Studies
 
-Effect of CYP3A4 and P-glycoprotein (P-gp) Inhibitors on Everolimus: Everolimus exposure increased when Everolimus was coadministered with:
+Strong or Moderate CYP3A inhibitor and P-gp Inhibitor: Everolimus exposure increased when Everolimus tablets were coadministered with:
 
-- •ketoconazole (a P-gp and strong CYP3A4 inhibitor) - Cmax and AUC increased by 3.9- and 15-fold, respectively.
-- •erythromycin (a P-gp and moderate CYP3A4 inhibitor) - Cmax and AUC increased by 2- and 4.4-fold, respectively.
-- •verapamil (a P-gp and moderate CYP3A4 inhibitor) - Cmax and AUC increased by 2.3- and 3.5-fold, respectively.
+- •ketoconazole (strong CYP3A inhibitor and P-gp inhibitor) - Cmax and AUC increased 3.9- and 15-fold, respectively.
+- •erythromycin (moderate CYP3A inhibitor and P-gp inhibitor) - Cmax and AUC increased 2- and 4.4-fold, respectively.
+- •verapamil (moderate CYP3A inhibitor and P-gp inhibitor) - Cmax and AUC increased 2.3- and 3.5-fold, respectively.
 
-Effect of CYP3A4 and P-gp Inducers on Everolimus: The coadministration of Everolimus with rifampin, a P-gp and strong inducer of CYP3A4, decreased everolimus AUC by 63% and Cmax by 58% compared to Everolimus alone [see Dosage and Administration (2.12)].
+Cannabidiol Oral Solution: Everolimus Cmax and AUC increased 2.5-fold when coadministered with cannabidiol oral solution (12.5 mg/kg twice daily).
 
-Effect of Everolimus on CYP3A4 Substrates: No clinically significant pharmacokinetic interactions were observed between Everolimus and the HMG-CoA reductase inhibitors atorvastatin (a CYP3A4 substrate), pravastatin (a non-CYP3A4 substrate), and simvastatin (a CYP3A4 substrate).
+Strong CYP3A Inducer and P-gp Inducer: Everolimus AUC decreased to 37% and Cmax decreased to 42% when Everolimus was coadministered with rifampin (strong CYP3A inducer and P-gp inducer).
 
-The coadministration of an oral dose of midazolam (sensitive CYP3A4 substrate) with Everolimus resulted in a 25% increase in midazolam Cmax and a 30% increase in midazolam AUC0-inf.
+CYP3A Substrates: No clinically significant pharmacokinetic interactions were observed between Everolimus and the HMG-CoA reductase inhibitors atorvastatin (a CYP3A4 substrate), pravastatin (a non-CYP3A4 substrate), and simvastatin (a CYP3A4 substrate).
 
-The coadministration of Everolimus with long acting octreotide increased octreotide Cmin by approximately 50%.
+Midazolam (sensitive CYP3A substrate) Cmax increased 1.2-fold and AUC increased 1.3-fold when oral midazolam was coadministered with Everolimus.
 
-Effect of Everolimus on Antiepileptic Drugs (AEDs): Everolimus increased pre-dose concentrations of the carbamazepine, clobazam, oxcarbazepine, and clobazam’s metabolite N-desmethylclobazam by about 10%.
-Everolimus had no impact on pre-dose concentrations of AEDs that are substrates of CYP3A4 (e.g., clonazepam and zonisamide) or other AEDs, including valproic acid, topiramate, phenobarbital, and phenytoin.
+Octreotide Cmin increased 1.5-fold when long-acting octreotide was coadministered with Everolimus.
+
+Antiepileptic Drugs (AEDs): Pre-dose concentrations of carbamazepine, clobazam, oxcarbazepine, and clobazam’s metabolite N-desmethylclobazam increased 1.1-fold when coadministered with everolimus.
+No significant interactions were observed on pre-dose concentrations of AEDs that are substrates of CYP3A (e.g., clonazepam and zonisamide) or other AEDs, including valproic acid, topiramate, phenobarbital, and phenytoin, when coadministered with everolimus.
