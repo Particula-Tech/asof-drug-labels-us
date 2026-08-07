@@ -23,10 +23,10 @@ New Jersey 08520
 
 Manufactured for:
 
-Endo USA
+Par Health USA
 
-Malvern, PA 19355
+Rochester, MI 48307
 
-Revised: March, 2025
+Revised: June, 2026
 
-OS3020-01-16-04
+OS3020-01-16-05
