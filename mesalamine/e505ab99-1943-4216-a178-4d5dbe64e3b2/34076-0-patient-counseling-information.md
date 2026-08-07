@@ -26,12 +26,16 @@ Advise patients with pre-existing skin conditions to avoid sun exposure, wear pr
 
 Nephrolithiasis
 
-Instruct patients to drink an adequate amount of fluids during treatment in order to minimize the risk of kidney stone formation and to contact their healthcare provider if they experience signs or symptoms of a kidney stone (e.g., severe side or back pain, blood in the urine) [see Warnings and Precautions (5.8)].
+Instruct patients to drink an adequate amount of fluids during treatment in order to minimize the risk of kidney stone formation and to contact their healthcare provider if they experience signs or symptoms of a kidney stone (e.g., severe side or back pain, blood in the urine) [see Warnings and Precautions (5.7)].
 
 Blood Disorders
 
 Inform elderly patients and those taking azathioprine or 6-mercaptopurine of the risk for blood disorders and the need for periodic monitoring of complete blood cell counts and platelet counts while on therapy.
 Advise patients to complete all blood tests ordered by their healthcare provider [see Drug Interactions (7.2), Use in Specific Populations (8.5)].
+
+Intracranial Hypertension
+
+Instruct patients to discontinue ROWASA and immediately report to their healthcare provider if unusual headache or visual disturbances occur [see Warnings and Precautions (5.9)].
 
 Administration
 
@@ -52,11 +56,13 @@ Instruct patients:
   If discolored urine is observed, advise patients to observe their urine flow.
   Report to the healthcare provider only if urine is discolored on leaving the body, before contact with any surface or water (e.g., in the toilet).
 
-IN-003606-08
+IN-003606-X11
+
+Rev. x/202x
 
 Distributed by: MEDA PHARMACEUTICALS Canonsburg, PA 15317 U.S.A.
 
-© 2024 Viatris Inc.
+© 2026 Viatris Inc.
 
 ROWASA is a registered trademark of Alaven Pharmaceutical LLC, a Viatris Company.
 

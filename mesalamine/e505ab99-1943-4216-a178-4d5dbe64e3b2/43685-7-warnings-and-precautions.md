@@ -63,3 +63,10 @@ Ensure adequate fluid intake during treatment.
 
 Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and the main metabolite of mesalamine, N‑acetyl‑5‑aminosalicylic acid (N‑Ac‑5‑ASA).
 Consider an alternative, selective assay for normetanephrine.
+
+## 5.9 Intracranial Hypertension
+
+Intracranial hypertension has been reported postmarketing in patients receiving mesalamine and sulfasalazine.
+Signs and symptoms of intracranial hypertension can include severe or recurrent headache, blurred vision, diplopia, and potential vision loss; papilledema can be found on fundoscopy.
+These signs and symptoms are similar to idiopathic intracranial hypertension.
+If an unusual headache or visual disturbance occurs during treatment, immediately discontinue ROWASA and refer the patient for further evaluation.

@@ -9,6 +9,7 @@ The following clinically significant adverse reactions are described elsewhere i
 - •Severe cutaneous adverse reactions [see Warnings and Precautions (5.5)]
 - •Photosensitivity [see Warnings and Precautions (5.6)]
 - •Nephrolithiasis [see Warnings and Precautions (5.7)]
+- •Intracranial Hypertension [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -39,9 +40,11 @@ Hematologic Disorders: agranulocytosis, aplastic anemia, eosinophilia, leukopeni
 
 Hepatic Disorders: elevated liver enzymes, hepatic failure [see Warnings and Precautions (5.4)]
 
+Immune System Disorders: vasculitis
+
 Nervous System: intracranial hypertension
 
-Renal and Urinary Disorders: acute renal failure, chronic renal failure, interstitial nephritis, nephrogenic diabetes insipidus, nephrolithiasis, nephrotoxicity [see Warnings and Precautions (5.2), 5.7)]
+Renal and Urinary Disorders: acute renal failure, chronic renal failure, interstitial nephritis, nephrogenic diabetes insipidus, nephrolithiasis, nephrotoxicity [see Warnings and Precautions (5.2), (5.7)]
 
 • Urine discoloration occurring ex-vivo caused by contact of mesalamine including inactive metabolite, with surfaces or water treated with hypochlorite-containing bleach
 
