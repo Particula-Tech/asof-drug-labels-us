@@ -1,10 +1,10 @@
 # DOSAGE AND ADMINISTRATION
 
-As noted under "CLINICAL PHARMACOLOGY," multiple-dose studies with isosorbide dinitrate and other nitrates have shown that maintenance of continuous 24-hour plasma levels results in refractory tolerance.
+As noted under CLINICAL PHARMACOLOGY, multiple-dose studies with isosorbide dinitrate and other nitrates have shown that maintenance of continuous 24-hour plasma levels results in refractory tolerance.
 Every dosing regimen for isosorbide dinitrate tablets must provide a daily dose-free interval to minimize the development of this tolerance.
 With immediate-release isosorbide dinitrate, it appears that one daily dose-free interval must be at least 14 hours long.
 
-As also noted under "CLINICAL PHARMACOLOGY," the effects of the second and later doses have been smaller and shorter-lasting than the effects of the first.
+As also noted under CLINICAL PHARMACOLOGY, the effects of the second and later doses have been smaller and shorter-lasting than the effects of the first.
 
 Large controlled studies with other nitrates suggest that no dosing regimen with isosorbide dinitrate tablets should be expected to provide more than about 12 hours of continuous anti-anginal efficacy per day.
 
