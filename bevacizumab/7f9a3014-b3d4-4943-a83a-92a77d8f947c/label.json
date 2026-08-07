@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761320"
+  ],
+  "inn": "bevacizumab",
+  "labeler": "Outlook Therapeutics, Inc.",
+  "package_ndcs": [
+    "82491-025-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bevacizumab-vikg",
+      "name": "LYTENAVA"
+    }
+  ],
+  "setid": "7f9a3014-b3d4-4943-a83a-92a77d8f947c",
+  "source": "dailymed"
+}
