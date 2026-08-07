@@ -53,4 +53,4 @@ The chelating action of the drug may cause increased excretion of other heavy me
 There have been reports associating penicillamine with leukemia.
 However, circumstances involved in these reports are such that a cause and effect relationship to the drug has not been established.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Endo at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Par Health at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
