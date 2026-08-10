@@ -74,8 +74,8 @@ Dispose of carefully out of reach of children.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
+For more information, call Viatris at 1-877-446-3679 (1-877-4-INFO-RX).
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-Revised: 3/2023 CTS:R16/PL:CTS:R14
+Revised: 6/2026 CTS:R17
