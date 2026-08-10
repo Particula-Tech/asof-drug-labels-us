@@ -37,5 +37,8 @@ Breast-feeding
 
 Advise patients to notify their physician if they are breast-feeding or intend to breast-feed [see Use in Specific Populations (8.2)].
 
-Manufactured by: Alkem Laboratories Ltd., INDIA.
-Distributed by: Ascend Laboratories, LLC 339 Jefferson Road, Parsippany, NJ 07054 Revised: 1/2024
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
+
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
+
+Revised: 4/2026

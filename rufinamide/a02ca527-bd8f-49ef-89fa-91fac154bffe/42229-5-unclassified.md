@@ -218,12 +218,15 @@ Oral Suspension
 
 Active ingredient: rufinamide
 
-Inactive ingredients: citric acid anhydrous, colloidal silicon dioxide, hydroxyethylcellulose, hypromellose, lactose monohydrate, methylparaben, magnesium stearate, microcrystalline cellulose (GR101), microcrystalline cellulose and carboxymethylcellulose sodium, noncrystallizing sorbitol solution 70%, orange flavor, potassium sorbate, propylene glycol, propylparaben, purified water and simethicone emulsion 30%.
+Inactive ingredients:citric acid anhydrous, colloidal silicon dioxide, hydroxyethylcellulose, hypromellose, lactose monohydrate, methylparaben, magnesium stearate, microcrystalline cellulose (GR101), microcrystalline cellulose and carboxymethylcellulose sodium, noncrystallizing sorbitol solution 70%, orange flavor, potassium sorbate, propylene glycol, propylparaben, purified water and simethicone emulsion 30%.
 The oral suspension does not contain lactose or gluten and is dye-free.
 The oral suspension does contain carbohydrates.
 
-Manufactured by: Alkem Laboratories Ltd., INDIA.
-Distributed by: Ascend Laboratories, LLC 339 Jefferson Road, Parsippany, NJ 07054 Revised: 1/2024
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
+
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
+
+Revised: 4/2026
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -282,11 +285,12 @@ The cap will fit over the bottle adapter.
 Store the bottle upright at 59°F to 86°F (15°C to 30°C).
 See Figure K Figure K
 
-Manufactured by: Alkem Laboratories Ltd., INDIA.
-Distributed by: Ascend Laboratories, LLC 339 Jefferson Road, Parsippany, NJ 07054
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
+
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
 
 This Instructions for Use has been approved by the U. S. Food and Drug Administration.
 
-Revised: 1/2024
+Revised: 4/2026
 
-PT3469-03
+PT3469-04
