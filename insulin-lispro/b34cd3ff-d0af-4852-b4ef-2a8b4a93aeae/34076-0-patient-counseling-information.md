@@ -2,9 +2,9 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Never Share a HUMALOG Mix50/50 KwikPen or Syringe Between Patients
+Never Share a HUMALOG Mix50/50 KwikPen Between Patients
 
-Advise patients using Humalog Mix50/50 vials or Humalog Mix50/50 KwikPen not to share needles, syringes, or KwikPen with another person.
+Advise patients using Humalog Mix50/50 KwikPen not to share needles or KwikPen with another person.
 Sharing poses a risk for transmission of blood-borne pathogens [see Warnings and Precautions (5.1)].
 
 Hyperglycemia or Hypoglycemia
@@ -30,7 +30,7 @@ Inform patients on the symptoms of hypersensitivity reactions and to seek medica
 
 Manufactured by: Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891
 
-Copyright © 1999, 2023, Eli Lilly and Company.
+Copyright © 1999, 2026, Eli Lilly and Company.
 All rights reserved.
 
-LOG5050-0007-USPI-20230721
+LOG5050-0008-USPI-20260624

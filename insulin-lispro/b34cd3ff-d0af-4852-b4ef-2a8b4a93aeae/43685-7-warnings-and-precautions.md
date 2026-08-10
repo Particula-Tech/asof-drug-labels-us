@@ -1,9 +1,8 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Never Share a HUMALOG Mix50/50 KwikPen or Syringe Between Patients
+## 5.1 Never Share a HUMALOG Mix50/50 KwikPen Between Patients
 
 HUMALOG Mix50/50 KwikPens must never be shared between patients, even if the needle is changed.
-Patients using HUMALOG Mix50/50 vials must never share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens.
 
 ## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen

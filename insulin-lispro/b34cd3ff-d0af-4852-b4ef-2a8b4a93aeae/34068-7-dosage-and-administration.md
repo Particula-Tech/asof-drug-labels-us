@@ -8,7 +8,6 @@ Preparation Instructions
 - HUMALOG Mix50/50 is a suspension that must be resuspended immediately before use.
   Resuspension is easier when the insulin has reached room temperature.
 - To resuspend the
-  - vial, carefully invert the vial at least 10 times until the suspension appears uniformly white and cloudy.
   - KwikPen, gently roll the KwikPen at least 10 times and then carefully invert the KwikPen at least 10 times until the suspension appears uniformly white and cloudy.
 - Inspect HUMALOG Mix50/50 visually before use.
   Do not use if discoloration or particulate matter is seen.
