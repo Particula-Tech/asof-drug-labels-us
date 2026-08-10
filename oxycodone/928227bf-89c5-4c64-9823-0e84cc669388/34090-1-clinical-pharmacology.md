@@ -22,7 +22,7 @@ Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situa
 Effects on Gastrointestinal Tract and Other Smooth Muscle Oxycodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on Cardiovascular System Oxycodone produces peripheral vasodilatation, which may result in orthostatic hypotension or syncope.
 Manifestations of histamine release and/or peripheral vasodilatation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.

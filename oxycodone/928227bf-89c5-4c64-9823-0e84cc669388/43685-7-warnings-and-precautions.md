@@ -7,12 +7,14 @@ As an opioid, oxycodone hydrochloride tablets expose users to the risks of addic
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed oxycodone hydrochloride tablets.
 Addiction can occur at recommended dosages and if the drug is misused or abused.
+The risk of opioid-related overdose or overdose-related death is increased with higher opioid doses, and this risk persists over the course of therapy.
+In postmarketing studies, addiction, abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use [see Adverse Reactions (6.2)].
 
 Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing oxycodone hydrochloride tablets, and reassess all patients receiving oxycodone hydrochloride tablets for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as oxycodone hydrochloride tablets, but use in such patients necessitates intensive counseling about the risks and proper use of oxycodone hydrochloride tablets along with frequent reevaluation for signs of addiction, abuse, and misuse.
-Consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
+Consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
 
 Opioids are sought for nonmedical use and are subject to diversion from legitimate prescribed use.
 Consider these risks when prescribing or dispensing oxycodone hydrochloride tablets.
@@ -23,7 +25,7 @@ Contact local state professional licensing board or state-controlled substances 
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agents (e.g., naloxone, nalmefene), depending on the patient’s clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of oxycodone hydrochloride tablets, the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -39,20 +41,23 @@ Opioids can cause sleep-related breathing disorders including central sleep apne
 Opioid use increases the risk of CSA in a dose-dependent fashion.
 In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.5)].
 
-Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with oxycodone hydrochloride tablets.
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+The presence of risk factors for overdose should not prevent the management of pain in any patient [see Warnings and Precautions (5.1, 5.3)].
 
-Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
-If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.3), Overdosage (10)].
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program).
+
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
+
+Educate patients and caregivers on how to recognize respiratory depression, and how to use an opioid overdose reversal agent for the emergency treatment of opioid overdose.
+Emphasize the importance of calling 911 or getting emergency medical help, even if an opioid overdose reversal agent is administered [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.3), Overdosage (10)].
 
 ## 5.3 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of oxycodone hydrochloride tablets with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of oxycodone hydrochloride tablets with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -62,7 +67,7 @@ If the decision is made to prescribe a benzodiazepine or other CNS depressant co
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Inform patients and caregivers of this potential interaction and educate them on the signs and symptoms of respiratory depression (including sedation).
-If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.2), Overdosage (10)].
+If concomitant use is warranted, consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.2), Overdosage (10)].
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when oxycodone hydrochloride tablets are used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate dangerous machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
@@ -148,13 +153,17 @@ Monitor such patients for signs of sedation and respiratory depression, particul
 Opioids may obscure the clinical course in a patient with a head injury.
 Avoid the use of oxycodone hydrochloride tablets in patients with impaired consciousness or coma.
 
-## 5.12 Risks of Use in Patients with Gastrointestinal Conditions
+## 5.12 Risks of Gastrointestinal Complications
 
 Oxycodone hydrochloride tablets are contraindicated in patients with gastrointestinal obstruction, including paralytic ileus.
 
 The oxycodone in oxycodone hydrochloride tablets may cause spasm of the sphincter of Oddi.
 Opioids may cause increases in serum amylase.
 Regularly evaluate patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
+The risk of OIED may increase as the dose and/or duration of opioids increases.
+Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain) and, if necessary, adjust opioid therapy as clinically appropriate [see Clinical Pharmacology (12.2)].
 
 ## 5.13 Increased Risk of Seizures in Patients with Seizure Disorders
 
@@ -163,7 +172,7 @@ Regularly evaluate patients with a history of seizure disorders for worsened sei
 
 ## 5.14 Withdrawal
 
-Do not abruptly discontinue oxycodone hydrochloride tablets in a patient physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue oxycodone hydrochloride tablets in a patient physically dependent on opioids.
 When discontinuing oxycodone hydrochloride tablets in a physically dependent patient, gradually taper the dosage.
 Rapid tapering of oxycodone in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
 
