@@ -8,8 +8,6 @@ Pregnancy loss and malformations
 
 - Inform females of reproductive potential and pregnant women that use of CELLCEPT during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations.
   Advise that they must use an acceptable form of contraception [see Warnings and Precautions (5.1), Use in Specific Populations (8.1, 8.3)].
-- Encourage pregnant women to enroll in the Pregnancy Exposure Registry.
-  This registry monitors pregnancy outcomes in women exposed to mycophenolate [see Use in Specific Populations (8.1)].
 
 Contraception
 
@@ -70,7 +68,7 @@ Before seeking vaccines on their own, advise patients to discuss first with thei
 
 Advise patients not to donate blood during therapy and for at least 6 weeks following discontinuation of CELLCEPT [see Warnings and Precautions (5.12)].
 
-## 17.11Semen Donation
+## 17.11 Semen Donation
 
 Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of CELLCEPT [see Warnings and Precautions (5.13)].
 
