@@ -28,9 +28,14 @@ Hypersensitivity
 
 Advise patients to stop taking tofacitinib extended-release tablets and to call their healthcare provider right away if they experience any symptoms of allergic reactions while taking tofacitinib extended-release tablets [see Warnings and Precautions (5.7)].
 
+Hypoglycemia in Patients with Diabetes
+
+Consider advising patients with diabetes to increase monitoring of blood glucose since hypoglycemia, including severe hypoglycemia, has been reported after starting tofacitinib extended-release tablets.
+Advise patients with diabetes to notify their healthcare provider if they develop signs or symptoms of hypoglycemia [see Warnings and Precautions (5.8)].
+
 Important Information on Laboratory Abnormalities
 
-Inform patients that tofacitinib extended-release tablets may affect certain lab test results, and that blood tests are required before and during tofacitinib extended-release tablets treatment [see Warnings and Precautions (5.8)].
+Inform patients that tofacitinib extended-release tablets may affect certain lab test results, and that blood tests are required before and during tofacitinib extended-release tablets treatment [see Warnings and Precautions (5.9)].
 
 Pregnancy
 

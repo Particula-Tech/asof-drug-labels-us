@@ -6,16 +6,16 @@ Prior to initiating tofacitinib extended-release tablets, consider performing th
 
 - Active and latent tuberculosis (TB) infection evaluation: If the patient has latent TB, treat for TB prior to tofacitinib extended-release tablets treatment [see Warnings and Precautions (5.1)].
 - Viral hepatitis screening in accordance with clinical guidelines [see Warnings and Precautions (5.1)].
-- A complete blood count: Avoid initiation of tofacitinib extended-release tablets treatment in patients with a lymphocyte count less than 500 cells/mm3, absolute neutrophil count less than 1,000 cells/mm3, or hemoglobin level less than 9 g/dL [see Warnings and Precautions (5.8)].
+- A complete blood count: Avoid initiation of tofacitinib extended-release tablets treatment in patients with a lymphocyte count less than 500 cells/mm3, absolute neutrophil count less than 1,000 cells/mm3, or hemoglobin level less than 9 g/dL [see Warnings and Precautions (5.9)].
 - Baseline hepatic function evaluation: tofacitinib extended-release tablets is not recommended for patients with severe hepatic impairment [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 - Update immunizations according to current immunization guidelines.
-  The interval between live vaccinations and initiation of tofacitinib extended-release tablets should be in accordance with current vaccination guidelines regarding immunosuppressive agents [see Warnings and Precautions (5.9)].
+  The interval between live vaccinations and initiation of tofacitinib extended-release tablets should be in accordance with current vaccination guidelines regarding immunosuppressive agents [see Warnings and Precautions (5.10)].
 
 ## 2.2 Important Administration Instructions
 
 - Tofacitinib extended-release tablets is not substitutable with tofacitinib tablets and tofacitinib oral solution.
   Switching between tofacitinib tablets and tofacitinib extended-release tablets should be made by the healthcare provider.
-- Dose interruption is recommended for management of lymphopenia, neutropenia, and anemia [see Warnings and Precautions (5.8) and Adverse Reactions (6.1)].
+- Dose interruption is recommended for management of lymphopenia, neutropenia, and anemia [see Warnings and Precautions (5.9) and Adverse Reactions (6.1)].
 - Interrupt use of tofacitinib extended-release tablets if a patient develops a serious infection until the infection is controlled [see Warnings and Precautions (5.1)].
 - Take tofacitinib extended-release tablets with or without food [see Clinical Pharmacology (12.3)].
 - Swallow tofacitinib extended-release tablets whole and intact.

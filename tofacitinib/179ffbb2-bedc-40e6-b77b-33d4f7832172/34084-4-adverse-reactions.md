@@ -9,7 +9,8 @@ The following clinically significant adverse reactions are described elsewhere i
 - Thrombosis [see Warnings and Precautions (5.5)]
 - Gastrointestinal Perforations [see Warnings and Precautions (5.6)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
-- Laboratory Abnormalities [see Warnings and Precautions (5.8)]
+- Hypoglycemia in Patients with Diabetes [see Warnings and Precautions (5.8)]
+- Laboratory Abnormalities [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -86,14 +87,14 @@ Laboratory Abnormalities
 
 Lymphopenia: In the placebo-controlled clinical trials in patients with RA, confirmed decreases in absolute lymphocyte counts below 500 cells/mm3 occurred in 0.04% of patients for the tofacitinib 5 mg twice daily and 10 mg twice daily groups combined during the first 3 months of exposure.
 
-Confirmed lymphocyte counts less than 500 cells/mm3 were associated with an increased incidence of treated and serious infections [see Warnings and Precautions (5.8)].
+Confirmed lymphocyte counts less than 500 cells/mm3 were associated with an increased incidence of treated and serious infections [see Warnings and Precautions (5.9)].
 
 Neutropenia: In the placebo-controlled clinical trials in patients with RA, confirmed decreases in ANC below 1,000 cells/mm3 occurred in 0.07% of patients for the tofacitinib 5 mg twice daily and 10 mg twice daily groups combined during the first 3 months of exposure.
 
 There were no confirmed decreases in ANC below 500 cells/mm3 observed in any treatment group.
 There was no clear relationship between neutropenia and the occurrence of serious infections.
 
-In the long-term safety population, the pattern and incidence of confirmed decreases in ANC remained consistent with what was seen in the placebo-controlled clinical trials [see Warnings and Precautions (5.8)].
+In the long-term safety population, the pattern and incidence of confirmed decreases in ANC remained consistent with what was seen in the placebo-controlled clinical trials [see Warnings and Precautions (5.9)].
 
 Liver Enzyme Elevations: Confirmed increases in liver enzymes greater than 3 times the upper limit of normal (3x ULN) were observed in patients with RA treated with tofacitinib.
 In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of tofacitinib, or reduction in tofacitinib dose, resulted in decrease or normalization of liver enzymes.
@@ -262,5 +263,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune system disorders: Drug hypersensitivity (events such as angioedema and urticaria have been observed)
+
+Metabolism and nutrition disorders: Hypoglycemia
 
 Skin and subcutaneous tissue disorders: Acne
