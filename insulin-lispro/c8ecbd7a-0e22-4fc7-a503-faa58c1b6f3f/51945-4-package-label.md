@@ -209,33 +209,3 @@ NEEDLES NOT INCLUDED
 This device is recommended for use with Becton, Dickinson and Company's insulin pen needles.
 
 DO NOT TRANSFER TO A SYRINGE SEVERE OVERDOSE CAN RESULT
-
-PACKAGE CARTON – HUMALOG U-200 Tempo Pen
-
-Dispense in this sealed carton.
-
-NDC 0002-8208-27
-
-Humalog® Tempo PenTM
-
-insulin lispro injection
-
-For Single Patient Use Only
-
-200 units per mL (U-200)
-
-prefilled insulin delivery device
-
-2 x 3 mL Prefilled Pens
-
-Rx Only
-
-For subcutaneous use.
-
-Read Insulin Delivery Device Instructions for Use.
-
-NEEDLES NOT INCLUDED
-
-This device is recommended for use with Becton, Dickinson and Company's insulin pen needles.
-
-DO NOT TRANSFER TO A SYRINGE SEVERE OVERDOSE CAN RESULT
