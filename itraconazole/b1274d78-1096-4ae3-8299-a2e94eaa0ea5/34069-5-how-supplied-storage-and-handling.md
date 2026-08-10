@@ -12,8 +12,6 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted between 15°C and 3
 
 Protect from light and moisture.
 
-Dispense with Patient Information available at: https://torrentpharma.com/pi/usa/products/
-
 Manufactured by:
 
 Torrent Pharmaceuticals LTD., India.
@@ -22,4 +20,4 @@ Manufactured for:
 
 Torrent Pharma INC., Basking Ridge, NJ 07920
 
-8099645 Revised: January 2025
+8113328 Revised: August 2026

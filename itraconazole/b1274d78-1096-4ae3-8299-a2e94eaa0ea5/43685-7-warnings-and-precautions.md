@@ -183,6 +183,8 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 | Calcium Channel Blockers |  |  |
 | Felodipinea Nisoldipine |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Diltiazem Other dihydropyridines Verapamil |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For diltiazem, see also Table 2. |
+| Cardiac Myosin Inhibitor |  |  |
+| Mavacamten |  | Refer to the mavacamten prescribing information for detailed guidance including dosing and safety monitoring. |
 | Cardiovascular Drugs, Miscellaneous |  |  |
 | Ivabradine Ranolazine |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Aliskirena Riociguat Sildenafil (for pulmonary hypertension) Tadalafil (for pulmonary hypertension) |  | Not recommended during and 2 weeks after itraconazole treatment. For sildenafil and tadalafil, see also Urologic Drugs below. |
