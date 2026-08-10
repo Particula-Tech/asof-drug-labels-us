@@ -22,7 +22,7 @@ Both the injection and oral solution vials contain 3 mL solution at a concentrat
 Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° and 30°C (59° and 86°F).
 [See USP Controlled Room Temperature.]
 
-For Single Use Only.
+For Single-Dose Only.
 Discard unused portion.
 
 ATTENTION PHARMACIST: Detach “Instructions for Use” from the package insert and dispense with Caffeine Citrate Oral Solution, USP prescription.
@@ -30,10 +30,6 @@ ATTENTION PHARMACIST: Detach “Instructions for Use” from the package insert 
 Sterile, Nonpyrogenic, Preservative-free.
 The container closure is not made with natural rubber latex.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Canada
+sagent® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60173 (USA) Made in Canada ©2025 Sagent Pharmaceuticals
 
-©2020 Sagent Pharmaceuticals, Inc.
-
-March 2020
-
-SAGENT Pharmaceuticals®
+Revised: July 2025

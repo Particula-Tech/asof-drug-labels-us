@@ -1,8 +1,8 @@
-SAGENT® Rx only
+sagent® Rx only
 
 # Caffeine Citrate Oral Solution, USP
 
-SAGENT® Rx only
+sagent® Rx only
 
 Each bottle (vial) of caffeine citrate contains a total of 60 mg of caffeine citrate in 3 mL (20 mg per mL).
 
@@ -109,10 +109,8 @@ This is not a complete list of side effects reported with caffeine citrate.
 If you have a concern about your baby, speak with your baby's doctor.
 If you want more information about caffeine citrate, speak with your baby's doctor or pharmacist.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Sagent Pharmaceuticals, Inc. at 1-866-625-1618 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Sagent Pharmaceuticals at 1-866-625-1618 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Canada ©2020 Sagent Pharmaceuticals, Inc.
+sagent® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60173 (USA) Made in Canada ©2025 Sagent Pharmaceuticals
 
-March 2020
-
-SAGENT Pharmaceuticals®
+Revised: July 2025

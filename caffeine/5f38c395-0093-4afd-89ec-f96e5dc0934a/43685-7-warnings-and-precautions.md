@@ -6,7 +6,7 @@ During the double-blind, placebo-controlled clinical trial, 6 cases of necrotizi
 Five of the six patients with necrotizing enterocolitis were randomized to or had been exposed to caffeine citrate.
 
 Reports in the published literature have raised a question regarding the possible association between the use of methylxanthines and development of necrotizing enterocolitis, although a causal relationship between methylxanthine use and necrotizing enterocolitis has not been established.
-In a published randomized, placebo-controlled, clinical trial that studied the use of caffeine citrate in apnea of prematurity in approximately 2000 patients, necrotizing enterocolitis was not more common in caffeine treated patients compared to placebo.
+In a published randomized, placebo-controlled, clinical trial that studied the use of caffeine citrate in apnea of prematurity in approximately 2,000 patients, necrotizing enterocolitis was not more common in caffeine treated patients compared to placebo.
 As with all preterm infants, patients being treated with caffeine citrate should be carefully monitored for the development of necrotizing enterocolitis.
 
 # PRECAUTIONS
@@ -38,7 +38,7 @@ Serum concentrations of caffeine should be monitored and dose administration of 
 
 Parents/caregivers of patients receiving caffeine citrate oral solution should receive the following instructions:
 
-1. Caffeine citrate does not contain any preservatives and each vial is for single use only.
+1. Caffeine citrate does not contain any preservatives and each vial is for single-dose only.
    Any unused portion of the medication should be discarded.
 2. It is important that the dose of caffeine citrate be measured accurately, i.e., with a 1cc or other appropriate syringe.
 3. Consult your physician if the baby continues to have apnea events; do not increase the dose of caffeine citrate without medical consultation.
