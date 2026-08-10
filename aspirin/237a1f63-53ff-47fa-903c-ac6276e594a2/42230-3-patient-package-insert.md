@@ -167,7 +167,7 @@ This Patient Information summarizes the most important information about aspirin
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about aspirin and extended-release dipyridamole capsules that is written for health professionals.
 
-For more information about aspirin and extended-release dipyridamole capsules, call Endo at 1-800-828-9393.
+For more information about aspirin and extended-release dipyridamole capsules, call Par Health at 1-800-828-9393.
 
 What are the ingredients in aspirin and extended-release dipyridamole capsules?
 
@@ -177,8 +177,8 @@ Inactive Ingredients: acacia, alginic acid, anhydrous lactose, colloidal silicon
 
 Each capsule shell contains gelatin, sodium lauryl sulfate, FD&C Red 40, FD&C Yellow 6, shellac, potassium hydroxide, red iron oxide, yellow iron oxide, titanium dioxide, black iron oxide and water.
 
-The brands listed are trademarks of their respective owners and are not trademarks of Endo.
-The makers of these brands are not affiliated with and do not endorse Endo or its products.
+The brands listed are trademarks of their respective owners and are not trademarks of Par Health.
+The makers of these brands are not affiliated with and do not endorse Par Health or its products.
 
-Manufactured for: Endo USA Malvern, PA 19355 U.S.A. Made in India Neutral Code: TN/DRUGS/TN00002121 © 2024 Endo, Inc. or one of its affiliates.
-OS007-01-74-05 Revised: 11/2024
+Manufactured for: Par Health USA Woodcliff Lake, NJ 07677 U.S.A. Product of India Made in India Neutral Code: TN/DRUGS/TN00002121 © 2026 Par Health, Inc. or one of its affiliates.
+OS007-01-74-06 Revised: 06/2026
