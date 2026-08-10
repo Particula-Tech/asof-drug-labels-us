@@ -33,4 +33,4 @@ Instruct patients to minimize sun exposure due to risk of photosensitivity [see 
 Patients with Phenylketonuria
 
 Inform patients with phenylketonuria that each mL of mercaptopurine oral suspension contains 0.015 mg of phenylalanine [see Warnings and Precautions (5.7)].
-Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922 C50001544/01 Revised April 2025
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922 C50001544/02 Revised July 2026

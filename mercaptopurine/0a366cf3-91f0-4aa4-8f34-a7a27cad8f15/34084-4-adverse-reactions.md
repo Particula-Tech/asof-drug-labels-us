@@ -24,4 +24,4 @@ Drug fever has been reported with mercaptopurine.
 
 The following adverse reactions have been identified during postapproval use of mercaptopurine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These reactions include: photosensitivity, hypoglycemia, portal hypertension, intrahepatic cholestasis of pregnancy (ICP), pellagra, and erythema nodosum.
+These reactions include: photosensitivity, hypoglycemia, portal hypertension, intrahepatic cholestasis of pregnancy (ICP), pellagra, erythema nodosum, and mucosal inflammation.

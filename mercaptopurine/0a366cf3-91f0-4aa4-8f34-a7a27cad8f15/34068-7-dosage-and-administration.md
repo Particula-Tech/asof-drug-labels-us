@@ -3,7 +3,7 @@
 ## 2.1 Recommended Dosage
 
 The recommended starting dose of mercaptopurine oral suspension is 1.5 mg/kg to 2.5 mg/kg (50 mg/m2 to 75 mg/m2) orally once daily as part of combination chemotherapy maintenance regimen.
-Take mercaptopurine oral suspension either consistently with or without food.
+Take mercaptopurine oral suspension either consistently with or without food [see Clinical Pharmacology (12.3)].
 
 After initiating mercaptopurine, monitor complete blood counts (CBC) and adjust the dose to maintain absolute neutrophil count (ANC) at a desirable level and for excessive myelosuppression.
 Evaluate the bone marrow in patients with prolonged myelosuppression or repeated episodes of myelosuppression to assess leukemia status and marrow cellularity.
@@ -12,7 +12,7 @@ Evaluate thiopurine S-methyltransferase (TPMT) and nucleotide diphosphatase (NUD
 
 If a patient misses a dose, instruct the patient to continue with the next scheduled dose.
 
-## 2.2 Dosage Modifications in Patients with TPMT and NUDT15 Deficiency
+## 2.2 Dosage Modifications in Patients with TPMT and/or NUDT15 Deficiency
 
 Consider testing for TPMT and NUDT15 deficiency in patients who experience severe myelosuppression or repeated episodes of myelosuppression [see Warnings and Precautions (5.1), Clinical Pharmacology (12.5)].
 
@@ -25,11 +25,11 @@ Patients who are heterozygous for both TPMT and NUDT15 may require more substant
 
 ## 2.3 Dosage Modifications in Renal and Hepatic Impairment
 
-Renal Impairment Use the lowest recommended starting dosage for mercaptopurine in patients with renal impairment (CLcr less than 50 mL/min).
-Adjust the dosage to maintain absolute neutrophil count (ANC) at a desirable level and for adverse reactions [see Uses in Specific Populations (8.6)].
+Renal Impairment Use the lowest recommended starting dosage for mercaptopurine or increase the dosing interval to every 36 to 48 hours in patients with renal impairment (CLcr less than 50 mL/min).
+Adjust the dosage to maintain absolute neutrophil count (ANC) at a desirable level and for adverse reactions [see Use in Specific Populations (8.6)].
 
 Hepatic Impairment Use the lowest recommended starting dosage for mercaptopurine in patients with hepatic impairment.
-Adjust the dosage to maintain absolute neutrophil count (ANC) at a desirable level and for adverse reactions [see Uses in Specific Populations (8.7)].
+Adjust the dosage to maintain absolute neutrophil count (ANC) at a desirable level and for adverse reactions [see Use in Specific Populations (8.7)].
 
 ## 2.4 Dosage Modification with Concomitant Use of Allopurinol
 

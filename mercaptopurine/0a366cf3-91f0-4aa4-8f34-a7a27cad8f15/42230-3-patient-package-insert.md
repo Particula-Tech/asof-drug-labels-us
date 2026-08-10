@@ -13,4 +13,4 @@
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922 C50001544/01 Revised April 2025
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922 C50001544/02 Revised July 2026

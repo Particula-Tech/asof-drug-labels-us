@@ -47,7 +47,7 @@ The long-term effects of mercaptopurine on female and male fertility, including 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of mercaptopurine has been established in pediatric patients.
+Safety and effectiveness of mercaptopurine have been established in pediatric patients.
 Use of mercaptopurine in pediatrics is supported by evidence from the published literature and clinical experience.
 Symptomatic hypoglycemia has been reported in pediatric patients with ALL receiving mercaptopurine.
 Reported cases were in pediatrics less than 6 years or with a low body mass index.
