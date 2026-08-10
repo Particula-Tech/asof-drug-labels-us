@@ -67,7 +67,7 @@ Other Adverse Reactions in Adult Patients with Type 2 Diabetes Mellitus
 Volume Depletion
 
 Dapagliflozin causes an osmotic diuresis, which may lead to a reduction in intravascular volume.
-Adverse reactions related to volume depletion (including reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension) in adult patients with type 2 diabetes mellitus for the 12 trial and 13 trial, short term, placebo controlled pools and for the DECLARE trial are shown in Table 2 [see Warnings and Precautions (5.2)].
+Adverse reactions related to volume depletion (including reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension) in adult patients with type 2 diabetes mellitus for the 12-trial and 13-trial, short-term, placebo-controlled pools and for the DECLARE trial are shown in Table 2 [see Warnings and Precautions (5.2)].
 
 Table 2: Adverse Reactions Related to Volume DepletionVolume depletion includes reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension. in Clinical Trials in Adults with Type 2 Diabetes Mellitus with Dapagliflozin
 
@@ -154,7 +154,7 @@ Increase in Low-Density Lipoprotein Cholesterol
 
 In the pool of 13 placebo-controlled trials of glycemic control, changes from baseline in mean lipid values were reported in dapagliflozin-treated adult patients compared to placebo-treated patients.
 Mean percent changes from baseline at Week 24 were 0.0% versus 2.5% for total cholesterol, and -1.0% versus 2.9% for LDL cholesterol in the placebo and dapagliflozin 10 mg groups, respectively.
-In the DECLARE trial [see Clinical Studies (14.3)], mean changes from baseline after 4 years were 0.4 mg/dL versus 4.1 mg/dL for total cholesterol, and -2.5 mg/dL versus -4.4 mg/dL for LDL cholesterol, in dapagliflozin-treated and the placebo groups, respectively.
+In the DECLARE trial [see Clinical Studies (14.3)], mean changes from baseline after 4 years were 0.4 mg/dL versus -4.1 mg/dL for total cholesterol, and -2.5 mg/dL versus -4.4 mg/dL for LDL cholesterol, in dapagliflozin-treated and the placebo groups, respectively.
 
 Decrease in Serum Bicarbonate
 

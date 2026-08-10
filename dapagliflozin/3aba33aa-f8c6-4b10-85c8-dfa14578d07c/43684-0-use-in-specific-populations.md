@@ -67,7 +67,7 @@ The safety and effectiveness of DAPAGLIFLOZIN TABLETS for glycemic control in ty
 
 The safety and effectiveness of DAPAGLIFLOZIN TABLETS have not been established in pediatric patients to reduce the risk of [see Indications and Usage (1)]:
 
-- •sustained eGFR decline, end stage kidney disease, CV death, and hospitalization for heart failure in patients with chronic kidney disease at risk of progression.
+- •sustained eGFR decline, end-stage kidney disease, CV death, and hospitalization for heart failure in patients with chronic kidney disease at risk of progression.
 - •CV death, hospitalization for heart failure, and urgent heart failure visit in patients with heart failure.
 - •hospitalization for heart failure in patients with type 2 diabetes mellitus and either established CV disease or multiple CV risk factors.
 

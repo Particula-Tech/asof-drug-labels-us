@@ -23,8 +23,8 @@ Figure 1: Scatter Plot and Fitted Line of Change from Baseline in 24-Hour Urinar
 
 ### Cardiac Electrophysiology
 
-Dapagliflozin was not associated with clinically meaningful prolongation of QTc interval at daily doses up to 150 mg (15 times the recommended maximum dose) in a study of healthy subjects.
-In addition, no clinically meaningful effect on QTc interval was observed following single doses of up to 500 mg (50 times the recommended maximum dose) of dapagliflozin in healthy subjects.
+Dapagliflozin was not associated with clinically meaningful prolongation of QTc interval at daily doses up to 150 mg (15-times the recommended maximum dose) in a study of healthy subjects.
+In addition, no clinically meaningful effect on QTc interval was observed following single doses of up to 500 mg (50-times the recommended maximum dose) of dapagliflozin in healthy subjects.
 
 ## 12.3 Pharmacokinetics
 
@@ -96,9 +96,9 @@ No dose adjustments are recommended for dapagliflozin.
 
 Table 5: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
 
-| Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Effect on Dapagliflozin Exposure [% Change (90% CI)] |  |
+| Cmax | AUC† |  |  |
 | --- | --- | --- | --- |
-| Cmax | AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. |  |  |
+| Coadministered Drug (Dose Regimen)* | Dapagliflozin (Dose Regimen)* | Effect on Dapagliflozin Exposure [% Change (90% CI)] |  |
 | No dosing adjustments required for the following: |  |  |  |
 | Oral Antidiabetic Agents |  |  |  |
 | Metformin (1000 mg) | 20 mg | ↔ | ↔ |
@@ -115,7 +115,7 @@ Table 5: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
 | Rifampin (600 mg once daily for 6 days) | 10 mg | ↓7% [↓22%, ↑11%] | ↓22% [↓27%, ↓17%] |
 | Nonsteroidal Anti-inflammatory Agent |  |  |  |
 | Mefenamic Acid (loading dose of 500 mg followed by 14 doses of 250 mg every 6 hours) | 10 mg | ↑13% [↑3%, ↑24%] | ↑51% [↑44%, ↑58%] |
-| ↔ = no change (geometric mean ratio of test: reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to dapagliflozin administered alone (geometric mean ratio of test: reference was lower than 0.80 or higher than 1.25). |  |  |  |
+| ↔ = no change (geometric mean ratio of test: reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to dapagliflozin administered alone (geometric mean ratio of test: reference was lower than 0.80 or higher than 1.25). * Single dose unless otherwise noted. † AUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. |  |  |  |
 
 #### Effects of Dapagliflozin on Other Drugs
 
@@ -124,9 +124,9 @@ Dapagliflozin did not meaningfully affect the pharmacokinetics of the coadminist
 
 Table 6: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
 
-| Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Effect on Coadministered Drug Exposure [% Change (90% CI)] |  |
+| Cmax | AUC† |  |  |
 | --- | --- | --- | --- |
-| Cmax | AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. |  |  |
+| Coadministered Drug (Dose Regimen)* | Dapagliflozin (Dose Regimen)* | Effect on Coadministered Drug Exposure [% Change (90% CI)] |  |
 | No dosing adjustments required for the following: |  |  |  |
 | Oral Antidiabetic Agents |  |  |  |
 | Metformin (1000 mg) | 20 mg | ↔ | ↔ |
@@ -140,4 +140,4 @@ Table 6: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Dr
 | Simvastatin (40 mg) | 20 mg | ↔ | ↑19% |
 | Digoxin (0.25 mg) | 20 mg loading dose then 10 mg once daily for 7 days | ↔ | ↔ |
 | Warfarin (25 mg) | 20 mg loading dose then 10 mg once daily for 7 days | ↔ | ↔ |
-| ↔ = no change (geometric mean ratio of test: reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to the other medicine administered alone (geometric mean ratio of test: reference was lower than 0.80 or higher than 1.25). |  |  |  |
+| ↔ = no change (geometric mean ratio of test: reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to the other medicine administered alone (geometric mean ratio of test: reference was lower than 0.80 or higher than 1.25). * Single dose unless otherwise noted. † AUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. |  |  |  |

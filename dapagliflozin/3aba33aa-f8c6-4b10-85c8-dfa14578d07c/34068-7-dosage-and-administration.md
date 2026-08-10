@@ -21,7 +21,7 @@ For Adult and Pediatric Patients with Type 2 Diabetes Mellitus and Renal Impairm
 
 The recommended dosage of DAPAGLIFLOZIN TABLETS is 10 mg orally once daily in adults for the following indications:
 
-- •To reduce the risk of sustained eGFR decline, end stage kidney disease (ESKD), CV death, and hospitalization for heart failure (hHF) in patients with chronic kidney disease at risk of progression.
+- •To reduce the risk of sustained eGFR decline, end-stage kidney disease (ESKD), CV death, and hospitalization for heart failure (hHF) in patients with chronic kidney disease at risk of progression.
 - •To reduce the risk of CV death, hHF, and urgent heart failure visit in patients with heart failure.
 - •To reduce the risk of hHF in patients with type 2 diabetes mellitus and either established CV disease or multiple CV risk factors.
 
