@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Sodium nitroprusside injection is disodium pentacyanonitrosylferrate(2-) dihydrate, a hypotensive agent whose structural formula is
+Sodium nitroprussideinjection is disodium pentacyanonitrosylferrate(2-) dihydrate, a hypotensive agent whose structural formula is
 
 Sodium Nitroprusside USP
 

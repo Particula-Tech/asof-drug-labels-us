@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Sodium nitroprusside injection is supplied in single-dose 50 mg/2mL amber USP Type-I glass vial and stoppered with 13 mm rubber stopper and sealed with 13 mm flip off aluminium seals and packed in a single carton.
+Sodium nitroprusside injection is supplied in single-dose 50 mg/2mL amber USP Type-1 glass vials and stoppered with 13 mm rubber stopper and sealed with 13 mm flip-off seals and packed in single carton.
 
 2 mL in 2mL vial NDC 42571-265-75
 
@@ -19,8 +19,8 @@ Bangalore – 560099, INDIA.
 
 Manufactured for:
 
-Micro Labs USA Inc.
+Micro Labs USA, Inc.
 
-Basking Ridge, NJ 07920
+Somerset, NJ 08873
 
-Revised: January 2020
+Rev.12/2022
