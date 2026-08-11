@@ -10,8 +10,6 @@ Store at 20°C to 25°C (68°F to 77°F), with excursions permitted between 15°
 Protect from light.
 Store in carton until contents have been used.
 
-Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Institutional LLC, a Viatris Company Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Alcami Corporation Charleston, SC 29405 U.S.A.
-
-XXXXXXX Revised: 12/2025 MI:MTHDIJ:RX12
+PC3374M Revised: 12/2025 MI:MTHDIJ:R10

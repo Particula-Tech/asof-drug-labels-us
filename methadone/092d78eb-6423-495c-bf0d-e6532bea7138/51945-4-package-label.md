@@ -1,16 +1,18 @@
 # PRINCIPAL DISPLAY PANEL – 20 mL
 
-NDC 67457-217-20 20 mL
+NDC 67457-217-20
 
 Methadone Hydrochloride Injection, USP CII
 
-200 mg/20 mL (10mg/mL)
+200 mg/20 mL (10 mg/mL)
 
 For Intravenous, Intramuscular or Subcutaneous Use
 
-Rx only Multiple-Dose Vial
+Rx only 20 mL Multiple-Dose Vial
 
-Each mL contains: Active: 10 mg of methadone hydrochloride (equivalent to 8.95 mg methadone free base).
+Each mL contains:
+
+Active: 10 mg of methadone hydrochloride (equivalent to 8.95 mg methadone free base).
 [WARNING: May be habit forming.]
 Inactives: 5 mg of chlorobutanol, as a preservative, 9 mg of sodium chloride, as tonicity agent, and hydrochloric acid and sodium hydroxide as pH adjusters, in water for injection.
 The pH of the sterile injectable solution is between 3.0 to 6.5.
@@ -23,10 +25,12 @@ Protect from light.
 
 Store in carton until contents have been used.
 
-Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
+Distributed by:
+
+Mylan Institutional LLC, a Viatris Company Morgantown, WV 26505 U.S.A.
+
+Viatris.com
 
 Made in U.S.A.
 
-MI:217:1C:R7
-
-Mylan.com
+MI:217:1C:R8
