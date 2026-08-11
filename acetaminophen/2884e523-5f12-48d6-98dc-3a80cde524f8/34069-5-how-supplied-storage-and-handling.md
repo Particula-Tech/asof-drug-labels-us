@@ -2,8 +2,9 @@
 
 Acetaminophen injection is supplied in a 100 mL glass vial containing 1000 mg acetaminophen (10 mg/mL).
 
-1. NDC 0781-9274-06 Single-Dose Vial
-2. NDC 0781-9274-95 Carton of 10 vials
+NDC 0781-9274-06 Single-Dose Vial
+
+NDC 0781-9274-95 Carton of 10 vials
 
 Acetaminophen injection should be stored at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
 
