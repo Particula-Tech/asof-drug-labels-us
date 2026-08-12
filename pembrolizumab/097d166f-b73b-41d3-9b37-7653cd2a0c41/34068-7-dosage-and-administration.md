@@ -176,8 +176,8 @@ The product does not contain a preservative and should be used immediately after
 If not used immediately, store the syringe containing KEYTRUDA QLEX with the transfer needle and cap in place:
 
 - At room temperature 20°C to 25°C (68°F to 77°F) for up to 8 hours, or
-- In the refrigerator at 2°C to 8°C (36°F to 46°F) for up to 24 hours.
-  The 24-hour period may include up to 8 hours at room temperature.
+- In the refrigerator at 2°C to 8°C (36°F to 46°F), protected from light for up to 96 hours.
+  The 96-hour period may include up to 8 hours at room temperature.
 
 Discard if storage time exceeds these limits.
 
