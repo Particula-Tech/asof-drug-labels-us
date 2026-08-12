@@ -1,10 +1,9 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 Isotretinoin, USP a retinoid, is available as Claravis™ (isotretinoin capsules USP), in 10 mg, 20 mg, 30 mg and 40 mg hard gelatin capsules for oral administration.
-Chemically, isotretinoin is 13-cis-retinoic acid and is related to both retinoic acid and retinol (vitamin A). It is a yellow to orange crystalline powder.
+Chemically, isotretinoin is 13-cis-retinoic acid and is related to both retinoic acid and retinol (vitamin A). It is a yellow to orange crystalline powder with a molecular weight of 300.44.
+Isotretinoin has high lipophilicity.
 The structural formula is:
-
-C20H28O2 Molecular Weight: 300.44
 
 Each capsule contains the following inactive ingredients: butylated hydroxyanisole, edetate disodium, gelatin, hydrogenated vegetable oil, polysorbate 80, soybean oil, titanium dioxide, white wax (beeswax), and vitamin E.
 

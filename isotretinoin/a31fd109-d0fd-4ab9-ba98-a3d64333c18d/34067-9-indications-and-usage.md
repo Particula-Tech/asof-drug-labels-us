@@ -1,13 +1,8 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-## Severe Recalcitrant Nodular Acne
+Claravis™ (isotretinoin capsules USP) is indicated for the treatment of severe recalcitrant nodular acne in non-pregnant patients 12 years of age and older with multiple inflammatory nodules with a diameter of 5 mm or greater.
+Because of significant adverse reactions associated with its use, Claravis is reserved for patients with severe nodular acne who are unresponsive to conventional therapy, including systemic antibiotics.
 
-Claravis (isotretinoin capsules) is indicated for the treatment of severe recalcitrant nodular acne.
-Nodules are inflammatory lesions with a diameter of 5 mm or greater.
-The nodules may become suppurative or hemorrhagic.
-“Severe,” by definition,2 means “many” as opposed to “few or several” nodules.
-Because of significant adverse effects associated with its use, Claravis should be reserved for patients with severe nodular acne who are unresponsive to conventional therapy, including systemic antibiotics.
-In addition, Claravis is indicated only for those patients who are not pregnant, because Claravis can cause life threatening birth defects (see Boxed CONTRAINDICATIONS AND WARNINGS).
+Limitations of Use:
 
-A single course of therapy for 15 to 20 weeks has been shown to result in complete and prolonged remission of disease in many patients.1,3,4 If a second course of therapy is needed, it should not be initiated until at least 8 weeks after completion of the first course, because experience has shown that patients may continue to improve while off Claravis.
-The optimal interval before retreatment has not been defined for patients who have not completed skeletal growth (see WARNINGS, Skeletal, Bone Mineral Density, Hyperostosis, Premature Epiphyseal Closure).
+If a second course of Claravis treatment is needed, it is not recommended before a two-month waiting period because the patient's acne may continue to improve following a 15 to 20-week course of treatment [see Dosage and Administration (2.2)].

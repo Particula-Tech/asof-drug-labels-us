@@ -1,82 +1,60 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Isotretinoin is a retinoid, which when administered in pharmacologic dosages of 0.5 to 1 mg/kg/day (see DOSAGE AND ADMINISTRATION), inhibits sebaceous gland function and keratinization.
-The exact mechanism of action of isotretinoin is unknown.
+## 12.1 Mechanism of Action
 
-## Nodular Acne
-
+The exact mechanism of action of Claravis in the treatment of severe recalcitrant nodular acne in non-pregnant patients 12 years of age and older with multiple inflammatory nodules with a diameter of 5 mm or greater who are unresponsive to conventional therapy, including systemic antibiotics is unknown.
+Isotretinoin, a retinoid, inhibits sebaceous gland function and keratinization.
 Clinical improvement in nodular acne patients occurs in association with a reduction in sebum secretion.
-The decrease in sebum secretion is temporary and is related to the dose and duration of treatment with Claravis, and reflects a reduction in sebaceous gland size and an inhibition of sebaceous gland differentiation.1
+The decrease in sebum secretion is temporary and reflects a reduction in sebaceous gland size and an inhibition of sebaceous gland differentiation.
 
-## Pharmacokinetics
+## 12.2 Pharmacodynamics
 
-### Absorption
+Decreased sebum secretion is related to the dose and duration of treatment with Claravis.
 
-Due to its high lipophilicity, oral absorption of isotretinoin is enhanced when given with a high-fat meal.
-In a crossover study, 74 healthy adult subjects received a single 80 mg oral dose (2 x 40 mg capsules) of Claravis under fasted and fed conditions.
-Both peak plasma concentration (Cmax) and the total exposure (AUC) of isotretinoin were more than doubled following a standardized high-fat meal when compared with Claravis given under fasted conditions (see Table 2).
-The observed elimination half-life was unchanged.
-This lack of change in half-life suggests that food increases the bioavailability of isotretinoin without altering its disposition.
-The time to peak concentration (Tmax) was also increased with food and may be related to a longer absorption phase.
-Therefore, Claravis capsules should always be taken with food (see DOSAGE AND ADMINISTRATION).
-Clinical studies have shown that there is no difference in the pharmacokinetics of isotretinoin between patients with nodular acne and healthy subjects with normal skin.
+## 12.3 Pharmacokinetics
 
-Table 2.
-Pharmacokinetic Parameters of Isotretinoin Mean (%CV), N=74
+The following parameters are presented as mean [coefficient of variation (CV%)] following a single oral dose of 80 mg of Claravis in healthy adult subjects unless otherwise stated.
 
-| Claravis 2 x 40 mg Capsules | AUC0-∞(ng • hr/mL) | Cmax(ng/mL) | Tmax(hr) | t½(hr) |
-| --- | --- | --- | --- | --- |
-| FedEating a standardized high-fat meal. | 10,004 (22%) | 862 (22%) | 5.3 (77%) | 21 (39%) |
-| Fasted | 3,703 (46%) | 301 (63%) | 3.2 (56%) | 21 (30%) |
+Isotretinoin Cmax is 862 (22%) ng/mL and AUC0-inf is 10,004 (22%) ng*h/mL when Claravis was administered with food in healthy adults.
+Isotretinoin accumulation ratio ranged from 0.90 to 5.43 in patients with cystic acne after multiple doses.
+No clinically significant differences in the pharmacokinetics of isotretinoin were observed between patients with nodular acne and healthy subjects without acne.
 
-### Distribution
+Absorption
 
-Isotretinoin is more than 99.9% bound to plasma proteins, primarily albumin.
+Isotretinoin time to maximum concentration (Tmax) is 5.3 hours (77%) when administered with food.
 
-### Metabolism
+Effect on Food: Isotretinoin AUC0-inf increased 2.7-fold and Cmax increased 2.9-fold relative to the fasted state following a high-fat meal.
+In addition, the extent of formation of all metabolites was higher, Tmax increased to 5.3 hours (77%), and the elimination half-life was unchanged under fed conditions [see Dosage and Administration (2.1)].
 
-Following oral administration of isotretinoin, at least three metabolites have been identified in human plasma: 4-oxo-isotretinoin, retinoic acid (tretinoin), and 4-oxo-retinoic acid (4-oxo-tretinoin).
+Distribution
+
+Isotretinoin is more than 99.9% bound to plasma proteins, primarily to albumin.
+
+Elimination
+
+The mean ± SD elimination half-life of isotretinoin is 21 ± 8.2 hours and 24 ± 5.3 hours for its 4-oxo-isotretinoin metabolite.
+
+Metabolism: Isotretinoin is primarily metabolized by CYP2C8, 2C9, 3A4, and 2B6 in vitro.
+Isotretinoin and its metabolites are further metabolized into conjugates.
+
+Isotretinoin is metabolized into at least three metabolites (4-oxo-isotretinoin, retinoic acid (tretinoin), and 4-oxo-retinoic acid (4-oxo-tretinoin)) which are detected in human plasma.
 Retinoic acid and 13-cis-retinoic acid are geometric isomers and show reversible interconversion.
 The administration of one isomer will give rise to the other.
 Isotretinoin is also irreversibly oxidized to 4-oxo-isotretinoin, which forms its geometric isomer 4-oxo-tretinoin.
+The exposure of adult cystic acne patients to 4-oxo-isotretinoin at steady state under fasted and fed conditions was approximately 3.4 times higher than that of isotretinoin.
+All of these metabolites possess retinoid activity in vitro, however the clinical significance is unknown.
 
-After a single 80 mg oral dose of isotretinoin to 74 healthy adult subjects, concurrent administration of food increased the extent of formation of all metabolites in plasma when compared to the extent of formation under fasted conditions.
+Excretion: Following administration of 80 mg of radiolabeled isotretinoin as a liquid suspension, the metabolites of isotretinoin were excreted in feces and urine in relatively equal amounts (total of 65% to 83%).
 
-All of these metabolites possess retinoid activity that is in some in vitro models more than that of the parent isotretinoin.
-However, the clinical significance of these models is unknown.
-After multiple oral dose administration of isotretinoin to adult cystic acne patients (≥18 years), the exposure of patients to 4-oxo-isotretinoin at steady-state under fasted and fed conditions was approximately 3.4 times higher than that of isotretinoin.
+Specific Populations
 
-In vitro studies indicate that the primary P450 isoforms involved in isotretinoin metabolism are 2C8, 2C9, 3A4, and 2B6.
-Isotretinoin and its metabolites are further metabolized into conjugates, which are then excreted in urine and feces.
+Pediatric Patients: No clinically statistically significant differences in isotretinoin pharmacokinetics were observed based on age (12 to 15 years, and ≥18 years) in patients who received single and multiple doses of Claravis.
+In both age groups, 4-oxo-isotretinoin was the major metabolite compared to tretinoin and 4-oxo-tretinoin.
 
-### Elimination
+Drug Interaction Studies
 
-Following oral administration of an 80 mg dose of 14C-isotretinoin as a liquid suspension, 14C-activity in blood declined with a half-life of 90 hours.
-The metabolites of isotretinoin and any conjugates are ultimately excreted in the feces and urine in relatively equal amounts (total of 65% to 83%).
-After a single 80 mg oral dose of isotretinoin to 74 healthy adult subjects under fed conditions, the mean ± SD elimination half-lives (t½) of isotretinoin and 4-oxo-isotretinoin were 21 ± 8.2 hours and 24 ± 5.3 hours, respectively.
-After both single and multiple doses, the observed accumulation ratios of isotretinoin ranged from 0.9 to 5.43 in patients with cystic acne.
+Clinical Studies:
 
-## Special Patient Populations
-
-### Pediatric Patients
-
-The pharmacokinetics of isotretinoin were evaluated after single and multiple doses in 38 pediatric patients (12 to 15 years) and 19 adult patients (≥18 years) who received isotretinoin for the treatment of severe recalcitrant nodular acne.
-In both age groups, 4-oxo-isotretinoin was the major metabolite; tretinoin and 4-oxo-tretinoin were also observed.
-The dose-normalized pharmacokinetic parameters for isotretinoin following single and multiple doses are summarized in Table 3 for pediatric patients.
-There were no statistically significant differences in the pharmacokinetics of isotretinoin between pediatric and adult patients.
-
-Table 3.
-Pharmacokinetic Parameters of Isotretinoin Following Single and Multiple Dose Administration in Pediatric Patients, 12 to 15 Years of Age Mean (± SD), N = 38The single and multiple dose data in this table were obtained following a non-standardized meal that is not comparable to the high-fat meal that was used in the study in Table 2.
-
-| Parameter | Isotretinoin (Single Dose) | Isotretinoin (Steady-State) |
-| --- | --- | --- |
-| Cmax (ng/mL) | 573.25 (278.79) | 731.98 (361.86) |
-| AUC(0 to 12) (ng·hr/mL) | 3033.37 (1394.17) | 5082 (2184.23) |
-| AUC(0 to 24) (ng·hr/mL) | 6003.81 (2885.67) | -- |
-| Tmax (hr)Median (range) | 6 (1 to 24.6) | 4 (0 to 12) |
-| CSSmin (ng/mL) | -- | 352.32 (184.44) |
-| T½ (hr) | -- | 15.69 (5.12) |
-| CL/F (L/hr) | -- | 17.96 (6.27) |
-
-In pediatric patients (12 to 15 years), the mean ± SD elimination half-lives (t½) of isotretinoin and 4-oxo-isotretinoin were 15.7 ± 5.1 hours and 23.1 ± 5.7 hours, respectively.
-The accumulation ratios of isotretinoin ranged from 0.46 to 3.65 for pediatric patients.
+- Norethindrone and Ethinyl Estradiol: There were no clinically significant differences in the pharmacokinetics of norethindrone and ethinyl estradiol after the concomitant use of Claravis (dosage of 1 mg/kg/day) with an oral contraceptive agent in premenopausal female patients with severe recalcitrant nodular acne.
+  Additionally, there was no clinically significant differences in the serum levels of progesterone, follicle-stimulating hormone, and luteinizing hormone in in these patients.
+- Phenytoin: There was no clinically significant differences in the pharmacokinetics of phenytoin when used concomitantly with isotretinoin.
