@@ -21,7 +21,7 @@ However, certain foods (e.g., aged cheeses, such as Stilton cheese) may contain 
 Relative selectivity of rasagiline for inhibiting MAO-B diminished in a dose-related manner as the dose progressively increased above the highest recommended daily dose (1 mg) [see Warnings and Precautions (5.1) and Drug Interactions (7.7)].
 Platelet MAO Activity in Clinical Studies Studies in healthy subjects and in Parkinson’s disease patients have shown that rasagiline inhibits platelet MAO-B irreversibly.
 The inhibition lasts at least 1 week after last dose.
-Almost 25to35% MAO-B inhibition was achieved after a single rasagiline dose of 1 mg/day and more than 55% of MAO-B inhibition was achieved after a single rasagiline dose of 2 mg/day.
+Almost 25 to 35% MAO-B inhibition was achieved after a single rasagiline dose of 1 mg/day and more than 55% of MAO-B inhibition was achieved after a single rasagiline dose of 2 mg/day.
 Over 90% inhibition was achieved 3 days after rasagiline daily dosing at 2 mg/day and this inhibition level was maintained 3 days postdose.
 Multiple doses of rasagiline of 0.5, 1 and 2 mg per day resulted in complete MAO-B inhibition.
 
@@ -41,7 +41,7 @@ In vitro experiments indicate that both routes of rasagiline metabolism are depe
 Glucuronide conjugation of rasagiline and its metabolites, with subsequent urinary excretion, is the major elimination pathway.
 After oral administration of 14C-labeled rasagiline, elimination occurred primarily via urine and secondarily via feces (62% of total dose in urine and 7% of total dose in feces over 7 days), with a total calculated recovery of 84% of the dose over a period of 38 days.
 Less than 1% of rasagiline was excreted as unchanged drug in urine.
-Specific Populations Hepatic Impairment Following repeat dose administration (7 days) of rasagiline (1 mg/day) in subjects with mild hepatic impairment (Child-Pugh score 5-6), AUC and Cmax were increased by 2 fold and 1.4 fold, respectively, compared to healthy subjects.
+Specific Populations HepaticImpairment Following repeat dose administration (7 days) of rasagiline (1 mg/day) in subjects with mild hepatic impairment (Child-Pugh score 5-6), AUC and Cmax were increased by 2 fold and 1.4 fold, respectively, compared to healthy subjects.
 In subjects with moderate hepatic impairment (Child to Pugh score 7 to 9), AUC and Cmax were increased by 7 fold and 2 fold, respectively, compared to healthy subjects [see Dosage and Administration (2.3) and Warnings and Precautions (5.5)].
 Renal Impairment Following repeat dose administration (8 days) of rasagiline (1 mg/day) in subjects with moderate renal impairment, rasagiline exposure (AUC) was similar to rasagiline exposure in healthy subjects, while the major metabolite 1-AI exposure (AUC) was increased 1.5-fold in subjects with moderate renal impairment, compared to healthy subjects.
 Because 1-AI is not an MAO inhibitor, no dose adjustment is needed for patients with mild and moderate renal impairment.
@@ -58,4 +58,4 @@ Theophylline: Coadministration of rasagiline 1 mg/day and theophylline, a substr
 Antidepressants: Severe CNS toxicity (occasionally fatal) associated with hyperpyrexia as part of a serotonin syndrome, has been reported with combined treatment of an antidepressant (e.g., from one of many classes including tricyclic or tetracyclic antidepressants, SSRIs, SNRIs, triazolopyridine antidepressants) and nonselective MAOI or a selective MAO-B inhibitor [see Warnings and Precautions (5.2)].
 Effect of Rasagiline on Other Drugs No additional in vivo trials have investigated the effect of rasagiline on other drugs metabolized by the cytochrome P450 enzyme system.
 In vitro studies showed that rasagiline at a concentration of 1 mcg/mL (equivalent to a level that is 160 times the average Cmax ~ 5.9 to 8.5 ng/mL in Parkinson’s disease patients after 1 mg rasagiline multiple dosing) did not inhibit cytochrome P450 isoenzymes, CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4 and CYP4A.
-These results indicate that rasagiline is unlikely to cause any clinically significant interference with substrates of these enzyme.
+These results indicate that rasagiline is unlikely to cause any clinically significant interference with substrates of these enzymes.

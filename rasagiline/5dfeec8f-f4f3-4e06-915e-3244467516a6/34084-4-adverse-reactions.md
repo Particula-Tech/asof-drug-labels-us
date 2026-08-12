@@ -87,7 +87,7 @@ Table 3: Adverse Reactions* in Study 3
 
 |  | Rasagiline 1 mg (N=149) | Rasagiline 0.5 mg (N=164) | Placebo (N=159) |
 | --- | --- | --- | --- |
-|  | % of patients | % of patients | % of patients |
+|  | % of Patients | % of Patients | % of Patients |
 | Dyskinesia | 18 | 18 | 10 |
 | Accidental injury | 12 | 8 | 5 |
 | Nausea | 12 | 10 | 8 |

@@ -1,7 +1,17 @@
 # PRINCIPAL DISPLAY PANEL 0.5 MG TABLET BOTTLE LABEL
 
-Ascend Laboratories, LLC NDC 67877-259-30 Bottle of 30 tablets Rx Only
+NDC 67877-259-30
+
+Rasagiline Tablets
+
+0.5 mg
+
+30 tablets
 
 # PRINCIPAL DISPLAY PANEL 1 MG TABLET BOTTLE LABEL
 
-Ascend Laboratories, LLC NDC 67877-260-30 Bottle of 30 tablets Rx Only
+NDC 67877-260-30
+
+Rasagiline Tablets
+
+1 mg 30 Tablets

@@ -30,7 +30,7 @@ Patients were on a stable dose of dopamine agonist (ropinirole, mean 8 mg/day or
 In Study 2, 321 patients randomly received placebo (162 patients) or rasagiline 1 mg/day (159 patients) and had a post-baseline assessment.
 The average Parkinson’s disease duration was approximately 2 years (range 0.1 to 14.5 years).
 The primary measure of effectiveness was the change from baseline in the total score of the Unified Parkinson’s Disease Rating Scale (UPDRS) [mentation (Part I) + activities of daily living (ADL) (Part II) + motor function (Part III)].
-In Study 2, rasagiline 1 mg was superior to placebo on the primary measure of effectiveness (see Table 5).
+In Study 2,rasagiline 1 mg was superior to placebo on the primary measure of effectiveness (see Table 5).
 Table 5: Change in Total UPDRS Score in Study 2
 
 |  | Baseline score | Change from baseline to termination score* | p-value vs. placebo |
@@ -71,7 +71,7 @@ In Study 3, patients were randomly assigned to receive placebo (159 patients), r
 Patients averaged 6 hours daily in the “OFF” state at baseline as confirmed by home diaries.
 In Study 4, patients were randomly assigned to receive placebo (229 patients), rasagiline 1 mg/day (231 patients) or a COMT inhibitor (active comparator), taken along with scheduled doses of levodopa/decarboxylase inhibitor (227 patients) for 18 weeks.
 Patients averaged 5.6 hours daily in the “OFF” state at baseline as confirmed by home diaries.
-In Study 3 and Study 4, rasagiline 1 mg once daily reduced “OFF” time compared to placebo when added to levodopa in patients experiencing motor fluctuations (Tables 7 and 8).
+In Study 3 and Study 4, rasagiline 1 mg once daily reduced “OFF” time compared to placebo when added to levodopa in patients experiencing motor fluctuations (Table 7 and 8).
 The lower dose (0.5 mg) of rasagiline also significantly reduced “OFF” time (Table 7), but had a numerically smaller effect than the 1 mg dose of rasagiline.
 In Study 4, the active comparator also reduced “OFF” time when compared to placebo.
 Table 7: Change in mean total daily “OFF” time in Study 3
@@ -98,7 +98,7 @@ There were no differences in effectiveness based on age or gender between rasagi
 Several secondary outcome assessments in the two studies showed statistically significant improvements with rasagiline.
 These included effects on the activities of daily living (ADL) subscale of the UPDRS performed during an “OFF” period and the motor subscale of the UPDRS performed during an “ON” period.
 In both scales, a negative response represents improvement.
-Table 9 and 10 show these results for Studies 3 and 4.
+Table9 and10 show these results for Studies 3 and 4.
 Table 9: Secondary Measures of Effectiveness in Study 3
 
 |  | Baseline (score) | Change from baseline to last value |
