@@ -2,7 +2,7 @@
 
 Acetaminophen and Codeine Phosphate Oral Solution is pharmacologically classified as an analgesic.
 
-Acetaminophen, 4'-hydroxyacetanilide, a slightly bitter, white, odorless, crystalline powder, is a non- opioid, non-salicylate analgesic and antipyretic.
+Acetaminophen, 4'-hydroxyacetanilide, a slightly bitter, white, odorless, crystalline powder, is a non-opioid, non-salicylate analgesic and antipyretic.
 It has the following structural formula:
 
 C8HgNO2 N.W.

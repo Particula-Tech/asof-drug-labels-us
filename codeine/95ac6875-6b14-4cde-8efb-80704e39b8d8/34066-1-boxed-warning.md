@@ -1,6 +1,6 @@
 # WARNING: SERIOUS AND LIFE-THREATENING RISKS FROM USE OFACETAMINOPHEN AND CODEINE PHOSPHATE ORAL SOLUTION
 
-## Risk of Medication Errors
+## Risk of Accidental Overdose and Death Due to Medication Errors
 
 Ensure accuracy when prescribing, dispensing, and administering acetaminophen and codeine phosphate oral solution, 120 mg/12 mg per 5 mL.
 Dosing errors due to confusion between mg and mL, and other codeine containing oral products of different concentrations can result in accidental overdose and death [see WARNINGS, DOSAGE AND ADMINISTRATION].
@@ -11,7 +11,7 @@ Because the use of acetaminophen and codeine phosphate oral solution exposes pat
 
 ## Life-Threatening Respiratory Depression
 
-Serious, life-threatening, or fatal respiratory depression may occur with use of acetaminophen and codeine phosphate oral solution, especially during initiation or following a dose increase.
+Serious, life-threatening, or fatal respiratory depression may occur with use of acetaminophen and codeine phosphate oral solution, especially during initiation or following a dosage increase.
 To reduce the risk of respiratory depression, proper dosing and titration of acetaminophen and codeine phosphate oral solution are essential [see WARNINGS].
 
 ## Accidental Ingestion
@@ -25,7 +25,7 @@ Reserve concomitant prescribing of acetaminophen and codeine phosphate oral solu
 
 ## Neonatal Opioid Withdrawal Syndrome
 
-If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
+Advise pregnant women using opioids for an extended period of time of the risk of Neonatal Opioid Withdrawal Syndrome, which may be life-threatening if not recognized and treated.
 Ensure that management by neonatology experts will be available at delivery [see WARNINGS].
 
 ## Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)

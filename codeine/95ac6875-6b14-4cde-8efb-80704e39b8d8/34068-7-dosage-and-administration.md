@@ -2,6 +2,16 @@
 
 ## Important Dosage and Administration Instructions
 
+Ensure accuracy when prescribing, dispensing, and administering acetaminophen and codeine phosphate oral solution to avoid dosing errors due to confusion between mg and mL, and with other acetaminophen and codeine phosphate solutions of different concentrations, which could result in accidental overdose and death.
+Ensure the proper dose is communicated and dispensed.
+When writing prescriptions, include both the total dose in mg and the total dose in volume.
+
+Instruct patients and caregivers on how to accurately measure and take or administer the correct dose of acetaminophen and codeine phosphate oral solution.
+
+Strongly advise patients and caregivers to always use a graduated oral syringe or measuring cup, with metric units of measurements (i.e., mL), to correctly measure the prescribed amount of medication.
+
+Inform patients and caregivers that oral dosing devises may be obtained from their pharmacy and to never use household teaspoons or tablespoons to measure acetaminophen and codeine phosphate oral solution.
+
 Acetaminophen and codeine phosphate oral solution should be prescribed only by healthcare professionals who are knowledgeable about the use of opioids and how to mitigate the associated risks.
 
 Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see WARNINGS].
@@ -16,16 +26,16 @@ Initiate the dosing regimen for each patient individually, taking into account t
 Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with acetaminophen and codeine phosphate oral solution.
 Consider this risk when selecting an initial dose and when making dose adjustments [see WARNINGS].
 
-## Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with acetaminophen and codeine phosphate oral solution [see WARNINGS, Life-Threatening Respiratory Depression; PRECAUTIONS, Information for Patients/Caregivers].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+The presence of risk factors for overdose should not prevent the management of pain in any patient [see WARNINGS; Addiction, Abuse, and Misuse; Life-Threatening Respiratory Depression; Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants].
 
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing regulations (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program).
 
-Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see WARNINGS, Addiction, Abuse, and Misuse, Life-Threatening Respiratory Depression, Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants].
-
-Consider prescribing naloxone when the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
 ## Initial Dosage
 
@@ -62,9 +72,9 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 ## Safe Reduction or Discontinuation of Acetaminophen and Codeine Phosphate Oral Solution
 
-Do not abruptly discontinue acetaminophen and codeine phosphate oral solution in patients who may be physically dependent on opioids.
-Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
-Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Do not rapidly reduce or abruptly discontinue acetaminophen and codeine phosphate oral solution in patients who may be physically dependent on opioids.
+Rapid reduction or abrupt discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid reduction or abrupt discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
 When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking acetaminophen and codeine phosphate oral solution, there are a variety of factors that should be considered, including the total daily dose of opioid (including acetaminophen and codeine phosphate oral solution) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.

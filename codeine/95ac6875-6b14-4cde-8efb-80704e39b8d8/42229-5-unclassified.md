@@ -1,6 +1,6 @@
 # DRUG INTERACTIONS
 
-## CYP2D6 Inhibitors
+CYP2D6 Inhibitors
 
 Codeine is metabolized by CYP2D6 to form morphine.
 The concomitant use of acetaminophen and codeine phosphate oral solution and CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, bupropion, quinidine) can increase the plasma concentration of codeine, but can decrease the plasma concentration of active metabolite morphine, which could result in reduced analgesic efficacy or symptoms of opioid withdrawal, particularly when an inhibitor is added after a stable dose of acetaminophen and codeine phosphate oral solution is achieved [see CLINICAL PHARMACOLOGY].
@@ -13,7 +13,7 @@ If concomitant use with CYP2D6 inhibitors is necessary, follow the patient for r
 
 After stopping use of a CYP2D6 inhibitor, consider reducing the acetaminophen and codeine phosphate oral solution and monitor the patient for signs and symptoms of respiratory depression or sedation.
 
-## CYP3A4 Inhibitors
+CYP3A4 Inhibitors
 
 The concomitant use of acetaminophen and codeine phosphate oral solution and CYP3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), and protease inhibitors (e.g., ritonavir), may result in an increase in codeine plasma concentrations, with subsequently greater metabolism by cytochrome CYP2D6, resulting in greater morphine levels, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression, particularly when an inhibitor is added after a stable dose of acetaminophen and codeine phosphate oral solution is achieved [see WARNINGS].
 
@@ -25,7 +25,7 @@ Evaluate patients at frequent intervals for respiratory depression and sedation.
 If a CYP3A4 inhibitor is discontinued, consider increasing the acetaminophen and codeine phosphate oral solution dosage until stable drug effects are achieved.
 Assess for signs of opioid withdrawal.
 
-## CYP3A4 Inducers
+CYP3A4 Inducers
 
 The concomitant use of acetaminophen and codeine phosphate oral solution and CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin) can result in lower codeine levels, greater norcodeine levels, and less metabolism via 2D6 with resultant lower morphine levels [see CLINICAL PHARMACOLOGY], resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence [see WARNINGS].
 
@@ -35,16 +35,18 @@ If concomitant use of a CYP3A4 inducer is necessary, evaluate the patient for re
 
 If a CYP3A4 inducer is discontinued, consider an acetaminophen and codeine phosphate oral solution dose reduction and evaluate patients at frequent intervals for signs of respiratory depression and sedation.
 
-## Benzodiazepines and Other Central Nervous System (CNS) Depressants
+Benzodiazepines and Other Central Nervous System (CNS) Depressants
 
-Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics and other opioids, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death.
+Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death.
 
 Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 Limit dosages and durations to the minimum required.
-Inform patients and caregivers of this potential interaction, educate them on the signs and symptoms of respiratory depression (including sedation).
-If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see WARNINGS].
+Inform patients and caregivers of this potential interaction and educate them on the signs and symptoms of respiratory depression (including sedation).
+If concomitant use is warranted, consider recommending or prescribing an opioid overdose reversal agent [see WARNINGS, DOSAGE and ADMINISTRATION].
 
-## Serotonergic Drugs
+Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids (gabapentin or pregabalin), other opioids, alcohol.
+
+Serotonergic Drugs
 
 The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome.
 Examples of these drugs include, selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), and monoamine oxidase (MAO) inhibitors (used to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see PRECAUTIONS; Information for Patients].
@@ -52,33 +54,33 @@ Examples of these drugs include, selective serotonin reuptake inhibitors (SSRIs)
 If concomitant use is warranted, frequently evaluate the patient, particularly during treatment initiation and dose adjustment.
 Discontinue acetaminophen and codeine phosphate oral solution if serotonin syndrome is suspected.
 
-## Monoamine Oxidase Inhibitors (MAOIs)
+Monoamine Oxidase Inhibitors (MAOIs)
 
 The concomitant use of opioids and MAOIs, such as phenelzine, tranylcypromine, linezolid, may manifest as serotonin syndrome or opioid toxicity.
 
 Advise patients taking acetaminophen and codeine phosphate oral solution not to use MAOIs or within 14 days of stopping such treatment.
 If urgent use of an opioid is necessary, use test doses and frequent titration of small doses of other opioids (such as oxycodone, hydrocodone, oxymorphone, hydrocodone, or buprenorphine) to treat pain while closely monitoring blood pressure and signs and symptoms of CNS and respiratory depression.
 
-## Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
+Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
 
 The concomitant use of opioids with other opioid analgesics, such as butorphanol, nalbuphine, pentazocine, may reduce the analgesic effect of acetaminophen and codeine phosphate oral solution and/or precipitate withdrawal symptoms.
 
 Advise patient to avoid concomitant use of these drugs.
 
-## Muscle Relaxants
+Muscle Relaxants
 
-Acetaminophen and codeine phosphate oral solution may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
+Codeine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
 
 If concomitant use is warranted, because respiratory depression may be greater than otherwise expected, decrease the dosage of acetaminophen and codeine phosphate oral solution and/or the muscle relaxant as necessary.
-Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose [see WARNINGS].
+Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider recommending or prescribing an opioid overdose reversal agent [see WARNINGS, DOSAGE AND ADMINISTRATION].
 
-## Diuretics
+Diuretics
 
 Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
 
 If concomitant use is warranted, monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed.
 
-## Anticholinergic Drugs
+Anticholinergic Drugs
 
 The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
 
@@ -92,7 +94,7 @@ Acetaminophen may produce false-positive test results for urinary 5-hydroxyindol
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-### Carcinogenesis
+Carcinogenesis
 
 Long-term studies to evaluate the carcinogenic potential of the combination of codeine and acetaminophen have not been conducted.
 
@@ -105,14 +107,14 @@ In 2-year feeding studies, F344/N rats and B6C3F1 mice were fed a diet containin
 Female rats demonstrated equivocal evidence of carcinogenic activity based on increased incidences of mononuclear cell leukemia at 0.8 times the maximum human daily dose (MHDD) of 4 grams/day, based on a body surface area comparison.
 In contrast, there was no evidence of carcinogenic activity in male rats that received up to 0.7 times or mice at up to 1.2-1.4 times the MHDD, based on a body surface area comparison.
 
-### Mutagenesis
+Mutagenesis
 
 Codeine sulfate was not mutagenic in the in vitro bacterial reverse mutation assay or clastogenic in the in vitro Chinese hamster ovary cell chromosome aberration assay.
 
 In the published literature, acetaminophen has been reported to be clastogenic when administered at 1500 mg/kg/day to the rat model (3.6-times the MHDD, based on a body surface area comparison).
 In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8-times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
 
-### Impairment of Fertility
+Impairment of Fertility
 
 No nonclinical fertility studies have been conducted with codeine or the combination of codeine and acetaminophen.
 
@@ -124,7 +126,7 @@ Published studies in rodents report that oral acetaminophen treatment of male an
 These effects appear to increase with the duration of treatment.
 The clinical significance of these findings is not known.
 
-### Infertility
+Infertility
 
 Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see ADVERSE REACTIONS].
@@ -155,7 +157,8 @@ Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage 
 ## Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
+
 Acetaminophen and codeine phosphate oral solution is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
 Opioid analgesics, including acetaminophen and codeine phosphate oral solution, and can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
@@ -207,12 +210,12 @@ Respiratory depression is the chief risk for elderly patients treated with opioi
 Titrate the dosage of acetaminophen and codeine phosphate oral solution slowly in geriatric patients and monitor closely for signs of central nervous system and central nervous system depression [see WARNINGS].
 
 These drugs are known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
 
-# MANUFACTURED BY
+# Distributed by:
 
-PAI Pharma Greenville, SC 29605
+PAI Pharma Greenville, SC 29605 www.paipharma.com
 
-R12/23
+R06/26
 
 MEDICATION GUIDE See attached.
