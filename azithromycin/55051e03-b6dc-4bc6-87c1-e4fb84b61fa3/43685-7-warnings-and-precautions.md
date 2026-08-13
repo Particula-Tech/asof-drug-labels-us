@@ -2,8 +2,8 @@
 
 ## 5.1 Hypersensitivity
 
-Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Acute Generalized Exanthematous Pustulosis (AGEP), Stevens-Johnson Syndrome, and toxic epidermal necrolysis have been reported in patients on azithromycin therapy [see Contraindications (4.1)].
-Fatalities have been reported.
+Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Acute Generalized Exanthematous Pustulosis (AGEP), Stevens-Johnson Syndrome, and toxic epidermal necrolysis have been reported in patients on azithromycin therapy.
+[see Contraindications (4.1)] Fatalities have been reported.
 Cases of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have also been reported.
 Despite initially successful symptomatic treatment of the allergic symptoms, when symptomatic therapy was discontinued, the allergic symptoms recurred soon thereafter in some patients without further azithromycin exposure.
 These patients required prolonged periods of observation and symptomatic treatment.
@@ -39,7 +39,7 @@ Consider balancing this potential risk with treatment benefits when prescribing 
 
 ## 5.6 Clostridioides difficile-Associated Diarrhea
 
-Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including azithromycin for injection, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-Associated Diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including azithromycin for injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -56,7 +56,8 @@ Exacerbations of symptoms of myasthenia gravis and new onset of myasthenic syndr
 
 ## 5.8 Infusion Site Reactions
 
-Azithromycin for injection should be reconstituted and diluted as directed and administered as an intravenous infusion over not less than 60 minutes [see Dosage and Administration (2)].
+Azithromycin for injection should be reconstituted and diluted as directed and administered as an intravenous infusion over not less than 60 minutes.
+[see Dosage and Administration (2)]
 
 Local IV site reactions have been reported with the intravenous administration of azithromycin.
 The incidence and severity of these reactions were the same when 500 mg azithromycin was given over 1 hour (2 mg/mL as 250 mL infusion) or over 3 hr (1 mg/mL as 500 mL infusion) [see Adverse Reactions (6)].

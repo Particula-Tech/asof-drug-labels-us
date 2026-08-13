@@ -16,6 +16,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 In clinical trials of intravenous azithromycin for community-acquired pneumonia, in which 2 to 5 IV doses were given, the reported adverse reactions were mild to moderate in severity and were reversible upon discontinuation of the drug.
 The majority of patients in these trials had one or more co-morbid diseases and were receiving concomitant medications.
+
 Approximately 1.2% of the patients discontinued intravenous azithromycin therapy, and a total of 2.4% discontinued azithromycin therapy by either the intravenous or oral route because of clinical or laboratory side effects.
 
 In clinical trials conducted in patients with pelvic inflammatory disease, in which 1 to 2 IV doses were given, 2% of women who received monotherapy with azithromycin and 4% who received azithromycin plus metronidazole discontinued therapy due to clinical side effects.
@@ -54,7 +55,8 @@ Genitourinary: Interstitial nephritis and acute renal failure and vaginitis.
 
 Hematopoietic: Thrombocytopenia.
 
-Liver/biliary: Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure [see Warnings and Precautions (5.2)].
+Liver/biliary: Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure.
+[see Warnings and Precautions (5.2)]
 
 Nervous system: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation and syncope.
 

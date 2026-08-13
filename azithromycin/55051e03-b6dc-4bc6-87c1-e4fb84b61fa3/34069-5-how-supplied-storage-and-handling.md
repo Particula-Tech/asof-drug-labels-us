@@ -15,5 +15,3 @@ Store at 20° to 25°C (68° to 77°F).
 Sterile, Nonpyrogenic, Preservative-free.
 
 The container closure is not made with natural rubber latex.
-
-All brands listed are the trademarks of their respective owners and are not trademarks of Gland Pharma Limited.
