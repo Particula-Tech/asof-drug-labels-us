@@ -3,8 +3,8 @@
 ## 5.1 Substitution with Other Nilotinib Products and Risk of Medication Errors
 
 Nilotinib is available in different formulations, recommended dosages, and strengths, and for different indications.
-CAVHANZA (nilotinib) orally disintegrating tablets may not be substitutablewith other nilotinib products, including other nilotinib tablets, on a milligram per milligram basis.
-When switching patients between other nilotinib products and CAVHANZA (nilotinib) orally disintegrating tablets, a dose conversion is required [see Dosage and Administration (2.1and 2.2)].
+CAVHANZA (nilotinib) orally disintegrating tablets may not be substitutable with other nilotinib products, including other nilotinib tablets, on a milligram per milligram basis.
+When switching patients between other nilotinib products and CAVHANZA (nilotinib) orally disintegrating tablets, a dose conversion is required [see Dosage and Administration (2.1 and 2.2)].
 Substitution of CAVHANZA (nilotinib) orally disintegrating tablets for another nilotinib product to achieve the same daily nilotinib dosage on a milligram per milligram basis may result in a clinically significant:
 
 - Increase in nilotinib exposure which may increase the risk of nilotinib-associated adverse reactions.
@@ -121,7 +121,7 @@ Advise females of reproductive potential to use effective contraception during t
 Monitoring of BCR-ABL Transcript Levels in Patients Who Discontinued Nilotinib
 
 Monitor BCR-ABL transcript levels in patients eligible for treatment discontinuation using an FDA authorized test validated to measure molecular response levels with a sensitivity of at least MR4.5 (BCR-ABL/ABL ≤ 0.0032% IS).
-In patients who discontinue CAVHANZA therapy, assess BCR-ABL transcript levels monthly for one year, then every 6 weeks for the second year, and every 12 weeks thereafter during treatment discontinuation [see Clinical Studies (14.3, 14.4), Dosage and Administration (2.3)].
+In patients who discontinue CAVHANZA therapy, assess BCR-ABL transcript levels monthly for one year, then every 6 weeks for the second year, and every 12 weeks thereafter during treatment discontinuation [see Clinical Studies (14.3,14.4), Dosage and Administration (2.3)].
 
 Newly diagnosed patients must reinitiate CAVHANZA therapy within 4 weeks of a loss of major molecular response [(MMR), corresponding to MR3.0 or = BCR-ABL/ABL ≤ 0.1% IS].
 

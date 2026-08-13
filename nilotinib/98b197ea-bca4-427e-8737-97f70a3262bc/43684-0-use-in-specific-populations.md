@@ -31,8 +31,8 @@ Fetal skeletal variations (incomplete ossification of the hyoid, bent hyoid, sup
 Slight maternal toxicity was evident at 100 mg/kg/day but there were no reproductive or embryo-fetal effects at this dose.
 At 30 mg/kg/day in rats and 300 mg/kg/day in rabbits, the maternal systemic exposure (AUC) were 72700 ng*hr/mL and 17100 ng*hr/mL respectively, representing approximately 2 and 0.5 times the exposure in humans at the highest recommended dose 400 mg twice daily (equivalent to 160 mg twice daily of CAVHANZA).
 
-When pregnant rats were dosed with nilotinib during organogenesis and through lactation, the adverse effects included a longer gestational period, lower pup body weights until weaning and decreased fertility indices in the pups when they reached maturity, all at a maternal dose of 60 mg/kg (i.e., 360 mg/m 2, approximately 0.7 times the clinical dose of 400 mg [equivalent to 160 mg of CAVHANZA] twice daily based on body surface area).
-At doses up to 20 mg/kg (i.e., 120 mg/m 2, approximately 0.25 times the clinical dose of 400 mg twice daily based on body surface area) no adverse effects were seen in the maternal animals or the pups.
+When pregnant rats were dosed with nilotinib during organogenesis and through lactation, the adverse effects included a longer gestational period, lower pup body weights until weaning and decreased fertility indices in the pups when they reached maturity, all at a maternal dose of 60 mg/kg (i.e., 360 mg/m2, approximately 0.7 times the clinical dose of 400 mg [equivalent to 160 mg of CAVHANZA] twice daily based on body surface area).
+At doses up to 20 mg/kg (i.e., 120 mg/m2, approximately 0.25 times the clinical dose of 400 mg twice daily based on body surface area) no adverse effects were seen in the maternal animals or the pups.
 
 ## 8.2 Lactation
 
@@ -45,7 +45,7 @@ Because of the potential for serious adverse reactions in a breastfed child, adv
 Animal Data
 
 After a single 20 mg/kg of [14C] nilotinib dose to lactating rats, the transfer of parent drug and its metabolites into milk was observed.
-The overall milk-to-plasma exposure ratio of total radioactivity was approximately 2, based on the AUC 0-24hor AUC 0-INFvalues.
+The overall milk-to-plasma exposure ratio of total radioactivity was approximately 2, based on the AUC0-24h or AUC0-INF values.
 No rat metabolites of nilotinib were detected that were unique to milk.
 
 ## 8.3 Females and Males of Reproductive Potential

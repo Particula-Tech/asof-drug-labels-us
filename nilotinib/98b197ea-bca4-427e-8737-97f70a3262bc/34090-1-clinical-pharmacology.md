@@ -34,7 +34,7 @@ Table 11: Nilotinib mean ±SD single-dose exposure in fasted subjects receiving 
 Absorption
 
 There were no differences in the rate and extent of nilotinib systemic exposures when the orally disintegrating tablet was swallowed intact relative to allowing the tablet to orally disintegrate prior to swallowing.
-The median time (range) to reach maximal plasma concentration (T max) of nilotinib is 2 hours (1-8 hours) in the fasted state after oral administration.
+The median time (range) to reach maximal plasma concentration (Tmax) of nilotinib is 2 hours (1-8 hours) in the fasted state after oral administration.
 
 Median steady-state trough concentration of nilotinib was decreased by 53% in patients with total gastrectomy compared to patients who had not undergone surgeries [see Warnings and Precautions (5.10)].
 
@@ -77,7 +77,7 @@ Drug Interaction Studies
 
 Clinical Studies
 
-Gastric Acid Reducing Agents:Following concomitant use of multiple doses of esomeprazole (PPI) 40 mg daily, the total systemic exposure (AUC) of CAVHANZA decreased by approximately 0.5%.
+Gastric Acid Reducing Agents: Following concomitant use of multiple doses of esomeprazole (PPI) 40 mg daily, the total systemic exposure (AUC) of CAVHANZA decreased by approximately 0.5%.
 CAVHANZA can be coadministered with proton pump inhibitors, H2 antagonists, and antacids.
 
 Strong CYP3A Inhibitors:Nilotinib AUC increased by approximately 3-fold following concomitant administration of ketoconazole (strong CYP3A inhibitor) 400 mg once daily for 6 days.
@@ -85,17 +85,17 @@ Nilotinib AUC increased by 1.3-fold with concomitant use with double-strength gr
 
 Strong CYP3A Inducers:Nilotinib AUC decreased by approximately 80% following concomitant use with rifampicin (strong CYP3A inducer) 600 mg daily.
 
-Moderate CYP3A Inhibitors:Following coadministration of nilotinib 400 mg twice daily with imatinib (a moderate CYP3A inhibitor) 400 mg daily or 400 mg twice daily, the AUC increased 30% to 50% for nilotinib and approximately 20% for imatinib.
+Moderate CYP3A Inhibitors: Following coadministration of nilotinib 400 mg twice daily with imatinib (a moderate CYP3A inhibitor) 400 mg daily or 400 mg twice daily, the AUC increased 30% to 50% for nilotinib and approximately 20% for imatinib.
 
-CYP3A4 Substrates:Multiple doses of nilotinib capsules increased the systemic exposure of oral midazolam (a substrate of CYP3A4) 2.6-fold.
+CYP3A4 Substrates: Multiple doses of nilotinib capsules increased the systemic exposure of oral midazolam (a substrate of CYP3A4) 2.6-fold.
 
-CYP2C9 Substrates:Single-dose of nilotinib capsules did not change the pharmacokinetics and pharmacodynamics of warfarin (a CYP2C9 substrate).
+CYP2C9 Substrates: Single-dose of nilotinib capsules did not change the pharmacokinetics and pharmacodynamics of warfarin (a CYP2C9 substrate).
 
 In Vitro Studies Where Drug Interaction Potential was not Further Evaluated Clinically
 
 CYP Enzymes: Nilotinib is a competitive inhibitor of CYP2C8, CYP2D6, and is an inducer of CYP2B6 and CYP2C8.
 
-UGT Enzymes:Nilotinib is an inhibitor of UGT1A.
+UGT Enzymes: Nilotinib is an inhibitor of UGT1A.
 
 Transporter Systems: Nilotinib is a substrate and an inhibitor of P-gp.
 

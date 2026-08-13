@@ -2,8 +2,8 @@
 
 ## 14.1 Adult Newly Diagnosed Ph+ CML-CP
 
-The effectiveness of 120 mg twice daily of CAVHANZA (nilotinib) orally disintegrating tablets for the treatment of adult patients with newly diagnosed Ph+ CML-CP has been established from an adequate and well-controlled study of Tasigna ®(nilotinib) capsules, which has a different recommended dosage than CAVHANZA.
-Below is a display of the results of Tasigna ®(nilotinib) capsules in this adequate and well-controlled study.
+The effectiveness of 120 mg twice daily of CAVHANZA (nilotinib) orally disintegrating tablets for the treatment of adult patients with newly diagnosed Ph+ CML-CP has been established from an adequate and well-controlled study of Tasigna® (nilotinib) capsules, which has a different recommended dosage than CAVHANZA.
+Below is a display of the results of Tasigna® (nilotinib) capsules in this adequate and well-controlled study.
 
 The ENESTnd (Evaluating Nilotinib Efficacy and Safety in clinical Trials-Newly Diagnosed patients) study (NCT00471497) was an open-label, multicenter, randomized trial conducted to determine the efficacy of nilotinib versus imatinib tablets in adult patients with cytogenetically confirmed newly diagnosed Ph+ CML-CP.
 Patients were within 6 months of diagnosis and were previously untreated for CML-CP, except for hydroxyurea and/or anagrelide.
@@ -25,14 +25,14 @@ Two patients in the nilotinib arm progressed to either accelerated phase or blas
 
 Table 12: Efficacy (MMR and CCyR) of Nilotinib Compared to Imatinib in Adult Newly Diagnosed Ph+ CML-CP (ENESTnd)
 
-|  | nilotinib300 mgTwice Daily* | imatinib400 mgOnce Daily |
+|  | nilotinib 300 mgTwice Daily* | imatinib 400 mgOnce Daily |
 | --- | --- | --- |
 |  | N = 282 | N = 283 |
 | MMR at 12 months (95% CI) | 44% (38.4, 50.3) | 22% (17.6, 27.6) |
-| P-Value a | < 0.0001 |  |
-| CCyR bby 12 months (95% CI) | 80% (75.0, 84.6) | 65% (59.2, 70.6) |
+| P-Valuea | < 0.0001 |  |
+| CCyRb by 12 months (95% CI) | 80% (75.0, 84.6) | 65% (59.2, 70.6) |
 | MMR at 24 months (95% CI) | 62% (55.8, 67.4) | 38% (31.8, 43.4) |
-| CCyR bby 24 months (95% CI) | 87% (82.4, 90.6) | 77% (71.7, 81.8) |
+| CCyRb by 24 months (95% CI) | 87% (82.4, 90.6) | 77% (71.7, 81.8) |
 
 Abbreviation: CI, confidence interval. *equivalent to CAVHANZA 120 mg twice daily aCMH test stratified by Sokal risk group. bCCyR: 0% Ph+ metaphases.
 Cytogenetic responses were based on the percentage of Ph+ metaphases among greater than or equal to 20 metaphase cells in each bone marrow sample.
@@ -43,8 +43,8 @@ At the time of the 60-month final analysis, the estimated survival rate was 93.7
 
 ## 14.2 Adult Patients with Resistant or Intolerant Ph+ CML-CP and CML-AP
 
-The effectiveness of 160 mg twice daily of CAVHANZA (nilotinib) orally disintegrating tablets for the treatment of adult patients with Ph+ CML- CP and Ph+ CML-AP resistant or intolerant to prior therapy that included imatinib has been established from an adequate and well-controlled study of Tasigna ®(nilotinib) capsules, which has a different recommended dosage than CAVHANZA.
-Below is a display of the results of Tasigna ®(nilotinib) capsules in this adequate and well-controlled study.
+The effectiveness of 160 mg twice daily of CAVHANZA (nilotinib) orally disintegrating tablets for the treatment of adult patients with Ph+ CML- CP and Ph+ CML-AP resistant or intolerant to prior therapy that included imatinib has been established from an adequate and well-controlled study of Tasigna® (nilotinib) capsules, which has a different recommended dosage than CAVHANZA.
+Below is a display of the results of Tasigna® (nilotinib) capsules in this adequate and well-controlled study.
 
 Study CAMN107A2101 (referred to as Study A2101) (NCT00109707) was a single-arm, open-label, multicenter study conducted to evaluate the efficacy and safety of nilotinib (dosage equivalent to 160 mg twice daily of CAVHANZA) in patients with imatinib-resistant or -intolerant CML with separate cohorts for chronic and accelerated phase disease.
 The definition of imatinib resistance included failure to achieve a complete hematologic response (by 3 months), cytogenetic response (by 6 months) or major cytogenetic response (by 12 months) or progression of disease after a previous cytogenetic or hematologic response.
@@ -66,22 +66,22 @@ Median durations of response had not been reached at the time of data analysis.
 
 Table 13: Efficacy of Nilotinib in Adult Resistant or Intolerant Ph+ CML-CP and CML-AP (Study A2101)
 
-| Cytogenetic Response Rate (Unconfirmed) (%) a |  |
+| Cytogenetic Response Rate (Unconfirmed) (%)a |  |
 | --- | --- |
 |  | Chronic Phase(n = 321) |
 | Major (95% CI) | 51% (46%-57%) |
 | Complete (95% CI) | 37% (32%-42%) |
 | Partial (95% CI) | 15% (11%-19%) |
 |  | Accelerated Phase(n = 137) |
-| Hematologic Response Rate (Confirmed) (95% CI) b | 39% (31%-48%) |
+| Hematologic Response Rate (Confirmed) (95% CI)b | 39% (31%-48%) |
 | Complete Hematologic Response Rate (95% CI) | 30% (22%-38%) |
 | No Evidence of Leukemia (95% CI) | 9% (5%-16%) |
 
 aCytogenetic response criteria: Complete (0% Ph+ metaphases) or partial (1% to 35%).
 Cytogenetic responses were based on the percentage of Ph-positive metaphases among greater than or equal to 20 metaphase cells in each bone marrow sample. bHematologic response = CHR + NEL (all responses confirmed after 4 weeks).
-CHR (CML-CP): WBC less than 10 x 10 9/L, platelets less than 450,000/mm 3, no blasts or promyelocytes in peripheral blood, less than 5% myelocytes + metamyelocytes in bone marrow, less than 20% basophils in peripheral blood, and no extramedullary involvement.
-CHR (CML-AP): neutrophils greater than or equal to1.5 x 10 9/L, platelets greater than or equal to100 x 10 9/L, no myeloblasts in peripheral blood, myeloblasts less than 5% in bone marrow, and no extramedullary involvement.
-NEL: same criteria as for CHR but neutrophils greater than or equal to1.0 x 10 9/L and platelets greater than or equal to20 x 10 9/L without transfusions or bleeding.
+CHR (CML-CP): WBC less than 10 x 109/L, platelets less than 450,000/mm3, no blasts or promyelocytes in peripheral blood, less than 5% myelocytes + metamyelocytes in bone marrow, less than 20% basophils in peripheral blood, and no extramedullary involvement.
+CHR (CML-AP): neutrophils greater than or equal to 1.5 x 109/L, platelets greater than or equal to 100 x 109/L, no myeloblasts in peripheral blood, myeloblasts less than 5% in bone marrow, and no extramedullary involvement.
+NEL: same criteria as for CHR but neutrophils greater than or equal to 1.0 x 109/L and platelets greater than or equal to 20 x 109/L without transfusions or bleeding.
 
 Adult Patients with Chronic Phase CML
 
@@ -102,10 +102,10 @@ After imatinib failure, 24 different BCR-ABL mutations were noted in 42% of chro
 
 ## 14.3 Treatment Discontinuation in Newly Diagnosed Ph+ CML-CP Patients Who Have Achieved a Sustained Molecular Response (MR4.5)
 
-The efficacy of CAVHANZA (nilotinib) orally disintegrating tablets treatment discontinuation in adult patients with newly diagnosed Ph+ CML-CP has been established from an adequate and well-controlled study of Tasigna ®(nilotinib) capsules, which has a different recommended dosage than CAVHANZA.
-Below is a display of the results of Tasigna ®(nilotinib) capsules in this adequate and well-controlled study.
+The efficacy of CAVHANZA (nilotinib) orally disintegrating tablets treatment discontinuation in adult patients with newly diagnosed Ph+ CML-CP has been established from an adequate and well-controlled study of Tasigna® (nilotinib) capsules, which has a different recommended dosage than CAVHANZA.
+Below is a display of the results of Tasigna® (nilotinib) capsules in this adequate and well-controlled study.
 
-The ENESTfreedom (Evaluating Nilotinib Efficacy and Safety in clinical Trials-freedom) study (NCT01784068) is an open-label, multicenter, single-arm study, where 215 adult patients with Ph+ CML-CP treated with nilotinib in first-line for ≥ 2 years who achieved MR4.5 as measured with the MolecularMD MRDx ®BCR-ABL Test were enrolled to continue nilotinib treatment for an additional 52 weeks (nilotinib consolidation phase).
+The ENESTfreedom (Evaluating Nilotinib Efficacy and Safety in clinical Trials-freedom) study (NCT01784068) is an open-label, multicenter, single-arm study, where 215 adult patients with Ph+ CML-CP treated with nilotinib in first-line for ≥ 2 years who achieved MR4.5 as measured with the MolecularMD MRDx® BCR-ABL Test were enrolled to continue nilotinib treatment for an additional 52 weeks (nilotinib consolidation phase).
 
 Of the 215 patients, 190 patients (88.4%) entered the “Treatment-Free Remission” (TFR) phase after achieving a sustained molecular response (MR4.5) during the consolidation phase, defined by the following criteria:
 
@@ -135,7 +135,7 @@ Table 14: Efficacy Results for ENESTfreedom
 
 | Patients Who Entered the Treatment Free Remission (TFR) Phase (Full Analysis Set, N = 190) |  |  |  |
 | --- | --- | --- | --- |
-|  | Patients in TFR phase 1at the specified time point |  | Loss of MMR 2by the specified time point |
+|  | Patients in TFR phase1 at the specified time point |  | Loss of MMR2 by the specified time point |
 |  | % | 95% CI | % |
 | 24 weeks | 62.1 | (54.8, 69.0) | 35.8 |
 | 48 weeks | 51.6 | (44.2, 58.9) | 45.8 |
@@ -155,10 +155,10 @@ Figure 1: Kaplan-Meier Estimate of Treatment-Free Survival After Start of TFR (F
 
 ## 14.4 Treatment Discontinuation in Ph+ CML-CP Patients Who Have Achieved a Sustained Molecular Response (MR4.5) on CAVHANZA Following Prior Imatinib Therapy
 
-The efficacy of CAVHANZA (nilotinib) orally disintegrating tablets treatment discontinuation in adult patients with Ph+ CML-CP following prior imatinib has been established from an adequate and well-controlled study of Tasigna ®(nilotinib) capsules.
-Below is a display of the results of Tasigna ®(nilotinib) capsules in this adequate and well-controlled study.
+The efficacy of CAVHANZA (nilotinib) orally disintegrating tablets treatment discontinuation in adult patients with Ph+ CML-CP following prior imatinib has been established from an adequate and well-controlled study of Tasigna® (nilotinib) capsules.
+Below is a display of the results of Tasigna® (nilotinib) capsules in this adequate and well-controlled study.
 
-The ENESTop (Evaluating Nilotinib Efficacy and Safety in clinical Trials-STop) study (NCT01698905) is an open-label, multicenter, single-arm study, where 163 adult patients with Ph+ CML-CP taking tyrosine kinase inhibitors (TKIs) for ≥ 3 years (imatinib as initial TKI therapy for more than 4 weeks without documented MR4.5 on imatinib at the time of switch to nilotinib, then switched to nilotinib for at least 2 years), and who achieved MR4.5 on nilotinib treatment as measured with the MolecularMD MRDx ®BCR-ABL Test were enrolled to continue nilotinib treatment for an additional 52 weeks (nilotinib consolidation phase).
+The ENESTop (Evaluating Nilotinib Efficacy and Safety in clinical Trials-STop) study (NCT01698905) is an open-label, multicenter, single-arm study, where 163 adult patients with Ph+ CML-CP taking tyrosine kinase inhibitors (TKIs) for ≥ 3 years (imatinib as initial TKI therapy for more than 4 weeks without documented MR4.5 on imatinib at the time of switch to nilotinib, then switched to nilotinib for at least 2 years), and who achieved MR4.5 on nilotinib treatment as measured with the MolecularMD MRDx® BCR-ABL Test were enrolled to continue nilotinib treatment for an additional 52 weeks (nilotinib consolidation phase).
 Of the 163 patients, 126 patients (77.3%) entered the TFR phase after achieving a sustained molecular response (MR4.5) during the consolidation phase, defined by the following criterion:
 
 - The 4 last quarterly assessments (taken every 12 weeks) showed no confirmed loss of MR4.5 (BCR- ABL/ABL ≤ 0.0032% IS) during 1 year.
@@ -180,7 +180,7 @@ Table 15: Efficacy Results for ENESTop
 
 | Patients Who Entered the Treatment Free Remission (TFR) Phase (Full Analysis Set, N = 126) |  |  |  |
 | --- | --- | --- | --- |
-|  | Patients in TFR phase 1at the specified time point |  | Loss of MMR or confirmed loss of MR4 2by the specified time point |
+|  | Patients in TFR phase1 at the specified time point |  | Loss of MMR or confirmed loss of MR42 by the specified time point |
 |  | % | 95% CI | % |
 | 24 weeks | 60.3 | (51.2, 68.9) | 38.9 |
 | 48 weeks | 57.9 | (48.8, 66.7) | 41.3 |

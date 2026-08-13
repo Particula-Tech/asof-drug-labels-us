@@ -16,8 +16,8 @@ The following clinically significant adverse reactions can occur with CAVHANZA a
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of CAVHANZA (nilotinib) orally disintegrating tablets has been established from adequate and well-controlled studies of Tasigna ®(nilotinib) capsules, which has different recommended dosages than CAVHANZA, in adult patients with newly diagnosed Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML) in chronic phase (CP) and adult patients with CP and accelerated phase (AP) Ph+ CML resistant to or intolerant to prior therapy that included imatinib [see Clinical Studies (14)].
-Below is a display of the adverse reactions of Tasigna ®(nilotinib) capsules in these adequate and well-controlled studies.
+The safety of CAVHANZA (nilotinib) orally disintegrating tablets has been established from adequate and well-controlled studies of Tasigna® (nilotinib) capsules, which has different recommended dosages than CAVHANZA, in adult patients with newly diagnosed Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML) in chronic phase (CP) and adult patients with CP and accelerated phase (AP) Ph+ CML resistant to or intolerant to prior therapy that included imatinib [see Clinical Studies (14)].
+Below is a display of the adverse reactions of Tasigna® (nilotinib) capsules in these adequate and well-controlled studies.
 
 In Adult Patients with Newly Diagnosed Ph+ CML-CP
 
@@ -60,13 +60,13 @@ Most Frequently Reported Adverse Reactions
 Tables 7 and 8 show the percentage of adult patients experiencing non-hematologic adverse reactions (excluding laboratory abnormalities) regardless of relationship to study drug.
 Adverse reactions reported in greater than 10% of adult patients who received at least 1 dose of nilotinib are listed.
 
-Table 7: Most Frequently Reported Non-Hematologic Adverse Reactions (Regardless of Relationship to Study Drug) in Adult Patients With Newly Diagnosed Ph+ CML-CP (≥10% in nilotinib 300 mg twice daily* or imatinib 400 mg once daily groups) 60-Month Analysis a
+Table 7: Most Frequently Reported Non-Hematologic Adverse Reactions (Regardless of Relationship to Study Drug) in Adult Patients With Newly Diagnosed Ph+ CML-CP (≥10% in nilotinib 300 mg twice daily* or imatinib 400 mg once daily groups) 60-Month Analysisa
 
 |  |  | Patients With Newly Diagnosed Ph+ CML-CP |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | nilotinib 300 mgTwice Daily | imatinib 400 mgOnce Daily | nilotinib 300 mgTwice Daily | imatinib 400 mgOnce Daily |  |  |
 | N = 279 | N = 280 | N = 279 | N = 280 |  |  |
-| Body System and Adverse Reaction |  | All Grades (%) |  | CTC Grades b3/4 (%) |  |
+| Body System and Adverse Reaction |  | All Grades (%) |  | CTC Gradesb 3/4 (%) |  |
 | Skin and subcutaneous tissue disorders | Rash | 38 | 19 | < 1 | 2 |
 |  | Pruritus | 21 | 7 | < 1 | 0 |
 |  | Alopecia | 13 | 7 | 0 | 0 |
@@ -104,12 +104,12 @@ Table 7: Most Frequently Reported Non-Hematologic Adverse Reactions (Regardless 
 
 Abbreviations: CML-CP, chronic myeloid leukemia-chronic phase; Ph+, Philadelphia chromosome positive. aExcluding laboratory abnormalities. bNCI Common Terminology Criteria (CTC) for Adverse Events, version 3.0. * Equivalent to the recommended dosage of CAVHANZA 120 mg twice daily
 
-Table 8: Most Frequently Reported Non-Hematologic Adverse Reactions in Adult Patients with Resistant or Intolerant Ph+ CML Receiving Nilotinib 400 mg Twice Daily* (regardless of relationship to study drug) (greater than or equal to 10% in any group) 24-Month Analysis a
+Table 8: Most Frequently Reported Non-Hematologic Adverse Reactions in Adult Patients with Resistant or Intolerant Ph+ CML Receiving Nilotinib 400 mg Twice Daily* (regardless of relationship to study drug) (greater than or equal to 10% in any group) 24-Month Analysisa
 
 | Body System and Adverse Reaction |  | CML-CP |  | CML-AP |  |
 | --- | --- | --- | --- | --- | --- |
 | N = 321 |  | N = 137 |  |  |  |
-| All Grades (%) | CTC Grades b3/4 (%) | All Grades (%) | CTC Grades b3/4 (%) |  |  |
+| All Grades (%) | CTC Gradesb 3/4 (%) | All Grades (%) | CTC Gradesb 3/4 (%) |  |  |
 | Skin and subcutaneous tissue disorders | Rash | 36 | 2 | 29 | 0 |
 |  | Pruritus | 32 | < 1 | 20 | 0 |
 |  | Night sweat | 12 | < 1 | 27 | 0 |
@@ -138,7 +138,7 @@ Table 8: Most Frequently Reported Non-Hematologic Adverse Reactions in Adult Pat
 |  | Oropharyngeal pain | 11 | 0 | 7 | 0 |
 | Infections and infestations | Nasopharyngitis | 24 | < 1 | 15 | 0 |
 |  | Upper respiratory tract infection | 12 | 0 | 10 | 0 |
-| Metabolism and nutrition disorders | Decreased appetite c | 15 | < 1 | 17 | < 1 |
+| Metabolism and nutrition disorders | Decreased appetitec | 15 | < 1 | 17 | < 1 |
 | Psychiatric disorders | Insomnia | 12 | 1 | 7 | 0 |
 | Vascular disorders | Hypertension | 10 | 2 | 11 | < 1 |
 
@@ -154,13 +154,13 @@ Table 9: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormal
 | --- | --- | --- | --- | --- |
 |  |  |  | Resistant or Intolerant Adult Ph+ |  |
 | Newly Diagnosed Adult Ph+ CML-CP |  | CML-CP | CML-AP |  |
-| nilotinib 300 mg 1 | imatinib 400 mg | nilotinib 400 mg 2 | nilotinib 400 mg 2 |  |
+| nilotinib 300 mg1 | imatinib 400 mg | nilotinib 400 mg2 | nilotinib 400 mg2 |  |
 | Twice Daily | Once Daily | Twice Daily | Twice Daily |  |
 | N = 279 | N = 280 | N = 321 | N = 137 |  |
 | (%) | (%) | (%) | (%) |  |
 | Hematologic Parameters |  |  |  |  |
-| Thrombocytopenia | 10 | 9 | 30 3 | 42 5 |
-| Neutropenia | 12 | 22 | 31 4 | 42 6 |
+| Thrombocytopenia | 10 | 9 | 303 | 425 |
+| Neutropenia | 12 | 22 | 314 | 426 |
 | Anemia | 4 | 6 | 11 | 27 |
 | Biochemistry Parameters |  |  |  |  |
 | Elevated lipase | 9 | 4 | 18 | 18 |
@@ -204,7 +204,7 @@ Table 10: Musculoskeletal Symptoms Occurring Upon Treatment Discontinuation in t
 
 |  | Entire TFR period in all TFR patients |  |  |  | By time interval, in subset of patients in TFR greater than 48 weeks |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ph+ CML-CP patients | N | Median follow-up in | Patients with musculoskeletalsymptoms |  | N | Year prior to nilotinibdiscontinuation |  | 1 styear after nilotinib discontinuation |  | 2 ndyear after nilotinib discontinuation |  |
+| Ph+ CML-CP patients | N | Median follow-up in | Patients with musculoskeletalsymptoms |  | N | Year prior to nilotinibdiscontinuation |  | 1st year after nilotinibdiscontinuation |  | 2nd year after nilotinibdiscontinuation |  |
 | TFR | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |  |  |  |
 | Newly Diagnosed | 190 | 76weeks | 28% | 1% | 100 | 17% | 0% | 34% | 2% | 9% | 0% |
 | Previouslytreated with imatinib | 126 | 99weeks | 45% | 2% | 73 | 14% | 0% | 48% | 3% | 15% | 1% |
@@ -221,80 +221,80 @@ These adverse reactions are included based on clinical relevance and ranked in o
 1. Adult patients with newly diagnosed Ph+ CML-CP 60 month analysis and,
 2. Adult patients with resistant or intolerant Ph+ CML-CP and CML-AP 24 months’ analysis.
 
-Infections and Infestations:Common: folliculitis.
+Infections and Infestations: Common: folliculitis.
 Uncommon: pneumonia, bronchitis, urinary tract infection, candidiasis (including oral candidiasis).
 Unknown frequency: hepatitis B reactivation, sepsis, subcutaneous abscess, anal abscess, furuncle, tinea pedis.
 
-Neoplasms Benign, Malignant, and Unspecified:Common: skin papilloma.
+Neoplasms Benign, Malignant, and Unspecified: Common: skin papilloma.
 Unknown frequency: oral papilloma, paraproteinemia.
 Blood and Lymphatic System Disorders: Common: leukopenia, eosinophilia, febrile neutropenia, pancytopenia, lymphopenia.
 Unknown frequency: thrombocythemia, leukocytosis.
 
-Immune System Disorders:Unknown frequency: hypersensitivity.
+Immune System Disorders: Unknown frequency: hypersensitivity.
 
-Endocrine Disorders:Uncommon: hyperthyroidism, hypothyroidism.
+Endocrine Disorders: Uncommon: hyperthyroidism, hypothyroidism.
 Unknown frequency: hyperparathyroidism secondary, thyroiditis.
 
-Metabolism and Nutrition Disorders:Very Common: hypophosphatemia.
+Metabolism and Nutrition Disorders: Very Common: hypophosphatemia.
 Common: electrolyte imbalance (including hypomagnesemia, hyperkalemia, hypokalemia, hyponatremia, hypocalcemia, hypercalcemia, hyperphosphatemia), diabetes mellitus, hyperglycemia, hypercholesterolemia, hyperlipidemia, hypertriglyceridemia.
 Uncommon: gout, dehydration, increased appetite.
 Unknown frequency: hyperuricemia, hypoglycemia.
 
-Psychiatric Disorders:Common: depression, anxiety.
+Psychiatric Disorders: Common: depression, anxiety.
 Unknown frequency: disorientation, confusional state, amnesia, dysphoria.
 
-Nervous System Disorders:Common: peripheral neuropathy, hypoesthesia, paresthesia.
+Nervous System Disorders: Common: peripheral neuropathy, hypoesthesia, paresthesia.
 Uncommon: intracranial hemorrhage, ischemic stroke, transient ischemic attack, cerebral infarction, migraine, loss of consciousness (including syncope), tremor, disturbance in attention, hyperesthesia, facial paralysis.
 Unknown frequency: basilar artery stenosis, brain edema, optic neuritis, lethargy, dysesthesia, restless legs syndrome.
 
-Eye Disorders:Common: eye hemorrhage, eye pruritus, conjunctivitis, dry eye (including xerophthalmia).
+Eye Disorders: Common: eye hemorrhage, eye pruritus, conjunctivitis, dry eye (including xerophthalmia).
 Uncommon: vision impairment, vision blurred, visual acuity reduced, photopsia, hyperemia (scleral, conjunctival, ocular), eye irritation, conjunctival hemorrhage.
 Unknown frequency: papilledema, diplopia, photophobia, eye swelling, blepharitis, eye pain, chorioretinopathy, conjunctivitis allergic, ocular surface disease.
 
-Ear and Labyrinth Disorders:Common: vertigo.
+Ear and Labyrinth Disorders: Common: vertigo.
 Unknown frequency: hearing impaired, ear pain, tinnitus.
 
-Cardiac Disorders:Common: angina pectoris, arrhythmia (including atrioventricular block, cardiac flutter, extrasystoles, atrial fibrillation, tachycardia, bradycardia), palpitations, electrocardiogram QT prolonged.
+Cardiac Disorders: Common: angina pectoris, arrhythmia (including atrioventricular block, cardiac flutter, extrasystoles, atrial fibrillation, tachycardia, bradycardia), palpitations, electrocardiogram QT prolonged.
 Uncommon: cardiac failure, myocardial infarction, coronary artery disease, cardiac murmur, coronary artery stenosis, myocardial ischemia, pericardial effusion, cyanosis.
 Unknown frequency: ventricular dysfunction, pericarditis, ejection fraction decrease.
 
-Vascular Disorders:Common: flushing.
+Vascular Disorders: Common: flushing.
 Uncommon: hypertensive crisis, peripheral arterial occlusive disease, intermittent claudication, arterial stenosis limb, hematoma, arteriosclerosis.
 Unknown frequency: shock hemorrhagic, hypotension, thrombosis, peripheral artery stenosis.
 
-Respiratory, Thoracic and Mediastinal Disorders:Common: dyspnea exertional, epistaxis, dysphonia.
+Respiratory, Thoracic and Mediastinal Disorders: Common: dyspnea exertional, epistaxis, dysphonia.
 Uncommon: pulmonary edema, pleural effusion, interstitial lung disease, pleuritic pain, pleurisy, pharyngolaryngeal pain, throat irritation.
 Unknown frequency: pulmonary hypertension, wheezing.
 
-Gastrointestinal Disorders:Common: pancreatitis, abdominal discomfort, abdominal distension, dysgeusia, flatulence.
+Gastrointestinal Disorders: Common: pancreatitis, abdominal discomfort, abdominal distension, dysgeusia, flatulence.
 Uncommon: gastrointestinal hemorrhage, melena, mouth ulceration, gastroesophageal reflux, stomatitis, esophageal pain, dry mouth, gastritis, sensitivity of teeth.
 Unknown frequency: gastrointestinal ulcer perforation, retroperitoneal hemorrhage, hematemesis, gastric ulcer, esophagitis ulcerative, subileus, enterocolitis, hemorrhoids, hiatus hernia, rectal hemorrhage, gingivitis.
 
-Hepatobiliary Disorders:Very common: hyperbilirubinemia.
+Hepatobiliary Disorders: Very common: hyperbilirubinemia.
 Common: hepatic function abnormal.
 Uncommon: hepatotoxicity, toxic hepatitis, jaundice.
 Unknown frequency: cholestasis, hepatomegaly.
 
-Skin and Subcutaneous Tissue Disorders:Common: eczema, urticaria, erythema, hyperhidrosis, contusion, acne, dermatitis (including allergic, exfoliative and acneiform).
+Skin and Subcutaneous Tissue Disorders: Common: eczema, urticaria, erythema, hyperhidrosis, contusion, acne, dermatitis (including allergic, exfoliative and acneiform).
 Uncommon: exfoliative rash, drug eruption, pain of skin, ecchymosis.
 Unknown frequency: psoriasis, erythema multiforme, erythema nodosum, skin ulcer, palmar-plantar erythrodysesthesia syndrome, petechiae, photosensitivity, blister, dermal cyst, sebaceous hyperplasia, skin atrophy, skin discoloration, skin exfoliation, skin hyperpigmentation, skin hypertrophy, hyperkeratosis.
 
-Musculoskeletal and Connective Tissue Disorders:Common: bone pain, musculoskeletal chest pain, musculoskeletal pain, back pain, neck pain, flank pain, muscular weakness.
+Musculoskeletal and Connective Tissue Disorders: Common: bone pain, musculoskeletal chest pain, musculoskeletal pain, back pain, neck pain, flank pain, muscular weakness.
 Uncommon: musculoskeletal stiffness, joint swelling.
 Unknown frequency: arthritis.
 
-Renal and Urinary Disorders:Common: pollakiuria.
+Renal and Urinary Disorders: Common: pollakiuria.
 Uncommon: dysuria, micturition urgency, nocturia.
 Unknown frequency: renal failure, hematuria, urinary incontinence, chromaturia.
 
-Reproductive System and Breast Disorders:Uncommon: breast pain, gynecomastia, erectile dysfunction.
+Reproductive System and Breast Disorders: Uncommon: breast pain, gynecomastia, erectile dysfunction.
 Unknown frequency: breast induration, menorrhagia, nipple swelling.
 
-General Disorders and Administration Site Conditions:Common: pyrexia, chest pain (including non-cardiac chest pain), pain, chest discomfort, malaise.
+General Disorders and Administration Site Conditions: Common: pyrexia, chest pain (including non-cardiac chest pain), pain, chest discomfort, malaise.
 Uncommon: gravitational edema, influenza-like illness, chills, feeling body temperature change (including feeling hot, feeling cold).
 Unknown frequency: localized edema.
 
-Investigations:Very Common: alanine aminotransferase increased, aspartate aminotransferase increased, lipase increased, lipoprotein cholesterol (including very low density and high density) increased, total cholesterol increased, blood triglycerides increased.
+Investigations: Very Common: alanine aminotransferase increased, aspartate aminotransferase increased, lipase increased, lipoprotein cholesterol (including very low density and high density) increased, total cholesterol increased, blood triglycerides increased.
 Common: hemoglobin decreased, blood amylase increased, gamma- glutamyl transferase increased, blood creatinine phosphokinase increased, blood alkaline phosphatase increased, weight decreased, weight increased, globulins decreased.
 Uncommon: blood lactate dehydrogenase increased, blood urea increased.
 Unknown frequency: troponin increased, blood bilirubin unconjugated increased, insulin C-peptide decreased, blood parathyroid hormone increased.
@@ -308,8 +308,8 @@ Close monitoring of growth in pediatric patients under nilotinib treatment is re
 The following adverse reactions have been identified during postapproval use of nilotinib.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System Disorders:thrombotic microangiopathy
+Blood and Lymphatic System Disorders: thrombotic microangiopathy
 
-Nervous System Disorders:facial paralysis
+Nervous System Disorders: facial paralysis
 
-Musculoskeletal and Connective Tissue Disorders:osteonecrosis
+Musculoskeletal and Connective Tissue Disorders: osteonecrosis

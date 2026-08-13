@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 60 mg
 
-112 Tablets NDC: 70709- 191-12
+112 Tablets NDC: 70709-191-12
 
 CAVHANZA™ (nilotinib) orally disintegrating tablets
 
@@ -14,7 +14,7 @@ Dispense with enclosed Medication Guide
 
 # PRINCIPAL DISPLAY PANEL - 80 mg
 
-112 TabletsNDC: 70709- 192-12
+112 Tablets NDC: 70709-192-12
 
 CAVHANZA™ (nilotinib) orally disintegrating tablets
 

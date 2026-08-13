@@ -112,7 +112,7 @@ Table 3: Dosage Adjustments for Neutropenia and Thrombocytopenia
 
 | Diagnosis | Degree of Myelosuppression | Dosage Adjustment |
 | --- | --- | --- |
-| Adult patients with: Newly diagnosed Ph+ CML in chronic phase receiving CAVHANZA 120 mg twice dailyResistant or intolerant Ph+ CML in chronic phase or accelerated phase receiving CAVHANZA 160 mg twice daily | ANC less than 1 x 10 9/L and/or platelet counts less than 50 x 10 9/L | Stop CAVHANZA, and monitor blood counts. Resume within 2 weeks at prior dose if ANC greater than 1 x 10 9/L and platelets greater than 50 x 10 9/L. If blood counts remain low for greater than 2 weeks, reduce the dose to 160 mg once daily. |
+| Adult patients with: Newly diagnosed Ph+ CML in chronic phase receiving CAVHANZA 120 mg twice dailyResistant or intolerant Ph+ CML in chronic phase or accelerated phase receiving CAVHANZA 160 mg twice daily | ANC less than 1 x 109/L and/or platelet counts less than 50 x 109/L | Stop CAVHANZA, and monitor blood counts. Resume within 2 weeks at prior dose if ANC greater than 1 x 109/L and platelets greater than 50 x 109/L.If blood counts remain low for greater than 2 weeks, reduce the dose to 160 mg once daily. |
 | Abbreviations: ANC, absolute neutrophil count; Ph+ CML, Philadelphia chromosome positive chronic myeloid leukemia. |  |  |
 
 ## 2.7 Dosage Modifications for Selected Non-Hematologic Laboratory Abnormalities and Other Toxicities
@@ -125,7 +125,7 @@ Table 4: Dosage Adjustments for Selected Non-Hematologic Laboratory Abnormalitie
 | --- | --- | --- |
 | Adult patients with: Newly diagnosed Ph+ CML in chronic phase receiving CAVHANZA 120 mg twice dailyResistant or intolerant Ph+ CML in chronic phase or accelerated phase receiving CAVHANZA 160 mg twice daily | Elevated serum lipase or amylase greater than or equal to Grade 3 | Adult patients: Withhold CAVHANZA, and monitor serum lipase or amylase.Resume treatment at 160 mg once daily if serum lipase or amylase returns to less than or equal to Grade 1. |
 | Elevated bilirubin greater than or equal to Grade 3 in adult patients | Adult patients: Withhold CAVHANZA, and monitor bilirubin.Resume treatment at 160 mg once daily if bilirubin returns to less than or equal to Grade 1. |  |
-| Elevated hepatic transaminases | Adult patients: Withhold CAVHANZA and monitor hepatic transaminases.Resume treatment at 160 mg once daily if hepatic transaminases return to less than or equal to Grade 1. |  |
+| Elevated hepatic transaminases greater than or equal to Grade 3 | Adult patients: Withhold CAVHANZA and monitor hepatic transaminases.Resume treatment at 160 mg once daily if hepatic transaminases return to less than or equal to Grade 1. |  |
 
 If clinically significant moderate or severe non-hematologic toxicity develops (including medically severe fluid retention), see Table 5 for dosage adjustments [see Adverse Reactions (6.1)].
 
