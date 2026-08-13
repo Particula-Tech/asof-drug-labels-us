@@ -32,7 +32,7 @@ Table 11: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for re
 | Baseline (mean) | 189.6 | 197.5 | 189.9 |
 | Change from baseline (adjusted mean) | -60.4 | -46.4 | -34.8 |
 | Difference from dapagliflozin (adjusted mean) (95% CI) | -13.9(-20.9, -7.0) |  |  |
-| Difference from metformin HCl extened‑release (adjusted mean) (95% CI) | -25.5(-32.6, -18.5) | -11.6p-value <0.05.(-18.6, -4.6) |  |
+| Difference from metformin HCl extended‑release (adjusted mean) (95% CI) | -25.5(-32.6, -18.5) | -11.6p-value <0.05.(-18.6, -4.6) |  |
 | Body Weight (kg) |  |  |  |
 | Baseline (mean) | 88.6 | 88.5 | 87.2 |
 | Change from baseline (adjusted mean) | -3.3 | -2.7 | -1.4 |
@@ -192,12 +192,12 @@ Mean change in body weight from baseline to week 16 was -3.3 lbs and -2.0 lbs in
 
 ## 14.3 Cardiovascular Outcomes in Adults with Type 2 Diabetes Mellitus
 
-Dapagliflozin Effect on Cardiovascular Events (DECLARE, NCT01730534) was an international, multicenter, randomized, double-blind, placebo-controlled, clinical trial conducted to determine the effect of dapagliflozin 10 mg relative to placebo on cardiovascular (CV) outcomes when added to current background therapy.
+Dapagliflozin Effect on CV Events (DECLARE, NCT01730534) was an international, multicenter, randomized, double-blind, placebo-controlled, clinical trial conducted to determine the effect of dapagliflozin 10 mg relative to placebo on CV outcomes when added to current background therapy.
 All patients had type 2 diabetes mellitus and either established CV disease or two or more additional CV risk factors (age ≥55 years in men or ≥60 years in women and one or more of dyslipidemia, hypertension, or current tobacco use).
 Concomitant antidiabetic and atherosclerotic therapies could be adjusted, at the discretion of investigators, to ensure participants were treated according to the standard care for these diseases.
 
-Of 17160 randomized patients, 6974 (40.6%) had established CV disease and 10186 (59.4%) did not have established CV disease.
-A total of 8582 patients were randomized to dapagliflozin 10 mg, 8578 to placebo, and patients were followed for a median of 4.2 years.
+Of 17,160 randomized patients, 6974 (40.6%) had established CV disease and 10,186 (59.4%) did not have established CV disease.
+A total of 8,582 patients were randomized to dapagliflozin 10 mg, 8,578 to placebo, and patients were followed for a median of 4.2 years.
 
 Approximately 80% of the trial population was White, 4% Black or African American, and 13% Asian.
 The mean age was 64 years, and approximately 63% were male.
@@ -225,7 +225,7 @@ The treatment effect was due to a significant reduction in the risk of hospitali
 
 Table 18: Treatment Effects for the Primary Endpoints* and their Components* in the DECLARE Trial
 
-| Efficacy Variable (time to first occurrence) | Dapagliflozin 10 mg N=8582 | Placebo N=8578 | Hazard Ratio (95% CI) |
+| Efficacy Variable (time to first occurrence) | Dapagliflozin 10 mg N=8,582 | Placebo N=8,578 | Hazard Ratio (95% CI) |
 | --- | --- | --- | --- |
 |  | Patients with events n(%) |  |  |
 | Primary Endpoints |  |  |  |
@@ -244,13 +244,13 @@ Figure 5: Time to First Occurrence of Hospitalization for Heart Failure in the D
 
 ## 14.4 Chronic Kidney Disease
 
-The Trial to Evaluate the Effect of Dapagliflozin on Renal Outcomes and Cardiovascular Mortality in Patients with Chronic Kidney Disease (DAPA-CKD, NCT03036150) was an international, multicenter, randomized, double-blind, placebo-controlled trial in adult patients with chronic kidney disease (CKD) (eGFR between 25 and 75 mL/min/1.73 m2) and albuminuria [urine albumin creatinine ratio (UACR) between 200 and 5000 mg/g] who were receiving standard of care background therapy, including a maximally tolerated, labeled daily dosage of an angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB).
+The Trial to Evaluate the Effect of Dapagliflozin on Renal Outcomes and CV Mortality in Patients with Chronic Kidney Disease (DAPA-CKD, NCT03036150) was an international, multicenter, randomized, double-blind, placebo-controlled trial in adult patients with chronic kidney disease (CKD) (eGFR between 25 and 75 mL/min/1.73 m2) and albuminuria [urine albumin creatinine ratio (UACR) between 200 and 5,000 mg/g] who were receiving standard of care background therapy, including a maximally tolerated, labeled daily dosage of an angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB).
 The trial excluded patients with autosomal dominant or autosomal recessive polycystic kidney disease, lupus nephritis, or ANCA-associated vasculitis and patients requiring cytotoxic, immunosuppressive, or immunomodulatory therapies in the preceding 6 months.
 
 The primary objective was to determine whether dapagliflozin 10 mg reduces the incidence of the composite endpoint of ≥50% sustained decline in eGFR, progression to end stage kidney disease (ESKD) (defined as sustained eGFR<15 mL/min/1.73 m2, initiation of chronic dialysis treatment or renal transplant), CV or renal death.
 
-A total of 4304 patients were randomized equally to dapagliflozin 10 mg or placebo and were followed for a median of 28.5 months.
-The trial included patients with type 2 diabetes mellitus (n=2906) and patients without diabetes (n=1398).
+A total of 4,304 patients were randomized equally to dapagliflozin 10 mg or placebo and were followed for a median of 28.5 months.
+The trial included patients with type 2 diabetes mellitus (n=2,906) and patients without diabetes (n=1,398).
 The mean age of the trial population was 62 years and 67% were male.
 The population was 53% White, 4% Black or African American, and 34% Asian; 25% were of Hispanic or Latino ethnicity.
 At baseline, mean eGFR was 43 mL/min/1.73 m2, 44% of patients had an eGFR 30 mL/min/1.73m2 to less than 45 mL/min/1.73m2, and 15% of patients had an eGFR less than 30 mL/min/1.73m2.
@@ -259,7 +259,7 @@ The most common etiologies of CKD were diabetic nephropathy (58%), ischemic/hype
 At baseline, 97% of patients were treated with ACEi or ARB.
 Approximately 44% were taking antiplatelet agents, and 65% were on a statin.
 
-Out of 2906 (68%) patients who had type 2 diabetes mellitus at randomization, 1455 patients received dapagliflozin 10 mg and 1451 received placebo.
+Out of 2,906 (68%) patients who had type 2 diabetes mellitus at randomization, 1455 patients received dapagliflozin 10 mg and 1,451 received placebo.
 At baseline of the patients with type 2 diabetes mellitus, 43% were being treated with metformin HCl (631 patients on dapagliflozin 10 mg and 613 on placebo) and 55% were treated with insulin.
 
 The mean age of the type 2 diabetes mellitus trial population was 64 years, 67% were male, 53% White, 5% Black or African American and 32% Asian, 27% were of Hispanic or Latino ethnicity.
@@ -276,11 +276,11 @@ The treatment benefit of dapagliflozin 10 mg was consistent in reducing the inci
 
 The treatment benefit of dapagliflozin 10 mg was consistent in reducing the incidence of the composite endpoint of CV death or hospitalization for heart failure and all-cause mortality in patients with type 2 diabetes mellitus [HR 0.70 (95% CI 0.53, 0.92) and HR 0.74 (95% CI 0.56, 0.98), respectively] and in patients with type 2 diabetes mellitus and metformin HCl as background therapy [HR 0.59 (95% CI 0.38, 0.91) and HR 0.71 (95% CI 0.46, 1.10)].
 
-Table 19: Treatment Effect for the Primary Composite Endpoint, its Components, and Secondary Composite Endpoints in DAPA CKD Trial
+Table 19: Treatment Effect for the Primary Composite Endpoint, its Components, and Secondary Composite Endpoints in DAPA-CKD Trial
 
 |  | Patients with events (event rate) |  |  |  |
 | --- | --- | --- | --- | --- |
-| Efficacy Variable(time to first occurrence) | Dapagliflozin 10 mg N=2152 | Placebo N=2152 | Hazard ratio (95% CI) | p-value |
+| Efficacy Variable(time to first occurrence) | Dapagliflozin 10 mg N=2,152 | Placebo N=2,152 | Hazard ratio (95% CI) | p-value |
 | Composite of ≥50% sustained eGFR decline, ESKD, CV or renal death | 197 (4.6) | 312 (7.5) | 0.61 (0.51, 0.72) | <0.0001 |
 | Components of the primary composite endpoint |  |  |  |  |
 | ≥50%Sustained eGFR Decline | 112 (2.6) | 201 (4.8) | 0.53 (0.42, 0.67) |  |
@@ -302,11 +302,11 @@ Exploratory analyses of a randomized, double-blind, placebo-controlled trial con
 
 The efficacy and safety of dapagliflozin 10 mg were assessed independently in two Phase 3 trials in patients with heart failure.
 
-Dapagliflozin And Prevention of Adverse outcomes in Heart Failure (DAPA-HF, NCT03036124) was an international, multicenter, randomized, double-blind, placebo-controlled trial in adult patients with heart failure [New York Heart Association (NYHA) functional class II-IV] with reduced ejection fraction [left ventricular ejection fraction (LVEF) 40% or less] to determine whether dapagliflozin reduces the risk of cardiovascular death and hospitalization for heart failure.
-Of 4744 patients, 2373 were randomized to dapagliflozin 10 mg and 2371 to placebo and were followed for a median of 18 months.
-The trial included patients with type 2 diabetes mellitus (n=2139) and patients without diabetes (n=2605).
+Dapagliflozin And Prevention of Adverse outcomes in Heart Failure (DAPA-HF, NCT03036124) was an international, multicenter, randomized, double-blind, placebo-controlled trial in adult patients with heart failure [New York Heart Association (NYHA) functional class II-IV] with reduced ejection fraction [left ventricular ejection fraction (LVEF) 40% or less] to determine whether dapagliflozin reduces the risk of CV death and hospitalization for heart failure.
+Of 4,744 patients, 2,373 were randomized to dapagliflozin 10 mg and 2,371 to placebo and were followed for a median of 18 months.
+The trial included patients with type 2 diabetes mellitus (n=2,139) and patients without diabetes (n=2,605).
 
-Dapagliflozin Evaluation to Improve the LIVEs of Patients with PReserved Ejection Fraction Heart Failure (DELIVER, NCT03619213) was an international, multicenter, randomized, double-blind, placebo-controlled trial in patients aged ≥40 years with heart failure (NYHA class II-IV) with LVEF >40% and evidence of structural heart disease to determine whether dapagliflozin reduces the risk of cardiovascular death, hospitalization for heart failure or urgent heart failure visits.
+Dapagliflozin Evaluation to Improve the LIVEs of Patients with PReserved Ejection Fraction Heart Failure (DELIVER, NCT03619213) was an international, multicenter, randomized, double-blind, placebo-controlled trial in patients aged ≥40 years with heart failure (NYHA class II-IV) with LVEF >40% and evidence of structural heart disease to determine whether dapagliflozin reduces the risk of CV death, hospitalization for heart failure or urgent heart failure visits.
 Of 6263 patients, 3131 were randomized to dapagliflozin 10 mg and 3132 to placebo and were followed for a median of 28 months.
 The trial included 654 (10%) heart failure patients who were randomized during hospitalization for heart failure or within 30 days of discharge.
 The trial included patients with type 2 diabetes mellitus (n=2806) and patients without diabetes (n=3457).
@@ -347,7 +347,7 @@ Table 20: Treatment Effect for the Primary Composite Endpoint* and its Component
 | Urgent Heart Failure Visit | 10 (0.3) | 23 (0.7) | 0.43 (0.20, 0.90) |  | 60 (0.9) | 78 (1.1) | 0.76 (0.55, 1.07) |  |
 | N=Number of patients, CI=Confidence interval, CV=Cardiovascular.* Full analysis set.† Two-sided p-values.‡ In DAPA-HF, the CV death component of the primary endpoint included death of undetermined cause. In DELIVER, the CV death component of the primary endpoint excluded death of undetermined cause.NOTE: Time to first event was analyzed in a Cox proportional hazards model. The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint. Event rates are presented as the number of subjects with event per 100 patient years of follow-up. |  |  |  |  |  |  |  |  |
 
-Figure 7: Time to the First Occurrence of the Composite of Cardiovascular Death*, Hospitalization for Heart Failure or Urgent Heart Failure Visit
+Figure 7: Time to the First Occurrence of the Composite of CV Death*, Hospitalization for Heart Failure or Urgent Heart Failure Visit
 
 A) DAPA-HF Trial
 
@@ -362,9 +362,9 @@ In DELIVER, the CV death component of the primary endpoint excluded death of und
 
 HR=Hazard ratio, CI=Confidence interval, CV=Cardiovascular.
 
-The treatment effect of dapagliflozin on the composite endpoint of cardiovascular death, hospitalization for heart failure or urgent heart failure was consistent across the LVEF range as evaluated in DAPA-HF and DELIVER trials (Figure 8).
+The treatment effect of dapagliflozin on the composite endpoint of CV death, hospitalization for heart failure or urgent heart failure was consistent across the LVEF range as evaluated in DAPA-HF and DELIVER trials (Figure 8).
 
-Figure 8: Treatment Effects for Primary Composite Endpoint (Cardiovascular Death and Heart Failure Events) by LVEF (DAPA-HF and DELIVER Trials)
+Figure 8: Treatment Effects for Primary Composite Endpoint (CV Death and Heart Failure Events) by LVEF (DAPA-HF and DELIVER Trials)
 
 * 1 patient in DAPA-HF trial had LVEF >40.
 4 patients in DELIVER trial had LVEF ≤40.

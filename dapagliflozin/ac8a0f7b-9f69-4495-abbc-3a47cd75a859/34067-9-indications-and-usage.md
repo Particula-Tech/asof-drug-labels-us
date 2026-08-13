@@ -4,9 +4,9 @@ XIGDUO XR is a combination of dapagliflozin and metformin hydrochloride (HCl) ex
 
 Dapagliflozin, when used as a component of XIGDUO XR, is indicated in adults with type 2 diabetes mellitus to reduce the risk of:
 
-- •Sustained eGFR decline, end‑stage kidney disease, cardiovascular death, and hospitalization for heart failure in patients with chronic kidney disease at risk of progression.
-- •Cardiovascular death, hospitalization for heart failure, and urgent heart failure visit in patients with heart failure.
-- •Hospitalization for heart failure in patients with type 2 diabetes mellitus and either established cardiovascular disease (CVD) or multiple cardiovascular (CV) risk factors.
+- •Sustained eGFR decline, end‑stage kidney disease, (CV) death, and hospitalization for heart failure in patients with chronic kidney disease at risk of progression.
+- •CV death, hospitalization for heart failure, and urgent heart failure visit in patients with heart failure.
+- •Hospitalization for heart failure in patients with type 2 diabetes mellitus and either established CV disease or multiple CV risk factors.
 
 Limitations of Use
 

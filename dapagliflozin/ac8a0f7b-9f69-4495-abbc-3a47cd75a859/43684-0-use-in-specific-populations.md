@@ -92,16 +92,16 @@ The safety and effectiveness of XIGDUO XR as an adjunct to diet and exercise to 
 Use of XIGDUO XR for this indication is supported by a 26‑week placebo-controlled trial of dapagliflozin with a 26‑week extension in 157 pediatric patients aged 10 to 17 years with type 2 diabetes mellitus, pediatric pharmacokinetic data, and trials in adults with type 2 diabetes mellitus [see Clinical Pharmacology (12.3) and Clinical Studies (14.1, 14.2)].
 The safety profile observed in the placebo-controlled trial of dapagliflozin in pediatric patients with type 2 diabetes mellitus was similar to that observed in adults [see Adverse Reactions (6.1)].
 
-The use of XIGDUO XR for this indication is also supported by evidence from adequate and well-controlled trials of metformin HCl immediate-release tablets in adults with additional data from a controlled clinical trial using metformin HCl immediate-release tablets in pediatric patients 10 to 16 years old with type 2 diabetes mellitus, and pharmacokinetic data with metformin HCl extended-release tablets in adults [see Clinical Pharmacology (12.3) and Clinical Studies (14.1, 14.2)].
+The use of XIGDUO XR for this indication is also supported by evidence from adequate and well-controlled trials of metformin HCl immediate-release tablets in adults with additional data from a controlled clinical trial using metformin HCl immediate-release tablets in pediatric patients 10 to 16 years old with type 2 diabetes mellitus [see Clinical Studies (14.1, 14.2)].
 In the clinical trial with pediatric patients receiving metformin HCl immediate-release tablets, adverse reactions with metformin HCl immediate-release tablets were similar to those described in adults [see Adverse Reactions (6.1)].
 
 The safety and effectiveness of XIGDUO XR for glycemic control in patients with type 2 diabetes mellitus have not been established in pediatric patients less than 10 years of age.
 
 The safety and effectiveness of XIGDUO XR have not been established in pediatric patients to reduce the risk of [see Indications and Usage (1)]:
 
-- •sustained eGFR decline, end stage kidney disease, cardiovascular death, and hospitalization for heart failure in patients with chronic kidney disease at risk of progression.
-- •cardiovascular death, hospitalization for heart failure, and urgent heart failure visit in patients with heart failure.
-- •hospitalization for heart failure in patients with type 2 diabetes mellitus and either established cardiovascular disease (CVD) or multiple cardiovascular (CV) risk factors.
+- •sustained eGFR decline, end-stage kidney disease, CV death, and hospitalization for heart failure in patients with chronic kidney disease at risk of progression.
+- •CV death, hospitalization for heart failure, and urgent heart failure visit in patients with heart failure.
+- •hospitalization for heart failure in patients with type 2 diabetes mellitus and either established CV disease or multiple CV risk factors.
 
 ## 8.5 Geriatric Use
 
@@ -117,7 +117,7 @@ After controlling for level of renal function (eGFR), efficacy was similar for p
 In patients ≥65 years of age, a higher proportion of patients treated with dapagliflozin for glycemic control had adverse reactions of hypotension [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
 
 In the DAPA-HF, DELIVER and DAPA-CKD trials, safety and efficacy were similar for patients aged 65 years and younger and those older than 65 in both the overall population and in the patients with type 2 diabetes mellitus.
-In the DAPA HF trial, 2714 (57%) out of 4744 patients with heart failure with reduced ejection fraction (HFrEF) were older than 65 years.
+In the DAPA-HF trial, 2714 (57%) out of 4744 patients with heart failure with reduced ejection fraction (HFrEF) were older than 65 years.
 Out of 2139 patients with HFrEF and type 2 diabetes mellitus, 1211 (57%) were older than 65 years.
 In the DELIVER trial, 4759 (76%) out of 6263 patients with heart failure (LVEF >40%) were older than 65 years.
 Out of 2806 patients with LVEF >40% and type 2 diabetes mellitus, 2072 (74%) were older than 65 years.

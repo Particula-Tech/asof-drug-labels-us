@@ -5,11 +5,9 @@ The following important adverse reactions are described below and elsewhere in t
 - •Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
 - •Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.2)]
 - •Volume Depletion [see Warnings and Precautions (5.3)]
-- •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
+- •Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections [see Warnings and Precautions (5.4)]
 - •Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues [see Warnings and Precautions (5.5)]
-- •Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene) [see Warnings and Precautions (5.6)]
-- •Vitamin B12 Concentrations [see Warnings and Precautions (5.7)]
-- •Genital Mycotic Infections [see Warnings and Precautions (5.8)]
+- •Vitamin B12 Deficiency [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -201,11 +199,11 @@ In the DECLARE trial [see Clinical Studies (14.3)], mean changes from baseline a
 
 Decrease in Serum Bicarbonate
 
-In a trial of concomitant therapy of dapagliflozin 10 mg with exenatide extended release (on a background of metformin HCl) in adults, four patients (1.7%) on concomitant therapy had a serum bicarbonate value of less than or equal to 13 mEq/L compared to one each (0.4%) in the dapagliflozin and exenatide extended release treatment groups [see Warning and Precautions (5.2)].
+In a trial of concomitant therapy of dapagliflozin 10 mg with exenatide extended release (on a background of metformin HCl) in adults, four patients (1.7%) on concomitant therapy had a serum bicarbonate value of less than or equal to 13 mEq/L compared to one each (0.4%) in the dapagliflozin and exenatide extended release treatment groups [see Warnings and Precautions (5.2)].
 
 Metformin HCl
 
-Vitamin B12 Concentrations
+Decrease in Vitamin B12
 
 In metformin clinical trials of 29‑week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
 

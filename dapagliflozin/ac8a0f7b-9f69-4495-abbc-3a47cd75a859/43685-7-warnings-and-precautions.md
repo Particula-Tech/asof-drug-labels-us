@@ -40,15 +40,21 @@ Surgery and Other Procedures: Withholding of food and fluids during surgical or 
 XIGDUO XR should be temporarily discontinued while patients have restricted food and fluid intake.
 
 Hypoxic States: Several of the postmarketing cases of metformin-associated lactic acidosis occurred in the setting of acute congestive heart failure (particularly when accompanied by hypoperfusion and hypoxemia).
-Cardiovascular collapse (shock), acute myocardial infarction, sepsis, and other conditions associated with hypoxemia have been associated with lactic acidosis and may also cause prerenal azotemia.
+CV collapse (shock), acute myocardial infarction, sepsis, and other conditions associated with hypoxemia have been associated with lactic acidosis and may also cause prerenal azotemia.
 When such events occur, discontinue XIGDUO XR.
 
 Excessive Alcohol Intake: Alcohol potentiates the effect of metformin on lactate metabolism and this may increase the risk of metformin-associated lactic acidosis.
 Warn patients against excessive alcohol intake while receiving XIGDUO XR.
 
-Hepatic Impairment: Patients with hepatic impairment have developed with cases of metformin-associated lactic acidosis.
+Hepatic Impairment: Patients with hepatic impairment have developed cases of metformin-associated lactic acidosis.
 This may be due to impaired lactate clearance resulting in higher lactate blood levels.
 Therefore, avoid use of XIGDUO XR in patients with clinical or laboratory evidence of hepatic disease.
+
+Mitochondrial Diseases: Metformin may increase the risk of lactic acidosis in patients with mitochondrial diseases such as mitochondrial encephalomyopathy with lactic acidosis, and stroke-like episodes (MELAS) syndrome and maternally inherited diabetes and deafness (MIDD).
+XIGDUO XR is not recommended in patients with mitochondrial diseases such as MELAS syndrome and MIDD.
+
+If a patient taking XIGDUO XR develops elevated lactic acid levels (with or without accompanying neurologic signs and symptoms), discontinue XIGDUO XR.
+Depending on the clinical context, consider evaluating the patient for MELAS, MIDD, or other mitochondrial disease.
 
 ## 5.2 Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis
 
@@ -84,11 +90,20 @@ Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderl
 Before initiating XIGDUO XR in patients with one or more of these characteristics, assess volume status and renal function.
 Monitor for signs and symptoms of hypotension and renal function after initiating therapy.
 
-## 5.4 Urosepsis and Pyelonephritis
+## 5.4 Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections
 
-Serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization have been reported in patients receiving SGLT2 inhibitors, including dapagliflozin.
-Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
-Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6.2)].
+XIGDUO XR increases urinary glucose excretion [see Clinical Pharmacology (12.2)] and increases the risk of genitourinary infections including urinary tract infections and genital mycotic infections in both male and female patients [see Adverse Reactions (6.1)].
+
+Serious genitourinary infections, including urosepsis, pyelonephritis, and necrotizing fasciitis of the perineum (Fournier’s gangrene, a rare life-threatening infection requiring urgent surgical intervention), have occurred in patients receiving SGLT2 inhibitors, including XIGDUO XR [see Adverse Reactions (6.2)].
+Cases have required hospitalization.
+In patients with Fournier’s gangrene, serious outcomes have included multiple surgeries and death.
+
+Patients with a history of genitourinary infections are more likely to develop genitourinary infections when using XIGDUO XR.
+
+Monitor patients for signs and symptoms of genitourinary infections and treat promptly, if indicated.
+
+Immediately evaluate patients presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, for necrotizing fasciitis.
+If suspected, discontinue XIGDUO XR and promptly institute appropriate medical and/or surgical intervention.
 
 ## 5.5 Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
 
@@ -97,25 +112,9 @@ XIGDUO XR may increase the risk of hypoglycemia when combined with insulin and/o
 The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin.
 Inform patients using these concomitant medications of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
 
-## 5.6 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
-
-Reports of necrotizing fasciitis of the perineum (Fournier’s Gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including dapagliflozin.
-Cases have been reported in both females and males.
-Serious outcomes have included hospitalization, multiple surgeries, and death.
-
-Patients treated with XIGDUO XR presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
-If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
-Discontinue XIGDUO XR, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
-
-## 5.7 Vitamin B12 Concentrations
+## 5.6 Vitamin B12 Deficiency
 
 In controlled clinical trials of metformin of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 Measure hematologic parameters on an annual basis and vitamin B12 at 2- to 3-year intervals in patients on XIGDUO XR and manage any abnormalities [see Adverse Reactions (6.1)].
-
-## 5.8 Genital Mycotic Infections
-
-Dapagliflozin increases the risk of genital mycotic infections.
-Patients with a history of genital mycotic infections were more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
-Monitor and treat appropriately.

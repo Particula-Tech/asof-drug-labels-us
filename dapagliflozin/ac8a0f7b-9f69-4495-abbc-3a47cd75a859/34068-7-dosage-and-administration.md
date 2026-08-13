@@ -29,7 +29,7 @@
   Assess the benefit and risk of continuing therapy if eGFR falls persistently below this level.
   - ∘Dapagliflozin is likely to be ineffective to improve glycemic control in patients with eGFR less than 45 mL/min/1.73 m2.
   - ∘Metformin HCl initiation is not recommended for patients with eGFR less than 45 mL/min/1.73 m2.
-- •XIGDUO XR is contraindicated in patients with an eGFR below 30 mL/min/1.73 m2 and end‑stage renal disease due to the metformin HCl component [see Contraindications (4), Warnings and Precautions (5.1, 5.2), and Use in Specific Populations (8.6)].
+- •XIGDUO XR is contraindicated in patients with an eGFR below 30 mL/min/1.73 m2 and end‑stage renal disease due to the metformin HCl component [see Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
 
 ## 2.5 Discontinuation for Iodinated Contrast Imaging Procedures
 
@@ -40,3 +40,8 @@ Re-evaluate eGFR 48 hours after the imaging procedure; restart XIGDUO XR if rena
 
 Withhold XIGDUO XR for at least 3 days, if possible, prior to surgery or procedures associated with prolonged fasting.
 Resume XIGDUO XR when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
+
+## 2.7 Recommendations Regarding Missed Dose
+
+- •If a dose is missed, instruct patients to take the dose as soon as possible.
+- •Advise patients not to double up the next dose.
