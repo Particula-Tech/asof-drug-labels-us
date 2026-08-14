@@ -7,7 +7,7 @@ The following clinically significant adverse reactions are described elsewhere i
 - •Infantile Hypertrophic Pyloric Stenosis (IHPS) [see Warnings and Precautions (5.3)]
 - •QT Prolongation [see Warnings and Precautions (5.4)]
 - •Cardiovascular Death [see Warnings and Precautions (5.5)]
-- •Clostridiodes difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.6)]
+- •Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.6)]
 - •Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
@@ -17,7 +17,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 In clinical trials, most of the reported adverse reactions were mild to moderate in severity and were reversible upon discontinuation of the drug.
 Approximately 0.7% of the patients from the multiple-dose clinical trials discontinued azithromycin therapy because of treatment-related adverse reactions.
 Serious adverse reactions included angioedema and cholestatic jaundice.
-Most of the adverse reactions leading to discontinuation were related to the gastrointestinal tract, e.g., nausea, vomiting, diarrhea, or abdominal pain [see Clinical Studies (14.2)].
+Most of the adverse reactions leading to discontinuation were related to the gastrointestinal tract, e.g., nausea, vomiting, diarrhea, or abdominal pain.
+[see Clinical Studies (14.2)]
 
 Multiple-Dose Regimen
 
@@ -50,11 +51,11 @@ Hearing impairment has been reported with macrolide antibiotics, especially at h
 Other treatment-related adverse reactions occurring in >5% of subjects and seen at any time during a median of 87.5 days of therapy include: abdominal pain (14%), nausea (14%), vomiting (13%), diarrhea (12%), flatulence (5%), headache (5%), and abnormal vision (5%).
 Discontinuations from treatment due to laboratory abnormalities or adverse reactions considered related to study drug occurred in 8 of 88 (9.1%) of subjects.
 
-Single 1 gram Dose Regimen
+Single 1 g Dose Regimen
 
-Overall, the most common adverse reactions in patients receiving a single-dose regimen of 1 gram of azithromycin were related to the gastrointestinal system and were more frequently reported than in patients receiving the multiple -dose regimen.
+Overall, the most common adverse reactions in patients receiving a single-dose regimen of 1 g of azithromycin were related to the gastrointestinal system and were more frequently reported than in patients receiving the multiple-dose regimen.
 
-Adverse reactions that occurred in patients on the single 1 gram dosing regimen of azithromycin with a frequency of 1% or greater included diarrhea/loose stools (7%), nausea (5%), abdominal pain (5%), vomiting (2%), dyspepsia (1%), and vaginitis (1%).
+Adverse reactions that occurred in patients on the single 1 g dosing regimen of azithromycin with a frequency of 1% or greater included diarrhea/loose stools (7%), nausea (5%), abdominal pain (5%), vomiting (2%), dyspepsia (1%), and vaginitis (1%).
 
 ## 6.2 Postmarketing Experience
 
@@ -66,7 +67,7 @@ Adverse reactions reported with azithromycin during the postmarketing period in 
 Allergic: Arthralgia, edema, urticaria, and angioedema.
 
 Cardiovascular: Arrhythmias, including ventricular tachycardia, and hypotension.
-There have been reports of QT prolongation and torsades de pointes, and cardiovascular death.
+There have been reports of QT prolongation, torsades de pointes, and cardiovascular death.
 
 Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and tongue discoloration.
 
@@ -82,7 +83,7 @@ Nervous System: Convulsions, dizziness/vertigo, headache, somnolence, hyperactiv
 
 Psychiatric: Aggressive reaction and anxiety.
 
-Skin/Appendages: Pruritus, and serious skin reactions including erythema multiforme, AGEP, Stevens -Johnson syndrome, toxic epidermal necrolysis, and DRESS.
+Skin/Appendages: Pruritus, and serious skin reactions including erythema multiforme, AGEP, Stevens-Johnson Syndrome, toxic epidermal necrolysis, and DRESS.
 
 Special Senses: Hearing disturbances including hearing loss, deafness, and/or tinnitus, and reports of taste/smell perversion and/or loss.
 

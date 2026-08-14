@@ -1,12 +1,15 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-[See Indications and Usage (1)].
+## 2.1 Important Administration Instructions
 
-## 2.1 Sexually Transmitted Diseases
+Administer azithromycin tablets with or without food.
+However, increased tolerability has been observed when tablets are taken with food.
 
-The recommended dose of azithromycin tablets for the treatment of non-gonococcal urethritis and cervicitis due to C. trachomatis is a single (1,000 mg) dose of azithromycin.
+## 2.2 Recommended Dosage for Sexually Transmitted Diseases
 
-## 2.2 Mycobacterial Infections
+The recommended dose of azithromycin for the treatment of non-gonococcal urethritis and cervicitis due to C.trachomatis is a single 1 g (1000 mg) dose of azithromycin tablets.
+
+## 2.3 Recommended Dosage for Mycobacterial Infections
 
 Prevention of Disseminated MAC Infections
 

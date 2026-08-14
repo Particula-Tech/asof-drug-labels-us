@@ -26,10 +26,10 @@ Azithromycin administered during the period of organogenesis did not cause fetal
 Based on body surface area, this dose is approximately 3 (rats) and 2 (mice) times an adult human daily dose of 600 mg.
 In rabbits administered azithromycin at oral doses of 10, 20, and 40 mg/kg/day during organogenesis, reduced maternal body weight and food consumption were observed in all groups; no evidence of fetotoxicity or teratogenicity was observed at these doses, the highest of which is approximately equal to an adult human daily dose of 600 mg based on body surface area.
 
-In a pre-and postnatal development study, azithromycin was administered orally to pregnant rats from day 6 of pregnancy until weaning at doses of 50 or 200 mg/kg/day.
+In a pre- and postnatal development study, azithromycin was administered orally to pregnant rats from day 6 of pregnancy until weaning at doses of 50 or 200 mg/kg/day.
 Maternal toxicity (reduced food consumption and body weight gain; increased stress at parturition) was observed at the higher dose.
 Effects in the offspring were noted at 200 mg/kg/day during the postnatal development period (decreased viability, delayed developmental landmarks).
-These effects were not observed in a pre-and postnatal rat study when up to 200 mg/kg/day of azithromycin was given orally beginning on day 15 of pregnancy until weaning.
+These effects were not observed in a pre- and postnatal rat study when up to 200 mg/kg/day of azithromycin was given orally beginning on day 15 of pregnancy until weaning.
 
 ## 8.2 Lactation
 
@@ -53,8 +53,7 @@ Breastmilk (colostrum) samples obtained between 12 and 48 hours after dosing rev
 
 ## 8.4 Pediatric Use
 
-In controlled clinical studies, azithromycin has been administered to pediatric patients ranging in age from 6 months to 12 years.
-For information regarding the use of azithromycin for oral suspension in the treatment of pediatric patients, [see Indications and Usage (1) and Dosage and Administration (2)] of the prescribing information for azithromycin for oral suspension 100 mg/5 mL and 200 mg/5 mL bottles.
+The safety and effectiveness of azithromycin have not been established for the treatment of sexually transmitted diseases and mycobacterial infections in pediatric patients [see Indications and Usage (1)].
 
 HIV-Infected Pediatric Patients
 
@@ -80,4 +79,4 @@ Geriatric Patients with Opportunistic Infections, Including (MAC) Disease
 
 Safety data are available for 30 patients (65 to 94 years old) treated with azithromycin at doses >300 mg/day for a mean of 207 days.
 These patients were treated for a variety of opportunistic infections, including MAC.
-The adverse reactions were generally similar to that seen in younger patients, except for a higher incidence of adverse reactions relating to the gastrointestinal system and to reversible impairment of hearing [see Dosage and Administration (2)].
+The adverse reaction were generally similar to that seen in younger patients, except for a higher incidence of adverse reactions relating to the gastrointestinal system and to reversible impairment of hearing [see Dosage and Administration (2)].

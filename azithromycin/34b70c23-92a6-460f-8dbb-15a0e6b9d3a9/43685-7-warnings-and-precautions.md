@@ -2,7 +2,7 @@
 
 ## 5.1 Hypersensitivity
 
-Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Acute Generalized Exanthematous Pustulosis (AGEP), Stevens-Johnson Syndrome and toxic epidermal necrolysis, have been reported rarely in patients on azithromycin therapy [see Contraindications (4.1)].
+Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Acute Generalized Exanthematous Pustulosis (AGEP), Stevens-Johnson Syndrome, and toxic epidermal necrolysis, have been reported rarely in patients on azithromycin therapy [see Contraindications (4.1)].
 
 Fatalities have been reported.
 Cases of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have also been reported.
@@ -43,9 +43,9 @@ This potential risk was noted to be greater during the first five days of azithr
 The data in these observational studies are insufficient to establish or exclude a causal relationship between acute cardiovascular death and azithromycin use.
 Consider balancing this potential risk with treatment benefits when prescribing azithromycin.
 
-## 5.6 Clostridium difficile-Associated Diarrhea (CDAD)
+## 5.6 Clostridioides difficile-Associated Diarrhea
 
-CDAD has been reported with use of nearly all antibacterial agents, including azithromycin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-Associated Diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including azithromycin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C.difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -60,11 +60,11 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Exacerbations of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
 
-## 5.8 Use in Sexually Transmitted Infections
+## 5.8 Risk of Antibacterial Resistance in Sexually Transmitted Infections
 
 Azithromycin, at the recommended dose, should not be relied upon to treat gonorrhea or syphilis.
 Antibacterial agents used in high doses for short periods of time to treat non-gonococcal urethritis may mask or delay the symptoms of incubating gonorrhea or syphilis.
-All patients with sexually transmitted urethritis or cervicitis should have a serologic test for syphilis and appropriate cultures for gonorrhea performed at the time of diagnosis.
+All patients with sexually transmitted urethritis or cervicitis should have a serologic test for syphilis and appropriate testing for gonorrhea performed at the time of diagnosis.
 Appropriate antibacterial therapy and follow-up tests for these diseases should be initiated if infection is confirmed.
 
 ## 5.9 Development of Drug-Resistant Bacteria

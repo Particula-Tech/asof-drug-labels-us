@@ -7,19 +7,20 @@ Azithromycin is a macrolide antibacterial drug [see Microbiology (12.4)].
 ## 12.2 Pharmacodynamics
 
 Based on animal models of infection, the antibacterial activity of azithromycin appears to correlate with the ratio of area under the concentration-time curve to minimum inhibitory concentration (AUC/MIC) for certain pathogens (S. pneumoniae and S. aureus).
+
 The principal pharmacokinetic/pharmacodynamic parameter best associated with clinical and microbiological cure has not been elucidated in clinical trials with azithromycin.
 
 Cardiac Electrophysiology
 
 QTc interval prolongation was studied in a randomized, placebo-controlled parallel trial in 116 healthy subjects who received either chloroquine (1000 mg) alone or in combination with oral azithromycin (500 mg, 1000 mg, and 1500 mg once daily).
-Co-administration of azithromycin increased the QTc interval in a dose-and concentration-dependent manner.
+Co-administration of azithromycin increased the QTc interval in a dose- and concentration- dependent manner.
 In comparison to chloroquine alone, the maximum mean (95% upper confidence bound) increases in QTcF were 5 (10) ms, 7 (12) ms and 9 (14) ms with the co-administration of 500 mg, 1000 mg and 1500 mg azithromycin, respectively.
 
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetic parameters of azithromycin in plasma after dosing as per labeled recommendations in healthy young adults and asymptomatic HIV-positive adults (age 18 to 40 years old) are portrayed in the following chart:
 
-MEAN (CV%) PK PARAMETER
+Table 1: Mean (CV%) PK Parameter
 
 | DOSE/DOSAGE FORM (serum, except as indicated) | Subjects | Day No. | Cmax (mcg/mL) | Tmax (hr) | C24 (mcg/mL) | AUC (mcg•hr/mL) | T½ (hr) | Urinary Excretion (% of dose) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -41,7 +42,7 @@ MEAN (CV%) PK PARAMETER
 With a regimen of 500 mg on Day 1 and 250 mg/day on Days 2 to 5, Cmin and Cmax remained essentially unchanged from Day 2 through Day 5 of therapy.
 However, without a loading dose, azithromycin Cmin levels required 5 to 7 days to reach steady state.
 
-In asymptomatic HIV-positive adult subjects receiving azithromycin tablets 600 mg once daily for 22 days, steady state azithromycin serum levels were achieved by Day 15 of dosing.
+In asymptomatic HIV-positive adult subjects receiving 600 mg azithromycin tablets once daily for 22 days, steady state azithromycin serum levels were achieved by Day 15 of dosing.
 
 The high values in adults for apparent steady-state volume of distribution (31.1 L/kg) and plasma clearance (630 mL/min) suggest that the prolonged half-life is due to extensive uptake and subsequent release of drug from tissues.
 
@@ -68,8 +69,7 @@ Using such methodology, the ratio of intracellular to extracellular concentratio
 In vivo studies suggest that concentration in phagocytes may contribute to drug distribution to inflamed tissues.
 
 Following oral administration of a single 1200 mg dose (two 600 mg tablets), the mean maximum concentration in peripheral leukocytes was 140 mcg/mL.
-Concentration remained above 32 mcg/mL for approximately 60 hours.
-The mean half-lives for 6 males and 6 females were 34 hours and 57 hours, respectively.
+Concentration remained above 32 mcg/mL, for approximately 60 hr. The mean half-lives for 6 males and 6 females were 34 hr and 57 hr, respectively.
 Leukocyte-to-plasma Cmax ratios for males and females were 258 (±77%) and 175 (±60%), respectively, and the AUC ratios were 804 (±31%) and 541 (±28%) respectively.
 The clinical relevance of these findings is unknown.
 
@@ -78,14 +78,15 @@ Trough concentrations in peripheral leukocytes at steady-state averaged 146 mcg/
 The mean leukocyte-to-serum Cmax ratio was 456 (±38%) and the mean leukocyte to serum AUC ratio was 816 (±31%).
 The clinical relevance of these findings is unknown.
 
+Elimination
+
 Metabolism
 
 In vitro and in vivo studies to assess the metabolism of azithromycin have not been performed.
 
-Elimination
+Excretion
 
-Plasma concentrations of azithromycin following single 500 mg oral and IV doses declined in a polyphasic pattern resulting in an average terminal half-life of 68 hours.
-Biliary excretion of azithromycin, predominantly as unchanged drug, is a major route of elimination.
+Plasma concentrations of azithromycin following single 500 mg oral and IV doses declined in a polyphasic pattern resulting in an average terminal half-life of 68 hr. Biliary excretion of azithromycin, predominantly as unchanged drug, is a major route of elimination.
 Over the course of a week, approximately 6% of the administered dose appears as unchanged drug in urine.
 
 Specific Populations
@@ -93,8 +94,8 @@ Specific Populations
 Patients with Renal Impairment
 
 Azithromycin pharmacokinetics was investigated in 42 adults (21 to 85 years of age) with varying degrees of renal impairment.
-Following the oral administration of a single 1.0 g dose of azithromycin (4 × 250 mg capsules), the mean Cmax and AUC0-120 increased by 5.1% and 4.2%, respectively, in subjects with GFR 10 to 80 mL/min compared to subjects with normal renal function (GFR >80 mL/min).
-The mean Cmax and AUC0-120 increased 61% and 35%, respectively, in subjects with end-stage renal disease (GFR <10 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
+Following the oral administration of a single 1.0 g dose of azithromycin (4 × 250 mg capsules), the mean Cmax and AUC0-120 increased by 5.1% and 4.2%, respectively, in subjects with GFR 10 to 80 mL/min compared to subjects with GFR >80 mL/min.
+The mean Cmax and AUC0-120 increased 61% and 35%, respectively, in subjects with GFR <10 mL/min compared to subjects with GFR >80 mL/min.
 
 Patients with Hepatic Impairment
 
@@ -117,16 +118,16 @@ For information regarding the pharmacokinetics of azithromycin for oral suspensi
 Drug Interaction Studies
 
 Drug interaction studies were performed with azithromycin and other drugs likely to be co-administered.
-The effects of co-administration of azithromycin on the pharmacokinetics of other drugs are shown in Table 1 and the effects of other drugs on the pharmacokinetics of azithromycin are shown in Table 2.
+The effects of co-administration of azithromycin on the pharmacokinetics of other drugs are shown in Table 2 and the effects of other drugs on the pharmacokinetics of azithromycin are shown in Table 3.
 
-Co-administration of azithromycin at therapeutic doses had a modest effect on the pharmacokinetics of the drugs listed in Table 1.
-No dosage adjustment of drugs listed in Table 1 is recommended when co-administered with azithromycin.
+Co-administration of azithromycin at therapeutic doses had a modest effect on the pharmacokinetics of the drugs listed in Table 2.
+No dosage adjustment of drugs listed in Table 2 is recommended when co-administered with azithromycin.
 
 Co-administration of azithromycin with efavirenz or fluconazole had a modest effect on the pharmacokinetics of azithromycin.
 Nelfinavir significantly increased the Cmax and AUC of azithromycin.
-No dosage adjustment of azithromycin is recommended when administered with drugs listed in Table 2[see Drug Interactions (7.3)].
+No dosage adjustment of azithromycin is recommended when administered with drugs listed in Table 3[see Drug Interactions (7.3)].
 
-Table 1.
+Table 2.
 Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of Azithromycin
 
 | Mean Cmax | Mean AUC |  |  |  |  |
@@ -145,13 +146,13 @@ Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the P
 | Theophylline | 4 mg/kg IV on days 1, 11, 25 | 500 mg orally on day 7, 250 mg/day on days 8-11 | 10 | 1.19(1.02 to 1.40) | 1.02(0.86 to 1.22) |
 | Theophylline | 300 mg orally BID x 15 days | 500 mg orally on day 6, then 250 mg/day on days 7-10 | 8 | 1.09(0.92 to 1.29) | 1.08(0.89 to 1.31) |
 | Triazolam | 0.125 mg on day 2 | 500 mg orally on day 1, then 250 mg/day on day 2 | 12 | 1.06* | 1.02* |
-| Trimethoprim/Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1,200 mg orally on day 7 | 12 | 0.85(0.75 to 0.97)/0.90(0.78 to 1.03) | 0.87(0.80 to 0.95)/0.96(0.88 to 1.03) |
+| Trimethoprim/Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1,200 mg orally on day 7 | 12 | 0.85(0.75 to 0.97)/0.90(0.78 to 1.03) | 0.87(0.80 to 0.95/0.96(0.88 to 1.03) |
 | Zidovudine | 500 mg/day orally for 21 days | 600 mg/day orally for 14 days | 5 | 1.12(0.42 to 3.02) | 0.94(0.52 to 1.70) |
 | Zidovudine | 500 mg/day orally for 21 days | 1,200 mg/day orally for 14 days | 4 | 1.31(0.43 to 3.97) | 1.30(0.69 to 2.43) |
 
 * -90% Confidence interval not reported
 
-Table 2.
+Table 3.
 Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs [see Drug Interactions (7.3)].
 
 | Mean Cmax | Mean AUC |  |  |  |  |
@@ -160,6 +161,7 @@ Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence o
 | Efavirenz | 400 mg/day for 7 days | 600 mg orally on day 7 | 14 | 1.22(1.04 to 1.42) | 0.92* |
 | Fluconazole | 200 mg orally single dose | 1,200 mg orally single dose | 18 | 0.82(0.66 to 1.02) | 1.07(0.94 to 1.22) |
 | Nelfinavir | 750 mg three times a day for 11 days | 1,200 mg orally on day 9 | 14 | 2.36(1.77 to 3.15) | 2.12(1.80 to 2.50) |
+| Oral Antacids(Aluminum Hydroxide, Magnesium Hydroxide) | 1,350 mg aluminum hydroxide and 1,200 mg of magnesium hydroxide single dose on day 1 or day 8 | 500 mg orally on day 1 and day 8 | 10 | 0.765* | 0.984* |
 
 * -90% Confidence interval not reported
 
