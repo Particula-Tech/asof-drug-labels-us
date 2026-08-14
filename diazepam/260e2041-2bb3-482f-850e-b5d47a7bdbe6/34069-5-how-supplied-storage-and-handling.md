@@ -11,11 +11,11 @@ Valium is available as follows:
 
 Engraved on tablets:
 
-2 mg—2 and VALIUM ®on the outside edge; vertically scored on reverse side
+2 mg—2 and VALIUM®on the outside edge; vertically scored on reverse side
 
-5 mg—5 and VALIUM ®on the outside edge; vertically scored on reverse side
+5 mg—5 and VALIUM®on the outside edge; vertically scored on reverse side
 
-10 mg—10 and VALIUM ®on the outside edge; vertically scored on the reverse side
+10 mg—10 and VALIUM®on the outside edge; vertically scored on the reverse side
 
 ## Storage
 

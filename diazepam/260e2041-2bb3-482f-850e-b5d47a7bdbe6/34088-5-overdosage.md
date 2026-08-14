@@ -4,7 +4,7 @@ Overdosage of benzodiazepines is characterized by central nervous system depress
 In mild to moderate cases, symptoms can include drowsiness, confusion, dysarthria, lethargy, hypnotic state, diminished reflexes, ataxia, and hypotonia.
 Rarely, paradoxical or disinhibitory reactions (including agitation, irritability, impulsivity, violent behavior, confusion, restlessness, excitement, and talkativeness) may occur.
 In severe overdosage cases, patients may develop respiratory depression and coma.
-Overdosage of benzodiazepines in combination with other CNS depressants (including alcohol and opioids) may be fatal (see WARNINGS: Dependence and Withdrawal Reactions).
+Overdosage of benzodiazepines in combination with other CNS depressants (including alcohol and opioids) may be fatal (seeWARNINGS: Dependence and Withdrawal Reactions).
 Markedly abnormal (lowered or elevated) blood pressure, heart rate, or respiratory rate raise the concern that additional drugs and/or alcohol are involved in the overdosage.
 
 In managing benzodiazepine overdosage, employ general supportive measures, including intravenous fluids and airway management.

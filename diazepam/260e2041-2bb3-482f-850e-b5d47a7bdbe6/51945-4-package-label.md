@@ -2,7 +2,7 @@
 
 NDC 80725-004-01
 
-Valium ® (diazepam) Tablets CIV
+Valium® (diazepam) Tablets CIV
 
 2 mg
 
@@ -20,7 +20,7 @@ Waylis THERAPEUTICS
 
 NDC 80725-005-01
 
-Valium ® (diazepam) Tablets CIV
+Valium® (diazepam) Tablets CIV
 
 5 mg
 
@@ -38,7 +38,7 @@ Waylis THERAPEUTICS
 
 NDC 80725-006-01
 
-Valium ® (diazepam) Tablets CIV
+Valium® (diazepam) Tablets CIV
 
 10 mg
 

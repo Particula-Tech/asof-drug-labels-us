@@ -14,7 +14,7 @@ Even taking benzodiazepines as prescribed may put patients at risk for abuse and
 Abuse and misuse of benzodiazepines may lead to addiction.
 
 Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death.
-Benzodiazepines are often sought by individuals who abuse drugs and other substances, and by individuals with addictive disorders (see WARNINGS: Abuse, Misuse, and Addiction).
+Benzodiazepines are often sought by individuals who abuse drugs and other substances, and by individuals with addictive disorders (seeWARNINGS: Abuse, Misuse, and Addiction).
 
 The following adverse reactions have occurred with benzodiazepine abuse and/or misuse: abdominal pain, amnesia, anorexia, anxiety, aggression, ataxia, blurred vision, confusion, depression, disinhibition, disorientation, dizziness, euphoria, impaired concentration and memory, indigestion, irritability, muscle pain, slurred speech, tremors, and vertigo.
 
@@ -28,9 +28,9 @@ Death is more often associated with polysubstance use (especially benzodiazepine
 Valium may produce physical dependence from continued therapy.
 Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 Abrupt discontinuation or rapid dosage reduction of benzodiazepines or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
-Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses), those who have had longer durations of use (see WARNINGS: Dependence and Withdrawal Reactions).
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses), those who have had longer durations of use (seeWARNINGS: Dependence and Withdrawal Reactions).
 
-To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Valium or reduce the dosage (see DOSAGE and ADMINISTRATION: Discontinuation or Dosage Reduction of Valiumand WARNINGS: Dependence and Withdrawal Reactions).
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Valium or reduce the dosage (seeDOSAGE and ADMINISTRATION: Discontinuation or Dosage Reduction of ValiumandWARNINGS: Dependence and Withdrawal Reactions).
 
 #### Acute Withdrawal Signs and Symptoms
 

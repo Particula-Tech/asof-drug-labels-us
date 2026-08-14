@@ -11,12 +11,12 @@ In patients already receiving an opioid analgesic, prescribe a lower initial dos
 If an opioid is initiated in a patient already taking Valium, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when Valium is used with opioids.
-Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see PRECAUTIONS: Drug Interactions).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (seePRECAUTIONS: Drug Interactions).
 
 ## Abuse, Misuse, and Addiction
 
 The use of benzodiazepines, including Valium, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
-Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE: Abuse).
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (seeDRUG ABUSE AND DEPENDENCE: Abuse).
 
 Before prescribing Valium and throughout treatment, assess each patient's risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
 Use of Valium, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of Valium along with monitoring for signs and symptoms of abuse, misuse, and addiction.
@@ -25,18 +25,18 @@ If a substance use disorder is suspected, evaluate the patient and institute (or
 
 ## Dependence and Withdrawal Reactions
 
-To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Valium or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of Valium).
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Valium or reduce the dosage (a patient-specific plan should be used to taper the dose) (seeDOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of Valium).
 
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
 
 ### Acute Withdrawal Reactions
 
 The continued use of benzodiazepines, including Valium, may lead to clinically significant physical dependence.
-Abrupt discontinuation or rapid dosage reduction of Valium after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE: Dependence).
+Abrupt discontinuation or rapid dosage reduction of Valium after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (seeDRUG ABUSE AND DEPENDENCE: Dependence).
 
 ### Protracted Withdrawal Syndrome
 
-In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE: Dependence).
+In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (seeDRUG ABUSE AND DEPENDENCE: Dependence).
 
 Valium is not recommended in the treatment of psychotic patients and should not be employed instead of appropriate treatment.
 
@@ -47,24 +47,24 @@ Abrupt withdrawal of Valium in such cases may also be associated with a temporar
 
 ## Neonatal Sedation and Withdrawal Syndrome
 
-Use of Valium late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
+Use of Valium late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (seePRECAUTIONS: Pregnancy).
 Monitor neonates exposed to Valium during pregnancy or labor for signs of sedation and monitor neonates exposed to Valium during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 # PRECAUTIONS
 
 ## General
 
-If Valium is to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed - particularly with known compounds that may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants (see Drug Interactions).
+If Valium is to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed - particularly with known compounds that may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants (seeDrug Interactions).
 
 The usual precautions are indicated for severely depressed patients or those in whom there is any evidence of latent depression or anxiety associated with depression, particularly the recognition that suicidal tendencies may be present and protective measures may be necessary.
 
-Psychiatric and paradoxical reactions are known to occur when using benzodiazepines (see ADVERSE REACTIONS).
+Psychiatric and paradoxical reactions are known to occur when using benzodiazepines (seeADVERSE REACTIONS).
 Should this occur, use of the drug should be discontinued.
 These reactions are more likely to occur in children and the elderly.
 
 A lower dose is recommended for patients with chronic respiratory insufficiency, due to the risk of respiratory depression.
 
-Benzodiazepines should be used with extreme caution in patients with a history of alcohol or drug abuse (see DRUG ABUSE AND DEPENDENCE).
+Benzodiazepines should be used with extreme caution in patients with a history of alcohol or drug abuse (seeDRUG ABUSE AND DEPENDENCE).
 
 In debilitated patients, it is recommended that the dosage be limited to the smallest effective amount to preclude the development of ataxia or oversedation (2 mg to 2.5 mg once or twice daily, initially, to be increased gradually as needed and tolerated).
 Some loss of response to the effects of benzodiazepines may develop after repeated use of Valium for a prolonged time.
@@ -76,39 +76,39 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 ### Risks from Concomitant Use with Opioids
 
 Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when Valium is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider.
-Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see WARNINGS: Risks from Concomitant Use with Opioidsand PRECAUTIONS: Drug Interactions).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (seeWARNINGS: Risks from Concomitant Use with OpioidsandPRECAUTIONS: Drug Interactions).
 
 ### Abuse, Misuse, and Addiction
 
 Inform patients that the use of Valium, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
-Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse, Misuse, and Addictionand DRUG ABUSE AND DEPENDENCE).
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (seeWARNINGS: Abuse, Misuse, and AddictionandDRUG ABUSE AND DEPENDENCE).
 
 ### Withdrawal Reactions
 
 Inform patients that the continued use of Valium may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of Valium may precipitate acute withdrawal reactions, which can be life-threatening.
 Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
-Instruct patients that discontinuation or dosage reduction of Valium may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactionsand DRUG ABUSE AND DEPENDENCE).
+Instruct patients that discontinuation or dosage reduction of Valium may require a slow taper (seeWARNINGS: Dependence and Withdrawal ReactionsandDRUG ABUSE AND DEPENDENCE).
 
 Patients should be advised against the simultaneous ingestion of alcohol and other CNS-depressant drugs during Valium therapy.
 As is true of most CNS- acting drugs, patients receiving Valium should be cautioned against engaging in hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.
 
 ### Pregnancy
 
-Advise pregnant females that use of Valium late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndromeand PRECAUTIONS: Pregnancy).
+Advise pregnant females that use of Valium late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (seeWARNINGS: Neonatal Sedation and Withdrawal SyndromeandPRECAUTIONS: Pregnancy).
 Instruct patients to inform their healthcare provider if they are pregnant.
 
-Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Valium during pregnancy (see Precautions, Pregnancy).
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Valium during pregnancy (seePrecautions, Pregnancy).
 
 ### Nursing
 
-Advise patients that breastfeeding is not recommended during treatment with Valium (see PRECAUTIONS: Nursing Mothers).
+Advise patients that breastfeeding is not recommended during treatment with Valium (seePRECAUTIONS: Nursing Mothers).
 
 ## Drug Interactions
 
 ### Opioids
 
 The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
-Benzodiazepines interact at GABA Asites and opioids interact primarily at mu receptors.
+Benzodiazepines interact at GABAAsites and opioids interact primarily at mu receptors.
 When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid- related respiratory depression exists.
 Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
 
@@ -139,10 +139,10 @@ There have also been reports that the metabolic elimination of phenytoin is decr
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In studies in which mice and rats were administered diazepam in the diet at a dose of 75 mg/kg/day (approximately 6 and 12 times, respectively, the maximum recommended human dose [MRHD=1 mg/kg/day] on a mg/m 2basis) for 80 and 104 weeks, respectively, an increased incidence of liver tumors was observed in males of both species.
+In studies in which mice and rats were administered diazepam in the diet at a dose of 75 mg/kg/day (approximately 6 and 12 times, respectively, the maximum recommended human dose [MRHD=1 mg/kg/day] on a mg/m2basis) for 80 and 104 weeks, respectively, an increased incidence of liver tumors was observed in males of both species.
 The data currently available are inadequate to determine the mutagenic potential of diazepam.
-Reproduction studies in rats showed decreases in the number of pregnancies and in the number of surviving offspring following administration of an oral dose of 100 mg/kg/day (approximately 16 times the MRHD on a mg/m 2basis) prior to and during mating and throughout gestation and lactation.
-No adverse effects on fertility or offspring viability were noted at a dose of 80 mg/kg/day (approximately 13 times the MRHD on a mg/m 2basis).
+Reproduction studies in rats showed decreases in the number of pregnancies and in the number of surviving offspring following administration of an oral dose of 100 mg/kg/day (approximately 16 times the MRHD on a mg/m2basis) prior to and during mating and throughout gestation and lactation.
+No adverse effects on fertility or offspring viability were noted at a dose of 80 mg/kg/day (approximately 13 times the MRHD on a mg/m2basis).
 
 ## Pregnancy
 
@@ -154,10 +154,10 @@ Healthcare providers are encouraged to register patients by calling the National
 
 ### Risk Summary
 
-Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndromeand Clinical Considerations).
-Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (seeWARNINGS: Neonatal Sedation and Withdrawal SyndromeandClinical Considerations).
+Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects(seeData).
 
-Diazepam has been shown to be teratogenic in mice and hamsters when given orally at daily doses of 100 mg/kg or greater (approximately eight times the maximum recommended human dose [MRHD=1 mg/kg/day] or greater on a mg/m 2basis).
+Diazepam has been shown to be teratogenic in mice and hamsters when given orally at daily doses of 100 mg/kg or greater (approximately eight times the maximum recommended human dose [MRHD=1 mg/kg/day] or greater on a mg/m2basis).
 Cleft palate and encephalopathy are the most common and consistently reported malformations produced in these species by administration of high, maternally toxic doses of diazepam during organogenesis.
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -171,7 +171,7 @@ In the U.S. general population, the estimated risk of major birth defects and of
 Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates.
 Monitor neonates exposed to Valium during pregnancy and labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
 Monitor neonates exposed to Valium during pregnancy for signs of withdrawal.
-Manage these neonates accordingly (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome).
+Manage these neonates accordingly (seeWARNINGS: Neonatal Sedation and Withdrawal Syndrome).
 
 #### Labor or Delivery
 
@@ -188,7 +188,7 @@ In addition, the majority of more recent case-control and cohort studies of benz
 
 #### Animal Data
 
-Diazepam has been shown to be teratogenic in mice and hamsters when given orally at daily doses of 100 mg/kg or greater (approximately eight times the maximum recommended human dose [MRHD=1 mg/kg/day] or greater on a mg/m 2basis).
+Diazepam has been shown to be teratogenic in mice and hamsters when given orally at daily doses of 100 mg/kg or greater (approximately eight times the maximum recommended human dose [MRHD=1 mg/kg/day] or greater on a mg/m2basis).
 Cleft palate and encephalopathy are the most common and consistently reported malformations produced in these species by administration of high, maternally toxic doses of diazepam during organogenesis.
 Rodent studies have indicated that prenatal exposure to diazepam doses similar to those used clinically can produce long-term changes in cellular immune responses, brain neurochemistry, and behavior.
 
@@ -216,4 +216,4 @@ Decreases in clearance and protein binding, and increases in volume of distribut
 In such patients, a 2- to 5- fold increase in mean half-life has been reported.
 Delayed elimination has also been reported for the active metabolite desmethyldiazepam.
 Benzodiazepines are commonly implicated in hepatic encephalopathy.
-Increases in half-life have also been reported in hepatic fibrosis and in both acute and chronic hepatitis (see CLINICAL PHARMACOLOGY: Pharmacokinetics in Special Populations: Hepatic Insufficiency).
+Increases in half-life have also been reported in hepatic fibrosis and in both acute and chronic hepatitis (seeCLINICAL PHARMACOLOGY: Pharmacokinetics in Special Populations: Hepatic Insufficiency).
