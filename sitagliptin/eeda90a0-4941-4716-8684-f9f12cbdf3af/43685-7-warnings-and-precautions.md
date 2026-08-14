@@ -65,6 +65,12 @@ Patients with hepatic impairment have developed with cases of metformin-associat
 This may be due to impaired lactate clearance resulting in higher lactate blood levels.
 Therefore, avoid use of ZITUVIMET in patients with clinical or laboratory evidence of hepatic disease.
 
+Mitochondrial Diseases: Metformin may increase the risk of lactic acidosis in patients with mitochondrial diseases such as mitochondrial encephalomyopathy with lactic acidosis, and stroke-like episodes (MELAS) syndrome and maternally inherited diabetes and deafness (MIDD).
+ZITUVIMET is not recommended in patients with mitochondrial diseases such as MELAS syndrome and MIDD.
+
+If a patient taking ZITUVIMET develops elevated lactic acid levels (with or without accompanying neurologic signs and symptoms), discontinue ZITUVIMET.
+Depending on the clinical context, consider evaluating the patient for MELAS, MIDD, or other mitochondrial disease.
+
 ## 5.2 Pancreatitis
 
 There have been postmarketing reports of acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, in patients taking ZITUVIMET.
