@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA217472"
+  ],
+  "inn": "rocuronium",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "76045-220-05",
+    "76045-220-50",
+    "76045-221-05",
+    "76045-221-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "rocuronium bromide",
+      "name": "Rocuronium"
+    }
+  ],
+  "setid": "04c9812d-5aa3-4949-ad02-c618028f1bb0",
+  "source": "dailymed"
+}

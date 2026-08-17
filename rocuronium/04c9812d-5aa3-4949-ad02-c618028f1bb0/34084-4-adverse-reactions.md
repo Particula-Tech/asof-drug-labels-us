@@ -1,0 +1,43 @@
+# 6 ADVERSE REACTIONS
+
+In clinical trials, the most common adverse reactions (2%) are transient hypotension and hypertension.
+The following adverse reactions are described, or described in greater detail, in other sections:
+
+- Anaphylaxis [see Warnings and Precautions (5.2)]
+- Residual paralysis [see Warnings and Precautions (5.5)]
+- Myopathy [see Warnings and Precautions (5.6)]
+- Increased pulmonary vascular resistance [see Warnings and Precautions (5.12)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Clinical studies of another rocuronium bromide injection product in the U.S. (n=1137) and Europe (n=1394) totaled 2531 patients.
+The following adverse reactions were reported in patients administered another rocuronium bromide injection (all events judged by investigators during the clinical trials to have a possible causal relationship):
+
+Adverse reactions in greater than 1% of patients: None
+
+Adverse reactions in less than 1% of patients (probably related or relationship unknown):
+
+- Cardiovascular: arrhythmia, abnormal electrocardiogram, tachycardia
+- Digestive: nausea, vomiting
+- Respiratory: asthma (bronchospasm, wheezing, or rhonchi), hiccup
+- Skin and Appendages: rash, injection site edema, pruritus
+
+In the European studies of another rocuronium bromide injection product, the most commonly reported reactions were transient hypotension (2%) and hypertension (2%); these are in greater frequency than the US studies (0.1% and 0.1%).
+Changes in heart rate and blood pressure were defined differently from in the US studies in which changes in cardiovascular parameters were not considered as adverse events unless judged by the investigator as unexpected, clinically significant, or thought to be histamine related.
+
+In a clinical study of another rocuronium bromide injection product in patients with clinically significant cardiovascular disease undergoing coronary artery bypass graft, hypertension and tachycardia were reported in some patients, but these occurrences were less frequent in patients receiving beta or calcium channel-blocking drugs.
+In some patients, the use of another rocuronium bromide injection product was associated with transient increases (30% or greater) in pulmonary vascular resistance.
+In another clinical study of patients undergoing abdominal aortic surgery, transient increases (30% or greater) in pulmonary vascular resistance were observed in about 24% of patients who received another rocuronium bromide injection product at 0.6 mg/kg or 0.9 mg/kg.
+
+In pediatric patient studies worldwide of another rocuronium bromide injection product (n=704), tachycardia occurred at an incidence of 5.3% (n=37), and it was judged by the investigator as related in 10 cases (1.4%).
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of rocuronium bromide injection.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Immune system disorders: In clinical practice, there have been reports of severe allergic reactions (anaphylactic reactions and shock) with rocuronium bromide injection, including some that have been life-threatening and fatal [see Warnings and Precautions (5.2)].
+
+General disorders and administration site conditions: There have been reports of malignant hyperthermia with the use of rocuronium bromide injection [see Warnings and Precautions (5.7)].
