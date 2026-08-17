@@ -11,7 +11,12 @@ Baseline Laboratory Evaluation Prior to Treatment
 
 Obtain and assess baseline complete blood count (CBC) and liver function tests prior to treatment.
 
-RA, GCA, PJIA and SJIA – It is recommended that TYENNE not be initiated in patients with an absolute neutrophil count (ANC) below 2000 per mm3, platelet count below 100,000 per mm3, or ALT or AST above 1.5 times the upper limit of normal (ULN) [see Warnings and Precautions (5.3, 5.4)].
+RA, GCA, PJIA and SJIA – It is recommended that TYENNE not be initiated in patients with an absolute neutrophil count (ANC) below 2,000 per mm3, platelet count below 100,000 per mm3, or ALT or AST above 1.5 times the upper limit of normal (ULN) [see Warnings and Precautions (5.3, 5.4)].
+
+CRS – Patients with severe or life-threatening CRS frequently have cytopenias or elevated ALT or AST due to the lymphodepleting chemotherapy or the CRS.
+The decision to administer TYENNE should take into account the potential benefit of treating the CRS versus the risks of short-term treatment with TYENNE.
+
+COVID-19 – It is recommended that TYENNE not be initiated in patients with an absolute neutrophil count (ANC) below 1,000 per mm3, platelet count below 50,000 mm3, or ALT or AST above 10 times ULN [see Warnings and Precautions (5.3, 5.4)].
 
 ## 2.2 Recommended Dosage for Rheumatoid Arthritis
 
@@ -21,7 +26,7 @@ Recommended Intravenous Dosage Regimen:
 
 The recommended dosage of TYENNE for adult patients given as a 60-minute single intravenous drip infusion is 4 mg per kg every 4 weeks followed by an increase to 8 mg per kg every 4 weeks based on clinical response.
 
-- •Reduction of dose from 8 mg per kg to 4 mg per kg is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.8), Warnings and Precautions (5.3, 5.4), and Adverse Reactions (6.1)].
+- •Reduction of dose from 8 mg per kg to 4 mg per kg is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10), Warnings and Precautions (5.3, 5.4), and Adverse Reactions (6.1)].
 - •Doses exceeding 800 mg per infusion are not recommended in RA patients [see Clinical Pharmacology (12.3)].
 
 Recommended Subcutaneous Dosage Regimen:
@@ -32,7 +37,7 @@ Recommended Subcutaneous Dosage Regimen:
 
 When transitioning from TYENNE intravenous therapy to subcutaneous administration administer the first subcutaneous dose instead of the next scheduled intravenous dose.
 
-Interruption of dose or reduction in frequency of administration of subcutaneous dose from every week to every other week dosing is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.8), Warnings and Precautions (5.3, 5.4), and Adverse Reactions (6.2)].
+Interruption of dose or reduction in frequency of administration of subcutaneous dose from every week to every other week dosing is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10), Warnings and Precautions (5.3, 5.4), and Adverse Reactions (6.2)].
 
 ## 2.3 Recommended Dosage for Giant Cell Arteritis
 
@@ -42,7 +47,7 @@ The recommended dosage of TYENNE for adult patients given as a 60-minute single 
 
 TYENNE can be used alone following discontinuation of glucocorticoids.
 
-- •Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.8)].
+- •Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10)].
 - •Doses exceeding 600 mg per infusion are not recommended in GCA patients [see Clinical Pharmacology (12.3)].
 
 Recommended Subcutaneous Dosage Regimen:
@@ -55,7 +60,7 @@ TYENNE can be used alone following discontinuation of glucocorticoids.
 
 When transitioning from TYENNE intravenous therapy to subcutaneous administration, administer the first subcutaneous dose instead of the next scheduled intravenous dose.
 
-Interruption of dose or reduction in frequency of administration of subcutaneous dose from every week to every other week dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.8)].
+Interruption of dose or reduction in frequency of administration of subcutaneous dose from every week to every other week dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10)].
 
 ## 2.4 Recommended Dosage for Polyarticular Juvenile Idiopathic Arthritis
 
@@ -80,7 +85,7 @@ Recommended Subcutaneous Dosage Regimen:
 
 When transitioning from TYENNE intravenous therapy to subcutaneous administration, administer the first subcutaneous dose instead of the next scheduled intravenous dose.
 
-Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.8)].
+Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10)].
 
 ## 2.5 Recommended Dosage for Systemic Juvenile Idiopathic Arthritis
 
@@ -105,9 +110,41 @@ Recommended Subcutaneous Dosage Regimen:
 
 When transitioning from TYENNE intravenous therapy to subcutaneous administration, administer the first subcutaneous dose when the next scheduled intravenous dose is due.
 
-Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.8)].
+Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.10)].
 
-## 2.6 Preparation and Administration Instructions for Intravenous Infusion
+## 2.6 Recommended Dosage for Cytokine Release Syndrome (CRS)
+
+Use only the intravenous route for treatment of CRS.
+The recommended dose of TYENNE for treatment of CRS given as a 60-minute intravenous infusion is:
+
+| Recommended Intravenous CRS Dosage |  |
+| --- | --- |
+| Patients less than 30 kg weight | 12 mg per kg |
+| Patients at or above 30 kg weight | 8 mg per kg |
+| Alone or in combination with corticosteroids |  |
+
+- •If no clinical improvement in the signs and symptoms of CRS occurs after the first dose, up to 3 additional doses of TYENNE may be administered.
+  The interval between consecutive doses should be at least 8 hours.
+- •Doses exceeding 800 mg per infusion are not recommended in CRS patients.
+- •Subcutaneous administration is not approved for CRS.
+
+## 2.7 Recommended Dosage for Coronavirus Disease 2019 (COVID-19)
+
+Administer TYENNE by intravenous infusion only.
+
+The recommended dosage of TYENNE for treatment of patients with COVID-19 given as a single 60-minute intravenous infusion is:
+
+| Recommended Intravenous COVID-19 Dosage |  |
+| --- | --- |
+| Patients less than 30 kg weight | 12 mg per kg |
+| Patients at or above 30 kg weight | 8 mg per kg |
+
+If clinical signs or symptoms worsen or do not improve after the first dose, one additional infusion of TYENNE may be administered at least 8 hours after the initial infusion.
+
+- •Doses exceeding 800 mg per infusion are not recommended in patients with COVID-19.
+- •Subcutaneous administration is not approved for COVID-19.
+
+## 2.8 Preparation and Administration Instructions for Intravenous Infusion
 
 TYENNE for intravenous infusion should be diluted by a healthcare professional using aseptic technique as follows:
 
@@ -115,16 +152,16 @@ TYENNE for intravenous infusion should be diluted by a healthcare professional u
 - •Patients less than 30 kg: use a 50 mL infusion bag or bottle of 0.9% or 0.45% Sodium Chloride Injection, USP, and then follow steps 1 and 2 below.
 - •Patients at or above 30 kg weight: use a 100 mL infusion bag or bottle, and then follow steps 1 and 2 below.
 - -Step 1.
-  Withdraw a volume of 0.9% or 0.45% Sodium Chloride Injection, USP, equal to the volume of the TYENNE injection required for the patient's dose from the infusion bag or bottle [see Dosage and Administration (2.2, 2.4, 2.5)].
+  Withdraw a volume of 0.9% or 0.45% Sodium Chloride Injection, USP, equal to the volume of the TYENNE injection required for the patient's dose from the infusion bag or bottle [see Dosage and Administration (2.2, 2.4, 2.5, 2.6)].
 
 | For Intravenous Use: Volume of TYENNE Injection per kg of Body Weight |  |  |
 | --- | --- | --- |
 | Dosage | Indication | Volume of TYENNE injection per kg of body weight |
 | 4 mg/kg | Adult RA | 0.2 mL/kg |
 | 6 mg/kg | Adult GCA | 0.3 mL/kg |
-| 8 mg/kg | Adult RA SJIA and PJIA (greater than or equal to 30 kg of body weight) | 0.4 mL/kg |
+| 8 mg/kg | Adult RA SJIA, PJIA, CRS and COVID-19 (greater than or equal to 30 kg of body weight) | 0.4 mL/kg |
 | 10 mg/kg | PJIA (less than 30 kg of body weight) | 0.5 mL/kg |
-| 12 mg/kg | SJIA (less than 30 kg of body weight) | 0.6 mL/kg |
+| 12 mg/kg | SJIA, CRS and COVID-19 (less than 30 kg of body weight) | 0.6 mL/kg |
 
 - -Step 2.
   Withdraw the amount of TYENNE for intravenous infusion from the vial(s) and add slowly into the 0.9% or 0.45% Sodium Chloride Injection, USP infusion bag or bottle.
@@ -142,7 +179,7 @@ TYENNE for intravenous infusion should be diluted by a healthcare professional u
   If particulates and discolorations are noted, the product should not be used.
 - •Fully diluted TYENNE solutions are compatible with polypropylene, polyethylene and polyvinyl chloride infusion bags and bottles, and glass infusion bottles.
 
-## 2.7 Preparation and Administration Instructions for Subcutaneous Injection
+## 2.9 Preparation and Administration Instructions for Subcutaneous Injection
 
 - •TYENNE for subcutaneous injection is not intended for intravenous drip infusion.
 - •Assess suitability of patient for subcutaneous home use and instruct patients to inform a healthcare professional before administering the next dose if they experience any symptoms of allergic reaction.
@@ -151,14 +188,14 @@ TYENNE for intravenous infusion should be diluted by a healthcare professional u
   After proper training in subcutaneous injection technique, a patient may self-inject TYENNE or the patient's caregiver may administer TYENNE if a healthcare practitioner determines that it is appropriate.
   PJIA and SJIA patients may self-inject with the TYENNE prefilled syringe or autoinjector, or the patient's caregiver may administer TYENNE if both the healthcare practitioner and the parent/legal guardian determine it is appropriate [see Use in Specific Populations (8.4)].
   Patients, or patient caregivers, should be instructed to follow the directions provided in the Instructions for Use (IFU) for additional details on medication administration.
-- •Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
+- •Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
   Do not use TYENNE prefilled syringes (PFS) or prefilled autoinjectors exhibiting particulate matter, cloudiness, or discoloration.
   TYENNE for subcutaneous administration should be clear and colorless to pale yellow.
   Do not use if any part of the PFS or autoinjector appears to be damaged.
 - •Patients using TYENNE for subcutaneous administration should be instructed to inject the full amount in the syringe (0.9 mL) or full amount in the autoinjector (0.9 mL), which provides 162 mg of TYENNE, according to the directions provided in the IFU.
 - •Injection sites should be rotated with each injection and should never be given into moles, scars, or areas where the skin is tender, bruised, red, hard, or not intact.
 
-## 2.8 Dosage Modifications due to Serious Infections or Laboratory Abnormalities
+## 2.10 Dosage Modifications due to Serious Infections or Laboratory Abnormalities
 
 Serious Infections
 
@@ -178,8 +215,8 @@ Rheumatoid Arthritis and Giant Cell Arteritis
 | Low Absolute Neutrophil Count (ANC) [see Warnings and Precautions (5.4)] |  |  |
 | --- | --- | --- |
 | Lab Value (cells per mm3) | Recommendation for RA | Recommendation for GCA |
-| ANC greater than 1000 | Maintain dose | Maintain dose |
-| ANC 500 to 1000 | Hold TYENNE dosing When ANC greater than 1000 cells per mm3: •For patients receiving intravenous TYENNE, resume TYENNE at 4 mg per kg and increase to 8 mg per kg as clinically appropriate •For patients receiving subcutaneous TYENNE, resume TYENNE at every other week and increase frequency to every week as clinically appropriate | Hold TYENNE dosing When ANC greater than 1000 cells per mm3: •For patients receiving intravenous TYENNE, resume TYENNE at 6 mg per kg •For patients receiving subcutaneous TYENNE, resume TYENNE at every other week and increase frequency to every week as clinically appropriate |
+| ANC greater than 1,000 | Maintain dose | Maintain dose |
+| ANC 500 to 1,000 | Hold TYENNE dosing When ANC greater than 1,000 cells per mm3: •For patients receiving intravenous TYENNE, resume TYENNE at 4 mg per kg and increase to 8 mg per kg as clinically appropriate •For patients receiving subcutaneous TYENNE, resume TYENNE at every other week and increase frequency to every week as clinically appropriate | Hold TYENNE dosing When ANC greater than 1,000 cells per mm3: •For patients receiving intravenous TYENNE, resume TYENNE at 6 mg per kg •For patients receiving subcutaneous TYENNE, resume TYENNE at every other week and increase frequency to every week as clinically appropriate |
 | ANC less than 500 | Discontinue TYENNE | Discontinue TYENNE |
 
 | Low Platelet Count [see Warnings and Precautions (5.4)] |  |  |

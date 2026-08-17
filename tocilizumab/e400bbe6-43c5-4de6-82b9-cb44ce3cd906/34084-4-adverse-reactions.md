@@ -12,7 +12,7 @@ The following serious adverse reactions are described elsewhere in labeling:
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.
 
-## 6.1 Clinical Trials Experience in Rheumatoid Arthritis Patients Treated with Intravenous Tocilizumab (Tocilizumab-IV)
+## 6.1 Clinical Trials Experience in Rheumatoid Arthritis Patients Treated with Intravenous Tocilizumab (tocilizumab-IV)
 
 The tocilizumab-IV data in rheumatoid arthritis (RA) includes 5 double-blind, controlled, multicenter studies.
 In these studies, patients received doses of tocilizumab-IV 8 mg per kg monotherapy (288 patients), tocilizumab-IV 8 mg per kg in combination with DMARDs (including methotrexate) (1582 patients), or tocilizumab-IV 4 mg per kg in combination with methotrexate (774 patients).
@@ -67,7 +67,7 @@ Anaphylaxis
 
 Hypersensitivity reactions requiring treatment discontinuation, including anaphylaxis, associated with tocilizumab-IV were reported in 0.1% (3 out of 2644) in the 24 week, controlled trials and in 0.2% (8 out of 4009) in the all-exposure population.
 These reactions were generally observed during the second to fourth infusion of tocilizumab-IV.
-Appropriate medical treatment should be available for immediate use in the event of a serious hypersensitivity reaction [see Warnings and Precautions (5.6)].
+Appropriate medical treatment should be available for immediate use in the event of a serious hypersensitivity reaction [see Warnings and Precautions 5.6)].
 
 Laboratory Abnormalities
 
@@ -85,7 +85,7 @@ Thrombocytopenia
 
 In the 24 week, controlled clinical studies, decreases in platelet counts below 100,000 per mm3 occurred in 1.3% and 1.7% of patients on 4 mg per kg and 8 mg per kg tocilizumab-IV plus DMARD, respectively, compared to 0.5% of patients on placebo plus DMARD, without associated bleeding events.
 
-In the all-exposure population, the pattern and incidence of decreases in platelet counts remained consistent with what was seen in the 24 week controlled clinical studies [see Warnings and Precautions (5.4)].
+In the all-exposure population, the pattern and incidence of decreases in platelet counts remained consistent with what was seen in the 24 week controlled clinical studies [see Warnings and Precautions 5.4)].
 
 Elevated Liver Enzymes
 
@@ -107,7 +107,7 @@ Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period
 | > ULN to 3x ULN | 36 | 33 | 45 | 48 | 23 |
 | > 3x ULN to 5x ULN | 1 | 4 | 5 | 5 | 1 |
 | > 5x ULN | 0.7 | 1 | 1.3 | 1.5 | 0.3 |
-| ULN = Upper Limit of Normal *For a description of these studies see Section 14, Clinical Studies. |  |  |  |  |  |
+| ULN = Upper Limit of Normal *For a description of these studies, see Section 14, Clinical Studies. |  |  |  |  |  |
 
 In the all-exposure population, the elevations in ALT and AST remained consistent with what was seen in the 24 week, controlled clinical trials.
 
@@ -190,7 +190,7 @@ Renal disorders: nephrolithiasis
 
 Endocrine disorders: hypothyroidism
 
-## 6.2 Clinical Trials Experience in Rheumatoid Arthritis Patients Treated with Subcutaneous Tocilizumab (Tocilizumab-SC)
+## 6.2 Clinical Trials Experience in Rheumatoid Arthritis Patients Treated with Subcutaneous Tocilizumab (tocilizumab-SC)
 
 The tocilizumab-SC data in rheumatoid arthritis (RA) includes 2 double-blind, controlled, multicenter studies.
 Study SC-I was a non-inferiority study that compared the efficacy and safety of tocilizumab 162 mg administered every week subcutaneously and 8 mg/kg intravenously every four weeks in 1262 adult subjects with rheumatoid arthritis.
@@ -237,7 +237,7 @@ Lipid Parameters Elevations
 
 During routine laboratory monitoring in the tocilizumab-SC 6-month clinical trials, 19% of patients dosed weekly and 19.6% of patients dosed every other week and 10.2% of patients on placebo experienced sustained elevations in total cholesterol > 6.2 mmol/l (240 mg/dL), with 9%, 10.4% and 5.1% experiencing a sustained increase in LDL to 4.1 mmol/l (160 mg/dL) receiving tocilizumab-SC weekly, every other week and placebo, respectively.
 
-## 6.3 Clinical Trials Experience in Giant Cell Arteritis Patients Treated with Subcutaneous Tocilizumab (Tocilizumab-SC)
+## 6.3 Clinical Trials Experience in Giant Cell Arteritis Patients Treated with Subcutaneous Tocilizumab (tocilizumab-SC)
 
 The safety of subcutaneous tocilizumab has been studied in one Phase III study (WA28119) with 251 GCA patients.
 The total patient years duration in the tocilizumab-SC GCA all exposure population was 138.5 patient years during the 12-month double blind, placebo-controlled phase of the study.
@@ -246,14 +246,14 @@ There was an overall higher incidence of infections in GCA patients relative to 
 
 The rate of infection/serious infection events was 200.2/9.7 events per 100 patient years in the tocilizumab-SC weekly group and 160.2/4.4 events per 100 patient years in the tocilizumab-SC every other week group as compared to 156.0/4.2 events per 100 patient years in the placebo + 26 week prednisone taper and 210.2/12.5 events per 100 patient years in the placebo + 52 week taper groups.
 
-## 6.4 Clinical Trials Experience in Giant Cell Arteritis Patients Treated With Intravenous Tocilizumab (Tocilizumab-IV)
+## 6.4 Clinical Trials Experience in Giant Cell Arteritis Patients Treated With Intravenous Tocilizumab (tocilizumab-IV)
 
 The safety of tocilizumab-IV was studied in an open label PK-PD and safety study in 24 patients with GCA who were in remission on tocilizumab-IV at time of enrollment.
 Patients received tocilizumab 7 mg/kg every 4 weeks for 20 weeks, followed by 6 mg/kg every 4 weeks for 20 weeks.
 The total patient years exposure to treatment was 17.5 years.
 The overall safety profile observed for tocilizumab administered intravenously in GCA patients was consistent with the known safety profile of tocilizumab.
 
-## 6.5 Clinical Trials Experience in Polyarticular Juvenile Idiopathic Arthritis Patients Treated With Intravenous Tocilizumab (Tocilizumab-IV)
+## 6.5 Clinical Trials Experience in Polyarticular Juvenile Idiopathic Arthritis Patients Treated With Intravenous Tocilizumab (tocilizumab-IV)
 
 The safety of tocilizumab-IV was studied in 188 pediatric patients 2 to 17 years of age with PJIA who had an inadequate clinical response or were intolerant to methotrexate.
 The total patient exposure in the tocilizumab-IV all exposure population (defined as patients who received at least one dose of tocilizumab-IV) was 184.4 patient years.
@@ -301,7 +301,7 @@ Lipids
 
 During routine laboratory monitoring in the tocilizumab all exposure population, elevation in total cholesterol greater than 1.5-2 x ULN occurred in one patient (0.5%) and elevation in LDL greater than 1.5-2 x ULN occurred in one patient (0.5%).
 
-## 6.6 Clinical Trials Experience in Polyarticular Juvenile Idiopathic Arthritis Patients Treated With Subcutaneous Tocilizumab (Tocilizumab-SC)
+## 6.6 Clinical Trials Experience in Polyarticular Juvenile Idiopathic Arthritis Patients Treated With Subcutaneous Tocilizumab (tocilizumab-SC)
 
 The safety of tocilizumab-SC was studied in 52 pediatric patients 1 to 17 years of age with PJIA who had an inadequate clinical response or were intolerant to methotrexate.
 The total patient exposure in the PJIA tocilizumab-SC population (defined as patients who received at least one dose of tocilizumab-SC and accounting for treatment discontinuation) was 49.5 patient years.
@@ -325,7 +325,7 @@ Neutropenia
 During routine laboratory monitoring in the tocilizumab-SC all exposure population, a decrease in neutrophil counts below 1 × 109 per L occurred in 15.4% of patients, and was more frequently observed in the patients less than 30 kg (25.9%) compared to patients at or above 30 kg (4.0%).
 There was no clear relationship between decreases in neutrophils below 1 x 109 per L and the occurrence of serious infections.
 
-## 6.7 Clinical Trials Experience in Systemic Juvenile Idiopathic Arthritis Patients Treated with Intravenous Tocilizumab (Tocilizumab-IV)
+## 6.7 Clinical Trials Experience in Systemic Juvenile Idiopathic Arthritis Patients Treated with Intravenous Tocilizumab (tocilizumab-IV)
 
 The data described below reflect exposure to tocilizumab-IV in one randomized, double-blind, placebo-controlled trial of 112 pediatric patients with SJIA 2 to 17 years of age who had an inadequate clinical response to nonsteroidal anti-inflammatory drugs (NSAIDs) or corticosteroids due to toxicity or lack of efficacy.
 At baseline, approximately half of the patients were taking 0.3 mg/kg/day corticosteroids or more, and almost 70% were taking methotrexate.
@@ -399,7 +399,7 @@ Elevation in LDL greater than 1.5x ULN – 2x ULN occurred in 1.9% of patients i
 
 In the open label extension study over an average duration of 73 weeks of treatment, the pattern and incidence of elevations in lipid parameters remained consistent with the 12 week controlled study data.
 
-## 6.8 Clinical Trials Experience in Systemic Juvenile Idiopathic Arthritis Patients Treated with Subcutaneous Tocilizumab (Tocilizumab-SC)
+## 6.8 Clinical Trials Experience in Systemic Juvenile Idiopathic Arthritis Patients Treated with Subcutaneous Tocilizumab (tocilizumab-SC)
 
 The safety profile of tocilizumab-SC was studied in 51 pediatric patients 1 to 17 years of age with SJIA who had an inadequate clinical response to NSAIDs and corticosteroids.
 In general, the safety observed for tocilizumab administered subcutaneously was consistent with the known safety profile of intravenous tocilizumab, with the exception of ISRs where a higher frequency was observed in tocilizumab-SC treated SJIA patients compared to PJIA patients and adult RA or GCA patients [see Adverse Reactions (6.2, 6.3 and 6.6)].
@@ -415,7 +415,45 @@ Immunogenicity
 Forty-six of the 51 (90.2%) patients who were tested for anti-tocilizumab antibodies at baseline had at least one post-baseline screening assay result.
 No patient developed positive anti-tocilizumab antibodies post-baseline.
 
-## 6.9 Postmarketing Experience
+## 6.9 Clinical Trials Experience in Patients with Cytokine Release Syndrome Treated with Intravenous Tocilizumab (tocilizumab-IV)
+
+In a retrospective analysis of pooled outcome data from multiple clinical trials 45 patients were treated with tocilizumab 8 mg/kg (12 mg/kg for patients less than 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CAR T-cell-induced CRS.
+A median of 1 dose of tocilizumab (range, 1-4 doses) was administered.
+No adverse reactions related to tocilizumab were reported [see Clinical Studies (14.10)].
+
+## 6.10 Clinical Trials Experience in COVID-19 Patients Treated with Intravenous Tocilizumab (tocilizumab-IV)
+
+The safety of tocilizumab in hospitalized adult COVID-19 patients was evaluated in a pooled safety population that includes patients enrolled in EMPACTA, COVACTA, AND REMDACTA.
+The analysis of adverse reactions included a total of 974 patients exposed to tocilizumab.
+Patients received a single, 60-minute infusion of intravenous tocilizumab 8 mg/kg (maximum dose of 800 mg).
+If clinical signs or symptoms worsened or did not improve, one additional dose of tocilizumab 8 mg/kg could be administered between 8- 24 hours after the initial dose.
+
+Adverse reactions summarized in Table 3 occurred in at least 3% of tocilizumab-treated patients and more commonly than in patients on placebo in the pooled safety population.
+
+Table 3 Adverse Reactions1 Identified From the Pooled COVID-19 Adult Safety Population
+
+| Adverse Reaction | Tocilizumab 8 mg per kg N = 974 (%) | Placebo N = 483 (%) |
+| --- | --- | --- |
+| Hepatic Transaminases increased | 10% | 8% |
+| Constipation | 9% | 8% |
+| Urinary tract infection | 5% | 4% |
+| Hypertension | 4% | 1% |
+| Hypokalaemia | 4% | 3% |
+| Anxiety | 4% | 2% |
+| Diarrhea | 4% | 2% |
+| Insomnia | 4% | 3% |
+| Nausea | 3% | 2% |
+| 1Patients are counted once for each category regardless of the number of reactions |  |  |
+
+In the pooled safety population, the rates of infection/serious infection events were 30%/19% in patients receiving tocilizumab versus 32%/23% receiving placebo.
+
+Laboratory Abnormalities
+
+In the pooled adult safety population of EMPACTA, COVACTA, and REMDACTA, neutrophil counts <1000 cells/mcl occurred in 3.4% of patients who received tocilizumab and 0.5% of patients who received placebo.
+Platelet counts <50,000 cells/mcl occurred in 3.2% of patients who received tocilizumab and 1.5% of patients who received placebo.
+ALT or AST at or above 5x ULN occurred in 11.7% of patients who received tocilizumab and 9.9% of patients who received placebo.
+
+## 6.11 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of tocilizumab products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -423,3 +461,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •Hypersensitivity Reactions: Fatal anaphylaxis, Stevens-Johnson Syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.6)]
 - •Pancreatitis
 - •Drug-induced liver injury, Hepatitis, Hepatic failure, Jaundice [see Warnings and Precautions (5.3)]
+- •Hypofibrinogenemia

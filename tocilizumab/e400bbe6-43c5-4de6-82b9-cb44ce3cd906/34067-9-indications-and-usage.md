@@ -15,3 +15,11 @@ TYENNE® (tocilizumab-aazg) is indicated for the treatment of active polyarticul
 ## 1.4 Systemic Juvenile Idiopathic Arthritis (SJIA)
 
 TYENNE® (tocilizumab-aazg) is indicated for the treatment of active systemic juvenile idiopathic arthritis in patients 2 years of age and older.
+
+## 1.5 Cytokine Release Syndrome (CRS)
+
+TYENNE® (tocilizumab-aazg) is indicated for the treatment of chimeric antigen receptor (CAR) T cell-induced severe or life-threatening cytokine release syndrome in adults and pediatric patients 2 years of age and older.
+
+## 1.6 Coronavirus Disease 2019 (COVID-19)
+
+TYENNE® (tocilizumab-aazg) is indicated for the treatment of coronavirus disease 2019 (COVID-19) in hospitalized adult and pediatric patients aged 2 years and older who are receiving systemic corticosteroids and require supplemental oxygen, noninvasive or invasive mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).

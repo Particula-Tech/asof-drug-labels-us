@@ -33,12 +33,12 @@ The primary endpoint was the proportion of patients who achieved an ACR 20 respo
 
 Clinical Response
 
-The percentages of intravenous tocilizumab-treated patients achieving ACR 20, 50 and 70 responses are shown in Table 3.
+The percentages of intravenous tocilizumab-treated patients achieving ACR 20, 50 and 70 responses are shown in Table 4.
 In all intravenous studies, patients treated with 8 mg per kg tocilizumab had higher ACR 20, ACR 50, and ACR 70 response rates versus MTX- or placebo-treated patients at week 24.
 
 During the 24 week controlled portions of Studies I to V, patients treated with tocilizumab at a dose of 4 mg per kg in patients with inadequate response to DMARDs or TNF antagonist therapy had lower response rates compared to patients treated with tocilizumab 8 mg per kg.
 
-Table 3 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Trials of Intravenous Tocilizumab (Percent of Patients)
+Table 4 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Trials of Intravenous Tocilizumab (Percent of Patients)
 
 | Percent of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -50,65 +50,67 @@ Table 3 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Tr
 | Week 24 | 53% | 70% | 27% | 51% | 56% | 27% | 48% | 59% | 24% | 61% | 10% | 30% | 50% |
 |  |  | (0.11, 0.27) |  | (0.17, 0.29) | (0.23, 0.35) |  | (0.15, 0.32) | (0.23, 0.41) |  | (0.30, 0.40) |  | (0.15, 0.36) | (0.36, 0.56) |
 | Week 52 | N/A | N/A | 25% | 47% | 56% | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| ACR 50 |  |  |  | (0.15, 0.28) | (0.25, 0.38) |  |  |  |  |  |  |  |  |
+|  |  |  |  | (0.15, 0.28) | (0.25, 0.38) |  |  |  |  |  |  |  |  |
+| ACR 50 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 24 | 34% | 44% | 10% | 25% | 32% | 11% | 32% | 44% | 9% | 38% | 4% | 17% | 29% |
 |  |  | (0.04, 0.20) |  | (0.09, 0.20) | (0.16, 0.28) |  | (0.13, 0.29) | (0.25, 0.41) |  | (0.23, 0.33) |  | (0.05, 0.25) | (0.21, 0.41) |
 | Week 52 | N/A | N/A | 10% | 29% | 36% | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| ACR 70 |  |  |  | (0.14, 0.25) | (0.21, 0.32) |  |  |  |  |  |  |  |  |
+|  |  |  |  | (0.14, 0.25) | (0.21, 0.32) |  |  |  |  |  |  |  |  |
+| ACR 70 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 24 | 15% | 28% | 2% | 11% | 13% | 2% | 12% | 22% | 3% | 21% | 1% | 5% | 12% |
 |  |  | (0.07, 0.22) |  | (0.03, 0.13) | (0.05, 0.15) |  | (0.04, 0.18) | (0.12, 0.27) |  | (0.13, 0.21) |  | (-0.06, 0.14) | (0.03, 0.22) |
-| Week 52 | N/A | N/A | 4% | 16% | 20% | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| Major Clinical Responses b |  |  |  | (0.08, 0.17) | (0.12, 0.21) |  |  |  |  |  |  |  |  |
+| Week 52 | N/A | N/A | 4% | 16% | 20% | N/A | N/A | N/A | N/A | N/A |  |  |  |
+|  |  |  |  | (0.08, 0.17) | (0.12, 0.21) |  |  |  |  |  | N/A | N/A | N/A |
+| Major Clinical Responses b |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 52 | N/A | N/A | 1% | 4% | 7% | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 |  |  |  |  | (0.01, 0.06) | (0.03, 0.09) |  |  |  |  |  |  |  |  |
 | a CI: 95% confidence interval of the weighted difference to placebo adjusted for site (and disease duration for Study I only) b Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week period |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 In study II, a greater proportion of patients treated with 4 mg per kg and 8 mg per kg tocilizumab + MTX achieved a low level of disease activity as measured by a DAS 28-ESR less than 2.6 compared with placebo+ MTX treated patients at week 52.
-The proportion of tocilizumab-treated patients achieving DAS 28-ESR less than 2.6, and the number of residual active joints in these responders in Study II are shown in Table 4.
+The proportion of tocilizumab-treated patients achieving DAS 28-ESR less than 2.6, and the number of residual active joints in these responders in Study II are shown in Table 5.
 
-Table 4 Proportion of Patients with DAS28-ESR Less Than 2.6 with Number of Residual Active Joints in Trials of Intravenous Tocilizumab
+Table 5 Proportion of Patients with DAS28-ESR Less Than 2.6 with Number of Residual Active Joints in Trials of Intravenous Tocilizumab
 
-| Study II |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo + MTX N = 393 | Tocilizumab 4 mg per kg + MTX N = 399 | Tocilizumab 8 mg per kg + MTX N = 398 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| DAS28-ESR less than 2.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Proportion of responders at week 52 (n) 95% confidence interval | 3% (12) | 18% (70) 0.10, 0.19 | 32% (127) 0.24, 0.34 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Of responders, proportion with 0 active joints (n) | 33% (4) | 27% (19) | 21% (27) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Of responders, proportion with 1 active joint (n) | 8% (1) | 19% (13) | 13% (16) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Of responders, proportion with 2 active joints (n) | 25% (3) | 13% (9) | 20% (25) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Of responders, proportion with 3 or more active joints (n) | 33% (4) | 41% (29) | 47% (59) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| *n denotes numerator of all the percentage. Denominator is the intent-to-treat population. Not all patients received DAS28 assessments at Week 52. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Study II |  |  |  |
+| --- | --- | --- | --- |
+|  | Placebo + MTX N = 393 | Tocilizumab 4 mg per kg + MTX N = 399 | Tocilizumab 8 mg per kg + MTX N = 398 |
+| DAS28-ESR less than 2.6 |  |  |  |
+| Proportion of responders at week 52 (n) 95% confidence interval | 3% (12) | 18% (70) 0.10, 0.19 | 32% (127) 0.24, 0.34 |
+| Of responders, proportion with 0 active joints (n) | 33% (4) | 27% (19) | 21% (27) |
+| Of responders, proportion with 1 active joint (n) | 8% (1) | 19% (13) | 13% (16) |
+| Of responders, proportion with 2 active joints (n) | 25% (3) | 13% (9) | 20% (25) |
+| Of responders, proportion with 3 or more active joints (n) | 33% (4) | 41% (29) | 47% (59) |
+| *n denotes numerator of all the percentage. Denominator is the intent-to-treat population. Not all patients received DAS28 assessments at Week 52. |  |  |  |
 
-The results of the components of the ACR response criteria for Studies III and V are shown in Table 5.
+The results of the components of the ACR response criteria for Studies III and V are shown in Table 6.
 Similar results to Study III were observed in Studies I, II and IV.
 
-Table 5 Components of ACR Response at Week 24 in Trials of Intravenous Tocilizumab
+Table 6 Components of ACR Response at Week 24 in Trials of Intravenous Tocilizumab
 
-|  | Study III |  |  |  |  |  | Study V |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Tocilizumab 4 mg per kg + MTX N=213 |  | Tocilizumab 8 mg per kg + MTX N=205 |  | Placebo + MTX N=204 |  | Tocilizumab 4 mg per kg + MTX N=161 |  | Tocilizumab 8 mg per kg + MTX N=170 |  | Placebo + MTX N=158 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Component (mean) | Baseline | Week 24a | Baseline | Week 24 a | Baseline | Week 24 | Baseline | Week 24 a | Baseline | Week 24 a | Baseline | Week 24 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Number of | 33 | 19 | 32 | 14.5 | 33 | 25 | 31 | 21 | 32 | 17 | 30 | 30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| tender joints | -7.0 | -9.6 | -10.8 | -15.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| (0-68) | (-10.0, -4.1) | (-12.6, -6.7) | (-14.6, -7.1) | (-18.8, -11.4) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Number of | 20 | 10 | 19.5 | 8 | 21 | 15 | 19.5 | 13 | 19 | 11 | 19 | 18 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| swollen | -4.2 | -6.2 | -6.2 | -7.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| joints (0-66) | (-6.1, -2.3) | (-8.1, -4.2) | (-9.0, -3.5) | (-9.9, -4.5) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pain b | 61 | 33 -11.0 | 60 | 30 -15.8 | 57 | 43 | 63.5 | 43 -12.4 | 65 | 33 -23.9 | 64 | 48 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| (-17.0, -5.0) | (-21.7, -9.9) | (-22.1, -2.1) | (-33.7, -14.1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Patient | 66 | 34 | 65 | 31 | 64 | 45 | 70 | 46 | 70 | 36 | 71 | 51 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| global | -10.9 | -14.9 | -10.0 | -17.4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Assessment b | (-17.1, -4.8) | (-20.9, -8.9) | (-20.3, 0.3) | (-27.8, -7.0) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Physician | 64 | 26 | 64 | 23 | 64 | 32 | 66.5 | 39 | 66 | 28 | 67.5 | 43 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| global | -5.6 | -9.0 | -10.5 | -18.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Assessment b | (-10.5, -0.8) | (-13.8, -4.2) | (-18.6, -2.5) | (-26.3, -10.0) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Disability | 1.64 | 1.01 | 1.55 | 0.96 | 1.55 | 1.21 | 1.67 | 1.39 | 1.75 | 1.34 | 1.70 | 1.58 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| index | -0.18 | -0.21 | -0.25 | -0.34 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| (HAQ) c | (-0.34, -0.02) | (-0.37, -0.05) | (-0.42, -0.09) | (-0.51, -0.17) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| CRP (mg per | 2.79 | 1.17 -1.30 | 2.61 | 0.25 -2.156 | 2.36 | 1.89 | 3.11 | 1.77 -1.34 | 2.80 | 0.28 -2.52 | 3.705 | 3.06 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| dL) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| (-2.0, -0.59) | (-2.86, -1.46) | (-2.5, -0.15) | (-3.72, -1.32) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Data shown is mean at week 24, difference in adjusted mean change from baseline compared with placebo + MTX at week 24 and 95% confidence interval for that difference b Visual analog scale: 0 = best, 100 = worst c Health Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Study III |  |  |  |  |  | Study V |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Tocilizumab 4 mg per kg + MTX N=213 |  | Tocilizumab 8 mg per kg + MTX N=205 |  | Placebo + MTX N=204 |  | Tocilizumab 4 mg per kg + MTX N=161 |  | Tocilizumab 8 mg per kg + MTX N=170 |  | Placebo + MTX N=158 |  |
+| Component (mean) | Baseline | Week 24 a | Baseline | Week 24 a | Baseline | Week 24 | Baseline | Week 24 a | Baseline | Week 24 a | Baseline | Week 24 |
+| Number of tender joints(0-68) | 33 | 19 | 32 | 14.5 | 33 | 25 | 31 | 21 | 32 | 17 | 30 | 30 |
+| -7.0 | -9.6 | -10.8 | -15.1 |  |  |  |  |  |  |  |  |  |
+| (-10.0, -4.1) | (-12.6, -6.7) | (-14.6, -7.1) | (-18.8, -11.4) |  |  |  |  |  |  |  |  |  |
+| Number of swollen joints (0-66) | 20 | 10 | 19.5 | 8 | 21 | 15 | 19.5 | 13 | 19 | 11 | 19 | 18 |
+| -4.2 | -6.2 | -6.2 | -7.2 |  |  |  |  |  |  |  |  |  |
+| (-6.1, -2.3) | (-8.1, -4.2) | (-9.0, -3.5) | (-9.9, -4.5) |  |  |  |  |  |  |  |  |  |
+| Pain b | 61 | 33 -11.0 | 60 | 30 -15.8 | 57 | 43 | 63.5 | 43 -12.4 | 65 | 33 -23.9 | 64 | 48 |
+| (-17.0, -5.0) | (-21.7, -9.9) | (-22.1, -2.1) | (-33.7, -14.1) |  |  |  |  |  |  |  |  |  |
+| Patient globalAssessment b | 66 | 34 | 65 | 31 | 64 | 45 | 70 | 46 | 70 | 36 | 71 | 51 |
+| -10.9 | -14.9 | -10.0 | -17.4 |  |  |  |  |  |  |  |  |  |
+| (-17.1, -4.8) | (-20.9, -8.9) | (-20.3, 0.3) | (-27.8, -7.0) |  |  |  |  |  |  |  |  |  |
+| Physician globalAssessment b | 64 | 26 | 64 | 23 | 64 | 32 | 66.5 | 39 | 66 | 28 | 67.5 | 43 |
+| -5.6 | -9.0 | -10.5 | -18.2 |  |  |  |  |  |  |  |  |  |
+| (-10.5, -0.8) | (-13.8, -4.2) | (-18.6, -2.5) | (-26.3, -10.0) |  |  |  |  |  |  |  |  |  |
+| Disability index(HAQ)c | 1.64 | 1.01 | 1.55 | 0.96 | 1.55 | 1.21 | 1.67 | 1.39 | 1.75 | 1.34 | 1.70 | 1.58 |
+| -0.18 | -0.21 | -0.25 | -0.34 |  |  |  |  |  |  |  |  |  |
+| (-0.34, -0.02) | (-0.37, -0.05) | (-0.42, -0.09) | (-0.51, -0.17) |  |  |  |  |  |  |  |  |  |
+| CRP (mg per dL) | 2.79 | 1.17 -1.30 | 2.61 | 0.25 -2.156 | 2.36 | 1.89 | 3.11 | 1.77 -1.34 | 2.80 | 0.28 -2.52 | 3.705 | 3.06 |
+| (-2.0, -0.59) | (-2.86, -1.46) | (-2.5, -0.15) | (-3.72, -1.32) |  |  |  |  |  |  |  |  |  |
+| a Data shown is mean at week 24, difference in adjusted mean change from baseline compared with placebo + MTX at week 24 and 95% confidence interval for that difference b Visual analog scale: 0 = best, 100 = worst c Health Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities |  |  |  |  |  |  |  |  |  |  |  |  |
 
 The percent of ACR 20 responders by visit for Study III is shown in Figure 1.
 Similar response curves were observed in studies I, II, IV, and V.
@@ -121,10 +123,10 @@ Radiographic Response
 
 In Study II, structural joint damage was assessed radiographically and expressed as change in total Sharp-Genant score and its components, the erosion score and joint space narrowing score.
 Radiographs of hands/wrists and forefeet were obtained at baseline, 24 weeks, 52 weeks, and 104 weeks and scored by readers unaware of treatments group and visit number.
-The results from baseline to week 52 are shown in Table 6.
+The results from baseline to week 52 are shown in Table 7.
 Tocilizumab 4 mg per kg slowed (less than 75% inhibition compared to the control group) and tocilizumab 8 mg per kg inhibited (at least 75% inhibition compared to the control group) the progression of structural damage compared to placebo plus MTX at week 52.
 
-Table 6 Mean Radiographic Change from Baseline to Week 52 in Study II
+Table 7 Mean Radiographic Change from Baseline to Week 52 in Study II
 
 |  | Placebo + MTX | Tocilizumab 4 mg per kg + MTX | Tocilizumab 8 mg per kg + MTX |
 | --- | --- | --- | --- |
@@ -180,14 +182,14 @@ In SC-I, 1262 patients were randomized 1:1 to receive tocilizumab-SC 162 mg ever
 In SC-II, 656 patients were randomized 2:1 to tocilizumab-SC 162 mg every other week or placebo, in combination with DMARD(s).
 The primary endpoint in both studies was the proportion of patients who achieved an ACR20 response at Week 24.
 
-The clinical response to 24 weeks of tocilizumab-SC therapy is shown in Table 7.
+The clinical response to 24 weeks of tocilizumab-SC therapy is shown in Table 8.
 In SC-I, the primary outcome measure was ACR20 at Week 24.
 The pre-specified non-inferiority margin was a treatment difference of 12%.
-The study demonstrated non-inferiority of tocilizumab with respect to ACR20 at Week 24; ACR50, ACR70, and DAS28 responses are also shown in Table 7.
-In SC-II, a greater portion of patients treated with tocilizumab 162 mg subcutaneously every other week achieved ACR20, ACR50, and ACR70 responses compared to placebo-treated patients (Table 7).
-Further, a greater proportion of patients treated with tocilizumab 162 mg subcutaneously every other week achieved a low level of disease activity as measured by a DAS28-ESR less than 2.6 at Week 24 compared to those treated with placebo (Table 7).
+The study demonstrated non-inferiority of tocilizumab with respect to ACR20 at Week 24; ACR50, ACR70, and DAS28 responses are also shown in Table 8.
+In SC-II, a greater portion of patients treated with tocilizumab 162 mg subcutaneously every other week achieved ACR20, ACR50, and ACR70 responses compared to placebo-treated patients (Table 8).
+Further, a greater proportion of patients treated with tocilizumab 162 mg subcutaneously every other week achieved a low level of disease activity as measured by a DAS28-ESR less than 2.6 at Week 24 compared to those treated with placebo (Table 8).
 
-Table 7 Clinical Response at Week 24 in Trials of Subcutaneous Tocilizumab (Percent of Patients)
+Table 8 Clinical Response at Week 24 in Trials of Subcutaneous Tocilizumab (Percent of Patients)
 
 |  | SC-Ia |  | SC-IIb |  |
 | --- | --- | --- | --- | --- |
@@ -240,10 +242,10 @@ Each of the tocilizumab-treated groups and one of the placebo-treated groups fol
 
 The primary efficacy endpoint was the proportion of patients achieving sustained remission from Week 12 through Week 52.
 Sustained remission was defined by a patient attaining a sustained (1) absence of GCA signs and symptoms from Week 12 through Week 52, (2) normalization of erythrocyte sedimentation rate (ESR) (to < 30 mm/hr without an elevation to ≥ 30 mm/hr attributable to GCA) from Week 12 through Week 52, (3) normalization of C-reactive protein (CRP) (to < 1 mg/dL, with an absence of successive elevations to ≥ 1mg/dL) from Week 12 through Week 52, and (4) successful adherence to the prednisone taper defined by not more than 100 mg of excess prednisone from Week 12 through Week 52.
-Tocilizumab 162 mg weekly and 162 mg every other week + 26 weeks prednisone taper both showed superiority in achieving sustained remission from Week 12 through Week 52 compared with placebo + 26 weeks prednisone taper (Table 8).
-Both tocilizumab treatment arms also showed superiority compared to the placebo + 52 weeks prednisone taper (Table 8).
+Tocilizumab 162 mg weekly and 162 mg every other week + 26 weeks prednisone taper both showed superiority in achieving sustained remission from Week 12 through Week 52 compared with placebo + 26 weeks prednisone taper (Table 9).
+Both tocilizumab treatment arms also showed superiority compared to the placebo + 52 weeks prednisone taper (Table 9).
 
-Table 8 Efficacy Results from Study WA28119
+Table 9 Efficacy Results from Study WA28119
 
 |  | PBO + 26 weeks prednisone taper N=50 | PBO + 52 weeks prednisone taper N=51 | TCZ 162mg SC QW + 26 weeks prednisone taper N=100 | TCZ 162 mg SC Q2W + 26 weeks prednisone taper N=49 |
 | --- | --- | --- | --- | --- |
@@ -328,9 +330,9 @@ JIA ACR (American College of Rheumatology) responses are defined as the percenta
 
 Core outcome variables consist of physician global assessment, parent per patient global assessment, number of joints with active arthritis, number of joints with limitation of movement, erythrocyte sedimentation rate (ESR), and functional ability (childhood health assessment questionnaire-CHAQ).
 
-Primary endpoint result and JIA ACR response rates at Week 12 are shown in Table 9.
+Primary endpoint result and JIA ACR response rates at Week 12 are shown in Table 10.
 
-Table 9 Efficacy Findings at Week 12
+Table 10 Efficacy Findings at Week 12
 
 |  | Tocilizumab N=75 | Placebo N=37 |
 | --- | --- | --- |
@@ -339,11 +341,11 @@ Table 9 Efficacy Findings at Week 12
 | Weighted difference (95% CI) | 62 (45, 78) | - |
 | JIA ACR Response Rates at Week 12 |  |  |
 | JIA ACR 30 |  |  |
-| Responders Weighted difference a (95% CI) b | 91% 67 (51, 83) | 24% - |
+| Responders Weighted differencea (95% CI)b | 91% 67 (51, 83) | 24% - |
 | JIA ACR 50 |  |  |
-| Responders Weighted difference a (95% CI) b | 85% 74 (58, 90) | 11% - |
+| Responders Weighted differencea (95% CI)b | 85% 74 (58, 90) | 11% - |
 | JIA ACR 70 |  |  |
-| Responders Weighted difference a (95% CI) b | 71% 63 (46, 80) | 8% - |
+| Responders Weighted differencea (95% CI)b | 71% 63 (46, 80) | 8% - |
 | aThe weighted difference is the difference between the tocilizumab and Placebo response rates, adjusted for the stratification factors (weight, disease duration, background oral corticosteroid dose and background methotrexate use). b CI: confidence interval of the weighted difference. |  |  |
 
 The treatment effect of tocilizumab was consistent across all components of the JIA ACR response core variables.
@@ -374,3 +376,87 @@ Eligible patients received tocilizumab subcutaneously dosed according to body we
 Of these 51 patients, 26 (51%) were naïve to subcutaneous tocilizumab and 25 (49%) had been receiving tocilizumab intravenously and switched to subcutaneous tocilizumab at baseline.
 
 The efficacy of subcutaneous tocilizumab in children 2 to 17 years of age is based on pharmacokinetic exposure and extrapolation of the established efficacy of intravenous tocilizumab in systemic JIA patients [see Clinical Pharmacology (12.3) and Clinical Studies (14.8)].
+
+## 14.9 Cytokine Release Syndrome – Intravenous Administration
+
+The efficacy of tocilizumab for the treatment of CRS was assessed in a retrospective analysis of pooled outcome data from clinical trials of CAR T-cell therapies for hematological malignancies.
+Evaluable patients had been treated with tocilizumab 8 mg/kg (12 mg/kg for patients < 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CRS; only the first episode of CRS was included in the analysis.
+The study population included 24 males and 21 females (total 45 patients) of median age 12 years (range, 3–23 years); 82% were Caucasian.
+The median time from start of CRS to first dose of tocilizumab was 4 days (range, 0-18 days).
+Resolution of CRS was defined as lack of fever and off vasopressors for at least 24 hours.
+Patients were considered responders if CRS resolved within 14 days of the first dose of tocilizumab, if no more than 2 doses of tocilizumab were needed, and if no drugs other than tocilizumab and corticosteroids were used for treatment.
+Thirty-one patients (69%; 95% CI: 53%–82%) achieved a response.
+Achievement of resolution of CRS within 14 days was confirmed in a second study using an independent cohort that included 15 patients (range: 9–75 years old) with CAR T cell-induced CRS.
+
+## 14.10 COVID-19 – Intravenous Administration
+
+The efficacy of tocilizumab for the treatment of COVID-19 in adults was based on RECOVERY (NCT04381936), a randomized, controlled, open-label, platform study, and supported by the results from EMPACTA (NCT04372186), a randomized, double-blind, placebo-controlled study.
+Results of two other randomized, double-blind, placebo-controlled studies, COVACTA (NCT04320615) and REMDACTA (NCT04409262), which evaluated the efficacy of tocilizumab for the treatment of COVID-19 are also summarized.
+
+RECOVERY (Randomised Evaluation of COVID-19 Therapy) Collaborative Group Study in Hospitalized Adults Diagnosed with COVID-19
+
+RECOVERY was a randomized, controlled, open-label, multicenter platform study conducted in the United Kingdom to evaluate the efficacy and safety of potential treatments in hospitalized adult patients with severe COVID-19 pneumonia.
+Eligible patients for the tocilizumab portion of the study had clinically suspected or laboratory-confirmed SARS-CoV-2 infection and no medical contraindications to any of the treatments and had clinical evidence of progressive COVID-19 (defined as oxygen saturation <92% on room air or receiving oxygen therapy, and CRP ≥75 mg/L).
+Patients were then randomized to receive either standard of care (SoC) or intravenous tocilizumab at a weight-tiered dosing comparable to the recommended dosage [see Clinical Pharmacology (12.3)] in addition to SoC.
+
+Efficacy analyses were performed in the intent-to-treat (ITT) population comprising 4116 adult patients who were randomized to the tocilizumab + SoC arm (n=2022) or to the SoC arm (n=2094).
+The mean age of participants was 64 years (range: 20 to 101), and patients were 67% male, 76% White, 11% Asian, 3% Black or African American, and 1% mixed race.
+At baseline, 0.2% of patients were not on supplemental oxygen, 45% of patients required low flow oxygen, 41% of patients required non-invasive ventilation or high-flow oxygen, and 14% of patients required invasive mechanical ventilation; 82% of patients were reported to be receiving systemic corticosteroids.
+The primary efficacy endpoint was time to death through Day 28.
+The results for the overall population and the subgroups of patients who were or were not receiving systemic corticosteroids at time of randomization are summarized in Table 11.
+
+Table 11 Mortality through Day 28 in RECOVERY
+
+|  | Tocilizumab +SoC N=2022 n (%)1 | SoC N=2094 n (%)1 | Hazard Ratio (95% CI) | Risk Difference (95% CI) |
+| --- | --- | --- | --- | --- |
+| Mortality | 621 (30.7%) | 729 (34.9%) | 0.85 (0.76, 0.94) p= 0.00281 | -4.1% (-7.0, -1.3) |
+| By baseline receipt of corticosteroid use |  |  |  |  |
+| Mortality for patients receiving systemic corticosteroids at randomization2 | 482/1664 (29.0%) | 600/1721 (34.9%) | 0.79 (0.70, 0.89) | -5.9% (-9.1, -2.8) |
+| Mortality for patients not receiving systemic corticosteroids at randomization2 | 139/357 (39.0%) | 127/367 (34.6%) | 1.16 (0.91, 1.48) | 4.4% (-2.6, 11.5) |
+| 1 P-value reflects that the RECOVERY trial primary analysis results were statistically significant at the two-sided significance level of 𝛼 = 0.05. |  |  |  |  |
+| 2 Probabilities of dying by Day 28 were estimated by the Kaplan-Meier method. |  |  |  |  |
+
+EMPACTA
+
+EMPACTA was a randomized, double-blind, placebo-controlled, multicenter study to evaluate intravenous tocilizumab 8 mg/kg in combination with SoC in hospitalized, non-ventilated adult patients with COVID-19 pneumonia.
+Eligible patients were at least 18 years of age, had confirmed SARS-CoV-2 infection by a positive reverse-transcriptase polymerase chain reaction (RT-PCR) result, had pneumonia confirmed by radiography, and had SpO2 < 94% on ambient air.
+
+Of the 389 patients randomized, efficacy analyses were performed in the modified intent-to-treat (mITT) population comprising 377 patients who were randomized and received study medication (249 in the tocilizumab arm; 128 in the placebo arm).
+The mean age of participants was 56 years (range: 20 to 95); 59% of patients were male, 56% were of Hispanic or Latino ethnicity, 53% were White, 20% were American Indian/Alaska Native, 15% were Black/African American and 2% were Asian.
+At baseline, 9% patients were not on supplemental oxygen, 64% patients required low flow oxygen, 27% patients required high-flow oxygen, and 73% were on corticosteroids.
+
+The primary efficacy endpoint evaluated time to progression to mechanical ventilation or death through Day 28.
+The hazard ratio comparing tocilizumab to placebo was 0.56 (95% CI, 0.33 to 0.97), a statistically significant result (log-rank, p-value = 0.036).
+The cumulative proportion of patients who required mechanical ventilation or died by Day 28 was 12.0% (95% CI, 8.5% to 16.9%) in the tocilizumab arm and 19.3% (95% CI, 13.3% to 27.4%) in the placebo arm.
+
+Mortality at Day 28 was 10.4% in the tocilizumab arm versus 8.6% in the placebo arm (weighted difference (tocilizumab arm - placebo arm): 2.0% [95% CI, -5.2% to 7.8%]).
+
+COVACTA
+
+COVACTA was a randomized, double-blind, placebo-controlled, multicenter study to evaluate intravenous tocilizumab 8 mg/kg in combination with SoC for the treatment of adult patients hospitalized with severe COVID-19 pneumonia.
+The study randomized 452 patients who were at least 18 years of age with confirmed SARS-CoV2 infection by a positive RT-PCR result, had pneumonia confirmed by radiography, and had oxygen saturation of 93% or lower on ambient air or a ratio of arterial oxygen partial pressure to fractional inspired oxygen of 300 mmHg or less.
+At baseline, 3% of patients were not on supplemental oxygen, 28% were on low flow oxygen, 30% were on non-invasive ventilation or high flow oxygen, 38% were on invasive mechanical ventilation, and 22% were on corticosteroids.
+The primary efficacy endpoint was clinical status on Day 28 assessed on a 7-category ordinal scale that ranged from “discharged” to “death.”
+There were no statistically significant differences observed in the distributions of clinical status on the 7-category ordinal scale at Day 28 when comparing the tocilizumab arm to the placebo arm.
+
+Mortality at Day 28 was 19.7% in the tocilizumab arm versus 19.4% in the placebo arm (weighted difference (tocilizumab arm - placebo arm): 0.3% [95% CI, -7.6 to 8.2]).
+
+REMDACTA
+
+REMDACTA was a randomized, double-blind, placebo-controlled, multicenter study to evaluate intravenous tocilizumab 8 mg/kg in combination with intravenous remdesivir (RDV) 200 mg on Day 1 followed by 100 mg once daily for a total of 10 days in hospitalized adult patients with severe COVID-19 pneumonia.
+The study randomized 649 adult patients with SARS-CoV-2 infection confirmed by a positive polymerase chain reaction (PCR) result, pneumonia confirmed by radiography, and who required supplemental oxygen > 6 L/min to maintain SpO2 >93%.
+At baseline, 7% of patients were on low flow oxygen, 80% were on non-invasive ventilation or high flow oxygen, 14% were on invasive mechanical ventilation, and 84% were on corticosteroids.
+
+The primary efficacy endpoint was time from randomization to hospital discharge or ‘ready for discharge’ up to Day 28.
+There was no statistically significant difference between the treatment arms with respect to time to hospital discharge or “ready for discharge” through Day 28.
+
+Mortality at Day 28 was 18.1% in the tocilizumab + RDV arm versus 19.5% in the placebo +RDV arm (weighted difference (tocilizumab arm - placebo arm): -1.3% [95% CI, -7.8% to 5.2%]).
+
+Mortality Across Studies in Patients Receiving Baseline Corticosteroids
+
+A study-level meta-analysis was conducted on EMPACTA, COVACTA, REMDACTA and RECOVERY studies.
+For each of the four studies, the risk difference through Day 28 was estimated by the Kaplan-Meier method in the subgroup of patients receiving baseline corticosteroids, summarized in Figure 2.
+Patients from the RECOVERY trial represent 78.8% of the total sample size in this meta-analysis.
+The combined risk difference showed that tocilizumab treatment (n=2261) resulted in a 4.61% absolute reduction in the risk of death at Day 28 (risk difference=-4.6%; 95% CI: -7.3% to -1.9%) compared to SoC (n=2034).
+
+Figure 2 Risk Differences Through Day 28 for Baseline Corticosteroid Use Subpopulation in RECOVERY, EMPACTA, COVACTA and REMDACTA studies
