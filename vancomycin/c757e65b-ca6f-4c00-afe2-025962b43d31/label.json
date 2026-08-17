@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA210274"
+  ],
+  "inn": "vancomycin",
+  "labeler": "Avenacy, LLC",
+  "package_ndcs": [
+    "83634-114-20",
+    "83634-114-41",
+    "83634-115-30",
+    "83634-115-41",
+    "83634-116-30",
+    "83634-116-41"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "vancomycin hydrochloride",
+      "name": "Vancomycin Hydrochloride"
+    }
+  ],
+  "setid": "c757e65b-ca6f-4c00-afe2-025962b43d31",
+  "source": "dailymed"
+}
