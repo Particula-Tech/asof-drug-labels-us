@@ -45,5 +45,5 @@ Consumption of alcohol while taking Methylphenidate HCl Extended-Release Capsule
 
 Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-CIB72230A Rev.
-09/2025
+CIB72230B Rev.
+07/2026

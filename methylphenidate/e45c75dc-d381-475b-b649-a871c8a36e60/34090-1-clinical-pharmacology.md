@@ -18,7 +18,7 @@ Following one week of once-daily doses of 20 mg or 40 mg Methylphenidate HCl Ext
 Absorption Following administration of Methylphenidate HCl Extended-Release Capsules CD in children aged 7 to 12 years old with ADHD, the plasma concentration time profile of methylphenidate showed two phases of drug release with a sharp, initial slope similar to a methylphenidate immediate-release tablet (median Tmax1 about 1.5 hours post dose), and a second rising portion approximately three hours later (median Tmax2 about 4.5 hours post dose)*, followed by a gradual decline (Figure 1).
 The means for Cmax and area under the curve (AUC) following a dose of 20 mg were slightly lower than those seen with 10 mg of the immediate-release formulation, dosed at 0 and 4 hours.
 
-* 25-30% of the subjects had only one observed peak (Cmax) concentration of methylphenidate.
+*25-30% of the subjects had only one observed peak (Cmax) concentration of methylphenidate.
 
 Figure 1: Comparison of Immediate Release (IR) and Methylphenidate HCl Extended-Release Capsules CD Formulations After Repeated Doses of Methylphenidate HCl in Pediatric Patients 7 to 12 Years of Age with ADHD
 

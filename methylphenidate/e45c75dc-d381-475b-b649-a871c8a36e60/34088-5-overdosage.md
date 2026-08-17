@@ -9,7 +9,11 @@ Clinical Effects of Overdose Overdose of CNS stimulants is characterized by the 
   Serotonin syndrome, seizures, cerebral vascular accidents, and coma may occur.
 - Life-threatening hyperthermia (temperatures greater than 104°F) and rhabdomyolysis may develop.
 
+Posterior reversible encephalopathy syndrome (PRES) symptoms including headache, altered mental status, hypertension, seizures, and visual disturbances including blindness have occurred in the setting of a methylphenidate product overdose.
+Symptoms of PRES are usually reversible but may evolve into ischemic stroke or cerebral hemorrhage.
+Diagnosis of PRES should be confirmed by radiological procedure (e.g., MRI).
+
 Overdose Management Consider the possibility of multiple drug ingestion.
 The pharmacokinetic profile of Methylphenidate HCl Extended-Release Capsules CD should be considered when treating patients with overdose.
 Because methylphenidate has a large volume of distribution and is rapidly metabolized, dialysis is not useful.
-Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.
+If an overdose of Methylphenidate HCl Extended-Release Capsules CD occurs, consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.

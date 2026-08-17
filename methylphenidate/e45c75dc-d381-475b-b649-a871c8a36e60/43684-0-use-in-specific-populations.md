@@ -5,14 +5,14 @@
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including Methylphenidate HCl Extended-Release Capsules CD, during pregnancy.
 Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychostimulants at 1-866-961-2388.
 
-Risk Summary Published studies and postmarketing reports on methylphenidate use during pregnancy have not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
-There may be risks to the fetus associated with the use of CNS stimulants use during pregnancy (see Clinical Considerations).
+Risk Summary Published studies and postmarketing reports on methylphenidate use during pregnancy have inconsistent findings about a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+There are risks to the fetus associated with the use of central nervous system (CNS) stimulants during pregnancy (see Clinical Considerations).
 
 No effects on morphological development were observed in embryo-fetal development studies with oral administration of methylphenidate to pregnant rats and rabbits during organogenesis at doses up to 10 and 15 times, respectively, the maximum recommended human dose (MRHD) of 60 mg/day given to adolescents on a mg/m2 basis.
 However, spina bifida was observed in rabbits at a dose 53 times the MRHD given to adolescents.
 A decrease in pup body weight was observed in a pre-and post-natal development study with oral administration of methylphenidate to rats throughout pregnancy and lactation at doses 6 times the MRHD given to adolescents (see Data).
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage in those with ADHD is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 

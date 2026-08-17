@@ -6,12 +6,14 @@ Methylphenidate HCl Extended-Release Capsules CD contains methylphenidate hydroc
 
 ## 9.2 Abuse
 
-Methylphenidate HCl Extended-Release Capsules CD has a high potential for abuse and misuse which can lead to the development of a substance use disorder, including addiction [see Warnings and Precautions (5.1)].
-Methylphenidate HCl Extended-Release Capsules CD can be diverted for non-medical use into illicit channels or distribution.
+Methylphenidate HCl Extended-Release Capsules CD has a high potential for abuse which can lead to the development of a substance use disorder, including addiction [see Warnings and Precautions (5.1)].
 
 Abuse is the intentional non-therapeutic use of a drug, even once, to achieve a desired psychological or physiological effect.
-Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
+
+Methylphenidate HCl Extended-Release Capsules CD has a high potential for misuse.
+Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
+Misuse, like abuse, is often associated with higher doses and/or more frequent use of the drug, which may lead to adverse reactions similar to those seen in the context of abuse and substance use disorder.
 
 Misuse and abuse of methylphenidate may cause increased heart rate, respiratory rate, or blood pressure; sweating; dilated pupils; hyperactivity; restlessness; insomnia; decreased appetite; loss of coordination; tremors; flushed skin; vomiting; and/or abdominal pain.
 Anxiety, psychosis, hostility, aggression, and suicidal or homicidal ideation have also been observed with CNS stimulants abuse and/or misuse.

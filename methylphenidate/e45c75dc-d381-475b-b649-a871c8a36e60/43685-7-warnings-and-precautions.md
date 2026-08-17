@@ -4,7 +4,6 @@
 
 Methylphenidate HCl Extended-Release Capsules CD has a high potential for abuse and misuse.
 The use of Methylphenidate HCl Extended-Release Capsules CD exposes individuals to the risks of abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
-Methylphenidate HCl Extended-Release Capsules CD can be diverted for non-medical use into illicit channels or distribution [see Drug Abuse and Dependence (9.2)].
 Misuse and abuse of CNS stimulants, including Methylphenidate HCl Extended-Release Capsules CD, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
 Before prescribing Methylphenidate HCl Extended-Release Capsules CD, assess each patient’s risk for abuse, misuse, and addiction.
@@ -16,6 +15,7 @@ Throughout Methylphenidate HCl Extended-Release Capsules CD treatment, reassess 
 
 Sudden death has been reported in patients with structural cardiac abnormalities or other serious cardiac disease who were treated with CNS stimulants at the recommended dosage.
 
+Prior to treating patients with Methylphenidate HCl Extended-Release Capsules CD, assess for the presence of cardiac disease (e.g., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam).
 Avoid Methylphenidate HCl Extended-Release Capsules CD use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease, or other serious cardiac problems.
 
 ## 5.3 Increased Blood Pressure and Heart Rate
@@ -27,12 +27,12 @@ Monitor all Methylphenidate HCl Extended-Release Capsules CD treated patients fo
 
 ## 5.4 Psychiatric Adverse Reactions
 
-Exacerbation of Pre-Existing Psychosis CNS stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
+Exacerbation of Pre-Existing Psychosis in Patients with a Psychotic Disorder CNS stimulants, including Methylphenidate HCl Extended-Release Capsules CD, may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
 
-Induction of a Manic Episode in Patients with Bipolar Disorder CNS stimulants may induce a manic or mixed episode in patients.
+Induction of a Manic Episode in Patients with Bipolar Disorder CNS stimulants, including Methylphenidate HCl Extended-Release Capsules CD, may induce a manic or mixed episode in patients with bipolar disorder.
 Prior to initiating Methylphenidate HCl Extended-Release Capsules CD treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms or a family history of suicide, bipolar disorder, or depression).
 
-New Psychotic or Manic Symptoms CNS stimulants, at the recommended dosages, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
+New Psychotic or Manic Symptoms in Patients without a History of a Bipolar or Psychotic Disorder CNS stimulants, including Methylphenidate HCl Extended-Release Capsules CD, at the recommended dosages, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
 In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNC stimulant-treated patients, compared to 0% of placebo-treated patients.
 If such symptoms occur, consider discontinuing Methylphenidate HCl Extended-Release Capsules CD.
 
@@ -47,7 +47,7 @@ Methylphenidate HCl Extended-Release Capsules CD-treated patients who develop ab
 ## 5.6 Peripheral Vasculopathy, including Raynaud’s Phenomenon
 
 CNS stimulants, including Methylphenidate HCl Extended-Release Capsules CD, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
-Signs and symptoms are usually intermittent and mild; however, sequelae have included digital ulceration and/or soft tissue breakdown.
+Signs and symptoms of these cases of peripheral vasculopathy were usually intermittent and mild; however, sequelae have included digital ulceration and/or soft tissue breakdown.
 Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports and at the therapeutic dosages of CNS stimulants in all age groups throughout the course of treatment.
 Signs and symptoms generally improved after dosage reduction in or discontinuation of the CNS stimulant.
 
@@ -82,5 +82,5 @@ Closely monitor Methylphenidate HCl Extended-Release Capsules CD-treated patient
 CNS stimulants, including methylphenidate, have been associated with the onset or exacerbation of motor and verbal tics.
 Worsening of Tourette’s syndrome has also been reported [see Adverse Reactions (6.2)].
 
-Before initiating Methylphenidate HCl Extended-Release Capsules CD, assess the family history and clinically evaluate patients for tics or Tourette’s syndrome.
+Before initiating Methylphenidate HCl Extended-Release Capsules CD, assess the family history for tics or Tourette’s syndrome and clinically evaluate patients for tics or Tourette’s syndrome.
 Regularly monitor Methylphenidate HCl Extended-Release Capsules CD-treated patients for the emergence or worsening of tics or Tourette’s syndrome, and discontinue treatment if clinically appropriate.
