@@ -55,7 +55,7 @@ These are sold separately and manufactured by embecta.
 
 Copyright © 2025 Biocon Biologics Inc. All rights reserved.
 
-Manufactured by: Biocon Biologics Inc., 245 Main St, 2nd Floor Cambridge, MA 02142, U.S.A. U.S. License No. 2324 Product of Malaysia
+Manufactured by: Biocon Biologics Inc., 685 Route 202/206, Suite 204, Bridgewater, NJ 08807, U.S.A. U.S. License No. 2324 Product of Malaysia
 
 # PRINCIPAL DISPLAY PANEL – 100 units/mL Vial
 
@@ -85,7 +85,7 @@ Any change of insulin should be made cautiously and only under medical supervisi
 
 WARNING: Keep this and all medication out of the reach of children.
 
-Manufactured by: Biocon Biologics Inc. 245Main St, 2nd Floor Cambridge, MA 02142, U.S.A U.S. License No. 2324 Product of Malaysia
+Manufactured by: Biocon Biologics Inc. 685 Route 202/206, Suite 204, Bridgewater, NJ 08807, U.S.A. U.S. License No. 2324 Product of Malaysia
 
 Storage: Refrigerate at 2º to 8ºC (36º to 46ºF) until first use.
 Avoid freezing.
@@ -94,4 +94,4 @@ Discard if frozen.
 After first use, store at room temperature (up to 30ºC [86ºF]) and discard after 28 days.
 Protect from direct heat and light.
 
-© 2023 Biocon Biologics Inc.
+Copyright © 2025 Biocon Biologics Inc. All rights reserved.

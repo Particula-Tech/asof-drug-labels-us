@@ -135,11 +135,11 @@ After Insulin Glargine-yfgn vials have been opened (in-use)
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2023
+Revised: 01/2026
 
-© 2023 Biocon Biologics Inc.
+Copyright © 2025 Biocon Biologics Inc. All rights reserved.
 
-Manufactured by: Biocon Biologics Inc. 245 Main St, 2nd Floor Cambridge, MA 02142 U.S.A. U.S. License No. 2324 Product of Malaysia
+Manufactured by: Biocon Biologics Inc. 685 Route 202/206, Suite 204, Bridgewater, NJ 08807, U.S.A. U.S. License No. 2324 Product of Malaysia
 
 # INSTRUCTIONS FOR USE
 
@@ -406,8 +406,8 @@ Throwing your Pen away
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 03/2025
+Revised: 01/2026
 
-Manufactured by: Biocon Biologics Inc. 245 Main St, 2nd Floor Cambridge, MA 02142 U.S.A U.S. License No. 2324 Product of Malaysia
+Manufactured by: Biocon Biologics Inc. 685 Route 202/206, Suite 204, Bridgewater, NJ 08807, U.S.A. U.S. License No. 2324 Product of Malaysia
 
 Copyright © 2025 Biocon Biologics Inc. All rights reserved

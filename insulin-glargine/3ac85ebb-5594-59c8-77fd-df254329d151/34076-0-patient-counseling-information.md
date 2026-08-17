@@ -29,4 +29,4 @@ Inform patients about the symptoms of hypersensitivity reactions [see Warnings a
 
 LANTUS is a registered trademark of Sanofi-Aventis Deutschland gmbh.
 
-Manufactured by: Biocon Biologics Inc. 245 Main St, 2nd Floor Cambridge, MA 02142 U.S.A. U.S. License No. 2324 Product of Malaysia
+Manufactured by: Biocon Biologics Inc. 685 Route 202/206, Suite 204, Bridgewater, NJ 08807, U.S.A. U.S. License No. 2324 Product of Malaysia
