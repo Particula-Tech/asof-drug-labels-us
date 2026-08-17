@@ -1,284 +1,37 @@
-# MEDICATION GUIDE
+# Medication Guide
 
-AMNESTEEM (AM-NES-TEAM) (Isotretinoin Capsules, USP)
-
-Read the Medication Guide that comes with Amnesteem before you start taking it and each time you get a prescription.
-There may be new information.
-This information does not take the place of talking with your doctor about your medical condition or your treatment.
-
-What is the most important information I should know about Amnesteem?
-
-- •Amnesteem® is used to treat a type of severe acne (nodular acne) that has not been helped by other treatments, including antibiotics.
-- •Because Amnesteem can cause birth defects, Amnesteem is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE REMS.
-- •Amnesteem may cause serious mental health problems.
-- 
-- 
-- 
-- 1.Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
-  Patients who are pregnant or who plan to become pregnant must not take Amnesteem.
-  Patients must not get pregnant:
-  1. •for one month before starting Amnesteem
-  2. •while taking Amnesteem
-  3. •for one month after stopping Amnesteem.
-- If you get pregnant while taking Amnesteem, stop taking it right away and call your doctor.
-  Doctors and patients should report all cases of pregnancy to:
-  1. •FDA MedWatch at 1-800-FDA-1088, and
-  2. •the iPLEDGE Pregnancy Registry at 1-866-495-0654
-- 2.Serious mental health problems.
-  Amnesteem may cause:
-  1. •depression
-  2. •psychosis (seeing or hearing things that are not real)
-  3. •suicide.
-     Some patients taking Amnesteem have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
-     Some people tried to end their own lives.
-     And some people have ended their own lives.
-- Stop Amnesteem and call your doctor right away if you or a family member notices that you have any of the following signs and symptoms of depression or psychosis:
-  1. •start to feel sad or have crying spells
-  2. •lose interest in activities you once enjoyed
-  3. •sleep too much or have trouble sleeping
-  4. •become more irritable, angry, or aggressive than usual (for example, temper outbursts, thoughts of violence)
-  5. •have a change in your appetite or body weight
-  6. •have trouble concentrating
-  7. •withdraw from your friends or family
-  8. •feel like you have no energy
-  9. •have feelings of worthlessness or guilt
-  10. •start having thoughts about hurting yourself or taking your own life (suicidal thoughts)
-  11. •start acting on dangerous impulses
-  12. •start seeing or hearing things that are not real
-
-After stopping Amnesteem, you may also need follow-up mental health care if you had any of these symptoms.
-
-What is Amnesteem?
-
-Amnesteem is a medicine taken by mouth to treat the most severe form of acne (nodular acne) that cannot be cleared up by any other acne treatments, including antibiotics.
-Amnesteem can cause serious side effects (see “What is the most important information I should know about Amnesteem?”).
-Amnesteem can only be:
-
-- •prescribed by doctors that are enrolled in the iPLEDGE REMS
-- •dispensed by a pharmacy that is enrolled with the iPLEDGE REMS
-- •given to patients who are enrolled in the iPLEDGE REMS and agree to do everything required in the program.
-
-What is severe nodular acne?
-
-Severe nodular acne is when many red, swollen, tender lumps form in the skin.
-These can be the size of pencil erasers or larger.
-If untreated, nodular acne can lead to permanent scars.
-
-Who should not take Amnesteem?
-
-- •Do not take Amnesteem if you are pregnant, plan to become pregnant, or become pregnant during Amnesteem treatment.
-  Amnesteem causes life threatening birth defects.
-  See “What is the most important information I should know about Amnesteem?”
-- •Do not take Amnesteem if you are allergic to anything in it.
-  See the end of this Medication Guide for a complete list of ingredients in Amnesteem.
-
-What should I tell my doctor before taking Amnesteem?
-
-Tell your doctor if you or a family member has any of the following health conditions:
-
-- •mental problems
-- •asthma
-- •liver disease
-- •diabetes
-- •heart disease
-- •bone loss (osteoporosis) or weak bones
-- •an eating problem called anorexia nervosa (where people eat too little)
-- •food or medicine allergies
-
-Tell your doctor if you are pregnant or breast-feeding.
-Amnesteem must not be used by patients who are pregnant or breast-feeding.
-
-Tell your doctor about all of the medicines you take including prescription and non-prescription medicines, vitamins and herbal supplements.
-Amnesteem and certain other medicines can interact with each other, sometimes causing serious side effects.
-Especially tell your doctor if you take:
-
-- •Vitamin A supplements.
-  Vitamin A in high doses has many of the same side effects as Amnesteem.
-  Taking both together may increase your chance of getting side effects.
-- •Tetracycline antibiotics.
-  Tetracycline antibiotics taken with Amnesteem can increase the chances of getting increased pressure in the brain.
-- •Progestin-only birth control pills (mini-pills).
-  They may not work while you take Amnesteem.
-  Ask your doctor or pharmacist if you are not sure what type you are using.
-- •Dilantin (phenytoin).
-  This medicine taken with Amnesteem may weaken your bones.
-- •Corticosteroid medicines.
-  These medicines taken with Amnesteem may weaken your bones.
-- •St.
-  John’s Wort.
-  This herbal supplement may make birth control pills work less effectively.
-
-These medicines should not be used with Amnesteem unless your doctor tells you it is okay.
-
-Know the medicines you take.
-Keep a list of them to show to your doctor and pharmacist.
-Do not take any new medicine without talking with your doctor.
-
-How should I take Amnesteem?
-
-- •You must take Amnesteem exactly as prescribed.
-  You must also follow all the instructions of the iPLEDGE REMS.
-  Before prescribing Amnesteem, your doctor will:
-  - •explain the iPLEDGE REMS to you
-  - •have you sign the Patient Enrollment Form for Patients who cannot get Pregnant.
-    Patients who can get pregnant must also sign another enrollment form.
-- You will not be prescribed Amnesteem if you cannot agree to or follow all the instructions of the iPLEDGE REMS.
-- •You will get no more than a 30-day supply of Amnesteem at a time.
-  This is to make sure you are following the Amnesteem iPLEDGE REMS.
-  You should talk with your doctor each month about side effects.
-- •The amount of Amnesteem you take has been specially chosen for you.
-  It is based on your body weight, and may change during treatment.
-- •Take Amnesteem 2 times a day with a meal, unless your doctor tells you otherwise.
-  Swallow your Amnesteem capsules whole with a full glass of liquid.
-  Do not chew or suck on the capsule.
-  Amnesteem can hurt the tube that connects your mouth to your stomach (esophagus) if it is not swallowed whole.
-- •If you miss a dose, just skip that dose.
-  Do not take two doses at the same time.
-- •If you take too much Amnesteem or overdose, call your doctor or poison control center right away.
-- •Your acne may get worse when you first start taking Amnesteem.
-  This should last only a short while.
-  Talk with your doctor if this is a problem for you.
-- •You must return to your doctor as directed to make sure you don’t have signs of serious side effects.
-  Your doctor may do blood tests to check for serious side effects from Amnesteem.
-  Patients who can get pregnant will get a pregnancy test each month.
-- •Patients who can get pregnant must agree to use two separate forms of effective birth control at the same time one month before, while taking, and for one month after taking Amnesteem.
-  You must access the iPLEDGE REMS system to answer questions about the program requirements and to enter your two chosen forms of birth control.
-  To access the iPLEDGE REMS system, go to www.ipledgeprogram.com or call 1-866-495-0654.
-
-You must talk about effective birth control forms with your doctor or go for a free visit to talk about birth control with another doctor or family planning expert.
-Your doctor can arrange this free visit, which will be paid for by the company that makes Amnesteem.
-
-If you have sex at any time without using two forms of effective birth control, get pregnant, or miss your expected period, stop using Amnesteem and call your doctor right away.
-
-What should I avoid while taking Amnesteem?
-
-- •Do not get pregnant while taking Amnesteem and for one month after stopping Amnesteem.
-  See “What is the most important information I should know about Amnesteem?”
-- •Do not breast-feed while taking Amnesteem and for one month after stopping Amnesteem.
-  We do not know if Amnesteem can pass through your milk and harm the baby.
-- •Do not give blood while you take Amnesteem and for one month after stopping Amnesteem.
-  If someone who is pregnant gets your donated blood, their baby may be exposed to Amnesteem and may be born with birth defects.
-- •Do not take other medicines or herbal products with Amnesteem unless you talk to your doctor.
-  See “What should I tell my doctor before taking Amnesteem?”
-- •Do not drive at night until you know if Amnesteem has affected your vision.
-  Amnesteem may decrease your ability to see in the dark.
-- •Do not have cosmetic procedures to smooth your skin, including waxing, dermabrasion, or laser procedures, while you are using Amnesteem and for at least 6 months after you stop.
-  Amnesteem can increase your chance of scarring from these procedures.
-  Check with your doctor for advice about when you can have cosmetic procedures.
-- •Avoid sunlight and ultraviolet lights as much as possible.
-  Tanning machines use ultraviolet lights.
-  Amnesteem may make your skin more sensitive to light.
-- •Do not share Amnesteem with other people.
-  It can cause birth defects and other serious health problems.
-
-What are the possible side effects of Amnesteem?
-
-- •Amnesteem can cause birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
-  See “What is the most important information I should know about Amnesteem?”
-- •Amnesteem may cause serious mental health problems.
-  See “What is the most important information I should know about Amnesteem?”
-- •serious brain problems.
-  Amnesteem can increase the pressure in your brain.
-  This can lead to permanent loss of eyesight and, in rare cases, death.
-  Stop taking Amnesteem and call your doctor right away if you get any of these signs of increased brain pressure:
-  - •bad headache
-  - •blurred vision
-  - •dizziness
-  - •nausea or vomiting
-  - •seizures (convulsions)
-  - •stroke
-- •skin problems.
-  Skin rash can occur in patients taking Amnesteem.
-  In some patients a rash can be serious.
-  Stop using Amnesteem and call your doctor right away if you develop conjunctivitis (red or inflamed eyes, like “pink eye”), a rash with a fever, blisters on legs, arms or face and/or sores in your mouth, throat, nose, eyes, or if your skin begins to peel.
-- •stomach area (abdomen) problems.
-  Certain symptoms may mean that your internal organs are being damaged.
-  These organs include the liver, pancreas, bowel (intestines), and esophagus (connection between mouth and stomach).
-  If your organs are damaged, they may not get better even after you stop taking Amnesteem.
-  Stop taking Amnesteem and call your doctor if you get:
-  - •severe stomach, chest or bowel pain
-  - •trouble swallowing or painful swallowing
-  - •new or worsening heartburn
-  - •diarrhea
-  - •rectal bleeding
-  - •yellowing of your skin or eyes
-  - •dark urine
-- •bone and muscle problems.
-  Amnesteem may affect bones, muscles, and ligaments and cause pain in your joints or muscles.
-  Tell your doctor if you plan hard physical activity during treatment with Amnesteem.
-  Tell your doctor if you get:
-  - •back pain
-  - •joint pain
-  - •broken bone.
-    Tell all healthcare providers that you take Amnesteem if you break a bone.
-- Stop Amnesteem and call your doctor right away if you have muscle weakness.
-  Muscle weakness with or without pain can be a sign of serious muscle damage.
-- Amnesteem may stop long bone growth in teenagers who are still growing.
-- •hearing problems.
-  Stop using Amnesteem and call your doctor if your hearing gets worse or if you have ringing in your ears.
-  Your hearing loss may be permanent.
-- •vision problems.
-  Amnesteem may affect your ability to see in the dark.
-  This condition usually clears up after you stop taking Amnesteem, but it may be permanent.
-  Other serious eye effects can occur.
-  Stop taking Amnesteem and call your doctor right away if you have any problems with your vision or dryness of the eyes that is painful or constant.
-  If you wear contact lenses, you may have trouble wearing them while taking Amnesteem and after treatment.
-- •lipid (fats and cholesterol in blood) problems.
-  Amnesteem can raise the level of fats and cholesterol in your blood.
-  This can be a serious problem.
-  Return to your doctor for blood tests to check your lipids and to get any needed treatment.
-  These problems usually go away when Amnesteem treatment is finished.
-- •serious allergic reactions.
-  Stop taking Amnesteem and get emergency care right away if you develop hives, a swollen face or mouth, or have trouble breathing.
-  Stop taking Amnesteem and call your doctor if you get a fever, rash, or red patches or bruises on your legs.
-- •blood sugar problems.
-  Amnesteem may cause blood sugar problems including diabetes.
-  Tell your doctor if you are very thirsty or urinate a lot.
-- •decreased red and white blood cells.
-  Call your doctor if you have trouble breathing, faint, or feel weak.
-- •The common, less serious side effects of Amnesteem are dry skin, chapped lips, dry eyes, and dry nose that may lead to nosebleeds.
-  Call your doctor if you get any side effect that bothers you or that does not go away.
-
-These are not all of the possible side effects with Amnesteem.
-Your doctor or pharmacist can give you more detailed information.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store Amnesteem?
-
-- •Store Amnesteem at 68° to 77°F (20° to 25°C).
-  Protect from light.
-- •Keep Amnesteem and all medicines out of the reach of children.
-
-General Information about Amnesteem
-
-Medicines are sometimes prescribed for conditions that are not mentioned in Medication Guides.
-Do not use Amnesteem for a condition for which it was not prescribed.
-Do not give Amnesteem to other people, even if they have the same symptoms that you have.
-It may harm them.
-
-This Medication Guide summarizes the most important information about Amnesteem.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about Amnesteem that is written for healthcare professionals.
-
-You can also call Mylan at 1-877-446-3679 (1-877-4-INFO-RX), the iPLEDGE REMS at 1-866-495-0654 or visit www.ipledgeprogram.com.
-
-What are the ingredients in Amnesteem?
-
-Active Ingredient: Isotretinoin
-
-Inactive Ingredients: butylhydroxyanisole, gelatin, glycerol, hydrogenated partially vegetable oil, medium chain triglycerides, sodium edetate, soy lecithin, soybean oil and yellow beeswax.
-The 10 mg, 20 mg and 40 mg capsules also contain red iron oxide in glycerin, and the 20 mg, 30 mg and 40 mg capsules also contain titanium dioxide in glycerin and yellow iron oxide in glycerin.
-
-The black imprinting ink contains ammonium hydroxide, black iron oxide, polyethylene glycol, propylene glycol and polyvinyl acetate phthalate.
+| Amnesteem® [am-nes-team](Isotretinoin Capsules, USP)for oral use |  |
+| --- | --- |
+| Read the Medication Guide that comes with Amnesteem before you start taking it and each time you get a prescription. There may be new information. This information does not take the place of talking with your health care provider about your medical condition or your treatment. |  |
+| What is the most important information I should know about Amnesteem? •Amnesteem can harm your unborn baby, including birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births. Patients who are pregnant or who plan to become pregnant must not take Amnesteem. oBecause of the risk of birth defects, Amnesteem is only available through a special program called the iPLEDGE Risk Evaluation and Mitigation Strategy (REMS).oYour healthcare provider must be enrolled in the iPLEDGE REMS for you to be prescribed Amnesteem.oBefore you start treatment with Amnesteem, you must enroll in the iPLEDGE REMS.oYou must understand and agree to do everything required in the iPLEDGE REMS. Patients must not get pregnant: ofor 1 month before starting Amnesteemoduring treatment with Amnesteemofor 1 month after stopping Amnesteem If you get pregnant during treatment with Amnesteem, stop taking it right away and tell your health care provider. Health care providers and patients should report all cases of pregnancy that happen during treatment or 1 month after stopping treatment to: oFDA MedWatch at 1-800-FDA-1088, andothe iPLEDGE Pregnancy Registry at 1-866-495-0654 or www.ipledgeprogram.com If you have any questions about the iPLEDGE REMS, ask your healthcare provider, or go to www.ipledgeprogram.com or call 1-866-495-0654.•Serious mental health problems, including: odepressionopsychosis (seeing or hearing things that are not real)osuicide. Some patients taking Amnesteem have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts). Some people tried to end their own lives. Some people have ended their own lives. Stop taking Amnesteem and tell your health care provider right away if you or a family member notices that you get any of the following signs and symptoms of depression or psychosis: |  |
+| ostart to feel sad or have crying spells olose interest in activities you once enjoyedosleep too much or have trouble sleepingobecome more irritable, angry, or aggressive than usual (for example, temper outbursts, thoughts of violence)ohave a change in your appetite or body weightosuicide attempts | ohave trouble concentratingowithdraw from your friends or familyofeel like you have no energyohave feelings of worthlessness or guiltostart having thoughts about hurting yourself or taking your own life (suicidal thoughts)ostart acting on dangerous impulsesostart seeing or hearing things that are not real |
+| Your health care provider may tell you to see a mental health care professional if you have any of these symptoms. See “What are the possible side effects of Amnesteem?” for more information about side effects. |  |
+| What is Amnesteem?Amnesteem is a prescription medicine used in patients 12 years of age and older, who are not pregnant, for the treatment of severe acne (nodular acne) that cannot be cleared up by any other acne treatments, including antibiotics. Amnesteem can cause serious side effects (see “What is the most important information I should know about Amnesteem?”). Amnesteem can only be: •prescribed by health care providers that are enrolled in the iPLEDGE REMS•dispensed by a pharmacy that is enrolled in the iPLEDGE REMS•given to patients who are enrolled in the iPLEDGE REMS and agree to do everything required in the program. It is not known if Amnesteem is safe and effective in children less than 12 years of age. |  |
+| Do not take Amnesteem if you: •are pregnant, plan to become pregnant, or become pregnant during Amnesteem treatment. Amnesteem can cause life-threatening birth defects. See “What is the most important information I should know about Amnesteem?”•are allergic to isotretinoin, vitamin A, or any of the ingredients in Amnesteem. See the end of this Medication Guide for a complete list of ingredients in Amnesteem. |  |
+| Before taking Amnesteem, tell your health care provider if you or a family member has any of the following health conditions: •mental health problems•asthma•liver problems•diabetes•heart disease•increase blood fat levels (cholesterol and triglycerides)•bone loss (osteoporosis), weak bones or any other bone problems•an eating problem called anorexia nervosa (where people eat too little)•bowel or digestion problems Tell your health care provider if you are pregnant or breastfeeding. Do not breastfeed during treatment or for at least 8 days after the last dose of Amnesteem. Tell your health care provider about all of the medicines you take including prescription and over-the-counter medicines, vitamins and herbal supplements. Amnesteem and certain other medicines can affect each other, sometimes causing serious side effects. Do not take the following medicines during treatment with Amnesteem: •vitamin A supplements•tetracycline antibiotics Know the medicines you take. Keep a list of them to show to your health care provider and pharmacist. Do not take any new medicine without talking with your healthcare provider. |  |
+| You will not be prescribed Amnesteem if you cannot agree to or follow all the instructions of the iPLEDGE REMS. •You will get no more than a 30-day supply of Amnesteem at a time. This is to make sure you are following the Amnesteem iPLEDGE REMS. How should I take Amnesteem?You must take Amnesteem exactly as prescribed. You must also follow all the instructions of the iPLEDGE REMS. Before prescribing Amnesteem, your health care provider will: oexplain the iPLEDGE REMS to youohave you sign the Patient Informed Consent form (for all patients). Patients who can get pregnant must also sign another consent form.oget pregnancy tests to make sure you are not pregnant before you start Amnesteem. You will take 2 pregnancy tests at least 30 days apart before starting treatment.•The amount of Amnesteem you take has been specially chosen for you. It is based on your body weight and may change during treatment.•Take Amnesteem two times a day with food. Swallow Amnesteem whole with a full glass of liquid. Do not split, crush, chew, or suck on the capsules. Amnesteem can hurt the tube that connects your mouth to your stomach (esophagus) if not swallowed whole.•Your health care provider will tell you how long you will receive treatment with Amnesteem.•If you miss a dose, just skip that dose. Do not take two doses at the same time.•If you take too much Amnesteem, call your health care provider or Poison Help line at 1-800-222-1222 right away.•Your acne may get worse when you first start taking Amnesteem. This should last only a short while. Talk with your health care provider if this is a concern for you. Your acne may continue to improve after treatment.•You must return to your health care provider as directed to make sure you don’t have signs of serious side effects. Your health care provider may do blood tests to check for serious side effects from Amnesteem and may stop treatment if you get certain side effects.•Patients who can get pregnant will get a pregnancy test before each prescription is given during treatment with Amnesteem, when you stop treatment, and 1 month after you stop treatment.•You must get your prescription within seven days of receiving your pregnancy test.•Patients who can get pregnant must: oTalk about birth control options with your health care provider or go for a free visit to talk about birth control with another health care provider or family planning expert. Your health care provider can arrange this free visit, which will be paid for by the company that makes Amnesteem.oUse your chosen pregnancy prevention methods. You must choose two separate forms of birth control at the same time or commit to not having sexual contact with a partner that could result in pregnancy for at least 1 month before treatment, during treatment, and for 1 month after treatment with Amnesteem.oAccess the iPLEDGE REMS system to answer questions about the REMS requirements and enter your two chosen pregnancy prevention methods (two separate forms of birth control or commitment to not having sexual contact with a partner that could result in pregnancy). To access the iPLEDGE REMS system, go to www.ipledgeprogram.com or call 1-866-495-0654. If you have sex at any time without using two forms of birth control 1 month before, during, or 1 month after treatment, get pregnant, or miss your expected period, stop taking Amnesteem and call your health care provider right away. |  |
+| What should I avoid while taking Amnesteem? •Do not give blood during treatment with Amnesteem and for 1 month after stopping Amnesteem. If someone who is pregnant gets your donated blood, Amnesteem may cause miscarriage, premature birth, birth defects, or death of the baby.•Do not take other medicines or herbal products during treatment with Amnesteem unless you talk to your health care provider. See “Before taking Amnesteem”.•Do not drive at night until you know if Amnesteem has affected your vision. Amnesteem may decrease your ability to see in the dark.•Do not have cosmetic procedures to smooth your skin, including waxing, dermabrasion, or laser procedures, during treatment with Amnesteem and for at least 6 months after you stop. Amnesteem can increase your chance of scarring from these procedures. Check with your health care provider for advice about when you can have cosmetic procedures.•Avoid sunlight and ultraviolet lights as much as possible. Tanning machines use ultraviolet lights. Amnesteem may make your skin more sensitive to light.•Do not share Amnesteem with other people. Amnesteem can cause life-threatening birth defects and other serious health problems. |  |
+| What are the possible side effects of Amnesteem?Amnesteem can cause serious side effects, including: •See “What is the most important information I should know about Amnesteem?”•increased pressure in the brain (intracranial hypertension). Amnesteem can increase the pressure in your brain. This can lead to permanent loss of eyesight, and in rare cases, death. Stop taking Amnesteem and tell your health care provider right away if you get any of these signs of increased brain pressure: |  |
+| obad headacheoblurred vision or other visual problemsodizziness | onausea or vomitingoseizures (convulsions)ostroke |
+| •serious skin problems. Skin rash can happen in patients taking Amnesteem. Sometimes rash can be severe and may be life-threatening and lead to hospitalization or death. Stop taking Amnesteem and tell your health care provider right away if you get: |  |
+| oconjunctivitis (red or inflamed eyes, like “pink eye”)orash with a feveroblisters on legs, arms or face | osores in your mouth, throat, nose or eyesopeeling of your skin |
+| •inflammation of your pancreas (pancreatitis) can happen in patients who take Amnesteem and can lead to death. Stop taking Amnesteem and tell your health care provider right away if you get any of the following symptoms of pancreatitis: |  |
+| osevere upper stomach (abdomen) pain oswelling of your stomach | onausea and vomitingofever |
+| •increased blood fat (lipid) levels. Amnesteem can raise blood fat levels (cholesterol and triglycerides). Your health care provider will do blood tests to check your lipids before and during treatment. These problems usually go away when Amnesteem treatment is finished.•hearing problems. Stop taking Amnesteem and tell your health care provider if your hearing gets worse or if you have ringing in your ears. Your hearing loss may be permanent.•liver problems, including hepatitis. Your health care provider will do tests to check your liver before and during treatment with Amnesteem. Tell your health care provider right away if you get: |  |
+| oyellowing of your skin or the whites of your eyesopain on the right side of your stomach area (abdomen) | odark urineobleeding or bruising more easily than normal |
+| •inflammation of your digestive tract (inflammatory bowel disease). Stop taking Amnesteem right away and tell your health care provider right away if you get: |  |
+| osevere stomach, chest or bowel painonausea or vomitingotrouble swallowing or painful swallowing | onew or worsening heartburnodiarrheaorectal bleeding |
+| •bone and muscle problems including bone pain, softening or thinning of bones (which may lead to fractures). Amnesteem may stop long bone growth in teenagers who are still growing. Teenagers who participate in sports with hard physical activity and repeated actions during treatment with Amnesteem may have a higher risk of bone fractures or injuries.. Tell your health care provider if you get: obone painoback painobroken bone (fracture).omuscle problems. Stop taking Amnesteem and tell your health care provider right away if you have muscle or joint pain or weakness. Muscle weakness with or without pain can be a sign of serious muscle damage. •vision problems. Stop taking Amnesteem and tell your health care provider right away if you have any vision changes. Amnesteem may affect your ability to see in the dark. This usually goes away after you stop taking Amnesteem, but it may be permanent. Some patients get dry eyes during treatment. If you wear contact lenses, you may have trouble wearing them during and after you stop treatment with Amnesteem.•serious allergic reactions. Stop taking Amnesteem and get emergency medical help right away if you get hives, a swollen face or mouth, or have trouble breathing. Stop taking Amnesteem and tell your health care provider if you get a fever, rash, or red patches or bruises on your legs.•blood sugar problems, including diabetes. Tell your health care provider if you are very thirsty or urinate more than usual. The most common side effects of Amnesteem include: |  |
+| •dry lips•dry skin•back pain•dry eyes•joint pain•nose bleeds | •headache•upper respiratory tract infection (common cold)•chapped lips or swelling of the lips•skin reactions•muscle problems•eye problems, including decreased vision |
+| These are not all of the possible side effects of Amnesteem. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088 or Mylan at 1-877-446-3679 (1-877-4-INFO-RX). |  |
+| How should I store Amnesteem? •Store Amnesteem at room temperature, 68° to 77°F (20° to 25°C). Protect from light. Keep Amnesteem and all medicines out of the reach of children. |  |
+| General information about the safe and effective use of AmnesteemMedicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use Amnesteem for a condition for which it was not prescribed. Do not give Amnesteem to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or health care provider for information about Amnesteem that is written for health professionals. You can also call iPLEDGE REMS at 1-866-495-0654 or visit www.ipledgeprogram.com. |  |
+| What are the ingredients in Amnesteem?Active ingredient: isotretinoinInactive ingredients: butylhydroxyanisole, gelatin, glycerol, hydrogenated partially vegetable oil, medium chain triglycerides, sodium edetate, soy lecithin, soybean oil and yellow beeswax. The 10 mg, 20 mg and 40 mg capsules also contain red iron oxide in glycerin, and the 20 mg, 30 mg and 40 mg capsules also contain titanium dioxide in glycerin and yellow iron oxide in glycerin. The black imprinting ink contains ammonium hydroxide, black iron oxide, polyethylene glycol, propylene glycol and polyvinyl acetate phthalate. Manufactured for: Mylan Pharmaceuticals Inc., Morgantown, WV 26505 U.S.A.Manufactured by: Catalent Pharma Solutions, 67930 Beinheim France AMNESTEEM is a registered trademark of Mylan Bertek Pharmaceuticals, Inc., a Viatris Company. © 2026 Viatris Inc. |  |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Dilantin is a registered trademark of Warner-Lambert Company LLC.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Catalent Pharma Solutions 74 rue Principale 67930 Beinheim France
 
-Revised: 6/2024 CAT:ISOTFR:R9
+Revised: 7/2026 CAT:ISOTFR:R10
