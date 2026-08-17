@@ -10,6 +10,6 @@ ATTENTION: Noxafil™ Oral Suspension and Posaconazole Delayed-Release Tablets a
 
 PHARMACIST: Dispense the Patient Information provided separately to each patient.
 
-Mallinckrodt™
+Par Health™
 
-L00P34 Rev 05/2022
+L00P34 Rev 02/2026

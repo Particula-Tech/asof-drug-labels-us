@@ -25,25 +25,26 @@ Serious and Potentially Serious Adverse Reactions
 
 Advise patients to inform their physician immediately if they:
 
-- notice a change in heart rate or heart rhythm, or have a heart condition or circulatory disease.
+- notice a change in heart rate or heart rhythm or have a heart condition or circulatory disease.
   Posaconazole can be administered with caution to patients with potentially proarrhythmic conditions.
 - are pregnant, plan to become pregnant, or are nursing.
 - have liver disease or develop itching, nausea or vomiting, their eyes or skin turn yellow, they feel more tired than usual or feel like they have the flu.
 - have ever had an allergic reaction to other antifungal medicines such as ketoconazole, fluconazole, itraconazole, or voriconazole.
 
-Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
+© 2026 Par Health, Inc. or one of its affiliates.
 
-© 2024 Mallinckrodt.
+Noxafil, Mylanta, Zantac, Nexium, and Reglan are trademarks of their respective owners.
 
-Mylanta, Zantac, Nexium, and Reglan are trademarks of their respective owners.
+Manufactured for:
 
-SpecGx LLC Webster Groves, MO 63119 USA www.mallinckrodt.com or call 1-800-778-7898
+SpecGx LLC
+
+Webster Groves, MO 63119 USA
+
+www.parhealth.com or call 1-800-778-7898
 
 L20P21
 
-Revised: 10/2024
+Revised: 02/2026
 
-Mallinckrodt™ Pharmaceuticals
-
-PHARMACIST: Dispense separate Patient Information to each patient.
-Patient Information available at: www.mallinckrodt.com/medguide/X30000254.pdf or call 1-800-778-7898
+Par Health™

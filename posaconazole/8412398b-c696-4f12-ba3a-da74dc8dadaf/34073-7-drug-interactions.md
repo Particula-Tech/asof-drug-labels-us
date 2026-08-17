@@ -1,112 +1,88 @@
 # 7 DRUG INTERACTIONS
 
-Posaconazole is primarily metabolized via UDP glucuronosyltransferase and is a substrate of p-glycoprotein (P-gp) efflux.
+Table 15 and Table 17 include drugs with clinically important drug interactions when administered concomitantly with posaconazole delayed-release tablets and instructions for preventing or managing them.
+
+These recommendations are based on either drug interaction studies or predicted interactions due to the expected magnitude of interaction and potential for serious adverse reactions or loss of efficacy [see Clinical Pharmacology (12.3)].
+
+The following information was derived from data with Noxafil® oral suspension or another posaconazole tablet formulation unless otherwise noted.
+All clinically important drug interactions with Noxafil® oral suspension, except for those that affect the absorption of posaconazole (via gastric pH and motility), are considered relevant to clinically important drug interactions with posaconazole delayed-release tablets [Clinical Pharmacology (12.3)].
+
+Consult the labeling of concomitantly used drugs to obtain further information about interactions with posaconazole.
+
+## 7.1 Effects of Other Drugs on Posaconazole Delayed-Release Tablets
+
+Posaconazole is primarily metabolized via UDP-glucuronosyltransferase and is a substrate of p-­-glycoprotein (P-gp) efflux.
 Therefore, inhibitors or inducers of these clearance pathways may affect posaconazole plasma concentrations.
-Coadministration of drugs that can decrease the plasma concentrations of posaconazole should generally be avoided unless the benefit outweighs the risk.
+Concomitant use of posaconazole delayed-release tablets with drugs that can decrease the plasma posaconazole concentrations should generally be avoided unless the benefit outweighs the risk.
 If such drugs are necessary, patients should be monitored closely for breakthrough fungal infections.
 
-Posaconazole is also a strong inhibitor of CYP3A4.
-Therefore, plasma concentrations of drugs predominantly metabolized by CYP3A4 may be increased by posaconazole [see Clinical Pharmacology (12.3)].
+Table 15: Drug Interactions Affecting Posaconazole Delayed-Release Tablets When Administered Concomitantly with Other Drugs
 
-The following information was derived from data with Noxafil® Oral Suspension or early tablet formulation unless otherwise noted.
-All drug interactions with Noxafil® Oral Suspension, except for those that affect the absorption of posaconazole (via gastric pH and motility), are considered relevant to posaconazole delayed-release tablets as well [see Drug Interactions (7.9) and (7.13)].
+| UDP-Glucuronidase Inducers |  |  |
+| --- | --- | --- |
+| Mechanism and Clinical Effect(s) |  | Posaconazole is a UDP-glucuronosyltransferase substrate. Concomitant use of posaconazole delayed-release tablets with UDP-glucuronidase inducers may decrease posaconazole exposure [see Clinical Pharmacology (12.3)], which may reduce the effectiveness of posaconazole. |
+| Prevention or Management | Efavirenz | Avoid concomitant use of posaconazole with efavirenz, unless the benefit outweighs the risks. |
+| Rifabutin | Avoid concomitant use of posaconazole with rifabutin unless the benefit to the patient outweighs the risk. If concomitant use is needed, monitor closely for breakthrough fungal infections. See Table 17 for rifabutin monitoring considerations when posaconazole affects rifabutin via CYP3A4 inhibition. |  |
+| Phenytoin | Avoid concomitant use of posaconazole with phenytoin unless the benefit to the patient outweighs the risk. If concomitant use is needed, monitor for breakthrough fungal infections. See Table 17 for phenytoin monitoring considerations when posaconazole affects phenytoin via CYP3A4 inhibition. |  |
+| Fosamprenavir |  |  |
+| Mechanism and Clinical Effect(s) |  | Concomitant use of posaconazole delayed-release tablets with fosamprenavir may lead to decreased posaconazole plasma concentrations [see Clinical Pharmacology (12.3)], which may reduce effectiveness of posaconazole. |
+| Prevention or Management |  | If concomitant use of posaconazole with fosamprenavir is needed, monitor closely for breakthrough fungal infections. |
 
-## 7.1 Immunosuppressants Metabolized by CYP3A4
+## 7.2 Effects of Posaconazole Delayed-Release Tablets on Other Drugs
 
-Sirolimus: Concomitant administration of posaconazole with sirolimus increases the sirolimus blood concentrations by approximately 9-fold and can result in sirolimus toxicity.
-Therefore, posaconazole is contraindicated with sirolimus [see Contraindications (4.2) and Clinical Pharmacology (12.3)].
+Posaconazole is a strong CYP3A4 inhibitor.
+Therefore, concomitant use of posaconazole delayed-release tablets may increase plasma concentrations of drugs that are CYP3A4 substrates [see Clinical Pharmacology (12.3)].
 
-Tacrolimus: Posaconazole has been shown to significantly increase the Cmax and AUC of tacrolimus.
-At initiation of posaconazole treatment, reduce the tacrolimus dose to approximately one-third of the original dose.
-Frequent monitoring of tacrolimus whole blood trough concentrations should be performed during and at discontinuation of posaconazole treatment and the tacrolimus dose adjusted accordingly [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Table 17: Drug Interactions Affecting Drugs Administered Concomitantly with Posaconazole Delayed-Release Tablets
 
-Cyclosporine: Posaconazole has been shown to increase cyclosporine whole blood concentrations in heart transplant patients upon initiation of posaconazole treatment.
-It is recommended to reduce cyclosporine dose to approximately three-fourths of the original dose upon initiation of posaconazole treatment.
-Frequent monitoring of cyclosporine whole blood trough concentrations should be performed during and at discontinuation of posaconazole treatment and the cyclosporine dose adjusted accordingly [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+| Digoxin |  |  |
+| --- | --- | --- |
+| Clinical Effect(s) | Increased digoxin plasma concentrations have been reported in patients who received concomitant posaconazole and digoxin. |  |
+| Prevention or Management | Monitor digoxin plasma concentrations during concomitant use of posaconazole. |  |
+| Glipizide |  |  |
+| Clinical Effect(s) | No dosage modification of glipizide is needed when used concomitantly with posaconazole delayed-release tablets. However, glucose concentrations decrease in some patients concomitantly administered posaconazole and glipizide. |  |
+| Prevention or Management | Increase monitoring of glucose concentrations when used concomitantly. |  |
+| CYP3A Substrates |  |  |
+| Immunosuppressants that are CYP3A4 Substrates |  |  |
+| Mechanism and Clinical Effect(s) | Posaconazole is a strong CYP3A4 inhibitor. Therefore, plasma concentrations of CYP3A4 substrates may be increased by posaconazole use [see Clinical Pharmacology (12.3)]. |  |
+| Prevention or Management | Sirolimus | Posaconazole is contraindicated with sirolimus [see Clinical Pharmacology (12.3)]. |
+| Tacrolimus | At initiation of posaconazole treatment, reduce the tacrolimus dosage to approximately one-third of the original tacrolimus dosage.Frequent monitoring of tacrolimus whole blood trough concentrations should be performed during and at discontinuation of posaconazole treatment and the tacrolimus dosage should be modified accordingly [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)]. |  |
+| Cyclosporine | At initiation of posaconazole treatment reduce the cyclosporine dosage to approximately three-fourths of the original dosage. Frequent monitoring of cyclosporine whole blood trough concentrations should be performed during and at discontinuation of posaconazole treatment and the cyclosporine dosage should be modified accordingly [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)]. |  |
+| CYP3A4 Substrates that Prolong QTc Interval |  |  |
+| Mechanism and Clinical Effect(s) | Concomitant use of posaconazole with CYP3A4 substrates such as pimozide and quinidine may result in increased plasma concentrations of the CYP3A4 substrates leading to QTc interval prolongation and torsades de pointes [see Warnings and Precautions (5.2)]. |  |
+| Prevention or Management | Pimozide | Concomitant use with posaconazole is contraindicated. |
+| Quinidine |  |  |
+| HMG-CoA Reductase Inhibitors (Statins) that are CYP3A4 Substrates |  |  |
+| Mechanism and Clinical Effect(s) | Concomitant use of posaconazole with simvastatin increased simvastatin plasma concentrations which can lead to rhabdomyolysis [see Clinical Pharmacology (12.3)]. |  |
+| Prevention or Management | Atorvastatin, Lovastatin, Simvastatin | Concomitant use with posaconazole is contraindicated. |
+| Benzodiazepines that are CYP3A4 Substrates |  |  |
+| Mechanism and Clinical Effect(s) | Concomitant use of posaconazole with midazolam increased midazolam plasma concentrations which could potentiate and prolong hypnotic and sedative effects [see Clinical Pharmacology (12.3)]. |  |
+| Prevention or Management | Midazolam, Alprazolam, Triazolam | Closely monitor for adverse reactions associated with high plasma concentrations of benzodiazepines that are CYP3A4 substrates during concomitant use, and a benzodiazepine receptor antagonist should be available to reverse effects [see Warnings and Precautions (5.7)]. |
+| Calcium Channel Blockers that are CYP3A4 Substrates |  |  |
+| Mechanism and Clinical Effect(s) | Posaconazole may increase the plasma concentrations of calcium channel blockers that are substrates of CYP3A4. |  |
+| Prevention or Management | Verapamil, Diltiazem, Nifedipine, Nicardipine, Felodipine | Monitor frequently for adverse reactions and toxicity with concomitant use of posaconazole with calcium channel blockers that are CYP3A4 substrates. Dosage reduction of the calcium channel blocker may be needed. |
+| Anti-HIV Drugs that are CYP3A4 Substrates |  |  |
+| Mechanism and Clinical Effect(s) | Ritonavir and atazanavir are CYP3A4 substrates and posaconazole increased plasma concentrations of these drugs [see Clinical Pharmacology (12.3)]. |  |
+| Prevention or Management | Ritonavir and Atazanavir | Monitor frequently for adverse reactions and toxicity of ritonavir and atazanavir during concomitant use. |
+| Antineoplastic Drugs that are CYP3A4 Substrates |  |  |
+| Mechanism and Clinical Effect(s) | Posaconazole may increase plasma concentrations of oncology drugs that are CYP3A4 substrates, which may increase the risk of serious adverse reactions. |  |
+| Prevention or Management | Venetoclax | CLL/SLL patients: Concomitant use of posaconazole with venetoclax during initiation and ramp-up phase is contraindicated. AML patients: With concomitant use, venetoclax dosage reduction and safety monitoring is recommended across all dosing phases [see Warnings and Precautions (5.11)]. |
+| Vinca alkaloids (e.g., vincristine, vinblastine) | Reserve concomitant use for patients with no alternative antifungal treatment options [see Warnings and Precautions (5.8)]. |  |
+| Ergot Alkaloids |  |  |
+| Mechanism and Clinical Effect(s) | Most of the ergot alkaloids are CYP3A4 substrates. Posaconazole may increase the plasma concentrations of ergot alkaloids (ergotamine and dihydroergotamine) which may lead to ergotism. |  |
+| Prevention or Management | Ergotamine, Dihydroergot amine | Concomitant use with posaconazole is contraindicated. |
+| Phenytoin |  |  |
+| Mechanism and Clinical Effect(s) | Phenytoin is a CYP3A4 substrate. Concomitant use of posaconazole with phenytoin increased phenytoin plasma concentrations [see Clinical Pharmacology (12.3)]. |  |
+| Prevention or Management | Avoid concomitant use of posaconazole with phenytoin unless the benefit outweighs the risk. frequently monitor phenytoin concentrations and consider a dosage reduction of phenytoin. See Table 15 for additional monitoring considerations when phenytoin affects posaconazole via UDP-glucuronosyltransferase inhibition. |  |
+| Rifabutin |  |  |
+| Mechanism and Clinical Effect(s) | Rifabutin is a CYP3A4 substrate. Concomitant use of posaconazole with rifabutin increased rifabutin plasma concentrations [see Clinical Pharmacology (12.3)]. |  |
+| Prevention or Management | Avoid concomitant use of posaconazole with rifabutin unless the benefit outweighs the risk. Frequent monitoring of full blood counts and adverse reactions due to increased rifabutin plasma concentrations (e.g., uveitis, leukopenia) during concomitant use are recommended. See Table 15 for additional monitoring considerations when rifabutin affects posaconazole via UDP-glucuronosyltransferase inhibition. |  |
 
-## 7.2 CYP3A4 Substrates
+## 7.3 Absence of Clinically Important Interaction with Posaconazole Delayed-Release Tablets
 
-Concomitant administration of posaconazole with CYP3A4 substrates such as pimozide and quinidine may result in increased plasma concentrations of these drugs, leading to QTc prolongation and cases of torsades de pointes.
-Therefore, posaconazole is contraindicated with these drugs [see Contraindications (4.3) and Warnings and Precautions (5.2)].
+Additional clinical studies demonstrated that no clinically important effects on zidovudine, lamivudine, indinavir, or caffeine were observed when administered with Noxafil 200 mg once daily; therefore, no dose adjustments are required for these drugs when coadministered with Noxafil 200 mg once daily.
 
-## 7.3 HMG-CoA Reductase Inhibitors (Statins) Primarily Metabolized Through CYP3A4
-
-Concomitant administration of posaconazole with simvastatin increases the simvastatin plasma concentrations by approximately 10-fold.
-Therefore, posaconazole is contraindicated with HMG-CoA reductase inhibitors primarily metabolized through CYP3A4 [see Contraindications (4.4) and Clinical Pharmacology (12.3)].
-
-## 7.4 Ergot Alkaloids
-
-Most of the ergot alkaloids are substrates of CYP3A4.
-Posaconazole may increase the plasma concentrations of ergot alkaloids (ergotamine and dihydroergotamine) which may lead to ergotism.
-Therefore, posaconazole is contraindicated with ergot alkaloids [see Contraindications (4.5)].
-
-## 7.5 Benzodiazepines Metabolized by CYP3A4
-
-Concomitant administration of posaconazole with midazolam increases the midazolam plasma concentrations by approximately 5-fold.
-Increased plasma midazolam concentrations could potentiate and prolong hypnotic and sedative effects.
-Concomitant use of posaconazole and other benzodiazepines metabolized by CYP3A4 (e.g., alprazolam, triazolam) could result in increased plasma concentrations of these benzodiazepines.
-Patients must be monitored closely for adverse effects associated with high plasma concentrations of benzodiazepines metabolized by CYP3A4 and benzodiazepine receptor antagonists must be available to reverse these effects [see Warnings and Precautions (5.7) and Clinical Pharmacology (12.3)].
-
-## 7.6 Anti-HIV Drugs
-
-Efavirenz: Efavirenz induces UDP-glucuronidase and significantly decreases posaconazole plasma concentrations [see Clinical Pharmacology (12.3)].
-It is recommended to avoid concomitant use of efavirenz with posaconazole unless the benefit outweighs the risks.
-
-Ritonavir and Atazanavir: Ritonavir and atazanavir are metabolized by CYP3A4 and posaconazole increases plasma concentrations of these drugs [see Clinical Pharmacology (12.3)].
-Frequent monitoring of adverse effects and toxicity of ritonavir and atazanavir should be performed during coadministration with posaconazole.
-
-Fosamprenavir: Combining fosamprenavir with posaconazole may lead to decreased posaconazole plasma concentrations.
-If concomitant administration is required, close monitoring for breakthrough fungal infections is recommended [see Clinical Pharmacology (12.3)].
-
-## 7.7 Rifabutin
-
-Rifabutin induces UDP-glucuronidase and decreases posaconazole plasma concentrations.
-Rifabutin is also metabolized by CYP3A4.
-Therefore, coadministration of rifabutin with posaconazole increases rifabutin plasma concentrations [see Clinical Pharmacology (12.3)].
-Concomitant use of posaconazole and rifabutin should be avoided unless the benefit to the patient outweighs the risk.
-However, if concomitant administration is required, close monitoring for breakthrough fungal infections as well as frequent monitoring of full blood counts and adverse reactions due to increased rifabutin plasma concentrations (e.g., uveitis, leukopenia) are recommended.
-
-## 7.8 Phenytoin
-
-Phenytoin induces UDP-glucuronidase and decreases posaconazole plasma concentrations.
-Phenytoin is also metabolized by CYP3A4.
-Therefore, coadministration of phenytoin with posaconazole increases phenytoin plasma concentrations [see Clinical Pharmacology (12.3)].
-Concomitant use of posaconazole and phenytoin should be avoided unless the benefit to the patient outweighs the risk.
-However, if concomitant administration is required, close monitoring for breakthrough fungal infections is recommended and frequent monitoring of phenytoin concentrations should be performed while coadministered with posaconazole and dose reduction of phenytoin should be considered.
-
-## 7.9 Gastric Acid Suppressors/Neutralizers
-
-No clinically relevant effects on the pharmacokinetics of posaconazole were observed when posaconazole delayed-release tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors [see Clinical Pharmacology (12.3)].
-No dosage adjustment of posaconazole delayed-release tablets is required when posaconazole delayed-release tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors.
-
-## 7.10 Vinca Alkaloids
-
-Most of the vinca alkaloids (e.g., vincristine and vinblastine) are substrates of CYP3A4.
-Concomitant administration of azole antifungals, including posaconazole, with vincristine has been associated with serious adverse reactions [see Warnings and Precautions (5.8)].
-Posaconazole may increase the plasma concentrations of vinca alkaloids which may lead to neurotoxicity and other serious adverse reactions.
-Therefore, reserve azole antifungals, including posaconazole, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options.
-
-## 7.11 Calcium Channel Blockers Metabolized by CYP3A4
-
-Posaconazole may increase the plasma concentrations of calcium channel blockers metabolized by CYP3A4 (e.g., verapamil, diltiazem, nifedipine, nicardipine, felodipine).
-Frequent monitoring for adverse reactions and toxicity related to calcium channel blockers is recommended during coadministration.
-Dose reduction of calcium channel blockers may be needed.
-
-## 7.12 Digoxin
-
-Increased plasma concentrations of digoxin have been reported in patients receiving digoxin and posaconazole.
-Therefore, monitoring of digoxin plasma concentrations is recommended during coadministration.
-
-## 7.13 Gastrointestinal Motility Agents
-
-Concomitant administration of metoclopramide with posaconazole delayed-release tablets did not affect the pharmacokinetics of posaconazole [see Clinical Pharmacology (12.3)].
-No dosage adjustment of posaconazole delayed-release tablets is required when given concomitantly with metoclopramide.
-
-## 7.14 Glipizide
-
-Although no dosage adjustment of glipizide is required, it is recommended to monitor glucose concentrations when posaconazole and glipizide are concomitantly used.
-
-## 7.16 Venetoclax
-
-Concomitant use of venetoclax (a CYP3A4 substrate) with posaconazole increases venetoclax Cmax and AUC0-INF, which may increase venetoclax toxicities [see Contraindications (4.6), Warnings and Precautions (5.11)].
-Refer to the venetoclax prescribing information for more information on the dosing instructions and the extent of increase in venetoclax exposure.
+No clinically relevant effects on the pharmacokinetics of posaconazole delayed-release tablets were observed during concomitant use with antacids, H2-receptor antagonists and proton pump inhibitors, and metoclopramide [see Clinical Pharmacology (12.3)].
+No dosage adjustment of posaconazole delayed-release tablets is required during concomitant use with these drugs.
+No clinically relevant effects on the pharmacokinetics of Noxafil® oral suspension were observed during concomitant use with antacids, H2-receptor antagonists (other than cimetidine), and loperamide [see Clinical Pharmacology (12.3)].
+No dosage adjustment of Noxafil® oral suspension is required during concomitant use with these drugs (other than cimetidine).
