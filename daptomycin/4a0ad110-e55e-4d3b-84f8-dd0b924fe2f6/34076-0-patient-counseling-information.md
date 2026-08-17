@@ -28,7 +28,7 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 
 Brands listed are the trademarks of their respective owners.
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60173 (USA) Made in India
 
 novaplusTM+
 

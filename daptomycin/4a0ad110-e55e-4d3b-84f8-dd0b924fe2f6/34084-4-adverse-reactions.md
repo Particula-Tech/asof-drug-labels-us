@@ -258,6 +258,8 @@ Skin and Subcutaneous Tissue Disorders: serious skin reactions, including drug r
 
 Gastrointestinal Disorders: nausea, vomiting
 
+Metabolic and Nutritional Disorders: hyperkalemia
+
 Renal and Urinary Disorders: acute kidney injury, renal insufficiency, renal failure, and tubulointerstitial nephritis (TIN) [see Warnings and Precautions (5.5)]
 
 Special Senses: visual disturbances
