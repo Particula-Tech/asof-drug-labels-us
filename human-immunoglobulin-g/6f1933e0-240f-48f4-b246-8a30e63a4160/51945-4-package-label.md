@@ -2,7 +2,7 @@
 
 NDC 76179-010-02
 
-Immune Globulin Intravenous (Human) - kthm 10% QIVIGY
+Immune Globulin Intravenous (Human) - kthm 10% QIVIGY®
 
 5 g 50 mL
 
@@ -10,6 +10,6 @@ For intravenous infusion only
 
 Rx only
 
-KEDRION BIOPHARMA
+Kedrion Biopharma
 
 10%
