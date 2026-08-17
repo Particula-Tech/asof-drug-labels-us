@@ -2,5 +2,6 @@
 
 CALDOLOR is indicated in adults and pediatric patients aged 3 months and older for the:
 
-- management of mild to moderate pain and the management of moderate to severe pain as an adjunct to opioid analgesics
+- management of mild to moderate pain, including postoperative pain
+- management of moderate to severe pain, including postoperative pain, as an adjunct to opioid analgesics
 - reduction of fever
