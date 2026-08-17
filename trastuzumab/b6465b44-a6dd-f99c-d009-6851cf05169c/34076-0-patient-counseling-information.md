@@ -10,7 +10,7 @@ Embryo-Fetal Toxicity
   Advise female patients to contact their healthcare provider with a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 - Advise females of reproductive potential to use effective contraception during treatment and for 7 months following the last dose of Ogivri [see Use in Specific Populations (8.3)].
 
-Ogivri® is a registered trademark of Biosimilars New Co. Ltd.; a Biocon Biologics Company.
+Ogivri® is a registered trademark of Biocon Biologics UK PLC.; a Biocon Biologics Company.
 
 Copyright © 2023 Biocon Biologics Inc. All rights reserved.
 
@@ -18,12 +18,14 @@ Manufactured by and for:
 
 Biocon Biologics Inc.
 
-245 Main st, 2nd floor
+685 Route 202/206, Suite 204,
 
-Cambridge, MA 02142, U.S.A.
+Bridgewater, NJ 08807, U.S.A.
 
 U.S Licence No. 2324
 
 KR/DRUGS/KTK/28D/07/2006
 
-Revised: 11/2024
+or
+
+KR/DRUGS/KTK/28DA/4/2025
