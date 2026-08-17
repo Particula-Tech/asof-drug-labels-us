@@ -174,6 +174,8 @@ Table 1: Drug Interactions with Itraconazole that Affect Concomitant Drug Concen
 | Calcium Channel Blockers |  |  |
 | FelodipineaNisoldipine |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | DiltiazemOther dihydropyridinesVerapamil |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For diltiazem: see also Table 2. |
+| Cardiac Myosin Inhibitor |  |  |
+| Mavacamten |  | Refer to the mavacamten prescribing information for detailed guidance including dosing and safety monitoring. |
 | Cardiovascular Drugs, Miscellaneous |  |  |
 | IvabradineRanolazine |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | AliskirenaRiociguatSildenafil (for pulmonary hypertension) Tadalafil (for pulmonary hypertension) |  | Not recommended during and 2 weeks after itraconazole treatment. For sildenafil and tadalafil, see also Urologic Drugs below. |
