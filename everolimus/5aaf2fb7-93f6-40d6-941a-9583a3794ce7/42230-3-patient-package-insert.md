@@ -88,8 +88,8 @@ Before taking Everolimus Tablets,tell your healthcare provider about all of your
 - •Are pregnant, can become pregnant, or have a partner who can become pregnant.
   Everolimus Tablets can cause harm to your unborn baby.
   Females who are able to become pregnant:
-- o Your healthcare provider will give you a pregnancy test before you start treatment with Everolimus Tablets.
-- o You should use effective birth control during treatment and for 8 weeks after your last dose of Everolimus Tablets.
+- oYour healthcare provider will give you a pregnancy test before you start treatment with Everolimus Tablets.
+- oYou should use effective birth control during treatment and for 8 weeks after your last dose of Everolimus Tablets.
 - Males with a female partner, you should use effective birth control during treatment and for 4 weeks after your last dose of Everolimus Tablets.
 - Talk to your healthcare provider about birth control methods that may be right for you during this time.
   If you become pregnant or think you are pregnant, tell your healthcare provider right away.
@@ -226,7 +226,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Hikma Pharmaceuticals USA Inc.
 
-For more information, call 1-800-962-8364.
+For more information call 1-800-962-8364.
 
 Distributed by: Hikma
 

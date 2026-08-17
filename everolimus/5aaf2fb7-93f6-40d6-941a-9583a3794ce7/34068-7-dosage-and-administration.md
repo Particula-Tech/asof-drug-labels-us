@@ -72,7 +72,7 @@ Cannabidiol OralSolution
 
 Table 5: RecommendedDosage Modifications with Cannabidiol Oral Solution
 
-| Indication | Dose Modification for Everolimus |
+| Indication | Dosage Modification for Everolimus |
 | --- | --- |
 | RCC and TSC-Associated Renal Angiomyolipoma | •Reduce dose to 5 mg once daily.•May increase dose to 7.5 mg once daily if tolerated.•Resume dosage administered prior to cannabidiol oral solution initiation, once cannabidiol oral solution is discontinued for 3 days. |
 
@@ -82,7 +82,7 @@ Strong CYP3A Inducer and P-gp Inducer
 
 Table 6: Recommended Dosage Modifications with a Strong CYP3A Inducer and P-gp Inducer
 
-| Indication | Dose Modification for Everolimus |
+| Indication | Dosage Modification for Everolimus |
 | --- | --- |
 | RCC and TSC-Associated Renal Angiomyolipoma | •Avoid coadministration where alternatives exist.•If coadministration cannot be avoided, double the daily dose using increments of 5 mg or less. Multiple increments may be required. •Resume the dosage administered prior to inducer initiation, once an inducer is discontinued for 5 days. |
 
