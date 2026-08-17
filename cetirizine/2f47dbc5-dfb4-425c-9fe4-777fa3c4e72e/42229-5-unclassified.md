@@ -1,7 +1,7 @@
 For Oral Use Rx Only
 
-Manufactured for Padagis® Minneapolis, MN 55427
+Manufactured by Padagis® Minneapolis, MN 55427
 
 www.padagis.com
 
-Rev 05-25
+2205053 Rev 08-25 5C300 RC PH2
