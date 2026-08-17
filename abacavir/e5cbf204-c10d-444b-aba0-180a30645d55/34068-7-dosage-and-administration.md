@@ -1,24 +1,25 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Screening for HLA-B*5701 Allele prior to Starting Abacavir
 
 Screen for the HLA-B*5701 allele prior to initiating therapy with abacavir [see Boxed Warning, Warnings and Precautions (5.1)].
 
-## 2.2 Recommended Dosage for Adults patients
+## 2.2 Recommended Dosage for Adult Patients
 
 The recommended dosage of abacavir for adults is 600 mg daily, administered orally as either 300 mg twice daily or 600 mg once daily, in combination with other antiretroviral agents.
 
-## 2.3 Recommended Dosage for Pediatric
+## 2.3 Recommended Dosage for Pediatric Patients
 
-The recommended dosage of abacavir oral solution in HIV-1-infected pediatric patients aged 3 months and older is 8 mg per kg orally twice daily or 16 mg per kg orally once-daily (up to a maximum of 600 mg daily) in combination with other antiretroviral agents.
+The recommended dosage of abacavir oral solution in HIV-1-infected pediatric patients aged 3 months and older is 8 mg per kg orally twice daily or 16 mg per kg orally once daily (up to a maximum of 600 mg daily) in combination with other antiretroviral agents.
 Abacavir is also available as a scored tablet for HIV-1-infected pediatric patients weighing greater than or equal to 14 kg for whom a solid dosage form is appropriate.
 Before prescribing abacavir tablets, children should be assessed for the ability to swallow tablets.
 If a child is unable to reliably swallow abacavir tablets, the oral solution formulation should be prescribed.
 The recommended oral dosage of abacavir tablets for HIV-1-infected pediatric patients is presented in Table 1.
+
 Table 1.
 Dosing Recommendations for Abacavir Scored Tablets in Pediatric Patients
 
-| Weight (Kg) | Once-daily Dosing Regimena | Twice-daily Dosage Regimen |  |  |
+| Weight (Kg) | Once-Daily Dosing Regimen a | Twice-Daily Dosing Regimen |  |  |
 | --- | --- | --- | --- | --- |
 | AM Dose | PM Dose | Total Daily Dose |  |  |
 | 14 to <20 | 1 tablet (300 mg) | ½ tablet (150 mg) | ½ tablet (150 mg) | 300 mg |
