@@ -2,7 +2,7 @@
 
 Pegfilgrastim is a covalent conjugate of recombinant methionyl human G-CSF (filgrastim) and monomethoxypolyethylene glycol.
 Filgrastim is a water-soluble 175 amino acid protein with a molecular weight of approximately 19 kilodaltons (kD).
-Filgrastim is obtained from the bacterial fermentation of a strain of E coli transformed with a genetically engineered plasmid containing the human G-CSF gene.
+Filgrastim is obtained from the bacterial fermentation of a strain of E. coli transformed with a genetically engineered plasmid containing the human G-CSF gene.
 To produce pegfilgrastim, a 20 kD monomethoxypolyethylene glycol molecule is covalently bound to the N-terminal methionyl residue of filgrastim.
 The average molecular weight of pegfilgrastim is approximately 39 kD.
 
@@ -20,4 +20,4 @@ The delivered 0.6 mL dose from either the prefilled syringe for manual subcutane
 Vial
 
 Neulasta for subcutaneous injection is supplied in 4 mg/0.4 mL single-dose vials.
-Each 0.4 mL single-dose vial contains pegfilgrastim (4 mg based on protein weight), acetate (0.24 mg), polysorbate 20 (0.02 mg), sodium (0.01 mg), and sorbitol (20 mg) in Water for Injection, USP.
+Each 0.4 mL vial contains pegfilgrastim (4 mg based on protein weight), acetate (0.24 mg), polysorbate 20 (0.02 mg), sodium (0.01 mg), and sorbitol (20 mg) in Water for Injection, USP.

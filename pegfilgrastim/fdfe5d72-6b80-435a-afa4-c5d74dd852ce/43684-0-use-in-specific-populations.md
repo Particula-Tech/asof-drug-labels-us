@@ -36,7 +36,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Neulasta for chemotherapy-induced neutropenia and hematopoietic subsyndrome of acute radiation syndrome have been established in pediatric patients aged newborn and older.
+The safety and effectiveness of Neulasta for chemotherapy-induced neutropenia and hematopoietic subsyndrome of acute radiation syndrome have been established in pediatric patients.
 
 Use of Neulasta in pediatric patients for chemotherapy-induced neutropenia is based on adequate and well-controlled studies in adults with additional pharmacokinetic and safety data in pediatric patients aged 8 months and older with sarcoma [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
 

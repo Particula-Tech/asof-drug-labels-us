@@ -11,7 +11,7 @@ Dosing of Neulasta for Pediatric Patients Weighing Less Than 45 kg
 
 | Body Weight | Neulasta Dose | Volume to Administer |
 | --- | --- | --- |
-| Less than 10 kgFor pediatric patients weighing less than 10 kg, administer 0.1 mg/kg (0.01 mL/kg) of Neulasta. | See below | See below |
+| Less than 10 kg For pediatric patients weighing less than 10 kg, administer 0.1 mg/kg (0.01 mL/kg) of Neulasta. | See below | See below |
 | 10 kg to 20 kg | 1.5 mg | 0.15 mL |
 | 21 kg to 30 kg | 2.5 mg | 0.25 mL |
 | 31 kg to 44 kg | 4 mg | 0.4 mL |
@@ -29,13 +29,13 @@ Estimate a patient's absorbed radiation dose (i.e., level of radiation exposure)
 
 ## 2.3 Preparation and Administration
 
-Neulasta is supplied in single-dose prefilled syringes for manual use or for use with the on-body injector (OBI) for Neulasta, which is co-packaged with a single-dose prefilled syringe, and in single-dose vials [see Dosage Forms and Strengths (3)].
+Neulasta is supplied in single-dose prefilled syringes for manual use or for use with the on-body injector (OBI) for Neulasta, which is co-packaged with a single-dose prefilled syringe for the OBI, and in single-dose vials [see Dosage Forms and Strengths (3)].
 
 Before using any of the Neulasta presentations:
 
-- Remove the carton from the refrigerator and allow the Neulasta prefilled syringe or vial to reach room temperature, 68°F to 77°F (20°C to 25°C), for a minimum of 30 minutes.
+- Remove the carton from the refrigerator and allow the Neulasta prefilled syringe or vial to reach room temperature, 20°C to 25°C (68°F to 77°F), for a minimum of 30 minutes.
   Do not warm in any other way.
-  Discard any unused prefilled syringe or vial left at room temperature for greater than 48 hours.
+  Discard any prefilled syringe or vial left at room temperature for greater than 48 hours.
 - Neulasta is a clear, colorless, preservative-free solution.
   Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
   Do not administer Neulasta if discoloration or particulates are observed.
@@ -65,7 +65,7 @@ Only healthcare providers should prepare and administer doses from the vials.
 
 Administer Neulasta subcutaneously.
 
-Discard unused portion of Neulasta in single-dose vials.
+Discard unused portion of Neulasta in vials.
 Do not save unused drug for later administration.
 
 ## 2.4 Special Healthcare Provider Instructions for the On-body Injector for Neulasta
@@ -78,14 +78,14 @@ A healthcare provider may initiate administration with the OBI for Neulasta on t
 The prefilled syringe co-packaged in Neulasta Onpro® kit must only be used with the OBI for Neulasta.
 The prefilled syringe contains additional solution to compensate for liquid loss during delivery through the OBI for Neulasta.
 If the prefilled syringe co-packaged in Neulasta Onpro kit is used for manual subcutaneous injection, the patient will receive an overdose.
-If the single-dose prefilled syringe for manual use is used with the OBI for Neulasta, the patient may receive less than the recommended dose.
+If the prefilled syringe for manual use is used with the OBI for Neulasta, the patient may receive less than the recommended dose.
 
 Do not use the OBI for Neulasta to deliver any other drug product except the Neulasta prefilled syringe co-packaged with the OBI for Neulasta.
 
 The OBI for Neulasta should be applied to intact, non-irritated skin on the arm or abdomen.
 
 A missed dose could occur due to an OBI for Neulasta failure or leakage.
-If the patient misses a dose, a new dose should be administered by single-dose prefilled syringe for manual use, as soon as possible after detection.
+If the patient misses a dose, a new dose should be administered by prefilled syringe for manual use, as soon as possible after detection.
 
 Refer to the Healthcare Provider Instructions for Use for the OBI for Neulasta for full administration information.
 

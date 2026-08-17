@@ -14,7 +14,7 @@ The following clinically significant adverse reactions are discussed in greater 
 - Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.10)]
 - Myelodysplastic syndrome [see Warnings and Precautions (5.11)]
 - Acute myeloid leukemia [see Warnings and Precautions (5.11)]
-- Aortitis [see Warnings and Precautions (5.13)]
+- Large and Medium Vessel Arteritis [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -47,7 +47,7 @@ Leukocytosis
 In clinical studies, leukocytosis (WBC counts > 100 × 109/L) was observed in less than 1% of 932 patients with non-myeloid malignancies receiving Neulasta.
 No complications attributable to leukocytosis were reported in clinical studies.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of Neulasta.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -65,5 +65,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Application site reactions (including events such as application site hemorrhage, application site pain, application site discomfort, application site bruise, and application site erythema) have been reported with the use of the on-body injector for Neulasta.
 - Contact dermatitis and local skin reactions such as rash, pruritus, and urticaria have been reported with the use of the on-body injector for Neulasta, possibly indicating a hypersensitivity reaction to the adhesive.
 - Myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer receiving chemotherapy and/or radiotherapy [see Warnings and Precautions (5.11)]
-- Aortitis [see Warnings and Precautions (5.13)]
+- Large and medium vessel arteritis, including aortitis [see Warnings and Precautions (5.13)]
 - Alveolar hemorrhage

@@ -25,41 +25,38 @@ Carton Contents (intended to be dispensed as a unit):
 - 1 sterile On-body Injector for Neulasta
 - 1 Neulasta prefilled syringe labeled for use with on-body injector only
 - 1 patient instructions for use
-- 1 healthcare provider instructions for use, 1 package insert
+- 1 healthcare provider instructions for use, 1 Prescribing Information
 
-This Product Contains Dry Natural Rubber Store at 2° to 8°C (36° to 46°F).
+This Product Contains Dry Natural Rubber Store kit refrigerated at 2°C to 8°C (36°F to 46°F) in the original carton to protect from light.
 Do Not Freeze or Shake.
-Keep in Carton to Protect from Light.
 
-See package insert for full prescribing information and Instructions for Use
+See full Prescribing Information and Instructions for Use
 
 Rx Only
 
-Principal Display Panel
+LearnOnpro.com
+
+# PRINCIPAL DISPLAY PANEL - 0.6 mL Single Dose Prefilled Syringe
 
 NDC 55513-190-01
 
-1 - 0.6 mL Single Dose Prefilled Syringe
+1 – 0.6 mL Single Dose Prefilled Syringe
 
-AMGEN®
+AMGEN
 
-Neulasta ®
+Neulasta® (pegfilgrastim) injection
 
-(pegfilgrastim) injection
+Pegylated Recombinant Methionyl Human Granulocyte Colony-Stimulating Factor (PEG-r-metHuG-CSF) derived from E Coli
 
-Pegylated Recombinant Methionyl Human Granulocyte Colony-Stimulating Factor
+6 mg/ 0.6 mL
 
-(PEG-r-metHuG-CSF) derived from E Coli
-
-6 mg
-
-6 mg in 0.6 mL Single Dose Prefilled Syringe
+6 mg/0.6 mL Single Dose Prefilled Syringe
 
 For Subcutaneous Use Only
 
 This Product Contains Dry Natural Rubber
 
-Sterile Solution – No Preservative
+Sterile Solution - No Preservative
 
 Rx Only
 

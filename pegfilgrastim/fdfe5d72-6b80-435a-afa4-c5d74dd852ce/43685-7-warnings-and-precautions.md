@@ -69,13 +69,13 @@ Missed or partial doses have been reported in patients receiving Neulasta via th
 In the event of a missed or partial dose, patients may be at increased risk of events such as neutropenia, febrile neutropenia and/or infection than if the dose had been correctly delivered.
 Instruct patients using the OBI to notify their healthcare professional immediately in order to determine the need for a replacement dose of Neulasta if they suspect that the device may not have performed as intended.
 
-## 5.13 Aortitis
+## 5.13 Large and Medium Vessel Arteritis
 
-Aortitis has been reported in patients receiving Neulasta.
+Serious large and medium vessel arteritis, including aortitis, has been reported in patients receiving Neulasta.
 It may occur as early as the first week after start of therapy.
-Manifestations may include generalized signs and symptoms such as fever, abdominal pain, malaise, back pain, and increased inflammatory markers (e.g., c-reactive protein and white blood cell count).
-Consider aortitis in patients who develop these signs and symptoms without known etiology.
-Discontinue Neulasta if aortitis is suspected.
+Manifestations may include generalized signs and symptoms such as fever, abdominal pain, malaise, back pain, headache, neck pain, and increased inflammatory markers (e.g., c-reactive protein and white blood cell count).
+Consider arteritis in patients who develop these signs and symptoms without known etiology.
+Consider appropriate clinical management and discontinue Neulasta as needed if arteritis is suspected.
 
 ## 5.14 Nuclear Imaging
 

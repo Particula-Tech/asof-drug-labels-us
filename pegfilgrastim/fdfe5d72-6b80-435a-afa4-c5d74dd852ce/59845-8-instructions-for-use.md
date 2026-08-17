@@ -233,11 +233,12 @@ Before you use a Neulasta prefilled syringe, read this important information.
 
 Storing the prefilled syringe
 
-- Store Neulasta in the refrigerator between 36°F to 46°F (2°C to 8°C).
-- Do not freeze.
+- Store Neulasta in the refrigerator between 36°F and 46°F (2°C to 8°C).
+- Avoid freezing.
+  If Neulasta prefilled syringe is frozen 1 time, thaw in refrigerator before using it.
+  If it is frozen more than 1 time, throw it away and use a new Neulasta prefilled syringe.
 - Keep the prefilled syringe in the original carton to protect from light or physical damage.
-- Take the prefilled syringe out of the refrigerator 30 minutes before use and allow it to reach room temperature,68°F to 77°F (20°C to 25°C), before preparing an injection.
-- Throw away (dispose of) any unused Neulasta that has been left at room temperature, 68°F to 77°F (20°C to 25°C), for more than 48 hours.
+- Throw away (dispose of) a syringe that has been left at room temperature, 68°F to 77°F (20°C to 25°C), for more than 48 hours.
 - Keep the Neulasta prefilled syringe out of the reach of children.
 
 Using the prefilled syringe
@@ -245,7 +246,8 @@ Using the prefilled syringe
 - It is important that you do not try to give the injection unless you or your caregiver has received training from your healthcare provider.
 - Make sure the name Neulasta appears on the carton and prefilled syringe label.
 - Check the carton and prefilled syringe label to make sure the dose strength is 6 mg.
-- You should not inject a dose of Neulasta to children weighing less than 99 pounds (45 kg) from a Neulasta prefilled syringe.
+- Do not inject a dose of Neulasta to children weighing less than 99 pounds (45 kg) from a Neulasta prefilled syringe.
+  A dose less than 0.6 mL (6 mg) cannot be accurately measured using the Neulasta prefilled syringe.
 - Do not use a prefilled syringe after the expiration date on the label.
 - Do not shake the prefilled syringe.
 - Do not remove the gray needle cap from the prefilled syringe until you are ready to inject.
@@ -331,7 +333,7 @@ Let the skin dry.
   Avoid injecting into areas with scars or stretch marks.
 
 E Hold the prefilled syringe by the syringe barrel.
-Carefully pull the gray needle cap straight off and away from the body.
+Carefully pull the gray needle cap straight off and away from your body.
 
 - Do not remove the gray needle cap from the prefilled syringe until you are ready to inject.
 - Do not twist or bend the gray needle cap.
@@ -358,8 +360,8 @@ Call your healthcare provider right away.
 
 Step 4: Finish
 
-| I |  |
-| --- | --- |
+| I |  | Before you finish! |
+| --- | --- | --- |
 
 For your safety, pull the blue safety guard until it clicks and covers the needle.
 
@@ -369,9 +371,9 @@ Keep your hands away from the needle at all times.
 
 J Discard (throw away) the used prefilled syringe.
 
-- Put the used prefilled syringe in a FDA-cleared sharps disposal container right away after use.
+- Put the used prefilled syringe in an FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) the syringe in the household trash.
-- If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+- If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
   - made of a heavy-duty plastic,
   - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
   - upright and stable during use,
@@ -399,8 +401,8 @@ Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S. Lice
 
 Patent: http://pat.amgen.com/onpro/
 
-© 2002-2025 Amgen Inc. All rights reserved.
-1xxxxxx Revised: 08/2025 v4
+© 2002-2026 Amgen Inc. All rights reserved.
+1xxxxxx Revised: 08/2026 v5
 
 # Patient INSTRUCTIONS FOR USE Neulasta® Onpro® (nu-las-tah) (pegfilgrastim) injection Single-Use On-body Injector
 

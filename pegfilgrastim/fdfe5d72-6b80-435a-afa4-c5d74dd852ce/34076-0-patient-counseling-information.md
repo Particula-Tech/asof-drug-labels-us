@@ -11,11 +11,11 @@ Advise patients of the following risks and potential risks with Neulasta:
 - Glomerulonephritis
 - Increased risk of Myelodysplastic Syndrome and/or Acute Myeloid Leukemia in patients with breast and lung cancer who receive Neulasta in conjunction with chemotherapy and/or radiation therapy
 - Capillary Leak Syndrome
-- Aortitis
+- Arteritis, including aortitis
 
 Advise patients acutely exposed to myelosuppressive doses of radiation (Hematopoietic Subsyndrome of Acute Radiation Syndrome) that efficacy studies of Neulasta for this indication could not be conducted in humans for ethical and feasibility reasons and that, therefore, approval of this use was based on efficacy studies conducted in animals [see Clinical Studies (14.2)].
 
-Instruct patients who self-administer Neulasta using the single-dose prefilled syringe of the:
+Instruct patients who self-administer Neulasta using the prefilled syringe of the:
 
 - Importance of following the Instructions for Use.
 - Dangers of reusing syringes.
@@ -36,7 +36,7 @@ Advise patients on the use of the on-body injector (OBI) for Neulasta:
   - to call their healthcare provider immediately if the status light on the OBI for Neulasta is flashing red (see the Patient Instructions for Use).
   - to inform their healthcare provider if the adhesive on the OBI for Neulasta becomes saturated with fluid, or there is dripping, as this may be evidence of significant product leakage, resulting in inadequate or missed dose (see the Patient Instructions for Use).
   - to keep the OBI for Neulasta dry for approximately the last 3 hours prior to the dose delivery start to better enable potential leak detection.
-  - that the OBI for Neulasta should only be exposed to temperatures between 41°F and 104°F (5°C to40°C).
+  - that the OBI for Neulasta should only be exposed to temperatures between 5°C to 40°C (41°F and 104°F).
   - to keep the OBI for Neulasta at least 4 inches away from electrical equipment such as cell phones, cordless telephones, microwaves, and other common appliances.
     Failure to keep the OBI for Neulasta at least this recommended distance may interfere with operation and can lead to a missed or incomplete dose of Neulasta.
   - that if the needle is exposed after OBI for Neulasta removal, place the used OBI for Neulasta in a sharps disposal container to avoid accidental needle stick and call their healthcare provider immediately.
