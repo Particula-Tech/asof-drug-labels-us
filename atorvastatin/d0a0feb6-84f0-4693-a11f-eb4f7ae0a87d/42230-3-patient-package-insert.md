@@ -14,16 +14,12 @@
 | Talk to your healthcare provider or pharmacist if you have side effects that bother you or that will not go away.These are not all the side effects of atorvastatin calcium tablets. Call your healthcare provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |
 | How do I store atorvastatin calcium tablets? •Store atorvastatin calcium tablets at room temperature between 68°F to 77°F (20°C to 25°C).•Do not keep medicine that is out of date or that you no longer need.•Keep atorvastatin calcium tablets and all medicines out of the reach of children. |  |  |
 | General information about the safe and effective use of atorvastatin calcium tablets.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use atorvastatin calcium tablets for a condition for which they were not prescribed. Do not give atorvastatin calcium tablets to other people, even if they have the same symptoms that you have. They may harm them. If you would like more information about atorvastatin calcium tablets, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about atorvastatin calcium tablets that is written for health professionals. |  |  |
-| What are the ingredients in atorvastatin calcium tablets?Active Ingredient: atorvastatin calciumInactive Ingredients: anhydrous lactose, anhydrous sodium carbonate, colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, L-Arginine, magnesium stearate and microcrystalline cellulose. The film coating of the tablets contains polyvinyl alcohol, talc and titanium dioxide, and may contain polyethylene glycol or lecithin and xanthan gum.Manufactured for: Mylan Pharmaceuticals Inc., Morgantown, WV 26505 U.S.A.Manufactured by: Mylan Laboratories Limited, Hyderabad – 500 096, IndiaFor more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX). |  |  |
+| What are the ingredients in atorvastatin calcium tablets?Active Ingredient: atorvastatin calciumInactive Ingredients: anhydrous lactose, anhydrous sodium carbonate, colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, L-Arginine, magnesium stearate and microcrystalline cellulose. The film coating of the tablets contains polyvinyl alcohol, talc and titanium dioxide, and may contain polyethylene glycol or lecithin and xanthan gum. Distributed by: Mylan Pharmaceuticals Inc., a Viatris CompanyMorgantown, WV 26505 U.S.A. For more information, call Viatris at 1-877-446-3679 (1-877-4-INFO-RX). |  |  |
 
 This Patient Package Information has been approved by the U.S. Food and Drug Administration
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75103681
-
-Revised: 4/2024
-
-MX:ATOR:R19p/MX:PL:ATOR:R12p
+Revised: 6/2026 MX:ATOR:R20p/MX:PL:ATOR:R13p

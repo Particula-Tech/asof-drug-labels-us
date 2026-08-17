@@ -13,15 +13,15 @@ Usual Dosage: See accompanying prescribing information.
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
+[See USP Controlled RoomTemperature.]
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-Mylan.com
+Viatris.com
 
-RMX3950MM3
+RMX3950MM4
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -44,15 +44,15 @@ Usual Dosage: See accompanying prescribing information.
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
+[See USP Controlled RoomTemperature.]
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-Mylan.com
+Viatris.com
 
-RMX3951MM4
+RMX3951MM5
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -75,15 +75,15 @@ Usual Dosage: See accompanying prescribing information.
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
+[See USP Controlled RoomTemperature.]
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-Mylan.com
+Viatris.com
 
-RMX3952MM3
+RMX3952MM4
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -106,15 +106,15 @@ Usual Dosage: See accompanying prescribing information.
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
+[See USP Controlled RoomTemperature.]
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-Mylan.com
+Viatris.com
 
-RMX3953MM3
+RMX3953MM4
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
