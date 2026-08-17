@@ -33,10 +33,10 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 
 Manufactured for:
 
-Hikma Pharmaceuticals USA, Inc.
+Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
 Made in Switzerland
 
-L130USTZV01
+L130USTZV03
