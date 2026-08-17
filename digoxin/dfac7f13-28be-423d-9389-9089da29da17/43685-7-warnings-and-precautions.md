@@ -64,3 +64,8 @@ Hypothyroidism may reduce the requirements for digoxin.
 Heart failure and/or atrial arrhythmias resulting from hypermetabolic or hyperdynamic states (e.g., hyperthyroidism, hypoxia, or arteriovenous shunt) are best treated by addressing the underlying condition.
 Atrial arrhythmias associated with hypermetabolic states are particularly resistant to digoxin treatment.
 Patients with beri beri heart disease may fail to respond adequately to digoxin if the underlying thiamine deficiency is not treated concomitantly.
+
+## 5.10 Risk of Allergic Reactions Due to Tartrazine
+
+This product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons.
+Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
