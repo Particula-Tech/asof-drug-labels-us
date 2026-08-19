@@ -13,7 +13,7 @@ Under the conditions of the assays, dasatinib could overcome imatinib resistance
 
 Cardiac Electrophysiology
 
-Of 2440 patients treated with dasatinib at all doses tested in clinical trials, 16 patients (<1%) had QTc prolongation reported as an adverse reaction.
+Of 2,440 patients treated with dasatinib at all doses tested in clinical trials, 16 patients (<1%) had QTc prolongation reported as an adverse reaction.
 Twenty-two patients (1%) experienced a QTcF > 500 ms. In 865 patients with leukemia treated with dasatinib 70 mg BID in five Phase 2 studies, the maximum mean changes in QTcF (90% upper bound CI) from baseline ranged from 7 ms to 13.4 ms.
 
 An analysis of the data from five Phase 2 studies in patients (70 mg BID) and a Phase 1 study in healthy subjects (100 mg single dose) suggests that there is a maximum increase of 3 to 6 milliseconds in Fridericia corrected QTc interval from baseline for subjects receiving therapeutic doses of dasatinib, with associated upper 95% confidence intervals <10 msec.
@@ -38,7 +38,7 @@ The calories derived from fat, carbohydrates, and protein were 52%, 34%, and 14%
 
 Distribution
 
-The apparent volume of distribution is 2505 L (CV% 93%).
+The apparent volume of distribution is 2,505 L (CV% 93%).
 
 Binding of dasatinib to human plasma proteins in vitro was approximately 96% and of its active metabolite was 93%, with no concentration dependence over the range of 100 ng/mL to 500 ng/mL.
 
@@ -67,7 +67,16 @@ Unchanged dasatinib accounted for 0.1% of the administered dose in the urine and
 
 Specific Populations
 
-Age, sex, and renal impairment (creatinine clearance 21.6 mL/min to 342.3 mL/min as estimated by Cockcroft Gault) have no clinically relevant effect on the pharmacokinetics of dasatinib.
+Age (15 to 86 years old), sex, and renal impairment (creatinine clearance 21.6 mL/min to 342.3 mL/min as estimated by Cockcroft Gault) have no clinically relevant effect on the pharmacokinetics of dasatinib.
+
+Pediatric Patients The pharmacokinetics of dasatinib were evaluated in 43 pediatric patients with leukemia or solid tumors at oral doses ranging from 60 mg/m2 to 120 mg/m2 oncedaily, taken with or without food.
+The pharmacokinetics showed dose proportionality with a dose-related increase in exposure.
+The mean Tmax was observed between 0.5 hours and 6 hours and the mean half-life was 2 hours to 5 hours.
+The geometric mean (CV%) of body weight normalized clearance in these 43 pediatric patients is 5.98 (41.5%) L/h/kg.
+In pediatric patients with a dosing regimen of 60 mg/m2, the model simulated geometric mean (CV%) steady-state plasma average concentrations of dasatinib were 14.7 (64.6%) ng/mL (for 2 to <6 years old), 16.3 (97.5%) ng/mL (for 6 to <12 years old), and 18.2 (67.7%) ng/mL (for 12 years and older) [see Dosage and Administration (2.2)].
+Dasatinib clearance and volume of distribution change with body weight in pediatric patients.
+Dasatinib has not been studied in patients < 1 year old.
+The bioavailability of dispersed tablets in pediatric patients was estimated to be 36% lower than that of intact tablets.
 
 Patients with Hepatic Impairment
 
@@ -99,5 +108,3 @@ The administration of a single 100 mg dose of dasatinib 22 hours following a 40 
 Transporters
 
 Dasatinib is not an inhibitor of P-gp in vitro.
-Pediatric use information is approved for Bristol-Myers Squibb Company’s Sprycel (dasatinib) tablets.
-However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

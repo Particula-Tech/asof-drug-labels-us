@@ -17,28 +17,36 @@ The following clinically significant adverse reactions are discussed in greater 
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect exposure to dasatinib administered as single-agent therapy at all doses tested in clinical studies, including 324 adult patients with newly diagnosed chronic phase CML, and 2388 adult patients with imatinib-resistant or -intolerant chronic or advanced phase CML or Ph+ ALL.
-The median duration of therapy in a total of 2712 adult patients was 19.2 months (range 0 to 93.2 months).
+The data described below reflect exposure to dasatinib administered as single-agent therapy at all doses tested in clinical studies (n=2,809), including 324 adult patients with newly diagnosed chronic phase CML, 2,388 adult patients with imatinib-resistant or -intolerant chronic or advanced phase CML or Ph+ ALL, and 97 pediatric patients with chronic phase CML.
+The median duration of therapy in a total of 2,712 adult patients was 19.2 months (range 0 to 93.2 months).
 In a randomized trial in patients with newly diagnosed chronic phase CML, the median duration of therapy was approximately 60 months.
-The median duration of therapy in 1618 adult patients with chronic phase CML was 29 months (range 0 to 92.9 months).
+The median duration of therapy in 1,618 adult patients with chronic phase CML was 29 months (range 0 to 92.9 months).
 
-The median duration of therapy in 1094 adult patients with advanced phase CML or Ph+ ALL was 6.2 months (range 0 to 93.2 months).
+The median duration of therapy in 1,094 adult patients with advanced phase CML or Ph+ ALL was 6.2 months (range 0 to 93.2 months).
 
-In the overall population of 2712 adult patients, 88% of patients experienced adverse reactions at some time and 19% experienced adverse reactions leading to treatment discontinuation.
+In two non-randomized trials in 97 pediatric patients with chronic phase CML (51 patients newly diagnosed and 46 patients resistant or intolerant to previous treatment with imatinib), the median duration of therapy was 51.1 months (range 1.9 to 99.6 months).
+
+In the overall population of 2,712 adult patients, 88% of patients experienced adverse reactions at some time and 19% experienced adverse reactions leading to treatment discontinuation.
 
 In the randomized trial in adult patients with newly diagnosed chronic phase CML, drug was discontinued for adverse reactions in 16% of patients with a minimum of 60 months of follow-up.
 After a minimum of 60 months of follow-up, the cumulative discontinuation rate was 39%.
-Among the 1618 patients with chronic phase CML, drug-related adverse reactions leading to discontinuation were reported in 329 (20.3%) patients; among the 1094 patients with advanced phase CML or Ph+ ALL, drug-related adverse reactions leading to discontinuation were reported in 191 (17.5%) patients.
+Among the 1,618 patients with chronic phase CML, drug-related adverse reactions leading to discontinuation were reported in 329 (20.3%) patients; among the 1,094 patients with advanced phase CML or Ph+ ALL, drug-related adverse reactions leading to discontinuation were reported in 191 (17.5%) patients.
+
+Among the 97 pediatric subjects, drug-related adverse reactions leading to discontinuation were reported in 1 patient (1%).
 
 Adverse reactions reported in ≥10% of adult patients, and other adverse reactions of interest, in a randomized trial in patients with newly diagnosed chronic phase CML at a median follow-up of approximately 60 months are presented in Table 6.
 
 Adverse reactions reported in ≥10% of adult patients treated at the recommended dose of 100 mg once daily (n=165), and other adverse reactions of interest, in a randomized dose-optimization trial of patients with chronic phase CML resistant or intolerant to prior imatinib therapy at a median follow-up of approximately 84 months are presented in Table 8.
+
+Adverse reactions reported in ≥10% of pediatric patients at a median follow-up of approximately 51.1 months are presented in Table 11.
 
 Drug-related serious adverse reactions (SARs) were reported for 16.7% of adult patients in the randomized trial of patients with newly diagnosed chronic phase CML.
 Serious adverse reactions reported in ≥5% of patients included pleural effusion (5%).
 
 Drug-related SARs were reported for 26.1% of patients treated at the recommended dose of 100 mg once daily in the randomized dose-optimization trial of adult patients with chronic phase CML resistant or intolerant to prior imatinib therapy.
 Serious adverse reactions reported in ≥5% of patients included pleural effusion (10%).
+
+Drug-related SARs were reported for 14.4% of pediatric patients.
 
 Chronic Myeloid Leukemia (CML)
 
@@ -183,6 +191,21 @@ Table 10: Adverse Reactions Reported in ≥10% of Adult Patients with Advanced P
 | Febrile neutropenia | 4 | 4 | 12 | 12 | 12 | 12 |
 | a Includes ventricular dysfunction, cardiac failure, cardiac failure congestive, cardiomyopathy, congestive cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and ventricular failure. b Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, generalized erythema, genital rash, heat rash, milia, rash, rash erythematous, rash follicular, rash generalized, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, skin exfoliation, skin irritation, urticaria vesiculosa, and rash vesicular. |  |  |  |  |  |  |
 
+Table 11: Adverse Reactions Reported in ≥10% of Dasatinib-Treated Pediatric Patients with Chronic Phase CML (n=97)
+
+| Adverse Reaction | All Grades | Grade 3/4 |
+| --- | --- | --- |
+| Percent (%) of Patients |  |  |
+| Headache | 28 | 3 |
+| Nausea | 20 | 0 |
+| Diarrhea | 21 | 0 |
+| Skin rash | 19 | 0 |
+| Vomiting | 13 | 0 |
+| Pain in extremity | 19 | 1 |
+| Abdominal pain | 16 | 0 |
+| Fatigue | 10 | 0 |
+| Arthralgia | 10 | 1 |
+
 Adverse reactions associated with bone growth and development were reported in 5 (5.2%) of pediatric patients with chronic phase CML [see Warnings and Precautions (5.10)].
 Laboratory Abnormalities
 
@@ -246,6 +269,8 @@ CTC grades: neutropenia (Grade 3 ≥0.5 to <1.0 × 109/L, Grade 4 <0.5 × 109/L)
 
 Among adult patients with chronic phase CML with resistance or intolerance to prior imatinib therapy, cumulative Grade 3 or 4 cytopenias were similar at 2 and 5 years including: neutropenia (36% vs 36%), thrombocytopenia (23% vs 24%), and anemia (13% vs 13%).
 
+In the pediatric studies in CML, the rates of laboratory abnormalities were consistent with the known profile for laboratory parameters in adults.
+
 Philadelphia Chromosome-Positive Acute Lymphoblastic Leukemia (Ph+ ALL) in Adults
 
 A total of 135 adult patients with Ph+ ALL were treated with dasatinib in clinical studies.
@@ -255,7 +280,87 @@ The most frequently reported adverse reactions included fluid retention events, 
 Hemorrhage (19%), pyrexia (17%), rash (16%), and dyspnea (16%) were also frequently reported.
 Serious adverse reactions reported in ≥5% of patients included pleural effusion (11%), gastrointestinal bleeding (7%), febrile neutropenia (6%), and infection (5%).
 
-Additional Pooled Data from Clinical Trials The following additional adverse reactions were reported in adult patients in dasatinib CML clinical studies and adult patients in Ph+ ALL clinical studies at a frequency of ≥10%, 1% to <10%, 0.1% to <1%, or <0.1%.
+Philadelphia Chromosome-Positive Acute Lymphoblastic Leukemia (Ph+ ALL) in Pediatric Patients
+
+The safety of dasatinib administered continuously in combination with multiagent chemotherapy was determined in a multicohort study of 81 pediatric patients with newly diagnosed Ph+ ALL.
+[see Clinical Studies (14.4)].
+The median duration of therapy was 24 months (range 2 to 27 months).
+
+Fatal adverse reactions occurred in 3 patients (4%), all of which were due to infections.
+Eight (10%) patients experienced adverse reactions leading to treatment discontinuation, including fungal sepsis, hepatotoxicity in the setting of graft versus host disease, thrombocytopenia, CMV infection, pneumonia, nausea, enteritis and drug hypersensitivity.
+
+The most common serious adverse reactions (incidence ≥10%) were pyrexia, febrile neutropenia, mucositis, diarrhea, sepsis, hypotension, infections (bacterial, viral and fungal), hypersensitivity, vomiting, renal insufficiency, abdominal pain, and musculoskeletal pain.
+
+The incidence of common adverse reactions (incidence ≥20%) on study are shown in Table 14:
+
+Table 14: Adverse Reactions Reported in ≥20% of Pediatric Patients with Ph+ ALL Treated with Dasatinib in Combination with Chemotherapy CA180372 (N=81)
+
+| Adverse Reaction | All Grades | Grade 3/4 |
+| --- | --- | --- |
+|  | Percent (%) of Patients |  |
+| Mucositis | 93 | 60 |
+| Febrile neutropenia | 86 | 86 |
+| Pyrexia | 85 | 17 |
+| Diarrhea | 84 | 31 |
+| Nausea | 84 | 11 |
+| Vomiting | 83 | 17 |
+| Musculoskeletal pain | 83 | 25 |
+| Abdominal pain | 78 | 17 |
+| Cough | 78 | 1 |
+| Headache | 77 | 15 |
+| Rash | 68 | 7 |
+| Fatigue | 59 | 3 |
+| Constipation | 57 | 1 |
+| Arrhythmia | 47 | 12 |
+| Hypertension | 47 | 10 |
+| Edema | 47 | 6 |
+| Viral infection | 40 | 12 |
+| Hypotension | 40 | 26 |
+| Decreased appetite | 38 | 22 |
+| Hypersensitivity | 36 | 20 |
+| Upper respiratory tract infection | 36 | 10 |
+| Dyspnea | 35 | 10 |
+| Epistaxis | 31 | 6 |
+| Peripheral neuropathy | 31 | 7 |
+| Sepsis (excluding fungal) | n/a | 31 |
+| Altered state of consciousness | 30 | 4 |
+| Fungal infection | 30 | 11 |
+| Pneumonia (excluding fungal) | 28 | 25 |
+| Pruritus | 28 | - |
+| Clostridial infection (excluding sepsis) | 25 | 14 |
+| Urinary Tract Infection | 24 | 14 |
+| Bacteremia (excluding fungal) | 22 | 20 |
+| Erythema | 22 | 6 |
+| Chills | 21 | - |
+| Pleural effusion | 21 | 9 |
+| Sinusitis | 21 | 10 |
+| Dehydration | 20 | 9 |
+| Renal insufficiency | 20 | 9 |
+| Visual impairment | 20 | - |
+
+The incidence of common adverse reactions attributed by the investigator to dasatinib (reported at a frequency of ≥10%, all grades and grade 3/4, respectively) on study (N=81), included febrile neutropenia (23%, 23%), nausea (21%, 4%), vomiting (19%, 4%), mucositis (17%, 6%), musculoskeletal pain (17%, 2%), abdominal pain (16%, 5%), diarrhea (16%, 7%), rash (15%, 0%), fatigue (12%, 0%), pyrexia (12%, 6%), and headache (12%, 5%).
+
+CTCAE grade 3/4 laboratory abnormalities in pediatric patients with Ph+ ALL treated with dasatinib in combination with chemotherapy are shown in Table 15.
+
+Table 15: CTCAE Grade 3/4 Laboratory Abnormalities in ≥10% of Pediatric Patients with Ph+ ALL Treated with Dasatinib in Combination with Chemotherapy CA180372 (N=81)
+
+|  | Percent (%) of Patients |
+| --- | --- |
+| Hematology Parameters |  |
+| Neutropenia | 96 |
+| Thrombocytopenia | 88 |
+| Anemia | 82 |
+| Biochemistry Parameters |  |
+| Elevated SGPT (ALT) | 47 |
+| Hypokalemia | 40 |
+| Elevated SGOT (AST) | 26 |
+| Hypocalcemia | 19 |
+| Hyponatremia | 19 |
+| Elevated Bilirubin | 11 |
+| Hypophosphatemia | 11 |
+| Toxicity grading is per CTCAE version 4. |  |
+
+Additional Pooled Data from Clinical Trials The following additional adverse reactions were reported in adult and pediatric patients (n=2,809) in dasatinib CML clinical studies and adult patients in Ph+ ALL clinical studies at a frequency of ≥10%, 1% to <10%, 0.1% to <1%, or <0.1%.
 These adverse reactions are included based on clinical relevance.
 
 Gastrointestinal Disorders: 1% to <10% – mucosal inflammation (including mucositis/stomatitis), dyspepsia, abdominal distension, constipation, gastritis, colitis (including neutropenic colitis), oral soft tissue disorder; 0.1% to <1% – ascites, dysphagia, anal fissure, upper gastrointestinal ulcer, esophagitis, pancreatitis, gastroesophageal reflux disease; <0.1% – protein losing gastroenteropathy, ileus, acute pancreatitis, anal fistula.
@@ -266,7 +371,7 @@ Skin and Subcutaneous Tissue Disorders: 1% to <10% – alopecia, acne, dry skin,
 
 Respiratory, Thoracic, and Mediastinal Disorders: 1% to <10% – lung infiltration, pneumonitis, cough; 0.1% to <1% – asthma, bronchospasm, dysphonia, pulmonary arterial hypertension; <0.1% – acute respiratory distress syndrome, pulmonary embolism.
 
-Nervous System Disorders: 1% to <10%– neuropathy (including peripheral neuropathy), dizziness, dysgeusia, somnolence; 0.1% to <1% – amnesia, tremor, syncope, balance disorder; <0.1% – convulsion, cerebrovascular accident, transient ischemic attack, optic neuritis, VIIth nerve paralysis, dementia, ataxia.
+Nervous System Disorders: 1% to 10% – neuropathy (including peripheral neuropathy), dizziness, dysgeusia, somnolence; 0.1% to <1% – amnesia, tremor, syncope, balance disorder; <0.1% – convulsion, cerebrovascular accident, transient ischemic attack, optic neuritis, VIIth nerve paralysis, dementia, ataxia.
 
 Blood and Lymphatic System Disorders: 0.1% to <1% – lymphadenopathy, lymphopenia; <0.1% – aplasia pure red cell.
 
@@ -301,8 +406,6 @@ Renal and Urinary Disorders: 0.1% to <1% – urinary frequency, renal failure, p
 Immune System Disorders: 0.1% to <1% – hypersensitivity (including erythema nodosum).
 
 Endocrine Disorders: 0.1% to <1% – hypothyroidism; <0.1% – hyperthyroidism, thyroiditis.
-Pediatric use information is approved for Bristol-Myers Squibb Company’s Sprycel (dasatinib) tablets.
-However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Postmarketing Experience
 

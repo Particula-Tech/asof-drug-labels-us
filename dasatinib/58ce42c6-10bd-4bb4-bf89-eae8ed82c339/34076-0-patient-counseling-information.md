@@ -18,7 +18,7 @@ Inform patients to immediately report and seek medical attention for any symptom
 Growth and Development in Pediatric Patients Inform pediatric patients and their caregivers of the possibility of developing bone growth abnormalities, bone pain, or gynecomastia and advise them to seek medical attention promptly if those symptoms arise [see Warnings and Precautions (5.10)].
 Embryo-Fetal Toxicity
 
-- Advise pregnant women of the potential risk to a fetus [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
+- Advise pregnant women of the potential risk to a fetus [seeWarnings and Precautions (5.9) and Use in Specific Populations (8.1)].
 - Advise females of reproductive potential and males with female partners of reproductive potential to use effective contraception during treatment with dasatinib and for 30 days after the last dose.
   Advise females to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, while taking dasatinib [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1, 8.3)].
 

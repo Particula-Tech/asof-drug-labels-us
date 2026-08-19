@@ -131,5 +131,67 @@ In patients with myeloid blast phase CML, the median duration of MaHR was 8.1 mo
 In patients with lymphoid blast phase CML, the median duration of MaHR was 4.7 months (min-max: 3.0 to 9.0) and 7.9 months (min-max: 1.6 to 22.1) for the 140 mg once-daily group and the 70 mg twice-daily group, respectively.
 In patients with Ph+ ALL who were treated with dasatinib 140 mg once-daily, the median duration of MaHR was 4.6 months (min-max: 1.4 to 10.2).
 The medians of progression-free survival for patients with Ph+ ALL treated with dasatinib 140 mg once-daily and 70 mg twice-daily were 4.0 months (min-max: 0.4 to 11.1) and 3.1 months (min-max: 0.3 to 20.8), respectively.
-Pediatric use information is approved for Bristol-Myers Squibb Company’s Sprycel (dasatinib) tablets.
-However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+## 14.3 CML in Pediatric Patients
+
+The efficacy of dasatinib in pediatric patients was evaluated in two pediatric studies of 97 patients with chronic phase CML.
+Among 97 patients with chronic phase CML treated in two pediatric studies, an open-label, non-randomized dose-ranging trial (NCT00306202) and an openlabel, non-randomized, single-arm trial (NCT00777036), 51 patients (exclusively from the singlearm trial) had newly diagnosed chronic phase CML and 46 patients (17 from the dose-ranging trial and 29 from the single-arm trial) were resistant or intolerant to previous treatment with imatinib.
+Ninety-one of the 97 pediatric patients were treated with dasatinib tablets 60 mg/m2 once daily (maximum dose of 100 mg once daily for patients with high BSA).
+Patients were treated until disease progression or unacceptable toxicity.
+
+Baseline demographic characteristics of the 46 imatinib resistant or intolerant patients were: median age 13.5 years (range 2 to 20 years), 78.3% White, 15.2% Asian, 4.4% Black, 2.2% other, and 52% female.
+Baseline characteristics of the 51 newly diagnosed patients were: median age 12.8 years (range 1.9 to 17.8 years), 60.8% White, 31.4% Asian, 5.9% Black, 2% Other, and 49% female.
+
+Median duration of follow-up was 5.2 years (range 0.5 to 9.3 years) for the imatinib resistant or intolerant patients and 4.5 years (range 1.3 to 6.4 years) for the newly diagnosed patients, respectively.
+Efficacy results for the two pediatric studies are summarized in Table 20.
+
+Table 20 shows increasing trend for response for CCyR, MCyR, and MMR across time (3 months to 24 months).
+The increasing trend in response for all three endpoints is seen in both the newly diagnosed and imatinib resistant or intolerant patients.
+
+Table 20: Efficacy of Dasatinib in Pediatric Patients with CP-CML Cumulative Response Over Time by Minimum Follow-Up Period
+
+|  | 3 months | 6 months | 12 months | 24 months |
+| --- | --- | --- | --- | --- |
+| CCyR |  |  |  |  |
+| (95% CI) |  |  |  |  |
+| Newly diagnosed (N = 51)a | 43.1% (29.3, 57.8) | 66.7% (52.1, 79.2) | 96.1% (86.5, 99.5) | 96.1% (86.5, 99.5) |
+| Prior imatinib (N = 46)b | 45.7% (30.9, 61.0) | 71.7% (56.5, 84.0) | 78.3% (63.6, 89.1) | 82.6% (68.6, 92.2) |
+| MCyR |  |  |  |  |
+| (95% CI) |  |  |  |  |
+| Newly diagnosed (N = 51)a | 60.8% (46.1, 74.2) | 90.2% (78.6, 96.7) | 98.0% (89.6, 100) | 98.0% (89.6, 100) |
+| Prior imatinib (N = 46)b | 60.9% (45.4, 74.9) | 82.6% (68.6, 92.2) | 89.1% (76.4, 96.4) | 89.1% (76.4, 96.4) |
+| MMR |  |  |  |  |
+| (95% CI) |  |  |  |  |
+| Newly diagnosed (N = 51)a | 7.8% (2.2, 18.9) | 31.4% (19.1, 45.9) | 56.9% (42.2, 70.7) | 74.5% (60.4, 85.7) |
+| Prior imatinib (N = 46)b | 15.2% (6.3, 28.9) | 26.1% (14.3, 41.1) | 39.1% (25.1, 54.6) | 52.2% (36.9, 67.1) |
+| a Patients from pediatric study of newly diagnosed CP-CML receiving oral tablet formulation b Patients from pediatric studies of imatinib-resistant or -intolerant CP-CML receiving oral tablet formulation |  |  |  |  |
+
+With a median follow-up of 4.5 years in newly diagnosed patients, the median durations of CCyR, MCyR, MMR could not be estimated as more than half of the responding patients had not progressed at the time of data cut-off.
+Range of duration of response was (2.5+ to 66.5+ months for CCyR), (1.4 to 66.5+ months for MCyR), and (5.4+ to 72.5+ months for subjects who achieved MMR by month 24 and 0.03+ to 72.5+ months for subjects who achieved MMR at any time), where ‘+’ indicates a censored observation.
+
+With a median follow-up of 5.2 years in imatinib-resistant or - intolerant patients, the median durations of CCyR, MCyR, and MMR could not be estimated as more than half the responding patients had not progressed at the time of data cut-off.
+Range of duration of response was (2.4 to 86.9+ months for CCyR), (2.4 to 86.9+ months for MCyR), and (2.6+ to 73.6+ months for MMR), where ‘+’ indicates a censored observation.
+
+The median time to response for MCyR was 2.9 months (95% CI: 2.8 months, 3.5 months) in the pooled imatinib-resistant/intolerant CP-CML patients.
+The median time to response for CCyR was 3.3 months (95% CI: 2.8 months, 4.7 months) in the pooled imatinib-resistant/intolerant CP-CML patients.
+The median time to response for MMR was 8.3 months (95% CI: 5.0 months, 11.8 months) in the pooled imatinib- resistant/intolerant CP-CML patients.
+The median time to response for MCyR was 3.0 months (95% CI: 2.8 months, 4.3 months) in the newly diagnosed treatment-naïve CP-CML patients.
+
+The median time to response for CCyR was 5.5 months (95% CI: 3.0 months, 5.7 months) in the newly diagnosed treatment-naïve CP-CML patients.
+The median time to response for MMR was 8.9 months (95% CI: 6.2 months, 11.7 months) in the newly diagnosed treatment-naïve CP-CML patients.
+
+In the Phase II pediatric study, 1 newly diagnosed patient and 2 imatinib-resistant or –intolerant patients progressed to blast phase CML.
+
+## 14.4 Ph+ ALL in Pediatric Patients
+
+The efficacy of dasatinib in combination with chemotherapy was evaluated in a single cohort (cohort 1) of Study CA180372 (NCT01460160), a multicenter, multiple-cohort study of pediatric patients with newly diagnosed B-cell precursor Ph+ ALL.
+The 78 patients in cohort 1 received dasatinib at a daily dose of 60 mg/m2 for up to 24 months, in combination with chemotherapy.
+The backbone chemotherapy regimen was the AIEOP-BFM ALL 2000 multi-agent chemotherapy protocol.
+
+Patients had a median age of 10.4 years (range 2.6 to 17.9 years) and included 20 patients (25%) 2 to 6 years of age, 37 patients (46%) 7 to 12 years of age, and 24 patients (30%) 13 to 17 years of age.
+Eighty-two percent of patients were white, and 55% were male.
+Thirty-two patients (41%) had a white blood cell count (WBC) of ≥50,000 mcl at diagnosis, and 17 patients (22%) had extramedullary disease.
+
+Efficacy was established on the basis of 3-year event-free survival (EFS), defined as the time from the start of dasatinib to lack of complete response at the end of the third high risk block, relapse, secondary malignancy, or death from any cause.
+The 3-year EFS binary rate for patients on Study CA180372 was 64.1% (95% CI: 52.4, 74.7).
+At the end of induction, 75 patients (96%) had a bone marrow with <5% lymphoblasts, and 76 patients (97%) achieved this by the end of consolidation.

@@ -59,10 +59,28 @@ Based on animal data, dasatinib may result in damage to female and male reproduc
 
 ## 8.4 Pediatric Use
 
+Ph+ CML in Chronic Phase
+
+The safety and effectiveness of dasatinib monotherapy have been demonstrated in pediatric patients with newly diagnosed chronic phase CML [see Clinical Studies (14.3)].
+There are no data in children under 1 year of age.
+Adverse reactions associated with bone growth and development were reported in 5 (5.2%) of patients [see Warnings and Precautions (5.10)].
+
+Ph+ ALL
+
+The safety and effectiveness of dasatinib in combination with chemotherapy have been demonstrated in pediatric patients one year and over with newly diagnosed Ph+ ALL.
+Use of dasatinib in pediatric patients is supported by evidence from one pediatric study.
+There are no data in children under 1 year of age.
+One case of grade 1 osteopenia was reported.
+
+The safety profile of dasatinib in pediatric subjects was comparable to that reported in studies in adult subjects [see Adverse Reactions (6.1) and Clinical Studies (14.3, 14.4)].
+
 Monitor bone growth and development in pediatric patients [see Warnings and Precautions (5.10)].
 
-Pediatric use information is approved for Bristol-Myers Squibb Company’s Sprycel (dasatinib) tablets.
-However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Patients with Difficulty Swallowing Tablets
+
+Five patients with Ph+ ALL 2 to 10 years of age received at least one dose of dasatinib tablet dispersed in juice on Study CA180372.
+The exposure for dispersed tablets was 36% lower as compared to intact tablets in pediatric patients [see Clinical Pharmacology (12.3)].
+Due to the limited available clinical data, it is unclear whether dispersing dasatinib tablets significantly alters the safety and/or efficacy of dasatinib.
 
 ## 8.5 Geriatric Use
 

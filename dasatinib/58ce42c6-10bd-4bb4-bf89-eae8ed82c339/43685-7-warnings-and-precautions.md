@@ -7,10 +7,10 @@ Treatment with dasatinib is associated with severe (NCI CTCAE Grade 3 or 4) thro
 In patients with chronic phase CML, perform complete blood counts (CBCs) every 2 weeks for 12 weeks, then every 3 months thereafter, or as clinically indicated.
 In patients with advanced phase CML or Ph+ ALL, perform CBCs weekly for the first 2 months and then monthly thereafter, or as clinically indicated.
 
-Myelosuppression is generally reversible and usually managed by withholding dasatinib temporarily and/or dose reduction [see Dosage and Administration (2.5)].
+In pediatric patients with Ph+ ALL treated with dasatinib in combination with chemotherapy, perform CBCs prior to the start of each block of chemotherapy and as clinically indicated.
+During the consolidation blocks of chemotherapy, perform CBCs every 2 days until recovery.
 
-Pediatric use information is approved for Bristol-Myers Squibb Company’s Sprycel (dasatinib) tablets.
-However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Myelosuppression is generally reversible and usually managed by withholding dasatinib temporarily and/or dose reduction [see Dosage and Administration (2.5)].
 
 ## 5.2 Bleeding-Related Events
 
@@ -30,12 +30,13 @@ Dasatinib may cause fluid retention [see Adverse Reactions (6.1)].
 After 5 years of follow-up in the adult randomized newly diagnosed chronic phase CML study (n=258), Grade 3 or 4 fluid retention was reported in 5% of patients, including 3% of patients with Grade 3 or 4 pleural effusion.
 In adult patients with newly diagnosed or imatinib-resistant or -intolerant chronic phase CML, Grade 3 or 4 fluid retention occurred in 6% of patients treated with dasatinib at the recommended dose (n=548).
 In adult patients with advanced phase CML or Ph+ ALL treated with dasatinib at the recommended dose (n=304), Grade 3 or 4 fluid retention was reported in 8% of patients, including Grade 3 or 4 pleural effusion reported in 7% of patients.
+
+In pediatric patients with chronic phase CML, cases of Grade 1 or 2 fluid retention were reported in 10.3% of patients.
+
 Evaluate patients who develop symptoms of pleural effusion or other fluid retention, such as new or worsened dyspnea on exertion or at rest, pleuritic chest pain, or dry cough, promptly with a chest x-ray or additional diagnostic imaging as appropriate.
 Fluid retention events were typically managed by supportive care measures that may include diuretics or short courses of steroids.
 Severe pleural effusion may require thoracentesis and oxygen therapy.
-Consider dose reduction or treatment interruption [see Dosage and Administration (2.5)].
-Pediatric use information is approved for Bristol-Myers Squibb Company’s Sprycel (dasatinib) tablets.
-However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Consider dose reduction ortreatment interruption [see Dosage and Administration (2.5)].
 
 ## 5.4 Cardiovascular Toxicity
 
