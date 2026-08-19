@@ -18,7 +18,7 @@ Levothyroxine Sodium Tablets Color Additives
 | 75 | FD&C Red No. 40 Aluminum Lake, FD&C Blue No. 2 Aluminum Lake |
 | 88 | FD&C Blue No. 1 Aluminum Lake, FD&C Yellow No. 6 Aluminum Lake*, D&C Yellow No. 10 Aluminum Lake |
 | 100 | D&C Yellow No. 10 Aluminum Lake, FD&C Yellow No. 6 Aluminum Lake* |
-| 112 | D&C Red No. 27 & 30 Aluminum Lake |
+| 112 | D&C Red No. 30 Aluminum Lake |
 | 125 | FD&C Yellow No. 6 Aluminum Lake*, FD&C Red No. 40 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake |
 | 137 | FD&C Blue No. 1 Aluminum Lake |
 | 150 | FD&C Blue No. 2 Aluminum Lake |
