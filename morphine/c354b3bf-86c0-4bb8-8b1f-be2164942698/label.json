@@ -7,16 +7,9 @@
   "package_ndcs": [
     "42858-515-01",
     "42858-631-01",
-    "42858-760-01",
-    "42858-799-01",
-    "42858-900-01"
+    "42858-760-01"
   ],
   "products": [
-    {
-      "form": "TABLET",
-      "generic": "morphine sulfate",
-      "name": "MS Contin"
-    },
     {
       "form": "TABLET, FILM COATED, EXTENDED RELEASE",
       "generic": "morphine sulfate",
