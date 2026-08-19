@@ -633,7 +633,7 @@ Gastrointestinal Disorders: ileus/intestinal obstruction, tumor hemorrhage/tumor
 
 Infections: hepatitis B virus reactivation1
 
-Musculoskeletal and Connective Tissue Disorders: osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthralgia, bone pain)
+Musculoskeletal and Connective Tissue Disorders: osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthralgia, bone pain), bone marrow edema.
 
 Nervous System Disorders: cerebral edema1
 

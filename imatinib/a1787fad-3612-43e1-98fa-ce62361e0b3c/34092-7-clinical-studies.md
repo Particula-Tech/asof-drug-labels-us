@@ -21,7 +21,7 @@ The median duration of second-line treatment with imatinib mesylate tablets was 
 Sixty percent of patients randomized to imatinib mesylate tablets are still receiving first-line treatment.
 In these patients, the average dose of imatinib mesylate tablets was 403 mg ± 57 mg.
 Overall, in patients receiving first line imatinib mesylate tablets, the average daily dose delivered was 406 mg ± 76 mg.
-Due to discontinuations and crossovers, only 2% of patients randomized to IFN were still on first-line treatment.
+Due to discontinuations and cross-overs, only 2% of patients randomized to IFN were still on first-line treatment.
 In the IFN arm, withdrawal of consent (14%) was the most frequent reason for discontinuation of first-line therapy, and the most frequent reason for cross over to the imatinib mesylate tablets arm was severe intolerance to treatment (26%) and progression (14%).
 
 - •The primary efficacy endpoint of the study was progression-free survival (PFS).

@@ -45,4 +45,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Haupt Pharma Amareg GmbH Donaustaufer Strasse 378 Regensburg, Bayern, 93055, Germany
 
-Revised: 5/2026 HPT:IMAT:RX
+Revised: 7/2026 HPT:IMAT:RX1
