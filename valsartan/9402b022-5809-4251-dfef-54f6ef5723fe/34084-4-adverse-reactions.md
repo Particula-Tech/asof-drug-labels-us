@@ -3,7 +3,10 @@
 ## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
-Adult Hypertension Valsartan has been evaluated for safety in more than 4,000 patients, including over 400 treated for over 6 months, and more than 160 for over 1 year.
+
+Adult Hypertension
+
+Valsartan has been evaluated for safety in more than 4,000 patients, including over 400 treated for over 6 months, and more than 160 for over 1 year.
 Adverse reactions have generally been mild and transient in nature and have only infrequently required discontinuation of therapy.
 The overall incidence of adverse reactions with valsartan was similar to placebo.
 The overall frequency of adverse reactions was neither dose-related nor related to gender, age, race, or regimen.
@@ -52,8 +55,7 @@ Discontinuations due to renal dysfunction occurred in 1.1% of valsartan-treated 
 Clinical Laboratory Test Findings Creatinine: In heart failure trials, greater than 50% increases in creatinine were observed in 3.9% of valsartan-treated patients compared to 0.9% of placebo-treated patients.
 In post-myocardial infarction patients, doubling of serum creatinine was observed in 4.2% of valsartan-treated patients and 3.4% of captopril-treated patients.
 Neutropenia: Neutropenia was observed in 1.9% of patients treated with valsartan and 0.8% of patients treated with placebo.
-Blood Urea Nitrogen (BUN): In heart failure trials, greater than 50% increases in BUN were observed in 16.6% of valsartan-treated patients compared to 6.3% of placebo-treated patients.
-[see Warnings and Precautions (5.3)]
+Blood Urea Nitrogen (BUN): In heart failure trials, greater than 50% increases in BUN were observed in 16.6% of valsartan-treated patients compared to 6.3% of placebo-treated patients [see Warnings and Precautions (5.3)].
 
 Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation’s Diovan (valsartan) tablets.
 However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.

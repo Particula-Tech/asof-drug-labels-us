@@ -35,7 +35,7 @@ Data Valsartan was detected in the milk of lactating rats 15 minutes after oral 
 
 ## 8.4 Pediatric Use
 
-The antihypertensive effects of valsartan have been evaluated in a clinical studies in pediatric patients from 6-16 years of age [see Clinical Studies (14.1)].
+The antihypertensive effects of valsartan have been evaluated in a clinical study in pediatric patients from 6-16 years of age [see Clinical Studies (14.1)].
 The pharmacokinetics of valsartan have been evaluated in pediatric patients 1 to 16 years of age [see Clinical Pharmacology (12.3)].
 The adverse experience profile of valsartan was similar to that described for adults [see Adverse Reactions (6.1)].
 In children and adolescents with hypertension where underlying renal abnormalities may be more common, renal function and serum potassium should be closely monitored as clinically indicated.

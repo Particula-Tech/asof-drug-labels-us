@@ -10,7 +10,7 @@ If co-medication is considered necessary, monitoring of serum potassium is advis
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including valsartan, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving valsartan and NSAID therapy.
-The antihypertensive effect of angiotensin II receptor antagonists, including valsartan, may be attenuated by NSAIDs including selective COX-2 inhibitors.
+The antihypertensive effect of angiotensin II receptor antagonists, including valsartan, may be attenuated by NSAIDs, including selective COX-2 inhibitors.
 
 ## 7.3 Dual Blockade of the Renin-Angiotensin System (RAS)
 

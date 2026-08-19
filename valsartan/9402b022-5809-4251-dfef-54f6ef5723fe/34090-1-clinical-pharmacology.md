@@ -25,7 +25,7 @@ Valsartan inhibits the pressor effect of angiotensin II infusions.
 An oral dose of 80 mg inhibits the pressor effect by about 80% at peak with approximately 30% inhibition persisting for 24 hours.
 No information on the effect of larger doses is available.
 
-Removal of the negative feedback of angiotensin II causes a 2- to 3-fold rise in plasma renin and consequent rise in angiotensin II plasma concentration in hypertensive patients.
+Removal of the negative feedback of angiotensin II causes a 2-to 3-fold rise in plasma renin and consequent rise in angiotensin II plasma concentration in hypertensive patients.
 Minimal decreases in plasma aldosterone were observed after administration of valsartan; very little effect on serum potassium was observed.
 
 In multiple-dose studies in hypertensive patients with stable renal insufficiency and patients with renovascular hypertension, valsartan had no clinically significant effects on glomerular filtration rate, filtration fraction, creatinine clearance, or renal plasma flow.
@@ -38,7 +38,7 @@ Absorption In healthy volunteers, valsartan peak plasma concentration is reached
 Valsartan shows bi-exponential decay kinetics following intravenous administration, with an average elimination half-life of about 6 hours.
 Absolute bioavailability for valsartan is about 25% (range 10% to 35%).
 The bioavailability of the suspension [see Dosage and Administration (2.2)] is 1.6 times as great as with the tablet.
-AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range (80 - 320 mg).
+AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range (80-320 mg).
 Valsartan does not accumulate appreciably in plasma following repeated administration of 200 mg once daily.
 In heart failure patients, the average time to peak plasma concentration and elimination half-life of valsartan are similar to those observed in healthy volunteers.
 The average accumulation factor is about 1.7 in heart failure patients following repeated administration of 160 mg twice daily.
@@ -53,11 +53,12 @@ Valsartan does not inhibit CYP 450 isozymes at clinically relevant concentration
 CYP 450 mediated drug interaction between valsartan and coadministered drugs are unlikely because of the low extent of metabolism.
 Excretion Valsartan, when administered as an oral solution, is primarily recovered in feces (about 83% of dose) and urine (about 13% of dose).
 The recovery is mainly as unchanged drug, with only about 20% of dose recovered as metabolites.
+
 Following intravenous administration, plasma clearance of valsartan is about 2 L/h and its renal clearance is 0.62 L/h (about 30% of total clearance).
+
 The apparent clearance of valsartan following oral administration is approximately 4.5 L/h in heart failure patients.
 Age does not affect the apparent clearance in heart failure patients.
-Specific Populations: Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
-[see Use in Specific Populations (8.5)].
+Specific Populations: Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young [see Use in Specific Populations (8.5)].
 Pediatric: In a study of pediatric hypertensive patients (n=26, 1 to 16 years of age) given single doses of a suspension of valsartan (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
 Valsartan pharmacokinetics have not been investigated in pediatric patients less than 1 year of age.
 Gender: Pharmacokinetics of valsartan does not differ significantly between males and females.

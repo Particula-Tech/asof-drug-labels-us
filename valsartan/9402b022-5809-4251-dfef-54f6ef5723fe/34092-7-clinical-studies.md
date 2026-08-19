@@ -43,7 +43,7 @@ Renal and urinary disorders, and essential hypertension with or without obesity 
 At the end of 2 weeks, valsartan reduced both systolic and diastolic blood pressure in a dose-dependent manner.
 Overall, the three dose levels of valsartan (low, medium and high) significantly reduced systolic blood pressure by 8,10, and 12 mmHg from the baseline, respectively.
 Patients were re-randomized to either continue receiving the same dose of valsartan or were switched to placebo.
-In patients who continued to receive the medium and high doses of valsartan, systolic blood pressure at trough was 4 and 7 mm Hg lower than patients who received the placebo treatment.
+In patients who continued to receive the medium and high doses of valsartan, systolic blood pressure at trough was 4 and 7 mmHg lower than patients who received the placebo treatment.
 In patients receiving the low dose of valsartan, systolic blood pressure at trough was similar to that of patients who received the placebo treatment.
 Overall, the dose-dependent antihypertensive effect of valsartan was consistent across all the demographic subgroups.
 
@@ -60,21 +60,17 @@ At the end of the trial, patients in the valsartan group had a blood pressure th
 There were two primary end points, both assessed as time to first event: all-cause mortality and heart failure morbidity, the latter defined as all-cause mortality, sudden death with resuscitation, hospitalization for heart failure, and the need for intravenous inotropic or vasodilatory drugs for at least 4 hours.
 These results are summarized in the following table.
 
-|  | Placebo | Valsartan | Hazard Ratio | Nominal |
+|  | Placebo (N=2,499) | Valsartan (N=2,511) | Hazard Ratio (95% CI*) | Nominal p-value |
 | --- | --- | --- | --- | --- |
-|  | (N=2,499) | (N=2,511) | (95% CI*) | p-value |
-| All-cause mortality | 484 | 495 | 1.02 | 0.8 |
-|  | (19.4%) | (19.7%) | (0.90-1.15) |  |
-| HF morbidity | 801 | 723 | 0.87 | 0.009 |
-|  | (32.1%) | (28.8%) | (0.79-0.97) |  |
+| All-cause mortality | 484 (19.4%) | 495 (19.7%) | 1.02 (0.90-1.15) | 0.8 |
+| HF morbidity | 801 (32.1%) | 723 (28.8%) | 0.87 (0.79-0.97) | 0.009 |
 | * CI = Confidence Interval |  |  |  |  |
 
 Although the overall morbidity result favored valsartan, this result was largely driven by the 7% of patients not receiving an ACE inhibitor, as shown in the following table.
 
 |  | Without ACE Inhibitor |  | With ACE Inhibitor |  |
 | --- | --- | --- | --- | --- |
-|  | Placebo | Valsartan | Placebo | Valsartan |
-|  | (N=181) | (N=185) | (N=2,318) | (N=2,326) |
+|  | Placebo (N=181) | Valsartan (N=185) | Placebo (N=2,318) | Valsartan (N=2,326) |
 | Events (%) | 77 (42.5%) | 46 (24.9%) | 724 (31.2%) | 677 (29.1%) |
 | Hazard ratio (95% CI) | 0.51 (0.35, 0.73) |  | 0.92 (0.82, 1.02) |  |
 | p-value | 0.0002 |  | 0.0965 |  |
@@ -84,9 +80,8 @@ Thus, there is little evidence of further clinical benefit when valsartan is add
 
 Secondary end points in the subgroup not receiving ACE inhibitors were as follows.
 
-|  | Placebo | Valsartan | Hazard Ratio |
+|  | Placebo (N=181) | Valsartan (N=185) | Hazard Ratio (95% CI) |
 | --- | --- | --- | --- |
-|  | (N=181) | (N=185) | (95% CI) |
 | Components of HF morbidity |  |  |  |
 | All-cause mortality | 49 (27.1%) | 32 (17.3%) | 0.59 (0.37, 0.91) |
 | Sudden death with resuscitation | 2 (1.1%) | 1 (0.5%) | 0.47 (0.04, 5.20) |
@@ -115,10 +110,10 @@ The results are summarized in the following table.
 
 |  | Valsartan vs. Captopril (N=4,909) (N=4,909) |  |  | Valsartan + Captopril vs. Captopril (N=4,885) (N=4,909) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | No. of Deaths Valsartan/Captopril | Hazard Ratio CI | p-value | No. of Deaths Comb/Captopril | Hazard Ratio CI | p-value |
-| All-cause mortality | 979 (19.9%)/958 (19.5%) | 1.001 (0.902, 1.111) | 0.98 | 941 (19.3%)/ 958 (19.5%) | 0.984 (0.886, 1.093) | 0.73 |
-| CV mortality | 827 (16.8%)/830 (16.9%) | 0.976 (0.875, 1.090) |  |  |  |  |
-| CV mortality, hospitalization for HF, and recurrent non-fatal MI | 1,529 (31.1%)/1,567 (31.9%) | 0.955 (0.881, 1.035) |  |  |  |  |
+|  | No. of Deaths Valsartan/Captopril | Hazard Ratio CI | p-value | No. of Deaths Comb/Captopril | Hazard Ratio CI | p -value |
+| All-cause mortality | 979 (19.9%) /958 (19.5%) | 1.001 (0.902, 1.111) | 0.98 | 941 (19.3%) /958 (19.5%) | 0.984 (0.886, 1.093) | 0.73 |
+| CV mortality | 827 (16.8%) /830 (16.9%) | 0.976 (0.875, 1.090) |  |  |  |  |
+| CV mortality, hospitalization for HF, and recurrent non-fatal MI | 1,529 (31.1%) /1,567 (31.9%) | 0.955 (0.881, 1.035) |  |  |  |  |
 
 There was no difference in overall mortality among the three treatment groups.
 There was thus no evidence that combining the ACE inhibitor captopril and the angiotensin II blocker valsartan was of value.

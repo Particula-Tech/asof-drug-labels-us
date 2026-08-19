@@ -11,14 +11,15 @@ Valsartan Tablet can cause harm or death to an unborn baby.
 - Talk to your healthcare provider about other ways to lower your blood pressure if you plan to become pregnant.
 - If you become pregnant during treatment with valsartan tablet, stop taking valsartan tablet and tell your healthcare provider right away.
 
-What is valsartan tablets?
+What is valsartan tablet?
 
 Valsartan tablets are prescription medicine used in:
 
 - adults and children 6 years of age and older to lower high blood pressure (hypertension).
   Valsartan tablets may be used alone or in combination with other blood pressure medicines.
-- adults to treat heart failure valsartan tablets may help decrease your need for hospitalization that happens with heart failure.
-- adults with certain types of heart failure, to increase the chance of living longer after a heart attack (myocardial infarction) in adults.
+- adults to treat heart failure.
+  Valsartan tablets may help decrease your need for hospitalization that happens with heart failure.
+- adults with certain types of heart failure, to increase the chance of living longer after a heart attack (myocardial infarction).
 
 Valsartan tablets should not be used to treat high blood pressure in children less than 1 year of age.
 It is not known if valsartan tablets are safe and effective in children with certain kidney problems.
@@ -41,9 +42,8 @@ Before taking valsartan tablets, tell your healthcare provider about all of your
   You should not breastfeed during treatment with valsartan tablets.
   Talk with your healthcare provider about the best way to feed your baby during your treatment with valsartan tablets.
 
-Tell your healthcare provider about all the medicines you take including prescription and over- the- counter medicines, vitamins and herbal supplements.
+Tell your healthcare provider about all the medicines you take including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Valsartan tablets may affect the way other medicines work.
-
 Especially tell your healthcare provider if you take:
 
 - other medicines for high blood pressure or a heart problem
@@ -61,7 +61,7 @@ Talk to your healthcare provider or pharmacist before you start taking any new m
 How should I take valsartan tablets?
 
 - Take valsartan tablets exactly as prescribed by your healthcare provider.
-- For treatment of high blood pressure, take valsartan tablet 1 time each day.
+- For treatment of high blood pressure, take valsartan tablet 1 time each day
 - For children: Your pharmacist will mix valsartan tablets as a liquid suspension for your child, if:
 
 o your child is ≥ 6 years of age and cannot swallow tablets, or o if tablets are not available in the prescribed strength needed for your child
@@ -81,9 +81,9 @@ If you take too much valsartan tablets, call your healthcare provider, or go to 
 
 What are the possible side effects of valsartan tablets?
 
-- Valsartan tablets can cause serious side effects, including: See “What is the most important information I should know about Valsartan tablets?”
+- Valsartan tablets can cause serious side effects, including: See “What is the most important information I should know about valsartan tablets?”
 - Low blood pressure (hypotension).
-  Low blood pressure can happen with Valsartan tablets, especially when you first start taking it and can cause you to feel lightheaded.
+  Low blood pressure can happen with valsartan tablets, especially when you first start taking it and can cause you to feel lightheaded.
   Feeling lightheaded is most likely to happen if you:
 
 o take water pills
@@ -136,21 +136,21 @@ The most common side effects of valsartan tablets when used to treat people afte
 You should not stop taking valsartan tablets without talking to your healthcare provider.
 These are not all of the possible side effects of valsartan tablets.
 For more information, ask your healthcare provider or pharmacist.
+
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA- 1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store valsartan tablets?
 
 - Store valsartan tablets at room temperature between 68ºF to 77ºF (20ºC to 25ºC).
 - Keep valsartan tablets container tightly closed and in a dry place to protect from moisture.
 - Valsartan suspension is provided in a glass bottle with a child-resistant screw-cap closure.
-- Store bottles of valsartan suspension at room temperature less than 86ºF (30ºC) for up to 30 days, or
-- refrigerate between 35ºF to 46ºF (2ºC to 8ºC) for up to 75 days.
+- Store bottles of valsartan suspension at room temperature less than 86ºF (30ºC) for up to 30 days, or refrigerate between 35ºF to 46ºF (2ºC to 8ºC) for up to 75 days.
 
 Keep valsartan tablets and all medicines out of the reach of children.
 
 General information about the safe and effective use of valsartan tablets.
-Medicines are sometimes prescribed for purposes otherthan those listed in a Patient Information Leaflets.
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information Leaflet.
 Do not use valsartan tablets for a condition for which it was not prescribed.
 Do not give valsartan tablets to other people, even if they have the same symptoms you have.
 It may harm them.
@@ -158,12 +158,19 @@ You can ask your healthcare provider or pharmacist for information about valsart
 
 What are the ingredients in valsartan tablets?
 Active ingredient: valsartan USP Inactive ingredients: anhydrous lactose, crospovidone, dental-type silica, ferric oxide red (80 mg only), ferric oxide yellow, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
+
+For more information about valsartan tablets, ask your pharmacist or doctor, or call 1-800-313-4623.
+
 All brands mentioned are trademarks of their respective owners and are not trademarks of Jubilant Generics Limited.
-Rx Only Made in India Marketed by: Jubilant Cadista Pharmaceuticals Inc. Yardley, PA 19067,USA
+Rx Only
+
+Made in India
+
+Marketed by: Jubilant Cadista Pharmaceuticals Inc. Yardley, PA 19067, USA
 
 Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information
+However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
 
-This Patient Information has been approved by the U.S.Food and Drug Administration.
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Revised: 02/2025

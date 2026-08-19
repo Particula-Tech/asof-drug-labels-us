@@ -44,7 +44,7 @@ The usual recommended starting dose is 1 mg/kg once daily (up to 40 mg total).
 A higher starting dose of 2 mg/kg may be considered in selected cases when a greater reduction of blood pressure is needed.
 The dosage should be adjusted according to blood pressure response and tolerability, up to a maximum dose of 4 mg/kg once daily (maximum daily dose 160 mg).
 
-No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate < 30 mL/min/1.73 m2 [see Use in Specific Populations (8.4)].
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate < 30 mL/min/1.73 m2[see Use in Specific Populations (8.4)].
 
 Use of valsartan tablets is not recommended in children less than 1 year of age [see Adverse Reactions (6.1), Pediatric Use in Specific Populations (8.4), Nonclinical Toxicology (13.2)].
 
