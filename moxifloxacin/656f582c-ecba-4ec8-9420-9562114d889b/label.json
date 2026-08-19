@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA207285"
+  ],
+  "inn": "moxifloxacin",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-014-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "moxifloxacin",
+      "name": "Moxifloxacin"
+    }
+  ],
+  "setid": "656f582c-ecba-4ec8-9420-9562114d889b",
+  "source": "dailymed"
+}
