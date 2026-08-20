@@ -98,12 +98,28 @@ YEZTUGO injection is a yellow solution.
 Do not use YEZTUGO injection if the solution is discolored or if it contains particulate matter.
 Once the solution is withdrawn from the vials, the subcutaneous injections should be administered as soon as possible [see How Supplied/Storage and Handling (16)].
 
-Figure 1 identifies the components for use in the administration steps for the withdrawal needle injection kit, and the administration steps are provided in Figure 2.
-The 18-gauge needle is for withdrawal only in this kit.
+The Withdrawal Needle Injection Kit contains withdrawal needles that may be supplied with or without a safety shield.
+The presence or absence of a safety shield does not change how YEZTUGO injection is prepared.
+
+Refer to the figure below for the relevant injection kit.
 
 The injection kit components are for single use only.
 Two 1.5 mL injections are required for a complete dose.
 
-Figure 1 YEZTUGO Withdrawal Needle Injection Kit Components
+Withdrawal Needle Injection Kit (withdrawal needle without safety shield)
 
-Figure 2 YEZTUGO Injection Steps for Withdrawal Needle Injection Kit
+Figure 1 identifies the components for use in the administration steps for the Withdrawal Needle Injection Kit (withdrawal needle supplied without a safety shield), and the administration steps are provided in Figure 2.
+The 18-gauge needle is for withdrawal only in this kit.
+
+Figure 1 YEZTUGO Withdrawal Needle Injection Kit Components (withdrawal needle without safety shield)
+
+Figure 2 YEZTUGO Injection Steps for Withdrawal Needle Injection Kit (withdrawal needle without safety shield)
+
+Withdrawal Needle Injection Kit (withdrawal needle with safety shield)
+
+Figure 3 identifies the components for use in the administration steps for the Withdrawal Needle Injection Kit (withdrawal needle supplied with a safety shield), and the administration steps are provided in Figure 4.
+The 18-gauge safety needle is for withdrawal only in this kit.
+
+Figure 3 YEZTUGO Withdrawal Needle Injection Kit Components (withdrawal needle with safety shield)
+
+Figure 4 YEZTUGO Injection Steps for Withdrawal Needle Injection Kit (withdrawal needle with safety shield)

@@ -64,7 +64,7 @@ Data
 Human Data
 
 The median lenacapavir concentration in human breast milk to maternal plasma ratio in participants (n=8) who received YEZTUGO was 0.63 (range: 0.29 to 1.90).
-The median infant-to-mother plasma ratio for lenacapavir in infants (n=10) who were breastfed by individuals receiving YEZTUGO from 0 to less than 13 weeks after delivery was 0.06 (range: 0.01 to 0.20).
+The median infant-to-mother plasma ratio for lenacapavir in infants (n=10) who were breastfed by participants receiving YEZTUGO from 0 to less than 13 weeks after delivery was 0.06 (range: 0.01 to 0.20).
 
 ## 8.4 Pediatric Use
 

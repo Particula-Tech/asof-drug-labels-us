@@ -163,7 +163,7 @@ Viruses with lenacapavir resistance-associated capsid substitutions were detecte
 There were 3 incident and 4 prevalent infections among participants in the YEZTUGO arm of the PURPOSE 2 trial.
 One of the incident infections occurred after the time of the primary analysis.
 Lenacapavir resistance-associated substitutions were detected in viruses from the 3 participants with incident infections, 2 with N74D, and 1 with Q67H/K70R.
-Gentoypic data were available for 3 of the 4 participants with prevalent infections.
+Genotypic data were available for 3 of the 4 participants with prevalent infections.
 Viruses with lenacapavir resistance-associated capsid substitutions were detected in 2 of these 3 participants, both with N74D.
 
 Cross-Resistance

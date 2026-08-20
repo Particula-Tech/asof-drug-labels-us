@@ -16,7 +16,7 @@ YEZTUGO injection is packaged in a dosing kit (NDC 61958-3402-1) containing:
 - 2 single-dose clear glass vials, each containing sufficient volume to allow withdrawal of 463.5 mg/1.5 mL (309 mg/mL) of lenacapavir.
   The injection solution is sterile, preservative-free, clear, and yellow with no visible particles.
   Vials are sealed with a stopper and aluminum overseal with flip-off cap.
-- 2 disposable syringes, 2 withdrawal needles (18-gauge, 1½ inch), and 2 injection safety needles for subcutaneous injection (22-gauge, ½ inch).
+- 2 disposable syringes, 2 withdrawal needles (18-gauge, 1½ inch; may be supplied with or without a safety shield), and 2 injection safety needles for subcutaneous injection (22-gauge, ½ inch).
 
 The vial stoppers are not made with natural rubber latex.
 

@@ -21,7 +21,7 @@ Some individuals, such as adolescents, may benefit from additional counseling an
 ## 5.2 Potential Risk of Resistance with YEZTUGO
 
 There is a potential risk of developing resistance to YEZTUGO if an individual acquires HIV-1 either before or when receiving YEZTUGO, or following discontinuation of YEZTUGO.
-HIV-1 resistance substitutions may emerge in individuals with undiagnosed HIV-1 infection who are taking only YEZTUGO, because YEZTUGO alone does not constitute a complete regimen for HIV-1 treatment [see Microbiology (12.4)].
+HIV-1 resistance substitutions may emerge in individuals with undiagnosed HIV-1 infection who are taking only YEZTUGO because YEZTUGO alone does not constitute a complete regimen for HIV-1 treatment [see Microbiology (12.4)].
 
 To minimize this risk, it is essential to test before each injection and additionally as clinically appropriate (e.g., upon diagnosis of other sexually transmitted infections or if clinical symptoms consistent with acute HIV-1 infection are present) to confirm HIV-1 negative status using a test approved or cleared by the FDA for the diagnosis of acute or primary HIV-1 infection.
 Individuals who are confirmed to have HIV-1 must immediately begin a complete HIV-1 treatment regimen to reduce the risk of developing resistance.

@@ -53,4 +53,4 @@ All other trademarks referenced herein are the property of their respective owne
 
 Manufactured for: Gilead Sciences, Inc. 333 Lakeside Dr. Foster City, CA 94404.
 
-© 2025 Gilead Sciences, Inc. All rights reserved.
+© 2026 Gilead Sciences, Inc. All rights reserved.
