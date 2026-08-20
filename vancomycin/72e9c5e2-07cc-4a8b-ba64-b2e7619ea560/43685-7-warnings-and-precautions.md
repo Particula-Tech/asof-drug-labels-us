@@ -36,7 +36,7 @@ The risk is higher in older patients, patients who are receiving higher doses, w
 Monitor for signs and symptoms of ototoxicity during therapy.
 Monitor serum vancomycin concentrations and renal function in all patients receiving parenteral vancomycin.
 Discontinue TYZAVAN if ototoxicity occurs.
-Dosage of TYZAVAN must be adjusted for patients with renal impairment [see Dosage and Administration (2.3)].
+Dosage of TYZAVAN must be adjusted for patients with renal impairment [see Dosage and Administration (2.4)].
 Serial tests of auditory function may be helpful in order to minimize the risk of ototoxicity.
 
 ## 5.4 Severe Dermatologic Reactions

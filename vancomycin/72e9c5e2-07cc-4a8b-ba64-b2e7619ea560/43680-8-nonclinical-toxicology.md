@@ -3,6 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No long-term studies in animals have been performed to evaluate carcinogenic potential.
+No mutagenic potential of vancomycin was found in standard laboratory tests.
 No definitive fertility studies have been performed.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
