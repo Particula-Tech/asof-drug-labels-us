@@ -72,14 +72,18 @@ Infertility
 Advise females of reproductive potential that risperidone may impair fertility due to an increase in serum prolactin levels.
 The effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
-Manufactured for: Endo USA Malvern, PA 19355 U.S.A.
+Manufactured for:
+
+Par Health USA
+
+Rochester, MI 48307 U.S.A.
 
 Made in India
 
 Neutral Code: TN/DRUGS/TN00002121
 
-© 2024 Endo, Inc. or one of its affiliates.
+© 2026 Par Health, Inc. or one of its affiliates.
 
-OS212C-01-74-01
+OS212C-01-74-02
 
-Issued: 07/2024
+Revised: 01/2026
