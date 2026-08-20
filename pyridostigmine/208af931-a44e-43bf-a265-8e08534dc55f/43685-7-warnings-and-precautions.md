@@ -2,7 +2,7 @@
 
 NOT FOR USE IN NEONATES
 
-REGONOL ® (pyridostigmine bromide injection, USP) should be used with particular caution in patients with bronchial asthma or cardiac dysrhythmias.
+REGONOL® (pyridostigmine bromide injection, USP) should be used with particular caution in patients with bronchial asthma or cardiac dysrhythmias.
 Transient bradycardia may occur and be relieved by atropine sulfate.
 Atropine sulfate should also be used with caution in patients with cardiac dysrhythmias.
 When large doses of pyridostigmine bromide are administered, as during reversal of muscle relaxants, prior or simultaneous injection of atropine sulfate or an equipotent dose of glycopyrrolate is advisable.
@@ -27,14 +27,11 @@ Inadequate reversal of the neuromuscular blockade induced by nondepolarizing (cu
 This can be managed by manual or mechanical ventilation until recovery is judged adequate.
 The administration of additional doses of anticholinesterase reversal agents is not recommended since excessive dosages of such drugs may produce depolarizing block through their own pharmacologic actions.
 
-Pyridostigmine is mainly excreted unchanged by the kidney.
-2,7,8 Therefore, lower doses may be required in patients with renal disease, and treatment should be based on titration of drug dosage to effect.
-2,7
+Pyridostigmine is mainly excreted unchanged by the kidney.2,7,8 Therefore, lower doses may be required in patients with renal disease, and treatment should be based on titration of drug dosage to effect.2,7
 
 ## Drug Interactions
 
-Concomitant administration of REGONOL ® (pyridostigmine bromide injection, USP) and 4-aminopyridine has been reported to delay the onset of action of REGONOL ®.
-9
+Concomitant administration of REGONOL® (pyridostigmine bromide injection, USP) and 4-aminopyridine has been reported to delay the onset of action of REGONOL®.9
 
 ### Antibiotics
 
@@ -50,7 +47,7 @@ This possibility must be considered when administering anticholinesterase agents
 Electrolyte imbalance and diseases which lead to electrolyte imbalance, such as adrenal cortical insufficiency, have been shown to alter neuromuscular blockade.
 Depending on the nature of the imbalance, either enhancement or inhibition may be expected.
 Magnesium salts, administered for the management of toxemia of pregnancy, may enhance the neuromuscular blockade.
-The possibility that such circumstances may interfere with the restoration of neuromuscular function should be considered when administering REGONOL ®.
+The possibility that such circumstances may interfere with the restoration of neuromuscular function should be considered when administering REGONOL®.
 
 ## Interactions with Laboratory Tests
 

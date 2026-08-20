@@ -17,4 +17,4 @@ Sterile
 
 10 x 2 mL Single-Dose Ampules
 
-SANDOZ – A Novartis Division
+SANDOZ
