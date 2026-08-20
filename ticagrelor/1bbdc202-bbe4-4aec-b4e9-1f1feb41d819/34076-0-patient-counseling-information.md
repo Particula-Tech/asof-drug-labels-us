@@ -16,8 +16,6 @@ Advise patients to inform physicians and dentists that they are taking ticagrelo
 
 Advise women that breastfeeding is not recommended during treatment with ticagrelor tablets [see Use in Specific Populations (8.2)].
 
-Dispense with Medication Guide available at: www.tevausa.com/medguides
-
 Manufactured In India By:
 
 Watson Pharma Private Limited
@@ -31,4 +29,4 @@ Teva Pharmaceuticals
 Parsippany, NJ 07054
 
 Rev.
-C 12/2024
+D 8/2026
