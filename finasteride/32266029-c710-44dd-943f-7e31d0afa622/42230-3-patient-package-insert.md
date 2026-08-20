@@ -118,4 +118,4 @@ However, since each case of BPH is different, you should know that:
 - You may need to take finasteride tablets for six (6) months or more to see whether it improves your symptoms.
 - Therapy with finasteride tablets may reduce your risk for a sudden inability to pass urine and the need for surgery for an enlarged prostate.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 05/2026
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 07/2026
