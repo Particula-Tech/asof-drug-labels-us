@@ -159,13 +159,10 @@ Inactive ingredients: hypromellose, lactose monohydrate, magnesium stearate, pol
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Natco Pharma Limited.
-Kothur - 509 228, India.
-OR Manufactured by: Natco Pharma Limited.
-Visakhapatnam - 531019 AP, India
+Manufactured by: Natco Pharma Limited Hyderabad-500034, India.
 
 Distributed by: Breckenridge Pharmaceutical, Inc. Berkeley Heights, NJ 07922
 
-40500604
+40500869
 
-Revised: 02/2025
+Revised: 08/2026
