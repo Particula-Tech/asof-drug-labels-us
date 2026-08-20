@@ -13,11 +13,9 @@ XOLAIR Prefilled Syringe Strengths and Package Configurations
 
 | Package Configuration | Strength | NDC |
 | --- | --- | --- |
-| 1 prefilled syringe with a 26-gauge staked needleThe needle cap of the XOLAIR prefilled syringe contains a derivative of natural rubber latex which may cause allergic reactions in latex sensitive individuals. | 75 mg/0.5 mL | NDC 50242-214-01 |
-| 1 prefilled syringe with a 26-gauge staked needle | 150 mg/mL | NDC 50242-215-01 |
 | 1 prefilled syringe with a 27-gauge staked needle | 75 mg/0.5 mL | NDC 50242-214-03 |
 | 1 prefilled syringe with a 27-gauge staked needle | 150 mg/mL | NDC 50242-215-03 |
-| 1 prefilled syringe with a 27-gauge staked needle | 300 mg/2 mL | NDC 50242-227-01 |
+| 1 prefilled syringe with a 27-gauge staked needle | 300 mg/2 mL (150 mg/mL) | NDC 50242-227-01 |
 
 Table 19.
 XOLAIR Autoinjector Strengths and Package Configurations
@@ -27,8 +25,6 @@ XOLAIR Autoinjector Strengths and Package Configurations
 | 1 autoinjector with a 27-gauge staked needle | 75 mg/0.5 mL | NDC 50242-214-55 |
 | 1 autoinjector with a 27-gauge staked needle | 150 mg/mL | NDC 50242-215-55 |
 | 1 autoinjector with a 27-gauge staked needle | 300 mg/2 mL | NDC-50242-227-55 |
-
-The XOLAIR autoinjector is not made with natural rubber latex.
 
 Storage
 

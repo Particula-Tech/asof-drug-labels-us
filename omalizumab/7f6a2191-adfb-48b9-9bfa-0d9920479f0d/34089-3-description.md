@@ -17,10 +17,6 @@ Each 150 mg prefilled syringe or autoinjector delivers 150 mg omalizumab in 1 mL
 
 Each 300 mg prefilled syringe or autoinjector delivers 300 mg omalizumab in 2 mL and contains arginine hydrochloride (84.2 mg), histidine (2.74 mg), L-histidine hydrochloride monohydrate (4.68 mg), and polysorbate 20 (0.8 mg) in SWFI, USP.
 
-The needle cap of the XOLAIR 75 mg/0.5 mL and 150 mg/mL prefilled syringe with 26-gauge staked needle contains a derivative of natural rubber latex which may cause allergic reactions in latex sensitive individuals [see How Supplied/Storage and Handling (16)].
-
-The XOLAIR autoinjector is not made with natural rubber latex.
-
 XOLAIR for Injection (Vial)
 
 XOLAIR (omalizumab) for injection is a sterile, white, preservative free, lyophilized powder in a single-dose vial.

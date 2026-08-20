@@ -130,7 +130,7 @@ The safety and efficacy of XOLAIR was evaluated in two, randomized, multicenter,
 Patients received XOLAIR or placebo SC every 2 or 4 weeks, with XOLAIR dosage and frequency according to Table 3, for 24 weeks followed by a 4-week follow-up period.
 All patients received background nasal mometasone therapy during both the treatment period and during a 5-week run-in period.
 Prior to randomization, patients were required to have evidence of bilateral polyps as determined by a nasal polyp score (NPS) ≥ 5 with NPS ≥ 2 in each nostril, despite use of nasal mometasone during the run-in period.
-NPS was measured via endoscopy and scored (range 0-4 per nostril: 0= no polyps; 1=small polyps in the middle meatus not reaching below the inferior border of the middle turbinate; 2=polyps reaching below the lower border of the middle turbinate; 3=large polyps reaching the lower border of the inferior turbinate or polyps medial to the middle turbinate; 4=large polyps causing complete obstruction of the inferior nasal cavity) for a total NPS (range 0-8).
+NPS was measured via endoscopy and scored (range 0-4 per nostril: 0=no polyps; 1=small polyps in the middle meatus not reaching below the inferior border of the middle turbinate; 2=polyps reaching below the lower border of the middle turbinate; 3=large polyps reaching the lower border of the inferior turbinate or polyps medial to the middle turbinate; 4=large polyps causing complete obstruction of the inferior nasal cavity) for a total NPS (range 0-8).
 Patients were furthermore required to have a weekly average of nasal congestion score (NCS) > 1 prior to randomization, despite use of nasal mometasone.
 Nasal congestion was measured by a daily assessment on a 0 to 3 point severity scale (0=none, 1=mild, 2=moderate, 3=severe).
 Prior sino-nasal surgery or prior systemic corticosteroid usage were not required for inclusion in the trials and sinus CT scans were not performed to evaluate for sinus opacification.
@@ -171,13 +171,13 @@ Change from Baseline at Week 24 in Nasal Polyp Score and 7-day Average of Daily 
 | Number of patients | 65 | 72 | 65 | 62 |
 | Nasal Polyp Score |  |  |  |  |
 | Mean Baseline Score | 6.3 | 6.2 | 6.1 | 6.4 |
-| LS Mean Change From Baseline at Week 24 | 0.1 | -1.1 | -0.3 | -0.9 |
+| LS Mean Change from Baseline at Week 24 | 0.1 | -1.1 | -0.3 | -0.9 |
 | Difference in LS means vs. placebo | -1.1 |  | -0.6 |  |
 | 95% CI for difference | -1.6, -0.7 |  | -1.1, -0.1 |  |
 | p-value | <0.0001 |  | 0.0140 |  |
 | 7-day Average of Daily Nasal Congestion Score |  |  |  |  |
 | Mean Baseline Score | 2.5 | 2.4 | 2.3 | 2.3 |
-| LS Mean Change From Baseline at Week 24 | -0.4 | -0.9 | -0.2 | -0.7 |
+| LS Mean Change from Baseline at Week 24 | -0.4 | -0.9 | -0.2 | -0.7 |
 | Difference in LS means vs. placebo | -0.6 |  | -0.5 |  |
 | 95% CI for difference | -0.8, -0.3 |  | -0.8, -0.2 |  |
 | p-value | 0.0004 |  | 0.0017 |  |

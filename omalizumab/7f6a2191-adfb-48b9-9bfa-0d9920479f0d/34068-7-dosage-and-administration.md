@@ -30,7 +30,7 @@ Periodically reassess the need for continued therapy based upon the patient's di
 
 ## 2.3 Recommended Dosage for Chronic Rhinosinusitis with Nasal Polyps
 
-The recommended dosage for chronic rhinosinusitis with nasal polyps (CRSwNP) is XOLAIR 75 mg to 600 mg by subcutaneous injection every 2 or 4 weeks based on serum total IgE level (IU/mL) measure before the start of treatment and by body weight (kg) [see Dosage and Administration (2.1)].
+The recommended dosage for chronic rhinosinusitis with nasal polyps (CRSwNP) is XOLAIR 75 mg to 600 mg by subcutaneous injection every 2 or 4 weeks based on serum total IgE level (IU/mL) measured before the start of treatment and by body weight (kg) [see Dosage and Administration (2.1)].
 Refer to Table 3 for recommended dosage based on serum total IgE level and body weight for patients with CRSwNP.
 
 Duration of Therapy
@@ -51,7 +51,6 @@ Periodically reassess the need for continued therapy.
 
 The recommended dosage for chronic spontaneous urticaria (CSU) is XOLAIR 150 mg or 300 mg by subcutaneous injection every 4 weeks.
 
-- The 300 mg dose may be administered as one subcutaneous injection of 300 mg/2 mL or as two subcutaneous injections of 150 mg/mL.
 - Dosing of XOLAIR in CSU patients is not dependent on serum IgE (free or total) level or body weight.
 
 Duration of Therapy
@@ -73,9 +72,9 @@ Patient-specific factors including the following criteria should be considered:
 - 1a)Asthma, CRSwNP and CSU: Patient should have no prior history of anaphylaxis to XOLAIR or other agents, such as foods, drugs, biologics, etc.
 - 1b)IgE-Mediated Food Allergy: Patient should have no prior history of anaphylaxis to XOLAIR or other agents (except foods), such as drugs, biologics, etc.
 - 2)Patient should receive at least 3 doses of XOLAIR under the guidance of a healthcare provider with no hypersensitivity reactions
-- 3)Patient or caregiver is able to recognize symptoms of anaphylaxis
-- 4)Patient or caregiver is able to treat anaphylaxis appropriately
-- 5)Patient or caregiver is able to perform subcutaneous injections with XOLAIR prefilled syringe or autoinjector with proper technique according to the prescribed dosing regimen and Instructions for Use
+- 3) Patient or caregiver is able to recognize symptoms of anaphylaxis
+- 4) Patient or caregiver is able to treat anaphylaxis appropriately
+- 5) Patient or caregiver is able to perform subcutaneous injections with XOLAIR prefilled syringe or autoinjector with proper technique according to the prescribed dosing regimen and Instructions for Use
 
 ## 2.7 XOLAIR Prefilled Syringe and Autoinjector
 
@@ -95,7 +94,6 @@ XOLAIR Autoinjector
 
 Administration Instructions for Prefilled Syringe and Autoinjector
 
-- Persons with latex allergies should not handle XOLAIR prefilled syringe because the needle cap of the XOLAIR 75 mg/0.5 mL and 150 mg/mL prefilled syringes contains a derivative of natural rubber latex which may cause allergic reactions in latex sensitive individuals [see How Supplied/Storage and Handling (16)].
 - Visually inspect the contents of the prefilled syringe or autoinjector for particulate matter and discoloration prior to administration.
   XOLAIR prefilled syringe or autoinjector solution should be clear and colorless to pale brownish yellow.
   Do not use the prefilled syringe or autoinjector if the medicine is cloudy, discolored, or contains particles.
@@ -125,7 +123,7 @@ Number of XOLAIR Prefilled Syringes or AutoinjectorsThe autoinjector (all doses)
 XOLAIR lyophilized powder should only be prepared and injected by a healthcare provider.
 The supplied XOLAIR lyophilized powder must be reconstituted with Sterile Water for Injection (SWFI) USP, using the following instructions:
 
-- 1)Before reconstitution, determine the number of vials that will need to be reconstituted (each vial delivers 150 mg of XOLAIR in 1.2 mL) (see Table 6).
+- 1) Before reconstitution, determine the number of vials that will need to be reconstituted (each vial delivers 150 mg of XOLAIR in 1.2 mL) (see Table 6).
 
 Table 6.
 Number of Vials, Injections and Total Injection Volumes

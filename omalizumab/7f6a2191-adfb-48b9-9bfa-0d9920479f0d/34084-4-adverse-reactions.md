@@ -71,7 +71,7 @@ The mean age of pediatric patients receiving XOLAIR was 8.8 years; 69% were male
 Pediatric patients received XOLAIR 75 mg to 375 mg every 2 or 4 weeks or, for patients assigned to control groups, standard therapy with or without a placebo.
 No cases of malignancy were reported in patients treated with XOLAIR in these trials.
 
-The most common adverse reactions occurring at ≥3% in the pediatric patients receiving XOLAIR and more frequently than in patients treated with placebo were nasopharyngitis, headache, pyrexia, upper abdominal pain, pharyngitis streptococcal, otitis media, viral gastroenteritis, arthropod bite, and epistaxis.
+The most common adverse reactions occurring at ≥3% in the pediatric patients receiving XOLAIR and more frequently than in patients treated with placebo were nasopharyngitis, headache, pyrexia, upper abdominal pain, pharyngitis streptococcal, otitis media, viral gastroenteritis, arthropod bites, and epistaxis.
 
 The adverse reactions most frequently resulting in clinical intervention (e.g., discontinuation of XOLAIR, or the need for concomitant medication to treat an adverse event) were bronchitis (0.2%), headache (0.2%) and urticaria (0.2%).
 These reactions were observed at similar rates in XOLAIR-treated patients and control patients.
@@ -103,7 +103,7 @@ Adverse Reactions Occurring in ≥3% of XOLAIR-Treated Patients and More Frequen
 Adverse Reactions from a Clinical Study in Patients with IgE-Mediated Food Allergy
 
 The safety of XOLAIR in patients with IgE-mediated allergic reactions (Type I), including anaphylaxis, that may occur with accidental exposure to one or more foods, was based on data from the Food Allergy (FA) Trial, a randomized, double-blind, placebo-controlled trial in 168 patients (165 pediatric patients and 3 adults) who were allergic to peanut and at least two other foods [see Clinical Studies (14.3)].
-Patients received a dosage of XOLAIR or placebo subcutaneously every 2 or 4 weeks for 16 to 20 weeks according to the recommended dosage based on IgE level (IU/mL), measured before the start of treatment, and by body weight (kg) provided in Table 4 [see Dosage and Administration (2.4)].
+Patients received a dosage of XOLAIR or placebo subcutaneously every 2 or 4 weeks for 16 to 20 weeks according to the recommended dosage based on total IgE level (IU/mL), measured before the start of treatment, and by body weight (kg) provided in Table 4 [see Dosage and Administration (2.4)].
 Safety data provided in Table 9 are from the primary analysis population of pediatric patients aged 1 year to 17 years.
 Safety data obtained from adults (n=3) in this trial was limited.
 Table 9 lists the adverse reactions occurring in ≥3% of XOLAIR-treated pediatric patients and more frequently than in patients treated with placebo in the FA trial.
@@ -115,7 +115,7 @@ Adverse Reactions Occurring in ≥3% of XOLAIR-Treated Pediatric Patients 1 Year
 | Adverse Reaction | XOLAIR n=110 | Placebo n=55 |
 | --- | --- | --- |
 | General disorders and administration site conditions |  |  |
-| Injection site reactionsInjection site reactions terms: 'injection site reaction','injection site urticaria','injection site discomfort','injection site erythema','injection site pain' and 'injection site rash'. All injection site reactions were mild to moderate severity and none resulted in study discontinuation. | 17 (15.5%) | 6 (10.9%) |
+| Injection site reactionsInjection site reactions terms: 'injection site reaction','injection site urticaria','injection site discomfort','injection site erythema','injection site pain', 'injection site rash', and 'injection site swelling'. All injection site reactions were mild to moderate severity and none resulted in study discontinuation. | 17 (15.5%) | 6 (10.9%) |
 | Pyrexia | 7 (6.4%) | 2 (3.6%) |
 
 Adverse Reactions from Clinical Studies in Patients with Chronic Spontaneous Urticaria
@@ -182,7 +182,7 @@ Adverse Reactions from Clinical Study in Healthy Adults
 
 Injection Site Reactions in Healthy Adults
 
-In an open label trial in healthy adults, in which the 300 mg/2 mL autoinjector was compared to the 300 mg/2 mL prefilled syringe, injection site reactions (e.g., induration, pain, erythema, hemorrhage, swelling, discomfort, bruising, hypoesthesia, edema, pruritus) were observed in 24% (16/66) of subjects treated with the autoinjector compared with 14% (9/64) of subjects treated with the prefilled syringe.
+In an open label trial in healthy adults, in which the XOLAIR 300 mg/2 mL autoinjector was compared to the XOLAIR 300 mg/2 mL (150 mg/mL) prefilled syringe, injection site reactions (e.g., induration, pain, erythema, hemorrhage, swelling, discomfort, bruising, hypoesthesia, edema, pruritus) were observed in 24% (16/66) of subjects treated with the autoinjector compared with 14% (9/64) of subjects treated with the prefilled syringe.
 
 ## 6.2 Postmarketing Experience
 
@@ -191,7 +191,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Anaphylaxis: Based on spontaneous reports and an estimated exposure of about 57,300 patients from June 2003 through December 2006, the frequency of anaphylaxis attributed to XOLAIR use was estimated to be at least 0.2% of patients.
 
-Diagnostic criteria of anaphylaxis were skin or mucosal tissue involvement, and, either airway compromise, and/or reduced blood pressure with or without associated symptoms, and a temporal relationship to XOLAIR administration with no other identifiable cause.
+Diagnostic criteria of anaphylaxis were skin or mucosal tissue involvement, and either airway compromise, and/or reduced blood pressure with or without associated symptoms, and a temporal relationship to XOLAIR administration with no other identifiable cause.
 Signs and symptoms in these reported cases included bronchospasm, hypotension, syncope, urticaria, angioedema of the throat or tongue, dyspnea, cough, chest tightness, and/or cutaneous angioedema.
 Pulmonary involvement was reported in 89% of the cases.
 Hypotension or syncope was reported in 14% of cases.

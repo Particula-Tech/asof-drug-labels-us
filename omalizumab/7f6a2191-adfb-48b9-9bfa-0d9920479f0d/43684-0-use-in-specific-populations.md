@@ -77,13 +77,13 @@ IgE-Mediated Food Allergy
 
 The safety and effectiveness of XOLAIR for the reduction of allergic reactions (Type I), including anaphylaxis, that may occur with accidental exposure to one or more foods have been established in pediatric patients aged 1 year and older with IgE-mediated food allergy.
 Use of XOLAIR for this indication is supported by evidence from an adequate and well-controlled study that included a total of 165 pediatric patients; 61 patients aged 1 year to less than 6 years of age and 104 patients aged 6 to less than 18 years of age.
-A significantly greater percentage of XOLAIR-treated patients compared to placebo-treated patients was able to consume a single dose of food (peanut, cashew, milk, egg) without dose- limiting symptoms [see Clinical Studies (14.3)].
+A significantly greater percentage of XOLAIR-treated patients compared to placebo-treated patients was able to consume a single dose of food (peanut, cashew, milk, egg) without dose-limiting symptoms [see Clinical Studies (14.3)].
 
 Safety and effectiveness in pediatric patients with IgE-mediated food allergy below 1 year of age have not been established.
 
 Chronic Spontaneous Urticaria
 
-The safety and effectiveness of XOLAIR for chronic spontaneous urticaria (CSU) who remain symptomatic despite H1 antihistamine treatment have been established in pediatric patients aged 12 years and older.
+The safety and effectiveness of XOLAIR for chronic spontaneous urticaria (CSU) in patients who remain symptomatic despite H1 antihistamine treatment have been established in pediatric patients aged 12 years and older.
 Use of XOLAIR in this population is supported by evidence from adequate and well-controlled studies.
 Adolescent patients with CSU were evaluated in 39 patients 12 to 17 years of age (XOLAIR 29, placebo 10) included in three randomized, placebo-controlled CSU trials.
 A numerical decrease in weekly itch score was observed, and adverse reactions were similar to those reported in patients 18 years and older.

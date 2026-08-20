@@ -21,10 +21,6 @@ Continuation of Other Medications
 Instruct patients receiving XOLAIR not to decrease the dose of, or stop taking any other asthma, CRSwNP, CSU or IgE-mediated food allergy medications or allergen immunotherapy unless otherwise instructed by their physician.
 Inform patients that they may not see immediate improvement in their asthma, CRSwNP, CSU or IgE-mediated food allergy symptoms after beginning XOLAIR therapy.
 
-Prefilled Syringe Needle Cover Contains Latex
-
-Inform patients the needle cover on the prefilled syringe contains dry natural rubber (a derivative of latex), which may cause allergic reactions in individuals sensitive to latex [see How Supplied/Storage and Handling (16)].
-
 Instruction on Injection Technique
 
 If a patient or caregiver is to administer subcutaneous XOLAIR prefilled syringe or autoinjector, instruct on injection technique and assess ability to inject subcutaneously to ensure proper administration of XOLAIR.
