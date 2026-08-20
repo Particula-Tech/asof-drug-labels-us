@@ -27,7 +27,7 @@ Symptoms may include: • swelling of the face, mouth (tongue, lips, gums), thro
 See “What is the most important information I should know about varenicline tablets?”
 Before you take varenicline tablets, tell your healthcare provider if you: • use other treatments to quit smoking.
 Using varenicline tablets with a nicotine patch may cause nausea, vomiting, headache, dizziness, upset stomach, and tiredness to happen more often than if you just use a nicotine patch alone. • have kidney problems or get kidney dialysis.
-Your healthcare provider may prescribe a lower dose of varenicline tablets for you. • have a history of seizures • drink alcohol • have heart or blood vessel problems • have any other medical conditions • are pregnant or plan to become pregnant. • are breastfeeding.
+Your healthcare provider may prescribe a lower dose of varenicline tablets for you. • have a history of seizures. • drink alcohol. • have heart or blood vessel problems. • have any other medical conditions. • are pregnant or plan to become pregnant. • are breastfeeding.
 It is not known if varenicline tablets passes into breast milk.
 If you breastfeed and take varenicline tablets, monitor your baby for seizures as well as spitting up or vomiting more than normal.
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
@@ -44,11 +44,13 @@ Take varenicline tablets for 12 weeks.
 OR o Start taking varenicline tablets before you choose a quit date.
 Pick a date to quit smoking that is between days 8 and 35 of treatment.
 Take varenicline tablets for 12 weeks.
-OR o If you are sure that you are not able or willing to quit smoking right away, start taking varenicline tablets and reduce smoking during the first 12 weeks of treatment, as follows: Weeks 1 through 4 Reduce your smoking to reach one-half of your starting daily number of cigarettes.
-Example: If you usually smoke 20 cigarettes each day, reduce your smoking to 10 cigarettes each day during weeks 1 through 4.
-Weeks 5 through 8 Reduce your smoking to reach one-quarter of your starting daily number of cigarettes.
-Example: If you usually smoked 20 cigarettes each day, reduce your smoking to 5 cigarettes each day during weeks 5 through 8.
-Weeks 9 through 12 Keep reducing your smoking until you are no longer smoking (you reach zero cigarettes each day).
+OR o If you are sure that you are not able or willing to quit smoking right away, start taking varenicline tablets and reduce smoking during the first 12 weeks of treatment, as follows:
+
+| Weeks 1 through 4 | Reduce your smoking to reach one-half of your starting daily number of cigarettes. Example: If you usually smoke 20 cigarettes each day, reduce your smoking to 10 cigarettes each day during weeks 1 through 4. |
+| --- | --- |
+| Weeks 5 through 8 | Reduce your smoking to reach one-quarter of your starting daily number of cigarettes. Example: If you usually smoked 20 cigarettes each day, reduce your smoking to 5 cigarettes each day during weeks 5 through 8. |
+| Weeks 9 through 12 | Keep reducing your smoking until you are no longer smoking (you reach zero cigarettes each day). |
+
 Aim to quit by the end of the 12th week of treatment, or sooner if you feel ready.
 Continue to take varenicline tablets for another 12 weeks, for a total of 24 weeks of treatment.
 Starting varenicline tablets before your quit date gives varenicline tablets time to build up in your body.
@@ -56,7 +58,13 @@ You can keep smoking during this time.
 Take varenicline tablets exactly as prescribed by your healthcare provider. • Varenicline tablets comes as a white tablet (0.5 mg) and a blue tablet (1 mg).
 You start with the white tablet and then usually go to the blue tablet.
 See the chart below for dosing instructions for adults.
-Day 1 to Day 3 o White tablet (0.5 mg) o Take 1 tablet each day Day 4 to Day 7 o White tablet (0.5 mg) o Take 1 in the morning and 1 in the evening Day 8 to end of treatment o Blue tablet (1 mg) o Take 1 in the morning and 1 in the evening • Make sure that you try to stop smoking on your quit date.
+
+| Day 1 to Day 3 | White tablet (0.5 mg)Take 1 tablet each day |
+| --- | --- |
+| Day 4 to Day 7 | White tablet (0.5 mg)Take 1 in the morning and 1 in the evening |
+| Day 8 to end of treatment | Blue tablet (1 mg)Take 1 in the morning and 1 in the evening |
+
+•Make sure that you try to stop smoking on your quit date.
 If you slip-up and smoke, try again.
 Some people need to take varenicline tablets for a few weeks for varenicline tablets to work best. • Most people will take varenicline tablets for up to 12 weeks.
 If you have completely quit smoking by 12 weeks, your healthcare provider may prescribe varenicline tablets for another 12 weeks to help you stay cigarette-free. • Take varenicline tablets after eating and with a full glass (8 ounces) of water. • This dosing schedule may not be right for everyone.
@@ -70,11 +78,11 @@ Some people have experienced the following when drinking alcohol during treatmen
 Serious side effects of varenicline tablets may include: • See “What is the most important information I should know about varenicline tablets?” • Seizures.
 Some people have had seizures during treatment with varenicline tablets.
 In most cases, the seizures have happened during the first month of treatment with varenicline tablets.
-If you have a seizure during treatment with varenicline tablets, stop taking varenicline tablets and contact your healthcare provider right away. • New or worse heart or blood vessel (cardiovascular) problems, mostly in people, who already have cardiovascular problems.
+If you have a seizure during treatment with varenicline tablets, stop taking varenicline tablets and contact your healthcare provider right away. •New or worse heart or blood vessel (cardiovascular) problems, mostly in people, who already have cardiovascular problems.
 Tell your healthcare provider if you have any changes in symptoms during treatment with varenicline tablets.
-Get emergency medical help right away if you have any of the following symptoms of a heart attack, including: o chest discomfort (uncomfortable pressure, squeezing, fullness or pain) that lasts more than a few minutes, or that goes away and comes back o pain or discomfort in one or both arms, back, neck, jaw or stomach o shortness of breath, sweating, nausea, vomiting, or feeling lightheaded associated with chest discomfort • Sleepwalking can happen with varenicline tablets, and can sometimes lead to behavior that is harmful to you or other people, or to property.
-Stop taking varenicline tablets and tell your healthcare provider if you start sleepwalking. • Allergic reactions can happen with varenicline tablets.
-Some of these allergic reactions can be life-threatening. • Serious skin reactions, including rash, swelling, redness, and peeling of the skin.
+Get emergency medical help right away if you have any of the following symptoms of a heart attack, including: o chest discomfort (uncomfortable pressure, squeezing, fullness or pain) that lasts more than a few minutes, or that goes away and comes back o pain or discomfort in one or both arms, back, neck, jaw or stomach o shortness of breath, sweating, nausea, vomiting, or feeling lightheaded associated with chest discomfort •Sleepwalking can happen with varenicline tablets, and can sometimes lead to behavior that is harmful to you or other people, or to property.
+Stop taking varenicline tablets and tell your healthcare provider if you start sleepwalking. •Allergic reactions can happen with varenicline tablets.
+Some of these allergic reactions can be life-threatening. •Serious skin reactions, including rash, swelling, redness, and peeling of the skin.
 Some of these skin reactions can become life-threatening.
 Stop taking varenicline tablets and get medical help right away if you have any of the following symptoms: o swelling of the face, mouth (tongue, lips, and gums), throat or neck o trouble breathing o rash with peeling skin o blisters in your mouth The most common side effects of varenicline tablets include: • nausea • sleep problems (trouble sleeping or vivid, unusual, or strange dreams) • constipation • gas • vomiting Tell your healthcare provider about side effects that bother you or that do not go away.
 These are not all the side effects of varenicline tablets.
@@ -82,8 +90,10 @@ Ask your healthcare provider or pharmacist for more information.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 How should I store varenicline tablets? • Store varenicline tablets at room temperature, between 68°F to 77°F (20°C to 25°C).
+
 Protect from light.
-Keep varenicline tablets and all medicines out of the reach of children.
+
+•Keep varenicline tablets and all medicines out of the reach of children.
 General information about the safe and effective use of varenicline tablets.
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use varenicline tablets for a condition for which it was not prescribed.
@@ -95,7 +105,7 @@ For more information about varenicline tablets and tips on how to quit smoking, 
 If you are motivated to quit smoking and did not succeed during prior varenicline tablets treatment for reasons other than side effects, or if you returned to smoking after treatment, speak with your healthcare provider about whether another course of varenicline tablets therapy may be right for you.
 What are the ingredients in varenicline tablets?
 
-Active ingredient: varenicline tartrate Inactive ingredients: croscarmellose sodium, hypromellose, maltodextrin, microcrystalline cellulose, polyethylene glycol, stearic acid, titanium dioxide, triacetin.
+Active ingredient: varenicline tartrate Inactive ingredients: croscarmellose sodium, hypromellose, maltodextrin, microcrystalline cellulose, polyethylene glycol, stearic acid,titanium dioxide, triacetin.
 Additionally, FD & C blue # 1, FD & C blue #2, talc, yellow iron oxide are present in 1 mg strength.
 
 Manufactured by:
@@ -104,8 +114,14 @@ Alkem Laboratories Ltd.,
 
 Mumbai - 400 013, INDIA.
 
-Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Distributed by:
 
-Revised: January, 2023
+Ascend Laboratories, LLC
 
-PT3525
+Bedminster, NJ 07921
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Revised: January 2026
+
+PT3525-01

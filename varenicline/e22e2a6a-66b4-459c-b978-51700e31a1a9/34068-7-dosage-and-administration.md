@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Usual Dosage for Adults
+## 2.1 Recommended Dosage for Adults
 
 Smoking cessation therapies are more likely to succeed for patients who are motivated to stop smoking and who are provided additional advice and support.
 Provide patients with appropriate educational materials and counseling to support the quit attempt.

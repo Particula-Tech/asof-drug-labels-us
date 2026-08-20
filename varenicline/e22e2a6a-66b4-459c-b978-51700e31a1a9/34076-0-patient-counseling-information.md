@@ -90,4 +90,8 @@ Alkem Laboratories Ltd.,
 
 Mumbai - 400 013, INDIA.
 
-Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
+Distributed by:
+
+Ascend Laboratories, LLC
+
+Bedminster, NJ 07921

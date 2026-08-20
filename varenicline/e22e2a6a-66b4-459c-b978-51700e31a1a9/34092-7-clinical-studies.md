@@ -132,7 +132,7 @@ Continuous Abstinence (95% confidence interval), Re-Treatment Study
 |  | Weeks 9 through 12 |  | Weeks 9 through 52 |  |
 | --- | --- | --- | --- | --- |
 |  | Varenicline Tablets 1 mg BID | Placebo | Varenicline Tablets 1 mg BID | Placebo |
-| Retreatment Study | 45% (39%, 51%) | 12% (8%, 16%) | 20% (15%, 25%) | 3% (1%, 5%) |
+| Re-treatment Study | 45% (39%, 51%) | 12% (8%, 16%) | 20% (15%, 25%) | 3% (1%, 5%) |
 
 BID = twice daily
 

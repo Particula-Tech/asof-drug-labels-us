@@ -5,7 +5,7 @@
 Serious neuropsychiatric adverse events have been reported in patients being treated with varenicline tablets [see Adverse Reactions (6.2)].
 These postmarketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide.
 Some patients who stopped smoking may have been experiencing symptoms of nicotine withdrawal, including depressed mood.
-Depression, rarely including suicidal ideation, has been reported in smokers undergoing a smoking cessation attempt without medication.
+Depression, rarely including suicidal ideation, has been reported in smokers undergoing a smoking-cessation attempt without medication.
 However, some of these adverse events occurred in patients taking varenicline tablets who continued to smoke.
 Neuropsychiatric adverse events occurred in patients without and with pre-existing psychiatric disease; some patients experienced worsening of their psychiatric illnesses.
 Some neuropsychiatric adverse events, including unusual and sometimes aggressive behavior directed to oneself or others, may have been worsened by concomitant use of alcohol [see Warnings and Precautions (5.3), Adverse Reactions (6.2)].
