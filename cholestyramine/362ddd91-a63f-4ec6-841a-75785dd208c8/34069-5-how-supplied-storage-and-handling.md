@@ -23,4 +23,4 @@ Store between 20º to 25ºC (68º to 77ºF).
 [See USP Controlled Room Temperature].
 Excursions permitted to 15º to 30ºC (59º to 86ºF).
 
-®Registered trademark of Endo, Inc.
+®Registered trademark of Par Health, Inc.
