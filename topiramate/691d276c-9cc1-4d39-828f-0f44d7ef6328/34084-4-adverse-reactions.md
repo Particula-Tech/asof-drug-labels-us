@@ -10,10 +10,12 @@ The following serious adverse reactions are discussed in more detail in other se
 - Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
 - Decrease in Bone Mineral Density [see Warnings and Precautions (5.9)]
 - Negative Effects on Growth (Height and Weight) [see Warnings and Precautions (5.10)]
-- Serious Skin Reactions [see Warnings and Precautions (5.11)]
-- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use [see Warnings and Precautions (5.12)]
-- Kidney Stones [see Warnings and Precautions (5.13)]
-- Hypothermia with Concomitant Valproic Acid Use [see Warnings and Precautions (5.14)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions [see Warnings and Precautions (5.11)]
+- Serious Skin Reactions [see Warnings and Precautions (5.12)]
+- Anaphylaxis and Angioedema [see Warnings and Precautions (5.13)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use [see Warnings and Precautions (5.14)]
+- Kidney Stones [see Warnings and Precautions (5.15)]
+- Hypothermia with Concomitant Valproic Acid Use [see Warnings and Precautions (5.16)]
 
 The data described in section 6.1 were obtained using immediate-release topiramate tablets.
 
@@ -57,7 +59,7 @@ Table 5: Adverse Reactions in the High Dose Group as Compared to the Low Dose Gr
 | Ataxia |  |  |  | 3 | 4 |
 | Hypoesthesia |  |  |  | 4 | 5 |
 | Hypertonia |  |  |  | 0 | 3 |
-| Involuntary Muscle contraction | 0 | 3 |  |  |  |
+| Involuntary muscle contraction | 0 | 3 |  |  |  |
 | Vertigo | 0 | 3 |  |  |  |
 | Gastro-Intestinal System Disorders |  |  |  |  |  |
 | Constipation |  |  |  | 1 | 4 |
@@ -65,7 +67,7 @@ Table 5: Adverse Reactions in the High Dose Group as Compared to the Low Dose Gr
 | Gastritis |  |  |  | 0 | 3 |
 | Dry mouth |  |  |  | 1 | 3 |
 | Liver and Biliary System Disorders |  |  |  |  |  |
-| Increase in Gamma-GT |  |  |  | 1 | 3 |
+| Increase in gamma-GT |  |  |  | 1 | 3 |
 | Metabolic and Nutritional Disorders |  |  |  |  |  |
 | Weight loss | 7 | 17 |  | 6 | 17 |
 | Platelet, Bleeding & Clotting Disorders |  |  |  |  |  |
@@ -296,7 +298,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Bronchitis | 2 | 3 | 3 |
 | Dyspnea | 2 | 1 | 3 |
 | Skin and Appendages Disorders |  |  |  |
-| Pruritis | 2 | 4 | 2 |
+| Pruritus | 2 | 4 | 2 |
 | Special Sense Other, Disorders |  |  |  |
 | Taste perversion | 1 | 15 | 8 |
 | Urinary System Disorders |  |  |  |
@@ -383,7 +385,7 @@ In pediatric patients (1 to 24 months) receiving adjunctive topiramate for parti
 The incidence was also increased for a decreased result for bicarbonate (i.e., metabolic acidosis), and potassium with immediate-release (vs placebo) [see Use in Specific Populations (8.4)].
 Topiramate extended-release capsules are not indicated for partial-onset seizures in pediatric patients less than 2 years of age.
 
-In pediatric patients (ranging from 6 to 17 years of age) receiving immediate-release topiramate for the preventive treatment of migraine, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with immediate-release topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, uric acid, chloride, ammonia, alkaline phosphatase, total protein, platelets, and eosinophils.
+In pediatric patients (ranging from 6 to 17 years of age) receiving immediate-release topiramate for the preventive treatment of migraine, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with immediate-release topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, blood urea nitrogen (BUN), uric acid, chloride, ammonia, alkaline phosphatase, total protein, platelets, and eosinophils.
 The incidence was also increased for a decreased result for phosphorus, bicarbonate, total white blood count, and neutrophils [see Use in Specific Populations (8.4)].
 Topiramate extended-release capsules are not indicated for the preventive treatment of migraine in pediatric patients less than 12 years of age.
 
@@ -424,14 +426,14 @@ In the controlled clinical study using topiramate extended-release, 8.9% of pati
 
 ## 6.3 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of immediate-release topiramate.
+The following adverse reactions have been identified during post-approval use of topiramate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole–General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.12)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.14)]
+Body as a Whole–General Disorders: immediate hypersensitivity reactions (including anaphylaxis and angioedema [see Warnings and Precautions (5.13)], delayed hypersensitivityreactions (including facial swelling, lip swelling, periorbital swelling, tongue swelling),oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.12)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.14)]
 
 Gastrointestinal System Disorders: hepatic failure (including fatalities), hepatitis, pancreatitis
 
-Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.11)], pemphigus
+Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.11)], pemphigus, urtcaria
 
 Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.13)]
 

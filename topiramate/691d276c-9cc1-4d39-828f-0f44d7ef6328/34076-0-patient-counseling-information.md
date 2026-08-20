@@ -55,10 +55,18 @@ Negative Effects on Growth (Height and Weight)
 
 Discuss with the patient or caregiver that long-term topiramate extended-release capsules treatment may attenuate growth as reflected by slower height increase and weight gain in pediatric patients [see Warnings and Precautions (5.10)].
 
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions
+
+Instruct patients that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related.
+Advise patients to report such reactions to a healthcare provider immediately [see Warnings and Precautions (5.11)].
+
 Serious Skin Reactions
 
 Inform patients about the signs of serious skin reactions.
 Instruct patients to immediately inform their healthcare provider at the first appearance of skin rash [see Warnings and Precautions (5.11)].
+
+Anaphylaxis and Angioedema Inform patients about the signs and symptoms of hypersensitivity reactions such as anaphylaxis and angioedema, which can occur with topiramate extended-release capsules.
+Advise patients to seek immediate medical attention if they experience any symptoms of serious hypersensitivity reactions [see Warnings and Precautions (5.13)].
 
 Hyperammonemia and Encephalopathy
 

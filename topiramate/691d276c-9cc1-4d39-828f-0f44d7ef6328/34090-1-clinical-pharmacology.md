@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-12.1 Mechanism of Action
+## 12.1 Mechanism of Action
 
 The precise mechanisms by which topiramate exerts its anticonvulsant and preventive migraine effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate’s efficacy for epilepsy and the preventive treatment of migraine.
 Electrophysiological and biochemical evidence suggests that topiramate, at pharmacologically relevant concentrations, blocks voltage-dependent sodium channels, augments the activity of the neurotransmitter gamma-aminobutyrate at some subtypes of the GABA‑A receptor, antagonizes the AMPA/kainate subtype of the glutamate receptor, and inhibits the carbonic anhydrase enzyme, particularly isozymes II and IV.
@@ -121,6 +121,7 @@ Table 12: Summary of AED Interactions with Topiramate
 
 | AED Co-administered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |
+| NC=Less than 10% change in plasma concentration AED=Antiepileptic drug NE=Not evaluated TPM=topiramate |  |  |
 | Phenytoin | NC or 25% increase Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin | 48% decrease |
 | Carbamazepine (CBZ) | NC | 40% decrease |
 | CBZ epoxide Is not administered, but is an active metabolite of carbamazepine | NC | NE |
@@ -128,7 +129,6 @@ Table 12: Summary of AED Interactions with Topiramate
 | Phenobarbital | NC | NE |
 | Primidone | NC | NE |
 | Lamotrigine | NC at TPM doses up to 400 mg per day | 13% decrease |
-| NC=Less than 10% change in plasma concentration AED=Antiepileptic drug NE=Not evaluated TPM=topiramate |  |  |
 
 Oral Contraceptives
 
