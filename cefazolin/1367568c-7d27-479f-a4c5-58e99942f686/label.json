@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA216109"
+  ],
+  "inn": "cefazolin",
+  "labeler": "Civica, Inc.",
+  "package_ndcs": [
+    "72572-054-01",
+    "72572-054-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "cefazolin",
+      "name": "Cefazolin"
+    }
+  ],
+  "setid": "1367568c-7d27-479f-a4c5-58e99942f686",
+  "source": "dailymed"
+}
