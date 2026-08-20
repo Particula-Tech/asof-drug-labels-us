@@ -26,46 +26,42 @@ Hepatotoxicity
 
 Pre-existing liver disease including Hepatitis B or C can worsen with use of ritonavir.
 This can be seen as worsening of transaminase elevations or hepatic decompensation.
-Advise patients that their liver function tests will need to be monitored closely especially during the first several months of ritonavir treatment and that they should notify their healthcare provider if they develop the signs and symptoms of worsening liver disease including loss of appetite, abdominal pain, jaundice, and itchy skin [see Warnings and Precautions (5.3)].
+Advise patients that their liver function tests will need to be monitored closely especially during the first several months of ritonavir treatment and that they should notify their healthcare provider if they develop the signs and symptoms of worsening liver disease including loss of appetite, abdominal pain, jaundice, and itchy skin [see Warnings and Precautions (5.2)].
 
 Pancreatitis
 
 Pancreatitis, including some fatalities, has been observed in patients receiving ritonavir therapy.
-Advise patients to notify their healthcare provider of signs and symptoms (nausea, vomiting, and abdominal pain) that might be suggestive of pancreatitis [see Warnings and Precautions (5.4)].
+Advise patients to notify their healthcare provider of signs and symptoms (nausea, vomiting, and abdominal pain) that might be suggestive of pancreatitis [see Warnings and Precautions (5.3)].
 
 Allergic Reactions/Hypersensitivity
 
 Skin rashes ranging in severity from mild to Stevens-Johnson syndrome have been reported in patients receiving ritonavir.
-Advise patients to contact their healthcare provider if they develop a rash while taking ritonavir [see Warnings and Precautions (5.5)].
+Advise patients to contact their healthcare provider if they develop a rash while taking ritonavir [see Warnings and Precautions (5.4)].
 
 PR Interval Prolongation
 
 Ritonavir may produce changes in the electrocardiogram (e.g., PR prolongation).
-Advise patients to consult their healthcare provider if they experience symptoms such as dizziness, lightheadedness, abnormal heart rhythm or loss of consciousness [see Warnings and Precautions (5.6)].
+Advise patients to consult their healthcare provider if they experience symptoms such as dizziness, lightheadedness, abnormal heart rhythm or loss of consciousness [see Warnings and Precautions (5.5)].
 
 Lipid Disorders
 
-Advise patients that treatment with ritonavir therapy can result in substantial increases in the concentration of total cholesterol and triglycerides [see Warnings and Precautions (5.7)].
+Advise patients that treatment with ritonavir therapy can result in substantial increases in the concentration of total cholesterol and triglycerides [see Warnings and Precautions (5.6)].
 
 Diabetes Mellitus/Hyperglycemia
 
-Advise patients that new onset of diabetes or exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported and to notify their healthcare provider if they develop the signs and symptoms of diabetes mellitus including frequent urination, excessive thirst, extreme hunger or unusual weight loss and/or an increased blood sugar while on ritonavir as they may require a change in their diabetes treatment or new treatment [see Warnings and Precautions (5.8)].
+Advise patients that new onset of diabetes or exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported and to notify their healthcare provider if they develop the signs and symptoms of diabetes mellitus including frequent urination, excessive thirst, extreme hunger or unusual weight loss and/or an increased blood sugar while on ritonavir as they may require a change in their diabetes treatment or new treatment [see Warnings and Precautions (5.7)].
 
 Immune Reconstitution Syndrome
 
-Advise patients that immune reconstitution syndrome has been reported in HIV-infected patients treated with combination antiretroviral therapy, including ritonavir [see Warnings and Precautions (5.9)].
+Advise patients that immune reconstitution syndrome has been reported in HIV-infected patients treated with combination antiretroviral therapy, including ritonavir [see Warnings and Precautions (5.8)].
 
 Fat Redistribution
 
-Advise patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long term health effects of these conditions are not known at this time [see Warnings and Precautions (5.10)].
+Advise patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long term health effects of these conditions are not known at this time [see Warnings and Precautions (5.9)].
 
 Patients with Hemophilia
 
-Advise patients with hemophilia that they may experience increased bleeding when treated with protease inhibitors such as ritonavir [see Warnings and Precautions (5.11)].
-
-Ritonavir Oral Solution Not Recommended During Pregnancy
-
-Advise pregnant women that use of ritonavir oral solution during pregnancy is not recommended due to its alcohol content [see Dosage and Administration (2.3) and Use in Specific Populations (8.1)].
+Advise patients with hemophilia that they may experience increased bleeding when treated with protease inhibitors such as ritonavir [see Warnings and Precautions (5.10)].
 
 Pregnancy Exposure Registry
 
@@ -80,4 +76,4 @@ Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 U.S. Patent No. 10,034,865
 
 Rev.
-11-2020-05
+08-2026-06
