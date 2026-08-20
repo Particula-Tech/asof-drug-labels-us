@@ -16,4 +16,4 @@ Rx Only
 
 10 x 4 mL Single-Dose Vials
 
-SANDOZ – A Novartis Division
+SANDOZ
