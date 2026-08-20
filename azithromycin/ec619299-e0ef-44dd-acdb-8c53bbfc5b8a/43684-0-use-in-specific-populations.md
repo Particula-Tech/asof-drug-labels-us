@@ -25,10 +25,10 @@ Azithromycin administered during the period of organogenesis did not cause fetal
 Based on body surface area, this dose is approximately 4 (rats) and 2 (mice) times an adult human daily dose of 500 mg.
 In rabbits administered azithromycin at oral doses of 10, 20, and 40 mg/kg/day during organogenesis, reduced maternal body weight and food consumption were observed in all groups; no evidence of fetotoxicity or teratogenicity was observed at these doses, the highest of which is estimated to be 2 times an adult human daily dose of 500 mg based on body surface area.
 
-In a pre-and postnatal development study, azithromycin was administered orally to pregnant rats from day 6 of pregnancy until weaning at doses of 50 or 200 mg/kg/day.
+In a pre- and postnatal development study, azithromycin was administered orally to pregnant rats from day 6 of pregnancy until weaning at doses of 50 or 200 mg/kg/day.
 Maternal toxicity (reduced food consumption and body weight gain; increased stress at parturition) was observed at the higher dose.
 Effects in the offspring were noted at 200 mg/kg/day during the postnatal development period (decreased viability, delayed developmental landmarks).
-These effects were not observed in a pre-and postnatal rat study when up to 200 mg/kg/day of azithromycin was given orally beginning on day 15 of pregnancy until weaning.
+These effects were not observed in a pre- and postnatal rat study when up to 200 mg/kg/day of azithromycin was given orally beginning on day 15 of pregnancy until weaning.
 
 ## 8.2 Lactation
 
@@ -52,7 +52,7 @@ Breastmilk (colostrum) samples obtained between 12 and 48 hours after dosing rev
 
 ## 8.4 Pediatric Use
 
-[See Clinical Pharmacology (12.3), Indications and Usage (1.2), and Dosage and Administration (2.2)].
+[see Clinical Pharmacology (12.3), Indications and Usage (1.2), and Dosage and Administration (2.2)]
 
 Safety and effectiveness in the treatment of pediatric patients with acute otitis media, acute bacterial sinusitis and community-acquired pneumonia under 6 months of age have not been established.
 Use of azithromycin for the treatment of acute bacterial sinusitis and community-acquired pneumonia in pediatric patients (6 months of age or greater) is supported by adequate and well-controlled trials in adults.
@@ -67,6 +67,3 @@ In multiple-dose clinical trials of oral azithromycin, 9% of patients were at le
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 Elderly patients may be more susceptible to development of torsades de pointes arrhythmias than younger patients [see Warnings and Precautions (5.4)].
-
-Azithromycin tablets 250 mg contain 0.32 mg of sodium per tablet.
-Azithromycin tablets 500 mg contain 0.65 mg of sodium per tablet.

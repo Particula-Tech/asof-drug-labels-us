@@ -2,13 +2,13 @@
 
 NDC 0781-8089-31
 
+Rx Only
+
 Azithromycin
 
 Tablets, USP
 
 250 mg
-
-Rx Only
 
 30 Tablets
 
@@ -18,13 +18,13 @@ SANDOZ
 
 NDC 0781-8090-31
 
+Rx only
+
 Azithromycin
 
 Tablets, USP
 
 500 mg
-
-Rx only
 
 30 Tablets
 

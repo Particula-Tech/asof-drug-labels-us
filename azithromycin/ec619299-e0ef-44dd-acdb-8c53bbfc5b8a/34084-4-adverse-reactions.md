@@ -1,16 +1,5 @@
 # 6 ADVERSE REACTIONS
 
-The following clinically significant adverse reactions are described elsewhere in labeling:
-
-- •Hypersensitivity [see Warnings and Precautions (5.1)]
-- •Hepatotoxicity [see Warnings and Precautions (5.2)]
-- •
-- •Infantile Hypertrophic Pyloric Stenosis (IHPS) [see Warnings and Precautions (5.3)]
-- •QT Prolongation [see Warnings and Precautions (5.4)]
-- •Cardiovascular Death [see Warnings and Precautions (5.5)]
-- •Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.6)]
-- •Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.7)]
-
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -22,7 +11,7 @@ In adults given 500 mg/day for 3 days, the discontinuation rate due to treatment
 In clinical trials in pediatric patients given 30 mg/kg, either as a single dose or over 3 days, discontinuation from the trials due to treatment-related adverse reactions was approximately 1%.
 Most of the adverse reactions leading to discontinuation were related to the gastrointestinal tract, e.g., nausea, vomiting, diarrhea, or abdominal pain [see Clinical Studies (14.2)].
 
-Adults
+Clinical Trials Experience in Adults
 
 Multiple-dose regimens: Overall, the most common treatment-related adverse reactions in adult patients receiving multiple-dose regimens of azithromycin were related to the gastrointestinal system with diarrhea/loose stools (4 to 5%), nausea (3%), and abdominal pain (2 to 3%) being the most frequently reported.
 
@@ -45,7 +34,7 @@ Single 1-gram dose regimen
 
 Overall, the most common adverse reactions in patients receiving a single-dose regimen of 1 gram of azithromycin were related to the gastrointestinal system and were more frequently reported than in patients receiving the multiple-dose regimen.
 
-Adverse reactions that occurred in patients on the single 1-gram dosing regimen of azithromycin with a frequency of 1% or greater included diarrhea/loose stools (7%), nausea (5%), abdominal pain (5%), vomiting (2%), dyspepsia (1%) and vaginitis (1%).
+Adverse reactions that occurred in patients on the single 1-gram dosing regimen of azithromycin with a frequency of 1% or greater included diarrhea/loose stools (7%), nausea (5%), abdominal pain (5%), vomiting (2%), dyspepsia (1%), and vaginitis (1%).
 
 Single 2-gram dose regimen
 
@@ -53,34 +42,37 @@ Overall, the most common adverse reactions in patients receiving a single 2-gram
 Adverse reactions that occurred in patients in this study with a frequency of 1% or greater included nausea (18%), diarrhea/loose stools (14%), vomiting (7%), abdominal pain (7%), vaginitis (2%), dyspepsia (1%), and dizziness (1%).
 The majority of these complaints were mild in nature.
 
-Pediatric Patients
+Clinical Trials Experience in Pediatric Patients
 
 Single and Multiple-dose regimens: The types of adverse reactions in pediatric patients were comparable to those seen in adults, with different incidence rates for the dosage regimens recommended in pediatric patients.
 
 Acute Otitis Media: For the recommended total dosage regimen of 30 mg/kg, the most frequent adverse reactions (≥1%) attributed to treatment were diarrhea, abdominal pain, vomiting, nausea, and rash [see Dosage and Administration (2) and Clinical Studies (14.2)].
 
-The incidence, based on dosing regimen, is described in the table below:
+The incidence, based on dosing regimen, is described in table 7 below:
 
 | Dosage Regimen | Diarrhea % | Abdominal Pain % | Vomiting % | Nausea % | Rash % |
 | --- | --- | --- | --- | --- | --- |
+| Table 7: Incidence of Adverse Reactions in Pediatric Patients Treated for Acute Otitis Media |  |  |  |  |  |
 | 1-day | 4.3% | 1.4% | 4.9% | 1.0% | 1.0% |
 | 3-day | 2.6% | 1.7% | 2.3% | 0.4% | 0.6% |
 | 5-day | 1.8% | 1.2% | 1.1% | 0.5% | 0.4% |
 
 Community-Acquired Pneumonia: For the recommended dosage regimen of 10 mg/kg on Day 1 followed by 5 mg/kg on Days 2 to 5, the most frequent adverse reactions attributed to treatment were diarrhea/loose stools, abdominal pain, vomiting, nausea, and rash.
 
-The incidence is described in the table below:
+The incidence is described in table 8 below:
 
 | Dosage Regimen | Diarrhea/Loose stools % | Abdominal Pain % | Vomiting % | Nausea % | Rash % |
 | --- | --- | --- | --- | --- | --- |
+| Table 8: Incidence of Adverse Reactions in Pediatric Patients Treated for Community-Acquired Pneumonia |  |  |  |  |  |
 | 5-day | 5.8% | 1.9% | 1.9% | 1.9% | 1.6% |
 
-Pharyngitis/tonsillitis: For the recommended dosage regimen of 12 mg/kg on Days 1 to 5, the most frequent adverse reactions attributed to treatment were diarrhea, vomiting, abdominal pain, nausea, and headache.
+Pharyngitis/Tonsillitis: For the recommended dosage regimen of 12 mg/kg on Days 1 to 5, the most frequent adverse reactions attributed to treatment were diarrhea, vomiting, abdominal pain, nausea, and headache.
 
-The incidence is described in the table below:
+The incidence is described in table 9 below:
 
 | Dosage Regimen | Diarrhea % | Abdominal Pain % | Vomiting % | Nausea % | Rash % | Headache % |
 | --- | --- | --- | --- | --- | --- | --- |
+| Table 9: Incidence of Adverse Reactions in Pediatric Patients Treated for Pharyngitis/Tonsillitis |  |  |  |  |  |  |
 | 5-day | 5.4% | 3.4% | 5.6% | 1.8% | 0.7% | 1.1% |
 
 With any of the treatment regimens, no other adverse reactions occurred in pediatric patients treated with azithromycin with a frequency greater than 1%.
@@ -114,7 +106,7 @@ Adverse reactions reported with azithromycin during the postmarketing period in 
 Allergic:Arthralgia, edema, urticaria, and angioedema.
 
 Cardiovascular: Arrhythmias including ventricular tachycardia and hypotension.
-There have been reports of QT prolongation, torsades de pointes and cardiovascular death.
+There have been reports of QT prolongation, torsades de pointes, and cardiovascular death.
 
 Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and reports of tongue discoloration.
 
