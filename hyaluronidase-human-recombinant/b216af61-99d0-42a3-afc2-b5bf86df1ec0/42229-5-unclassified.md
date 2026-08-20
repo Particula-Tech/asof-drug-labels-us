@@ -4,4 +4,4 @@ Manufactured by: Genentech, Inc. A Member of the Roche Group 1 DNA Way South San
 
 U.S. License No. 1048
 
-OCREVUS ZUNOVO is a registered trademark of Genentech, Inc. ©2025 Genentech, Inc.
+OCREVUS ZUNOVO is a registered trademark of Genentech, Inc. ©2026 Genentech, Inc.

@@ -76,6 +76,7 @@ OCREVUS ZUNOVO should be prepared by a healthcare professional.
 - Remove the vial from refrigerated storage and allow the solution to acclimate to room temperature at or below 25°C (77°F).
 - Withdraw the entire contents of OCREVUS ZUNOVO solution from the vial with a syringe and transfer needle (21G needle recommended).
 - Do not dilute.
+- Label the syringe with the peel-off label.
 - Remove the transfer needle from the syringe and replace with a subcutaneous infusion set (e.g., winged/butterfly) containing a 24G-26G needle for injection.
   Use a subcutaneous infusion set with a priming volume NOT to exceed 0.8 mL for administration.
 - Prime the subcutaneous infusion line with the drug product solution to eliminate the air in the infusion line and stop before the fluid reaches the needle.
