@@ -16,10 +16,10 @@ At supratherapeutic exposures of lenacapavir (9-fold higher than the therapeutic
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetic (PK) properties of lenacapavir are provided in Table 6 and Table 7.
+The pharmacokinetic (PK) properties of lenacapavir are provided in Table 8 and Table 9.
 The estimated lenacapavir exposures are comparable between the two recommended dosing regimens.
 
-Table 6 Pharmacokinetic Properties of Lenacapavir
+Table 8 Pharmacokinetic Properties of Lenacapavir
 
 |  |  | Oral | Subcutaneous |
 | --- | --- | --- | --- |
@@ -46,7 +46,7 @@ Table 6 Pharmacokinetic Properties of Lenacapavir
 | % of dose excreted in urine |  | <1 |  |
 | % of dose excreted in feces (% unchanged) |  | 76 (33) |  |
 
-Table 7 Lenacapavir Exposures Following Oral and Subcutaneous Administration of SUNLENCA in Heavily Treatment Experienced Participants with HIV
+Table 9 Lenacapavir Exposures Following Oral and Subcutaneous Administration of SUNLENCA in Heavily Treatment Experienced Participants with HIV
 
 | Day 1 to end of Month 6 | Days 1 to 15 | Day 15 to end of Month 6 |  |
 | --- | --- | --- | --- |
@@ -71,13 +71,13 @@ Drug Interaction Studies
 Clinical Studies
 
 Clinical drug-drug interaction study indicated that lenacapavir is a substrate of CYP3A, P-gp, and UGT1A1.
-Table 8 summarizes the pharmacokinetic effects of other drugs on lenacapavir.
+Table 10 summarizes the pharmacokinetic effects of other drugs on lenacapavir.
 
 Lenacapavir is a moderate inhibitor of CYP3A.
 Lenacapavir is an inhibitor of P-gp and BCRP but does not inhibit OATP.
-Table 9 summarizes the pharmacokinetic effects of lenacapavir on other drugs.
+Table 11 summarizes the pharmacokinetic effects of lenacapavir on other drugs.
 
-Table 8 Effect of Other Drugs on Lenacapavir Single dose of lenacapavir 300 mg administered orally.,All interaction studies conducted in participants without HIV-1.
+Table 10 Effect of Other Drugs on Lenacapavir Single dose of lenacapavir 300 mg administered orally.,All interaction studies conducted in participants without HIV-1.
 
 | Cmax | AUC |  |  |
 | --- | --- | --- | --- |
@@ -90,7 +90,7 @@ Table 8 Effect of Other Drugs on Lenacapavir Single dose of lenacapavir 300 mg a
 | Efavirenz (fasted) (Inducer of CYP3A [moderate] and P-gp) | 600 once daily | 0.64 (0.45, 0.92) | 0.44 (0.32, 0.59) |
 | Famotidine (2 hours before, fasted) | 40 once daily | 1.01 (0.75, 1.34) | 1.28 (1.00, 1.63) |
 
-Table 9 Effect of Lenacapavir on Other Drugs All interaction studies conducted in participants without HIV-1.,Following 600 mg twice daily for 2 days, single 600 mg doses of lenacapavir were administered with each coadministered drug, resulting in lenacapavir exposures similar to or higher than those at the recommended dosage regimen.
+Table 11 Effect of Lenacapavir on Other Drugs All interaction studies conducted in participants without HIV-1.,Following 600 mg twice daily for 2 days, single 600 mg doses of lenacapavir were administered with each coadministered drug, resulting in lenacapavir exposures similar to or higher than those at the recommended dosage regimen.
 
 | Cmax | AUC |  |  |
 | --- | --- | --- | --- |

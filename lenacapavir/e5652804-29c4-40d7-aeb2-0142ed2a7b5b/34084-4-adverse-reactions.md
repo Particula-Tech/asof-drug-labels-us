@@ -13,9 +13,9 @@ The primary safety assessment of SUNLENCA was based on data from heavily treatme
 
 The most common adverse reactions (all Grades) reported in at least 3% of participants in CAPELLA were nausea and injection site reactions.
 The proportion of participants in CAPELLA who discontinued treatment with SUNLENCA due to adverse events, regardless of severity, was 1% (Grade 1 injection site nodule in 1 participant).
-Table 3 displays the frequency of adverse reactions (all Grades) greater than or equal to 3% in the SUNLENCA group.
+Table 5 displays the frequency of adverse reactions (all Grades) greater than or equal to 3% in the SUNLENCA group.
 
-Table 3 Adverse Reactions (All Grades) Reported in ≥ 3% Frequencies of adverse reactions are based on all adverse events attributed to trial drug by the investigator, based on all participants (cohorts 1 and 2) in CAPELLA. of Heavily Treatment Experienced Adults with HIV-1 Receiving SUNLENCA in CAPELLA (Week 52 Analysis)
+Table 5 Adverse Reactions (All Grades) Reported in ≥ 3% Frequencies of adverse reactions are based on all adverse events attributed to trial drug by the investigator, based on all participants (cohorts 1 and 2) in CAPELLA. of Heavily Treatment Experienced Adults with HIV-1 Receiving SUNLENCA in CAPELLA (Week 52 Analysis)
 
 | Adverse Reactions | SUNLENCA + Background Regimen (N=72) |
 | --- | --- |
@@ -44,10 +44,10 @@ Measurements of injection site nodules and indurations were not routinely perfor
 
 Laboratory Abnormalities
 
-The frequency of laboratory abnormalities (Grades 3 to 4) occurring in at least 2% of participants in CAPELLA are presented in Table 4.
+The frequency of laboratory abnormalities (Grades 3 to 4) occurring in at least 2% of participants in CAPELLA are presented in Table 6.
 A causal association between SUNLENCA and these laboratory abnormalities has not been established.
 
-Table 4 Selected Laboratory Abnormalities (Grades 3 to 4) Reported in ≥ 2% of Participants Receiving SUNLENCA in CAPELLA (Week 52 Analysis)
+Table 6 Selected Laboratory Abnormalities (Grades 3 to 4) Reported in ≥ 2% of Participants Receiving SUNLENCA in CAPELLA (Week 52 Analysis)
 
 | Laboratory Parameter Abnormality | SUNLENCA + Background Regimen (N=72) Frequencies are based on treatment-emergent laboratory abnormalities in all participants (cohorts 1 and 2) in CAPELLA. Percentages were calculated based on the number of participants with post-baseline toxicity grades for each laboratory parameter (n=72 for all parameters except hyperglycemia fasting n=57). |
 | --- | --- |

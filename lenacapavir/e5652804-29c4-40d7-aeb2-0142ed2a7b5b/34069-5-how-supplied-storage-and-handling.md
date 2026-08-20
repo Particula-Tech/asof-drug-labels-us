@@ -25,19 +25,19 @@ Dispense and store only in original bottle or blister pack.
 
 SUNLENCA injection is packaged in one of two different injection kits containing the following:
 
-Vial access device injection kit (NDC 61958-3002-1):
+Vial Access Device Injection Kit (NDC 61958-3002-1):
 
 - 2 single-dose clear glass vials, each containing sufficient volume to allow withdrawal of 463.5 mg/1.5 mL (309 mg/mL) of lenacapavir.
   The injection solution is sterile, preservative-free, clear, and yellow with no visible particles.
   Vials are sealed with a stopper and aluminium overseal with flip-off cap.
 - 2 vial access devices, 2 disposable syringes, and 2 injection safety needles for subcutaneous injection (22-gauge, ½ inch).
 
-Withdrawal needle injection kit (NDC 61958-3005-1):
+Withdrawal Needle Injection Kit (NDC 61958-3005-1):
 
 - 2 single-dose clear glass vials, each containing sufficient volume to allow withdrawal of 463.5 mg/1.5 mL (309 mg/mL) of lenacapavir.
   The injection solution is sterile, preservative-free, clear, and yellow with no visible particles.
   Vials are sealed with a stopper and aluminium overseal with flip-off cap.
-- 2 disposable syringes, 2 withdrawal needles (18-gauge, 1.5 inch), and 2 injection safety needles for subcutaneous injection (22-gauge, ½ inch).
+- 2 disposable syringes, 2 withdrawal needles (18-gauge, 1.5 inch; may be supplied with or without a safety shield), and 2 injection safety needles for subcutaneous injection (22-gauge, ½ inch).
 
 The vial stoppers are not made with natural rubber latex.
 

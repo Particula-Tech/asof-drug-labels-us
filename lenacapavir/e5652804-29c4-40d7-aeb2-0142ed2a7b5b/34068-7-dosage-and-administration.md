@@ -69,26 +69,44 @@ SUNLENCA injection is a yellow solution.
 Do not use SUNLENCA injection if the solution is discolored or if it contains particulate matter.
 Once the solution is withdrawn from the vials, the subcutaneous injections should be administered as soon as possible [see How Supplied/Storage and Handling (16)].
 
-There are two available injection kits, which differ only in how SUNLENCA injection is prepared (the components and associated method for withdrawal of the solution from the vials) [see How Supplied/Storage and Handling (16)].
+There are two SUNLENCA injection kits available [see How Supplied/Storage and Handling (16)]:
+
+- Vial Access Device Injection Kit
+- Withdrawal Needle Injection Kit (withdrawal needle may be supplied with or without a safety shield)
+
+The Vial Access Device Injection Kit differs from the Withdrawal Needle Injection Kit only in how SUNLENCA injection is prepared (the components and associated method for withdrawal of the solution from the vials).
+
+The Withdrawal Needle Injection Kit contains withdrawal needles that may be supplied with or without a safety shield.
+The presence or absence of a safety shield does not change how SUNLENCA injection is prepared.
+
 Refer to the figures below for the relevant injection kit.
 
 The injection kit components are for single use only.
 Two 1.5 mL injections are required for a complete dose.
 
-Vial access device injection kit
+Vial Access Device Injection Kit
 
-Figure 1 identifies the components for use in the administration steps for the vial access device injection kit, and the administration steps are provided in Figure 2.
+Figure 1 identifies the components for use in the administration steps for the Vial Access Device Injection Kit, and the administration steps are provided in Figure 2.
 Use of a vial access device is required in this kit.
 
 Figure 1 SUNLENCA Vial Access Device Injection Kit Components
 
 Figure 2 SUNLENCA Injection Steps for Vial Access Device Injection Kit
 
-Withdrawal needle injection kit
+Withdrawal Needle Injection Kit (withdrawal needle without safety shield)
 
-Figure 3 identifies the components for use in the administration steps for the withdrawal needle injection kit, and the administration steps are provided in Figure 4.
+Figure 3 identifies the components for use in the administration steps for the Withdrawal Needle Injection Kit (withdrawal needle supplied without a safety shield), and the administration steps are provided in Figure 4.
 The 18-gauge needle is for withdrawal only in this kit.
 
-Figure 3 SUNLENCA Withdrawal Needle Injection Kit Components
+Figure 3 SUNLENCA Withdrawal Needle Injection Kit Components (withdrawal needle without safety shield)
 
-Figure 4 SUNLENCA Injection Steps for Withdrawal Needle Injection Kit
+Figure 4 SUNLENCA Injection Steps for Withdrawal Needle Injection Kit (withdrawal needle without safety shield)
+
+Withdrawal Needle Injection Kit (withdrawal needle with safety shield)
+
+Figure 5 identifies the components for use in the administration steps for the Withdrawal Needle Injection Kit (withdrawal needle supplied with a safety shield), and the administration steps are provided in Figure 6.
+The 18-gauge safety needle is for withdrawal only in this kit.
+
+Figure 5 SUNLENCA Withdrawal Needle Injection Kit Components (withdrawal needle with safety shield)
+
+Figure 6 SUNLENCA Injection Steps for Withdrawal Needle Injection Kit (withdrawal needle with safety shield)
