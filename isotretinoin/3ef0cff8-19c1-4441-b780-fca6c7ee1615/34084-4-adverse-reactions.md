@@ -69,7 +69,7 @@ Of the patients reporting depression, some reported that the depression subsided
 
 Reproductive System
 
-Abnormal menses, sexual dysfunction, including erectile dysfunction, decreased libido, decreased vaginal lubrication, and vaginal dryness.
+Abnormal menses and sexual dysfunction that may continue after discontinuation of treatment (including erectile dysfunction, decreased libido, decreased vaginal lubrication, and vaginal dryness).
 
 Respiratory
 
