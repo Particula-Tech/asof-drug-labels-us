@@ -6,20 +6,20 @@ PHARMACIST: Dispense in a well-closed container as defined in the USP, with a ch
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-Manufactured by:
-
-Appco Pharma LLC
-
-Piscataway, NJ 08854
-
-Distributed by:
+Manufactured For:
 
 TruPharma, LLC
 
 Tampa, FL 33609
 
-Revised: 02/2022
+Manufactured by:
 
-200223
+Piramal Pharma Limited
 
-Ver-04
+Pithampur - 454775, INDIA.
+
+Revised: 10/2024
+
+EM 16035
+
+20769627
