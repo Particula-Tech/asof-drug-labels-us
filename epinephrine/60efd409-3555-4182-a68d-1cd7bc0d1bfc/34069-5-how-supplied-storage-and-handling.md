@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Epinephrine in 0.9% Sodium Chloride Injection is a clear and colorless solution filled in a single-dose 250 mL VIAFLO container.
+Epinephrine in 0.9% Sodium Chloride Injection is a clear and colorless solution filled in a single-dose 250 mL VIAFLO bag.
 
 Epinephrine in 0.9% Sodium Chloride Injection are supplied as below:
 
