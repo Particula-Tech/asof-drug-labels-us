@@ -130,7 +130,7 @@ Specific Populations
 
 Geriatric Patients
 
-SYNJARDY or SYNJARDY XR: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY or SYNJARDY XR in geriatric patients have not been performed [see Warnings and Precautions (5.2) and Use in Specific Populations (8.5)].
+SYNJARDY or SYNJARDY XR: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY or SYNJARDY XR in geriatric patients have not been performed [see Warnings and Precautions (5.1, 5.3) and Use in Specific Populations (8.5)].
 
 Empagliflozin: Age did not have a clinically meaningful impact on the pharmacokinetics of empagliflozin based on a population pharmacokinetic analysis [see Use in Specific Populations (8.5)].
 

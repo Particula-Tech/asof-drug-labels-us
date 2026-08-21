@@ -10,6 +10,6 @@ The other brands listed are trademarks of their respective owners and are not tr
 
 Copyright © 2026 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-COL12574FA072026
+COL12574HG102026
 
-SPL8978L
+SPL8978M
