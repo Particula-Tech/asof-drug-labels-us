@@ -13,6 +13,10 @@ Serotonin syndrome, seizures, cerebral vascular accidents, and coma may occur.
 
 • Life-threatening hyperthermia (temperatures greater than 104°F) and rhabdomyolysis may develop.
 
+Posterior reversible encephalopathy syndrome (PRE-S) symptoms including headache, altered mental status, hypertension, seizures, and visual disturbances including blindness have occurred in the setting of an amphetamine product overdose.
+Symptoms of PRES are usually reversible but may evolve into ischemic stroke or cerebral hemorrhage.
+Diagnosis of PRES should be confirmed by radiological procedure (e.g., MRI).
+
 Overdose Management
 
 Consider the possibility of multiple drug ingestion.

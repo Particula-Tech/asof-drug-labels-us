@@ -6,8 +6,8 @@ What is the most important information I should know about Amphetamine Sulfate T
 
 Amphetamine Sulfate Tablets may cause serious side effects, including:
 
-· · Abuse, misuse, and addiction.
-Amphetamine Sulfate Tablets has a high chance for abuse and misuse and may lead to substance use problems, including addiction.
+·· Abuse, misuse, and addiction.
+Amphetamine Sulfate Tabletshas a high chance for abuse and misuse and may lead to substance use problems, including addiction.
 Misuse and abuse of Amphetamine Sulfate Tablets, other amphetamine containing medicines, and methylphenidate, can lead to overdose and death.
 The risk of overdose and death is increased with higher doses of Amphetamine Sulfate Tablets or when it is used in ways that are not approved, such as snorting or injection.
 
@@ -23,7 +23,7 @@ See “How should I store Amphetamine Sulfate Tablets?” for more information.
 
 o Tell your healthcare provider if you or your child have ever abused or been dependent on alcohol, prescription medicines, or street drugs.
 
-· ·Risks for people with serious heart disease Sudden death has happened in people who have heart defects or other serious heart disease.
+· · Risks for people with serious heart disease Sudden death has happened in people who have heart defects or other serious heart disease.
 
 Your healthcare provider should check you or your child carefully for heart problems before starting Amphetamine Sulfate Tablets.
 
@@ -64,10 +64,11 @@ Amphetamine Sulfate Tablets may be used as part of a short-term (a few weeks), w
 
 · It is not known if Amphetamine Sulfate Tablets is safe and effective in children with exogenous obesity under 12 years of age.
 
-Amphetamine Sulfate Tablet is a federally controlled substance (CII) because it contains amphetamine that can be a target for people who abuse prescription medicines or street drugs.
-Keep Amphetamine Sulfate Tablets in a safe place to protect it from theft.
+Amphetamine Sulfate Tablet is a federally controlled substance (CII) because it contains amphetamine that can be a target for people who abuse prescription medicines or street drugs.Keep Amphetamine Sulfate Tablets in a safe place to protect it from theft.
 Never give your Amphetamine Sulfate Tablets to anyone else, because it may cause death or harm them.
 Selling or giving away Amphetamine Sulfate Tablets may harm others and is against the law.
+
+Who should not takeAmphetamine Sulfate Tablets
 
 Do not take Amphetamine Sulfate Tablets if you or your child:
 
@@ -76,9 +77,11 @@ See the end of this Medication Guide for a complete list of ingredients in Amphe
 
 · are taking or have taken within the past 14 days a medicine used to treat depression called a monoamine oxidase inhibitor (MAOI).
 
+• have a condition called pheochromocytoma (a rare tumor that usually grows in the adrenal glands which are above your kidneys).
+
 Before taking Amphetamine Sulfate Tablets, tell your healthcare provider about all your or your child’s medical condition, including if you or your child:
 
-· Have heart problems, heart disease, heart defects, or high blood pressure.
+· Haveheart problems, heart disease, heart defects, or high blood pressure.
 
 · Have mental problems including psychosis, mania, bipolar illness, or depression, or have a family history of suicide, bipolar illness, or depression.
 
@@ -130,7 +133,7 @@ Know the medicines that you or your child take.
 
 Keep a list of your or your child’s medicine with you to show your healthcare provider and pharmacist when you or your child get a new medicine.
 
-Do not start any new medicine during treatment with Amphetamine Sulfate Tablets without talking to your doctor first.
+Do not start any new medicineduring treatmentwith Amphetamine Sulfate Tablets without talking to your doctor first.
 
 How should Amphetamine Sulfate Tablets be taken ?
 
@@ -262,4 +265,4 @@ For more information about Amphetamine Sulfate Tablets, please contact Aurobindo
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 01/2024
+Revised: 07/2026
