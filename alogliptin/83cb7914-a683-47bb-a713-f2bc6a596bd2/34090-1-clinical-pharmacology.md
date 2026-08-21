@@ -204,21 +204,15 @@ Clinical Studies
 
 In Vivo Assessment of Drug Interactions
 
-Effects of Alogliptin on the Pharmacokinetics of Other Drugs
-
-In clinical studies, alogliptin did not meaningfully increase the systemic exposure to the following drugs that are metabolized by CYP isozymes or excreted unchanged in urine (Figure 1).
+Effects of Alogliptin on the Pharmacokinetics of Other Drugs In clinical studies, alogliptin did not meaningfully increase the systemic exposure to the following drugs that are metabolized by CYP isozymes or excreted unchanged in urine (Figure1).
 No dose adjustment of alogliptin is recommended based on results of the described pharmacokinetic studies.
-
 Figure 1.
 Effect of Alogliptin on the Pharmacokinetic Exposure to Other Drugs
 
-| * Warfarin was given once daily at a stable dose in the range of 1 mg to 10 mg. Alogliptin had no significant effect on the prothrombin time (PT) or International Normalized Ratio (INR). |
-| --- |
-| ** Caffeine (1A2 substrate), tolbutamide (2C9 substrate), dextromethorphan (2D6 substrate), midazolam (3A4 substrate) and fexofenadine (P-gp substrate) were administered as a cocktail. |
+* Warfarin was given once daily at a stable dose in the range of 1 mg to 10 mg.
+Alogliptin had no significant effect on the prothrombin time (PT) or International Normalized Ratio (INR). ** Caffeine (1A2 substrate), tolbutamide (2C9 substrate), dextromethorphan (2D6 substrate), midazolam (3A4 substrate) and fexofenadine (P-gp substrate) were administered as a cocktail.
 
-Effects of Other Drugs on the Pharmacokinetics of Alogliptin
-
-There are no clinically meaningful changes in the pharmacokinetics of alogliptin when alogliptin is administered concomitantly with the drugs described below (Figure 2).
+Effects of Other Drugs on the Pharmacokinetics of Alogliptin There are no clinically meaningful changes in the pharmacokinetics of alogliptin when alogliptin is administered concomitantly with the drugs described below (Figure 2).
 
 Figure 2.
 Effect of Other Drugs on the Pharmacokinetic Exposure of Alogliptin

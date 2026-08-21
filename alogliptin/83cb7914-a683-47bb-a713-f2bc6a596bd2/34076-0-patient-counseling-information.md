@@ -31,7 +31,7 @@ Hepatic Effects
 Inform patients that postmarketing reports of liver injury, sometimes fatal, have been reported during use of alogliptin.
 Instruct patients that if signs or symptoms of liver injury occur, patients should be instructed to discontinue KAZANO and seek medical advice promptly [see Warnings and Precautions (5.5)].
 
-Vitamin B12 Levels
+Vitamin B12 Deficiency
 
 Inform patients about importance of regular hematological parameters while receiving metformin [see Warnings and Precautions (5.6)].
 

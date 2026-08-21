@@ -23,30 +23,29 @@ Improvements in A1C were not affected by gender, age, race or baseline BMI.
 The mean decrease in body weight was similar between metformin alone and alogliptin when co-administered with metformin HCl.
 Lipid effects were neutral.
 
-Table 6.
-Glycemic Parameters at Week 26 for Alogliptin and Metformin HCl Alone and in Combination in Patients with Type 2 Diabetes Mellitus
-
-|  | Placebo | Alogliptin 12.5 mg twice daily | Metformin HCl 500 mg twice daily | Metformin HCl 1000 mg twice daily | Alogliptin 12.5 mg + Metformin HCl 500 mg twice daily | Alogliptin 12.5 mg + Metformin HCl 1000 mg twice daily |
+| Table 6. Glycemic Parameters at Week 26 for Alogliptin and Metformin HCl Alone and in Combination in Patients with Type 2 Diabetes Mellitus |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| A1C (%)Intent-to-treat population using last observation on trial prior to discontinuation of double-blind trial medication or sulfonylurea rescue therapy for patients needing rescue | N=102 | N=104 | N=103 | N=108 | N=102 | N=111 |
+|  | Placebo | Alogliptin12.5 mg twice daily | Metformin HCl500 mg twice daily | Metformin HCl1000 mg twice daily | Alogliptin12.5 mg+ Metformin HCl500 mgtwice daily | Alogliptin12.5 mg+ Metformin HCl1000 mgtwice daily |
+| A1C (%)* | N=102 | N=104 | N=103 | N=108 | N=102 | N=111 |
 | Baseline (mean) | 8.5 | 8.4 | 8.5 | 8.4 | 8.5 | 8.4 |
-| Change from baseline (adjusted meanLeast squares means adjusted for treatment, geographic region and baseline value) | 0.1 | -0.6 | -0.7 | -1.1 | -1.2 | -1.6 |
-| Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -0.6p<0.05 when compared to metformin and alogliptin alone (-0.9, -0.3) | -0.4 (-0.7, -0.2) |
-| Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | -0.7 (-1.0, -0.4) | -1.0 (-1.3, -0.7) |
-| % of Patients (n/N) achieving A1C <7%Compared using logistic regression | 4% (4/102) | 20% (21/104) | 27% (28/103) | 34% (37/108) | 47% (48/102) | 59% (66/111) |
-| FPG (mg/dL) | N=105 | N=106 | N=106 | N=110 | N=106 | N=112 |
+| Change from baseline(adjusted mean†) | 0.1 | -0.6 | -0.7 | -1.1 | -1.2 | -1.6 |
+| Difference from metformin (adjusted mean† with 95% confidence interval) | - | - | - | - | -0.6‡(-0.9, -0.3) | -0.4‡(-0.7, -0.2) |
+| Difference from alogliptin (adjusted mean† with 95% confidence interval) | - | - | - | - | -0.7‡(-1.0, -0.4) | -1.0‡(-1.3, -0.7) |
+| % of Patients (n/N) achievingA1C <7%§ | 4%(4/102) | 20%(21/104) | 27%(28/103) | 34%(37/108) | 47%‡(48/102) | 59%‡(66/111) |
+| FPG (mg/dL)* | N=105 | N=106 | N=106 | N=110 | N=106 | N=112 |
 | Baseline (mean) | 187 | 177 | 180 | 181 | 176 | 185 |
-| Change from baseline (adjusted mean) | 12 | -10 | -12 | -32 | -32 | -46 |
-| Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -20 (-33, -8) | -14 (-26, -2) |
-| Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | -22 (-35, -10) | -36 (-49, -24) |
-| 2-Hour PPG (mg/dL)Intent-to-treat population using data available at Week 26 | N=26 | N=34 | N=28 | N=37 | N=31 | N=37 |
+| Change from baseline(adjusted mean†) | 12 | -10 | -12 | -32 | -32 | -46 |
+| Difference from metformin (adjusted mean† with 95% confidence interval) | - | - | - | - | -20‡(-33, -8) | -14‡(-26, -2) |
+| Difference from alogliptin (adjusted mean† with 95% confidence interval) | - | - | - | - | -22‡(-35, -10) | -36‡(-49, -24) |
+| 2-Hour PPG (mg/dL)¶ | N=26 | N=34 | N=28 | N=37 | N=31 | N=37 |
 | Baseline (mean) | 263 | 272 | 247 | 266 | 261 | 268 |
-| Change from baseline (adjusted mean) | -21 | -43 | -49 | -54 | -68 | -86 |
-| Difference from metformin (adjusted mean with 95% confidence interval) | - | - | - | - | -19 (-49, 11) | -32 (-58, -5) |
-| Difference from alogliptin (adjusted mean with 95% confidence interval) | - | - | - | - | -25 (-53, 3) | -43 (-70, -16) |
+| Change from baseline(adjusted mean†) | -21 | -43 | -49 | -54 | -68 | -86‡ |
+| Difference from metformin (adjusted mean† with 95% confidence interval) | - | - | - | - | -19(-49, 11) | -32‡(-58, -5) |
+| Difference from alogliptin (adjusted mean† with 95% confidence interval) | - | - | - | - | -25(-53, 3) | -43‡(-70, -16) |
 
-| Figure 3. Change from Baseline A1C at Week 26 with Alogliptin and Metformin Alone and Alogliptin in Combination with Metformin |
-| --- |
+* Intent-to-treat population using last observation on trial prior to discontinuation of double-blind trial medication or sulfonylurea rescue therapy for patients needing rescue † Least squares means adjusted for treatment, geographic region and baseline value ‡ p<0.05 when compared to metformin and alogliptin alone § Compared using logistic regression ¶ Intent-to-treat population using data available at Week 26
+
+Figure 3:Change from Baseline A1C at Week 26 with Alogliptin and Metformin Alone and Alogliptin in Combination with Metformin
 
 ## 14.3 Alogliptin and Metformin Coadministration in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Metformin Alone
 
@@ -142,6 +141,8 @@ Patients with MACE in EXAMINE
 The Kaplan-Meier based cumulative event probability is presented in Figure 4 for the time to first occurrence of the primary MACE composite endpoint by treatment arm.
 The curves for placebo and alogliptin overlap throughout the duration of the trial.
 The observed incidence of MACE was highest within the first 60 days after randomization in both treatment arms (14.8 MACE per 100 PY), decreased from day 60 to the end of the first year (8.4 per 100 PY) and was lowest after 1 year of follow-up (5.2 per 100 PY).
+
+Figure 4:Observed Cumulative Rate of MACE in EXAMINE
 
 The rate of all cause death was similar between treatment arms with 153 (3.6 per 100 PY) recorded among patients randomized to alogliptin and 173 (4.1 per 100 PY) among patients randomized to placebo.
 A total of 112 deaths (2.9 per 100 PY) among patients on alogliptin and 130 among patients on placebo (3.5 per 100 PY) were adjudicated as cardiovascular deaths.

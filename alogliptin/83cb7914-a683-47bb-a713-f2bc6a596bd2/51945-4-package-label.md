@@ -20,9 +20,7 @@ Rx Only
 
 NDC 64764-337-60
 
-Kazano®
-
-(alogliptin and metformin HCl) tablets
+Kazano (alogliptin and metformin HCl) tablets
 
 12.5* mg/1000 mg
 

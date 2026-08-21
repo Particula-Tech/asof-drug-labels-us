@@ -27,20 +27,20 @@ Overall discontinuation of therapy due to adverse reactions was 6.2% with alogli
 
 Adverse reactions reported in ≥4% of patients treated with alogliptin co-administered with metformin HCl and more frequently than in patients who received alogliptin, metformin or placebo are summarized in Table 1.
 
-Table 1.
-Adverse Reactions Reported in ≥4% of Adults with Type 2 Diabetes Mellitus Treated with Alogliptin Co-administered with Metformin HCl and More Frequently Than in Patients Receiving Either Alogliptin, Metformin or Placebo
+| Table 1. Adverse Reactions Reported in ≥4% of Adults with Type 2 Diabetes Mellitus Treated with Alogliptin Co-administered with Metformin HCl and More Frequently Than in Patients Receiving Either Alogliptin, Metformin or Placebo |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Number of Patients (%) |  |  |  |  |
+| Alogliptin and Metformin* | Alogliptin† | Metformin‡ | Placebo |  |  |
+| N=2794 | N=222 | N=1592 | N=106 |  |  |
+| Upper respiratory tract infection | 224 (8) | 6 (3) | 105 (7) | 3 (3) |  |
+| Nasopharyngitis | 191 (7) | 7 (3) | 93 (6) | 2 (2) |  |
+| Diarrhea | 155 (6) | 4 (2) | 105 (7) | 3 (3) |  |
+| Hypertension | 154 (6) | 5 (2) | 96 (6) | 6 (6) |  |
+| Headache | 149 (5) | 11 (5) | 74 (5) | 3 (3) |  |
+| Back pain | 119 (4) | 1 (1) | 72 (5) | 1 (1) |  |
+| Urinary tract infection | 116 (4) | 4 (2) | 59 (4) | 2 (2) |  |
 
-| N=2794 | N=222 | N=1592 | N=106 |  |
-| --- | --- | --- | --- | --- |
-|  | Number of Patients (%) |  |  |  |
-| Alogliptin and MetforminAlogliptin and metformin – includes data pooled for patients receiving alogliptin 25 and 12.5 mg combined with various doses of metformin | AlogliptinAlogliptin – includes data pooled for patients receiving alogliptin 25 and 12.5 mg | MetforminMetformin – includes data pooled for patients receiving various doses of metformin | Placebo |  |
-| Upper respiratory tract infection | 224 (8) | 6 (3) | 105 (7) | 3 (3) |
-| Nasopharyngitis | 191 (7) | 7 (3) | 93 (6) | 2 (2) |
-| Diarrhea | 155 (6) | 4 (2) | 105 (7) | 3 (3) |
-| Hypertension | 154 (6) | 5 (2) | 96 (6) | 6 (6) |
-| Headache | 149 (5) | 11 (5) | 74 (5) | 3 (3) |
-| Back pain | 119 (4) | 1 (1) | 72 (5) | 1 (1) |
-| Urinary tract infection | 116 (4) | 4 (2) | 59 (4) | 2 (2) |
+* Alogliptin and metformin – includes data pooled for patients receiving alogliptin 25 and 12.5 mg combined with various doses of metformin † Alogliptin – includes data pooled for patients receiving alogliptin 25 and 12.5 mg ‡ Metformin – includes data pooled for patients receiving various doses of metformin
 
 Alogliptin
 
@@ -91,12 +91,11 @@ Serious adverse reactions of hypoglycemia were reported in 0.8% of patients trea
 
 Metformin HCl
 
-Table 3.
-Most Common Adverse Reactions (≥5%) in a Placebo-Controlled Clinical Trial of Metformin MonotherapyReactions that were more common in metformin than placebo-treated patients
+Table 3:Most Common Adverse Reactions (≥5%) in a Placebo-Controlled Clinical Trial of Metformin Monotherapy*
 
-| % of Patients |  |  |
-| --- | --- | --- |
 | Adverse Reaction | Metformin Monotherapy (n=141) | Placebo (n=145) |
+| --- | --- | --- |
+| % of Patients |  |  |
 | Diarrhea | 53.2 | 11.7 |
 | Nausea/vomiting | 25.5 | 8.3 |
 | Flatulence | 12.1 | 5.5 |
@@ -104,6 +103,8 @@ Most Common Adverse Reactions (≥5%) in a Placebo-Controlled Clinical Trial of 
 | Indigestion | 7.1 | 4.1 |
 | Abdominal discomfort | 6.4 | 4.8 |
 | Headache | 5.7 | 4.8 |
+
+* Reactions that were more common in metformin than placebo-treated patients
 
 Laboratory Abnormalities
 
@@ -117,7 +118,7 @@ In metformin clinical trials of 29 week duration, a decrease to subnormal levels
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postmarketing use.
+The following adverse reactions have been identified during postmarketing use of alogliptin and metformin HCl.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Alogliptin
