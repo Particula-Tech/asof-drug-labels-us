@@ -22,7 +22,7 @@ No significant potency losses have been noted following simulated delivery of th
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
-## 2.2 Dosing in Patients With Heparin-Induced Thrombocytopenia
+## 2.2 Dosing in Patients with Heparin-Induced Thrombocytopenia
 
 Initial Dosage:
 
@@ -122,7 +122,7 @@ Continued Anticoagulation after PCI:
 
 If a patient requires anticoagulation after the procedure, Argatroban Injection may be continued, but at a rate of 2 mcg/kg/min and adjusted as needed to maintain the aPTT in the desired range [see Dosage and Administration (2.1)].
 
-## 2.4 Dosing in Patients With Hepatic Impairment
+## 2.4 Dosing in Patients with Hepatic Impairment
 
 Initial Dosage:
 

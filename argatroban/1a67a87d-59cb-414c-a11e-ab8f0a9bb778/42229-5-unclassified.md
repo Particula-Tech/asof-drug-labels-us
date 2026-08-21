@@ -2,10 +2,10 @@
 
 The safety and effectiveness of argatroban with glycoprotein IIb/IIIa antagonists have not been established.
 
-Manufactured for: Endo USA Malvern, PA 19355
+Manufactured for: Par Health USA Rochester, MI 48307
 
-© 2024 Endo, Inc. or one of its affiliates.
+© 2026 Par Health, Inc. or one of its affiliates.
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-Revised: 07/2024
+Revised: 05/2026

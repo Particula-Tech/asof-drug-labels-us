@@ -116,7 +116,7 @@ Major and Minor Hemorrhagic Adverse Events in Patients With HIT Undergoing PCI
 | Hemoptysis | 0.9 |
 | Other | 0.9 |
 
-a)Patients may have experienced more than 1 adverse event.
+a) Patients may have experienced more than 1 adverse event.
 
 b) 91 patients who underwent 112 interventions.
 
