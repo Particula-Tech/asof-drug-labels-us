@@ -6,13 +6,13 @@ Table 7: Clinically Significant Interactions Affecting Tofacitinib Tablets When 
 | Strong CYP3A4 Inhibitors (e.g., ketoconazole) |  |
 | --- | --- |
 | Clinical Impact | Increased exposure to tofacitinib |
-| Intervention | Dosage modification of tofacitinibtablets is recommended[see Dosage and Administration (2), Clinical Pharmacology, Figure 3 (12.3)] |
+| Intervention | Dosage modification of tofacitinib tablets is recommended [see Dosage and Administration (2), Clinical Pharmacology, Figure 3 (12.3)] |
 | Moderate CYP3A4 Inhibitors Concomitantly Used with Strong CYP2C19 Inhibitors (e.g., fluconazole) |  |
 | Clinical Impact | Increased exposure to tofacitinib |
-| Intervention | Dosage modification of tofacitinibtablets is recommended[see Dosage and Administration (2), Clinical Pharmacology, Figure 3 (12.3)] |
+| Intervention | Dosage modification of tofacitinib tablets is recommended [see Dosage and Administration (2), Clinical Pharmacology, Figure 3 (12.3)] |
 | Strong CYP3A4 Inducers (e.g., rifampin) |  |
 | Clinical Impact | Decreased exposure to tofacitinib and may result in loss of or reduced clinical response |
-| Intervention | Concomitant use with tofacitinib tabletsis not recommended [see Clinical Pharmacology, Figure 3 (12.3)] |
+| Intervention | Concomitant use with tofacitinib tablets is not recommended [see Clinical Pharmacology, Figure 3 (12.3)] |
 | Immunosuppressive Drugs (e.g., azathioprine, tacrolimus, cyclosporine) |  |
-| Clinical Impact | Risk of added immunosuppression; concomitant use of tofacitinib tabletswith biologic DMARDs or potent immunosuppressants has not been studied in patients with RA, PsA, AS, UC, or pcJIA. |
+| Clinical Impact | Risk of added immunosuppression; concomitant use of tofacitinib tablets with biologic DMARDs or potent immunosuppressants has not been studied in patients with RA, Ps A, AS, UC, or pc JIA. |
 | Intervention | Concomitant use with tofacitinib tablets is not recommended[see Indications and Usage (1), Clinical Pharmacology, Figure 3 (12.3)] |

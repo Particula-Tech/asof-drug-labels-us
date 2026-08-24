@@ -9,15 +9,16 @@ The following clinically significant adverse reactions are described elsewhere i
 - Thrombosis [see Warnings and Precautions (5.5)]
 - Gastrointestinal Perforations [seeWarnings and Precautions (5.6)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
-- Laboratory Abnormalities [see Warnings and Precautions (5.8)]
+- Hypoglycemia in Patients with Diabetes [see Warnings and Precautions (5.8)]
+- Laboratory Abnormalities [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.
 The clinical studies described in this subsection were conducted using tofacitinib tablets and/or XELJANZ oral solution.
-Adverse Reactions in Adults with Rheumatoid Arthritis In RA Safety Study 1, 1,455 adults were treated with tofacitinib tablets 5 mg twice daily, 1,456 adults were treated with 10 mg twice daily, and 1,451 adults were treated with a TNF blocker for a median of 4 years[seeClinical Studies (14.6)].
-A dosage of tofacitinib tablets 10 mg twice daily is not recommended for the treatment of RA because of increased risks[seeDosage and Administration (2.3)andWarnings and Precautions (5)].
-For the treatment of adults with moderately to severely active RA[seeIndications and Usage (1.1)], the recommended dosage of tofacitinib tablets is 5 mg twice daily.
+Adverse Reactions in Adults with Rheumatoid Arthritis In RA Safety Study 1, 1,455 adults were treated with tofacitinib tablets 5 mg twice daily, 1,456 adults were treated with 10 mg twice daily, and 1,451 adults were treated with a TNF blocker for a median of 4 years [see Clinical Studies (14.6)].
+A dosage of tofacitinib tablets 10 mg twice daily is not recommended for the treatment of RA because of increased risks [see Dosage and Administration (2.3) and Warnings and Precautions (5)].
+For the treatment of adults with moderately to severely active RA [seeIndications and Usage (1.1)], the recommended dosage of tofacitinib tablets is 5 mg twice daily.
 The safety of tofacitinib tablets was also evaluated in two Phase 2 and five Phase 3 double-blind, placebo-controlled, multicenter trials in patients with RA.
 In these trials, adults were randomized to receive:
 
@@ -31,10 +32,10 @@ Comparisons between placebo and tofacitinib tablets groups were based on the fir
 The long-term safety population includes all adults with RA who participated in a double-blind, placebo-controlled trial (including earlier development phase studies) and then participated in one of two long-term safety studies.
 The design of the long-term safety studies allowed for modification of tofacitinib tablets doses according to clinical judgment.
 This limits the interpretation of the long-term safety data with respect to dose.
-The most common serious adverse reactions were serious infections[seeWarnings and Precautions (5.1)].
+The most common serious adverse reactions were serious infections [see Warnings and Precautions (5.1)].
 The proportion of patients who discontinued treatment due to any adverse reaction during the 0 to 3 months exposure in the double-blind, placebo-controlled trials was 4% for tofacitinib tablets-treated patients and 3% for placebo-treated patients.
 Overall Infections In the seven placebo-controlled trials in patients with RA, during the 0 to 3 months exposure, the overall frequency of infections was 20% and 22% in the tofacitinib tablets 5 mg twice daily and tofacitinib tablets 10 mg twice daily groups, respectively, and 18% in the placebo group.
-The most commonly reported infections with tofacitinib tabletswere upper respiratory tract infections, nasopharyngitis, and urinary tract infections (4%, 3%, and 2% of patients, respectively).
+The most commonly reported infections with tofacitinib tablets were upper respiratory tract infections, nasopharyngitis, and urinary tract infections (4%, 3%, and 2% of patients, respectively).
 Serious Infections:In the seven placebo-controlled trials in patients with RA, during the 0 to 3 months exposure, serious infections were reported in 1 patient (0.5 events per 100 patient-years) who received placebo and 11 patients (1.7 events per 100 patient-years) who received tofacitinib tablets 5 mg or 10 mg twice daily.
 The rate difference between treatment groups (and the corresponding 95% confidence interval) was 1.1 (- 0.4, 2.5) events per 100 patient-years for the combined tofacitinib tablets 5 mg twice daily and 10 mg twice daily group minus placebo.
 In the seven placebo-controlled trials, during the 0 to 12 months exposure, serious infections were reported in 34 patients (2.7 events per 100 patient-years) who received tofacitinib tablets 5 mg twice daily and 33 patients (2.7 events per 100 patient-years) who received tofacitinib tablets 10 mg twice daily.
@@ -44,11 +45,11 @@ Tuberculosis:In the seven placebo-controlled trials in patients with RA, during 
 In the seven placebo-controlled trials, during the 0 to 12 months exposure, TB was reported in 0 patients who received tofacitinib tablets 5 mg twice daily and 6 patients (0.5 events per 100 patient-years) who received tofacitinib tablets 10 mg twice daily.
 The rate difference between tofacitinib tablets doses (and the corresponding 95% confidence interval) was 0.5 (0.1, 0.9) events per 100 patient-years for tofacitinib tablets 10 mg twice daily minus tofacitinib tablets 5 mg twice daily.
 Cases of disseminated TB were also reported.
-The median tofacitinib tabletsexposure prior to diagnosis of TB was 10 months (range from 152 to 960 days)[seeWarnings and Precautions (5.1)].
+The median tofacitinib tablets exposure prior to diagnosis of TB was 10 months (range from 152 to 960 days) [see Warnings and Precautions (5.1)].
 Opportunistic Infections (excluding tuberculosis):In the seven placebo-controlled trials in patients with RA, during the 0 to 3 months exposure, opportunistic infections were not reported in patients who received placebo, tofacitinib tablets 5 mg twice daily, or tofacitinib tablets 10 mg twice daily.
 In the seven placebo-controlled trials, during the 0 to 12 months exposure, opportunistic infections were reported in 4 patients (0.3 events per 100 patient-years) who received tofacitinib tablets 5 mg twice daily and 4 patients (0.3 events per 100 patient-years) who received tofacitinib tablets 10 mg twice daily.
-The rate difference between tofacitinib tabletsdoses (and the corresponding 95% confidence interval) was 0 (-0.5, 0.5) events per 100 patient-years for tofacitinib tablets 10 mg twice daily minus tofacitinib tablets 5 mg twice daily.
-The median tofacitinib tablets exposure prior to diagnosis of an opportunistic infection was 8 months (range from 41 to 698 days)[seeWarnings and Precautions (5.1)].
+The rate difference between tofacitinib tablets doses (and the corresponding 95% confidence interval) was 0 (-0.5, 0.5) events per 100 patient-years for tofacitinib tablets 10 mg twice daily minus tofacitinib tablets 5 mg twice daily.
+The median tofacitinib tablets exposure prior to diagnosis of an opportunistic infection was 8 months (range from 41 to 698 days) [see Warnings and Precautions (5.1)].
 Malignancies In the seven placebo-controlled trials in patients with RA, during the 0 to 3 months exposure, malignancies excluding NMSC were reported in 0 patients who received placebo and 2 patients (0.3 events per 100 patient-years) who received either tofacitinib tablets 5 mg or 10 mg twice daily.
 The rate difference between treatment groups (and the corresponding 95% confidence interval) was 0.3 (-0.1, 0.7) events per 100 patient-years for the combined tofacitinib tablets 5 mg and 10 mg twice daily group minus placebo.
 In the seven placebo-controlled trials, during the 0 to 12 months exposure, malignancies excluding NMSC were reported in 5 patients (0.4 events per 100 patient-years) who received tofacitinib tablets 5 mg twice daily and 7 patients (0.6 events per 100 patient-years) who received tofacitinib tablets 10 mg twice daily.
@@ -57,11 +58,11 @@ One of these malignancies was a case of lymphoma that occurred during the 0-to-1
 The most common types of malignancy, including malignancies observed during the long-term extension in tofacitinib tablets-treated patients, were lung and breast cancer, followed by gastric, colorectal, renal cell, prostate cancer, lymphoma, and malignant melanoma [see Warnings and Precautions (5.3)].
 
 Laboratory Abnormalities Lymphopenia:In the placebo-controlled clinical trials in patients with RA, confirmed decreases in absolute lymphocyte counts below 500 cells/mm3occurred in 0.04% of patients for the tofacitinib tablets 5 mg twice daily and 10 mg twice daily groups combined during the first 3 months of exposure.
-Confirmed lymphocyte counts less than 500 cells/mm3 were associated with an increased incidence of treated and serious infections[seeWarnings and Precautions (5.8)].
+Confirmed lymphocyte counts less than 500 cells/mm3 were associated with an increased incidence of treated and serious infections [see Warnings and Precautions (5.9)].
 Neutropenia:In the placebo-controlled clinical trials in patients with RA, confirmed decreases in ANC below 1,000 cells/mm3occurred in 0.07% of patients for the tofacitinib tablets 5 mg twice daily and 10 mg twice daily groups combined during the first 3 months of exposure.
 There were no confirmed decreases in ANC below 500 cells/mm3observed in any treatment group.
 There was no clear relationship between neutropenia and the occurrence of serious infections.
-In the long-term safety population, the pattern and incidence of confirmed decreases in ANC remained consistent with what was seen in the placebo-controlled clinical trials[seeWarnings and Precautions (5.8)].
+In the long-term safety population, the pattern and incidence of confirmed decreases in ANC remained consistent with what was seen in the placebo-controlled clinical trials[see Warnings and Precautions (5.9)].
 Liver Enzyme Elevations:Confirmed increases in liver enzymes greater than 3 times the upper limit of normal (3x ULN) were observed in patients with RA treated with tofacitinib tablets.
 In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of tofacitinib tablets, or reduction in tofacitinib tablets dosage, resulted in decrease or normalization of liver enzymes.
 In the placebo-controlled monotherapy trials (0-3 months), no differences in the incidence of ALT or AST elevations were observed between the placebo, and tofacitinib tablets 5 mg, and 10 mg twice daily groups.
@@ -99,7 +100,7 @@ Table 5: Common Adverse Reactions* in Clinical Trials of Tofacitinib Tablets for
 N reflects randomized and treated patients from the seven placebo-controlled clinical trials.
 
 * reported in ≥2% of patients treated with either dose of tofacitinib tablets and ≥1% greater than that reported for placebo. ** The recommended dose of tofacitinib tablets for the treatment of RA is 5 mg twice daily[seeDosage and Administration (2)].
-Other adverse reactions that occurred in placebo-controlled and open-label extension studies in patients with RA included: Blood and lymphatic system disorders:Anemia Infections and infestations:Diverticulitis Metabolism and nutrition disorders:Dehydration Psychiatric disorders:Insomnia Nervous system disorders:Paresthesia Respiratory, thoracic and mediastinal disorders:Dyspnea, cough, sinus congestion, interstitial lung disease (cases were limited to patients with RA and some were fatal) Gastrointestinal disorders:Abdominal pain, dyspepsia, vomiting, gastritis, nausea Hepatobiliary disorders:Hepatic steatosis Skin and subcutaneous tissue disorders:Rash, erythema, pruritus Musculoskeletal, connective tissue and bone disorders:Musculoskeletal pain, arthralgia, tendonitis, joint swelling Neoplasms benign, malignant and unspecified (including cysts and polyps):Non-melanoma skin cancers General disorders and administration site conditions:Pyrexia, fatigue, peripheral edema Clinical Experience in Methotrexate-Naïve Patients Study RA-VI was an active-controlled clinical trial in methotrexate-naïve patients[seeClinical Studies (14)].
+Other adverse reactions that occurred in placebo-controlled and open-label extension studies in patients with RA included: Blood and lymphatic system disorders:Anemia Infections and infestations:Diverticulitis Metabolism and nutrition disorders:Dehydration Psychiatric disorders:Insomnia Nervous system disorders:Paresthesia Respiratory, thoracic and mediastinal disorders:Dyspnea, cough, sinus congestion, interstitial lung disease (cases were limited to patients with RA and some were fatal) Gastrointestinal disorders:Abdominal pain, dyspepsia, vomiting, gastritis, nausea Hepatobiliary disorders:Hepatic steatosis Skin and subcutaneous tissue disorders:Rash, erythema, pruritus Musculoskeletal, connective tissue and bone disorders:Musculoskeletal pain, arthralgia, tendonitis, joint swelling Neoplasms benign, malignant and unspecified (including cysts and polyps):Non-melanoma skin cancers General disorders and administration site conditions:Pyrexia, fatigue, peripheral edema Clinical Experience in Methotrexate-Naïve Patients Study RA-VI was an active-controlled clinical trial in methotrexate-naïve patients [see Clinical Studies (14)].
 The safety experience in these patients was consistent with Studies RA-I through V. Adverse Reactions in Adults with Psoriatic Arthritis The safety of tofacitinib tablets was evaluated in 2 double-blind Phase 3 clinical trials in adults with active psoriatic arthritis (PsA):
 
 - Study PsA-I (NCT01877668) had a duration of 12 months and enrolled adults who had an inadequate response to a nonbiologic DMARD and who were naïve to treatment with a TNF blocker.
@@ -109,19 +110,19 @@ The safety experience in these patients was consistent with Studies RA-I through
 
 In these combined Phase 3 clinical trials, 238 patients were randomized and treated with tofacitinib tablets 5 mg twice daily and 236 patients were randomized and treated with tofacitinib tablets 10 mg twice daily.
 A dosage of tofacitinib tablets 10 mg twice daily is not recommended for the treatment of PsA.
-For the treatment of adults with active PsA[seeIndications and Usage (1.2)],the recommended dosage of tofacitinib tablets is 5 mg twice daily[seeDosage and Administration (2.3)].
+For the treatment of adults with active Ps A [see Indications and Usage (1.2)], the recommended dosage of tofacitinib tablets is 5 mg twice daily [see Dosage and Administration (2.3)].
 All patients in the clinical trials in patients with PsA were required to receive treatment with a stable dose of a nonbiologic DMARD [the majority (79%) received methotrexate].
-The study population randomized and treated with tofacitinibtablets (474 patients) included 45 (10%) patients aged 65 years or older and 66 (14%) patients with diabetes at baseline.
+The study population randomized and treated with tofacitinib tablets (474 patients) included 45 (10%) patients aged 65 years or older and 66 (14%) patients with diabetes at baseline.
 
 During the 2 PsA controlled clinical trials, there were:
 
-- 3 malignancies (excluding NMSC) in 474 patients who received tofacitinib tabletsplus non-biologic DMARD (6 to 12 months exposure)
+- 3 malignancies (excluding NMSC) in 474 patients who received tofacitinib tablets plus non-biologic DMARD (6 to 12 months exposure)
 - 0 malignancies in 236 patients who received placebo plus non-biologic DMARD group (3 months exposure) and
 - 0 malignancies in 106 patients in patients who received adalimumab plus non-biologic DMARD group (12 months exposure).
 
 No lymphomas were reported.
 Malignancies have also been observed in the long-term extension study in patients with PsA treated with tofacitinib tablets.
-The safety profile observed in adults with active PsA treated with tofacitinib tabletswas consistent with the safety profile observed in adults with RA.
+The safety profile observed in adults with active PsA treated with tofacitinib tablets was consistent with the safety profile observed in adults with RA.
 Adverse Reactions in Adults with Ankylosing Spondylitis The safety of tofacitinib tablets was evaluated in adults with active ankylosing spondylitis (AS) in a double-blind placebo-controlled Phase 3 clinical trial (Study AS-I) and in a dose-ranging Phase 2 clinical trial (Study AS-II).
 
 - Study AS-I (NCT03502616) had a duration of 48 weeks and enrolled adults who had an inadequate response to at least 2 NSAIDs.
@@ -130,7 +131,7 @@ Adverse Reactions in Adults with Ankylosing Spondylitis The safety of tofacitini
 - Study AS-II (NCT01786668) had a duration of 16 weeks and enrolled adults who had an inadequate response to at least 2 NSAIDs.
   This clinical trial included a 12-week treatment period in which patients received either tofacitinib tablets 2 mg (40% of the recommended dose), 5 mg, 10 mg, or placebo twice daily.
   A dosage of tofacitinib tablets 10 mg twice daily is not recommended for the treatment of AS.
-  For the treatment of adults with active AS[seeIndications and Usage (1.3)],the recommended dosage of tofacitinib tablets is 5 mg twice daily[seeDosage and Administration (2.3)].
+  For the treatment of adults with active AS [see Indications and Usage (1.3)], the recommended dosage of tofacitinib tablets is 5 mg twice daily [see Dosage and Administration (2.3)].
 
 In the combined Phase 2 and Phase 3 clinical trials, a total of 420 patients were treated with either tofacitinib tablets 2 mg, 5 mg, or 10 mg twice daily.
 Of these, 316 patients were treated with tofacitinib tablets 5 mg twice daily for up to 48 weeks.
@@ -139,13 +140,13 @@ Concomitant treatment with stable doses of nonbiologic DMARDs, NSAIDs, or cortic
 The study population randomized and treated with tofacitinib tablets included 13 (3%) patients aged 65 years or older and 18 (4%) patients with diabetes at baseline.
 
 The safety profile observed in adults with AS treated with tofacitinib tablets was consistent with the safety profile observed in adults with RA and PsA.
-Adverse Reactions in Pediatric Patients 2 Years of Age and Older with Polyarticular Course Juvenile Idiopathic Arthritis Tofacitinib tablets and XELJANZ oral solution 5 mg twice daily or weight-based equivalent twice daily was studied in 225 pediatric patients from 2 years to 17 years of age in Study pcJIA-I[seeClinical Studies (14.4)]and one open-label extension study (Study A3921145).
-The total patient exposure (defined as patients who received at least one dose of tofacitinib tablets or XELJANZ oral solution) was 105.6 patient-years in Study pcJIA-I and 777.5 patient-years in Study A3921145.
+Adverse Reactions in Pediatric Patients 2 Years of Age and Older with Polyarticular Course Juvenile Idiopathic Arthritis Tofacitinib tablets and XELJANZ oral solution 5 mg twice daily or weight-based equivalent twice daily was studied in 225 pediatric patients from 2 years to 17 years of age in Study pc JIA-I [see Clinical Studies (14.4)] and one open-label extension study (Study A3921145).
+The total patient exposure (defined as patients who received at least one dose of tofacitinib tablets or XELJANZ oral solution) was 105.6 patient-years in Study pc JIA-I and 777.5 patient-years in Study A3921145.
 In general, the types of adverse reactions in pediatric patients 2 years of age and older with pcJIA, were consistent with those seen in adults with RA and PsA (see Adverse Reactions in Adults with Rheumatoid Arthritis and Adverse Reactions in Adults with Psoriatic Arthritis).
-Adverse Reactions in Adults with Ulcerative Colitis The safety of tofacitinib tablets has been evaluated in adults with moderately to severely active UC in 4 randomized, double-blind, placebo-controlled trials (UC-I, UC-II, UC-III, and dose-ranging UC-V) and an open-label long-term extension study (UC-IV)[seeClinical Studies (14.5)].
+Adverse Reactions in Adults with Ulcerative Colitis The safety of tofacitinib tablets has been evaluated in adults with moderately to severely active UC in 4 randomized, double-blind, placebo-controlled trials (UC-I, UC-II, UC-III, and dose-ranging UC-V) and an open-label long-term extension study (UC-IV) [see Clinical Studies (14.5)].
 Adverse reactions reported in ≥5% of patients treated with either tofacitinib tablets 5 mg or 10 mg twice daily and ≥1% greater than reported in patients receiving placebo in either the induction or maintenance clinical trials of patients with UC were: nasopharyngitis, elevated cholesterol levels, headache, upper respiratory tract infection, increased blood creatine phosphokinase, rash, diarrhea, and herpes zoster.
 Induction Trials in Adults with UC Common adverse reactions reported in ≥2% of patients treated with tofacitinib tablets 10 mg twice daily and ≥1% greater in tofacitinib tablets-treated patients than placebo-treated patients in the 3 induction trials of patients with UC (Studies UC-I, UC-II, and UC-V) were: headache, nasopharyngitis, elevated cholesterol levels, acne, increased blood creatine phosphokinase, and pyrexia.
-Maintenance Trial in Adults with UC Common adverse reactions reported in ≥4% of patients treated with either dosage of tofacitinib tabletsand ≥1% greater than reported in patients treated with placebo in the maintenance trial of patients with UC (Study UC-III) are shown in Table 6.
+Maintenance Trial in Adults with UC Common adverse reactions reported in ≥4% of patients treated with either dosage of tofacitinib tablets and ≥1% greater than reported in patients treated with placebo in the maintenance trial of patients with UC (Study UC-III) are shown in Table 6.
 Table 6: Common Adverse Reactions* in Adults with UC During the 52-Week Maintenance Trial (Study UC-III)
 
 | Preferred Term | Placebo | Tofacitinib Tablets 5 mg TwiceDaily | Tofacitinib Tablets 10 mg Twice Daily |
@@ -166,13 +167,13 @@ Table 6: Common Adverse Reactions* in Adults with UC During the 52-Week Maintena
 * Reported in ≥4% of patients treated with either tofacitinib tablets dosage and ≥1% greater in tofacitinib tablets-treated patients than placebo-treated patients.
 
 ** Includes hypercholesterolemia, hyperlipidemia, blood cholesterol increased, dyslipidemia, blood triglycerides increased, low-density lipoprotein increased, low-density lipoprotein abnormal, or lipids increased.
-Dose-dependent adverse reactions seen in patients treated with tofacitinib tablets 10 mg twice daily, in comparison to 5 mg twice daily, include the following: herpes zoster infections, serious infections, and NMSC[seeWarnings and Precautions (5.1,5.3)].
+Dose-dependent adverse reactions seen in patients treated with tofacitinib tablets 10 mg twice daily, in comparison to 5 mg twice daily, include the following: herpes zoster infections, serious infections, and NMSC [see Warnings and Precautions (5.1, 5.3)].
 During the UC controlled clinical studies (8-week induction and 52-week maintenance studies), which included 1,220 patients, 0 cases of solid cancer or lymphoma were observed in tofacitinib tablets-treated patients.
-In the long-term extension study, malignancies (including solid cancers, lymphomas and NMSC) were observed in patients treated with tofacitinib tablets 5 mg and 10 mg twice daily[seeWarnings and Precautions (5.3)].
-Five cases of pulmonary embolism were reported in patients taking tofacitinib tablets 10 mg twice daily, including one fatality in a patient with advanced cancer[seeWarnings and Precautions (5.5)].
+In the long-term extension study, malignancies (including solid cancers, lymphomas and NMSC) were observed in patients treated with tofacitinib tablets 5 mg and 10 mg twice daily [see Warnings and Precautions (5.3)].
+Five cases of pulmonary embolism were reported in patients taking tofacitinib tablets 10 mg twice daily, including one fatality in a patient with advanced cancer [see Warnings and Precautions (5.5)].
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of tofacitinib tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Immune system disorders: Drug hypersensitivity (events such as angioedema and urticaria have been observed) Skin and subcutaneous tissue disorders: Acne
+Immune system disorders: Drug hypersensitivity (events such as angioedema and urticaria have been observed) Metabolism and nutrition disorders: Hypoglycemia Skin and subcutaneous tissue disorders: Acne

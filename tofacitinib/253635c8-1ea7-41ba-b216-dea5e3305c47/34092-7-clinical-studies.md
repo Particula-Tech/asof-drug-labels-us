@@ -10,7 +10,7 @@ Trial Design
   The primary endpoints at Month 3 were the proportion of patients who achieved an ACR20 response, changes in Health Assessment Questionnaire – Disability Index (HAQ-DI), and rates of Disease Activity Score DAS28-4(ESR) less than 2.6.
 - Study RA-II (NCT00856544) was a 12-month trial in which 792 patients with moderate to severe active RA who had an inadequate response to a nonbiologic DMARD received tofacitinib tablets 5 mg or 10 mg twice daily or placebo added to background DMARD treatment (excluding potent immunosuppressive treatments such as azathioprine or cyclosporine).
   At the Month 3 visit, nonresponding patients were switched in a blinded fashion to a second predetermined treatment of tofacitinib tablets 5 mg or 10 mg twice daily.
-  At the end of Month 6, all patients treated with placebo were switched to their second predetermined tofacitinib tabletstreatment in a blinded fashion.
+  At the end of Month 6, all patients treated with placebo were switched to their second predetermined tofacitinib tablets treatment in a blinded fashion.
   The primary endpoints were the proportion of patients who achieved an ACR20 response at Month 6, changes in HAQ-DI at Month 3, and rates of DAS28-4(ESR) less than 2.6 at Month 6.
 - Study RA-III (NCT00853385) was a 12-month trial in 717 patients with moderate to severe active RA who had an inadequate response to methotrexate (MTX).
   Patients received tofacitinib tablets 5 mg or 10 mg orally twice daily, adalimumab 40 mg subcutaneously every other week, or placebo added to background MTX.
@@ -30,7 +30,7 @@ Tofacitinib tablets 10 mg twice daily is not recommended for the treatment of RA
 
 Clinical Response The percentages of tofacitinib tablets-treated patients who achieved ACR20, ACR50, and ACR70 responses in Studies RA-I, IV, and V are shown in Table 10.
 Similar results were observed with Studies RA-II and III.
-In trials RA-I through V, patients treated with 5 mg twice daily tofacitinib tabletshad higher ACR20, ACR50, and ACR70 response rates versus patients treated with placebo, with or without background DMARD treatment, at Month 3 and Month 6.
+In trials RA-I through V, patients treated with 5 mg twice daily tofacitinib tablets had higher ACR20, ACR50, and ACR70 response rates versus patients treated with placebo, with or without background DMARD treatment, at Month 3 and Month 6.
 Higher ACR20 response rates were observed within 2 weeks compared to placebo.
 In the 12-month trials, ACR response rates in tofacitinib tablets-treated patients were consistent at 6 and 12 months.
 
@@ -62,7 +62,7 @@ Table 11: Proportion and Numbers of Adults with Moderate to Severe Active RA wit
 | Of responders, proportion with 3 or more active joints (n) | 50% (1) | 21% (4) |
 
 The results of the components of the ACR response criteria for Study RA-IV are shown in Table 12.
-Similar results were observed for tofacitinibtablets in Studies RA-I, II, III, V, and VI.
+Similar results were observed for tofacitinib tablets in Studies RA-I, II, III, V, and VI.
 
 Table 12: Components of ACR Response in Adults with Moderate to Severe Active RA at Baseline and Month 3 in Study RA-IV
 
@@ -82,15 +82,15 @@ a Data shown is mean (Standard Deviation) at Month 3.
 
 b Visual analog scale: 0 = best, 100 = worst. c Health Assessment Questionnaire Disability Index: 0 = best, 3 = worst; 20 questions; categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities.
 The percent of ACR20 responders by visit for Study RA-IV is shown in Figure 4.
-Similar responses were observed for tofacitinibtablets in Studies RA-I, II, III, V, and VI.
+Similar responses were observed for tofacitinib tablets in Studies RA-I, II, III, V, and VI.
 Figure 4: Percentage of ACR20 Responders by Visit Through Month 6 in Study RA-IV
 
-Radiographic Response Two studies were conducted to evaluate the effect of tofacitinib tabletson structural joint damage.
+Radiographic Response Two studies were conducted to evaluate the effect of tofacitinib tablets on structural joint damage.
 In Study RA-IV and Study RA-VI, progression of structural joint damage was assessed radiographically and expressed as change from baseline in mTSS and its components, the erosion score and joint space narrowing score, at Months 6 and 12.
 The proportion of patients with no radiographic progression (mTSS change less than or equal to 0) was also assessed.
 In Study RA-IV, tofacitinib tablets 5 mg twice daily reduced the mean progression of structural damage (not statistically significant) as shown in Table 13.
 Analyses of erosion and joint space narrowing scores were consistent with the overall results.
-In the placebo plus MTX group, 74% of patients experienced no radiographic progression at Month 6 compared to 84% of patients treated with tofacitinib tabletsplus MTX 5 mg twice daily.
+In the placebo plus MTX group, 74% of patients experienced no radiographic progression at Month 6 compared to 84% of patients treated with tofacitinib tablets plus MTX 5 mg twice daily.
 In Study RA-VI, tofacitinib tablets monotherapy inhibited the progression of structural damage compared to MTX at Months 6 and 12 as shown in Table 13.
 Analyses of erosion and joint space narrowing scores were consistent with the overall results.
 In the MTX group, 55% of patients experienced no radiographic progression at Month 6 compared to 73% of patients treated with tofacitinib tablets 5 mg twice daily.
@@ -110,7 +110,7 @@ a SD = Standard Deviation
 b Difference between least squares means tofacitinib tablets minus placebo or MTX (95% CI = 95% confidence interval) c Month 6 and Month 12 data are mean change from baseline.
 Physical Function Response Improvement in physical functioning was measured by the HAQ-DI.
 Patients who received tofacitinib tablets 5 mg twice daily demonstrated greater improvement from baseline in physical functioning compared to patients who received placebo at Month 3.
-The mean (95% CI) difference from placebo in HAQ-DI improvement from baseline at Month 3 in Study RA-III was -0.22 (-0.35, -0.10) in patients who received 5 mg tofacitinib tabletstwice daily.
+The mean (95% CI) difference from placebo in HAQ-DI improvement from baseline at Month 3 in Study RA-III was -0.22 (-0.35, -0.10) in patients who received 5 mg tofacitinib tablets twice daily.
 Similar results were obtained in Studies RA-I, II, IV and V. In the 12-month trials, HAQ-DI results in tofacitinib tablets-treated patients were consistent at 6 and 12 months.
 Other Health-Related Outcomes General health status was assessed by the Short Form health survey (SF-36).
 In Studies RA-I, IV, and V, patients who received tofacitinib tablets 5 mg twice daily demonstrated greater improvement from baseline compared to placebo in physical component summary (PCS), mental component summary (MCS) scores and in all 8 domains of the SF-36 at Month 3.
@@ -126,17 +126,17 @@ At baseline, 80% and 53% of patients had enthesitis and dactylitis, respectively
 At baseline, all patients were required to receive treatment with a stable dose of a nonbiologic DMARD (79% received methotrexate, 13% received sulfasalazine, 7% received leflunomide, 1% received other nonbiologic DMARDs).
 In both clinical trials, the primary endpoints were the ACR20 response and the change from baseline in HAQ-DI at Month 3.
 
-- Study PsA-I was a 12-month clinical trial in 422 patients who had an inadequate response to a nonbiologic DMARD (67% and 33% were inadequate responders to 1 nonbiologic DMARD and ≥2 nonbiologic DMARDs, respectively) and who were naïve to treatment with a TNF blocker.
-  Although Study PsA-1 included patients who are TNF blocker-naïve, tofacitinib tabletsare not approved for use in TNF blocker-naïve patients[seeIndications and Usage (1.2)].
+- Study Ps A-I was a 12-month clinical trial in 422 patients who had an inadequate response to a nonbiologic DMARD (67% and 33% were inadequate responders to 1 nonbiologic DMARD and ≥2 nonbiologic DMARDs, respectively) and who were naïve to treatment with a TNF blocker.
+  Although Study Ps A-1 included patients who are TNF blocker-naïve, tofacitinib tablets are not approved for use in TNF blocker-naïve patients [see Indications and Usage (1.2)].
   Patients were randomized in a 2:2:2:1:1 ratio to receive tofacitinib tablets 5 mg twice daily, tofacitinib tablets 10 mg twice daily, adalimumab 40 mg subcutaneously once every 2 weeks, placebo to tofacitinib tablets 5 mg twice daily treatment sequence, or placebo to tofacitinib tablets 10 mg twice daily treatment sequence, respectively; study drug was added to background nonbiologic DMARD treatment.
-  At the Month 3 visit, all patients randomized to placebo treatment were switched in a blinded fashion to a predetermined tofacitinib tabletsdosage of 5 mg or 10 mg twice daily.
-  Study PsA-I was not designed to demonstrate noninferiority or superiority to adalimumab.
-- Study PsA-II was a 6-month clinical trial in 394 patients who had an inadequate response to at least 1 approved TNF blocker (66%, 19%, and 15% were inadequate responders to 1 TNF blocker, 2 TNF blockers and ≥3 TNF blockers, respectively).
+  At the Month 3 visit, all patients randomized to placebo treatment were switched in a blinded fashion to a predetermined tofacitinib tablets dosage of 5 mg or 10 mg twice daily.
+  Study Ps A-I was not designed to demonstrate noninferiority or superiority to adalimumab.
+- Study Ps A-II was a 6-month clinical trial in 394 patients who had an inadequate response to at least 1 approved TNF blocker (66%, 19%, and 15% were inadequate responders to 1 TNF blocker, 2 TNF blockers and ≥3 TNF blockers, respectively).
   Patients were randomized in a 2:2:1:1 ratio to receive tofacitinib tablets 5 mg twice daily, tofacitinib tablets 10 mg twice daily, placebo to tofacitinib tablets 5 mg twice daily treatment sequence, or placebo to tofacitinib tablets 10 mg twice daily treatment sequence, respectively; study drug was added to background nonbiologic DMARD treatment.
-  At the Month 3 visit, placebo patients were switched in a blinded fashion to a predetermined tofacitinib tabletsdosage of 5 mg or 10 mg twice daily as in Study PsA-I.
+  At the Month 3 visit, placebo patients were switched in a blinded fashion to a predetermined tofacitinib tablets dosage of 5 mg or 10 mg twice daily as in Study Ps A-I.
 
 Although other dosages have been studied, the recommended dosage of tofacitinib tablets is 5 mg twice daily.
-Tofacitinib tablets 10 mg twice daily is not recommended for treatment of PsA[seeDosage and Administration (2.3)].
+Tofacitinib tablets 10 mg twice daily is not recommended for treatment of Ps A [see Dosage and Administration (2.3)].
 Clinical Response At Month 3, patients treated with tofacitinib tablets 5 mg twice daily had higher (p≤0.05) response rates versus placebo for ACR20, ACR50, and ACR70 in Study PsA-I and for ACR20 and ACR50 in Study PsA-II; ACR70 response rates were also higher for tofacitinib tablets 5 mg twice daily versus placebo in Study PsA-II, although the differences versus placebo were not statistically significant (p>0.05) (Tables 14 and 15).
 Table 14: Proportion of Adults with Active PsA with an ACR Response at Month 3 in Study PsA-I* [Nonbiologic DMARD Inadequate Responders (TNF Blocker-Naïve)]**
 
@@ -150,7 +150,7 @@ Patients with missing data were treated as non-responders.
 
 * Patients received one concomitant nonbiologic DMARD.
 
-** Tofacitinib tablets are not approved for use in TNF blocker-naïve patients[seeIndications and Usage (1.2)]. a N is number of randomized and treated patients.
+** Tofacitinib tablets are not approved for use in TNF blocker-naïve patients [see Indications and Usage (1.2)]. a N is number of randomized and treated patients.
 Table 15: Proportion of Adults with Active PsA with an ACR Response at Month 3 in Study PsA-II* (TNF Blocker Inadequate Responders)
 
 | Treatment Group | Placebo | Tofacitinib Tablets 5 mg Twice Daily |  |
@@ -181,14 +181,14 @@ Table 16: Components of ACR Response in Adults with Active PsA at Baseline and M
 
 * Patients received one concomitant nonbiologic DMARD.
 
-** Tofacitinib tablets are not approved for use in TNF blocker-naïve patients[seeIndications and Usage (1.2)]. a Data shown are mean value at baseline and at Month 3. b Visual analog scale (VAS): 0 = best, 100 = worst. c HAQ-DI = Health Assessment Questionnaire – Disability Index: 0 = best, 3 = worst; 20 questions; categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities.
+** Tofacitinib tablets are not approved for use in TNF blocker-naïve patients [see Indications and Usage (1.2)]. a Data shown are mean value at baseline and at Month 3. b Visual analog scale (VAS): 0 = best, 100 = worst. c HAQ-DI = Health Assessment Questionnaire – Disability Index: 0 = best, 3 = worst; 20 questions; categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities.
 The percentage of ACR20 responders by visit for Study PsA-I is shown in Figure 5.
 Similar responses were observed in Study PsA-II.
 In both studies, improvement in ACR20 response on tofacitinib tablets was observed at the first visit after baseline (Week 2).
 Figure 5: Percentage of ACR20 Responders by Visit Through Month 3 in Study PsA-I*,**
 
 BID=twice daily; SE=standard error.
-Patients with missing data were treated as non-responders. * Subjects received one concomitant nonbiologic DMARD. ** Tofacitinib tablets are not approved for use in TNF blocker-naïve patients[seeIndications and Usage (1.2)].
+Patients with missing data were treated as non-responders. * Subjects received one concomitant nonbiologic DMARD. ** Tofacitinib tablets are not approved for use in TNF blocker-naïve patients [seeIndications and Usage (1.2)].
 In patients with active PsA evidence of benefit in enthesitis and dactylitis was observed with tofacitinib tablets treatment.
 Physical Function Improvement in physical functioning was measured by the HAQ-DI.
 Patients receiving tofacitinib tablets 5 mg twice daily demonstrated significantly greater improvement (p ≤0.05) from baseline in physical functioning compared to placebo at Month 3 (Table 17).
@@ -205,7 +205,7 @@ Table 17: Change from Baseline in HAQ-DI in Adults with Active PsA at Month 3 St
 
 * Patients received one concomitant nonbiologic DMARD.
 
-** Tofacitinib tablets are not approved for use in TNF blocker-naïve patients[seeIndications and Usage (1.2)]. a N is the total number of patients in the statistical analysis. b Inadequate response to at least one nonbiologic DMARD due to lack of efficacy and/or intolerability. c Inadequate response to at least one TNF blocker due to lack of efficacy and/or intolerability.
+** Tofacitinib tablets are not approved for use in TNF blocker-naïve patients [see Indications and Usage (1.2)]. a N is the total number of patients in the statistical analysis. b Inadequate response to at least one nonbiologic DMARD due to lack of efficacy and/or intolerability. c Inadequate response to at least one TNF blocker due to lack of efficacy and/or intolerability.
 In Study PsA-I, the HAQ-DI responder rate (response defined as having improvement from baseline of ≥0.35) at Month 3 was 53% in patients receiving tofacitinib tablets 5 mg twice daily and 31% in patients receiving placebo.
 Similar responses were observed in Study PsA-II.
 Other Health-Related Outcomes General health status was assessed by the Short Form health survey (SF-36).
@@ -349,7 +349,7 @@ At baseline of Study UC-III:
 - 179 (30%) patients were in remission
 - 289 (49%) patients were receiving oral corticosteroids
 - 265 (45%), 445 (75%), and 413 (70%) patients had previously failed or were intolerant to TNF blocker therapy, corticosteroids, and immunosuppressants, respectively.
-  Tofacitinib tablets areindicated only for use in patients who have had inadequate response or intolerance to one or more TNF blockers [see Indications and Usage (1.5)].
+  Tofacitinib tablets are indicated only for use in patients who have had inadequate response or intolerance to one or more TNF blockers [see Indications and Usage (1.5)].
 
 In Study UC-III, the primary endpoint was the proportion of patients in remission at Week 52.
 There were two key secondary endpoints: the proportion of patients with improvement of endoscopic appearance at Week 52, and the proportion of patients with sustained corticosteroid-free remission at both Week 24 and Week 52 among patients in remission at baseline of Study UC-III.

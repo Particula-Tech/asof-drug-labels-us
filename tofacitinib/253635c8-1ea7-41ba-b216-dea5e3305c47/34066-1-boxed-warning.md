@@ -12,12 +12,13 @@ Reported infections included:
 - Invasive fungal infections, including cryptococcosis and pneumocystosis.
   Patients with invasive fungal infections may present with disseminated, rather than localized, disease.
 - Bacterial, viral, including herpes zoster, and other infections due to opportunistic pathogens.
-  The risks and benefits of tofacitinib tablets treatment should be carefully considered prior to initiating therapy in patients with chronic or recurrent infection.
+
+The risks and benefits of tofacitinib tablets treatment should be carefully considered prior to initiating therapy in patients with chronic or recurrent infection.
 
 Patients should be closely monitored for the development of signs and symptoms of infection during and after tofacitinib tablets treatment, including the possible development of TB in patients who tested negative for latent TB infection prior to initiating therapy.
 If a serious infection develops, interrupt tofacitinib tablets until the infection is controlled [seeWarnings and Precautions (5.1)].
-MORTALITY In a large, randomized,postmarketing safety study in rheumatoid arthritis (RA) patients 50 years of age and older with at least one cardiovascular (CV) risk factor comparing tofacitinib tablets 5 mg or 10 mg twice a day to tumor necrosis factor (TNF) blockers, a higher rate of all-cause mortality, including sudden CV death, was observed with tofacitinib tablets 5 mg or 10 mg twice a day [see Warnings and Precautions (5.2)].
-Tofacitinib tablets 10 mg twice daily dosage is not recommended for the treatment of RA, psoriatic arthritis (PsA), ankylosing spondylitis(AS), or polyarticular course juvenile idiopathic arthritis (pcJIA) [see Dosage and Administration (2.3, 2.4)].
+MORTALITY In a large, randomized, postmarketing safety study in rheumatoid arthritis (RA) patients 50 years of age and older with at least one cardiovascular (CV) risk factor comparing tofacitinib tablets 5 mg or 10 mg twice a day to tumor necrosis factor (TNF) blockers, a higher rate of all-cause mortality, including sudden CV death, was observed with tofacitinib tablets 5 mg or 10 mg twice a day [see Warnings and Precautions (5.2)].
+Tofacitinib tablets 10 mg twice daily dosage is not recommended for the treatment of RA, psoriatic arthritis (PsA), ankylosing spondylitis (AS), or polyarticular course juvenile idiopathic arthritis (pcJIA) [see Dosage and Administration (2.3, 2.4)].
 MALIGNANCIES Malignancies, including lymphomas and solid tumors, have occurred in patients treated with tofacitinib tablets and other Janus kinase inhibitors used to treat inflammatory conditions.
 In RA patients, a higher rate of malignancies (excluding non-melanoma skin cancer (NMSC)) was observed in patients treated with tofacitinib tablets 5 mg or 10 mg twice a day compared with TNF blockers [see Warnings and Precautions (5.3)].
 Lymphomas and lung cancers were observed at a higher rate in patients treated with tofacitinib tablets 5 mg or 10 mg twice a day in RA patients compared to those treated with TNF blockers.

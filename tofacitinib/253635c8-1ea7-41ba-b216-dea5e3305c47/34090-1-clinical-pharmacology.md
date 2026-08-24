@@ -12,14 +12,14 @@ However, the relevance of specific JAK combinations to therapeutic effectiveness
 
 ## 12.2 Pharmacodynamics
 
-Treatment with tofacitinib tabletswas associated with dose-dependent reductions of circulating CD16/56+ natural killer cells, with estimated maximum reductions occurring at approximately 8-10 weeks after initiation of therapy.
+Treatment with tofacitinib tablets was associated with dose-dependent reductions of circulating CD16/56+ natural killer cells, with estimated maximum reductions occurring at approximately 8-10 weeks after initiation of therapy.
 These changes generally resolved within 2-6 weeks after discontinuation of treatment.
-Treatment with tofacitinib tabletswas associated with dose-dependent increases in B cell counts.
+Treatment with tofacitinib tablets was associated with dose-dependent increases in B cell counts.
 Changes in circulating T-lymphocyte counts and T-lymphocyte subsets (CD3+, CD4+ and CD8+) were small and inconsistent.
 The clinical significance of these changes is unknown.
 Total serum IgG, IgM, and IgA levels after 6-month dosing in patients with rheumatoid arthritis (RA) were lower than in patients who received placebo; however, changes were small and not dose-dependent.
-After treatment with tofacitinibtablets in patients with RA, rapid decreases in serum C-reactive protein (CRP) were observed and maintained throughout dosing.
-Changes in CRP observed with tofacitinib tabletstreatment do not reverse fully within 2 weeks after discontinuation, indicating a longer duration of pharmacodynamic activity compared to the pharmacokinetic half-life.
+After treatment with tofacitinib tablets in patients with RA, rapid decreases in serum C-reactive protein (CR-P) were observed and maintained throughout dosing.
+Changes in CRP observed with tofacitinib tablets treatment do not reverse fully within 2 weeks after discontinuation, indicating a longer duration of pharmacodynamic activity compared to the pharmacokinetic half-life.
 Similar changes in T cells, B cells, and serum CRP have been observed in patients with active psoriatic arthritis (PsA) although reversibility was not assessed.
 Total serum immunoglobulins were not assessed in patients with active PsA.
 
@@ -38,8 +38,8 @@ Table 8: Pharmacokinetic Parameters of Tofacitinib Tablets Following Multiple Or
 | Cmin (ng/mL) | 1.41 (40) | 3.10 (54) |
 | Tmax (hours) | 1.0 (0.5 to14.0b) | 0.8 (0.5 to 14.0b) |
 
-Abbreviations: AUC24 = area under the concentration time profile from time 0 to 24 hours; Cmax = maximum plasma concentration; Cmin = minimum plasma concentration; Tmax = time to Cmax; CV = Coefficient of variation. a Values represent the geometric mean, except Tmax, for which is the median (range) is shown. b Values beyond 12 hours were after the evening dose which was administered 12 hours after the morning dose of twice-daily tofacitinibtablets.
-Absorption Tofacitinibtablets The absolute oral bioavailability of tofacitinib tablets is 74%.
+Abbreviations: AUC24 = area under the concentration time profile from time 0 to 24 hours; Cmax = maximum plasma concentration; Cmin = minimum plasma concentration; Tmax = time to Cmax; CV = Coefficient of variation. a Values represent the geometric mean, except Tmax, for which is the median (range) is shown. b Values beyond 12 hours were after the evening dose which was administered 12 hours after the morning dose of twice-daily tofacitinib tablets.
+Absorption Tofacitinib tablets The absolute oral bioavailability of tofacitinib tablets is 74%.
 Coadministration of tofacitinib tablets with a high-fat meal resulted in no changes in AUC while Cmax was reduced by 32%.
 In clinical trials, tofacitinib tablets were administered without regard to meals [see Dosage and Administration (2.2)].
 Distribution After intravenous administration, the volume of distribution was 87 L. The protein binding of tofacitinib is approximately 40%.
@@ -70,13 +70,12 @@ Figure 1: Impact of Intrinsic Factors on Tofacitinib Pharmacokinetics
 
 Note: Reference values for weight, age, biological sex, and race comparisons are 70 kg, 55 years, male, and white, respectively; reference groups for renal and hepatic impairment data are patients with normal renal and hepatic function.
 Renal function was estimated using creatinine clearance by Cockcroft-Gault method and hepatic function was estimated using Child-Pugh scoring method.
-In patients with end-stage renal disease maintained on hemodialysis, mean AUC was approximately 40% higher compared with historical healthy subject data, consistent with approximately 30% contribution of renal clearance to the total clearance of tofacitinib.
-[see Dosage and Administration (2.3, 2.4, 2.5)and Use in Specific Populations (8.6)].
+In patients with end-stage renal disease maintained on hemodialysis, mean AUC was approximately 40% higher compared with historical healthy subject data, consistent with approximately 30% contribution of renal clearance to the total clearance of tofacitinib[see Dosage and Administration (2.3, 2.4, 2.5)and Use in Specific Populations (8.6)].
 Drug Interaction Studies Potential for tofacitinib tablets to Influence the PK of Other Drugs In vitro studies indicate that tofacitinib does not significantly inhibit or induce the activity of the major human drug-metabolizing CYPs (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) at concentrations corresponding to the steady state Cmax of a 10 mg twice daily dose.
 These in vitro results were confirmed by a human drug interaction study showing no changes in the pharmacokinetics of midazolam, a highly sensitive CYP3A4 substrate, when concomitantly administered with tofacitinib tablets.
 In vitro studies indicate that tofacitinib does not significantly inhibit the activity of the major human drug-metabolizing uridine 5'-diphospho-glucuronosyltransferases (UGTs) [UGT1A1, UGT1A4, UGT1A6, UGT1A9, and UGT2B7] at concentrations exceeding 250 times the steady state Cmax of a 10 mg twice daily dose.
 In patients with RA, the oral clearance of tofacitinib does not vary with time, indicating that tofacitinib does not normalize CYP enzyme activity in patients with RA.
-Therefore, concomitant use with tofacitinib tofacitinib tabletsis not expected to result in clinically relevant increases in the metabolism of CYP substrates in patients with RA.
+Therefore, concomitant use with tofacitinib tablets is not expected to result in clinically relevant increases in the metabolism of CYP substrates in patients with RA.
 In vitro data indicate that the potential for tofacitinib to inhibit transporters such as P-glycoprotein, organic anionic or cationic transporters at therapeutic concentrations is low.
 The impact of tofacitinib on the PK of other drugs for the concomitant drugs are shown in Figure 2.
 Figure 2: Impact of Tofacitinib on the Pharmacokinetics of Other Drugs
@@ -86,4 +85,4 @@ Potential for Other Drugs to Influence the Pharmacokinetics of Tofacitinib Since
 Inhibitors of CYP2C19 alone or P-glycoprotein are unlikely to substantially alter the pharmacokinetics of tofacitinib (see Figure 3).
 Figure 3: Impact of Other Drugs on the Pharmacokinetics of Tofacitinib
 
-Note: Reference group is administration of tofacitinib tabletsalone.
+Note: Reference group is administration of tofacitinib tablets alone.

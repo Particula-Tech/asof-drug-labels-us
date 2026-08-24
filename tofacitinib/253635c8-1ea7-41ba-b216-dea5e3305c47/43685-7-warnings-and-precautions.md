@@ -32,10 +32,10 @@ Monitor patients closely for the development of signs and symptoms of TB, includ
 Treat patients with latent TB with standard antimycobacterial therapy before administering tofacitinib tablets.
 Viral Reactivation Viral reactivation, including cases of herpes virus reactivation (e.g., herpes zoster), were observed in clinical studies with tofacitinib tablets.
 Postmarketing cases of hepatitis B reactivation have been reported in patients treated with tofacitinib tablets.
-The impact of tofacitinibtablets on chronic viral hepatitis reactivation is unknown.
+The impact of tofacitinib tablets on chronic viral hepatitis reactivation is unknown.
 Patients who screened positive for hepatitis B or C were excluded from clinical trials.
 Perform screening for viral hepatitis in accordance with clinical guidelines before starting therapy with tofacitinib tablets.
-The risk of herpes zoster is increased in patients treated with tofacitinibtablets and appears to be higher in patients treated with tofacitinibtablets in Japan and Korea.
+The risk of herpes zoster is increased in patients treated with tofacitinib tablets and appears to be higher in patients treated with tofacitinib tablets in Japan and Korea.
 
 ## 5.2 Increased Risk of Mortality
 
@@ -85,8 +85,8 @@ The incidence rate of DVT per 100 patient-years was 0.28 for tofacitinib tablets
 The incidence rate of PE per 100 patient-years was 0.49 for tofacitinib tablets 10 mg twice a day, 0.18 for tofacitinib tablets 5 mg twice a day, and 0.05 for TNF blockers [see Clinical Studies (14.6)].
 Tofacitinib tablets 10 mg twice daily dosages are not recommended for the treatment of RA, PsA, AS, or pcJIA [see Dosage and Administration (2.3, 2.4)].
 In a long-term extension study in patients with UC, five cases of pulmonary embolism were reported in patients taking tofacitinib tablets 10 mg twice daily, including one death in a patient with advanced cancer.
-Promptly evaluate patients with symptoms of thrombosis and discontinue tofacitinibtablets in patients with symptoms of thrombosis.
-Avoid tofacitinibtablets in patients that may be at increased risk of thrombosis.
+Promptly evaluate patients with symptoms of thrombosis and discontinue tofacitinib tablets in patients with symptoms of thrombosis.
+Avoid tofacitinib tablets in patients that may be at increased risk of thrombosis.
 For the treatment of UC, use tofacitinib tablets at the lowest effective dose and for the shortest duration needed to achieve/maintain therapeutic response [see Dosage and Administration (2.5)].
 
 ## 5.6 Gastrointestinal Perforations
@@ -104,7 +104,13 @@ Reactions such as angioedema and urticaria that may reflect drug hypersensitivit
 Some events were serious.
 If a serious hypersensitivity reaction occurs, promptly discontinue tofacitinib tablets while evaluating the potential cause or causes of the reaction [see Adverse Reactions (6.2)].
 
-## 5.8 Laboratory Abnormalities
+## 5.8 Hypoglycemia in Patients with Diabetes
+
+Hypoglycemia, including severe hypoglycemia, has been reported following initiation of tofacitinib tablets and other JAK inhibitors in patients with diabetes.
+During treatment with tofacitinib tablets, consider increased monitoring of blood glucose as clinically indicated in patients with diabetes.
+Advise patients with diabetes to notify their healthcare provider if they develop signs or symptoms of hypoglycemia.
+
+## 5.9 Laboratory Abnormalities
 
 Laboratory abnormalities may occur with tofacitinib tablets.
 Lymphocyte Abnormalities Treatment with tofacitinib tablets was associated with initial lymphocytosis at one month of tofacitinib tablets treatment followed by a gradual decrease in mean absolute lymphocyte counts below the baseline of approximately 10% during 12 months of therapy.
@@ -114,10 +120,10 @@ Lymphocyte counts less than 500 cells/mm3 in these patients were associated with
 - Avoid initiation of tofacitinib tablets treatment in patients with a low lymphocyte count (i.e., less than 500 cells/mm3).
   In patients who develop a confirmed absolute lymphocyte count less than 500 cells/mm3, treatment with tofacitinib tablets is not recommended.
 
-Neutropenia Treatment with tofacitinib tablets was associated with an increased incidence of neutropenia (less than 2000 cells/mm3) compared to treatment with placebo.
+Neutropenia Treatment with tofacitinib tabletswas associated with an increased incidence of neutropenia (less than 2000 cells/mm3) compared to treatment with placebo.
 
 - Monitor neutrophil counts at baseline and after 4-8 weeks of treatment and every 3 months thereafter.
-- Avoid initiation of tofacitinibtablets treatment in patients with a low neutrophil count (i.e., ANC less than 1000 cells/mm3).
+- Avoid initiation of tofacitinib tablets treatment in patients with a low neutrophil count (i.e., ANC less than 1000 cells/mm3).
   For patients who develop a persistent ANC of 500 to 1000 cells/mm3, interrupt dosing until ANC is greater than or equal to 1000 cells/mm3.
   In patients who develop an ANC less than 500 cells/mm3, treatment with tofacitinib tablets is not recommended.
 
@@ -125,7 +131,7 @@ Anemia
 
 - Monitor hemoglobin at baseline and after 4-8 weeks of treatment and every 3 months thereafter.
 - Avoid initiation of tofacitinib tablets treatment in patients with a low hemoglobin level (i.e., less than 9 g/dL).
-  Interrupt treatment with tofacitinibtablets in patients who develop hemoglobin levels less than 8 g/dL or whose hemoglobin level drops greater than 2 g/dL on treatment until hemoglobin values have normalized.
+  Interrupt treatment with tofacitinib tabletsin patients who develop hemoglobin levels less than 8 g/dL or whose hemoglobin level drops greater than 2 g/dL on treatment until hemoglobin values have normalized.
 
 Liver Enzyme Elevations Treatment with tofacitinib tablets was associated with an increased incidence of liver enzyme elevation compared to treatment with placebo.
 Most of these abnormalities occurred in studies with background DMARD therapy (primarily methotrexate).
@@ -141,7 +147,7 @@ The effect of these lipid parameter elevations on cardiovascular morbidity and m
 - Perform assessment of lipid parameters approximately 4-8 weeks following initiation of tofacitinib tablets therapy.
 - Manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
 
-## 5.9 Vaccinations
+## 5.10 Vaccinations
 
 Avoid use of live vaccines concurrently with tofacitinib tablets.
 Prior to initiating tofacitinib tablets therapy, update immunizations in agreement with current immunization guidelines.
