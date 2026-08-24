@@ -10,7 +10,7 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 - Urinary Bladder Tumors [see Warnings and Precautions (5.6)]
 - Fractures [see Warnings and Precautions (5.7)]
 - Macular Edema [see Warnings and Precautions (5.8]
-- Vitamin B12 Levels [see Warnings and Precautions (5.9]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.9]
 
 ## 6.1 Clinical Trials Experience
 

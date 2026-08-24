@@ -15,12 +15,13 @@ Individualize the starting dosage of ACTOPLUS MET based on the patient's current
 
 Table 1: Recommended Starting Dosage Based on the Patient’s Current Regimen
 
-| Current Regimen | Starting Dosage of ACTOPLUS MET (15 mg of pioglitazone and 850 mg of metformin HCl per tablet)For dosage recommendations for patients with renal impairment and/or congestive heart failure, see Dosage and Administration (2.3, 2.4) |
+| Current Regimen | Starting Dosage of ACTOPLUS MET (15 mg of pioglitazone and 850 mg of metformin HCl per tablet)* |
 | --- | --- |
 | Not treated with either pioglitazone or metformin HCl | One tablet orally once daily |
 | Metformin HCl | One tablet orally once or twice daily. Select a dosage that is as close as possible to the current dosage of metformin HCl |
 | Pioglitazone | One tablet orally once daily |
 | Pioglitazone and metformin HCl | Select a dosage that is as close as possible to the current dosage of pioglitazone and metformin HCl while not exceeding three tablets orally per day. |
+| *For dosage recommendations for patients with renal impairment and/or congestive heart failure, see Dosage and Administration (2.3, 2.4) |  |
 
 Dosage Titration for Additional Glycemic Control
 

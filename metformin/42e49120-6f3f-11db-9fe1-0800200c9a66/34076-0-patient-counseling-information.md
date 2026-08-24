@@ -18,6 +18,6 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 - Fractures: Inform female patients about the risk of fractures while taking ACTOPLUS MET.
   Provide them with information on factors that may contribute to fracture risk [see Warnings and Precautions (5.7)].
 - Macular Edema: Educate patients on the signs and symptoms of macular edema and advise them to seek medical attention from an ophthalmologist if they experience symptoms of macular edema [see Warnings and Precautions (5.8)].
-- Vitamin B12 Levels: Inform patients about the importance of obtaining regular hematological laboratory monitoring while receiving ACTOPLUS MET [see Warnings and Precautions (5.9)].
+- Vitamin B12 Deficiency: Inform patients about the importance of obtaining regular hematological laboratory monitoring while receiving ACTOPLUS MET [see Warnings and Precautions (5.9)].
 - Females of Reproductive Age: Inform female patients that treatment with ACTOPLUS MET may result in an unintended pregnancy in some premenopausal anovulatory females due to its effect on ovulation [see Use in Specific Populations (8.3)]
 - Missed Dosage: Instruct patients if a dose is missed, not to double their next dose.

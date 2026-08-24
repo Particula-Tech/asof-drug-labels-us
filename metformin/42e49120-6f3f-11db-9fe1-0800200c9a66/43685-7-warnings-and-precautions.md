@@ -13,7 +13,7 @@ Lactic Acidosis
 
 There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases.
 These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
-Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (greater than 5 mmol/L), anion gap acidosis (without evidence of ketonuria or ketonemia), an increased lactate:pyruvate ratio, and metformin plasma levels generally greater than 5 mcg/mL.
+Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (greater than 5 mmol/L), anion gap acidosis (without evidence of ketonuria or ketonemia), an increased lactate/pyruvate ratio, and metformin plasma levels generally greater than 5 mcg/mL.
 Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
 
 If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of ACTOPLUS MET.
@@ -74,6 +74,14 @@ Hepatic Impairment
 Patients with hepatic impairment have developed with cases of metformin-associated lactic acidosis.
 This may be due to impaired lactate clearance resulting in higher lactate blood levels.
 Therefore, avoid use of ACTOPLUS MET in patients with clinical or laboratory evidence of hepatic disease.
+
+### Mitochondrial Diseases
+
+Metformin may increase the risk of lactic acidosis in patients with mitochondrial diseases such as mitochondrial encephalomyopathy with lactic acidosis, and stroke-like episodes (MELAS) syndrome and maternally inherited diabetes and deafness (MIDD).
+ACTOPLUS MET is not recommended in patients with mitochondrial diseases such as MELAS syndrome and MIDD.
+
+If a patient taking ACTOPLUS MET develops elevated lactic acid levels (with or without accompanying neurologic signs and symptoms), discontinue ACTOPLUS MET.
+Depending on the clinical context, consider evaluating the patient for MELAS, MIDD, or other mitochondrial disease.
 
 ## 5.3 Edema
 
@@ -144,7 +152,7 @@ Some patients had improvement in their macular edema after discontinuation of th
 Patients with diabetes should have regular eye exams by an ophthalmologist according to current standards of care.
 Patients with diabetes who report any visual symptoms should be promptly referred to an ophthalmologist, regardless of the patient's underlying medications or other physical findings [see Adverse Reactions (6.1)].
 
-## 5.9 Vitamin B12 Levels
+## 5.9 Vitamin B12 Deficiency
 
 In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.

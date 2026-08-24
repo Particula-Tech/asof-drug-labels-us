@@ -228,8 +228,8 @@ Table 18: Effect of Pioglitazone Coadministration on Systemic Exposure of Other 
 
 |  | Coadministered Drug |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Pioglitazone Dosage Regimen (mg)Daily for 7 days unless otherwise noted. | Name and Dose Regimens | Change in AUC% change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively. |  | Change in Cmax |  |
-| 45 mg (N = 12) | WarfarinPioglitazone had no clinically significant effect on prothrombin time. |  |  |  |  |
+| Pioglitazone Dosage Regimen (mg)* | Name and Dose Regimens | Change in AUC† |  | Change in Cmax† |  |
+| 45 mg (N = 12) | Warfarin‡ |  |  |  |  |
 | Daily loading then maintenance doses based PT and INR values Quick's Value = 35 ± 5% | R-Warfarin | ↓3% | R-Warfarin | ↓2% |  |
 | S-Warfarin | ↓1% | S-Warfarin | ↑1% |  |  |
 | 45 mg (N = 12) | Digoxin |  |  |  |  |
@@ -254,12 +254,18 @@ Table 18: Effect of Pioglitazone Coadministration on Systemic Exposure of Other 
 | 45 mg (N = 22) | Theophylline |  |  |  |  |
 | 400 mg twice daily for 7 days | ↑2% |  | ↑5% |  |  |
 
+*Daily for 7 days unless otherwise noted.
+
+†% change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively.
+
+‡Pioglitazone had no clinically significant effect on prothrombin time.
+
 Table 19: Effect of Coadministered Drugs on Pioglitazone Systemic Exposure
 
 | Coadministered Drug and Dosage Regimen | Pioglitazone |  |  |
 | --- | --- | --- | --- |
-| Dose Regimen (mg)Daily for 7 days unless otherwise noted. | Change in AUCMean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively. | Change in Cmax |  |
-| Gemfibrozil 600 mg twice daily for 2 days (N = 12) | 15 mg single dose | ↑3.2-foldThe half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3), Drug Interactions (7.1)]. | ↑6% |
+| Dose Regimen (mg)* | Change in AUC† | Change in Cmax† |  |
+| Gemfibrozil 600 mg twice daily for 2 days (N = 12) | 15 mg single dose | ↑3.2-fold‡ | ↑6% |
 | Ketoconazole 200 mg twice daily for 7 days (N = 28) | 45 mg | ↑34% | ↑14% |
 | Rifampin 600 mg daily for 5 days (N = 10) | 30 mg single dose | ↓54% | ↓5% |
 | Fexofenadine 60 mg twice daily for 7 days (N = 23) | 45 mg | ↑1% | 0% |
@@ -267,36 +273,66 @@ Table 19: Effect of Coadministered Drugs on Pioglitazone Systemic Exposure
 | Nifedipine ER 30 mg daily for 7 days (N = 23) | 45 mg | ↑5% | ↑4% |
 | Atorvastatin Calcium 80 mg daily for 7 days (N = 24) | 45 mg | ↓24% | ↓31% |
 | Theophylline 400 mg twice daily for 7 days (N = 22) | 45 mg | ↓4% | ↓2% |
-| Topiramate 96 mg twice daily for 7 daysIndicates duration of concomitant administration with highest twice-daily dose of topiramate from Day 14 onwards over the 22 days of study. | 30 mg | ↓15%Additional decrease in active metabolites; 60% for M-III and 16% for M-IV. | 0% |
+| Topiramate 96 mg twice daily for 7 days§ | 30 mg§ | ↓15% ¶ | 0% |
 | (N = 26) |  |  |  |
+
+*Daily for 7 days unless otherwise noted.
+
+†Mean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively.
+
+‡The half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3), Drug Interactions (7.1)].
+
+§Indicates duration of concomitant administration with highest twice-daily dose of topiramate from Day 14 onwards over the 22 days of study.
+
+¶Additional decrease in active metabolites; 60% for M-III and 16% for M-IV.
 
 Metformin HCl
 
 Table 20: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
-| Coadministered Drug | Dose of Coadministered DrugAll metformin and coadministered drugs were given as single doses. | Dose of Metformin | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
+| Coadministered Drug | Dose of Coadministered Drug* | Dose of Metformin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
 | --- | --- | --- | --- | --- |
-| AUCAUC = AUC0–∞. | Cmax |  |  |  |
+| AUC† | Cmax |  |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |
-| Glyburide | 5 mg | 500 mgMetformin HCl extended-release tablets, 500 mg. | 0.98Ratio of arithmetic means. | 0.99 |
-| Furosemide | 40 mg | 850 mg | 1.09 | 1.22 |
+| Glyburide | 5 mg | 500 mg‡ | 0.98§ | 0.99§ |
+| Furosemide | 40 mg | 850 mg | 1.09§ | 1.22§ |
 | Nifedipine | 10 mg | 850 mg | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | 0.90 | 0.94 |
-| Ibuprofen | 400 mg | 850 mg | 1.05 | 1.07 |
+| Ibuprofen | 400 mg | 850 mg | 1.05§ | 1.07§ |
 | Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5), Drug Interactions (7)]. |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | 1.40 | 1.61 |
 | Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5), Drug Interactions (7)]. |  |  |  |  |
-| Topiramate | 100 mgAt steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h | 500 mg | 1.25 | 1.17 |
+| Topiramate | 100 mg¶ | 500 mg¶ | 1.25¶ | 1.17 |
+
+*All metformin and coadministered drugs were given as single doses.
+
+†AUC = AUC0–∞.
+
+‡Metformin HCl extended-release tablets, 500 mg.
+
+§Ratio of arithmetic means.
+
+¶At steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h
 
 Table 21: Effect of Metformin on Coadministered Drug Systemic Exposure
 
-| Coadministered Drug | Dose of Coadministered DrugAll metformin and coadministered drugs were given as single doses. | Dose of Metformin | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
+| Coadministered Drug | Dose of Coadministered Drug* | Dose of Metformin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
 | --- | --- | --- | --- | --- |
-| AUCAUC = AUC0–∞. | Cmax |  |  |  |
+| AUC† | Cmax |  |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |
-| Glyburide | 5 mg | 500 mgAUC0-24 hr reported. | 0.78Ratio of arithmetic means, p-value of difference <0.05. | 0.63 |
-| Furosemide | 40 mg | 850 mg | 0.87 | 0.69 |
-| Nifedipine | 10 mg | 850 mg | 1.10 | 1.08 |
-| Propranolol | 40 mg | 850 mg | 1.01 | 0.94 |
-| Ibuprofen | 400 mg | 850 mg | 0.97Ratio of arithmetic means. | 1.01 |
-| Cimetidine | 400 mg | 850 mg | 0.95 | 1.01 |
+| Glyburide | 5 mg | 500 mg‡ | 0.78§ | 0.63§ |
+| Furosemide | 40 mg | 850 mg | 0.87§ | 0.69§ |
+| Nifedipine | 10 mg | 850 mg | 1.10‡ | 1.08 |
+| Propranolol | 40 mg | 850 mg | 1.01‡ | 0.94 |
+| Ibuprofen | 400 mg | 850 mg | 0.97¶ | 1.01¶ |
+| Cimetidine | 400 mg | 850 mg | 0.95‡ | 1.01 |
+
+*All metformin and coadministered drugs were given as single doses.
+
+†AUC = AUC0–∞.
+
+‡AUC0-24hr reported.
+
+§Ratio of arithmetic means, p-value of difference <0.05.
+
+¶Ratio of arithmetic means.
