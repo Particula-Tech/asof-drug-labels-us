@@ -4,15 +4,11 @@ NDC 0378-6611-93
 
 Amnesteem® (Isotretinoin Capsules, USP)
 
-10 mg
-
 Each capsule contains 10 mg isotretinoin
 
 WARNING TO PATIENTS: AVOID PREGNANCY
 
-Rx only
-
-3 x 10-Count Prescription Packs
+Rx only 3 x 10-Count Prescription Packs
 
 Special Instructions to Pharmacists:
 
@@ -25,11 +21,11 @@ Special Instructions to Pharmacists:
 Reminders for Pharmacists:
 
 - •Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE REMS program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
-- •Document the Risk Management Authorization number.
+- •Write Risk Management Authorization number on the prescription.
 - •Dispense no more than a 30-day supply.
   No refills.
 - •Dispense Prescription Packs intact.
-- •Do not dispense after the “Do not dispense to Patient After” date for patients who can become pregnant.
+- •Do not dispense after the "Do not dispense to Patient After" date.
 - •A Medication Guide is included in each Prescription Pack.
 
 Contraindicated in Pregnancy.
@@ -49,11 +45,11 @@ Made in France
 
 AMNESTEEM is a registered trademark of Mylan Bertek Pharmaceuticals, Inc., a Viatris Company.
 
-© 2026 Viatris Inc.
+© 2021 Viatris Inc.
 
 Mylan.com
 
-MCAT:6611:93:30C:R5
+MCAT:6611:93:30C:R4
 
 # PRINCIPAL DISPLAY PANEL – 20 mg
 
@@ -67,9 +63,7 @@ Each capsule contains 20 mg isotretinoin
 
 WARNING TO PATIENTS: AVOID PREGNANCY
 
-Rx only
-
-3 x 10-Count Prescription Packs
+Rx only 3 x 10-Count Prescription Packs
 
 Special Instructions to Pharmacists:
 
@@ -82,11 +76,11 @@ Special Instructions to Pharmacists:
 Reminders for Pharmacists:
 
 - •Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE REMS program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
-- •Document the Risk Management Authorization number.
+- •Write Risk Management Authorization number on the prescription.
 - •Dispense no more than a 30-day supply.
   No refills.
 - •Dispense Prescription Packs intact.
-- •Do not dispense after the “Do not dispense to Patient After” date for patients who can become pregnant.
+- •Do not dispense after the "Do not dispense to Patient After" date.
 - •A Medication Guide is included in each Prescription Pack.
 
 Contraindicated in Pregnancy.
@@ -106,11 +100,11 @@ Made in France
 
 AMNESTEEM is a registered trademark of Mylan Bertek Pharmaceuticals, Inc., a Viatris Company.
 
-© 2026 Viatris Inc.
+© 2021 Viatris Inc.
 
 Mylan.com
 
-MCAT:6612:93:30C:R5
+MCAT:6612:93:30C:R4
 
 # PRINCIPAL DISPLAY PANEL – 30 mg
 
@@ -124,9 +118,7 @@ Each capsule contains 30 mg isotretinoin
 
 WARNING TO PATIENTS: AVOID PREGNANCY
 
-Rx only
-
-3 x 10-Count Prescription Packs
+Rx only 3 x 10-Count Prescription Packs
 
 Special Instructions to Pharmacists:
 
@@ -139,11 +131,11 @@ Special Instructions to Pharmacists:
 Reminders for Pharmacists:
 
 - •Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE REMS program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
-- •Document the Risk Management Authorization number.
+- •Write Risk Management Authorization number on the prescription.
 - •Dispense no more than a 30-day supply.
   No refills.
 - •Dispense Prescription Packs intact.
-- •Do not dispense after the “Do not dispense to Patient After” date for patients who can become pregnant.
+- •Do not dispense after the "Do not dispense to Patient After" date.
 - •A Medication Guide is included in each Prescription Pack.
 
 Contraindicated in Pregnancy.
@@ -163,11 +155,11 @@ Made in France
 
 AMNESTEEM is a registered trademark of Mylan Bertek Pharmaceuticals, Inc., a Viatris Company.
 
-© 2026 Viatris Inc.
+© 2024 Viatris Inc.
 
 Mylan.com
 
-MCAT:6613:93:30C:R2
+MCAT:6613:93:30C:R1
 
 # PRINCIPAL DISPLAY PANEL – 40 mg
 
@@ -181,9 +173,7 @@ Each capsule contains 40 mg isotretinoin
 
 WARNING TO PATIENTS: AVOID PREGNANCY
 
-Rx only
-
-3 x 10-Count Prescription Packs
+Rx only 3 x 10-Count Prescription Packs
 
 Special Instructions to Pharmacists:
 
@@ -196,11 +186,11 @@ Special Instructions to Pharmacists:
 Reminders for Pharmacists:
 
 - •Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE REMS program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com.
-- •Document the Risk Management Authorization number.
+- •Write Risk Management Authorization number on the prescription.
 - •Dispense no more than a 30-day supply.
   No refills.
 - •Dispense Prescription Packs intact.
-- •Do not dispense after the “Do not dispense to Patient After” date for patients who can become pregnant.
+- •Do not dispense after the "Do not dispense to Patient After" date.
 - •A Medication Guide is included in each Prescription Pack.
 
 Contraindicated in Pregnancy.
@@ -220,8 +210,8 @@ Made in France
 
 AMNESTEEM is a registered trademark of Mylan Bertek Pharmaceuticals, Inc., a Viatris Company.
 
-© 2026 Viatris Inc.
+© 2021 Viatris Inc.
 
 Mylan.com
 
-MCAT:6614:93:30C:R5
+MCAT:6614:93:30C:R4
