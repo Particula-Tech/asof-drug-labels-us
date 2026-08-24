@@ -12,14 +12,14 @@ Levodopa, an aromatic amino acid, is a white, crystalline compound, slightly sol
 It is designated chemically as (—)-L-α-amino-β-(3,4-dihydroxybenzene) propanoic acid.
 Its empirical formula is C9H11NO4, and its structural formula is:
 
-SINEMET is supplied as tablets in three strengths:
+SINEMET is supplied as tablets in two strengths:
 
 SINEMET 25-100, containing 25 mg of carbidopa and 100 mg of levodopa.
 
 SINEMET 10-100, containing 10 mg of carbidopa and 100 mg of levodopa.
 
-SINEMET 25-250, containing 25 mg of carbidopa and 250 mg of levodopa.
-
 Inactive ingredients are microcrystalline cellulose, pregelatinized starch, starch (corn), and magnesium stearate.
-SINEMET 10-100 and 25-250 Tablets also contain FD&C Blue #2.
+SINEMET 10-100 Tablets also contain FD&C Blue #2.
 SINEMET 25-100 Tablets also contain D&C Yellow #10.
+
+SINEMET 25-250 Tablets are no longer marketed.

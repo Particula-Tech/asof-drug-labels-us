@@ -1,10 +1,5 @@
 # HOW SUPPLIED
 
-SINEMET 25-100 Tablets are yellow oval tablets that are plain on one side, with "650" and a score line on the other.
-They are supplied as follows:
-
-NDC 78206-168-01 bottles of 100.
-
 SINEMET 25-100 Tablets are yellow oval tablets that are plain on one side, with “650” on the other.
 They are supplied as follows:
 
@@ -15,10 +10,7 @@ They are supplied as follows:
 
 NDC 78206-166-01 bottles of 100.
 
-SINEMET 25-250 Tablets are light dapple-blue oval tablets that are plain on one side, with "654" and a score line on the other.
-They are supplied as follows:
-
-NDC 78206-167-01 bottles of 100.
+SINEMET 25-250 Tablets are no longer marketed.
 
 Storage and Handling
 

@@ -5,8 +5,8 @@ For patent information: www.organon.com/our-solutions/patent/
 © 2026 Organon group of companies.
 All rights reserved.
 
-Revised: 3/2026
+Revised: 7/2026
 
-uspi-og0295b-t-2603r002
+uspi-og0295b-t-2607r003
 
 Rx Only

@@ -124,7 +124,7 @@ There have been reports of patients experiencing intense urges to gamble, increa
 Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
 Prescribers should ask patients about the development of new or increased gambling urges, sexual urges or other urges while being treated with SINEMET.
 Patients should inform their physician if they experience new or increased gambling urges, increased sexual urges, or other intense urges while taking SINEMET.
-Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking SINEMET (See PRECAUTIONS, Impulse Control / Compulsive Behaviors).
+Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking SINEMET (see PRECAUTIONS, Impulse Control / Compulsive Behaviors).
 
 Inform patients that vitamin B6 deficiency may develop during treatment with carbidopa/levodopa therapies, including SINEMET.
 Tell patients to inform their healthcare provider if they develop symptoms such as depression, confusion, cheilosis, glossitis, dermatitis, anemia, neuropathy, and/or seizures (see WARNINGS, Vitamin B6 Deficiency and Seizures).

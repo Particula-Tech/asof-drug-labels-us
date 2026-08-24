@@ -1,7 +1,10 @@
 # DOSAGE AND ADMINISTRATION
 
+SINEMET 25-250 tablets are no longer marketed.
+For dosing with 25-250 strength, use another carbidopa and levodopa product.
+
 The optimum daily dosage of SINEMET must be determined by careful titration in each patient.
-SINEMET tablets are available in a 1:4 ratio of carbidopa to levodopa (SINEMET 25-100) as well as 1:10 ratio (SINEMET 25-250 and SINEMET 10-100).
+SINEMET tablets are available in a 1:4 ratio of carbidopa to levodopa (SINEMET 25-100) as well as 1:10 ratio (carbidopa and levodopa 25-250 and SINEMET 10-100).
 Tablets of the two ratios may be given separately or combined as needed to provide the optimum dosage.
 
 Studies show that peripheral dopa decarboxylase is saturated by carbidopa at approximately 70 to 100 mg a day.
@@ -9,7 +12,7 @@ Patients receiving less than this amount of carbidopa are more likely to experie
 
 Management of Vitamin B6 Levels
 
-Evaluate vitamin B6 levels prior to initiating carbidopa/levodopa therapies, including SINEMET, periodically during treatment, and as clinically indicated (See WARNINGS, Vitamin B6 Deficiency and Seizures).
+Evaluate vitamin B6 levels prior to initiating carbidopa/levodopa therapies, including SINEMET, periodically during treatment, and as clinically indicated (see WARNINGS, Vitamin B6 Deficiency and Seizures).
 If vitamin B6 levels are low, supplement to sufficient levels per standard of care.
 Patients may initiate and continue treatment with SINEMET while supplementing vitamin B6.
 
@@ -28,14 +31,14 @@ How to Transfer Patients from Levodopa
 Levodopa must be discontinued at least twelve hours before starting SINEMET.
 A daily dosage of SINEMET should be chosen that will provide approximately 25% of the previous levodopa dosage.
 Patients who are taking less than 1500 mg of levodopa a day should be started on one tablet of SINEMET 25-100 three or four times a day.
-The suggested starting dosage for most patients taking more than 1500 mg of levodopa is one tablet of SINEMET 25-250 three or four times a day.
+The suggested starting dosage for most patients taking more than 1500 mg of levodopa is one tablet of carbidopa and levodopa 25-250 three or four times a day.
 
 Maintenance
 
 Therapy should be individualized and adjusted according to the desired therapeutic response.
 At least 70 to 100 mg of carbidopa per day should be provided.
 When a greater proportion of carbidopa is required, one tablet of SINEMET 25-100 may be substituted for each tablet of SINEMET 10-100.
-When more levodopa is required, SINEMET 25-250 should be substituted for SINEMET 25-100 or SINEMET 10-100.
+When more levodopa is required, carbidopa and levodopa 25-250 should be substituted for SINEMET 25-100 or SINEMET 10-100.
 If necessary, the dosage of carbidopa and levodopa 25-250 may be increased by one-half or one tablet every day or every other day to a maximum of eight tablets a day.
 Experience with total daily dosages of carbidopa greater than 200 mg is limited.
 
