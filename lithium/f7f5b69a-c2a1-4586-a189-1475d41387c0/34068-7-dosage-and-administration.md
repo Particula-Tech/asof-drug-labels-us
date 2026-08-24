@@ -20,11 +20,11 @@ Long-Term Control
 Desirable serum lithium concentrations are 0.6 to 1.2 mEq/L which can usually be achieved with 900 to 1200 mg/day.
 Dosage will vary from one individual to another, but generally the following dosages will maintain this concentration:
 
-| LONG-TERM CONTROL |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Morning | Afternoon | Nighttime |  |  |  |  |
-| LITHOBID®Extended-Release Tablets1 | 2 tabs(600 mg) |  | 2 tabs(600 mg) |  |  |  |  |
-| 1Can be administered on TID recommended dosing interval up to 1200 mg/day. |  |  |  |  |  |  |  |
+| LONG-TERM CONTROL |  |  |  |
+| --- | --- | --- | --- |
+|  | Morning | Afternoon | Nighttime |
+| LITHOBID®Extended-Release Tablets1 | 2 tabs(600 mg) |  | 2 tabs(600 mg) |
+| 1Can be administered on TID recommended dosing interval up to 1200 mg/day. |  |  |  |
 
 Serum lithium concentrations in uncomplicated cases receiving maintenance therapy during remission should be monitored at least every two months.
 Patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations of 1.0 to 1.5 mEq/L.

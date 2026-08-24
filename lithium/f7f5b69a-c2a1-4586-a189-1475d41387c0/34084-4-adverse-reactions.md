@@ -36,3 +36,5 @@ Some reports of nephrogenic diabetes insipidus, hyperparathyroidism, and hypothy
 A few reports have been received of the development of painful discoloration of fingers and toes and coldness of the extremities within one day of starting lithium treatment.
 The mechanism through which these symptoms (resembling Raynaud's Syndrome) developed is not known.
 Recovery followed discontinuance.
+
+To report SUSPECTED ADVERSE REACTIONS, contact ANI Pharmaceuticals, Inc. at 1-855-204-1431 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
