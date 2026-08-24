@@ -4,9 +4,9 @@ TYRVAYA nasal spray contains varenicline which is a partial nicotinic acetylchol
 
 Varenicline, as the tartrate salt, is a powder which is a white to off-white to slightly yellow solid whose chemical name is 7,8,9,10-tetrahydro-6,10-methano-6H-pyrazino[2,3-h][3]benzazepine, (2R,3R)-2,3-dihydroxybutanedioate (1:1).
 It is highly soluble in water.
-Varenicline tartrate has a molecular weight of 361.35 Daltons and a molecular formula of C13H13N3 ⋅ C4H6O6.
+Varenicline tartrate has a molecular weight of 361.35 Daltons and a molecular formula of C13H13N3•C4H6O6.
 The chemical structure is:
 
 TYRVAYA (varenicline solution) nasal spray is formulated for intranasal use as a clear 0.6 mg/mL strength solution, at pH 6.4.
 After priming [see Dosage and Administration (2.2)], each actuation delivers a 0.05 mL spray containing 0.03 mg varenicline free base, equivalent to 0.05 mg of varenicline tartrate.
-The formulation also contains the following inactive ingredients: sodium phosphate dibasic heptahydrate, monobasic sodium phosphate anhydrous, sodium chloride, sodium hydroxide and/or hydrochloric acid (to adjust pH) and water for injection.
+The formulation also contains the following inactive ingredients: monobasic sodium phosphate anhydrous, sodium chloride, sodium phosphate dibasic heptahydrate, sodium hydroxide and/or hydrochloric acid (to adjust pH) and water for injection.

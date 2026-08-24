@@ -31,14 +31,12 @@ This information does not take the place of talking to your healthcare provider 
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-TYRVAYA® is a registered trademark of Oyster Point Pharma, Inc., a Viatris company.
+Distributed by: Oyster Point Pharma, Inc., a Viatris Company, Morgantown, WV 26505 U.S.A.
 
-TYRVAYA® and/or the use of TYRVAYA® in a method may be covered by one or more patents or patent applications, available at www.oysterpointrx.com/patent-notices.
+TYRVAYA® is a registered trademark of Oyster Point Pharma, Inc., a Viatris Company.
 
-Manufactured for: Oyster Point Pharma, Inc., 202 Carnegie Center, Suite 106, Princeton, NJ 08540
+TYRVAYA® and/or the use of TYRVAYA® in a method may be covered by one or more patents or patent applications, www.oysterpointrx.com/patent-notices.
 
-©2023 Oyster Point Pharma, Inc.
+© 2026 Viatris Inc. Revised: 7/2026
 
-Revised: 2/2024
-
-OYP:IFU:TYRVA:R1
+OYP:IFU:TYRVA:R2

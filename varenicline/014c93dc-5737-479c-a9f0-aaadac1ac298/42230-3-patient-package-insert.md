@@ -8,10 +8,10 @@
 | What are the possible side effects of TYRVAYA?The most common side effects of TYRVAYA include sneezing, cough, and throat and nose irritation.These are not the only possible side effects of TYRVAYA. Call your doctor for medical advice about side effects.You may report side effects to FDA at 1-800-FDA-1088. |
 | How should I store TYRVAYA? •Store TYRVAYA at room temperature between 68°F to 77°F (20°C to 25°C).•Do not freeze.•Throw away (discard) TYRVAYA nasal spray bottle 30 days after first use. Keep TYRVAYA and all medicines out of the reach of children. |
 | General information about the safe and effective use of TYRVAYA.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use TYRVAYA for a condition for which it was not prescribed. Do not give TYRVAYA to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about TYRVAYA that is written for health professionals. |
-| What are the ingredients in TYRVAYA?Active ingredient: varenicline tartrateInactive ingredients: sodium phosphate dibasic heptahydrate, monobasic sodium phosphate anhydrous, sodium chloride, sodium hydroxide and/or hydrochloric acid (to adjust pH) and water for injection. TYRVAYA® is a registered trademark of Oyster Point Pharma, Inc., a Viatris Company.TYRVAYA® and/or the use of TYRVAYA® in a method may be covered by one or more patents or patent applications, available at www.oysterpointrx.com/patent-notices.Manufactured for: Oyster Point Pharma, Inc., 202 Carnegie Center, Suite 106, Princeton, NJ 08540 |
+| What are the ingredients in TYRVAYA?Active ingredient: varenicline tartrateInactive ingredients: monobasic sodium phosphate anhydrous, sodium chloride, sodium phosphate dibasic heptahydrate, sodium hydroxide and/or hydrochloric acid (to adjust pH) and water for injection. Distributed by: Oyster Point Pharma, Inc., a Viatris Company, Morgantown, WV 26505 U.S.A. TYRVAYA® is a registered trademark of Oyster Point Pharma, Inc., a Viatris Company. TYRVAYA® and/or the use of TYRVAYA® in a method may be covered by one or more patents or patent applications, www.oysterpointrx.com/patent-notices. © 2026 Viatris Inc. OYP:PL:TYRVA:R2 |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: 2/2024
+Revised: 7/2026
 
 OYP:PL:TYRVA:R1
