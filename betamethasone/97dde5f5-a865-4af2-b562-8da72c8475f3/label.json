@@ -1,16 +1,13 @@
 {
   "application_numbers": [
     "ANDA070275",
-    "NDA019137",
-    "NDA019141"
+    "NDA019137"
   ],
   "inn": "betamethasone",
   "labeler": "E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC",
   "package_ndcs": [
     "0168-0055-15",
     "0168-0055-46",
-    "0168-0056-15",
-    "0168-0056-46",
     "0168-0057-60"
   ],
   "products": [
@@ -21,11 +18,6 @@
     },
     {
       "form": "LOTION",
-      "generic": "betamethasone dipropionate",
-      "name": "Betamethasone Dipropionate"
-    },
-    {
-      "form": "OINTMENT",
       "generic": "betamethasone dipropionate",
       "name": "Betamethasone Dipropionate"
     }
