@@ -24,6 +24,6 @@ Distributed by: Takeda Pharmaceuticals America, Inc. Cambridge, MA 02142
 
 CARBATROL is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc.
 
-© 2025 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
+© 2026 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
 
-Rev 6/2025
+Rev 08/2026

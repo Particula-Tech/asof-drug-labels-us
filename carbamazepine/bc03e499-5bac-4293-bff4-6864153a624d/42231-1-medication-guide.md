@@ -75,6 +75,17 @@ Stopping CARBATROL suddenly can cause serious problems.
 Suicidal thoughts or actions can be caused by things other than medicines.
 If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
+4.
+CARBATROL can increase the risk of irregular heartbeat or other abnormal heart rhythms, which may be life-threatening.
+This risk may be increased in patients who have underlying heart problems.
+Call your healthcare provider right away if you have:
+
+- A fast, slow, or pounding heartbeat
+- loss of consciousness (fainting)
+- dizziness
+- chest pain
+- shortness of breath
+
 What is CARBATROL?
 
 CARBATROL is a medicine used to treat:
@@ -160,11 +171,6 @@ See "What is the most important information I should know about CARBATROL?"
 
 CARBATROL may cause other serious side effects including:
 
-- Irregular heartbeat - symptoms include:
-  - Fast, slow, or pounding heartbeat
-  - Shortness of breath
-  - Feeling lightheaded
-  - Fainting
 - Liver problems - symptoms include:
   - yellowing of your skin or the whites of your eyes
   - dark urine
@@ -230,6 +236,6 @@ Distributed by: Takeda Pharmaceuticals America, Inc. Cambridge, MA 02142
 
 CARBATROL is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc.
 
-© 2025 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
+© 2026 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
 
-Issued 6/2025
+Revised: 08/2026

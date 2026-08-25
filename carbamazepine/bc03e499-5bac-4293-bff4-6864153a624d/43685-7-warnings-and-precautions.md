@@ -162,6 +162,16 @@ To provide information regarding the effects of in utero exposure to Carbatrol, 
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
+Cardiac Rhythm and Conduction Abnormalities
+
+In vitro findings indicate that Carbatrol can cause serious and potentially life-threatening cardiac rhythm and conduction abnormalities, particularly in patients with underlying cardiac disorders or arrhythmias.
+
+AV block, including second- and third-degree block, has been reported following carbamazepine treatment.
+This occurred generally, but not solely, in patients with underlying EKG abnormalities or risk factors for conduction disturbances.
+
+Therapy should be prescribed only after critical benefit-to-risk appraisal in patients with a history of structural or functional heart disease, cardiac arrhythmia, or cardiac conduction disturbance, including second- and third-degree atrioventricular (AV) block; cardiac, hepatic, or renal damage; adverse hematologic or hypersensitivity reaction to other drugs, including reactions to other anticonvulsants; or interrupted courses of therapy with carbamazepine.
+If excessive depression of cardiac conduction or significant arrhythmias occur during treatment, discontinue Carbatrol.
+
 ## General
 
 Carbamazepine has shown mild anticholinergic activity; therefore, patients with increased intraocular pressure should be closely observed during therapy.
@@ -179,11 +189,6 @@ Carbamazepine administration has also been demonstrated to increase porphyrin pr
 Before initiating therapy, a detailed history and physical examination should be made.
 
 Carbatrol should be used with caution in patients with a mixed seizure disorder that includes atypical absence seizures, since in these patients carbamazepine has been associated with increased frequency of generalized convulsions (see INDICATIONS AND USAGE).
-
-Therapy should be prescribed only after critical benefit-to-risk appraisal in patients with a history of cardiac conduction disturbance, including second- and third-degree atrioventricular (AV) block; cardiac, hepatic, or renal damage; adverse hematologic or hypersensitivity reaction to other drugs including reactions to other anticonvulsants; or interrupted courses of therapy with carbamazepine.
-
-AV block, including second- and third-degree block, has been reported following carbamazepine treatment.
-This occurred generally, but not solely, in patients with underlying EKG abnormalities or risk factors for conduction disturbances.
 
 Hepatic effects, ranging from slight elevations in liver enzymes to rare cases of hepatic failure, have been reported (see ADVERSE REACTIONS and PRECAUTIONS, Laboratory Tests).
 In some cases, hepatic effects may progress despite discontinuation of the drug.
@@ -220,6 +225,9 @@ Since dizziness and drowsiness may occur, patients should be cautioned about the
 Patients should be encouraged to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll-free number 1-888-233-2334 (see Warnings - Usage in Pregnancy).
+
+Patients should be informed about the potential for cardiac rhythm and conduction abnormalities, particularly in patients with underlying cardiac disease or arrhythmias.
+Advise patients to notify their physician if they experience palpitations, syncope, dizziness, chest pain, or shortness of breath.
 
 If necessary, the Carbatrol capsules can be opened and the contents sprinkled over food, such as a teaspoon of applesauce or other similar food products.
 Carbatrol capsules or their contents should not be crushed or chewed.
@@ -311,7 +319,7 @@ When used concomitantly with Carbatrol, monitoring of concentrations or dosage a
 
 In addition, Carbatrol causes, or would be expected to cause, decreased levels of, for example, the following drugs, for which monitoring of concentrations or dosage adjustment may be necessary:
 
-Acetaminophen, albendazole, alprazolam, aprepitant, buprenorphine, apixaban(6), bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, corticosteroids (e.g. prednisolone, dexamethasone), cyclosporin, dabigatran(6), delavirdine, desipramine, diazepam, dicumarol, dihydropyridine calcium channel blockers (e.g., felodipine), doxycycline, edoxaban(6), eslicarbazepine, ethosuximide, everolimus, felbamate, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, methsuximide, midazolam, mirtazapine, nefazodone, nortriptyline, olanzapine, oral and other hormonal contraceptives(2), oxcarbazepine, paliperidone, phenytoin(3), praziquantel, protease inhibitors, quetiapine, risperidone, rivaroxaban(6), sertraline, sirolimus, tadalafil, theophylline, tiagabine, topiramate, tramadol, triazolam, trazodone(4), tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), valproate, warfarin (5), ziprasidone, and zonisamide.
+Acetaminophen, albendazole, alprazolam, aprepitant, buprenorphine, apixaban(6), bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, corticosteroids (e.g. prednisolone, dexamethasone), cyclosporin, dabigatran(6), delavirdine, desipramine, diazepam, dicumarol, dihydropyridine calcium channel blockers (e.g., felodipine), doxycycline, edoxaban(6), eslicarbazepine, ethosuximide, everolimus, felbamate, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, methsuximide, midazolam, mirtazapine, nefazodone, nortriptyline, olanzapine, oral and other hormonal contraceptives(2), oxcarbazepine, paliperidone, phenytoin(3), praziquantel, protease inhibitors, quetiapine, risperidone, rivaroxaban(6), sertraline, sirolimus, tadalafil, theophylline, tiagabine, topiramate, tramadol, triazolam, trazodone(4), tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), valproate, warfarin(5), ziprasidone, and zonisamide.
 
 (2)Concomitant use of Carbatrol with hormonal contraceptive products (e.g., oral and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased.
 Breakthrough bleeding and unintended pregnancies have been reported with carbamazepine.
@@ -320,7 +328,7 @@ Alternative or back-up methods of contraception should be considered.
 (3)Phenytoin has also been reported to increase in the presence of carbamazepine.
 Careful monitoring of phenytoin plasma levels following co-medication with carbamazepine is advised.
 
-(4)Following co-administration of carbamazepine 400mg/day with trazodone 100mg to 300mg daily, carbamazepine reduced trough plasma concentrations of trazodone (as well as meta-chlorophenylpiperazine [mCPP]) by 76 and 60% respectively, compared to precarbamazepine values.
+(4)Following co-administration of carbamazepine 400 mg/day with trazodone 100 mg to 300 mg daily, carbamazepine reduced trough plasma concentrations of trazodone (as well as meta-chlorophenylpiperazine [mCPP]) by 76 and 60% respectively, compared to precarbamazepine values.
 
 (5)Warfarin's anticoagulant effect can be reduced in the presence of carbamazepine.
 
