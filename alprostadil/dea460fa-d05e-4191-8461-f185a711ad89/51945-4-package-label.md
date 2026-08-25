@@ -11,11 +11,11 @@ Dilute Before Use.
 
 Refrigerate at 2° to 8°C (36° to 46°F).
 
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+Dist. by Pharmacia & Upjohn Co. LLC A sub. of Pfizer Inc., NY, NY 10001
 
 Rx only
 
-PAA135258
+PAA250429
 
 LOT
 
@@ -34,6 +34,6 @@ Prostin VR Pediatric® (alprostadil) injection, USP
 For Intravenous Use Only.
 Dilute Before Use.
 
-Pfizer Injectables
+Pfizer Hospital
 
 Rx only
