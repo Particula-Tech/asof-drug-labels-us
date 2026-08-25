@@ -38,7 +38,7 @@ Only the oral solution has been demonstrated effective for oral and/or esophagea
 
 # PRECAUTIONS
 
-## GENERAL PRECAUTIONS
+## General:
 
 Itraconazole capsules should be administered after a full meal.
 (See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism).
@@ -61,7 +61,7 @@ Hearing Loss: Transient or permanent hearing loss has been reported in patients 
 Several of these reports included concurrent administration of quinidine which is contraindicated (See BOXED WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactions and PRECAUTIONS: Drug Interactions).
 The hearing loss usually resolves when treatment is stopped, but can persist in some patients.
 
-## INFORMATION FOR PATIENTS
+## Infornation of Patients:
 
 • The topical effects of mucosal exposure may be different between the itraconazole capsules and oral solution.
 Only the oral solution has been demonstrated effective for oral and/or esophageal candidiasis.
@@ -72,9 +72,11 @@ The hearing loss usually resolves when treatment is stopped, but can persist in 
 Advise patients to discontinue therapy and inform their physicians if any hearing loss symptoms occur. • Instruct patients that dizziness or blurred/double vision can sometimes occur with itraconazole.
 Advise patients that if they experience these events, they should not drive or use machines.
 
-## DRUG INTERACTIONS
+## Drug Interactions:
 
-Effect of Itraconazole Capsules on Other DrugsItraconazole and its major metabolite, hydroxy-itraconazole, are potent CYP3A4 inhibitors.
+Effect of Itraconazole Capsules on Other Drugs
+
+Itraconazole and its major metabolite, hydroxy-itraconazole, are potent CYP3A4 inhibitors.
 Itraconazole is an inhibitor of the drug transporters P-glycoprotein and breast cancer resistance protein (BCRP).
 Consequently, itraconazole has the potential to interact with many concomitant drugs resulting in either increased or sometimes decreased concentrations of the concomitant drugs.
 Increased concentrations may increase the risk of adverse reactions associated with the concomitant drug which can be severe or life-threatening in some cases (e.g., QT prolongation, Torsade de Pointes, respiratory depression, hepatic adverse reactions, hypersensitivity reactions, myelosuppression, hypotension, seizures, angioedema, atrial fibrillation, bradycardia, priapism).
@@ -111,9 +113,9 @@ Itraconazole produced no mutagenic effects when assayed in DNA repair test (unsc
 Itraconazole did not affect the fertility of male or female rats treated orally with dosage levels of up to 40 mg/kg/day (1 time the MRHD based on body surface area comparisons), even though parental toxicity was present at this dosage level.
 More severe signs of parental toxicity, including death, were present in the next higher dosage level, 160 mg/kg/day (4 times the MRHD based on body surface area comparisons).
 
-## PREGNANCY
+Pregnancy: Teratogenic Effects:
 
-Teratogenic Effects: Itraconazole was found to cause a dose-related increase in maternal toxicity, embryotoxicity, and teratogenicity in rats at dosage levels of approximately 40 to 160 mg/kg/day (1 to 4 times the MRHD based on body surface area comparisons), and in mice at dosage levels of approximately 80 mg/kg/day (1 time the MRHD based on body surface area comparisons).
+Itraconazole was found to cause a dose-related increase in maternal toxicity, embryotoxicity, and teratogenicity in rats at dosage levels of approximately 40 to 160 mg/kg/day (1 to 4 times the MRHD based on body surface area comparisons), and in mice at dosage levels of approximately 80 mg/kg/day (1 time the MRHD based on body surface area comparisons).
 Itraconazole has been shown to cross the placenta in a rat model.
 In rats, the teratogenicity consisted of major skeletal defects; in mice, it consisted of encephaloceles and/or macroglossia.
 There are no studies in pregnant women.
@@ -124,12 +126,12 @@ Highly effective contraception should be continued throughout itraconazole thera
 During postmarketing experience, cases of congenital abnormalities have been reported.
 (See ADVERSE REACTIONS: Postmarketing Experience.)
 
-## NURSING MOTHERS
+## Nursing Mothers:
 
 Itraconazole is excreted in human milk; therefore, the expected benefits of itraconazole therapy for the mother should be weighed against the potential risk from exposure of itraconazole to the infant.
 The U.S. Public Health Service Centers for Disease Control and Prevention advises HIV-infected women not to breast-feed to avoid potential transmission of HIV to uninfected infants.
 
-## PEDIATRIC USE
+## Pediatric Use:
 
 The efficacy and safety of itraconazole have not been established in pediatric patients.
 The long-term effects of itraconazole on bone growth in children are unknown.
@@ -137,7 +139,7 @@ In three toxicology studies using rats, itraconazole induced bone defects at dos
 The induced defects included reduced bone plate activity, thinning of the zona compacta of the large bones, and increased bone fragility.
 At a dosage level of 80 mg/kg/day (2 times the MRHD based on body surface area comparisons) over 1 year or 160 mg/kg/day (4 times the MRHD based on body surface area comparisons) for 6 months, itraconazole induced small tooth pulp with hypocellular appearance in some rats.
 
-## GERIATRIC USE
+## Geriatric Use:
 
 Clinical studies of itraconazole capsules did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
 It is advised to use itraconazole capsules in these patients only if it is determined that the potential benefit outweighs the potential risks.

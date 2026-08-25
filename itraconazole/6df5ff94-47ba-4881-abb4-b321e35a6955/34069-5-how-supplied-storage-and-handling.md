@@ -19,6 +19,6 @@ Made in India
 
 Code No. DRUGS/TS/23/2007
 
-PIR24503-02
+PIR24503-04
 
-Revised: 01/2025
+Revised: 08/2026
