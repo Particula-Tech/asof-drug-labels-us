@@ -33,7 +33,7 @@ Inform patients that dehydration may increase the risk for hypotension, and to m
 Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier's Gangrene), and Genital Mycotic Infections
 
 Counsel patients that genitourinary infections may occur when taking empagliflozin, a component of TRIJARDY XR, and may become serious.
-Educate them on the symptoms and advise them to seek medical advice if symptoms occur.
+Educate patients on the symptoms and advise them to seek medical advice if symptoms occur.
 Specifically, advise patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise [see Warnings and Precautions (5.5)].
 
 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
