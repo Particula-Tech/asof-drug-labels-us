@@ -2,17 +2,15 @@
 
 The following important adverse reactions are also discussed elsewhere in the labeling:
 
-- Lactic Acidosis [see Boxed Warningand Warnings and Precautions (5.1, 5.4)]
+- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1, 5.4)]
 - Diabetic Ketoacidosis in Patients with Type 1 Diabetes and Other Ketoacidosis [see Warnings and Precautions (5.2)]
 - Lower Limb Amputation [see Warnings and Precautions (5.3)]
 - Volume Depletion [see Warnings and Precautions (5.4)]
-- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
+- Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier's Gangrene), and Genital Mycotic Infections [see Warnings and Precautions (5.5)]
 - Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues [see Warnings and Precautions (5.6)]
-- Necrotizing Fasciitis of the Perineum (Fournier's gangrene) [see Warnings and Precautions (5.7)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.8)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
-- Bone Fracture [see Warnings and Precautions (5.10)]
-- Vitamin B 12Deficiency [see Warnings and Precautions (5.11)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+- Bone Fracture [see Warnings and Precautions (5.8)]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -34,26 +32,26 @@ Patients received canagliflozin 100 mg (N=833), canagliflozin 300 mg (N=834) or 
 The mean daily dose of metformin HCl was 2,138 mg (SD 337.3) for the 1,275 patients in the three placebo-controlled metformin HCl add-on trials.
 The mean age of the population was 56 years and 2% were older than 75 years of age.
 Fifty percent (50%) of the population was male and 72% were White, 12% were Asian, and 5% were Black or African American.
-At baseline the population had diabetes for an average of 7.3 years, had a mean HbA 1Cof 8.0% and 20% had established microvascular complications of diabetes.
-Baseline renal function was normal or mildly impaired (mean eGFR 88 mL/min/1.73 m 2).
+At baseline the population had diabetes for an average of 7.3 years, had a mean HbA1C of 8.0% and 20% had established microvascular complications of diabetes.
+Baseline renal function was normal or mildly impaired (mean eGFR 88 mL/min/1.73 m2).
 
 Table 3 shows common adverse reactions associated with the use of canagliflozin.
 These adverse reactions were not present at baseline, occurred more commonly on canagliflozin than on placebo, and occurred in at least 2% of patients treated with either canagliflozin 100 mg or canagliflozin 300 mg.
 
-Table 3: Adverse Reactions from Pool of Four 26−Week Placebo-Controlled Trials Reported in ≥ 2% of Canagliflozin-Treated Adult Patients The four placebo-controlled trials included one monotherapy trial and three add-on combination trials with metformin HCl, metformin HCl and sulfonylurea, or metformin HCl and pioglitazone.
+Table 3: Adverse Reactions from Pool of Four 26-Week Placebo-Controlled Trials Reported in ≥ 2% of Canagliflozin-Treated Adult PatientsThe four placebo-controlled trials included one monotherapy trial and three add-on combination trials with metformin HCl, metformin HCl and sulfonylurea, or metformin HCl and pioglitazone.
 
 | Adverse Reaction | Placebo N=646 | Canagliflozin 100 mg N=833 | Canagliflozin 300 mg N=834 |
 | --- | --- | --- | --- |
-| Urinary tract infections Urinary tract infections include the following adverse reactions: Urinary tract infection, Cystitis, Kidney infection, and Urosepsis. | 3.8% | 5.9% | 4.4% |
-| Increased urination Increased urination includes the following adverse reactions: Polyuria, Pollakiuria, Urine output increased, Micturition urgency, and Nocturia. | 0.7% | 5.1% | 4.6% |
-| Thirst Thirst includes the following adverse reactions: Thirst, Dry mouth, and Polydipsia. | 0.1% | 2.8% | 2.4% |
+| Urinary tract infectionsUrinary tract infections include the following adverse reactions: Urinary tract infection, Cystitis, Kidney infection, and Urosepsis. | 3.8% | 5.9% | 4.4% |
+| Increased urinationIncreased urination includes the following adverse reactions: Polyuria, Pollakiuria, Urine output increased, Micturition urgency, and Nocturia. | 0.7% | 5.1% | 4.6% |
+| ThirstThirst includes the following adverse reactions: Thirst, Dry mouth, and Polydipsia. | 0.1% | 2.8% | 2.4% |
 | Constipation | 0.9% | 1.8% | 2.4% |
 | Nausea | 1.6% | 2.1% | 2.3% |
 |  | N=312 | N=425 | N=430 |
-| Female genital mycotic infections Female genital mycotic infections include the following adverse reactions: Vulvovaginal candidiasis, Vulvovaginal mycotic infection, Vulvovaginitis, Vaginal infection, Vulvitis, and Genital infection fungal. | 2.8% | 10.6% | 11.6% |
+| Female genital mycotic infectionsFemale genital mycotic infections include the following adverse reactions: Vulvovaginal candidiasis, Vulvovaginal mycotic infection, Vulvovaginitis, Vaginal infection, Vulvitis, and Genital infection fungal. | 2.8% | 10.6% | 11.6% |
 | Vulvovaginal pruritus | 0.0% | 1.6% | 3.2% |
 |  | N=334 | N=408 | N=404 |
-| Male genital mycotic infections Male genital mycotic infections include the following adverse reactions: Balanitis or Balanoposthitis, Balanitis candida, and Genital infection fungal. | 0.7% | 4.2% | 3.8% |
+| Male genital mycotic infectionsMale genital mycotic infections include the following adverse reactions: Balanitis or Balanoposthitis, Balanitis candida, and Genital infection fungal. | 0.7% | 4.2% | 3.8% |
 | Note: Percentages were weighted by trials. Trial weights were proportional to the harmonic mean of the three treatment sample sizes. |  |  |  |
 
 Abdominal pain was also more commonly reported in patients taking canagliflozin 100 mg (1.8%), 300 mg (1.7%) than in patients taking placebo (0.8%).
@@ -67,7 +65,7 @@ In a trial in adults with canagliflozin as initial combination therapy with metf
 
 Placebo-Controlled Trial in Diabetic Nephropathy
 
-The occurrence of adverse reactions for canagliflozin was evaluated in patients participating in CREDENCE, a trial in adult patients with type 2 diabetes mellitus and diabetic nephropathy with albuminuria ˃ 300 mg/day [see Clinical Studies (14.4)].
+The occurrence of adverse reactions for canagliflozin was evaluated in patients participating in CREDENCE, a trial in adult patients with type 2 diabetes mellitus and diabetic nephropathy with albuminuria > 300 mg/day [see Clinical Studies (14.4)].
 These data reflect exposure of 2,201 adult patients to canagliflozin and a mean duration of exposure to canagliflozin of 137 weeks.
 
 The rate of lower limb amputations associated with the use of canagliflozin 100 mg relative to placebo was 12.3 vs 11.2 events per 1,000 patient-years, respectively, with 2.6 years mean duration of follow-up.
@@ -130,15 +128,15 @@ Volume Depletion-Related Adverse Reactions
 Canagliflozin results in an osmotic diuresis, which may lead to reductions in intravascular volume.
 In clinical trials for glycemic control, treatment with canagliflozin was associated with a dose-dependent increase in the incidence of volume depletion-related adverse reactions (e.g., hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration).
 An increased incidence was observed in adult patients on the 300 mg dose.
-The three factors associated with the largest increase in volume depletion-related adverse reactions in these trials were the use of loop diuretics, moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m 2), and age 75 years and older (Table 6) [see Use in Specific Populations (8.5and 8.6)].
+The three factors associated with the largest increase in volume depletion-related adverse reactions in these trials were the use of loop diuretics, moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2), and age 75 years and older (Table 6) [see Use in Specific Populations (8.5 and 8.6)].
 
 Table 6: Adult Patients with at Least One Volume Depletion-Related Adverse Reaction (Pooled Results from 8 Clinical Trials for Glycemic Control)
 
-| Baseline Characteristic | Comparator Group Includes placebo and active-comparator groups % | Canagliflozin 100 mg % | Canagliflozin 300 mg % |
+| Baseline Characteristic | Comparator GroupIncludes placebo and active-comparator groups % | Canagliflozin 100 mg % | Canagliflozin 300 mg % |
 | --- | --- | --- | --- |
 | Overall population | 1.5% | 2.3% | 3.4% |
-| 75 years of age and older Patients could have more than 1 of the listed risk factors | 2.6% | 4.9% | 8.7% |
-| eGFR less than 60 mL/min/1.73 m 2 | 2.5% | 4.7% | 8.1% |
+| 75 years of age and olderPatients could have more than 1 of the listed risk factors | 2.6% | 4.9% | 8.7% |
+| eGFR less than 60 mL/min/1.73 m2 | 2.5% | 4.7% | 8.1% |
 | Use of loop diuretic | 4.7% | 3.2% | 8.8% |
 
 Falls
@@ -166,15 +164,15 @@ In canagliflozin glycemic control trials, hypoglycemia was defined as any event 
 Severe hypoglycemia was defined as an event consistent with hypoglycemia where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained).
 In individual clinical trials of glycemic control in adults [see Clinical Studies (14.1)], episodes of hypoglycemia occurred at a higher rate when canagliflozin was co-administered with insulin or sulfonylureas (Table 7).
 
-Table 7: Incidence of Hypoglycemia Number of patients experiencing at least one event of hypoglycemia based on either biochemically documented episodes or severe hypoglycemic events in the intent-to-treat populationin Randomized Clinical Trials of Glycemic Control in Adults
+Table 7: Incidence of HypoglycemiaNumber of patients experiencing at least one event of hypoglycemia based on either biochemically documented episodes or severe hypoglycemic events in the intent-to-treat population in Randomized Clinical Trials of Glycemic Control in Adults
 
 | Monotherapy (26 weeks) | Placebo (N=192) | Canagliflozin 100 mg (N=195) | Canagliflozin 300 mg (N=197) |
 | --- | --- | --- | --- |
 | Overall [N (%)] | 5 (2.6) | 7 (3.6) | 6 (3.0) |
 | In Combination with Metformin HCl (26 weeks) | Placebo + Metformin HCl (N=183) | Canagliflozin 100 mg + Metformin HCl (N=368) | Canagliflozin 300 mg + Metformin HCl (N=367) |
 | Overall [N (%)] | 3 (1.6) | 16 (4.3) | 17 (4.6) |
-| Severe [N (%)] Severe episodes of hypoglycemia were defined as those where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained) | 0 (0) | 1 (0.3) | 1 (0.3) |
-| In Combination with Metformin HCl (18 weeks) Phase 2 clinical trial with twice daily dosing (50 mg or 150 mg twice daily in combination with metformin HCl) | Placebo (N=93) | Canagliflozin 100 mg (N=93) | Canagliflozin 300 mg (N=93) |
+| Severe [N (%)]Severe episodes of hypoglycemia were defined as those where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained) | 0 (0) | 1 (0.3) | 1 (0.3) |
+| In Combination with Metformin HCl (18 weeks)Phase 2 clinical trial with twice daily dosing (50 mg or 150 mg twice daily in combination with metformin HCl) | Placebo (N=93) | Canagliflozin 100 mg (N=93) | Canagliflozin 300 mg (N=93) |
 | Overall [N (%)] | 3 (3.2) | 4 (4.3) | 3 (3.2) |
 | In Combination with Metformin HCl + Sulfonylurea (26 weeks) | Placebo + Metformin HCl + Sulfonylurea (N=156) | Canagliflozin 100 mg + Metformin HCl + Sulfonylurea (N=157) | Canagliflozin 300 mg + Metformin HCl + Sulfonylurea (N=156) |
 | Overall [N (%)] | 24 (15.4) | 43 (27.4) | 47 (30.1) |
@@ -198,7 +196,7 @@ Metformin HCl
 
 The most common adverse reactions (5% or greater incidence) due to initiation of metformin HCl in adults are diarrhea, nausea, vomiting, flatulence, asthenia, indigestion, abdominal discomfort, and headache.
 
-In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B 12levels was observed in approximately 7% of adult patients.
+In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of adult patients.
 
 Laboratory and Imaging Tests
 
@@ -211,7 +209,7 @@ The acute effect on eGFR reverses after treatment discontinuation suggesting acu
 
 Increases in Serum Potassium
 
-In a pooled population of adult patients (N=723) in glycemic control trials with moderate renal impairment (eGFR 45 to less than 60 mL/min/1.73 m 2), increases in serum potassium to greater than 5.4 mEq/L and 15% above occurred in 5.3%, 5.0%, and 8.8% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
+In a pooled population of adult patients (N=723) in glycemic control trials with moderate renal impairment (eGFR 45 to less than 60 mL/min/1.73 m2), increases in serum potassium to greater than 5.4 mEq/L and 15% above occurred in 5.3%, 5.0%, and 8.8% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 0.4% of patients treated with placebo, no patients treated with canagliflozin 100 mg, and 1.3% of patients treated with canagliflozin 300 mg.
 
 In these patients, increases in potassium were more commonly seen in those with elevated potassium at baseline.
@@ -249,7 +247,7 @@ Canagliflozin
 Canagliflozin was administered to 84 pediatric patients in a double-blind, placebo-controlled trial of 171 pediatric patients aged 10 to 17 years with a mean exposure to canagliflozin of 48.3 weeks [see Clinical Studies (14.2)].
 At baseline, background therapies included metformin monotherapy (46%), metformin and insulin (29%), diet and exercise only (14%), and insulin monotherapy (11%).
 Approximately 42% were Asian, 42% were White, 11% were Black or African American, 5% were American Indian/Alaska Native, and 36% identified as Hispanic or Latino ethnicity.
-The mean baseline eGFR was 157.3 mL/min/1.73 m 2, and approximately 16% (24/151) of the trial population with measurements had microalbuminuria or macroalbuminuria.
+The mean baseline eGFR was 157.3 mL/min/1.73 m2, and approximately 16% (24/151) of the trial population with measurements had microalbuminuria or macroalbuminuria.
 The safety profile of pediatric patients treated with canagliflozin was similar to that observed in adults with type 2 diabetes mellitus.
 
 Metformin HCl

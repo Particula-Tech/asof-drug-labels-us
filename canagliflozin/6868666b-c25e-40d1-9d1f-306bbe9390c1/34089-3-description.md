@@ -1,18 +1,18 @@
 # 11 DESCRIPTION
 
-INVOKAMET ®(canagliflozin and metformin HCl immediate-release tablets) and INVOKAMET ®XR (canagliflozin and metformin HCl extended-release tablets) contain canagliflozin and metformin HCl.
+INVOKAMET® (canagliflozin and metformin HCl immediate-release tablets) and INVOKAMET® XR (canagliflozin and metformin HCl extended-release tablets) contain canagliflozin and metformin HCl.
 
 Canagliflozin
 
 Canagliflozin is an inhibitor of SGLT2, the transporter responsible for reabsorbing the majority of glucose filtered by the kidney.
-Canagliflozin is chemically known as (1 S)-1,5-anhydro-1-[3-[[5-(4-fluorophenyl)-2-thienyl]methyl]-4-methylphenyl]-D-glucitol hemihydrate and its molecular formula and weight are C 24H 25FO 5S•1/2 H 2O and 453.53, respectively.
+Canagliflozin is chemically known as (1S)-1,5-anhydro-1-[3-[[5-(4-fluorophenyl)-2-thienyl]methyl]-4-methylphenyl]-D-glucitol hemihydrate and its molecular formula and weight are C24H25FO5S∙1/2 H2O and 453.53, respectively.
 The structural formula for canagliflozin is:
 
 Canagliflozin is practically insoluble in aqueous media from pH 1.1 to 12.9.
 
 Metformin HCl
 
-Metformin HCl is a biguanide chemically known as 1,1-Dimethylbiguanide HCl and its molecular formula and weight are C 4H 11N 5● HCl and 165.62, respectively.
+Metformin HCl is a biguanide chemically known as 1,1-Dimethylbiguanide HCl and its molecular formula and weight are C4H11N5 ∙ HCl and 165.62, respectively.
 The structural formula for metformin HCl is:
 
 INVOKAMET and INVOKAMET XR

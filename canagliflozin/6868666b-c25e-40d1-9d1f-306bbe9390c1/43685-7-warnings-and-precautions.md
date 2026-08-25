@@ -15,39 +15,46 @@ Educate patients and their families about the symptoms of lactic acidosis and if
 
 For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
 
-Renal Impairment:The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
+Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
-Clinical recommendations based upon the patient's renal function include [see Dosage and Administration (2.4)and Clinical Pharmacology (12.3)].
+Clinical recommendations based upon the patient's renal function include [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 - Before initiating INVOKAMET or INVOKAMET XR, obtain an estimated glomerular filtration rate (eGFR).
-- INVOKAMET or INVOKAMET XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m 2[see Contraindications (4)].
+- INVOKAMET or INVOKAMET XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)].
 - Obtain an eGFR at least annually in all patients taking INVOKAMET or INVOKAMET XR.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
 
-Drug Interactions:The concomitant use of INVOKAMET or INVOKAMET XR with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation (e.g. cationic drugs) [see Drug Interactions (7)].
+Drug Interactions: The concomitant use of INVOKAMET or INVOKAMET XR with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation (e.g. cationic drugs) [see Drug Interactions (7)].
 Therefore, consider more frequent monitoring of patients.
 
-Age 65 or Greater:The risk of metformin-associated lactic acidosis increases with the patient's age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
+Age 65 or Greater: The risk of metformin-associated lactic acidosis increases with the patient's age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
 Assess renal function more frequently in elderly patients [see Use in Specific Populations (8.5)].
 
-Radiological Studies with Contrast:Administration of intravascular iodinated contrast agents in metformin-treated patients has led to an acute decrease in renal function and the occurrence of lactic acidosis.
-Stop INVOKAMET or INVOKAMET XR at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR less than 60 mL/min/1.73 m 2; in patients with a history of hepatic impairment, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+Radiological Studies with Contrast: Administration of intravascular iodinated contrast agents in metformin-treated patients has led to an acute decrease in renal function and the occurrence of lactic acidosis.
+Stop INVOKAMET or INVOKAMET XR at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR less than 60 mL/min/1.73 m2; in patients with a history of hepatic impairment, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
 Re-evaluate eGFR 48 hours after the imaging procedure, and restart INVOKAMET or INVOKAMET XR if renal function is stable.
 
-Surgery and Other Procedures:Withholding of food and fluids during surgical or other procedures may increase the risk for volume depletion, hypotension and renal impairment.
+Surgery and Other Procedures: Withholding of food and fluids during surgical or other procedures may increase the risk for volume depletion, hypotension and renal impairment.
 
 INVOKAMET or INVOKAMET XR should be temporarily discontinued while patients have restricted food and fluid intake.
 
-Hypoxic States:Several of the postmarketing cases of metformin-associated lactic acidosis occurred in the setting of acute congestive heart failure (particularly when accompanied by hypoperfusion and hypoxemia).
+Hypoxic States: Several of the postmarketing cases of metformin-associated lactic acidosis occurred in the setting of acute congestive heart failure (particularly when accompanied by hypoperfusion and hypoxemia).
 Cardiovascular collapse (shock), acute myocardial infarction, sepsis, and other conditions associated with hypoxemia have been associated with lactic acidosis and may also cause pre-renal azotemia.
 When such events occur, discontinue INVOKAMET or INVOKAMET XR.
 
-Excessive Alcohol Intake:Alcohol potentiates the effect of metformin on lactate metabolism and this may increase the risk of metformin-associated lactic acidosis.
+Excessive Alcohol Intake: Alcohol potentiates the effect of metformin on lactate metabolism and this may increase the risk of metformin-associated lactic acidosis.
 Warn patients against excessive alcohol intake while receiving INVOKAMET or INVOKAMET XR.
 
-Hepatic Impairment:Patients with hepatic impairment have developed metformin-associated lactic acidosis.
+Hepatic Impairment: Patients with hepatic impairment have developed metformin-associated lactic acidosis.
 This may be due to impaired lactate clearance resulting in higher lactate blood levels.
 Therefore, avoid use of INVOKAMET or INVOKAMET XR in patients with clinical or laboratory evidence of hepatic disease.
+
+Mitochondrial Diseases: Metformin may increase the risk of lactic acidosis in patients with mitochondrial diseases such as mitochondrial encephalomyopathy with lactic acidosis, and stroke-like episodes (MELAS) syndrome and maternally inherited diabetes and deafness (MIDD).
+
+INVOKAMET and INVOKAMET XR are not recommended in patients with mitochondrial diseases such as MELAS syndrome and MIDD.
+
+If a patient taking INVOKAMET or INVOKAMET XR develops elevated lactic acid levels (with or without accompanying neurologic signs and symptoms), discontinue INVOKAMET or INVOKAMET XR.
+Depending on the clinical context, consider evaluating the patient for MELAS, MIDD, or other mitochondrial disease.
 
 ## 5.2 Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis
 
@@ -71,15 +78,13 @@ If ketoacidosis is suspected, discontinue INVOKAMET or INVOKAMET XR, promptly ev
 Monitor patients for resolution of ketoacidosis before restarting INVOKAMET or INVOKAMET XR.
 
 Withhold INVOKAMET or INVOKAMET XR, if possible, in temporary clinical situations that could predispose patients to ketoacidosis.
-Resume INVOKAMET or INVOKAMET XR when the patient is clinically stable and has resumed oral intake [see Dosage and Administration (2.7)].
+Resume INVOKAMET or INVOKAMET XR when the patient is clinically stable and has resumed oral intake [see Dosage and Administration (2.6)].
 
 Educate all patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue INVOKAMET or INVOKAMET XR and seek medical attention immediately if signs and symptoms occur.
 
 ## 5.3 Lower Limb Amputation
 
-An increased risk of lower limb amputations associated with canagliflozin, a component of INVOKAMET or INVOKAMET XR, versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1,000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1,000 patient-years), two randomized, placebo-controlled trials evaluating adult patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
-The risk of lower limb amputations was observed at both the 100 mg and 300 mg once daily dosage regimens.
-The amputation data for CANVAS and CANVAS-R are shown in Tables 4 and 5, respectively [see Adverse Reactions (6.1)].
+An increased risk of lower limb amputations associated with canagliflozin, a component of INVOKAMET or INVOKAMET XR, versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1,000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1,000 patient-years), two randomized, placebo-controlled trials evaluating adult patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease [see Adverse Reactions (6.1)].
 
 Amputations of the toe and midfoot (99 out of 140 patients with amputations receiving canagliflozin in the two trials) were the most frequent; however, amputations involving the leg, below and above the knee, were also observed (41 out of 140 patients with amputations receiving canagliflozin in the two trials).
 Some patients had multiple amputations, some involving both lower limbs.
@@ -88,21 +93,29 @@ Lower limb infections, gangrene, and diabetic foot ulcers were the most common p
 The risk of amputation was highest in patients with a baseline history of prior amputation, peripheral vascular disease, and neuropathy.
 
 Counsel patients about the importance of routine preventative foot care.
-Monitor patients receiving INVOKAMET or INVOKAMET XR for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and discontinue INVOKAMET or INVOKAMET XR if these complications occur.
+Monitor patients receiving INVOKAMET or INVOKAMET XR for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and institute appropriate treatment.
 
 ## 5.4 Volume Depletion
 
 Canagliflozin can cause intravascular volume contraction which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine [see Adverse Reactions (6.1)].
 There have been post-marketing reports of acute kidney injury which are likely related to volume depletion, some requiring hospitalizations and dialysis, in patients with type 2 diabetes mellitus receiving SGLT2 inhibitors, including canagliflozin.
-Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m 2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
+Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
 Before initiating INVOKAMET or INVOKAMET XR in patients with one or more of these characteristics, assess and correct volume status.
 Monitor for signs and symptoms of volume depletion after initiating therapy.
 
-## 5.5 Urosepsis and Pyelonephritis
+## 5.5 Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier's Gangrene), and Genital Mycotic Infections
 
-There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving canagliflozin.
-Treatment with INVOKAMET or INVOKAMET XR increases the risk for urinary tract infections.
-Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
+INVOKAMET or INVOKAMET XR increases urinary glucose excretion [see Clinical Pharmacology (12.2)] and increases the risk of genitourinary infections including urinary tract infections and genital mycotic infections in both male and female patients [see Adverse Reactions (6.1)].
+
+Serious genitourinary infections, including urosepsis, pyelonephritis, and necrotizing fasciitis of the perineum (Fournier's gangrene, a rare life-threatening infection requiring urgent surgical intervention), have occurred in patients receiving SGLT2 inhibitors, including INVOKAMET or INVOKAMET XR [see Adverse Reactions (6.2)].
+Cases have required hospitalization.
+In patients with Fournier's gangrene, serious outcomes have included multiple surgeries and death.
+
+Patients with a history of genitourinary infections are more likely to develop genitourinary infections when using INVOKAMET or INVOKAMET XR.
+Monitor patients for signs and symptoms of genitourinary infections and treat promptly, if indicated.
+
+Immediately evaluate patients presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, for necrotizing fasciitis.
+If suspected, discontinue INVOKAMET or INVOKAMET XR and promptly institute appropriate medical and/or surgical intervention.
 
 ## 5.6 Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
 
@@ -111,36 +124,21 @@ INVOKAMET or INVOKAMET XR may increase the risk of hypoglycemia when combined wi
 The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin.
 Inform patients using these concomitant medications of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
 
-## 5.7 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
-
-Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including canagliflozin.
-Cases have been reported in both females and males.
-Serious outcomes have included hospitalization, multiple surgeries, and death.
-
-Patients treated with INVOKAMET or INVOKAMET XR presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
-If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
-Discontinue INVOKAMET or INVOKAMET XR, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
-
-## 5.8 Genital Mycotic Infections
-
-Canagliflozin increases the risk of genital mycotic infections.
-Patients with a history of genital mycotic infections and uncircumcised males were more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
-Monitor and treat appropriately.
-
-## 5.9 Hypersensitivity Reactions
+## 5.7 Hypersensitivity Reactions
 
 Hypersensitivity reactions, including angioedema and anaphylaxis, have been reported with canagliflozin.
 These reactions generally occurred within hours to days after initiating canagliflozin.
-If hypersensitivity reactions occur, discontinue use of INVOKAMET or INVOKAMET XR; treat and monitor until signs and symptoms resolve [see Contraindications (4)and Adverse Reactions (6.1, 6.2)].
+If hypersensitivity reactions occur, discontinue use of INVOKAMET or INVOKAMET XR; treat and monitor until signs and symptoms resolve [see Contraindications (4) and Adverse Reactions (6.1, 6.2)].
 
-## 5.10 Bone Fracture
+## 5.8 Bone Fracture
 
 An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in adult patients using canagliflozin in the CANVAS trial [see Clinical Studies (14.3)].
+
 Consider factors that contribute to fracture risk prior to initiating INVOKAMET or INVOKAMET XR [see Adverse Reactions (6.1)].
 
-## 5.11 Vitamin B 12Levels
+## 5.9 Vitamin B12 Deficiency
 
-In metformin HCl clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B 12levels was observed in approximately 7% of patients.
-Such decrease, possibly due to interference with B 12absorption from the B 12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin HCl or vitamin B 12supplementation.
-Certain individuals (those with inadequate vitamin B 12or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B 12levels.
-Measure hematologic parameters on an annual basis and vitamin B 12at 2- to 3-year intervals in patients on INVOKAMET or INVOKAMET XR and manage any abnormalities [see Adverse Reactions (6.1)].
+In metformin HCl clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
+Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin HCl or vitamin B12 supplementation.
+Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
+Measure hematologic parameters on an annual basis and vitamin B12 at 2- to 3-year intervals in patients on INVOKAMET or INVOKAMET XR and manage any abnormalities [see Adverse Reactions (6.1)].

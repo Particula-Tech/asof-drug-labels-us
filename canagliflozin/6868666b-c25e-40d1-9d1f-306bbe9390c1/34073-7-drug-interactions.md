@@ -8,7 +8,7 @@ Table 8: Clinically Significant Drug Interactions with INVOKAMET or INVOKAMET XR
 | Intervention: | Consider more frequent monitoring of these patients. |
 | Examples: | Topiramate or other carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) |
 | Drugs That Reduce Metformin Clearance |  |
-| Clinical Impact: | Concomitant use of drugs that interfere with common renal tubular transport systems involved in the renal elimination of metformin (e.g., organic cationic transporter-2 [OCT2] / multidrug and toxin extrusion [MATE] inhibitors could increase systemic exposure to metformin and may increase the risk for lactic acidosis [see Clinical Pharmacology (12.3)]. |
+| Clinical Impact: | Concomitant use of drugs that interfere with common renal tubular transport systems involved in the renal elimination of metformin (e.g., organic cationic transporter-2 [OCT2] / multidrug and toxin extrusion [MATE] inhibitors) could increase systemic exposure to metformin and may increase the risk for lactic acidosis [see Clinical Pharmacology (12.3)]. |
 | Intervention: | Consider the benefits and risks of concomitant use. |
 | Examples: | Ranolazine, vandetanib, dolutegravir, and cimetidine |
 | Alcohol |  |
@@ -16,7 +16,7 @@ Table 8: Clinically Significant Drug Interactions with INVOKAMET or INVOKAMET XR
 | Intervention: | Warn patients against excessive alcohol intake while receiving INVOKAMET or INVOKAMET XR. |
 | UGT Enzyme Inducers |  |
 | Clinical Impact: | UGT enzyme inducers decrease canagliflozin exposure which may reduce the effectiveness of INVOKAMET or INVOKAMET XR. |
-| Intervention: | For patients with eGFR 60 mL/min/1.73 m 2or greater, if an inducer of UGTs is co-administered with INVOKAMET or INVOKAMET XR, increase the total daily dose of canagliflozin to 200 mg in patients currently tolerating INVOKAMET or INVOKAMET XR with a total daily dose of canagliflozin 100 mg. The total daily dose of canagliflozin may be increased to 300 mg in patients currently tolerating canagliflozin 200 mg and who require additional glycemic control. For patients with eGFR less than 60 mL/min/1.73 m 2, if an inducer of UGTs is co-administered with INVOKAMET or INVOKAMET XR, increase the total daily dose of canagliflozin to 200 mg in patients currently tolerating canagliflozin 100 mg [see Dosage and Administration (2.5)and Clinical Pharmacology (12.3)]. |
+| Intervention: | For patients with eGFR 60 mL/min/1.73 m2 or greater, if an inducer of UGTs is co-administered with INVOKAMET or INVOKAMET XR, increase the total daily dose of canagliflozin to 200 mg in patients currently tolerating INVOKAMET or INVOKAMET XR with a total daily dose of canagliflozin 100 mg. The total daily dose of canagliflozin may be increased to 300 mg in patients currently tolerating canagliflozin 200 mg and who require additional glycemic control. For patients with eGFR less than 60 mL/min/1.73 m2, if an inducer of UGTs is co-administered with INVOKAMET or INVOKAMET XR, increase the total daily dose of canagliflozin to 200 mg in patients currently tolerating canagliflozin 100 mg [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)]. |
 | Examples: | Rifampin, phenytoin, phenobarbital, ritonavir |
 | Insulin or Insulin Secretagogues |  |
 | Clinical Impact: | The risk of hypoglycemia is increased when INVOKAMET or INVOKAMET XR is used concomitantly with insulin secretagogues (e.g., sulfonylurea) or insulin. |

@@ -13,7 +13,7 @@ There are risks to the mother and fetus associated with poorly controlled diabet
 In juvenile animal studies, adverse renal pelvic and tubule dilatations that were not reversible were observed in rats when canagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy, at an exposure 0.5-times the 300 mg clinical dose, based on AUC.
 No adverse developmental effects were observed when metformin HCl was administered to pregnant Sprague Dawley rats and rabbits during the period of organogenesis at doses up to 2- and 6-times, respectively, a 2,000 mg clinical dose, based on body surface area [see Data].
 
-The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with a HbA 1C>7 and has been reported to be as high as 20–25% in women with a HbA 1C>10.
+The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with a HbA1C >7 and has been reported to be as high as 20–25% in women with a HbA1C >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
@@ -46,7 +46,7 @@ No developmental toxicities independent of maternal toxicity were observed when 
 Metformin HCl
 
 Metformin HCl did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
-This represents an exposure of about 2- and 6-times a 2,000 mg clinical dose based on body surface area (mg/m 2) for rats and rabbits, respectively.
+This represents an exposure of about 2- and 6-times a 2,000 mg clinical dose based on body surface area (mg/m2) for rats and rabbits, respectively.
 
 Canagliflozin and Metformin HCl
 
@@ -60,7 +60,7 @@ There is no information regarding the presence of INVOKAMET, INVOKAMET XR or can
 Limited published studies report that metformin is present in human milk [see Data].
 However, there is insufficient information on the effects of metformin HCl on the breastfed infant and no available information on the effects of metformin HCl on milk production.
 Canagliflozin is present in the milk of lactating rats [see Data].
-Since human kidney maturation occurs in uteroand during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
+Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 
 Because of the potential for serious adverse reactions in a breastfed infant, advise women that use of INVOKAMET or INVOKAMET XR is not recommended while breastfeeding.
 
@@ -80,10 +80,10 @@ Discuss the potential for unintended pregnancy with premenopausal women as thera
 
 The safety and effectiveness of INVOKAMET and INVOKAMET XR as an adjunct to diet and exercise to improve glycemic control in type 2 diabetes mellitus have been established in pediatric patients aged 10 years and older.
 
-Use of INVOKAMET and INVOKAMET XR for this indication is supported by evidence from a 52-week double-blind, placebo-controlled trial of canagliflozin in 171 pediatric patients aged 10 to 17 years with type 2 diabetes mellitus and in a pediatric pharmacokinetic study [see Clinical Pharmacology (12.3)and Clinical Studies (14.2)].
+Use of INVOKAMET and INVOKAMET XR for this indication is supported by evidence from a 52-week double-blind, placebo-controlled trial of canagliflozin in 171 pediatric patients aged 10 to 17 years with type 2 diabetes mellitus and in a pediatric pharmacokinetic study [see Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
 The safety profile of pediatric patients treated with canagliflozin was similar to that observed in adults with type 2 diabetes mellitus.
 
-The use of INVOKAMET and INVOKAMET XR for this indication is also supported by evidence from adequate and well-controlled trials of metformin HCl immediate-release tablets in adults with additional data from a controlled clinical trial using metformin HCl immediate-release tablets in pediatric patients 10 to 16 years old with type 2 diabetes mellitus, and pharmacokinetic data with metformin HCl extended-release tablets in adults [see Clinical Pharmacology (12.3)and Clinical Studies (14.1, 14.2)].
+The use of INVOKAMET and INVOKAMET XR for this indication is also supported by evidence from adequate and well-controlled trials of metformin HCl immediate-release tablets in adults with additional data from a controlled clinical trial using metformin HCl immediate-release tablets in pediatric patients 10 to 16 years old with type 2 diabetes mellitus [see Clinical Studies (14.1, 14.2)].
 In the clinical trial with pediatric patients receiving metformin HCl immediate-release tablets, adverse reactions with metformin HCl immediate-release tablets were similar to those described in adults [see Adverse Reactions (6.1)].
 
 The safety and effectiveness of INVOKAMET or INVOKAMET XR for glycemic control in patients with type 2 diabetes mellitus have not been established in pediatric patients under 10 years of age.
@@ -97,14 +97,14 @@ The safety and effectiveness of INVOKAMET or INVOKAMET XR have not been establis
 
 INVOKAMET and INVOKAMET XR
 
-Because renal function abnormalities can occur after initiating canagliflozin, metformin is substantially excreted by the kidney, and aging can be associated with reduced renal function, monitor renal function more frequently after initiating INVOKAMET or INVOKAMET XR in the elderly and then adjust dose based on renal function [see Dosage and Administration (2.4)and Warnings and Precautions (5.1, 5.4)].
+Because renal function abnormalities can occur after initiating canagliflozin, metformin is substantially excreted by the kidney, and aging can be associated with reduced renal function, monitor renal function more frequently after initiating INVOKAMET or INVOKAMET XR in the elderly and then adjust dose based on renal function [see Dosage and Administration (2.3) and Warnings and Precautions (5.1, 5.4)].
 
 Canagliflozin
 
 In 13 clinical trials of canagliflozin, 2,294 patients 65 years and older, and 351 patients 75 years and older were exposed to canagliflozin.
 Of these patients, 1,534 patients 65 years and older and 196 patients 75 years and older were exposed to the combination of canagliflozin and metformin HCl [see Clinical Studies (14.1)].
-Patients 65 years and older had a higher incidence of adverse reactions related to reduced intravascular volume with canagliflozin (such as hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration), particularly with the 300 mg daily dose, compared to younger patients; a more prominent increase in the incidence was seen in patients who were 75 years and older [see Dosage and Administration (2.1)and Adverse Reactions (6.1)].
-Smaller reductions in HbA 1Cwith canagliflozin relative to placebo were seen in older (65 years and older; -0.61% with canagliflozin 100 mg and -0.74% with canagliflozin 300 mg relative to placebo) compared to younger patients (-0.72% with canagliflozin 100 mg and -0.87% with canagliflozin 300 mg relative to placebo).
+Patients 65 years and older had a higher incidence of adverse reactions related to reduced intravascular volume with canagliflozin (such as hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration), particularly with the 300 mg daily dose, compared to younger patients; a more prominent increase in the incidence was seen in patients who were 75 years and older [see Dosage and Administration (2.1) and Adverse Reactions (6.1)].
+Smaller reductions in HbA1C with canagliflozin relative to placebo were seen in older (65 years and older; -0.61% with canagliflozin 100 mg and -0.74% with canagliflozin 300 mg relative to placebo) compared to younger patients (-0.72% with canagliflozin 100 mg and -0.87% with canagliflozin 300 mg relative to placebo).
 
 Metformin HCl
 
@@ -116,16 +116,16 @@ Any dose adjustment should be based on a careful assessment of renal function [s
 
 Canagliflozin
 
-The efficacy and safety of canagliflozin for glycemic control were evaluated in a trial that included adult patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m 2).
+The efficacy and safety of canagliflozin for glycemic control were evaluated in a trial that included adult patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m2).
 These patients had less overall glycemic efficacy, and patients treated with canagliflozin 300 mg per day had increases in serum potassium, which were transient and similar by the end of the trial.
 Patients with renal impairment using canagliflozin for glycemic control may also be more likely to experience hypotension and may be at higher risk for acute kidney injury [see Warnings and Precautions (5.4)].
 
-Efficacy and safety trials with canagliflozin did not enroll adult patients with ESKD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m 2[see Clinical Pharmacology (12.3)].
+Efficacy and safety trials with canagliflozin did not enroll adult patients with ESKD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m2 [see Clinical Pharmacology (12.3)].
 
 Metformin HCl
 
 Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
-INVOKAMET or INVOKAMET XR is contraindicated in severe renal impairment (eGFR less than 30 mL/min/1.73 m 2) or in patients on dialysis [see Dosage and Administration (2.4), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+INVOKAMET or INVOKAMET XR is contraindicated in severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or in patients on dialysis [see Dosage and Administration (2.3), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
