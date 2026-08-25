@@ -59,4 +59,5 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 When a patient who has been taking Hydromorphone Hydrochloride Injection regularly and may be physically dependent no longer requires therapy with Hydromorphone Hydrochloride Injection, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue Hydromorphone Hydrochloride Injection in a physically-dependent patient [see Warnings and Precautions (5.12), Drug Abuse and Dependence (9.3)].
+Do not rapidly reduce or abruptly discontinue Hydromorphone Hydrochloride Injection in patients who may be physically dependent on opioids.
+[see Warnings and Precautions (5.12), Drug Abuse and Dependence (9.3)].

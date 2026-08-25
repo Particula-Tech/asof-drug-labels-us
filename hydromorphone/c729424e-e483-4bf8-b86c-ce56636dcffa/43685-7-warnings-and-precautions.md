@@ -7,6 +7,8 @@ As an opioid, Hydromorphone Hydrochloride Injection exposes users to the risks o
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed Hydromorphone Hydrochloride Injection.
 Addiction can occur at recommended dosages and if the drug is misused or abused.
+The risk of opioid-related overdose or overdose-related death is increased with higher opioid doses, and this risk persists over the course of therapy.
+In postmarketing studies, addiction, abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use [see Postmarketing Experience (6)].
 
 Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing Hydromorphone Hydrochloride Injection and monitor all patients receiving Hydromorphone Hydrochloride Injection for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
@@ -23,7 +25,7 @@ Contact local state professional licensing board or state-controlled substances 
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agent (e.g., naloxone, nalmefene), depending on the patient’s clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of Hydromorphone Hydrochloride Injection, the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -37,7 +39,7 @@ In patients who present with CSA, consider decreasing the opioid dosage using be
 
 ## 5.3 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Hydromorphone Hydrochloride Injection with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Hydromorphone Hydrochloride Injection with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids, and other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -104,13 +106,17 @@ Monitor such patients for signs of sedation and respiratory depression, particul
 Opioids may also obscure the clinical course in a patient with a head injury.
 Avoid the use of Hydromorphone Hydrochloride Injection in patients with impaired consciousness or coma.
 
-## 5.10 Risks of Use in Patients with Gastrointestinal Conditions
+## 5.10 Risks of Gastrointestinal Complications
 
 Hydromorphone Hydrochloride Injection is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
 The hydromorphone in Hydromorphone Hydrochloride Injection may cause spasm of the sphincter of Oddi.
 Opioids may cause increases in serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
+The risk of OIED may increase as the dose and/or duration of opioids increases.
+Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain), and if necessary, adjust opioid therapy as clinically appropriate [see Clinical Pharmacology (12.2)].
 
 ## 5.11 Increased Risk of Seizures in Patients with Seizure Disorders
 
@@ -123,7 +129,7 @@ Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and bu
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 When discontinuing Hydromorphone Hydrochloride Injection in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.6)].
-Do not abruptly discontinue Hydromorphone Hydrochloride Injection in these patients [see Drug Abuse and Dependence (9.3)].
+Do not rapidly reduce or abruptly discontinue Hydromorphone Hydrochloride Injection in these patients [see Drug Abuse and Dependence (9.3)].
 
 ## 5.13 Risks of Driving and Operating Machinery
 
