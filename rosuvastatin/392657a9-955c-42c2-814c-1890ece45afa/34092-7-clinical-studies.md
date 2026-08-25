@@ -65,6 +65,12 @@ Table 11: Percent Change in LDL-C by Dose of Rosuvastatin, Atorvastatin, Simvast
 | Pravastatin | -20 | -24 | -30 | --‑ |
 
 1. 1Corresponding standard errors are approximately 1
+2. 2Rosuvastatin 10 mg reduced LDL-C significantly more than atorvastatin 10 mg; pravastatin 10 mg, 20 mg, and 40 mg; simvastatin 10 mg, 20 mg, and 40 mg.
+   (p<0.002)
+3. 3Rosuvastatin 20 mg reduced LDL-C significantly more than atorvastatin 20 mg and 40 mg; pravastatin 20 mg and 40 mg; simvastatin 20 mg, 40 mg, and 80 mg.
+   (p<0.002)
+4. 4Rosuvastatin 40 mg reduced LDL-C significantly more than atorvastatin 40 mg; pravastatin 40 mg; simvastatin 40 mg, and 80 mg.
+   (p<0.002)
 
 Slowing of the Progression of Atherosclerosis
 

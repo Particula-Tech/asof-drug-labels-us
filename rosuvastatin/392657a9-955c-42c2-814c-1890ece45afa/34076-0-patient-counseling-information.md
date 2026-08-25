@@ -29,11 +29,11 @@ Advise patients that breastfeeding during treatment with rosuvastatin tablets ar
 
 Concomitant Use of Antacids
 
-When taking rosuvastatin with an aluminum and magnesium hydroxide combination antacid, administer rosuvastatin at least 2 hours before the antacid [see Drug Interactions (7.2)].
+When taking rosuvastatin tablets with an aluminum and magnesium hydroxide combination antacid, administer rosuvastatin tablets at least 2 hours before the antacid [see Drug Interactions (7.2)].
 
 Missed Doses
 
-If a dose is missed, advise patients not take an extra dose.
+If a dose is missed, advise patients not to take an extra dose.
 Just resume the usual schedule [see Dosage and Administration (2.1)].
 
 Distributed by:
@@ -47,4 +47,4 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-May 2026
+August 2026

@@ -50,7 +50,7 @@ Table 1: Rosuvastatin Tablets Dosage Modifications Due to Drug Interactions
 | Cyclosporine | Do not exceed 5 mg once daily. |
 | Darolutamide | Do not exceed 5 mg once daily. |
 | Additional Antiviral Medications |  |
-| oSimepreviroDasabuvir/ombitasvir/paritaprevir/ritonavir oElbasvir/Grazoprevir oSofosbuvir/VelpatasviroGlecaprevir/PibrentasviroAtazanavir/RitonaviroLopinavir/Ritonavir | Initiate at 5 mg once daily. Do not exceed 10 mg once daily. |
+| •Simeprevir•Dasabuvir/ombitasvir/paritaprevir/ritonavir •Elbasvir/Grazoprevir •Sofosbuvir/Velpatasvir•Glecaprevir/Pibrentasvir•Atazanavir/Ritonavir•Lopinavir/Ritonavir | Initiate at 5 mg once daily. Do not exceed 10 mg once daily. |
 | Capmatinib | Do not exceed 10 mg once daily. |
 | Enasidenib | Do not exceed 10 mg once daily. |
 | Momelotinib | Do not exceed 10 mg once daily. |
