@@ -4,13 +4,13 @@
 
 The coadministration of alogliptin and metformin has been studied in patients with type 2 diabetes mellitus inadequately controlled on either diet and exercise alone, on metformin alone or metformin in combination with a thiazolidinedione.
 
-A total of 2,114 patients with type 2 diabetes mellitus were randomized in three double-blind, placebo- or active-controlled clinical safety and efficacy trials conducted to evaluate the effects of alogliptin and metformin HCl tablets on glycemic control.
+A total of 2,114 patients with type 2 diabetes mellitus were randomized in three double-blind, placebo- or active-controlled clinical safety and efficacy trials conducted to evaluate the effects of alogliptin co-administered with metformin HCl on glycemic control.
 Among those, 2,095 patients were exposed to the trial medication.
 The racial distribution of patients exposed to trial medication was 69% White, 16% Asian, 7% Black or African American, 2% American Indian or Alaska Native, 0% Native Hawaiian/Other Pacific Islander and 6% Multiracial or other racial groups.
 The ethnic distribution was 24% Hispanic or Latino.
 Patients had an overall mean age of approximately 54.4 years (range 22 to 80 years).
-In patients with type 2 diabetes mellitus, treatment with alogliptin and metformin HCl tablets produced clinically meaningful and statistically significant improvements in A1C versus comparator.
-As is typical for trials of agents to treat type 2 diabetes mellitus, the mean reduction in hemoglobin A1c (A1C) with alogliptin and metformin HCl tablets appears to be related to the degree of A1C elevation at baseline.
+In patients with type 2 diabetes mellitus, treatment with alogliptin co-administered with metformin HCl produced clinically meaningful and statistically significant improvements in A1C versus comparator.
+As is typical for trials of agents to treat type 2 diabetes mellitus, the mean reduction in hemoglobin A1c (A1C) with alogliptin co-administered with metformin HCl appears to be related to the degree of A1C elevation at baseline.
 
 ## 14.2 Alogliptin and Metformin Coadministration in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Diet and Exercise
 
@@ -20,7 +20,7 @@ Coadministration treatment arms demonstrated improvements in two-hour postprandi
 A total of 12% of patients receiving alogliptin 12.5 mg + metformin HCl 500 mg, 3% of patients receiving alogliptin 12.5 mg + metformin HCl 1000 mg, 17% of patients receiving alogliptin 12.5 mg, 23% of patients receiving metformin HCl 500 mg, 11% of patients receiving metformin HCl 1000 mg and 39% of patients receiving placebo required glycemic rescue.
 
 Improvements in A1C were not affected by gender, age, race or baseline BMI.
-The mean decrease in body weight was similar between metformin alone and alogliptin when coadministered with metformin HCl.
+The mean decrease in body weight was similar between metformin alone and alogliptin when co-administered with metformin HCl.
 Lipid effects were neutral.
 
 Table 6.

@@ -4,12 +4,12 @@
 
 Alogliptin and Metformin HCl
 
-Alogliptin and metformin HCl tablets combine two antihyperglycemic agents with complementary and distinct mechanisms of action to improve glycemic control in patients with type 2 diabetes mellitus: alogliptin, a selective inhibitor of DPP-4, and metformin HCl, a member of the biguanide class.
+Alogliptin and metformin HCl tablets combines two antihyperglycemic agents with complementary and distinct mechanisms of action to improve glycemic control in patients with type 2 diabetes mellitus: alogliptin, a selective inhibitor of DPP-4, and metformin HCl, a member of the biguanide class.
 
 Alogliptin
 
 Increased concentrations of the incretin hormones such as glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) are released into the bloodstream from the small intestine in response to meals.
-These hormones cause insulin release from the pancreatic beta cells in a glucose-dependent manner but are inactivated by the dipeptidyl peptidase-4 (DPP-4) enzyme within minutes.
+These hormones cause insulin release from the pancreatic beta cells in a glucose-dependent manner but are inactivated by the DPP-4 enzyme within minutes.
 GLP-1 also lowers glucagon secretion from pancreatic alpha cells, reducing hepatic glucose production.
 In patients with type 2 diabetes mellitus, concentrations of GLP-1 are reduced but the insulin response to GLP-1 is preserved.
 Alogliptin is a DPP-4 inhibitor that slows the inactivation of the incretin hormones, thereby increasing their bloodstream concentrations and reducing fasting and postprandial glucose concentrations in a glucose-dependent manner in patients with type 2 diabetes mellitus.
@@ -33,9 +33,9 @@ Inhibition of DPP-4 remained above 80% at 24 hours for doses greater than or equ
 Peak and total exposure over 24 hours to active GLP-1 were three- to four-fold greater with alogliptin (at doses of 25 to 200 mg) than placebo.
 In a 16 week, double-blind, placebo-controlled study, alogliptin 25 mg demonstrated decreases in postprandial glucagon while increasing postprandial active GLP-1 levels compared to placebo over an eight hour period following a standardized meal.
 It is unclear how these findings relate to changes in overall glycemic control in patients with type 2 diabetes mellitus.
-In this study, alogliptin 25 mg demonstrated decreases in two hour postprandial glucose compared to placebo (-30 mg/dL versus 17 mg/dL, respectively).
+In this study, alogliptin 25 mg demonstrated decreases in two-hour postprandial glucose compared to placebo (-30 mg/dL versus 17 mg/dL, respectively).
 
-Multiple-dose administration of alogliptin to patients with type 2 diabetes mellitus also resulted in a peak inhibition of DPP-4 within one to two hours and exceeded 93% across all doses (25 mg, 100 mg and 400 mg) after a single dose and after 14 days of once daily dosing.
+Multiple-dose administration of alogliptin to patients with type 2 diabetes mellitus also resulted in a peak inhibition of DPP-4 within one to two hours and exceeded 93% across all doses (25 mg, 100 mg and 400 mg) after a single dose and after 14 days of once-daily dosing.
 At these doses of alogliptin, inhibition of DPP-4 remained above 81% at 24 hours after 14 days of dosing.
 
 Cardiac Electrophysiology
@@ -52,7 +52,7 @@ Absorption
 
 Alogliptin and Metformin HCl
 
-There is no clinically meaningful difference in PK exposures (AUC and Cmax) of alogliptin and metformin when taken a single dose of the combination tablet alogliptin and metformin taken concomitantly.
+There is no clinically meaningful difference in PK exposures (AUC and Cmax) of alogliptin and metformin when taken a single dose of the combination tablet and individual alogliptin and metformin tablets taken concomitantly.
 
 Alogliptin
 
@@ -79,7 +79,7 @@ Administration of alogliptin with a high-fat meal results in no significant chan
 
 Metformin HCl
 
-Food decreases the extent of and slightly delays the absorption of metformin, as shown by approximately a 40% lower mean peak plasma concentration (Cmax), a 25% lower area under the plasma concentration versus time curve (AUC), and a 35 minute prolongation of time to peak plasma concentration (Tmax) following administration of a single 850 mg tablet of metformin HCl with food compared to the same tablet strength administered fasting.
+Food decreases the extent of and slightly delays the absorption of metformin, as shown by approximately a 40% lower mean peak plasma concentration (Cmax), a 25% lower area under the plasma concentration versus time curve (AUC), and a 35-minute prolongation of time to peak plasma concentration (Tmax) following administration of a single 850 mg tablet of metformin HCl with food compared to the same tablet strength administered fasting.
 The clinical relevance of these decreases is unknown.
 
 Distribution
@@ -123,7 +123,7 @@ The (S)-enantiomer is not detectable at the 25 mg dose.
 
 Metformin HCl
 
-Intravenous single-dose trials in healthy subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) or biliary excretion.
+Intravenous single-dose studies in healthy subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) or biliary excretion.
 
 Excretion
 

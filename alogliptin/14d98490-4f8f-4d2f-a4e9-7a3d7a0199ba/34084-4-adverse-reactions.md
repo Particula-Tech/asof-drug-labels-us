@@ -18,17 +18,17 @@ Alogliptin and Metformin HCl
 Over 2,700 patients with type 2 diabetes mellitus have received alogliptin coadministered with metformin in four large, randomized, double-blind controlled clinical trials.
 The racial distribution of patients exposed to trial medication was 65% White, 20% Asian, 7% Black or African American, 4% American Indian or Alaska Native, 0% Native Hawaiian/Other Pacific Islander and 4% Multiracial or other racial groups.
 The ethnic distribution was 23% Hispanic or Latino and 77% was not Hispanic or Latino.
-The mean exposure to alogliptin and metformin HCl tablets was 58 weeks, with more than 1,400 subjects treated for more than one year.
-These included two 26 week placebo-controlled trials, one 52 week active control study and an interim analysis of a 104 week active-controlled trial.
-In the alogliptin and metformin HCl tablets arm, the mean duration of diabetes mellitus was approximately six years, the mean body mass index (BMI) was 31 kg/m2 (56% of patients had a BMI ≥30 kg/m2) and the mean age was 55 years (18% of patients ≥65 years of age).
+The mean exposure to alogliptin coadministered with metformin was 58 weeks, with more than 1,400 subjects treated for more than one year.
+These included two 26 week placebo-controlled trials, one 52 week active control trial and an interim analysis of a 104 week active-controlled trial.
+In the alogliptin co-administered with metformin HCl arm, the mean duration of diabetes mellitus was approximately six years, the mean body mass index (BMI) was 31 kg/m2 (56% of patients had a BMI ≥30 kg/m2) and the mean age was 55 years (18% of patients ≥65 years of age).
 
-In a pooled analysis of these four controlled clinical studies, the overall incidence of adverse reactions was 74% in patients treated with alogliptin and metformin HCl tablets compared to 75% treated with placebo.
-Overall discontinuation of therapy due to adverse reactions was 6.2% with alogliptin and metformin HCl tablets compared to 1.9% in placebo, 6.4% in metformin and 5.0% in alogliptin.
+In a pooled analysis of these four controlled clinical studies, the overall incidence of adverse reactions was 74% in patients treated with alogliptin co-administered with metformin HCl compared to 75% treated with placebo.
+Overall discontinuation of therapy due to adverse reactions was 6.2% with alogliptin co-administered with metformin HCl compared to 1.9% in placebo, 6.4% in metformin and 5.0% in alogliptin.
 
-Adverse reactions reported in ≥4% of patients treated with alogliptin and metformin HCl tablets and more frequently than in patients who received alogliptin, metformin or placebo are summarized in Table 1.
+Adverse reactions reported in ≥4% of patients treated with alogliptin co-administered with metformin HCl and more frequently than in patients who received alogliptin, metformin or placebo are summarized in Table 1.
 
 Table 1.
-Adverse Reactions Reported in ≥4% of Adults with Type 2 Diabetes Mellitus Treated with Alogliptin and Metformin HCl Tablets and More Frequently Than in Patients Receiving Either Alogliptin, Metformin or Placebo
+Adverse Reactions Reported in ≥4% of Adults with Type 2 Diabetes Mellitus Treated with Alogliptin Co-administered with Metformin HCl and More Frequently Than in Patients Receiving Either Alogliptin, Metformin or Placebo
 
 |  | Alogliptin and Metformin HCl TabletsAlogliptin and metformin HCl tablets – includes data pooled for patients receiving alogliptin 25 and 12.5 mg combined with various doses of metformin | AlogliptinAlogliptin – includes data pooled for patients receiving alogliptin 25 and 12.5 mg | MetforminMetformin – includes data pooled for patients receiving various doses of metformin | Placebo |
 | --- | --- | --- | --- | --- |
@@ -72,7 +72,7 @@ Alogliptin and Metformin HCl
 
 In a 26 week, double-blind, placebo-controlled trial of alogliptin in combination with metformin, the number of patients reporting hypoglycemia was 1.9% in the alogliptin 12.5 mg with metformin HCl 500 mg, 5.3% in the alogliptin 12.5 mg with metformin HCl 1000 mg, 1.8% in the metformin HCl 500 mg and 6.3% in the metformin HCl 1000 mg treatment groups.
 
-In a 26 week placebo-controlled trial of alogliptin 25 mg administered once daily as add-on to metformin regimen, the number of patients reporting hypoglycemic events was 0% in the alogliptin coadministered with metformin HCl and 2.9% in the placebo treatment groups.
+In a 26 week placebo-controlled trial of alogliptin 25 mg administered once daily as add-on to metformin regimen, the number of patients reporting hypoglycemic events was 0% in the alogliptin co-administered with metformin HCl and 2.9% in the placebo treatment groups.
 
 In a 52 week, active-controlled, double-blind trial of alogliptin once daily as add-on therapy to the combination of pioglitazone 30 mg and metformin compared to the titration of pioglitazone 30 mg to 45 mg and metformin, the number of patients reporting hypoglycemia was 4.5% in the alogliptin 25 mg with pioglitazone 30 mg and metformin group versus 1.5% in the pioglitazone 45 mg with metformin group.
 
@@ -117,7 +117,7 @@ In metformin clinical trials of 29 week duration, a decrease to subnormal levels
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postmarketing use.
+The following adverse reactions have been identified during postmarketing use of alogliptin and metformin HCl.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Alogliptin

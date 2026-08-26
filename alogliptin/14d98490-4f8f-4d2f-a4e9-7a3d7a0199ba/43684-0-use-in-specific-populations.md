@@ -79,7 +79,7 @@ Alogliptin and Metformin HCl
 Elderly patients are more likely to have decreased renal function.
 Monitor renal function in the elderly more frequently [see Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
 
-Of the total number of patients (N = 2095) in clinical safety and efficacy studies, 343 (16.4%) patients were 65 years and older and 37 (1.8%) patients were 75 years and older.
+Of the total number of patients (N = 2095) in clinical safety and efficacy trials, 343 (16.4%) patients were 65 years and older and 37 (1.8%) patients were 75 years and older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.
 
 Alogliptin
@@ -89,7 +89,7 @@ No overall differences in safety or effectiveness were observed between patients
 
 Metformin HCl
 
-Controlled trials of metformin did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger patients.
+Controlled studies of metformin did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal and cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.

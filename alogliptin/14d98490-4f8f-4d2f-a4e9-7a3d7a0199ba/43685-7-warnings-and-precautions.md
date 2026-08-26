@@ -6,7 +6,7 @@ Lactic Acidosis
 
 There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases.
 These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
-Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (greater than 5 mmol/L), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate:pyruvate ratio; metformin plasma levels generally greater than 5 mcg/mL.
+Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (greater than 5 mmol/L), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate/pyruvate ratio; metformin plasma levels generally greater than 5 mcg/mL.
 Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
 
 If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of alogliptin and metformin HCl tablets.
@@ -47,7 +47,7 @@ Re-evaluate eGFR 48 hours after the imaging procedure, and restart alogliptin an
 
 Surgery and Other Procedures
 
-Withholding of food and fluids during surgical or other procedures may increase the risk for volume depletion, hypotension and renal impairment.
+Withholding food and fluids during surgical or other procedures may increase the risk for volume depletion, hypotension and renal impairment.
 Alogliptin and metformin HCl tablets should be temporarily discontinued while patients have restricted food and fluid intake.
 
 Hypoxic States
@@ -58,7 +58,7 @@ When such events occur, discontinue alogliptin and metformin HCl tablets.
 
 Excessive Alcohol Intake
 
-Alcohol potentiates the effect of metformin on lactate metabolism and this may increase the risk of metformin-associated lactic acidosis.
+Alcohol potentiates the effect of metformin on lactate metabolism, and this may increase the risk of metformin-associated lactic acidosis.
 Warn patients against excessive alcohol intake while receiving alogliptin and metformin HCl tablets.
 
 Hepatic Impairment
@@ -66,6 +66,14 @@ Hepatic Impairment
 Patients with hepatic impairment have developed with cases of metformin-associated lactic acidosis.
 This may be due to impaired lactate clearance resulting in higher lactate blood levels.
 Therefore, avoid use of alogliptin and metformin HCl tablets in patients with clinical or laboratory evidence of hepatic disease.
+
+Mitochondrial Diseases
+
+Metformin may increase the risk of lactic acidosis in patients with mitochondrial diseases such as mitochondrial encephalomyopathy with lactic acidosis, and stroke-like episodes (MELAS) syndrome and maternally inherited diabetes and deafness (MIDD).
+Alogliptin and metformin HCl tablets are not recommended in patients with mitochondrial diseases such as MELAS syndrome and MIDD.
+
+If a patient taking alogliptin and metformin HCl tablets develops elevated lactic acid levels (with or without accompanying neurologic signs and symptoms), discontinue alogliptin and metformin HCl tablets.
+Depending on the clinical context, consider evaluating the patient for MELAS, MIDD, or other mitochondrial disease.
 
 ## 5.2 Pancreatitis
 
@@ -82,7 +90,7 @@ If pancreatitis is suspected, alogliptin should promptly be discontinued and app
 
 In the EXAMINE trial which enrolled patients with type 2 diabetes mellitus and recent acute coronary syndrome, 106 (3.9%) of patients treated with alogliptin and 89 (3.3%) of patients treated with placebo were hospitalized for congestive heart failure.
 
-Consider the risks and benefits of alogliptin and metformin HCl tablets prior to initiating treatment in patients at risk for heart failure, such as those with a prior history of heart failure and a history of renal impairment, and observe these patients for signs and symptoms of heart failure during therapy.
+Consider the risks and benefits of alogliptin and metformin HCl tablets prior to initiating treatment in patients at risk for heart failure, such as those with a prior history of heart failure and a history of renal impairment and observe these patients for signs and symptoms of heart failure during therapy.
 Patients should be advised of the characteristic symptoms of heart failure and should be instructed to immediately report such symptoms.
 If heart failure develops, evaluate and manage according to current standards of care and consider discontinuation of alogliptin and metformin HCl tablets.
 
@@ -104,7 +112,7 @@ Measure liver tests promptly in patients who report symptoms that may indicate l
 In this clinical context, if the patient is found to have clinically significant liver enzyme elevations and if abnormal liver tests persist or worsen, alogliptin and metformin HCl tablets should be interrupted and investigation done to establish the probable cause.
 Alogliptin and metformin HCl tablets should not be restarted in these patients without another explanation for the liver test abnormalities.
 
-## 5.6 Vitamin B12 Levels
+## 5.6 Vitamin B12 Deficiency
 
 In metformin clinical trials of 29 week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
