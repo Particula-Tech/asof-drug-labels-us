@@ -35,4 +35,4 @@ JENTADUETO is available for oral administration as tablets containing:
 - 2.5 mg linagliptin and 850 mg metformin HCl (equivalent 662.88 mg of metformin)
 - 2.5 mg linagliptin and 1,000 mg metformin HCl (equivalent to 779.86 mg of metformin)
 
-Each film-coated tablet of JENTADUETO contains the following inactive ingredients: arginine, colloidal silicon dioxide, copovidone, corn starch, hypromellose, magnesium stearate, propylene glycol, talc, titanium dioxide, red ferric oxide (2.5 mg/850 mg; 2.5 mg/1,000 mg) and/or yellow ferric oxide (2.5 mg/500 mg; 2.5 mg/850 mg).
+Each film-coated tablet of JENTADUETO contains the following inactive ingredients: arginine, colloidal silicon dioxide, copovidone, corn starch, hypromellose, magnesium stearate, propylene glycol, talc, titanium dioxide, ferric oxide red (2.5 mg/850 mg; 2.5 mg/1,000 mg) and/or ferric oxide yellow (2.5 mg/500 mg; 2.5 mg/850 mg).

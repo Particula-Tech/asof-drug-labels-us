@@ -104,7 +104,7 @@ Renal Impairment
 JENTADUETO: Studies characterizing the pharmacokinetics of linagliptin and metformin after administration of JENTADUETO in renally impaired patients have not been performed.
 
 Linagliptin: Under steady-state conditions, linagliptin exposure in patients with mild renal impairment was comparable to healthy subjects.
-In patients with moderate renal impairment under steady-state conditions, mean exposure of linagliptin increased (AUCτ,ss by 71% and Cmax by 46%) compared with healthy subjects.
+In patients with moderate renal impairment under steady-state conditions, mean exposure of linagliptin increased (AUC𝜏,ss by 71% and Cmax by 46%) compared with healthy subjects.
 This increase was not associated with a prolonged accumulation half-life, terminal half-life, or an increased accumulation factor.
 Renal excretion of linagliptin was below 5% of the administered dose and was not affected by decreased renal function.
 

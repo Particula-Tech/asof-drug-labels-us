@@ -37,7 +37,7 @@ Linagliptin
 
 Adverse reactions reported in ≥2% of patients treated with linagliptin 5 mg and more commonly than in patients treated with placebo included: nasopharyngitis (7.0% vs 6.1%), diarrhea (3.3% vs 3.0%), and cough (2.1% vs 1.4%).
 
-Rates for other adverse reactions for linagliptin 5 mg vs placebo when linagliptin was used in combination with specific anti-diabetic agents were: urinary tract infection (3.1% vs 0%) and hypertriglyceridemia (2.4% vs 0%) when linagliptin was used as add-on to sulfonylurea; hyperlipidemia (2.7% vs 0.8%) and weight increased (2.3% vs 0.8%) when linagliptin was used as add-on to pioglitazone; and constipation (2.1% vs 1%) when linagliptin was used as add-on to basal insulin therapy.
+Rates for other adverse reactions for linagliptin 5 mg vs placebo when linagliptin was used in combination with specific antidiabetic agents were: urinary tract infection (3.1% vs 0%) and hypertriglyceridemia (2.4% vs 0%) when linagliptin was used as add-on to sulfonylurea; hyperlipidemia (2.7% vs 0.8%) and weight increased (2.3% vs 0.8%) when linagliptin was used as add-on to pioglitazone; and constipation (2.1% vs 1%) when linagliptin was used as add-on to basal insulin therapy.
 
 Other adverse reactions reported in clinical studies with treatment of linagliptin monotherapy were hypersensitivity (e.g., urticaria, angioedema, localized skin exfoliation, or bronchial hyperreactivity) and myalgia.
 In the clinical trial program, pancreatitis was reported in 15.2 cases per 10,000 patient year exposure while being treated with linagliptin compared with 3.7 cases per 10,000 patient year exposure while being treated with comparator (placebo and active comparator, sulfonylurea).

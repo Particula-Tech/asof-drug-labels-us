@@ -6,7 +6,7 @@ Metformin
 
 There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases.
 These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis.
-Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate:pyruvate ratio; metformin plasma levels generally >5 mcg/mL.
+Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate/pyruvate ratio; metformin plasma levels generally >5 mcg/mL.
 Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase risk of lactic acidosis, especially in patients at risk.
 
 If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of JENTADUETO.
@@ -51,6 +51,12 @@ Warn patients against excessive alcohol intake while receiving JENTADUETO.
 Hepatic Impairment: Patients with hepatic impairment have developed cases of metformin-associated lactic acidosis.
 This may be due to impaired lactate clearance resulting in higher lactate blood levels.
 Therefore, avoid use of JENTADUETO in patients with clinical or laboratory evidence of hepatic disease.
+
+Mitochondrial Diseases: Metformin may increase the risk of lactic acidosis in patients with mitochondrial diseases such as mitochondrial encephalomyopathy with lactic acidosis, and stroke-like episodes (MELAS) syndrome and maternally inherited diabetes and deafness (MIDD).
+JENTADUETO is not recommended in patients with mitochondrial diseases such as MELAS syndrome and MIDD.
+
+If a patient taking JENTADUETO develops elevated lactic acid levels (with or without accompanying neurologic signs and symptoms), discontinue JENTADUETO.
+Depending on the clinical context, consider evaluating the patient for MELAS, MIDD, or other mitochondrial disease.
 
 ## 5.2 Pancreatitis
 
