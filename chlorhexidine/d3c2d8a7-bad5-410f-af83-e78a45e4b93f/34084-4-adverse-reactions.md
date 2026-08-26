@@ -8,4 +8,4 @@ Among postmarketing reports, the most frequently reported oral mucosal symptoms 
 Minor irritation and superficial desquamation of the oral mucosa have been noted in patients using chlorhexidine gluconate oral rinse.
 There have been cases of parotid gland swelling and inflammation of the salivary glands (sialadenitis) reported in patients using chlorhexidine gluconate oral rinse.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Pharmaceutical Associates, Inc. at 1-800-845-8210 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact PAI Pharma at 1-800-845-8210 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

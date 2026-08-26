@@ -1,8 +1,8 @@
 # PRINCIPAL DISPLAY PANEL - 16 oz (473 mL) Bottle Label
 
-NDC 0121-0893-16
+NDC 0121-1786-16
 
-Chlorhexidine Gluconate Oral Rinse USP, 0.12%
+Chlorhexidine Gluconate Oral Rinse, USP 0.12%
 
 Ingredients: 0.12% chlorhexidine gluconate in a base containing 11.6% alcohol, FD&C Blue No. 1, glycerin, peppermint flavor, polysorbate 80, purified water, and saccharin sodium.
 
@@ -21,7 +21,7 @@ To Close: Turn cap until it locks.
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
-Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
+Dist. by: PAI Pharma www.paipharma.com
 
 Rx only
 

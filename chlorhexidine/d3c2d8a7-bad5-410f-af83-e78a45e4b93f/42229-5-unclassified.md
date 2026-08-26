@@ -1,8 +1,6 @@
-MANUFACTURED BY
+Distributed by: PAI Pharma Greenville, SC 29605 www.paipharma.com
 
-Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
-
-R03/24
+R07/2026
 
 What To Expect When Using Chlorhexidine Gluconate Oral Rinse, USP 0.12%
 
@@ -27,12 +25,10 @@ It is important to see your dentist for removal of any stain or tartar at least 
 
 If you have any questions or comments about chlorhexidine gluconate oral rinse, contact your dentist or pharmacist.
 Call your doctor for medical advice about side effects.
-You may report side effects to Pharmaceutical Associates, Inc. at 1-800-845-8210 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+You may report side effects to PAI Pharma at 1-800-845-8210 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-MANUFACTURED BY
+Distributed By: PAI Pharma Greenville, SC 29605 www.paipharma.com
 
-Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
-
-R02/21
+R07/2026
