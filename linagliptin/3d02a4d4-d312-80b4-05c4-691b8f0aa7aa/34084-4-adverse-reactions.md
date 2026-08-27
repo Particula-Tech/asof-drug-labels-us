@@ -60,7 +60,7 @@ The incidence of hypoglycemia with plasma glucose <54 mg/dL was 8.1% in the lina
 
 Linagliptin
 
-The incidence of severe hypoglycemia (requiring assistance) was 1.7% in the linagliptin group (N=631) compared to 1.1% in the placebo group (N=630) when administered in combination with basal insulin in a 52 week trial.
+The incidence of severe hypoglycemia (requiring assistance) was 1.7% in the linagliptin group (N=631) compared to 1.1% in the placebo group (N=630) when administered in combination with basal insulin in a 52-week trial.
 
 Laboratory Test Abnormalities in Clinical Trials of Linagliptin or Metformin
 

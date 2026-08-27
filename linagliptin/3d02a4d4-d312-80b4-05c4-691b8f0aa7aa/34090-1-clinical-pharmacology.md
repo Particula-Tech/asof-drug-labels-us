@@ -57,8 +57,8 @@ The pharmacokinetics of linagliptin is similar in healthy subjects and in patien
 
 Metformin HCl
 
-Following a single oral dose of 1,000 mg (2 × 500 mg tablets) metformin extended-release after a meal, the time to reach maximum plasma metformin concentration (Tmax) is achieved at approximately 7 to 8 hours.
-In both single- and multiple-dose studies in healthy subjects, once daily 1,000 mg (2 × 500 mg tablets) dosing provides equivalent systemic exposure, as measured by AUC, and up to 35% higher Cmax of metformin relative to the immediate-release given as 500 mg twice daily.
+Following a single oral dose of 1,000 mg (2 x 500 mg tablets) metformin extended-release after a meal, the time to reach maximum plasma metformin concentration (Tmax) is achieved at approximately 7 to 8 hours.
+In both single- and multiple-dose studies in healthy subjects, once daily 1,000 mg (2 x 500 mg tablets) dosing provides equivalent systemic exposure, as measured by AUC, and up to 35% higher Cmax of metformin relative to the immediate-release given as 500 mg twice daily.
 
 Single oral doses of metformin extended-release from 500 mg to 2,500 mg resulted in less than proportional increase in both AUC and Cmax.
 Low-fat and high-fat meals increased the systemic exposure (as measured by AUC) from metformin extended-release tablets by about 38% and 73%, respectively, relative to fasting.
@@ -189,18 +189,11 @@ Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 | Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Linagliptin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |  |
 | Metformin | 850 mg TID | 10 mg QD | metformin | 1.01 | 0.89 |
 | Glyburide | 1.75 mg# | 5 mg QD | glyburide | 0.86 | 0.86 |
-| Pioglitazone | 45 mg QD | 10 mg QD | pioglitazone | 0.94 | 0.86 |
-| metabolite M-III | 0.98 | 0.96 |  |  |  |
-| metabolite M-IV | 1.04 | 1.05 |  |  |  |
+| Pioglitazone | 45 mg QD | 10 mg QD | pioglitazone metabolite M-III metabolite M-IV | 0.94 0.98 1.04 | 0.86 0.96 1.05 |
 | Digoxin | 0.25 mg QD | 5 mg QD | digoxin | 1.02 | 0.94 |
-| Simvastatin | 40 mg QD | 10 mg QD | simvastatin | 1.34 | 1.10 |
-| simvastatin acid | 1.33 | 1.21 |  |  |  |
-| Warfarin | 10 mg# | 5 mg QD | R-warfarin | 0.99 | 1.00 |
-| S-warfarin | 1.03 | 1.01 |  |  |  |
-| INR | 0.93** | 1.04** |  |  |  |
-| PT | 1.03** | 1.15** |  |  |  |
-| Ethinylestradiol and levonorgestrel | ethinylestradiol 0.03 mg and levonorgestrel 0.150 mg QD | 5 mg QD | ethinylestradiol | 1.01 | 1.08 |
-| levonorgestrel | 1.09 | 1.13 |  |  |  |
+| Simvastatin | 40 mg QD | 10 mg QD | simvastatin simvastatin acid | 1.34 1.33 | 1.10 1.21 |
+| Warfarin | 10 mg# | 5 mg QD | R-warfarin S-warfarin INR PT | 0.99 1.03 0.93** 1.03** | 1.00 1.01 1.04** 1.15** |
+| Ethinylestradiol and levonorgestrel | ethinylestradiol 0.03 mg and levonorgestrel 0.150 mg QD | 5 mg QD | ethinylestradiol levonorgestrel | 1.01 1.09 | 1.08 1.13 |
 | * Multiple dose (steady-state) unless otherwise noted |  |  |  |  |  |
 | # Single dose |  |  |  |  |  |
 | †AUC=AUC(INF) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments |  |  |  |  |  |

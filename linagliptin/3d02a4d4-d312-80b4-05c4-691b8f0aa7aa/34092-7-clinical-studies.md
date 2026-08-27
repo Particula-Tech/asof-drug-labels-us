@@ -40,8 +40,6 @@ Table 7 Glycemic Parameters at Final Visit (24-Week Trial) for Linagliptin and M
 | ***Metformin 500 mg twice daily, n=140; Linagliptin 2.5 mg twice daily + Metformin 500 mg twice daily, n=136; Metformin 1,000 mg twice daily, n=137; Linagliptin 2.5 mg twice daily + Metformin 1,000 mg twice daily, n=138 |  |  |  |  |  |  |
 | ****HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |  |  |  |  |
 
-Figure 1 Adjusted Mean Change from Baseline for A1C (%) over 24 Weeks with Linagliptin and Metformin, Alone and in Combination in Patients with Type 2 Diabetes Mellitus Inadequately Controlled with Diet and Exercise - FAS completers.
-
 Initial Combination Therapy with Linagliptin and Metformin vs Linagliptin in Treatment-Naïve Patients
 
 A total of 316 patients with type 2 diabetes mellitus diagnosed within the previous 12 months and treatment-naïve (no antidiabetic therapy for 12 weeks prior to randomization) and inadequate glycemic control (A1C ≥8.5% to ≤12.0%) participated in a 24-week, randomized, double-blind, trial designed to assess the efficacy of linagliptin in combination with metformin vs linagliptin.
@@ -215,8 +213,6 @@ Table 12 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CA
 | *PY=patient years |  |  |  |  |  |
 | **A patient may have experienced more than one component; therefore, the sum of the components is larger than the number of patients who experienced the composite outcome. |  |  |  |  |  |
 
-Figure 2 Kaplan-Meier: Time to First Occurrence of MACE in the CARMELINA Trial
-
 CAROLINA
 
 The cardiovascular risk of linagliptin was evaluated in CAROLINA, a multi-center, multi-national, randomized, double-blind parallel group trial comparing linagliptin (N=3,023) to glimepiride (N=3,010) in adult patients with type 2 diabetes mellitus and a history of established cardiovascular disease and/or multiple cardiovascular risk factors.
@@ -226,7 +222,7 @@ The trial was event driven, the median duration of follow-up was 6.23 years and 
 Patients were eligible to enter the trial if they were adults with type 2 diabetes mellitus with insufficient glycemic control (defined as HbA1c of 6.5% to 8.5% or 6.5% to 7.5% depending on whether treatment-naïve, on monotherapy or on combination therapy), and were defined to be at high cardiovascular risk with previous vascular disease, evidence of vascular related end-organ damage, age ≥70 years, and/or two cardiovascular risk factors (duration of diabetes mellitus >10 years, systolic blood pressure >140 mmHg, current smoker, LDL cholesterol ≥135 mg/dL).
 
 At baseline, the mean age was 64 years and the population was 60% male, 73% White, 18% Asian, 5% Black or African American, and 17% were of Hispanic or Latino ethnicity.
-The mean HbA1c was 7.15% and mean duration of type 2 diabetes was 7.6 years.
+The mean HbA1c was 7.15% and mean duration of type 2 diabetes mellitus was 7.6 years.
 The trial population included 34% patients ≥70 years of age and 19% patients with renal impairment defined as eGFR <60 mL/min/1.73m2.
 The mean eGFR was 77 mL/min/1.73m2.
 Patients were taking at least one antidiabetic drug (91%) and the most common were metformin (83%) and sulfonylurea (28%).
@@ -249,5 +245,3 @@ Table 13 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CA
 | Non-fatal stroke** | 91 (3.0) | 5.2 | 104 (3.5) | 6.0 | 0.87 (0.66, 1.15) |
 | *PY=patient years |  |  |  |  |  |
 | **A patient may have experienced more than one component; therefore, the sum of the components is larger than the number of patients who experienced the composite outcome |  |  |  |  |  |
-
-Figure 3 Time to First Occurrence of 3P-MACE in CAROLINA

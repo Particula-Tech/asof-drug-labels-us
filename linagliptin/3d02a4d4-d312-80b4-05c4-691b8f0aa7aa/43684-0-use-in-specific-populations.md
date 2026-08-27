@@ -10,7 +10,7 @@ There are risks to the mother and fetus associated with poorly controlled diabet
 
 In animal reproduction studies, no adverse developmental effects were observed when the combination of linagliptin and metformin was administered to pregnant rats during the period of organogenesis at doses similar to the maximum recommended clinical dose, based on exposure [see Data].
 
-The estimated background risk of major birth defects is 6% to 10% in women with pre-gestational diabetes with a HbA1c>7 and has been reported to be as high as 20% to 25% in women with HbA1c>10.
+The estimated background risk of major birth defects is 6% to 10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20% to 25% in women with HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
