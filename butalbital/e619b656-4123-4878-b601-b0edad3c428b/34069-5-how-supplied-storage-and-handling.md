@@ -12,10 +12,10 @@ Rx only
 
 Distributed by:
 
-Endo USA
+Par Health USA
 
-Malvern, PA 19355
+Rochester, MI 48307
 
 Code 613B00
 
-R10/2024
+R05/2026
