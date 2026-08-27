@@ -33,4 +33,6 @@ See your doctor if you have questions.
 
 Keep out of reach of children.
 
-LAB-0646-3.0 Revised February 2025
+For more information, call Viatris at 1-877-446-3679 (1-877-4-INFO-RX).
+
+LAB-0646-4.0 Revised August 2026
