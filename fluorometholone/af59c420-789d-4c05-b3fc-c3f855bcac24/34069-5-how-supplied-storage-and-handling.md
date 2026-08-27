@@ -13,15 +13,15 @@ Fluorometholone ophthalmic suspension, USP 0.1% is supplied sterile in opaque wh
 Store at 2°-25°C (36°-77°F); protect from freezing.
 Store in an upright position.
 
-Revised: 12/2018
+Revised: 12/2023
 
 For more information, call 1-800-678-1605
 
-Distributed for: Allergan USA, Inc. Madison, NJ 07940
+Distributed for: AbbVie Inc. North Chicago, IL 60064
 
-© 2018 Allergan.
+© 2023 AbbVie.
 All rights reserved.
 
-All trademarks are the property of their respective owners.
+PACIFIC PHARMA and its design are trademarks of Allergan, Inc., an AbbVie company.
 
-v1.0USPI880
+V2.0USPI880

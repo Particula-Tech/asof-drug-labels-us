@@ -1,5 +1,11 @@
 # PRINCIPAL DISPLAY PANEL
 
-PACIFIC PHARMA
+NDC 60758-880-05
 
-NDC 60758-880-05 FLUOROMETHOLONE ophthalmic suspension, USP 0.1% 5 mL sterile Rx Only
+PACIFIC PHARMA®
+
+FLUOROMETHOLONE ophthalmic suspension, USP 0.1%
+
+5 mL
+
+sterile Rx only
