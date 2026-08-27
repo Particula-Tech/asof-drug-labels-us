@@ -215,8 +215,8 @@ Store at Controlled Room Temperature 20° – 25°C (68° – 77°F).
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Iss: 05/2025
+Iss: 05/2026
 
-Rev B
+Rev C
 
 Manufactured for: Ingenus Pharmaceuticals, LLC Orlando, FL 32811-7193 Product of China
