@@ -80,8 +80,7 @@ Patients who failed to meet specific glycemic goals during the studies were trea
 Patients receiving sitagliptin with metformin and glimepiride had significant improvements in A1C and FPG compared to patients receiving placebo with metformin and glimepiride (Table 11), with mean reductions from baseline relative to placebo in A1C of -0.9% and in FPG of -21 mg/dL.
 Rescue therapy was used in 8% of patients treated with add-on sitagliptin 100 mg and 29% of patients treated with add-on placebo.
 The patients treated with add-on sitagliptin had a mean increase in body weight of 1.1 kg vs. add-on placebo (+0.4 kg vs. -0.7 kg).
-In addition, add-on sitagliptin resulted in an increased rate of hypoglycemia compared to add-on placebo.
-[See Warnings and Precautions (5.6); Adverse Reactions (6.1).]
+In addition, add-on sitagliptin resulted in an increased rate of hypoglycemia compared to add-on placebo [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)].
 
 Table 11: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin in Combination with Metformin and GlimepirideIntent-to-treat population using last observation on study prior to pioglitazone rescue therapy.
 
@@ -144,8 +143,7 @@ Among patients also receiving metformin, the median daily insulin (pre-mixed, in
 The median change from baseline in daily dose of insulin was zero for both groups at the end of the study.
 Patients receiving sitagliptin with metformin and insulin had significant improvements in A1C, FPG and 2-hour PPG compared to patients receiving placebo with metformin and insulin (Table 13).
 The adjusted mean change from baseline in body weight was -0.3 kg in patients receiving sitagliptin with metformin and insulin and -0.2 kg in patients receiving placebo with metformin and insulin.
-There was an increased rate of hypoglycemia in patients treated with sitagliptin.
-[See Warnings and Precautions (5.6); Adverse Reactions (6.1).]
+There was an increased rate of hypoglycemia in patients treated with sitagliptin [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)].
 
 Table 13: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin as Add-on Combination Therapy with Metformin and InsulinIntent-to-treat population using last observation on study prior to rescue therapy.
 

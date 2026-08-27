@@ -92,8 +92,7 @@ At week 20, the change from baseline in HbA1c in patients treated with sitaglipt
 JANUMET
 
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
-Renal function should be assessed more frequently in elderly patients.
-[See Contraindications (4); Warnings and Precautions (5.1, 5.4); Clinical Pharmacology (12.3).]
+Renal function should be assessed more frequently in elderly patients [see Contraindications (4), Warnings and Precautions (5.1, 5.4) and Clinical Pharmacology (12.3)].
 
 Sitagliptin
 
@@ -110,13 +109,11 @@ Controlled clinical studies of metformin did not include sufficient numbers of e
 JANUMET
 
 JANUMET is not recommended in patients with an eGFR between 30 and less than 45 mL/min/1.73 m2 because these patients require a lower dosage of sitagliptin than what is available in the fixed dose combination JANUMET product.
-JANUMET is contraindicated in severe renal impairment, patients with an eGFR below 30 mL/min/1.73 m2.
-[See Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3).]
+JANUMET is contraindicated in severe renal impairment, patients with an eGFR below 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 Sitagliptin
 
-Sitagliptin is excreted by the kidney, and sitagliptin exposure is increased in patients with renal impairment.
-[See Clinical Pharmacology (12.3).]
+Sitagliptin is excreted by the kidney, and sitagliptin exposure is increased in patients with renal impairment [see Clinical Pharmacology (12.3)].
 
 Metformin
 
@@ -125,5 +122,4 @@ Metformin is substantially excreted by the kidney, and the risk of metformin acc
 ## 8.7 Hepatic Impairment
 
 Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
-JANUMET is not recommended in patients with hepatic impairment.
-[See Warnings and Precautions (5.1).]
+JANUMET is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1)].

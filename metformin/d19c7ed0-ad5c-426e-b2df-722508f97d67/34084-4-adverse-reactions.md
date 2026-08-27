@@ -114,7 +114,7 @@ Laboratory Tests
 Sitagliptin
 
 The incidence of laboratory adverse reactions was similar in patients treated with sitagliptin and metformin (7.6%) compared to patients treated with placebo and metformin (8.7%).
-In most but not all studies, a small increase in white blood cell count (approximately 200 cells/microL difference in WBC vs placebo; mean baseline WBC approximately 6600 cells/microL) was observed due to a small increase in neutrophils.
+In most but not all studies, a small increase in white blood cell count (approximately 200 cells/microL difference in WBC vs. placebo; mean baseline WBC approximately 6600 cells/microL) was observed due to a small increase in neutrophils.
 This change in laboratory parameters is not considered to be clinically relevant.
 
 Metformin

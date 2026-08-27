@@ -146,12 +146,11 @@ Studies characterizing the pharmacokinetics of sitagliptin and metformin after a
 
 Sitagliptin
 
-An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment with eGFR of 30 to less than 45 mL/min/1.73 m2, and an approximately 4-fold increase was observed in patients with severe renal impairment including patients with end-stage renal disease (ESRD) on hemodialysis, as compared to normal healthy control subjects.
-[See Dosage and Administration (2.2).]
+An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment with eGFR of 30 to less than 45 mL/min/1.73 m2, and an approximately 4-fold increase was observed in patients with severe renal impairment including patients with end-stage renal disease (ESRD) on hemodialysis, as compared to normal healthy control subjects [see Dosage and Administration (2.2)].
 
 Metformin
 
-In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4); Warnings and Precautions (5.1)].
+In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Patients with Hepatic Impairment
 
@@ -265,7 +264,7 @@ Table 8: Effect of Coadministered Drugs on Systemic Exposure of Metformin HCl
 | Nifedipine | 10 mg | 850 mg | Metformin | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | Metformin | 0.90 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | Metformin | 1.05 | 1.07 |
-| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin. [See Warnings and Precautions (5.1) and Drug Interactions (7).] |  |  |  |  |  |
+| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5.1) and Drug Interactions (7)]. |  |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | Metformin | 1.40 | 1.61 |
-| Carbonic anhydrase inhibitors may cause metabolic acidosis. [See Warnings and Precautions (5.1) and Drug Interactions (7).] |  |  |  |  |  |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5.1) and Drug Interactions (7)]. |  |  |  |  |  |
 | Topiramate | 100 mgSteady state 100 mg Topiramate every 12 hr + metformin HCl 500 mg every 12 hr AUC = AUC0-12hr. | 500 mg | Metformin | 1.25 | 1.17 |
