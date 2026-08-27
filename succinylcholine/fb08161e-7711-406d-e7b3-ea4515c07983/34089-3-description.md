@@ -9,10 +9,6 @@ Succinylcholine chloride is a diquaternary base consisting of the dichloride sal
 It is a white, odorless, slightly bitter powder, very soluble in water.
 It has the following structural formula:
 
-QUELICIN 1,000 mg/10 mL (100 mg/mL) is intended for single-dose administration and contains no preservative.
-Each 1 mL of QUELICIN 1,000 mg/10 mL (100 mg/mL) single-dose fliptop vials contains: 100 mg of succinylcholine anhydrous (equivalent to 113.27 mg of Succinylcholine Chloride, USP), and sodium hydroxide and hydrochloric acid as pH adjusters in water for injection.
-The pH of the solution is between 3.0 and 4.5, with an osmolarity of 0.830 mOsm/mL (calc.).
-
 QUELICIN 200 mg/10 mL (20 mg/mL) is intended for multiple-dose administration and contains preservative.
 Each 1 mL of QUELICIN 200 mg/10 mL (20 mg/mL) multiple-dose fliptop vials contains: 20 mg of succinylcholine anhydrous (equivalent to 22.65 mg of Succinylcholine Chloride, USP), 1.8 mg of methylparaben and 0.2 mg of propylparaben as preservatives, 4.65 mg of sodium chloride as iso-osmotic agent, and sodium hydroxide and hydrochloric acid as pH adjusters in water for injection.
 The pH of the solution is between 3.0 and 4.5, with an osmolarity of 0.338 mOsm/mL (calc.).

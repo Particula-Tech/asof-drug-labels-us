@@ -12,8 +12,7 @@
 - •Monitor neuromuscular function with a peripheral nerve stimulator when using QUELICIN by infusion [see Dosage and Administration (2.2), Warnings and Precautions (5.8)].
 - •Visually inspect QUELICIN for particulate matter and discoloration prior to administration, whenever solution and container permit.
   Do not administer solutions that are not clear and colorless.
-- •QUELICIN supplied in single-dose vials must be diluted before use.
-  QUELICIN supplied in multiple-dose vials does not require dilution before use [see Dosage and Administration (2.5)].
+- •QUELICIN supplied in multiple-dose vials does not require dilution before use [see Dosage and Administration (2.5)].
 
 Risk of Medication Errors
 
@@ -62,16 +61,15 @@ The onset of effect of succinylcholine given intramuscularly is usually observed
 
 ## 2.5 Preparation of QUELICIN
 
-QUELICIN supplied in single-dose vials must be diluted before use.
-QUELICIN supplied in multiple-dose vials does not require dilution before use.
+QUELICIN supplied in multiple-dose vials does not require dilution for intravenous or intramuscular bolus dosing.
 
-QUELICIN may be diluted to 1 mg/mL or 2 mg/mL in a solution such as:
+QUELICIN may be diluted for continuous intravenous infusion to 1 mg/mL or 2 mg/mL in a solution such as:
 
 - •5% Dextrose Injection, USP, or
 - •0.9% Sodium Chloride Injection, USP
 
 Prepare the diluted QUELICIN solution for single patient use only.
-Store the diluted QUELICIN solution in a refrigerator [2 °C to 8 °C (36 °F to 46 °F)] and use within 24 hours after preparation.
+Store the diluted QUELICIN solution in a refrigerator [2°C to 8°C (36°F to 46°F)] and use within 24 hours after preparation.
 Visually inspect the diluted QUELICIN solution for particulate matter and discoloration prior to administration.
 Do not administer solutions that are not clear and colorless.
 Discard any unused portion of the diluted QUELICIN solution.
