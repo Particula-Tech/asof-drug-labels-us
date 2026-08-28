@@ -2,14 +2,14 @@
 
 Table 1 includes clinically significant drug interactions with Hydromorphone Hydrochloride Injection and/or Hydromorphone Hydrochloride Injection [high potency formulation (HPF)].
 
-Table 1.
+TABLE 1.
 Clinically Significant Drug Interactions with Hydromorphone Hydrochloride Injection and/or Hydromorphone Hydrochloride Injection [high potency formulation (HPF)]
 
 | Benzodiazepines and other Central Nervous System Depressants (CNS) |  |
 | --- | --- |
 | Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines and other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. [see Warnings and Precautions (5.4)] |
 | Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Monitor patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.4)]. |
-| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
+| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids (gabapentin or pregabalin), other opioids, alcohol. |
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue Hydromorphone Hydrochloride Injection and Hydromorphone Hydrochloride Injection (HPF) if serotonin syndrome is suspected. |
@@ -25,6 +25,7 @@ Clinically Significant Drug Interactions with Hydromorphone Hydrochloride Inject
 | Muscle Relaxants |  |
 | Clinical Impact: | Hydromorphone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
 | Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Hydromorphone Hydrochloride Injection and Hydromorphone Hydrochloride Injection (HPF) and/or the muscle relaxant as necessary. |
+| Examples: | cyclobenzaprine, metaxalone |
 | Diuretics |  |
 | Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
 | Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
