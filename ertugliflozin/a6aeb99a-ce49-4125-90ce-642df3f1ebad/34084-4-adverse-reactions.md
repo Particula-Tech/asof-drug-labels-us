@@ -3,14 +3,12 @@
 The following important adverse reactions are described elsewhere in the labeling:
 
 - Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
-- Diabetic Ketoacidosis in Patients with Type 1 Diabetes and Other Ketoacidosis [see Warnings and Precautions (5.2)]
+- Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.2)]
 - Lower Limb Amputation [see Warnings and Precautions (5.3)]
 - Volume Depletion [see Warnings and Precautions (5.4)]
-- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
+- Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections [see Warnings and Precautions (5.5)]
 - Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues [see Warnings and Precautions (5.6)]
-- Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.7)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.8)]
-- Vitamin B12 Deficiency [see Warnings and Precautions (5.9)]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -97,7 +95,7 @@ Phimosis was reported in 8 of 1,729 (0.5%) male ertugliflozin-treated patients, 
 
 Urinary Tract Infections
 
-In VERTIS CV urinary tract infections (e.g., urinary tract infection, cystitis, dysuria) occurred in 10.2%, 12.2% and 12.0% of patients treated with placebo, ertugliflozin 5 mg and ertugliflozin 15 mg, respectively.
+In the VERTIS CV study, urinary tract infections (e.g., urinary tract infection, cystitis, dysuria) occurred in 10.2%, 12.2% and 12.0% of patients treated with placebo, ertugliflozin 5 mg and ertugliflozin 15 mg, respectively.
 The incidences of serious urinary tract infections were 0.8%, 0.9% and 0.4% with placebo, ertugliflozin 5 mg and ertugliflozin 15 mg, respectively.
 
 Metformin HCl

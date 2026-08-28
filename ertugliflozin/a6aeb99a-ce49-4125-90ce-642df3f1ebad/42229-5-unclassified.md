@@ -2,7 +2,7 @@ Manufactured for: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
 For patent information: www.msd.com/research/patent
 
-Copyright © 2017-2024 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+Copyright © 2017-2026 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
 All rights reserved.
 
-uspi-mk8835b-t-2412r010
+uspi-mk8835b-t-2608r011

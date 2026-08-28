@@ -17,7 +17,7 @@ Metformin HCl
 Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
 Its pharmacologic mechanisms of action are different from other classes of oral antihyperglycemic agents.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.5)] and does not cause hyperinsulinemia.
+Metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.6)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -224,7 +224,7 @@ Table 5: Effect of Coadministered Drugs on Systemic Exposure of Metformin HCl
 | Nifedipine | 10 mg | 850 mg | Metformin | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | Metformin | 0.90 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | Metformin | 1.05 | 1.07 |
-| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5.1) and Drug Interactions (7.2)]. |  |  |  |  |  |
+| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5.1) and Drug Interactions (7)]. |  |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | Metformin | 1.40 | 1.61 |
-| Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5.1) and Drug Interactions (7.2)]. |  |  |  |  |  |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5.1) and Drug Interactions (7)]. |  |  |  |  |  |
 | Topiramate | 100 mgSteady-state 100 mg topiramate every 12 hr + metformin 500 mg every 12 hr AUC = AUC0-12hr. | 500 mg | Metformin | 1.25 | 1.17 |

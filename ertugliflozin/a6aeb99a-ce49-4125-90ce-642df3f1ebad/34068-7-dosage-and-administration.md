@@ -2,7 +2,7 @@
 
 ## 2.1 Prior to Initiation of SEGLUROMET
 
-- Assess renal function before initiating SEGLUROMET and as clinically indicated [see Warnings and Precautions (5.2)].
+- Assess renal function before initiating SEGLUROMET and as clinically indicated [see Warnings and Precautions (5.1, 5.4)].
 - Assess volume status.
   In patients with volume depletion, correct this condition before initiating SEGLUROMET [see Warnings and Precautions (5.4) and Use in Specific Populations (8.5, 8.6)].
 
@@ -26,3 +26,8 @@ Re-evaluate eGFR 48 hours after the imaging procedure; restart SEGLUROMET if ren
 
 Withhold SEGLUROMET for at least 4 days, if possible, prior to surgery or procedures associated with prolonged fasting.
 Resume SEGLUROMET when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
+
+## 2.5 Recommendations Regarding Missed Dose
+
+- If a dose is missed, instruct patients to take the dose as soon as possible.
+- Advise patients not to double up the next dose.

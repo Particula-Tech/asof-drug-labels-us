@@ -48,6 +48,12 @@ Hepatic Impairment: Patients with hepatic impairment have developed metformin-as
 This may be due to impaired lactate clearance resulting in higher lactate blood levels.
 Therefore, avoid use of SEGLUROMET in patients with clinical or laboratory evidence of hepatic disease.
 
+Mitochondrial Diseases: Metformin may increase the risk of lactic acidosis in patients with mitochondrial diseases such as mitochondrial encephalomyopathy with lactic acidosis, and stroke-like episodes (MELAS) syndrome and maternally inherited diabetes and deafness (MIDD).
+SEGLUROMET is not recommended in patients with mitochondrial diseases such as MELAS syndrome and MIDD.
+
+If a patient taking SEGLUROMET develops elevated lactic acid levels (with or without accompanying neurologic signs and symptoms), discontinue SEGLUROMET.
+Depending on the clinical context, consider evaluating the patient for MELAS, MIDD, or other mitochondrial disease.
+
 ## 5.2 Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis
 
 In patients with type 1 diabetes mellitus, SEGLUROMET significantly increases the risk of diabetic ketoacidosis, a life-threatening event, beyond the background rate.
@@ -76,7 +82,7 @@ Educate all patients on the signs and symptoms of ketoacidosis and instruct pati
 
 ## 5.3 Lower Limb Amputation
 
-In a long-term cardiovascular outcomes study [see Clinical Studies (14.2)], in patients with type 2 diabetes mellitus and established cardiovascular disease, the occurrence of non-traumatic lower limb amputations was reported with event rates of 4.7, 5.7, and 6.0 events per 1,000 patient-years in the placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg treatment arms, respectively.
+In a long-term cardiovascular outcomes study in patients with type 2 diabetes mellitus and established cardiovascular disease, the occurrence of non-traumatic lower limb amputations was reported with event rates of 4.7, 5.7, and 6.0 events per 1,000 patient-years in the placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg treatment arms, respectively [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
 
 Amputation of the toe and foot were most frequent (81 out of 109 patients with lower limb amputations).
 Some patients had multiple amputations, some involving both lower limbs.
@@ -84,9 +90,7 @@ Some patients had multiple amputations, some involving both lower limbs.
 Lower limb infections, gangrene, and diabetic foot ulcers were the most common precipitating medical events leading to the need for an amputation.
 Patients with amputations were more likely to be male, have higher A1C (%) at baseline, have a history of peripheral arterial disease, amputation or peripheral revascularization procedure, diabetic foot, and to have been taking diuretics or insulin.
 
-Across seven ertugliflozin clinical trials, non-traumatic lower limb amputations were reported in 1 (0.1%) patient in the comparator group, 3 (0.2%) patients in the ertugliflozin 5 mg group, and 8 (0.5%) patients in the ertugliflozin 15 mg group.
-
-Monitor patients receiving SEGLUROMET for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and discontinue SEGLUROMET if these complications occur.
+Monitor patients receiving SEGLUROMET for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and institute appropriate treatment.
 
 ## 5.4 Volume Depletion
 
@@ -97,11 +101,19 @@ Before initiating SEGLUROMET in patients with one or more of these characteristi
 In patients with volume depletion, correct this condition before initiating SEGLUROMET.
 Monitor for signs and symptoms of volume depletion, and renal function after initiating therapy.
 
-## 5.5 Urosepsis and Pyelonephritis
+## 5.5 Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections
 
-There have been postmarketing reports of serious urinary tract infections, including urosepsis and pyelonephritis, requiring hospitalization in patients receiving medicines containing SGLT2 inhibitors.
-Treatment with medicines containing SGLT2 inhibitors increases the risk for urinary tract infections.
-Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
+SEGLUROMET increases urinary glucose excretion [see Clinical Pharmacology (12.2)] and increases the risk of genitourinary infections including urinary tract infections and genital mycotic infections in both male and female patients [see Adverse Reactions (6.1)].
+
+Serious genitourinary infections, including urosepsis, pyelonephritis, and necrotizing fasciitis of the perineum (Fournier’s gangrene, a rare life-threatening infection requiring urgent surgical intervention), have occurred in patients receiving SGLT2 inhibitors [see Adverse Reactions (6.2)].
+Cases have required hospitalization.
+In patients with Fournier’s gangrene, serious outcomes have included multiple surgeries and death.
+
+Patients with a history of genitourinary infections are more likely to develop genitourinary infections when using SEGLUROMET.
+Monitor patients for signs and symptoms of genitourinary infections and treat promptly, if indicated.
+
+Immediately evaluate patients presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, for necrotizing fasciitis.
+If suspected, discontinue SEGLUROMET and promptly institute appropriate medical and/or surgical intervention.
 
 ## 5.6 Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
 
@@ -110,23 +122,7 @@ SEGLUROMET may increase the risk of hypoglycemia when used in combination with i
 The risk of hypoglycemia may be lowered by a reduction in the dose of insulin or sulfonylurea (or other concomitantly administered insulin secretagogues).
 Inform patients using these medications concomitantly of this risk and educate them on the signs and symptoms of hypoglycemia.
 
-## 5.7 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
-
-Reports of necrotizing fasciitis of the perineum (Fournier’s Gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including ertugliflozin.
-Cases have been reported in females and males.
-Serious outcomes have included hospitalization, multiple surgeries, and death.
-
-Patients treated with SEGLUROMET presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
-If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
-Discontinue SEGLUROMET, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
-
-## 5.8 Genital Mycotic Infections
-
-Ertugliflozin increases the risk of genital mycotic infections.
-Patients who have a history of genital mycotic infections or who are uncircumcised are more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
-Monitor and treat appropriately.
-
-## 5.9 Vitamin B12 Deficiency
+## 5.7 Vitamin B12 Deficiency
 
 In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.

@@ -100,7 +100,7 @@ Metformin HCl
 
 Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
-Assess renal function more frequently in elderly patients [see Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+Assess renal function more frequently in elderly patients [see Contraindications (4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
