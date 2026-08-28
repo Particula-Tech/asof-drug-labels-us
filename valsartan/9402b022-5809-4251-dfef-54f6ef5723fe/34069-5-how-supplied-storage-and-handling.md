@@ -30,16 +30,16 @@ Bottle of 500’s 59746-362-05
 
 Carton of 10x10’s 59746-362-03
 
-320 mg tablets are yellow, oval shaped, biconvex, film-coated, debossed with 'C5' on one side and 'C' on the other side.
+320 mg tablets are yellow, oval shaped, biconvex, film-coated, debossed with 'I' on one side and 'C' on the other side.
 
-Bottle of 30’s (child-resistant closure) 59746-363-30
+Bottle of 30’s (child-resistant closure) 59746-393-30
 
-Bottle of 90’s (child-resistant closure) 59746-363-90
+Bottle of 90’s (child-resistant closure) 59746-393-90
 
-Bottle of 400’s 59746-363-67
+Bottle of 400’s 59746-393-67
 
-Carton of 3x10’s 59746-363-32
+Carton of 3x10’s 59746-393-32
 
-Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Protect from moisture.
 Dispense in tight container (USP).

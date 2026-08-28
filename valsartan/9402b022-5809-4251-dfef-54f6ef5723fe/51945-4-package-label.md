@@ -22,8 +22,10 @@ NDC 59746-362-30 Valsartan Tablets, USP 160 mg
 
 Attention: Dispense with patient information sheet 30 Tablets Rx Only CADISTATM
 
-Valsartan Tablets USP, 320 mg: 30 Tablets Bottle Label
+Valsartan Tablets USP, 320 mg: 90 Tablets Bottle Label
 
-NDC 59746-363-30 Valsartan Tablets, USP 320 mg
+NDC 59746-393-90 Valsartan Tablets, USP 320 mg
 
-Attention: Dispense with patient information sheet 30 Tablets Rx Only CADISTATM
+Attention: Dispense with patient information sheet 30 Tablets Rx Only
+
+CADISTATM

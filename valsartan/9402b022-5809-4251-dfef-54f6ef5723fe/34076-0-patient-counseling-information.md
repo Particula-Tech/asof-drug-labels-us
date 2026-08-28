@@ -17,4 +17,4 @@ Rx Only
 
 Made in India
 
-Marketed by: Jubilant Cadista Pharmaceuticals Inc. Yardley, PA 19067, USA Revised: 02/2025
+Marketed by: Jubilant Cadista Pharmaceuticals Inc. Yardley, PA 19067, USA Revised: 08/2026
