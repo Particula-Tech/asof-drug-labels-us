@@ -19,14 +19,16 @@ Carbamazepine tablets can cause serious side effects, including:
 1.
 Carbamazepine tablets may cause rare but serious skin rashes that may lead to death.
 These serious skin reactions are more likely to happen when you begin taking carbamazepine within the first four months of treatment but may occur at later times.
-These reactions can happen in anyone, but are more likely in people of Asian descent.
+These reactions can happen in anyone, but some types of skin reactions are more likely in people of Asian descent.
 If you are of Asian descent, you may need a genetic blood test before you take carbamazepine to see if you are at a higher risk for serious skin reactions with this medicine.
-Symptoms may include:
+Reactions may include:
 
 - skin rash
 - hives
 - sores in your mouth
 - blistering or peeling of the skin
+- round or oval patches, which can include redness, swelling, blistering, itching, peeling or darkening of the skin, that appear in the same place on your body as when you took carbamazepine in the past.
+  This may progress to a serious reaction.
 
 2.
 Carbamazepine tablets may cause rare but serious blood problems.
@@ -56,7 +58,7 @@ Call your healthcare provider right away if you have any of the following:
 - severe fatigue or weakness
 - severe muscle pain
 
-4.
+5.
 Like other antiepileptic drugs, carbamazepine tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
@@ -120,6 +122,7 @@ Before you take carbamazepine tablets, tell your healthcare provider if you:
 - have or ever had blood problems
 - have or ever had liver problems
 - have or ever had kidney problems
+- have ever had a skin reaction to carbamazepine
 - have or ever had allergic reactions to medicines
 - have or ever had increased pressure in your eye
 - have any other medical conditions
@@ -206,7 +209,7 @@ You may report side effects to FDA at 1-800-FDA­-1088.
 How should I store carbamazepine tablets?
 
 - Do not store above 30°C (86°F).
-  - Keep carbamazepine tablets dry.
+- Keep carbamazepine tablets dry.
 
 Keep carbamazepine tablets and all medicines out of the reach of children.
 
@@ -229,8 +232,6 @@ Active ingredient: carbamazepine
 
 Inactive ingredients: croscarmellose sodium, magnesium stearate, and microcrystalline cellulose.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
 APOTEX INC.
 
 CARBAMAZEPINE TABLETS, USP 200 mg
@@ -241,9 +242,11 @@ Apotex Inc. Apotex Corp.
 
 Toronto, Ontario Weston, Florida
 
-Canada M9L 1T9 USA, 33326
+Canada M9L 1T9 33326
 
-October 2025
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+August 2026
 
 Rev.
-10
+11

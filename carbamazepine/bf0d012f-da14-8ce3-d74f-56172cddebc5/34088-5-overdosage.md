@@ -14,16 +14,16 @@ Cardiovascular disorders are generally milder, and severe cardiac complications 
 
 Respiration: Irregular breathing, respiratory depression.
 
-Cardiovascular System:Tachycardia, hypotension or hypertension, shock, conduction disorders.
+Cardiovascular System: Tachycardia, hypotension or hypertension, shock, conduction disorders.
 
-Nervous System and Muscles:Impairment of consciousness ranging in severity to deep coma.
+Nervous System and Muscles: Impairment of consciousness ranging in severity to deep coma.
 Convulsions, especially in small children.
 Motor restlessness, muscular twitching, tremor, athetoid movements, opisthotonos, ataxia, drowsiness, dizziness, mydriasis, nystagmus, adiadochokinesia, ballism, psychomotor disturbances, dysmetria.
 Initial hyperreflexia, followed by hyporeflexia.
 
 Gastrointestinal Tract: Nausea, vomiting.
 
-Kidneys and Bladder:Anuria or oliguria, urinary retention.
+Kidneys and Bladder: Anuria or oliguria, urinary retention.
 
 Laboratory Findings: Isolated instances of overdosage have included leukocytosis, reduced leukocyte count, glycosuria, and acetonuria.
 EEG may show dysrhythmias.
@@ -36,21 +36,21 @@ The prognosis in cases of severe poisoning is critically dependent upon prompt e
 If these measures cannot be implemented without risk on the spot, the patient should be transferred at once to a hospital, while ensuring that vital functions are safeguarded.
 There is no specific antidote.
 
-Elimination of the Drug:Induction of vomiting.
+Elimination of the Drug: Induction of vomiting.
 
 Gastric lavage.
 Even when more than 4 hours have elapsed following ingestion of the drug, the stomach should be repeatedly irrigated, especially if the patient has also consumed alcohol.
 
-Measures to Reduce Absorption:Activated charcoal, laxatives.
+Measures to Reduce Absorption: Activated charcoal, laxatives.
 
-Measures to Accelerate Elimination:Forced diuresis.
+Measures to Accelerate Elimination: Forced diuresis.
 
 Dialysis is indicated only in severe poisoning associated with renal failure.
 Replacement transfusion is indicated in severe poisoning in small children.
 
-Respiratory Depression:Keep the airways free; resort, if necessary, to endotracheal intubation, artificial respiration, and administration of oxygen.
+Respiratory Depression: Keep the airways free; resort, if necessary, to endotracheal intubation, artificial respiration, and administration of oxygen.
 
-Hypotension, Shock:Keep the patient’s legs raised and administer a plasma expander.
+Hypotension, Shock: Keep the patient’s legs raised and administer a plasma expander.
 If blood pressure fails to rise despite measures taken to increase plasma volume, use of vasoactive substances should be considered.
 
 Convulsion:Diazepam or barbiturates.

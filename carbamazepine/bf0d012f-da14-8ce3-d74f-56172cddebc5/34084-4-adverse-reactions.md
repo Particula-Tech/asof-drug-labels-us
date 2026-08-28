@@ -11,7 +11,7 @@ The following additional adverse reactions have been reported:
 
 Hemopoietic System: Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda.
 
-Skin: TEN and SJS (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, onychomadesis and hirsutism.
+Skin: TEN and SJS (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, fixed drug eruption, generalized bullous fixed drug eruption, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, onychomadesis and hirsutism.
 In certain cases, discontinuation of therapy may be necessary.
 
 Cardiovascular System: Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g., pulmonary embolism), and adenopathy or lymphadenopathy.
@@ -21,7 +21,7 @@ Myocardial infarction has been associated with other tricyclic compounds.
 
 Liver: Abnormalities in liver function tests, cholestatic and hepatocellular jaundice, hepatitis, very rare cases of hepatic failure.
 
-Pancreatic:Pancreatitis.
+Pancreatic: Pancreatitis.
 
 Respiratory System: Pulmonary hypersensitivity characterized by fever, dyspnea, pneumonitis, or pneumonia.
 
@@ -40,12 +40,12 @@ There have been reports of associated paralysis and other symptoms of cerebral a
 
 Isolated cases of neuroleptic malignant syndrome have been reported both with and without concomitant use of psychotropic drugs.
 
-Digestive System:Nausea, vomiting, gastric distress and abdominal pain, diarrhea, constipation, anorexia, and dryness of the mouth and pharynx, including glossitis and stomatitis.
+Digestive System: Nausea, vomiting, gastric distress and abdominal pain, diarrhea, constipation, anorexia, and dryness of the mouth and pharynx, including glossitis and stomatitis.
 
 Eyes: Scattered punctate cortical lens opacities, increased intraocular pressure (see WARNINGS, General) as well as conjunctivitis, have been reported.
 Although a direct causal relationship has not been established, many phenothiazines and related drugs have been shown to cause eye changes.
 
-Musculoskeletal System:Aching joints and muscles, and leg cramps.
+Musculoskeletal System: Aching joints and muscles, and leg cramps.
 
 Metabolism: Fever and chills.
 Hyponatremia (see WARNINGS, General).
