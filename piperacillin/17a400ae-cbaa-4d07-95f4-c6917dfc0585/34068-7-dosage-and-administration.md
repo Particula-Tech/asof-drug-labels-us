@@ -97,10 +97,10 @@ Reconstituted piperacillin and tazobactam for injection solutions for bulk bottl
 | Strength per Pharmacy Bulk Bottle | Volume of Diluent to be Added to the Bottle | Concentration of the Reconstituted Product |
 | 40.5 g (36 g piperacillin and 4.5 g tazobactam) | 152 mL | 225 mg/mL (200 mg/mL piperacillin and 25 mg/mL tazobactam) |
 
-1. 3.Calculate the required volume (mL) of reconstituted piperacillin and tazobactam for injection solution based on the required dose.
-2. 4.Aseptically withdraw the required volume of reconstituted piperacillin and tazobactam for injection solution from the pharmacy bulk bottle.
+1. 1.Calculate the required volume (mL) of reconstituted piperacillin and tazobactam for injection solution based on the required dose.
+2. 2.Aseptically withdraw the required volume of reconstituted piperacillin and tazobactam for injection solution from the pharmacy bulk bottle.
    It should be further diluted to a ﬁnal piperacillin concentration of between 20 mg/mL to 80 mg/mL (tazobactam between 2.5 mg/mL to 10 mg/mL) in a compatible intravenous solution (as listed above) in an appropriately sized syringe or IV bag.
-3. 5.Administer the diluted piperacillin and tazobactam for injection solution by infusion over a period of at least 30 minutes (a programmable syringe or infusion pump is recommended).
+3. 3.Administer the diluted piperacillin and tazobactam for injection solution by infusion over a period of at least 30 minutes (a programmable syringe or infusion pump is recommended).
    During the infusion it is desirable to discontinue the primary infusion solution.
 
 Stability of Piperacillin and Tazobactam for Injection Following Reconstitution and Dilution
