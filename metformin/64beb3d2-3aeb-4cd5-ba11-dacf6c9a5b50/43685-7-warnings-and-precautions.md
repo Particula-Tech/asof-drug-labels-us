@@ -17,7 +17,7 @@ For each of the known and possible risk factors for metformin-associated lactic 
 
 Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
-Clinical recommendations based upon the patient's renal function include [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)]:
+Clinical recommendations based upon the patient's renal function include [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]:
 
 - Before initiating JANUMET XR, obtain an estimated glomerular filtration rate (eGFR).
 - JANUMET XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2.
@@ -65,6 +65,14 @@ Patients with hepatic impairment have developed with cases of metformin-associat
 This may be due to impaired lactate clearance resulting in higher lactate blood levels.
 Therefore, avoid use of JANUMET XR in patients with clinical or laboratory evidence of hepatic disease.
 
+Mitochondrial Diseases
+
+Metformin may increase the risk of lactic acidosis in patients with mitochondrial diseases such as mitochondrial encephalomyopathy with lactic acidosis, and stroke-like episodes (MELAS) syndrome and maternally inherited diabetes and deafness (MIDD).
+JANUMET XR is not recommended in patients with mitochondrial diseases such as MELAS syndrome and MIDD.
+
+If a patient taking JANUMET XR develops elevated lactic acid levels (with or without accompanying neurologic signs and symptoms), discontinue JANUMET XR.
+Depending on the clinical context, consider evaluating the patient for MELAS, MIDD, or other mitochondrial disease.
+
 ## 5.2 Pancreatitis
 
 There have been postmarketing reports of acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, in patients taking sitagliptin with or without metformin.
@@ -105,8 +113,7 @@ A lower dose of insulin or insulin secretagogue may be required to minimize the 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with sitagliptin, one of the components of JANUMET XR.
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions including Stevens-Johnson syndrome.
 Onset of these reactions occurred within the first 3 months after initiation of treatment with sitagliptin, with some reports occurring after the first dose.
-If a hypersensitivity reaction is suspected, discontinue JANUMET XR, assess for other potential causes for the event, and institute alternative treatment for diabetes.
-[See Adverse Reactions (6.2).]
+If a hypersensitivity reaction is suspected, discontinue JANUMET XR, assess for other potential causes for the event, and institute alternative treatment for diabetes [see Adverse Reactions (6.2)].
 
 Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with JANUMET XR.
 
