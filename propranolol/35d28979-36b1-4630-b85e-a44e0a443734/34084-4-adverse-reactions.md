@@ -21,3 +21,5 @@ Skin and Mucous Membranes: Stevens-Johnson Syndrome, toxic epidermal necrolysis,
 Oculomucocutaneous syndrome involving the skin, serous membranes, and conjunctivae reported for a beta-blocker (practolol) have not been associated with propranolol.
 
 Genitourinary: Male impotence; Peyronie's disease.
+
+To report SUSPECTED ADVERSE REACTIONS, contact ANI Pharmaceuticals, Inc. at 1-855-204-1431 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
