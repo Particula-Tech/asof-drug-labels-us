@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA221094"
+  ],
+  "inn": "clonidine",
+  "labeler": "CMP Pharma, Inc.",
+  "package_ndcs": [
+    "46287-085-04"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "clonidine hydrochloride",
+      "name": "QLONILIK"
+    }
+  ],
+  "setid": "826de1dc-378e-4c90-86d1-e33f7a4248cd",
+  "source": "dailymed"
+}
