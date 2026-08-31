@@ -1,10 +1,10 @@
 # 11 DESCRIPTION
 
-Valganciclovir for oral solution contains valganciclovir hydrochloride USP, a hydrochloride salt of the L-valyl ester of ganciclovir that exists as a mixture of two diastereomers.
+Valganciclovir for oral solution, USP contains valganciclovir hydrochloride USP, a hydrochloride salt of the L-valyl ester of ganciclovir that exists as a mixture of two diastereomers.
 Ganciclovir is a synthetic guanine derivative active against CMV.
 
 Valganciclovir is available as a powder blend for oral solution, which when constituted with water as directed contains 50 mg/mL valganciclovir free base.
-The inactive ingredients of valganciclovir for oral solution are mannitol, sodium benzoate, sucralose, tartaric acid and tutti-frutti flavoring.
+The inactive ingredients of valganciclovir for oral solution, USP are mannitol, sodium benzoate, sucralose, tartaric acid and tutti-frutti flavoring.
 
 Valganciclovir hydrochloride, USP is a white to almost white powder.
 The chemical name for valganciclovir hydrochloride, USP is L-Valine, 2-[(2-amino-1,6-dihydro-6-oxo-9H-purin-9-yl)methoxy]-3-hydroxypropyl ester, monohydrochloride.

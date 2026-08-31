@@ -93,7 +93,7 @@ Table 14 Ganciclovir Pharmacokinetics by Age in Pediatric Solid Organ Transplant
 | < 4 months | 4 months to ≤ 2 years | > 2 to < 12 years | ≥ 12 years |  |  |
 | Heart(N=26) | NAUC0-24h (mcg∙h/mL)Cmax (mcg/mL) t1/2 (h) | 14a66.3 (20.5) 10.8 (3.30)3.5 (0.87) | 655.4 (22.8) 8.2 (2.5) 3.8 (1.7) | 259.6 (21.0) 12.5 (1.2) 2.8 (0.9) | 460.6 (25.0) 9.5 (3.3) 4.9 (0.8) |
 | Kidney(N=31) | NAUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | NA | 267.6 (13.0) 10.4 (0.4) 4.5 (1.5) | 1055.9 (12.1) 8.7 (2.1) 4.8 (1.0) | 1947.8 (12.4) 7.7 (2.1) 6.0 (1.3) |
-| Liver(N=17) | NAUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | NA | 969.9 (37.0) 11.9 (3.7) 2.8 (1.5) | 659.4 (8.1) 9.5 (2.3) 3.8 (0.7) | 235.4 (2.8) 5.5 (1.1) 4.4 (0.2) |
+| Liver(N=17) | NAUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | NA | 9 69.9 (37.0) 11.9 (3.7) 2.8 (1.5) | 659.4 (8.1) 9.5 (2.3) 3.8 (0.7) | 235.4 (2.8) 5.5 (1.1) 4.4 (0.2) |
 | N= number of patients, NA=not applicable a Ages ranged from 26 to 124 days. |  |  |  |  |  |
 
 Pharmacokinetics in Geriatric Patients: The pharmacokinetic characteristics of valganciclovir in elderly patients have not been established.
