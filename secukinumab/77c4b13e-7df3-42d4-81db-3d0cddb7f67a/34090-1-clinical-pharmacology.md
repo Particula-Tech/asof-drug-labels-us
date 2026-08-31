@@ -37,7 +37,7 @@ Following a single subcutaneous dose of either 150 mg or 300 mg (administered as
 
 Following multiple subcutaneous doses of COSENTYX (administered as one or two injections of 150 mg), the mean (± SD) serum trough concentrations of secukinumab ranged from 22.8 ± 10.2 mcg/mL (150 mg) to 45.4 ± 21.2 mcg/mL (300 mg) at Week 12.
 At the 300 mg dose at Week 4 and Week 12, the mean trough concentrations resulted from the Sensoready pen were approximately 30% higher than those from the prefilled syringe.
-Following multiple subcutaneous doses of 300 mg administered via the 300 mg/2 mL UnoReady pen, the mean serum trough concentrations of secukinumab were generally consistent with those in the previous Sensoready pen study used to deliver 300 mg.
+Following multiple subcutaneous doses of 300 mg administered via the UnoReady pen, the mean serum trough concentrations of secukinumab were generally consistent with those in the previous Sensoready pen study used to deliver 300 mg.
 
 Steady-state concentrations of secukinumab were achieved by Week 24 following the every 4-week dosing regimen.
 The mean (± SD) steady-state trough concentrations ranged from 16.7 ± 8.2 mcg/mL (150 mg) to 34.4 ± 16.6 mcg/mL (300 mg administered as two injections of 150 mg).

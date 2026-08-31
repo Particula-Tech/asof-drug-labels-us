@@ -13,8 +13,7 @@ COSENTYX injection for subcutaneous use
 | 2 prefilled syringes | 0078-0639-98 |  |  |
 | COSENTYX Sensoready pen | 1 Sensoready pen | 0078-0639-68 |  |
 | 2 Sensoready pens | 0078-0639-41 |  |  |
-| 300 mg/2 mL | COSENTYX prefilled syringe | 1 prefilled syringe | 0078-1070-97 |
-| COSENTYX UnoReady pen | 1 UnoReady pen | 0078-1070-68 |  |
+| 300 mg/2 mL | COSENTYX UnoReady pen | 1 UnoReady pen | 0078-1070-68 |
 
 The removable cap of the COSENTYX Sensoready pen and prefilled syringes (150 mg/mL, 75 mg/0.5 mL) contains natural rubber latex.
 

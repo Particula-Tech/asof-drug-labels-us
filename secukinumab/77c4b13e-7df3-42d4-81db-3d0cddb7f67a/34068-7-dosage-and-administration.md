@@ -169,7 +169,7 @@ The recommended weight-based dosage in pediatric patients 12 years of age and ol
 
 COSENTYX UnoReady pen, Sensoready pen, and prefilled syringes are for subcutaneous injection only.
 
-Before subcutaneous injection, remove COSENTYX from the refrigerator and allow COSENTYX to reach room temperature (15 to 30 minutes for the Sensoready pen and prefilled syringes (150 mg/mL, 75 mg/0.5 mL)); 30 to 45 minutes for the UnoReady pen and prefilled syringe (300 mg/2 mL)) without removing the needle cap.
+Before subcutaneous injection, remove COSENTYX from the refrigerator and allow COSENTYX to reach room temperature (15 to 30 minutes for the Sensoready pen and prefilled syringes (150 mg/mL, 75 mg/0.5 mL); 30 to 45 minutes for the UnoReady pen) without removing the needle cap.
 
 The removable cap of the COSENTYX Sensoready pen and prefilled syringes (150 mg/mL, 75 mg/0.5 mL) contains natural rubber latex and should not be handled by latex-sensitive individuals [see Warnings and Precautions (5.6)].
 
