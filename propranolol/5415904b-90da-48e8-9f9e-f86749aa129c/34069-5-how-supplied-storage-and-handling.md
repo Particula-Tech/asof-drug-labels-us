@@ -17,8 +17,8 @@ Protect from light, moisture, freezing, and excessive heat.
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
-For medical inquires, contact ANI Pharmaceuticals, Inc. at 1-800-308-6755.
+For medical inquires, contact ANI Pharmaceuticals, Inc. at 1-855-204-1431.
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-10748 Rev 05/24
+10748 Rev 04/26
