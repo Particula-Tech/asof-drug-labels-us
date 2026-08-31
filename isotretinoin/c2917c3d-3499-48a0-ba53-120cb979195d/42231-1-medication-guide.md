@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Isotretinoin (EYE so TRET i noyn) Capsules, USP
+Isotretinoin (EYE so TRET i noyn) Capsules
 
 for oral use
 
@@ -300,4 +300,4 @@ Bridgewater, NJ 08807
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Rev.
-07-2026-06
+08-2026-06
