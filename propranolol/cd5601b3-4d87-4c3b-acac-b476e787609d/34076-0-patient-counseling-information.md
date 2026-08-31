@@ -5,10 +5,10 @@
 - •Inform patients or caregivers that there is a risk of hypoglycemia when INNOPRAN XL is given to patients who are fasting or who are vomiting.
   Instruct patients or caregivers how to monitor for signs of hypoglycemia [see Warnings and Precautions (5.4)].
 
-For further product information, please visit www.anipharmaceuticals.com or call 1-800-308-6755.
+For further product information, please visit www.anipharmaceuticals.com or call 1-855-204-1431.
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
 Innopran XL®, a DIFFUCAPS® drug delivery product manufactured by Adare Pharmaceuticals, Inc., Vandalia, OH 45377
 
-10045 Rev 06/23
+10045 Rev 04/26
