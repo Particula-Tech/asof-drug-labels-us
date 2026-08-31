@@ -19,3 +19,13 @@ Pharmacist: Please Dispense with Patient Information Leaflet Provided Separately
 200 Tablets
 
 Rx only
+
+NDC 23155-530-05
+
+Trospium Chloride Tablets, USP 20 mg
+
+Pharmacist: Please Dispense with Patient Information Leaflet Provided Separately to Each Patient.
+
+500 Tablets
+
+Rx Only

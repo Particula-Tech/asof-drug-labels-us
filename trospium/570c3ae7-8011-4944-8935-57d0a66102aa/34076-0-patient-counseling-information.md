@@ -30,7 +30,7 @@ Patients should be informed that the most common side effects with trospium chlo
 Because anticholinergics, such as trospium chloride, may produce dizziness or blurred vision, patients should be advised to exercise caution in decisions to engage in potentially dangerous activities until the drug's effects have been determined.
 Patients should be informed that alcohol may enhance the drowsiness caused by anticholinergic agents.
 
-+SANCUTURA XR® is a registered trademark by Allergan Inc. for Trospium Chloride Extended-Release Capsules, 60 mg.
++SANCTURA XR® is a registered trademark by Allergan Inc. for Trospium Chloride Extended-Release Capsules, 60 mg.
 
 ++Glucophage® is a registered trade mark by Bristol Meyers Squibb for Metformin Hydrochloride Tablets.
 
@@ -161,7 +161,5 @@ Avet Pharmaceuticals Inc.
 East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
-
-51U000000240US06
 
 Revised:10/2021
