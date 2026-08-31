@@ -37,6 +37,4 @@ ScieGen Pharmaceuticals, Inc.
 
 Hauppauge, NY 11788 USA
 
-Dispense the Patient Information available at: https://sciegenpharm.com/medication-guide/
-
-Rev: 3/2026
+Revised: 5/2026

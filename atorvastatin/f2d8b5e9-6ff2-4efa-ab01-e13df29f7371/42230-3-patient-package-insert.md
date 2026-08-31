@@ -26,4 +26,4 @@
 | Active ingredient:atorvastatin calcium, USP |  |  |  |
 | Inactive ingredients: lactose monohydrate, NF; colloidal silicon dioxide, NF; copovidone, NF; croscarmellose sodium, NF; magnesium stearate, NF; mannitol, USP; silicified microcrystalline cellulose, NF; sodium bicarbonate, USP; sodium carbonate anhydrous, NF; sodium lauryl sulfate, NF; hypromellose, polyethylene glycol, talc, titanium dioxide, and iron oxide yellow. |  |  |  |
 | Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA |  |  |  |
-| Dispense the Patient Information available at: https://sciegenpharm.com/medication-guide/ Rev: 9/2025 |  |  |  |
+| Revised: 5/2026 |  |  |  |
