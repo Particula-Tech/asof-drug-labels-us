@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA221104"
+  ],
+  "inn": "bictegravir",
+  "labeler": "Gilead Sciences, Inc.",
+  "package_ndcs": [
+    "61958-3601-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "bictegravir/lenacapavir",
+      "name": "BIXLENVO"
+    }
+  ],
+  "setid": "072a3c7e-33fb-4a87-ba21-3d8dad3f5c48",
+  "source": "dailymed"
+}
