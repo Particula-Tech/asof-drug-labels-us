@@ -37,6 +37,7 @@ Conversion From Other Opioids to DILAUDID INJECTION:
 
 There is inter-patient variability in the potency of opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of DILAUDID INJECTION.
+
 It is safer to underestimate a patient's 24-hour DILAUDID INJECTION dosage than to overestimate the 24-hour DILAUDID INJECTION dosage and manage an adverse reaction due to overdose.
 
 If the decision is made to convert to Hydromorphone Hydrochloride Injection from another opioid analgesic using publicly available data, convert the current total daily amount(s) of opioid(s) received to an equivalent total daily dose of DILAUDID INJECTION and reduce by one-half due to the possibility of incomplete cross tolerance.
@@ -66,4 +67,5 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 When a patient who has been taking DILAUDID INJECTION regularly and may be physically dependent no longer requires therapy with DILAUDID INJECTION, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue DILAUDID INJECTION in a physically-dependent patient [see Warnings and Precautions (5.12), Drug Abuse and Dependence (9.3)].
+Do not rapidly reduce or abruptly discontinue DILAUDID INJECTION in patients who may be physically dependent on opioids.
+[see Warnings and Precautions (5.12), Drug Abuse and Dependence (9.3)].

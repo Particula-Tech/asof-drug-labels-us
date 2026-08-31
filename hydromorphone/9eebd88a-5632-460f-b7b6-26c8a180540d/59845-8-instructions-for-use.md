@@ -46,8 +46,8 @@ Lake Zurich, IL 60047
 
 www.fresenius-kabi.com/us
 
-451594C
+451594D
 
 Dilaudid is a licensed trademark of Purdue Pharma L.P.
 
-U.S. Patents 9,731,082 and 10,064,998
+U.S. Patents 9731082, 10661018, 11426522, 10064998, 10792431, 10814059, and 11400206
