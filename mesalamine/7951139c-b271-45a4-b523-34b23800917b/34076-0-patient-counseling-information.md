@@ -47,7 +47,7 @@ Inform patients with phenylketonuria (PKU) or their caregivers that each APRISO 
 Blood Disorders
 
 Inform elderly patients and those taking azathioprine or 6-mercaptopurine of the risk for blood disorders and the need for periodic monitoring of complete blood cell counts and platelet counts while on therapy.
-Advise patients to complete all blood tests ordered by their healthcare provider [seeDrug Interactions(7.3), Use in Specific Populations(8.5)].
+Advise patients to complete all blood tests ordered by their healthcare provider [see Drug Interactions(7.3), Use in Specific Populations(8.5)].
 
 Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Patented.
 See https://patents.salix.com/for US patent information.

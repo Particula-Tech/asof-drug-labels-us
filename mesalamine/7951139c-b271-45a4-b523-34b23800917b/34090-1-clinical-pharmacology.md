@@ -43,7 +43,7 @@ The effect of a high fat meal intake on absorption of mesalamine granules (the s
 Subjects received 1.6 g of mesalamine granules in sachet (2 x 0.8 g) following an overnight fast or a high fat meal in a crossover study.
 Under fed conditions, T maxfor both 5-ASA and N‑Ac‑5-ASA was prolonged by 4 and 2 hours, respectively.
 A high fat meal did not affect C maxfor 5-ASA, but a 27% increase in the cumulative urinary excretion of 5-ASA was observed with a high fat meal.
-The overall extent of absorption of N‑Ac-5-ASA was not affected by a high fat meal [see Dosage and Administration (2)].
+The overall extent of absorption of N‑Ac-5-ASA was not affected by a high fat meal [seeDosage and Administration (2)].
 
 Distribution
 
