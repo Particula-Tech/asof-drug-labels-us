@@ -35,7 +35,7 @@ Adverse reactions are presented in Table 2.
 
 Table 2: Grades 3–4 Adverse Reactions Occurring at Higher Incidence (≥2%) in Patients Receiving Bevacizumab vs. Placebo in Study AVF2107g
 
-| Adverse ReactionNCI-CTC version 3 | Bevacizumab with IFL (N=392) | Placebo with IFL (N=396) |
+| Adverse Reaction NCI-CTC version 3 | Bevacizumab with IFL (N=392) | Placebo with IFL (N=396) |
 | --- | --- | --- |
 | Hematology |  |  |
 | Leukopenia | 37% | 31% |
@@ -90,12 +90,12 @@ Patients who had undergone a nephrectomy were randomized (1:1) to receive either
 Patients were treated until disease progression or unacceptable toxicity.
 The demographics of the safety population were similar to the demographics of the efficacy population.
 
-Grades 3–5 adverse reactions occurring at a higher incidence (>2%) were fatigue (13% vs. 8%), asthenia (10% vs. 7%), proteinuria (7% vs. 0%), hypertension (6% vs. 1%; including hypertension and hypertensive crisis), and hemorrhage (3% vs. 0.3%; including epistaxis, small intestinal hemorrhage, aneurysm ruptured, gastric ulcer hemorrhage, gingival bleeding, hemoptysis, hemorrhage intracranial, large intestinal hemorrhage, respiratory tract hemorrhage, and traumatic hematoma).
+Grades 35 adverse reactions occurring at a higher incidence (>2%) were fatigue (13% vs. 8%), asthenia (10% vs. 7%), proteinuria (7% vs. 0%), hypertension (6% vs. 1%; including hypertension and hypertensive crisis), and hemorrhage (3% vs. 0.3%; including epistaxis, small intestinal hemorrhage, aneurysm ruptured, gastric ulcer hemorrhage, gingival bleeding, hemoptysis, hemorrhage intracranial, large intestinal hemorrhage, respiratory tract hemorrhage, and traumatic hematoma).
 Adverse reactions are presented in Table 3.
 
-Table 3: Grades 1–5 Adverse Reactions Occurring at Higher Incidence (≥5%) of Patients Receiving Bevacizumab vs. Placebo with Interferon Alfa in Study BO17705
+Table 3: Grades 15 Adverse Reactions Occurring at Higher Incidence (5%) of Patients Receiving Bevacizumab vs. Placebo with Interferon Alfa in Study BO17705
 
-| Adverse Reaction* | Bevacizumab with Interferon Alfa (N=337) | Placebo with Interferon Alfa (N=304) |
+| Adverse Reaction NCI-CTC version 3 | Bevacizumab with Interferon Alfa (N=337) | Placebo with Interferon Alfa (N=304) |
 | --- | --- | --- |
 | Metabolism and nutrition |  |  |
 | Decreased appetite | 36% | 31% |
@@ -125,12 +125,12 @@ The safety of bevacizumab was evaluated in 218 patients who received at least on
 Patients were randomized (1:1:1:1) to receive paclitaxel and cisplatin with or without bevacizumab (15 mg/kg every 3 weeks), or paclitaxel and topotecan with or without bevacizumab (15 mg/kg every 3 weeks).
 The demographics of the safety population were similar to the demographics of the efficacy population.
 
-Grades 3–4 adverse reactions occurring at a higher incidence (≥2%) in 218 patients receiving bevacizumab with chemotherapy compared to 222 patients receiving chemotherapy alone were abdominal pain (12% vs. 10%), hypertension (11% vs. 0.5%), thrombosis (8% vs. 3%), diarrhea (6% vs. 3%), anal fistula (4% vs. 0%), proctalgia (3% vs. 0%), urinary tract infection (8% vs. 6%), cellulitis (3% vs. 0.5%), fatigue (14% vs. 10%), hypokalemia (7% vs. 4%), hyponatremia (4% vs. 1%), dehydration (4% vs. 0.5%), neutropenia (8% vs. 4%), lymphopenia (6% vs. 3%), back pain (6% vs. 3%), and pelvic pain (6% vs. 1%).
+Grades 34 adverse reactions occurring at a higher incidence (2%) in 218 patients receiving bevacizumab with chemotherapy compared to 222 patients receiving chemotherapy alone were abdominal pain (12% vs. 10%), hypertension (11% vs. 0.5%), thrombosis (8% vs. 3%), diarrhea (6% vs. 3%), anal fistula (4% vs. 0%), proctalgia (3% vs. 0%), urinary tract infection (8% vs. 6%), cellulitis (3% vs. 0.5%), fatigue (14% vs. 10%), hypokalemia (7% vs. 4%), hyponatremia (4% vs. 1%), dehydration (4% vs. 0.5%), neutropenia (8% vs. 4%), lymphopenia (6% vs. 3%), back pain (6% vs. 3%), and pelvic pain (6% vs. 1%).
 Adverse reactions are presented in Table 4.
 
-Table 4: Grades 1–4 Adverse Reactions Occurring at Higher Incidence (≥ 5%) in Patients Receiving Bevacizumab with Chemotherapy vs. Chemotherapy Alone in Study GOG-0240
+Table 4: Grades 14 Adverse Reactions Occurring at Higher Incidence (5%) in Patients Receiving Bevacizumab with Chemotherapy vs. Chemotherapy Alone in Study GOG-0240
 
-| Adverse Reaction* | Bevacizumab with Chemotherapy (N=218) | Chemotherapy (N=222) |
+| Adverse Reaction NCI-CTC version 3 | Bevacizumab with Chemotherapy (N=218) | Chemotherapy (N=222) |
 | --- | --- | --- |
 | General |  |  |
 | Fatigue | 80% | 75% |
@@ -168,7 +168,7 @@ Table 4: Grades 1–4 Adverse Reactions Occurring at Higher Incidence (≥ 5%) i
 | Neutropenia | 12% | 6% |
 | Lymphopenia | 12% | 5% |
 
-Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer
+Epithelial Ovarian, Fallopian Tube or Primary Peritoneal Cancer
 
 Stage III or IV Following Initial Surgical Resection
 
@@ -178,12 +178,12 @@ Bevacizumab was given at 15 mg/kg every three weeks.
 On this trial, 1215 patients received at least one dose of bevacizumab.
 The demographics of the safety population were similar to the demographics of the efficacy population.
 
-Grades 3-4 adverse reactions occurring at a higher incidence (2%) in either of the bevacizumab arms versus the control arm were fatigue (CPB15+ -9%, CPB15 -6%, CPP -6%), hypertension (CPB15+ -10%, CPB15 -6%,CPP -2%), thrombocytopenia (CPB15+ -21%, CPB15 -20%, CPP -15%) and leukopenia (CPB15+ -51%,CPB15 -53%, CPP -50%).
+Grades 3-4 adverse reactions occurring at a higher incidence (≥ 2%) in either of the bevacizumab arms versus the control arm were fatigue (CPB15+ -9%, CPB15 -6%, CPP -6%), hypertension (CPB15+ -10%, CPB15 -6%,CPP -2%), thrombocytopenia (CPB15+ -21%, CPB15 -20%, CPP -15%) and leukopenia (CPB15+ -51%,CPB15 -53%, CPP -50%).
 Adverse reactions are presented in Table 5.
 
-Table 5: Grades 1–5 Adverse Reactions Occurring at Higher Incidence (≥ 5%) in Patients Receiving Bevacizumab with Chemotherapy vs. Chemotherapy Alone in Study GOG-0218
+Table 5: Grades 1–5 Adverse Reactions Occurring at Higher Incidence (≥ 5%) in Patients Receiving Bevacizumab with Chemotherapy vs. Chemotherapy Alone in GOG-0218
 
-| Adverse ReactionNCI-CTC version 3 | Bevacizumab with carboplatin and paclitaxel followed by bevacizumab aloneCPB15+ (N=608) | Bevacizumab with carboplatin and paclitaxelCPB15 (N=607) | Carboplatin and paclitaxelCPP (N=602) |
+| Adverse Reaction NCI-CTC version 3 | Bevacizumab with carboplatin and paclitaxel followed by bevacizumab alone CPB15+ (N=608) | Bevacizumab with carboplatin and paclitaxel CPB15 (N=607) | Carboplatin and paclitaxel CPP (N=602) |
 | --- | --- | --- | --- |
 | General |  |  |  |
 | Fatigue | 80% | 72% | 73% |
@@ -207,7 +207,7 @@ Table 5: Grades 1–5 Adverse Reactions Occurring at Higher Incidence (≥ 5%) i
 
 Platinum-Resistant Recurrent Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer
 
-The safety of bevacizumab was evaluated in 179 patients who received at least one dose of bevacizumab in a multicenter, open-label study (MO22224) in which patients were randomized (1:1) to bevacizumab with chemotherapy or chemotherapy alone in patients with platinum resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer that recurred within <6 months from the most recent platinum based therapy [see Clinical Studies (14.8)].
+The safety of bevacizumab was evaluated in 179 patients who received at least one dose of bevacizumab in a multicenter, open-label study (MO22224) in which patients were randomized (1:1) to bevacizumab with chemotherapy or chemotherapy alone in patients with platinum resistant, recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer that recurred within <6 months from the most recent platinum based therapy [see Clinical Studies (14.8)].
 Patients were randomized to receive bevacizumab 10 mg/kg every 2 weeks or 15 mg/kg every 3 weeks.
 Patients had received no more than 2 prior chemotherapy regimens.
 The trial excluded patients with evidence of recto-sigmoid involvement by pelvic examination or bowel involvement on CT scan or clinical symptoms of bowel obstruction.
@@ -220,7 +220,7 @@ Adverse reactions are presented in Table 6.
 
 Table 6: Grades 2–4 Adverse Reactions Occurring at Higher Incidence (≥ 5%) in Patients Receiving Bevacizumab with Chemotherapy vs. Chemotherapy Alone in Study MO22224
 
-| Adverse ReactionNCI-CTC version 3 | Bevacizumab with Chemotherapy (N=179) | Chemotherapy (N=181) |
+| Adverse Reaction NCI-CTC version 3 | Bevacizumab with Chemotherapy (N=179) | Chemotherapy (N=181) |
 | --- | --- | --- |
 | Hematology |  |  |
 | Neutropenia | 31% | 25% |
@@ -252,7 +252,7 @@ Adverse reactions are presented in Table 7.
 
 Table 7: Grades 1–5 Adverse Reactions Occurring at Higher Incidence (≥ 5%) in Patients Receiving Bevacizumab with Chemotherapy vs. Placebo with Chemotherapy in Study AVF4095g
 
-| Adverse ReactionNCI-CTC version 3 | Bevacizumab with Carboplatin and Gemcitabine (N=247) | Placebo with Carboplatin and Gemcitabine (N=233) |
+| Adverse Reaction NCI-CTC version 3 | Bevacizumab with Carboplatin and Gemcitabine (N=247) | Placebo with Carboplatin and Gemcitabine (N=233) |
 | --- | --- | --- |
 | General |  |  |
 | Fatigue | 82% | 75% |
@@ -301,7 +301,7 @@ Adverse reactions are presented in Table 8.
 
 Table 8: Grades 1–5 Adverse Reactions Occurring at Higher Incidence (≥ 5%) in Patients Receiving Bevacizumab with Chemotherapy vs. Chemotherapy Alone in Study GOG-0213
 
-| Adverse ReactionNCI-CTC version 3 | Bevacizumab with Carboplatin and Paclitaxel (N=325) | Carboplatin and Paclitaxel (N=332) |
+| Adverse Reaction NCI-CTC version 3 | Bevacizumab with Carboplatin and Paclitaxel (N=325) | Carboplatin and Paclitaxel (N=332) |
 | --- | --- | --- |
 | Musculoskeletal and connective tissue |  |  |
 | Arthralgia | 45% | 30% |
@@ -363,23 +363,23 @@ The clinical significance of these anti-bevacizumab antibodies is not known.
 
 ## 6.3 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of bevacizumab.
+The following adverse reactions have been identified during postapproval use of bevacizumab products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-General: Polyserositis
+General:Polyserositis
 
-Cardiovascular: Pulmonary hypertension, Mesenteric venous occlusion
+Cardiovascular:Pulmonary hypertension, Mesenteric venous occlusion
 
-Gastrointestinal: Gastrointestinal ulcer, Intestinal necrosis, Anastomotic ulceration
+Gastrointestinal:Gastrointestinal ulcer, Intestinal necrosis, Anastomotic ulceration
 
-Hemic and lymphatic: Pancytopenia
+Hemic and lymphatic:Pancytopenia
 
-Hepatobiliary disorders: Gallbladder perforation
+Hepatobiliary disorders:Gallbladder perforation
 
-Musculoskeletal and Connective Tissue Disorders: Osteonecrosis of the jaw
+Musculoskeletal and Connective Tissue Disorders:Osteonecrosis of the jaw
 
-Renal: Renal thrombotic microangiopathy (manifested as severe proteinuria)
+Renal:Renal thrombotic microangiopathy (manifested as severe proteinuria)
 
-Respiratory: Nasal septum perforation
+Respiratory:Nasal septum perforation
 
-Vascular: Arterial (including aortic) aneurysms, dissections, and rupture
+Vascular:Arterial (including aortic) aneurysms, dissections, and rupture

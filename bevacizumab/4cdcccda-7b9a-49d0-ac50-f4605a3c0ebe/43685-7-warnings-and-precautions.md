@@ -68,7 +68,7 @@ Continue to monitor blood pressure at regular intervals in patients with VEGZELM
 Withhold VEGZELMA in patients with severe hypertension that is not controlled with medical management; resume once controlled with medical management.
 Discontinue in patients who develop hypertensive crisis or hypertensive encephalopathy.
 
-## 5.7 Posterior Reversible Encephalopathy Syndrome
+## 5.7 Posterior Reversible Encephalopathy Syndrome (PRES)
 
 Posterior reversible encephalopathy syndrome (PRES) was reported in <0.5% of patients across clinical studies.
 The onset of symptoms occurred from 16 hours to 1 year after the first dose.
@@ -109,7 +109,7 @@ Data from a postmarketing safety study showed poor correlation between UPCR (Uri
 
 ## 5.9 Infusion-Related Reactions
 
-Infusion-related reactions reported across clinical studies and postmarketing experience include hypertension, hypertensive crises associated with neurologic signs and symptoms, wheezing, oxygen desaturation, Grade 3 hypersensitivity, anaphylatoid/anaphylactic reacionts, chest pain, headaches, rigors, and diaphoresis.
+Infusion-related reactions reported across clinical studies and postmarketing experience include hypertension, hypertensive crises associated with neurologic signs and symptoms, wheezing, oxygen desaturation, Grade 3 hypersensitivity, anaphylactoid/anaphylactic reactions, chest pain, headaches, rigors, and diaphoresis.
 In clinical studies, infusion-related reactions with the first dose occurred in <3% of patients and severe reactions occurred in 0.4% of patients.
 
 Decrease the rate of infusion for mild, clinically insignificant infusion-related reactions.
@@ -133,7 +133,7 @@ Recovery of ovarian function is defined as resumption of menses, a positive seru
 Long-term effects of bevacizumab products on fertility are unknown.
 Inform females of reproductive potential of the risk of ovarian failure prior to initiating VEGZELMA [see Adverse Reactions (6.1), Use in Specific Populations (8.3)].
 
-## 5.12 Congestive Heart Failure (CHF)
+## 5.12 Congestive Heart Failure
 
 VEGZELMA is not indicated for use with anthracycline-based chemotherapy.
 The incidence of Grade ≥3 left ventricular dysfunction was 1% in patients receiving bevacizumab compared to 0.6% of patients receiving chemotherapy alone.

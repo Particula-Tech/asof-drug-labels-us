@@ -28,6 +28,6 @@ VEGZELMA, in combination with paclitaxel and cisplatin or paclitaxel and topotec
 
 VEGZELMA, in combination with carboplatin and paclitaxel, followed by VEGZELMA as a single agent, is indicated for the treatment of patients with stage III or IV epithelial ovarian, fallopian tube, or primary peritoneal cancer following initial surgical resection.
 
-VEGZELMA, in combination with paclitaxel, pegylated liposomal doxorubicin, or topotecan, is indicated for the treatment of patients with platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who received no more than 2 prior chemotherapy regimens.
+VEGZELMA, in combination with paclitaxel, pegylated liposomal doxorubicin, or topotecan, is indicated for the treatment of patients with platinum-resistant recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer who received no more than 2 prior chemotherapy regimens.
 
 VEGZELMA, in combination with carboplatin and paclitaxel, or with carboplatin and gemcitabine, followed by VEGZELMA as a single agent, is indicated for the treatment of patients with platinum-sensitive recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer.

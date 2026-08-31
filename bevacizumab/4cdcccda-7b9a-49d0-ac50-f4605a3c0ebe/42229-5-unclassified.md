@@ -1,4 +1,4 @@
-Vegzelma® (bevacizumab-adcd) Manufactured by CELLTRION, Inc. 20, Academy-ro Yeonsu-gu, Incheon 22014, Republic of Korea US License No.: 1996
+Vegzelma ® (bevacizumab-adcd) Manufactured by CELLTRION, Inc. 20, Academy-ro Yeonsu-gu, Incheon 22014, Republic of Korea US License No.: 1996
 
 Distributed by CELLTRION USA, Inc.
 

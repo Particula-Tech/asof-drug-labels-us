@@ -29,7 +29,7 @@ The recommended dosage is 10 mg/kg intravenously every 2 weeks in combination wi
 
 The recommended dosage is 15 mg/kg intravenously every 3 weeks in combination with paclitaxel and cisplatin or in combination with paclitaxel and topotecan.
 
-## 2.7 Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer
+## 2.7 Epithelial Ovarian, Fallopian Tube or Primary Peritoneal Cancer
 
 Stage III or IV Disease Following Initial Surgical Resection
 
@@ -51,8 +51,7 @@ The recommended dosage is 15 mg/kg intravenously every 3 weeks, in combination w
 
 ## 2.8 Dosage Modifications for Adverse Reactions
 
-Table 1 describes dosage modifications for specific adverse reactions.
-No dose reductions for VEGZELMA are recommended.
+Table 1 describes dosage modifications for specific adverse reactions.No dose reductions for VEGZELMA are recommended.
 
 Table 1: Dosage Modifications for Adverse Reactions
 
@@ -82,12 +81,12 @@ Preparation
 - Use appropriate aseptic technique.
 - Use sterile needle and syringe to prepare VEGZELMA.
 - Visually inspect vial for particulate matter and discoloration prior to preparation for administration.
-  Discard vial if solution is cloudy, discolored, or contains particulate matter.
+  Discard vial if solution is cloudy, discolored or contains particulate matter.
 - Withdraw necessary amount of VEGZELMA and dilute in a total volume of 100 mL of 0.9% Sodium Chloride Injection, USP.
   DO NOT ADMINISTER OR MIX WITH DEXTROSE SOLUTION.
 - Discard any unused portion left in a vial, as the product contains no preservatives.
 - Diluted VEGZELMA solution may be stored at 2°C to 8°C (36°F to 46°F) for up to 24 hours, or at room temperature up to 30°C (86°F) for up to 4 hours, if not used immediately.
-- No incompatibilities between VEGZELMA and polyolefin (polypropylene and polyethylene) bag have been observed.
+- No incompatibilities between VEGZELMA and polyolefin (polypropylene and polyethylene) bags have been observed.
 
 Administration
 

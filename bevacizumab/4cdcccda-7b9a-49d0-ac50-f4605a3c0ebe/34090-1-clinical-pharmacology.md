@@ -12,7 +12,7 @@ The pharmacokinetic profile of bevacizumab was assessed using an assay that meas
 Based on a population pharmacokinetic analysis of 491 patients who received 1 to 20 mg/kg of bevacizumab every week, every 2 weeks, or every 3 weeks, bevacizumab pharmacokinetics are linear and the predicted time to reach more than 90% of steady state concentration is 84 days.
 The accumulation ratio following a dose of 10 mg/kg of bevacizumab once every 2 weeks is 2.8.
 
-Population simulations of bevacizumab exposures provide a median trough concentration of 80.3 mcg/mL on Day 84 (10th, 90th percentile: 45, 128) following a dose of 5 mg/kg once every two weeks.
+Population simulations of bevacizumab exposures provide a median trough concentration of 80.3 mcg/mL on Day 84 (10 th, 90 thpercentile: 45, 128) following a dose of 5 mg/kg once every two weeks.
 
 Distribution
 
