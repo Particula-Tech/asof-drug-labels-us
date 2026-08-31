@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA219254"
+  ],
+  "inn": "deflazacort",
+  "labeler": "Doppel Farmaceutici S.r.l.",
+  "package_ndcs": [
+    "81806-204-10",
+    "81806-206-30",
+    "81806-207-30",
+    "81806-208-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "deflazacort",
+      "name": "Deflazacort"
+    }
+  ],
+  "setid": "34a03eb7-74f5-4471-e063-6394a90aca63",
+  "source": "dailymed"
+}
