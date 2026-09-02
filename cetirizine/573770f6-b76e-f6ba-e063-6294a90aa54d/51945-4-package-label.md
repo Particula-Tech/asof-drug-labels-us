@@ -1,6 +1,6 @@
 Principal Display Panel – Carton Label
 
-NDC 68118-100-25
+NDC 68118-200-25
 
 Quzyttir®
 
@@ -22,7 +22,7 @@ Rx only
 
 Principal Display Panel – Carton Label
 
-NDC 68118-100-10 Rx only
+NDC 68118-200-10 Rx only
 
 Quzyttir®
 
@@ -38,7 +38,7 @@ Single-Dose Vial - Discard Unused Portion
 
 Principal Display Panel – Vial Label
 
-NDC 68118-100-02
+NDC 68118-200-01
 
 Quzyttir®
 
