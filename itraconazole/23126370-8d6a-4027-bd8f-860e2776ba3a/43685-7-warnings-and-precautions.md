@@ -61,13 +61,13 @@ Only the Oral Solution has been demonstrated effective for oral and/or esophagea
 ## General:
 
 Itraconazole capsules should be administered after a full meal.
-(See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism).
+(See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism.)
 
 Under fasted conditions, itraconazole absorption was decreased in the presence of decreased gastric acidity.
 The absorption of itraconazole may be decreased with the concomitant administration of antacids or gastric acid secretion suppressors.
 Studies conducted under fasted conditions demonstrated that administration with 8 ounces of a non-diet cola beverage resulted in increased absorption of itraconazole in AIDS patients with relative or absolute achlorhydria.
 This increase relative to the effects of a full meal is unknown.
-(See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism).
+(See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism.)
 
 Hepatotoxicity: Rare cases of serious hepatotoxicity have been observed with itraconazole treatment, including some cases within the first week.
 It is recommended that liver function monitoring be considered in all patients receiving itraconazole.
@@ -82,7 +82,8 @@ Cystic Fibrosis: If a cystic fibrosis patient does not respond to itraconazole c
 For more information concerning the use of itraconazole in cystic fibrosis patients see the prescribing information for itraconazole Oral Solution.
 
 Hearing Loss: Transient or permanent hearing loss has been reported in patients receiving treatment with itraconazole.
-Several of these reports included concurrent administration of quinidine which is contraindicated (See BOXED WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactions and PRECAUTIONS: Drug Interactions).
+Several of these reports included concurrent administration of quinidine which is contraindicated.
+(See BOXED WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactions and PRECAUTIONS: Drug Interactions.)
 The hearing loss usually resolves when treatment is stopped, but can persist in some patients.
 
 ## Information for Patients:
@@ -113,7 +114,7 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 
 | Table 1:Drug Interactions with Itraconazole that Affect Concomitant Drug Concentrations |  |  |
 | --- | --- | --- |
-| Examples of Concomitant Drugs Within Class |  | Prevention or Management |
+| Examples ofConcomitant Drugs Within Class |  | Prevention or Management |
 | Drug Interactions with Itraconazole that Increase Concomitant Drug Concentrations and May Increase Risk of Adverse Reactions Associated with the Concomitant Drug |  |  |
 | Alpha Blockers |  |  |
 | Alfuzosin Silodosin Tamsulosin |  | Not recommended during and 2 weeks after itraconazole treatment. |
@@ -148,10 +149,10 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 | Irinotecan |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Venetoclax |  | Contraindicated during the dose initiation and ramp-up phase in patients with CLL/SLL. Refer to the venetoclax prescribing information for dosing and safety monitoring instructions. |
 | Mobocertiniba |  | Avoid use during and 2weeks after itraconazole treatment. |
-| Docetaxel Axitinib Ibrutinib Bosutinib Lapatinib Cabazitaxel Nilotinib Cabozantinib Olapariba Ceritinib Pazopanib Cobimetiniba Sunitinib Crizotinib Trabectedin Dabrafenib Trastuzumab­ Dasatinib emtansine Vinca alkaloids |  | Avoid use during and 2 weeks after itraconazole treatment. |
+| Docetaxel Axitinib Ibrutinib BosutinibLapatinib CabazitaxelNilotinib Cabozantinib Olapariba CeritinibPazopanib Cobimetiniba Sunitinib CrizotinibTrabectedin Dabrafenib Trastuzumab­ Dasatinibemtansine Vinca alkaloids |  | Avoid use during and 2 weeks after itraconazole treatment. |
 | Entrectiniba Pemigatiniba Talazopariba |  | Refer to the entrectinib, pemigatinib and talazoparib prescribing information for dosing instructions if concomitant use cannot be avoided. |
 | Glasdegib |  | Refer to the glasdegib prescribing information for safety monitoring if concomitant use cannot be avoided. |
-| Bortezomib Nintedanib Brentuximab- Panobinostat vedotin Ponatinib Busulfana Ruxolitinib Erlotinib Sonidegib Gefitinibb Tretinoin (oral) Idelalisib Vandetaniba ImatinibIxabepilone |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For idelalisib, see also Table 2. |
+| Bortezomib Nintedanib Brentuximab- Panobinostat vedotin Ponatinib Busulfana Ruxolitinib Erlotinib Sonidegib Gefitinibb Tretinoin (oral) IdelalisibVandetaniba ImatinibIxabepilone |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For idelalisib, see also Table 2. |
 | Antipsychotics, Anxiolytics and Hypnotics |  |  |
 | Alprazolama Midazolam (IV) a Aripiprazolea Quetiapine Buspironea Cariprazine Ramelteon Diazepama Risperidonea Haloperidola Suvorexant |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Zopiclonea |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
@@ -165,6 +166,8 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 | Calcium Channel Blockers |  |  |
 | Felodipinea Nisoldipine |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Diltiazem Other dihydropyridines Verapamil |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For diltiazem, see also Table 2. |
+| Cardiac Myosin Inhibitor |  |  |
+| Mavacamten |  | Refer to the mavacamten prescribing information for detailed guidance including dosing and safety monitoring. |
 | Cardiovascular Drugs, Miscellaneous |  |  |
 | Ivabradine Ranolazine |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Aliskirena Riociguat Sildenafil (for pulmonary hypertension) Tadalafil (for pulmonary hypertension) |  | Not recommended during and 2 weeks after itraconazole treatment. For sildenafil and tadalafil, see also Urologic Drugs below. |
@@ -180,7 +183,7 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 | Immunosuppressants |  |  |
 | Voclosporin |  | Contraindicated during and for 2 weeks after itraconazole treatment. |
 | Everolimus Sirolimus Temsirolimus (IV) |  | Not recommended during and 2 weeks after itraconazole treatment. |
-| Budesonide (inhalation) a Budesonide (non­-­­­inhalation) Ciclesonide (inhalation) Cyclosporine (IV) a Cyclosporine (non-IV) Dexamethasonea | Fluticasone (inhalation) a Fluticasone (nasal)Methylprednisolonea Tacrolimus (IV) a Tacrolimus (oral) | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Budesonide (inhalation) a Budesonide (non­-­­­inhalation) Ciclesonide (inhalation) Cyclosporine (IV) a Cyclosporine (non-IV) Dexamethasonea | Fluticasone (inhalation) aFluticasone (nasal)Methylprednisolonea Tacrolimus (IV) a Tacrolimus (oral) | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Lipid-Lowering Drugs |  |  |
 | Lomitapide Lovastatina Simvastatina |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Atorvastatina |  | Monitor for drug adverse reactions. Concomitant drug dose reduction may be necessary |
@@ -251,7 +254,7 @@ Although many of the clinical drug interactions in Table 2 are based on informat
 | Antivirals |  |
 | Efavirenza Nevirapinea | Not recommended 2 weeks before and during itraconazole treatment. |
 | Gastrointestinal Drugs |  |
-| Drugs that reduce gastric acidity e.g. acid neutralizing medicines such as aluminum hydroxide, or acid secretion suppressors such as H2-receptor antagonists and proton pump inhibitors. | Use with caution. Administer acid neutralizing medicines at least 2 hours before or 2 hours after the intake of itraconazole capsules. |
+| Drugs that reduce gastric acidity e.g., acid neutralizing medicines such as aluminum hydroxide, or acid secretion suppressors such as H2-receptor antagonists and proton pump inhibitors. | Use with caution. Administer acid neutralizing medicines at least 2 hours before or 2 hours after the intake of itraconazole capsules. |
 | Miscellaneous Drugs and Other Substances |  |
 | Lumacaftor/Ivacaftor | Not recommended 2 weeks before, during, and 2 weeks after itraconazole treatment. |
 
@@ -311,7 +314,8 @@ It is advised to use itraconazole capsules in these patients only if it is deter
 In general, it is recommended that the dose selection for an elderly patient should be taken into consideration, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 Transient or permanent hearing loss has been reported in elderly patients receiving treatment with itraconazole.
-Several of these reports included concurrent administration of quinidine which is contraindicated (See BOXED WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactions and PRECAUTIONS: Drug Interactions).
+Several of these reports included concurrent administration of quinidine which is contraindicated.
+(See BOXED WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactions and PRECAUTIONS: Drug Interactions.)
 
 ## HIV-Infected Patients:
 
