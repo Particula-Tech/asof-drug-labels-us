@@ -48,7 +48,7 @@ Table 4: Results at Week 40 in a Trial of MOUNJARO as Monotherapy in Adult Patie
 
 Add-on to metformin
 
-SURPASS-2 (NCT03987919) was a 40-week open-label trial (double-blind with respect to MOUNJARO dose assignment) that randomized 1879 adult patients with type 2 diabetes mellitus with inadequate glycemic control on stable doses of metformin alone to the addition of subcutaneous MOUNJARO 5 mg, MOUNJARO 10 mg, or MOUNJARO 15 mg once weekly or subcutaneous semaglutide 1 mg once weekly.
+SURPASS-2 (NCT03987919) was a 40-week open-label trial (double-blind with respect to MOUNJARO dose assignment) that randomized 1,879 adult patients with type 2 diabetes mellitus with inadequate glycemic control on stable doses of metformin alone to the addition of subcutaneous MOUNJARO 5 mg, MOUNJARO 10 mg, or MOUNJARO 15 mg once weekly or subcutaneous semaglutide 1 mg once weekly.
 
 Patients had a mean age of 57 years and 47% were men.
 The mean duration of type 2 diabetes mellitus was 8.6 years, and the mean BMI was 34 kg/m2.
@@ -94,7 +94,7 @@ Note: Displayed results are from modified Intent-to-Treat Full Analysis Set.
 
 Add-on to metformin with or without SGLT2 inhibitor
 
-SURPASS-3 (NCT03882970) was a 52-week open-label trial that randomized 1444 adult patients with type 2 diabetes mellitus with inadequate glycemic control on stable doses of metformin with or without SGLT2 inhibitor to the addition of subcutaneous MOUNJARO 5 mg, MOUNJARO 10 mg, MOUNJARO 15 mg once weekly, or insulin degludec 100 units/mL once daily.
+SURPASS-3 (NCT03882970) was a 52-week open-label trial that randomized 1,444 adult patients with type 2 diabetes mellitus with inadequate glycemic control on stable doses of metformin with or without SGLT2 inhibitor to the addition of subcutaneous MOUNJARO 5 mg, MOUNJARO 10 mg, MOUNJARO 15 mg once weekly, or insulin degludec 100 units/mL once daily.
 In this trial, 32% of patients were on SGLT2 inhibitor.
 Insulin degludec was initiated at 10 units once daily and adjusted weekly throughout the trial using a treat-to-target algorithm based on self-measured fasting blood glucose values.
 At Week 52, 26% of patients randomized to insulin degludec achieved the fasting serum glucose target of <90 mg/dL, and the mean daily insulin degludec dose was 49 U (0.5 U per kilogram).
@@ -129,12 +129,12 @@ Table 6: Results at Week 52 in a Trial of MOUNJARO versus Insulin Degludec in Ad
 
 Add-on to 1-3 oral anti-hyperglycemic agents (metformin, sulfonylurea, or SGLT-2 inhibitor)
 
-SURPASS-4 (NCT03730662) was a 104-week open-label trial (52-week primary endpoint) that randomized 2002 adult patients with type 2 diabetes mellitus with increased cardiovascular risk to subcutaneous MOUNJARO 5 mg, MOUNJARO 10 mg, MOUNJARO 15 mg once weekly, or insulin glargine 100 units/mL once daily (1:1:1:3 ratio) on a background of metformin (95%) and/or sulfonylureas (54%) and/or SGLT2 inhibitors (25%).
+SURPASS-4 (NCT03730662) was a 104-week open-label trial (52-week primary endpoint) that randomized 2002 adult patients with type 2 diabetes mellitus with increased CV risk to subcutaneous MOUNJARO 5 mg, MOUNJARO 10 mg, MOUNJARO 15 mg once weekly, or insulin glargine 100 units/mL once daily (1:1:1:3 ratio) on a background of metformin (95%) and/or sulfonylureas (54%) and/or SGLT2 inhibitors (25%).
 
 Patients had a mean age of 64 years, and 63% were men.
 The mean duration of type 2 diabetes mellitus was 11.8 years, and the mean baseline BMI was 33 kg/m2.
 Overall, 82% were White, 4% were Black or African American, and 4% were Asian; 48% identified as Hispanic or Latino ethnicity.
-Across all treatment groups, 87% had a history of cardiovascular disease.
+Across all treatment groups, 87% had a history of CV disease.
 At baseline, eGFR was ≥90 mL/min/1.73 m2 in 43%, 60 to 90 mL/min/1.73 m2 in 40%, 45 to 60 mL/min/1.73 m2 in 10%, and 30 to 45 mL/min/1.73 m2 in 6% of patients.
 
 Insulin glargine was initiated at 10 U once daily and adjusted weekly throughout the trial using a treat-to-target algorithm based on self-measured fasting blood glucose values.
@@ -236,3 +236,49 @@ Table 9: Results at Week 30 in a Trial of MOUNJARO Added to Metformin or Basal I
 | d Response in (%) is calculated by combining proportion of participants achieving target in imputed datasets using Rubin's rule. |  |  |  |  |
 | e p<0.01 (two-sided) for superiority versus placebo, adjusted for multiplicity. |  |  |  |  |
 | f Any missing values at baseline were imputed as missing at random. |  |  |  |  |
+
+## 14.6 Cardiovascular Outcomes Trial of MOUNJARO in Adults with Type 2 Diabetes Mellitus and Established Cardiovascular Disease
+
+SURPASS-CVOT (NCT04255433) was a Phase 3, event-driven, multicenter, international, randomized, double-blind, active comparator controlled, parallel-group study.
+In this trial, 13,299 patients with inadequately controlled type 2 diabetes mellitus and established CV disease were randomized to once weekly subcutaneous MOUNJARO (up to 15 mg) versus once weekly subcutaneous dulaglutide (1.5 mg), a GLP-1 receptor agonist indicated for glycemic control and to reduce the risk of major adverse cardiovascular events (MACE) in adults with type 2 diabetes mellitus who have established CV disease or multiple CV risk factors.
+MOUNJARO was initiated at a dosage of 2.5 mg once weekly and increased by 2.5 mg every 4 weeks to a maximum dosage of 15 mg once weekly or the maximum tolerated dose.
+The dose of dulaglutide was initiated and maintained at 1.5 mg once weekly.
+The primary endpoint was the time to first occurrence of a three-part composite MACE outcome of CV death, MI, or stroke (MACE-3).
+
+Patients eligible to enroll in the trial had type 2 diabetes mellitus and established CV disease, were 40 years of age or older, had a HbA1c of ≥7.0% and ≤10.5%, and a BMI ≥ 25 kg/m2.
+The mean age was 64 years, the mean duration of type 2 diabetes mellitus was 15 years, the mean HbA1c concentration was 8.4%, and the mean BMI was 33 kg/m2.
+Overall, 71% of patients enrolled were male; 82% were White, 2% were Black or African American, and 9% were Asian; 30% identified Hispanic or Latino ethnicity.
+
+Patients reported the following types of CV disease at baseline: coronary artery disease (65%); prior coronary revascularization (57%); prior MI (47%); peripheral arterial disease (25%); prior lower extremity arterial revascularization (6%); prior stroke (19%); prior carotid revascularization (3%); and prior heart failure (20%).
+Of patients enrolled in the study, 20% had diabetic neuropathy, 2% had proliferative diabetic retinopathy, and 29% had non-proliferative diabetic retinopathy.
+The percentage of patients with an eGFR < 60 mL/min/1.73 m2 was 23%.
+
+The most common antihyperglycemic medications taken at baseline were: metformin (81%), sodium-glucose cotransporter-2 (SGLT-2) inhibitors (31%), sulfonylureas (22%), and insulins (49%).
+At baseline CV disease and CV risk factors were managed with: statins (86%), antiplatelet therapies (83%), beta blockers (65%), angiotensin-converting enzyme (ACE) inhibitors (40%), and angiotensin receptor blockers (40%).
+During the trial, investigators were to modify anti-hyperglycemic and CV medications to achieve local standard of care treatment targets with respect to blood glucose, lipids, and blood pressure.
+
+Over a median follow-up of 210.1 weeks, MOUNJARO was non-inferior to dulaglutide for reducing the occurrence of MACE-3.
+The estimated hazard ratio for time to first MACE was 0.92 (95.3% CI: 0.83, 1.01) for MOUNJARO compared to dulaglutide.
+Superiority to dulaglutide was not established.
+In this trial, 98% of participants had a complete assessment for the primary endpoint and 99.7% had vital status established.
+Refer to Figure 3 and Table 10.
+
+Figure 3: Kaplan-Meier Curve: Time to First Occurrence of a MACE-3 (CV death, non-fatal MI, or non-fatal stroke) in the SURPASS-CVOT Trial
+
+Table 10: Treatment Effect for MACE and All Cause Death, All Randomized and Treated Participants, Median Study Observation Time 210.1 weeks
+
+|  | Dulaglutide N=6,647 (%) | MOUNJARO N=6,647 (%) | Hazard ratio vs Dulaglutide (95% CI) |
+| --- | --- | --- | --- |
+| MACE-3 (Composite of time to first occurrence of CV death, non-fatal MI, or non-fatal stroke)a,b,c | 863 (13.0) | 803 (12.1) | 0.92 (0.83, 1.01) |
+| CV Deathd | 409 (6.2) | 367 (5.5) | 0.89 (0.77, 1.02) |
+| Non-Fatal MId | 310 (4.7) | 292 (4.4) | 0.93 (0.80, 1.09) |
+| Non-Fatal Stroked | 221 (3.3) | 215 (3.2) | 0.97 (0.80, 1.16) |
+| Fatal or Non-Fatal MId | 358 (5.4) | 313 (4.7) | 0.87 (0.74, 1.01) |
+| Fatal or Non-Fatal Stroked | 249 (3.7) | 229 (3.4) | 0.91 (0.76, 1.09) |
+| All-Cause Deathd | 670 (10.1) | 567 (8.5) | 0.84 (0.75, 0.94) |
+| a 95.3% confidence interval for the MACE-3 composite endpoint of CV death, non-fatal MI, or non-fatal stroke |  |  |  |
+| b Cox-proportional hazards models with treatment as a factor and stratified for SGLT2i use. |  |  |  |
+| c p=0.007 for noninferiority of MOUNJARO to dulaglutide |  |  |  |
+| d Not controlled for family-wise type I error rate |  |  |  |
+
+Reductions from baseline in HbA1c and body weight were observed with MOUNJARO and dulaglutide treatment at Month 36.

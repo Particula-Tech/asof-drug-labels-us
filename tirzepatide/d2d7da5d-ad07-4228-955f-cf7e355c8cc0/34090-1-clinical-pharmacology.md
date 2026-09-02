@@ -32,7 +32,11 @@ Gastric Emptying
 
 Tirzepatide delays gastric emptying.
 The delay is largest after the first dose and this effect diminishes over time.
-Tirzepatide slows post-meal glucose absorption, reducing postprandial glucose.
+Tirzepatide slows post-meal glucose absorption and reduces postprandial glucose.
+
+Exposure-Response Relationships
+
+Exposure-response analyses integrating phase 2 and phase 3 efficacy data predict that after 52 weeks, tirzepatide 2.5 mg administered once weekly may reduce HbA1c by approximately 1.8% and fasting plasma glucose by approximately 43 mg/dL.
 
 ## 12.3 Pharmacokinetics
 

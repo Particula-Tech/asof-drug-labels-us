@@ -64,12 +64,12 @@ Advise patients using oral hormonal contraceptives to switch to a non-oral contr
 Administration
 
 Instruct patients how to prepare and administer the correct dose of MOUNJARO and assess their ability to inject subcutaneously to ensure the proper administration of MOUNJARO.
-Instruct patients using MOUNJARO vials to always use a new syringe and needle for each injection.
-Use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL or 0.6 mL dose).
-Notify the patient of which MOUNJARO presentation they will be receiving and ensure training is appropriate for the specific MOUNJARO presentation.
-Advise patients to refer to the IFU in case of any change in the presentation.
+Inform patients and their caregiver(s) which
+
+MOUNJARO presentation (e.g., single-dose pen or vial, multi-dose vial, single-patient use KwikPen) they will receive and ensure they receive training appropriate for that specific presentation.
+If the prescribed MOUNJARO presentation changes, ensure patients and caregivers receive appropriate training and instruct them to consult the Instructions for Use for the newly prescribed presentation.
 Advise caregivers that MOUNJARO KwikPen is not recommended for self-administration by pediatric patients or those with visual impairment unless their healthcare provider determines the patient can properly administer.
-[see Dosage and Administration (2.2)].
+Instruct patients using MOUNJARO vials to always use a new syringe and needle for each injection and to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL or 0.6 mL dose) [see Dosage and Administration (2.2)].
 
 Missed Doses
 
@@ -82,4 +82,4 @@ All rights reserved.
 
 Pat.: www.lilly.com/patents
 
-MOU-0011-USPI-20260422
+MOU-0012-USPI-20260827

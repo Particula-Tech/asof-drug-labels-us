@@ -45,7 +45,7 @@ MOUNJARO Single-dose Pen and Single-dose Vial
 
 - Store MOUNJARO single-dose pen and single-dose vial in a refrigerator at 2°C to 8°C (36°F to 46°F).
 - If needed, each single-dose pen or single-dose vial can be stored unrefrigerated at temperatures not to exceed 30°C (86°F) for up to a total of 21 days.
-- Discard single-dose pen and single-dose vial after a total of 21 days at room temperature.
+- Discard the single-dose pen or single-dose vial after a total of 21 days at room temperature.
 
 MOUNJARO Multi-dose Vial or Single-Patient-Use KwikPen
 
