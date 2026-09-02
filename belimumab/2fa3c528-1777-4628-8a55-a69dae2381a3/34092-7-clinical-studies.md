@@ -130,7 +130,7 @@ The major secondary endpoints also showed significant improvement with BENLYSTA 
 Table 7.
 Efficacy Results in Adult Subjects with Active Lupus Nephritis (Intravenous Treatment) (Trial 5)
 
-| Efficacy Endpointa | Placebo + Standard Therapy n = 223 | BENLYSTA + Standard Therapy n = 223 | Odds Ratio (OR) vs. Placebo (95% CI) |
+| Efficacy Endpointa | Placebo +Standard Therapyn = 223 | BENLYSTA +Standard Therapyn = 223 | Odds Ratio (OR) vs. Placebo(95% CI) |
 | --- | --- | --- | --- |
 | Primary Efficacy Renal Response (PERR) at Week 104b,c (responders) | 32% | 43% | 1.6(1.0, 2.3)P = 0.031 |
 | Components of PERR |  |  |  |
@@ -163,7 +163,7 @@ The same subjects may not have responded at each timepoint.
 In Trial 5, subjects who received BENLYSTA were significantly less likely to experience a renal-related event or death compared with placebo (Table 8).
 
 Table 8.
-Time to RenalRelated Event or Deatha in Adult Subjects with Active Lupus Nephritis (Intravenous Treatment) (Trial 5)
+Time to Renal-Related Event or Deatha in Adult Subjects with Active Lupus Nephritis (Intravenous Treatment) (Trial 5)
 
 |  | Placebo + Standard Therapy n = 223 | BENLYSTA + Standard Therapy n = 223 | Hazard Ratio (HR) vs. Placebo (95% CI) |
 | --- | --- | --- | --- |

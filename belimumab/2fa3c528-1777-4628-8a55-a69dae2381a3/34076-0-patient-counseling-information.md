@@ -20,14 +20,19 @@ Educate patients on the signs and symptoms of hypersensitivity reactions and inf
 Instruct patients to immediately tell their healthcare provider if they experience symptoms of an allergic reaction during or after the administration of BENLYSTA.
 Inform patients about possible delayed reactions that may include a combination of symptoms such as rash, nausea, fatigue, muscle aches, headache, and/or facial swelling that may occur after administration of BENLYSTA and advise them to contact their healthcare provider [see Warnings and Precautions (5.2)].
 
+Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis
+
+Advise patients about signs and symptoms of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN).
+Instruct patients to stop taking any further doses of BENLYSTA and immediately call their healthcare provider if they experience signs and symptoms suggestive of SJS/TEN [see Warnings and Precautions (5.3)].
+
 Depression and Suicidality
 
-Instruct patients (and caregivers if applicable) to contact their healthcare provider if they experience new or worsening depression, suicidal thoughts, or other mood changes [see Warnings and Precautions (5.3)].
+Instruct patients (and caregivers if applicable) to contact their healthcare provider if they experience new or worsening depression, suicidal thoughts, or other mood changes [see Warnings and Precautions (5.4)].
 
 Immunizations
 
 Inform patients that they should not receive live vaccines while taking BENLYSTA.
-Response to vaccinations could be impaired by BENLYSTA [see Warnings and Precautions (5.5)].
+Response to vaccinations could be impaired by BENLYSTA [see Warnings and Precautions (5.6)].
 
 Pregnancy Registry
 

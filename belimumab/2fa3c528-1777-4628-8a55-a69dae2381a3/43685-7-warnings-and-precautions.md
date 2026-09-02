@@ -36,14 +36,22 @@ Consider administering premedication as prophylaxis prior to intravenous dosing 
 
 Inform patients receiving BENLYSTA of the signs and symptoms of hypersensitivity reactions and instruct them to seek immediate medical care should a reaction occur.
 
-## 5.3 Depression and Suicidality
+## 5.3 Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis
+
+Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in patients treated with BENLYSTA.
+Monitor for and advise patients about signs and symptoms of SJS/TEN during treatment with BENLYSTA.
+Discontinue BENLYSTA immediately if signs or symptoms suggestive of SJS/TEN occur.
+Early consultation with a dermatologist or other appropriate specialist is recommended to ensure greater diagnostic accuracy and appropriate management.
+If the etiology is considered to be associated with BENLYSTA, permanently discontinue and do not reintroduce BENLYSTA [see Contraindications (4)].
+
+## 5.4 Depression and Suicidality
 
 In controlled clinical trials, depression and suicidality were reported in subjects receiving BENLYSTA [see Adverse Reactions (6.1)].
 Assess the risk of depression and suicide considering the patient’s medical history and current psychiatric status before treatment with BENLYSTA and continue to monitor patients during treatment.
 Instruct patients receiving BENLYSTA (and caregivers, if applicable) to contact their healthcare provider if they experience new or worsening depression, suicidal thoughts or behavior, or other mood changes.
 Consider the risk and benefit of continued treatment with BENLYSTA for patients who develop such symptoms.
 
-## 5.4 Malignancy
+## 5.5 Malignancy
 
 There is an increased risk of malignancies with the use of immunosuppressants.
 The impact of treatment with BENLYSTA on the development of malignancies is not known [see Adverse Reactions (6.1)].
@@ -51,13 +59,13 @@ The impact of treatment with BENLYSTA on the development of malignancies is not 
 Consider the individual benefit-risk in patients with known risk factors for the development or reoccurrence of malignancy prior to prescribing BENLYSTA.
 In patients who develop malignancies, consider the risk and benefit of continued treatment with BENLYSTA.
 
-## 5.5 Immunization
+## 5.6 Immunization
 
 Because of its mechanism of action, BENLYSTA may interfere with the response to immunizations.
 Live vaccines should not be given for 30 days before or concurrently with BENLYSTA as clinical safety has not been established.
 No data are available on the secondary transmission of infection from persons receiving live vaccines to patients receiving BENLYSTA or the effect of BENLYSTA on new immunizations.
 
-## 5.6 Concomitant Use with Other Biologic Therapies
+## 5.7 Concomitant Use with Other Biologic Therapies
 
 Available data do not support the safety and efficacy of concomitant use of BENLYSTA with rituximab in patients with SLE.
 An increased incidence of serious infections and post-injection systemic reactions in subjects receiving BENLYSTA concomitantly with rituximab compared to subjects receiving BENLYSTA alone has been observed [see Adverse Reactions (6.1)].

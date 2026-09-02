@@ -30,7 +30,7 @@ Passage of maternal autoantibodies across the placenta may result in adverse neo
 
 Fetal/Neonatal Adverse Reactions: Monoclonal antibodies are increasingly transported across the placenta as pregnancy progresses, with the largest amount transferred during the third trimester.
 Risks and benefits should be considered prior to administering live or live-attenuated vaccines to infants exposed to BENLYSTA in utero.
-Monitor an infant of a treated mother for B-cell reduction and other immune dysfunction [see Warnings and Precautions (5.5)].
+Monitor an infant of a treated mother for B-cell reduction and other immune dysfunction [see Warnings and Precautions (5.6)].
 
 Data
 

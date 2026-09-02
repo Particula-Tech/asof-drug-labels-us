@@ -4,8 +4,9 @@ The following serious adverse reactions are described below and in the Warnings 
 
 - •Serious Infections [see Warnings and Precautions (5.1)]
 - •Hypersensitivity Reactions, including Anaphylaxis [see Warnings and Precautions (5.2)]
-- •Depression and Suicidality [see Warnings and Precautions (5.3)]
-- •Malignancy [see Warnings and Precautions (5.4)]
+- •Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis [see Warnings and Precautions (5.3)]
+- •Depression and Suicidality [see Warnings and Precautions (5.4)]
+- •Malignancy [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -75,7 +76,7 @@ Serious psychiatric events were reported in 0.8% (12/1,458) of subjects receivin
 Serious depression was reported in 0.4% (6/1,458) of subjects receiving BENLYSTA and 0.1% (1/675) of subjects receiving placebo.
 Two suicides (0.1%) were reported in subjects receiving BENLYSTA (one with 10 mg/kg and one with 1 mg/kg).
 
-In a 52‑week postmarketing safety trial of BENLYSTA (N = 4,003), serious psychiatric events were reported in 1% (20/2,002) of subjects receiving BENLYSTA and 0.3% (6/2,001) of subjects receiving placebo.
+In a 52-week postmarketing safety trial of BENLYSTA (N = 4,003), serious psychiatric events were reported in 1% (20/2,002) of subjects receiving BENLYSTA and 0.3% (6/2,001) of subjects receiving placebo.
 Serious depression was reported in 0.3% (7/2,002) of subjects receiving BENLYSTA and in <0.1% (1/2,001) receiving placebo.
 The overall incidence of serious suicidal ideation or behavior or self‑injury without suicidal intent was 0.7% (15/2,002) of subjects receiving BENLYSTA and 0.2% (5/2,001) of subjects receiving placebo.
 On the Columbia‑Suicide Severity Rating Scale (C‑SSRS), 2.4% (48/1,974) of subjects receiving BENLYSTA reported suicidal ideation or behavior compared with 2% (39/1,988) of subjects receiving placebo.
@@ -86,7 +87,7 @@ The intravenous trials above did not exclude subjects with a history of psychiat
 Malignancy: In Trials 1, 2, and 3, malignancies (including non‑melanoma skin cancers) were reported in 0.4% of subjects receiving BENLYSTA and 0.4% of subjects receiving placebo.
 In the intravenous controlled clinical trials, malignancies, excluding non‑melanoma skin cancers, were observed in 0.2% (3/1,458) and 0.3% (2/675) of subjects receiving BENLYSTA and placebo, respectively.
 
-Intravenous Administration in Black/African‑American Subjects with Active SLE
+Intravenous Administration in Black/African-American Subjects with Active SLE
 
 The safety of BENLYSTA 10 mg/kg administered intravenously in adults plus standard therapy (n = 331) compared with placebo plus standard therapy (n = 165) in Black subjects with active SLE (Trial 4) was consistent with the known safety profile of BENLYSTA administered intravenously plus standard therapy in the overall population [see Clinical Studies (14.2)].
 
@@ -149,3 +150,4 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - •Fatal anaphylaxis [see Warnings and Precautions (5.2)].
+- •Stevens‑Johnson syndrome and toxic epidermal necrolysis [see Warnings and Precautions (5.3)].

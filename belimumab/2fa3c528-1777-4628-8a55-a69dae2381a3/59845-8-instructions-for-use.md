@@ -114,8 +114,11 @@ Clean the injection site
   See Figure G.
 
 - •Do not touch this area again before giving the injection.
-- Step 4 Prepare for the injection
-- Remove the Needle Cap
+
+Step 4 Prepare for the injection
+
+Remove the Needle Cap
+
 - •Do not remove the Needle Cap until right before you give the injection.
 - •Hold the prefilled syringe by the body and with the Needle facing away from you.
   Remove the Needle Cap by pulling it straight off.
