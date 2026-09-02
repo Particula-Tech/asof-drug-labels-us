@@ -25,9 +25,9 @@ Table 1:Recommended Dosage of Posaconazole Delayed-Release Tablets in Adult Pati
 | Dosage | Duration of Therapy |
 | Posaconazole Delayed-Release Tablets:Loading dose: 300 mg (three 100 mg delayed-release tablets) twice a day on the first day. Maintenance dose: 300 mg (three 100 mg delayed-release tablets) once a day, starting on the second day. | Loading dose:1 day Maintenance dose: Duration of therapy is based on recovery from neutropenia or immunosuppression. |
 
-## 2.3 Recommended Dosage of Posaconazole Delayed-Release Tablets for the Treatment of Prophylaxis of Invasive Aspergillus and Candida Infections in Pediatric Patients 2 Years of Age and Older
+## 2.3 Recommended Dosage of Posaconazole Delayed-Release Tablets for the Treatment of Prophylaxis of Invasive Aspergillus and Candida Infections in Pediatric Patients
 
-The recommended dosage of posaconazole delayed-release tablets in pediatric patients 2 years of age and older who weigh greater than 40 kg for the treatment of prophylaxis of invasive Aspergillus and Candida infections is shown in Table 2 [see Dosage and Administration (2.7, 2.9) and Clinical Pharmacology (12.3)].
+The recommended dosage of posaconazole delayed-release tablets in pediatric patients for the treatment of prophylaxis of invasive Aspergillus and Candida infections is shown in Table 2 [see Dosage and Administration (2.7, 2.9) and Clinical Pharmacology (12.3)].
 
 Posaconazole delayed-release tablets are not recommended for use in pediatric patients who weigh 40 kg or less because the recommended dosage cannot be achieved with this dosage form.
 
@@ -35,7 +35,10 @@ Table 2: Recommended Dosage of Posaconazole Delayed-Release Tablets for the Trea
 
 | Recommended Pediatric Dosage by Formulation | Duration of therapy |
 | --- | --- |
-| Posaconazole Delayed-Release Tablets (patients weighing greater than 40 kg)Loading dose: 300 mg (three 100 mg delayed-release tablets) twice a day on the first day.Maintenance dose: 300 mg (three 100 mg delayed-release tablets) once a day, starting on the second day. | Prophylaxis of Invasive Aspergillus and Candida Infections Duration of therapy is based on recovery from neutropenia or immunosuppression. |
+| Posaconazole Delayed-Release Tablets (patients weighing greater than 40 kg):Loading dose: 300 mg (three 100 mg delayed-release tablets) twice a day on the first day.Maintenance dose: 300 mg (three 100 mg delayed-release tablets) once a day, starting on the second day. | Prophylaxis of Invasive Aspergillus and Candida Infections (2 years of age and older): Duration of therapy is based on recovery from neutropenia or immunosuppression. |
+
+Additional pediatric use information is approved for Merck Sharp & Dohme LLC NOXAFIL® (posaconazole) delayed-release tablets.
+However, due to Merck Sharp & Dohme LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.7 Administration Instructions for Posaconazole Delayed-Release Tablets
 

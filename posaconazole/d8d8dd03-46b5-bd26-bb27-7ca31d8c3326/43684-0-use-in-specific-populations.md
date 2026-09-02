@@ -7,10 +7,10 @@ Risk Summary
 Based on findings from animal data, posaconazole may cause fetal harm when administered to pregnant women.
 Available data for use of posaconazole in pregnant women are insufficient to establish a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 In animal reproduction studies, skeletal malformations were observed when posaconazole was dosed orally to pregnant rats during organogenesis at doses ≥1.4 times the 400 mg twice daily oral suspension regimen based on steady-state plasma concentrations of posaconazole in healthy volunteers.
-In pregnant rabbits dosed orally during organogenesis, doses of ≥ 3 times the clinical exposure caused an increase in resorptions in these rabbits (see Data).
+In pregnant rabbits dosed orally during organogenesis, doses of ≥ 3 times the clinical exposure caused an increase in resorptions (see Data).
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
@@ -37,11 +37,14 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Prophylaxis of Invasive Aspergillus and Candida Infections
 
-The safety and effectiveness of posaconazole delayed-release tablets have been established for the prophylaxis of Invasive Aspergillus and Candida Infections in pediatric patients aged 2 years and older who are at high risk of developing these infections due to being severely immunocompromised.
+The safety and effectiveness of posaconazole delayed-release tablets have been established for the prophylaxis of invasive Aspergillus and Candida infections in pediatric patients aged 2 years of age and older who are at high risk of developing these infections due to being severely immunocompromised.
 
 Use of posaconazole for these pediatric indications is supported by adequate and well controlled studies of posaconazole in adults and pediatric patients aged 13 years of age and older and additional PK and safety data in pediatric patients 2 years of age and older [see Clinical Pharmacology (12.3) and Clinical studies (14)].
 
 The safety and effectiveness of posaconazole have not been established in pediatric patients less than 2 years of age.
+
+Additional pediatric use information is approved for Merck Sharp & Dohme LLC NOXAFIL® (posaconazole) delayed-release tablets.
+However, due to Merck Sharp & Dohme LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 

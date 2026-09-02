@@ -32,7 +32,7 @@ Cavg = the average posaconazole concentration when measured at steady state
 
 ## 12.3 Pharmacokinetics
 
-General Pharmacokinetic Characteristics of Posaconazole delayed-release tablets
+General Pharmacokinetic Characteristics of Posaconazole Delayed-Release Tablets
 
 Posaconazole delayed-release tablets exhibit dose proportional pharmacokinetics after single and multiple dosing up to 300 mg.
 The mean pharmacokinetic parameters of posaconazole at steady state following administration of posaconazole delayed-release tablets 300 mg twice daily on Day 1, then 300 mg once daily thereafter in healthy volunteers and in neutropenic patients who are receiving cytotoxic chemotherapy for AML or MDS or HSCT recipients with GVHD are shown in Table 21.
@@ -122,7 +122,7 @@ Weight has a clinically significant effect on posaconazole clearance.
 Relative to 70 kg patients, the Cavg is decreased by 25% in patients greater than 120 kg.
 Patients administered posaconazole weighing more than 120 kg may be at higher risk for lower posaconazole plasma concentrations compared to lower weight patients [see Use in Specific Populations (8.10)].
 
-Pediatric Patients
+Pediatric Patients:
 
 Prophylaxis of invasive Aspergillus and Candida infections in pediatric patients 2 years of age and older: A total of 12 patients 13 to 17 years of age received 600 mg/day (200 mg three times a day) of Noxafil® oral suspension for prophylaxis of invasive fungal infections.
 Based on pharmacokinetic data in 10 of these pediatric patients, the mean steady-state Cav was similar between these patients and adults (≥18 years of age).
@@ -132,7 +132,9 @@ Drug Interaction Studies:
 
 Posaconazole is primarily metabolized via UDP glucuronidation (phase 2 enzymes) and is a substrate for p-glycoprotein (P-gp) efflux.
 Therefore, inhibitors or inducers of these clearance pathways may affect posaconazole plasma concentrations.
-A summary of drugs studied clinically with the oral suspension or another tablet formulation, which affect posaconazole concentrations, is provided in Table 28 and Table 30 include a summary of the drug effects of concomitant medications that may impact the absorption of posaconazole when administered as either the oral suspension or delayed-release tablets.
+A summary of drugs studied clinically with the oral suspension or another tablet formulation, which affect posaconazole concentrations, is provided in Table 28.
+
+Table 30 include a summary of the drug effects of concomitant medications that may impact the absorption of posaconazole when administered as either the oral suspension or delayed-release tablets.
 
 A clinical study in healthy volunteers also indicates that posaconazole is a strong CYP3A4 inhibitor as evidenced by a >5-fold increase in midazolam AUC.
 Therefore, plasma concentrations of drugs predominantly metabolized by CYP3A4 may be increased by posaconazole.
@@ -181,6 +183,9 @@ Table 31: Summary of the Effects of Posaconazole on Coadministered Drugs in Heal
 | Atazanavir Atazanavir/ritonavir boosted regimen | 300 mg once daily x 14 days | 400 mg (oral suspension) twice daily x 7 days | ↑ 155% (2.55; 1.89 to 3.45) |  | ↑ 268% (3.68; 2.89 to 4.70) |
 | 300 mg/100 mg once daily x 14 days | 400 mg (oral suspension) twice daily x 7 days | ↑ 53% (1.53; 1.13 to 2.07) |  | ↑ 146% (2.46; 1.93 to 3.13) |  |
 | * Ratio Estimate is the ratio of coadministered drug plus posaconazole to coadministered drug alone for Cmax or AUC.† The tablet refers to a non-commercial tablet formulation without polymer.‡ The mean terminal half-life of midazolam was increased from 3 hours to 7 to 11 hours during coadministration with posaconazole. |  |  |  |  |  |
+
+Additional pediatric use information is approved for Merck Sharp & Dohme LLC NOXAFIL® (posaconazole) delayed-release tablets.
+However, due to Merck Sharp & Dohme LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 12.4 Microbiology
 

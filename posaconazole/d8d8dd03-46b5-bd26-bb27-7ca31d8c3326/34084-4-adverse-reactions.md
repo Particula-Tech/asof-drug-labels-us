@@ -49,6 +49,9 @@ Table 9: Adverse Reactions in at least 10% of Adults Receiving Posaconazole Dela
 | Constipation | 10 |
 | Hypomagnesemia | 10 |
 
+Additional pediatric use information is approved for Merck Sharp & Dohme LLC NOXAFIL® (posaconazole) delayed-release tablets.
+However, due to Merck Sharp & Dohme LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reaction has been identified during the post-approval use of posaconazole.
