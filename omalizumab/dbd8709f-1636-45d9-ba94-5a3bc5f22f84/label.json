@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "BLA761399"
+  ],
+  "inn": "omalizumab",
+  "labeler": "CELLTRION USA, Inc.",
+  "package_ndcs": [
+    "72606-035-01",
+    "72606-036-01",
+    "72606-054-01",
+    "72606-054-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "omalizumab-igec",
+      "name": "OMLYCLO"
+    }
+  ],
+  "setid": "dbd8709f-1636-45d9-ba94-5a3bc5f22f84",
+  "source": "dailymed"
+}
