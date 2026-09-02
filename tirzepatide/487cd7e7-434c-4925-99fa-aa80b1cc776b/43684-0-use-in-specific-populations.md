@@ -4,8 +4,9 @@
 
 Pregnancy Exposure Registry
 
-There will be a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ZEPBOUND (tirzepatide) during pregnancy.
-Pregnant patients exposed to ZEPBOUND and healthcare providers are encouraged to contact Eli Lilly and Company at 1-800-LillyRx (1-800-545-5979).
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ZEPBOUND (tirzepatide) during pregnancy.
+Pregnant patients exposed to ZEPBOUND and healthcare providers are encouraged to register by calling 1-844-524-0039 or emailing at MILEregistry@thermofisher.com.
+To learn more please call or visit https://pregnancyregistry.lilly.com/zepbound.
 
 Risk Summary
 

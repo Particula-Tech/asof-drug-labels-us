@@ -72,8 +72,7 @@ The risk of hypoglycemia may be lowered by a reduction in the dose of insulin or
 
 ## 5.8 Diabetic Retinopathy Complications in Patients with Type 2 Diabetes Mellitus
 
-Rapid improvement in glucose control has been associated with a temporary worsening of diabetic retinopathy.
-Tirzepatide has not been studied in patients with non-proliferative diabetic retinopathy requiring acute therapy, proliferative diabetic retinopathy, or diabetic macular edema.
+Temporary worsening of diabetic retinopathy has been reported with rapid improvement in glucose control.
 Patients with a history of diabetic retinopathy should be monitored for progression of diabetic retinopathy.
 
 ## 5.9 Pulmonary Aspiration During General Anesthesia or Deep Sedation

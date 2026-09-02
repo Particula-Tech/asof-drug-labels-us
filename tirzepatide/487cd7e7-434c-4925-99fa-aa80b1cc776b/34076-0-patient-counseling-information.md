@@ -55,7 +55,7 @@ Pregnancy
 
 Advise a pregnant patient of the potential risk to a fetus.
 Advise patients to inform their healthcare provider if they are pregnant or intend to become pregnant during treatment with ZEPBOUND.
-Advise patients that there will be a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ZEPBOUND during pregnancy [see Use in Specific Populations (8.1)].
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ZEPBOUND during pregnancy [see Use in Specific Populations (8.1)].
 
 Contraception
 
@@ -65,11 +65,10 @@ Advise patients using oral hormonal contraceptives to switch to a non-oral contr
 Administration
 
 Instruct patients how to prepare and administer the correct dose of ZEPBOUND and assess their ability to inject subcutaneously to ensure the proper administration of ZEPBOUND.
-Instruct patients using ZEPBOUND vials to always use a new syringe and needle for each injection.
-Use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL or 0.6 mL dose).
 Inform patients and their caregiver(s) which ZEPBOUND presentation (e.g., vial, prefilled single-dose pen, single-patient-use KwikPen) they will receive and ensure they receive training appropriate for that specific presentation.
 If the prescribed ZEPBOUND presentation changes, ensure patients and caregivers receive appropriate training and instruct them to consult the Instructions for Use for the newly prescribed presentation.
-Advise caregivers that ZEPBOUND KwikPen is not recommended for self-administration by those with visual impairment unless their healthcare provider determines the patient can properly administer [see Dosage and Administration (2.4)].
+Advise caregivers that ZEPBOUND KwikPen is not recommended for self-administration by those with visual impairment unless their healthcare provider determines the patient can properly administer.
+Instruct patients using ZEPBOUND vials to always use a new syringe and needle for each injection and to use a syringe appropriate for dose administration (e.g., a 1 mL syringe capable of measuring a 0.5 mL or 0.6 mL dose) [see Dosage and Administration (2.4)].
 
 Missed Doses
 
@@ -84,4 +83,4 @@ All rights reserved.
 
 Pat.: www.lilly.com/patents
 
-ZEP-0014-USPI-20260422
+ZEP-0016-USPI-20260828

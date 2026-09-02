@@ -11,12 +11,12 @@ In Studies 1 and 2, all patients received a standard lifestyle intervention whic
 Patients also received counseling on behavior modification strategies to adhere to diet and exercise recommendations.
 In both trials, weight reduction was assessed after 72 weeks of treatment (at least 52 weeks at maintenance dose).
 
-Study 1 (NCT04184622) was a 72-week trial that enrolled 2,539 adult patients with obesity (BMI ≥30 kg/m2), or with overweight (BMI 27 to <30 kg/m2) and at least one weight-related comorbid condition, such as dyslipidemia, hypertension, obstructive sleep apnea, or cardiovascular disease; patients with type 2 diabetes mellitus were excluded.
+Study 1 (NCT04184622) was a 72-week trial that enrolled 2,539 adult patients with obesity (BMI ≥30 kg/m2), or with overweight (BMI 27 to <30 kg/m2) and at least one weight-related comorbid condition, such as dyslipidemia, hypertension, obstructive sleep apnea, or CV disease; patients with type 2 diabetes mellitus were excluded.
 Patients were randomized in a 1:1:1:1 ratio to once weekly fixed dosage of ZEPBOUND 5 mg, ZEPBOUND 10 mg, ZEPBOUND 15 mg, or placebo, with an escalation period of up to 20 weeks followed by the maintenance period.
 At baseline, mean age was 45 years (range 18-84 years), 68% were female, 71% were White, 11% were Asian, 9% were American Indian/Alaska Native, and 8% were Black or African American.
 A total of 48% were Hispanic or Latino ethnicity.
 Mean baseline body weight was 104.8 kg and mean BMI was 38 kg/m2.
-Baseline characteristics included 32% with hypertension, 30% with dyslipidemia, 8% with obstructive sleep apnea, and 3% with cardiovascular disease.
+Baseline characteristics included 32% with hypertension, 30% with dyslipidemia, 8% with obstructive sleep apnea, and 3% with CV disease.
 
 Study 2 (NCT04657003) was a 72-week trial that enrolled 938 adult patients with BMI ≥27 kg/m2 and type 2 diabetes mellitus.
 Patients included in the trial had HbA1c 7-10% and were treated with either diet and exercise alone, or any oral anti-hyperglycemic agent except dipeptidyl peptidase-4 (DPP-4) inhibitors or GLP-1 receptor agonists.
@@ -25,7 +25,7 @@ Patients were randomized in a 1:1:1 ratio to once weekly fixed dosage of ZEPBOUN
 At baseline, mean age was 54 years (range 18-85 years), 51% were female, 76% were White, 13% were Asian, and 8% were Black or African American.
 A total of 60% were Hispanic or Latino ethnicity.
 Mean baseline body weight was 100.7 kg and mean BMI was 36.1 kg/m2.
-Baseline characteristics included 66% with hypertension, 61% with dyslipidemia, 8% with obstructive sleep apnea, and 10% with cardiovascular disease.
+Baseline characteristics included 66% with hypertension, 61% with dyslipidemia, 8% with obstructive sleep apnea, and 10% with CV disease.
 
 Results for Study 1 and Study 2
 
@@ -149,7 +149,7 @@ Overview of Study 3
 
 Study 3 (NCT04657016) was an 84-week trial with a 12-week intensive lifestyle intervention lead-in period (Week -12 to Week 0), followed by a 72-week randomized treatment period of ZEPBOUND versus placebo (Week 0 to Week 72) with a standard lifestyle intervention.
 Only patients who lost ≥5% body weight during the 12-week intensive lifestyle lead-in period entered the 72-week randomized treatment period.
-The trial initially enrolled 806 adult patients (aged 18 years and older) with obesity (BMI ≥30 kg/m2), or with overweight (BMI 27 to <30 kg/m2) and at least one weight-related comorbid condition, such as dyslipidemia, hypertension, obstructive sleep apnea, or cardiovascular disease; patients with type 2 diabetes mellitus were excluded.
+The trial initially enrolled 806 adult patients (aged 18 years and older) with obesity (BMI ≥30 kg/m2), or with overweight (BMI 27 to <30 kg/m2) and at least one weight-related comorbid condition, such as dyslipidemia, hypertension, obstructive sleep apnea, or CV disease; patients with type 2 diabetes mellitus were excluded.
 During the intensive lifestyle intervention lead-in period, lifestyle instruction was delivered 8 times over 12 weeks by a dietician or dietician-equivalent, with all patients receiving instruction to exercise for at least 150 minutes per week and to reduce their caloric intake to approximately 1,200 kcal/day (females) or 1,500 kcal/day (males).
 Patients also received counseling on behavior modification strategies to adhere to diet and exercise recommendations.
 At the end of the 12-week intensive lifestyle intervention lead-in period, 579 patients who achieved ≥5% weight reduction were randomized in a 1:1 ratio to ZEPBOUND or placebo for 72 weeks.
@@ -161,7 +161,7 @@ For the 579 patients who were randomized, mean body weight at enrollment prior t
 At randomization (Week 0), after the 12-week intensive lifestyle lead-in period, mean body weight was 101.9 kg and mean BMI was 35.9 kg/m2.
 The mean age of patients randomized to treatment was 46 years (range 18-77 years), 63% were female, 86% were White, 11% were Black or African American, and 1% were Asian.
 A total of 54% were Hispanic or Latino ethnicity.
-Baseline characteristics for the 579 randomized patients included 34% with hypertension, 26% with dyslipidemia, 10% with obstructive sleep apnea, and 2% with cardiovascular disease.
+Baseline characteristics for the 579 randomized patients included 34% with hypertension, 26% with dyslipidemia, 10% with obstructive sleep apnea, and 2% with CV disease.
 
 Results for Study 3
 
@@ -185,7 +185,7 @@ Table 4: Changes in Body Weight After 12-Week Intensive Lifestyle Intervention L
 
 |  | Study 3 N = 579a |  |
 | --- | --- | --- |
-| Body weight |  |  |
+| Body Weight |  |  |
 | Mean (kg) at Week -12 | 109.5 |  |
 | Intention-to-Treat (ITT) Populationa,b | Placebo N = 292 | ZEPBOUND MTD (10 mg or 15 mg) N = 287 |
 | Body Weight |  |  |
@@ -239,7 +239,7 @@ Weight Reduction Following Randomized Withdrawal in Adults with Obesity or Overw
 Overview of Study 4
 
 Study 4 (NCT04660643) was an 88-week randomized withdrawal trial in which all patients received open-label ZEPBOUND during a 36-week lead-in period, followed by randomization to either continue ZEPBOUND or switch to placebo for 52 weeks.
-The trial enrolled 783 adult patients (aged 18 years and older) with obesity (BMI ≥30 kg/m2), or with overweight (BMI 27 to <30 kg/m2) and at least one weight-related comorbid condition, such as dyslipidemia, hypertension, obstructive sleep apnea, or cardiovascular disease; patients with type 2 diabetes mellitus were excluded.
+The trial enrolled 783 adult patients (aged 18 years and older) with obesity (BMI ≥30 kg/m2), or with overweight (BMI 27 to <30 kg/m2) and at least one weight-related comorbid condition, such as dyslipidemia, hypertension, obstructive sleep apnea, or CV disease; patients with type 2 diabetes mellitus were excluded.
 All patients received a standard lifestyle intervention which included instruction on a reduced-calorie diet (approximately 500 kcal/day deficit) and increased physical activity counseling (recommended minimum of 150 min/week) that began with the first dose of ZEPBOUND, during the lead-in period, and continued throughout the trial.
 During the 36-week open-label ZEPBOUND lead-in period, ZEPBOUND dosages were escalated over a period of up to 20 weeks to an MTD of 10 mg or 15 mg subcutaneous once weekly.
 After the lead-in period, patients were randomized at Week 36 to continue ZEPBOUND or switch to placebo for 52 weeks.
@@ -249,7 +249,7 @@ At Week 36, a total of 670 patients were randomized in a 1:1 ratio to ZEPBOUND M
 For the 670 randomized patients, at study entry (Week 0) mean body weight was 107.3 kg and mean BMI was 38.4 kg/m2, and at randomization (Week 36, after the open-label ZEPBOUND lead-in period) mean body weight was 85.2 kg and mean BMI was 30.5 kg/m2.
 Among the randomized patients, the mean age was 49 years (range 19-81 years), 71% were female, 80% were White, 11% were Black or African American, and 7% were Asian.
 A total of 44% were Hispanic or Latino ethnicity.
-Baseline characteristics for the 670 randomized patients included 35% with hypertension, 32% with dyslipidemia, 12% with obstructive sleep apnea, and 6% with cardiovascular disease.
+Baseline characteristics for the 670 randomized patients included 35% with hypertension, 32% with dyslipidemia, 12% with obstructive sleep apnea, and 6% with CV disease.
 
 Results for Study 4
 
@@ -272,7 +272,7 @@ Table 6: Changes in Body Weight After 36-Week Open-Label Treatment Followed by R
 
 |  | Study 4 N=670a |  |
 | --- | --- | --- |
-| Body weight |  |  |
+| Body Weight |  |  |
 | Mean at Week 0 (kg) | 107.3 |  |
 | Intention-to-Treat (ITT) Populationa | Placebo N=335 | ZEPBOUND (MTD 10 mg or 15 mg) N=335 |
 | Body Weight |  |  |

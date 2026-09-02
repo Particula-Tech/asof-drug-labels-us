@@ -23,7 +23,7 @@ Pool of Placebo-Controlled Weight Reduction Trials in Adults with Obesity or Ove
 ZEPBOUND was evaluated for safety in a pool of two randomized, double-blind, placebo-controlled trials that included 2,519 adult patients with obesity or overweight treated with ZEPBOUND for up to 72 weeks and a 4-week off drug follow-up period (Study 1 and Study 2) [see Clinical Studies (14.1)].
 The mean age of patients was 47 years and 37% were male.
 The population was 72% White, 12% Asian, 8% Black or African American, and 7% American Indian or Alaska Native; 51% identified as Hispanic or Latino ethnicity.
-Baseline characteristics included an average BMI of 37.4 kg/m2, 29% with a BMI ≥40 kg/m2, 41% with hypertension, 37% with dyslipidemia, 25% with type 2 diabetes mellitus, 7% with obstructive sleep apnea, and 4% with cardiovascular disease.
+Baseline characteristics included an average BMI of 37.4 kg/m2, 29% with a BMI ≥40 kg/m2, 41% with hypertension, 37% with dyslipidemia, 25% with type 2 diabetes mellitus, 7% with obstructive sleep apnea, and 4% with cardiovascular (CV) disease.
 
 Across both trials, 4.8%, 6.3%, and 6.7% of patients treated with 5 mg, 10 mg, and 15 mg of ZEPBOUND, respectively, permanently discontinued treatment as a result of adverse reactions compared to 3.4% of patients treated with placebo.
 The majority of patients who discontinued ZEPBOUND due to adverse reactions did so during the first few months of treatment due to gastrointestinal adverse reactions.
