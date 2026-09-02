@@ -3,19 +3,11 @@
 How Supplied RALDESY TMcontains 10 mg/mL of trazodone hydrochloride.
 It is a clear, colorless solution and is supplied as:
 
-150 mL amber glass bottle
-
-- NDC 30698-455-03 with child-resistant cap along with a 10 mL calibrated oral dosing syringe and bottle adapter.
-
 150 mL white, opaque, high-density polyethylene (HDPE) bottle
 
 - NDC 30698-455-02 with child-resistant cap along with a 10 mL calibrated oral dosing syringe and bottle adapter.
 
-300 mL amber glass bottle
-
-- NDC 30698-455-04 with child-resistant cap along with a 10 mL calibrated oral dosing syringe and bottle adapter.
-
-300 mL white, opaque, HDPE bottle
+300 mL white, opaque, high-density polyethylene (HDPE) bottle
 
 - NDC 30698-455-01 with child-resistant cap along with a 10 mL calibrated oral dosing syringe and bottle adapter.
 
