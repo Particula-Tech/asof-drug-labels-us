@@ -10,7 +10,8 @@ The structural formula for testosterone undecanoate is presented in Figure 1.
 
 Figure 1: Testosterone Undecanoate
 
-KYZATREX® (testosterone undecanoate) capsules for oral use are available in three dosage strengths- 100 mg, 150 mg, and 200 mg.
+KYZATREX® (testosterone undecanoate) capsules for oral use are available in four dosage strengths- 50 mg, 100 mg, 150 mg, and 200 mg.
+The 50 mg strength is an opaque, white capsule imprinted with "MP50" in red ink.
 The 100 mg strength is an opaque, white capsule imprinted with "MP100" in red ink.
 The 150 mg strength is an opaque white capsule imprinted with "MP150" in red ink.
 The 200 mg strength is an opaque white capsule imprinted with "MP200" in red ink.
