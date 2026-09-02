@@ -4,7 +4,7 @@
 
 Rosuvastatin is a substrate of CYP2C9 and transporters (such as OATP1B1, BCRP).
 Rosuvastatin plasma levels can be significantly increased with concomitant administration of inhibitors of CYP2C9 and transporters.
-Table 5 includes a list of drugs that increase the risk of myopathy and rhabdomyolysis when used concomitantly with rosuvastatin and instructions for preventing or managing them [see Warnings and Precautions (5.1)and Clinical Pharmacology (12.3)].
+Table 5 includes a list of drugs that increase the risk of myopathy and rhabdomyolysis when used concomitantly with rosuvastatin and instructions for preventing or managing them [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 Table 5: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Rosuvastatin
 

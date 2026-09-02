@@ -128,7 +128,7 @@ QD/OD= Once daily, BID= Twice daily, TID= Three times daily, QID= Four times dai
 
 1 Single dose unless otherwise noted.
 
-2 Clinically significant [see Dosage and Administration (2)and Warnings and Precautions (5)]
+2 Clinically significant [see Dosage and Administration (2) and Warnings and Precautions (5)]
 
 3 Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7 = 30% decrease, 11=11-fold increase in exposure)
 

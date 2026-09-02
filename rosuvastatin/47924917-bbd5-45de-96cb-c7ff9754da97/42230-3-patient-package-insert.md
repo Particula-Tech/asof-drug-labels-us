@@ -12,4 +12,4 @@
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: 06/2026
+Revised: 08/2026
