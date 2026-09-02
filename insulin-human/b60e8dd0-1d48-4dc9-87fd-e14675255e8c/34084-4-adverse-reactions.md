@@ -2,9 +2,9 @@
 
 The following adverse reactions are discussed elsewhere:
 
-- Hypoglycemia [see Warnings and Precautions (5.4)].
-- Hypersensitivity Reactions [see Warnings and Precautions (5.5)].
-- Hypokalemia [see Warnings and Precautions (5.6)].
+- Hypoglycemia [see Warnings and Precautions (5.3)].
+- Hypersensitivity Reactions [see Warnings and Precautions (5.4)].
+- Hypokalemia [see Warnings and Precautions (5.5)].
 
 The following additional adverse reactions have been identified during post-approval use of HUMULIN R U-500.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or to establish a causal relationship to drug exposure.

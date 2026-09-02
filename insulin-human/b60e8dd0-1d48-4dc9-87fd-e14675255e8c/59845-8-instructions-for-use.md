@@ -294,7 +294,6 @@ Always follow your healthcare provider's instructions for dosing.
 
 | If you are: | It is important to know: |
 | --- | --- |
-| Switching from HUMULIN R U-500 vial (and syringe) | Your Pen may measure your dose differently. The markings in the Dose Window may not be the same as the markings on the syringe you used in the past. If you were using the U-500 syringe to administer your dose, the markings on the syringe may be the same as the markings in the Pen Dose Window. Ask your healthcare provider what dose in insulin units you should dial on your Pen. |
 | Switching from another type of insulin device or pen. | The HUMULIN R U-500 KwikPen is different from other pens. It dials 5 insulin units with each click of the Dose Knob. Do not select your dose by counting clicks. You may get too much insulin or you may not get enough insulin. |
 
 General information about the safe and effective use of your Pen
@@ -324,12 +323,12 @@ HUMULIN® and HUMULIN® KwikPen® are trademarks of Eli Lilly and Company.
 
 Manufactured by: Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891
 
-Copyright © 2015, 2022, Eli Lilly and Company.
+Copyright © 2015, 2026, Eli Lilly and Company.
 All rights reserved.
 
 | HUMULIN R U-500 KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1. |
 | --- |
 
-Document revision date: June 2022
+Document revision date: July 2026
 
-LINR500KP-0005-IFU-20220627
+LINR500KP-0006-IFU-20260701
