@@ -9,7 +9,8 @@ The following clinically significant adverse reactions are described elsewhere i
 - Thrombosis [see Warnings and Precautions (5.5)]
 - Gastrointestinal Perforations [see Warnings and Precautions (5.6)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
-- Laboratory Abnormalities [see Warnings and Precautions (5.8)]
+- Hypoglycemia in Patients with Diabetes [see Warnings and Precautions (5.8)]
+- Laboratory Abnormalities [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -18,14 +19,14 @@ The clinical studies described in this subsection were conducted using XELJANZ t
 Adverse Reactions in Adults with Rheumatoid Arthritis In RA Safety Study 1, 1,455 adults were treated with XELJANZ tablets 5 mg twice daily, 1,456 adults were treated with 10 mg twice daily, and 1,451 adults were treated with a TNF blocker for a median of 4 years [see Clinical Studies (14.6)].
 The safety of XELJANZ tablets was also evaluated in two Phase 2 and five Phase 3 double-blind, placebo-controlled, multicenter trials in patients with RA.
 In these trials, adults were randomized to receive: • XELJANZ tablets (monotherapy) 5 mg twice daily (292 patients) or 10 mg twice daily (306 patients), • In combination with DMARDs (including methotrexate), XELJANZ tablets 5 mg twice daily (1,044 patients) or 10 mg twice daily (1,043 patients and • Placebo (809 patients).
-All seven trials included provisions for patients taking placebo to receive treatment with XELJANZ tablets atMonth 3 or Month 6 either by patient response (based on uncontrolled disease activity) or by design, so that adverse events cannot always be unambiguously attributed to a given treatment.
+All seven trials included provisions for patients taking placebo to receive treatment with XELJANZ tablets at Month3 or Month 6 either by patient response (based on uncontrolled disease activity) or by design, so that adverse events cannot always be unambiguously attributed to a given treatment.
 Therefore, some analyses that follow include patients who changed treatment by design or by patient response from placebo to XELJANZ tablets in both the placebo and XELJANZ tablets group of a given interval.
-Comparisons between placebo andXELJANZ tablets groups were based on the first 3 months of exposure, and comparisons between XELJANZ tablets 5 mg twice daily and XELJANZ tablets 10 mg twice daily were based on the first 12 months of exposure.
+Comparisons between placeboand XELJANZ tablets groups were based on the first 3 months of exposure, and comparisons between XELJANZ tablets 5 mg twice daily and XELJANZ tablets 10 mg twice daily were based on the first 12 months of exposure.
 The long-term safety population includes all adults with RA who participated in a double-blind, placebo-controlled trial (including earlier development phase studies) and then participated in one of two long-term safety studies.
 The design of the long-term safety studies allowed for modification of XELJANZ tablets doses according to clinical judgment.
 This limits the interpretation of the long-term safety data with respect to dose.
 The most common serious adverse reactions were serious infections [see Warnings and Precautions (5.1)].
-The proportion of patients who discontinued treatment due to any adverse reaction during the 0 to 3 months exposure in the double-blind, placebo-controlled trials was 4% for XELJANZ tablets -treated patients and 3% for placebo-treated patients.
+The proportion of patients who discontinued treatment due to any adverse reaction during the 0 to 3 months exposure in the double-blind, placebo-controlled trials was 4% for XELJANZ tablets-treated patients and 3% for placebo-treated patients.
 Overall Infections In the seven placebo-controlled trials in patients with RA, during the 0 to 3 months exposure, the overall frequency of infections was 20% and 22% in the XELJANZ tablets 5 mg twice daily and XELJANZ tablets 10 mg twice daily groups, respectively, and 18% in the placebo group.
 The most commonly reported infections with XELJANZ tablets were upper respiratory tract infections, nasopharyngitis, and urinary tract infections (4%, 3%, and 2% of patients, respectively).
 Serious Infections: In the seven placebo-controlled trials in patients with RA, during the 0 to 3 months exposure, serious infections were reported in 1 patient (0.5 events per 100 patient-years) who received placebo and 11 patients (1.7 events per 100 patient-years) who received XELJANZ tablets 5 mg or 10 mg twice daily.
@@ -49,11 +50,11 @@ The rate difference between XELJANZ tablets doses (and the corresponding 95% con
 One of these malignancies was a case of lymphoma that occurred during the 0-to-12-month period in a patient treated with XELJANZ tablets 10 mg twice daily.
 The most common types of malignancy, including malignancies observed during the long-term extension in XELJANZ tablets-treated patients, were lung and breast cancer, followed by gastric, colorectal, renal cell, prostate cancer, lymphoma, and malignant melanoma [see Warnings and Precautions (5.3)].
 Laboratory Abnormalities Lymphopenia: In the placebo-controlled clinical trials in patients with RA, confirmed decreases in absolute lymphocyte counts below 500 cells/mm3 occurred in 0.04% of patients for the XELJANZ tablets 5 mg twice daily and 10 mg twice daily groups combined during the first 3 months of exposure.
-Confirmed lymphocyte counts less than 500 cells/mm3 were associated with an increased incidence of treated and serious infections [see Warnings and Precautions (5.8)].
+Confirmed lymphocyte counts less than 500 cells/mm3 were associated with an increased incidence of treated and serious infections [see Warnings and Precautions (5.9)].
 Neutropenia: In the placebo-controlled clinical trials in patients with RA, confirmed decreases in ANC below 1,000 cells/mm3 occurred in 0.07% of patients for the XELJANZ tablets 5 mg twice daily and 10 mg twice daily groups combined during the first 3 months of exposure.
 There were no confirmed decreases in ANC below 500 cells/mm3 observed in any treatment group.
 There was no clear relationship between neutropenia and the occurrence of serious infections.
-In the long-term safety population, the pattern and incidence of confirmed decreases in ANC remained consistent with what was seen in the placebo-controlled clinical trials [see Warnings and Precautions (5.8)].
+In the long-term safety population, the pattern and incidence of confirmed decreases in ANC remained consistent with what was seen in the placebo-controlled clinical trials [see Warnings and Precautions (5.9)].
 Liver Enzyme Elevations: Confirmed increases in liver enzymes greater than 3 times the upper limit of normal (3x ULN) were observed in patients with RA treated with XELJANZ tablets.
 In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of XELJANZ tablets, or reduction in XELJANZ tablets dosage, resulted in decrease or normalization of liver enzymes.
 In the placebo-controlled monotherapy trials (0 to 3 months), no differences in the incidence of ALT or AST elevations were observed between the placebo, and XELJANZ tablets 5 mg, and 10 mg twice daily groups.
@@ -62,7 +63,7 @@ In these trials, AST elevations greater than 3x ULN were observed in 0.6%, 0.5% 
 One case of drug-induced liver injury was reported in a patient treated with XELJANZ tablets 10 mg twice daily for approximately 2.5 months.
 The patient developed symptomatic elevations of AST and ALT greater than 3x ULN and bilirubin elevations greater than 2x ULN, which required hospitalizations and a liver biopsy.
 Lipid Elevations: In the placebo-controlled clinical trials in patients with RA, dose-related elevations in lipid parameters (total cholesterol, LDL cholesterol, HDL cholesterol, triglycerides) were observed at one month of exposure and remained stable thereafter.
-Changes in lipid parameters during the first 3 months of exposure in the placebo-controlled clinical trials are summarized below: • Mean LDL cholesterol increased by 15% in the XELJANZ tablets 5 mg twice daily arm and 19% in the XELJANZ tablets 10 mg twice daily arm. • Mean HDL cholesterol increased by 10% in the XELJANZ tablets 5 mg twice daily arm and 12% in the XELJANZ tablets 10 mg twice daily arm. • Mean LDL/HDL ratios were essentially unchanged in XELJANZ tablets -treated patients.
+Changes in lipid parameters during the first 3 months of exposure in the placebo-controlled clinical trials are summarized below: • Mean LDL cholesterol increased by 15% in the XELJANZ tablets 5 mg twice daily arm and 19% in the XELJANZ tablets 10 mg twice daily arm. • Mean HDL cholesterol increased by 10% in the XELJANZ tablets 5 mg twice daily arm and 12% in the XELJANZ tablets 10 mg twice daily arm. • Mean LDL/HDL ratios were essentially unchanged in XELJANZ tablets-treated patients.
 In a placebo-controlled clinical trial, elevations in LDL cholesterol and ApoB decreased to pretreatment levels in response to statin therapy.
 In the long-term safety population, elevations in lipid parameters remained consistent with what was seen in the placebo-controlled clinical trials.
 Serum Creatinine Elevations: In the placebo-controlled clinical trials in patients with RA, dose-related elevations in serum creatinine were observed with XELJANZ tablets treatment.
@@ -101,17 +102,19 @@ Adverse Reactions in Adults with Psoriatic Arthritis The safety of XELJANZ table
 No lymphomas were reported.
 Malignancies have also been observed in the long-term extension study in patients with PsA treated with XELJANZ tablets.
 
-The safety profile observed in adults with active PsA treated with XELJANZ tabletswas consistent with the safety profile observed in adults with RA.
+The safety profile observed in adults with active PsA treated with XELJANZ tablets was consistent with the safety profile observed in adults with RA.
 
 Adverse Reactions in Pediatric Patients 2 Years of Age and Older with Polyarticular Course Juvenile Idiopathic Arthritis
 
-XELJANZ tablets or tofacitinib oral solution 5 mg twice daily or weight-based equivalent twice daily was studied in 225 pediatric patients from 2 years to 17 years of age in Study pc JIA-I [see Clinical Studies (14.4)] and one open-label extension study (Study A3921145).
+XELJANZ tablets or tofacitinib oral solution 5 mg twice daily or weight-based equivalent twice daily was studied in 225 pediatric patients from 2 years to 17 years of age in Study pcJIA-I [see Clinical Studies (14.4)] and one open-label extension study (Study A3921145).
 The total patient exposure (defined as patients who received at least one dose of XELJANZ tablets or tofacitinib oral solution) was 105.6 patient-years in Study pcJIA-I and 777.5 patient-years in Study A3921145.
 
-In general, the types of adverse reactions in pediatric patients 2 years of age and older with pcJIA, were consistent with those seen in adults with RA and Ps A (see Adverse Reactions in Adults with Rheumatoid Arthritis and Adverse Reactions in Adults with Psoriatic Arthritis).
+In general, the types of adverse reactions in pediatric patients 2 years of age and older with pcJIA, were consistent with those seen in adults with RA and PsA (see Adverse Reactions in Adults with Rheumatoid Arthritis and Adverse Reactions in Adults with Psoriatic Arthritis).
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of XELJANZ tablets and tofacitinib oral solution and XELJANZ XR (extended-release tablets).
+The following adverse reactions have been identified during post-approval use of XELJANZ tablets and tofacitiniboral solution and XELJANZ XR (extended-release tablets).
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Immune system disorders: Drug hypersensitivity (events such as angioedema and urticaria have been observed) Skin and subcutaneous tissue disorders: Acne
+Immune system disorders: Drug hypersensitivity (events such as angioedema and urticaria have been observed)
+
+Metabolism and nutrition disorders: Hypoglycemia Skin and subcutaneous tissue disorders: Acne

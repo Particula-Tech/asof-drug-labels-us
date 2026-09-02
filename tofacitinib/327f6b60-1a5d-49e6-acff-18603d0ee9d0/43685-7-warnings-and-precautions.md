@@ -69,17 +69,17 @@ Patients who are current or past smokers are at additional increased risk.
 Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with tofacitinib oral solution, particularly in patients who are current or past smokers and patients with other cardiovascular risk factors.
 Inform patients about the symptoms of serious cardiovascular events and the steps to take if they occur.
 Discontinue tofacitinib oral solution in patients that have experienced a MI or stroke.
-A tofacitinib oral solution10 mg twice daily dosage is not recommended for the treatment of Ps A or pcJIA[see Dosage and Administration (2.4)].
+A tofacitinib oral solution 10 mgtwice daily dosage is not recommended for the treatment of PsA or pcJIA[see Dosage and Administration (2.4)].
 
 ## 5.5 Thrombosis
 
 Thrombosis may occur with tofacitinib oral solution.
-Thrombosis, including pulmonary embolism (PE), deep venous thrombosis (DV-T), and arterial thrombosis, have occurred in patients treated with XELJANZ and other Janus kinase (JA-K) inhibitors used to treat inflammatory conditions.
+Thrombosis, including pulmonary embolism (PE), deep venous thrombosis (DVT), and arterial thrombosis, have occurred in patients treated with XELJANZ and other Janus kinase (JAK) inhibitors used to treat inflammatory conditions.
 Many of these events were serious and some resulted in death [see Warnings and Precautions (5.2)].
 Patients with RA 50 years of age and older with at least one cardiovascular risk factor treated with XELJANZ tablets 5 mg or 10 mg twice daily compared to TNF blockers in RA Safety Study 1 had an observed increase in incidence of these thrombotic events.
-The incidence rate of DVT per 100 patient-years was 0.28 for XELJANZ tablets 10 mg twice a day, 0.22 for XELJANZ tablets 5 mgtwice a day, and 0.16 for TNF blockers.
+The incidence rate of DVT per 100 patient-years was 0.28 for XELJANZ tablets 10 mg twice a day, 0.22 for XELJANZ tablets5 mg twice a day, and 0.16 for TNF blockers.
 The incidence rate of PE per 100 patient-years was 0.49 for XELJANZ tablets 10 mg twice a day, 0.18 for XELJANZ tablets 5 mg twice a day, and 0.05 for TNF blockers [see Clinical Studies (14.6)].
-A tofacitinib oral solution 10 mg twice daily dosage is not recommended for the treatment of Ps A or pc JIA [see Dosage and Administration (2.4)].
+A tofacitinib oral solution 10 mg twice daily dosage is not recommended for the treatment of PsA or pcJIA [see Dosage and Administration (2.4)].
 Promptly evaluate patients with symptoms of thrombosis and discontinue tofacitinib oral solution in patients with symptoms of thrombosis.
 Avoid tofacitinib oral solution in patients that may be at increased risk of thrombosis.
 
@@ -98,7 +98,13 @@ Reactions such as angioedema and urticaria that may reflect drug hypersensitivit
 Some events were serious.
 If a serious hypersensitivity reaction occurs, promptly discontinue tofacitinib oral solution while evaluating the potential cause or causes of the reaction [see Adverse Reactions (6.2)].
 
-## 5.8 Laboratory Abnormalities
+## 5.8 Hypoglycemia in Patients with Diabetes
+
+Hypoglycemia, including severe hypoglycemia, has beenreported following initiation of tofacitinib oral solution and other JAK inhibitors in patients with diabetes.
+During treatment with tofacitinib oral solution, consider increased monitoring of blood glucose as clinically indicated in patients with diabetes.
+Advise patients with diabetes to notify their healthcare provider if they develop signs or symptoms of hypoglycemia.
+
+## 5.9 Laboratory Abnormalities
 
 Laboratory abnormalities may occur with tofacitinib oral solution.
 Lymphocyte Abnormalities Treatment with XELJANZ tablets was associated with initial lymphocytosis at one month of XELJANZ tablets treatment followed by a gradual decrease in mean absolute lymphocyte counts below the baseline of approximately 10% during 12 months of therapy.
@@ -133,15 +139,15 @@ Most of these abnormalities occurred in studies with background DMARD therapy (p
 
 Lipid Elevations
 
-Treatment with XELJANZ tablets was associated with dose-dependent increases in lipid parameters including total cholesterol, low-density lipoprotein (LD-L) cholesterol, and high-density lipoprotein (HD-L) cholesterol.
+Treatment with XELJANZ tablets was associated with dose-dependent increases in lipid parameters including total cholesterol, low-density lipoprotein (LDL) cholesterol, and high-density lipoprotein (HDL) cholesterol.
 Maximum changes in these lipid parameters were generally observed within 6 weeks.
 There were no clinically relevant changes in LDL/HDL cholesterol ratios.
 The effect of these lipid parameter elevations on cardiovascular morbidity and mortality has not been determined.
 
 - Perform assessment of lipid parameters approximately 4 to 8 weeks following initiation of tofacitinib oral solution therapy.
-- Manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCE-P)] for the management of hyperlipidemia.
+- Manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
 
-## 5.9 Vaccinations
+## 5.10 Vaccinations
 
 Avoid use of live vaccines concurrently with tofacitinib oral solution.
 Prior to initiating tofacitinib oral solution therapy, update immunizations in agreement with current immunization guidelines.

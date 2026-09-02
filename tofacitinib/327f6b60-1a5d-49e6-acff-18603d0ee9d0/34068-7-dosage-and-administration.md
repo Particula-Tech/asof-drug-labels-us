@@ -6,16 +6,16 @@ Prior to initiating tofacitinib oral solution, consider performing the following
 
 - Active and latent tuberculosis (TB) infection evaluation: If the patient has latent TB, treat for TB prior to tofacitinib oral solution treatment [see Warnings and Precautions (5.1)].
 - Viral hepatitis screening in accordance with clinical guidelines [see Warnings and Precautions (5.1)].
-- A complete blood count: Avoid initiation of tofacitinib oral solution treatment in patients with a lymphocyte count less than 500 cells/mm3, absolute neutrophil count less than 1,000 cells/mm3, or hemoglobin level less than 9 g/dL [see Warnings and Precautions (5.8)].
-- Baseline hepatic function evaluation: Tofacitinib oral solution is not recommended for patients with severe hepatic impairment [see Use in Specific Populations (8.7) andClinical Pharmacology (12.3)].
+- A complete blood count: Avoid initiation of tofacitinib oral solution treatment in patients with a lymphocyte count less than 500 cells/mm3, absolute neutrophil count less than 1,000 cells/mm3, or hemoglobin level less than 9 g/dL [see Warnings and Precautions (5.9)].
+- Baseline hepatic function evaluation: Tofacitinib oral solution is not recommended for patients with severe hepatic impairment [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 - Update immunizations according to current immunization guidelines.
-  The interval between live vaccinations and initiation of tofacitinib oral solution should be in accordance with current vaccination guidelines regarding immunosuppressive agents [see Warnings and Precautions (5.9)].
+  The interval between live vaccinations and initiation of tofacitinib oral solution should be in accordance with current vaccination guidelines regarding immunosuppressive agents [see Warnings and Precautions (5.10)].
 
 ## 2.2 Important Administration Instructions
 
 - XELJANZ XR (extended-release tablets) is not substitutable with tofacitinib oral solution.
   Switching between XELJANZ and XELJANZ XR should be made by the healthcare provider.
-- Dose interruption is recommended for management of lymphopenia, neutropenia, and anemia [see Warnings and Precautions (5.8) and Adverse Reactions (6.1)].
+- Dose interruption is recommended for management of lymphopenia, neutropenia, and anemia [see Warnings and Precautions (5.9) and Adverse Reactions (6.1)].
 - Interrupt use of tofacitinib oral solution if a patient develops a serious infection until the infection is controlled [see Warnings and Precautions (5.1)].
 - Take tofacitinib oral solution with or without food [see Clinical Pharmacology (12.3)].
 
@@ -50,4 +50,4 @@ Table 2: Recommended Dosage of XELJANZ Tablets and Tofacitinib Oral Solution in 
 | Patients with ANC 500 to 1000 cells/mm3 | Interrupt dosing until ANC is greater than 1000 cells/mm3. |
 | Patients with hemoglobin less than 8 g/dL or a decrease of more than 2 g/dL | Interrupt dosing until hemoglobin values have normalized. |
 
-a Excludes patients who concomitantly use XELJANZ tabletsand tofacitinib oral solution) with strong CYP3A4 inhibitor(s) or moderate CYP3A4 inhibitor(s) and strong CYP2C19 inhibitor(s), as well as patients with lymphocyte count less than 500 cells/mm3, ANC <1000 cells/mm3, or hemoglobin less than 8 g/dL or a decrease of more than 2 g/dL. b Patients treated with tofacitinib oral solution 5 mL may be switched to XELJANZ tablets5 mg.
+a Excludes patients who concomitantly use XELJANZ tablets andtofacitinib oral solution) with strong CYP3A4 inhibitor(s) or moderate CYP3A4 inhibitor(s) and strong CYP2C19 inhibitor(s), as well as patients with lymphocyte count less than 500 cells/mm3, ANC <1000 cells/mm3, or hemoglobin less than 8 g/dL or a decrease of more than 2 g/dL. b Patients treated with tofacitinib oral solution 5 mL may be switched to XELJANZ tablets 5 mg.

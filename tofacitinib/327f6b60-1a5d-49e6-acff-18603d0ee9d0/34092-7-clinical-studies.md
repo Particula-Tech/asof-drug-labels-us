@@ -5,18 +5,18 @@
 The psoriatic arthritis (PsA) clinical development program with XELJANZ tablets included 2 multicenter, randomized, double-blind, placebo-controlled trials in 816 adults with active PsA (Studies PsA-I and PsA-II).
 Trial Designs and Population
 
-All patients had active PsA for at least 6 months based upon the Classification Criteria for Psoriatic Arthritis (CASPA-R), at least 3 tender/painful joints and at least 3 swollen joints, and active plaque psoriasis.
-Patients randomized and treated across the 2 clinical trials represented different PsA subtypes at screening, including <5 joints or asymmetric involvement (21%), ≥5 joints involved (90%), distal interphalangeal (DI-P) joint involvement (61%), arthritis mutilans (8%), and spondylitis (19%).
+All patients had active PsA for at least 6 months based upon the Classification Criteria for Psoriatic Arthritis (CASPAR), at least 3 tender/painful joints and at least 3 swollen joints, and active plaque psoriasis.
+Patients randomized and treated across the 2 clinical trials represented different PsA subtypes at screening, including <5 joints or asymmetric involvement (21%), ≥5 joints involved (90%), distal interphalangeal (DIP) joint involvement (61%), arthritis mutilans (8%), and spondylitis (19%).
 Patients in these clinical trials had a diagnosis of PsA for a mean (SD) of 7.7 (7.2) years.
 At baseline, 80% and 53% of patients had enthesitis and dactylitis, respectively.
 At baseline, all patients were required to receive treatment with a stable dose of a nonbiologic DMARD (79% received methotrexate, 13% received sulfasalazine, 7% received leflunomide, 1% received other nonbiologic DMARDs).
 In both clinical trials, the primary endpoints were the ACR20 response and the change from baseline in HAQ-DI at Month 3.
 
 - Study PsA-I was a 12-month clinical trial in 422 patients who had an inadequate response to a nonbiologic DMARD (67% and 33% were inadequate responders to 1 nonbiologic DMARD and ≥2 nonbiologic DMARDs, respectively) and who were naïve to treatment with a TNF blocker.
-  Although Study PsA-1 included patients who are TNF blocker naïve, tofacitinib oral solution is not approved for use in TNF blocker-naïve patients[see Indications and Usage (1.2)].
-  Patients were randomized in a 2:2:2:1:1 ratio to receive XELJANZ tablets 5 mg twice daily, XELJANZ tablets10 mg twice daily, adalimumab 40 mg subcutaneously once every 2 weeks, placebo to XELJANZ tablets 5 mg twice daily treatment sequence, or placebo to XELJANZ tablets 10 mg twice daily treatment sequence, respectively; study drug was added to background nonbiologic DMARD treatment.
+  Although Study PsA-1 included patients who are TNF blocker-naïve, tofacitinib oral solution is not approved for use in TNF blocker-naïve patients[see Indications and Usage (1.2)].
+  Patients were randomized in a 2:2:2:1:1 ratio to receive XELJANZ tablets 5 mg twice daily, XELJANZ tablets 10mg twice daily, adalimumab 40 mg subcutaneously once every 2 weeks, placebo to XELJANZ tablets 5 mg twice daily treatment sequence, or placebo to XELJANZ tablets 10 mg twice daily treatment sequence, respectively; study drug was added to background nonbiologic DMARD treatment.
   At the Month 3 visit, all patients randomized to placebo treatment were switched in a blinded fashion to a predetermined XELJANZ tablets dosage of 5 mg or 10 mg twice daily.
-  Study PsA-I was not designed to demonstrate noninferiority or superiority to adalimumab.
+  Study PsA-I was not designed to demonstrate non-inferiority or superiority to adalimumab.
 - Study PsA-II was a 6-month clinical trial in 394 patients who had an inadequate response to at least 1 approved TNF blocker (66%, 19%, and 15% were inadequate responders to 1 TNF blocker, 2 TNF blockers and ≥3 TNF blockers, respectively).
   Patients were randomized in a 2:2:1:1 ratio to receive XELJANZ tablets 5 mg twice daily, XELJANZ tablets 10 mg twice daily, placebo to XELJANZ tablets 5 mg twice daily treatment sequence, or placebo to XELJANZ tablets 10 mg twice daily treatment sequence, respectively; study drug was added to background nonbiologic DMARD treatment.
   At the Month 3 visit, placebo patients were switched in a blinded fashion to a predetermined XELJANZ tablets dosage of 5 mg or 10 mg twice daily as in Study PsA-I.
@@ -98,7 +98,7 @@ a N is the total number of patients in the statistical analysis. b Inadequate re
 In Study PsA-I, the HAQ-DI responder rate (response defined as having improvement from baseline of ≥0.35) at Month 3 was 53% in patients receiving XELJANZ tablets 5 mg twice daily and 31% in patients receiving placebo.
 Similar responses were observed in Study PsA-II.
 Other Health-Related Outcomes General health status was assessed by the Short Form health survey (SF-36).
-In Studies PsA-I and PsA-II, patients receiving XELJANZ tablets 5 mg twice daily had greater improvement from baseline compared to placebo in Physical Component Summary (PC-S) score, but not in Mental Component Summary (MC-S) score at Month 3.
+In Studies PsA-I and PsA-II, patients receiving XELJANZ tablets 5 mg twice daily had greater improvement from baseline compared to placebo in Physical Component Summary (PCS) score, but not in Mental Component Summary (MCS) score at Month 3.
 Patients receiving XELJANZ tablets 5 mg twice daily reported consistently greater improvement relative to placebo in the domains of Physical Functioning, Bodily Pain, Vitality, and Social Functioning, but not in Role-Physical, General Health, Role-Emotional, or Mental Health.
 Radiographic Response Treatment effect on inhibition of radiographic progression in PsA could not be established from the results of Study PsA-I.
 
@@ -106,7 +106,7 @@ Radiographic Response Treatment effect on inhibition of radiographic progression
 
 The efficacy of tofacitinib for pcJIA was assessed in Study pcJIA-I (NCT02592434).
 This was a 44-week, two-part study (that consisted of an 18-week, open-label, run-in phase, followed by a 26-week double-blind, placebo-controlled, randomized withdrawal phase) in pediatric patients 2 years to 17 years of age with active rheumatoid factor (RF) negative polyarthritis, RF positive polyarthritis, extended oligoarthritis, and systemic JIA without systemic manifestations who had an inadequate response or intolerance to at least one DMARD which could have included MTX or biologic agents.
-This study also included patients ages 2 years to 17 years of age with active juvenile psoriatic arthritis (jPsA) and enthesitis related arthritis (ERA) who had an inadequate response to NSAIDs.
+This study also included patients ages 2 years to 17 years of age with active juvenile psoriatic arthritis (jPsA) and enthesitis-related arthritis (ERA) who had an inadequate response to NSAIDs.
 Although the clinical studies included some patients who are TNF blocker-naïve, tofacitinib is not approved for use in TNF blocker-naïve patients [see Indications and Usage (1.4)].
 Patients received tofacitinib(dosed at 5 mg twice daily or body weight-based equivalent twice daily) for 18 weeks (run-in phase) followed by randomization to either tofacitinib(dosed at 5 mg twice daily or body weight-based equivalent twice daily) or placebo for 26 weeks (double-blind phase).
 Only patients who achieved at least a JIA ACR30 response at the end of the run-in phase were randomized (1:1) to the double-blind phase.
@@ -165,16 +165,15 @@ Table 22: Results of RA Safety Study 1 in Adults with Rheumatoid Arthritis 50 ye
 
 Note: Tofacitinib10 mg twice daily was discontinued by the Data Monitoring Committee due to safety concerns, and ongoing patients switched from tofacitinib 10 mg to tofacitinib5 mg.
 The column “tofacitinib 10 mg Twice Daily” includes all events and follow-up for patients randomized to tofacitinib10 mg twice daily.
-A tofacitinib oralsolution 10 mg twice daily dosage is not recommended for the treatment of PsA or pcJIA.
+A tofacitinib oral solution10 mg twice daily dosage is not recommended for the treatment of PsA or pcJIA.
 N indicates number of patients; n indicates number of patients with events.
 IR indicates incidence rate per 100 person-year (PY). †MI and Stroke include fatal and non-fatal events. ††Data and analyses for Malignancies excluding NMSC for current and ex-smokers are included.
-There were 720 current and ex-smokers randomized to tofacitinib5 mg, 704 to tofacitinib 10 mg, and 679 to TNF blockers. *HR (95%) CI for tofacitinibvs.
-TNF Blocker (Univariate Cox Proportional Hazard Model).
+There were 720 current and ex-smokers randomized to tofacitinib5 mg, 704 to tofacitinib 10 mg, and 679 to TNF blockers. *HR (95%) CI for tofacitinib vs. TNF Blocker (Univariate Cox Proportional Hazard Model).
 NMSC: Non-melanoma Skin Cancer; MACE: Major Adverse Cardiac Events; HR: Hazard Ratio; DVT: Deep Vein Thrombosis; PE: Pulmonary Embolism; VTE: Venous Thromboembolism, first occurrence of a VTE, defined as the composite of adjudicated DVT and adjudicated PE; ATE: Arterial Thromboembolism; TE: Thromboembolism, first occurrence of a TE, defined as the composite of adjudicated VTE and unadjudicated ATE.
 Lymphomas and lung cancers, which are a subset of all malignancies in RA Safety Study 1, were observed at a higher rate in patients treated with tofacitinib 5 mg twice a day and tofacitinib 10 mg twice a day compared to those treated with TNF blockers.
 Lymphoma was reported for 4 patients who received tofacitinib 5 mg twice a day, 6 patients who received tofacitinib 10 mg twice a day, and 1 patient who received TNF blockers (Incidence Rate [IR] of 0.07, 0.11, and0.02 per 100 patient-years, respectively).
-Among current and past smokers, lung cancer was reported for 13 patients who received tofacitinib5 mg twice a day, 15 patients who received tofacitinib 10 mg twice a day, and 7 patients who received TNF blockers (IR of 0.48, 0.59, and 0.27 per 100 patient-years, respectively).
+Among current and past smokers, lung cancer was reported for 13 patients who received tofacitinib 5 mg twice a day, 15 patients who received tofacitinib 10 mg twice a day, and 7 patients who received TNF blockers (IR of 0.48, 0.59, and 0.27 per 100 patient-years, respectively).
 Given these increased risks, tofacitinib oral solution 10 mg twice daily dosage is not recommended for the treatment of PsA or pcJIA [see Dosage and Administration (2.4)].
 
 The overall fractures and osteoporotic fractures were observed at a higher rate in both tofacitinib treatment groups compared to the TNF blocker treatment group.
-The observed incidence rate of osteoporotic fractures was higher in women than men, and was highest in women on tofacitinib 10 mg twice daily (1.56 per 100 patient-years), followed by tofacitinib 5 mg twice daily (1.26 per 100 patient-years), and TNF blockers (1.01 per 100 patient-years).
+The observed incidence rate of osteoporotic fractures was higher in women than men, and was highest in women on tofacitinib 10 mg twice daily (1.56 per 100 patient-years), followed by tofacitinib 5mg twice daily (1.26 per 100 patient-years), and TNF blockers (1.01 per 100 patient-years).

@@ -11,7 +11,9 @@ Major Adverse Cardiovascular Events Inform patients that tofacitinib oral soluti
 Instruct all patients, especially current or past smokers or patients with other cardiovascular risk factors, to be alert for the development of signs and symptoms of cardiovascular events [see Warnings and Precautions (5.4)].
 Thrombosis Advise patients to stop taking tofacitinib oral solution and to call their healthcare provider right away if they experience any symptoms of thrombosis (sudden shortness of breath, chest pain worsened with breathing, swelling of leg or arm, leg pain or tenderness, red or discolored skin in the affected leg or arm)[see Warnings and Precautions (5.5)].
 Hypersensitivity Advise patients to stop taking tofacitinib oral solution and to call their healthcare provider right away if they experience any symptoms of allergic reactions while taking tofacitinib oral solution [see Warnings and Precautions (5.7)].
-Important Information on Laboratory Abnormalities Inform patients that tofacitinib oral solution may affect certain lab test results, and that blood tests are required before and during tofacitinib oral solution treatment[seeWarnings and Precautions (5.8)].
+Hypoglycemia in Patients with Diabetes Consider advising patients with diabetes to increase monitoring of blood glucose since hypoglycemia, including severe hypoglycemia, has been reported after starting tofacitinib oral solution.
+Advise patients with diabetes to notify their healthcare provider if they develop signs or symptoms of hypoglycemia [see Warnings and Precautions (5.8)].
+Important Information on Laboratory Abnormalities Inform patients that tofacitinib oral solution may affect certain lab test results, and that blood tests are required before and during tofacitinib oral solution treatment[seeWarnings and Precautions (5.9)].
 Pregnancy Advise pregnant females and females of reproductive potential of the potential risk to a fetus.
 Advise females to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 Lactation Advise women not to breastfeed during treatment with tofacitinib oral solution and for at least 18 hours after the last dose of tofacitinib oral solution [see Use in Specific Populations (8.2)].
@@ -20,4 +22,4 @@ It is not known if this effect is reversible.
 XELJANZ and XELJANZ XR are registered trademarks of Pfizer Inc. All trademarks are the property of their respective owners.
 Manufactured by: MSN Pharmaceuticals Inc. Piscataway, NJ 08854 Distributed by: Novadoz Pharmaceuticals LLC Piscataway, NJ 08854-3714 This product’s labeling may have been updated.
 For the most recent prescribing information, please visit www.novadozpharma.com.
-Issued: 05/2026
+Revised: 08/2026
