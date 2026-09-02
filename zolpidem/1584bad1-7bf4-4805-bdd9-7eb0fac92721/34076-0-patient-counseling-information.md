@@ -58,18 +58,20 @@ Advise breastfeeding mothers using zolpidem tartrate tablets to monitor infants 
 Instruct breastfeeding mothers to seek immediate medical care if they notice these signs.
 A lactating woman may consider pumping and discarding breastmilk during treatment and for 23 hours after zolpidem tartrate tablets administration to minimize drug exposure to a breastfed infant [see Use in Specific Populations (8.2)].
 
+Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
+
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD., India.
 
-8089637 Revised: September 2022
+8097534 Revised: August 2024
 
 or
 
 Manufactured by: Piramal Pharma Limited, Pithampur - 454775, INDIA.
 
-8092659 Revised: August 2023
+8097495 Revised: August 2024
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+Torrent Pharma INC., Basking Ridge, NJ 07920.

@@ -1,3 +1,5 @@
+Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
+
 MEDICATION GUIDE
 
 Zolpidem Tartrate (zole-PI-dem TAR-trate) Tablets, USP C-IV
@@ -119,22 +121,24 @@ Active Ingredient: Zolpidem tartrate, USP
 
 Inactive Ingredients: hypromellose, lactose monohydrate, microcrystalline cellulose, magnesium stearate, polyethylene glycol, sodium starch glycolate, titanium dioxide and ferric oxide red; the 10 mg tablet also contains ferric oxide yellow.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+For more information call 1-800-912-9561.
 
 Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD., India.
 
-8089638 Revised: September 2022
+8097535 Revised: August 2024
 
 or
 
 Manufactured by: Piramal Pharma Limited, Pithampur - 454775, INDIA.
 
-8092660 Revised: August 2023
+8097496 Revised: August 2024
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+Torrent Pharma INC., Basking Ridge, NJ 07920.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
