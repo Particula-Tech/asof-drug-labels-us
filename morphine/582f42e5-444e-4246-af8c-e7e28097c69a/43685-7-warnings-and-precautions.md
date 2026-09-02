@@ -7,6 +7,8 @@ As an opioid, Morphine Sulfate Injection exposes users to the risks of addiction
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed Morphine Sulfate Injection.
 Addiction can occur at recommended dosages and if the drug is misused or abused.
+The risk of opioid-related overdose or overdose-related death is increased with higher opioid doses, and this risk persists over the course of therapy.
+In postmarketing studies, addiction, abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use [see Adverse Reactions (6.2)].
 
 Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing Morphine Sulfate Injection, and monitor all patients receiving morphine sulfate for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
@@ -22,7 +24,7 @@ Contact local state professional licensing board or state-controlled substances 
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agents (e.g., naloxone, nalmefene), depending on the patient’s clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of Morphine Sulfate Injection, the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -38,7 +40,7 @@ In patients who present with CSA, consider decreasing the opioid dosage using be
 
 ## 5.3 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Morphine Sulfate Injection with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Morphine Sulfate Injection with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -80,6 +82,7 @@ The use of Morphine Sulfate Injection in patients with acute or severe bronchial
 Patients with Chronic Pulmonary Disease: Morphine Sulfate Injection-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Morphine Sulfate Injection [see Warnings and Precautions (5.2)].
 
 Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
+
 Monitor such patients closely, particularly when initiating and titrating Morphine Sulfate Injection and when Morphine Sulfate Injection is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2, 5.3), Drug Interactions (7)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
 
@@ -102,6 +105,7 @@ The information available does not identify any particular opioids as being more
 
 Morphine Sulfate Injection may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
 There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
+
 Monitor these patients for signs of hypotension after initiating or titrating the dosage of Morphine Sulfate Injection.
 In patients with circulatory shock, Morphine Sulfate Injection may cause vasodilation that can further reduce cardiac output and blood pressure.
 Avoid the use of Morphine Sulfate Injection in patients with circulatory shock.
@@ -114,13 +118,17 @@ Monitor such patients for signs of sedation and respiratory depression, particul
 Opioids may also obscure the clinical course in a patient with a head injury.
 Avoid the use of Morphine Sulfate Injection in patients with impaired consciousness or coma.
 
-## 5.12 Risks of Use in Patients with Gastrointestinal Conditions
+## 5.12 Risks of Gastrointestinal Complications
 
 Morphine Sulfate Injection is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
 The morphine in Morphine Sulfate Injection may cause spasm of the sphincter of Oddi.
 Opioids may cause increases in serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
+The risk of OIED may increase as the dose and/or duration of opioids increases.
+Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain) and, if necessary, adjust opioid therapy as clinically appropriate [see Clinical Pharmacology (12.2)].
 
 ## 5.13 Risk of Seizures
 
@@ -135,7 +143,7 @@ Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and bu
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 When discontinuing Morphine Sulfate Injection in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.4)].
-Do not abruptly discontinue Morphine Sulfate Injection in these patients [see Drug Abuse and Dependence (9.3)].
+Do not rapidly reduce or abruptly discontinue Morphine Sulfate Injection in these patients [see Drug Abuse and Dependence (9.3)].
 
 ## 5.15 Central Nervous System Toxicity
 

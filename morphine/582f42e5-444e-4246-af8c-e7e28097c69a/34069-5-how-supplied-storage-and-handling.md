@@ -8,7 +8,7 @@ Morphine Sulfate Injection, USP is supplied as a sterile solution in single dose
 | 475401 | NDC 63323-454-01 Unit of 25 | 4 mg per mL | NDC 63323-454-00 1 mL Single Dose Vial |
 | 475101 | NDC 63323-451-01 Unit of 25 | 10 mg per mL | NDC 63323-451-001 mL Single Dose Vial |
 
-STORE AT: 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
+STORE AT: 20°C to 25°C (68°F to 77°F)[see USP Controlled Room Temperature].
 
 Protect from light (keep in outer carton).
 Discard unused portion.

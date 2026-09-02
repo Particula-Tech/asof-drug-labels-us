@@ -11,7 +11,7 @@ Morphine sulfate is a fine white powder.
 When exposed to air it gradually loses water of hydration, and darkens on prolonged exposure to light.
 It is soluble in water and ethanol at room temperature.
 
-Each milliliter of sterile solution contains 2 mg (equivalent to 1.75 mg Morphine), 4 mg (equivalent to 3.50 mg Morphine) or 10 mg (equivalent to 8.73 mg Morphine) of Morphine Sulfate, USP in 1 mL total volume of water for injection solution with inactive ingredients.
+Each milliliter of sterile solution contains 2 mg (equivalent to 1.75 mg Morphine), 4 mg (equivalent to 3.50 mg Morphine), or 10 mg (equivalent to 8.73 mg Morphine) of Morphine Sulfate, USP in 1 mL total volume of water for injection solution with inactive ingredients.
 
 The inactive ingredients in Morphine Sulfate Injection, USP include:
 

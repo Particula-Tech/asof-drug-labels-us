@@ -26,7 +26,7 @@ Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage 
 Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Morphine Sulfate Injection is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
 Opioid analgesics, including Morphine Sulfate Injection, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
@@ -112,7 +112,7 @@ Respiratory depression is the chief risk for elderly patients treated with opioi
 Titrate the dosage of Morphine Sulfate Injection slowly in geriatric patients and monitor for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.7)].
 
 Morphine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
 ## 8.6 Hepatic Impairment
 
