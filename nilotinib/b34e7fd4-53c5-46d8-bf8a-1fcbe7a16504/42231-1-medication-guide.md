@@ -117,9 +117,8 @@
 | What are the ingredients in nilotinib capsules? Active ingredient: nilotinib Inactive ingredients: colloidal silicone dioxide, crospovidone, lactose monohydrate, magnesium stearate and poloxamer 188. |  |  |  |  |
 | The capsule shell for 150 mg and 200 mg contains gelatin, iron oxide (yellow) and titanium dioxide. Additionally, the capsule shell for 150 mg contains iron oxide red. The black imprinting ink for 150 mg contains iron oxide (black), potassium hydroxide, propylene glycol and shellac. The red imprinting ink for 200 mg contains FD&C Red No. 40 aluminum lake, povidone, propylene glycol, shellac, sodium hydroxide and titanium dioxide. |  |  |  |  |
 | Trademarks are the property of their respective owners. |  |  |  |  |
-| Manufactured by: TORRENT PHARMACEUTICALS LTD., INDIA. |  |  |  |  |
-| Manufactured for: TORRENT PHARMA INC., Basking Ridge, NJ 07920. |  |  |  |  |
+| Manufactured by: Torrent Pharmaceuticals LTD., India. |  |  |  |  |
+| Manufactured for: Torrent Pharma INC., Basking Ridge, NJ 07920. |  |  |  |  |
 | For more information about nilotinib capsules call 1-800-912-9561. |  |  |  |  |
-| 8103512 Revised: October 2025 |  |  |  |  |
 | Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's TASIGNA (nilotinib) capsules. However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information. |  |  |  |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  |  |  |

@@ -93,10 +93,10 @@ Advise patients of the following:
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., INDIA.
+Torrent Pharmaceuticals LTD., India.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8104554 Revised: October 2025
+8105309 Revised: April 2026
