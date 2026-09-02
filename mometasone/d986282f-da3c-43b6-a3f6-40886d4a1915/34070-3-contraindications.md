@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-Mometasone Furoate Ointment, 0.1% is contraindicated in those patients with a history of hypersensitivity to any of the components in the preparation.
+Mometasone furoate ointment is contraindicated in patients with a history of hypersensitivity to mometasone furoate or any of the excipients in mometasone furoate ointment.
