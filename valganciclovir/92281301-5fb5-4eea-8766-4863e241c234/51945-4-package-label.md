@@ -2,9 +2,7 @@
 
 NDC 0591-2579-20
 
-Valganciclovir for Oral Solution, USP
-
-50 mg/mL
+Valganciclovir for Oral Solution 50 mg/mL
 
 Each mL of constituted oral solution contains 50 mg valganciclovir free base.
 
