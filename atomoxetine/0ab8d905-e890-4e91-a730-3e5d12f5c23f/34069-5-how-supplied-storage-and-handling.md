@@ -1,19 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
-
-| Atomoxetine Capsules, USP | 10 mga | 18 mga | 25 mga | 40 mga | 60 mga | 80 mga | 100 mga |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Color | Opaque White, Opaque White | Opaque Yellow, Opaque White | Opaque Blue, Opaque White | Opaque Blue, Opaque Blue | Opaque Blue, Opaque Yellow | Opaque Reddish Brown, Opaque White | Opaque Reddish Brown, Opaque Reddish Brown |
-| Identification | 265/10 | 266/18 | 267/25 | 268/40 | 269/60 | 270/80 | 271/100 |
-|  | 10 mg | 18 mg | 25 mg | 40 mg | 60 mg | 80 mg | 100 mg |
-| NDC Codes: |  |  |  |  |  |  |  |
-| Bottles of 30 with child-resistant closure | 68462-265-30 | 68462-266-30 | 68462-267-30 | 68462-268-30 | 68462-269-30 | 68462-270-30 | 68462-271-30 |
-| Bottles of 1,500 |  |  |  |  |  |  | 68462-271-51 |
-| Bottles of 2,000 | 68462-265-23 | 68462-266-23 | 68462-267-23 | 68462-268-23 | 68462-269-23 | 68462-270-23 |  |
-| a Atomoxetine base equivalent. |  |  |  |  |  |  |  |
+## 16.1 How Supplied Table 10 displays the available atomoxetine capsules strengths. Table 10: Atomoxetine Capsules StrengthsStrengthaColorIdentificationNDCBottles of 30 with child-resistant closureBottles of 1500Bottles of 200010 mgopaque white, opaque white265/1068462-265-30--68462-265-2318 mgopaque yellow, opaque white266/1868462-266-30--68462-266-2325 mgopaque blue, opaque white267/2568462-267-30--68462-267-2340 mgopaque blue, opaque blue268/4068462-268-30--68462-268-2360 mgopaque blue, opaque yellow268/4068462-269-30--68462-269-2380 mgopaque reddish brown, opaque white270/8068462-270-30--68462-270-23100 mgopaque reddish brown, opaque reddish brown271/10068462-271-3068462-271-51-- a Strength is based on the base (atomoxetine).
 
 ## 16.2 Storage and Handling
 
-- Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
-  Keep bottles tightly closed.
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
