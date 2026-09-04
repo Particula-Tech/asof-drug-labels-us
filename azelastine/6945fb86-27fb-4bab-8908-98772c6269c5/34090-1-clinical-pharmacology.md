@@ -7,7 +7,7 @@ Decreased chemotaxis and activation of eosinophils has also been demonstrated.
 Pharmacokinetics and Metabolism:
 
 Absorption of azelastine following ocular administration was relatively low.
-A study in symptomatic patients receiving one drop of Azelastine Hydrochloride Ophthalmic Solution, 0.05% in each eye two to four times a day (0.06 to 0.12 mg azelastine hydrochloride) demonstrated plasma concentrations of azelastine hydrochloride to generally be between 0.02 and 0.25 ng/mL after 56 days of treatment.
+A study in symptomatic patients receiving one drop of azelastine hydrochloride ophthalmic solution, 0.05% in each eye two to four times a day (0.06 to 0.12 mg azelastine hydrochloride) demonstrated plasma concentrations of azelastine hydrochloride to generally be between 0.02 and 0.25 ng/mL after 56 days of treatment.
 Three of nineteen patients had quantifiable amounts of N-desmethylazelastine that ranged from 0.25–0.87 ng/mL at Day 56.
 
 Based on intravenous and oral administration, the elimination half-life, steady-state volume of distribution and plasma clearance were 22 hours, 14.5 L/kg and 0.5 L/h/kg, respectively.
@@ -17,8 +17,8 @@ In-vitro studies in human plasma indicate that the plasma protein binding of aze
 
 Clinical Trials:
 
-In a conjunctival antigen challenge study, Azelastine Hydrochloride Ophthalmic Solution, 0.05% was more effective than its vehicle in preventing itching associated with allergic conjunctivitis.
-Azelastine Hydrochloride Ophthalmic Solution, 0.05% had a rapid (within 3 minutes) onset of effect and a duration of effect of approximately 8 hours for the prevention of itching.
+In a conjunctival antigen challenge study, azelastine hydrochloride ophthalmic solution, 0.05% was more effective than its vehicle in preventing itching associated with allergic conjunctivitis.
+Azelastine hydrochloride ophthalmic solution, 0.05% had a rapid (within 3 minutes) onset of effect and a duration of effect of approximately 8 hours for the prevention of itching.
 
-In environmental studies, adult and pediatric patients with seasonal allergic conjunctivitis were treated with Azelastine Hydrochloride Ophthalmic Solution, 0.05% for two to eight weeks.
-In these studies, Azelastine Hydrochloride Ophthalmic Solution, 0.05% was more effective than its vehicle in relieving itching associated with allergic conjunctivitis.
+In environmental studies, adult and pediatric patients with seasonal allergic conjunctivitis were treated with azelastine hydrochloride ophthalmic solution, 0.05% for two to eight weeks.
+In these studies, azelastine hydrochloride ophthalmic solution, 0.05% was more effective than its vehicle in relieving itching associated with allergic conjunctivitis.

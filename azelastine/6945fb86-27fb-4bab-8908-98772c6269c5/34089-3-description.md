@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Azelastine Hydrochloride Ophthalmic Solution, 0.05% is a sterile ophthalmic solution containing azelastine hydrochloride, a relatively selective H1-receptor antagonist for topical administration to the eyes.
+Azelastine hydrochloride ophthalmic solution, 0.05% is a sterile ophthalmic solution containing azelastine hydrochloride, a relatively selective H1-receptor antagonist for topical administration to the eyes.
 Azelastine hydrochloride is a white crystalline powder with a molecular weight of 418.37.
 Azelastine hydrochloride is sparingly soluble in water, methanol and propylene glycol, and slightly soluble in ethanol, octanol, and glycerine.
 Azelastine hydrochloride is a racemic mixture with a melting point of 225°C.
@@ -8,5 +8,5 @@ The chemical name for azelastine hydrochloride is (±)-1-(2H)-phthalazinone,4-[(
 
 Empirical chemical structure: C22H24ClN3O•HCl
 
-Each mL of Azelastine Hydrochloride Ophthalmic Solution, 0.05% contains: Active: 0.5 mg azelastine hydrochloride, equivalent to 0.457 mg of azelastine base; Preservative: 0.125 mg benzalkonium chloride; Inactives: disodium edetate dihydrate, hypromellose, sorbitol solution, sodium hydroxide and water for injection.
+Each mL of azelastine hydrochloride ophthalmic solution, 0.05% contains: Active: 0.5 mg azelastine hydrochloride, equivalent to 0.457 mg of azelastine base; Preservative: 0.125 mg benzalkonium chloride; Inactives: disodium edetate dihydrate, hypromellose, sodium hydroxide, sorbitol solution, and water for injection.
 It has a pH of approximately 5.0 to 6.5 and an osmolarity of approximately 271 to 312 mOsmol/L.

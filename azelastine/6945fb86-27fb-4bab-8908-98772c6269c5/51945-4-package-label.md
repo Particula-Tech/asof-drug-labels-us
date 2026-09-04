@@ -12,11 +12,17 @@ Solution
 
 0.05%
 
-FOR TOPICAL APPLICATION IN THE EYE
+FOR TOPICAL APPLICATION
+
+IN THE EYE
 
 Rx only
 
-Sterile
+STERILE
+
+This package is not
+
+child resistant.
 
 6 mL
 
