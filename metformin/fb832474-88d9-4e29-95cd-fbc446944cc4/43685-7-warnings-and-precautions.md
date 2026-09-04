@@ -41,13 +41,17 @@ For each of the known and possible risk factors for metformin-associated lactic 
 - •Hepatic Impairment: Patients with hepatic impairment have developed cases of metformin-associated lactic acidosis.
   This may be due to impaired lactate clearance resulting in higher lactate blood levels.
   Therefore, avoid use of GLUMETZA in patients with clinical or laboratory evidence of hepatic disease.
+- •Mitochondrial Disease: Metformin may increase the risk of lactic acidosis in patients with mitochondrial diseases such as mitochondrial encephalomyopathy with lactic acidosis, and stroke-like episodes (MELAS) syndrome and maternally inherited diabetes and deafness (MIDD).
+  GLUMETZA is not recommended in patients with mitochondrial diseases such as MELAS syndrome and MIDD.
+- If a patient taking GLUMETZA develops elevated lactic acid levels (with or without accompanying neurologic signs and symptoms), discontinue GLUMETZA.
+  Depending on the clinical context, consider evaluating the patients for MELAS, MIDD, or other mitochondrial diseases such as MELAS syndrome and MIDD.
 
 ## 5.2 Vitamin B12 Deficiency
 
 In clinical trials of 29-week duration with metformin HCl tablets, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
-Measure hematologic parameters on an annual basis and vitamin B12 at 2 to 3 year intervals in patients on GLUMETZA and manage any abnormalities [see Adverse Reactions (6.1)].
+Measure hematologic parameters on an annual basis and vitamin B12 at 2 to 3 year intervals in patients on GLUMETZA and manage any abnormalities [seeAdverse Reactions (6.1)].
 
 ## 5.3 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 

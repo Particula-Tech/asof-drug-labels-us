@@ -31,7 +31,7 @@ A 3-week GLUMETZA titration period was followed by a 21-week maintenance treatme
 Use of insulin and oral hypoglycemic agents other than the study drugs were prohibited.
 The results are presented in Table 6.
 
-Table 6: Mean Changes from Baseline in HbA1c and Fasting Plasma Glucose at Week 24 for the GLUMETZA + Glyburide Groups and Placebo+ Glyburide Treatment Group in Patients with Type 2 Diabetes Mellitus
+Table 6: Mean Changes from Baseline in HbA1c and Fasting Plasma Glucose at Week 24 for the GLUMETZA + Glyburide Groups and Placebo + Glyburide Treatment Group in Patients with Type 2 Diabetes Mellitus
 
 | 1,500 mg Once Daily (n=144) | 1,000 mg Twice Daily (n=141) | 2,000 mg Once Daily (n=146) |  |  |
 | --- | --- | --- | --- | --- |
