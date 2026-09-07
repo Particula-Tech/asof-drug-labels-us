@@ -41,7 +41,7 @@ Headache response was evaluated on a five-point scale that included pain respons
 | Placebo | 50 | 20% | 30% |  |
 |  | Difference from Placebo |  | 10% | 17% |
 
-The Kaplan-Meier plots below (Figure 1 and Figure 2) provides an estimate of the probability that a patient will have responded to a single 2 mg dose of dihydroergotamine mesylate nasal spray as a function of the time elapsed since initiation of treatment.
+The Kaplan-Meier plots below (Figure 1 and Figure 2) provide an estimate of the probability that a patient will have responded to a single 2 mg dose of dihydroergotamine mesylate nasal spray as a function of the time elapsed since initiation of treatment.
 
 | Figure 1 Estimated Probability of a Patient Responding During the Four Hours Following a Single 2 mg Dose of Dihydroergotamine Mesylate Nasal Spray as a Function of the Time Elapsed Since Initiation of TreatmentThe figure shows the probability over time of obtaining a response following treatment with dihydroergotamine mesylate nasal spray. Headache response was based on pain intensity as interpreted by the patient using a four-point pain intensity scale. Patients not achieving response within 4 hours were censored to 4 hours. |
 | --- |

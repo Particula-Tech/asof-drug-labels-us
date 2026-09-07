@@ -2,8 +2,7 @@
 
 ## 16.1 How Supplied
 
-TRUDHESA (dihydroergotamine mesylate) nasal spray (0.725 mg per spray) is supplied as a package of 4 single-dose units (NDC 77530-725-04).
-Each single-dose unit contains:
+TRUDHESA (dihydroergotamine mesylate) nasal spray (0.725 mg per spray) is supplied as a package of 4 single-dose units (NDC 77530-725-04), or 6 single-dose units (NDC 77530-725-06).
 
 - One amber glass vial (NDC 77530-725-01) containing 4 mg dihydroergotamine mesylate in a 1 mL clear and colorless to faintly yellow solution.
   The stopper is not made with natural rubber latex.

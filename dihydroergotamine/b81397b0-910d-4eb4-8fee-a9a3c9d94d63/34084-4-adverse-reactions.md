@@ -62,5 +62,5 @@ Of these, the most common local irritative symptoms were nasopharyngitis, rhinit
 The following adverse reactions have been identified during postapproval use of dihydroergotamine mesylate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Vasospasm, paresthesia, hypertension, dizziness, anxiety, dyspnea, headache, flushing, diarrhea, rash, increased sweating, and pleural and retroperitoneal fibrosis after long-term use of dihydroergotamine.
-Cases of myocardial infarction and stroke have been reported following the use of dihydroergotamine mesylate [see Warnings and Precautions (5.2)].
+- Vasospasm, paresthesia, hypertension, dizziness, anxiety, dyspnea, headache, flushing, diarrhea, rash, increased sweating, and pleural and retroperitoneal fibrosis after long-term use of dihydroergotamine.
+  Cases of myocardial infarction and stroke have been reported following the use of dihydroergotamine mesylate [see Warnings and Precautions (5.2)].
