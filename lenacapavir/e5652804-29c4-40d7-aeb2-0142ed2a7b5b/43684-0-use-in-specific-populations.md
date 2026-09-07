@@ -9,7 +9,9 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-There are insufficient human data on the use of SUNLENCA during pregnancy to inform a drug-associated risk of birth defects and miscarriage.
+Available data from a randomized, controlled trial with lenacapavir use during pregnancy in individuals without HIV-1 have not identified a drug-associated risk for miscarriage, or adverse maternal or fetal outcomes when compared to an active control (see Data).
+The rate of major birth defects in lenacapavir-exposed pregnancies did not exceed the background prevalence rates.
+The risk estimates are imprecise due to small numbers of exposed pregnancies (see Data).
 In animal reproduction studies, no adverse developmental effects were observed when lenacapavir was administered to rats and rabbits at exposures (AUC) ≥16 times the exposure in humans at the recommended human dose (RHD) of SUNLENCA (see Data).
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -18,6 +20,18 @@ The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15 to 20%.
 
 Data
+
+Human Data
+
+In a randomized, controlled trial of individuals without HIV-1 in Uganda and South Africa, there were 208 pregnancies exposed to lenacapavir with known outcomes and 132 deliveries (both live and non-live).
+In the active control arm of this trial, there were 109 pregnancies with known outcomes and 61 deliveries (both live and non-live).
+The adverse pregnancy outcomes of spontaneous abortion, stillbirth, preterm birth, and small for gestational age were similar across both treatment groups.
+
+There were two major birth defects in the lenacapavir arm.
+Both were ventricular septal defects.
+This resulted in a rate of major birth defects that fell within the background prevalence rate for major birth defects.
+
+Concentrations of lenacapavir during each trimester of pregnancy and postpartum were comparable to those in non-pregnant participants.
 
 Animal Data
 
@@ -28,14 +42,19 @@ No significant toxicological effects on embryo-fetal (rats and rabbits) or pre/p
 
 Risk Summary
 
-It is not known whether SUNLENCA is present in human breast milk, affects human milk production, or has effects on the breastfed infant.
-After administration to pregnant rats, lenacapavir was detected in the plasma of nursing rat pups, without effects on these nursing pups (see Data).
+Lenacapavir is present in human milk.
+Lenacapavir was detected at very low levels in infants who were breastfed by individuals who became pregnant while receiving lenacapavir (see Data).
+No adverse effects of lenacapavir in breastfed infants have been observed.
+It is not known if lenacapavir affects milk production.
 
 Potential risks of breastfeeding include: (1) HIV-1 transmission (in infants without HIV-1), (2) developing viral resistance (in infants with HIV-1), and (3) adverse reactions in a breastfed infant similar to those seen in adults.
 
 Data
 
-Lenacapavir was detected at low levels in the plasma of nursing rat pups in the pre/postnatal development study (post-natal day 10).
+Human data
+
+The median lenacapavir concentration in human breast milk to maternal plasma ratio in participants (n=8) who received lenacapavir was 0.63 (range: 0.29 to 1.90).
+The median infant-to-mother plasma ratio for lenacapavir in infants (n=10) who were breastfed by individuals receiving lenacapavir from 0 to less than 13 weeks after delivery was 0.06 (range: 0.01 to 0.20).
 
 ## 8.4 Pediatric Use
 

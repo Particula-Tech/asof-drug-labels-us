@@ -1,5 +1,7 @@
 # 14 CLINICAL STUDIES
 
+## 14.1 Treatment of HIV-1 in Heavily Treatment-Experienced Adults
+
 The efficacy and safety of SUNLENCA in heavily treatment-experienced participants with multidrug resistant HIV-1 is based on 52-week data from CAPELLA, a randomized, placebo-controlled, double-blind, multicenter trial (NCT 04150068).
 
 CAPELLA was conducted in 72 heavily treatment-experienced participants with multiclass resistant HIV-1.
@@ -35,18 +37,18 @@ The percentage of participants in the non-randomized cohort with known resistanc
 In cohort 2, 31% of participants had no fully active agents, 42% had 1 fully active agent, and 28% had 2 or more fully active agents within their initial failing regimen, including 6% of participants who were receiving fostemsavir, which was an investigational agent at the start of the CAPELLA trial.
 
 The primary efficacy endpoint was the proportion of participants in cohort 1 achieving ≥ 0.5 log10 copies/mL reduction from baseline in HIV-1 RNA at the end of the functional monotherapy period.
-The results of the primary endpoint analysis are shown in Table 12.
+The results of the primary endpoint analysis are shown in Table 13.
 
-Table 12 Proportion of Participants Achieving a ≥ 0.5 log10 Decrease in Viral Load at the End of the Functional Monotherapy Period in the CAPELLA Trial (Cohort 1)
+Table 13 Proportion of Participants Achieving a ≥ 0.5 log10 Decrease in Viral Load at the End of the Functional Monotherapy Period in the CAPELLA Trial (Cohort 1)
 
 |  | SUNLENCA (N=24) | Placebo (N=12) |
 | --- | --- | --- |
 | Proportion of Participants Achieving a ≥ 0.5 log10 Decrease in Viral Load | 87.5% | 16.7% |
 | Treatment Difference (95% CI) | 70.8% (34.9% to 90.0%) p < 0.0001 |  |
 
-The results at Weeks 26 and 52 are provided in Table 13 and Table 14.
+The results at Weeks 26 and 52 are provided in Table 14 and Table 15.
 
-Table 13 Virologic Outcomes (HIV-1 RNA < 50 copies/mL) at Weeks 26 Week 26 window was between Days 184 and 232 (inclusive). and 52 Week 52 window was between Days 324 and 414 (inclusive). with SUNLENCA plus OBR in the CAPELLA Trial (Cohort 1)
+Table 14 Virologic Outcomes (HIV-1 RNA < 50 copies/mL) at Weeks 26 Week 26 window was between Days 184 and 232 (inclusive). and 52 Week 52 window was between Days 324 and 414 (inclusive). with SUNLENCA plus OBR in the CAPELLA Trial (Cohort 1)
 
 |  | Week 26 | Week 52 |
 | --- | --- | --- |
@@ -59,7 +61,7 @@ Table 13 Virologic Outcomes (HIV-1 RNA < 50 copies/mL) at Weeks 26 Week 26 windo
 | Missing Data During Window but on Study Drug | 0 | 0 |
 | OBR = optimized background regimen |  |  |
 
-Table 14 Virologic Outcomes (HIV-1 RNA < 50 copies/mL) by Baseline Covariates at Weeks 26 Week 26 window was between Days 184 and 232 (inclusive). and 52 Week 52 window was between Days 324 and 414 (inclusive). with SUNLENCA plus OBR in the CAPELLA trial (Cohort 1)
+Table 15 Virologic Outcomes (HIV-1 RNA < 50 copies/mL) by Baseline Covariates at Weeks 26 Week 26 window was between Days 184 and 232 (inclusive). and 52 Week 52 window was between Days 324 and 414 (inclusive). with SUNLENCA plus OBR in the CAPELLA trial (Cohort 1)
 
 |  | Week 26 | Week 52 |
 | --- | --- | --- |
@@ -104,3 +106,8 @@ A total of 13, 29, and 15 participants started oral bridging following Weeks 26,
 The median (Q1, Q3) duration of oral bridging was 19 weeks (11, 22), and 12% (7/57) received oral bridging for at least 28 weeks.
 
 In a post-hoc analysis, rates of virologic suppression and change from baseline in CD4+ cell counts in the subset of patients who received oral bridging were consistent before and during the oral bridging period.
+
+## 14.2 Oral Loading for Initiation of BIXLENVO
+
+The efficacy of SUNLENCA tablets used for oral loading as a component of the initiation regimen for BIXLENVO were evaluated in two randomized, active controlled studies in virologically suppressed adults with HIV-1, ARTISTRY-1 and ARTISTRY-2.
+See BIXLENVO prescribing information.

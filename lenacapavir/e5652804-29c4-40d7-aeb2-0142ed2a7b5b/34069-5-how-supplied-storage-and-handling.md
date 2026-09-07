@@ -41,7 +41,7 @@ Withdrawal Needle Injection Kit (NDC 61958-3005-1):
 
 The vial stoppers are not made with natural rubber latex.
 
-Store at 20 °C – 25 °C (68 °F – 77 °F), excursions permitted to 15 °C – 30 °C (59 °F – 86 °F).
+Store at 20 °C to 25 °C (68 °F to 77 °F), excursions permitted between 15 °C to 30 °C (59 °F to 86 °F).
 
 Keep the vials in the original carton until just prior to preparation of the injections in order to protect from light.
 

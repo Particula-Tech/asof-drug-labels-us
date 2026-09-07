@@ -23,10 +23,10 @@ See the prescribing information of the sensitive CYP3A substrate for dosing reco
 
 ## 7.3 Established and Other Potentially Significant Drug Interactions
 
-Table 7 provides a listing of clinically significant drug interactions with recommended prevention or management strategies, but is not all inclusive.
+Table 8 provides a listing of clinically significant drug interactions with recommended prevention or management strategies, but is not all inclusive.
 The drug interactions described are based on studies conducted with SUNLENCA or are drug interactions that may occur with SUNLENCA [see Contraindications (4) and Clinical Pharmacology (12.3)].
 
-Table 7 Drug Interactions with SUNLENCA
+Table 8 Drug Interactions with SUNLENCA
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration ↑ = Increase, ↓ = Decrease. | Clinical Comment |
 | --- | --- | --- |

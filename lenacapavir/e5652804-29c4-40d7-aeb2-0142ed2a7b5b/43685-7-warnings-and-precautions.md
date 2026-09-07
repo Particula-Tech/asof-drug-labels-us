@@ -32,4 +32,4 @@ The mechanism driving the persistence of injection site nodules and indurations 
 In some patients who had a skin biopsy performed of an injection site nodule or induration, dermatopathology revealed foreign body inflammation or granulomatous response.
 
 Improper administration (intradermal injection) has been associated with serious injection site reactions, including necrosis and ulcer [see Adverse Reactions (6)].
-Ensure SUNLENCA is only administered subcutaneously in the abdomen [see Dosage and Administration (2.4)].
+Ensure SUNLENCA is only administered subcutaneously in the abdomen [see Dosage and Administration (2.5)].

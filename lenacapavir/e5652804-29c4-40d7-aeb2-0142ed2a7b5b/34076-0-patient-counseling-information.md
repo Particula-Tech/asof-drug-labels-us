@@ -17,11 +17,15 @@ Adherence to SUNLENCA
 Counsel patients about the importance of continued medication adherence and scheduled visits to maintain viral suppression and to reduce risk of loss of virologic response and development of resistance.
 Advise patients to contact their healthcare provider immediately if they stop taking SUNLENCA or any other drug in their antiretroviral regimen [see Dosage and Administration (2.1) and Warnings and Precautions (5.2)].
 
-Missed Dose
+Missed Injection Dose: Treatment of HIV-1 in Heavily Treatment-Experienced Adults
 
 Inform patients that SUNLENCA can remain in the body for up to 12 months or longer after receiving their last injection.
 Advise patients to contact their healthcare provider if they miss or plan to miss a scheduled injection visit and that oral SUNLENCA therapy may be used for up to 6 months to replace missed injections.
-Advise patients that oral dosing should be used on an interim basis only and that the maintenance injection dosage should be resumed at the earliest possible opportunity [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
+Advise patients that oral dosing should be used on an interim basis only and that the maintenance injection dosage should be resumed at the earliest possible opportunity [see Dosage and Administration (2.2, 2.4) and Warnings and Precautions (5.2)].
+
+Missed Oral Initiation Dose: Oral Loading for Initiation of BIXLENVO
+
+Inform patients that if they miss one of the two days of oral initiation doses of SUNLENCA given with BIXLENVO to take it as soon as possible [see Dosage and Administration (2.4)].
 
 Injection Site Reactions
 

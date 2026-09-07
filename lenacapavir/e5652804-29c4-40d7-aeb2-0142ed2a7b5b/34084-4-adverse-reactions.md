@@ -9,13 +9,15 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The primary safety assessment of SUNLENCA was based on data from heavily treatment-experienced adult participants with HIV who received SUNLENCA in a Phase 2/3 trial (CAPELLA; N=72) through Week 52 (median duration on study of 71 weeks) [see Clinical Studies (14)], as well as supportive data in treatment-naïve adult participants with HIV who received SUNLENCA in a Phase 2 trial (CALIBRATE; N=157) through Week 54 (median duration of exposure of 66 weeks).
+Treatment of HIV-1 in Heavily Treatment-Experienced Adults
+
+The primary safety assessment of SUNLENCA was based on data from heavily treatment-experienced adult participants with HIV who received SUNLENCA in a Phase 2/3 trial (CAPELLA; N=72) through Week 52 (median duration on study of 71 weeks) [see Clinical Studies (14.1)], as well as supportive data in treatment-naïve adult participants with HIV who received SUNLENCA in a Phase 2 trial (CALIBRATE; N=157) through Week 54 (median duration of exposure of 66 weeks).
 
 The most common adverse reactions (all Grades) reported in at least 3% of participants in CAPELLA were nausea and injection site reactions.
 The proportion of participants in CAPELLA who discontinued treatment with SUNLENCA due to adverse events, regardless of severity, was 1% (Grade 1 injection site nodule in 1 participant).
-Table 5 displays the frequency of adverse reactions (all Grades) greater than or equal to 3% in the SUNLENCA group.
+Table 6 displays the frequency of adverse reactions (all Grades) greater than or equal to 3% in the SUNLENCA group.
 
-Table 5 Adverse Reactions (All Grades) Reported in ≥ 3% Frequencies of adverse reactions are based on all adverse events attributed to trial drug by the investigator, based on all participants (cohorts 1 and 2) in CAPELLA. of Heavily Treatment Experienced Adults with HIV-1 Receiving SUNLENCA in CAPELLA (Week 52 Analysis)
+Table 6 Adverse Reactions (All Grades) Reported in ≥ 3% Frequencies of adverse reactions are based on all adverse events attributed to trial drug by the investigator, based on all participants (cohorts 1 and 2) in CAPELLA. of Heavily Treatment Experienced Adults with HIV-1 Receiving SUNLENCA in CAPELLA (Week 52 Analysis)
 
 | Adverse Reactions | SUNLENCA + Background Regimen (N=72) |
 | --- | --- |
@@ -44,10 +46,10 @@ Measurements of injection site nodules and indurations were not routinely perfor
 
 Laboratory Abnormalities
 
-The frequency of laboratory abnormalities (Grades 3 to 4) occurring in at least 2% of participants in CAPELLA are presented in Table 6.
+The frequency of laboratory abnormalities (Grades 3 to 4) occurring in at least 2% of participants in CAPELLA are presented in Table 7.
 A causal association between SUNLENCA and these laboratory abnormalities has not been established.
 
-Table 6 Selected Laboratory Abnormalities (Grades 3 to 4) Reported in ≥ 2% of Participants Receiving SUNLENCA in CAPELLA (Week 52 Analysis)
+Table 7 Selected Laboratory Abnormalities (Grades 3 to 4) Reported in ≥ 2% of Participants Receiving SUNLENCA in CAPELLA (Week 52 Analysis)
 
 | Laboratory Parameter Abnormality | SUNLENCA + Background Regimen (N=72) Frequencies are based on treatment-emergent laboratory abnormalities in all participants (cohorts 1 and 2) in CAPELLA. Percentages were calculated based on the number of participants with post-baseline toxicity grades for each laboratory parameter (n=72 for all parameters except hyperglycemia fasting n=57). |
 | --- | --- |

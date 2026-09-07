@@ -16,10 +16,11 @@ At supratherapeutic exposures of lenacapavir (9-fold higher than the therapeutic
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetic (PK) properties of lenacapavir are provided in Table 8 and Table 9.
+The pharmacokinetic (PK) properties of lenacapavir are provided in Table 9.
+The PK parameter estimates of SUNLENCA after oral and subcutaneous administration in heavily-treatment experienced participants with HIV-1 are provided in Table 10.
 The estimated lenacapavir exposures are comparable between the two recommended dosing regimens.
 
-Table 8 Pharmacokinetic Properties of Lenacapavir
+Table 9 Pharmacokinetic Properties of Lenacapavir
 
 |  |  | Oral | Subcutaneous |
 | --- | --- | --- | --- |
@@ -38,7 +39,7 @@ Table 8 Pharmacokinetic Properties of Lenacapavir
 | Elimination |  |  |  |
 | t1/2 |  | 10 to 12 days | 8 to 12 weeks |
 | Clearance (mean apparent clearance, L/h) |  | 55 | 4.2 |
-| % of dose of unchanged drug in plasma Dosing in mass balance studies: single dose intravenous administration of [14C] lenacapair to participants without HIV-1. |  | 69 |  |
+| % of dose of unchanged drug in plasma Dosing in mass balance studies: single dose intravenous administration of [14C] lenacapavir to participants without HIV-1. |  | 69 |  |
 | Metabolism |  |  |  |
 | Metabolic pathway(s) |  | CYP3A (minor) UGT1A1 (minor) |  |
 | Excretion |  |  |  |
@@ -46,7 +47,7 @@ Table 8 Pharmacokinetic Properties of Lenacapavir
 | % of dose excreted in urine |  | <1 |  |
 | % of dose excreted in feces (% unchanged) |  | 76 (33) |  |
 
-Table 9 Lenacapavir Exposures Following Oral and Subcutaneous Administration of SUNLENCA in Heavily Treatment Experienced Participants with HIV
+Table 10 Lenacapavir Exposures Following Oral and Subcutaneous Administration of SUNLENCA in Heavily Treatment Experienced Participants with HIV-1
 
 | Day 1 to end of Month 6 | Days 1 to 15 | Day 15 to end of Month 6 |  |
 | --- | --- | --- | --- |
@@ -61,23 +62,29 @@ Lenacapavir exposures after subcutaneous administration were similar between hea
 Lenacapavir exposures (AUCtau, Cmax and Ctrough) after oral administration were 28% to 43% higher in participants with HIV-1 who were heavily treatment experienced, compared to participants without HIV-1 based on population PK analysis.
 These differences were not considered clinically relevant.
 
+For PK parameter estimates of SUNLENCA tablets following oral administration as part of the BIXLENVO initiation regimen, see BIXLENVO prescribing information.
+
 Specific Populations
 
 There were no clinically significant differences in the pharmacokinetics of lenacapavir based on age (18 to 78 years), sex, ethnicity (hispanic or non-hispanic), race (white, black, asian or other), body weight (41.4 to 164 kg), severe renal impairment (creatinine clearance of 15 to less than 30 mL per minute, estimated by Cockroft-Gault method), or moderate hepatic impairment (Child-Pugh Class B). The effect of end-stage renal disease (including dialysis), or severe hepatic impairment (Child-Pugh Class C), on the pharmacokinetics of lenacapavir is unknown.
 As lenacapavir is greater than 98.5% protein bound, dialysis is not expected to alter exposures of lenacapavir [see Use in Specific Populations (8.6)].
+
+Pregnancy
+
+There were no clinically relevant changes in lenacapavir exposure during pregnancy and postpartum.
 
 Drug Interaction Studies
 
 Clinical Studies
 
 Clinical drug-drug interaction study indicated that lenacapavir is a substrate of CYP3A, P-gp, and UGT1A1.
-Table 10 summarizes the pharmacokinetic effects of other drugs on lenacapavir.
+Table 11 summarizes the pharmacokinetic effects of other drugs on lenacapavir.
 
 Lenacapavir is a moderate inhibitor of CYP3A.
 Lenacapavir is an inhibitor of P-gp and BCRP but does not inhibit OATP.
-Table 11 summarizes the pharmacokinetic effects of lenacapavir on other drugs.
+Table 12 summarizes the pharmacokinetic effects of lenacapavir on other drugs.
 
-Table 10 Effect of Other Drugs on Lenacapavir Single dose of lenacapavir 300 mg administered orally.,All interaction studies conducted in participants without HIV-1.
+Table 11 Effect of Other Drugs on Lenacapavir Single dose of lenacapavir 300 mg administered orally.,All interaction studies conducted in participants without HIV-1.
 
 | Cmax | AUC |  |  |
 | --- | --- | --- | --- |
@@ -90,7 +97,7 @@ Table 10 Effect of Other Drugs on Lenacapavir Single dose of lenacapavir 300 mg 
 | Efavirenz (fasted) (Inducer of CYP3A [moderate] and P-gp) | 600 once daily | 0.64 (0.45, 0.92) | 0.44 (0.32, 0.59) |
 | Famotidine (2 hours before, fasted) | 40 once daily | 1.01 (0.75, 1.34) | 1.28 (1.00, 1.63) |
 
-Table 11 Effect of Lenacapavir on Other Drugs All interaction studies conducted in participants without HIV-1.,Following 600 mg twice daily for 2 days, single 600 mg doses of lenacapavir were administered with each coadministered drug, resulting in lenacapavir exposures similar to or higher than those at the recommended dosage regimen.
+Table 12 Effect of Lenacapavir on Other Drugs All interaction studies conducted in participants without HIV-1.,Following 600 mg twice daily for 2 days, single 600 mg doses of lenacapavir were administered with each coadministered drug, resulting in lenacapavir exposures similar to or higher than those at the recommended dosage regimen.
 
 | Cmax | AUC |  |  |
 | --- | --- | --- | --- |
@@ -127,7 +134,7 @@ Antiviral Activity in Cell Culture
 
 Lenacapavir has antiviral activity that is specific to human immunodeficiency virus (HIV-1 and HIV-2).
 The antiviral activity of lenacapavir against laboratory and clinical isolates of HIV-1 was assessed in T-lymphoblastoid cell lines, PBMCs, primary monocyte/macrophage cells, and CD4+ T-lymphocytes with EC50 values ranging from 30 to 190 pM.
-Lenacapavir displayed antiviral activity in cell culture against all HIV-1 groups (M, N, O), including subtypes A, A1, AE, AG, B, BF, C, D, E, F, G with EC50 values ranging from 20 and 160 pM.
+Lenacapavir displayed antiviral activity in cell culture against all HIV-1 groups (M, N, O), including subtypes A, A1, AE, AG, B, BF, C, D, E, F, F1, G, H with EC50 values ranging from 20 and 160 pM.
 The median EC50 value for subtype B isolates (n=8) was 40 pM.
 Lenacapavir was 15- to 25-fold less active against HIV-2 isolates relative to HIV-1.
 
