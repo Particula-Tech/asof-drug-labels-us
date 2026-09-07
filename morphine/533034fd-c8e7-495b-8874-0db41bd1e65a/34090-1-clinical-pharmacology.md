@@ -24,7 +24,7 @@ Marked mydriasis rather than miosis may be seen with hypoxia in overdose situati
 Effects on the Gastrointestinal Tract and Other Smooth Muscle Morphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and in the duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include reduction in biliary and pancreatic secretions, spasm of the sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include reduction in biliary and pancreatic secretions, spasm of the sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System Morphine produces peripheral vasodilation which may result in orthostatic hypotension or syncope.
 Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.

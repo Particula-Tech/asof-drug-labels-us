@@ -19,7 +19,7 @@ The onset, duration, and severity of neonatal opioid withdrawal syndrome vary ba
 Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
 
 Labor or Delivery Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Morphine sulfate extended-release tablets are not recommended for use in pregnant women during or immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
 Opioid analgesics, including morphine sulfate extended-release tablets, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
@@ -36,7 +36,7 @@ A no adverse effect level was not defined in this study and the findings cannot 
 Neural tube defects (exencephaly), axial skeletal fusions, and cryptorchidism were reported following a single subcutaneous (SC) injection of morphine sulfate to pregnant mice (100 to 500 mg/kg) on Gestation Day 8 or 9 at 200 mg/kg or greater (16 times the HDD) and fetal resorption at 400 mg/kg or higher (32 times the HDD).
 No adverse effects were noted following 100 mg/kg morphine in this model (8 times the HDD).
 In one study, following continuous subcutaneous infusion of doses greater than or equal to 2.72 mg/kg to mice (0.2 times the HDD), exencephaly, hydronephrosis, intestinal hemorrhage, split supraoccipital, malformed sternebrae, and malformed xiphoid were noted.
-The effects were reduced with increasing daily dose; possibly due to rapid induction of tolerance under these infusion conditions.
+The effects were reduced with increasing daily dose, possibly due to rapid induction of tolerance under these infusion conditions.
 The clinical significance of this report is not clear.
 
 Decreased fetal weights were observed in pregnant rats treated with 20 mg/kg/day morphine sulfate (3.2 times the HDD) from Gestation Day 7 to 9.
@@ -55,7 +55,7 @@ These studies were conducted with morphine treatment usually in the range of 4 t
 
 Additionally, delayed sexual maturation and decreased sexual behaviors in female offspring at 20 mg/kg/day (3.2 times the HDD), and decreased plasma and testicular levels of luteinizing hormone and testosterone, decreased testes weights, seminiferous tubule shrinkage, germinal cell aplasia, and decreased spermatogenesis in male offspring were also observed at 20 mg/kg/day (3.2 times the HDD).
 Decreased litter size and viability were observed in the offspring of male rats that were intraperitoneally administered morphine sulfate for 1 day prior to mating at 25 mg/kg/day (4.1 times the HDD) and mated to untreated females.
-Decreased viability and body weight and/or movement deficits in both first and second generation offspring were reported when male mice were treated for 5 days with escalating doses of 120 to 240 mg/kg/day morphine sulfate (9.7 to 19.5 times the HDD) or when female mice treated with escalating doses of 60 to 240 mg/kg/day (4.9 to 19.5 times the HDD) followed by a 5-day treatment-free recovery period prior to mating.
+Decreased viability and body weight and/or movement deficits in both first- and second-generation offspring were reported when male mice were treated for 5 days with escalating doses of 120 to 240 mg/kg/day morphine sulfate (9.7 to 19.5 times the HDD) or when female mice treated with escalating doses of 60 to 240 mg/kg/day (4.9 to 19.5 times the HDD) followed by a 5-day treatment-free recovery period prior to mating.
 Similar multigenerational findings were also seen in female rats pre-gestationally treated with escalating doses of 10 to 22 mg/kg/day morphine (1.6 to 3.6 times the HDD).
 
 ## 8.2 Lactation
@@ -74,7 +74,7 @@ Withdrawal symptoms can occur in breastfed infants when maternal administration 
 Infertility Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].
 
-In published animal studies, morphine administration adversely affected fertility and reproductive endpoints in male rats and prolonged estrus cycle in female rats [see Nonclinical Toxicology (13)].
+In published animal studies, morphine administration adversely effected fertility and reproductive endpoints in male rats and prolonged estrus cycle in female rats [see Nonclinical Toxicology (13)].
 
 ## 8.4 Pediatric Use
 

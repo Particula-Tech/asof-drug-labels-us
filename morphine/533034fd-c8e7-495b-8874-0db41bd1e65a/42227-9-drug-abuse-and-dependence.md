@@ -33,7 +33,7 @@ Careful record-keeping of prescribing information, including quantity, frequency
 Proper assessment of the patient, proper prescribing practices, periodic reevaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
 Risks Specific to Abuse of Morphine Sulfate Extended-Release Tablets Abuse of morphine sulfate extended-release tablets poses a risk of overdose and death.
-This risk is increased with concurrent use of morphine sulfate extended-release tablets with alcohol and/or other CNS depressants [see Warning and Precautions (5.1, 5.3), Drug Interactions (7)].
+This risk is increased with concurrent use of morphine sulfate extended-release tablets with alcohol and/or other CNS depressants [see Warnings and Precautions (5.1, 5.3), Drug Interactions (7)].
 Taking cut, broken, chewed, crushed, or dissolved morphine sulfate extended-release tablets enhances drug release and increases the risk of overdose and death.
 
 Morphine sulfate extended-release tablets are approved for oral use only.
@@ -50,10 +50,10 @@ Tolerance is a physiological state characterized by a reduced response to a drug
 
 Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 
-Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity, (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity, (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
-Do not abruptly discontinue morphine sulfate extended-release tablets in a patient physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue morphine sulfate extended-release tablets in a patient physically dependent on opioids.
 Rapid tapering of morphine sulfate extended-release tablets in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 
