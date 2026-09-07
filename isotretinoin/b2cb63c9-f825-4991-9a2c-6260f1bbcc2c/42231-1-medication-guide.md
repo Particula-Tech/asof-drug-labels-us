@@ -1,6 +1,6 @@
-# Medication Guide
+# MEDICATION GUIDE
 
-| Amnesteem® [am-nes-team](Isotretinoin Capsules, USP)for oral use |  |
+| Amnesteem® [am-nes-team](Isotretinoin Capsules)for oral use |  |
 | --- | --- |
 | Read the Medication Guide that comes with Amnesteem before you start taking it and each time you get a prescription. There may be new information. This information does not take the place of talking with your health care provider about your medical condition or your treatment. |  |
 | What is the most important information I should know about Amnesteem? •Amnesteem can harm your unborn baby, including birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births. Patients who are pregnant or who plan to become pregnant must not take Amnesteem. oBecause of the risk of birth defects, Amnesteem is only available through a special program called the iPLEDGE Risk Evaluation and Mitigation Strategy (REMS).oYour healthcare provider must be enrolled in the iPLEDGE REMS for you to be prescribed Amnesteem.oBefore you start treatment with Amnesteem, you must enroll in the iPLEDGE REMS.oYou must understand and agree to do everything required in the iPLEDGE REMS. Patients must not get pregnant: ofor 1 month before starting Amnesteemoduring treatment with Amnesteemofor 1 month after stopping Amnesteem If you get pregnant during treatment with Amnesteem, stop taking it right away and tell your health care provider. Health care providers and patients should report all cases of pregnancy that happen during treatment or 1 month after stopping treatment to: oFDA MedWatch at 1-800-FDA-1088, andothe iPLEDGE Pregnancy Registry at 1-866-495-0654 or www.ipledgeprogram.com If you have any questions about the iPLEDGE REMS, ask your healthcare provider, or go to www.ipledgeprogram.com or call 1-866-495-0654.•Serious mental health problems, including: odepressionopsychosis (seeing or hearing things that are not real)osuicide. Some patients taking Amnesteem have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts). Some people tried to end their own lives. Some people have ended their own lives. Stop taking Amnesteem and tell your health care provider right away if you or a family member notices that you get any of the following signs and symptoms of depression or psychosis: |  |
@@ -34,4 +34,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Catalent Pharma Solutions 74 rue Principale 67930 Beinheim France
 
-Revised: 7/2026 CAT:ISOTFR:R10
+Revised: 8/2026 CAT:ISOTFR:R11
