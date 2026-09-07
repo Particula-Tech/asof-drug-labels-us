@@ -8,7 +8,7 @@ Cyclophosphamide is a white crystalline powder with the molecular formula C7H15C
 Cyclophosphamide is soluble in water, saline, or ethanol.
 The pKa of cyclophosphamide is 5.7.
 
-FRINDOVYX is a clear, colorless to slight yellow sterile solution available as 500 mg/mL, 1 g/2 mL, and 2 g/4 mL in multiple dose vial for dilution prior to intravenous administration.
+FRINDOVYX is a clear, colorless to yellow sterile solution available as 500 mg/mL, 1 g/2 mL, and 2 g/4 mL in multiple dose vial for dilution prior to intravenous administration.
 
 - 500 mg/mL vial contains 534.5 mg cyclophosphamide monohydrate, equivalent to 500 mg cyclophosphamide and 500 mg dehydrated alcohol (equivalent to 63% v/v).
 - 1 g/2 mL vial contains 1069.0 mg cyclophosphamide monohydrate equivalent to 1 g cyclophosphamide and 1000 mg dehydrated alcohol (equivalent to 63% v/v).

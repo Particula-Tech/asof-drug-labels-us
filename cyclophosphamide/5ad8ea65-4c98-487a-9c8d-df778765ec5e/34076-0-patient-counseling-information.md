@@ -59,5 +59,5 @@ Hydration and Important Administration Instructions
 
 ● Advise the patients that during or immediately after the administration, adequate amounts of fluid are required to reduce the risk of urinary tract toxicity [see Dosage and Administration (2.1)].
 
-| Manufactured for: Avyxa Pharma, LLC New Jersey 07054, USA Made in India |  |
+| Manufactured for: AVYXA Pharma, LLC New Jersey 07054, USA Made in India |  |
 | --- | --- |

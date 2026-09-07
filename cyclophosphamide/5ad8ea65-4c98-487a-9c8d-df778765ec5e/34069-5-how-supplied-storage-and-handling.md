@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-FRINDOVYXTM is a ready-to-dilute clear, colorless to slight yellow sterile solution containing cyclophosphamide and is supplied in multiple-dose vial.
+FRINDOVYXTM is a ready-to-dilute clear, colorless to yellow sterile solution containing cyclophosphamide and is supplied in multiple-dose vial.
 
 FRINDOVYXTM Injection
 
