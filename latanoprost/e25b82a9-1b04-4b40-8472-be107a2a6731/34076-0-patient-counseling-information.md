@@ -34,9 +34,15 @@ If a Dose is Missed
 
 Advise patients that if one dose is missed, treatment should continue with the next dose as normal.
 
-Made in India by:
+Manufactured By:
 
-FDC Limited
+FDC Limited,
+
+B-8, MIDC Industrial Area,Waluj,
+
+Chhatrapati Sambhajinagar - 431 136,
+
+Maharashtra, India
 
 Distributed by:
 
@@ -44,7 +50,7 @@ Rising Pharma Holdings, Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 07/2024
+Revised: 11/2025
 
 INSTRUCTIONS FOR USE
 
@@ -89,9 +95,15 @@ See figure F
 
 This Instruction for Use has been approved by U.S. Food and Drug Administration.
 
-Made in India By:
+Manufactured By:
 
-FDC Limited
+FDC Limited,
+
+B-8, MIDC Industrial Area, Waluj,
+
+Chhatrapati Sambhajinagar - 431 136,
+
+Maharashtra, India
 
 Distributed by:
 
@@ -99,4 +111,4 @@ Rising Pharma Holdings, Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 07/2024
+Revised: 11/2025

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Latanoprost Sterile Ophthalmic Solution is a clear, isotonic, buffered, preserved colorless solution of latanoprost 0.005% (50 mcg/mL).
+Latanoprost Ophthalmic Solution is a clear, isotonic, buffered, preserved colorless solution of latanoprost 0.005% (50 mcg/mL).
 
 It is supplied as a 2.5 mL solution filled in a 5 mL translucent low density polyethylene bottle with insert cap assembly comprising of a turquoise colored, high density polyethylene screw cap over a low density polyethylene nozzle with tamper evident Low density polyethylene dust cover sealing the bottle cap.
 
