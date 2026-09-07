@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022202"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Assertio Specialty Pharmaceuticals LLC",
+  "package_ndcs": [
+    "82497-008-12"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "diclofenac potassium",
+      "name": "ZIPSOR"
+    }
+  ],
+  "setid": "ed2a8868-78eb-47b8-8f46-0f70e2891e07",
+  "source": "dailymed"
+}
