@@ -16,5 +16,3 @@ One 15 mL Vial
 
 Single-dose vial.
 Discard unused portion.
-
-janssen
