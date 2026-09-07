@@ -14,9 +14,7 @@ Manufactured By:
 
 FDC Limited,
 
-B-8, MIDC Industrial Area,
-
-Waluj, Aurangabad - 431 136,
+B-8, MIDC Industrial Area, Waluj, Chhatrapati Sambhajinagar - 431 136,
 
 Maharashtra, India
 
@@ -26,7 +24,7 @@ Rising Pharma Holdings, Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 05/2025
+Revised: 11/2025
 
 INSTRUCTIONS FOR USE
 
