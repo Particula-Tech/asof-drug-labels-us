@@ -41,9 +41,7 @@ In the U.S. reference population of the Metropolitan Atlanta Congenital Defects 
 Dolutegravir has been shown to cross the placenta.
 In a clinical trial in Uganda and South Africa in women during the last trimester of pregnancy receiving dolutegravir 50 mg once daily, the ratio of median dolutegravir concentration in fetal umbilical cord to that in maternal peripheral plasma was 1.21 (range 0.51 to 2.11) (n = 15).
 
-Animal Data:
-
-Dolutegravir was administered orally at up to 1,000 mg/kg daily to pregnant rats and rabbits on Gestation Days 6 to 17 and 6 to 18, respectively, and to rats on Gestation Day 6 to Lactation/Postpartum Day 20.
+Animal Data: Dolutegravir was administered orally at up to 1,000 mg/kg daily to pregnant rats and rabbits on Gestation Days 6 to 17 and 6 to 18, respectively, and to rats on Gestation Day 6 to Lactation/Postpartum Day 20.
 No adverse effects on embryo-fetal (rats and rabbits) or pre/postnatal (rats) development were observed at up to the highest dose tested.
 During organogenesis, systemic exposures (AUC) to dolutegravir in rabbits were less than the exposure in humans at the MRHD and in rats were approximately 27 times the exposure in humans at the MRHD.
 In the rat pre/postnatal development study, decreased body weight of the developing offspring was observed during lactation at a maternally toxic dose (approximately 27 times human exposure at the MRHD).
@@ -59,29 +57,43 @@ Potential risks of breastfeeding include: (1) HIV‑1 transmission (in HIV-1–n
 
 ## 8.4 Pediatric Use
 
-The safety, pharmacokinetics, and effectiveness of TIVICAY and TIVICAY PD were evaluated in 75 HIV-1–infected, treatment-naïve or treatment-experienced, INSTI-naïve pediatric and adolescent subjects aged 4 weeks to less than 18 years weighing at least 3 kg in an ongoing, open-label, multicenter, dose-finding clinical trial, IMPAACT P1093 [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.3)].
-Additional pharmacokinetics data were evaluated in 2 pharmacokinetic substudies in ODYSSEY, an ongoing open-label, randomized, non-inferiority trial to evaluate the safety, efficacy, and pharmacokinetic parameters of TIVICAY or TIVICAY PD plus two NRTIs compared with standard of care in HIV-1–infected pediatric subjects younger than 18 years [see Clinical Pharmacology (12.3)].
+Children and Adolescent Participants with HIV 1
 
-Overall, the safety data in pediatric subjects from the IMPAACT P1093 trial were comparable to those observed in adults [see Adverse Reactions (6.1)].
-The pharmacokinetic parameters of TIVICAY or TIVICAY PD in pediatric subjects from IMPAACT P1093 and ODYSSEY were comparable to those of adults receiving 50 mg once daily or twice daily [see Clinical Pharmacology (12.3)].
-The effectiveness observed in IMPAACT P1093 is comparable to that of treatment-experienced adult subjects.
+The safety, pharmacokinetics, and effectiveness of TIVICAY and TIVICAY PD were evaluated in 75 treatment-naïve or treatment-experienced, INSTI-naïve pediatric and adolescent participants with HIV‑1 aged 4 weeks to less than 18 years weighing at least 3 kg in an open-label, multicenter, dose-finding clinical trial, IMPAACT P1093 [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.3)].
+Additional pharmacokinetics data were evaluated in 2 pharmacokinetic substudies in ODYSSEY, an open-label, randomized, non-inferiority trial to evaluate the safety, efficacy, and pharmacokinetic parameters of TIVICAY or TIVICAY PD plus two NRTIs compared with standard of care in pediatric participants with HIV‑1 younger than 18 years [see Clinical Pharmacology (12.3)].
 
-Safety and effectiveness of TIVICAY or TIVICAY PD have not been established in pediatric patients aged less than 4 weeks or weighing less than 3 kg or in any pediatric patients who are INSTI-experienced with documented or clinically suspected resistance to other INSTIs (e.g., raltegravir, elvitegravir).
+Overall, the safety data in pediatric participants from the IMPAACT P1093 trial were comparable to those observed in adults [see Adverse Reactions (6.1)].
+The pharmacokinetic parameters of TIVICAY or TIVICAY PD in pediatric participants from IMPAACT P1093 and ODYSSEY were comparable to those of adults receiving 50 mg once daily or twice daily [see Clinical Pharmacology (12.3)].
+The effectiveness observed in IMPAACT P1093 is comparable to that of treatment-experienced adult participants.
+
+Neonates Exposed to HIV‑1
+
+The safety and pharmacokinetics of dolutegravir were evaluated in 48 term HIV‑1 exposed neonates in a Phase I, open-label, multicenter clinical study (IMPAACT 2023).
+Dolutegravir was orally administered in 2 cohorts of neonates exposed to HIV‑1, weighing at least 2 kg, receiving standard of care antiretroviral prophylaxis in the first 4 to 6 weeks of life.
+All enrolled neonates were followed for safety data for a duration of 16 weeks.
+Neonates in cohorts 1 and 2 were grouped based on dolutegravir exposure in utero.
+Cohort 1 included 18 neonates (12 were exposed, and 6 were unexposed to dolutegravir in utero) and received 2 single doses of dolutegravir: the first dose was administered within 5 days of birth, and the second dose 7 days later.
+Cohort 2 included 30 neonates (16 were exposed, and 14 were unexposed to dolutegravir in utero) who received a chronic dolutegravir dosing regimen through 4 to 6 weeks of life.
+Demographics included 63% female; 54% Black, 33% Asian, 6% White, 4% unknown, and 2% multi-racial.
+Among the 43 neonates with HIV test results available at Week 16 (End of Study), all were HIV-1 negative.
+Estimated dolutegravir exposures in neonates were higher compared to older pediatric and adult populations receiving dolutegravir once daily; however, the safety profile was similar [see Adverse Reactions (6.1), Clinical Pharmacology (12.3)].
+
+Safety and effectiveness of TIVICAY or TIVICAY PD have not been established in pre‑term neonates, pediatric patients weighing less than 2 kg, or in any pediatric patients who are INSTI‑experienced with documented or clinically suspected resistance to other INSTIs (e.g., raltegravir, elvitegravir).
 
 ## 8.5 Geriatric Use
 
-Clinical trials of TIVICAY did not include sufficient numbers of subjects aged 65 and older to determine whether they respond differently from younger subjects.
+Clinical trials of TIVICAY did not include sufficient numbers of participants aged 65 and older to determine whether they respond differently from younger participants.
 In general, caution should be exercised in the administration of TIVICAY in elderly patients reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Hepatic Impairment
 
-No clinically important pharmacokinetic differences between subjects with moderate hepatic impairment and matching healthy subjects were observed.
+No clinically important pharmacokinetic differences between participants with moderate hepatic impairment and matching healthy participants were observed.
 No dosage adjustment is necessary for patients with mild to moderate hepatic impairment (Child-Pugh Score A or B). The effect of severe hepatic impairment (Child-Pugh Score C) on the pharmacokinetics of dolutegravir has not been studied.
 Therefore, TIVICAY and TIVICAY PD are not recommended for use in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
-Dolutegravir plasma concentrations were decreased in subjects with severe renal impairment compared with those in matched healthy controls.
+Dolutegravir plasma concentrations were decreased in participants with severe renal impairment compared with those in matched healthy controls.
 However, no dosage adjustment is necessary for treatment-naïve or treatment-experienced and INSTI-naïve patients with mild, moderate, or severe renal impairment or for INSTI-experienced patients (with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance) with mild or moderate renal impairment.
 Caution is warranted for INSTI-experienced patients (with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance [see Microbiology (12.4)]) with severe renal impairment, as the decrease in dolutegravir concentrations may result in loss of therapeutic effect and development of resistance to TIVICAY, TIVICAY PD, or other coadministered antiretroviral agents [see Clinical Pharmacology (12.3)].
 There is inadequate information to recommend appropriate dosing of dolutegravir in patients requiring dialysis.

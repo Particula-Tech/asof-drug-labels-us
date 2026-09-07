@@ -1,8 +1,31 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage in Adults
+## 2.1 Overview of Different Dosage Forms and Important Dosage Considerations
 
-TIVICAY tablets may be taken with or without food.
+TIVICAY is available in two dosage forms:
+
+- •TIVICAY
+  - oAvailable as 10 mg, 25 mg, and 50 mg tablets.
+  - oRecommended for adults and pediatric patients weighing at least 14 kg.
+  - oDo not use TIVICAY tablets in patients weighing less than 14 kg [see Dosage and Administration (2.3)].
+- •TIVICAY PD
+  - oSee Instructions for Use for details on preparation and administration of TIVICAY PD [see Dosage and Administration (2.4)].
+  - oAvailable as 5 mg tablets for oral suspension.
+  - oRecommended for pediatric patients weighing at least 2 kg.
+    TIVICAY PD is the only recommended dosage form for pediatric patients weighing less than 14 kg.
+  - oTIVICAY PD is preferred over TIVICAY tablets in patients weighing at least 14 kg to less than 20 kg [see Dosage and Administration (2.3)].
+
+Do not substitute TIVICAY tablets and TIVICAY PD tablets for oral suspension on a milligram-per-milligram basis due to differing pharmacokinetic profiles [see Dosage and Administration (2.3), Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
+If switching from the tablets to the tablets for oral suspension, follow the recommended dosage in Table 3.
+If switching from the tablets for oral suspension to the tablets, follow the recommended dosage in Table 4.
+See administration instructions [see Dosage and Administration (2.4)].
+
+Take TIVICAY and TIVICAY PD with or without food in combination with other antiretrovirals [see Dosage and Administration (2.2, 2.3), Clinical Pharmacology (12.3)].
+
+## 2.2 Recommended Dosage in Adults
+
+TIVICAY tablets may be taken with or without food in combination with other antiretrovirals [see Clinical Pharmacology (12.3)].
+Refer to Table 1 for dosage recommendation for adults using TIVICAY tablets.
 
 Table 1.
 Dosing Recommendations for TIVICAY Tablets in Adult Patients
@@ -11,68 +34,62 @@ Dosing Recommendations for TIVICAY Tablets in Adult Patients
 | --- | --- |
 | Treatment-naïve or treatment-experienced INSTI-naïve or virologically suppressed (HIV‑1 RNA <50 copies/mL) adults switching to dolutegravir plus rilpivirinea | 50 mg once daily |
 | Treatment-naïve or treatment-experienced INSTI-naïve when coadministered with certain uridine diphosphate (UDP)-glucuronosyl transferase 1A1 (UGT1A) or cytochrome P450 (CYP)3A inducers [see Drug Interactions (7.2, 7.3)] | 50 mg twice daily |
-| INSTI-experienced with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistanceb [see Microbiology (12.4)] | 50 mg twice daily |
+| INSTI-experienced with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistanceb[see Microbiology (12.4)] | 50 mg twice daily |
 | INSTI = integrase strand transfer inhibitor. |  |
 | a Rilpivirine dose is 25 mg once daily for those switching to dolutegravir plus rilpivirine. b Alternative combinations that do not include metabolic inducers should be considered where possible [see Drug Interactions (7.3)]. |  |
 
-## 2.2 General Dosing and Administration Instructions for Pediatric Patients
+## 2.3 Recommended Dosage in Pediatric Patients
 
-Do not substitute TIVICAY tablets and TIVICAY PD tablets for oral suspension on a milligram-per-milligram basis due to differing pharmacokinetic profiles [see Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
-If switching from the tablets to the tablets for oral suspension, follow the recommended dosage in Table 3.
-If switching from the tablets for oral suspension to the tablets, follow the recommended dosage in Table 4.
-See administration instructions in [Dosage and Administration (2.5)].
+The recommended dosages of TIVICAY PD tablets for oral suspension and TIVICAY tablets in pediatric patients (in treatment-naïve, or treatment-experienced but naïve to INSTI treatment) are displayed in Tables 2, 3, and 4.
 
-## 2.3 Recommended Dosage in Pediatric Patients Weighing 3 to 14 kg
+In pediatric patients weighing 14 kg or greater, either TIVICAY PD tablets for oral suspension (Table 3) or TIVICAY tablets (Table 4) can be used.
+Note that TIVICAY PD is preferred over TIVICAY tablets in pediatric patients weighing at least 14 kg to less than 20 kg.
 
-The recommended weight-based dosage of TIVICAY PD tablets for oral suspension in pediatric patients weighing 3 to 14 kg (4 weeks and older, treatment-naïve, or treatment-experienced but naïve to INSTI treatment) is described in Table 2.
+Do not use TIVICAY tablets in patients weighing less than 14 kg.
+See administration instructions in Dosage and Administration (2.4).
 
-Do not use TIVICAY tablets in patients weighing 3 to 14 kg.
-See administration instructions in [Dosage and Administration (2.5)].
+No data are available in preterm neonates.
+
+TIVICAY PD Tablets for Oral Suspension
 
 Table 2.
-Recommended Dosage of TIVICAY PD in Pediatric Patients 4 Weeks and Older Weighing 3 to 14 kg
+Recommended Dosage of TIVICAY PD in Pediatric Patients Including Term Neonatesa (at Least 37 Weeks of Gestation) Less Than 4 Weeks of Age and Weighing at Least 2 kg
 
-| Body Weight | TIVICAY PD Tablets for Oral Suspension |  |
+| Pediatric Patient Population | TIVICAY PD Tablets for Oral Suspension | Total Daily Dosage |
 | --- | --- | --- |
-| Daily Dosea | Number of5-mg Tablets |  |
-| 3 kg to less than 6 kg | 5 mg once daily | 1 |
-| 6 kg to less than 10 kg | 15 mg once daily | 3 |
-| 10 kg to less than 14 kg | 20 mg once daily | 4 |
-| a If certain uridine diphosphate glucuronosyltransferase (UGT)1A or cytochrome P450 (CYP)3A inducers are coadministered, then administer TIVICAY PD twice daily [see Drug Interactions (7.2, 7.3)]. |  |  |
+| Birth to 14 days | 1 tablet every other day | 5 mg every other day |
+| 15 days to less than 4 weeks | 1 tablet once daily | 5 mg once daily |
 
-## 2.4 Recommended Dosage in Pediatric Patients Weighing 14 kg or Greater
-
-For pediatric patients weighing 14 kg or greater (4 weeks and older, treatment-naïve, or treatment-experienced but naïve to INSTI treatment) administer either:
-
-- •TIVICAY PD tablets for oral suspension (preferred in pediatric patients weighing less than 20 kg) (Table 3), or
-- •TIVICAY tablets for oral use (Table 4)
+a No data are available in preterm neonates
 
 Table 3.
-Recommended Dosage of TIVICAY PD Tablets for Oral Suspension in Pediatric Patients Weighing 14 kg or Greater
+Recommended Dosage of TIVICAY PD in Pediatric Patients at Least 4 Weeks of Age and Weighing at Least 3 kg
 
-| Body Weight | TIVICAY PD Tablets for Oral Suspension |  |
+| Body Weight | TIVICAY PD Tablets for Oral Suspension | Total Daily Dosage |
 | --- | --- | --- |
-| Daily Dosea | Number of5-mg Tablets |  |
-| 14 kg to less than 20 kg | 25 mg once daily | 5 |
-| 20 kg and greater | 30 mg once daily | 6 |
-| a If certain UGT1A or CYP3A inducers are coadministered, then administer TIVICAY PD twice daily [see Drug Interactions (7.2, 7.3)]. |  |  |
+| 3 kg to less than 6 kg | 1 tablet once daily | 5 mg once daily |
+| 6 kg to less than 10 kg | 3 tablets once daily | 15 mg once daily |
+| 10 kg to less than 14 kg | 4 tablets once daily | 20 mg once daily |
+| 14 kg to less than 20 kg | 5 tablets once daily | 25 mg once daily |
+| 20 kg or greater | 6 tablets once daily | 30 mg once daily |
+
+TIVICAY Tablets
 
 Table 4.
-Recommended Dosage of TIVICAY Tablets in Pediatric Patients Weighing 14 kg or Greater
+Recommended Dosage of TIVICAY in Pediatric Patients Weighing at Least 14 kg
 
-| Body Weight | TIVICAY Tablets |  |
+| Body Weight | TIVICAY Tablets | Total Daily Dosage |
 | --- | --- | --- |
-| Daily Dosea | Number of Tablets |  |
-| 14 kg to less than 20 kg | 40 mg once daily | 4 x 10-mg |
-| 20 kg and greater | 50 mg once daily | 1 x 50-mg |
-| a If certain UGT1A or CYP3A inducers are coadministered, then administer TIVICAY twice daily [see Drug Interactions (7.2, 7.3)]. |  |  |
+| 14 kg to less than 20 kg | 4 x 10 mg tablets once daily | 40 mg once daily |
+| 20 kg and greater | 1 x 50 mg tablet once daily | 50 mg once daily |
 
-## 2.5 Additional Administration Instructions
+Dosage Modifications for Co-administration with Certain UGT1A or CYP3A Inducers in Pediatric Patients at Least 4 Weeks of Age
 
-Administer TIVICAY tablets and TIVICAY PD tablets for oral suspension with or without food.
+If certain uridine diphosphate glucuronosyltransferase (UGT)1A or cytochrome P450 (CYP)3A inducers are co‑administered, then administer the corresponding dose of TIVICAY PD (see Table 3) or TIVICAY (see Table 4) twice daily instead of once daily (i.e., double the total daily dosage) [see Drug Interactions (7.2, 7.3)].
 
-Administration Instructions for TIVICAY PD
+## 2.4 Preparation and Administration Instructions for TIVICAY PD
 
+Take TIVICAY PD daily with or without food in combination with other antiretrovirals [see Clinical Pharmacology (12.3)].
 Do not chew, cut, or crush TIVICAY PD [see Instructions for Use].
 Instruct patients (or instruct caregivers) to either:
 

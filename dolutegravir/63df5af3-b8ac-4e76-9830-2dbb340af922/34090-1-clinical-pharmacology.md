@@ -8,34 +8,34 @@ Dolutegravir is an HIV-1 antiretroviral agent [see Microbiology (12.4)].
 
 Effects on Electrocardiogram
 
-In a randomized, placebo-controlled, cross-over trial, 42 healthy subjects received single-dose oral administrations of placebo, dolutegravir 250-mg suspension (exposures approximately 3–fold of the 50-mg once-daily dose at steady state), and moxifloxacin 400 mg (active control) in random sequence.
+In a randomized, placebo-controlled, cross-over trial, 42 healthy participants received single-dose oral administrations of placebo, dolutegravir 250-mg suspension (exposures approximately 3–fold of the 50-mg once-daily dose at steady state), and moxifloxacin 400 mg (active control) in random sequence.
 After baseline and placebo adjustment, the maximum mean QTc change based on Fridericia correction method (QTcF) for dolutegravir was 2.4 msec (1-sided 95% upper CI: 4.9 msec).
 TIVICAY did not prolong the QTc interval over 24 hours postdose.
 
 Effects on Renal Function
 
-The effect of dolutegravir on renal function was evaluated in an open-label, randomized, 3‑arm, parallel, placebo-controlled trial in healthy subjects (n = 37) who received dolutegravir 50 mg once daily (n = 12), dolutegravir 50 mg twice daily (n = 13), or placebo once daily (n = 12) for 14 days.
-A decrease in creatinine clearance, as determined by 24-hour urine collection, was observed with both doses of dolutegravir after 14 days of treatment in subjects who received 50 mg once daily (9% decrease) and 50 mg twice daily (13% decrease).
+The effect of dolutegravir on renal function was evaluated in an open-label, randomized, 3‑arm, parallel, placebo-controlled trial in healthy participants (n = 37) who received dolutegravir 50 mg once daily (n = 12), dolutegravir 50 mg twice daily (n = 13), or placebo once daily (n = 12) for 14 days.
+A decrease in creatinine clearance, as determined by 24-hour urine collection, was observed with both doses of dolutegravir after 14 days of treatment in participants who received 50 mg once daily (9% decrease) and 50 mg twice daily (13% decrease).
 Neither dose of dolutegravir had a significant effect on the actual glomerular filtration rate (determined by the clearance of probe drug, iohexol) or effective renal plasma flow (determined by the clearance of probe drug, para-amino hippurate) compared with the placebo.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetic properties of dolutegravir have been evaluated in healthy adult subjects and HIV‑1–infected adult subjects.
-Exposure to dolutegravir was generally similar between healthy subjects and HIV‑1–infected subjects.
-The non-linear exposure of dolutegravir following 50 mg twice daily compared with 50 mg once daily in HIV‑1–infected subjects (Table 9) was attributed to the use of metabolic inducers in the background antiretroviral regimens of subjects receiving dolutegravir 50 mg twice daily in clinical trials.
+The pharmacokinetic properties of dolutegravir have been evaluated in healthy adult participants and adult participants with HIV‑1.
+Exposure to dolutegravir was generally similar between healthy participants and participants with HIV‑1.
+The non-linear exposure of dolutegravir following 50 mg twice daily compared with 50 mg once daily in participants with HIV‑1 (Table 9) was attributed to the use of metabolic inducers in the background antiretroviral regimens of participants receiving dolutegravir 50 mg twice daily in clinical trials.
 
 Table 9.
-Dolutegravir Steady-State Pharmacokinetic Parameter Estimates in HIV-1–Infected Adults
+Dolutegravir Steady-State Pharmacokinetic Parameter Estimates in Adult Participants With HIV-1
 
 | Parameter | 50 mg Once DailyGeometric Meana (%CV) | 50 mg Twice DailyGeometric Meanb (%CV) |
 | --- | --- | --- |
-| AUC(0-24) (mcg∙ h/mL) | 53.6 (27) | 75.1 (35) |
+| AUC(0-24) (mcg∙h/mL) | 53.6 (27) | 75.1 (35) |
 | Cmax (mcg/mL) | 3.67 (20) | 4.15 (29) |
 | Cmin (mcg/mL) | 1.11 (46) | 2.12 (47) |
 | a Based on population pharmacokinetic analyses using data from SPRING-1 and SPRING-2. b Based on population pharmacokinetic analyses using data from VIKING (ING112961) and VIKING-3. |  |  |
 
 TIVICAY tablets and TIVICAY PD tablets for oral suspension are not bioequivalent.
-The relative bioavailability of TIVICAY PD is approximately 1.6-fold higher than TIVICAY; therefore, the 2 dosage forms are not substitutable on a milligram-per-milligram basis [see Dosage and Administration (2.3)].
+The relative bioavailability of TIVICAY PD is approximately 1.6-fold higher than TIVICAY; therefore, the 2 dosage forms are not substitutable on a milligram-per-milligram basis [see Dosage and Administration (2.1)].
 
 Absorption
 
@@ -55,7 +55,7 @@ Distribution
 Dolutegravir is highly bound (greater than or equal to 98.9%) to human plasma proteins based on in vivo data and binding is independent of plasma concentration of dolutegravir.
 The apparent volume of distribution (Vd/F) following 50-mg once-daily administration is estimated at 17.4 L based on a population pharmacokinetic analysis.
 
-Cerebrospinal Fluid (CSF): In 12 treatment-naïve subjects on dolutegravir 50 mg daily plus abacavir/lamivudine, the median dolutegravir concentration in CSF was 13.2 ng/mL (range: 3.74 ng/mL to 18.3 ng/mL) 2 to 6 hours postdose after 16 weeks of treatment.
+Cerebrospinal Fluid (CSF): In 12 treatment-naïve participants on dolutegravir 50 mg daily plus abacavir/lamivudine, the median dolutegravir concentration in CSF was 13.2 ng/mL (range: 3.74 ng/mL to 18.3 ng/mL) 2 to 6 hours postdose after 16 weeks of treatment.
 The clinical relevance of this finding has not been established.
 
 Elimination
@@ -64,7 +64,7 @@ Dolutegravir has a terminal half-life of approximately 14 hours and an apparent 
 
 Metabolism: Dolutegravir is primarily metabolized via UGT1A1 with some contribution from CYP3A.
 
-Polymorphisms in Drug‑Metabolizing Enzymes: In a meta-analysis of healthy subject trials, subjects with UGT1A1 (n = 7) genotypes conferring poor dolutegravir metabolism had a 32% lower clearance of dolutegravir and 46% higher AUC compared with subjects with genotypes associated with normal metabolism via UGT1A1 (n = 41).
+Polymorphisms in Drug Metabolizing Enzymes: In a meta-analysis of healthy participant trials, participants with UGT1A1 (n = 7) genotypes conferring poor dolutegravir metabolism had a 32% lower clearance of dolutegravir and 46% higher AUC compared with participants with genotypes associated with normal metabolism via UGT1A1 (n = 41).
 
 Excretion: After a single oral dose of [14C] dolutegravir, 53% of the total oral dose was excreted unchanged in feces.
 Thirty-one percent of the total oral dose was excreted in urine, represented by an ether glucuronide of dolutegravir (18.9% of total dose), a metabolite formed by oxidation at the benzylic carbon (3.0% of total dose), and its hydrolytic N-dealkylation product (3.6% of total dose).
@@ -75,29 +75,40 @@ Specific Populations
 Pediatric Patients: The pharmacokinetics of dolutegravir were evaluated in the IMPAACT P1093 trial and in 2 weight-band-based pharmacokinetic substudies from the ODYSSEY trial.
 Steady-state plasma exposure at doses by weight band are summarized in Table 10 [see Clinical Studies (14.3)].
 
-Mean dolutegravir AUC0-24h and C24h in HIV-1–infected pediatric subjects were comparable to those in adults after 50 mg once daily or 50 mg twice daily.
-Mean Cmax is higher in pediatrics, but the increase is not considered clinically significant as the safety profiles were similar in pediatric and adult subjects [see Use in Specific Populations (8.4)].
+Geometric mean dolutegravir AUC0-24h and C24h in pediatric participants with HIV‑1 were comparable to those in adults after 50 mg once daily or 50 mg twice daily.
+Geometric mean Cmax is higher in pediatrics, but the increase is not considered clinically significant as the safety profiles were similar in pediatric and adult participants [see Use in Specific Populations (8.4)].
+
+The pharmacokinetics of dolutegravir in term neonates exposed to HIV‑1, from birth and weighing at least 2 kg, were evaluated in the IMPAACT 2023 study.
+Geometric mean dolutegravir Ctrough in pediatric participants exposed to HIV‑1 were comparable to those in older pediatric and adult participants with HIV‑1.
+Geometric mean AUC0-tau and Cmax is higher in neonates, but the increase is not considered clinically significant as the safety profiles were similar to older pediatric and adult participants.
 
 Table 10.
-Summary of Pharmacokinetic Parameters in Pediatric HIV-1–Infected Subjects (Pooled Analyses for IMPAACT P1093 and ODYSSEYa Trials)
+Summary of Pharmacokinetic Parameters in Pediatric Participants (Based on IMPAACT 2023, IMPAACT P1093, and ODYSSEYa Trials)
 
 | Weight Band | Doseb of TIVICAY or TIVICAY PD | n | Pharmacokinetic Parameter Geometric Mean (%CV) |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Cmax (mcg/mL) | AUC0-24h (mcg∙h/mL) | C24h (ng/mL) |  |  |  |
+| Cmax (mcg/mL) | AUC0-tau (mcg∙h/mL) | Ctrough (ng/mL) |  |  |  |
+| Term Neonates Exposed to HIV‑1 |  |  |  |  |  |
+| ≥2 kg | TIVICAY PD 5 mg every other dayc | 25 | 4.92 (35.8) | 121(54.7) | 1,000 (168) |
+| ≥2 kg | TIVICAY PD 5 mg once dailyd | 22 | 5.62 (40.1) | 90.3(60.5) | 2,250(114) |
+| Pediatric Participants with HIV‑1 |  |  |  |  |  |
 | 3 kg to <6 kg | TIVICAY PD 5 mg once daily | 8 | 3.80 (34) | 49.37 (49) | 962 (98) |
 | 6 kg to <10 kg | TIVICAY PD 15 mg once daily | 17 | 5.27 (50) | 57.17 (76) | 706 (177) |
 | 10 kg to <14 kg | TIVICAY PD 20 mg once daily | 13 | 5.99 (33) | 68.75 (48) | 977 (100) |
 | 14 kg to <20 kg | TIVICAY PD 25 mg once daily | 19 | 5.97 (42) | 58.97 (44) | 725 (75) |
 | 20 kg to <25 kg | TIVICAY PD 30 mg once daily | 9 | 7.16 (26) | 71.53 (26) | 759 (73) |
 | ≥20 kg | TIVICAY 50 mg once daily | 49 | 4.92 (40) | 54.98 (43) | 778 (62) |
-| a Data from 2 weight-band-based pharmacokinetic substudies in the ODYSSEY trial. b The bioavailability of TIVICAY PD tablets for oral suspension is ~1.6-fold that of TIVICAY tablets. |  |  |  |  |  |
+| a Data from 2 weight-band-based pharmacokinetic substudies in the ODYSSEY trial. |  |  |  |  |  |
+| b The bioavailability of TIVICAY PD tablets for oral suspension is ~1.6-fold that of TIVICAY tablets. |  |  |  |  |  |
+| c Day 1 to day 14 after birth |  |  |  |  |  |
+| d Day 15 to day 28 after birth |  |  |  |  |  |
 
 Geriatric Patients: Population pharmacokinetic analysis indicated age had no clinically relevant effect on the pharmacokinetics of dolutegravir.
 
-Patients with Hepatic Impairment: In a trial comparing 8 subjects with moderate hepatic impairment (Child-Pugh Score B) with 8 matched healthy controls, exposure of dolutegravir from a single 50-mg dose was similar between the 2 groups.
+Patients with Hepatic Impairment: In a trial comparing 8 participants with moderate hepatic impairment (Child-Pugh Score B) with 8 matched healthy controls, exposure of dolutegravir from a single 50-mg dose was similar between the 2 groups.
 The effect of severe hepatic impairment (Child-Pugh Score C) on the pharmacokinetics of dolutegravir has not been studied.
 
-Patients with Renal Impairment: In a trial evaluating the pharmacokinetics of a single 50-mg tablet of dolutegravir comparing 8 subjects with severe renal impairment (CrCl less than 30 mL/min) with 8 matched healthy controls, AUC, Cmax, and C24 of dolutegravir were lower by 40%, 23%, and 43%, respectively, compared with those in matched healthy subjects.
+Patients with Renal Impairment: In a trial evaluating the pharmacokinetics of a single 50-mg tablet of dolutegravir comparing 8 participants with severe renal impairment (CrCl less than 30 mL/min) with 8 matched healthy controls, AUC, Cmax, and C24 of dolutegravir were lower by 40%, 23%, and 43%, respectively, compared with those in matched healthy participants.
 Population pharmacokinetic analysis using data from SAILING and VIKING-3 trials indicated that mild and moderate renal impairment had no clinically relevant effect on the exposure of dolutegravir.
 There is inadequate information to recommend appropriate dosing of dolutegravir in patients requiring dialysis.
 
@@ -132,7 +143,8 @@ Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drug
 | 1.01(0.93, 1.10) | 0.99(0.97, 1.01) | 0.99(0.97, 1.01) |  |  |  |
 | Tenofovir disoproxil fumarate 300 mg once daily | 50 mg once daily | 15 | 1.09 (0.97 to 1.23) | 1.12 (1.01 to 1.24) | 1.19 (1.04 to 1.35) |
 | Velpatasvir 100 mg once daily | 50 mgonce daily | 24 | 0.94 (0.86, 1.02) | 0.91(0.84, 0.98) | 0.88(0.82, 0.94) |
-| a The number of subjects represents the maximum number of subjects that were evaluated. |  |  |  |  |  |
+
+a The number of participants represents the maximum number of participants that were evaluated.
 
 Table 12.
 Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravir
@@ -168,7 +180,8 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Rifampinb 600 mg once daily | 50 mg twice daily | 11 | 0.57 (0.49 to 0.65) | 0.46 (0.38 to 0.55) | 0.28 (0.23 to 0.34) |
 | Rifampinc 600 mg once daily | 50 mg twice daily | 11 | 1.18 (1.03 to 1.37) | 1.33 (1.15 to 1.53) | 1.22 (1.01 to 1.48) |
 | Rifabutin 300 mg once daily | 50 mg once daily | 9 | 1.16 (0.98 to 1.37) | 0.95 (0.82 to 1.10) | 0.70 (0.57 to 0.87) |
-| a The number of subjects represents the maximum number of subjects that were evaluated. b Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg twice daily. c Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg once daily. |  |  |  |  |  |
+
+a The number of participants represents the maximum number of participants that were evaluated. b Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg twice daily. c Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg once daily.
 
 ## 12.4 Microbiology
 
@@ -197,43 +210,43 @@ Passage of mutant viruses containing the Q148R or Q148H substitutions selected f
 The additional integrase substitutions included T97A, E138K, G140S, and M154I.
 Passage of mutant viruses containing both G140S and Q148H selected for L74M, E92Q, and N155H.
 
-Treatment-Naïve Subjects: No subject who received dolutegravir 50-mg once-daily in the treatment-naïve trials SPRING-2 (96 weeks) and SINGLE (144 weeks) had a detectable decrease in susceptibility to dolutegravir or background NRTIs in the resistance analysis subset (n = 12 with HIV-1 RNA greater than 400 copies per mL at failure or last visit and having resistance data).
-Two virologic failure subjects in SINGLE had treatment-emergent G/D/E193D and G193G/E integrase substitutions at Week 84 and Week 108, respectively, and 1 subject with 275 copies/mLHIV-1 RNA had a treatment-emergent Q157Q/P integrase substitution detected at Week 24.
-None of these subjects had a corresponding decrease in dolutegravir susceptibility.
+Treatment-Naïve Participants: No participant who received dolutegravir 50-mg once-daily in the treatment-naïve trials SPRING-2 (96 weeks) and SINGLE (144 weeks) had a detectable decrease in susceptibility to dolutegravir or background NRTIs in the resistance analysis subset (n = 12 with HIV-1 RNA greater than 400 copies per mL at failure or last visit and having resistance data).
+Two virologic failure participants in SINGLE had treatment-emergent G/D/E193D and G193G/E integrase substitutions at Week 84 and Week 108, respectively, and 1 participant with 275 copies/mL HIV-1 RNA had a treatment-emergent Q157Q/P integrase substitution detected at Week 24.
+None of these participants had a corresponding decrease in dolutegravir susceptibility.
 No treatment-emergent genotypic resistance to the background regimen was observed in the dolutegravir arm in either the SPRING-2 or SINGLE trials.
 No treatment-emergent primary resistance substitutions were observed in either treatment group in the FLAMINGO trial through Week 96.
 
-Treatment-Experienced, Integrase Strand Transfer Inhibitor-Naïve Subjects: In the dolutegravir arm of the SAILING trial for treatment-experienced and INSTI-naïve subjects (n = 354), treatment-emergent integrase substitutions were observed in 6 of 28 (21%) subjects who had virologic failure and resistance data.
-In 5 of the 6 subjects’ isolates emergent INSTI substitutions included L74L/M/I, Q95Q/L, V151V/I (n = 1 each), and R263K (n = 2).
-The change in dolutegravir phenotypic susceptibility for these 5 subject isolates was less than 2-fold.
-One subject isolate had pre-existing raltegravir resistance substitutions E138A, G140S, and Q148H at baseline and had additional emergent INSTI-resistance substitutions T97A and E138A/T with a corresponding 148-fold reduction in dolutegravir susceptibility at failure.
-In the comparator raltegravir arm, 21 of 49 (43%) subjects with post-baseline resistance data had evidence of emergent INSTI-resistance substitutions (L74M, E92Q, T97A, E138Q, G140S/A, Y143R/C, Q148H/R, V151I, N155H, E157Q, and G163K/R) and raltegravir phenotypic resistance.
+Treatment-Experienced, Integrase Strand Transfer Inhibitor-Naïve Participants: In the dolutegravir arm of the SAILING trial for treatment-experienced and INSTI-naïve participants (n = 354), treatment-emergent integrase substitutions were observed in 6 of 28 (21%) participants who had virologic failure and resistance data.
+In 5 of the 6 participants’ isolates emergent INSTI substitutions included L74L/M/I, Q95Q/L, V151V/I (n = 1 each), and R263K (n = 2).
+The change in dolutegravir phenotypic susceptibility for these 5 participant isolates was less than 2-fold.
+One participant isolate had pre-existing raltegravir resistance substitutions E138A, G140S, and Q148H at baseline and had additional emergent INSTI-resistance substitutions T97A and E138A/T with a corresponding 148-fold reduction in dolutegravir susceptibility at failure.
+In the comparator raltegravir arm, 21 of 49 (43%) participants with post-baseline resistance data had evidence of emergent INSTI-resistance substitutions (L74M, E92Q, T97A, E138Q, G140S/A, Y143R/C, Q148H/R, V151I, N155H, E157Q, and G163K/R) and raltegravir phenotypic resistance.
 
-Virologically Suppressed Subjects: SWORD-1 and SWORD-2 are identical trials in virologically suppressed subjects receiving 2 NRTIs plus either an INSTI, an NNRTI, or a PI, that switched to dolutegravir plus rilpivirine (n = 513) or remained on their current antiviral regimen (n = 511).
-In the pooled SWORD-1 and SWORD-2 trials, 12 subjects (7 in SWORD-1 and 5 in SWORD-2) had confirmed virologic failure (HIV-1 RNA greater than 200 copies/mL) while receiving dolutegravir plus rilpivirine at any time through Week 148.
+Virologically Suppressed Participants: SWORD-1 and SWORD-2 are identical trials in virologically suppressed participants receiving 2 NRTIs plus either an INSTI, an NNRTI, or a PI, that switched to dolutegravir plus rilpivirine (n = 513) or remained on their current antiviral regimen (n = 511).
+In the pooled SWORD-1 and SWORD-2 trials, 12 participants (7 in SWORD-1 and 5 in SWORD-2) had confirmed virologic failure (HIV-1 RNA greater than 200 copies/mL) while receiving dolutegravir plus rilpivirine at any time through Week 148.
 Ten of the confirmed virologic failures had post-baseline resistance data, with 6 isolates showing evidence of rilpivirine resistance, and 2 with evidence of dolutegravir resistance substitutions.
 Six isolates showed genotypic and/or phenotypic resistance to rilpivirine with emergent NNRTI-resistance substitutions E138E/A (rilpivirine 1.6-fold change), M230M/L (rilpivirine 2-fold change), L100L/I, K101Q, and E138A (rilpivirine 4.1-fold change), K101K/E (rilpivirine 1.2-fold change), K101K/E, M230M/L (rilpivirine 2-fold change), and L100L/V/M, M230M/L (rilpivirine 31-fold change).
-In addition, 1 virologic failure subject had NNRTI‑resistance substitutions K103N and V179I at Week 88 with rilpivirine phenotypic fold change of 5.2 but had no baseline sample.
+In addition, 1 virologic failure participant had NNRTI‑resistance substitutions K103N and V179I at Week 88 with rilpivirine phenotypic fold change of 5.2 but had no baseline sample.
 
 One virologic failure isolate had emergent INSTI‑resistance substitution V151V/I present post-baseline with baseline INSTI‑resistance substitutions N155N/H and G163G/R (by exploratory HIV proviral DNA archive sequencing); no integrase phenotypic data were available for this isolate at virologic failure.
-One other subject had the dolutegravir resistance substitution G193E at baseline and virologic failure, but no detectable phenotypic resistance (fold change = 1.02) at Week 24.
+One other participant had the dolutegravir resistance substitution G193E at baseline and virologic failure, but no detectable phenotypic resistance (fold change = 1.02) at Week 24.
 
-No resistance-associated substitutions were observed for the 2 subjects meeting confirmed virologic failure in the comparative current antiretroviral regimen arms at Week 48.
+No resistance-associated substitutions were observed for the 2 participants meeting confirmed virologic failure in the comparative current antiretroviral regimen arms at Week 48.
 
-Treatment-Experienced, Integrase Strand Transfer Inhibitor-Experienced Subjects: VIKING-3 examined the efficacy of dolutegravir 50 mg twice daily plus optimized background therapy in subjects with prior or current virologic failure on an INSTI- (elvitegravir or raltegravir) containing regimen.
+Treatment-Experienced, Integrase Strand Transfer Inhibitor-Experienced Participants: VIKING-3 examined the efficacy of dolutegravir 50 mg twice daily plus optimized background therapy in participants with prior or current virologic failure on an INSTI- (elvitegravir or raltegravir) containing regimen.
 Use of TIVICAY in INSTI-experienced patients should be guided by the number and type of baseline INSTI substitutions.
 The efficacy of TIVICAY 50 mg twice daily is reduced in patients with an INSTI-resistance Q148 substitution plus 2 or more additional INSTI-resistance substitutions, including T66A, L74I/M, E138A/K/T, G140S/A/C, Y143R/C/H, E157Q, G163S/E/K/Q, or G193E/R.
 
 Response by Baseline Genotype
 
-Of the 183 subjects with baseline data, 30% harbored virus with a substitution at Q148, and 33% had no primary INSTI-resistance substitutions (T66A/I/K, E92Q/V, Y143R/C/H, Q148H/R/K, and N155H) at baseline, but had historical genotypic evidence of INST-resistance substitutions, phenotypic evidence of elvitegravir or raltegravir resistance, or genotypic evidence of INSTI-resistance substitutions at screening.
+Of the 183 participants with baseline data, 30% harbored virus with a substitution at Q148, and 33% had no primary INSTI‑resistance substitutions (T66A/I/K, E92Q/V, Y143R/C/H, Q148H/R/K, and N155H) at baseline, but had historical genotypic evidence of INSTI‑resistance substitutions, phenotypic evidence of elvitegravir or raltegravir resistance, or genotypic evidence of INSTI‑resistance substitutions at screening.
 
 Response rates by baseline genotype were analyzed in an “as-treated” analysis at Week 48 (n = 175) (Table 13).
 The response rate at Week 48 to dolutegravir-containing regimens was 47% (24 of 51) when Q148 substitutions were present at baseline; Q148 was always present with additional INSTI-resistance substitutions (Table 13).
 In addition, a diminished virologic response of 40% (6 of 15) was observed when the substitution E157Q or K was present at baseline with other INSTI-resistance substitutions but without a Q148H or R substitution.
 
 Table 13.
-Response by Baseline Integrase Genotype in Subjects with Prior Experience to an Integrase Strand Transfer Inhibitor in VIKING-3
+Response by Baseline Integrase Genotype in Participants with Prior Experience to an Integrase Strand Transfer Inhibitor in VIKING-3
 
 | Baseline Genotype | Week 48 (<50 copies/mL) n = 175 |
 | --- | --- |
@@ -242,16 +255,16 @@ Response by Baseline Integrase Genotype in Subjects with Prior Experience to an 
 | Q148H/R + G140S/A/C without additional INSTI-resistance substitutionb | 61% (17/28) |
 | Q148H/R + ≥2 INSTI-resistance substitutionsb,c | 29% (6/21) |
 | INSTI = integrase strand transfer inhibitor. |  |
-| a Includes INSTI-resistance substitutions Y143R/C/H and N155H. b INSTI-resistance substitutions included T66A, L74I/M, E138A/K/T, G140S/A/C, Y143R/C/H, E157Q, G163S/E/K/Q, or G193E/R. Two additional subjects had baseline genotypes of Q148Q/R plus L74L/I/M (virologic failure) and Q148R plus E138K (responder). c The most common pathway with Q148H/R + greater than or equal to 2 INSTI-resistance substitutions had Q148+G140+E138 substitutions (n = 16). |  |
+| a Includes INSTI-resistance substitutions Y143R/C/H and N155H. b INSTI-resistance substitutions included T66A, L74I/M, E138A/K/T, G140S/A/C, Y143R/C/H, E157Q, G163S/E/K/Q, or G193E/R. Two additional participants had baseline genotypes of Q148Q/R plus L74L/I/M (virologic failure) and Q148R plus E138K (responder). c The most common pathway with Q148H/R + greater than or equal to 2 INSTI-resistance substitutions had Q148+G140+E138 substitutions (n = 16). |  |
 
 Response by Baseline Phenotype
 
-Response rates by baseline phenotype were analyzed in an as-treated analysis using all subjects with available baseline phenotypes through Week 48 (n = 163) (Table 14).
-These baseline phenotypic groups are based on subjects enrolled in VIKING-3 and are not meant to represent definitive clinical susceptibility cut points for dolutegravir.
+Response rates by baseline phenotype were analyzed in an as-treated analysis using all participants with available baseline phenotypes through Week 48 (n = 163) (Table 14).
+These baseline phenotypic groups are based on participants enrolled in VIKING-3 and are not meant to represent definitive clinical susceptibility cut points for dolutegravir.
 The data are provided to guide clinicians on the likelihood of virologic success based on pretreatment susceptibility to dolutegravir in INSTI-resistant patients.
 
 Table 14.
-Response by Baseline Dolutegravir Phenotype (Fold-Change from Reference) in Subjects with Prior Experience to an Integrase Strand Transfer Inhibitor in VIKING-3
+Response by Baseline Dolutegravir Phenotype (Fold-Change from Reference) in Participants with Prior Experience to an Integrase Strand Transfer Inhibitor in VIKING-3
 
 | Baseline Dolutegravir Phenotype (Fold-Change from Reference) | Response at Week 48 (<50 copies/mL) Subset n = 163 |
 | --- | --- |
@@ -262,17 +275,17 @@ Response by Baseline Dolutegravir Phenotype (Fold-Change from Reference) in Subj
 
 Integrase Strand Transfer Inhibitor Treatment-Emergent Resistance
 
-There were 50 subjects with virologic failure on the dolutegravir twice-daily regimen in VIKING-3 with HIV-1 RNA greater than 400 copies/mL at the failure timepoint, Week 48 or beyond, or the last timepoint on trial.
-Thirty-nine subjects with virologic failure had resistance data that were used in the Week 48 analysis.
-In the Week 48 resistance analysis 85% (33 of 39) of the subjects with virologic failure had treatment-emergent INSTI-resistance substitutions in their isolates.
-The most common treatment-emergent INSTI-resistance substitution was T97A.
-Other frequently emergent INSTI-resistance substitutions included L74M, I or V, E138K or A, G140S, Q148H, R or K, M154I, or N155H.
-Substitutions E92Q, Y143R or C/H, S147G, V151A, and E157E/Q each emerged in 1 to 3 subjects’ isolates.
-At failure, the median dolutegravir fold-change from reference was 61-fold (range: 0.75 to 209) for isolates with emergent INSTI-resistance substitutions (n = 33).
+There were 50 participants with virologic failure on the dolutegravir twice-daily regimen in VIKING‑3 with HIV‑1 RNA greater than 400 copies/mL at the failure timepoint, Week 48 or beyond, or the last timepoint on trial.
+Thirty‑nine participants with virologic failure had resistance data that were used in the Week 48 analysis.
+In the Week 48 resistance analysis 85% (33 of 39) of the participants with virologic failure had treatment-emergent INSTI‑resistance substitutions in their isolates.
+The most common treatment-emergent INSTI‑resistance substitution was T97A.
+Other frequently emergent INSTI‑resistance substitutions included L74M, I or V, E138K or A, G140S, Q148H, R or K, M154I, or N155H.
+Substitutions E92Q, Y143R or C/H, S147G, V151A, and E157E/Q each emerged in 1 to 3 participants’ isolates.
+At failure, the median dolutegravir fold‑change from reference was 61‑fold (range: 0.75 to 209) for isolates with emergent INSTI‑resistance substitutions (n = 33).
 
-Resistance to one or more background drugs in the dolutegravir twice-daily regimen also emerged in 49% (19 of 39) of subjects in the Week 48 resistance analysis.
+Resistance to one or more background drugs in the dolutegravir twice-daily regimen also emerged in 49% (19 of 39) of participants in the Week 48 resistance analysis.
 
-In VIKING-4 (ING116529), 30 subjects with current virological failure on an INSTI-containing regimen and genotypic evidence of INSTI-resistance substitutions at screening were randomized to receive either dolutegravir 50 mg twice daily or placebo with the current failing regimen for 7 days and then all subjects received open-label dolutegravir plus optimized background regimen from Day 8.
+In VIKING-4 (ING116529), 30 participants with current virological failure on an INSTI-containing regimen and genotypic evidence of INSTI-resistance substitutions at screening were randomized to receive either dolutegravir 50 mg twice daily or placebo with the current failing regimen for 7 days and then all participants received open-label dolutegravir plus optimized background regimen from Day 8.
 Virologic responses at Week 48 by baseline genotypic and phenotypic INSTI-resistance categories and the INSTI resistance-associated substitutions that emerged on dolutegravir treatment in VIKING-4 were consistent with those seen in VIKING-3.
 
 Cross-Resistance
