@@ -3,7 +3,7 @@
 ## 5.1 Myelosuppression
 
 ETOPOPHOS causes myelosuppression that results in thrombocytopenia and neutropenia.
-Fatal infections and bleeding have occurred.
+Fatal infections (including opportunistic infections like Pneumocystis jirovecii pneumonia) and bleeding have occurred.
 Obtain complete blood counts prior to each cycle of ETOPOPHOS and more frequently as clinically indicated [see Adverse Reactions (6.1)].
 
 ## 5.2 Secondary Leukemias

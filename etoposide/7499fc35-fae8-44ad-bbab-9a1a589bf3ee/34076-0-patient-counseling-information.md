@@ -15,4 +15,4 @@ Licensed by: CHEPLAPHARM Arzneimittel GmbH 17489 Greifswald, Germany
 
 Product of Germany
 
-Distributed by: H2-Pharma, LLC Montgomery, AL 36117
+Distributed by: H2-Pharma, LLC Montgomery, AL 36117, USA
