@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 A double-blind, randomized, multi-center, placebo-controlled study was conducted to support the safety and efficacy of doxylamine succinate and pyridoxine hydrochloride in the treatment of nausea and vomiting of pregnancy.
 Adult women 18 years of age or older and 7 to 14 weeks gestation (median 9 weeks of gestation) with nausea and vomiting of pregnancy were randomized to 14 days of doxylamine succinate and pyridoxine hydrochloride or placebo.

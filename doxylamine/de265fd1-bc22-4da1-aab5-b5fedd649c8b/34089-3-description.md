@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Doxylamine Succinate and Pyridoxine Hydrochloride Delayed-Release Tablets 10 mg/10 mg are white, round, biconvex, film-coated, delayed-release tablet imprinted on one side with “186” in black color.
 

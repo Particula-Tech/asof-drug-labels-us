@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 Doxylamine succinate and pyridoxine hydrochloride is contraindicated in women with any of the following conditions:
 
