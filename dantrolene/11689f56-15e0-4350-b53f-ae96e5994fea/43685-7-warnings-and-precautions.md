@@ -27,7 +27,7 @@ However, the majority of these cases were complicated with confounding factors s
 
 Long-term safety of dantrolene sodium in humans has not been established.
 Chronic studies in rats, dogs, and monkeys at dosages greater than 30 mg/kg/day showed growth or weight depression and signs of hepatopathy and possible occlusion nephropathy, all of which were reversible upon cessation of treatment.
-Sprague-Dawley female rats fed Dantrolene sodium for 18 months at dosage levels of 15, 30, and 60 mg/kg/day showed an increased incidence of benign and malignant mammary tumors compared with concurrent controls.
+Sprague-Dawley female rats fed Dantrolene Sodium for 18 months at dosage levels of 15, 30, and 60 mg/kg/day showed an increased incidence of benign and malignant mammary tumors compared with concurrent controls.
 At the highest dose level, there was an increase in the incidence of benign lymphatic neoplasms.
 In a 30-month study at the same dose levels also in Sprague-Dawley rats, Dantrolene Sodium produced a decrease in the time of onset of mammary neoplasms.
 Female rats at the highest dose level showed an increased incidence of hepatic lymphangiomas and hepatic angiosarcomas.
