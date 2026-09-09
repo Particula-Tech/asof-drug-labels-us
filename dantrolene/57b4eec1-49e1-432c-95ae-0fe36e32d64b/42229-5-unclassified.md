@@ -2,16 +2,16 @@ Rx Only.
 
 Manufactured for:
 
-Endo USA
+Par Health USA Woodcliff Lake, NJ 07677 U.S.A.
 
-Malvern, PA 19355 U.S.A.
+Product of Taiwan
 
 Made in India
 
 Neutral Code: TN/DRUGS/TN00002121
 
-© 2024 Endo, Inc. or one of its affiliates.
+© 2026 Par Health, Inc. or one of its affiliates.
 
-OS124D-01-74-03
+OS124D-01-74-04
 
-Revised: 12/2024
+Revised: 07/2026
