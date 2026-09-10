@@ -10,8 +10,9 @@ Serious infections requiring hospitalization, or otherwise clinically significan
 - Plaque Psoriasis: diverticulitis, cellulitis, pneumonia, appendicitis, cholecystitis, sepsis, osteomyelitis, viral infections, gastroenteritis, and urinary tract infections.
 - Psoriatic arthritis: cholecystitis.
 - Crohn's disease in adults: anal abscess, gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeria meningitis.
-- Crohn's disease in pediatrics: Aeromonas gastroenteritis
-- Ulcerative colitis: gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeriosis.
+- Crohn's disease in pediatrics: Aeromonas gastroenteritis.
+- Ulcerative colitis in adults: gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeriosis.
+- Ulcerative colitis in pediatrics: salmonellosis and cytomegalovirus.
 
 Avoid initiating treatment with Ustekinumab in patients with any clinically important active infection until the infection resolves or is adequately treated.
 Consider the risks and benefits of treatment prior to initiating use of Ustekinumab in patients with a chronic infection or a history of recurrent infection.

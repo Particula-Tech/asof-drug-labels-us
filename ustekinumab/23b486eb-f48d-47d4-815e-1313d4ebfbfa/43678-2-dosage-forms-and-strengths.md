@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Ustekinumab is a colorless to light yellow solution and may contain a few small translucent or white particles.
+Ustekinumab (ustekinumab) is a colorless to light yellow solution and may contain a few small translucent or white particles.
 
 Subcutaneous Injection
 

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Ustekinumab injection is a sterile, preservative-free, colorless to light yellow solution and may contain a few small translucent or white particles.
+Ustekinumab® (ustekinumab) injection is a sterile, preservative-free, colorless to light yellow solution and may contain a few small translucent or white particles.
 It is supplied as individually packaged, single-dose prefilled syringes or single-dose vials.
 
 For Subcutaneous Use
@@ -24,7 +24,7 @@ Single-dose Vial
 
 Storage and Stability
 
-Store Ustekinumab vials and prefilled syringes refrigerated between 2 °C to 8 °C (36 °F to 46 °F).
+Store Ustekinumab vials and prefilled syringes refrigerated between 2 ºC to 8 ºC (36 ºF to 46 ºF).
 Store Ustekinumab vials upright.
 Keep the product in the original carton to protect from light until the time of use.
 Do not freeze.

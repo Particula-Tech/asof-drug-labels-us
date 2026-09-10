@@ -14,4 +14,4 @@ Ustekinumab is indicated for the treatment of adults and pediatric patients 2 ye
 
 ## 1.4 Ulcerative Colitis (UC)
 
-Ustekinumab is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis.
+Ustekinumab is indicated for the treatment of adults and pediatric patients 2 years of age and older with moderately to severely active ulcerative colitis.

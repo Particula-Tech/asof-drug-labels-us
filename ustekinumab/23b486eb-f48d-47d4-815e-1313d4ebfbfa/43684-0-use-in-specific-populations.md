@@ -79,17 +79,21 @@ The safety and effectiveness of Ustekinumab have not been established in pediatr
 
 Crohn's Disease
 
-The safety and effectiveness of Ustekinumab for the treatment of moderately to severely active Crohn's disease have been established in pediatric patients aged 2 years and older.
+The safety and effectiveness of Ustekinumab have been established for the treatment of moderately to severely active Crohn's disease in pediatric patients aged 2 years and older.
 Use of Ustekinumab for this indication is supported by evidence from adequate and well-controlled studies in adults with additional safety, efficacy, and pharmacokinetic data from a 52-week study in 101 pediatric subjects aged 2 to 17 years of age.
 The adverse reaction profile in these pediatric subjects was similar to adverse reactions reported in the clinical trials of adults with Crohn's disease.
-Other adverse reactions reported in at least 10% of pediatric subjects were upper respiratory tract infection (13% during induction and 17% during maintenance), COVID-19 (17% during maintenance), and headache (10% during maintenance).
-Serum concentrations in pediatric subjects with Crohn's disease, were generally comparable to those in the adult Crohn's disease population [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.4, 14.5)].
+Other adverse reactions reported in at least 10% of pediatric subjects were upper respiratory tract infection (13% during induction and 17% during maintenance), COVID-19 (17% during maintenance), and headache (10% during maintenance) [see Warnings and Precautions (5.1), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.4, 14.5)].
 
 The safety and effectiveness of Ustekinumab for the treatment of moderately to severely active Crohn's disease have not been established in pediatric patients less than 2 years of age.
 
 Ulcerative Colitis
 
-The safety and effectiveness of Ustekinumab have not been established in pediatric patients with ulcerative colitis.
+The safety and effectiveness of Ustekinumab have been established for the treatment of moderately to severely active ulcerative colitis in pediatric patients aged 2 years and older.
+Use of Ustekinumab for this indication is supported by evidence from adequate and well-controlled studies in adult subjects with ulcerative colitis, pharmacokinetic and safety data from pediatric subjects with Crohn's disease aged 2 to 17 years of age, and additional safety, efficacy, and pharmacokinetic data from a 52-week study in 112 pediatric subjects with ulcerative colitis aged 3 to 17 years of age.
+The adverse reaction profile in the pediatric subjects with ulcerative colitis was similar to adverse reactions reported in the clinical trials of adults with ulcerative colitis.
+One pediatric subject experienced worsening of preexisting peripheral neuropathy during treatment with Ustekinumab, resulting in hospitalization [see Warnings and Precautions (5.1), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.6, 14.7)].
+
+The safety and effectiveness of Ustekinumab for the treatment of moderately to severely active ulcerative colitis have not been established in pediatric patients less than 2 years of age.
 
 ## 8.5 Geriatric Use
 

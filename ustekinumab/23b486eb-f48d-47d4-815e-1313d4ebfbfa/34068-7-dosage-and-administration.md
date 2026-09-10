@@ -102,7 +102,7 @@ Table 3: Recommended Dose of Ustekinumab for Subcutaneous Injection in Pediatric
 
 Intravenous Induction Adult Dosage Regimen
 
-The recommended induction dosage is a single intravenous infusion using the weight-based dosage regimen specified in Table 4 [see Dosage and Administration (2.7)].
+The recommended induction dosage is a single intravenous infusion using the weight-based dosage regimen specified in Table 4 [see Dosage and Administration (2.8)].
 
 Table 4: Initial Intravenous Dose of Ustekinumab in Adult Patients with Crohn's Disease
 
@@ -120,7 +120,7 @@ The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 w
 
 Intravenous Induction Pediatric Dosage Regimen
 
-The recommended induction dosage in pediatric patients weighing 10 kg and above is a single intravenous infusion using the weight-based dosage regimen specified in Table 5 [see Dosage and Administration (2.7)].
+The recommended induction dosage in pediatric patients weighing 10 kg and above is a single intravenous infusion using the weight-based dosage regimen specified in Table 5 [see Dosage and Administration (2.8)].
 
 Table 5: Initial Intravenous Dose of Ustekinumab in Pediatric Patients (Weighing 10 kg or More) with Crohn's Disease
 
@@ -135,14 +135,14 @@ Subcutaneous Maintenance Pediatric Dosage Regimen
 
 The recommended maintenance dosage in pediatric patients using weight-based dosing is:
 
-- 10 kg to 35 kg: a subcutaneous 2.5 mg/kg dose administered 8 weeks after the initial intravenous dose, then every 8 weeks thereafter.
-- greater than 35 kg: a subcutaneous 90 mg dose administered 8 weeks after the initial intravenous dose, then every 8 weeks thereafter.
+- 10 kg to 35 kg: A subcutaneous 2.5 mg/kg dose administered 8 weeks after the initial intravenous dose, then every 8 weeks thereafter.
+- Greater than 35 kg: A subcutaneous 90 mg dose administered 8 weeks after the initial intravenous dose, then every 8 weeks thereafter.
 
-## 2.5 Recommended Dosage in Ulcerative Colitis
+## 2.5 Recommended Adult Dosage in Ulcerative Colitis
 
 Intravenous Induction Adult Dosage Regimen
 
-The recommended induction dosage is a single intravenous infusion using the weight-based dosage regimen specified in Table 6 [see Dosage and Administration (2.7)].
+The recommended induction dosage is a single intravenous infusion using the weight-based dosage regimen specified in Table 6 [see Dosage and Administration (2.8)].
 
 Table 6: Initial Intravenous Dosage of Ustekinumab in Adult Patients with Ulcerative Colitis
 
@@ -156,7 +156,29 @@ Subcutaneous Maintenance Adult Dosage Regimen
 
 The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 weeks after the initial intravenous dose, then every 8 weeks thereafter.
 
-## 2.6 General Considerations for Administration
+## 2.6 Recommended Pediatric Dosage in Ulcerative Colitis
+
+Intravenous Induction Pediatric Dosage Regimen
+
+The recommended induction dosage in pediatric patients weighing 10 kg and above is a single intravenous infusion using the weight-based dosage regimen specified in Table 7 [see Dosage and Administration (2.8)].
+
+Table 7: Initial Intravenous Dosage of Ustekinumab in Pediatric Patients with Ulcerative Colitis Weighing 10 kg or More
+
+| Body Weight of Patient at the Time of Dosing | Dose |
+| --- | --- |
+| 10 kg to 25 kg | 10 mg/kg |
+| greater than 25 kg to 55 kg | 260 mg |
+| greater than 55 kg to 85 kg | 390 mg |
+| greater than 85 kg | 520 mg |
+
+Subcutaneous Maintenance Pediatric Dosage Regimen
+
+The recommended maintenance dosage in pediatric patients using weight-based dosing is:
+
+- 10 kg to 35 kg: A subcutaneous 2.5 mg/kg dose administered 8 weeks after the initial intravenous dose, then every 8 weeks thereafter.
+- Greater than 35 kg: A subcutaneous 90 mg dose administered 8 weeks after the initial intravenous dose, then every 8 weeks thereafter.
+
+## 2.7 General Considerations for Administration
 
 - Ustekinumab is intended for use under the guidance and supervision of a healthcare provider.
   Ustekinumab should only be administered to patients who will be closely monitored and have regular follow-up visits with a healthcare provider.
@@ -173,25 +195,41 @@ The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 w
   Do not use Ustekinumab if it is discolored or cloudy, or if other particulate matter is present.
   Ustekinumab does not contain preservatives; therefore, discard any unused product remaining in the vial and/or syringe.
 
-## 2.7 Preparation and Administration of Ustekinumab 130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn's Disease and Ulcerative Colitis)
+## 2.8 Preparation and Administration of Ustekinumab 130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn's Disease and Ulcerative Colitis)
 
 Ustekinumab solution for intravenous infusion must be diluted, prepared, and infused by a healthcare professional using aseptic technique.
 
-1. Calculate the dose and the number of vials needed based on patient weight (see Table 4, Table 5, and Table 6 above).
-2. Obtain the appropriate infusion solution (Table 7).
-   Withdraw and discard a volume of the infusion solution equal to the volume of Ustekinumab solution to be added: Table 7: Appropriate Infusion Solution and Final Infusion Volumes for Intravenous Infusion of Ustekinumab SolutionPatient PopulationBody Weight of Patient at the Time of DosingInfusion SolutionFinal Volume in the Infusion BagPediatric10 kg to 25 kg0.9% Sodium Chloride Injection100 mLRemove a volume of infusion solution equal to the volume of Ustekinumab solution to be added to obtain the final volume.Greater than 25 kg0.9% Sodium Chloride Injection250 mLAdultAll weights0.45% or 0.9% Sodium Chloride Injection250 mL
-3. Add the volume of Ustekinumab solution equal to the calculated dose of Ustekinumab to the infusion solution and gently mix.
-4. Visually inspect the diluted solution before infusion.
-   Do not use if visibly opaque particles, discoloration or foreign particles are observed.
-5. Infuse the diluted solution over a period of at least one hour.
-   Once diluted, the infusion should be completely administered within the storage time (see Storage below).
-6. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
-7. Do not infuse Ustekinumab concomitantly in the same intravenous line with other agents.
-8. Ustekinumab does not contain preservatives.
-   Each vial is for a one-time use in only one patient.
-   Discard any remaining solution.
-   Dispose any unused medicinal product in accordance with local requirements.
-9. Discard any unused portion of the infusion solution.
+- 1.Calculate the dose and the number of Ustekinumab vials needed based on patient weight (see Table 4, Table 5, Table 6, and Table 7 above).
+- 2.Obtain the appropriate infusion solution (Table 8).
+  Withdraw and discard a volume of the infusion solution equal to the volume of Ustekinumab solution to be added:
+
+Table 8: Appropriate Infusion Solution and Final Infusion Volumes for Intravenous Infusion of Ustekinumab Solution
+
+| Patient Population | Body Weight of Patient at the Time of Dosing | Infusion Solution | Final Volume in the Infusion Bag |
+| --- | --- | --- | --- |
+| Pediatric | 10 kg to 25 kg | 0.9% Sodium Chloride Injection | 100 mLRemove a volume of infusion solution equal to the volume of Ustekinumab solution to be added to obtain the final volume. |
+| Greater than 25 kg | 0.9% Sodium Chloride Injection | 250 mL |  |
+| Adult | All weights | 0.45% or 0.9% Sodium Chloride Injection | 250 mL |
+
+- 3.
+  Add the volume of Ustekinumab solution equal to the calculated dose of Ustekinumab to the infusion solution and gently mix.
+- 4.
+  Visually inspect the diluted solution before infusion.
+  Do not use if visibly opaque particles, discoloration or foreign particles are observed.
+- 5.
+  Infuse the diluted solution over a period of at least one hour.
+  Once diluted, the infusion should be completely administered within the storage time (see Storage below).
+- 6.
+  Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
+- 7.
+  Do not infuse Ustekinumab concomitantly in the same intravenous line with other agents.
+- 8.
+  Ustekinumab does not contain preservatives.
+  Each vial is for a one-time use in only one patient.
+  Discard any remaining solution.
+  Dispose any unused medicinal product in accordance with local requirements.
+- 9.
+  Discard any unused portion of the infusion solution.
 
 Storage
 
