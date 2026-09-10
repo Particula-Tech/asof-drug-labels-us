@@ -2,7 +2,7 @@
 
 ## 1.1 Bacterial Meningitis (Pediatric Patients 3 Months of Age and Older Only)
 
-Meropenem for Injection is indicated for the treatment of bacterial meningitis caused by Haemophilus influenzae, Neisseria meningitidis andpenicillin-susceptible isolates of Streptococcus pneumoniae, in pediatric patients 3 months of age and older.
+Meropenem for Injection is indicated for the treatment of bacterial meningitis caused by Haemophilus influenzae, Neisseria meningitidis and penicillin-susceptible isolates of Streptococcus pneumoniae, in pediatric patients 3 months of age and older.
 Meropenem for injection has been found to be effective in eliminating concurrent bacteremia in association with bacterial meningitis.
 
 ## 1.2 Usage

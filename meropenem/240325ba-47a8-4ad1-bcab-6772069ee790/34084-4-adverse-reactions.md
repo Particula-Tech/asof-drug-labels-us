@@ -32,7 +32,7 @@ In the meropenem for injection-treated group, 12/15 patients with seizures had l
 
 The meropenem for injection group had a statistically higher number of patients than the comparator with transient elevation of liver enzymes.
 
-Adverse Reactions from Studies of Meropenem for Injectionin Other Serious Bacterial Infections (not bacterial meningitis)
+Adverse Reactions from Studies of Meropenem for Injection in Other Serious Bacterial Infections (not bacterial meningitis)
 
 The following adverse reactions occurred in studies of 2,904 immunocompetent adult patients who received meropenem for injection (500 mg or 1 gram every 8 hours) for the treatment of other serious bacterial infections (not bacterial meningitis).
 This meropenem for injection product is indicated only for the treatment of bacterial meningitis caused by certain organisms in pediatric patients 3 months of age and older [see Indications and Usage (1.1)].
@@ -43,7 +43,7 @@ Deaths in 5 patients were assessed as possibly related to meropenem for injectio
 
 Local Adverse Reactions
 
-Local adverse reactions that were reported with meropenem for injection were as follows: Inflammation at the injection site (2.4%), injection site reaction (0.9%), phlebitis/thrombophlebitis (0.8%), pain at the injection site (0.4%), and edema at the injection site (0.2%)
+Local adverse reactions that were reported with meropenem for injection were as follows: Inflammation at the injection site (2.4%), injection site reaction (0.9%), phlebitis/thrombophlebitis (0.8%), pain at the injection site (0.4%), and edema at the injection site (0.2%).
 
 Systemic Adverse Reactions
 

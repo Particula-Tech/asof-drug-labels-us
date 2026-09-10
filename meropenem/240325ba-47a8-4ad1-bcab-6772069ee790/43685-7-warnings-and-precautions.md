@@ -22,7 +22,7 @@ If signs or symptoms of rhabdomyolysis such as muscle pain, tenderness or weakne
 ## 5.4 Seizure Potential
 
 Seizures and other adverse CNS experiences have been reported during treatment with meropenem for injection.
-These experiences have occurred most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) or with bacterial meningitis and/or compromised renal function [see Adverse Reactions(6.1) and Drug Interactions(7.2)].
+These experiences have occurred most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) or with bacterial meningitis and/or compromised renal function [see Adverse Reactions (6.1) and Drug Interactions (7.2)].
 
 During clinical investigations, 2904 immunocompetent adult patients were treated for non-CNS infections with the overall seizure rate being 0.7% (based on 20 patients with this adverse event).
 All meropenem-treated patients with seizures had pre-existing contributing factors.
