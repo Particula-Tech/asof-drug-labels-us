@@ -29,16 +29,18 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 
 Manufactured for:
 
-Endo USA
+Par Health USA
 
-Malvern, PA 19355 U.S.A.
+Woodcliff Lake, NJ 07677 U.S.A.
+
+Product of India
 
 Made in India
 
 Neutral Code: TN/DRUGS/TN00002121
 
-© 2024 Endo, Inc. or one of its affiliates.
+© 2026 Par Health, Inc. or one of its affiliates.
 
-OS814-01-74-02
+OS814-01-74-03
 
-Revised: 11/2024
+Revised: 07/2026
