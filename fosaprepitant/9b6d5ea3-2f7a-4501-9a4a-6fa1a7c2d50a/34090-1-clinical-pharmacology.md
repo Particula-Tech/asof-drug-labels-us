@@ -74,11 +74,11 @@ Table 9: Systemic Exposures of Aprepitant for Single Dose Fosaprepitant for Inje
 | 2 Years to less than 6 Years | 28.2 | 3.1 | 0.4 | 0.1 | 0.02 |  |
 | 6 Months to less than 2 Years | 5 mg/kg | 32.7 | 3.3 | 0.4 | NENE = Not Estimated. The geometric mean could not be estimated due to values being below the limitation of quantification. | ND |
 
-3-Day IV/Oral/Oral Fosaprepitant Regimen: Simulated aprepitant systemic exposures in patients 6 months to less than 12 years and observed systemic exposures in patients 12 to 17 years are shown in Table 10, including AUC0-24hr, peak plasma concentration (Cmax) on Day 1 and concentrations at the end of Day 1 (C24), Day 2 (C48) and Day 3 (C72).
+3-Day IV/Oral/Oral Fosaprepitant/Aprepitant Regimen: Simulated aprepitant systemic exposures in patients 6 months to less than 12 years and observed systemic exposures in patients 12 to 17 years are shown in Table 10, including AUC0-24hr, peak plasma concentration (Cmax) on Day 1 and concentrations at the end of Day 1 (C24), Day 2 (C48) and Day 3 (C72).
 
 Table 10: Systemic Exposures of Aprepitant for 3-Day IV/Oral/Oral Regimen in Pediatric Patients
 
-| Population | 3-Day Dose of Fosaprepitant (IV/Oral/OralIV on Day 1, Oral on Day 2, and Oral on Day 3) | Geometric Mean |  |  |  |  |
+| Population | 3-Day Dose of Fosaprepitant/Aprepitant (IV/Oral/OralIV on Day 1, Oral on Day 2, and Oral on Day 3) | Geometric Mean |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | AUC0-24hr. (mcg*hr/mL) | Cmax (mcg/mL) | C24(mcg/mL) | C48 (mcg/mL) | C72 (mcg/mL) |  |  |
 | 12 Years to 17 Years | 115/80/80 mg | 18.0 | 3.0 | 0.4 | 0.2 | NENE = Not Estimated. The geometric mean could not be estimated due to values being below the limitation of quantification. |

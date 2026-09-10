@@ -20,4 +20,4 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Bangalore, India
 
-Revised: 4/2026 MI:FOSAPTIJ:R1
+Revised: 8/2026 MI:FOSAPTIJ:R2

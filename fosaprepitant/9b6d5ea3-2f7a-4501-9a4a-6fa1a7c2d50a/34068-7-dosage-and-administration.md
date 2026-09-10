@@ -55,7 +55,7 @@ EMEND capsules or EMEND for oral suspension may be used on Days 2 and 3 instead 
 
 Administer fosaprepitant for injection over 30 minutes (12 years to 17 years) or 60 minutes (6 months to less than 12 years), completing the infusion approximately 30 minutes prior to chemotherapy.
 
-Table 4: 3-Day Fosaprepitant Dosage Regimen for Prevention of Nausea and Vomiting Associated with Single or Multi-day Regimens of HEC or MEC in Pediatric Patients 6 MonthsDosing in pediatric patients less than 6 kg is not recommended. to 17 Years
+Table 4: 3-Day Fosaprepitant/Aprepitant Dosage Regimen for Prevention of Nausea and Vomiting Associated with Single or Multi-day Regimens of HEC or MEC in Pediatric Patients 6 MonthsDosing in pediatric patients less than 6 kg is not recommended. to 17 Years
 
 |  | Age of Pediatric Population | Day 1 | Day 2 | Day 3 |
 | --- | --- | --- | --- | --- |
