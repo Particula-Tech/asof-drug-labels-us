@@ -21,7 +21,7 @@ Several studies have suggested that women with migraine may be at increased risk
 
 #### Human Data
 
-The Sumatriptan/Naratriptan/Treximet (sumatriptan and naproxen sodium) Pregnancy Registry, a population-based international prospective study, collected data for sumatriptan from January 1996 to September 2012.
+The Sumatriptan/Naratriptan/TREXIMET® (sumatriptan and naproxen sodium) Pregnancy Registry, a population-based international prospective study, collected data for sumatriptan from January 1996 to September 2012.
 The Registry documented outcomes of 626 infants and fetuses exposed to sumatriptan during pregnancy (528 with earliest exposure during the first trimester, 78 during the second trimester, 16 during the third trimester, and 4 unknown).
 The occurrence of major birth defects (excluding fetal deaths and induced abortions without reported defects and all spontaneous pregnancy losses) during first-trimester exposure to sumatriptan was 4.2% (20/478 [95% CI: 2.6% to 6.5%]) and during any trimester of exposure was 4.2% (24/576 [95% CI: 2.7% to 6.2%]).
 The sample size in this study had 80% power to detect at least a 1.73- to 1.91-fold increase in the rate of major malformations.

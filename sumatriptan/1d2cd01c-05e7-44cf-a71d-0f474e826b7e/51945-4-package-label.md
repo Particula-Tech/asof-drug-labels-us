@@ -21,17 +21,17 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
 Swallow tablet whole with water.
 
 Do not split tablets.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-RALP5630CL1 3436/1
+RALP5630CL2 3436/2
 
 # PRICIPAL DISPLAY PANEL – 50 mg
 
@@ -56,17 +56,17 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
 Swallow tablet whole with water.
 
 Do not split tablets.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-RALP5631CL1 3437/1
+RALP5631CL2 3437/2
 
 # PRICIPAL DISPLAY PANEL – 100 mg
 
@@ -91,14 +91,14 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
 Swallow tablet whole with water.
 
 Do not split tablets.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-RALP5632CL1 3438/1
+RALP5632CL2 3438/2

@@ -23,7 +23,7 @@ Percentage of Patients with Headache Response (Mild or No Headache) 2 and 4 Hour
 
 |  | Sumatriptan Tablets25 mg |  | Sumatriptan Tablets50 mg |  | Sumatriptan Tablets100 mg |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 hr | 4 hr | 2 hr | 4 hr | 2 hr | 4 hr | 2 hr | 4 hr |  |
+| 2 h | 4 h | 2 h | 4 h | 2 h | 4 h | 2 h | 4 h |  |
 | Trial 1 | 52%P < 0.05 in comparison with placebo. | 67% | 61%,P < 0.05 in comparison with 25 mg. | 78%, | 62%, | 79%, | 27% | 38% |
 |  | (n = 298) |  | (n = 296) |  | (n = 296) |  | (n = 94) |  |
 | Trial 2 | 52% | 70% | 50% | 68% | 56% | 71% | 26% | 38% |
@@ -33,10 +33,18 @@ Percentage of Patients with Headache Response (Mild or No Headache) 2 and 4 Hour
 
 The estimated probability of achieving an initial headache response over the 4 hours following treatment in pooled Trials 1, 2, and 3 is depicted in Figure 1.
 
+a The figure shows the probability over time of obtaining headache response (no or mild pain) following treatment with oral sumatriptan.
+The averages displayed are based on pooled data from the 3 clinical controlled trials providing evidence of efficacy.
+Kaplan-Meier plot with patients not achieving response and/or taking rescue within 240 minutes censored to 240 minutes.
+
 For patients with migraine-associated nausea, photophobia, and/or phonophobia at baseline, there was a lower incidence of these symptoms at 2 hours (Trial 1) and at 4 hours (Trials 1, 2, and 3) following administration of sumatriptan tablets compared with placebo.
 
 As early as 2 hours in Trials 2 and 3, or as early as 4 hours in Trial 1, through 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment for pain relief in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment is summarized in Figure 2.
+
+a Kaplan-Meier plot based on data obtained in the 3 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours.
+Plot also includes patients who had no response to the initial dose.
+No remedication was allowed within 2 hours postdose.
 
 There is evidence that doses above 50 mg do not provide a greater effect than 50 mg.
 There was no evidence to suggest that treatment with sumatriptan tablets was associated with an increase in the severity of recurrent headaches.
