@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA017812",
+    "NDA018558"
+  ],
+  "inn": "lithium",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0054-0886-25",
+    "0054-0886-31",
+    "0054-0887-25",
+    "0054-0890-25",
+    "0054-0890-31",
+    "0054-0891-25"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, GELATIN COATED",
+      "generic": "lithium carbonate",
+      "name": "Lithium Carbonate"
+    },
+    {
+      "form": "TABLET",
+      "generic": "lithium carbonate",
+      "name": "Lithium Carbonate"
+    }
+  ],
+  "setid": "b839ff4b-f62d-41ab-a823-550a756d58ec",
+  "source": "dailymed"
+}
