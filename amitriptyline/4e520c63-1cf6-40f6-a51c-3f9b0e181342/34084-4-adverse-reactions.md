@@ -4,21 +4,21 @@ Within each category the following adverse reactions are listed in order of decr
 Included in the listing are a few adverse reactions which have not been reported with this specific drug.
 However, pharmacological similarities among the tricyclic antidepressant drugs require that each of the reactions be considered when amitriptyline is administered.
 
-Cardiovascular:Myocardial infarction; stroke; nonspecific ECG changes and changes in AV conduction; heart block; arrhythmias; hypotension, particularly orthostatic hypotension; syncope; hypertension; tachycardia; palpitation.
+Cardiovascular: Myocardial infarction; stroke; nonspecific ECG changes and changes in AV conduction; heart block; arrhythmias; hypotension, particularly orthostatic hypotension; syncope; hypertension; tachycardia; palpitation.
 
-CNS and Neuromuscular:Coma; seizures; hallucinations; delusions; confusional states; disorientation; incoordination; ataxia; tremors; peripheral neuropathy; numbness, tingling, and paresthesias of the extremities; extrapyramidal symptoms including abnormal involuntary movements and tardive dyskinesia; dysarthria; disturbed concentration; excitement; anxiety; insomnia; restlessness; nightmares; drowsiness; dizziness; weakness; fatigue; headache; syndrome of inappropriate ADH (antidiuretic hormone) secretion; tinnitus; alteration in EEG patterns.
+CNS and Neuromuscular: Coma; seizures; hallucinations; delusions; confusional states; disorientation; incoordination; ataxia; tremors; peripheral neuropathy; numbness, tingling, and paresthesias of the extremities; extrapyramidal symptoms including abnormal involuntary movements and tardive dyskinesia; dysarthria; disturbed concentration; excitement; anxiety; insomnia; restlessness; nightmares; drowsiness; dizziness; weakness; fatigue; headache; syndrome of inappropriate ADH (antidiuretic hormone) secretion; tinnitus; alteration in EEG patterns.
 
-Anticholinergic:Paralytic ileus; hyperpyrexia; urinary retention; dilatation of the urinary tract; constipation; blurred vision, disturbance of accommodation, increased ocular pressure, mydriasis; dry mouth.
+Anticholinergic: Paralytic ileus; hyperpyrexia; urinary retention; dilatation of the urinary tract; constipation; blurred vision, disturbance of accommodation, increased ocular pressure, mydriasis; dry mouth.
 
-Allergic:Skin rash; urticaria; photosensitization; edema of face and tongue.
+Allergic: Skin rash; urticaria; photosensitization; edema of face and tongue.
 
-Hematologic:Bone marrow depression including agranulocytosis, leukopenia, thrombocytopenia; purpura; eosinophilia.
+Hematologic: Bone marrow depression including agranulocytosis, leukopenia, thrombocytopenia; purpura; eosinophilia.
 
-Gastrointestinal:Rarely hepatitis (including altered liver function and jaundice); nausea; epigastric distress; vomiting; anorexia; stomatitis; peculiar taste; diarrhea; parotid swelling; black tongue.
+Gastrointestinal: Rarely hepatitis (including altered liver function and jaundice); nausea; epigastric distress; vomiting; anorexia; stomatitis; peculiar taste; diarrhea; parotid swelling; black tongue.
 
-Endocrine:Testicular swelling and gynecomastia in the male; breast enlargement and galactorrhea in the female; increased or decreased libido; impotence; elevation and lowering of blood sugar levels.
+Endocrine: Testicular swelling and gynecomastia in the male; breast enlargement and galactorrhea in the female; increased or decreased libido; impotence; elevation and lowering of blood sugar levels.
 
-Other:Alopecia; edema; weight gain or loss; urinary frequency; increased perspiration; hyponatremia.
+Other: Alopecia; edema; weight gain or loss; urinary frequency; increased perspiration; hyponatremia.
 
 ## Withdrawal Symptoms
 

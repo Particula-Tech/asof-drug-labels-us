@@ -15,8 +15,6 @@ There were differences in absolute risk of suicidality across the different indi
 The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
-Table 1
-
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
@@ -40,7 +38,8 @@ Although a causal link between the emergence of such symptoms and either the wor
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
-Such monitoring should include daily observation by families and caregivers.Prescriptions for amitriptyline hydrochloride tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Such monitoring should include daily observation by families and caregivers.
+Prescriptions for amitriptyline hydrochloride tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 ## Serotonin Syndrome
 
@@ -82,12 +81,13 @@ Delirium has been reported with concurrent administration of amitriptyline and d
 
 ## Hyponatremia
 
-Hyponatremia has occurred as a result of treatment with amitriptyline hydrochloride.
+Hyponatremia has occurred as a result of treatment with amitriptyline hydrochloride tablets.
 In many cases, hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included syncope, seizure, coma, respiratory arrest, and death.
-In patients with symptomatic hyponatremia, discontinue amitriptyline hydrochloride and institute appropriate medical intervention.
-Elderly patients, patients taking diuretics, and those who are volume-depleted may be at greater risk of developing hyponatremia with amitriptyline hydrochloride.
+
+In patients with symptomatic hyponatremia, discontinue amitriptyline hydrochloride tablets and institute appropriate medical intervention.
+Elderly patients, patients taking diuretics, and those who are volume-depleted may be at greater risk of developing hyponatremia with amitriptyline hydrochloride tablets.
 
 ## Angle-Closure Glaucoma
 
