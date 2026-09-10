@@ -39,7 +39,7 @@ In a Phase 1 trial using escalating doses of paclitaxel (110 to 200 mg/m2) and c
 Pharmacokinetic data from these patients demonstrated a decrease in paclitaxel clearance of approximately 33% when paclitaxel was administered following cisplatin.
 
 The metabolism of paclitaxel injection is catalyzed by cytochrome P450 isoenzymes CYP2C8 and CYP3A4.
-Caution should be exercised when administering paclitaxel concomitantly with known substrates or inhibitors of the cytochrome P450 isoenzymes CYP2C8 and CYP3A4.
+In the absence of formal clinical drug interaction studies, caution should be exercised when administering paclitaxel concomitantly with known substrates or inhibitors of the cytochrome P450 isoenzymes CYP2C8 and CYP3A4.
 Caution should be exercised when paclitaxel injection is concomitantly administered with known substrates (e.g., midazolam, buspirone, felodipine, lovastatin, eletriptan, sildenafil, simvastatin, and triazolam), inhibitors (e.g., atazanavir, clarithromycin, indinavir, itraconazole, ketoconazole, nefazodone, nelfinavir, ritonavir, saquinavir, and telithromycin), and inducers (e.g., rifampin and carbamazepine) of CYP3A4 (see CLINICAL PHARMACOLOGY).
 
 Caution should also be exercised when paclitaxel injection is concomitantly administered with known substrates (e.g., repaglinide and rosiglitazone), inhibitors (e.g., gemfibrozil), and inducers (e.g., rifampin) of CYP2C8 (see CLINICAL PHARMACOLOGY).

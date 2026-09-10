@@ -44,6 +44,6 @@ The pharmacokinetics of paclitaxel may also be altered in vivo as a result of in
 The disposition and toxicity of paclitaxel 3 hour infusion were evaluated in 35 patients with varying degrees of hepatic function.
 Relative to patients with normal bilirubin, plasma paclitaxel exposure in patients with abnormal serum bilirubin ≤ 2 times upper limit of normal (ULN) administered 175 mg/m2 was increased, but with no apparent increase in the frequency or severity of toxicity.
 In 5 patients with serum total bilirubin > 2 times ULN, there was a statistically nonsignificant higher incidence of severe myelosuppression, even at a reduced dose (110 mg/m2), but no observed increase in plasma exposure (see PRECAUTIONS, Hepatic and DOSAGE AND ADMINISTRATION).
-The effect of renal dysfunction on the disposition of paclitaxel has not been investigated.
+The effect of renal or hepatic dysfunction on the disposition of paclitaxel has not been investigated.
 
 Possible interactions of paclitaxel with concomitantly administered medications have not been formally investigated.

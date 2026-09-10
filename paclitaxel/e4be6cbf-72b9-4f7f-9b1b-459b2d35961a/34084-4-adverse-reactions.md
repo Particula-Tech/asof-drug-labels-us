@@ -324,6 +324,12 @@ TABLE 16: FREQUENCYa OF IMPORTANT ADVERSE EVENTS IN THE AIDS-RELATED KAPOSI’S 
 | c All patients received premedication. |  |  |  |
 | † Severe events are defined as at least Grade III toxicity. |  |  |  |
 
+As demonstrated in this table, toxicity was more pronounced in the study utilizing paclitaxel at a dose of 135 mg/m2 every 3 weeks than in the study utilizing paclitaxel at a dose of 100 mg/m2 every 2 weeks.
+Notably, severe neutropenia (76% vs 35%), febrile neutropenia (55% vs 9%), and opportunistic infections (76% vs 54%) were more common with the former dose and schedule.
+The differences between the 2 studies with respect to dose escalation and use of hematopoietic growth factors, as described above, should be taken into account.
+(See CLINICAL STUDIES: AIDS-Related Kaposi’s Sarcoma).
+Note also that only 26% of the 85 patients in these studies received concomitant treatment with protease inhibitors, whose effect on paclitaxel metabolism has not yet been studied.
+
 ## Adverse Event Experiences by Body System
 
 The following discussion refers to the overall safety database of 812 patients with solid tumors treated with single-agent paclitaxel in clinical studies.
@@ -481,7 +487,7 @@ These manifestations were usually mild to moderate.
 Mucositis was schedule dependent and occurred more frequently with the 24 hour than with the 3 hour infusion.
 
 In patients with poor-risk AIDS-related Kaposi’s sarcoma, nausea/vomiting, diarrhea, and mucositis were reported by 69%, 79%, and 28% of patients, respectively.
-One-third of patients with Kaposi’s sarcoma complained of diarrhea prior to study start (see CLINICAL STUDIES, AIDS-Related Kaposi’s Sarcoma).
+One-third of 43 patients with Kaposi’s sarcoma complained of diarrhea prior to study start (see CLINICAL STUDIES, AIDS-Related Kaposi’s Sarcoma).
 
 In the first-line Phase 3 ovarian carcinoma studies, the incidence of nausea and vomiting when paclitaxel was administered in combination with cisplatin appeared to be greater compared with the database for single-agent paclitaxel in ovarian and breast carcinoma.
 In addition, diarrhea of any grade was reported more frequently compared to the control arm, but there was no difference for severe diarrhea in these studies.
@@ -510,7 +516,7 @@ Edema was reported in 21% of all patients (17% of those without baseline edema);
 Edema was most commonly focal and disease-related.
 Edema was observed in 5% of all courses for patients with normal baseline and did not increase with time on study.
 
-Skin abnormalities related to radiation recall as well as maculopapular rash, pruritus, Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported.
+Skin abnormalities related to radiation recall as well as reports of maculopapular rash, pruritus, Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported.
 In postmarketing experience, diffuse edema, thickening, and sclerosing of the skin have been reported following paclitaxel administration.
 Paclitaxel has been reported to exacerbate signs and symptoms of scleroderma.
 
