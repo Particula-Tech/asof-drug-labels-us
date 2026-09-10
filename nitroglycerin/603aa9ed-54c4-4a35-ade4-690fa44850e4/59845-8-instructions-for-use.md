@@ -1,4 +1,4 @@
-Patient Instructions for Use
+Patient Instructions forUse
 
 When do I apply the ointment?
 
@@ -22,7 +22,7 @@ What do I do after I have applied the ointment?
 Throw away the finger covering in the garbage, out of the reach of children and pets.
 Wash your hands.
 
-What are the ingredients in RECTIV?
+What are the ingredients inRECTIV?
 
 Active ingredient: nitroglycerin
 

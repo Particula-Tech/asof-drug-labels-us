@@ -1,6 +1,6 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
-## 5.1 Cardiovascular disorders
+## 5.1Cardiovasculardisorders
 
 Venous and arterial dilatation as a consequence of nitroglycerin treatment including RECTIV, can decrease venous blood returning to the heart and reduce arterial vascular resistance and systolic pressure.
 Exercise caution when treating patients with any of the following conditions: blood volume depletion, existing hypotension, cardiomyopathies, congestive heart failure, acute myocardial infarction, or poor cardiac function for other reasons.

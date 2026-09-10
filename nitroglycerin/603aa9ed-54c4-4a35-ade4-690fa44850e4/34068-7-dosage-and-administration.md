@@ -1,4 +1,4 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2DOSAGE AND ADMINISTRATION
 
 Apply 1 inch of ointment (375 mg of ointment equivalent to 1.5 mg of nitroglycerin) intra-anally every 12 hours for up to 3 weeks.
 A finger covering, such as plastic-wrap, disposable surgical glove or a finger cot, should be placed on the finger to apply the ointment.
@@ -12,4 +12,4 @@ If this cannot be achieved due to pain, application of the ointment should be ma
 Treatment may be continued for up to three weeks.
 
 RECTIV ointment is not for oral, ophthalmic, or intravaginal use.
-Hands should be washed after application of the ointment [see Patient Instruction].
+Hands should be washed after application of the ointment [seePatient Instruction].

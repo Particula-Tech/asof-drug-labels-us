@@ -1,8 +1,8 @@
-# 4 CONTRAINDICATIONS
+# 4CONTRAINDICATIONS
 
-## 4.1 PDE5 inhibitor use
+## 4.1PDE5 inhibitor use
 
-Administration of RECTIV is contraindicated in patients who are using a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5), such as sildenafil, vardenafil, and tadalafil, as these are shown to potentiate the hypotensive effects of organic nitrates [see DRUG INTERACTIONS (7.1)].
+Administration of RECTIV is contraindicated in patients who are using a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5), such as sildenafil, vardenafil, and tadalafil, as these are shown to potentiate the hypotensive effects of organic nitrates [seeDRUG INTERACTIONS(7.1)].
 
 ## 4.2 Severe anemia
 

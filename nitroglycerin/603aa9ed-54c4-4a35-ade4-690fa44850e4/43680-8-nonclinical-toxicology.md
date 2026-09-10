@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis
 
@@ -13,13 +13,13 @@ Lifetime dietary administration of up to 1058 mg/kg/day of nitroglycerin was not
 
 Mutagenesis
 
-Nitroglycerin was mutagenic in the in vitro bacterial reverse mutation (Ames) assay with Salmonella typhimurium.
-A similar mutation in this S. typhimurium was also reported with other NO donors.
-There was no evidence of clastogenic potential in multiple assays including a rodent dominant lethal assay, an in vitro Chinese Hamster Ovary assay that was conducted in the absence of metabolic activation, and several in vivo chromosomal aberration assays conducted in rats and dogs.
+Nitroglycerin was mutagenic in the in vitrobacterial reverse mutation (Ames) assay with Salmonella typhimurium.
+A similar mutation in this S. typhimuriumwas also reported with other NO donors.
+There was no evidence of clastogenic potential in multiple assays including a rodent dominant lethal assay, an in vitro Chinese Hamster Ovary assay that was conducted in the absence of metabolic activation, and several in vivochromosomal aberration assays conducted in rats and dogs.
 
 Impairment of Fertility
 
-In a three-generation reproduction study, rats received dietary nitroglycerin at doses up to approximately 434 mg/kg/day for 6 months prior to mating of the F0 generation with treatment continuing through successive F1 and F2 generations.
+In a three-generation reproduction study, rats received dietary nitroglycerin at doses up to approximately 434 mg/kg/day for 6 months prior to mating of the F 0generation with treatment continuing through successive F 1and F 2generations.
 The high dose was associated with decreased feed intake and body weight gain in both sexes at all matings.
-No specific effect on the fertility of the F0 generation was seen.
+No specific effect on the fertility of the F 0generation was seen.
 Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high-dose males.

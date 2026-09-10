@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -29,4 +29,4 @@ Flushing, allergic reactions and application site reactions (including drug rash
 
 Methemoglobinemia
 
-In rare cases, therapeutic doses of organic nitrates have caused methemoglobinemia [see OVERDOSAGE (10)].
+In rare cases, therapeutic doses of organic nitrates have caused methemoglobinemia [seeOVERDOSAGE(10)].

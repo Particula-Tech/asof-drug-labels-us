@@ -1,26 +1,26 @@
 Patient Information
 
-RECTIV® [REC-tiv]
+RECTIV®[REC-tiv]
 
 (Nitroglycerin) Ointment 0.4%
 
-| IMPORTANT: For intra-anal use only |
+| IMPORTANT: Forintra-analuse only |
 | --- |
 
 Read the Patient Information that comes with RECTIV before you start using the product and each time you get a refill because there may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 If you have any questions about RECTIV, ask your healthcare provider.
 
-What is RECTIV?
+What isRECTIV?
 
 RECTIV is a prescription medicine used to treat moderate to severe pain caused by chronic anal fissures.
 An anal fissure is a tear in the skin lining the anal canal.
 
 RECTIV is not suitable for children and adolescents under the age of 18 years because it has not been assessed in people in this age group.
 
-Who should not use RECTIV?
+Who should not useRECTIV?
 
-Do not use RECTIV if you:
+Do not useRECTIVif you:
 
 - are taking a medicine for erectile dysfunction (male impotence), for example Viagra (sildenafil), Cialis (tadalafil) or Levitra (vardenafil).
 - have been told by your doctor that you have severe anemia (low numbers of red blood cells in your blood)
@@ -28,7 +28,7 @@ Do not use RECTIV if you:
 - are allergic to any of the ingredients in RECTIV or if you have had allergic reactions to similar medicines in the past.
   See the end of this leaflet for a list of ingredients in RECTIV.
 
-What should I tell my healthcare provider before using RECTIV?
+What should I tell my healthcare provider before usingRECTIV?
 
 Tell your healthcare provider about all your medical conditions, including if you:
 
@@ -58,22 +58,22 @@ Specifically, tell your doctor if you are taking any of the following:
   If so, close monitoring of your blood will be required as your dose of heparin may need to be altered.
   Please discuss with your doctor before stopping RECTIV.
 
-How should RECTIV be used?
+How shouldRECTIVbe used?
 
-Use RECTIV exactly as prescribed.
+UseRECTIVexactly as prescribed.
 See detailed Patient Instructions for Applying RECTIV at the end of this Patient Information leaflet.
 
 Treatment may be continued for up to 3 weeks.
 If your anal pain does not get better after using RECTIV you should talk to your doctor.
 
-What should I avoid while using RECTIV?
+What should I avoid while usingRECTIV?
 
 Do not drive or operate machinery immediately after applying RECTIV.
 If you feel dizzy or light-headed after applying the ointment do not drive or operate machinery until the dizziness has stopped.
 
 Avoid consuming alcohol while you are being treated with RECTIV as your blood pressure is more likely to be affected if you consume alcoholic beverages.
 
-What are the possible side effects of RECTIV?
+What are the possible side effects ofRECTIV?
 
 RECTIV can cause serious side-effects: Stop using the ointment and seek medical attention immediately if you have an allergic reaction.
 You may have swelling of the face, lips, tongue or throat, or difficulty breathing.
@@ -92,19 +92,19 @@ For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store RECTIV?
+How should I storeRECTIV?
 
 - Store at 20°-25°C (68°-77°F); excursions permitted between 15°-30°C (59°-86°F).
   [See USP Controlled Room Temperature].
 - Keep the tube tightly closed.
 - Use within 8 weeks of first opening.
 
-Keep RECTIV out of the reach of children.
+KeepRECTIVout of the reach of children.
 
 Do not use RECTIV after the expiry date which is stated on the label and carton after ‘EXP.’
 The expiry date refers to the last day of that month.
 
-General information about RECTIV
+General information aboutRECTIV
 
 Medicines are sometimes prescribed for conditions that are not mentioned in Patient Information leaflets.
 Do not use RECTIV for a condition for which it is not prescribed.
