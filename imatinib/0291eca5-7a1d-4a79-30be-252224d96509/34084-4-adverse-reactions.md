@@ -367,7 +367,7 @@ Table 10: Adverse Reactions Regardless of Relationship to Study Drug Reported in
 | Face edema | 2 (16.7) |
 | Rash | 3 (25) |
 | Fatigue | 5 (41.7) |
-| Edema peripheral | 4 (33.3) |
+| Peripheral edema | 4 (33.3) |
 | Pyrexia | 2 (16.7) |
 | Eye edema | 4 (33.3) |
 | Lacrimation increased | 3 (25) |
@@ -750,7 +750,7 @@ Gastrointestinal Disorders: ileus/intestinal obstruction, tumor hemorrhage/tumor
 
 Infections: hepatitis B virus reactivation1
 
-Musculoskeletal and Connective Tissue Disorders: osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthalgia, bone pain), bone marrow edema.
+Musculoskeletal and Connective Tissue Disorders: osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthralgia, bone pain), bone marrow edema.
 
 Nervous System Disorders: cerebral edema1
 

@@ -253,10 +253,10 @@ The median follow-up time for EFS at data cutoff in cohort 5 was 40.5 months.
 
 An open-label, multicenter, Phase 2 clinical trial was conducted testing imatinib mesylate in diverse populations of patients suffering from life-threatening diseases associated with Abl, Kit or PDGFR protein tyrosine kinases.
 This study included 7 patients with MDS/MPD.
-These patients were treated with imatinib mesylate 400 mg daily (imatinib as free base).
+These patients were treated with imatinib mesylate 400 mg daily.
 The ages of the enrolled patients ranged from 20 to 86 years.
 A further 24 patients with MDS/MPD aged 2 to 79 years were reported in 12 published case reports and a clinical study.
-These patients also received imatinib mesylate at a dose of 400 mg (imatinib as free base) daily with the exception of three patients who received lower doses.
+These patients also received imatinib mesylate at a dose of 400 mg daily with the exception of three patients who received lower doses.
 Of the total population of 31 patients treated for MDS/MPD, 14 (45%) achieved a complete hematological response and 12 (39%) a major cytogenetic response (including 10 with a CCyR).
 Sixteen patients had a translocation, involving chromosome 5q33 or 4q12, resulting in a PDGFR gene re-arrangement.
 All of these patients responded hematologically (13 completely).
@@ -281,9 +281,9 @@ Table 22: Response in MDS/MPD
 ## 14.6 Aggressive Systemic Mastocytosis
 
 One open-label, multicenter, Phase 2 study was conducted testing imatinib mesylate in diverse populations of patients with life-threatening diseases associated with Abl, Kit or PDGFR protein tyrosine kinases.
-This study included 5 patients with ASM treated with 100 mg to 400 mg of imatinib mesylate (imatinib as free base) daily.
+This study included 5 patients with ASM treated with 100 mg to 400 mg of imatinib mesylate daily.
 These 5 patients ranged from 49 to 74 years of age.
-In addition to these 5 patients, 10 published case reports and case series describe the use of imatinib mesylate in 23 additional patients with ASM aged 26 to 85 years who also received 100 mg to 400 mg of imatinib mesylate (imatinib as free base) daily.
+In addition to these 5 patients, 10 published case reports and case series describe the use of imatinib mesylate in 23 additional patients with ASM aged 26 to 85 years who also received 100 mg to 400 mg of imatinib mesylate daily.
 
 Cytogenetic abnormalities were evaluated in 20 of the 28 ASM patients treated with imatinib mesylate from the published reports and in the Phase 2 study.
 Seven of these 20 patients had the FIP1L1-PDGFRα fusion kinase (or CHIC2 deletion).
@@ -317,7 +317,7 @@ This study included 14 patients with Hypereosinophilic Syndrome/Chronic Eosinoph
 HES patients were treated with 100 mg to 1000 mg of imatinib mesylate daily.
 The ages of these patients ranged from 16 to 64 years.
 A further 162 patients with HES/CEL aged 11 to 78 years were reported in 35 published case reports and case series.
-These patients received imatinib mesylate at doses of 75 mg to 800 mg (imatinib as free base) daily.
+These patients received imatinib mesylate at doses of 75 mg to 800 mg daily.
 Hematologic response rates are summarized in Table 24.
 Response durations for literature patients ranged from 6+ weeks to 44 months.
 
@@ -338,11 +338,11 @@ Dermatofibrosarcoma Protuberans (DFSP) is a cutaneous soft tissue sarcoma.
 It is characterized by a translocation of chromosomes 17 and 22 that results in the fusion of the collagen type 1 alpha 1 gene and the PDGF B gene.
 
 An open-label, multicenter, Phase 2 study was conducted testing imatinib mesylate in a diverse population of patients with life-threatening diseases associated with Abl, Kit or PDGFR protein tyrosine kinases.
-This study included 12 patients with DFSP who were treated with imatinib mesylate 800 mg daily (imatinib as free base) (age range, 23 to 75 years).
+This study included 12 patients with DFSP who were treated with imatinib mesylate 800 mg daily (age range, 23 to 75 years).
 DFSP was metastatic, locally recurrent following initial surgical resection and not considered amenable to further surgery at the time of study entry.
 A further 6 DFSP patients treated with imatinib mesylate are reported in 5 published case reports, their ages ranging from 18 months to 49 years.
 The total population treated for DFSP therefore comprises 18 patients, 8 of them with metastatic disease.
-The adult patients reported in the published literature were treated with either 400 mg (4 cases) or 800 mg (1 case) imatinib mesylate (imatinib as free base) daily.
+The adult patients reported in the published literature were treated with either 400 mg (4 cases) or 800 mg (1 case) imatinib mesylate daily.
 A single pediatric patient received 400 mg/m2/daily, subsequently increased to 520 mg/m2/daily.
 Ten patients had the PDGF B gene rearrangement, 5 had no available cytogenetics and 3 had complex cytogenetic abnormalities.
 Responses to treatment are described in Table 25.
@@ -408,7 +408,7 @@ The median time to response was 12 weeks (range was 3 to 98 weeks) and the estim
 Adjuvant Treatment of GIST
 
 In the adjuvant setting, imatinib mesylate was investigated in a multicenter, double-blind, placebo-controlled, randomized trial involving 713 patients (Study 1).
-Patients were randomized one to one to imatinib mesylate (imatinib as free base) at 400 mg/day or matching placebo for 12 months.
+Patients were randomized one to one to imatinib mesylate at 400 mg/day or matching placebo for 12 months.
 The ages of these patients ranged from 18 to 91 years.
 Patients were included who had a histologic diagnosis of primary GIST, expressing KIT protein by immunochemistry and a tumor size greater than or equal to 3 cm in maximum dimension with complete gross resection of primary GIST within 14 to 70 days prior to registration.
 
@@ -423,7 +423,7 @@ There were 26 (7%) and 33 (9%) deaths in the 12-month imatinib mesylate and plac
 
 Figure 3: Study 1 Recurrence-Free Survival (ITT Population)
 
-A second randomized, multicenter, open-label, Phase 3 trial in the adjuvant setting (Study 2) compared 12 months of imatinib mesylate treatment to 36 months of imatinib mesylate (imatinib as free base) treatment at 400 mg/day in adult patients with KIT (CD117) positive GIST after surgical resection with one of the following: tumor diameter greater than 5 cm and mitotic count greater than 5/50 high power fields (HPF), or tumor diameter greater than 10 cm and any mitotic count, or tumor of any size with mitotic count greater than 10/50 HPF, or tumors ruptured into the peritoneal cavity.
+A second randomized, multicenter, open-label, Phase 3 trial in the adjuvant setting (Study 2) compared 12 months of imatinib mesylate treatment to 36 months of imatinib mesylate treatment at 400 mg/day in adult patients with KIT (CD117) positive GIST after surgical resection with one of the following: tumor diameter greater than 5 cm and mitotic count greater than 5/50 high power fields (HPF), or tumor diameter greater than 10 cm and any mitotic count, or tumor of any size with mitotic count greater than 10/50 HPF, or tumors ruptured into the peritoneal cavity.
 There were a total of 397 patients randomized in the trial with 199 patients on the 12-month treatment arm and 198 patients on the 36-month treatment arm.
 The median age was 61 years (range, 22 to 84 years).
 

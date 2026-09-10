@@ -21,5 +21,5 @@ Use caution when administering imatinib mesylate with CYP2D6 substrates that hav
 
 ## 7.5 Interactions With Methotrexate
 
-Imatinib mesylate tablets delay the clearance of methotrexate and result in sustained methotrexate concentrations when methotrexate is used at high doses (>500 mg/m2).
+Imatinib mesylate tablets may delay the clearance of methotrexate and result in sustained methotrexate concentrations when methotrexate is used at high doses (>500 mg/m2).
 Refer to the prescribing information for methotrexate injection for recommendations on management of methotrexate concentrations.
