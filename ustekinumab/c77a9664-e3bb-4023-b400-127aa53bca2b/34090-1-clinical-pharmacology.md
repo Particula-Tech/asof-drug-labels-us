@@ -75,6 +75,9 @@ Overall, the observed steady-state ustekinumab trough concentrations in pediatri
 The pharmacokinetics of ustekinumab were studied in pediatric subjects with Crohn's disease aged 2 to 17 years and weighing 13 to 88 kg.
 There are no clinically significant differences in serum ustekinumab exposure expected between adult patients and pediatric patients with Crohn's disease who receive the recommended dosage [see Dosage and Administration (2.4)].
 
+The pharmacokinetics of ustekinumab were studied in pediatric subjects with ulcerative colitis aged 3 to 17 years and weighing 14 to 80 kg.
+There are no clinically significant differences in serum ustekinumab exposures expected between adult patients and pediatric patients aged 2 years and older with ulcerative colitis disease who receive the recommended dosage [see Dosage and Administration (2.6)].
+
 Drug Interaction Studies
 
 The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4).
@@ -88,11 +91,11 @@ In subjects with Crohn's disease and ulcerative colitis, population pharmacokine
 ## 12.6 Immunogenicity
 
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
-Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of STELARA or of other ustekinumab products.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of ustekinumab or other ustekinumab products.
 
 Approximately 6 to 12.4% of subjects treated with STELARA in clinical trials in subjects with plaque psoriasis and psoriatic arthritis developed antibodies to ustekinumab, which were generally low-titer.
 In clinical trials in subjects with plaque psoriasis, antibodies to ustekinumab were associated with reduced or undetectable serum ustekinumab concentrations and reduced efficacy.
 In trials in subjects with plaque psoriasis, the majority of subjects who were positive for antibodies to ustekinumab had neutralizing antibodies.
 
-In clinical trials in subjects with Crohn’s disease and ulcerative colitis, 2.9% and 4.6% of subjects, respectively, developed antibodies to ustekinumab when treated with STELARA for approximately one year.
+In clinical trials in adult subjects with Crohn's disease and ulcerative colitis, 2.9% and 4.6% of subjects, respectively, developed antibodies to ustekinumab when treated with STELARA for approximately one year.
 No apparent association between the development of antibodies to ustekinumab and the development of injection site reactions was seen.

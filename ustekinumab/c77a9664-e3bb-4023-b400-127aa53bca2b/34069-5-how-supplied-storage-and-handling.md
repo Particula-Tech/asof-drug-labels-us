@@ -24,7 +24,7 @@ Single-dose Vial
 
 Storage and Stability
 
-Store STELARA vials and prefilled syringes refrigerated between 2 °C to 8 °C (36 °F to 46 °F).
+Store STELARA vials and prefilled syringes refrigerated between 2 ºC to 8 ºC (36 ºF to 46 ºF).
 Store STELARA vials upright.
 Keep the product in the original carton to protect from light until the time of use.
 Do not freeze.

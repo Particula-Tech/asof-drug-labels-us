@@ -16,9 +16,9 @@ Adult Subjects with Plaque Psoriasis
 
 The safety data reflect exposure to STELARA in 3117 adult subjects with plaque psoriasis, including 2414 exposed for at least 6 months, 1855 exposed for at least one year, 1653 exposed for at least two years, 1569 exposed for at least three years, 1482 exposed for at least four years and 838 exposed for at least five years.
 
-Table 8 summarizes the adverse reactions that occurred at a rate of at least 1% with higher rates in the STELARA groups during the placebo-controlled period of Ps STUDY 1 and Ps STUDY 2 [see Clinical Studies (14.1)].
+Table 9 summarizes the adverse reactions that occurred at a rate of at least 1% with higher rates in the STELARA groups during the placebo-controlled period of Ps STUDY 1 and Ps STUDY 2 [see Clinical Studies (14.1)].
 
-Table 8: Adverse Reactions, Reported by ≥1% of Subjects with Plaque Psoriasis and at Higher Rates in the STELARA Groups through Week 12 in Ps STUDY 1 and Ps STUDY 2
+Table 9: Adverse Reactions, Reported by ≥1% of Subjects with Plaque Psoriasis and at Higher Rates in the STELARA Groups through Week 12 in Ps STUDY 1 and Ps STUDY 2
 
 |  | Placebo | 45 mg | 90 mg |
 | --- | --- | --- | --- |
@@ -77,22 +77,22 @@ Subjects who were responders in either trial CD-1 or CD-2 were randomized to rec
 Subjects in these 3 trials may have received other concomitant therapies including aminosalicylates, immunomodulatory agents [azathioprine (AZA), 6-mercaptopurine (6-MP), methotrexate (MTX)], oral corticosteroids (prednisone or budesonide), and/or antibiotics for their Crohn's disease [see Clinical Studies (14.4)].
 
 The overall safety profile of STELARA was consistent with the safety profile seen in the clinical trials in adult subjects with plaque psoriasis and psoriatic arthritis.
-Common adverse reactions in trials CD-1 and CD-2 and in trial CD-3 are listed in Tables 9 and 10, respectively.
+Common adverse reactions in trials CD-1 and CD-2 and in trial CD-3 are listed in Tables 10 and 11, respectively.
 
-Table 9: Common Adverse Reactions Through Week 8 in Trials CD-1 and CD-2 occurring in ≥3% of STELARA-Treated Subjects and Higher Than Subjects Receiving Placebo
+Table 10: Common Adverse Reactions Through Week 8 in Trials CD-1 and CD-2 occurring in ≥3% of STELARA-Treated Subjects and Higher Than Subjects Receiving Placebo
 
-|  | N=466 | N=470 |
+|  | Placebo N=466 | 6 mg/kg Single Intravenous Induction Dose N=470 |
 | --- | --- | --- |
-|  | Placebo | STELARA 6 mg/kg Single Intravenous Induction Dose |
+|  |  | STELARA |
 | Vomiting | 3% | 4% |
 
 Other less common adverse reactions reported in subjects in trials CD-1 and CD-2 included asthenia (1% vs 0.4%), acne (1% vs 0.4%), and pruritus (2% vs 0.4%).
 
-Table 10: Common Adverse Reactions Through Week 44 in Trial CD-3 occurring in ≥3% of STELARA-Treated Subjects and Higher Than Subjects Receiving Placebo
+Table 11: Common Adverse Reactions Through Week 44 in Trial CD-3 occurring in ≥3% of STELARA-Treated Subjects and Higher Than Subjects Receiving Placebo
 
-|  | N=133 | N=131 |
+|  | Placebo N=133 | 90 mg Subcutaneous Maintenance Dose Every 8 Weeks N=131 |
 | --- | --- | --- |
-|  | Placebo | STELARA 90 mg Subcutaneous Maintenance Dose Every 8 Weeks |
+|  |  | STELARA |
 | Nasopharyngitis | 8% | 11% |
 | Injection site erythema | 0 | 5% |
 | Vulvovaginal candidiasis/mycotic infection | 1% | 5% |
@@ -109,7 +109,7 @@ In addition, listeria meningitis and ophthalmic herpes zoster were reported in o
 Malignancies
 
 With up to one year of treatment in the Crohn's disease clinical trials, 0.2% of STELARA-treated subjects (0.36 events per hundred patient-years) and 0.2% of placebo-treated subjects (0.58 events per hundred patient-years) developed non-melanoma skin cancer.
-Malignancies other than non-melanoma skin cancers occurred in 0.2% of STELARA-treated subjects (0.27 events per hundred patient-years) and in none of the placebo-treated subjects.
+Malignancies other than non-melanoma skin cancers occurred in 0.2% of STELARA-treated subjects (0.27 events per hundred patient-years) and in none of the placebo-treated subjects [see Warnings and Precautions (5.4)].
 
 Hypersensitivity Reactions Including Anaphylaxis
 
@@ -118,7 +118,7 @@ One subject experienced signs and symptoms consistent with anaphylaxis (tightnes
 In addition, one subject experienced signs and symptoms consistent with or related to a hypersensitivity reaction (chest discomfort, flushing, urticaria, and increased body temperature) after the initial intravenous STELARA dose (0.08% of subjects receiving intravenous STELARA).
 These subjects were treated with oral antihistamines or corticosteroids and in both cases symptoms resolved within an hour [see Warnings and Precautions (5.5)].
 
-Pediatric Subjects 2 Years of Age and Older with Crohn's Disease
+Pediatric Subjects with Crohn's Disease
 
 The safety of STELARA has been studied in 101 pediatric subjects (2 to 17 years of age) with moderately to severely active Crohn's disease and 48 subjects received the recommended maintenance dosage [see Clinical Studies (14.5)].
 In general, adverse reactions reported in the clinical trial of pediatric subjects with Crohn's disease were similar to those reported in adult subjects with Crohn's disease in Studies CD-1, CD-2, and CD-3 [see Clinical Studies (14.4)].
@@ -126,7 +126,7 @@ Other adverse reactions reported in at least 10% of pediatric subjects were uppe
 
 One pediatric subject discontinued treatment with STELARA after developing anaphylactic shock within the first two minutes of initiation of the first intravenous infusion and was stabilized with medical intervention [see Warnings and Precautions (5.5)].
 
-Ulcerative Colitis
+Adult Subjects with Ulcerative Colitis
 
 The safety of STELARA was evaluated in two randomized, double-blind, placebo-controlled clinical trials (UC-1 [IV induction] and UC-2 [SC maintenance]) in 960 adult subjects with moderately to severely active ulcerative colitis [see Clinical Studies (14.6)].
 The overall safety profile of STELARA in subjects with ulcerative colitis was consistent with the safety profile seen across all approved indications.
@@ -143,7 +143,13 @@ In addition, listeriosis and ophthalmic herpes zoster were reported in one subje
 Malignancies
 
 With up to one year of treatment in the ulcerative colitis clinical trials, 0.4% of STELARA-treated subjects (0.48 events per hundred patient-years) and 0.0% of subjects receiving placebo (0.00 events per hundred patient-years) developed non-melanoma skin cancer.
-Malignancies other than non-melanoma skin cancers occurred in 0.5% of STELARA-treated subjects (0.64 events per hundred patient-years) and 0.2% of subjects receiving placebo (0.40 events per hundred patient-years).
+Malignancies other than non-melanoma skin cancers occurred in 0.5% of STELARA-treated subjects (0.64 events per hundred patient-years) and 0.2% of subjects receiving placebo (0.40 events per hundred patient-years) [see Warnings and Precautions (5.4)].
+
+Pediatric Subjects with Ulcerative Colitis
+
+The safety of STELARA was assessed in 112 pediatric subjects (3 to 17 years of age) with moderately to severely active ulcerative colitis and 54 subjects received the recommended maintenance dosage [see Clinical Studies (14.7)].
+In general, adverse reactions reported in the clinical trial of pediatric subjects with ulcerative colitis were similar to those reported in adult subjects with ulcerative colitis in Studies UC-1 and UC-2 [see Clinical Studies (14.6)].
+One pediatric subject experienced worsening of preexisting peripheral neuropathy during treatment with STELARA, resulting in hospitalization.
 
 ## 6.2 Postmarketing Experience
 
