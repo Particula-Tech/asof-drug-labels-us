@@ -8,14 +8,15 @@ The following serious adverse reactions are discussed in more detail in other se
 - Metabolic Acidosis [see Warnings and Precautions (5.4)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
 - Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
-- Decrease in Bone Mineral Density [see Warnings and Precautions (5.9)]
-- Negative Effects on Growth (Height and Weight) [see Warnings and Precautions (5.10)]
-- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan • Hypersensitivity Reactions [seeWarnings and Precautions (5.11)]
-- Serious Skin Reactions [see Warnings and Precautions (5.12)]
-- Anaphylaxis and Angioedema [see Warnings and Precautions (5.13)]
-- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use [see Warnings and Precautions (5.14)]
-- Kidney Stones [see Warnings and Precautions (5.15)]
-- Hypothermia with Concomitant Valproic Acid Use [see Warnings and Precautions (5.16)]
+- Cardiac Rhythm and Conduction Abnormalities [see Warnings and Precautions (5.7)]
+- Decrease in Bone Mineral Density [see Warnings and Precautions (5.10)]
+- Negative Effects on Growth (Height and Weight) [see Warnings and Precautions (5.11)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan • Hypersensitivity Reactions [seeWarnings and Precautions (5.12)]
+- Serious Skin Reactions [see Warnings and Precautions (5.13)]
+- Anaphylaxis and Angioedema [see Warnings and Precautions (5.14)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use [see Warnings and Precautions (5.15)]
+- Kidney Stones [see Warnings and Precautions (5.16)]
+- Hypothermia with Concomitant Valproic Acid Use [see Warnings and Precautions (5.17)]
 
 The data described in section 6.1 were obtained using immediate-release topiramate tablets.
 
@@ -431,13 +432,13 @@ In the controlled clinical study using QUDEXY XR, 8.9% of patients who received 
 The following adverse reactions have been identified during post-approval use of immediate-release topiramate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole–General Disorders: immediate hypersensitivity reactions (including anaphylaxis and angioedema [see Warnings and Precautions (5.13)], delayed hypersensitivity reactions (including facial swelling, lip swelling, periorbital swelling, tongue swelling), oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.14)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.16)]
+Body as a Whole–General Disorders: immediate hypersensitivity reactions (including anaphylaxis and angioedema [see Warnings and Precautions (5.14)], delayed hypersensitivity reactions (including facial swelling, lip swelling, periorbital swelling, tongue swelling), oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.15)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.17)]
 
 Gastrointestinal System Disorders: hepatic failure (including fatalities), hepatitis, pancreatitis
 
-Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.12)], pemphigus
+Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.13)], pemphigus
 
-Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.13)]
+Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.14)]
 
 Vision Disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
 

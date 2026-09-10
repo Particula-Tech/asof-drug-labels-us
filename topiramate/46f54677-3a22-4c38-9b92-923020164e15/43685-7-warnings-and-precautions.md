@@ -42,8 +42,8 @@ The incidence of decreased serum bicarbonate in pediatric trials, for adjunctive
 The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and ≥5 mEq/L decrease from pretreatment) in these trials was up to 11%, compared to ≤ 2% for placebo.
 
 Manifestations of acute or chronic metabolic acidosis may include hyperventilation, nonspecific symptoms such as fatigue and anorexia, or more severe sequelae including cardiac arrhythmias or stupor.
-Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures [see Warnings and Precautions (5.9, 5.13)].
-A one-year, active-controlled study of pediatric patients treated with immediate-release topiramate demonstrated that topiramate decreased lumbar spine bone mineral density and that this lumbar spine bone mineral density decrease was correlated (using change from baseline for lumbar spine Z score at final visit versus lowest post-treatment serum bicarbonate) with decreased serum bicarbonate, a reflection of metabolic acidosis [see Warnings and Precautions (5.9), Use in Specific Populations (8.4)].
+Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures [see Warnings and Precautions (5.10, 5.14)].
+A one-year, active-controlled study of pediatric patients treated with immediate-release topiramate demonstrated that topiramate decreased lumbar spine bone mineral density and that this lumbar spine bone mineral density decrease was correlated (using change from baseline for lumbar spine Z score at final visit versus lowest post-treatment serum bicarbonate) with decreased serum bicarbonate, a reflection of metabolic acidosis [see Warnings and Precautions (5.10), Use in Specific Populations (8.4)].
 Chronic metabolic acidosis in pediatric patients may also reduce growth rates, which may decrease the maximal height achieved.
 Long-term, open-label treatment of pediatric patients 1 to 24 months old with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal 1 to 24-months old patients.
 Reductions in length and weight were correlated to the degree of acidosis [see Use in Specific Populations (8.4)].
@@ -135,7 +135,13 @@ Cognitive adverse reactions most commonly developed during the titration period 
 The Cambridge Neuropsychological Test Automated Battery (CANTAB) was administered to adolescents (12 to 17 years of age) to assess the effects of topiramate on cognitive function at baseline and at the end of the Study 13 [see Clinical Studies (14.5)].
 Mean change from baseline in certain CANTAB tests suggests that topiramate treatment may result in psychomotor slowing and decreased verbal fluency.
 
-## 5.7 Fetal Toxicity
+## 5.7 Cardiac Rhythm and Conduction Abnormalities
+
+In vitro findings for topiramate products indicate that QUDEXY XR can cause serious and potentially life-threatening cardiac rhythm and conduction abnormalities, particularly in patients with underlying cardiac disorders or arrhythmias.
+For any patient with clinically important weighed against the risk.
+If excessive depression of cardiac conduction or significant arrhythmias occur during treatment, discontinue QUDEXY XR.structural or functional heart disease, the expected benefit of treatment must be carefully
+
+## 5.8 Fetal Toxicity
 
 QUDEXY XR can cause fetal harm when administered to a pregnant woman.
 Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk of major congenital malformation, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA).
@@ -145,12 +151,12 @@ Consider the benefits and risks of QUDEXY XR when administering this drug in wom
 QUDEXY XR should be used during pregnancy only if the potential benefit outweighs the potential risk.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be informed of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
 
-## 5.8 Withdrawal of Antiepileptic Drugs
+## 5.9 Withdrawal of Antiepileptic Drugs
 
 In patients with or without a history of seizures or epilepsy, antiepileptic drugs, including QUDEXY XR, should be gradually withdrawn to minimize the potential for seizures or increased seizure frequency [see Clinical Studies (14)].
 In situations where rapid withdrawal of QUDEXY XR is medically required, appropriate monitoring is recommended.
 
-## 5.9 Decrease in Bone Mineral Density
+## 5.10 Decrease in Bone Mineral Density
 
 Results of a one-year active-controlled study in pediatric patients (N=63) demonstrated negative effects of immediate-release topiramate monotherapy on bone mineral acquisition via statistically significant decreases in bone mineral density (BMD) measured in lumbar spine and in total body less head [see Use in Specific Populations (8.4)].
 Twenty-one percent of immediate-release topiramate-treated patients experienced clinically important reductions in BMD (Z score change from baseline of -0.5 or greater) compared to 0 patients in the control group.
@@ -159,7 +165,7 @@ The sample size and study duration were too small to determine if fracture risk 
 Decreased BMD in the lumbar spine was correlated with decreased serum bicarbonate, which commonly occurs with topiramate treatment and reflects metabolic acidosis, a known cause of increased bone resorption [see Warnings and Precautions (5.4)].
 Although small decreases in some markers of bone metabolism (e.g., serum alkaline phosphatase, calcium, phosphorus, and 1,25-dihydroxyvitamin D) occurred in immediate-release topiramate-treated patients, more significant decreases in serum parathyroid hormone and 25-hydroxyvitamin D, hormones involved in bone metabolism, were observed, along with an increased excretion of urinary calcium.
 
-## 5.10 Negative Effects on Growth (Height and Weight)
+## 5.11 Negative Effects on Growth (Height and Weight)
 
 Results of a one-year active-controlled study of pediatric patients (N=63) demonstrated negative effects of immediate-release topiramate monotherapy on growth (i.e., height and weight) [see Use in Specific Populations (8.4)].
 Although continued growth was observed in both treatment groups, the immediate-release topiramate group showed statistically significant reductions in mean annual change from baseline in body weight compared to the control group.
@@ -167,7 +173,7 @@ A similar trend of attenuation in height velocity and height change from baselin
 Negative effects on weight and height were seen across all topiramate age subgroups.
 Growth (height and weight) of children receiving prolonged QUDEXY XR therapy should be carefully monitored.
 
-## 5.11 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions
+## 5.12 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multiorgan hypersensitivity, has been reported in patients taking topiramate.
 DRESS may be fatal or life-threatening.
@@ -178,19 +184,19 @@ It is important to note that early manifestations of hypersensitivity, such as f
 If such signs or symptoms are present, the patient should be evaluated immediately.
 QUDEXY XR should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
 
-## 5.12 Serious Skin Reactions
+## 5.13 Serious Skin Reactions
 
 Serious skin reactions (Stevens-Johnson Syndrome [SJS] and Toxic Epidermal Necrolysis [TEN]) have been reported in patients receiving topiramate.
 QUDEXY XR should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed, and alternative therapy should be considered.
 Inform patients about the signs of serious skin reactions.
 
-## 5.13 Anaphylaxis and Angioedema
+## 5.14 Anaphylaxis and Angioedema
 
 Hypersensitivity reactions, including anaphylaxis and angioedema, have occurred in patients treated with topiramate in the postmarketing setting.
 If a hypersensitivity reaction occurs, discontinue QUDEXY XR and initiate appropriate therapy [see Contraindications (4)].
 
-## 5.14 Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use)
+## 5.15 Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use)
 
 Topiramate treatment can cause hyperammonemia with or without encephalopathy [see Adverse Reactions (6.2)].
 The risk for hyperammonemia with topiramate appears dose-related.
@@ -214,7 +220,7 @@ Although not studied, topiramate treatment or an interaction of concomitant topi
 
 In patients who develop unexplained lethargy, vomiting or changes in mental status associated with any topiramate treatment, hyperammonemic encephalopathy should be considered and an ammonia level should be measured.
 
-## 5.15 Kidney Stones
+## 5.16 Kidney Stones
 
 Topiramate increases the risk of kidney stones.
 During adjunctive epilepsy trials, the risk for kidney stones in immediate-release topiramate-treated adults was 1.5%, an incidence about 2 to 4 times greater than expected in a similar, untreated population.
@@ -233,7 +239,7 @@ Hydration is recommended to reduce new stone formation.
 An increase in urinary calcium and a marked decrease in urinary citrate was observed in immediate-release topiramate-treated pediatric patients in one-year active-controlled study [see Use in Specific Populations (8.4)].
 This increased ratio of urinary calcium/citrate increases the risk of kidney stones and/or nephrocalcinosis.
 
-## 5.16 Hypothermia with Concomitant Valproic Acid Use
+## 5.17 Hypothermia with Concomitant Valproic Acid Use
 
 Hypothermia, defined as a drop-in body core temperature to <35°C (95°F), has been reported in association with topiramate use with concomitant valproic acid both in conjunction with hyperammonemia and in the absence of hyperammonemia.
 This adverse reaction in patients using concomitant topiramate and valproate can occur after starting topiramate treatment or after increasing the daily dose of topiramate [see Drug Interactions (7.1)].
