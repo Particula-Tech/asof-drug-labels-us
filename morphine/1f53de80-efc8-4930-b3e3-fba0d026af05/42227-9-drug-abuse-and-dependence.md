@@ -47,11 +47,10 @@ Tolerance is a physiological state characterized by a reduced response to a drug
 
 Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 
-Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
-Morphine Sulfate Injection should not be abruptly discontinued in a physically-dependent patient [see Dosage and Administration (2.4)].
+Morphine Sulfate Injection should not be rapidly reduced or abruptly discontinued in a physically-dependent patient [see Dosage and Administration (2.4)].
 If Morphine Sulfate Injection is abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur, typically characterized by restlessness, lacrimation, rhinorrhea, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
-
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].

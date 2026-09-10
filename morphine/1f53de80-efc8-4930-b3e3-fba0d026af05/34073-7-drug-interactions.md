@@ -7,8 +7,8 @@ Table 1: Clinically Significant Drug Interactions with Morphine Sulfate Injectio
 | Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
 | --- | --- |
 | Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death [see Warnings and Precautions (5.3)]. |
-| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Monitor patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.3)]. |
-| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Monitor closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.3)]. |
+| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids (gabapentin or pregabalin), other opioids, alcohol. |
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue Morphine Sulfate Injection if serotonin syndrome is suspected. |
@@ -24,6 +24,7 @@ Table 1: Clinically Significant Drug Interactions with Morphine Sulfate Injectio
 | Muscle Relaxants |  |
 | Clinical Impact: | Morphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
 | Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Morphine Sulfate Injection and/or the muscle relaxant as necessary. |
+| Examples: | cyclobenzaprine, metaxalone |
 | Cimetidine |  |
 | Clinical Impact: | The concomitant administration of morphine sulfate and cimetidine has been reported to precipitate apnea, confusion, and muscle twitching in an isolated report. |
 | Intervention: | Monitor patients for increased respiratory and CNS depression when receiving cimetidine concomitantly with Morphine Sulfate Injection. |

@@ -30,7 +30,7 @@ Administer the injection slowly.
 
 Intramuscular Injection
 
-The initial IM dose is 10 mg every 4 hours (based on a 70 kg adult) as needed to manage pain, and at the lowest dose necessary to achieve adequate analgesia.
+The initial intramuscular dose is 10 mg every 4 hours (based on a 70 kg adult) as needed to manage pain, and at the lowest dose necessary to achieve adequate analgesia.
 
 ## 2.3 Titration and Maintenance of Therapy
 
@@ -44,6 +44,7 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 ## 2.4 Safe Reduction or Discontinuation of Morphine Sulfate Injection
 
-When a patient who has been taking Morphine Sulfate Injection regularly and may be physically dependent or no longer requires therapy with Morphine Sulfate Injection, taper the dose gradually, by 25% to 50% every 2 to 4 days, while regularly evaluating for signs and symptoms of withdrawal.
+When a patient who has been taking Morphine Sulfate Injection regularly and may be physically dependent no longer requires therapy with Morphine Sulfate Injection, taper the dose gradually, by 25% to 50% every 2 to 4 days, while regularly evaluating for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue Morphine Sulfate Injection in a physically-dependent patient [see Warnings and Precautions (5.14), Drug Abuse and Dependence (9.3)].
+Do not rapidly reduce or abruptly discontinue Morphine Sulfate Injection in patients who may be physically dependent on opioids.
+[see Warnings and Precautions (5.14), Drug Abuse and Dependence (9.3)].

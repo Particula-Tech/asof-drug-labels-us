@@ -18,25 +18,25 @@ Do not use if the outer packaging has been damaged.
 
 1. 2.Hold the outer packaging with both hands.
    To break the tamper evident seal, hold the tube and the cap close to the seal, and twist until broken.
-   (See Figure 2).
+   (See Figure 2)
 2. Figure 2
-3. 
-4. 3.Remove the cap of the outer packaging by pulling it straight away from the tube to avoid dislodging the plunger rod of the syringe.
-   (See Figure 3).
-5. Figure 3
-6. 
-7. 4.Remove the syringe from the tube.
-8. 5.Visually inspect the syringe.
+
+1. 3.Remove the cap of the outer packaging by pulling it straight away from the tube to avoid dislodging the plunger rod of the syringe.
+   (See Figure 3)
+2. Figure 3
+
+1. 4.Remove the syringe from the tube.
+2. 5.Visually inspect the syringe.
    Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-9. 6.Twist off the syringe tip cap.
+3. 6.Twist off the syringe tip cap.
    Do not remove the plastic wrap label around the luer lock collar.
    (See Figure 4)
-10. Figure 4
-11. 
-12. 7.Expel air bubble(s).
-    Adjust the dose (if applicable).
-13. 8.Administer the dose ensuring that pressure is maintained on the plunger rod during the entire administration.
-14. 9.Discard the used syringe into an appropriate receptacle.
+4. Figure 4
+
+1. 7.Expel air bubble(s).
+   Adjust the dose (if applicable).
+2. 8.Administer the dose ensuring that pressure is maintained on the plunger rod during the entire administration.
+3. 9.Discard the used syringe into an appropriate receptacle.
 
 For more information concerning this drug, please call Fresenius Kabi USA, LLC at 1-800-551-7176.
 
@@ -44,10 +44,10 @@ To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-
 
 The brand names mentioned in this document are the trademarks of their respective owners.
 
-U.S. Patents 9,072,781; 9,192,608; 9,731,082; and 10,064,998
+U.S. Patents 9072781, 9192608, 10213424, 9731082, 10661018, 11426522, 10064998, 10792431, 10814059, and 11400206
 
 Lake Zurich, IL 60047
 
 www.fresenius-kabi.com/us
 
-451652A
+451652B
