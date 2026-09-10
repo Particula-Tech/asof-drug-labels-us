@@ -12,9 +12,11 @@ Urinary retention has been reported postmarketing with levocetirizine dihydrochl
 Levocetirizine dihydrochloride should be used with caution in patients with predisposing factors of urinary retention (e.g. spinal cord lesion, prostatic hyperplasia) as levocetirizine dihydrochloride may increase the risk of urinary retention.
 Discontinue levocetirizine dihydrochloride if urinary retention occurs.
 
-### 5.3 Risk of New Onset Pruritus After Discontinuation of Levocetirizine Dihydrochloride Tablets
+## 5.3 Risk of New Onset Pruritus After Discontinuation of Levocetirizine Dihydrochloride Tablets
 
-Cases of pruritus after discontinuation of levocetirizine dihydrochloride tablets have been reported in the postmarketing setting in patients where pruritus was not present before initiation of levocetirizine dihydrochloride tablets.
+Cases of pruritus after discontinuation of levocetirizine dihydrochloride tablets have been reported in the postmarketing setting in patients where pruritus was not present before initiation of Levocetirizine dihydrochloride tablets.
 Pruritus occurred within a few days of discontinuing levocetirizine dihydrochloride tablets among patients who used levocetirizine dihydrochloride tablets long-term (e.g., few months to years).
 Reported cases of pruritus were infrequent, but some were serious with patients experiencing widespread severe pruritus [see Adverse Reactions (6.2)].
-If pruritus occurs after discontinuation of levocetirizine dihydrochloride tablets, symptoms may improve with restarting or tapering levocetirizine dihydrochloride tablets.
+If pruritus occurs after discontinuation of levocetirizine dihydrochloride tablets, symptoms may improve with restarting or tapering levocetirizine
+
+dihydrochloride tablets.

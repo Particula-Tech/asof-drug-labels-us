@@ -116,8 +116,10 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •Renal and urinary disorders: dysuria, urinary retention
 - •Respiratory, thoracic, and mediastinal disorders: dyspnea
 - •Skin and subcutaneous tissue disorders: angioedema, fixed drug eruption, pruritus, rash, urticaria, and new onset pruritus within a few days after discontinuation of levocetirizine dihydrochloride, usually after long-term use (e.g., few months to years) of levocetirizine dihydrochloride.
-- Besides these reactions reported under treatment with levocetirizine dihydrochloride, other potentially severe adverse events have been reported from the postmarketing experience with cetirizine.
-  Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with levocetirizine dihydrochloride.
+
+Besides these reactions reported under treatment with levocetirizine dihydrochloride, other potentially severe adverse events have been reported from the postmarketing experience with cetirizine.
+Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with levocetirizine dihydrochloride.
+
 - •Cardiac disorders: severe hypotension
 - •Gastrointestinal disorders: cholestasis
 - •Nervous system disorders: extrapyramidal symptoms, myoclonus, orofacial dyskinesia, tic
