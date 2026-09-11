@@ -12,4 +12,4 @@ DEFENCATH vials must be stored at a controlled room temperature of 20°C to 25°
 Do not freeze.
 DEFENCATH vials must be stored in the commercial carton, prior to the instillation in central venous catheters.
 
-Manufactured for: CorMedix Inc. 300 Connell Drive, Suite 4200 Berkeley Heights, NJ 07922
+Manufactured for: CorMedix Inc. 389 Interpace Pkwy, Suite 450 Parsippany, NJ 07054 USA
