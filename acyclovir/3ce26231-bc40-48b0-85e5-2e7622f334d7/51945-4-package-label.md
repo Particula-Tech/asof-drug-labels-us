@@ -34,6 +34,6 @@ For Topical Ophthalmic Use.
 Sterile
 
 3.5g Net Wt.
-Rx only
+Rx Only
 
 Lot:
