@@ -2,12 +2,18 @@
 
 ## 7.1 Effects of Other Drugs on FYARRO
 
-CYP3A4 and/or P-gp Inhibitors or Inducers
+CYP3A Inhibitors and P-gp Inhibitors
 
-CYP3A4 and/or P-gp inhibitors may increase sirolimus concentrations, which may increase the risk of FYARRO adverse reactions.
-CYP3A4 and/or P-gp inducers may decrease sirolimus concentrations, which may reduce FYARRO effectiveness.
+Avoid concomitant use of FYARRO with strong CYP3A inhibitors and P-gp inhibitors, including grapefruit or grapefruit juice.
 
-- Strong CYP3A4 and/or P-gp Inhibitors or Inducers: Avoid concomitant use of FYARRO with strong CYP3A4 and/or P-gp inhibitors or strong CYP3A4 and/or P-gp inducers [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
-- Grapefruit or Grapefruit Juice: Avoid concomitant use of FYARRO with grapefruit or grapefruit juice.
-- Moderate or Weak CYP3A4 Inhibitors: Reduce the dosage of FYARRO when used concomitantly with a moderate or weak CYP3A4 inhibitor [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
-- Moderate or Weak CYP3A4 Inducers: Use of FYARRO may result in decreased effectiveness.
+Reduce the dosage of FYARRO when used concomitantly with a moderate or weak CYP3A inhibitor [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+
+Sirolimus is a CYP3A and P-gp substrate [see Clinical Pharmacology (12.3)].
+Concomitant use with a CYP3A and P-gp inhibitor may increase sirolimus exposure [see Clinical Pharmacology (12.3)], which may increase the risk of FYARRO-associated adverse reactions.
+
+Strong CYP3A Inducers and P-gp Inducers
+
+Avoid concomitant use of FYARRO with strong CYP3A inducers and P-gp inducers.
+
+Sirolimus is a CYP3A and P-gp substrate [see Clinical Pharmacology (12.3)].
+Concomitant use with a CYP3A and/or P-gp inducer may decrease sirolimus exposure [see Clinical Pharmacology (12.3)], which may decrease the effectiveness of FYARRO.

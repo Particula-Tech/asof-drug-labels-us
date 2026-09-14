@@ -1,22 +1,15 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions have been associated with FYARRO in clinical trials and are discussed in greater detail in other sections of the label [see Warnings and Precautions (5)].
+The following adverse reactions have been associated with FYARRO in clinical trials and are discussed in greater detail in other sections of the labeling [see Warnings and Precautions (5)].
 
-Stomatitis [see Warnings and Precautions (5.1)]
-
-Myelosuppression [see Warnings and Precautions (5.2)]
-
-Infections [see Warnings and Precautions (5.3)]
-
-Hypokalemia [see Warnings and Precautions (5.4)]
-
-Hyperglycemia [see Warnings and Precautions (5.5)]
-
-Interstitial Lung Disease (ILD) / Non-Infectious Pneumonitis [see Warnings and Precautions (5.6)]
-
-Hemorrhage [see Warnings and Precautions (5.7)]
-
-Hypersensitivity [see Warnings and Precautions (5.8)]
+- Stomatitis [see Warnings and Precautions (5.1)]
+- Myelosuppression [see Warnings and Precautions (5.2)]
+- Infections [see Warnings and Precautions (5.3)]
+- Hypokalemia [see Warnings and Precautions (5.4)]
+- Hyperglycemia [see Warnings and Precautions (5.5)]
+- Interstitial Lung Disease (ILD) / Non-Infectious Pneumonitis [see Warnings and Precautions (5.6)]
+- Hemorrhage [see Warnings and Precautions (5.7)]
+- Hypersensitivity [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -51,9 +44,9 @@ Table 4 summarizes the adverse reactions in AMPECT.
 Table 4.
 Adverse Reactions ≥10% in Patients with PEComa Who Received FYARRO in AMPECT
 
-|  | FYARRO (N=34) |  |
+| Adverse Reaction | FYARRO (N=34) |  |
 | --- | --- | --- |
-| Adverse Reaction | All Grades (%) | Grade 3 to 4* (%) |
+| All Grades (%) | Grade 3 to 4* (%) |  |
 | Gastrointestinal |  |  |
 | Stomatitisa | 79 | 18 |
 | Nausea | 50 | 0 |
@@ -105,8 +98,7 @@ Adverse Reactions ≥10% in Patients with PEComa Who Received FYARRO in AMPECT
 | dIncludes face edema, generalized edema, edema, edema peripheral, and periorbital edema |  |  |
 | eIncludes dermatitis acneiform, palmar-plantar erythrodysesthesia syndrome, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, and skin exfoliation |  |  |
 | fIncludes all reported infections, including but not limited to, upper respiratory tract infection, urinary tract infection, sinusitis, skin infection, folliculitis, nasopharyngitis, pharyngitis, pharyngitis streptococcal, pneumonia, vaginal infection |  |  |
-| gIncludes dysesthesia, hypoesthesia, neuropathy peripheral, paresthesia, and peripheral sensory neuropathy |  |  |
-| hIncludes dizziness, dizziness postural, and vertigo |  |  |
+| gIncludes dysesthesia, hypoesthesia, neuropathy peripheral, paresthesia, and peripheral sensory neuropathy hIncludes dizziness, dizziness postural, and vertigo |  |  |
 | iIncludes arthralgia, back pain, musculoskeletal chest pain, myalgia, neck pain, non-cardiac chest pain, pain in extremity |  |  |
 | jIncludes cough, productive cough, and upper-airway cough syndrome |  |  |
 | kIncludes dyspnea and dyspnea exertional |  |  |
@@ -118,9 +110,9 @@ Table 5 summarizes the laboratory abnormalities in AMPECT.
 Table 5.
 Laboratory Abnormalities ≥10% That Worsened from Baseline in Patients with PEComa who Received FYARRO in AMPECT
 
-|  | FYARRO2 (N=34) |  |
+| Laboratory Abnormality1 | FYARRO2 (N=34) |  |
 | --- | --- | --- |
-| Laboratory Abnormality1 | All Grades (%) | Grades 3 to 4 (%) |
+| All Grades (%) | Grades 3 to 4 (%) |  |
 | Hematology |  |  |
 | Decreased lymphocytes | 82 | 21 |
 | Decreased hemoglobin | 68 | 6 |

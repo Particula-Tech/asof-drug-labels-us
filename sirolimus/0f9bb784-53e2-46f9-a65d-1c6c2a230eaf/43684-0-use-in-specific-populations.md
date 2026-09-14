@@ -27,11 +27,10 @@ The NOAEL for maternal toxicity was 1 mg/kg.
 
 In rabbit embryo-fetal development studies, pregnant rabbits were administered an oral formulation of sirolimus during the period of organogenesis (Gestational Day 6-18).
 There were no effects on embryo-fetal development at doses up to 0.05 mg/kg; however, at doses of 0.05 mg/kg and above, the ability to sustain a pregnancy was impaired (i.e., embryo-fetal abortion or early resorption).
-
 Maternal toxicity (decreased body weight) was observed at 0.05 mg/kg.
 The NOAEL for maternal toxicity was 0.025 mg/kg.
 
-In a pre- and post-natal development study in rats, pregnant females were dosed with an oral formation of sirolimus during gestation and lactation (Gestational Day 6 through Lactation Day 20).
+In a pre- and post-natal development study in rats, pregnant females were dosed with an oral formulation of sirolimus during gestation and lactation (Gestational Day 6 through Lactation Day 20).
 An increased incidence of dead pups occurred at 0.5 mg/kg, resulting in reduced live litter size.
 At 0.1 mg/kg, there were no adverse effects on offspring.
 Sirolimus did not cause maternal toxicity or affect developmental parameters in the surviving offspring (e.g., morphological development, motor activity, learning, or fertility assessment) at 0.5 mg/kg, the highest oral dose tested.
@@ -84,5 +83,6 @@ Clinical studies of FYARRO did not include sufficient numbers of patients aged 6
 
 ## 8.6 Hepatic Impairment
 
-FYARRO is not recommended for use in patients with severe hepatic impairment.
-Reduce FYARRO dosage in patients with mild or moderate hepatic impairment [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+Avoid use in patients with severe hepatic impairment.
+
+Reduce FYARRO dosage in patients with mild or moderate hepatic impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].

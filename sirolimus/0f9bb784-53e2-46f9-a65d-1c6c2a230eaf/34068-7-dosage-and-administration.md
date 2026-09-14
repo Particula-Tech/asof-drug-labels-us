@@ -9,14 +9,14 @@ The recommended dosage of FYARRO is 100 mg/m2 administered as an intravenous inf
 Table 1 lists the recommended dose reductions of FYARRO for adverse reactions.
 
 Table 1.
-Recommended dose reductions of FYARRO for adverse reactions.
+Recommended Dose Reductions of FYARRO For Adverse Reactions
 
-| Dose Reduction | Dose |
-| --- | --- |
-| First Dose Reduction | 75 mg/m2 (25% reduction from 100 mg/m2) |
-| Second Dose Reduction | 56 mg/m2 (25% reduction from 75 mg/m2) |
-| Third Dose Reduction* | 45 mg/m2 (20% reduction from 56 mg/m2) |
-| *Permanently discontinue FYARRO in patients who are unable to tolerate FYARRO after three dose reductions. |  |
+|  | Dose Reduction | Dosage |
+| --- | --- | --- |
+| First | 75 mg/m2 on Days 1 and 8 of each 21-day cycle |  |
+| Second | 56 mg/m2 on Days 1 and 8 of each 21-day cycle |  |
+| Third* | 45 mg/m2 on Days 1 and 8 of each 21-day cycle |  |
+| *Permanently discontinue FYARRO in patients who are unable to tolerate FYARRO after three dose reductions. |  |  |
 
 Table 2 lists the recommended dosage modifications of FYARRO for adverse reactions.
 
@@ -26,11 +26,12 @@ Recommended FYARRO Dosage Modifications for Adverse Reactions
 | Adverse Reaction | Severity* | Dosage Modifications |
 | --- | --- | --- |
 | Stomatitis [see Warnings and Precautions (5.1)] | Grade 2 or 3 | Withhold FYARRO until Grade ≤1. Restart at the same dose for first occurrence. If recurs, restart at reduced dose level. |
-| Grade 4 | Permanently discontinue FYARRO. |  |
+| Grade 4 | • Permanently discontinue FYARRO. |  |
 | Anemia [see Warnings and Precautions (5.2)] | Grade 2 | Withhold FYARRO until Hb ≥8 g/dL. Restart at the same dose level. |
 | Grade ≥3 | Withhold FYARRO until Hb ≥8 g/dL. Restart at the same dose level. If recurs, resume at reduced dose level. |  |
 | Thrombocytopenia [see Warnings and Precautions (5.2)] | Grade 2 | Withhold FYARRO until platelet count >100×109/L. Restart at the same dose level. |
 | Grade ≥3 | Withhold FYARRO until platelet count >100×109/L. Restart at reduced dose level. |  |
+| Adverse Reaction | Severity* | Dosage Modifications |
 | Neutropenia [see Warnings and Precautions (5.2)] | Grade 2 or 3 | Withhold FYARRO until absolute neutrophil count ≥1.5×109/L. Restart at the same dose level. |
 | Grade 4 | Withhold FYARRO until absolute neutrophil count ≥1.5×109/L. Restart at reduced dose level. |  |
 | Infections [see Warnings and Precautions (5.3)] | Grade 3 | Withhold FYARRO until resolved. Restart at reduced dose level. If recurs, permanently discontinue FYARRO. |
@@ -38,7 +39,7 @@ Recommended FYARRO Dosage Modifications for Adverse Reactions
 | Hypokalemia [see Warnings and Precautions (5.4)] | Grade 2 | Withhold FYARRO until Grade ≤1. Restart at the same dose level. If recurs, restart at reduced dose level. |
 | Grade ≥3 | Withhold FYARRO until Grade ≤1. Restart at reduced dose level. If recurs, permanently discontinue FYARRO. |  |
 | Hyperglycemia [see Warnings and Precautions (5.5)] | Grade ≥3 | Withhold FYARRO until Grade ≤2. Restart at reduced dose level. |
-| Interstitial Lung Disease / Non- Infectious Pneumonitis [see Warnings and Precautions (5.6)] | Grade 2 | Withhold FYARRO for up to 3 weeks until Grade ≤1. Restart at reduced dose level. If not resolved to Grade ≤1 within 3 weeks, permanently discontinue FYARRO. If recurs, permanently discontinue FYARRO. |
+| Interstitial Lung Disease / Non-Infectious Pneumonitis [see Warnings and Precautions (5.6)] | Grade 2 | Withhold FYARRO for up to 3 weeks until Grade ≤1. Restart at reduced dose level. If not resolved to Grade ≤1 within 3 weeks, permanently discontinue FYARRO. If recurs, permanently discontinue FYARRO. |
 | Grade ≥3 | Permanently discontinue FYARRO. |  |
 | Hemorrhage [see Warnings and Precautions (5.7)] | Grade 2 or 3 | Withhold FYARRO until Grade ≤1. Resume at reduced dose. If recurs, permanently discontinue FYARRO. |
 | Grade 4 | Permanently discontinue FYARRO. |  |
@@ -46,24 +47,26 @@ Recommended FYARRO Dosage Modifications for Adverse Reactions
 | Grade 4 | Permanently discontinue FYARRO. |  |
 | *Severity based on Common Terminology Criteria for Adverse Events Version 4.03. |  |  |
 
-## 2.3 Dosage Modifications for Concomitant Use with CYP3A4 and/or P-gp Inhibitors and Inducers
+## 2.3 Dosage Modifications for CYP3A Inhibitors
 
-Reduce the dosage of FYARRO to 56 mg/m2 when used concomitantly with a moderate or weak cytochrome P-450 3A4 (CYP3A4) inhibitor.
-Avoid concomitant use with drugs that are strong CYP3A4 and/or P-glycoprotein (P-gp) inhibitors and inducers and with grapefruit and grapefruit juice [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+Avoid concomitant use with strong CYP3A inhibitors [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
-## 2.4 Patients with Hepatic Impairment
+Reduce the dosage of FYARRO to 56 mg/m2 on days 1 and 8 of every 21-day cycle when used concomitantly with a moderate or weak CYP3A inhibitor.
 
-The recommended dosage modification of FYARRO in patients with mild or moderate hepatic impairment is described in Table 3 [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
-Closely monitor patients with hepatic impairment for increased toxicity.
-Avoid use in patients with severe hepatic impairment [see Use in Specific Populations (8.6)].
+## 2.4 Recommended Dosage in Patients with Hepatic Impairment
+
+Avoid use in patients with severe hepatic impairment (total bilirubin >3 ULN and any AST) [see Use in Specific Populations (8.6)].
+
+The recommended dosage of FYARRO in patients with mild or moderate hepatic impairment is described in Table 3 [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Monitor patients with hepatic impairment for increased adverse reactions.
 
 Table 3.
 Recommended FYARRO Dosage in Patients with Mild or Moderate Hepatic Impairment
 
-| Hepatic Impairment (based on NCI criteria) | Dosage |
-| --- | --- |
-| Mild (total bilirubin ≤ULN, AST >ULN or total bilirubin >1 to 1.5×ULN, any AST) | 75 mg/m2 |
-| Moderate (total bilirubin >1.5 to 3.0×ULN, any AST) | 56 mg/m2 |
+|  | Hepatic Impairment (based on NCI criteria) | Dosage |
+| --- | --- | --- |
+| Mild (total bilirubin ≤ULN and AST >ULN or total bilirubin >1 to 1.5×ULN and any AST) | 75 mg/m2 on Days 1 and 8 of each 21-day cycle |  |
+| Moderate (total bilirubin >1.5 to 3.0×ULN and any AST) | 56 mg/m2 on Days 1 and 8 of each 21-day cycle |  |
 
 ## 2.5 Preparation and Administration
 
@@ -73,7 +76,7 @@ Follow applicable special handling and disposal procedures.1
 FYARRO is supplied as a sterile lyophilized powder for reconstitution before use.
 READ ENTIRE PREPARATION INSTRUCTIONS PRIOR TO RECONSTITUTION.
 
-Preparation:
+Preparation
 
 1. Aseptically, reconstitute each vial by injecting 20 mL of 0.9% Sodium Chloride Injection, USP.
 2. Slowly inject the 20 mL of 0.9% Sodium Chloride Injection, USP, over a minimum of 1 minute, using the sterile syringe to direct the solution flow onto the INSIDE WALL OF THE VIAL.
@@ -85,7 +88,7 @@ Preparation:
    If foaming or clumping is present after one hour, do not use the reconstituted suspension.
    - Each mL of the reconstituted formulation will contain 5 mg sirolimus.
    - The reconstituted suspension should be milky and homogenous without visible particulates.
-     If particulates or settling are visible, the vial should be gently inverted again to ensure complete resuspension prior to use.
+   - If particulates or settling are visible, the vial should be gently inverted again to ensure complete resuspension prior to use.
      Discard the reconstituted suspension if precipitates are observed.
      Discard any unused portion.
 7. Transfer the volume of FYARRO required for the calculated dose into an empty sterile PVC or polyolefin infusion bag for administration without further dilution.
@@ -95,7 +98,7 @@ The use of medical devices containing silicone oil as a lubricant (e.g., syringe
 Visually inspect reconstituted FYARRO suspension in the infusion bag prior to administration.
 Discard reconstituted suspension if particulate matter, proteinaceous strands, or discoloration are observed.
 
-Administration:
+Administration
 
 Administer the reconstituted FYARRO suspension intravenously over 30 minutes.
 

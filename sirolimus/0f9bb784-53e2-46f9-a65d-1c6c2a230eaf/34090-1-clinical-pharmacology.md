@@ -14,36 +14,42 @@ Sirolimus exposure-response relationship has not been fully characterized.
 
 Cardiac Electrophysiology
 
-The effect of FYARRO on the QTc interval has not been adequately characterized.
+At the recommended FYARRO dose, a mean increase in the QTc interval >20 ms was not observed.
 
 ## 12.3 Pharmacokinetics
 
-Absorption
-
-Following administration of FYARRO at the recommended dosage, the estimated mean (%CV) Cmax and AUC0-inf of sirolimus in patients with advanced solid tumors were 2590 ng/mL (30% CV) and 22100 ng∙h/mL (50% CV), respectively.
+At the recommended dosage, the estimated sirolimus mean (coefficient of variation [CV] %) maximum concentration (Cmax) is 2,590 ng/mL (30%) and AUC is 22,100 ng∙h/mL (50%) in patients with advanced solid tumors.
 
 Distribution
 
-The protein binding of sirolimus is >99%, primarily to serum albumin in vitro.
+Sirolimus protein binding of is >99% (primarily albumin).
 
 Elimination
 
-The mean elimination half-life of sirolimus is approximately 59 hours (41% CV).
+Sirolimus mean (CV%) elimination half-life is 59 hours (41%).
 
 Metabolism
 
-Sirolimus is metabolized by CYP3A4.
+Sirolimus is metabolized by CYP3A.
 
 Excretion
 
-Following a single radiolabeled sirolimus oral dose to human subjects, 91% and 2% of the radioactivity was recovered in feces and urine, respectively.
+Following a single radiolabeled oral dose of sirolimus to human subjects, 91% of the radioactivity was recovered in feces and 2% in urine.
 
 Specific Populations
 
-There were no clinically significant differences in the pharmacokinetics of sirolimus based on age (18 to 78 years), sex, mild or moderate renal impairment (creatinine clearance 30 to 89 mL/min).
-The effect of race, severe renal impairment, and hepatic impairment on the pharmacokinetics of sirolimus is unknown.
+No clinically significant differences in the pharmacokinetics of sirolimus were observed based on age (18 to 78 years), sex, renal impairment (creatinine clearance 30 to 89 mL/min).
+The effect of race, severe renal impairment, and severe hepatic impairment on the pharmacokinetics of sirolimus is unknown.
+
+Patients with Hepatic Impairment
+
+No clinically significant differences in the pharmacokinetics of sirolimus were identified for patients with moderate hepatic impairment (total bilirubin >1.5 to 3x ULN and any AST) who received a sirolimus dose of 56 mg/m2 compared to that of patients with normal hepatic function who received a dose of 100 mg/m2.
+The effect of severe hepatic impairment on the pharmacokinetics of sirolimus is unknown.
 
 Drug Interaction Studies
 
-No studies evaluating the drug interaction potential of FYARRO have been conducted.
-Sirolimus is a substrate for both CYP3A4 and P-gp.
+No clinical studies have been conducted to evaluate the potential for a drug interaction with FYARRO.
+
+In Vitro Studies
+
+Transporters: Sirolimus is a P-gp substrate.

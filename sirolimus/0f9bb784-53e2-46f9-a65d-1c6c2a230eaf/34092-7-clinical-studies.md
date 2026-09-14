@@ -5,7 +5,7 @@
 The efficacy of FYARRO was assessed in AMPECT (NCT02494570), a multi-center, single-arm clinical trial in 31 patients with locally advanced unresectable or metastatic malignant PEComa.
 Patients were required to have measurable disease at baseline, centrally confirmed diagnosis by pathology of malignant PEComa, and Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) of 0 or 1.
 Patients with lymphangioleiomyomatosis and prior treatment with a mTOR inhibitor were excluded.
-Patients received FYARRO at a dose of 100 mg/m2 on Days 1 and 8 of 21-day cycles until disease progression or unacceptable toxicity.
+Patients received FYARRO at a dose of 100 mg/m2 on Days 1 and 8 of 21day cycles until disease progression or unacceptable toxicity.
 
 The efficacy population of 31 patients had the following demographic characteristics: median age 60 years (range 34 to 78), 81% female, 74% White, 10% Black, and 81% ECOG PS of 0.
 Five (16%) patients had locally advanced disease and 26 (84%) had metastatic disease.

@@ -33,7 +33,9 @@ Based on the severity of the adverse reaction, withhold, resume at reduced dose,
 ## 5.5 Hyperglycemia
 
 FYARRO can cause hyperglycemia.
-Hyperglycemia occurred in 12% of patients treated with FYARRO, all of which were Grade 3 events.
+Hyperglycemia occurred in 12% of patients treated with
+
+FYARRO, all of which were Grade 3 events.
 Monitor fasting serum glucose prior to starting FYARRO.
 During treatment, monitor serum glucose every 3 months in non-diabetic patients, or as clinically indicated.
 Monitor serum glucose more frequently in diabetic patients.
@@ -43,7 +45,6 @@ Based on the severity of the adverse reaction, withhold, resume at reduced dose,
 
 FYARRO can cause interstitial lung disease (ILD) / non-infectious pneumonitis.
 ILD / non-infectious pneumonitis occurred in 18% of patients treated with FYARRO, of which all were Grades 1 or 2.
-
 Based on the severity of the adverse reaction, withhold, resume at reduced dose, or permanently discontinue FYARRO [see Dosage and Administration (2.2)].
 
 ## 5.7 Hemorrhage
@@ -70,7 +71,6 @@ Reduce the rate, interrupt infusion, or permanently discontinue FYARRO based on 
 Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)], FYARRO can cause fetal harm when administered to a pregnant woman.
 In animal studies, mechanistic target of rapamycin kinase (mTOR) inhibitors caused embryo-fetal toxicity when administered during the period of organogenesis at maternal exposures that were equal to or less than human exposures at the recommended lowest starting dose.
 Advise pregnant women of the potential risk to a fetus.
-
 Advise females of reproductive potential to avoid becoming pregnant and to use effective contraception while using FYARRO and for 12 weeks after the last dose [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.10 Male Infertility
