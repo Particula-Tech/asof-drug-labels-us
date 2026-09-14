@@ -38,7 +38,7 @@ Some cases of serious opportunistic infections and TB have been fatal [see Warni
 
 Autoantibodies
 
-In the rheumatoid arthritis controlled trials, 12% of subjects treated with adalimumab and 7% of placebo-treated subjects that had negative baseline ANA titers developed positive titers at Week 24.
+In the rheumatoid arthritis controlled trials, 12% of subjects treated with adalimumab and 7% of placebo-treated subjects that had negative baseline ANA titers developed positive titers at week 24.
 Two subjects out of 3046 treated with adalimumab developed clinical signs suggestive of new-onset lupus-like syndrome.
 The subjects improved following discontinuation of therapy.
 No subjects developed lupus nephritis or central nervous system symptoms.
@@ -193,13 +193,14 @@ Flare of HS, defined as ≥25% increase from baseline in abscesses and inflammat
 
 Uveitis Clinical Studies
 
-Adalimumab has been studied in 464 adult subjects with uveitis (UV) in placebo-controlled and open-label extension studies [see Clinical Studies (14.10)].
+Adalimumab has been studied in 464 adult subjects with uveitis (UV) in placebo-controlled and open-label extension studies and in 90 pediatric subjects with uveitis (Study PUV-I) [see Clinical Studies (14.10, 14.11)].
 The safety profile for subjects with UV treated with adalimumab was similar to the safety profile seen in subjects with RA.
 
 ## 6.2 Immunogenicity
 
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of adalimumab or of other adalimumab products.
+
 There are two assays that have been used to measure anti-adalimumab antibodies.
 With the ELISA, antibodies to adalimumab could be detected only when serum adalimumab concentrations were < 2 mcg/mL.
 The ECL assay can detect anti-adalimumab antibody titers independent of adalimumab concentrations in the serum samples.
@@ -223,7 +224,9 @@ Anti-Adalimumab Antibody Development Determined by ELISA and ECL Assay in Patien
 | Hidradenitis Suppurativa |  | 36 weeks | 7% (30/461) | 28% (58/207)h | 61% (272/445)i |
 | Non-infectious Uveitis |  | 52 weeks | 5% (12/249) | 21% (12/57) | 40% (99/249)j |
 
-n: number of patients with anti-adalimumab antibody; NR: not reported; NA: Not applicable (not performed) a In patients receiving concomitant methotrexate (MTX), the incidence of anti-adalimumab antibody was 1% compared to 12% with adalimumab monotherapy b In patients receiving concomitant MTX, the incidence of anti-adalimumab antibody was 6% compared to 26% with adalimumab monotherapy c This patient received concomitant MTX d In patients receiving concomitant MTX, the incidence of antibody development was 7% compared to 1% in RA e Subjects enrolled after completing 2 previous studies of 24 weeks or 12 weeks of treatments. f In plaque psoriasis patients who were on adalimumab monotherapy and subsequently withdrawn from the treatment, the rate of antibodies to adalimumab after retreatment was similar to the rate observed prior to withdrawal g One 12-week Phase 2 study and one 52-week Phase 3 study h Among subjects in the 2 Phase 3 studies who stopped adalimumab treatment for up to 24 weeks and in whom adalimumab serum levels subsequently declined to <2 mcg/mL (approximately 22% of total subjects studied) i No apparent association between antibody development and safety was observed j No correlation of antibody development to safety or efficacy outcomes was observed
+n: number of patients with anti-adalimumab antibody; NR: not reported; NA: Not applicable (not performed) a In patients receiving concomitant methotrexate (MTX), the incidence of anti-adalimumab antibody was 1% compared to 12% with adalimumab monotherapy b In patients receiving concomitant MTX, the incidence of anti-adalimumab antibody was 6% compared to 26% with adalimumab monotherapy c This patient received concomitant MTX d In patients receiving concomitant MTX, the incidence of antibody development was 7% compared to 1% in RA e Subjects enrolled after completing 2 previous studies of 24 weeks or 12 weeks of treatments. f In plaque psoriasis patients who were on adalimumab monotherapy and subsequently withdrawn from the treatment, the rate of antibodies to adalimumab after retreatment was similar to the rate observed prior to withdrawal g One 12-week Phase 2 study and one 52-week Phase 3 study h Among subjects in the 2 Phase 3 studies who stopped adalimumab treatment for up to 24 weeks and in whom adalimumab serum levels subsequently declined to <2 mcg/mL (approximately 22% of total subjects studied) i No apparent association between antibody development and safety was observed
+
+j No correlation of antibody development to safety or efficacy outcomes was observed
 
 Rheumatoid Arthritis and Psoriatic Arthritis: ﻿Subjects in Studies RA-I, RA-II, and RA-III were tested at multiple time points for antibodies to adalimumab using the ELISA during the 6-to 12-month period.
 No apparent correlation of antibody development to adverse reactions was observed.

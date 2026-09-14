@@ -84,6 +84,8 @@ Juvenile Idiopathic Arthritis:
   The adalimumab mean steady-state trough concentrations were 6.6 mcg/mL and 8.1 mcg/mL in patients weighing ≥30 kg receiving 40 mg adalimumab subcutaneously every other week as monotherapy or with MTX concomitant treatment, respectively.
 - 2 years to <4 years of age or 4 years of age and older weighing <15 kg: The adalimumab mean steady-state trough adalimumab concentrations were 6.0 mcg/mL and 7.9 mcg/mL in patients receiving adalimumab subcutaneously every other week as monotherapy or with MTX concomitant treatment, respectively.
 
+Pediatric Hidradenitis Suppurativa: Adalimumab concentrations in adolescent patients with HS receiving the recommended dosage regimens are predicted to be similar to those observed in adult subjects with HS based on population pharmacokinetic modeling and simulation.
+
 Pediatric Crohn's Disease: Adalimumab mean ± SD concentrations were 15.7±6.5 mcg/mL at Week 4 following 160 mg at Week 0 and 80 mg at Week 2, and 10.5±6.0 mcg/mL at Week 52 following 40 mg every other week dosing in patients weighing ≥ 40 kg.
 Adalimumab mean ± SD concentrations were 10.6±6.1 mcg/mL at Week 4 following dosing 80 mg at Week 0 and 40 mg at Week 2, and 6.9±3.6 mcg/mL at Week 52 following 20 mg every other week dosing in patients weighing < 40 kg.
 

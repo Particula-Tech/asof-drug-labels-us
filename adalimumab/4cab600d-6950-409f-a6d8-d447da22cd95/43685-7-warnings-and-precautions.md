@@ -55,22 +55,22 @@ Consider the risks and benefits of TNF-blocker treatment including YUSIMRY prior
 Malignancies in Adults
 
 In the controlled portions of clinical trials of some TNF-blockers, including adalimumab products, more cases of malignancies have been observed among TNF-blocker-treated adult subjects compared to control-treated adult subjects.
-During the controlled portions of 39 global adalimumab clinical trials in adult patients with rheumatoid arthritis (RA), psoriatic arthritis (PsA), ankylosing spondylitis (AS), Crohn’s disease (CD), ulcerative colitis (UC), plaque psoriasis (Ps), hidradenitis suppurativa (HS), and uveitis (UV), malignancies, other than non-melanoma (basal cell and squamous cell) skin cancer, were observed at a rate (95% confidence interval) of 0.7 (0.48, 1.03) per 100 patient-years among 7973 adalimumab-treated subjects versus a rate of 0.7 (0.41, 1.17) per 100 patient-years among 4848 control-treated subjects (median duration of treatment of 4 months for adalimumab-treated subjects and 4 months for control-treated subjects).
-In 52 global controlled and uncontrolled clinical trials of adalimumab in adult patients with RA, PsA, AS, CD, UC, Ps, HS, and UV, the most frequently observed malignancies, other than lymphoma and NMSC, were breast, colon, prostate, lung, and melanoma.
+During the controlled portions of 39 global adalimumab clinical trials in adult subjects with rheumatoid arthritis (RA), psoriatic arthritis (PsA), ankylosing spondylitis (AS), Crohn’s disease (CD), ulcerative colitis (UC), plaque psoriasis (Ps), hidradenitis suppurativa (HS), and uveitis (UV), malignancies, other than non-melanoma (basal cell and squamous cell) skin cancer, were observed at a rate (95% confidence interval) of 0.7 (0.48, 1.03) per 100 patient-years among 7973 adalimumab-treated subjects versus a rate of 0.7 (0.41, 1.17) per 100 patient-years among 4848 control-treated subjects (median duration of treatment of 4 months for adalimumab-treated subjects and 4 months for control-treated subjects).
+In 52 global controlled and uncontrolled clinical trials of adalimumab in adult subjects with RA, PsA, AS, CD, UC, Ps, HS, and UV, the most frequently observed malignancies, other than lymphoma and NMSC, were breast, colon, prostate, lung, and melanoma.
 The malignancies in adalimumab-treated subjects in the controlled and uncontrolled portions of the studies were similar in type and number to what would be expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).1
 
-In controlled trials of other TNF blockers in adult patients at higher risk for malignancies (i.e., subjects with COPD with a significant smoking history and cyclophosphamide-treated patients with Wegener’s granulomatosis), a greater portion of malignancies occurred in the TNF blocker group compared to the control group.
+In controlled trials of other TNF blockers in adult subjects at higher risk for malignancies (i.e., subjects with COPD with a significant smoking history and cyclophosphamide-treated subjects with Wegener’s granulomatosis), a greater portion of malignancies occurred in the TNF blocker group compared to the control group.
 
 Non-Melanoma Skin Cancer
 
-During the controlled portions of 39 global adalimumab clinical trials in adult patients with RA, PsA, AS, CD, UC, Ps, HS, and UV, the rate (95% confidence interval) of NMSC was 0.8 (0.52, 1.09) per 100 patient-years among adalimumab-treated subjects and 0.2 (0.10, 0.59) per 100 patient-years among control-treated subjects.
+During the controlled portions of 39 global adalimumab clinical trials in adult subjects with RA, PsA, AS, CD, UC, Ps, HS, and UV, the rate (95% confidence interval) of NMSC was 0.8 (0.52, 1.09) per 100 patient-years among adalimumab-treated subjects and 0.2 (0.10, 0.59) per 100 patient-years among control-treated subjects.
 Examine all patients, and in particular patients with a medical history of prior prolonged immunosuppressant therapy or psoriasis patients with a history of PUVA treatment for the presence of NMSC prior to and during treatment with YUSIMRY.
 
 Lymphoma and Leukemia
 
 In the controlled portions of clinical trials of all the TNF-blockers in adults, more cases of lymphoma have been observed among TNF-blocker-treated subjects compared to control-treated subjects.
-In the controlled portions of 39 global adalimumab clinical trials in adult patients with RA, PsA, AS, CD, UC, Ps, HS, and UV, 2 lymphomas occurred among 7973 adalimumab-treated subjects versus 1 among 4848 control-treated subjects.
-In 52 global controlled and uncontrolled clinical trials of adalimumab in adult patients with RA, PsA, AS, CD, UC, Ps, HS, and UV with a median duration of approximately 0.7 years, including 24,605 subjects and over 40,215 patient-years of adalimumab, the observed rate of lymphomas was approximately 0.11 per 100 patient-years.
+In the controlled portions of 39 global adalimumab clinical trials in adult subjects with RA, PsA, AS, CD, UC, Ps, HS, and UV, 2 lymphomas occurred among 7973 adalimumab-treated subjects versus 1 among 4848 control-treated subjects.
+In 52 global controlled and uncontrolled clinical trials of adalimumab in adult subjects with RA, PsA, AS, CD, UC, Ps, HS, and UV with a median duration of approximately 0.7 years, including 24,605 subjects and over 40,215 patient-years of adalimumab, the observed rate of lymphomas was approximately 0.11 per 100 patient-years.
 This is approximately 3-fold higher than expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).1 Rates of lymphoma in clinical trials of adalimumab cannot be compared to rates of lymphoma in clinical trials of other TNF blockers and may not predict the rates observed in a broader patient population.
 Patients with RA and other chronic inflammatory diseases, particularly those with highly active disease and/or chronic exposure to immunosuppressant therapies, may be at a higher risk (up to several fold) than the general population for the development of lymphoma, even in the absence of TNF blockers.
 Post-marketing cases of acute and chronic leukemia have been reported in association with TNF-blocker use in RA and other indications.
@@ -144,8 +144,8 @@ If a patient develops symptoms and findings suggestive of a lupus-like syndrome 
 
 ## 5.10 Immunizations
 
-In a placebo-controlled clinical trial of patients with RA, no difference was detected in anti- pneumococcal antibody response between adalimumab and placebo treatment groups when the pneumococcal polysaccharide vaccine and influenza vaccine were administered concurrently with adalimumab.
-Similar proportions of subjects developed protective levels of anti-influenza antibodies between adalimumab and placebo treatment groups; however, titers in aggregate to influenza antigens were moderately lower in patients receiving adalimumab.
+In a placebo-controlled clinical trial of subjects with RA, no difference was detected in anti- pneumococcal antibody response between adalimumab and placebo treatment groups when the pneumococcal polysaccharide vaccine and influenza vaccine were administered concurrently with adalimumab.
+Similar proportions of subjects developed protective levels of anti-influenza antibodies between adalimumab and placebo treatment groups; however, titers in aggregate to influenza antigens were moderately lower in subjects receiving adalimumab.
 The clinical significance of this is unknown.
 Patients on YUSIMRY may receive concurrent vaccinations, except for live vaccines.
 No data are available on the secondary transmission of infection by live vaccines in patients receiving adalimumab products.

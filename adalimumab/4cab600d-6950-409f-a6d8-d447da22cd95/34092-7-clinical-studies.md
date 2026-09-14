@@ -65,8 +65,8 @@ Components of ACR Response in Studies RA-II and RA-III
 | Number of tender joints (0-68) | 35 | 26 | 31 | 16* | 26 | 15 | 24 | 8* |
 | Number of swollen joints (0-66) | 19 | 16 | 18 | 10* | 17 | 11 | 18 | 5* |
 | Physician global assessmentb | 7.0 | 6.1 | 6.6 | 3.7* | 6.3 | 3.5 | 6.5 | 2.0* |
-| Patient global assessmentc | 7.5 | 6.3 | 7.5 | 4.5* | 5.4 | 3.9 | 5.2 | 2.0* |
-| Painc | 7.3 | 6.1 | 7.3 | 4.1* | 6.0 | 3.8 | 5.8 | 2.1* |
+| Patient global assessmentb | 7.5 | 6.3 | 7.5 | 4.5* | 5.4 | 3.9 | 5.2 | 2.0* |
+| Painb | 7.3 | 6.1 | 7.3 | 4.1* | 6.0 | 3.8 | 5.8 | 2.1* |
 | Disability index (HAQ)c | 2.0 | 1.9 | 1.9 | 1.5* | 1.5 | 1.3 | 1.5 | 0.8* |
 | CRP (mg/dL) | 3.9 | 4.3 | 4.6 | 1.8* | 1.0 | 0.9 | 1.0 | 0.4* |
 
@@ -201,7 +201,7 @@ Study PsA-I enrolled 313 adult subjects with moderately to severely active PsA (
 Subjects on MTX therapy (158 of 313 subjects) at enrollment (stable dose of ≤30 mg/week for >1 month) could continue MTX at the same dose.
 Doses of adalimumab 40 mg or placebo every other week were administered during the 24-week double-blind period of the study.
 
-Compared to placebo, treatment with adalimumab resulted in improvements in the measures of disease activity (see Table 8 and 9).
+Compared to placebo, treatment with adalimumab resulted in improvements in the measures of disease activity (see Tables 8 and 9).
 Among subjects with PsA who received adalimumab, the clinical responses were apparent in some subjects at the time of the first visit (two weeks) and were maintained up to 88 weeks in the ongoing open-label study.
 Similar responses were seen in subjects with each of the subtypes of psoriatic arthritis, although few subjects were enrolled with the arthritis mutilans and ankylosing spondylitis-like subtypes.
 Responses were similar in subjects who were or were not receiving concomitant MTX therapy at baseline.
@@ -391,8 +391,10 @@ At Week 12, subjects who experienced a disease flare (increase in PCDAI of ≥ 1
 At baseline, 38% of subjects were receiving corticosteroids, and 62% of subjects were receiving an immunomodulator.
 Forty-four percent (44%) of subjects had previously lost response or were intolerant to a TNF blocker.
 The median baseline PCDAI score was 40.
+
 Of the 192 subjects total, 188 subjects completed the 4 week induction period, 152 subjects completed 26 weeks of treatment, and 124 subjects completed 52 weeks of treatment.
 Fifty-one percent (51%) (48/95) of subjects in the low maintenance dose group dose-escalated, and 38% (35/93) of subjects in the high maintenance dose group dose-escalated.
+
 At Week 4, 28% (52/188) of subjects were in clinical remission (defined as PCDAI ≤ 10).
 
 The proportions of subjects in clinical remission (defined as PCDAI ≤ 10) and clinical response (defined as reduction in PCDAI of at least 15 points from baseline) were assessed at Weeks 26 and 52.
@@ -589,3 +591,29 @@ Study UV I
 Study UV II
 
 Note: P# = Placebo (Number of Events/Number at Risk); A# = adalimumab (Number of Events/Number at Risk).
+
+## 14.11 Clinical Studies in Pediatric Subjects with Uveitis
+
+The safety and efficacy of adalimumab were assessed in a randomized, double-masked, placebo-controlled study of 90 pediatric subjects from 2 to < 18 years of age with active JIA-associated non-infectious uveitis (PUV-I).
+Subjects received either placebo or 20 mg adalimumab (if < 30 kg) or 40 mg adalimumab (if ≥ 30 kg) every other week in combination with a dose of methotrexate.
+Concomitant dosages of corticosteroids were permitted at study entry followed by a mandatory reduction in topical corticosteroids within 3 months.
+
+The primary endpoint was 'time to treatment failure'.
+The criteria determining treatment failure were worsening or sustained non-improvement in ocular inflammation, or worsening of ocular co-morbidities.
+
+Clinical Response
+
+Adalimumab significantly decreased the risk of treatment failure by 75% relative to placebo (HR = 0.25 [95% CI: 0.12, 0.49]) (Table 21).
+
+Table 21.
+Analysis Results of Time to Treatment Failure (Study PUV-I)
+
+|  | Placebo (N=30) | adalimumab (N=60) | HR (95% CI)ª |
+| --- | --- | --- | --- |
+| Failure (n[%]) | 18 (60%) | 16 (26.7%) | 0.25 (0.12, 0.49) |
+| Median Time to Failure (Weeks) (95% CI)ᵇ | 24.1 (12.4, 81.0) | NEc |  |
+| a HR of adalimumab versus placebo from proportional hazards regression with treatment as factor. b Estimated based on Kaplan-Meier curve. c NE = not estimable. Fewer than half of at-risk subjects had an event. |  |  |  |
+
+Figure 4: Kaplan-Meier Curves Summarizing Time to Treatment Failure (Study PUV-I)
+
+Study PUV-I Note: P = Placebo (Number at Risk); H = adalimumab (Number at Risk).

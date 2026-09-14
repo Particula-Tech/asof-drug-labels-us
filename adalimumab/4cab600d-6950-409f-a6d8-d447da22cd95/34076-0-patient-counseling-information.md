@@ -45,14 +45,18 @@ Refer patients to the FDA's website at http://www.fda.gov/safesharpsdisposal for
 Instruct patients not to dispose of their used sharps disposal container in their household trash unless their community guidelines permit this.
 Instruct patients not to recycle their used sharps disposal container.
 
-Manufactured for: Meitheal Pharmaceuticals
+Manufactured for: Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2026 Meitheal Pharmaceuticals Inc.
 
-Chicago, IL 60631 (USA) ©2025 Meitheal Pharmaceuticals Inc.
+Manufactured by: Emerge Bioscience Pte.
+Ltd. Singapore 069535
 
-Manufactured by: Hong Kong King-Friend Industrial Company Limited, Hong Kong, China 999077 US License No. 2375
+US License No. 2395
 
-YUSIMRY is a trademark of Hong Kong King-Friend.
+YUSIMRY is a trademark of Emerge Bioscience Pte.
+Ltd.
 
-Revised: November 2025
+Product of South Korea
 
-PCR-750-20746
+Revised: August 2026
+
+Commodity Number

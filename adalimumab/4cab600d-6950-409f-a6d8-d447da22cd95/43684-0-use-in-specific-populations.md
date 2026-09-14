@@ -67,9 +67,11 @@ The safety and effectiveness of YUSIMRY have been established for:
 
 - reducing signs and symptoms of moderately to severely active polyarticular JIA in pediatric patients 2 years of age and older.
 - the treatment of moderately to severely active Crohn's disease in pediatric patients 6 years of age and older.
+- the treatment of moderate to severe hidradenitis suppurativa in patients 12 years of age and older.
+- the treatment of non-infectious intermediate, posterior, and panuveitis in pediatric patients 2 years of age and older.
 
-Pediatric assessments for YUSIMRY demonstrate that YUSIMRY is safe and effective for pediatric patients in indications for which Humira (adalimumab) is approved.
-However, YUSIMRY is not approved for such indications due to marketing exclusivity for Humira (adalimumab).
+A pediatric assessment for YUSIMRY demonstrates that YUSIMRY is safe and effective for pediatric patients in an indication for which Humira (adalimumab) is approved.
+However, YUSIMRY is not approved for such indication due to marketing exclusivity for Humira (adalimumab).
 
 Due to their inhibition of TNFα, adalimumab products administered during pregnancy could affect immune response in the in utero-exposed newborn and infant.
 Data from eight infants exposed to adalimumab in utero suggest adalimumab crosses the placenta [see Use in Specific Populations (8.1)].
@@ -96,6 +98,21 @@ Use of YUSIMRY for this indication is supported by evidence from adequate and we
 The adverse reaction profile in patients 6 years to 17 years of age was similar to adults.
 
 The safety and effectiveness of YUSIMRY have not been established in pediatric patients with Crohn's disease less than 6 years of age.
+
+Pediatric Uveitis
+
+The safety and effectiveness of YUSIMRY for the treatment of non-infectious, intermediate, posterior, and panuveitis have been established in pediatric patients 2 years of age and older.
+Use of YUSIMRY for this indication is supported by evidence from adequate and well-controlled studies of adalimumab in adults and a 2:1 randomized, controlled clinical study of adalimumab in 90 pediatric patients [see Clinical Studies (14.11)].
+The safety and effectiveness of YUSIMRY have not been established in pediatric patients with uveitis less than 2 years of age.
+
+Hidradenitis Suppurativa
+
+Use of YUSIMRY in pediatric patients 12 years of age and older for the treatment of moderate to severe HS is supported by evidence from adequate and well-controlled studies of adalimumab in adult HS patients.
+Additional population pharmacokinetic modeling and simulation predicted that weight-based dosing of adalimumab in pediatric patients 12 years of age and older can provide generally similar exposure to adult HS patients.
+The course of HS is sufficiently similar in adult and adolescent patients to allow extrapolation of data from adult to adolescent patients.
+The recommended dosage in pediatric patients 12 years of age or older is based on body weight [see Dosage and Administration (2.6), Clinical Pharmacology (12.3), and Clinical Studies (14.10)].
+
+The safety and effectiveness of YUSIMRY have not been established in patients less than 12 years of age with HS.
 
 ## 8.5 Geriatric Use
 

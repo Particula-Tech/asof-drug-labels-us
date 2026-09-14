@@ -38,8 +38,8 @@ YUSIMRY should only be administered to patients who will be closely monitored an
 
 ## 1.8 Hidradenitis Suppurativa
 
-YUSIMRY is indicated for the treatment of moderate to severe hidradenitis suppurativa in adult patients.
+YUSIMRY is indicated for the treatment of moderate to severe hidradenitis suppurativa in patients 12 years of age and older.
 
 ## 1.9 Uveitis
 
-YUSIMRY is indicated for the treatment of non-infectious intermediate, posterior, and panuveitis in adults.
+YUSIMRY is indicated for the treatment of non-infectious intermediate, posterior, and panuveitis in adults and pediatric patients 2 years of age and older.
