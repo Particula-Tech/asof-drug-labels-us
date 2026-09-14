@@ -1,252 +1,47 @@
-# MEDICATION GUIDE
-
-Dispense with Medication Guide available at: www.tevausa.com/medguides
-
-Atomoxetine (a″ toe mox′ e teen) Capsules
-
-Read the Medication Guide that comes with atomoxetine capsules before you or your child starts taking them and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your doctor about your treatment or your child’s treatment with atomoxetine capsules.
-
-What is the most important information I should know about atomoxetine capsules?
-
-The following have been reported with use of atomoxetine capsules:
-
-1.
-Suicidal thoughts and actions in children and teenagers:
-
-Children and teenagers sometimes think about suicide, and many report trying to kill themselves.
-Results from atomoxetine capsule clinical studies with over 2200 child or teenage ADHD patients suggest that some children and teenagers may have a higher chance of having suicidal thoughts or actions.
-Although no suicides occurred in these studies, 4 out of every 1000 patients developed suicidal thoughts.
-Tell your child or teenager’s doctor if your child or teenager (or there is a family history of):
-
-- has bipolar illness (manic-depressive illness)
-- had suicide thoughts or actions before starting atomoxetine capsules
-
-The chance for suicidal thoughts and actions may be higher:
-
-- early during atomoxetine capsule treatment
-- during dose adjustments
-
-Prevent suicidal thoughts and action in your child or teenager by:
-
-- paying close attention to your child or teenager’s moods, behaviors, thoughts, and feelings during atomoxetine capsule treatment
-- keeping all follow-up visits with your child or teenager’s doctor as scheduled
-
-Watch for the following signs in your child or teenager during atomoxetine capsule treatment:
-
-- anxiety
-- agitation
-- panic attacks
-- trouble sleeping
-- irritability
-- hostility
-- aggressiveness
-- impulsivity
-- restlessness
-- mania
-- depression
-- suicide thoughts
-
-Call your child or teenager’s doctor right away if they have any of the above signs, especially if they are new, sudden, or severe.
-Your child or teenager may need to be closely watched for suicidal thoughts and actions or need a change in medicine.
-
-2.
-Severe liver damage:
-
-Atomoxetine capsules can cause liver injury in some patients.
-Call your doctor right away if you or your child has the following signs of liver problems:
-
-- itching
-- right upper belly pain
-- dark urine
-- yellow skin or eyes
-- unexplained flu-like symptoms
-
-3.
-Heart-related problems:
-
-- sudden death in patients who have heart problems or heart defects
-- stroke and heart attack in adults
-- increased blood pressure and heart rate
-
-Tell your doctor if you or your child has any heart problems, heart defects, high blood pressure, or a family history of these problems.
-Your doctor should check you or your child carefully for heart problems before starting atomoxetine capsules.
-
-Your doctor should check your blood pressure or your child’s blood pressure and heart rate regularly during treatment with atomoxetine capsules.
-
-Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking atomoxetine capsules.
-
-4.
-New mental (psychiatric) problems in children and teenagers:
-
-- new psychotic symptoms (such as hearing voices, believing things that are not true, being suspicious) or new manic symptoms
-
-Call your child or teenager’s doctor right away about any new mental symptoms because adjusting or stopping atomoxetine capsule treatment may need to be considered.
-
-What are atomoxetine capsules?
-
-Atomoxetine capsules are a selective norepinephrine reuptake inhibitor medicine.
-They are used for the treatment of attention deficit and hyperactivity disorder (ADHD).
-Atomoxetine capsules may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
-
-Atomoxetine capsules should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.
-
-Atomoxetine capsules have not been studied in children less than 6 years old.
-
-Who should not take atomoxetine capsules?
-
-Atomoxetine capsules should not be taken if you or your child:
-
-- are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI.
-  Some names of MAOI medicines are Nardil® (phenelzine sulfate), Parnate® (tranylcypromine sulfate) and Emsam® (selegiline transdermal system).
-- have an eye problem called narrow angle glaucoma
-- are allergic to anything in atomoxetine capsules.
-  See the end of this Medication Guide for a complete list of ingredients.
-- have or have had a rare tumor called pheochromocytoma.
-
-Atomoxetine capsules may not be right for you or your child.
-Before starting atomoxetine capsules tell your doctor or your child’s doctor about all health conditions (or a family history of) including:
-
-- have or had suicide thoughts or actions
-- heart problems, heart defects, irregular heart beat, high blood pressure, or low blood pressure
-- mental problems, psychosis, mania, bipolar illness, or depression
-- liver problems
-- are pregnant or plan to become pregnant.
-  It is not known if atomoxetine capsules will harm your unborn baby.
-  Talk to your doctor if you are pregnant or plan to become pregnant.
-  - There is a pregnancy registry for females who are exposed to ADHD medications, including atomoxetine capsules, during pregnancy.
-    The purpose of the registry is to collect information about the health of females exposed to atomoxetine capsules and their baby.
-    If you or your child becomes pregnant during treatment with atomoxetine capsules, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD Medications at 1-866-961-2388 or visit online at https://womensmentalhealth.org/adhdmedications/.
-- are breastfeeding or plan to breastfeed.
-  It is not known if atomoxetine capsules passes into your breast milk.
-  Talk to your doctor about the best way to feed your baby if you take atomoxetine capsules.
-
-Can atomoxetine capsules be taken with other medicines?
-
-Tell your doctor about all the medicines that you or your child takes including prescription and nonprescription medicines, vitamins, and herbal supplements.
-Atomoxetine capsules and some medicines may interact with each other and cause serious side effects.
-Your doctor will decide whether atomoxetine capsules can be taken with other medicines.
-
-Especially tell your doctor if you or your child takes:
-
-- asthma medicines
-- anti-depression medicines including MAOIs
-- blood pressure medicines
-- cold or allergy medicines that contain decongestants
-
-Know the medicines that you or your child takes.
-Keep a list of your medicines with you to show your doctor and pharmacist.
-
-Do not start any new medicine while taking atomoxetine capsules without talking to your doctor first.
-
-How should atomoxetine capsules be taken?
-
-- Take atomoxetine capsules exactly as prescribed.
-  Atomoxetine capsules come in different dose strength capsules.
-  Your doctor may adjust the dose until it is right for you or your child.
-- Do not chew, crush, or open the capsules.
-  Swallow atomoxetine capsules whole with water or other liquids.
-  Tell your doctor if you or your child cannot swallow atomoxetine capsules whole.
-  A different medicine may need to be prescribed.
-- Avoid touching a broken atomoxetine capsule.
-  Wash hands and surfaces that touched an open atomoxetine capsule.
-  If any of the powder gets in your eyes or your child’s eyes, rinse them with water right away and call your doctor.
-- Atomoxetine capsules can be taken with or without food.
-- Atomoxetine capsules are usually taken once or twice a day.
-  Take atomoxetine capsules at the same time each day to help you remember.
-  If you miss a dose of atomoxetine capsules, take it as soon as you remember that day.
-  If you miss a day of atomoxetine capsules, do not double your dose the next day.
-  Just skip the day you missed.
-- From time to time, your doctor may stop atomoxetine capsule treatment for a while to check ADHD symptoms.
-- Your doctor may do regular checks of the blood, heart, and blood pressure while taking atomoxetine capsules.
-  Children should have their height and weight checked often while taking atomoxetine capsules.
-  Atomoxetine capsule treatment may be stopped if a problem is found during these check-ups.
-- If you or your child takes too many atomoxetine capsules or overdoses, call your doctor or poison control center right away, or get emergency treatment.
-
-What are possible side effects of atomoxetine capsules?
-
-See “What is the most important information I should know about atomoxetine capsules?” for information on reported suicidal thoughts and actions, other mental problems, severe liver damage, and heart problems.
-
-Other serious side effects include:
-
-- serious allergic reactions (call your doctor if you have trouble breathing, see swelling or hives, or experience other allergic reactions)
-- slowing of growth (height and weight) in children
-- problems passing urine including
-  - trouble starting or keeping a urine stream
-  - cannot fully empty the bladder
-
-Common side effects in children and teenagers include:
-
-- upset stomach
-- decreased appetite
-- nausea or vomiting
-- dizziness
-- tiredness
-- mood swings
-
-Common side effects in adults include:
-
-- constipation
-- dry mouth
-- nausea
-- decreased appetite
-- dizziness
-- sexual side effects
-- problems passing urine
-
-Other information for children, teenagers, and adults:
-
-- Erections that won’t go away (priapism) have occurred rarely during treatment with atomoxetine capsules.
-  If you have an erection that lasts more than 4 hours, seek medical help right away.
-  Because of the potential for lasting damage, including the potential inability to have erections, priapism should be evaluated by a doctor immediately.
-- Atomoxetine capsules may affect your ability or your child’s ability to drive or operate heavy machinery.
-  Be careful until you know how atomoxetine capsules affect you or your child.
-- Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
-
-This is not a complete list of possible side effects.
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store atomoxetine capsules?
-
-- Store atomoxetine capsules in a safe place at room temperature, 68° to 77°F (20° to 25°C).
-- Keep atomoxetine capsules and all medicines out of the reach of children.
-
-General information about atomoxetine capsules
-
-Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use atomoxetine capsules for a condition for which they were not prescribed.
-Do not give atomoxetine capsules to other people, even if they have the same condition.
-They may harm them.
-
-This Medication Guide summarizes the most important information about atomoxetine capsules.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about atomoxetine capsules that was written for healthcare professionals.
-For more information about atomoxetine capsules call 1-888-838-2872.
-
-What are the ingredients in atomoxetine capsules?
-
-Active ingredient: atomoxetine hydrochloride
-
-Inactive ingredients: black iron oxide, gelatin, potassium hydroxide, pregelatinized corn starch, propylene glycol, shellac, sodium lauryl sulfate, strong ammonia solution, and titanium dioxide.
-Additionally the 18 mg and 60 mg capsules contain D&C Yellow #10; the 25 mg, 40 mg, and 60 mg capsules contain FD&C Blue #1; and the 80 mg and 100 mg capsules contain red iron oxide and yellow iron oxide.
-
-Brands listed are the trademarks of their respective owners.
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Manufactured In Croatia By:
-
-Pliva Hrvatska d.o.o.
-
-Zagreb, Croatia
-
-Manufactured For:
-
-Teva Pharmaceuticals
-
-Parsippany, NJ 07054
-
-Rev.
-H 6/2022
+| MEDICATION GUIDE Atomoxetine (a″ toe mox′ e teen) Capsules for oral use |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| What is the most important information I should know about atomoxetine capsules?Atomoxetine capsules can cause serious side effects, including: Suicidal thoughts and actions in children 6 years of age and older. Atomoxetine capsules can increase the risk of suicidal thoughts and actions in children ages 6 and older with attention deficit hyperactivity disorder (ADHD), especially within the first few months of treatment or when the dose is changed. How can I watch for and try to prevent suicidal thoughts and actions? Pay close attention to, and tell your healthcare provider right away about, any changes, especially sudden changes, in mood, behavior, actions, thoughts, or feelings, or suicidal thoughts or actions. This is very important when atomoxetine capsules are started or when the dose is changed. Keep all follow-up visits with the healthcare provider as scheduled. Tell your healthcare provider about symptoms between visits as needed, especially if you have concerns. Tell your healthcare provider right away if any of the following symptoms develop during treatment, especially if they are new, worse, or worry you: |  |  |  |  |
+| anxiety | feeling agitated or restless |  |  | panic attacks |
+| trouble sleeping |  | irritability |  | hostility or being angry or violent |
+| acting aggressive |  | impulsivity |  | suicide attempts |
+| extreme increase in activity or talking (mania) |  | depression panic attacks |  | thoughts about suicide or dying |
+| unusual decrease in activity (hypomania) |  | restlessness or feeling like you have to move |  | other unusual changes in mood or behavior |
+| See “What are the possible side effects of atomoxetine capsules?” for more information about side effects. |  |  |  |  |
+| What are atomoxetine capsules?Atomoxetine capsules are a prescription medicine used to treat ADHD in adults and children 6 years of age and older. Atomoxetine capsules may help increase attention and decrease impulsiveness and hyperactivity in people with ADHD. Atomoxetine capsules should be used as a part of a total treatment program for ADHD that may include counseling or other therapies. It is not known if atomoxetine capsules are safe and effective in children less than 6 years old. |  |  |  |  |
+| Who should not take atomoxetine capsules? Do not take atomoxetine capsules if you or your child: are allergic to atomoxetine or any of the ingredients in atomoxetine capsules. See the end of this Medication Guide for a complete list of ingredients in atomoxetine capsules. are taking or have stopped taking within the past 14 days a medicine called a monoamine oxidase inhibitor (MAOI). have an eye problem called narrow angle glaucoma. have or had a rare tumor called pheochromocytoma.have severe heart or blood vessel problems that could get worse if your blood pressure or heart rate increases. |  |  |  |  |
+| Before taking atomoxetine capsules, tell your healthcare provider about all medical conditions, including if you or your child: have, or have a family history of, suicide thoughts or attempts, bipolar disorder, depression, mania, or hypomania. have liver problems.have, or have a family history of, heart problems, heart defects, irregular heartbeat, or sudden death. have high blood pressure or low blood pressure. have problems urinating such as trouble starting urination, weak stream, or not fully emptying the bladder. have glaucoma. are pregnant or plan to become pregnant. It is not known if atomoxetine capsules will harm the unborn baby. Tell your healthcare provider right away if you or your child become pregnant or plan to become pregnant during treatment with atomoxetine capsules.There is a pregnancy exposure registry for women who are exposed to ADHD medicines, including atomoxetine capsules, during pregnancy. The purpose of the registry is to collect information about the health of women exposed to atomoxetine capsules and their baby. If you or your child become pregnant during treatment with atomoxetine capsules, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD Medications at 1-866-961-2388 or visit online at https://womensmentalhealth.org/adhdmedications/. are breastfeeding or plan to breastfeed. It is not known if atomoxetine capsules passes into the breast milk. Talk to your healthcare provider about the best way to feed the baby during treatment with atomoxetine capsules. Tell your healthcare provider about all the medicines that you or your child take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. Atomoxetine capsules and some medicines may interact with each other and cause serious side effects. Your healthcare provider will decide whether atomoxetine capsules can be taken with other medicines. Especially tell your healthcare provider if you or your child take: a MAOI, including linezolid and intravenous methylene blue medicines that increase or decrease blood pressure asthma medicines Know the medicines you or your child take. Keep a list of your medicines to show your healthcare provider and pharmacist. Do not start any new medicines during treatment with atomoxetine capsules without talking to your healthcare provider first. |  |  |  |  |
+| How should I take atomoxetine capsules? Take atomoxetine capsules exactly as your healthcare provider tells you. Your healthcare provider may adjust the dose until it is right for you or your child. Take atomoxetine capsules with or without food. Swallow atomoxetine capsules whole. Do not open the capsules. Atomoxetine capsules are usually taken 1 time a day in the morning, or 2 times a day, in the morning and in the late afternoon or early evening. If you miss a dose of atomoxetine capsules, take the dose as soon as possible. Do not take more atomoxetine capsules than your healthcare provider prescribes in a 24-hour period.If you take too much atomoxetine capsules, call your healthcare provider or Poison Help line at 1-800-222-1222 or go to the nearest emergency room right away. |  |  |  |  |
+| What should I avoid while taking atomoxetine capsules? Do not drive or operate heavy machinery until you know how atomoxetine capsules affects you. Atomoxetine capsules can cause sleepiness.Do not get atomoxetine capsules in or near the eyes. Atomoxetine capsules can irritate the eyes. If atomoxetine capsules gets into the eyes, rinse them with water right away and tell your healthcare provider. If a capsule breaks, avoid touching the contents and wash your hands and any surfaces that they come in contact with as soon as possible. |  |  |  |  |
+| What are possible side effects of atomoxetine capsules? Atomoxetine capsules can cause serious side effects, including: See “What is the most important information I should know about atomoxetine capsules?”Severe liver damage. Your healthcare provider will check the blood levels of liver enzymes if symptoms of liver damage develop. Tell your healthcare provider right away if any of the following symptoms develop at any time during treatment: |  |  |  |  |
+| itching |  | right upper stomach pain |  | dark urine |
+| the skin or the white part of the eyes turns yellow |  | unexplained flu-like symptoms |  |  |
+| Serious heart-related side effects. Atomoxetine capsules may increase the risk of serious heart problems including sudden death, heart attack, and stroke in adults and children who have serious heart problems or heart defects. Your healthcare provider should check for heart problems before starting treatment with atomoxetine capsules. Stop taking atomoxetine capsules and tell your healthcare provider or get medical help right away if any of the following symptoms develop during treatment: |  |  |  |  |
+| chest pain |  | numbness of weakness, especially on one side of the body |  |  |
+| loss of consciousness (fainting) |  | slurred speech |  |  |
+| shortness of breath |  | vision changes |  |  |
+| heart palpitations or fast heart rate |  | severe headache |  |  |
+| Increases in blood pressure and heart rate. Your healthcare provider should check blood pressure and heart rate before starting treatment, if the dose is increased, and as needed during treatment. New psychotic problems, manic symptoms, or mania episodes. People with bipolar disorder, or who have a higher risk of developing bipolar disorder, have an increased risk of developing mania. Tell your healthcare provider if any of the following symptoms develop during treatment: |  |  |  |  |
+| greatly increased energy |  | severe trouble sleeping |  |  |
+| racing thoughts |  | reckless behavior |  |  |
+| unusually grand ideas |  | excessive happiness or irritability |  |  |
+| talking more or faster than usual |  | seeing or hearing things that are not real (hallucinations) |  |  |
+| unusual decrease in activity | depression |  |  |  |
+| Aggressive behavior or hostility. New or worsening aggressive behavior or hostility can happen during treatment. Allergic reactions. Tell your healthcare provider right away if trouble breathing, hives, rash, or swelling of the face, eyes, lips, or throat develop during treatment. Problems with urination. Atomoxetine capsules may cause problems with urination including decreased urine flow or trouble starting urination (urinary hesitation) or being unable to pass any urine (urinary retention). Tell your healthcare provider if any problems with urination develop during treatment. Painful and prolonged erections (priapism). Priapism has happened in male children and adults who take atomoxetine capsules. Priapism is a serious problem that can cause lasting damage to the penis and may require surgery. Tell your healthcare provider and get medical help right away if you or your child develop priapism during treatment. Effect on growth (height and weight) in children. Children should have their height and weight checked often during treatment. The most common side effects of atomoxetine capsules in children include: |  |  |  |  |
+| nausea |  | decreased appetite |  |  |
+| vomiting |  | stomach (abdominal) pain |  |  |
+| tiredness |  | sleepiness |  |  |
+| The most common side effects of atomoxetine capsules in adults include: |  |  |  |  |
+| constipation |  | dizziness |  |  |
+| dry mouth |  | erectile dysfunction |  |  |
+| nausea |  | urinary hesitation |  |  |
+| decreased appetite |  |  |  |  |
+| Atomoxetine capsules may cause sexual problems (dysfunction). Talk to your healthcare provider if any of the following symptoms develop: |  |  |  |  |
+| Symptoms in males may include: |  | Symptoms in females may include: |  |  |
+| delayed ejaculation or inability to have an ejaculation |  | decreased sex drive |  |  |
+| decreased sex drive |  | delayed orgasm or inability to have an orgasm |  |  |
+| problems getting or keeping an erection |  |  |  |  |
+| Your healthcare provider may stop atomoxetine capsules treatment if serious side effects develop during treatment. These are not all of the possible side effects atomoxetine capsules. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |  |
+| How should I store atomoxetine capsules? Store atomoxetine capsules at room temperature between 68° to 77°F (20° to 25°C). Keep atomoxetine capsules and all medicines out of the reach of children. |  |  |  |  |
+| General information about safe and effective use of atomoxetine capsules. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use atomoxetine capsules for a condition for which it was not prescribed. Do not give atomoxetine capsules to other people, even if they have the same condition. It may harm them. You can ask your pharmacist or healthcare provider for information about atomoxetine capsules that is written for health professionals. |  |  |  |  |
+| What are the ingredients in atomoxetine capsules?Active ingredient: atomoxetine hydrochloride. Inactive ingredients: black iron oxide, gelatin, potassium hydroxide, pregelatinized corn starch, propylene glycol, shellac, sodium lauryl sulfate, strong ammonia solution, and titanium dioxide. Additionally the 18 mg and 60 mg capsules contain D&C Yellow #10; the 25 mg, 40 mg, and 60 mg capsules contain FD&C Blue #1; and the 80 mg and 100 mg capsules contain red iron oxide and yellow iron oxide. Brands listed are the trademarks of their respective owners.Manufactured In Croatia By: Pliva Hrvatska d.o.o., Zagreb, CroatiaManufactured For: Teva Pharmaceuticals, Parsippany, NJ 07054 For more information about atomoxetine capsules, call Teva at 1-888-838-2872. |  |  |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. Rev. I 9/2026 |  |  |  |  |
