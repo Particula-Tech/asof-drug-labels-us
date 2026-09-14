@@ -39,7 +39,7 @@ Step 7: Check for air bubbles in the oral dosing syringe.
 If you see air bubbles, push up on the plungertowards the bottle just enough to remove any large air bubbles and then pullback to the measured dose (See Figure F).
 
 Step 8.
-Turn bottle upright again and place it in on your work surface.
+Turn bottle upright again and place it on your work surface.
 Remove the oral dosing syringe from the bottle (See Figure G). Do not push the plunger in during this step.
 The syringe adapter should stay attached to the bottle.
 
@@ -63,17 +63,21 @@ Wipe the outside dry.
 Do not put the oraldosing syringe through a sterilizer or dishwasher.
 
 Step 12: Place the bottle and the oral dosing syringe in the box.
+
 How should I store HEMANGEOL?
-When not in use, keep the bottle of HEMANGEOL and the oraldosing syringe in the box it comes in.
-Store HEMANGEOL at room temperature, between 68oF to 77oF (20oC to 25oC).
+
+When not in use, keep the bottle of HEMANGEOL and the oral dosing syringe in the box it comes in.
+
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted from 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 Do not freeze.
+
 Safely throw away any opened bottle of HEMANGEOL after 2 months, even ifthere is medicine left in the bottle.
 
 Keep HEMANGEOL and all medicines out of the reach of children.
 
-ThisInstructions for Use has been approved by the U.S. Food and Drug Administration.
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 Manufactured for: Eton Pharmaceuticals, Inc. Deer Park, IL 60010.
 
-PL-91-1.0
+PL-91-2.0
 
-Issue date: 03/2026
+Issue date: 07/2026

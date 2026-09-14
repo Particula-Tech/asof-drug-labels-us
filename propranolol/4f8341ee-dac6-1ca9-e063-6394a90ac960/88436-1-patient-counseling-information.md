@@ -41,4 +41,4 @@ Manufactured for:
 
 Eton Pharmaceuticals, Inc., Deer Park, IL 60010 ©2026 Eton Pharmaceuticals, Inc. All rights reserved.
 
-PL-94-2.0
+PL-94-6.0

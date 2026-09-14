@@ -42,7 +42,7 @@ These are not all the possible side effects of HEMANGEOL.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store HEMANGEOL? • Store HEMANGEOL at room temperature between 68°F to 77°F (20°C to 25°C).
+How should I store HEMANGEOL? • Store at 20°C to 25°C (68°F to 77°F); excursions permitted from 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 Do not freeze.
 Do not shake before use. • Safely throw away any opened bottle of HEMANGEOL after 2 months, even if there is medicine left in the bottle.
 Keep HEMANGEOL and all medicines out of the reach of children.
@@ -55,11 +55,14 @@ Do not give HEMANGEOL to other people, even if they have the same symptoms your 
 It may harm them.
 
 What are the ingredients in HEMANGEOL?
-Active ingredient: propranolol hydrochloride Inactive ingredients: strawberry flavor, vanilla flavor, hydroxyethylcellulose, saccharin sodium, citric acid monohydrate, and water.
-Manufactured for: Eton Pharmaceuticals, Inc., Deer Park, IL 60010 For more information, go to www.hemangeol.com
+Active ingredient: propranolol hydrochloride Inactive ingredients: citric acid monohydrate, hydroxyethylcellulose, strawberry/vanilla flavorings, saccharin sodium, and water.
+
+Manufactured for: Eton Pharmaceuticals, Inc., Deer Park, IL 60010
+
+For more information, go to www.hemangeol.com
 
 This Medication Guide has been approved by the U.S. Food and Administration
 
-Issued 03/2026
+Issued 07/2026
 
-PL-89-2.0
+PL-89-3.0

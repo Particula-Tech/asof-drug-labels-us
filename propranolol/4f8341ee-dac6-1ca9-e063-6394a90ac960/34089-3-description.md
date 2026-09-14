@@ -9,4 +9,4 @@ Its structural formula is shown in Figure 1:
 Propranolol hydrochloride is a stable, white, crystalline solid with a molecular weight of 295.8.
 It is readily soluble in water and ethanol.
 
-HEMANGEOL contains the following inactive ingredients: strawberry/vanilla flavorings, hydroxyethylcellulose, saccharin sodium, citric acid monohydrate, and water.
+HEMANGEOL contains the following inactive ingredients: citric acid monohydrate, hydroxyethylcellulose strawberry/vanilla flavorings, saccharin sodium, and water.
