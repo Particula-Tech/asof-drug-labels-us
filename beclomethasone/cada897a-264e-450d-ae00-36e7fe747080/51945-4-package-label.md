@@ -6,31 +6,15 @@
 
 NDC 59310-302-40
 
-QVAR
+QVAR RediHaler® (beclomethasone dipropionate HFA) Breath-Actuated Inhalation Aerosol
 
-RediHaler
+40 mcg FOR ORAL INHALATION ONLY 120 Metered Inhalations 10.6g NET CONTENTS
 
-(beclomethasone dipropionate HFA)
+Rx only
 
-Breath-Actuated Inhalation Aerosol
+Lift side flap for instructions on how to use and clean inhaler
 
-40 mcg
-
-For oral inhalation only
-
-Lift side flap
-
-for instructions on
-
-how to use inhaler
-
-120
-
-Metered
-
-Inhalations
-
-10.6g NET CONTENTS
+teva
 
 # 80 mcg Package/Label Display Panel Part 1 of 2
 
@@ -40,28 +24,12 @@ Inhalations
 
 NDC 59310-304-80
 
-QVAR
+QVAR RediHaler® (beclomethasone dipropionate HFA) Breath-Actuated Inhalation Aerosol
 
-RediHaler
+80 mcg FOR ORAL INHALATION ONLY 120 Metered Inhalations 10.6 NET CONTENTS
 
-(beclomethasone dipropionate HFA)
+Rx only
 
-Breath-Actuated Inhalation Aerosol
+Lift side flap for instructions on how to use and clean inhaler
 
-80 mcg
-
-For oral inhalation only
-
-Lift side flap
-
-for instructions on
-
-how to use inhaler
-
-120
-
-Metered
-
-Inhalations
-
-10.6g NET CONTENTS
+teva
