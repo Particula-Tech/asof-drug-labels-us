@@ -23,6 +23,9 @@ Two azithromycin 250 mg tablets are bioequivalent to a single 500 mg tablet.
 In a two-way crossover study, 12 adult healthy volunteers (6 males, 6 females) received 1500 mg of azithromycin administered in single daily doses over either 5 days (two 250 mg tablets on day 1, followed by one 250 mg tablet on days 2 to 5) or 3 days (500 mg per day for days 1 to 3).
 Due to limited serum samples on day 2 (3 day regimen) and days 2 to 4 (5 day regimen), the serum concentration-time profile of each subject was fit to a 3 compartment model and the AUC0-∞ for the fitted concentration profile was comparable between the 5 day and 3 day regimens.
 
+Table 11.
+Pharmacokinetic Parameters for Adult Patients Receiving a 3 Day and 5 Day Oral Regimen
+
 |  | 3 Day Regimen |  | 5 Day Regimen |  |
 | --- | --- | --- | --- | --- |
 | Pharmacokinetic Parameter [mean (SD)] | Day 1 | Day 3 | Day 1 | Day 5 |
@@ -52,11 +55,13 @@ As there are no data from adequate and well-controlled studies of azithromycin t
 
 Following a regimen of 500 mg on the first day and 250 mg daily for 4 days, very low concentrations were noted in cerebrospinal fluid (less than 0.01 mcg/mL) in the presence of noninflamed meninges.
 
+Elimination
+
 Metabolism
 
 In vitro and in vivo studies to assess the metabolism of azithromycin have not been performed.
 
-Elimination
+Excretion
 
 Plasma concentrations of azithromycin following single 500 mg oral and IV doses declined in a polyphasic pattern resulting in a mean apparent plasma clearance of 630 mL/min and terminal elimination half-life of 68 hr. The prolonged terminal half-life is thought to be due to extensive uptake and subsequent release of drug from tissues.
 Biliary excretion of azithromycin, predominantly as unchanged drug, is a major route of elimination.
@@ -67,8 +72,8 @@ Specific Populations
 Patients with Renal Impairment
 
 Azithromycin pharmacokinetics was investigated in 42 adults (21 to 85 years of age) with varying degrees of renal impairment.
-Following the oral administration of a single 1.0 g dose of azithromycin (4 x 250 mg capsules), mean Cmax and AUC0-120 increased by 5.1% and 4.2%, respectively, in subjects with mild to moderate renal impairment (GFR 10 to 80 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
-The mean Cmax and AUC0-120 increased 61% and 35%, respectively, in subjects with severe renal impairment (GFR <10 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
+Following the oral administration of a single 1.0 g dose of azithromycin (4 x 250 mg capsules), mean Cmax and AUC0-120 increased by 5.1% and 4.2%, respectively, in subjects with GFR 10 to 80 mL/min compared to subjects with GFR >80 mL/min.
+The mean Cmax and AUC0-120 increased 61% and 35%, respectively, in subjects with GFR <10 mL/min compared to subjects with GFR >80 mL/min.
 
 Patients with Hepatic Impairment
 
@@ -93,7 +98,10 @@ In another study, 33 pediatric patients received doses of 12 mg/kg/day (maximum 
 In this study, azithromycin concentrations were determined over a 24 hr period following the last daily dose.
 Patients weighing above 41.7 kg received the maximum adult daily dose of 500 mg.
 Seventeen patients (weighing 41.7 kg or less) received a total dose of 60 mg/kg.
-The following table shows pharmacokinetic data in the subset of pediatric patients who received a total dose of 60 mg/kg.
+The table 12 shows pharmacokinetic data in the subset of pediatric patients who received a total dose of 60 mg/kg.
+
+Table 12.
+Pharmacokinetic Parameters for Pediatric Patients Receiving 12 mg/kg/day (5-day Regimen)
 
 | Pharmacokinetic Parameter [mean (SD)] | 5 Day Regimen (12 mg/kg for 5 days) |
 | --- | --- |
@@ -107,16 +115,16 @@ Single dose pharmacokinetics of azithromycin in pediatric patients given doses o
 Drug Interaction Studies
 
 Drug interaction studies were performed with azithromycin and other drugs likely to be coadministered.
-The effects of coadministration of azithromycin on the pharmacokinetics of other drugs are shown in Table 1 and the effects of other drugs on the pharmacokinetics of azithromycin are shown in Table 2.
+The effects of coadministration of azithromycin on the pharmacokinetics of other drugs are shown in Table 13 and the effects of other drugs on the pharmacokinetics of azithromycin are shown in Table 14.
 
-Coadministration of azithromycin at therapeutic doses had a modest effect on the pharmacokinetics of the drugs listed in Table 1.
-No dosage adjustment of drugs listed in Table 1 is recommended when coadministered with azithromycin.
+Coadministration of azithromycin at therapeutic doses had a modest effect on the pharmacokinetics of the drugs listed in Table 13.
+No dosage adjustment of drugs listed in Table 13 is recommended when coadministered with azithromycin.
 
 Coadministration of azithromycin with efavirenz or fluconazole had a modest effect on the pharmacokinetics of azithromycin.
 Nelfinavir significantly increased the Cmax and AUC of azithromycin.
-No dosage adjustment of azithromycin is recommended when administered with drugs listed in Table 2 [see Drug Interactions (7.3)].
+No dosage adjustment of azithromycin is recommended when administered with drugs listed in Table 14 [see Drug Interactions (7.3)].
 
-Table 1.
+Table 13.
 Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Presence of Azithromycin
 
 | Coadministered Drug | Dose of Coadministered Drug | Dose of Azithromycin | n | Ratio (with/without azithromycin) of Coadministered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |
@@ -141,7 +149,7 @@ Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Pr
 
 * -90% Confidence interval not reported
 
-Table 2.
+Table 14.
 Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Coadministered Drugs.
 [see Drug Interactions (7)]
 
@@ -151,6 +159,7 @@ Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence o
 | Efavirenz | 400 mg/day for 7 days | 600 mg orally on day 7 | 14 | 1.22(1.04 to 1.42) | 0.92* |
 | Fluconazole | 200 mg orally single dose | 1200 mg orally single dose | 18 | 0.82(0.66 to 1.02) | 1.07(0.94 to 1.22) |
 | Nelfinavir | 750 mg three times a day for 11 days | 1200 mg orally on day 9 | 14 | 2.36(1.77 to 3.15) | 2.12(1.80 to 2.50) |
+| Oral Antacids (Aluminum Hydroxide, Magnesium Hydroxide) | 1350 mg aluminum hydroxide and 1200 mg of magnesium hydroxide single dose on day 1 or day 8 | 500 mg orally on day 1 and day 8 | 10 | 0.765* | 0.984* |
 
 * -90% Confidence interval not reported
 
