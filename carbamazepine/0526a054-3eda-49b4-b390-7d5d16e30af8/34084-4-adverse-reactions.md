@@ -11,7 +11,7 @@ The following additional adverse reactions have been reported:
 
 Hemopoietic System:Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda.
 
-Skin:TEN and SJS (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, onychomadesis and hirsutism.
+Skin:TEN and SJS (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, fixed drug eruption, generalized bullous fixed drug eruption, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, onychomadesis and hirsutism.
 In certain cases, discontinuation of therapy may be necessary.
 
 Cardiovascular System:Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g., pulmonary embolism), and adenopathy or lymphadenopathy.
@@ -23,7 +23,7 @@ Liver:Abnormalities in liver function tests, cholestatic and hepatocellular jaun
 
 Pancreatic:Pancreatitis.
 
-Respiratory System:Pulmonary hypersensitivity characterized by fever, dyspnea, pneumonitis or pneumonia.
+Respiratory System:Pulmonary hypersensitivity characterized by fever, dyspnea, pneumonitis, or pneumonia.
 
 Genitourinary System:Urinary frequency, acute urinary retention, oliguria with elevated blood pressure, azotemia, renal failure, and impotence.
 Albuminuria, glycosuria, elevated BUN, and microscopic deposits in the urine have also been reported.

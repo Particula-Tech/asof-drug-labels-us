@@ -6,8 +6,6 @@ Dispense the accompanying medication guide to each patient.
 
 Carbamazepine Tablets USP (Chewable) 100 mg
 
-TARO
-
 Keep this and all drugs out of the reach of children.
 
 Rx only
@@ -19,8 +17,6 @@ NDC 51672-4050-1 100 Tablets
 Dispense the accompanying medication guide to each patient.
 
 Carbamazepine Tablets USP (Chewable) 200 mg
-
-TARO
 
 Keep this and all drugs out of the reach of children.
 

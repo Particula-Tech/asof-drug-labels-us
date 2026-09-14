@@ -16,13 +16,15 @@ Carbamazepine can cause serious side effects, including:
 
 1. Carbamazepine may cause rare but serious skin rashes that may lead to death.
    These serious skin reactions are more likely to happen when you begin taking carbamazepine within the first four months of treatment but may occur at later times.
-   These reactions can happen in anyone, but are more likely in people of Asian descent.
+   These reactions can happen in anyone, but some types of skin reactions are more likely in people of Asian descent.
    If you are of Asian descent, you may need a genetic blood test before you take carbamazepine to see if you are at a higher risk for serious skin reactions with this medicine.
-   Symptoms may include:
+   Reactions may include:
    - skin rash
    - hives
    - sores in your mouth
    - blistering or peeling of the skin
+   - round or oval patches, which can include redness, swelling, blistering, itching, peeling or darkening of the skin, that appear in the same place on your body as when you took carbamazepine in the past.
+     This may progress to a serious reaction.
 2. Carbamazepine may cause rare but serious blood problems.
    Symptoms may include:
    - fever, sore throat, or other infections that come and go or do not go away
@@ -45,10 +47,12 @@ Carbamazepine can cause serious side effects, including:
    - severe fatigue or weakness
    - severe muscle pain
 4. Carbamazepine oral suspension contains 50 mg propylene glycol in each mL.
-   Your healthcare provider will monitor you for side effects of propylene glycol, especially if you are younger than 5 years of age (particularly babies less than 4 weeks old), you have liver or kidney problems, or you are taking other drugs that have propylene glycol or that arebroken down by the same enzyme.
+   Your healthcare provider will monitor you for side effects of propylene glycol, especially if you are younger than 5 years of age (particularly babies less than 4 weeks old), you have liver or kidney problems, or you are taking other drugs that have propylene glycol or that are broken down by the same enzyme.
 
 5.
 Like other antiepileptic drugs, carbamazepine may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+
+Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
 - thoughts about suicide or dying
 - attempts to commit suicide
@@ -63,7 +67,10 @@ Like other antiepileptic drugs, carbamazepine may cause suicidal thoughts or act
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
 
-1. Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+6.
+Carbamazepine can cause abnormal heart rhythms, which may be life-threatening.
+This risk may be increased in patients with underlying heart problems.
+Call your healthcare provider right away if you have: • Fast, slow, or pounding heartbeat • Loss of consciousness (fainting) • Dizziness • Chest pain • Shortness of breath
 
 How can I watch for early symptoms of suicidal thoughts and actions?
 
@@ -111,6 +118,7 @@ Before you take carbamazepine, tell your healthcare provider if you:
 - have or ever had blood problems
 - have or ever had liver problems
 - have or ever had kidney problems
+- have ever had a skin reaction to carbamazepine
 - have or ever had allergic reactions to medicines
 - have or ever had increased pressure in your eye
 - have any other medical conditions
@@ -149,7 +157,7 @@ How should I take carbamazepine?
 - Take carbamazepine with food.
 - Carbamazepine extended-release tablets:
   - Do not crush, chew, or break carbamazepine extended-release tablets.
-  - Tell your healthcare provider if you can not swallow carbamazepine extended-release tablets whole.
+  - Tell your healthcare provider if you cannot swallow carbamazepine extended-release tablets whole.
 - Carbamazepine oral suspension:
   - Shake the bottle well each time before use.
   - Do not take carbamazepine oral suspension at the same time you take other liquid medicines.
@@ -169,11 +177,6 @@ See " What is the most important information I should know about carbamazepine?"
 Carbamazepine may cause other serious side effects.
 These include:
 
-- Irregular heartbeat - symptoms include:
-  - Fast, slow, or pounding heartbeat
-  - Shortness of breath
-  - Feeling lightheaded
-  - Fainting
 - Liver problems - symptoms include:
   - yellowing of your skin or the whites of your eyes
   - dark urine
@@ -202,14 +205,14 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store carbamazepine?
 
-- Store Carbamazepine Tabletsat 20° to 25°C (68° to 77°F).
+- Store Carbamazepine Tablets at 20° to 25°C (68° to 77°F).
   - Keep Carbamazepine Tablets dry.
-- Store Carbamazepine Tablets (Chewable)at 20° to 25°C (68° to 77°F).
+- Store Carbamazepine Tablets (Chewable) at 20° to 25°C (68° to 77°F).
   - Keep Carbamazepine Tablets (Chewable) out of the light.
   - Keep Carbamazepine Tablets (Chewable) dry.
-- Store Carbamazepine Extended-Release Tabletsat 20° to 25°C (68° to 77°F).
+- Store Carbamazepine Extended-Release Tablets at 20° to 25°C (68° to 77°F).
   - Keep Carbamazepine Extended-Release Tablets dry.
-- Store Carbamazepine Oral Suspensionat 20° to 25°C (68° to 77°F).
+- Store Carbamazepine Oral Suspension at 20° to 25°C (68° to 77°F).
   - Shake well before using.
   - Keep Carbamazepine Oral Suspension in a tight, light-resistant container.
 
@@ -226,7 +229,6 @@ This Medication Guide summarizes the most important information about carbamazep
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for the full prescribing information about carbamazepine that is written for health professionals.
 
-for health professionals.
 For more information, go to https://www.sunpharma.com/usa/products or call 1-866-923-4914.
 
 What are the ingredients in carbamazepine?
@@ -235,10 +237,10 @@ Active ingredient: carbamazepine
 
 Inactive ingredients:
 
-- Carbamazepine Tablets, (Chewable), 100 mg and 200 mg– ammonio methacrylate copolymer, croscarmellose sodium, diethyl phthalate, FD&C red no. 40 lake, magnesium stearate, microcrystalline cellulose, natural cherry flavor, pregelatinized maize starch and sorbitol.
-- Carbamazepine Tablets, 200 mg– ammonio methacrylate copolymer, corn starch, croscarmellose sodium, diethyl phthalate, magnesium stearate and microcrystalline cellulose.
-- Carbamazepine Extended-Release Tablets, 100 mg, 200 mg, and 400 mg– ammonio methacrylate copolymer, corn starch, diethyl phthalate, lactose monohydrate, magnesium stearate, microcrystalline cellulose and sodium starch glycolate.
-- Carbamazepine Oral Suspension, 100 mg/5 mL– citric acid monohydrate, FD&C yellow no. 6, orange flavor, poloxamer 188, potassium sorbate, propylene glycol (50 mg/mL), purified water, sorbitol solution, sucrose and xanthan gum.
+- Carbamazepine Tablets, (Chewable), 100 mg and 200 mg – ammonio methacrylate copolymer, croscarmellose sodium, diethyl phthalate, FD&C red no. 40 lake, magnesium stearate, microcrystalline cellulose, natural cherry flavor, pregelatinized maize starch and sorbitol.
+- Carbamazepine Tablets, 200 mg – ammonio methacrylate copolymer, corn starch, croscarmellose sodium, diethyl phthalate, magnesium stearate and microcrystalline cellulose.
+- Carbamazepine Extended-Release Tablets, 100 mg, 200 mg, and 400 mg – ammonio methacrylate copolymer, corn starch, diethyl phthalate, lactose monohydrate, magnesium stearate, microcrystalline cellulose and sodium starch glycolate.
+- Carbamazepine Oral Suspension, 100 mg/5 mL – citric acid monohydrate, FD&C yellow no. 6, orange flavor, poloxamer 188, potassium sorbate, propylene glycol (50 mg/mL), purified water, sorbitol solution, sucrose and xanthan gum.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -246,6 +248,6 @@ Manufactured by: Taro Pharmaceutical Industries Ltd.
 
 Haifa Bay, Israel 2624761 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-Revised: November 2025
+Revised: August 2026
 
-5201175-1125-14 1154
+5201175-0826-15 1154
