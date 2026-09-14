@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA016324"
+  ],
+  "inn": "azathioprine",
+  "labeler": "Legacy Pharma USA Inc.",
+  "package_ndcs": [
+    "83107-025-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "azathioprine",
+      "name": "IMURAN"
+    }
+  ],
+  "setid": "4d62b6e4-a9d4-4818-e063-6394a90aa208",
+  "source": "dailymed"
+}
