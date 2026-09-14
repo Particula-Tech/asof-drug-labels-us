@@ -8,9 +8,15 @@ Biktarvy®
 
 (bictegravir, emtricitabine, and tenofovir alafenamide) tablets
 
-50 mg/ 200 mg/ 25 mg
+50 mg / 200 mg / 25 mg
+
+Note to pharmacist: Do not cover ALERT box with pharmacy label.
+
+ALERT: Find out about medicines that should NOT be taken with Biktarvy
 
 Rx only
+
+© 2023 Gilead Sciences, Inc.
 
 GILEAD
 
@@ -58,7 +64,13 @@ Biktarvy®
 
 30 mg/120 mg/15 mg
 
+Note to pharmacist: Do not cover ALERT box with pharmacy label.
+
+ALERT: Find out about medicines that should NOT be taken with Biktarvy
+
 Rx only
+
+© 2025 Gilead Sciences, Inc.
 
 GILEAD
 
@@ -74,6 +86,12 @@ Biktarvy®
 
 30 mg/120 mg/15 mg
 
+Note to pharmacist: Do not cover ALERT box with pharmacy label.
+
+ALERT: Find out about medicines that should NOT be taken with Biktarvy
+
 Rx only
+
+© 2026 Gilead Sciences, Inc.
 
 GILEAD
