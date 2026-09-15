@@ -9,8 +9,8 @@ EACH CARTON IS FOR SINGLE-EYE USE ONLY.
 
 ## 16.2 Storage and Handling
 
-Store LYTENAVA refrigerated at 2ºC to 8ºC (36ºF to 46ºF) in the original carton until use to protect from light.
+Store LYTENAVA refrigerated at 2º C to 8º C (36º F to 46º F) in the original carton until use to protect from light.
 DO NOT FREEZE.
 
-Prior to use, the unopened glass vial of LYTENAVA may be kept at room temperature, 20ºC to 25ºC (68ºF to 77ºF), for up to 12 hours.
+Prior to use, the unopened glass vial of LYTENAVA may be kept at room temperature, 20º C to 25º C (68º F to 77º F), for up to 12 hours.
 Ensure the injection is given immediately after preparation of the dose.

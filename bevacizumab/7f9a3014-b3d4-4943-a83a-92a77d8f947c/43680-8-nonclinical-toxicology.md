@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long term studies in animals have not been performed to evaluate the carcinogenic potential of LYTENAVA.
+Long-term studies in animals have not been performed to evaluate the carcinogenic potential of LYTENAVA.
 Based on the anti-VEGF mechanism of action, LYTENAVA may pose a risk to reproductive capacity [see Use in Specific Populations (8.3)].
 
 ## 13.2 Animal Toxicology and/or Pharmacology

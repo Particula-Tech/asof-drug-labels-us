@@ -10,7 +10,7 @@ Inhibition of such activity targets a pathophysiologic process that contributes 
 
 ## 12.2 Pharmacodynamics
 
-Increased retinal thickness (e.g., central foveal thickness (CFT)) and leakage of blood and fluid from choroidal neovascularization is associated with nAMD.
+Increased retinal thickness (e.g., central foveal thickness [CFT]) and leakage of blood and fluid from choroidal neovascularization are associated with nAMD.
 CFT is known to be a reproducible, early indication of pharmacodynamic response to anti-VEGF treatments.
 
 Changes in CFT were assessed using optical coherence tomography in NORSE TWO and NORSE EIGHT [see Clinical Studies (14)].
@@ -30,5 +30,5 @@ However, due to the limited sample collection, Cmax or AUC could not be adequate
 The observed incidence of anti-drug antibodies (ADA) is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of ADA in the studies described below with the incidence of ADA in other studies, including those of LYTENAVA or of other bevacizumab products.
 
-In a 52-week study, a total of 14 subjects who received LYTENAVA and were subsequently evaluated for immunogenicity did not show detectable ADA at any timepoint but the ADA assay sensitivity data in the presence of free drug was insufficient.
+In a 52-week study, a total of 14 subjects who received LYTENAVA and were subsequently evaluated for immunogenicity did not show detectable ADA at any timepoint, but the ADA assay sensitivity data in the presence of free drug was insufficient.
 However, due to the minimal systemic exposure to LYTENAVA following intravitreal injection, the risk of immunogenicity is not expected to be clinically significant.

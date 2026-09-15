@@ -11,12 +11,12 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in one clinical trial of a drug cannot be directly compared with rates in the clinical trials of the same or another drug and may not reflect the rates observed in practice.
 
-The data described below reflect exposure to LYTENAVA in 601 patients, in five clinical trials [see Clinical Studies (14)].
+The data described below reflect exposure to LYTENAVA in 601 patients in five clinical trials [see Clinical Studies (14)].
 
-Table 1 shows the most common ocular adverse reactions in LYTENAVA treated patients compared with ranibizumab 0.5 mg.
+Table 1 shows the most common ocular adverse reactions in patients treated with LYTENAVA compared with ranibizumab 0.5 mg.
 
 Table 1.
-Common Adverse Reactions (≥ 1%)
+Common Adverse Reactions (≥1%)
 
 | Adverse Reactions | LYTENAVA 1.25 mg (N = 601) | Ranibizumab 0.5 mg (N = 345) |
 | --- | --- | --- |

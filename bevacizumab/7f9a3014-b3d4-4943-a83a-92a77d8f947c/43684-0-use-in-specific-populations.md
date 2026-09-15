@@ -16,7 +16,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Risk Summary
 
-There are no data available on the presence of bevacizumab-vikg in human milk, the effects of bevacizumab-vikg on the breastfed infant or the effects of bevacizumab-vikg on milk production/excretion.
+There are no data available on the presence of bevacizumab-vikg in human milk, the effects of bevacizumab-vikg on the breastfed infant, or the effects of bevacizumab-vikg on milk production/excretion.
 
 Because many drugs are excreted in human milk, and because the potential for absorption and harm to infant growth and development exists, caution should be exercised when LYTENAVA is administered to a nursing woman.
 
@@ -27,7 +27,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 Contraception Females of reproductive potential should use effective contraception during treatment with LYTENAVA and for at least 3 months after the last dose when stopping treatment with LYTENAVA.
 
 Infertility There are no data regarding the effects of LYTENAVA on human fertility.
-Based on the anti-VEGF mechanism of action LYTENAVA may pose a risk to reproductive capacity [see Clinical Pharmacology (12.1)].
+Based on the anti-VEGF mechanism of action, LYTENAVA may pose a risk to reproductive capacity [see Clinical Pharmacology (12.1)].
 
 ## 8.4 Pediatric Use
 
@@ -35,5 +35,5 @@ The safety and effectiveness of LYTENAVA in pediatric patients have not been est
 
 ## 8.5 Geriatric Use
 
-In the three completed Phase 3 clinical studies, approximately 70% (238/341) of patients treated with LYTENAVA were ≥ 65 years of age and approximately 47 % (160/341) were ≥ 75 years of age.
+In the three completed Phase 3 clinical studies, approximately 70% (238/341) of patients treated with LYTENAVA were ≥65 years of age and approximately 47% (160/341) were ≥75 years of age.
 No overall differences in efficacy or safety were seen with increasing age in these studies [see Clinical Studies (14)].

@@ -5,9 +5,9 @@
 FOR OPHTHALMIC INTRAVITREAL INJECTION.
 LYTENAVA must only be administered by a qualified physician.
 
-A 5-micron sterile filter needle (18-gauge x 1½-inch), a 1-mL syringe (with marking to measure 0.05 mL), and a 30-gauge x ½-inch sterile injection needle are needed.
+A 5-micron sterile filter needle (18-gauge x 1½-inch), a 1 mL syringe (with marking to measure 0.05 mL), and a 30-gauge x ½-inch sterile injection needle are needed.
 
-## 2.2 Neovascular (Wet) Age-Related Macular Degeneration
+## 2.2 Neovascular (Wet) Age-Related Macular Degeneration (nAMD)
 
 The recommended dose for LYTENAVA is 1.25 mg (0.05 mL of 25 mg/mL) administered by intravitreal injection once monthly (approximately 28 days).
 
@@ -57,4 +57,4 @@ Monitoring may also consist of a check for perfusion of the optic nerve head imm
 Patients should also be monitored for and instructed to report any symptoms suggestive of endophthalmitis without delay following the injection [see Warnings and Precautions (5.1)].
 
 Each single-dose vial should only be used for the treatment of a single eye.
-If the contralateral eye requires treatment, a new vial should be used and the sterile field, syringe, gloves, drapes, eyelid speculum, filter needle, and injection needles should be changed before LYTENAVA is administered to the other eye.
+If the contralateral eye requires treatment, a new vial should be used, and the sterile field, syringe, gloves, drapes, eyelid speculum, filter needle, and injection needles should be changed before LYTENAVA is administered to the other eye.
