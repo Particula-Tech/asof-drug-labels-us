@@ -6,7 +6,7 @@ Infections and Infestations: Clostridioides difficile colitis
 
 Gastrointestinal: Abdominal pain, pseudomembranous colitis, nausea, vomiting, and diarrhea (See BOXED WARNING).
 The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment (See WARNINGS).
-Esophagitis and esophageal ulcer have been reported, particularly when taken in a lying position or with a small amount of water.
+Esophagitis (including necrotizing esophagitis) and esophageal ulcer have been reported, particularly when taken in a lying position or with a small amount of water.
 An unpleasant or metallic taste has been reported after oral administration.
 
 Hypersensitivity Reactions: Generalized mild to moderate morbilliform-like (maculopapular) skin rashes are the most frequently reported adverse reactions.
