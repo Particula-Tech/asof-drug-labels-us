@@ -20,6 +20,6 @@ Caution is indicated when zoledronic acid injection is used with other potential
 
 ## 7.4 Drugs Primarily Excreted by the Kidney
 
-Renal impairment has been observed following the administration of zoledronic acid in patients with pre-existing renal compromise or other risk factors [see Warnings and Precautions (5.3)].
+Renal impairment has been observed following the administration of zoledronic acid in patients with preexisting renal compromise or other risk factors [see Warnings and Precautions (5.3)].
 In patients with renal impairment, the exposure to concomitant medications that are primarily renally excreted (e.g., digoxin) may increase.
 Consider monitoring serum creatinine in patients at risk for renal impairment who are taking concomitant medications that are primarily excreted by the kidney.

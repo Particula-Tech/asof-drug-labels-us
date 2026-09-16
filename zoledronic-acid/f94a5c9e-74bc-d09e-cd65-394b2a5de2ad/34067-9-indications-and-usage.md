@@ -26,8 +26,7 @@ Treatment is indicated in patients with Paget’s disease of bone with elevation
 ## 1.6 Important Limitations of Use
 
 The safety and effectiveness of zoledronic acid injection for the treatment of osteoporosis is based on clinical data of three years duration.
-
 The optimal duration of use has not been determined.
-All patients on bisphosphonate therapy should have the need for continued therapy re-evaluated on a periodic basis.
+All patients on bisphosphonate therapy should have the need for continued therapy reevaluated on a periodic basis.
 Patients at low-risk for fracture should be considered for drug discontinuation after 3 to 5 years of use.
 Patients who discontinue therapy should have their risk for fracture re-evaluated periodically.

@@ -1,12 +1,22 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse drug reactions are described elsewhere in the labeling:
+
+- Drugs with Same Active Ingredient [see Warnings and Precautions (5.1)]
+- Hypocalcemia and Mineral Metabolism [see Warnings and Precautions (5.2)]
+- Renal Impairment [see Warnings and Precautions (5.3)]
+- Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
+- Atypical Fractures Including Femoral Fractures [see Warnings and Precautions (5.5)]
+- Musculoskeletal Pain [see Warnings and Precautions (5.6)]
+- Patients with Asthma [see Warnings and Precautions (5.7)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Treatment of Osteoporosis in Postmenopausal Women
 
-The safety of zoledronic acid injection in the treatment of postmenopausal osteoporosis was assessed in Study 1, a large, randomized, double-blind, placebo-controlled, multinational study of 7736 postmenopausal women aged 65 to 89 years with osteoporosis, diagnosed by bone mineral density or the presence of a prevalent vertebral fracture.
+The safety of zoledronic acid injection in the treatment of postmenopausal osteoporosis was assessed in Study 1, a large, randomized, double-blind, placebo-controlled, multinational study of 7736 postmenopausal women aged 65 to 89 years with osteoporosis, diagnosed by BMD or the presence of a prevalent vertebral fracture.
 The duration of the trial was three years with 3862 patients exposed to zoledronic acid injection and 3852 patients exposed to placebo administered once annually as a single 5 mg dose in 100 mL solution infused over at least 15 minutes, for a total of three doses.
 All women received 1000 to 1500 mg of elemental calcium plus 400 to 1200 international units of vitamin D supplementation per day.
 
@@ -15,7 +25,6 @@ The incidence of serious adverse events was 29.2% in the zoledronic acid injecti
 The percentage of patients who withdrew from the study due to adverse events was 5.4% and 4.8% for the zoledronic acid injection and placebo groups, respectively.
 
 The safety of zoledronic acid injection in the treatment of osteoporosis patients with a recent (within 90 days) low-trauma hip fracture was assessed in Study 2, a randomized, double-blind, placebo-controlled, multinational endpoint-driven study of 2127 men and women aged 50 to 95 years; 1065 patients were randomized to zoledronic acid injection and 1062 patients were randomized to placebo.
-
 Zoledronic acid injection was administered once annually as a single 5 mg dose in 100 mL solution infused over at least 15 minutes.The study continued until at least 211 patients had a confirmed clinical fracture in the study population who were followed for an average of approximately 2 years on study drug.
 Vitamin D levels were not routinely measured but a loading dose of vitamin D (50,000 to 125,000 international units orally or IM) was given to patients and they were started on 1000 to 1500 mg of elemental calcium plus 800 to 1200 international units of vitamin D supplementation per day for at least 14 days prior to the study drug infusions.
 
@@ -26,9 +35,9 @@ The percentage of patients who withdrew from the study due to adverse events was
 Adverse reactions reported in at least 2% of patients with osteoporosis and more frequently in the zoledronic acid injection-treated patients than placebo-treated patients in either osteoporosis trial are shown below in Table 1.
 
 Table 1.
-Adverse Reactions Occurring in greater than or equal to 2.0% of Patients with Osteoporosis and More Frequently than in Placebo-Treated Patients
+Adverse Reactions Occurring in Greater Than or Equal to 2.0% of Patients with Osteoporosis and More Frequently Than in Placebo-Treated Patients
 
-| Study 1 |  |  | Study 2 |  |
+|  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
 |  | 5 mg IV Zoledronic acid injection | Placebo | 5 mg IV Zoledronic acid injection | Placebo |
 | System Organ Class | once per year% (N = 3862) | once per year%(N = 3852) | once per year% (N = 1054) | once per year%(N = 1057) |
@@ -50,31 +59,33 @@ Adverse Reactions Occurring in greater than or equal to 2.0% of Patients with Os
 | Nausea | 8.5 | 5.2 | 4.5 | 4.5 |
 | Diarrhea | 6.0 | 5.6 | 5.2 | 4.7 |
 | Vomiting | 4.6 | 3.2 | 3.4 | 3.4 |
-| Abdominal Pain Upper | 4.6 | 3.1 | 0.9 | 1.5 |
+| Abdominal pain upper | 4.6 | 3.1 | 0.9 | 1.5 |
 | Dyspepsia | 4.3 | 4.0 | 1.7 | 1.6 |
 | Musculoskeletal, Connective Tissue and Bone Disorders |  |  |  |  |
 | Arthralgia | 23.8 | 20.4 | 17.9 | 18.3 |
 | Myalgia | 11.7 | 3.7 | 4.9 | 2.7 |
-| Pain in Extremity | 11.3 | 9.9 | 5.9 | 4.8 |
-| Shoulder Pain | 6.9 | 5.6 | 0.0 | 0.0 |
-| Bone Pain | 5.8 | 2.3 | 3.2 | 1.0 |
-| Neck Pain | 4.4 | 3.8 | 1.4 | 1.1 |
-| Muscle Spasms | 3.7 | 3.4 | 1.5 | 1.7 |
+| Pain in extremity | 11.3 | 9.9 | 5.9 | 4.8 |
+| Shoulder pain | 6.9 | 5.6 | 0.0 | 0.0 |
+| Bone pain | 5.8 | 2.3 | 3.2 | 1.0 |
+| Neck pain | 4.4 | 3.8 | 1.4 | 1.1 |
+| Muscle spasms | 3.7 | 3.4 | 1.5 | 1.7 |
 | Osteoarthritis | 9.1 | 9.7 | 5.7 | 4.5 |
-| Musculoskeletal Pain | 0.4 | 0.3 | 3.1 | 1.2 |
-| General Disorders and Administrative Site Conditions |  |  |  |  |
+| Musculoskeletal pain | 0.4 | 0.3 | 3.1 | 1.2 |
+| General Disorders and Administrative-Site Conditions |  |  |  |  |
 | Pyrexia | 17.9 | 4.6 | 8.7 | 3.1 |
-| Influenza-like Illness | 8.8 | 2.7 | 0.8 | 0.4 |
+| Influenza-like illness | 8.8 | 2.7 | 0.8 | 0.4 |
 | Fatigue | 5.4 | 3.5 | 2.1 | 1.2 |
 | Chills | 5.4 | 1.0 | 1.5 | 0.5 |
 | Asthenia | 5.3 | 2.9 | 3.2 | 3.0 |
-| Peripheral Edema | 4.6 | 4.2 | 5.5 | 5.3 |
+| Peripheral edema | 4.6 | 4.2 | 5.5 | 5.3 |
 | Pain | 3.3 | 1.3 | 1.5 | 0.5 |
 | Malaise | 2.0 | 1.0 | 1.1 | 0.5 |
 | Hyperthermia | 0.3 | <0.1 | 2.3 | 0.3 |
-| Chest Pain | 1.3 | 1.1 | 2.4 | 1.8 |
+| Chest pain | 1.3 | 1.1 | 2.4 | 1.8 |
 | Investigations |  |  |  |  |
-| Creatinine Renal Clearance Decreased | 2.0 | 2.4 | 2.1 | 1.7 |
+| Creatinine renal clearance decreased | 2.0 | 2.4 | 2.1 | 1.7 |
+
+Abbreviation: IV, intravenous or intravenously.
 
 Renal Impairment
 
@@ -85,7 +96,7 @@ Overall, there was a transient increase in serum creatinine observed within 10 d
 
 Acute Phase Reaction
 
-The signs and symptoms of acute phase reaction occurred in Study 1 following zoledronic acid injection infusion including fever (18%), myalgia (9%), flu-like symptoms (8%), headache (7%), and arthralgia (7%).
+The signs and symptoms of acute phase reaction occurred in Study 1 following zoledronic acid injection infusion, including fever (18%), myalgia (9%), flu-like symptoms (8%), headache (7%), and arthralgia (7%).
 The majority of these symptoms occurred within the first 3 days following the dose of zoledronic acid injection and usually resolved within 3 days of onset but resolution could take up to 7-14 days.
 In Study 2, patients without a contraindication to acetaminophen were provided with a standard oral dose at the time of the IV infusion and instructed to use additional acetaminophen at home for the next 72 hours as needed.
 Zoledronic acid injection was associated with fewer signs and symptoms of a transient acute phase reaction in this trial: fever (7%) and arthralgia (3%).
@@ -126,7 +137,6 @@ Prevention of Osteoporosis in Postmenopausal Women
 The safety of zoledronic acid injection in postmenopausal women with osteopenia (low bone mass) was assessed in a 2-year randomized, multi-center, double-blind, placebo-controlled study of 581 postmenopausal women aged greater than or equal to 45 years.
 Patients were randomized to one of three treatment groups: (1) zoledronic acid injection given at randomization and Month 12 (n =198); (2) zoledronic acid injection given at randomization and placebo at Month 12 (n = 181); and (3) placebo given at randomization and Month 12 (n = 202).
 Zoledronic acid injection was administered as a single 5 mg dose in 100 mL solution infused over at least 15 minutes.
-
 All women received 500 to 1200 mg elemental calcium plus 400 to 800 international units vitamin D supplementation per day.
 
 The incidence of serious adverse events was similar for subjects given (1) zoledronic acid injection at randomization and at Month 12 (10.6%), (2) zoledronic acid injection at randomization and placebo given at Month 12 (9.4%), and (3) placebo at randomization and at Month 12 (11.4%).
@@ -134,35 +144,36 @@ The percentages of patients who withdrew from the study due to adverse events we
 Adverse reactions reported in at least 2% of patients with osteopenia and more frequently in the zoledronic acid injection-treated patients than placebo-treated patients are shown in Table 2.
 
 Table 2.
-Adverse Reactions Occurring in greater than or equal to 2% of Patients with Osteopenia and More Frequently than in Placebo-Treated Patients
+Adverse Reactions Occurring in Greater Than or Equal to 2% of Patients with Osteopenia and More Frequently Than in Placebo-Treated Patients
 
-|  | 5 mg IV Zoledronic acid injectionOnce Per Year%(n=198) | 5 mg IV Zoledronic acid injection Once%(n=181) | Placebo once per year%(n=202) |
+| System Organ Class | 5 mg IV Zoledronic acid injectionOnce Per Year%(n=198) | 5 mg IV Zoledronic acid injection Once%(n=181) | Placebo once per year%(n=202) |
 | --- | --- | --- | --- |
-| System Organ Class |  |  |  |
-| Metabolism and nutrition disorders |  |  |  |
+| Metabolism and nutrition Disorders |  |  |  |
 | Anorexia | 2.0 | 0.6 | 0.0 |
-| Nervous system disordersHeadache | 14.6 | 20.4 | 11.4 |
+| Nervous system Disorders |  |  |  |
+| Headache | 14.6 | 20.4 | 11.4 |
 | Dizziness | 7.6 | 6.1 | 3.5 |
 | Hypoesthesia | 5.6 | 2.2 | 2.0 |
-| Ear and labyrinth disordersVertigo | 2.0 | 1.7 | 1.0 |
-| Vascular disorders |  |  |  |
+| Ear and Labyrinth Disorders |  |  |  |
+| Vertigo | 2.0 | 1.7 | 1.0 |
+| Vascular Disorders |  |  |  |
 | Hypertension | 5.1 | 8.3 | 6.9 |
-| Gastrointestinal disorders Nausea | 17.7 | 11.6 | 7.9 |
+| Gastrointestinal Disorders Nausea | 17.7 | 11.6 | 7.9 |
 | Diarrhea | 8.1 | 6.6 | 7.9 |
 | Vomiting | 7.6 | 5.0 | 4.5 |
 | Dyspepsia | 7.1 | 6.6 | 5.0 |
-| Abdominal pain* | 8.6 | 6.6 | 7.9 |
+| Abdominal pain1 | 8.6 | 6.6 | 7.9 |
 | Constipation | 6.6 | 7.2 | 6.9 |
 | Abdominal discomfort | 2.0 | 1.1 | 0.5 |
 | Abdominal distension | 2.0 | 0.6 | 0.0 |
-| Skin and subcutaneous tissue disorders Rash | 3.0 | 2.2 | 2.5 |
-| Musculoskeletal and connective tissue disorders |  |  |  |
+| Skin and Subcutaneous Tissue Disorders Rash | 3.0 | 2.2 | 2.5 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |
 | Arthralgia | 27.3 | 18.8 | 19.3 |
 | Myalgia | 19.2 | 22.7 | 6.9 |
 | Back pain | 18.2 | 16.6 | 11.9 |
 | Pain in extremity | 11.1 | 16.0 | 9.9 |
 | Muscle spasms | 5.6 | 2.8 | 5.0 |
-| Musculoskeletal pain** | 8.1 | 7.2 | 7.9 |
+| Musculoskeletal pain2 | 8.1 | 7.2 | 7.9 |
 | Bone pain | 5.1 | 3.3 | 1.0 |
 | Neck pain | 5.1 | 6.6 | 5.0 |
 | Arthritis | 4.0 | 2.2 | 1.5 |
@@ -181,9 +192,13 @@ Adverse Reactions Occurring in greater than or equal to 2% of Patients with Oste
 | Influenza-like illness | 1.5 | 3.3 | 2.0 |
 | Malaise | 1.0 | 2.2 | 0.5 |
 
-* Combined abdominal pain, abdominal pain upper, and abdominal pain lower as one ADR
+Abbreviation: IV, intravenous or intravenously.
 
-** Combined musculoskeletal pain and musculoskeletal chest pain as one ADR
+1.
+Combined abdominal pain, abdominal pain upper, and abdominal pain lower as one ADR
+
+2.
+Combined musculoskeletal pain and musculoskeletal chest pain as one ADR
 
 Ocular Adverse Events
 
@@ -208,7 +223,7 @@ The overall safety and tolerability of zoledronic acid injection was similar to 
 Adverse reactions reported in at least 2% of men with osteoporosis and more frequently in the zoledronic acid injection-treated patients than the active control-treated patients and either (1) not reported in the postmenopausal osteoporosis treatment trial or (2) reported more frequently in the trial of osteoporosis in men are presented in Table 3.
 Therefore, Table 3 should be viewed in conjunction with Table 1.
 
-Table 3: Adverse Reactions Occurring in greater than or equal to 2% of Men with Osteoporosis and More Frequently in the zoledronic acid injection-Treated Patients than the Active Control-Treated Patients and either (1) Not Reported in the Postmenopausal Osteoporosis Treatment Trial or (2) Reported More Frequently in this Trial
+Table 3: Adverse Reactions Occurring in Greater Than or Equal to 2% of Men with Osteoporosis and More Frequently in the zoledronic acid injection-Treated Patients than the Active Control-Treated Patients and either (1) Not Reported in the Postmenopausal Osteoporosis Treatment Trial or (2) Reported More Frequently in this Trial
 
 |  | 5 mg IV Zoledronic acid injection | Active Control |
 | --- | --- | --- |
@@ -225,16 +240,16 @@ Table 3: Adverse Reactions Occurring in greater than or equal to 2% of Men with 
 | Palpitations | 2.6 | 0.0 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |
 | Dyspnea | 6.5 | 4.7 |
-| Abdominal pain* | 7.9 | 4.1 |
+| Abdominal pain1 | 7.9 | 4.1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Hyperhidrosis | 2.6 | 2.0 |
 | Musculoskeletal, Connective Tissue and BoneDisorders |  |  |
 | Myalgia | 19.6 | 6.8 |
-| Musculoskeletal pain** | 12.4 | 10.8 |
+| Musculoskeletal pain2 | 12.4 | 10.8 |
 | Musculoskeletal stiffness | 4.6 | 0.0 |
 | Renal and Urinary Disorders |  |  |
 | Blood creatinine increased | 2.0 | 0.7 |
-| General Disorders and Administrative Site Conditions |  |  |
+| General Disorders and Administrative-Site Conditions |  |  |
 | Fatigue | 17.6 | 6.1 |
 | Pain | 11.8 | 4.1 |
 | Chills | 9.8 | 2.7 |
@@ -244,9 +259,13 @@ Table 3: Adverse Reactions Occurring in greater than or equal to 2% of Men with 
 | Investigations |  |  |
 | C-reactive protein increased | 4.6 | 1.4 |
 
-* Combined abdominal pain, abdominal pain upper, and abdominal pain lower as one ADR
+Abbreviation: IV, intravenous or intravenously.
 
-** Combined musculoskeletal pain and musculoskeletal chest pain as one ADR
+1.
+Combined abdominal pain, abdominal pain upper, and abdominal pain lower as one ADR
+
+2.
+Combined musculoskeletal pain and musculoskeletal chest pain as one ADR
 
 Renal Impairment
 
@@ -256,7 +275,6 @@ Acute Phase Reaction
 
 Zoledronic acid injection was associated with signs and symptoms of an acute phase reaction: myalgia (17.1%), fever (15.7%), fatigue (12.4%), arthralgia (11.1%), pain (10.5%), chills (9.8%), headache (9.8%), influenza-like illness (8.5%), malaise (5.2%), and back pain (3.3%), which occurred within the first 3 days following the dose of zoledronic acid injection.
 The majority of these symptoms were mild to moderate and resolved within 3 days of the event onset but resolution could take up to 7-14 days.
-
 The incidence of these symptoms decreased with subsequent doses of zoledronic acid injection.
 
 Atrial Fibrillation
@@ -274,7 +292,7 @@ There were 4 patients (2.6%) on zoledronic acid injection vs. 2 patients (1.4%) 
 
 Osteonecrosis of the Jaw
 
-In this trial there were no cases of osteonecrosis of the jaw [see Warnings and Precautions (5.4)].
+In this trial, there were no cases of ONJ [see Warnings and Precautions (5.4)].
 
 Glucocorticoid-Induced Osteoporosis
 
@@ -322,7 +340,7 @@ In this trial there were no cases of osteonecrosis of the jaw [see Warnings and 
 
 ### Paget's Disease of Bone
 
-In the Paget’s disease trials, two 6-month, double-blind, comparative, multinational studies of 349 men and women aged greater than 30 years with moderate to severe disease and with confirmed Paget’s disease of bone, 177 patients were exposed to zoledronic acid injection and 172 patients exposed to risedronate.
+In the Paget’s disease trials, two 6-month, double-blind, comparative, multinational studies of 349 men, and women aged greater than 30 years with moderate to severe disease and with confirmed Paget’s disease of bone, 177 patients were exposed to zoledronic acid injection and 172 patients exposed to risedronate.
 Zoledronic acid injection was administered once as a single 5 mg dose in 100 mL solution infused over at least 15 minutes.
 Risedronate was given as an oral daily dose of 30 mg for 2 months.
 
@@ -353,26 +371,28 @@ Adverse Reactions Reported in at Least 2% of Paget’s Patients Receiving Zoledr
 | Diarrhea | 6 | 6 |
 | Constipation | 6 | 5 |
 | Dyspepsia | 5 | 4 |
-| Abdominal Distension | 2 | 1 |
-| Abdominal Pain | 2 | 2 |
+| Abdominal distension | 2 | 1 |
+| Abdominal pain | 2 | 2 |
 | Vomiting | 2 | 2 |
-| Abdominal Pain Upper | 1 | 2 |
+| Abdominal pain upper | 1 | 2 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 3 | 2 |
 | Musculoskeletal, Connective Tissue and Bone Disorders |  |  |
 | Arthralgia | 9 | 11 |
-| Bone Pain | 9 | 5 |
+| Bone pain | 9 | 5 |
 | Myalgia | 7 | 4 |
-| Back Pain | 4 | 7 |
-| Musculoskeletal Stiffness | 2 | 1 |
-| General Disorders and Administrative Site Conditions |  |  |
-| Influenza-like Illness | 11 | 6 |
+| Back pain | 4 | 7 |
+| Musculoskeletal stiffness | 2 | 1 |
+| General Disorders and Administrative-Site Conditions |  |  |
+| Influenza-like illness | 11 | 6 |
 | Pyrexia | 9 | 2 |
 | Fatigue | 8 | 4 |
 | Rigors | 8 | 1 |
 | Pain | 5 | 4 |
-| Peripheral Edema | 3 | 1 |
+| Peripheral edema | 3 | 1 |
 | Asthenia | 2 | 1 |
+
+Abbreviation: IV, intravenous or intravenously.
 
 Laboratory Findings
 
@@ -397,7 +417,7 @@ Osteonecrosis of the jaw has been reported with zoledronic acid [see Warnings an
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The following adverse reactions have been identified during post approval use of zoledronic acid injection:
+The following adverse reactions have been identified during post approval use of zoledronic acid injection or bisphosphonate products:
 
 Acute Phase Reactions
 
@@ -406,7 +426,8 @@ Symptoms may be significant and lead to dehydration.
 
 Acute Renal Failure
 
-Acute renal failure requiring hospitalization and/or dialysis or with a fatal outcome have been rarely reported.Increased serum creatinine was reported in patients with 1) underlying renal disease, 2) dehydration secondary to fever, sepsis, gastrointestinal losses, or diuretic therapy, or 3) other risk factors such as advanced age, or concomitant nephrotoxic drugs in the post-infusion period.
+Acute renal failure requiring hospitalization and/or dialysis or with a fatal outcome have been rarely reported.
+Increased serum creatinine was reported in patients with 1) underlying renal disease, 2) dehydration secondary to fever, sepsis, gastrointestinal losses, or diuretic therapy, or 3) other risk factors, such as advanced age, or concomitant nephrotoxic drugs in the post-infusion period.
 Transient rise in serum creatinine can be correctable with intravenous fluids.
 
 Allergic Reactions
@@ -429,9 +450,13 @@ Osteonecrosis of the Jaw
 
 Osteonecrosis of the jaw has been reported.
 
-Osteonecrosis of other bones
+Osteonecrosis of Other Bones
 
 Cases of osteonecrosis of other bones (including femur, hip, knee, ankle, wrist and humerus) have been reported; causality has not been determined in the population treated with zoledronic acid injection.
+
+Musculoskeletal
+
+Low-energy femoral shaft and subtrochanteric fractures, and atypical fractures of other bones [see Warnings and Precautions (5.5)]
 
 Ocular Adverse Events
 

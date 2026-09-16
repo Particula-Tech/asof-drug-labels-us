@@ -4,8 +4,8 @@
 
 Risk Summary
 
-Available data on the use of zoledronic acid in pregnant women are insufficient to inform a drug-associated risk of adverse maternal or fetal outcomes.
-Discontinue zoledronic acid when pregnancy is recognized.
+Available data on the use of zoledronic acid injection in pregnant women are insufficient to inform a drug-associated risk of adverse maternal or fetal outcomes.
+Discontinue zoledronic acid injection when pregnancy is recognized.
 
 In animal reproduction studies, daily subcutaneous administration of zoledronic acid to pregnant rats during organogenesis resulted in increases in fetal skeletal, visceral, and external malformations, decreases in postimplantation survival, and decreases in viable fetuses and fetal weight starting at doses equivalent to 2 times the recommended human 5 mg intravenous dose (based on AUC).
 Subcutaneous administration of zoledronic acid to rabbits during organogenesis did not cause adverse fetal effects at up to 0.4 times the human 5 mg intravenous dose (based on body surface area, mg/m2), but resulted in maternal mortality and abortion associated with hypocalcemia starting at doses equivalent to 0.04 times the human 5 mg intravenous dose.
@@ -44,15 +44,15 @@ Maternal and neonatal deaths were considered related to drug-induced periparturi
 
 Risk Summary
 
-There are no data on the presence of zoledronic acid in human milk, the effects on the breastfed infant, or the effects on milk production.
-The developmental and health benefits of breast-feeding should be considered along with the mother’s clinical need for zoledronic acid and any potential adverse effects on the breast-fed child from zoledronic acid or from the underlying maternal condition.
+There are no data on the presence of zoledronic acid in human milk, the effects on the breast-fed infant, or the effects on milk production.
+The developmental and health benefits of breast-feeding should be considered along with the mother’s clinical need for zoledronic acid and any potential adverse effects on the breast-fed child from zoledronic acid injection or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 
 Infertility
 
 There are no data available in humans.
-Female fertility may be impaired based on animal studies demonstrating adverse effects of zoledronic acid on fertility parameters [see Nonclinical Toxicology (13.1)].
+Female fertility may be impaired based on animal studies demonstrating adverse effects of zoledronic acid injection on fertility parameters [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -62,7 +62,7 @@ The safety and effectiveness of zoledronic acid was studied in a one-year active
 The enrolled population was subjects with severe osteogenesis imperfecta, aged 1 to 17 years, 55% male, 84% Caucasian, with a mean lumbar spine BMD of 0.431 gm/cm2, which is 2.7 standard deviations below the mean for age-matched controls (BMD Z-score of -2.7).
 At one year, increases in BMD were observed in the zoledronic acid treatment group.
 However, changes in BMD in individual patients with severe osteogenesis imperfecta did not necessarily correlate with the risk for fracture or the incidence or severity of chronic bone pain.
-The adverse events observed with zoledronic acid use in children did not raise any new safety findings beyond those previously seen in adults treated for Paget’s disease of bone and treatment of osteoporosis including osteonecrosis of the jaw (ONJ) and renal impairment.
+The adverse events observed with zoledronic acid use in children did not raise any new safety findings beyond those previously seen in adults treated for Paget’s disease of bone and treatment of osteoporosis including ONJ and renal impairment.
 However, adverse reactions seen more commonly in pediatric patients included pyrexia (61%), arthralgia (26%), hypocalcemia (22%) and headache (22%).
 These reactions, excluding arthralgia, occurred most frequently within three days after the first infusion and became less common with repeat dosing.
 No cases of ONJ or renal impairment were observed in this study.
@@ -77,7 +77,7 @@ The plasma concentration time profile of zoledronic acid in pediatric patients r
 The combined osteoporosis trials included 4863 zoledronic acid injection-treated patients who were at least 65 years of age, while 2101 patients were at least 75 years old.
 No overall differences in efficacy or safety were observed between patients under 75 years of age with those at least 75 years of age, except that the acute phase reactions occurred less frequently in the older patients.
 
-Of the patients receiving zoledronic acid injection in the osteoporosis study in men, glucocorticoid-induced osteoporosis, and Paget’s disease studies, 83, 116 and 132 patients, respectively were 65 years of age or over, while 68 patients, respectively were at least 75 years of age.
+Of the patients receiving zoledronic acid injection in the osteoporosis study in men, glucocorticoid-induced osteoporosis, and Paget’s disease studies, 83, 116 and 132 patients, respectively were 65 years of age or over, while 24, 29, and 68 patients, respectively were at least 75 years of age.
 
 However, because decreased renal function occurs more commonly in the elderly, special care should be taken to monitor renal function.
 

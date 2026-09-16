@@ -8,8 +8,9 @@ Patients should be made aware that zoledronic acid injection contains the same a
 
 Zoledronic acid injection is contraindicated in patients with creatinine clearance less than 35 mL/min [see Contraindications (4)].
 
-Before being given zoledronic acid injection, patients should tell their doctor if they have kidney problems and what medications they are taking.
-Zoledronic acid injection should not be given if the patient is pregnant or plans to become pregnant, or if she is breast-feeding [see Warnings and Precautions (5.6)].
+Before being given zoledronic acid injection, patients should tell their doctor if they have kidney problems and what medications they are taking [see Warnings and Precautions (5.3)]..
+
+Zoledronic acid injection should not be given if the patient is pregnant or plans to become pregnant, or if she is breastfeeding [see Use in Specific Populations (8.1,8.2, 8.3)].
 
 There have been reports of bronchoconstriction in aspirin-sensitive patients receiving bisphosphonates, including zoledronic acid injection.
 Before being given zoledronic acid injection, patients should tell their doctor if they are aspirin-sensitive.
