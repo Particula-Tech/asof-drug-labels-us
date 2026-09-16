@@ -13,5 +13,5 @@
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-CIB72066D Rev.
-05/2026
+CIB72066E Rev.
+09/2026
