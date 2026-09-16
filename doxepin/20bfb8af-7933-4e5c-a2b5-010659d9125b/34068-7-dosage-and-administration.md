@@ -1,19 +1,33 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-For most patients with illness of mild to moderate severity, a starting daily dose of 75 mg is recommended.
-Dosage may subsequently be increased or decreased at appropriate intervals and according to individual response.
-The usual optimum dose range is 75 mg/day to 150 mg/day.
+## 2.1 Screen for Bipolar Disorder Prior to Starting Doxepin Hydrochloride Capsules
 
-In more severely ill patients higher doses may be required with subsequent gradual increase to 300 mg/day if necessary.
-Additional therapeutic effect is rarely to be obtained by exceeding a dose of 300 mg/day.
+Prior to initiating treatment with doxepin hydrochloride capsules, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.5)].
 
-In patients with very mild symptomatology or emotional symptoms accompanying organic disease, lower doses may suffice.
-Some of these patients have been controlled on doses as low as 25 to 50 mg/day.
+## 2.2 Recommended Dosage
 
-The total daily dosage of doxepin (as the hydrochloride) may be given on a divided or once-a-day dosage schedule.
-If the once-a-day schedule is employed, the maximum recommended dose is 150 mg/day.
-This dose may be given at bedtime.
-The 150 mg capsule strength is intended for maintenance therapy only and is not recommended for initiation of treatment.
+The recommended starting oral dosage for doxepin hydrochloride capsules is 25 mg three times daily or 75 mg once daily.
+The recommended target total oral dosage range for doxepin hydrochloride capsules is between 75 mg/day and 150 mg/day (may be given once daily or in divided doses).
+The maximum recommended oral dosage for doxepin hydrochloride capsules is 100 mg three times daily.
 
-Anti-anxiety effect is apparent before the antidepressant effect.
-Optimal antidepressant effect may not be evident for two to three weeks.
+## 2.3 Switching Patients to or from a Monoamine Oxidase Inhibitor
+
+Wait at least 14 days after discontinuation of a monoamine oxidase inhibitor (MAOI) before initiating therapy with doxepin hydrochloride capsules [see Contraindications (4), Warnings and Precautions (5.2), and Drug Interactions (7)].
+
+Wait at least 14 days after discontinuation of doxepin hydrochloride capsules before initiating therapy with an MAOI [see Contraindications (4), Warnings and Precautions (5.2), and Drug Interactions (7)].
+
+## 2.4 Dosage Modifications Intended to Reduce the Risk of Anticholinergic Effects
+
+If anticholinergic effects (e.g., dry mouth, blurred vision, constipation) develop, reduce the doxepin hydrochloride capsules dosage [see Adverse Reactions (6.1)].
+
+## 2.5 Dosage Modifications for Strong CYP2D6 Inhibitors
+
+Reduce the doxepin hydrochloride capsules dosage based on doxepin plasma concentrations when used concomitantly with strong CYP2D6 inhibitors [see Drug Interactions (7)].
+
+## 2.6 Dosage Modifications in Known CYP2D6 and CYP2C19 Poor Metabolizers
+
+Reduce the doxepin hydrochloride capsules dosage based on doxepin plasma concentrations in patients who are known CYP2D6 and CYP2C19 poor metabolizers [see Use in Specific Populations (8.7)].
+
+## 2.7 Discontinuation of Doxepin Hydrochloride Capsules Treatment
+
+When discontinuing doxepin hydrochloride capsules, gradually reduce the dosage until discontinued [see Adverse Reactions (6)].

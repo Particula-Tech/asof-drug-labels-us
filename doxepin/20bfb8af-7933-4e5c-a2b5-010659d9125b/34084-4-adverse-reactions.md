@@ -1,31 +1,56 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-NOTE: Some of the adverse reactions noted below have not been specifically reported with doxepin use.
-However, due to the close pharmacological similarities among the tricyclics, the reactions should be considered when prescribing doxepin hydrochloride.
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-Anticholinergic Effects: Dry mouth, blurred vision, constipation, and urinary retention have been reported.
-If they do not subside with continued therapy, or become severe, it may be necessary to reduce the dosage.
+- Suicidal Thoughts and Behaviors in Adolescents and Young Adults [see Warnings and Precautions (5.1)]
+- Serotonin Syndrome [see Warnings and Precautions (5.2)]
+- Angle-Closure Glaucoma [see Warnings and Precautions (5.3)]
+- Sedation and Driving Risks [see Warnings and Precautions (5.4)]
+- Activation of Mania or Hypomania [see Warnings and Precautions (5.5)]
+- Risk of Seizures [see Warnings and Precautions (5.6)]
+- Psychosis [see Warnings and Precautions (5.7)]
 
-Central Nervous System Effects: Drowsiness is the most commonly noticed side effect.
-This tends to disappear as therapy is continued.
-Other infrequently reported CNS side effects are confusion, disorientation, hallucinations, numbness, paresthesias, ataxia, extrapyramidal symptoms, seizures, tardive dyskinesia, and tremor.
+## 6.1 Clinical Trials Experience
 
-Cardiovascular: Cardiovascular effects including hypotension, hypertension, and tachycardia have been reported occasionally.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Allergic: Skin rash, edema, photosensitization, and pruritus have occasionally occurred.
+Adverse reactions (≥ 2% of doxepin-treated patients) in 1,635 doxepin-treated patients with MDD in clinical trials included somnolence (17%), dry mouth (15%), dizziness (6%), constipation (5%), fatigue (5%), blurred vision (3%), tachycardia (3%), hypotension (3%), insomnia (2%), tremor (2%), nausea (2%), hyperhidrosis (2%), and increased weight (2%).
 
-Hematologic: Eosinophilia has been reported in a few patients.
-There have been occasional reports of bone marrow depression manifesting as agranulocytosis, leukopenia, thrombocytopenia, and purpura.
+Other Adverse Reactions Observed in Clinical Trials
 
-Gastrointestinal: Nausea, vomiting, indigestion, taste disturbances, diarrhea, anorexia, and aphthous stomatitis have been reported (see Anticholinergic Effects).
+Other adverse reactions that occurred at an incidence of < 2% in patients treated with doxepin in clinical trials were:
 
-Endocrine: Raised or lowered libido, testicular swelling, gynecomastia in males, enlargement of breasts and galactorrhea in the female, raising or lowering of blood sugar levels, and syndrome of inappropriate antidiuretic hormone secretion have been reported with tricyclic administration.
+- Ear and Labyrinth Disorders: Tinnitus.
+- Gastrointestinal Disorders: Diarrhea, dyspepsia, vomiting.
+- General Disorders and Administration Site Conditions: Asthenia, edema, chills.
+- Metabolism and Nutrition Disorders: Decreased appetite.
+- Nervous System Disorders: Ataxia, paresthesia, headache, extrapyramidal disorder.
+- Psychiatric Disorders: Agitation, confusional state, libido decreased.
+- Pulmonary Disorders: Asthma exacerbation.
+- Renal and Urinary Disorders: Urinary retention.
+- Reproductive System and Breast Disorders: Breast enlargement.
+- Skin & Subcutaneous Tissue Disorders: Rash, pruritus.
+- Vascular Disorders: Flushing.
 
-Other: Dizziness, tinnitus, weight gain, sweating, chills, fatigue, weakness, flushing, jaundice, alopecia, headache, exacerbation of asthma, angle closure glaucoma, mydriasis and hyperpyrexia (in association with chlorpromazine) have been occasionally observed as adverse effects.
+## 6.2 Postmarketing Experience
 
-Withdrawal Symptoms:
+The following adverse reactions have been identified during post-approval use of doxepin.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The possibility of development of withdrawal symptoms upon abrupt cessation of treatment after prolonged doxepin administration should be borne in mind.
-These are not indicative of addiction and gradual withdrawal of medication should not cause these symptoms.
+- Blood and Lymphatic System Disorders: Agranulocytosis, leukopenia, thrombocytopenia, eosinophilia, purpura.
+- Cardiac Disorders: Conduction disorder, arrhythmia.
+- Endocrine Disorders: Inappropriate antidiuretic hormone secretion.
+- Eye Disorders: Angle-closure glaucoma, mydriasis.
+- Gastrointestinal Disorders: Aphthous stomatitis, abdominal pain upper.
+- General Disorders and Administration Site Conditions: Facial edema, hyperpyrexia.
+- Hepatobiliary Disorders: Jaundice.
+- Investigations: Blood glucose increased.
+- Nervous System Disorders: Hypoesthesia, dysgeusia, convulsion, tardive dyskinesia, serotonin syndrome.
+- Psychiatric Disorders: Hallucination, disorientation.
+- Reproductive System and Breast Disorders: Testicular swelling, gynecomastia, galactorrhea.
+- Skin and Subcutaneous Tissue Disorders: Photosensitivity reaction, tongue edema, alopecia, urticaria.
+- Vascular Disorders: Hypertension.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+Withdrawal syndrome occurred after stopping doxepin [see Drug Abuse and Dependence (9.3)].
+
+The following adverse reaction has been reported with use with other tricyclic antidepressants: decreased blood glucose.
