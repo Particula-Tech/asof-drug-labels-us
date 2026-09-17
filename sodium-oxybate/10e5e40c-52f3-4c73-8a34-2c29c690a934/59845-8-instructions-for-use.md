@@ -143,22 +143,15 @@ After you have (or your child has) finished your (or your child's) last packet i
 
 If you have additional questions about LUMRYZ, talk with your doctor.
 
-You can also contact:
+You can also contact: Alkermes, Inc Waltham, MA 02451
 
-Avadel CNS Pharmaceuticals, LLC
+For more information on LUMRYZ, visit www.lumryz.com or call 888-828-2335.
 
-Chesterfield, MO 63005 USA
-
-For more information on LUMRYZ,
-
-visit www.lumryz.com or call
-
-888-8AVADEL (888-828-2335).
-
-© Avadel 2025.
-All rights reserved.
-AVADEL, the AVADEL logo, LUMRYZ, and the LUMRYZ logo are trademarks of an Avadel company.
+© 2026, Alkermes, Inc. All rights reserved.
+LUMRYZ® is a registered trademark used by Alkermes, Inc. under license.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2025
+Revised: 08/2026
+
+LUM-IFU:R4

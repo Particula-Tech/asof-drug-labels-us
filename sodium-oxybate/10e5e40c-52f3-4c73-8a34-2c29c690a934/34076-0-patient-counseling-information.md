@@ -59,8 +59,14 @@ Sodium Intake
 
 Instruct patients and/or caregivers that LUMRYZ contains a significant amount of sodium and patients who are sensitive to sodium intake (e.g., those with heart failure, hypertension, or renal impairment) should limit their sodium intake [see Warnings and Precautions (5.8)].
 
-Distributed By:
+Manufactured for:
 
-Avadel CNS Pharmaceuticals, LLC Chesterfield, MO
+Alkermes, Inc. Waltham, MA 02451
 
 Protected by U.S. Patent No. D1,032,378
+
+© 2026, Alkermes, Inc. All rights reserved.
+
+LUMRYZ® is a registered trademark used by Alkermes, Inc. under license.
+
+LUM-PI:R4
