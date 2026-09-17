@@ -3,7 +3,6 @@
 ## 5.1 Hypersensitivity Reactions to Cefazolin, Cephalosporins, Penicillins, or Other Beta-lactams
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving beta-lactam antibacterial drugs.
-Hypersensitivity reactions can progress to Kounis syndrome, a serious allergic reaction that can result in myocardial infarction.
 Before therapy with Cefazolin in Dextrose Injection is instituted, careful inquiry should be made to determine whether the patient has had previous immediate hypersensitivity reactions to cefazolin, cephalosporins, penicillins, or carbapenems.
 Exercise caution if this product is to be given to penicillin-sensitive patients because cross-hypersensitivity among beta-lactam antibacterial drugs has been clearly documented and may occur in up to 10% of patients with a history of penicillin allergy.
 If an allergic reaction to Cefazolin in Dextrose Injection occurs, discontinue the drug.

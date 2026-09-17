@@ -49,13 +49,11 @@ The safety findings in Study 2 in pediatric patients aged 10 to 12 years old wer
 The following adverse reactions have been identified during post approval use of cefazolin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune system disorders: Serum sickness-like reaction
+Immune system disorders: Serum sickness-like reaction; Acute myocardial ischemia with or without myocardial infarction occurring as part of an allergic reaction
 
 Renal and urinary disorders: Acute tubulointerstitial nephritis (ATIN)
 
 Skin and subcutaneous tissue disorders: Acute generalized exanthematous pustulosis (AGEP)
-
-Cardiac disorders: Kounis syndrome
 
 ## 6.3 Cephalosporin-class Adverse Reactions
 
