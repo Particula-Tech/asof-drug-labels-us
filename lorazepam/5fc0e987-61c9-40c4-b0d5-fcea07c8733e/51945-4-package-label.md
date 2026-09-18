@@ -27,5 +27,3 @@ NDC 0641-6002-01 Rx only Ativan Injection CIV (lorazepam injection, USP) 40 mg p
 
 NDC 0641-6002-10 Rx only Ativan Injection CIV (lorazepam injection, USP) 40 mg per 10 mL (4 mg/mL) For Intramuscular use For Intravenous use, dilution required; see insert.
 Refrigerate 10 x 10 mL Multiple Dose Vials
-
-# SERIALIZATION IMAGE
