@@ -30,8 +30,8 @@ Prolonged cardiac repolarization and QT interval, imparting a risk of developing
 Cases of torsades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving azithromycin.
 Providers should consider the risk of QT prolongation, which can be fatal when weighing the risks and benefits of azithromycin for at-risk groups including:
 
-- •patients with known prolongation of the QT interval, a history of torsades de pointes, congenital long QT syndrome, bradyarrhythmias or uncompensated heart failure.
-- •patients on drugs known to prolong the QT interval.
+- •patients with known prolongation of the QT interval, a history of torsades de pointes, congenital long QT syndrome, bradyarrhythmias or uncompensated heart failure
+- •patients on drugs known to prolong the QT interval
 - •patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents.
 
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
@@ -46,7 +46,7 @@ Consider balancing this potential risk with treatment benefits when prescribing 
 
 ## 5.6 Clostridioides difficile-Associated Diarrhea
 
-Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ZITHROMAX (azithromycin for injection), and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-Associated Diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ZITHROMAX (azithromycin for injection), and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -67,7 +67,8 @@ ZITHROMAX for injection should be reconstituted and diluted as directed and admi
 [see Dosage and Administration (2)]
 
 Local IV site reactions have been reported with the intravenous administration of azithromycin.
-The incidence and severity of these reactions were the same when 500 mg azithromycin was given over 1 hour (2 mg/mL as 250 mL infusion) or over 3 hr (1 mg/mL as 500 mL infusion) [see Adverse Reactions (6)].
+The incidence and severity of these reactions were the same when 500 mg azithromycin was given over 1 hour (2 mg/mL as 250 mL infusion) or over 3 hr (1 mg/mL as 500 mL infusion).
+[see Adverse Reactions (6)].
 All volunteers who received infusate concentrations above 2 mg/mL experienced local IV site reactions and, therefore, higher concentrations should be avoided.
 
 ## 5.9 Development of Drug-Resistant Bacteria

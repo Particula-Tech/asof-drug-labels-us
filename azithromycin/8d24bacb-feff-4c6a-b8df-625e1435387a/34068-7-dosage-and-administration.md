@@ -1,22 +1,24 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-[see Indications and Usage (1) and Clinical Pharmacology (12.3)]
+## 2.1 Recommended Dosage for Community-Acquired Pneumonia
 
-## 2.1 Community-Acquired Pneumonia
-
-The recommended dose of ZITHROMAX for injection for the treatment of adult patients with community-acquired pneumonia due to the indicated organisms is 500 mg as a single daily dose by the intravenous route for at least two days.
+The recommended dosage of ZITHROMAX for injection for the treatment of adult patients with community-acquired pneumonia due to the indicated organisms is 500 mg as a single daily dose by the intravenous route for at least two days.
 Intravenous therapy should be followed by azithromycin by the oral route at a single, daily dose of 500 mg, administered as two 250 mg tablets to complete a 7- to 10-day course of therapy.
 The timing of the switch to oral therapy should be done at the discretion of the physician and in accordance with clinical response.
+[see Indications and Usage (1.1) and Clinical Pharmacology (12.3)].
 
-## 2.2 Pelvic Inflammatory Disease
+## 2.2 Recommended Dosage for Pelvic Inflammatory Disease
 
-The recommended dose of ZITHROMAX for injection for the treatment of adult patients with pelvic inflammatory disease due to the indicated organisms is 500 mg as a single daily dose by the intravenous route for one or two days.
+The recommended dosage of ZITHROMAX for injection for the treatment of adult patients with pelvic inflammatory disease due to the indicated organisms is 500 mg as a single daily dose by the intravenous route for one or two days.
 Intravenous therapy should be followed by azithromycin by the oral route at a single, daily dose of 250 mg to complete a 7-day course of therapy.
 The timing of the switch to oral therapy should be done at the discretion of the physician and in accordance with clinical response.
+[see Indications and Usage (1.2) and Clinical Pharmacology (12.3)].
 
 ## 2.3 Preparation of the Solution for Intravenous Administration
 
 The infusate concentration and rate of infusion for ZITHROMAX for injection should be either 1 mg/mL over 3 hr or 2 mg/mL over 1 hr. ZITHROMAX for injection should not be given as a bolus or as an intramuscular injection.
+ZITHROMAX for injection should be followed by ZITHROMAX by the oral route as required.
+[see Dosage and Administration (2.1) and (2.2)].
 
 Reconstitution
 
@@ -32,7 +34,7 @@ Dilute this solution further prior to administration as instructed below.
 
 Dilution
 
-To provide azithromycin over a concentration range of 1–2 mg/mL, transfer 5 mL of the 100 mg/mL azithromycin solution into the appropriate amount of any of the diluents listed below:
+To provide azithromycin over a concentration range of 1-2 mg/mL, transfer 5 mL of the 100 mg/mL azithromycin solution into the appropriate amount of any of the diluents listed below:
 
 Normal Saline (0.9% sodium chloride) 1/2 Normal Saline (0.45% sodium chloride) 5% Dextrose in Water Lactated Ringer's Solution 5% Dextrose in 1/2 Normal Saline (0.45% sodium chloride) with 20 mEq KCl 5% Dextrose in Lactated Ringer's Solution 5% Dextrose in 1/3 Normal Saline (0.3% sodium chloride) 5% Dextrose in 1/2 Normal Saline (0.45% sodium chloride) Normosol®-M in 5% Dextrose Normosol®-R in 5% Dextrose
 

@@ -1,10 +1,27 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be informed of the following serious and potentially serious adverse reactions that have been associated with ZITHROMAX®.
+Allergic Reactions
 
-Diarrhea: Inform patients that diarrhea is a common problem caused by antibacterial drugs which usually ends when the antibacterial is discontinued.
+Instruct patients to immediately contact a physician if any signs of an allergic reaction occur.
+[see Warnings and Precautions (5.1)].
+
+Vomiting, Irritability, Diarrhea or Rash with Feeding in Infants
+
+Direct parents or caregivers to contact their physician if vomiting, irritability, diarrhea or rash with feeding occurs in the infant.
+[see Warnings and Precautions (5.3) and Use in Specific Population (8.2)].
+
+Diarrhea
+
+Inform patients that diarrhea is a common problem caused by antibacterial drugs which usually ends when the antibacterial is discontinued.
 Sometimes after starting treatment with antibacterials, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial.
 If this occurs, patients should notify their physician as soon as possible.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
+Antibacterial Resistance
+
+Patients should be counseled that antibacterial drugs including ZITHROMAX should only be used to treat bacterial infections.
+They do not treat viral infections (e.g., the common cold).
+When ZITHROMAX is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ZITHROMAX or other antibacterial drugs in the future.
+
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
