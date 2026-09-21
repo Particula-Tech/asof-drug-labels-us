@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA215422"
+  ],
+  "inn": "baclofen",
+  "labeler": "Anvi Pharmaceuticals Inc",
+  "package_ndcs": [
+    "87519-003-90"
+  ],
+  "products": [
+    {
+      "form": "GRANULE",
+      "generic": "baclofen",
+      "name": "LYVISPAH"
+    }
+  ],
+  "setid": "5b13c40d-a109-f838-e063-6294a90aecf2",
+  "source": "dailymed"
+}
