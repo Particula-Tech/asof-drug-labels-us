@@ -5,7 +5,7 @@ Diltiazem hydrochloride is 1,5-benzothiazepin-4(5H)one,3-(acetyloxy)-5-[2-(dimet
 
 Molecular formula: C22H26N204S.HCl
 
-Diltiazem hydrochloride is a white to off-white crystalline powder with a bitter taste soluble in water, methanol, and chloroform.
+Diltiazem hydrochloride is a white to off-white crystalline powder with a bitter taste and it is soluble in water, methanol, and chloroform.
 
 Diltiazem Hydrochloride in Sodium Chloride Injection is a clear, colorless, sterile, nonpyrogenic, isotonic solution for intravenous use only.
 It is packaged in single-dose bags containing 100 mg/100 mL and 250 mg/250 mL.
