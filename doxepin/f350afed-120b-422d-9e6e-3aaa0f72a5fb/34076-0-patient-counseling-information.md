@@ -38,5 +38,5 @@ Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 This product’s labeling may have been updated.
 For the most recent Prescribing Information, please visit www.lannett.com.
 
-CIB72247A Rev.
-07/2025
+CIB72247B Rev.
+09/2026
