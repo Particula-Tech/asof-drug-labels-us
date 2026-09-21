@@ -5,6 +5,7 @@ COMBOGESIC tablets with acetaminophen 325 mg and ibuprofen 97.5 mg are white, bi
 | NDC 72260-129-01 | 1 bottle containing 250 tablets |
 | --- | --- |
 | NDC 72260-129-02 | 1 bottle containing 60 tablets |
+| NDC 72260-129-16 | 1 blister pack containing 6 tablets |
 
 Store at 20°C to 25°C (68°F to 77°F) with excursions permitted within USP controlled room temperature of 15°C to 30°C (59°F to 86°F).
 Protect from moisture and light.
