@@ -2,12 +2,12 @@
 
 ## 2.1 Dosage Information
 
-The recommended dosage for monotherapy and adjunctive therapy for partial-onset seizures in patients 4 years of age and older and for adjunctive therapy for primary generalized tonic-clonic seizures in patients 4 years of age and older is included in Table 1.
-In pediatric patients 4 years to less than 17 years of age, the recommended dosing regimen is dependent upon body weight.
+The recommended dosage for monotherapy and adjunctive therapy for partial-onset seizures in patients 1 month of age and older and for adjunctive therapy for primary generalized tonic-clonic seizures in patients 4 years of age and older is included in Table 1.
+In pediatric patients, the recommended dosing regimen is dependent upon body weight.
 Dosage should be increased based on clinical response and tolerability, no more frequently than once per week.
 Titration increments should not exceed those shown in Table 1.
 
-Table 1: Recommended Dosages for Partial-Onset Seizures (Monotherapy or Adjunctive Therapy) in Patients 4 Years of Age and Older, and for Primary Generalized Tonic-Clonic Seizures (Adjunctive Therapy) in Patients 4 Years of Age and Older*
+Table 1: Recommended Dosages for Partial-Onset Seizures (Monotherapy or Adjunctive Therapy) in Patients 1 Month and Older, and for Primary Generalized Tonic-Clonic Seizures (Adjunctive Therapy) in Patients 4 Years of Age and Older*
 
 | Age and Body Weight | Initial Dosage | Titration Regimen | Maintenance Dosage |
 | --- | --- | --- | --- |
@@ -16,20 +16,21 @@ Table 1: Recommended Dosages for Partial-Onset Seizures (Monotherapy or Adjuncti
 | Pediatric patients weighing at least 50 kg | 50 mg twice daily (100 mg per day) | Increase by 50 mg twice daily (100 mg per day) every week | Monotherapy**: 150 mg to 200 mg twice daily (300 mg to 400 mg per day) Adjunctive Therapy: 100 mg to 200 mg twice daily (200 mg to 400 mg per day) |
 | Pediatric patients weighing 30 kg to less than 50 kg | 1 mg/kg twice daily (2 mg/kg/day) | Increase by 1 mg/kg twice daily (2 mg/kg/day) every week | 2 mg/kg to 4 mg/kg twice daily (4 mg/kg/day to 8 mg/kg/day) |
 | Pediatric patients weighing 11 kg to less than 30 kg | 1 mg/kg twice daily (2 mg/kg/day) | Increase by 1 mg/kg twice daily (2 mg/kg/day) every week | 3 mg/kg to 6 mg/kg twice daily (6 mg/kg/day to 12 mg/kg/day) |
+| Pediatric patients weighing 6 kg to less than 11 kg± |  |  |  |
+| Pediatric patients weighing less than 6 kg± | 0.66 mg/kg three times daily (2 mg/kg/day) | Increase by 0.66 mg/kg three times daily (2 mg/kg/day) every week | 2.5 mg/kg to 5 mg/kg three times daily (7.5 mg/kg/day to 15 mg/kg/day) |
 | *when not specified, the dosage is the same for monotherapy for partial-onset seizures and adjunctive therapy for partial-onset seizures |  |  |  |
 | **Monotherapy for partial-onset seizures only |  |  |  |
+| ±indicated only for partial-onset seizures |  |  |  |
 
 In adjunctive clinical trials in adult patients with partial-onset seizures, a dosage higher than 200 mg twice daily (400 mg per day) was not more effective and was associated with a substantially higher rate of adverse reactions [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
 
 Lacosamide Injection Dosage
 
 Lacosamide injection may be used when oral administration is temporarily not feasible [see Dosage and Administration (2.7) and Warnings and Precautions (5.3)].
-Lacosamide injection can be administered intravenously to adult patients with the same dosing regimens described for oral dosing.
+Lacosamide injection can be administered intravenously to adult and pediatric patients weighing 6 kg or more with the same dosing regimens described for oral dosing.
+For pediatric patients weighing less than 6 kg, lacosamide injection may be initiated with a dose of 0.66 mg/kg three times daily (see Table 1).
 
 The clinical study experience of intravenous Lacosamide is limited to 5 days of consecutive treatment.
-
-Additional pediatric use information is approved for UCB, Inc.'s VIMPAT® (lacosamide) injection.
-However, due to UCB, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.2 Alternate Initial Dosage Information to Achieve the Maintenance Dosage in a Shorter Timeframe
 
@@ -60,7 +61,7 @@ A gradual withdrawal of the concomitant AED over at least 6 weeks is recommended
 
 For patients with mild to moderate renal impairment, no dosage adjustment is necessary.
 
-For patients with severe renal impairment [creatinine clearance (CLCR) less than 30 mL/min as estimated by the Cockcroft-Gault equation for adults] or end-stage renal disease, a reduction of 25% of the maximum dosage is recommended.
+For patients with severe renal impairment [creatinine clearance (CLCR) less than 30 mL/min as estimated by the Cockcroft-Gault equation for adults; CLCR less than 30 mL/min/1.73m2 as estimated by the Schwartz equation for pediatric patients] or end-stage renal disease, a reduction of 25% of the maximum dosage is recommended.
 
 In all patients with renal impairment, dose initiation and titration should be based on clinical response and tolerability.
 

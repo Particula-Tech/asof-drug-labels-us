@@ -60,7 +60,7 @@ Treatment groups were as follows:
 
 - Single dose of intravenous lacosamide injection 200 mg followed by oral lacosamide 200 mg/day (100 mg every 12 hours)
 - Single dose of intravenous lacosamide injection 300 mg followed by oral lacosamide 300 mg/day (150 mg every 12 hours)
-- Single dose of intravenous lacosamide Injection 400 mg followed by oral lacosamide 400 mg/day (200 mg every 12 hours).
+- Single dose of intravenous lacosamide injection 400 mg followed by oral lacosamide 400 mg/day (200 mg every 12 hours).
 
 Table 5 gives the incidence of adverse reactions that occurred in ≥5% of adult patients in any lacosamide dosing group.
 
@@ -94,13 +94,13 @@ Table 5: Adverse Reactions in a 15-minute Infusion Study in Adult Patients with 
 | Hyperhidrosis | 0 | 0 | 8 | 2 |
 
 Adverse reactions that occurred with infusion of Lacosamide 200 mg over 15-minutes followed by Lacosamide 100 mg administered orally twice per day were similar in frequency to those that occurred in 3-month adjunctive therapy controlled trials.
-Considering the difference in period of observations (1 week vs. 3 months), the incidence of CNS adverse reactions, such as dizziness, somnolence, and paresthesia may be higher with 15-minute administration of lacosamide Injection than with administration over a 30-to 60-minute period.
+Considering the difference in period of observations (1 week vs. 3 months), the incidence of CNS adverse reactions, such as dizziness, somnolence, and paresthesia may be higher with 15-minute administration of lacosamide injection than with administration over a 30-to 60-minute period.
 
 The adverse reactions associated with lacosamide injection in adult patients with primary generalized tonic-clonic seizures are expected to be similar to those seen in adults with partial-onset seizures.
 
-Pediatric Patients (4 Years to less than 17 Years of Age)
+Pediatric Patients (1 Month to less than 17 Years of Age)
 
-The safety of lacosamide injection was evaluated in a multicenter, open-label study of 77 pediatric patients 4 to less than 17 years of age with epilepsy.
+The safety of lacosamide injection was evaluated in a multicenter, open-label study of 103 pediatric patients 1 month to less than 17 years of age with epilepsy.
 Infusions were primarily administered over a 30 to 60 minute time period; infusion times less than 30 minutes were not adequately studied in pediatric patients [see Dosage and Administration (2.7)].
 Although no serious or severe adverse reactions were noted at the time of infusion in this small study, the adverse reactions associated with lacosamide injection in pediatric patients are expected to be similar to those noted in adults.
 
