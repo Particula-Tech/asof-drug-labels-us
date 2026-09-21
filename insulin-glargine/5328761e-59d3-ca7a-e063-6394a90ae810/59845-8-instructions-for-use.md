@@ -42,7 +42,7 @@ Learn to Inject
 
 Need Help?
 
-If you have any questions about your pen or about diabetes, ask your healthcare provider, or call Lanexa Biologics, LLC at 1-800-610-5709.
+If you have any questions about your pen or about diabetes, ask your healthcare provider, or call Lanexa Biologics, LLC at 1-267-383-3008.
 
 Extra Items You Will Need
 
@@ -224,7 +224,7 @@ Caring for Your LANGLARA Pen
 - Handle your pen with careº Do not drop your pen or knock it against hard surfaces.º If you think that your pen may be damaged, do nottry to fix it.
   Throw it away and use a new LANGLARA pen.
   See “Throwing Your Pen Away”at the end of this Instructions for Use.
-  If you have questions, call Lanexa Biologics, LLC at 1-800-610-5709.
+  If you have questions, call Lanexa Biologics, LLC at 1-267-383-3008.
 
 - Protect your pen from dust and dirtº You can clean the outside of your pen by wiping it with a damp cloth (water only).º Do notsoak, wash or lubricate your pen.
   This may damage it.
@@ -256,10 +256,10 @@ U.S. License No. 2343
 
 Distributed by: Lanexa Biologics, LLC
 
-Trevose, PA 19053
+Langhorne, PA 19047
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 *The brands listed are the registered trademarks of their respective owners.
 
-Revised: 06/2026
+Revised: 07/2026
