@@ -18,7 +18,7 @@ Manufactured by:
 
 Steriscience Sp. z o.o.
 
-No. 10, Daniszewsk Street,
+No. 10, Daniszewska Street,
 
 Warsaw, Poland – 03-230
 
