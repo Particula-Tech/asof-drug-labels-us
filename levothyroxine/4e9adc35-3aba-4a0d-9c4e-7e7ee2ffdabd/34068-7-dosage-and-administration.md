@@ -14,7 +14,7 @@ Due to differences in absorption characteristics of patients and the oral levoth
 
 ## 2.2 Dosing in the Elderly and in Patients with Cardiovascular Disease
 
-Intravenous levothyroxine may be associated with cardiac toxicity—including arrhythmias, tachycardia, myocardial ischemia and infarction, or worsening of congestive heart failure and death—in the elderly and in those with underlying cardiovascular disease.
+Intravenous levothyroxine may be associated with cardiac toxicity-including arrhythmias, tachycardia, myocardial ischemia and infarction, or worsening of congestive heart failure and death-in the elderly and in those with underlying cardiovascular disease.
 Therefore, cautious use, including doses in the lower end of the recommended range, may be warranted in these populations.
 
 ## 2.3 Reconstitution Directions

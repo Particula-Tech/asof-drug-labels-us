@@ -17,7 +17,7 @@ Circulating serum T3 and T4 levels exert a feedback effect on both TRH and TSH s
 When serum T3 and T4 levels increase, TRH and TSH secretion decrease.
 When thyroid hormone levels decrease, TRH and TSH secretion increases.
 TSH is used for the diagnosis of hypothyroidism and evaluation of levothyroxine therapy adequacy with other laboratory and clinical data [see Dosage (2.1)].
-There are drugs known to affect thyroid hormones and TSH by various mechanisms and those examples are diazepam, ethioamide, lovastatin, metoclopramide, 6-mercaptopurine, nitroprusside, perphenazine, and thiazide diuretics.
+There are drugs known to affect thyroid hormones and TSH by various mechanisms and those examples are diazepam, ethionamide, lovastatin, metoclopramide, 6-mercaptopurine, nitroprusside, perphenazine, and thiazide diuretics.
 Some drugs may cause a transient decrease in TSH secretion without hypothyroidism and those drugs (dose) are dopamine (greater than 1 mcg per kg per min), glucocorticoids (hydrocortisone greater than 100 mg per day or equivalent) and octreotide (greater than 100 mcg per day).
 
 Thyroid hormones regulate multiple metabolic processes and play an essential role in normal growth and development, and normal maturation of the central nervous system and bone.
@@ -33,9 +33,8 @@ Distribution – Circulating thyroid hormones are greater than 99% bound to plas
 The higher affinity of both TBG and TBPA for T4 partially explains the higher serum levels, slower metabolic clearance, and longer half life of T4 compared to T3.
 Protein bound thyroid hormones exist in reverse equilibrium with small amounts of free hormone.
 Only unbound hormone is metabolically active.
-Many drugs and physiologic conditions affect the binding of thyroid hormones to serum proteins [see Warnings and Precautions (5) and Drug Interactions (7)].
-Thyroid hormones do not readily cross the placental barrier [see Warnings and Precautions (5) and Use in Specific Populations (8)].
-
+Many drugs and physiologic conditions affect the binding of thyroid hormones to serum proteins [see Warnings and Precautions (5)and Drug Interactions (7)].
+Thyroid hormones do not readily cross the placental barrier [see Warnings and Precautions(5)and Use in Specific Populations (8)].
 Metabolism – T4 is slowly eliminated.
 The major pathway of thyroid hormone metabolism is through sequential deiodination.
 Approximately eighty percent of circulating T3 is derived from peripheral T4 by monodeiodination.
@@ -43,7 +42,6 @@ The liver is the major site of degradation for both T4 and T3, with T4 deiodinat
 Approximately 80% of the daily dose of T4 is deiodinated to yield equal amounts of T3 and reverse T3 (r T3).
 T3 and r T3 are further deiodinated to diiodothyronine.
 Thyroid hormones are also metabolized via conjugation with glucuronides and sulfates and excreted directly into the bile and gut where they undergo enterohepatic recirculation.
-
 Elimination – Thyroid hormones are primarily eliminated by the kidneys.
 A portion of the conjugated hormone reaches the colon unchanged, where it is hydrolyzed and eliminated in feces as the free hormones.
 Urinary excretion of T4 decreases with age.
@@ -55,27 +53,20 @@ Table 1: Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients
 | T4 | 10 to 20 | 1 | 6 to 81 | 99.96 |
 | T3 | 1 | 4 | ≤ 2 | 99.5 |
 
-T4: Levothyroxine
+T4: Levothyroxine T3: Liothyronine 13 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism.
+2Includes TBG, TBPA, and TBA.
 
-T3: Liothyronine
-
-1 3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism.
-
-2 Includes TBG, TBPA, and TBA.
-
-Drug Interactions
-
-A listing of drug interaction with T4 is provided in the following tables, although it may not be comprehensive due to the introduction of new drugs that interact with the thyroidal axis or the discovery of previously unknown interactions.
+Drug Interactions A listing of drug interaction with T4 is provided in the following tables, although it may not be comprehensive due to the introduction of new drugs that interact with the thyroidal axis or the discovery of previously unknown interactions.
 The prescriber should be aware of this fact and should consult appropriate reference sources (e.g., package inserts of newly approved drugs, medical literature) for additional information if a drug-drug interaction with levothyroxine is suspected.
 
 Table 2: Drugs That May Alter T4 and T3 Serum Transport Without Affecting free T4 Concentration (Euthyroidism)
 
 | Drugs That May Increase Serum TBG Concentration | Drugs That May Decrease Serum TBG Concentration |
 | --- | --- |
-| ClofibrateEstrogen-containing oral contraceptivesEstrogens (oral)Heroin / Methadone5-FluorouracilMitotaneTamoxifen | Androgens / Anabolic SteroidsAsparaginaseGlucocorticoidsSlow-Release Nicotinic Acid |
-| Drugs That May Cause Protein-Binding Site DisplacementPotential impact: Administration of these agents with levothyroxine results in an initial transient increase in FT4. Continued administration results in a decrease in serum T4 and normal FT4 and TSH concentrations and, therefore, patients are clinically euthyroid. |  |
-| Salicylates (> 2 g/day) | Salicylates inhibit binding of T4 and T3 to TBG and transthyretin. An initial increase in serum FT4 is followed by return of FT4 to normal levels with sustained therapeutic serum salicylate concentrations, although total-T4 levels may decrease by as much as 30%. |
-| Other drugs:Furosemide (> 80 mg IV)HeparinHydantoinsNon-Steroidal Anti-inflammatory Drugs- Fenamates- Phenylbutazone |  |
+| Clofibrate Estrogen-containing oral contraceptives Estrogens (oral) Heroin/Methadone 5-Fluorouracil Mitotane Tamoxifen | Androgens/Anabolic Steroids Asparaginase Glucocorticoids Slow-Release Nicotinic Acid |
+| Drugs That May Cause Protein-Binding Site Displacement Potential impact: Administration of these agents with levothyroxine results in an initial transient increase in FT4. Continued administration results in a decrease in serum T4 and normal FT4 and TSH concentrations and, therefore, patients are clinically euthyroid. |  |
+| Salicylates (greater than 2 g/day) | Salicylates inhibit binding of T4 and T3 to TBG and transthyretin. An initial increase in serum FT4 is followed by return of FT4 to normal levels with sustained therapeutic serum salicylate concentrations, although total-T4 levels may decrease by as much as 30%. |
+| Other drugs: Furosemide (greater than 80 mg IV) Heparin Hydantoins Non-Steroidal Anti-inflammatory Drugs - Fenamates - Phenylbutazone |  |
 
 Table 3: Drugs That May Alter Hepatic Metabolism of T4 (Hypothyroidism)
 
@@ -83,8 +74,8 @@ Potential impact: Stimulation of hepatic microsomal drug-metabolizing enzyme act
 
 | Drug or Drug Class |  |
 | --- | --- |
-| CarbamazepineHydantoins | Phenytoin and carbamazepine reduce serum protein binding of levothyroxine, and total- and free- T4 may be reduced by 20% to 40%, but most patients have normal serum TSH levels and are clinically euthyroid. |
-| Other drugs:PhenobarbitalRifampin |  |
+| Carbamazepine Hydantoins | Phenytoin and carbamazepine reduce serum protein binding of levothyroxine, and total- and free- T4 may be reduced by 20% to 40%, but most patients have normal serum TSH levels and are clinically euthyroid. |
+| Other drugs: Phenobarbital Rifampin |  |
 
 Table 4: Drugs That May Decrease Conversion of T4 to T3
 
@@ -93,6 +84,6 @@ However, serum T4 levels are usually normal but may occasionally be slightly inc
 
 | Drug or Drug Class | Effect |
 | --- | --- |
-| Beta-adrenergic antagonists(e.g. Propranolol > 160 mg/day) | In patients treated with large doses of propranolol (> 160 mg/day), T3 and T4 levels change slightly, TSH levels remain normal, and patients are clinically euthyroid. It should be noted that actions of particular beta-adrenergic antagonists may be impaired when the hypothyroid patient is converted to the euthyroid state. |
-| Glucocorticoids(e.g. Dexamethasone > 4 mg/day) | Short-term administration of large doses of glucocorticoids may decrease serum T3 concentrations by 30% with minimal change in serum T4 levels. However, long-term glucocorticoid therapy may result in slightly decreased T3 and T4 levels due to decreased TBG production (see above). |
-| Other drug:Amiodarone |  |
+| Beta-adrenergic antagonists (e.g., Propranolol greater than 160 mg/day) | In patients treated with large doses of propranolol (greater than 160 mg/day), T3 and T4 levels change slightly, TSH levels remain normal, and patients are clinically euthyroid. It should be noted that actions of particular beta- adrenergic antagonists may be impaired when the hypothyroid patient is converted to the euthyroid state. |
+| Glucocorticoids (e.g., Dexamethasone greater than or equal to 4 mg/day) | Short-term administration of large doses of glucocorticoids may decrease serum T3 concentrations by 30% with minimal change in serum T4 levels. However, long- term glucocorticoid therapy may result in slightly decreased T3 and T4 levels due to decreased TBG production (see above). |
+| Other drug: Amiodarone |  |

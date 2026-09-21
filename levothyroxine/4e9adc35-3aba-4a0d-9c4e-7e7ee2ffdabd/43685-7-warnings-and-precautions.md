@@ -9,7 +9,7 @@ Close observation of the patient following the administration of Levothyroxine S
 
 ## 5.2 Need for Concomitant Glucocorticoids and Monitoring for Other Diseases in Patients with Endocrine Disorders
 
-Occasionally, chronic autoimmune thyroiditis, which can lead to myxedema coma, may occur in association with other autoimmune disorders such as adrenal insufficiency, pernicious anemia, and insulin‑dependent diabetes mellitus.
+Occasionally, chronic autoimmune thyroiditis, which can lead to myxedema coma, may occur in association with other autoimmune disorders such as adrenal insufficiency, pernicious anemia, and insulin-dependent diabetes mellitus.
 Patients should be treated with replacement glucocorticoids prior to initiation of treatment with Levothyroxine Sodium for Injection, until adrenal function has been adequately assessed.
 Failure to do so may precipitate an acute adrenal crisis when thyroid hormone therapy is initiated, due to increased metabolic clearance of glucocorticoids by thyroid hormone.
 With initiation of Levothyroxine Sodium for Injection, patients with myxedema coma should also be monitored for previously undiagnosed diabetes insipidus.
@@ -18,4 +18,4 @@ With initiation of Levothyroxine Sodium for Injection, patients with myxedema co
 
 Thyroid hormones, including Levothyroxine Sodium for Injection, either alone or with other therapeutic agents, should not be used for the treatment of obesity or for weight loss.
 In euthyroid patients, doses within the range of daily hormonal requirements are ineffective for weight reduction.
-Larger doses may produce serious or even life threatening manifestations of toxicity, particularly when given in association with sympathomimetic amines such as those used for their anorectic effects [see Adverse Reactions (6) and Overdosage (10)].
+Larger doses may produce serious or even life threatening manifestations of toxicity, particularly when given in association with sympathomimetic amines such as those used for their anorectic effects [see Adverse Reactions (6)and Overdosage (10)].

@@ -1,3 +1,7 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Levothyroxine Sodium for Injection is supplied as a lyophilized powder at three strengths in single use amber-colored vials: 100 mcg, 200 mcg and 500 mcg.
+For injection: a lyophilized powder in a single-dose amber-colored vial containing Levothyroxine Sodium available in the following strengths:
+
+- 100 mcg per vial
+- 200 mcg per vial
+- 500 mcg per vial

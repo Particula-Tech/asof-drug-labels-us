@@ -1,3 +1,3 @@
-Manufactured for: MAIA Pharmaceuticals, Inc. 707 State Road Suite 104 Princeton, NJ 08540
+# SPL UNCLASSIFIED SECTION
 
-Made in India
+Manufactured for: MAIA Pharmaceuticals, Inc. 707 State Road Suite 104, Princeton, NJ 08540 Made in India Code: MAIA-LEV-07-2026
