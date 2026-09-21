@@ -24,12 +24,8 @@ PROTECT FROM LIGHT.
 KEEP OUT OF REACH OF CHILDREN.
 PATIENT: READ ACCOMPANYING PATIENT INFORMATION CAREFULLY.
 
-Manufactured by: Patheon Softgels, Inc. High Point, NC 27265
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Viatris.com
 
-Mylan.com
-
-RBNR6955A1
-
-70036788
+RBNR6955A2

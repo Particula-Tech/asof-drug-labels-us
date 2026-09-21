@@ -17,12 +17,10 @@
 | These are not all the possible side effects of bexarotene capsules. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |
 | How should I store bexarotene capsules? •Store bexarotene capsules between 36°F to 77°F (2°C to 25°C).•Store the bexarotene capsules bottle away from light, heat, and humidity.•The capsules should not be taken after the expiration date printed on the bottle. Keep bexarotene capsules and all medicines out of the reach of children. |  |  |  |
 | General information about the safe and effective use of bexarotene capsulesMedicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use bexarotene capsules for a condition for which it was not prescribed. Do not give bexarotene capsules to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about bexarotene capsules that is written for health professionals. |  |  |  |
-| What are the ingredients in bexarotene capsules?Active ingredient: bexaroteneInactive ingredients: polyethylene glycol 400, polysorbate 20, povidone, and butylated hydroxyanisole. The capsule shell contains gelatin, water, sorbitol sorbitan solution, glycerin and titanium dioxide. The imprinting ink contains hypromellose, iron oxide black, and polyethylene glycol.Manufactured for: Mylan Pharmaceuticals Inc, Morgantown, WV 26505All trademarks or registered trademarks are the trademarks or registered trademarks of their respective owners. For more information, call 1-877-446-3679 (1-877-4-INFO-RX) |  |  |  |
+| What are the ingredients in bexarotene capsules?Active ingredient: bexaroteneInactive ingredients: polyethylene glycol 400, polysorbate 20, povidone, and butylated hydroxyanisole. The capsule shell contains gelatin, water, sorbitol sorbitan solution, glycerin and titanium dioxide. The imprinting ink contains hypromellose, iron oxide black, and polyethylene glycol.Distributed by: Mylan Pharmaceuticals Inc, a Viatris Company, Morgantown, WV 26505All trademarks or registered trademarks are the trademarks or registered trademarks of their respective owners. For more information, call 1-877-446-3679 (1-877-4-INFO-RX) |  |  |  |
 
 This Patient Information has been approved by the U. S. Food and Drug Administration.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Patheon Softgels, Inc. 4125 Premier Drive High Point, NC 27265
-
-Revised: 6/2018 BNR:PL:BEXA:R3p
+Revised: 5/2026 BNR:PL:BEXA:R4p

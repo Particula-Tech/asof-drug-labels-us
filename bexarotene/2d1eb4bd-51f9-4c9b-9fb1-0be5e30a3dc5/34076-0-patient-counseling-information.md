@@ -57,8 +57,6 @@ Advise patients to take bexarotene capsules with a meal [see DOSAGE AND ADMINIST
 
 All trademarks or registered trademarks are the trademarks or registered trademarks of their respective owners.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Patheon Softgels, Inc. 4125 Premier Drive High Point, NC 27265
-
-Revised: 6/2018 BNR:BEXA:R3p
+Revised: 5/2026 BNR:BEXA:R4p
