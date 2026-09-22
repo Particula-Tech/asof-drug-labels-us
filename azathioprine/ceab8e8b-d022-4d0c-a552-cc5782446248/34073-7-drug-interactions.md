@@ -1,9 +1,10 @@
 Drug Interactions:
 
 Use with xanthine oxidase (XO) inhibitors: One of the pathways for inactivation of azathioprine is inhibited by XO inhibitors (allopurinol or febuxostat).
-Patients receiving Azathioprine Tablets and allopurinol concomitantly should have a dose reduction of Aazathioprine Tablets, to approximately 1/3 to 1/4 the usual dose.
+Patients receiving Azathioprine Tablets and allopurinol concomitantly should have a dose reduction of Azathioprine Tablets, to approximately 1/3 to 1/4 the usual dose.
 Concomitant use of Azathioprine Tablets with febuxostat is not recommended.
-Inhibition of XO may cause increased plasma concentrations of azathioprine or its metabolite, 6-MP, leading to toxicity.It is recommended that a further dose reduction or alternative therapies be considered for patients with low or absent TPMT activity receiving Azathioprine Tablets and xanthine oxidase inhibitors because both TPMT and XO inactivation pathways are affected (see CLINICAL PHARMACOLOGY, WARNINGS, PRECAUTIONS: Laboratory Tests and ADVERSE REACTIONS sections).
+Inhibition of XO may cause increased plasma concentrations of azathioprine or its metabolite, 6-MP, leading to toxicity.
+It is recommended that a further dose reduction or alternative therapies be considered for patients with low or absent TPMT activity receiving Azathioprine Tablets and xanthine oxidase inhibitors because both TPMT and XO inactivation pathways are affected (see CLINICAL PHARMACOLOGY, WARNINGS, PRECAUTIONS: Laboratory Tests and ADVERSE REACTIONS sections).
 
 Use with Aminosalicylates: There is in vitro evidence that aminosalicylate derivatives (e.g., sulphasalazine, mesalazine, or olsalazine) inhibit the TPMT enzyme.
 Concomitant use of these agents with Azathioprine Tablets should be done with caution.
@@ -16,7 +17,7 @@ Use with Warfarin: Azathioprine Tablets may inhibit the anticoagulant effect of 
 
 Use with Ribavirin: The use of ribavirin for hepatitis C in patients receiving azathioprine has been reported to induce severe pancytopenia and may increase the risk of azathioprine-related myelotoxicity.
 Inosine monophosphate dehydrogenase (IMDH) is required for one of the metabolic pathways of azathioprine.
-Ribavirin is known to inhibit IMDH, thereby leading to accumulation of an azathioprine metabolite, 6-methylthioionosine monophosphate (6MTITP), which is associated with myelotoxicity (neutropenia, thrombocytopenia, and anemia).
+Ribavirin is known to inhibit IMDH, thereby leading to accumulation of an azathioprine metabolite, 6-methylthioionosine monophosphate (6-MTITP), which is associated with myelotoxicity (neutropenia, thrombocytopenia, and anemia).
 Patients receiving azathioprine with ribavirin should have complete blood counts, including platelet counts, monitored weekly for the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage or other therapy changes are necessary.
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility: See WARNINGS section.

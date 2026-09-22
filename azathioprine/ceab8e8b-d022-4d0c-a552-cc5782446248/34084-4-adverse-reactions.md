@@ -7,7 +7,7 @@ The relative incidences in clinical studies are summarized below:
 | Toxicity | Renal Homograft | Rheumatiod Arthritis |
 | --- | --- | --- |
 | Leukopenia Any Degree | >50% | 28% |
-| <2500 cells/mm 3 | 16% | 5.3% |
+| <2500 cells/mm3 | 16% | 5.3% |
 | Infections | 20% | <1% |
 | Neoplasia |  | * |
 | Lymphoma | 0.5% |  |
@@ -44,4 +44,6 @@ Postmarketing Experience
 The following adverse reactions have been identified during postapproval use of Azathioprine Tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure.
 
-- intrahepatic cholestasis of pregnancy (see WARNINGS, Pregnancy).
+- •intrahepatic cholestasis of pregnancy (see WARNINGS, Pregnancy).
+
+To report SUSPECTED ADVERSE REACTIONS, contact Glenmark Pharmaceuticals Inc., USA at 1 (888) 721-7115 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

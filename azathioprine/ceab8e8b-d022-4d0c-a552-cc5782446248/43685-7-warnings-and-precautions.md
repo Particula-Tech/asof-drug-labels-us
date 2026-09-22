@@ -29,7 +29,7 @@ Leukopenia does not correlate with therapeutic effect; therefore, the dose shoul
 
 TPMT or NUDT15 Deficiency
 
-Patients with thiopurine S-methyl transferase (TPMT) or nucleotide diphosphatase (NUDT15) deficiency may be at an increased risk of severe and life-threatening myelotoxicity if receiving conventional doses of Azathioprine Tablets (see CLINCIAL PHARMACOLOGY).
+Patients with thiopurine S-methyl transferase (TPMT) or nucleotide diphosphatase (NUDT15) deficiency may be at an increased risk of severe and life-threatening myelotoxicity if receiving conventional doses of Azathioprine Tablets (see CLINICAL PHARMACOLOGY).
 Death associated with pancytopenia has been reported in patients with absent TPMT activity receiving azathioprine.
 In patients with severe myelosuppression, consider evaluation for TPMT and NUDT15 deficiency (see PRECAUTIONS: Laboratory Tests).
 Consider alternative therapy in patients with homozygous TPMT or NUDT15 deficiency and reduced dosages in patients with heterozygous deficiency (see DOSAGE AND ADMINISTRATION).

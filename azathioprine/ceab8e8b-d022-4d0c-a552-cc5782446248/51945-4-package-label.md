@@ -8,4 +8,4 @@ AZATHIOPRINE TABLETS USP
 
 50 mg
 
-Rx Only 100 Tablets
+Rx only 100 Tablets
