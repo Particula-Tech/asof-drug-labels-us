@@ -9,9 +9,9 @@ In humans, Type I 5α-reductase is predominant in the sebaceous glands of most r
 Type I 5α-reductase is responsible for approximately one-third of circulating DHT.
 The Type II 5α-reductase isozyme is primarily found in prostate, seminal vesicles, epididymides, and hair follicles as well as liver, and is responsible for two-thirds of circulating DHT.
 In humans, the mechanism of action of finasteride is based on its preferential inhibition of the Type II isozyme.
-Using native tissues (scalp and prostate), in vitro binding studies examining the potential of finasteride to inhibit either isozyme revealed a 100-fold selectivity for the human Type II 5α-reductase over Type I isozyme (IC 50=500 and 4.2 nM for Type I and II, respectively).
+Using native tissues (scalp and prostate), in vitrobinding studies examining the potential of finasteride to inhibit either isozyme revealed a 100-fold selectivity for the human Type II 5α-reductase over Type I isozyme (IC 50=500 and 4.2 nM for Type I and II, respectively).
 For both isozymes, the inhibition by finasteride is accompanied by reduction of the inhibitor to dihydrofinasteride and adduct formation with NADP+.
-The turnover for the enzyme complex is slow (t1/2 approximately 30 days for the Type II enzyme complex and 14 days for the Type I complex).
+The turnover for the enzyme complex is slow (t 1/2approximately 30 days for the Type II enzyme complex and 14 days for the Type I complex).
 Inhibition of Type II 5α-reductase blocks the peripheral conversion of testosterone to DHT, resulting in significant decreases in serum and tissue DHT concentrations.
 In men with male pattern hair loss (androgenetic alopecia), the balding scalp contains miniaturized hair follicles and increased amounts of DHT compared with hairy scalp.
 Administration of finasteride decreases scalp and serum DHT concentrations in these men.
@@ -23,6 +23,7 @@ By this mechanism, finasteride appears to interrupt a key factor in the developm
 Finasteride produces a rapid reduction in serum DHT concentration, reaching 65% suppression within 24 hours of oral dosing with a 1-mg tablet.
 Mean circulating levels of testosterone and estradiol were increased by approximately 15% as compared to baseline, but these remained within the physiologic range.
 Finasteride has no affinity for the androgen receptor and has no androgenic, antiandrogenic, estrogenic, antiestrogenic, or progestational effects.
+The relationship between these pharmacodynamic activities and the mechanisms(s) by which Finasteride exerts its clinical effect is unknown.
 In studies with finasteride, no clinically meaningful changes in luteinizing hormone (LH), follicle-stimulating hormone (FSH) or prolactin were detected.
 In healthy volunteers, treatment with finasteride did not alter the response of LH and FSH to gonadotropin-releasing hormone indicating that the hypothalamic-pituitary-testicular axis was not affected.
 Finasteride had no effect on circulating levels of cortisol, thyroid-stimulating hormone, or thyroxine, nor did it affect the plasma lipid profile (e.g., total cholesterol, low-density lipoproteins, high-density lipoproteins and triglycerides) or bone mineral density.
@@ -48,29 +49,28 @@ Mean terminal half-life in plasma was 4.5 hours (range, 3.3 to 13.4 hours; n=12)
 Following an oral dose of 14C-finasteride in man (n=6), a mean of 39% (range, 32 to 46%) of the dose was excreted in the urine in the form of metabolites; 57% (range, 51 to 64%) was excreted in the feces.
 Mean terminal half-life is approximately 5 to 6 hours in men 18 to 60 years of age and 8 hours in men more than 70 years of age.
 
-| TABLE 3 Mean (SD) Pharmacokinetic Parameters in Healthy Men (ages 18 to 26) |  |
+| TABLE 3: Mean (SD) Pharmacokinetic Parameters in Healthy Men (ages 18 to 26) |  |
 | --- | --- |
-|  | Mean (± SD)n=15 |
+|  | Mean (± SD) n=15 |
 | Bioavailability | 65% (26-170%)* |
 | Clearance (mL/min) | 165 (55) |
 | Volume of Distribution (L) | 76 (14) |
 
 *Range
 
-| TABLE 4 Mean(SD) Noncompartmental Pharmacokinetic Parameters After Multiple Dosesof 1 mg/ day inHealthy Men (ages 19 to 42) |  |
+| TABLE 4: Mean (SD) Noncompartmental Pharmacokinetic Parameters After Multiple Doses of 1 mg/day inHealthy Men (ages 19 to 42) |  |
 | --- | --- |
-| AUC (ng· hr/mL) | Mean (± SD) |
-| (n=12) |  |
+| AUC (ng•hr/mL) | Mean (± SD) (n=12) |
 | 53 (33.8) |  |
 | Peak Concentration (ng/mL) | 9.2 (2.6) |
 | Time to Peak (hours) | 1.3 (0.5) |
 | Half-Life (hours)* | 4.5 (1.6) |
 
 *First-dose values; all other parameters are last-dose values Renal Impairment No dosage adjustment is necessary in patients with renal impairment.
-In patients with chronic renal impairment, with creatinine clearances ranging from 9 to 55 mL/min, AUC, maximum plasma concentration, half-life, and protein binding after a single dose of 14C-finasteride were similar to those obtained in healthy volunteers.
+In patients with chronic renal impairment, with creatinine clearances ranging from 9.0 to 55 mL/min, AUC, maximum plasma concentration, half-life, and protein binding after a single dose of 14C-finasteride were similar to those obtained in healthy volunteers.
 Urinary excretion of metabolites was decreased in patients with renal impairment.
 This decrease was associated with an increase in fecal excretion of metabolites.
 Plasma concentrations of metabolites were significantly higher in patients with renal impairment (based on a 60% increase in total radioactivity AUC).
 However, finasteride has been tolerated in men with normal renal function receiving up to 80 mg/day for 12 weeks where exposure of these patients to metabolites would presumably be much greater.
 Hepatic Impairment The effect of hepatic impairment on finasteride pharmacokinetics has not been studied.
-Caution should be used in the administration of finasteride tablets USP in patients with liver function abnormalities, as finasteride is metabolized extensively in the liver.
+Caution should be used in the administration of finasteride in patients with liver function abnormalities, as finasteride is metabolized extensively in the liver.
