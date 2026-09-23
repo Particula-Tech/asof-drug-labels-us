@@ -91,8 +91,8 @@ Worldwide post-marketing adverse reactions not otherwise listed under the Clinic
 
 Blood and Lymphatic System Disorders: agranulocytosis, neutropenia, and leukopenia; a positive direct or indirect Coombs test, and hemolytic anemia.
 
-Immune System Disorders: angioedema
+Immune System Disorders: angioedema.
 
 Skin and Subcutaneous Disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), erythema multiforme and acute generalized exanthematous pustulosis.
 
-Musculoskeletal Disorders: rhabdomyolysis
+Musculoskeletal Disorders: rhabdomyolysis.
