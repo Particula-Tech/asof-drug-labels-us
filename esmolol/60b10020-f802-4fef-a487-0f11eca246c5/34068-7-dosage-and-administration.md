@@ -60,7 +60,7 @@ Avoid infusions into small veins or through butterfly catheters because of the r
 
 Each bag is for single patient use only and does not contain any preservatives.
 Once drug has been withdrawn from ready-to-use bag, the infusion of the bag contents should commence immediately and complete within 24 hours.
-Discard any unused.
+Discard any unused portion.
 
 Do not remove unit from overwrap until ready to use.
 Do not use if overwrap has been previously opened or damaged.
