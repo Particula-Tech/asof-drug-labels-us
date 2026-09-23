@@ -30,11 +30,11 @@ Patients/caregivers should refer to the steps in the Patient Information section
 
 Pregnancy Registry
 
-Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to entecavir tablets during pregnancy [see Use in Specific Populations (8.1)].
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to entecavir during pregnancy [see Use in Specific Populations (8.1)].
 
 Manufactured by:
 
-Cipla, Limited,
+Cipla Ltd.,
 
 Indore SEZ-454775, MP, INDIA.
 
@@ -42,10 +42,10 @@ Manufactured for:
 
 Cipla USA, Inc.
 
-10 Independence Boulevard, Suit 300,
+10 Independence Boulevard, Suite 300,
 
 Warren, NJ 07059
 
 Disclaimer: Other brands listed are the registered trademarks of their respective owners and are not of Cipla Ltd.
 
-Revised: 5/2024
+Revised: 9/2026

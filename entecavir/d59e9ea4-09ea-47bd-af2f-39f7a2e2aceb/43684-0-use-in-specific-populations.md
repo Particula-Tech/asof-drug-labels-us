@@ -4,7 +4,7 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to entecavir tablets during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to entecavir during pregnancy.
 Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1-800-258-4263.
 
 Risk Summary

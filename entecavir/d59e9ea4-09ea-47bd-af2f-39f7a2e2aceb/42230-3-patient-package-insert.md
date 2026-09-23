@@ -82,7 +82,7 @@ Before you take entecavir tablets, tell your healthcare providers if you:
   It is not known if entecavir tablets will harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - Antiretroviral Pregnancy Registry.
-  If you take entecavir tablets while you are pregnant, talk to your healthcare provider about how you can take part in the entecavir tablets Antiretroviral Pregnancy Registry.
+  If you take entecavir tablets while you are pregnant, talk to your healthcare provider about how you can take part in the entecavir Antiretroviral Pregnancy Registry.
   The purpose of the pregnancy registry is to collect information about the health of you and your baby.
 - are breastfeeding or plan to breastfeed.
   It is not known if entecavir can pass into your breast milk.
@@ -168,7 +168,7 @@ Tablet film-coat: titanium dioxide, hypromellose, polyethylene glycol and iron o
 
 Manufactured by:
 
-Cipla, Limited,
+Cipla Ltd.,
 
 Indore SEZ-454775, MP, INDIA.
 
@@ -176,10 +176,10 @@ Manufactured for:
 
 Cipla USA, Inc.
 
-10 Independence Boulevard, Suit 300,
+10 Independence Boulevard, Suite 300,
 
 Warren, NJ 07059
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 5/2024
+Revised: 9/2026
