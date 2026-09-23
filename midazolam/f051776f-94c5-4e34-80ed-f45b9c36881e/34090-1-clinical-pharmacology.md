@@ -37,7 +37,7 @@ In pediatric patients, a comparison of intravenous midazolam (500 mcg/kg) with p
 
 Plasma Concentration-Efficacy Relationships
 
-Concentration-efficacy relationships (after an intravenous dose) have been demonstrated for a variety of pharmacodynamic measures (eg, reaction time, eye movement, sedation) and are associated with extensive intersubject variability.
+Concentration-efficacy relationships (after an intravenous dose) have been demonstrated for a variety of pharmacodynamic measures (e.g., reaction time, eye movement, sedation) and are associated with extensive intersubject variability.
 Logistic regression analysis of sedation scores and steady-state plasma concentration indicated that at plasma concentrations greater than 100 ng/mL there was at least a 50% probability that patients would be sedated, but respond to verbal commands (sedation score=3).
 At 200 ng/mL there was at least a 50% probability that patients would be asleep, but respond to glabellar tap (sedation score=4).
 
