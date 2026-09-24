@@ -9,7 +9,6 @@ The following serious and otherwise important adverse drug reactions are discuss
 - •Neurotoxicity [see Warnings and Precautions (5.6)]
 - •Hyperkalemia [see Warnings and Precautions (5.7)]
 - •Hypertension [see Warnings and Precautions (5.8)]
-- •Anaphylactic Reactions with Tacrolimus Injection [see Warnings and Precautions (5.9)]
 - •Myocardial Hypertrophy [see Warnings and Precautions (5.13)]
 - •Pure Red Cell Aplasia [see Warnings and Precautions (5.15)]
 - •Thrombotic Microangiopathy, Including Hemolytic Uremic Syndrome and Thrombotic Thrombocytopenic Purpura [see Warnings and Precautions (5.16)]
@@ -416,3 +415,6 @@ Other reactions include:
 - Blindness, optic neuropathy, blindness cortical, hearing loss including deafness, photophobia
 - •Urogenital
 - Acute renal failure, cystitis hemorrhagic, hemolytic-uremic syndrome
+
+Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information

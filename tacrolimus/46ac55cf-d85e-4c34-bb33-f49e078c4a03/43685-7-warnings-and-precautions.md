@@ -27,7 +27,7 @@ Monitor for the development of infection and adjust the immunosuppressive regime
 ## 5.3 Not Interchangeable with Extended-Release Tacrolimus Products – Medication Errors
 
 Medication errors, including substitution and dispensing errors, between tacrolimus immediate-release products and tacrolimus extended-release products were reported outside the U.S. This led to serious adverse reactions, including graft rejection, or other adverse reactions due to under- or overexposure to tacrolimus.
-Tacrolimus is not interchangeable or substitutable for tacrolimus extended-release products.
+Tacrolimus capsules are not interchangeable or substitutable for tacrolimus extended-release products.
 Changes between tacrolimus immediate-release and extended-release dosage forms must occur under physician supervision.
 Instruct patients and caregivers to recognize the appearance of tacrolimus dosage forms [see Dosage Forms and Strengths (3)] and to confirm with the healthcare provider if a different product is dispensed.
 
@@ -67,13 +67,6 @@ Monitor serum potassium levels periodically during treatment.
 Hypertension is a common adverse effect of tacrolimus therapy and may require antihypertensive therapy [see Adverse Reactions (6.1)].
 The control of blood pressure can be accomplished with any of the common antihypertensive agents, though careful consideration should be given prior to use of antihypertensive agents associated with hyperkalemia (e.g., potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers) [see Warnings and Precautions (5.7)].
 Calcium-channel blocking agents may increase tacrolimus blood concentrations and therefore require dosage reduction of tacrolimus [see Drug Interactions (7.2)].
-
-## 5.9 Anaphylactic Reactions with Tacrolimus Injection
-
-Anaphylactic reactions have occurred with injectables containing castor oil derivatives, including tacrolimus, in a small percentage of patients (0.6%).
-The exact cause of these reactions is not known.
-Tacrolimus injection should be reserved for patients who are unable to take tacrolimus capsules orally.
-Monitor patients for anaphylaxis when using the intravenous route of administration [see Dosage and Administration (2.1)].
 
 ## 5.10 Not Recommended for Use with Sirolimus
 

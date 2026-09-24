@@ -22,4 +22,4 @@ The tacrolimus capsule shell for 5 mg strength consists of red iron oxide, gelat
 Tacrolimus capsules, USP 0.5 mg, 1 mg and 5 mg are printed with edible black ink.
 The black ink is comprised of ammonia, black iron oxide, butyl alcohol, potassium hydroxide, propylene glycol, and shellac.
 
-USP Dissolution test 2 and Organic Impurities procedure 2 used.
+Meets USP dissolution test 2.

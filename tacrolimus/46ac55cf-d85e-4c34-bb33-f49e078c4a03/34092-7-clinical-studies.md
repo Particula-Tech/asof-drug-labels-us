@@ -160,9 +160,6 @@ Long-term post-transplant patients are often maintained at the low end of this t
 
 Data from the U.S. clinical trial show that the median trough blood concentrations, measured at intervals from the second week to one year post-transplantation, ranged from 9.8 ng/mL to 19.4 ng/mL.
 
-Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
-However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
-
 ## 14.3 Heart Transplantation
 
 Two open-label, randomized, comparative trials evaluated the safety and efficacy of tacrolimus-based and cyclosporine-based immunosuppression in primary orthotopic heart transplantation.

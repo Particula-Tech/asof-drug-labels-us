@@ -9,10 +9,6 @@ This is because rate of absorption following the administration of an extended-r
 Under- or overexposure to tacrolimus may result in graft rejection or other serious adverse reactions.
 Changes between tacrolimus immediate-release and extended-release dosage forms must occur under physician supervision [see Warnings and Precautions (5.3)].
 
-Intravenous Formulation – Administration Precautions due to Risk of Anaphylaxis
-
-Intravenous use is recommended for patients who cannot tolerate oral formulations, and conversion from intravenous to oral tacrolimus is recommended as soon as oral therapy can be tolerated to minimize the risk of anaphylactic reactions that occurred with injectables containing castor oil derivatives [see Warnings and Precautions (5.9)].
-
 Oral Formulation (Capsules)
 
 If patients are able to initiate oral therapy, the recommended starting doses should be initiated.
@@ -70,12 +66,7 @@ Comparative Dose and Trough Concentrations Based on Race
 | Month 6 | 0.14 | 11.8 | 0.24 | 11.5 |
 | Month 12 | 0.13 | 10.1 | 0.19 | 11.0 |
 
-Intravenous Injection
-
-Anaphylactic reactions have occurred with injectables containing castor oil derivatives, such as tacrolimus injection.
-Therefore, monitoring for signs and symptoms of anaphylaxis is recommended [see Warnings and Precautions (5.9)].
-
-## 2.3 Dosage Recommendations for Pediatric Liver Transplant Patients
+## 2.3 Dosage Recommendations for Pediatric Kidney, Liver, or Heart Transplant Patients
 
 Oral formulation (capsules)
 
@@ -88,7 +79,12 @@ Summary of Initial Tacrolimus Capsule Dosage Recommendations and Whole Blood Tro
 
 | Patient Population | Initial Tacrolimus Capsule Dosing | Whole Blood Trough Concentration Range |
 | --- | --- | --- |
-| Pediatric liver transplant patientsSee Clinical Studies (14.2), Liver Transplantation | 0.15 to 0.2 mg/kg/day capsules, divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
+| Pediatric kidney transplant patients | 0.3 mg/kg/day capsules or oralsuspension, divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
+| Pediatric liver transplant patients2 | 0.15 to 0.2 mg/kg/day capsules or0.2 mg/kg/day oral suspension, divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
+| Pediatric heart transplant patients | 0.3 mg/kg/day3capsules or oralsuspension, divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
+
+1. 2.See Clinical Studies (14.2), Liver Transplantation.
+2. 3.Dose at 0.1 mg/kg/day if antibody induction treatment is administered.
 
 For conversion of pediatric patients from tacrolimus granules to tacrolimus capsules or from tacrolimus capsules to tacrolimus granules, the total daily dose should remain the same.
 Following conversion from one formulation to another formulation of tacrolimus, therapeutic drug monitoring is recommended [see Dosage and Administration (2.6)].

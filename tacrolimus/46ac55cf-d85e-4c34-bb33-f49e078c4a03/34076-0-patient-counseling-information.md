@@ -6,7 +6,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Advise the patient or caregiver to:
 
-- •Inspect their tacrolimus medicine when they receive a new prescription and before taking it.
+- •Inspect their tacrolimus capsules medicine when they receive a new prescription and before taking it.
   If the appearance of the capsule is not the same as usual, or if dosage instructions have changed, advise patients to contact their healthcare provider as soon as possible to make sure that they have the right medicine.
   Other tacrolimus products cannot be substituted for tacrolimus capsules.
 - •Take tacrolimus capsules at the same 12-hour intervals every day to achieve consistent blood concentrations.
@@ -38,7 +38,7 @@ Advise patients to contact their physician should they develop vision changes, d
 
 ## 17.7 Hyperkalemia
 
-Inform patients that tacrolimus can cause hyperkalemia.
+Inform patients that tacrolimus capsules can cause hyperkalemia.
 Monitoring of potassium levels may be necessary, especially with concomitant use of other drugs known to cause hyperkalemia [see Warnings and Precautions (5.7)].
 
 ## 17.8 Hypertension
@@ -48,7 +48,7 @@ Advise patients to monitor their blood pressure [see Warnings and Precautions (5
 
 ## 17.9 Thrombotic Microangiopathy
 
-Inform patients that tacrolimus can cause blood clotting problems.
+Inform patients that tacrolimus capsules can cause blood clotting problems.
 The risk of this occurring increases when patients take tacrolimus and sirolimus or everolimus concomitantly, or when patients develop certain infections.
 Advise them to seek medical attention promptly if they develop fever, petequiae or bruises, fatigue, confusion, jaundice, oliguria.
 [see Warnings and Precautions (5.16)]
@@ -77,6 +77,8 @@ Inform patients to report symptoms of tiredness, swelling, and/or shortness of b
 
 Inform patients that tacrolimus capsules can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.14)].
 
-Manufactured by Sandoz Private Limited, India for
+Manufactured by
 
-Sandoz Inc., Princeton, NJ 08540.
+Sandoz Private Limited, India for
+
+Sandoz Inc., Plainsboro, NJ 08536.
