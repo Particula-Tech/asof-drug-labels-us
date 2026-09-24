@@ -18,21 +18,18 @@ The maximum mean (95% confidence interval) difference from placebo in the PR int
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of ritonavir have been studied in healthy volunteers and HIV-infected patients (CD4 greater than or equal to 50 cells per μL).
-See Table 5 for ritonavir pharmacokinetic characteristics.
-Absorption The absolute bioavailability of ritonavir has not been determined.
-After a 600 mg dose of oral solution, peak concentrations of ritonavir were achieved approximately 2 hours and 4 hours after dosing under fasting and non-fasting (514 KCal; 9% fat, 12% protein, and 79% carbohydrate) conditions, respectively.
-Ritonavir tablets are not bioequivalent to ritonavir capsules.
-Under moderate fat conditions (857 kcal; 31% fat, 13% protein, 56% carbohydrates), when a single 100 mg ritonavir dose was administered as a tablet compared with a capsule, AUC(0- ∞) met equivalence criteria but mean Cmax was increased by 26% (92.8% confidence intervals: ↑15 to ↑39%).
-No information is available comparing ritonavir tablets to ritonavir capsules under fasting conditions.
-After administration of a single 100 mg dose under fed conditions (617 Kcal, 29% calories from fat), ritonavir oral powder demonstrated comparable bioavailability to the oral solution.
+See Table 4 for ritonavir pharmacokinetic characteristics.
+Absorption
+
+The absolute bioavailability of ritonavir has not been determined.
+After a 100 mg tablet dose of ritonavir, peak concentrations of ritonavir were achieved approximately 3 hours and 4 hours after dosing under fasting conditions and moderate-fat (857 KCal; 31% fat, 13% protein, and 56% carbohydrate) meal, respectively.
+
 Effect of Food on Oral Absorption
 
-The bioavailability of ritonavir tablet, oral solution, and oral powder is decreased under fed conditions as compared to fasted conditions.
+The bioavailability of ritonavir tablet and oral powder is decreased under fed conditions as compared to fasted conditions.
 
 Following the administration of a 100 mg tablet dose of ritonavir, Cmax and AUCinf of ritonavir were decreased by 21 to 23% under moderate fat (857 Kcal, 30% from fat) or high fat conditions (917 Kcal, 60% calories from fat) relative to fasting conditions.
 
-Following the administration of a 600 mg dose ritonavir oral solution, Cmax and AUCinf of ritonavir were decreased by 23% and 7%, respectively, under nonfasting conditions (514 Kcal, 10% from fat) relative to fasting conditions.
-Dilution of the oral solution, within one hour of administration, with 240 mL of chocolate milk, Advera® or Ensure® did not significantly affect the extent and rate of ritonavir absorption.
 Following the administration of a 100 mg dose of ritonavir oral powder, Cmax and AUCinf of ritonavir were decreased by 23 to 49% under moderate fat (617 Kcal, 29% calories from fat) or high fat conditions (917 Kcal, 60% calories from fat) relative to fasting conditions.
 Metabolism
 
@@ -45,7 +42,7 @@ Elimination In a study of five subjects receiving a 600 mg dose of 14C-ritonavir
 In that study, 86.4 ± 2.9% of the dose was excreted in the feces with 33.8 ± 10.8% of the dose excreted as unchanged parent drug.
 Upon multiple dosing, ritonavir accumulation is less than predicted from a single dose possibly due to a time and dose-related increase in clearance.
 
-| Table 5. Ritonavir Pharmacokinetic Characteristics |  |  |
+| Table 4. Ritonavir Pharmacokinetic Characteristics |  |  |
 | --- | --- | --- |
 | Parameter | N | Values (Mean ± SD) |
 | Vβ/F‡ | 91 | 0.41 ± 0.25 L/kg |
@@ -76,10 +73,10 @@ No dose adjustment is recommended in patients with mild or moderate hepatic impa
 However, health care providers should be aware of the potential for lower ritonavir concentrations in patients with moderate hepatic impairment and should monitor patient response carefully.
 Ritonavir has not been studied in patients with severe hepatic impairment.
 Pregnancy Based on evaluation of the published literature, ritonavir exposures are reduced during pregnancy relative to postpartum.
-Drug Interactions [see also Contraindications (4), Warnings and Precautions (5.1), and Drug Interactions (7)] Table 6 and Table 7 summarize the effects on AUC and Cmax, with 95% confidence intervals (95% CI), of co-administration of ritonavir with a variety of drugs.
-For information about clinical recommendations see Table 4 in Drug Interactions (7).
+Drug Interactions [see also Contraindications (4), Warnings and Precautions (5.1), and Drug Interactions (7)] Table 5 and Table 6 summarize the effects on AUC and Cmax, with 95% confidence intervals (95% CI), of co-administration of ritonavir with a variety of drugs.
+For information about clinical recommendations see Table 3 in Drug Interactions (7).
 
-| Table 6. Drug Interactions - Pharmacokinetic Parameters for Ritonavir in the Presence of the Co­-administered Drug |  |  |  |  |  |  |
+| Table 5. Drug Interactions - Pharmacokinetic Parameters for Ritonavir in the Presence of the Co­-administered Drug |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of Ritonavir (mg) | N | AUC % (95% CI) | Cmax (95% CI) | Cmin (95% CI) |
 | Clarithromycin | 500 q12h, 4 d | 200 q8h, 4 d | 22 | ↑ 12% (2, 23%) | ↑ 15% (2, 28%) | ↑ 14% (­-3, 36%) |
@@ -92,7 +89,7 @@ For information about clinical recommendations see Table 4 in Drug Interactions 
 | Zidovudine | 200 q8h, 4 d | 300 q6h, 4 d | 10 | ↔ | ↔ | ↔ |
 | ND=not determined |  |  |  |  |  |  |
 
-| Table 7. Drug Interactions - Pharmacokinetic Parameters for Co-administered Drug in the Presence of Ritonavir |  |  |  |  |  |  |
+| Table 6. Drug Interactions - Pharmacokinetic Parameters for Co-administered Drug in the Presence of Ritonavir |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of Ritonavir (mg) | N | AUC % (95% CI) | Cmax (95% CI) | Cmin (95% CI) |
 | Alprazolam | 1, single dose | 500 q12h, 10 d | 12 | ↓ 12% (­-5, 30%) | ↓ 16% (5, 27%) | ND |

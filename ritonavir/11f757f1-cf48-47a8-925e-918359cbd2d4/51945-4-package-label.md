@@ -6,4 +6,5 @@ Take ritonavir tablets with meals.
 ALERT: Find out about medicines that should NOT be taken with ritonavir tablets.
 Note to Pharmacist: Do not cover ALERT box with pharmacy label.
 Dispense the patient information leaflet provided separately to each patient.
+
 Rx only 30 Tablets AUROBINDO

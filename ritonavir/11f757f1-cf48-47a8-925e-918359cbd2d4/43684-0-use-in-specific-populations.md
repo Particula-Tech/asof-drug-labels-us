@@ -4,18 +4,17 @@ When co-administering ritonavir with other protease inhibitors, see the full pre
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ritonavir during pregnancy.
-Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1–800–258–4263.
-Risk Summary Prospective pregnancy data from the Antiretroviral Pregnancy Registry (APR) are not sufficient to adequately assess the risk of birth defects or miscarriage.
+Risk Summary
+
+Prospective pregnancy data from the Antiretroviral Pregnancy Registry (APR) are not sufficient to adequately assess the risk of birth defects or miscarriage.
 Available data from the APR show no difference in the rate of overall birth defects for ritonavir compared to the background rate for major birth defects of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) [see Data].
+
 In animal reproduction studies, no evidence of adverse developmental outcomes was observed with oral administration of ritonavir to pregnant rats and rabbits.
 During organogenesis in the rat and rabbit, systemic exposure (AUC) was approximately 1/3 lower than human exposure at the recommended daily dose.
 In the rat pre- and post-natal developmental study, maternal systemic exposure to ritonavir was approximately 1/2 of the exposure in humans at the recommended daily dose, based on a body surface area conversion factor [see Data].
-Ritonavir oral solution is not recommended during pregnancy because there is no known safe level of ethanol exposure during pregnancy [see Clinical Considerations, Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
-Clinical Considerations Dose Adjustments During Pregnancy and the Postpartum Period Ritonavir oral solution contains ethanol and propylene glycol and is not recommended during pregnancy because there is no known safe level of ethanol exposure during pregnancy [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
 Data Human Data Based on prospective reports to the APR of approximately 6100 live births following exposure to ritonavir-containing regimens (including over 2800 live births exposed in the first trimester and over 3200 live births exposed in the second and third trimesters), there was no difference in the rate of overall birth defects for ritonavir compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
 The prevalence of birth defects in live births was 2.3% (95% CI: 1.7% to 2.9%) following first-trimester exposure to ritonavir-containing regimens and 2.9% (95% CI: 2.3% to 3.5%) following second and third trimester exposure to ritonavir-containing regimens.
 While placental transfer of ritonavir and fetal ritonavir concentrations are generally low, detectable levels have been observed in cord blood samples and neonate hair.
@@ -51,4 +50,4 @@ In general, dose selection for an elderly patient should be cautious, usually st
 ## 8.6 Hepatic Impairment
 
 No dose adjustment of ritonavir is necessary for patients with either mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment.
-No pharmacokinetic or safety data are available regarding the use of ritonavir in subjects with severe hepatic impairment (Child-Pugh Class C), therefore, ritonavir is not recommended for use in patients with severe hepatic impairment [see Warnings and Precautions (5.3), Clinical Pharmacology (12.3)].
+No pharmacokinetic or safety data are available regarding the use of ritonavir in subjects with severe hepatic impairment (Child-Pugh Class C), therefore, ritonavir is not recommended for use in patients with severe hepatic impairment [see Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
