@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA214418"
+  ],
+  "inn": "beclomethasone",
+  "labeler": "Aurolife Pharma LLC",
+  "package_ndcs": [
+    "13107-230-54",
+    "13107-231-54"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "beclomethasone dipropionate",
+      "name": "Beclomethasone Dipropionate"
+    }
+  ],
+  "setid": "a27795ec-4309-4a40-8dc2-12d0ec5bf12b",
+  "source": "dailymed"
+}

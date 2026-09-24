@@ -1,0 +1,17 @@
+# 11 DESCRIPTION
+
+The active component of beclomethasone dipropionate HFA 40 mcg inhalation aerosol and beclomethasone dipropionate HFA 80 mcg inhalation aerosol is beclomethasone dipropionate, USP, a corticosteroid having the chemical name 9-chloro-11ß,17, 21-trihydroxy-16ß-methylpregna-1,4-diene-3,20-dione17,21-dipropionate.
+Beclomethasone dipropionate (BDP) is a diester of beclomethasone, a synthetic corticosteroid chemically related to dexamethasone.
+Beclomethasone differs from dexamethasone in having a chlorine at the 9-alpha carbon in place of a fluorine, and in having a 16 beta-methyl group instead of a 16 alpha-methyl group.
+Beclomethasone dipropionate is a white to cream white, odorless powder with a molecular formula of C28H37ClO7 and a molecular weight of 521.1.
+Its chemical structure is:
+
+Beclomethasone dipropionate HFA inhalation aerosol is a pressurized, metered-dose aerosol with a dose counter intended for oral inhalation only.
+Each unit contains a solution of beclomethasone dipropionate USP in ethanol (12.07 % v/v) and propellant HFA-134a (1,1,1,2 tetrafluoroethane).
+Beclomethasone dipropionate HFA inhalation aerosol 40 mcg delivers 40 mcg of beclomethasone dipropionate from the actuator and 50 mcg from the valve.
+Beclomethasone dipropionate HFA inhalation aerosol 80 mcg delivers 80 mcg of beclomethasone dipropionate from the actuator and 100 mcg from the valve.
+Both products deliver 50 microliters (59 milligrams) of solution formulation from the valve with each actuation.
+The 40 mcg canisters and the 80 mcg canisters provide 120 inhalations each.
+Beclomethasone dipropionate HFA inhalation aerosol should be "primed" or actuated twice prior to taking the first dose from a new canister, or when the inhaler has not been used for more than 10 days.
+Avoid spraying in the eyes or face while priming beclomethasone dipropionate HFA inhalation aerosol.
+This product does not contain chlorofluorocarbons (CFCs).
