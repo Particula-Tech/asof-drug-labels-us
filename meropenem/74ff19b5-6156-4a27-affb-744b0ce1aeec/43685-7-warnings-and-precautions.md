@@ -17,7 +17,7 @@ If signs and symptoms suggestive of these reactions appear, meropenem should be 
 ## 5.3 Seizure Potential
 
 Seizures and other adverse CNS experiences have been reported during treatment with Meropenem for injection.
-These experiences have occurred most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) or with bacterial meningitis and/or compromised renal function [see Adverse Reactions(6.1)and Drug Interactions(7.2)].
+These experiences have occurred most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) or with bacterial meningitis and/or compromised renal function [see Adverse Reactions (6.1)and Drug Interactions (7.2)].
 
 During clinical investigations, 2904 immunocompetent adult patients were treated for non-CNS infections with the overall seizure rate being 0.7% (based on 20 patients with this adverse event).
 All meropenem-treated patients with seizures had pre-existing contributing factors.
@@ -35,7 +35,7 @@ Case reports in the literature have shown that co-administration of carbapenems,
 The valproic acid concentrations may drop below the therapeutic range as a result of this interaction, therefore increasing the risk of breakthrough seizures.
 Increasing the dose of valproic acid or divalproex sodium may not be sufficient to overcome this interaction.
 Consider administration of antibacterial drugs other than carbapenems to treat infections in patients whose seizures are well controlled on valproic acid or divalproex sodium.
-If administration of Meropenem for injection is necessary, consider supplemental anti-convulsant therapy [see Drug Interactions(7.2)].
+If administration of Meropenem for injection is necessary, consider supplemental anti-convulsant therapy [see Drug Interactions (7.2)].
 
 ## 5.5 Clostridium difficile–associated Diarrhea
 
@@ -62,9 +62,9 @@ If superinfection does occur during therapy, appropriate measures should be take
 
 ## 5.8 Thrombocytopenia
 
-In patients with renal impairment, thrombocytopenia has been observed but no clinical bleeding reported [see Dosage and Administration(2.2), Adverse Reactions(6.1), Use in Specific Populations(8.5) and (8.6), and Clinical Pharmacology (12.3)].
+In patients with renal impairment, thrombocytopenia has been observed but no clinical bleeding reported [see Dosage and Administration (2.2), Adverse Reactions (6.1), Use in Specific Populations (8.5) and (8.6), and Clinical Pharmacology (12.3)].
 
 ## 5.9 Potential for Neuromotor Impairment
 
 Alert patients receiving Meropenem for injection on an outpatient basis regarding adverse events such as seizures, delirium, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
-Until it is reasonably well established that Meropenem for injection is well tolerated, advise patients not to operate machinery or motorized vehicles [see Adverse Reactions(6.1)].
+Until it is reasonably well established that Meropenem for injection is well tolerated, advise patients not to operate machinery or motorized vehicles [see Adverse Reactions (6.1)].

@@ -2,15 +2,15 @@
 
 The following are discussed in greater detail in other sections of labeling:
 
-1. 1.Hypersensitivity Reactions [see Warnings and Precautions(5.1)]
-2. 2.Severe Cutaneous Adverse Reactions [see Warnings and Precautions(5.2)]
-3. 3.Seizure Potential [see Warnings and Precautions()]
+1. 1.Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+2. 2.Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)]
+3. 3.Seizure Potential [see Warnings and Precautions (5.3)]
 4. 4.Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid [see Warnings and Precautions (5.4)]
-5. 5.Clostridium difficile – associated Diarrhea [see Warnings and Precautions(5.5)]
-6. 6.Development of Drug-Resistant Bacteria [see Warnings and Precautions(5.6)]
-7. 7.Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions(5.7)]
-8. 8.Thrombocytopenia [see Warnings and Precautions(5.8)]
-9. 9.Potential for Neuromotor Impairment [see Warnings and Precautions()]
+5. 5.Clostridium difficile – associated Diarrhea [see Warnings and Precautions (5.5)]
+6. 6.Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.6)]
+7. 7.Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions (5.7)]
+8. 8.Thrombocytopenia [see Warnings and Precautions (5.8)]
+9. 9.Potential for Neuromotor Impairment [see Warnings and Precautions (5.9)]
 
 ## 6.1 Adverse Reactions from Clinical Trials
 
@@ -57,7 +57,7 @@ Hemic/Lymphatic: anemia, hypochromic anemia, hypervolemia
 
 Metabolic/Nutritional: peripheral edema, hypoxia
 
-Nervous System: insomnia, agitation, delirium, confusion, dizziness, seizure, nervousness, paresthesia, hallucinations, somnolence, anxiety, depression, asthenia [see Warnings and Precautions() and ()]
+Nervous System: insomnia, agitation, delirium, confusion, dizziness, seizure, nervousness, paresthesia, hallucinations, somnolence, anxiety, depression, asthenia [see Warnings and Precautions (5.3) and (5.9)]
 
 Respiratory: respiratory disorder, dyspnea, pleural effusion, asthma, cough increased, lung edema
 
@@ -85,7 +85,7 @@ Adverse events with an incidence of greater than 1%, and not listed above, inclu
 
 Patients with Renal Impairment:
 
-For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported with Meropenem for injection, increased in patients with moderately severe renal impairment (creatinine clearance 10 to 26 mL/min) [see Dosage and Administration (2.2), Warnings and Precautions (), Use in Specific Populations (8.5) and (8.6) and Clinical Pharmacology (12.3)].
+For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported with Meropenem for injection, increased in patients with moderately severe renal impairment (creatinine clearance 10 to 26 mL/min) [see Dosage and Administration (2.2), Warnings and Precautions (5.9), Use in Specific Populations (8.5) and (8.6) and Clinical Pharmacology (12.3)].
 
 Pediatric Patients:
 

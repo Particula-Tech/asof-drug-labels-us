@@ -97,7 +97,7 @@ For Infusion
 
 •Injection vials (500 mg and 1 gram) may be directly re-constituted with a compatible infusion fluid.
 
-•Alternatively, an injection vial may be re-constituted, then the resulting solution added to an intravenous container and further diluted with an appropriate infusion fluid [see Dosage and Administration(2.5) and (2.6)].
+•Alternatively, an injection vial may be re-constituted, then the resulting solution added to an intravenous container and further diluted with an appropriate infusion fluid [see Dosage and Administration (2.5) and (2.6)].
 
 •Do not use flexible container in series connections.
 

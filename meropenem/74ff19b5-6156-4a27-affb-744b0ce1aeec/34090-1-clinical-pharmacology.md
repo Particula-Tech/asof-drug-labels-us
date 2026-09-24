@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Meropenem is an antibacterial drug [see Microbiology(12.4)].
+Meropenem is an antibacterial drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -25,7 +25,7 @@ The plasma protein binding of meropenem is approximately 2%.
 
 After a single intravenous dose of Meropenem for injection, the highest mean concentrations of meropenem were found in tissues and fluids at 1 hour (0.5 hours to 1.5 hours) after the start of infusion, except where indicated in the tissues and fluids listed in Table 5 below.
 
-Table 3: Meropenem Concentrations in Selected Tissues (Highest Concentrations Reported)
+Table 5: Meropenem Concentrations in Selected Tissues (Highest Concentrations Reported)
 
 | Tissue | Intravenous Dose(gram) | Number of Samples | Mean [mcg/mLor mcg/(gram)]at 1 hour unless otherwise noted | Range [mcg/mL ormcg/(gram)] |
 | --- | --- | --- | --- | --- |
@@ -73,10 +73,10 @@ Specific Populations
 Patients with Renal Impairment
 
 Pharmacokinetic studies with Meropenem for injection in patients with renal impairment have shown that the plasma clearance of meropenem correlates with creatinine clearance.
-Dosage adjustments are necessary in subjects with renal impairment (creatinine clearance 50 mL/min or less) [see Dosage and Administration(2.2)and Use in Specific Populations(8.6)].
+Dosage adjustments are necessary in subjects with renal impairment (creatinine clearance 50 mL/min or less) [see Dosage and Administration (2.2)and Use in Specific Populations (8.6)].
 
 Meropenem is hemodialyzable.
-However, there is no information on the usefulness of hemodialysis to treat overdosage [see Overdosage(10)].
+However, there is no information on the usefulness of hemodialysis to treat overdosage [see Overdosage (10)].
 
 Patients with Hepatic Impairment
 

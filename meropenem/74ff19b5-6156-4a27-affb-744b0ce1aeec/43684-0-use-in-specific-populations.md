@@ -38,7 +38,7 @@ The safety and effectiveness of Meropenem for injection have been established fo
 
 Skin and Skin Structure Infections
 
-Use of Meropenem for injection in pediatric patients 3 months of age and older with complicated skin and skin structure infections is supported by evidence from an adequate and well-controlled study in adults and additional data from pediatric pharmacokinetics studies [see Indications and Usage(1.3), Dosage and Administration(2.3), Adverse Reactions(6.1), Clinical Pharmacology(12.3) and Clinical Studies(14.1)].
+Use of Meropenem for injection in pediatric patients 3 months of age and older with complicated skin and skin structure infections is supported by evidence from an adequate and well-controlled study in adults and additional data from pediatric pharmacokinetics studies [see Indications and Usage (1.3), Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
 
 Intra-abdominal Infections
 
@@ -62,4 +62,4 @@ A pharmacokinetic study with Meropenem for injection in elderly patients has sho
 
 ## 8.6 Patients with Renal Impairment
 
-Dosage adjustment is necessary in patients with creatinine clearance 50 mL/min or less [see Dosage and Administration(2.2), Warnings and Precautions(), and Clinical Pharmacology (12.3)].
+Dosage adjustment is necessary in patients with creatinine clearance 50 mL/min or less [see Dosage and Administration (2.2), Warnings and Precautions (5.8), and Clinical Pharmacology (12.3)].
