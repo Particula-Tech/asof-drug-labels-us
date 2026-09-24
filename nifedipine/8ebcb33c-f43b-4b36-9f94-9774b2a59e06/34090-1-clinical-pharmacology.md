@@ -13,7 +13,7 @@ The precise mechanisms by which inhibition of calcium influx relieves angina has
 #### 1) Relaxation and Prevention of Coronary Artery Spasm
 
 Nifedipine dilates the main coronary arteries and coronary arterioles, both in normal and ischemic regions, and is a potent inhibitor of coronary artery spasm, whether spontaneous or ergonovine-induced.
-This property increases myocardial oxygen delivery in patients with coronary artery spasm, and is responsible for the effectiveness of nifedipine in vasospastic (Prinzmetal's or variant) angina.
+This property increases myocardial oxygen delivery in patients with coronary artery spasm and is responsible for the effectiveness of nifedipine in vasospastic (Prinzmetal’s or variant) angina.
 Whether this effect plays any role in classical angina is not clear, but studies of exercise tolerance have not shown an increase in the maximum exercise rate-pressure product, a widely accepted measure of oxygen utilization.
 This suggests that, in general, relief of spasm or dilation of coronary arteries is not an important factor in classical angina.
 

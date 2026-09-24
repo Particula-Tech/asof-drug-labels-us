@@ -3,7 +3,7 @@
 ## Excessive Hypotension
 
 Although in most angina patients the hypotensive effect of nifedipine is modest and well tolerated, occasional patients have had excessive and poorly tolerated hypotension.
-These responses have usually occurred during initial titration or at the time of subsequent upward dosage adjustment, and may be more likely in patients on concomitant beta blockers.
+These responses have usually occurred during initial titration or at the time of subsequent upward dosage adjustment and may be more likely in patients on concomitant beta blockers.
 
 Severe hypotension and/or increased fluid volume requirements have been reported in patients receiving nifedipine together with a beta-blocking agent who underwent coronary artery bypass surgery using high dose fentanyl anesthesia.
 The interaction with high dose fentanyl appears to be due to the combination of nifedipine and a beta blocker, but the possibility that it may occur with nifedipine alone, with low doses of fentanyl, in other surgical procedures, or with other narcotic analgesics cannot be ruled out.
@@ -42,12 +42,14 @@ Cases of tablet adherence to the gastrointestinal wall with ulceration have been
 
 # PRECAUTIONS
 
-## General—Hypotension
+## General
+
+### A) Hypotension
 
 Because nifedipine decreases peripheral vascular resistance, careful monitoring of blood pressure during the initial administration and titration of nifedipine is suggested.
 Close observation is especially recommended for patients already taking medications that are known to lower blood pressure (see WARNINGS).
 
-## Peripheral Edema
+### B) Peripheral Edema
 
 Mild to moderate peripheral edema occurs in a dose dependent manner with an incidence ranging from approximately 10% to about 30% at the highest dose studied (180 mg).
 It is a localized phenomenon thought to be associated with vasodilation of dependent arterioles and small blood vessels and not due to left ventricular dysfunction or generalized fluid retention.
@@ -70,7 +72,7 @@ A small (5.4%) increase in mean alkaline phosphatase was noted in patients treat
 This was an isolated finding not associated with clinical symptoms and it rarely resulted in values which fell outside the normal range.
 Rare instances of allergic hepatitis have been reported.
 In controlled studies, PROCARDIA XL did not adversely affect serum uric acid, glucose, or cholesterol.
-Serum potassium was unchanged in patients receiving PROCARDIA XL in the absence of concomitant diuretic therapy, and slightly decreased in patients receiving concomitant diuretics.
+Serum potassium was unchanged in patients receiving PROCARDIA XL in the absence of concomitant diuretic therapy and slightly decreased in patients receiving concomitant diuretics.
 
 Nifedipine, like other calcium channel blockers, decreases platelet aggregation in vitro.
 Limited clinical studies have demonstrated a moderate but statistically significant decrease in platelet aggregation and an increase in bleeding time in some nifedipine patients.
@@ -84,15 +86,17 @@ The relationship to nifedipine therapy is uncertain in most cases but probable i
 
 ## Drug Interactions
 
-### Beta-adrenergic blocking agents
+### A) Beta-adrenergic blocking agents
 
-(see INDICATIONS AND USAGE and WARNINGS) Experience in over 1400 patients with PROCARDIA capsules in a noncomparative clinical trial has shown that concomitant administration of nifedipine and beta-blocking agents is usually well tolerated, but there have been occasional literature reports suggesting that the combination may increase the likelihood of congestive heart failure, severe hypotension, or exacerbation of angina.
+(see INDICATIONS AND USAGE and WARNINGS).
 
-### Long-acting Nitrates
+Experience in over 1400 patients with PROCARDIA capsules in a noncomparative clinical trial has shown that concomitant administration of nifedipine and beta-blocking agents is usually well tolerated, but there have been occasional literature reports suggesting that the combination may increase the likelihood of congestive heart failure, severe hypotension, or exacerbation of angina.
+
+### B) Long-acting Nitrates
 
 Nifedipine may be safely co-administered with nitrates, but there have been no controlled studies to evaluate the antianginal effectiveness of this combination.
 
-### Digitalis
+### C) Digitalis
 
 Administration of nifedipine with digoxin increased digoxin levels in nine of twelve normal volunteers.
 The average increase was 45%.
@@ -100,12 +104,12 @@ Another investigator found no increase in digoxin levels in thirteen patients wi
 In an uncontrolled study of over two hundred patients with congestive heart failure during which digoxin blood levels were not measured, digitalis toxicity was not observed.
 Since there have been isolated reports of patients with elevated digoxin levels, it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing nifedipine to avoid possible over- or under-digitalization.
 
-### Coumarin Anticoagulants
+### D) Coumarin Anticoagulants
 
 There have been rare reports of increased prothrombin time in patients taking coumarin anticoagulants to whom nifedipine was administered.
 However, the relationship to nifedipine therapy is uncertain.
 
-### Cimetidine
+### E) Cimetidine
 
 A study in six healthy volunteers has shown a significant increase in peak nifedipine plasma levels (80%) and area-under-the-curve (74%), after a one week course of cimetidine at 1000 mg per day and nifedipine at 40 mg per day.
 Ranitidine produced smaller, non-significant increases.
@@ -116,12 +120,12 @@ Nifedipine is metabolized by CYP3A4.
 Co-administration of nifedipine with phenytoin, an inducer of CYP3A4, lowers the systemic exposure to nifedipine by approximately 70%.
 Avoid co-administration of nifedipine with phenytoin or any known CYP3A4 inducer or consider an alternative antihypertensive therapy.
 
-CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin, nefazodone, fluoxetine, saquinavir, indinavir, and nelfinavir may result in increased exposure to nifedipine when co-administered.
+CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin, nefazodone, fluoxetine, saquinavir, indinavir, and nelfinavir may result in increased exposure to nifedipine when co‑administered.
 Careful monitoring and dose adjustment may be necessary; consider initiating nifedipine at the lowest dose available if given concomitantly with these medications.
 
-### Other Interactions
+## Other Interactions
 
-#### Grapefruit Juice
+### Grapefruit Juice
 
 Co-administration of nifedipine with grapefruit juice resulted in approximately a doubling in nifedipine AUC and Cmax with no change in half-life.
 The increased plasma concentrations most likely result from inhibition of CYP 3A4 related first-pass metabolism.
@@ -146,7 +150,7 @@ The doses associated with placentotoxic effects in monkeys were equivalent to or
 There are no adequate and well-controlled studies in pregnant women.
 PROCARDIA XL Extended Release Tablets should be used during pregnancy only if the potential benefit justifies the potential risk.
 
-### Lactation
+## Lactation
 
 Nifedipine is transferred through breast milk.
 PROCARDIA XL should be used during breast-feeding only if the potential benefit justifies the potential risk.
