@@ -6,7 +6,7 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 
 ### Adult Hypertension
 
-Valsartan tablets have been evaluated for safety in more than 4,000 patients, including over 400 treated for over 6 months, and more than 160 for over 1 year.
+Valsartan tablets have been evaluated for safety in more than 4000 patients, including over 400 treated for over 6 months, and more than 160 for over 1 year.
 Adverse reactions have generally been mild and transient in nature and have only infrequently required discontinuation of therapy.
 The overall incidence of adverse reactions with valsartan tablets was similar to placebo.
 
@@ -14,13 +14,13 @@ The overall frequency of adverse reactions was neither dose-related nor related 
 Discontinuation of therapy due to side effects was required in 2.3% of valsartan patients and 2.0% of placebo patients.
 The most common reasons for discontinuation of therapy with valsartan tablets were headache and dizziness.
 
-The adverse reactions that occurred in placebo-controlled clinical trials in at least 1% of patients treated with valsartan tablets and at a higher incidence in valsartan (n = 2,316) than placebo (n = 888) patients included viral infection (3% vs. 2%), fatigue (2% vs. 1%), and abdominal pain (2% vs. 1%).
+The adverse reactions that occurred in placebo-controlled clinical trials in at least 1% of patients treated with valsartan tablets and at a higher incidence in valsartan (n = 2316) than placebo (n = 888) patients included viral infection (3% vs. 2%), fatigue (2% vs. 1%), and abdominal pain (2% vs. 1%).
 
 In trials in which valsartan was compared to an ACE inhibitor with or without placebo, the incidence of dry cough was significantly greater in the ACE-inhibitor group (7.9%) than in the groups who received valsartan (2.6%) or placebo (1.5%).
-In a 129-patient trial limited to patients who had had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, HCTZ, or lisinopril were 20%, 19%, and 69%, respectively (p < 0.001).
+In a 129-patient trial limited to patients who had had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, HCTZ, or lisinopril were 20%, 19%, and 69% respectively (p < 0.001).
 
 Dose-related orthostatic effects were seen in less than 1% of patients.
-An increase in the incidence of dizziness was observed in patients treated with valsartan tablets 320 mg (8%) compared to 10 to 160 mg (2% to 4%).
+An increase in the incidence of dizziness was observed in patients treated with valsartan tablets 320 mg (8%) compared to 10 mg to 160 mg (2% to 4%).
 
 ### Pediatric Hypertension
 
@@ -33,13 +33,13 @@ These events occurred in a study population which frequently had significant com
 
 ### Heart Failure
 
-In the Valsartan Heart Failure Trial (Val-HeFT), comparing valsartan in total daily doses up to 320 mg (n = 2,506) to placebo (n = 2,494), 10% of valsartan patients discontinued for adverse reactions vs. 7% of placebo patients.
+In the Valsartan Heart Failure Trial (Val-HeFT), comparing valsartan in total daily doses up to 320 mg (n = 2506) to placebo (n = 2494), 10% of valsartan patients discontinued for adverse reactions vs. 7% of placebo patients.
 
 The table shows adverse reactions in double-blind short-term heart failure trials, including the first 4 months of the Valsartan Heart Failure Trial, with an incidence of at least 2% that were more frequent in valsartan-treated patients than in placebo-treated patients.
 All patients received standard drug therapy for heart failure, frequently as multiple medications, which could include diuretics, digitalis, beta-blockers.
 About 93% of patients received concomitant ACE inhibitors.
 
-|  | Valsartan (n = 3,282) | Placebo (n = 2,740) |
+|  | Valsartan (n = 3282) | Placebo (n = 2740) |
 | --- | --- | --- |
 | Dizziness | 17% | 9% |
 | Hypotension | 7% | 2% |
@@ -63,7 +63,7 @@ The table shows the percentage of patients discontinued in the valsartan and cap
 
 Discontinuations due to renal dysfunction occurred in 1.1% of valsartan-treated patients and 0.8% of captopril-treated patients.
 
-|  | Valsartan (n = 4,885) | Captopril (n = 4,879) |
+|  | Valsartan (n = 4885) | Captopril (n = 4879) |
 | --- | --- | --- |
 | Discontinuation for adverse reaction | 5.8% | 7.7% |
 | Adverse reactions |  |  |

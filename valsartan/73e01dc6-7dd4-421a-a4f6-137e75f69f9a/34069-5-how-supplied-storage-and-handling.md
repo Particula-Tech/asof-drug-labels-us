@@ -2,7 +2,7 @@
 
 Valsartan Tablets, USP are available containing 40 mg, 80 mg, 160 mg or 320 mg of valsartan, USP.
 
-The 40 mg tablets are yellow, film-coated, round, scored tablets debossed with M on one side of the tablet and V above the score and 7 below the score on the other side.
+The 40 mg tablets are yellow, film-coated, round, functionally scored tablets debossed with M on one side of the tablet and V above the score and 7 below the score on the other side.
 They are available as follows:
 
 NDC 0378-5807-93 bottles of 30 tablets

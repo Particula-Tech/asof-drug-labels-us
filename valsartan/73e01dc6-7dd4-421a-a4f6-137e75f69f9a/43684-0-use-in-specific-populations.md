@@ -43,7 +43,7 @@ Exchange transfusions or dialysis may be required as a means of reversing hypote
 No teratogenic effects were observed when valsartan was administered to pregnant mice and rats at oral doses of up to 600 mg/kg/day (9 and 18 times the maximum recommended human dose (MRHD) on a mg/m2 basis) and to pregnant rabbits at oral doses of up to 10 mg/kg/day.
 
 In rats, oral valsartan administered at maternally toxic doses (600 mg/kg/day) during organogenesis or late gestation and lactation, resulted in decreased fetal and pup weight, pup survival and delayed developmental milestones.
-In rabbits administered maternally toxic doses of 5 and 10 mg/kg/day, fetotoxicity was observed.
+In rabbits administered maternally toxic doses of 5 mg/kg/day and 10 mg/kg/day, fetotoxicity was observed.
 
 ## 8.2 Lactation
 
@@ -72,12 +72,12 @@ No data are available in pediatric patients either undergoing dialysis or with a
 
 ## 8.5 Geriatric Use
 
-In the controlled clinical trials of valsartan, 1,214 (36.2%) hypertensive patients treated with valsartan were ≥ 65 years and 265 (7.9%) were ≥ 75 years.
+In the controlled clinical trials of valsartan, 1214 (36.2%) hypertensive patients treated with valsartan were ≥ 65 years and 265 (7.9%) were ≥ 75 years.
 No overall difference in the efficacy or safety of valsartan was observed in this patient population, but greater sensitivity of some older individuals cannot be ruled out.
 Exposure [measured by area under the curve (AUC)] to valsartan is higher by 70% in the elderly than in the young, however no dosage adjustment is necessary [see Clinical Pharmacology (12.3)].
 
-Of the 2,511 patients with heart failure randomized to valsartan in the Valsartan Heart Failure Trial, 45% (1,141) were 65 years of age or older.
-In the VALsartan In Acute myocardial iNfarcTion trial (VALIANT), 53% (2,596) of the 4,909 patients treated with valsartan and 51% (2,515) of the 4,885 patients treated with valsartan + captopril were 65 years of age or older.
+Of the 2511 patients with heart failure randomized to valsartan in the Valsartan Heart Failure Trial, 45% (1,141) were 65 years of age or older.
+In the VALsartan In Acute myocardial iNfarcTion trial (VALIANT), 53% (2596) of the 4909 patients treated with valsartan and 51% (2515) of the 4885 patients treated with valsartan + captopril were 65 years of age or older.
 There were no notable differences in efficacy or safety between older and younger patients in either trial.
 
 ## 8.6 Renal Impairment

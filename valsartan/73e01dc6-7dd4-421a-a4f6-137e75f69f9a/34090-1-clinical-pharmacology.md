@@ -41,12 +41,12 @@ In healthy volunteers, valsartan peak plasma concentration is reached 2 to 4 hou
 Valsartan shows bi-exponential decay kinetics following intravenous administration, with an average elimination half-life of about 6 hours.
 Absolute bioavailability for valsartan tablets is about 25% (range 10% to 35%).
 The bioavailability of the suspension [see Dosage and Administration (2.2)] is 1.6 times as great as with the tablet.
-AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range (80-320 mg).
+AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range (80 mg to 320 mg).
 Valsartan does not accumulate appreciably in plasma following repeated administration of 200 mg once daily.
 
 In heart failure patients, the average time to peak plasma concentration and elimination half-life of valsartan are similar to those observed in healthy volunteers.
 The average accumulation factor is about 1.7 in heart failure patients following repeated administration of 160 mg twice daily.
-AUC and Cmax values of valsartan increase linearly and are almost proportional with increasing dose from 40 to 160 mg twice a day.
+AUC and Cmax values of valsartan increase linearly and are almost proportional with increasing dose from 40 mg to 160 mg twice a day.
 
 #### Effect of Food
 
@@ -83,7 +83,7 @@ Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is lo
 
 #### Pediatric
 
-In a study of pediatric hypertensive patients (n = 26, 1 to 16 years of age) given single doses of a suspension of valsartan (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
+In a study of pediatric hypertensive patients (n = 26, 1 to 16 years of age) given single doses of a suspension of valsartan (mean: 0.9 mg/kg to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
 Valsartan pharmacokinetics have not been investigated in pediatric patients less than 1 year of age.
 
 #### Gender
