@@ -37,7 +37,7 @@ No safety signals in feeding, growth, and development were observed in the infan
 ## 8.4 Pediatric Use
 
 Safety and efficacy of ANNOVERA have been established in women of reproductive age.
-Efficacy is expected to be the same for postpubertal adolescents under the age of 18 as for users 18 years and older.
+Efficacy is expected to be the same for post pubertal adolescents under the age of 18 as for users 18 years and older.
 Use of ANNOVERA before menarche is not indicated.
 
 ## 8.5 Geriatric Use

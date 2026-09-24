@@ -10,12 +10,12 @@ The following adverse reactions are described elsewhere in other sections of the
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The clinical trials that evaluated the safety of ANNOVERA were obtained from three 13- cycle trials.
+The clinical trials that evaluated the safety of ANNOVERA were obtained from three 13 cycle trials.
 One trial was conducted entirely in the U.S. (15 sites), and the other two were global studies that included 5 U.S. sites and 7 international sites (Australia, Brazil, Chile, Dominican Republic, Finland, Hungary, Sweden).
 All three trials were open label and enrolled healthy females, desiring contraception, 18 to 40 years of age.
 At about 50% enrollment, females with BMI >29 kg/m2 were excluded due to the occurrence of two VTEs in this subgroup.
 In total, 2,308 females contributed 21,590 cycles of exposure for safety evaluation and 999 completed 13 cycles; there were 209 subjects with BMI >29 kg/m2 who contributed 1,254 cycles of exposure with 36 subjects completing 13 cycles.
-The demographic profile for subjects was: mean age 26.7 years, mean BMI 24.1 (16.0- 41.5) kg/m2; 67% were from the U.S. The racial distribution was 71% Caucasian, 14% African American, 4% Asian, and 11% Other; 30% of the population was Hispanic.
+The demographic profile for subjects was: mean age 26.7 years, mean BMI 24.1 (16.041.5) kg/m2; 67% were from the U.S. The racial distribution was 71% Caucasian, 14% African American, 4% Asian, and 11% Other; 30% of the population was Hispanic.
 
 Most Common Adverse Reactions
 
@@ -45,7 +45,7 @@ Among subjects using ANNOVERA for contraception, 12% discontinued from the clini
 Table 2 summarizes the most common adverse reactions leading to discontinuation.
 In addition, 1.4% of subjects discontinued ANNOVERA use due to vaginal system expulsions.
 
-Table 2: Adverse Reactions Leading to Discontinuation by ≥ 1% of ANNOVERA treated Subjects
+Table 2: Adverse Reactions Leading to Discontinuation by ≥ 1% of ANNOVERA-treated Subjects
 
 | Adverse Reactions | % (N=2,308) |
 | --- | --- |

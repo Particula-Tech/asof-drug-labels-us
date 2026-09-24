@@ -19,7 +19,7 @@ The pharmacokinetics (PK) of ANNOVERA were determined in 39 women who used ANNOV
 Following vaginal administration, SA and EE were absorbed into systemic circulation with median tmax of about 2 hours in Cycle 1, Cycle 3, and Cycle 13.
 Concentrations of both components declined after tmax and became more constant after 96 hours post-dose.
 Over subsequent cycles of use, the peak serum concentrations of SA and EE declined.
-Serum concentration-time profiles of SA and EE for Cycles 1, 3, and 13 of ANNOVERA use are provided in Figure 2 and Figure 3 with PK parameters summarized in Table 5 and Table 6.
+Serum concentration-time profiles of SA and EE for Cycles 1, 3, and 13 of ANNOVERA use are provided in Figure 3 and Figure 4 with PK parameters summarized in Table 5 and Table 6.
 
 Figure 3: Mean SA and EE Serum Concentrations Delivered by ANNOVERA Over 21 Days of Dosing for Cycles 1, 3, and 13
 
@@ -27,7 +27,7 @@ Figure 4: Mean SA and EE Serum Concentrations Delivered by ANNOVERA Over the Fir
 
 Table 5: Mean (SD) PK Parameters for SA following ANNOVERA Administration
 
-| Cycle | AUC0-21 day (ng*hr/mL) | AUC0-1 day (ng*hr/mL) | Cmax (pg/mL) | Cavg (pg/mL) |
+| Cycle | AUC 0-21 day (ng*hr/mL) | AUC 0-1 day (ng*hr/mL) | Cmax (pg/mL) | Cavg (pg/mL) |
 | --- | --- | --- | --- | --- |
 | 1 | 96.2 (16.9) | 15 (3.2) | 1,147 (315) | 191 (34) |
 | 3 | 65.9 (14.8) | 5 (1.6) | 363 (133) | 131 (29) |
@@ -35,9 +35,9 @@ Table 5: Mean (SD) PK Parameters for SA following ANNOVERA Administration
 
 Table 6: Mean (SD) PK Parameters for EE following ANNOVERA Administration
 
-| Cycle | AUC0-21 day (ng*hr/mL) | AUC0-1 day (ng*hr/mL) | Cmax (pg/mL) | Cavg (pg/mL) |
+| Cycle | AUC 0-21 day (ng*hr/mL) | AUC 0-1 day (ng*hr/mL) | Cmax (pg/mL) | Cavg (pg/mL) |
 | --- | --- | --- | --- | --- |
-| 1 | 22.2 (9.8) | 2.1 (0.7) | 129 (39) | 44 (19) |
+| 1 | 22.9 (9.8) | 2.1 (0.7) | 129 (39) | 44 (19) |
 | 3 | 14.7 (4.7) | 0.9 (0.4) | 60 (32) | 29 (9) |
 | 13 | 9.6 (4.1) | 0.7 (0.3) | 39 (16) | 19 (8) |
 
@@ -50,7 +50,7 @@ EE is highly protein bound but not specifically bound to serum albumin (98.5%) a
 Metabolism
 
 In vitro data show that both SA and EE are metabolized by the cytochrome P450 (CYP) 3A4 isoenzyme.
-In human serum, two oxidative metabolites (5α-dihydro- and 17α- hydroxy-5α-dihydro metabolites) constitute 50% of exposure relative to SA.
+In human serum, two oxidative metabolites (5α-dihydro- and 17αhydroxy-5α-dihydro metabolites) constitute 50% of exposure relative to SA.
 Both metabolites are not considered as active metabolites with EC50 to progesterone receptor 10-fold higher than that of SA.
 EE is primarily metabolized by aromatic hydroxylation, but a wide variety of hydroxylated and methylated metabolites are formed.
 These are present as free metabolites and as sulfate and glucuronide conjugates.
@@ -75,7 +75,11 @@ A clinical drug-drug interaction (DDI) study was conducted to evaluate the effec
 The results showed that a single-dose vaginal administration of 1,200 mg miconazole suppository on Day 8 of ANNOVERA use increased the systemic exposure of EE (AUCDay8-21) by approximately 67%.
 A similar trend was observed with SA with AUCDay8-9, AUCDay8-10, and AUCDay8-21 increasing by approximately 30%, 32%, and 19%, respectively.
 When 200 mg miconazole vaginal suppositories were administered on Day 8, Day 9, and Day 10 of ANNOVERA use, EE AUCDay8-11 and AUCDay8-21 were increased by 9% and 42%, respectively.
-SA AUCDay8-11 and AUCDay8- 21 were increased by 28% and 27%, respectively.
+SA AUCDay8-11 and AUCDay8-21 were increased by 28% and 27%, respectively.
 Water-based vaginal miconazole cream had no effect on ANNOVERA [see Drug Interactions (7.3)].
 
 The in vitro studies suggest that SA is unlikely to inhibit or induce CYP enzymes at the therapeutic dose.
+
+Tampon Use
+
+The use of tampons had no effect on serum concentrations of segesterone acetate and ethinyl estradiol during use of ANNOVERA [see Dosage and Administration (2.4)].

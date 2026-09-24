@@ -1,8 +1,6 @@
 # Instructions for Use
 
-ANNOVERA® (ann-o-VER-ah)
-
-(segesterone acetate and ethinyl estradiol vaginal system)
+ANNOVERA® (ann-o-VER-ah) (segesterone acetate and ethinyl estradiol vaginal system)
 
 Read this Instructions for Use carefully before you decide if ANNOVERA is right for you.
 This information does not take the place of talking with your gynecologist or other healthcare provider who specializes in women's health.
@@ -54,8 +52,8 @@ How do I use ANNOVERA?
 | --- | --- |
 |  | Step 2. Prepare to insert ANNOVERA. Hold ANNOVERA between your thumb and first (index) finger.Press the sides of ANNOVERA together to make it narrow (See Figure, Step 2). |
 |  | Step 3. Choose a position for insertion of ANNOVERA. Choose the position that is comfortable for you. For example, lying down, squatting, or standing with 1 leg up (See Figures, Steps 3-A, 3-B, 3-C). |
-|  | Step 4. Insert ANNOVERA into your vagina. Gently insert the folded ANNOVERA into your vagina (See Figure, Step 4-A).Push ANNOVERA further up into your vagina using your index finger.Push it in as far as you can. It sometimes helps to push down with the muscles in your vagina while you are inserting ANNOVERA.When you insert ANNOVERA, it may be in different positions in your vagina, but ANNOVERA does not have to be in an exact position for it to work.Mark your vaginal system "in day" on your calendar. |
-|  | Note: If you feel the ANNOVERA in your vagina or if it feels uncomfortable, you may not have pushed the ANNOVERA into your vagina far enough. Use your index finger to gently push ANNOVERA as far as you can into your vagina (See Figure, Step 4- B). There is no danger of ANNOVERA being pushed too far up in the vagina or getting lost. You should not feel ANNOVERA after you have placed it into your vagina. Some women and their partners may be aware of ANNOVERA in the vagina during sexual intercourse. |
+|  | Step 4. Insert ANNOVERA into your vagina. Gently insert the folded ANNOVERA into your vagina (See Figure, Step 4-A).Push ANNOVERA further up into your vagina using your index finger. Push it in as far as you can. It sometimes helps to push down with the muscles in your vagina while you are inserting ANNOVERA.When you insert ANNOVERA, it may be in different positions in your vagina, but ANNOVERA does not have to be in an exact position for it to work.Mark your vaginal system "in day" on your calendar. |
+|  | Note: If you feel the ANNOVERA in your vagina or if it feels uncomfortable, you may not or if it feels uncomfortable, you may not have pushed the ANNOVERA into your vagina far enough. Use your index finger to gently push ANNOVERA as far as you can into your vagina (See Figure, Step 4B). There is no danger of ANNOVERA being pushed too far up in the vagina or getting lost. You should not feel ANNOVERA after you have placed it into your vagina. Some women and their partners may be aware of ANNOVERA in the vagina during sexual intercourse. |
 |  | Step 5. How do I remove ANNOVERA? Wash and dry your hands.Choose the position that is most comfortable for you (See Step 3).Put your index finger into your vagina and hook it through ANNOVERA. Gently pull downward and forward to remove ANNOVERA and pull it out (See Figure, Step 5). It sometimes helps to push down with the muscles in your vagina while you are removing ANNOVERA.Wash the ANNOVERA vaginal system with mild soap and lukewarm water, pat it dry, and store in the case provided.Mark your vaginal system "out day" on your calendar. |
 
 What else should I know about ANNOVERA?
@@ -78,8 +76,8 @@ What else should I know about ANNOVERA?
   When you take the vaginal system out of your vagina at the end of the 13 cycles, dispose of it.
   See "How should I dispose of (throw away) ANNOVERA?" below.
 - If you want to continue using ANNOVERA after 13 cycles, you will need to get a new prescription from your healthcare provider to obtain a new vaginal system.
-- Do not to use any vaginal products such as oil-based suppositories, oil-based creams, or oil-based gels while the vaginal system is in your vagina.
-  Do not use any vaginal lubricants that have silicone or oil in them.
+  Do not use any vaginal products such as oil-based suppositories, oil-based creams, or oil-based gels while the vaginal system is in your vagina.
+- Do not use any vaginal lubricants that have silicone or oil in them.
   Water-based lubricants are ok to use.
   Be sure to read the ingredients on the labels carefully before you buy a vaginal lubricant.
 - First insertion of ANNOVERA must be prior to the date of expiration.
@@ -143,12 +141,4 @@ What if I lose ANNOVERA?
 
 If you have other questions call your healthcare provider.
 
-For information, call Mayne Pharma at 1-844- 825-8500
-
-Distributed by: Mayne Pharma Raleigh, NC 27609
-
-ANNOVERA is a registered trademark of Population Council and licensed under license.
-
-The Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
-
-Revised 08/2024
+For information, call Mayne Pharma at 1-844-825-8500

@@ -28,7 +28,7 @@ Removal of ANNOVERA even briefly during the scheduled 21 days of use can reduce 
 ANNOVERA should be washed with mild soap and water and rinsed and patted dry with a clean cloth towel or paper towel prior to each insertion and at each removal.
 Prior to initial use, the storage case should be labeled with the discard date to avoid using the product beyond 13 cycles [see Dosage and Administration (2) and FDA-approved Patient Information].
 
-Place the completely used ANNOVERA in the case provided and discard via a drug take- back option if one is available.
+Place the completely used ANNOVERA in the case provided and discard via a drug takeback option if one is available.
 If a take-back option is unavailable, then discard in the waste receptacle out of reach of children and pets.
 The vaginal system should NOT be flushed down the toilet.
 See www.fda.gov/drugdisposal for more information about disposal of medicines.
@@ -43,7 +43,7 @@ Need for Additional Contraception
 Use a back-up or alternative method of contraception when:
 
 - Enzyme inducers are used with CHCs [see Drug Interactions (7.1)].
-  ANNOVERA has been out for more than 2 hours cumulative during the 21 days of continuous use or the vaginal system-free interval exceeds 7 days [see Dosage and Administration (2.3)].
+- ANNOVERA has been out for more than 2 hours cumulative during the 21 days of continuous use or the vaginal system-free interval exceeds 7 days [see Dosage and Administration (2.3)].
 
 Postpartum females who have not yet had a period should use an additional method of contraception until ANNOVERA has been in place for 7 consecutive days [see Dosage and Administration (2.2)].
 

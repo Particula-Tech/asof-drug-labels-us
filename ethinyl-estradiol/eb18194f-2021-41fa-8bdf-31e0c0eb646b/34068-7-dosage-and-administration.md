@@ -6,7 +6,7 @@ Instruct patients that ANNOVERA should be used as directed [see How to Start ANN
 One ANNOVERA should be placed in the vagina.
 For maximum contraceptive effectiveness, ANNOVERA is to remain in the vagina continuously for 21 days (3 complete weeks).
 It is removed for a 1-week dose-free interval, and during this time a withdrawal bleed usually occurs.
-The removed vaginal system should be cleaned with mild soap and warm water, patted dry with a clean cloth towel or paper towel, and placed in its case during the 1-week dose- free interval.
+The removed vaginal system should be cleaned with mild soap and warm water, patted dry with a clean cloth towel or paper towel, and placed in its case during the 1-week dose-free interval.
 At the end of the dose-free interval, the vaginal system should be cleaned prior to being placed back in the vagina for another 21 continuous days (3 complete weeks).
 This pattern of ANNOVERA use made up of 3-weeks in and 1-week out is a cycle of use; one ANNOVERA vaginal system will provide contraception for 13 cycles.
 
@@ -63,14 +63,14 @@ Contraceptive efficacy of ANNOVERA may be reduced if a woman deviates from the r
 ANNOVERA should remain in the vagina for a continuous period of 21 days (3 weeks); then ANNOVERA should be taken out of the vagina for 7 days.
 In a 28-day cycle, a deviation that involves ANNOVERA being out of the vagina for less than 7 days will not increase pregnancy risk.
 In a 28-day cycle, a deviation that involves ANNOVERA being out of the vagina for more than 7 days will increase pregnancy risk and back-up contraception is recommended in these instances.
-Deviations from the recommended regimen may result in a new vaginal system change day [See FDA- approved Patient Information].
+Deviations from the recommended regimen may result in a new vaginal system change day [See FDA approved Patient Information].
 
 Inadvertent Removal or Expulsion
 
-ANNOVERA can be accidently expelled.
+ANNOVERA can be accidentally expelled.
 Accidental expulsion could occur while removing a tampon, during coitus, or with straining during a bowel movement.
 If the vaginal system is accidentally expelled once during the 21 days of intravaginal use and is replaced within 2 hours, contraceptive efficacy should not be reduced and no back-up contraception is needed.
-If the vaginal system is accidently expelled, wash it with mild soap and warm water, rinse and pat dry with a clean cloth towel or paper towel, and replace it as soon as possible.
+If the vaginal system is accidentally expelled, wash it with mild soap and warm water, rinse and pat dry with a clean cloth towel or paper towel, and replace it as soon as possible.
 
 During the 21 days of continuous use, if ANNOVERA is out of the vagina for more than 2 continuous hours or more than 2 cumulative hours (multiple inadvertent removals or expulsions adding up to 2 hours), then back-up contraception, such as male condoms or spermicide, should be used until the vaginal system has been in the vagina for 7 consecutive days.
 The use of combined hormonal contraceptives (those containing an estrogen) for emergency contraception during use of ANNOVERA is not recommended.
@@ -83,3 +83,7 @@ The use of combined hormonal contraceptives (those containing an estrogen) for e
 Prolonged Use of ANNOVERA
 
 If ANNOVERA is left in the vagina for more than 21 days, it should be removed for 7 days and then reinserted for 21 days to resume a 21/7 schedule.
+
+## 2.4 Use with Other Vaginal Products
+
+Pharmacokinetic data show that the use of tampons has no effect on the systemic absorption of the hormones released by ANNOVERA.

@@ -36,10 +36,10 @@ The risk of VTE due to CHCs gradually disappears after use is discontinued.
 Figure 1 shows the risk of developing a VTE for females who are not pregnant and do not use CHCs, for females who use CHCs, for pregnant females, and for females in the postpartum period.
 To put the risk of developing a VTE into perspective: If 10,000 females who are not pregnant and do not use CHCs are followed for 1 year, between 1 and 5 of these women will develop a VTE.
 
-Figure 1: Likelihood of Developing a VTE
-
-* CHC = combination hormonal contraception ** Pregnancy data based on actual duration of pregnancy in the reference studies.
-Based on a model assumption that pregnancy duration is 9 months, the rate is 7 to 27 per 10,000 WY.
+| Figure 1: Likelihood of Developing a VTE |
+| --- |
+| * CHC = combination hormonal contraception |
+| ** Pregnancy data based on actual duration of pregnancy in reference studies. Based on a model assumption that pregnancy duration is 9 months, the rate is 7 to 27 per 10,000 WY. |
 
 ## 5.2 Liver Disease
 
@@ -56,7 +56,7 @@ Hepatic adenomas are associated with CHC use.
 An estimate of the attributable risk is 3.3 cases/100,000 CHC users.
 Rupture of hepatic adenomas may cause death through intra-abdominal hemorrhage.
 
-Studies have shown an increased risk of developing hepatocellular carcinoma in long- term (>8 years) CHC users.
+Studies have shown an increased risk of developing hepatocellular carcinoma in long term (>8 years) CHC users.
 The attributable risk of liver cancers in CHC users is less than one case per million users.
 
 ## 5.3 Risk of Liver Enzyme Elevations with Concomitant Hepatitis C Treatment
@@ -68,7 +68,7 @@ ANNOVERA can be restarted approximately 2 weeks following completion of treatmen
 ## 5.4 Hypertension
 
 ANNOVERA is contraindicated in females with uncontrolled hypertension or hypertension with vascular disease [see Contraindications (4)].
-For all females, including those with well- controlled hypertension, monitor blood pressure at routine visits and stop ANNOVERA if blood pressure rises significantly.
+For all females, including those with well-controlled hypertension, monitor blood pressure at routine visits and stop ANNOVERA if blood pressure rises significantly.
 
 An increase in blood pressure has been reported in females using CHCs, and this increase is more likely in older females and with extended duration of use.
 The effect of CHCs on blood pressure may vary according to the progestin in the CHC.
@@ -136,7 +136,7 @@ Females who are not pregnant and use ANNOVERA may experience amenorrhea.
 Based on subject diary data from two clinical trials for up to 13 cycles, amenorrhea occurred in 3–5% of females per cycle using ANNOVERA and in 0.9% of females in all 13 cycles.
 
 If scheduled bleeding does not occur, consider the possibility of pregnancy.
-If the patient has not adhered to the prescribed dosing schedule (removed vaginal system for >2 hours during the first 21 days or does not replace after 7 days of vaginal system- free period), consider the possibility of pregnancy at the time of the first missed period and perform a pregnancy test.
+If the patient has not adhered to the prescribed dosing schedule (removed vaginal system for >2 hours during the first 21 days or does not replace after 7 days of vaginal system free period), consider the possibility of pregnancy at the time of the first missed period and perform a pregnancy test.
 If the patient has adhered to the prescribed dosing schedule and misses 2 consecutive periods, perform a pregnancy test to rule out pregnancy.
 
 Some females may experience amenorrhea or oligomenorrhea after stopping ANNOVERA, especially when such a condition was pre-existent.
@@ -177,11 +177,10 @@ Advise females who tend to develop chloasma to avoid exposure to the sun or ultr
 
 ## 5.15 Toxic Shock Syndrome (TSS)
 
-Cases of TSS have been reported by vaginal ring users.
+Cases of TSS have been reported by ANNOVERA users.
 TSS has been associated with tampons and certain barrier contraceptives, and in some TSS cases ring users were also using tampons.
-Causal relationship between the use of a vaginal ring and TSS has not been established.
-No cases of TSS occurred in clinical trials with ANNOVERA.
-If a patient exhibits signs or symptoms of TSS, consider the possibility of this diagnosis, remove ANNOVERA, and initiate appropriate medical evaluation and treatment.
+Causal relationship between the use of ANNOVERA and TSS has not been established.
+If a patient exhibits signs or symptoms of TSS, consider the possibility of this diagnosis, promptly remove ANNOVERA, and initiate appropriate medical evaluation and treatment.
 
 ## 5.16 Vaginal Use
 

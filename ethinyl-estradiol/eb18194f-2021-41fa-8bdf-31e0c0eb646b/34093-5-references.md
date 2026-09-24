@@ -1,11 +1,8 @@
 # 15 REFERENCES
 
-- 1.
-  Dinger, J, Mohner S, Heinemann K. Cardiovascular risk associated with the use of an etonogestrel- containing vaginal ring.
-  Obstetrics & Gynecology 2013; 122(4): 800-808.
-- 2.
-  Sidney, S, Cheetham TC, Connell FA, Oullet-Hellstrom R, Graham DJ, Davis D,, Recent combined hormonal contraceptives (CHCs) and the risk of thromboembolism and other cardiovascular events in new users.
-  Contraception 2013; 87: 93–100.
-- 3.
-  Combined hormonal contraceptives (CHCs) and the risk of cardiovascular endpoints.
-  Sidney, S. (primary author) http://www.fda.gov/downloads/Drugs/DrugSafety/UCM277384.pdf, accessed 04- April-2019.
+1. Dinger, J, Mohner S, Heinemann K. Cardiovascular risk associated with the use of an etonogestrel- containing vaginal ring.
+   Obstetrics & Gynecology 2013; 122(4): 800808.
+2. Sidney, S, Cheetham TC, Connell FA, Oullet-Hellstrom R, Graham DJ, Davis D,, Recent combined hormonal contraceptives (CHCs) and the risk of thromboembolism and other cardiovascular events in new users.
+   Contraception 2013; 87: 93–100.
+3. Combined hormonal contraceptives (CHCs) and the risk of cardiovascular endpoints.
+   Sidney, S. (primary author) http://www.fda.gov/downloads/Drugs/DrugSafety/UCM277384.pdf, accessed 04April-2019.

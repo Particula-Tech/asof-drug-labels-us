@@ -14,11 +14,11 @@ Table 3: Significant Drug Interactions Involving Substances That Decrease System
 
 | Metabolic Enzyme Inducers |  |
 | --- | --- |
-| Clinical effect | Concomitant use of CHCs with metabolic enzyme inducers may decrease the systemic concentrations of the estrogen and/or progestin component of CHCs [see Clinical Pharmacology (12.3)].Decreased exposure of the estrogen and/or progestin component of CHCs may potentially diminish the effectiveness of CHCs and may lead to contraceptive failure or an increase in breakthrough bleeding. |
-| Prevention or management | Counsel females to use an alternative method of contraception or a back-up method when enzyme inducers are used with CHCs.Continue back-up contraception for 28 days after discontinuing the enzyme inducer to maintain contraceptive reliability. |
-| Examples | Aprepitant, barbiturates, bosentan, carbamazepine, efavirenz, felbamate, griseofulvin, oxcarbazepine, phenytoin, rifampin, rifabutin, rufinamide, topiramate, products containing St. John's wortInduction potency of St. John's wort may vary widely based on preparation., and certain protease inhibitors (see separate section on protease inhibitors below). |
+| Clinical effect | Concomitant use of CHCs with metabolic concentrations of the estrogen and/or progestin component of CHCs [see Clinical Pharmacology (12.3)]Decreased exposure of the estrogen and/or progestin component of CHCs may potentially diminish the effectiveness of CHCs and may lead to contraceptive failure or an increase in breakthrough bleeding |
+| Prevention or management | Counsel females to use an alternative method of contraception or a back-up method when enzyme inducers are used with CHCsContinue back-up contraception for 28 days after discontinuing the enzyme inducer to maintain contraceptive reliability. |
+| Examples | Aprepitant, barbiturates, bosentan, carbamazepine, efavirenz, felbamate, griseofulvin, oxcarbazepine, phenytoin, rifampin rifabutin, rufinamide, topiramate, products containing St. John's wortInduction potency of St. John's wort may vary widely based on preparation., and certain protease inhibitors (see separate section on protease inhibitors below). |
 
-Substances Increasing the Systemic Exposure of CHCs and Potentially Increasing Exposure to Estrogen and/or Progestin in ANNOVERA: Co- administration of atorvastatin or rosuvastatin and certain CHCs containing EE increase systemic exposure of EE by approximately 20–25%.
+Substances Increasing the Systemic Exposure of CHCs and Potentially Increasing Exposure to Estrogen and/or Progestin in ANNOVERA: Coadministration of atorvastatin or rosuvastatin and certain CHCs containing EE increase systemic exposure of EE by approximately 20–25%.
 Ascorbic acid and acetaminophen may increase plasma EE concentrations, possibly by inhibition of conjugation.
 CYP3A4 inhibitors such as itraconazole, voriconazole, fluconazole, grapefruit juice, or ketoconazole may increase systemic exposure of the estrogen and/or progestin component of ANNOVERA.
 
@@ -38,23 +38,23 @@ Table 4: Significant Drug Interaction Information for Drugs Co-Administered with
 | Prevention or management | Dose adjustment for lamotrigine may be necessary. Consult the approved product labeling for lamotrigine. |
 | Thyroid Hormone Replacement Therapy or Corticosteroid Replacement Therapy |  |
 | Clinical effect | Concomitant use of CHCs with thyroid hormone replacement therapy or corticosteroid replacement therapy may increase systemic exposure of thyroid-binding and cortisol-binding globulin [see Warnings and Precautions (5.12)]. |
-| Prevention or management | The dose of replacement thyroid hormone or cortisol therapy may need to be increased. Consult the approved product labeling for the therapy in use [see Warnings and Precautions (5.12)]. |
+| Prevention or management | The dose of replacement thyroid hormone or cortisol therapy may need to be increased. Consult the approved product labeling for the management therapy in use [see Warnings and Precautions (5.12)]. |
 | Other Drugs |  |
-| Clinical effect | Concomitant use of CHCs may decrease systemic exposure of acetaminophen, morphine, salicylic acid, and temazepam. Concomitant use with ethinyl estradiol-containing CHCs may increase systemic exposure of other drugs (eg, cyclosporine, prednisolone, theophylline, tizanidine, and voriconazole). |
+| Clinical effect | Concomitant use of CHCs may decrease systemic exposure of acetaminophen, morphine, salicylic acid, and temazepam. Concomitant use with ethinyl estradiol-containing CHCs may increase systemic exposure of other drugs (e.g. cyclosporine, prednisolone, theophylline, tizanidine, and voriconazole). |
 | Prevention or management | The dosage of drugs that can be affected by this interaction may need to be increased or decreased. Consult the approved product labeling for the concomitantly used drug. |
 
 ## 7.3 Use of Vaginal Products with ANNOVERA
 
 In a drug-drug interaction study with ANNOVERA and the concurrent use of three different formulations of vaginal miconazole, the use of water-based vaginal miconazole cream resulted in no change in exposure to EE or SA from the vaginal system.
-However, the use of either the 1- day or the 3-day oil-based miconazole suppository was associated with an overall increase in exposure up to 67% for EE and 32% for SA.
+However, the use of either the 1-day or the 3-day oil-based miconazole suppository was associated with an overall increase in exposure up to 67% for EE and 32% for SA.
 Considering the potential long-term effect on vaginal system performance, concurrent use of oil-based vaginal suppositories should not occur with ANNOVERA use.
 If there is a need to treat a vaginal condition, water-based vaginal cream or oral therapy may be used concurrently with the vaginal system [see Clinical Pharmacology (12.3)].
 
-Lubricants: Water-based vaginal lubricants have no effect on ANNOVERA; however, oil- based (including silicone-based) vaginal lubricants will alter the vaginal system and/or exposure to EE and SA and should not be used.
+Lubricants: Water-based vaginal lubricants have no effect on ANNOVERA; however, oil-based (including silicone-based) vaginal lubricants will alter the vaginal system and/or exposure to EE and SA and should not be used.
 
 ANNOVERA use is compatible with male condoms made with natural rubber latex, polyisoprene, and polyurethane.
 
-The effect of tampon use on the systemic exposure of SA and EE from ANNOVERA has not been studied.
+Based on the results of this study, tampon use is not expected to pose any impact on efficacy and/or bleeding profile.
 
 ## 7.4 Concomitant Use with HCV Combination Therapy – Liver Enzyme Elevation
 
