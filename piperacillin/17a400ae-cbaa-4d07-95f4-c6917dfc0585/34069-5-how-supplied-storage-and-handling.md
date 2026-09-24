@@ -2,12 +2,11 @@
 
 Piperacillin and Tazobactam for Injection, USP is supplied as follows:
 
-44567-804-01 40.5 grams per 1 bottle per carton
+| 44567-804-01 | 40.5 grams per Pharmacy Bulk Bottle | 1 bottle per carton |
+| --- | --- | --- |
 
-- Pharmacy Bulk Bottle
-
-1. 1.Each pharmacy bulk package bottle provides piperacillin sodium equivalent to 36 grams of piperacillin and tazobactam sodium equivalent to 4.5 grams of tazobactam.
-   Each pharmacy bulk package bottle contains 84.6 mEq (1,945 mg) of sodium.
+Each pharmacy bulk package bottle provides piperacillin sodium equivalent to 36 grams of piperacillin and tazobactam sodium equivalent to 4.5 grams of tazobactam.
+Each pharmacy bulk package bottle contains 84.6 mEq (1,945 mg) of sodium.
 
 Storage Conditions
 

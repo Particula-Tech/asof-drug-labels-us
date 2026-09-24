@@ -35,9 +35,9 @@ However, in 3.2% of the patients treated worldwide, piperacillin and tazobactam 
 Nosocomial Pneumonia Trials
 
 Two trials of nosocomial lower respiratory tract infections were conducted.
-In one study, 222 patients were treated with piperacillin and tazobactam for injection in a dosing regimen of 4.5 g every 6 hours in combination with an aminoglycoside and 215 patients were treated with imipenem/cilastatin (500 mg/500 mg every 6 hours) in combination with an aminoglycoside.
+In one study, 222 patients were treated with piperacillin and tazobactam in a dosing regimen of 4.5 g every 6 hours in combination with an aminoglycoside and 215 patients were treated with imipenem/cilastatin (500 mg/500 mg every 6 hours) in combination with an aminoglycoside.
 In this trial, treatment-emergent adverse events were reported by 402 patients, 204 (91.9%) in the piperacillin and tazobactam group and 198 (92.1%) in the imipenem/cilastatin group.
-Twenty-five (11.0%) patients in the piperacillin and tazobactam group and 14 (6.5%) in the imipenem/cilastatin group (p > 0.05) discontinued treatment due to an adverse event.
+Twenty-five (11%) patients in the piperacillin and tazobactam group and 14 (6.5%) in the imipenem/cilastatin group (p > 0.05) discontinued treatment due to an adverse event.
 
 The second trial used a dosing regimen of 3.375 g given every 4 hours with an aminoglycoside.
 

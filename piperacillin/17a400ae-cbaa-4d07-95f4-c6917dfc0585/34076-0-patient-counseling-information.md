@@ -24,7 +24,7 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 
 Pregnancy and Lactation
 
-Patients should be counseled that piperacillin and tazobactam for injection can cross the placenta in humans and is excreted in human milk [see Use in Speciﬁc Populations (8.1, 8.2)].
+Patients should be counseled that piperacillin and tazobactam can cross the placenta in humans and is excreted in human milk [see Use in Speciﬁc Populations (8.1, 8.2)].
 
 CLINITEST® is a registered trademark of Siemens Healthcare Diagnostics Inc.
 
