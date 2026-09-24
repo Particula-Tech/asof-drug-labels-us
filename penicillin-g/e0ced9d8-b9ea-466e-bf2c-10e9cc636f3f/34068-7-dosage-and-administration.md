@@ -42,7 +42,7 @@ This product should not be administered to patients requiring less than one mill
 | Arthritis | 100,000 units/kg/day in 4 equally divided doses for 7 to 10 days |
 | Meningitis | 250,000 units/kg/day in equal doses every 4 hours for 10 to 14 days |
 | Endocarditis | 250,000 units/kg/day in equal doses every 4 hours for 4 weeks |
-| Arthritis, meningitis, endocarditis | Weight 45 kg or greater: 10 million units/day in 4 equally divided doses with the duration of therapy depending on the type of infection |
+| Arthritis, meningitis, endocarditis | Weight 45 kg or greater: 10 million units/day in equally divided doses with the duration of therapy depending on the type of infection |
 | Syphilis (congenital and neurosyphilis) after the newborn period | 200,000 to 300,000 units/kg/day (administered as 50,000 units/kg every 4 to 6 hours) for 10 to 14 days |
 | Diphtheria (adjunctive therapy to antitoxin and for prevention of the carrier state) | 150,000 to 250,000 units/kg/day in equal doses every 6 hours for 7 to 10 days |
 | Rat-bite fever; Haverhill fever (with endocarditis caused by S. moniliformis) | 150,000 to 250,000 units/kg/day in equal doses every 4 hours for 4 weeks |
