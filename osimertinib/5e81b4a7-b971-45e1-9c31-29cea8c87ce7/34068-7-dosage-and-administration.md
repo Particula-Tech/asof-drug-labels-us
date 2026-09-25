@@ -24,7 +24,7 @@ Table 1: Patient Selection
 | Adjuvant Treatment of EGFR Mutation-Positive NSCLC [see Indications and Usage (1.1)] | TAGRISSO monotherapy | EGFR exon 19 deletions or exon 21 L858R mutations | Tumor |
 | Locally Advanced, Unresectable (Stage III) EGFR Mutation-Positive NSCLC [see Indications and Usage (1.2)] | Following completion of platinum-based chemoradiation therapy, TAGRISSO monotherapy | EGFR exon 19 deletions or exon 21 L858R mutations | Tumor |
 | First-line Treatment of EGFR Mutation-Positive Metastatic NSCLC [see Indications and Usage (1.3)] | TAGRISSO monotherapy | EGFR exon 19 deletions or exon 21 L858R mutations | Plasma or tumor |
-| First-line Treatment of EGFR Mutation-Positive Locally Advanced or Metastatic NSCLC [see Indications and Usage (1.4)] | TAGRISSO in combination with pemetrexed and platinum-based chemotherapy | EGFR exon 19 deletions or exon 21 L858R mutations | Plasma or tumor |
+| First-line Treatment of EGFR Mutation-Positive Locally Advanced or Metastatic NSCLC[see Indications and Usage (1.4)] | TAGRISSO in combination with pemetrexed and platinum-based chemotherapy | EGFR exon 19 deletions or exon 21 L858R mutations | Plasma or tumor |
 | Previously Treated EGFR T790M Mutation-Positive Metastatic NSCLC [see Indications and Usage (1.5)] | TAGRISSO monotherapy | EGFR T790M Mutation | Plasma or tumor |
 | Information on FDA-approved tests for the detection of EGFR mutations is available at http://www.fda.gov/companiondiagnostics. |  |  |  |
 
@@ -83,8 +83,8 @@ Recommended Dosage Modifications for TAGRISSO
 | Symptomatic congestive heart failure | Permanently discontinue TAGRISSO. |  |
 | Cutaneous[see Warnings and Precautions (5.5)] | Erythema Multiforme Major (EMM), Stevens-Johnson syndrome (SJS), and Toxic Epidermal Necrolysis (TEN) | Withhold TAGRISSO if suspected and permanently discontinue if confirmed. |
 | Blood and bone marrow[see Warnings and Precautions (5.7)] | Aplastic anemia | Withhold TAGRISSO if aplastic anemia is suspected and permanently discontinue if confirmed. |
-| Other [see Adverse Reactions (6.1)] | Adverse reaction of Grade 3 or greater severity | Withhold TAGRISSO for up to 3 weeks. |
-| If improvement to Grade 0-2 within 3 weeks | Resume at 80 mg or 40 mg daily. |  |
+| Other [[see Warnings and Precautions (5.8), see Adverse Reactions (6.1)] | Adverse reaction of Grade 3 or greater severity | Withhold TAGRISSO for up to 3 weeks. |
+| If improvement to baseline or to Grade 0-2 within 3 weeks | Resume at 80 mg or 40 mg daily. |  |
 | If no improvement within 3 weeks | Permanently discontinue TAGRISSO. |  |
 
 Dosage Modifications for Combination Therapy

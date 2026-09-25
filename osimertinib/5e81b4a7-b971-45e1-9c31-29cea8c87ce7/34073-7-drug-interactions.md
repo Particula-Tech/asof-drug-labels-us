@@ -22,4 +22,4 @@ Monitor for adverse reactions of the BCRP or P-gp substrate, unless otherwise in
 
 The effect of co-administering medicinal products known to prolong the QTc interval with TAGRISSO is unknown.
 When feasible, avoid concomitant administration of drugs known to prolong the QTc interval with known risk of Torsades de pointes.
-If not feasible to avoid concomitant administration of such drugs, conduct periodic ECG monitoring [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.2)].
+If not feasible to avoid concomitant administration of such drugs, conduct periodic ECG monitoring [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].

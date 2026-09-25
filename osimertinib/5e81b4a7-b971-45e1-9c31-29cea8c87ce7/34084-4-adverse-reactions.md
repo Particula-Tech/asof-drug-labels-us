@@ -9,6 +9,7 @@ The following adverse reactions are discussed in greater detail in other section
 - •Erythema multiforme, Stevens-Johnson syndrome, and Toxic epidermal necrolysis [see Warnings and Precautions (5.5)]
 - •Cutaneous Vasculitis [see Warnings and Precautions (5.6)]
 - •Aplastic Anemia [see Warnings and Precautions (5.7)]
+- •Myalgia or Myositis with Creatine Phosphokinase Elevation [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -92,7 +93,7 @@ Laboratory abnormalities in ADAURA that occurred in <20% of patients receiving T
 
 Locally Advanced, Unresectable (Stage III) EGFR Mutation Positive NSCLC
 
-The safety of TAGRISSO was evaluated in LAURA, a double blind, randomized (2:1), placebo controlled study conducted in 216 patients with EGFR exon 19 deletions or exon 21 L858R mutation positive, locally advanced, unresectable (stage III) NSCLC, who had not progressed during or following definitive platinum based chemoradiation therapy.
+The safety of TAGRISSO was evaluated in LAURA, a double-blind, randomized (2:1), placebo-controlled study conducted in 216 patients with EGFR exon 19 deletions or exon 21 L858R mutation-positive, locally advanced, unresectable (stage III) NSCLC, who had not progressed during or following definitive platinum-based chemoradiation therapy.
 Among patients who received TAGRISSO, 81% were exposed for 6 months or longer and 74% were exposed for one year or longer.
 
 Serious adverse reactions were reported in 38% of patients treated with TAGRISSO.
@@ -297,7 +298,7 @@ The most frequent adverse reaction leading to discontinuation of TAGRISSO was IL
 Tables 12 and 13 summarize common adverse reactions and laboratory abnormalities which occurred in TAGRISSO-treated patients in AURA3.
 
 Table 12.
-Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3NCI CTCAE v4.0.
+Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3
 
 | Adverse Reaction | TAGRISSO(N=279) |  | Chemotherapy(Pemetrexed/Cisplatin orPemetrexed/Carboplatin)(N=136) |  |
 | --- | --- | --- | --- | --- |
@@ -328,7 +329,7 @@ QTc interval prolongation represents the incidence of patients who had a QTcF pr
 Table 13.
 Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in AURA3
 
-| Laboratory AbnormalityNCI CTCAE v4.0Each test incidence, except for hyperglycemia, is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 279, Chemotherapy comparator 131). | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131) |  |
+| Laboratory AbnormalityEach test incidence, except for hyperglycemia, is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 279, Chemotherapy comparator 131). | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131) |  |
 | --- | --- | --- | --- | --- |
 | All Grades(%) | Grade 3 or Grade 4(%) | All Grades(%) | Grade 3 or Grade 4(%) |  |
 | Hematology |  |  |  |  |
@@ -347,13 +348,15 @@ Clinically relevant laboratory abnormalities in AURA3 that occurred in <20% of p
 
 Other Clinical Trials Experience
 
-The following adverse reaction has been reported following administration of TAGRISSO: increased blood creatine phosphokinase.
+The following adverse reactions have been reported following administration of TAGRISSO: increased blood creatine phosphokinase and myositis.
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of TAGRISSO.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- 
-  - oSkin and subcutaneous tissue: Erythema multiforme major (EMM), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), cutaneous vasculitis, erythema dyschromicum perstans
-  - oBlood and lymphatic system disorders: Aplastic anemia.
+Skin and subcutaneous tissue: Erythema Multiforme major (EMM), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), cutaneous vasculitis, erythema dyschromicum perstans.
+
+Blood and lymphatic system disorders: Aplastic anemia
+
+Respiratory, thoracic and mediastinal disorders: Eosinophilic pneumonia

@@ -112,7 +112,7 @@ Patients with CNS metastases not requiring steroids and with stable neurologic s
 Patients were assessed at the investigator’s discretion for CNS metastases if they had a history of, or suspected, CNS metastases at study entry.
 
 Patients were randomized (1:1) to receive TAGRISSO 80 mg orally once daily or to receive gefitinib 250 mg orally once daily or erlotinib 150 mg orally once daily until disease progression or unacceptable toxicity.
-Randomization was stratified by EGFR mutation type (exon 19 deletions or exon 21 L858R mutation) and ethnicity (Asian or non-Asian).
+Randomization was stratified by EGFR mutation type (exon 19 deletions or exon 21 L858R mutation) and ethnicity (Asian or Other races).
 Patients randomized to the control arm were offered TAGRISSO at the time of disease progression if tumor samples tested positive for the EGFR T790M mutation.
 The major efficacy outcome measure was progression-free survival (PFS), as assessed by investigator.
 Additional efficacy outcome measures included OS and overall response rate (ORR).
@@ -126,7 +126,7 @@ At the time of the final data cut-off, of those randomized to TAGRISSO and to in
 Out of the 180 patients randomized to erlotinib or gefitinib who received subsequent treatment, 85 (47%) patients received TAGRISSO as first subsequent therapy.
 
 FLAURA demonstrated a statistically significant improvement in PFS for patients randomized to TAGRISSO as compared to erlotinib or gefitinib (see Table 16 and Figure 4).
-The final analysis of overall survival demonstrated a statistically significant improvement in overall survival in patients randomized to TAGRISSO compared to erlotinib or gefitinib (see Table 17 and Figure 5).
+The final analysis of overall survival demonstrated a statistically significant improvement in overall survival in patients randomized to TAGRISSO compared to erlotinib or gefitinib (see Table 16 and Figure 5).
 
 Table 16.
 Efficacy Results in FLAURA according to Investigator Assessment
@@ -203,7 +203,7 @@ With regard to EGFR tumor testing, 61% of tumors had exon 19 deletions and 38% h
 EGFR mutation status was centrally confirmed using the cobas® EGFR Mutation Test v2 in 96% of patients.
 
 FLAURA2 demonstrated a statistically significant improvement in PFS for patients randomized to TAGRISSO in combination with pemetrexed and platinum-based chemotherapy as compared to TAGRISSO monotherapy (see Table 18 and Figure 6).
-While OS results were immature at the current analysis, with 45% of pre-specified deaths for the final analysis reported, no trend towards a detriment was observed.
+The final OS analysis demonstrated a statistically significant improvement in the OS for patients randomized to TAGRISSO plus pemetrexed and platinum-based chemotherapy as compared to TAGRISSO monotherapy (see Table 18 and Figure 7).
 
 Table 18.
 Efficacy Results in FLAURA2 according to Investigator Assessment
@@ -217,6 +217,11 @@ Efficacy Results in FLAURA2 according to Investigator Assessment
 | Median PFS in months (95% CI) | 25.5 (24.7, NE) | 16.7 (14.1, 21.3) |
 | Hazard Ratio (95% CI)Stratified by race (Chinese/Asian, -Other races except Chinese/Asian vs other races), WHO performance status (0 or 1) and method of tissue testing (central or local).Pike estimator. | 0.62 (0.49, 0.79) |  |
 | p-valueStratified log-rank test. | <0.0001 |  |
+| Overall Survival (OS)A p-value of <0.04953 was required to achieve statistical significance. |  |  |
+| Number (%) of deaths | 144 (52) | 171 (62) |
+| Median OS in months (95% CI) | 47.5 (41.0, NE) | 37.6 (33.2, 43.2) |
+| Hazard Ratio (95% CI) | 0.77 (0.61, 0.96) |  |
+| p-value | 0.0202 |  |
 | Overall Response Rate (ORR)Confirmed responses. |  |  |
 | ORR, % (95% CI) | 77 (71, 82) | 69 (63, 74) |
 | Complete response, % | 0.4 | 0.4 |
@@ -227,6 +232,9 @@ Efficacy Results in FLAURA2 according to Investigator Assessment
 
 Figure 6.
 Kaplan-Meier Curves of PFS by Investigator Assessment in FLAURA2
+
+Figure 7.
+Kaplan-Meier Curves of Overall Survival in FLAURA2
 
 All patients had available baseline brain scans reviewed by BICR using modified RECIST; 78/557 (14%) patients had CNS measurable lesions.
 Results of pre-specified exploratory analyses of CNS ORR and DoR by BICR are summarized in Table 19.
@@ -259,13 +267,13 @@ Patients whose disease had not progressed after four cycles of platinum-based ch
 
 The major efficacy outcome measure was PFS according to Response Evaluation Criteria in Solid Tumors (RECIST v1.1) by investigator assessment.
 Additional efficacy outcome measures included ORR, DoR, and OS.
-Patients randomized to the chemotherapy arm who had radiological progression according to both investigator and BICR were permitted to cross over to receive treatment with TAGRISSO.
+Patients randomized to the chemotherapy arm who had radiological progression according to both investigator and BICR were permitted to cross-over to receive treatment with TAGRISSO.
 
 The baseline demographic and disease characteristics of the overall trial population were: median age 62 years (range: 20-90 years), ≥75 years old (15%), female (64%), White (32%), Asian (65%), never smoker (68%), WHO performance status 0 or 1 (100%).
 Fifty-four percent (54%) of patients had extra-thoracic visceral metastases, including 34% with central nervous system (CNS) metastases (including 11% with measurable CNS metastases) and 23% with liver metastases.
 Forty-two percent (42%) of patients had metastatic bone disease.
 
-In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (see Table 20 and Figure 7).
+In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (see Table 20 and Figure 8).
 No statistically significant difference was observed between the treatment arms at final OS analysis.
 At the time of the final OS analysis, 99 patients (71%) randomized to chemotherapy had crossed over to TAGRISSO treatment.
 
@@ -277,9 +285,9 @@ Efficacy Results According to Investigator Assessment in AURA3
 | Progression-Free Survival |  |  |
 | Number of events (%) | 140 (50) | 110 (79) |
 | Progressive disease (%) | 129 (46) | 104 (74) |
-| DeathWithout documented radiological disease progression.(%) | 11 (4) | 6 (4) |
+| Death Without documented radiological disease progression.(%) | 11 (4) | 6 (4) |
 | Median PFS in months (95% CI) | 10.1 (8.3, 12.3) | 4.4 (4.2, 5.6) |
-| Hazard Ratio (95% CIStratified by ethnicity (Asian vs other races).Pike estimator.) | 0.30 (0.23,0.41) |  |
+| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs other races).Pike estimator. | 0.30 (0.23,0.41) |  |
 | p-valueStratified log-rank test. | <0.001 |  |
 | Overall Survival |  |  |
 | Number of deaths (%) | 188 (67) | 93 (66) |
@@ -294,7 +302,7 @@ Efficacy Results According to Investigator Assessment in AURA3
 | Duration of Response (DoR) |  |  |
 | Median in months (95% CI) | 11.0 (8.6, 12.6) | 4.2 (3.0, 5.9) |
 
-Figure 7.
+Figure 8.
 Kaplan-Meier Curves of PFS by Investigator Assessment in AURA3
 
 In a supportive analysis of PFS according to BICR, median PFS was 11 months in the TAGRISSO arm compared to 4.2 months in the chemotherapy arm (HR 0.28; 95% CI: 0.20, 0.38).

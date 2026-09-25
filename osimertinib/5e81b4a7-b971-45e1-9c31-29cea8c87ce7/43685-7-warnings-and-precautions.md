@@ -83,7 +83,20 @@ If aplastic anemia is confirmed, permanently discontinue TAGRISSO [see Dosage an
 
 Perform complete blood count with differential before starting TAGRISSO, periodically throughout treatment, and more frequently if indicated.
 
-## 5.8 Embryo-Fetal Toxicity
+## 5.8 Myalgia or Myositis with Creatine Phosphokinase Elevation
+
+In the pooled safety population [see Adverse Reactions (6.1)], myalgia occurred in 4.8% of patients who received TAGRISSO as a monotherapy (N=1813), of these 0.1% were Grade 3.
+Myalgia with concurrent increased creatine phosphokinase (CPK) elevation occurred in 0.1% of patients.
+The median time to onset of myalgia for these patients with CPK elevation was 648 days (range: 141 days to 1155 days).
+Grade 1 myositis occurred in 0.2% of patients who received TAGRISSO.
+
+Rhabdomyolysis has been reported in the post marketing setting.
+
+Advise patients to report unexplained muscle pain or tenderness.
+Monitor CPK levels periodically during treatment with TAGRISSO and as clinically indicated in patients reporting unexplained muscle pain or tenderness.
+Withhold, then resume at the same or reduced dose [see Dosage and Administration (2.5)].
+
+## 5.9 Embryo-Fetal Toxicity
 
 Based on data from animal studies and its mechanism of action, TAGRISSO can cause fetal harm when administered to a pregnant woman.
 In animal reproduction studies, osimertinib caused post-implantation fetal loss when administered during early development at a dose exposure 1.5 times the exposure at the recommended clinical dose.
