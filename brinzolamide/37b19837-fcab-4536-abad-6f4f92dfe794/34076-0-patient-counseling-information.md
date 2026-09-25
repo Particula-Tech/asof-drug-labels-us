@@ -2,7 +2,7 @@
 
 Sulfonamide Hypersensitivity Reactions
 
-Advise patients that if serious or unusual ocular or systemic reactions or signs of hypersensitivity occur, they should discontinue the use of the product and consult their physician immediately [see Warnings and Precautions (5.1)].
+Advise patients that if serious or unusual ocular or systemic reactions or signs of hypersensitivity occur, they should discontinue the use of the product and consult their physician immediately [see Warnings and Precautions (5.1)]
 
 Temporary Blurred Vision
 
