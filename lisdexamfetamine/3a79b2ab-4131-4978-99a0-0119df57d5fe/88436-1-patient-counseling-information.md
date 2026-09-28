@@ -23,6 +23,7 @@ Serotonin Syndrome Caution patients about the risk of serotonin syndrome with co
 Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome.
 
 Concomitant Medications Advise patients to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs because there is a potential for interactions [see Drug Interactions (7.1)].
+Advise patient or caregiver of steps to take with lisdexamfetamine dimesylate chewable tablets when a laboratory imaging procedure is ordered [see Drug Interactions (7.2)].
 
 Motor and Verbal Tics, and Worsening of Tourette’s Syndrome Advise patients that motor and verbal tics and worsening of Tourette’s syndrome may occur during treatment with lisdexamfetamine dimesylate chewable tablets.
 Instruct patients to notify their healthcare provider if emergence of new tics or worsening of tics or Tourette’s syndrome occurs [see Warnings and Precautions (5.8)].
@@ -36,16 +37,14 @@ Administration Instructions
 
 - Chewable Tablets: Advise patients that chewable tablets must be chewed thoroughly before swallowing [see Dosage and Administration (2.2)].
 
-Manufactured for: SpecGx LLC Webster Groves, MO 63119 USA
+Manufactured by: SpecGx LLC Webster Groves, MO 63119 USA
 
 For more information call 1-800-778-7898
 
 All Product/Brand names are the trademarks of their respective owners.
 
-Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
+© 2026 Par Health, Inc. or one of its affiliates.
 
-© 2025 Mallinckrodt.
+Par Health™
 
-Mallinckrodt™ Pharmaceuticals
-
-Rev 09/2025
+Rev 04/2026

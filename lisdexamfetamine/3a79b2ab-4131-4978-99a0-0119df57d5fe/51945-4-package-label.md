@@ -17,9 +17,9 @@ Do not swallow tablets whole.
 
 Rx only
 
-Mallinckrodt™
+Par Health™
 
-L00L10 Rev05/2024
+L00L10 Rev 04/2026
 
 # PRINCIPAL DISPLAY PANEL - 20 mg Chewable Tablets
 
@@ -40,9 +40,9 @@ Do not swallow tablets whole.
 
 Rx only
 
-Mallinckrodt™
+Par Health™
 
-L00L11 Rev 05/2024
+L00L11 Rev 04/2026
 
 # PRINCIPAL DISPLAY PANEL - 30 mg Chewable Tablets
 
@@ -63,9 +63,9 @@ Do not swallow tablets whole.
 
 Rx only
 
-Mallinckrodt™
+Par Health™
 
-L00L12 Rev 05/2024
+L00L12 Rev 04/2026
 
 # PRINCIPAL DISPLAY PANEL - 40 mg Chewable Tablets
 
@@ -86,9 +86,9 @@ Do not swallow tablets whole.
 
 Rx only
 
-Mallinckrodt™
+Par Health™
 
-L00L13 Rev 12/2024
+L00L13 Rev 04/2026
 
 # PRINCIPAL DISPLAY PANEL - 50 mg Chewable Tablets
 
@@ -109,9 +109,9 @@ Do not swallow tablets whole.
 
 Rx only
 
-Mallinckrodt™
+Par Health™
 
-L00L14 Rev 12/2024
+L00L14 Rev 04/2026
 
 # PRINCIPAL DISPLAY PANEL - 60 mg Chewable Tablets
 
@@ -132,6 +132,6 @@ Do not swallow tablets whole.
 
 Rx only
 
-Mallinckrodt™
+Par Health™
 
-L00L15 Rev 12/2024
+L00L15 Rev 04/2026

@@ -18,11 +18,11 @@ After single dose administration of lisdexamfetamine dimesylate, pharmacokinetic
 Dextroamphetamine pharmacokinetic parameters following administration of lisdexamfetamine dimesylate in adults exhibited low inter-subject (<25%) and intra-subject (<8%) variability.
 There is no accumulation of lisdexamfetamine and dextroamphetamine at steady state in healthy adults.
 
-Absorption Chewable Tablet Formulation After a single dose administration of 60 mg lisdexamfetamine dimesylate chewable tablet in healthy subjects under fasted conditions, Tmax of lisdexamfetamine and dextroamphetamine was reached at approximately 1 hour and 4.4 hours post-dose, respectively.
+Absorption Chewable Tablet formulation After a single dose administration of 60 mg lisdexamfetamine dimesylate chewable tablet in healthy subjects under fasted conditions, Tmax of lisdexamfetamine and dextroamphetamine was reached at approximately 1 hour and 4.4 hours post-dose, respectively.
 Compared to 60 mg Vyvanse® capsule, exposure (Cmax and AUC) to lisdexamfetamine was about 15% lower.
 The exposure (Cmax and AUCinf) of dextroamphetamine is similar between lisdexamfetamine dimesylate chewable tablet and Vyvanse® Capsules.
 
-Effect of Food on Tablet Formulation Administration of 60 mg lisdexamfetamine dimesylate chewable tablet with food (a high-fat meal) decreases the exposure (Cmax and AUCinf) of dextroamphetamine by about 5% to 7%, and prolongs mean Tmax by approximately 1 hour (from 3.9 hours at fasted state to 4.9 hours).
+Effect of food on tablet formulation Administration of 60 mg lisdexamfetamine dimesylate chewable tablet with food (a high-fat meal) decreases the exposure (Cmax and AUCinf) of dextroamphetamine by about 5% to 7%, and prolongs mean Tmax by approximately 1 hour (from 3.9 hours at fasted state to 4.9 hours).
 
 Elimination Plasma concentrations of unconverted lisdexamfetamine are low and transient, generally becoming non-quantifiable by 8 hours after administration.
 The plasma elimination half-life of lisdexamfetamine typically averaged less than one hour in volunteers ages 6 years and older.

@@ -77,17 +77,27 @@ Maintenance of efficacy for patients treated with lisdexamfetamine dimesylate wa
 
 Table 6 Summary of Primary Efficacy Results from Short-Term Studies of Lisdexamfetamine Dimesylate in Pediatric Patients (Ages 6 to 17) and Adults with ADHD
 
-| Study Number (Age range) | Primary Endpoint | Treatment Group | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference* (95% CI) |
+| Study Number (Age range) | Primary Endpoint | Treatment Group | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
 | --- | --- | --- | --- | --- | --- |
-| Study 1 (6 - 12 years) | ADHD-RS-IV | Lisdexamfetamine Dimesylate (30 mg/day)†Lisdexamfetamine Dimesylate (50 mg/day)†Lisdexamfetamine Dimesylate (70 mg/day)†Placebo | 43.2 (6.7)43.3 (6.7)45.1 (6.8)42.4 (7.1) | -21.8 (1.6)-23.4 (1.6)-26.7 (1.5)-6.2 (1.6) | -15.5 (-19.9, -11.2)-17.2 (-21.5, -12.9)-20.5 (-24.8, -16.2)-- |
-| Study 2 (6 - 12 years) | Average SKAMP-DS | Lisdexamfetamine Dimesylate (30, 50 or 70 mg/day)†Placebo | --‡--‡ | 0.8 (0.1)§1.7 (0.1)§ | -0.9 (-1.1, -0.7)-- |
-| Study 3 (6 - 12 years) | Average SKAMP-DS | Lisdexamfetamine Dimesylate (30, 50 or 70 mg/day)†Placebo | 0.9 (1.0)¶0.7 (0.9)¶ | 0.7 (0.1)§1.4 (0.1)§ | -0.7 (-0.9, -0.6)-- |
-| Study 4 (13 - 17 years) | ADHD-RS-IV | Lisdexamfetamine Dimesylate (30 mg/day)†Lisdexamfetamine Dimesylate (50 mg/day)†Lisdexamfetamine Dimesylate (70 mg/day)†Placebo | 38.3 (6.7)37.3 (6.3)37.0 (7.3)38.5 (7.1) | -18.3 (1.2)-21.1 (1.3)-20.7 (1.3)-12.8 (1.2) | -5.5 (-9.0, -2.0)-8.3 (-11.8, -4.8)-7.9 (-11.4, -4.5)-- |
-| Study 5 (6 - 17 years) | ADHD-RS-IV | Lisdexamfetamine Dimesylate (30, 50 or 70 mg/day)†Placebo | 40.7 (7.3)41.0 (7.1) | -24.3 (1.2)-5.7 (1.1) | -18.6 (-21.5, -15.7)-- |
-| Study 7 (18 - 55 years) | ADHD-RS-IV | Lisdexamfetamine Dimesylate (30 mg/day)†Lisdexamfetamine Dimesylate (50 mg/day)†Lisdexamfetamine Dimesylate (70 mg/day)†Placebo | 40.5 (6.2)40.8 (7.3)41.0 (6.0)39.4 (6.4) | -16.2 (1.1)-17.4 (1.0)-18.6 (1.0)-8.2 (1.4) | -8.0 (-11.5, -4.6)-9.2 (-12.6, -5.7)-10.4 (-13.9, -6.9)-- |
-| Study 8 (18 - 55 years) | Average PERMP | Lisdexamfetamine Dimesylate (30, 50 or 70 mg/day)†Placebo | 260.1 (86.2)¶261.4 (75.0)¶ | 312.9 (8.6)§289.5 (8.6)§ | 23.4 (15.6, 31.2)-- |
+| Study 1 (6 - 12 years) | ADHD-RS-IV | Lisdexamfetamine Dimesylate (30 mg/day)*Lisdexamfetamine Dimesylate (50 mg/day)*Lisdexamfetamine Dimesylate (70 mg/day)*Placebo | 43.2 (6.7)43.3 (6.7)45.1 (6.8)42.4 (7.1) | -21.8 (1.6)-23.4 (1.6)-26.7 (1.5)-6.2 (1.6) | -15.5 (-19.9, -11.2)-17.2 (-21.5, -12.9)-20.5 (-24.8, -16.2)-- |
+| Study 2 (6 - 12 years) | Average SKAMP-DS | Lisdexamfetamine Dimesylate (30, 50 or 70 mg/day)*Placebo | --b--b | 0.8 (0.1)d1.7 (0.1)d | -0.9 (-1.1, -0.7)-- |
+| Study 3 (6 - 12 years) | Average SKAMP-DS | Lisdexamfetamine Dimesylate (30, 50 or 70 mg/day)*Placebo | 0.9 (1.0)c0.7 (0.9)c | 0.7 (0.1)d1.4 (0.1)d | -0.7 (-0.9, -0.6)-- |
+| Study 4 (13 - 17 years) | ADHD-RS-IV | Lisdexamfetamine Dimesylate (30 mg/day)*Lisdexamfetamine Dimesylate (50 mg/day)*Lisdexamfetamine Dimesylate (70 mg/day)*Placebo | 38.3 (6.7)37.3 (6.3)37.0 (7.3)38.5 (7.1) | -18.3 (1.2)-21.1 (1.3)-20.7 (1.3)-12.8 (1.2) | -5.5 (-9.0, -2.0)-8.3 (-11.8, -4.8)-7.9 (-11.4, -4.5)-- |
+| Study 5 (6 - 17 years) | ADHD-RS-IV | Lisdexamfetamine Dimesylate (30, 50 or 70 mg/day)*Placebo | 40.7 (7.3)41.0 (7.1) | -24.3 (1.2)-5.7 (1.1) | -18.6 (-21.5, -15.7)-- |
+| Study 7 (18 - 55 years) | ADHD-RS-IV | Lisdexamfetamine Dimesylate (30 mg/day)*Lisdexamfetamine Dimesylate (50 mg/day)*Lisdexamfetamine Dimesylate (70 mg/day)*Placebo | 40.5 (6.2)40.8 (7.3)41.0 (6.0)39.4 (6.4) | -16.2 (1.1)-17.4 (1.0)-18.6 (1.0)-8.2 (1.4) | -8.0 (-11.5, -4.6)-9.2 (-12.6, -5.7)-10.4 (-13.9, -6.9)-- |
+| Study 8 (18 - 55 years) | Average PERMP | Lisdexamfetamine Dimesylate (30, 50 or 70 mg/day)*Placebo | 260.1 (86.2)c261.4 (75.0)c | 312.9 (8.6)d289.5 (8.6)d | 23.4 (15.6, 31.2)-- |
 
-SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval. * Difference (drug minus placebo) in least-squares mean change from baseline. † Doses statistically significantly superior to placebo. ‡ Pre-dose SKAMP-DS was not collected. § LS Mean for SKAMP-DS (Study 2 and 3) or PERMP (Study 8) is post-dose average score over all sessions of the treatment day, rather than change from baseline. ¶ Pre-dose SKAMP-DS (Study 3) or PERMP (Study 8) total score, averaged over both periods.
+SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval.
+
+a Difference (drug minus placebo) in least-squares mean change from baseline.
+
+b Pre-dose SKAMP-DS was not collected.
+
+c Pre-dose SKAMP-DS (Study 3) or PERMP (Study 8) total score, averaged over both periods.
+
+d LS Mean for SKAMP-DS (Study 2 and 3) or PERMP (Study 8) is post-dose average score over all sessions of the treatment day, rather than change from baseline.
+
+* Doses statistically significantly superior to placebo.
 
 Figure 4: LS Mean SKAMP Deportment Subscale Score by Treatment and Time-Point for Pediatric Patients Ages 6 to 12 with ADHD after 1 Week of Double-Blind Treatment (Study 3)
 
@@ -127,11 +137,11 @@ Table 7 Summary of Primary Efficacy Results in BED
 
 | Study Number | Treatment Group | Primary Efficacy Measure: Binge Days per Week at Week 12 |  |  |
 | --- | --- | --- | --- | --- |
-| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference* (95% CI) |  |  |
-| Study 11 | Lisdexamfetamine Dimesylate (30, 50 or 70 mg/day)†Placebo | 4.79 (1.27)4.60 (1.21) | -3.87 (0.12)-2.51 (0.13) | -1.35 (-1.70, -1.01)-- |
-| Study 12 | Lisdexamfetamine Dimesylate (30, 50 or 70 mg/day)†Placebo | 4.66 (1.27)4.82 (1.42) | -3.92 (0.14)-2.26 (0.14) | -1.66 (-2.04, -1.28)-- |
+| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |  |  |
+| Study 11 | Lisdexamfetamine Dimesylate (30, 50 or 70 mg/day)*Placebo | 4.79 (1.27)4.60 (1.21) | -3.87 (0.12)-2.51 (0.13) | -1.35 (-1.70, -1.01)-- |
+| Study 12 | Lisdexamfetamine Dimesylate (30, 50 or 70 mg/day)*Placebo | 4.66 (1.27)4.82 (1.42) | -3.92 (0.14)-2.26 (0.14) | -1.66 (-2.04, -1.28)-- |
 
-SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval. * Difference (drug minus placebo) in least-squares mean change from baseline. † Doses statistically significantly superior to placebo.
+SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval. a Difference (drug minus placebo) in least-squares mean change from baseline. * Doses statistically significantly superior to placebo.
 
 A double-blind, placebo controlled, randomized withdrawal design study (Study 13) was conducted to evaluate maintenance of efficacy based on time to relapse between lisdexamfetamine dimesylate and placebo in adults aged 18 to 55 (N=267) with moderate to severe BED.
 In this longer-term study patients who had responded to lisdexamfetamine dimesylate in the preceding 12-week open-label treatment phase were randomized to continuation of lisdexamfetamine dimesylate or placebo for up to 26 weeks of observation for relapse.
