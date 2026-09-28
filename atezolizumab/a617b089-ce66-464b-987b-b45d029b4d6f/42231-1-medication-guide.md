@@ -52,5 +52,5 @@
 | Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. You can ask your pharmacist or healthcare provider for information about TECENTRIQ HYBREZA that is written for health professionals. |  |  |  |  |
 | What are the ingredients in TECENTRIQ HYBREZA? |  |  |  |  |
 | Active ingredients: atezolizumab and hyaluronidase-tqjs |  |  |  |  |
-| Inactive ingredients: acetic acid, histidine, methionine, polysorbate 20, sucrose, water for injection. Manufactured by: Genentech, Inc., A Member of the Roche Group, 1 DNA Way, South San Francisco, CA 94080-4990 USA U.S. License No.: 1048 TECENTRIQ HYBREZA is a registered trademark of Genentech, Inc. For more information, call 1-877-436-3683 or go to www.TECENTRIQHYBREZA.com. |  |  |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  |  | Revised: 05/2026 |
+| Inactive ingredients: acetic acid, histidine, methionine, polysorbate 20, sucrose, water for injection. Manufactured by: Genentech, Inc., A Member of the Roche Group, 1 DNA Way, South San Francisco, CA 94080-4990 USA Halozyme, Inc.,12390 El Camino Real, San Diego, CA 92130, U.S. License No. 2187 U.S. License No.: 1048 TECENTRIQ HYBREZA is a registered trademark of Genentech, Inc. For more information, call 1-877-436-3683 or go to www.TECENTRIQHYBREZA.com. |  |  |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  |  | Revised: 09/2026 |
