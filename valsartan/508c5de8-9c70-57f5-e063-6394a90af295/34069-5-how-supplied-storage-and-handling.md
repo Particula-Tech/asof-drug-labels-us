@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-PREXXARTAN™ (valsartan) Oral Solution contains 4 mg/mL valsartan for oral administration.
+PREXXARTAN™ (valsartan) Oral Solution contains 4 mg/mL valsartan for oral administration and is supplied as a clear, colorless, grape-flavored solution.
 PREXXARTAN™ is packaged in bottles containing 473 mL, bottles containing 120 mL and unit dose cups containing 20 mL.
 
 White HDPE bottles of 473 mL: NDC 76281-0155-82
