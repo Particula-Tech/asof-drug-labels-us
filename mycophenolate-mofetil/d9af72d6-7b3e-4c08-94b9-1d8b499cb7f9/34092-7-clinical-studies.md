@@ -50,7 +50,7 @@ Table 10 De Novo Kidney Transplantation Studies Cumulative Incidence of Combined
 | Europe/Canada/Australia | 11.7% | 11.0% | 13.6% |
 | Europe | 8.5% | 10.0% | 11.5% |
 
-Pediatrics- De Novo Kidney transplantation PK Study with Long Term Follow-Up One open-label, safety and pharmacokinetic study of mycophenolate mofetil oral suspension 600 mg/m2 twice daily (up to 1 g twice daily) in combination with cyclosporine and corticosteroids was performed at centers in the United States (9), Europe (5) and Australia (1) in 100 pediatric patients (3 months to 18 years of age) for the prevention of renal allograft rejection.
+Pediatrics- De Novo Kidney transplantation PK Study with Long Term Follow-Up One open-label, safety and pharmacokinetic study of mycophenolate mofetil oral suspension 600 mg/m² twice daily (up to 1 g twice daily) in combination with cyclosporine and corticosteroids was performed at centers in the United States (9), Europe (5) and Australia (1) in 100 pediatric patients (3 months to 18 years of age) for the prevention of renal allograft rejection.
 Mycophenolate mofetil was well tolerated in pediatric patients [see Adverse Reactions (6.1)].
 The rate of biopsy-proven rejection was similar across the age groups (3 months to <6 years, 6 years to <12 years, 12 years to 18 years).
 The overall biopsy-proven rejection rate at 6 months was comparable to adults.

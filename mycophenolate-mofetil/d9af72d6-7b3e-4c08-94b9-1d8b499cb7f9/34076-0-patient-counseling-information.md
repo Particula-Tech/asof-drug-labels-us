@@ -8,8 +8,6 @@ Pregnancy loss and malformation
 
 - Inform females of reproductive potential and pregnant women that use of MYHIBBIN during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations.
   Advise that they must use an acceptable form of contraception [see Warnings and Precautions (5.1), Use in Specific Populations (8.1, 8.3)].
-- Encourage pregnant women to enroll in the Pregnancy Exposure Registry.
-  This registry monitors pregnancy outcomes in women exposed to mycophenolate [see Use in Specific Populations (8.1)].
 
 Contraception
 
@@ -77,5 +75,5 @@ Advise males of childbearing potential not to donate semen during therapy and fo
 
 Advise patients that MYHIBBIN can affect the ability to drive or operate machines.
 Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with MYHIBBIN [see Warnings and Precautions (5.13)].
-Distributed by: Azurity Pharmaceuticals, Inc. Woburn, MA 01801 USA MYH-PI-02 Rev.
-04/2025
+Distributed by: Azurity Pharmaceuticals, Inc. Woburn, MA 01801 USA MYH-PI-03 Rev.
+07/2026

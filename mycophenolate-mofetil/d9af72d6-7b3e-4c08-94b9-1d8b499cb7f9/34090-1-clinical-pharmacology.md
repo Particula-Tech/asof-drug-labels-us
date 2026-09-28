@@ -76,7 +76,7 @@ Metabolism
 
 MPA is metabolized principally by glucuronyl transferase to form MPAG, which is not pharmacologically active.
 In vivo, MPAG is converted to MPA during enterohepatic recirculation.
-The following metabolites of the 2-hydroxyethyl-morpholino moiety are also recovered in the urine following oral administration of MMF to healthy subjects: N-(2-carboxymethyl)-morpholine, N-(2-hydroxyethyl)- morpholine, and the N-oxide of N-(2-hydroxyethyl)-morpholine.
+The following metabolites of the 2-hydroxyethyl-morpholino moiety are also recovered in the urine following oral administration of MMF to healthy subjects: N-(2-carboxymethyl)-morpholine, N-(2-hydroxyethyl)-morpholine, and the N-oxide of N-(2-hydroxyethyl)-morpholine.
 
 Due to the enterohepatic recirculation of MPAG/MPA, secondary peaks in the plasma MPA concentration-time profile are usually observed 6 to 12 hours post-dose.
 Bile sequestrants, such as cholestyramine, reduce MPA AUC by interfering with this enterohepatic recirculation of the drug [see Overdosage (10) and Drug Interaction Studies below].
@@ -219,7 +219,7 @@ This information should be taken into consideration when MMF is used without cyc
 
 Drugs Affecting Glucuronidation
 
-Concomitant administration of drugs inhibiting glucuronidation of MPA may increase MPA exposure (e.g., increase of MPA AUC (0-∞) by 35% was observed with concomitant administration of isavuconazole).
+Concomitant administration of drugs inhibiting glucuronidation of MPA may increase MPA exposure (e.g., increase of MPA AUC(0-∞) by 35% was observed with concomitant administration of isavuconazole).
 
 Concomitant administration of telmisartan and MMF resulted in an approximately 30% decrease in MPA concentrations.
 Telmisartan changes MPA's elimination by enhancing PPAR gamma (peroxisome proliferator- activated receptor gamma) expression, which in turn results in an enhanced UGT1A9 expression and glucuronidation activity.
@@ -239,7 +239,7 @@ There was large inter-patient variability (%CV in the range of 60% to 70%) in th
 
 Sevelamer
 
-Concomitant administration of sevelamer and MMF in adult and pediatric patients decreased the mean MPA Cmax and AUC (0-12h) by 36% and 26% respectively.
+Concomitant administration of sevelamer and MMF in adult and pediatric patients decreased the mean MPA Cmax and AUC(0-12h) by 36% and 26% respectively.
 
 Antimicrobials
 
@@ -250,7 +250,7 @@ Information concerning antibiotics is as follows:
   The mean (±SD) AUC and Cmax of MPA after concomitant administration were 75.2 (±19.8) mcg∙h/mL and 34.0 (±6.6) µg/mL, respectively, compared to 79.2 (±27.9) mcg∙h/mL and 34.2 (±10.7) mcg/mL, respectively, after administration of MMF alone.
 - Norfloxacin and Metronidazole: Following single-dose administration of MMF (1 g) to 11 healthy volunteers on day 4 of a 5-day course of a combination of norfloxacin and metronidazole, the mean MPA AUC(0-48h) was significantly reduced by 33% compared to the administration of MMF alone (p<0.05).
   The mean (±SD) MPA AUC(0-48h) after coadministration of MMF with norfloxacin or metronidazole separately was 48.3 (±24) mcg∙h/mL and 42.7 (±23) mcg∙h/mL, respectively, compared with 56.2 (±24) mcg∙h/mL after administration of MMF alone.
-- Ciprofloxacin and Amoxicillin Plus Clavulanic Acid: A total of 64 MMF -treated kidney transplant recipients received either oral ciprofloxacin 500 mg twice daily or amoxicillin plus clavulanic acid 375 mg three times daily for 7 or at least 14 days, respectively.
+- Ciprofloxacin and Amoxicillin Plus Clavulanic Acid: A total of 64 MMF-treated kidney transplant recipients received either oral ciprofloxacin 500 mg twice daily or amoxicillin plus clavulanic acid 375 mg three times daily for 7 or at least 14 days, respectively.
   Approximately 50% reductions in median trough MPA concentrations (pre-dose) from baseline (MMF alone) were observed in 3 days following commencement of oral ciprofloxacin or amoxicillin plus clavulanic acid.
   These reductions in trough MPA concentrations tended to diminish within 14 days of antimicrobial therapy and ceased within 3 days of discontinuation of antibiotics.
 - Rifampin: In a single heart-lung transplant patient, after correction for dose, a 67% decrease in MPA exposure (AUC(0-12h)) has been observed with concomitant administration of MMF and rifampin.

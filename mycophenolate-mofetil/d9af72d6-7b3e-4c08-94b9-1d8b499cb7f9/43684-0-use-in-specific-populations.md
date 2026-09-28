@@ -2,11 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to mycophenolate during pregnancy and those becoming pregnant within 6 weeks of discontinuing MYHIBBIN treatment.
-To report a pregnancy or obtain information about the registry, visit the Mycophenolate Pregnancy Registry at www.mycophenolateREMS.com or call 1-800-617­-8191.
-
 Risk Summary
 
 Use of mycophenolate mofetil (MMF) during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of multiple congenital malformations in multiple organ systems (see Human Data).

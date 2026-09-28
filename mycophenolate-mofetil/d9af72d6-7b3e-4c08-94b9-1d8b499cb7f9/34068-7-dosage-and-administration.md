@@ -27,7 +27,7 @@ The recommended dosage for adult kidney transplant patients is 1 g orally, admin
 Pediatrics Patients 3 months and older
 
 Pediatric dosing is based on body surface area (BSA).
-The recommended dosage for pediatric kidney transplant patients 3 months and older is 600 mg/m2, administered twice daily (maximum daily dose of 2 g or 10 mL of the oral suspension).
+The recommended dosage for pediatric kidney transplant patients 3 months and older is 600 mg/m², administered twice daily (maximum daily dose of 2 g or 10 mL of the oral suspension).
 
 ## 2.3 Recommended Dosage for Heart Transplant Patients
 
