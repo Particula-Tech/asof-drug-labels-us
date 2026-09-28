@@ -23,7 +23,7 @@ Table 1 displays the common adverse reactions (≥ 1% and greater than placebo-t
 
 |  | QNASL Nasal Aerosol320 mcg(N=575)n (%) | Placebo(N=578)n (%) |
 | --- | --- | --- |
-| Table 1. Adverse Events With ³ 1% Incidence and Greater than Placebo in QNASL Nasal Aerosol-Treated Adult and Adolescent Patients with Seasonal or Perennial Allergic Rhinitis in Controlled Clinical Trials of 2 to 6 Weeks Duration (Safety Population) |  |  |
+| Table 1. Adverse Events With ⊃; 1% Incidence and Greater than Placebo in QNASL Nasal Aerosol-Treated Adult and Adolescent Patients with Seasonal or Perennial Allergic Rhinitis in Controlled Clinical Trials of 2 to 6 Weeks Duration (Safety Population) |  |  |
 |  | Adult and Adolescent Patients 12 Years of Age and Older |  |
 | Nasal Discomfort | 30 (5.2) | 28 (4.8) |
 | Epistaxis | 11 (1.9) | 7 (1.2) |
