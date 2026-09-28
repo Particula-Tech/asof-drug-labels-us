@@ -9,13 +9,23 @@ Advise patients to store amphetamine extended-release orally disintegrating tabl
 
 Dosage and Administration Instructions
 
-Provide the following instructions on administration to the patient:
+Provide the following instructions on administration to the patient in the blister packaging form:
 
 - The tablet should remain in the blister pack until the patient is ready to take it.
 - The patient or caregiver should use dry hands to open the blister.
 - Tear along the perforation, bend the blister where indicated and peel back the blister’s labeled backing to take out the tablet.
   The tablet should not be pushed through the foil.
 - As soon as the blister is opened, the tablet should be removed and placed on the patient’s tongue.
+- The whole tablet should be placed on the tongue and allowed to disintegrate without chewing or crushing.
+- The tablet will disintegrate in saliva so that it can be swallowed.
+
+Provide the following instructions on administration to the patient in the bottle packaging form:
+
+- The tablet should remain in the bottle until the patient is ready to take it.
+- The tablet should be taken immediately after removing it from bottle.
+  It should not be stored for future use.
+- The patient or caregiver should use dry hands to open the bottle.
+- As soon as the tablet is removed from the bottle, the tablet should be removed and placed on the patient’s tongue.
 - The whole tablet should be placed on the tongue and allowed to disintegrate without chewing or crushing.
 - The tablet will disintegrate in saliva so that it can be swallowed.
 

@@ -1,7 +1,5 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-.
-
 ## 5.1 Abuse, Misuse, and Addiction
 
 Amphetamine extended-release orally disintegrating tablets has a high potential for abuse and misuse.

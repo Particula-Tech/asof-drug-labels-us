@@ -9,10 +9,7 @@ Prior to treating patients with amphetamine extended-release orally disintegrati
 
 ## 2.2 General Administration Information
 
-Amphetamine extended-release orally disintegrating tablets may be taken orally with or without food.
-Individualize the dosage according to the therapeutic needs and response of the patient.
-
-Amphetamine extended-release orally disintegrating tablets should be taken as follows:
+Amphetamine extended-release orally disintegrating tablets supplied in blister form should be taken as follows:
 
 - The tablet should remain in the blister pack until the patient is ready to take it.
 - The patient or caregiver should use dry hands to open the blister.
@@ -21,6 +18,14 @@ Amphetamine extended-release orally disintegrating tablets should be taken as fo
 
 As soon as the blister is opened, the tablet should be removed and placed on the patient’s tongue.
 
+- The whole tablet should be placed on the tongue and allowed to disintegrate without chewing or crushing.
+- The tablet will disintegrate in saliva so that it can be swallowed.
+
+Amphetamine extended-release orally disintegrating tablets supplied in bottle form should be taken as follows:
+
+- The tablet should remain in the bottle until the patient is ready to take it.
+- The patient or caregiver should use dry hands to open the bottle.
+- As soon as the bottle is opened, the tablet should be removed and placed on the patient’s tongue.
 - The whole tablet should be placed on the tongue and allowed to disintegrate without chewing or crushing.
 - The tablet will disintegrate in saliva so that it can be swallowed.
 
