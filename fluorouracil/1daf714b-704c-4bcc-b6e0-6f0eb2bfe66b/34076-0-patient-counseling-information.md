@@ -69,4 +69,4 @@ Avyxa Pharma, LLC New Jersey 07054, USA
 
 Made in China
 
-Revised: 07/2026
+Revised: 09/2026

@@ -78,7 +78,7 @@ Preparation
 
 - Select the appropriate number of vial(s) based on the prescribed dose.
 - Withdraw the calculated dose into a sterile syringe.
-- Dilute the calculated dose in an appropriate amount of 0.9% Sodium Chloride Injection, or 5% Dextrose Injection, to prepare an infusion solution with a final concentration ranging from 1.5 mg/mL to 10 mg/mL.
+- Dilute the calculated dose in an appropriate amount of 0.9% Sodium Chloride Injection, or 5% Dextrose Injection, to prepare an infusion solution.
 - If using a single-dose vial, discard partially used or empty single-dose vials.
 - If using a multiple-dose vial, after first use, store the partially used multiple-dose vial in the original carton at room temperature 20°C to 25°C (68°F to 77°F) for up to 28 days.
   Discard unused portion of the multiple-dose vial after 28 days.
