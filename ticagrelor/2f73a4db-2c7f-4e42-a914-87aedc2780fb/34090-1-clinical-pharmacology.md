@@ -51,8 +51,7 @@ Metabolism
 
 CYP3A4 is the major enzyme responsible for ticagrelor metabolism and the formation of its major active metabolite.
 Ticagrelor and its major active metabolite are weak P-glycoprotein substrates and inhibitors.
-The systemic exposure to the active metabolite is approximately 30 to 40% of the exposure of ticagrelor.
-Ticagrelor is a BCRP inhibitor.
+The systemic exposure to the active metabolite is approximately 30 to 40% of the exposure of ticagrelor.Ticagrelor is a BCRP inhibitor.
 
 Excretion
 
@@ -99,9 +98,7 @@ Figure 8 – Effect of co-administered drugs on the pharmacokinetics of ticagrel
 
 Effects of Ticagrelor Tablets on Other Drugs
 
-In vitro metabolism studies demonstrate that ticagrelor and its major active metabolite are weak inhibitors of CYP3A4, potential activators of CYP3A5 and inhibitors of the P-gp transporter.
-In vitro metabolism studies demonstrate that ticagrelor is a BCRP inhibitor.
-Ticagrelor and AR-C124910XX were shown to have no inhibitory effect on human CYP1A2, CYP2C19, and CYP2E1 activity.
+In vitro metabolism studies demonstrate that ticagrelor and its major active metabolite are weak inhibitors of CYP3A4, potential activators of CYP3A5 and inhibitors of the P-gp transporter.In vitro metabolism studies demonstrate that ticagrelor is a BCRP inhibitor.Ticagrelor and AR-C124910XX were shown to have no inhibitory effect on human CYP1A2, CYP2C19, and CYP2E1 activity.
 For specific in vivo effects on the pharmacokinetics of simvastatin, atorvastatin, ethinyl estradiol, levonorgesterol, tolbutamide, digoxin and cyclosporine, see Figure 9.
 
 Figure 9 – Impact of ticagrelor tablets on the pharmacokinetics of co-administered drugs

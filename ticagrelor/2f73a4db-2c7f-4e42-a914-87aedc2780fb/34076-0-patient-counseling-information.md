@@ -14,7 +14,7 @@ Advise patients to contact their doctor if they experience unexpected shortness 
 
 Advise patients to inform physicians and dentists that they are taking ticagrelor tablets before any surgery or dental procedure.
 
-Advise women that breastfeeding is not recommended during treatment with ticagrelor tablets [see Use in Specific Populations (8.2)].
+Advise women that breastfeeding is not recommended during treatment with ticagrelor tablets[see Use in Specific Populations (8.2)].
 
 Manufactured by:
 
@@ -26,4 +26,4 @@ Distributed by:
 
 Ascend Laboratories, LLC Bedminster, NJ 07921
 
-Revised: January 2026
+Revised: May 2026

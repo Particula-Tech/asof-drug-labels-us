@@ -16,9 +16,9 @@ Resume ticagrelor tablets as soon as hemostasis is achieved.
 ## 5.3 Dyspnea
 
 In clinical trials, about 14% (PLATO and PEGASUS) of patients treated with ticagrelor tablets developed dyspnea.
-Dyspnea was usually mild to moderate in intensity and often resolved during continued treatment but led to study drug discontinuation in 0.9% (PLATO), and 4.3% (PEGASUS) of patients.
+Dyspnea was usually mild to moderate in intensity and often resolved during continued treatment but led to study drug discontinuation in 0.9% (PLAT-O), and 4.3% (PEGASU-S), of patients.
 
-In a substudy of PLATO, 199 subjects underwent pulmonary function testing irrespective of whether they reported dyspnea.
+In a sub study of PLATO, 199 subjects underwent pulmonary function testing irrespective of whether they reported dyspnea.
 There was no indication of an adverse effect on pulmonary function assessed after one month or after at least 6 months of chronic treatment.
 
 If a patient develops new, prolonged, or worsened dyspnea that is determined to be related to ticagrelor tablets, no specific treatment is required; continue ticagrelor tablets without interruption if possible.

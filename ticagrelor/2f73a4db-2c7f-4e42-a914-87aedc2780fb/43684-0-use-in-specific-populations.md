@@ -43,7 +43,7 @@ Effectiveness was not demonstrated in an adequate and well-controlled study cond
 
 ## 8.5 Geriatric Use
 
-About half of the patients in PLATO and PEGASUS, THEMIS and THALES were ≥65 years of age and at least 15% were ≥75 years of age.
+About half of the patients in PLATO, PEGASUS, THEMIS and THALES were ≥65 years of age and at least 15% were ≥75 years of age.
 No overall differences in safety or effectiveness were observed between elderly and younger patients.
 
 ## 8.6 Hepatic Impairment
@@ -61,4 +61,4 @@ Patients with End-Stage Renal Disease on dialysis
 
 Clinical efficacy and safety studies with ticagrelor tablets did not enroll patients with end-stage renal disease (ESRD) on dialysis.
 In patients with ESRD maintained on intermittent hemodialysis, no clinically significant difference in concentrations of ticagrelor and its metabolite and platelet inhibition are expected compared to those observed in patients with normal renal function [see Clinical Pharmacology (12.3)].
-It is not known whether these concentrations will lead to similar efficacy and safety in patients with ESRD on dialysis as were seen in PLATO and PEGASUS,THEMIS and THALES.
+It is not known whether these concentrations will lead to similar efficacy and safety in patients with ESRD on dialysis as were seen in PLATO, PEGASUS, THEMIS and THALES.

@@ -4,7 +4,7 @@ Ticagrelor (tye-KA-grel-or) Tablets
 
 What is the most important information I should know about ticagrelor tablets?
 
-Ticagrelor tablets are used to lower your chance of having, or dying from, a heart attack or stroke.
+Ticagrelor tablets are used to lower yourchance of having, or dying from, a heart attack or stroke.
 Ticagrelor tablets (and similar drugs) can cause bleeding that can be serious and sometimes lead to death.
 In cases of serious bleeding, such as internal bleeding, the bleeding may result in the need for blood transfusions or surgery.
 While you take ticagrelor tablets:
@@ -21,8 +21,7 @@ Call your healthcare provider right away, if you have any of these signs or symp
 - red or black stools (looks like tar)
 - coughing up blood or blood clots
 
-Do not stop taking ticagrelor tablets without talking to the healthcare provider who prescribes it for you.
-People who are treated with a stent, and stop taking ticagrelor tablets too soon, have a higher risk of getting a blood clot in the stent, having a heart attack, or dying.
+Do not stop taking ticagrelor tablets without talking to the healthcare provider who prescribes it for you.People who are treated with a stent, and stop taking ticagrelor tablets too soon, have a higher risk of getting a blood clot in the stent, having a heart attack, or dying.
 If you stop ticagrelor tablets because of bleeding, or for other reasons, your risk of a heart attack or stroke may increase.
 
 Your healthcare provider may instruct you to stop taking ticagrelor tablets 5 days before surgery.
@@ -133,7 +132,7 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not use ticagrelor tablets for a condition for which it was not prescribed.
 Do not give ticagrelor tablets to other people, even if they have the same symptoms you have.
 It may harm them.
-You can ask your pharmacist or healthcare provider for information about ticagrelor tablets that is written for health professionals.
+You can ask your pharmacist or healthcare providerf or information about ticagrelor tablets that is written for health professionals.
 
 What are the ingredients in ticagrelor tablet?
 
@@ -154,3 +153,5 @@ For more information contact Ascend Laboratories, LLC at 1-877-272-7901.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Revised: January 2026
+
+PT 3839-02

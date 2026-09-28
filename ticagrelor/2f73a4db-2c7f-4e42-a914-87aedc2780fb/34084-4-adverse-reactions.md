@@ -49,7 +49,7 @@ If local practice was to use IPA monitoring to determine when surgery could be p
 
 T Ticagrelor; C Clopidogrel.
 
-Table 2 - CABG-related bleeding (PLATO)
+Table 2- CABG-related bleeding (PLATO)
 
 |  | Ticagrelor Tablets* N=770 | Clopidogrel N=814 |
 | --- | --- | --- |
@@ -133,8 +133,8 @@ Fatal bleedings, almost all ICH, occurred in 11 for ticagrelor tablets and in 2 
 
 Bradycardia
 
-In a Holter substudy of about 3,000 patients in PLATO, more patients had ventricular pauses with ticagrelor tablets (6.0%) than with clopidogrel (3.5%) in the acute phase; rates were 2.2% and 1.6%, respectively, after 1 month.
-PLATO and PEGASUS, THEMIS and THALES excluded patients at increased risk of bradycardic events (e.g., patients who have sick sinus syndrome, 2nd or 3rd degree AV block, or bradycardic-related syncope and not protected with a pacemaker).
+In a Holter sub study of about 3,000 patients in PLATO, more patients had ventricular pauses with ticagrelor tablets (6.0%) than with clopidogrel (3.5%) in the acute phase; rates were 2.2% and 1.6%, respectively, after 1 month.
+PLATO, PEGASUS, THEMIS and THALES excluded patients at increased risk of bradycardic events (e.g., patients who have sick sinus syndrome, 2nd or 3rd degree AV block, or bradycardic-related syncope and not protected with a pacemaker).
 
 Lab abnormalities
 
