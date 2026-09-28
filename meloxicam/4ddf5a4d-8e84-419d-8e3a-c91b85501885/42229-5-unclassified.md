@@ -4,4 +4,4 @@ Made in Canada
 
 © 2024 Avondale Pharmaceuticals, LLC
 
-C-A236R1
+C-A236R2
