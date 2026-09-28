@@ -134,7 +134,9 @@ ZEGERID can cause serious side effects, including:
 - •You may also have fever, chills, body aches, shortness of breath, or enlarged lymph nodes.
 - Stop taking ZEGERID and call your doctor right away.
   These symptoms may be the first sign of a severe skin reaction.
-- •The most common side effects of ZEGERID include:
+
+The most common side effects of ZEGERID include:
+
 - •headache
 - •abdominal pain
 - •nausea
