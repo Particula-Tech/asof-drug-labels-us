@@ -12,7 +12,7 @@ Prior to treating patients with ADZENYS XR-ODT, assess:
 ADZENYS XR-ODT may be taken orally with or without food.
 Individualize the dosage according to the therapeutic needs and response of the patient.
 
-ADZENYS XR-ODT should be taken as follows:
+ADZENYS XR-ODT supplied in blister form should be taken as follows:
 
 - The tablet should remain in the blister pack until the patient is ready to take it.
 - The patient or caregiver should use dry hands to open the blister.
@@ -20,6 +20,16 @@ ADZENYS XR-ODT should be taken as follows:
   The tablet should not be pushed through the foil.
 
 As soon as the blister is opened, the tablet should be removed and placed on the patient's tongue.
+
+- The whole tablet should be placed on the tongue and allowed to disintegrate without chewing or crushing.
+- The tablet will disintegrate in saliva so that it can be swallowed.
+
+ADZENYS XR-ODT supplied in bottle form should be taken as follows:
+
+- The tablet should remain in the bottle until the patient is ready to take it.
+- The patient or caregiver should use dry hands to open the bottle.
+
+As soon as the bottle is opened, the tablet should be removed and placed on the patient’s tongue.
 
 - The whole tablet should be placed on the tongue and allowed to disintegrate without chewing or crushing.
 - The tablet will disintegrate in saliva so that it can be swallowed.

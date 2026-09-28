@@ -7,9 +7,14 @@ Abuse, Misuse, and Addiction
 Educate patients and their families about the risks of abuse, misuse, and addiction of ADZENYS XR-ODT, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2), Overdosage (10)].
 Advise patients to store ADZENYS XR-ODT in a safe place, preferably locked, and instruct patients to not give ADZENYS XR-ODT to anyone else.
 
+Risks to Patients with Serious Cardiac Disease
+
+Advise patients that there are potential risks to patients with serious cardiac disease, including sudden death, with ADZENYS XR-ODT use.
+Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
+
 Dosage and Administration Instructions
 
-Provide the following instructions on administration to the patient:
+Provide the following instructions on administration to the patient in the blister packaging:
 
 - The tablet should remain in the blister pack until the patient is ready to take it.
 - The patient or caregiver should use dry hands to open the blister.
@@ -19,10 +24,15 @@ Provide the following instructions on administration to the patient:
 - The whole tablet should be placed on the tongue and allowed to disintegrate without chewing or crushing.
 - The tablet will disintegrate in saliva so that it can be swallowed.
 
-Risks to Patients with Serious Cardiac Disease
+Provide the following instructions on administration to the patient in the bottle packaging form:
 
-Advise patients that there are potential risks to patients with serious cardiac disease, including sudden death, with ADZENYS XR-ODT use.
-Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
+- The tablet should remain in the bottle until the patient is ready to take it.
+- The tablet should be taken immediately after removing it from bottle.
+  It should not be stored for future use.
+- The patient or caregiver should use dry hands to open the bottle.
+- As soon as the tablet is removed from the bottle, the tablet should be removed and placed on the patient’s tongue.
+- The whole tablet should be placed on the tongue and allowed to disintegrate without chewing or crushing.
+- The tablet will disintegrate in saliva so that it can be swallowed.
 
 Increased Blood Pressure and Heart Rate
 
