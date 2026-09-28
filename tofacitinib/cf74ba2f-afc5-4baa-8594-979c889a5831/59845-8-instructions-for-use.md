@@ -31,10 +31,6 @@ Wash your hands with soap and water and place the items from the carton on a cle
 
 Each carton of XELJANZ oral solution contains:
 
-- •1 press-in bottle adapter
-- •1 bottle of XELJANZ oral solution
-- •1 oral dosing syringe
-
 Step 1.
 Remove bottle from carton
 
@@ -123,10 +119,10 @@ Store the oral dosing syringe with the XELJANZ oral solution.
 
 Do not throw away the oral dosing syringe.
 
-LAB-1422-3.0
+LAB-1422-4.0
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Approved: October 2025
+Approved: September 2026
 
 This Instructions for Use may have been updated.
 For the most recent Instructions for Use, please visit www.pfizer.com.

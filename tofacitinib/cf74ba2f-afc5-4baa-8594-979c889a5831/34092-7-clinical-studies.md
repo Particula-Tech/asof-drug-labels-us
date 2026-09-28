@@ -39,7 +39,7 @@ In the 12-month trials, ACR response rates in XELJANZ-treated patients were cons
 
 Table 10: Proportion of Adults with Moderate to Severe Active RA with an ACR Response at Months 3 and 6 in Studies RA-I, IV, and V
 
-|  | Monotherapy in Nonbiologic or Biologic DMARD Inadequate RespondersInadequate response to at least one DMARD (biologic or nonbiologic) due to lack of efficacy or toxicity. |  | MTX Inadequate RespondersInadequate response to MTX defined as the presence of sufficient residual disease activity to meet the entry criteria. |  | TNF Blocker Inadequate RespondersInadequate response to a least one TNF blocker due to lack of efficacy and/or intolerance. |  |
+|  | Monotherapy in Nonbiologic or Biologic DMARD Inadequate RespondersInadequate response to at least one DMARD (biologic or nonbiologic) due to lack of efficacy or toxicity. |  | MTX Inadequate RespondersInadequate response to MTX defined as the presence of sufficient residual disease activity to meet the entry criteria. |  | TNF Blocker Inadequate RespondersInadequate response to at least one TNF blocker due to lack of efficacy and/or intolerance. |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Study RA-I |  | Study RA-IV |  | Study RA-V |  |  |
 | NN is number of randomized and treated patients. | Placebo + background DMARD | XELJANZ5 mg Twice Daily + background DMARD | Placebo + background MTX | XELJANZ5 mg Twice Daily + background MTX | Placebo + background MTX | XELJANZ5 mg Twice Daily + background MTX |
@@ -80,8 +80,6 @@ Table 12: Components of ACR Response in Adults with Moderate to Severe Active RA
 
 The percent of ACR20 responders by visit for Study RA-IV is shown in Figure 4.
 Similar responses were observed for XELJANZ in Studies RA-I, II, III, V, and VI.
-
-Figure 4: Percentage of ACR20 Responders by Visit Through Month 6 in Study RA-IV
 
 Radiographic Response
 
@@ -305,8 +303,6 @@ Table 19: ASAS Components and Other Measures of Disease Activity in Adults with 
 | LSM = least squares mean. |  |  |  |  |  |
 
 The percentage of patients with active AS who achieved ASAS20 response by visit is shown in Figure 6.
-
-Figure 6: Percentage of ASAS20 Responders Over Time Up to Week 16 in Patients with Active AS in Study AS-I
 
 SE = standard error.
 Patients with missing data were treated as non-responders.

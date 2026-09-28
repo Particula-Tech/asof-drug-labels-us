@@ -6,7 +6,8 @@ Serious Infections
 
 Inform patients that XELJANZ (tablets and oral solution) and XELJANZ XR (extended-release tablets) may lower the ability of their immune system to fight infections.
 Advise patients not to start taking XELJANZ/XELJANZ XR if they have an active infection.
-Instruct patients to contact their healthcare provider immediately during treatment if symptoms suggesting infection appear to ensure rapid evaluation and appropriate treatment [see Warnings and Precautions (5.1)].
+Instruct patients to contact their healthcare provider immediately during treatment if symptoms suggesting infection appear to ensure rapid evaluation and appropriate treatment.
+Instruct patients to contact their healthcare provider immediately during treatment if they, their partner, or caregiver notice new onset or worsening of neurological symptoms including general muscle weakness, disturbance of vision, changes in thinking, memory and orientation leading to confusion and personality changes as these may be symptoms of a very rare, serious brain infection called progressive multifocal leukoencephalopathy (PML) [see Warnings and Precautions (5.1)].
 
 Advise patients that the risk of herpes zoster, some cases of which can be serious, is increased in patients treated with XELJANZ/XELJANZ XR [see Warnings and Precautions (5.1)].
 
@@ -59,4 +60,4 @@ Patients should be informed that the active medication has already been absorbed
 This product’s labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0445-31.0
+LAB-0445-32.0

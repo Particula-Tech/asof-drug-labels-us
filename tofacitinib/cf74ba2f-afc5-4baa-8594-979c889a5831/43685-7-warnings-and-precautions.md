@@ -51,6 +51,12 @@ Patients who screened positive for hepatitis B or C were excluded from clinical 
 Perform screening for viral hepatitis in accordance with clinical guidelines before starting therapy with XELJANZ/XELJANZ XR.
 The risk of herpes zoster is increased in patients treated with XELJANZ/XELJANZ XR and appears to be higher in patients treated with XELJANZ in Japan and Korea.
 
+Progressive Multifocal Leukoencephalopathy (PML)
+
+Postmarketing cases of PML have been reported during treatment with XELJANZ/XELJANZ XR; in some of these patients, immune reconstitution inflammatory syndrome (IRIS) occurred within several weeks after discontinuation of XELJANZ/XELJANZ XR.
+Consider PML in any patient presenting with new onset or worsening neurological symptoms.
+If PML is suspected, stop XELJANZ/XELJANZ XR/XELJANZ oral solution and evaluate; if PML is confirmed, discontinue treatment and manage patients appropriately.
+
 ## 5.2 Increased Risk of Mortality
 
 Increased risk of mortality may occur with XELJANZ (tablets and oral solution) and XELJANZ XR (extended-release tablets).
