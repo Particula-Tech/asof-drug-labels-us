@@ -1,11 +1,11 @@
-# PRINCIPAL DISPLAY PANEL - 100 mL Bottle Label
+# PRINCIPAL DISPLAY PANEL - 5 mL Bottle Label
 
-NDC 71741-228-10 100 mL
+NDC 71741-228-10 Rx Only
 
-ATTENTION DISPENSER: Accompanying Medication Guide must be dispensed with this product.
-
-Zybic™ (Meloxicam Oral Suspension, USP) 7.5 mg/5 mL
+Zybic™ (Meloxicam Oral Suspension, USP 7.5 mg/5 mL)
 
 Rx Only
 
 REDMONT PHARMACEUTICALS
+
+228111-1225R1

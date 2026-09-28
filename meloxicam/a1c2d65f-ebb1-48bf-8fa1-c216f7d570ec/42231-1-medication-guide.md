@@ -10,4 +10,4 @@
 | Manufactured for Redmont Pharmaceuticals, LLC, Birmingham, AL 35209 USA Made in Canada © 2025 Redmont Pharmaceuticals, LLC |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: September 2025
+Revised: April 2022

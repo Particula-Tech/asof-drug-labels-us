@@ -6,4 +6,4 @@ Made in Canada
 
 © 2025 Redmont Pharmaceuticals, LLC
 
-228111-1225
+228111-1225R1
