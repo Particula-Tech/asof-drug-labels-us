@@ -289,7 +289,7 @@ Table 8: Adverse Reactions Reported More Frequently in Patients Treated with Stu
 | Anorexia | 10 (11) | 3 (5) | 19 (2) | 4 (1) |
 | Hemorrhage | 11 (12) | 4 (6) | 17 (2) | 8 (1) |
 | Hypoxia | 8 (9) | 2 (3) | 12 (2) | 2 (< 1) |
-| Myalgia | 5 (5) | 0 | 4 (1) | 1 (<, 1) |
+| Myalgia | 5 (5) | 0 | 4 (1) | 1 (< 1) |
 | Stomatitis | 15 (16) | 8 (12) | 22 (3) | 14 (2) |
 | Diarrhea | 8 (9) | 3 (5) | 12 (2) | 3 (< 1) |
 | Rash/Skin disorder | 4 (4) | 0 | 5 (1) | 0 |
@@ -364,7 +364,7 @@ Table 11: Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Stud
 
 |  | N = 12 |  |
 | --- | --- | --- |
-| CTC Grades1 | Grade 3% | Grade 4% |
+| CTC Grades(1) | Grade 3% | Grade 4% |
 | Hematology Parameters |  |  |
 | – Anemia | 17 | 0 |
 | – Thrombocytopenia | 17 | 0 |
@@ -712,7 +712,7 @@ Gastrointestinal Disorders: ileus/intestinal obstruction, tumor hemorrhage/tumor
 
 Infections: hepatitis B virus reactivation1
 
-Musculoskeletal and Connective Tissue Disorders: osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthalgia, bone pain)
+Musculoskeletal and Connective Tissue Disorders: osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthralgia, bone pain), bone marrow edema.
 
 Nervous System Disorders: cerebral edema1
 
