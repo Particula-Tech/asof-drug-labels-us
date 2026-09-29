@@ -17,8 +17,6 @@ However, if they miss one day of icosapent ethyl capsules, they should not doubl
 
 For more information about Icosapent Ethyl Capsules, go to www.apotex.com or call 1-800-706-5575.
 
-Dispense with Patient Information Leaflet available at www.apotex.com/products/us/mg.asp
-
 | APOTEX INC |
 | --- |
 | ICOSAPENT ETHYL CAPSULES |
@@ -29,4 +27,4 @@ Dispense with Patient Information Leaflet available at www.apotex.com/products/u
 | Apotex Corp. |
 | Weston, FL 33326 USA |
 
-Rev: 7
+Rev: 8

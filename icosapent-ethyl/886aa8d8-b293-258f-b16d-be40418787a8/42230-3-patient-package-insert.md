@@ -2,8 +2,6 @@
 
 Icosapent Ethyl Capsules (eye koe’ sa pent eth’ il)
 
-Patient Information Leaflet available at www.apotex.com/products/us/mg.asp
-
 What are icosapent ethyl capsules?
 
 Icosapent ethyl capsules are a prescription medicine used:
@@ -112,6 +110,6 @@ APOTEX INC. ICOSAPENT ETHYL CAPSULES 1 gram
 | Apotex Corp. |
 | Weston, FL 33326 USA |
 
-Revised: May 2025
+Revised: September 2026
 
-Rev: 7
+Rev: 8
