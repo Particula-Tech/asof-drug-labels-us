@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Brimonidine Tartrate Ophthalmic Solution is supplied sterile, in white opaque LDPE ophthalmic bottles with white translucent LDPE ophthalmic droppers and purple opaque ophthalmic HDPE plastic caps as follows:
+Brimonidine Tartrate Ophthalmic Solution, is supplied sterile, in white opaque LDPE ophthalmic bottles with white translucent LDPE ophthalmic droppers and purple opaque ophthalmic HDPE plastic caps as follows:
 
 0.15%
 
