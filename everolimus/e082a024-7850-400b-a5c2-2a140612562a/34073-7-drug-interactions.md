@@ -1,75 +1,47 @@
 # 7DRUG INTERACTIONS
 
-## 7.1 Interactions With Strong Inhibitors or Inducers of CYP3A4 and P-glycoprotein
+## 7.1 Effect of Other Drugs on ZORTRESS
 
-Everolimus is mainly metabolized by CYP3A4 in the liver and to some extent in the intestinal wall and is a substrate for the multidrug efflux pump, P-glycoprotein (P-gp).
-Therefore, absorption and subsequent elimination of systemically absorbed everolimus may be influenced by medicinal products that affect CYP3A4 and/or P-gp.
-Concurrent treatment with strong inhibitors (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) and inducers (e.g., rifampin, rifabutin) of CYP3A4 is not recommended.
-Inhibitors of P-gp (e.g., digoxin, cyclosporine) may decrease the efflux of everolimus from intestinal cells and increase everolimus blood concentrations.
-In vitro, everolimus was a competitive inhibitor of CYP3A4 and of CYP2D6, potentially increasing the concentrations of medicinal products eliminated by these enzymes.
-Thus, caution should be exercised when coadministering Zortress with CYP3A4 and CYP2D6 substrates with a narrow therapeutic index [see Dosage and Administration (2.3)].
+Everolimus is mainly metabolized by CYP3A in the liver and to some extent in the intestinal wall and is a substrate for the multidrug efflux pump, P-glycoprotein (P-gp).
+Therefore, absorption and subsequent elimination of orally absorbed everolimus may be influenced by medicinal products that affect CYP3A and/or P-gp.
 
-All in vivo interaction studies were conducted without concomitant cyclosporine.
-Pharmacokinetic interactions between Zortress and concomitantly administered drugs are discussed below.
-Drug interaction studies have not been conducted with drugs other than those described below.
+Strong or Moderate Inhibitors of CYP3A
 
-## 7.2 Cyclosporine (CYP3A4/P-gp Inhibitor and CYP3A4 Substrate)
+Inhibitors of CYP3A may increase concentrations of everolimus and result in more adverse events.
+Avoid concomitant treatment with strong inhibitors of CYP3A.
+When used with moderate inhibitors of CYP3A, everolimus blood concentrations should be monitored and a dose reduction made as necessary [see Clinical Pharmacology (12.3)].
 
-The steady-state Cmax and area under the curve (AUC) estimates of everolimus were significantly increased by coadministration of single dose cyclosporine [see Clinical Pharmacology (12.5)].
-Dose adjustment of Zortress might be needed if the cyclosporine dose is altered [see Dosage and Administration (2.3)].
+Strong or Moderate Inducers of CYP3A
+
+Inducers of CYP3A may decrease concentrations of everolimus and make it less effective.
+Avoid concomitant treatment with strong inducers of CYP3A.
+When used with moderate inducers of CYP3A, everolimus blood concentrations should be monitored and a dose increase made as necessary [see Clinical Pharmacology (12.3)].
+
+Cyclosporine (P-gp/weak CYP3A Inhibitor)
+
+The Cmax and area under the curve (AUC) of everolimus were significantly increased by cyclosporine [see Clinical Pharmacology (12.3)].
+Dose adjustment of Zortress might be needed if the cyclosporine dose is altered [see Dosage and Administration (2.5)].
 Zortress had a clinically minor influence on cyclosporine pharmacokinetics in transplant patients receiving cyclosporine (Neoral).
 
-## 7.3 Ketoconazole and Other Strong CYP3A4 Inhibitors
+Zortress should be taken concomitantly with cyclosporine in kidney transplant patients.
+Everolimus concentrations may decrease when doses of cyclosporine are reduced, unless the Zortress dose is increased [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 
-Multiple-dose ketoconazole administration to healthy volunteers significantly increased single dose estimates of everolimus Cmax, AUC, and half-life.
-It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) should not be coadministered with Zortress [see Warnings and Precautions (5.14), Clinical Pharmacology (12.5)].
+Cannabidiol
 
-## 7.4 Erythromycin (Moderate CYP3A4 Inhibitor)
+The blood levels of everolimus may increase upon concomitant use with cannabidiol.
+When cannabidiol and Zortress are used concomitantly, closely monitor for an increase in everolimus blood levels and for adverse reactions suggestive of everolimus toxicity.
+A dose reduction of Zortress should be considered as needed [see Dosage and Administration (2.4), Warnings and Precautions (5.22), Clinical Pharmacology (12.3)].
 
-Multiple-dose erythromycin administration to healthy volunteers significantly increased single dose estimates of everolimus Cmax, AUC, and half-life.
-If erythromycin is coadministered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary [see Clinical Pharmacology (12.5)].
+Tacrolimus
 
-## 7.5 Verapamil (CYP3A4 and P-gp Substrate)
+There is little to no pharmacokinetic interaction of tacrolimus on everolimus, and consequently, dose adjustment of Zortress is not necessary when Zortress is used concomitantly with tacrolimus.
 
-Multiple-dose verapamil administration to healthy volunteers significantly increased single dose estimates of everolimus Cmax and AUC.
-Everolimus half-life was not changed.
-If verapamil is coadministered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary [see Clinical Pharmacology (12.5)].
+## 7.2 Effect of ZORTRESS on Other Drugs
 
-## 7.6 Atorvastatin (CYP3A4 Substrate) and Pravastatin (P-gp Substrate)
+Statins
 
 Single-dose administration of Zortress with either atorvastatin or pravastatin to healthy subjects did not influence the pharmacokinetics of atorvastatin, pravastatin and everolimus, as well as total HMG-CoA reductase bioreactivity in plasma to a clinically relevant extent.
 However, these results cannot be extrapolated to other HMG-CoA reductase inhibitors.
 Patients should be monitored for the development of rhabdomyolysis and other adverse reactions as described in the respective labeling for these products.
 
-## 7.7 Simvastatin and Lovastatin
-
-Due to an interaction with cyclosporine, clinical studies of Zortress with cyclosporine conducted in kidney transplant patients strongly discouraged patients with receiving HMG-CoA reductase inhibitors such as simvastatin and lovastatin [see Warnings and Precautions (5.11)].
-
-## 7.8 Rifampin (Strong CYP3A4/P-gp Inducers)
-
-Pretreatment of healthy subjects with multiple-dose rifampin followed by a single dose of Zortress increased everolimus clearance and decreased the everolimus Cmax and AUC estimates.
-Combination with rifampin is not recommended [see Warnings and Precautions (5.14), Clinical Pharmacology (12.5)].
-
-## 7.9 Midazolam (CYP3A4/5 Substrate)
-
-Single-dose administration of midazolam to healthy volunteers following administration of multiple-dose Zortress indicated that everolimus is a weak inhibitor of CYP3A4/5.
-Dose adjustment of midazolam or other CYP3A4/5 substrates is not necessary when Zortress is coadministered with midazolam or other CYP3A4/5 substrates [see Clinical Pharmacology (12.5)].
-
-## 7.10 Other Possible Interactions
-
-Moderate inhibitors of CYP3A4 and P-gp may increase everolimus blood concentrations (e.g., fluconazole; macrolide antibiotics; nicardipine, diltiazem; nelfinavir, indinavir, amprenavir).
-Inducers of CYP3A4 may increase the metabolism of everolimus and decrease everolimus blood concentrations (e.g., St. John’s Wort [Hypericum perforatum]; anticonvulsants: carbamazepine, phenobarbital, phenytoin; efavirenz, nevirapine).
-
-## 7.11 Octreotide
-
-Coadministration of everolimus and depot octreotide increased octreotide Cmin by approximately 50%.
-
-## 7.12 Tacrolimus
-
-There is little to no pharmacokinetic interaction of tacrolimus on everolimus, and consequently, dose adjustment of Zortress is not necessary when Zortress is coadministered with tacrolimus.
-
-## 7.13 Cannabidiol
-
-The blood levels of everolimus may increase upon concomitant use with cannabidiol.
-When cannabidiol and Zortress are coadministered, closely monitor for an increase in everolimus blood levels and for adverse reactions suggestive of everolimus toxicity.
-A dose reduction of Zortress should be considered as needed when Zortress is coadministered with cannabidiol [see Dosage and Administration (2.3), Warnings and Precautions (5.22)].
+Due to an interaction with cyclosporine, clinical studies of Zortress with cyclosporine conducted in kidney transplant patients strongly discouraged patients receiving HMG-CoA reductase inhibitors such as simvastatin and lovastatin [see Warnings and Precautions (5.11)].

@@ -4,7 +4,7 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the label.
 
-- Hypersensitivity Reactions [see Contraindications (4.1)]
+- Hypersensitivity Reactions [see Contraindications (4)]
 - Lymphomas and Other Malignancies [see Boxed Warning, Warnings and Precautions (5.2)]
 - Serious Infections [see Warnings and Precautions (5.3)]
 - Kidney Graft Thrombosis [see Warnings and Precautions (5.4)]
@@ -23,11 +23,11 @@ The following adverse reactions are discussed in greater detail in other section
 
 ## 6.2 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in other clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 Kidney Transplantation
 
-The data described below reflect exposure to Zortress in an open-label, randomized trial of de novo kidney transplant patients of concentration-controlled everolimus at an initial Zortress starting dose of 1.5 mg per day [target trough concentrations 3 to 8 ng/mL with reduced exposure cyclosporine (N = 274) compared to mycophenolic acid (N = 273) with standard exposure cyclosporine].
+Adverse reactions in Zortress was derived from an open-label, randomized trial of de novo kidney transplant patients of concentration-controlled everolimus at an initial Zortress starting dose of 1.5 mg per day [target trough concentrations 3 to 8 ng/mL with reduced exposure cyclosporine (N = 274) compared to mycophenolic acid (N = 273) with standard exposure cyclosporine].
 All patients received basiliximab induction therapy and corticosteroids.
 The population was between 18 and 70 years, more than 43% were 50 years of age or older (mean age was 46 years in the Zortress group, 47 years control group); a majority of recipients were male (64% in the Zortress group, 69% control group); and a majority of patients were Caucasian (70% in the Zortress group, 69% control group).
 Demographic characteristics were comparable between treatment groups.

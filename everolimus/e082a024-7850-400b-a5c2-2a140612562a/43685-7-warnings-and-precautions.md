@@ -79,7 +79,7 @@ Similarly, the risk/benefit of continued Zortress therapy should be reevaluated 
 Zortress has not been studied in patients with baseline cholesterol levels greater than 350 mg/dL.
 
 Due to an interaction with cyclosporine, clinical trials of Zortress and cyclosporine in kidney transplant patients strongly discouraged patients from receiving the HMG-CoA reductase inhibitors simvastatin and lovastatin.
-During Zortress therapy with cyclosporine, patients administered an HMG-CoA reductase inhibitor and/or fibrate should be monitored for the possible development of rhabdomyolysis and other adverse effects, as described in the respective labeling for these agents [see Drug Interactions (7.7)].
+During Zortress therapy with cyclosporine, patients administered an HMG-CoA reductase inhibitor and/or fibrate should be monitored for the possible development of rhabdomyolysis and other adverse effects, as described in the respective labeling for these agents [see Drug Interactions (7.2)].
 
 ## 5.12 Proteinuria
 
@@ -98,9 +98,10 @@ Patient monitoring may help detect patients at risk for PVAN.
 Reductions in immunosuppression should be considered for patients who develop evidence of PVAN or PML.
 Physicians should also consider the risk that reduced immunosuppression represents to the functioning allograft.
 
-## 5.14 Interaction With Strong Inhibitors and Inducers of CYP3A4
+## 5.14 Interaction With Strong Inhibitors and Inducers of CYP3A
 
-Coadministration of Zortress with strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) or strong CYP3A4 inducers (e.g., rifampin, rifabutin) is not recommended without close monitoring of everolimus whole blood trough concentrations [see Drug Interactions (7)].
+Concomitant use of Zortress with strong CYP3A inhibitors or strong CYP3A inducers is not recommended.
+If concomitant use is not avoidable, closely monitor everolimus whole blood trough concentrations [see Drug Interactions (7.1)].
 
 ## 5.15 Thrombotic Microangiopathy/Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome
 
@@ -130,7 +131,7 @@ The use of live vaccines should be avoided during treatment with Zortress; examp
 
 ## 5.20 Interaction With Grapefruit Juice
 
-Grapefruit and grapefruit juice inhibit cytochrome P450 3A4 and P-gp activity and should therefore be avoided with concomitant use of Zortress and cyclosporine or tacrolimus.
+Grapefruit and grapefruit juice inhibit cytochrome P450 3A activity and should therefore be avoided with concomitant use of Zortress and cyclosporine or tacrolimus.
 
 ## 5.21 Patients With Hereditary Disorders/Other
 
@@ -138,5 +139,5 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 ## 5.22 Cannabidiol Drug Interactions
 
-When cannabidiol and Zortress are coadministered, closely monitor for an increase in everolimus blood levels and for adverse reactions suggestive of everolimus toxicity.
-A dose reduction of Zortress should be considered as needed when Zortress is coadministered with cannabidiol [see Dosage and Administration (2.3), Drug Interactions (7.13)].
+When cannabidiol and Zortress are used concomitantly, closely monitor for an increase in everolimus blood levels and for adverse reactions suggestive of everolimus toxicity.
+A dose reduction of Zortress should be considered as needed when Zortress is used concomitantly with cannabidiol [see Dosage and Administration (2.4), Drug Interactions (7.1)].

@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+How Supplied
+
 Zortress (everolimus) tablets are packed in child-resistant blisters.
 
 Table 11.

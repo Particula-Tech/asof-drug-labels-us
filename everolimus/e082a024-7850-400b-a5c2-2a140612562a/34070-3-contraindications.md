@@ -1,5 +1,5 @@
 # 4CONTRAINDICATIONS
 
-## 4.1 Hypersensitivity Reactions
+Hypersensitivity Reactions
 
-Zortress is contraindicated in patients with known hypersensitivity to everolimus, sirolimus, or to components of the drug product.
+Zortress is contraindicated in patients with known hypersensitivity to everolimus, sirolimus, or to any of its excipients.

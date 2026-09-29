@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise patients to read the FDA-approved patient labeling (Medication Guide).
 
 Administration
 
@@ -8,17 +8,17 @@ Inform patients that Zortress should be taken orally twice a day approximately 1
 
 Inform patients to avoid grapefruit and grapefruit juice, which increase blood drug concentrations of Zortress [see Warnings and Precautions (5.20)].
 
-Advise patients that Zortress should be used concurrently with reduced doses of cyclosporine and that any change in doses of these medications should be made under physician supervision.
+Advise patients that Zortress should be used concomitantly with reduced doses of cyclosporine and that any change in doses of these medications should be made under physician supervision.
 A change in the cyclosporine dose may also require a change in the dosage of Zortress.
 
 Inform patients of the necessity of repeated laboratory tests according to physician recommendations while they are taking Zortress.
 
-Development of Lymphomas and Other Malignancies
+Lymphomas and Other Malignancies
 
 Inform patients they are at risk of developing lymphomas and other malignancies, particularly of the skin, due to immunosuppression.
 Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and using a sunscreen with a high protection factor [see Warnings and Precautions (5.2)].
 
-Increased Risk of Infection
+Serious Infections
 
 Inform patients they are at increased risk of developing a variety of infections, including opportunistic infections, due to immunosuppression.
 Advise patients to contact their physician if they develop any symptoms of infection [see Warnings and Precautions (5.3, 5.13)].
@@ -88,4 +88,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2024-12
+T2026-37

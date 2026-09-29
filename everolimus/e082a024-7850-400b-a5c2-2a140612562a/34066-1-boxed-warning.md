@@ -1,4 +1,4 @@
-# WARNING: MALIGNANCIES and SERIOUS INFECTIONS; KIDNEY GRAFT THROMBOSIS; NEPHROTOXICITY; and MORTALITY IN HEART TRANSPLANTATION
+# WARNING: MALIGNANCIES, SERIOUS INFECTIONS, KIDNEY GRAFT THROMBOSIS, NEPHROTOXICITY and MORTALITY IN HEART TRANSPLANTATION
 
 Malignancies and Serious Infections
 
@@ -15,7 +15,7 @@ Nephrotoxicity
 
 - Increased nephrotoxicity can occur with use of standard doses of cyclosporine in combination with Zortress.
   Therefore, reduced doses of cyclosporine should be used in combination with Zortress in order to reduce renal dysfunction.
-  It is important to monitor the cyclosporine and everolimus whole blood trough concentrations [see Dosage and Administration (2.4, 2.5), Warnings and Precautions (5.6), Clinical Pharmacology (12.7, 12.8)].
+  It is important to monitor the cyclosporine and everolimus whole blood trough concentrations [see Dosage and Administration (2.5, 2.6), Warnings and Precautions (5.6), Clinical Pharmacology (12.7, 12.8)].
 
 Mortality in Heart Transplantation
 
