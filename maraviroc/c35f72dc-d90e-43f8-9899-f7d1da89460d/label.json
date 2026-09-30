@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA216143"
+  ],
+  "inn": "maraviroc",
+  "labeler": "Rhodes Pharmaceuticals LLC",
+  "package_ndcs": [
+    "42858-246-06",
+    "42858-247-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "maraviroc",
+      "name": "Maraviroc"
+    }
+  ],
+  "setid": "c35f72dc-d90e-43f8-9899-f7d1da89460d",
+  "source": "dailymed"
+}
