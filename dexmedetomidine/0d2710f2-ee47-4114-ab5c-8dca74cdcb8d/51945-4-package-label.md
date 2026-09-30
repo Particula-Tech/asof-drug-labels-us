@@ -20,7 +20,7 @@ Rx only WG Critical Care
 
 # Package/Label Display Panel
 
-NDC 44567-602-24 Rx only
+NDC 44567-602-01 Rx only
 
 Dexmedetomidine
 
@@ -32,7 +32,7 @@ For Intravenous Use Only
 
 # Package/Label Display Panel
 
-NDC 44567-603-24 Rx only
+NDC 44567-603-01 Rx only
 
 Dexmedetomidine
 

@@ -13,8 +13,10 @@ Dexmedetomidine in 5% Dextrose Injection is available in a 4 mcg/mL strength in 
 
 | NDC No. | Strength | Package |
 | --- | --- | --- |
-| 44567-602-24 | 200 mcg/50 mL | 24 bags/carton |
-| 44567-603-24 | 400 mcg/100 mL | 24 bags/carton |
+| 44567-602-01 | 200 mcg/50 mL | 1 single-dose bag |
+| 44567-602-24 | 24 bags per carton |  |
+| 44567-603-01 | 400 mcg/100 mL | 1 single-dose bag |
+| 44567-603-24 | 24 bags per carton |  |
 
 Store bags at 20℃ to 25°C (68℉ to 77°F); excursions permitted 15℃ to 30°C (59℉ to 86°F) [see USP Controlled Room Temperature].
 Protect from light.
