@@ -26,16 +26,10 @@ Patients should be aware that lacosamide may cause serious hypersensitivity reac
 Lacosamide should be discontinued if a serious hypersensitivity reaction is suspected.
 Patients should also be instructed to report promptly to their physicians any symptoms of liver toxicity (e.g., fatigue, jaundice, dark urine) [see Warnings and Precautions (5.6)].
 
-Pregnancy Registry
-
-Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during lacosamide therapy.
-Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
-This registry is collecting information about the safety of AEDs during pregnancy [see Use in Specific Populations (8.1)].
-
 Lactation
 
 Advise breastfeeding women using lacosamide to monitor infants for excess sleepiness and to seek medical care if they notice this sign [see Use in Specific Populations (8.2)].
 
 Manufactured By: ScieGen Pharmaceuticals, Inc. Hauppauge, New York 11788, USA
 
-Rev: 10/2025
+Revised: 6/2026

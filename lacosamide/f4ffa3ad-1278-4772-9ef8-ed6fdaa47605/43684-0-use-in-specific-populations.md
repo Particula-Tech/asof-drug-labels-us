@@ -2,11 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), such as lacosamide, during pregnancy.
-Encourage women who are taking lacosamide during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
-
 Risk Summary
 
 Available data from the North American Antiepileptic Drug (NAAED) pregnancy registry, a prospective cohort study, case reports, and a case series with lacosamide use in pregnant women are insufficient to identify a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes.

@@ -85,9 +85,6 @@ Before you take lacosamide tablets, tell your healthcare provider about all of y
   It is not known if lacosamide tablets can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking lacosamide tablets.
   You and your healthcare provider will decide if you should take lacosamide tablets while you are pregnant.
-  - If you become pregnant while taking lacosamide tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
-    You can enroll in this registry by calling 1-888-233-2334.
-    The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
 - are breastfeeding or plan to breastfeed.
   Lacosamide tablets passes into breast milk.
   - Breastfeeding during treatment with lacosamide tablets may cause your baby to have more sleepiness than normal.
@@ -179,6 +176,6 @@ Manufactured By: ScieGen Pharmaceuticals, Inc. Hauppauge, New York 11788, USA
 
 For more information, call 1-855-724-3436
 
-Rev: 5/2025
+Rev: 6/2026
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

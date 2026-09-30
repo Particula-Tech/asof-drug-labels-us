@@ -123,9 +123,6 @@ Nervous system disorders: paresthesia, cognitive disorder, hypoaesthesia, dysart
 
 Psychiatric disorders: confusional state, mood altered, depressed mood
 
-Additional pediatric use information is approved for UCB, Inc.’s VIMPAT® (lacosamide) tablets.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
-
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of lacosamide.
