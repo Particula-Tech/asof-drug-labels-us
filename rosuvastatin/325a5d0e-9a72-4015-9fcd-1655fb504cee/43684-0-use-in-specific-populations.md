@@ -83,7 +83,7 @@ In patients with severe renal impairment not on hemodialysis, the recommended st
 
 CRESTOR is contraindicated in patients with acute liver failure or decompensated cirrhosis.
 Chronic alcohol liver disease is known to increase rosuvastatin exposure.
-Patients who consume substantial quantities of alcohol and/or have a history of liver disease may be at increased risk for hepatic injury [see Contraindications (4), Warning and Precautions (5.3) and Clinical Pharmacology (12.3)].
+Patients who consume substantial quantities of alcohol and/or have a history of liver disease may be at increased risk for hepatic injury [see Contraindications (4), Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Asian Patients
 

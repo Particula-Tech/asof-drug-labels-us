@@ -33,10 +33,10 @@ When taking CRESTOR with an aluminum and magnesium hydroxide combination antacid
 
 Missed Doses
 
-If a dose is missed, advise patients not take an extra dose.
+If a dose is missed, advise patients not to take an extra dose.
 Just resume the usual schedule [see Dosage and Administration (2.1)].
 
-CRESTOR® is a trademark of the AstraZeneca group of companies.
+CRESTOR® is a registered of the AstraZeneca group of companies.
 
 © AstraZeneca 2026
 

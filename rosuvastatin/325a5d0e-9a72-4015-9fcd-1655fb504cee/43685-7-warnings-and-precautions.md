@@ -13,9 +13,7 @@ The myopathy risk is greater in patients taking CRESTOR 40 mg daily compared wit
 
 Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis
 
-The concomitant use of CRESTOR with cyclosporine or gemfibrozil is not recommended.
-CRESTOR dosage modifications are recommended for patients taking certain antiviral medications, darolutamide, and regorafenib [see Dosage and Administration (2.6)].
-Niacin, fibrates, and colchicine may also increase the risk of myopathy and rhabdomyolysis [see Drug Interactions (7.1)].
+CRESTOR dosage modifications are recommended for patients taking certain medications; concomitant use with certain other medications should be avoided [see Dosage and Administration (2.6), Drug Interactions (7.1)].
 
 Discontinue CRESTOR if markedly elevated CK levels occur or if myopathy is either diagnosed or suspected.
 Muscle symptoms and CK elevations may resolve if CRESTOR is discontinued.

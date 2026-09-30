@@ -2,7 +2,7 @@
 
 CRESTOR is indicated:
 
-- •To reduce the risk of major adverse cardiovascular (CV) events (CV death, nonfatal myocardial infarction, nonfatal stroke, or an arterial revascularization procedure) in adults at increased risk for CV events.
+- •To reduce the risk of major adverse cardiovascular (CV) events (CV death, nonfatal myocardial infarction, nonfatal stroke, or an arterial revascularization procedure) in adults at increased risk for these events.
 - •As an adjunct to diet and exercise to reduce low-density lipoprotein cholesterol (LDL-C):
   - ∘in adults with hypercholesterolemia.
   - ∘and slow the progression of atherosclerosis in adults.

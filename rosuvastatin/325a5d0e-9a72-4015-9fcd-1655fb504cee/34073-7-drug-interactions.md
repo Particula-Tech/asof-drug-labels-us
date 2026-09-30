@@ -27,6 +27,9 @@ Table 5: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis
 | Darolutamide |  |  |
 | Prevention or Management: | In patients taking darolutamide, do not exceed a dosage of CRESTOR 5 mg once daily. |  |
 | Mechanism and Clinical Effect(s): | Darolutamide increased rosuvastatin exposure more than 5-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
+| Vadadustat |  |  |
+| Prevention or Management: | In patients taking vadadustat, do not exceed a dosage of CRESTOR 5 mg once daily. |  |
+| Mechanism and Clinical Effect(s): | Vadadustat increased rosuvastatin exposure by 2.5-fold. The risk of myopathy and rhabdomyolysis is increased with concomitant use. |  |
 | Additional Anti-Viral Medications |  |  |
 | Prevention or Management: | •Simeprevir •Dasabuvir/ombitasvir/paritaprevir/ritonavir •Elbasvir/grazoprevir •Sofosbuvir/velpatasvir •Glecaprevir/pibrentasvir •Atazanavir/ritonavir•Lopinavir/ritonavir | Initiate with CRESTOR 5 mg once daily, and do not exceed a dosage of CRESTOR 10 mg once daily. |
 | Mechanism and Clinical Effect(s): | Rosuvastatin plasma levels were significantly increased with concomitant administration of many anti-viral drugs, which increases the risk of myopathy and rhabdomyolysis. |  |

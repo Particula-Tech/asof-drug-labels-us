@@ -5,7 +5,7 @@ Primary Prevention of CV Disease
 In the Justification for the Use of Statins in Primary Prevention: An Intervention Trial Evaluating Rosuvastatin (JUPITER) study, the effect of CRESTOR on the occurrence of major CV disease events was assessed in 17,802 males (≥50 years) and females (≥60 years) who had no clinically evident CV disease, LDL‑C levels <130 mg/dL and hsCRP levels ≥2 mg/L.
 The study population had an estimated baseline coronary heart disease risk of 11.6% over 10 years based on the Framingham risk criteria and included a high percentage of patients with additional risk factors such as hypertension (58%), low HDL‑C levels (23%), cigarette smoking (16%), or a family history of premature CHD (12%).
 Patients had a median baseline LDL‑C of 108 mg/dL and hsCRP of 4.3 mg/L.
-Patients were randomly assigned to placebo (n=8901) or CRESTOR 20 mg once daily (n=8901) and were followed for a mean duration of 2 years.
+Patients were randomly assigned to placebo (n=8,901) or CRESTOR 20 mg once daily (n=8,901) and were followed for a mean duration of 2 years.
 The JUPITER study was stopped early by the Data Safety Monitoring Board due to meeting predefined stopping rules for efficacy in CRESTOR-treated subjects.
 
 The primary end point was a composite end point consisting of the time-to-first occurrence of any of the following major CV events: CV death, nonfatal myocardial infarction, nonfatal stroke, hospitalization for unstable angina or an arterial revascularization procedure.
@@ -16,7 +16,7 @@ The risk reduction for the primary end point was consistent across the following
 Figure 1.
 Time to First Occurrence of Major CV Events in JUPITER
 
-The individual components of the primary end point are presented in Figure 3.
+The individual components of the primary end point are presented in Figure 2.
 CRESTOR significantly reduced the risk of nonfatal myocardial infarction, nonfatal stroke, and arterial revascularization procedures.
 There were no significant treatment differences between the CRESTOR and placebo groups for death due to CV causes or hospitalizations for unstable angina.
 
@@ -31,9 +31,9 @@ At one year, CRESTOR increased HDL‑C and reduced LDL‑C, hsCRP, total cholest
 
 Primary Hypercholesterolemia in Adults
 
-CRESTOR reduces Total‑C, LDL‑C, ApoB, non‑HDL‑C, and TG, and increases HDL‑C, in adult patients with Hypercholesterolemia and mixed dyslipidemia.
+CRESTOR reduces Total‑C, LDL‑C, ApoB, non‑HDL‑C, and TG, and increases HDL‑C, in adult patients with hypercholesterolemia and mixed dyslipidemia.
 
-In a multicenter, double‑blind, placebo‑controlled study in patients with Hypercholesterolemia, CRESTOR given as a single daily dose (5 to 40 mg) for 6 weeks significantly reduced Total‑C, LDL‑C, non‑HDL‑C, and ApoB, across the dose range (Table 10).
+In a multicenter, double‑blind, placebo‑controlled study in patients with hypercholesterolemia, CRESTOR given as a single daily dose (5 to 40 mg) for 6 weeks significantly reduced Total‑C, LDL‑C, non‑HDL‑C, and ApoB, across the dose range (Table 10).
 
 Table 10: Lipid-Modifying Effect of CRESTOR in Adult Patients with Hypercholesterolemia (Adjusted Mean % Change from Baseline at Week 6)
 
@@ -45,14 +45,14 @@ Table 10: Lipid-Modifying Effect of CRESTOR in Adult Patients with Hypercholeste
 | CRESTOR 20 mg | 17 | -40 | -55 | -51 | -46 | -23 | 8 |
 | CRESTOR 40 mg | 18 | -46 | -63 | -60 | -54 | -28 | 10 |
 
-CRESTOR was compared with the statins (atorvastatin, simvastatin, and pravastatin) in a multicenter, open-label, dose‑ranging study of 2,240 patients with Hypercholesterolemia or mixed dyslipidemia.
+CRESTOR was compared with the statins (atorvastatin, simvastatin, and pravastatin) in a multicenter, open-label, dose‑ranging study of 2,240 patients with hypercholesterolemia or mixed dyslipidemia.
 After randomization, patients were treated for 6 weeks with a single daily dose of either CRESTOR, atorvastatin, simvastatin, or pravastatin (see Figure 3 and Table 11).
 
 Figure 3.
 Percent LDL‑C Change by Dose of CRESTOR, Atorvastatin, Simvastatin, and Pravastatin at Week 6 in Adult Patients with Hypercholesterolemia or Mixed Dyslipidemia
 
 Box plots are a representation of the 25th, 50th, and 75th percentile values, with whiskers representing the 10th and 90th percentile values.
-Mean baseline LDL‑C: 189 mg/dL.
+Mean baseline LDL‑C: 189 mg/dL
 
 Table 11: Percent Change in LDL-C by Dose of CRESTOR, Atorvastatin, Simvastatin, and Pravastatin From Baseline to Week 6 (LS MeanCorresponding standard errors are approximately 1.00.) in Adult Patients with Hypercholesterolemia or Mixed Dyslipidemia (Sample Sizes Ranging from 156–167 Patients Per Group)
 
@@ -153,10 +153,10 @@ Table 14: Lipid-Modifying Effects of CRESTOR in Pediatric Patients 7 to 15 years
 
 Primary Dysbetalipoproteinemia in Adults
 
-In a randomized, multicenter, double-blind crossover-study, 32 adult patients (27 with є2/є2 and 4 with apo E mutation [Arg145Cys] with primary dysbetalipoproteinemia entered a 6‑week dietary lead-in period on the NCEP Therapeutic Lifestyle Change (TLC) diet.
+In a randomized, multicenter, double-blind cross-over study, 32 adult patients [27 with є2/є2 and 4 with apo E mutation (Arg145Cys)] with primary dysbetalipoproteinemia entered a 6‑week dietary lead-in period on the NCEP Therapeutic Lifestyle Change (TLC) diet.
 Following dietary lead-in, patients were randomized to a sequence of treatments for 6 weeks each: rosuvastatin 10 mg followed by rosuvastatin 20 mg or rosuvastatin 20 mg followed by rosuvastatin 10 mg.
 CRESTOR reduced non-HDL‑C (primary end point) and circulating remnant lipoprotein levels.
-Results are shown in the table below.
+Results are shown in Table 15, below.
 
 Table 15: Lipid-Modifying Effects of CRESTOR 10 mg and 20 mg in Adult Patients with Primary Dysbetalipoproteinemia (Type III hyperlipoproteinemia) After Six Weeks by Median Percent Change (95% CI) from Baseline (N=32)
 
@@ -173,7 +173,7 @@ Table 15: Lipid-Modifying Effects of CRESTOR 10 mg and 20 mg in Adult Patients w
 
 Hypertriglyceridemia in Adults
 
-In a double-blind, placebo-controlled study in adult patients with baseline TG levels from 273 to 817 mg/dL, CRESTOR given as a single daily dose (5 to 40 mg) over 6 weeks significantly reduced serum TG levels (Table 16).
+In a double-blind, placebo-controlled study in adult patients with baseline TG levels from 273 to 817 mg/dL, CRESTOR given as a single daily dose (5 to 40 mg) over 6 weeks significantly reduced serum TG levels (see Table 16).
 
 Table 16: Lipid-Modifying Effect of CRESTOR in Adult Patients with Primary Hypertriglyceridemia After Six Weeks by Median (Min, Max) Percent Change from Baseline to Week 6
 

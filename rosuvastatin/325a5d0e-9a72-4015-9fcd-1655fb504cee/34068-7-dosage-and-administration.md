@@ -49,6 +49,7 @@ Table 1: CRESTOR Dosage Modifications Due to Drug Interactions
 | Belumosudil | Do not exceed 5 mg once daily. |
 | Cyclosporine | Do not exceed 5 mg once daily. |
 | Darolutamide | Do not exceed 5 mg once daily. |
+| Vadadustat | Do not exceed 5 mg once daily. |
 | Additional Antiviral Medications |  |
 | ∘Simeprevir∘Dasabuvir/ombitasvir/paritaprevir/ritonavir∘Elbasvir/Grazoprevir∘Sofosbuvir/Velpatasvir∘Glecaprevir/Pibrentasvir∘Atazanavir/Ritonavir ∘Lopinavir/Ritonavir | Initiate at 5 mg once daily. Do not exceed 10 mg once daily. |
 | Capmatinib | Do not exceed 10 mg once daily. |
@@ -56,6 +57,6 @@ Table 1: CRESTOR Dosage Modifications Due to Drug Interactions
 | Momelotinib | Do not exceed 10 mg once daily. |
 | Regorafenib | Do not exceed 10 mg once daily. |
 | Teriflunomide | Do not exceed 10 mg once daily. |
-| Ticagrelor | Do not exceed 20 mg once daily. In patients at increased risk for rhabdomyolysis [see Warnings and Precautions (5.1)], consider dosages less than 20 mg per day. |
+| Ticagrelor | Do not exceed 20 mg once daily. In patients at increased risk for rhabdomyolysis, consider dosages less than 20 mg per day. |
 | Febuxostat | Do not exceed 20 mg once daily. |
 | Fostamatinib | Do not exceed 20 mg once daily. |

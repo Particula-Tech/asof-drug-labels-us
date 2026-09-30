@@ -56,7 +56,7 @@ Adverse reactions reported in ≥2% of patients and at a rate greater than place
 
 Table 4: Adverse Reactions Reported in ≥2% of Patients Treated with CRESTOR and > Placebo in the JUPITER Trial
 
-| Adverse Reactions | PlaceboN=8901% | CRESTOR 20 mgN=8901% |
+| Adverse Reactions | PlaceboN=8,901% | CRESTOR 20 mgN=8,901% |
 | --- | --- | --- |
 | Myalgia | 6.6 | 7.6 |
 | Arthralgia | 3.2 | 3.8 |
