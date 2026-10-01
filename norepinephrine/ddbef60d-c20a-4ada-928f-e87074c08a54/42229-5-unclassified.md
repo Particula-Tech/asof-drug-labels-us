@@ -6,4 +6,5 @@ Paramus, NJ 07652
 
 Made in Switzerland
 
-Patents: www.wgcriticalcare.com/injectable-pharmaceuticals/about-us/patents/
+Patented.
+See www.wgcriticalcare.com/patents
