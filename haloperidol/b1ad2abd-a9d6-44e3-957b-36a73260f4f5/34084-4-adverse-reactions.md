@@ -4,18 +4,18 @@ To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- WARNINGS, Increased mortality in Elderly Patients with Dementia-Related Psychosis
-- WARNINGS, Cardiovascular Effects
-- WARNINGS, Tardive Dyskinesia
-- WARNINGS, Neuroleptic Malignant Syndrome
-- WARNINGS, Hypersensitivity Reactions
-- WARNINGS, Falls
-- WARNINGS, Usage in Pregnancy
-- WARNINGS, Combined Use of Haloperidol injection and Lithium
-- WARNINGS, General
-- PRECAUTIONS, Leukopenia, Neutropenia, and Agranulocytosis
-- PRECAUTIONS, Withdrawal Emergent Dyskinesia
-- PRECAUTIONS, Other
+- •WARNINGS, Increased mortality in Elderly Patients with Dementia-Related Psychosis
+- •WARNINGS, Cardiovascular Effects
+- •WARNINGS, Tardive Dyskinesia
+- •WARNINGS, Neuroleptic Malignant Syndrome
+- •WARNINGS, Hypersensitivity Reactions
+- •WARNINGS, Falls
+- •WARNINGS, Usage in Pregnancy
+- •WARNINGS, Combined Use of Haloperidol injection and Lithium
+- •WARNINGS, General
+- •PRECAUTIONS, Leukopenia, Neutropenia, and Agranulocytosis
+- •PRECAUTIONS, Withdrawal Emergent Dyskinesia
+- •PRECAUTIONS, Other
 
 ## Clinical Trials Experience
 
@@ -23,8 +23,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The data described below reflect exposure to haloperidol in the following:
 
-- 284 patients who participated in 3 double-blind, placebo-controlled clinical trials with haloperidol (oral formulation, 2 to 20 mg/day); two trials were in the treatment of schizophrenia and one in the treatment of bipolar disorder.
-- 1295 patients who participated in 16 double-blind, active comparator-controlled clinical trials with haloperidol (injection or oral formulation, 1 to 45 mg/day) in the treatment of schizophrenia.
+- •284 patients who participated in 3 double-blind, placebo-controlled clinical trials with haloperidol (oral formulation, 2 to 20 mg/day); two trials were in the treatment of schizophrenia and one in the treatment of bipolar disorder.
+- •1295 patients who participated in 16 double-blind, active comparator-controlled clinical trials with haloperidol (injection or oral formulation, 1 to 45 mg/day) in the treatment of schizophrenia.
 
 Based on the pooled safety data, the most common adverse reactions in haloperidol-treated patients from these double-blind placebo-controlled clinical trials (≥5%) were: extrapyramidal disorder, hyperkinesia, tremor, hypertonia, dystonia, and somnolence.
 
@@ -80,10 +80,10 @@ Vascular Disorders: Hypotension, Orthostatic hypotension
 The adverse reactions listed below were identified in clinical trials with haloperidol decanoate (long-acting depot formulation), and reflect exposure to the active moiety haloperidol in 410 patients who participated in 13 clinical trials with haloperidol decanoate (15 to 500 mg/month) in the treatment of schizophrenia or schizoaffective disorder.
 These clinical trials comprised:
 
-- 1 double-blind, active comparator-controlled trial with fluphenazine decanoate.
-- 2 trials comparing the decanoate formulation to oral haloperidol.
-- 9 open-label trials.
-- 1 dose-response trial.
+- •1 double-blind, active comparator-controlled trial with fluphenazine decanoate.
+- •2 trials comparing the decanoate formulation to oral haloperidol.
+- •9 open-label trials.
+- •1 dose-response trial.
 
 Nervous System Disorders: Akinesia, Cogwheel rigidity, Masked facies.
 

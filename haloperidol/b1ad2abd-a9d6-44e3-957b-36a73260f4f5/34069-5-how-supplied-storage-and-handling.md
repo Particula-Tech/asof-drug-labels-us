@@ -7,7 +7,7 @@ Haloperidol Injection, USP is supplied as follows:
 | 437401 | NDC 63323-474-01 Unit of 25 | 5 mg per mL, 1 mL fill, in a 2 mL vial. | NDC 63323-474-00 1 mL Single Dose Vial |
 | 437410 | NDC 63323-474-10 Individually packaged | 50 mg per 10 mL (5 mg per mL) | 10 mL Multiple Dose Vial |
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
 Do not freeze.
 
 PROTECT FROM LIGHT.
@@ -16,4 +16,4 @@ The container closure is not made with natural rubber latex.
 
 Lake Zurich, IL 60047 www.fresenius-kabi.com/us
 
-45850N Revised: October 2021
+45850P Revised: June 2026

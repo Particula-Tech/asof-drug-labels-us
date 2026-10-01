@@ -137,13 +137,13 @@ It is not known whether gradual withdrawal of antipsychotic drugs will reduce th
 
 Haloperidol injection should be administered cautiously to patients:
 
-- with severe cardiovascular disorders, because of the possibility of transient hypotension and/or precipitation of anginal pain.
+- •with severe cardiovascular disorders, because of the possibility of transient hypotension and/or precipitation of anginal pain.
   Should hypotension occur and a vasopressor be required, epinephrine must not be used since haloperidol may block its vasopressor activity and paradoxical further lowering of the blood pressure may occur.
   Instead, metaraminol, phenylephrine or norepinephrine should be used.
-- receiving anticonvulsant medications, with a history of seizures, or with EEG abnormalities, because haloperidol may lower the convulsive threshold.
+- •receiving anticonvulsant medications, with a history of seizures, or with EEG abnormalities, because haloperidol may lower the convulsive threshold.
   If indicated, adequate anticonvulsant therapy should be concomitantly maintained.
-- with known allergies, or with a history of allergic reactions to drugs.
-- receiving anticoagulants, since an isolated instance of interference occurred with the effects of one anticoagulant (phenindione).
+- •with known allergies, or with a history of allergic reactions to drugs.
+- •receiving anticoagulants, since an isolated instance of interference occurred with the effects of one anticoagulant (phenindione).
 
 When haloperidol is used to control mania in cyclic disorders, there may be a rapid mood swing to depression.
 
@@ -181,10 +181,10 @@ The effect of CYP3A4 inhibition and of decreased CYP2D6 enzyme activity may be a
 The haloperidol plasma concentrations increased when a CYP3A4 and/or CYP2D6 inhibitor was coadministered with haloperidol.
 Examples include:
 
-- CYP3A4 inhibitors – alprazolam; itraconazole, ketoconazole, nefazodone, ritonavir.
-- CYP2D6 inhibitors – chlorpromazine; promethazine; quinidine; paroxetine, sertraline, venlafaxine.
-- Combined CYP3A4 and CYP2D6 inhibitors – fluoxetine, fluvoxamine; ritonavir.
-- Buspirone.
+- •CYP3A4 inhibitors – alprazolam; itraconazole, ketoconazole, nefazodone, ritonavir.
+- •CYP2D6 inhibitors – chlorpromazine; promethazine; quinidine; paroxetine, sertraline, venlafaxine.
+- •Combined CYP3A4 and CYP2D6 inhibitors – fluoxetine, fluvoxamine; ritonavir.
+- •Buspirone.
 
 Increased haloperidol plasma concentrations may result in an increased risk of adverse events, including QTc interval prolongation (see WARNINGS – Cardiovascular Effects).
 Increases in QTc have been observed when haloperidol was given with a combination of the metabolic inhibitors ketoconazole (400 mg/day) and paroxetine (20 mg/day).
@@ -236,7 +236,7 @@ Antipsychotic drugs elevate prolactin levels; the elevation persists during chro
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with a previously detected breast cancer.
 Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported, the clinical significance of elevated serum prolactin levels is unknown for most patients.
 An increase in mammary neoplasms has been found in rodents after chronic administration of antipsychotic drugs.
-Neither clinical studies nor epidemiologic studies conducted to date, however, have shown an association between chronic administration of these drugs and mammary tumorigenesis; the available evidence is considered too limited to be conclusive at this time.
+Published epidemiologic studies have shown inconsistent results when exploring the association between hyperprolactinemia and breast cancer.
 
 There are no well controlled studies with haloperidol injection in pregnant women.
 There are reports, however, of cases of limb malformations observed following maternal use of haloperidol along with other drugs which have suspected teratogenic potential during the first trimester of pregnancy.
