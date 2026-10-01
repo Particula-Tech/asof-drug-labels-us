@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA021802"
+  ],
+  "inn": "dexmethylphenidate",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-2727-31",
+    "0781-2728-31",
+    "0781-2729-31",
+    "0781-2730-31",
+    "0781-2731-31",
+    "0781-2732-31",
+    "0781-2733-31",
+    "0781-2734-31"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "dexmethylphenidate hydrochloride",
+      "name": "Dexmethylphenidate Hydrochloride"
+    }
+  ],
+  "setid": "71f56227-d87a-4bc0-a879-c1993c6ccba6",
+  "source": "dailymed"
+}
