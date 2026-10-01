@@ -41,7 +41,7 @@ Patients should use the lowest dose and shortest duration of PPI therapy appropr
 Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to the established treatment guidelines [see Dosage and Administration (2.2) and Adverse Reactions (6.2)].
+Patients at risk for osteoporosis-related fractures should be managed according to the established treatment guidelines [see (2.2) and Adverse Reactions (6.2)].
 
 ## 5.6 Severe Cutaneous Adverse Reactions
 

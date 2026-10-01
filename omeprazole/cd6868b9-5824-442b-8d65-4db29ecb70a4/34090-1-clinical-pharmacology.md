@@ -98,7 +98,7 @@ The percent changes in Cmax and AUC between steady-state (Day 7) and single dose
 
 When ZEGERID for oral suspension 40 mg was administered in a two-dose loading regimen, the omeprazole AUC(0-inf) (ng•hr/mL) was 1665 after Dose 1 and 3356 after Dose 2, while Tmax was approximately 30 minutes for both Dose 1 and Dose 2.
 
-When ZEGERID for oral suspension 40 mg or ZEGERID capsule 40 mg is administered one hour after a meal, the omeprazole AUC is reduced by approximately 27% and 22%, respectively, relative to administration one hour prior to a meal [see Dosage and Administration (2.3)].
+When ZEGERID for oral suspension 40 mg or ZEGERID capsule 40 mg is administered one hour after a meal, the omeprazole AUC is reduced by approximately 27% and 22%, respectively, relative to administration one hour prior to a meal [see (2.3)].
 
 Distribution
 

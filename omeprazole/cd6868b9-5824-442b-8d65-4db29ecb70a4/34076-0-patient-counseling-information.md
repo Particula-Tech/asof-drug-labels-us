@@ -49,20 +49,21 @@ Advise patients to report to their healthcare provider if they start treatment w
 Administration
 
 - Instruct patients not to substitute:
-  - oTwo packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
-  - oTwo 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.
-  - •Two packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
-  - •Two 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.
-  - •Two packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
-  - •Two 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.
-- •Two packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
-- •Two 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.
-- •Two packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
-- •Two 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.
 
 - 
   - oTwo packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
   - oTwo 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.
+  - oTwo packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
+  - oTwo 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.
+  - oTwo packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
+  - oTwo 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.
+- •Two packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
+- •Two 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.
+- •Two packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
+- •Two 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.
+- 
+  1. oTwo packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
+  2. oTwo 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.
 - •Two packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
 - •Two 20 mg ZEGERID capsules with one 40 mg ZEGERID capsule.
 - •Two packets of 20 mg ZEGERID for oral suspension with one packet of 40 mg ZEGERID for oral suspension.
@@ -72,12 +73,12 @@ Administration of ZEGERID Capsules
 
 - •Instruct patients to swallow ZEGERID capsules intact with water.
   Do not open the capsule and do not administer with liquids other than water.
-- •Instruct patients to take ZEGERID capsules on an empty stomach at least one hour before a meal [see Dosage and Administration (2.3)].
+- •Instruct patients to take ZEGERID capsules on an empty stomach at least one hour before a meal [see (2.3)].
 
 Administration of ZEGERID for Oral Suspension
 
 - •Advise patients that ZEGERID for oral suspension is intended to be mixed with water and administered orally or via a nasogastric (NG)/orogastric (OG) tube, as described in the Medication Guide.
-- •Instruct patients to suspend enteral feeding approximately 3 hours before and 1 hour after administration of ZEGERID for oral suspension [see Dosage and Administration (2.3)].
+- •Instruct patients to suspend enteral feeding approximately 3 hours before and 1 hour after administration of ZEGERID for oral suspension [see (2.3)].
 
 Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA ZEGERID is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
 Any other product/brand names are trademarks of the respective owners. © 2023 Salix Pharmaceuticals, Inc. or its affiliates 9658604
