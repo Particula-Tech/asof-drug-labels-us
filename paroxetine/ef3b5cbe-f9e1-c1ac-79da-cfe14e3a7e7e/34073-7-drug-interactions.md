@@ -4,33 +4,28 @@ Table 9 presents clinically significant drug interactions with PAXIL.
 
 Table 9: Clinically Significant Drug Interactions with PAXIL
 
-| Monoamine Oxidase Inhibitors (MAOIs) |  |
+| Monoamine Oxidase Inhibitors |  |
 | --- | --- |
-| Clinical Impact | The concomitant use of SSRIs, including PAXIL, and MAOIs increases the risk of serotonin syndrome. |
-| Intervention | PAXIL is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue [see Dosage and Administration (2.5), Contraindications (4), Warnings and Precautions (5.2)]. |
-| Examples | selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue |
-| Pimozide and Thioridazine |  |
-| Clinical Impact | Increased plasma concentrations of pimozide and thioridazine, drugs with a narrow therapeutic index, may increase the risk of QTc prolongation and ventricular arrhythmias. |
-| Intervention | PAXIL is contraindicated in patients taking pimozide or thioridazine [see Contraindications (4)]. |
+| Mechanism and Clinical Effect(s) | The concomitant use of SSRIs, including PAXIL and monoamine oxidase inhibitors (MAOIs) increases the risk of serotonin syndrome. |
+| Prevention or Management | PAXIL is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue [see Dosage and Administration (2.5) and Warnings and Precautions (5.2)]. |
+| CYP2D6 Substrates that Prolong the QTc Interval |  |
+| Mechanism and Clinical Effect(s) | PAXIL is a strong CYP2D6 inhibitor. Concomitant use of PAXIL with CYP2D6 substrates that prolong the QTc interval can increase the concentration of those CYP2D6 substrates and may result in a greater increase in the QTc interval and adverse reactions associated with QTc interval prolongation [see Warnings and Precautions (5.3)]. |
+| Prevention or Management | PAXIL is contraindicated in patients taking drugs that can prolong QTc interval and are CYP2D6 substrates. |
 | Other Serotonergic Drugs |  |
-| Clinical Impact | The concomitant use of serotonergic drugs with PAXIL increases the risk of serotonin syndrome. |
-| Intervention | Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases. If serotonin syndrome occurs, consider discontinuation of PAXIL and/or concomitant serotonergic drugs [see Warnings and Precautions (5.2)]. |
-| Examples | other SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort. |
-| Drugs that Interfere with Hemostasis (antiplatelet agents and anticoagulants) |  |
-| Clinical Impact | The concurrent use of an antiplatelet agent or anticoagulant with PAXIL may potentiate the risk of bleeding. |
-| Intervention | Inform patients of the increased risk of bleeding associated with the concomitant use of PAXIL and antiplatelet agents and anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio [see Warnings and Precautions (5.5)]. |
-| Examples | aspirin, clopidogrel, heparin, warfarin |
+| Mechanism and Clinical Effect(s) | The concomitant use of PAXIL with serotonergic drugs increases the risk of serotonin syndrome. |
+| Prevention or Management | Monitor patients for signs and symptoms of serotonin syndrome with concomitant use of PAXIL and other serotonergic drugs. If serotonin syndrome occurs, immediately discontinue treatment with PAXIL and/or concomitant serotonergic drugs [see Warnings and Precautions (5.2)]. |
+| Drugs that Interfere with Hemostasis (antiplatelet drugs and anticoagulants) |  |
+| Mechanism and Clinical Effect(s) | The concomitant use of an antiplatelet drug or anticoagulant with PAXIL may potentiate the risk of bleeding. |
+| Prevention or Management | Inform patients of the increased risk of bleeding associated with the concomitant use of PAXIL and antiplatelet drugs or anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio when initiating, titrating, or discontinuing PAXIL [see Warnings and Precautions (5.5)]. |
 | Drugs Highly Bound to Plasma Protein |  |
-| Clinical Impact | PAXIL is highly bound to plasma protein. The concomitant use of PAXIL with another drug that is highly bound to plasma protein may increase free concentrations of PAXIL or other tightly-bound drugs in plasma. |
-| Intervention | Monitor for adverse reactions and reduce dosage of PAXIL or other protein-bound drugs as warranted. |
-| Examples | warfarin |
-| Drugs Metabolized by CYP2D6 |  |
-| Clinical Impact | PAXIL is a CYP2D6 inhibitor [see Clinical Pharmacology (12.3)]. The concomitant use of PAXIL with a CYP2D6 substrate may increase the exposure of the CYP2D6 substrate. |
-| Intervention | Decrease the dosage of a CYP2D6 substrate if needed with concomitant PAXIL use. Conversely, an increase in dosage of a CYP2D6 substrate may be needed if PAXIL is discontinued. |
-| Examples | propafenone, flecainide, atomoxetine, desipramine, dextromethorphan, metoprolol, nebivolol, perphenazine, tolterodine, venlafaxine, risperidone. |
+| Mechanism and Clinical Effect(s) | Paroxetine is highly bound to plasma protein. The concomitant use of PAXIL with another drug that is highly bound to plasma protein may increase free concentrations of paroxetine or other tightly-bound drugs in plasma. |
+| Prevention or Management | Monitor for adverse reactions and reduce dosage of PAXIL or other protein-bound drugs as warranted. |
+| CYP2D6 Substrates |  |
+| Mechanism and Clinical Effect(s) | PAXIL is a strong CYP2D6 inhibitor [see Clinical Pharmacology (12.3)]. The concomitant use of PAXIL with a CYP2D6 substrate may increasethe exposure of the CYP2D6 substrate and increase the risk of CYP2D6 substrate-associated adverse reactions. |
+| Prevention or Management | With concomitant use with PAXIL, decrease the dosage of a CYP2D6 substrate if needed. |
 | Tamoxifen |  |
-| Clinical Impact | Concomitant use of tamoxifen with PAXIL may lead to reduced plasma concentrations of the active metabolite (endoxifen) and reduced efficacy of tamoxifen |
-| Intervention | Consider use of an alternative antidepressant with little or no CYP2D6 inhibition [see Warnings and Precautions (5.11)]. |
+| Mechanism and Clinical Effect(s) | Concomitant use of tamoxifen with PAXIL may lead to reduced plasma concentrations of the active metabolite of tamoxifen (i.e., endoxifen) and reduced efficacy of tamoxifen |
+| Prevention or Management | Consider use of an alternative antidepressant with little or no CYP2D6 inhibition [see Warnings and Precautions (5.11)]. |
 | Fosamprenavir/Ritonavir |  |
-| Clinical Impact | Co-administration of fosamprenavir/ritonavir with PAXIL significantly decreased plasma levels of PAXIL. |
-| Intervention | Any dose adjustment should be guided by clinical effect (tolerability and efficacy). |
+| Mechanism and Clinical Effect(s) | Concomitant use of fosamprenavir/ritonavir with PAXIL significantly decreased plasma levels of paroxetine. |
+| Prevention or Management | Any PAXIL dosage modification should be guided by clinical effect (tolerability and efficacy). |

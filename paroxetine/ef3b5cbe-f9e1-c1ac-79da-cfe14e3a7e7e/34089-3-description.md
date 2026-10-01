@@ -9,16 +9,15 @@ Paroxetine hydrochloride is an odorless, off‑white powder, having a melting po
 
 PAXIL Tablets
 
-PAXIL tablets are for oral administration.
-Each film‑coated tablet contains 10 mg, 20 mg, 30 mg, or 40 mg of paroxetine equivalent to 11.1 mg, 22.2 mg, 33.3 mg or 44.4 mg of paroxetine hydrochloride, respectively.
+PAXIL (paroxetine) tablets are for oral administration.
+Each tablet contains 10 mg, 20 mg, 30 mg, or 40 mg of paroxetine equivalent to 11.1 mg, 22.2 mg, 33.3 mg or 44.4 mg of paroxetine hydrochloride, respectively.
 
 Inactive ingredients consist of dibasic calcium phosphate dihydrate, hypromellose, magnesium stearate, polyethylene glycols, polysorbate 80, sodium starch glycolate, titanium dioxide, and 1 or more of the following: D&C Red No. 30 aluminum lake, D&C Yellow No. 10 aluminum lake, FD&C Blue No. 2 aluminum lake, FD&C Yellow No. 6 aluminum lake.
 
 PAXIL Oral Suspension
 
-PAXIL oral suspension is for oral administration.
+PAXIL (paroxetine) oral suspension is for oral administration.
 Each 5 mL contains 10 mg of paroxetine equivalent to 11.1 mg of paroxetine hydrochloride.
-
 The oral suspension is not currently marketed.
 
 Inactive ingredients consist of citric acid (anhydrous), FD&C yellow No. 6, flavorings, glycerin, methylparaben, microcrystalline cellulose and carboxymethylcellulose sodium, polacrilin potassium, propylene glycol, propylparaben, purified water, saccharin sodium, simethicone emulsion and sodium citrate (dihydrate).

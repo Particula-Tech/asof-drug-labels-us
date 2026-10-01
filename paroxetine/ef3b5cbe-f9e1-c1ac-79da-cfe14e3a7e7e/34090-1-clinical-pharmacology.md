@@ -2,34 +2,36 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of PAXIL in the treatment of MDD, SAD, OCD, PD, GAD, and PTSD is unknown, but is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5‑hydroxy‑tryptamine, 5‑HT).
+The mechanism of action of PAXIL in the treatment of major depressive disorder (MDD), social anxiety disorder (SAD), obsessive compulsive disorder (OCD), panic disorder (PD), generalized anxiety disorder (GAD) and post-traumatic stress disorder (PTSD) is unknown, but is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5‑hydroxy‑tryptamine, 5‑HT).
 
 ## 12.2 Pharmacodynamics
 
-Studies at clinically relevant doses in humans have demonstrated that paroxetine blocks the uptake of serotonin into human platelets.
+Studies at clinically relevant paroxetine dosage in humans have demonstrated that paroxetine blocks the uptake of serotonin into human platelets.
 In vitro studies in animals also suggest that paroxetine is a potent and highly selective inhibitor of neuronal serotonin reuptake (SSRI) and has only very weak effects on norepinephrine and dopamine neuronal reuptake.
+
+Cardiac Electrophysiology
+
+At the maximum recommended paroxetine dose, a mean increase in the QTc interval >20 milliseconds is unlikely.
 
 ## 12.3 Pharmacokinetics
 
-Nonlinearity in pharmacokinetics is observed with increasing doses of PAXIL.
+Nonlinearity in pharmacokinetics was observed with increasing dosage of PAXIL.
 
-In a meta-analysis of paroxetine from 4 studies done in healthy volunteers following multiple dosing of 20 mg/day to 40 mg/day, males did not exhibit a significantly lower Cmax or AUC than females.
+In a meta-analysis of paroxetine from 4 studies done in healthy volunteers following multiple PAXIL dosing of 20 mg/day to 40 mg/day, males did not exhibit a significantly lower Cmax or AUC than females.
 
 Absorption
 
-Paroxetine hydrochloride is completely absorbed after oral dosing of a solution of the hydrochloride salt.
-In a study in which normal male subjects (n = 15) received 30 mg tablets daily for 30 days, steady‑state paroxetine concentrations were achieved by approximately 10 days for most subjects, although it may take substantially longer in an occasional patient.
-At steady state, mean values of Cmax, Tmax, Cmin, and T½ were 61.7 ng/mL (CV 45%), 5.2 hr. (CV 10%), 30.7 ng/mL (CV 67%), and 21 hours (CV 32%), respectively.
+Paroxetine was completely absorbed after oral dosing of a paroxetine solution of the hydrochloride salt.
+In a study in which healthy male subjects (n = 15) received 30 mg PAXIL tablets daily for 30 days, steady‑state paroxetine concentrations were achieved by approximately 10 days for most subjects, although it took substantially longer in some subjects.
+At steady state, mean values of Cmax, Tmax, Cmin, and T½ were 61.7 ng/mL (CV 45%), 5.2 hours (CV 10%), 30.7 ng/mL (CV 67%), and 21 hours (CV 32%), respectively.
 The steady‑state Cmax and Cmin values were about 6 and 14 times what would be predicted from single‑dose studies.
 Steady‑state drug exposure based on AUC0-24 was about 8 times greater than would have been predicted from single-dose data in these subjects.
-The excess accumulation is a consequence of the fact that 1 of the enzymes that metabolizes paroxetine is readily saturable.
+The excess accumulation is a consequence of the fact that one of the enzymes that metabolizes paroxetine is readily saturable.
 
-Paroxetine is equally bioavailable from the oral suspension and tablet.
+Paroxetine has similar exposure after administration of the tablets and oral suspension.
 
-Effect of Food
-
-The effects of food on the bioavailability of paroxetine were studied in subjects administered a single dose with and without food.
-AUC was only slightly increased (6%) when drug was administered with food but the Cmax was 29% greater, while the time to reach peak plasma concentration decreased from 6.4 hours post‑dosing to 4.9 hours.
+Effect of Food: The effects of food on the bioavailability of paroxetine were studied in subjects who received a single PAXIL dose with and without food.
+AUC was slightly increased (6%) when PAXIL was administered with food but the Cmax was 29% greater, while the time to reach peak plasma concentration decreased from 6.4 hours post‑dosing to 4.9 hours [see Dosage and Administration (2.1)].
 
 Distribution
 
@@ -41,51 +43,50 @@ Paroxetine does not alter the in vitro protein binding of phenytoin or warfarin.
 
 Elimination
 
-Metabolism
+Metabolism: The mean elimination half-life is approximately 21 hours (CV 32%) after oral dosing of 30 mg PAXIL tablets daily for 30 days.
 
-The mean elimination half-life is approximately 21 hours (CV 32%) after oral dosing of 30 mg tablets daily for 30 days of PAXIL.
+In steady‑state dose proportionality studies involving elderly and nonelderly patients, at PAXIL doses of 20 mg to 40 mg daily for the elderly and 20 mg to 50 mg daily for the nonelderly, some nonlinearity was observed in both populations, again reflecting a saturable metabolic pathway.
+In comparison to Cmin values after 20 mg of PAXIL daily, values after 40 mg of PAXIL daily were only about 2 to 3 times greater than doubled.
 
-In steady‑state dose proportionality studies involving elderly and nonelderly patients, at doses of 20 mg to 40 mg daily for the elderly and 20 mg to 50 mg daily for the nonelderly, some nonlinearity was observed in both populations, again reflecting a saturable metabolic pathway.
-In comparison to Cmin values after 20 mg daily, values after 40 mg daily were only about 2 to 3 times greater than doubled.
-
-Paroxetine is extensively metabolized after oral administration.
+Paroxetine is extensively metabolized after oral PAXIL administration.
 The principal metabolites are polar and conjugated products of oxidation and methylation, which are readily cleared.
 Conjugates with glucuronic acid and sulfate predominate, and major metabolites have been isolated and identified.
 Data indicate that the metabolites have no more than 1/50 the potency of the parent compound at inhibiting serotonin uptake.
 The metabolism of paroxetine is accomplished in part by CYP2D6.
-Saturation of this enzyme at clinical doses appears to account for the nonlinearity of paroxetine kinetics with increasing dose and increasing duration of treatment.
-The role of this enzyme in paroxetine metabolism also suggests potential drug‑drug interactions [see Drug Interactions (7)].
-Pharmacokinetic behavior of paroxetine has not been evaluated in subjects who are deficient in CYP2D6 (poor metabolizers).
+Saturation of CYP2D6 at clinical doses appears to account for the nonlinearity of paroxetine kinetics with increasing dose and increasing duration of treatment.
+The role of CYP2D6 in paroxetine metabolism increases the risk of drug interactions [see Drug Interactions (7)].
+Pharmacokinetic characteristics of paroxetine has not been evaluated in subjects who are deficient in CYP2D6 (CYP2D6 poor metabolizers).
 
-Excretion
-
-Approximately 64% of a 30-mg oral solution dose of paroxetine was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10‑day post‑dosing period.
+Excretion: Approximately 64% of a 30-mg oral solution dose of paroxetine was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10‑day post‑dosing period.
 About 36% was excreted in the feces (probably via the bile), mostly as metabolites and less than 1% as the parent compound over the 10‑day post‑dosing period.
 
 Drug Interaction Studies
 
-There are clinically significant, known drug interactions between paroxetine and other drugs [see Drug Interactions (7)].
+There are clinically significant, known drug interactions between PAXIL and other drugs [see Drug Interactions (7)].
+See Figure 1 for the impact of paroxetine on the pharmacokinetics of concomitantly administered drugs and Figure 2 for the impact of other drugs on paroxetine pharmacokinetics.
 
 Figure 1.
 Impact of Paroxetine on the Pharmacokinetics of Co-Administered Drugs (log scale)
 
+Pimozide is a 3A4 moderate sensitive substrate and is a CYP2D6 substrate; desipramine is a 2D6 sensitive substrate; propranolol is a 2D6 moderate sensitive substrate, digoxin is P-gp substrate, and phenytoin is a 3A4 strong inhibitor.
+
 Figure 2.
-Impact of Co-Administered Drugs on the Pharmacokinetics of Paroxetine
+Impact of Concomitantly Administered Drugs on the Pharmacokinetics of Paroxetine
 
-Theophylline: Reports of elevated theophylline levels associated with PAXIL treatment have been reported.
-While this interaction has not been formally studied, it is recommended that theophylline levels be monitored when these drugs are concurrently administered.
+Cimetidine is a OCT2, MATE1, and MATE2-K inhibitor, phenobarbital is a 3A4 moderate inducer, phenytoin is a 3A4 strong inhibitor, digoxin is P-gp substrate, and diazepam is a 2C19 moderate sensitive substrate.
+The increased paroxetine exposure after concomitant use of PAXIL with cimetidine is not expected to be clinically significant.
 
-Drugs Metabolized by Cytochrome CYP3A4
+Theophylline: Reports of elevated theophylline levels associated with PAXIL treatment have been reported
 
-An in vivo interaction study involving the coadministration under steady-state conditions of paroxetine and terfenadine, a substrate for CYP3A4, revealed no effect of paroxetine on terfenadine pharmacokinetics.
-In addition, in vitro studies have shown ketoconazole, a potent inhibitor of CYP3A4 activity, to be at least 100 times more potent than paroxetine as an inhibitor of the metabolism of several substrates for this enzyme, including terfenadine, triazolam, and cyclosporine.
-Paroxetine’s extent of inhibition of CYP3A4 activity is not expected to be of clinical significance.
+Drugs Metabolized by Cytochrome CYP3A4: An in vivo interaction study involving the concomitant use of steady-state paroxetine and a substrate for CYP3A4, revealed no effect of paroxetine on pharmacokinetics of the CYP3A4 substrate.
+In addition, in vitro studies have shown ketoconazole, a severe CYP3A4 inhibitor activity, to be at least 100 times more potent than paroxetine as an inhibitor of the metabolism of several substrates for CYP3A4, including triazolam and cyclosporine.
+Paroxetine’s extent of CYP3A4 inhibition is not expected to be of clinical significance.
 
 Specific Populations
 
 The impact of specific populations on the pharmacokinetics of paroxetine are shown in Figure 3.
-
-The recommended starting dosage and maximum dosage of PAXIL is reduced in elderly patients, patients with severe renal impairment, and patients with severe hepatic impairment [see Dosage and Administration (2.4)].
+Although the AUC and Cmax was higher in patients with mild renal impairment (RI) or moderate RI compared to those without RI, there was a lot of variability in the exposure and the clinical significance of these findings are unknown [see Use in Specific Populations (8.6)].
+For recommendations for use of PAXIL in geriatric patients, patients with severe hepatic impairment, or severe hepatic impairment, see Use in Specific Populations (8.5, 8.6, and 8.7), respectively.
 
 Figure 3.
 Impact of Specific Population on the Pharmacokinetics of Paroxetine (log scale)
