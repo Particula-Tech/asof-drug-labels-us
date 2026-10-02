@@ -14,19 +14,19 @@ Accidental Ingestion
 
 Accidental ingestion of even one dose of hydrocodone bitartrate extended-release capsules, especially by children, can result in a fatal overdose of hydrocodone[see Warnings and Precautions (5.2)].
 
-Risks From Concomitant Use with Benzodiazepines or Other CNS Depressants
-
-Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
-Reserve concomitant prescribing of hydrocodone bitartrate extended-release capsules and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate[see Warnings and Precautions (5.3), Drug Interactions (7)].
-
 Interaction with Alcohol
 
 Instruct patients not to consume alcoholic beverages or use prescription or non-prescription products that contain alcohol while taking hydrocodone bitartrate extended-release capsules.
 The co-ingestion of alcohol with hydrocodone bitartrate extended-release capsules may result in increased plasma levels and a potentially fatal overdose of hydrocodone[see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
 
+Risks From Concomitant Use with Benzodiazepines or Other CNS Depressants
+
+Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
+Reserve concomitant prescribing of hydrocodone bitartrate extended-release capsules and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate[see Warnings and Precautions (5.3), Drug Interactions (7)].
+
 Neonatal Opioid Withdrawal Syndrome (NOWS)
 
-If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
+Advise pregnant women using opioids for an extended period of time of the risk of Neonatal Opioid Withdrawal Syndrome, which may be life-threatening if not recognized and treated.
 Ensure that management by neonatology experts will be available at delivery[see Warnings and Precautions (5.4)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
@@ -37,4 +37,4 @@ Cytochrome P450 3A4 Interaction
 
 The concomitant use of hydrocodone bitartrate extended-release capsules with all cytochrome P450 3A4 inhibitors may result in an increase in hydrocodone plasma concentrations, which could increase or prolong adverse drug effects and may cause potentially fatal respiratory depression.
 In addition, discontinuation of a concomitantly used cytochrome P450 3A4 inducer may result in an increase in hydrocodone plasma concentration.
-Monitor patients receiving hydrocodone bitartrate extended-release capsules and any CYP3A4 inhibitor or inducer[see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
+Regularly evaluate patients receiving hydrocodone bitartrate extended-release capsules and any CYP3A4 inhibitor or inducer[see Warnings and Precautions (5.6), Drug Interactions (7), and Clinical Pharmacology (12.3)].

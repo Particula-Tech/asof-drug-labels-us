@@ -27,7 +27,7 @@ Observe newborns for symptoms of neonatal opioid withdrawal syndrome, such as po
 Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist such as naloxone must be available for reversal of opioid induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Hydrocodone bitartrate extended-release capsules are not recommended for use in women during and immediately prior to labor, when shorter-acting analgesics or other analgesic techniques are more appropriate.
 Opioid analgesics, including hydrocodone bitartrate extended-release capsules, can prolong labor through actions which temporarily reduce the strength, duration and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.

@@ -30,7 +30,7 @@ Preoccupation with achieving adequate pain relief can be appropriate behavior in
 Hydrocodone bitartrate extended-release capsules, like other opioids, can be diverted for nonmedical use into illicit channels of distribution.
 Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
 
-Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
+Proper assessment of the patient, proper prescribing practices, periodic reevaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
 Risks Specific to Abuse of Hydrocodone Bitartrate Extended-Release Capsules
 
@@ -51,12 +51,12 @@ Tolerance is a physiological state characterized by a reduced response to a drug
 
 Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 
-Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
-Do not abruptly discontinue hydrocodone bitartrate extended-release capsules in a patient physically dependent on opioids.
-Rapid tapering of hydrocodone bitartrate extended-release capsules in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
-Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Do not rapidly reduce or abruptly discontinue hydrocodone bitartrate extended-release capsules in a patient physically dependent on opioids.
+Rapid reduction or abrupt discontinuation of hydrocodone bitartrate extended-release capsules in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid reduction or abrupt discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 
 When discontinuing hydrocodone bitartrate extended-release capsules, gradually taper the dosage using a patient-specific plan that considers the following: the dose of hydrocodone bitartrate extended-release capsules the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
 To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.

@@ -2,40 +2,34 @@
 
 ## 2.1 Important Dosage and Administration Information
 
-Hydrocodone bitartrate extended-release capsules should be prescribed only by healthcare professionals who are knowledgeable about the use of extended-release/long-acting opioids and how to mitigate the associated risks.
+- Hydrocodone bitartrate extended-release capsules should be prescribed only by healthcare professionals who are knowledgeable about the use of extended-release/long-acting opioids and how to mitigate the associated risks.
+- Daily doses of hydrocodone bitartrate extended-release capsules, a single dose of greater than 40 mg, or a total daily dose of greater than 80 mg, are only for use in patients in whom tolerance to an opioid of comparable potency has been established.
+  Patients who are opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
+- Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+  Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of hydrocodone bitartrate extended-release capsules for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
+- Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+- Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with hydrocodone bitartrate extended-release capsules.
+  Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5)].
+- Hydrocodone bitartrate extended-release capsules are administered orally twice daily (every 12 hours).
+- Instruct patients to swallow hydrocodone bitartrate extended-release capsules whole [see Patient Counseling Information (17)].
+  Crushing, chewing, or dissolving the beads in hydrocodone bitartrate extended-release capsules will result in uncontrolled delivery of hydrocodone and can lead to overdose or death [see Warnings and Precautions (5.1)].
 
-Daily doses of hydrocodone bitartrate extended-release capsules, a single dose of greater than 40 mg, or a total daily dose of greater than 80 mg, are only for use in patients in whom tolerance to an opioid of comparable potency has been established.
-Patients who are opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
+## 2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5)].
-Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of hydrocodone bitartrate extended-release capsules for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+The presence of risk factors for overdose should not prevent the management of pain in any patient [see Warnings and Precautions (5.1, 5.2, 5.3)].
 
-Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.2)].
 
-Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with hydrocodone bitartrate extended-release capsules.
-Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5)].
-
-Instruct patients to swallow hydrocodone bitartrate extended-release capsules whole [see Patient Counseling Information (17)].
-Crushing, chewing, or dissolving the beads in hydrocodone bitartrate extended-release capsules will result in uncontrolled delivery of hydrocodone and can lead to overdose or death [see Warnings and Precautions (5.1)].
-
-Hydrocodone bitartrate extended-release capsules are administered orally twice daily (every 12 hours).
-
-## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
-
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with hydrocodone bitartrate extended-release capsules [see Warnings and Precautions (5.2), Patient Counseling Information (17)].
-
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
-
-Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.2, 5.3)].
-
-Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
 ## 2.3 Initial Dosage
 
-Use of Hydrocodone Bitartrate Extended-Release Capsules as the First Opioid Analgesic (opioid-naïve patients)
-
-Initiate therapy with hydrocodone bitartrate extended-release capsules with one 10 mg capsule every 12 hours.
+It is safer to underestimate a patient’s 24-hour oral hydrocodone dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral hydrocodone dosage and manage an adverse reaction due to an overdose.
+While useful tables of opioid equivalents are readily available, there is inter-patient variability in the potency of opioid drugs and opioid formulations.
+Frequently reevaluate patients for signs and symptoms of opioid withdrawal and for signs of oversedation/toxicity after converting patients to hydrocodone bitartrate extended-release capsules.
 
 Use of Hydrocodone Bitartrate Extended-Release Capsules in Patients Who Are Not Opioid Tolerant
 
@@ -45,15 +39,14 @@ Use of higher starting doses in patients who are not opioid tolerant may cause f
 
 Conversion from Oral Hydrocodone Formulations to Hydrocodone Bitartrate Extended-Release Capsules
 
-Patients receiving other oral hydrocodone-containing formulations may be converted to hydrocodone bitartrate extended-release capsules by dividing the patient’s total daily oral hydrocodone dose in half and administrating as hydrocodone bitartrate extended-release capsules every 12 hours.
+Patients receiving other oral hydrocodone-containing formulations may be converted to hydrocodone bitartrate extended-release capsules by dividing the patient’s total daily oral hydrocodone dose in half and administering as hydrocodone bitartrate extended-release capsules every 12 hours.
 
-Conversion from Other Oral Opioids to Hydrocodone Bitartrate Extended-Release Capsules
+Conversion from Other Oral Opioid Analgesics to Hydrocodone Bitartrate Extended-Release Capsules
 
 When hydrocodone bitartrate extended-release capsules therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
 
 There is inter-patient variability in the relative potency of different opioid drugs and products.
 Therefore, a conservative approach is advised when determining the total daily dosage of hydrocodone bitartrate extended-release capsules.
-It is safer to underestimate a patient's 24-hour oral hydrocodone dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral hydrocodone dosage and manage an adverse reaction due to an overdose.
 
 In a hydrocodone bitartrate extended-release capsules clinical trial with an open label titration period, patients were converted from their prior opioid to hydrocodone bitartrate extended-release capsules using Table 1 as a guide for the initial hydrocodone bitartrate extended-release capsules dose.
 To obtain the initial hydrocodone bitartrate extended-release capsules dose, first use Table 1 to convert the prior oral opioids to a total hydrocodone daily dose and then reduce the calculated daily hydrocodone dose by 25% to account for interpatient variability in relative potency of different opioids.
@@ -110,11 +103,11 @@ Close monitoring is of particular importance when converting from methadone to o
 The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
 Methadone has a long half-life and tends to accumulate in the plasma.
 
-Conversion from Transdermal Fentanyl to Hydrocodone Bitartrate Extended-Release Capsules
+Conversion from Fentanyl Transdermal System to Hydrocodone Bitartrate Extended-Release Capsules
 
-Hydrocodone bitartrate extended-release capsules treatment can be initiated 18 hours following the removal of the transdermal fentanyl patch.
-Although there has been no systematic assessment of such conversion, a conservative hydrocodone dose, approximately 10 mg every 12 hours of hydrocodone bitartrate extended-release capsules, should be initially substituted for each 25 mcg/hr fentanyl transdermal patch.
-Follow the patient closely during conversion from transdermal fentanyl to hydrocodone bitartrate extended-release capsules, as there is limited documented experience with this conversion.
+Hydrocodone bitartrate extended-release capsules treatment can be initiated 18 hours following the removal of the fentanyl transdermal system.
+Although there has been no systematic assessment of such conversion, a conservative hydrocodone dose, approximately 10 mg every 12 hours of hydrocodone bitartrate extended-release capsules, should be initially substituted for each 25 mcg/hr fentanyl transdermal system.
+Follow the patient closely during conversion from fentanyl transdermal system to hydrocodone bitartrate extended-release capsules, as there is limited documented experience with this conversion.
 
 ## 2.4 Titration and Maintenance of Therapy
 
@@ -138,9 +131,9 @@ No adjustment in starting dose with hydrocodone bitartrate extended-release caps
 
 ## 2.6 Safe Reduction or Discontinuation of Hydrocodone Bitartrate Extended-Release Capsules
 
-Do not abruptly discontinue hydrocodone bitartrate extended-release capsules in patients who may be physically dependent on opioids.
-Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
-Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Do not rapidly reduce or abruptly discontinue hydrocodone bitartrate extended-release capsules in patients who may be physically dependent on opioids.
+Rapid reduction or abrupt discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid reduction or abrupt discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
 When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking hydrocodone bitartrate extended-release capsules, there are a variety of factors that should be considered, including the total daily dose of opioid (including hydrocodone bitartrate extended-release capsules) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
