@@ -2,29 +2,39 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of paroxetine in the treatment of major depressive disorder (MDD), panic disorder (PD), social anxiety disorder (SAD), and premenstrual dysphoric disorder (PMDD) is unknown, but is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5-HT).
+The mechanism of action of PAXIL CR in the treatment of major depressive disorder (MDD), panic disorder (PD), social anxiety disorder (SAD), and premenstrual dysphoric disorder (PMDD) is unknown, but is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5-HT).
 
 ## 12.2 Pharmacodynamics
 
-Studies at clinically relevant doses in humans have demonstrated that paroxetine blocks the uptake of serotonin into human platelets.
+Studies at clinically relevant paroxetine dosage in humans have demonstrated that paroxetine blocks the uptake of serotonin into human platelets.
 In vitro studies in animals also suggest that paroxetine is a potent and highly selective inhibitor of neuronal serotonin reuptake (SSRI) and has only very weak effects on norepinephrine and dopamine neuronal reuptake.
+
+Cardiac Electrophysiology
+
+At the maximum recommended paroxetine dose, a mean increase in the QTc interval >20 milliseconds is unlikely.
 
 ## 12.3 Pharmacokinetics
 
+During repeated administration of PAXIL CR (25 mg once daily), steady state was reached within 2 weeks (i.e., comparable to immediate‑release dosage forms).
+In a repeat‑dose study in which healthy male and female subjects (n = 23) received PAXIL CR (25 mg daily), mean steady state Cmax, Cmin, and AUC0-24 values were 30 ng/mL, 20 ng/mL, and 550 ng·hr./mL, respectively.
+
+Based on studies using immediate‑release paroxetine, steady‑state paroxetine exposure based on AUC0-24h was several‑fold greater than that of the single‑dose data.
+
+In steady‑state dose proportionality studies with elderly and nonelderly adult patients, at doses of the immediate‑release paroxetine of 20 mg to 40 mg daily for the elderly and 20 mg to 50 mg daily for the nonelderly, some nonlinearity was observed in both populations, reflecting a saturable metabolic pathway (Figure 3).
+
 Absorption
 
-Tablets of PAXIL CR contain a degradable polymeric matrix designed to control the dissolution rate of paroxetine over a period of approximately 4 to 5 hours.
-In addition to controlling the rate of drug release in vivo, an enteric coat delays the start of drug release until tablets of PAXIL CR have left the stomach.
+Following administration of single oral doses of PAXIL CR (i.e., 12.5 mg, 25 mg, 37.5 mg, or 50 mg) in healthy subjects, paroxetine Cmax and AUC0-inf increased disproportionately with dose (as seen also with immediate‑release dosage forms).
+Mean Cmax and AUC0-inf values at these doses were 2, 5.5, 9, and 12.5 ng/mL, and 121, 261, 338, and 540 ng·hr. /mL, respectively.
+Tmax was observed typically between 6- and-10 hours post‑dose, reflecting a reduction in absorption rate compared with immediate‑release dosage forms.
 
-Paroxetine extended-release tablets are completely absorbed after oral dosing of a solution of the hydrochloride salt.
-In a study in which normal male and female subjects (n = 23) received single oral doses of PAXIL CR at 4 dosage strengths (12.5 mg, 25 mg, 37.5 mg, and 50 mg), paroxetine Cmax and AUC0-inf increased disproportionately with dose (as seen also with immediate‑release formulations).
-Mean Cmax and AUC0-inf values at these doses were 2.0, 5.5, 9.0, and 12.5 ng/mL, and 121, 261, 338, and 540 ng·hr. /mL, respectively.
-Tmax was observed typically between 6 and 10 hours post‑dose, reflecting a reduction in absorption rate compared with immediate‑release formulations.
-The bioavailability of 25 mg PAXIL CR is not affected by food.
+Food effect
+
+Food did not appreciably affect the bioavailability of PAXIL CR 25 mg
 
 Distribution
 
-Paroxetine distributes throughout the body, including the CNS, with only 1% remaining in the plasma.
+Paroxetine distributes throughout the body, including the central nervous system (CNS), with only 1% remaining in the plasma.
 
 Approximately 95% and 93% of paroxetine is bound to plasma protein at 100 ng/mL and 400 ng/mL, respectively.
 Under clinical conditions, paroxetine concentrations would normally be less than 400 ng/mL.
@@ -32,18 +42,9 @@ Paroxetine does not alter the in vitro protein binding of phenytoin or warfarin.
 
 Elimination
 
-Metabolism
+The elimination half-life was approximately 15 to 20 hours after a single dose of PAXIL CR.
 
-The mean elimination half-life of paroxetine was 15 to 20 hours throughout a range of single doses of PAXIL CR (12.5 mg, 25 mg, 37.5 mg, and 50 mg).
-During repeated administration of PAXIL CR (25 mg once daily), steady state was reached within 2 weeks (i.e., comparable to immediate‑release formulations).
-In a repeat‑dose study in which normal male and female subjects (n = 23) received PAXIL CR (25 mg daily), mean steady state Cmax, Cmin, and AUC0-24 values were 30 ng/mL, 20 ng/mL, and 550 ng·hr./mL, respectively.
-
-Based on studies using immediate‑release formulations, steady‑state drug exposure based on AUC0-24 was several‑fold greater than would have been predicted from single‑dose data.
-The excess accumulation is a consequence of the fact that 1 of the enzymes that metabolizes paroxetine is readily saturable.
-
-In steady‑state dose proportionality studies involving elderly and nonelderly patients, at doses of the immediate‑release formulation of 20 mg to 40 mg daily for the elderly and 20 mg to 50 mg daily for the nonelderly, some nonlinearity was observed in both populations, again reflecting a saturable metabolic pathway (Figure 3).
-
-Paroxetine is extensively metabolized after oral administration.
+Metabolism: Paroxetine is extensively metabolized after oral PAXIL CR administration.
 The principal metabolites are polar and conjugated products of oxidation and methylation, which are readily cleared.
 Conjugates with glucuronic acid and sulfate predominate, and major metabolites have been isolated and identified.
 Data indicate that the metabolites have no more than 1/50 the potency of the parent compound at inhibiting serotonin uptake.
@@ -51,34 +52,34 @@ The metabolism of paroxetine is accomplished in part by CYP2D6.
 Saturation of this enzyme at clinical doses appears to account for the nonlinearity of paroxetine kinetics with increasing dose and increasing duration of treatment.
 The role of this enzyme in paroxetine metabolism also suggests potential drug‑drug interactions [see Drug Interactions (7.3)].
 
-Excretion
-
-Approximately 64% of a 30‑mg oral solution dose of paroxetine was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10‑day post‑dosing period.
+Excretion: Approximately 64% of 30‑mg dose of paroxetine oral solution was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10‑day post‑dosing period.
 About 36% was excreted in the feces (probably via the bile), mostly as metabolites and less than 1% as the parent compound over the 10‑day post‑dosing period.
-
-The elimination half-life is approximately 15 to 20 hours after a single dose of PAXIL CR.
-Paroxetine metabolism is mediated in part by CYP2D6, and the metabolites are primarily excreted in the urine and to some extent in the feces.
-Pharmacokinetic behavior of paroxetine has not been evaluated in subjects who are deficient in CYP2D6 (poor metabolizers).
 
 Drug Interaction Studies
 
 There are clinically significant, known drug interactions between paroxetine and other drugs [see Drug Interactions (7)].
 
 Figure 1.
-Impact of Paroxetine on the Pharmacokinetics of Co-Administered Drugs (log scale)
+Impact of Paroxetine on the Pharmacokinetics of Concomitantly Administered Drugs (log scale)
+
+Pimozide is a moderately sensitive CYP3A4 substrate and is a CYP2D6 substrate; desipramine is a sensitive 2D6 substrate; propranolol is a moderately sensitive 2D6 substrate, digoxin is P-gp substrate, and phenytoin is a strong 3A4 inhibitor.
 
 Figure 2.
-Impact of Co-Administered Drugs on the Pharmacokinetics of Paroxetine
+Impact of Concomitantly Administered Drugs on the Pharmacokinetics of Paroxetine
 
-Theophylline: Reports of elevated theophylline levels associated with immediate‑release paroxetine treatment have been reported.
-While this interaction has not been formally studied, it is recommended that theophylline levels be monitored when these drugs are concurrently administered.
+Cimetidine is a OCT2, MATE1, and MATE2-K inhibitor, phenobarbital is a 3A4 moderate inducer, phenytoin is a 3A4 strong inhibitor, digoxin is P-gp substrate, and diazepam is a 2C19 moderate sensitive substrate. increased paroxetine exposure after concomitant use of PAXIL CR with cimetidine is not expected to be clinically significant
 
-Drugs Metabolized by Cytochrome CYP3A4
+Theophylline: Reports of elevated theophylline levels with concomitant use with immediate‑release paroxetine treatment have been reported.
 
-An in vivo interaction study involving the coadministration under steady‑state conditions of paroxetine and terfenadine, a substrate for CYP3A4, revealed no effect of paroxetine on terfenadine pharmacokinetics.
-In addition, in vitro studies have shown ketoconazole, a potent inhibitor of CYP3A4 activity, to be at least 100 times more potent than paroxetine as an inhibitor of the metabolism of several substrates for this enzyme, including terfenadine, astemizole, cisapride, triazolam, and cyclosporine.
-Paroxetine’s extent of inhibition of CYP3A4 activity is not expected to be of clinical significance.
+Drugs Metabolized by Cytochrome CYP3A4: An in vivo interaction study involving the concomitant use of steady‑state paroxetine and a CYP3A4 substrate, revealed no effect of paroxetine on the pharmacokinetics of the CYP3A4 substrate.
+In addition, in vitro studies have shown ketoconazole, a severe CYP3A4 inhibitor, to be at least 100 times more potent than paroxetine as an inhibitor of the metabolism of several substrates for CYP3A4, including triazolam and cyclosporine.
+Paroxetine’s extent of CYP3A4 inhibition is not expected to be of clinical significance.
 
 Specific Populations
 
-The impact of specific populations on the pharmacokinetics of paroxetine are shown in Figure 3
+The impact of specific populations on the pharmacokinetics of paroxetine are shown in Figure 3.
+Although the AUC and Cmax was higher in patients with mild renal impairment (RI) or moderate RI compared to those with normal renal function, there was a lot of variability in the exposure and the clinical significance of these findings are unknown.
+For recommendations for use of PAXIL CR in geriatric patients, patients with severe hepatic impairment, or severe hepatic impairment, [see Use in Specific Populations (8.5, 8.6, and 8.7)], respectively.
+
+Figure 3.
+Impact of Specific Population on the Pharmacokinetics of Paroxetine (log scale)

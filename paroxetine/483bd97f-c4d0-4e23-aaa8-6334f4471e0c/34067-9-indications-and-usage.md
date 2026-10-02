@@ -1,8 +1,8 @@
 # 1 INDICATIONS AND USAGE
 
-PAXIL CR is indicated in adults for the treatment of:
+PAXIL CR is indicated for the treatment of:
 
-- Major depressive disorder (MDD)
-- Panic disorder (PD)
-- Social anxiety disorder (SAD)
-- Premenstrual dysphoric disorder (PMDD)
+- Major depressive disorder (MDD) in adults
+- Panic disorder (PD) in adults
+- Social anxiety disorder (SAD) in adults
+- Premenstrual dysphoric disorder (PMDD) in adults

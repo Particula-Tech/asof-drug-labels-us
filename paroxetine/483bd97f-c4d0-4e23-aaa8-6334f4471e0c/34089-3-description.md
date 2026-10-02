@@ -7,8 +7,8 @@ The structural formula of paroxetine hydrochloride is:
 
 Paroxetine hydrochloride is an odorless, off‑white powder, having a melting point range of 120° C to 138°C and a solubility of 5.4 mg/mL in water.
 
-PAXIL CR tablets are intended for oral administration.
-Each extended‑release tablet contains 12.5 mg, 25 mg, or 37.5 mg paroxetine equivalent to 14.25 mg, 28.51 mg, or 42.76 mg of paroxetine hydrochloride, respectively.
+PAXIL CR (paroxetine) extended release tablets are for oral administration.
+Each extended‑release tablet contains 12.5 mg, 25 mg, or 37.5 mg of paroxetine equivalent to 14.25 mg, 28.51 mg, or 42.76 mg of paroxetine hydrochloride, respectively.
 One layer of the tablet consists of a degradable barrier layer and the other contains the active material in a hydrophilic matrix.
 
 Inactive ingredients consist of glyceryl behenate, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer type C, polyethylene glycols, polysorbate 80, polyvinylpyrrolidone, silicon dioxide, sodium lauryl sulfate, talc, titanium dioxide, triethyl citrate and the following colorants: D&C Red No. 30 aluminum lake (25 mg), D&C Yellow No. 10 aluminum lake (12.5 mg), FD&C Blue No. 2 aluminum lake (37.5 mg), FD&C Yellow No. 6 aluminum lake (12.5 mg), red ferric oxide (25 mg) and Yellow ferric oxide (12.5 mg and 37.5 mg).

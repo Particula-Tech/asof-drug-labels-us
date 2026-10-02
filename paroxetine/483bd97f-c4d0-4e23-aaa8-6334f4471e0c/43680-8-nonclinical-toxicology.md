@@ -4,8 +4,8 @@
 
 Carcinogenesis
 
-Two‑year carcinogenicity studies were conducted in rodents given paroxetine in the diet at 1, 5, and 25 mg/kg/day (mice) and 1, 5, and 20 mg/kg/day (rats).
-These doses are up to approximately 1.6 (mouse) and 2.5 (rat) times the MRHD on an mg/m2 basis.
+Two‑year carcinogenicity studies were conducted in rodents given paroxetine in the diet at 1, 5, and 25 mg/kg/day in mice and 1, 5, and 20 mg/kg/day in rats.
+In mice, these doses were up to approximately 1.6 (mouse) and 2.5 (rat) times the MRHD of PAXIL CR on an mg/m2 basis.
 There was a significantly greater number of male rats in the high‑dose group with reticulum cell sarcomas (1/100, 0/50, 0/50, and 4/50 for control, low‑, middle‑, and high‑dose groups, respectively) and a significantly increased linear trend across dose groups for the occurrence of lymphoreticular tumors in male rats.
 Female rats were not affected.
 Although there was a dose‑related increase in the number of tumors in mice, there was no drug‑related increase in the number of mice with tumors.
@@ -17,6 +17,8 @@ Paroxetine produced no genotoxic effects in a battery of 5 in vitro and 2 in viv
 
 Impairment of Fertility
 
-A reduced pregnancy rate was found in reproduction studies in rats at a dose of paroxetine of 15 mg/kg/day, which is approximately twice the MRHD on an mg/m2 basis.
+Some clinical studies have shown that SSRIs (including paroxetine) may affect sperm quality during SSRI treatment, which may affect fertility in some men [see Use in Specific Populations (8.3)].
+
+A reduced pregnancy rate was found in reproduction studies in rats at a dose of paroxetine of 15 mg/kg/day, which is approximately twice the MRHD of PAXIL CR on an mg/m2 basis.
 Irreversible lesions occurred in the reproductive tract of male rats after dosing in toxicity studies for 2 to 52 weeks.
-These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (approximately 6 and 3 times the MRHD on an mg/m2 basis).
+These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (approximately 6 and 3 times the MRHD of PAXIL CR on an mg/m2 basis).

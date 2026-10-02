@@ -1,49 +1,52 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Important Administration Instructions
+## 2.1 Screen for Bipolar Disorder Prior to Starting PAXIL CR
 
-Administer PAXIL CR as a single daily dose in the morning, with or without food.
-Swallow tablets whole and do not chew or crush.
+Prior to initiating treatment with PAXIL CR, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.6)].
 
-## 2.2 Dosage in Patients with Major Depressive Disorder, Panic Disorder, and Social Anxiety Disorder
+## 2.2 Important Administration Instructions
 
-The recommended initial dosage and maximum dosage of PAXIL CR in patients with MDD, PD, and SAD are presented in Table 1.
+Administer PAXIL CR once daily in the morning, with or without food [see Clinical Pharmacology (12.3)].
+Swallow the extended-release tablets whole and do not chew or crush.
 
-In patients with an inadequate response, dosage may be increased in increments of 12.5 mg per day at intervals of at least 1 week, depending on tolerability.
+## 2.3 Dosage in Patients with Major Depressive Disorder, Panic Disorder, and Social Anxiety Disorder
+
+The recommended starting dosage and maximum dosage of PAXIL CR in patients with MDD, PD, and SAD are presented in Table 1.
+In patients with an inadequate response, may increase the PAXIL CR dosage by 12.5 mg/day at weekly intervals (e.g., if the starting dosage is 12.5 mg/day may increase the dosage the next week to 25 mg/day), depending on tolerability, up to the maximum recommended dosage.
 
 Table 1: Recommended Daily Dosage of PAXIL CR in Patients with MDD, PD, and SAD
 
-| Indication | Starting Dose | Maximum Dose |
+| Indication | Starting Dosage | Maximum Dosage |
 | --- | --- | --- |
 | MDD | 25 mg | 62.5 mg |
 | PD | 12.5 mg | 75 mg |
 | SAD | 12.5 mg | 37.5 mg |
 
-## 2.3 Dosage in Patients with Premenstrual Dysphoric Disorder
+## 2.4 Dosage in Patients with Premenstrual Dysphoric Disorder
 
-The recommended starting dosage in women with PMDD is 12.5 mg per day.
-PAXIL CR may be administered either continuously (every day throughout the menstrual cycle) or intermittently (only during the luteal phase of the menstrual cycle, i.e., starting the daily dosage 14 days prior to the anticipated onset of menstruation and continuing through the onset of menses).
-Intermittent dosing is repeated with each new cycle.
+The recommended starting dosage of PAXIL CR in women with PMDD is 12.5 mg/day.
+Administer PAXIL CR either:
 
-In patients with an inadequate response, the dosage may be increased to the maximum recommended dosage of 25 mg per day, depending on tolerability.
-Institute dosage adjustments at intervals of at least 1 week.
+- Continuously (every day throughout the menstrual cycle) or
+- Intermittently with each new cycle (only during the luteal phase of the menstrual cycle, i.e., starting the daily dosage 14 days prior to the anticipated onset of menstruation and continuing through the onset of menses).
 
-## 2.4 Screen for Bipolar Disorder Prior to Starting Paxil CR
+In patients with an inadequate response, may increase the PAXIL CR dosage by 12.5 mg/day at weekly intervals (e.g., after 1 week may increase the dosage from 12.5 mg/day to 25 mg/day) to the maximum recommended dosage of 25 mg/day, depending on tolerability.
 
-Prior to initiating treatment with Paxil CR or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.6)].
+## 2.5 Recommended Dosage in Geriatric Patients, Patients with Severe Renal Impairment, and Patients with Severe Hepatic Impairment
 
-## 2.5 Dosage Modifications for Elderly Patients, Patients with Severe Renal Impairment and Patients with Severe Hepatic Impairment
+For the treatment of MDD, PD, SAD, or PMDD in geriatric patients (those 65 years of age or older), patients with severe renal impairment, and patients with severe hepatic impairment [see Use in Specific Populations (8.5, 8.6, 8.7)]:
 
-The recommended initial dose of PAXIL CR is 12.5 mg per day for elderly patients, patients with severe renal impairment, and patients with severe hepatic impairment.
-Reduce initial dose and increase up-titration intervals if necessary.
-Dosage should not exceed 50 mg per day for MDD or PD and should not exceed 37.5 mg per day for SAD [see Use in Specific Populations (8.5, 8.6)].
+- The recommended starting dosage of PAXIL CR is 12.5 mg/day.
+  If these patients have an adequate response, may increase the PAXIL CR dosage by 12.5 mg/day at weekly intervals (e.g., after 1 wee, may increase the dosage from 12.5 mg/day to 25 mg/day) up to the maximum recommended dosage.
+- The maximum recommended dosage is 50 mg/day for MDD or PD, 37.5 mg/day for SAD; and 25 mg/day for PMDD.
+
+In these patients with PMDD, may administer PAXIL CR intermittently [see Dosage and Administration (2.3)].
 
 ## 2.6 Switching Patients to or from a Monoamine Oxidase Inhibitor Antidepressant
 
 At least 14 days must elapse between discontinuation of an monoamine oxidase inhibitor (MAOI) antidepressant and initiation of PAXIL CR.
 In addition, at least 14 days must elapse after stopping PAXIL CR before starting an MAOI antidepressant [see Contraindications (4), Warnings and Precautions (5.2)].
 
-## 2.7 Discontinuation of Treatment with Paxil CR
+## 2.7 Discontinuation of PAXIL CR Treatment
 
-Adverse reactions may occur upon discontinuation of PAXIL CR [see Warnings and Precautions (5.7)].
-Gradually reduce the dosage rather than stopping Paxil CR abruptly whenever possible.
+When discontinuing PAXIL CR treatment, gradually reduce the dosage rather than stopping PAXIL CR abruptly whenever possible [see Warnings and Precautions (5.7) and Drug Abuse and Dependence (9.3)].

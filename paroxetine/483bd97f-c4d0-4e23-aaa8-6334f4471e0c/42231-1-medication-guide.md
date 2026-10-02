@@ -1,57 +1,62 @@
 # MEDICATION GUIDE
 
-PAXIL CR® (PAX-il) (paroxetine hydrochloride) extended-release tablets
+PAXIL CR® (PAX-il) (paroxetine hydrochloride) extended-release tablets,for oral use
 
 What is the most important information I should know about PAXIL CR?
 
 PAXIL CR can cause serious side effects, including:
 
-- Increased risk of suicidal thoughts or actions.
-  Antidepressant medicines may increase suicidal thoughts and actions in some children and young adults within the first few months of treatment or when the dose is changed.
-  PAXIL CR is not for use in people younger than 18 years of age.
+- Increased risk of suicidal thoughts and actions.
+  PAXIL CR and other antidepressant medicines may increase the risk of suicidal thoughts and actions in people 24 years of age and younger, especially within the first few months of treatment or when the dose is changed.
+  PAXIL CR is not for use in children.
+
+- 
+  - Depression or other mental illnesses are the most important causes of suicidal thoughts or actions.
 
 How can I watch for and try to prevent suicidal thoughts and actions?
 
-- Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
 - Pay close attention to any changes, especially sudden changes in mood, behavior, thoughts or feelings or if you develop suicidal thoughts or actions.
   This is very important when an antidepressant medicine is started or when the dose is changed.
-- Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts or feelings or if you develop suicidal thoughts or actions.
+- Tell your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts or feelings or if you develop suicidal thoughts or actions.
 - Keep all follow-up visits with your healthcare provider as scheduled.
-  Call your healthcare provider between visits as needed, especially if you have concerns about symptoms.
+  Tell your healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
-Call your healthcare provider or get emergency medical help right away if you have any of the following symptoms, especially if they are new, worse, or worry you:
+Tell your healthcare provider or get emergency medical help right away if you develop any of the following symptoms, especially if they are new, worse, or worry you:
 
-- attempts to commit suicide
+- suicide attempts
 - acting aggressive or violent
 - new or worse depression
 - feeling agitated, restless, angry, or irritable
-- an increase in activity and talking more than what is normal for you
+- an increase in activity or talking more than what is normal for you
 - acting on dangerous impulses
 - thoughts about suicide or dying
 - new or worse anxiety or panic attacks
 - trouble sleeping
 - other unusual changes in behavior or mood
 
+See “What are the possible side effects of PAXIL CR?” for more information about side effects.
+
 What is PAXIL CR?
 
 PAXIL CR is a prescription medicine used in adults to treat:
 
-- A certain type of depression called Major Depressive Disorder (MDD)
-- Panic Disorder
-- Social Anxiety Disorder (SAD)
-- Premenstrual Dysphoric Disorder (PMDD)
+- A certain type of depression called major depressive disorder (MDD)
+- Panic disorder
+- Social anxiety disorder (SAD)
+- Premenstrual dysphoric disorder (PMDD)
+
+It is not known if PAXIL CR is safe and effective in children.
+
+Who should not take PAXIL CR?
 
 Do not take PAXIL CR if you:
 
-- take a monoamine oxidase inhibitor (MAOI)
-- have stopped taking an MAOI in the last 14 days
-- are being treated with the antibiotic linezolid or intravenous methylene blue
-- are taking thioridazine
-- are taking pimozide
+- are taking, or have stopped taking within the last 14 days, a medicine called a monoamine oxidase inhibitor (MAOI), including the antibiotic linezolid or intravenous methylene blue
+- are taking certain medicines that can cause a heart rhythm problem called QT prolongation
 - are allergic to paroxetine or any of the ingredients in PAXIL CR.
   See the end of this Medication Guide for a complete list of ingredients in PAXIL CR.
 
-Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI or one of these medicines, including intravenous methylene blue.
+Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI or one of these medicines.
 
 Do not start taking an MAOI for at least 14 days after you stop treatment with PAXIL CR.
 
@@ -61,15 +66,16 @@ Before taking PAXIL CR, tell your healthcare provider about all your medical con
 - have or had bleeding problems
 - have, or have a family history of bipolar disorder, mania or hypomania
 - have or had seizures or convulsions
-- have glaucoma (high pressure in the eye)
+- have high pressure in the eye (glaucoma)
 - have low sodium levels in your blood
 - have bone problems
 - have kidney or liver problems
 - are pregnant or plan to become pregnant.
-  PAXIL CR may harm your unborn baby.
+  PAXIL CR can harm your unborn baby.
   - Taking PAXIL CR during your first trimester of pregnancy may cause your baby to be at an increased risk of having a heart problem (cardiac malformations) at birth.
-  - Taking PAXIL CR during your third trimester of pregnancy may cause your baby to have breathing,temperature, and feeding problems, low muscle tone (floppy baby syndrome), and irritability after birth and may cause your baby to be at an increased risk of a serious lung problem at birth.
-    Talk to your healthcare provider about the risk to your unborn baby if you take PAXIL CR during pregnancy.
+  - Taking PAXIL CR during your third trimester of pregnancy may cause your baby to have breathing,temperature, and feeding problems, low muscle tone, and irritability after birth and may cause your baby to be at an increased risk of a serious lung problem at birth.
+    Talk to your healthcare provider about the risks to your unborn baby if you take PAXIL CR during pregnancy.
+  - You may be at increased risk for bleeding after childbirth if you take PAXIL CR in the month before delivery.
   - Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with PAXIL CR.
   - There is a pregnancy registry for females who are exposed to PAXIL CR during pregnancy.
     The purpose ofthe registry is to collect information about the health of females exposed to PAXIL CR and their baby.
@@ -77,6 +83,7 @@ Before taking PAXIL CR, tell your healthcare provider about all your medical con
 - are breastfeeding or plan to breastfeed.
   PAXIL CR passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby during treatment with PAXIL CR.
+  - If you breastfeed during treatment with PAXIL CR, tell your healthcare provider if your baby develops agitation, irritability, poor feeding, or poor weight gain.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -85,24 +92,23 @@ PAXIL CR may affect the way other medicines work and other medicines may affect 
 
 Especially tell your healthcare provider if you take:
 
-- medicines used to treat migraine headaches called triptans
-- tricyclic antidepressants
-- lithium
-- tramadol, fentanyl, meperidine, methadone, or other opioids
-- tryptophan
-- buspirone
-- amphetamines
-- St. John’s Wort
-- medicines that can affect blood clotting such as aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), or warfarin
-- diuretics
-- tamoxifen
+- medicines that can increase your risk for developing a serious problem called serotonin syndrome, including:
+  - medicines used to treat migraine headaches called triptans
+  - medicines used to treat mood, anxiety, psychotic or thought disorders, including selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs), MAOIs, tricyclic antidepressants, lithium, buspirone
+  - tramadol, fentanyl, meperidine, methadone, or other opioids
+  - tryptophan
+  - amphetamines
+  - St. John’s Wort
+  - medicines that can affect blood clotting such as aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin, or other blood thinners
+  - diuretics
+  - tamoxifen
 
 Ask your healthcare provider if you are not sure if you are taking any of these medicines.
 Your healthcare provider can tell you if it is safe to take PAXIL CR with your other medicines.
 
 Do not start or stop any other medicines during treatment with PAXIL CR without talking to your healthcare provider first.
 Stopping PAXIL CR suddenly may cause you to have serious side effects.
-See, “What are the possible side effects of PAXIL CR?”
+See “What are the possible side effects of PAXIL CR?”
 
 Know the medicines you take.
 Keep a list of them to show to your healthcare provider and pharmacist when you get a new medicine.
@@ -115,84 +121,89 @@ How should I take PAXIL CR?
 - Take PAXIL CR with or without food.
 - Swallow PAXIL CR tablets whole.
   Do not chew or crush PAXIL CR tablets.
-- If you take too much PAXIL CR, call your poison control center at 1-800-222-1222 or got to the nearest hospital emergency room right away.
+- If you take too much PAXIL CR, call your healthcare provider or poison help line at 1-800-222-1222 or go to the nearest hospital emergency room right away.
 
 What are possible side effects of PAXIL CR?
 
 PAXIL CR may cause serious side effects, including:
 
-- See, “What is the most important information I should know about PAXIL CR?”
+- See “What is the most important information I should know about PAXIL CR?”
 - Serotonin syndrome.
   A potentially life-threatening problem called serotonin syndrome can happen when you take PAXIL CR with certain other medicines.
-  See, “Who should not take PAXIL CR?”
-  Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of serotonin syndrome:
+  See “Who should not take PAXIL CR?”and "Especially tell your healthcare provider if you take:"Tell your healthcare provider or go to the nearest hospital emergency room right away if you develop any of the following signs and symptoms of serotonin syndrome:
 
-- agitation
-- seeing or hearing things that are not real (hallucinations)
-- confusion
-- coma
-- fast heart beat
-- changes in blood pressure
-- dizziness
-- sweating
-- flushing
-- high body temperature (hyperthermia)
-- shaking (tremors), stiff muscles, or muscle twitching
-- loss of coordination
-- seizures
-- nausea, vomiting, diarrhea
+- 
+  - agitation
+  - seeing or hearing things that are not real (hallucinations)
+  - confusion
+  - coma
+  - fast heart beat
+  - changes in blood pressure
+  - dizziness
+  - sweating
+  - flushing
+  - high body temperature (hyperthermia)
+  - shaking (tremors), stiff muscles, or muscle twitching
+  - loss of coordination
+  - seizures
+  - nausea, vomiting, diarrhea
 
-- Medicine interactions.
-  Taking PAXIL CR with certain other medicines including thioridazine and pimozide may increase the risk of developing a serious heart problem called QT prolongation.
-- Abnormal bleeding.
-  Taking PAXIL CR with aspirin, NSAIDs, or blood thinners may add to this risk.
+- Medicine interactions that can lead to heart rhythm problems.
+  Taking PAXIL CR with certain other medicines may increase the risk of developing a serious heart problem called QT prolongation.
+  See "Who should not take PAXIL CR?"
+- Increased risk of bleeding.
+  Taking PAXIL CR with aspirin, NSAIDs, warfarin or other blood thinners may add to this risk.
   Tell your healthcare provider about any unusual bleeding or bruising.
 - Manic episodes.
   Manic episodes may happen in people with bipolar disorder who take PAXIL CR.
-  Symptoms may include:
+  Tell your healthcare provider if you develop any symptoms of mania, which may include:
 
-- greatly increased energy
-- racing thoughts
-- unusually grand ideas
-- talking more or faster than usual
-- severe problems sleeping
-- reckless behavior
-- excessive happiness or irritability
+- 
+  - greatly increased energy
+  - racing thoughts
+  - unusually grand ideas
+  - talking more or faster than usual
+  - severe problems sleeping
+  - reckless behavior
+  - excessive happiness or irritability
 
 - Discontinuation syndrome.
   Suddenly stopping PAXIL CR may cause you to have serious side effects.
   Your healthcare provider may want to decrease your dose slowly.
   Symptoms may include:
 
-- nausea
-- sweating
-- changes in mood
-- irritability and agitation
-- dizziness
-- electric shock feeling (paresthesia)
-- tremor
-- anxiety
-- confusion
-- headache
-- tiredness
-- problems sleeping
-- ringing in your ears (tinnitus)
-- seizures
+- 
+  - nausea
+  - sweating
+  - changes in mood
+  - irritability and agitation
+  - dizziness
+  - electric shock feeling (paresthesia)
+  - shaking (tremor)
+  - anxiety
+  - confusion
+  - headache
+  - tiredness
+  - problems sleeping
+  - hypomania
+  - ringing in your ears (tinnitus)
+  - seizures
 
 - Seizures (convulsions).
 - Eye problems (angle-closure glaucoma).
   PAXIL CR may cause a type of eye problem called angle-closure glaucoma in people with certain other eye conditions.
-  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are. · Tell your healthcare provider if you develop eye pain, changes in your vision, or swelling or redness in or around the eye.
 - Low sodium levels in your blood (hyponatremia).
-  Low sodium levels in your blood that may be serious and may cause death, can happen during treatment with PAXIL CR.
-  Elderly people and people who take certain medicines may be at a greater risk for developing low sodium levels in your blood.
+  Low sodium levels in your blood that may be severe and may cause death, can happen during treatment with PAXIL CR.
+  Elderly people and people who take diuretics or become dehydrated certain may be at a greater risk for this.
   Signs and symptoms may include:
 
-- headache
-- difficulty concentrating
-- memory changes
-- confusion
-- weakness and unsteadiness on your feet which can lead to falls
+- 
+  - headache
+  - difficulty concentrating
+  - memory changes
+  - confusion
+  - weakness and unsteadiness which can lead to falls
 
 In more severe or more sudden cases, signs and symptoms include:
 
@@ -202,17 +213,18 @@ In more severe or more sudden cases, signs and symptoms include:
 - coma
 - stopping breathing (respiratory arrest)
 
-- Bone fractures.
 - Sexual problems (dysfunction).
   Taking selective serotonin reuptake inhibitors (SSRIs), including PAXIL CR, may cause sexual problems.Symptoms in males may include:Symptoms in females may include:
-  - Delayed ejaculation or inability to have an ejaculation
-  - Decreased sex drive
-  - Problems getting or keeping an erection
+  - delayed ejaculation or inability to have an ejaculation
+  - decreased sex drive
+  - problems getting or keeping an erection
   - Decreased sex drive
   - Delayed orgasm or inability to have an orgasm
 
 Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with PAXIL CR.
 There may be treatments your healthcare provider can suggest.
+
+- Bone fractures
 
 The most common side effects PAXIL CR include:
 
@@ -228,7 +240,12 @@ The most common side effects PAXIL CR include:
 - nausea
 - sleepiness
 - sweating
-- tremor
+- shaking (tremor)
+
+PAXIL CR may cause fertility problems in males, which may affect your ability to have children.
+Talk to your healthcare provider if you have concerns about fertility.
+
+Tell your healthcare provider or get emergency medical help right away if you develop an allergic reaction during treatment with PAXIL CR such as rash, hives, swelling or difficulty breathing.
 
 These are not all the possible side effects of PAXIL CR.
 
@@ -247,7 +264,7 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not take PAXIL CR for a condition for which it was not prescribed.
 Do not give PAXIL CR to other people, even if they have the same symptoms that you have.
 It may harm them.
-You may ask your healthcare provider or pharmacist for information about PAXIL CR that is written for healthcare professionals.
+You may ask your pharmacist or healthcare provider for information about PAXIL CR that is written for health professionals.
 
 What are the ingredients in PAXIL CR?
 
@@ -277,6 +294,6 @@ For more information about PAXIL CR call 1-800-706-5575.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-01/2024
+9/2026
 
 - 
