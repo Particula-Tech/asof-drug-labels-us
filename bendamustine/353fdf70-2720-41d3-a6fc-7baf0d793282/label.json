@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA219014"
+  ],
+  "inn": "bendamustine",
+  "labeler": "AVYXA Pharma, LLC",
+  "package_ndcs": [
+    "83831-176-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bendamustine hydrochloride",
+      "name": "GOBARDEN"
+    }
+  ],
+  "setid": "353fdf70-2720-41d3-a6fc-7baf0d793282",
+  "source": "dailymed"
+}
