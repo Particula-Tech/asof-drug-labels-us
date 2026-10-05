@@ -104,7 +104,7 @@ ONJ has been reported in the osteoporosis clinical trial program in patients tre
 Atypical Subtrochanteric and Diaphyseal Femoral Fractures
 
 In the osteoporosis clinical trial program, atypical femoral fractures were reported in patients treated with denosumab.
-The duration of denosumab exposure to time of atypical femoral fracture diagnosis was as early as 2&frac12; years [see Warnings and Precautions (5.5)].
+The duration of denosumab exposure to time of atypical femoral fracture diagnosis was as early as 2 1/2 years [see Warnings and Precautions (5.5)].
 
 Multiple Vertebral Fractures (MVF) Following Treatment Discontinuation
 
@@ -158,7 +158,7 @@ New Malignancies
 
 New malignancies were reported in no patients in the placebo group and 4 (3.3%) patients (3 prostate cancers, 1 basal cell carcinoma) in the denosumab group.
 
-Treatment of Glucocorticoid-Induced Osteoporosis
+Treatment of Glucocorticoid-induced Osteoporosis
 
 The safety of denosumab in the treatment of glucocorticoid-induced osteoporosis was assessed in the 1-year, primary analysis of a 2-year randomized, multicenter, double-blind, parallel-group, active-controlled study of 795 patients (30% men and 70% women) aged 20 to 94 (mean age of 63 years) treated with greater than or equal to 7.5 mg/day oral prednisone (or equivalent).
 A total of 384 patients were exposed to 5 mg oral daily bisphosphonate (active-control) and 394 patients were exposed to denosumab administered once every 6 months as a 60 mg subcutaneous dose.
@@ -244,3 +244,4 @@ The following adverse reactions have been identified during post approval use of
 - Alopecia
 - Vasculitis (e.g., ANCA positive vasculitis, leukocytoclastic vasculitis)
 - Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome
+- Injection site reactions including injection site pain

@@ -7,7 +7,7 @@ Enrolled women had a baseline BMD T-score between -2.5 and -4.0 at either the lu
 Women with other diseases (such as rheumatoid arthritis, osteogenesis imperfecta, and Paget’s disease) or on therapies that affect bone were excluded from this study.
 The 7808 enrolled women were aged 60 to 91 years with a mean age of 72 years.
 Overall, the mean baseline lumbar spine BMD T-score was -2.8, and 23% of women had a vertebral fracture at baseline.
-Women were randomized to receive subcutaneous injections of either placebo (N = 3906) or denosumab60 mg (N = 3902) once every 6 months.
+Women were randomized to receive subcutaneous injections of either placebo (N = 3906) or denosumab 60 mg (N = 3902) once every 6 months.
 All women received at least 1000 mg calcium and 400 IU vitamin D supplementation daily.
 
 The primary efficacy variable was the incidence of new morphometric (radiologically-diagnosed) vertebral fractures at 3 years.
@@ -39,7 +39,7 @@ Denosumab was effective in reducing the risk for new morphometric vertebral frac
 Effect on Hip Fractures
 
 The incidence of hip fracture was 1.2% for placebo-treated women compared to 0.7% for denosumab-treated women at year 3.
-The age-adjusted absolute risk reduction of hip fractures was 0.3% with a relative risk reduction of 40% at 3 years (p = 0.04) (Figure 1).
+The age-adjusted absolute risk reduction of hip fractures was 0.3% with a relative risk reduction of 40% at 3 years (p = 0.04) (see Figure 1).
 
 Figure 1.
 Cumulative Incidence of Hip Fractures Over 3 Years
@@ -48,7 +48,7 @@ N = number of subjects randomized
 
 Effect on Nonvertebral Fractures
 
-Treatment with denosumab resulted in a significant reduction in the incidence of nonvertebral fractures (Table 4).
+Treatment with denosumab resulted in a significant reduction in the incidence of nonvertebral fractures (see Table 4).
 
 Table 4.
 The Effect of Denosumab on the Incidence of Nonvertebral Fractures at Year 3
@@ -90,7 +90,7 @@ Enrolled men had a baseline BMD T-score between -2.0 and -3.5 at the lumbar spin
 Men with a BMD T-score between -1.0 and -3.5 at the lumbar spine or femoral neck were also enrolled if there was a history of prior fragility fracture.
 Men with other diseases (such as rheumatoid arthritis, osteogenesis imperfecta, and Paget’s disease) or on therapies that may affect bone were excluded from this study.
 The 242 men enrolled in the study ranged in age from 31 to 84 years with a mean age of 65 years.
-Men were randomized to receive SC injections of either placebo (n = 121) or denosumab60 mg (n = 121) once every 6 months.
+Men were randomized to receive SC injections of either placebo (n = 121) or denosumab 60 mg (n = 121) once every 6 months.
 All men received at least 1000 mg calcium and at least 800 IU vitamin D supplementation daily.
 
 Effect on Bone Mineral Density (BMD)
@@ -118,14 +118,14 @@ The efficacy and safety of denosumab in the treatment of patients with glucocort
 Enrolled patients < 50 years of age were required to have a history of osteoporotic fracture.
 Enrolled patients ≥ 50 years of age who were in the glucocorticoid-continuing subpopulation were required to have a baseline BMD T-score of ≤ -2.0 at the lumbar spine, total hip, or femoral neck; or a BMD T-score ≤ -1.0 at the lumbar spine, total hip, or femoral neck and a history of osteoporotic fracture.
 
-Patients were randomized (1:1) to receive either an oral daily bisphosphonate (active-control, risedronate 5 mg once daily) (n = 397) or denosumab60 mg subcutaneously once every 6 months (n = 398) for one year.
+Patients were randomized (1:1) to receive either an oral daily bisphosphonate (active-control, risedronate 5 mg once daily) (n = 397) or denosumab 60 mg subcutaneously once every 6 months (n = 398) for one year.
 Randomization was stratified by gender within each subpopulation.
 Patients received at least 1000 mg calcium and 800 IU vitamin D supplementation daily.
 
 Effect on Bone Mineral Density (BMD)
 
-In the glucocorticoid-initiating subpopulation, denosumab significantly increased lumbar spine BMD compared to the active-control at one year (Active-control 0.8%, denosumab3.8%) with a treatment difference of 2.9% (p < 0.001).
-In the glucocorticoid-continuing subpopulation, denosumab significantly increased lumbar spine BMD compared to active-control at one year (Active-control 2.3%, denosumab4.4%) with a treatment difference of 2.2% (p < 0.001).
+In the glucocorticoid-initiating subpopulation, denosumab significantly increased lumbar spine BMD compared to the active-control at one year (Active-control 0.8%, denosumab 3.8%) with a treatment difference of 2.9% (p < 0.001).
+In the glucocorticoid-continuing subpopulation, denosumab significantly increased lumbar spine BMD compared to active-control at one year (Active-control 2.3%, denosumab 4.4%) with a treatment difference of 2.2% (p < 0.001).
 Consistent effects on lumbar spine BMD were observed regardless of gender; race; geographic region; menopausal status; and baseline age, lumbar spine BMD T-score, and glucocorticoid dose within each subpopulation.
 
 Bone Histology
@@ -145,7 +145,7 @@ The efficacy and safety of denosumab in the treatment of bone loss in men with n
 Men less than 70 years of age had either a BMD T-score at the lumbar spine, total hip, or femoral neck between -1.0 and -4.0, or a history of an osteoporotic fracture.
 The mean baseline lumbar spine BMD T-score was -0.4, and 22% of men had a vertebral fracture at baseline.
 The 1468 men enrolled ranged in age from 48 to 97 years (median 76 years).
-Men were randomized to receive subcutaneous injections of either placebo (n = 734) or denosumab60 mg (n = 734) once every 6 months for a total of 6 doses.
+Men were randomized to receive subcutaneous injections of either placebo (n = 734) or denosumab 60 mg (n = 734) once every 6 months for a total of 6 doses.
 Randomization was stratified by age (< 70 years vs. ≥ 70 years) and duration of ADT at trial entry (≤ 6 months vs. > 6 months).
 Seventy-nine percent of patients received ADT for more than 6 months at study entry.
 All men received at least 1000 mg calcium and 400 IU vitamin D supplementation daily.
@@ -179,11 +179,11 @@ The Effect of Denosumab on the Incidence of New Vertebral Fractures in Men with 
 
 ## 14.5 Treatment of Bone Loss in Women with Breast Cancer
 
-The efficacy and safety of denosumab n the treatment of bone loss in women receiving adjuvant aromatase inhibitor (AI) therapy for breast cancer was assessed in a 2-year, randomized (1:1), double-blind, placebo-controlled, multinational study.
+The efficacy and safety of denosumab in the treatment of bone loss in women receiving adjuvant aromatase inhibitor (AI) therapy for breast cancer was assessed in a 2-year, randomized (1:1), double-blind, placebo-controlled, multinational study.
 Women had baseline BMD T-scores between -1.0 to -2.5 at the lumbar spine, total hip, or femoral neck, and had not experienced fracture after age 25.
 The mean baseline lumbar spine BMD T-score was -1.1, and 2.0% of women had a vertebral fracture at baseline.
 The 252 women enrolled ranged in age from 35 to 84 years (median 59 years).
-Women were randomized to receive subcutaneous injections of either placebo (n = 125) or denosumab60 mg (n = 127) once every 6 months for a total of 4 doses.
+Women were randomized to receive subcutaneous injections of either placebo (n = 125) or denosumab 60 mg (n = 127) once every 6 months for a total of 4 doses.
 Randomization was stratified by duration of adjuvant AI therapy at trial entry (≤ 6 months vs. > 6 months).
 Sixty-two percent of patients received adjuvant AI therapy for more than 6 months at study entry.
 All women received at least 1000 mg calcium and 400 IU vitamin D supplementation daily.

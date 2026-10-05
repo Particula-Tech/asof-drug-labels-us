@@ -4,9 +4,9 @@
 
 Denosumab products can cause severe hypocalcemia and fatal cases have been reported.
 Pre-existing hypocalcemia must be corrected prior to initiating therapy with Boncresa.
-Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4), andAdverse Reactions (6.1)].
+Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4), and Adverse Reactions (6.1)].
 
-In patients without advanced chronic kidney disease who are predisposed to hypocalcemia and disturbances of mineral metabolism (e.g., history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, treatment with other calcium-lowering drugs), assess serum calcium and mineral levels (phosphorus and magnesium) 10 to14 days after Boncresa injection.
+In patients without advanced chronic kidney disease who are predisposed to hypocalcemia and disturbances of mineral metabolism (e.g., history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, treatment with other calcium-lowering drugs), assess serum calcium and mineral levels (phosphorus and magnesium) 10 to 14 days after Boncresa injection.
 In some postmarketing cases, hypocalcemia persisted for weeks or months and required frequent monitoring and intravenous and/or oral calcium replacement, with or without vitamin D.
 
 Patients with Advanced Chronic Kidney Disease
@@ -16,7 +16,7 @@ Severe hypocalcemia resulting in hospitalization, life-threatening events and fa
 The presence of underlying chronic kidney disease-mineral bone disorder (CKD-MBD, renal osteodystrophy) markedly increases the risk of hypocalcemia.
 Concomitant use of calcimimetic drugs may also worsen hypocalcemia risk.
 
-To minimize the risk of hypocalcemia in patients with advanced chronic kidney disease, evaluate for the presence of chronic kidney disease mineral and bone disorder with intact parathyroid hormone (iPTH), serum calcium, 25(OH) vitamin D, and 1,25(OH)2 vitamin D prior to decisions regarding Boncresa treatment.
+To minimize the risk of hypocalcemia in patients with advanced chronic kidney disease, evaluate for the presence of chronic kidney disease-mineral and bone disorder with intact parathyroid hormone (iPTH), serum calcium, 25(OH) vitamin D, and 1,25(OH)2 vitamin D prior to decisions regarding Boncresa treatment.
 Consider also assessing bone turnover status (serum markers of bone turnover or bone biopsy) to evaluate the underlying bone disease that may be present.
 Monitor serum calcium weekly for the first month after Boncresa administration and monthly thereafter.
 Instruct all patients with advanced chronic kidney disease, including those who are dialysis-dependent, about the symptoms of hypocalcemia and the importance of maintaining serum calcium levels with adequate calcium and activated vitamin D supplementation.
@@ -30,7 +30,7 @@ Patients receiving Boncresa should not receive other denosumab products concomit
 
 Clinically significant hypersensitivity including anaphylaxis has been reported with denosumab products.
 Symptoms have included hypotension, dyspnea, throat tightness, facial and upper airway edema, pruritus, and urticaria.
-If an anaphylactic or other clinically significant allergic reaction occurs, initiate appropriate therapy and discontinue further use of Boncresa [see Contraindications (4) and Adverse Reactions (6.2)].
+If an anaphylactic or other clinically significant allergic reaction occurs, initiate appropriate therapy, and discontinue further use of Boncresa [see Contraindications (4) and Adverse Reactions (6.2)].
 
 ## 5.4 Osteonecrosis of the Jaw
 
@@ -110,5 +110,5 @@ Monitor patients for these consequences.
 ## 5.11 Hypercalcemia in Pediatric Patients with Osteogenesis Imperfecta
 
 Boncresa is not approved for use in pediatric patients.
-Hypercalcemia has been reported in pediatric patients with osteogenesis imperfecta treated with denosumab products.
+Hypercalcemia has been reported in pediatric patients with osteogenesis imperfecta treated with denosumab products, including Boncresa.
 Some cases required hospitalization [see Use in Specific Populations (8.4)].

@@ -2,8 +2,8 @@
 
 ## 12.1 Mechanism of Action
 
-Denosumab productsbinds to RANKL, a transmembrane or soluble protein essential for the formation, function, and survival of osteoclasts, the cells responsible for bone resorption.
-Denosumab productsprevent RANKL from activating its receptor, RANK, on the surface of osteoclasts and their precursors.
+Denosumab products binds to RANKL, a transmembrane or soluble protein essential for the formation, function, and survival of osteoclasts, the cells responsible for bone resorption.
+Denosumab products prevent RANKL from activating its receptor, RANK, on the surface of osteoclasts and their precursors.
 Prevention of the RANKL/RANK interaction inhibits osteoclast formation, function, and survival, thereby decreasing bone resorption and increasing bone mass and strength in both cortical and trabecular bone.
 
 ## 12.2 Pharmacodynamics
@@ -19,7 +19,7 @@ After discontinuation of denosumab therapy, markers of bone resorption increased
 
 ## 12.3 Pharmacokinetics
 
-In a study conducted in healthy male and female volunteers (n = 73, age range: 18 to 64 years) following a single subcutaneously administered denosumab dose of 60 mg, the mean area-under-the-concentration-time curve up to 16 weeks (AUC0-16 weeks) of denosumab was 316 mcg⋅day/mL (standard deviation [SD] = 101 mcg⋅day/mL).
+In a study conducted in healthy male and female volunteers (n = 73, age range: 18 to 64 years) following a single subcutaneously administered denosumab dose of 60 mg, the mean area-under-the-concentration-time curve up to 16 weeks (AUC0-16 weeks) of denosumab was 316 mcg⋅day/mL (SD = 101 mcg⋅day/mL).
 The mean maximum denosumab concentration (Cmax) was 6.75 mcg/mL (SD = 1.89 mcg/mL).
 No accumulation or change in denosumab pharmacokinetics with time is observed with multiple dosing of 60 mg subcutaneously administered once every 6 months.
 

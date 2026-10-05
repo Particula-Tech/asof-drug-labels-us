@@ -60,7 +60,7 @@ Therefore, male condom use would not be necessary as it is unlikely that a femal
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Boncresa have not been established in pediatric patients
+The safety and effectiveness of Boncresa have not been established in pediatric patients.
 
 In one multicenter, open-label study with denosumab conducted in 153 pediatric patients with osteogenesis imperfecta, aged 2 to 17 years, evaluating fracture risk reduction, efficacy was not demonstrated.
 
@@ -79,7 +79,7 @@ In neonatal rats, inhibition of RANKL (the target of denosumab therapy) with a c
 Adolescent primates treated with denosumab at doses 10 and 50 times (10 and 50 mg/kg dose) higher than the recommended human dose of 60 mg administered every 6 months, based on body weight (mg/kg), had abnormal growth plates, considered to be consistent with the pharmacological activity of denosumab [see Nonclinical Toxicology (13.2)].
 
 Cynomolgus monkeys exposed in utero to denosumab exhibited bone abnormalities, an absence of axillary, inguinal, mandibular, and mesenteric lymph nodes, reduced hematopoiesis, tooth malalignment, and decreased neonatal growth.
-Some bone abnormalities recovered once exposure was ceased following birth; however, axillary and inguinal lymph nodes remained absent 6 months post-birth [see Use in Specific Populations (8.1)].
+Some bone abnormalities recovered once exposure was ceased following birth; however, axillary, and inguinal lymph nodes remained absent 6 months post-birth [see Use in Specific Populations (8.1)].
 
 ## 8.5 Geriatric Use
 
@@ -98,4 +98,4 @@ The presence of underlying chronic kidney disease-mineral bone disorder (CKD-MBD
 Concomitant use of calcimimetic drugs may also worsen hypocalcemia risk.
 Consider the benefits and risks to the patient when administering Boncresa to patients with advanced chronic kidney disease.
 Monitor calcium and mineral levels (phosphorus and magnesium).
-Adequate intake of calcium and vitamin D is important in patients with advanced chronic kidney disease including dialysis-dependent patients [see Dosage and Administration (2.2), Warnings and Precautions (5.1), Adverse Reactions (6.1) andClinical Pharmacology (12.3)].
+Adequate intake of calcium and vitamin D is important in patients with advanced chronic kidney disease including dialysis-dependent patients [see Dosage and Administration (2.2), Warnings and Precautions (5.1), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
