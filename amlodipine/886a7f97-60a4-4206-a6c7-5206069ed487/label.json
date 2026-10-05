@@ -5,7 +5,9 @@
   "inn": "amlodipine",
   "labeler": "Pangea Pharmaceuticals, LLC",
   "package_ndcs": [
-    "81279-134-10"
+    "81279-133-10",
+    "81279-134-10",
+    "81279-135-10"
   ],
   "products": [
     {
