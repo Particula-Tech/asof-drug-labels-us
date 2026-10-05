@@ -10,17 +10,13 @@ Table 1: Recommended Dosage for ASCENIV
 | --- | --- | --- |
 | 300-800 mg/kg every 3-4 weeks | 0.5 mg/kg/min (0.005 mL/kg/min) for the first 15 minutes | Increase gradually every 15 minutes (if tolerated) up to 8 mg/kg/min (0.08 mL/kg/min) |
 
-- Adjust the dose over time to achieve the desired trough levels and clinical response.
+​Measles Exposure
 
-Measles pre-/post exposure prophylaxis
+If a patient has been exposed to measles, it may be prudent to administer an extra dose of IGIV as soon as possible and within 6 days of exposure.
+A dose of 400 mg/kg should provide a serum level> 240 mIU/mL of measles antibodies for at least two weeks.
 
-Post-exposure prophylaxis
-
-- If a patient has been exposed to measles, a dose of 400 mg/kg of ASCENIV should be administered as soon as possible after exposure.
-
-Pre-exposure prophylaxis
-
-- If a patient routinely receives a dose of less than 530 mg/kg of ASCENIV every 3 to 4 weeks and is at risk of measles exposure (e.g., traveling to a measles endemic area), administer a dose of at least 530 mg/kg prior to the expected measles exposure.
+If a patient is at risk of future measles exposure and receives a dose of less than 530 mg/kg every 3-4 weeks, the dose should be increased to at least 530 mg/kg.
+This should provide a serum level of 240 mIU/mL of measles antibodies for at least 22 days after infusion.
 
 ## 2.2 Preparation and Handling
 

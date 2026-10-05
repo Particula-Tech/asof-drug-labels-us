@@ -16,4 +16,4 @@ Inform patients that ASCENIV:
 - Can interfere with their immune response to live viral vaccines (e.g., measles, mumps, rubella, and varicella).
   Instruct patients to notify their healthcare professional of this potential interaction when they are receiving vaccinations (see Drug Interactions [7]).
 
-Manufactured by ADMA Biologics Boca Raton, FL 33487 USA U.S. License No. 2019 RM-5640 Rev.004
+Manufactured by ADMA Biologics Boca Raton, FL 33487 USA U.S. License No. 2019 RM-5640 Rev.005
