@@ -13,7 +13,7 @@ Apprise pregnant women of the potential risk to the fetus.
 The background rate of major birth defects and miscarriage is unknown for the indicated population.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Data
+### Data
 
 Animal Data
 
@@ -60,7 +60,7 @@ The safety and efficacy of Oziltus have not been established in pediatric patien
 Oziltus is recommended only for treatment of skeletally mature adolescents (aged 12 to 16 years) with giant cell tumor of bone [see Indications and Usage (1.2)].
 Clinically significant hypercalcemia after treatment discontinuation has been reported in pediatric patients with growing skeletons who received denosumab products for giant cell tumor of bone or for unapproved indications [see Adverse Reactions (6.2) and Warnings and Precautions (5.6)].
 
-Denosumab was studied in an open-label trial that enrolled a subset of 19 adolescent patients (aged 12 to 16 years) with giant cell tumor of bone who had reached skeletal maturity, defined by at least 1 mature long bone (e.g., closed epiphyseal growth plate of the humerus), and had a body weight ≥ 45 kg [see Indications and Usage (1.2)andClinical Trials (14.3)].
+Denosumab was studied in an open-label trial that enrolled a subset of 19 adolescent patients (aged 12 to 16 years) with giant cell tumor of bone who had reached skeletal maturity, defined by at least 1 mature long bone (e.g., closed epiphyseal growth plate of the humerus), and had a body weight ≥ 45 kg [see Indications and Usage (1.2) and Clinical Trials (14.3)].
 A total of one of five (20%) evaluable adolescent patients had an objective response by retrospective independent assessment of radiographic response according to modified Response Evaluation Criteria in Solid Tumors (RECIST 1.1).
 The adverse reaction profile and efficacy results appeared to be similar in skeletally mature adolescents and adults [see Adverse Reactions (6.1) and Clinical Trials (14.3)].
 

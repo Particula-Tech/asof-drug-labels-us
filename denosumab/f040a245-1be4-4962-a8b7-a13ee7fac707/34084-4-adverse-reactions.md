@@ -62,7 +62,7 @@ Severe Mineral/Electrolyte Abnormalities
 
 - Severe hypocalcemia (corrected serum calcium less than 7 mg/dL or less than 1.75 mmol/L) occurred in 3.1% of patients treated with denosumab and 1.3% of patients treated with zoledronic acid.
   Of patients who experienced severe hypocalcemia, 33% experienced 2 or more episodes of severe hypocalcemia and 16% experienced 3 or more episodes [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
-- Severe hypophosphatemia (serum phosphorus less than 2 mg/dL or less than 0.6 mmol/L) occurred in 15.4% of patients treated with denosumab and 7.4% of patients treated with zoledronic acid.
+- Severe hypophosphatemia (serum phosphorus less than 2 mg/dL or less than 0.6 mmol/L) occurred in 15% of patients treated with denosumab and 7% of patients treated with zoledronic acid.
 
 Osteonecrosis of the Jaw (ONJ)
 
@@ -103,7 +103,7 @@ Severe hypocalcemia (corrected serum calcium less than 7 mg/dL or less than 1.75
 Osteonecrosis of the Jaw (ONJ)
 
 In the primary treatment phase of Study 20090482, ONJ was confirmed in 4.1% of patients in the denosumab group (median exposure of 16 months; range: 1 to 50) and 2.8% of patients in the zoledronic acid group (median 15 months, range: 1 to 45 months).
-At the completion of the double-blind treatment phase of Study 20090482, the patient-year adjusted incidence (number of events per 100 patient years) of confirmed ONJ in the denosumab group (median exposure of 19.4 months; range 1 to -52) was 2% during the first year of treatment, 5% in the second year, and 4.5% per year thereafter.
+At the completion of the double-blind treatment phase of Study 20090482, the patient-year adjusted incidence (number of events per 100 patient years) of confirmed ONJ in the denosumab group (median exposure of 19.4 months; range: 1 to 52) was 2% during the first year of treatment, 5% in the second year, and 4.5% per year thereafter.
 The median time to ONJ was 18.7 months (range: 1 to 44) [see Warnings and Precautions (5.4)].
 
 Giant Cell Tumor of Bone
@@ -118,7 +118,7 @@ Calcium and vitamin D supplementation was recommended but not required.
 Of the 548 patients who received denosumab, 467 patients were treated with denosumab for ≥ 1 year, 323 patients for ≥ 2 years, and 255 patients for ≥ 3 years.
 The median number of doses received was 33 (range: 4 to 138 doses) and the median number of months on-study was 60 (range: 0 to 140 months).
 Fifty-seven percent of the enrolled patients were women and 82% were White.
-The median age was 33 years (range: 13 to 83 years); a total of 19 patients were skeletally mature adolescents (12 to ≤ 17 years of age).
+The median age was 33 years (range: 13 to 83 years); a total of 19 patients were skeletally mature adolescents (12 to < 17 years of age).
 
 The common adverse reaction profile of denosumab in patients with giant cell tumor of bone was generally similar to that reported in Studies 20050136, 20050244, and 20050103.
 The most common adverse reactions in patients (incidence ≥ 10%) were arthralgia, back pain, pain in extremity, fatigue, headache, nausea, nasopharyngitis, musculoskeletal pain, toothache, vomiting, hypophosphatemia, constipation, diarrhea, and cough.
@@ -136,12 +136,12 @@ Osteonecrosis of the Jaw (ONJ)
 In the pooled analysis of Study 20062004 and Study 20040215, ONJ was confirmed in 7% of patients who received denosumab (median number of doses received: 33; range: 4 to 138 doses).
 
 Study 20140114 (NCT03301857) was a 5-year long term follow-up study for patients (n = 85) who completed Study 20062004.
-In Study 20062004 and Study 20140114 combined, ONJ was confirmed in 7% of patients who received denosumab (median time on trial 62.2 months (range 0-173).
+In Study 20062004 and Study 20140114 combined, ONJ was confirmed in 7% of patients who received denosumab (median time on trial 62.2 months (range 0 to 173).
 The combined patient-year adjusted incidence (number of events per 100 patient years) of confirmed ONJ was 0.2% during the first year of treatment, 1.5% in the second year, 1.8% in the third year, 2.1% in the fourth year, 1.4% in the fifth year, and 1.5% thereafter [see Warnings and Precautions (5.4)].
 
 Atypical Subtrochanteric and Diaphyseal Fracture
 
-In the pooled analysis of Study 20062004 and Study 20040215, atypical femoral fracture was observed in 0.9% of patients who received denosumab (median number of doses received: 33; range: 4-138 doses).
+In the pooled analysis of Study 20062004 and Study 20040215, atypical femoral fracture was observed in 0.9% of patients who received denosumab (median number of doses received: 33; range: 4 to 138 doses).
 
 In Study 20062004 and Study 20140114, the combined incidence of confirmed atypical femoral fracture was 1.3% of patients who received denosumab [see Warnings and Precautions (5.5)].
 
@@ -171,3 +171,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
   Positive re-challenge has been reported.
 - Lichenoid drug eruptions (e.g., lichen planus-like reactions).
 - Alopecia.
+- Injection site reactions including injection site pain.

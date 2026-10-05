@@ -60,7 +60,7 @@ b NR = not reached.
 
 c Superiority testing performed only after denosumab demonstrated to be noninferior to zoledronic acid within trial.
 
-d All skeletal events postrandomization; new events defined by occurrence ≥ 21 days after preceding event.
+d All skeletal events post randomization; new events defined by occurrence ≥ 21 days after preceding event.
 
 e Adjusted p-values are presented.
 

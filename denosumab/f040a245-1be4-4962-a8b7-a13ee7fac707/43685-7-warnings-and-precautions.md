@@ -8,7 +8,7 @@ Patients receiving Oziltus should not receive other denosumab products concomita
 
 Clinically significant hypersensitivity including anaphylaxis has been reported with use of denosumab products.
 Reactions may include hypotension, dyspnea, upper airway edema, lip swelling, rash, pruritus, and urticaria.
-If an anaphylactic or other clinically significant allergic reaction occurs, initiate appropriate therapy and discontinue Oziltus therapy permanently [see Contraindications (4.2)and Adverse Reactions (6.2)].
+If an anaphylactic or other clinically significant allergic reaction occurs, initiate appropriate therapy and discontinue Oziltus therapy permanently [see Contraindications (4.2) and Adverse Reactions (6.2)].
 
 ## 5.3 Hypocalcemia
 
@@ -47,7 +47,7 @@ These fractures can occur anywhere in the femoral shaft from just below the less
 
 Atypical femoral fractures most commonly occur with minimal or no trauma to the affected area.
 They may be bilateral and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
-A number of reports note that patients were also receiving treatment with glucocorticoids (e.g. prednisone) at the time of fracture.
+A number of reports note that patients were also receiving treatment with glucocorticoids (e.g., prednisone) at the time of fracture.
 
 During Oziltus treatment, patients should be advised to report new or unusual thigh, hip, or groin pain.
 Any patient who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
