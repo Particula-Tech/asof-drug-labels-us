@@ -32,6 +32,14 @@ The dosage may be adjusted over time to achieve the desired trough levels and cl
 BIVIGAM dose adjustments may be required in patients who fail to maintain trough total IgG concentrations of at least 500 mg/dL with a target of 600 mg/dL.
 Starting with the second infusion, the dose will be adjusted proportionally, targeting a trough of ≥ 600 mg/dL, based on the previous trough and the associated dose.
 
+Measles Exposure
+
+If a patient has been exposed to measles, it may be prudent to administer an extra dose of IGIV as soon as possible and within 6 days of exposure.
+A dose of 400 mg/kg should provide a serum level> 240 mIU/mL of measles antibodies for at least two weeks.
+
+If a patient is at risk of future measles exposure and receives a dose of less than 530 mg/kg every 3-4 weeks, the dose should be increased to at least 530 mg/kg.
+This should provide a serum level of 240 mIU/mL of measles antibodies for at least 22 days after infusion.
+
 ## 2.3 Administration
 
 It has been reported that the frequency of adverse drug reactions to IGIV increases with the infusion rate.

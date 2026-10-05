@@ -43,4 +43,4 @@ EMC, Encephalomyocarditis virus, model virus for hepatitis A virus.
 
 2 Low pH treatment included in total clearance calculation based on separate mode of inactivation than VRF.
 
-3 EMC total clearance was calculated with the most conservative approach of using the lowest reduction value (>5.70) between the Fraction III precipitation/ filtration and nanofiltration steps.
+3 EMC total clearance was calculated with the most conservative approach of using the lowest reduction value (≥5.70) between the Fraction III precipitation/ filtration and nanofiltration steps.
