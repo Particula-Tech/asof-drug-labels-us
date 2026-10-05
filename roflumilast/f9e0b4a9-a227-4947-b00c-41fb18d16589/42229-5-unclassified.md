@@ -4,4 +4,4 @@ For more information on ZORYVE foam, call 1-805-418-5006 or visit http://www.zor
 
 © 2026 Arcutis Biotherapeutics, Inc. All rights reserved.
 
-v3
+v4

@@ -2,8 +2,10 @@
 
 How Supplied
 
-ZORYVE (roflumilast) topical foam, 0.3%, is a white to off-white foam.
-It is supplied in a 60-gram pressurized aluminum can (NDC 80610-430-60).
+ZORYVE (roflumilast) topical foam, 0.3%, is a white to off-white foam supplied as follows:
+
+- Foam, 0.3%: 3 mg of roflumilast per gram supplied in 60-gram pressurized aluminum cans (NDC 80610-430-60).
+- Foam, 0.3%: 3 mg of roflumilast per gram supplied in 25-gram pressurized aluminum cans (NDC 80610-430-25).
 
 Storage and Handling
 
