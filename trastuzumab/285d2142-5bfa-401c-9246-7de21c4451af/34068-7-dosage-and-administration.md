@@ -26,26 +26,26 @@ Do not substitute HERCESSI TM(trastuzumab-strf) for or with ado-trastuzumab emta
 
 Adjuvant Treatment, Breast Cancer
 
-Administer according to one of the following doses and schedules for a total of 52 weeks of Hercessi therapy:
+Administer according to one of the following doses and schedules for a total of 52 weeks of Hercessi TMtherapy:
 
 During and following paclitaxel, docetaxel, or docetaxel and carboplatin:
 
 - Initial dose of 4 mg/kg as an intravenous infusion over 90 minutes then at 2 mg/kg as an intravenous infusion over 30 minutes weekly during chemotherapy for the first 12 weeks (paclitaxel or docetaxel) or 18 weeks (docetaxel and carboplatin).
-- One week following the last weekly dose of Hercessi, administer Hercessi at 6 mg/kg as an intravenous infusion over 30-90 minutes every three weeks.
+- One week following the last weekly dose of Hercessi TM, administer Hercessi TMat 6 mg/kg as an intravenous infusion over 30-90 minutes every three weeks.
 
 As a single agent within three weeks following completion of multi-modality, anthracycline-based chemotherapy regimens:
 
 - Initial dose at 8 mg/kg as an intravenous infusion over 90 minutes
-- Subsequent doses at 6 mg/kg as an intravenous infusion over 30-90 minutes every three weeks [see Dosage and Administration (2.3)].
+- Subsequent doses at 6 mg/kg as an intravenous infusion over 30-90 minutes every three weeks
 - Extending adjuvant treatment beyond one year is not recommended [see Adverse Reactions (6.1)].
 
-Metastatic Treatment, Breast Cancer
+Metastatic Breast Cancer
 
-- Administer Hercessi, alone or in combination with paclitaxel, at an initial dose of 4 mg/kg as a 90-minute intravenous infusion followed by subsequent once weekly doses of 2 mg/kg as 30-minute intravenous infusions until disease progression.
+- Administer Hercessi TM, alone or in combination with paclitaxel, at an initial dose of 4 mg/kg as a 90-minute intravenous infusion followed by subsequent once weekly doses of 2 mg/kg as 30-minute intravenous infusions until disease progression.
 
 Metastatic Gastric Cancer
 
-- Administer Hercessi at an initial dose of 8 mg/kg as a 90-minute intravenous infusion followed by subsequent doses of 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks until disease progression (see Dosage and Administration2.3)].
+- Administer Hercessi TMat an initial dose of 8 mg/kg as a 90-minute intravenous infusion followed by subsequent doses of 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks until disease progression
 
 ## 2.4 Important Dosing Considerations
 
@@ -55,7 +55,7 @@ If the patient has missed a dose of HERCESSI TMby one week or less, then the usu
 Do not wait until the next planned cycle.
 Subsequent HERCESSI TMmaintenance doses should be administered 7 days or 21 days later according to the weekly or three-weekly schedules, respectively.
 
-If the patient has missed a dose of HERCESSI TMby more than one week, a re-loading dose of HERCESSI TMshould be administered over approximately 90 minutes (weekly schedule: 4 mg/kg; three- weekly schedule: 8 mg/kg) as soon as possible.
+If the patient has missed a dose of HERCESSI TMby more than one week, a re-loading dose of HERCESSI TMshould be administered over approximately 90 minutes (weekly schedule: 4 mg/kg; once every three week schedule: 8 mg/kg) as soon as possible.
 Subsequent HERCESSI TMmaintenance doses (weekly schedule: 2 mg/kg; three-weekly schedule 6 mg/kg) should be administered 7 days or 21 days later according to the weekly or three-weekly schedules, respectively.
 
 ## 2.5 Dosage Modifications for Adverse Reactions
@@ -75,22 +75,32 @@ To prevent medication errors, it is important to check the vial labels to ensure
 
 420 mg Multiple-dose vial
 
-Reconstitution Reconstitute each 420 mg vial of HERCESSI TMwith 20 mL of Bacteriostatic Water for Injection (BWFI), containing 0.9% to 1.1% benzyl alcohol as a preservative (not supplied) to yield a multiple-dose solution containing 21 mg/mL trastuzumab-strf that delivers 20 mL (420 mg trastuzumab-strf).
+Reconstitution Reconstitute each 420 mg vial of HERCESSI TMwith 20 mL of Bacteriostatic Water for Injection (BWFI), containing 0.9% to 1.1% benzyl alcohol as a preservative to yield a multiple-dose solution containing 21 mg/mL trastuzumab-strf that delivers 20 mL (420 mg trastuzumab-strf).
 In patients with known hypersensitivity to benzyl alcohol, reconstitute with 20 mL of Sterile Water for Injection (SWFI) without preservative to yield a one-time use solution.
-Use appropriate aseptic technique when performing the following reconstitution steps: • Using a sterile syringe, slowly inject the 20 mL of diluent (not supplied) into the vial containing the lyophilized powder of HERCESSI TM, which has a cake-like appearance.
-The stream of diluent should be directed into the cake.
-The reconstituted vial yields a solution for multiple-dose use, containing 21 mg/mL trastuzumab-strf. • Swirl the vial gently to aid reconstitution.
-DO NOT SHAKE. • Slight foaming of the product may be present upon reconstitution.
-Allow the vial to stand undisturbed for approximately 5 minutes. • Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-Inspect visually for particulates and discoloration.
-The solution should be free of visible particulates, clear to slightly opalescent and colorless to pale yellow. • Store reconstituted HERCESSI TMin the refrigerator at 2°C to 8°C (36°F to 46°F); discard unused HERCESSI TMafter 28 days.
-If HERCESSI TMis reconstituted with SWFI without preservative, use immediately and discard any unused portion.
-Do not freeze.
+Use appropriate aseptic technique when performing the following reconstitution steps:
 
-Dilution • Determine the dose (mg) of HERCESSI TM[see Dosage and Administration (2.2)].Calculate the volume of the 21 mg/mL reconstituted HERCESSI TMsolution needed, withdraw this amount from the vial and add it to an infusion bag containing 250 mL of 0.9% Sodium Chloride Injection.
-DO NOT USE DEXTROSE (5%) SOLUTION. • Gently invert the bag to mix the solution. • The solution of HERCESSI TMfor infusion diluted in polyvinylchloride or polypropylene bags containing 0.9% Sodium Chloride Injection, should be stored at 2°C to 8°C (36°F to 46°F) for no more than 24 hours prior to use.
-This storage time is additional to the time allowed for the reconstituted vials.
-Do not freeze.
+- Using a sterile syringe, slowly inject the 20 mL of diluent into the vial containing the lyophilized powder of HERCESSI TM, which has a cake-like appearance.
+  The stream of diluent should be directed into the cake.
+  The reconstituted vial yields a solution for multiple-dose use, containing 21 mg/mL trastuzumab-strf.
+- Swirl the vial gently to aid reconstitution.
+  DO NOT SHAKE.
+- Slight foaming of the product may be present upon reconstitution.
+  Allow the vial to stand undisturbed for approximately 5 minutes.
+- Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+  Inspect visually for particulates and discoloration.
+  The solution should be free of visible particulates, clear to slightly opalescent and colorless to pale yellow.
+- Store reconstituted HERCESSI TMin the refrigerator at 2°C to 8°C (36°F to 46°F); discard unused HERCESSI TMafter 28 days.
+  If HERCESSI TMis reconstituted with SWFI without preservative, use immediately and discard any unused portion.
+  Do not freeze.
+
+Dilution
+
+- Determine the dose (mg) of HERCESSI TM[see Dosage and Administration (2.2)].Calculate the volume of the 21 mg/mL reconstituted HERCESSI TMsolution needed, withdraw this amount from the vial and add it to an infusion bag containing 250 mL of 0.9% Sodium Chloride Injection.
+  DO NOT USE DEXTROSE (5%) SOLUTION.
+- Gently invert the bag to mix the solution.
+- The solution of HERCESSI TMfor infusion diluted in polyvinylchloride or polypropylene bags containing 0.9% Sodium Chloride Injection, should be stored at 2°C to 8°C (36°F to 46°F) for no more than 24 hours prior to use.
+  This storage time is additional to the time allowed for the reconstituted vials.
+  Do not freeze.
 
 150 mg Single-dose vial
 

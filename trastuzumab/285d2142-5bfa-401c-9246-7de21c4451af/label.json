@@ -6,11 +6,18 @@
   "labeler": "Accord BioPharma Inc.",
   "package_ndcs": [
     "69448-015-05",
-    "69448-016-11"
+    "69448-016-11",
+    "69448-034-05",
+    "69448-035-63"
   ],
   "products": [
     {
       "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "trastuzumab-strf",
+      "name": "HERCESSI"
+    },
+    {
+      "form": "KIT",
       "generic": "trastuzumab-strf",
       "name": "HERCESSI"
     }

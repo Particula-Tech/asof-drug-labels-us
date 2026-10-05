@@ -1,13 +1,16 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-420 mg Multiple-dose vial HERCESSI TM(trastuzumab-strf) for injection 420 mg/vial is supplied in a multiple-dose vial as a white to pale yellow lyophilized sterile powder with a cake-like appearance, under vacuum.
-Each carton contains one multiple-dose vial of HERCESSI TM.
-NDC 69448-016-11.
+HERCESSI TM(trastuzumab-strf) for injection is a white to pale yellow lyophilized sterile powder with a cake-like appearance, under vacuum supplied as follows:
 
-150 mg Single-dose vial HERCESSI TM(trastuzumab-strf) for injection 150 mg/vial i s supplied in a single-dose vial as a preservative-free, white to pale yellow lyophilized sterile powder with a cake-like appearance, under vacuum.
-Each carton contains one single-dose vial of HERCESSI TM.
-NDC 69448-015-05.
+- Carton containing one HERCESSI vial only.
+- Carton containing one HERCESSI vial and one vial of 20 mL Bacteriostatic Water for Injection (BWFI), USP, containing 1.1% benzyl alcohol as a preservative.
 
-Store HERCESSI TMvials refrigerated at 2°C to 8°C (36°F to 46°F) in the original carton until time of reconstitution.
+| Strength | Carton Contents | NDC Number |
+| --- | --- | --- |
+| 150 mg | Carton of one single-dose vial of 150 mg HERCESSI TM. | 69448-015-05 |
+| 420 mg | Carton of one multiple-dose vial of 420 mg HERCESSI TM. | 69448-016-11 |
+|  | Carton of one multiple-dose vial of 420 mg HERCESSI TMco-packaged with one vial of 20 mL Bacteriostatic Water for Injection (BWFI), USP, containing 1.1% benzyl alcohol as a preservative. | 69448-035-63 |
+
+Store HERCESSI TMvials refrigerated at 2°C to 8°C (36°F to 46°F) in the original carton to protect from light until time of reconstitution.
 Do not freeze.
-Do not shake
+Do not shake.

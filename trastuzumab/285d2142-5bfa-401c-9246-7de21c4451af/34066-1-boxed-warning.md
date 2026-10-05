@@ -1,7 +1,5 @@
 # WARNING: CARDIOMYOPATHY, INFUSION REACTIONS, EMBRYO-FETAL TOXICITY, and PULMONARY TOXICITY
 
-WARNING: CARDIOMYOPATHY, INFUSION REACTIONS, EMBRYO-FETAL TOXICITY, and PULMONARY TOXICITY
-
 Cardiomyopathy Administration of trastuzumab products can result in sub-clinical and clinical cardiac failure.
 The incidence and severity was highest in patients receiving trastuzumab with anthracycline-containing chemotherapy regimens.
 Evaluate left ventricular function in all patients prior to and during treatment with HERCESSI TM.
