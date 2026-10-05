@@ -84,7 +84,7 @@ Clinical Success Rates by Renal Function and Treatment Group in Phase 3 cSSSI Tr
 
 | CLCR | Success Rate n/N (%) |  |
 | --- | --- | --- |
-|  | Daptomycin for Injection for Injection 4 mg/kg every 24h | Comparator |
+|  | Daptomycin for Injection 4 mg/kg every 24h | Comparator |
 | 50-70 mL/min | 25/38 (66%) | 30/48 (63%) |
 | 30-<50 mL/min | 7/15 (47%) | 20/35 (57%) |
 
