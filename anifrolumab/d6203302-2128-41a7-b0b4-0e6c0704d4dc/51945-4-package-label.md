@@ -20,7 +20,7 @@ AstraZeneca
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 0310-3080-01 Rx Only
+NDC 0310-3080-50 Rx Only
 
 Saphnelo® Pen 120 mg/0.8 mL
 
@@ -30,9 +30,15 @@ Injection
 
 For Subcutaneous Injection Only
 
+Use one pen every week
+
+Keep SAPHNELO PEN in original carton to protect from light.
+
 Do not shake, freeze, or expose to heat.
 
-1 single-dose autoinjector
+Dispense in this sealed carton.
+
+4 single-dose autoinjectors
 
 AstraZeneca
 
@@ -58,11 +64,13 @@ See prescribing information.
 Single-dose vial.
 Discard unused portion.
 
-Store refrigerated at 2oC to 8oC (36oF to 46oF)
+Store refrigerated at 2oC to 8oC (36oF to 46oF).
 
 Keep vial in original carton to protect from light.
 
 Do not shake or freeze.
+
+Dispense in this sealed carton.
 
 1 single-dose vial
 

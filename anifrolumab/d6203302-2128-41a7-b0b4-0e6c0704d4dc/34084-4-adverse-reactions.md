@@ -14,6 +14,7 @@ Adverse Reactions with Intravenous Administration
 
 The safety of SAPHNELO was assessed in adult patients with moderate to severe SLE who received SAPHNELO 300 mg by intravenous infusion every 4 weeks (N=459) for 52 weeks, compared to placebo (N=466) in controlled clinical trials (Trials 1, 2 and 3) [see Clinical Studies (14.1)].
 The population studied had a mean age of 41 years (range: 18 to 69), of which 93% were female, 60% White, 13% Black/African American, and 10% Asian.
+All patients received standard therapy.
 
 In the controlled-clinical trials, adverse reactions, irrespective of causality, were reported in 87% of patients receiving SAPHNELO and 79% of patients receiving placebo.
 
@@ -30,7 +31,6 @@ Table 1 Adverse Reactions Occurring in ≥2% of Adults with Moderate to Severe S
 | Cough | 5.0 | 3.2 |
 | Respiratory tract infectionRespiratory tract infection (including Respiratory tract infection, Respiratory tract infection viral, Respiratory tract infection bacterial) | 3.3 | 1.5 |
 | Hypersensitivity | 2.8 | 0.6 |
-| All patients received standard therapy. |  |  |
 
 Long-term Safety
 

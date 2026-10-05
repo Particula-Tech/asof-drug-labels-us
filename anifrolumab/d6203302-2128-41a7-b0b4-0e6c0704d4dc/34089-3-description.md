@@ -7,7 +7,7 @@ Intravenous Infusion
 
 SAPHNELO (anifrolumab-fnia) injection is a sterile, preservative‑free, clear to opalescent, colorless to slightly yellow, solution in a single-dose vial for intravenous use.
 
-Each 2 mL single-dose vial contains 300 mg (150 mg/mL) of anifrolumab-fnia, L-histidine (3 mg), L-histidine hydrochloride monohydrate (6 mg), L-lysine hydrochloride (18 mg), polysorbate 80 (1 mg), trehalose dihydrate (98 mg), and Water for Injection, USP.
+Each 2 mL single-dose vial contains 300 mg (150 mg/mL) of anifrolumab-fnia, histidine (3 mg), L-histidine hydrochloride monohydrate (6 mg), lysine hydrochloride (18 mg), polysorbate 80 (1 mg), trehalose (89 mg), and Water for Injection, USP.
 The pH is 5.9.
 
 Subcutaneous Injection
