@@ -1,8 +1,8 @@
 # Patient Package Insert
 
-PATIENT INFORMATION ALTRENO® (al-TREN-oh) (tretinoin) lotion, 0.05% for topical use
+PATIENT INFORMATION ALTRENO® (al-TREN-oh) (tretinoin) Lotion, 0.05% for topical use
 
-Important information: ALTRENO is for use on skin only.
+Important information: ALTRENO® is for use on skin only.
 Do not use ALTRENO in your eyes, mouth, the corners of your nose, or vagina.
 
 What is ALTRENO?
@@ -96,12 +96,13 @@ Manufactured by: Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
 
 For more information, call 1-800-321-4576.
 
-ALTRENO is a trademark of Bausch Health Companies Inc. or its affiliates.
+Patented.
+See https://patents.ortho-dermatologics.com for US patent information.
 
-© 2020 Bausch Health Companies Inc. or its affiliates
+ALTRENO is a registered trademark of Bausch Health Companies Inc. or its affiliates.
+
+© 2026 Bausch Health Companies Inc. or its affiliates
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-9650303
-
-Revised: 03/2020
+9650304 Revised: 09/2026

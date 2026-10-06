@@ -11,7 +11,7 @@ Adverse reactions reported by ≥1% of subjects treated with ALTRENO and more fr
 
 Table 1: Adverse Reactions Reported by ≥1% of Subjects Treated with ALTRENO and More Frequently than Vehicle
 
-|  | ALTRENO N=767 | Vehicle N=783 |
+|  | ALTRENO (N=767) | Vehicle (N=783) |
 | --- | --- | --- |
 | Adverse Reactions n (%) |  |  |
 | Application site dryness | 29 (4) | 1 (<1) |
@@ -25,7 +25,7 @@ The percentage of subjects who were assessed to have these signs and symptoms at
 
 Table 2: Application Site Tolerability Reactions at Any Post Baseline Visit
 
-|  | ALTRENON=760Mild/Mod/Severe | VehicleN=782Mild/Mod/Severe |
+|  | ALTRENO(N=760)Mild/Mod/Severe | Vehicle(N=782)Mild/Mod/Severe |
 | --- | --- | --- |
 | Erythema | 51% | 44% |
 | Scaling | 49% | 30% |

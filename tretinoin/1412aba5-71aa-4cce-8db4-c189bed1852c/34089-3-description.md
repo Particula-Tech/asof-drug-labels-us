@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-ALTRENO (tretinoin) lotion is an opaque, pale yellow lotion containing 0.05% tretinoin by weight for topical administration.
+ALTRENO® (tretinoin) Lotion is an opaque, pale yellow lotion containing 0.05% tretinoin by weight for topical administration.
 
 Chemically, tretinoin is all-trans-retinoic acid, also known as (all-E)-3,7-dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2,4,6,8-nonatetraenoic acid.
 It is a member of the retinoid class of compounds and a metabolite of vitamin A. Tretinoin has the following chemical structure:

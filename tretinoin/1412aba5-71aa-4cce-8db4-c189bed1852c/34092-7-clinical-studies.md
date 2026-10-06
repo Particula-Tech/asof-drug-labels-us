@@ -8,7 +8,7 @@ Table 3 lists the efficacy results for trials 1 (NCT02491060) and 2 (NCT02535871
 
 Table 3: Efficacy Results at Week 12
 
-| Trial 1 | ALTRENO N=406 | Vehicle N=414 |
+| Trial 1 | ALTRENO (N=406) | Vehicle (N=414) |
 | --- | --- | --- |
 | EGSS |  |  |
 | Clear or Almost Clear and | 16.5% | 6.9% |
@@ -19,7 +19,7 @@ Table 3: Efficacy Results at Week 12
 | Inflammatory Facial Lesions |  |  |
 | Mean Absolute Reduction | 13.1 | 10.2 |
 | Mean Percent Reduction | 50.9% | 40.4% |
-| Trial 2 | ALTRENO N=413 | Vehicle N=407 |
+| Trial 2 | ALTRENO (N=413) | Vehicle (N=407) |
 | EGSS |  |  |
 | Clear or Almost Clear and 2-Grade Reduction from Baseline | 19.8% | 12.5% |
 | Non-Inflammatory Facial Lesions |  |  |
