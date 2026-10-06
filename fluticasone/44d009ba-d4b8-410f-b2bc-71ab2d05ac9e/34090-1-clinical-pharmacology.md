@@ -92,10 +92,10 @@ Plasma fluticasone propionate concentrations following fluticasone propionate aq
 Fluticasone propionate Cmax and AUC(0-τ) increased to 318 pg/mL (range: 110 to 648 pg/mL) and 3,102.6 pg•h/mL (range: 1,207.1 to 5,662.0 pg•h/mL), respectively, after coadministration of ritonavir with fluticasone propionate aqueous nasal spray.
 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in serum cortisol AUC.
 
-- Ketoconazole: In a placebo-controlled crossover trial in 8 healthy adult volunteers, coadministration of a single dose of orally inhaled fluticasone propionate (1,000 mcg) with multiple doses of ketoconazole (200 mg) to steady state resulted in increased plasma fluticasone propionate exposure, a reduction in plasma cortisol AUC, and no effect on urinary excretion of cortisol.
+Ketoconazole: In a placebo-controlled crossover trial in 8 healthy adult volunteers, coadministration of a single dose of orally inhaled fluticasone propionate (1,000 mcg) with multiple doses of ketoconazole (200 mg) to steady state resulted in increased plasma fluticasone propionate exposure, a reduction in plasma cortisol AUC, and no effect on urinary excretion of cortisol.
 
 Following orally inhaled fluticasone propionate alone, AUC(2-last) averaged 1.559 ng•h/mL (range: 0.555 to 2.906 ng•h/mL) and AUC(2-∞) averaged 2.269 ng•h/mL (range: 0.836 to 3.707 ng•h/mL).
 Fluticasone propionate AUC(2-last) and AUC(2-∞) increased to 2.781 ng•h/mL (range: 2.489 to 8.486 ng•h/mL) and 4.317 ng•h/mL (range: 3.256 to 9.408 ng•h/mL), respectively, after coadministration of ketoconazole with orally inhaled fluticasone propionate.
 This increase in plasma fluticasone propionate concentration resulted in a decrease (45%) in serum cortisol AUC.
 
-- Erythromycin: In a multiple-dose drug interaction trial, coadministration of orally inhaled fluticasone propionate (500 mcg twice daily) and erythromycin (333 mg 3 times daily) did not affect fluticasone propionate pharmacokinetics.
+Erythromycin: In a multiple-dose drug interaction trial, coadministration of orally inhaled fluticasone propionate (500 mcg twice daily) and erythromycin (333 mg 3 times daily) did not affect fluticasone propionate pharmacokinetics.
