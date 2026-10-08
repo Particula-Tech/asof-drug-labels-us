@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA215701"
+  ],
+  "inn": "sugammadex",
+  "labeler": "Shandong New Time Pharmaceutical Co., Ltd.",
+  "package_ndcs": [
+    "42677-311-01",
+    "42677-311-10",
+    "42677-312-01",
+    "42677-312-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "sugammadex",
+      "name": "Sugammadex"
+    }
+  ],
+  "setid": "56400560-a2df-4126-b424-9e4b91e53a8b",
+  "source": "dailymed"
+}
