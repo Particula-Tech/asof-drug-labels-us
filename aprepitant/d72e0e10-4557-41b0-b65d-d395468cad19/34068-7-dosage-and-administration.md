@@ -40,7 +40,7 @@ A 50% dosage reduction of dexamethasone is recommended to account for a drug int
 
 The recommended oral dosage of aprepitant capsules in adults is 40 mg within 3 hours prior to induction of anesthesia.
 
-## 2.4 Administration Instructions
+## 2.3 Administration Instructions
 
 Aprepitant capsules can be administered with or without food.
 

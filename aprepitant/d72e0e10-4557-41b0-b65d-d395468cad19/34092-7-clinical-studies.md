@@ -14,7 +14,7 @@ Of the 550 patients who were randomized to receive the aprepitant regimen, 42% w
 The aprepitant-treated patients in these clinical studies ranged from 14 to 84 years of age, with a mean age of 56 years.
 A total of 170 patients were 65 years or older, with 29 patients being 75 years or older.
 
-Table 10: HEC Treatment Regimens – Studies 1 and 2*
+Table 12: HEC Treatment Regimens – Studies 1 and 2*
 
 |  | Day 1 | Day 2 | Day 3 | Day 4 |
 | --- | --- | --- | --- | --- |
@@ -53,7 +53,7 @@ A summary of the key study results from each individual study analysis is shown 
 In both studies, a statistically significantly higher proportion of patients receiving the aprepitant regimen in Cycle 1 had a complete response in the overall phase (primary endpoint), compared with patients receiving standard therapy.
 A statistically significant difference in complete response in favor of the aprepitant regimen was also observed when the acute phase and the delayed phase were analyzed separately.
 
-Table 11: Percent of Patients Receiving HEC Responding by Treatment Group and Phase — Cycle 1
+Table 13: Percent of Patients Receiving HEC Responding by Treatment Group and Phase — Cycle 1
 
 |  | Study 1 |  |  | Study 2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -116,7 +116,7 @@ Of the 438 patients who were randomized to receive the aprepitant regimen, 99.5%
 Of these, approximately 80% were White, 8% Black, 8% Asian, 4% Hispanic, and less than 1% Other.
 The aprepitant-treated patients in this clinical study ranged from 25 to 78 years of age, with a mean age of 53 years; 70 patients were 65 years or older, with 12 patients being over 74 years.
 
-Table 12: MEC Treatment Regimens – Studies 3 and 4*
+Table 15: MEC Treatment Regimens – Studies 3 and 4*
 
 |  | Day 1 | Day 2 | Day 3 |
 | --- | --- | --- | --- |
@@ -140,7 +140,6 @@ The 12 mg dose of dexamethasone on Day 1 reflects a dosage adjustment to account
 The antiemetic activity of aprepitant was evaluated based on the following endpoints in which emetic episodes included vomiting, retching, or dry heaves:
 
 - Primary endpoint:
-- Other prespecified endpoints:
 
 - •complete response (defined as no emetic episodes and no use of rescue therapy as recorded in patient diaries) in the overall phase (0 to 120 hours post-chemotherapy)
 - Other prespecified endpoints:
@@ -155,7 +154,7 @@ In Study 3, a statistically significantly (p=0.015) higher proportion of patient
 The difference between treatment groups was primarily driven by the "No Emesis Endpoint", a principal component of this composite primary endpoint.
 In addition, a higher proportion of patients receiving the aprepitant regimen in Cycle 1 had a complete response during the acute (0 to 24 hours) and delayed (25 to 120 hours) phases compared with patients receiving standard therapy; however, the treatment group differences failed to reach statistical significance, after multiplicity adjustments.
 
-Table 13: Percent of Patients Receiving MEC Responding by Treatment Group and Phase — Cycle 1 of Study 3
+Table 16: Percent of Patients Receiving MEC Responding by Treatment Group and Phase — Cycle 1 of Study 3
 
 | ENDPOINTS | Aprepitant Regimen (N=433)* % | Standard Therapy (N=424)* % | p-Value |
 | --- | --- | --- | --- |
@@ -202,7 +201,7 @@ In a subgroup analysis by tumor type, a numerically higher proportion of patient
 For sex, the difference in complete response rates between the aprepitant and standard regimen groups was 14% in females (64.5% and 50.3%, respectively) and 4% in males (82.2% and 78.2%, respectively) during the overall phase.
 A similar difference for sex was observed for the no vomiting endpoint.
 
-Table 14: Percent of Patients Receiving MEC Responding by Treatment Group — Cycle 1 of Study 4
+Table 17: Percent of Patients Receiving MEC Responding by Treatment Group — Cycle 1 of Study 4
 
 | ENDPOINTS | Aprepitant Regimen (N=430)* % | Standard Therapy (N=418)* % | p-Value |
 | --- | --- | --- | --- |
@@ -232,10 +231,10 @@ Table 18: HEC and MEC Treatment Regimens* for Pediatric Patients 6 Months to 17 
 |  | Day 1 | Day 2 | Day 3 |
 | --- | --- | --- | --- |
 | CINV aprepitant Regimen |  |  |  |
-| Pediatric Patients 6 Months to less than 12 Years of Age | 3 mg/kg body weight oral suspension | 2 mg/kg body weight oral suspension | 2 mg/kg body weight oral suspension |
+| Pediatric Patients 6 Months to less than 12 Years of Age† | 3 mg/kg body weight oral suspension | 2 mg/kg body weight oral suspension | 2 mg/kg body weight oral suspension |
 | Pediatric Patients 12 to 17 Years of Age† | 125 mg capsule | 80 mg capsule | 80 mg capsule |
-| Ondansetron | Per standard of care | none | none |
-| CINV Control Regimen |  |  |  |
+| Ondansetron | Per standard of care‡ | none | none |
+| CINV Control Regimen§ |  |  |  |
 | Ondansetron | Per standard of care‡ | none | none |
 
 - *Intravenous dexamethasone was permitted at the discretion of the physician.
@@ -244,7 +243,9 @@ Table 18: HEC and MEC Treatment Regimens* for Pediatric Patients 6 Months to 17 
 - †Aprepitant was administered 1 hour prior to chemotherapy treatment on Days 1, 2, and 3.
   If no chemotherapy was given on Days 2 and 3, aprepitant was administered in the morning.
 
-‡Ondansetron was administered 30 minutes prior to chemotherapy on Day 1§aprepitant placebo was used to maintain blinding.
+‡Ondansetron was administered 30 minutes prior to chemotherapy on Day 1
+
+§aprepitant placebo was used to maintain blinding.
 
 The antiemetic activity of aprepitant was evaluated over a 5-day (120 hour) period following the initiation of chemotherapy on Day 1.
 The primary endpoint in Study 5 was complete response in the delayed phase (25 to 120 hours following chemotherapy) in Cycle 1.
@@ -266,9 +267,9 @@ Table 19: Percent of Patients Who Responded to Treatment by Treatment Group and 
 |  | Aprepitant Regimen n/m (%) | Control Regimen n/m (%) |
 | --- | --- | --- |
 | PRIMARY ENDPOINT |  |  |
-| Complete Response - Delayed phase | 77/152 (50.7) | 39/150 (26.0) |
+| Complete Response - Delayed phase | 77/152 (50.7) † | 39/150 (26.0) |
 | OTHER PRESPECIFIED ENDPOINTS |  |  |
-| Complete Response* – Acute phase | 101/152 (66.4) | 78/150 (52.0) |
+| Complete Response* – Acute phase | 101/152 (66.4) ‡ | 78/150 (52.0) |
 | Complete Response* – Overall phase | 61/152 (40.1)† | 30/150 (20.0) |
 
 *Complete Response = No vomiting or retching and no use of rescue medication.
