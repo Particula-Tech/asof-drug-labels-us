@@ -1,13 +1,9 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-The oral LD50 of isotretinoin is greater than 4000 mg/kg in rats and mice (>600 times the recommended clinical dose of 1 mg/kg/day after normalization of the rat dose for total body surface area and >300 times the recommended clinical dose of 1 mg/kg/day after normalization of the mouse dose for total body surface area) and is approximately 1960 mg/kg in rabbits (653 times the recommended clinical dose of 1 mg/kg/day after normalization for total body surface area).
-In humans, overdosage has been associated with vomiting, facial flushing, cheilosis, abdominal pain, headache, dizziness, and ataxia.
-These symptoms quickly resolve without apparent residual effects.
+Isotretinoin overdosage has been associated with vomiting, facial flushing, cheilosis, abdominal pain, headache, dizziness, and ataxia.
 
-Zenatane causes life threatening birth defects at any dosage (see Boxed CONTRAINDICATIONS AND WARNINGS).
-Patients who can become pregnant who present with isotretinoin overdose must be evaluated for pregnancy.
-Patients who are pregnant should receive counseling about the risks to the fetus, as described in the Boxed CONTRAINDICATIONS AND WARNINGS.
-Non-pregnant patients must be warned to avoid pregnancy for at least one month and receive contraceptive counseling as described in PRECAUTIONS.
-Educational materials for such patients can be obtained by calling the manufacturer.
-Because an overdose would be expected to result in higher levels of isotretinoin in semen than found during a normal treatment course, male patients should use a condom, or avoid reproductive sexual activity with a patient who is or might become pregnant, for one month after the overdose.
-All patients with isotretinoin overdose should not donate blood for at least one month.
+Evaluate patients who can become pregnant who present with an isotretinoin overdosage for pregnancy.
+Because an overdosage would be expected to result in higher levels of isotretinoin in semen than found during a normal treatment course, instruct male patients treated with Zenatane to use a condom, or avoid reproductive sexual activity with a patient who is or might become pregnant, for 1 month after the overdose.
+
+Instruct all patients with Zenatane overdose not donate blood for at least 1 month.
+If an overdose occurs, consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.

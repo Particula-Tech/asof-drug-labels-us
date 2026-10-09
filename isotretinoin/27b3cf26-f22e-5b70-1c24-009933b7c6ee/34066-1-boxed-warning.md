@@ -1,23 +1,9 @@
-CONTRAINDICATIONS AND WARNINGS
+# WARNING: EMBRYO-FETAL TOXICITY – CONTRAINDICATED IN PREGNANCY
 
-ZenataneTM must not be used by patients who are or may become pregnant.
-There is an extremely high risk that life-threatening birth defects will result if pregnancy occurs while taking Zenatane in any amount, even for short periods of time.
+Zenatane can cause life-threatening birth defects and is contraindicated in pregnancy.
+There is an extremely high risk that life-threatening birth defects will result if pregnancy occurs while taking any amount of Zenatane even for short periods of time.
 Potentially any fetus exposed during pregnancy can be affected.
-There are no accurate means of determining whether an exposed fetus has been affected.
+There are no accurate means of determining prenatally whether an exposed fetus has been affected.
+If pregnancy occurs, discontinue Zenatane immediately and refer the patient to an Obstetrician-Gynecologist experienced in reproductive toxicity for further evaluation and counseling [see Contraindications(4), Warnings and Precautions (5.1), and Use in Specific Populations (8.1)].
 
-Birth defects which have been documented following Zenatane exposure include abnormalities of the face, eyes, ears, skull, central nervous system, cardiovascular system, and thymus and parathyroid glands.
-Cases of IQ scores less than 85 with or without other abnormalities have been reported.
-There is an increased risk of spontaneous abortion, and premature births have been reported.
-
-Documented external abnormalities include: skull abnormality; ear abnormalities (including anotia, micropinna, small or absent external auditory canals); eye abnormalities (including microphthalmia); facial dysmorphia; cleft palate.
-Documented internal abnormalities include: CNS abnormalities (including cerebral abnormalities, cerebellar malformation, hydrocephalus, microcephaly, cranial nerve deficit); cardiovascular abnormalities; thymus gland abnormality; parathyroid hormone deficiency.
-In some cases death has occurred with certain of the abnormalities previously noted.
-
-If pregnancy does occur during treatment of a patient who is taking Zenatane, Zenatane must be discontinued immediately and the patient should be referred to an Obstetrician-Gynecologist experienced in reproductive toxicity for further evaluation and counseling.
-
-Special Prescribing Requirements
-
-Because of Zenatane’s teratogenicity and to minimize fetal exposure, Zenatane is approved for marketing only under a special restricted distribution program approved by the Food and Drug Administration.
-This REMS is called iPLEDGE®.
-Zenatane must only be prescribed by prescribers who are enrolled and activated with the iPLEDGE REMS.
-Zenatane must only be dispensed by a pharmacy enrolled and activated with iPLEDGE, and must only be dispensed to patients who are enrolledand meet all the requirements of iPLEDGE(see PRECAUTIONS).
+Because of the risk of embryo-fetal toxicity, Zenatane is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called the iPLEDGE REMS [see Warnings and Precautions (5.2)].

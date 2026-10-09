@@ -1,40 +1,76 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Zenatane should be administered with a meal (see PRECAUTIONS: Information for Patients).
+{template}
 
-The recommended dosage range for Zenatane is 0.5 to 1 mg/kg/day given in two divided doses with food for 15 to 20 weeks.
-In studies comparing 0.1, 0.5, and 1 mg/kg/day,8 it was found that all dosages provided initial clearing of disease, but there was a greater need for retreatment with the lower dosages.
-During treatment, the dose may be adjusted according to response of the disease and/or the appearance of clinical side effects — some of which may be dose related.
-Adult patients whose disease is very severe with scarring or is primarily manifested on the trunk may require dose adjustments up to 2 mg/kg/day, as tolerated.
-Failure to take Zenatane with food will significantly decrease absorption.
-Before upward dose adjustments are made, the patients should be questioned about their compliance with food instructions.
+## 2.1 Evaluations Prior to Prescribing and Use of Zenatane
 
-The safety of once daily dosing with Zenatane has not been established.
-Once daily dosing is not recommended.
+In patients who can get pregnant, only prescribe Zenatane after verification and documentation that they are not pregnant [see Contraindications (4) and Warnings and Precautions (5.1, 5.2)].
+For the detailed requirements prior to prescribing Zenatane, [see Use in Specific Populations (8.3)]
 
-If the total nodule count has been reduced by more than 70% prior to completing 15 to 20 weeks of treatment, the drug may be discontinued.
-After a period of 2 months or more off therapy, and if warranted by persistent or recurring severe nodular acne, a second course of therapy may be initiated.
+Prior to Zenatane use in all patients, complete the following laboratory testing:
+
+- A fasting lipid profile including triglycerides [see Warnings and Precautions (5.7, 5.14)].
+- Liver function tests [see Warnings and Precautions (5.9, 5.14)].
+
+## 2.2 Recommended Dosage
+
+The recommended dosage range for Zenatane is 0.5 to 1 mg/kg/day given in two divided doses with food for 15 to 20 weeks (see Tables 1 and 2, respectively) [see Clinical Pharmacology (12.3)].
+
+Table 1: Zenatane: Recommended Divided Doses (0.5 mg/kg/day dosage)
+
+| Body Weight | First Dose | Second Dose |
+| --- | --- | --- |
+| 40 kg | 10 mg | 10 mg |
+| 50 kg | 12.5 mg | 12.5 mg |
+| 60 kg | 15 mg | 15 mg |
+| 70 kg | 17.5 mg | 17.5 mg |
+| 80 kg | 20 mg | 20 mg |
+| 90 kg | 22.5 mg | 22.5 mg |
+| 100 kg | 25 mg | 25 mg |
+
+Table 2: Zenatane: Recommended Divided Doses (1 mg/kg/day dosage)
+
+| Body Weight | First Dose | Second Dose |
+| --- | --- | --- |
+| 40 kg | 20 mg | 20 mg |
+| 50 kg | 25 mg | 25 mg |
+| 60 kg | 30 mg | 30 mg |
+| 70 kg | 35 mg | 35 mg |
+| 80 kg | 40 mg | 40 mg |
+| 90 kg | 45 mg | 45 mg |
+| 100 kg | 50 mg | 50 mg |
+
+To decrease the risk of esophageal irritation, instruct patients to swallow the capsules with a full glass of liquid.
+Swallow capsules whole.
+Do not split, crush, chew, or suck on the capsules.
+During treatment, the dosage may be adjusted according to response of the disease and/or adverse reactions, some of which may be dose-related.
+Adult patients whose disease is very severe with scarring or is primarily manifested on the trunk may require dosage adjustments up to 2 mg/kg/day for Zenatane in divided doses with food, as tolerated (see Table 3).
+
+Table 3: Zenatane: Recommended Divided Doses (2 mg/kg/day dosage)
+
+| Body Weight | First Dose | Second Dose |
+| --- | --- | --- |
+| 40 kg | 40 mg | 40 mg |
+| 50 kg | 50 mg | 50 mg |
+| 60 kg | 60 mg | 60 mg |
+| 70 kg | 70 mg | 70 mg |
+| 80 kg | 80 mg | 80 mg |
+| 90 kg | 90 mg | 90 mg |
+| 100 kg | 100 mg | 100 mg |
+
+The safety and effectiveness of once daily dosing with Zenatane has not been established and is not recommended.
+
+If a dose of Zenatane is missed, just skip that dose.
+Do not take two doses of Zenatane at the same time.
+
+## 2.3 Recommended Duration of Use
+
+A course of treatment is 15 to 20 weeks.
+If the total nodule count has been reduced by more than 70% prior to completing 15 to 20 weeks of treatment, may discontinue Zenatane.
+
+After a period of 2 months or more off treatment, and if warranted by persistent or recurring severe nodular acne, may initiate a second course of Zenatane in patients who have completed skeletal growth.
+The use of another course of Zenatane treatment is not recommended before a two-month waiting period because the patient's acne may continue to improve after a 15 to 20-week course of treatment.
 The optimal interval before retreatment has not been defined for patients who have not completed skeletal growth.
-Long-term use of Zenatane, even in low doses, has not been studied, and is not recommended.
-It is important that Zenatane be given at the recommended doses for no longer than the recommended duration.
-The effect of long-term use of Zenatane on bone loss is unknown (see WARNINGS: Skeletal: Bone Mineral Density, Hyperostosis, and Premature Epiphyseal closure).
 
-Contraceptive measures must be followed for any subsequent course of therapy (see PRECAUTIONS).
-
-Table 4 Zenatane Dosing by Body Weight (Based on Administration With Food)
-
-| Body Weight |  | Total mg/day |  |  |
-| --- | --- | --- | --- | --- |
-| kilograms | pounds | 0.5 mg/kg | 1 mg/kg | 2 mg/kg* |
-| 40 | 88 | 20 | 40 | 80 |
-| 50 | 110 | 25 | 50 | 100 |
-| 60 | 132 | 30 | 60 | 120 |
-| 70 | 154 | 35 | 70 | 140 |
-| 80 | 176 | 40 | 80 | 160 |
-| 90 | 198 | 45 | 90 | 180 |
-| 100 | 220 | 50 | 100 | 200 |
-
-*See DOSAGE AND ADMINISTRATION: the recommended dosage range is 0.5 to 1 mg/kg/day.
-
-| INFORMATION FOR PHARMACISTS Access the iPLEDGE REMS system via the internet (www.ipledgeprogram.com), or telephone (1-866495-0654) to obtain an authorization and the “do not dispense to patient after” date. Zenatane must only be dispensed in no more than a 30 day supply. REFILLS REQUIRE A NEW PRESCRIPTION AND A NEW AUTHORIZATION FROM THE iPLEDGE SYSTEM. A Zenatane Medication Guide must be given to the patient each time Zenatane is dispensed, as required by law. This Zenatane Medication Guide is an important part of the risk management program for the patient. |
-| --- |
+Long-term use of Zenatane, even in low dosages, has not been studied, and is not recommended.
+The effect of long-term use of Zenatane on bone loss is unknown [see Warnings and Precautions (5.11)].
