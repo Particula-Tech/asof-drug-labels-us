@@ -1,13 +1,18 @@
-# INDICATIONS
+# 1 INDICATIONS AND USAGE
 
-Valium is indicated for the management of anxiety disorders or for the short- term relief of the symptoms of anxiety.
-Anxiety or tension associated with the stress of everyday life usually does not require treatment with an anxiolytic.
+VALIUM is indicated for the:
 
-In acute alcohol withdrawal, Valium may be useful in the symptomatic relief of acute agitation, tremor, impending or acute delirium tremens and hallucinosis.
+- Treatment of anxiety disorders
+- Short-term treatment of anxiety symptoms
+- Treatment of tremor, acute agitation, hallucinosis, and impending delirium tremens or delirium tremens in acute alcohol withdrawal
+- Adjunctive treatment of skeletal muscle spasm due to:
+  - reflex spasm to local pathology
+  - spasticity caused by upper motor neuron disorders
+  - athetosis
+  - stiff-person syndrome
+- Adjunctive treatment of seizure disorders
 
-Valium is a useful adjunct for the relief of skeletal muscle spasm due to reflex spasm to local pathology (such as inflammation of the muscles or joints, or secondary to trauma), spasticity caused by upper motor neuron disorders (such as cerebral palsy and paraplegia), athetosis, and stiff-man syndrome.
+Limitations of Use
 
-Oral Valium may be used adjunctively in convulsive disorders, although it has not proved useful as the sole therapy.
-
-The effectiveness of Valium in long-term use, that is, more than 4 months, has not been assessed by systematic clinical studies.
-The physician should periodically reassess the usefulness of the drug for the individual patient.
+- The effectiveness of VALIUM for long-term use (greater than 4 months) has not been evaluated.
+- VALIUM is not recommended as maintenance monotherapy for the treatment of seizure disorders.

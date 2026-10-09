@@ -1,5 +1,6 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Valium is contraindicated in patients with a known hypersensitivity to diazepam and, because of lack of sufficient clinical experience, in pediatric patients under 6 months of age.
-Valium is also contraindicated in patients with myasthenia gravis, severe respiratory insufficiency, severe hepatic insufficiency, and sleep apnea syndrome.
-It may be used in patients with open- angle glaucoma who are receiving appropriate therapy, but is contraindicated in acute narrow-angle glaucoma.
+VALIUM is contraindicated in patients with:
+
+- Known hypersensitivity to diazepam or any of the excipients of VALIUM
+- Acute narrow-angle glaucoma [see Warnings and Precautions (5.9)]

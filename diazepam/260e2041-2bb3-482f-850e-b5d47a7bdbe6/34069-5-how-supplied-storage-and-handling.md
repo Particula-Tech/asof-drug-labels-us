@@ -1,23 +1,16 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-For oral administration, Valium is supplied as round, flat-faced scored tablets with V-shaped perforation and beveled edges.
-Valium is available as follows:
+How Supplied
 
-2mg, white - bottles of 100 (NDC-80725-004-01)
+VALIUM are round, flat-faced scored tablets with a V-shaped perforation and beveled edges and are supplied in bottles of 100 as follows:
 
-5mg, yellow - bottles of 100 (NDC-80725-005-01)
+| Tablet Strength | Color | Engraved Descriptors | NDC Number |
+| --- | --- | --- | --- |
+| 2 mg | white | 2 and VALIUM® on the outside edge and vertically scored on reverse side | NDC 80725-004-01 |
+| 5 mg | yellow | 5 and VALIUM® on the outside edge and vertically scored on reverse side | NDC 80725-005-01 |
+| 10 mg | blue | 10 and VALIUM® on the outside edge and vertically scored on reverse side | NDC 80725-006-01 |
 
-10 mg, blue - bottles of 100 (NDC-80725-006-01)
+Storage and Handling
 
-Engraved on tablets:
-
-2 mg—2 and VALIUM®on the outside edge; vertically scored on reverse side
-
-5 mg—5 and VALIUM®on the outside edge; vertically scored on reverse side
-
-10 mg—10 and VALIUM®on the outside edge; vertically scored on the reverse side
-
-## Storage
-
-Store at room temperature 59° to 86°F (15° to 30°C).
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Dispense in tight, light-resistant containers as defined in USP/NF.

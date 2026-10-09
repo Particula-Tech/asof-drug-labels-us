@@ -1,37 +1,49 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Side effects most commonly reported were drowsiness, fatigue, muscle weakness, and ataxia.
-The following have also been reported:
+The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-Central Nervous System:confusion, depression, dysarthria, headache, slurred speech, tremor, vertigo
+- Risks from Concomitant Use with Opioids [see Warnings and Precautions (5.1)]
+- Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2]
+- Dependence and Withdrawal Reactions [see Warnings and Precautions (5.3)]
+- Central Nervous System Depression [see Warnings and Precautions (5.4)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
+- Worsening of Preexisting Depression [see Warnings and Precautions (5.6)]
+- Paradoxical Reactions [see Warnings and Precautions (5.7)]
+- Respiratory Depression and Apnea [see Warnings and Precautions (5.8)]
+- Glaucoma [see Warnings and Precautions (5.9)]
+- Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.10)]
 
-Gastrointestinal System:constipation, nausea, gastrointestinal disturbances
+The following adverse reactions associated with the use of VALIUM were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Special Senses:blurred vision, diplopia, dizziness
+Adverse reactions most commonly reported were drowsiness, fatigue, muscle weakness, and ataxia.
 
-Cardiovascular System:hypotension
+The following adverse reactions have also been reported:
 
-Psychiatric and Paradoxical Reactions:stimulation, restlessness, acute hyperexcited states, anxiety, agitation, aggressiveness, irritability, rage, hallucinations, psychoses, delusions, increased muscle spasticity, insomnia, sleep disturbances, and nightmares.
-Inappropriate behavior and other adverse behavioral effects have been reported when using benzodiazepines.
-Should these occur, use of the drug should be discontinued.
-They are more likely to occur in children and in the elderly.
+Blood and lymphatic disorders: neutropenia
 
-Urogenital System:incontinence, changes in libido, urinary retention
+Eye disorders: blurred vision, diplopia
 
-Skin and Appendages:skin reactions
+Gastrointestinal disorders: changes in salivation, including dry mouth and hypersalivation, gastrointestinal disturbances, constipation, nausea
 
-Laboratories: elevated transaminases and alkaline phosphatase
+Hepatobiliary disorders: jaundice
 
-Other:changes in salivation, including dry mouth, hypersalivation
+Injury, poisoning and procedural complications: falls and fractures.
+The risk is increased in those taking concomitant CNS depressants (including alcohol) and in geriatric patients.
 
-Antegrade amnesia may occur using therapeutic dosages, the risk increasing at higher dosages.
+Investigations: elevated transaminases and alkaline phosphatase
+
+Nervous system disorders: vertigo, dizziness, dysarthria, tremor, headache
+
+Changes in EEG patterns, usually low-voltage fast activity, have been observed in patients during and after VALIUM therapy.
+
+Psychiatric disorders: disorientation, confusional state, decreased alertness, inappropriate behavior, emotional and mood disturbances, depression, acute hyperexcited states, hyperactivity, restlessness, stimulation, anxiety, nervousness, aggressiveness, agitation, anger, hostility, irritability, psychoses, delusions, hallucinations, insomnia, sleep disturbances, abnormal dreams, nightmares
+
+Anterograde amnesia has been reported, with the risk increasing at higher dosages.
 Amnestic effects may be associated with inappropriate behavior.
 
-Minor changes in EEG patterns, usually low-voltage fast activity, have been observed in patients during and after Valium therapy and are of no known significance.
+Skin and subcutaneous tissue disorders: skin reactions
 
-Because of isolated reports of neutropenia and jaundice, periodic blood counts and liver function tests are advisable during long-term therapy.
+Urogenital disorders: incontinence, changes in libido, urinary retention
 
-## Postmarketing Experience:
-
-Injury, Poisoning and Procedural Complications:There have been reports of falls and fractures in benzodiazepine users.
-The risk is increased in those taking concomitant sedatives (including alcohol), and in the elderly.
+Vascular disorders: hypotension

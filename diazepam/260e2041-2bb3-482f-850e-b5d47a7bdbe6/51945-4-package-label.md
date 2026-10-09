@@ -1,53 +1,59 @@
-# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Carton
 
 NDC 80725-004-01
 
-Valium® (diazepam) Tablets CIV
+Valium® (diazepam) Tablets
+
+CIV
 
 2 mg
-
-Each tablet contains 2 mg diazepam.
-
-Rx only
 
 PHARMACIST: DISPENSE THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT.
 
 100 tablets
 
+Rx only
+
 Waylis THERAPEUTICS
+
+2000020058
 
 # PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Carton
 
 NDC 80725-005-01
 
-Valium® (diazepam) Tablets CIV
+Valium® (diazepam) Tablets
+
+CIV
 
 5 mg
 
 PHARMACIST: DISPENSE THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT.
 
-Rx only
-
 100 tablets
+
+Rx only
 
 Waylis THERAPEUTICS
 
-2000016195
+2000020069
 
 # PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Carton
 
 NDC 80725-006-01
 
-Valium® (diazepam) Tablets CIV
+Valium® (diazepam) Tablets
+
+CIV
 
 10 mg
 
 PHARMACIST: DISPENSE THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT.
 
-Rx only
-
 100 tablets
+
+Rx only
 
 Waylis THERAPEUTICS
 
-2000016196
+2000020059
