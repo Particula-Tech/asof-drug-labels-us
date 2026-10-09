@@ -22,3 +22,4 @@ Refrigerate AHZANTIVE at 2°C to 8ºC (36°F to 46ºF).
 Do not freeze.
 Do not use beyond the date stamped on the carton and container label.
 Store in the original carton until time of use to protect from light.
+Do not open sealed blister tray until time of use.
