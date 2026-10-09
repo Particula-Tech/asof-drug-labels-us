@@ -150,10 +150,14 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Manufactured for:
 
 Xiromed, LLC.
+
 Florham Park, NJ 07932
 
-Made in USA (30 count and 100 count)
+Manufactured by:
 
-Made in India (500 count)
+Chemo India Formulations Pvt.
+Ltd.,
 
-PI-272-02 July 2023
+Hyderabad 500101, India
+
+MG-272-02 July 2026
