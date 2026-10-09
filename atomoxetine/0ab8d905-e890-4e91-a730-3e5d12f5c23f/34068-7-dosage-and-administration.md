@@ -18,12 +18,12 @@ Table 1: Recommended Dosage of atomoxetine for Acute Treatment of ADHD
 | Age and Body Weight | Starting Dosage | Titration Interval | Target Dosage | Maximum Dosage |
 | --- | --- | --- | --- | --- |
 | Pediatric patients who weigh less than 70 kg | 0.5 mg/kg/day | Minimum of 3 days | 1.2 mg/kg/daya,b | 1.4 mg/kg/day or 100 mg/day, whichever is lessa |
-| Pediatric patients who weigh 70 kg or more and adult patients | 40 mg/day | Minimum of 3 days | 80 mg/daya | 100 mg/daya,c |
+| Pediatric patients who weigh 70 kg or more and adult patients | 40 mg/day | Minimum of 3 days | 80 mg/day, a | 100 mg/daya,c |
 
-1. aAdminister either as once daily dosage in the morning or as evenly divided twice daily dosage in the morning and late afternoon/early evening.
-2. bNo additional benefit has been demonstrated with atomoxetine dosages higher than 1.2 mg/kg/day [see Clinical Studies (14)].
-3. cIf a patient has not achieved an optimal response at 80 mg/day after 2 to 4 additional weeks, may increase the dosage to a maximum of 100 mg/day.
-   There is no data that supports increased effectiveness at a dosage higher than 100 mg/day [see Clinical Studies (14)].
+- aAdminister either as once daily dosage in the morning or as evenly divided twice daily dosage in the morning and late afternoon/early evening.
+- bNo additional benefit has been demonstrated with atomoxetine dosages higher than 1.2 mg/kg/day [see Clinical Studies (14)].
+- cIf a patient has not achieved an optimal response at 80 mg/day after 2 to 4 additional weeks, may increase the dosage to a maximum of 100 mg/day.
+  There is no data that supports increased effectiveness at a dosage higher than 100 mg/day [see Clinical Studies (14)].
 
 The health care provider who elects to use atomoxetine for extended periods should periodically reevaluate the longterm usefulness of atomoxetine for the individual patient.
 
@@ -40,9 +40,11 @@ For patients aged 6 years of age or older with:
 Consider genetic testing to determine the patient’s CYP2D6 metabolizer status.
 
 In patients taking a concomitant strong CYP2D6 inhibitor or who are CYP2D6 poor metabolizers, a longer titration interval of 4 weeks is recommended, if ADHD symptoms fail to improve and the initial atomoxetine capsules dosage is well tolerated.
-The recommended starting, target, and maximum atomoxetine capsules dosages are the same as outlined in Table 1 [see Dosage and Administration (2.3)].
+The recommended starting, target, and maximum atomoxetine capsules dosages are the same as outlined in Table 1 [see Dosage and Administration (Error!
+Hyperlink reference not valid.)].
 
-For other CYP2D6 metabolizer types (ultrarapid, normal, and intermediate), follow the recommended dosage, including the recommended titration interval (minimum of 3 days), as outlined in Table 1 [see Dosage and Administration (2.3)].
+For other CYP2D6 metabolizer types (ultrarapid, normal, and intermediate), follow the recommended dosage, including the recommended titration interval (minimum of 3 days), as outlined in Table 1 [see Dosage and Administration (Error!
+Hyperlink reference not valid.)].
 
 ## 2.6 Switching to or from a Monoamine Oxidase Inhibitor Antidepressant
 

@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Atomoxetine was administered to 5,382 pediatric patients 6 years of age and older in clinical ADHD studies (Studies 1, 2, 3, 4, and 5) [see Clinical Studies (14.1)] and 1,007 adults in clinical ADHD studies (Studies 6 and 7) [see Clinical Studies (14.2)].
+Atomoxetine was administered to 5,382 pediatric patients 6 years of age and older in clinical ADHD studies (Studies 1, 2, 3, 4, and 5) [see Clinical Studies (14.1)] and 1,007 adults in clinical ADHD studies (Studies 6 and 7) [see Clinical Studies(14.2)].
 In the ADHD clinical trials, 2,529 pediatric patients were treated for over 6 months which included 1,625 pediatric patients who were treated for longer than 1 year.
 
 Adverse Reactions in the Clinical Trials of Pediatric Patients 6 Years of Age and Older with ADHD
@@ -38,9 +38,8 @@ Table 2: Common Adverse Reactionsa in Acute Studies (up to 18 weeks) in Pediatri
 | Anorexia | 3% | 1% |
 | Rash | 2% | 1% |
 
-1. a.Adverse reactions reported by at least 2% of atomoxetine-treated patients and greater than placebo-treated patients.
-2. b.Abdominal pain includes the terms: upper abdominal pain, and epigastric discomfort.
-3. c.Somnolence includes the term sedation.
+1. a Adverse reactions reported by at least 2% of atomoxetine-treated patients and greater than placebo-treated patients. b Abdominal pain includes the terms: upper abdominal pain, and epigastric discomfort.
+2. C Somnolence includes the term sedation.
 
 Adverse reaction in the atomoxetine-treated patients who received twice daily, and once daily dosing are shown in Table 3 (adverse reactions based on statistically significant Breslow-Day tests).
 
@@ -56,9 +55,11 @@ Table 3: Common Adverse Reactions in Acute Studies (up to 18 weeks) in Pediatric
 | Mood swingsb | 2% | 0% | 1% | 1% |
 | Constipationc | 2% | 1% | 1% | 0% |
 
-1. a.Abdominal pain included the terms: upper abdominal pain, and epigastric discomfort.
-2. b.Mood swings didn’t meet the statistical significance on Breslow-Day test at 0.05 level, but p-value was <0.1 (trend).
-3. c.Constipation didn’t meet the statistical significance on Breslow-Day test but is included in the table because of pharmacologic plausibility.
+a Abdominal pain included the terms: upper abdominal pain, and epigastric discomfort.
+
+- b Mood swings didn’t meet the statistical significance on Breslow-Day test at 0.05 level, but p-value was <0.1 (trend).
+
+1. C Constipation didn’t meet the statistical significance on Breslow-Day test but is included in the table because of pharmacologic plausibility.
 
 Common Adverse Reactions by CYP2D6 Metabolizer Status in the Clinical Studies of Pediatric Patients 6 Years of Age and Older: Table 4 displays adverse reactions that occurred in at least 2% of atomoxetine-treated pediatric patients who were CYP2D6 poor metabolizers and were statistically significantly more frequent in CYP2D6 poor metabolizers compared with other CYP2D6 metabolizer types (ultrarapid, normal, and intermediate).
 
@@ -138,36 +139,46 @@ Table 5: Common Adverse Reactionsa Associated in Acute Studies (up to 25 weeks) 
 | Weight decreased | 2% | 1% |
 | Feeling jittery | 2% | 1% |
 
-1. a.Reactions reported by at least 2% of patients treated with atomoxetine, and greater than placebo.
-   The following reactions did not meet this criterion but were reported by more atomoxetine-treated patients than placebo-treated patients and are possibly related to atomoxetine treatment: peripheral coldness, tachycardia, prostatitis, testicular pain, orgasm abnormal, flatulence, asthenia, feeling cold, muscle spasm, dysgeusia, agitation, restlessness, micturition urgency, pollakiuria, pruritus, urticaria, flushing, tremor, menstruation irregular, rash, and urinary retention.
-2. b.Insomnia includes the terms initial insomnia, middle insomnia, terminal insomnia and other related terms.
-3. c.Based on total number of males (atomoxetine group, N=943; placebo group, N=869).
-4. d.Somnolence includes related terms.
-5. e.Abdominal pain includes the terms: upper abdominal pain and other related terms.
-6. f.Urinary hesitation includes the term decreased urine flow.
-7. g.Based on total number of females (atomoxetine, N=754; placebo, N=691).
+aReactions reported by at least 2% of patients treated with atomoxetine, and greater than placebo.
+The following reactions did not meet this criterion but were reported by more atomoxetine-treated patients than placebo-treated patients and are possibly related to atomoxetine treatment: peripheral coldness, tachycardia, prostatitis, testicular pain, orgasm abnormal, flatulence, asthenia, feeling cold, muscle spasm, dysgeusia, agitation, restlessness, micturition urgency, pollakiuria, pruritus, urticaria, flushing, tremor, menstruation irregular, rash, and urinary retention.
+
+1. b Insomnia includes the terms initial insomnia, middle insomnia, terminal insomnia and other related terms. c Based on total number of males (atomoxetine group, N=943; placebo group, N=869).
+   Somnolence includes related terms. dAbdominal pain includes the terms: upper abdominal pain and other related terms. e Urinary hesitation includes the term decreased urine flow.
 
 Common Adverse Reactions by CYP2D6 Metabolizer Status in the Clinical Studies of Adults: Table 6 displays adverse reactions that occurred in at least 2% of atomoxetine-treated adult patients who were CYP2D6 poor metabolizers and were statistically significantly more frequent compared to other CYP2D6 metabolizer types (ultrarapid, normal, and intermediate).
 
 Table 6: Common Adverse Reactionsa in atomoxetine-treated Adult Patients with ADHD by CYP2D6 Metabolizer Types
 
-| Adverse Reaction | Atomoxetine CYP2D6 Poor Metabolizers (N=203) | Atomoxetine Other CYP2D6 Metabolizer Types (N=3,599) |
+| Adverse Reaction | Atomoxetine (N=1,697) | Placebo (N=1,560) |
 | --- | --- | --- |
-| Dry mouth | 35% | 17% |
-| Decreased appetite | 23% | 15% |
-| Erectile dysfunction | 21% | 9% |
-| Insomnia | 19% | 11% |
-| Hyperhidrosis | 15% | 7% |
-| Constipation | 11% | 7% |
-| Sleep disorder | 7% | 3% |
-| Urinary retention | 6% | 1% |
-| Ejaculation disorder | 6% | 2% |
-| Tremor | 5% | 1% |
-| Feeling jittery | 5% | 2% |
-| Middle insomnia | 5% | 3% |
-| Blurred vision | 4% | 1% |
-| Terminal insomnia | 3% | 1% |
-| Peripheral coldness | 3% | 1% |
+| Nausea | 26% | 6% |
+| Dry mouth | 20% | 5% |
+| Decreased appetite | 16% | 3% |
+| Insomniab | 15% | 8% |
+| Fatigue | 10% | 6% |
+| Erectile dysfunctionc | 8% | 1% |
+| Constipation | 8% | 3% |
+| Dizziness | 8% | 3% |
+| Somnolenced | 8% | 5% |
+| Abdominal paine | 7% | 4% |
+| Urinary hesitationf | 6% | 1% |
+| Irritability | 5% | 3% |
+| Ejaculation delayedc and/or ejaculation disorderc | 4% | 1% |
+| Hyperhidrosis | 4% | 1% |
+| Dyspepsia | 4% | 2% |
+| Vomiting | 4% | 2% |
+| Abnormal dreams | 4% | 3% |
+| Chills | 3% | 0% |
+| Paraesthesia | 3% | 0% |
+| Hot flush | 3% | 0% |
+| Palpitations | 3% | 1% |
+| Libido decreased | 3% | 1% |
+| Sleep disorder | 3% | 1% |
+| Dysmenorrheag | 3% | 2% |
+| Dysuria | 2% | 0% |
+| Thirst | 2% | 1% |
+| Weight decreased | 2% | 1% |
+| Feeling jittery | 2% | 1% |
 
 1. a.Adverse reactions that occurred in at least 2% of atomoxetine-treated adult patients who were CYP2D6 poor metabolizers and were statistically significantly more frequent in CYP2D6 poor metabolizers compared with other CYP2D6 metabolizer types (ultrarapid, normal, and intermediate).
 
@@ -183,8 +194,8 @@ Table 7: Proportion of ADHD Patients With an Increase of ≥ 15 mm Hg in DBP, �
 
 |  | Pediatric Acute ADHD Studies |  |  |  | Adult Acute ADHD Studies |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Maximumb |  | Endpoint |  | Maximumb |  | Endpoint |  |  |
-| Atomoxetine | Placebo | Atomoxetine | Placebo | Atomoxetine | Placebo | Atomoxetine | Placebo |  |
+|  | Maximumb |  | Endpoint |  | Maximumb |  | Endpoint |  |
+|  | Atomoxetine | Placebo | Atomoxetine | Placebo | Atomoxetine | Placebo | Atomoxetine | Placebo |
 | DBP (≥15 mm Hg) | 22% | 14% | 9% | 5% | 13% | 9% | 5% | 4% |
 | SBP (≥20 mm Hg) | 13% | 9% | 5% | 3% | 12% | 8% | 4% | 3% |
 | HR (≥20 bpm) | 23% | 12% | 12% | 4% | 22% | 8% | 10% | 2% |

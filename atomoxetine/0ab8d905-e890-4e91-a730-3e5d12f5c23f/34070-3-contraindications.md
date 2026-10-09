@@ -9,4 +9,5 @@ Atomoxetine capsules is contraindicated in patients:
   In clinical trials, atomoxetine capsules use was associated with an increased risk of mydriasis.
 - •With pheochromocytoma or a history of pheochromocytoma.
   Serious reactions, including elevated blood pressure and tachyarrhythmia, have been reported in patients with pheochromocytoma or a history of pheochromocytoma who received atomoxetine capsules.
-- •With severe cardiac or vascular disorders whose condition would be expected to deteriorate if they had a clinically important increase in blood pressure or heart rate (e.g., 15 to 20 mm Hg in blood pressure or 20 beats per minute in heart rate) [see Warnings and Precautions (5.4)].
+- •With severe cardiac or vascular disorders whose condition would be expected to deteriorate if they had a clinically important increase in blood pressure or heart rate (e.g., 15 to 20 mm Hg in blood pressure or 20 beats per minute in heart rate) [see Warnings and Precautions (Error!
+  Hyperlink reference not valid.)].

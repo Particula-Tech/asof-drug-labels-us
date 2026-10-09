@@ -6,19 +6,19 @@ Atomoxetine capsules can cause serious side effects, including:
 - •Suicidal thoughts and actions in children 6 years of age and older. atomoxetine capsules can increase the risk of suicidal thoughts and actions in children ages 6 and older with attention deficit hyperactivity disorder (ADHD), especially within the first few months of treatment or when the dose is changed.
 - How can I watch for and try to prevent suicidal thoughts and actions?
 - 
-  - oPay close attention to, and tell your healthcare provider right away about, any changes, especially sudden changes, in mood, behavior, actions, thoughts, or feelings, or suicidal thoughts or actions.
-    This is very important when atomoxetine capsules is started or when the dose is changed.
-  - oKeep all follow-up visits with the healthcare provider as scheduled.
-    Tell your healthcare provider about symptoms between visits as needed, especially if you have concerns.
+  1. oPay close attention to, and tell your healthcare provider right away about, any changes, especially sudden changes, in mood, behavior, actions, thoughts, or feelings, or suicidal thoughts or actions.
+     This is very important when atomoxetine capsules is started or when the dose is changed.
+  2. oKeep all follow-up visits with the healthcare provider as scheduled.
+     Tell your healthcare provider about symptoms between visits as needed, especially if you have concerns.
 - Tell your healthcare provider right away if any of the following symptoms develop during treatment, especially if they are new, worse, or worry you:
 
-| oanxiety | ofeeling agitated or restless | opanic attacks |
+| •anxiety | •feeling agitated or restless | •panic attacks |
 | --- | --- | --- |
-| otrouble sleeping | oirritability | ohostility or being angry or violent |
-| oacting aggressive | oimpulsivity | osuicide attempts |
-| oextreme increase in activity or talking (mania) | odepression | othoughts about suicide or dying |
-| opanic attacks | oother unusual changes in mood or behavior |  |
-| ounusual decrease in activity (hypomania) | orestlessness or feeling like you have to move |  |
+| •trouble sleeping | •irritability | •hostility or being angry or violent |
+| •acting aggressive | •impulsivity | •suicide attempts |
+| •extreme increase in activity or talking (mania) | •depression | •thoughts about suicide or dying |
+| •panic attacks | •other unusual changes in mood or behavior |  |
+| •unusual decrease in activity (hypomania) |  | •restlessness or feeling like you have to move |
 
 See “What are the possible side effects of atomoxetine capsules?” for more information about side effects.
 
@@ -102,19 +102,19 @@ Atomoxetine capsules can cause serious side effects, including:
   Your healthcare provider will check the blood levels of liver enzymes if symptoms of liver damage develop.
   Tell your healthcare provider right away if any of the following symptoms develop at any time during treatment:
 
-| oitching | oright upper stomach pain | odark urine |
+| •itching | •right upper stomach pain | •dark urine |
 | --- | --- | --- |
-| othe skin or the white part of the eyes turns yellow | ounexplained flu-like symptoms |  |
+| •the skin or the white part of the eyes turns yellow | •unexplained flu-like symptoms |  |
 
 - •Serious heart-related side effects. atomoxetine capsules may increase the risk of serious heart problems including sudden death, heart attack, and stroke in adults and children who have serious heart problems or heart defects.
   Your healthcare provider should check for heart problems before starting treatment with atomoxetine capsules.
   Stop taking atomoxetine capsules and tell your healthcare provider or get medical help right away if any of the following symptoms develop during treatment:
 
-| ochest pain | onumbness of weakness, especially on one side of the body |
+| •chest pain | •numbness of weakness, especially on one side of the body |
 | --- | --- |
-| oloss of consciousness (fainting) | oslurred speech |
-| oshortness of breath | ovision changes |
-| oheart palpitations or fast heart rate | osevere headache |
+| •loss of consciousness (fainting) | •slurred speech |
+| •shortness of breath | •vision changes |
+| •heart palpitations or fast heart rate | •severe headache |
 
 - •Increases in blood pressure and heart rate.
   Your healthcare provider should check blood pressure and heart rate before starting treatment, if the dose is increased, and as needed during treatment.
@@ -122,12 +122,12 @@ Atomoxetine capsules can cause serious side effects, including:
   People with bipolar disorder, or who have a higher risk of developing bipolar disorder, have an increased risk of developing mania.
   Tell your healthcare provider if any of the following symptoms develop during treatment:
 
-| ogreatly increased energy | osevere trouble sleeping |
+| •greatly increased energy | •severe trouble sleeping |
 | --- | --- |
-| oracing thoughts | oreckless behavior |
-| ounusually grand ideas | oexcessive happiness or irritability |
-| otalking more or faster than usual | oseeing or hearing things that are not real (hallucinations) |
-| ounusual decrease in activity | odepression |
+| •racing thoughts | •reckless behavior |
+| •unusually grand ideas | •excessive happiness or irritability |
+| •talking more or faster than usual | •seeing or hearing things that are not real (hallucinations) |
+| •unusual decrease in activity | •depression |
 
 - •Aggressive behavior or hostility.
   New or worsening aggressive behavior or hostility can happen during treatment.
