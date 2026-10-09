@@ -46,7 +46,7 @@ Advise males and females of reproductive potential that AVOPEF may impair fertil
 
 Manufactured for:
 
-Avyxa Pharma, LLC
+AVYXA Pharma, LLC
 
 New Jersey 07054, USA
 

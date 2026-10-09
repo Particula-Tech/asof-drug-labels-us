@@ -62,5 +62,5 @@ Administration
 Storage
 
 - AVOPEF, diluted to a concentration of 0.2 mg/mL is stable for 96 hours or diluted to a concentration of 0.4 mg/mL is stable for 24 hours at room temperature (25°C) under normal room fluorescent light in polyvinyl chloride (PVC) container.
-- After first use, store the partially used multiple-dose vial in the original carton at controlled room temperature, 20°C to 25° C (68°F to 77° F) for up to 28 days.
+- After first use, store the partially used multiple-dose vial in the original carton at controlled room temperature, 20°C to 25°C (68°F to 77°F) for up to 28 days.
   Discard unused portion of the multiple-dose vial after 28 days.

@@ -30,7 +30,7 @@ An intraperitoneal dose of 1.5 mg/kg (approximately 0.10-times the human dose 50
 Risk Summary
 
 There is no information regarding the presence of etoposide or its metabolites in human milk or the effects on a breastfed child or on milk production.
-Because the potential for serious adverse reactions in breastfed children, advise women not to breastfeed during treatment with AVOPEF and for 1 week after the last dose.
+Because of the potential for serious adverse reactions in breastfed children, advise women not to breastfeed during treatment with AVOPEF and for 1 week after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
