@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Trospium chloride extended-release capsules are supplied as 60 mg capsules (orange cap printed with “WPI” and white opaque body printed with “3636”):
+Trospium chloride extended-release capsules are supplied as 60 mg capsules (orange opaque cap printed with “WPI” and white opaque body printed with “3636”):
 
 60 mg capsule, 30 count, HDPE bottle: NDC 0591-3636-30
 

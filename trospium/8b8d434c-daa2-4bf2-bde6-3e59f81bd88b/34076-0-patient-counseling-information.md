@@ -32,4 +32,4 @@ Because anticholinergics, such as trospium chloride extended-release capsules, m
 Patients should be informed that alcohol may enhance the drowsiness caused by anticholinergic agents.
 
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054 Rev.
-A 7/2025
+B 8/2026
