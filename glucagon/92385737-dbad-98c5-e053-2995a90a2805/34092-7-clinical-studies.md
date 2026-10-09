@@ -27,7 +27,6 @@ Table 6:Adult Patients with Type 1 Diabetes Mellitus Treatment “Success” in 
 | Greater than 70 mg/dL | 74 (95%) | 79 (100%) | 76 (100%) | 78 (100%) |  |  |
 | 20 mg/dL or greater increase from baseline | 76 (97%) | 79 (100%) | 76 (100%) | 78 (100%) |  |  |
 | a Treatment success was defined as blood glucose greater than 70 mg/dL or an increase of blood glucose by 20 mg/dL or greater from baseline. The efficacy analysis population consisted of all patients who received both doses of the study drug. |  |  |  |  |  |  |
-| b Percentage based on number of patients from both studies. |  |  |  |  |  |  |
 
 ## 14.2 Pediatric Patients Aged 2 Years and Older with Type 1 Diabetes Mellitus for the Treatment of Severe Hypoglycemia
 

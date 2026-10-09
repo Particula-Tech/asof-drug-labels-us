@@ -23,7 +23,7 @@
 | These are not all the possible side effects of GVOKE and GVOKE VialDX. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |  |  |
 | How should I store GVOKE? Store GVOKE in the original container until time of use.Store at room temperature between 68°F to 77°F (20° C to 25°C).Do not refrigerate or freeze. Keep GVOKE and all medicines out of the reach of children. |  |  |  |  |  |
 | General information about the safe and effective use of GVOKE.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use GVOKE for a condition for which it was not prescribed. Do not give GVOKE to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about GVOKE that is written for health professionals. |  |  |  |  |  |
-| What are the ingredients in GVOKE and GVOKE VialDx?Active ingredient: glucagon.Inactive ingredients: trehalose dihydrate NF, sulfuric acid NF, mannitol USP (Gvoke Kit and Gvoke VialDx only), and dimethyl sulfoxide.GVOKE is distributed by: Xeris Pharmaceuticals, Inc., Chicago, ILFor more information go to www.xerispharma.com or call 1-877-937-4737.GVOKE VialDx is distributed by American Regent, Inc. |  |  |  |  |  |
+| What are the ingredients in GVOKE and GVOKE VialDx?Active ingredient: glucagon.Inactive ingredients: trehalose dihydrate NF, sulfuric acid NF, mannitol USP (Gvoke Kit and Gvoke VialDx only), and dimethyl sulfoxide.GVOKE is distributed by: Xeris Pharmaceuticals, Inc., Chicago, ILFor more information go to www.xerispharma.com or call 1-877-937-4737. |  |  |  |  |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Issued: 05/2025
+Issued: 09/2026

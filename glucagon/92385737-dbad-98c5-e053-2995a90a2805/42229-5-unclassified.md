@@ -12,9 +12,7 @@ Xeris Pharmaceuticals, Inc.
 
 https://www.xerispharma.com/www.xerispharma.com
 
-© 2025 Xeris Pharmaceuticals, Inc.
-
-GVOKE VialDxTM is distributed by: American Reagent, Inc. Shirley, NY 11967
+© 2026 Xeris Pharmaceuticals, Inc.
 
 # INSTRUCTIONS FOR USE
 

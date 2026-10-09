@@ -15,7 +15,7 @@ The following serious adverse reactions are described below and elsewhere in lab
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of GVOKE and GVOKE VialDx cannot be directly compared to rates in the clinical trials of other drugs and may not reflect the rates observed in practice.
 
-GVOKE for Subcutaneous Use for the Treatment of Severe Hypoglycemia in Adult and Pediatric Patients 2 Aged Years and Older with Type 1 Diabetes Mellitus
+GVOKE for Subcutaneous Use for the Treatment of Severe Hypoglycemia in Adult and Pediatric Patients Aged 2 Years and Older with Type 1 Diabetes Mellitus
 
 Adverse Reactions in Adult Patients
 

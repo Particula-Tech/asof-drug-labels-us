@@ -12,9 +12,6 @@ GVOKE glucagon injection is supplied as a clear, colorless to pale yellow soluti
 | 1 mg per 0.2 mL | 1 single-dose GVOKE PFS pre-filled syringe | 72065-131-11 |
 | 1 mg per 0.2 mL | 2 single-dose GVOKE PFS pre-filled syringes | 72065-131-12 |
 | 1 mg per 0.2 mL | 1 single-dose GVOKE Kit vial and syringe kit | 72065-140-11 |
-| For Intravaneous Use |  |  |
-| 1 mg per 0.2 mL | 1 single-dose GVOKE VialDx vial | 0517-2901-01 |
-| 1 mg per 0.2 mL | 10 single-dose GVOKE VialDx vials | 0517-2901-10 |
 
 Store GVOKE HypoPen, GVOKE PFS, and GVOKE Kit (these three presentations are referred to as GVOKE in this labeling), and GVOKE VialDx at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F).
 Do not refrigerate or freeze.
