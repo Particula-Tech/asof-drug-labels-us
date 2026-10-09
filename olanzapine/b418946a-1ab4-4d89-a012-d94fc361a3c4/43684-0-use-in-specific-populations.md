@@ -15,7 +15,7 @@ Neonates exposed to antipsychotic drugs, including ZYPREXA, during the third tri
 Overall available data from published epidemiologic studies of pregnant women exposed to olanzapine have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including ZYPREXA, during pregnancy (see Clinical Considerations).
 
-Olanzapine was not teratogenic when administered orally to pregnant rats and rabbits at doses that are 9- and 30-times the daily oral maximum recommended human dose (MRHD), based on mg/m2 body surface area; some fetal toxicities were observed at these doses (see Data).
+Olanzapine was not teratogenic when administered orally to pregnant rats and rabbits at doses that are 9 and 30 times the daily oral maximum recommended human dose (MRHD), based on mg/m2 body surface area; some fetal toxicities were observed at these doses (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
@@ -77,7 +77,7 @@ Based on the pharmacologic action of olanzapine (D2 receptor antagonism), treatm
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of oral ZYPREXA in the treatment of schizophrenia and manic or mixed episodes associated with bipolar I disorder were established in short-term studies in adolescents (ages 13 to 17 years).
-Use of ZYPREXA in adolescents is supported by evidence from adequate and well-controlled studies of ZYPREXA in which 268 adolescents received ZYPREXA in a range of 2.5 to 20 mg/day [see Clinical Studies (14.1, 14.2)].
+Use of ZYPREXA in adolescents is supported by evidence from adequate and well-controlled studies of ZYPREXA in which 268 adolescents received ZYPREXA in a range of 2.5 mg/day to 20 mg/day [see Clinical Studies (14.1, 14.2)].
 Recommended starting dose for adolescents is lower than that for adults [see Dosage and Administration (2.1, 2.2)].
 Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin and hepatic aminotransferase levels [see Warnings and Precautions (5.5, 5.15, 5.17) and Adverse Reactions (6.1)].
 When deciding among the alternative treatments available for adolescents, clinicians should consider the increased potential (in adolescents as compared with adults) for weight gain and dyslipidemia.

@@ -1,120 +1,96 @@
 # PRINCIPAL DISPLAY PANEL - 2.5 mg Tablet Bottle Label
 
-NDC 61269-630-30
-
 30 Tablets
 
-No. 4112
+NDC 61269-630-30
 
 ZyPREXA
 
 Olanzapine Tablets
 
-LILLY 4112
+2.5 mg
 
-2.5 mg Rx only
-
-Medication Guide is to be dispensed to patients.
+Dispense the enclosed Medication Guide to each patient.
 
 CHEPLAPHARM
 
 # PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
 
-NDC 61269-631-30
-
 30 Tablets
 
-No. 4115
+NDC 61269-631-30
 
 ZyPREXA
 
 Olanzapine Tablets
 
-LILLY 4115
+5 mg
 
-5 mg Rx only
-
-Medication Guide is to be dispensed to patients.
+Dispense the enclosed Medication Guide to each patient.
 
 CHEPLAPHARM
 
 # PRINCIPAL DISPLAY PANEL - 7.5 mg Tablet Bottle Label
 
-NDC 61269-632-30
-
 30 Tablets
 
-No. 4116
+NDC 61269-632-30
 
 ZyPREXA
 
 Olanzapine Tablets
 
-LILLY 4116
+7.5 mg
 
-7.5 mg Rx only
-
-Medication Guide is to be dispensed to patients.
+Dispense the enclosed Medication Guide to each patient.
 
 CHEPLAPHARM
 
 # PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
-NDC 61269-633-30
-
 30 Tablets
 
-No. 4117
+NDC 61269-633-30
 
 ZyPREXA
 
 Olanzapine Tablets
 
-LILLY 4117
+10 mg
 
-10 mg Rx only
-
-Medication Guide is to be dispensed to patients.
+Dispense the enclosed Medication Guide to each patient.
 
 CHEPLAPHARM
 
 # PRINCIPAL DISPLAY PANEL - 15 mg Tablet Bottle Label
 
-NDC 61269-634-30
-
 30 Tablets
 
-No. 4415
+NDC 61269-634-30
 
 ZyPREXA
 
 Olanzapine Tablets
 
-LILLY 4415
+15 mg
 
-15 mg Rx only
-
-Medication Guide is to be dispensed to patients.
+Dispense the enclosed Medication Guide to each patient.
 
 CHEPLAPHARM
 
 # PRINCIPAL DISPLAY PANEL - 20 mg Tablet Bottle Label
 
-NDC 61269-635-30
-
 30 Tablets
 
-No. 4420
+NDC 61269-635-30
 
 ZyPREXA
 
 Olanzapine Tablets
 
-LILLY 4420
+20 mg
 
-20 mg Rx only
-
-Medication Guide is to be dispensed to patients.
+Dispense the enclosed Medication Guide to each patient.
 
 CHEPLAPHARM
 

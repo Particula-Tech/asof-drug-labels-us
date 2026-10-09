@@ -1,17 +1,16 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-The ZYPREXA 2.5 mg, 5 mg, 7.5 mg, and 10 mg tablets are white, round, and imprinted in blue ink with LILLY and tablet number.
-The 15 mg tablets are elliptical, blue, and debossed with LILLY and tablet number.
-The 20 mg tablets are elliptical, pink, and debossed with LILLY and tablet number.
+The ZYPREXA 2.5 mg, 5 mg, 7.5 mg, and 10 mg tablets are white, round, and imprinted with ZYP and tablet number.
+The 15 mg tablets are elliptical, blue, and debossed with ZYP and tablet number.
+The 20 mg tablets are elliptical, pink, and debossed with ZYP and tablet number.
 Tablets are not scored.
 The tablets are available as follows:
 
 |  | TABLET STRENGTH |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 2.5 mg | 5 mg | 7.5 mg | 10 mg | 15 mg | 20 mg |
-| Tablet No. | 4112 | 4115 | 4116 | 4117 | 4415 | 4420 |
-| Identification | LILLY | LILLY | LILLY | LILLY | LILLY | LILLY |
-|  | 4112 | 4115 | 4116 | 4117 | 4415 | 4420 |
+| Identification | ZYP | ZYP | ZYP | ZYP | ZYP | ZYP |
+| Tablet No. | 2.5 | 5 | 7.5 | 10 | 15 | 20 |
 
 ZYPREXA ZYDIS (olanzapine orally disintegrating tablets) are yellow, round, and debossed with the tablet strength.
 Tablets are not scored.

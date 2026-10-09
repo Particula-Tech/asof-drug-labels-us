@@ -46,7 +46,7 @@ Antihypertensive Agents — Olanzapine, because of its potential for inducing hy
 
 Levodopa and Dopamine Agonists — Olanzapine may antagonize the effects of levodopa and dopamine agonists.
 
-Lorazepam (IM) — Administration of intramuscular lorazepam (2 mg) 1 hour after intramuscular olanzapine for injection (5 mg) did not significantly affect the pharmacokinetics of olanzapine, unconjugated lorazepam, or total lorazepam.
+Lorazepam (Intramuscular) — Administration of intramuscular lorazepam (2 mg) 1 hour after intramuscular olanzapine for injection (5 mg) did not significantly affect the pharmacokinetics of olanzapine, unconjugated lorazepam, or total lorazepam.
 However, this co-administration of intramuscular lorazepam and intramuscular olanzapine for injection added to the somnolence observed with either drug alone [see Warnings and Precautions (5.7)].
 
 Lithium — Multiple doses of olanzapine (10 mg for 8 days) did not influence the kinetics of lithium.

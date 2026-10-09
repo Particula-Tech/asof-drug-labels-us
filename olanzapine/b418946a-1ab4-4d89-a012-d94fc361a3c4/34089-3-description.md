@@ -12,7 +12,6 @@ ZYPREXA tablets are intended for oral administration only.
 Each tablet contains olanzapine equivalent to 2.5 mg (8 μmol), 5 mg (16 μmol), 7.5 mg (24 μmol), 10 mg (32 μmol), 15 mg (48 μmol), or 20 mg (64 μmol).
 Inactive ingredients are carnauba wax, crospovidone, hydroxypropyl cellulose, hypromellose, lactose, magnesium stearate, microcrystalline cellulose, and other inactive ingredients.
 The color coating contains Titanium Dioxide (all strengths), FD&C Blue No. 2 Aluminum Lake (15 mg), or Synthetic Red Iron Oxide (20 mg).
-The 2.5, 5, 7.5, and 10 mg tablets are imprinted with edible ink which contains FD&C Blue No. 2 Aluminum Lake.
 
 ZYPREXA ZYDIS (olanzapine orally disintegrating tablets) is intended for oral administration only.
 

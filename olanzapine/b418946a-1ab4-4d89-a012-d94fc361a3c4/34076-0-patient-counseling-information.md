@@ -64,7 +64,7 @@ Patients should be advised to avoid alcohol while taking ZYPREXA [see Drug Inter
 
 Phenylketonurics
 
-ZYPREXA ZYDIS (olanzapine orally disintegrating tablets) contains phenylalanine (0.34, 0.45, 0.67, or 0.90 mg per 5, 10, 15, or 20 mg tablet, respectively) [see Description (11)].
+ZYPREXA ZYDIS (olanzapine orally disintegrating tablets) contains phenylalanine (0.34 mg, 0.45 mg, 0.67 mg, or 0.90 mg per 5 mg, 10 mg, 15 mg, or 20 mg tablet, respectively) [see Description (11)].
 
 Use in Specific Populations
 

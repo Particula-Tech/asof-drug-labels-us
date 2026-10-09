@@ -49,7 +49,7 @@ Olanzapine's specific metabolic profile is presented below.
 
 Hyperglycemia and Diabetes Mellitus
 
-Healthcare providers should consider the risks and benefits when prescribing olanzapine to patients with an established diagnosis of diabetes mellitus, or having borderline increased blood glucose level (fasting 100-126 mg/dL, nonfasting 140-200 mg/dL).
+Healthcare providers should consider the risks and benefits when prescribing olanzapine to patients with an established diagnosis of diabetes mellitus or having borderline increased blood glucose level (fasting 100 mg/dL - 126 mg/dL, nonfasting 140 mg/dL - 200 mg/dL).
 Patients taking olanzapine should be monitored regularly for worsening of glucose control.
 Patients starting treatment with olanzapine should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
@@ -90,7 +90,7 @@ In analyses of patients who completed 9-12 months of olanzapine therapy, mean ch
 
 Olanzapine Monotherapy in Adolescents — The safety and efficacy of olanzapine have not been established in patients under the age of 13 years.
 In an analysis of 3 placebo-controlled olanzapine monotherapy studies of adolescent patients, including those with schizophrenia (6 weeks) or bipolar I disorder (manic or mixed episodes) (3 weeks), olanzapine was associated with a greater mean change from baseline in fasting glucose levels compared to placebo (2.68 mg/dL versus -2.59 mg/dL).
-The mean change in fasting glucose for adolescents exposed at least 24 weeks was 3.1 mg/dL (N=121).
+The mean change in fasting glucose for adolescents exposed to at least 24 weeks was 3.1 mg/dL (N=121).
 Table 3 shows short-term and long-term changes in fasting blood glucose from adolescent olanzapine monotherapy studies.
 
 Table 3: Changes in Fasting Glucose Levels from Adolescent Olanzapine Monotherapy Studies
@@ -212,7 +212,7 @@ Table 6: Weight Gain with Olanzapine Use in Adults
 | >30 (>66 lb) | 0 | 0.1 | 0.8 | 1.2 | 2 |
 
 Dose group differences with respect to weight gain have been observed.
-In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, mean baseline to endpoint increase in weight (10 mg/day: 1.9 kg; 20 mg/day: 2.3 kg; 40 mg/day: 3 kg) was observed with significant differences between 10 vs 40 mg/day.
+In a single 8-week randomized, double-blind, fixed-dose study comparing 10 mg/day (N=199), 20 mg/day (N=200) and 40 mg/day (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, mean baseline to endpoint increase in weight (10 mg/day: 1.9 kg; 20 mg/day: 2.3 kg; 40 mg/day: 3 kg) was observed with significant differences between 10 mg/day vs 40 mg/day.
 
 Olanzapine Monotherapy in Adolescents — The safety and efficacy of olanzapine have not been established in patients under the age of 13 years.
 Mean increase in weight in adolescents was greater than in adults.
@@ -281,7 +281,7 @@ Olanzapine may induce orthostatic hypotension associated with dizziness, tachyca
 
 From an analysis of the vital sign data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, orthostatic hypotension was recorded in ≥20% (1277/6030) of patients.
 
-For oral olanzapine therapy, the risk of orthostatic hypotension and syncope may be minimized by initiating therapy with 5 mg QD [see Dosage and Administration (2)].
+For oral olanzapine therapy, the risk of orthostatic hypotension and syncope may be minimized by initiating therapy with 5 mg once daily [see Dosage and Administration (2)].
 A more gradual titration to the target dose should be considered if hypotension occurs.
 
 Hypotension, bradycardia with or without hypotension, tachycardia, and syncope were also reported during the clinical trials with intramuscular olanzapine for injection.
@@ -349,7 +349,7 @@ In post marketing experience, the risk for severe adverse reactions (including f
 ## 5.15 Hyperprolactinemia
 
 As with other drugs that antagonize dopamine D2 receptors, olanzapine elevates prolactin levels, and the elevation persists during chronic administration.
-Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.
+Hyperprolactinemia may suppress hypothalamic gonadotropin-releasing hormone (GnRH), resulting in reduced pituitary gonadotropin secretion.
 This, in turn, may inhibit reproductive function by impairing gonadal steroidogenesis in both female and male patients.
 Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in patients receiving prolactin-elevating compounds.
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
@@ -369,7 +369,7 @@ In a pooled analysis from clinical trials including 454 adolescents treated with
 3 Based on a search of the following terms: breast discharge, enlargement or swelling, galactorrhea, gynecomastia, and lactation disorder.
 
 Dose group differences with respect to prolactin elevation have been observed.
-In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, incidence of prolactin elevation >24.2 ng/mL (female) or >18.77 ng/mL (male) at any time during the trial (10 mg/day: 31.2%; 20 mg/day: 42.7%; 40 mg/day: 61.1%) indicated significant differences between 10 vs 40 mg/day and 20 vs 40 mg/day.
+In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, incidence of prolactin elevation >24.2 ng/mL (female) or >18.77 ng/mL (male) at any time during the trial (10 mg/day: 31.2%; 20 mg/day: 42.7%; 40 mg/day: 61.1%) indicated significant differences between 10 mg/day vs 40 mg/day and 20 mg/day vs 40 mg/day.
 
 ## 5.16 Use in Combination with Fluoxetine, Lithium, or Valproate
 
