@@ -1,7 +1,5 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-.
-
 ## 8.1 Pregnancy
 
 Pregnancy Exposure Registry
@@ -19,13 +17,6 @@ However, spina bifida was observed in rabbits at a dose 60 times the MRHD [see D
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
-
-Clinical Considerations
-
-Fetal/Neonatal adverse reactions
-
-CNS stimulants, such as COTEMPLA XR-ODT, can cause vasoconstriction and thereby decrease placental perfusion.
-No fetal and/or neonatal adverse reactions have been reported with the use of therapeutic doses of methylphenidate during pregnancy; however, premature delivery and low birth weight infants have been reported in amphetamine-dependent mothers.
 
 Data
 

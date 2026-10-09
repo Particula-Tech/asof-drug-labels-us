@@ -10,9 +10,16 @@ They are available as follows:
 
 | NDC 70165-100-30 | 8.6 mg tablets: carton containing 5 blister cards of 6 tablets each, for a total of 30 tablets with a reusable travel case. |
 | --- | --- |
+| NDC 70165-100-31 | 8.6 mg tablets: bottles containing 30 tablets each. |
 | NDC 70165-200-30 | 17.3 mg tablets: carton containing 5 blister cards of 6 tablets each, for a total of 30 tablets with a reusable travel case. |
+| NDC 70165-200-31 | 17.3 mg tablets: bottles containing 30 tablets each. |
 | NDC 70165-300-30 | 25.9 mg tablets: carton containing 5 blister cards of 6 tablets each, for a total of 30 tablets with a reusable travel case. |
+| NDC 70165-300-31 | 25.9 mg tablets: bottles containing 30 tablets each. |
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted from 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Store COTEMPLA XR-ODT blister packages in the reusable travel case after removal from the carton.
+
+Store COTEMPLA XR-ODT bottles in a cool, dry place at 20°C to 25°C (68°F to 77°F); excursions
+
+permitted from 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].

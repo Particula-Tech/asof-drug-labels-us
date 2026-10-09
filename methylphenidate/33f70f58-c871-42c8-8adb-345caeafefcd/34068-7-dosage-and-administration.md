@@ -26,7 +26,7 @@ If improvement is not observed after appropriate dosage adjustment over a one-mo
 
 ## 2.4 COTEMPLA XR-ODT Administration
 
-Instruct the patient or caregiver on the following administration instructions:
+Instruct the patient or caregiver on the following administration instructions when supplied in blister form:
 
 - Do not remove the tablet from the blister pack until just prior to dosing.
   Take the tablet immediately after opening the blister pack.
@@ -35,6 +35,17 @@ Instruct the patient or caregiver on the following administration instructions:
 - Remove the tablet by peeling back the foil on the blister pack.
   Do not push the tablet through the foil.
 - As soon as the blister is opened, remove the tablet and place on the patient's tongue.
+- Place the whole tablet on the tongue and allow it to disintegrate without chewing or crushing.
+- The tablet will disintegrate in saliva so that it can be swallowed.
+  No liquid is needed to take the tablet.
+
+Instruct the patient or caregiver on the following administration instructions when supplied in bottle form:
+
+- Do not remove the tablet from the bottle until just prior to dosing.
+  Take the tablet immediately after opening the bottle.
+- Do not store the tablet for future use.
+- Use dry hands when removing the tablet from bottle.
+- As soon as the bottle is opened, remove the tablet and place on the patient’s tongue.
 - Place the whole tablet on the tongue and allow it to disintegrate without chewing or crushing.
 - The tablet will disintegrate in saliva so that it can be swallowed.
   No liquid is needed to take the tablet.

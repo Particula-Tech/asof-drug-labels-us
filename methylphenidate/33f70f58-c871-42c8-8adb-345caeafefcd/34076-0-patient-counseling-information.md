@@ -9,7 +9,7 @@ Advise patients to store COTEMPLA XR-ODT in a safe place, preferably locked, and
 
 Instructions for Taking COTEMPLA XR-ODT
 
-Instruct patients and their caregivers on the following:
+Instruct patients and their caregivers on the following when supplied in blister form::
 
 - The tablet should remain in the blister pack until the patient is ready to take it.
 - The tablet should be taken immediately after opening the blister pack.
@@ -18,6 +18,17 @@ Instruct patients and their caregivers on the following:
 - The patient or caregiver should remove the tablet by peeling back the foil on the blister pack.
   The tablet should not be pushed through the foil.
 - As soon as the blister is opened, the tablet should be removed and placed on the patient's tongue.
+- The whole tablet should be placed on the tongue and allowed to disintegrate without chewing or crushing.
+- The tablet will disintegrate in saliva and can be swallowed.
+  No liquid is needed to take the tablet.
+
+Instruct patients and their caregivers on the following when supplied in bottle form:
+
+- The tablet should remain in the bottle until the patient is ready to take it.
+- The tablet should be taken immediately after removing it from the bottle.
+  It should not be stored for future use.
+- The patient or caregiver should use dry hands when removing from the bottle.
+- As soon as the tablet is removed from the bottle, the tablet should be placed on the patient’s tongue.
 - The whole tablet should be placed on the tongue and allowed to disintegrate without chewing or crushing.
 - The tablet will disintegrate in saliva and can be swallowed.
   No liquid is needed to take the tablet.

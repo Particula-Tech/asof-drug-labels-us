@@ -1,7 +1,5 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-.
-
 ## 5.1 Abuse, Misuse, and Addiction
 
 COTEMPLA XR-ODT has a high potential for abuse and misuse.
@@ -17,6 +15,7 @@ Throughout COTEMPLA XR-ODT treatment, reassess each patient’s risk of abuse, m
 ## 5.2 Risks to Patients with Serious Cardiac Disease
 
 Sudden death has occurred in patients with structural cardiac abnormalities or other serious cardiac disease who were treated with CNS stimulants at the recommended ADHD dosages.
+
 Avoid COTEMPLA XR-ODT use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease, or other serious cardiac disease.
 
 ## 5.3 Increased Blood Pressure and Heart Rate
@@ -24,14 +23,6 @@ Avoid COTEMPLA XR-ODT use in patients with known structural cardiac abnormalitie
 CNS stimulants cause an increase in blood pressure (mean increase approximately 2 to 4 mm Hg) and heart rate (mean increase approximately 3 to 6 bpm).
 Some patients may have larger increases.
 Monitor all COTEMPLA XR-ODT-treated patients for hypertension and tachycardia.
-
-## 5.5 Priapism
-
-Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate use in both adult and pediatric male patients.
-Although priapism was not reported with methylphenidate initiation, it developed after some time on methylphenidate, often subsequent to an increase in dosage.
-Priapism also occurred during methylphenidate withdrawal (drug holidays or during discontinuation).
-
-COTEMPLA XR-ODT-treated patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
 
 ## 5.4 Psychiatric Adverse Reactions
 
@@ -50,6 +41,14 @@ CNS stimulants, at the recommended dosage, may cause psychotic or manic symptoms
 In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients, compared to 0% of placebo-treated patients.
 If such symptoms occur, consider discontinuing COTEMPLA XR-ODT.
 
+## 5.5 Priapism
+
+Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate use in both adult and pediatric male patients.
+Although priapism was not reported with methylphenidate initiation, it developed after some time on methylphenidate, often subsequent to an increase in dosage.
+Priapism also occurred during methylphenidate withdrawal (drug holidays or during discontinuation).
+
+COTEMPLA XR-ODT-treated patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
+
 ## 5.6 Peripheral Vasculopathy, including Raynaud's Phenomenon
 
 CNS stimulants, including COTEMPLA XR-ODT, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
@@ -62,7 +61,7 @@ Further clinical evaluation (e.g., rheumatology referral) may be appropriate for
 
 ## 5.7 Long-Term Suppression of Growth in Pediatric Patients
 
-COTEMPLA[A1] XR-ODT is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
+COTEMPLA XR-ODT is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 
