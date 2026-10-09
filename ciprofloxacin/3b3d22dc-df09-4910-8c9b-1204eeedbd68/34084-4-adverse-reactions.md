@@ -2,21 +2,21 @@
 
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
-- Disabling and Potentially Irreversible Serious Adverse Reactions [see Warnings and Precautions (5.1)]
-- Tendinitis and Tendon Rupture [see Warnings and Precautions (5.2)]
-- Peripheral Neuropathy [see Warnings and Precautions (5.3)]
-- Central Nervous System Effects [see Warnings and Precautions (5.4)]
-- Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
-- Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.6)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
-- Hepatotoxicity [see Warnings and Precautions (5.8)]
-- Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.9)]
-- Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.10)]
-- Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.11)]
-- Prolongation of the QT Interval [see Warnings and Precautions (5.12)]
-- Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.13)]
-- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.14)]
-- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.15)]
+- •Disabling and Potentially Irreversible Serious Adverse Reactions [see Warnings and Precautions (5.1)]
+- •Tendinitis and Tendon Rupture [see Warnings and Precautions (5.2)]
+- •Peripheral Neuropathy [see Warnings and Precautions (5.3)]
+- •Central Nervous System Effects [see Warnings and Precautions (5.4)]
+- •Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
+- •Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.6)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+- •Hepatotoxicity [see Warnings and Precautions (5.8)]
+- •Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.9)]
+- •Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.10)]
+- •Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.11)]
+- •Prolongation of the QT Interval [see Warnings and Precautions (5.12)]
+- •Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.13)]
+- •Photosensitivity/Phototoxicity [see Warnings and Precautions (5.14)]
+- •Development of Drug Resistant Bacteria [see Warnings and Precautions (5.15)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -39,7 +39,7 @@ Table 8: Medically Important Adverse Reactions That Occurred in less than 1% of 
 | Musculoskeletal | Arthralgia Joint Stiffness Muscle Weakness |
 | Renal/Urogenital | Interstitial Nephritis Renal Failure |
 | Respiratory | Dyspnea Laryngeal Edema Hemoptysis Bronchospasm |
-| Skin/Hypersensitivity | Anaphylactic Reactions including life-threatening anaphylactic shock Erythema Multiforme/Stevens-Johnson Syndrome Exfoliative Dermatitis Toxic Epidermal Necrolysis Pruritus Urticaria Photosensitivity/Phototoxicity reaction Flushing Fever Angioedema Erythema Nodosum Sweating |
+| Skin/Hypersensitivity | Anaphylactic Reactions including life-threatening anaphylactic shock Erythema Multiforme/Stevens-Johnson Syndrome Exfoliative Dermatitis Toxic Epidermal Necrolysis Pruritus Urticaria Photosensitivity/Phototoxicity reactionFlushing Fever Angioedema Erythema Nodosum Sweating |
 | Special Senses | Blurred Vision Disturbed Vision (chromatopsia and photopsia) Decreased Visual Acuity Diplopia Tinnitus Hearing Loss Bad Taste |
 
 In randomized, double-blind controlled clinical trials comparing ciprofloxacin tablets [500 mg two times daily (BID)] to cefuroxime axetil (250 mg–500 mg BID) and to clarithromycin (500 mg BID) in patients with respiratory tract infections, ciprofloxacin demonstrated a CNS adverse reaction profile comparable to the control drugs.
@@ -60,17 +60,17 @@ At the end of 1 year, the rate of these adverse reactions reported at any time d
 
 Table 9: Musculoskeletal Adverse Reactions* as Assessed by the IPSC
 
-|  | Ciprofloxacin | Comparator |  |
-| --- | --- | --- | --- |
-| All Patients (within 6 weeks) | 31/335 (9.3%) | 21/349 (6%) |  |
-| 95% Confidence Interval† | (-0.8%, +7.2%) |  |  |
-| Age Group |  |  |  |
-| 12 months < 24 months | 1/36 (2.8%) |  | 0/41 |
-| 2 years < 6 years | 5/124 (4%) |  | 3/118 (2.5%) |
-| 6 years < 12 years | 18/143 (12.6%) |  | 12/153 (7.8%) |
-| 12 years to 17 years | 7/32 (21.9%) |  | 6/37 (16.2 %) |
-| All Patients (within 1 year) | 46/335 (13.7%) |  | 33/349 (9.5%) |
-| 95% Confidence Interval* | (-0.6%, + 9.1%) |  |  |
+|  | Ciprofloxacin | Comparator |
+| --- | --- | --- |
+| All Patients (within 6 weeks) | 31/335 (9.3%) | 21/349 (6%) |
+| 95% Confidence Interval† | (-0.8%, +7.2%) |  |
+| Age Group |  |  |
+| 12 months < 24 months | 1/36 (2.8%) | 0/41 |
+| 2 years < 6 years | 5/124 (4%) | 3/118 (2.5%) |
+| 6 years < 12 years | 18/143 (12.6%) | 12/153 (7.8%) |
+| 12 years to 17 years | 7/32 (21.9%) | 6/37 (16.2 %) |
+| All Patients (within 1 year) | 46/335 (13.7%) | 33/349 (9.5%) |
+| 95% Confidence Interval* | (-0.6%, + 9.1%) |  |
 
 * Included: arthralgia, abnormal gait, abnormal joint exam, joint sprains, leg pain, back pain, arthrosis, bone pain, pain, myalgia, arm pain, and decreased range of motion in a joint (knee, elbow, ankle, hip, wrist, and shoulder)
 

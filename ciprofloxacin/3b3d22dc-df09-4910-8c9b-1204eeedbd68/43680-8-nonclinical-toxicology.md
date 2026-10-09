@@ -4,20 +4,20 @@
 
 Eight in vitro mutagenicity tests have been conducted with ciprofloxacin, and the test results are listed below:
 
-- Salmonella/Microsome Test (Negative)
-- E. coli DNA Repair Assay (Negative)
-- Mouse Lymphoma Cell Forward Mutation Assay (Positive)
-- Chinese Hamster V79 Cell HGPRT Test (Negative)
-- Syrian Hamster Embryo Cell Transformation Assay (Negative)
-- Saccharomyces cerevisiae Point Mutation Assay (Negative)
-- Saccharomyces cerevisiae Mitotic Crossover and Gene Conversion Assay (Negative)
-- Rat Hepatocyte DNA Repair Assay (Positive)
+- •Salmonella/Microsome Test (Negative)
+- •E. coli DNA Repair Assay (Negative)
+- •Mouse Lymphoma Cell Forward Mutation Assay (Positive)
+- •Chinese Hamster V79 Cell HGPRT Test (Negative)
+- •Syrian Hamster Embryo Cell Transformation Assay (Negative)
+- •Saccharomyces cerevisiae Point Mutation Assay (Negative)
+- •Saccharomyces cerevisiae Mitotic Crossover and Gene Conversion Assay (Negative)
+- •Rat Hepatocyte DNA Repair Assay (Positive)
 
 Thus, 2 of the 8 tests were positive, but results of the following 3 in vivo test systems gave negative results:
 
-- Rat Hepatocyte DNA Repair Assay
-- Micronucleus Test (Mice)
-- Dominant Lethal Test (Mice)
+- •Rat Hepatocyte DNA Repair Assay
+- •Micronucleus Test (Mice)
+- •Dominant Lethal Test (Mice)
 
 Long-term carcinogenicity studies in rats and mice resulted in no carcinogenic or tumorigenic effects due to ciprofloxacin at daily oral dose levels up to 250 mg/kg and 750 mg/kg to rats and mice, respectively (approximately 1.7-and 2.5-times the highest recommended therapeutic dose based upon body surface area, respectively).
 
