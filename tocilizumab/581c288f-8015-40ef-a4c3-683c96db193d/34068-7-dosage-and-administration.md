@@ -13,7 +13,7 @@ Obtain and assess baseline complete blood count (CBC) and liver function tests p
 
 - RA, GCA, PJIA and SJIA – It is recommended that AVTOZMA not be initiated in patients with an absolute neutrophil count (ANC) below 2000 per mm3, platelet count below 100,000 per mm3, or ALT or AST above 1.5 times the upper limit of normal (ULN) [see Warnings and Precautions (5.3, 5.4)].
 - CRS - Patients with severe or life-threatening CRS frequently have cytopenias or elevated ALT or AST due to the lymphodepleting chemotherapy or the CRS.
-  The decision to administer AVTOZMA should take in to account the potential benefit of treating the CRS versus the risks of short-term treatment with AVTOZMA.
+  The decision to administer AVTOZMA should take into account the potential benefit of treating the CRS versus the risks of short-term treatment with AVTOZMA.
 - COVID-19 – It is recommended that AVTOZMA not be initiated in patients with an absolute neutrophil count (ANC) below 1000 per mm3, platelet count below 50,000 mm3, or ALT or AST above 10 times ULN [see Warnings and Precautions (5.3, 5.4)].
 
 ## 2.2 Recommended Dosage for Rheumatoid Arthritis
@@ -115,10 +115,9 @@ Interruption of dosing may be needed for management of dose-related laboratory a
 Use only the intravenous route for treatment of CRS.
 The recommended dose of AVTOZMA for treatment of CRS given as a 60-minute intravenous infusion is:
 
-Recommended Intravenous CRS Dosage
-
-| Patients less than 30 kg weight | 12 mg per kg |
+| Recommended Intravenous CRS Dosage |  |
 | --- | --- |
+| Patients less than 30 kg weight | 12 mg per kg |
 | Patients at or above 30 kg weight | 8 mg per kg |
 | Alone or in combination with corticosteroids |  |
 
@@ -129,7 +128,13 @@ The interval between consecutive doses should be at least 8 hours. • Doses exc
 
 Administer AVTOZMA by intravenous infusion only.
 
-The recommended dosage of AVTOZMA for treatment of adult patients with COVID-19 is 8 mg per kg administered as a single 60-minute intravenous infusion.
+The recommended dosage of AVTOZMA for treatment patients with COVID-19 given as a single 60-minute intravenous infusion is:
+
+| Recommended Intravenous COVID-19 Dosage |  |
+| --- | --- |
+| Patients less than 30 kg weight | 12 mg per kg |
+| Patients at or above 30 kg weight | 8 mg per kg |
+
 If clinical signs or symptoms worsen or do not improve after the first dose, one additional infusion of AVTOZMA may be administered at least 8 hours after the initial infusion.
 
 - Doses exceeding 800 mg per infusion are not recommended in patients with COVID-19.
@@ -150,9 +155,9 @@ AVTOZMA for intravenous infusion should be diluted by a healthcare professional 
 | For Intravenous Use: Volume of AVTOZMA Injection per kg of Body Weight |  |  |
 | 4 mg/kg | Adult RA | 0.2 mL/kg |
 | 6 mg/kg | Adult GCA | 0.3 mL/kg |
-| 8 mg/kg | Adult RA Adult COVID-19 SJIA, PJIA and CRS (greater than or equal to 30 kg of body weight) | 0.4 mL/kg |
+| 8 mg/kg | Adult RA SJIA, PJIA, CRS and COVID-19 (greater than or equal to 30 kg of body weight) | 0.4 mL/kg |
 | 10 mg/kg | PJIA (less than 30 kg of body weight) | 0.5 mL/kg |
-| 12 mg/kg | SJIA and CRS (less than 30 kg of body weight) | 0.6 mL/kg |
+| 12 mg/kg | SJIA, CRS and COVID-19 (less than 30 kg of body weight) | 0.6 mL/kg |
 
 - Step 2.
   Withdraw the amount of AVTOZMA for intravenous infusion from the vial(s) and add slowly into the 0.9% or 0.45% Sodium Chloride Injection, USP infusion bag or bottle.
@@ -176,7 +181,7 @@ AVTOZMA for intravenous infusion should be diluted by a healthcare professional 
   Patients should seek immediate medical attention if they develop symptoms of serious allergic reactions.
   AVTOZMA subcutaneous injection is intended for use under the guidance of a healthcare practitioner.
   After proper training in subcutaneous injection technique, a patient may self-inject AVTOZMA or the patient's caregiver may administer AVTOZMA if a healthcare practitioner determines that it is appropriate.
-  PJIA and SJIA patients may self-inject with the AVTOZMA prefilled syringe or prefilled autoinjector, or the patient's caregiver may administer AVTOZMA if both the healthcare practitioner and the parent/legal guardian determines it is appropriate [see Use in Specific Populations (8.4)].
+  PJIA and SJIA patients may self-inject with the AVTOZMA prefilled syringe or prefilled autoinjector, or the patient's caregiver may administer AVTOZMA if both the healthcare practitioner and the parent/legal guardian determines it is appropriate [see Use in Specific Populations (8.3)].
   Patients, or patient caregivers, should be instructed to follow the directions provided in the Instructions for Use (IFU) for additional details on medication administration.
 - Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
   Do not use AVTOZMA prefilled syringes (PFS) or prefilled autoinjector (AI) exhibiting particulate matter, cloudiness, or discoloration.

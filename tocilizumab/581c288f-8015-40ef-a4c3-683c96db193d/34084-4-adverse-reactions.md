@@ -422,7 +422,7 @@ If clinical signs or symptoms worsened or did not improve, one additional dose o
 
 Adverse reactions summarized in Table 3 occurred in at least 3% of tocilizumab-treated patients and more commonly than in patients on placebo in the pooled safety population.
 
-Table 3 Adverse ReactionsPatients are counted once for each category regardless of the number of reactions Identified From the Pooled COVID-19 Safety Population
+Table 3 Adverse ReactionsPatients are counted once for each category regardless of the number of reactions Identified From the Pooled Adult COVID-19 Safety Population
 
 |  | N = 974 (%) | N = 483 (%) |
 | --- | --- | --- |
@@ -441,7 +441,7 @@ In the pooled safety population, the rates of infection/serious infection events
 
 Laboratory Abnormalities
 
-In the pooled safety population of EMPACTA, COVACTA, and REMDACTA, neutrophil counts <1000 cells/mcl occurred in 3.4% of patients who received tocilizumab and 0.5% of patients who received placebo.
+In the pooled adult safety population of EMPACTA, COVACTA, and REMDACTA, neutrophil counts <1000 cells/mcl occurred in 3.4% of patients who received tocilizumab and 0.5% of patients who received placebo.
 Platelet counts <50,000 cells/mcl occurred in 3.2% of patients who received tocilizumab and 1.5% of patients who received placebo.
 ALT or AST at or above 5× ULN occurred in 11.7% of patients who received tocilizumab and 9.9% of patients who received placebo.
 

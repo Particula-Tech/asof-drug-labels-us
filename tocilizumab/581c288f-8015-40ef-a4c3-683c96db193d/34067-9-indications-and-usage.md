@@ -22,4 +22,4 @@ AVTOZMA® (tocilizumab-anoh) is indicated for the treatment of chimeric antigen 
 
 ## 1.6 Coronavirus Disease 2019 (COVID-19)
 
-AVTOZMA® (tocilizumab-anoh) is indicated for the treatment of coronavirus disease 2019 (COVID-19) in hospitalized adult patients who are receiving systemic corticosteroids and require supplemental oxygen, non- invasive or invasive mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).
+AVTOZMA® (tocilizumab-anoh) is indicated for the treatment of coronavirus disease 2019 (COVID-19) in hospitalized adult and pediatric patients aged 2 years and older who are receiving systemic corticosteroids and require supplemental oxygen, non- invasive or invasive mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).

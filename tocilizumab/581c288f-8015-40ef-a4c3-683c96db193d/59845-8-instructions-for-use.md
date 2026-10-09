@@ -74,7 +74,7 @@ After the Injection
 | 15. Record your injection.a.Write the date, time, and speciﬁc part of your body where you injected yourself. |  |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Issued: 7/2026
+Issued: 9/2026
 
 Manufactured by: CELLTRION, Inc., 23, Academy-ro, Yeonsu-gu, Incheon, 22014, Republic of Korea US License Number 1996
 
@@ -157,7 +157,7 @@ After the Injection
 | 15. Record your injection.a.Write the date, time, and speciﬁc part of your body where you injected yourself. |  |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Issued: 7/2026
+Issued: 9/2026
 
 Manufactured by: CELLTRION, Inc., 23, Academy-ro, Yeonsu-gu, Incheon, 22014, Republic of Korea US License Number 1996
 

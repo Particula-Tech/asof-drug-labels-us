@@ -46,7 +46,7 @@ Table 4 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Tr
 | Response Rate | Study I |  | Study II |  |  | Study III |  |  | Study IV |  | Study V |  |  |
 | MTX | Tocilizumab 8 mg per kg | Placebo + MTX | Tocilizumab 4 mg per kg + MTX | Tocilizumab 8 mg per kg + MTX | Placebo + MTX | Tocilizumab 4 mg per kg + MTX | Tocilizumab 8 mg per kg + MTX | Placebo + DMARDs | Tocilizumab 8 mg per kg + DMARDs | Placebo + MTX | Tocilizumab 4 mg per kg + MTX | Tocilizumab 8 mg per kg + MTX |  |
 | ACR 20 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Week 24 | 53% | 70% (0.11, 0.27) | 27% | 51% (0.17, 0.29) | 56% (0.23, 0.35) | 27% | 48% (0.15, 0.32) | 59% (0.23, 0.41) | 24% | 61% (0.30, 0.40) | 10% | 30% (0.15, 0.36) | 50% (0.36, 0.56) |
+| Week 24 | 8% | 70% (0.11, 0.27) | 27% | 51% (0.17, 0.29) | 56% (0.23, 0.35) | 27% | 48% (0.15, 0.32) | 59% (0.23, 0.41) | 24% | 61% (0.30, 0.40) | 10% | 30% (0.15, 0.36) | 50% (0.36, 0.56) |
 | Week 52 | N/A | N/A | 25% | 47% (0.15, 0.28) | 56% (0.25, 0.38) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 | ACR 50 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 24 | 34% | 44% (0.04, 0.20) | 10% | 25% (0.09, 0.20) | 32% (0.16, 0.28) | 11% | 32% (0.13, 0.29) | 44% (0.25, 0.41) | 9% | 38% (0.23, 0.33) | 4% | 17% (0.05, 0.25) | 29% (0.21, 0.41) |

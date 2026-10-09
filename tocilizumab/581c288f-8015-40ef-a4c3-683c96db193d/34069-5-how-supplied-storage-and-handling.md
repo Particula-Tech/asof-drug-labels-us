@@ -19,11 +19,8 @@ The following packaging configurations are available:
 
 - Each single-dose prefilled syringe delivers 162 mg/0.9 mL: carton of one syringe (NDC 72606-045-01); carton of 4 syringes (NDC 72606-045-02); carton of 3 packs of 4 syringes (NDC 72606-045-03).
   The syringe plunger stopper and needle cover are not made with natural rubber latex.
-- Each single-dose prefilled autoinjector 162 mg/0.9 mL: carton of one syringe (NDC 72606-045-04); carton of 4 syringes (NDC 72606-045-05); carton of 3 packs of 4 syringes (NDC 72606-045-06).
+- Each single-dose prefilled autoinjector 162 mg/0.9 mL: carton of one autoinjector (NDC 72606-045-04); carton of 4 autoinjectors (NDC 72606-045-05); carton of 3 packs of 4 autoinjectors (NDC 72606-045-06).
   The syringe plunger stopper and needle cover are not made with natural rubber latex.
-
-If necessary, the pre-filled syringe or autoinjector may be returned to the refrigerator once within these 3 weeks and stored refrigerated until the expiry date.
-The pre-filled syringe must be discarded if not used within the 3-week period.
 
 Storage and Handling: Do not use beyond expiration date on the container, package, prefilled syringe, or autoinjector.
 AVTOZMA must be refrigerated at 36°F to 46°F (2ºC to 8ºC).
@@ -31,3 +28,6 @@ Do not freeze.
 Protect the vials, syringes, and autoinjectors from light by storage in the original carton until time of use, and keep syringes and autoinjectors dry.
 Once removed from the refrigerator, the prefilled syringe and autoinjector can be stored at room temperature at or below 77°F (25°C) for up to 3 weeks.
 The prefilled syringe and autoinjector must always be kept in the carton.
+
+If necessary, the pre-filled syringe or autoinjector may be returned to the refrigerator once within these 3 weeks and stored refrigerated until the expiry date.
+The pre-filled syringe or autoinjector must be discarded if not used within the 3-week period.
