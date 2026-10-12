@@ -45,9 +45,9 @@ Refer patients to the FDA's website at http://www.fda.gov/safesharpsdisposal for
 Instruct patients not to dispose of their used sharps disposal container in their household trash unless their community guidelines permit this.
 Instruct patients not to recycle their used sharps disposal container.
 
-Manufactured for: Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2026 Meitheal Pharmaceuticals Inc.
+Manufactured for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2026 Meitheal Pharmaceuticals Inc.
 
-Manufactured by: Emerge Bioscience Pte.
+Manufactured by Emerge Bioscience Pte.
 Ltd. Singapore 069535
 
 US License No. 2395
@@ -57,6 +57,6 @@ Ltd.
 
 Product of South Korea
 
-Revised: August 2026
+September 2026
 
-Commodity Number
+8U3CCM9-00

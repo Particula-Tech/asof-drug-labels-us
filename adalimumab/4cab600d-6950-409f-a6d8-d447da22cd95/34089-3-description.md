@@ -12,3 +12,9 @@ The solution of YUSIMRY is a clear to slightly opalescent, colorless to slightly
 Each 40 mg/0.8 mL prefilled syringe or prefilled pen delivers 0.8 mL (40 mg) of drug product.
 Each 0.8 mL of YUSIMRY contains adalimumab-aqvh (40 mg), glycine (9.61 mg), L-histidine (0.51 mg), L-histidine hydrochloride monohydrate (4.34 mg), polysorbate 80 (0.80 mg), sodium chloride (2.06 mg) and Water for Injection, USP.
 Sodium hydroxide is added as necessary to adjust the pH.
+
+Each 40 mg/0.4 mL prefilled pen delivers 0.4 mL (40 mg) of drug product.
+Each 0.4 mL of YUSIMRY contains adalimumab-aqvh (40 mg), mannitol (16.8 mg), polysorbate 80 (0.40 mg), and Water for Injection, USP.
+
+Each 80 mg/0.8 mL prefilled pen delivers 0.8 mL (80 mg) of drug product.
+Each 0.8 mL of YUSIMRY contains adalimumab-aqvh (80 mg), mannitol (33.6 mg), polysorbate 80 (0.80 mg), and Water for Injection, USP.

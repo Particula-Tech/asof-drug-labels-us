@@ -17,6 +17,20 @@ Each dose tray consists of a single-dose, 1 mL prefilled glass syringe with a fi
 The needle cover is not manufactured from natural rubber latex.
 The NDC number is 71288-816-81.
 
+- YUSIMRY Pen Carton - 40 mg/0.4 mL
+
+YUSIMRY is supplied in a carton containing two dose trays.
+Each dose tray consists of a single-dose pen, containing a 1 mL prefilled glass syringe with a fixed ½ inch needle, providing 40 mg/0.4 mL of YUSIMRY.
+The needle cover is not manufactured from natural rubber latex.
+The NDC number is 71288-817-81.
+
+- YUSIMRY Pen Carton - 80 mg/0.8 mL
+
+YUSIMRY is supplied in a carton containing two dose trays.
+Each dose tray consists of a single-dose pen, containing a 1 mL prefilled glass syringe with a fixed ½ inch needle, providing 80 mg/0.8 mL of YUSIMRY.
+The needle cover is not manufactured from natural rubber latex.
+The NDC number is 71288-818-81.
+
 Storage and Stability
 
 Do not use beyond the expiration date on the container.

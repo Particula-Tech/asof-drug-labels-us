@@ -19,8 +19,8 @@
 | General information about the safe and effective use of YUSIMRY. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use YUSIMRY for a condition for which it was not prescribed. Do not give YUSIMRY to other people, even if they have the same condition. It may harm them. This Medication Guide summarizes the most important information about YUSIMRY. If you would like more information, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about YUSIMRY that is written for health professionals. |  |
 | What are the ingredients in YUSIMRY? Active ingredient: adalimumab-aqvh |  |
 | YUSIMRY Pen 40 mg/0.8 mL and YUSIMRY prefilled syringe 40 mg/0.8 mL: |  |
-| Inactive ingredients: glycine, L-histidine, L-histidine hydrochloride monohydrate, polysorbate 80, sodium chloride, and Water for Injection. Sodium hydroxide is added as necessary to adjust the pH. |  |
-| Manufactured for: Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2026 Meitheal Pharmaceuticals Inc. Manufactured by: Emerge Bioscience Pte. Ltd. Singapore 069535 US License No. 2395 Product of South Korea For more information, go to www.YUSIMRY.com or call Meitheal Pharmaceuticals at -1-888-808-5529. |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. | Revised: 08/2026 |
+| Inactive ingredients: glycine, L-histidine, L-histidine hydrochloride monohydrate, polysorbate 80, sodium chloride, and Water for Injection. Sodium hydroxide is added as necessary to adjust the pH.YUSIMRY Pen 40 mg/0.4 mL and YUSIMRY Pen 80 mg/0.8 mL: Inactive ingredients: mannitol, polysorbate 80, and Water for Injection. |  |
+| Manufactured for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2026 Meitheal Pharmaceuticals Inc.Manufactured by Emerge Bioscience Pte. Ltd.Singapore 069535 US License No. 2395Product of South Korea For more information, go to www.YUSIMRY.com or call Meitheal Pharmaceuticals at -1-888-808-5529. |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. | Revised: 09/2026 |
 
-Commodity Number
+8U3AAME-00
