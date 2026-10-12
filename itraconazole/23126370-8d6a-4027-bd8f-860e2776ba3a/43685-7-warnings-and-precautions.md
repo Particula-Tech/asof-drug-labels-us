@@ -234,8 +234,11 @@ Refer to the approved product labeling to become familiar with the interaction p
 
 Although many of the clinical drug interactions in Table 2 are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with itraconazole.
 
+Table 2: Drug Interactions with Other Drugs that Affect Itraconazole Concentrations
+
 | Examples of Concomitant Drugs Within Class | Prevention or Management |
 | --- | --- |
+| Drug Interactions with Other Drugs that Increase Itraconazole Concentrations and May Increase Risk of Adverse Reactions Associated with Itraconazole |  |
 | Antibacterials |  |
 | Ciprofloxacina Erythromycina Clarithromycina | Monitor for adverse reactions. Itraconazole dose reduction may be necessary. |
 | Antineoplastics |  |

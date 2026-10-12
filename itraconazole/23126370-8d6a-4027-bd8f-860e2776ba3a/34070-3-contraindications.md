@@ -19,6 +19,6 @@ Coadministration with venetoclax is contraindicated in patients with CLL/SLL dur
 
 Itraconazole should not be administered for the treatment of onychomycosis to pregnant patients or to women contemplating pregnancy.
 
-Itraconazole are contraindicated for patients who have shown hypersensitivity to itraconazole.
+Itraconazole capsules are contraindicated for patients who have shown hypersensitivity to itraconazole.
 There is limited information regarding cross-hypersensitivity between itraconazole and other azole antifungal agents.
 Caution should be used when prescribing itraconazole to patients with hypersensitivity to other azoles.
