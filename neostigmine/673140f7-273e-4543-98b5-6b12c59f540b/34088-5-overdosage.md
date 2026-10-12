@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Muscarinic symptoms (nausea, vomiting, diarrhea, sweating, increased bronchial and salivary secretions, and bradycardia) may appear with overdosage of neostigmine methylsulfate injection (cholinergic crisis), but may be managed by the use of additional atropine or glycopyrrolate.
 The possibility of iatrogenic overdose can be lessened by carefully monitoring the muscle twitch response to peripheral nerve stimulation.

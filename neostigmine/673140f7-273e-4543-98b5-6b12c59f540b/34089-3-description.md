@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Neostigmine methylsulfate, a cholinesterase inhibitor, is (m-hydroxyphenyl) trimethylammonium methylsulfate dimethylcarbamate.
 The structural formula is:

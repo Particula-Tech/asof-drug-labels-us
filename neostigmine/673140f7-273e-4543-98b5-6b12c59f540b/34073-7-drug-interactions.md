@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 The pharmacokinetic interaction between neostigmine methylsulfate and other drugs has not been studied.
 Neostigmine methylsulfate is metabolized by microsomal enzymes in the liver.

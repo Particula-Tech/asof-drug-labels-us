@@ -1,6 +1,6 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## 2.1. Important Dosage Information
+## 2.1 Important Dosage Information
 
 Neostigmine methylsulfate injection should be administered by trained healthcare providers familiar with the use, actions, characteristics, and complications of neuromuscular blocking agents (NMBA) and neuromuscular block reversal agents.
 Doses of neostigmine methylsulfate injection should be individualized, and a peripheral nerve stimulator should be used to determine the time of initiation of neostigmine methylsulfate injection and should be used to determine the need for additional doses.
@@ -15,7 +15,7 @@ Satisfactory recovery should be judged by adequacy of skeletal muscle tone and r
 An anticholinergic agent, e.g., atropine sulfate or glycopyrrolate, should be administered prior to or concomitantly with neostigmine methylsulfate injection.
 [see Dosage and Administration (2.4)]
 
-## 2.2. Dosage in Adults
+## 2.2 Dosage in Adults
 
 a. Peripheral nerve stimulation devices capable of delivering a train-of-four (TOF) stimulus are essential to effectively using neostigmine methylsulfate injection.
 
@@ -47,12 +47,12 @@ h. Patients should continue to be monitored for adequacy of reversal from NMBAs 
 
 i. The recommended maximum total dose is 0.07 mg/kg or up to a total of 5 mg, whichever is less.
 
-## 2.3. Dosage in Pediatric Patients, including Neonates
+## 2.3 Dosage in Pediatric Patients, including Neonates
 
 Adult guidelines should be followed when neostigmine methylsulfate injection is administered to pediatric patients.
 Pediatric patients require neostigmine methylsulfate injection doses similar to those for adult patients.
 
-## 2.4. Anticholinergic (Atropine or Glycopyrrolate) Administration
+## 2.4 Anticholinergic (Atropine or Glycopyrrolate) Administration
 
 An anticholinergic agent, e.g., atropine sulfate or glycopyrrolate, should be administered prior to or concomitantly with neostigmine methylsulfate injection.
 The anticholinergic agent should be administered intravenously using a separate syringe.

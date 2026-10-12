@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 Neostigmine methylsulfate injection is contraindicated in patients with:
 

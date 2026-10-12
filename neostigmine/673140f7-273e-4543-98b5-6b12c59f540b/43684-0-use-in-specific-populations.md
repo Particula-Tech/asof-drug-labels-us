@@ -1,6 +1,6 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1. Pregnancy
+## 8.1 Pregnancy
 
 Risk Summary
 
@@ -27,7 +27,7 @@ In a pre- and postnatal development study in rats, neostigmine methylsulfate was
 There were no adverse effects on physical development, behavior, learning ability, or fertility in the offspring occurred at HED doses up 8.1 mcg/kg/day which is 0.097-times the MRHD of 5 mg/60 kg on a mg/m2 basis in the presence of minimal maternal toxicity (tremors, ataxia, and prostration).
 The studies resulted in exposures in the animals well below predicted exposures in humans.
 
-## 8.2. Lactation
+## 8.2 Lactation
 
 Risk summary
 
@@ -35,7 +35,7 @@ Neostigmine methylsulfate has not been studied in lactating women.
 It is not known whether neostigmine methylsulfate is present in human milk, or if neostigmine methylsulfate has effects on milk production or the breastfed child.
 Therefore, the developmental and health benefits of breastfeeding should be considered along with the mother’s need for neostigmine methylsulfate and any potential adverse effects on the breastfed child from neostigmine methylsulfate or from the underlying maternal condition.
 
-## 8.4. Pediatric Use
+## 8.4 Pediatric Use
 
 Neostigmine methylsulfate injection is approved for the reversal of the effects of non-depolarizing neuromuscular blocking agents after surgery in pediatric patients of all ages.
 
@@ -48,7 +48,7 @@ The dose of neostigmine methylsulfate injection required to reverse neuromuscula
 
 Since the blood pressure in pediatric patients, particularly infants and neonates, is sensitive to changes in heart rate, the effects of an anticholinergic agent (e.g., atropine) should be observed prior to administration of neostigmine to lessen the probability of bradycardia and hypotension.
 
-## 8.5. Geriatric Use
+## 8.5 Geriatric Use
 
 Because elderly patients are more likely to have decreased renal function, neostigmine methylsulfate injection should be used with caution and monitored for a longer period in elderly patients.
 The duration of action of neostigmine methylsulfate is prolonged in the elderly; however, elderly patients also experience slower spontaneous recovery from neuromuscular blocking agents.
@@ -56,14 +56,14 @@ Therefore, dosage adjustments are not generally needed in geriatric patients; ho
 The duration of monitoring should be predicated on the anticipated duration of action for the NMBA used on the patient.
 [see Dosage and Administration (2.3)].
 
-## 8.6. Renal Impairment
+## 8.6 Renal Impairment
 
 Elimination half-life of neostigmine methylsulfate was prolonged in anephric patients compared to normal subjects.
 
 Although no adjustments to neostigmine methylsulfate injection dosing appear to be warranted in patients with impaired renal function, they should be closely monitored to assure the effects of the neuromuscular blocking agent, particularly one cleared by the kidneys, do not persist beyond those of neostigmine methylsulfate injection.
 In this regard, the interval for re‐dosing the neuromuscular blocking agent during the surgical procedure may be useful in determining whether, and to what extent, post‐operative monitoring needs to be extended.
 
-## 8.7. Hepatic Impairment
+## 8.7 Hepatic Impairment
 
 The pharmacokinetics of neostigmine methylsulfate in patients with hepatic impairment have not been studied.
 Neostigmine methylsulfate is metabolized by microsomal enzymes in the liver.
