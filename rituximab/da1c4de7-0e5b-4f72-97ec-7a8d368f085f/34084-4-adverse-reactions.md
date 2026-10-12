@@ -50,7 +50,7 @@ Cytopenias and Hypogammaglobulinemia
 
 In patients with NHL receiving rituximab monotherapy, NCI-CTC Grade 3 and 4 cytopenias were reported in 48% of patients.
 These included lymphopenia (40%), neutropenia (6%), leukopenia (4%), anemia (3%), and thrombocytopenia (2%).
-The median duration of lymphopenia was 14 days (range, 1–588 days) and of neutropenia was 13 days (range, 2–116 days).
+The median duration of lymphopenia was 14 days (range, 1−588 days) and of neutropenia was 13 days (range, 2−116 days).
 A single occurrence of transient aplastic anemia (pure red cell aplasia) and two occurrences of hemolytic anemia following rituximab therapy occurred during the single-arm studies.
 
 In studies of monotherapy, rituximab-induced B-cell depletion occurred in 70% to 80% of patients with NHL.
@@ -72,7 +72,7 @@ Adverse reactions presented in Table 2 occurred in 356 patients with relapsed or
 Most patients received rituximab 375 mg/m2 weekly for 4 doses.
 
 Table 2.
-Incidence of Adverse Reactions in Greater Than or Equal to 5% of Patients with Relapsed or Refractory, Low-Grade or Follicular NHL, Receiving Single-agent Rituximab (N=356)Adverse reactions observed up to 12 months following rituximab,Adverse reactions graded for severity by NCI-CTC criteria
+Incidence of Adverse Reactions in Greater Than or Equal to 5% of Patients with Relapsed or Refractory, Low-Grade or Follicular NHL, Receiving Single-agent Rituximab (N = 356)Adverse reactions observed up to 12 months following rituximab., Adverse reactions graded for severity by NCI-CTC criteria.
 
 |  | All Grades (%) | Grade 3 and 4 (%) |
 | --- | --- | --- |
@@ -151,7 +151,7 @@ Other Grade 3 or 4 adverse reactions occurring more frequently among patients re
 CLL
 
 The data below reflect exposure to rituximab in combination with fludarabine and cyclophosphamide in 676 patients with CLL in CLL Study 1 (NCT00281918) or CLL Study 2 (NCT00090051) [see Clinical Studies (14.5)].
-The age range was 30–83 years and 71% were men.
+The age range was 30−83 years and 71% were men.
 Detailed safety data collection in CLL Study 1 was limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
 
 Infusion-related adverse reactions were defined by any of the following adverse events occurring during or within 24 hours of the start of infusion: nausea, pyrexia, chills, hypotension, vomiting, and dyspnea.
@@ -176,7 +176,7 @@ Table 3These data are based on 938 patients treated in Phase 2 and 3 studies of 
 Incidence of All Adverse ReactionsCoded using MedDRA.
 Occurring in Greater Than or Equal to 2% and at Least 1% Greater than Placebo Among Rheumatoid Arthritis Patients in Clinical Studies Up to Week 24 (Pooled)
 
-| Adverse Reactions | Placebo + MTX N=398 n (%) | Rituximab + MTX N=540 n (%) |
+| Adverse Reactions | Placebo + MTX N = 398 n (%) | Rituximab + MTX N = 540 n (%) |
 | --- | --- | --- |
 | Hypertension | 21 (5) | 43 (8) |
 | Nausea | 19 (5) | 41 (8) |
@@ -266,7 +266,7 @@ Infection was the most common category of adverse events reported (47-62%) and i
 Table 4.
 Incidence of All Adverse Reactions Occurring in Greater Than or Equal to 10% of Rituximab-treated Patients with Active GPA and MPA in the GPA/MPA Study 1 Up to Month 6The study design allowed for crossover or treatment by best medical judgment, and 13 patients in each treatment group received a second therapy during the 6 month study period.
 
-| Adverse Reaction | Rituximab N = 99 n (%) | Cyclophosphamide N = 98 n (%) |
+| Adverse Reactions | Rituximab N = 99 n (%) | Cyclophosphamide N = 98 n (%) |
 | --- | --- | --- |
 | Nausea | 18 (18%) | 20 (20%) |
 | Diarrhea | 17 (17%) | 12 (12%) |
@@ -310,7 +310,7 @@ Follow up Treatment of Adult Patients with GPA/MPA who have Achieved Disease Con
 
 In GPA/MPA Study 2 (NCT00748644), an open-label, controlled, clinical study [see Clinical Studies (14.7)], evaluating the efficacy and safety of non-U.S.-licensed rituximab versus azathioprine as follow up treatment in adult patients with GPA, MPA or renal-limited ANCA-associated vasculitis who had achieved disease control after induction treatment with cyclophosphamide, a total of 57 GPA and MPA patients in disease remission received follow up treatment with two 500 mg intravenous infusions of non-U.S.-licensed rituximab, separated by two weeks on Day 1 and Day 15, followed by a 500 mg intravenous infusion every 6 months for 18 months.
 
-The safety profile was consistent with the safety profile for rituximab in RA, GPA and MPA.
+The safety profile was consistent with the safety profile for rituximab in RA and GPA and MPA.
 
 Infusion-Related Reactions
 
@@ -330,6 +330,32 @@ Long-term, Observational Study with Rituximab in Patients with GPA/MPA (GPA/MPA 
 In a long-term observational safety study (NCT01613599), 97 patients with GPA or MPA received treatment with rituximab (mean of 8 infusions [range 1-28]) for up to 4 years, according to physician standard practice and discretion.
 Majority of patients received doses ranging from 500 mg to 1,000 mg, approximately every 6 months.
 The safety profile was consistent with the safety profile for rituximab in RA, GPA and MPA.
+
+Treatment of Pediatric Patients with GPA/MPA (GPA/MPA Study 4)
+
+An open-label, single arm study (NCT01750697) was conducted in 25 pediatric patients 6 years to 17 years of age with active GPA or MPA.
+The overall study period consisted of a 6-month remission induction phase and a minimum 12-month follow-up phase, up to 54 months.
+During the remission induction phase, patients received rituximab or non- U.S.-licensed rituximab.
+During the follow-up phase, rituximab or non-U.S.-licensed rituximab were given at the discretion of the investigator (17 out of 25 patients received this additional treatment).
+Concomitant treatment with other immunosuppressive therapy was permitted [see Clinical Studies (14.7)].
+
+The safety profile in pediatric GPA and MPA patients was consistent in type, nature and severity with the known safety profile of rituximab in adult patients with RA, GPA and MPA, and PV.
+
+Infusion-Related Reactions
+
+In GPA/MPA Study 4, the proportion of patients experiencing an IRR was 32%, 20%, 12%, and 8% following the first, second, third, and fourth infusions, respectively.
+The observed symptoms of IRRs were similar to those in adult GPA and MPA patients treated with rituximab.
+[see Warning and Precautions (5.1)].
+
+Serious Infections
+
+Serious infections were reported in 7 patients (28%), and included influenza (2 patients [8%]) and lower respiratory tract infection (2 patients [8%]) as the most frequently reported events.
+
+Hypogammaglobulinemia
+
+Hypogammaglobulinemia (IgG or IgM below the lower limit of normal), including prolonged hypogammaglobulinemia (defined as Ig levels below lower limit of normal for at least 4 months) was observed in GPA/MPA Study 4.
+During the overall study period, 18/25 patients (72%) had prolonged low IgG levels, including 15 patients who also had prolonged low IgM.
+Three patients received treatment with intravenous immunoglobulin.
 
 Pemphigus Vulgaris (PV)
 
@@ -367,7 +393,7 @@ Incidence of All Adverse Reactions Occurring in greater than or equal to 5% Amon
 | Skin papilloma | 2 (5%) | 0 (0%) |
 | Tachycardia | 2 (5%) | 0 (0%) |
 | Urticaria | 2 (5%) | 0 (0%) |
-| N/A = not applicable |  |  |
+| N/A = not applicable. |  |  |
 
 Infusion-Related Reactions
 
@@ -395,7 +421,7 @@ Incidence of All Adverse Reactions occurring in greater than or equal to 5% of R
 | Adverse Reactions | Rituximab (N = 67) |
 | --- | --- |
 | Infusion-related reactions | 15 (22%)The most common infusion-related reaction symptoms/Preferred Terms for PV Study 2 in the rituximab arm were dyspnea, erythema, hyperhidrosis, flushing/hot flush, hypotension/low blood pressure and rash/rash pruritic |
-| Upper respiratory tract infection/ Nasopharyngitis | 11 (16%) |
+| Upper respiratory tract infection/Nasopharyngitis | 11 (16%) |
 | Headache | 10 (15%) |
 | Asthenia/Fatigue | 9 (13%) |
 | Oral candidiasis | 6 (9%) |
@@ -440,6 +466,7 @@ Four anti-rituximab antibody positive patients had serious infusion-related reac
 
 A total of 23/99 (23%) rituximab-treated adult patients with GPA and MPA developed anti-rituximab antibodies by 18 months in GPA/MPA Study 1.
 The clinical relevance of anti-rituximab antibody formation in rituximab-treated adult patients is unclear.
+In GPA/MPA Study 4, a total of 4/21 (19%) rituximab-treated pediatric patients with GPA and MPA developed anti-rituximab antibodies during the overall study period (assessed at Month 18).
 
 Using a new ELISA assay, a total of 19/34 (56%) patients with PV, who were treated with non-U.S.-licensed rituximab, tested positive for anti-rituximab antibodies by 18 months in PV Study 1.
 In PV Study 2, a total of 20/63 (32%) rituximab-treated PV patients tested positive for ADA by week 52 (19 patients had treatment-inducted ADA and 1 patient had treatment-enhanced ADA).

@@ -84,7 +84,7 @@ Monitor closely for signs of renal failure and discontinue RIABNI in patients wi
 ## 5.9 Bowel Obstruction and Perforation
 
 Abdominal pain, bowel obstruction and perforation, in some cases leading to death, can occur in patients receiving rituximab products in combination with chemotherapy.
-In postmarketing reports, the mean time to documented gastrointestinal perforation was 6 (range 1–77) days in patients with NHL.
+In postmarketing reports, the mean time to documented gastrointestinal perforation was 6 (range 1−77) days in patients with NHL.
 Evaluate if symptoms of obstruction such as abdominal pain or repeated vomiting occur.
 
 ## 5.10 Immunization

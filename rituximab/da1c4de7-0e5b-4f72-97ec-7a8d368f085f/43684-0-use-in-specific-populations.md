@@ -63,9 +63,15 @@ Advise females of reproductive potential to use effective contraception during t
 
 ## 8.4 Pediatric Use
 
-A pediatric assessment for RIABNI demonstrates that RIABNI is safe and effective for pediatric patients in an indication for which Rituxan (rituximab) is approved.
-However, RIABNI is not approved for such indication due to marketing exclusivity for Rituxan (rituximab).
-The safety and effectiveness of RIABNI have not been established in pediatric patients less than 2 years of age for GPA and MPA.
+Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
+
+RIABNI is indicated for the treatment of GPA and MPA in pediatric patients 2 years of age and older with GPA and MPA.
+RIABNI is not indicated in pediatric patients less than 2 years of age with GPA or MPA.
+
+The use of RIABNI for the treatment of pediatric patients with GPA and MPA 6 years of age and older is supported by evidence from adequate and well-controlled studies of rituximab in adults with GPA and MPA; a trial in pediatric patients 6 years of age and older with active GPA and MPA; and population pharmacokinetic (PK) analyses showing similar drug exposure levels in adults and pediatric patients 6 years to 17 years of age.
+The use of RIABNI for the treatment of pediatric patients with GPA and MPA ages 2 to less than 6 years of age is supported by PK modeling in patients 2 years of age and older and safety data from pediatric patients less than 6 years of age treated with rituximab.
+
+The pediatric trial was a multicenter, open-label, single arm study (GPA/MPA Study 4) to evaluate the safety, PK and exploratory efficacy of rituximab or non-U.S.-licensed rituximab in 25 pediatric patients (6 patients 6 years to less than 12 years of age and 19 patients 12 years to 17 years of age) with active GPA and MPA over a 6-month remission induction phase and minimum 12-month follow-up phase, up to 54 months [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
 
 The safety and effectiveness of RIABNI have not been established in pediatric patients with CLL.
 

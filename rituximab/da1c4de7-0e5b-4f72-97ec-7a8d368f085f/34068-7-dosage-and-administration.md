@@ -3,6 +3,7 @@
 ## 2.1 Important Dosing Information
 
 Administer only as an intravenous infusion [see Dosage and Administration (2.8)].
+
 Do not administer as an intravenous push or bolus.
 RIABNI should only be administered by a healthcare professional with appropriate medical support to manage severe infusion-related reactions that can be fatal if they occur [see Warnings and Precautions (5.1)].
 
@@ -73,6 +74,18 @@ Follow up Treatment of Adult Patients with GPA/MPA who have Achieved Disease Con
 - Administer RIABNI as two 500 mg intravenous infusions separated by two weeks, followed by a 500 mg intravenous infusion every 6 months thereafter based on clinical evaluation.
 - If induction treatment of active disease was with a rituximab product, initiate follow up treatment with RIABNI within 24 weeks after the last induction infusion with a rituximab product or based on clinical evaluation, but no sooner than 16 weeks after the last induction infusion with a rituximab product.
 - If induction treatment of active disease was with other standard of care immunosuppressants, initiate RIABNI follow up treatment within the 4 week period that follows achievement of disease control.
+
+Induction Treatment of Pediatric Patients with Active GPA/MPA
+
+- Administer RIABNI as a 375 mg/m2 intravenous infusion once weekly for 4 weeks.
+- Prior to the first RIABNI infusion, administer intravenous methylprednisolone 30 mg/kg (not to exceed 1 g/day) once daily for 3 days.
+- Following intravenous methylprednisolone administration, oral steroids should be continued per clinical practice.
+
+Follow up Treatment of Pediatric Patients with GPA/MPA who have Achieved Disease Control with Induction Treatment
+
+- Administer RIABNI as two 250 mg/m2 intravenous infusions separated by two weeks, followed by a 250 mg/m2 intravenous infusion every 6 months thereafter based on clinical evaluation.
+- If induction treatment of active disease was with a rituximab product, initiate follow up treatment with RIABNI within 24 weeks after the last induction infusion with a rituximab product or based on clinical evaluation, but no sooner than 16 weeks after the last induction infusion with a rituximab product.
+- If induction treatment of active disease was with other standard of care immunosuppressants, initiate RIABNI follow up treatment within the 4 week period following achievement of disease control.
 
 ## 2.7 Recommended Dose for Pemphigus Vulgaris (PV)
 

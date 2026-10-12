@@ -67,19 +67,21 @@ Age, weight and gender had no effect on the pharmacokinetics of rituximab in RA 
 
 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
 
-The pharmacokinetic parameters in adult patients with GPA/MPA receiving 375 mg/m2 intravenous rituximab or non-U.S.-licensed rituximab once weekly for four doses are summarized in Table 7.
+The pharmacokinetic parameters in adult and pediatric patients 6 years to 17 years of age with GPA/MPA receiving 375 mg/m2 intravenous rituximab or non-U.S.-licensed rituximab once weekly for four doses are summarized in Table 7.
 
 Table 7.
-Population PK in Adult Patients with GPA/MPA
+Population PK in Pediatric Patients (GPA/MPA Study 4) and Adult Patients (GPA/MPA Study 1) with GPA/MPA
 
-| N | Number of Patients | 97 |
-| --- | --- | --- |
-| Parameter | Statistic | GPA/MPA Study 1 |
-| Terminal Half-life (days) | Median (Range) | 25 (11 to 52) |
-| AUC0-180d (µg/mL*day) | Median (Range) | 10,302 (3,653 to 21,874) |
-| Clearance (L/day) | Median (Range) | 0.279 (0.113 to 0.653) |
-| Volume of Distribution (L) | Median (Range) | 3.12 (2.42 to 3.91) |
+| N | Number of Patients | 25 | 97 |
+| --- | --- | --- | --- |
+| Parameter | Statistic | Study |  |
+| Pediatric GPA/MPA (GPA/MPA Study 4) | Adult GPA/MPA (GPA/MPA Study 1) |  |  |
+| Terminal Half-life (days) | Median (Range) | 22 (11 to 42) | 25 (11 to 52) |
+| AUC0-180d (µg/mL*day) | Median (Range) | 9787 (4,838 to 20,446) | 10,302 (3,653 to 21,874) |
+| Clearance (L/day) | Median (Range) | 0.222 (0.0996 to 0.381) | 0.279 (0.113 to 0.653) |
+| Volume of Distribution (L) | Median (Range) | 2.28 (1.43 to 3.17) | 3.12 (2.42 to 3.91) |
 
+Based on a population PK analysis in pediatric patients with GPA and MPA, the PK parameters of rituximab were similar to those in adults with GPA and MPA, once taking into account the BSA effect on clearance and volume of distribution parameters.
 The population PK analysis in adults with GPA and MPA showed that male patients and patients with higher BSA or positive anti-rituximab antibody levels have higher clearance.
 However, further dose adjustment based on gender or anti-drug antibody status is not necessary.
 
@@ -90,9 +92,9 @@ The PK parameters in adult PV patients receiving 1,000 mg IV infusion of rituxim
 Table 8.
 Population PK in adult PV patients from PV Study 2
 
-| Parameter | Infusion Cycle |  |
-| --- | --- | --- |
 |  | 1st cycle of 1,000 mg Day 1 and Day 15 N = 67 | 2nd cycle of 1,000 mg Day 168 and Day 182 N = 67 |
+| --- | --- | --- |
+| Parameter | Infusion Cycle |  |
 | Terminal Half-life (days) |  |  |
 | Median | 21.1 | 26.2 |
 | (Range) | (9.3 to 36.2) | (16.4 to 42.8) |
@@ -112,6 +114,14 @@ Specific Populations
 The clearance and volume of distribution of rituximab increased with increasing body surface area (BSA).
 
 No formal studies were conducted to examine the effects of either renal or hepatic impairment on the pharmacokinetics of rituximab products.
+
+Pediatric patients
+
+The pharmacokinetics of rituximab have been studied in pediatric patients 6 years of age and older with active GPA and MPA (GPA/MPA Study 4).
+The effect of body surface area on the pharmacokinetics of rituximab was assessed in a population pharmacokinetic analysis which included 6 patients 6 years to less than 12 years of age and 19 patients 12 years to 17 years of age with GPA and MPA.
+BSA was a significant covariate on rituximab pharmacokinetics.
+The median AUC0-180d in patients 2 years to 5 years of age (BSA of 0.5 m2) was estimated to be 10100 (µg/mL*day) and is comparable to that in adults.
+For follow up treatment of pediatric patients with GPA/MPA, the 250 mg/m2 dose is estimated to provide pediatric GPA and MPA patients with exposure comparable to that observed in adults [see Use in Specific Populations (8.4) and Clinical Studies (14.7)].
 
 Drug Interaction Studies
 

@@ -19,7 +19,7 @@ RIABNI, in combination with methotrexate, is indicated for the treatment of adul
 
 ## 1.4 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
-RIABNI, in combination with glucocorticoids, is indicated for the treatment of adult patients with Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA).
+RIABNI, in combination with glucocorticoids, is indicated for the treatment of adult and pediatric patients 2 years of age and older with Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA).
 
 ## 1.5 Pemphigus Vulgaris (PV)
 
