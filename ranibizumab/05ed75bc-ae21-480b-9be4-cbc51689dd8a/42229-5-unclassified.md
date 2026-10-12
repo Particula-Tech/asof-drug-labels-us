@@ -1,2 +1,2 @@
-| NUFYMCOTM Manufactured by: Formycon AG Fraunhoferstraße 15 82152 Martinsried/Planegg Germany US License No. 2322 Distributed by: Zydus Pharmaceuticals (USA) Inc. Pennington, NJ 08534 |
+| NUFYMCOTM Manufactured by: Zydus Lifesciences Global FZE Dubai-17641, United Arab Emirates (UAE) Distributed by: Zydus Pharmaceuticals (USA) Inc. Pennington, NJ 08534 US License No. 2448 Rev.: 06/26 |
 | --- |
