@@ -16,11 +16,11 @@ Meloxicam
 Use of NSAIDs, including SYMBRAVO, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
 Because of these risks, limit dose and duration of SYMBRAVO use between about 20 and 30 weeks of gestation, and avoid SYMBRAVO use at about 30 weeks of gestation and later in pregnancy [see Clinical Considerations, Data].
 
-Premature Closure of Fetal Ductus Arteriosus
+Premature Closure of Fetal Ductus Arteriosus:
 
 Use of NSAIDs, including SYMBRAVO, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
 
-Oligohydramnios/Neonatal Renal Impairment
+Oligohydramnios/Neonatal Renal Impairment:
 
 Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 
@@ -54,7 +54,7 @@ Premature Closure of Fetal Ductus Arteriosus:
 
 Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including SYMBRAVO, can cause premature closure of the fetal ductus arteriosus [see Data].
 
-Oligohydramnios/Neonatal Renal Impairment
+Oligohydramnios/Neonatal Renal Impairment:
 
 If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
 If SYMBRAVO treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.

@@ -47,7 +47,7 @@ Figure 2 presents the percentage of patients achieving MBS freedom within 2 hour
 
 Figure 2: Percentage of Patients Achieving MBS Freedom Within 2 Hours in Study 1
 
-The incidence of photophobia and phonophobia at 2 hours was reduced following administration of SYMBRAVO as compared to placebo, with 33.5% and 23.5%. of subjects, respectively, reporting absence of photophobia, and 40.0% vs 18.6% of patients, respectively, reporting absence of phonophobia.
+The incidence of photophobia and phonophobia at 2 hours was reduced following administration of SYMBRAVO as compared to placebo, with 33.5% and 23.5% of subjects, respectively, reporting absence of photophobia, and 40.0% vs 18.6% of patients, respectively, reporting absence of phonophobia.
 
 Study 2: Treatment of a Migraine When Mild in Severity
 
@@ -85,4 +85,4 @@ Figure 4 presents the percentage of patients achieving MBS freedom within 2 hour
 
 Figure 4: Patients of Patients Achieving MBS Freedom Within 2 Hours in Study 2
 
-The incidence of photophobia and phonophobia at 2 hours was reduced following administration of SYMBRAVO as compared to placebo, with 43.2% vs 20.5%. of patients, respectively, reporting absence of photophobia, and 43.8% vs 25.0% of patients, respectively, reporting absence of phonophobia.
+The incidence of photophobia and phonophobia at 2 hours was reduced following administration of SYMBRAVO as compared to placebo, with 43.2% vs 20.5% of patients, respectively, reporting absence of photophobia, and 43.8% vs 25.0% of patients, respectively, reporting absence of phonophobia.

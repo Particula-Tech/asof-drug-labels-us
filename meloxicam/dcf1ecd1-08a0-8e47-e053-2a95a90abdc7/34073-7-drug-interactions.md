@@ -45,7 +45,7 @@ Table 2: Clinically Important Drug Interactions with SYMBRAVO
 | Intervention | Because these effects may be additive with rizatriptan, use of ergotamine-containing or ergot-type medications (e.g., dihydroergotamine or methysergide) and SYMBRAVO within 24 hours is contraindicated [see Contraindications (4)]. |
 | 5-HT1 Agonists |  |
 | Clinical Impact | Vasospastic effects may be additive with co-administration within 24 hours of another 5-HT1 agonists. |
-| Intervention | Use of SYMBRAVO within 24 hours of another 5HT1 agonist is contraindicated [see Contraindications (4)]. |
+| Intervention | Use of SYMBRAVO within 24 hours of another 5-HT1 agonist is contraindicated [see Contraindications (4)]. |
 | Monoamine Oxidase Inhibitors |  |
 | Clinical Impact | MAO-A inhibitors increase the systemic exposure of rizatriptan and its metabolite. |
 | Intervention | SYMBRAVO is contraindicated in patients taking MAO-A inhibitors and non-selective MAO inhibitors [see Contraindications (4)]. |

@@ -79,6 +79,6 @@ AXSOME THERAPEUTICS and SYMBRAVO are trademarks or registered trademarks of Axso
 
 For patent information: www.axsome.com/IP
 
-©2025 Axsome Therapeutics, Inc. All rights reserved.
+©2026 Axsome Therapeutics, Inc. All rights reserved.
 
-SYM-USPI-001.001-20250224
+SYM-USPI-001.002-20261008
