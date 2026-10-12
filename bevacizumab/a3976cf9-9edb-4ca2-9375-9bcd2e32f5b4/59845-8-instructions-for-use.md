@@ -43,11 +43,11 @@ Manufactured by:
 
 Bio-Thera Solutions, Ltd.
 
-11 Kaiyuan Boulevard, Huangpu District
+155 Yaotianhe Street, Huangpu District,
 
-Guangzhou, Guangdong Province, China, 510530
+Guangzhou, Guangdong, China
 
-U.S. License No. XXXX
+U.S. License No. 2218
 
 Avzivi ® is a registered trademark.
 

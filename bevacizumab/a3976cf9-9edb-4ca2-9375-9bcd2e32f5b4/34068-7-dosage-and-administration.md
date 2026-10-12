@@ -72,7 +72,7 @@ Preparation
 - Withdraw necessary amount of Avzivi and dilute in a total volume of 100 mL of 0.9% Sodium Chloride Injection, USP.
   DO NOT ADMINISTER OR MIX WITH DEXTROSE SOLUTION.
 - Discard any unused portion left in a vial, as the product contains no preservatives.
-- Diluted Avzivi solution may be stored at 2°C to 8°C (36°F to 46°F) for up to 8 hours, if not used immediately.
+- Diluted Avzivi solution may be stored at 2oC to 8oC (36oF to 46oF) for up to 24 hours, if not used immediately.
 - No incompatibilities between Avzivi and polyvinylchloride or polyolefin bags have been observed.
 
 Administration
