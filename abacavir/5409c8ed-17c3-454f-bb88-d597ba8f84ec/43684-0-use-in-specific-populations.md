@@ -2,11 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to abacavir during pregnancy.
-Healthcare Providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1-800-258-4263.
-
 Risk Summary
 
 Available data from the APR show no difference in the overall risk of birth defects for abacavir compared with the background rate for birth defects of 2.7% in the Metropolitan Atlanta Congenital Defects Program (MACDP) reference population (see Data).

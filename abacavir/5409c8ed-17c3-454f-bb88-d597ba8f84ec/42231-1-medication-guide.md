@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Abacavir Tablets USP (a bak' a vir) What is the most important information I should know about abacavir tablets?
+Abacavir (a bak' a vir) Tablets USP What is the most important information I should know about abacavir tablets?
 Abacavir tablets can cause serious side effects, including:
 
 - Serious allergic reactions (hypersensitivity reaction) that can cause death have happened with abacavir tablets and other abacavir-containing products.
@@ -60,12 +60,6 @@ Before you take abacavir tablets, tell your healthcare provider if you:
 - drink alcohol or take medicines that contain alcohol.
 - are pregnant or plan to become pregnant.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
-
-Pregnancy Registry.
-There is a pregnancy registry for women who take antiretroviral medicines during pregnancy.
-The purpose of this registry is to collect information about the health of you and your baby.
-Talk to your healthcare provider about how you can take part in this registry.
-
 - are breastfeeding or plan to breastfeed.
   Do not breastfeed if you take abacavir tablets.
 - You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
@@ -171,4 +165,4 @@ The tablets are coated with a film that is made of hypromellose, iron oxide yell
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 The brands listed are trademarks of their respective owners and are not trademarks of the Aurobindo Pharma Limited.
 The markers of these brands are not affiliated with and do not endorse the Aurobindo Pharma Limited or its products.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 12/2022
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 09/2026
