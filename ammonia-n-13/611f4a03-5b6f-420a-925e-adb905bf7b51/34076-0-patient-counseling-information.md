@@ -12,4 +12,4 @@ Instruct patients to void after completion of each image acquisition session and
 
 Instruct nursing patients to substitute stored breast milk or infant formula for breast milk for 2 hours after administration of Ammonia N 13 Injection.
 
-Manufactured and Distributed by: Washington University Cyclotron Facility 510 S. Kingshighway Blvd St. Louis, Missouri 63110
+Manufactured and Distributed by: Washington University School of Medicine Cyclotron Facility 510 S. Kingshighway Blvd St. Louis, Missouri 63110

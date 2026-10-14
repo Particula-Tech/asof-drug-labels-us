@@ -6,9 +6,8 @@ Ammonia N 13 Injection USP is a positron emitting radiopharmaceutical that is us
 The active ingredient, [13N] ammonia, has the molecular formula of 13NH 3 with a molecular weight of 16.02, and has the following chemical structure:
 
 Ammonia N 13 Injection USP is provided as a ready to use sterile, pyrogen-free, clear and colorless solution.
-Each mL of the solution contains between 0.138 GBq to 1.387 GBq (3.75 mCi to 37.5 mCi) of [13N] ammonia, at the end of synthesis (EOS) reference time, in 0.9% aqueous sodium chloride.
-The pH of the solution is between 4.5 to 7.5.
-The recommended dose of radioactivity (10 mCi-20 mCi) is associated with a theoretical mass dose of 0.5 - 1.0 picomoles (8.47 picograms-16.94 picograms) of ammonia.
+Each mL of the solution contains between 0.138 GBq to 2.96 GBq (3.75 mCi to 80.0 mCi) of [13N] ammonia, at the end of synthesis (EOS) reference time, in 0.9% aqueous sodium chloride.
+The pH of the solution is between 4.5 to 7.5.The recommended dose of radioactivity (10 mCi-20 mCi) is associated with a theoretical mass dose of 0.5 - 1.0 picomoles (8.47 picograms-16.94 picograms) of ammonia.
 
 ## 11.2 Physical Characteristics
 
