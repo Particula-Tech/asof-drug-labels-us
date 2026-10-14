@@ -14,7 +14,7 @@ Fulvestrant injection has not been studied in patients with severe hepatic impai
 ## 5.3 Injection Site Reaction
 
 Injection site related events including sciatica, neuralgia, neuropathic pain, and peripheral neuropathy have been reported with fulvestrant injection.
-Caution should be taken while administering fulvestrant injection at the dorsogluteal injection site due to the proximity of the underlying sciatic nerve [see Dosage and Administration (2.3) and Adverse Reactions (6.1)].
+Caution should be taken while administering fulvestrant injection at the dorsogluteal injection site due to the proximity of the underlying sciatic nerve [see Dosage and Administration (2.3)and Adverse Reactions (6.1)].
 
 ## 5.4 Embryo-Fetal Toxicity
 

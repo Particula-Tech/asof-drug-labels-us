@@ -22,7 +22,7 @@ When fulvestrant injection is used in combination with ribociclib, the recommend
 Ribociclib can be taken with or without food.
 Refer to the Full Prescribing Information for ribociclib.
 
-Pre/perimenopausal women treated with the combination of fulvestrant injection X plus palbociclib, abemaciclib, or ribociclib, should be treated with luteinizing hormone-releasing hormone (LHRH) agonists according to current clinical practice standards [see Clinical Studies (14)].
+Pre/perimenopausal women treated with the combination of fulvestrant injection X plus palbociclib, abemaciclib, or ribociclib, should be treated with luteinizing hormone-releasing hormone (LHRH) agonists according to current clinical practice standards [seeClinical Studies (14)].
 
 ## 2.2 Dose Modification
 
@@ -32,7 +32,7 @@ Hepatic Impairment:
 
 A dose of 250 mg is recommended for patients with moderate hepatic impairment (Child-Pugh class B) to be administered intramuscularly into the buttock (gluteal area) slowly (1 - 2 minutes) as one 5 mL injection on Days 1, 15, 29, and once monthly thereafter.
 
-Fulvestrant injection has not been evaluated in patients with severe hepatic impairment (Child-Pugh class C) [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
+Fulvestrant injection has not been evaluated in patients with severe hepatic impairment (Child-Pugh class C) [see Warnings and Precautions (5.2)and Use in Specific Populations (8.6)].
 
 Combination Therapy
 
@@ -44,7 +44,7 @@ Refer to the Full Prescribing Information of co-administered palbociclib, abemac
 
 Administer the injection according to the local guidelines for performing large volume intramuscular injections.
 
-NOTE: Due to the proximity of the underlying sciatic nerve, caution should be taken if administering fulvestrant injection at the dorsogluteal injection site [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
+NOTE: Due to the proximity of the underlying sciatic nerve, caution should be taken if administering fulvestrant injection at the dorsogluteal injection site [seeWarnings and Precautions (5.3)andAdverse Reactions (6.1)].
 
 The proper method of administration of fulvestrant injection for intramuscular use is described in the following instructions.
 
@@ -58,19 +58,19 @@ For each single-dose prefilled syringe:
 5. Hold the syringe upright on the ribbed part (C).
    With the other hand, take hold of the cap (A) and carefully TWIST THE CAP COUNTER-CLOCKWISE until the cap disconnects for removal (see Figure 1).
 
-1. 6.Pull the cap (A) off in a straight upward direction.
+1. Pull the cap (A) off in a straight upward direction.
    DO NOT TOUCH THE STERILE SYRINGE TIP (Luer-Lok) (B) (see Figure 2).
 
-1. 7.Attach the safety needle to the syringe tip (Luer-Lok).
+1. Attach the safety needle to the syringe tip (Luer-Lok).
    Twist needle until firmly seated (see Figure 3).
    Confirm that the needle is locked to the Luer connector before moving or tilting the syringe out of the vertical plane to avoid spillage of syringe contents.
 
 For Administration:
 
-1. 8.Pull shield straight off needle to avoid damaging needle point.
-2. 9.Remove needle sheath.
-3. 10.Expel excess gas from the syringe (a small gas bubble may remain).
-4. 11.Administer intramuscularly slowly (1-2 minutes/injection) into the buttock (gluteal area).
+1. Pull shield straight off needle to avoid damaging needle point.
+2. Remove needle sheath.
+3. Expel excess gas from the syringe (a small gas bubble may remain).
+4. Administer intramuscularly slowly (1-2 minutes/injection) into the buttock (gluteal area).
    For user convenience, the needle ‘bevel up’ position is orientated to the lever arm, as shown in Figure 4.
 
 1. 12.
@@ -88,7 +88,7 @@ How To Use Fulvestrant injection
 
 For the 2 x 5 mL syringe package, the contents of both syringes must be injected to receive the 500 mg recommended dose.
 
-SAFETYGLIDE™ INSTRUCTIONS FROM BECTON DICKINSON
+SAFETYGLIDE™INSTRUCTIONS FROM BECTON DICKINSON
 
 SafetyGlide™ is a trademark of Becton Dickinson and Company.
 

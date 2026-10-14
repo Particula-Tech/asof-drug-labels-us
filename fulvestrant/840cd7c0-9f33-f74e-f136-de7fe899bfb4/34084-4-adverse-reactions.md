@@ -25,7 +25,7 @@ Table 1: Adverse Reactions in CONFIRM (≥5% in Either Treatment Group)
 | Adverse Reactions | Fulvestrant injection 500 mg N=361 % | Fulvestrant injection 250 mg N=374 % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
-| Injection Site Pain* | 12 | 9 |
+| Injection Site Pain * | 12 | 9 |
 | Headache | 8 | 7 |
 | Back Pain | 8 | 11 |
 | Fatigue | 8 | 6 |
@@ -45,7 +45,7 @@ Table 1: Adverse Reactions in CONFIRM (≥5% in Either Treatment Group)
 | Respiratory System |  |  |
 | Cough | 5 | 5 |
 | Dyspnea | 4 | 5 |
-| * Including more severe injection site related sciatica, neuralgia, neuropathic pain, and peripheral neuropathy. |  |  |
+| *Including more severe injection site related sciatica, neuralgia, neuropathic pain, and peripheral neuropathy. |  |  |
 
 In the pooled safety population (N=1127) from clinical trials comparing fulvestrant injection 500 mg to fulvestrant injection 250 mg, post-baseline increases of ≥1 CTC grade in either AST, ALT, or alkaline phosphatase were observed in >15% of patients receiving fulvestrant injection.
 Grade 3-4 increases were observed in 1-2% of patients.
@@ -81,14 +81,14 @@ Table 2: Adverse Reactions in FALCON
 | General Disorders and Administration Site Conditions |  |  |  |  |
 | Fatigue | 11 | <1 | 7 | <1 |
 
-Table 3: Laboratory Abnormalities in FALCON*
+Table 3: Laboratory Abnormalities in FALCON *
 
 | Laboratory Parameters | Fulvestrant injection 500 mg N=228 |  | Anastrozole 1 mg N=232 |  |
 | --- | --- | --- | --- | --- |
 | All Grades % | Grade 3 or 4 % | All Grades % | Grade 3 or 4 % |  |
 | Alanine aminotransferase increased (ALT) | 7 | 1 | 3 | 0 |
 | Aspartate aminotransferase increased (AST) | 5 | 1 | 3 | <1 |
-| * In FALCON, post- baseline increases of ≥1 CTC grade in either AST, ALT, or alkaline phosphatase were observed in >10% of patients receiving Fulvestrant injection. Grade 3- 4 increases were observed in 1%- 3% of patients. |  |  |  |  |
+| *In FALCON, post- baseline increases of ≥1 CTC grade in either AST, ALT, or alkaline phosphatase were observed in >10% of patients receiving Fulvestrant injection. Grade 3- 4 increases were observed in 1%- 3% of patients. |  |  |  |  |
 
 Comparison of Fulvestrant injection 250 mg and Anastrozole 1 mg in Combined Trials (Studies 0020 and 0021)
 
@@ -108,7 +108,7 @@ Table 4: Adverse Reactions in Studies 0020 and 0021 (≥5% from Combined Data)
 | Headache | 15 | 17 |
 | Back Pain | 14 | 13 |
 | Abdominal Pain | 12 | 12 |
-| Injection Site Pain* | 11 | 7 |
+| Injection Site Pain * | 11 | 7 |
 | Pelvic Pain | 10 | 9 |
 | Chest Pain | 7 | 5 |
 | Flu Syndrome | 7 | 6 |
@@ -172,7 +172,7 @@ Table 5: Adverse Reactions (≥10%) in PALOMA-3
 | --- | --- | --- | --- | --- | --- | --- |
 | All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
 | Infections and Infestations |  |  |  |  |  |  |
-| Infections* | 47† | 3 | 1 | 31 | 3 | 0 |
+| Infections * | 47 † | 3 | 1 | 31 | 3 | 0 |
 | Blood and Lymphatic System Disorders |  |  |  |  |  |  |
 | Neutropenia | 83 | 55 | 11 | 4 | 1 | 0 |
 | Leukopenia | 53 | 30 | 1 | 5 | 1 | 1 |
@@ -182,23 +182,23 @@ Table 5: Adverse Reactions (≥10%) in PALOMA-3
 | Decreased appetite | 16 | 1 | 0 | 8 | 1 | 0 |
 | Gastrointestinal Disorders |  |  |  |  |  |  |
 | Nausea | 34 | 0 | 0 | 28 | 1 | 0 |
-| Stomatitis‡ | 28 | 1 | 0 | 13 | 0 | 0 |
+| Stomatitis ‡ | 28 | 1 | 0 | 13 | 0 | 0 |
 | Diarrhea | 24 | 0 | 0 | 19 | 1 | 0 |
 | Vomiting | 19 | 1 | 0 | 15 | 1 | 0 |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |
-| Alopecia | 18§ | N/A | N/A | 6>¶ | N/A | N/A |
-| Rash# | 17 | 1 | 0 | 6 | 0 | 0 |
+| Alopecia | 18 § | N/A | N/A | 6> ¶ | N/A | N/A |
+| Rash # | 17 | 1 | 0 | 6 | 0 | 0 |
 | General Disorders and Administration Site Conditions |  |  |  |  |  |  |
 | Fatigue | 41 | 2 | 0 | 29 | 1 | 0 |
 | Pyrexia | 13 | <1 | 0 | 5 | 0 | 0 |
 | Grading according to CTCAE v.4.0. |  |  |  |  |  |  |
 | CTCAE=Common Terminology Criteria for Adverse Events; N=number of patients; N/A=not applicable. |  |  |  |  |  |  |
-| * Infections includes all reported preferred terms (PTs) that are part of the System Organ Class Infections and infestations. |  |  |  |  |  |  |
-| † Most common infections (≥1%) include: nasopharyngitis, upper respiratory infection, urinary tract infection, influenza, bronchitis, rhinitis, conjunctivitis, pneumonia, sinusitis, cystitis, oral herpes, respiratory tract infection, gastroenteritis, tooth infection, pharyngitis, eye infection, herpes simplex, paronychia. |  |  |  |  |  |  |
-| ‡ Stomatitis includes: aphthous stomatitis, cheilitis, glossitis, glossodynia, mouth ulceration, mucosal inflammation, oral pain, oropharyngeal discomfort, oropharyngeal pain, stomatitis. |  |  |  |  |  |  |
-| § Grade 1 events – 17%; Grade 2 events – 1%. |  |  |  |  |  |  |
-| ¶ Grade 1 events – 6%. |  |  |  |  |  |  |
-| # Rash includes: rash, rash maculo- papular, rash pruritic, rash erythematous, rash papular, dermatitis, dermatitis acneiform, toxic skin eruption. |  |  |  |  |  |  |
+| *Infections includes all reported preferred terms (PTs) that are part of the System Organ Class Infections and infestations. |  |  |  |  |  |  |
+| †Most common infections (≥1%) include: nasopharyngitis, upper respiratory infection, urinary tract infection, influenza, bronchitis, rhinitis, conjunctivitis, pneumonia, sinusitis, cystitis, oral herpes, respiratory tract infection, gastroenteritis, tooth infection, pharyngitis, eye infection, herpes simplex, paronychia. |  |  |  |  |  |  |
+| ‡Stomatitis includes: aphthous stomatitis, cheilitis, glossitis, glossodynia, mouth ulceration, mucosal inflammation, oral pain, oropharyngeal discomfort, oropharyngeal pain, stomatitis. |  |  |  |  |  |  |
+| §Grade 1 events – 17%; Grade 2 events – 1%. |  |  |  |  |  |  |
+| ¶Grade 1 events – 6%. |  |  |  |  |  |  |
+| #Rash includes: rash, rash maculo- papular, rash pruritic, rash erythematous, rash papular, dermatitis, dermatitis acneiform, toxic skin eruption. |  |  |  |  |  |  |
 
 Additional adverse reactions occurring at an overall incidence of <10.0% of patients receiving fulvestrant injection plus palbociclib in PALOMA-3 included asthenia (7.5%), aspartate aminotransferase increased (7.5%), dysgeusia (6.7%), epistaxis (6.7%), lacrimation increased (6.4%), dry skin (6.1%), alanine aminotransferase increased (5.8%), vision blurred (5.8%), dry eye (3.8%), and febrile neutropenia (0.9%).
 
@@ -244,18 +244,18 @@ Table 7: Adverse Reactions ≥10% of Patients Receiving Fulvestrant injection Pl
 | Gastrointestinal Disorders |  |  |  |  |  |  |
 | Diarrhea | 86 | 13 | 0 | 25 | <1 | 0 |
 | Nausea | 45 | 3 | 0 | 23 | 1 | 0 |
-| Abdominal pain* | 35 | 2 | 0 | 16 | 1 | 0 |
+| Abdominal pain * | 35 | 2 | 0 | 16 | 1 | 0 |
 | Vomiting | 26 | <1 | 0 | 10 | 2 | 0 |
 | Stomatitis | 15 | <1 | 0 | 10 | 0 | 0 |
 | Infections and Infestations |  |  |  |  |  |  |
-| Infections† | 43 | 5 | <1 | 25 | 3 | <1 |
+| Infections † | 43 | 5 | <1 | 25 | 3 | <1 |
 | Blood and Lymphatic System Disorders |  |  |  |  |  |  |
-| Neutropenia‡ | 46 | 24 | 3 | 4 | 1 | <1 |
-| Anemia§ | 29 | 7 | <1 | 4 | 1 | 0 |
-| Leukopenia¶ | 28 | 9 | <1 | 2 | 0 | 0 |
-| Thrombocytopenia# | 16 | 2 | 1 | 3 | 0 | <1 |
+| Neutropenia ‡ | 46 | 24 | 3 | 4 | 1 | <1 |
+| Anemia § | 29 | 7 | <1 | 4 | 1 | 0 |
+| Leukopenia ¶ | 28 | 9 | <1 | 2 | 0 | 0 |
+| Thrombocytopenia # | 16 | 2 | 1 | 3 | 0 | <1 |
 | General Disorders and Administration Site Conditions |  |  |  |  |  |  |
-| FatigueÞ | 46 | 3 | 0 | 32 | <1 | 0 |
+| Fatigue Þ | 46 | 3 | 0 | 32 | <1 | 0 |
 | Edema peripheral | 12 | 0 | 0 | 7 | 0 | 0 |
 | Pyrexia | 11 | <1 | <1 | 6 | <1 | 0 |
 | Metabolism and Nutrition Disorders |  |  |  |  |  |  |
@@ -275,13 +275,13 @@ Table 7: Adverse Reactions ≥10% of Patients Receiving Fulvestrant injection Pl
 | Aspartate aminotransferase increased | 12 | 2 | 0 | 7 | 3 | 0 |
 | Creatinine increased | 12 | <1 | 0 | <1 | 0 | 0 |
 | Weight decreased | 10 | <1 | 0 | 2 | <1 | 0 |
-| * Includes abdominal pain, abdominal pain upper, abdominal pain lower, abdominal discomfort, abdominal tenderness. |  |  |  |  |  |  |
-| † Includes upper respiratory tract infection, urinary tract infection, lung infection, pharyngitis, conjunctivitis, sinusitis, vaginal infection, sepsis. |  |  |  |  |  |  |
-| ‡ Includes neutropenia, neutrophil count decreased. |  |  |  |  |  |  |
-| § Includes anemia, hematocrit decreased, hemoglobin decreased, red blood cell count decreased. |  |  |  |  |  |  |
-| ¶ Includes leukopenia, white blood cell count decreased. |  |  |  |  |  |  |
-| # Includes platelet count decreased, thrombocytopenia. |  |  |  |  |  |  |
-| Þ Includes asthenia, fatigue. |  |  |  |  |  |  |
+| *Includes abdominal pain, abdominal pain upper, abdominal pain lower, abdominal discomfort, abdominal tenderness. |  |  |  |  |  |  |
+| †Includes upper respiratory tract infection, urinary tract infection, lung infection, pharyngitis, conjunctivitis, sinusitis, vaginal infection, sepsis. |  |  |  |  |  |  |
+| ‡Includes neutropenia, neutrophil count decreased. |  |  |  |  |  |  |
+| §Includes anemia, hematocrit decreased, hemoglobin decreased, red blood cell count decreased. |  |  |  |  |  |  |
+| ¶Includes leukopenia, white blood cell count decreased. |  |  |  |  |  |  |
+| #Includes platelet count decreased, thrombocytopenia. |  |  |  |  |  |  |
+| ÞIncludes asthenia, fatigue. |  |  |  |  |  |  |
 
 Additional adverse reactions in MONARCH 2 include venous thromboembolic events (deep vein thrombosis, pulmonary embolism, cerebral venous sinus thrombosis, subclavian vein thrombosis, axillary vein thrombosis, and DVT inferior vena cava), which were reported in 5% of patients treated with fulvestrant injection plus abemaciclib as compared to 0.9% of patients treated with fulvestrant injection plus placebo.
 
@@ -322,7 +322,7 @@ Table 9: Adverse Reactions Occurring in ≥10% and ≥2% higher than Fulvestrant
 | --- | --- | --- | --- | --- | --- | --- |
 | All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
 | Infections and Infestations |  |  |  |  |  |  |
-| Infections* | 42 | 5 | 0 | 30 | 2 | 0 |
+| Infections * | 42 | 5 | 0 | 30 | 2 | 0 |
 | Blood and Lymphatic System Disorders |  |  |  |  |  |  |
 | Neutropenia | 69 | 46 | 7 | 2 | 0 | 0 |
 | Leukopenia | 27 | 12 | <1 | <1 | 0 | 0 |
