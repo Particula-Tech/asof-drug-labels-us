@@ -1,4 +1,4 @@
-# SPL MEDGUIDE SECTION
+# MEDICATION GUIDE
 
 Lamotrigine tablets, USP (la-MOE-tri-jeen)
 
@@ -16,6 +16,8 @@ The risk of getting a serious skin rash is higher if you:
 - take Lamotrigine tablets while taking valproate [*DEPAKENE (valproic acid) or *DEPAKOTE (divalproex sodium)].
 - take a higher starting dose of Lamotrigine tablets than your healthcare provider prescribed.
 - increase your dose of Lamotrigine tablets faster than prescribed.
+
+The risk of serious skin reactions may be associated with a variant in genes called HLA-B*1502 in people from Asian origin (mainly of Han Chinese and Thai origin).See, “ Before taking lamotrigine, tell your healthcare provider about all of your health conditions”.
 
 Call your healthcare provider right away if you have any of the following:
 
@@ -149,10 +151,11 @@ Do not take Lamotrigine tablets:
 Before taking Lamotrigine tablets, tell your healthcare provider about all of your health conditions, including if you:
 
 - have had a rash or allergic reaction to another antiseizure medicine.
+- are of Asian origin, have had HLA testing before, and know you are carrying the genetic variant, HLA-B*1502.
 - have or have had depression, mood problems, or suicidal thoughts or behavior.
 - have a history of heart problems or irregular heart beats or any of your family members have any heart problem, including genetic abnormalities.
 - have had aseptic meningitis after taking lamotrigine tablets or lamotrigine extended-release tablets.
-- are taking oral contraceptives (birth control pills) or other female hormonal medicines.
+- are taking estrogen-containing products, including oral contraceptives (birth control pills) or other female hormonal medicines (such as hormone replacement therapy).
   Do not start or stop taking birth control pills or other female hormonal medicine until you have talked with your healthcare provider.
   Tell your healthcare provider if you have any changes in your menstrual pattern such as breakthrough bleeding.
   Stopping these medicines while you are taking Lamotrigine tablets may cause side effects (such as dizziness, lack of coordination, or double vision).
@@ -171,6 +174,7 @@ Before taking Lamotrigine tablets, tell your healthcare provider about all of yo
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Lamotrigine tablets and certain other medicines may interact with each other.
 This may cause serious side effects.
+
 Know the medicines you take.
 Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
 
@@ -229,7 +233,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Lamotrigine tablets?
 
-- Store Lamotrigine tablets at room temperature between 68oF and 77oF (20oC and 25oC); excursions permitted to 15oC to 30oC (59oF to 86oF) in a dry place and protect from light.
+- Store Lamotrigine tablets at room temperature between 20oC and 25oC (68oF and 77oF); excursions permitted to 15oC to 30oC (59oF to 86oF) in a dry place and protect from light.
 
 Keep Lamotrigine tablets and all medicines out of the reach of children.
 
@@ -260,4 +264,6 @@ Made in USA
 
 Marketed by:
 
-Jubilant Cadista Pharmaceuticals Inc. Yardley, PA 19067, USA Rev. # 07/2025
+Jubilant Cadista Pharmaceuticals Inc. Yardley, PA 19067, USA
+
+Rev. # 04/2026

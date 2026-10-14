@@ -5,8 +5,7 @@ The incidence of these rashes, which have included Stevens-Johnson syndrome, is 
 One rash-related death was reported in a prospectively followed cohort of 1,983 pediatric patients (aged 2 to 16 years) with epilepsy taking lamotrigine as adjunctive therapy.
 In worldwide postmarketing experience, rare cases of toxic epidermal necrolysis and/or rash-related death have been reported in adult and pediatric patients, but their numbers are too few to permit a precise estimate of the rate.
 
-Other than age, there are as yet no factors identified that are known to predict the risk of occurrence or the severity of rash caused by lamotrigine.
-There are suggestions, yet to be proven, that the risk of rash may also be increased by (1) coadministration of lamotrigine with valproate (includes valproic acid and divalproex sodium), (2) exceeding the recommended initial dose of lamotrigine, or (3) exceeding the recommended dose escalation for lamotrigine.
+In addition to age, factors that may increase the risk of occurrence or the severity of rash caused by lamotrigine include (1) coadministration of lamotrigine with valproate (includes valproic acid and divalproex sodium), (2) exceeding the recommended initial dose of lamotrigine, (3) exceeding the recommended dose escalation for lamotrigine, or (4) the presence of the HLA-B*1502 allele.
 However, cases have occurred in the absence of these factors.
 
 Nearly all cases of life-threatening rashes caused by lamotrigine have occurred within 2 to 8 weeks of treatment initiation.

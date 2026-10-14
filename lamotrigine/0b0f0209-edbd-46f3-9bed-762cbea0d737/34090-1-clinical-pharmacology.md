@@ -98,7 +98,7 @@ Evidence gathered from other sources suggests that self-induction by lamotrigine
 Elimination The elimination half-life and apparent clearance of lamotrigine following oral administration of lamotrigine to adult subjects with epilepsy and healthy volunteers is summarized in Table 14.
 Half-life and apparent oral clearance vary depending on concomitant AEDs.
 
-Drug Interactions The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.9, 5.13), Drug Interactions (7)].
+Drug Interactions The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.9, 5.12), Drug Interactions (7)].
 
 The net effects of drug interactions with lamotrigine are summarized in Tables 13 and 15, followed by details of the drug interaction studies below.
 
@@ -121,14 +121,14 @@ Summary of Drug Interactions with Lamotrigine
 | Lopinavir/ritonavir | ↔e | ↓ |
 | Olanzapine | ↔ | ↔e |
 | Oxcarbazepine | ↔ | ↔ |
-| 10-monohydroxy oxcarbazepine metaboliteh | ↔ |  |
+| 10-Monohydroxy oxcarbazepine metaboliteh | ↔ |  |
 | Perampanel | Not assessed | ↔e |
 | Phenobarbital/primidone | ↔ | ↓ |
 | Phenytoin | ↔ | ↓ |
 | Pregabalin | ↔ | ↔ |
 | Rifampin | Not assessed | ↓ |
 | Risperidone | ↔ | Not assessed |
-| 9-hydroxyrisperidonei | ↔ |  |
+| 9-Hydroxyrisperidonei | ↔ |  |
 | Topiramate | ↔j | ↔ |
 | Valproate | ↓ | ↑ |
 | Valproate + phenytoin and/or carbamazepine | Not assessed | ↔ |
@@ -147,12 +147,13 @@ There were mean decreases in the AUC and Cmax of the levonorgestrel component of
 Measurement of serum progesterone indicated that there was no hormonal evidence of ovulation in any of the 16 volunteers, although measurement of serum FSH, LH, and estradiol indicated that there was some loss of suppression of the hypothalamic-pituitary-ovarian axis.
 
 The effects of doses of lamotrigine other than 300 mg/day have not been systematically evaluated in controlled clinical trials.
+Studies with other female hormonal preparations (including progesterone/progesterone-containing HRT) have not been conducted.
 
 The clinical significance of the observed hormonal changes on ovulatory activity is unknown.
 However, the possibility of decreased contraceptive efficacy in some patients cannot be excluded.
 Therefore, patients should be instructed to promptly report changes in their menstrual pattern (e.g., break-through bleeding).
 
-Dosage adjustments may be necessary for women receiving estrogen-containing oral contraceptive preparations [see Dosage and Administration (2.1)].
+Dosage adjustments may be necessary for women receiving estrogen-containing products, including oral contraceptive preparations [see Dosage and Administration (2.1)].
 
 Other Hormonal Contraceptives or Hormone Replacement Therapy The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated.
 It has been reported that ethinylestradiol, not progestogens, increased the clearance of lamotrigine up to 2-fold, and the progestin-only pills had no effect on lamotrigine plasma levels.
@@ -202,7 +203,7 @@ Oxcarbazepine The AUC and Cmax of oxcarbazepine and its active 10-monohydroxy ox
 In the same trial, the AUC and Cmax of lamotrigine were similar following the addition of oxcarbazepine (600 mg twice daily) to lamotrigine in healthy male volunteers compared with those receiving lamotrigine alone.
 Limited clinical data suggest a higher incidence of headache, dizziness, nausea, and somnolence with coadministration of lamotrigine and oxcarbazepine compared with lamotrigine alone or oxcarbazepine alone.
 
-Perampanel In a pooled analysis of data from 3 placebo-controlled clinical trials investigating adjunctive perampanel in patients with partial-onset and primary generalized tonic-clonic seizures, the highest perampanel dose evaluated (12 mg/day) increased lamotrigine clearance by <10%.
+Perampanel In a pooled analysis of data from 3 placebo-controlled clinical trials investigating adjunctive perampanel in patients with partial-onset and PGTC seizures, the highest perampanel dose evaluated (12 mg/day) increased lamotrigine clearance by <10%.
 An effect of this magnitude is not considered to be clinically relevant.
 
 Phenobarbital, Primidone The addition of phenobarbital or primidone decreases lamotrigine steady-state concentrations by approximately 40%.
@@ -225,7 +226,7 @@ Valproate When lamotrigine was administered to healthy volunteers (n = 18) recei
 However, adding lamotrigine to the existing therapy did not cause a change in valproate plasma concentrations in either adult or pediatric patients in controlled clinical trials.
 
 The addition of valproate increased lamotrigine steady-state concentrations in normal volunteers by slightly more than 2-fold.
-In 1 trial, maximal inhibition of lamotrigine clearance was reached at valproate doses between 250 mg/day and 500 mg/day and did not increase as the valproate dose was further increased.
+In 1 trial, maximal inhibition of lamotrigine clearance was reached at valproate doses between 250 and 500 mg/day and did not increase as the valproate dose was further increased.
 
 Zonisamide In a study in 18 patients with epilepsy, coadministration of zonisamide (200 to 400 mg/day) with lamotrigine (150 to 500 mg/day for 35 days) had no significant effect on the pharmacokinetics of lamotrigine.
 
