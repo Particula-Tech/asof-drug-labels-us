@@ -9,17 +9,16 @@ Discontinue Zoledronic Acid Injection when pregnancy is recognized.
 
 In animal reproduction studies, daily subcutaneous administration of zoledronic acid to pregnant rats during organogenesis resulted in increases in fetal skeletal, visceral, and external malformations, decreases in postimplantation survival, and decreases in viable fetuses and fetal weight starting at doses equivalent to 2 times the recommended human 5 mg intravenous dose (based on AUC).
 Subcutaneous administration of zoledronic acid to rabbits during organogenesis did not cause adverse fetal effects at up to 0.4 times the human 5 mg intravenous dose (based on body surface area, mg/m2), but resulted in maternal mortality and abortion associated with hypocalcemia starting at doses equivalent to 0.04 times the human 5 mg intravenous dose.
-Subcutaneous dosing of female rats from before mating through gestation and lactation and allowed to deliver caused maternal dystocia and periparturient mortality, increases in stillbirths and neonatal deaths, and reduced pup body weight starting at doses equivalent to 0.1 times the human 5 mg intravenous dose (based on AUC).
-(see Data).
+Subcutaneous dosing of female rats from before mating through gestation and lactation and allowed to deliver caused maternal dystocia and periparturient mortality, increases in stillbirths and neonatal deaths, and reduced pup body weight starting at doses equivalent to 0.1 times the human 5 mg intravenous dose (based on AUC) (see Data).
 
 Bisphosphonates are incorporated into the bone matrix, from which they are gradually released over a period of years.
 The amount of bisphosphonate incorporated into adult bone, and available for release into the systemic circulation is directly related to the dose and duration of bisphosphonate use.
 Consequently, based on the mechanism of action of bisphosphonates, there is a potential risk of fetal harm, predominantly skeletal, if a woman becomes pregnant after completing a course of bisphosphonate therapy.
-The impact of variables such as time between cessation of bisphosphonate therapy to conception, the particular bisphosphonate used, and the route of administration (intravenous versus oral) on the risk has not been studied.
+The impact of variables, such as time between cessation of bisphosphonate therapy to conception, the particular bisphosphonate used, and the route of administration (intravenous versus oral) on the risk has not been studied.
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
 
@@ -29,9 +28,9 @@ In pregnant rats given daily subcutaneous doses of zoledronic acid of 0.1, 0.2, 
 Adverse fetal skeletal effects at 0.4 mg/kg/day (4 times the human 5 mg dose) included unossified or incompletely ossified bones, thickened, curved or shortened bones, wavy ribs, and shortened jaw.
 Other adverse fetal effects at this dose included reduced lens, rudimentary cerebellum, reduction or absence of liver lobes, reduction of lung lobes, vessel dilation, cleft palate, and edema.
 Skeletal variations were observed in all groups starting at 0.1 mg/kg/day (1.2 times the human 5 mg dose).
-Signs of maternal toxicity including reduced body weight and food consumption were observed at 0.4 mg/kg/day (4 times the human 5 mg dose).
+Signs of maternal toxicity, including reduced body weight and food consumption were observed at 0.4 mg/kg/day (4 times the human 5 mg dose).
 
-In pregnant rabbits given daily subcutaneous doses of zoledronic acid of 0.01, 0.03, or 0.1 mg/kg during gestation no adverse fetal effects were observed up to 0.1 mg/kg/day (0.4 times the human 5 mg intravenous dose, based on body surface area, mg/m2).
+In pregnant rabbits given daily subcutaneous doses of zoledronic acid of 0.01, 0.03, or 0.1 mg/kg during gestation, no adverse fetal effects were observed up to 0.1 mg/kg/day (0.4 times the human 5 mg intravenous dose, based on body surface area, mg/m2).
 Maternal mortality and abortion were observed in all dose groups (starting at 0.04 times the human 5 mg dose).
 Adverse maternal effects were associated with drug-induced hypocalcemia.
 
@@ -44,7 +43,7 @@ Maternal and neonatal deaths were considered related to drug-induced periparturi
 Risk Summary
 
 There are no data on the presence of zoledronic acid in human milk, the effects on the breastfed infant, or the effects on milk production.
-The developmental and health benefits of breast-feeding should be considered along with the mother's clinical need for zoledronic acid and any potential adverse effects on the breast-fed child from zoledronic acid or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for zoledronic acid and any potential adverse effects on the breastfed child from zoledronic acid, or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -61,14 +60,14 @@ The safety and effectiveness of zoledronic acid was studied in a one-year active
 The enrolled population was subjects with severe osteogenesis imperfecta, aged 1 to 17 years, 55% male, 84% Caucasian, with a mean lumbar spine BMD of 0.431 gm/cm2, which is 2.7 standard deviations below the mean for age-matched controls (BMD Z-score of -2.7).
 At one year, increases in BMD were observed in the zoledronic acid treatment group.
 However, changes in BMD in individual patients with severe osteogenesis imperfecta did not necessarily correlate with the risk for fracture or the incidence or severity of chronic bone pain.
-The adverse events observed with zoledronic acid use in children did not raise any new safety findings beyond those previously seen in adults treated for Paget's disease of bone and treatment of osteoporosis including osteonecrosis of the jaw (ONJ) and renal impairment.
-However, adverse reactions seen more commonly in pediatric patients included pyrexia (61%), arthralgia (26%), hypocalcemia (22%) and headache (22%).
+The adverse events observed with zoledronic acid use in children did not raise any new safety findings beyond those previously seen in adults treated for Paget's disease of bone and treatment of osteoporosis, including ONJ and renal impairment.
+However, adverse reactions seen more commonly in pediatric patients included pyrexia (61%), arthralgia (26%), hypocalcemia (22%), and headache (22%).
 These reactions, excluding arthralgia, occurred most frequently within three days after the first infusion and became less common with repeat dosing.
 No cases of ONJ or renal impairment were observed in this study.
 Because of long-term retention in bone, Zoledronic Acid Injection should only be used in children if the potential benefit outweighs the potential risk.
 
 Plasma zoledronic acid concentration data was obtained from 10 patients with severe osteogenesis imperfecta (4 in the age group of 3 to 8 years and 6 in the age group of 9 to 17 years) infused with 0.05 mg/kg dose over 30 minutes.
-Mean Cmax and AUC(0-last) was 167 ng/mL and 220 ng.h/mL respectively.
+Mean Cmax and AUC(0-last) was 167 ng/mL and 220 ng.h/mL, respectively.
 The plasma concentration time profile of zoledronic acid in pediatric patients represent a multi-exponential decline, as observed in adult cancer patients at an approximately equivalent mg/kg dose.
 
 ## 8.5 Geriatric Use
