@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA217990"
+  ],
+  "inn": "raltegravir",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70748-327-07"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "raltegravir",
+      "name": "Raltegravir"
+    }
+  ],
+  "setid": "e9661839-bd2e-464f-a6df-6407b4a742b4",
+  "source": "dailymed"
+}
