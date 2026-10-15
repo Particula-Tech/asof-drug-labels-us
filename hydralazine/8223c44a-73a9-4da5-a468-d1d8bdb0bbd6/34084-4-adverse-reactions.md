@@ -8,7 +8,7 @@ The following adverse reactions have been observed, but there has not been enoug
 
 Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris.
 
-Less Frequent:Digestive-constipation, paralytic ileus.
+Less Frequent: Digestive-constipation, paralytic ileus.
 
 Cardiovascular-hypotension, paradoxical pressor response, edema.
 
