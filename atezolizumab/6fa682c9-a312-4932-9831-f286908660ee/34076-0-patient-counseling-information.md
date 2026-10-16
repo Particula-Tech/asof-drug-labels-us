@@ -10,8 +10,7 @@ Inform patients of the risk of immune-mediated adverse reactions that may requir
 - Colitis: Advise patients to contact their healthcare provider immediately for diarrhea, blood or mucus in stools, or severe abdominal pain [see Warnings and Precautions (5.1)].
 - Hepatitis: Advise patients to contact their healthcare provider immediately for jaundice, severe nausea or vomiting, pain on the right side of abdomen, lethargy, or easy bruising or bleeding [see Warnings and Precautions (5.1)].
 - Endocrinopathies: Advise patients to contact their healthcare provider immediately for signs or symptoms of hypophysitis, hyperthyroidism, hypothyroidism, adrenal insufficiency, or type 1 diabetes mellitus, including diabetic ketoacidosis [see Warnings and Precautions (5.1)].
-- Nephritis: Advise patients to contact their healthcare provider immediately for pelvic pain, frequent urination, or unusual swelling.
-  [see Warnings and Precautions (5.1)].
+- Nephritis: Advise patients to contact their healthcare provider immediately for pelvic pain, frequent urination, or unusual swelling [see Warnings and Precautions (5.1)].
 - Dermatologic Adverse Reactions: Advise patients to contact their healthcare provider immediately for generalized rash, skin eruption, or painful skin and mucous membrane lesions [see Warnings and Precautions (5.1)].
 - Other Immune-Mediated Adverse Reactions:
   - Advise patients to contact their healthcare provider immediately for signs or symptoms of other potential immune-mediated adverse reactions [see Warnings and Precautions (5.1)].

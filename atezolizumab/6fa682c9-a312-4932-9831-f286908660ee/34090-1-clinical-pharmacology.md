@@ -36,7 +36,9 @@ The following factors had no clinically significant effect on the systemic expos
 
 Pediatric Patients
 
-Atezolizumab serum concentrations with weight-based dosing at 15 mg/kg up to a maximum of 1200 mg every 3 weeks, in pediatric patients (2 years to <17 years) with relapsed or progressive solid tumors and lymphomas, are comparable to those of adult patients receiving 1200 mg every 3 weeks; while the exposure tended to be lower in pediatric patients less than 12 years old, this is not considered to be clinically relevant.
+Atezolizumab serum concentrations in pediatric patients (ages 2 to < 17 years) are predicted to be within the range of those observed in adults receiving the corresponding recommended doses.
+This applies to weight-based dosing at 10 mg/kg (up to a maximum of 840 mg) every 2 weeks and 15 mg/kg (up to a maximum of 1,200 mg) every 3 weeks.
+While the exposure tended to be lower in pediatric patients less than 12 years old, this is not considered to be clinically relevant.
 
 ## 12.6 Immunogenicity
 
@@ -47,7 +49,7 @@ During the first year of treatment with TECENTRIQ across 9 clinical studies, 13%
 Median atezolizumab clearance in patients who tested positive for ADA was 20% (minimum 10%, maximum 49%) higher as compared to atezolizumab clearance in patients who tested negative for ADA; this change in clearance is not expected to be clinically significant.
 
 In OAK and IMbrave150, exploratory analyses showed that the subset of patients who were ADA-positive appeared to have less efficacy (effect on overall survival) as compared to patients who tested negative for ADA [see Clinical Studies (14.1, 14.3)].
-In study IMpower150 and IMforte, the impact of ADA on efficacy did not appear to be clinically significant [see Clinical Studies (14.1)].
+In study IMpower150 and IMforte, the impact of ADA on efficacy did not appear to be clinically significant [see Clinical Studies (14.1, 14.2)].
 In the remaining studies, there is insufficient information to characterize the effect of ADA on efficacy.
 
 The presence of ADA did not have a clinically significant effect on the incidence or severity of adverse reactions.

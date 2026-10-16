@@ -1,19 +1,18 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection for Treatment of Non-Small Cell Lung Cancer, Melanoma, and Muscle Invasive Bladder Cancer
+## 2.1 Patient Selection for Treatment of Non-Small Cell Lung Cancer, Melanoma, Muscle Invasive Bladder Cancer, and Colon Cancer
 
-Select patients with Stage II to IIIA non-small cell lung cancer for treatment with TECENTRIQ as a single agent based on PD-L1 expression on tumor cells [see Clinical Studies (14.1)].
+Select patients with:
 
-Select patients with first-line metastatic non-small cell lung cancer for treatment with TECENTRIQ as a single agent based on the PD-L1 expression on tumor cells or on tumor-infiltrating immune cells [see Clinical Studies (14.1)].
+- Stage II to IIIA NSCLC for treatment with TECENTRIQ as a single agent based on PD-L1 expression on tumor cells [see Clinical Studies (14.1)].
+- First-line metastatic NSCLC for treatment with TECENTRIQ as a single agent based on the PD-L1 expression on tumor cells or on tumor-infiltrating immune cells [see Clinical Studies (14.1)].
+- Unresectable or metastatic melanoma for treatment with TECENTRIQ in combination with cobimetinib and vemurafenib after confirming the presence of a BRAF V600 mutation [see Clinical Studies (14.4)].
+- Muscle invasive bladder cancer for treatment with TECENTRIQ as a single agent based on detection of ctDNA MRD in plasma via serial testing between six weeks and one year after cystectomy [see Clinical Studies (14.6)].
+- Stage III colon cancer for treatment with TECENTRIQ in combination with chemotherapy based on dMMR tumor status in tumor specimens [see Clinical Studies (14.7)].
 
-Information on FDA-authorized tests for the determination of PD-L1 expression in metastatic non-small cell lung cancer are available at: http://www.fda.gov/CompanionDiagnostics.
+Information regarding FDA-authorized tests for determining PD-L1 expression in metastatic NSCLC, detecting BRAF V600 mutations in melanoma, and determining ctDNA MRD status in MIBC are available at: http://www.fda.gov/CompanionDiagnostics.
 
-Select patients with unresectable or metastatic melanoma for treatment with TECENTRIQ in combination with cobimetinib and vemurafenib after confirming the presence of a BRAF V600 mutation [see Clinical Studies (14.4)].
-Information on FDA-authorized tests for the detection of BRAF V600 mutations in melanoma is available at: http://www.fda.gov/CompanionDiagnostics.
-
-Select patients with muscle invasive bladder cancer for treatment with TECENTRIQ as a single agent based on detection of ctDNA MRD in plasma via serial testing between six weeks and one year after cystectomy [see Clinical Studies (14.6)].
-
-Information on FDA-authorized tests for the determination of ctDNA MRD status in MIBC is available at: http://www.fda.gov/CompanionDiagnostics.
+An FDA-authorized test for detection of dMMR tumor status in patients with colon cancer is not currently available.
 
 ## 2.2 Recommended Dosage
 
@@ -28,7 +27,7 @@ Table 1: Recommended Dosage of TECENTRIQ as a Single Agent
 | Metastatic NSCLC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks | Until disease progression or unacceptable toxicity |
 | Adjuvant Treatment of NSCLC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks | Up to one year, unless there is disease recurrence or unacceptable toxicity |
 | ASPS (adult) | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks | Until disease progression or unacceptable toxicity |
-| ASPS (pediatric, 2 years of age and older) | 15 mg/kg (up to a maximum 1200 mg) every 3 weeks |  |
+| ASPS (pediatric, 2 years of age and older) | 15 mg/kg (up to a maximum of 1200 mg) every 3 weeks |  |
 | MIBC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks | Up to one year, unless there is disease recurrence or unacceptable toxicity |
 
 The recommended intravenous dosages of TECENTRIQ in combination with other therapeutic agents are presented in Table 2.
@@ -42,6 +41,8 @@ Table 2: Recommended Dosage of TECENTRIQ in Combination with Other Therapeutic A
 | SCLC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ prior to chemotherapy when given on the same day. |  |
 | HCC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ prior to bevacizumab when given on the same day. Bevacizumab is administered at 15 mg/kg every 3 weeks. |  |
 | Melanoma | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ with cobimetinib 60 mg orally once daily (21 days on and 7 days off) and vemurafenib 720 mg orally twice daily. Prior to initiating TECENTRIQ, patients should receive a 28-day treatment cycle of cobimetinib 60 mg orally once daily (21 days on and 7 days off) and vemurafenib 960 mg orally twice daily from Days 1-21 and vemurafenib 720 mg orally twice daily from Days 22-28. |  |
+| Colon Cancer (adults) | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeksAdminister TECENTRIQ prior to chemotherapy when given on the same day. | In combination with chemotherapy for 6 monthsIf induction chemotherapy is discontinued early, continue TECENTRIQ as a single agent for a total of 12 months., followed by TECENTRIQ as a single agent for 6 months or until disease recurrence or unacceptable toxicity. |
+| Colon Cancer (pediatric patients 2 years of age and older) | 10 mg/kg (up to a maximum of 840 mg) every 2 weeks,15 mg/kg (up to a maximum of 1200 mg) every 3 weeks, or Administer TECENTRIQ prior to chemotherapy when given on the same day. | In combination with chemotherapy for 6 months, followed by TECENTRIQ as a single agent for 6 months or until disease recurrence or unacceptable toxicity |
 
 ## 2.3 Dosage Modifications for Adverse Reactions
 

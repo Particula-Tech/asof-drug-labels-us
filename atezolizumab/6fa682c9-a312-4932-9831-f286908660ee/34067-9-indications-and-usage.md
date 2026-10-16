@@ -29,3 +29,7 @@ TECENTRIQ, as a single agent, is indicated for the treatment of adult and pediat
 ## 1.6 Muscle Invasive Bladder Cancer
 
 TECENTRIQ, as a single agent, is indicated as adjuvant treatment of adult patients with muscle invasive bladder cancer (MIBC) after cystectomy who have circulating tumor DNA molecular residual disease (ctDNA MRD) as determined by an FDA-authorized test [see Dosage and Administration (2.1)].
+
+## 1.7 Mismatch Repair–Deficient Colon Cancer
+
+TECENTRIQ, in combination with a fluoropyrimidine and oxaliplatin, is indicated for the adjuvant treatment of adult and pediatric patients 2 years of age and older with Stage III, mismatch repair deficient (dMMR) colon cancer [see Dosage and Administration (2.1)].

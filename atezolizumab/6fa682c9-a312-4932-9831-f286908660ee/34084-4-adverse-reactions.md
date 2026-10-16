@@ -551,7 +551,7 @@ Melanoma
 IMspire150
 
 The safety of TECENTRIQ, administered with cobimetinib and vemurafenib was evaluated in IMspire150, a double-blind, randomized (1:1), placebo-controlled study conducted in patients with previously untreated BRAF V600 mutation-positive metastatic or unresectable melanoma [see Clinical Studies (14.4)].
-Patients received TECENTRIQ with cobimetinib and vemurafenib (N=230) or placebo with cobimetinib and vemurafenib (n=281).
+Patients received TECENTRIQ with cobimetinib and vemurafenib (N=230) or placebo with cobimetinib and vemurafenib (N=281).
 
 Among the 230 patients who received TECENTRIQ administered with cobimetinib and vemurafenib, the median duration of exposure to TECENTRIQ was 9.2 months (range: 0-30 months) to cobimetinib was 10.0 months (range: 1-31 months) and to vemurafenib was 9.8 months (range: 1-31 months).
 
@@ -784,6 +784,65 @@ Table 25: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% o
 | Increased alanine aminotransferase | 23 | 2.5 | 10 | 0 |
 | Increased alkaline phosphatase | 23 | 1.2 | 15 | 0 |
 | Graded per NCI-CTCAE v5.0 Denominator is based on patients with at least one post-baseline assessment. For each parameter, the denominator includes patients with baseline Grade 0-2 in the specified direction of abnormality or patients with missing baseline values |  |  |  |  |
+
+Adjuvant Treatment of Stage III dMMR Colon Cancer
+
+ATOMIC (ML39057) Study
+
+The safety of TECENTRIQ was evaluated in ATOMIC, a multicenter, randomized, open-label, active-controlled trial in 345 adults and one pediatric patient with Stage III dMMR colon cancer [see Clinical Studies (14.7)].
+Adults received TECENTRIQ 840 mg every 2 weeks.
+The pediatric patient received 10 mg/kg Q2W until the maximum dose of 840 mg Q2W.
+All patients received TECENTRIQ in combination with mFOLFOX6 for 6 months (12 cycles), followed by TECENTRIQ monotherapy for 6 months (13 cycles), or mFOLFOX6 alone for 6 months (12 cycles), until disease recurrence, unacceptable toxicity, or patient or physician decision to discontinue.
+The total duration of treatment was up to one year.
+Among patients receiving TECENTRIQ in combination with mFOLFOX6, the median duration of exposure to TECENTRIQ was 10.9 months.
+
+Serious adverse reactions occurred in 52% of patients receiving TECENTRIQ in combination with mFOLFOX6.
+The most frequent serious adverse reactions (≥3%) were diarrhea (8%), nausea (6%), abdominal pain (4.9%), peripheral sensory neuropathy (4.6%) and pyrexia (3.8%).
+
+Adverse reactions leading to permanent discontinuation of TECENTRIQ occurred in 17% of patients.
+The most frequent adverse reactions leading to permanent discontinuation of TECENTRIQ were peripheral sensory neuropathy (5%), neuropathy peripheral (3%) and paresthesia (2%).
+
+Table 26 and 27 summarize adverse reactions and laboratory abnormalities in ATOMIC.
+
+Table 26: Adverse Reactions Occurring in ≥20% (with a difference between arms of at least 5% incidence) Patients with Colon Cancer Receiving TECENTRIQ in ATOMIC
+
+| All Grades (%) | Grade 3–4 (%) | All Grades (%) | Grade 3–4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | TECENTRIQ in combination with mFOLFOX6 (n=346) |  | mFOLFOX6 (n=334) |  |
+| Gastrointestinal Disorders |  |  |  |  |
+| Nausea | 75 | 4.6 | 69 | 1.2 |
+| DiarrheaIncludes colitis, diarrhea, enteritis, and enterocolitis. | 73 | 14 | 61 | 9 |
+| Abdominal painIncludes abdominal discomfort, abdominal pain, abdominal pain lower, and abdominal pain upper. | 47 | 4.6 | 30 | 2.1 |
+| Constipation | 43 | 0 | 34 | 0 |
+| StomatitisIncludes aphthous ulcer, cheilitis, glossitis, mouth ulceration, mucosal inflammation, pharyngeal inflammation, stomatitis, and tongue ulceration. | 34 | 2.6 | 33 | 1.2 |
+| Vomiting | 26 | 2.6 | 21 | 1.2 |
+| Nervous System Disorders |  |  |  |  |
+| Peripheral sensory neuropathy | 62 | 12 | 55 | 11 |
+| Neuropathy peripheral | 38 | 6 | 30 | 5 |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Decreased appetite | 48 | 2.0 | 38 | 0 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Cough | 42 | 0.3 | 23 | 0 |
+| Dyspnea | 35 | 2.0 | 24 | 1.2 |
+| General Disorders and Administration Site Conditions |  |  |  |  |
+| Pyrexia | 21 | 0 | 7 | 0.3 |
+
+Table 27: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% (with a difference between arms of at least 5% incidence or 2% of Grade 3–4 abnormalities) of Patients with Colon Cancer Receiving TECENTRIQ in ATOMIC
+
+| All Grades (%) | Grade 3–4 (%) | All Grades (%) | Grade 3–4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Laboratory Abnormality | TECENTRIQ in combination with mFOLFOX6The denominator used to calculate the rate varied from 334 to 346 based on the number of patients with a baseline value and at least one post-treatment value. |  | mFOLFOX6 |  |
+| Hematology |  |  |  |  |
+| Hemoglobin decreased | 68 | 10 | 60 | 7 |
+| Total leukocyte count decreased | 61 | 2 | 53 | 2 |
+| Total neutrophils decreased | 53 | 10 | 49 | 6 |
+| Lymphocytes decreased | 43 | 5 | 32 | 2 |
+| Chemistry |  |  |  |  |
+| Alkaline phosphatase increased | 51 | 2 | 47 | 0 |
+| Hypokalemia | 34 | 7 | 31 | 4 |
+| Calcium decreased | 33 | 2 | 19 | 1 |
+| Sodium decreased | 25 | 2 | 16 | 2 |
+| Creatinine increased | 22 | 2 | 14 | < 1 |
 
 ## 6.2 Postmarketing Experience
 

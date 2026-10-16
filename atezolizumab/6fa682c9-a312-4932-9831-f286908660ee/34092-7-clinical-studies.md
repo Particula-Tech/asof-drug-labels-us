@@ -26,9 +26,9 @@ A key secondary efficacy outcome measure was overall survival (OS) in the intent
 
 At the time of the interim DFS analysis, the study demonstrated a statistically significant improvement in DFS in the PD-L1 ≥ 1% TC, Stage II – IIIA patient population.
 
-Efficacy results are presented in Table 26 and Figure 1.
+Efficacy results are presented in Table 28 and Figure 1.
 
-Table 26: Efficacy Results from IMpower010 in Patients with Stage II - IIIA NSCLC with PD-L1 expression ≥ 1% TC
+Table 28: Efficacy Results from IMpower010 in Patients with Stage II - IIIA NSCLC with PD-L1 expression ≥ 1% TC
 
 |  | Arm A: TECENTRIQ N = 248 | Arm B: Best Supportive Care N = 228 |
 | --- | --- | --- |
@@ -77,9 +77,9 @@ Baseline ECOG performance status was 0 (36%) or 1 (64%); 88% were current or pre
 
 The trial demonstrated a statistically significant improvement in OS for patients with high PD-L1 expression (TC ≥50% or IC ≥10%) at the time of the OS interim analysis.
 There was no statistically significant difference in OS for the other two PD-L1 subgroups (TC ≥5% or IC ≥5%; and TC ≥1% or IC ≥1%) at the interim or final analyses.
-Efficacy results for patients with NSCLC with high PD-L1 expression are presented in Table 27 and Figure 2.
+Efficacy results for patients with NSCLC with high PD-L1 expression are presented in Table 29 and Figure 2.
 
-Table 27: Efficacy Results from IMpower110 in Patients with NSCLC with High PD-L1 Expression (TC ≥ 50% or IC ≥ 10%) and without EGFR or ALK Genomic Tumor Aberrations
+Table 29: Efficacy Results from IMpower110 in Patients with NSCLC with High PD-L1 Expression (TC ≥ 50% or IC ≥ 10%) and without EGFR or ALK Genomic Tumor Aberrations
 
 |  | Arm A: TECENTRIQ N = 107 | Arm B: Platinum-Based Chemotherapy N = 98 |
 | --- | --- | --- |
@@ -134,9 +134,9 @@ PD-L1 was TC3 and any IC in 12%, TC0/1/2 and IC2/3 in 13%, and TC0/1/2 and IC0/1
 The demographics for the 696 patients in the ITT-WT subpopulation were similar to the ITT population except for the absence of patients with EGFR- or ALK- positive NSCLC.
 
 The trial demonstrated a statistically significant improvement in PFS between Arms B and C in both the tGE-WT and ITT-WT subpopulations, but did not demonstrate a significant difference for either subpopulation between Arms A and C based on the final PFS analyses.
-In the interim analysis of OS, a statistically significant improvement was observed for Arm B compared to Arm C, but not for Arm A compared to Arm C. Efficacy results for the ITT-WT subpopulation are presented in Table 28 and Figure 3.
+In the interim analysis of OS, a statistically significant improvement was observed for Arm B compared to Arm C, but not for Arm A compared to Arm C. Efficacy results for the ITT-WT subpopulation are presented in Table 30 and Figure 3.
 
-Table 28: Efficacy Results in ITT-WT Population in IMpower150
+Table 30: Efficacy Results in ITT-WT Population in IMpower150
 
 |  | N = 337 | N = 359 | N = 349 |
 | --- | --- | --- | --- |
@@ -193,9 +193,9 @@ Baseline ECOG performance status was 0 (41%) or 1 (58%).
 Most patients were current or previous smokers (90%).
 PD-L1 tumor expression was TC0/1/2 and IC0/1 in 73%; TC3 and any IC in 14%; and TC0/1/2 and IC2/3 in 13%.
 
-Efficacy results for the ITT-WT population are presented in Table 29 and Figure 4.
+Efficacy results for the ITT-WT population are presented in Table 31 and Figure 4.
 
-Table 29: Efficacy Results from IMpower130
+Table 31: Efficacy Results from IMpower130
 
 |  | TECENTRIQ with Paclitaxel Protein-Bound and Carboplatin | Paclitaxel Protein-Bound and Carboplatin |
 | --- | --- | --- |
@@ -239,9 +239,9 @@ Additional efficacy outcome measures were OS in all randomized patients (n = 122
 Among the first 850 randomized patients, the median age was 64 years (33 to 85 years) and 47% were ≥ 65 years old; 61% were male; 70% were White and 21% were Asian; 15% were current smokers and 67% were former smokers; and 37% had baseline ECOG performance status (PS) of 0 and 63% had a baseline ECOG PS of 1.
 Nearly all (94%) had metastatic disease, 74% had non-squamous histology, 75% had received only one prior platinum-based chemotherapy regimen, and 55% of patients had PD-L1-expressing tumors.
 
-Efficacy results are presented in Table 30 and Figure 5.
+Efficacy results are presented in Table 32 and Figure 5.
 
-Table 30: Efficacy Results in OAK
+Table 32: Efficacy Results in OAK
 
 |  | TECENTRIQ | Docetaxel |
 | --- | --- | --- |
@@ -317,9 +317,9 @@ The median age was 64 years (range 26 to 90) and 65% were male.
 The majority of patients were White (80%); 17% were Asian, 4% were Hispanic and 1% were Black.
 Baseline ECOG performance status was 0 (35%) or 1 (65%); 9% of patients had a history of brain metastases, and 97% were current or previous smokers.
 
-Efficacy results are presented in Table 31 and Figure 6.
+Efficacy results are presented in Table 33 and Figure 6.
 
-Table 31: Efficacy Results from IMpower133
+Table 33: Efficacy Results from IMpower133
 
 |  | TECENTRIQ with Carboplatin and Etoposide | Placebo with Carboplatin and Etoposide |
 | --- | --- | --- |
@@ -367,9 +367,9 @@ A total of 483 patients were randomized, including 242 to the TECENTRIQ with lur
 The median age was 66 years (range 35 to 85 years); 63% male; 82% White; 13% Asian; 0.8% were Black or African American; 7% were of Hispanic or Latino ethnicity and 98% were current or previous smokers.
 Baseline ECOG performance status was 0 (43%) or 1 (57%).
 
-Efficacy results are presented in Table 32 and Figures 7 and 8.
+Efficacy results are presented in Table 34 and Figures 7 and 8.
 
-Table 32: Efficacy Results from IMforte
+Table 34: Efficacy Results from IMforte
 
 |  | TECENTRIQ with Lurbinectedin N=242 | TECENTRIQ N=241 |
 | --- | --- | --- |
@@ -415,9 +415,9 @@ The majority of patients had BCLC stage C (82%) disease at baseline, while 16% h
 The major efficacy outcome measures were overall survival (OS) and independent review facility (IRF)-assessed progression free survival (PFS) per RECIST v1.1.
 Additional efficacy outcome measures were IRF-assessed overall response rate (ORR) per RECIST and mRECIST.
 
-Efficacy results are presented in Table 33 and Figure 9.
+Efficacy results are presented in Table 35 and Figure 9.
 
-Table 33: Efficacy Results from IMbrave150
+Table 35: Efficacy Results from IMbrave150
 
 |  | TECENTRIQ in combination with Bevacizumab (N= 336) | Sorafenib (N=165) |
 | --- | --- | --- |
@@ -481,10 +481,10 @@ Additional efficacy outcomes included PFS assessed by an independent central rev
 The median age of the study population was 54 years (range: 22-88), 58% of patients were male, 95% were White, a baseline ECOG performance status of 0 (77%) or 1 (23%), 33% had elevated LDH, 94% had metastatic disease, 60% were Stage IV (M1C), 56% had less than three metastatic sites at baseline, 3% had prior treatment for brain metastases, 30% had liver metastases at baseline, and 14% had received prior adjuvant systemic therapy.
 Based on central testing, 74% were identified as having a V600E mutation, 11% as having V600K mutation, and 1% as having V600D or V600R mutations.
 
-Efficacy results are summarized in Table 34 and Figure 10.
+Efficacy results are summarized in Table 36 and Figure 10.
 Patients had a median survival follow up time of 18.9 months.
 
-Table 34: Efficacy Results from IMspire150
+Table 36: Efficacy Results from IMspire150
 
 |  | TECENTRIQ + Cobimetinib + Vemurafenib N=256 | Placebo + Cobimetinib + Vemurafenib N=258 |
 | --- | --- | --- |
@@ -525,9 +525,9 @@ The median age of patients was 31 years (range: 12-70); 2% of adult patients (n=
 All patients had prior surgery for ASPS and 55% received at least one prior line of treatment for ASPS; 55% received radiotherapy and 53% received chemotherapy.
 Of the patients who reported staging at initial diagnosis, all were Stage IV.
 
-Efficacy results of this study are summarized in Table 35.
+Efficacy results of this study are summarized in Table 37.
 
-Table 35: Efficacy Results from Study ML39345
+Table 37: Efficacy Results from Study ML39345
 
 | Endpoint | All Patients (N=49) |
 | --- | --- |
@@ -578,9 +578,9 @@ The major efficacy outcome measure was investigator-assessed disease-free surviv
 Overall Survival (OS) was an additional efficacy measure.
 
 The study demonstrated statistically significant improvements in DFS and OS for patients randomized to the TECENTRIQ arm compared with placebo.
-Efficacy results are presented in Table 36 and Figures 11 and 12.
+Efficacy results are presented in Table 38 and Figures 11 and 12.
 
-Table 36: Efficacy Results from IMvigor011
+Table 38: Efficacy Results from IMvigor011
 
 |  | TECENTRIQ N=167 | Placebo N=83 |
 | --- | --- | --- |
@@ -606,3 +606,39 @@ In a pre-specified exploratory analysis based on time from cystectomy to first c
 The unstratified HR for OS was 0.63 (95% CI: 0.39, 1.00), with median OS of 32.8 months (95% CI: 24.4, not reached) in the TECENTRIQ arm and 18.2 months (95% CI: 13.1, not reached) in the placebo arm.
 In the subgroup of patients who had >20 weeks to first ctDNA MRD positive sample (n=74), the unstratified HR for investigator-assessed DFS was 1.04 (95% CI: 0.54, 1.97), with median DFS of 10.5 months (95% CI: 6.9, 20.9) in the TECENTRIQ arm and 10.5 months (95% CI: 6.5, 20.5) in the placebo arm.
 The unstratified HR for OS was 0.77 (95% CI: 0.30, 1.96); median OS was not reached in either arm (95% CI: 21.1 months, not reached in the TECENTRIQ arm and 18.4 months, not reached in the placebo arm).
+
+## 14.7 dMMR Colon Cancer
+
+The efficacy of TECENTRIQ in combination with mFOLFOX6 (oxaliplatin, leucovorin, and fluorouracil) was evaluated in ATOMIC/ML39057 (NCT02912559), a multicenter, randomized, open-label, active-controlled study in 711 adults and one pediatric patient with Stage III dMMR colon cancer after a complete (R0) resection of the primary tumor with no evidence of residual lymph node involvement or metastatic disease.
+Patients were excluded if they had a rectal tumor (tumor must be in the colon); prior chemotherapy, radiation, or drug therapies (with the exception of one cycle of mFOLFOX6); a history of active autoimmune disease; pulmonary disease with hypoxia; grade 2 or higher peripheral motor or sensory neuropathy.Patients were randomized (1:1) to receive one of the following:
+
+- TECENTRIQ 840 mg IV once every 2 weeks (the pediatric patient received 10 mg/kg Q2W, until reaching 840 mg) in combination with mFOLFOX6 (oxaliplatin, leucovorin, and fluorouracil) for 6 months (12 cycles), followed by TECENTRIQ IV monotherapy for 6 months (13 cycles), or
+- mFOLFOX6 every 2 weeks for 6 months (12 cycles).
+
+mFOLFOX6 consisted of oxaliplatin 85 mg/m2, leucovorin 400 mg/m2, and fluorouracil 400 mg/m2 given as a bolus followed by fluorouracil 2400 mg/m2 given as a continuous infusion over 46 hours.
+Randomization was stratified by nodal status (N1/N1C vs. N2), tumor stage (Tx, T1-T3 vs. T4), and primary tumor location (proximal vs. distal).
+Study treatment was administered for the planned duration unless disease recurrence or unacceptable toxicity.
+Tumor assessments per RECIST v1.1 were conducted every 6 months for the first 2 years and then annually for 3 years.
+
+The median age was 64 years (range: 13 to 91 years); 49% were ≥65 years of age, 55% female, 45% male; 85% of patients were White, 7% were Black or African American and 3.1% were Asian; 7% were Hispanic or Latino, 90% not Hispanic or Latino, and 3.3% not reported or unknown.
+
+Baseline ECOG performance status was 0 in 65%, 1 in 33%, and 2 in 1.5%.
+Overall, 70% of patients had tumor stage Tx, T1-T3 and 30% had T4 tumors.
+Sixty-four percent of patients had N1/N1C nodal status (1-3 positive nodes) and 36% had N2 nodal status (≥ 4 positive nodes).
+Tumor location was right-sided in 84% of patients and left-sided in 16% of patients.
+The major efficacy outcome measure was disease-free survival (DFS) as assessed by the investigator.
+
+Efficacy results are summarized in Table 39 and Figure 13.
+
+Table 39: Efficacy Results from ATOMIC
+
+| Endpoint | TECENTRIQ + mFOLFOX6 (n=355) | mFOLFOX6 (n=357) |
+| --- | --- | --- |
+| Disease-Free Survival (DFS) As determined by investigator assessment |  |  |
+| Number of events (%) | 46 (13%) | 81 (23%) |
+| Median DFS (months) (95% CI) | NR | NR |
+| Hazard Ratio (95% CI) Stratified by nodal status (N1/N1C vs N2), T stage (Tx, T1-T3 vs T4), and primary tumor location (proximal vs distal) per IxRS. | 0.50 (0.35, 0.73) |  |
+| p-value Based on stratified log-rank test (one-sided). | 0.0001 |  |
+| CI: confidence interval; NR = Not Reached |  |  |
+
+Figure 13: Kaplan-Meier Plot of Disease-Free Survival in ATOMIC

@@ -60,6 +60,15 @@ The course of unresectable or metastatic ASPS is sufficiently similar between pe
 
 The safety and effectiveness of TECENTRIQ for ASPS have not been established in pediatric patients younger than 2 years of age.
 
+Colon Cancer
+
+The safety and effectiveness of TECENTRIQ have been established in pediatric patients 2 years of age and older for the adjuvant treatment of Stage III dMMR colon cancer.
+Use of TECENTRIQ for this indication is supported by evidence from an adequate and well-controlled study in adults and one adolescent patient (≥12 years of age) with Stage III dMMR colon cancer with additional pharmacokinetic and safety data in pediatric patients 2 years to <17 years.
+These data suggest that atezolizumab exposure in pediatric patients aged 2 years and older is comparable with that of adults and is expected to result in similar safety and efficacy to that of adults [see Adverse Reactions (6.1), Pharmacokinetics (12.3), Clinical Studies (14.7)].
+The course of Stage III dMMR colon cancer is sufficiently similar between pediatric patients 2 to 11 years old and that of adults and adolescent patients to allow extrapolation of efficacy and safety to pediatric patients 2 years and older.
+
+The safety and effectiveness of TECENTRIQ have not been established in pediatric patients younger than 2 years of age with colon cancer.
+
 Solid Tumors and Lymphomas
 
 The safety and effectiveness of TECENTRIQ in pediatric patients have not been established in non-small cell lung cancer, small-cell lung cancer, hepatocellular carcinoma, melanoma, or muscle invasive bladder cancer.
@@ -88,3 +97,9 @@ TECENTRIQ in Combination with Lurbinectedin
 Of the 242 patients with ES-SCLC treated with TECENTRIQ in combination with lurbinectedin in IMforte, 124 (51%) patients were 65 years of age and older, while 29 (12%) patients were 75 years of age and older.
 No overall differences in effectiveness were observed between older and younger patients.
 There was a higher incidence of Grade 3 or 4 adverse reactions (45% vs 31%) and treatment discontinuation (11% vs 0.8%) in patients ≥ 65 years of age compared to younger patients, respectively.
+
+TECENTRIQ in Combination with Chemotherapy
+
+Of the 346 patients with colon cancer treated with TECENTRIQ in combination with mFOLFOX6, 170 (49%) patients were 65 years of age and older, and 69 (20%) patients were 75 years of age and older.
+No overall differences in effectiveness were observed between patients aged 65 years or older and younger patients.
+There was a higher incidence of Grade 3 or 4 adverse reactions (87% vs 79%) and treatment discontinuation (20% vs 15%) in patients ≥65 years of age compared to younger patients, respectively.
