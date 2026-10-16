@@ -5,4 +5,4 @@ Distributed by Pfizer Labs Division of Pfizer Inc. New York, NY 10001
 This product’s labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-1273-7.0
+LAB-1273-8.0

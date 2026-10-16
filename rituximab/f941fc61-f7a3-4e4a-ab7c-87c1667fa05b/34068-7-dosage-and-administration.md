@@ -74,6 +74,18 @@ Follow up Treatment of Adult Patients with GPA/MPA who have Achieved Disease Con
 - •If induction treatment of active disease was with a rituximab product, initiate follow up treatment with RUXIENCE within 24 weeks after the last induction infusion with a rituximab product or based on clinical evaluation, but no sooner than 16 weeks after the last induction infusion with a rituximab product.
 - •If induction treatment of active disease was with other standard of care immunosuppressants, initiate RUXIENCE follow up treatment within the 4 week period that follows achievement of disease control.
 
+Induction Treatment of Pediatric Patients with Active GPA/MPA
+
+- •Administer RUXIENCE as a 375 mg/m2 intravenous infusion once weekly for 4 weeks.
+- •Prior to the first RUXIENCE infusion, administer intravenous methylprednisolone 30 mg/kg (not to exceed 1 g/day) once daily for 3 days.
+- •Following intravenous methylprednisolone administration, oral steroids should be continued per clinical practice.
+
+Follow up Treatment of Pediatric Patients with GPA/MPA who have Achieved Disease Control with Induction Treatment
+
+- •Administer RUXIENCE as two 250 mg/m2 intravenous infusions separated by two weeks, followed by a 250 mg/m2 intravenous infusion every 6 months thereafter based on clinical evaluation.
+- •If induction treatment of active disease was with a rituximab product, initiate follow up treatment with RUXIENCE within 24 weeks after the last induction infusion with a rituximab product or based on clinical evaluation, but no sooner than 16 weeks after the last induction infusion with a rituximab product.
+- •If induction treatment of active disease was with other standard of care immunosuppressants, initiate RUXIENCE follow up treatment within the 4 week period following achievement of disease control.
+
 ## 2.7 Recommended Dose for Pemphigus Vulgaris (PV)
 
 - •Administer RUXIENCE as two-1,000 mg intravenous infusions separated by 2 weeks in combination with a tapering course of glucocorticoids.
@@ -105,7 +117,7 @@ Do not use vial if particulates or discoloration is present.
 Administration
 
 Use a sterile needle and syringe to prepare RUXIENCE.
-Withdraw the necessary amount of RUXIENCE and dilute to a final concentration of 1 mg/mL to 4 mg/mL in an infusion bag containing either 0.9% Sodium Chloride Injection or 5% Dextrose Injection.
+Withdraw the necessary amount of RUXIENCE and dilute to a final concentration of 1 mg/mL to 4 mg/mL in an infusion bag containing either 0.9% Sodium Chloride Injection, USP or 5% Dextrose Injection, USP.
 Gently invert the bag to mix the solution.
 Do not mix or dilute with other drugs.
 Discard any unused portion left in the vial.

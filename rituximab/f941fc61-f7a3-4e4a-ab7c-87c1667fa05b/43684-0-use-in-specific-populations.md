@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Based on human data, rituximab products can cause adverse developmental outcomes including B-cell lymphocytopenia in infants exposed in-utero (see Clinical Considerations).
+Based on human data, rituximab products can cause adverse developmental outcomes including B-cell lymphocytopenia in infants exposed in utero (see Clinical Considerations).
 In animal reproduction studies, intravenous administration of rituximab to pregnant cynomolgus monkeys during the period of organogenesis caused lymphoid B-cell depletion in the newborn offspring at doses resulting in 80% of the exposure (based on AUC) of those achieved following a dose of 2 grams in humans.
 Advise pregnant women of the risk to a fetus.
 
@@ -18,8 +18,8 @@ Fetal/Neonatal Adverse Reactions Observe newborns and infants for signs of infec
 
 Data
 
-Human Data Postmarketing data indicate that B-cell lymphocytopenia generally lasting less than six months can occur in infants exposed to rituximab in-utero.
-Rituximab was detected postnatally in the serum of infants exposed in-utero.
+Human Data Postmarketing data indicate that B-cell lymphocytopenia generally lasting less than six months can occur in infants exposed to rituximab in utero.
+Rituximab was detected postnatally in the serum of infants exposed in utero.
 
 Animal Data An embryo-fetal developmental toxicity study was performed on pregnant cynomolgus monkeys.
 Pregnant animals received rituximab via the intravenous route during early gestation (organogenesis period; post coitum Days 20 through 50).
@@ -28,7 +28,7 @@ The 100 mg/kg/week dose resulted in 80% of the exposure (based on AUC) of those 
 Rituximab crosses the monkey placenta.
 Exposed offspring did not exhibit any teratogenic effects but did have decreased lymphoid tissue B cells.
 
-A subsequent pre- and postnatal reproductive toxicity study in cynomolgus monkeys was completed to assess developmental effects including the recovery of B cells and immune function in infants exposed to rituximab in-utero.
+A subsequent pre- and postnatal reproductive toxicity study in cynomolgus monkeys was completed to assess developmental effects including the recovery of B cells and immune function in infants exposed to rituximab in utero.
 Animals were treated with a loading dose of 0, 15, or 75 mg/kg every day for 3 days, followed by weekly dosing with 0, 20, or 100 mg/kg dose.
 Subsets of pregnant females were treated from PC Day 20 through postpartum Day 78, PC Day 76 through PC Day 134, and from PC Day 132 through delivery and postpartum Day 28.
 Regardless of the timing of treatment, decreased B cells and immunosuppression were noted in the offspring of rituximab-treated pregnant animals.
@@ -55,7 +55,21 @@ Females Advise females of reproductive potential to use effective contraception 
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of RUXIENCE have not been established in pediatric patients with NHL, CLL, PV or RA.
+Granulomatosis with Polyangiitis (GPA) (Wegener’s Granulomatosis) and Microscopic Polyangiitis (MPA)
+
+RUXIENCE is indicated for the treatment of GPA and MPA in pediatric patients 2 years of age and older with GPA and MPA.
+RUXIENCE is not indicated in pediatric patients less than 2 years of age with GPA or MPA.
+
+The use of RUXIENCE for the treatment of pediatric patients with GPA and MPA 6 years of age and older is supported by evidence from adequate and well-controlled studies of rituximab in adults with GPA and MPA; a trial in pediatric patients 6 years of age and older with active GPA and MPA; and population pharmacokinetic (PK) analyses showing similar drug exposure levels in adults and pediatric patients 6 years to 17 years of age.
+The use of RUXIENCE for the treatment of pediatric patients with GPA and MPA ages 2 to less than 6 years of age is supported by PK modeling in patients 2 years of age and older and safety data from pediatric patients less than 6 years of age treated with rituximab.
+
+The pediatric trial was a multicenter, open-label, single-arm study (GPA/MPA Study 4) to evaluate the safety, PK and exploratory efficacy of rituximab or non-U.S.-licensed rituximab in 25 pediatric patients (6 patients 6 years to less than 12 years of age and 19 patients 12 years to 17 years of age) with active GPA and MPA over a 6-month remission induction phase and minimum 12-month follow up phase, up to 54 months [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
+
+The safety and effectiveness of RUXIENCE have not been established in pediatric patients with CLL.
+
+Rheumatoid Arthritis and Pemphigus Vulgaris
+
+The safety and effectiveness of RUXIENCE have not been established in pediatric patients with PV or RA.
 
 Rituximab was not studied in pediatric patients with polyarticular juvenile idiopathic arthritis (PJIA) due to concerns regarding the potential for prolonged immunosuppression as a result of B-cell depletion in the developing juvenile immune system.
 

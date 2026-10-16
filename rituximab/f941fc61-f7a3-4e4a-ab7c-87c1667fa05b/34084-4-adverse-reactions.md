@@ -20,7 +20,7 @@ B-Cell Malignancies
 
 The data described below reflect exposure to rituximab in 3,092 patients, with exposures ranging from a single infusion up to 2 years.
 Rituximab was studied in both single-arm and controlled trials (n=356 and n=2,427).
-The population included 1,180 patients with low grade or follicular lymphoma, 927 patients with DLBCL, 676 patients with CLL, and 309 patients with another indication.
+The population included 1,180 patients with low-grade or follicular lymphoma, 927 patients with DLBCL, 676 patients with CLL, and 309 patients with another indication.
 Most NHL patients received rituximab as an infusion of 375 mg/m2 per infusion, given as a single agent weekly for up to 8 doses, in combination with chemotherapy for up to 8 doses, or following chemotherapy for up to 16 doses.
 CLL patients received rituximab 375 mg/m2 as an initial infusion followed by 500 mg/m2 for up to 5 doses, in combination with fludarabine and cyclophosphamide.
 Seventy-one percent of CLL patients received 6 cycles and 90% received at least 3 cycles of rituximab-based therapy.
@@ -290,6 +290,23 @@ Long-term, Observational Study with Rituximab in Patients with GPA/MPA (GPA/MPA 
 Majority of patients received doses ranging from 500 mg to 1,000 mg, approximately every 6 months.
 The safety profile was consistent with the safety profile for rituximab in RA and GPA and MPA.
 
+Treatment of Pediatric Patients with GPA/MPA (GPA/MPA Study 4) An open-label, single-arm study (NCT01750697) was conducted in 25 pediatric patients 6 years to 17 years of age with active GPA or MPA.
+The overall study period consisted of a 6-month remission induction phase and a minimum 12‑month follow up phase, up to 54 months.
+During the remission induction phase, patients received rituximab or non-U.S.-licensed rituximab.
+During the follow up phase, rituximab or non-U.S.-licensed rituximab were given at the discretion of the investigator (17 out of 25 patients received this additional treatment).
+Concomitant treatment with other immunosuppressive therapy was permitted [see Clinical Studies (14.7)].
+
+The safety profile in pediatric GPA and MPA patients was consistent in type, nature and severity with the known safety profile of rituximab in adult patients with RA, GPA and MPA, and PV.
+
+Infusion-Related Reactions In GPA/MPA Study 4, the proportion of patients experiencing an IRR was 32%, 20%, 12%, and 8% following the first, second, third, and fourth infusions, respectively.
+The observed symptoms of IRRs were similar to those in adult GPA and MPA patients treated with rituximab [see Warnings and Precautions (5.1)].
+
+Serious Infections Serious infections were reported in 7 patients (28%), and included influenza (2 patients [8%]) and lower respiratory tract infection (2 patients [8%]) as the most frequently reported events.
+
+Hypogammaglobulinemia Hypogammaglobulinemia (IgG or IgM below the lower limit of normal), including prolonged hypogammaglobulinemia (defined as Ig levels below lower limit of normal for at least 4 months) was observed in GPA/MPA Study 4.
+During the overall study period, 18/25 patients (72%) had prolonged low IgG levels, including 15 patients who also had prolonged low IgM.
+Three patients received treatment with intravenous immunoglobulin.
+
 Pemphigus Vulgaris (PV)
 
 PV Study 1 PV Study 1 (NCT00784589), a randomized, controlled, multicenter open-label study, evaluated the efficacy and safety of non-U.S.-licensed rituximab in combination with short-term prednisone compared to prednisone monotherapy in 90 patients (74 Pemphigus Vulgaris [PV] patients and 16 Pemphigus Foliaceus [PF] patients) [see Clinical Studies (14.8)].
@@ -383,6 +400,7 @@ Four anti-rituximab antibody positive patients had serious infusion-related reac
 
 A total of 23/99 (23%) rituximab-treated adult patients with GPA and MPA developed anti-rituximab antibodies by 18 months in GPA/MPA Study 1.
 The clinical relevance of anti-rituximab antibody formation in rituximab-treated adult patients is unclear.
+In GPA/MPA Study 4, a total of 4/21 (19%) rituximab‑treated pediatric patients with GPA and MPA developed anti‑rituximab antibodies during the overall study period (assessed at Month 18).
 
 Using a new ELISA assay, a total of 19/34 (56%) patients with PV, who were treated with non-U.S.-licensed rituximab, tested positive for anti-rituximab antibodies by 18 months in PV Study 1.
 In PV Study 2, a total of 20/63 (32%) rituximab-treated PV patients tested positive for ADA by week 52 (19 patients had treatment-inducted ADA and 1 patient had treatment-enhanced ADA).

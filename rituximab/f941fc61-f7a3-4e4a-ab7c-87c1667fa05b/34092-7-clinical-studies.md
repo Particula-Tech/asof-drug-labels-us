@@ -209,7 +209,7 @@ Table 13 ACR Responses in RA Study 1 and RA Study 2 (Percent of Patients) (Modif
 | Inadequate Response to TNF Antagonists |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | RA Study 1 24 Week Placebo-Controlled (Week 24) |  |  |  |  | RA Study 2 Placebo-Controlled Retreatment (Week 24 and Week 48) |  |  |  |
-| Response | Placebo + MTX n=201 | Rituximab + MTX n=298 | Treatment Difference (Rituximab – Placebo)For RA Study 1, weighted difference stratified by region (US, rest of the world) and Rheumatoid Factor (RF) status (positive greater than 20 IU/mL, negative less than 20 IU/mL) at baseline; For RA Study 2, weighted difference stratified by RF status at baseline and greater than or equal to 20% improvement from baseline in both SJC and TJC at Week 24 (Yes/No). (95% CI) |  | Response | Placebo + MTX Retreatment n=157 | Rituximab+MTX Retreatment n=318 | Treatment Difference (Rituximab – Placebo)In RA Study 2, all patients received a first course of rituximab 2 × 1,000 mg. Patients who experienced ongoing disease activity were randomized to receive a second course of either rituximab 2 × 1,000 mg + MTX or Placebo + MTX at or after Week 24.,Since all patients received a first course of rituximab, no comparison between Placebo + MTX and rituximab + MTX is made at Week 24., (95% CI) |
+| Response | Placebo + MTX n=201 | Rituximab + MTX n=298 | Treatment Difference (Rituximab – Placebo)For RA Study 1, weighted difference stratified by region (U.S., rest of the world) and Rheumatoid Factor (RF) status (positive greater than 20 IU/mL, negative less than 20 IU/mL) at baseline; For RA Study 2, weighted difference stratified by RF status at baseline and greater than or equal to 20% improvement from baseline in both SJC and TJC at Week 24 (Yes/No). (95% CI) |  | Response | Placebo + MTX Retreatment n=157 | Rituximab+MTX Retreatment n=318 | Treatment Difference (Rituximab – Placebo)In RA Study 2, all patients received a first course of rituximab 2 × 1,000 mg. Patients who experienced ongoing disease activity were randomized to receive a second course of either rituximab 2 × 1,000 mg + MTX or Placebo + MTX at or after Week 24.,Since all patients received a first course of rituximab, no comparison between Placebo + MTX and rituximab + MTX is made at Week 24., (95% CI) |
 | ACR20 |  |  |  |  | ACR20 |  |  |  |
 | Week 24 | 18% | 51% | 33% (26%, 41%) |  | Week 24 | 48% | 45% | NA |
 |  |  |  |  |  | Week 48 | 45% | 54% | 11% (2%, 20%) |
@@ -243,8 +243,6 @@ Similar patterns were demonstrated for ACR 50 and 70 responses.
 
 | Figure 2 Percent of Patients Achieving ACR 20 Response by VisitThe same patients may not have responded at each time point. RA Study 1 (Inadequate Response to TNF Antagonists) |
 | --- |
-
-The same patients may not have responded at each time point.
 
 Radiographic Response
 
@@ -293,7 +291,7 @@ These improvements were maintained at 48 weeks.
 
 Table 16 Improvement from Baseline in Health Assessment Questionnaire Disability Index (HAQ-DI) at Week 24 in RA Study 4
 
-|  | Placebo + MTX n=172 | Rituximab 2 × 1,000 mg + MTX n=170 | Treatment Difference (Rituximab - Placebo)Adjusted difference stratified by region (US, rest of the world) and Rheumatoid Factor (RF) status (positive greater than or equal to 20 IU/mL, negative less than 20 IU/mL) at baseline. (95% CI) |
+|  | Placebo + MTX n=172 | Rituximab 2 × 1,000 mg + MTX n=170 | Treatment Difference (Rituximab - Placebo)Adjusted difference stratified by region (U.S., rest of the world) and Rheumatoid Factor (RF) status (positive greater than or equal to 20 IU/mL, negative less than 20 IU/mL) at baseline. (95% CI) |
 | --- | --- | --- | --- |
 | Mean Improvement from Baseline | 0.19 | 0.42 | 0.23 (0.11, 0.34) |
 | Percent of patients with "Improved" score (Change from Baseline greater than or equal to MCID)Minimal Clinically Important Difference: MCID for HAQ=0.22. | 48% | 58% | 11% (0%, 21%) |
@@ -322,7 +320,7 @@ Table 17 Percentage of Patients with GPA/MPA Who Achieved Complete Remission at 
 |  | Rituximab (n=99) | Cyclophosphamide (n=98) | Treatment Difference (Rituximab – Cyclophosphamide) |
 | --- | --- | --- | --- |
 | Rate | 64% | 53% | 11% |
-| 95.1%The 95.1% confidence level reflects an additional 0.001 alpha to account for an interim efficacy analysis. CI | (54%, 73%) | (43%, 63%) | (-3%, 24%)Non-inferiority was demonstrated because the lower bound was higher than the prespecified non-inferiority margin (-3% greater than -20%). |
+| 95.1%The 95.1% confidence level reflects an additional 0.001 alpha to account for an interim efficacy analysis. CI | (54%, 73%) | (43%, 63%) | (-3%, 24%)Non-inferiority was demonstrated because the lower bound was higher than the pre-specified non-inferiority margin (-3% greater than -20%). |
 
 Complete Remission (CR) at 12 and 18 Months In the rituximab group, 44% of patients achieved CR at 6 and 12 months, and 38% of patients achieved CR at 6, 12, and 18 months.
 In patients treated with cyclophosphamide (followed by azathioprine for maintenance of CR), 38% of patients achieved CR at 6 and 12 months, and 31% of patients achieved CR at 6, 12, and 18 months.
@@ -342,7 +340,7 @@ Azathioprine was administered orally at a dose of 2 mg/kg/day for 12 months, the
 Prednisone treatment was tapered and then kept at a low dose (approximately 5 mg per day) for at least 18 months after randomization.
 Prednisone dose tapering and the decision to stop prednisone treatment after Month 18 were left at the investigator's discretion.
 
-Planned follow-up was until Month 28 (10 or 6 months, respectively, after the last non-U.S.-licensed rituximab infusion or azathioprine dose).
+Planned follow up was until Month 28 (10 or 6 months, respectively, after the last non-U.S.-licensed rituximab infusion or azathioprine dose).
 The primary endpoint was the occurrence of major relapse (defined by the reappearance of clinical and/or laboratory signs of vasculitis activity that could lead to organ failure or damage, or could be life-threatening) through Month 28.
 
 By Month 28, major relapse occurred in 3 patients (5%) in the non-U.S.-licensed rituximab group and 17 patients (29%) in the azathioprine group.
@@ -352,6 +350,40 @@ The observed cumulative incidence rate of first major relapse during the 28 mont
 | Figure 3 Cumulative Incidence Over Time of First Major Relapse in Patients with GPA/MPA |
 | --- |
 | Patients were censored at the last follow up dates if they had no event. |
+
+Treatment of Pediatric Patients (GPA/MPA Study 4) The study design consisted of an initial 6-month remission induction phase, and a minimum 12‑month follow up phase up to a maximum of 54 months (4.5 years) in pediatric patients 2 years to 17 years of age with GPA and MPA.
+Patients were to receive a minimum of 3 doses of intravenous methylprednisolone (30 mg/kg/day, not exceeding 1 g/day) prior to the first rituximab or non-U.S.-licensed rituximab intravenous infusion.
+If clinically indicated, additional daily doses (up to three), of intravenous methylprednisolone could be given.
+The remission induction regimen consisted of four once weekly intravenous infusions of rituximab or non-U.S.-licensed rituximab at a dose of 375 mg/m2 BSA, on study days 1, 8, 15 and 22 in combination with oral prednisolone or prednisone at 1 mg/kg/day (max 60 mg/day) tapered to 0.2 mg/kg/day minimum (max 10 mg/day) by Month 6.
+After the remission induction phase, patients could receive subsequent rituximab or non-U.S.-licensed rituximab intravenous infusions on or after Month 6 to maintain remission and control disease activity.
+
+The primary objectives of this study were to evaluate safety and PK parameters in pediatric GPA and MPA patients (2 years to 17 years of age).
+The efficacy objectives of the study were exploratory and principally assessed using the Pediatric Vasculitis Activity Score (PVAS).
+
+A total of 25 pediatric patients 6 years to 17 years of age with active GPA and MPA were treated with rituximab or non-U.S.-licensed rituximab in a multicenter, open-label, single-arm, uncontrolled study (NCT01750697).
+The median age of patients in the study was 14 years and the majority of patients (20/25 [80%]) were female.
+A total of 19 patients (76%) had GPA and 6 patients (24%) had MPA at baseline.
+Eighteen patients (72%) had newly diagnosed disease upon study entry (13 patients with GPA and 5 patients with MPA) and 7 patients had relapsing disease (6 patients with GPA and 1 patient with MPA).
+
+All 25 patients completed all four once weekly intravenous infusions for the 6-month remission induction phase.
+A total of 24 out of 25 patients completed at least 18 months from Day 1 (baseline).
+
+The exploratory efficacy using the PVAS is described in Table 18.
+
+Table 18 Percentage of Patients Who Achieved PVAS Remission by Month 6, 12 and 18 (GPA/MPA Study 4)PVAS remission is defined by a PVAS of 0 and achieved glucocorticoid taper to 0.2 mg/kg/day (or 10 mg/day, whichever is lower), or a PVAS of 0 on two consecutive readings greater than or equal to 4 weeks apart irrespective of glucocorticoid dose.
+
+|  | Time to Follow Up Since Day 1 |  |  |
+| --- | --- | --- | --- |
+|  | Month 6n=25 | Month 12n=25 | Month 18n=25 |
+| Response rate95% CIThe efficacy results are exploratory and no formal statistical testing was performed for these endpoints. | 56%(34.9%, 75.6%) | 92%(74.0%, 99.0%) | 100%(86.3%, 100.0%) |
+
+Follow Up Treatment After the 6-month remission induction phase, patients who had not achieved remission or who had progressive disease or flare that could not be controlled by glucocorticoids alone received additional treatment for GPA and MPA, that could include rituximab or non-U.S.-licensed rituximab and/or other therapies, at the discretion of the investigator.
+Planned follow up was until Month 18 (from Day 1).
+
+Fourteen out of 25 patients (56%) received additional rituximab or non-U.S.-licensed rituximab treatment at or post Month 6, up to Month 18.
+Five of these patients received four once weekly doses (375 mg/m2) of intravenous rituximab or non-U.S.-licensed rituximab approximately every 6 months; 5 of these patients received a single dose (375 mg/m2) of rituximab or non-U.S.-licensed rituximab every 6 months, and 4 of these patients received various other rituximab or non-U.S.-licensed rituximab doses/regimens according to investigator.
+Of the 14 patients who received follow up treatment between Month 6 and Month 18, 4 patients first achieved remission between Months 6 and 12 and 1 patient first achieved remission between Months 12 and 18.
+Nine of these 14 patients achieved PVAS remission by Month 6 but required additional follow up treatment after Month 6.
 
 ## 14.8 Pemphigus Vulgaris (PV)
 
@@ -372,9 +404,9 @@ Maintenance and relapse infusions were administered no sooner than 16 weeks foll
 
 The primary endpoint for the study was complete remission (complete epithelialization and absence of new and/or established lesions) at Month 24 without the use of prednisone therapy for 2 months or more (CRoff for greater than or equal to 2 months).
 
-The results of the trial are presented in Table 18.
+The results of the trial are presented in Table 19.
 
-Table 18 Percentage of Pemphigus Patients in Complete Remission Off Corticosteroid Therapy for Two Months or More (CRoff greater than or equal to 2 months) at Month 24, PV Study 1 (Intent-to-Treat Population)
+Table 19 Percentage of Pemphigus Patients in Complete Remission Off Corticosteroid Therapy for Two Months or More (CRoff greater than or equal to 2 months) at Month 24, PV Study 1 (Intent-to-Treat Population)
 
 |  | Non-U.S.-Licensed Rituximab +Short-term PrednisoneN=46 | PrednisoneN=44 |
 | --- | --- | --- |
@@ -397,9 +429,9 @@ The primary efficacy endpoint for this study was the proportion of subjects achi
 
 Secondary endpoints included cumulative oral corticosteroid dose and the total number of disease flares.
 
-The results of the trial are presented in Table 19.
+The results of the trial are presented in Table 20.
 
-Table 19 Percentage of PV Patients Who Achieved Sustained Complete Remission Off Corticosteroid Therapy for 16 Weeks or More at Week 52 (Modified Intent-to-Treat Population)
+Table 20 Percentage of PV Patients Who Achieved Sustained Complete Remission Off Corticosteroid Therapy for 16 Weeks or More at Week 52 (Modified Intent-to-Treat Population)
 
 |  | Rituximab(N=62) | MMF(N=63) | Difference (95% CI) |
 | --- | --- | --- | --- |
