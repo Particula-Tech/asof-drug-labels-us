@@ -12,7 +12,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adverse Reactions of TECENTRIQ HYBREZA in Adult Patients with NSCLC
 
-The safety of TECENTRIQ HYBREZA was evaluated in IMscin001, open-label, multi-center, international, randomized trial for patients with locally advanced or metastatic NSCLC who have not been exposed to cancer immunotherapy and who have had disease progression on prior platinum-based therapy [see Clinical Studies (14.1)].
+The safety of TECENTRIQ HYBREZA was evaluated in IMscin001, an open-label, multi-center, international, randomized trial for patients with locally advanced or metastatic NSCLC who have not been exposed to cancer immunotherapy and who have had disease progression on prior platinum-based therapy [see Clinical Studies (14.1)].
 Patients with previously treated metastatic non-small cell lung cancer (NSCLC) either received TECENTRIQ HYBREZA (containing 1,875 mg of atezolizumab and 30,000 units of hyaluronidase) administered subcutaneously into the thigh over approximately 7 minutes every 3 weeks or intravenous atezolizumab every 3 weeks until disease progression or unacceptable toxicity.
 Among 247 patients who received TECENTRIQ HYBREZA, 32% were exposed for 6 months or longer and 8% were exposed for greater than one year.
 
@@ -77,7 +77,7 @@ The safety of TECENTRIQ HYBREZA for its approved NSCLC indications [see Indicati
 - first-line treatment of adult patients with metastatic NSCLC whose tumors have high PD-L1 expression (PD-L1 stained ≥ 50% of tumor cells [TC ≥ 50%] or PD-L1 stained tumor-infiltrating immune cells [IC] covering ≥ 10% of the tumor area [IC ≥ 10%]), with no EGFR or ALK genomic tumor aberrations (IMpower110 study).
 - first-line treatment of adult patients with metastatic non-squamous NSCLC with no EGFR or ALK genomic tumor aberrations (IMpower150 study).
 - first-line treatment of adult patients with metastatic non-squamous NSCLC with no EGFR or ALK genomic tumor aberrations (IMpower130 study).
-- first-line treatment of adult patients with metastatic NSCLC whose tumors have high PD-L1 expression, with no EGFR or ALK genomic tumor aberrations (OAK study).
+- treatment of adult patients with locally advanced or metastatic NSCLC who progressed during or following a platinum-containing regimen (OAK study).
 
 Below is a description of adverse reactions of intravenous atezolizumab in these adequate and well-controlled NSCLC studies.
 
@@ -864,6 +864,67 @@ Table 26 Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of
 | Increased alanine aminotransferase | 23 | 2.5 | 10 | 0 |
 | Increased alkaline phosphatase | 23 | 1.2 | 15 | 0 |
 | Graded per NCI-CTCAE v5.0 Denominator is based on patients with at least one post-baseline assessment. For each parameter, the denominator includes patients with baseline Grade 0-2 in the specified direction of abnormality or patients with missing baseline values |  |  |  |  |
+
+Adverse Reactions in Adults and Pediatric Patients with Stage III dMMR Colon Cancer
+
+The safety of TECENTRIQ HYBREZA for its approved dMMR colon cancer indication [see Indications and Usage (1.6)] has been established based on the results of a study of intravenous atezolizumab for Stage III dMMR colon cancer (ATOMIC/ ML39057 study).
+
+Adjuvant Treatment of Stage III dMMR Colon Cancer
+
+ATOMIC (ML39057) Study
+
+The safety of intravenous atezolizumab was evaluated in ATOMIC, a multicenter, randomized, open-label, active-controlled trial in 345 adults and one pediatric patient with Stage III dMMR colon cancer [see Clinical Studies (14.7)].
+Patients received intravenous atezolizumab 840 mg every 2 weeks and the pediatric patient received 10 mg/kg Q2W, until the maximum dose of 840 mg Q2W) in combination with mFOLFOX6 for 6 months (12 cycles), followed by intravenous atezolizumab monotherapy for 6 months (13 cycles), or mFOLFOX6 alone for 6 months (12 cycles), until disease recurrence, unacceptable toxicity, or patient or physician decision to discontinue.
+The total duration of treatment was up to one year.
+Among patients receiving intravenous atezolizumab in combination with mFOLFOX6, the median duration of exposure to intravenous atezolizumab was 10.9 months.
+
+Serious adverse reactions occurred in 52% of patients receiving intravenous atezolizumab in combination with mFOLFOX6.
+The most frequent serious adverse reactions (≥ 3%) were diarrhea (8%), nausea (6%), abdominal pain (4.9%), peripheral sensory neuropathy (4.6%) and pyrexia (3.8%).
+
+Adverse reactions leading to permanent discontinuation of intravenous atezolizumab in combination with mFOLFOX6 occurred in 17% of patients.
+The most frequent adverse reactions leading to permanent discontinuation of intravenous atezolizumab were peripheral sensory neuropathy (5%), neuropathy peripheral (3%), and paresthesia (2%).
+
+Table 27 and 28 summarize adverse reactions and laboratory abnormalities in ATOMIC.
+
+Table 27: Adverse Reactions Occurring in ≥20% (with a difference between arms of at least 5% incidence) Patients with Colon Cancer Receiving Intravenous Atezolizumab in ATOMIC
+
+| All Grades (%) | Grade 3–4 (%) | All Grades (%) | Grade 3–4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | Intravenous Atezolizumab in combination with mFOLFOX6 (n=346) |  | mFOLFOX6 (n=334) |  |
+| Gastrointestinal Disorders |  |  |  |  |
+| Nausea | 75 | 4.6 | 69 | 1 |
+| DiarrheaIncludes colitis, diarrhea, enteritis, and enterocolitis. | 73 | 14 | 61 | 9 |
+| Abdominal painIncludes abdominal discomfort, abdominal pain, abdominal pain lower, and abdominal pain upper. | 47 | 4.6 | 30 | 2.1 |
+| Constipation | 43 | 0 | 34 | 0 |
+| StomatitisIncludes aphthous ulcer, cheilitis, glossitis, mouth ulceration, mucosal inflammation, pharyngeal inflammation, stomatitis, and tongue ulceration. | 34 | 2.6 | 33 | 1.2 |
+| Vomiting | 26 | 2.6 | 21 | 1.2 |
+| Nervous System Disorders |  |  |  |  |
+| Peripheral sensory neuropathy | 62 | 12 | 55 | 11 |
+| Neuropathy peripheral | 38 | 6 | 30 | 5 |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Decreased appetite | 48 | 2 | 38 | 0 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Cough | 42 | 0.3 | 23 | 0 |
+| Dyspnea | 35 | 2.0 | 24 | 1.2 |
+| General Disorders and Administration Site Conditions |  |  |  |  |
+| Pyrexia | 21 | 0 | 7 | 0.3 |
+
+Table 28: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% (with a difference between arms of at least 5% incidence or 2% of Grade 3-4 abnormalities) of Patients with Colon Cancer Receiving Intravenous Atezolizumab in ATOMIC
+
+| All Grades (%) | Grade 3–4 (%) | All Grades (%) | Grade 3–4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Laboratory Abnormality | Intravenous Atezolizumab in combination with mFOLFOX6The denominator used to calculate the rate varied from 334 to 346 based on the number of patients with baseline value and at least one post-treatment value |  | mFOLFOX6 |  |
+| Hematology |  |  |  |  |
+| Haemoglobin decreased | 68 | 10 | 60 | 7 |
+| Total leukocyte count decreased | 61 | 2 | 53 | 2 |
+| Total neutrophils decreased | 53 | 10 | 49 | 6 |
+| Lymphocytes decreased | 43 | 5 | 32 | 2 |
+| Chemistry |  |  |  |  |
+| Alkaline phosphatase increased | 51 | 2 | 47 | 0 |
+| Hypokalemia | 34 | 7 | 31 | 4 |
+| Calcium decreased | 33 | 2 | 19 | 1 |
+| Sodium decreased | 25 | 2 | 16 | 2 |
+| Creatinine increased | 22 | 2 | 14 | < 1 |
 
 ## 6.2 Postmarketing Experience
 

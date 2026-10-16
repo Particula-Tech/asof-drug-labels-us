@@ -1,15 +1,18 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection for Treatment of Non-Small Cell Lung Cancer, Melanoma and Muscle Invasive Bladder Cancer
+## 2.1 Patient Selection for Treatment of Non-Small Cell Lung Cancer, Melanoma, Muscle Invasive Bladder Cancer, and Colon Cancer
 
-Select adult patients with:
+Select patients with:
 
 - Stage II to IIIA NSCLC for adjuvant treatment with TECENTRIQ HYBREZA as a monotherapy (following tumor resection and platinum-based chemotherapy) based on PD-L1 expression on tumor cells [see Clinical Studies (14.1)].
 - Metastatic NSCLC for first-line treatment with TECENTRIQ HYBREZA as monotherapy based on the PD-L1 expression on tumor cells or on tumor-infiltrating immune cells [see Clinical Studies (14.1)].
 - Unresectable or metastatic melanoma for treatment with TECENTRIQ HYBREZA in combination with cobimetinib and vemurafenib after confirming the presence of a BRAF V600 mutation [see Clinical Studies (14.4)].
 - MIBC for treatment with TECENTRIQ HYBREZA, as a monotherapy based on detection of ctDNA MRD in plasma via serial testing between six weeks and one year after cystectomy [see Clinical Studies (14.6)].
+- Stage III colon cancer for treatment with TECENTRIQ HYBREZA in combination with chemotherapy based on dMMR tumor status in tumor specimens [see Clinical Studies (14.7)]
 
-Information on FDA-authorized tests for the determination of PD-L1 expression in metastatic NSCLC, for detection of BRAF V600 mutations in melanoma, or for the determination of ctDNA MRD status in MIBC is available at: http://www.fda.gov/CompanionDiagnostics.
+Information on FDA-authorized tests for determining PD-L1 expression in metastatic NSCLC, detecting BRAF V600 mutations in melanoma, or determining ctDNA MRD status in MIBC are available at: http://www.fda.gov/CompanionDiagnostics.
+
+An FDA-authorized test for detection of dMMR tumor status in patients with colon cancer is not currently available.
 
 ## 2.2 Important Dosage and Administration Information
 
@@ -51,6 +54,7 @@ Table 1: TECENTRIQ HYBREZA Administration Instructions and Duration of Therapy
 | Melanoma | Prior to initiating TECENTRIQ HYBREZA, patients should receive the following 28-day treatment cycle of cobimetinib and vemurafenib: Days 1 to 21: cobimetinib 60 mg orally once daily in combination with 960 mg of oral vemurafenib twice dailyDays 22 to 28: withhold cobimetinib and administer vemurafenib 720 mg orally twice daily |  |
 | Alveolar Soft Part Sarcoma | Administer TECENTRIQ HYBREZA as monotherapy | Until disease progression or unacceptable toxicity |
 | Muscle Invasive Bladder Cancer | Administer TECENTRIQ HYBREZA as monotherapy | Up to one year, unless there is disease recurrence or unacceptable toxicity |
+| Colon Cancer | Administer TECENTRIQ HYBREZA prior to chemotherapy when given on the same day. | In combination with chemotherapy for 6 monthsIf induction chemotherapy is discontinued early, the total TECENTRIQ HYBREZA treatment should not exceed 12 months., followed by TECENTRIQ HYBREZA as monotherapy for 6 months or until disease recurrence or unacceptable toxicity |
 
 ## 2.4 Dosage Modifications for Adverse Reactions
 

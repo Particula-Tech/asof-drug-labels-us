@@ -15,7 +15,7 @@ Evaluate liver enzymes, creatinine, and thyroid function at baseline and periodi
 In cases of suspected immune-mediated adverse reactions, initiate appropriate workup to exclude alternative etiologies, including infection.
 Institute medical management promptly, including specialty consultation as appropriate.
 
-Withhold or permanently discontinue TECENTRIQ HYBREZA depending on severity [see Dosage and Administration (2.3)].
+Withhold or permanently discontinue TECENTRIQ HYBREZA depending on severity [see Dosage and Administration (2.4)].
 In general, if TECENTRIQ HYBREZA requires interruption or discontinuation, administer systemic corticosteroid therapy (1 to 2 mg/kg/day prednisone or equivalent) until improvement to Grade 1 or less.
 Upon improvement to Grade 1 or less, initiate corticosteroid taper and continue to taper over at least 1 month.
 Consider administration of other systemic immunosuppressants in patients whose immune-mediated adverse reactions are not controlled with corticosteroid therapy.
@@ -75,7 +75,7 @@ Adrenal Insufficiency:
 
 TECENTRIQ HYBREZA can cause primary or secondary adrenal insufficiency, including Grade 3 adverse reactions.
 For Grade 2 or higher adrenal insufficiency, initiate symptomatic treatment, including hormone replacement as clinically indicated.
-Withhold or permanently discontinue TECENTRIQ HYBREZA depending on severity [see Dosage and Administration (2.3)].
+Withhold or permanently discontinue TECENTRIQ HYBREZA depending on severity [see Dosage and Administration (2.4)].
 
 Immune-mediated adrenal insufficiency occurred in 0.8% (2/247) of patients with locally advanced or metastatic NSCLC receiving TECENTRIQ HYBREZA as monotherapy in the IMscin001 trial [see Adverse Reactions (6.1)], including Grade 2 (0.4%) adverse reactions.
 Adrenal insufficiency led to the withholding of TECENTRIQ HYBREZA in both patients.
@@ -87,7 +87,7 @@ TECENTRIQ HYBREZA can cause immune-mediated hypophysitis, including Grade 2 adve
 Hypophysitis can present with acute symptoms associated with mass effect such as headache, photophobia, or visual field cuts.
 Hypophysitis can cause hypopituitarism.
 Initiate hormone replacement as clinically indicated.
-Withhold or permanently discontinue TECENTRIQ HYBREZA depending on severity [see Dosage and Administration (2.3)].
+Withhold or permanently discontinue TECENTRIQ HYBREZA depending on severity [see Dosage and Administration (2.4)].
 
 Immune-mediated hypophysitis occurred in 0.4% (1/247) of patients with locally advanced or metastatic NSCLC in the IMscin001 trial [see Adverse Reactions (6.1)] receiving TECENTRIQ HYBREZA as monotherapy, including Grade 1 (0.4%) adverse reactions.
 Hypophysitis led to the withholding of TECENTRIQ HYBREZA in this patient.
@@ -98,7 +98,7 @@ TECENTRIQ HYBREZA can cause immune-mediated thyroid disorders.
 Thyroiditis can present with or without endocrinopathy.
 Hypothyroidism can follow hyperthyroidism.
 Initiate hormone replacement for hypothyroidism or medical management for hyperthyroidism as clinically indicated.
-Withhold or permanently discontinue TECENTRIQ HYBREZA depending on severity [see Dosage and Administration (2.3)].
+Withhold or permanently discontinue TECENTRIQ HYBREZA depending on severity [see Dosage and Administration (2.4)].
 
 Thyroiditis:
 
@@ -153,7 +153,7 @@ Type 1 Diabetes Mellitus, which can present with Diabetic Ketoacidosis:
 TECENTRIQ HYBREZA can cause type 1 diabetes mellitus, including Grade 3 adverse reactions and diabetic ketoacidosis.
 Monitor patients for hyperglycemia or other signs and symptoms of diabetes.
 Initiate treatment with insulin as clinically indicated.
-Withhold or permanently discontinue TECENTRIQ HYBREZA depending on severity [see Dosage and Administration (2.3)].
+Withhold or permanently discontinue TECENTRIQ HYBREZA depending on severity [see Dosage and Administration (2.4)].
 
 Immune-Mediated Nephritis with Renal Dysfunction
 
@@ -173,7 +173,7 @@ Immune-Mediated Dermatologic Adverse Reactions
 TECENTRIQ HYBREZA can cause immune-mediated rash or dermatitis, including Grade 3 and fatal adverse reactions.
 Exfoliative dermatitis, including Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), and toxic epidermal necrolysis (TEN), has occurred with PD-1/PD-L1 blocking antibodies.
 Topical emollients and/or topical corticosteroids may be adequate to treat mild to moderate non-exfoliative rashes.
-Withhold or permanently discontinue TECENTRIQ HYBREZA depending on severity [see Dosage and Administration (2.3)].
+Withhold or permanently discontinue TECENTRIQ HYBREZA depending on severity [see Dosage and Administration (2.4)].
 
 One fatal case of an immune-mediated dermatologic adverse reaction, due to TEN, occurred (0.4%, 1/247) in patients with locally advanced or metastatic NSCLC receiving TECENTRIQ HYBREZA as monotherapy in the IMscin001 trial [see Adverse Reactions (6.1)].
 
@@ -198,7 +198,7 @@ Severe or fatal cases have been reported for some of these adverse reactions.
 
 TECENTRIQ HYBREZA can cause severe or life-threatening infusion-related reactions, including Grade 3 adverse reactions and anaphylaxis.
 Monitor for signs and symptoms of infusion-related reactions.
-Pause, slow the rate of, or permanently discontinue TECENTRIQ HYBREZA based on the severity [see Dosage and Administration (2.3)].
+Pause, slow the rate of, or permanently discontinue TECENTRIQ HYBREZA based on the severity [see Dosage and Administration (2.4)].
 For Grade 1 or 2 infusion-related reactions, consider using pre-medications with subsequent doses.
 
 ## 5.3 Complications of Allogeneic HSCT after PD-1/PD-L1 Inhibitors

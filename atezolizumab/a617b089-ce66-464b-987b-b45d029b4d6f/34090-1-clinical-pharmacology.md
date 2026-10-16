@@ -68,11 +68,11 @@ Because of the low occurrence of anti-rHuPH20 antibodies, the effect of these an
 
 Immunogenicity with Other Clinical Trials with Intravenous Atezolizumab:
 
-During the first year of treatment with intravenous atezolizumab across clinical studies of patients with NSCLC, SCLC, HCC melanoma and MIBC 13% to 36% of patients developed ADA to atezolizumab.
+During the first year of treatment with intravenous atezolizumab across clinical studies of patients with NSCLC, SCLC, HCC, melanoma and MIBC 13% to 36% of patients developed ADA to atezolizumab.
 Across clinical studies, the NAb incidence in ADA-positive patients was 24% to 83%.
 
 In OAK and IMbrave150, exploratory analyses showed that the subset of patients who were ADA-positive appeared to have less efficacy (effect on overall survival) as compared to patients who tested negative for ADA [see Clinical Studies (14.1, 14.3)].
-In study IMpower150 and IMforte, the impact of ADA on efficacy did not appear to be clinically significant [see Clinical Studies (14.1)].
+In study IMpower150 and IMforte, the impact of ADA on efficacy did not appear to be clinically significant [see Clinical Studies (14.1, 14.2)].
 In the remaining studies, there is insufficient information to characterize the effect of ADA on efficacy.
 
 Median atezolizumab clearance in patients who tested positive for ADA was 20% (range of 10% to 49%) higher as compared to atezolizumab clearance in patients who tested negative for ADA; this change in clearance is not expected to be clinically significant.

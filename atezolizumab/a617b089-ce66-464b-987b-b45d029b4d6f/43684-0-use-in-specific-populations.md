@@ -28,7 +28,7 @@ Hyaluronidase: In an embryo-fetal study, mice were dosed daily by subcutaneous i
 The study found no evidence of teratogenicity.
 Reduced fetal weight and increased numbers of fetal resorptions were observed, with no effects found at a daily dose of 360,000 U/kg, which is > 400 times higher than the human dose.
 
-In a peri-and post-natal reproduction study, mice have been dosed daily by subcutaneous injection, with hyaluronidase (recombinant human) from implantation through lactation and weaning at dose levels up to 1,100,000 U/kg, which is > 1,200 times higher than the human dose.
+In a peri- and post-natal reproduction study, mice have been dosed daily by subcutaneous injection, with hyaluronidase (recombinant human) from implantation through lactation and weaning at dose levels up to 1,100,000 U/kg, which is > 1,200 times higher than the human dose.
 The study found no adverse effects on sexual maturation, learning and memory or fertility of the offspring.
 
 ## 8.2 Lactation
@@ -61,10 +61,19 @@ Females: Based on animal studies, TECENTRIQ HYBREZA may impair fertility in fema
 Alveolar Soft Part Sarcoma
 
 The safety and effectiveness of TECENTRIQ HYBREZA as monotherapy for the treatment of pediatric patients (12 years of age and older who weigh 40 kg or greater) with unresectable or metastatic alveolar soft part sarcoma (ASPS) has been established.
-Use of TECENTRIQ HYBREZA for this pediatric indication is supported by evidence from adequate and well controlled studies of intravenous atezolizumab in adults, and additional pharmacokinetic and safety data for intravenous atezolizumab in pediatric patients 12 years and older [see Adverse Reactions (6.1) and Clinical Studies (14)].
+Use of TECENTRIQ HYBREZA for this pediatric indication is supported by evidence from adequate and well controlled studies of intravenous atezolizumab in adults, and additional pharmacokinetic and safety data for intravenous atezolizumab in pediatric patients 12 years and older [see Adverse Reactions (6.1) and Clinical Studies (14.5)].
 Atezolizumab exposures following subcutaneous administration of TECENTRIQ HYBREZA (containing 1,875 mg of atezolizumab) every 3 weeks in pediatric patients 12 years of age and older who weigh 40 kg or greater are predicted to be within the range of those observed in adults at the same dosage.
 
 The safety and effectiveness of TECENTRIQ HYBREZA have not been established in pediatric patients <12 years of age with unresectable or metastatic ASPS.
+
+Colon Cancer
+
+The safety and effectiveness of TECENTRIQ HYBREZA have been established in pediatric patients (12 years of age and older who weigh 40 kg or greater) for the adjuvant treatment of Stage III dMMR colon cancer.
+Use of TECENTRIQ HYBREZA for this pediatric indication is supported by evidence from an adequate and well-controlled study of intravenous atezolizumab in adults and one adolescent patient (≥ 12 years of age) with Stage III dMMR colon cancer with additional pharmacokinetic and safety data for intravenous atezolizumab in pediatric patients 12 years and older [see Adverse Reactions (6.1) and Clinical Studies (14.7)].
+Atezolizumab exposures following subcutaneous administration of TECENTRIQ HYBREZA every 3 weeks in pediatric patients 12 years of age and older who weigh 40 kg or greater are predicted to be within the range of those observed in adults at the same dosage.
+The course of Stage III dMMR colon cancer is sufficiently similar between pediatric patients 12 years of age and older and that of adults to allow extrapolation of efficacy and safety to pediatric patients 12 years and older.
+
+The safety and effectiveness of TECENTRIQ HYBREZA have not been established in pediatric patients < 12 years of age with colon cancer.
 
 Solid Tumors and Lymphomas
 
@@ -72,12 +81,12 @@ The safety and effectiveness of TECENTRIQ HYBREZA in pediatric patients have not
 
 ## 8.5 Geriatric Use
 
-TECENTRIQ HYBREZA as a Single-Agent
+TECENTRIQ HYBREZA as Monotherapy
 
 Of 247 adult patients treated with TECENTRIQ HYBREZA as monotherapy in IMscin001, 45% were 65 years and over and 10% were 75 years and over.
 No overall differences in safety or effectiveness of TECENTRIQ HYBREZA have been observed between patients aged 65 years or older and younger adult patients.
 
-The safety of TECENTRIQ HYBREZA as monotherapy or in combination with other antineoplastic drugs for its approved indications [see Indications and Usage (1.1, 1.2, 1.3, 1.4, 1.5, 1.6)] has been established in adequate and well-controlled studies of intravenous atezolizumab as a single agent and in combination with other antineoplastic drugs.
+The safety of TECENTRIQ HYBREZA as monotherapy or in combination with other antineoplastic drugs for its approved indications [see Indications and Usage (1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7)] has been established in adequate and well-controlled studies of intravenous atezolizumab as a single agent and in combination with other antineoplastic drugs.
 Below is a description of geriatric use information from the intravenous atezolizumab studies.
 
 Intravenous Atezolizumab as a Single-Agent
@@ -98,3 +107,9 @@ Intravenous Atezolizumab in Combination with Lurbinectedin
 Of 242 adult patients with ES-SCLC treated with intravenous atezolizumab in combination with lurbinectedin in IMforte, 124 (51%) patients were 65 years of age and older, while 29 (12%) patients were 75 years of age and older.
 No overall differences in effectiveness were observed between older and younger patients.
 There was a higher incidence of Grade 3 or 4 adverse reactions (45% vs 31%) and treatment discontinuation (11% vs 0.8%) in patients ≥ 65 years of age compared to younger patients, respectively.
+
+Intravenous Atezolizumab in Combination with Chemotherapy
+
+Of the 346 patients with colon cancer treated with intravenous atezolizumab in combination with mFOLFOX6, 170 (49%) patients were 65 years of age and older, and 69 (20%) patients were 75 years of age and older.
+No overall differences in effectiveness were observed between patients aged 65 years or older and younger patients.
+There was a higher incidence of Grade 3 or 4 adverse reactions (87% vs 79%) and treatment discontinuation (20% vs 15%) in patients ≥ 65 years of age compared to younger patients, respectively.
