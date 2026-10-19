@@ -34,8 +34,8 @@ Manufactured for:
 
 Wockhardt Suisse USA LLC
 
-200 Continental DR STE 401
+1200 Morris Tpke Ste 3005
 
-Newark, DE 19713-4337, USA
+Short Hills, NJ 07078, USA
 
-06/2026
+10/2026

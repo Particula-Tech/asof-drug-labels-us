@@ -2,7 +2,7 @@
 
 VIAL LABEL
 
-NDC: 87706-866-00
+NDC: 87706-866-01
 
 single-dose vial
 
