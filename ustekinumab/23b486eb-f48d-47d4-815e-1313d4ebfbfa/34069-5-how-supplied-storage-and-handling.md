@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Ustekinumab® (ustekinumab) injection is a sterile, preservative-free, colorless to light yellow solution and may contain a few small translucent or white particles.
+Ustekinumab (ustekinumab) injection is a sterile, preservative-free, colorless to light yellow solution and may contain a few small translucent or white particles.
 It is supplied as individually packaged, single-dose prefilled syringes or single-dose vials.
 
 For Subcutaneous Use
