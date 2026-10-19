@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA218651"
+  ],
+  "inn": "fluorescein",
+  "labeler": "Anthea Pharma Private Limited",
+  "package_ndcs": [
+    "83854-048-01",
+    "83854-048-12"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "fluorescein",
+      "name": "FLUORESCEIN"
+    }
+  ],
+  "setid": "fbf07435-b6c0-49a5-a393-44617e3f451a",
+  "source": "dailymed"
+}
