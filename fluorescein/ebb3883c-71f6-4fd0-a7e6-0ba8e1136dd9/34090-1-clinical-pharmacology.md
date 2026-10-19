@@ -2,9 +2,9 @@
 
 ## 12.1 Mechanism of Action
 
-Fluorescein sodium responds to electromagnetic radiation and light between the wavelengths of 465-490 nm and fluoresces, i.e., emits light at wavelengths of 520-530 nm.
+Fluorescein responds to electromagnetic radiation and light between the wavelengths of 465-490 nm and fluoresces, i.e., emits light at wavelengths of 520-530 nm.
 Thus, the hydrocarbon is excited by blue light and emits light that appears yellowish-green.
-Following intravenous injection of fluorescein sodium in an aqueous solution, the unbound fraction of the fluorescein can be excited with a blue light flash from a fundus camera as it circulates through the ocular vasculature, and the yellowish green fluorescence of the dye is captured by the camera.
+Following intravenous injection of fluorescein in an aqueous solution, the unbound fraction of the fluorescein can be excited with a blue light flash from a fundus camera as it circulates through the ocular vasculature, and the yellowish green fluorescence of the dye is captured by the camera.
 In the fundus, the fluorescence of the dye demarcates the retinal and/or choroidal vasculature under observation, distinguishing it from adjacent areas/structures.
 
 ## 12.3 Pharmacokinetics
@@ -12,13 +12,13 @@ In the fundus, the fluorescence of the dye demarcates the retinal and/or choroid
 Distribution:
 
 Within 7 to 14 seconds after intravenous (IV) administration into antecubital vein, fluorescein usually appears in the central artery of the eye.
-Within a few minutes of IV administration of fluorescein sodium, a yellowish discoloration of the skin occurs, which begins to fade after 6 to 12 hours of dosing.
+Within a few minutes of IV administration of fluorescein, a yellowish discoloration of the skin occurs, which begins to fade after 6 to 12 hours of dosing.
 Various estimates of volume of distribution indicate that fluorescein distributes well into interstitial space (0.5 L/kg).
 
 Elimination Metabolism:
 
 Fluorescein undergoes rapid metabolism to fluorescein monoglucuronide.
-After IV administration of fluorescein sodium (14 mg/kg) to 7 healthy subjects, approximately 80% of fluorescein in plasma was converted to glucuronide conjugate after a period of 1 hour post dose, indicating relatively rapid conjugation.
+After IV administration of fluorescein (14 mg/kg) to 7 healthy subjects, approximately 80% of fluorescein in plasma was converted to glucuronide conjugate after a period of 1 hour post dose, indicating relatively rapid conjugation.
 
 Excretion:
 
