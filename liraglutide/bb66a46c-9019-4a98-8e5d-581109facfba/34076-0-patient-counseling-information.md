@@ -66,8 +66,8 @@ Manufactured by:
 
 Gland Pharma Limited,
 
-Dundigal Malkajgiri District,
+Pashamylaram, Sangareddy District
 
-Hyderabad, Telangana - 500043, India
+Telangana - 502307, India.
 
 Revised: 03/2026
