@@ -35,7 +35,7 @@ Physical Dependence After Use of NAYZILAM More Frequently Than Recommended
 
 NAYZILAM may produce physical dependence if used more frequently than recommended.
 Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
-Although NAYZILAM is indicated only for intermittent use [see Indications and Usage (1) and Dosage and Administration (2)], if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
+Although NAYZILAM is indicated only for intermittent use [see Indications and Usage (1)and Dosage and Administration (2)], if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use [see Warnings and Precautions (5.3)].
 For patients using NAYZILAM more frequently than recommended, to reduce the risk of withdrawal reactions, use a gradual taper to discontinue NAYZILAM [see Warnings and Precautions (5.3)].
 
@@ -47,8 +47,7 @@ More severe acute withdrawal signs and symptoms, including life-threatening reac
 Protracted Withdrawal Syndrome
 
 Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
-Protracted withdrawal symptoms may last weeks to more than 12 months.
-As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
+Protracted withdrawal symptoms may last weeks to more than 12 months.As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
 
 Tolerance
 

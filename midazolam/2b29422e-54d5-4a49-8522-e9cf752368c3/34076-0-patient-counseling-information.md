@@ -10,12 +10,12 @@ If a decision is made to prescribe NAYZILAM concomitantly with opioids, instruct
 Abuse, Misuse, and Addiction
 
 Inform patients that use of NAYZILAM more frequently than recommended, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
-Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug [see Warnings and Precautions (5.2) and Drug Abuse and Dependence (9.2)].
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug [see Warnings and Precautions (5.2)and Drug Abuse and Dependence (9.2)].
 
 Withdrawal Reactions
 
 Inform patients that use of NAYZILAM more frequently than recommended may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of NAYZILAM may precipitate acute withdrawal reactions, which can be life-threatening.
-Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months [see Warnings and Precautions (5.3) and Drug Abuse and Dependence (9.3)].
+Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months [see Warnings and Precautions (5.3)and Drug Abuse and Dependence (9.3)].
 
 Risks of Cardiorespiratory Adverse Reactions
 
@@ -41,7 +41,7 @@ Counsel patients on when they can engage in activities requiring complete mental
 
 Pregnancy
 
-Advise pregnant females that the use of NAYZILAM late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
+Advise pregnant females that the use of NAYZILAM late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions (5.9)and Use in Specific Populations (8.1)].
 Instruct patients to inform their healthcare provider if they are pregnant.
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].

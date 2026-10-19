@@ -23,11 +23,11 @@ The mean age of patients enrolled in the Comparative Phase (N=201) was 33 years,
 
 Table 2 lists the adverse reactions occurring in 2% or more of the NAYZILAM-treated patients and at a rate greater than the placebo-treated patients in the Comparative Phase of Study 1.
 
-Table 2: Adverse ReactionsAdverse reactions that occurred within 2 days after NAYZILAM administration are included that Occurred in ≥2% of Patients (Any NAYZILAM) and Greater than Placebo in the Comparative Phase of Study 1
+Table 2: Adverse Reactions Adverse reactions that occurred within 2 days after NAYZILAM administration are includedthat Occurred in ≥2% of Patients (Any NAYZILAM) and Greater than Placebo in the Comparative Phase of Study 1
 
 |  | N = 26 % | N = 91 % | N = 41 % | N = 43 % | N = 175 % |
 | --- | --- | --- | --- | --- | --- |
-| Body System/Adverse Reaction | Placebo | NAYZILAMPatients in Study 1 were permitted to take a second, open-label dose of NAYZILAM 5 mg between 10 minutes and 6 hours following the initial blinded dose of NAYZILAM 5 mg or placebo if they experience seizure recurrence or an incomplete resolution of the episode. The Placebo + NAYZILAM 5 mg and NAYZILAM 5 mg + 5 mg columns represent patients who received a second dose of NAYZILAM 5 mg and received a blinded initial dose of placebo or NAYZILAM 5 mg, respectively. |  |  |  |
+| Body System/Adverse Reaction | Placebo | NAYZILAM Patients in Study 1 were permitted to take a second, open-label dose of NAYZILAM 5 mg between 10 minutes and 6 hours following the initial blinded dose of NAYZILAM 5 mg or placebo if they experience seizure recurrence or an incomplete resolution of the episode. The Placebo + NAYZILAM 5 mg and NAYZILAM 5 mg + 5 mg columns represent patients who received a second dose of NAYZILAM 5 mg and received a blinded initial dose of placebo or NAYZILAM 5 mg, respectively. |  |  |  |
 | NAYZILAM 5 mg | Placebo + NAYZILAM 5 mg | NAYZILAM 5 mg + 5 mg | Any NAYZILAM Treatment Group |  |  |
 | Nervous System |  |  |  |  |  |
 | Somnolence | 4 | 10 | 10 | 9 | 10 |

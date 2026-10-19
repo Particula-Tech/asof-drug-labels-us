@@ -13,12 +13,12 @@ Patients and caregivers should be counseled to read carefully the "Instructions 
 
 Administer NAYZILAM by the nasal route only.
 
-Initial Dose: Administer one spray (5 mg dose) into one nostril.
+Initial Dose:Administer one spray (5 mg dose) into one nostril.
 
-Second Dose (if needed): One additional spray (5 mg dose) into the opposite nostril may be administered after 10 minutes if the patient has not responded to the initial dose.
+Second Dose (if needed):One additional spray (5 mg dose) into the opposite nostril may be administered after 10 minutes if the patient has not responded to the initial dose.
 
 A second dose of NAYZILAM should not be administered if the patient has trouble breathing or if there is excessive sedation that is uncharacteristic of the patient during a seizure cluster episode [see Warnings and Precautions (5.4)].
 
-Maximum Dosage and Treatment Frequency: Do not use more than 2 doses of NAYZILAM to treat a single episode.
+Maximum Dosage and Treatment Frequency:Do not use more than 2 doses of NAYZILAM to treat a single episode.
 
 It is recommended that NAYZILAM be used to treat no more than one episode every three days and no more than 5 episodes per month [see Drug Abuse and Dependence (9.4)].

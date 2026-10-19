@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The exact mechanism of action for midazolam is not fully understood, but it is thought to involve potentiation of GABAergic neurotransmission resulting from binding at the benzodiazepine site of the GABAA receptor.
+The exact mechanism of action for midazolam is not fully understood, but it is thought to involve potentiation of GABAergic neurotransmission resulting from binding at the benzodiazepine site of the GABA Areceptor.
 
 ## 12.2 Pharmacodynamics
 
@@ -17,11 +17,11 @@ The pharmacodynamic effects generally returned to near baseline levels by 4 hour
 
 Pharmacokinetics
 
-Based on a population pharmacokinetic analysis, plasma exposures (Cmax and AUC) of midazolam in epilepsy patients increase approximately proportional to dose from 5.0 mg to 15 mg, 0.5 and 1.5 times the recommended maximum total dose (5 mg Initial Dose + 5 mg Second Dose), respectively.
+Based on a population pharmacokinetic analysis, plasma exposures (C maxand AUC) of midazolam in epilepsy patients increase approximately proportional to dose from 5.0 mg to 15 mg, 0.5 and 1.5 times the recommended maximum total dose (5 mg Initial Dose + 5 mg Second Dose), respectively.
 
 Absorption
 
-Following nasal administration of a single 5 mg midazolam dose to healthy adults, midazolam was absorbed with median Tmax (range) of 17.3 (7.8 to 28.2) minutes; midazolam mean (±SD) Cmax and AUC0-∞ were 54.7 (±30.4) ng/mL and 126.2 (±59) ng∙hr/mL, respectively.
+Following nasal administration of a single 5 mg midazolam dose to healthy adults, midazolam was absorbed with median T max(range) of 17.3 (7.8 to 28.2) minutes; midazolam mean (±SD) C maxand AUC 0-∞were 54.7 (±30.4) ng/mL and 126.2 (±59) ng∙hr/mL, respectively.
 The mean absolute bioavailability is approximately 44%.
 
 Distribution
@@ -54,7 +54,7 @@ Specific Populations
 
 Geriatric Patients
 
-In a parallel group study of 2.5 mg and 5 mg doses of NAYZILAM, mean systemic exposure (AUC) and peak plasma concentrations (Cmax) of midazolam were 21 to 45% higher in geriatric subjects (> 65 years old) as compared to non-geriatric subjects.
+In a parallel group study of 2.5 mg and 5 mg doses of NAYZILAM, mean systemic exposure (AUC) and peak plasma concentrations (C max) of midazolam were 21 to 45% higher in geriatric subjects (> 65 years old) as compared to non-geriatric subjects.
 The terminal half-life was increased by approximately 2 hours in the geriatric subjects because of a decrease in clearance [see Use in Specific Populations (8.5)].
 
 Obesity
@@ -112,6 +112,6 @@ Concomitant use of CYP3A4 inhibitors may result in prolonged sedation because of
 
 Inducers of CYP3A4 Isozymes
 
-Exposures (e.g., combined Cmax or AUC of midazolam and the 1-OH-midazolam active metabolite) are decreased 16 to 26% when NAYZILAM is co-administered with anti-epileptic drugs that are strong CYP3A4 inducers (e.g., phenytoin, phenobarbital, primidone, carbamazepine).
-Exposures (e.g., combined Cmax or AUC of midazolam and the 1-OH-midazolam active metabolite) are decreased 8 to 15% when NAYZILAM is co-administered with anti-epileptic drugs that are weak to moderate CYP3A4 inducers (e.g., clobazam, eslicarbazepine, felbamate, oxcarbazepine, rufinamide, topiramate).
+Exposures (e.g., combined C maxor AUC of midazolam and the 1-OH-midazolam active metabolite) are decreased 16 to 26% when NAYZILAM is co-administered with anti-epileptic drugs that are strong CYP3A4 inducers (e.g., phenytoin, phenobarbital, primidone, carbamazepine).
+Exposures (e.g., combined C maxor AUC of midazolam and the 1-OH-midazolam active metabolite) are decreased 8 to 15% when NAYZILAM is co-administered with anti-epileptic drugs that are weak to moderate CYP3A4 inducers (e.g., clobazam, eslicarbazepine, felbamate, oxcarbazepine, rufinamide, topiramate).
 These changes in exposures are not expected to be clinically significant.

@@ -8,7 +8,7 @@ Table 3: Clinically Significant Drug Interactions With NAYZILAM
 | Intervention: | Avoid co-administration of NAYZILAM with moderate or strong CYP3A4 inhibitors. NAYZILAM should be used with caution when co-administered with mild CYP3A4 inhibitors. |
 | Examples: | Moderate CYP3A4 inhibitors: erythromycin, diltiazem, verapamil Strong CYP3A4 inhibitors: ketoconazole, itraconazole, clarithromycin |
 | 7.2 Opioids |  |
-| Clinical Impact: | The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration. Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors. When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists. |
+| Clinical Impact: | The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration. Benzodiazepines interact at GABA Asites and opioids interact primarily at mu receptors. When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists. |
 | Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required [see Warnings and Precautions (5.1)]. |
 | Examples: | Morphine, hydrocodone, oxymorphone, codeine, fentanyl |
 | 7.3 Other Central Nervous System (CNS) Depressants |  |

@@ -27,7 +27,7 @@ Patients at an increased risk of withdrawal adverse reactions after benzodiazepi
 Acute Withdrawal Reactions
 
 The continued use of benzodiazepines may lead to clinically significant physical dependence.
-Although NAYZILAM is indicated only for intermittent use [see Indications and Usage (1) and Dosage and Administration (2)], if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction of NAYZILAM, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) [see Drug Abuse and Dependence (9.3)].
+Although NAYZILAM is indicated only for intermittent use [see Indications and Usage (1)and Dosage and Administration (2)], if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction of NAYZILAM, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) [see Drug Abuse and Dependence (9.3)].
 
 Protracted Withdrawal Syndrome
 
@@ -50,13 +50,13 @@ Drug products containing midazolam, including NAYZILAM, have a central nervous s
 
 Risks from Concomitant Use with Other CNS Depressants
 
-The potential for an increased CNS-depressant effect from concomitant use with alcohol or other CNS depressants (e.g., opioids) must be considered by the prescribing physician, and appropriate recommendations made to the patient and/or caregiver [see Warnings and Precautions (5.1) and Drug Abuse and Dependence (9.3)].
+The potential for an increased CNS-depressant effect from concomitant use with alcohol or other CNS depressants (e.g., opioids) must be considered by the prescribing physician, and appropriate recommendations made to the patient and/or caregiver [see Warnings and Precautions (5.1)and Drug Abuse and Dependence (9.3)].
 
 Concomitant use of barbiturates, alcohol, or other CNS depressants may increase the risk of hypoventilation, airway obstruction, desaturation, or apnea and may contribute to profound and/or prolonged drug effect [see Drug Interactions (7.3)].
 
 Risks from Concomitant Use with Moderate or Strong CYP3A4 Inhibitors
 
-There is a potential for prolonged sedation from concomitant use with moderate or strong CYP3A4 enzyme inhibitors because of much higher midazolam exposures [see Drug Interactions (7.2) and Clinical Pharmacology (12.2)].
+There is a potential for prolonged sedation from concomitant use with moderate or strong CYP3A4 enzyme inhibitors because of much higher midazolam exposures [see Drug Interactions (7.2)and Clinical Pharmacology (12.2)].
 
 ## 5.6 Suicidal Behavior and Ideation
 

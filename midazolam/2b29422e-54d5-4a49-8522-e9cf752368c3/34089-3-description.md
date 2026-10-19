@@ -3,7 +3,7 @@
 NAYZILAM contains midazolam, a compound of the benzodiazepine class.
 Midazolam is chemically designated as 8-Chloro-6-(ο-fluorophenyl)-1-methyl-4H-imidazo[1,5-a][1,4]benzodiazepine, and it has the following structure:
 
-The empirical formula is C18H13ClFN3 representing a molecular weight of 325.8.
+The empirical formula is C 18H 13ClFN 3representing a molecular weight of 325.8.
 Midazolam, USP is a white or yellowish, crystalline powder that is practically insoluble in water, soluble in methanol, and freely soluble in acetone and in alcohol.
 
 NAYZILAM nasal spray is a clear, colorless to yellowish colored liquid.
