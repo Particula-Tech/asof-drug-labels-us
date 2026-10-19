@@ -2,7 +2,7 @@
 
 NDC 10631-238-02
 
-Riomet®
+Riomet ®
 
 (metformin hydrochloride oral solution)
 
@@ -20,7 +20,7 @@ Rx only
 
 NDC 10631-206-02
 
-Riomet®
+Riomet ®
 
 (metformin hydrochloride oral solution)
 

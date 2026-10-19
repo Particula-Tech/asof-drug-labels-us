@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-- •Overdose of metformin hydrochloride has occurred, including ingestion of amounts greater than 50 grams.
+- Overdose of metformin hydrochloride has occurred, including ingestion of amounts greater than 50 grams.
   Hypoglycemia was reported in approximately 10% of cases, but no causal association with metformin has been established.
   Lactic acidosis has been reported in approximately 32% of metformin overdose cases [see Warnings and Precautions (5.1)].
   Metformin is dialyzable with a clearance of up to 170 mL/min under good hemodynamic conditions.

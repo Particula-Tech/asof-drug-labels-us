@@ -2,7 +2,7 @@
 
 ## How Supplied
 
-1. 1.RIOMET 500 mg per 5 mL (100 mg/mL) oral solution is supplied in bottles with child-resistant caps and a dosing cup as follows:
+1. RIOMET 500 mg per 5 mL (100 mg/mL) oral solution is supplied in bottles with child-resistant caps and a dosing cup as follows:
 
 | Flavor | Appearance | Size | NDC |
 | --- | --- | --- | --- |
@@ -13,4 +13,4 @@
 
 ## Storage
 
-1. 1.Store at 15° - 30° C (59° - 86° F) [See USP Controlled Room Temperature].
+1. Store at 15 °- 30 °C (59 °- 86 °F) [See USP Controlled Room Temperature].

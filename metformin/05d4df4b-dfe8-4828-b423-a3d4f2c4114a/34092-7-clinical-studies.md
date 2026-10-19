@@ -1,21 +1,21 @@
 # 14 CLINICAL STUDIES
 
-1. 1.Adult Clinical Studies
-2. 2.A double-blind, placebo-controlled, multicenter US clinical trial involving obese patients with type
-3. 3.2 diabetes mellitus whose hyperglycemia was not adequately controlled with dietary management alone (baseline fasting plasma glucose [FPG] of approximately 240 mg/dL) was conducted.
+1. Adult Clinical Studies
+2. A double-blind, placebo-controlled, multicenter US clinical trial involving obese patients with type
+3. 2 diabetes mellitus whose hyperglycemia was not adequately controlled with dietary management alone (baseline fasting plasma glucose [FPG] of approximately 240 mg/dL) was conducted.
    Patients were treated with metformin HCl tablets (up to 2,550 mg/day) or placebo for 29 weeks.
    The results are presented in Table 8.
-4. 4.Table 8: Mean Change in Fasting Plasma Glucose and HbA1c at Week 29Comparing Metformin HCl Tablets vs Placebo in Patients with Type 2Diabetes Mellitus
+4. Table 8: Mean Change in Fasting Plasma Glucose and HbA1c at Week 29Comparing Metformin HCl Tablets vs Placebo in Patients with Type 2Diabetes Mellitus
 
-|  | 1.Metformin HCL2.Tablets (n=141) | 1.Placebo2.(n=145) | 1.p-Value |
+|  | Metformin HCLTablets (n=141) | Placebo(n=145) | p-Value |
 | --- | --- | --- | --- |
-| 1.FPG (mg/dL)2.Baseline3.Change at FINAL VISIT | 1.241.52.–53.0 | 1.237.72.6.3 | 1.NS*2.0.001 |
-| 1.Hemoglobin A1c (%)2.Baseline3.Change at FINAL VISIT | 1.8.42.–1.4 | 1.8.22.0.4 | 1.NS*2.0.001 |
+| FPG (mg/dL)BaselineChange at FINAL VISIT | 241.5–53.0 | 237.76.3 | NS*0.001 |
+| Hemoglobin A 1c(%) BaselineChange at FINAL VISIT | 8.4–1.4 | 8.20.4 | NS *0.001 |
 
-1. 1.* Not statistically significant
-2. 2.Mean baseline body weight was 201 lbs and 206 lbs in the metformin HCl tablet and placebo arms, respectively.
+1. * Not statistically significant
+2. Mean baseline body weight was 201 lbs and 206 lbs in the metformin HCl tablet and placebo arms, respectively.
    Mean change in body weight from baseline to week 29 was -1.4 lbs and -2.4 lbs in the metformin HCl tablet and placebo arms, respectively.
-3. 3.A 29-week, double-blind, placebo-controlled study of metformin HCl tablet and glyburide, alone and in combination, was conducted in obese patients with type 2 diabetes mellitus who had failed to achieve adequate glycemic control while on maximum doses of glyburide (baseline FPG of approximately 250 mg/dL).
+3. A 29-week, double-blind, placebo-controlled study of metformin HCl tablet and glyburide, alone and in combination, was conducted in obese patients with type 2 diabetes mellitus who had failed to achieve adequate glycemic control while on maximum doses of glyburide (baseline FPG of approximately 250 mg/dL).
    Patients randomized to the combination arm started therapy with metformin HCl tablet 500 mg and glyburide 20 mg.
    At the end of each week of the first 4 weeks of the trial, these patients had their dosages of metformin HCl increased by 500 mg if they had failed to reach target fasting plasma glucose.
    After week 4, such dosage adjustments were made monthly, although no patient was allowed to exceed metformin HCl 2,500 mg.
@@ -23,26 +23,26 @@
    Patients in the glyburide arm continued the same dose of glyburide.
    At the end of the trial, approximately 70% of the patients in the combination group were taking metformin HCl 2,000 mg/glyburide 20 mg or metformin HCl 2,500 mg/glyburide 20 mg.
    The results are displayed in Table 9.
-4. 4.Table 9: Mean Change in Fasting Plasma Glucose and HbA1c at Week 29Comparing Metformin HCl Tablets/Glyburide (Comb) vs Glyburide (Glyb) vs Metformin HCl Tablets (GLU): in Patients with Type 2 Diabetes Mellitus with Inadequate Glycemic Control on Glyburide
+4. Table 9: Mean Change in Fasting Plasma Glucose and HbA1c at Week 29Comparing Metformin HCl Tablets/Glyburide (Comb) vs Glyburide (Glyb) vs Metformin HCl Tablets (GLU): in Patients with Type 2 Diabetes Mellitus with Inadequate Glycemic Control on Glyburide
 
-|  | Comb(n = 213) | Glyb(n = 209) | GLU (n = 210) | p-Values |  |  |
+|  | Comb(n = 213) | Glyb(n = 209) | GLU(n = 210) | p-Values |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Glyb vs Comb | GLU vs Comb | GLU vs Glyb |  |  |  |  |
-| 1.Fasting Plasma Glucose (mg/dL)2.Baseline3.Change at FINAL VISIT | 1.250.52.–63.5 | 1.247.52.13.7 | 1.253.92.–0.9 | NS*0.001 | NS*0.001 | NS*0.025 |
-| 1.Hemoglobin A1c (%)2.Baseline3.Change at FINAL VISIT | 1.8.82.–1.7 | 1.8.52.0.2 | 1.8.92.–0.4 | NS*0.001 | NS*0.001 | 0.0070.001 |
+| Fasting Plasma Glucose (mg/dL)BaselineChange at FINAL VISIT | 250.5–63.5 | 247.513.7 | 253.9–0.9 | NS *0.001 | NS *0.001 | NS *0.025 |
+| Hemoglobin A 1c(%) BaselineChange at FINAL VISIT | 8.8–1.7 | 8.50.2 | 8.9–0.4 | NS *0.001 | NS *0.001 | 0.0070.001 |
 
-1. 1.* Not statistically significant
-2. 2.Mean baseline body weight was 202 lbs, 203 lbs, and 204 lbs in the metformin HCl tablet/glyburide, glyburide, and metformin HCl tablet arms, respectively.
+1. *Not statistically significant
+2. Mean baseline body weight was 202 lbs, 203 lbs, and 204 lbs in the metformin HCl tablet/glyburide, glyburide, and metformin HCl tablet arms, respectively.
    Mean change in body weight from baseline to week 29 was 0.9 lbs, -0.7 lbs, and -8.4 lbs in the metformin HCl tablet/glyburide, glyburide, and metformin HCl tablet arms, respectively.
-3. 3.Pediatric Clinical Studies
-4. 4.A double-blind, placebo-controlled study was conducted in pediatric patients aged 10 to 16 years with type 2 diabetes mellitus (mean FPG 182.2 mg/dL), where patients were treated with metformin HCl tablets (up to 2,000 mg/day) for up to 16 weeks (mean duration of treatment 11 weeks).
+3. Pediatric Clinical Studies
+4. A double-blind, placebo-controlled study was conducted in pediatric patients aged 10 to 16 years with type 2 diabetes mellitus (mean FPG 182.2 mg/dL), where patients were treated with metformin HCl tablets (up to 2,000 mg/day) for up to 16 weeks (mean duration of treatment 11 weeks).
    The results are displayed in Table 10.
-5. 5.Table 10: Mean Change in Fasting Plasma Glucose at Week 16 Comparing Metformin HCl Tablets vs Placebo in Pediatric Patientsa with Type 2Diabetes Mellitus
+5. Table 10: Mean Change in Fasting Plasma Glucose at Week 16 Comparing Metformin HCl Tablets vs Placebo in Pediatric Patientsa with Type 2Diabetes Mellitus
 
-|  | 1. Metformin HCl Tablets | 1.Placebo | 1.p-Value |
+|  | Metformin HCl Tablets | Placebo | p-Value |
 | --- | --- | --- | --- |
-| 1.FPG (mg/dL)2.Baseline3.Change at FINAL VISIT | 1.(n = 37)2.162.43.–42.9 | 1.(n = 36) 192.321.4 | 1.<0.001 |
+| FPG (mg/dL)BaselineChange at FINAL VISIT | (n = 37)162.4–42.9 | (n = 36) 192.321.4 | <0.001 |
 
-1. 1.aPediatric patients mean age 13.8 years (range 10 to16 years)
-2. 2.Mean baseline body weight was 205 lbs and 189 lbs in the metformin HCl tablet and placebo arms, respectively.
+1. aPediatric patients mean age 13.8 years (range 10 to16 years)
+2. Mean baseline body weight was 205 lbs and 189 lbs in the metformin HCl tablet and placebo arms, respectively.
    Mean change in body weight from baseline to week 16 was -3.3 lbs and -2.0 lbs in the metformin HCl tablet and placebo arms, respectively.
