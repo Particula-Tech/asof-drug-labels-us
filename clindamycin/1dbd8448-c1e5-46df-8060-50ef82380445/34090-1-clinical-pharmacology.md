@@ -19,7 +19,7 @@ No significant concentrations of clindamycin are attained in the cerebrospinal f
 
 Metabolism
 
-In vitrostudies in human liver and intestinal microsomes indicated that clindamycin is predominantly metabolized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
+In vitro studies in human liver and intestinal microsomes indicated that clindamycin is predominantly metabolized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
 
 Excretion
 
@@ -60,40 +60,61 @@ Macrolide-resistant isolates of staphylococci and beta-hemolytic streptococci sh
 
 Antimicrobial Activity
 
-Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both in vitroand in clinical infections [see Indications and Usage (1)]:
+Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both in vitro and in clinical infections (See INDICATIONS AND USAGE):
 
 Gram-positive bacteria
 
-- Staphylococcus aureus(methicillin-susceptible strains)
-- Streptococcus pneumoniae(penicillin-susceptible strains)
-- Streptococcus pyogenes
-- Anaerobic bacteria
-- Clostridium perfringens
-- Fusobacterium necrophorum
-- Fusobacterium nucleatum
-- Peptostreptococcus anaerobius
-- Prevotella melaninogenica
+Staphylococcus aureus(methicillin-susceptible strains)
 
-The following in vitrodata are available, but their clinical significance is unknown.
-At least 90 percent of the following bacteria exhibit an in vitrominimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for clindamycin against isolates of a similar genus or organism group.
+Streptococcus pneumoniae(penicillin-susceptible strains)
+
+Streptococcus pyogenes
+
+Anaerobic bacteria
+
+Clostridium perfringens
+
+Fusobacterium necrophorum
+
+Fusobacterium nucleatum
+
+Peptostreptococcus anaerobius
+
+Prevotella melaninogenica
+
+The following in vitro data are available, but their clinical significance is unknown.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for clindamycin against isolates of a similar genus or organism group.
 However, the efficacy of clindamycin in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
 
 Gram-positive bacteria
 
-- Staphylococcus epidermidis(methicillin-susceptible strains)
-- Streptococcus agalactiae
-- Streptococcus anginosus
-- Streptococcus mitis
-- Streptococcus oralis
-- Anaerobic bacteria
-- Actinomyces israelii
-- Clostridium clostridioforme
-- Eggerthella lenta
-- Finegoldia (Peptostreptococcus) magna
-- Micromonas (Peptostreptococcus) micros
-- Prevotella bivia
-- Prevotella intermedia
-- Cutibacterium acnes
+Staphylococcus epidermidis(methicillin-susceptible strains)
+
+Streptococcus agalactiae
+
+Streptococcus anginosus
+
+Streptococcus mitis
+
+Streptococcus oralis
+
+Anaerobic bacteria
+
+Actinomyces israelii
+
+Clostridium clostridioforme
+
+Eggerthella lenta
+
+Finegoldia (Peptostreptococcus) magna
+
+Micromonas (Peptostreptococcus) micros
+
+Prevotella bivia
+
+Prevotella intermedia
+
+Cutibacterium acnes
 
 Susceptibility Testing
 

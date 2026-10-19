@@ -2,24 +2,24 @@
 
 See BOXED WARNING
 
-Clostridioides difficile-Associated Diarrhea
+Clostridioides difficile Infection
 
-Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including clindamycin hydrochloride, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile infection (CDI) has been reported with use of nearly all antibacterial agents, including clindamycin hydrochloride, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.
 
-C. difficileproduces toxins A and B, which contribute to the development of CDAD.
-Hypertoxin producing strains of C. difficilecause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
-CDAD must be considered in all patients who present with diarrhea following antibacterial drug use.
-Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+C. difficile produces toxins A and B, which contribute to the development of CDI.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDI must be considered in all patients who present with diarrhea following antibacterial drug use.
+Careful medical history is necessary since CDI has been reported to occur over two months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibacterial drug not directed against C. difficilemay need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibacterial drug of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+If CDI is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibacterial drug treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 Anaphylactic and Severe Hypersensitivity Reactions
 
-Anaphylactic shock and anaphylactic reactions have been reported (see ADVERSE REACTIONS).
+Anaphylactic shock and anaphylactic reactions have been reported (See ADVERSE REACTIONS).
 
-Severe hypersensitivity reactions, including severe skin reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and Stevens-Johnson syndrome (SJS), some with fatal outcome, have been reported (see ADVERSE REACTIONS).
+Severe hypersensitivity reactions, including acute myocardial ischemia with or without myocardial infarction, and severe skin reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome (SJS), some with fatal outcome, have been reported (See ADVERSE REACTIONS).
 
 In case of such an anaphylactic or severe hypersensitivity reaction, discontinue treatment permanently and institute appropriate therapy.
 
