@@ -28,7 +28,7 @@ The safety of XELJANZ was also evaluated in two Phase 2 and five Phase 3 double-
 In these trials, adults were randomized to receive:
 
 - •XELJANZ (monotherapy) 5 mg twice daily (292 patients) or 10 mg twice daily (306 patients),
-- •In combination with DMARDs (including methotrexate), XELJANZ 5 mg twice daily (1044 patients) or 10 mg twice daily (1043 patients and
+- •In combination with DMARDs (including methotrexate), XELJANZ 5 mg twice daily (1044 patients) or 10 mg twice daily (1043 patients) and
 - •Placebo (809 patients).
 
 All seven trials included provisions for patients taking placebo to receive treatment with XELJANZ at Month 3 or Month 6 either by patient response (based on uncontrolled disease activity) or by design, so that adverse events cannot always be unambiguously attributed to a given treatment.
@@ -96,16 +96,16 @@ There was no clear relationship between neutropenia and the occurrence of seriou
 
 In the long-term safety population, the pattern and incidence of confirmed decreases in ANC remained consistent with what was seen in the placebo-controlled clinical trials [see Warnings and Precautions (5.9)].
 
-Liver Enzyme Elevations: Confirmed increases in liver enzymes greater than 3 times the upper limit of normal (3× ULN) were observed in patients with RA treated with XELJANZ.
+Liver Enzyme Elevations: Confirmed increases in liver enzymes greater than 3 times the upper limit of normal (3 × ULN) were observed in patients with RA treated with XELJANZ.
 In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of XELJANZ, or reduction in XELJANZ dosage, resulted in decrease or normalization of liver enzymes.
 
 In the placebo-controlled monotherapy trials (0–3 months), no differences in the incidence of ALT or AST elevations were observed between the placebo, and XELJANZ 5 mg, and 10 mg twice daily groups.
 
-In the placebo-controlled background DMARD trials (0–3 months), ALT elevations greater than 3× ULN were observed in 1.0%, 1.3% and 1.2% of patients who received placebo, XELJANZ 5 mg, and 10 mg twice daily, respectively.
-In these trials, AST elevations greater than 3× ULN were observed in 0.6%, 0.5% and 0.4% of patients who received placebo, XELJANZ 5 mg, and 10 mg twice daily, respectively.
+In the placebo-controlled background DMARD trials (0–3 months), ALT elevations greater than 3 × ULN were observed in 1.0%, 1.3% and 1.2% of patients who received placebo, XELJANZ 5 mg, and 10 mg twice daily, respectively.
+In these trials, AST elevations greater than 3 × ULN were observed in 0.6%, 0.5% and 0.4% of patients who received placebo, XELJANZ 5 mg, and 10 mg twice daily, respectively.
 
 One case of drug-induced liver injury was reported in a patient treated with XELJANZ 10 mg twice daily for approximately 2.5 months.
-The patient developed symptomatic elevations of AST and ALT greater than 3× ULN and bilirubin elevations greater than 2× ULN, which required hospitalizations and a liver biopsy.
+The patient developed symptomatic elevations of AST and ALT greater than 3 × ULN and bilirubin elevations greater than 2 × ULN, which required hospitalizations and a liver biopsy.
 
 Lipid Elevations: In the placebo-controlled clinical trials in patients with RA, dose-related elevations in lipid parameters (total cholesterol, LDL cholesterol, HDL cholesterol, triglycerides) were observed at one month of exposure and remained stable thereafter.
 Changes in lipid parameters during the first 3 months of exposure in the placebo-controlled clinical trials are summarized below:
@@ -266,6 +266,8 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune system disorders: Drug hypersensitivity (events such as angioedema and urticaria have been observed)
+
+Infections and infestations: Progressive multifocal leukoencephalopathy
 
 Metabolism and nutrition disorders: Hypoglycemia
 

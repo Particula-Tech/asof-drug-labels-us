@@ -40,7 +40,7 @@ Table 8: Pharmacokinetic Parameters of XELJANZ/XELJANZ XR Following Multiple Ora
 
 | Dosing Regimen | 5 mg Twice Daily | 10 mg Twice Daily | 11 mg Once Daily | 22 mg Once Daily |
 | --- | --- | --- | --- | --- |
-| PK ParametersValues represent the geometric mean, except Tmax, for which is the median (range) is shown. (CV%) | XELJANZ |  | XELJANZ XR |  |
+| PK ParametersValues represent the geometric mean, except Tmax, for which the median (range) is shown. (CV%) | XELJANZ |  | XELJANZ XR |  |
 | AUC24 (ng.hr/mL) | 263.4 (15) | 539.6 (22) | 269.0 (18) | 596.6 (19) |
 | Cmax (ng/mL) | 42.7 (26) | 84.7 (18) | 38.2 (15) | 83.8 (25) |
 | Cmin (ng/mL) | 1.41 (40) | 3.10 (54) | 1.07 (69) | 3.11 (43) |
@@ -97,8 +97,6 @@ There were no identified clinically significant differences in tofacitinib expos
 
 The effect of renal and hepatic impairment and other intrinsic factors on the PK of tofacitinib is shown in Figure 1.
 
-Figure 1: Impact of Intrinsic Factors on Tofacitinib Pharmacokinetics
-
 Note: Reference values for weight, age, biological sex, and race comparisons are 70 kg, 55 years, male, and white, respectively; reference groups for renal and hepatic impairment data are patients with normal renal and hepatic function.
 Renal function was estimated using creatinine clearance by Cockcroft-Gault method and hepatic function was estimated using Child-Pugh scoring method.
 
@@ -120,15 +118,11 @@ In vitro data indicate that the potential for tofacitinib to inhibit transporter
 
 The impact of tofacitinib on the PK of other drugs for the concomitant drugs are shown in Figure 2.
 
-Figure 2: Impact of Tofacitinib on the Pharmacokinetics of Other Drugs
-
 Note: Reference group is administration of concomitant medication alone; OCT = Organic Cationic Transporter; MATE = Multidrug and Toxic Compound Extrusion.
 
 Potential for Other Drugs to Influence the Pharmacokinetics of Tofacitinib
 
 Since tofacitinib is metabolized by CYP3A4, interaction with drugs that inhibit or induce CYP3A4 is likely.
 Inhibitors of CYP2C19 alone or P-glycoprotein are unlikely to substantially alter the pharmacokinetics of tofacitinib (see Figure 3).
-
-Figure 3: Impact of Other Drugs on the Pharmacokinetics of Tofacitinib
 
 Note: Reference group is administration of XELJANZ alone.
