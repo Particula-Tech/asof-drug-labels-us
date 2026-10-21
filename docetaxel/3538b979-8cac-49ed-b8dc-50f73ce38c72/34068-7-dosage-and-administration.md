@@ -200,7 +200,8 @@ Table 3: The amount required for 0.9% Sodium Chloride Injection based on calcula
 
 | Calculated amount of BEIZRAY | Size of 0.9% Sodium Chloride Injection Infusion Bag |
 | --- | --- |
-| BEIZRAY ≤ 8.8 mL | 500 mL |
+| BEIZRAY ≤ 4 mL | 250 mL |
+| 4 mL < BEIZRAY ≤ 8.8 mL | 500 mL |
 | BEIZRAY > 8.8 mL | 1,000 mL |
 
 Step 3 Calculate the required amount of 25% Albumin Human USP (IV Solution Stabilizer)

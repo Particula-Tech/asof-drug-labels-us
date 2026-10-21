@@ -18,6 +18,14 @@ BEIZRAY (docetaxel) Injection, 80 mg/4 mL -Vial Label
 
 BEIZRAY (docetaxel) Injection, 20 mg/mL -Vial Label
 
+BEIZRAY (docetaxel) Injection, 40 mg Kit -Carton Label
+
+Each kit Contains:
+
+-Two 1mL Single-dose vials of Beizray (docetaxel) Injection
+
+-One 50 mL Single-dose vial of IV Solution Stabilizer (25% Albumin Human USP)
+
 BEIZRAY (docetaxel) Injection, 80 mg Kit -Carton Label
 
 Each kit Contains:
