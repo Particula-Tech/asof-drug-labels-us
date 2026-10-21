@@ -40,7 +40,7 @@ Patients with Genetic Variant Human Leukocyte Antigen (HLA)-B*1502 Allele
 Retrospective case-control studies in patients of certain Asian ancestry (e.g., Han Chinese and Thai) suggest that the HLA-B*1502 allele is associated with an increased risk (approximately 2-3 times higher) of developing Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) in patients using lamotrigine.
 The risks and benefits of therapy should be weighed when considering use of SUBVENITE in patients known to be positive for HLA-B*1502.
 Application of HLA genotyping as a screening tool has important limitations and must never substitute for appropriate clinical vigilance and patient management.
-Many HLA B*1502 positive patients treated with SUBVENITE will not develop SJS/TEN or other hypersensitivity reactions, and these reactions can still occur in HLA B*1502 negative patients of any ethnicity.
+Many HLA-B*1502-positive patients treated with SUBVENITE will not develop SJS/TEN or other hypersensitivity reactions, and these reactions can still occur in HLA-B*1502-negative patients of any ethnicity.
 
 ## 5.2 Hemophagocytic Lymphohistiocytosis
 
@@ -72,11 +72,9 @@ SUBVENITE should be discontinued if an alternative etiology for the signs or sym
 
 ## 5.4 Cardiac Rhythm and Conduction Abnormalities
 
-In vitro testing showed that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations [see Clinical Pharmacology (12.2)].
-Based on these in vitro findings, SUBVENITE could slow ventricular conduction (widen QRS) and induce proarrhythmia, which can lead to sudden death, in patients with clinically important structural or functional heart disease (i.e., patients with heart failure, valvular heart disease, congenital heart disease, conduction system disease, ventricular arrhythmias, cardiac channelopathies [e.g., Brugada syndrome], clinically important ischemic heart disease, or multiple risk factors for coronary artery disease).
-Elevated heart rates could also increase the risk of ventricular conduction slowing with SUBVENITE.
-Any expected or observed benefit of SUBVENITE in an individual patient with clinically important structural or functional heart disease must be carefully weighed against the risks for serious arrhythmias and/or death for that patient.
-Concomitant use of other sodium channel blockers may further increase the risk of proarrhythmia.
+In vitro findings indicate that SUBVENITE can cause serious and potentially life-threatening cardiac rhythm and conduction abnormalities, particularly in patients with underlying cardiac disorders or arrhythmias.
+For any patient with clinically important structural or functional heart disease, the expected benefit of treatment must be carefully weighed against the risk.
+If excessive depression of cardiac conduction or significant arrhythmias occur during treatment, discontinue SUBVENITE.
 
 ## 5.5 Blood Dyscrasias
 

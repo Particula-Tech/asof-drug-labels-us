@@ -25,10 +25,8 @@ Instruct patients to contact their healthcare providers immediately if they expe
 
 Cardiac Rhythm and Conduction Abnormalities
 
-Inform patients that, due to its mechanism of action, SUBVENITE could lead to irregular or slowed heart rhythm.
-This risk is increased in patients with underlying cardiac disease or heart conduction problems or who are taking other medications that affect heart conduction.
-Patients should be made aware of and report cardiac signs or symptoms to their healthcare provider right away.
-Patients who develop syncope should lie down with raised legs and contact their healthcare provider [see Warnings and Precautions (5.4)].
+Inform patients about the potential for cardiac rhythm and conduction abnormalities, particularly in patients with underlying cardiac disease or arrhythmias.
+Advise patients to notify their physician if they experience palpitations, syncope, dizziness, chest pain, or shortness of breath [see Warnings and Precautions (5.4)].
 
 Suicidal Thinking and Behavior
 
@@ -64,12 +62,12 @@ Also instruct women to promptly notify their healthcare providers if they experi
 
 Discontinuing SUBVENITE
 
-Instruct patients to contact their healthcare providers before stopping SUBVENITE for any reason and to consult with their healthcare providers before resuming SUBVENITE.
+Instruct patients to contact their healthcare providers before stopping SUBVENITE for any reason and to consult with their healthcare providers before resuming SUBVENITE [see Warnings and Precautions (5.10)].
 
 Aseptic Meningitis
 
 Inform patients that SUBVENITE may cause aseptic meningitis.
-Instruct them to notify their healthcare providers immediately if they develop signs and symptoms of meningitis such as headache, fever, nausea, vomiting, stiff neck, rash, abnormal sensitivity to light, myalgia, chills, confusion, or drowsiness while taking SUBVENITE.
+Instruct them to notify their healthcare providers immediately if they develop signs and symptoms of meningitis such as headache, fever, nausea, vomiting, stiff neck, rash, abnormal sensitivity to light, myalgia, chills, confusion, or drowsiness while taking SUBVENITE [see Warnings and Precautions (5.7)].
 
 Potential Medication Errors
 
@@ -83,4 +81,4 @@ To avoid a medication error of using the wrong drug or formulation, strongly adv
 | Manufactured by: |
 | DPT Laboratories, Ltd 307 E Josephine Street, San Antonio, TX 78215. |
 
-8082096 OWOSSUBOSPI0626
+8082096 OWOSSUBOSPI0826

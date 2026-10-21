@@ -73,7 +73,7 @@ Dose-Related Adverse Reactions from a Randomized, Placebo-Controlled Adjunctive 
 |  | Percent of Patients Experiencing Adverse Reactions |  |  |
 | --- | --- | --- | --- |
 | Adverse Reaction | Placebo (n = 73) | Lamotrigine 300 mg (n = 71) | ﻿Lamotrigine 500 mg (n = 72) |
-| Ataxia Blurred vision Diplopia Dizziness Nausea Vomiting | 10 10 8 27 11 4 | 10 11 24a 31 18 11 | 28a,b 25a,b 49a,b 54a,b 25a 18a |
+| Ataxia Blurred vision Diplopia Dizziness Nausea Vomiting | 10 10 8 27 11 4 | 10 11 24a 31 18 11 | 28a, b 25a, b 49a, b 54a, b 25a 18a |
 | a Significantly greater than placebo group (P<0.05). |  |  |  |
 | b Significantly greater than group receiving lamotrigine 300 mg (P<0.05). |  |  |  |
 
@@ -88,7 +88,7 @@ Controlled Monotherapy Trial in Adults with Partial-Onset Seizures: Table 9 list
 Table 9.
 Adverse Reactions in a Controlled Monotherapy Trial in Adult Patients with Partial-Onset Seizuresa,b
 
-| Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine c as Monotherapyv (n = 43) | Percent of Patients Receiving Low-Dose Valproated Monotherapy (n = 44) |
+| Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine c as Monotherapy (n = 43) | Percent of Patients Receiving Low-Dose Valproated Monotherapy (n = 44) |
 | --- | --- | --- |
 | Body as a whole Pain Infection Chest pain | 5 5 5 | 0 2 2 |
 | Digestive Vomiting Dyspepsia Nausea | 9 7 7 | 0 2 2 |
@@ -148,7 +148,7 @@ Approximately 16% of 2,401 patients who received lamotrigine (50 to 500 mg/day) 
 The overall adverse reaction profile for lamotrigine was similar between females and males, between elderly and nonelderly patients, and among racial groups.
 
 Table 11.
-Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar I Disorder a,b
+Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar I Disordera,b
 
 | Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine (n = 227) | Percent of Patients Receiving Placebo (n = 190) |
 | --- | --- | --- |

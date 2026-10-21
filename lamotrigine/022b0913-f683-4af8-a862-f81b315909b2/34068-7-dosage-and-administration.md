@@ -210,11 +210,11 @@ Escalation Regimen for SUBVENITE in Adults with Bipolar Disorder
 | b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified AEDs, include estrogen-containing products, including oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with AEDs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
 
 Table 5.
-Dosage Adjustments to lamotrigine in Adults with Bipolar Disorder Following Discontinuation of Psychotropic Medications
+Dosage Adjustments to Lamotrigine in Adults with Bipolar Disorder Following Discontinuation of Psychotropic Medications
 
 |  | Discontinuation of Psychotropic Drugs (excluding Valproatea, Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb) | After Discontinuation of Valproatea | After Discontinuation of Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb |
 | --- | --- | --- | --- |
-|  | Current Dose of SUBVENITE 100 mg/day | Current Dose of SUBVENITE 400 mg/day |  |
+| Current Dose of SUBVENITE 100 mg/day | Current Dose of SUBVENITE 400 mg/day |  |  |
 | Week 1 | Maintain current dose of SUBVENITE | 150 mg/day | 400 mg/day |
 | Week 2 | Maintain current dose of SUBVENITE | 200 mg/day | 300 mg/day |
 | Week 3 onward | Maintain current dose of SUBVENITE | 200 mg/day | 200 mg/day |
