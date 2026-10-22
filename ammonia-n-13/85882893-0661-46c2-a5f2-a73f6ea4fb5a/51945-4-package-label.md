@@ -28,7 +28,7 @@ Do not use if cloudy or if it contains particu-late matter. *EOS = End of Synthe
 
 CAUTION: RADIOACTIVE MATERIAL
 
-R x Only Lot #
+R xOnly Lot #
 
 Store at 25ºC (77ºF) (see insert).
 Store upright in a shielded container.
