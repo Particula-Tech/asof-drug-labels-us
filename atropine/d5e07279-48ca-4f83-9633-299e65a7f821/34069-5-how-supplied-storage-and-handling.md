@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Atropine Sulfate Injection, USP 0.4 and 1 mg/mL are supplied in 1 mL, single-dose glass vials as follows:
+Issued -Issued -Atropine Sulfate Injection, USP 0.4 and 1 mg/mL are supplied in 1 mL, single-dose glass vials as follows:
 
 Table 2: How Supplied
 
@@ -20,6 +20,4 @@ Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200,
 
 Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad-380 054, India.
 
-10 4020 2 6026794
-
-November 2023
+10 4020 3 6036370

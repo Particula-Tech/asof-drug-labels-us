@@ -28,4 +28,4 @@ Usual initial dose is 0.01 to 0.03 mg/kg.
 
 ## 2.4 Dosing in Patients with Coronary Artery Disease
 
-Limit the total dose of atropine sulfate to 0.03 to 0.04 mg/kg [see Warnings and Precautions (5.1)].
+Limit the total dose of atropine sulfate to 0.03 mg/kg to 0.04 mg/kg [see Warnings and Precautions (5.1)].
