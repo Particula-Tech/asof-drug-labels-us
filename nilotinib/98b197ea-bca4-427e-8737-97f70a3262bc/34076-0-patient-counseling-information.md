@@ -89,6 +89,6 @@ Drug Interactions
 
 Advise patients that CAVHANZA and certain other medicines, including over the counter medications or herbal supplements (such as St. John’s Wort), can interact with each other [see Drug Interactions (7)].
 
-Marketed by: Cycle Pharmacueticals Ltd, Cambridge, CB3 0FA, UK
+Marketed by: Cycle Pharmaceuticals Ltd, Cambridge, CB3 0FA, UK
 
-Revised: 06/2026
+For patent information, please refer to ww.flexpharmausa.com/patents

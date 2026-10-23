@@ -31,7 +31,7 @@ Increase in QTcF greater than 60 msec from baseline was observed in 1 patient (0
 No patient had an absolute QTcF of greater than 500 msec while on study drug.
 
 The most common hematologic adverse drug reactions (all Grades) were myelosuppression, including: thrombocytopenia (18%), neutropenia (15%), and anemia (8%).
-See Table 10 for Grade 3/4 laboratory abnormalities.
+See Table 9 for Grade 3/4 laboratory abnormalities.
 
 Discontinuation due to adverse reactions, regardless of relationship to study drug, was observed in 10% of patients.
 

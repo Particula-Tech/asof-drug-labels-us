@@ -36,7 +36,7 @@ Absorption
 There were no differences in the rate and extent of nilotinib systemic exposures when the orally disintegrating tablet was swallowed intact relative to allowing the tablet to orally disintegrate prior to swallowing.
 The median time (range) to reach maximal plasma concentration (Tmax) of nilotinib is 2 hours (1-8 hours) in the fasted state after oral administration.
 
-Median steady-state trough concentration of nilotinib was decreased by 53% in patients with total gastrectomy compared to patients who had not undergone surgeries [see Warnings and Precautions (5.10)].
+Median steady-state trough concentration of nilotinib was decreased by 53% in patients with total gastrectomy compared to patients who had not undergone surgeries [see Warnings and Precautions (5.11)].
 
 Effect of Food
 

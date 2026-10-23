@@ -128,7 +128,7 @@ Patients who required reinitiation of nilotinib treatment were monitored for BCR
 Efficacy was based on the 96-week analysis data cut-off date, by which time, 91 patients (47.9%) discontinued from the TFR phase due to loss of MMR, and 1 (0.5%), 1 (0.5%), 1 (0.5%) and 3 patients (1.6%) due to death from unknown cause, physician decision, lost to follow-up and subject decision, respectively.
 Among the 91 patients who discontinued the TFR phase due to loss of MMR, 88 patients restarted nilotinib treatment and 3 patients permanently discontinued from the study.
 
-By the 96-week data cut-off, of the 88 patients who restarted treatment due to loss of MMR in the TFR phase, 87 patients (98.9%) patients regained MMR (one patient discontinued study permanently due to subject decision after 7.1 weeks of retreatment without regaining MMR) and 81 patients (92.0%) regained MR4.5 by the time of the cut-off date.
+By the 96-week data cut-off, of the 88 patients who restarted treatment due to loss of MMR in the TFR phase, 87 patients (98.9%) regained MMR (one patient discontinued study permanently due to subject decision after 7.1 weeks of retreatment without regaining MMR) and 81 patients (92.0%) regained MR4.5 by the time of the cut-off date.
 The cumulative rate of MMR and MR4.5 regained at 24 weeks since treatment reinitiation was 97.7% (86/88 patients) and 86.4% (76/88 patients), respectively.
 
 Table 14: Efficacy Results for ENESTfreedom
