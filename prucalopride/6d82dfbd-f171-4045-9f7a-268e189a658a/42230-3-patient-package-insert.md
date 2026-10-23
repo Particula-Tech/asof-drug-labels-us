@@ -10,4 +10,8 @@
 | How should I store prucalopride tablets? Store prucalopride tablets at room temperature between 68°F to 77°F (20°C to 25°C).Store prucalopride tablets in the original container to protect from moisture. Keep prucalopride tablets and all medicines out of the reach of children. |
 | General information about the safe and effective use of prucalopride tablets. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use prucalopride tablets for a condition for which it was not prescribed. Do not give prucalopride tablets to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about prucalopride tablets that is written for health professionals. |
 | What are the ingredients in prucalopride tablets? Active ingredient: prucalopride Inactive ingredients: colloidal silicon dioxide, anhydrous lactose, magnesium stearate and microcrystalline cellulose. The coating contains hypromellose, lactose monohydrate, polyethylene glycol 3000, titanium dioxide and triacetin. The 2 mg tablet also contains red iron oxide, yellow iron oxide and FD&C Blue #2. |
-| All trademarks are the property of their respective owners. Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623 Issued: 12/2025 LB4664-04 For more information, call 1-855-204-1431. |
+| All trademarks are the property of their respective owners. Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623 LB4664-05 For more information, call 1-855-204-1431. |
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Revised: 07/2026
