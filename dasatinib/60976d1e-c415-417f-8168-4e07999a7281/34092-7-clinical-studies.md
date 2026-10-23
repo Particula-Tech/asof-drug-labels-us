@@ -6,21 +6,15 @@ DASISION (Dasatinib vs Imatinib Study in Treatment-Naive Chronic Myeloid Leukemi
 A total of 519 patients were randomized to receive either dasatinib 100 mg once daily or imatinib 400 mg once daily.
 Patients with a history of cardiac disease were included in this trial except those who had a myocardial infarction within 6 months, congestive heart failure within 3 months, significant arrhythmias, or QTc prolongation.
 The primary endpoint was the rate of confirmed complete cytogenetic response (CCyR) within 12 months.
-Confirmed CCyR was defined as a CCyR noted on two consecutive occasions (at least 28 days apart).
-
-Median age was 46 years in the dasatinib group and 49 years in the imatinib groups, with 10% and 11% of patients ≥65 years of age, respectively.
+Confirmed CCyR was defined as a CCyR noted on two consecutive occasions (at least 28 days apart).Median age was 46 years in the dasatinib group and 49 years in the imatinib groups, with 10% and 11% of patients ≥65 years of age, respectively.
 There were slightly more male than female patients in both groups (59% vs 41%).
 Fifty-three percent of all patients were Caucasian and 39% were Asian.
 At baseline, the distribution of Hasford scores was similar in the dasatinib and imatinib treatment groups (low risk: 33% and 34%; intermediate risk: 48% and 47%; high risk: 19% and 19%, respectively).
-With a minimum of 12 months follow-up, 85% of patients randomized to dasatinib and 81% of patients randomized to imatinib were still on study.
-
-With a minimum of 24 months follow-up, 77% of patients randomized to dasatinib and 75% of patients randomized to imatinib were still on study and with a minimum of 60 months follow-up, 61% and 62% of patients, respectively, were still on treatment at the time of study closure.
-
-Efficacy results are summarized in Table 16.
+With a minimum of 12 months follow-up, 85% of patients randomized to dasatinib and 81% of patients randomized to imatinib were still on study.With a minimum of 24 months follow-up, 77% of patients randomized to dasatinib and 75% of patients randomized to imatinib were still on study and with a minimum of 60 months follow-up, 61% and 62% of patients, respectively, were still on treatment at the time of study closure.Efficacy results are summarized in Table 16.
 
 Table 16: Efficacy Results in a Randomized Newly Diagnosed Chronic Phase CML Trial
 
-|  | Dasatinib (n=259) |  | Imatinib (n=260) |
+|  | Dasatinib(n=259) |  | Imatinib (n=260) |
 | --- | --- | --- | --- |
 | Confirmed CCyRa Within 12 months (95%CI) P-value | 76.8% (71.2-81.8) | 0.007* | 66.2% (60.1-71.9) |
 | Major Molecular Responseb 12 months (95% CI) P-value | 52.1% (45.9-58.3) | <0.0001 | 33.8% (28.1-39.9) |
@@ -29,24 +23,17 @@ Table 16: Efficacy Results in a Randomized Newly Diagnosed Chronic Phase CML Tri
 a Confirmed CCyR is defined as a CCyR noted on two consecutive occasions at least 28 days apart. b Major molecular response (at any time) was defined as BCR-ABL ratios ≤0.1% by RQ-PCR in peripheral blood samples standardized on the International scale.
 These are cumulative rates representing minimum follow up for the time frame specified. * Adjusted for Hasford score and indicated statistical significance at a pre-defined nominal level of significance.
 CI = confidence interval.
-
 The confirmed CCyR within 24, 36, and 60 months for dasatinib versus imatinib arms were 80% versus 74%, 83% versus 77%, and 83% versus 79%, respectively.
 The MMR at 24 and 36 months for dasatinib versus imatinib arms were 65% versus 50% and 69% versus 56%, respectively.
-
 After 60 months follow-up, median time to confirmed CCyR was 3.1 months in 215 dasatinib responders and 5.8 months in 204 imatinib responders.
 Median time to MMR after 60 months follow-up was 9.3 months in 198 dasatinib responders and 15.0 months in 167 imatinib responders.
-
 At 60 months, 8 patients (3%) on the dasatinib arm progressed to either accelerated phase or blast crisis while 15 patients (6%) on the imatinib arm progressed to either accelerated phase or blast crisis.
-
 The estimated 60-month survival rates for dasatinib- and imatinib-treated patients were 90.9% (CI: 86.6%–93.8%) and 89.6% (CI: 85.2%–92.8%), respectively.
 Based on data 5 years after the last patient was enrolled in the trial, 83% and 77% of patients were known to be alive in the dasatinib and imatinib treatment groups, respectively, 10% were known to have died in both treatment groups, and 7% and 13% had unknown survival status in the dasatinib and imatinib treatment groups, respectively.
-
 At 60 months follow-up in the dasatinib arm, the rate of MMR at any time in each risk group determined by Hasford score was 90% (low risk), 71% (intermediate risk) and 67% (high risk).
 In the imatinib arm, the rate of MMR at any time in each risk group determined by Hasford score was 69% (low risk), 65% (intermediate risk), and 54% (high risk).
-
 BCR-ABL sequencing was performed on blood samples from patients in the newly diagnosed trial who discontinued dasatinib or imatinib therapy.
 Among dasatinib-treated patients the mutations detected were T315I, F317I/L, and V299L.
-
 Dasatinib does not appear to be active against the T315I mutation, based on in vitro data.
 
 ## 14.2 Imatinib-Resistant or -Intolerant CML or Ph+ ALL in Adults
@@ -180,7 +167,6 @@ Range of duration of response was (2.5+ to 66.5+ months for CCyR), (1.4 to 66.5+
 
 With a median follow-up of 5.2 years in imatinib-resistant or - intolerant patients, the median durations of CCyR, MCyR, and MMR could not be estimated as more than half the responding patients had not progressed at the time of data cut-off.
 Range of duration of response was (2.4 to 86.9+ months for CCyR), (2.4 to 86.9+ months for MCyR), and (2.6+ to 73.6+ months for MMR), where ‘+’ indicates a censored observation.
-
 The median time to response for MCyR was 2.9 months (95% CI: 2.8 months, 3.5 months) in the pooled imatinib-resistant/intolerant CP-CML patients.
 The median time to response for CCyR was 3.3 months (95% CI: 2.8 months, 4.7 months) in the pooled imatinib-resistant/intolerant CP-CML patients.
 The median time to response for MMR was 8.3 months (95% CI: 5.0 months, 11.8 months) in the pooled imatinib- resistant/intolerant CP-CML patients.

@@ -27,10 +27,7 @@ Table 1: Dosage of PHYRAGO for Pediatric Patients*
 | 30 to less than 45 | 70 mg |
 | at least 45 | 100 mg |
 
-*For pediatric patients with Ph+ ALL, begin PHYRAGO therapy on or before day 15 of induction chemotherapy, when diagnosis is confirmed and continue for 2 years.
-
-†Tablet dosing is not recommended for patients weighing less than 10 kg.
-
+*For pediatric patients with Ph+ ALL, begin PHYRAGO therapy on or before day 15 of induction chemotherapy, when diagnosis is confirmed and continue for 2 years. †Tablet dosing is not recommended for patients weighing less than 10 kg.
 See Dosage and Administration 2.4 below for recommendations on dose escalation in adults with CML and Ph+ ALL, and pediatric patients with CML.
 
 ## 2.3 Dosage Modifications for Drug Interactions
@@ -119,9 +116,7 @@ If neutropenia and/or thrombocytopenia persist and the next block of treatment i
 If marrow cellularity is <10%, interrupt treatment with PHYRAGO until ANC >500/μL (0.5 x 109/L), at which time treatment may be resumed at full dose.
 If marrow cellularity is >10%, resumption of treatment with PHYRAGO may be considered.
 
-Non-Hematologic Adverse Reactions
-
-For adults with Ph+ CML and ALL, and pediatric patients with Ph+ CML, if a severe non-hematologic adverse reaction develops with PHYRAGO use, treatment must be withheld until the adverse reaction has resolved or improved.
+Non-Hematologic Adverse Reactions For adults with Ph+ CML and ALL, and pediatric patients with Ph+ CML, if a severe non-hematologic adverse reaction develops with PHYRAGO use, treatment must be withheld until the adverse reaction has resolved or improved.
 Thereafter, treatment can be resumed as appropriate at a reduced dose depending on the severity and recurrence [see Warnings and Precautions (5)].
 
 For pediatric patients with Ph+ ALL, interrupt treatment for cases of grade ≥ 3 non-hematologic adverse reactions with the exception of liver function test abnormalities, and resume at a reduced dose when resolved to grade ≤1.

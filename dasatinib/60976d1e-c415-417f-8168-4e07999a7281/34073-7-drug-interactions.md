@@ -22,3 +22,8 @@ Avoid concomitant use of PHYRAGO with antacids.
 If concomitant use of an antacid cannot be avoided, administer the antacid at least 2 hours prior to or 2 hours after the dose of PHYRAGO [see Dosage and Administration (2.3)].
 
 Concomitant use with antacids decreases dasatinib plasma concentrations [see Clinical Pharmacology (12.3)], which may reduce PHYRAGO efficacy.
+
+## 7.2 Effect of Dasatinib on Other Drugs
+
+Methotrexate PHYRAGO may delay the clearance of methotrexate and result in sustained methotrexate concentrations when methotrexate is used at high doses (≥500 mg/m2).
+Refer to the prescribing information for methotrexate injection for recommendations on management of methotrexate concentrations.
