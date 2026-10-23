@@ -43,13 +43,13 @@ Important Information You Need to Know Before Injecting OTULFI:
 
 Storing OTULFI prefilled syringes
 
-- •Store OTULFI prefilled syringes in the refrigerator between 36°F to 46°F (2°C to 8°C)
+- •Store OTULFI prefilled syringes in the refrigerator between 36°F to 46°F (2°C to 8°C).
 - •Store OTULFI prefilled syringes in the original carton to protect from light.
 - •Do not freeze OTULFI prefilled syringes.
 - •If needed, individual OTULFI prefilled syringes may be stored at room temperature up to 86ºF (30°C) for a maximum single period of up to 30 days in the original carton to protect from light.
-- •Record the date when the prefilled syringe is removed from the refrigerator on the carton in the space provided.
-- •After a prefilled syringe has been stored at room temperature, do not return it to the refrigerator.
-- •Throw away (discard) the prefilled syringe if it is not used within 30 days at room temperature storage.
+- •Record the date when the prefilled syringe is first removed from the refrigerator on the carton in the space provided.
+- •After a prefilled syringe has been stored at room temperature, you may return the prefilled syringe to the refrigerator 1 time during the 30-day room temperature storage, including the last day (day 30), and keep it in the refrigerator until you use it or until the expiration date on the carton or prefilled syringe.
+- •Throw away (discard) the prefilled syringe if it is not used within 30 days at room temperature storage and you did not return it to the refrigerator.
 
 Keep OTULFI and all medicines out of the reach of children.
 
@@ -97,7 +97,7 @@ Step 3: Injecting OTULFI
 
 - •Remove the needle cover when you are ready to inject OTULFI.
 - •Do not touch the plunger or plunger head while removing the needle cover.
-- •Hold the body of the prefilled syringe with one hand, and pull the needle cover straight off.
+- •Hold the body of the prefilled syringe with one hand and pull the needle cover straight off.
   (See Figure D)
 - •Put the needle cover in the trash.
 - •You may also see a drop of liquid at the end of the needle.
@@ -105,7 +105,7 @@ Step 3: Injecting OTULFI
 - •Do not touch the needle or let it touch anything.
 - •Do not use the prefilled syringe if it is dropped without the needle cover in place.
 - Figure D
-- 
+
 - •Hold the body of the prefilled syringe in one hand between the thumb and index fingers.
   (See Figure E)
 
@@ -165,7 +165,7 @@ Manufactured by:
 Fresenius Kabi USA, LLC, Lake Zurich, IL 60047, U.S.A, US License Number 2146
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 01/2026
+Revised: 06/2026
 
 INSTRUCTIONS FOR USE
 

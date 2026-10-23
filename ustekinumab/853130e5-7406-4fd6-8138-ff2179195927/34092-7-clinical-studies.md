@@ -211,7 +211,7 @@ Table 14: Clinical Response and Remission in CD-3 (Week 44; 52 weeks from initia
 | Clinical Remission | 47 (36%) | 68 (53%)a | 17% (5%, 29%) |
 | Clinical Response | 58 (44%) | 76 (59%)b | 15% (3%, 27%) |
 | Clinical Remission in subjects in remission at the start of maintenance therapy** | 36/79 (46%) | 52/78 (67%)a | 21% (6%, 36%) |
-| Clinical remission is defined as CDAI score < 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission * The placebo group consisted of subjects who were in response to ustekinumab and were randomized to receive placebo at the start of maintenance therapy. ** subjects in remission at the end of maintenance therapy who were in remission at the start of maintenance therapy. This does not account for any other time point during maintenance therapy. † subjects who achieved clinical response to ustekinumab at the end of the induction trial. a p < 0.01 b 0.01≤ p < 0.05 |  |  |  |
+| Clinical remission is defined as CDAI score < 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission * The placebo group consisted of subjects who were in response to ustekinumab and were randomized to receive placebo at the start of maintenance therapy. ** Subjects in remission at the end of maintenance therapy who were in remission at the start of maintenance therapy. This does not account for any other time point during maintenance therapy. † Subjects who achieved clinical response to ustekinumab at the end of the induction trial. a p < 0.01 b 0.01≤ p < 0.05 |  |  |  |
 
 At Week 44, 47% of subjects who received ustekinumab were corticosteroid-free and in clinical remission, compared to 30% of subjects in the placebo group.
 
@@ -290,7 +290,7 @@ Results of the primary and secondary endpoints at Week 44 in subjects treated wi
 
 Table 16: Efficacy Endpoints of Maintenance at Week 44 in UC-2 (52 Weeks from Initiation of the Induction Dose)
 
-| Endpoint | Placebo* N = 175† |  | 90 mgustekinumab every 8 weeks N = 176 |  | Treatment difference and 95% CI |
+| Endpoint | Placebo* N = 175† |  | 90 mg ustekinumab every 8 weeks N = 176 |  | Treatment difference and 95% CI |
 | --- | --- | --- | --- | --- | --- |
 | N | % | N | % |  |  |
 | Clinical Remission** | 46 | 26% | 79 | 45% | 19% (9%, 28%) a |

@@ -12,8 +12,8 @@ Inform patients of the risk of developing malignancies while receiving OTULFI [s
 
 Serious Hypersensitivity and Reactions
 
-- •Inform patients that serious hypersensitivity reactions have been reported with intravenous and subcutaneous administration of ustekinumab products.
-  Instruct patients to discontinue OTULFI and seek immediate medical attention if they experience any signs or symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
+Inform patients that serious hypersensitivity reactions have been reported with intravenous and subcutaneous administration of ustekinumab products.
+Instruct patients to discontinue OTULFI and seek immediate medical attention if they experience any signs or symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
 
 Posterior Reversible Encephalopathy Syndrome (PRES)
 
@@ -25,6 +25,6 @@ Inform patients that OTULFI can interfere with the usual response to immunizatio
 
 Administration
 
-Instruct patients to follow sharps disposal recommendations, as described in the Instructions for Use.
+Instruct patients to follow sharps disposal recommendations as described in the Instructions for Use.
 
 Manufactured by: Fresenius Kabi USA, LLC, Lake Zurich, IL 60047, U.S.A, US License Number 2146
