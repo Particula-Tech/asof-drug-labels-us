@@ -12,6 +12,8 @@ Oral Solution
 
 80 mg/mL
 
+WARNING: Hazardous Drug
+
 For Oral Use Only
 
 140 mL

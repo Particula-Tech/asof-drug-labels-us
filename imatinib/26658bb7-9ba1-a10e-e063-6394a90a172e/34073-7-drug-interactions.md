@@ -30,3 +30,8 @@ Use caution when administering Imkeldi with CYP2D6 substrates where minimal conc
 
 Imatinib is a CYP2D6 inhibitor.
 Imatinib increases exposure of CYP2D6 substrates [see Clinical Pharmacology (12.3)], which may increase the risk of adverse reactions related to these substrates.
+
+## 7.5 Interactions With Methotrexate
+
+Imkeldi may delay the clearance of methotrexate and result in sustained methotrexate concentrations when methotrexate is used at high doses (≥500 mg/m 2).
+Refer to the prescribing information for methotrexate injection for recommendations on management of methotrexate concentrations.

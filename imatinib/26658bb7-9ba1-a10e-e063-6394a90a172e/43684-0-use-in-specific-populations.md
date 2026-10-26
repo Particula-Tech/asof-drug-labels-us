@@ -91,7 +91,7 @@ Patients with mild hepatic impairment (total bilirubin ≤ upper limit of normal
 
 The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 patients with cancer with varying degrees of hepatic impairment at imatinib doses ranging from 100 mg to 800 mg.
 Mild hepatic impairment (total bilirubin ≤ ULN and aspartate aminotransferase [AST] > ULN, or total bilirubin ˃1 to 1.5 times ULN and any value for AST) and moderate hepatic impairment (total bilirubin ˃1.5 to 3 times ULN and any value for AST) do not influence exposure to imatinib and CGP74588.
-In patients with severe hepatic impairment, (total bilirubin ˃ 3 to 10 times ULN and any value for AST), the imatinib Cmax and area under curve (AUC) increased by 63% and 45% and the CGP74588 Cmax and AUC increased by 56% and 55%, relative to patients with normal hepatic function [see Clinical Pharmacology (12.3)].
+In patients with severe hepatic impairment, (total bilirubin ˃ 3 to 10 times ULN and any value for AST), the imatinib C maxand area under curve (AUC) increased by 63% and 45% and the CGP74588 C maxand AUC increased by 56% and 55%, relative to patients with normal hepatic function [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

@@ -25,7 +25,7 @@ Imatinib accumulation is 1.5- to 2.5- fold at steady state when imatinib is dose
 Absorption
 
 Imatinib mean absolute bioavailability is 98%.
-Imatinib is well absorbed after oral administration with maximum concentration (Cmax) achieved within 2-4 hours post-dose.
+Imatinib is well absorbed after oral administration with maximum concentration (C max) achieved within 2-4 hours post-dose.
 
 Distribution
 
@@ -61,8 +61,8 @@ The effect of hepatic impairment on the pharmacokinetics of both imatinib and it
 Exposure to both imatinib and CGP74588 was comparable between each of the mildly (total bilirubin ≤ upper limit of normal [ULN] and aspartate aminotransferase [AST] > ULN, or total bilirubin ˃1 to 1.5 times ULN) and moderately (total bilirubin ˃ 1.5 to 3 times ULN and any value for AST) hepatically-impaired groups and the normal group.
 
 Patients with severe hepatic impairment (Total bilirubin ˃ 3 to 10 times ULN and any value for AST) tend to have higher exposure to both imatinib and CGP74588 than patients with normal hepatic function.
-At steady state, the mean Cmax/dose and AUC/dose for imatinib increased by about 63% and 45%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
-The mean Cmax/dose and AUC/dose for CGP74588 increased by about 56% and 55%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
+At steady state, the mean C max/dose and AUC/dose for imatinib increased by about 63% and 45%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
+The mean C max/dose and AUC/dose for CGP74588 increased by about 56% and 55%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
 
 Renal Impairment
 
@@ -76,13 +76,13 @@ Two patients with severe renal impairment (CLcr = less than 20 mL/min) were dose
 
 Pediatric Use
 
-Dosing in a limited number of children at both 260 mg/m2 and 340 mg/m2 (0.76 and 1 times the approved recommended dosage) achieved an AUC similar to the 400 mg dose in adults.
-The comparison of AUC on Day 8 vs Day 1 at 260 mg/m2 and 340 mg/m2 dose levels revealed a 1.5- and 2.2-fold drug accumulation, respectively, after repeated once-daily dosing.
+Dosing in a limited number of children at both 260 mg/m 2and 340 mg/m 2(0.76 and 1 times the approved recommended dosage) achieved an AUC similar to the 400 mg dose in adults.
+The comparison of AUC on Day 8 vs Day 1 at 260 mg/m 2and 340 mg/m 2dose levels revealed a 1.5- and 2.2-fold drug accumulation, respectively, after repeated once-daily dosing.
 Mean imatinib AUC did not increase proportionally with increasing dose.
-Another analysis suggested that exposure of imatinib in pediatric patients receiving 260 mg/m2 once daily (not exceeding 400 mg once daily) or 340 mg/m2 once daily (not exceeding 600 mg once daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once daily.
+Another analysis suggested that exposure of imatinib in pediatric patients receiving 260 mg/m 2once daily (not exceeding 400 mg once daily) or 340 mg/m 2once daily (not exceeding 600 mg once daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once daily.
 
-Imatinib time to Cmax is 2-4 hours in pediatric patients which is similar to adult patients.
-Apparent oral clearance was also similar to adult values (11.0 L/hr/m2 in children vs 10.0 L/hr/m2 in adults), as was the half-life (14.8 hours in children vs 17.1 hours in adults).
+Imatinib time to C maxis 2-4 hours in pediatric patients which is similar to adult patients.
+Apparent oral clearance was also similar to adult values (11.0 L/hr/m 2in children vs 10.0 L/hr/m 2in adults), as was the half-life (14.8 hours in children vs 17.1 hours in adults).
 
 Imatinib clearance increases with increasing BSA in pediatric patients with hematological disorders (CML, Ph+ ALL, or other hematological disorders treated with imatinib).
 After correcting for this BSA effect, other demographics, such as age, body weight, and body mass index did not have clinically significant effects on the exposure of imatinib.
@@ -93,7 +93,7 @@ Clinical Studies
 
 Agents Inducing CYP3A Metabolism
 
-Imatinib oral-dose clearance increased by 3.8-fold, which significantly (p less than 0.05) decreased mean Cmax and AUC, following pretreatment of healthy volunteers with multiple doses of rifampin followed by a single dose of imatinib.
+Imatinib oral-dose clearance increased by 3.8-fold, which significantly (p less than 0.05) decreased mean C maxand AUC, following pretreatment of healthy volunteers with multiple doses of rifampin followed by a single dose of imatinib.
 
 Similar findings were observed in patients receiving 400 to 1200 mg/day imatinib concomitantly with enzyme-inducing anti-epileptic drugs (EIAED) (e.g., carbamazepine, oxcarbamazepine, phenytoin, fosphenytoin, phenobarbital, and primidone).
 The mean dose normalized AUC for imatinib in the patients receiving EIAED’s decreased by 73% compared to patients not receiving EIAED.
@@ -102,23 +102,24 @@ Concomitant administration of imatinib and St. John’s Wort led to a 30% reduct
 
 Agents Inhibiting CYP3A Metabolism
 
-There was a significant increase in imatinib exposure (mean Cmax increased by 26% and mean AUC increased by 40%) in healthy subjects following concomitant use of imatinib with a single dose of ketoconazole (CYP3A4 inhibitor).
+There was a significant increase in imatinib exposure (mean C maxincreased by 26% and mean AUC increased by 40%) in healthy subjects following concomitant use of imatinib with a single dose of ketoconazole (CYP3A4 inhibitor).
 
 Interactions with Drugs Metabolized by CYP3A4
 
-Simvastatin (CYP3A4 substrate) mean Cmax increased 2-fold and AUC 3.5-fold, following concomitant use with imatinib.
+Simvastatin (CYP3A4 substrate) mean C maxincreased 2-fold and AUC 3.5-fold, following concomitant use with imatinib.
 
 Interactions with Drugs Metabolized by CYP2D6
 
-Metoprolol (CYP2D6 substrate) mean Cmax and AUC increased by approximately 23% following concomitant use with imatinib.
+Metoprolol (CYP2D6 substrate) mean C maxand AUC increased by approximately 23% following concomitant use with imatinib.
 
 Interactions with Acetaminophen
 
-Imatinib inhibits the acetaminophen O-glucuronidate pathway in vitro.
 No clinically significant differences in the pharmacokinetics of acetaminophen or imatinib were observed when acetaminophen (1,000 mg single dose on Day 8) was used concomitantly with imatinib (400 mg/day for 8 days) in patients with CML.
 There is no pharmacokinetic or safety data on the concomitant use of imatinib at doses greater than 400 mg/day or the chronic use of concomitant acetaminophen and imatinib.
 
-In vitro Studies
+In Vitro Studies
 
-CYP450 Metabolism: Imatinib is a substrate of CYP3A4, CYP1A2, CYP2D6, CYP2C9, and CYP2C19.
-Imatinib is a competitive inhibitor of CYP2C9, CYP2D6, and CYP3A4/5.
+Cytochrome P450 (CYP450) Enzymes:Imatinib inhibits CYP2C9 and CYP2D6.
+
+Transporter Systems: Imatinib is a substrate of BCRP, P-gp, OATP1A2, OATP1B3, and OCT1.
+Imatinib inhibits BCRP, BSEP, P-gp, MATE1, MATE2-K, OCT1, and OCT2.

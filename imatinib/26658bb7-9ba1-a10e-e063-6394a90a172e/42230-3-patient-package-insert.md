@@ -26,15 +26,14 @@ Figure A
 
 Important Information You Need to Know Before Taking IMKELDI
 
-For oral use only (taken by mouth).
+For oral use only(taken by mouth).
 
-Always use the oral dispensing syringe and bottle adapter provided by your pharmacist.
-If you did not receive the oral dispensing syringe and bottle adapter, contact your pharmacist.
+Always use the oral dispensing syringe and bottle adapter provided by your pharmacist.If you did not receive the oral dispensing syringe and bottle adapter, contact your pharmacist.
 
 Ask your pharmacist to show you how to measure your prescribed doses.
 
 Take IMKELDI exactly as prescribed by your healthcare provider.
-Do not stop taking IMKELDI without first speaking with your healthcare provider.
+Do notstop taking IMKELDI without first speaking with your healthcare provider.
 
 All doses of IMKELDI should be taken with a meal and a large glass of water.
 Taking IMKELDI with certain medicines and grapefruit juice may affect each other.
@@ -44,14 +43,13 @@ If you miss a dose of IMKELDI, do not take the missed dose.
 Take your next dose at your regular time.
 
 IMKELDI is a hazardous drug.
-Do not prepare, withdraw, take, or give IMKELDI without wearing disposable gloves.
+Do notprepare, withdraw, take, or give IMKELDI without wearing disposable gloves.
 
 IMKELDI may cause dizziness, blurred vision, or sleepiness during treatment.
 
 Preparing a new bottle of IMKELDI before first time use
 
-1.
-Wash hands thoroughly with soap and water (Figure B).
+1.Wash hands thoroughly with soap and water (Figure B).
 
 Figure B
 
@@ -60,140 +58,117 @@ Wear disposable gloves while preparing, withdrawing, taking, or giving IMKELDI t
 
 3.
 Check the expiration date on the bottle.
-Do not use IMKELDI if the expiration date on the bottle has passed.
+Do notuse IMKELDI if the expiration date on the bottle has passed.
 Contact your healthcare provider or pharmacist.
 
-4.
-Remove the child-resistant bottle cap by pushing it down firmly and twisting it counter-clockwise (to the left) (Figure C). Do not throw away the child-resistant bottle cap.
+4.Remove the child-resistant bottle cap by pushing it down firmly and twisting it counter-clockwise (to the left) (Figure C). Do notthrow away the child-resistant bottle cap.
 
 Figure C
 
-5.
-Place the open bottle upright on a clean flat surface.
-Hold the bottle firmly and push the ribbed end of the bottle adapter firmly into the neck of the bottle as far as it will go (Figure D). Do not remove the bottle adapter from the bottle after it is inserted.
+5.Place the open bottle upright on a clean flat surface.
+Hold the bottle firmly and push the ribbed end of the bottle adapter firmly into the neck of the bottle as far as it will go (Figure D). Do notremove the bottle adapter from the bottle after it is inserted.
 
 Figure D
 
-6.
-Put the child-resistant cap back on the bottle by turning it clockwise (to the right) (Figure E). Make sure that the child-resistant cap is tightly closed.
+6.Put the child-resistant cap back on the bottle by turning it clockwise (to the right) (Figure E). Make sure that the child-resistant cap is tightly closed.
 
 Figure E
 
-7.
-Write the date of first opening on the bottle label.
+7.Write the date of first opening on the bottle label.
 
 Preparing and withdrawing a dose of IMKELDI
 
 8.
-Repeat Step 1 to Step 4 above.
+Repeat Step 1to Step 4above.
 
-9.
-Place the IMKELDI bottle on a clean flat surface.
+9.Place the IMKELDI bottle on a clean flat surface.
 
-10.
-Check your prescription to find out the number of mL you are supposed to take.
+10.Check your prescription to find out the number of mL you are supposed to take.
 Find the number line on the oral dispensing syringe barrel that matches your dose.
 
-11.
-Push the plunger of the oral dispensing syringe all the way up towards the tip of the oral dispensing syringe to remove air (Figure F).
+11.Push the plunger of the oral dispensing syringe all the way up towards the tip of the oral dispensing syringe to remove air (Figure F).
 
 Figure F
 
-12.
-While keeping the bottle in an upright position, insert the tip of the oral dispensing syringe into the opening of the bottle adapter and push down gently (Figure G).
+12.While keeping the bottle in an upright position, insert the tip of the oral dispensing syringe into the opening of the bottle adapter and push down gently (Figure G).
 
-Do not force the oral dispensing syringe tip into the bottler adapter opening.
+Do notforce the oral dispensing syringe tip into the bottler adapter opening.
 
 Figure G
 
-13.
-Hold the oral dispensing syringe tip firmly in the bottle and carefully turn the bottle upside down (Figure H). Slowly pull down the plunger of the oral dispensing syringe until the widest part of the oral dispensing syringe plunger lines up with the prescribed number of mL dose (Figure I).
+13.Hold the oral dispensing syringe tip firmly in the bottle and carefully turn the bottle upside down (Figure H). Slowly pull down the plunger of the oral dispensing syringe until the widest part of the oral dispensing syringe plunger lines up with the prescribed number of mL dose (Figure I).
 
 Figure H
 
 Figure I
 
-14.
-Leave the oral dispensing syringe tip in the bottle adapter.
+14.Leave the oral dispensing syringe tip in the bottle adapter.
 Check the oral dispensing syringe for air (Figure J). If you see air bubbles, push the plunger all the way back up to push the air into the bottle (Figure K). Then pull the plunger down again to withdraw the prescribed dose.
 
-Repeat this Step until all the air is gone from the oral dispensing syringe.
+Repeat this Stepuntil all the air is gone from the oral dispensing syringe.
 
 Figure J
 
 Figure K
 
-15.
-Leave the oral dispensing syringe tip in the bottle adapter.
+15.Leave the oral dispensing syringe tip in the bottle adapter.
 Turn the bottle back to an upright position and place the bottle on a clean flat surface (Figure L). Without touching the plunger, hold the oral dispensing syringe by the barrel and gently twist and pull the oral dispensing syringe out of the bottle adapter (Figure M).
 
 Figure L
 
 Figure M
 
-16.
-Inspect the oral dispensing syringe to make sure that it contains the correct dose as described in Step 13 (Figure N).
+16.Inspect the oral dispensing syringe to make sure that it contains the correct dose as described in Step 13(Figure N).
 
 Figure N
 
 Taking (or giving) IMKELDI
 
-17.
-The child or adult should sit up straight or stand before taking IMKELDI.
+17.The child or adult should sit up straight or stand before taking IMKELDI.
 
-18.
-Gently place the oral dispensing syringe tip in the mouth towards the inside of the cheek (Figure O).
+18.Gently place the oral dispensing syringe tip in the mouth towards the inside of the cheek (Figure O).
 
 Figure O
 
-19.
-Slowly and gently push the plunger down to gently squirt the medicine into the inside of the cheek until the plunger no longer moves and all the medicine is out of the oral dispensing syringe (Figure P).
+19.Slowly and gently push the plunger down to gently squirt the medicine into the inside of the cheek until the plunger no longer moves and all the medicine is out of the oral dispensing syringe (Figure P).
 
-Do not push down too hard on the plunger or squirt the medicine to the back of the mouth or throat as this may cause choking.
+Do notpush down too hard on the plunger or squirt the medicine to the back of the mouth or throat as this may cause choking.
 Remove the oral dispensing syringe from the mouth.
 
 Figure P
 
-20.
-Swallow the medicine completely.
+20.Swallow the medicine completely.
 Make sure that no medicine is left in the mouth.
 
-21.
-After swallowing IMKELDI, eat a meal and drink a large glass of water (Figure Q).
+21.After swallowing IMKELDI, eat a meal and drink a large glass of water (Figure Q).
 
-Note: If you do not eat a meal and drink a large glass of water right after swallowing IMKELDI, you may get stomach or intestine problems.
+Note:If you do not eat a meal and drink a large glass of water right after swallowing IMKELDI, you may get stomach or intestine problems.
 
 Figure Q
 
-22.
-Close the bottle by screwing the child-resistant cap back on the bottle in a clockwise direction (to the right) with the adapter left in place.
+22.Close the bottle by screwing the child-resistant cap back on the bottle in a clockwise direction (to the right) with the adapter left in place.
 Make sure that the cap is tightly closed (Figure R).
 
 Figure R
 
 Cleaning the oral dispensing syringe after use
 
-23.
-Right after use, wash the oral dispensing syringe thoroughly with water.
+23.Right after use, wash the oral dispensing syringe thoroughly with water.
 
 Hold the syringe under water and push the plunger in and out of the oral dispensing syringe several times to remove any medicine from the oral dispensing syringe including the tip (Figure S). Remove the plunger from the oral dispensing syringe barrel and wash both the plunger and oral dispensing syringe barrel thoroughly with cold water.
 
-Repeat this Step until the oral dispensing syringe is clean.
+Repeat this Stepuntil the oral dispensing syringe is clean.
 
 Figure S
 
-24.
-Shake off excess water from the plunger and the oral dispensing syringe barrel.
+24.Shake off excess water from the plunger and the oral dispensing syringe barrel.
 Dry both the oral dispensing syringe and the oral dispensing syringe plunger with a clean paper towel.
 
-25.
-Make sure that all oral dispensing syringe parts are fully dry before putting the plunger back in the oral dispensing syringe barrel and using it for the next dose.
+25.Make sure that all oral dispensing syringe parts are fully dry before putting the plunger back in the oral dispensing syringe barrel and using it for the next dose.
 
-26.
-Throw away (dispose of) the gloves after administration of IMKELDI and cleaning the oral dispensing syringe.
+26.Throw away (dispose of) the gloves after administration of IMKELDI and cleaning the oral dispensing syringe.
 
-27.
-Wash hands thoroughly with soap and water.
+27.Wash hands thoroughly with soap and water.
 
 Storing IMKELDI
 

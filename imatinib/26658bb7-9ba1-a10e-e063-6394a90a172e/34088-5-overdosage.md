@@ -6,13 +6,13 @@ In the event of overdosage, observe the patient and give appropriate supportive 
 
 Adult Overdose
 
-1,200 to 1,600 mg (duration varying between 1 to 10 days): Nausea, vomiting, diarrhea, rash erythema, edema, swelling, fatigue, muscle spasms, thrombocytopenia, pancytopenia, abdominal pain, headache, decreased appetite.
+1,200 to 1,600 mg (duration varying between 1 to 10 days):Nausea, vomiting, diarrhea, rash erythema, edema, swelling, fatigue, muscle spasms, thrombocytopenia, pancytopenia, abdominal pain, headache, decreased appetite.
 
-1,800 to 3,200 mg (as high as 3,200 mg daily for 6 days): Weakness, myalgia, increased CPK, increased bilirubin, GI pain.
+1,800 to 3,200 mg (as high as 3,200 mg daily for 6 days):Weakness, myalgia, increased CPK, increased bilirubin, GI pain.
 
-6,400 mg (single dose): One case in the literature reported one patient who experienced nausea, vomiting, abdominal pain, pyrexia, facial swelling, neutrophil count decreased, increase transaminases.
+6,400 mg (single dose):One case in the literature reported one patient who experienced nausea, vomiting, abdominal pain, pyrexia, facial swelling, neutrophil count decreased, increase transaminases.
 
-8 to 10 g (single dose): Vomiting and GI pain have been reported.
+8 to 10 g (single dose):Vomiting and GI pain have been reported.
 
 A patient with myeloid blast crisis experienced Grade 1 elevations of serum creatinine, Grade 2 ascites and elevated liver transaminase levels, and Grade 3 elevations of bilirubin after inadvertently taking 1,200 mg of imatinib daily for 6 days.
 Therapy was temporarily interrupted and complete reversal of all abnormalities occurred within 1 week.

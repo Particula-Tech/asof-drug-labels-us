@@ -18,7 +18,7 @@ Round each dose to the nearest measurable graduation mark on the oral syringe, i
 Continue treatment until disease progression or unacceptable toxicity.
 
 Imkeldi is a hazardous drug.
-Follow applicable special handling and disposal procedures1.
+Follow applicable special handling and disposal procedures 1.
 
 ## 2.2 Adult Patients With Ph+ CML CP, AP, or BC
 
@@ -28,7 +28,7 @@ In CML, a dose increase from 400 mg to 600 mg in adult patients with chronic pha
 
 ## 2.3 Pediatric Patients With Ph+ CML CP
 
-The recommended dosage of Imkeldi for pediatric patients with newly diagnosed Ph+ CML is 340 mg/m2/day (not to exceed 600 mg).
+The recommended dosage of Imkeldi for pediatric patients with newly diagnosed Ph+ CML is 340 mg/m 2/day (not to exceed 600 mg).
 Imkeldi treatment can be given as a once daily dose or the daily dose may be split into two–one portion doses in the morning and one portion in the evening.
 There is no experience with Imkeldi treatment in children under 1 year of age.
 
@@ -40,7 +40,7 @@ The recommended dosage of Imkeldi is 600 mg/day for adult patients with relapsed
 
 ## 2.5 Pediatric Patients With Ph+ ALL
 
-The recommended dosage of Imkeldi to be given in combination with chemotherapy to pediatric patients with newly diagnosed Ph+ ALL is 340 mg/m2/day (not to exceed 600 mg).
+The recommended dosage of Imkeldi to be given in combination with chemotherapy to pediatric patients with newly diagnosed Ph+ ALL is 340 mg/m 2/day (not to exceed 600 mg).
 Imkeldi treatment can be given as a once daily dose.
 
 Follow recommendations for dose rounding [see Dosage and Administration (2.1)].
@@ -109,7 +109,7 @@ Doses greater than 400 mg are not recommended for patients with moderate renal i
 
 If elevations in bilirubin greater than 3 times the institutional upper limit of normal (IULN) or in liver transaminases greater than 5 times the IULN occur, Imkeldi should be withheld until bilirubin levels have returned to a less than 1.5 times the IULN and transaminase levels to less than 2.5 times the IULN.
 In adults, treatment with Imkeldi may then be continued at a reduced daily dose (i.e., 400 mg to 300 mg, 600 mg to 400 mg, or 800 mg to 600 mg).
-In children, daily doses can be reduced under the same circumstances from 340 mg/m2/day to 260 mg/m2/day.
+In children, daily doses can be reduced under the same circumstances from 340 mg/m 2/day to 260 mg/m 2/day.
 
 If a severe non-hematologic adverse reaction develops (such as severe hepatotoxicity or severe fluid retention), Imkeldi should be withheld until the event has resolved.
 Thereafter, treatment can be resumed as appropriate depending on the initial severity of the reaction.
@@ -120,12 +120,12 @@ Dose reduction or treatment interruptions for severe neutropenia and thrombocyto
 
 Table 1: Dose Adjustments for Neutropenia and Thrombocytopenia
 
-| ASM associated with eosinophilia (starting dose 100 mg) | ANC less than 1 x 109/L and/orplatelets less than 50 x 109/L | Stop Imkeldi until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/LResume treatment with Imkeldi at previous dose (i.e., dose before severe adverse reaction) |
+| ASM associated with eosinophilia (starting dose 100 mg) | ANC less than 1 x 10 9/L and/or platelets less than 50 x 10 9/L | Stop Imkeldi until ANC greater than or equal to 1.5 x 10 9/L and platelets greater than or equal to 75 x 10 9/L Resume treatment with Imkeldi at previous dose (i.e., dose before severe adverse reaction) |
 | --- | --- | --- |
-| HES/CEL with FIP1L1-PDGFRαfusion kinase (starting dose 100 mg) | ANC less than 1 x 109/L and/orplatelets less than 50 x 109/L | Stop Imkeldi until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/LResume treatment with Imkeldi at previous dose (i.e., dose before severe adverse reaction) |
-| Chronic Phase CML (starting dose 400 mg)MDS/MPD, ASM and HES/CEL(starting dose 400 mg)GIST (starting dose 400 mg) | ANC less than 1 x 109/L and/orplatelets less than 50 x 109/L | Stop Imkeldi until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/LResume treatment with Imkeldi at the original starting dose of 400 mgIf recurrence of ANC less than 1 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume Imkeldi at a reduced dose of 300 mg |
-| Ph+ CML: Accelerated Phase and Blast Crisis (starting dose 600 mg)Ph+ ALL(starting dose 600 mg) | ANC less than 0.5 x 109/L and/orplatelets less than 10 x 109/L | Check if cytopenia is related to leukemia (marrow aspirate or biopsy)If cytopenia is unrelated to leukemia, reduce dose of Imkeldi to 400 mgIf cytopenia persists 2 weeks, reduce further to 300 mgIf cytopenia persists 4 weeks and is still unrelated to leukemia, stop Imkeldi until ANC greater than or equal to 1 x 109/L and platelets greater than or equal to 20 x 109/L and then resume treatment at 300 mg |
-| DFSP(starting dose 800 mg) | ANC less than 1 x 109/L and/orplatelets less than 50 x 109/L | Stop Imkeldi until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/LResume treatment with Imkeldi at 600 mgIn the event of recurrence of ANC less than 1 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume Imkeldi at reduced dose of 400 mg |
-| Pediatric newly diagnosed chronic phase CML(starting dose 340 mg/m2) | ANC less than 1 x 109/L and/orplatelets less than 50 x 109/L | Stop Imkeldi until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/LResume treatment with Imkeldi at previous dose (i.e., dose before severe adverse reaction)In the event of recurrence of ANC less than 1 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume Imkeldi at reduced dose of 260 mg/m2 |
+| HES/CEL with FIP1L1-PDGFRαfusion kinase (starting dose 100 mg) | ANC less than 1 x 10 9/L and/or platelets less than 50 x 10 9/L | Stop Imkeldi until ANC greater than or equal to 1.5 x 10 9/L and platelets greater than or equal to 75 x 10 9/L Resume treatment with Imkeldi at previous dose (i.e., dose before severe adverse reaction) |
+| Chronic Phase CML (starting dose 400 mg)MDS/MPD, ASM and HES/CEL(starting dose 400 mg)GIST (starting dose 400 mg) | ANC less than 1 x 10 9/L and/or platelets less than 50 x 10 9/L | Stop Imkeldi until ANC greater than or equal to 1.5 x 10 9/L and platelets greater than or equal to 75 x 10 9/L Resume treatment with Imkeldi at the original starting dose of 400 mgIf recurrence of ANC less than 1 x 10 9/L and/or platelets less than 50 x 10 9/L, repeat step 1 and resume Imkeldi at a reduced dose of 300 mg |
+| Ph+ CML: Accelerated Phase and Blast Crisis (starting dose 600 mg)Ph+ ALL(starting dose 600 mg) | ANC less than 0.5 x 10 9/L and/or platelets less than 10 x 10 9/L | Check if cytopenia is related to leukemia (marrow aspirate or biopsy)If cytopenia is unrelated to leukemia, reduce dose of Imkeldi to 400 mgIf cytopenia persists 2 weeks, reduce further to 300 mgIf cytopenia persists 4 weeks and is still unrelated to leukemia, stop Imkeldi until ANC greater than or equal to 1 x 10 9/L and platelets greater than or equal to 20 x 10 9/L and then resume treatment at 300 mg |
+| DFSP(starting dose 800 mg) | ANC less than 1 x 10 9/L and/or platelets less than 50 x 10 9/L | Stop Imkeldi until ANC greater than or equal to 1.5 x 10 9/L and platelets greater than or equal to 75 x 10 9/L Resume treatment with Imkeldi at 600 mgIn the event of recurrence of ANC less than 1 x 10 9/L and/or platelets less than 50 x 10 9/L, repeat step 1 and resume Imkeldi at reduced dose of 400 mg |
+| Pediatric newly diagnosed chronic phase CML(starting dose 340 mg/m 2) | ANC less than 1 x 10 9/L and/or platelets less than 50 x 10 9/L | Stop Imkeldi until ANC greater than or equal to 1.5 x 10 9/L and platelets greater than or equal to 75 x 10 9/L Resume treatment with Imkeldi at previous dose (i.e., dose before severe adverse reaction)In the event of recurrence of ANC less than 1 x 10 9/L and/or platelets less than 50 x 10 9/L, repeat step 1 and resume Imkeldi at reduced dose of 260 mg/m 2 |
 
 Abbreviations: ANC, absolute neutrophil count; ASM, aggressive systemic mastocytosis; CEL, chronic eosinophilic leukemia; CML, chronic myeloid leukemia; DFSP, dermatofibrosarcoma protuberans; HES, hypereosinophilic syndrome; MDS/MPD, myelodysplastic/myeloproliferative diseases; PDGFR, platelet-derived growth factor receptor; Ph+ CML, Philadelphia chromosome positive chronic myeloid leukemia; Ph+ ALL, Philadelphia chromosome positive acute lymphoblastic leukemia.

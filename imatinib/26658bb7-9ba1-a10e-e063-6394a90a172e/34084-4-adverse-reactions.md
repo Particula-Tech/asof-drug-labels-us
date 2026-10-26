@@ -37,14 +37,14 @@ These reactions may be serious or life threatening.
 
 Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the imatinib-treated patients are shown in Tables 2, 3, and 4.
 
-Table 2: Adverse Reactions Regardless of Relationship to Study Drug Reported in Newly Diagnosed CML Clinical Trial in the Imatinib Versus IFN+Ara-C Study (Greater Than or Equal to 10% of Imatinib-Treated Patients)All adverse reactions occurring in greater than or equal to 10% of imatinib-treated patients are listed regardless of suspected relationship to treatment.
+Table 2: Adverse Reactions Regardless of Relationship to Study Drug Reported in Newly Diagnosed CML Clinical Trial in the Imatinib Versus IFN+Ara-C Study (Greater Than or Equal to 10% of Imatinib-Treated Patients) (1)
 
-|  | All Grades |  | CTC GradesNCI Common Terminology Criteria for Adverse Events, version 3.0. 3/4 |  |
+|  | All Grades |  | CTC Grades *3/4 |  |
 | --- | --- | --- | --- | --- |
 | Preferred term | Imatinib N = 551 (%) | IFN+Ara-C N = 533 (%) | Imatinib N = 551 (%) | IFN+Ara-C N = 533 (%) |
 | Fluid retention | 61.7 | 11.1 | 2.5 | 0.9 |
 | - Superficial edema | 59.9 | 9.6 | 1.5 | 0.4 |
-| - Other fluid retention reactionsOther fluid retention reactions include pleural effusion, ascites, pulmonary edema, pericardial effusion, anasarca, edema aggravated, and fluid retention not otherwise specified. | 6.9 | 1.9 | 1.3 | 0.6 |
+| - Other fluid retention reactions 2 | 6.9 | 1.9 | 1.3 | 0.6 |
 | Nausea | 49.5 | 61.5 | 1.3 | 5.1 |
 | Muscle cramps | 49.2 | 11.8 | 2.2 | 0.2 |
 | Musculoskeletal pain | 47.0 | 44.8 | 5.4 | 8.6 |
@@ -73,15 +73,15 @@ Table 2: Adverse Reactions Regardless of Relationship to Study Drug Reported in 
 | Bone pain | 11.3 | 15.6 | 1.6 | 3.4 |
 | Constipation | 11.4 | 14.4 | 0.7 | 0.2 |
 | Sinusitis | 11.4 | 6.0 | 0.2 | 0.2 |
-| Abbreviations: CML, chronic myeloid leukemia; CNS, central nervous system; CTC, common terminology criteria; GI, gastrointestinal; IFN, Interferon-alpha. |  |  |  |  |
+| Abbreviations: CML, chronic myeloid leukemia; CNS, central nervous system; CTC, common terminology criteria; GI, gastrointestinal; IFN, Interferon-alpha.*NCI Common Terminology Criteria for Adverse Events, version 3.0. (1)All adverse reactions occurring in greater than or equal to 10% of imatinib-treated patients are listed regardless of suspected relationship to treatment. (2)Other fluid retention reactions include pleural effusion, ascites, pulmonary edema, pericardial effusion, anasarca, edema aggravated, and fluid retention not otherwise specified. |  |  |  |  |
 
-Table 3: Most Frequently Reported Non-Hematologic Adverse Reactions (regardless of relationship to study drug) in Patients With Newly Diagnosed Ph+ CML-CP in the Imatinib Versus Nilotinib Study (Greater Than or Equal to 10% in Imatinib 400 mg Once Daily or Nilotinib 300 mg Twice Daily Groups) 60-Month AnalysisExcluding laboratory abnormalities.
+Table 3: Most Frequently Reported Non-Hematologic Adverse Reactions (regardless of relationship to study drug) in Patients With Newly Diagnosed Ph+ CML-CP in the Imatinib Versus Nilotinib Study (Greater Than or Equal to 10% in Imatinib 400 mg Once Daily or Nilotinib 300 mg Twice Daily Groups) 60-Month Analysis a
 
 | Patients with newly diagnosed Ph+ CML-CP |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Imatinib400 mgonce dailyN = 280 | Nilotinib300 mgtwice dailyN = 279 | Imatinib400 mgonce dailyN = 280 | Nilotinib300 mgtwice dailyN = 279 |
-| Body system and preferred term |  | All Grades (%) |  | CTC GradesNCI Common Terminology Criteria for Adverse Events, version 3.0. 3/4 (%) |  |
-| Skin and subcutaneous tissue disorders | Rash | > 19 | 38 | 2 | < 1 |
+| Body system and preferred term |  | All Grades (%) |  | CTC Grades b3/4 (%) |  |
+| Skin and subcutaneous tissue disorders | Rash | 19 | 38 | 2 | < 1 |
 |  | Pruritus | 7 | 21 | 0 | < 1 |
 |  | Alopecia | 7 | 13 | 0 | 0 |
 |  | Dry skin | 6 | 12 | 0 | 0 |
@@ -115,9 +115,9 @@ Table 3: Most Frequently Reported Non-Hematologic Adverse Reactions (regardless 
 |  | Periorbital edema | 15 | < 1 | 0 | 0 |
 | Psychiatric disorders | Insomnia | 9 | 11 | 0 | 0 |
 | Vascular disorder | Hypertension | 4 | 10 | < 1 | 1 |
-| Abbreviation: Ph+ CML-CP, Philadelphia chromosome positive chronic myeloid leukemia-chronic phase. |  |  |  |  |  |
+| Abbreviation: Ph+ CML-CP, Philadelphia chromosome positive chronic myeloid leukemia-chronic phase. aExcluding laboratory abnormalities. bNCI Common Terminology Criteria for Adverse Events, version 3.0. |  |  |  |  |  |
 
-Table 4: Adverse Reactions Regardless of Relationship to Study Drug Reported in Other CML Clinical Trials (Greater Than or Equal to 10% of All Patients in Any Trial)All adverse reactions occurring in greater than or equal to 10% of patients are listed regardless of suspected relationship to treatment.
+Table 4: Adverse Reactions Regardless of Relationship to Study Drug Reported in Other CML Clinical Trials (Greater Than or Equal to 10% of All Patients in Any Trial) (1)
 
 |  | Myeloid blast Crisis (n = 260) |  | Accelerated phase(n = 235) |  | Chronic phase, IFN failure(n = 532) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -125,7 +125,7 @@ Table 4: Adverse Reactions Regardless of Relationship to Study Drug Reported in 
 | Preferred term | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
 | Fluid retention | 72 | 11 | 76 | 6 | 69 | 4 |
 | -Superficial edema | 66 | 6 | 74 | 3 | 67 | 2 |
-| -Other fluid retention reactions Other fluid retention reactions include pleural effusion, ascites, pulmonary edema, pericardial effusion, anasarca, edema aggravated, and fluid retention not otherwise specified. | 22 | 6 | 15 | 4 | 7 | 2 |
+| -Other fluid retention reactions (2) | 22 | 6 | 15 | 4 | 7 | 2 |
 | Nausea | 71 | 5 | 73 | 5 | 63 | 3 |
 | Muscle cramps | 28 | 1 | 47 | 0.4 | 62 | 2 |
 | Vomiting | 54 | 4 | 58 | 3 | 36 | 2 |
@@ -163,7 +163,7 @@ Table 4: Adverse Reactions Regardless of Relationship to Study Drug Reported in 
 | Chest pain | 7 | 2 | 10 | 0.4 | 11 | 0.8 |
 | Influenza | 0.8 | 0.4 | 6 | 0 | 11 | 0.2 |
 | Sinusitis | 4 | 0.4 | 11 | 0.4 | 9 | 0.4 |
-| Abbreviations: CML, chronic myeloid leukemia; IFN, Interferon-alpha. |  |  |  |  |  |  |
+| Abbreviations: CML, chronic myeloid leukemia; IFN, Interferon-alpha. (1)All adverse reactions occurring in greater than or equal to 10% of patients are listed regardless of suspected relationship to treatment. (2)Other fluid retention reactions include pleural effusion, ascites, pulmonary edema, pericardial effusion, anasarca, edema aggravated, and fluid retention not otherwise specified. |  |  |  |  |  |  |
 
 Hematologic and Biochemistry Laboratory Abnormalities
 
@@ -178,11 +178,11 @@ These reactions can usually be managed with either a reduction of the dose or an
 
 Table 5: Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Imatinib Versus IFN+Ara-C)
 
-|  | ImatinibN = 551 |  | IFN+Ara-C N = 533 |  |
+|  | ImatinibN = 551 |  | IFN+Ara-CN = 533 |  |
 | --- | --- | --- | --- | --- |
 |  | % |  | % |  |
 | CTC Grades | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
-| Hematology parametersp less than 0.001 (difference in Grade 3 plus 4 abnormalities between the two treatment groups). |  |  |  |  |
+| Hematology parameters* |  |  |  |  |
 | - Neutropenia* | 13.1 | 3.6 | 20.8 | 4.5 |
 | - Thrombocytopenia* | 8.5 | 0.4 | 15.9 | 0.6 |
 | - Anemia | 3.3 | 1.1 | 4.1 | 0.2 |
@@ -191,10 +191,9 @@ Table 5: Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Imatini
 | - Elevated bilirubin | 0.9 | 0.2 | 0.2 | 0 |
 | - Elevated alkaline phosphatase | 0.2 | 0 | 0.8 | 0 |
 | - Elevated SGOT (AST)/SGPT (ALT) | 4.7 | 0.5 | 7.1 | 0.4 |
-| Abbreviations: CML, chronic myeloid leukemia; IFN, Interferon-alpha; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT). |  |  |  |  |
+| Abbreviations: CML, chronic myeloid leukemia; IFN, Interferon-alpha; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT).*p less than 0.001 (difference in Grade 3 plus 4 abnormalities between the two treatment groups). |  |  |  |  |
 
-Table 6: Percent Incidence of Clinically Relevant Grade 3/4NCI Common Terminology Criteria for Adverse Events, version 3.0.
-Laboratory Abnormalities in the Newly Diagnosed CML Clinical Trial (Imatinib Versus Nilotinib)
+Table 6: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormalities in the Newly Diagnosed CML Clinical Trial (Imatinib Versus Nilotinib)
 
 |  | Imatinib 400 mg once daily | Nilotinib 300 mg twice daily |
 | --- | --- | --- |
@@ -218,7 +217,7 @@ Laboratory Abnormalities in the Newly Diagnosed CML Clinical Trial (Imatinib Ver
 | Hypocalcemia | < 1 | < 1 |
 | Elevated alkaline phosphatase | < 1 | 0 |
 | Elevated creatinine | < 1 | 0 |
-| Abbreviations: CML, chronic myeloid leukemia; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT). |  |  |
+| Abbreviations: CML, chronic myeloid leukemia; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT).*NCI Common Terminology Criteria for Adverse Events, version 3.0. |  |  |
 
 Table 7: Laboratory Abnormalities in Other CML Clinical Trials
 
@@ -228,7 +227,7 @@ Table 7: Laboratory Abnormalities in Other CML Clinical Trials
 |  | 600 mg n = 223 |  | 600 mg n = 158 |  |  |  |
 |  | 400 mg n = 37 |  | 400 mg n = 77 |  | 400 mg |  |
 |  | % |  | % |  | % |  |
-| CTC Grades CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5-1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10-50 x 109/L, Grade 4 less than 10 x 109/L), anemia (hemoglobin greater than or equal to 65-80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3-6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3-10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase (Grade 3 greater than 5-20 x ULN, Grade 4 greater than 20 x ULN), elevated SGOT or SGPT (Grade 3 greater than 5-20 x ULN, Grade 4 greater than 20 x ULN). | Grade 3 | Grade 4 | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
+| CTC Grades (1) | Grade 3 | Grade 4 | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
 | Hematology parameters |  |  |  |  |  |  |
 | - Neutropenia | 16 | 48 | 23 | 36 | 27 | 9 |
 | - Thrombocytopenia | 30 | 33 | 31 | 13 | 21 | < 1 |
@@ -239,7 +238,7 @@ Table 7: Laboratory Abnormalities in Other CML Clinical Trials
 | - Elevated alkaline phosphatase | 4.6 | 0 | 5.5 | 0.4 | 0.2 | 0 |
 | - Elevated SGOT (AST) | 1.9 | 0 | 3.0 | 0 | 2.3 | 0 |
 | - Elevated SGPT (ALT) | 2.3 | 0.4 | 4.3 | 0 | 2.1 | 0 |
-| Abbreviations: CML, chronic myeloid leukemia; CTC, common terminology criteria; IFN, Interferon-alpha; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT). |  |  |  |  |  |  |
+| Abbreviations: CML, chronic myeloid leukemia; CTC, common terminology criteria; IFN, Interferon-alpha; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT).(1)CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5–1.0 x 10 9/L, Grade 4 less than 0.5 x 10 9/L), thrombocytopenia (Grade 3 greater than or equal to 10–50 x 10 9/L, Grade 4 less than 10 x 10 9/L), anemia (hemoglobin greater than or equal to 65–80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3–6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3–10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase (Grade 3 greater than 5–20 x ULN, Grade 4 greater than 20 x ULN), elevated SGOT or SGPT (Grade 3 greater than 5–20 x ULN, Grade 4 greater than 20 x ULN). |  |  |  |  |  |  |
 
 Hepatotoxicity
 
@@ -273,7 +272,7 @@ The adverse events that were reported with a 5% or greater incidence in patients
 
 Table 8: Adverse Reactions Reported More Frequently in Patients Treated With Study Drug (Greater Than 5%) or in Cycles With Study Drug (Greater Than 1%)
 
-| Adverse event | Per patient incidence Ph+ ALL with Imatinib N = 92 n (%) | Per patient incidence Ph- ALL no Imatinib N = 65 n (%) | Per patient per cycle incidence with ImatinibDefined as the frequency of adverse events (AEs) per patient per treatment cycles that included imatinib (includes patients with Ph+ ALL that received cycles with imatinib). N = 778 n (%) | Per patient per cycle incidence no ImatinibDefined as the frequency of AEs per patient per treatment cycles that did not include imatinib (includes patients with Ph+ ALL that received cycles without imatinib as well as all patients with Ph- ALL who did not receive imatinib in any treatment cycle). N = 647 n (%) |
+| Adverse event | Per patient incidence Ph+ ALL with ImatinibN = 92 n (%) | Per patient incidence Ph- ALL no ImatinibN = 65n (%) | Per patient per cycle incidence with Imatinib*N = 778 n (%) | Per patient per cycle incidence no Imatinib**N = 647 n (%) |
 | --- | --- | --- | --- | --- |
 | Grade 3 and 4 adverse events |  |  |  |  |
 | Nausea and/or vomiting | 15 (16) | 6 (9) | 28 (4) | 8 (1) |
@@ -294,7 +293,7 @@ Table 8: Adverse Reactions Reported More Frequently in Patients Treated With Stu
 | Myelosuppression |  |  |  |  |
 | Neutropenia (< 750/mcL) | 92 (100) | 63 (97) | 556 (71) | 218 (34) |
 | Thrombocytopenia (< 75,000/mcL) | 90 (92) | 63 (97) | 431 (55) | 329 (51) |
-| Abbreviations: Ph+ ALL, Philadelphia chromosome positive acute lymphoblastic leukemia; Ph- ALL, Philadelphia chromosome negative acute lymphoblastic leukemia. |  |  |  |  |
+| Abbreviations: Ph+ ALL, Philadelphia chromosome positive acute lymphoblastic leukemia; Ph- ALL, Philadelphia chromosome negative acute lymphoblastic leukemia.*Defined as the frequency of adverse events (AEs) per patient per treatment cycles that included imatinib (includes patients with Ph+ ALL that received cycles with imatinib). **Defined as the frequency of AEs per patient per treatment cycles that did not include imatinib (includes patients with Ph+ ALL that received cycles without imatinib as well as all patients with Ph- ALL who did not receive imatinib in any treatment cycle). |  |  |  |  |
 
 Adverse Reactions in Other Subpopulations
 
@@ -371,14 +370,14 @@ Table 11: Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Stud
 
 |  | N = 12 |  |
 | --- | --- | --- |
-| CTC Grades CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5-1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10-50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65-80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3-6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN). | Grade 3 % | Grade 4 % |
+| CTC Grades (1) | Grade 3 % | Grade 4 % |
 | Hematology parameters |  |  |
 | - Anemia | 17 | 0 |
 | - Thrombocytopenia | 17 | 0 |
 | - Neutropenia | 0 | 8 |
 | Biochemistry parameters |  |  |
 | - Elevated creatinine | 0 | 8 |
-| Abbreviation: CTC, common terminology criteria. |  |  |
+| Abbreviation: CTC, common terminology criteria.(1)CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5–1.0 x 10 9/L, Grade 4 less than 0.5 x 10 9/L), thrombocytopenia (Grade 3 greater than or equal to 10–50 x 10 9/L, Grade 4 less than 10 x 10 9/L), anemia (Grade 3 greater than or equal to 65–80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3–6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN). |  |  |
 
 Gastrointestinal Stromal Tumors
 
@@ -424,7 +423,7 @@ Table 12: Number (%) of Patients With Adverse Reactions Regardless of Relationsh
 | Other renal/genitourinary toxicity | 14.2 | 6.5 | 13.6 | 5.2 |
 | Arthralgia (joint pain) | 13.6 | 4.8 | 12.3 | 3.0 |
 | Dyspnea (shortness of breath) | 13.6 | 6.8 | 14.2 | 5.6 |
-| Fever in absence of neutropenia (ANC < 1.0 x 109/L) | 13.2 | 4.9 | 12.9 | 3.4 |
+| Fever in absence of neutropenia (ANC < 1.0 x 10 9/L) | 13.2 | 4.9 | 12.9 | 3.4 |
 | Sweating | 12.7 | 4.6 | 8.5 | 2.8 |
 | Other hemorrhage | 12.3 | 6.7 | 13.3 | 6.1 |
 | Weight gain | 12.0 | 1.0 | 10.6 | 0.6 |
@@ -437,8 +436,7 @@ Table 12: Number (%) of Patients With Adverse Reactions Regardless of Relationsh
 | Flatulence | 10.0 | 0.2 | 10.1 | 0.1 |
 | Stomatitis/pharyngitis (oral/pharyngeal mucositis) | 9.2 | 5.4 | 10.0 | 4.3 |
 | Lymphopenia | 6.0 | 0.7 | 10.1 | 1.9 |
-
-Abbreviations: ANC, absolute neutrophil count; GI, gastrointestinal; GIST, gastrointestinal stromal tumors.
+| Abbreviations: ANC, absolute neutrophil count; GI, gastrointestinal; GIST, gastrointestinal stromal tumors. |  |  |  |  |
 
 Clinically relevant or severe abnormalities of routine hematologic or biochemistry laboratory values were not reported or evaluated in the Phase 3 GIST trials.
 Severe abnormal laboratory values reported in the Phase 2 GIST trial are presented in Table 13.
@@ -447,7 +445,7 @@ Table 13: Laboratory Abnormalities in the Phase 2 Unresectable and/or Malignant 
 
 |  | 400 mg (n = 73) % |  | 600 mg (n = 74) % |  |
 | --- | --- | --- | --- | --- |
-| CTC GradesCTC Grades: neutropenia (Grade 3 greater than or equal to 0.5-1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10-50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65-80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3-6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3-10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase, SGOT or SGPT (Grade 3 greater than 5-20 x ULN, Grade 4 greater than 20 x ULN), albumin (Grade 3 less than 20 g/L). | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
+| CTC Grades1 | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
 | Hematology parameters |  |  |  |  |
 | - Anemia | 3 | 0 | 8 | 1 |
 | - Thrombocytopenia | 0 | 0 | 1 | 0 |
@@ -459,7 +457,7 @@ Table 13: Laboratory Abnormalities in the Phase 2 Unresectable and/or Malignant 
 | - Elevated alkaline phosphatase | 0 | 0 | 3 | 0 |
 | - Elevated SGOT (AST) | 4 | 0 | 3 | 3 |
 | - Elevated SGPT (ALT) | 6 | 0 | 7 | 1 |
-| Abbreviations: CTC, common terminology criteria; GIST, gastrointestinal stromal tumors; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT). |  |  |  |  |
+| Abbreviations: CTC, common terminology criteria; GIST, gastrointestinal stromal tumors; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT).1CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5–1.0 x 10 9/L, Grade 4 less than 0.5 x 10 9/L), thrombocytopenia (Grade 3 greater than or equal to 10–50 x 10 9/L, Grade 4 less than 10 x 10 9/L), anemia (Grade 3 greater than or equal to 65–80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3–6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3–10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase, SGOT or SGPT (Grade 3 greater than 5–20 x ULN, Grade 4 greater than 20 x ULN), albumin (Grade 3 less than 20 g/L). |  |  |  |  |
 
 Adjuvant Treatment of GIST
 
@@ -475,10 +473,9 @@ As in previous trials the most common adverse reactions were diarrhea, fatigue, 
 Adverse reactions, regardless of relationship to study drug, that were reported in at least 5% of the patients treated with imatinib are shown in Table 14 (Study 1) and Table 15 (Study 2).
 There were no deaths attributable to imatinib treatment in either trial.
 
-Table 14: Adverse Reactions Regardless of Relationship to Study Drug Reported in Study 1 (Greater Than or Equal to 5% of Imatinib-Treated Patients)All adverse reactions occurring in greater than or equal to 5% of patients are listed regardless of suspected relationship to treatment.
-A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category.
+Table 14: Adverse Reactions Regardless of Relationship to Study Drug Reported in Study 1 (Greater Than or Equal to 5% of Imatinib-Treated Patients) (1)
 
-|  | All CTC Grades |  | CTC Grade 3NCI Common Terminology Criteria for Adverse Events, version 3.0. and Above |  |
+|  | All CTC Grades |  | CTC Grade 3* and Above |  |
 | --- | --- | --- | --- | --- |
 |  | Imatinib | Placebo | Imatinib | Placebo |
 |  | (n = 337) | (n = 345) | (n = 337) | (n = 345) |
@@ -532,10 +529,9 @@ A patient with multiple occurrences of an adverse reaction is counted only once 
 | Stomatitis | 5.0 | 1.7 | 0.6 | 0 |
 | Upper respiratory tract infection | 5.0 | 3.5 | 0 | 0 |
 | Vision blurred | 5.0 | 2.3 | 0 | 0 |
-| Abbreviations: CTC, common terminology criteria; GIST, gastrointestinal stromal tumors; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT). |  |  |  |  |
+| Abbreviations: CTC, common terminology criteria; GIST, gastrointestinal stromal tumors; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT).*NCI Common Terminology Criteria for Adverse Events, version 3.0. (1)All adverse reactions occurring in greater than or equal to 5% of patients are listed regardless of suspected relationship to treatment. A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category. |  |  |  |  |
 
-Table 15: Adverse Reactions Regardless of Relationship to Study Drug by Preferred Term All Grades and 3/4 Grades (Greater Than or Equal to 5% of Imatinib-Treated Patients) Study 2All adverse reactions occurring in greater than or equal to 5% of patients are listed regardless of suspected relationship to treatment.
-A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category.
+Table 15: Adverse Reactions Regardless of Relationship to Study Drug by Preferred Term All Grades and 3/4 Grades (Greater Than or Equal to 5% of Imatinib-Treated Patients) Study 2 (1)
 
 | Preferred term | All CTC Grades |  | CTC Grades 3 and above |  |
 | --- | --- | --- | --- | --- |
@@ -588,11 +584,11 @@ A patient with multiple occurrences of an adverse reaction is counted only once 
 | Conjunctivitis | 5.2 | 7.6 | 0 | 0 |
 | Photosensitivity reaction | 3.6 | 7.1 | 0 | 0 |
 | Dizziness | 4.6 | 6.6 | 0.5 | 0 |
-| Hemorrhage | 3.1 | 6.6 | 0 |  |
-| Dry skin | 6.7 | 6.1 | 0.5 |  |
+| Hemorrhage | 3.1 | 6.6 | 0 | 0 |
+| Dry skin | 6.7 | 6.1 | 0.5 | 0 |
 | Nasopharyngitis | 1.0 | 6.1 | 0 | 0.5 |
 | Palpitations | 5.2 | 5.1 | 0 | 0 |
-| Abbreviations: AE, adverse event; CTC, common terminology criteria. |  |  |  |  |
+| Abbreviations: AE, adverse event; CTC, common terminology criteria.(1)All adverse reactions occurring in greater than or equal to 5% of patients are listed regardless of suspected relationship to treatment. A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category. |  |  |  |  |
 
 Adverse Reactions from Multiple Clinical Trials
 
@@ -612,7 +608,9 @@ Estimated 0.1%-1%: hypertension, hypotension, peripheral coldness, Raynaud’s p
 
 Investigations:
 
-Estimated 1%-10%: blood creatine phosphokinase (CPK) increased, blood amylase increased Estimated 0.1%-1%: blood lactate dehydrogenase (LDH) increased
+Estimated 1%-10%: blood creatine phosphokinase (CPK) increased, blood amylase increased
+
+Estimated 0.1%-1%: blood lactate dehydrogenase (LDH) increased
 
 Skin and Subcutaneous Tissue Disorders:
 
@@ -632,17 +630,23 @@ Estimated 0.01%-0.1%: colitis, ileus, inflammatory bowel disease
 
 General Disorders and Administration-Site Conditions:
 
-Estimated 1%-10%: weakness, anasarca, chills Estimated 0.1%-1%: malaise
+Estimated 1%-10%: weakness, anasarca, chills
+
+Estimated 0.1%-1%: malaise
 
 Blood and Lymphatic System Disorders:
 
-Estimated 1%-10%: pancytopenia, febrile neutropenia, lymphopenia, eosinophilia Estimated 0.1%-1%: thrombocythemia, bone marrow depression, lymphadenopathy Estimated 0.01%-0.1%: hemolytic anemia, aplastic anemia
+Estimated 1%-10%: pancytopenia, febrile neutropenia, lymphopenia, eosinophilia
+
+Estimated 0.1%-1%: thrombocythemia, bone marrow depression, lymphadenopathy
+
+Estimated 0.01%-0.1%: hemolytic anemia, aplastic anemia
 
 Hepatobiliary Disorders:
 
 Estimated 0.1%-1%: hepatitis, jaundice
 
-Estimated 0.01%-0.1%: hepatic failure and hepatic necrosis1
+Estimated 0.01%-0.1%: hepatic failure and hepatic necrosis 1
 
 Immune System Disorders:
 
@@ -650,7 +654,9 @@ Estimated 0.01%-0.1%: angioedema
 
 Infections and Infestations:
 
-Estimated 0.1%-1%: sepsis, herpes simplex, herpes zoster, cellulitis, urinary tract infection, gastroenteritis Estimated 0.01%-0.1%: fungal infection
+Estimated 0.1%-1%: sepsis, herpes simplex, herpes zoster, cellulitis, urinary tract infection, gastroenteritis
+
+Estimated 0.01%-0.1%: fungal infection
 
 Metabolism and Nutrition Disorders:
 
@@ -670,7 +676,7 @@ Estimated 1%-10%: paresthesia, hypesthesia
 
 Estimated 0.1%-1%: syncope, peripheral neuropathy, somnolence, migraine, memory impairment, libido decreased, sciatica, restless leg syndrome, tremor
 
-Estimated 0.01%-0.1%: increased intracranial pressure1, confusional state, convulsions, optic neuritis
+Estimated 0.01%-0.1%: increased intracranial pressure 1, confusional state, convulsions, optic neuritis
 
 Renal and Urinary Disorders:
 
@@ -682,7 +688,9 @@ Estimated 0.1%-1%: breast enlargement, menorrhagia, sexual dysfunction, gynecoma
 
 Respiratory, Thoracic and Mediastinal Disorders:
 
-Estimated 1%-10%: epistaxis Estimated 0.1%-1%: pleural effusion
+Estimated 1%-10%: epistaxis
+
+Estimated 0.1%-1%: pleural effusion
 
 Estimated 0.01%-0.1%: interstitial pneumonitis, pulmonary fibrosis, pleuritic pain, pulmonary hypertension, pulmonary hemorrhage
 
@@ -696,7 +704,7 @@ Estimated 1%-10%: conjunctivitis, vision blurred, orbital edema, conjunctival he
 
 Estimated 0.1%-1%: vertigo, tinnitus, eye irritation, eye pain, scleral hemorrhage, retinal hemorrhage, blepharitis, macular edema, hearing loss, cataract
 
-Estimated 0.01%-0.1%: papilledema1, glaucoma
+Estimated 0.01%-0.1%: papilledema 1, glaucoma
 
 1Including some fatalities.
 
@@ -707,21 +715,21 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Blood and Lymphatic System Disorders: thrombotic microangiopathy
 
-Cardiac Disorders: pericarditis, cardiac tamponade1
+Cardiac Disorders: pericarditis, cardiac tamponade 1
 
 Eye Disorders: vitreous hemorrhage
 
-Gastrointestinal Disorders: ileus/intestinal obstruction, tumor hemorrhage/tumor necrosis, GI perforation1[see Warnings and Precautions (5.6)], diverticulitis, gastric antral vascular ectasia
+Gastrointestinal Disorders: ileus/intestinal obstruction, tumor hemorrhage/tumor necrosis, GI perforation 1 [see Warnings and Precautions (5.6)], diverticulitis, gastric antral vascular ectasia
 
-Infections: hepatitis B virus reactivation1
+Infections: hepatitis B virus reactivation 1
 
-Musculoskeletal and Connective Tissue Disorders: osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthralgia, bone pain)
+Musculoskeletal and Connective Tissue Disorders: osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthralgia, bone pain), bone marrow edema
 
-Nervous System Disorders: cerebral edema1
+Nervous System Disorders: cerebral edema 1
 
 Reproduction Disorders: hemorrhagic corpus luteum/hemorrhagic ovarian cyst
 
-Respiratory, Thoracic and Mediastinal Disorders: acute respiratory failure1, interstitial lung disease
+Respiratory, Thoracic and Mediastinal Disorders: acute respiratory failure 1, interstitial lung disease
 
 Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxic epidermal necrolysis, palmar-plantar erythrodysesthesia syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), pseudoporphyria, pemphigus
 

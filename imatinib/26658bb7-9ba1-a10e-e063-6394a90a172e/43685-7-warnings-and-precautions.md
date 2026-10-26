@@ -10,7 +10,6 @@ Severe superficial edema was reported in 1.5% of newly diagnosed CML patients ta
 In addition, other severe fluid retention (e.g., pleural effusion, pericardial effusion, pulmonary edema, and ascites) reactions were reported in 1.3% of newly diagnosed CML patients taking imatinib, and in 2% to 6% of other adult CML patients taking imatinib.
 Severe fluid retention was reported in 9% to 13.1% of patients taking imatinib for GIST [see Adverse Reactions (6.1)].
 In a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase comparing imatinib and nilotinib, severe (Grade 3 or 4) fluid retention occurred in 2.5% of patients receiving imatinib and in 3.9% of patients receiving nilotinib 300 mg twice daily.
-
 Effusions (including pleural effusion, pericardial effusion, ascites) or pulmonary edema were observed in 2.1% (none were Grade 3 or 4) of patients in the imatinib arm and 2.2% (0.7% Grade 3 or 4) of patients in the nilotinib 300 mg twice daily arm.
 
 ## 5.2 Hematologic Toxicity
@@ -28,7 +27,6 @@ Cardiac adverse reactions were more frequent in patients with advanced age or co
 In an international randomized Phase 3 study in 1106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking imatinib compared to 0.9% of patients taking IFN + Ara-C.
 In another randomized trial with newly diagnosed Ph+ CML patients in chronic phase that compared imatinib and nilotinib, cardiac failure was observed in 1.1% of patients in the imatinib arm and 2.2% of patients in the nilotinib 300 mg twice daily arm and severe (Grade 3 or 4) cardiac failure occurred in 0.7% of patients in each group.
 Carefully monitor patients with cardiac disease or risk factors for cardiac or history of renal failure.
-
 Evaluate and treat any patient with signs or symptoms consistent with cardiac or renal failure.
 
 ## 5.4 Hepatotoxicity
@@ -39,7 +37,6 @@ Monitor liver function (transaminases, bilirubin, and alkaline phosphatase) befo
 Manage laboratory abnormalities with Imkeldi interruption and/or dose reduction [see Dosage and Administration (2.13)].
 When imatinib is combined with chemotherapy, liver toxicity in the form of transaminase elevation and hyperbilirubinemia has been observed.
 Additionally, there have been reports of acute liver failure.
-
 Monitoring of hepatic function is recommended.
 
 ## 5.5 Hemorrhage
@@ -109,7 +106,7 @@ Recommend caution when driving a car or operating machinery.
 ## 5.14 Renal Toxicity
 
 A decline in renal function may occur in patients receiving Imkeldi.
-Median estimated glomerular filtration rate (eGFR) values in patients on imatinib 400 mg daily for newly-diagnosed CML (four randomized trials) and malignant GIST (one single-arm trial) declined from a baseline value of 85 mL/min/1.73 m2 (N = 1190) to 75 mL/min/1.73 m2 at 12 months (N = 1082) and 69 mL/min/1.73 m2 at 60 months (N = 549).
+Median estimated glomerular filtration rate (eGFR) values in patients on imatinib 400 mg daily for newly-diagnosed CML (four randomized trials) and malignant GIST (one single-arm trial) declined from a baseline value of 85 mL/min/1.73 m 2(N = 1190) to 75 mL/min/1.73 m 2at 12 months (N = 1082) and 69 mL/min/1.73 m 2at 60 months (N = 549).
 Evaluate renal function prior to initiating Imkeldi and monitor during therapy, with attention to risk factors for renal dysfunction, such as preexisting renal impairment, diabetes mellitus, hypertension, and congestive heart failure.
 
 ## 5.15 Measuring Device

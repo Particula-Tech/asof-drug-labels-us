@@ -13,4 +13,4 @@ Store and dispense in original container only.
 Any open bottle should be discarded after 30 days.
 
 Imkeldi is a hazardous drug.
-Follow applicable special handling and disposal procedures1.
+Follow applicable special handling and disposal procedures 1.

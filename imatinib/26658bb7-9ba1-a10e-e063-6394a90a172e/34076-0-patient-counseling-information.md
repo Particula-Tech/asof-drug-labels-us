@@ -15,7 +15,7 @@ Advise patients to immediately contact their health care provider if signs of li
 Embryo-Fetal Toxicity
 
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
-Advise females of reproductive potential to inform their healthcare provider if they are pregnant or become pregnant [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+Advise females of reproductive potential to inform their healthcare provider if they are pregnant or become pregnant [see Warnings and Precautions (5.10)and Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during treatment with Imkeldi and for 14 days after the last dose [see Use in Specific Populations (8.3)].
 
 Lactation
@@ -57,4 +57,4 @@ Cambridge, MA 02142, USA
 
 Patent Information: U.S. Patent: 11,957,681
 
-Version: IMAPI007
+Version: IMAPI012
