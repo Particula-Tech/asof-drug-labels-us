@@ -28,3 +28,6 @@ Limited
 Manufactured by:
 
 OneSource Specialty Pharma Limited Sterile Product Division, Opp IIM, Bilekahalli, Bannerghatta Road, Bengaluru, India 560076 and Steriscience SP Z O O Ul Daniszewska 10, Warszawa, Mazowieckie 03-230, Poland (POL)
+
+Rev.
+09/2026

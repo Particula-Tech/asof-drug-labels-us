@@ -11,7 +11,7 @@ Table 1 Recommended Adult Dosage for the Prevention of Nausea and Vomiting Assoc
 | --- | --- | --- | --- | --- |
 | FOCINVEZ a | 150 mg intravenously over 20 to 30 minutes | none | none | none |
 | Dexamethasone b | 12 mg orally | 8 mg orally | 8 mg orally twice daily | 8 mg orally twice daily |
-| 5-HT 3antagonist | See selected 5-HT 3antagonist prescribing information for the recommended dosage | none | none | none |
+| 5-HT 3 antagonist | See selected 5-HT 3antagonist prescribing information for the recommended dosage | none | none | none |
 
 a The concentration of FOCINVEZ is 3 mg/mL
 
@@ -53,7 +53,7 @@ Table 3 FOCINVEZ Single Dose Regimen for the Prevention of Nausea and Vomiting A
 |  | 2 Years to less than 12 Years | 4 mg/kg (maximum dose 150 mg) intravenously over 60 minutes |
 |  | 6 Months to less than 2 Years | 5 mg/kg (maximum dose 150 mg) intravenously over 60 minutes |
 | Dexamethasone c | 6 Months to 17 Years | If a corticosteroid, such as dexamethasone, is co-administered, administer 50% of the recommended corticosteroid dose on Days 1 and 2. |
-| 5-HT 3antagonist | 6 Months to 17 Years | See selected 5-HT 3antagonist prescribing information for the recommended dosage |
+| 5-HT 3 antagonist | 6 Months to 17 Years | See selected 5-HT 3 antagonist prescribing information for the recommended dosage |
 
 a Dosing in pediatric patients less than 6 kg is not recommended
 
@@ -75,7 +75,7 @@ Table 4.
 | 6 Months to Less than 12 Years | FOCINVEZ | 3 mg/kg (maximum dose 115 mg) intravenously over 60 minutes | - | - |
 |  | Aprepitant for oral suspension d | - | 2 mg/kg orally (maximum 80 mg) | 2 mg/kg orally (maximum 80 mg) |
 | 6 Months to 17 Years | Dexamethasone e | If a corticosteroid, such as dexamethasone, is co-administered, administer 50% of the recommended corticosteroid dose on Days 1 through 4 |  |  |
-| 6 Months to 17 Years | 5-HT 3 antagonist | See selected 5-HT 3antagonist prescribing information for the recommended dosage |  |  |
+| 6 Months to 17 Years | 5-HT 3 antagonist | See selected 5-HT 3 antagonist prescribing information for the recommended dosage |  |  |
 
 a Dosing in pediatric patients less than 6 kg is not recommended b The concentration of FOCINVEZ is 3 mg/mL. c For patients 12 years to 17 years who cannot swallow oral capsules, aprepitant for oral suspension can be used instead. d For patients less than 12 years of age who weigh at least 40 kg and who are able to swallow oral capsules, aprepitant capsules can be used on Days 2 and 3. e Administer dexamethasone 30 minutes prior to chemotherapy treatment on Day 1.
 
@@ -104,7 +104,7 @@ In patients 6 months to less than 12 years, the volume to be administered is cal
 - * The recommended dose of FOCINVEZ is based on the patient’s age and weight.
   The concentration of FOCINVEZ is 3 mg/mL.
 - Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
-  Do not use if solution is cloudy, contains precipitates, or if the red flip top cap is not intact.
+  Do not use if solution is cloudy, contains precipitates, or if the flip top cap is not intact.
 - Allow FOCINVEZ to come to room temperature before use if the injection is NOT stored at room temperature.
 - Use a vented infusion set when FOCINVEZ is infused from the bottle.
 - The vial hanger can be separated from the vial label.
