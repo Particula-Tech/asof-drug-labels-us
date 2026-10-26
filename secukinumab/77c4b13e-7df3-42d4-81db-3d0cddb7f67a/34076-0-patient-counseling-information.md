@@ -27,7 +27,7 @@ Instruct patients to inform the healthcare practitioner that they are taking COS
 
 Instructions on Subcutaneous Injection Technique
 
-If a patient or caregiver is to subcutaneously administer COSENTYX, instruct him/her in injection techniques and assess their ability to inject subcutaneously to ensure the proper administration of COSENTYX [see Dosage and Administration (2.2, 2.10), Medication Guide, and Instructions for Use].
+If a patient or caregiver is to subcutaneously administer COSENTYX, instruct him/her in injection techniques and assess their ability to inject subcutaneously to ensure the proper administration of COSENTYX [see Dosage and Administration (2.2, 2.12), Medication Guide, and Instructions for Use].
 
 For pediatric patients, inform patients and caregivers that pediatric patients should not self-administer COSENTYX.
 
@@ -47,4 +47,4 @@ US License Number 1244
 
 © Novartis
 
-T2026-32
+T2026-39

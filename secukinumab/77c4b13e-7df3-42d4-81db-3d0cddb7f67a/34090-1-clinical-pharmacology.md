@@ -11,7 +11,6 @@ Secukinumab inhibits the release of proinflammatory cytokines and chemokines.
 Elevated levels of IL-17A are found in psoriatic plaques and in HS lesions.
 Treatment with COSENTYX may reduce epidermal neutrophils and IL-17A levels in psoriatic plaques.
 Serum levels of total IL-17A (free and secukinumab-bound IL-17A) measured at Week 4 and Week 12 were increased following secukinumab treatment.
-These pharmacodynamic activities are based on small exploratory trials.
 The relationship between these pharmacodynamic activities and the mechanism(s) by which secukinumab exerts its clinical effects is unknown.
 
 Increased numbers of IL-17A producing lymphocytes and innate immune cells and increased levels of IL-17A have been found in the blood of patients with PsA and AS.
@@ -36,7 +35,6 @@ Absorption
 Following a single subcutaneous dose of either 150 mg or 300 mg (administered as two injections of 150 mg) of COSENTYX in PsO subjects, secukinumab reached peak mean (± SD) serum concentrations (Cmax) of 13.7 ± 4.8 mcg/mL and 27.3 ± 9.5 mcg/mL, respectively, by approximately 6 days post dose.
 
 Following multiple subcutaneous doses of COSENTYX (administered as one or two injections of 150 mg), the mean (± SD) serum trough concentrations of secukinumab ranged from 22.8 ± 10.2 mcg/mL (150 mg) to 45.4 ± 21.2 mcg/mL (300 mg) at Week 12.
-At the 300 mg dose at Week 4 and Week 12, the mean trough concentrations resulted from the Sensoready pen were approximately 30% higher than those from the prefilled syringe.
 Following multiple subcutaneous doses of 300 mg administered via the UnoReady pen, the mean serum trough concentrations of secukinumab were generally consistent with those in the previous Sensoready pen study used to deliver 300 mg.
 
 Steady-state concentrations of secukinumab were achieved by Week 24 following the every 4-week dosing regimen.
@@ -92,7 +90,7 @@ Subjects who are 65 years and older had apparent clearance of secukinumab simila
 Pediatric Patients
 
 In a pool of the two pediatric trials, subjects with moderate to severe PsO (6 years of age and older) were administered subcutaneous COSENTYX at the recommended pediatric dosing regimen.
-At Week 24, secukinumab steady state mean ± SD serum trough concentrations were 32.6 ± 10.8 mcg/mL (n = 8), 19.8 ± 6.96 mcg/mL (n = 24), and 27.3 ± 10.1 mcg/mL (n = 36), in subjects who weighed less than 25 kg and received 75 mg of subcutaneous COSENTYX, subjects who weighed at least 25 kg and less than 50 kg and received 75 mg of subcutaneous COSENTYX, and subjects who weighed at least 50 kg and received 150 mg of subcutaneous COSENTYX, respectively.
+At Week 24, secukinumab steady-state mean ± SD serum trough concentrations were 32.6 ± 10.8 mcg/mL (n = 8), 19.8 ± 6.96 mcg/mL (n = 24), and 27.3 ± 10.1 mcg/mL (n = 36), in subjects who weighed less than 25 kg and received 75 mg of subcutaneous COSENTYX, subjects who weighed at least 25 kg and less than 50 kg and received 75 mg of subcutaneous COSENTYX, and subjects who weighed at least 50 kg and received 150 mg of subcutaneous COSENTYX, respectively.
 
 In a pediatric trial, JPsA and ERA patients (2 to less than 18 years of age) were administered subcutaneous COSENTYX at the recommended pediatric dosing regimen.
 At Week 24, patients who weighed at least 15 kg and less than 50 kg, and patients who weighed at least 50 kg had a mean ± SD steady-state trough concentration of 25.2 ± 5.45 mcg/mL (n = 10) and 27.9 ± 9.57 mcg/mL (n = 19), respectively.
@@ -108,9 +106,15 @@ Cytochrome P450 Substrates
 
 In adult subjects with PsO, midazolam (CYP3A4 substrate) PK was similar when administered alone, or when administered following either a single or five weekly subcutaneous administrations of 300 mg of COSENTYX [see Drug Interactions (7)].
 
-Pharmacokinetics Following Intravenous Administration
+Pharmacokinetics Following Intravenous Administration in Patients with PsA, AS, and nr-axSpA
 
-Following an intravenous administration of 1.75 mg/kg maintenance dose every 4 weeks, with or without a loading dose of 6 mg/kg at Day 0, the secukinumab concentrations [steady state trough secukinumab concentrations (Cmin,ss), mean secukinumab concentrations (Cavg,ss), and maximum secukinumab concentrations (Cmax,ss)] are estimated to be within the range of the steady state concentrations following subcutaneous administration of 150 mg and 300 mg doses of COSENTYX administered every 4 weeks.
+Population pharmacokinetic modeling estimated secukinumab concentrations following an intravenous administration of 1.75 mg/kg maintenance dose every 4 weeks, with or without a loading dose of 6 mg/kg at Day 0.
+These secukinumab concentrations [steady-state trough secukinumab concentrations (Cmin,ss), mean secukinumab concentrations (Cavg,ss), and maximum secukinumab concentrations (Cmax,ss)] are estimated to be within the range of the steady-state concentrations following subcutaneous administration of 150 mg and 300 mg doses of COSENTYX administered every 4 weeks.
+
+Pharmacokinetics Following Intravenous Administration in Patients with HS
+
+Population pharmacokinetic modeling estimated secukinumab concentrations following an intravenous administration of a 4.5 mg/kg loading dose of COSENTYX at Weeks 0, 2, and 4, followed by a 1.5 mg/kg maintenance dose of COSENTYX every 2 weeks.
+These concentrations (Cmax,ss, Cmin,ss, and Cavg,ss) are estimated to be within the range of the steady-state concentrations following subcutaneous administration of the 300 mg dose of COSENTYX administered every 2 weeks and every 4 weeks.
 
 ## 12.6 Immunogenicity
 
@@ -121,6 +125,6 @@ The immunogenicity of COSENTYX was evaluated using an electrochemiluminescence-b
 Less than 1% of subjects treated with COSENTYX developed antibodies to secukinumab in up to 52 weeks of treatment.
 However, this assay has limitations in detecting anti-secukinumab antibodies in the presence of secukinumab; therefore, the incidence of antibody development might not have been reliably determined.
 
-In up to 52 weeks of treatment in controlled trials in adult patients with PsO, PsA, AS, nr-axSpA, HS, and in pediatric patients with PsO, JPsA and ERA [see Clinical Studies (14)], the incidence of anti-secukinumab antibodies (referred as ADA) formation was less than 1% (25 of 6268 total of subjects treated with COSENTYX).
+In up to 52 weeks of treatment with subcutaneous COSENTYX in controlled trials in adult patients with PsO, PsA, AS, nr-axSpA, HS, and in pediatric patients with PsO, JPsA and ERA [see Clinical Studies (14)], the incidence of anti-secukinumab antibodies (referred as ADA) formation was less than 1% (25 of 6268 total of subjects treated with COSENTYX).
 Of the subjects treated with COSENTYX who developed ADA, approximately 8% developed neutralizing antibodies.
 Because of the low occurrence of ADA, the effect of these antibodies on pharmacokinetics, pharmacodynamics, safety, or effectiveness of COSENTYX is unknown.

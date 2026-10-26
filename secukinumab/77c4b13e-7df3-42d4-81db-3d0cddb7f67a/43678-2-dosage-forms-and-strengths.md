@@ -9,4 +9,4 @@ Injection for subcutaneous use:
 
 Injection for intravenous use:
 
-- 125 mg/5 mL as a clear to opalescent, colorless to slightly yellowish solution in a single-dose vial for dilution prior to intravenous infusion (for healthcare professional use only).
+- 125 mg/5 mL (25 mg/mL) as a clear to opalescent, colorless to slightly yellowish solution in a single-dose vial for dilution prior to intravenous infusion (for healthcare professional use only).

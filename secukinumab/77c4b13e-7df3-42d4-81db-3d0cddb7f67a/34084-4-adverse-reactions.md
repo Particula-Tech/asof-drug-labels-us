@@ -145,7 +145,7 @@ There were no IBD cases in subjects treated with COSENTYX 300 mg every 4 weeks.
 
 Adverse Reactions of Intravenous COSENTYX
 
-The safety of intravenous COSENTYX is based on the pharmacokinetic exposure and extrapolation of the established safety of subcutaneous COSENTYX in PsA, AS and nr-axSpA patients [see Clinical Pharmacology (12.3)].
+The safety of intravenous COSENTYX for the treatment of adult patients with active PsA, active AS, active nr-axSpA, and moderate to severe HS was extrapolated from the known safety of subcutaneous COSENTYX in adult patients with active PsA, active AS, active nr-axSpA, and moderate to severe HS based on pharmacokinetic exposure [see Clinical Pharmacology (12.3)].
 
 ## 6.2 Postmarketing Experience
 

@@ -23,7 +23,7 @@ COSENTYX injection for intravenous use
 
 | Strength | Dosage Form | Carton Contents | NDC |
 | --- | --- | --- | --- |
-| 125 mg/5 mL | COSENTYX vial | 1 vial of solution for dilution prior to intravenous infusion | 0078-1168-61 |
+| 125 mg/5 mL (25 mg/mL) | COSENTYX vial | 1 vial of solution for dilution prior to intravenous infusion | 0078-1168-61 |
 
 Storage and Handling
 

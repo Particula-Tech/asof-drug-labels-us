@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Adult Plaque Psoriasis
+## 14.1 Clinical Trials in Adults with Moderate to Severe Plaque Psoriasis
 
 Four multicenter, randomized, double-blind, placebo-controlled trials of subcutaneous COSENTYX (Trials PsO1, PsO2, PsO3, and PsO4) enrolled 2,403 subjects (691 randomized to COSENTYX 300 mg, 692 to COSENTYX 150 mg, 694 to placebo, and 323 to a biologic active control) 18 years of age and older with PsO who had a minimum BSA involvement of 10%, and Psoriasis Area and Severity Index (PASI) score greater than or equal to 12, and who were candidates for phototherapy or systemic therapy.
 In these studies, each 300 mg dose was administered as two injections of 150 mg.
@@ -38,7 +38,7 @@ Clinical Response
 
 The results of Trials PsO1 and PsO2 are presented in Table 3.
 
-Table 3: Clinical Outcomes at Week 12 in Adults With PsO in Trials PsO1 and PsO2 (Subcutaneous Treatment)
+Table 3: Clinical Outcomes at Week 12 in Adults with Moderate to Severe PsO in Trials PsO1 and PsO2 (Subcutaneous Treatment)
 
 |  | Trial PsO1 |  |  | Trial PsO2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -48,7 +48,7 @@ Table 3: Clinical Outcomes at Week 12 in Adults With PsO in Trials PsO1 and PsO2
 
 The results of Trials PsO3 and PsO4 are presented in Table 4.
 
-Table 4: Clinical Outcomes at Week 12 in Adults With PsO in Trials PsO3 and PsO4 (Subcutaneous Treatment)
+Table 4: Clinical Outcomes at Week 12 in Adults with Moderate to Severe PsO in Trials PsO3 and PsO4 (Subcutaneous Treatment)
 
 |  | Trial PsO3 |  |  | Trial PsO4 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ The proportions of subjects achieving an IGA scalp only score of 0 or 1 (clear o
 Two randomized, double-blind, placebo-controlled, 52-week trials (PsO6 and PsO7) enrolled 336 subjects at least 18 years of age with moderate to severe PsO who are candidates for systemic therapy or phototherapy to evaluate the safety and efficacy of COSENTYX 300 mg subcutaneously administered with a single 300 mg/2 mL prefilled syringe (Trial PsO6, NCT02748863, 214 patients) or with a single 300 mg/2 mL UnoReady pen (Trial PsO7, NCT03589885, 122 patients) compared to two subcutaneous injections using a 150 mg/1 mL prefilled syringe.
 The co-primary endpoints for both trials were the proportion of subjects who achieved a PASI 75 response and IGA mod 2011 ‘clear’ or ‘almost clear’ response with at least a two-grade reduction from baseline at Week 12.
 
-Table 5: Clinical Outcomes at Week 12 in Adults With PsO in Trials PsO6 and PsO7 (Subcutaneous Treatment)
+Table 5: Clinical Outcomes at Week 12 in Adults with Moderate to Severe PsO in Trials PsO6 and PsO7 (Subcutaneous Treatment)
 
 |  | Trial PsO6 |  |  | Trial PsO7 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -92,7 +92,7 @@ Table 5: Clinical Outcomes at Week 12 in Adults With PsO in Trials PsO6 and PsO7
 | PASI 90 response | 67 | 70 | 2 | 76 | 62 | 5 |
 | Abbreviation: PFS, prefilled syringe. Missing data was imputed using multiple imputation. |  |  |  |  |  |  |
 
-## 14.2 Pediatric Plaque Psoriasis
+## 14.2 Clinical Trials in Pediatric Subjects with Severe Plaque Psoriasis
 
 A 52-week, multicenter randomized, double-blind, placebo and active-controlled trial (Trial PsO8; NCT02471144) enrolled 162 pediatric subjects 6 years of age and older, with severe plaque psoriasis (as defined by a PASI score ≥ 20, an IGA modified 2011 score of 4, and involving ≥ 10% of the BSA) who were candidates for systemic therapy.
 
@@ -117,7 +117,7 @@ Clinical Response
 
 Table 6 presents the efficacy results at Week 12 by baseline weight strata for the approved dosage in Trial PsO8.
 
-Table 6: Clinical Outcomes at Week 12 in Pediatric Subjects With Severe PsO in Trial PsO8 (Subcutaneous Treatment)
+Table 6: Clinical Outcomes at Week 12 in Pediatric Subjects 6 Years of Age and Older with Severe PsO in Trial PsO8 (Subcutaneous Treatment)
 
 |  | Body weight < 50 kg |  | Body weight ≥ 50 kg |  | Total |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -127,9 +127,9 @@ Table 6: Clinical Outcomes at Week 12 in Pediatric Subjects With Severe PsO in T
 | PASI 90 response | 9 (41) | 1 (5) | 17 (81) | 0 (0) | 26 (60) | 1 (2) |
 | Non-responder imputation was used to handle missing values. aCOSENTYX treated subjects received 75 mg for subjects less than 50 kg and 150 mg for subjects at least 50 kg body weight. |  |  |  |  |  |  |
 
-## 14.3 Adult Psoriatic Arthritis
+## 14.3 Clinical Trials in Adults with Active Psoriatic Arthritis
 
-The safety and efficacy of COSENTYX were assessed in 1,999 patients, in 3 randomized, double-blind, placebo-controlled trials (PsA1, PsA2, and PsA3) in adult patients, age 18 years and older with active PsA (greater than or equal to 3 swollen and greater than or equal to 3 tender joints) despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease modifying anti-rheumatic drug (DMARD) therapy.
+The safety and efficacy of COSENTYX were assessed in 1,999 patients in 3 randomized, double-blind, placebo-controlled trials (PsA1, PsA2, and PsA3) in adult patients, age 18 years and older with active PsA (greater than or equal to 3 swollen and greater than or equal to 3 tender joints) despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid, or disease modifying anti-rheumatic drug (DMARD) therapy.
 Patients in these trials had a diagnosis of PsA of at least 5 years across all trials.
 
 - PsA1 Study (NCT 01752634) evaluated 397 patients, who were treated with 75 mg, 150 mg or 300 mg of COSENTYX (administered as two subcutaneous injections of 150 mg) at Weeks 0, 1, 2, 3, and 4, followed by the same subcutaneous dose every 4 weeks.
@@ -143,7 +143,7 @@ Patients in these trials had a diagnosis of PsA of at least 5 years across all t
 
 Baseline Disease Characteristics
 
-At baseline, over 61% and 42% of the patients had enthesitis and dactylitis, respectively.
+At baseline, over 61% and 42% of patients had enthesitis and dactylitis, respectively.
 Overall, 31% of patients discontinued previous treatment with anti-TNFα agents due to either lack of efficacy or intolerance.
 In addition, approximately 53% of patients from both studies had concomitant methotrexate (MTX) use.
 Patients with different subtypes of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (80%), asymmetric peripheral arthritis (63%), distal interphalangeal involvement (58%), spondylitis with peripheral arthritis (20%), and arthritis mutilans (7%).
@@ -156,7 +156,7 @@ Responses were seen regardless of prior anti-TNFα exposure.
 
 In patients with coexistent PsO receiving COSENTYX (n = 99), the skin lesions of psoriasis improved with treatment, relative to placebo, as measured by the Psoriasis Area Severity Index (PASI).
 
-Table 7: Responsesa in PsA1 Study at Week 16 and Week 24 (Subcutaneous Treatment)
+Table 7: Responsesa in Adults with Active PsA at Week 16 and Week 24 in PsA1 Study (Subcutaneous Treatment)
 
 |  | COSENTYX | COSENTYX | Placebo | Difference from placebo (95% CI) |  |
 | --- | --- | --- | --- | --- | --- |
@@ -175,13 +175,13 @@ Table 7: Responsesa in PsA1 Study at Week 16 and Week 24 (Subcutaneous Treatment
 The percentage of patients who achieved a ACR20 response by visit is shown in Figure 1.
 Patients on placebo who received COSENTYX without a loading regimen achieved similar ACR20 responses over time (data not shown).
 
-Figure 1: Percent of Adult Patients Who Achieved ACR 20 Responsea in PsA1 Study Through Week 24 (Subcutaneous Treatment)
+Figure 1: Percent of Adult Patients with Active PsA Who Achieved ACR 20 Responsea in PsA1 Study Through Week 24 (Subcutaneous Treatment)
 
 aPatients who met escape criteria (less than 20% improvement in tender or swollen joint counts) at Week 16 were considered non-responders.
 
 The improvements in the components of the ACR response criteria in the PsA1 study are shown in Table 8.
 
-Table 8: Mean Change From Baseline in ACR Components at Week 16a (PsA1 Study) (Subcutaneous Treatment)
+Table 8: Mean Change From Baseline in ACR Components in Adults with PsA at Week 16a (PsA1 Study) (Subcutaneous Treatment)
 
 |  | COSENTYX 150 mg (N = 100) | COSENTYX 300 mg (N = 100) | Placebo (N = 98) |
 | --- | --- | --- | --- |
@@ -236,10 +236,10 @@ Treatment of Adult Patients with Active Psoriatic Arthritis with Intravenous COS
 
 The effectiveness of intravenous COSENTYX in the treatment of adult patients with active PsA was extrapolated from the established effectiveness of subcutaneous COSENTYX in adult patients with active PsA based on pharmacokinetic exposure [see Clinical Pharmacology (12.3)].
 
-## 14.4 Ankylosing Spondylitis
+## 14.4 Clinical Trials in Adults with Active Ankylosing Spondylitis
 
 The safety and efficacy of subcutaneous COSENTYX were assessed in 816 adult patients (18 years of age and older) with active AS in three randomized, double-blind, placebo-controlled trials (AS1, AS2, and AS3).
-Patients had active disease as defined by the Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) greater or equal to 4 despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease modifying anti-rheumatic drug (DMARD) therapy.
+Patients had active disease as defined by the Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) greater or equal to 4 despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid, or disease modifying anti-rheumatic drug (DMARD) therapy.
 
 - AS1 Study (NCT01649375) evaluated 219 patients, who were treated with 75 mg or 150 mg of subcutaneous COSENTYX treatment at Weeks 0, 1, 2, 3, and 4, followed by the same dose every 4 weeks.
   At Week 16, patients who received placebo were re-randomized to either 75 mg or 150 mg of subcutaneous COSENTYX every 4 weeks.
@@ -262,7 +262,7 @@ Clinical Response
 In AS1, patients treated with 150 mg COSENTYX demonstrated greater improvements in ASAS20 and ASAS40 responses compared to patients treated with placebo at Week 16 (Table 10).
 Responses were similar in patients regardless of concomitant therapies.
 
-Table 10: ASAS20 and ASAS40 Responses in All AS Patients at Week 16 in Study AS1 (Subcutaneous Treatment)
+Table 10: ASAS20 and ASAS40 Responses in All Adults with Active AS at Week 16 in Study AS1 (Subcutaneous Treatment)
 
 |  | COSENTYX 150 mg (n = 72) | Placebo (n = 74) | Difference from placebo (95% CI) |
 | --- | --- | --- | --- |
@@ -271,7 +271,7 @@ Table 10: ASAS20 and ASAS40 Responses in All AS Patients at Week 16 in Study AS1
 
 The improvements in the main components of the ASAS20 response criteria and other measures of disease activity are shown in Table 11.
 
-Table 11: ASAS20 Components and Other Measures of Disease Activity at Week 16 (AS1 Study) (Subcutaneous Treatment)
+Table 11: ASAS20 Components and Other Measures of Disease Activity in Adults with Active AS at Week 16 (AS1 Study) (Subcutaneous Treatment)
 
 |  | COSENTYX 150 mg (N = 72) |  | Placebo (N = 74) |  |
 | --- | --- | --- | --- | --- |
@@ -289,7 +289,7 @@ Table 11: ASAS20 Components and Other Measures of Disease Activity at Week 16 (A
 The percentage of patients who achieved ASAS20 responses by visit is shown in Figure 2.
 Patients on placebo who received COSENTYX without a loading regimen achieved similar ASAS20 responses over time (data not shown).
 
-Figure 2: ASAS20 Responses in All AS1 Study Patients Over Time Up to Week 16 (Subcutaneous Treatment)
+Figure 2: ASAS20 Responses in All Adults with Active AS Over Time Up to Week 16 in AS1 Study (Subcutaneous Treatment)
 
 In AS3 Study, patients treated with subcutaneous COSENTYX (150 mg and 300 mg) demonstrated improved signs and symptoms, and had comparable efficacy responses, regardless of dose, that were superior to placebo at Week 16 for the primary and most secondary endpoints.
 At Week 16, the ASAS20 and ASAS40 responses were 58.1% and 40.5% for 150 mg and 60.5% and 42.1% for 300 mg, respectively.
@@ -297,13 +297,13 @@ The percent of patients achieving ASAS20 responses by visit is shown in Figure 3
 
 COSENTYX treated patients showed improvement compared to placebo-treated patients in health-related quality of life as assessed by ASQoL at Week 16.
 
-Figure 3: ASAS20 Responses in All AS3 Study Patients Over Time Up to Week 16 (Subcutaneous Treatment)
+Figure 3: ASAS20 Responses in All Adult with Active AS Over Time Up to Week 16 in AS3 Study (Subcutaneous Treatment)
 
 Treatment of Adult Patients with Active Ankylosing Spondylitis with Intravenous COSENTYX
 
 The effectiveness of intravenous COSENTYX in the treatment of adult patients with active AS was extrapolated from the established effectiveness of subcutaneous COSENTYX in adult patients with active AS based on pharmacokinetic exposure [see Clinical Pharmacology (12.3)].
 
-## 14.5 Non-Radiographic Axial Spondyloarthritis
+## 14.5 Clinical Trials in Adults with Active Non-Radiographic Axial Spondyloarthritis
 
 The safety and efficacy of COSENTYX were assessed in 555 adult patients (18 years of age and older) with active nr-axSpA in one randomized, double-blind, placebo-controlled Phase 3 study (nr-axSpA1, NCT02696031).
 Patients met ASAS criteria for axSpA with objective signs of inflammation and had active disease as defined by a BASDAI greater or equal to 4, a Visual Analogue Scale (VAS) for total back pain greater or equal to 40 (on a scale of 0-100 mm) despite NSAID therapy and no evidence of radiographic changes in the sacroiliac joints that would meet the modified New York criteria for AS.
@@ -324,7 +324,7 @@ Clinical Response
 
 In nr-axSpA1 Study, treatment with COSENTYX 150 mg resulted in significant improvements in the measure of disease activity compared to treatment with placebo at Week 16 and Week 52 (Table 12).
 
-Table 12: Clinical Response in the nr-axSpA1 Study at Week 16 and Week 52 (Subcutaneous Treatment)
+Table 12: Clinical Response in Adults with Active nr-axSpA at Week 16 and Week 52 in nr-axSpA1 (Subcutaneous Treatment)
 
 | Number of subjects with ASAS40 response (%) | COSENTYX 150 mg without load (n = 184) | COSENTYX 150 mg with load (n = 185) |  | Difference from placebo (95% CI) |  |
 | --- | --- | --- | --- | --- | --- |
@@ -335,7 +335,7 @@ Table 12: Clinical Response in the nr-axSpA1 Study at Week 16 and Week 52 (Subcu
 
 The results of the main components of the ASAS40 response criteria in the nr-axSpA1 Study are shown in Table 13.
 
-Table 13: Main Components of the ASAS40 Response Criteria and Other Measures of Disease Activity in nr-axSpA Patients at Baseline and Week 16 in the nr-axSpA1 Study (Subcutaneous Treatment)
+Table 13: Main Components of the ASAS40 Response Criteria and Other Measures of Disease Activity in Adults with Active nr-axSpA at Baseline and Week 16 in nr-axSpA1 Study (Subcutaneous Treatment)
 
 |  | COSENTYX 150 mg without loading dosage (N = 184) |  | COSENTYX 150 mg with a loading dosage (N = 185) |  | Placebo (N = 186) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -353,7 +353,7 @@ Table 13: Main Components of the ASAS40 Response Criteria and Other Measures of 
 
 The percentage of patients achieving an ASAS40 response by visit is shown in Figure 4.
 
-Figure 4: ASAS40 Responses in nr-axSpA1 Study Over Time up to Week 16 (Subcutaneous Treatment)
+Figure 4: ASAS40 Responses in Adults with Active nr-axSpA Over Time up to Week 16 in nr-axSpA1 Study (Subcutaneous Treatment)
 
 Health-Related Quality of Life
 
@@ -363,7 +363,7 @@ Treatment of Adult Patients with Active Non-radiographic Axial Spondyloarthritis
 
 The effectiveness of intravenous COSENTYX in the treatment of adult patients with active nr-axSpA was extrapolated from the established effectiveness of subcutaneous COSENTYX in adult patients with active nr-axSpA based on pharmacokinetic exposure [see Clinical Pharmacology (12.3)].
 
-## 14.6 Juvenile Psoriatic Arthritis and Enthesitis-Related Arthritis
+## 14.6 Clinical Trials in Pediatric Subjects with Active Juvenile Psoriatic Arthritis and Enthesitis-Related Arthritis
 
 The efficacy and safety of subcutaneous secukinumab were assessed in a two-year, 3-part, double-blind, placebo-controlled, event-driven, randomized, Phase 3 study (NCT03031782) in 86 pediatric patients (2 to less than 18 years of age) with active ERA or JPsA as diagnosed based on a modified International League of Associations for Rheumatology (ILAR) Juvenile Idiopathic Arthritis (JIA) classification criteria.
 The trial consisted of an open-label portion (Part 1) followed by randomized withdrawal (Part 2) followed by open-label treatment (Part 3).
@@ -385,7 +385,7 @@ Clinical Response
 Similar responses were seen in each JIA subtype (JPsA and ERA).
 The JIA ACR 30, 50, 70, and 90 responses for patients with JPsA and ERA at Week 12 are presented below in Table 14.
 
-Table 14: JIA ACR 30, 50, 70, and 90 Responses at Week 12 (Subcutaneous Treatment)
+Table 14: JIA ACR 30, 50, 70, and 90 Responses in Pediatric Subjects with JPsA and ERA at Week 12 (Subcutaneous Treatment)
 
 | Number of subjects with response (%) | JIA ACR 30 | JIA ACR 50 | JIA ACR 70 | JIA ACR 90 |
 | --- | --- | --- | --- | --- |
@@ -397,7 +397,7 @@ Juvenile Psoriatic Arthritis Results
 During Part 2, a total of 11 JPsA patients in the placebo group experienced a flare event compared with 4 JPsA patients in the secukinumab group.
 The risk of flare was reduced by 85% for patients who received secukinumab compared with patients who received placebo (Hazard Ratio = 0.15, 95% CI: 0.04 to 0.56) (Figure 5).
 
-Figure 5: Kaplan-Meier Estimates of the Time to Disease Flare in Part 2 for JPsA Patients (Subcutaneous Treatment)
+Figure 5: Kaplan-Meier Estimates of the Time to Disease Flare in Part 2 for Pediatric Subjects with JPsA (Subcutaneous Treatment)
 
 Enthesitis-Related Arthritis Results
 
@@ -405,11 +405,11 @@ During Part 2, a total of 10 ERA patients in the placebo group experienced a fla
 The risk of flare was reduced by 53% for patients who received secukinumab compared with patients who received placebo (Hazard Ratio = 0.47, 95% CI: 0.17 to 1.32) (Figure 6).
 Supplementary analyses provided confirmatory evidence of the treatment effect in ERA.
 
-Figure 6: Kaplan-Meier Estimates of the Time to Disease Flare in Part 2 for ERA Patients (Subcutaneous Treatment)
+Figure 6: Kaplan-Meier Estimates of the Time to Disease Flare in Part 2 for Pediatric Subjects with ERA (Subcutaneous Treatment)
 
-## 14.7 Hidradenitis Suppurativa
+## 14.7 Clinical Trials in Adults with Moderate to Severe Hidradenitis Suppurativa
 
-Two randomized, double-blind, placebo-controlled 52-week Phase 3 trials (i.e., HS Trial 1 [NCT03713619] and HS Trial 2 [NCT03713632]) assessed the efficacy and safety of COSENTYX in the treatment of adult patients with moderate to severe hidradenitis suppurativa (HS).
+Two randomized, double-blind, placebo-controlled 52-week Phase 3 trials (i.e., HS Trial 1 [NCT03713619] and HS Trial 2 [NCT03713632]) assessed the efficacy and safety of COSENTYX in the treatment of adults with moderate to severe hidradenitis suppurativa (HS).
 In both trials, subjects were randomized to placebo or COSENTYX 300 mg by subcutaneous injection at Weeks 0, 1, 2, 3 and 4, followed by 300 mg every 2 weeks or every 4 weeks.
 At Week 16, subjects who were randomized to placebo were reassigned to receive COSENTYX 300 mg at Weeks 16, 17, 18, 19, and 20 followed by either COSENTYX 300 mg every 2 weeks (Q2W) or COSENTYX 300 mg every 4 weeks (Q4W).
 
@@ -433,10 +433,15 @@ For the primary endpoint, HiSCR50, subjects who received any rescue medication o
 
 Improvements were seen for the primary endpoint in HS subjects regardless of previous or concomitant antibiotic treatment or previous biologic exposure.
 
-Table 15: Clinical Response at Week 16 in Adults with Hidradenitis Suppurativa in HS Trial 1 and HS Trial 21
+Table 15: Clinical Response at Week 16 in Adults with Moderate to Severe Hidradenitis Suppurativa in HS Trial 1 and HS Trial 21
 
 |  | HS Trial 1 |  |  | HS Trial 2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Placebo (n = 180) | COSENTYX 300 mg every 4 weeks2 (n = 180) | COSENTYX 300 mg every 2 weeks2 (n = 181) | Placebo (n = 183) | COSENTYX 300 mg every 4 weeks2 (n = 180) | COSENTYX 300 mg every 2 weeks2 (n = 180) |
 | HiSCR50 | 29.4% | 41.3% | 44.5%* | 26.1% | 42.5%* | 38.3%* |
 | 1Multiple imputation was implemented for missing data. 2Subjects received COSENTYX 300 mg by subcutaneous injection at Weeks 0, 1, 2, 3 and 4, followed by 300 mg every 4 weeks (Q4W) or every 2 weeks (Q2W). *Statistically significant versus placebo based on the pre-defined hierarchy with overall alpha = 0.05 (two-sided). |  |  |  |  |  |  |
+
+Treatment of Adult Patients with Moderate to Severe Hidradenitis Suppurativa with Intravenous COSENTYX
+
+There were no clinical trials conducted with intravenous COSENTYX in adult subjects with moderate to severe HS.
+The effectiveness of intravenous COSENTYX in the treatment of adult patients with moderate to severe HS was extrapolated from the established effectiveness of subcutaneous COSENTYX in adult patients with moderate to severe HS based on pharmacokinetic exposure [see Clinical Pharmacology (12.3)].

@@ -5,9 +5,20 @@
 Risk Summary
 
 Limited available human data with COSENTYX use in pregnant women are insufficient to inform a drug-associated risk of adverse developmental outcomes.
+Monoclonal antibodies are actively transported across the placenta (see Clinical Considerations).
 In an embryo-fetal development study, no adverse developmental effects were observed in infants born to pregnant monkeys after subcutaneous administration of secukinumab during organogenesis at doses up to 30 times the maximum recommended human dose (MRHD) (see Data).
 
-The background risk of major birth defects and miscarriage for the indicated population is unknown; however, the background risk in the U.S. general population of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defects, loss, and other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Transport of endogenous IgG antibodies across the placenta increases as pregnancy progresses and peaks during the third trimester.
+Therefore, COSENTYX may be present in infants exposed in utero.
+The potential clinical impact of secukinumab exposure in infants exposed in utero should be considered.
 
 Data
 
@@ -31,21 +42,21 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Subcutaneous Administration
 
-Pediatric Plaque Psoriasis
+Pediatric Moderate to Severe Plaque Psoriasis
 
 The safety and effectiveness of COSENTYX have been established for the treatment of moderate to severe PsO in pediatric patients aged 6 years and older who are candidates for systemic therapy or phototherapy [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
 
 The safety and effectiveness of COSENTYX in pediatric patients with PsO below the age of 6 years old have not been established.
 
-Juvenile Psoriatic Arthritis
+Active Juvenile Psoriatic Arthritis
 
 The safety and effectiveness of COSENTYX have been established for the treatment of active JPsA in pediatric patients aged 2 years and older who weigh 15 kg or more [see Adverse Reactions (6.1) and Clinical Studies (14.6)].
 
 The safety and effectiveness of COSENTYX in pediatric patients with JPsA below the age of 2 years old or with a body weight less than 15 kg have not been established.
 
-Juvenile Ankylosing Spondylitis
+Active Juvenile Ankylosing Spondylitis
 
-The safety and effectiveness of COSENTYX have been established for treatment of JAS in pediatric patients 12 years of age and older.
+The safety and effectiveness of COSENTYX have been established for treatment of active JAS in pediatric patients 12 years of age and older.
 Use of COSENTYX for this indication is supported by safety and efficacy data from adequate and well-controlled trials in adult subjects with AS.
 Additional evidence includes pharmacokinetic data from adult subjects with PsO, PsA, and AS and pediatric subjects with PsO, JPsA, and ERA, as well as safety data from clinical trials in pediatric subjects with PsO, JPsA, and ERA.
 The pharmacokinetics are predicted to be comparable between adult AS and pediatric subjects with JAS [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.4)].
@@ -58,13 +69,13 @@ Six pediatric patients with axial symptoms were participants in a study for JPsA
 Due to the limited number of patients and uncertainty fulfilling Axial Juvenile Spondyloarthritis (AxJSpA) classification criteria, the effectiveness and safety of COSENTYX in AxJSpA has not been established.
 Safety was comparable to pediatric patients treated with COSENTYX for JPsA and ERA [see Adverse Reactions (6.1)].
 
-Enthesitis-Related Arthritis
+Active Enthesitis-Related Arthritis
 
 The safety and effectiveness of COSENTYX have been established for the treatment of active ERA in pediatric patients aged 4 years and older who weigh 15 kg or more [see Adverse Reactions (6.1) and Clinical Studies (14.6)].
 
 The safety and effectiveness of COSENTYX in pediatric patients with ERA below the age of 4 years old or with body weight less than 15 kg have not been established.
 
-Hidradenitis Suppurativa
+Moderate to Severe Hidradenitis Suppurativa
 
 The safety and effectiveness of COSENTYX have been established for the treatment of moderate to severe HS in pediatric patients 12 years of age and older who weigh 30 kg or more.
 Use of COSENTYX for this indication is supported by safety and efficacy data from adequate and well-controlled trials in adult subjects with moderate to severe HS.
@@ -81,5 +92,5 @@ The safety and effectiveness of intravenous COSENTYX in pediatric patients have 
 Of the 3,430 PsO subjects exposed to subcutaneous COSENTYX in clinical trials, a total of 230 (7%) were 65 years of age and older, and 32 (1%) subjects were 75 years of age and older.
 Although no differences in safety or efficacy were observed between subjects 65 years of age and older and younger adult subjects, the number of subjects 65 years of age and older was not sufficient to determine whether they respond differently from younger adult subjects.
 
-Of the 1,060 subjects with HS exposed to COSENTYX in clinical trials, a total of 14 (1.3%) were 65 years of age and older.
+Of the 1,060 subjects with HS exposed to subcutaneous COSENTYX in clinical trials, a total of 14 (1.3%) were 65 years of age and older.
 Clinical trials in HS did not include sufficient numbers of subjects 65 years of age and older to determine whether they respond differently from younger adult subjects.
