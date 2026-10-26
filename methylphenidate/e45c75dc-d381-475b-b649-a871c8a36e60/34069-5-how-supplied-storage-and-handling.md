@@ -1,8 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-How Supplied Methylphenidate HCl Extended-Release Capsules CD (methylphenidate HCl, USP) extended-release capsules are available in six strengths (see Table 4):
+How Supplied
 
-Table 4: Strengths, Identifying Characteristics, and Packaging Configurations of Methylphenidate HCl Extended-Release Capsules CD
+Methylphenidate HCl Extended-Release Capsules CD (methylphenidate hydrochloride) extended-release capsules are available in six strengths (see Table 4):
+
+Table 4: Strength (methylphenidate hydrochloride), Identifying Characteristics, and Packaging Configurations of Methylphenidate HCl Extended-Release Capsules CD
 
 | Strength | Capsule Color (cap/body) | Imprinting on Capsule Cap | Imprinting on Capsule Body | Capsules per Bottle | NDC Number |
 | --- | --- | --- | --- | --- | --- |

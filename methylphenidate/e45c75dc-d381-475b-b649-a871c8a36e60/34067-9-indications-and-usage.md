@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Methylphenidate HCl Extended-Release Capsules CD is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in pediatric patients 6 to 15 years of age.
+Methylphenidate HCl Extended-Release Capsules CD is indicated for the treatment of attention deficit hyperactivity disorder (ADHD) in pediatric patients 6 years of age and older.
 
 Limitations of Use
 

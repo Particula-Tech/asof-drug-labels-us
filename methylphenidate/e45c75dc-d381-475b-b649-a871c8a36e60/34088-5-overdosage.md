@@ -9,7 +9,7 @@ Clinical Effects of Overdose Overdose of CNS stimulants is characterized by the 
   Serotonin syndrome, seizures, cerebral vascular accidents, and coma may occur.
 - Life-threatening hyperthermia (temperatures greater than 104°F) and rhabdomyolysis may develop.
 
-Posterior reversible encephalopathy syndrome (PRES) symptoms including headache, altered mental status, hypertension, seizures, and visual disturbances including blindness have occurred in the setting of a methylphenidate product overdose.
+Posterior reversible encephalopathy syndrome (PRES) symptoms including headache, altered mental status, hypertension, seizures, and visual disturbances including blindness have occurred in the setting of CNS stimulant overdose.
 Symptoms of PRES are usually reversible but may evolve into ischemic stroke or cerebral hemorrhage.
 Diagnosis of PRES should be confirmed by radiological procedure (e.g., MRI).
 
