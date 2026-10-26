@@ -5,7 +5,7 @@
 Risk Summary
 
 The available data with tocilizumab products from a pregnancy exposure registry, retrospective cohort study, pharmacovigilance, and published literature are insufficient to draw conclusions about a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
-These studies had methodological limitations, including small sample size of tocilizumab exposed groups, missing exposure and outcomes information, and lack of adjustment for cofounders.
+These studies had methodological limitations, including small sample size of tocilizumab exposed groups, missing exposure and outcomes information, and lack of adjustment for confounders.
 Monoclonal antibodies, such as tocilizumab products, are actively transported across the placenta during the third trimester of pregnancy and may affect immune response in the in utero exposed infant [see Clinical Considerations].
 In animal reproduction studies, intravenous administration of tocilizumab to Cynomolgus monkeys during organogenesis caused abortion/embryo-fetal death at doses 1.25 times and higher than the maximum recommended human dose by the intravenous route of 8 mg per kg every 2 to 4 weeks.
 The literature in animals suggests that inhibition of IL-6 signaling may interfere with cervical ripening and dilatation and myometrial contractile activity leading to potential delays of parturition [see Data].

@@ -29,5 +29,5 @@ Protect the vials, syringes, and autoinjectors from light by storage in the orig
 Once removed from the refrigerator, the prefilled syringe and autoinjector can be stored at room temperature at or below 77°F (25°C) for up to 3 weeks.
 The prefilled syringe and autoinjector must always be kept in the carton.
 
-If necessary, the pre-filled syringe or autoinjector may be returned to the refrigerator once within these 3 weeks and stored refrigerated until the expiry date.
-The pre-filled syringe or autoinjector must be discarded if not used within the 3-week period.
+If necessary, the prefilled syringe or autoinjector may be returned to the refrigerator once within these 3 weeks and stored refrigerated until the expiry date.
+The prefilled syringe or autoinjector must be discarded if not used within the 3-week period.

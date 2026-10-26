@@ -415,7 +415,7 @@ No adverse reactions related to tocilizumab were reported [see Clinical Studies 
 
 ## 6.10 Clinical Trials Experience in COVID-19 Patients Treated with Intravenous Tocilizumab (Tocilizumab-IV)
 
-The safety of tocilizumab in hospitalized COVID-19 patients was evaluated in a pooled safety population that includes patients enrolled in EMPACTA, COVACTA, AND REMDACTA.
+The safety of tocilizumab in hospitalized adult COVID-19 patients was evaluated in a pooled safety population that includes patients enrolled in EMPACTA, COVACTA, AND REMDACTA.
 The analysis of adverse reactions included a total of 974 patients exposed to tocilizumab.
 Patients received a single, 60-minute infusion of intravenous tocilizumab 8 mg/kg (maximum dose of 800 mg).
 If clinical signs or symptoms worsened or did not improve, one additional dose of tocilizumab 8 mg/kg could be administered between 8- 24 hours after the initial dose.

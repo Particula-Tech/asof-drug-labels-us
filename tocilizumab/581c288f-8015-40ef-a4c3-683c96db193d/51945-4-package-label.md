@@ -86,7 +86,7 @@ Prefilled syringe with safety guard
 
 CELLTRION USA CELLTRION
 
-# PRINCIPAL DISPLAY PANEL - 12 Prefilled Syringe Carton - NDC 72606-045-03
+# PRINCIPAL DISPLAY PANEL - 162 mg/ 0.9 mL Prefilled Syringe Carton - NDC 72606-045-03
 
 Avtozma® (tocilizumab-anoh) Injection
 
@@ -148,7 +148,7 @@ Each carton contains 4 single-dose Autoinjectors, 1 Medication Guide, 1 Prescrib
 
 CELLTRION USA CELLTRION
 
-# PRINCIPAL DISPLAY PANEL - 12 Autoinjectors Carton - NDC 72606-045-06
+# PRINCIPAL DISPLAY PANEL - 162 mg/0.9 mL Autoinjectors Carton - NDC 72606-045-06
 
 Avtozma® (tocilizumab-anoh) Injection
 

@@ -124,7 +124,7 @@ For one dose of 8 mg/kg tocilizumab IV, the estimated median (range) Cmax and Cd
 For two doses of 8 mg/kg tocilizumab IV separated by at least 8 hours, the estimated median (range) Cmax and Cday28 of tocilizumab was 290 (152-604) mcg/mL and 7.04 (0.00474-54.8) mcg/mL, respectively.
 The weight-tiered dosing used in RECOVERY study, 800 mg for patients >90 kg, 600 mg for patients >65 and ≤90 kg, 400 mg for patients >40 and ≤65 kg, and 8mg/kg for patients ≤40 kg, is comparable to 8 mg/kg dosing and is expected to have similar exposure.
 
-Based on PK-sIL-6R modeling and simulation, the recommended dosing regimen for tocilizumab products is expected to result in comparable plasma exposures of tocilizumab products in pediatric patients aged 2 years and older with COVID-19 as observed in adults with COVID-19 [see Use in Specific Populations (8.4)].
+Based on PK-sIL-6R modeling and simulation, the recommended dosing regimen for tocilizumab products is expected to result in comparable plasma exposures of tocilizumab products in pediatric patients aged 2 years and older with COVID-19 as observed in adults with COVID-19 [see Use in Specific Populations (8.3)].
 
 Absorption
 

@@ -19,8 +19,8 @@ Storing AVTOZMA
 - Store the unused prefilled syringe in the original carton in a refrigerator between 36°F to 46°F (2°C to 8°C).
   Do not freeze.
 - When removed from the refrigerator, AVTOZMA can be stored up to 3 weeks at or below 77°F (25°C).
-  If necessary, the pre-filled syringe may be returned to the refrigerator once within these 3 weeks and stored refrigerated until the expiry date.
-  The pre-filled syringe must be discarded if not used within the 3-week period.
+  If necessary, the prefilled syringe may be returned to the refrigerator once within these 3 weeks and stored refrigerated until the expiry date.
+  The prefilled syringe must be discarded if not used within the 3-week period.
 - Keep the prefilled syringe out of direct sunlight.
 - Do not remove the prefilled syringe from its original carton during storage.
 - Do not leave the prefilled syringe unattended.
@@ -101,8 +101,8 @@ Storing AVTOZMA
 - Store the unused prefilled autoinjector in the original carton in a refrigerator between 36°F to 46ºF (2°C to 8ºC).
   Do not freeze.
 - When removed from the refrigerator, AVTOZMA can be stored up to 3 weeks at or below 77°F (25°C).
-  If necessary, the pre-filled autoinjector may be returned to the refrigerator once within these 3 weeks and stored refrigerated until the expiry date.
-  The pre-filled syringe must be discarded if not used within the 3-week period.
+  If necessary, the prefilled autoinjector may be returned to the refrigerator once within these 3 weeks and stored refrigerated until the expiry date.
+  The prefilled autoinjector must be discarded if not used within the 3-week period.
 - Keep the prefilled autoinjector out of direct sunlight.
 - Do not remove the prefilled autoinjector from its original carton during storage.
 - Do not leave the prefilled autoinjector unattended.

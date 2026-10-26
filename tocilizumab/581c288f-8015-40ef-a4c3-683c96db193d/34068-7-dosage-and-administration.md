@@ -124,7 +124,7 @@ The recommended dose of AVTOZMA for treatment of CRS given as a 60-minute intrav
 • If no clinical improvement in the signs and symptoms of CRS occurs after the first dose, up to 3 additional does of AVTOZMA may be administered.
 The interval between consecutive doses should be at least 8 hours. • Doses exceeding 800 mg per infusion are not recommended in CRS patients. • Subcutaneous administration is not approved for CRS.
 
-## 2.7 Coronavirus Disease 2019 (COVID-19)
+## 2.7 Recommended Dosage for Coronavirus Disease 2019 (COVID-19)
 
 Administer AVTOZMA by intravenous infusion only.
 
@@ -177,7 +177,7 @@ AVTOZMA for intravenous infusion should be diluted by a healthcare professional 
 ## 2.9 Preparation and Administration Instructions for Subcutaneous Injection
 
 - AVTOZMA for subcutaneous injection is not intended for intravenous drip infusion.
-  Assess suitability of patient for subcutaneous home use and instruct patients to inform a healthcare professional before administering the next dose if they experience any symptoms of allergic reaction.
+- Assess suitability of patient for subcutaneous home use and instruct patients to inform a healthcare professional before administering the next dose if they experience any symptoms of allergic reaction.
   Patients should seek immediate medical attention if they develop symptoms of serious allergic reactions.
   AVTOZMA subcutaneous injection is intended for use under the guidance of a healthcare practitioner.
   After proper training in subcutaneous injection technique, a patient may self-inject AVTOZMA or the patient's caregiver may administer AVTOZMA if a healthcare practitioner determines that it is appropriate.
