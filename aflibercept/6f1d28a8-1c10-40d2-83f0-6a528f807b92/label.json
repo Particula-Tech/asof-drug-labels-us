@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761382"
+  ],
+  "inn": "aflibercept",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "61314-504-63",
+    "61314-504-94"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "aflibercept",
+      "name": "ENZEEVU"
+    }
+  ],
+  "setid": "6f1d28a8-1c10-40d2-83f0-6a528f807b92",
+  "source": "dailymed"
+}
