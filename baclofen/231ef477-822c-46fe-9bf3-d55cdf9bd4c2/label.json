@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA208193"
+  ],
+  "inn": "baclofen",
+  "labeler": "Acella Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "42192-631-05",
+    "42192-631-10",
+    "42192-631-40",
+    "42192-631-45"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "baclofen",
+      "name": "Baclofen"
+    }
+  ],
+  "setid": "231ef477-822c-46fe-9bf3-d55cdf9bd4c2",
+  "source": "dailymed"
+}
