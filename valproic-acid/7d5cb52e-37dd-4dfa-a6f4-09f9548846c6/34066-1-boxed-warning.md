@@ -40,4 +40,4 @@ Some of the cases have been described as hemorrhagic with a rapid progression fr
 Cases have been reported shortly after initial use as well as after several years of use.
 Patients and guardians should be warned that abdominal pain, nausea, vomiting, and/or anorexia can be symptoms of pancreatitis that require prompt medical evaluation.
 If pancreatitis is diagnosed, valproate should ordinarily be discontinued.
-Alternative treatment for the underlying medical condition should be initiated as clinically indicated [see Warnings and Precautions (5.5)].
+Alternative treatment for the underlying medical condition should be initiated as clinically indicated [see Warnings andPrecautions (5.5)].

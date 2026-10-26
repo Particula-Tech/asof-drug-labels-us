@@ -14,7 +14,7 @@ Rx ONLY
 
 16 fl oz (473 mL)
 
-Pharmaceutical Associates, Inc. Greenville, SC 29605
+PAI Pharma Greenville, SC 29605
 
 PHARMACIST: Dispense in the orginial container or USP tight container.
 
@@ -25,13 +25,15 @@ Store at 20º to 25ºC (68º to 77ºF).
 
 USUAL DOSAGE: See Package Insert for prescribing information.
 
-X06575850524 R05/24
+Distributed by: PAI Pharma Greenville, SC 29605
+
+X06575850626 R06/26
 
 # PRINCIPAL DISPLAY PANEL - 5 mL Cup Label
 
 Delivers 5 mL NDC 0121-4675-05
 
-V ALPROIC A CID O RAL S OLUTION USP
+VALPROIC ACID ORAL SOLUTION USP
 
 250 mg/5 mL
 
@@ -39,15 +41,15 @@ Package Not Child-Resistant
 
 Rx ONLY
 
-PHARMACEUTICAL ASSOCIATES, INC. GREENVILLE, SC 29605
+Dist. by: PAI Pharma GREENVILLE, SC 29605 SEE INSERT
 
-A4675050321
+F0675050626
 
 # PRINCIPAL DISPLAY PANEL - 10 mL Cup Label
 
 Delivers 10 mL NDC 0121-1350-10
 
-VALPROIC A CID O RAL S OLUTION USP
+VALPROIC ACID ORAL SOLUTION USP
 
 500 mg/10 mL
 
@@ -55,6 +57,7 @@ Package Not Child-Resistant
 
 Rx ONLY
 
-PHARMACEUTICAL ASSOCIATES, INC. GREENVILLE, SC 29605
+Dist.
+By: PAI Pharma GREENVILLE, SC 29605 SEE NSERT
 
-A4675100321
+F0675100626

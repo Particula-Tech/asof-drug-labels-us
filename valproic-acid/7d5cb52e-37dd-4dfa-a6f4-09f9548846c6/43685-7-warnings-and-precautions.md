@@ -42,9 +42,11 @@ In some cases, hepatic dysfunction has progressed in spite of discontinuation of
 Valproate can cause fetal harm when administered to a pregnant woman.
 Pregnancy registry data show that maternal valproate use can cause neural tube defects and other structural abnormalities (e.g., craniofacial defects, cardiovascular malformations, hypospadias, limb malformations).
 The rate of congenital malformations among babies born to mothers using valproate is about four times higher than the rate among babies born to epileptic mothers using other anti-seizure monotherapies.
-Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population [see Use in Specific Populations (8.1)].
+Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population [see Use in SpecificPopulations (8.1)].
 
-## 5.3 Decreased IQ Following in utero Exposure
+In animal studies, offspring with prenatal exposure to valproate had malformations similar to those seen in humans [see Use in Specific Populations (8.1)].
+
+## 5.3 Decreased IQ and Neurodevelopment Disorders Following in utero Exposure
 
 Valproate can cause decreased IQ scores following in utero exposure.
 Published epidemiological studies have indicated that children exposed to valproate in utero have lower cognitive test scores than children exposed in utero to either another antiepileptic drug or to no antiepileptic drugs.
@@ -53,12 +55,13 @@ The largest of these studies 1 is a prospective cohort study conducted in the Un
 105-110]), carbamazepine (105 [95% C.I.
 102-108]), and phenytoin (108 [95% C.I.
 104-112]).
-It is not known when during pregnancy cognitive effects in valproate-exposed children occur.
 Because the women in this study were exposed to antiepileptic drugs throughout pregnancy, whether the risk for decreased IQ was related to a particular time period during pregnancy could not be assessed.
 
 Although all of the available studies have methodological limitations, the weight of the evidence supports the conclusion that valproate exposure in utero can cause decreased IQ in children.
 
-In animal studies, offspring with prenatal exposure to valproate had malformations similar to those seen in humans and demonstrated neurobehavioral deficits [see Use in Specific Populations (8.1)].
+Epidemiological studies have also suggested that exposure to valproate monotherapy in utero may be associated with an increased risk of autism spectrum disorder (ASD), intellectual disability (ID, defined as an IQ < 70), and attention deficit/hyperactivity disorder (ADHD [see Use in Specific Populations (8.1)].
+
+In animal studies, offspring with prenatal exposure to valproate demonstrated neurobehavioral deficits [see Use in Specific Populations (8.1)].
 
 ## 5.4 Use in Women of Childbearing Potential
 
@@ -67,13 +70,13 @@ This is especially important when valproate use is considered for a condition no
 Women should use effective contraception while using valproate.
 
 Women of childbearing potential should be counseled regularly regarding the relative risks and benefits of valproate use during pregnancy.
-This is especially important for women planning a pregnancy and for girls at the onset of puberty; alternative therapeutic options should be considered for these patients [see Boxed Warning and Use in Specific Populations (8.1)].
+This is especially important for women planning a pregnancy and for girls at the onset of puberty; alternative therapeutic options should be considered for these patients [see Boxed Warning and Use in SpecificPopulations (8.1)].
 
 To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
 
 Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
 It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
-Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate.
+Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for women of childbearing potential using valproate.
 
 ## 5.5 Pancreatitis
 
@@ -139,7 +142,7 @@ The therapeutic benefit which may accompany the higher doses should therefore be
 Valproate use has also been associated with decreases in other cell lines and myelodysplasia.
 
 Because of reports of cytopenias, inhibition of the secondary phase of platelet aggregation, and abnormal coagulation parameters, (e.g., low fibrinogen, coagulation factor deficiencies, acquired von Willebrand's disease), measurements of complete blood counts and coagulation tests are recommended before initiating therapy and at periodic intervals.
-It is recommended that patients receiving valproic acid be monitored for blood counts and coagulation parameters prior to planned surgery and during pregnancy [see Use in Specific Populations (8.1)].
+It is recommended that patients receiving valproic acid be monitored for blood counts and coagulation parameters prior to planned surgery and during pregnancy [see Use inSpecific Populations (8.1)].
 Evidence of hemorrhage, bruising, or a disorder of hemostasis/coagulation is an indication for reduction of the dosage or withdrawal of therapy.
 
 ## 5.9 Hyperammonemia

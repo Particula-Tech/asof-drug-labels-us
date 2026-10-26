@@ -205,7 +205,7 @@ This Medication Guide summarizes the most important information about valproic a
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about valproic acid that is written for health professionals.
 
-For more information, call Pharmaceutical Associates, Inc. at 1-800-845-8210 or visit www.paipharma.com.
+For more information, call PAI Pharma at 1-800-845-8210 or visit www.paipharma.com.
 
 What are the ingredients in Valproic Acid Oral Solution USP?
 
@@ -216,6 +216,6 @@ May also contain citric acid and sodium hydroxide to adjust pH.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
+Distributed By: PAI Pharma, Greenville, SC 29605, www.paipharma.com
 
-R3/22
+R06/26

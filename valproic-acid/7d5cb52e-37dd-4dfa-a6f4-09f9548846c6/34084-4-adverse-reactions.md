@@ -4,7 +4,7 @@ The following serious adverse reactions are described below and elsewhere in the
 
 - Hepatic failure [see Warnings and Precautions (5.1)]
 - Birth defects [see Warnings and Precautions (5.2)]
-- Decreased IQ following in utero exposure [see Warnings and Precautions (5.3)]
+- Decreased IQ and Neurodevelopmental Disorders Following in utero Exposure [see Warnings and Precautions (5.3)]
 - Pancreatitis [see Warnings and Precautions (5.5)]
 - Hyperammonemic encephalopathy [see Warnings and Precautions (5.6, 5.9, 5.10)]
 - Suicidal behavior and ideation [see Warnings and Precautions (5.7)]
@@ -68,41 +68,41 @@ Since patients were being titrated off another antiepilepsy drug during the firs
 Table 4.
 Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Divalproex Sodium Monotherapy for Complex Partial Seizures1
 
-| Body System/Reaction | High Dose (n = 131) % | Low Dose (n = 134) % |
-| --- | --- | --- |
-| Body as a Whole |  |  |
-| Asthenia | 21 | 10 |
-| Digestive System |  |  |
-| Nausea | 34 | 26 |
-| Diarrhea | 23 | 19 |
-| Vomiting | 23 | 15 |
-| Abdominal Pain | 12 | 9 |
-| Anorexia | 11 | 4 |
-| Dyspepsia | 11 | 10 |
-| Hemic/Lymphatic System |  |  |
-| Thrombocytopenia | 24 | 1 |
-| Ecchymosis | 5 | 4 |
-| Metabolic/Nutritional |  |  |
-| Weight Gain | 9 | 4 |
-| Peripheral Edema | 8 | 3 |
-| Nervous System |  |  |
-| Tremor | 57 | 19 |
-| Somnolence | 30 | 18 |
-| Dizziness | 18 | 13 |
-| Insomnia | 15 | 9 |
-| Nervousness | 11 | 7 |
-| Amnesia | 7 | 4 |
-| Nystagmus | 7 | 1 |
-| Depression | 5 | 4 |
-| Respiratory System |  |  |
-| Infection | 20 | 13 |
-| Pharyngitis | 8 | 2 |
-| Dyspnea | 5 | 1 |
-| Skin and Appendages |  |  |
-| Alopecia | 24 | 13 |
-| Special Senses |  |  |
-| Amblyopia/Blurred Vision | 8 | 4 |
-| Tinnitus | 7 | 1 |
+| Body System/Reaction |  |  |  | High Dose (n = 131) % | Low Dose (n = 134) % |
+| --- | --- | --- | --- | --- | --- |
+| Body as a Whole |  |  |  |  |  |
+| Asthenia |  |  |  | 21 | 10 |
+| Digestive System |  |  |  |  |  |
+| Nausea |  |  |  | 34 | 26 |
+| Diarrhea |  |  |  | 23 | 19 |
+| Vomiting |  |  |  | 23 | 15 |
+| Abdominal Pain |  |  |  | 12 | 9 |
+| Anorexia |  |  |  | 11 | 4 |
+| Dyspepsia |  |  |  | 11 | 10 |
+| Hemic/Lymphatic System |  |  |  |  |  |
+| Thrombocytopenia |  |  |  | 24 | 1 |
+| Ecchymosis |  |  |  | 5 | 4 |
+| Metabolic/Nutritional |  |  |  |  |  |
+| Weight Gain |  |  |  | 9 | 4 |
+| Peripheral Edema |  |  |  | 8 | 3 |
+| Nervous System |  |  |  |  |  |
+| Tremor |  |  |  | 57 | 19 |
+| Somnolence |  |  |  | 30 | 18 |
+| Dizziness |  |  |  | 18 | 13 |
+| Insomnia |  |  |  | 15 | 9 |
+| Nervousness |  |  |  | 11 | 7 |
+| Amnesia |  |  |  | 7 | 4 |
+| Nystagmus |  |  |  | 7 | 1 |
+| Depression |  |  |  | 5 | 4 |
+| Respiratory System |  |  |  |  |  |
+| Infection |  |  |  | 20 | 13 |
+| Pharyngitis |  |  |  | 8 | 2 |
+| Dyspnea |  |  |  | 5 | 1 |
+| Skin and Appendages |  |  |  |  |  |
+| Alopecia |  |  |  | 24 | 13 |
+| Special Senses |  |  |  |  |  |
+| Amblyopia/Blurred Vision |  |  |  | 8 | 4 |
+| Tinnitus |  |  |  | 7 | 1 |
 
 | 1 Headache was the only adverse reaction that occurred in ≥ 5% of patients in the high dose group and at an equal or greater incidence in the low dose group. |
 | --- |

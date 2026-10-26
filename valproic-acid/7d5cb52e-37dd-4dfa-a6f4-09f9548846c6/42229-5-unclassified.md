@@ -1,9 +1,3 @@
-# MANUFACTURED BY
+# Distributed By:
 
-Pharmaceutical Associates, Inc.
-
-Greenville, SC 29605
-
-www.paipharma.com
-
-R03/22
+PAI Pharma Greenville, SC 29605 www.paipharma.com R06/26

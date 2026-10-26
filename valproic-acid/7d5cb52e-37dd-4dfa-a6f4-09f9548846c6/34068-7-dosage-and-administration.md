@@ -58,7 +58,7 @@ If the total daily dose exceeds 250 mg, it should be given in divided doses.
 
 A good correlation has not been established between daily dose, serum concentrations, and therapeutic effect.
 However, therapeutic valproate serum concentration for most patients with absence seizures is considered to range from 50 to 100 mcg/mL.
-Some patients may be controlled with lower or higher serum concentrations [see Clinical Pharmacology (12.3)].
+Some patients may be controlled with lower or higher serum concentrations [see ClinicalPharmacology (12.3)].
 
 As the valproic acid dosage is titrated upward, blood concentrations of phenobarbital and/or phenytoin may be affected [see Drug Interactions (7.2)].
 
