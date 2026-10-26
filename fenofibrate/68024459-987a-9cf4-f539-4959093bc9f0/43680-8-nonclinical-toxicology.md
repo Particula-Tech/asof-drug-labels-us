@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis: Two dietary carcinogenicity studies have been conducted in rats with fenofibrate.
-In the first 24-month study, Wistar rats were dosed with fenofibrate at 10 mg/kg/day, 45 mg/km/day, and 200 mg/kg/day, approximately 0.3 times, 1 time, and 6 times the maximum recommended human dose (MRHD), based on body surface area comparisons (mg/m2).
+In the first 24-month study, Wistar rats were dosed with fenofibrate at 10 mg/kg/day, 45 mg/kg/day, and 200 mg/kg/day, approximately 0.3 times, 1 time, and 6 times the maximum recommended human dose (MRHD), based on body surface area comparisons (mg/m2).
 At a dose of 200 mg/kg/day (at 6 times the MRHD), the incidence of liver carcinomas was significantly increased in both sexes.
 A statistically significant increase in pancreatic carcinomas was observed in males at 1 and 6 times the MRHD; an increase in pancreatic adenomas and benign testicular interstitial cell tumors was observed at 6 times the MRHD in males.
 In a second 24-month study in a different strain of rats (Sprague-Dawley), doses of 10 mg/kg/day and 60 mg/kg/day (0.3 and 2 times the MRHD) produced significant increases in the incidence of pancreatic acinar adenomas in both sexes and increases in testicular interstitial cell tumors in males at 2 times the MRHD.

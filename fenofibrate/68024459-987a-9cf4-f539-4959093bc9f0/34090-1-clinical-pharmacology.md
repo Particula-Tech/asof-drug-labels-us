@@ -66,7 +66,7 @@ This indicates that a similar dosage regimen can be used in geriatric patients w
 
 Pediatric Patients
 
-The Pharmacokinetics of fenofibrate has not been studied in pediatric patients.
+The Pharmacokinetics of fenofibrate has not been studied in pediatric populations.
 
 Male and Female Patients
 
@@ -97,7 +97,7 @@ Table 3 describes the effects of co-administered drugs on fenofibric acid system
 
 Table 4 describes the effects of co-administered fenofibrate or fenofibric acid on systemic exposure to other drugs.
 
-Table 3: Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate or Fenofibrate Administration
+Table 3: Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration
 
 | Co-Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
 | --- | --- | --- | --- | --- |

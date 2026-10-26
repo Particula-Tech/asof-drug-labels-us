@@ -16,4 +16,4 @@ Bottles of 90s (NDC 60505-3121-9)
 
 Storage
 
-Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature] in a tightly closed container.

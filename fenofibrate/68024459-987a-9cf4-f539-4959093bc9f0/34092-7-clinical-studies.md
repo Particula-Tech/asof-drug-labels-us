@@ -61,7 +61,7 @@ Table 6: Fenofibrate Treatment in Patients with Hypertriglyceridemia
 The effects of fenofibrate were assessed in four randomized, placebo-controlled, double-blind, parallel group trials in patients with hyperlipidemia and mixed dyslipidemia.
 Fenofibrate capsule therapy reduced LDL-C, Total-C, and TG, and increased HDL-C (see Table 7).
 
-Table 7: Mean Percent Change in Lipid Parameters at End of Treatment‡
+Table 7: Mean Percent Change in Lipid Parameters at End of Treatment†
 
 | Treatment Group | Total-C | LDL-C | HDL-C | TG |
 | --- | --- | --- | --- | --- |
@@ -90,7 +90,7 @@ The HR for total and coronary heart disease mortality, respectively, was 1.11 (9
 
 Because of chemical, pharmacological, and clinical similarities between fenofibrate and pemafibrate, findings in a large randomized, placebo-controlled clinical trial with pemafibrate are relevant for fenofibrate capsules.
 
-Pemafibrate did not reduce cardiovascular disease morbidity or mortality in a large, randomized, placebo-controlled trial of patients with type 2 diabetes (TG levels of 200 to 499 mg per deciliter and HDL-C levels of 40 mg per deciliter or lower) mellitus on background statin therapy (NCT03071692).
+Pemafibrate did not reduce cardiovascular disease morbidity or mortality in a large, randomized, placebo-controlled trial of patients with type 2 diabetes mellitus (TG levels of 200 to 499 mg per deciliter and HDL-C levels of 40 mg per deciliter or lower) on background statin therapy (NCT03071692).
 The trial was a randomized placebo-controlled trial of 10,497 patients (5,240 assigned to receive pemafibrate) with type 2 diabetes mellitus on background lipid-lowering therapy.
 The median age at baseline was 64 years and 28% were female.
 Overall, 86% were White, 5% were Asian, 3% were Black or African American; 19% identified as Hispanic or Latino ethnicity.

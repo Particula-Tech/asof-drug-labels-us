@@ -6,6 +6,8 @@ Fenofibrate did not reduce cardiovascular disease morbidity or mortality in two 
 
 Because of chemical, pharmacological, and clinical similarities between fenofibrates including fenofibrate capsules; pemafibrate; clofibrate; and gemfibrozil; the findings in 5 large randomized, placebo-controlled clinical trials with these other fibrate drugs may also apply to fenofibrate capsules.
 
+Pemafibrate did not reduce cardiovascular disease morbidity or mortality in a large, randomized, placebo-controlled trial of patients with type 2 diabetes mellitus on background statin therapy [see Clinical Studies (14.4)].
+
 In the Coronary Drug Project, a large trial conducted from 1965 to 1985 in men post myocardial infarction, there was no difference in mortality or nonfatal myocardial infarction between the clofibrate group and the placebo group after 5 years of treatment (NCT00000482).
 
 In a trial conducted by the World Health Organization (WHO) from 1965 to 1976, men without known coronary artery disease were treated with placebo or clofibrate for 5 years and followed for an additional 1 year.

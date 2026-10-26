@@ -1,9 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Hepatoxicity
+Hepatotoxicity
 
 Inform patients that fenofibrate capsules may cause liver enzyme elevations and possibly liver failure.
-Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Contraindications (4) Warnings and Precautions (5.2)].
+Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Contraindications (4) and Warnings and Precautions (5.2)].
 
 Myopathy and Rhabdomyolysis
 
@@ -44,7 +44,7 @@ FENOFIBRATE CAPSULES, USP
 | Toronto, ON | Weston, Florida |
 | Canada, M9L 1T9 | 33326 |
 
-Revised: October 2025
+Revised: October 2026
 
 Rev.
-13
+14

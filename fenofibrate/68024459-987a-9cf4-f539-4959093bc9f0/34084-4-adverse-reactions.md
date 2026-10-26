@@ -5,7 +5,7 @@ The following serious adverse reactions are described below and elsewhere in the
 - Mortality and coronary heart disease morbidity [see Warnings and Precautions (5.1)]
 - Hepatoxicity [see Warnings and Precautions (5.2)]
 - Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.3)]
-- Increased in Serum Creatinine [see Warnings and Precautions (5.4)]
+- Increases in Serum Creatinine [see Warnings and Precautions (5.4)]
 - Cholelithiasis [see Warnings and Precautions (5.5)]
 - Increased Bleeding Risk with Coumarin Anticoagulants [see Warnings and Precautions (5.6)]
 - Pancreatitis [see Warnings and Precautions (5.7)]
@@ -34,6 +34,7 @@ Table 1: Adverse Reactions Reported by 2% or More of Patients Treated with Fenof
 | Increased ALT | 2% | 3% |
 | Increased AST | 1% | 3% |
 | Increased Creatine Phosphokinase | 1% | 3% |
+| Constipation | 1% | 2% |
 | Rhinitis | 1% | 2% |
 
 Other Adverse Reactions
@@ -44,7 +45,7 @@ Urticaria was seen in 1.1% vs. 0% and rash in 1.4% vs. 0.8% of fenofibrate and p
 
 Increases in Liver Enzymes
 
-In a pooled analysis of 10 placebo controlled trials, increases to >3 times the upper limit of normal in ALT occurred in 5.3% of patients taking either an intermediate or the maximum recommended daily dosage of fenofibrate at doses comparable to 130 mg fenofibrate daily versus 1.1% of patients treated with placebo.
+In a pooled analysis of 10 placebo controlled trials, increases to >3 times the upper limit of normal in ALT occurred in 5.3% of patients taking either an intermediate or the maximum recommended daily dosage of fenofibrate versus 1.1% of patients treated with placebo.
 In an 8-week trial, the incidence of ALT or AST elevations ≥3 times the upper limit of normal was 13% in patients receiving an intermediate daily dosage or the maximum recommended daily dosage of fenofibrate and was 0% in those receiving the lowest recommended daily dosage of fenofibrate or placebo [see Warnings and Precautions (5.2)].
 
 ## 6.2 Postmarketing Experience
@@ -62,7 +63,7 @@ Hepatobiliary: Increased total bilirubin, hepatitis, cirrhosis
 
 Immune System: Anaphylaxis, angioedema
 
-Lipid: Severely depressed HDL-cholesterol levels
+Lipid Disorders: Severely depressed HDL-cholesterol levels
 
 Musculoskeletal: Myalgia, muscle spasms, rhabdomyolysis, arthralgia
 
