@@ -15,7 +15,7 @@ If therapy is to be discontinued in patients receiving a beta-blocker and clonid
 
 ## General
 
-In patients who have developed localized contact sensitization to clonidine transdermal system continuation of clonidine transdermal system or substitution of oral clonidine hydrochloride therapy may be associated with development of a generalized skin rash.
+In patients who have developed localized contact sensitization to clonidine transdermal system, continuation of clonidine transdermal system or substitution of oral clonidine hydrochloride therapy may be associated with development of a generalized skin rash.
 
 In patients who develop an allergic reaction to clonidine transdermal system, substitution of oral clonidine hydrochloride may also elicit an allergic reaction (including generalized rash, urticaria, or angioedema).
 
@@ -28,7 +28,7 @@ In rare instances, loss of blood pressure control has been reported in patients 
 
 ## Perioperative Use
 
-Clonidine transdermal system therapy should not be interrupted during the surgical period.
+Clonidine transdermal system should not be interrupted during the surgical period.
 Blood pressure should be carefully monitored during surgery and additional measures to control blood pressure should be available if required.
 Physicians considering starting clonidine transdermal system therapy during the perioperative period must be aware that therapeutic plasma clonidine levels are not achieved until 2 to 3 days after initial application of clonidine transdermal system (see DOSAGE AND ADMINISTRATION).
 
@@ -45,14 +45,14 @@ Also, inform patients that this sedative effect may be increased by concomitant 
 
 Patients who wear contact lenses should be cautioned that treatment with clonidine transdermal system may cause dryness of eyes.
 
-Patients should be instructed to consult their physicians promptly about the possible need to remove the patch if they observe moderate to severe localized erythema and/or vesicle formation at the site of application or generalized skin rash.
+Patients should be instructed to consult their physicians promptly about the possible need to remove the transdermal system if they observe moderate to severe localized erythema and/or vesicle formation at the site of application or generalized skin rash.
 
 If a patient experiences isolated, mild localized skin irritation before completing 7 days of use, the system may be removed and replaced with a new system applied to a fresh skin site.
 
-If the system should begin to loosen from the skin after application, the patient should be instructed to place the adhesive cover directly over the system to ensure adhesion during its 7-day use.
+If the system should begin to loosen from the skin after application, the patient should be instructed to place the adhesive cover directly over the system to ensure adhesion during its 7‑day use.
 
-Used clonidine transdermal system patches contain a substantial amount of their initial drug content which may be harmful to infants and children if accidentally applied or ingested.
-THEREFORE, PATIENTS SHOULD BE CAUTIONED TO KEEP BOTH USED AND UNUSED CLONIDINE TRANSDERMAL SYSTEM PATCHES OUT OF THE REACH OF CHILDREN.
+Used clonidine transdermal systems contain a substantial amount of their initial drug content which may be harmful to infants and children if accidentally applied or ingested.
+THEREFORE, PATIENTS SHOULD BE CAUTIONED TO KEEP BOTH USED AND UNUSED CLONIDINE TRANSDERMAL SYSTEMS OUT OF THE REACH OF CHILDREN.
 After use, clonidine transdermal system should be folded in half with the adhesive sides together and discarded away from children’s reach.
 
 Instructions for use, storage and disposal of the system are provided at the end of this monograph.

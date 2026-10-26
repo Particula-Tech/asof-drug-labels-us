@@ -41,9 +41,7 @@ Musculoskeletal: Muscle or joint pain; and leg cramps.
 
 Ophthalmological: Blurred vision; burning of the eyes and dryness of the eyes.
 
-## Adverse Events Associated with Oral Clonidine Therapy
-
-Most adverse effects are mild and tend to diminish with continued therapy.
+Adverse Events Associated with Oral Clonidine Therapy: Most adverse effects are mild and tend to diminish with continued therapy.
 The most frequent (which appear to be dose-related) are dry mouth, occurring in about 40 of 100 patients; drowsiness, about 33 in 100; dizziness, about 16 in 100; constipation and sedation, each about 10 in 100.
 The following less frequent adverse experiences have also been reported in patients receiving clonidine hydrochloride tablets, but in many cases patients were receiving concomitant medication and a causal relationship has not been established.
 
@@ -70,3 +68,5 @@ Musculoskeletal: Leg cramps and muscle or joint pain.
 Oro-otolaryngeal: Dryness of the nasal mucosa.
 
 Ophthalmological: Accommodation disorder, blurred vision, burning of the eyes, decreased lacrimation, and dryness of the eyes.
+
+To report SUSPECTED ADVERSE EVENTS, contact Mylan at 1-877-446-3679 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch

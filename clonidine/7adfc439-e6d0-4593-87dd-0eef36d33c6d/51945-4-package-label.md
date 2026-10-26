@@ -15,16 +15,18 @@ Keep this and all drugs out of the reach of children.
 
 Contents: 4 Systems and 4 Adhesive Covers
 
-See package insert for dosage information.
+Dosage: see Prescribing Information.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
+Store transdermal system in pouch until ready for use.
 
-Viatris.com
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M0871:99:4C:R12
+Mylan.com
+
+M0871:99:4C:RX
 
 # PRINCIPAL DISPLAY PANEL – 0.2 mg
 
@@ -43,16 +45,18 @@ Keep this and all drugs out of the reach of children.
 
 Contents: 4 Systems and 4 Adhesive Covers
 
-See package insert for dosage information.
+Dosage: see Prescribing Information.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
+Store transdermal system in pouch until ready for use.
 
-Viatris.com
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M0872:99:4C:R12
+Mylan.com
+
+M0872:99:4C:RX
 
 # PRINCIPAL DISPLAY PANEL – 0.3 mg
 
@@ -71,13 +75,15 @@ Keep this and all drugs out of the reach of children.
 
 Contents: 4 Systems and 4 Adhesive Covers
 
-See package insert for dosage information.
+Dosage: see Prescribing Information.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
+Store transdermal system in pouch until ready for use.
 
-Viatris.com
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M0873:99:4C:R12
+Mylan.com
+
+M0873:99:4C:RX

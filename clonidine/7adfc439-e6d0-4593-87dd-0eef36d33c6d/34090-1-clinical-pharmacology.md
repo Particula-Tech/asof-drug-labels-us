@@ -21,7 +21,7 @@ Clonidine acutely stimulates the release of growth hormone in children as well a
 
 Clonidine transdermal system delivers clonidine at an approximately constant rate for 7 days.
 The absolute bioavailability of clonidine from the clonidine transdermal system dosage form is approximately 60%.
-Steady-state clonidine plasma levels are obtained within 3 days after transdermal application to the upper outer arm and increase linearly with increasing size of the transdermal patch.
+Steady-state clonidine plasma levels are obtained within 3 days after transdermal application to the upper outer arm and increase linearly with increasing size of the transdermal system.
 Mean steady-state plasma concentrations with the 3.33 cm2, 6.67 cm2, and 10.0 cm2 systems are approximately 0.4 ng/mL, 0.8 ng/mL, and 1.1 ng/mL, respectively.
 Similar clonidine steady-state concentrations are reached after application to the chest.
 Steady-state clonidine plasma levels remain constant after removal of one system and application of a new system of the same size.
