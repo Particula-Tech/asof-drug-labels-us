@@ -51,8 +51,8 @@ Blood Disorders
 
 Distributed by: AbbVie Inc. North Chicago, IL 60064
 
-© 2024 AbbVie.
+© 2026 AbbVie.
 All rights reserved.
 CANASA and its design are trademarks of Aptalis Pharma Canada ULC, an AbbVie company.
 
-V5.1USPI0501
+2006042-10
