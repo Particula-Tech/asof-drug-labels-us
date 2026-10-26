@@ -262,16 +262,16 @@ Single-dose container
 
 Hospira Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-# PRINCIPAL DISPLAY PANEL - 250 mL Bag Label-12726-02
+# PRINCIPAL DISPLAY PANEL - 250 mL Bag Label-12726-03
 
-250 mL NDC 0409-0042-01 DOPAMINE HCl in 5% Dextrose Injection, USP 400 mg/250 mL (1,600 mcg/mL) Each 100 mL contains dopamine hydrochloride 160 mg; dextrose, hydrous 5 g in water for injection; sodium metabisulfite added 50 mg.
+250 mL NDC 0409-0042-01 DOPAMINE HCl in 5% Dextrose Injection, USP 400 mg/250 mL (1,600 mcg/mL) Drug additives should not be made to this solution.
+Each 100 mL contains dopamine hydrochloride 160 mg; dextrose, hydrous 5 g in water for injection; sodium metabisulfite added 50 mg.
 May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
 269 mOsmol/liter (calc.) pH 2.5 to 4.5 Single-dose container.
 Discard unused portion.
 For intravenous use only.
 Recommended Dosage: See Prescribing Information.
 Warning: contains sulfites.
-Drug additives should not be made to this solution.
 Sterile, nonpyrogenic.
 Use only if solution is clear and container is undamaged.
 Not made with natural rubber latex.
@@ -279,11 +279,9 @@ Rx only
 
 5 OTHER
 
-MADE IN GERMANY
+MADE IN GERMANY Distributed by Hospira, Inc., Lake Forest, IL 60045 USA Hospira
 
-Hospira Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
-
-12726-02
+12726-03
 
 # PRINCIPAL DISPLAY PANEL - 250 mL Bag Label -13445-01
 
@@ -324,18 +322,19 @@ Hospira
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-# PRINCIPAL DISPLAY PANEL - 250 mL Bag Label-12727-02
+# PRINCIPAL DISPLAY PANEL - 250 mL Bag Label-12727-03
 
 250 mL NDC 0409-1858-01
 
-DOPAMINE HCl in 5% Dextrose Injection, USP 800 mg/250 mL (3,200 mcg/mL)
+DOPAMINE HCl in 5% Dextrose Injection, USP 800 mg/250 mL (3,200 mcg/mL) Drug additives should not be made to this solution.
 
 Each 100 mL contains dopamine hydrochloride 320 mg; dextrose, hydrous 5 g in water for injection; sodium metabisulfite added 50 mg.
 May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
-286 mOsmol/liter (calc.) pH 2.5 to 4.5 Single-dose container.Discard unused portion.
+286 mOsmol/liter (calc.) pH 2.5 to 4.5.
+Single-dose container.Discard unused portion.
 For intravenous use only.
 Recommended Dosage: See Prescribing Information.
-Warning: contains sulfites Drug additives should not be made to this solution.
+Warning: contains sulfites.
 Sterile, nonpyrogenic.
 Use only if solution is clear and container is undamaged.
 Not made with natural rubber latex.
@@ -343,8 +342,6 @@ Rx only
 
 5 OTHER
 
-MADE IN GERMANY
+MADE IN GERMANY Distributed by Hospira, Inc., Lake Forest, IL 60045 USA Hospira
 
-Hospira Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
-
-12727-02
+12727-03
