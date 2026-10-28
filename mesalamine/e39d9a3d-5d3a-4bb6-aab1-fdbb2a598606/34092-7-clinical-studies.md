@@ -1,11 +1,11 @@
 # 14 CLINICAL STUDIES
 
-In two randomized, double-blind, placebo-controlled, dose-response trials (UC-1 and UC-2) of 625 patients with active mild to moderate ulcerative colitis, PENTASA, at an oral dose of 1 g administered four times a day for up to 8 weeks, produced consistent improvement in prospectively identified primary efficacy parameters, Physical Global Assessment, Treatment Failure, and Sigmoidoscopic Index as shown in Table 2.
+In two randomized, double-blind, placebo-controlled, dose-response trials (UC-1 and UC-2) of 625 patients with active mild to moderate ulcerative colitis, PENTASA, at an oral dose of 1 g administered four times a day for up to 8 weeks, produced consistent improvement in prospectively identified primary efficacy parameters, Physical Global Assessment, Treatment Failure, and Sigmoidoscopic Index as shown in Table 1.
 
 A PENTASA dosage regimen of 1 g four times a day demonstrated consistent improvement in secondary efficacy parameters, namely the frequency of trips to the toilet, stool consistency, rectal bleeding, abdominal/rectal pain, and urgency.
 A PENTASA dosage regimen of 1 g four times a day also induced remission as assessed by endoscopic and symptomatic endpoints.
 
-Table 2: Efficacy Parameters in Adults Patients with Mildly to Moderately Active Ulcerative Colitis in Placebo-Controlled, Dose-Response Trials (UC-1 and UC-2)
+Table 1: Efficacy Parameters in Adults Patients with Mildly to Moderately Active Ulcerative Colitis in Placebo-Controlled, Dose-Response Trials (UC-1 and UC-2)
 
 | Parameter Evaluated | Clinical Trial UC-1 |  | Clinical Trial UC-2 |  |
 | --- | --- | --- | --- | --- |

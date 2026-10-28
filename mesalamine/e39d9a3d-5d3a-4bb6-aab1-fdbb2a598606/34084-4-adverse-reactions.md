@@ -65,7 +65,7 @@ Hepatic Disorders: cirrhosis, jaundice, including cholestatic jaundice; hepatoto
 Some of these cases were fatal.
 One case of Kawasaki-like syndrome which included hepatic function changes was also reported.
 
-Immune System Disorders: anaphylactic reaction, angioedema, lupus-like syndrome, systemic lupus erythematosus
+Immune System Disorders: anaphylactic reaction, angioedema, lupus-like syndrome, systemic lupus erythematosus, vasculitis
 
 Nervous System Disorders: intracranial hypertension
 
