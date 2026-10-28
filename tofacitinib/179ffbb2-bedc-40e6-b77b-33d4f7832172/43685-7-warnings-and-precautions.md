@@ -51,6 +51,12 @@ Patients who screened positive for hepatitis B or C were excluded from clinical 
 Perform screening for viral hepatitis in accordance with clinical guidelines before starting therapy with tofacitinib extended-release tablets.
 The risk of herpes zoster is increased in patients treated with tofacitinib extended-release tablets and appears to be higher in patients treated with tofacitinib in Japan and Korea.
 
+Progressive Multifocal Leukoencephalopathy (PML)
+
+Postmarketing cases of PML have been reported during treatment with tofacitinib extended-release tablets; in some of these patients, immune reconstitution inflammatory syndrome (IRIS) occurred within several weeks after discontinuation of tofacitinib extended-release tablets.
+Consider PML in any patient presenting with new onset or worsening neurological symptoms.
+If PML is suspected, stop tofacitinib extended-release tablets and evaluate; if PML is confirmed, discontinue treatment and manage patients appropriately.
+
 ## 5.2 Increased Risk of Mortality
 
 Increased risk of mortality may occur with tofacitinib extended-release tablets.

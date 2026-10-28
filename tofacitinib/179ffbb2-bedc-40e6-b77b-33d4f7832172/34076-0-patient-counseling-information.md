@@ -6,7 +6,8 @@ Serious Infections
 
 Inform patients that tofacitinib extended-release tablets may lower the ability of their immune system to fight infections.
 Advise patients not to start taking tofacitinib extended-release tablets if they have an active infection.
-Instruct patients to contact their healthcare provider immediately during treatment if symptoms suggesting infection appear to ensure rapid evaluation and appropriate treatment [see Warnings and Precautions (5.1)].
+Instruct patients to contact their healthcare provider immediately during treatment if symptoms suggesting infection appear to ensure rapid evaluation and appropriate treatment.
+Instruct patients to contact their healthcare provider immediately during treatment if they, their partner, or caregiver notice new onset or worsening of neurological symptoms including general muscle weakness, disturbance of vision, changes in thinking, memory and orientation leading to confusion and personality changes as these may be symptoms of a very rare, serious brain infection called progressive multifocal leukoencephalopathy (PML) [see Warnings and Precautions (5.1)].
 
 Advise patients that the risk of herpes zoster, some cases of which can be serious, is increased in patients treated with tofacitinib extended-release tablets [see Warnings and Precautions (5.1)].
 

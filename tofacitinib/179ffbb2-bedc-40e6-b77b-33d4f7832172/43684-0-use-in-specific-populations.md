@@ -89,7 +89,7 @@ These clinical studies did not include sufficient numbers of patients aged 65 ye
 
 Moderate and Severe Renal Impairment
 
-Tofacitinib-treated patients with moderate renal impairment (RI) (CLcr ≥ 30 and ≤ 50 mL/minute) or severe RI (< 30 mL/minute) had greater tofacitinib blood concentrations than tofacitinib-treated patients with normal renal function (CLcr > 80 mL/minute).
+Tofacitinib-treated patients with moderate renal impairment (RI) (CLcr ≥ 30 mL/minute and ≤ 50 mL/minute) or severe RI (< 30 mL/minute) had greater tofacitinib blood concentrations than tofacitinib-treated patients with normal renal function (CLcr > 80 mL/minute).
 The recommended dosage of tofacitinib extended-release tablets in patients with moderate or severe RI (including those with severe RI who are undergoing hemodialysis) is lower than the recommended dosage in patients with normal renal function [see Dosage and Administration (2.3, 2.5)].
 
 Mild Renal Impairment

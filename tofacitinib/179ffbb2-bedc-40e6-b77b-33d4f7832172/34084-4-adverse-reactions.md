@@ -126,7 +126,7 @@ Common Adverse Reactions
 
 Table 5 displays adverse reactions that occurred in 2% or more of patients on tofacitinib 5 mg or 10 mg twice daily and at least 1% greater than in tofacitinib-treated patients that observed in placebo-treated patients with or without DMARD in the RA trials.
 
-Table 5 Common Adverse Reactions* in Clinical Trials of Tofacitinib for the Treatment of Rheumatoid Arthritis in Adults With or Without Concomitant DMARDs (0Month to 3 Months)
+Table 5 Common Adverse Reactions* in Clinical Trials of Tofacitinib for the Treatment of Rheumatoid Arthritis in Adults With or Without Concomitant DMARDs (0 Month to 3 Months)
 
 | Preferred Term | Placebo | Tofacitinib 5 mg Twice Daily | Tofacitinib 10 mg Twice Daily** |
 | --- | --- | --- | --- |
@@ -263,6 +263,8 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune system disorders: Drug hypersensitivity (events such as angioedema and urticaria have been observed)
+
+Infections and infestations: Progressive multifocal leukoencephalopathy
 
 Metabolism and nutrition disorders: Hypoglycemia
 

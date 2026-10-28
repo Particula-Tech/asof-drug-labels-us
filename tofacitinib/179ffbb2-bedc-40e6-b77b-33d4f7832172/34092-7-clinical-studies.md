@@ -62,7 +62,7 @@ Table 10 Proportion of Adults with Moderate to Severe Active RA with an ACR Resp
 | b NA (not applicable), as data for placebo treatment is not available beyond 3 months in Studies RA-I and RA-V due to placebo advancement. |  |  |  |  |  |  |
 | c Inadequate response to at least one DMARD (biologic or nonbiologic) due to lack of efficacy or toxicity. |  |  |  |  |  |  |
 | d Inadequate response to MTX defined as the presence of sufficient residual disease activity to meet the entry criteria. |  |  |  |  |  |  |
-| e Inadequate response to a least one TNF blocker due to lack of efficacy and/or intolerance. |  |  |  |  |  |  |
+| e Inadequate response to at least one TNF blocker due to lack of efficacy and/or intolerance. |  |  |  |  |  |  |
 
 In Study RA-IV, a greater proportion of patients treated with tofacitinib 5 mg twice daily plus MTX achieved a low level of disease activity as measured by a DAS28-4(ESR) less than 2.6 at 6 months compared to those treated with MTX alone (Table 11).
 
