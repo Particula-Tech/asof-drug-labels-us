@@ -122,7 +122,7 @@ How should I take ONFI?
 - ONFI tablets can be taken whole, broken in half along the score, or crushed and mixed in applesauce.
 - ONFI tablets and oral suspension can be taken with or without food.
 - Shake the bottle of ONFI oral suspension well right before you take each dose.
-- Measure your dose of ONFI oral suspension using the bottle adapter and dosing syringes that come with your ONFI oral suspension.
+- Measure your dose of ONFI oral suspension using the bottle adapters and dosing syringes that come with your ONFI oral suspension.
 - Read the Instructions for Use at the end of this Medication Guide for information on the right way to use ONFI oral suspension.
 - Your healthcare provider may change your dose if needed.
   Do not change your dose of ONFI without talking to your healthcare provider.
@@ -192,7 +192,7 @@ ONFI is a registered trademark of Lundbeck
 
 For more information about ONFI, go to www.ONFI.com or call Lundbeck at 1-866-402-8520.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 3/2024
+This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 10/2026
 
 Instructions for Use ONFI® (ON-fee) (clobazam) Oral Suspension, CIV
 
@@ -203,7 +203,7 @@ This leaflet does not take the place of talking with your healthcare provider ab
 Prepare ONFI Oral Suspension Dose You will need the following supplies: See Figure A
 
 - ONFI oral suspension bottle
-- Bottle adapter
+- Bottle adapter (2 bottle adapters are included in the ONFI oral suspension box).
 - Oral dosing syringe (2 dosing syringes are included in the ONFI oral suspension box).
 - Use only 1 syringe to take your dose of ONFI oral suspension.
   If you lose or damage the syringe, or cannot read the markings, use the other syringe.
@@ -248,7 +248,7 @@ See Figure F
 
 Figure F
 
-Measure the mLs of medicine using the black ring on the white plunger.
+Measure the mLs of medicine using the top of the white plunger.
 See Figure G
 
 Figure G
@@ -285,4 +285,4 @@ Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A.
 
 ONFI is a registered trademark of Lundbeck
 
-12/2016
+10/2026
