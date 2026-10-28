@@ -101,7 +101,7 @@ Hepatic: jaundice, cholestatic jaundice, hepatitis, liver necrosis, liver failur
 
 Hematologic: agranulocytosis, aplastic anemia
 
-Immune System Disorders: anaphylactic reaction, angioedema
+Immune System Disorders: anaphylactic reaction, angioedema, vasculitis
 
 Musculoskeletal and Connective Tissue Disorders: myalgia, lupus-like syndrome
 

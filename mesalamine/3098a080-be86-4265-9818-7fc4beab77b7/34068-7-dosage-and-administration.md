@@ -14,7 +14,7 @@ Adults
 
 Pediatric Patients
 
-The recommended dosage for treatment of mildly to moderately active ulcerative colitis in pediatric patients weighing at least 24 kg who can swallow tablets whole is shown in Table 1:
+The recommended dosage for treatment of mildly to moderately active ulcerative colitis in pediatric patients weighing at least 24 kg who can swallow whole tablets is shown in Table 1:
 
 Table 1: Recommended Dosage of LIALDA for the Treatment of Mildly to Moderately Active Ulcerative Colitis in Pediatric Patients Weighing at least 24 kg
 
