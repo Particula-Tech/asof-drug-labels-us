@@ -7,6 +7,6 @@ If a dose is missed, resume regular dosing at the next scheduled dose time.
 
 ## 2.2 Priming Instructions
 
-Priming: Prime TYRVAYA before initial use by pumping seven (7) actuations into the air away from the face.
+Priming:Prime TYRVAYA before initial use by pumping seven (7) actuations into the air away from the face.
 When TYRVAYA has not been used for more than 5 days, re-prime with 1 spray into the air.
 Do not shake.

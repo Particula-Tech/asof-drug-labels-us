@@ -10,8 +10,8 @@ The exact mechanism of action is unknown at this time.
 
 Absorption/Distribution
 
-Following administration of 0.12 mg (0.06 mg per 50-µL spray in each nostril), a strength of varenicline that is higher than the labeled concentration, varenicline can be detected in plasma by 5 minutes, generally achieves peak concentration within 2 hours, with a mean Cmax of 0.34 ng/mL, and has an AUC0-inf of 7.46 h*ng/mL.
-The systemic exposure (AUC0-inf) following this intranasal dose was approximately 7.5% of the exposure observed following a 1 mg oral dose of varenicline.
+Following administration of 0.12 mg (0.06 mg per 50-µL spray in each nostril), a strength of varenicline that is higher than the labeled concentration, varenicline can be detected in plasma by 5 minutes, generally achieves peak concentration within 2 hours, with a mean C maxof 0.34 ng/mL, and has an AUC 0-inf of 7.46 h*ng/mL.
+The systemic exposure (AUC 0-inf) following this intranasal dose was approximately 7.5% of the exposure observed following a 1 mg oral dose of varenicline.
 
 Metabolism/Elimination
 

@@ -2,7 +2,7 @@
 
 NDC 73521-030-02
 
-tyrvaya® (varenicline solution) nasal spray 0.03 mg
+tyrvaya ® (varenicline solution) nasal spray 0.03 mg
 
 2 nasal spray bottles for a 30-day supply
 

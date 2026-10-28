@@ -15,10 +15,10 @@ Data
 Animal Data
 
 Pregnant rats and rabbits received varenicline succinate during organogenesis at oral doses up to 15 and 30 mg/kg/day, respectively.
-While no fetal structural abnormalities occurred in either species, maternal toxicity, characterized by reduced body weight gain, and reduced fetal weights occurred in rabbits at the highest dose (4864 times the MRHD on a mg/m2 basis).
+While no fetal structural abnormalities occurred in either species, maternal toxicity, characterized by reduced body weight gain, and reduced fetal weights occurred in rabbits at the highest dose (4864 times the MRHD on a mg/m 2basis).
 
 In a pre- and postnatal development study, pregnant rats received up to 15 mg/kg/day of oral varenicline succinate from organogenesis through lactation.
-Maternal toxicity, characterized by a decrease in body weight gain, was observed at 15 mg/kg/day (1216 times the MRHD on a mg/m2 basis).
+Maternal toxicity, characterized by a decrease in body weight gain, was observed at 15 mg/kg/day (1216 times the MRHD on a mg/m 2basis).
 Decreased fertility and increased auditory startle response occurred in offspring at the highest maternal dose of 15 mg/kg/day.
 
 ## 8.2 Lactation

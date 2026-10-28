@@ -5,19 +5,19 @@
 Carcinogenesis
 
 Lifetime carcinogenicity studies were performed in CD-1 mice and Sprague-Dawley rats.
-There was no evidence of a carcinogenic effect in mice administered varenicline by oral gavage for 2 years at doses up to 20 mg/kg/day (810 times the maximum recommended human dose [MRHD], on a mg/m2 basis).
+There was no evidence of a carcinogenic effect in mice administered varenicline by oral gavage for 2 years at doses up to 20 mg/kg/day (810 times the maximum recommended human dose [MRHD], on a mg/m 2basis).
 Rats were administered varenicline (1, 5, and 15 mg/kg/day) by oral gavage for 2 years.
-In male rats (n = 65 per sex per dose group), incidences of hibernoma (tumor of the brown fat) were increased at the mid dose (1 tumor, 5 mg/kg/day, 405 times the MRHD on a mg/m2 basis) and maximum dose (2 tumors, 15 mg/kg/day, 1216 times the MRHD on a mg/m2 basis).
+In male rats (n = 65 per sex per dose group), incidences of hibernoma (tumor of the brown fat) were increased at the mid dose (1 tumor, 5 mg/kg/day, 405 times the MRHD on a mg/m 2basis) and maximum dose (2 tumors, 15 mg/kg/day, 1216 times the MRHD on a mg/m 2basis).
 The clinical relevance of this finding to humans has not been established.
 There was no evidence of carcinogenicity in female rats.
 
 Mutagenesis
 
-Varenicline was not genotoxic, with or without metabolic activation, in the following assays: Ames bacterial mutation assay; mammalian CHO/HGPRT assay; and tests for cytogenetic aberrations in vivo in rat bone marrow and in vitro in human lymphocytes.
+Varenicline was not genotoxic, with or without metabolic activation, in the following assays: Ames bacterial mutation assay; mammalian CHO/HGPRT assay; and tests for cytogenetic aberrations in vivoin rat bone marrow and in vitroin human lymphocytes.
 
 Impairment of Fertility
 
-There was no evidence of impairment of fertility in either male or female Sprague-Dawley rats administered varenicline succinate up to 15 mg/kg/day (1216 times the MRHD on a mg/m2 basis).
+There was no evidence of impairment of fertility in either male or female Sprague-Dawley rats administered varenicline succinate up to 15 mg/kg/day (1216 times the MRHD on a mg/m 2basis).
 Maternal toxicity, characterized by a decrease in body weight gain, was observed at 15 mg/kg/day.
 A decrease in fertility was noted in the offspring of pregnant rats administered varenicline succinate at an oral dose of 15 mg/kg/day.
-The decrease in fertility in the offspring of treated female rats was not evident at an oral dose of 3 mg/kg/day (243 times the MRHD, on a mg/m2 basis).
+The decrease in fertility in the offspring of treated female rats was not evident at an oral dose of 3 mg/kg/day (243 times the MRHD, on a mg/m 2basis).
