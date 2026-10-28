@@ -24,12 +24,12 @@ Table 4: Mean (SD) Pharmacokinetic Parameters for Mesalamine Following Single-Do
 
 | ParameterArithmetic mean of parameter values are presented except for Tmax and Tlag. of Mesalamine | Mesalamine delayed-release tablets 1.2 g (N=47) | Mesalamine delayed-release tablets 1.2 g (N=48) | Mesalamine delayed-release tablets 4.8 g (N=48) |
 | --- | --- | --- | --- |
-| AUC0-t (ng.h/mL) | 9039N=43, (5054) | 20538 (12980) | 41434 (26640) |
-| AUC0-∞ (ng.h/mL) | 9578N=27, (5214) | 21084 (13185) | 44775N=36, (30302) |
+| AUC0-t (ng.h/mL) | 9039N=43 (5054) | 20538 (12980) | 41434 (26640) |
+| AUC0- (ng.h/mL) | 9578N=27, (5214) | 21084 (13185) | 44775N=36, (30302) |
 | Cmax (ng/mL) | 857 (638) | 1595 (1484) | 2154 (1140) |
 | TmaxMedian (min, max), (h) | 9.0N=46, (4.0-32.1) | 12.0 (4.0-34.1) | 12.0 (4.0-34.0) |
 | Tlag (h) | 2.0 (0-8.0) | 2.0 (1.0-4.0) | 2.0 (1.0-4.0) |
-| T1/2 (h) (Terminal Phase) | 8.56 (6.38) | 7.05 N=33 (5.54) | 7.25 (8.32) |
+| T1/2 (h) (Terminal Phase) | 8.56 (6.38) | 7.05N=33 (5.54) | 7.25 (8.32) |
 
 Food Effects
 

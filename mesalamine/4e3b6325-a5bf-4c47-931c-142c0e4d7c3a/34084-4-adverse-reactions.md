@@ -41,9 +41,9 @@ The most common adverse reactions with mesalamine delayed-release tablets in the
 
 Table 3: Adverse ReactionsReported in at least 1% of patients in Three Trials of Maintenance of Remission in Adults with Ulcerative Colitis
 
-| Adverse Reaction | % |
+|  | Mesalamine delayed‑release tablets 2.4 g/dayAdministered either as 1.2 g twice daily or 2.4 g once daily (n=1082) |
 | --- | --- |
-|  | Mesalamine delayed-release tablets 2.4 g/dayAdministered either as 1.2 g twice daily or 2.4 g once daily (n=1082) |
+| Adverse Reaction | % |
 | Headache | 3% |
 | Liver function test abnormal | 2% |
 | Abdominal pain | 2% |
@@ -100,7 +100,7 @@ Hepatic: jaundice, cholestatic jaundice, hepatitis, liver necrosis, liver failur
 
 Hematologic: agranulocytosis, aplastic anemia
 
-Immune System Disorders: anaphylactic reaction, angioedema
+Immune System Disorders: anaphylactic reaction, angioedema, vasculitis
 
 Musculoskeletal and Connective Tissue Disorders: myalgia, lupus-like syndrome
 

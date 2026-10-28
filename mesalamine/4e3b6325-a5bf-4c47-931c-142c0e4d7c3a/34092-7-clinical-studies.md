@@ -4,11 +4,11 @@
 
 Induction of Remission
 
-Two similarly designed, randomized, double-blind, placebo-controlled trials (Study 1, NCT00503243 and Study 2, NCT00548574) were conducted in 517 adult patients with mildly to moderately active ulcerative colitis.
+Two similarly designed, randomized, double blind, placebo controlled trials (Study 1, NCT00503243 and Study 2, NCT00548574) were conducted in 517 adult patients with mildly to moderately active ulcerative colitis.
 The study population was primarily Caucasian (80%), had a mean age of 42 years (6% age 65 years or older), and was approximately 50% male.
-Both studies used mesalamine delayed-release tablet dosages of 2.4 g and 4.8 g administered once daily for 8 weeks, except in Study 1 the 2.4 g dosage was administered as two divided doses (i.e., 1.2 g twice daily).
-The primary efficacy endpoint in both trials was to compare the percentage of patients in remission after 8 weeks of treatment for the mesalamine delayed-release tablet treatment groups versus placebo.
-Remission was defined as an Ulcerative Colitis Disease Activity Index (UC-DAI) of ≤1, with scores of zero for rectal bleeding and for stool frequency, and a sigmoidoscopy score reduction of 1 point or more from baseline.
+Both studies used mesalamine delayed release tablet dosages of 2.4 g and 4.8 g administered once daily for 8 weeks, except in Study 1 the 2.4 g dosage was administered as two divided doses (i.e., 1.2 g twice daily).
+The primary efficacy endpoint in both trials was to compare the percentage of patients in remission after 8 weeks of treatment for the mesalamine delayed release tablet treatment groups versus placebo.
+Remission was defined as an Ulcerative Colitis Disease Activity Index (UC DAI) of ≤1, with scores of zero for rectal bleeding and for stool frequency, and a sigmoidoscopy score reduction of 1 point or more from baseline.
 
 In both studies, the mesalamine delayed-release tablets dosages of 2.4 g and 4.8 g once daily demonstrated superiority over placebo in the primary efficacy endpoint (Table 6).
 Both mesalamine delayed-release tablet dosages also provided consistent benefit in secondary efficacy parameters, including clinical improvement, clinical remission, and sigmoidoscopic improvement.
