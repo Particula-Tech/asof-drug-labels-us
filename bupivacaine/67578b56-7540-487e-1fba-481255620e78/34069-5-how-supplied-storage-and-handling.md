@@ -10,21 +10,13 @@ Do not use the solution if it is discolored or if it contains a precipitate.
 
 | Unit of Sale | Concentration |
 | --- | --- |
-| NDC 0409-1559-10Tray of 10 single-dose vials | 0.25%25 mg/10 mL(2.5 mg/mL) |
 | NDC 0409-2510-25Tray of 25 single-dose vials | 0.25%25 mg/10 mL(2.5 mg/mL) |
-| NDC 0409-1559-30Carton of 10 single-dose vials | 0.25%75 mg/30 mL(2.5 mg/mL) |
 | NDC 0409-7535-25Tray of 25 single-dose vials | 0.25%75 mg/30 mL(2.5 mg/mL) |
-| NDC 0409-1587-50Carton of 1 multiple-dose vial | 0.25%125 mg/50 mL(2.5 mg/mL) |
 | NDC 0409-1250-25Tray of 25 multiple-dose vials | 0.25%125 mg/50 mL(2.5 mg/mL) |
-| NDC 0409-1560-10Tray of 10 single-dose vials | 0.5%50 mg/10 mL(5 mg/mL) |
 | NDC 0409-5010-25Tray of 25 single-dose vials | 0.5%50 mg/10 mL(5 mg/mL) |
-| NDC 0409-1560-29Carton of 10 single-dose vials | 0.5%150 mg/30 mL(5 mg/mL) |
 | NDC 0409-1530-25Tray of 25 single-dose vials | 0.5%150 mg/30 mL(5 mg/mL) |
-| NDC 0409-1610-50Carton of 1 multiple-dose vial | 0.5%250 mg/50 mL(5 mg/mL) |
 | NDC 0409-0525-25Tray of 25 multiple-dose vials | 0.5%250 mg/50 mL(5 mg/mL) |
-| NDC 0409-1582-10Tray of 10 single-dose vials | 0.75%75 mg/10 mL(7.5 mg/mL) |
 | NDC 0409-7510-25Tray of 25 single-dose vials | 0.75%75 mg/10 mL(7.5 mg/mL) |
-| NDC 0409-1582-29Carton of 10 single-dose vials | 0.75%225 mg/30 mL(7.5 mg/mL) |
 | NDC 0409-2253-25Tray of 25 single-dose vials | 0.75%225 mg/30 mL(7.5 mg/mL) |
 
 For single-dose vials: Discard unused portion.
