@@ -69,9 +69,9 @@ It is not known if the infertility may be reversed in all affected males.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of JYLAMVO in pediatric patients have been established for the treatment of ALL as part of the combination chemotherapy maintenance regimen and the treatment of pJIA [seeIndications and Usage (1), Dosage and Administration (2), and Adverse Reactions (6.1)].
+The safety and effectiveness of JYLAMVO in pediatric patients have been established for the treatment of ALL as part of the combination chemotherapy maintenance regimen and the treatment of pJIA [see Indications and Usage (1), Dosage and Administration (2), and Adverse Reactions (6.1)].
 
-The safety and effectiveness of JYLAMVO have not been established in pediatric patients for the other indications [seeIndications and Usage (1)].
+The safety and effectiveness of JYLAMVO have not been established in pediatric patients for the other indications [see Indications and Usage (1)].
 
 ## 8.5 Geriatric Use
 

@@ -43,7 +43,7 @@ Other less common adverse reactions were: anemia, headache, upper respiratory in
 
 Polyarticular Juvenile Idiopathic Arthritis (pJIA)
 
-The most common adverse reactions reported in patients 2 to 18 years of age with pJIA treated with methotrexate 5 mg/m 2to 20 mg/m 2orally once weekly or 0.1 mg/kg to 0.65 mg/kg orally once weekly were as follows: elevated liver tests 14%; gastrointestinal reactions (e.g., nausea, vomiting, diarrhea) 11%; stomatitis 2%; leukopenia 2%; headache 1.2%; alopecia 0.5%; dizziness 0.2%; rash 0.2%.
+The most common adverse reactions reported in patients 2 to 18 years of age with pJIA treated with methotrexate 5 mg/m 2 to 20 mg/m 2 orally once weekly or 0.1 mg/kg to 0.65 mg/kg orally once weekly were as follows: elevated liver tests 14%; gastrointestinal reactions (e.g., nausea, vomiting, diarrhea) 11%; stomatitis 2%; leukopenia 2%; headache 1.2%; alopecia 0.5%; dizziness 0.2%; rash 0.2%.
 Most patients received concomitant NSAIDs and some also received corticosteroids.
 
 Psoriasis
@@ -56,30 +56,30 @@ Painful plaque erosions have been reported.
 The following adverse reactions have been identified during postapproval use of methotrexate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiovascular:Thromboembolic events (including arterial thrombosis, cerebral thrombosis, deep vein thrombosis, retinal vein thrombosis, thrombophlebitis, and pulmonary embolus), pericarditis, pericardial effusion, hypotension, sudden death
+Cardiovascular: Thromboembolic events (including arterial thrombosis, cerebral thrombosis, deep vein thrombosis, retinal vein thrombosis, thrombophlebitis, and pulmonary embolus), pericarditis, pericardial effusion, hypotension, sudden death
 
-Endocrine:Diabetes
+Endocrine: Diabetes
 
-Eye:Optic neuropathy, blurred vision, ocular pain, conjunctivitis, xerophthalmia
+Eye: Optic neuropathy, blurred vision, ocular pain, conjunctivitis, xerophthalmia
 
-Gastrointestinal:Hemorrhagic enteritis, intestinal perforation, gingivitis, pancreatitis, pharyngitis, hematemesis, melena, gastrointestinal ulceration
+Gastrointestinal: Hemorrhagic enteritis, intestinal perforation, gingivitis, pancreatitis, pharyngitis, hematemesis, melena, gastrointestinal ulceration
 
-Hematology:Aplastic anemia, lymphadenopathy, hypogammaglobulinemia
+Hematology: Aplastic anemia, lymphadenopathy, hypogammaglobulinemia
 
-Hepatobiliary:Acute hepatitis, decreased serum albumin, fibrosis, cirrhosis
+Hepatobiliary: Acute hepatitis, decreased serum albumin, fibrosis, cirrhosis
 
-Immune system:Anaphylaxis, anaphylactoid reactions, vasculitis
+Immune system: Anaphylaxis, anaphylactoid reactions, vasculitis
 
-Metabolism:Hyperglycemia
+Metabolism: Hyperglycemia
 
-Musculoskeletal:Stress fracture, soft tissue and bone necrosis, arthralgia, myalgia, osteoporosis
+Musculoskeletal: Stress fracture, soft tissue and bone necrosis, arthralgia, myalgia, osteoporosis
 
-Nervous system:Headaches, drowsiness, blurred vision, speech impairment (including dysarthria and aphasia), transient cognitive dysfunction, mood alteration, unusual cranial sensations, paresis, encephalopathy, and convulsions.
+Nervous system: Headaches, drowsiness, blurred vision, speech impairment (including dysarthria and aphasia), transient cognitive dysfunction, mood alteration, unusual cranial sensations, paresis, encephalopathy, and convulsions.
 
-Renal:Azotemia, hematuria, proteinuria, cystitis
+Renal: Azotemia, hematuria, proteinuria, cystitis
 
-Reproductive:Defective oogenesis or spermatogenesis, loss of libido, impotence, gynecomastia, menstrual dysfunction
+Reproductive: Defective oogenesis or spermatogenesis, loss of libido, impotence, gynecomastia, menstrual dysfunction
 
-Respiratory:Pulmonary fibrosis, respiratory failure, chronic interstitial obstructive pulmonary disease, pleuritic pain and thickening, alveolitis
+Respiratory: Pulmonary fibrosis, respiratory failure, chronic interstitial obstructive pulmonary disease, pleuritic pain and thickening, alveolitis
 
-Skin:Toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, skin necrosis, and erythema multiforme, erythematous rashes, pruritus, alopecia, skin ulceration, accelerated nodulosis, urticaria, pigmentary changes, ecchymosis, telangiectasia, photosensitivity, acne, furunculosis
+Skin: Toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, skin necrosis, and erythema multiforme, erythematous rashes, pruritus, alopecia, skin ulceration, accelerated nodulosis, urticaria, pigmentary changes, ecchymosis, telangiectasia, photosensitivity, acne, furunculosis

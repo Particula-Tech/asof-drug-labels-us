@@ -6,4 +6,6 @@ Distributed By:
 
 Shorla Oncology Inc., Cambridge, MA 02142, USA.
 
-Version: JYLPI012
+Patent Information: U.S. Patents: 11,129,833; 11,771,701; and 12,605,385
+
+Version: JYLPI013

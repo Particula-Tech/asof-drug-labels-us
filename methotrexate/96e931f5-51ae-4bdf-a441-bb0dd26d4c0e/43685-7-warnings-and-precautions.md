@@ -6,11 +6,11 @@ Based on published reports and its mechanism of action, methotrexate can cause f
 JYLAMVO is contraindicated for use in pregnant women receiving JYLAMVO for the treatment of non-malignant diseases.
 Advise pregnant women with neoplastic diseases of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment with JYLAMVO and for 6 months after the final dose.
-Advise males with female partners of reproductive potential to use effective contraception during JYLAMVO treatment and for at least 3 months after the final dose [see Contraindications (4),Use in Specific Populations (8.1,8.3)].
+Advise males with female partners of reproductive potential to use effective contraception during JYLAMVO treatment and for at least 3 months after the final dose [see Contraindications (4), Use in Specific Populations (8.1, 8.3)].
 
 ## 5.2 Hypersensitivity Reactions
 
-Hypersensitivity reactions, including anaphylaxis, can occur with methotrexate [see Contraindications (4),Adverse Reactions (6.1)].
+Hypersensitivity reactions, including anaphylaxis, can occur with methotrexate [see Contraindications (4), Adverse Reactions (6.1)].
 
 If anaphylaxis or other serious hypersensitivity reaction occurs, immediately and permanently discontinue JYLAMVO [see Dosage and Administration (2.6)].
 
@@ -25,7 +25,7 @@ Withhold, dose reduce, or discontinue JYLAMVO taking into account the importance
 ## 5.4 Gastrointestinal Toxicity
 
 Diarrhea, vomiting, nausea, and stomatitis occurred in up to 10% of patients receiving methotrexate for treatment of non-neoplastic diseases.
-Hemorrhagic enteritis and fatal intestinal perforation have been reported [see Adverse Reactions (6.1,6.2)].
+Hemorrhagic enteritis and fatal intestinal perforation have been reported [see Adverse Reactions (6.1, 6.2)].
 Patients with peptic ulcer disease or ulcerative colitis are at a greater risk of developing severe gastrointestinal adverse reactions [see Drug Interactions (7.1)].
 
 Withhold or discontinue JYLAMVO for severe gastrointestinal toxicity taking into account the importance of JYLAMVO treatment in the context of the severity of the disease being treated, the severity of the adverse drug reaction, and availability of alternative therapy [see Dosage and Administration (2.6)].
@@ -43,13 +43,13 @@ Withhold or discontinue JYLAMVO taking into account the importance of JYLAMVO tr
 
 ## 5.6 Pulmonary Toxicity
 
-Pulmonary toxicity, including acute or chronic interstitial pneumonitis and irreversible or fatal cases, can occur with methotrexate [see Adverse Reactions (6.1,6.2)].
+Pulmonary toxicity, including acute or chronic interstitial pneumonitis and irreversible or fatal cases, can occur with methotrexate [see Adverse Reactions (6.1, 6.2)].
 
 Monitor patients for pulmonary toxicity and withhold or discontinue JYLAMVO taking into account the importance of JYLAMVO treatment in the context of the severity of the disease being treated, the severity of the adverse drug reaction, and availability of alternative therapy [see Dosage and Administration (2.6)].
 
 ## 5.7 Dermatologic Reactions
 
-Severe, including fatal dermatologic reactions, such as toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, skin necrosis, and erythema multiforme, can occur with methotrexate [see Adverse Reactions (6.1,6.2)].
+Severe, including fatal dermatologic reactions, such as toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, skin necrosis, and erythema multiforme, can occur with methotrexate [see Adverse Reactions (6.1, 6.2)].
 
 Exposure to ultraviolet radiation while taking methotrexate may aggravate psoriasis.
 
@@ -87,11 +87,11 @@ Therefore, instruct patients not to take products containing folic acid or folin
 Non-neoplastic Diseases
 
 Folate deficiency may increase methotrexate adverse reactions.
-Administer folic acid or folinic acid for patients with rheumatoid arthritis, pJIA, and psoriasis [see Dosage and Administration (2.3,2.4,2.5)].
+Administer folic acid or folinic acid for patients with rheumatoid arthritis, pJIA, and psoriasis [see Dosage and Administration (2.3, 2.4, 2.5)].
 
 ## 5.11 Serious Infections
 
-Patients treated with methotrexate are at increased risk for developing life-threatening or fatal bacterial, fungal, or viral infections, including opportunistic infections such as Pneumocystis jirovecipneumonia, invasive fungal infections, hepatitis B reactivation, tuberculosis primary infection or reactivation, and disseminated Herpes zosterand cytomegalovirus infections [see Adverse Reactions (6.2)].
+Patients treated with methotrexate are at increased risk for developing life-threatening or fatal bacterial, fungal, or viral infections, including opportunistic infections such as Pneumocystis jiroveci pneumonia, invasive fungal infections, hepatitis B reactivation, tuberculosis primary infection or reactivation, and disseminated Herpes zoster and cytomegalovirus infections [see Adverse Reactions (6.2)].
 
 Monitor patients for infection during and after treatment with JYLAMVO.
 Withhold or discontinue JYLAMVO for serious infections taking into account the importance of JYLAMVO treatment in the context of the severity of the disease being treated, the severity of the adverse drug reaction, and availability of alternative therapy [see Dosage and Administration (2.6)].

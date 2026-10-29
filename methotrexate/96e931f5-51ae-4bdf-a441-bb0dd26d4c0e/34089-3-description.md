@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Methotrexate is a folate analog metabolic inhibitor with the chemical name of N-[4-[[(2,4 diamino-6-pteridinyl) methyl]methylamino]benzoyl]-L glutamic acid.
-The molecular formula is C 20H 22N 8O 5and the molecular weight is 454.4 g/mol.
+The molecular formula is C 20H 22N 8O 5 and the molecular weight is 454.4 g/mol.
 The structural formula is:
 
 JYLAMVO (methotrexate) oral solution is a clear yellow solution that contains methotrexate, 2 mg/mL.

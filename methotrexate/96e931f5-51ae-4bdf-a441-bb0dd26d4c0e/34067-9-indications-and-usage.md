@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Neoplastic Disease
+## 1.1 Neoplastic Diseases
 
 JYLAMVO is indicated for the:
 
