@@ -41,8 +41,6 @@ Driving and Using Machines
 Advise patients that they may experience side effects, such as dizziness, blurred vision, or somnolence during treatment with imatinib mesylate tablets.
 Therefore, caution patients about driving a car or operating machinery [see Warnings and Precautions (5.13)].
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Haupt Pharma Amareg GmbH Donaustaufer Strasse 378 Regensburg, Bayern, 93055, Germany
-
-Revised: 7/2026 HPT:IMAT:RX1
+Revised: 9/2026 HPT:IMAT:R4

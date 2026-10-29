@@ -21,13 +21,15 @@ Protect from moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Germany
 
-RHPT2245MM1
+Viatris.com
 
-51756746-03/24
+RHPT2245MM2
+
+51770060-09/26
 
 # PRINCIPAL DISPLAY PANEL – 400 mg
 
@@ -52,10 +54,12 @@ Protect from moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Germany
 
-RHPT2246H1
+Viatris.com
 
-51756747-03/24
+RHPT2246H2
+
+51770057-09/26

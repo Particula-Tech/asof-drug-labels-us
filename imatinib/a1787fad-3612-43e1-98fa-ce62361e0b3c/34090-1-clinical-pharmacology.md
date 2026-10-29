@@ -78,7 +78,7 @@ Based on pooled population pharmacokinetic analysis in pediatric patients with h
 After correcting for the BSA effect, other demographics, such as age, body weight, and body mass index did not have clinically significant effects on the exposure of imatinib.
 The analysis confirmed that exposure of imatinib in pediatric patients receiving 260 mg/m2 once daily (not exceeding 400 mg once daily) or 340 mg/m2 once daily (not exceeding 600 mg once daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once daily.
 
-### Drug Interactions
+### Drug Interaction Studies
 
 Clinical Studies
 
