@@ -6,6 +6,8 @@ Epinephrine in 0.9% Sodium Chloride Injection are supplied as below:
 
 Carton of 20 bags in a 4 mg/250 mL (16 mcg/mL) strength, NDC 0338-0006-20.
 
+Carton of 20 bags in a 8 mg/250 mL (32 mcg/mL) strength, NDC 0338-0010-20.
+
 Carton of 20 bags in a 16 mg/250 mL (64 mcg/mL) strength, NDC 0338-0024-20.
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
@@ -23,4 +25,4 @@ Made in Ireland
 
 Baxter and Viaflo are trademarks of Baxter International Inc. or its subsidiaries.
 
-CB-30-03-215
+CB-30-03-163
