@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Haloperidol Decanoate Injection is indicated for the treatment of patients with schizophrenia who require prolonged parenteral antipsychotic therapy.
+HALOPERIDOL DECANOATE is indicated for the treatment of schizophrenia in adults who were previously taking a stable dosage of an immediate-release oral haloperidol product.

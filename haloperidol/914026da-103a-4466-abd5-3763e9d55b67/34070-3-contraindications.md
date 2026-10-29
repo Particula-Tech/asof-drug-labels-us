@@ -1,10 +1,9 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Since the pharmacologic and clinical actions of haloperidol decanoate injection are attributed to haloperidol as the active medication,CONTRAINDICATIONS, WARNINGS, and additional information are those of haloperidol, modified only to reflect the prolonged action.
-
-Haloperidol is contraindicated in patients with:
+HALOPERIDOL DECANOATE is contraindicated in patients with:
 
 - Severe toxic central nervous system depression or comatose states from any cause.
-- Hypersensitivity to this drug – hypersensitivity reactions have included anaphylactic reaction and angioedema (see WARNINGS, Hypersensitivity Reactions and ADVERSE REACTIONS).
-- Parkinson’s disease (see WARNINGS, Neurological Adverse Reactions in Patients with Parkinson’s Disease or Dementia with Lewy Bodies).
-- Dementia with Lewy bodies (see WARNINGS, Neurological Adverse Reactions in Patients with Parkinson’s Disease or Dementia with Lewy Bodies).
+- Known hypersensitivity to haloperidol or any components of HALOPERIDOL DECANOATE.
+  Hypersensitivity reactions, including anaphylactic reactions and angioedema, have been reported in patients treated with haloperidol [see Warnings and Precautions (5.9) and Adverse Reactions (6.2)].
+- Parkinson’s disease [see Warnings and Precautions (5.7)].
+- Dementia with Lewy bodies[see Warnings and Precautions (5.7)].

@@ -1,27 +1,18 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-While overdosage is less likely to occur with a parenteral than with an oral medication, information pertaining to haloperidol is presented, modified only to reflect the extended duration of action of haloperidol decanoate.
+Reported overdose signs and symptoms are those resulting from an exaggeration of the drug’s known pharmacologic effects (e.g., drowsiness and sedation, tachycardia and hypotension) and adverse reactions, the most prominent of which would be: 1) severe extrapyramidal symptoms, 2) hypotension, or 3) sedation.
+Patients may appear comatose with respiratory depression and hypotension which could be severe enough to produce a shock-like state.
+Extrapyramidal reactions may be manifested by muscular weakness or rigidity and a generalized or localized tremor, as demonstrated by the akinetic or agitans types, respectively.
+The risk of QTc interval prolongation and torsade de pointes should be considered [see Adverse Reactions (6.2)].
 
-## Manifestations
+Management of Overdose
 
-In general, the symptoms of overdosage would be an exaggeration of known pharmacologic effects and adverse reactions, the most prominent of which would be: 1) severe extrapyramidal reactions, 2) hypotension, or 3) sedation.
-The patient would appear comatose with respiratory depression and hypotension which could be severe enough to produce a shock-like state.
-The extrapyramidal reactions would be manifested by muscular weakness or rigidity and a generalized or localized tremor, as demonstrated by the akinetic or agitans types, respectively.
-With accidental overdosage, hypertension rather than hypotension occurred in a two-year old child.
-The risk of ECG changes associated with torsades de pointes should be considered.
+There is no specific antidote for a haloperidol overdose.
 
-(For further information regarding torsades de pointes, please refer to ADVERSE REACTIONS.)
+- Shouldhypotensionoccurandavasopressorberequired,epinephrinemustnotbe used since HALOPERIDOL DECANOATE may block its vasopressor activity, and paradoxical further lowering of the blood pressure may occur.
+  Instead, metaraminol, phenylephrine or norepinephrine should be used.
+- In case of severe extrapyramidal reactions, antiparkinson drugs should be administered,andshouldbecontinuedforseveralweeks,andthenwithdrawn gradually as extrapyramidal symptoms may emerge if discontinued abruptly.
+- Monitor ECG and vital signs for signs of QTc interval prolongation or dysrhythmiasandcontinuemonitoringuntilthedysrhythmiasresolveandthe haloperidol-induced QTc interval prolongation resolves.
+- Dialysisisnotrecommendedinthetreatmentofoverdosebecauseitremovesonly very small amounts of haloperidol.
 
-## Treatment
-
-Since there is no specific antidote, treatment is primarily supportive.
-Dialysis is not recommended in the treatment of overdose because it removes only very small amounts of haloperidol.
-A patent airway must be established by use of an oropharyngeal airway or endotracheal tube or, in prolonged cases of coma, by tracheostomy.
-Respiratory depression may be counteracted by artificial respiration and mechanical respirators.
-Hypotension and circulatory collapse may be counteracted by use of intravenous fluids, plasma, or concentrated albumin, and vasopressor agents such as metaraminol, phenylephrine and norepinephrine.
-Epinephrine must not be used.
-In case of severe extrapyramidal reactions, antiparkinson medication should be administered, and should be continued for several weeks, and then withdrawn gradually as extrapyramidal symptoms may emerge.
-ECG and vital signs should be monitored especially for signs of QTc-interval prolongation or dysrhythmias and monitoring should continue until the ECG is normal.
-Severe arrhythmias should be treated with appropriate anti-arrhythmic measures.
-
-In case of an overdose, consult a Certified Poison Control Center (1-800-222-1222).
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.

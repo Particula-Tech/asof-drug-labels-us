@@ -1,48 +1,35 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Haloperidol Decanoate Injection should be administered by deep intramuscular injection.
-A 21 gauge needle is recommended.
-The maximum volume per injection site should not exceed 3 mL.
-DO NOT ADMINISTER INTRAVENOUSLY.
+## 2.1 Recommended Dosage and Administration
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Administer HALOPERIDOL DECANOATE by deep intramuscular injection every 4 weeks by a health care professional.
+Do not administer HALOPERIDOL DECANOATE intravenously.
 
-Haloperidol Decanoate Injection is intended for use in schizophrenic patients who require prolonged parenteral antipsychotic therapy.
-These patients must be previously stabilized on antipsychotic medication before considering a conversion to haloperidol decanoate.
-Furthermore, it is recommended that patients being considered for haloperidol decanoate therapy have been treated with, and tolerate well, short-acting haloperidol in order to reduce the possibility of an unexpected adverse sensitivity to haloperidol.
-Close clinical supervision is required during the initial period of dose adjustment in order to minimize the risk of overdosage or reappearance of psychotic symptoms before the next injection.
-During dose adjustment or episodes of exacerbation of symptoms of schizophrenia, haloperidol decanoate therapy can be supplemented with short-acting forms of haloperidol.
+When injecting HALOPERIDOL DECANOATE, use a 21-gauge needle.
+The maximum volume per injection site is 3 mL.
 
-The dose of haloperidol decanoate should be expressed in terms of its haloperidol content.
-The starting dose of haloperidol decanoate should be based on the patient’s age, clinical history, physical condition, and response to previous antipsychotic therapy.
-The preferred approach to determining the minimum effective dose is to begin with lower initial doses and to adjust the dose upward as needed.
-For patients previously maintained on low doses of antipsychotics (e.g., up to the equivalent of 10 mg/day oral haloperidol), it is recommended that the initial dose of haloperidol decanoate be 10 to 15 times the previous daily dose in oral haloperidol equivalents; limited clinical experience suggests that lower initial doses may be adequate.
+Table 1 below describes the recommended dosage for HALOPERIDOL DECANOATE.
+The maximum recommended initial dose is 100 mg.
+If the calculated first recommended dose of HALOPERIDOL DECANOATE is greater than 100 mg, then administer two deep intramuscular injections as follows:
 
-## Initial Therapy
+- 100 mg on the first day
+- Remainder of the amount 3 to 7days later.
 
-Conversion from oral haloperidol to haloperidol decanoate can be achieved by using an initial dose of haloperidol decanoate that is 10 to 20 times the previous daily dose in oral haloperidol equivalents.
+Table 1: HALOPERIDOL DECANOATE Recommended Dosage
 
-In patients who are elderly, debilitated, or stable on low doses of oral haloperidol (e.g., up to the equivalent of 10 mg/day oral haloperidol), a range of 10 to 15 times the previous daily dose in oral haloperidol equivalents is appropriate for initial conversion.
-
-In patients previously maintained on higher doses of antipsychotics for whom a low dose approach risks recurrence of psychiatric decompensation and in patients whose long-term use of haloperidol has resulted in a tolerance to the drug, 20 times the previous daily dose in oral haloperidol equivalents should be considered for initial conversion, with downward titration on succeeding injections.
-
-The initial dose of haloperidol decanoate should not exceed 100 mg regardless of previous antipsychotic dose requirements.
-If, therefore, conversion requires more than 100 mg of haloperidol decanoate as an initial dose, that dose should be administered in two injections, i.e., a maximum of 100 mg initially followed by the balance in 3 to 7 days.
-
-## Maintenance Therapy
-
-The maintenance dosage of haloperidol decanoate must be individualized with titration upward or downward based on therapeutic response.
-The usual maintenance range is 10 to 15 times the previous daily dose in oral haloperidol equivalents dependent on the clinical response of the patient.
-
-| HALOPERIDOL DECANOATE DOSING RECOMMENDATIONS |  |  |
+| Population | First Recommended Dose | Maintenance Dosage1 |
 | --- | --- | --- |
-| MONTHLY |  |  |
-| PATIENTS | 1ST MONTH | MAINTENANCE |
-| Stabilized on low daily oral doses (up to 10 mg/day) Elderly or Debilitated | 10 to 15 x Daily Oral Dose | 10 to 15 x Previous Daily Oral Dose |
-| High dose Risk of relapse Tolerant to oral haloperidol | 20 x Daily Oral Dose | 10 to 15 x Previous Daily Oral Dose |
+| Adult patients less than 65 years old stabilized on ≤ 10 mg of daily immediate- release oral haloperidol with normal hepatic function. | 10-15 times previous daily dose of immediate-release oral haloperidol. | 10-15 times previous daily dose of immediate- release oral haloperidol administered every 4 weeks.The dosage may be increased by increments of 50 mg or less every 4 weeks until an optimal therapeutic effect is obtained. The typical effective dosage range is between 50 and 200 mg every 4 weeks. |
+| Adult patients less than 65 years old stabilized on ≤ 10 mg of daily immediate-release oral haloperidol with hepatic impairmentORAdult patients 65 years and older | 10-15 times previous daily dose of immediate-release oral haloperidol. Consider starting at the low end of the dosing range [see Use in Specific Populations (8.5, 8.6) and Clinical Pharmacology (12.3)]. |  |
+| Adult patients less than 65 years old stabilized on >10 mg of daily immediate-release oral haloperidol | 10-20 times previous daily dose of immediate-release oral haloperidol | 10-15 times previous daily dose of immediate-release oral haloperidol administered every 4 weeks. The dosage may be increased by increments of 50 mg or less every 4 weeks until an optimal therapeutic effect is obtained. |
 
-Close clinical supervision is required during initiation and stabilization of haloperidol decanoate therapy.
-Haloperidol decanoate is usually administered monthly or every 4 weeks.
-However, variation in patient response may dictate a need for adjustment of the dosing interval as well as the dose (See CLINICAL PHARMACOLOGY).
+1 Clinical experience with HALOPERIDOL DECANOATE at a dosage greater than 450 mg every 4 weeks has been limited.
 
-Clinical experience with haloperidol decanoate at doses greater than 450 mg per month has been limited.
+## 2.2 Recommended Supplemental Immediate-release Oral Haloperidol Therapy
+
+If schizophrenia symptoms worsen during dosage modification of HALOPERIDOL DECANOATE, consider administering an immediate-release oral haloperidol product in addition to HALOPERIDOL DECANOATE therapy.
+
+## 2.3 Preparation Instructions
+
+Visually inspect HALOPERIDOL DECANOATE for particulate matter and discoloration prior to administration.
+Do not use if the solution has debris or is not clear or not pale yellow to peach in color.

@@ -1,132 +1,90 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- WARNINGS, Increased mortality in Elderly Patients with Dementia-Related Psychosis
-- WARNINGS, Cardiovascular Effects
-- WARNINGS, Tardive Dyskinesia
-- WARNINGS, Neuroleptic Malignant Syndrome
-- WARNINGS, Hypersensitivity Reactions
-- WARNINGS, Falls
-- WARNINGS, Combined Use of Haloperidol and Lithium
-- WARNINGS, General
-- PRECAUTIONS, Leukopenia, Neutropenia, and Agranulocytosis
-- PRECAUTIONS, Other
-- PRECAUTIONS, Usage in Pregnancy
+- Sudden Death, Torsades de Pointes, and QTc Interval Prolongation [see Warnings and Precautions (5.2)]
+- Tachycardia and Hypotension [see Warnings and Precautions (5.3)]
+- Tardive Dyskinesia [see Warnings and Precautions (5.5)]
+- Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.6)]
+- Seizures [see Warnings and Precautions (5.8)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+- Leukopenia, Neutropenia, and Agranulocytosis [see Warnings and Precautions (5.13)]
+- Hyperprolactinemia [see Warnings and Precautions (5.14)]
+- Risk of Severe Neurotoxicity in Patients with Thyrotoxicosis [see Warnings and Precautions (5.15)]
 
-## Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect exposure to haloperidol in 410 patients who participated in 13 clinical trials with haloperidol decanoate (15 to 500 mg/month) in the treatment of schizophrenia or schizoaffective disorder.
-These clinical trials comprised:
+Adverse Reactions Identified in Clinical Trials with HALOPERIDOL DECANOATE
 
-- 1 double-blind, active comparator-controlled trial with fluphenazine decanoate.
-- 2 trials comparing the decanoate formulation to oral haloperidol.
+The data described below reflect exposure to 15 mg to 500 mg (1.7 times the maximum recommended dosage) of HALOPERIDOL DECANOATE monthly in 13 clinical trials of 410 adult patients with schizophrenia or an unapproved condition.
+These clinical trials comprised of:
+
+- 1 double-blind, active comparator-controlled trial with fluphenazine decanoate (Trial 1).
+- 2 trials comparing HALOPERIDOL DECANOATE to oral haloperidol (Trials 2 and 3).
 - 9 open-label trials.
 - 1 dose-response trial.
 
-The most common adverse reactions in haloperidol decanoate-treated patients in the double-blind, active comparator-controlled clinical trial with fluphenazine decanoate (≥5%) were: Parkinsonism, and oculogyric crisis.
+The most common adverse reactions that occurred in ≥5% of HALOPERIDOL DECANOATE-treated patients in Trial 1 were Parkinsonism and oculogyric crisis.
 
-## Adverse Reactions Reported at ≥1% Incidence in a Double-Blind Active Comparator-Controlled Clinical Trial
+Adverse reactions that occurred in ≥1% of HALOPERIDOL DECANOATE-treated patients in Trial 1 are shown in Table 2.
+Trial 1 was not designed to evaluate meaningful comparisons of the incidence of adverse reactions in the HALOPERIDOL DECANOATE and fluphenazine decanoate treatment groups.
 
-Adverse reactions occurring in ≥1% of haloperidol decanoate-treated patients in a double-blind, clinical trial with the active comparator fluphenazine decanoate are shown in Table 1.
+Table 2: Adverse Reactions that Occurred in ≥;1% of HALOPERIDOL DECANOATE-treated Patients and Fluphenazine Decanoate-treated Patients in Trial 1a
 
-Table 1.
-Adverse Reactions Reported by ≥1% of Haloperidol Decanoate-treated Patients in a Double-Blind, Active Comparator-Controlled Clinical Trial with Fluphenazine Decanoate
+|  |  | HALOPERIDOL DECANOATE(n=36) | Fluphenazine decanoate (n=36) |
+| --- | --- | --- | --- |
+| Extrapyramidal disorder: |  |  |  |
+| Parkinsonism |  | 31% | 44% |
+| Oculogyric crisis |  | 6% | 0% |
+| Akinesia |  | 3% | 22% |
+| Akathisia |  | 3% | 14% |
+| Tremor |  | 3% | 0% |
+| Abdominal pain |  | 3% | 0% |
+| Headache |  | 3% | 0% |
+| a The study was not designed to evaluate meaningful comparisons of the incidence of adverse reactions in the HALOPERIDOL DECANOATE and the fluphenazine decanoate treatment groups. |  |  |  |
 
-| System/Organ ClassAdverse Reaction | Haloperidol decanoate(n=36)% | Fluphenazine decanoate(n=36)% |
-| --- | --- | --- |
-| Gastrointestinal Disorders |  |  |
-| Abdominal pain | 2.8 | 0 |
-| Nervous System Disorders |  |  |
-| Extrapyramidal disordera: |  |  |
-| Parkinsonism | 30.6 | 44.4 |
-| Oculogyric crisis | 5.6 | 0 |
-| Akinesia | 2.8 | 22.2 |
-| Akathisia | 2.8 | 13.9 |
-| Tremor | 2.8 | 0 |
-| Headache | 2.8 | 0 |
+Less common adverse reactions (<1%) that occurred in Trial 1 and other adverse reactions that occurred in Trials 2 and 3, and open-label and dose-response clinical trials of HALOPERIDOL DECANOATE are listed below.
 
-a Precise incidence for extrapyramidal disorder cannot be determined; reporting rates of some individual symptoms of extrapyramidal disorder are lower for haloperidol decanoate than for the active comparator, but the terms are included here because the events are considered associated with the drug
+- Cardiac Disorders: Tachycardia
+- Endocrine Disorders: Hyperprolactinemia
+- Eye Disorders: Vision blurred
+- Gastrointestinal Disorders:Constipation, Dry mouth, Salivary hypersecretion
+- General Disorders and Administration Site Conditions: Weigh increased, Injection site reaction
+- Musculo skeletal and Connective Tissue Disorders: Muscle rigidity
+- Nervous System Disorders: Dyskinesia, Dystonia, Cogwheel rigidity, Hypertonia, Masked facies, Sedation, Somnolence
+- Reproductive System Disorders: Erectile dysfunction
 
-## Additional Adverse Reactions Reported in Double-Blind, Comparator, Open-Label and Dose-Response Clinical Trials
+Adverse Reactions Identified in Clinical Trials with Immediate-Release Haloperidol Products
 
-Additional adverse reactions that are listed below were reported by haloperidol decanoate-treated patients in comparator, open-label, and dose-response clinical trials, or at <1% incidence in a double-blind, active comparator-controlled clinical trial with fluphenazine decanoate.
+Based on clinical trials with immediate-release haloperidol products that included 1,579 patients, the following adverse reactions were reported:
 
-Cardiac Disorders: Tachycardia
+- Musculoskeletal and Connective Tissue Disorders: Torticollis, Trismus, Muscle twitching
+- Nervous System Disorders: Neuroleptic malignant syndrome, Tardive dyskinesia, Bradykinesia, Hyperkinesia, Hypokinesia, Dizziness, Nystagmus
+- Psychiatric Disorders: Loss of libido, Restlessness
+- Reproductive System and Breast Disorders: Amenorrhea, Galactorrhea, Dysmenorrhea, Menorrhagia, Breast discomfort
+- Skin and Subcutaneous Tissue Disorders: Acneiform skin reactions
+- Vascular Disorders: Hypotension, Orthostatic hypotension
 
-Endocrine Disorders: Hyperprolactinemia
+## 6.2 Postmarketing Experience
 
-Eye Disorders: Vision blurred
-
-Gastrointestinal Disorders: Constipation, Dry mouth, Salivary hypersecretion
-
-General Disorders and Administration Site Conditions: Injection site reaction
-
-Investigations: Weight increased
-
-Musculoskeletal and Connective Tissue Disorders: Muscle rigidity
-
-Nervous System Disorders: Dyskinesia, Dystonia, Cogwheel rigidity, Hypertonia, Masked Facies, Sedation, Somnolence
-
-Reproductive System and Breast Disorders: Erectile dysfunction
-
-## Adverse Reactions Identified in Clinical Trials with Haloperidol (Non-Decanoate Formulations)
-
-The adverse reactions listed below were identified with non-decanoate formulations, and reflect exposure to the active moiety haloperidol in the following:
-
-- 284 patients who participated in 3 double-blind, placebo-controlled clinical trials with haloperidol (injection or oral formulation, 2 to 20 mg/day); two trials were in the treatment of schizophrenia and one in the treatment of bipolar disorder.
-
-- 1295 patients who participated in 16 double-blind, active comparator-controlled clinical trials with haloperidol (injection or oral formulation, 1 to 45 mg/day) in the treatment of schizophrenia.
-
-Musculoskeletal and Connective Tissue Disorders: Torticollis, Trismus, Muscle twitching
-
-Nervous System Disorders: Neuroleptic malignant syndrome, Tardive dyskinesia, Bradykinesia, Hyperkinesia, Hypokinesia, Dizziness, Nystagmus
-
-Psychiatric Disorders: Loss of libido, Restlessness
-
-Reproductive System and Breast Disorders: Amenorrhea, Galactorrhea, Dysmenorrhea, Menorrhagia, Breast discomfort
-
-Skin and Subcutaneous Tissue Disorders: Acneiform skin reactions
-
-Vascular Disorders: Hypotension, Orthostatic hypotension
-
-## Postmarketing Experience
-
-The following adverse reactions relating to the active moiety haloperidol have been identified during postapproval use of haloperidol or haloperidol decanoate.
+The following adverse reactions have been identified during post-approval use of haloperidol, including HALOPERIDOL DECANOATE.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System Disorders: Pancytopenia, Agranulocytosis, Thrombocytopenia, Leukopenia, Neutropenia
-
-Cardiac Disorders: Ventricular fibrillation, Torsade de pointes, Ventricular tachycardia, Extrasystoles
-
-Endocrine Disorders: Inappropriate antidiuretic hormone secretion
-
-Gastrointestinal Disorders: Vomiting, Nausea
-
-General Disorders and Administration Site Conditions: Sudden death, Face edema, Edema, Hyperthermia, Hypothermia, Injection site abscess
-
-Hepatobiliary Disorders: Acute hepatic failure, Hepatitis, Cholestasis, Jaundice, Liver function test abnormal
-
-Immune System Disorders: Anaphylactic reaction, Hypersensitivity
-
-Investigations: Electrocardiogram QT prolonged, Weight decreased
-
-Metabolic and Nutritional Disorders: Hypoglycemia
-
-Musculoskeletal and Connective Tissue Disorders: Rhabdomyolysis
-
-Nervous System Disorders: Convulsion, Opisthotonus, Tardive dystonia
-
-Pregnancy, Puerperium and Perinatal Conditions: Drug withdrawal syndrome neonatal
-
-Psychiatric Disorders: Agitation, Confusional state, Depression, Insomnia
-
-Renal and Urinary Disorders: Urinary retention
-
-Reproductive System and Breast Disorders: Priapism, Gynecomastia
-
-Respiratory, Thoracic and Mediastinal Disorders: Laryngeal edema, Bronchospasm, Laryngospasm, Dyspnea
-
-Skin and Subcutaneous Tissue Disorders: Angioedema, Dermatitis exfoliative, Hypersensitivity vasculitis, Photosensitivity reaction, Urticaria, Pruritus, Rash, Hyperhidrosis
+- Blood and Lymphatic System Disorders: Pancytopenia, Agranulocytosis, Thrombocytopenia, Leukopenia, Neutropenia
+- Cardiac Disorders: Ventricular fibrillation, Torsade de pointes, Ventricular tachycardia, Extrasystoles, QTc interval prolongation
+- Endocrine Disorders: Inappropriate antidiuretic hormone secretion
+- Gastrointestinal Disorders: Vomiting, Nausea
+- General Disorders and Administration Site Conditions: Sudden death, Face edema, Edema, Hyperthermia, Hypothermia, Injection site abscess, Weight decreased
+- HepatobiliaryDisorders:Acutehepaticfailure,Hepatitis,Cholestasis,Jaundice, Liver function test abnormal
+- Immune System Disorders: Anaphylactic reaction, Hypersensitivity
+- Metabolic and Nutritional Disorders: Hypoglycemia
+- Musculoskeletal and Connective Tissue Disorders: Rhabdomyolysis
+- Nervous System Disorders: Convulsion, Opisthotonus, Tardive dystonia
+- Pregnancy, Puerperium and Perinatal Conditions: Neonatal drug withdrawal syndrome
+- Psychiatric Disorders: Agitation, Confusional state, Depression, Insomnia
+- Renal and Urinary Disorders: Urinary retention
+- Reproductive System and Breast Disorders: Priapism, Gynecomastia
+- Respiratory, Thoracic and Mediastinal Disorders: Laryngeal edema, Bronchospasm, Laryngospasm, Dyspnea
+- Skin and Subcutaneous Tissue Disorders: Angioedema, Dermatitis exfoliative, Hypersensitivity vasculitis, Photosensitivity reaction, Urticaria, Pruritus, Rash, Hyperhidrosis

@@ -1,8 +1,9 @@
-# Vial Label 1 mL
+# Container Label
+
+Haloperidol Decanoate Inj.
+100 mg/mL container label
 
 NDC 0143-9295-01 Rx only
-
-Haloperidol Decanoate Injection
 
 100 mg/mL*
 
@@ -10,16 +11,19 @@ Haloperidol Decanoate Injection
 
 For Intramuscular Use only
 
-# Vial Label 5 mL
+1 mL Single-dose vial
+
+# Container Label
+
+Haloperidol Decanoate Inj.
+500 mg/mL per 5 mL container label
 
 NDC 0143-9296-01 Rx only
 
-Haloperidol Decanoate Injection
-
-500 mg per 5 mL*
+500 mg/mL per 5 mL*
 
 (100 mg/mL)
 
 For Intramuscular Use only
 
-Sterile 5 mL Multiple-dose Vial
+Sterile 5 mL Multiple-dose vial
