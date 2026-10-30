@@ -16,7 +16,7 @@ Severe hypocalcemia resulting in hospitalization, life-threatening events and fa
 The presence of underlying chronic kidney disease-mineral bone disorder (CKD-MBD, renal osteodystrophy) markedly increases the risk of hypocalcemia.
 Concomitant use of calcimimetic drugs may also worsen hypocalcemia risk.
 
-To minimize the risk of hypocalcemia in patients with advanced chronic kidney disease, evaluate for the presence of chronic kidney disease mineral and bone disorder with intact parathyroid hormone (iPTH), serum calcium, 25(OH) vitamin D, and 1,25 (OH)2 vitamin D prior to decisions regarding Jubbonti treatment.
+To minimize the risk of hypocalcemia in patients with advanced chronic kidney disease, evaluate for the presence of chronic kidney disease-mineral and bone disorder with intact parathyroid hormone (iPTH), serum calcium, 25(OH) vitamin D, and 1,25 (OH)2 vitamin D prior to decisions regarding Jubbonti treatment.
 Consider also assessing bone turnover status (serum markers of bone turnover or bone biopsy) to evaluate the underlying bone disease that may be present.
 Monitor serum calcium weekly for the first month after Jubbonti administration and monthly thereafter.
 Instruct all patients with advanced chronic kidney disease, including those who are dialysis-dependent, about the symptoms of hypocalcemia and the importance of maintaining serum calcium levels with adequate calcium and activated vitamin D supplementation.
@@ -30,7 +30,7 @@ Patients receiving Jubbonti should not receive other denosumab products concomit
 
 Clinically significant hypersensitivity including anaphylaxis has been reported with denosumab products.
 Symptoms have included hypotension, dyspnea, throat tightness, facial and upper airway edema, pruritus, and urticaria.
-If an anaphylactic or other clinically significant allergic reaction occurs, initiate appropriate therapy, and discontinue further use of Jubbonti [see Contraindications (4), Adverse Reactions (6.2)].
+If an anaphylactic or other clinically significant allergic reaction occurs, initiate appropriate therapy, and discontinue further use of Jubbonti [see Contraindications (4) and Adverse Reactions (6.2)].
 
 ## 5.4 Osteonecrosis of the Jaw
 
@@ -56,7 +56,7 @@ Causality has not been established as these fractures also occur in osteoporotic
 
 Atypical femoral fractures most commonly occur with minimal or no trauma to the affected area.
 They may be bilateral, and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
-A number of reports note that patients were also receiving treatment with glucocorticoids (e.g., prednisone) at the time of fracture.
+A number of reports note that patients were also receiving treatment with glucocorticoids (e.g. prednisone) at the time of fracture.
 
 During Jubbonti treatment, patients should be advised to report new or unusual thigh, hip, or groin pain.
 Any patient who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
@@ -68,7 +68,7 @@ Interruption of Jubbonti therapy should be considered, pending a benefit-risk as
 Following discontinuation of denosumab treatment, fracture risk increases, including the risk of multiple vertebral fractures.
 Treatment with denosumab results in significant suppression of bone turnover and cessation of denosumab treatment results in increased bone turnover above pretreatment values 9 months after the last dose of denosumab.
 Bone turnover then returns to pretreatment values 24 months after the last dose of denosumab.
-In addition, bone mineral density (BMD) returns to pretreatment values within 18 months after the last injection [see Clinical Pharmacology (12.2), Clinical Studies (14.1)].
+In addition, bone mineral density (BMD) returns to pretreatment values within 18 months after the last injection [see Clinical Pharmacology (12.2) and Clinical Studies (14.1)].
 
 New vertebral fractures occurred as early as 7 months (on average 19 months) after the last dose of denosumab.
 Prior vertebral fracture was a predictor of multiple vertebral fractures after denosumab discontinuation.
@@ -102,7 +102,7 @@ Consider discontinuing use if severe symptoms develop [see Patient Counseling In
 
 ## 5.10 Suppression of Bone Turnover
 
-In clinical trials in women with postmenopausal osteoporosis, treatment with denosumab resulted in significant suppression of bone remodeling as evidenced by markers of bone turnover and bone histomorphometry [see Clinical Pharmacology (12.2), Clinical Studies (14.1)].
+In clinical trials in women with postmenopausal osteoporosis, treatment with denosumab resulted in significant suppression of bone remodeling as evidenced by markers of bone turnover and bone histomorphometry [see Clinical Pharmacology (12.2) and Clinical Studies (14.1)].
 The significance of these findings and the effect of long-term treatment with denosumab products are unknown.
 The long-term consequences of the degree of suppression of bone remodeling observed with denosumab may contribute to adverse outcomes such as osteonecrosis of the jaw, atypical fractures, and delayed fracture healing.
 Monitor patients for these consequences.

@@ -6,4 +6,4 @@ Jubbonti is contraindicated in:
 - •Pregnant women: Denosumab products may cause fetal harm when administered to a pregnant woman.
   In women of reproductive potential, pregnancy testing should be performed prior to initiating treatment with Jubbonti [see Use in Specific Populations (8.1)].
 - •Patients with hypersensitivity to denosumab products: Jubbonti is contraindicated in patients with a history of systemic hypersensitivity to any component of the product.
-  Reactions have included anaphylaxis, facial swelling, and urticaria [see Warnings and Precautions (5.3), Adverse Reactions (6.2)].
+  Reactions have included anaphylaxis, facial swelling, and urticaria [see Warnings and Precautions (5.3) and Adverse Reactions (6.2)].

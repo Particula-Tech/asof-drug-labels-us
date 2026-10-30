@@ -161,7 +161,7 @@ Effect on Vertebral Fractures
 Denosumab significantly reduced the incidence of new vertebral fractures at 3 years (p = 0.0125), as shown in Table 5.
 
 - Table 5.
-  The Effect of Denosumab on the Incidence of New Vertebral Fractures in Men with Nonmetastatic Prostate Cancer.
+  The Effect of Denosumab on the Incidence of New Vertebral Fractures in Men with Nonmetastatic Prostate Cancer
 
 |  | Placebo N = 673 (%) | Denosumab N = 679 (%) |  |  |
 | --- | --- | --- | --- | --- |

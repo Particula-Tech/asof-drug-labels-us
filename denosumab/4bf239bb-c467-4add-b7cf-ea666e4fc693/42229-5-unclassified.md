@@ -4,7 +4,7 @@ Manufactured by:
 
 Sandoz Inc.
 
-Princeton, NJ 08540
+Plainsboro, NJ 08536
 
 U.S. License No. 2003
 

@@ -8,7 +8,7 @@ Based on findings in animals, denosumab products can cause fetal harm when admin
 
 ## 2.2 Laboratory Testing in Patients with Advanced Chronic Kidney Disease Prior to Initiation of Jubbonti
 
-In patients with advanced chronic kidney disease [i.e., estimated glomerular filtration rate (eGFR) < 30 mL/min/1.73 m2], including dialysis-dependent patients, evaluate for the presence of chronic kidney disease mineral and bone disorder (CKD-MBD) with intact parathyroid hormone (iPTH), serum calcium, 25(OH) vitamin D, and 1,25 (OH)2 vitamin D prior to decisions regarding Jubbonti treatment.
+In patients with advanced chronic kidney disease [i.e., estimated glomerular filtration rate (eGFR) < 30 mL/min/1.73 m2], including dialysis-dependent patients, evaluate for the presence of chronic kidney disease-mineral and bone disorder (CKD-MBD) with intact parathyroid hormone (iPTH), serum calcium, 25(OH) vitamin D, and 1,25 (OH)2 vitamin D prior to decisions regarding Jubbonti treatment.
 Consider also assessing bone turnover status (serum markers of bone turnover or bone biopsy) to evaluate the underlying bone disease that may be present [see Warnings and Precautions (5.1)].
 
 ## 2.3 Recommended Dosage
