@@ -10,25 +10,21 @@ Metoclopramide Oral Solution USP
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx ONLY
+Rx only
 
 16 fl oz (473 mL)
 
-Pharmaceutical Associates, Inc. Greenville, SC 29605
+PAI Pharma
 
 # PRINCIPAL DISPLAY PANEL - 10 mL Cup Label
 
-D elivers 10 mL NDC 0121-1576-10
+Delivers 10 mL NDC 0121-1576-10
 
-Delivers 10 mL
+Metoclopramide
 
-NDC 0121-1576-10
+Oral Solution USP
 
-Metoclopramide Oral Solution USP
-
-10 mg/10 mL
-
-(present as the hydrochloride)
+10 mg/10 mL (present as the hydrochloride)
 
 Package Not Child-Resistant
 
