@@ -25,5 +25,5 @@
 | Remove the device from your nostril. While keeping your head upright, gently breathe in through your nose and breathe out through your mouth. Repeat this for 10 to 20 seconds (See Figure L). It is normal for you to feel liquid in your nose or at the back of your throat. Do not look down because the medicine may drip from your nose. Do not breathe in deeply. |  |  |
 | Step 11 – Dispose of the Used Device |  |  |
 | Throw away the used device and its packaging into your household trash (See Figure M). You have received your full dose, if you have: 🗸Used 1 device🗸Given 1 spray into 1 nostril |  |  |
-| Manufactured for TONIX MEDICINES, INC. Chatham, NJ 07928 TOSYMRA is a registered trademark of Tonix Medicines, Inc. This product may be covered by one or more U.S. patent(s). |  |  |
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration. |  | Revised: 10/2023 |
+| Manufactured for TONIX MEDICINES, INC. Berkeley Heights, NJ 07922 TOSYMRA is a registered trademark of Tonix Medicines, Inc. This product may be covered by one or more U.S. patent(s). |  |  |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. |  | Revised: 08/2026 |
