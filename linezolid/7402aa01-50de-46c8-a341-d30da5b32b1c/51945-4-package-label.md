@@ -1,3 +1,5 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 67877-419-01 Linezolid Tablets 600 mg 100 Tablets
+NDC 67877-419-20 Linezolid Tablets, USP 600 mg 20 Tablets
+
+NDC 67877-419-10 Linezolid Tablets, USP 600 mg 1000 Tablets

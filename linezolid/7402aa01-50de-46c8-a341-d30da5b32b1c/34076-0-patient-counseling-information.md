@@ -10,7 +10,8 @@ Advise patients to inform their physician if they experience changes in vision w
 
 Serotonin Syndrome
 
-Advise patients to inform their physician if taking serotonergic agents, including serotonin re-uptake inhibitors or other antidepressants and opioids [see Warnings and Precautions (5.3)].
+Advise patients to inform their physician if taking serotonergic agents, including serotonin reuptake inhibitors or other antidepressants and opioids.
+Advise patients of the increased risk of serotonin syndrome when linezolid is used concomitantly with serotonergic agents [see Warnings and Precautions (5.3)].
 
 Potential Interactions Producing Elevation of Blood Pressure
 
@@ -58,4 +59,4 @@ Infertility
 Advise male patients that linezolid may reversibly impair fertility [see Use in Specific Populations (8.3)].
 
 Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
-Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921 Revised: January 2025 PT 1985-13
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921 Revised: July 2026 PT 1985-14

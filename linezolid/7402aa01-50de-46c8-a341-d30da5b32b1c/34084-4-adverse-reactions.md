@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following clinically significant adverse reactions are described elsewhere in the labeling: • Myelosuppression [see Warnings and Precautions (5.1)] • Peripheral and Optic Neuropathy [see Warnings and Precautions (5.2)] • Serotonin Syndrome [see Warnings and Precautions (5.3)] • Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.5)] • Lactic Acidosis [see Warnings and Precautions (5.7)] • Convulsions [see Warnings and Precautions (5.8)] • Rhabdomyolysis [see Warnings and Precautions (5.9)] • Hypoglycemia [see Warnings and Precautions (5.10)] Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) [see Warnings and Precautions (5.11)]
+The following clinically significant adverse reactions are described elsewhere in the labeling: • Myelosuppression [see Warnings and Precautions (5.1)] • Peripheral and Optic Neuropathy [see Warnings and Precautions (5.2)] • Serotonin Syndrome [see Warnings and Precautions (5.3)] • Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.5)] • Lactic Acidosis [see Warnings and Precautions (5.7)] • Convulsions [see Warnings and Precautions (5.8)] • Rhabdomyolysis [see Warnings and Precautions (5.9)] • Hypoglycemia [see Warnings and Precautions (5.10)] • Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 

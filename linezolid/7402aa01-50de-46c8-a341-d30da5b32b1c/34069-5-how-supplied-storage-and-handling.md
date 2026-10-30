@@ -2,7 +2,7 @@
 
 ## 16.2 Tablets
 
-Linezolid Tablets are available as follows:
+Linezolid Tablets, USPare available as follows:
 
 600 mg (white to off-white, capsule-shaped, film-coated tablets debossed with “LIN 600” on one side and plain on the other side.)
 
