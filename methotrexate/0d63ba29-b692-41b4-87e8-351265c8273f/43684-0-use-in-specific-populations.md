@@ -77,10 +77,10 @@ Risks of Serious Adverse Reactions due to Benzyl Alcohol-Preservative
 Due to the risk of serious adverse reactions and fatal gasping syndrome following administration of intravenous solutions containing the preservative benzyl alcohol in neonates, use only preservative-free Methotrexate Injection in neonates and low birth weight infants.
 The "gasping syndrome" is characterized by CNS depression, metabolic acidosis, and gasping respirations.
 
-Serious adverse reactions including fatal reactions and the "gasping syndrome" occurred in premature neonates and low-birth weight infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative.
+Serious adverse reactions including fatal reactions and the "gasping syndrome" occurred in premature neonates and low birth weight infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative.
 In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L).
 Additional adverse reactions include gradual neurological deterioration, seizures, intracranial hemorrhage, hematological abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
-Preterm, low-birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
+Preterm, low birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
 
 When prescribing in infants (non-neonate, non-low birth weight), if a preservative-free formulation of Methotrexate Injection is not available and use of a benzyl alcohol-containing formulation is necessary, consider the combined daily metabolic load of benzyl alcohol from all sources including Methotrexate Injection (Methotrexate Injection contains 9.4 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol.
 The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known.
