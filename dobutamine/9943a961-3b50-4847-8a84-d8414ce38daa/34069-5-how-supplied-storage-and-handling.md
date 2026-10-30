@@ -4,11 +4,8 @@ DOBUTamine in 5% Dextrose Injection, USP is supplied in 250 mL single-dose flexi
 
 | Unit of Sale | Concentration |
 | --- | --- |
-| NDC 0409-2346-32 Case of 12 single-dose flexible containers | 250 mg/250 mL (1 mg/mL) |
 | NDC 0409-0025-10 Case of 12 single-dose flexible containers | 250 mg/250 mL (1 mg/mL) |
-| NDC 0409-2347-32 Case of 12 single-dose flexible containers | 500 mg/250 mL (2 mg/mL) |
 | NDC 0409-0151-10 Case of 12 single-dose flexible containers | 500 mg/250 mL (2 mg/mL) |
-| NDC 0409-3724-32 Case of 12 single-dose flexible containers | 1,000 mg/250 mL (4 mg/mL) |
 | NDC 0409-1100-10 Case of 12 single-dose flexible containers | 1,000 mg/250 mL (4 mg/mL) |
 
 Do not freeze.
@@ -17,6 +14,6 @@ Store at 20°C to 25°C (68°F to 77°F).
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1181-6.0
+LAB-1181-7.0
 
-Revised: 11/2025
+Revised: 10/2026
