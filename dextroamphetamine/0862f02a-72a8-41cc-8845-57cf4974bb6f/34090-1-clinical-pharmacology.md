@@ -11,16 +11,16 @@ Amphetamines block the reuptake of norepinephrine and dopamine into the presynap
 
 ## 12.3 Pharmacokinetics
 
-Following a single 9-hour application of XELSTRYM in pediatric patients 6 to 12 years with ADHD, the Cmax and AUC of dextroamphetamine were dose-proportional over the dose range of 4.5 mg/9 hours to 18 mg/9 hours.
+Following a single 9-hour application of XELSTRYM in pediatric patients 6 to 12 years with ADHD, the C maxand AUC of dextroamphetamine were dose-proportional over the dose range of 4.5 mg/9 hours to 18 mg/9 hours.
 
-After a single dose of 18 mg/9 hours of XELSTRYM or 70 mg of lisdexamfetamine in adults, the peak plasma concentration (Cmax) of dextroamphetamine were 44.6 ng/mL and 67.6 ng/mL, respectively; and area under concentration curve (AUCinf) of dextroamphetamine were 996 ng*h/mL and 1260 ng*h/mL, respectively.
-Median time-to-peak concentrations (tmax) was 9 hours for XELSTRYM and 4 hours for lisdexamfetamine.
+After a single dose of 18 mg/9 hours of XELSTRYM or 70 mg of lisdexamfetamine in adults, the peak plasma concentration (C max) of dextroamphetamine were 44.6 ng/mL and 67.6 ng/mL, respectively; and area under concentration curve (AUC inf) of dextroamphetamine were 996 ng*h/mL and 1260 ng*h/mL, respectively.
+Median time-to-peak concentrations (t max) was 9 hours for XELSTRYM and 4 hours for lisdexamfetamine.
 
 The plasma PK profiles of dextroamphetamine following administration of XELSTRYM and lisdexamfetamine are shown in Figure 2.
 
 Figure 2: Mean Plasma Concentrations versus Time Profile of Dextroamphetamine After a Single Dose Administration of XELSTRYM and Lisdexamfetamine in Healthy Adults
 
-After multiple dosing of 18 mg/9 hours of XELSTRYM with application site rotation in adults or 70 mg of lisdexamfetamine (simulated), Cmax of dextroamphetamine were 68.8 ng/mL and 84.5 ng/mL, respectively; AUC0-24 of dextroamphetamine were 1150 ng*h/mL and 1248 ng*h/mL, respectively.
+After multiple dosing of 18 mg/9 hours of XELSTRYM with application site rotation in adults or 70 mg of lisdexamfetamine (simulated), C maxof dextroamphetamine were 68.8 ng/mL and 84.5 ng/mL, respectively; AUC 0-24of dextroamphetamine were 1150 ng*h/mL and 1248 ng*h/mL, respectively.
 
 Absorption
 
@@ -28,13 +28,13 @@ The amount of dextroamphetamine absorbed systemically is a function of both wear
 Peak plasma levels of dextroamphetamine were typically reached at 6 to 9 hours after single application and 6 hours after repeat applications of XELSTRYM when worn up to 9 hours.
 
 On average, approximately 90% of dextroamphetamine is delivered from the transdermal system over 9 hours.
-Inter-individual variability for XELSTRYM as coefficient of variation (%CV) for the dextroamphetamine Cmax and AUC was generally about 20% to 30%.
+Inter-individual variability for XELSTRYM as coefficient of variation (%CV) for the dextroamphetamine C maxand AUC was generally about 20% to 30%.
 
-After repeat applications of XELSTRYM for 4 weeks in adults with ADHD, there was 46% increase in Cmax and 54% increase in AUC0-24 when applied with rotating application sites for each transdermal system.
-There was 86% increase in Cmax and 104% increase in AUC0-24 when XELSTRYM was applied on the same site for 28 days.
+After repeat applications of XELSTRYM for 4 weeks in adults with ADHD, there was 46% increase in C maxand 54% increase in AUC 0-24when applied with rotating application sites for each transdermal system.
+There was 86% increase in C maxand 104% increase in AUC 0-24when XELSTRYM was applied on the same site for 28 days.
 
-Application of a heating pad on XELSTRYM for 6 consecutive hours led to a faster absorption rate (median Tmax about 6.5 hours) as compared with XELSTRYM without a heating pad (median Tmax about 8.5 hours).
-Geometric least square mean ratios for dextroamphetamine exposure, calculated as Cmax and AUC0-9h, were about 116% and 150%, respectively, compared with XELSTRYM without a heating pad, indicating the apparent heat effect on dextroamphetamine absorption.
+Application of a heating pad on XELSTRYM for 6 consecutive hours led to a faster absorption rate (median T maxabout 6.5 hours) as compared with XELSTRYM without a heating pad (median T maxabout 8.5 hours).
+Geometric least square mean ratios for dextroamphetamine exposure, calculated as C maxand AUC 0-9h, were about 116% and 150%, respectively, compared with XELSTRYM without a heating pad, indicating the apparent heat effect on dextroamphetamine absorption.
 
 The application of XELSTYRM to different sites (hip, upper arm, chest, upper back and flank) did not alter dextroamphetamine PK.
 
@@ -62,13 +62,13 @@ In addition, drugs that affect urinary pH are known to alter the elimination of 
 Specific Populations
 
 The shapes of pharmacokinetic profiles after XELSTRYM application were generally similar between the pediatric and the adult population.
-Based on population PK, the median Cmax in pediatric patients 6 to 17 years are predicted to be 120% and 180%, respectively, the median AUC in pediatric patients are predicted to be 112% and 148%, respectively, of those in adults with a dose of 18 mg/9 hours.
+Based on population PK, the median C maxin pediatric patients 6 to 17 years are predicted to be 120% and 180%, respectively, the median AUC in pediatric patients are predicted to be 112% and 148%, respectively, of those in adults with a dose of 18 mg/9 hours.
 
 Exposures of dextroamphetamine in specific populations evaluated with lisdexamfetamine are summarized in Figure 3.
 
 Figure 3: Dextroamphetamine Exposures in Specific Populations
 
-*Figure 3 shows the geometric mean ratios and the 90% confidence limits for Cmax and AUC of dextroamphetamine.
+*Figure 3 shows the geometric mean ratios and the 90% confidence limits for C maxand AUC of dextroamphetamine.
 Comparison for gender uses males as the reference.
 Comparison for age uses 55-64 years as the reference
 

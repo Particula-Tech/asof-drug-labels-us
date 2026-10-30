@@ -73,7 +73,7 @@ Advise women not to breastfeed if they are taking XELSTRYM [see USE IN SPECIFIC 
 Impairment in Ability to Operate Machinery or Vehicles
 
 XELSTRYM may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or vehicles.
-Instruct patients to find out how XELSTRYM will affect them before engaging in potentially hazardous activities [see ADVERSE REACTIONS (6.1, 6.2)].
+Instruct patients to find out how XELSTRYM will affect them before engaging in potentially hazardous activities [see ADVERSE REACTIONS (6.1,6.2)].
 
 Administration Instructions
 
@@ -85,5 +85,5 @@ Inform patients/caregivers:
 - to apply XELSTRYM to clean, dry, and intact skin.
 - to wash their hands immediately if they touch the adhesive side of the transdermal system to avoid amphetamine absorption and to check XELSTRYM periodically throughout the wear time [see DOSAGE AND ADMINISTRATION (2.3)].
 
-Manufactured by: Noven Pharmaceuticals, Inc., Miami, FL 33186 For more information, go to www.xelstrym.com or call 1-800-455-8070.
-Xelstrym® is a registered trademark of Noven Therapeutics, LLC. © 2025 Noven Pharmaceuticals, Inc. 102668-3
+Manufactured by: Noven Pharmaceuticals, Inc., Miami, FL 33186 For more information, go to www.xelstrym.comor call 1-800-455-8070.
+Xelstrym ® is a registered trademark of Noven Therapeutics, LLC. © 2025 Noven Pharmaceuticals, Inc. 102668-3

@@ -3,8 +3,8 @@
 The following adverse reactions are discussed in greater detail in other sections of the labeling
 
 - Known hypersensitivity to amphetamine products or other ingredients of XELSTRYM [see CONTRAINDICATIONS (4)]
-- Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see CONTRAINDICATIONS (4) and DRUG INTERACTIONS (7.1)]
-- Abuse, Misuse, and Addiction [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1) and DRUG ABUSE AND DEPENDENCE (9.2, 9.3)]
+- Hypertensive Crisis When Used Concomitantly with Monoamine Oxidase Inhibitors [see CONTRAINDICATIONS (4)and DRUG INTERACTIONS (7.1)]
+- Abuse, Misuse, and Addiction [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1)and DRUG ABUSE AND DEPENDENCE (9.2,9.3)]
 - Risks to Patients with Serious Cardiac Disease [see WARNINGS AND PRECAUTIONS (5.2)]
 - Increased Blood Pressure and Heart Rate [see WARNINGS AND PRECAUTIONS (5.3)]
 - Psychiatric Adverse Reactions [see WARNINGS AND PRECAUTIONS (5.4)]
@@ -33,7 +33,7 @@ There were no discontinuations due to adverse reactions during the double-blind 
 
 Adverse Reactions Occurring at an Incidence of 5% or More in XELSTRYM Treated Pediatric Patients Ages 6 to 17 Years During Dose-optimized Treatment
 
-Adverse reactions (incidence of ≥ 5%) that occurred during the dose-optimization phase of the clinical study include: decreased appetite (54%), insomnia1 (32%), headache (21%), irritability (16%), abdominal pain2 (16%) affect lability3 (16%), application site pain4 (13%), nausea (9%), application site pruritus (7%), and fatigue (5%).
+Adverse reactions (incidence of ≥ 5%) that occurred during the dose-optimization phase of the clinical study include: decreased appetite (54%), insomnia 1(32%), headache (21%), irritability (16%), abdominal pain 2(16%) affect lability 3(16%), application site pain 4(13%), nausea (9%), application site pruritus (7%), and fatigue (5%).
 
 1insomnia includes insomnia, delayed sleep phase, initial insomnia, middle insomnia, and terminal insomnia 2abdominal pain includes abdominal pain and abdominal pain upper 3affect lability includes affect lability, emotional disorder, mood swings, and mood altered 4application site pain includes application site pain and application site burn
 
@@ -55,14 +55,14 @@ Table 1: Adverse Reactions Reported by ≥ 2% of Pediatric Patients 6 to 17 Year
 | Tic | 2 | 0 |
 | Gastrointestinal Disorders |  |  |
 | Vomiting | 4 | 0 |
-| Abdominal pain* | 4 | 2 |
+| Abdominal pain * | 4 | 2 |
 | Nausea | 3 | 1 |
 | General disorders and administration site conditions |  |  |
 | Irritability | 2 | 1 |
 | Investigations/Cardiac Disorders |  |  |
-| Blood pressure increased* | 2 | 1 |
-| Heart rate increased* | 2 | 0 |
-| *The following terms were combined:Insomnia includes insomnia, delayed sleep phase, initial insomnia, middle insomnia, and terminal insomnia Abdominal pain includes abdominal pain and abdominal pain upper Blood pressure increased includes blood pressure increased and blood pressure systolic increased Heart rate increased includes heart rate increased and tachycardia |  |  |
+| Blood pressure increased * | 2 | 1 |
+| Heart rate increased * | 2 | 0 |
+| *The following terms were combined: Insomnia includes insomnia, delayed sleep phase, initial insomnia, middle insomnia, and terminal insomnia Abdominal pain includes abdominal pain and abdominal pain upper Blood pressure increased includes blood pressure increased and blood pressure systolic increased Heart rate increased includes heart rate increased and tachycardia |  |  |
 
 Application Site Reactions
 

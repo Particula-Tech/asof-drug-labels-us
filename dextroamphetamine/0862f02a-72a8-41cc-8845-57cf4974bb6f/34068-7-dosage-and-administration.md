@@ -45,8 +45,8 @@ Do not substitute for other amphetamine products on a milligram-per-milligram ba
 
 ## 2.5 Dosage in Patients with Renal Impairment
 
-In patients with severe renal impairment (GFR 15 to < 30 mL/min/1.73 m2), the maximum dose should not exceed 13.5 mg/9 hours.
-The maximum recommended dose in end stage renal disease (GFR < 15 mL/min/1.73 m2) patients is 9 mg/9 hours [see USE IN SPECIFIC POPULATIONS (8.6)].
+In patients with severe renal impairment (GFR 15 to < 30 mL/min/1.73 m 2), the maximum dose should not exceed 13.5 mg/9 hours.
+The maximum recommended dose in end stage renal disease (GFR < 15 mL/min/1.73 m 2) patients is 9 mg/9 hours [see USE IN SPECIFIC POPULATIONS (8.6)].
 
 ## 2.6 Dosage Modification due to Drug Interactions
 

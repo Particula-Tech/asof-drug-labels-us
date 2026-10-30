@@ -4,13 +4,13 @@ How Supplied
 
 XELSTRYM (dextroamphetamine) transdermal system is a translucent product with a printed backing on one side and a release liner on the other packaged in an individual pouch supplied as:
 
-- 4.5 mg/9 hours transdermal system (system size: 4.76 cm2) Carton of 30 transdermal systems, each transdermal system is packaged in an individual pouch NDC 68968-0205-3
+- 4.5 mg/9 hours transdermal system (system size: 4.76 cm 2) Carton of 30 transdermal systems, each transdermal system is packaged in an individual pouch NDC 68968-0205-3
 
-- 9 mg/9 hours transdermal system (system size: 9.52 cm2) Carton of 30 transdermal systems, each transdermal system is packaged in an individual pouch NDC 68968-0210-3
+- 9 mg/9 hours transdermal system (system size: 9.52 cm 2) Carton of 30 transdermal systems, each transdermal system is packaged in an individual pouch NDC 68968-0210-3
 
-- 13.5 mg/9 hours transdermal system (system size: 14.29 cm2) Carton of 30 transdermal systems, each transdermal system is packaged in an individual pouch NDC 68968-0215-3
+- 13.5 mg/9 hours transdermal system (system size: 14.29 cm 2) Carton of 30 transdermal systems, each transdermal system is packaged in an individual pouch NDC 68968-0215-3
 
-- 18 mg/9 hours transdermal system (system size: 19.05 cm2) Carton of 30 transdermal systems, each transdermal system is packaged in an individual pouch NDC 68968-0220-3
+- 18 mg/9 hours transdermal system (system size: 19.05 cm 2) Carton of 30 transdermal systems, each transdermal system is packaged in an individual pouch NDC 68968-0220-3
 
 Storage and Handling
 

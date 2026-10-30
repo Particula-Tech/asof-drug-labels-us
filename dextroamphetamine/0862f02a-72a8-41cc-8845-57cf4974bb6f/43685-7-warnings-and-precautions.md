@@ -100,7 +100,7 @@ Patients should select a different application site each day to minimize skin re
 ## 5.10 Use of External Heat
 
 When heat is applied to XELSTRYM after application, both the rate and extent of absorption are increased.
-After application of a heating pad, amphetamine exposure (AUC0-9h) was about 1.5-times greater than without heating pad application [see CLINICAL PHARMACOLOGY (12.3)].
+After application of a heating pad, amphetamine exposure (AUC 0-9h) was about 1.5-times greater than without heating pad application [see CLINICAL PHARMACOLOGY (12.3)].
 Advise patients to avoid exposing XELSTRYM to direct external heat sources such as hair dryers, heating pads, electric blankets, heated water beds, etc., while wearing XELSTRYM.
 
 ## 5.11 Motor and Verbal Tics, and Worsening of Tourette’s Syndrome

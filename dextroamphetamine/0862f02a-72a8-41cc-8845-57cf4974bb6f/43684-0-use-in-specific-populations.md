@@ -70,7 +70,7 @@ In these studies, patients experienced elevated rates of adverse reactions, incl
 
 Growth Suppression
 
-Growth should be monitored during treatment with stimulants, including XELSTRYM, and pediatric patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see WARNINGS AND PRECAUTIONS (5.5) and ADVERSE REACTIONS (6.1)].
+Growth should be monitored during treatment with stimulants, including XELSTRYM, and pediatric patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see WARNINGS AND PRECAUTIONS (5.5)and ADVERSE REACTIONS (6.1)].
 
 Juvenile Animal Data
 
@@ -79,7 +79,7 @@ Learning and memory were impaired.
 No recovery was seen following a drug free period.
 A delay in sexual maturation was observed, although there was no effect on fertility.
 
-In a juvenile developmental study, rats received daily oral doses of amphetamine (d- to l- enantiomer ratio of 3:1) of 2, 6, or 20 mg/kg on days 7-13 of age; from day 14 to approximately day 60 of age, these doses were given twice daily for total daily doses of 4, 12, or 40 mg/kg.
+In a juvenile developmental study, rats received daily oral doses of amphetamine (d-to l-enantiomer ratio of 3:1) of 2, 6, or 20 mg/kg on days 7-13 of age; from day 14 to approximately day 60 of age, these doses were given twice daily for total daily doses of 4, 12, or 40 mg/kg.
 Post dosing hyperactivity was seen at all doses; motor activity measured prior to the daily dose was decreased during the dosing period but the decreased motor activity was largely absent after an 18 day drug-free recovery period.
 Performance in the Morris water maze test for learning and memory was impaired at the 40 mg/kg dose, and sporadically at the lower doses, when measured prior to the daily dose during the treatment period; no recovery was seen after a 19 day drug-free period.
 A delay in the developmental milestones of vaginal opening and preputial separation was seen at 40 mg/kg but there was no effect on fertility.
@@ -93,7 +93,7 @@ In general, dose selection for an elderly patient should start at the low end of
 
 ## 8.6 Renal Impairment
 
-Due to reduced clearance in patients with severe renal impairment (GFR 15 to < 30 mL/min/1.73 m2), the maximum XELSTRYM dose should not exceed 13.5 mg/9 hours.
-The maximum recommended dose in end stage renal disease (GFR < 15 mL/min/1.73 m2) patients is 9 mg/9 hours XELSTRYM.
+Due to reduced clearance in patients with severe renal impairment (GFR 15 to < 30 mL/min/1.73 m 2), the maximum XELSTRYM dose should not exceed 13.5 mg/9 hours.
+The maximum recommended dose in end stage renal disease (GFR < 15 mL/min/1.73 m 2) patients is 9 mg/9 hours XELSTRYM.
 
 Dextroamphetamine is not dialyzable.

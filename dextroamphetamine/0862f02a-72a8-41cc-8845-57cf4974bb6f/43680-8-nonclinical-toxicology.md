@@ -9,13 +9,13 @@ Dermal carcinogenicity studies with dextroamphetamine were not conducted.
 
 Mutagenesis
 
-Amphetamine, in the enantiomer ratio d- to l- ratio of 3:1, was not clastogenic in the mouse bone marrow micronucleus test in vivo and was negative when tested in the E. coli component of the Ames test in vitro. d,l-Amphetamine (1:1 enantiomer ratio) has been reported to produce a positive response in the mouse bone marrow micronucleus test, an equivocal response in the Ames test, and negative responses in the in vitro sister chromatid exchange and chromosomal aberration assays.
+Amphetamine, in the enantiomer ratio d-to l-ratio of 3:1, was not clastogenic in the mouse bone marrow micronucleus test in vivo and was negative when tested in the E. coli component of the Ames test in vitro. d,l-Amphetamine (1:1 enantiomer ratio) has been reported to produce a positive response in the mouse bone marrow micronucleus test, an equivocal response in the Ames test, and negative responses in the in vitro sister chromatid exchange and chromosomal aberration assays.
 
 Impairment of Fertility
 
-Amphetamine, in the enantiomer ratio d- to l- ratio of 3:1, did not adversely affect fertility or early embryonic development in the rat at doses of up to 20 mg/kg/day.
+Amphetamine, in the enantiomer ratio d-to l-ratio of 3:1, did not adversely affect fertility or early embryonic development in the rat at doses of up to 20 mg/kg/day.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Acute administration of high doses of amphetamine (d- or d,l-) has been shown to produce long-lasting neurotoxic effects, including irreversible nerve fiber damage, in rodents.
+Acute administration of high doses of amphetamine (d-or d,l-) has been shown to produce long-lasting neurotoxic effects, including irreversible nerve fiber damage, in rodents.
 The significance of these findings to humans is unknown.

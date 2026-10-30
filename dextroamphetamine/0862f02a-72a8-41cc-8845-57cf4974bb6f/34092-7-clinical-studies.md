@@ -18,9 +18,9 @@ Changes in SKAMP total scores assessed at pre-dose (-0.5 hours) and at 1, 2, 3, 
 
 Table 5: Summary of Primary Efficacy Results: SKAMP Total Score Averaged Over Classroom Day in Pediatric Patients (6 to 17 years) with ADHD (Period 1 Data only)
 
-| Study Number | Treatment Group | Pre-Dose Score on Classroom Dayb Mean (SD) | LS Meanc (SE) | Placebo-subtracted Differenced (95% CI) |
+| Study Number | Treatment Group | Pre-Dose Score on Classroom Day b Mean (SD) | LS Mean c (SE) | Placebo-subtracted Difference d (95% CI) |
 | --- | --- | --- | --- | --- |
-| Study 1 | XELSTRYMa | 13.6 (5.9) | 12.4 (1.2) | -4.7 (-8.0, -1.4) |
+| Study 1 | XELSTRYM a | 13.6 (5.9) | 12.4 (1.2) | -4.7 (-8.0, -1.4) |
 | Placebo | 12.7 (7.9) | 17.1 (1.2) | -------- |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval. a Statistically significant to placebo. b Pre-dose score on Period 1 classroom day. c LS mean over hours 1, 2, 3, 4.5, 6, 7, 9, 10, and 12 hours post-dose on Period 1 classroom day. d Difference (drug minus placebo) in least-squares means on Period 1 classroom day. |  |  |  |  |
 
