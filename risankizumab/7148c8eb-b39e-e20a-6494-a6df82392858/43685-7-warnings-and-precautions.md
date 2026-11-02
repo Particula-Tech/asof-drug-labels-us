@@ -17,13 +17,10 @@ If a patient develops such an infection or is not responding to standard therapy
 
 ## 5.3 Tuberculosis
 
-Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with SKYRIZI.
-Across the Phase 3 psoriasis clinical studies, of the 72 subjects with latent TB who were concurrently treated with SKYRIZI and appropriate TB prophylaxis during the studies, none developed active TB during the mean follow-up of 61 weeks on SKYRIZI.
-Two subjects taking isoniazid for treatment of latent TB discontinued treatment due to liver injury.
-Of the 31 subjects from the PsO-3 study with latent TB who did not receive prophylaxis during the study, none developed active TB during the mean follow-up of 55 weeks on SKYRIZI.
+Consider evaluating patients for tuberculosis (TB) infection prior to initiating treatment with SKYRIZI based on clinical judgement.
 Consider anti-TB therapy prior to initiating SKYRIZI in patients with a past history of latent or active TB in whom an adequate course of treatment cannot be confirmed.
 Monitor patients for signs and symptoms of active TB during and after SKYRIZI treatment.
-Do not administer SKYRIZI to patients with active TB.
+Avoid administering SKYRIZI to patients with active TB.
 
 ## 5.4 Hepatotoxicity
 

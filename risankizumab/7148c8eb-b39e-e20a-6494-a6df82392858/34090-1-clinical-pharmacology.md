@@ -13,13 +13,16 @@ No formal pharmacodynamics studies have been conducted with risankizumab-rzaa.
 
 ## 12.3 Pharmacokinetics
 
-Risankizumab-rzaa plasma concentrations, after single dose administration increased dose proportionally from 18 mg to 360 mg when administered subcutaneously (0.12 to 2.4 times the lowest recommended dose and 0.05 to 1 times the highest recommended dose) and from 200 mg to 1,800 mg when administered as an up to 3-hour intravenous infusion (0.2 to 3 times the recommended dose) in healthy subjects.
+Risankizumab-rzaa concentrations, after single dose administration increased dose proportionally from 18 mg to 720 mg when administered subcutaneously (0.12 to 4.8 times the lowest recommended dose and 0.025 to 1 times the highest recommended dose) and from 200 mg to 1,800 mg when administered as an up to 3-hour intravenous infusion (0.33 to 3 times the lowest recommended dose and 0.16 to 1.5 times the highest recommended dose) in healthy subjects.
 
 In subjects with plaque psoriasis treated with 150 mg subcutaneously at Weeks 0, 4, and every 12 weeks thereafter, steady-state peak concentration (Cmax) and trough concentration (Ctrough) are estimated to be 12 mcg/mL and 2 mcg/mL, respectively.
 
 With the same subcutaneous dosing regimen, the pharmacokinetics of risankizumab-rzaa in subjects with psoriatic arthritis were similar to that in subjects with plaque psoriasis.
 
 In subjects with Crohn’s disease treated with 600 mg intravenous induction dose at Weeks 0, 4, and 8, followed by 180 mg or 360 mg subcutaneous maintenance dose at Week 12 and every 8 weeks thereafter, the median Cmax and Ctrough are estimated to be 156 mcg/mL and 38.8 mcg/mL, respectively, during Weeks 8-12; and the steady state median Cmax and Ctrough are estimated to be 14 mcg/mL and 4.1 mcg/mL, respectively for 180 mg or 28 mcg/mL and 8.1 mcg/mL, respectively, for 360 mg, during Weeks 40-48.
+
+In subjects with Crohn’s disease treated with 720 mg subcutaneous induction dose at Weeks 0, 2, 4, and 8, the median Cmax and Ctrough are estimated to be 103 mcg/mL and 50.9 mcg/mL during Weeks 8-12.
+The total systemic exposure (AUC) after the recommended induction dose regimen was similar following subcutaneous or intravenous induction.
 
 In subjects with ulcerative colitis treated with 1,200 mg intravenous induction dose at Weeks 0, 4, and 8, followed by 180 mg or 360 mg subcutaneous maintenance dose at Week 12 and every 8 weeks thereafter, the median Cmax and Ctrough are estimated to be 350 and 87.7 mcg/mL, respectively, during the induction period (Weeks 8-12); and the steady state median Cmax and Ctrough are estimated to be 19.6 and 4.64 µg/mL, respectively, for 180 mg or 39.2 mcg/mL and 9.29 mcg/mL, respectively, for 360 mg, during the maintenance period (Weeks 40-48).
 
@@ -91,9 +94,12 @@ None of these hypersensitivity and injection site reactions led to discontinuati
 
 Moderately to Severely Active Crohn’s Disease
 
-By Week 64, antibodies to risankizumab-rzaa developed in approximately 3.4% (2/58) of subjects treated with SKYRIZI induction followed by 360 mg maintenance regimen.
-No subjects (0/57) treated with SKYRIZI induction followed by 180 mg maintenance regimen developed antibodies to risankizumab-rzaa.
+By Week 64, antibodies to risankizumab-rzaa developed in approximately 3.4% (2/58) of subjects treated with the intravenous SKYRIZI induction regimen followed by the 360 mg maintenance regimen.
+No subjects (0/57) treated with the intravenous SKYRIZI induction regimen followed by the 180 mg maintenance regimen developed antibodies to risankizumab-rzaa.
 None of the subjects who developed antibodies to risankizumab-rzaa had antibodies that were classified as neutralizing.
+
+By Week 12, antibodies to risankizumab-rzaa developed in approximately 1.6% (3/191) of subjects treated with the subcutaneous SKYRIZI induction regimen.
+Of the subjects who developed antibodies to risankizumab-rzaa, approximately 33% (0.5% of all subjects treated with the subcutaneous SKYRIZI induction regimen) had antibodies that were classified as neutralizing.
 
 Moderately to Severely Active Ulcerative Colitis
 

@@ -9,12 +9,6 @@ Each SKYRIZI prefilled syringe contains a sterile, preservative-free, colorless 
 Each syringe delivers 55 mg of risankizumab-rzaa and the inactive ingredients glacial acetic acid (0.02 mg), polysorbate 20 (0.07 mg), sodium acetate (0.28 mg), trehalose (23.4 mg), and Water for Injection, USP.
 The pH is 5.7.
 
-SKYRIZI (risankizumab-rzaa) injection 90 mg/mL prefilled syringe for subcutaneous use
-
-Each SKYRIZI prefilled syringe contains a sterile, preservative-free, colorless to slightly yellow, and clear to slightly opalescent solution.
-Each syringe delivers 90 mg of risankizumab-rzaa, and inactive ingredients polysorbate 20 (0.2 mg), sodium succinate (0.63 mg), sorbitol (41 mg), succinic acid (0.059 mg), and Water for Injection, USP.
-The pH is 6.2.
-
 SKYRIZI (risankizumab-rzaa) injection 150 mg/mL prefilled syringe or prefilled pen for subcutaneous use
 
 Each SKYRIZI prefilled pen or prefilled syringe contains a sterile, preservative-free, colorless to yellow, and clear to slightly opalescent solution.

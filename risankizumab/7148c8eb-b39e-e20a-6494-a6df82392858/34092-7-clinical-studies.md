@@ -279,10 +279,10 @@ In both trials at Week 24, subjects treated with SKYRIZI showed improvements in 
 
 ## 14.3 Clinical Trials in Subjects with Moderately to Severely Active Crohn’s Disease
 
-Induction Trials (Trials CD-1 and CD-2)
+Induction Trials (Trials CD-1 and CD-2) – Intravenous Administration
 
 In two 12-week induction trials (CD-1; NCT03105128 and CD-2; NCT03104413), subjects with moderately to severely active Crohn’s disease were randomized to receive SKYRIZI 600 mg, SKYRIZI 1,200 mg, or placebo as an intravenous infusion at Week 0, Week 4, and Week 8.
-Moderately to severely active CD was defined as a Crohn’s Disease Activity Index (CDAI) of 220 to 450 and Simple Endoscopic Score for Crohn’s disease (SES-CD) ≥6 (or ≥4 for isolated ileal disease).
+Moderately to severely active CD was defined as a Crohn’s Disease Activity Index (CDAI) of 220 to 450 and Simple Endoscopic Score for Crohn’s disease (SES-CD) ≥ 6 (or ≥ 4 for isolated ileal disease).
 Subjects with inadequate response, loss of response, or intolerance to oral aminosalicylates, corticosteroids, immunosuppressants, and/or biologic therapy were enrolled.
 
 At baseline, the median CDAI was 307 (range: 76 – 634) and 307 (range: 72 – 651), and the median SES-CD was 12 (range: 4 – 45) and 13 (range 4 – 40), in CD-1 and CD-2, respectively.
@@ -293,7 +293,7 @@ In CD-1 and CD-2 combined, the median age was 36 years (ranging from 16 to 80 ye
 
 In CD-1 and CD-2, the co-primary endpoints were clinical remission and endoscopic response at Week 12.
 Secondary endpoints included clinical response and endoscopic remission (see Table 15 and Table 16).
-The SKYRIZI 1,200 mg dosage did not demonstrate additional treatment benefit over the 600 mg dosage and is not a recommended regimen [see Dosage and Administration (2.6)].
+The SKYRIZI 1,200 mg dosage did not demonstrate additional treatment benefit over the 600 mg dosage and is not a recommended regimen [see Dosage and Administration (2.4)].
 
 Table 15.
 Proportion of Subjects with Moderately to Severely Active Crohn’s Disease Meeting Efficacy Endpoints at Week 12 – Trial CD-1
@@ -333,14 +333,49 @@ Onset of clinical response and clinical remission based on CDAI occurred as earl
 
 Reductions in stool frequency and abdominal pain were observed in a greater proportion of subjects treated with the SKYRIZI 600 mg induction regimen compared to placebo at Week 12.
 
-Trial CD-3
+Induction Trial (Study CD-5) – Subcutaneous Administration
+
+In a 12-week induction study (CD-5; NCT06063967), subjects with moderately to severely active Crohn’s disease were randomized to receive SKYRIZI 720 mg or placebo administered as a subcutaneous injection at Week 0, Week 2, Week 4, and Week 8.
+Moderately to severely active CD was defined as a CDAI of 220 to 450 and SES-CD ≥ 6 (or ≥ 4 for isolated ileal disease).
+Subjects with inadequate response, loss of response, or intolerance to oral aminosalicylates, corticosteroids, immunosuppressants, biologics, and/or Janus Kinase inhibitors (JAKi) were enrolled.
+
+At baseline in CD-5, the median CDAI was 306 (range: 220 – 447) and the median SES-CD was 12 (range: 4 – 36).
+In CD-5, 64% (176/274) of subjects had failed or were intolerant to treatment with one or more biologics or JAKi.
+Of these 176 subjects, 175 (99%) failed biologics, 42 (24%) failed ustekinumab, and 20 (11%) failed JAKi.
+Among the subjects without prior biologics or JAKi failure, 92% (90/98) were naïve to biologics or JAKi and the remaining 8% had received biologics or JAKi but never failed nor demonstrated intolerance.
+At baseline, 25% of patients were receiving corticosteroids, 16% of patients were receiving immunomodulators (azathioprine, 6-mercaptopurine, methotrexate), and 18% of patients were receiving aminosalicylates in CD-5.
+In CD-5, the median age was 36 years (ranging from 19 to 77 years), 55% (151/274) of subjects were white, and 57% (156/274) were male.
+
+In CD-5, the co-primary endpoints were clinical remission and endoscopic response at Week 12 (see Table 17).
+Secondary endpoints included endoscopic remission.
+
+Table 17.
+Proportion of Subjects Meeting Efficacy Endpoints at Week 12 – Study CD-5
+
+| Endpoint | Placebo | SKYRIZI 720 mg Subcutaneous Injectiona | Treatment Difference b (95% CI) |
+| --- | --- | --- | --- |
+| Clinical Remissionc,d |  |  |  |
+| Total Population | N=94 30% | N=180 56% | 27% e (15%, 38%) |
+| Prior biologic or JAKi failuref | N=61 31% | N=115 45% |  |
+| Without prior biologic or JAKi failure | N=33 27% | N=65 74% |  |
+| Endoscopic Responsec,g |  |  |  |
+| Total Population | N=94 15% | N=180 43% | 28% e (18%, 38%) |
+| Prior biologic or JAKi failuref | N=61 15% | N=115 33% |  |
+| Without prior biologic or JAKi failure | N=33 15% | N=65 60% |  |
+| Endoscopic Remissionh |  |  |  |
+| Total Population | N=94 11% | N=180 26% | 15% e (7%, 24%) |
+| Prior biologic or JAKi failuref | N=61 11% | N=115 17% |  |
+| Without prior biologic or JAKi failure | N=33 9% | N=65 43% |  |
+| a. SKYRIZI 720 mg as a subcutaneous injection at Week 0, Week 2, Week 4, and Week 8 b. Adjusted treatment difference (95% CI) based on Cochran-Mantel-Haenszel method adjusted for randomization stratification factors c. Co-primary endpoints d. CDAI <150 e. p <0.001 f. Prior biologic or JAKi failure includes inadequate response, loss of response, or intolerance to one or more biologic or JAKi treatments for CD g. A decrease in SES-CD > 50% from baseline, or a decrease of at least 2 points for subjects with a baseline score of 4 and isolated ileal disease, based on central reading h. SES-CD ≤ 4 and at least a 2-point reduction from baseline, with no individual subscore greater than 1, based on central reading |  |  |  |
+
+Maintenance Trial CD-3 – Subcutaneous Administration
 
 The maintenance trial CD-3 evaluated 382 subjects who achieved clinical response defined as a reduction in CDAI of at least 100 points from baseline after 12 weeks of induction treatment with intravenous SKYRIZI in trials CD-1 and CD-2.
 Subjects were randomized to receive a maintenance regimen of SKYRIZI 180 mg or SKYRIZI 360 mg or placebo at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks.
 
-The co-primary endpoints in CD-3 were clinical remission and endoscopic response at Week 52 (see Table 17).
+The co-primary endpoints in CD-3 were clinical remission and endoscopic response at Week 52 (see Table 18).
 
-Table 17.
+Table 18.
 Proportion of Subjects with Moderately to Severely Active Crohn’s Disease Meeting Efficacy Endpoints at Week 52 - Trial CD-3
 
 | Endpoint | Placeboa | SKYRIZI 180 mg Subcutaneous Injectionb | SKYRIZI 360 mg Subcutaneous Injectionc | Treatment Difference vs Placebod (95% CI) |  |  |
@@ -375,10 +410,10 @@ Of these 499 subjects, 484 (97%) failed biologics and 90 (18%) failed JAK inhibi
 Enrolled subjects were permitted to use a stable dose of oral corticosteroids (up to 20 mg/day prednisone or equivalent), immunomodulators, and aminosalicylates.
 At baseline, 36% of subjects were receiving corticosteroids, 16% of subjects were receiving immunomodulators (including azathioprine, 6-mercaptopurine, methotrexate), and 73% of subjects were receiving aminosalicylates in UC-1.
 
-In UC-1, the primary endpoint was clinical remission defined using the mMS at Week 12 (see Table 18).
-Key secondary endpoints included clinical response, endoscopic improvement, and histologic endoscopic mucosal improvement (see Table 18).
+In UC-1, the primary endpoint was clinical remission defined using the mMS at Week 12 (see Table 19).
+Key secondary endpoints included clinical response, endoscopic improvement, and histologic endoscopic mucosal improvement (see Table 19).
 
-Table 18.
+Table 19.
 Proportion of Subjects with Moderately to Severely Active Ulcerative Colitis Meeting Efficacy Endpoints at Week 12 – Trial UC-1
 
 | Endpoint | Placebo | SKYRIZI 1,200 mg Intravenous Infusiona | Treatment Difference (95% CI)b |
@@ -433,10 +468,10 @@ Subjects were randomized to receive a maintenance regimen of subcutaneous (SC) S
 In UC-2, 75% (411/547) of subjects had failed (inadequate response or intolerance) treatment with one or more biologics, JAKi, or S1PRM.
 Of these 411 subjects, 407 (99%) failed biologics and 78 (19%) failed JAK inhibitors.
 
-The primary endpoint in UC-2 was clinical remission using mMS at Week 52 (see Table 19).
-Key secondary endpoints included corticosteroid-free clinical remission, endoscopic improvement, and histologic endoscopic mucosal improvement (see Table 19).
+The primary endpoint in UC-2 was clinical remission using mMS at Week 52 (see Table 20).
+Key secondary endpoints included corticosteroid-free clinical remission, endoscopic improvement, and histologic endoscopic mucosal improvement (see Table 20).
 
-Table 19.
+Table 20.
 Proportion of Subjects with Moderately to Severely Active Ulcerative Colitis Meeting Efficacy Endpoints at Week 52 - Trial UC-2
 
 | Endpoint | Placeboa | SKYRIZI 180 mg SC Injectionb | SKYRIZI 360 mg SC Injectionc |

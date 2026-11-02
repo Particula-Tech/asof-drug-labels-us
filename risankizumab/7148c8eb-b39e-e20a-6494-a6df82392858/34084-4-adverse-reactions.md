@@ -68,13 +68,17 @@ One case of anaphylaxis was reported in a subject who received SKYRIZI in the Ph
 
 Adverse Reactions in Adult Subjects with Crohn’s Disease
 
-SKYRIZI was studied up to 12 weeks in subjects with moderately to severely active Crohn’s disease in two randomized, double-blind, placebo-controlled induction trials (CD-1, CD-2) and a randomized, double-blind, placebo-controlled, dose-finding trial (CD-4; NCT02031276).
-Long-term safety up to 52 weeks was evaluated in subjects who responded to induction therapy in a randomized, double-blind, placebo-controlled maintenance trial (CD-3) [see Clinical Studies (14.3)].
+SKYRIZI was studied up to 12 weeks in subjects with moderately to severely active Crohn’s disease in three randomized, double-blind, placebo-controlled induction trials (CD-1, CD-2, and CD-5) and a randomized, double-blind, placebo-controlled, induction dose-finding trial (CD-4; NCT02031276).
+Long-term safety up to 52 weeks was evaluated in subjects who responded to induction therapy in CD-1 and CD-2 in a randomized, double-blind, placebo-controlled maintenance trial (CD-3) [see Clinical Studies (14.3)].
 
-In the two induction trials (CD-1, CD-2) and the dose finding trial (CD-4), 620 subjects received the SKYRIZI intravenous induction regimen at Weeks 0, 4 and 8.
+In the two induction trials (CD-1, CD-2) and the induction dose finding trial (CD-4), 620 subjects received the SKYRIZI intravenous induction regimen at Weeks 0, 4 and 8.
 In the maintenance trial (CD-3), 297 subjects who achieved clinical response, defined as a reduction in CDAI of at least 100 points from baseline after 12 weeks of induction treatment with intravenous SKYRIZI in trials CD-1 and CD-2, received a maintenance regimen of SKYRIZI either 180 mg or 360 mg subcutaneously at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks.
 
-Adverse reactions reported in > 3% of subjects in induction trials and at a higher rate than placebo are shown in Table 5.
+In CD-5, 191 subjects received the SKYRIZI 720 mg subcutaneous induction regimen at Weeks 0, 2, 4 and 8.
+A total of 134 subjects who achieved clinical response received the maintenance regimen of SKYRIZI of 360 mg subcutaneously at Week 12 and every 8 weeks through Week 24.
+
+Adverse reactions reported in > 3% of subjects in induction trials (CD-1, CD-2, and CD-4) and at a higher rate than placebo are shown in Table 5.
+The overall safety profile observed for CD-5 was generally consistent with CD-1, CD-2, and CD-4.
 
 Table 5.
 Adverse Drug Reactions Reported in > 3% of Subjects with Crohn’s Disease Treated with SKYRIZI in Placebo-Controlled 12-Week Induction Trials (CD-1, CD-2, and CD-4)

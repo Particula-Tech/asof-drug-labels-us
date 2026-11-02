@@ -142,7 +142,6 @@ Read Before First Use
 Refer to the Medication Guide for product information.
 
 Read complete Instructions for Use before using SKYRIZI prefilled syringe.
-
 Before using SKYRIZI, you should receive training from your healthcare provider on how to inject SKYRIZI prefilled syringe.
 
 In children 10 years of age and older, it is recommended that SKYRIZI prefilled syringe be given by an adult or with an adult watching (supervision).
@@ -244,242 +243,6 @@ All rights reserved.
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Revised: 7/2026
-
-Instructions for Use SKYRIZI® (sky-RIZZ-ee) (risankizumab-rzaa) injection, for subcutaneous use
-
-2 x 90 mg/mL single-dose prefilled syringes for a total 180 mg/2 mL dose
-
-Read Before First Use
-
-Refer to the Medication Guide for product information.
-
-SKYRIZI Single-Dose Prefilled Syringe
-
-Keep SKYRIZI and all medicines out of the reach of children.
-
-Important Information:
-
-- Keep SKYRIZI in the original carton to protect from light until time to use.
-- The liquid should look clear to slightly yellow and may contain tiny white or clear particles.
-- Do not use SKYRIZI if the liquid is discolored, cloudy or contains flakes or large particles.
-  Return product to pharmacy.
-- Do not use SKYRIZI if the expiration date (EXP:) shown on the carton and prefilled syringe has passed.
-  Return product to pharmacy.
-- Do not use SKYRIZI if the liquid has been frozen (even if thawed).
-- Do not shake the syringe.
-- Do not use SKYRIZI if the prefilled syringe has been dropped or damaged.
-  Return product to pharmacy.
-- Do not use SKYRIZI if carton perforations are broken.
-  Return product to the pharmacy.
-- Do not remove the needle cover until right before giving the injections.
-- SKYRIZI is not made with natural rubber latex.
-
-Please Read Complete Instructions for Use Before Using SKYRIZI Prefilled Syringe
-
-Before Injecting:
-
-- Receive training on how to inject SKYRIZI before giving injections.
-  Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 if you need help.
-- Mark your calendar ahead of time to remember when to take SKYRIZI.
-- Leave the carton at room temperature and out of direct sunlight for 15 to 30 minutes to warm.
-  - Do not remove the prefilled syringes from the carton while allowing SKYRIZI to reach room temperature.
-  - Do not warm SKYRIZI in any other way (for example, do not warm it in a microwave or in hot water).
-
-Important Information:
-
-- The liquid should look clear to slightly yellow and may contain tiny white or clear particles.
-- Do not use SKYRIZI if the liquid is discolored, cloudy or contains flakes or large particles.
-  Return product to pharmacy.
-- Do not use SKYRIZI if the expiration date (EXP:) shown on the carton and prefilled syringe has passed.
-  Return product to pharmacy.
-- Do not use SKYRIZI if the prefilled syringe has been dropped or damaged.
-  Return product to pharmacy.
-- Do not use SKYRIZI if carton perforations are broken.
-  Return product to pharmacy.
-
-Storage Information:
-
-- Store SKYRIZI in the refrigerator between 36°F to 46°F (2°C to 8°C).
-- Do not shake SKYRIZI.
-- Keep SKYRIZI in the original carton to protect from light until time to use.
-- SKYRIZI is not made with natural rubber latex.
-- Do not use if liquid has been frozen (even if thawed).
-
-Keep SKYRIZI and all medicines out of the reach of children.
-
-Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 if you need help or do not know how to proceed.
-
-|  | Gather the supplies for the injections and place the following on a clean, flat surface: 2 prefilled syringes 2 alcohol swabs and 2 cotton balls or gauze pads (not included) FDA-cleared sharps disposal container (not included) See “Used SKYRIZI Prefilled Syringe Disposal” for information on how to throw away (dispose of) used prefilled syringes. Wash and dry your hands. Start with 1 prefilled syringe for first injection. |
-| --- | --- |
-|  | Pick from the 3 injectable areas: Front of left thigh or right thigh Your abdomen (belly) at least 2 inches from your navel (belly button) Wipe the injection site in a circular motion with the alcohol swab (before both injections) Do not touch or blow on the injection site after it is cleaned. Allow the skin to dry before injecting. Do not inject through clothes. Do not inject into skin that is sore, bruised, red, hard, scarred, or has stretch marks. |
-|  | Hold the prefilled syringe with covered needle facing down, as shown. Check the liquid in the prefilled syringe. It is normal to see one or more bubbles in the window. The liquid should look clear to slightly yellow and may contain tiny white or clear particles. Do not use the prefilled syringe if liquid is discolored, cloudy or contains flakes or large particles. |
-|  | Remove the needle cover. Do not hold or pull plunger rod when removing the needle cover. Hold the syringe in 1 hand between the finger grip and needle cover. With the other hand, carefully pull the needle cover straight off. You may see a drop of liquid at the end of the needle. This is normal. Throw away the needle cover. Do not touch the needle with your fingers or let the needle touch anything. |
-|  | Hold the body of the prefilled syringe in 1 hand between the thumb and index finger. Gently pinch the area of cleaned skin with your other hand and hold it firmly. Insert the needle into the skin at about a 45-degree angle using a quick, short movement. Hold angle steady. |
-|  | Slowly push the plunger rod all the way in until all of the liquid is injected and the syringe is empty. Pull the needle out of the skin while keeping the syringe at the same angle. Release the plunger rod. Allow the prefilled syringe to move up until the entire needle is covered by the needle guard. The needle guard will not automatically activate unless all the liquid has been injected. Press a cotton ball or gauze pad over the injection site and hold for 10 seconds. Do not rub the injection site. You may have slight bleeding. This is normal. |
-|  | Repeat Steps 2 through 6 with the 2nd prefilled syringe for a full dose. Use the 2nd prefilled syringe right after using the 1st syringe. |
-|  | Put your used prefilled syringes in an FDA-cleared sharps disposal container right away after use. Do not throw away (dispose of) used prefilled syringes in the household trash. For more information, or if you do not have an FDA-cleared sharps container see “Used SKYRIZI Prefilled Syringe Disposal” section located on the other side of these instructions. |
-
-Questions About Using the SKYRIZI Syringe
-
-Q. What if I have not received in-person training from a healthcare professional?
-
-A. Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 if you need help.
-Receive training on how to inject SKYRIZI before giving injections.
-
-Q. What should I do with both used prefilled syringes after my injections?
-
-A. Throw away (dispose of) both used prefilled syringes in a sharps disposal container.
-Do not put in household trash.
-For more information, see “Used SKYRIZI Prefilled Syringe Disposal” section.
-
-You can sign up to receive sharps containers for SKYRIZI prefilled syringe disposal at no additional cost by going to www.SKYRIZI.com or calling (866) 759-7494
-
-Q. How do I know when the injection is complete?
-
-A. The injection is complete when the prefilled syringe is empty, the plunger rod is pushed all the way in, and the syringe needle guard is activated.
-
-Used SKYRIZI Prefilled Syringe Disposal
-
-Throw away (dispose of) both used prefilled syringes in a sharps disposal container.
-Do not put in household trash.
-
-If you do not have an FDA-cleared sharps disposal container, you may use a household container that:
-
-- is made of a heavy-duty plastic,
-- can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-- stays upright and stable during use,
-- is leak-resistant, and
-- has been properly labeled to warn of hazardous waste inside the container.
-
-When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
-There may be state or local laws about how you should throw away used needles and syringes.
-
-For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: www.fda.gov/safesharpsdisposal.
-
-Do not recycle your used sharps disposal container.
-
-Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI® is a trademark of AbbVie Biotechnology Ltd. © 2019-2024 AbbVie Inc. 20078139
-
-This Instructions for Use have been approved by the U.S. Food and Drug Administration.
-
-Revised: 3/2024
-
-Instructions for Use SKYRIZI® (sky-RIZZ-ee) (risankizumab-rzaa) injection, for subcutaneous use 4 x 90 mg/mL single-dose prefilled syringes for a total 360 mg/4 mL dose
-
-Read Before First Use
-
-Refer to the Medication Guide for product information.
-
-SKYRIZI Single-Dose Prefilled Syringe
-
-Keep SKYRIZI and all medicines out of the reach of children.
-
-Important Information:
-
-- Keep SKYRIZI in the original carton to protect from light until time to use.
-- The liquid should look clear to slightly yellow and may contain tiny white or clear particles.
-- Do not use SKYRIZI if the liquid is discolored, cloudy or contains flakes or large particles.
-  Return product to pharmacy.
-- Do not use SKYRIZI if the expiration date (EXP:) shown on the carton and prefilled syringe has passed.
-  Return product to pharmacy.
-- Do not use SKYRIZI if the liquid has been frozen (even if thawed).
-- Do not shake the syringe.
-- Do not use SKYRIZI if the prefilled syringe has been dropped or damaged.
-  Return product to pharmacy.
-- Do not use SKYRIZI if carton perforations are broken.
-  Return product to the pharmacy.
-- Do not remove the needle cover until right before giving the injections.
-- SKYRIZI is not made with natural rubber latex.
-
-Please Read Complete Instructions for Use Before Using SKYRIZI Prefilled Syringe
-
-Before Injecting:
-
-- Receive training on how to inject SKYRIZI before giving injections.
-  Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 if you need help.
-- Mark your calendar ahead of time to remember when to take SKYRIZI.
-- Leave the carton at room temperature and out of direct sunlight for 15 to 30 minutes to warm.
-  - Do not remove the prefilled syringes from the carton while allowing SKYRIZI to reach room temperature.
-  - Do not warm SKYRIZI in any other way (for example, do not warm it in a microwave or in hot water).
-
-Important Information:
-
-- The liquid should look clear to slightly yellow and may contain tiny white or clear particles.
-- Do not use SKYRIZI if the liquid is discolored, cloudy or contains flakes or large particles.
-  Return product to pharmacy.
-- Do not use SKYRIZI if the expiration date (EXP:) shown on the carton and prefilled syringe has passed.
-  Return product to pharmacy.
-- Do not use SKYRIZI if the prefilled syringe has been dropped or damaged.
-  Return product to pharmacy.
-- Do not use SKYRIZI if carton perforations are broken.
-  Return product to pharmacy.
-
-Storage Information:
-
-- Store SKYRIZI in the refrigerator between 36°F to 46°F (2°C to 8°C).
-- Do not shake SKYRIZI.
-- Keep SKYRIZI in the original carton to protect from light until time to use.
-- SKYRIZI is not made with natural rubber latex.
-- Do not use if liquid has been frozen (even if thawed).
-
-Keep SKYRIZI and all medicines out of the reach of children.
-
-Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 if you need help or do not know how to proceed.
-
-|  | Gather the supplies for the injections and place the following on a clean, flat surface: 4 prefilled syringes 4 alcohol swabs and 4 cotton balls or gauze pads (not included) FDA-cleared sharps disposal container (not included) See “Used SKYRIZI Prefilled Syringe Disposal” for information on how to throw away (dispose of) used prefilled syringes. Wash and dry your hands. Start with 1 prefilled syringe for first injection. |
-| --- | --- |
-|  | Pick from the 3 injectable areas: Front of left thigh or right thigh Your abdomen (belly) at least 2 inches from your navel (belly button) Wipe the injection site in a circular motion with the alcohol swab (before all four injections) Do not touch or blow on the injection site after it is cleaned. Allow the skin to dry before injecting. Do not inject through clothes. Do not inject into skin that is sore, bruised, red, hard, scarred, or has stretch marks. |
-|  | Hold the prefilled syringe with covered needle facing down, as shown. Check the liquid in the prefilled syringe. It is normal to see one or more bubbles in the window. The liquid should look clear to slightly yellow and may contain tiny white or clear particles. Do not use the prefilled syringe if liquid is discolored, cloudy or contains flakes or large particles. |
-|  | Remove the needle cover. Do not hold or pull plunger rod when removing the needle cover. Hold the syringe in 1 hand between the finger grip and needle cover. With the other hand, carefully pull the needle cover straight off. You may see a drop of liquid at the end of the needle. This is normal. Throw away the needle cover. Do not touch the needle with your fingers or let the needle touch anything. |
-|  | Hold the body of the prefilled syringe in 1 hand between the thumb and index finger. Gently pinch the area of cleaned skin with your other hand and hold it firmly. Insert the needle into the skin at about a 45-degree angle using a quick, short movement. Hold angle steady. |
-|  | Slowly push the plunger rod all the way in until all of the liquid is injected and the syringe is empty. Pull the needle out of the skin while keeping the syringe at the same angle. Release the plunger rod. Allow the prefilled syringe to move up until the entire needle is covered by the needle guard. The needle guard will not automatically activate unless all the liquid has been injected. Press a cotton ball or gauze pad over the injection site and hold for 10 seconds. Do not rub the injection site. You may have slight bleeding. This is normal. |
-|  | Repeat Steps 2 through 6 with the 2nd, 3rd, and 4th prefilled syringe for a full dose. Use the 2nd, 3rd, and 4th prefilled syringe right after using the 1st syringe. |
-|  | Put your used prefilled syringes in an FDA-cleared sharps disposal container right away after use. Do not throw away (dispose of) used prefilled syringes in the household trash. For more information, or if you do not have an FDA-cleared sharps container see “Used SKYRIZI Prefilled Syringe Disposal” section located on the other side of these instructions. |
-
-Questions About Using the SKYRIZI Syringe
-
-Q. What if I have not received in-person training from a healthcare professional?
-
-A. Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 if you need help.
-Receive training on how to inject SKYRIZI before giving injections.
-
-Q. What should I do with all four used prefilled syringes after my injections?
-
-A. Throw away (dispose of) all 4 used prefilled syringes in a sharps disposal container.
-Do not put in household trash.
-For more information, see “Used SKYRIZI Prefilled Syringe Disposal” section.
-
-You can sign up to receive sharps containers for SKYRIZI prefilled syringe disposal at no additional cost by going to www.SKYRIZI.com or calling (866) 759-7494
-
-Q. How do I know when the injection is complete?
-
-A. The injection is complete when the prefilled syringe is empty, the plunger rod is pushed all the way in, and the syringe needle guard is activated.
-
-Used SKYRIZI Prefilled Syringe Disposal
-
-Throw away (dispose of) all four used prefilled syringes in a sharps disposal container.
-Do not put in household trash.
-
-If you do not have an FDA-cleared sharps disposal container, you may use a household container that:
-
-- is made of a heavy-duty plastic,
-- can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-- stays upright and stable during use,
-- is leak-resistant, and
-- has been properly labeled to warn of hazardous waste inside the container.
-
-When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
-There may be state or local laws about how you should throw away used needles and syringes.
-
-For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: www.fda.gov/safesharpsdisposal.
-
-Do not recycle your used sharps disposal container.
-
-Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI® is a trademark of AbbVie Biotechnology Ltd. © 2019-2024 AbbVie Inc.
-
-This Instructions for Use have been approved by the U.S. Food and Drug Administration.
-
-Revised: 3/2024
 
 Instructions for Use SKYRIZI® (sky-RIZZ-ee) (risankizumab-rzaa) injection, for subcutaneous use 180 mg/1.2 mL (150 mg/mL) single-dose prefilled syringe for a total 180 mg/1.2 mL dose
 
@@ -594,13 +357,11 @@ Do not recycle your used sharps disposal container.
 
 Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI® is a trademark of AbbVie Biotechnology Ltd. © 2019-2025 AbbVie Inc. 20087559
 
-These Instructions for Use have been approved by the U.S. Food and Drug Administration.
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Revised: 9/2025
 
-Instructions for Use SKYRIZI® (sky-RIZZ-ee) (risankizumab-rzaa) injection, for subcutaneous use 2 x 180 mg/1.2 mL (150 mg/mL) single-dose prefilled syringe for a total 360 mg/2.4 mL dose
-
-Read Before First Use
+Instructions for Use SKYRIZI® (sky-RIZZ-ee) (risankizumab-rzaa) injection, for subcutaneous use 2 x 180 mg/1.2 mL (150 mg/mL) single-dose prefilled syringe for a total 360 mg/2.4 mL dose Read Before First Use
 
 Refer to the Medication Guide for product information.
 
@@ -711,7 +472,7 @@ Do not recycle your used sharps disposal container.
 
 Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI® is a trademark of AbbVie Biotechnology Ltd. © 2019-2025 AbbVie Inc. 20087560
 
-These Instructions for Use have been approved by the U.S. Food and Drug Administration.
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Revised: 9/2025
 
@@ -776,13 +537,13 @@ Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 or go to www.SK
 |  |  | Check expiration date Remove the carton from the refrigerator. Check expiration date (EXP:) on the carton. Do not use SKYRIZI if the expiration date (EXP:) has passed. |
 |  |  | Wait at least 45 minutes Leave unopened carton at room temperature to warm. Keep out of direct sunlight. Wait at least 45 minutes up to a maximum of 90 minutes to allow SKYRIZI to warm. The On-Body Injector will not work if left at room temperature for less than 45 minutes. Do not warm SKYRIZI in any other way (for example, do not warm it in a microwave or in hot water). |
 |  |  | Open the carton and remove the plastic tray Lift up the flap on the side of the carton. Take out the plastic tray. |
-|  |  | Gather all supplies and wash hands Place the following on a clean surface: ◦ plastic tray containing the On-Body Injector and prefilled cartridge (included) ◦ 2 alcohol wipes (not included) ◦ cotton ball or gauze pad (not included) ◦ sharps disposal container (not included) (see “Disposing of SKYRIZI”) Wash and dry your hands. |
+|  |  | Gather all supplies and wash hands Place the following on a clean surface: plastic tray containing the On-Body Injector and prefilled cartridge (included) 2 alcohol wipes (not included) cotton ball or gauze pad (not included) sharps disposal container (not included) (see “Disposing of SKYRIZI”) Wash and dry your hands. |
 |  |  | Remove the white paper tray seal Locate the black arrow. Peel away the white paper tray seal from the plastic tray. Do not use the On-Body Injector and prefilled cartridge if the white paper tray seal is missing or damaged and return the carton to the pharmacy. |
 |  |  | Lift the plastic cover Locate the rounded opening on the top cover. Insert your pointer finger in the opening and place your thumb on the opposite side. Lift the cover to remove and set aside. |
 |  |  | Inspect the On-Body Injector Carefully remove the On-Body Injector from the plastic tray by holding it on the sides. Check that the On-Body Injector is intact and undamaged. Do not close the gray door before the prefilled cartridge is loaded. The gray door should be slightly open. If the gray door is not open, press in firmly on the gray door ridges (left side of door) and swing open the door. Do not use On-Body Injector if you drop it, discover missing pieces, or it is damaged. Do not let the On-Body Injector get wet with water or any other liquids. Do not touch the needle cover or the needle. Proceed to “Set up On-Body Injector”. |
 | Step 2 Set up On-Body Injector |  |  |
 |  |  | Fully open the gray door |
-|  |  | Inspect the prefilled cartridge Do not twist or remove the larger prefilled cartridge top. Carefully remove the prefilled cartridge from the plastic tray. Check the prefilled cartridge to make sure: ◦ The expiration date (EXP:) has not passed. ◦ The liquid should look clear to yellow and may contain tiny white or clear particles. It is normal to see one or more bubbles. ◦ The prefilled cartridge parts appear intact, and the clear plastic is not cracked or broken. Do not use if the expiration date (EXP:) has passed. Do not use if the liquid is cloudy, discolored, or contains flakes or large particles. Do not use if the liquid has been frozen (even if thawed). Do not use the prefilled cartridge if you drop it, discover missing pieces, or it is damaged. |
+|  |  | Inspect the prefilled cartridge Do not twist or remove the larger prefilled cartridge top. Carefully remove the prefilled cartridge from the plastic tray. Check the prefilled cartridge to make sure: The expiration date (EXP:) has not passed. The liquid should look clear to yellow and may contain tiny white or clear particles. It is normal to see one or more bubbles. The prefilled cartridge parts appear intact, and the clear plastic is not cracked or broken. Do not use if the expiration date (EXP:) has passed. Do not use if the liquid is cloudy, discolored, or contains flakes or large particles. Do not use if the liquid has been frozen (even if thawed). Do not use the prefilled cartridge if you drop it, discover missing pieces, or it is damaged. |
 |  |  | Clean the smaller bottom tip of the prefilled cartridge Locate the smaller bottom tip of the prefilled cartridge. Clean the smaller bottom tip of the prefilled cartridge with an alcohol wipe. Make sure to use the alcohol wipe to clean the center of the smaller bottom tip of the prefilled cartridge. Do not touch the smaller bottom tip of the prefilled cartridge after cleaning. |
 |  |  | Load the cleaned prefilled cartridge into the On-Body Injector |
 |  | Make sure that you start the injection within 5 minutes after inserting the prefilled cartridge into the On-Body Injector. Waiting will dry out the medicine and the On-Body Injector will not work afterwards. |  |
@@ -883,9 +644,11 @@ Additional information
 
 ● Altitude range is -1,312 feet to 10,499 feet (-400 meters to 3,200 meters).
 
+● The On-Body Injector is not intended to be used in an oxygen rich environment.
+
 Electromagnetic Compatibility (EMC) of the On-Body Injector
 
-The On-Body Injector is intended for home use or use in a professional healthcare environment and complies with ISO 11608-1:2014 and IEC 60601-1-2:2014.
+The On-Body Injector is intended for home use or use in a professional healthcare environment and complies with ISO 11608-4 and IEC 60601-1-2.
 
 Care should be taken to use the On-Body Injector within the following specific limits and environments to avoid adversely impacting the performance (missed or incomplete SKYRIZI dose).
 
@@ -908,7 +671,7 @@ Electromagnetic Immunity
 | Radio frequency electromagnetic field | 10 V/m 80 MHz – 2.7 GHz |
 | Power frequency 50 Hz magnetic field | 30 A/m |
 
-The enclosure port immunity to RF wireless communications equipment complies with IEC 60601-1-2:2014.
+The enclosure port immunity to RF wireless communications equipment complies with IEC 60601-1-2.
 
 Glossary of symbols
 
@@ -926,8 +689,238 @@ Glossary of symbols
 |  | Type BF Applied Part |
 |  | MR Unsafe |
 
-Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. ©2026 AbbVie Inc. This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI and its design are trademarks of AbbVie Biotechnology Ltd. ©2026 AbbVie.
+All rights reserved.
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 3/2026
+Revised: 10/2026
 
-20096311
+20104428
+
+Instructions for Use SKYRIZI® (sky-RIZZ-ee) risankizumab-rzaa injection, for subcutaneous use only
+
+Induction Pack for Crohn’s Disease
+
+Induction Pack: Two On-Body Injectors and Two 360 mg/2.4 mL Prefilled Cartridges (720 mg/4.8 mL Total)
+
+Read this Instructions for Use before you start using SKYRIZI and each time you get a refill.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
+
+Refer to the Medication Guide for SKYRIZI product information.
+Call your healthcare provider, call (866) SKYRIZI or (866) 759-7494 or go to SKYRIZI.com if you need help.
+
+Important information you need to know before injecting SKYRIZI
+
+- 2 On-Body Injectors and 2 prefilled cartridges are needed for 1 full Induction Dose.
+- Receive training on how to inject SKYRIZI before giving an injection.
+- Do not shake the SKYRIZI carton, On-Body Injectors or prefilled cartridges.
+- Do not remove the On-Body Injectors or prefilled cartridges from the carton until you are ready to inject.
+- Do not wait more than 5 minutes to start the injection after loading the cleaned prefilled cartridge into the On-Body Injector.
+  Waiting will dry out the medicine and the On-Body Injector will not work afterwards.
+- Do not touch the start button until you place the On-Body Injector loaded with the prefilled cartridge onto your skin and are ready to inject. ○ You can only press the start button 1-time.
+- Do not use On-Body Injectors or prefilled cartridges if either has been dropped or damaged.
+- Do not reuse On-Body Injectors or prefilled cartridges.
+  The On-Body Injectors and prefilled cartridges are for 1-time (single-dose) use only.
+- Do not let the On-Body Injectors get wet with water or any other liquids.
+- These single-dose On-Body Injectors are designed for use with SKYRIZI prefilled cartridges only.
+- Physical activity should be limited during the injection process.
+  Moderate physical activities can be done, such as walking, reaching and bending.
+- Do not use SKYRIZI if the expiration date (EXP:) has passed.
+- Do not use the prefilled cartridges if the liquid is discolored, cloudy or contains flakes or large particles.
+  The liquid should look clear to yellow and may contain tiny white or clear particles.
+- The On-Body Injectors and the prefilled cartridges are not made with natural rubber latex.
+- Keep On-Body Injectors, prefilled cartridges and all medicines out of the reach of children.
+
+Storage and preparation for use
+
+- Keep SKYRIZI in the original carton to protect from light and physical damage until time to use.
+- Store SKYRIZI in your refrigerator between 36°F to 46°F (2°C to 8°C).
+- When ready to use, take the carton out of the refrigerator and leave it at room temperature for at least 45 minutes for up to 90 minutes to allow SKYRIZI to warm. ○ The On-Body Injectors will not work if left at room temperature for less than 45 minutes.
+- Do not leave out in direct sunlight.
+- Do not remove the On-body Injectors or prefilled cartridges from the carton while allowing SKYRIZI to reach room temperature.
+- Do not warm SKYRIZI in any other way.
+  For example, do not warm it in a microwave or in hot water.
+- Do not use if liquid has been frozen (even if thawed).
+- Do not use SKYRIZI if carton perforations are broken.
+  Return product to the pharmacy.
+- Do not use the On-Body Injectors and prefilled cartridges if the white paper tray seal is missing or damaged.
+  Return the carton to the pharmacy.
+
+Induction Dosing Guide
+
+| Your first 4 doses will be a 720 mg subcutaneous injection (given as 2 injections of 360 mg, one right after the other) at Weeks 0, 2, 4, and 8. |
+| --- |
+
+Get to know your SKYRIZI On-Body Injector and prefilled cartridge
+
+Please read complete Instructions for Use before using SKYRIZI.
+Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 or go to www.SKYRIZI.com if you need help or if you do not know how to proceed.
+
+| Step 1 Get ready |  |
+| --- | --- |
+| Before using SKYRIZI, you should receive training on how to inject SKYRIZI. Check your dose to make sure you have the correct number of On-Body Injectors. |  |
+|  | Check expiration date Remove the carton from the refrigerator. Check expiration date (EXP:) on the carton. Do not use SKYRIZI if the expiration date (EXP:) has passed. |
+|  | Wait at least 45 minutes Leave unopened carton at room temperature to warm. Keep out of direct sunlight. Wait at least 45 minutes up to a maximum of 90 minutes to allow SKYRIZI to warm. ○ The On-Body Injectors will not work if left at room temperature for less than 45 minutes. Do not warm SKYRIZI in any other way (for example, do not warm it in a microwave or in hot water). |
+|  | Open the carton and remove the plastic trays After the carton is opened, both devices must be used due to light exposure. Lift up the flap on the side of the carton. Take out the plastic trays. |
+|  | Gather all supplies and wash hands Place the following on a clean surface: plastic trays containing the On-Body Injectors and prefilled cartridges (included) 4 alcohol wipes (included) 2 cotton balls or gauze pads (1 for each site) if needed (not included) sharps disposal container (not included) (see “Disposing of SKYRIZI”) Wash and dry your hands. |
+|  | Remove the white paper tray seal Locate the black arrow. Peel away the white paper tray seal from the plastic tray. Do not use the On-Body Injectors and prefilled cartridges if the white paper tray seal is missing or damaged and return the carton to the pharmacy. |
+|  | Lift the plastic cover Locate the rounded opening on the top cover. Insert your pointer finger in the opening and place your thumb on the opposite side. Lift the cover to remove and set aside. |
+|  | Inspect the On-Body Injectors Carefully remove the On-Body Injector from the plastic tray by holding it on the sides. Check that the On-Body Injectors are intact and undamaged. Do not close the gray door before the prefilled cartridge is loaded. The gray door should be slightly open. If the gray door is not open, press in firmly on the gray door ridges (left side of door) and swing open the door. Do not use On-Body Injectors if you drop them, discover missing pieces, or they are damaged. Do not let the On-Body Injectors get wet with water or any other liquids. Do not touch the needle cover or the needle. Proceed to “Set up On-Body Injector”. |
+| Step 2 Set up On-Body Injector |  |
+|  | Fully open the gray door Swing the gray door all the way to the right to open it. If the gray door does not open, press in firmly on the gray door ridges (left side of door) and swing open the door. Do not close the gray door before the prefilled cartridge is loaded. Do not touch the needle cover or needle. |
+|  | Inspect the prefilled cartridge Do not twist or remove the larger prefilled cartridge top. Carefully remove the prefilled cartridge from the plastic tray. Check the prefilled cartridge to make sure: ○ The expiration date (EXP:) has not passed. ○ The liquid should look clear to yellow and may contain tiny white or clear particles. It is normal to see one or more bubbles. ○ The prefilled cartridge parts appear intact, and the clear plastic is not cracked or broken. Do not use if the expiration date (EXP:) has passed. Do not use if the liquid is cloudy, discolored, or contains flakes or large particles. Do not use if the liquid has been frozen (even if thawed). Do not use the prefilled cartridge if you drop it, discover missing pieces, or it is damaged. |
+|  | Clean the smaller bottom tip of the prefilled cartridge Locate the smaller bottom tip of the prefilled cartridge. Clean the smaller bottom tip of the prefilled cartridge with an alcohol wipe. Make sure to use the alcohol wipe to clean the center of the smaller bottom tip of the prefilled cartridge. Do not touch the smaller bottom tip of the prefilled cartridge after cleaning. |
+|  | Load the cleaned prefilled cartridge into the On-Body Injector |
+|  | Confirm cartridge is inserted and close the gray door |
+| Step 3 Prepare to inject |  |
+| Keep electronic devices including cell phones at least 12 inches (30 cm) from On-Body Injector until injection is complete |  |
+|  | Pick your injection area Locate a firm and flat area on your bare skin. Make sure the area is clear of clothing: Your abdomen (belly) at least 2 inches from your navel (belly button). The front of your left thigh or your right thigh. If this is the second injection, ensure that the placement of the On-Body Injector is at least 2 inches apart from the first injection site. Do not inject into areas of the skin that naturally fold or bulge because the On-Body Injector could fall off during wear. Do not inject into skin that is sore, bruised, red, hard, scarred, or has stretch marks, moles or excessive hair. You can trim the excessive hair from the injection area. |
+|  | Clean the injection area Clean injection area with an alcohol wipe. Allow the injection area to completely dry. Do not touch cleaned injection area before placing the On-Body Injector on the skin. |
+|  | Peel both tabs to expose adhesive Peel away the large section using the green pull tab to expose the adhesive. Peel away the small section using the green pull tab to expose the adhesive. This will remove the clear plastic strip, activating the On-Body Injector. Do not pull the adhesive material off the On-Body Injector or allow the sticky side to fold and stick to itself. Check the status light when the On-Body Injector beeps. The status light will flash blue when the On-Body Injector is activated. If the status light does not flash blue, call (866) SKYRIZI or (866) 759-7494. |
+|  | Prepare the On-Body Injector for placement If this is the second injection, ensure that the placement of the On-Body Injector is at least 2 inches apart from the first injection site. For the abdomen (belly), move and hold the skin to create a firm, flat surface for injection at least 2 inches from your navel (belly button). Make sure to adjust your posture (sit up straight) to avoid skin folds and bulges. You do not need to pull the skin flat for the front of left thigh or right thigh. Make sure to position the On-Body Injector so that you can see the blue status light. |
+|  | Place the On-Body Injector on your skin When the blue light flashes, the On-Body Injector is ready. Place the On-Body Injector onto the cleaned skin with the status light visible. Do not place the On-Body Injector on clothes. Only place on bare skin. Run your finger around the adhesive material to secure it. Make sure all of the adhesive is attached to your skin. Do not move or adjust the On-Body Injector after it has been placed on your skin. When the On-Body Injector is on your skin, proceed to Inject medicine |
+| Step 4 Inject medicine |  |
+|  | Start injection Firmly press the gray start button until you hear a click. Then release the gray start button. You may feel a needle pinch. Check the status light when the On-Body Injector beeps. After starting the injection, the status light will continuously flash green. You will hear pumping sounds as the On-Body Injector delivers the medicine. Do not continue to use the On-Body Injector if status light flashes red and beeps. Carefully remove from skin if the status light flashes red. Call (866) SKYRIZI or (866) 759-7494. |
+|  | Wait for the injections to finish It may take up to 5 minutes to complete full dose of medicine. The On-Body Injectors will automatically stop when the injections are finished. During the injections: ○ the status lights will continue to flash green. ○ you will hear pumping sounds as the On-Body Injectors continue delivering the medicine. ○ moderate physical activities can be done, such as walking, reaching and bending. Do not continue to use the On-Body Injectors if their status light flashes red and beeps. Carefully remove it from the skin if the status lights flash red and beep. Call (866) SKYRIZI or (866) 759-7494. |
+|  | Injections are finished The On-Body Injectors will stop on their own. After the injections are finished, you will hear beeps and the status light will change to solid green. Check the status light. If it has changed to solid green, this means that the injections are finished. When the injections are finished and the status light is solid green, proceed to the next step. |
+
+|  | Remove the On-Body Injectors after both injections are complete Do not remove the On-Body Injector if its status light is still flashing green and the injection is not finished. Do not put your fingers on the back side of the On-Body Injector when removing it from your skin. When the injection is done, grab the corner of the adhesive to carefully peel the On-Body Injector from the skin. After removing the On-Body Injector, you will hear several beeps and the status light will turn off. The needle cover will cover the needle when the On-Body Injector is removed from the skin. It is normal to see a few small drops of liquid on your skin after removing the On-Body Injector. If you see more than a few small drops of liquid left on your skin, call (866) SKYRIZI or (866) 759-7494. Press a cotton ball or gauze pad over the injection site on your skin and hold for 10 seconds. Do not rub the injection site. Slight bleeding at the injection site is normal. Proceed to “Confirm and dispose”. |
+| --- | --- |
+| Step 5 Confirm and dispose | Confirm complete dose and check the On-Body Injectors Inspect the medicine windows and status lights. Check to see that the used white plunger fills each medicine window and the solid green light turns off, letting you know that all the medicine has been injected. |
+|  | Put the used On-Body Injectors in an FDA-cleared sharps disposal container right away after use Leave the prefilled cartridges in the On-Body Injectors. Do not throw away (dispose of) the used On-Body Injectors in your household trash. For more information, see “Disposing of SKYRIZI” section. |
+| Your first 4 doses will be a 720 mg subcutaneous injection (given as 2 injections of 360 mg,one right after the other) at Weeks 0, 2, 4, and 8. |  |
+
+Please read complete Instructions for Use before using SKYRIZI.
+Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 or go to www.SKYRIZI.com if you need help or if you do not know how to proceed.
+
+Commonly asked questions
+
+Q. What if I cannot open the On-Body Injector door to insert the prefilled cartridge?
+
+A. To open the On-Body Injector door, press in firmly on the left side of the door to release the door latch.
+If you are still unable to open the door, call (866) SKYRIZI or (866) 759-7494.
+
+Q. What if I push the gray start button before I place the On-Body Injector on my skin?
+
+A. The gray start button may be pressed just 1 time only.
+If the gray start button is pressed before placing it on your body, it can no longer be used.
+Call (866) SKYRIZI or (866) 759-7494.
+
+Q. What if the On-Body Injector does not beep and the blue status light does not flash when I remove the green pull tabs?
+
+A. Peeling off the small green pull tab will remove the clear plastic strip, activating the On-Body Injector.
+If all of the adhesive backing has been removed and the On-Body Injector still does not turn on, call (866) SKYRIZI or (866) 759-7494.
+
+Q. What if I push the start button as instructed after placing the On-Body Injector on the skin and the light remains blue?
+
+A. Firmly press the gray start button again.
+If the status light remains blue or flashes red, remove the On-Body Injector by carefully peeling it away from your skin.
+Do not re-apply the On-Body Injector.
+Call (866) SKYRIZI or (866) 759-7494.
+
+Q. What if the status light flashes red and beeps while wearing the On-Body Injector?
+
+A. If the status light continuously flashes red and beeps, do not use the On-Body Injector.
+If it is attached to your body, carefully remove it.
+Call (866) SKYRIZI or (866) 759-7494.
+
+Q. What should I do if the On-Body Injector comes off my body during the injection?
+
+A. The loaded On-Body Injector can no longer be used.
+Do not re-apply it to your body.
+Call (866) SKYRIZI or (866) 759-7494.
+
+Q. How do I know when the injection is complete?
+
+A. The injection is complete when the On-Body Injector beeps, the white plunger has completely filled the medicine window, and the status light turns from flashing green to solid green.
+
+Q. What should I do if there are more than a few drops of liquid on the injection area?
+
+A. Call (866) SKYRIZI or (866) 759-7494 for help.
+
+Q. What should I do with the used On-Body Injector after my injection?
+
+A. Throw away (dispose of) used On-Body Injector in a FDA-cleared sharps disposal container and not your household trash.
+You can receive a sharps container for SKYRIZI disposal at no additional cost by going to www.SKYRIZI.com or by calling (866) SKYRIZI or (866) 759-7494.
+
+Q. What if I have not received in-person training from a healthcare professional?
+
+A. Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 if you need help.
+Receive training on how to inject SKYRIZI before giving injections.
+
+Disposing of SKYRIZI
+
+- Put SKYRIZI in an FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) SKYRIZI in your household trash.
+- If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
+  - made of a heavy-duty plastic,
+  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - upright and stable during use,
+  - leak-resistant, and
+  - properly labeled to warn of hazardous waste inside the container.
+
+When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+There may be state or local laws about how you should throw away used needles and syringes.
+
+For more information about safe sharps disposal in the state that you live in, go to the FDA’s website at: www.fda.gov/safesharpsdisposal.
+
+Do not recycle your used sharps disposal container.
+
+Additional information
+
+• Type BF applied part.
+
+• On-Body Injector sterilized using ethylene oxide.
+
+• Altitude range is -1,312 feet to 10,499 feet (-400 meters to 3,200 meters).
+
+• The On-Body Injector is not intended to be used in an oxygen rich environment.
+
+Electromagnetic Compatibility (EMC) of the On-Body Injector
+
+The On-Body Injector is intended for home use or use in a professional healthcare environment and complies with ISO 11608-4 and IEC 60601-1-2.
+
+Care should be taken to use the On-Body Injector within the following specific limits and environments to avoid adversely impacting the performance (missed or incomplete SKYRIZI dose).
+
+- Keep electronic devices including cell phones at least 12 inches (30 cm) from the On-Body Injector until injection is complete.
+  The potential impact of electronic interference is unknown when the On-Body Injector is operated within 12 inches (30 cm).
+- Do not expose the On-Body Injector to Magnetic Resonance (MR) Environment (e.g., MRI).
+- If it is used adjacent to other electrical equipment, observe the On-Body Injector and other equipment to ensure it is operating normally.
+
+Emissions
+
+| Emissions test name | Test levels |
+| --- | --- |
+| Radiated Radio frequency electromagnetic fields | Per CISPR 11, class B |
+
+Electromagnetic Immunity
+
+| Test Name | Test Levels |
+| --- | --- |
+| Electrostatic discharge (ESD) | ± 8 kV contact ± 2 kV, ± 4 kV, ± 8 kV, ± 15 kV air |
+| Radio frequency electromagnetic field | 10 V/m 80 MHz – 2.7 GHz |
+| Power frequency 50 Hz magnetic field | 30 A/m |
+
+The enclosure port immunity to RF wireless communications equipment complies with IEC 60601-1-2.
+
+Glossary of symbols
+
+| Symbol | Description of Symbol |
+| --- | --- |
+|  | Keep dry |
+|  | Sterilized using ethylene oxide |
+|  | Do not re-use |
+|  | Do not use if package is damaged and consult instructions for use |
+|  | Date of manufacture |
+|  | Batch code |
+|  | Catalogue number |
+|  | Serial number |
+|  | Refer to instruction manual / booklet |
+|  | Type BF Applied Part |
+|  | MR Unsafe |
+
+Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI® and its design are trademarks of AbbVie Biotechnology Ltd. ©2026 AbbVie.
+All rights reserved.
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+Issued: 10/2026 20099070

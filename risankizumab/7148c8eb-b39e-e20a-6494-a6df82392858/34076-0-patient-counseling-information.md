@@ -24,16 +24,16 @@ Instruct patients to inform the healthcare practitioner that they are taking SKY
 
 Administration Instruction
 
-Instruct patients or caregivers to perform the first self-injected dose under the supervision and guidance of a qualified healthcare professional for training in preparation and administration of SKYRIZI, including choosing anatomical sites for administration, and proper subcutaneous injection technique [see Dosage and Administration (2.5)].
+Instruct patients or caregivers to perform the first self-injected dose under the supervision and guidance of a qualified healthcare professional for training in preparation and administration of SKYRIZI, including choosing anatomical sites for administration, and proper subcutaneous injection technique [see Dosage and Administration (2.7)].
 
 For pediatric patients, inform patients and caregivers that for pediatric patients 10 years of age and older, it is recommended that SKYRIZI be administered by or under supervision of an adult.
 For pediatric patients 6 to less than 10 years of age, SKYRIZI should be administered by an adult [see Dosage and Administration (2.5)].
 
-If using SKYRIZI 90 mg/mL, instruct patients or caregivers to administer two 90 mg single-dose syringes to achieve the full 180 mg maintenance dose or four 90 mg single-dose syringes to achieve the full 360 mg maintenance dose of SKYRIZI for Crohn’s disease or ulcerative colitis [see Instructions for Use].
-
 If using SKYRIZI 180 mg/1.2 mL, instruct patients or caregivers to administer one 180 mg single-dose syringe to achieve the full 180 mg maintenance dose or two 180 mg single-dose syringes to achieve the full 360 mg maintenance dose of SKYRIZI for Crohn’s disease or ulcerative colitis [see Instructions for Use].
 
-Instruct patients or caregivers in the technique of pen or syringe disposal [see Instructions for Use].
+If using SKYRIZI 720 mg/4.8 mL induction pack for Crohn’s disease, instruct patients or caregivers to administer both single-dose 360 mg prefilled cartridges with on-body injectors from the induction pack to achieve the full 720 mg induction dose of SKYRIZI for Crohn’s disease [see Instructions for Use].
+
+Instruct patients or caregivers in the technique of pen, syringe or on-body injector disposal [see Instructions for Use].
 
 Pregnancy
 
@@ -43,4 +43,4 @@ Manufactured by: AbbVie Inc. North Chicago, IL 60064, USA
 
 US License Number 1889 SKYRIZI and its design are trademarks of AbbVie Biotechnology Ltd. © 2026 AbbVie.
 All rights reserved.
-20101630 6/2026
+20100271 R1 10/2026

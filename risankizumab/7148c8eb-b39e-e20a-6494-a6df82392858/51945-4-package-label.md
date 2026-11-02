@@ -70,6 +70,50 @@ Rx only
 
 abbvie
 
+NDC 0074-1084-01
+
+2 x 2.4 mL Single-Dose Prefilled Cartridges
+
+2 Single-Dose On-Body Injectors
+
+Skyrizi®
+
+risankizumab-rzaa Injection
+
+360 mg/2.4 mL per on-body injectors
+
+For a full 720 mg induction dose
+
+FOR SUBCUTANEOUS USE ONLY
+
+Induction Pack for Crohn’s Disease
+
+One pack contains one dose of the required four
+
+Induction doses.
+
+The entire carton is to be dispenses as a unit.
+
+ATTENTION PHARMACIST:
+
+Each patient is required to receive the enclosed
+
+Medication Guide.
+
+When you are ready to use, remove
+
+Carton from refrigerator, and leave
+
+Carton at room temperature for
+
+45 minutes to allow to warm.
+
+SKYRIZI.com
+
+Rx only
+
+abbvie
+
 NDC 0074-5015-01
 
 Skyrizi®

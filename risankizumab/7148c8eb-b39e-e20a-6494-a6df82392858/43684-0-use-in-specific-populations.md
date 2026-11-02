@@ -87,7 +87,7 @@ The safety and effectiveness of SKYRIZI have not been established in pediatric p
 
 ## 8.5 Geriatric Use
 
-Of the 6,862 subjects exposed to SKYRIZI, a total of 664 were 65 years and older (243 subjects with plaque psoriasis, 246 subjects with psoriatic arthritis, 72 subjects with Crohn’s disease and 103 subjects with ulcerative colitis), and 71 subjects were 75 years and older.
+Of the 7,144 subjects exposed to SKYRIZI, a total of 685 were 65 years and older (243 subjects with plaque psoriasis, 246 subjects with psoriatic arthritis, 93 subjects with Crohn’s disease and 103 subjects with ulcerative colitis), and 73 subjects were 75 years and older.
 
 Clinical studies of SKYRIZI, within each indication, did not include sufficient numbers of subjects 65 years of age and older to determine whether they respond differently from younger adult subjects.
 
