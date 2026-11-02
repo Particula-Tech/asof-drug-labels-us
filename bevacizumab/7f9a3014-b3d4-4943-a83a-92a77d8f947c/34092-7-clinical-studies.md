@@ -29,7 +29,7 @@ The primary efficacy endpoint was the mean change in baseline BCVA as measured b
 
 NORSE EIGHT did not meet its pre-specified NI margin of -3.5 letters in mean change from baseline BCVA at Week 8 compared with ranibizumab.
 
-At Week 8, the LYTENAVA group had a mean increase in BCVA of 3.3 letters compared with a mean increase of 4.5 letters in the ranibizumab group.
+At Week 8, the LYTENAVA group had a mean increase in BCVA of 4.2 letters compared with a mean increase of 6.3 letters in the ranibizumab group.
 The LS mean difference and 95% CI was -2.3 (-4.0, -0.5).
 
 LYTENAVA showed an increase from baseline in BCVA at Week 12 consistent with NORSE TWO.

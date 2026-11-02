@@ -6,7 +6,7 @@ If the eye becomes red, sensitive to light, painful, or develops a change in vis
 Patients may experience temporary visual disturbances after an intravitreal injection with LYTENAVA and the associated eye examinations [see Adverse Reactions (6)].
 Advise patients not to drive or use machinery until visual function has recovered sufficiently.
 
-| LYTENAVA™ (bevacizumab-vikg) |  |
+| LYTENAVA™ (bevacizumab-vikg) injection |  |
 | --- | --- |
 | Manufactured by: | LYTENAVA is a trademark of Outlook Therapeutics, Inc. |
 | Outlook Therapeutics, Inc. | ©2026 Outlook Therapeutics Inc. |
