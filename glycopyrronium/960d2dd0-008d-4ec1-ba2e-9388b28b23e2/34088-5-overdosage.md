@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 To combat peripheral anticholinergic effects, a quaternary ammonium anticholinesterase such as neostigmine methylsulfate (which does not cross the blood-brain barrier) may be given intravenously in increments of 0.25 mg in adults.
 This dosage may be repeated every five to ten minutes until anticholinergic overactivity is reversed or up to a maximum of 2.5 mg.
@@ -7,10 +7,9 @@ Indication for repetitive doses of neostigmine should be based on close monitori
 
 If CNS symptoms (e.g., excitement, restlessness, convulsions, psychotic behavior) occur, physostigmine (which does cross the blood–brain barrier) may be used.
 Physostigmine 0.5 to 2 mg should be slowly administered intravenously and repeated as necessary up to a total of 5 mg in adults.
-Proportionately smaller doses should be used in pediatric patients.
+Use proportionately smaller doses in pediatric patients.
 
 To combat hypotension, administer IV fluids and/or pressor agents along with supportive care.
-
 Fever should be treated symptomatically.
 
 Following overdosage, a curare-like action may occur, i.e., neuromuscular blockade leading to muscular weakness and possible paralysis.
