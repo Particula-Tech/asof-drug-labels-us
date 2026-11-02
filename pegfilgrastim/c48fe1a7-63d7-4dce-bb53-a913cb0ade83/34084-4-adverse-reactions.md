@@ -13,7 +13,7 @@ The following clinically significant adverse reactions are discussed in greater 
 - Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.9)]
 - Myelodysplastic syndrome [see Warnings and Precautions (5.10)]
 - Acute myeloid leukemia [see Warnings and Precautions (5.10)]
-- Aortitis[see Warnings and Precautions (5.11)]
+- Large and medium vessel arteritis, including aortitis[see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -60,5 +60,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Injection site reactions
 - Sweet's syndrome (acute febrile neutrophilic dermatosis), cutaneous vasculitis
 - Myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer receiving chemotherapy and/or radiotherapy[see Warnings and Precautions (5.10)]
-- Aortitis [see Warnings and Precautions (5.11)]
+- Large and medium vessel arteritis, including aortitis [see Warnings and Precautions (5.11)]
 - Alveolar hemorrhage

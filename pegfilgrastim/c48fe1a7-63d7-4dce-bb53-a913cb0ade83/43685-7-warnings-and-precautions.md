@@ -58,13 +58,13 @@ The possibility that pegfilgrastim products acts as a growth factor for any tumo
 MDS and AML have been associated with the use of pegfilgrastim products in conjunction with chemotherapy and/or radiotherapy in patients with breast and lung cancer.
 Monitor patients for signs and symptoms of MDS/AML in these settings.
 
-## 5.11 Aortitis
+## 5.11 Large and Medium Vessel Arteritis
 
-Aortitis has been reported in patients receiving pegfilgrastim products.
+Serious large and medium vessel arteritis, including aortitis, has been reported in patients receiving Armlupeg.
 It may occur as early as the first week after start of therapy.
-Manifestations may include generalized signs and symptoms such as fever, abdominal pain, malaise, back pain, and increased inflammatory markers (e.g., c-reactive protein and white blood cell count).
-Consider aortitis in patients who develop these signs and symptoms without known etiology.
-Discontinue Armlupeg if aortitis is suspected.
+Manifestations may include generalized signs and symptoms such as fever, abdominal pain, malaise, back pain, headache, neck pain, and increased inflammatory markers (e.g., c-reactive protein and white blood cell count).
+Consider arteritis in patients who develop these signs and symptoms without known etiology.
+Consider appropriate clinical management and discontinue Armlupeg as needed if arteritis is suspected.
 
 ## 5.12 Nuclear Imaging
 

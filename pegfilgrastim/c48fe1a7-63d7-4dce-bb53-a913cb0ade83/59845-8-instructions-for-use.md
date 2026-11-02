@@ -32,8 +32,6 @@ Throw it away and use a new Armlupeg prefilled syringe.
 
 Keep the prefilled syringe in the original carton to protect from light or physical damage.
 
-Take the prefilled syringe out of the refrigerator 30 minutes before use and allow it to reach room temperature, 68°F to 77°F (20°C to 25°C), before preparing an injection.
-
 Throw away (dispose of) any Armlupeg that has been left at room temperature, 68°F to 77°F (20°C to 25°C), for more than 48 hours.
 
 Keep Armlupeg and all medicines out of the reach of children.
@@ -79,9 +77,7 @@ Check the expiration date printed on the carton.
 Important: Do not use if the expiration date has passed.
 
 Remove the syringe tray from the carton.
-On a clean, well-lit surface, place the syringe tray at room temperature for 30 minutes before you give an injection.
-
-Do not remove the prefilled syringe from the original carton until you are ready to inject.
+On a clean, well-lit surface, place the syringe tray at room temperature, 68°F to 77°F (20°C to 25°C) for 30 minutes before you give an injection.
 
 Do not use the prefilled syringe if the carton is damaged.
 
@@ -157,47 +153,38 @@ Do not twist or bend the needle cap.
 
 Do not hold the prefilled syringe by the plunger rod
 
-Do not put the gray needle cap back onto the syringe or never recap.
-If the needle cap is removed accidently and you are not ready for the injection, discard (throw away) the opened syringe and use a new syringe when ready.
+Do not put the gray needle cap back onto the syringe.
 
 Important: Throw the gray needle cap into the sharps disposal container (See Figure 9).
 
 Step 3: Subcutaneous (under the skin) injection
 
-F. Point the needle up and gently tap the syringe body with your fingers until the air bubble rises to the top of the syringe (See Figure 10).
-
-G. Pinch the injection site to create a firm surface (See Figure 11).
+F. Pinch the injection site to create a firm surface (See Figure 10).
 
 Important: Keep skin pinched while injecting
 
-H. Hold the pinch.
+G. Hold the pinch.
 Insert the needle into the skin at 45 to 90 degrees.
+(See Figure 11)
+
+H. Using slow and constant pressure, push the plunger head until it reaches the bottom.
+When done, gently pull the syringe off of the skin.
 (See Figure 12)
-
-Do not touch the plunger rod or grasp the syringe above the finger grips.
-
-I. Using slow and constant pressure, push the plunger head until it reaches the bottom.
-(See Figure 13)
-
-While the needle is still inserted in the skin, slowly move your thumb back, allowing the plunger rod to rise.
-This will release the needle safety guard to safely cover the needle.
-Then remove the syringe from the injection site.
-(See Figure 14)
 
 Important: When you remove the syringe, if it looks like the needle safety guard is not activated or some medicine is still left in the syringe, this means you have not received a full dose.
 Call your healthcare provider right away.
 
 Step 4: Finish
 
-J. For your safety, make sure that the needle safety guard is activated and fully covers the needle.
+I. For your safety, make sure that the needle safety guard is activated and fully covers the needle.
 
 Once the needle safety guard is extended, it will lock into position and will not slide back over the needle.
 
 Important: Keep your hands away from the needle at all times.
 
-K. Discard (throw away) the used prefilled syringe.
+J. Discard (throw away) the used prefilled syringe.
 
-Put the used prefilled syringe into an FDA-cleared sharps disposal container right away after use (See Figure 15).
+Put the used prefilled syringe into an FDA-cleared sharps disposal container right away after use (See Figure 13).
 Do not throw away (dispose of) the syringe in the household trash.
 
 If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
@@ -222,7 +209,7 @@ Do not recycle prefilled syringes or sharps disposal container or throw them int
 
 Important: Always keep the sharps disposal container out of the reach of children.
 
-L. Examine the injection site.
+K. Examine the injection site.
 
 If there is blood, press a cotton ball or gauze pad on the injection site.
 Do not rub the injection site.
@@ -253,4 +240,4 @@ New York, NY USA 10022
 
 U.S. License No. 2052
 
-Revised: 06/2026
+Revised: 10/2026
