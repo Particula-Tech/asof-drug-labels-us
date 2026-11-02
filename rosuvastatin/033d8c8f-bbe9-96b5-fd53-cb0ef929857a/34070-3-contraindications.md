@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Rosuvastatin tablets are contraindicated in the following conditions:
+Rosuvastatin tablets are contraindicated in patients with:
 
 - Acute liver failure or decompensated cirrhosis [see Warnings and Precautions (5.3)].
 - Hypersensitivity to rosuvastatin or any excipients in rosuvastatin tablets.

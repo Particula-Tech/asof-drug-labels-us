@@ -60,8 +60,6 @@ No. KTK/25/460/2001
 
 or
 
-Manufactured by:
-
 Biocon Pharma Limited
 
 Bengaluru, India – 560099
@@ -69,3 +67,13 @@ Bengaluru, India – 560099
 Mfg.
 Lic.
 No. KTK/25/664/2017
+
+or
+
+Biocon Generics Inc.
+
+1 Duncan Drive,
+
+Cranbury, NJ 08512
+
+Product of India
