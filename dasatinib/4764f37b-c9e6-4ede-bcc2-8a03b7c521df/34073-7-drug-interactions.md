@@ -24,5 +24,5 @@ Avoid simultaneous administration of SPRYCEL with antacids.
 
 Methotrexate
 
-SPRYCEL may delay the clearance of methotrexate and result in sustained methotrexate concentrations when methotrexate is used at high doses (> 500 mg/m2).
+SPRYCEL may delay the clearance of methotrexate and result in sustained methotrexate concentrations when methotrexate is used at high doses (≥ 500 mg/m2).
 Refer to the prescribing information for methotrexate injection for recommendations on management of methotrexate concentrations.
