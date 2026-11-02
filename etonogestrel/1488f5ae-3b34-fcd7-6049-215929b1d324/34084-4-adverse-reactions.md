@@ -49,6 +49,6 @@ Skin and subcutaneous tissue disorders: exacerbations of hereditary and acquired
 
 Reproductive system and breast disorders: penile disorders, including local reactions on penis (in male partners of women using etonogestrel and ethinyl estradiol vaginal ring), galactorrhea
 
-General Disorders and Administration Site Conditions: device breakage (including with concomitant use of intravaginal antimycotic, antibiotic, and lubricant products)
+General disorders and administration site conditions: device breakage (including with concomitant use of intravaginal antimycotic, antibiotic, and lubricant products)
 
 Injury, poisoning and procedural complications: vaginal injury (including associated pain, discomfort, and bleeding) associated with ring breakage

@@ -22,7 +22,7 @@ Pregnancy
 Use of additional contraception
 
 - Inform patients that they need to use a barrier method of contraception when the ring is out for more than three continuous hours until etonogestrel and ethinyl estradiol vaginal ring has been used continuously for at least seven days [see Dosage and Administration (2.3)].
-- Advise patients to use a back-up or alternative method of contraception when enzyme inducers are used withetonogestrel and ethinyl estradiol vaginal ring [see Drug Interactions (7.1)].
+- Advise patients to use a back-up or alternative method of contraception when enzyme inducers are used with etonogestrel and ethinyl estradiol vaginal ring [see Drug Interactions (7.1)].
 - Inform patients who start etonogestrel and ethinyl estradiol vaginal ring postpartum and have not yet had a normal period that they should use an additional non-hormonal method of contraception for the first seven days [see Dosage and Administration (2.2)].
 
 Lactation
@@ -33,7 +33,7 @@ Lactation
 Amenorrhea
 
 - Inform patients that amenorrhea may occur.
-  Rule out pregnancy in the event of amenorrhea if etonogestrel and ethinyl estradiol vaginal ringg has been out of the vagina for more than three consecutive hours, if the ring-free interval was extended beyond one week, if the woman has missed a period for two or more consecutive cycles, and if the ring has been retained for longer than four weeks [see Warnings and Precautions (5.11)].
+  Rule out pregnancy in the event of amenorrhea if etonogestrel and ethinyl estradiol vaginal ring has been out of the vagina for more than three consecutive hours, if the ring-free interval was extended beyond one week, if the woman has missed a period for two or more consecutive cycles, and if the ring has been retained for longer than four weeks [see Warnings and Precautions (5.11)].
 
 Disposal
 
@@ -41,9 +41,9 @@ Disposal
 
 Manufactured for: Northstar Rx LLC, Memphis, TN 38141
 
-Manufactured by: Laboratorios León Farma, S.A., León, Spain
+Manufactured by: Laboratorios Leon Farma S.A., 24193 Villaquilambre, León, Spain.
 
 Iss.
-06/2024
+08/2026
 
-NOR-PI156-01
+NOR-PI-156-02

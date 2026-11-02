@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 How to Use etonogestrel and ethinyl estradiol vaginal ring
+## 2.1 How to Use Etonogestrel and Ethinyl Estradiol Vaginal Ring
 
 To achieve maximum contraceptive effectiveness, etonogestrel and ethinyl estradiol vaginal ring must be used as directed [see Dosage and Administration (2.2)].
 One etonogestrel and ethinyl estradiol vaginal ring is inserted in the vagina.
@@ -10,6 +10,7 @@ A new ring is inserted one week after the last ring was removed.
 
 The user can choose the insertion position that is most comfortable to her, for example, standing with one leg up, squatting, or lying down.
 The ring is to be compressed and inserted into the vagina.
+An optional alternative is to insert the ring using the applicator for etonogestrel and ethinyl estradiol vaginal ring [see Applicator for etonogestrel and ethinyl estradiol vaginal ring Instructions for Use].
 The exact position of etonogestrel and ethinyl estradiol vaginal ring inside the vagina is not critical for its function.
 The vaginal ring must be inserted on the appropriate day and left in place for three consecutive weeks.
 This means that the ring should be removed three weeks later on the same day of the week as it was inserted and at about the same time.
@@ -21,11 +22,12 @@ After a one-week break, during which a withdrawal bleed usually occurs, a new ri
 The withdrawal bleed usually starts on Day 2-3 after removal of the ring and may not have finished before the next ring is inserted.
 In order to maintain contraceptive effectiveness, the new ring must be inserted exactly one week after the previous one was removed even if menstrual bleeding has not finished.
 
-## 2.2 How to Start Using etonogestrel and ethinyl estradiol vaginal ring
+## 2.2 How to Start Using Etonogestrel and Ethinyl Estradiol Vaginal Ring
 
 IMPORTANT: Consider the possibility of ovulation and conception prior to the first use of etonogestrel and ethinyl estradiol vaginal ring.
 
-No Hormonal Contraceptive Use in the Preceding Cycle: The woman should insert etonogestrel and ethinyl estradiol vaginal ring on the first day of her menstrual bleeding. etonogestrel and ethinyl estradiol vaginal ring may also be started on Days 2-5 of the woman’s cycle, but in this case a barrier method, such as male condoms with spermicide, should be used for the first seven days of etonogestrel and ethinyl estradiol vaginal ring use in the first cycle.
+No Hormonal Contraceptive Use in the Preceding Cycle: The woman should insert etonogestrel and ethinyl estradiol vaginal ring on the first day of her menstrual bleeding.
+Etonogestrel and ethinyl estradiol vaginal ring may also be started on Days 2-5 of the woman’s cycle, but in this case a barrier method, such as male condoms with spermicide, should be used for the first seven days of etonogestrel and ethinyl estradiol vaginal ring use in the first cycle.
 
 Changing From a CHC: The woman may switch from her previous CHC on any day, but at the latest on the day following the usual hormone-free interval, if she has been using her hormonal method consistently and correctly, or if it is reasonably certain that she is not pregnant.
 
@@ -54,11 +56,11 @@ To prevent loss of contraceptive efficacy, advise women not to deviate from the 
 Etonogestrel and ethinyl estradiol vaginal ring should be left in the vagina for a continuous period of three weeks.
 Advise women to regularly check for the presence of etonogestrel and ethinyl estradiol vaginal ring in the vagina (for example, before and after intercourse).
 
-Inadvertent Removal or Expulsion: Etonogestrel and ethinyl estradiol vaginal ringcan be accidentally expelled, for example, while removing a tampon, during intercourse, or with straining during a bowel movement.
+Inadvertent Removal or Expulsion: Etonogestrel and ethinyl estradiol vaginal ring can be accidentally expelled, for example, while removing a tampon, during intercourse, or with straining during a bowel movement.
 Etonogestrel and ethinyl estradiol vaginal ring should be left in the vagina for a continuous period of three weeks.
 If the ring is accidentally expelled and is left outside of the vagina for less than three hours, contraceptive efficacy is not reduced.
 Etonogestrel and ethinyl estradiol vaginal ring can be rinsed with cool to lukewarm (not hot) water and reinserted as soon as possible, but at the latest within three hours.
-If Etonogestrel and ethinyl estradiol vaginal ring is lost, a new vaginal ring should be inserted and the regimen should be continued without alteration.
+If etonogestrel and ethinyl estradiol vaginal ring is lost, a new vaginal ring should be inserted and the regimen should be continued without alteration.
 
 If etonogestrel and ethinyl estradiol vaginal ring is out of the vagina for more than three continuous hours:
 
@@ -87,7 +89,7 @@ Prolonged Use of etonogestrel and ethinyl estradiol vaginal ring: If etonogestre
 Etonogestrel and ethinyl estradiol vaginal ring should be removed and the woman should insert a new ring after a one-week ring-free interval.
 
 If etonogestrel and ethinyl estradiol vaginal ring has been left in place for longer than four weeks, instruct the woman to remove the ring, and rule out pregnancy.
-If pregnancy is ruled out, etonogestrel and ethinyl estradiol vaginal ring may be restarted, and an additional method of contraception, such as male condoms with spermicide, MUST be used until a new etonogestrel and ethinyl estradiol vaginal ring, has been used continuously for seven days.
+If pregnancy is ruled out, etonogestrel and ethinyl estradiol vaginal ring may be restarted, and an additional method of contraception, such as male condoms with spermicide, MUST be used until a new etonogestrel and ethinyl estradiol vaginal ring has been used continuously for seven days.
 
 Ring Breakage: There have been reported cases of etonogestrel and ethinyl estradiol vaginal ring disconnecting at the weld joint.
 This is not expected to affect the contraceptive effectiveness of etonogestrel and ethinyl estradiol vaginal ring.

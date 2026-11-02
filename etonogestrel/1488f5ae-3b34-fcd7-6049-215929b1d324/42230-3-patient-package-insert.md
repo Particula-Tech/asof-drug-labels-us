@@ -1,8 +1,6 @@
-# PATIENT PACKAGE INFORMATION
+# Patient Information
 
-ETONOGESTREL and ETHINYL ESTRADIOL VAGINAL RING
-
-delivers 0.120 mg/0.015 mg per day
+Etonogestrel and Ethinyl Estradiol Vaginal Ring
 
 Hormonal birth control methods help to lower the chances of becoming pregnant.
 They do not protect against HIV infection (AIDS) and other sexually transmitted infections.
@@ -43,7 +41,8 @@ Do not use etonogestrel and ethinyl estradiol vaginal ring if you:
 - take any Hepatitis C drug combination containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir.
   This may increase levels of the liver enzyme “alanine aminotransferase” (ALT) in the blood
 - have unexplained vaginal bleeding
-- are pregnant or think you may be pregnant. etonogestrel and ethinyl estradiol vaginal ring is not for pregnant women.
+- are pregnant or think you may be pregnant.
+  Etonogestrel and ethinyl estradiol vaginal ring is not for pregnant women.
 - have or have had breast cancer or any cancer that is sensitive to female hormones
 - are allergic to etonogestrel, ethinyl estradiol or any of the ingredients in etonogestrel and ethinyl estradiol vaginal ring.
   See the list of ingredients in etonogestrel and ethinyl estradiol vaginal ring at the end of this leaflet.
@@ -63,7 +62,7 @@ Before you use etonogestrel and ethinyl estradiol vaginal ring tell your healthc
 - recently had a baby
 - recently had a miscarriage or abortion
 - have a family history of breast cancer
-- have or have had breast nodules, fibrocystic disease, an abnormal breast x-ray, or abnormal mammogram
+- have or have had breast nodules, fibrocystic disease, an abnormal breast X-ray, or abnormal mammogram
 - use tampons and have a history of toxic shock syndrome
 - have been diagnosed with depression
 - have had liver problems including jaundice during pregnancy
@@ -75,15 +74,16 @@ Before you use etonogestrel and ethinyl estradiol vaginal ring tell your healthc
 - have any condition that makes the vagina become irritated easily
 - have or have had high blood pressure
 - have or have had migraines or other headaches or seizures
-- are scheduled for surgery. etonogestrel and ethinyl estradiol vaginal ring may increase your risk of blood clots after surgery.
-  You should stop using etonogestrel and ethinyl estradiol vaginal ringat least 4 weeks before you have surgery and not restart it until at least 2 weeks after your surgery.
+- are scheduled for surgery.
+  Etonogestrel and ethinyl estradiol vaginal ring may increase your risk of blood clots after surgery.
+  You should stop using etonogestrel and ethinyl estradiol vaginal ring at least 4 weeks before you have surgery and not restart it until at least 2 weeks after your surgery.
 - are scheduled for any laboratory tests.
   Certain blood tests may be affected by hormonal birth control methods.
 - are breastfeeding or plan to breastfeed.
-  Hormonal birth control methods that contain estrogen, likeetonogestrel and ethinyl estradiol vaginal ring, may decrease the amount of milk you make.
+  Hormonal birth control methods that contain estrogen, like etonogestrel and ethinyl estradiol vaginal ring, may decrease the amount of milk you make.
   A small amount of hormones from etonogestrel and ethinyl estradiol vaginal ring may pass into your breast milk.
   Consider another non-hormonal method of birth control until you are ready to stop breastfeeding.
-- have (or ever had) an allergic reaction while using etonogestrel and ethinyl estradiol vaginal ring, including hives, swelling of the face, lips, tongue, and/or throat causing difficulty in breathing or swallowing (anaphylaxis and/or angioedema).
+- have (or have ever had) an allergic reaction while using etonogestrel and ethinyl estradiol vaginal ring, including hives, swelling of the face, lips, tongue, and/or throat causing difficulty in breathing or swallowing (anaphylaxis and/or angioedema).
 - have a family history of angioedema.
   Products containing estrogens may cause or worsen these symptoms.
 
@@ -94,7 +94,7 @@ Some medicines and herbal products may make hormonal birth control less effectiv
 - certain anti-seizure medicines (such as barbiturates, carbamazepine, felbamate, oxcarbazepine, phenytoin, rufinamide and topiramate)
 - medicine to treat fungal infections (griseofulvin)
 - certain combinations of HIV medicines, (such as nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir)
-- certain hepatitis C (HCV) medicines (such as boceprevir and telaprevir)
+- certain Hepatitis C (HCV) medicines (such as boceprevir and telaprevir)
 - non-nucleoside reverse transcriptase inhibitors (such as efavirenz and nevirapine)
 - medicine to treat tuberculosis (such as rifampicin and rifabutin)
 - medicine to treat high blood pressure in the vessels of the lung (bosentan)
@@ -133,14 +133,9 @@ How should I use etonogestrel and ethinyl estradiol vaginal ring?
   - Insert 1 etonogestrel and ethinyl estradiol vaginal ring in the vagina and keep it in place for 3 weeks (21 days).
     Regularly check that etonogestrel and ethinyl estradiol vaginal ring is in your vagina (for example, before and after intercourse) to ensure that you are protected from pregnancy.
   - Remove the etonogestrel and ethinyl estradiol vaginal ring for a 1-week break (7 days).
-    During the 1-week break (7 days), you will usually have your menstrual period.
-
-Note: Insert and remove etonogestrel and ethinyl estradiol vaginal ring on the same day of the week and at the same time:
-
-- 
+    During the 1-week break (7 days), you will usually have your menstrual period.Note: Insert and remove etonogestrel and ethinyl estradiol vaginal ring on the same day of the week and at the same time:
   - For example, if you insert your etonogestrel and ethinyl estradiol vaginal ring on a Monday at 8:00 am, you should remove it on the Monday 3 weeks later at 8:00 am.
   - After your 1-week (7 days) break, you should insert a new etonogestrel and ethinyl estradiol vaginal ring on the next Monday at 8:00 am.
-
 - While using etonogestrel and ethinyl estradiol vaginal ring, you should not use certain female barrier contraceptive methods such as a vaginal diaphragm, cervical cap or female condom as your back-up method of birth control because etonogestrel and ethinyl estradiol vaginal ring may interfere with the correct placement and position of a diaphragm, cervical cap or female condom.
 - Ring breakage has occurred when also using a vaginal product such as a lubricant or treatment for infection (see “What should I do if my etonogestrel and ethinyl estradiol vaginal ring comes out of my vagina?”).
   Use of spermicides or vaginal yeast products will not make etonogestrel and ethinyl estradiol vaginal ring less effective at preventing pregnancy.
@@ -209,7 +204,7 @@ Other serious risks include:
 - high blood pressure
 - gallbladder problems
 - accidental insertion into bladder
-- symptoms of a problem called angioedema if you already have a family history of angioedema
+- symptoms of a problem called angioedema if you already have a (family) history of angioedema
 
 The most common side effects of etonogestrel and ethinyl estradiol vaginal ring are:
 
@@ -252,7 +247,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store etonogestrel and ethinyl estradiol vaginal ring and throw away used etonogestrel and ethinyl estradiol vaginal rings?
 
-Store etonogestrel and ethinyl estradiol vaginal ring at room temperature between 68°F to 77°F (20°C to 25°C).
+- Store etonogestrel and ethinyl estradiol vaginal ring at room temperature between 68°F to 77°F (20°C to 25°C).
 
 - Store etonogestrel and ethinyl estradiol vaginal ring at room temperature for up to 4 months after you receive it.
   Throw etonogestrel and ethinyl estradiol vaginal ring away if the expiration date on the label has passed.
@@ -282,12 +277,12 @@ Active ingredients: etonogestrel and ethinyl estradiol Inactive ingredients: eth
 
 Etonogestrel and ethinyl estradiol vaginal ring is not made with natural rubber latex.
 
-Do Hormonal Birth Control Methods Cause Cancer?
+Does hormonal birth control cause cancer?
 
 It is not known if hormonal birth control causes breast cancer.
 Some studies, but not all, suggest that there could be a slight increase in the risk of breast cancer among current users with longer duration of use.
 
-If you have breast cancer now or have had it in the past, do not use hormonal birth control because some breast cancers are sensitive to hormones.
+If you have breast cancer now, or have had it in the past, do not use hormonal birth control because some breast cancers are sensitive to hormones.
 
 Women who use hormonal birth control methods may have a slightly higher chance of getting cervical cancer.
 However, this may be due to other reasons such as having more sexual partners.
@@ -313,22 +308,21 @@ What if I want to become pregnant?
 You may stop using etonogestrel and ethinyl estradiol vaginal ring whenever you wish.
 Consider a visit with your healthcare provider for a pre-pregnancy checkup before you stop using etonogestrel and ethinyl estradiol vaginal ring.
 
-## INSTRUCTIONS FOR USE
+Instructions for Use
 
-Instructions for Use ETONOGESTREL AND ETHINYL ESTRADIOL VAGINAL RING
+Etonogestrel and Ethinyl Estradiol Vaginal Ring
 
 Read these Instructions for Use before you start using etonogestrel and ethinyl estradiol vaginal ring and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your treatment.
 
-How should I start using etonogestrel and ethinyl estradiol vaginal ring ?
+How should I start using etonogestrel and ethinyl estradiol vaginal ring?
 
 If you are not currently using hormonal birth control, you have 2 ways to start using etonogestrel and ethinyl estradiol vaginal ring.
 Choose the best way for you:
 
 - First Day Start: Insert etonogestrel and ethinyl estradiol vaginal ring on the first day of your menstrual period.
   You will not need to use another birth control method since you are using etonogestrel and ethinyl estradiol vaginal ring on the first day of your menstrual period.
-
 - Day 2 to Day 5 Cycle Start: You may choose to start etonogestrel and ethinyl estradiol vaginal ring on days 2 to 5 of your menstrual period.
   Make sure you also use an extra method of birth control (barrier method), such as male condoms with spermicide for the first 7 days of etonogestrel and ethinyl estradiol vaginal ring use in the first cycle.
 
@@ -357,7 +351,6 @@ If you start using etonogestrel and ethinyl estradiol vaginal ring after an abor
     You will not need to use another birth control method since you are using etonogestrel and ethinyl estradiol vaginal ring on the first day of your menstrual period.
   - Day 2 to Day 5 Cycle Start: You may choose to start etonogestrel and ethinyl estradiol vaginal ring on Days 2 to 5 of your menstrual period.
     Make sure you also use an extra method of birth control (barrier method), such as male condoms with spermicide for the first 7 days of etonogestrel and ethinyl estradiol vaginal ring use in the first cycle.
-
 - Following a second trimester abortion or miscarriage: You may start using etonogestrel and ethinyl estradiol vaginal ring no sooner than 4 weeks (28 days) after a second trimester abortion (after the first 12 weeks of pregnancy).
 
 If you are starting etonogestrel and ethinyl estradiol vaginal ring after childbirth:
@@ -431,8 +424,7 @@ What if I leave etonogestrel and ethinyl estradiol vaginal ring in too long?
 
 - If you leave etonogestrel and ethinyl estradiol vaginal ring in your vagina for up to 4 weeks (28 days) you will still be getting pregnancy protection.
   Remove your old etonogestrel and ethinyl estradiol vaginal ring for 1 week (7 days) and insert a new etonogestrel and ethinyl estradiol vaginal ring 1 week (7 days) later (See Steps 1 through 4).
-- If you leave etonogestrel and ethinyl estradiol vaginal ring in your vagina longer than 4 weeks (28 days), remove the ring and check to make sure you are not pregnant.
-- If you are not pregnant, insert a new etonogestrel and ethinyl estradiol vaginal ring (See Steps 1 through 4).
+- If you leave etonogestrel and ethinyl estradiol vaginal ring in your vagina longer than 4 weeks (28 days), remove the ring and check to make sure you are not pregnant.If you are not pregnant, insert a new etonogestrel and ethinyl estradiol vaginal ring (See Steps 1 through 4).
   You must use another birth control method, such as male condoms with spermicide, until the new etonogestrel and ethinyl estradiol vaginal ring has been used for 7 days in a row.
 
 What should I do if my etonogestrel and ethinyl estradiol vaginal ring comes out of my vagina?
@@ -468,9 +460,9 @@ This Patient Information and Instructions for Use have been approved by the U.S.
 
 Manufactured for: Northstar Rx LLC, Memphis, TN 38141
 
-Manufactured by: Laboratorios León Farma, S.A., León, Spain
+Manufactured by: Laboratorios Leon Farma S.A., 24193 Villaquilambre, León, Spain.
 
 Iss.
-06/2024
+08/2026
 
-NOR-PIL-156-01
+NOR-PIL-156-02
