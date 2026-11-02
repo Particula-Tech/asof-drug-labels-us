@@ -1,8 +1,11 @@
-# PATIENT PACKAGE INFORMATION
+# Patient Information
 
-EnilloRing™ (eh-NIL-lo-ring)
+EnilloRing® (eh-NIL-lo-ring)
 
-(etonogestrel/ethinyl estradiol vaginal ring)
+(etonogestrel and ethinyl estradiol vaginal ring)
+
+| What is the most important information I should know about EnilloRing?Do not use EnilloRing if you smoke cigarettes and are over 35 years old. Smoking increases your risk of serious cardiovascular side effects (heart and blood vessel problems) from combination hormonal contraceptives (CHCs), including death from heart attack, blood clots or stroke. This risk increases with age and the number of cigarettes you smoke. |
+| --- |
 
 Hormonal birth control methods help to lower the chances of becoming pregnant.
 They do not protect against HIV infection (AIDS) and other sexually transmitted infections.
@@ -64,7 +67,7 @@ Before you use EnilloRing tell your healthcare provider if you:
 - recently had a baby
 - recently had a miscarriage or abortion
 - have a family history of breast cancer
-- have or have had breast nodules, fibrocystic disease, an abnormal breast x-ray, or abnormal mammogram
+- have or have had breast nodules, fibrocystic disease, an abnormal breast X-ray, or abnormal mammogram
 - use tampons and have a history of toxic shock syndrome
 - have been diagnosed with depression
 - have had liver problems including jaundice during pregnancy
@@ -85,7 +88,7 @@ Before you use EnilloRing tell your healthcare provider if you:
   Hormonal birth control methods that contain estrogen, like EnilloRing, may decrease the amount of milk you make.
   A small amount of hormones from EnilloRing may pass into your breast milk.
   Consider another non-hormonal method of birth control until you are ready to stop breastfeeding.
-- have (or ever had) an allergic reaction while using EnilloRing, including hives, swelling of the face, lips, tongue, and/or throat causing difficulty in breathing or swallowing (anaphylaxis and/or angioedema).
+- have (or have ever had) an allergic reaction while using EnilloRing, including hives, swelling of the face, lips, tongue, and/or throat causing difficulty in breathing or swallowing (anaphylaxis and/or angioedema).
 - have a family history of angioedema.
   Products containing estrogens may cause or worsen these symptoms.
 
@@ -96,7 +99,7 @@ Some medicines and herbal products may make hormonal birth control less effectiv
 - certain anti-seizure medicines (such as barbiturates, carbamazepine, felbamate, oxcarbazepine, phenytoin, rufinamide and topiramate)
 - medicine to treat fungal infections (griseofulvin)
 - certain combinations of HIV medicines, (such as nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir)
-- certain hepatitis C (HCV) medicines (such as boceprevir and telaprevir)
+- certain Hepatitis C (HCV) medicines (such as boceprevir and telaprevir)
 - non-nucleoside reverse transcriptase inhibitors (such as efavirenz and nevirapine)
 - medicine to treat tuberculosis (such as rifampicin and rifabutin)
 - medicine to treat high blood pressure in the vessels of the lung (bosentan)
@@ -139,9 +142,9 @@ How should I use EnilloRing?
 
 Note: Insert and remove EnilloRing on the same day of the week and at the same time:
 
-- 
-  - For example, if you insert your EnilloRing on a Monday at 8:00 am, you should remove it on the Monday 3 weeks later at 8:00 am.
-  - After your 1-week (7 days) break, you should insert a new EnilloRing on the next Monday at 8:00 am.
+o For example, if you insert your EnilloRing on a Monday at 8:00 am, you should remove it on the Monday 3 weeks later at 8:00 am.
+
+o After your 1-week (7 days) break, you should insert a new EnilloRing on the next Monday at 8:00 am.
 
 - While using EnilloRing, you should not use certain female barrier contraceptive methods such as a vaginal diaphragm, cervical cap or female condom as your back-up method of birth control because EnilloRing may interfere with the correct placement and position of a diaphragm, cervical cap or female condom.
 - Ring breakage has occurred when also using a vaginal product such as a lubricant or treatment for infection (see “What should I do if my EnilloRing comes out of my vagina?”).
@@ -170,11 +173,15 @@ Other studies have reported that the risk of blood clots was higher for women wh
 It is possible to die or be permanently disabled from a problem caused by a blood clot, such as heart attack or stroke.
 Some examples of serious blood clots are blood clots in the:
 
-- legs (deep vein thrombosis)
-- lungs (pulmonary embolus)
-- eyes (loss of eyesight)
-- heart (heart attack)
-- brain (stroke)
+o legs (deep vein thrombosis)
+
+o lungs (pulmonary embolus)
+
+o eyes (loss of eyesight)
+
+o heart (heart attack)
+
+o brain (stroke)
 
 To put the risk of developing a blood clot into perspective: If 10,000 women who are not pregnant and do not use hormonal birth control are followed for one year, between 1 and 5 of these women will develop a blood clot.
 The figure below shows the likelihood of developing a serious blood clot for women who are not pregnant and do not use hormonal birth control, for women who use hormonal birth control, for pregnant women, and for women in the first 12 weeks after delivering a baby.
@@ -186,13 +193,19 @@ Based on a model assumption that pregnancy duration is nine months, the rate is 
 
 Call your healthcare provider right away if you have:
 
-- leg pain that does not go away
-- sudden shortness of breath
-- sudden blindness, partial or complete
-- severe pain or pressure in your chest
-- sudden, severe headache unlike your usual headaches
-- weakness or numbness in an arm or leg, or trouble speaking
-- yellowing of the skin or eyeballs
+o leg pain that does not go away
+
+o sudden shortness of breath
+
+o sudden blindness, partial or complete
+
+o severe pain or pressure in your chest
+
+o sudden, severe headache unlike your usual headaches
+
+o weakness or numbness in an arm or leg, or trouble speaking
+
+o yellowing of the skin or eyeballs
 
 Other serious risks include:
 
@@ -211,7 +224,7 @@ Other serious risks include:
 - high blood pressure
 - gallbladder problems
 - accidental insertion into bladder
-- symptoms of a problem called angioedema if you already have a family history of angioedema
+- symptoms of a problem called angioedema if you already have a (family) history of angioedema
 
 The most common side effects of EnilloRing are:
 
@@ -283,12 +296,12 @@ Active ingredients: etonogestrel and ethinyl estradiol Inactive ingredients: eth
 
 EnilloRing is not made with natural rubber latex.
 
-Do Hormonal Birth Control Methods Cause Cancer?
+Does hormonal birth control cause cancer?
 
 It is not known if hormonal birth control causes breast cancer.
 Some studies, but not all, suggest that there could be a slight increase in the risk of breast cancer among current users with longer duration of use.
 
-If you have breast cancer now or have had it in the past, do not use hormonal birth control because some breast cancers are sensitive to hormones.
+If you have breast cancer now, or have had it in the past, do not use hormonal birth control because some breast cancers are sensitive to hormones.
 
 Women who use hormonal birth control methods may have a slightly higher chance of getting cervical cancer.
 However, this may be due to other reasons such as having more sexual partners.
@@ -314,9 +327,7 @@ What if I want to become pregnant?
 You may stop using EnilloRing whenever you wish.
 Consider a visit with your healthcare provider for a pre-pregnancy checkup before you stop using EnilloRing.
 
-## INSTRUCTIONS FOR USE
-
-Instructions for Use EnilloRing™ (eh-NIL-lo-ring) (etonogestrel/ethinyl estradiol vaginal ring)
+Instructions for Use EnilloRing® (eh-NIL-lo-ring) (etonogestrel and ethinyl estradiol vaginal ring)
 
 Read these Instructions for Use before you start using EnilloRing and each time you get a refill.
 There may be new information.
@@ -432,8 +443,7 @@ What if I leave EnilloRing in too long?
 
 - If you leave EnilloRing in your vagina for up to 4 weeks (28 days) you will still be getting pregnancy protection.
   Remove your old EnilloRing for 1 week (7 days) and insert a new EnilloRing 1 week (7 days) later (See Steps 1 through 4).
-- If you leave EnilloRing in your vagina longer than 4 weeks (28 days), remove the ring and check to make sure you are not pregnant.
-- If you are not pregnant, insert a new EnilloRing (See Steps 1 through 4).
+- If you leave EnilloRing in your vagina longer than 4 weeks (28 days), remove the ring and check to make sure you are not pregnant.If you are not pregnant, insert a new EnilloRing (See Steps 1 through 4).
   You must use another birth control method, such as male condoms with spermicide, until the new EnilloRing has been used for 7 days in a row.
 
 What should I do if my EnilloRing comes out of my vagina?
@@ -449,19 +459,15 @@ EnilloRing can slip or accidentally come out (expelled) of your vagina, for exam
 - EnilloRing can be pushed out of (expelled from) your vagina, for example, during sexual intercourse or during a bowel movement.
   - If the expelled ring has been out of your vagina for less than 3 hours, rinse the expelled EnilloRing in cool to lukewarm (not hot) water and insert it again right away.
   - If the expelled EnilloRing has been out of your vagina for more than 3 continuous hours:
-    - During Weeks 1 and 2, you may not be protected from pregnancy.
-      Reinsert the ring as soon as you remember (See Steps 1 through 4).
-      Use another birth control method, such as male condoms with spermicide, until the ring has been in place for 7 days in a row.
-    - During Week 3, do not reinsert the EnilloRing that has been out of your vagina; but throw it away in your household trash away from children and pets.
-      Use another birth control method, such as male condoms with spermicide, until the new EnilloRing has been used for 7 days in a row, following one of the two options below:
-
-- Option 1.
-Insert a new ring right away to start your next 21 Day EnilloRing use cycle.
-You may not have your regular period, but you may have spotting or vaginal bleeding. - Option 2.
-Insert a new ring no later than 7 days from the time the previous ring was removed or expelled.
-During this time, you may have your period.
-Note: You should only choose to do option 2 if you used EnilloRing for 7 days in a row, prior to the day that your previous EnilloRing was accidentally removed or expelled.
-
+  - During Weeks 1 and 2, you may not be protected from pregnancy.
+    Reinsert the ring as soon as you remember Use another birth control method, such as male condoms with spermicide, until the ring has been in place for 7 days in a row.(See Steps 1 through 4).
+  - During Week 3, do not reinsert the EnilloRing that has been out of your vagina; but throw it away in your household trash away from children and pets.
+    Use another birth control method, such as male condoms with spermicide, until the new EnilloRing has been used for 7 days in a row, following one of the two options below: - Option 1.
+    Insert a new ring right away to start your next 21 Day EnilloRing use cycle.
+    You may not have your regular period, but you may have spotting or vaginal bleeding. - Option 2.
+    Insert a new ring no later than 7 days from the time the previous ring was removed or expelled.
+    During this time, you may have your period.
+    Note: You should only choose to do option 2 if you used EnilloRing for 7 days in a row, prior to the day that your previous EnilloRing was accidentally removed or expelled.
 - If EnilloRing was out of the vagina for an unknown amount of time, you may not be protected from pregnancy.
   Perform a pregnancy test prior to inserting a new ring and consult your healthcare provider.
 
@@ -469,9 +475,19 @@ This Patient Information and Instructions for Use have been approved by the U.S.
 
 ENILLORING® is a registered trademark of Xiromed Pharma España, S.L.
 
-Manufactured by: Laboratorios León Farma, S.A., León, Spain for Xiromed, LLC, Florham Park, NJ 07932
+Manufactured for:
+
+Xiromed, LLC,
+
+Florham Park, NJ 07932
+
+Manufactured by:
+
+Laboratorios Leon Farma, S.A.,
+
+Villaquilambre, Leon, Spain 24193
 
 Rev.
-06/2024
+07/2026
 
-PIL-156-01
+PIL-156-02

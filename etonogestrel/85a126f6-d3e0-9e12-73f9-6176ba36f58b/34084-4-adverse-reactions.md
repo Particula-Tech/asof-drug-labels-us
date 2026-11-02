@@ -33,7 +33,9 @@ Three studies compared breast cancer risk between current or recent COC users (<
 One of these studies reported no association between breast cancer risk and COC use.
 The other two studies found an increased relative risk of 1.19 - 1.33 with current or recent use.
 Both of these studies found an increased risk of breast cancer with current use of longer duration, with relative risks ranging from 1.03 with less than one year of COC use to approximately 1.4 with more than 8-10 years of COC use.
-Figure 2: Relevant Studies of Risk of Breast Cancer with Combined Oral Contraceptives RR = relative risk; OR = odds ratio; HR = hazard ratio.
+Figure 2: Relevant Studies of Risk of Breast Cancer with Combined Oral Contraceptives
+
+RR = relative risk; OR = odds ratio; HR = hazard ratio.
 “ever COC” are females with current or past COC use; “never COC use” are females that never used COCs.
 
 The following adverse reactions have been identified during post-approval use of EnilloRing.
@@ -47,8 +49,8 @@ Vascular disorders: arterial events (including arterial thromboembolism and myoc
 
 Skin and subcutaneous tissue disorders: exacerbations of hereditary and acquired angioedema, urticaria, chloasma
 
-Reproductive system and breast disorders: penile disorders, including local reactions on penis (in male partners of women usingEnilloRing), galactorrhea
+Reproductive system and breast disorders: penile disorders, including local reactions on penis (in male partners of women using EnilloRing), galactorrhea
 
-General Disorders and Administration Site Conditions: device breakage (including with concomitant use of intravaginal antimycotic, antibiotic, and lubricant products)
+General disorders and administration site conditions: device breakage (including with concomitant use of intravaginal antimycotic, antibiotic, and lubricant products)
 
 Injury, poisoning and procedural complications: vaginal injury (including associated pain, discomfort, and bleeding) associated with ring breakage

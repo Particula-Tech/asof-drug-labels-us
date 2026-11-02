@@ -13,7 +13,7 @@ Discontinue EnilloRing use if pregnancy is confirmed.
 Data Animal Data In rats and rabbits at dosages up to 300 times the anticipated dose, etonogestrel is neither embryotoxic nor teratogenic.
 Co-administration of a maternally toxic dose of desogestrel/ethinyl estradiol to pregnant rats was associated with embryolethality and wavy ribs at a desogestrel/ethinyl estradiol dose that was 40/130 times, respectively, the anticipated vaginal human dose (0.002 desogestrel/0.00025 ethinyl estradiol mg/kg/day).
 No adverse embryofetal effects were observed when the combination was administered to pregnant rats at a desogestrel/ethinyl estradiol dose that was 4/13 times, respectively, the anticipated vaginal human dose.
-When desogestrel/ethinyl estradiol was given to pregnant rabbits, preimplantation loss was observed at a desogestrel/ethinyl estradiol dose that was 3/10 times, respectively, the anticipated vaginal human dose.
+When desogestrel/ethinyl estradiol was given to pregnant rabbits, pre-implantation loss was observed at a desogestrel/ethinyl estradiol dose that was 3/10 times, respectively, the anticipated vaginal human dose.
 No adverse embryofetal effects were observed when the combination was administered to pregnant rabbits at a desogestrel/ethinyl estradiol dose that was 2/5 times the anticipated vaginal human dose.
 
 ## 8.2 Lactation

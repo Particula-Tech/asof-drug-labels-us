@@ -25,16 +25,16 @@ For women using COCs that did not contain the progestins desogestrel (DSG) or ge
 
 A retrospective cohort study using data from 4 health plans in the US (FDA-funded Study in Kaiser Permanente and Medicaid databases) showed the VTE incidence for new users of EnilloRing to be 11.4 events per 10,000 WY, for new users of a levonorgestrel (LNG)-containing COC 9.2 events per 10,000 WY, and for users of other COCs available during the course of the study* 8.2 events per 10,000 WY.
 
-*Includes low-dose COCs containing the following progestins: norgestimate, norethindrone, or levonorgestrel.
+* Includes low-dose COCs containing the following progestins: norgestimate, norethindrone, or levonorgestrel.
 
 Table 1: Estimates (Hazard Ratios) of Venous Thromboembolism Risk in Users of EnilloRing Compared to Users of Combined Oral Contraceptives (COCs)
 
 | Epidemiologic Study (Author, Year of Publication) Population Studied | Comparator Product(s) | Hazard Ratios (HR) (95% CI) |
 | --- | --- | --- |
-| TASC (Dinger, 2012)Initiators, including new users, switchers and restarters | All COCs available during the course of the study *COCs available excluding DSG-or GSD -containing OCs | HR†: 0.8 (0.5-1.5)HR†: 0.8 (0.4-1.7) |
+| TASC (Dinger, 2012)Initiators, including new users, switchers and restarters | All COCs available during the course of the study *COCs available excluding DSG- or GSD - containing OCs | HR†: 0.8 (0.5-1.5)HR†: 0.8 (0.4-1.7) |
 | FDA-funded Study in Kaiser Permanente and Medicaid databases (Sidney, 2011)First use of a combined hormonal contraceptive (CHC) during the study period | COCs available during the course of the study‡LNG/0.03 mg ethinyl estradiol | HR§: 1.1 (0.6-2.2)HR§: 1.0 (0.5-2.0) |
 
-* Includes low-dose COCs containing the following progestins: chlormadinone acetate, cyproterone acetate, desogestrel, dienogest, drospirenone, ethynodiol diacetate, gestodene, levonorgestrel, norethindrone, norgestimate, or norgestrel † Adjusted for age, BMI, duration of use, VTE history ‡Includes low-dose COCs containing the following progestins: norgestimate, norethindrone, or levonorgestrel §Adjusted for age, site, year of entry into study
+* Includes low-dose COCs containing the following progestins: chlormadinone acetate, cyproterone acetate, desogestrel, dienogest, drospirenone, ethynodiol diacetate, gestodene, levonorgestrel, norethindrone, norgestimate, or norgestrel † Adjusted for age, BMI, duration of use, VTE history ‡ Includes low-dose COCs containing the following progestins: norgestimate, norethindrone, or levonorgestrel § Adjusted for age, site, year of entry into study
 
 An increased risk of thromboembolic and thrombotic disease associated with the use of CHCs is well-established.
 Although the absolute VTE rates are increased for users of CHCs compared to non-users, the rates associated with pregnancy are even greater, especially during the post-partum period (see Figure 1).
@@ -93,7 +93,7 @@ Discontinue EnilloRing prior to starting therapy with the combination drug regim
 EnilloRing can be restarted approximately 2 weeks following completion of treatment with this hepatitis C combination drug regimen.
 
 During clinical trials with some HCV combination drug regimens, ALT elevations were observed in women using ethinyl estradiol containing medications [see Drug Interactions (7)].
-For example, the Hepatitis C combination drug regimen that contains ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, ALT elevations greater than 5 times the upper limit of normal (ULN), including some cases greater than 20 times the ULN, were significantly more frequent in women using ethinyl estradiol-containing medications, such as CHCs.
+For example, the Hepatitis C combination drug regimen that contains ombitasvir/paritaprevir/ritonavir, with and without dasabuvir, ALT elevations greater than 5 times the upper limit of normal (ULN), including some cases greater than 20 times the ULN, were significantly more frequent in women using ethinyl estradiol-containing medications, such as CHCs.
 
 ## 5.5 High Blood Pressure
 
@@ -107,7 +107,7 @@ The incidence of hypertension increases with increasing concentrations of proges
 
 Hypersensitivity reactions of anaphylaxis and angioedema have been reported during use of EnilloRing.
 If anaphylaxis and/or angioedema is suspected, EnilloRing should be discontinued and appropriate treatment administered.
-[see Contraindications (4).]
+[See Contraindications (4).]
 
 ## 5.7 Vaginal Use
 

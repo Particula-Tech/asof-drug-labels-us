@@ -10,7 +10,8 @@ A new ring is inserted one week after the last ring was removed.
 
 The user can choose the insertion position that is most comfortable to her, for example, standing with one leg up, squatting, or lying down.
 The ring is to be compressed and inserted into the vagina.
-An optional alternative is to insert the ring using the applicator for EnilloRing [see Applicator for EnilloRing Instructions for Use].The exact position of EnilloRing inside the vagina is not critical for its function.
+An optional alternative is to insert the ring using the applicator for EnilloRing [see Applicator for EnilloRing Instructions for Use].
+The exact position of EnilloRing inside the vagina is not critical for its function.
 The vaginal ring must be inserted on the appropriate day and left in place for three consecutive weeks.
 This means that the ring should be removed three weeks later on the same day of the week as it was inserted and at about the same time.
 

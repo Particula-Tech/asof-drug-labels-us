@@ -41,9 +41,19 @@ Disposal
 
 ENILLORING® is a registered trademark of Xiromed Pharma España, S.L.
 
-Manufactured by: Laboratorios León Farma, S.A., León, Spain for Xiromed, LLC, Florham Park, NJ 07932
+Manufactured for:
+
+Xiromed, LLC,
+
+Florham Park, NJ 07932
+
+Manufactured by:
+
+Laboratorios Leon Farma, S.A.,
+
+Villaquilambre, Leon, Spain 24193
 
 Rev.
-06/2024
+07/2026
 
-PI-156-01
+PI-156-02
