@@ -88,13 +88,13 @@ Inform patients how to take lenalidomide capsules [see Dosage and Administration
   The next day, they should take lenalidomide capsules at the usual time.
   Warn patients to not take 2 doses to make up for the one that they missed.
 
-Manufactured In India By: Natco Pharma Limited Kothur - 509 228, India
+Manufactured In India By: Natco Pharma Limited Kothur - 509228, India
 
 OR
 
-Manufactured In India By: Natco Pharma Limited Visakhapatnam ‐ 531019, AP, India
+Manufactured In India By: Natco Pharma Limited Parawada ‐ 531019, India
 
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-D 5/2026
+E 8/2026
