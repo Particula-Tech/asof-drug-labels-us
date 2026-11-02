@@ -15,5 +15,5 @@ Table 7: Clinically Significant Interactions Affecting Tofacitinib Extended-Rele
 | Clinical Impact | Decreased exposure to tofacitinib and may result in loss of or reduced clinical response |
 | Intervention | Concomitant use with tofacitinib extended-release tablets is not recommended [see Clinical Pharmacology, Figure 3 (12.3)] |
 | Immunosuppressive Drugs (e.g., azathioprine, tacrolimus, cyclosporine) |  |
-| Clinical Impact | Risk of added immunosuppression; concomitant use of tofacitinib extended-release tablets with biologic DMARDs or potent immunosuppressants has not been studied in patients with RA, PsA or AS. |
+| Clinical Impact | Risk of added immunosuppression; concomitant use of tofacitinib extended-release tablets with biologic DMARDs or potent immunosuppressants has not been studied in patients with RA, PsA, AS, or UC. |
 | Intervention | Concomitant use with tofacitinib extended-release tablets is not recommended [see Indications and Usage (1), Clinical Pharmacology, Figure 3 (12.3)] |

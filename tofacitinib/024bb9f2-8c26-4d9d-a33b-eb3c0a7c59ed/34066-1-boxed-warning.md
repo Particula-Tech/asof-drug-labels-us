@@ -2,7 +2,7 @@
 
 SERIOUS INFECTIONS
 
-Patients treated with tofacitinib extended-release tablets are at increased risk for developing serious bacterial, fungal, viral, and opportunistic infections, including tuberculosis (TB), that may lead to hospitalization or death [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
+Patients treated with tofacitinib extended-release tablets are at increased risk for developing serious bacterial, fungal, viral, and opportunistic infections, including tuberculosis (TB), that may lead to hospitalization or death[see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 Most patients who developed these infections were taking concomitant immunosuppressants such as methotrexate or corticosteroids.
 Reported infections included:
 
@@ -20,23 +20,22 @@ If a serious infection develops, interrupt tofacitinib extended-release tablets 
 
 MORTALITY
 
-In a large, randomized, postmarketing safety study in rheumatoid arthritis (RA) patients 50 years of age and older with at least one cardiovascular (CV) risk factor comparing tofacitinib tablets 5 mg or 10 mg twice a day to tumor necrosis factor (TNF) blockers, a higher rate of all-cause mortality, including sudden CV death, was observed with tofacitinib tablets 5 mg or 10 mg twice a day [see Warnings and Precautions (5.2)].
-Tofacitinib tablets 10 mg twice daily dosages are not recommended for the treatment of RA, psoriatic arthritis (PsA), or ankylosing spondylitis (AS) [see Dosage and Administration (2.3)].
+In a large, randomized, postmarketing safety study in rheumatoid arthritis (RA) patients 50 years of age and older with at least one cardiovascular (CV) risk factor comparing XELJANZ tablets 5 mg or 10 mg twice a day to tumor necrosis factor (TNF) blockers, a higher rate of all-cause mortality, including sudden CV death, was observed with XELJANZ tablets 5 mg or 10 mg twice a day [see Warnings and Precautions (5.2)].XELJANZ 10 mg twice daily and tofacitinib extended-release tablets 22 mg once daily dosages are not recommended for the treatment of RA, psoriatic arthritis (PsA), or ankylosing spondylitis (AS)[see Dosage and Administration (2.3)].
 
-MALIGNANCIES Malignancies, including lymphomas and solid tumors, have occurred in patients treated with tofacitinib and other Janus kinase inhibitors used to treat inflammatory conditions.
-In RA patients, a higher rate of malignancies (excluding non-melanoma skin cancer NMSC)) was observed in patients treated with tofacitinib tablets 5 mg or 10 mg twice a day compared with TNF blockers [see Warnings and Precautions (5.3)].
+MALIGNANCIES Malignancies, including lymphomas and solid tumors, have occurred in patients treated with XELJANZ and other Janus kinase inhibitors used to treat inflammatory conditions.
+In RA patients, a higher rate of malignancies (excluding non-melanoma skin cancer (NMSC)) was observed in patients treated with XELJANZ tablets 5 mg or 10 mg twice a day compared with TNF blockers[see Warnings and Precautions (5.3)].
 
-Lymphomas and lung cancers were observed at a higher rate in patients treated with tofacitinib tablets 5 mg or 10 mg twice a day in RA patients compared to those treated with TNF blockers.
+Lymphomas and lung cancers were observed at a higher rate in patients treated with XELJANZ tablets 5 mg or 10 mg twice a day in RA patients compared to those treated with TNF blockers.
 Patients who are current or past smokers are at additional increased risk.
 
-MAJOR ADVERSE CARDIOVASCULAR EVENTS RA patients 50 years of age and older with at least one cardiovascular risk factor, treated with tofacitinib tablets 5 mg or 10 mg twice daily, had a higher rate of major adverse cardiovascular events (MACE) (defined as cardiovascular death, myocardial infarction, and stroke), compared to those treated with TNF blockers.
+MAJOR ADVERSE CARDIOVASCULAR EVENTS RA patients 50 years of age and older with at least one cardiovascular risk factor, treated with XELJANZ tablets 5 mg or 10 mg twice daily, had a higher rate of major adverse cardiovascular events (MACE) (defined as cardiovascular death, myocardial infarction, and stroke), compared to those treated with TNF blockers.
 Patients who are current or past smokers are at additional increased risk.
 Discontinue tofacitinib extended-release tablets in patients that have experienced a myocardial infarction or stroke [see Warnings and Precautions (5.4)].
 
 THROMBOSIS
 
-Thrombosis, including pulmonary embolism, deep venous thrombosis, and arterial thrombosis have occurred in patients treated with tofacitinib and other Janus kinase inhibitors used to treat inflammatory conditions.
+Thrombosis, including pulmonary embolism, deep venous thrombosis, and arterial thrombosis have occurred in patients treated with XELJANZ and other Janus kinase inhibitors used to treat inflammatory conditions.
 Many of these events were serious and some resulted in death.
-RA patients 50 years of age and older with at least one cardiovascular risk factor treated with tofacitinib tablets 5 mg or 10 mg twice daily compared to TNF blockers had an observed increase in incidence of these events.
-Avoid tofacitinib in patients at risk.
+RA patients 50 years of age and older with at least one cardiovascular risk factor treated with XELJANZ tablets 5 mg or 10 mg twice daily compared to TNF blockers had an observed increase in incidence of these events.
+Avoid tofacitinib extended-release tabletsin patients at risk.
 Discontinue tofacitinib extended-release tablets and promptly evaluate patients with symptoms of thrombosis [see Warnings and Precautions (5.5)].

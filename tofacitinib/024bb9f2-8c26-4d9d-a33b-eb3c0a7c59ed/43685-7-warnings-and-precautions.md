@@ -3,10 +3,13 @@
 ## 5.1 Serious Infections
 
 Serious and sometimes fatal infections may occur with tofacitinib extended-release tablets.
-Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in patients receiving tofacitinib.
-The most common serious infections reported with tofacitinib included pneumonia, urinary tract infection, cellulitis, herpes zoster, bronchitis, septic shock, diverticulitis, gastroenteritis, appendicitis, and sepsis.
-Among opportunistic infections, tuberculosis and other mycobacterial infections, cryptococcosis, histoplasmosis, esophageal candidiasis, pneumocystosis, multidermatomal herpes zoster, cytomegalovirus infections, BK virus infection, and listeriosis were reported with tofacitinib.
+Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in patients receiving XELJANZ.
+The most common serious infections reported with XELJANZ included pneumonia, urinary tract infection, cellulitis, herpes zoster, bronchitis, septic shock, diverticulitis, gastroenteritis, appendicitis, and sepsis.
+Among opportunistic infections, tuberculosis and other mycobacterial infections, cryptococcosis, histoplasmosis, esophageal candidiasis, pneumocystosis, multi-dermatomal herpes zoster, cytomegalovirus infections, BK virus infection, and listeriosis were reported with XELJANZ.
 Some patients have presented with disseminated rather than localized disease, and were often taking concomitant immunomodulating agents such as methotrexate or corticosteroids.
+
+In the UC population, treatment with XELJANZ tablets 10 mg twice daily was associated with greater risk of serious infections compared to 5 mg twice daily.
+Additionally, opportunistic herpes zoster infections (including meningoencephalitis, ophthalmologic, and disseminated cutaneous) were seen in patients who were treated with XELJANZ tablets 10 mg twice daily.
 
 Other serious infections that were not reported in clinical studies may also occur (e.g., coccidioidomycosis).
 
@@ -26,7 +29,7 @@ In patients who develop a new infection during treatment with tofacitinib extend
 Caution is also recommended in patients with a history of chronic lung disease, or in those who develop interstitial lung disease, as they may be more prone to infections.
 
 Risk of infection may be higher with increasing degrees of lymphopenia and consideration should be given to lymphocyte counts when assessing individual patient risk of infection.
-Discontinuation and monitoring criteria for lymphopenia are recommended [see Dosage and Administration (2.3)].
+Discontinuation and monitoring criteria for lymphopenia are recommended [see Dosage and Administration (2.3, 2.5)].
 
 Tuberculosis
 
@@ -47,74 +50,86 @@ Patients who screened positive for hepatitis B or C were excluded from clinical 
 Perform screening for viral hepatitis in accordance with clinical guidelines before starting therapy with tofacitinib extended-release tablets.
 The risk of herpes zoster is increased in patients treated with tofacitinib extended-release tablets and appears to be higher in patients treated with XELJANZ in Japan and Korea.
 
+Progressive Multifocal Leukoencephalopathy (PML) Postmarketing cases of PML have been reported during treatment with tofacitinib extended-release tablets; in some of these patients, immune reconstitution inflammatory syndrome (IRIS) occurred within several weeks after discontinuation of tofacitinib extended-release tablets.
+Consider PML in any patient presenting with new onset or worsening neurological symptoms.
+If PML is suspected, stop tofacitinib extended-release tablets and evaluate; if PML is confirmed, discontinue treatment and manage patients appropriately.
+
 ## 5.2 Increased Risk of Mortality
 
 Increased risk of mortality may occur with tofacitinib extended-release tablets.
-Adult patients with rheumatoid arthritis (RA), 50 years of age and older, with at least one cardiovascular risk factor treated with tofacitinib tablets 5 mg or 10 mg twice a day had a higher observed rate of all-cause mortality, including sudden cardiovascular death, compared to those treated with TNF blockers in a large, randomized, postmarketing safety study (RA Safety Study 1).
-The incidence rate of all-cause mortality per 100 patient-years was 1.23 for tofacitinib tablets 10 mg twice a day, 0.88 for tofacitinib tablets 5 mg twice a day, and 0.69 for TNF blockers [see Clinical Studies (14.6)].
+Adult patients with rheumatoid arthritis (RA), 50 years of age and older, with at least one cardiovascular risk factor treated with XELJANZ tablets 5 mg or 10 mg twice a day had a higher observed rate of all-cause mortality, including sudden cardiovascular death, compared to those treated with TNF blockers in a large, randomized, postmarketing safety study (RA Safety Study 1).
+The incidence rate of all-cause mortality per 100 patient-years was 1.23 for XELJANZ tablets 10 mg twice a day, 0.88 for XELJANZ tablets 5 mg twice a day, and 0.69 for TNF blockers [see Clinical Studies (14.6)].
 Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with tofacitinib extended-release tablets.
 
-Tofacitinib 10 mg twice daily (or tofacitinib extended-release tablets 22 mg once daily) dosages are not recommended for the treatment of RA, PsA, or AS [see Dosage and Administration (2.3)].
+XELJANZ 10 mg twice daily (or tofacitinib extended-release tablets 22 mg once daily) dosages are not recommended for the treatment of RA, PsA, or AS [see Dosage and Administration (2.3)].
+
+For the treatment of UC, use tofacitinib extended-release tablets at the lowest effective dose and for the shortest duration needed to achieve/maintain therapeutic response [see Dosage and Administration (2.5)].
 
 ## 5.3 Malignancy and Lymphoproliferative Disorders
 
 Malignancies and lymphoproliferative disorders may occur with tofacitinib extended-release tablets.
-Malignancies, including lymphomas and solid cancers, were observed in clinical studies of tofacitinib [see Adverse Reactions (6.1)].
+Malignancies, including lymphomas and solid cancers, were observed in clinical studies of XELJANZ[see Adverse Reactions (6.1)].
 
-Other malignancies were observed in tofacitinib clinical studies and the postmarketing setting, including, but not limited to, lung cancer, breast cancer, melanoma, prostate cancer, and pancreatic cancer.
+Other malignancies were observed in XELJANZ clinical studies and the postmarketing setting, including, but not limited to, lung cancer, breast cancer, melanoma, prostate cancer, and pancreatic cancer.
 
-In RA Safety Study 1, a higher rate of malignancies (excluding non-melanoma skin cancer (NMSC)) was observed in patients treated with tofacitinib tablets 5 mg or 10 mg twice a day compared with TNF blockers.
-The incidence rate of malignancies (excluding NMSC) per 100 patient-years was 1.13 for tofacitinib tablets 10 mg twice a day, 1.13 for tofacitinib tablets 5 mg twice a day, and 0.77 for TNF blockers.
+In RA Safety Study 1, a higher rate of malignancies (excluding non-melanoma skin cancer (NMSC)) was observed in patients treated with XELJANZ tablets 5 mg or 10 mg twice a day compared with TNF blockers.
+The incidence rate of malignancies (excluding NMSC) per 100 patient-years was 1.13 for XELJANZ tablets 10 mg twice a day, 1.13 for XELJANZ tablets 5 mg twice a day, and 0.77 for TNF blockers.
 Patients who are current or past smokers are at additional increased risk [see Clinical Studies (14.6)].
 
-Lymphomas and lung cancers, which are a subset of all malignancies in RA Safety Study 1, were observed at a higher rate in patients treated with tofacitinib tablets 5 mg twice a day and tofacitinib tablets 10 mg twice a day compared to those treated with TNF blockers.
-The incidence rate of lymphomas per 100 patient-years was 0.11 for tofacitinib tablets 10 mg twice a day, 0.07 for tofacitinib tablets 5 mg twice a day, and 0.02 for TNF blockers.
-The incidence rate of lung cancers per 100 patient-years among current and past smokers was 0.59 for tofacitinib tablets 10 mg twice a day, 0.48 for tofacitinib tablets 5 mg twice a day, and 0.27 for TNF blockers [see Clinical Studies (14.6)].
+Lymphomas and lung cancers, which are a subset of all malignancies in RA Safety Study 1, were observed at a higher rate in patients treated with XELJANZ tablets 5 mg twice a day and XELJANZ tablets 10 mg twice a day compared to those treated with TNF blockers.
+The incidence rate of lymphomas per 100 patient-years was 0.11 for XELJANZ tablets 10 mg twice a day, 0.07 for XELJANZ tablets 5 mg twice a day, and 0.02 for TNF blockers.
+The incidence rate of lung cancers per 100 patient-years among current and past smokers was 0.59 for XELJANZ tablets 10 mg twice a day, 0.48 for XELJANZ tablets 5 mg twice a day, and 0.27 for TNF blockers[see Clinical Studies (14.6)].
 
 Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with tofacitinib extended-release tablets, particularly in patients with a known malignancy (other than a successfully treated NMSC), patients who develop a malignancy while on treatment, and patients who are current or past smokers.
-Tofacitinib tablets 10 mg twice daily (or tofacitinib extended-release tablets 22 mg once daily) dosages are not recommended for the treatment of RA, PsA, or AS [see Dosage and Administration (2.3)].
+XELJANZ 10 mg twice daily (or tofacitinib extended-release tablets 22 mg once daily) dosages are not recommended for the treatment of RA, PsA, or AS [see Dosage and Administration (2.3)].
 
 Non-Melanoma Skin Cancer
 
-Non-melanoma skin cancers (NMSCs) have been reported in patients treated with tofacitinib tablets.
+Non-melanoma skin cancers (NMSCs) have been reported in patients treated with XELJANZ tablets.
 Periodic skin examination is recommended for patients who are at increased risk for skin cancer.
+In the UC population, treatment with XELJANZ tablets 10 mg twice daily was associated with greater risk of NMSC than treatment with placebo.
 
 ## 5.4 Major Adverse Cardiovascular Events
 
 Major adverse cardiovascular events may occur with tofacitinib extended-release tablets.
 In RA Safety Study 1, patients with RA who were 50 years of age and older with at least one cardiovascular risk factor and treated with XELJANZ tablets 5 mg or 10 mg twice daily had a higher rate of major adverse cardiovascular events (MACE) defined as cardiovascular death, non-fatal myocardial infarction (MI), and non-fatal stroke, compared to those treated with TNF blockers.
-The incidence rate of MACE per 100 patient-years was 1.11 for tofacitinib tablets 10 mg twice a day, 0.91 for tofacitinib tablets 5 mg twice a day, and 0.79 for TNF blockers.
-The incidence rate of fatal or non-fatal myocardial infarction per 100 patient-years was 0.39 for tofacitinib tablets 10 mg twice a day, 0.36 for tofacitinib tablets 5 mg twice a day, and 0.2 for TNF blockers [see Clinical Studies (14.6)].
+The incidence rate of MACE per 100 patient-years was 1.11 for XELJANZ tablets 10 mg twice a day, 0.91 for XELJANZ tablets 5 mg twice a day, and 0.79 for TNF blockers.
+The incidence rate of fatal or non-fatal myocardial infarction per 100 patient-years was 0.39 for XELJANZ tablets 10 mg twice a day, 0.36 for XELJANZ tablets 5 mg twice a day, and 0.2 for TNF blockers [see Clinical Studies (14.6)].
 Patients who are current or past smokers are at additional increased risk.
 
 Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with tofacitinib extended-release tablets, particularly in patients who are current or past smokers and patients with other cardiovascular risk factors.
 Inform patients about the symptoms of serious cardiovascular events and the steps to take if they occur.
 Discontinue tofacitinib extended-release tablets in patients that have experienced a MI or stroke.
-Tofacitinib 10 mg twice daily (or tofacitinib extended-release tablets 22 mg once daily) dosages are not recommended for the treatment of RA, PsA, or AS [see Dosage and Administration (2.3)].
+XELJANZ 10 mg twice daily (or tofacitinib extended-release tablets 22 mg once daily) dosages are not recommended for the treatment of RA, PsA, or AS [see Dosage and Administration (2.3)].
 
 ## 5.5 Thrombosis
 
 Thrombosis may occur with tofacitinib extended-release tablets.
-Thrombosis, including pulmonary embolism (PE), deep venous thrombosis (DVT), and arterial thrombosis, have occurred in patients treated with tofacitinib and other Janus kinase (JAK) inhibitors used to treat inflammatory conditions.
+Thrombosis, including pulmonary embolism (PE), deep venous thrombosis (DVT), and arterial thrombosis, have occurred in patients treated with XELJANZ and other Janus kinase (JAK) inhibitors used to treat inflammatory conditions.
 Many of these events were serious and some resulted in death [see Warnings and Precautions (5.2)].
 
-Patients with RA 50 years of age and older with at least one cardiovascular risk factor treated with tofacitinib tablets 5 mg or 10 mg twice daily compared to TNF blockers in RA Safety Study 1 had an observed increase in incidence of these thrombotic events.
-The incidence rate of DVT per 100 patient-years was 0.28 for tofacitinib tablets 10 mg twice a day, 0.22 for tofacitinib tablets 5 mg twice a day, and 0.16 for TNF blockers.
-The incidence rate of PE per 100 patient-years was 0.49 for tofacitinib tablets 10 mg twice a day, 0.18 for tofacitinib tablets 5 mg twice a day, and 0.05 for TNF blockers [see Clinical Studies (14.6)].
+Patients with RA 50 years of age and older with at least one cardiovascular risk factor treated with XELJANZ tablets 5 mg or 10 mg twice daily compared to TNF blockers in RA Safety Study 1 had an observed increase in incidence of these thrombotic events.
+The incidence rate of DVT per 100 patient-years was 0.28 for XELJANZ tablets 10 mg twice a day, 0.22 for XELJANZ tablets 5 mg twice a day, and 0.16 for TNF blockers.
+The incidence rate of PE per 100 patient-years was 0.49 for XELJANZ tablets 10 mg twice a day, 0.18 for XELJANZ tablets 5 mg twice a day, and 0.05 for TNF blockers [see Clinical Studies (14.6)].
 
-Tofacitinib tablets 10 mg twice daily (or tofacitinib extended-release tablets 22mg once daily) dosages are not recommended for the treatment of RA, PsA, or AS [see Dosage and Administration (2.3)].
+XELJANZ 10 mg twice daily (or tofacitinib extended-release tablets 22mg once daily) dosages are not recommended for the treatment of RA, PsA, or AS [see Dosage and Administration (2.3)].
+
+In a long-term extension study in patients with UC, five cases of pulmonary embolism were reported in patients taking XELJANZ 10 mg twice daily, including one death in a patient with advanced cancer.
 
 Promptly evaluate patients with symptoms of thrombosis and discontinue tofacitinib extended-release tablets in patients with symptoms of thrombosis.
 
 Avoid tofacitinib extended-release tablets in patients that may be at increased risk of thrombosis.
+For the treatment of UC, use tofacitinib extended-release tablets at the lowest effective dose and for the shortest duration needed to achieve/maintain therapeutic response [see Dosage and Administration (2.5)].
 
 ## 5.6 Gastrointestinal Perforations
 
 Gastrointestinal perforations may occur with tofacitinib extended-release tablets.
-Events of gastrointestinal perforation have been reported in clinical studies with tofacitinib tablets, although the role of JAK inhibition in these events is not known.
+Events of gastrointestinal perforation have been reported in clinical studies with XELJANZ tablets, although the role of JAK inhibition in these events is not known.
 In these studies, many patients with RA received background therapy with nonsteroidal anti-inflammatory drugs (NSAIDs).
 
-Promptly evaluate patients treated with tofacitinib extended-release tablets who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis or taking NSAIDs) with new onset abdominal symptoms for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
+There was no discernable difference in frequency of gastrointestinal perforation between the placebo and the XELJANZ tablets treatment groups in clinical trials of patients with UC, and many of them were receiving background corticosteroids.
+
+Promptly evaluate patients treated with tofacitinib extended-release tablets who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis or taking NSAIDs) and who present with new onset abdominal symptoms for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
 
 ## 5.7 Hypersensitivity Reactions
 
@@ -123,11 +138,17 @@ Reactions such as angioedema and urticaria that may reflect drug hypersensitivit
 Some events were serious.
 If a serious hypersensitivity reaction occurs, promptly discontinue tofacitinib extended-release tablets while evaluating the potential cause or causes of the reaction [see Adverse Reactions (6.2)].
 
-## 5.8 Laboratory Abnormalities
+## 5.8 Hypoglycemia in Patients with Diabetes
+
+Hypoglycemia, including severe hypoglycemia, has been reported following initiation of tofacitinib extended-release tablets and other JAK inhibitors in patients with diabetes.
+During treatment with tofacitinib extended-release tablets, consider increased monitoring of blood glucose as clinically indicated in patients with diabetes.
+Advise patients with diabetes to notify their healthcare provider if they develop signs or symptoms of hypoglycemia.
+
+## 5.9 Laboratory Abnormalities
 
 Laboratory abnormalities may occur with tofacitinib extended-release tablets.
 
-Lymphocyte Abnormalities Treatment with tofacitinib tablets was associated with initial lymphocytosis at one month of tofacitinib tablets treatment followed by a gradual decrease in mean absolute lymphocyte counts below the baseline of approximately 10% during 12 months of therapy.
+Lymphocyte Abnormalities Treatment with XELJANZ tablets was associated with initial lymphocytosis at one month of XELJANZ tablets treatment followed by a gradual decrease in mean absolute lymphocyte counts below the baseline of approximately 10% during 12 months of therapy.
 Lymphocyte counts less than 500 cells/mm3 in these patients were associated with an increased incidence of treated and serious infections.
 
 - Monitor lymphocyte counts at baseline and every 3 months thereafter.
@@ -153,7 +174,7 @@ Most of these abnormalities occurred in studies with background DMARD therapy (p
 - Routine monitoring of liver tests and prompt investigation of the causes of liver enzyme elevations is recommended to identify potential cases of drug-induced liver injury.
 - If drug-induced liver injury is suspected, interrupt the administration of tofacitinib extended-release tablets until this diagnosis has been excluded.
 
-Lipid Elevations Treatment with tofacitinib tablets was associated with dose-dependent increases in lipid parameters including total cholesterol, low-density lipoprotein (LDL) cholesterol, and high-density lipoprotein (HDL) cholesterol.
+Lipid Elevations Treatment with XELJANZ tablets was associated with dose-dependent increases in lipid parameters including total cholesterol, low-density lipoprotein (LDL) cholesterol, and high-density lipoprotein (HDL) cholesterol.
 Maximum changes in these lipid parameters were generally observed within 6 weeks.
 There were no clinically relevant changes in LDL/HDL cholesterol ratios.
 The effect of these lipid parameter elevations on cardiovascular morbidity and mortality has not been determined.
@@ -161,13 +182,13 @@ The effect of these lipid parameter elevations on cardiovascular morbidity and m
 - Perform assessment of lipid parameters approximately 4 weeks to 8 weeks following initiation of tofacitinib extended-release tablets therapy.
 - Manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
 
-## 5.9 Vaccinations
+## 5.10 Vaccinations
 
 Avoid use of live vaccines concurrently with tofacitinib extended-release tablets.
 Prior to initiating tofacitinib extended-release tablets therapy, update immunizations in agreement with current immunization guidelines.
 The interval between live vaccinations and initiation of tofacitinib extended-release tablets therapy should be in accordance with current vaccination guidelines regarding immunosuppressive agents.
 
-## 5.10 Risk of Gastrointestinal Obstruction with Tofacitinib Extended-Release Tablets - A Non-Deformable Extended-Release Formulation
+## 5.11 Risk of Gastrointestinal Obstruction with Tofacitinib Extended-Release Tablets - A Non-Deformable Extended-Release Formulation
 
 Gastrointestinal obstruction may occur with tofacitinib extended-release tablets.
 Avoid use of tofacitinib extended-release tablets in patients with pre-existing severe gastrointestinal narrowing (pathologic or iatrogenic).

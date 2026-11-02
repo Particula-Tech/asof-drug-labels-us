@@ -2,4 +2,4 @@
 
 Tofacitinib Extended-Release Tablets:
 
-- 11 mg tofacitinib: Pink colored, oval-shaped, film-coated, extended-release tablets, debossed with "TF" on one side and plain on other side.
+- 11 mg of tofacitinib: Pink colored, oval-shaped, film-coated, extended-release tablets, debossed with "TF" on one side and plain on other side.

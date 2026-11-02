@@ -5,7 +5,7 @@
 Risk Summary
 
 The available data with tofacitinib extended-release tablets from a pregnancy exposure registry that enrolled exposed pregnant females, pharmacovigilance, and published literature are insufficient to draw conclusions about a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
-There are risks to the mother and the fetus associated with RA in pregnancy (see Clinical Considerations).
+There are risks to the mother and the fetus associated with RA and UC in pregnancy (see Clinical Considerations).
 In animal reproduction studies, fetocidal and teratogenic effects were noted when pregnant rats and rabbits received tofacitinib during the period of organogenesis at exposures multiples of 73-times and 6.3-times the maximum recommended dose of 10 mg twice daily, respectively.
 Further, in a peri- and post-natal study in rats, tofacitinib resulted in reductions in live litter size, postnatal survival, and pup body weights at exposure multiples of approximately 73-times the recommended dosage of 5 mg twice daily and approximately 36 times the maximum recommended dosage of 10 mg twice daily, respectively (see Data).
 
@@ -15,7 +15,7 @@ The background risks in the U.S. general population of major birth defects and m
 
 Clinical Considerations
 
-Disease-Associated Maternal and/or Embryo/Fetal Risk: Published data suggest that increased disease activity is associated with the risk of developing adverse pregnancy outcomes in women with RA.
+Disease-Associated Maternal and/or Embryo/Fetal Risk: Published data suggest that increased disease activity is associated with the risk of developing adverse pregnancy outcomes in women with RA or UC.
 Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2,500 grams) infants, and small for gestational age at birth.
 
 Data
@@ -45,7 +45,7 @@ Given the serious adverse reactions seen in patients treated with tofacitinib ex
 
 Data
 
-Following administration of tofacitinib to lactating rats, concentrations of tofacitinib in milk over time paralleled those in serum, and were approximately 2 times higher in milk relative to maternal serum at all time points measured.
+Following administration of tofacitinib to lactating rats, concentrations of tofacitinib in milk over time paralleled those in serum and were approximately 2 times higher in milk relative to maternal serum at all time points measured.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -71,28 +71,31 @@ The safety and effectiveness of tofacitinib extended-release tablets in pediatri
 ## 8.5 Geriatric Use
 
 Of the 3,315 adults who were enrolled in clinical trials with RA (Studies RA-I to V), a total of 505 patients were 65 years of age and older, including 71 patients 75 years and older.
-The frequency of serious infection among tofacitinib tablets-treated patients 65 years of age and older was higher than among those adults under the age of 65.
+The frequency of serious infection among XELJANZ tablets-treated patients 65 years of age and older was higher than among those adults under the age of 65.
 
-Of the 783 tofacitinib tablet-treated patients in clinical trials of patients with PsA, a total of 72 (9.2%) patients were 65 years of age and older, including 2 (0.3%) patients 75 years and older.
+Of the 1,156 XELJANZ tablet-treated patients in clinical trials of patients with UC, a total of 77 patients (7%) were 65 years of age or older.
+Clinical studies of XELJANZ in patients with UC did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger adult patients.
+
+Of the 783 XELJANZ tablet-treated patients in clinical trials of patients with PsA, a total of 72 (9.2%) patients were 65 years of age and older, including 2 (0.3%) patients 75 years and older.
 These clinical studies did not include sufficient numbers of patients aged 65 years and older with PsA to determine if they respond differently from younger adult patients.
 
-Of the 420 tofacitinib tablet-treated patients in clinical trials of patients with AS, a total of 12 (2.9%) patients were 65 years of age and older, including 1 (0.2%) patient 75 years and older.
+Of the 420 XELJANZ tablet-treated patients in clinical trials of patients with AS, a total of 12 (2.9%) patients were 65 years of age and older, including 1 (0.2%) patient 75 years and older.
 These clinical studies did not include sufficient numbers of patients aged 65 years and older with AS to determine if they respond differently from younger adult patients.
 
 ## 8.6 Renal Impairment
 
-Moderate and Severe Renal Impairment Tofacitinib-treated patients with moderate renal impairment (RI) (CLcr ≥30 and ≤50 mL/minute) or severe RI (<30 mL/minute) had greater tofacitinib blood concentrations than tofacitinib-treated patients with normal renal function (CLcr >80 mL/minute).
-The recommended dosage of tofacitinib extended-release tablets in patients with moderate or severe RI (including those with severe RI who are undergoing hemodialysis) is lower than the recommended dosage in patients with normal renal function [see Dosage and Administration (2.3)].
+Moderate and Severe Renal Impairment XELJANZ-treated patients with moderate renal impairment (RI) (CLcr ≥30 mL/minute and ≤50 mL/minute) or severe RI (<30 mL/minute) had greater tofacitinib blood concentrations than XELJANZ-treated patients with normal renal function (CLcr >80 mL/minute).
+The recommended dosage of tofacitinib extended-release tablets in patients with moderate or severe RI (including those with severe RI who are undergoing hemodialysis) is lower than the recommended dosage in patients with normal renal function [see Dosage and Administration (2.3, 2.5)].
 
 Mild Renal Impairment The recommended dosage in patients with mild RI (CLcr >50 and ≤80 mL/minute) is the same as patients with normal renal function.
 
 ## 8.7 Hepatic Impairment
 
-Severe Hepatic Impairment Tofacitinib extended-release tablets has not been studied in patients with severe hepatic impairment (HI) (Child-Pugh C); therefore, use of tofacitinib extended-release tablets in patients with severe HI is not recommended.
+Severe Hepatic Impairment Tofacitinib extended-release tablets have not been studied in patients with severe hepatic impairment (HI) (Child-Pugh C); therefore, use of tofacitinib extended-release tablets in patients with severe HI is not recommended.
 
-Moderate Hepatic Impairment Tofacitinib -treated patients with moderate hepatic impairment (Child-Pugh B) had greater tofacitinib blood concentration than tofacitinib -treated patients with normal hepatic function [see Clinical Pharmacology (12.3)].
+Moderate Hepatic Impairment XELJANZ-treated patients with moderate hepatic impairment (Child-Pugh B) had greater tofacitinib blood concentration than XELJANZ-treated patients with normal hepatic function [see Clinical Pharmacology (12.3)].
 Higher blood concentrations may increase the risk of some adverse reactions.
-The recommended tofacitinib extended-release tablets dosage in patients with moderate HI is lower than the recommended dosage in patients with normal hepatic function [see Dosage and Administration (2.3)].
+The recommended tofacitinib extended-release tablets dosage in patients with moderate HI is lower than the recommended dosage in patients with normal hepatic function [see Dosage and Administration (2.3, 2.5)].
 
 Mild Hepatic Impairment The recommended dosage of tofacitinib extended-release tablets in patients with mild hepatic impairment (Child-Pugh A) is the same as patients with normal hepatic function.
 

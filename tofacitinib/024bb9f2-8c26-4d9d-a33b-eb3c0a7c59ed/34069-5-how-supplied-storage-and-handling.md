@@ -8,7 +8,7 @@ Table 23: How Supplied Information for Tofacitinib Extended-Release Tablets
 
 | Dosage Form, Strength, and Description | Bottle Size (number of tablets) | NDC Number |
 | --- | --- | --- |
-| Tofacitinib extended-release tablets 11 mg Pink colored, oval-shaped, film-coated, extended-release tablets, debossed with "TF" on one side and plain on other side | 30 tablets with child-resistant closure | NDC 27241-270-30 |
+| Tofacitinib extended-release tablets, 11 mg Pink colored, oval-shaped, film-coated, extended-release tablets, debossed with "TF" on one side and plain on other side | 30 tablets with child-resistant closure | NDC 27241-270-30 |
 
 Storage and Handling for Tofacitinib extended-release tablets
 

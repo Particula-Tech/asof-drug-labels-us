@@ -12,45 +12,49 @@ However, the relevance of specific JAK combinations to therapeutic effectiveness
 
 ## 12.2 Pharmacodynamics
 
-Treatment with tofacitinib was associated with dose-dependent reductions of circulating CD16/56+ natural killer cells, with estimated maximum reductions occurring at approximately 8 weeks to 10 weeks after initiation of therapy.
+Treatment with XELJANZ was associated with dose-dependent reductions of circulating CD16/56+ natural killer cells, with estimated maximum reductions occurring at approximately 8 weeks to 10 weeks after initiation of therapy.
 These changes generally resolved within 2 weeks to 6 weeks after discontinuation of treatment.
-Treatment with tofacitinib was associated with dose-dependent increases in B cell counts.
+Treatment with XELJANZ was associated with dose-dependent increases in B cell counts.
 Changes in circulating T-lymphocyte counts and T-lymphocyte subsets (CD3+, CD4+ and CD8+) were small and inconsistent.
 The clinical significance of these changes is unknown.
 
 Total serum IgG, IgM, and IgA levels after 6-month dosing in patients with rheumatoid arthritis (RA) were lower than in patients who received placebo; however, changes were small and not dose-dependent.
 
 After treatment with XELJANZ in patients with RA, rapid decreases in serum C-reactive protein (CRP) were observed and maintained throughout dosing.
-Changes in CRP observed with tofacitinib treatment do not reverse fully within 2 weeks after discontinuation, indicating a longer duration of pharmacodynamic activity compared to the pharmacokinetic half-life.
+Changes in CRP observed with XELJANZ treatment do not reverse fully within 2 weeks after discontinuation, indicating a longer duration of pharmacodynamic activity compared to the pharmacokinetic half-life.
 
 Similar changes in T cells, B cells, and serum CRP have been observed in patients with active psoriatic arthritis (PsA) although reversibility was not assessed.
 Total serum immunoglobulins were not assessed in patients with active PsA.
 
 ## 12.3 Pharmacokinetics
 
-Following oral administration of tofacitinib extended-release tablets, peak plasma concentrations are reached at 4 hours and half-life is about 6 hours to 8 hours.
-Steady state concentrations are achieved within 48 hours with negligible accumulation after once daily administration.
+Following oral administration of tofacitinib extended-release tablets, peak plasma concentrations were reached at 4 hours and half-life was about 6 hours to 8 hours.
+Steady state concentrations were achieved within 48 hours with negligible accumulation after once daily administration.
 
 Table 8 describes the pharmacokinetic parameters of tofacitinib extended-release tablets.
 
 Table 8: Pharmacokinetic Parameters of Tofacitinib Extended-Release Tablets Following Multiple Oral Dosing
 
-| PK Parametersa (CV%) | Tofacitinib Extended-Release Tablets |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Dosing Regimen | 11 mg Once Daily | 22 mg Once Daily |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| AUC24 (ng.hr/mL) | 269.0 (18) | 596.6 (19) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cmax (ng/mL) | 38.2 (15) | 83.8 (25) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cmin (ng/mL) | 1.07 (69) | 3.11 (43) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Tmax (hours) | 4.0 (3.0 to 4.0) | 4.0 (2.0 to 4.0) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Abbreviations: AUC24 = area under the concentration-time profile from time 0 hour to 24 hours; Cmax = maximum plasma concentration; Cmin = minimum plasma concentration; Tmax = time to Cmax; CV = Coefficient of variation. a Values represent the geometric mean, except T max, for which is the median (range) is shown. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| PK Parametersa (CV%) | Tofacitinib Extended-Release Tablets |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dosing Regimen | 11 mg Once Daily | 22 mg Once Daily |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| AUC24 (ng.hr/mL) | 269.0 (18) | 596.6 (19) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Cmax (ng/mL) | 38.2 (15) | 83.8 (25) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Cmin (ng/mL) | 1.07 (69) | 3.11 (43) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tmax (hours) | 4.0 (3.0 to 4.0) | 4.0 (2.0 to 4.0) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Abbreviations: AUC24 = area under the concentration time profile from time 0 hour to 24 hours; Cmax = maximum plasma concentration; Cmin = minimum plasma concentration; Tmax = time to Cmax; CV = Coefficient of variation. a Values represent the geometric mean, except Tmax, for which the median (range) is shown. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Absorption
 
-Tofacitinib tablets The absolute oral bioavailability of tofacitinib tablets is 74%.
-Coadministration of tofacitinib tablets with a high-fat meal resulted in no changes in AUC while Cmax was reduced by 32%.
-In clinical trials, tofacitinib tablets was administered without regard to meals [see Dosage and Administration (2.2)].
+XELJANZ
 
-Tofacitinib extended-release tablets Coadministration of tofacitinib extended-release tablets 11 mg and 22 mg with a high-fat meal resulted in no changes in AUC while Cmax was increased by 27% and 19% respectively.
+The absolute oral bioavailability of XELJANZ is 74%.
+Coadministration of XELJANZ with a high-fat meal resulted in no changes in AUC while Cmax was reduced by 32%.
+In clinical trials, XELJANZ was administered without regard to meals[see Dosage and Administration (2.2)].
+
+Tofacitinib extended-release tablets
+
+Coadministration of tofacitinib extended-release tablets 11 mg and 22 mg with a high-fat meal resulted in no changes in AUC while Cmax was increased by 27% and 19% respectively.
 Tmax was extended by approximately 1 hour for both tofacitinib extended-release tablets 11 mg and 22 mg.
 
 Distribution
@@ -66,20 +70,22 @@ The metabolism of tofacitinib is primarily mediated by CYP3A4 with minor contrib
 In a human radiolabeled study, more than 65% of the total circulating radioactivity was accounted for by unchanged tofacitinib, with the remaining 35% attributed to 8 metabolites, each accounting for less than 8% of total radioactivity.
 The pharmacologic activity of tofacitinib is attributed to the parent molecule.
 
-Pharmacokinetics in Patient with RA, PsA and AS Population pharmacokinetic (PK) analyses indicated that PK characteristics were similar between patients with RA, PsA and ankylosing spondylitis.
+Pharmacokinetics in Patients with RA, PsA, AS, and UC
+
+Population pharmacokinetic (PK) analyses indicated that PK characteristics were similar between patients with RA, PsA, ankylosing spondylitis, and UC.
 The coefficient of variation (%) in AUC of tofacitinib were generally similar across different disease patients, ranging from 22% to 34% (Table 9).
 
-Table 9: Tofacitinib Exposure in Patients with RA, PsA, and AS After Administration of XELJANZ 5 mg Twice Daily
+Table 9: Tofacitinib Exposure in Patients with RA, PsA, AS, and UC After Administration of XELJANZ 5 mg Twice Daily or 10 mg Twice Daily
 
-| Pharmacokinetic Parametersa Geometric Mean (CV%) | XELJANZ 5 mg Twice Daily |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Rheumatoid Arthritis | Psoriatic Arthritis | Ankylosing Spondylitis |  |  |  |  |  |  |  |  |
-| AUC0-24,ss (ng·h/mL) | 504 (22.0%) | 419 (34.1%) | 381 (25.4%) |  |  |  |  |  |  |  |
-| Abbreviations: AUC0-24,ss=area under the plasma concentration-time curve over 24 hours at steady state; CV=coefficient of variation. a Pharmacokinetic parameters estimated based on population pharmacokinetic analysis. |  |  |  |  |  |  |  |  |  |  |
+| Pharmacokinetic Parametersa Geometric Mean (CV%) | XELJANZ 5 mg Twice Daily |  |  |  | XELJANZ 10 mg Twice Daily |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Rheumatoid Arthritis | Psoriatic Arthritis | Ankylosing Spondylitis | Ulcerative Colitis | Ulcerative Colitis |  |  |  |  |  |  |  |  |  |  |  |  |
+| AUC0-24,ss (ng·h/mL) | 504 (22.0%) | 419 (34.1%) | 381 (25.4%) | 423 (22.6%) | 807 (24.6%) |  |  |  |  |  |  |  |  |  |  |  |
+| Abbreviations: AUC0-24,ss=area under the plasma concentration-time curve over 24 hours at steady state; CV=coefficient of variation. a Pharmacokinetic parameters estimated based on population pharmacokinetic analysis. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Specific Populations
 
-Covariate evaluation as part of population PK analyses in adult patient populations indicated no clinically relevant change in tofacitinib exposure, after accounting for differences in renal function (i.e., creatinine clearance) between patients, based on age, weight, biological sex, and race (Figure 1).
+Covariate evaluation as part of population PK analyses in adult patient populations indicated no clinically relevant change in tofacitinib exposure, after accounting for differences in renal function (i.e., creatinine clearance) between patients, based on age, weight, biological sex and race (Figure 1).
 An approximately linear relationship between body weight and volume of distribution was observed, resulting in higher peak (Cmax) and lower trough (Cmin) concentrations in lighter patients.
 However, this difference is not considered to be clinically relevant.
 
@@ -87,10 +93,10 @@ The effect of renal and hepatic impairment and other intrinsic factors on the PK
 
 Figure 1: Impact of Intrinsic Factors on Tofacitinib Pharmacokinetics
 
-Note: Reference values for weight, age, gender, and race comparisons are 70 kg, 55 years, male, and white, respectively; reference groups for renal and hepatic impairment data are subjects with normal renal and hepatic function.
+Note: Reference values for weight, age, biological sex, and race comparisons are 70 kg, 55 years, male, and white, respectively; reference groups for renal and hepatic impairment data are patients with normal renal and hepatic function.
 Renal function was estimated using creatinine clearance by Cockcroft-Gault method and hepatic function was estimated using Child-Pugh scoring method.
 
-In patients with end-stage renal disease maintained on hemodialysis, mean AUC was approximately 40% higher compared with historical healthy subject data, consistent with approximately 30% contribution of renal clearance to the total clearance of tofacitinib [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+In patients with end-stage renal disease maintained on hemodialysis, mean AUC was approximately 40% higher compared with historical healthy subject data, consistent with approximately 30% contribution of renal clearance to the total clearance of tofacitinib [see Dosage and Administration (2.3, 2.5) and Use in Specific Populations (8.6)].
 
 Drug Interaction Studies
 
