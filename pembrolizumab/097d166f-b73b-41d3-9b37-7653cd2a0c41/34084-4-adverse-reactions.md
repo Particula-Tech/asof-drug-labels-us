@@ -72,7 +72,7 @@ Table 4: Adverse Reactions Occurring in ≥10% of Patients with Metastatic NSCLC
 | Infections |  |  |  |  |
 | PneumoniaIncludes pneumonia, COVID-19 pneumonia, lower respiratory tract infection, lung abscess, pneumocystis jirovecii pneumonia, pneumonia bacterial, and pneumonia mycoplasmal. | 17 | 10 | 16 | 7 |
 | Nervous System |  |  |  |  |
-| Peripheral neuropathyIncludes neuropathy peripheral, hypoaesthesia, neuralgia, paraesthesia, and peripheral sensory neuropathy. | 11 | 0.4 | 14 | 0 |
+| Peripheral neuropathyIncludes neuropathy peripheral, hypoesthesia, neuralgia, paresthesia, and peripheral sensory neuropathy. | 11 | 0.4 | 14 | 0 |
 | Metabolism and Nutrition |  |  |  |  |
 | Decreased appetite | 11 | 0.8 | 21 | 2.4 |
 | Hyperglycemia | 11 | 0.8 | 11 | 0.8 |
@@ -763,7 +763,7 @@ Adverse reactions occurring in patients with HNSCC were generally similar to tho
 
 Urothelial Cancer
 
-Patients with urothelial cancer in combination with enfortumab vedotin-ejfv
+Patients with urothelial cancer in combination with Enfortumab Vedotin-ejfv
 
 The safety of intravenous pembrolizumab in combination with enfortumab vedotin-ejfv was investigated in KEYNOTE-A39 in patients with locally advanced or metastatic urothelial cancer [see Clinical Studies (14.7)].
 A total of 440 patients received intravenous pembrolizumab 200 mg on Day 1 and enfortumab vedotin-ejfv 1.25 mg/kg on Days 1 and 8 of each 21-day cycle compared to 433 patients who received gemcitabine on Days 1 and 8 and investigator’s choice of cisplatin or carboplatin on Day 1 of each 21-day cycle.
@@ -832,7 +832,7 @@ Table 23: Selected Laboratory Abnormalities Worsened from Baseline Occurring in 
 | Anemia | 53 | 7 | 89 | 33 |
 | Neutropenia | 30 | 9 | 80 | 50 |
 
-Cisplatin-ineligible patients with urothelial cancer in combination with enfortumab vedotin-ejfv
+Cisplatin-ineligible patients with urothelial cancer in combination with Enfortumab Vedotin-ejfv
 
 The safety of intravenous pembrolizumab in combination with enfortumab vedotin-ejfv was investigated in KEYNOTE-869 in patients with locally advanced or metastatic urothelial cancer and who are not eligible for cisplatin-based chemotherapy [see Clinical Studies (14.7)].
 A total of 121 patients received intravenous pembrolizumab 200 mg on Day 1, and enfortumab vedotin-ejfv 1.25 mg/kg on days 1 and 8 of each 21-day cycle.
@@ -1135,7 +1135,7 @@ Table 31: Adverse Reactions ≥20% (All Grades) in Patients Treated with Intrave
 
 | All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 % |  |
 | --- | --- | --- | --- | --- |
-| Adverse Reaction | Intravenous Pembrolizumab 200 mg every 3 weeks in combination with enfortumab vedotin-ejfv before and after RC with PLND n=167 |  | RC with PLND alone n=159 |  |
+| Adverse Reaction | Intravenous Pembrolizumab 200 mg every 3 weeks in combination with Enfortumab Vedotin-ejfv before and after RC with PLND n=167 |  | RC with PLND alone n=159 |  |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
 | RashIncludes multiple terms., Includes rash, rash maculo-papular, conjunctivitis, erythema, eczema, skin exfoliation, palmar-plantar erythrodysesthesia syndrome, blister, dermatitis, dermatitis exfoliative generalized, exfoliative rash, rash papular, rash pruritic, dermatitis bullous, drug eruption, pemphigoid, rash vesicular, and dermatitis contact. | 54 | 7 | 1.3 | 0 |
 | Pruritus | 47 | 3 | 0 | 0 |
@@ -1164,7 +1164,7 @@ Table 32: Selected Laboratory Abnormalities Worsened from Baseline Occurring in 
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: Intravenous pembrolizumab in combination with enfortumab vedotin-ejfv (167 patients), and RC and PLND alone (range: 110 to 121 patients). | Intravenous Pembrolizumab 200 mg every 3 weeks in combination with enfortumab vedotin-ejfv before and after RC with PLND n=167 |  | RC with PLND alone n=159 |  |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: Intravenous pembrolizumab in combination with enfortumab vedotin-ejfv (167 patients), and RC and PLND alone (range: 110 to 121 patients). | Intravenous Pembrolizumab 200 mg every 3 weeks in combination with Enfortumab Vedotin-ejfv before and after RC with PLND n=167 |  | RC with PLND alone n=159 |  |
 | Chemistry |  |  |  |  |
 | Increased glucose | 72 | 12 | 24 | 1.7 |
 | Increased AST | 55 | 6 | 11 | 1.8 |
@@ -2134,8 +2134,8 @@ Adverse reactions occurring in patients with endometrial carcinoma were similar 
 
 TMB-H Cancer
 
-The safety of intravenous pembrolizumab was investigated in 105 patients with TMB-H cancer enrolled in KEYNOTE-158 [see Clinical Studies (14.18)].
-The median duration of exposure to intravenous pembrolizumab was 4.9 months (range: 0.03 to 35.2 months).
+The safety of intravenous pembrolizumab was investigated in 220 patients with TMB-H cancer enrolled in KEYNOTE-158 [see Clinical Studies (14.18)].
+The median duration of exposure to intravenous pembrolizumab was 7 months (range: 1 day to 25 months).
 Adverse reactions occurring in patients with TMB-H cancer were similar to those occurring in patients with other solid tumors who received intravenous pembrolizumab as a single agent.
 
 cSCC

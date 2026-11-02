@@ -76,14 +76,14 @@ The safety and effectiveness of KEYTRUDA QLEX have not been established in pedia
 
 Intravenous pembrolizumab
 
-In KEYNOTE-051, 173 pediatric patients (including 108 pediatric patients aged 12 to 17 years) with advanced melanoma, lymphoma, or PD-L1 positive or MSI-H solid tumors received intravenous pembrolizumab 2 mg/kg every 3 weeks.
-The median duration of exposure was 2.1 months (range: 1 day to 25 months).
-Adverse reactions that occurred at a ≥10% higher rate in pediatric patients when compared to adults included pyrexia (33%), vomiting (29%), headache (25%), abdominal pain (23%), decreased lymphocyte count (13%), and decreased white blood cell count (11%).
-Laboratory abnormalities that occurred at a ≥10% higher rate in pediatric patients when compared to adults were leukopenia (30%), neutropenia (28%), thrombocytopenia (22%), and Grade 3 anemia (17%).
+In KEYNOTE-051, 189 pediatric patients (including 123 pediatric patients aged 12 to 17 years) with advanced melanoma, lymphoma, PD-L1 positive, MSI-H, or TMB-H solid tumors received intravenous pembrolizumab 2 mg/kg every 3 weeks.
+The median duration of exposure was 2.6 months (range: 1 day to 25 months).
+Adverse reactions that occurred at a ≥10% higher rate in pediatric patients when compared to adults included pyrexia (32%), vomiting (29%), headache (26%), abdominal pain (23%), decreased lymphocyte count (13%), and decreased white blood cell count (11%).
+Laboratory abnormalities that occurred at a ≥10% higher rate in pediatric patients when compared to adults were increased glucose (47%), leukopenia (36%), neutropenia (30%), thrombocytopenia (25%), and Grade 3 anemia (17%).
 
 ## 8.5 Geriatric Use
 
-Of the 251 patients treated with KEYTRUDA QLEX in combination with platinum doublet chemotherapy in Study MK-3745A-D77, 53% were 65 years and older and 16% were 75 years and older.
+Of the 251 patients treated with KEYTRUDA QLEX in combination with platinum doublet chemotherapy in Study MK-3475A-D77, 53% were 65 years and older and 16% were 75 years and older.
 No overall differences in safety or effectiveness of KEYTRUDA QLEX have been observed between patients aged 65 years or older and younger adult patients.
 
 The safety of KEYTRUDA QLEX as monotherapy or in combination with other antineoplastic drugs for its approved indications [see Indications and Usage (1)] has been established in adequate and well-controlled studies of intravenous pembrolizumab as a single agent and in combination with other antineoplastic drugs.

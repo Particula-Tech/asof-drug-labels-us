@@ -112,12 +112,7 @@ KEYTRUDA QLEX, as a single agent, is indicated for the treatment of adult patien
 
 ## 1.16 Tumor Mutational Burden-High Cancer
 
-KEYTRUDA QLEX is indicated for the treatment of adult and pediatric patients 12 years and older with unresectable or metastatic tumor mutational burden-high (TMB-H) [≥10 mutations/megabase (mut/Mb)] solid tumors, as determined by an FDA-authorized test [see Dosage and Administration (2.1)], that have progressed following prior treatment and who have no satisfactory alternative treatment options.
-
-This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.18)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
-
-Limitations of Use: The safety and effectiveness of KEYTRUDA QLEX in pediatric patients 12 years and older with TMB-H central nervous system cancers have not been established.
+KEYTRUDA QLEX is indicated for the treatment of adult and pediatric patients 12 years and older with unresectable or metastatic tumor mutational burden-high (TMB-H) [≥13 mutations/megabase (mut/Mb)] solid tumors, as determined by an FDA-authorized test [see Dosage and Administration (2.1)], that have progressed following prior treatment and who have no satisfactory alternative treatment options.
 
 ## 1.17 Cutaneous Squamous Cell Carcinoma
 
