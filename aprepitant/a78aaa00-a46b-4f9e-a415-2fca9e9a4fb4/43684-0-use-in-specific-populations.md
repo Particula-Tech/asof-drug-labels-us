@@ -39,7 +39,7 @@ Advise females of reproductive potential using hormonal contraceptives to use an
 Prevention of Nausea and Vomiting Associated with HEC or MEC
 
 The safety and effectiveness of aprepitant capsules in pediatric patients 12 years of age and older for the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of HEC, including high-dose cisplatin, and MEC.
-Use of aprepitant in these age groups is supported by evidence from 95 pediatric patients in a randomized, double-blind, active comparator controlled clinical study (n = 95 patients aged 12 through 17 years).
+Use of aprepitant in these age groups is supported by evidence from 302 pediatric patients in a randomized, double-blind, active comparator controlled clinical study (n = 207 patients aged 6 months to less than 12 years, n= 95 patients aged 12 through 17 years).
 Aprepitant was studied in combination with ondansetron with or without dexamethasone (at the discretion of the physician) [see Clinical Studies (14.3)].
 Adverse reactions were similar to those reported in adult patients [see Adverse Reactions (6.1)].
 

@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage For Chemotherapy Induced Nausea and Vomiting (CINV)
+## 2.1 Prevention of Chemotherapy Induced Nausea and Vomiting (CINV)
 
 Adults and Pediatric Patients 12 Years of Age and Older
 
@@ -36,11 +36,11 @@ If no chemotherapy is given on Days 2 and 3, administer aprepitant capsules in t
 †Administer dexamethasone 30 minutes prior to chemotherapy treatment on Day 1.
 A 50% dosage reduction of dexamethasone is recommended to account for a drug interaction with aprepitant [see Clinical Pharmacology (12.3)].
 
-## 2.2 Recommended Dosage For Postoperative Nausea and Vomiting (PONV)
+## 2.2 Prevention of Postoperative Nausea and Vomiting (PONV)
 
 The recommended oral dosage of aprepitant capsules in adults is 40 mg within 3 hours prior to induction of anesthesia.
 
-## 2.4 Administration Instructions
+## 2.3 Administration Instructions
 
 Aprepitant capsules can be administered with or without food.
 

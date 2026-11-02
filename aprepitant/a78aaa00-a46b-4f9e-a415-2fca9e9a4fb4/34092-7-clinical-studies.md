@@ -14,7 +14,7 @@ Of the 550 patients who were randomized to receive the aprepitant regimen, 42% w
 The aprepitant-treated patients in these clinical studies ranged from 14 to 84 years of age, with a mean age of 56 years.
 A total of 170 patients were 65 years or older, with 29 patients being 75 years or older.
 
-Table 10: HEC Treatment Regimens – Studies 1 and 2*
+Table 13: HEC Treatment Regimens – Studies 1 and 2*
 
 |  | Day 1 | Day 2 | Day 3 | Day 4 |
 | --- | --- | --- | --- | --- |
@@ -41,7 +41,6 @@ The antiemetic activity of aprepitant was evaluated during the acute phase (0 to
 Efficacy was based on evaluation of the following endpoints in which emetic episodes included vomiting, retching, or dry heaves:
 
 - Primary endpoint:
-
 - complete response (defined as no emetic episodes and no use of rescue therapy as recorded in patient diaries)
 - Other prespecified endpoints:
 - complete protection (defined as no emetic episodes, no use of rescue therapy, and a maximum nausea visual analogue scale [VAS] score less than 25 mm on a 0 to 100 mm scale)
@@ -53,7 +52,7 @@ A summary of the key study results from each individual study analysis is shown 
 In both studies, a statistically significantly higher proportion of patients receiving the aprepitant regimen in Cycle 1 had a complete response in the overall phase (primary endpoint), compared with patients receiving standard therapy.
 A statistically significant difference in complete response in favor of the aprepitant regimen was also observed when the acute phase and the delayed phase were analyzed separately.
 
-Table 11: Percent of Patients Receiving HEC Responding by Treatment Group and Phase — Cycle 1
+Table 14: Percent of Patients Receiving HEC Responding by Treatment Group and Phase — Cycle 1
 
 |  | Study 1 |  |  | Study 2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -116,7 +115,7 @@ Of the 438 patients who were randomized to receive the aprepitant regimen, 99.5%
 Of these, approximately 80% were White, 8% Black, 8% Asian, 4% Hispanic, and less than 1% Other.
 The aprepitant-treated patients in this clinical study ranged from 25 to 78 years of age, with a mean age of 53 years; 70 patients were 65 years or older, with 12 patients being over 74 years.
 
-Table 12: MEC Treatment Regimens – Studies 3 and 4 *
+Table 15: MEC Treatment Regimens – Studies 3 and 4 *
 
 |  | Day 1 | Day 2 | Day 3 |
 | --- | --- | --- | --- |
@@ -140,7 +139,6 @@ The 12 mg dose of dexamethasone on Day 1 reflects a dosage adjustment to account
 The antiemetic activity of aprepitant was evaluated based on the following endpoints in which emetic episodes included vomiting, retching, or dry heaves:
 
 - Primary endpoint:
-
 - complete response (defined as no emetic episodes and no use of rescue therapy as recorded in patient diaries) in the overall phase (0 to 120 hours post-chemotherapy)
 - Other prespecified endpoints:
 - no emesis (defined as no emetic episodes regardless of use of rescue therapy)
@@ -154,7 +152,7 @@ In Study 3, a statistically significantly (p=0.015) higher proportion of patient
 The difference between treatment groups was primarily driven by the "No Emesis Endpoint", a principal component of this composite primary endpoint.
 In addition, a higher proportion of patients receiving the aprepitant regimen in Cycle 1 had a complete response during the acute (0 to 24 hours) and delayed (25 to 120 hours) phases compared with patients receiving standard therapy; however, the treatment group differences failed to reach statistical significance, after multiplicity adjustments.
 
-Table 13: Percent of Patients Receiving MEC Responding by Treatment Group and Phase — Cycle 1 of Study 3
+Table 16: Percent of Patients Receiving MEC Responding by Treatment Group and Phase — Cycle 1 of Study 3
 
 | ENDPOINTS | Aprepitant Regimen (N=433) * % | Standard Therapy (N=424) * % | p-Value |
 | --- | --- | --- | --- |
@@ -201,7 +199,7 @@ In a subgroup analysis by tumor type, a numerically higher proportion of patient
 For sex, the difference in complete response rates between the aprepitant and standard regimen groups was 14% in females (64.5% and 50.3%, respectively) and 4% in males (82.2% and 78.2%, respectively) during the overall phase.
 A similar difference for sex was observed for the no vomiting endpoint.
 
-Table 14: Percent of Patients Receiving MEC Responding by Treatment Group — Cycle 1 of Study 4
+Table 17: Percent of Patients Receiving MEC Responding by Treatment Group — Cycle 1 of Study 4
 
 | ENDPOINTS | Aprepitant Regimen (N=430)* % | Standard Therapy (N=418)* % | p-Value |
 | --- | --- | --- | --- |
@@ -295,7 +293,6 @@ The age of patients treated with 40 mg aprepitant ranged from 19 to 84 years, wi
 The antiemetic activity of aprepitant was evaluated during the 0 to 48 hour period following the end of surgery.
 
 - Efficacy measures in Study 7 included:
-
 - no emesis (defined as no emetic episodes regardless of use of rescue therapy) in the 0 to 24 hours following the end of surgery (primary)
 - complete response (defined as no emetic episodes and no use of rescue therapy) in the 0 to 24 hours following the end of surgery (primary)
 - no emesis (defined as no emetic episodes regardless of use of rescue therapy) in the 0 to 48 hours following the end of surgery (secondary)
@@ -343,7 +340,6 @@ However, compared to the ondansetron group, use of aprepitant delayed the time t
 Figure 3: Percent of Patients Who Remain Emesis Free During the 48 Hours Following End of Surgery – Study 7
 
 - Efficacy measures in Study 8 included:
-
 - complete response (defined as no emetic episodes and no use of rescue therapy) in the 0 to 24 hours following the end of surgery (primary)
 - no emesis (defined as no emetic episodes regardless of use of rescue therapy) in the 0 to 24 hours following the end of surgery (secondary)
 - no use of rescue therapy in the 0 to 24 hours following the end of surgery (secondary)

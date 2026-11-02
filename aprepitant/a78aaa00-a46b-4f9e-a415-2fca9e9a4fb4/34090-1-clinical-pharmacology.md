@@ -16,15 +16,15 @@ NK 1Receptor Occupancy
 In two single-blind, multiple-dose, randomized, and placebo-controlled studies, healthy young men received oral aprepitant doses of 10 mg (N=2), 30 mg (N=3), 100 mg (N=3) or 300 mg (N=5) once daily (0.08, 0.24, 0.8, and 2.4 times the maximum recommended single dose, respectively) for 14 days with 2 or 3 subjects on placebo.
 Both plasma aprepitant concentration and NK 1receptor occupancy in the corpus striatum by positron emission tomography were evaluated, at predose and 24 hours after the last dose.
 At aprepitant plasma concentrations of approximately 10 ng/mL and 100 ng/mL, the NK 1receptor occupancies were approximately 50% and 90%, respectively.
-The oral aprepitant regimen produced mean trough plasma aprepitant concentrations greater than 500 ng/mL in adults, which would be expected to, based on the fitted curve with the Hill equation, result in greater than 95% brain NK 1receptor occupancy.
-However, the receptor occupancy has not been determined.
+The oral aprepitant regimen for CINV produced mean trough plasma aprepitant concentrations greater than 500 ng/mL in adults, which would be expected to, based on the fitted curve with the Hill equation, result in greater than 95% brain NK 1receptor occupancy.
+However, the receptor occupancy for either CINV or PONV dosing regimen has not been determined.
 In addition, the relationship between NK 1receptor occupancy and the clinical efficacy of aprepitant has not been established.
 
 Cardiac Electrophysiology
 
 In a randomized, double-blind, positive-controlled, thorough QTc study, a single 200-mg dose of fosaprepitant had no effect on the QTc interval.
 Maximum aprepitant concentrations after a single 200-mg dose of fosaprepitant were 4- and 9-fold higher than that achieved with oral aprepitant 125 mg and 40 mg, respectively.
-QT prolongation with the oral aprepitant dosing regimens is not expected.
+QT prolongation with the recommended oral aprepitant dosing regimens for CINV and PONV is not expected.
 
 ## 12.3 Pharmacokinetics
 
@@ -55,7 +55,7 @@ Aprepitant undergoes extensive metabolism.
 In vitrostudies using human liver microsomes indicate that aprepitant is metabolized primarily by CYP3A4 with minor metabolism by CYP1A2 and CYP2C19.
 Metabolism is largely via oxidation at the morpholine ring and its side chains.
 No metabolism by CYP2D6, CYP2C9, or CYP2E1 was detected.
-In healthy young adults, aprepitant accounts for approximately 24% of the radioactivity in plasma over 72 hours following a single oral 300 mg dose of [14C]-aprepitant (2.4 times the maximum recommended dose), indicating a substantial presence of metabolites in the plasma.
+In healthy young adults, aprepitant accounts for approximately 24% of the radioactivity in plasma over 72 hours following a single oral 300 mg dose of [14C]-aprepitant (2.4 times the maximum aprepitant recommended dose), indicating a substantial presence of metabolites in the plasma.
 Seven metabolites of aprepitant, which are only weakly active, have been identified in human plasma.
 
 Excretion
@@ -120,7 +120,7 @@ This change is not considered clinically meaningful.
 
 Drug Interactions Studies
 
-Aprepitant is a substrate, a moderate (dose-dependent) inhibitor, and an inducer of CYP3A4.
+Aprepitant is a substrate, a weak-to-moderate (dose-dependent) inhibitor, and an inducer of CYP3A4.
 Aprepitant is also an inducer of CYP2C9.
 Aprepitant is unlikely to interact with drugs that are substrates for the P-glycoprotein transporter.
 
@@ -128,23 +128,24 @@ Effects of Aprepitant on the Pharmacokinetics of Other Drugs
 
 CYP3A4 substrates (i.e., midazolam):Interactions between aprepitant and coadministered midazolam are listed in Table 12 (increase is indicated as "↑", decrease as "↓", no change as "↔").
 
-Table 9: Pharmacokinetic Interaction Data for Aprepitant and Coadministered Midazolam
+Table 12: Pharmacokinetic Interaction Data for Aprepitant and Coadministered Midazolam
 
 | Dosage of Aprepitant | Dosage of Midazolam | Observed Drug Interactions |
 | --- | --- | --- |
 | Aprepitant 125 mg on Day 1 and 80 mg on Days 2 to 5 | oral 2 mg single dose on Days 1 and 5 | midazolam AUC ↑ 2.3-fold on Day 1 and ↑ 3.3-fold on Day 5 [see Drug Interactions (7.1)] |
 | Aprepitant 125 mg on Day 1 and 80 mg on Days 2 and 3 | intravenous 2 mg prior to 3-day regimen of aprepitant and on Days 4, 8 and 15 | midazolam AUC ↑ 25% on Day 4, AUC ↓ 19% on Day 8 and AUC ↓ 4% on Day 15 |
-| Aprepitant 125 mg | intravenous 2 mg given 1 hour after aprepitant | midazolam AUC ↑ 1.5-fold |
+| Aprepitant 125 mg on Day 1 | intravenous 2 mg given 1 hour after aprepitant | midazolam AUC ↑ 1.5-fold |
 | Aprepitant 40 mg | oral 2 mg | midazolam AUC ↑ 1.2-fold on Day 1 |
 
 A difference of less than 2-fold increase of midazolam AUC is not considered clinically important.
 
 Corticosteroids:
 
-Dexamethasone:Aprepitant, when given as a regimen of 125 mg on Day 1 and 80 mg/day on Days 2 through 5, coadministered with 20 mg dexamethasone on Day 1 and 8 mg dexamethasone on Days 2 through 5, increased the AUC of dexamethasone by 2.2-fold on Days 1 and 5 [see Dosage and Administration (2.1)].
-A single dose of aprepitant (40 mg) when coadministered with a single dose of dexamethasone 20 mg, increased the AUC of dexamethasone by 1.45-fold, which is not considered clinically significant.
+Dexamethasone:Aprepitant, when given as a regimen of 125 mg on Day 1 and 80 mg/day on Days 2 and 3, coadministered with 125 mg methylprednisolone IV on Day 1 and 40 mg methylprednisolone orally on Days 2 and 3, increased the AUC of methylprednisolone by 1.34-fold on Day 1 and by 2.5-fold on Day 3.
+Although the concomitant administration of methylprednisolone with the single 40-mg dose of aprepitant has not been studied, a single 40-mg dose of aprepitant produces a weak inhibition of CYP3A4 (based on midazolam interaction study) and it is not expected to alter the plasmaconcentrations of methylprednisolone to a clinically significant degree.
 
 Methylprednisolone:Aprepitant, when given as a regimen of 125 mg on Day 1 and 80 mg/day on Days 2 and 3, coadministered with 125 mg methylprednisolone IV on Day 1 and 40 mg methylprednisolone orally on Days 2 and 3, increased the AUC of methylprednisolone by 1.34-fold on Day 1 and by 2.5-fold on Day 3.
+Although the concomitant administration of methylprednisolone with the single 40-mg dose of aprepitant has not been studied, a single 40-mg dose of aprepitant produces a weak inhibition of CYP3A4 (based on midazolam interaction study) and it is not expected to alter the plasma concnetrations of methylprednisolone to a clinically significant degree.
 
 Chemotherapeutic agents:
 
@@ -166,6 +167,9 @@ This effect was not considered significant.
 Other Drugs
 
 Oral contraceptives:When aprepitant was administered as a 3-day regimen (125 mg/80 mg/80 mg) with ondansetron and dexamethasone, and coadministered with an oral contraceptive containing ethinyl estradiol and norethindrone, the trough concentrations of both ethinyl estradiol and norethindrone were reduced by as much as 64% for 3 weeks post-treatment.
+
+When a daily dosage of an oral contraceptive containing ethinyl estradiol and norgestimate was administered on Days 1 through 21, and aprepitant 40 mg was given on Day 8, the AUC of ethinyl estradiol decreased by 4% and by 29% on Day 8 and Day 12, respectively, while the AUC of norelgestromin increased by 18% on Day 8 and decreased by 10% on Day 12.
+In addition, the trough concentrations of ethinyl estradiol and norelgestromin Days 8 through 21 were generally lower following coadministration of the oral contraceptive with aprepitant 40 mg on Day 8 compared to the trough levels following administration of the oral contraceptive alone [see Drug Interactions 7.1].
 
 P-glycoprotein substrates:Aprepitant is unlikely to interact with drugs that are substrates for the P-glycoproteintransporter, as demonstrated by the lack of interaction of aprepitant with digoxin in a clinical drug interaction study.
 
