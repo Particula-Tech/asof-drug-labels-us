@@ -562,7 +562,7 @@ In the subgroup of patients with non-epithelioid histology (n=95), the HR for OS
 
 Neoadjuvant and Adjuvant Treatment of Locally Advanced HNSCC for Tumors Expressing PD-L1 (CPS≥ 1)
 
-The efficacy of KEYTRUDA was investigated in KEYNOTE-689 (NCT02358031), a randomized, multicenter, open-label, active-controlled trial conducted in 714 patients with resectable locally advanced (Stage III-IVA) HNSCC [AJCC, 8th edition].
+The efficacy of KEYTRUDA was investigated in KEYNOTE-689 (NCT03765918), a randomized, multicenter, open-label, active-controlled trial conducted in 714 patients with resectable locally advanced (Stage III-IVA) HNSCC [AJCC, 8th edition].
 Patients with active autoimmune disease requiring systemic therapy within two years of treatment or a medical condition that required immunosuppression were ineligible.
 Randomization was stratified by primary tumor site (oropharynx/oral cavity vs. larynx vs. hypopharynx), tumor stage (III vs. IVA) and PD-L1 status (TPS ≥ 50% vs. TPS<50%) according to the PD-L1 IHC 22C3 pharmDx assay.
 
@@ -2123,56 +2123,58 @@ Table 111: Efficacy Results in Patients with Advanced MSI-H or dMMR Endometrial 
 
 ## 14.18 Tumor Mutational Burden-High Cancer
 
-The efficacy of KEYTRUDA was investigated in a prospectively-planned retrospective analysis of 10 cohorts (A through J) of patients with various previously treated unresectable or metastatic solid tumors with high tumor mutation burden (TMB-H) who were enrolled in a multicenter, non-randomized, open-label trial, KEYNOTE-158 (NCT02628067).
+The efficacy of KEYTRUDA was investigated in a prospectively planned retrospective analysis of 10 cohorts (A through J) of patients with various previously treated unresectable or metastatic solid tumors with high tumor mutation burden (TMB-H) who were enrolled in KEYNOTE-158 (NCT02628067).
+An additional cohort (Cohort M) prospectively enrolled patients with tumors that were TMB-H and not MSI-H.
+Tumor mutational burden was identified using an assay by FoundationOne.
 The trial excluded patients who previously received an anti-PD-1 or other immune-modulating monoclonal antibody, or who had an autoimmune disease, or a medical condition that required immunosuppression.
-Patients received KEYTRUDA 200 mg intravenously every 3 weeks until unacceptable toxicity or documented disease progression.
+Patients in cohorts A-J received KEYTRUDA 200 mg intravenously every 3 weeks and patients in Cohort M received KEYTRUDA 400 mg intravenously every 6 weeks until unacceptable toxicity or documented disease progression.
 Assessment of tumor status was performed every 9 weeks for the first 12 months and every 12 weeks thereafter.
 
-The statistical analysis plan pre-specified ≥10 and ≥13 mutations per megabase using the FoundationOne CDx assay as cutpoints to assess TMB.
-Testing of TMB was blinded with respect to clinical outcomes.
 The major efficacy outcome measures were ORR and DoR in patients who received at least one dose of KEYTRUDA as assessed by BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
+The statistical analysis plan pre-specified ≥13 mutations per megabase using the FoundationOne CDx assay as a cutpoint to assess TMB.
 
-In KEYNOTE-158, 1050 patients were included in the efficacy analysis population.
-TMB was analyzed in the subset of 790 patients with sufficient tissue for testing based on protocol-specified testing requirements.
-Of the 790 patients, 102 (13%) had tumors identified as TMB-H, defined as TMB ≥10 mutations per megabase.
-Among the 102 patients with TMB-H advanced solid tumors, the study population characteristics were: median age of 61 years (range: 27 to 80), 34% age 65 or older; 34% male; 81% White; and 41% ECOG PS of 0 and 58% ECOG PS of 1.
-Fifty-six percent of patients had at least two prior lines of therapy.
+The population characteristics of the 220 patients in cohorts A-J and Cohort M with TMB-H were: median age of 63 years (range: 27 to 89); 44% age 65 or older; 39% male; 62% White; and 41% ECOG PS of 0 and 59% ECOG PS of 1.
+Fifty-nine percent of patients had at least two prior lines of therapy.
 
 Efficacy results are summarized in Tables 112 and 113.
 
-Table 112: Efficacy Results for Patients with TMB-H Cancer in KEYNOTE-158
+Table 112: Efficacy Results for Patients with TMB-H Cancer in KEYNOTE-158 in Cohorts A-J and Cohort M
 
-|  | TMB ≥10 mut/Mb n=102Median follow-up time of 11.1 months | TMB ≥13 mut/Mb n=70 |
+| Endpoint | KEYTRUDA 200 mg every 3 weeks or 400 mg every 6 weeks TMB ≥13 mut/Mb n=220Median follow-up time of 17.3 months |  |
 | --- | --- | --- |
-| Endpoint | KEYTRUDA 200 mg every 3 weeks |  |
-| Objective Response Rate |  |  |
-| ORR (95% CI) | 29% (21, 39) | 37% (26, 50) |
-| Complete response rate | 4% | 3% |
-| Partial response rate | 25% | 34% |
-| Duration of Response | n=30 | n=26 |
-| Median in months (range)From product-limit (Kaplan-Meier) method for censored data | NR (2.2+, 34.8+) | NR (2.2+, 34.8+) |
-| % with duration ≥12 months | 57% | 58% |
-| % with duration ≥24 months | 50% | 50% |
+| Objective Response RateOne pediatric participant in the TMB-H cohort of KEYNOTE-051 was enrolled, treated, and is ongoing in the study at the time of data cutoff with an ORR by BICR (per RECIST 1.1) of non-CR/non-PD and a pembrolizumab exposure of 16.6 months. |  |  |
+| ORR (95% CI) | 36% (30, 43) |  |
+| Complete response rate | 7% |  |
+| Partial response rate | 29% |  |
+| Duration of Response | n=79 |  |
+| Median in months (range)From product-limit (Kaplan-Meier) method for censored data | NR (1.9+, 112.8+) |  |
+| % with duration ≥12 months | 58% |  |
+| % with duration ≥24 months | 32% |  |
 | + Denotes ongoing response NR = not reached |  |  |
 
-Table 113: Response by Tumor Type (TMB ≥10 mut/Mb)
+Table 113: Response by Tumor Type (TMB ≥13 mut/Mb) in Cohorts A-J and Cohort M
 
-|  | N | n (%) | 95% CI | (months) |
+|  |  | n (%) | 95% CI | (months) |
 | --- | --- | --- | --- | --- |
-|  |  | Objective Response Rate |  | Duration of Response range |
-| OverallNo TMB-H patients were identified in the cholangiocarcinoma cohort | 102 | 30 (29%) | (21%, 39%) | (2.2+, 34.8+) |
-| Small cell lung cancer | 34 | 10 (29%) | (15%, 47%) | (4.1, 32.5+) |
-| Cervical cancer | 16 | 5 (31%) | (11%, 59%) | (3.7+, 34.8+) |
-| Endometrial cancer | 15 | 7 (47%) | (21%, 73%) | (8.4+, 33.9+) |
-| Anal cancer | 14 | 1 (7%) | (0.2%, 34%) | 18.8+ |
-| Vulvar cancer | 12 | 2 (17%) | (2%, 48%) | (8.8, 11.0) |
-| Neuroendocrine cancer | 5 | 2 (40%) | (5%, 85%) | (2.2+, 32.6+) |
-| Salivary cancer | 3 | PR, SD, PD |  | 31.3+ |
-| Thyroid cancer | 2 | CR, CR |  | (8.2, 33.2+) |
-| Mesothelioma cancer | 1 | PD |  |  |
-| CR = complete response PR = partial response SD = stable disease PD = progressive disease |  |  |  |  |
-
-In an exploratory analysis in 32 patients enrolled in KEYNOTE-158 whose cancer had TMB ≥10 mut/Mb and <13 mut/Mb, the ORR was 13% (95% CI: 4%, 29%), including two complete responses and two partial responses.
+|  | N | Objective Response Rate |  | Duration of Response range |
+| Overall | 220 | 79 (36%) | (30%, 43%) | 1.9+ - 112.8+ |
+| Cervical cancer | 28 | 11 (39%) | (22%, 59%) | 1.9+ - 106.9+ |
+| Small cell lung cancer | 25 | 9 (36%) | (18%, 57%) | 5.6 - 73.3+ |
+| Other (pooled)Other (pooled) includes the tumor types with less than or equal to 3 participants: adrenal cortical, ampulla of Vater cancer, gastric, GBM, HCC, HNSCC, ovarian, pancreatic, penile cancer, prostate, skin adnexal carcinoma, small intestine, thyroid, urachal cancer. | 21 | 5 (24%) | (8%, 47%) | 2.1+ - 37.6+ |
+| Endometrial cancer | 19 | 10 (53%) | (29%, 76%) | 6.9+ - 112.8+ |
+| Breast cancer | 18 | 7 (39%) | (17%, 64%) | 6.4 - 50.4+ |
+| Neuroendocrine cancer | 17 | 8 (47%) | (23%, 72%) | 2.2+ - 63.0 |
+| Vulvar cancer | 15 | 5 (33%) | (12%, 62%) | 3.5 - 11.0 |
+| Anal cancer | 11 | 2 (18%) | (2%, 52%) | 16.0+ - 23.4+ |
+| Colorectal cancer | 10 | 1 (10%) | (0.3%, 45%) | 8.0 |
+| Urothelial cancer | 10 | 3 (30%) | (7%, 65%) | 8.3+ - 21.2+ |
+| Cholangiosarcoma | 8 | 2 (25%) | (3%, 65%) | 11.6+ - 13.7+ |
+| Soft tissue sarcoma | 8 | 2 (25%) | (3%, 65%) | 4.6 - 16.2+ |
+| Skin squamous cell carcinoma | 8 | 6 (75%) | (35%, 97%) | 2.1+ - 24.2+ |
+| Basal cell carcinoma | 6 | 1 (17%) | (0.4%, 64%) | 19.4+ |
+| Esophageal SCC | 6 | 2 (33%) | (4%, 78%) | 8.1 - 13.4 |
+| Carcinoma of unknown primary | 5 | 2 (40%) | (5%, 85%) | 5.9 - 12.6+ |
+| Salivary cancer | 5 | 3 (60%) | (15%, 95%) | 10.6 - 42.6+ |
 
 ## 14.19 Cutaneous Squamous Cell Carcinoma
 
@@ -2277,7 +2279,7 @@ Table 115: Efficacy Results in KEYNOTE-522
 
 Unresectable Locally Advanced or Metastatic TNBC for Tumors Expressing PD-L1 (CPS≥ 10)
 
-The efficacy of KEYTRUDA in combination with sacituzumab govitecan-hziy was evaluated in KEYNOTE-D19 (NCT05382286), a multicenter, open-label, randomized, active-controlled trial that enrolled 443 patients with unresectable locally advanced or metastatic TNBC, who had not been previously treated with systemic therapy for advanced disease and whose tumors express PD-L1 expression (CPS ≥10) according to the PD-L1 IHC 22C3 pharmDx assay.
+The efficacy of KEYTRUDA in combination with sacituzumab govitecan-hziy was evaluated in KEYNOTE-D19 (NCT05382286), a multicenter, open-label, randomized, active-controlled trial that enrolled 443 patients with unresectable locally advanced or metastatic TNBC, who had not been previously treated with systemic therapy for advanced disease and whose tumors express PD-L1 (CPS ≥10) according to the PD-L1 IHC 22C3 pharmDx assay.
 Patients may have received chemotherapy with or without a PD-1 or PD-L1 inhibitor and/or radiotherapy in early-stage TNBC; however, at least 6 months must have elapsed between the completion of systemic breast cancer therapy or surgery, whichever occurred last, and first local or distant recurrence.
 Patients with active autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
 
