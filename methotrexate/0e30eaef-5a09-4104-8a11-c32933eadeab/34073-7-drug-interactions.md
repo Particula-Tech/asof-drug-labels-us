@@ -20,6 +20,8 @@ If coadministration cannot be avoided, monitor closely for methotrexate adverse 
 - •Weak acids (e.g., salicylates)
 - •Nephrotoxic products
 - •Hematotoxic agents
+- •Imatinib
+- •Dasatinib
 
 Nitrous Oxide
 
