@@ -11,13 +11,13 @@ Patient ages ranged from 49 to 99 years with a mean of 76 years.
 In both studies, the primary efficacy endpoint was the proportion of patients who maintained vision, defined as losing fewer than 15 letters of visual acuity at week 52 compared to baseline.
 Both aflibercept 2Q8 and aflibercept 2Q4 groups were shown to have efficacy that was clinically equivalent to the ranibizumab 0.5 mg Q4 group in year 1.
 
-Detailed results from the analysis of the VIEW1 and VIEW2 studies are shown in Table 4 and Figure N below.
+Detailed results from the analysis of the VIEW1 and VIEW2 studies are shown in Table 4 and Figure C below.
 
 Table 4: Efficacy Outcomes at Week 52 (Full Analysis Set with LOCF) in VIEW1 and VIEW2 Studies
 
 |  | VIEW1 |  |  | VIEW2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Aflibercept2 mg Q8weekAfter treatment initiation with 3 monthly doses | Aflibercept2 mg Q4weeks | ranibizumab0.5 mgQ4 weeks | Aflibercept2 mg Q8weeks | Aflibercept2 mg Q4weeks | ranibizumab0.5 mgQ4 weeks |
+|  | Aflibercept2 mg Q8weeksAfter treatment initiation with 3 monthly doses | Aflibercept2 mg Q4weeks | ranibizumab0.5 mgQ4 weeks | Aflibercept2 mg Q8weeks | Aflibercept2 mg Q4weeks | ranibizumab0.5 mgQ4 weeks |
 | Full Analysis Set | N=301 | N=304 | N=304 | N=306 | N=309 | N=291 |
 | Efficacy Outcomes |  |  |  |  |  |  |
 | Proportion of patients who maintained visual acuity (%)(<15 letters of BCVA loss) | 94% | 95% | 94% | 95% | 95% | 95% |
@@ -30,7 +30,7 @@ Table 4: Efficacy Outcomes at Week 52 (Full Analysis Set with LOCF) in VIEW1 and
 
 Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline visual acuity) in each study were in general consistent with the results in the overall populations.
 
-Figure N: Mean Change in Visual Acuity from Baseline to Week 96* in VIEW1 and VIEW2 Studies
+Figure O: Mean Change in Visual Acuity from Baseline to Week 96* in VIEW1 and VIEW2 Studies
 
 VIEW1 and VIEW2 studies were both 96 weeks in duration.
 However after 52 weeks patients no longer followed a fixed dosing schedule.
@@ -48,7 +48,7 @@ Patient ages ranged from 22 to 89 years with a mean of 64 years.
 In both studies, the primary efficacy endpoint was the proportion of patients who gained at least 15 letters in BCVA compared to baseline.
 At week 24, the aflibercept 2 mg Q4 group was superior to the control group for the primary endpoint.
 
-Results from the analysis of the COPERNICUS and GALILEO studies are shown in Table 5 and Figure O below.
+Results from the analysis of the COPERNICUS and GALILEO studies are shown in Table 5 and Figure P below.
 
 Table 5: Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in COPERNICUS and GALILEO Studies
 
@@ -62,7 +62,7 @@ Table 5: Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in COPERNICU
 | Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | -4.0(18.0) | 17.3(12.8) | 3.3(14.1) | 18.0(12.2) |
 | Difference in LS mean,LS mean and CI based on an ANCOVA model(95.1% CI) |  | 21.7(17.3, 26.1) |  | 14.7(10.7, 18.7) |
 
-Figure O: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 24 in COPERNICUS and GALILEO Studies
+Figure P: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 24 in COPERNICUS and GALILEO Studies
 
 Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline visual acuity, retinal perfusion status, and CRVO duration) in each study and in the combined analysis were in general consistent with the results in the overall populations.
 
@@ -91,7 +91,7 @@ Table 6: Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in VIBRANT S
 | Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 6.9(12.9) | 17.0(11.9) |
 | Difference in LS mean,LS mean and CI based on an ANCOVA model(95% CI) |  | 10.5(7.1, 14.0) |
 
-Figure P: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 24 in VIBRANT Study
+Figure Q: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 24 in VIBRANT Study
 
 Treatment effects in evaluable subgroups (e.g., age, gender, and baseline retinal perfusion status) in the study were in general consistent with the results in the overall populations.
 
@@ -110,7 +110,7 @@ In both studies, the primary efficacy endpoint was the mean change from baseline
 Efficacy of both aflibercept 2Q8 and aflibercept 2Q4 groups was statistically superior to the control group.
 This statistically superior improvement in BCVA was maintained at week 100 in both studies.
 
-Results from the analysis of the VIVID and VISTA studies are shown in Table 7 and Figure Q below.
+Results from the analysis of the VIVID and VISTA studies are shown in Table 7 and Figure R below.
 
 Table 7: Efficacy Outcomes at Weeks 52 and 100 (Full Analysis Set with LOCF) in VIVID and VISTA Studies
 
@@ -129,7 +129,7 @@ Table 7: Efficacy Outcomes at Weeks 52 and 100 (Full Analysis Set with LOCF) in 
 | Proportion of patients who gained at least 15 letters in BCVA from Baseline (%) | 31.1% | 38.2% | 12.1% | 33.1% | 38.3% | 13.0% |
 | Adjusted Difference(%), (97.5% CI) | 19.0% (8.0, 29.9) | 26.1%(14.8, 37.5) |  | 20.1%(9.6, 30.6) | 25.8% (15.1, 36.6) |  |
 
-Figure Q: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 100 in VIVID and VISTA Studies
+Figure R: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 100 in VIVID and VISTA Studies
 
 Treatment effects in the subgroup of patients who had previously been treated with a VEGF inhibitor prior to study participation were similar to those seen in patients who were VEGF inhibitor naïve prior to study participation.
 
@@ -188,7 +188,7 @@ Table 9: Proportion of Patients Who Achieved a ≥2-Step Improvement from Baseli
 | Adjusted DifferenceDifference is aflibercept group minus sham (%) (95% CI)Difference with CI was calculated using the Mantel-Haenszel weighting scheme adjusted by baseline DRSS stratification variable | 52%p<0.01 compared with Control. p-value was calculated using a 2-sided Cochran-Mantel-Haenszel test adjusted by baseline DRSS stratification variable.(45, 60) |  | 50%(40, 60) | 65%(56, 74) |  |
 | Non-gradable post-baseline ETDRS-DRSS values were treated as missing and were imputed using the last gradable ETDRS-DRSS values (including baseline values if all post-baseline values were missing or non-gradable) |  |  |  |  |  |
 
-Figure R: Proportion of Patients Who Achieved a ≥2-Step Improvement from Baseline in the ETDRS-DRSS Score Through Week 52 in PANORAMA
+Figure S: Proportion of Patients Who Achieved a ≥2-Step Improvement from Baseline in the ETDRS-DRSS Score Through Week 52 in PANORAMA
 
 Table 10: Effect of Aflibercept on Worsening of Diabetic Retinopathy in PANORAMA through Week 52
 

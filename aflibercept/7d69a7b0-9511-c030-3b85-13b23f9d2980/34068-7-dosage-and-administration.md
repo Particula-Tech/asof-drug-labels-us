@@ -13,6 +13,7 @@ YESAFILI is available packaged as follows:
 
 - Pre-filled Syringe
 - Vial Kit with Injection Components (filter needle, syringe, injection needle) [see How Supplied/Storage and Handling (16)].
+- Vial Kit with Filter Needle Only [see How Supplied/Storage and Handling (16)].
 
 ## 2.2 Neovascular (Wet) Age-Related Macular Degeneration (AMD)
 
@@ -111,7 +112,9 @@ Do not use the vial after the expiration date.
 
 The glass vial is for one-time use in one eye only.
 
-Use aseptic technique to carry out the following preparation steps:
+Vial Kit with Injection Components Description – Figure F
+
+Figure F
 
 Prepare for intravitreal injection with the following medical devices for single use (See Figure F):
 
@@ -119,26 +122,36 @@ Prepare for intravitreal injection with the following medical devices for single
 - A 1-mL sterile Luer lock syringe (with marking to measure 0.05 mL)
 - A sterile injection needle (30-gauge × ½-inch)
 
-Figure F
-
-Step 1
-
-Remove the protective plastic cap from the vial (See Figure G).
+Vial Kit with Filter Needle Only Description – Figure G
 
 Figure G
 
-Step 2
+Prepare for intravitreal injection with the following medical devices for single use:
 
-Clean the top of the vial with an alcohol wipe (See Figure H).
+- A 5-micron sterile filter needle (18-gauge × 1½-inch)
+- A 1-mL sterile Luer lock syringe (with marking to measure 0.05 mL) (NOT SUPPLIED)
+- A sterile injection needle (30-gauge × ½-inch) (NOT SUPPLIED)
+
+Use aseptic technique to carry out the following preparation steps:
+
+Step 1
+
+Remove the protective plastic cap from the vial (See Figure H).
 
 Figure H
+
+Step 2
+
+Clean the top of the vial with an alcohol wipe (See Figure I).
+
+Figure I
 
 Step 3
 
 Remove the 18-gauge x 1½-inch, 5-micron, filter needle and the 1-mL syringe from their packaging.
-Attach the filter needle to the syringe by twisting it onto the Luer lock syringe tip (See Figure I).
+Attach the filter needle to the syringe by twisting it onto the Luer lock syringe tip (See Figure J).
 
-Figure I
+Figure J
 
 Step 4
 
@@ -148,7 +161,7 @@ Step 5
 
 Using aseptic technique withdraw all of the YESAFILI vial contents into the syringe, keeping the vial in an upright position, slightly inclined to ease complete withdrawal.
 To deter the introduction of air, ensure the bevel of the filter needle is submerged into the liquid.
-Continue to tilt the vial during withdrawal keeping the bevel of the filter needle submerged in the liquid (See Figure J-1 and Figure J-2).
+Continue to tilt the vial during withdrawal keeping the bevel of the filter needle submerged in the liquid (See Figure K-1 and Figure K-2).
 
 Step 6
 
@@ -162,9 +175,9 @@ Note: Filter needle is not to be used for intravitreal injection.
 
 Step 8
 
-Remove the 30-gauge x ½-inch injection needle from its packaging and attach the injection needle to the syringe by firmly twisting the injection needle onto the Luer lock syringe tip (See Figure K).
+Remove the 30-gauge x ½-inch injection needle from its packaging and attach the injection needle to the syringe by firmly twisting the injection needle onto the Luer lock syringe tip (See Figure L).
 
-Figure K
+Figure L
 
 Step 9
 
@@ -173,13 +186,13 @@ When ready to administer YESAFILI, remove the plastic needle shield from the nee
 Step 10
 
 Holding the syringe with the needle pointing up, check the syringe for bubbles.
-If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top (See Figure L).
+If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top (See Figure M).
 
-Figure L
+Figure M
 
 Step 11
 
-To eliminate all of the bubbles and to expel excess drug, SLOWLY depress the plunger rod so that the plunger edge aligns with the line that marks 0.05 mL on the syringe (See Figure M-1 and Figure M-2).
+To eliminate all of the bubbles and to expel excess drug, SLOWLY depress the plunger rod so that the plunger edge aligns with the line that marks 0.05 mL on the syringe (See Figure N-1 and Figure N-2).
 
 ## 2.8 Injection Procedure
 

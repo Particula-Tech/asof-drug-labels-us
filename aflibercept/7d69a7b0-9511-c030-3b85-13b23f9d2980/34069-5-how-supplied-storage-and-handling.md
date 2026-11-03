@@ -5,13 +5,13 @@
 Each pre-filled syringe or vial is for single eye use only.
 Discard unused portion.
 
-YESAFILI (aflibercept-jbvf) injection is a clear, colorless to pale brown-yellow solution and is supplied in the following presentations [see Dosage and Administration (2.1), (2.6), (2.7) and (2.8)].
-Discard unused portion.
+YESAFILI (aflibercept-jbvf) injection is a clear, colorless to pale brown-yellow solution and is supplied as follows [see Dosage and Administration [see Dosage and Administration (2.1), (2.6), (2.7) and (2.8)].
 
 | NDC NUMBER | CARTON TYPE | CARTON CONTENTS |
 | --- | --- | --- |
 | 83257-035-41 | Pre-filled Syringe | one blister pack containing one YESAFILI 2 mg (0.05 mL of a 40 mg/mL solution) sterile, single-dose pre-filled glass syringe one Prescribing Information |
 | 83257-013-11 | Vial Kit with Injection Components | one YESAFILI 2 mg (0.05 mL of a 40 mg/mL solution) single-dose glass vialone 18-gauge x 1½-inch, 5-micron, filter needle for withdrawal of the vial contentsone 30-gauge x ½-inch injection needle for intravitreal injectionone 1-mL syringe for administrationone Prescribing Information |
+| 83257-013-01 | Vial Kit with Filter Needle Only | one YESAFILI 2 mg (0.05 mL of a 40 mg/mL solution) single-dose glass vialone 18-gauge x 1½-inch, 5-micron, filter needle for withdrawal of the vial contentsone Prescribing Information |
 
 ## 16.2 Storage and Handling
 

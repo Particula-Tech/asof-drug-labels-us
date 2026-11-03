@@ -8,7 +8,7 @@ Advise patients not to drive or use machinery until visual function has recovere
 
 YESAFILITM is a trademark of Biocon Biologics UK PLC; a Biocon Biologics company.
 
-Copyright © 2024 Biocon Biologics Inc. All rights reserved.
+Copyright © 2026 Biocon Biologics Inc. All rights reserved.
 
 EYLEA® is a registered trademark of Regeneron Pharmaceuticals, Inc.
 
