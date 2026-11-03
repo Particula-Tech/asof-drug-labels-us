@@ -58,3 +58,9 @@ In pediatric patients receiving methotrexate for acute lymphoblastic leukemia (6
 Patients with Renal impairment
 
 The elimination half-life of methotrexate increases with the severity of renal impairment, with high inter-individual variability [see Use in Specific Populations (8.6)].
+
+Drug Interaction Studies
+
+In Vitro Studies
+
+Transporter Systems: Methotrexate is a substrate of BCRP, MRP1, MRP2, MRP3, MRP4, OATP1B1, OATP1B3, OAT1, and OAT3.

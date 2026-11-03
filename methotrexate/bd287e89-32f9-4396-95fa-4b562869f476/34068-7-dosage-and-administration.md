@@ -13,9 +13,7 @@ To decrease the risk of severe adverse reactions [see Warnings and Precautions (
 
 - •Administer leucovorin rescue in patients receiving Methotrexate Injection doses of 500 mg/m2 or greater (e.g., high-dose).
 - •Consider leucovorin rescue for patients receiving Methotrexate Injection doses between 100 mg/m2 to less than 500 mg/m2 (e.g., intermediate-dose).
-
-Refer to the leucovorin prescribing information for additional information.
-
+- Refer to the leucovorin prescribing information for additional information.
 - •For high-dose Methotrexate Injection regimens, follow the supportive care and monitoring instructions below.
   Also consider for patients receiving intermediate-dose Methotrexate Injection regimens.
   - -Monitor serum creatinine, electrolytes, at baseline and at least daily during therapy
@@ -44,7 +42,7 @@ The recommended intrathecal dose of Methotrexate Injection (preservative-free) i
 - •1 to less than 2 years: 8 mg
 - •2 to less than 3 years: 10 mg
 - •3 to less than 9 years: 12 mg
-- •greater than or equal to 9 years: 12 to15 mg
+- •greater than or equal to 9 years: 12 to 15 mg
 
 For treatment of meningeal leukemia, intrathecal methotrexate may be given at intervals of 2 or more days up to twice weekly; however, administration at intervals of less than 1 week may result in increased subacute toxicity.
 For meningeal leukemia prophylaxis, Methotrexate Injection is administered no more than once weekly.
