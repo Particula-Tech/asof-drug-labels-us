@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Minocycline hydrochloride capsules, USP are indicated in the treatment of the following infections due to susceptible strains of the designated microorganisms:
+Minocycline hydrochloride capsules are indicated in the treatment of the following infections due to susceptible strains of the designated microorganisms:
 
 Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever, rickettsialpox and tick fevers caused by rickettsiae.
 
@@ -48,7 +48,7 @@ Respiratory tract infections caused by Haemophilus influenzae.
 
 Respiratory tract and urinary tract infections caused by Klebsiella species.
 
-Minocycline hydrochloride capsules, USP are indicated for the treatment of infections caused by the following gram-positive microorganisms when bacteriologic testing indicates appropriate susceptibility to the drug:
+Minocycline hydrochloride capsules are indicated for the treatment of infections caused by the following gram-positive microorganisms when bacteriologic testing indicates appropriate susceptibility to the drug:
 
 Upper respiratory tract infections caused by Streptococcus pneumoniae.
 
@@ -87,6 +87,6 @@ Oral minocycline is not indicated for the treatment of meningococcal infection.
 
 Although no controlled clinical efficacy studies have been conducted, limited clinical data show that oral minocycline hydrochloride has been used successfully in the treatment of infections caused by Mycobacterium marinum.
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of minocycline hydrochloride capsules, USP and other antibacterial drugs, minocycline hydrochloride capsules, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of minocycline hydrochloride capsules and other antibacterial drugs, minocycline hydrochloride capsules should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

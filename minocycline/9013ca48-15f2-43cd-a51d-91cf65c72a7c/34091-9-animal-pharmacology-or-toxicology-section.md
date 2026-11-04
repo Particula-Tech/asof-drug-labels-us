@@ -3,18 +3,4 @@
 Minocycline hydrochloride has been observed to cause a dark discoloration of the thyroid in experimental animals (rats, minipigs, dogs, and monkeys).
 In the rat, chronic treatment with minocycline hydrochloride has resulted in goiter accompanied by elevated radioactive iodine uptake and evidence of thyroid tumor production.
 Minocycline hydrochloride has also been found to produce thyroid hyperplasia in rats and dogs.
-Distributed by:
-
-Aurobindo Pharma USA, Inc.
-
-279 Princeton-Hightstown Road
-
-East Windsor, NJ 08520
-
-Manufactured by:
-
-Aurobindo Pharma Limited
-
-Hyderabad-500 032, India
-
-Revised: 04/2025
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 10/2026
