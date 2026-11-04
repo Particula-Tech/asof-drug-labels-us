@@ -38,7 +38,7 @@ Another monotherapy substitution trial was conducted in 87 patients (11 to 66 ye
 Patients were randomized to either oxcarbazepine oral suspension 2400 mg/day or 300 mg/day and their standard AED regimen(s) were eliminated over the first 6 weeks of double-blind therapy.
 Double-blind treatment continued for another 84 days (total double-blind treatment of 126 days) or until 1 of the 4 exit criteria described for the previous study occurred.
 The primary measure of effectiveness was a between-group comparison of the percentage of patients meeting exit criteria.
-The results were statistically significant in favor of the oxcarbazepine oral suspension 2400 mg/day group (14/34; 41.2%) compared to the oxcarbazepine oral suspension 300 mg/day group (42/45; 93.3%) (p<0.0001).
+The results were statistically significant in favor of the oxcarbazepine oral suspension 2400 mg/day group (14/34; 41.2%) compared to the oxcarbazepine oral suspension 300 mg/day group (42/45; 93.3%) (p less than 0.0001).
 The time to meeting one of the exit criteria was also statistically significant in favor of the oxcarbazepine oral suspension 2400 mg/day group (see Figure 4), p=0.0001.
 
 Figure 4: Kaplan-Meier Estimates of Exit Rate by Treatment Group
@@ -55,7 +55,7 @@ For this reason, the results do not undermine the conclusion, based on pharmacok
 
 ## 14.2 Oxcarbazepine Oral Suspension Adjunctive Therapy Trials
 
-The effectiveness of oxcarbazepine oral suspension as an adjunctive therapy for partial-onset seizures was established in 2 multicenter, randomized, double-blind, placebo-controlled trials, one in 692 patients (15 to 66 years of age) and one in 264 pediatric patients (3 to 17 years of age), and in one multicenter, rater-blind, randomized, age-stratified, parallel-group study comparing 2 doses of oxcarbazepine in 128 pediatric patients (1 month to <4 years of age).
+The effectiveness of oxcarbazepine oral suspension as an adjunctive therapy for partial-onset seizures was established in 2 multicenter, randomized, double-blind, placebo-controlled trials, one in 692 patients (15 to 66 years of age) and one in 264 pediatric patients (3 to 17 years of age), and in one multicenter, rater-blind, randomized, age-stratified, parallel-group study comparing 2 doses of oxcarbazepine in 128 pediatric patients (1 month to less than 4 years of age).
 
 Patients in the 2 placebo-controlled trials were on 1 to 3 concomitant AEDs.
 In both of the trials, patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
@@ -89,7 +89,7 @@ Table 8: Summary of Percentage Change in Partial-Onset Seizure Frequency From Ba
 Subset analyses of the antiepileptic efficacy of oxcarbazepine oral suspension with regard to gender in these trials revealed no important differences in response between men and women.
 Because there were very few patients over the age of 65 years in controlled trials, the effect of the drug in the elderly has not been adequately assessed.
 
-The third adjunctive therapy trial enrolled 128 pediatric patients (1 month to <4 years of age) with inadequately-controlled partial-onset seizures on 1 to 2 concomitant AEDs.
+The third adjunctive therapy trial enrolled 128 pediatric patients (1 month to less than 4 years of age) with inadequately-controlled partial-onset seizures on 1 to 2 concomitant AEDs.
 Patients who experienced at least 2 study-specific seizures (i.e., electrographic partial-onset seizures with a behavioral correlate) during the 72-hour baseline period were randomly assigned to either oxcarbazepine oral suspension 10 mg/kg/day or were titrated up to 60 mg/kg/day within 26 days.
 Patients were maintained on their randomized target dose for 9 days and seizures were recorded through continuous video-EEG monitoring during the last 72 hours of the maintenance period.
 The primary measure of effectiveness in this trial was a between-group comparison of the change in seizure frequency per 24 hours compared to the seizure frequency at baseline.

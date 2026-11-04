@@ -66,7 +66,7 @@ Comparisons of creatinine clearance in young and elderly volunteers indicate tha
 Pediatrics
 
 Weight-adjusted MHD clearance decreases as age and weight increases, approaching that of adults.
-The mean weight adjusted clearance in children 2 years to <4 years of age is approximately 80% higher on average than that of adults.
+The mean weight-adjusted clearance in children 2 years to less than 4 years of age is approximately 80% higher on average than that of adults.
 Therefore, MHD exposure in these children is expected to be about one-half that of adults when treated with a similar weight-adjusted dose.
 The mean weight-adjusted clearance in children 4 to 12 years of age is approximately 40% higher on average than that of adults.
 Therefore, MHD exposure in these children is expected to be about three-quarters that of adults when treated with a similar weight-adjusted dose.
@@ -91,7 +91,7 @@ No specific studies have been conducted to assess what effect, if any, race may 
 Renal Impairment
 
 There is a linear correlation between creatinine clearance and the renal clearance of MHD.
-When oxcarbazepine oral suspension is administered as a single 300 mg dose in renally-impaired patients (creatinine clearance <30 mL/min), the elimination half-life of MHD is prolonged to 19 hours, with a 2-fold increase in AUC [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
+When oxcarbazepine oral suspension is administered as a single 300 mg dose in renally-impaired patients (creatinine clearance less than 30 mL/min), the elimination half-life of MHD is prolonged to 19 hours, with a 2-fold increase in AUC [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 
@@ -129,7 +129,7 @@ Table 7: Summary of Antiepileptic Drug Interactions With Oxcarbazepine Oral Susp
 | --- | --- | --- | --- | --- |
 | Carbamazepine | 400-2000 | 900 | nc1 | 40% decrease [CI: 17% decrease, 57% decrease] |
 | Phenobarbital | 100-150 | 600-1800 | 14% increase [CI: 2% increase, 24% increase] | 25% decrease [CI: 12% decrease, 51% decrease] |
-| Phenytoin | 250-500 | 600-1800 >1200-2400 | nc1,2 up to 40% increase3 [CI: 12% increase, 60% increase] | 30% decrease [CI: 3% decrease, 48% decrease] |
+| Phenytoin | 250-500 | 600-1800 greater than 1200-2400 | nc1,2 up to 40% increase3 [CI: 12% increase, 60% increase] | 30% decrease [CI: 3% decrease, 48% decrease] |
 | Valproic acid | 400-2800 | 600-1800 | nc1 | 18% decrease [CI: 13% decrease, 40% decrease] |
 | Lamotrigine | 200 | 1200 | nc1 | nc1 |
 

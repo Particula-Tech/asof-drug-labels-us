@@ -2,9 +2,9 @@
 
 ## 5.1 Hyponatremia
 
-Clinically significant hyponatremia (sodium <125 mmol/L) can develop during oxcarbazepine oral suspension use.
+Clinically significant hyponatremia (sodium less than 125 mmol/L) can develop during oxcarbazepine oral suspension use.
 In the 14 controlled epilepsy studies, 2.5% of oxcarbazepine oral suspension-treated patients (38/1,524) had a sodium of less than 125 mmol/L at some point during treatment, compared to no such patients assigned placebo or active control (carbamazepine and phenobarbital for adjunctive and monotherapy substitution studies, and phenytoin and valproate for the monotherapy initiation studies).
-Clinically significant hyponatremia generally occurred during the first 3 months of treatment with oxcarbazepine oral suspension, although there were patients who first developed a serum sodium <125 mmol/L more than 1 year after initiation of therapy.
+Clinically significant hyponatremia generally occurred during the first 3 months of treatment with oxcarbazepine oral suspension, although there were patients who first developed a serum sodium less than 125 mmol/L more than 1 year after initiation of therapy.
 Most patients who developed hyponatremia were asymptomatic, but patients in the clinical trials were frequently monitored and some had their oxcarbazepine oral suspension dose reduced, discontinued, or had their fluid intake restricted for hyponatremia.
 Whether or not these maneuvers prevented the occurrence of more severe events is unknown.
 Cases of symptomatic hyponatremia and syndrome of inappropriate antidiuretic hormone secretion (SIADH) have been reported during postmarketing use.
@@ -45,12 +45,12 @@ Available clinical evidence, and data from nonclinical studies showing a direct 
 
 The frequency of HLA-B*1502 allele ranges from 2% to 12% in Han Chinese populations, is about 8% in Thai populations, and above 15% in the Philippines, and in some Malaysian populations.
 Allele frequencies up to about 2% and 6% have been reported in Korea and India, respectively.
-The frequency of the HLA-B*1502 allele is negligible in people from European descent, several African populations, indigenous peoples of the Americas, Hispanic populations, and in Japanese (<1%).
+The frequency of the HLA-B*1502 allele is negligible in people from European descent, several African populations, indigenous peoples of the Americas, Hispanic populations, and in Japanese (less than 1%).
 
 Testing for the presence of the HLA-B*1502 allele should be considered in patients with ancestry in genetically at-risk populations, prior to initiating treatment with oxcarbazepine oral suspension.
 The use of oxcarbazepine oral suspension should be avoided in patients positive for HLA-B*1502 unless the benefits clearly outweigh the risks.
 Consideration should also be given to avoid the use of other drugs associated with SJS/TEN in HLA-B*1502 positive patients, when alternative therapies are otherwise equally acceptable.
-Screening is not generally recommended in patients from populations in which the prevalence of HLA-B* 1502 is low, or in current oxcarbazepine oral suspension users, as the risk of SJS/TEN is largely confined to the first few months of therapy, regardless of HLA-B*1502 status.
+Screening is not generally recommended in patients from populations in which the prevalence of HLA-B* 1,502 is low, or in current oxcarbazepine oral suspension users, as the risk of SJS/TEN is largely confined to the first few months of therapy, regardless of HLA-B*1502 status.
 
 The use of HLA-B*1502 genotyping has important limitations, and must never substitute for appropriate clinical vigilance and patient management.
 The role of other possible factors in the development of, and morbidity from, SJS/TEN, such as AED dose, compliance, concomitant medications, comorbidities, and the level of dermatologic monitoring have not been well characterized.
