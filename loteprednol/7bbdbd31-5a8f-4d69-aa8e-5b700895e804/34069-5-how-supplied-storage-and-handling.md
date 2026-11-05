@@ -4,4 +4,4 @@ Loteprednol Etabonate Ophthalmic Gel 0.5% is a sterile ophthalmic gel supplied i
 
 5 g in a 10 mL bottle (NDC 24208-508-01)
 
-Storage: Store upright at 15º to 25ºC (59º to 77ºF).
+Storage:Store upright at 15º to 25ºC (59º to 77ºF).
