@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Vivelle-Dot is indicated for:
+VIVELLE-DOT is indicated for:
 
 ## 1.1 Treatment of Moderate to Severe Vasomotor Symptoms Due to Menopause
 

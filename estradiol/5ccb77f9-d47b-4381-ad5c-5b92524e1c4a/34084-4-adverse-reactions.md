@@ -2,21 +2,21 @@
 
 The following serious adverse reactions are discussed elsewhere in labeling:
 
-- •Cardiovascular Disorders [see Boxed Warning, Warnings and Precautions (5.1)]
+- •Cardiovascular Disorders [see Warnings and Precautions (5.1)]
 - •Malignant Neoplasms [see Boxed Warning, Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-There were no clinical trials conducted with Vivelle-Dot.
-Vivelle-Dot is bioequivalent to Vivelle®.
-The following adverse reactions have been reported with Vivelle therapy:
+There were no clinical trials conducted with VIVELLE-DOT.
+VIVELLE-DOT is bioequivalent to VIVELLE®.
+The following adverse reactions have been reported with VIVELLE therapy:
 
 Table 1.
 Summary of Most Frequently Reported Adverse Reactions Regardless of Relationship Reported at a Frequency ≥ 5 Percent
 
-|  | Vivelle 0.025 mg/day† (N = 47) N (%) | Vivelle 0.0375 mg/day† (N = 130) N (%) | Vivelle 0.05 mg/day† (N = 103) N (%) | Vivelle 0.075 mg/day† (N = 46) N (%) | Vivelle 0.1 mg/day† (N = 132) N (%) | Placebo (N = 157) N (%) |
+|  | VIVELLE 0.025 mg/day† (N = 47) N (%) | VIVELLE 0.0375 mg/day† (N = 130) N (%) | VIVELLE 0.05 mg/day† (N = 103) N (%) | VIVELLE 0.075 mg/day† (N = 46) N (%) | VIVELLE 0.1 mg/day† (N = 132) N (%) | Placebo (N = 157) N (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Gastrointestinal disorders |  |  |  |  |  |  |
 | Constipation | 2 (4.3) | 5 (3.8) | 4 (3.9) | 3 (6.5) | 2 (1.5) | 4 (2.5) |
@@ -60,7 +60,7 @@ Summary of Most Frequently Reported Adverse Reactions Regardless of Relationship
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been identified during post-approval use of Vivelle-Dot.
+The following additional adverse reactions have been identified during post-approval use of VIVELLE-DOT.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Genitourinary System

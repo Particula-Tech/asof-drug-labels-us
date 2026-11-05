@@ -18,14 +18,14 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 
 ## 12.2 Pharmacodynamics
 
-Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to Vivelle-Dot nor her risk for adverse outcomes.
+Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to VIVELLE-DOT nor her risk for adverse outcomes.
 Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
-In a multiple-dose study consisting of 3 consecutive system applications of the original formulation [Vivelle (estradiol transdermal system)] which was conducted in 17 healthy, postmenopausal women, blood levels of estradiol and estrone were compared following application of these units to sites on the abdomen and buttocks in a crossover fashion.
+In a multiple-dose study consisting of 3 consecutive system applications of the original formulation [VIVELLE (estradiol transdermal system)] which was conducted in 17 healthy, postmenopausal women, blood levels of estradiol and estrone were compared following application of these units to sites on the abdomen and buttocks in a crossover fashion.
 Systems that deliver nominal estradiol doses of approximately 0.0375 mg per day and 0.1 mg per day were applied to abdominal application sites while the 0.1 mg per day doses were also applied to sites on the buttocks.
 These systems increased estradiol levels above baseline within 4 hours and maintained respective mean levels of 25 and 79 pg/mL above baseline following application to the abdomen; slightly higher mean levels of 88 pg/mL above baseline were observed following application to the buttocks.
 At the same time, increases in estrone plasma concentrations averaged about 12 and 50 pg/mL, respectively, following application to the abdomen and 61 pg/mL for the buttocks.
@@ -55,7 +55,7 @@ Steady-State Estradiol Pharmacokinetic Parameters for Systems Applied to the Abd
 | #Measured over 80 hr. |  |  |  |
 | ¶Applied to the buttocks. |  |  |  |
 
-Vivelle-Dot (estradiol transdermal system), the revised formulation with smaller system sizes, was shown to be bioequivalent to the original formulation, Vivelle (estradiol transdermal system), used in the clinical trials.
+VIVELLE-DOT (estradiol transdermal system), the revised formulation with smaller system sizes, was shown to be bioequivalent to the original formulation, VIVELLE (estradiol transdermal system), used in the clinical trials.
 
 Distribution
 
@@ -77,11 +77,11 @@ In postmenopausal women a significant portion of the circulating estrogens exist
 Excretion
 
 Estradiol, estrone and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
-The half-life values calculated after dosing with the Vivelle-Dot ranged from 5.9 to 7.7 hours.
+The half-life values calculated after dosing with the VIVELLE-DOT ranged from 5.9 to 7.7 hours.
 After removal of the transdermal systems, serum concentrations of estradiol and estrone returned to baseline levels within 24 hours.
 
 Adhesion
 
-Based on combined data from 3 short-term clinical trials consisting of 471 observations, 85% of Vivelle-Dot adhered completely to the skin over the 3.5-day wear period.
+Based on combined data from 3 short-term clinical trials consisting of 471 observations, 85% of VIVELLE-DOT adhered completely to the skin over the 3.5-day wear period.
 Three percent (3%) of the systems detached and were reapplied or replaced during the 3.5-day wear period.
-Approximately 80% of the transdermal systems evaluated in these studies were Vivelle-Dot 0.05 mg per day.
+Approximately 80% of the transdermal systems evaluated in these studies were VIVELLE-DOT 0.05 mg per day.
