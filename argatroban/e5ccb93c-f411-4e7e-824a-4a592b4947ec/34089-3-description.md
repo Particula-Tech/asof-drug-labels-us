@@ -8,7 +8,7 @@ The molecular formula of argatroban is C23H36N6O5S•H2O.
 Its molecular weight is 526.66 g/mol.
 The structural formula is:
 
-Argatroban Injection is a sterile, non-pyrogenic, clear, colorless to pale yellow isotonic solution.
+Argatroban in 0.9% sodium chloride injection is a sterile, non-pyrogenic, clear, colorless to pale yellow isotonic solution.
 It is supplied in a single-dose clear glass vial containing 125 mg of argatroban in 125 mL sodium chloride solution.
 Each mL contains 1 mg argatroban, 9 mg sodium chloride, USP, 3 mg sorbitol, NF in water for injection, USP.
 The pH of the solution is between 3.2 to 7.5.

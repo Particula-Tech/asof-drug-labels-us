@@ -3,7 +3,7 @@
 ## 8.1 Pregnancy
 
 Risk Summary Limited data from published literature and postmarketing reports do not suggest an association between argatroban and adverse fetal outcomes.
-There are risks to the mother associated with untreated thrombosis in pregnancy and a risk of hemorrhage in the mother and fetus associated with the use of anticoagulants (see Clinical Considerations).
+There are risks to the mother associated with untreated thrombosis in pregnancy and a risk of hemorrhage in the mother and fetus associated with the use of anticoagulants [see Clinical Considerations].
 In animal reproduction studies, there was no evidence of adverse developmental outcomes with intravenous administration of argatroban during organogenesis in rats and rabbits at doses up to 0.3 and 0.2-times, respectively, the maximum recommended human dose (MHRD) (see Data).
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -53,4 +53,4 @@ The studies were not sized appropriately to detect differences in safety between
 ## 8.6 Hepatic Impairment
 
 Dose reduction and careful titration are required when administering argatroban to patients with hepatic impairment.
-Reversal of anticoagulation effect may be prolonged in this population [see Dosage and Administration (2.3), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+Reversal of anticoagulation effect may be prolonged in this population [see Dosage and Administration (2.4), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].

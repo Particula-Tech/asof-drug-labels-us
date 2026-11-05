@@ -18,7 +18,7 @@ Steady-state plasma argatroban concentrations increase proportionally with dose 
 For infusion doses up to 40 mcg/kg/min, argatroban increases in a dose-dependent fashion, the activated partial thromboplastin time (aPTT), the activated clotting time (ACT), the prothrombin time (PT), the International Normalized Ratio (INR), and the thrombin time (TT) in healthy volunteers and cardiac patients.
 Representative steady-state plasma argatroban concentrations and anticoagulant effects are shown below for argatroban infusion doses up to 10 mcg/kg/min (see Figure 1).
 Figure 1.
-Relationship at Steady State between Argatroban Dose, Plasma Argatroban Concentration and Anticoagulant Effect
+Relationship at Steady State Between Argatroban Dose, Plasma Argatroban Concentration and Anticoagulant Effect
 
 Effect on International Normalized Ratio (INR) Because argatroban is a direct thrombin inhibitor, co-administration of argatroban and warfarin produces a combined effect on the laboratory measurement of the INR.
 However, concurrent therapy, compared to warfarin monotherapy, exerts no additional effect on vitamin K–dependent factor Xa activity.
@@ -29,7 +29,7 @@ Data for 2 commonly utilized thromboplastins with ISI values of 0.88 (Innovin, D
 Thromboplastins with higher ISI values than shown result in higher INRs on combined therapy of warfarin and argatroban.
 These data are based on results obtained in normal individuals [see Dosage and Administration (2.5), Warnings and Precautions (5.3)].
 Figure 2.
-INR Relationship of Argatroban plus Warfarin versus Warfarin Alone
+INR Relationship of Argatroban Plus Warfarin Versus Warfarin Alone
 
 Figure 2 demonstrates the relationship between INR for warfarin alone and INR for warfarin co-administered with argatroban at a dose of 2 mcg/kg/min.
 To calculate INR for warfarin alone (INRW), based on INR for co-therapy of warfarin and argatroban (INRWA), when the argatroban dose is 2 mcg/kg/min, use the equation next to the appropriate curve.
@@ -64,7 +64,7 @@ Little or no additional urinary radioactivity was subsequently detected.
 Average percent recovery of unchanged drug, relative to total dose, was 16% in urine and at least 14% in feces.
 Special Populations
 
-Hepatic Impairment The dosage of argatroban should be decreased in patients with hepatic impairment [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
+Hepatic Impairment The dosage of argatroban should be decreased in patients with hepatic impairment [see Dosage and Administration (2.4) and Warnings and Precautions (5.2)].
 Patients with hepatic impairment were not studied in percutaneous coronary intervention (PCI) trials.
 At a dose of 2.5 mcg/kg/min, hepatic impairment is associated with decreased clearance and increased elimination half-life of argatroban (to 1.9 mL/kg/min and 181 minutes, respectively, for patients with a Child-Pugh score greater than 6).
 Renal Impairment No dosage adjustment is necessary in patients with renal dysfunction.

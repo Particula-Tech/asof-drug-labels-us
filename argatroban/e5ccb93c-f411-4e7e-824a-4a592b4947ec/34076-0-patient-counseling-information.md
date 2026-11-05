@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Inform patients of the risks associated with Argatroban Injection as well as the plan for regular monitoring during administration of the drug.
+Inform patients of the risks associated with argatroban in 0.9% sodium chloride injection as well as the plan for regular monitoring during administration of the drug.
 Specifically, inform patients to report:
 
 - the use of any other products known to affect bleeding.
@@ -8,6 +8,6 @@ Specifically, inform patients to report:
 - any bleeding signs or symptoms [see Warnings and Precautions (5.1)].
 - the occurrence of any signs or symptoms of allergic reactions (e.g., airway reactions, skin reactions and vasodilation reactions) [see Adverse Reactions (6.1)].
 
-Manufactured by: Gland Pharma Limited D. P. Pally, Dundigal Post, Hyderabad - 500043, INDIA.
+Manufactured by: Gland Pharma Limited D. P. Pally, Dundigal Post, Hyderabad - 500043, India
 
-Revised: 03/2026
+Revised: 10/2026
