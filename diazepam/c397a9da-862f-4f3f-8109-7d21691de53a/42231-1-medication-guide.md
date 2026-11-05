@@ -10,19 +10,21 @@
 | What are the possible side effects of diazepam tablets? Diazepam tablets may cause serious side effects, including: •See “What is the most important information I should know about diazepam tablets?”•Seizures. Taking diazepam tablets with other medicines used to treat epilepsy can cause an increase in the number or severity of grand mal seizures. •Diazepam tablets can make you sleepy or dizzy, and can slow your thinking and motor skills. oDo not drive, operate heavy machinery, or do other dangerous activities until you know how diazepam tablets affect you.oDo not drink alcohol or take other drugs that may make you sleepy or dizzy while taking diazepam tablets without first talking to your healthcare provider. When taken with alcohol or drugs that cause sleepiness or dizziness, diazepam tablets may make your sleepiness or dizziness much worse. •Like other antiepileptic drugs, diazepam tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500. Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you: |  |
 | •thoughts about suicide or dying•new or worse depression•feeling agitated or restless•trouble sleeping (insomnia)•acting aggressive, being angry, or violent•other unusual changes in behavior or mood | •attempts to commit suicide•new or worse anxiety or irritability•an extreme increase in activity and talking (mania)•new or worse panic attacks•acting on dangerous impulses |
 | How can I watch for early symptoms of suicidal thoughts and actions? •Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings. •Keep all follow-up visits with your healthcare provider as scheduled. Call your healthcare provider between visits as needed, especially if you are worried about symptoms.Suicidal thoughts or actions can be caused by things other than medicines. If you have suicidal thoughts or actions, your healthcare provider may check for other causes. The most common side effects of diazepam tablets include: •drowsiness•muscle weakness•loss of control of body movements (ataxia)•fatigue |  |
-| These are not all the possible side effects of diazepam tablets. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.You may also report side effects to Mylan at 1-877-446-3679 (1-877-4-INFO-RX). |  |
+| These are not all the possible side effects of diazepam tablets. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.You may also report side effects to Viatris at 1-877-446-3679 (1-877-4-INFO-RX). |  |
 | How should I store diazepam tablets? •Store diazepam tablets in a tightly closed container at room temperature between 20° to 25°C (68° to 77°F). Protect from light.•Keep diazepam tablets and all medicines out of the reach of children. |  |
 | General information about the safe and effective use of diazepam tablets. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use diazepam tablets for a condition for which they were not prescribed. Do not give diazepam tablets to other people, even if they have the same symptoms that you have. They may harm them. You can ask your pharmacist or healthcare provider for information about diazepam tablets that is written for health professionals. |  |
-| What are the ingredients in diazepam tablets? Active ingredient: diazepam Inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, pregelatinized starch (corn) and sodium lauryl sulfate. The 5 mg tablets also contain FD&C Yellow No. 6 Aluminum Lake. The 10 mg tablets also contain D&C Yellow No. 10 Aluminum Lake and FD&C Blue No. 1 Aluminum Lake.Manufactured for: Mylan Pharmaceuticals Inc., Morgantown, WV 26505 U.S.A.Manufactured by: Mylan Laboratories Limited, Hyderabad – 500 096, IndiaFor more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX). |  |
+| What are the ingredients in diazepam tablets? Active ingredient: diazepam Inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, pregelatinized starch (corn) and sodium lauryl sulfate. The 5 mg tablets also contain FD&C Yellow No. 6 Aluminum Lake. The 10 mg tablets also contain D&C Yellow No. 10 Aluminum Lake and FD&C Blue No. 1 Aluminum Lake.Distributed by: Mylan Pharmaceuticals Inc., a Viatris CompanyMorgantown, WV 26505 U.S.A.For more information, call Viatris at 1-877-446-3679 (1-877-4-INFO-RX). |  |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by:
+
+Mylan Pharmaceuticals Inc., a Viatris Company
+
+Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75096535
+Revised: 9/2026
 
-Revised: 4/2023
-
-MXA:DPM:R6mmh/MXA:MG:DPM:R3m/MXA:MG:DPM:R4mh
+MXA:DPM:R7mmh/MXA:MG:DPM:R4m/MXA:MG:DPM:R5mh
