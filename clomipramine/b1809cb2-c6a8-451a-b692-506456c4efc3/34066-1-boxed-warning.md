@@ -1,3 +1,5 @@
+# BOXED WARNING
+
 Suicidality and Antidepressant Drugs
 
 Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders.
