@@ -43,7 +43,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - General disorders and administration site conditions: fatigue, malaise
 - Immune System Disorders: drug hypersensitivity including face edema, angioedema, anaphylactic shock
 - Nervous system disorders: dizziness, headache, somnolence, syncope
-- Psychiatric disorders: As with the other anti-cholinergic drugs, cases of delirium or symptoms of delirium such as amnesia (or transient global amnesia), agitation, confusional state, delusion, disorientation, hallucination (including visual hallucination) as well as mania, mood altered and pseudodementia, have been reported with the use of dicyclomine.
+- Psychiatric disorders: As with the other anti-cholinergic drugs, cases of delirium or symptoms of delirium such as amnesia (or transient global amnesia), agitation, confusional state, delusion, disorientation, hallucination (including visual hallucination) as well as mania, mood altered and pseudodementia, have been reported with the use of Dicyclomine.
   Nervousness and insomnia have also been reported.
 - Reproductive system and breast disorders: suppressed lactation
 - Respiratory, thoracic and mediastinal disorders: dyspnoea, nasal congestion
