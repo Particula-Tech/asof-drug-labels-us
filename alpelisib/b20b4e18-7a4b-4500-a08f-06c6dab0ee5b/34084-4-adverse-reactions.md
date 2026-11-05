@@ -33,7 +33,7 @@ The most frequent adverse reactions leading to treatment discontinuation of PIQR
 Dose reductions due to adverse reactions occurred in 55% of patients receiving PIQRAY plus fulvestrant.
 The most frequent adverse reactions leading to dose reduction in > 2% patients receiving PIQRAY plus fulvestrant were hyperglycemia (29%), rash (9%), diarrhea (6%), stomatitis (3.5%), and mucosal inflammation (2.1%).
 
-The most common adverse reactions, including laboratory abnormalities (all grades, incidence ≥ 20%) were glucose increased, creatinine increased, diarrhea, rash, lymphocyte count decreased, gamma-glutamyl transferase (GGT) increased, nausea, alanine aminotransferase (ALT) increased, fatigue, hemoglobin decreased, lipase increased, decreased appetite, stomatitis, vomiting, weight decreased, calcium decreased, glucose decreased, activated partial thromboplastin time (aPTT) prolonged, and alopecia.
+The most common adverse reactions, including laboratory abnormalities (all grades, incidence ≥ 20%) were increased glucose, increased creatinine, diarrhea, rash, decreased lymphocyte count, increased gamma-glutamyl transferase (GGT), nausea, increased alanine aminotransferase (ALT), fatigue, decreased hemoglobin, increased lipase, decreased appetite, stomatitis, vomiting, decreased weight, decreased calcium, decreased glucose, prolonged activated partial thromboplastin time (aPTT), and alopecia.
 
 Adverse reactions and laboratory abnormalities are listed in Table 6 and Table 7, respectively.
 
@@ -86,13 +86,13 @@ Table 7: Laboratory Abnormalities Occurring in ≥ 10% of Patients in SOLAR-1
 | Hematological parameters |  |  |  |  |
 | Lymphocyte count decreased | 52 | 8 | 40 | 4.5* |
 | Hemoglobin decreased | 42 | 4.2* | 29 | 1* |
-| Activated partial thromboplastin time (aPTT) prolonged | 21 | 0.7* | 16 | 0.3* |
+| aPTT prolonged | 21 | 0.7* | 16 | 0.3* |
 | Platelet count decreased | 14 | 1.1 | 6 | 0* |
 | Biochemical parameters |  |  |  |  |
 | Glucose increased1 | 79 | 39 | 34 | 1 |
 | Creatinine increased | 67 | 2.8* | 25 | 0.7* |
-| Gamma glutamyl transferase (GGT) increased | 52 | 11 | 44 | 10 |
-| Alanine aminotransferase (ALT) increased | 44 | 3.5 | 34 | 2.4* |
+| GGT increased | 52 | 11 | 44 | 10 |
+| ALT increased | 44 | 3.5 | 34 | 2.4* |
 | Lipase increased | 42 | 7 | 25 | 6 |
 | Calcium (corrected) decreased | 27 | 2.1 | 20 | 1.4 |
 | Glucose decreased | 26 | 0.4 | 14 | 0* |

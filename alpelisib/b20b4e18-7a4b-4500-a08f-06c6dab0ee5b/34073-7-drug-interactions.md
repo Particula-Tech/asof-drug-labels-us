@@ -2,13 +2,17 @@
 
 ## 7.1 Effect of Other Drugs on PIQRAY
 
-CYP3A4 Inducer
+Strong CYP3A Inducer
 
-Coadministration of PIQRAY with a strong CYP3A4 inducer decreases alpelisib concentration [see Clinical Pharmacology (12.3)], which may reduce alpelisib efficacy.
-Avoid concomitant use of strong CYP3A4 inducers and consider an alternative concomitant drug with no or minimal potential to induce CYP3A4.
+Avoid coadministration of strong CYP3A inducers with PIQRAY and consider an alternative concomitant drug with no or minimal potential to induce CYP3A.
 
-Breast Cancer Resistance Protein Inhibitors
+Alpelisib is a CYP3A substrate [see Clinical Pharmacology (12.3)].
+Coadministration with a strong CYP3A inducer decreases alpelisib concentration [see Clinical Pharmacology (12.3)], which may reduce alpelisib effectiveness.
 
-Coadministration of PIQRAY with a breast cancer resistance protein (BCRP) inhibitor may increase alpelisib concentration [see Clinical Pharmacology (12.3)], which may increase the risk of toxicities.
-Avoid the use of BCRP inhibitors in patients treated with PIQRAY.
-If unable to use alternative drugs, when PIQRAY is used in combination with BCRP inhibitors, closely monitor for increased adverse reactions.
+BCRP Inhibitors
+
+Avoid coadministration of BCRP inhibitors with PIQRAY.
+If cannot avoid coadministration, monitor for increased adverse reactions.
+
+Alpelisib is a BCRP substrate [see Clinical Pharmacology (12.3)].
+Coadministration of PIQRAY with a BCRP inhibitor may increase alpelisib concentration [see Clinical Pharmacology (12.3)], which may increase the risk of adverse reaction.

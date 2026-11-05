@@ -4,13 +4,11 @@
 
 Select patients for the treatment of HR-positive, HER2-negative advanced or metastatic breast cancer with PIQRAY, based on the presence of one or more PIK3CA mutations in tumor tissue or plasma specimens [see Clinical Studies (14)].
 If no mutation is detected in a plasma specimen, test tumor tissue.
-Information on FDA-approved tests for the detection of PIK3CA mutations in breast cancer is available at: http://www.fda.gov/CompanionDiagnostics.
+Information on FDA-authorized tests for the detection of PIK3CA mutations in breast cancer is available at: http://www.fda.gov/CompanionDiagnostics.
 
 ## 2.2 Dosage and Administration
 
-The recommended dose of PIQRAY is 300 mg (two 150 mg film-coated tablets) taken orally, once daily, with food [see Clinical Pharmacology (12.3)].
-
-Continue treatment until disease progression or unacceptable toxicity occurs [see Dosage and Administration (2.3)].
+The recommended dosage of PIQRAY is 300 mg orally once daily with food [see Clinical Pharmacology (12.3)] until disease progression or unacceptable toxicity occurs.
 
 Patients should take their dose of PIQRAY at approximately the same time each day.
 
@@ -21,14 +19,14 @@ If a dose of PIQRAY is missed, it can be taken with food within 9 hours after th
 After more than 9 hours, skip the dose for that day.
 The next day, take PIQRAY at the usual time.
 
-If the patient vomits after taking the dose, advise the patient not to take an additional dose on that day, and to resume the dosing schedule the next day at the usual time.
+If the patient vomits after taking a dose, advise the patient not to take an additional dose on that day, and to resume the dosing schedule the next day at the usual time.
 
 When given with PIQRAY, the recommended dose of fulvestrant is 500 mg administered on Days 1, 15, and 29, and once monthly thereafter.
-Refer to the Full Prescribing Information for fulvestrant.
+Refer to the Prescribing Information for fulvestrant.
 
-## 2.3 Dose Modifications for Adverse Reactions
+## 2.3 Dosage Modifications for Adverse Reactions
 
-The recommended dose modifications for adverse reactions are listed in Table 1.
+The recommended dosage modifications for adverse reactions are listed in Table 1.
 
 Table 1: PIQRAY Dose Reduction Guidelines for Adverse Reactions1
 
@@ -46,7 +44,7 @@ Cutaneous Adverse Reactions
 If a severe cutaneous adverse reaction (SCAR) is confirmed, permanently discontinue PIQRAY.
 Do not reintroduce PIQRAY in patients who have experienced previous SCAR during PIQRAY treatment [see Warnings and Precautions (5.2)].
 
-Table 2: Dose Modification and Management for Rash and Severe Cutaneous Adverse Reactions (SCARs)
+Table 2: Dosage Modification and Management for Rash and Severe Cutaneous Adverse Reactions (SCARs)
 
 | [see Warnings and Precautions (5.1, 5.2)] |  |
 | --- | --- |
@@ -67,7 +65,7 @@ After initiating treatment with PIQRAY, monitor fasting glucose (FPG or fasting 
 Monitor HbA1c every 3 months and as clinically indicated.
 In patients with risk factors for hyperglycemia, monitor fasting glucose more closely and as clinically indicated [see Warnings and Precautions (5.3)].
 
-Table 3: Dose Modification and Management for Hyperglycemia
+Table 3: Dosage Modification and Management for Hyperglycemia
 
 | [see Warnings and Precautions (5.3)] |  |
 | --- | --- |
@@ -81,7 +79,7 @@ Table 3: Dose Modification and Management for Hyperglycemia
 
 Diarrhea or Colitis
 
-Table 4: Dose Modification and Management for Diarrhea or Colitis
+Table 4: Dosage Modification and Management for Diarrhea or Colitis
 
 | [see Warnings and Precautions (5.5)] |  |
 | --- | --- |
@@ -94,7 +92,7 @@ Table 4: Dose Modification and Management for Diarrhea or Colitis
 
 Other Toxicities
 
-Table 5: Dose Modification and Management for Other Toxicities (Excluding Hyperglycemia, Rash and Severe Cutaneous Adverse Reactions, and Diarrhea or Colitis)
+Table 5: Dosage Modification and Management for Other Toxicities (Excluding Hyperglycemia, Rash and Severe Cutaneous Adverse Reactions, and Diarrhea or Colitis)
 
 | Grade1 | Recommendation |
 | --- | --- |
@@ -103,4 +101,4 @@ Table 5: Dose Modification and Management for Other Toxicities (Excluding Hyperg
 | Grade 4 | Permanently discontinue PIQRAY. |
 | 1Grading according to CTCAE Version 5.0. 2For Grade 2 and 3 pancreatitis, interrupt PIQRAY dose until improvement to Grade < 2 and resume at next lower-dose level. Only one dose reduction is permitted. If toxicity reoccurs, permanently discontinue PIQRAY treatment. 3For Grade 2 total bilirubin elevation, interrupt PIQRAY dose until improvement to Grade ≤ 1 and resume at the same dose if resolved in ≤ 14 days or resume at the next lower dose level if improved in > 14 days. |  |
 
-Refer to the Full Prescribing Information of fulvestrant for dose modification guidelines in the event of toxicity and for other relevant safety information.
+Refer to the Prescribing Information of fulvestrant for dosage modification guidelines in the event of toxicity and for other relevant safety information.

@@ -37,24 +37,24 @@ Embryo-Fetal Toxicity
   Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.6) and Use in Specific Populations (8.1)].
 - Advise females of reproductive potential to use effective contraception during treatment with PIQRAY and for 1 week after the last dose [see Use in Specific Populations (8.3)].
 - Advise male patients with female partners of reproductive potential to use condoms and effective contraception during treatment with PIQRAY and for 1 week after the last dose [see Use in Specific Populations (8.3)].
-- Refer to the Full Prescribing Information of fulvestrant for pregnancy and contraception information.
+- Refer to the Prescribing Information of fulvestrant for pregnancy and contraception information.
+  Advise patients to use effective contraception during treatment and for the longest post-treatment duration recommended in the Prescribing Information of the individual products.
 
 Lactation
 
 Advise women not to breastfeed during treatment with PIQRAY and for 1 week after the last dose [see Use in Specific Populations (8.2)].
 Refer to the Full Prescribing Information of fulvestrant for lactation information.
+Advise patients not to breastfeed during treatment and for the longest post-treatment duration recommended in the Prescribing Information of the individual products.
 
 Infertility
 
 Advise males and females of reproductive potential that PIQRAY may impair fertility [see Use in Specific Populations (8.3)].
-Refer to the Full Prescribing Information of fulvestrant for infertility information.
+Refer to the Prescribing Information of fulvestrant for infertility information.
 
 Drug Interactions
 
-Advise patients to avoid the use of strong CYP3A4 inducers in patients treated with PIQRAY.
-Advise patients to avoid the use of BCRP inhibitors while taking PIQRAY.
-If unable to use alternative drugs, closely monitor for increased adverse reactions.
-No dose adjustment is required when coadministering PIQRAY with CYP3A4, CYP2C8, CYP2C9, CYP2C19 and CYP2B6 substrates [see Drug Interactions (7.1, 7.2)].
+Advise patients and caregivers to inform their healthcare provider of all concomitant medications, including prescription medicines, over-the-counter drugs, vitamins, and herbal products.
+[see Drug Interactions (7.1)].
 
 Dosing
 
@@ -70,4 +70,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2024-03
+T2026-40

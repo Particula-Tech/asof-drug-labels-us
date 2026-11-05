@@ -38,7 +38,7 @@ Hyperglycemia was reported in 65% of patients treated with PIQRAY.
 Grade 3 (FPG > 250 to 500 mg/dL) and Grade 4 (FPG > 500 mg/dL) hyperglycemia was reported in 33% and 3.9% of patients, respectively.
 Ketoacidosis was reported in 0.7% of patients (n = 2) treated with PIQRAY.
 
-Among the patients who experienced Grade ≥ 2 (FPG 160 to 250 mg/dL) hyperglycemia, the median time to first occurrence of hyperglycemia was 15 days (range, 5 to 517 days).
+Among the patients who experienced Grade ≥ 2 (FPG ≥ 160 mg/dL) hyperglycemia, the median time to first occurrence of hyperglycemia was 15 days (range, 5 to 517 days).
 
 In the 187 patients with hyperglycemia, 87% (163/187) were managed with anti-hyperglycemic medication, and 76% (142/187) reported use of metformin as single agent or in combination with other anti-hyperglycemic medication [i.e., insulin, dipeptidyl peptidase-4 (DPP-4) inhibitors, and sulfonylureas].
 In patients with Grade ≥ 2 hyperglycemia with at least 1 grade improvement (n = 153), median time to improvement from the first event was 8 days (range, 2 to 65 days).
@@ -106,4 +106,4 @@ Advise pregnant women and females of reproductive potential of the potential ris
 Advise females of reproductive potential to use effective contraception during treatment with PIQRAY and for 1 week after the last dose.
 Advise male patients with female partners of reproductive potential to use condoms and effective contraception during treatment with PIQRAY and for 1 week after the last dose [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)].
 
-Refer to the Full Prescribing Information of fulvestrant for pregnancy and contraception information.
+Refer to the Prescribing Information of fulvestrant for pregnancy and contraception information.

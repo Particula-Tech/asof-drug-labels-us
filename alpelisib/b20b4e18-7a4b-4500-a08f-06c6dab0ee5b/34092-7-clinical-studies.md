@@ -6,9 +6,10 @@ Randomization was stratified by presence of lung and/or liver metastasis and pre
 Overall, 60% of enrolled patients had tumors with one or more PIK3CA mutations in tissue, 50% had liver/lung metastases, and 6% had previously been treated with a CDK4/6 inhibitor.
 
 There were 341 patients enrolled by tumor tissue in the cohort with a PIK3CA mutation and 231 enrolled in the cohort without a PIK3CA mutation.
-Of the 341 patients in the cohort with a PIK3CA mutation, 336 (99%) patients had one or more PIK3CA mutations confirmed in tumor tissue using the FDA-approved therascreen® PIK3CA RGQ PCR Kit.
-Out of the 336 patients with PIK3CA mutations confirmed in tumor tissue, 19 patients had no plasma specimen available for testing with the FDA-approved therascreen® PIK3CA RGQ PCR Kit.
-Of the remaining 317 patients with PIK3CA mutations confirmed in tumor tissue, 177 patients (56%) had PIK3CA mutations identified in plasma specimen, and 140 patients (44%) did not have PIK3CA mutations identified in plasma specimen.
+Of the 341 patients in the cohort with a PIK3CA mutation, 333 (98%) patients had one or more PIK3CA mutations confirmed in tumor tissue using the FDA-approved therascreen® PIK3CA RGQ PCR Kit.
+The remaining 2% (8/341) of patients did not have their PIK3CA mutations confirmed in tumor tissue.
+Out of the 333 patients with PIK3CA mutations confirmed in tumor tissue, 21 (6%) patients had no plasma specimen available for testing with the FDA-approved therascreen® PIK3CA RGQ PCR Kit.
+Of the remaining 312 patients with PIK3CA mutations confirmed in tumor tissue, 175 patients (56%) had PIK3CA mutations identified in plasma specimen, and 137 patients (44%) did not have PIK3CA mutations identified in plasma specimen.
 
 Patients received either PIQRAY (300 mg) or placebo orally once daily on a continuous basis, plus fulvestrant (500 mg) administered intramuscularly on Cycle 1, Days 1 and 15, and then on Day 1 of every 28-day cycle.
 Patients received treatment until radiographic disease progression or unacceptable toxicity.
@@ -19,7 +20,7 @@ Most patients were women (99.8%), and most patients were white (66%), followed b
 Baseline ECOG performance status was 0 (68%) or 1 (32%).
 
 Patient demographics for those with PIK3CA-mutated tumors were generally representative of the broader study population.
-The median duration of exposure to PIQRAY plus fulvestrant was 8.2 months with 59% of patients exposed for > 6 months.
+The median duration of exposure to PIQRAY plus fulvestrant was 8.2 months with 59% of patients exposed for ≥ 6 months.
 
 The majority of patients (98%) received prior hormonal therapy as the last treatment (48% metastatic setting, 52% adjuvant setting).
 Primary endocrine resistance, defined as relapsed within 24 months on adjuvant endocrine therapy or progression within 6 months on endocrine therapy for advanced disease, was observed in 13% of patients and secondary endocrine resistance, defined as relapsed after 24 months on adjuvant endocrine therapy, relapsed within 12 months of the end of adjuvant endocrine therapy, or progression after 6 months on endocrine therapy for advanced disease, was observed in 72% of patients.

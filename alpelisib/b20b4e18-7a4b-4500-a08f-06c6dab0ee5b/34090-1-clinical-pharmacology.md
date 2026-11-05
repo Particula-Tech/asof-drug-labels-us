@@ -13,76 +13,68 @@ The combination of alpelisib and fulvestrant demonstrated increased anti-tumor a
 
 ## 12.2 Pharmacodynamics
 
+Alpelisib exposure-response relationships and the time course of pharmacodynamic response are unknown.
+
 Cardiac Electrophysiology
 
-Serial ECGs were collected following a single dose and at steady-state to evaluate the effect of alpelisib on the QTcF interval in patients with advanced cancer.
-An analysis of clinical ECG data demonstrates the absence of a large effect (i.e., > 20 ms) on QTcF prolongation at the recommended 300 mg dose with or without fulvestrant.
+At the recommended PIQRAY 300 mg dose with or without fulvestrant, a mean increase in the QTc interval > 20 ms was not observed.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of alpelisib has been studied in healthy subjects and adult patients with solid tumors.
-Steady-state alpelisib maximum plasma concentration (Cmax) and AUC increased proportionally over the dose range of 30 mg to 450 mg (0.1 to 1.5 times the approved recommended dosage) under fed conditions.
-The mean accumulation of alpelisib is 1.3 to 1.5 and steady-state plasma concentrations are reached within 3 days following daily dosage.
-In adult patients who received PIQRAY 300 mg once daily in the SOLAR-1 trial, population approach derived mean steady-state alpelisib [coefficient of variation (CV%)] for Cmax was 2480 (23%) ng/mL and AUC0-24hr was 33224 (21%) ng*h/mL.
+The population pharmacokinetics of alpelisib were evaluated in healthy subjects and adult patients with solid tumors at steady state and are presented as mean [coefficient of variation (CV%)], unless otherwise specified.
+In adult patients who received PIQRAY 300 mg once daily in SOLAR-1, alpelisib maximum plasma concentration (Cmax) is 2,480 (23%) ng/mL and AUC is 33,224 (21%) ng*h/mL.
+Steady-state alpelisib Cmax and AUC increased in a dose proportional manner over the dose range of 30 mg to 450 mg (0.1 to 1.5 times the approved recommended dosage) under fed conditions.
+The mean accumulation of alpelisib is 1.3 to 1.5 and steady-state is reached within 3 days.
 
 Absorption
 
-The median time to reach peak plasma concentration (Tmax) ranged between 2.0 to 4.0 hours.
+The median time to maximum plasma concentration (Tmax) ranges between 2 to 4 hours.
 
-Effect of food
+Effect of Food
 
-A high-fat high-calorie meal (985 calories with 58.1 g of fat) increased alpelisib AUC by 73% and Cmax by 84%, and a low-fat low-calorie meal (334 calories with 8.7 g of fat) increased alpelisib AUC by 77% and Cmax by 145% following a single dose of PIQRAY.
-No clinically significant differences in alpelisib AUC were observed between low-fat low-calorie and high-fat high-calorie meals.
+Alpelisib AUC increased 1.7-fold and Cmax 1.8-fold following administration of a high-fat meal (985 calories with 58.1 g of fat) and AUC increased 1.8-fold and Cmax 2.4-fold following administration of a low-fat meal (334 calories with 8.7 g of fat).
+No clinically significant differences in alpelisib AUC were observed between low-fat and high-fat meals.
 
 Distribution
 
-The mean (% CV) apparent volume of distribution of alpelisib at steady-state is predicted to be 114 L (46%).
+Alpelisib mean apparent volume of distribution is predicted to be 114 L (49%).
 Protein binding of alpelisib is 89% and is independent of concentration.
 
 Elimination
 
-The half-life of alpelisib is predicted to be 8 to 9 hours.
-The mean (% CV) clearance of alpelisib is predicted to be 9.2 L/hr (21%) under fed conditions.
+Alpelisib half-life is predicted to be 8 to 9 hours with clearance predicted to be 9.2 L/hr (21%) under fed conditions.
 
 Metabolism
 
-Alpelisib is primarily metabolized by chemical and enzymatic hydrolysis to form its metabolite BZG791 and followed by CYP3A4 mediated hydroxylation.
+Alpelisib is primarily metabolized by chemical and enzymatic hydrolysis to form its metabolite BZG791 and followed by CYP3A mediated hydroxylation.
 
 Excretion
 
 Following a single oral dose of 400 mg radiolabeled alpelisib under fasted condition, 81% of the administered dose was recovered in feces (36% unchanged, 32% BZG791) and 14% (2% unchanged, 7.1% BZG791) in urine.
-CYP3A4-mediated metabolites (12%) and glucuronides amounted to approximately 15% of the dose.
+CYP3A-mediated metabolites (12%) and glucuronides amounted to approximately 15% of the dose.
 
 Specific Populations
 
-No clinically significant differences in the pharmacokinetics of alpelisib were predicted based on age (21 to 87 years), sex, race/ethnicity (Japanese or Caucasian), body weight (37 to 181 kg), mild to moderate renal impairment (CLcr 30 to < 90 mL/min based on the Cockcroft-Gault formula), or mild to severe hepatic impairment (Child-Pugh Class A, B, and C). The effect of severe renal impairment (CLcr < 30 mL/min) on the pharmacokinetics of alpelisib is unknown.
+No clinically significant differences in the pharmacokinetics of alpelisib were predicted based on age (21 to 87 years), sex, race/ethnicity (Japanese or White), body weight (37 to 181 kg), CLcr 30 to < 90 mL/min (based on the Cockcroft-Gault formula), or mild to severe hepatic impairment (Child-Pugh Class A, B, and C). The effect of CLcr < 30 mL/min on the pharmacokinetics of alpelisib is unknown.
 
 Drug Interaction Studies
 
-Clinical Studies
+Clinical Studies and Model-Informed Approaches
 
-Acid Reducing Agents: PIQRAY can be coadministered with acid reducing agents, since PIQRAY should be taken with food.
-Food exhibited a more pronounced effect on the solubility of alpelisib than the effect of gastric pH value.
+Strong CYP3A Inhibitors: Alpelisib AUC is predicted to increase 1.4-fold or less following coadministration of repeat doses of ketoconazole (a strong CYP3A inhibitor).
 
-Coadministration of the H2 receptor antagonist ranitidine in combination with a single 300 mg oral dose of alpelisib decreased the absorption and overall exposure of alpelisib.
-In the presence of a low-fat low-calorie meal, AUC was decreased on average by 21% and Cmax by 36% with ranitidine.
-Under the fasted state, AUC was decreased on average by 30% and Cmax by 51% with ranitidine.
+Strong and Moderate CYP3A Inducers: Alpelisib Cmax decreased by 38% and AUC by 57% following coadministration of repeat doses of rifampin (a strong CYP3A inducer) with a single dose of PIQRAY 300 mg and alpelisib Cmax decreased by 59% and AUC by 74% following coadministration of rifampin (a strong CYP3A inducer) with PIQRAY 300 mg once daily.
 
-CYP3A4, CYP2C8, CYP2C9, CYP2C19 and CYP2B6 Substrates: Coadministration of repeated doses of alpelisib 300 mg with a single-dose of sensitive substrates of CYP3A4 (midazolam), CYP2C8 (repaglinide), CYP2C9 (warfarin), CYP2C19 (omeprazole) and CYP2B6 (bupropion), administered as a cocktail did not show clinically significant pharmacokinetic interactions.
-No clinically significant differences in pharmacokinetics of everolimus (a substrate of CYP3A4 and P-gp) were observed when coadministered with alpelisib.
+Alpelisib AUC is predicted to decrease by 30% or less following coadministration of repeat doses of efavirenz (a moderate CYP3A inducer) with a single dose of PIQRAY 300 mg.
 
-Effect of CYP3A4 Inducers on Alpelisib: Coadministration of repeat doses of rifampin (a strong CYP3A4 inducer) with a single 300 mg dose of alpelisib decreased alpelisib Cmax by 38% and AUC by 57%, respectively.
-Coadministration of rifampin with repeat doses of 300 mg alpelisib decreased alpelisib Cmax by 59% and AUC by 74%, respectively.
+Acid Reducing Agents: Following coadministration of ranitidine (a H2 receptor antagonist)
 
-Model-Informed Approaches
+- Alpelisib AUC decreased by 21% and Cmax by 36% when administered with a low-fat meal (334 calories, 8.7 g fat).
+- Alpelisib AUC decreased by 30% and Cmax by 51% when administered in the fasted state.
 
-Coadministration of repeat doses of ketoconazole (a strong CYP3A4 inhibitor) with a single 300 mg dose of alpelisib is expected to increase alpelisib AUC by 37% or less.
+Other Drugs: No clinically significant differences in pharmacokinetics of the following drugs when coadministered with alpelisib: midazolam (a CYP3A substrate), repaglinide (a CYP2C8 substrate), warfarin (a CYP2C9 substrate), omeprazole (a CYP2C19 substrate), bupropion (a CYP2B6 substrate) and everolimus (a CYP3A and P-gp substrate).
 
-Coadministration of repeat doses of efavirenz (a moderate CYP3A4 inducer) with a single 300 mg dose of alpelisib is expected to decrease alpelisib AUC by 30% or less.
+In vitro Studies
 
-In Vitro Studies
-
-Effect of Transporter on Alpelisib: Alpelisib is a substrate of BCRP.
-
-Effect of Alpelisib on Transporters: Alpelisib is an inhibitor of P-gp.
-Alpelisib has a low potential to inhibit BCRP, MRP2, BSEP, OATP1B1, OATP1B3, OCT1, OAT1, OAT3, OCT2, MATE1, and MATE2K at clinically relevant concentrations.
+Transporter Systems: Alpelisib is a BCRP substrate.
+Alpelisib is an inhibitor of P-gp but not of BCRP, MRP2, BSEP, OATP1B1, OATP1B3, OCT1, OAT1, OAT3, OCT2, MATE1, and MATE2K.
