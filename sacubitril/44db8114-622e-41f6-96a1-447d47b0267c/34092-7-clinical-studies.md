@@ -18,7 +18,7 @@ The mean left ventricular ejection fraction was 29%.
 The underlying cause of heart failure was coronary artery disease in 60% of patients; 71% had a history of hypertension, 43% had a history of myocardial infarction, 37% had an eGFR less than 60 mL/min/1.73m2, and 35% had diabetes mellitus.
 Most patients were taking beta-blockers (94%), mineralocorticoid antagonists (58%), and diuretics (82%).
 Few patients had an implantable cardioverter-defibrillator (ICD) or cardiac resynchronization therapy-defibrillator (CRT-D) (15%).
-PARADIGM-HF demonstrated that sacubitril and valsartan, a combination of sacubitril and an RAS inhibitor (valsartan), was superior to and RAS inhibitor (enalapril), in reducing the risk of the combined endpoint of cardiovascular death or hospitalization for heart failure, based on a time-to-event analysis (hazard ratio [HR] 0.80; 95% confidence interval [CI], 0.73, 0.87, p <0.0001).
+PARADIGM-HF demonstrated that sacubitril and valsartan, a combination of sacubitril and an RAS inhibitor (valsartan), was superior to a RAS inhibitor (enalapril), in reducing the risk of the combined endpoint of cardiovascular death or hospitalization for heart failure, based on a time-to-event analysis (hazard ratio [HR] 0.80; 95% confidence interval [CI], 0.73, 0.87, p <0.0001).
 The treatment effect reflected a reduction in both cardiovascular death and heart failure hospitalization; see Table 4 and Figure 3.
 Sudden death accounted for 45% of cardiovascular deaths, followed by pump failure, which accounted for 26%.
 Sacubitril and valsartan also improved overall survival (HR 0.84; 95% CI [0.76, 0.93], p = 0.0009) (Table 4).
