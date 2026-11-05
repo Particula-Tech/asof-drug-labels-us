@@ -83,9 +83,9 @@ The least squares mean percent changes from baseline in lumbar spine BMD at Mont
 
 Table 3: Mean Percent Change (On-Treatment) from Baseline* in Lumbar Spine BMD at Month 6* and Month 12 for MYFEMBREE-Treated Women with Heavy Menstrual Bleeding Associated with Uterine Fibroids in Study L3
 
-|  | Number of Women (N = 163) |  |
-| --- | --- | --- |
 | Month 6* | Month 12 |  |
+| --- | --- | --- |
+|  | Number of Women (N = 163) |  |
 | Percent change from baseline* (95% CI) | -0.23 (-0.69, 0.24) | -0.80 (-1.36, -0.25) |
 | Abbreviations: BMD = bone mineral density; CI = confidence interval. |  |  |
 | * Baseline and Month 6 assessments include only those participants from Studies L1 and L2 who participated in Study L3. |  |  |
@@ -181,9 +181,9 @@ The least squares (LS) mean percent changes from baseline in lumbar spine BMD at
 
 Table 5: LS Mean Percent Change (On-Treatment) from Baseline in Lumbar Spine BMD in Women with Moderate to Severe Pain Associated with Endometriosis at Month 6 in Studies S1 and S2
 
-|  | Treatment Month 6 |  |
-| --- | --- | --- |
 | MYFEMBREE | Placebo |  |
+| --- | --- | --- |
+|  | Treatment Month 6 |  |
 | Number of subjects | 418 | 416 |
 | Percent change from baseline (95% CI) | -0.72 (-1.06, -0.38) | 0.12 (-0.22, 0.47) |
 | Treatment difference, % | -0.84 |  |
@@ -194,9 +194,9 @@ The least squares (LS) mean percent changes from baseline in lumbar spine BMD at
 
 Table 6: LS Mean Percent Change (On-Treatment) from Baseline* in Lumbar Spine BMD at Months 6*, 12, and 24 for Women with Moderate to Severe Pain Associated with Endometriosis Treated with MYFEMBREE in Study S3
 
-|  | Number of Women (N = 277) |  |  |
-| --- | --- | --- | --- |
 | Month 6* (n=264) | Month 12 (n=228) | Month 24 (n=163) |  |
+| --- | --- | --- | --- |
+|  | Number of Women (N = 277) |  |  |
 | Percent change from baseline* (95% CI) | -0.91 (-1.30, -0.53) | -0.81 (-1.26, -0.36) | -0.45 (-1.03, 0.13) |
 | Abbreviations: LS = least squares; BMD = bone mineral density; CI = confidence interval; N = number of subjects who received continuous MYFEMBREE treatment throughout Studies S1/S2 and S3; n = number of subjects who had BMD assessments. |  |  |  |
 | * Baseline and Month 6 assessments include only those participants from Studies S1 and S2 who also participated in Study S3. |  |  |  |
@@ -245,7 +245,7 @@ Among women with normal total cholesterol (< 200 mg/dL) at baseline, increases t
 For women with LDL < 130 mg/dL at baseline, increases to 130 to < 160 mg/dL, 160 to < 190 mg/dL and ≥ 190 mg/dL were seen in 8.0%, 0.3%, and 0% of MYFEMBREE-treated women as compared to 7.6%, 0% and 0% of placebo-treated women.
 Among women with normal HDL at baseline (≥ 60 mg/dL), declines to 40 to < 60 mg/dL occurred in 22.2% (49/221) of MYFEMBREE-treated women as compared to 12.2% (27/221) of placebo-treated women.
 
-### 6.2 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of MYFEMBREE, as well as post-approval use of relugolix monotherapy outside of the United States.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

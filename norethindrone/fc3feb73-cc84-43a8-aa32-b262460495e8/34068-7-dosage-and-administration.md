@@ -3,7 +3,7 @@
 ## 2.1 Prior to Initiation of MYFEMBREE
 
 - Exclude pregnancy [see Contraindications (4)].
-- Discontinue hormonal contraceptives [see Warnings and Precautions (5.8)].
+- Discontinue hormonal contraceptives [see Warnings and Precautions (5.8)]
 
 ## 2.2 Recommended Dosage
 

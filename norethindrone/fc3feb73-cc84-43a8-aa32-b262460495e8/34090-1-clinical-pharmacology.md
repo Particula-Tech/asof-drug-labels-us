@@ -99,8 +99,9 @@ Drug Interaction Studies
 
 Clinical Studies
 
-- Combined P-gp and Moderate CYP3A Inhibitor: Co-administration of MYFEMBREE with erythromycin (P-gp and moderate CYP3A inhibitor) increased the AUC and Cmax of relugolix by 4.1-fold and 3.8- fold, respectively.
-  No clinically meaningful differences in the pharmacokinetics of unconjugated estradiol, total estrone, unconjugated estrone, and norethindrone were observed.
+Combined P-gp and Moderate CYP3A Inhibitor: Co-administration of MYFEMBREE with erythromycin (P-gp and moderate CYP3A inhibitor) increased the AUC and Cmax of relugolix by 4.1-fold and 3.8- fold, respectively.
+No clinically meaningful differences in the pharmacokinetics of unconjugated estradiol, total estrone, unconjugated estrone, and norethindrone were observed.
+
 - Combined P-gp and Strong CYP3A Inducer: Co-administration with rifampin (P-gp and strong CYP3A inducer) decreased the AUC and Cmax of relugolix by 55% and 23%, respectively.
 - Other Drugs: No clinically significant differences in the pharmacokinetics of relugolix were observed when co-administered with voriconazole (strong CYP3A inhibitor), fluconazole (moderate CYP3A inhibitor), or atorvastatin (weak CYP3A inhibitor).
   No clinically significant differences in the pharmacokinetics of midazolam (sensitive CYP3A substrate), rosuvastatin (BCRP substrate), or dabigatran etexilate (P-gp substrate) were observed upon co-administration with relugolix.

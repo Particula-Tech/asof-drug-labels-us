@@ -33,9 +33,9 @@ In both Study L1 and Study L2, a statistically higher proportion of women treate
 
 Table 8: Proportion of Responders for Reduction in MBL Volume Over Last 35 days of Treatment in Women with Uterine Fibroids (Studies L1 and L2)
 
-|  | Study L1 |  | Study L2 |  |
-| --- | --- | --- | --- | --- |
 | MYFEMBREE (N = 122) | Placebo (N = 113) | MYFEMBREE (N = 125) | Placebo (N = 129) |  |
+| --- | --- | --- | --- | --- |
+|  | Study L1 |  | Study L2 |  |
 | Women with MBL Volume < 80 mL and ≥50% Reduction in MBL Volume from Baseline to the Last 35 Days of Treatment | 72.1% | 16.8% | 71.2% | 14.7% |
 | Difference from placebo, % 95% CI p-value | 55.3% (44.2%, 65.6%) < 0.0001 |  | 56.5% (46.6%, 66.5%) < 0.0001 |  |
 | Abbreviations: CI = confidence interval. |  |  |  |  |
@@ -63,11 +63,11 @@ A statistically higher proportion treated with MYFEMBREE compared with placebo h
 
 Table 9: Proportion of Women with Baseline Hgb ≤ 10.5 and > 2 g/dL Improvement in Hemoglobin Levels from Baseline at Week 24
 
-|  | Study L1 |  | Study L2 |  |
-| --- | --- | --- | --- | --- |
 | MYFEMBREE n=43 (N = 122) | Placebo n=29 (N = 113) | MYFEMBREE n=40 (N = 125) | Placebo n=53 (N = 129) |  |
+| --- | --- | --- | --- | --- |
+|  | Study L1 |  | Study L2 |  |
 | % at Week 24 | 44.2% | 17.2% | 55.0% | 5.7% |
-| Difference from placebo, % 95% CI p-value | 26.9% (6.7%, 47.2%) 0.0177 |  | 49.3% (32.7%, 66.0%) <0.0001 |  |
+| Difference from placebo, % 5% CI p-value | 26.9% (6.7%, 47.2%) 0.0177 |  | 49.3% (32.7%, 66.0%) <0.0001 |  |
 | Abbreviation: CI = confidence interval. |  |  |  |  |
 | n = number of patients with Hgb ≤10.5 g/dL at baseline. |  |  |  |  |
 | N = number of patients in each treatment group. |  |  |  |  |
@@ -110,13 +110,13 @@ The results for the co-primary efficacy endpoints as assessed at Week 24 are sho
 
 Table 10: Proportion of Dysmenorrhea and Non-Menstrual Pelvic Pain Responders at Week 24
 
-|  | Study S1 |  | Study S2 |  |
-| --- | --- | --- | --- | --- |
 | MYFEMBREE (N = 212) | Placebo (N = 212) | MYFEMBREE (N = 205) | Placebo (N = 200) |  |
+| --- | --- | --- | --- | --- |
+|  | Study S1 |  | Study S2 |  |
 | Dysmenorrhea | 74.5% | 26.9% | 75.1% | 30.5% |
-| Difference from placebo (95% CI) p-value | 47.6% (39.3%, 56.0%) ≤ 0.0001 | - | 44.6% (35.9%, 53.3%) ≤ 0.0001 | - |
+| Difference from placebo (95% CI) -value | 47.6% (39.3%, 56.0%) ≤ 0.0001 | 65B- | 44.6% (35.9%, 53.3%) ≤ 0.0001 | 69B- |
 | Non-menstrual pelvic pain | 58.5% | 39.6% | 65.9% | 42.5% |
-| Difference from placebo (95% CI) * p-value | 18.9% (9.5%, 28.2%) ≤ 0.0001 | - | 23.4% (13.9%, 32.8%) ≤ 0.0001 | - |
+| Difference from placebo (95% CI) * p-value | 18.9% (9.5%, 28.2%) ≤ 0.0001 | 81B- | 23.4% (13.9%, 32.8%) ≤ 0.0001 | 85B- |
 | Abbreviations: CI = confidence interval. |  |  |  |  |
 | Responders are women with a reduction from baseline of at least 2.8 points on the NRS for dysmenorrhea or at least 2.1 points on the NRS for non-menstrual pelvic pain and no increase in analgesic use over the last 35 days of treatment. |  |  |  |  |
 
@@ -163,9 +163,9 @@ The clinical relevance of these data has not been demonstrated.
 
 Table 11: Opioid Rescue Analgesic Use in Studies S1 and S2
 
-|  | Study S1 |  | Study S2 |  |
-| --- | --- | --- | --- | --- |
 | MYFEMBREE (N = 212) | Placebo (N = 212) | MYFEMBREE (N = 205) | Placebo (N = 200) |  |
+| --- | --- | --- | --- | --- |
+|  | Study S1 |  | Study S2 |  |
 | Tablets per month at baseline Mean (SD) Median (Min, Max) | 9.1 (12.36) 4.2 (0.6, 60.7) | 11.7 (11.95) 7.2 (0.5, 54.6) | 9.0 (13.51) 5.6 (0.7, 106.9) | 10.0 (12.82) 6.1 (0.4, 86.3) |
 | Tablets per month at Month 3 Mean (SD) Median (Min, Max) | 3.9 (7.98) 0.0 (0.0, 32.0) | 8.2 (11.48) 3.2 (0.0, 40.8) | 3.4 (8.26) 0.0 (0.0, 57.6) | 7.5 (23.49) 2.4 (0.0, 215.2) |
 | Tablets per month at Month 6 Mean (SD) Median (Min, Max) | 4.8 (10.38) 0.0 (0.0, 45.4) | 10.7 (28.93) 3.2 (0.0, 40.8) | 2.4 (5.02) 0.0 (0.0, 28.0) | 5.6 (14.16) 1.2 (0.0, 120.8) |
