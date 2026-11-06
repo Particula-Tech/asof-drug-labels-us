@@ -33,11 +33,11 @@ Pregnancy
 Advise a pregnant woman of the potential risk to a fetus.
 Advise females of reproductive potential to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
-Distributed by Civica, Inc. Lehi, Utah 84043
+Distributed by Civica, Inc. Lehi, Utah 84048
 
 Manufactured by HIKMA FARMACÊUTICA (PORTUGAL), S.A.
 Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTUGAL
 
-PIN676-CIV/1
+PIN676-CIV/2
 
-Revised: October 2024
+Revised: October 2026
