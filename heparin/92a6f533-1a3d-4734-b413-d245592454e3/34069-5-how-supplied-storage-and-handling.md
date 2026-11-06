@@ -11,7 +11,6 @@ Heparin Sodium in 5% Dextrose Injection is supplied sterile and nonpyrogenic in 
 Exposure of pharmaceutical products to heat should be minimized.
 Avoid excessive heat.
 Protect from freezing.
-
 Store at 20°C to 25°C (68°F to 77°F).
-Excursions permitted to 15°C to 30°C (59°F to 86°F).
+Excursions permitted between 15°C to 30°C (59°F to 86°F).
 [See USP Controlled Room Temperature.]
