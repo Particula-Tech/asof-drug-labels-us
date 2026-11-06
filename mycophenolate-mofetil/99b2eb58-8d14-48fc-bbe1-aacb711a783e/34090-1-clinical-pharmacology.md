@@ -27,7 +27,7 @@ In 12 healthy volunteers, the mean absolute bioavailability of oral MMF relative
 Two 500 mg mycophenolate mofetil tablets have been shown to be bioequivalent to four 250 mg mycophenolate mofetil capsules.
 Five mL of the 200 mg/mL constituted mycophenolate mofetil oral suspension have been shown to be bioequivalent to four 250 mg capsules.
 
-The mean (±SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table.
+The mean (±SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table 10.
 The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5g twice daily) (see Table 10).
 
 1. Table 10.
