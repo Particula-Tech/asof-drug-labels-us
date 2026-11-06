@@ -13,12 +13,12 @@ Advise patients that contact lenses should be removed before administering Verka
 
 Administration
 
-Advise patients that the emulsion from one individual single-dose vial is to be used immediately after opening for administration to one or both eyes, and the remaining contents should be discarded immediately after administration [see Dosage and Administration (2)].
+Advise patients that the emulsion from one individual single-dose vial is to be used immediately after opening for administration to one or both eyes, and the remaining contents should be discarded immediately after administration [see Dosage and Administration(2)].
 
 Missed Dose
 
 If a dose is missed, Verkazia should be continued as normal at the next dose as planned.
-[see Dosage and Administration (2.1)].
+[see Dosage and Administration(2.1)].
 
 Manufactured for: Santen Inc.
 

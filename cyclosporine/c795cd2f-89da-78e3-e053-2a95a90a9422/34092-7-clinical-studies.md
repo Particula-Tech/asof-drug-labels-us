@@ -16,7 +16,7 @@ The results at each month are presented in Table 2 for the CFS score and in Tabl
 
 Table 2: Efficacy Results of the Mean Change in Keratitis Score from Baseline at Each Visit (Full Analysis Set)
 
-[1] Treatment differences (numbers in the middle of the horizontal lines) and 95% confidence intervals (horizontal lines) are based on ANCOVA model including baseline CFS score and the proportion of time potentially spent in taking study medication during the VKC season as covariate.
+[1]Treatment differences (numbers in the middle of the horizontal lines) and 95% confidence intervals (horizontal lines) are based on ANCOVA model including baseline CFS score and the proportion of time potentially spent in taking study medication during the VKC season as covariate.
 For subjects that received rescue therapy during the study, all post-rescue data were imputed by the last available data observed prior to rescue initiation.
 
 Note 1: CFS score was measured at each month using a 5-point scale (0 = no stain, and 5 = more stain).
@@ -25,7 +25,7 @@ Note 2: The Full Analysis Set included all randomized subjects that received at 
 
 Table 3: Efficacy Results of the Mean Change in Itching Score from Baseline at Each Visit (Full Analysis Set)
 
-[1] Treatment differences (numbers in the middle of the horizontal lines) and 95% confidence intervals (horizontal lines) are based on ANCOVA model including baseline Itching score and the proportion of time potentially spent in taking study medication as covariate.
+[1]Treatment differences (numbers in the middle of the horizontal lines) and 95% confidence intervals (horizontal lines) are based on ANCOVA model including baseline Itching score and the proportion of time potentially spent in taking study medication as covariate.
 For subjects that received rescue therapy during the study, all post-rescue data were imputed by the last available data observed prior to rescue initiation.
 
 Note 1: Itching score at each visit was measured using a Visual Analogue Scale (0 = no itch to 100 = maximal itch).

@@ -25,4 +25,4 @@ Table 1: Adverse Reactions Reported in ≥ 1% of Patients Receiving Verkazia
 | Cough | 5% |
 | Headache | 4% |
 | Upper respiratory tract infection | 2% |
-| a Including eye pain and instillation site pain b Including eye pruritus and instillation site pruritus c Including foreign body sensation and ocular discomfort |  |
+| aIncluding eye pain and instillation site pain bIncluding eye pruritus and instillation site pruritus cIncluding foreign body sensation and ocular discomfort |  |

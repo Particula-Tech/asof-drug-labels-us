@@ -6,7 +6,7 @@ Cyclosporine’s chemical name is Cyclo[[(E)-(2 S,3 R,4 R)-3-hydroxy-4-methyl-2-
 
 Structural Formula
 
-Formula: C 62H 111N 11O 12 Mol.
+Formula: C 62H 111N 11O 12Mol.
 Wt.: 1202.61
 
 Verkazia ophthalmic emulsion is a sterile, unpreserved topical emulsion.

@@ -12,7 +12,7 @@ Important Information You Need to Know Before Using Verkazia
 - Verkazia is supplied as 5 single-dose vials packaged in a foil pouch.
 - If you are using any other eye drops, use each eye drop at least 10 minutes apart from each other, including Verkazia.
 - If you are using any eye ointment, gel or other thicker in consistency (viscous) eye drops, use Verkazia 10 minutes before using them.
-- Do not let the tip of the Verkazia vial touch your eye or any other surfaces to avoid contamination or injury to your eye.
+- Do notlet the tip of the Verkazia vial touch your eye or any other surfaces to avoid contamination or injury to your eye.
 - Adults should help children when starting treatment.
   Adults should continue to help until the child is able to properly use Verkazia alone.
   Use 1 drop of Verkazia in the affected eye or eyes, 4 times a day (morning, noon, afternoon and evening).
@@ -20,12 +20,12 @@ Important Information You Need to Know Before Using Verkazia
   Throw away (discard) the vial immediately after use.
 - If you forget to use Verkazia, skip that dose and continue with the next dose as planned.
 - Contact lenses should be taken out before using Verkazia and wait at least 15 minutes after giving the dose before putting the contact lenses back into your eyes.
-- Do not use Verkazia after the expiration date (EXP) appearing on the outer carton, pouch and single-dose vial.
+- Do notuse Verkazia after the expiration date (EXP) appearing on the outer carton, pouch and single-dose vial.
   The expiration date is the last day of that month.
 
 Using Verkazia
 
-Follow the instructions (Step 1 to Step 12) each time you use Verkazia.
+Follow the instructions (Step 1to Step 12) each time you use Verkazia.
 If there is anything that you do not understand, ask your healthcare provider.
 
 Step 1.
@@ -68,7 +68,7 @@ After using Verkazia, press the corner of your eye closest to your nose and gent
 Figure C
 
 Step 11.
-If you need to use drops in both eyes, repeat Steps 6 to 10 for your other eye.
+If you need to use drops in both eyes, repeat Steps 6to 10for your other eye.
 There is enough medicine in one single-dose vial to use in both eyes.
 
 Step 12.
