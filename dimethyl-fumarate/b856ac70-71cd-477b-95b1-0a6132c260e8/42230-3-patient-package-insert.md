@@ -1,6 +1,6 @@
 # Patient Information
 
-| Dimethyl Fumarate(dye meth il FYOO ma rate) Delayed-Release Capsules |
+| Dimethyl Fumarate(dye meth il FYOO ma rate) Delayed-Release Capsules, USP |
 | --- |
 | What are dimethyl fumarate delayed-releasecapsules? Dimethyl fumarate delayed-release capsules are a prescription medicine used to treat relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults.It is not known if dimethyl fumarate delayed-release capsules are safe and effective in children under 18 years of age |
 | Who should not take dimethyl fumarate delayed-releasecapsules? Do not use dimethyl fumarate delayed-release capsules if you have had an allergic reaction (such as welts, hives, swelling of the face, lips, mouth or tongue, or difficulty breathing) to dimethyl fumarate delayed-release capsules or any of its ingredients. See below for a complete list of ingredients. |
@@ -11,4 +11,4 @@
 | What are the ingredients in dimethyl fumarate delayed-release capsules? Active ingredient: dimethyl fumarate Inactive ingredients: calcium silicate, colloidal silicon dioxide, croscarmellose sodium, gelatin, magnesium stearate, methacrylic acid and ethyl acrylate copolymer, methacrylic acid and methyl methacrylate copolymer, poloxamer, polysorbate 80, silicified microcrystalline cellulose, sodium bicarbonate, sodium lauryl sulfate, talc, titanium dioxide and triethyl citrate. In addition, the 120 mg capsules also contain FD&C Blue 1, iron oxide black and iron oxide yellow. The imprinting ink contains the following inactive ingredients: black iron oxide, potassium hydroxide, propylene glycol, shellac and strong ammonia solution. Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETERO TM HETERO LABS LIMITED 22-110, I.D.A., Jeedimetla, Hyderabad-500055, India. For more information, call Hetero Labs Limited at 1-866-495-1995. |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 04/2024
+Revised: 08/2026
