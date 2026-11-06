@@ -52,7 +52,16 @@ If the platelet count falls below 100,000/mm3 or if recurrent thrombosis develop
 HIT or HITT can occur up to several weeks after the discontinuation of heparin therapy.
 Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT or HITT.
 
-## 5.4 Thrombocytopenia
+## 5.4 Severe Cutaneous Adverse Reactions (SCARs)
+
+Severe cutaneous adverse reactions, including cases of Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP), some resulting in fatal outcomes, have been reported in association with heparin treatment.
+
+If signs or symptoms of severe cutaneous reactions occur, interrupt heparin immediately until the etiology of the reaction has been determined.
+Consider early consultation with a dermatologist for evaluation and management.
+
+Permanently discontinue heparin in patients who have experienced SCARs or other life-threatening cutaneous reactions during heparin treatment.
+
+## 5.5 Thrombocytopenia
 
 Thrombocytopenia has been reported to occur in patients receiving heparin with a reported incidence of up to 30%.
 It can occur 2 to 20 days (average 5 to 9) following the onset of heparin therapy.
@@ -60,34 +69,35 @@ Obtain platelet counts before and periodically during heparin therapy.
 Monitor thrombocytopenia of any degree closely.
 If the count falls below 100,000/mm3 or if recurrent thrombosis develops, promptly discontinue heparin, evaluate for HIT and HITT, and, if necessary, administer an alternative anticoagulant [see Warnings and Precautions (5.3)].
 
-## 5.5 Hypersensitivity Reactions
+## 5.6 Hypersensitivity Reactions
 
-Hypersensitivity reactions with chills, fever and urticaria as the most usual manifestations and also asthma, rhinitis, lacrimation, and anaphylactoid reactions have been reported.
+Hypersensitivity reactions with chills, fever and urticaria as the most usual manifestations.
+Also, asthma, rhinitis, lacrimation, and anaphylactoid reactions have been reported.
 Patients with documented hypersensitivity to heparin should be given the drug only in clearly life-threatening situations.
 [see Adverse Reactions (6.1)].
 
 Because Heparin Sodium in 0.9% Sodium Chloride Injection is derived from animal tissue, monitor for signs and symptoms of hypersensitivity when it is used in patients with a history of allergy to pork products.
 
-## 5.6 Heparin Resistance
+## 5.7 Heparin Resistance
 
 Increased resistance to heparin is frequently encountered in fever, thrombosis, thrombophlebitis, infections with thrombosing tendencies, myocardial infarction, cancer, in postsurgical patients, and patients with anti-thrombin deficiency.
 Consider measurement of anti-thrombin levels if heparin resistance is suspected.
 Monitor coagulation tests frequently in such patients.
 It may be necessary to adjust the dose of heparin based on coagulation test monitoring, such as anti-Factor Xa levels and/or partial thromboplastin time.
 
-## 5.7 Hyperkalemia
+## 5.8 Hyperkalemia
 
 Heparin can suppress adrenal secretion of aldosterone leading to hyperkalemia, particularly in patients with diabetes mellitus, chronic renal failure, pre-existing metabolic acidosis, a raised plasma potassium, or taking potassium sparing drugs.
 The risk of hyperkalemia appears to increase with duration of therapy but is usually reversible upon discontinuation of heparin.
 
 Measure plasma potassium in patients at risk of hyperkalemia before starting heparin therapy and periodically in all patients treated for more than 5 days or earlier as deemed fit by the clinician.
 
-## 5.8 Elevations of Serum Aminotransferases
+## 5.9 Elevations of Serum Aminotransferases
 
 Significant elevations of aspartate aminotransferase (AST) and alanine aminotransferase (ALT) levels have occurred in patients who have received heparin.
 Elevation of these enzymes in patients receiving heparin should be interpreted with caution.
 These elevations typically resolve upon heparin discontinuation.
 
-## 5.9 Laboratory Tests
+## 5.10 Laboratory Tests
 
 Periodic platelet counts, hematocrits, and tests for occult blood in stool are recommended during the entire course of heparin therapy, regardless of the route of administration.
