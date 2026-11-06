@@ -1,26 +1,25 @@
-# 2DOSAGE ANDADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## 2.1Rest Imaging Study
+## 2.1 Rest Imaging Study
 
 - Aseptically withdraw Ammonia N 13 Injection from its container and administer 10 mCi – 20 mCi (0.370 GBq – 0.740 GBq) as a bolus through a catheter inserted into a large peripheral vein.
 - Start imaging 3 minutes after the injection and acquire images for a total of 10 minutes – 20 minutes.
 
-## 2.2Stress Imaging Study
+## 2.2 Stress Imaging Study
 
 - If a rest imaging study is performed, begin the stress imaging study 40 minutes or more after the first Ammonia N 13 injection to allow sufficient isotope decay.
 - Administer a pharmacologic stress-inducing drug in accordance with its labeling.
 - Aseptically withdraw Ammonia N 13 Injection from its container and administer 10 mCi – 20 mCi (0.370 GBq – 0.740 GBq) of Ammonia N 13 Injection as a bolus at 8 minutes after the administration of the pharmacologic stress-inducing drug.
 - Start imaging 3 minutes after the Ammonia N 13 Injection and acquire images for a total of 10 minutes – 20 minutes.
 
-## 2.3Patient Preparation
+## 2.3 Patient Preparation
 
 To increase renal clearance of radioactivity and to minimize radiation dose to the bladder, ensure that the patient is well hydrated before the procedure and encourage voiding as soon as a study is completed and as often as possible thereafter for at least one hour.
 
-## 2.4Radiation Dosimetry
+## 2.4 Radiation Dosimetry
 
 The converted radiation absorbed doses in rem/mCi are shown in Table 1.
-These estimates are calculated from the Task Group of Committee 2 of the International Commission on Radiation Protection.
-1
+These estimates are calculated from the Task Group of Committee 2 of the International Commission on Radiation Protection.1
 
 Table 1: N 13 Absorbed Radiation Dose Per Unit Activity (rem/mCi) for Adults and Pediatric Groups.
 
@@ -50,7 +49,7 @@ Table 1: N 13 Absorbed Radiation Dose Per Unit Activity (rem/mCi) for Adults and
 
 *Upper large intestine, **Lower large intestine
 
-## 2.5Drug Handling
+## 2.5 Drug Handling
 
 - Inspect Ammonia N 13 Injection visually for particulate matter and discoloration before administration, whenever solution and container permit.
 - Do not administer Ammonia N 13 Injection containing particulate matter or discoloration; dispose of these unacceptable or unused preparations in a safe manner, in compliance with applicable regulations.

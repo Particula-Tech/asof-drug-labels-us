@@ -1,16 +1,16 @@
-# 11DESCRIPTION
+# 11 DESCRIPTION
 
-## 11.1Chemical Characteristics
+## 11.1 Chemical Characteristics
 
 Ammonia N 13 Injection is a positron emitting radiopharmaceutical that is used for diagnostic purposes in conjunction with positron emission tomography (PET) imaging.
-The active ingredient, [13N] ammonia, has the molecular formula of 13NH 3 with a molecular weight of 16.02, and has the following chemical structure:
+The active ingredient, [13N] ammonia, has the molecular formula of 13NH3 with a molecular weight of 16.02, and has the following chemical structure:
 
 Ammonia N 13 Injection is provided as a ready to use sterile, pyrogen-free, clear and colorless solution.
 Each mL of the solution contains between 0.138 GBq to 9.62 GBq (3.75 mCi to 260 mCi) of [13N] ammonia, at the end of synthesis (EOS) reference time, in 0.9% aqueous sodium chloride.
 The pH of the solution is between 4.5 to 7.5.
 The recommended dose of radioactivity (10 mCi – 20 mCi) is associated with a theoretical mass dose of 0.5 picomoles – 1.0 picomoles (8.47 picograms – 16.94 picograms) of ammonia.
 
-## 11.2Physical Characteristics
+## 11.2 Physical Characteristics
 
 Nitrogen N13 decays by emitting positron to Carbon C13 (stable) and has a physical half-life of 9.96 minutes.
 The principal photons useful for imaging are the dual 511 keV gamma photons that are produced and emitted simultaneously in opposite direction when the positron interacts with an electron (Table 2).

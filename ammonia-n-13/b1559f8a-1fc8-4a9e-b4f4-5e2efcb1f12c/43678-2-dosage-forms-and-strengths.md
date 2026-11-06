@@ -1,3 +1,3 @@
-# 3DOSAGE FORMS ANDSTRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 Glass vial (50 mL) containing 0.138 GBq/mL – 9.62 GBq/mL (3.75 mCi/mL – 260 mCi/mL) of Ammonia N 13 Injection in aqueous 0.9 % sodium chloride solution (approximately 7 mL volume) that is suitable for intravenous administration.

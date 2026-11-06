@@ -1,3 +1,3 @@
-# 7DRUGINTERACTIONS
+# 7 DRUG INTERACTIONS
 
 The possibility of interactions of Ammonia N 13 Injection with other drugs taken by patients undergoing PET imaging has not been studied.

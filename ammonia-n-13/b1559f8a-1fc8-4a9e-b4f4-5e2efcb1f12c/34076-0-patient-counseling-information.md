@@ -1,10 +1,10 @@
-# 17 PATIENT COUNSELINGINFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
-## 17.1Pre-study Hydration
+## 17.1 Pre-study Hydration
 
 Instruct patients to drink plenty of water or other fluids (as tolerated) in the 4 hours before their PET study.
 
-## 17.2Post-study Voiding
+## 17.2 Post-study Voiding
 
 Instruct patients to void after completion of each image acquisition session and as often as possible for one hour after the PET scan ends.
 

@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE ANDHANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Ammonia N 13 Injection is packaged in a 50 mL multiple dose glass vial containing between 0.138 GBq/mL to 9.62 GBq/mL (3.75 mCi/mL to 260 mCi/mL) of [13N] ammonia, at the end of synthesis (EOS) reference time, in 0.9% sodium chloride injection solution in approximately 7 mL volume.
 The recommended dose of radioactivity (10 mCi – 20 mCi) is associated with a theoretical mass dose of 0.5 picomoles – 1.0 picomoles (8.47 picograms – 16.94 picograms) of Ammonia.

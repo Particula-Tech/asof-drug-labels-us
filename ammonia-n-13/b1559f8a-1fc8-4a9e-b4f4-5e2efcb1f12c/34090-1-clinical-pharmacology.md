@@ -1,12 +1,12 @@
-# 12CLINICALPHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1Mechanism of Action
+## 12.1 Mechanism of Action
 
 Ammonia N 13 Injection is a radiolabeled analog of ammonia that is distributed to all organs of the body after intravenous administration.
 It is extracted from the blood in the coronary capillaries into the myocardial cells where it is metabolized to glutamine N 13 and retained in the cells.
 The presence of ammonia N 13 and glutamine N 13 in the myocardium allows for PET imaging of the myocardium.
 
-## 12.2Pharmacodynamics
+## 12.2 Pharmacodynamics
 
 Following intravenous injection, ammonia N 13 enters the myocardium through the coronary arteries.
 
@@ -16,7 +16,7 @@ disposition of intravenous ammonia N 13 in the myocardium.
 In this model, the value of the rate constant, which represents the delivery of blood to myocardium, and the fraction of ammonia N 13 extracted into the myocardial cells, is a measure of myocardial blood flow.
 Optimal PET imaging of the myocardium is generally achieved between 10 minutes to 20 minutes after administration.
 
-## 12.3Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 Following intravenous injection, Ammonia N 13 Injection is cleared from the blood with a biologic half-life of about 2.84 minutes (effective half-life of about 2.21 minutes).
 In the myocardium, its biologic half-life has been estimated to be less than 2 minutes (effective half-life less than 1.67 minutes).
