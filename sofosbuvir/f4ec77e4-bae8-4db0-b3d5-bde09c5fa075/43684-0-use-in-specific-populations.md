@@ -67,10 +67,6 @@ No data are available regarding the safety of HARVONI in pediatric patients with
 
 The safety and efficacy of HARVONI have not been established in pediatric patients less than 3 years of age.
 
-In a 5-year follow-up study, the long-term effects of HARVONI on pediatric growth were assessed in 178 pediatric subjects 3 years of age and older treated with HARVONI in Study 1116.
-No notable effects on growth from baseline through end of study were observed [see Adverse Reactions (6.1)].
-All subjects who had achieved SVR12 maintained SVR through end of study.
-
 ## 8.5 Geriatric Use
 
 Clinical trials of HARVONI included 225 subjects aged 65 and over (9% of total number of subjects in the clinical studies).

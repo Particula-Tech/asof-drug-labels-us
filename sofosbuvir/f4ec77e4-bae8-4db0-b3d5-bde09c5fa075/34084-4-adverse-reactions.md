@@ -119,10 +119,6 @@ The adverse reactions observed were consistent with those observed in clinical s
 Limited safety data are available in pediatric subjects receiving HARVONI for 24 weeks.
 No Grade 3 or 4 adverse reactions or discontinuation due to an adverse reaction was observed in those pediatric subjects receiving HARVONI for 24 weeks [see Clinical Studies (14.7)].
 
-In a 5-year follow-up study, 178 of the 226 subjects from the Phase 2 open-label clinical trial (Study 1116) were followed for a median (Q1, Q3) duration of 239 (143, 244) weeks.
-No notable effects on growth as assessed by changes from baseline through end of study were observed for height, weight, BMI percentiles, and Z-scores for any age group.
-No notable effects were observed on the development of secondary sexual characteristics of subjects as assessed by changes from baseline through end of study in Tanner pubertal stages [see Use in Specific Populations (8.4)].
-
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of HARVONI.

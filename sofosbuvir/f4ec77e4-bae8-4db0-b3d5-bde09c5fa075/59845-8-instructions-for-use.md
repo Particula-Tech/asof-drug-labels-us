@@ -1,4 +1,4 @@
-# INSTRUCTIONS FOR USE HARVONI® (har-VOE-nee) (ledipasvir and sofosbuvir) pellets, for oral use
+# INSTRUCTIONS FOR USE HARVONI ® (har-VOE-nee) (ledipasvir and sofosbuvir) pellets, for oral use
 
 Read the Patient Information that comes with HARVONI oral pellets for important information about HARVONI.
 
@@ -83,8 +83,8 @@ For more information, call 1-800-445-3235 or go to www.HARVONI.com.
 
 Manufactured for and distributed by: Gilead Sciences, Inc., Foster City, CA 94404 HARVONI is a trademark of Gilead Sciences, Inc., or its related companies.
 
-© 2024 Gilead Sciences, Inc. All rights reserved.
-205834-GS-012
+© 2020 Gilead Sciences, Inc. All rights reserved.
+205834-GS-011
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 Issued: March 2020
