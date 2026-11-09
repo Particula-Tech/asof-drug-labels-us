@@ -18,7 +18,7 @@ Selected Averse Events Occurring in at least 1% of Subjects in the Two Pooled Ve
 | Discomfort skin | 3% | 2% |
 | Pruritus | 1% | 1% |
 
-Among subjects having laboratory monitoring, hypercalcemia was observed in 24% (18/74) of subjects exposed to active drug and in 16% (13/79) of subjects exposed to vehicle, the elevations were less than 10% above the upper limit of normal) [see Warnings and Precautions (5.1)].
+Among subjects having laboratory monitoring, hypercalcemia was observed in 24% (18/74) of subjects exposed to active drug and in 16% (13/79) of subjects exposed to vehicle, the elevations were less than 10% above the upper limit of normal) [see Warnings and Precautions (5.1).
 
 The open label trial enrolled 324 subjects with psoriasis who were treated for up to 52 weeks and included 239 subjects exposed for 6 months and 116 subjects exposed for one year.
 Adverse events reported at a rate of greater than or equal to 3% of subjects treated with VECTICAL Ointment were lab test abnormality (8%), urine abnormality (4%), psoriasis (4%), hypercalciuria (3%), and discomfort of skin (3%).

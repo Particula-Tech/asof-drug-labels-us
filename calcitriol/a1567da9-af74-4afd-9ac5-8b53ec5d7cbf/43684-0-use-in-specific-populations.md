@@ -30,7 +30,7 @@ Use of VECTICAL Ointment in this age group is supported by two adequate and well
 - a vehicle controlled 8-week trial in 19 subjects 2 to 12 years of age with mild to moderate plaque psoriasis
 - an open-label 8-week safety and pharmacokinetics (PK) trial in 25 subjects 12 to 17 years of age
 - an open-label 14-day safety and PK trial in 18 subjects 2 to 12 years of age; and
-- an open-label 26-week safety and PK trial in 54 subjects 2 to 17 years of age.
+- �an open-label 26-week safety and PK trial in 54 subjects 2 to 17 years of age.
 
 Data from 63 subjects ages 2 to 12 years, and 42 subjects ages 13 to 17 years showed no significant effects on indices of calcium metabolism.
 The systemic exposure of calcitriol in the pediatric subjects was generally comparable to the endogenous levels observed at baseline.
