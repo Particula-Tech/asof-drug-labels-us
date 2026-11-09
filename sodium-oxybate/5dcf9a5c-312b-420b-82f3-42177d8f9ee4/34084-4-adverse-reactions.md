@@ -81,8 +81,28 @@ The incidence of all these reactions was notably higher at 9 g per night.
 
 In controlled trials in narcolepsy, discontinuations of treatment due to adverse reactions were greater at higher doses of sodium oxybate oral solution.
 
-Pediatric use information is approved for Jazz Pharmaceuticals Inc.’s XYREM (sodium oxybate) Oral Solution.
-However, due to Jazz Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Patients (7 Years of Age and Older)
+
+In the pediatric clinical trial (Trial N5), 104 patients aged 7 to 17 years (37 patients aged 7 to 11 years; 67 patients aged 12 to 17 years) with narcolepsy received sodium oxybate oral solution for up to one year.
+This study included an open-label safety continuation period in which eligible patients received sodium oxybate oral solution for up to an additional 2 years.
+The median and maximum exposure across the entire study were 371 and 987 days, respectively.
+
+Adverse Reactions Leading to Treatment Discontinuation
+
+In the pediatric clinical trial, 7 of 104 patients reported adverse reactions that led to withdrawal from the study (hallucination, tactile; suicidal ideation; weight decreased; sleep apnea syndrome; affect lability; anger, anxiety, depression; and headache).
+
+Adverse Reactions in the Pediatric Clinical Trial
+
+The most common adverse reactions (≥5%) were nausea (20%), enuresis (19%), vomiting (18%), headache (17%), weight decreased (13%), decreased appetite (9%), dizziness (8%), and sleepwalking (6%).
+
+Additional information regarding safety in pediatric patients appears in the following sections:
+
+- Respiratory Depression and Sleep-Disordered Breathing [see Warnings and Precautions (5.4)]
+- Depression and Suicidality [see Warnings and Precautions (5.5)]
+- Other Behavioral or Psychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
+- Parasomnias [see Warnings and Precautions (5.7)]
+
+The overall adverse reaction profile of sodium oxybate oral solution in the pediatric clinical trial was similar to that seen in the adult clinical trial program.
 
 ## 6.2 Postmarketing Experience
 

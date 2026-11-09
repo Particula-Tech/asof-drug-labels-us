@@ -1,24 +1,24 @@
 Instructions for Use
 
-Sodium Oxybate (SO dee um OX i bate)
+SodiumOxybate (SO dee um OX i bate)
 
 Oral Solution, CIII
 
-Read this Instructions for Use carefully before you start taking sodium oxybate oral solution and each time you get a refill.
+Read this Instructions for Use carefully before you (or your child) start taking sodium oxybate oral solution and each time you (or your child) get a refill.
 There may be new information.
-This information does not take the place of talking to your doctor about your medical condition or treatment.
+This information does not take the place of talking to your doctor about your (or your child’s) medical condition or treatment.
 
 Important Information:
 
-- You will need to split your prescribed sodium oxybate oral solution dose into 2 separate pharmacy containers for mixing.
-- You will need to mix sodium oxybate oral solution with water before you take the dose.
+- You will need to split your (or your child’s) prescribed sodium oxybate oral solution dose into 2 separate pharmacy containers for mixing.
+- You will need to mix sodium oxybate oral solution with water before you take or give your child the dose.
 - Safely store the prepared sodium oxybate oral solution doses and take within 24 hours after mixing.
   If the prepared dose was not taken within this time, throw the mixture away.
   See “Throwing away (disposing of) sodium oxybate oral solution” section below for instructions about how to safely throw away sodium oxybate oral solution.
 - Both sodium oxybate oral solution doses should be taken while in bed.
 - The pharmacy containers may be rinsed out with water and emptied into the sink drain.
 
-Supplies you will need for mixing and taking sodium oxybate oral solution.
+Supplies you will need for mixing and taking (or giving your child) sodium oxybate oral solution.
 See Figure A:
 
 - Bottle of sodium oxybate oral solution medicine
@@ -75,7 +75,7 @@ See Figure G.
 
 Figure G
 
-Pull back on the plunger until the medicine flows into the syringe and the liquid level is lined up with the marking on the syringe that matches your dose.
+Pull back on the plunger until the medicine flows into the syringe and the liquid level is lined up with the marking on the syringe that matches you or your child’s dose.
 See Figure H.
 
 Figure H
@@ -88,7 +88,7 @@ Figure J shows an example if an air space forms when drawing up the dose.
 
 Figure I Figure J
 
-Note: If an air space forms between the plunger and the liquid when drawing up the medicine, line up the liquid level with the marking on the syringe that matches your dose.
+Note: If an air space forms between the plunger and the liquid when drawing up the medicine, line up the liquid level with the marking on the syringe that matches your or your child’s dose.
 See Figure J above.
 
 - After you draw up the first divided sodium oxybate oral solution dose, remove the syringe from the opening of the sodium oxybate oral solution bottle.
@@ -117,7 +117,7 @@ Figure M
 Step 3.
 Prepare the second sodium oxybate oral solution dose (prepare before bedtime)
 
-- Repeat Step 2 drawing up the amount of medicine prescribed for your second dose:
+- Repeat Step 2 drawing up the amount of medicine prescribed for your (or your child’s) second dose:
   - emptying the syringe into the second pharmacy container
   - adding about ¼ cup of water and
   - closing the pharmacy container
@@ -137,20 +137,20 @@ Take or give the first sodium oxybate oral solution dose
   Caregivers should make sure all sodium oxybate oral solution doses are kept in a safe place until given.
   You may want to set an alarm clock for 2½ to 4 hours later to make sure you wake up to take (or give) the second dose.
 - When it is time to take (or give) the first sodium oxybate oral solution dose, remove the cap from the pharmacy container by pressing down on the child-resistant locking tab and turning the cap counterclockwise.
-- Drink all of the first sodium oxybate oral solution dose while sitting in bed.
-  Put the cap back on the first pharmacy container and immediately lie down to sleep.
-- You should fall asleep soon.
+- Drink (or have your child drink) all of the first sodium oxybate oral solution dose while sitting in bed.
+  Put the cap back on the first pharmacy container and immediately lie down to sleep (or have your child lie down to sleep).
+- You (or your child) should fall asleep soon.
   Some people fall asleep within 5 minutes and most fall asleep within 15 minutes.
   Some patients take less time to fall asleep, and some take more time.
-  The time it takes you to fall asleep might be different from night to night.
+  The time it takes you (or your child) to fall asleep might be different from night to night.
 
 Step 6.
 Take or give the second sodium oxybate oral solution dose
 
-- When you wake up 2½ to 4 hours later for your second dose of sodium oxybate oral solution, take the cap off the second pharmacy container.
-- If you wake up before the alarm and it has been at least 2½ hours since the first sodium oxybate oral solution dose, turn off the alarm and take the second sodium oxybate oral solution dose.
-- Drink all of the second sodium oxybate oral solution dose while sitting in bed.
-  Put the cap back on the second pharmacy container and immediately lie down to continue sleeping.
+- When you wake up 2½ to 4 hours later for your (or your child’s) second dose of sodium oxybate oral solution, take the cap off the second pharmacy container.
+- If you (or your child) wake up before the alarm and it has been at least 2½ hours since the first sodium oxybate oral solution dose, turn off the alarm and take (or give your child) the second sodium oxybate oral solution dose.
+- Drink (or have your child drink) all of the second sodium oxybate oral solution dose while sitting in bed.
+  Put the cap back on the second pharmacy container and immediately lie down (or have your child lie down) to continue sleeping.
 
 How should I store sodium oxybate oral solution?
 
@@ -169,20 +169,9 @@ Throwing away (disposing of) sodium oxybate oral solution
   - place the empty sodium oxybate oral solution bottle in the trash
 - Keep sodium oxybate oral solution and all medicines out of the reach of children and pets.
 
-Manufactured by:
+Manufactured by: Ascent Pharmaceuticals Inc. Central Islip, NY 11722
 
-Ascent Pharmaceuticals Inc.
-
-Central Islip, NY 11722
-
-Manufactured for:
-
-Camber Pharmaceuticals, Inc.
-
-Piscataway, NJ 08854
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
 
 This Instructions for Use have been approved by the U.S. Food and Drug Administration.
-Revised: 04/2026
-
-Pediatric use information is approved for Jazz Pharmaceuticals Inc.’s XYREM (sodium oxybate) Oral Solution.
-However, due to Jazz Pharmaceuticals Inc.’s marketingexclusivity rights, this drug product is not labeled with that pediatric information.
+Revised: 09/2026

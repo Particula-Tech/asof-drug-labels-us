@@ -16,8 +16,27 @@ Table 1: Recommended Adult Sodium oxybate oral solution Dose Regimen (g = grams)
 | 7.5 g per night | 3.75 g | 3.75 g |
 | 9 g per night | 4.5 g | 4.5 g |
 
-Pediatric use information is approved for Jazz Pharmaceuticals Inc.’s XYREM (sodium oxybate) Oral Solution.
-However, due to Jazz Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+## 2.2 Pediatric Dosing Information
+
+Sodium oxybate oral solution is administered orally twice nightly.
+The recommended starting pediatric dosage, titration regimen, and maximum total nightly dosage are based on patient weight, as specified in Table 2.
+The dosage may be gradually titrated based on efficacy and tolerability.
+
+Table 2: Recommended Pediatric Sodium oxybate oral solution Dosage for Patients 7 Years of Age and Older*
+
+| Patient Weight | Initial Dosage |  | Maximum Weekly Dosage Increase |  | Maximum Recommended Dosage |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Take at Bedtime: | Take 2.5 to 4 Hours Later: | Take at Bedtime: | Take 2.5 to 4 Hours Later: | Take at Bedtime: | Take 2.5 to 4 Hours Later: |  |
+| <20 kg** | There is insufficient information to provide specific dosing recommendations for patients who weigh less than 20 kg. |  |  |  |  |  |
+| 20 kg to <30 kg | ≤1 g | ≤1 g | 0.5 g | 0.5 g | 3 g | 3 g |
+| 30 kg to <45 kg | ≤1.5 g | ≤1.5 g | 0.5 g | 0.5 g | 3.75 g | 3.75 g |
+| ≥45 kg | ≤2.25 g | ≤2.25 g | 0.75 g | 0.75 g | 4.5 g | 4.5 g |
+
+* For patients who sleep more than 8 hours per night, the first dose of sodium oxybate oral solution may be given at bedtime or after an initial period of sleep.
+
+**If sodium oxybate oral solution is used in patients 7 years of age and older who weigh less than 20 kg, a lower starting dosage, lower maximum weekly dosage increases, and lower total maximum nightly dosage should be considered.
+
+Note: Some patients may achieve better responses with unequal doses at bedtime and 2.5 to 4 hours later.
 
 ## 2.3 Important Administration Instructions for All Patients
 
@@ -25,7 +44,7 @@ The total nightly dosage of sodium oxybate oral solution is divided into two dos
 Prepare both doses of sodium oxybate oral solution prior to bedtime.
 Prior to ingestion, each dose of sodium oxybate oral solution should be diluted with approximately ¼ cup (approximately 60 mL) of water in the empty pharmacy containers provided.
 
-Take the first nightly dose of sodium oxybate oral solution at least 2 hours after eating [see Clinical Pharmacology (12.3)].
+Take the first nightly dose of sodium oxybate oral solution at least 2 hours after eating[see Clinical Pharmacology (12.3)].
 Take the second nightly dose 2.5 to 4 hours after the first dose.
 
 Patients should take both doses of sodium oxybate oral solution while in bed and lie down immediately after dosing, and remain in bed following ingestion of each dose.

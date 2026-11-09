@@ -10,7 +10,7 @@ Instruct patients and/or their caregivers to inform their healthcare providers o
 
 Abuse and Misuse
 
-Inform patients and/or caregivers that the active ingredient of sodium oxybate is gamma-hydroxybutyrate (GHB), which is associated with serious adverse reactions with illicit use and abuse [see Warnings and Precautions (5.2)].
+Inform patients and/or caregivers that the active ingredient of sodium oxybate oral solution is gamma­hydroxybutyrate (GHB), which is associated with serious adverse reactions with illicit use and abuse [see Warnings and Precautions (5.2)].
 
 Sodium Oxybate REMS Program
 
@@ -29,32 +29,38 @@ Advise patients and/or caregivers that alcohol and other sedative hypnotics shou
 
 Sedation
 
-Inform patients and/or caregivers that the patient is likely to fall asleep quickly after taking sodium oxybate oral solution (often within 5 and usually within 15 minutes), but the time it takes to fall asleep can vary from night to night.
+Inform patients and/or caregivers that the patient is likely to fall asleep quickly after taking sodium oxybate oral solution(often within 5 and usually within 15 minutes), but the time it takes to fall asleep can vary from night to night.
 The sudden onset of sleep, including in a standing position or while rising from bed, has led to falls complicated by injuries, in some cases requiring hospitalization [see Adverse Reactions (6.2)].
 Instruct patients and/or caregivers that the patient should remain in bed following ingestion of the first and second nightly doses.
 Instruct patients and/or caregivers that the patient should not take their second nightly dose until 2.5 to 4 hours after the first dose [see Dosage and Administration (2.3)].
 
-Food Effects on Sodium oxybate oral solution Inform patients and/or caregivers that the first nightly dose should be taken at least 2 hours after eating.
+Food Effects on Sodium oxybate oral solution
 
-Respiratory Depression and Sleep-Disordered Breathing Inform patients that sodium oxybate oral solution may impair respiratory drive, especially in patients with compromised respiratory function, and may cause apnea [see Warnings and Precautions (5.4)].
+Inform patients and/or caregivers that the first nightly dose should be taken at least 2 hours after eating.
 
-Depression and Suicidality Instruct patients and/or caregivers to contact a healthcare provider immediately if the patient develops depressed mood, markedly diminished interest or pleasure in usual activities, significant change in weight and/or appetite, psychomotor agitation or retardation, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, or suicidal ideation [see Warnings and Precautions (5.5)].
+Respiratory Depression and Sleep-Disordered Breathing
+
+Inform patients that sodium oxybate oral solutionmay impair respiratory drive, especially in patients with compromised respiratory function, and may cause apnea [see Warnings and Precautions (5.4)].
+
+Depression and Suicidality
+
+Instruct patients and/or caregivers to contact a healthcare provider immediately if the patient develops depressed mood, markedly diminished interest or pleasure in usual activities, significant change in weight and/or appetite, psychomotor agitation or retardation, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, or suicidal ideation [see Warnings and Precautions (5.5)].
 
 Other Behavioral or Psychiatric Adverse Reactions
 
-Inform patients and/or caregivers that sodium oxybate oral solution can cause behavioral or psychiatric adverse reactions, including confusion, anxiety, and psychosis.
+Inform patients and/or caregivers that sodium oxybate oral solutioncan cause behavioral or psychiatric adverse reactions, including confusion, anxiety, and psychosis.
 Instruct them to notify their healthcare provider if any of these types of symptoms occur [see Warnings and Precautions (5.6)].
 
 Sleepwalking
 
-Instruct patients and/or caregivers that sodium oxybate oral solution has been associated with sleepwalking and other behaviors during sleep, and to contact their healthcare provider if this occurs [see Warnings and Precautions (5.7)].
+Instruct patients and/or caregivers that sodium oxybate oral solutionhas been associated with sleepwalking and other behaviors during sleep, and to contact their healthcare provider if this occurs [see Warnings and Precautions (5.7)].
 
 Sodium Intake
 
-Instruct patients and/or caregivers that sodium oxybate oral solution contains a significant amount of sodium and patients who are sensitive to sodium intake (e.g., those with heart failure, hypertension, or renal impairment) should limit their sodium intake [see Warnings and Precautions (5.8)].
+Instruct patients and/or caregivers that sodium oxybate oral solutioncontains a significant amount of sodium and patients who are sensitive to sodium intake (e.g., those with heart failure, hypertension, or renal impairment) should limit their sodium intake [see Warnings and Precautions (5.8)].
 
 Manufactured by: Ascent Pharmaceuticals, Inc. Central Islip, NY 11722
 
 Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
 
-Rev: 04/2026
+Rev: 09/2026

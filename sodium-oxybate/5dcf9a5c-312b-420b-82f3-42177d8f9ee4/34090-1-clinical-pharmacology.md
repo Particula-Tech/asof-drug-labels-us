@@ -54,8 +54,9 @@ Results from a pharmacokinetic study (n=20) in another studied population indica
 
 Pediatric Patients
 
-Pediatric use information is approved for Jazz Pharmaceuticals Inc.’s XYREM (sodium oxybate) Oral Solution.
-However, due to Jazz Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The pharmacokinetics of sodium oxybate were evaluated in pediatric patients from 7 to 17 years of age (n=29).
+The pharmacokinetic characteristics of sodium oxybate were shown to be similar in adults and pediatric patients.
+Body weight was found to be the major intrinsic factor affecting oxybate pharmacokinetics.
 
 Male and Female Patients
 

@@ -40,15 +40,18 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of sodium oxybate oral solution in the treatment of cataplexy or excessive daytime sleepiness in pediatric patients (7 years of age and older) with narcolepsy have been established in a double-blind, placebo-controlled, randomized-withdrawal study [see Adverse Reactions (6.1) and Clinical Studies (14.3)].
+
+In the pediatric clinical trial with sodium oxybate oral solution administration in patients with narcolepsy, serious adverse reactions of central sleep apnea and oxygen desaturation documented by polysomnography evaluation; depression; suicidal ideation; neuropsychiatric reactions including acute psychosis, confusion, and anxiety; and parasomnias, including sleepwalking, have been reported [see Warnings and Precautions (5.4, 5.5, 5.6, 5.7) and Adverse Reactions (6.1)].
+
 Safety and effectiveness of sodium oxybate oral solution in pediatric patients below the age of 7 years have not been established.
 
-Juvenile Animal Toxicity Data In a study in which sodium oxybate (0, 100, 300, or 900 mg/kg/day) was orally administered to rats during the juvenile period of development (postnatal days 21 through 90), mortality was observed at the two highest doses tested.
+Juvenile Animal Toxicity Data
+
+In a study in which sodium oxybate (0, 100, 300, or 900 mg/kg/day) was orally administered to rats during the juvenile period of development (postnatal days 21 through 90), mortality was observed at the two highest doses tested.
 Deaths occurred during the first week of dosing and were associated with clinical signs (including decreased activity and respiratory rate) consistent with the pharmacological effects of the drug.
 Reduced body weight gain in males and females and delayed sexual maturation in males were observed at the highest dose tested.
 The no-effect dose for adverse effects in juvenile rats is associated with plasma exposures (AUC) less than that at the maximum recommended human dose (9 g/night).
-
-Pediatric use information is approved for Jazz Pharmaceuticals Inc.’s XYREM (sodium oxybate) Oral Solution.
-However, due to Jazz Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 

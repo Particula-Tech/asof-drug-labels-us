@@ -31,7 +31,7 @@ Sodium oxybate oral solution is available only through a restricted distribution
 
 Notable requirements of the Sodium Oxybate REMS Program include the following:
 
-- Healthcare Providers who prescribe sodium oxybate are specially certified
+- Healthcare Providers who prescribe sodium oxybate oral solution are specially certified
 - Sodium oxybate oral solution will be dispensed only by the certified pharmacy that is specially certified
 - Sodium oxybate oral solution will be dispensed and shipped only to patients who are enrolled in the Sodium Oxybate REMS Program with documentation of safe use
 
@@ -48,7 +48,9 @@ One of the four patients with preexisting, moderate-to-severe sleep apnea had si
 In an adult study assessing the effects of sodium oxybate oral solution 9 g per night in 50 patients with obstructive sleep apnea, sodium oxybate oral solution did not increase the severity of sleep-disordered breathing and did not adversely affect the average duration and severity of oxygen desaturation overall.
 However, there was a significant increase in the number of central apneas in patients taking sodium oxybate oral solution, and clinically significant oxygen desaturation (≤ 55%) was measured in three patients (6%) after sodium oxybate oral solution administration, with one patient withdrawing from the study and two continuing after single brief instances of desaturation.
 
-Prescribers should be aware that increased central apneas and clinically relevant desaturation events have been observed with sodium oxybate oral solution administration in adult patients.
+During polysomnographic evaluation (PSG), central sleep apnea and oxygen desaturation were observed in pediatric patients with narcolepsy treated with sodium oxybate oral solution.
+
+Prescribers should be aware that increased central apneas and clinically relevant desaturation events have been observed with sodium oxybate oral solution administration in adult and pediatric patients.
 
 In adult clinical trials in 128 patients with narcolepsy, two subjects had profound CNS depression, which resolved after supportive respiratory intervention.
 Two other patients discontinued sodium oxybate because of severe difficulty breathing and an increase in obstructive sleep apnea.
@@ -56,9 +58,6 @@ In two controlled trials assessing PSG measures in adult patients with narcoleps
 None of the 40 patients had a clinically significant worsening of respiratory function as measured by apnea/hypopnea index and pulse oximetry at doses of 4.5 g to 9 g per night.
 
 Prescribers should be aware that sleep-related breathing disorders tend to be more prevalent in obese patients, in men, in postmenopausal women not on hormone replacement therapy and among patients with narcolepsy.
-
-Pediatric use information is approved for Jazz Pharmaceuticals Inc.’s XYREM (sodium oxybate) Oral Solution.
-However, due to Jazz Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 5.5 Depression and Suicidality
 
@@ -71,11 +70,10 @@ In most cases, no change in sodium oxybate oral solution treatment was required.
 In a controlled adult trial, with patients randomized to fixed doses of 3 g, 6 g, or 9 g per night sodium oxybate oral solution or placebo, there was a single event of depression at the 3 g per night dose.
 In another adult controlled trial, with patients titrated from an initial 4.5 g per night starting dose, the incidences of depression were 1 (1.7%), 1 (1.5%), 2 (3.2%), and 2 (3.6%) for the placebo, 4.5 g, 6 g, and 9 g per night doses, respectively.
 
+In the pediatric clinical trial in patients with narcolepsy (n=104), one patient experienced suicidal ideation and two patients reported depression while taking sodium oxybate oral solution.
+
 The emergence of depression in patients treated with sodium oxybate oral solution requires careful and immediate evaluation.
 Patients with a previous history of a depressive illness and/or suicide attempt should be monitored carefully for the emergence of depressive symptoms while taking sodium oxybate oral solution.
-
-Pediatric use information is approved for Jazz Pharmaceuticals Inc.’s XYREM (sodium oxybate) Oral Solution.
-However, due to Jazz Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 5.6 Other Behavioral or Psychiatric Adverse Reactions
 
@@ -92,10 +90,9 @@ Anxiety occurred in 5.8% of the 874 patients receiving sodium oxybate oral solut
 
 Other neuropsychiatric reactions reported in adult clinical trials in patients with narcolepsy and the post-marketing setting included hallucinations, paranoia, psychosis, aggression, and agitation.
 
-The emergence or increase in the occurrence of behavioral or psychiatric events in adult patients taking sodium oxybate oral solution should be carefully monitored.
+In the pediatric clinical trial in patients with narcolepsy, neuropsychiatric reactions, including acute psychosis, confusion, and anxiety, were reported while taking sodium oxybate oral solution.
 
-Pediatric use information is approved for Jazz Pharmaceuticals Inc.’s XYREM (sodium oxybate) Oral Solution.
-However, due to Jazz Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The emergence or increase in the occurrence of behavioral or psychiatric events in adult and pediatric patients taking sodium oxybate oral solution should be carefully monitored.
 
 ## 5.7 Parasomnias
 
@@ -104,11 +101,8 @@ Rates of sleepwalking were similar for patients taking placebo and patients taki
 It is unclear if some or all of the reported sleepwalking episodes correspond to true somnambulism, which is a parasomnia occurring during non-REM sleep, or to any other specific medical disorder.
 Five instances of sleepwalking with potential injury or significant injury were reported during a clinical trial of sodium oxybate oral solution in patients with narcolepsy.
 
-Parasomnias, including sleepwalking, also have been reported in postmarketing experience with sodium oxybate oral solution.
+Parasomnias, including sleepwalking, also have been reported in the pediatric clinical trial and in postmarketing experience with sodium oxybate oral solution.
 Therefore, episodes of sleepwalking should be fully evaluated and appropriate interventions considered.
-
-Pediatric use information is approved for Jazz Pharmaceuticals Inc.’s XYREM (sodium oxybate) Oral Solution.
-However, due to Jazz Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 5.8 Use in Patients Sensitive to High Sodium Intake
 
