@@ -4,7 +4,7 @@ CLINDAGEL containing clindamycin phosphate equivalent to 10 mg clindamycin per g
 
 75 mL bottle - NDC 16781-462-75
 
-Store at controlled room temperature 20°to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F).
+Store at controlled room temperature 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F).
 Do not store in direct sunlight.
 
 Retain in carton until contents are used.
