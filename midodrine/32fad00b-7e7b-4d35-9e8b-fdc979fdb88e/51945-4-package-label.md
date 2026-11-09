@@ -19,13 +19,15 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-Mylan.com
+Viatris.com
 
-3509/0 RALP1901A
+3509/1
+
+RALP1901A1
 
 # PRINCIPAL DISPLAY PANEL - 5 mg
 
@@ -48,13 +50,15 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-Mylan.com
+Viatris.com
 
-3510/0 RALP1902A
+3510/1
+
+RALP1902A1
 
 # PRINCIPAL DISPLAY PANEL - 10 mg
 
@@ -77,8 +81,12 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-Mylan.com
+Made in Australia
 
-3511/0 RALP1903A
+Viatris.com
+
+3511/1
+
+RALP1903A1

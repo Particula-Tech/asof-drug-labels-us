@@ -22,8 +22,8 @@ Store at 20° to 25°C (68° to 77°F).
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-Manufactured by: ALPHAPHARM PTY LTD 15 Garnet Street Carole Park QLD 4300 Australia
+Revised: 10/2026
 
-Revised: 9/2022 ALP:MIDO:R2 3512/1
+ALP:MIDO:R3
