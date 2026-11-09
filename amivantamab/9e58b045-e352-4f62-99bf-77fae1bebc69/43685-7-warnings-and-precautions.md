@@ -11,9 +11,17 @@ RYBREVANT FASPRO (Subcutaneous Amivantamab) with Lazertinib
 In PALOMA-3 [see Adverse Reactions (6.1)], in the 206 patients who received RYBREVANT FASPRO in combination with lazertinib, all Grade ARR occurred in 13%, including 0.5% Grade 3.
 Of the patients who experienced ARR, 89% occurred with the initial dose (Week 1, Day 1).
 
+RYBREVANT FASPRO (Subcutaneous Amivantamab) as a Single Agent
+
+In OrigAMI-4 [see Adverse Reactions (6.1)], in the 132 patients who received RYBREVANT FASPRO as a single agent, all Grade ARR occurred in 16%.
+All reactions were Grade 1 or 2.
+Of the patients who experienced ARR, 91% occurred with the initial dose (Week 1, Day 1).
+
 Premedicate with antihistamines, antipyretics, and glucocorticoids and administer RYBREVANT FASPRO as recommended [see Dosage and Administration (2.4)].
 
-Monitor patients for any signs and symptoms of administration-related reactions during injection in a setting where cardiopulmonary resuscitation medication and equipment are available.
+Monitor patients for any signs and symptoms of administration-related reactions (ARR) during injection in a setting where cardiopulmonary resuscitation medication and equipment are available.
+For the first dose, monitor patients for hypersensitivity and administration-related reactions for 2 to 4 hours following the end of injection.
+
 Interrupt RYBREVANT FASPRO injection, if ARR is suspected.
 Resume treatment upon resolution of symptoms or permanently discontinue RYBREVANT FASPRO based on severity [see Dosage and Administration (2.8)].
 
@@ -25,6 +33,11 @@ RYBREVANT FASPRO (Subcutaneous Amivantamab) with Lazertinib
 
 In PALOMA-3 [see Adverse Reactions (6.1)], in 206 patients who received RYBREVANT FASPRO in combination with lazertinib, ILD/pneumonitis occurred in 6%, including Grade 3 in 1%, Grade 4 in 1.5%, and fatal cases in 1.9%.
 In total, 5% of patients permanently discontinued RYBREVANT FASPRO and lazertinib due to ILD/pneumonitis.
+
+RYBREVANT FASPRO (Subcutaneous Amivantamab) as a Single Agent
+
+In OrigAMI-4 [see Adverse Reactions (6.1)], in 132 patients who received RYBREVANT FASPRO as a single agent, ILD/pneumonitis occurred in 1.5%, including one fatal case (0.8%).
+All of these patients permanently discontinued RYBREVANT FASPRO due to ILD/pneumonitis.
 
 Intravenous Amivantamab with Lazertinib
 
@@ -44,7 +57,7 @@ Three patients (1%) permanently discontinued intravenous amivantamab due to ILD/
 Monitor patients for new or worsening symptoms indicative of ILD/pneumonitis (e.g., dyspnea, cough, fever).
 Immediately withhold RYBREVANT FASPRO in patients with suspected ILD/pneumonitis and permanently discontinue if ILD/pneumonitis is confirmed [see Dosage and Administration (2.8)].
 
-## 5.3 Venous Thromboembolic (VTE) Events with Concomitant Use with Lazertinib
+## 5.3 Venous Thromboembolic Events with Concomitant Use with Lazertinib
 
 RYBREVANT FASPRO in combination with lazertinib can cause serious and fatal venous thromboembolic (VTE) events, including deep vein thrombosis and pulmonary embolism.
 Without prophylactic anticoagulation, the majority of these events occurred during the first four months of therapy [see Adverse Reactions (6.1)].
@@ -84,6 +97,11 @@ RYBREVANT FASPRO (Subcutaneous Amivantamab) with Lazertinib
 In PALOMA-3 [see Adverse Reactions (6.1)], in the 206 patients who received RYBREVANT FASPRO in combination with lazertinib, rash occurred in 80% of patients, including Grade 3 in 17% and Grade 4 in 0.5%.
 Rash leading to dose reduction occurred in 11% of patients, and RYBREVANT FASPRO was permanently discontinued due to rash in 1.5% of patients.
 
+RYBREVANT FASPRO (Subcutaneous Amivantamab) as a Single Agent
+
+In OrigAMI-4 [see Adverse Reactions (6.1)], in the 132 patients who received RYBREVANT FASPRO as a single agent, rash occurred in 81% of patients, including Grade 3 in 11% and Grade 4 in 0.8%.
+Rash leading to dose reduction occurred in 11% of patients, and RYBREVANT FASPRO was permanently discontinued due to rash in 3.0% of patients.
+
 Intravenous Amivantamab with Lazertinib
 
 In MARIPOSA [see Adverse Reactions (6.1)], in 421 patients who received intravenous amivantamab in combination with lazertinib, rash occurred in 86%, including 26% Grade 3.
@@ -118,6 +136,12 @@ RYBREVANT FASPRO can cause ocular toxicity including keratitis, blepharitis, dry
 RYBREVANT FASPRO (Subcutaneous Amivantamab) with Lazertinib
 
 In PALOMA-3 [see Adverse Reactions (6.1)], in the 206 patients who received RYBREVANT FASPRO in combination with lazertinib, all Grade ocular toxicity occurred in 13%, including 0.5% Grade 3.
+Keratitis occurred in one patient (0.5%).
+
+RYBREVANT FASPRO (Subcutaneous Amivantamab) as a Single Agent
+
+In OrigAMI-4 [see Adverse Reactions (6.1)], in the 132 patients who received RYBREVANT FASPRO as a single agent, ocular toxicity occurred in 11%, including 0.8% Grade 4.
+Keratitis occurred in one patient (0.8%).
 
 Intravenous Amivantamab with Lazertinib
 
@@ -126,19 +150,19 @@ In MARIPOSA [see Adverse Reactions (6.1)], in 421 patients treated with intraven
 Intravenous Amivantamab with Carboplatin and Pemetrexed
 
 Based on the pooled safety population [see Adverse Reactions (6.1)], in 281 patients who received intravenous amivantamab in combination with carboplatin and pemetrexed, ocular toxicity occurred in 16%.
-All events were Grade 1 or 2.
+All reactions were Grade 1 or 2.
 
 Intravenous Amivantamab as a Single Agent
 
 In CHRYSALIS [see Adverse Reactions (6.1)], in 302 patients treated with intravenous amivantamab, keratitis occurred in 0.7% and uveitis occurred in 0.3%.
-All events were Grade 1– 2.
+All reactions were Grade 1 or 2.
 
 Promptly refer patients presenting with new or worsening eye symptoms to an ophthalmologist.
 Withhold, dose reduce or permanently discontinue RYBREVANT FASPRO based on severity [see Dosage and Administration (2.8)].
 
 ## 5.6 Embryo-Fetal Toxicity
 
-Based on its mechanism of action and findings from animal models, RYBREVANT FASPRO can cause fetal harm when administered to a pregnant woman.
+Based on its mechanism of action [see Clinical Pharmacology (12.1)] and findings from animal models, RYBREVANT FASPRO can cause fetal harm when administered to a pregnant woman.
 Administration of other EGFR inhibitor molecules to pregnant animals has resulted in an increased incidence of impairment of embryo-fetal development, embryo lethality, and abortion.
 Verify pregnancy status of females of reproductive potential prior to initiating RYBREVANT FASPRO.
 Advise pregnant women and females of reproductive potential of the potential risk to the fetus.

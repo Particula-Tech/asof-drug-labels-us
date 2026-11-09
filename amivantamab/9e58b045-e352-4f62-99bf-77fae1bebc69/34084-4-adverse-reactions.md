@@ -20,6 +20,14 @@ Among 206 patients who received RYBREVANT FASPRO in combination with lazertinib,
 The most common adverse reactions (≥ 20%) were rash, nail toxicity, musculoskeletal pain, fatigue, stomatitis, edema, nausea, diarrhea, vomiting, constipation, decreased appetite, and headache.
 The most common Grade 3 or 4 laboratory abnormalities (≥ 2%) were decreased lymphocyte count, decreased sodium, decreased potassium, decreased albumin, increased alanine aminotransferase, increased aspartate aminotransferase, decreased platelet count, increased gamma-glutamyl transferase, and decreased hemoglobin.
 
+RYBREVANT FASPRO as a Single Agent
+
+The safety population described in the WARNINGS AND PRECAUTIONS reflect exposure to RYBREVANT FASPRO as a single agent in 132 patients with recurrent or metastatic HNSCC in the OrigAMI-4 trial [see Clinical Studies (14.5)].
+Patients received RYBREVANT FASPRO as a single agent at the recommended dosage until disease progression or unacceptable toxicity [see Dosage and Administration (2.3)].
+Among patients who received RYBREVANT FASPRO, 44% were exposed for 6 months or longer and 6% were exposed for greater than one year.
+The most common adverse reactions (≥ 20%) were rash, fatigue, nail toxicity, stomatitis, and edema.
+The most common Grade 3 or 4 laboratory abnormalities (≥ 2%) were decreased lymphocytes, decreased potassium, decreased hemoglobin, increased alanine aminotransferase, decreased albumin, decreased sodium, increased aspartate aminotransferase and decreased white blood cells.
+
 Intravenous Amivantamab in Combination with Lazertinib
 
 The data described in the WARNINGS AND PRECAUTIONS also reflect exposure to intravenous amivantamab in combination with lazertinib in the MARIPOSA study in 421 patients with previously untreated locally advanced or metastatic NSCLC whose tumors have EGFR exon 19 deletions or exon 21 L858R substitution mutations [see Clinical Studies (14.1)].
@@ -32,8 +40,9 @@ Intravenous Amivantamab in Combination with Carboplatin and Pemetrexed
 
 The pooled safety population described in the WARNINGS AND PRECAUTIONS also reflect exposure to intravenous amivantamab in combination with carboplatin and pemetrexed in 281 patients in two studies:
 
-- MARIPOSA-2 [see Clinical Studies (14.2)] in 130 patients with previously treated locally advanced or metastatic NSCLC with EGFR exon 19 deletions or exon 21 L858R substitution mutations whose disease has progressed on or after treatment with osimertinib.
-- PAPILLON [see Clinical Studies (14.3)] in 151 patients with previously untreated, locally advanced or metastatic NSCLC with EGFR exon 20 insertion mutations.
+MARIPOSA-2 [see Clinical Studies (14.2)] in 130 patients with previously treated locally advanced or metastatic NSCLC with EGFR exon 19 deletions or exon 21 L858R substitution mutations whose disease has progressed on or after treatment with osimertinib.
+
+PAPILLON [see Clinical Studies (14.3)] in 151 patients with previously untreated, locally advanced or metastatic NSCLC with EGFR exon 20 insertion mutations.
 
 Patients received intravenous amivantamab at 1,400 mg (for patients < 80 kg) or 1,750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1,750 mg (for patients < 80 kg) or 2,100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity, in combination with carboplatin at area under the curve AUC 5 once every 3 weeks, for up to 12 weeks, and pemetrexed at 500 mg/m2 once every 3 weeks until disease progression or unacceptable toxicity.
 Among 281 patients who received intravenous amivantamab in combination with carboplatin and pemetrexed, 65% were exposed for 6 months or longer and 24% were exposed for greater than one year.
@@ -50,9 +59,9 @@ The most common Grade 3 to 4 laboratory abnormalities (≥ 2%) were increased ga
 
 Subcutaneous RYBREVANT FASPRO
 
-Previously Treated NSCLC with EGFR Exon 19 Deletions or Exon 21 L858R Substitution Mutations – RYBREVANT FASPRO In Combination with Lazertinib
+Previously Treated NSCLC with EGFR Exon 19 Deletions or Exon 21 L858R Substitution Mutations – RYBREVANT FASPRO in Combination with Lazertinib
 
-PALOMA-3 (Every 2-week dosing)
+PALOMA-3
 
 The safety of RYBREVANT FASPRO in combination with lazertinib was evaluated in the PALOMA-3 study [see Clinical Pharmacology (12.3)].
 Eligible patients were required to have locally advanced or metastatic NSCLC whose tumors have either an EGFR exon 19 deletion or an exon 21 L858R substitution mutation and whose disease has progressed on prior treatment with osimertinib and platinum-based chemotherapy.
@@ -75,9 +84,9 @@ Adverse reactions requiring RYBREVANT FASPRO dose interruption in ≥ 5% of pati
 Dose reductions of RYBREVANT FASPRO due to an adverse reaction occurred in 20% of patients.
 Adverse reactions requiring RYBREVANT FASPRO dose reductions in ≥ 5% of patients were rash (11%) and nail toxicity (8%).
 
-Table 10 summarizes the adverse reactions (≥ 10%) in PALOMA-3.
+Table 11 summarizes the adverse reactions (≥ 10%) in PALOMA-3.
 
-Table 10: Adverse Reactions (≥ 10%) in Patients with Previously Treated NSCLC with EGFR Exon 19 Deletions or Exon 21 L858R Substitution Mutations Who Received RYBREVANT FASPRO in Combination with Lazertinib in PALOMA-3
+Table 11: Adverse Reactions (≥ 10%) in Patients with Previously Treated NSCLC with EGFR Exon 19 Deletions or Exon 21 L858R Substitution Mutations Who Received RYBREVANT FASPRO in Combination with Lazertinib in PALOMA-3
 
 | All Grades (%) | Grades 3 or 4 (%) | All Grades (%) | Grades 3 or 4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -115,9 +124,9 @@ Table 10: Adverse Reactions (≥ 10%) in Patients with Previously Treated NSCLC 
 
 Clinically relevant adverse reactions in < 10% of patients who received RYBREVANT FASPRO in combination with lazertinib not included in the table above were abdominal pain, hemorrhoids, ILD/pneumonitis, and skin ulcer.
 
-Table 11 summarizes the laboratory abnormalities in PALOMA-3.
+Table 12 summarizes the laboratory abnormalities in PALOMA-3.
 
-Table 11: Select Laboratory Abnormalities (≥ 20%) that Worsened from Baseline in Patients with NSCLC with EGFR Exon 19 Deletions or Exon 21 L858R Substitution Mutations in PALOMA-3The denominator used to calculate the rate is the number of patients with a baseline value and at least one post-treatment value for the specific lab test.
+Table 12: Select Laboratory Abnormalities (≥ 20%) that Worsened from Baseline in Patients with NSCLC with EGFR Exon 19 Deletions or Exon 21 L858R Substitution Mutations in PALOMA-3The denominator used to calculate the rate is the number of patients with a baseline value and at least one post-treatment value for the specific lab test.
 
 | All Grades (%) | Grades 3 or 4 (%) | All Grades (%) | Grades 3 or 4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -137,6 +146,83 @@ Table 11: Select Laboratory Abnormalities (≥ 20%) that Worsened from Baseline 
 | Decreased Platelet Count | 37 | 2.4 | 42 | 1.9 |
 | Decreased White Blood Cell | 36 | 0.5 | 31 | 0.5 |
 | Decreased Hemoglobin | 34 | 2 | 36 | 2.4 |
+
+Previously Treated HNSCC – RYBREVANT FASPRO as a Single Agent
+
+OrigAMI-4
+
+The safety of RYBREVANT FASPRO was evaluated in 102 patients with recurrent or metastatic HNSCC in OrigAMI-4 [see Clinical Studies (14.5)].
+Patients received RYBREVANT FASPRO as a single agent at the recommended dosage every 3 weeks until disease progression or unacceptable toxicity [see Dosage and Administration (2.3)].
+Among patients who received RYBREVANT FASPRO, 50% were exposed for 6 months or longer and 8% were exposed for greater than one year.
+
+The median age was 63 (range: 30 to 81) years; 77% were male; 44% were Asian, 41% were White, 1% were Black or African American, 14% had race unknown or not reported; and 1% were of Hispanic or Latino ethnicity.
+
+Serious adverse reactions occurred in 39% of patients who received RYBREVANT FASPRO.
+Serious adverse reactions in ≥2% of patients included pneumonia (8%), hemorrhage (4.9%), dysphagia (2.9%), pneumothorax (2.9%), anemia (2%), dyspnea (2%), fatigue (2%), hepatic enzyme increased (2%), and ILD/pneumonitis (2%).
+Fatal adverse reactions occurred in 6% of patients who received RYBREVANT FASPRO including sudden death (2%), myocardial ischemia, tumor hemorrhage, aspiration pneumonia, and ILD/pneumonitis (1%, 1 patient each).
+
+Permanent discontinuations of RYBREVANT FASPRO due to an adverse reaction occurred in 17% of patients.
+Adverse reactions leading to RYBREVANT FASPRO discontinuation in ≥ 1% of patients were pneumonia (3.9%), rash (2.9%), sudden death and ILD/pneumonitis (2% each), and cardiac arrest, tumor hemorrhage, increased blood alkaline phosphatase, myocardial ischemia, nail toxicity, post-procedural hemorrhage, skin infection, stomatitis, and wound infection (1% each).
+
+Dose interruptions of RYBREVANT FASPRO due to an adverse reaction occurred in 51% of patients.
+Adverse reactions requiring RYBREVANT FASPRO dose interruption in ≥ 5% of patients were rash (14%) and stomatitis (6%).
+
+Dose reductions of RYBREVANT FASPRO due to an adverse reaction occurred in 23% of patients.
+An adverse reaction requiring RYBREVANT FASPRO dose reduction in ≥ 5% of patients was rash (11%).
+
+Table 13 summarizes the adverse reactions in OrigAMI-4.
+
+Table 13: Adverse Reactions (≥ 10%) in Patients with Previously Treated, Recurrent or Metastatic HNSCC, excluding HPV-associated OPSCC, who Received RYBREVANT FASPRO in OrigAMI-4
+
+| All Grades (%) | Grades 3 or 4 (%) |  |  |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reactions |  | RYBREVANT FASPRO (N=102) |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+| RashGrouped terms |  | 79 | 13 |  |
+| Nail toxicity |  | 35 | 2 |  |
+| Dry skin |  | 16 | 0 |  |
+| Pruritus |  | 15 | 2 |  |
+| General disorders and administration site conditions |  |  |  |  |
+| Fatigue |  | 39 | 3.9 |  |
+| Edema |  | 28 | 1 |  |
+| Gastrointestinal disorders |  |  |  |  |
+| Stomatitis |  | 32 | 2.9 |  |
+| Nausea |  | 17 | 0 |  |
+| Diarrhea |  | 16 | 0 |  |
+| Constipation |  | 10 | 0 |  |
+| Injury, poisoning, and procedural complications |  |  |  |  |
+| Administration-related reactions |  | 15 | 0 |  |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Decreased appetite |  | 15 | 0 |  |
+| Infections and infestations |  |  |  |  |
+| Pneumonia |  | 14 | 6 |  |
+| Nervous system disorders |  |  |  |  |
+| Dizziness | 14 |  |  | 2 |
+| Eye disorders |  |  |  |  |
+| Ocular toxicity | 13 |  |  | 1 |
+
+Clinically relevant adverse reactions in < 10% of patients who received RYBREVANT FASPRO were vomiting, cough, hypotension, muscle spasms, aspiration, ILD/pneumonitis, skin ulcer, and local injection site reactions.
+
+Table 14 summarizes the laboratory abnormalities in OrigAMI-4.
+
+Table 14: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients with Previously Treated, Recurrent or Metastatic HNSCC, excluding HPV-associated OPSCC, in OrigAMI-4The denominator used to calculate the rate is the number of patients with a baseline value and at least one post-treatment value for the specific lab test.
+
+| All Grades (%) | Grades 3 or 4 (%) |  |
+| --- | --- | --- |
+| Laboratory Abnormality | RYBREVANT FASPRO (N=102) |  |
+| Chemistry |  |  |
+| Decreased albumin | 88 | 4.9 |
+| Increased aspartate aminotransferase | 43 | 3.9 |
+| Increased alanine aminotransferase | 42 | 4.9 |
+| Decreased magnesium | 37 | 0 |
+| Increased alkaline phosphatase | 35 | 1 |
+| Decreased sodium | 33 | 4.9 |
+| Decreased potassium | 25 | 9 |
+| Increased gamma glutamyl transferase | 20 | 1 |
+| Hematology |  |  |
+| Decreased lymphocyte count | 50 | 26 |
+| Decreased hemoglobin | 27 | 6 |
+| Decreased white blood cells | 21 | 2 |
 
 Clinical Trials Experience of Amivantamab Intravenous Formulation
 
@@ -168,9 +254,9 @@ Adverse reactions requiring dose reductions in ≥ 5% of patients were rash and 
 The most common adverse reactions (≥ 20%) were rash, nail toxicity, infusion-related reaction, musculoskeletal pain, stomatitis, edema, VTE, paresthesia, fatigue, diarrhea, constipation, COVID-19, hemorrhage, dry skin, decreased appetite, pruritus, and nausea.
 The most common Grade 3 or 4 laboratory abnormalities (≥ 2%) were decreased albumin, decreased sodium, increased ALT, decreased potassium, decreased hemoglobin, increased AST, increased GGT, and increased magnesium.
 
-Table 12 summarizes the adverse reactions (≥ 10%) in MARIPOSA.
+Table 15 summarizes the adverse reactions (≥ 10%) in MARIPOSA.
 
-Table 12: Adverse Reactions (≥ 10%) in Patients with NSCLC with Exon 19 Deletion or Exon 21 L858R Substitution Mutations in MARIPOSA
+Table 15: Adverse Reactions (≥ 10%) in Patients with NSCLC with Exon 19 Deletion or Exon 21 L858R Substitution Mutations in MARIPOSA
 
 | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -218,9 +304,9 @@ Table 12: Adverse Reactions (≥ 10%) in Patients with NSCLC with Exon 19 Deleti
 
 Clinically relevant adverse reactions in < 10% of patients who received intravenous amivantamab in combination with lazertinib included skin ulcer and ILD/pneumonitis.
 
-Table 13 summarizes the laboratory abnormalities in MARIPOSA.
+Table 16 summarizes the laboratory abnormalities in MARIPOSA.
 
-Table 13: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients with NSCLC with EGFR Exon 19 Deletion or Exon 21 L858R Substitution Mutations in MARIPOSAThe denominator used to calculate the rate is the number of patients with a baseline value and at least one post-treatment value for the specific lab test.
+Table 16: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients with NSCLC with EGFR Exon 19 Deletion or Exon 21 L858R Substitution Mutations in MARIPOSAThe denominator used to calculate the rate is the number of patients with a baseline value and at least one post-treatment value for the specific lab test.
 
 | Laboratory Abnormality | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- | --- | --- |
@@ -272,9 +358,9 @@ Adverse reactions requiring dose reductions in ≥ 2% of patients included rash.
 
 The most common adverse reactions ≥ 20% were rash, infusion-related reactions, fatigue, nail toxicity, nausea, constipation, edema, stomatitis, decreased appetite, musculoskeletal pain, vomiting, and COVID-19.
 
-Table 14 summarizes the adverse reactions in MARIPOSA-2.
+Table 17 summarizes the adverse reactions in MARIPOSA-2.
 
-Table 14: Adverse Reactions (≥ 10%) in Previously Treated Patients with NSCLC with EGFR Exon 19 Deletions or Exon 21 L858R Substitution Mutations Treated with Intravenous Amivantamab in Combination with Carboplatin and Pemetrexed in MARIPOSA-2
+Table 17: Adverse Reactions (≥ 10%) in Previously Treated Patients with NSCLC with EGFR Exon 19 Deletions or Exon 21 L858R Substitution Mutations Treated with Intravenous Amivantamab in Combination with Carboplatin and Pemetrexed in MARIPOSA-2
 
 | Adverse Reaction | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- | --- | --- |
@@ -312,9 +398,9 @@ Table 14: Adverse Reactions (≥ 10%) in Previously Treated Patients with NSCLC 
 
 Clinically relevant adverse reactions in < 10% of patients who received intravenous amivantamab in combination with carboplatin and pemetrexed include: abdominal pain, hemorrhoids, dizziness, visual impairment, trichomegaly, keratitis, interstitial lung disease, and skin ulcer.
 
-Table 15 summarizes the laboratory abnormalities in MARIPOSA-2.
+Table 18 summarizes the laboratory abnormalities in MARIPOSA-2.
 
-Table 15: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients with NSCLC with EGFR Exon 19 Deletions or Exon 21 L858R Substitution Mutations Treated with Intravenous Amivantamab in Combination with Carboplatin and Pemetrexed in MARIPOSA-2
+Table 18: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients with NSCLC with EGFR Exon 19 Deletions or Exon 21 L858R Substitution Mutations Treated with Intravenous Amivantamab in Combination with Carboplatin and Pemetrexed in MARIPOSA-2
 
 | Laboratory Abnormality | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- | --- | --- |
@@ -363,9 +449,9 @@ Adverse reactions requiring dose reductions in ≥ 5% of patients included rash 
 The most common adverse reactions (≥ 20%) were rash, nail toxicity, stomatitis, infusion-related reaction, fatigue, edema, constipation, decreased appetite, nausea, COVID-19, diarrhea, and vomiting.
 The most common Grade 3 to 4 laboratory abnormalities (≥ 2%) were decreased albumin, increased alanine aminotransferase, increased gamma-glutamyl transferase, decreased sodium, decreased potassium, decreased magnesium, and decreases in white blood cells, hemoglobin, neutrophils, platelets, and lymphocytes.
 
-Table 16 summarizes the adverse reactions in PAPILLON.
+Table 19 summarizes the adverse reactions in PAPILLON.
 
-Table 16: Adverse Reactions (≥ 10%) in Patients with Metastatic NSCLC with Exon 20 Insertion Mutations Who Received Intravenous Amivantamab in Combination with Carboplatin and Pemetrexed in PAPILLON
+Table 19: Adverse Reactions (≥ 10%) in Patients with Metastatic NSCLC with Exon 20 Insertion Mutations Who Received Intravenous Amivantamab in Combination with Carboplatin and Pemetrexed in PAPILLON
 
 | Adverse ReactionAdverse reactions were graded using CTCAE version 5.0 | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- | --- | --- |
@@ -406,9 +492,9 @@ Table 16: Adverse Reactions (≥ 10%) in Patients with Metastatic NSCLC with Exo
 
 Clinically relevant adverse reactions in < 10% of patients who received intravenous amivantamab in combination with carboplatin and pemetrexed included pulmonary embolism, deep vein thrombosis, skin ulcer, conjunctivitis, and interstitial lung disease (ILD)/pneumonitis.
 
-Table 17 summarizes the laboratory abnormalities in PAPILLON.
+Table 20 summarizes the laboratory abnormalities in PAPILLON.
 
-Table 17: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients with Metastatic NSCLC with EGFR Exon 20 Insertion Mutations Who Received Intravenous Amivantamab in Combination with Carboplatin and Pemetrexed in PAPILLON
+Table 20: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients with Metastatic NSCLC with EGFR Exon 20 Insertion Mutations Who Received Intravenous Amivantamab in Combination with Carboplatin and Pemetrexed in PAPILLON
 
 | Laboratory AbnormalityAdverse reactions were graded using CTCAE version 5.0 | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- | --- | --- |
@@ -457,51 +543,51 @@ Adverse reactions requiring dose reductions in ≥ 2% of patients included rash 
 The most common adverse reactions (≥ 20%) were rash, IRR, paronychia, musculoskeletal pain, dyspnea, nausea, fatigue, edema, stomatitis, cough, constipation, and vomiting.
 The most common Grade 3 to 4 laboratory abnormalities (≥ 2%) were decreased lymphocytes, decreased albumin, decreased phosphate, decreased potassium, increased glucose, increased alkaline phosphatase, increased gamma-glutamyl transferase, and decreased sodium.
 
-Table 18 summarizes the adverse reactions in CHRYSALIS.
+Table 21 summarizes the adverse reactions in CHRYSALIS.
 
-Table 18: Adverse Reactions (≥ 10%) in Patients with NSCLC with Exon 20 Insertion Mutations Whose Disease Has Progressed on or after Platinum-based Chemotherapy and Received Intravenous Amivantamab in CHRYSALIS
+Table 21: Adverse Reactions (≥ 10%) in Patients with NSCLC with Exon 20 Insertion Mutations Whose Disease Has Progressed on or after Platinum-based Chemotherapy and Received Intravenous Amivantamab in CHRYSALIS
 
-| All Grades (%) | Grades 3 or 4 (%) |  |
-| --- | --- | --- |
-| Adverse Reactions | Intravenous AmivantamabAdverse reactions were graded using CTCAE version 4.03 (N=129) |  |
-| Skin and subcutaneous tissue disorders |  |  |
-| RashGrouped term | 84 | 3.9 |
-| Pruritus | 18 | 0 |
-| Dry skin | 14 | 0 |
-| General disorders and administration site conditions |  |  |
-| Infusion-related reaction | 64 | 3.1 |
-| Fatigue | 33 | 2.3 |
-| Edema | 27 | 0.8 |
-| Pyrexia | 13 | 0 |
-| Infections and infestations |  |  |
-| Paronychia | 50 | 3.1 |
-| Pneumonia | 10 | 0.8 |
-| Musculoskeletal and connective tissue disorders |  |  |
-| Musculoskeletal pain | 47 | 0 |
-| Respiratory, thoracic, and mediastinal disorders |  |  |
-| Dyspnea | 37 | 2.3 |
-| Cough | 25 | 0 |
-| Gastrointestinal disorders |  |  |
-| Nausea | 36 | 0 |
-| Stomatitis | 26 | 0.8 |
-| Constipation | 23 | 0 |
-| Vomiting | 22 | 0 |
-| Diarrhea | 16 | 3.1 |
-| Abdominal Pain | 11 | 0.8 |
-| Vascular disorders |  |  |
-| Hemorrhage | 19 | 0 |
-| Metabolism and nutrition disorders |  |  |
-| Decreased appetite | 15 | 0 |
-| Nervous system disorders |  |  |
-| Peripheral neuropathy | 13 | 0 |
-| Dizziness | 12 | 0.8 |
-| Headache | 10 | 0.8 |
+| All Grades (%) | Grades 3 or 4 (%) |  |  |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reactions |  | Intravenous AmivantamabAdverse reactions were graded using CTCAE version 4.03 (N=129) |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+| RashGrouped term |  | 84 | 3.9 |  |
+| Pruritus |  | 18 | 0 |  |
+| Dry skin |  | 14 | 0 |  |
+| General disorders and administration site conditions |  |  |  |  |
+| Infusion-related reaction |  | 64 | 3.1 |  |
+| Fatigue |  | 33 | 2.3 |  |
+| Edema |  | 27 | 0.8 |  |
+| Pyrexia |  | 13 | 0 |  |
+| Infections and infestations |  |  |  |  |
+| Paronychia |  | 50 | 3.1 |  |
+| Pneumonia |  | 10 | 0.8 |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Musculoskeletal pain |  | 47 | 0 |  |
+| Respiratory, thoracic, and mediastinal disorders |  |  |  |  |
+| Dyspnea |  | 37 | 2.3 |  |
+| Cough |  | 25 | 0 |  |
+| Gastrointestinal disorders |  |  |  |  |
+| Nausea |  | 36 | 0 |  |
+| Stomatitis |  | 26 | 0.8 |  |
+| Constipation |  | 23 | 0 |  |
+| Vomiting |  | 22 | 0 |  |
+| Diarrhea |  | 16 | 3.1 |  |
+| Abdominal Pain |  | 11 | 0.8 |  |
+| Vascular disorders |  |  |  |  |
+| Hemorrhage |  | 19 | 0 |  |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Decreased appetite | 15 |  |  | 0 |
+| Nervous system disorders |  |  |  |  |
+| Peripheral neuropathy | 13 |  |  | 0 |
+| Dizziness | 12 |  |  | 0.8 |
+| Headache | 10 |  |  | 0.8 |
 
 Clinically relevant adverse reactions in < 10% of patients who received intravenous amivantamab included ocular toxicity, ILD/pneumonitis, and toxic epidermal necrolysis (TEN).
 
-Table 19 summarizes the laboratory abnormalities in CHRYSALIS.
+Table 22 summarizes the laboratory abnormalities in CHRYSALIS.
 
-Table 19: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients With Metastatic NSCLC with EGFR Exon 20 Insertion Mutations Whose Disease Has Progressed on or After Platinum-based Chemotherapy and Who Received Intravenous Amivantamab in CHRYSALIS
+Table 22: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients With Metastatic NSCLC with EGFR Exon 20 Insertion Mutations Whose Disease Has Progressed on or After Platinum-based Chemotherapy and Who Received Intravenous Amivantamab in CHRYSALIS
 
 | All Grades (%) | Grades 3 or 4 (%) |  |
 | --- | --- | --- |

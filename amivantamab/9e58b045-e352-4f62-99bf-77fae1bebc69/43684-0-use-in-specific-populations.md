@@ -60,13 +60,17 @@ The safety and efficacy of RYBREVANT FASPRO have not been established in pediatr
 
 ## 8.5 Geriatric Use
 
-Of the 206 patients with locally advanced or metastatic NSCLC treated with RYBREVANT FASPRO in combination with lazertinib (every 2-week dosing) in the PALOMA-3 study, 35% were ≥ 65 years of age, and 9% were ≥ 75 years of age.
+Of the 206 patients with locally advanced or metastatic NSCLC who received RYBREVANT FASPRO in combination with lazertinib (every 2-week dosing) in the PALOMA-3 study, 35% were ≥ 65 years of age, and 9% were ≥ 75 years of age.
 
 The safety of RYBREVANT FASPRO in combination with other antineoplastic drugs or as a single agent for its approved indications [see Indications and Usage (1.1, 1.2, 1.3, 1.4)] has been established in adequate and well-controlled studies of intravenous amivantamab in combination with other antineoplastic drugs and as a single agent.
 
-- Of the 421 patients with locally advanced or metastatic NSCLC treated with intravenous amivantamab in combination with lazertinib in the MARIPOSA study, 45% were ≥ 65 years of age and 12% were ≥ 75 years of age.
-- Of the 130 patients with locally advanced or metastatic NSCLC treated with intravenous amivantamab in combination with carboplatin and pemetrexed in the MARIPOSA-2 study, 40% were ≥ 65 years of age and 10% were ≥ 75 years of age.
-- Of the 151 patients with locally advanced or metastatic NSCLC treated with intravenous amivantamab in combination with carboplatin and pemetrexed in the PAPILLON study, 37% were ≥ 65 years of age and 8% were ≥ 75 years of age.
-- Of the 302 patients with locally advanced or metastatic NSCLC treated with intravenous amivantamab as a single agent in the CHRYSALIS study, 39% were ≥ 65 years of age and 11% were ≥ 75 years of age.
+- Of the 421 patients with locally advanced or metastatic NSCLC who received intravenous amivantamab in combination with lazertinib in the MARIPOSA study, 45% were ≥ 65 years of age and 12% were ≥ 75 years of age.
+- Of the 130 patients with locally advanced or metastatic NSCLC who received intravenous amivantamab in combination with carboplatin and pemetrexed in the MARIPOSA-2 study, 40% were ≥ 65 years of age and 10% were ≥ 75 years of age.
+- Of the 151 patients with locally advanced or metastatic NSCLC who received intravenous amivantamab in combination with carboplatin and pemetrexed in the PAPILLON study, 37% were ≥ 65 years of age and 8% were ≥ 75 years of age.
+- Of the 302 patients with locally advanced or metastatic NSCLC who received intravenous amivantamab as a single agent in the CHRYSALIS study, 39% were ≥ 65 years of age and 11% were ≥ 75 years of age.
 
-No clinically important differences in safety or efficacy were observed between patients who were ≥ 65 years of age and younger patients.
+No clinically important differences in safety or efficacy were observed between patients who were ≥ 65 years of age and younger patients who received intravenous amivantamab.
+
+Of the 102 patients with recurrent or metastatic HNSCC in the primary efficacy population who received RYBREVANT FASPRO in OrigAMI-4 after prior platinum-based chemotherapy and an anti-PD(L)-1 antibody, 45% were ≥ 65 years of age, and 11% were ≥ 75 years of age.
+No overall differences in efficacy were observed between patients who were ≥ 65 years of age and younger patients who received RYBREVANT FASPRO.
+There was a higher incidence of serious adverse reactions (50% vs. 30%) and treatment discontinuation (26% vs. 9%) in patients ≥ 65 years of age compared to younger patients, respectively.

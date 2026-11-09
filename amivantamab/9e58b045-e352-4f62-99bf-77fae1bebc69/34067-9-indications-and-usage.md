@@ -15,3 +15,11 @@ RYBREVANT FASPRO, in combination with carboplatin and pemetrexed, is indicated f
 ## 1.4 Previously Treated NSCLC with EGFR Exon 20 Insertion Mutations
 
 RYBREVANT FASPRO is indicated as a single agent for the treatment of adult patients with locally advanced or metastatic NSCLC with EGFR exon 20 insertion mutations, as detected by an FDA-approved test [see Dosage and Administration (2.2)], whose disease has progressed on or after platinum-based chemotherapy.
+
+## 1.5 Previously Treated HNSCC
+
+RYBREVANT FASPRO is indicated as a single agent for the treatment of adult patients with recurrent or metastatic head and neck squamous cell carcinoma (HNSCC) whose disease has progressed on or after platinum-based chemotherapy and an anti-PD-(L)1 antibody.
+
+- Limitations of use: RYBREVANT FASPRO is not indicated as a treatment for patients with oropharyngeal squamous cell carcinoma (OPSCC) that is human papillomavirus (HPV)-associated (i.e., by p16 IHC).
+- This indication is approved under accelerated approval based on overall response rate and duration of response [see Clinical Studies (14.5)].
+  Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).

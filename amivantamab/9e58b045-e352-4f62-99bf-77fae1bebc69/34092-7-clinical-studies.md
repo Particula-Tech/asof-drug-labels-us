@@ -35,11 +35,11 @@ Among the 858 patients with EGFR exon 19 deletion or L858R substitution mutation
 Of the 544 patients with evaluable results, 527 (97%) patients were positive for EGFR exon 19 deletion or L858R substitution mutations, while 17 (3%) patients were negative.
 Available plasma samples from patients were retrospectively tested using an FDA-approved test to confirm the biomarker status.
 
-The trial demonstrated a statistically significant improvement in PFS by BICR assessment and OS for intravenous amivantamab in combination with lazertinib compared to osimertinib (see Table 21 and Figures 1 and 2).
+The trial demonstrated a statistically significant improvement in PFS by BICR assessment and OS for intravenous amivantamab in combination with lazertinib compared to osimertinib (see Table 24 and Figures 1 and 2).
 
-Efficacy results for intravenous amivantamab in combination with lazertinib are provided in Table 21.
+Efficacy results for intravenous amivantamab in combination with lazertinib are provided in Table 24.
 
-Table 21: Efficacy Results in MARIPOSA by BICR Assessment
+Table 24: Efficacy Results in MARIPOSA by BICR Assessment
 
 |  | Intravenous amivantamab in combination with lazertinib (N=429) | Osimertinib (N=429) |
 | --- | --- | --- |
@@ -61,14 +61,16 @@ Table 21: Efficacy Results in MARIPOSA by BICR Assessment
 | Patients with DOR ≥ 12 months, % | 68 | 57 |
 | CI = confidence interval; NR = not reached; NE = not estimable |  |  |
 
-Figure 1: Kaplan-Meier Curves of PFS by BICR Assessment in Patients with Previously Untreated NSCLC
+| Figure 1: Kaplan-Meier Curves of PFS by BICR Assessment in Patients with Previously Untreated NSCLC |
+| --- |
 
-Figure 2: Kaplan-Meier Curves of OS in Patients with Previously Untreated NSCLC
+| Figure 2: Kaplan-Meier Curves of OS in Patients with Previously Untreated NSCLC |
+| --- |
 
 Out of all randomized patients (n=858), 367 (43%) had baseline intracranial lesions assessed by BICR using modified RECIST.
-Results of pre-specified analyses of intracranial ORR and DOR by BICR in the subset of patients with intracranial lesions at baseline for the intravenous amivantamab in combination with lazertinib arm and the osimertinib arm are summarized in Table 22.
+Results of pre-specified analyses of intracranial ORR and DOR by BICR in the subset of patients with intracranial lesions at baseline for the intravenous amivantamab in combination with lazertinib arm and the osimertinib arm are summarized in Table 25.
 
-Table 22: Exploratory Analysis of Intracranial ORR and DOR by BICR Assessment in Subjects with Intracranial Lesions at Baseline
+Table 25: Exploratory Analysis of Intracranial ORR and DOR by BICR Assessment in Subjects with Intracranial Lesions at Baseline
 
 |  | Intravenous amivantamab in combination with lazertinib (N=180) | Osimertinib (N=187) |
 | --- | --- | --- |
@@ -104,14 +106,13 @@ Overall survival (OS) and overall response rate (ORR) as assessed by BICR were k
 
 A total of 394 patients were randomized between the two arms, 131 to the intravenous amivantamab-CP arm and 263 to the CP arm.
 The median age was 62 (range: 31 to 85) years, with 38% of patients ≥ 65 years of age; 60% were female; and 48% were Asian and 46% were White, 1% were American Indian or Alaska Native, 1% were Black or African American, 0.5% were multiple races and 2.8% were race not reported or race unknown; 8% were Hispanic or Latino.
-
 Baseline Eastern Cooperative Oncology Group (ECOG) performance status was 0 (40%) or 1 (60%); 65% never smoked; 45% had history of brain metastasis, and 99.7% had Stage IV cancer at study enrollment.
 
 The trial demonstrated a statistically significant improvement in PFS by BICR for intravenous amivantamab in combination with carboplatin and pemetrexed compared to carboplatin and pemetrexed.
 
-Efficacy results are summarized in Table 23.
+Efficacy results are summarized in Table 26.
 
-Table 23: Efficacy Results in MARIPOSA-2
+Table 26: Efficacy Results in MARIPOSA-2
 
 |  | Intravenous amivantamab with carboplatin and pemetrexed (N=131) | carboplatin and pemetrexed (N=263) |
 | --- | --- | --- |
@@ -128,7 +129,8 @@ Table 23: Efficacy Results in MARIPOSA-2
 | Median (95% CI), months | 6.9 (5.5, NE) | 5.6 (4.2, 9.6) |
 | CI = confidence interval; NE = not estimatable |  |  |
 
-Figure 3: Kaplan-Meier Curve of PFS in Previously Treated NSCLC Patients by BICR Assessment - MARIPOSA-2
+| Figure 3: Kaplan-Meier Curve of PFS in Previously Treated NSCLC Patients by BICR Assessment - MARIPOSA-2 |
+| --- |
 
 At the prespecified second interim analysis of OS, with 85% of the deaths needed for the final analysis, there was no statistically significant difference in OS.
 The median OS was 17.7 months (95% CI: 16.0, 22.4) in the ACP arm and 15.3 months (95% CI: 13.7, 16.8) in the CP arm, with a hazard ratio of 0.73 (95% CI: 0.54, 0.99).
@@ -165,9 +167,9 @@ Baseline ECOG performance status was 0 (35%) or 1 (65%); 58% were never smokers;
 
 PAPILLON demonstrated a statistically significant improvement in progression free survival for patients randomized to intravenous amivantamab in combination with carboplatin and pemetrexed compared with carboplatin and pemetrexed.
 
-Efficacy results are summarized in Table 24 and Figure 4.
+Efficacy results are summarized in Table 27 and Figure 4.
 
-Table 24: Efficacy Results in PAPILLON
+Table 27: Efficacy Results in PAPILLON
 
 |  | Intravenous amivantamab with carboplatin and pemetrexed (N=153) | carboplatin and pemetrexed (N=155) |
 | --- | --- | --- |
@@ -209,9 +211,9 @@ The median age was 62 (range: 42 to 84) years, 59% were female; 49% were Asian, 
 The median number of prior therapies was 2 (range: 1 to 7).
 At baseline, 67% had Eastern Cooperative Oncology Group (ECOG) performance status of 1; 53% never smoked; all patients had metastatic disease; and 22% had previously treated brain metastases.
 
-Efficacy results are summarized in Table 25.
+Efficacy results are summarized in Table 28.
 
-Table 25: Efficacy Results for CHRYSALIS
+Table 28: Efficacy Results for CHRYSALIS
 
 |  | Prior Platinum-based Chemotherapy Treated (N=81) |
 | --- | --- |
@@ -223,3 +225,34 @@ Table 25: Efficacy Results for CHRYSALIS
 | Patients with DOR ≥ 6 months | 63% |
 | Based on Kaplan-Meier estimates. |  |
 | NE=Not Estimable, CI=confidence interval. |  |
+
+## 14.5 Previously Treated Head and Neck Squamous Cell Carcinoma
+
+The efficacy of RYBREVANT FASPRO as a single agent was evaluated in OrigAMI-4 (NCT06385080), a multicenter, open-label, multi-cohort clinical trial.
+The primary efficacy population included 102 patients with recurrent or metastatic HNSCC.
+Patients with HPV-associated OPSCC based on p16 testing results (only required for OPSCC), were excluded from the primary efficacy population.
+Eligible patients must have received previous treatment with platinum-based chemotherapy and an anti-PD-(L)1 antibody (in combination or as separate lines of therapy).
+Patients may have received one or both of the required prior treatments as part of treatment with curative intent in the locally advanced setting if disease progression occurred within 6 months of the last dose.
+
+Patients received single agent weight-based RYBREVANT FASPRO every 3 weeks at the recommended dose and schedule until disease progression or unacceptable toxicity [see Dosage and Administration (2.3)].
+
+The major efficacy outcome measure was overall response rate (ORR) according to Response Evaluation Criteria in Solid Tumors (RECIST v1.1) as evaluated by Blinded Independent Central Review (BICR).
+An additional efficacy outcome measure was duration of response (DOR) by BICR.
+
+The median age was 63 (range: 30 to 81) years, 77% were male; 44% were Asian, 41% were White, 1% were Black or African American, 14% had race unknown or not reported; 1% were of Hispanic or Latino ethnicity; 91% had baseline body weight < 80 kg.
+52% had one prior line and 48% had two prior lines of systemic therapies.
+At baseline, 67% had Eastern Cooperative Oncology Group (ECOG) performance status of 1; 64% had stage IVC disease.
+
+Efficacy results are summarized in Table 29.
+
+Table 29: Efficacy Results for OrigAMI-4
+
+|  | RYBREVANT FASPRO (N=102) |
+| --- | --- |
+| Overall Response RateBlinded Independent Central Review by RECIST v1.1,Confirmed response (95% CI) | 42% (32%, 52%) |
+| Complete response (CR) | 15% |
+| Partial response (PR) | 28% |
+| Duration of Response (DOR) |  |
+| Range (months) | 1.4+, 19.7+ |
+| Patients with DOR ≥ 6 months | 56% |
+| NE=Not Estimable, CI=confidence interval, "+" indicating ongoing response. |  |

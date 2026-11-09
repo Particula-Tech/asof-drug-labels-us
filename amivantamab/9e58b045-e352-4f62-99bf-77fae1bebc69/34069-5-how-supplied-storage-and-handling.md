@@ -2,7 +2,7 @@
 
 How Supplied
 
-RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) injection for subcutaneous use is a sterile, preservative free, clear to opalescent and colorless to pale yellow solution supplied as follows:
+RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) injection for subcutaneous use is a sterile, preservative free, clear to opalescent and colorless to pale yellow solution supplied in a carton containing one single-dose vial, as follows:
 
 | Strength | NDC |
 | --- | --- |
