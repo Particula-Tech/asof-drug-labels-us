@@ -114,14 +114,10 @@ Taking serotonin and norepinephrine reuptake inhibitors (SSRIs), including cital
 1. Symptoms in males may include:
 2. oDelayed ejaculation or inability to have an ejaculation
 3. oDecreased sex drive
-4. oProblems getting or keeping an erection
-5. Symptoms in females may include:
-6. oDecreased sex drive
-7. oDelayed orgasm or inability to have an orgasm
-8. 
-9. Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with citalopram.
+4. oProblems getting or keeping an erection Symptoms in females may include:
+5. oDecreased sex drive
+6. oDelayed orgasm or inability to have an orgasmTalk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with citalopram.
    There may be treatments your healthcare provider can suggest.
-10. 
 
 Do not stop citalopram without first talking to your healthcare provider.
 Stopping citalopram too quickly may cause serious symptoms including:
@@ -153,14 +149,14 @@ Do not take citalopram if you:
 - •Do not start citalopram if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 - •People who take citalopram close in time to an MAOI may have serious or even life-threatening side effects.
   Get medical help right away if you have any of these symptoms:
-  - •high fever
-  - •uncontrolled muscle spasms
-  - •stiff muscles
-  - •rapid changes in heart rate or blood pressure
-  - •confusion
-  - •loss of consciousness (pass out)
-  - •take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
-  - •have a heart problem including congenital long QT syndrome.
+- ohigh fever
+- ouncontrolled muscle spasms
+- ostiff muscles
+- orapid changes in heart rate or blood pressure
+- oconfusion
+- oloss of consciousness (pass out)
+- otake the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
+- ohave a heart problem including congenital long QT syndrome.
 
 What should I tell my healthcare provider before taking citalopram?
 Ask if you are not sure.
@@ -289,4 +285,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Hikma Pharmaceuticals USA Inc.
 
-Berkeley Heights, NJ 07922 C50000426/02 Revised July 2023
+Berkeley Heights, NJ 07922 C50000426/03 Revised October 2026
