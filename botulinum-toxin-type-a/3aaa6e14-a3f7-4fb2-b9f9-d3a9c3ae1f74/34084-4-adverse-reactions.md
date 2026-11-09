@@ -2,12 +2,12 @@
 
 The following clinically significant adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Spread of Toxin Effect[seeWarnings and Precautions (5.1)]
-- Hypersensitivity Reactions[seeWarnings and Precautions (5.4)]
-- Cardiovascular System Adverse Reactions[seeWarnings and Precautions (5.5)]
-- Increased Neuromuscular Compromise in Patients with Pre-Existing Neuromuscular Disorders[seeWarnings and Precautions (5.6)]
-- Dysphagia and Breathing Difficulties[seeWarnings and Precautions (5.7)]
-- Ophthalmic Adverse Reactions in Patients Treated for Glabellar Lines[seeWarnings and Precautions (5.9)]
+- Spread of Toxin Effect [see Warnings and Precautions (5.1)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
+- Cardiovascular System Adverse Reactions [see Warnings and Precautions (5.5)]
+- Increased Neuromuscular Compromise in Patients with Pre-Existing Neuromuscular Disorders [see Warnings and Precautions (5.6)]
+- Dysphagia and Breathing Difficulties [see Warnings and Precautions (5.7)]
+- Ophthalmic Adverse Reactions in Patients Treated for Glabellar Lines [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -26,7 +26,7 @@ TABLE 3: Most Common Adverse Reactions ≥1% and More Frequent than Placebo in P
 | --- | --- | --- |
 | Headache | 26 (6%) | 4 (2%) |
 | Eyelid ptosis | 9 (2%) | 0 (0%) |
-| Facial paresisFacial paresis, including facial asymmetry. | 5 (1%) | 0 (0%) |
+| Facial paresis Facial paresis, including facial asymmetry. | 5 (1%) | 0 (0%) |
 
 Injection site reactions were reported in 6% of subjects treated with DAXXIFY and in 6% of subjects treated with placebo (these reactions included injection site pain, injection site erythema, injection site oedema, injection site bruising, injection site hematoma, injection site papule, and injection site pruritus).
 

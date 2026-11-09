@@ -2,7 +2,7 @@
 
 Excessive doses of DAXXIFY may be expected to produce neuromuscular weakness with a variety of symptoms.
 Respiratory support may be required where excessive doses cause paralysis of the respiratory muscles.
-In the event of overdose, the patient should be medically monitored for symptoms or excessive muscle weakness or muscle paralysis[seeWarnings and Precautions (5.1),(5.7)].
+In the event of overdose, the patient should be medically monitored for symptoms or excessive muscle weakness or muscle paralysis [see Warnings and Precautions (5.1), (5.7)].
 Symptomatic treatment may be necessary.
 
 Symptoms of overdose are not likely to be present immediately following injection.

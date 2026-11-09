@@ -5,7 +5,7 @@
 Risk Summary
 
 There are no available data on DAXXIFY use in pregnant women to evaluate for a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
-In animal reproduction studies, intramuscular administration of DAXXIFY during pregnancy resulted in adverse effects on fetal growth (decreased fetal body weight and skeletal ossification) at maternally toxic doses approximately equivalent to 40 times the maximum recommended human dose (MRHD) (seeData).
+In animal reproduction studies, intramuscular administration of DAXXIFY during pregnancy resulted in adverse effects on fetal growth (decreased fetal body weight and skeletal ossification) at maternally toxic doses approximately equivalent to 40 times the maximum recommended human dose (MRHD) (see Data).
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
@@ -40,10 +40,10 @@ Glabellar Lines
 
 Among the 406 subjects treated with DAXXIFY in the placebo-controlled clinical trials, 36 subjects were 65 years or older.
 There was no increase in the incidence of treatment-related adverse events in patients over 65 years treated with DAXXIFY.
-Clinical studies of DAXXIFY did not include sufficient numbers of subjects aged 65 and older to determine whether they responded differently from younger subjects[seeClinical Studies (14)].
+Clinical studies of DAXXIFY did not include sufficient numbers of subjects aged 65 and older to determine whether they responded differently from younger subjects [see Clinical Studies (14)].
 
 Cervical Dystonia
 
 Among the 255 patients treated with DAXXIFY in the placebo-controlled clinical trial, 83 patients were 65 years or older.
 There was no increase in the incidence of treatment-related adverse events in patients over 65 years treated with DAXXIFY.
-Clinical studies of DAXXIFY did not include sufficient numbers of patients aged 65 and older to determine whether they responded differently from younger patients[seeClinical Studies (14)].
+Clinical studies of DAXXIFY did not include sufficient numbers of patients aged 65 and older to determine whether they responded differently from younger patients [see Clinical Studies (14)].

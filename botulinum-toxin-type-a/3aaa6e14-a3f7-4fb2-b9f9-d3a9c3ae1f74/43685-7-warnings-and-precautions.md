@@ -13,7 +13,7 @@ Patients or caregivers should be advised to seek immediate medical care if swall
 ## 5.2 Lack of Interchangeability between Botulinum Toxin Products
 
 The potency units of DAXXIFY are specific to the preparation and assay method utilized.
-They are not interchangeable with other preparations of botulinum toxin products; therefore, units of biological activity of DAXXIFY cannot be compared to or converted to units of any other botulinum toxin products assessed with any other specific assay method[seeDescription (11)].
+They are not interchangeable with other preparations of botulinum toxin products; therefore, units of biological activity of DAXXIFY cannot be compared to or converted to units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
 
 ## 5.3 Serious Adverse Reactions with Unapproved Use
 
@@ -27,7 +27,7 @@ There is insufficient information to identify factors associated with an increas
 Serious and/or immediate hypersensitivity reactions have been reported for botulinum toxin products.
 These reactions include anaphylaxis, serum sickness, urticaria, soft tissue edema, and dyspnea.
 If such a reaction occurs, discontinue further injection of DAXXIFY and immediately institute appropriate medical therapy.
-The use of DAXXIFY in patients with a known hypersensitivity to any botulinum toxin preparation, DAXXIFY, or any of its formulation components could lead to a life-threatening allergic reaction[seeContraindications (4)].
+The use of DAXXIFY in patients with a known hypersensitivity to any botulinum toxin preparation, DAXXIFY, or any of its formulation components could lead to a life-threatening allergic reaction [see Contraindications (4)].
 
 ## 5.5 Cardiovascular System Adverse Reactions
 
@@ -46,7 +46,7 @@ Treatment with botulinum toxin products, including DAXXIFY, can result in swallo
 These reactions can occur within hours to weeks after injection with botulinum toxin.
 Patients with pre-existing swallowing or breathing difficulties may be more susceptible to these complications.
 In most cases, this is a consequence of weakening of muscles in the area of injection that are involved in breathing or swallowing.
-When distant effects occur, additional respiratory mechanisms may be involved[seeWarnings and Precautions (5.3)].
+When distant effects occur, additional respiratory mechanisms may be involved [see Warnings and Precautions (5.3)].
 
 Deaths as a complication of severe dysphagia have been reported after treatment with botulinum toxin products.
 Dysphagia may persist for several months.

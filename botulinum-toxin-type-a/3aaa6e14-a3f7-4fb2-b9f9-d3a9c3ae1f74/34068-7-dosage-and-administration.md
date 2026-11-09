@@ -3,7 +3,7 @@
 ## 2.1 Important Administration Instructions
 
 The potency units of DAXXIFY for injection are specific to the preparation and test method utilized.
-They are not interchangeable with other preparations of botulinum toxin products, and, therefore, units of biological activity of DAXXIFY cannot be compared to, or converted into, units of any other botulinum toxin products assessed with any other specific test method[seeWarnings and Precautions (5.2)andDescription (11)].
+They are not interchangeable with other preparations of botulinum toxin products, and, therefore, units of biological activity of DAXXIFY cannot be compared to, or converted into, units of any other botulinum toxin products assessed with any other specific test method [see Warnings and Precautions (5.2)and Description (11)].
 
 The safe and effective use of DAXXIFY depends upon proper storage of the product, selection of the correct dose, and proper reconstitution and administration techniques.
 
@@ -29,7 +29,7 @@ Administration for Glabellar Lines
 Glabellar lines arise from the contraction of the corrugator and procerus muscles.
 These can be identified by palpation of the glabellar muscle mass while having the patient frown maximally.
 Contraction of the corrugator muscles compresses the skin, creating a vertical line or lines surrounded by ridges of tensed muscle.
-Because the exact location, size, and activity of the muscles can vary markedly among individuals, physicians administering DAXXIFY must understand the relevant anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures and diseases[seeWarnings and Precautions (5.3)].
+Because the exact location, size, and activity of the muscles can vary markedly among individuals, physicians administering DAXXIFY must understand the relevant anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures and diseases [see Warnings and Precautions (5.3)].
 After assessment, the location of the corrugator muscle injection sites may need to be adjusted based on individual facial anatomy and the pattern of muscle contraction.
 
 The upper eyelid margin position should be carefully examined for separation or weakness of the levator palpebrae superioris muscle.
@@ -69,13 +69,13 @@ Prior to intramuscular injection, reconstitute each vial of DAXXIFY with the req
 
 TABLE 1: DAXXIFY 50 Unit Vials Dilution Volume for Reconstitution
 
-| Indication | DiluentPreservative-free 0.9% Sodium Chloride Injection, USPAdded to 50 Unit Vial | Resulting Dose in Units per 0.1 mL |
+| Indication | Diluent Preservative-free 0.9% Sodium Chloride Injection, USPAdded to 50 Unit Vial | Resulting Dose in Units per 0.1 mL |
 | --- | --- | --- |
 | Glabellar Lines, Adults | 0.6 mL | 8 Units |
 
 TABLE 2: DAXXIFY 100 Unit Vials Dilution Volume for Reconstitution
 
-| Indication | DiluentPreservative-free 0.9% Sodium Chloride Injection, USPAdded to 100 Unit Vials | Resulting Dose in Units per 0.1 mL |
+| Indication | Diluent Preservative-free 0.9% Sodium Chloride Injection, USPAdded to 100 Unit Vials | Resulting Dose in Units per 0.1 mL |
 | --- | --- | --- |
 | Glabellar Lines, Adults | 1.2 mL | 8 Units |
 | Cervical Dystonia, Adults | 1 mL or 2 mL | 10 Units or 5 Units |

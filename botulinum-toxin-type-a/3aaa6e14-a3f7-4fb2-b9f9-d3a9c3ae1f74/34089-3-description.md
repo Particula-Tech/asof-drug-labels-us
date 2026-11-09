@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 DaxibotulinumtoxinA-lanm is an acetylcholine release inhibitor and neuromuscular blocking agent.
-DaxibotulinumtoxinA-lanm is a 150 kDa botulinum toxin without accessory proteins purified from the bacteriumClostridium botulinumtype A.
+DaxibotulinumtoxinA-lanm is a 150 kDa botulinum toxin without accessory proteins purified from the bacterium Clostridium botulinumtype A.
 
 DAXXIFY (daxibotulinumtoxinA-lanm) for injection is supplied as a sterile, preservative-free, white to off- white lyophilized powder in a single-dose vial for intramuscular use after reconstitution.
 DAXXIFY is formulated with a 35 amino acid peptide excipient (RTP004) that prevents surface adsorption and promotes thermal stability of DAXXIFY.
