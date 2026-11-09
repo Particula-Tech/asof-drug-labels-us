@@ -10,5 +10,5 @@ LEVOXYL is indicated in pediatric and adult patients as an adjunct to surgery an
 
 Limitations of Use:
 
-- LEVOXYL is not indicated for suppression of benign thyroid nodules and nontoxic diffuse goiter in iodine-sufficient patients as there are no clinical benefits and overtreatment with LEVOXYL may induce hyperthyroidism [see Warnings and Precautions (5.4)].
-- LEVOXYL is not indicated for treatment of hypothyroidism during the recovery phase of subacute thyroiditis.
+- •LEVOXYL is not indicated for suppression of benign thyroid nodules and nontoxic diffuse goiter in iodine-sufficient patients as there are no clinical benefits and overtreatment with LEVOXYL may induce hyperthyroidism [see Warnings and Precautions (5.4)].
+- •LEVOXYL is not indicated for treatment of hypothyroidism during the recovery phase of subacute thyroiditis.

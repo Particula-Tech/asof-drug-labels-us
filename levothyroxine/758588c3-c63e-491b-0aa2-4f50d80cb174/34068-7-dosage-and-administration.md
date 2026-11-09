@@ -54,7 +54,7 @@ Monitor for clinical and laboratory response [see Dosage and Administration (2.4
 
 Table 1: LEVOXYL Dosing Guidelines for Pediatric Hypothyroidism
 
-| Age | Daily Dose Per Kg Body Weight- The dose should be adjusted based on clinical response and laboratory parameters [see Warnings and Precautions (5.4), Drug Interactions (7.10), Use in Specific Populations (8.4)]. |
+| Age | Daily Dose Per Kg Body WeightThe dose should be adjusted based on clinical response and laboratory parameters [see Warnings and Precautions (5.4), Drug Interactions (7.10), Use in Specific Populations (8.4)]. |
 | --- | --- |
 | 0 to 3 months | 10 mcg/kg daily to 15 mcg/kg daily |
 | 3 to 6 months | 8 mcg/kg daily to 10 mcg/kg daily |
