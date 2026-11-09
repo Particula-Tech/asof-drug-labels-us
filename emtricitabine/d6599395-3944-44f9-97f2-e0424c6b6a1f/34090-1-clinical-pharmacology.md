@@ -18,7 +18,7 @@ Figure 1 Mean (± 95% CI) Steady-State Plasma FTC Concentrations in HIV-1 Infect
 Absorption
 
 Emtricitabine is rapidly and extensively absorbed following oral administration, with peak plasma concentrations occurring at 1–2 hours postdose.
-Following multiple dose oral administration of EMTRIVA capsules to 20 HIV-1 infected subjects, the (mean ± SD) steady-state plasma FTC peak concentration (Cmax) was 1.8 ± 0.7 µg/mL and the area-under the plasma concentration-time curve over a 24-hour dosing interval (AUC) was 10.0 ± 3.1 µg∙hr/mL.
+Following multiple dose oral administration of EMTRIVA capsules to 20 HIV-1 infected subjects, the (mean ± SD) steady-state plasma FTC peak concentration (C max) was 1.8 ± 0.7 µg/mL and the area-under the plasma concentration-time curve over a 24-hour dosing interval (AUC) was 10.0 ± 3.1 µg ∙hr/mL.
 The mean steady-state plasma trough concentration at 24 hours postdose was 0.09 µg/mL.
 The mean absolute bioavailability of EMTRIVA capsules was 93%, while the mean absolute bioavailability of EMTRIVA oral solution was 75%.
 The relative bioavailability of EMTRIVA oral solution was approximately 80% of EMTRIVA capsules.
@@ -46,8 +46,8 @@ There may be competition for elimination with other compounds that are also rena
 Effects of Food on Oral Absorption
 
 EMTRIVA capsules and oral solution may be taken with or without food.
-Emtricitabine systemic exposure (AUC) was unaffected while Cmax decreased by 29% when EMTRIVA capsules were administered with food (an approximately 1000 kcal high-fat meal).
-Emtricitabine systemic exposure (AUC) and Cmax were unaffected when 200 mg EMTRIVA oral solution was administered with either a high-fat or low-fat meal.
+Emtricitabine systemic exposure (AUC) was unaffected while C max decreased by 29% when EMTRIVA capsules were administered with food (an approximately 1000 kcal high-fat meal).
+Emtricitabine systemic exposure (AUC) and C max were unaffected when 200 mg EMTRIVA oral solution was administered with either a high-fat or low-fat meal.
 
 Specific Populations
 
@@ -68,16 +68,16 @@ The AUC observed in neonates who received a daily dose of 3 mg/kg of FTC was sim
 
 Table 6 Mean ± SD Pharmacokinetic Parameters by Age Groups for Pediatric Subjects and Neonates Receiving EMTRIVA Capsules or Oral Solution
 
-| Age | 0–3 mo (N=20)Two pharmacokinetic evaluations were conducted in 20 neonates over the first 3 months of life. Median (range) age of infant on day of pharmacokinetic evaluation was 26 (5–81) days. | 3–24 mo (N=14) | 25 mo–6 yr (N=19) | 7–12yr (N=17) | 13–17 yr (N=27) |
+| Age | 0–3 mo (N=20) Two pharmacokinetic evaluations were conducted in 20 neonates over the first 3 months of life. Median (range) age of infant on day of pharmacokinetic evaluation was 26 (5–81) days. | 3–24 mo (N=14) | 25 mo–6 yr (N=19) | 7–12yr (N=17) | 13–17 yr (N=27) |
 | --- | --- | --- | --- | --- | --- |
 |  | HIV-1-exposed Neonates | HIV-1 Infected Pediatric Subjects |  |  |  |
 | Formulation |  |  |  |  |  |
 | Capsule (n) | 0 | 0 | 0 | 10 | 26 |
 | Oral Solution (n) | 20 | 14 | 19 | 7 | 1 |
-| Dose (mg/kg)Mean (range). | 3.1 (2.9–3.4) | 6.1 (5.5–6.8) | 6.1 (5.6–6.7) | 5.6 (3.1–6.6) | 4.4 (1.8–7.0) |
-| Cmax (µg/mL) | 1.6 ± 0.6 | 1.9 ± 0.6 | 1.9 ± 0.7 | 2.7 ± 0.8 | 2.7 ± 0.9 |
-| AUC (µg∙hr/mL) | 11.0 ± 4.2 | 8.7 ± 3.2 | 9.0 ± 3.0 | 12.6 ± 3.5 | 12.6 ± 5.4 |
-| T1/2 (hr) | 12.1 ± 3.1 | 8.9 ± 3.2 | 11.3 ± 6.4 | 8.2 ± 3.2 | 8.9 ± 3.3 |
+| Dose (mg/kg) Mean (range). | 3.1 (2.9–3.4) | 6.1 (5.5–6.8) | 6.1 (5.6–6.7) | 5.6 (3.1–6.6) | 4.4 (1.8–7.0) |
+| C max (µg/mL) | 1.6 ± 0.6 | 1.9 ± 0.6 | 1.9 ± 0.7 | 2.7 ± 0.8 | 2.7 ± 0.9 |
+| AUC (µg ∙hr/mL) | 11.0 ± 4.2 | 8.7 ± 3.2 | 9.0 ± 3.0 | 12.6 ± 3.5 | 12.6 ± 5.4 |
+| T 1/2 (hr) | 12.1 ± 3.1 | 8.9 ± 3.2 | 11.3 ± 6.4 | 8.2 ± 3.2 | 8.9 ± 3.3 |
 
 Gender
 
@@ -90,18 +90,18 @@ No pharmacokinetic differences due to race have been identified.
 Patients with Renal Impairment
 
 The pharmacokinetics of FTC are altered in subjects with renal impairment [see Warnings and Precautions (5.4)].
-In adult subjects with creatinine clearance below 50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax and AUC of FTC were increased (Table 7).
+In adult subjects with creatinine clearance below 50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, C max and AUC of FTC were increased (Table 7).
 The effects of renal impairment on FTC pharmacokinetics in pediatric patients are not known.
 
 Table 7 Pharmacokinetic Parameters (Mean ± SD) of FTC in Adult Subjects with Varying Degrees of Renal Function
 
-| Creatinine Clearance (mL/min) | >80 (N=6) | 50–80 (N=6) | 30–49 (N=6) | <30 (N=5) | ESRDESRD subjects requiring dialysis <30 (N=5) |
+| Creatinine Clearance (mL/min) | >80 (N=6) | 50–80 (N=6) | 30–49 (N=6) | <30 (N=5) | ESRD ESRD subjects requiring dialysis <30 (N=5) |
 | --- | --- | --- | --- | --- | --- |
 | Baseline creatinine clearance (mL/min) | 107 ± 21 | 59.8 ± 6.5 | 40.9 ± 5.1 | 22.9 ± 5.3 | 8.8 ± 1.4 |
-| Cmax (µg/mL) | 2.2 ± 0.6 | 3.8 ± 0.9 | 3.2 ± 0.6 | 2.8 ± 0.7 | 2.8 ± 0.5 |
-| AUC (µg∙hr/mL) | 11.8 ± 2.9 | 19.9 ± 1.2 | 25.1 ± 5.7 | 33.7± 2.1 | 53.2 ± 9.9 |
+| C max (µg/mL) | 2.2 ± 0.6 | 3.8 ± 0.9 | 3.2 ± 0.6 | 2.8 ± 0.7 | 2.8 ± 0.5 |
+| AUC (µg ∙hr/mL) | 11.8 ± 2.9 | 19.9 ± 1.2 | 25.1 ± 5.7 | 33.7± 2.1 | 53.2 ± 9.9 |
 | CL/F (mL/min) | 302 ± 94 | 168 ± 10 | 138 ± 28 | 99 ± 6 | 64 ± 12 |
-| CLr (mL/min) | 213 ± 89 | 121 ± 39 | 69 ± 32 | 30 ± 11 | NANA = Not Applicable |
+| CLr (mL/min) | 213 ± 89 | 121 ± 39 | 69 ± 32 | 30 ± 11 | NA NA = Not Applicable |
 
 Patients with Hepatic Impairment
 
@@ -116,22 +116,22 @@ Based on the results of these in vitro experiments and the known elimination pat
 EMTRIVA has been evaluated in healthy volunteers in combination with TDF, AZT, indinavir, famciclovir, and d4T.
 Tables 8 and 9 summarize the pharmacokinetic effects of coadministered drug on FTC pharmacokinetics and effects of FTC on the pharmacokinetics of coadministered drug.
 
-Table 8 Drug Interactions: Change in Pharmacokinetic Parameters for FTC in the Presence of the Coadministered DrugAll interaction trials conducted in healthy volunteers.
+Table 8 Drug Interactions: Change in Pharmacokinetic Parameters for FTC in the Presence of the Coadministered Drug All interaction trials conducted in healthy volunteers.
 
-| Cmax | AUC | Cmin |  |  |  |  |
+| C max | AUC | C min |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | FTC Dose (mg) | N | % Change of FTC Pharmacokinetic Parameters↑ = Increase; ⇔ = No Effect; NA = Not Applicable (90% CI) |  |  |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | FTC Dose (mg) | N | % Change of FTC Pharmacokinetic Parameters ↑ = Increase; ⇔ = No Effect; NA = Not Applicable (90% CI) |  |  |
 | Famciclovir | 500 × 1 | 200 × 1 | 12 | ⇔ | ⇔ | NA |
 | Indinavir | 800 × 1 | 200 × 1 | 12 | ⇔ | ⇔ | NA |
 | Stavudine | 40 × 1 | 200 × 1 | 6 | ⇔ | ⇔ | NA |
 | Tenofovir DF | 300 once daily × 7 days | 200 once daily × 7 days | 17 | ⇔ | ⇔ | ­↑ 20 (­↑ 12 to ↑ 29) |
 | Zidovudine | 300 twice daily × 7 days | 200 once daily × 7 days | 27 | ⇔ | ⇔ | ⇔ |
 
-Table 9 Drug Interactions: Change in Pharmacokinetic Parameters for Coadministered Drug in the Presence of FTCAll interaction trials conducted in healthy volunteers.
+Table 9 Drug Interactions: Change in Pharmacokinetic Parameters for Coadministered Drug in the Presence of FTC All interaction trials conducted in healthy volunteers.
 
-| Cmax | AUC | Cmin |  |  |  |  |
+| C max | AUC | C min |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | FTC Dose (mg) | N | % Change of Coadministered Drug Pharmacokinetic Parameters↑ = Increase; ⇔ = No Effect; NA = Not Applicable (90% CI) |  |  |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | FTC Dose (mg) | N | % Change of Coadministered Drug Pharmacokinetic Parameters ↑ = Increase; ⇔ = No Effect; NA = Not Applicable (90% CI) |  |  |
 | Famciclovir | 500 × 1 | 200 × 1 | 12 | ⇔ | ⇔ | NA |
 | Indinavir | 800 × 1 | 200 × 1 | 12 | ⇔ | ⇔ | NA |
 | Stavudine | 40 × 1 | 200 × 1 | 6 | ⇔ | ⇔ | NA |
@@ -148,11 +148,11 @@ FTC-TP is a weak inhibitor of mammalian DNA polymerases α, β, ε, and mitochon
 Antiviral Activity
 
 The antiviral activity of FTC against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, the MAGI-CCR5 cell line, and peripheral blood mononuclear cells.
-The 50% effective concentration (EC50) values for FTC were in the range of 0.0013–0.64 µM (0.0003–0.158 µg/mL).
-The median EC50, range, and number of isolates for the laboratory isolates were 0.07, 0.009−0.62, 10; 0.011, 0.002−0.03, 12; 0.055, 0.0015−0.09, 4 respectively for lymphoblastoid, PBMC, and reporter cells.
-The median EC50, range, and number of isolates for the clinical isolates were 0.05, 0.0105−0.64, 15; 0.015, 0.004−0.028, 6 respectively for lymphoblastoid cells and PBMCs.
+The 50% effective concentration (EC 50) values for FTC were in the range of 0.0013–0.64 µM (0.0003–0.158 µg/mL).
+The median EC 50, range, and number of isolates for the laboratory isolates were 0.07, 0.009−0.62, 10; 0.011, 0.002−0.03, 12; 0.055, 0.0015−0.09, 4 respectively for lymphoblastoid, PBMC, and reporter cells.
+The median EC 50, range, and number of isolates for the clinical isolates were 0.05, 0.0105−0.64, 15; 0.015, 0.004−0.028, 6 respectively for lymphoblastoid cells and PBMCs.
 No antagonism was observed in drug combination studies of emtricitabine with nucleoside reverse transcriptase inhibitors (NRTIs) (abacavir, lamivudine, stavudine, tenofovir, zidovudine), non-nucleoside reverse transcriptase inhibitors (NNRTIs) (delavirdine, efavirenz, nevirapine), and protease inhibitors (amprenavir, nelfinavir, ritonavir, saquinavir).
-FTC displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, and G (EC50 values ranged from 0.007–0.075 µM) and showed strain-specific activity against HIV-2 (EC50 values ranged from 0.007–1.5 µM in PBMCs and MAGI cells).
+FTC displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, and G (EC 50 values ranged from 0.007–0.075 µM) and showed strain-specific activity against HIV-2 (EC 50 values ranged from 0.007–1.5 µM in PBMCs and MAGI cells).
 
 Resistance
 

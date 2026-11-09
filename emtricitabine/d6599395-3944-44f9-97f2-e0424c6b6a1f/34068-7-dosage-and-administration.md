@@ -33,7 +33,7 @@ Therefore, clinical response to treatment and renal function should be closely m
 
 Table 1 Dose Interval Adjustment for Adult Patients with Altered Creatinine Clearance
 
-| Formulation | ≥50 mL/min | 30–49 mL/min | 15–29 mL/min | <15 mL/min or on hemodialysisHemodialysis Patients: If dosing on day of dialysis, give dose after dialysis. |
+| Formulation | ≥50 mL/min | 30–49 mL/min | 15–29 mL/min | <15 mL/min or on hemodialysis Hemodialysis Patients: If dosing on day of dialysis, give dose after dialysis. |
 | --- | --- | --- | --- | --- |
 |  | Creatinine Clearance (mL/min) |  |  |  |
 | Capsule (200 mg) | 200 mg every 24 hours | 200 mg every 48 hours | 200 mg every 72 hours | 200 mg every 96 hours |
