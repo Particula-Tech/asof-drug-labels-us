@@ -7,6 +7,6 @@ Advise the patient, family, or caregiver to report signs of extravasation urgent
 Manufactured for: Long Grove Pharmaceuticals, LLC Rosemont, IL 60018
 
 Rev.
-10/2024
+04/2026
 
-076273002 R01
+076273005 R00
