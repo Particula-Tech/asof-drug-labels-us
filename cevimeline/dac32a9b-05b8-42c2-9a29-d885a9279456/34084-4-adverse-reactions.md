@@ -1,106 +1,56 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Cevimeline was administered to 1777 patients during clinical trials worldwide, including Sjögren’s patients and patients with other conditions.
-In placebo-controlled Sjögren’s studies in the U.S., 320 patients received cevimeline doses ranging from 15 mg tid to 60 mg tid, of whom 93% were women and 7% were men.
-Demographic distribution was 90% Caucasian, 5% Hispanic, 3% Black and 2% of other origin.
-In these studies, 14.6% of patients discontinued treatment with cevimeline due to adverse events.
+## 6.1 Clinical Trials Experience
 
-The following adverse events associated with muscarinic agonism were observed in the clinical trials of cevimeline in Sjögren’s syndrome patients:
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-| Adverse Event | Cevimeline 30 mg (tid) n*=533 | Placebo (tid) n=164 |
+The safety of EVOXAC capsules was evaluated in placebo-controlled trials (Trials 1, 2, and 3) conducted in the U.S. that enrolled 320 adult subjects with Sjögren’s disease who received EVOXAC capsules dosages ranging from 15 mg three times a day (0.5 times the approved recommended dosage) to 60 mg three times a day (2 times the approved recommended dosage) [see Clinical Studies (14)].
+In these trials, 14.6% of subjects discontinued treatment with EVOXAC capsules due to adverse events.
+Although dosages ranging from 15 mg three times a day to 60 mg three times a day were evaluated in these trials, the recommended dosage of EVOXAC capsules is 30 mg three times a day [see Dosage and Administration (2)].
+The safety of EVOXAC oral solution was established from these trials of EVOXAC capsules [see Clinical Pharmacology (12.3)].
+
+Table 1 shows the adverse reactions that were observed with EVOXAC capsules 30 mg three times a day compared to placebo in the clinical trials.
+
+Table 1: Adverse Reactions Reported in ≥ 3% of EVOXAC Capsules-Treated Subjects and More Frequently than Placebo-Treated Subjects
+
+| Adverse Reaction | EVOXAC Capsules 30 mg Three Times a Dayn *=533 | PlaceboThree Times a Day n=164 |
 | --- | --- | --- |
 | Excessive Sweating | 18.7% | 2.4% |
 | Nausea | 13.8% | 7.9% |
-| Rhinitis | 11.2% | 5.4% |
-| Diarrhea | 10.3% | 10.3% |
-| Excessive Salivation | 2.2% | 0.6% |
-| Urinary Frequency | 0.9% | 1.8% |
-| Asthenia | 0.5% | 0.0% |
-| Flushing | 0.3% | 0.6% |
-| Polyuria | 0.1% | 0.6% |
-
-* n Is the total number of patients exposed to the dose at any time during the study.
-
-In addition, the following adverse events (≥3% incidence) were reported in the Sjögren’s clinical trials:
-
-| Adverse Event | Cevimeline 30 mg (tid) n*=533 | Placebo (tid) n=164 |
-| --- | --- | --- |
-| Headache | 14.4% | 20.1% |
 | Sinusitis | 12.3% | 10.9% |
 | Upper Respiratory Tract Infection | 11.4% | 9.1% |
-| Dyspepsia | 7.8% | 8.5% |
+| Rhinitis | 11.2% | 5.4% |
 | Abdominal Pain | 7.6% | 6.7% |
 | Urinary Tract Infection | 6.1% | 3.0% |
 | Coughing | 6.1% | 3.0% |
-| Pharyngitis | 5.2% | 5.4% |
 | Vomiting | 4.6% | 2.4% |
 | Injury | 4.5% | 2.4% |
 | Back Pain | 4.5% | 4.2% |
-| Rash | 4.3% | 6.0% |
-| Conjunctivitis | 4.3% | 3.6% |
-| Dizziness | 4.1% | 7.3% |
 | Bronchitis | 4.1% | 1.2% |
 | Arthralgia | 3.7% | 1.8% |
-| Surgical Intervention | 3.3% | 3.0% |
 | Fatigue | 3.3% | 1.2% |
-| Pain | 3.3% | 3.0% |
-| Skeletal Pain | 2.8% | 1.8% |
-| Insomnia | 2.4% | 1.2% |
-| Hot Flushes | 2.4% | 0.0% |
-| Rigors | 1.3% | 1.2% |
-| Anxiety | 1.3% | 1.2% |
 
-* n is the total number of patients exposed to the dose at any time during the study.
+*n is the total number of patients exposed to the dose at any time during the trial.
 
-The following events were reported in Sjögren’s patients at incidences of <3% and ≥1%: constipation, tremor, abnormal vision, hypertonia, peripheral edema, chest pain, myalgia, fever, anorexia, eye pain, earache, dry mouth, vertigo, salivary gland pain, pruritus, influenza-like symptoms, eye infection, post operative pain, vaginitis, skin disorder, depression, hiccup, hyporeflexia, infection, fungal infection, sialoadenitis, otitis media, erythematous rash, pneumonia, edema, salivary gland enlargement, allergy, gastroesophageal reflux, eye abnormality, migraine, tooth disorder, epistaxis, flatulence, toothache, ulcerative stomatitis, anemia, hypoesthesia, cystitis, leg cramps, abscess, eructation, moniliasis, palpitation, increased amylase, xerophthalmia, allergic reaction.
+The following events were reported in Sjögren’s patients at incidences of <3% and ≥1%: skeletal pain, insomnia, hot flushes, rigors, anxiety, constipation, tremor, abnormal vision, hypertonia, peripheral edema, chest pain, myalgia, fever, anorexia, eye pain, earache, dry mouth, vertigo, salivary gland pain, pruritus, influenza-like symptoms, eye infection, post operative pain, vaginitis, skin disorder, depression, hiccup, hyporeflexia, infection, fungal infection, sialadenitis, otitis media, erythematous rash, pneumonia, edema, salivary gland enlargement, allergy, gastroesophageal reflux, eye abnormality, migraine, tooth disorder, epistaxis, flatulence, toothache, ulcerative stomatitis, anemia, hypoesthesia, cystitis, leg cramps, abscess, eructation, moniliasis, palpitation, increased amylase, xerophthalmia, allergic reaction.
 
-The following events were reported rarely in treated Sjögren’s patients (<1%): Causal relation is unknown:
+## 6.2 Postmarketing Experience
 
-Body as a Whole Disorders:aggravated allergy, precordial chest pain, abnormal crying, hematoma, leg pain, edema, periorbital edema, activated pain trauma, pallor, changed sensation temperature, weight decrease, weight increase, choking, mouth edema, syncope, malaise, face edema, substernal chest pain
+The following adverse reactions have been identified during post approval use of EVOXAC.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiovascular Disorders: abnormal ECG, heart disorder, heart murmur, aggravated hypertension, hypotension, arrhythmia, extrasystoles, t wave inversion, tachycardia, supraventricular tachycardia, angina pectoris, myocardial infarction, pericarditis, pulmonary embolism, peripheral ischemia, superficial phlebitis, purpura, deep thrombophlebitis, vascular disorder, vasculitis, hypertension
+Gastrointestinal disorders:Diarrhea, excessive salivation, dyspepsia, pancreatitis
 
-Digestive Disorders: appendicitis, increased appetite, ulcerative colitis, diverticulitis, duodenitis, dysphagia, enterocolitis, gastric ulcer, gastritis, gastroenteritis, gastrointestinal hemorrhage, gingivitis, glossitis, rectum hemorrhage, hemorrhoids, ileus, irritable bowel syndrome, melena, mucositis, esophageal stricture, esophagitis, oral hemorrhage, peptic ulcer, periodontal destruction, rectal disorder, stomatitis, tenesmus, tongue discoloration, tongue disorder, geographic tongue, tongue ulceration, dental caries
+General disorders:Asthenia
 
-Endocrine Disorders: increased glucocorticoids, goiter, hypothyroidism
+Immune system disorders:Anaphylactic reaction
 
-Hematologic Disorders: thrombocytopenic purpura, thrombocythemia, thrombocytopenia, hypochromic anemia, eosinophilia, granulocytopenia, leucopenia, leukocytosis, cervical lymphadenopathy, lymphadenopathy
+Musculoskeletal disorders:Pain in extremity
 
-Liver and Biliary System Disorders: cholelithiasis, increased gamma-glutamyl transferase, increased hepatic enzymes, abnormal hepatic function, viral hepatitis, increased serum glutamate oxaloacetic transaminase (SGOT) (also called AST-aspartate aminotransferase), increased serum glutamate pyruvate transaminase (SGPT) (also called ALT-alanine aminotransferase)
+Nervous system disorders:Headache, dizziness
 
-Metabolic and Nutritional Disorders:dehydration, diabetes mellitus, hypercalcemia, hypercholesterolemia, hyperglycemia, hyperlipemia, hypertriglyceridemia, hyperuricemia, hypoglycemia, hypokalemia, hyponatremia, thirst
+Respiratory disorders:Pharyngitis (nasopharyngitis)
 
-Musculoskeletal Disorders: arthritis, aggravated arthritis, arthropathy, femoral head avascular necrosis, bone disorder, bursitis, costochondritis, plantar fasciitis, muscle weakness, osteomyelitis, osteoporosis, synovitis, tendinitis, tenosynovitis
+Vascular disorders:Flushing
 
-Neoplasms:basal cell carcinoma, squamous carcinoma
-
-Nervous Disorders: carpal tunnel syndrome, coma, abnormal coordination, dysesthesia, dyskinesia dysphonia, aggravated multiple sclerosis, involuntary muscle contractions, neuralgia, neuropathy, paresthesia, speech disorder, agitation, confusion, depersonalization, aggravated depression, abnormal dreaming, emotional lability, manic reaction, paroniria, somnolence, abnormal thinking, hyperkinesia, hallucination
-
-Miscellaneous Disorders: fall, food poisoning, heat stroke, joint dislocation, post-operative hemorrhage
-
-Resistance Mechanism Disorders:cellulitis, herpes simplex, herpes zoster, bacterial infection, viral infection, genital moniliasis, sepsis
-
-Respiratory Disorders: asthma, bronchospasm, chronic obstructive airway disease, dyspnea, hemoptysis, laryngitis, nasal ulcer, pleural effusion, pleurisy, pulmonary congestion, pulmonary fibrosis, respiratory disorder
-
-Rheumatologic Disorders: aggravated rheumatoid arthritis, lupus erythematosus rash, lupus erythematosus syndrome
-
-Skin and Appendages Disorders: acne, alopecia, burn, dermatitis, contact dermatitis, lichenoid dermatitis, eczema, furunculosis, hyperkeratosis, lichen planus, nail discoloration, nail disorder, onychia, onychomycosis, paronychia, photosensitivity reaction, rosacea, scleroderma, seborrhea, skin discoloration, dry skin, skin exfoliation, skin hypertrophy, skin ulceration, urticaria, verruca, bullous eruption, cold clammy skin
-
-Special Senses Disorders:deafness, decreased hearing, motion sickness, parosmia, taste perversion, blepharitis, cataract, corneal opacity, corneal ulceration, diplopia, glaucoma, anterior chamber eye hemorrhage, keratitis, keratoconjunctivitis, mydriasis, myopia, photopsia, retinal deposits, retinal disorder, scleritis, vitreous detachment, tinnitus
-
-Urogenital Disorders:epididymitis, prostatic disorder, abnormal sexual function, amenorrhea, female breast neoplasm, malignant female breast neoplasm, female breast pain, positive cervical smear test, dysmenorrhea, endometrial disorder, intermenstrual bleeding, leukorrhea, menorrhagia, menstrual disorder, ovarian cyst, ovarian disorder, genital pruritus, uterine hemorrhage, vaginal hemorrhage, atrophic vaginitis, albuminuria, bladder discomfort, increased blood urea nitrogen, dysuria, hematuria, micturition disorder, nephrosis, nocturia, increased nonprotein nitrogen, pyelonephritis, renal calculus, abnormal renal function, renal pain, strangury, urethral disorder, abnormal urine, urinary incontinence, decreased urine flow, pyuria
-
-In one subject with lupus erythematosus receiving concomitant multiple drug therapy, a highly elevated ALT level was noted after the fourth week of cevimeline therapy.
-In two other subjects receiving cevimeline in the clinical trials, very high AST levels were noted.
-The significance of these findings is unknown.
-
-Additional adverse events (relationship unknown) which occurred in other clinical studies (patient population different from Sjögren’s patients) are as follows:
-
-cholinergic syndrome, blood pressure fluctuation, cardiomegaly, postural hypotension, aphasia, convulsions, abnormal gait, hyperesthesia, paralysis, abnormal sexual function, enlarged abdomen, change in bowel habits, gum hyperplasia, intestinal obstruction, bundle branch block, increased creatine phosphokinase, electrolyte abnormality, glycosuria, gout, hyperkalemia, hyperproteinemia, increased lactic dehydrogenase (LDH), increased alkaline phosphatase, failure to thrive, abnormal platelets, aggressive reaction, amnesia, apathy, delirium, delusion, dementia, illusion, impotence, neurosis, paranoid reaction, personality disorder, hyperhemoglobinemia, apnea, atelectasis, yawning, oliguria, urinary retention, distended vein, lymphocytosis.
-
-The following adverse reaction has been identified during post-approval use of EVOXAC®.
-Because post-marketing adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
-Post-Marketing Adverse Events: Liver and Biliary System Disorders: cholecystitis
-
-To report SUSPECTED ADVERSE REACTIONS, contact Cosette Pharmaceuticals, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+Skin and subcutaneous tissue disorders:Rash, Stevens-Johnson syndrome

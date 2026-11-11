@@ -1,6 +1,7 @@
-# MANAGEMENT OF OVERDOSE
+# 10 OVERDOSAGE
 
-Management of the signs and symptoms of acute overdosage should be handled in a manner consistent with that indicated for other muscarinic agonists: general supportive measures should be instituted.
-If medically indicated, atropine, an anti-cholinergic agent, may be of value as an antidote for emergency use in patients who have had an overdose of cevimeline.
-If medically indicated, epinephrine may also be of value in the presence of severe cardiovascular depression or bronchoconstriction.
-It is not known if cevimeline is dialyzable.
+In the case of an overdosage with EVOXAC, provide general supportive measures.
+If medically indicated, consider atropine, an anti-cholinergic drug, as an antidote for emergency use.
+If medically indicated, consider epinephrine in patients with severe cardiovascular depression or bronchoconstriction.
+It is not known if EVOXAC is dialyzable.
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.

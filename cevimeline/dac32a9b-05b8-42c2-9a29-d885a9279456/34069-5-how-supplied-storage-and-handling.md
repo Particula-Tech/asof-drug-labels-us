@@ -1,17 +1,13 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-EVOXAC ® is available as white, hard gelatin capsules containing 30 mg of cevimeline hydrochloride.
-EVOXAC ® capsules have a white opaque cap and a white opaque body.
-The capsules are imprinted with “EVOXAC” on the cap and “30 mg” on the body with a black bar above “30 mg”.
-It is supplied in child resistant bottles of:
+How Supplied
 
-100 capsules (NDC 0713-0883-01).
+- EVOXAC (cevimeline hydrochloride) capsules, 30 mg, are white, hard gelatin capsules with “EVOXAC” on the cap and “30 mg” with a black bar above “30 mg” on the body.
+  It is supplied in child resistant bottles of 100 capsules (NDC 0713-0883-01).
+- EVOXAC (cevimeline hydrochloride) oral solution, 30 mg/5 mL, is a clear, colorless to slightly yellow solution with a raspberry flavor.
+  It is supplied in a tight, child-resistant container as defined in the USP/NF.
+  Each bottle contains 473 mL of solution (NDC 0713-0915-75).
 
-Store at 25°C (77°F) excursion permitted to 15°-30°C (59°-86°F)
+Storage and Handling
 
-Rx only
-
-Marketed by: Cosette Pharmaceuticals, Inc. South Plainfield, NJ 07080
-
-8-0883CP1 Iss.
-02/2022
+Store EVOXAC at 20°C to 25°C (68°F to 77°F); excursions permitted from 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
