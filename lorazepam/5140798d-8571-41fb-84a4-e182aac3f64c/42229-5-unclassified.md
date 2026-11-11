@@ -19,10 +19,10 @@ To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at
 
 For Product Inquiry call 1-877-845-0689.
 
-Manufactured for: Civica, Inc., Lehi, Utah 84043
+Distributed by: Civica, Inc., Lehi, Utah 84048
 
 Manufactured by: Hikma Pharmaceuticals USA Inc. Cherry Hill, NJ 08003
 
-Revised February 2021
+Revised April 2026
 
-462-879-01
+462-879-02
