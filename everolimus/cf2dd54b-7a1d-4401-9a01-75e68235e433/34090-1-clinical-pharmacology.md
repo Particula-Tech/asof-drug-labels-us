@@ -23,7 +23,7 @@ Over the dose range of 0.5 mg to 2 mg twice daily, everolimus Cmax and AUC are d
 Food Effect
 
 In 24 healthy subjects, a high-fat breakfast (44.5 g fat) reduced everolimus Cmax by 60%, delayed Tmax by a median 1.3 hours, and reduced AUC by 16% compared with a fasting administration.
-To minimize variability, everolimus should be taken consistently with or without food [see Dosage and Administration (2.6)].
+To minimize variability, everolimus should be taken consistently with or without food [see Dosage and Administration (2.1)].
 
 Distribution
 
@@ -35,7 +35,7 @@ Elimination
 
 Metabolism
 
-Everolimus is a substrate of CYP3A4 and P-gp.
+Everolimus is a substrate of CYP3A and P-gp.
 Following oral administration, everolimus is the main circulating component in human blood.
 Six main metabolites of everolimus have been detected in human blood, including 3 monohydroxylated metabolites, 2 hydrolytic ring-opened products, and a phosphatidylcholine conjugate of everolimus.
 These metabolites were also identified in animal species used in toxicity studies and showed approximately 100 times less activity than everolimus itself.
@@ -55,7 +55,7 @@ Steady-State Pharmacokinetic Parameters (mean +/- SD) Following the Administrati
 
 | Cmax | Tmax | AUC | CL/F1 | Vc/F1 | Half-life (T1/2) |
 | --- | --- | --- | --- | --- | --- |
-| 11.1 ± 4.6 ng/mL | 1 to 2 h | 75 + 31 ng●hr/mL | 8.8 L/h | 110 L | 30 ± 11 h |
+| 11.1 ± 4.6 ng/mL | 1 to 2 h | 75 + 31 ng●h/mL | 8.8 L/h | 110 L | 30 ± 11 h |
 | 1Population pharmacokinetic analysis. |  |  |  |  |  |
 
 The half-life estimates from 12 maintenance renal transplant patients who received single doses of everolimus capsules at 0.75 mg or 2.5 mg with their maintenance cyclosporine regimen indicate that the pharmacokinetics of everolimus are linear over the clinically-relevant dose range.
@@ -63,60 +63,41 @@ Results indicate the half-life of everolimus in maintenance renal transplant pat
 
 2.5 mg everolimus during steady-state cyclosporine treatment was 30 ± 11 hours (range: 19 to 53 hours).
 
-## 12.5 Drug-Drug Interactions
+Drug Interactions Studies
 
-Everolimus is known to be a substrate for both cytochrome CYP3A4 and P-gp.
+Everolimus is known to be a substrate for both CYP3A and P-gp.
 The pharmacokinetic interaction between everolimus and concomitantly administered drugs is discussed below.
-Drug interaction studies have not been conducted with drugs other than those described below [see Warnings and Precautions (5.14), Drug Interactions (7)].
+All in vivo interaction studies were conducted without concomitant cyclosporine, except the ones evaluating the effect of cyclosporine [see Warnings and Precautions (5.14), Drug Interactions (7)].
 
-Cyclosporine (CYP3A4/P-gp Inhibitor and CYP3A4 Substrate)
+Cyclosporine (P-gp and Weak CYP3A Inhibitor): In a single-dose study in 12 healthy subjects, cyclosporine (Neoral) administered at a dose of 175 mg increased everolimus AUC by 168% (range: 46% to 365%) and Cmax by 82% (range: 25% to 158%) when coadministered with 2 mg everolimus compared with administration of everolimus alone [see Drug Interactions (7.1)].
 
-Everolimus should be taken concomitantly with cyclosporine in kidney transplant patients.
-Everolimus concentrations may decrease when doses of cyclosporine are reduced, unless the everolimus dose is increased [see Dosage and Administration (2.1), Drug Interactions (7.2)].
+Ketoconazole (P-gp and Strong CYP3A Inhibitor): Multiple-dose administration of 200 mg ketoconazole twice daily for 8 days to 12 healthy subjects significantly increased everolimus Cmax, AUC, and half-life 3.9-fold, 15-fold, and 1.9-fold, respectively, when coadministered with 2 mg everolimus [see Warnings and Precautions (5.14)].
 
-In a single-dose study in healthy subjects, cyclosporine (Neoral) administered at a dose of 175 mg increased everolimus AUC by 168% (range: 46% to 365%) and Cmax by 82% (range: 25% to 158%) when administered with 2 mg everolimus compared with administration of everolimus alone [see Drug Interactions (7.2)].
+Erythromycin (P-gp and Moderate CYP3A Inhibitor): Multiple-dose administration of 500 mg erythromycin 3 times daily for 9 days to 16 healthy subjects significantly increased everolimus Cmax, AUC, and half-life 2-fold, 4.4-fold, and 1.4-fold, respectively, when coadministered with 2 mg everolimus.
 
-Ketoconazole and Other Strong CYP3A4 Inhibitors
+Verapamil (P-gp and Moderate CYP3A Inhibitor): Multiple-dose administration of 80 mg verapamil 3 times daily for 6 days to 16 healthy subjects significantly increased everolimus Cmax and AUC 2.3-fold and 3.5-fold, respectively, when coadministered with 2 mg everolimus.
+Everolimus half-life has not changed.
 
-Multiple-dose administration of 200 mg ketoconazole twice daily for 5 days to 12 healthy volunteers significantly increased everolimus Cmax, AUC, and half-life by 3.9-fold, 15-fold, and 89%, respectively, when coadministered with 2 mg everolimus.
-It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) should not be coadministered with everolimus [see Warnings and Precautions (5.14), Drug Interactions (7.3)].
-
-Erythromycin (Moderate CYP3A4 Inhibitor)
-
-Multiple-dose administration of 500 mg erythromycin 3 times daily for 5 days to 16 healthy volunteers significantly increased everolimus Cmax, AUC, and half-life by 2-fold, 4.4-fold, and 39%, respectively, when coadministered with 2 mg everolimus.
-If erythromycin is coadministered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary [see Drug Interactions (7.4)].
-
-Verapamil (CYP3A4 Inhibitor and P-gp Substrate)
-
-Multiple-dose administration of 80 mg verapamil 3 times daily for 5 days to 16 healthy volunteers significantly increased everolimus Cmax and AUC by 2.3-fold and 3.5-fold, respectively, when coadministered with 2 mg everolimus.
-Everolimus half-life was not changed.
-If verapamil is coadministered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary [see Drug Interactions (7.5)].
-
-Atorvastatin (CYP3A4 Substrate) and Pravastatin (P-gp Substrate)
-
-Following administration of a single dose of 2 mg everolimus to 12 healthy subjects, the concomitant administration of a single oral dose administration of atorvastatin 20 mg or pravastatin 20 mg only slightly decreased everolimus Cmax and AUC by 9% and 10%, respectively.
+Atorvastatin (CYP3A Substrate) and Pravastatin (MRP2 Substrate): Following administration of a single dose of 2 mg everolimus to 12 healthy subjects, the coadministration of a single oral dose administration of atorvastatin 20 mg or pravastatin 20 mg decreased everolimus Cmax and AUC by 9% and 10%, respectively.
 There was no apparent change in the mean T1/2 or median Tmax.
-In the same study, the concomitant everolimus dose slightly increased the mean Cmax of atorvastatin by 11% and slightly decreased the AUC by 7%.
-The concomitant everolimus dose decreased the mean Cmax and AUC of pravastatin by 10% and 5%, respectively.
-No dosage adjustments are needed for concomitant administration of everolimus and atorvastatin and pravastatin [see Drug Interactions (7.6)].
+In the same study, the coadministered everolimus dose increased the mean Cmax of atorvastatin by 11% and decreased the AUC by 7%.
+The coadministered everolimus dose decreased the mean Cmax and AUC of pravastatin by 10% and 5%, respectively [see Drug Interactions (7.2)].
 
-Midazolam (CYP3A4/5 Substrate)
+Midazolam (CYP3A Substrate): In 25 healthy male subjects, coadministration of a single dose of midazolam 4 mg oral solution with steady-state everolimus (10 mg daily dose for 5 days) resulted in a 25% increase in midazolam Cmax and a 30% increase in midazolam AUC; whereas the terminal half-life of midazolam and the metabolic AUC-ratio (1-hydroxymidazolam/midazolam) were not affected.
 
-In 25 healthy male subjects, coadministration of a single dose of midazolam 4 mg oral solution with steady-state everolimus (10 mg daily dose for 5 days) resulted in a 25% increase in midazolam Cmax and a 30% increase in midazolam AUC; whereas the terminal half-life of midazolam and the metabolic AUC-ratio (1-hydroxymidazolam/midazolam) were not affected [see Drug Interactions (7.9)].
+Rifampin (P-gp inhibitor and inducer and Strong CYP3A Inducer): Coadministration of a single dose of 4 mg everolimus with rifampin after pretreatment of 12 healthy subjects with multiple-dose rifampin (600 mg once-daily for 8 days) increased everolimus clearance nearly 3-fold, and decreased Cmax by 58% and AUC by 63%.
+The observed change in everolimus is a composite effect of inhibition of P-gp as well as induction of CYP3A4 and P-gp.
 
-Rifampin (Strong CYP3A4 and P-gp Inducer)
+Octreotide: Coadministration of everolimus and depot octreotide increased octreotide Cmin by approximately 50%.
 
-Pretreatment of 12 healthy subjects with multiple-dose rifampin (600 mg once-daily for 8 days) followed by a single dose of 4 mg everolimus increased everolimus clearance nearly 3-fold, and decreased Cmax by 58% and AUC by 63%.
-Combination with rifampin is not recommended [see Drug Interactions (7.8)].
+Cannabidiol Oral Solution: Everolimus Cmax and AUC increased 2.5-fold when coadministered with cannabidiol oral solution (12.5 mg/kg twice daily) [see Drug Interactions (7.1)].
 
 ## 12.6 Specific Populations
 
 Hepatic Impairment
 
 Relative to the AUC of everolimus in subjects with normal hepatic function, the average AUC in 6 patients with mild hepatic impairment (Child-Pugh Class A) was 1.6-fold higher following administration of a 10 mg single dose.
-In 2 independently studied groups of 8 and 9 patients with moderate hepatic impairment (Child-Pugh Class B) the average AUC was 2.1-fold and 3.3-fold higher following administration of a 2 mg or a 10 mg single dose, respectively; and in 6 patients with severe hepatic impairment (Child-Pugh Class C) the average AUC was 3.6-fold higher following administration of a
-
-10 mg single dose.
+In 2 independently studied groups of 8 and 9 patients with moderate hepatic impairment (Child-Pugh Class B) the average AUC was 2.1-fold and 3.3-fold higher following administration of a 2 mg or a 10 mg single dose, respectively; and in 6 patients with severe hepatic impairment (Child-Pugh Class C) the average AUC was 3.6-fold higher following administration of a 10 mg single dose.
 For patients with mild hepatic impairment (Child-Pugh Class A), the dose should be reduced by approximately one-third of the normally recommended daily dose.
 For patients with moderate or severe hepatic impairment (Child-Pugh Class B or C), the initial daily dose should be reduced to approximately one-half of the normally recommended daily dose.
 Further dose adjustment and/or dose titration should be made if a patient’s whole blood trough concentration of everolimus, as measured by an LC/MS/MS assay, is not within the target trough concentration range of 3 to 8 ng/mL [see Dosage and Administration (2.7)].
@@ -140,7 +121,7 @@ Based on analysis of population pharmacokinetics, oral clearance (CL/F) is, on a
 Everolimus in Kidney Transplantation
 
 Based on exposure-efficacy and exposure-safety analyses of clinical trials and using an LC/MS/MS assay method, kidney transplant patients achieving everolimus whole blood trough concentrations greater than or equal to 3 ng/mL have been found to have a lower incidence of treated biopsy-proven acute rejection compared with patients whose trough concentrations were below 3 ng/mL.
-Patients who attained everolimus trough concentrations within the range of 6 to 12 ng/mL had similar efficacy and more adverse reactions than patients who attained lower trough concentrations between 3 to 8 ng/mL [see Dosage and Administration (2.3)].
+Patients who attained everolimus trough concentrations within the range of 6 to 12 ng/mL had similar efficacy and more adverse reactions than patients who attained lower trough concentrations between 3 to 8 ng/mL [see Dosage and Administration (2.4)].
 
 In the kidney clinical trial [see Clinical Studies (14.1)], everolimus whole blood trough concentrations were measured at Days 3, 7, and 14 and Months 1, 2, 3, 4, 6, 7, 9, and 12.
 The proportion of patients receiving 0.75 mg twice daily everolimus treatment regimen who had everolimus whole blood trough concentrations within the protocol specified target range of 3 to 8 ng/mL at Days 3, 7, and 14 were 55%, 71% and 69%, respectively.

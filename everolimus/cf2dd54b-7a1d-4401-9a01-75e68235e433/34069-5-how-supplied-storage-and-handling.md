@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+How Supplied
+
 Everolimus Tablets
 
 0.25 mg tablets are supplied as white to off white, round standard convex tablets, plain on one side and “54” over “414” debossed on the other side.

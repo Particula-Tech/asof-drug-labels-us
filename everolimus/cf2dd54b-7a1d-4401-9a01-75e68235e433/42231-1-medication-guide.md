@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-Everolimus Tablets (e” ver oh’ li mus)
+Everolimus Tablets (e” ver oh’ li mus) for oral use
 
 Rx only
 
@@ -115,7 +115,7 @@ What should I avoid while taking everolimus?
 - •Avoid becoming pregnant.
   See the section “What should I tell my doctor before taking everolimus?”
 
-What are possible side effects of everolimus?
+What are the possible side effects of everolimus?
 
 Everolimus may cause serious side effects, including:
 
@@ -187,7 +187,7 @@ The most common side effects of everolimus in people who have had a liver transp
 These are not all of the possible side effects of everolimus.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to the FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Everolimus Tablets?
 
@@ -228,6 +228,6 @@ Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50001129/04
+C50001129/04a
 
-Revised September 2024
+Revised September 2026

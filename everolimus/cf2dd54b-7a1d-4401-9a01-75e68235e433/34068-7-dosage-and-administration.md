@@ -1,34 +1,42 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+## 2.1 Important Dosage and Administration Instructions
+
+Everolimus tablets should be swallowed whole with a glass of water.
+
+Do not crush everolimus tablets.
+
+Administer everolimus tablets consistently approximately 12 hours apart with or without food to minimize variability in absorption and at the same time as cyclosporine or tacrolimus [see Clinical Pharmacology (12.3)].
+
 Patients receiving everolimus may require dose adjustments based on everolimus blood concentrations achieved, tolerability, individual response, change in concomitant medications and the clinical situation.
 Optimally, dose adjustments of everolimus should be based on trough concentrations obtained 4 or 5 days after a previous dosing change.
 Dose adjustment is required if the trough concentration is below 3 ng/mL.
 The total daily dose of everolimus should be doubled using the available tablet strengths (0.25 mg, 0.5 mg, 0.75 mg, or 1 mg).
-Dose adjustment is also required if the trough concentration is greater than 8 ng/mL on 2 consecutive measures; the dose of everolimus should be decreased by 0.25 mg twice daily [seeDosage and Administration (2.3), Clinical Pharmacology (12.3)].
+Dose adjustment is also required if the trough concentration is greater than 8 ng/mL on 2 consecutive measures; the dose of everolimus should be decreased by 0.25 mg twice daily [seeDosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
-## 2.1 Dosage in Adult Kidney Transplant Patients
+## 2.2 Recommended Dosage in Adult Patients with a Kidney Transplant
 
-An initial everolimus dose of 0.75 mg orally twice daily (1.5 mg per day) is recommended for adult kidney transplant patients in combination with reduced-dose cyclosporine, administered as soon as possible after transplantation [see Dosage and Administration (2.3, 2.4), Clinical Studies (14.1)].
+The initial recommended dosage of everolimus tablets, in combination with reduced-dose cyclosporine, in adult patients with a kidney transplant is 0.75 mg orally twice daily (1.5 mg per day), administered as soon as possible after transplantation [see Dosage and Administration (2.4, 2.5)].
 
-Oral prednisone should be initiated once oral medication is tolerated.
-Steroid doses may be further tapered on an individualized basis depending on the clinical status of patient and function of graft.
+Oral prednisone shouldbe initiated once oral medication is tolerated.
+Steroid doses may be further tapered on an individualized basis depending on the clinical status of patientand function of graft.
 
-## 2.2 Dosage in Adult Liver Transplant Patients
+## 2.3 Recommended Dosage in Adult Patients with a Liver Transplant
 
 Start everolimus at least 30 days posttransplant.
-An initial dose of 1 mg orally twice daily (2 mg per day) is recommended for adult liver transplant patients in combination with reduced-dose tacrolimus [see Dosage and Administration (2.3, 2.5), Clinical Studies (14.2)].
+The initial recommended dosage of everolimus tablets, in combination with reduced-dose tacrolimus, in adult patients with a liver transplant is 1 mg orally twice daily (2 mg per day) [see Dosage and Administration (2.4, 2.6)].
 
 Steroid doses may be further tapered on an individualized basis depending on the clinical status of patient and function of graft.
 
-## 2.3 Therapeutic Drug Monitoring (TDM) - Everolimus
+## 2.4 Therapeutic Drug Monitoring (TDM) - Everolimus
 
 Routine everolimus whole blood therapeutic drug concentration monitoring is recommended for all patients.
 The recommended everolimus therapeutic range is 3 to 8 ng/mL [see Clinical Pharmacology (12.7)].
 Careful attention should be made to clinical signs and symptoms, tissue biopsies, and laboratory parameters.
-It is important to monitor everolimus blood concentrations, in patients with hepatic impairment, during concomitant administration of CYP3A4 inducers or inhibitors or cannabidiol, when switching cyclosporine formulations and/or when cyclosporine dosing is reduced according to recommended target concentrations [see Drug Interactions (7), Clinical Pharmacology (12.7, 12.8)].
+It is important to monitor everolimus blood concentrations, in patients with hepatic impairment, during concomitant administration of CYP3A inducers or inhibitors or cannabidiol, when switching cyclosporine formulations and/or when cyclosporine dosing is reduced according to recommended target concentrations [see Drug Interactions (7), Clinical Pharmacology (12.7, 12.8)].
 
 There is an interaction of cyclosporine on everolimus, and consequently, everolimus concentrations may decrease if cyclosporine exposure is reduced.
-There is little to no pharmacokinetic interaction of tacrolimus on everolimus, and thus, everolimus concentrations do not decrease if the tacrolimus exposure is reduced [see Drug Interactions (7.2)].
+There is little to no pharmacokinetic interaction of tacrolimus on everolimus, and thus, everolimus concentrations do not decrease if the tacrolimus exposure is reduced [see Drug Interactions (7.1)].
 
 The everolimus recommended therapeutic range of 3 to 8 ng/mL is based on an LC/MS/MS assay method.
 Currently in clinical practice, everolimus whole blood trough concentrations may be measured by chromatographic or immunoassay methodologies.
@@ -36,9 +44,9 @@ Because the measured everolimus whole blood trough concentrations depend on the 
 Consideration of assay results must be made with knowledge of the specific assay used.
 Therefore, communication should be maintained with the laboratory performing the assay.
 
-## 2.4 Therapeutic Drug Monitoring (TDM) - Cyclosporine in Kidney Transplant Patients
+## 2.5 Therapeutic Drug Monitoring (TDM) - Cyclosporine in Kidney Transplant Patients
 
-Both cyclosporine doses and the target range for whole blood trough concentrations should be reduced, when given in a regimen with everolimus, in order to minimize the risk of nephrotoxicity [see Warnings and Precautions (5.6), Drug Interactions (7.2), Clinical Pharmacology (12.8)].
+Both cyclosporine doses and the target range for whole blood trough concentrations should be reduced, when given in a regimen with everolimus, in order to minimize the risk of nephrotoxicity [see Warnings and Precautions (5.6), Drug Interactions (7.1), Clinical Pharmacology (12.8)].
 
 The recommended cyclosporine therapeutic ranges when administered with everolimus are 100 to 200 ng/mL through Month 1 posttransplant, 75 to 150 ng/mL at Months 2 and 3 posttransplant, 50 to 100 ng/mL at Month 4 posttransplant, and 25 to 50 ng/mL from Month 6 through Month 12 posttransplant.
 The median trough concentrations observed in the clinical trial ranged between 161 to 185 ng/mL through Month 1 posttransplant and between 111 to 140 ng/mL at Months 2 and 3 posttransplant.
@@ -53,9 +61,9 @@ In renal transplant patients, the cyclosporine dose should be based on cyclospor
 In renal transplantation, there are limited data regarding dosing everolimus with reduced cyclosporine trough concentrations of 25 to 50 ng/mL after 12 months.
 Everolimus has not been evaluated in clinical trials with other formulations of cyclosporine.
 Prior to dose reduction of cyclosporine, it should be ascertained that steady-state everolimus whole blood trough concentration is at least 3 ng/mL.
-There is an interaction of cyclosporine on everolimus, and consequently, everolimus concentrations may decrease if cyclosporine exposure is reduced [see Drug Interactions (7.2)].
+There is an interaction of cyclosporine on everolimus, and consequently, everolimus concentrations may decrease if cyclosporine exposure is reduced [see Drug Interactions (7.1)].
 
-## 2.5 Therapeutic Drug Monitoring (TDM) - Tacrolimus in Liver Transplant Patients
+## 2.6 Therapeutic Drug Monitoring (TDM) - Tacrolimus in Liver Transplant Patients
 
 Both tacrolimus doses and the target range for whole blood trough concentrations should be reduced, when given in a regimen with everolimus, in order to minimize the potential risk of nephrotoxicity [see Warnings and Precautions (5.6), Clinical Pharmacology (12.9)].
 
@@ -71,12 +79,6 @@ In liver transplant patients, the tacrolimus dose should be based on tacrolimus 
 In liver transplantation, there are limited data regarding dosing everolimus with reduced tacrolimus trough concentrations of 3 to 5 ng/mL after 12 months.
 Prior to dose reduction of tacrolimus, it should be ascertained that the steady-state everolimus whole blood trough concentration is at least 3 ng/mL.
 Unlike the interaction between cyclosporine and everolimus, tacrolimus does not affect everolimus trough concentrations, and consequently, everolimus concentrations do not decrease if the tacrolimus exposure is reduced.
-
-## 2.6 Administration
-
-Everolimus tablets should be swallowed whole with a glass of water and not crushed before use.
-
-Administer everolimus consistently approximately 12 hours apart with or without food to minimize variability in absorption and at the same time as cyclosporine or tacrolimus [see Clinical Pharmacology (12.3)].
 
 ## 2.7 Hepatic Impairment
 

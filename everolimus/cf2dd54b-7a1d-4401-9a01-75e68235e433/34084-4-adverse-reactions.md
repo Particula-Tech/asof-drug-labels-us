@@ -4,7 +4,7 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the label.
 
-- •Hypersensitivity Reactions [see Contraindications (4.1)]
+- •Hypersensitivity Reactions [see Contraindications (4)]
 - •Lymphomas and Other Malignancies [see Boxed Warning, Warnings and Precautions (5.2)]
 - •Serious Infections [see Warnings and Precautions (5.3)]
 - •Kidney Graft Thrombosis [see Warnings and Precautions (5.4)]
@@ -23,11 +23,11 @@ The following adverse reactions are discussed in greater detail in other section
 
 ## 6.2 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in other clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 Kidney Transplantation
 
-The data described below reflect exposure to everolimus in an open-label, randomized trial of de novo kidney transplant patients of concentration-controlled everolimus at an initial everolimus starting dose of 1.5 mg per day [target trough concentrations 3 to 8 ng/mL with reduced exposure cyclosporine (N=274) compared to mycophenolic acid (N=273) with standard exposure cyclosporine].
+Adverse reactions in everolimus was derived from an open-label, randomized trial of de novo kidney transplant patients of concentration-controlled everolimus at an initial everolimus starting dose of 1.5 mg per day [target trough concentrations 3 to 8 ng/mL with reduced exposure cyclosporine (N=274) compared to mycophenolic acid (N=273) with standard exposure cyclosporine].
 All patients received basiliximab induction therapy and corticosteroids.
 The population was between 18 and 70 years, more than 43% were 50 years of age or older (mean age was 46 years in the everolimus group, 47 years control group); a majority of recipients were male (64% in the everolimus group, 69% control group); and a majority of patients were Caucasian (70% in the everolimus group, 69% control group).
 Demographic characteristics were comparable between treatment groups.
@@ -107,7 +107,7 @@ Incidence Rates of Frequent (Greater Than or Equal to 10% in any Treatment Group
 | Abdominal pain | 36 (13) | 42 (15) |
 | Dyspepsia | 12 (4) | 31 (11) |
 | Abdominal pain upper | 9 (3) | 30 (11) |
-| General disorders and administration site conditions | 181 (66) | 160 (59) |
+| General disorders and administrative-site conditions | 181 (66) | 160 (59) |
 | Edema peripheral | 123 (45) | 108 (40) |
 | Pyrexia | 51 (19) | 40 (15) |
 | Fatigue | 25 (9) | 28 (10) |
@@ -161,7 +161,7 @@ The data described below reflect exposure to everolimus starting 30 days after t
 Seven hundred and nineteen (719) patients who fulfilled the inclusion/exclusion criteria [see Clinical Studies (14.2)] were randomized into one of the three treatment groups of the study.
 During the first 30 days prior to randomization, patients received tacrolimus and corticosteroids, with or without mycophenolate mofetil (about 70% to 80% received MMF).
 No induction antibody was administered.
-At randomization, MMF was discontinued and patients were randomized to everolimus initial dose of 1 mg twice per day (2 mg daily) and adjusted to protocol specified target trough concentrations of 3 to 8 ng/mL with reduced exposure tacrolimus [protocol specified target troughs 3 to 5 ng/mL] (N=245) [see Clinical Pharmacology (12.7, 12.9)] or to a control group of standard exposure tacrolimus [protocol-specified target troughs 8 to 12 ng/mL up to Month 4 posttransplant, then 6 to 10 ng/mL Month 4 through Month 12 posttransplant] (N=241).
+At randomization, MMF was discontinued and patients were randomized to everolimus initial dose of 1 mg twice per day (2 mg daily) and adjusted to protocol specified target trough concentrations of 3 to 8 ng/mL with reduced exposure tacrolimus [protocol-specified target troughs 3 to 5 ng/mL] (N=245) [see Clinical Pharmacology (12.7, 12.9)] or to a control group of standard exposure tacrolimus [protocol-specified target troughs 8 to 12 ng/mL up to Month 4 posttransplant, then 6 to 10 ng/mL Month 4 through Month 12 posttransplant] (N=241).
 A third randomized group was discontinued prematurely [see Clinical Studies (14.2)] and is not described in this section.
 
 The population was between 18 and 70 years, more than 50% were 50 years of age (mean age was 54 years in the everolimus group, 55 years in the tacrolimus control group); 74% were male in both everolimus and control groups, respectively, and a majority were Caucasian (86% everolimus group, 80% control group).
@@ -205,7 +205,7 @@ Lipid Abnormalities
 Hyperlipidemia adverse reactions (including the preferred terms: hyperlipidemia, hypercholesterolemia, blood cholesterol increased, blood triglycerides increased, hypertriglyceridemia lipids increased, total cholesterol/HDL ratio increased, and dyslipidemia) were reported for 24% everolimus patients, and 10% control patients at 12 months.
 Results were similar at 24 months (28% and 12%, respectively).
 
-New Onset of Diabetes After Transplant (NODAT)
+New Onset of Diabetes after Transplant (NODAT)
 
 Of the patients without diabetes mellitus at randomization, NODAT was reported in 32% in the everolimus group compared to 29% in the control group at 12 months and similar at 24 months.
 
@@ -215,15 +215,15 @@ Within each MedDRA system organ class, the adverse reactions are presented in or
 | Table 3. Incidence Rates of Most Frequent (Greater Than or Equal to 10% in Any Treatment Group) Adverse Reactions at 12 Months and 24 Months After Liver Transplantation (Safety Population*) |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Adverse Reactions | 12 months |  | 24 months |  |
-| Everolimus with reduced exposure tacrolimus N=245 n (%) | Tacrolimus standard exposure N=241 n (%) | Everolimus with reduced exposure tacrolimusN=245n (%) | Tacrolimus standard exposure N=242n (%) |  |
+| Everolimus with reduced exposure tacrolimus N=245 n (%) | Tacrolimus standard exposure N=241 n (%) | Everolimus with reduced exposure tacrolimus N=245n (%) | Tacrolimus standard exposure N=242n (%) |  |
 | Any adverse reaction/infection | 232 (95) | 229 (95) | 236 (96) | 237 (98) |
 | Blood & lymphatic system disorders | 66 (27) | 47 (20) | 79 (32) | 58 (24) |
 | Leukopenia | 29 (12) | 12 (5) | 31 (13) | 12 (5) |
 | Gastrointestinal disorders | 136 (56) | 121 (50) | 148 (60) | 138 (57) |
 | Diarrhea | 47 (19) | 50 (21) | 59 (24) | 61 (25) |
 | Nausea | 33 (14) | 28 (12) | 36 (15) | 33 (14) |
-| Abdominal pain | 32 (13) | 22 (9) | 37 (15) | 31(13) |
-| General disorders and administration-site conditions | 94 (38) | 85 (35) | 113 (46) | 98 (41) |
+| Abdominal pain | 32 (13) | 22 (9) | 37 (15) | 31 (13) |
+| General disorders and administration site conditions | 94 (38) | 85 (35) | 113 (46) | 98 (41) |
 | Peripheral edema | 43 (18) | 26 (11) | 49 (20) | 31 (13) |
 | Pyrexia | 32 (13) | 25 (10) | 43 (18) | 28 (12) |
 | Fatigue | 22 (9) | 26 (11) | 27 (11) | 28 (12) |
@@ -237,7 +237,7 @@ Within each MedDRA system organ class, the adverse reactions are presented in or
 | Headache | 47 (19) | 46 (19) | 53 (22) | 54 (22) |
 | Tremor | 23 (9) | 29 (12) | 25 (10) | 37 (15) |
 | Insomnia | 14 (6) | 19 (8) | 17 (7) | 24 (10) |
-| Renal and urinary disorder | 49 (20) | 53 (22) | 67 (27) | 73 (30) |
+| Renal and urinary disorders | 49 (20) | 53 (22) | 67 (27) | 73 (30) |
 | Renal failure | 13 (5) | 17 (7) | 24 (10) | 37 (15) |
 | Vascular disorders | 56 (23) | 57 (24) | 72 (29) | 68 (28) |
 | Hypertension | 42 (17) | 38 (16) | 52 (21) | 44 (18) |
@@ -260,7 +260,7 @@ General Disorders and Administrative Site Conditions:chest discomfort, chest pai
 
 Hepatobiliary Disorders:hepatic enzyme increased, bile duct stenosis, bilirubin increased, cholangitis, cholestasis, hepatitis (non-infectious)
 
-Infections and Infestations:BK virus infection [see Warnings and Precautions (5.13)], bacteremia, bronchitis, candidiasis, cellulitis, CMV, folliculitis, gastroenteritis, herpes infections, influenza, lower respiratory tract, nasopharyngitis, onychomycosis, oral candidiasis, oral herpes, osteomyelitis, pneumonia, pyelonephritis, sepsis, sinusitis, tinea pedis, upper respiratory tract infection, urethritis, urinary tract infection, wound infection [see Boxed Warning, Warnings and Precautions (5.3).
+Infections and Infestations:BK virus infection [see Warnings and Precautions (5.13)], bacteremia, bronchitis, candidiasis, cellulitis, CMV, folliculitis, gastroenteritis, herpes infections, influenza, lower respiratory tract, nasopharyngitis, onychomycosis, oral candidiasis, oral herpes, osteomyelitis, pneumonia, pyelonephritis, sepsis, sinusitis, tinea pedis, upper respiratory tract infection, urethritis, urinary tract infection, wound infection [see Boxed Warning, Warnings and Precautions (5.3)].
 
 Injury Poisoning and Procedural Complications:incision site complications, including infections, perinephric collection, seroma, wound dehiscence, incisional hernia, perinephric hematoma, localized intra-abdominal fluid collection, impaired healing, lymophocele, lymphorrhea
 
