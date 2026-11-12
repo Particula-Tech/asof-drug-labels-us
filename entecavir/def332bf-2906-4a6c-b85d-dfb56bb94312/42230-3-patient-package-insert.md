@@ -1,6 +1,6 @@
 # Patient Information
 
-Entecavir Tablets USP (en tek' a vir) Read this Patient Information before you start taking entecavir tablets and each time you get a refill.
+Entecavir (en tek’ a vir) Tablets USP Read this Patient Information before you start taking entecavir tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 What is the most important information I should know about Entecavir Tablets?
@@ -69,11 +69,6 @@ Before you take entecavir tablets, tell your healthcare provider if you:
 - are pregnant or plan to become pregnant.
   It is not known if entecavir tablets will harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
-
-Antiretroviral Pregnancy Registry.
-If you take entecavir tablets while you are pregnant, talk to your healthcare provider about how you can take part in the entecavir tablets Antiretroviral Pregnancy Registry.
-The purpose of the pregnancy registry is to collect information about the health of you and your baby.
-
 - are breastfeeding or plan to breastfeed.
   It is not known if entecavir can pass into your breast milk.
   You and your healthcare provider should decide if you will take entecavir tablets or breastfeed.
@@ -137,5 +132,4 @@ For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in Entecavir Tablets?
 Active ingredient: entecavir Inactive ingredients in entecavir tablets: crospovidone, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 04/2022
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 10/2026

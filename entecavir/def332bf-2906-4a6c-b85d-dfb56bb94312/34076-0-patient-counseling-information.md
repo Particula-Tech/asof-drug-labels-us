@@ -14,4 +14,3 @@ The relationship between response and long-term prevention of outcomes such as h
 Instructions for Use Inform patients using the oral solution to hold the dosing spoon in a vertical position and fill it gradually to the mark corresponding to the prescribed dose.
 Rinsing of the dosing spoon with water is recommended after each daily dose.
 Some patients may find it difficult to accurately measure the prescribed dose using the provided dosing spoon; therefore, patients/caregivers should refer to the steps in the Patient Information section that demonstrate the correct technique of using the provided dosing spoon to measure the prescribed entecavir dose.
-Pregnancy Registry Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to entecavir during pregnancy [see Use in Specific Populations (8.1)].
