@@ -6,7 +6,7 @@ Carcinogenesis: Apixaban was not carcinogenic when administered to mice and rats
 The systemic exposures (AUCs) of unbound apixaban in male and female mice at the highest doses tested (1500 and 3000 mg/kg/day) were 9 and 20 times, respectively, the human exposure of unbound drug at the MRHD of 10 mg/day.
 Systemic exposures of unbound apixaban in male and female rats at the highest dose tested (600 mg/kg/day) were 2 and 4 times, respectively, the human exposure.
 
-Mutagenesis: Apixaban was neither mutagenic in the bacterial reverse mutation (Ames) assay, nor clastogenic in Chinese hamster ovary cells in vitro, in a 1-month in vivo/in vitro cytogenetics study in rat peripheral blood lymphocytes, or in a rat micronucleus study in vivo.
+Mutagenesis: Apixaban was neither mutagenic in the bacterial reverse mutation (Ames) assay, nor clastogenic in Chinese hamster ovary cells in vitro, in a 1‑month in vivo/in vitro cytogenetics study in rat peripheral blood lymphocytes, or in a rat micronucleus study in vivo.
 
 Impairment of Fertility: Apixaban had no effect on fertility in male or female rats when given at doses up to 600 mg/kg/day, a dose resulting in unbound apixaban exposure levels that are 3 and 4 times, respectively, the human exposure.
 

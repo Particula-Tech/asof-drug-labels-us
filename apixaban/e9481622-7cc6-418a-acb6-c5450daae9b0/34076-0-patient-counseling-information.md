@@ -29,3 +29,13 @@ Advise the caregiver or the patient of the following:
   If a child vomits or spits up more than 30 minutes after taking ELIQUIS, do not repeat the dose.
   Continue to give the next ELIQUIS dose at the next scheduled time.
   The caregiver should contact the physician if the child repeatedly vomits or spits up after taking ELIQUIS.
+
+Marketed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
+
+and
+
+Pfizer Inc New York, NY 10001 USA
+
+Rotachrom® is a registered trademark of Diagnostica Stago.
+
+[PRINT CODES]

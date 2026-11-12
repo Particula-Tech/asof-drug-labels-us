@@ -104,7 +104,13 @@ The effects of level of renal impairment, age, body weight, and level of hepatic
 
 Figure 3: Effect of Specific Populations on the Pharmacokinetics of Apixaban
 
-* ESRD subjects treated with intermittent hemodialysis; reported PK findings are following single dose of apixaban posthemodialysis. † Results reflect CrCl of 15 mL/min based on regression analysis. ‡ Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations. § No dose adjustment is recommended for nonvalvular atrial fibrillation patients unless at least 2 of the following patient characteristics (age greater than or equal to 80 years, body weight less than or equal to 60 kg, or serum creatinine greater than or equal to 1.5 mg/dL) are present.
+* ESRD subjects treated with intermittent hemodialysis; reported PK findings are following single dose of apixaban posthemodialysis.
+
+† Results reflect CrCl of 15 mL/min based on regression analysis.
+
+‡ Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations.
+
+§ No dose adjustment is recommended for nonvalvular atrial fibrillation patients unless at least 2 of the following patient characteristics (age greater than or equal to 80 years, body weight less than or equal to 60 kg, or serum creatinine greater than or equal to 1.5 mg/dL) are present.
 
 Gender: A study in healthy subjects comparing the pharmacokinetics in males and females showed no meaningful difference.
 

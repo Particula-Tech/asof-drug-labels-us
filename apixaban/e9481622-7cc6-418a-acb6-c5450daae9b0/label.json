@@ -1,6 +1,7 @@
 {
   "application_numbers": [
-    "NDA202155"
+    "NDA202155",
+    "NDA220073"
   ],
   "inn": "apixaban",
   "labeler": "E.R. Squibb & Sons, L.L.C.",
@@ -12,6 +13,10 @@
     "0003-0894-31",
     "0003-0894-70",
     "0003-0894-91",
+    "0003-0898-28",
+    "0003-1028-12",
+    "0003-1028-28",
+    "0003-1028-84",
     "0003-3764-74"
   ],
   "products": [
@@ -24,6 +29,16 @@
       "form": "TABLET, FILM COATED",
       "generic": "apixaban",
       "name": "ELIQUIS"
+    },
+    {
+      "form": "TABLET, FOR SUSPENSION",
+      "generic": "apixaban",
+      "name": "ELIQUIS"
+    },
+    {
+      "form": "CAPSULE",
+      "generic": "apixaban",
+      "name": "ELIQUIS SPRINKLE"
     }
   ],
   "setid": "e9481622-7cc6-418a-acb6-c5450daae9b0",

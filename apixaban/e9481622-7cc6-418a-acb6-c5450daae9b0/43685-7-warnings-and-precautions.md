@@ -18,8 +18,6 @@ Discontinue ELIQUIS in patients with active pathological hemorrhage.
 
 ### Reversal of Anticoagulant Effect
 
-A specific reversal agent (andexanet alfa) antagonizing the pharmacodynamic effect of apixaban is available for adults.
-However, its safety and efficacy have not been established in pediatric patients (refer to the USPI of andexanet alfa).
 The pharmacodynamic effect of ELIQUIS can be expected to persist for at least 24 hours after the last dose, i.e., for about two drug half-lives.
 Prothrombin complex concentrate (PCC), activated prothrombin complex concentrate or recombinant factor VIIa may be considered, but have not been evaluated in clinical studies [see Clinical Pharmacology (12.2)].
 When PCCs are used, monitoring for the anticoagulation effect of apixaban using a clotting test (PT, INR, or aPTT) or anti-factor Xa (FXa) activity is not useful and is not recommended.
@@ -59,4 +57,4 @@ Initiation of ELIQUIS is not recommended as an alternative to unfractionated hep
 ## 5.6 Increased Risk of Thrombosis in Patients with Triple Positive Antiphospholipid Syndrome
 
 Direct-acting oral anticoagulants (DOACs), including ELIQUIS, are not recommended for use in patients with triple-positive antiphospholipid syndrome (APS).
-For patients with APS (especially those who are triple positive [positive for lupus anticoagulant, anticardiolipin, and anti-beta 2-glycoprotein I antibodies]), treatment with DOACs has been associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.
+For patients with APS (especially those who are triple positive [positive for lupus anticoagulant, anticardiolipin, and anti–beta 2-glycoprotein I antibodies]), treatment with DOACs has been associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.

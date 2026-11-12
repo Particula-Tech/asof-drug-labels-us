@@ -31,7 +31,7 @@ The recommended dose of ELIQUIS is 2.5 mg taken orally twice daily after at leas
 
 ## 2.2 Recommended Dose in Pediatric Patients
 
-Treatment of Venous Thromboembolism (VTE) and Reduction in the Risk of Recurrent VTE in Pediatric Patients
+### Treatment of Venous Thromboembolism (VTE) and Reduction in the Risk of Recurrent VTE in Pediatric Patients
 
 The recommended dose of ELIQUIS is based on the patient’s weight, see Table 1.
 Adjust the dose according to weight-tier as treatment progresses.
@@ -42,7 +42,7 @@ Table 1: Dose Recommendation in Pediatric Patients from Birth to less than 18 Ye
 
 |  |  | Days 1-7 | Days 8 and beyond |
 | --- | --- | --- | --- |
-| Presentation | Body weight(kg) | Dosing schedule | Dosing schedule |
+| Presentation | Body weight (kg) | Dosing schedule | Dosing schedule |
 | Powder in Capsule 0.15 mgFor pediatric use | 2.6 to less than 4 | 0.3 mg twice daily | 0.15 mg twice daily |
 | Tablet 0.5 mgFor pediatric use | 4 to less than 6 | 1 mg twice daily | 0.5 mg twice daily |
 | 6 to less than 9 | 2 mg twice daily | 1 mg twice daily |  |

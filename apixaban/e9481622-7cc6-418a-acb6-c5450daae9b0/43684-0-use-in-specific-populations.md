@@ -12,26 +12,26 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Clinical Considerations
+### Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+#### Disease-associated maternal and/or embryo/fetal risk
 
 Pregnancy confers an increased risk of thromboembolism that is higher for women with underlying thromboembolic disease and certain high-risk pregnancy conditions.
 Published data describe that women with a previous history of venous thrombosis are at high risk for recurrence during pregnancy.
 
-Fetal/Neonatal adverse reactions
+#### Fetal/Neonatal adverse reactions
 
 Use of anticoagulants, including ELIQUIS, may increase the risk of bleeding in the fetus and neonate.
 
-Labor or delivery
+#### Labor or delivery
 
 All patients receiving anticoagulants, including pregnant women, are at risk for bleeding.
 ELIQUIS use during labor or delivery in women who are receiving neuraxial anesthesia may result in epidural or spinal hematomas.
 Consider use of a shorter acting anticoagulant as delivery approaches [see Warnings and Precautions (5.3)].
 
-Data
+### Data
 
-Animal Data
+#### Animal Data
 
 No developmental toxicities were observed when apixaban was administered during organogenesis to rats (orally), rabbits (intravenously) and mice (orally) at unbound apixaban exposure levels 4, 1, and 19 times, respectively, the human exposures at the MRHD.
 There was no evidence of fetal bleeding, although conceptus exposure was confirmed in rats and rabbits.
@@ -40,19 +40,19 @@ There was no evidence of neonatal bleeding.
 
 ## 8.2 Lactation
 
-Risk Summary
+### Risk Summary
 
 There are no data on the presence of apixaban or its metabolites in human milk, the effects on the breastfed child, or the effects on milk production.
 Apixaban and/or its metabolites were present in the milk of rats (see Data).
 Because human exposure through milk is unknown, breastfeeding is not recommended during treatment with ELIQUIS.
 
-Data
+### Data
 
-Animal Data
+#### Animal Data
 
 Maximal plasma concentrations were observed after 30 minutes following a single oral administration of a 5 mg dose to lactating rats.
 Maximal milk concentrations were observed 6 hours after dosing.
-The milk to plasma AUC (0-24) ratio is 30:1 indicating that apixaban can accumulate in milk.
+The milk to plasma AUC(0-24) ratio is 30:1 indicating that apixaban can accumulate in milk.
 The concentrations of apixaban in animal milk does not necessarily predict the concentration of drug in human milk.
 
 ## 8.3 Females and Males of Reproductive Potential
@@ -110,9 +110,7 @@ Table 12: Inadequate renal function by sex and post-natal age in pediatric patie
 | 1 week (males and females) | <8 |
 | 2–8 weeks (males and females) | <12 |
 | >8 weeks to <2 years (males and females) | <22 |
-| Inadequate renal function was defined as <30% of 1 standard deviation (SD) below normal GFR for age and size as |  |
-| determined by the updated Schwartz formula for ages up to 2 years. Beyond 2 years of age, the qualifying GFR for |  |
-| the pediatric VTE study was ≥30 mL/min/1.73m2. |  |
+| Inadequate renal function was defined as <30% of 1 standard deviation (SD) below normal GFR for age and size as determined by the updated Schwartz formula for ages up to 2 years. Beyond 2 years of age, the qualifying GFR for the pediatric VTE study was ≥30 mL/min/1.73m2. |  |
 
 ## 8.7 Hepatic Impairment
 
