@@ -2,15 +2,15 @@
 
 The following serious adverse reactions are discussed elsewhere in labeling:
 
-- Cardiovascular Disorders [see Boxed Warnings and Warnings and Precautions (5.1)]
-- Malignant Neoplasms [see Boxed Warnings and Warnings and Precautions (5.2)]
+- Cardiovascular Disorders [see Boxed Warningsand Warnings and Precautions (5.1)]
+- Malignant Neoplasms [see Boxed Warningsand Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 There were no clinical trials conducted with ESTRADIOL TRANSDERMAL SYSTEM.
-ESTRADIOL TRANSDERMAL SYSTEM is bioequivalent to Vivelle®.
+ESTRADIOL TRANSDERMAL SYSTEM is bioequivalent to Vivelle ®.
 The following adverse reactions are reported with Vivelle therapy:
 
 Table 1: Summary of Most Frequently Reported Adverse Reactions (Vivelle versus Placebo) Regardless of Relationship Reported at a Frequency ≥ 5 Percent
@@ -21,14 +21,14 @@ Table 1: Summary of Most Frequently Reported Adverse Reactions (Vivelle versus P
 | Constipation | 2 (4.3) | 5 (3.8) | 4 (3.9) | 3 (6.5) | 2 (1.5) | 4 (2.5) |
 | Dyspepsia | 4 (8.5) | 12 (9.2) | 3 (2.9) | 2 (4.3) | 0 | 10 (6.4) |
 | Nausea | 2 (4.3) | 8 (6.2) | 4 (3.9) | 0 | 7 (5.3) | 5 (3.2) |
-| General disorders and administration site conditions*** |  |  |  |  |  |  |
+| General disorders and administration site conditions *** |  |  |  |  |  |  |
 | Influenza-like illness | 3 (6.4) | 6 (4.6) | 8 (7.8) | 0 | 3 (2.3) | 10 (6.4) |
-| Pain NOS* | 0 | 8 (6.2) | 0 | 2 (4.3) | 7 (5.3) | 7 (4.5) |
+| Pain NOS * | 0 | 8 (6.2) | 0 | 2 (4.3) | 7 (5.3) | 7 (4.5) |
 | Infections and infestations |  |  |  |  |  |  |
 | Influenza | 4 (8.5) | 4 (3.1) | 6 (5.8) | 0 | 10 (7.6) | 14 (8.9) |
 | Nasopharyngitis | 3 (6.4) | 16 (12.3) | 10 (9.7) | 9 (19.6) | 11 (8.3) | 24 (15.3) |
-| Sinusitis NOS* | 4 (8.5) | 17 (13.1) | 13 (12.6) | 3 (6.5) | 7 (5.3) | 16 (10.2) |
-| Upper respiratory tract infection NOS* | 3 (6.4) | 8 (6.2) | 11 (10.7) | 4 (8.7) | 6 (4.5) | 9 (5.7) |
+| Sinusitis NOS * | 4 (8.5) | 17 (13.1) | 13 (12.6) | 3 (6.5) | 7 (5.3) | 16 (10.2) |
+| Upper respiratory tract infection NOS * | 3 (6.4) | 8 (6.2) | 11 (10.7) | 4 (8.7) | 6 (4.5) | 9 (5.7) |
 | Investigations |  |  |  |  |  |  |
 | Weight increased | 4 (8.5) | 5 (3.8) | 2 (1.9) | 2 (4.3) | 0 | 3 (1.9) |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |  |  |
@@ -37,10 +37,10 @@ Table 1: Summary of Most Frequently Reported Adverse Reactions (Vivelle versus P
 | Neck pain | 3 (6.4) | 4 (3.1) | 4 (3.9) | 0 | 6 (4.5) | 2 (1.3) |
 | Pain in limb | 0 | 10 (7.7) | 7 (6.8) | 2 (4.3) | 6 (4.5) | 9 (5.7) |
 | Nervous system disorders |  |  |  |  |  |  |
-| Headache NOS* | 7 (14.9) | 35 (26.9) | 32 (31.1) | 23 (50.0) | 34 (25.8) | 37 (23.6) |
+| Headache NOS * | 7 (14.9) | 35 (26.9) | 32 (31.1) | 23 (50.0) | 34 (25.8) | 37 (23.6) |
 | Sinus headache | 0 | 12 (9.2) | 5 (4.9) | 5 (10.9) | 2 (1.5) | 8 (5.1) |
 | Psychiatric disorders |  |  |  |  |  |  |
-| Anxiety NEC** | 3 (6.4) | 5 (3.8) | 0 | 0 | 2 (1.5) | 4 (2.5) |
+| Anxiety NEC ** | 3 (6.4) | 5 (3.8) | 0 | 0 | 2 (1.5) | 4 (2.5) |
 | Depression | 5 (10.6) | 4 (3.1) | 7 (6.8) | 0 | 4 (3.0) | 6 (3.8) |
 | Insomnia | 3 (6.4) | 6 (4.6) | 4 (3.9) | 2 (4.3) | 2 (1.5) | 9 (5.7) |
 | Reproductive system and breast disorders |  |  |  |  |  |  |
@@ -50,8 +50,8 @@ Table 1: Summary of Most Frequently Reported Adverse Reactions (Vivelle versus P
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |
 | Sinus congestion | 0 | 4 (3.1) | 3 (2.9) | 3 (6.5) | 6 (4.5) | 7 (4.5) |
 | Vascular disorders |  |  |  |  |  |  |
-| Hot flushes NOS* | 3 (6.4) | 0 | 3 (2.9) | 0 | 0 | 6 (3.8) |
-| Hypertension NOS* | 2 (4.3) | 0 | 3 (2.9) | 0 | 0 | 2 (1.3) |
+| Hot flushes NOS * | 3 (6.4) | 0 | 3 (2.9) | 0 | 0 | 6 (3.8) |
+| Hypertension NOS * | 2 (4.3) | 0 | 3 (2.9) | 0 | 0 | 2 (1.3) |
 | †Represents milligrams of estradiol delivered daily by each system*NOS represents not otherwise specified**NEC represents not elsewhere classified***Application site erythema and application site irritation were observed in 3.2% or less of patients across treatment groups. |  |  |  |  |  |  |
 
 During the clinical pharmacology studies with ESTRADIOL TRANSDERMAL SYSTEM, 35 percent or less of subjects experienced barely perceptible erythema.

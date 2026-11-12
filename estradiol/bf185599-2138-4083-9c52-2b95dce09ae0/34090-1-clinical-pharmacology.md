@@ -25,24 +25,24 @@ Likewise, exposure comparisons across different estrogen products to infer effic
 
 Absorption
 
-In a single-dose, two way-crossover clinical study conducted in 96 healthy, non-smoking postmenopausal women under fed condition, ESTRADIOL TRANSDERMAL SYSTEM (0.1 mg per day) was bioequivalent to Vivelle (0.1 mg per day) based on estradiol exposure (AUC0-84) and estradiol peak concentration (Cmax) following a single-dose on the lower abdomen for 84 hours.
+In a single-dose, two way-crossover clinical study conducted in 96 healthy, non-smoking postmenopausal women under fed condition, ESTRADIOL TRANSDERMAL SYSTEM (0.1 mg per day) was bioequivalent to Vivelle (0.1 mg per day) based on estradiol exposure (AUC 0-84) and estradiol peak concentration (C max) following a single-dose on the lower abdomen for 84 hours.
 
 Estradiol pharmacokinetics were characterized in a separate open-label, single-center, randomized, single-dose, three-way crossover study conducted in 36 healthy, non-smoking postmenopausal women (aged 40 to 65 years).
 ESTRADIOL TRANSDERMAL SYSTEM delivering nominal estradiol of approximately 0.025 mg, 0.05 mg, and 0.1 mg per day were applied to the lower abdomen under fed state in a crossover fashion for 84 hours.
 The mean estradiol pharmacokinetics parameters are summarized in Table 2.
-AUC and Cmax are dose proportional from 0.025 mg to 0.1 mg per day.
+AUC and C maxare dose proportional from 0.025 mg to 0.1 mg per day.
 
 Table 2: Mean (SD) Serum Pharmacokinetic Parameters of Baseline-Uncorrected Estradiol following a Single Dose of ESTRADIOL TRANSDERMAL SYSTEM (N=36)
 
 | Parameter | 0.1 mg/day | 0.05 mg/day | 0.025 mg/day |
 | --- | --- | --- | --- |
-| AUC84 (pg·hr/mL) | 5875 (1857) | 3057 (980) | 1763 (600) |
-| AUC120 (pg·hr/mL) | 6252 (1938) | 3320 (1038) | 1979 (648) |
-| Cmax (pg/mL) | 117 (39.3) | 56.6 (17.6) | 30.3 (11.1) |
-| Tmax (hr)a | 24.0 (8-60) | 24.0 (8-60) | 36.0 (8-84) |
+| AUC 84(pg·hr/mL) | 5875 (1857) | 3057 (980) | 1763 (600) |
+| AUC 120(pg·hr/mL) | 6252 (1938) | 3320 (1038) | 1979 (648) |
+| C max(pg/mL) | 117 (39.3) | 56.6 (17.6) | 30.3 (11.1) |
+| T max(hr) a | 24.0 (8-60) | 24.0 (8-60) | 36.0 (8-84) |
 | aMedian (minimum-maximum) |  |  |  |
 
-Figure 1 illustrates the mean baseline-uncorrected estradiol serum concentrations of ESTRADIOL TRANSDERMAL SYSTEM at three different strengths.
+Figure 1illustrates the mean baseline-uncorrected estradiol serum concentrations of ESTRADIOL TRANSDERMAL SYSTEM at three different strengths.
 
 Figure 1: Mean Baseline-Uncorrected Estradiol Serum Concentration-Time Profiles Following a Single Dose of ESTRADIOL TRANSDERMAL SYSTEM 0.1 mg per day (Treatment A), 0.05 mg per day (Treatment B), and 0.025 mg per day (Treatment C) (N=36)
 
@@ -71,7 +71,7 @@ Adhesion and Adhesive Residue
 
 Based on combined data from bioequivalence and dose proportionality studies consisting of 208 ESTRADIOL TRANSDERMAL SYSTEM observations, approximately 98 percent of the observations had an adhesion score of 0 (i.e., the skin adhesion rate was greater than or equal to 90 percent) over the 84-hour wear period.
 One woman had a complete detachment during the wear period.
-Approximately 65 percent of the transdermal systems evaluated in these studies were with ESTRADIOL TRANSDERMAL SYSTEM 0.1 mg per day (6.6 cm2 active surface area).
+Approximately 65 percent of the transdermal systems evaluated in these studies were with ESTRADIOL TRANSDERMAL SYSTEM 0.1 mg per day (6.6 cm 2active surface area).
 
 After removal of ESTRADIOL TRANSDERMAL SYSTEM, women had either no adhesive residue (score of 0) or light adhesive residue (score of 1).
 No woman had medium adhesive residue.

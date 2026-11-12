@@ -55,7 +55,7 @@ Before you use ESTRADIOL TRANSDERMAL SYSTEM, tell your healthcare provider about
   ESTRADIOL TRANSDERMAL SYSTEM is not for pregnant women.
 - are breast feeding The hormone in ESTRADIOL TRANSDERMAL SYSTEM can pass into your breast milk.
 
-Tell your healthcare provider about all the medicines you take including prescription and over-the-counter medicines, vitamins and herbal supplements.
+Tell your healthcare provider about all the medicines you takeincluding prescription and over-the-counter medicines, vitamins and herbal supplements.
 Some medicines may affect how ESTRADIOL TRANSDERMAL SYSTEM works.
 ESTRADIOL TRANSDERMAL SYSTEM may also affect how your other medicines work.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
@@ -167,4 +167,4 @@ You can ask your healthcare provider or pharmacist for information about ESTRADI
 You can get more information by calling Grove Pharmaceuticals at 1-844-884-6796.
 
 What are the ingredients in ESTRADIOL TRANSDERMAL SYSTEM?
-Active ingredient: estradiol Inactive ingredients: Polyester film backing, acrylic and silicone adhesives, oleyl alcohol, NF, povidone, USP and dipropylene glycol, a polyester release liner, and a polyester release liner
+Active ingredient:estradiol Inactive ingredients:Polyester film backing, acrylic and silicone adhesives, oleyl alcohol, NF, povidone, USP and dipropylene glycol, a polyester release liner, and a polyester release liner

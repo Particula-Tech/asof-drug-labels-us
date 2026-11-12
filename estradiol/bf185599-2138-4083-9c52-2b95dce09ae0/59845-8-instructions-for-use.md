@@ -14,15 +14,14 @@ Step 1: Pick the days you will change your patch.
 
 - You will need to change your patch 2 times a week or every 3 to 4 days.
   Use the calendar printed inside your carton to choose the 2 days you will change your patch (See Figure B).
-- Remember to change your patch on the same 2 days you marked on your calendar.
-  If you forget to change your patch on the correct date, apply a new patch as soon as you remember, and continue to follow your original schedule
+- Remember to change your patch on the same 2 days you marked on your calendar.If you forget to change your patch on the correct date, apply a new patch as soon as you remember, and continue to follow your original schedule
 
 Figure B
 
 Step 2.
 Remove the ESTRADIOL TRANSDERMAL SYSTEM patch from the pouch.
 
-- Remove the patch from its protective pouch by tearing at the notch (do not use scissors, See Figure C).
+- Remove the patch from its protective pouch by tearing at the notch (do notuse scissors, See Figure C).
 - Do not remove your patch from the protective pouch until you are ready to apply it
 
 Figure C
@@ -37,7 +36,7 @@ Placing the patch on your skin.
 
 - Hold the part of the patch that still has the adhesive liner on it
 - Avoid touching the sticky half of the patch with your fingers
-- Apply the exposed sticky half of the patch to 1 of the areas of skin shown below (See Figures E and F)
+- Apply the exposed sticky half of the patch to 1 of the areas of skin shown below (See Figures Eand F)
 
 Note:
 
@@ -57,7 +56,7 @@ Note:
 
 - Showering will not cause your patch to fall off
 - If your patch falls off reapply it.
-  If you cannot reapply the patch, apply a new patch to another area (See Figures D and E) and continue to follow your original placement schedule
+  If you cannot reapply the patch, apply a new patch to another area (See Figures Dand E) and continue to follow your original placement schedule
 - If you stop using your ESTRADIOL TRANSDERMAL SYSTEM patch or forget to apply a new patch as scheduled, you may have spotting, or bleeding, and recurrence of symptoms
 
 Step 6: Throwing away your used patch.
@@ -72,6 +71,6 @@ Distributed by: Grove Pharmaceuticals Miami, FL 33186
 
 Approved 02/2024
 
-Vivelle® is a registered trademark of Novartis Corporation.
+Vivelle ®is a registered trademark of Novartis Corporation.
 
 102631-3

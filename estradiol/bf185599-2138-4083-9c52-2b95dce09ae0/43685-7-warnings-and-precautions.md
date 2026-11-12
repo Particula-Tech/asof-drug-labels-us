@@ -14,23 +14,29 @@ The WHI estrogen-alone substudy reported a statistically significant increased r
 The increase in risk was demonstrated in year 1 and persisted [see Clinical Studies (14.3)].
 Immediately discontinue estrogen-alone therapy if a stroke occurs or is suspected.
 
-Subgroup analyses of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving CE (0.625 mg)-alone versus those receiving placebo (18 versus 21 per 10,000 women-years).1
+Subgroup analyses of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving CE (0.625 mg)-alone versus those receiving placebo (18 versus 21 per 10,000 women-years).
+1
 
 In WHI estrogen plus progestin substudy reported a statistically significant increased risk of stroke in women 50 to 79 years of age receiving CE (0.625 mg) plus MPA (2.5 mg) compared to women in the same age group receiving placebo (33 versus 25 strokes per 10,000 women-years, respectively) [see Clinical Studies (14.3)].
-The increase in risk was demonstrated after the first year and persisted.1 Immediately discontinue estrogen plus progestogen therapy if a stroke occur or is suspected.
+The increase in risk was demonstrated after the first year and persisted.
+1Immediately discontinue estrogen plus progestogen therapy if a stroke occur or is suspected.
 
-Subgroup analyses of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving CE (0.625 mg)-alone versus those receiving placebo (18 versus 21 per 10,000 women-years).1
+Subgroup analyses of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving CE (0.625 mg)-alone versus those receiving placebo (18 versus 21 per 10,000 women-years).
+1
 
 The WHI estrogen plus progestin substudy reported a statistically significant increased risk of stroke in women 50 to 79 years of age receiving CE (0.625 mg) plus MPA (2.5 mg) compared to women in the same age group receiving placebo (33 versus 25 strokes per 10,000 women-years) [see Clinical Studies, (14.3)].
-The increase in risk was demonstrated after the first year and persisted.1 Immediately discontinue estrogen plus progestogen therapy if a stroke occurs or is suspected.
+The increase in risk was demonstrated after the first year and persisted.
+1Immediately discontinue estrogen plus progestogen therapy if a stroke occurs or is suspected.
 
 Coronary Heart Disease
 
 The WHI estrogen-alone substudy reported no overall effect on coronary heart disease (CHD) events (defined as nonfatal MI, silent MI, or CHD death) in women receiving estrogen-alone compared to placebo2 [see Clinical Studies (14.3)].
 
-Subgroup analyses of women 50 to 59 years of age, who were less than 10 years since menopause, suggest a reduction (not statistically significant) of CHD events in those women receiving daily CE(0.625 mg)-alone compared to placebo(8 versus 16 per 10,000 women-years).1
+Subgroup analyses of women 50 to 59 years of age, who were less than 10 years since menopause, suggest a reduction (not statistically significant) of CHD events in those women receiving daily CE(0.625 mg)-alone compared to placebo(8 versus 16 per 10,000 women-years).
+1
 
-The WHI estrogen plus progestin substudy reported an increased risk (not statistically significant) of CHD events reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (41 versus 34 per 10,000 women years).1 An increase in relative risk was demonstrated in year 1, and a trend toward decreasing relative risk was reported in years 2 through 5 [see Clinical Studies (14.3)].
+The WHI estrogen plus progestin substudy reported an increased risk (not statistically significant) of CHD events reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (41 versus 34 per 10,000 women years).
+1An increase in relative risk was demonstrated in year 1, and a trend toward decreasing relative risk was reported in years 2 through 5 [see Clinical Studies (14.3)].
 
 In postmenopausal women with documented heart disease (n = 2,763, average 66.7 years of age), in a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study; HERS), treatment with daily CE (0.625 mg) plus MPA (2.5 mg) demonstrated no cardiovascular benefit.
 During an average follow-up of 4.1 years, treatment with CE plus MPA did not reduce the overall rate of CHD events in postmenopausal women with established CHD.
@@ -47,7 +53,7 @@ Immediately discontinue estrogen-alone therapy if a VTE occurs or is suspected.
 
 The WHI estrogen plus progestin substudy reported a statistically significant 2-fold greater rate of VTE was reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (35 versus 17 per 10,000 women-years).
 Statistically significant increases in risk for both DVT (26 versus 13 per 10,000 women-years) and PE (18 versus 8 per 10,000 women-years) were also demonstrated.
-The increase in VTE risk was demonstrated during the first year and persisted4[see Clinical Studies (14.3)].
+The increase in VTE risk was demonstrated during the first year and persisted 4[see Clinical Studies (14.3)].
 Immediately discontinue estrogen plus progestogen therapy if a VTE occurs or is suspected.
 
 If feasible, discontinue estrogens at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
@@ -96,7 +102,8 @@ Ovarian Cancer
 
 The CE plus MPA substudy of WHI reported that estrogen plus progestin increased the risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for CE plus MPA versus placebo was 1.58 (95 percent CI, 0.77-3.24), but it was not statistically significant.
-The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7
+The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.
+7
 
 A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer.
 The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies.
@@ -110,16 +117,16 @@ In the WHI Memory Study (WHIMS) estrogen-alone ancillary study of WHI, a populat
 
 After an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83-2.66).
-The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years8[see Use in Specific Populations (8.5) and Clinical Studies (14.4)].
+The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years 8[see Use in Specific Populations (8.5) and Clinical Studies (14.4)].
 
 In the WHIMS estrogen plus progestin ancillary study of WHI, a population of 4,532 postmenopausal women 65 to 79 years of age was randomized to daily CE (0.625 mg) plus MPA (2.5 mg) or placebo.
 
 After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21-3.48).
-The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years8[see Use in Specific Populations (8.5) and Clinical Studies (14.4)].
+The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years 8[see Use in Specific Populations (8.5) and Clinical Studies (14.4)].
 
 When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
-Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8 [see Use in Specific Populations (8.5) and Clinical Studies (14.4)].
+Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women 8[see Use in Specific Populations (8.5) and Clinical Studies (14.4)].
 
 ## 5.4 Gallbladder Disease
 

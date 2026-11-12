@@ -22,11 +22,11 @@ Contents: 8 Systems
 
 Rx Only
 
-Each 1.65 cm2 system contains
+Each 1.65 cm 2system contains
 
 0.41 mg of estradiol USP.
 
-Inactive components: acrylic adhesive,
+Inactive components:acrylic adhesive,
 
 silicone adhesive, oleyl alcohol, dipropylene glycol, povidone,
 
@@ -34,7 +34,7 @@ polyolefin laminate backing, polyester release liner.
 
 For Transdermal Use Only
 
-Important: Package not child-resistant.
+Important:Package not child-resistant.
 
 Keep out of reach of children.
 
@@ -46,7 +46,7 @@ Store at 20°C to 25°C (68°F to 77°F).
 
 [See USP Controlled Room Temperature].
 
-Dosage and Administration: Apply twice-weekly.
+Dosage and Administration:Apply twice-weekly.
 See package insert.
 
 Estradiol
@@ -59,7 +59,7 @@ Delivers 0.025 mg/day
 
 N3 68968-3425-8 8
 
-Grove Pharmaceuticals®
+Grove Pharmaceuticals ®
 
 Your Application Schedule
 
@@ -133,11 +133,11 @@ Contents: 8 Systems
 
 Rx Only
 
-Each 2.48 cm2 system contains
+Each 2.48 cm 2system contains
 
 0.62 mg of estradiol USP.
 
-Inactive components: acrylic adhesive,
+Inactive components:acrylic adhesive,
 
 silicone adhesive, oleyl alcohol, dipropylene glycol, povidone,
 
@@ -145,7 +145,7 @@ polyolefin laminate backing, polyester release liner.
 
 For Transdermal Use Only
 
-Important: Package not child-resistant.
+Important:Package not child-resistant.
 
 Keep out of reach of children.
 
@@ -157,7 +157,7 @@ Store at 20°C to 25°C (68°F to 77°F).
 
 [See USP Controlled Room Temperature].
 
-Dosage and Administration: Apply twice-weekly.
+Dosage and Administration:Apply twice-weekly.
 See package insert.
 
 Estradiol
@@ -244,11 +244,11 @@ Contents: 8 Systems
 
 Rx Only
 
-Each 3.3 cm2 system contains
+Each 3.3 cm 2system contains
 
 0.83 mg of estradiol USP.
 
-Inactive components: acrylic adhesive,
+Inactive components:acrylic adhesive,
 
 silicone adhesive, oleyl alcohol, dipropylene glycol, povidone,
 
@@ -256,7 +256,7 @@ polyolefin laminate backing, polyester release liner.
 
 For Transdermal Use Only
 
-Important: Package not child-resistant.
+Important:Package not child-resistant.
 
 Keep out of reach of children.
 
@@ -268,7 +268,7 @@ Store at 20°C to 25°C (68°F to 77°F).
 
 [See USP Controlled Room Temperature].
 
-Dosage and Administration: Apply twice-weekly.
+Dosage and Administration:Apply twice-weekly.
 See package insert.
 
 Estradiol
@@ -355,11 +355,11 @@ Contents: 8 Systems
 
 Rx Only
 
-Each 4.95 cm2 system contains
+Each 4.95 cm 2system contains
 
 1.24 mg of estradiol USP.
 
-Inactive components: acrylic adhesive,
+Inactive components:acrylic adhesive,
 
 silicone adhesive, oleyl alcohol, dipropylene glycol, povidone,
 
@@ -367,7 +367,7 @@ polyolefin laminate backing, polyester release liner.
 
 For Transdermal Use Only
 
-Important: Package not child-resistant.
+Important:Package not child-resistant.
 
 Keep out of reach of children.
 
@@ -379,7 +379,7 @@ Store at 20°C to 25°C (68°F to 77°F).
 
 [See USP Controlled Room Temperature].
 
-Dosage and Administration: Apply twice-weekly.
+Dosage and Administration:Apply twice-weekly.
 See package insert.
 Estradiol
 
@@ -465,11 +465,11 @@ Contents: 8 Systems
 
 Rx Only
 
-Each 6.6 cm2 system contains
+Each 6.6 cm 2system contains
 
 1.65 mg of estradiol USP.
 
-Inactive components: acrylic adhesive,
+Inactive components:acrylic adhesive,
 
 silicone adhesive, oleyl alcohol, dipropylene glycol, povidone,
 
@@ -477,7 +477,7 @@ polyolefin laminate backing, polyester release liner.
 
 For Transdermal Use Only
 
-Important: Package not child-resistant.
+Important:Package not child-resistant.
 
 Keep out of reach of children.
 
@@ -489,7 +489,7 @@ Store at 20°C to 25°C (68°F to 77°F).
 
 [See USP Controlled Room Temperature].
 
-Dosage and Administration: Apply twice-weekly.
+Dosage and Administration:Apply twice-weekly.
 See package insert.
 Estradiol
 
