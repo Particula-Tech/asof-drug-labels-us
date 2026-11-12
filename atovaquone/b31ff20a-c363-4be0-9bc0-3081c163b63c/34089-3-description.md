@@ -8,4 +8,4 @@ The compound has the following structural formula:
 
 Atovaquone oral suspension, USP is a formulation of micro-fine particles of atovaquone, USP.
 
-Each 5 mL of atovaquone oral suspension, USP contains 750 mg of atovaquone and the inactive ingredients benzyl alcohol, flavor natural citrus, poloxamer 188, purified water, saccharin sodium, and xanthan gum.
+Each 5 mL of atovaquone oral suspension, USP contains 750 mg of atovaquone and the inactive ingredients benzyl alcohol, sweet citrus flavor, poloxamer 188, purified water, saccharin sodium, and xanthan gum.
