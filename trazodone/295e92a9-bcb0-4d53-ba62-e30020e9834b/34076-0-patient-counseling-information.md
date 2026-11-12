@@ -37,8 +37,5 @@ Advise patients to inform their health care providers if they are taking, or pla
 Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with Trazodone Hydrochloride Tablets.
-Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Trazodone Hydrochloride Tablets during pregnancy [see Use in Special Populations (8.1)].
 
-Dispense with Medication Guide available at www.aurobindousa.com/medication-guides
-
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 04/2025 Dispense with Medication Guide available at www.aurobindousa.com/medication-guides
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 09/2026

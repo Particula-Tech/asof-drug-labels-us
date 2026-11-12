@@ -2,11 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405- 6185 or visiting online at https://womensmentalhealth.org/clinical-and-research programs/pregnancy registry/antidepressants/
-
 Risk Summary
 
 Published prospective cohort studies, case series, and case reports over several decades with Trazodone Hydrochloride Tablets use in pregnant women have not identified any drug-associated risks of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
